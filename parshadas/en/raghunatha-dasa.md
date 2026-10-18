@@ -441,6 +441,209 @@ longer speak, his tongue barely moved, tears flowed from his eyes, and his mind 
 Krishna. He prayed: “O Radhavallabha, friend of Gandharvika, Radhika-ramana, Radha-natha, lord of Vrindavana, Krishna,
 Damodara — make me Your own.” <!-- F80 F77 -->
 
+## Writings
+Narahari Chakravarti in the “Bhakti-ratnakara” lists the books of Raghunatha Dasa:
+
+“Raghunatha Dasa Gosvami has three books: the ‘Stava-mala,’ which is called the ‘Stavavali,’ and the sweet
+‘Dana-charita’ and ‘Mukta-charita,’ on hearing which great sorrows go away. Thus it is said: ‘Among the works of the one
+named Raghunatha, who became the friend of those two, the Stava-mala and the Dana- and Mukta-charita are known.’”
+(BR 1.830–832) <!-- F25 Q6 F112 -->
+
+### The “Stavavali”
+The “Stavavali” is a collection of twenty-nine stotras. First in it stand two hymns to Mahaprabhu. In the
+“Shachisunu-ashtaka” Raghunatha, describing after Svarupa's kadcha the chief reason for Gaura's descent and His pastimes
+in Nilachala, longs in separation to see once more Gaurasundara, adorned with the feeling and the radiance of Radha.
+The “Gauranga-stava-kalpataru” consists of eleven verses on the Lord's last pastimes in Nilachala and a twelfth, the
+verse of fruit. <!-- F26 F27 F28 -->
+
+The “Manah-shiksha,” “Instruction to the Mind,” has eleven verses and a verse of fruit.[^8] For all who seek exclusive
+hari-bhajana, and especially for those who follow the way of thought of Rupa and Raghunatha, it is a text for daily
+reading and worship. The Rupanugas are initiated into its teaching: to drink the fivefold nectar — worship, the holy
+name, meditation, hearing and obeisances — of Gandharvika and Giridhari, and to honour Sanatana, Rupa and Govardhana. The
+verse of fruit promises that whoever sings these verses, following Sri Rupa together with his companions, will obtain
+in Vrindavana the priceless treasure of service to the Divine Couple. <!-- F29 Q8 -->
+
+The Baharampur edition of the “Stavavali” prints the commentary “Kashika” by Bangeshvara Vidyabhushana. Commenting on
+the “Manah-shiksha,” he called “new” the idea that without following Rupa one cannot attain Radha and Krishna. The
+biographers consider this heresy: because of a grave offence the author failed to understand Raghunatha. This is not
+Baladeva Vidyabhushana, the disciple of Vishvanatha Chakravarti, but another Vidyabhushana. He calls himself a recipient
+of the mercy of Madhusudana, a descendant of Srinivasa Acharya; his guru he names at the beginning of the book
+“Vrindavanachandra Shabda-vidyarnava” and at the end “Tarkalankara”; he wrote in 1644 Shaka; his other name is
+Bangavihari Vidyabhushana. Srila Bhaktivinoda Thakura, for his part, wrote on the “Manah-shiksha” the commentary
+“Bhajana-darpana” and a verse rendering. <!-- F30 F31 -->
+
+The other stotras of the collection are devoted to Govardhana, Radha-kunda, Vraja, Radha and Krishna.
+
+The “Prarthana,” “Supplication,” in four verses asks for service to Radha and Govinda, remembering Them under the
+guidance of a sakhi; another “Prarthana,” also of four verses, is addressed to Radhika, to Krishna, whose body is the
+very joy of union, and to the sakhis. <!-- F32 F41 -->
+
+The “Govardhanashraya-dashaka” is ten verses on the glory of Giriraja, the friend of Gokula, in whom everyone should take
+shelter; the eleventh verse is the fruit: this stotra, which grants residence by Govardhana, has come forth “even from
+the mouth of this blind old man.” The “Govardhana-vasa-prarthana-dashaka” glorifies Govardhana as the place of Radha and
+Govinda's pastimes and begs for residence near him; its last verse is quoted above. <!-- F33 F34 Q9 -->
+
+In the “Radha-kundashtaka” the eternal servant of Radha says: as Radha is first among Hari's beloveds, so Her pond, not
+different from Her, is first among holy places; he describes the pond of his mistress and begs for shelter by it.
+<!-- F35 -->
+
+The “Vraja-vilasa-stava” is one hundred and six verses on the places, times and persons of the Vraja-lila, the essence
+of the pastimes according to the “Bhagavatam” and the Puranas. In two opening verses Raghunatha prays that the warriors
+of Agha's Enemy — Rupa, Sanatana and the other devotees — may free him from the ropes of the thirst for honour with
+which the robber-passions have bound him: “I am old, burnt by the forest-fire of old age, bitten by the serpent of
+blindness, surrounded by the lions of anger — give me the nectar of love.” In the conclusion he repeats the thought
+expressed in the “Sva-niyama-dashaka” as well: not to live a moment in any other city of Achyuta, even bathing in an ocean
+of love among His devotees, but to live in Vraja, conversing with any of its dwellers; and may his attachment be to the
+feet of Radha, whom Rupa-manjari honours and who by Her love has bound Krishna to Herself. To those who read this stotra
+the sight of the Divine Couple with Their companions is promised. <!-- F36 F37 Q10 -->
+
+The “Vilapa-kusumanjali,” “A Handful of Flowers of Lament,” is one hundred and four verses. Scorched by the unearthly fire
+of separation, Raghunatha offers these flowers of weeping to Gandharvika and Giridhari; in them one sees his natural,
+deep anuraga, wholly turned towards Radha, the ashraya-vigraha, the abode of love. The verses of the mangalacharana melt
+even hearts of stone. He takes shelter of his guru Yadunandana, the beloved of Yadunandana-Krishna, who himself anointed
+him with the nectar of mercy; of Sanatana, the ocean of mercy, grieving at the grief of others, who with effort made him
+drink — blind and unwilling as he was — the rasa of bhakti with renunciation; and he worships the Lord:
+
+“He who, an ocean of deep compassion, by nature free, at once with ropes of mercy drew me out of the waterless great
+well of household life, from which there is no escape and whose toil is endless, and, Himself bringing me to the edge of
+His feet that put the lotus to shame, gave me over to Sri Damodara — Him, Chaitanya-chandra, I worship.”
+(“Vilapa-kusumanjali,” 5)
+
+And then he speaks of himself: on the slope of Govardhana a certain maidservant, burning with separation, weeps for a
+moment in these verses. <!-- F38 F39 Q11 -->
+
+The “Prema-purabhidha-stotra” in ten verses prays that Vrishabhanu-nandini, who fulfils the desires of the unearthly
+Cupid, Krishna, may gladden his eyes with Her pastimes. <!-- F40 -->
+
+The “Sva-niyama-dashaka,” “Ten Verses on My Vows,” speaks of the unchanging rules of his bhajana: always to live in Vraja,
+sustaining life with what is born in Vraja; with like-minded Rupanugas to hold to the feet of Vrishabhanu-nandini alone;
+following his dear Rupa, to serve each day as the heart bids. The eleventh verse is the fruit. These verses reveal his
+unearthly, eternally perfect attachment (rati). The first verse reads:
+
+“May my highest attachment be to the guru, to the mantra, to the Name, to the feet of the best of Lords, born of Shachi's
+womb, to Svarupa, to Sri Rupa with his companions and to his elder brother, to the king of hills, to the lake of
+Gandharva, to Madhupuri, to the forests of Vraja, to Vraja, to the devotee, and to the dwellers of Gokula.”
+(“Sva-niyama-dashaka,” 1)
+
+In the second verse he vows not to live for a moment in any other holy place, even beside the Deity of Hari and tasting
+rasa in the company of good people — but to live in Vraja in every birth, even if making village talk with simple folk.
+In the third he vows never for a moment to approach the impure place of the deceiver who, for show of piety, worships
+Govinda alone, rejecting Gandharva, praised by the Vedas and by Narada. <!-- F42 F19 F21 F22 F23 Q5 -->
+
+Several stotras are addressed to Radha Herself. The “Radhika-ashtottara-shata-nama-stotra” is the hundred and eight names
+of Radhika, whose pastimes are for Krishna's joy, in forty-six verses and a verse of fruit; according to the
+mangalacharana, a maidservant, not seeing her mistress, fell on the bank of Her pond and with weeping sang these names.
+The “Radhikashtaka” is eight verses on the glory of Vrishabhanu-nandini and a prayer for service; the ninth, the verse
+of fruit, says: whoever reads it with a pure heart, having given up desires, the son of the king of cowherds, pleased,
+counts among his own. <!-- F43 Q12 F44 Q17 -->
+
+The “Premambhoja-maranda,” the “king of stotras,” is twelve verses and a verse of fruit on the form and qualities of
+Vrishabhanu-nandini, filled with Krishna. In the last two verses Raghunatha, a straw between his teeth, prays: “Revive me
+with the nectar of service; the merciful do not abandon even the wicked who have come under their protection — do not
+forsake me, Gandharvika!” Krishnadasa Kaviraja relied on this stotra in describing Radha's form (CC, Madhya 8.165–181).
+<!-- F45 Q13 -->
+
+The “Sva-sankalpa-prakasha-stotra” is twenty verses on his resolve to serve Krishna's joy, and a twenty-first with the
+wish that by the mercy of the sakhis all this may come true. The first verse — “Without worshipping the dust of Radha's
+feet… how can one plunge into the rasa of the dark ocean?” — Srila Bhaktivinoda rendered into Bengali verse.
+<!-- F46 Q14 -->
+
+The “Radha-krishnojjvala-kusuma-keli” is forty-three verses on a lovers' quarrel between Radha's friends and Krishna, a
+contest of wit. In the forty-fourth Raghunatha says: may the dust of Rupa's feet be my only shelter — by its power the bee
+of my words, blind and slow as I am, has touched this honey. <!-- F47 Q15 -->
+
+The “Prarthanamrita” is twenty verses: a cherished prayer, praise of Radha and Govinda and words to the sakhis about
+their mistress. Already in the mangalacharana he asks to live in Vraja for countless births with one thirst — to serve
+the feet of Rupa-manjari and Rati-manjari. <!-- F48 Q16 -->
+
+The “Navashtaka” sings of Radha's name, form, qualities, companions and pastimes and calls the mind to worship Her; its
+ninth verse, the fruit, says that whoever reads it prostrate, with faltering voice, will water in Vrindavana the
+creeper Radha, around whom the bee Mukunda circles. The “Gopala-raja-stotra” is fourteen verses on Gopala, who strolls
+on Govardhana, and a fifteenth, the fruit. The “Madana-gopala-stotra” is twenty-one verses on the pastimes and greatness
+of Madana-gopala; whoever reads it, says the verse of fruit, will give up attachment to the sensual, which leads to
+Yama, and gain attachment to His feet. <!-- F49 F50 F51 Q17 -->
+
+The “Vishakhananda-abhidha-stotra” is one hundred and thirty-one verses in praise of Radha, who gives joy to Vishakha.
+The first verse is addressed to Vishakha, who in feeling, name and qualities is like Radhika Herself; at the end Radha is
+called the only shelter, and the Rupanugas are invited to taste these verses. The “Mukundashtaka” is eight verses on
+Mukunda, the lord of Radha's life, and a verse of fruit. The “Utkantha-dashaka” sings of Radha's pastimes with Krishna and
+the longing to serve Her, and the “Nava-yuva-dvandva-didrikshashtaka” of the longing to see the youthful Couple in Vraja.
+In the “Abhishta-prarthanashtaka” he asks Radha, dear to Vishakha, for the service he longs for, and by Radha-kunda begs
+to see Lalita, in whose heart Radha ever dwells. The “Dana-nivartana-kundashtaka” glorifies the greatness and beauty of
+Dana-nivartana-kunda and begs for residence by it; the verse of fruit promises that the reader will settle there for
+ever and in time will see the dana-lila of Radha and Krishna. <!-- F52 F53 F54 F55 F56 Q17 -->
+
+In the “Prarthanashraya-chaturdashaka,” in fourteen verses, Raghunatha, faint with thirst for service and with
+separation, in unearthly feeling calls on Rupa-manjari to console him, tells of the merriment of Dipavali and asks to be
+allowed to live by his mistress's pond. And then, not seeing her, he weeps: “He who was my life ever sprinkled me with the
+foam of the ocean of love — to whom shall I go now? Without him Vraja is empty, Govardhana is like a python, the kunda is
+a tiger's jaws.” And he asks only to live by the kunda, eating the yogurt and fruits of Vraja and singing of Radha and
+Krishna. <!-- F57 Q18 -->
+
+The “Abhishta-suchana” is thirteen verses in which Raghunatha, in separation from service to Radha, begs for it, wholly
+attached to the feet of Rupa. The first verse: may the wild horse of my mind be mounted by the rider — the desire to
+serve the beloved of Nanda's son — who sits on the pure horse of Sri Rupa's thought. In this stotra is an inimitable
+madness of separation: “You, does, drink with your eyes the face of Krishna, but I, a dog in Vraja, have not seen Him for
+a moment, having ruined myself with care for my belly”; “Tongue, drink the names of Radha and Krishna”; “By the power of
+serving the dust of Rupa's feet I, wretched, live by Giriraja and Gandharva-kunda, fed by his intimates, singing the names
+of Mukunda; may Rupa protect me once more.” And to the Lord:
+
+“O Chaitanya-chandra, open the lily of my heart and make it delightful with the play of bees — the remembrance of You;
+and, dispelling the dense darkness of my offences, O Merciful One, give me, a wretch, the nectar of Your feet to drink.”
+(“Abhishta-suchana,” 11) <!-- F58 F59 Q19 -->
+
+### The “Dana-charita”
+The “Dana-charita” named in the “Bhakti-ratnakara” is identified by many with the “Dana-keli-chintamani”; by another
+opinion, the author of the “Bhakti-ratnakara” in his Sanskrit verse joined the titles “Dana-keli-chintamani” and
+“Mukta-charita” into one word — “dana-mukta-charitam.” Rajendralal Mitra in the “Notices of Sanskrit Manuscripts” and the
+catalogue of manuscripts of the Sanskrit College in Calcutta (1908) ascribe the “Dana-keli-chintamani” to Krishna
+Chaitanya, while Aufrecht in the “Catalogus Catalogorum” merely names the book and its subject. <!-- F60 F61 -->
+
+The “Dana-keli-chintamani” tells of the dana-lila of Radha and Madhava — of how Krishna demanded a “toll” from the gopis.
+The listener is Kundalata, the wife of Subhadra, the eldest son of Upananda — Nanda's brother and counsellor — and the
+narrator is her friend Sumukhi. It was written following Rupa's bhanika “Dana-keli-kaumudi.” In the introduction
+Raghunatha says: “Though I am blind, by the power of the dust of Rupa's feet I gather this jewel of a new toll-pastime”;
+in the conclusion — that he found this book on the hill of Govardhana; he asks Rupa's intimates to look upon it and, a
+straw between his teeth, prays to be the dust of Rupa's feet in every birth. <!-- F62 Q20 -->
+
+The Lord's name does not appear in it, just as it does not appear in the “Dana-keli-kaumudi,” and one may ask whether it
+was not written before Raghunatha came to Mahaprabhu. But the biographers answer: where Rupa is glorified, his master
+Gaurasundara is glorified too. Moreover, the “Dana-keli-kaumudi” was written in 1471 Shaka, so the “Chintamani” is a
+little later; and Rupa himself said that he wrote his bhanika for Raghunatha Dasa. <!-- F63 I4 -->
+
+### The “Mukta-charita”
+In the “Mukta-charita” Krishna tells Satyabhama of the pastimes of Vraja, beginning with how He planted pearls; Samanjasa,
+a friend of Queen Lakshmana, overheard the story and retold it to Lakshmana. In the mangalacharana Raghunatha bows to the
+son of the king of cowherds, praises Radha and Madhava, who play at buying and selling pearls, and Chaitanya-chandra,
+born of Shachi; he honours the guru by whose mercy he obtained the best Name, the mantra, the son of Shachi, Svarupa,
+Rupa and his elder brother, Mathura, Goshtha, Radha-kunda, Govardhana and the hope of serving Radha and Madhava — and
+promises to unfold for connoisseurs of rasa a wave of the nectar of Hari's pastimes. <!-- F64 Q21 -->
+
+In the conclusion he says that he wrote the book at Jiva's wish, following Rupa's instruction, and that only devotees who
+follow Rupa are entitled to read it: “By the nectar of the command of him who awakened my mind, following Rupa's
+instruction, I have woven this bouquet; may the bees of the eyes of Jiva, my only life, adorn it.” May Rupa's intimates
+wear this bouquet in secret; and he himself asks to be the dust of Rupa's feet in every birth and in every birth to have
+in Vraja the company of Krishnadasa Kavi — Kaviraja — by the power of whose company, he humbly admits, the book was
+written. <!-- F65 Q22 -->
+
+### Other Works and Attributions
+Aufrecht also lists among his works the “Guna-lesha-sukhada” and the “Stavavali”; he also mentions a “Sri Raghunatha
+Dasa” in Rupa's “Dana-keli-kaumudi,” but whether this is the same Raghunatha Dasa is unknown. The “Upadeshamrita” and the
+“Gaura-sahasranama” are sometimes ascribed to Raghunatha Dasa. <!-- F66 F136 -->
+
+In Rupa's “Padyavali” three verses stand under his name: 131, on the infant Krishna; 212, “Messenger-friend, prepare a
+bed of leaves”; and 331, on separation from Krishna, gone to the city of the king (Mathura). It is said that these verses
+are not found in his three books. The manuscripts differ: verse 212 is ascribed to Rupa by a Deccan College manuscript,
+and to Raghunatha Dasa by a manuscript of the Bangiya Sahitya Parishad, two manuscripts of Dhaka University, the
+Baharampur edition of Ramanarayana Vidyaratna and the edition of Atulakrishna Gosvami. Verse 331 is given to Raghunatha
+Dasa by the Dhaka edition, to “Hari” by the Parishad manuscript, without a name by two Dhaka manuscripts, to “Ranga” by
+Ramanarayana's edition, and to “a certain poet” by the Deccan College manuscript and Atulakrishna's edition.
+<!-- F67 F68 Q23 -->
+
+In the “Pada-kalpataru” of Vaishnava Dasa three Bengali songs stand under his name: a praise of Jayadeva, beloved of
+Padmavati and author of the “Gita-govinda,” whose abode is Kendubilva; a praise of Radha; and an arati of Madana-gopala.
+<!-- F69 -->
+
 [^1]: ⚠ One biography names Sri Gopinatha of Vrindavana as Raghunatha Dasa's Deity (beside Sanatana's Madana-mohana and
     Rupa's Govinda). Gopinatha, however, is usually held to be the Deity of Madhu Pandita.
 [^2]: According to another biography, Raghunatha Dasa appeared about 1494 and departed in 1586.
@@ -453,4 +656,4 @@ Damodara — make me Your own.” <!-- F80 F77 -->
 [^6]: According to the three old records mentioned above, Raghunatha lived nineteen years at home, eight in Nilachala
     and forty-nine in Vraja, at Radha-kunda.
 [^7]: According to local tradition, Kaviraja received initiation from Nityananda.
-
+[^8]: One of the biographies speaks now of eleven, now of twelve verses (counting the last, the verse of fruit).
