@@ -1139,17 +1139,11 @@ Jiva, having studied the scriptures in Kashi under Madhusudana Vachaspati, came 
 and Sanatana and studied under them the whole “Bhagavata” and the scriptures on bhakti; both gurus entrusted him with
 revising their works. <!-- F284 -->
 
-The “Bhakti-ratnakara” (5th wave) tells of “Rupa's mercy to Jiva.” On a hot summer day, when Rupa was writing the
-“Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested
-correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of
-his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently
-reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went
-not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's
-forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his
-brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing.
-<!-- F285 F286 F287 -->
+How Rupa supposedly sent Jiva away for a debate with a scholar and forgave him only at Sanatana's intercession is told in
+different ways; Srila Bhaktisiddhanta and one of the biographies regard such stories as a fabrication of the sahajiyas
+(see the article on Jiva Gosvami).[^jiva-br] <!-- F285 F286 F287 -->
 
-Another incident is also told. A certain digvijayi, thirsting for worldly fame, obtained from Rupa and Sanatana a written
+The incident itself, according to Srila Bhaktisiddhanta, was this. A certain digvijayi, thirsting for worldly fame, obtained from Rupa and Sanatana a written
 acknowledgement of victory (jaya-patra): Jiva's gurus yielded to him without debate. The proud man began to revile them as
 ignoramuses and demanded the same from their disciple; Jiva engaged him in debate, defeated him and silenced the reviler
 of his gurus (Srila Bhaktisiddhanta Sarasvati, “Anubhashya” on CC, Adi 10.85). Thus Jiva showed what a true disciple should
@@ -1223,7 +1217,7 @@ Kashishvara and Raghunatha Bhatta had already disappeared, while Raghunatha Dasa
 According to the “Nava-padya” of Nrisimha Kaviraja, Rupa and the others headed by Sanatana said to Srinivasa in a dream:
 “This is no time to grieve: Gopala Bhatta is here; receive the mantra from him and our books, go to Gauda and preach.”[^54]
 Jiva entrusted Srinivasa, Narottama and Shyamananda with taking to Gauda the books of Rupa and Sanatana, and also of
-Raghunatha Dasa, Gopala Bhatta and others. And when the robber-king of Vana-Vishnupura, Bira Hambira, opened the stolen chest
+Raghunatha Dasa, Gopala Bhatta and others. And when the robber-king of Vana-Vishnupura, Vira Hambira, opened the stolen chest
 of the Gosvamis' books, he saw on a palm leaf the name “Sri Rupa Gosvami” — and at the mere sight of Rupa's flawlessly
 beautiful handwriting the sins of his whole long life flew away, his heart was purified, and krishna-prema awoke in it.
 <!-- F310 F311 F312 F313 Q80 -->
@@ -2291,3 +2285,5 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     Vedic recitation), but that would give 1431 Shaka (1509), when Raghunatha was three years old.
 [^62]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
     whom Ramananda is non-different.
+
+[^jiva-br]: So the “Bhakti-ratnakara” (5th wave) tells of “Rupa's mercy to Jiva”: on a hot summer day, when Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing. Only the “Bhakti-ratnakara” (and one biography following it) gives this story; Srila Bhaktisiddhanta rejects the interpretation that Rupa cast Jiva off.
