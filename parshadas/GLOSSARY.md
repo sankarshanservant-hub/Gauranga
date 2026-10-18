@@ -457,3 +457,20 @@
 | “Шьямананда-шатака”; “Бхакта-бхагаваташтака”; “Кунджакели-двадашака” | “Shyamananda-shataka”; “Bhakta-bhagavatashtaka”; “Kunjakeli-dvadashaka” | сочинения Расикананды |
 | “Астикья-даршана” | “Astikya-darshana” | книга Вишвамбхарананды Девы Госвами |
 | «тёмные периоды» бенгальского вайшнавизма | “dark periods” of Bengal Vaishnavism | периодизация одного из жизнеописаний |
+| Шрила Бхакти Даита Мадхава Госвами Махарадж; Шрила Мадхава Махарадж; Хаягрива дас брахмачари; Херамба Кумар Бандьопадхьяя | Srila Bhakti Dayita Madhava Goswami Maharaj; Srila Madhava Maharaj; Hayagriva Dasa Brahmachari; Heramba Kumar Bandyopadhyaya | @bhakti-dayita-madhava; имена — как в карточке (Goswami, Maharaj) |
+| Шри Чайтанья Гаудия Матх; Шри Чайтанья Матх; Гаудия-матх (Ултаданга, Багбазар, Мадрас-Гаудия-матх) | Sri Chaitanya Gaudiya Math; Sri Chaitanya Math; Gaudiya Math (Ultadanga, Bagbazar, Madras Gaudiya Math) | названия учреждений; отдельные матхи — через дефис: Шьямананда-Гаудия-матх / Shyamananda Gaudiya Math |
+| Ишодьян | Ishodyan | главный матх Шри Чайтанья Гаудия Матха в Майяпуре |
+| Канчанпара; Бхаракар (Бикрампур) | Kanchanpara; Bharakar (Bikrampur) | родина Бхакти Даиты Мадхавы (Фаридпур) и село рода его отца (Дакка) |
+| Сарбхог; Гоалпара; Хаули; Барпета; Бхаванипур-Тапу | Sarbhog; Goalpara; Hauli; Barpeta; Bhavanipur-Tapu | места проповеди в Ассаме |
+| Уттхана-экадаши | Utthana Ekadashi | экадаши месяца Дамодара, пробуждение Вишну |
+| Пхалгуна-пурнима; Гаура-пурнима | Phalguna Purnima; Gaura Purnima | день явления Махапрабху |
+| вартма-прадаршака-гуру | vartma-pradarshaka-guru | тот, кто первым указал путь |
+| шикша-гуру | shiksha-guru | наставляющий гуру |
+| шри-виграха | sri-vigraha | облик Господа в Божестве (не «идол») |
+| веда-дрик | veda-drik | «ведическое зрение» |
+| юкта-вайрагья | yukta-vairagya | отречение через служение |
+| «Шри Чайтанья Вани» | “Sri Chaitanya Vani” | ежемесячник Шри Чайтанья Гаудия Матха (1961) |
+| Вишва-вайшнава-раджа-сабха | Vishva-vaishnava-raja-sabha | общество, основанное Бхактисиддхантой |
+| Бхакти Гаурава Вайкханаса Махарадж; Бхакти Прасун Бодхаян Махарадж; Бхакти Хридой Бон Махарадж; Бхакти Промод Пури Махарадж; Бхакти Валлабха Тиртха Махарадж | Bhakti Gaurava Vaikhanasa Maharaj; Bhakti Prasun Bodhayan Maharaj; Bhakti Hridaya Bon Maharaj; Bhakti Pramoda Puri Maharaj; Bhakti Ballabha Tirtha Maharaj | ученики Бхактисиддханты и Бхакти Даиты Мадхавы (XX в.) |
+| Ч. В. Раман; Панчанан Таркаратна; Гопинатх Бардолаи | C. V. Raman; Panchanan Tarkaratna; Gopinath Bardoloi | собеседники Бхакти Даиты Мадхавы |
+| Рам-дхун | Ram-dhun | киртан Ганди |
