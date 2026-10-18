@@ -1,0 +1,109 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/rasikananda.md и lila-db.
+id: "@rasikananda"
+names:
+  ru: "Расикананда Дева Госвами"
+  en: "Rasikananda Deva Gosvami"
+  variants: ["Расика-Мурари", "Мурари", "Мурари Дас", "Расика"]
+  facts: [F2, F3, F4, Q2]
+kind: acharya
+circle: [later]
+period: [P15]
+period_note: "Всё — после сокрытия Господа (P15): T и M — род. 1590, ум. 1652. События lila-db (Шьямананда в Уткале, Кхетури) — по ПВ/НВ/БР; их датировка с годом рождения 1590 не сходится (F57)."
+sampradaya: {name: "линия Нитьянанды: Гауридас Пандит → Хридая Чайтанья → Шьямананда → Расикананда", facts: [F25, F51]}
+life:
+  appearance:
+    year: 1590
+    place: "#rohini-rayani"
+    tithi: "18 картика, ночь Дивали (M); в нашем календаре дня явления нет"
+    conf: "год — T (1512 Шака) и M согласны; место — T, M; B называет Раньяни столицей отца"
+    facts: [F5, F6]
+  disappearance:
+    year: 1652
+    place: "#remuna"
+    tithi: "Гаура-пратипад месяца Говинды (через день после Шиваратри) — по нашему календарю"
+    conf: "год — T (по скану) и M (1578 Шака — расчёт M не сходится); T: праздник в Шива-чатурдаши Магхи, 12 дней в Ремуне"
+    facts: [F42, F43, F44, F46]
+  samadhi:
+    - {place: "#remuna", kind: "пушпа-самадхи во дворе храма Кхирачора-Гопинатхи, с семью учениками", facts: [F45]}
+origin:
+  places: ["#rohini-rayani", "#medinipur", "#suvarnarekha"]
+  facts: [F6, F7, F8, F9, F11, F12]
+  note: "Сын раджи Ачьютананды (каран) и Бхавани Деви (T); единственный сын (M)."
+relations:
+  - {type: guru, who: "@shyamananda", facts: [F1, F16, F17, F18, F19, F20, F21, F22, F23, F24, F25, F27, F39],
+     events: [ev-shyamananda-utkala, ev-narottama-shyamananda-nrisimhapura],
+     note: "Главный ученик; встреча — в Гхантшиле (T, B) или в Рохини (M); посвящён в мантру Радхи-Кришны (с женой — M)."}
+  - {type: father, who: "@achyutananda-rayani", facts: [F7, F8, F9, F11]}
+  - {type: deity-served, who: "@govinda-gopivallabhapura", facts: [F28, F29, F30],
+     note: "Служение вверено Шьяманандой: при установлении (M, B) или при уходе Шьямананды (T 215)."}
+  - {type: other, who: "@gopala-remuna", facts: [F44, F45], note: "Вошёл в храм Кхирачора-Гопинатхи и ушёл у Его стоп; там пушпа-самадхи."}
+  - {type: son, who: "@radhananda-gopivallabhapura", facts: [F48, F49]}
+  - {type: relative, who: "@nayanananda-gopivallabhapura", facts: [F49, F51], note: "Внук (B); преемник в линии (T 221)."}
+  - {type: lineage-successor, who: "@radha-damodara-gosvami", facts: [F51, F52], note: "M: прямой ученик Расикананды; T, B: ученик Наянананды."}
+  - {type: lineage-successor, who: "@baladeva-vidyabhushana", facts: [F41, F51, F52], note: "Баладева — в его линии; комментарий на «Шьямананда-шатаку»."}
+  - {type: disciple, who: "@vaidyanatha-bhanja", facts: [F38]}
+  - {type: co-worker, who: "@damodara-yogi", facts: [F26, F31], event: ev-shyamananda-utkala, note: "Посвящён Шьяманандой в Раньяни (B) / Рохини (M); праздник в Дхаренде (T)."}
+  - {type: lineage-predecessor, who: "@hridaya-chaitanya", facts: [F25, F51]}
+  - {type: lineage-predecessor, who: "@gauridasa-pandita", facts: [F51]}
+  - {type: other, who: "@jiva-gosvami", facts: [F25, F53], event: ev-books-leave-vrindavana, note: "Под влиянием Дживы Шьямананда принял мадхурья-бхаву (T); Джива предсказал, что Мурари Дас примет прибежище Шьямананды (ПВ 13, lila-db)."}
+  - {type: met, who: "@narottama-dasa", facts: [F55, F57], events: [ev-narottama-shyamananda-nrisimhapura, ev-kheturi-festival], note: "Только по lila-db (НВ 4, 6)."}
+  - {type: met, who: "@srinivasa-acharya", facts: [F47, F57], event: ev-kheturi-festival, note: "Только по lila-db; T: уход их всех — начало «тёмного периода»."}
+  - {type: met, who: "@virabhadra", facts: [F57], event: ev-narottama-sacred-thread, note: "Только по lila-db (ПВ 19)."}
+  - {type: other, who: "@narahari-chakravarti", facts: [F2, F3, F11, F12, F14, Q2, Q3], note: "«Бхакти-ратнакара» 15 — главный первоисточник T и M."}
+  - {type: other, who: "@nityananda-dasa-author", facts: [F3, F35, Q4, Q5], note: "«Према-виласа»: Расикананда и Мурари — два лица."}
+unnamed:
+  - {who: "Бхавани Деви — мать", type: mother, facts: [F7, F11]}
+  - {who: "жена: Иччхамайи Деви (Иччхадеи) из Гхантшилы (T, по БР) / Шьямадаси (M) / Малати (ПВ 20, lila-db)", type: spouse, facts: [F14, F24, F58]}
+  - {who: "сыновья Кришна-Говинда и Радха-Кришна; потомки в Гопиваллабхапуре; потомок Вишвамбхарананда Дева Госвами («Астикья-даршана»)", type: relative, facts: [F48, F50]}
+  - {who: "ученики: Ганапати (Гаджапати), заминдар/раджа Паташпура; Бхима и Шрикара (Дхаренда); Ахмед Бег, зять Ибрахим-хана (T) / яван «Сува Ахмед» (M); раджа Маяны Чандрабхану (M)", type: disciple, facts: [F38]}
+  - {who: "семь учеников, ушедшие с ним в Ремуне", type: disciple, facts: [F43, F44, F45]}
+  - {who: "злой заминдар-мусульманин, натравивший слона и затем предавшийся", type: disciple, facts: [F36]}
+  - {who: "Кишор Дас — ученик Шьямананды при встрече", type: other, facts: [F21]}
+identities:
+  - in: krishna-lila
+    as: "манджари"
+    source: "T 215 — предположение автора («можно думать»), не по ГГД"
+    level: D
+    facts: [I3]
+    variants: []
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-books-leave-vrindavana
+  - ev-shyamananda-comes-to-vrindavana
+  - ev-shyamananda-utkala
+  - ev-narottama-shyamananda-nrisimhapura
+  - ev-vrindavana-messengers-gauda
+  - ev-kheturi-festival
+  - ev-narottama-sacred-thread
+  - ev-kheturi-mahantas-depart
+events_note: "Все события — по lila-db (ПВ, НВ, БР), F53–F57; T/M/B событий lila-db не дают. ev-shyamananda-initiation-ambika, ev-shyamananda-nupura — лишь упоминание в песнях Нарахари (F53)."
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "«Шьямананда-шатака» (жизнеописание Шьямананды; комментарий Баладевы)", facts: [F40, F41]}
+  - {title: "«Бхакта-бхагаваташтака» (T) / «Шримад-бхагавата-аштака» (M)", facts: [F40]}
+  - {title: "«Кунджакели-двадашака» (T)", facts: [F40]}
+  - {title: "собрания стихов, молитв и песен (M)", facts: [F40]}
+places: ["#rohini-rayani", "#medinipur", "#suvarnarekha", "#barajita", "#ghatashila", "#gopivallabhapura", "#dharenda", "#mayurbhanja", "#patashpura", "#vamshadaha", "#jaleshvara", "#remuna", "#nrisimhapura", "#kheturi", "#vrindavana"]
+places_facts: [F6, F9, F12, F14, F17, F28, F29, F31, F32, F38, F43, F44, F45, F46, F51, F55, F57]
+character:
+  - {trait: "томление по гуру: всю ночь плакал, повторяя имя Шьямананды", facts: [F16, F18, F19, I1]}
+  - {trait: "предан гуру всем существом — и потому наделён его силой", facts: [F27, F33, I2]}
+  - {trait: "сила проповеди: обращал разбойников, мусульман, царей, даже слона (слонов) и тигров", facts: [F33, F34, F36, F37, F38]}
+  - {trait: "опьянён харинама-санкиртаной, словно безумец", facts: [F34]}
+  - {trait: "тщательное служение Божеству Говинды", facts: [F29, F30]}
+  - {trait: "служил родителям; с детства находил во всём хари-бхакти", facts: [F11, F13]}
+significance: {facts: [F1, F32, F47, F51, I1, I2, I4]}
+sources:
+  T: "215–216 (глава); 221, 222"
+  M: "158–160 (глава); 3 (pdf 11); 211, 212, 214, 215"
+  B: "1106–1107 (гл. о Шьямананде); 976 (гл. о Баладеве)"
+  other: ["«Бхакти-ратнакара» 15.27–28, 15.81–86 (по T/M)", "«Према-виласа» 19, 20 (по T и lila-db)", "ЧБ Антья 2.263–264", "«Сиддханта-ратна», тика 8.35 (по B)"]
+article: {ru: "parshadas/ru/rasikananda.md", en: "parshadas/en/rasikananda.md"}
+open_questions:
+  - "Расикананда и Мурари — одно лицо (БР, T) или двое (ПВ; M 215 в перечне) (F3)."
+  - "Место встречи с Шьяманандой: Гхантшила (T, B) или Рохини (M) (F17)."
+  - "Жена: Иччхамайи (T по БР), Шьямадаси (M), Малати (ПВ 20) (F14, F58)."
+  - "Когда вверено служение Говинде: при установлении (M, B) или при уходе Шьямананды (T 215) (F28, F29)."
+  - "Учитель Баладевы Радха-Дамодара — ученик Расикананды (M) или Наянананды (T, B) (F51, F52)."
+  - "Год ухода 1652 (T, M), но у M 1578 Шака ≈ 1656; путь в Ремуну — из Вамшадахи (T) или Сарата-грамы (M); праздник — Шива-чатурдаши Магхи (T) / Гаура-пратипад Говинды (календарь) (F42, F43, F46)."
+  - "Год рождения 1590 и участие в празднике в Кхетури (ПВ, НВ) (F57)."

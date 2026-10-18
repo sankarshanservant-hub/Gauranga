@@ -5848,6 +5848,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "deity-served"
+   },
+   {
+    "from": "@rasikananda",
+    "type": "other"
    }
   ]
  },
@@ -23092,6 +23096,10 @@
     "type": "companion"
    },
    {
+    "from": "@rasikananda",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@sundarananda",
     "type": "co-worker"
    },
@@ -26845,6 +26853,10 @@
     "type": "son"
    },
    {
+    "from": "@rasikananda",
+    "type": "met"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -29413,6 +29425,10 @@
     "type": "companion"
    },
    {
+    "from": "@rasikananda",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "nephew"
    },
@@ -30392,6 +30408,10 @@
     "type": "other"
    },
    {
+    "from": "@rasikananda",
+    "type": "met"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "lineage-successor"
    },
@@ -31010,6 +31030,10 @@
     "type": "other"
    },
    {
+    "from": "@rasikananda",
+    "type": "met"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "lineage-successor"
    },
@@ -31433,6 +31457,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@rasikananda",
     "type": "other"
    }
   ]
@@ -31961,6 +31989,10 @@
     "type": "other"
    },
    {
+    "from": "@rasikananda",
+    "type": "guru"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "companion"
    }
@@ -32029,6 +32061,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@rasikananda",
+    "type": "lineage-predecessor"
    }
   ]
  },
@@ -32563,6 +32599,171 @@
    "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart",
    "ev-narottama-sacred-thread"
+  ],
+  "summary": "в Кришна-лиле — манджари (T 215 —…); гуру — Шьямананда (Духкхи Кришнадас); происхождение — Рохини (Раяни); явление — 18 картика, ночь Дивали; уход — Гаура-пратипад месяца Говинды — по нашему календарю; самадхи — Ремуна",
+  "card": "parshadas/cards/rasikananda.yaml",
+  "article": {
+   "ru": "parshadas/ru/rasikananda.md",
+   "en": "parshadas/en/rasikananda.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "year": 1590,
+    "place": "#rohini-rayani",
+    "tithi": "18 картика, ночь Дивали (M); в нашем календаре дня явления нет",
+    "conf": "год — T (1512 Шака) и M согласны; место — T, M; B называет Раньяни столицей отца",
+    "facts": [
+     "F5",
+     "F6"
+    ]
+   },
+   "disappearance": {
+    "year": 1652,
+    "place": "#remuna",
+    "tithi": "Гаура-пратипад месяца Говинды (через день после Шиваратри) — по нашему календарю",
+    "conf": "год — T (по скану) и M (1578 Шака — расчёт M не сходится); T: праздник в Шива-чатурдаши Магхи, 12 дней в Ремуне",
+    "facts": [
+     "F42",
+     "F43",
+     "F44",
+     "F46"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#remuna",
+     "kind": "пушпа-самадхи во дворе храма Кхирачора-Гопинатхи, с семью учениками",
+     "facts": [
+      "F45"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Шьямананда-шатака» (жизнеописание Шьямананды; комментарий Баладевы)",
+    "facts": [
+     "F40",
+     "F41"
+    ]
+   },
+   {
+    "title": "«Бхакта-бхагаваташтака» (T) / «Шримад-бхагавата-аштака» (M)",
+    "facts": [
+     "F40"
+    ]
+   },
+   {
+    "title": "«Кунджакели-двадашака» (T)",
+    "facts": [
+     "F40"
+    ]
+   },
+   {
+    "title": "собрания стихов, молитв и песен (M)",
+    "facts": [
+     "F40"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "манджари",
+    "source": "T 215 — предположение автора («можно думать»), не по ГГД",
+    "level": "D"
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@shyamananda",
+    "note": "Главный ученик; встреча — в Гхантшиле (T, B) или в Рохини (M); посвящён в мантру Радхи-Кришны (с женой — M)."
+   },
+   {
+    "type": "father",
+    "who": "@achyutananda-rayani"
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-gopivallabhapura",
+    "note": "Служение вверено Шьяманандой: при установлении (M, B) или при уходе Шьямананды (T 215)."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-remuna",
+    "note": "Вошёл в храм Кхирачора-Гопинатхи и ушёл у Его стоп; там пушпа-самадхи."
+   },
+   {
+    "type": "son",
+    "who": "@radhananda-gopivallabhapura"
+   },
+   {
+    "type": "relative",
+    "who": "@nayanananda-gopivallabhapura",
+    "note": "Внук (B); преемник в линии (T 221)."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@radha-damodara-gosvami",
+    "note": "M: прямой ученик Расикананды; T, B: ученик Наянананды."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@baladeva-vidyabhushana",
+    "note": "Баладева — в его линии; комментарий на «Шьямананда-шатаку»."
+   },
+   {
+    "type": "disciple",
+    "who": "@vaidyanatha-bhanja"
+   },
+   {
+    "type": "co-worker",
+    "who": "@damodara-yogi",
+    "note": "Посвящён Шьяманандой в Раньяни (B) / Рохини (M); праздник в Дхаренде (T)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@hridaya-chaitanya"
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@gauridasa-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "Под влиянием Дживы Шьямананда принял мадхурья-бхаву (T); Джива предсказал, что Мурари Дас примет прибежище Шьямананды (ПВ 13, lila-db)."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "Только по lila-db (НВ 4, 6)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Только по lila-db; T: уход их всех — начало «тёмного периода»."
+   },
+   {
+    "type": "met",
+    "who": "@virabhadra",
+    "note": "Только по lila-db (ПВ 19)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "«Бхакти-ратнакара» 15 — главный первоисточник T и M."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda-dasa-author",
+    "note": "«Према-виласа»: Расикананда и Мурари — два лица."
+   }
   ]
  },
  {
@@ -32942,6 +33143,12 @@
   ],
   "events": [
    "ev-shyamananda-utkala"
+  ],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "co-worker"
+   }
   ]
  },
  {
@@ -33450,6 +33657,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@rasikananda",
     "type": "other"
    },
    {
@@ -43256,6 +43467,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@rasikananda",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "other"
    },
@@ -43556,6 +43771,96 @@
    {
     "from": "@srinivasa-acharya",
     "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@achyutananda-rayani",
+  "ru": "Ачьютананда (Ачьютадева), раджа Раяни",
+  "en": "Achyutananda (Achyutadeva), Raja of Rayani",
+  "note": "отец @rasikananda, заминдар Рохини (Раяни) на Суварнарекхе, из каранов (T 215; M 158); не путать с @achyutananda",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@radhananda-gopivallabhapura",
+  "ru": "Радхананда (сын Расикананды)",
+  "en": "Radhananda (son of Rasikananda)",
+  "note": "сын @rasikananda, продолжатель его проповеди (B 976; M 160); не путать с Радханандой — учеником Шьямананды",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "son"
+   }
+  ]
+ },
+ {
+  "id": "@nayanananda-gopivallabhapura",
+  "ru": "Наянананда (внук Расикананды)",
+  "en": "Nayanananda (grandson of Rasikananda)",
+  "note": "внук @rasikananda, парама-гуру Баладевы Видьябхушаны (B 976; T 221); не путать с @nayanananda-mishra",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "relative"
+   }
+  ]
+ },
+ {
+  "id": "@radha-damodara-gosvami",
+  "ru": "Радха-Дамодара Госвами",
+  "en": "Radha-Damodara Gosvami",
+  "note": "гуру Баладевы Видьябхушаны; в линии Расикананды (T 220–221; B 976; M 3); не путать с Божеством @radha-damodara-deity",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "lineage-successor"
+   }
+  ]
+ },
+ {
+  "id": "@govinda-gopivallabhapura",
+  "ru": "Говинда (Радха-Говинда) — Божество в Гопиваллабхапуре",
+  "en": "Govinda (Radha-Govinda), the Deity of Gopivallabhapura",
+  "note": "установлен Шьяманандой, служение вверено @rasikananda (T 216; M 158, 214; B 1107)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@vaidyanatha-bhanja",
+  "ru": "Вайдьянатх Бхандж",
+  "en": "Vaidyanatha Bhanja",
+  "note": "раджа Маюрбханджа, ученик @rasikananda (T 216; M 159)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@rasikananda",
+    "type": "disciple"
    }
   ]
  }

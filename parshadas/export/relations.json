@@ -7356,6 +7356,212 @@
   "note": "Драма ставилась для Джаганнатхи (T); девадаси — служанки Джаганнатхи."
  },
  {
+  "from": "@rasikananda",
+  "type": "guru",
+  "who": "@shyamananda",
+  "facts": [
+   "F1",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F27",
+   "F39"
+  ],
+  "events": [
+   "ev-shyamananda-utkala",
+   "ev-narottama-shyamananda-nrisimhapura"
+  ],
+  "note": "Главный ученик; встреча — в Гхантшиле (T, B) или в Рохини (M); посвящён в мантру Радхи-Кришны (с женой — M)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "father",
+  "who": "@achyutananda-rayani",
+  "facts": [
+   "F7",
+   "F8",
+   "F9",
+   "F11"
+  ]
+ },
+ {
+  "from": "@rasikananda",
+  "type": "deity-served",
+  "who": "@govinda-gopivallabhapura",
+  "facts": [
+   "F28",
+   "F29",
+   "F30"
+  ],
+  "note": "Служение вверено Шьяманандой: при установлении (M, B) или при уходе Шьямананды (T 215)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "other",
+  "who": "@gopala-remuna",
+  "facts": [
+   "F44",
+   "F45"
+  ],
+  "note": "Вошёл в храм Кхирачора-Гопинатхи и ушёл у Его стоп; там пушпа-самадхи."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "son",
+  "who": "@radhananda-gopivallabhapura",
+  "facts": [
+   "F48",
+   "F49"
+  ]
+ },
+ {
+  "from": "@rasikananda",
+  "type": "relative",
+  "who": "@nayanananda-gopivallabhapura",
+  "facts": [
+   "F49",
+   "F51"
+  ],
+  "note": "Внук (B); преемник в линии (T 221)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "lineage-successor",
+  "who": "@radha-damodara-gosvami",
+  "facts": [
+   "F51",
+   "F52"
+  ],
+  "note": "M: прямой ученик Расикананды; T, B: ученик Наянананды."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "lineage-successor",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F41",
+   "F51",
+   "F52"
+  ],
+  "note": "Баладева — в его линии; комментарий на «Шьямананда-шатаку»."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "disciple",
+  "who": "@vaidyanatha-bhanja",
+  "facts": [
+   "F38"
+  ]
+ },
+ {
+  "from": "@rasikananda",
+  "type": "co-worker",
+  "who": "@damodara-yogi",
+  "facts": [
+   "F26",
+   "F31"
+  ],
+  "event": "ev-shyamananda-utkala",
+  "note": "Посвящён Шьяманандой в Раньяни (B) / Рохини (M); праздник в Дхаренде (T)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "lineage-predecessor",
+  "who": "@hridaya-chaitanya",
+  "facts": [
+   "F25",
+   "F51"
+  ]
+ },
+ {
+  "from": "@rasikananda",
+  "type": "lineage-predecessor",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F51"
+  ]
+ },
+ {
+  "from": "@rasikananda",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F25",
+   "F53"
+  ],
+  "event": "ev-books-leave-vrindavana",
+  "note": "Под влиянием Дживы Шьямананда принял мадхурья-бхаву (T); Джива предсказал, что Мурари Дас примет прибежище Шьямананды (ПВ 13, lila-db)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F55",
+   "F57"
+  ],
+  "events": [
+   "ev-narottama-shyamananda-nrisimhapura",
+   "ev-kheturi-festival"
+  ],
+  "note": "Только по lila-db (НВ 4, 6)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F47",
+   "F57"
+  ],
+  "event": "ev-kheturi-festival",
+  "note": "Только по lila-db; T: уход их всех — начало «тёмного периода»."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "met",
+  "who": "@virabhadra",
+  "facts": [
+   "F57"
+  ],
+  "event": "ev-narottama-sacred-thread",
+  "note": "Только по lila-db (ПВ 19)."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F2",
+   "F3",
+   "F11",
+   "F12",
+   "F14",
+   "Q2",
+   "Q3"
+  ],
+  "note": "«Бхакти-ратнакара» 15 — главный первоисточник T и M."
+ },
+ {
+  "from": "@rasikananda",
+  "type": "other",
+  "who": "@nityananda-dasa-author",
+  "facts": [
+   "F3",
+   "F35",
+   "Q4",
+   "Q5"
+  ],
+  "note": "«Према-виласа»: Расикананда и Мурари — два лица."
+ },
+ {
   "from": "@rupa-gosvami",
   "type": "father",
   "who": "@kumara-deva",
