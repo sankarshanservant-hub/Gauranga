@@ -474,3 +474,24 @@
 | Бхакти Гаурава Вайкханаса Махарадж; Бхакти Прасун Бодхаян Махарадж; Бхакти Хридой Бон Махарадж; Бхакти Промод Пури Махарадж; Бхакти Валлабха Тиртха Махарадж | Bhakti Gaurava Vaikhanasa Maharaj; Bhakti Prasun Bodhayan Maharaj; Bhakti Hridaya Bon Maharaj; Bhakti Pramoda Puri Maharaj; Bhakti Ballabha Tirtha Maharaj | ученики Бхактисиддханты и Бхакти Даиты Мадхавы (XX в.) |
 | Ч. В. Раман; Панчанан Таркаратна; Гопинатх Бардолаи | C. V. Raman; Panchanan Tarkaratna; Gopinath Bardoloi | собеседники Бхакти Даиты Мадхавы |
 | Рам-дхун | Ram-dhun | киртан Ганди |
+| А. Ч. Бхактиведанта Свами Прабхупада; Шрила Бхактиведанта Свами | A. C. Bhaktivedanta Swami Prabhupada; Srila Bhaktivedanta Swami | @bhaktivedanta-svami; в тексте — «Шрила Бхактиведанта Свами», «Прабхупада» — только как имя у его последователей (не путать с Бхактисиддхантой) |
+| ИСККОН (Международное общество сознания Кришны); «сознание Кришны» | ISKCON (International Society for Krishna Consciousness); “Krishna consciousness” | общество, основанное Бхактиведантой Свами |
+| расика-ачарья; шактьявеша-аватара; «нитьянандавеша» | rasika-acharya; shaktyavesha-avatara; “nityanandavesha” | учитель, знающий вкус чистой преданности; наделённый особой силой Господа; наделённый силой Нитьянанды (взгляд жизнеописателя) |
+| суварна-ваники | suvarna-vaniks | община торговцев золотом (храм Уддхараны Датты) |
+| Бхакти Видхан Махайоги Свами | Bhakti Vidhan Mahayogi Swami | ученик Бхактиведанты Свами и Шридхара Махараджа, переводчик одного из жизнеописаний (книгу не называть) |
+| Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж; Шрила Б. Р. Шридхар Махарадж; Шридхар Дев | Srila Bhakti Rakshaka Sridhar Deva Goswami Maharaj; Srila B. R. Sridhar Maharaj; Sridhar Dev | @shridhara-maharaja; «Бхакти Ракшак» — «хранитель преданности» |
+| шастра-нипуна; сарва-шастра-сиддханта-вит | shastra-nipuna; sarva-shastra-siddhanta-vit | титулы Шридхара Махараджа |
+| Шри Чайтанья Сарасват Матх; Хапания | Sri Chaitanya Saraswat Math; Hapania | матх Шридхара Махараджа в Навадвипе (Кулия); место его явления |
+| апарадха-бханджана | aparadha-bhanjana | «где прощаются оскорбления» — место в Кулии |
+| “Шри Шри Прапанна-дживанамрита”; “Гаятри-нигудхартха”; “Према-дхама-дева-стотрам”; “Шримад-Бхактивинода-вираха-дашакам”; “Шримад-Бхактивинода-дашакам” | “Sri Sri Prapanna-jivanamrita”; “Gayatri-nigudhartha”; “Prema-dhama-deva-stotram”; “Srimad-Bhaktivinoda-viraha-dashakam”; “Srimad-Bhaktivinoda-dashakam” | сочинения Шридхара Махараджа |
+| «радха-падам дхимахи»; бхарга | “radha-padam dhimahi”; bharga | смысл гаятри по «Гаятри-нигудхартхе» |
+| Акинчана Кришнадас Бабаджи; Бхакти Прагьяна Кешава; Бхакти Саранга Госвами; Бхакти Вичар Джаджабар | Akinchana Krishnadasa Babaji; Bhakti Prajnana Keshava; Bhakti Saranga Goswami; Bhakti Vichar Jajabar | ученики Бхактисиддханты |
+| Шрила Бхакти Промод Пури Госвами Махарадж; Пранавананда брахмачари; Промод Бхушан Чакраварти | Srila Bhakti Pramoda Puri Goswami Maharaj; Pranavananda Brahmachari; Pramod Bhushan Chakravarti | @bhakti-pramoda-puri (EN — Pramoda, не Promode) |
+| маха-махопадешака; пратна-видьяланкара | maha-mahopadeshaka; pratna-vidyalankara | титулы Пури Махараджа от Бхактисиддханты |
+| Ганганандапур (Джессор); Чампахати | Ganganandapur (Jessore); Champahati | место явления и место санньясы Пури Махараджа |
+| «Даиника Надия Пракаша»; «Саджджана-тошани»; «Шри Сарасвати-джаяшри» | “Dainika Nadiya Prakasha”; “Sajjana-toshani”; “Sri Sarasvati-jayashri” | газета и журналы / сборник |
+| Шри Гопинатх Гаудия Матх; Всемирная вайшнавская ассоциация | Sri Gopinath Gaudiya Math; World Vaishnava Association | матх Пури Махараджа (Ишодьян, 1989); WVA |
+| Бхакти Бибудха Бодхаян Махарадж; Бхакти Варидхи Паривраджака Махарадж; Бхакти Ратна Тхакур | Bhakti Bibudha Bodhayan Maharaj; Bhakti Varidhi Parivrajaka Maharaj; Bhakti Ratna Thakura | преемник Пури Махараджа; издатель бенгальского жизнеописания; вартма-прадаршака-гуру Пури Махараджа |
+| Свами Бхакти Валлабха Тиртха Махарадж; Камакхья Чаран Гуха-Рай; Кришна Валлабха брахмачари | Swami Bhakti Ballabha Tirtha Maharaj; Kamakhya Charan Guha-Ray; Krishna Ballabha Brahmachari | @bhakti-ballabha-tirtha |
+| нивритти; правритти | nivritti; pravritti | путь отречения; путь мирской деятельности |
+| GOKUL (Всемирная организация вселенской любви Кришна-Чайтаньи) | GOKUL (Global Organization of Krishnachaitanya’s Universal Love) | основана Тиртхой Махараджем (1997) |
