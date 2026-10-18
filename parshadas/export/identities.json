@@ -606,6 +606,32 @@
   ]
  },
  {
+  "person": "@ramanujacharya",
+  "in": "tattva",
+  "as": "воплощение Ананты (Шеши)",
+  "source": "стих в M pdf 315",
+  "level": "C",
+  "facts": [
+   "F6",
+   "F59",
+   "Q1"
+  ],
+  "variants": []
+ },
+ {
+  "person": "@ramanujacharya",
+  "in": "rama-lila",
+  "as": "Лакшмана",
+  "source": "шри-вайшнавское предание (M pdf 320, 329)",
+  "level": "D",
+  "facts": [
+   "F9",
+   "F34",
+   "F59"
+  ],
+  "variants": []
+ },
+ {
   "person": "@rasikananda",
   "in": "krishna-lila",
   "as": "манджари",

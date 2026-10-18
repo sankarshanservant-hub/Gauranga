@@ -5725,6 +5725,10 @@
     "type": "deity-served"
    },
    {
+    "from": "@ramanujacharya",
+    "type": "deity-served"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "deity-served"
    }
@@ -5911,6 +5915,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@ramanujacharya",
+    "type": "deity-served"
    }
   ]
  },
@@ -23884,6 +23892,10 @@
     "type": "companion"
    },
    {
+    "from": "@ramanujacharya",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "friend"
    },
@@ -29485,6 +29497,10 @@
     "type": "companion"
    },
    {
+    "from": "@ramanujacharya",
+    "type": "other"
+   },
+   {
     "from": "@rasikananda",
     "type": "other"
    },
@@ -29546,6 +29562,10 @@
    {
     "from": "@gopala-guru",
     "type": "other"
+   },
+   {
+    "from": "@ramanujacharya",
+    "type": "lineage-successor"
    },
    {
     "from": "@sanatana-gosvami",
@@ -35379,6 +35399,10 @@
     "type": "other"
    },
    {
+    "from": "@ramanujacharya",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "other"
    },
@@ -35479,6 +35503,10 @@
    },
    {
     "from": "@ramananda-raya",
+    "type": "other"
+   },
+   {
+    "from": "@ramanujacharya",
     "type": "other"
    },
    {
@@ -38313,6 +38341,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "father"
+   },
+   {
+    "from": "@ramanujacharya",
+    "type": "lineage-successor"
    }
   ]
  },
@@ -40738,6 +40770,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@ramanujacharya",
+    "type": "other"
    }
   ]
  },
@@ -42857,6 +42893,10 @@
    {
     "from": "@madhvacharya",
     "type": "opposed"
+   },
+   {
+    "from": "@ramanujacharya",
+    "type": "opposed"
    }
   ]
  },
@@ -44176,6 +44216,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@ramanujacharya",
+    "type": "other"
+   },
+   {
     "from": "@rasikananda",
     "type": "lineage-successor"
    },
@@ -45045,6 +45089,167 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "по таттве — воплощение Ананты (стих в M pdf 315) и др.; гуру — Канчипурна, Ямуначарья (Алавандар), Гоштхипурна; происхождение — Шриперумбудур; явление — Гаура-панчами месяца Вишну — по нашему календарю; уход — Гаура-дашами месяца Мадхавы — по нашему календарю",
+  "card": "parshadas/cards/ramanujacharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/ramanujacharya.md",
+   "en": "parshadas/en/ramanujacharya.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "elders"
+  ],
+  "life": {
+   "appearance": {
+    "year": 1017,
+    "place": "#shriperumbudur",
+    "tithi": "Гаура-панчами месяца Вишну — по нашему календарю (= M: 5-й день светлой половины чайтры; накшатра Ардра)",
+    "conf": "M — по шри-вайшнавскому преданию; место — по M (дом отца в Шри Перумбудуре; стих — Тундира-мандала)",
+    "facts": [
+     "F6",
+     "F7",
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "tithi": "Гаура-дашами месяца Мадхавы — по нашему календарю",
+    "conf": "M: тёмная половина пхалгуны, 10-й день; прожил 100 лет (по преданию) — расходится с календарём",
+    "facts": [
+     "F45",
+     "F46"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Шри-бхашья»",
+    "facts": [
+     "F3",
+     "F22",
+     "F39"
+    ]
+   },
+   {
+    "title": "комментарий на «Бхагавад-гиту»",
+    "facts": [
+     "F3"
+    ]
+   },
+   {
+    "title": "«Веданта-сара»",
+    "facts": [
+     "F3"
+    ]
+   },
+   {
+    "title": "«Ведартха-санграха»",
+    "facts": [
+     "F3"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "воплощение Ананты (Шеши)",
+    "source": "стих в M pdf 315",
+    "level": "C"
+   },
+   {
+    "in": "rama-lila",
+    "as": "Лакшмана",
+    "source": "шри-вайшнавское предание (M pdf 320, 329)",
+    "level": "D"
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@kanchipurna",
+    "note": "Наставник не из брахманов; ради его чести Рамануджа оставил жену."
+   },
+   {
+    "type": "guru",
+    "who": "@yamunacharya",
+    "note": "При жизни не встретились; Рамануджа исполнил три его желания (три пальца); M — «божественный учитель»."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@yadava-prakasha",
+    "note": "Первый учитель веданты (адвайтист), покушался на его жизнь; позже — его ученик Говинда Джияр."
+   },
+   {
+    "type": "disciple",
+    "who": "@yadava-prakasha"
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@mahapurna"
+   },
+   {
+    "type": "guru",
+    "who": "@goshthipurna",
+    "note": "Дал мантру после 18 отказов; затем сам назвал Рамануджу учителем."
+   },
+   {
+    "type": "disciple",
+    "who": "@kuresha",
+    "note": "Ослеплён царём-шиваитом вместо Рамануджи."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@nathamuni"
+   },
+   {
+    "type": "deity-served",
+    "who": "@ranganatha-deity"
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-deity",
+    "note": "«Говорят», Джаганнатха перенёс его в Курмастхан за преобразования поклонения."
+   },
+   {
+    "type": "opposed",
+    "who": "@shankaracharya"
+   },
+   {
+    "type": "other",
+    "who": "@madhvacharya",
+    "note": "Мадхва счёл вишиштадвайту недостаточной против Шанкары."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@venkata-bhatta",
+    "note": "Шри-вайшнав его линии (вадагалай), обращён Господом."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@prabodhananda-sarasvati",
+    "note": "Тридандин его линии, затем последователь Махапрабху."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami"
+   },
+   {
+    "type": "other",
+    "who": "@baladeva-vidyabhushana",
+    "note": "Спор с пандитами его сампрадаи (M) / рамананди (B) в Галте."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta"
+   }
+  ],
   "related_by": [
    {
     "from": "@madhvacharya",
@@ -45059,7 +45264,13 @@
   "note": "Алабандару; внук Натхамуни, предшественник Рамануджи в Шри-сампрадае, «Стотра-ратна» (M pdf 316–324)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "guru"
+   }
+  ]
  },
  {
   "id": "@nathamuni",
@@ -45068,7 +45279,13 @@
   "note": "первый ачарья Шри-вайшнавов, собрал «Тамильские Веды» (Прабандху); дед Ямуначарьи (M pdf 315–316)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "lineage-predecessor"
+   }
+  ]
  },
  {
   "id": "@kanchipurna",
@@ -45077,7 +45294,13 @@
   "note": "шри-вайшнав из шудр в Канчи, ученик Ямуначарьи, первый наставник Рамануджи (M pdf 321–324)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "guru"
+   }
+  ]
  },
  {
   "id": "@yadava-prakasha",
@@ -45086,7 +45309,17 @@
   "note": "адвайтист в Канчи, учитель Рамануджи, позже его ученик; «Яти-дхарма-самуччая» (M pdf 321–327)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "siksha-guru"
+   },
+   {
+    "from": "@ramanujacharya",
+    "type": "disciple"
+   }
+  ]
  },
  {
   "id": "@mahapurna",
@@ -45095,7 +45328,13 @@
   "note": "ученик Ямуначарьи в Шрирангаме, наставник Рамануджи в шастрах (M pdf 327–328)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "siksha-guru"
+   }
+  ]
  },
  {
   "id": "@goshthipurna",
@@ -45104,7 +45343,13 @@
   "note": "шри-вайшнав, давший Раманудже мантру после 18 отказов (M pdf 328–329; T 242)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "guru"
+   }
+  ]
  },
  {
   "id": "@kuresha",
@@ -45113,7 +45358,13 @@
   "note": "второй и главный ученик Рамануджи; ослеплён царём-шиваитом вместо него (M pdf 325–330; B 589)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramanujacharya",
+    "type": "disciple"
+   }
+  ]
  },
  {
   "id": "@achyutapreksha",

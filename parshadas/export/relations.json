@@ -8059,6 +8059,203 @@
   "note": "Драма ставилась для Джаганнатхи (T); девадаси — служанки Джаганнатхи."
  },
  {
+  "from": "@ramanujacharya",
+  "type": "guru",
+  "who": "@kanchipurna",
+  "facts": [
+   "F11",
+   "F20",
+   "F23",
+   "F24",
+   "F25"
+  ],
+  "note": "Наставник не из брахманов; ради его чести Рамануджа оставил жену."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "guru",
+  "who": "@yamunacharya",
+  "facts": [
+   "F5",
+   "F17",
+   "F21",
+   "F22",
+   "F35"
+  ],
+  "note": "При жизни не встретились; Рамануджа исполнил три его желания (три пальца); M — «божественный учитель»."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "siksha-guru",
+  "who": "@yadava-prakasha",
+  "facts": [
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F19"
+  ],
+  "note": "Первый учитель веданты (адвайтист), покушался на его жизнь; позже — его ученик Говинда Джияр."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "disciple",
+  "who": "@yadava-prakasha",
+  "facts": [
+   "F28",
+   "F29"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "siksha-guru",
+  "who": "@mahapurna",
+  "facts": [
+   "F31",
+   "F32"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "guru",
+  "who": "@goshthipurna",
+  "facts": [
+   "F32",
+   "F33"
+  ],
+  "note": "Дал мантру после 18 отказов; затем сам назвал Рамануджу учителем."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "disciple",
+  "who": "@kuresha",
+  "facts": [
+   "F27",
+   "F28",
+   "F40",
+   "F47"
+  ],
+  "note": "Ослеплён царём-шиваитом вместо Рамануджи."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "lineage-predecessor",
+  "who": "@nathamuni",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "deity-served",
+  "who": "@ranganatha-deity",
+  "facts": [
+   "F30",
+   "F47"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F38"
+  ],
+  "note": "«Говорят», Джаганнатха перенёс его в Курмастхан за преобразования поклонения."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "opposed",
+  "who": "@shankaracharya",
+  "facts": [
+   "F2",
+   "F3",
+   "F13",
+   "F19",
+   "F49"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "other",
+  "who": "@madhvacharya",
+  "facts": [
+   "F58"
+  ],
+  "note": "Мадхва счёл вишиштадвайту недостаточной против Шанкары."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "lineage-successor",
+  "who": "@venkata-bhatta",
+  "facts": [
+   "F50"
+  ],
+  "event": "ev-srirangam-chaturmasya",
+  "note": "Шри-вайшнав его линии (вадагалай), обращён Господом."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "lineage-successor",
+  "who": "@prabodhananda-sarasvati",
+  "facts": [
+   "F26",
+   "F50"
+  ],
+  "note": "Тридандин его линии, затем последователь Махапрабху."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "other",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F50",
+   "F51"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F2",
+   "F52",
+   "F53"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "other",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F55"
+  ],
+  "note": "Спор с пандитами его сампрадаи (M) / рамананди (B) в Галте."
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F41",
+   "F56",
+   "I4"
+  ]
+ },
+ {
+  "from": "@ramanujacharya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F4",
+   "F32",
+   "F41",
+   "F56",
+   "F57",
+   "I6"
+  ]
+ },
+ {
   "from": "@rasikananda",
   "type": "guru",
   "who": "@shyamananda",
