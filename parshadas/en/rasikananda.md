@@ -179,7 +179,7 @@ pastimes he serves as a manjari — but this is only the author's conjecture, no
 [^3]: According to one biography, his wife's name was Shyamadasi; the “Prema-vilasa” (20) names the wives of
     Rasikananda and Murari as Malati and Shachirani.
 [^4]: According to other biographies, Shyamananda came to Rohini, to Rasikananda's house, on his way from
-    Dharenda-Bahadurpura; one of them adds that Ghatshila is now in Bihar. The words of the voice are given
+    Dharenda-Bahadurpura; one of them adds that Ghatshila is now in Bihar (in the present division, in the state of Jharkhand). The words of the voice are given
     differently: in one account the voice calls him “Rasikananda!” and calls Shyamananda a mahabhagavata, in another
     it bids him go to him for initiation without delay — and Rasikananda sets out at once.
 [^5]: ⚠ If Rasikananda was born in 1590, his presence at the Kheturi festival would require a very late dating of the
