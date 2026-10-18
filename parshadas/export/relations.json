@@ -190,6 +190,146 @@
   "note": "Общий день ухода."
  },
  {
+  "from": "@bhakti-pramoda-puri",
+  "type": "guru",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F5",
+   "F6",
+   "F7",
+   "F8",
+   "F9",
+   "F10",
+   "F11",
+   "F14"
+  ],
+  "note": "Встреча 1915 (Йогапитха); посвящение — Джанмаштами 1923; во сне (1942) дал мантру санньясы."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "sannyasa-guru",
+  "who": "@bhakti-gaurava-vaikhanasa",
+  "facts": [
+   "F15"
+  ],
+  "note": "Август 1946, Чампахати."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "siksha-guru",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F25",
+   "F28",
+   "F29"
+  ],
+  "note": "Также спутник всей жизни."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "siksha-disciple",
+  "who": "@bhakti-ballabha-tirtha",
+  "facts": [
+   "F27",
+   "F32"
+  ],
+  "note": "Шикша-гуру автора T; правил книгу; по его просьбе Тиртха с 1997 г. ездит по миру."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "co-worker",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F13",
+   "F15",
+   "F21",
+   "F31"
+  ],
+  "note": "Редактор «Чайтанья Вани» по его приглашению (1964–1997); совершил обряд его самадхи."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "co-worker",
+  "who": "@bhakti-hridaya-bona",
+  "facts": [
+   "F15"
+  ]
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "co-worker",
+  "who": "@bhakti-vilasa-tirtha",
+  "facts": [
+   "F16"
+  ],
+  "note": "По его просьбе 7 лет — главный пуджари Йогапитхи."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "other",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F28"
+  ],
+  "note": "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "met",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F30"
+  ],
+  "note": "Видел лично; получил пыль стоп и остатки прасада."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "lineage-predecessor",
+  "who": "@gaurakishora-dasa-babaji",
+  "facts": [
+   "F5",
+   "F31"
+  ],
+  "note": "Впервые пришёл к Бхактисиддханте на следующий день после ухода Бабаджи; рассказывал о нём."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "lineage-predecessor",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F3",
+   "F4"
+  ],
+  "note": "Через Бхакти Ратну Тхакура — «Саджджана-тошани»."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "other",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F24"
+  ],
+  "note": "Статья о нём (1948)."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F23"
+  ],
+  "note": "Предисловие к ЧЧ (изд. Шри Чайтанья Гаудия Матха)."
+ },
+ {
+  "from": "@bhakti-pramoda-puri",
+  "type": "other",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F23"
+  ],
+  "note": "Пересказал предание о сне Вишванатхи."
+ },
+ {
   "from": "@bhaktivedanta-svami",
   "type": "guru",
   "who": "@bhaktisiddhanta",

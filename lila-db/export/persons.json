@@ -32367,6 +32367,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "other"
    },
@@ -35303,6 +35307,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -35383,6 +35391,10 @@
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
+    "type": "guru"
+   },
+   {
+    "from": "@bhakti-pramoda-puri",
     "type": "guru"
    },
    {
@@ -35481,6 +35493,10 @@
     "type": "other"
    },
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -35526,6 +35542,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-pramoda-puri",
+    "type": "other"
+   },
    {
     "from": "@jiva-gosvami",
     "type": "lineage-successor"
@@ -43070,6 +43090,10 @@
     "type": "met"
    },
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "met"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -43289,6 +43313,10 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "co-worker"
+   },
+   {
+    "from": "@bhakti-pramoda-puri",
+    "type": "siksha-guru"
    },
    {
     "from": "@bhaktivedanta-svami",
@@ -43735,6 +43763,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "co-worker"
+   },
+   {
     "from": "@bhaktivedanta-svami",
     "type": "other"
    },
@@ -43761,6 +43793,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-pramoda-puri",
+    "type": "co-worker"
+   },
    {
     "from": "@ramananda-raya",
     "type": "other"
@@ -44095,6 +44131,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    }
@@ -44294,6 +44334,10 @@
     "type": "disciple"
    },
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@bhaktivedanta-svami",
     "type": "other"
    },
@@ -44307,10 +44351,161 @@
   "id": "@bhakti-pramoda-puri",
   "ru": "Бхакти Промод Пури Госвами",
   "en": "Bhakti Pramoda Puri Gosvami",
-  "note": "ученик Бхактисиддханты; редактор «Чайтанья Вани» с 1964 г.; шикша-гуру автора T (T 294)",
+  "note": "(1898–1999) ученик Бхактисиддханты (Пранавананда брахмачари); редактор «Чайтанья Вани» с 1964 г.; основатель Шри Гопинатх Гаудия Матха (1989); шикша-гуру автора T (T 293–294)",
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Бхактисиддханта Сарасвати (Прабхупада), Бхакти Гаурава Вайкханаса Махарадж; происхождение — Ганганандапур; уход — Нараяна-чатурдаши, за день до Раса-пурнимы; самадхи — Шри Майяпур (Ишодьян)",
+  "card": "parshadas/cards/bhakti-pramoda-puri.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhakti-pramoda-puri.md",
+   "en": "parshadas/en/bhakti-pramoda-puri.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1898-10-08",
+    "tithi": "",
+    "place": "#ganganandapur",
+    "conf": "T; в нашем календаре дня нет",
+    "facts": [
+     "F1"
+    ]
+   },
+   "disappearance": {
+    "date": "1999-10-21",
+    "tithi": "Нараяна-чатурдаши, за день до Раса-пурнимы (по T); в нашем календаре дня нет",
+    "place": "#puri",
+    "conf": "T; предрассветные часы",
+    "facts": [
+     "F36"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#mayapur",
+     "kind": "Шри Гопинатх Гаудия Матх, Ишодьян",
+     "facts": [
+      "F36"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "записи лекций и бесед Бхактисиддханты (13 лет)",
+    "facts": [
+     "F7"
+    ]
+   },
+   {
+    "title": "редактура «Гаудии» (7 лет), «Даиника Надия Пракаша» (1926–1928), «Чайтанья Вани» (с 1964, 33 года)",
+    "facts": [
+     "F8",
+     "F9",
+     "F13"
+    ]
+   },
+   {
+    "title": "предисловие к ЧЧ (изд. Шри Чайтанья Гаудия Матха)",
+    "facts": [
+     "F23"
+    ]
+   },
+   {
+    "title": "статья о Джаганнатхе дасе Бабаджи («Шри Сарасвати-джаяшри», 1948)",
+    "facts": [
+     "F24"
+    ]
+   },
+   {
+    "title": "предисловие к книге T (9.09.1992)",
+    "facts": [
+     "F26"
+    ]
+   },
+   {
+    "title": "сотни стихов, очерков, дневников, передовиц и писем за 60 лет",
+    "facts": [
+     "F22"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@bhaktisiddhanta",
+    "note": "Встреча 1915 (Йогапитха); посвящение — Джанмаштами 1923; во сне (1942) дал мантру санньясы."
+   },
+   {
+    "type": "sannyasa-guru",
+    "who": "@bhakti-gaurava-vaikhanasa",
+    "note": "Август 1946, Чампахати."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@shridhara-maharaja",
+    "note": "Также спутник всей жизни."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@bhakti-ballabha-tirtha",
+    "note": "Шикша-гуру автора T; правил книгу; по его просьбе Тиртха с 1997 г. ездит по миру."
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Редактор «Чайтанья Вани» по его приглашению (1964–1997); совершил обряд его самадхи."
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-hridaya-bona"
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-vilasa-tirtha",
+    "note": "По его просьбе 7 лет — главный пуджари Йогапитхи."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivedanta-svami",
+    "note": "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."
+   },
+   {
+    "type": "met",
+    "who": "@vamshidasa-babaji",
+    "note": "Видел лично; получил пыль стоп и остатки прасада."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "Впервые пришёл к Бхактисиддханте на следующий день после ухода Бабаджи; рассказывал о нём."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@bhaktivinoda",
+    "note": "Через Бхакти Ратну Тхакура — «Саджджана-тошани»."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Статья о нём (1948)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Предисловие к ЧЧ (изд. Шри Чайтанья Гаудия Матха)."
+   },
+   {
+    "type": "other",
+    "who": "@vishvanatha-chakravarti",
+    "note": "Пересказал предание о сне Вишванатхи."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
@@ -44340,6 +44535,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@bhakti-pramoda-puri",
+    "type": "co-worker"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "co-worker"
    }
@@ -44356,6 +44555,10 @@
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
+    "type": "sannyasa-guru"
+   },
+   {
+    "from": "@bhakti-pramoda-puri",
     "type": "sannyasa-guru"
    }
   ]
@@ -44459,6 +44662,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhakti-pramoda-puri",
+    "type": "other"
+   },
    {
     "from": "@shridhara-maharaja",
     "type": "siksha-disciple"
