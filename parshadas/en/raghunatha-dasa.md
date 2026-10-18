@@ -46,7 +46,7 @@ Madhava, and the day of his departure is Gaura-dvadashi of the month of Padmanab
 Gosvamis at once — Raghunatha Dasa, Raghunatha Bhatta and Krishnadasa Kaviraja. <!-- F6 -->
 
 ## Family and Childhood
-Raghunatha appeared in the house of Govardhana Dasa in the village of Sri Krishnapura in Saptagrama (Hooghly district).
+Raghunatha appeared in the house of Govardhana Dasa in the village of Sri Krishnapur in Saptagrama (Hooghly district).
 The village lies on the eastern bank of the ancient Sarasvati, a little south of the present Adi-Saptagram station:
 about a mile from it and about a mile and a half from Trish-Bigha station. Saptagrama itself means “seven villages”;
 those named are Saptagrama, Bamshibati, Shivapura, Basudevapura, Nityanandapura and Shankhanagara. In the fifteenth
@@ -64,15 +64,15 @@ lands and villages they supported themselves and taught. Hiranya and Govardhana 
 the Lord's maternal grandfather, as younger brothers, and so Mahaprabhu called them “aja,” “grandfather.”[^4] In earlier
 years they had greatly helped Jagannatha Mishra, and they honoured and served Advaita Acharya. <!-- F9 F10 -->
 
-The family priest was Balarama Acharya, and the guru was Yadunandana Acharya; both lived in Chandapura. Yadunandana was an
+The family priest was Balarama Acharya, and the guru was Yadunandana Acharya; both lived in Chandapur. Yadunandana was an
 intimate disciple of Advaita, a devotee of the Lord, favoured by Vasudeva Datta — and it was he who initiated Raghunatha.
 Raghunatha's kinsman and uncle Kalidasa was also a devotee of Mahaprabhu; he lived in Shankhanagara — or, by another
-account, in the village of Bheda (Bhaduya), some three miles south of Krishnapura and a mile west of the present Bandel
+account, in the village of Bheda (Bhaduya), some three miles south of Krishnapur and a mile west of the present Bandel
 station. <!-- F13 F86 F87 -->
 
 Balarama Acharya was a recipient of Haridasa Thakura's mercy. After converting the harlot whom Ramachandra Khan had sent
-to him, the Namacharya left Benapola for Chandapura and lived for some time with Balarama: in a thatched hut, accepting
-alms in his house and ceaselessly chanting the Name. Haridasa glorified the holy name in the Chandapura house of
+to him, the Namacharya left Benapole for Chandapur and lived for some time with Balarama: in a thatched hut, accepting
+alms in his house and ceaselessly chanting the Name. Haridasa glorified the holy name in the Chandapur house of
 Govardhana and Hiranya as well. The boy Raghunatha, who came to Balarama for his studies, saw Haridasa every day, kept
 his company and won his mercy:
 
@@ -99,7 +99,7 @@ the Lord, leaving Shantipura for Nilachala, accepted Raghunatha Dasa, as in Rama
 Back in Saptagrama, Raghunatha lived in separation from the Lord, and all his attempts to run away failed. His father set
 over him a guard of eleven men — five watchmen, four servants and two brahmanas. <!-- F91 -->
 
-In 1513 Mahaprabhu, having gone as far as Kanai-natashala, turned back and came again to Shantipura. Raghunatha
+In 1513 Mahaprabhu, having gone as far as Kanai-Natyashala, turned back and came again to Shantipura. Raghunatha
 persuaded his father to let him go to Advaita; his father agreed — with a large retinue and on condition that he return
 soon. The Lord said to the young man:
 
@@ -353,10 +353,10 @@ At first he had not even a shelter by Radha-kunda. Sometimes he stayed with Gopa
 Manasa-ganga at Govardhana. Once, after bathing in the Manasa-ganga, Raghunatha was sitting in bhajana under a tree when
 a tiger came to the water to drink. Sanatana saw this and told him to build a hut. <!-- F117 -->
 
-Mahaprabhu Himself, coming to Arita, had bathed in the water of a rice field and revealed that this was Radha-kunda and
+Mahaprabhu Himself, coming to Arit, had bathed in the water of a rice field and revealed that this was Radha-kunda and
 Shyama-kunda. Raghunatha wished to restore the sacred ponds but hesitated. Then a rich merchant, travelling to
 Badrinatha with a large offering, saw Badrinarayana in a dream, and He told him to give the money to Raghunatha. The
-merchant turned back, found Raghunatha at Arita, and under his supervision both ponds were dug out and faced with stone.
+merchant turned back, found Raghunatha at Arit, and under his supervision both ponds were dug out and faced with stone.
 On the bank of Shyama-kunda grew five trees. Yudhishthira appeared to Raghunatha in a dream and revealed that these trees
 were the five Pandavas; Raghunatha stopped the felling, and that is why Shyama-kunda is not quite rectangular.
 <!-- F114 F115 -->
