@@ -10495,6 +10495,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "companion"
    },
@@ -19952,6 +19956,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -26067,6 +26075,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
    {
     "from": "@jahnava",
     "type": "host"
@@ -35350,6 +35362,10 @@
     "type": "guru"
    },
    {
+    "from": "@bhaktivedanta-svami",
+    "type": "guru"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "other"
    },
@@ -43098,6 +43114,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@bhaktivedanta-svami",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "other"
    }
@@ -43537,6 +43557,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
    {
     "from": "@ramananda-raya",
     "type": "other"
@@ -44083,6 +44107,10 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "disciple"
+   },
+   {
+    "from": "@bhaktivedanta-svami",
+    "type": "other"
    }
   ]
  },
@@ -44098,6 +44126,10 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "co-worker"
+   },
+   {
+    "from": "@bhaktivedanta-svami",
+    "type": "other"
    }
   ]
  },
@@ -44128,6 +44160,105 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "sannyasa-guru"
+   }
+  ]
+ },
+ {
+  "id": "@bhaktivedanta-svami",
+  "ru": "А. Ч. Бхактиведанта Свами Прабхупада",
+  "en": "A. C. Bhaktivedanta Swami Prabhupada",
+  "note": "ученик Бхактисиддханты, ачарья-основатель ИСККОН; с 1965 г. проповедовал на Западе, ушёл в 1977 г. (T 288–290); не путать с @bhaktisiddhanta («Прабхупада» в T и B — обычно он)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "summary": "шактьявеша-аватара (T 290); гуру — Бхактисиддханта Сарасвати (Прабхупада); явление — Кришна-навами месяца Хришикеша, Нандотсава — по нашему календарю; уход — Гаура-чатурти месяца Дамодара — по нашему календарю",
+  "card": "parshadas/cards/bhaktivedanta-svami.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhaktivedanta-svami.md",
+   "en": "parshadas/en/bhaktivedanta-svami.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "Кришна-навами месяца Хришикеша (≈ бхадра), Нандотсава — по нашему календарю",
+    "place": "",
+    "conf": "T дату явления не даёт; титхи — по календарю",
+    "facts": [
+     "F12"
+    ]
+   },
+   "disappearance": {
+    "date": "1977",
+    "tithi": "Гаура-чатурти месяца Дамодара (≈ картика) — по нашему календарю",
+    "place": "",
+    "conf": "T — только год",
+    "facts": [
+     "F6",
+     "F12"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "перевод «Чайтанья-чаритамриты» с комментарием (Bhaktivedanta Book Trust)",
+    "facts": [
+     "F9",
+     "F16"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "other",
+    "as": "шактьявеша-аватара; «нитьянандавеша»",
+    "source": "T 290 (мнение автора)",
+    "level": "D"
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@bhaktisiddhanta",
+    "note": "В T прямо не сказано; подразумевается («после ухода Прабхупады (Сарасвати Тхакура)…»)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@shridhara-maharaja",
+    "note": "Письмо: указания Шридхара Махараджа принимает «на голову», «неизменный доброжелатель»."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-ballabha-tirtha",
+    "note": "Звал его с собой в США (1965); тот отказался, служа своему гуру."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "«Нитьянандавеша» — наделён силой Нитьянанды (T 290). = @nityananda F441."
+   },
+   {
+    "type": "other",
+    "who": "@uddharana-datta",
+    "note": "Посещал храм Уддхараны в детстве и в 1967 г."
+   },
+   {
+    "type": "other",
+    "who": "@lochana-dasa",
+    "note": "Песня Лочана даса «парама каруна» была ему особенно дорога (M)."
    }
   ]
  }

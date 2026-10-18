@@ -190,6 +190,79 @@
   "note": "Общий день ухода."
  },
  {
+  "from": "@bhaktivedanta-svami",
+  "type": "guru",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F11"
+  ],
+  "note": "В T прямо не сказано; подразумевается («после ухода Прабхупады (Сарасвати Тхакура)…»)."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "siksha-guru",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F10",
+   "F11"
+  ],
+  "note": "Письмо: указания Шридхара Махараджа принимает «на голову», «неизменный доброжелатель»."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F10"
+  ],
+  "note": "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "other",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F10"
+  ],
+  "note": "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "other",
+  "who": "@bhakti-ballabha-tirtha",
+  "facts": [
+   "F8"
+  ],
+  "note": "Звал его с собой в США (1965); тот отказался, служа своему гуру."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F3"
+  ],
+  "note": "«Нитьянандавеша» — наделён силой Нитьянанды (T 290). = @nityananda F441."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "other",
+  "who": "@uddharana-datta",
+  "facts": [
+   "F9"
+  ],
+  "note": "Посещал храм Уддхараны в детстве и в 1967 г."
+ },
+ {
+  "from": "@bhaktivedanta-svami",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F17"
+  ],
+  "note": "Песня Лочана даса «парама каруна» была ему особенно дорога (M)."
+ },
+ {
   "from": "@bhugarbha",
   "type": "guru",
   "who": "@gadadhara-pandita",

@@ -1,0 +1,61 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/bhaktivedanta-svami.md.
+id: "@bhaktivedanta-svami"
+names:
+  ru: "Его Божественная Милость А. Ч. Бхактиведанта Свами Прабхупада"
+  en: "His Divine Grace A. C. Bhaktivedanta Swami Prabhupada"
+  variants: ["Шрила Прабхупада (в его главе T)", "Бхактиведанта Свами Махарадж", "Шрипад Бхактиведанта Свами"]
+  facts: [F1, F11, F15]
+kind: acharya
+circle: [later]
+period: [P15]
+period_note: "XX век: ученик Бхактисиддханты, проповедник на Западе (1965–1977); в лилах Господа не участвует, события lila-db не связаны."
+sampradaya: {name: "линия Бхактисиддханты Сарасвати", facts: [F1, F10]}
+life:
+  appearance:
+    date: ""
+    tithi: "Кришна-навами месяца Хришикеша (≈ бхадра), Нандотсава — по нашему календарю"
+    place: ""
+    conf: "T дату явления не даёт; титхи — по календарю"
+    facts: [F12]
+  disappearance:
+    date: "1977"
+    tithi: "Гаура-чатурти месяца Дамодара (≈ картика) — по нашему календарю"
+    place: ""
+    conf: "T — только год"
+    facts: [F6, F12]
+relations:
+  - {type: guru, who: "@bhaktisiddhanta", facts: [F11], note: "В T прямо не сказано; подразумевается («после ухода Прабхупады (Сарасвати Тхакура)…»)."}
+  - {type: siksha-guru, who: "@shridhara-maharaja", facts: [F10, F11], note: "Письмо: указания Шридхара Махараджа принимает «на голову», «неизменный доброжелатель»."}
+  - {type: other, who: "@bhakti-dayita-madhava", facts: [F10], note: "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."}
+  - {type: other, who: "@bhakti-pramoda-puri", facts: [F10], note: "Духовный брат; оба считали Шридхара Махараджа шикша-гуру."}
+  - {type: other, who: "@bhakti-ballabha-tirtha", facts: [F8], note: "Звал его с собой в США (1965); тот отказался, служа своему гуру."}
+  - {type: other, who: "@nityananda", facts: [F3], note: "«Нитьянандавеша» — наделён силой Нитьянанды (T 290). = @nityananda F441."}
+  - {type: other, who: "@uddharana-datta", facts: [F9], note: "Посещал храм Уддхараны в детстве и в 1967 г."}
+  - {type: other, who: "@lochana-dasa", facts: [F17], note: "Песня Лочана даса «парама каруна» была ему особенно дорога (M)."}
+unnamed:
+  - {who: "Бхакти Видхан Махайоги Свами — переводчик M, его ученик", type: disciple, facts: [F15]}
+  - {who: "американские ученики, посетившие с ним храм Уддхараны (1967)", type: disciple, facts: [F9]}
+  - {who: "родители (суварна-ваники)", type: relative, facts: [F9]}
+identities:
+  - {in: other, as: "шактьявеша-аватара; «нитьянандавеша»", source: "T 290 (мнение автора)", level: D, facts: [F3]}
+events: []
+events_note: "Лицо XX в.; событий lila-db нет."
+teachings_given:
+  - {title: "сознание Кришны — дхарма души, а не продукт одной культуры", facts: [F6, F7]}
+  - {title: "толкование песни Лочана даса: путь Нитай-Гауры радостен — пой и танцуй", facts: [F17]}
+works:
+  - {title: "перевод «Чайтанья-чаритамриты» с комментарием (Bhaktivedanta Book Trust)", facts: [F9, F16]}
+places: ["#saptagrama"]
+places_facts: [F5, F6, F9]
+character:
+  - {trait: "смирение вместе с требовательностью к ученикам ради Господа", facts: [F4, I1]}
+  - {trait: "почтение к старшему духовному брату (Шридхару Махараджу)", facts: [F10, F11]}
+significance: {facts: [F1, F2, F3, F6, F7, F13, I2, I3, I4]}
+sources:
+  T: "288–290 (глава, pdf 320–322; 289 — фото); упоминания: 92, 290, 295; pdf 21"
+  M: "pdf 6, 7; 93 (pdf 109); цитаты его комментариев к ЧЧ"
+  B: ""
+  other: ["ШБ 6.14.5 (цит. в T); ЧЧ Ади 11.41 — его комментарий (цит. в T 92)"]
+article: {ru: "parshadas/ru/bhaktivedanta-svami.md", en: "parshadas/en/bhaktivedanta-svami.md"}
+open_questions:
+  - "Год и место явления, точные даты T не даёт (только 1965 и 1977); календарные поля — титхи по нашему календарю."
