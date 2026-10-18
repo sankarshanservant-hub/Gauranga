@@ -4629,6 +4629,233 @@
   ]
  },
  {
+  "from": "@madhvacharya",
+  "type": "sannyasa-guru",
+  "who": "@achyutapreksha",
+  "facts": [
+   "F13",
+   "F15",
+   "F26"
+  ],
+  "note": "Санньяса в 12 лет; позже Мадхва обратил его в вайшнавизм — «гуру стал учеником»."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "guru",
+  "who": "@vyasa",
+  "facts": [
+   "F4",
+   "F20",
+   "F21",
+   "F22"
+  ],
+  "note": "ГГД (по T): дикша в мантру Кришны от Вьясы; M: встреча в Бадарикашраме, одобрение «Гита-бхашьи», шалаграма «Аштамурти»."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "disciple",
+  "who": "@padmanabha-tirtha",
+  "facts": [
+   "F4",
+   "F24",
+   "F25",
+   "F45"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "disciple",
+  "who": "@narahari-tirtha",
+  "facts": [
+   "F4",
+   "F8",
+   "F24",
+   "F25",
+   "F45"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "disciple",
+  "who": "@madhava-tirtha",
+  "facts": [
+   "F4",
+   "F45"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "disciple",
+  "who": "@akshobhya-tirtha",
+  "facts": [
+   "F4",
+   "F45"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "disciple",
+  "who": "@trivikrama-pandita",
+  "facts": [
+   "F36",
+   "F43",
+   "F44"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "disciple",
+  "who": "@satya-tirtha",
+  "facts": [
+   "F22",
+   "F35"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "other",
+  "who": "@narayana-panditacharya",
+  "facts": [
+   "F33",
+   "F44"
+  ],
+  "note": "Сын Тривикрамы, автор «Мадхва-виджаи» — главного жизнеописания."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "deity-served",
+  "who": "@krishna",
+  "facts": [
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32"
+  ],
+  "event": "ev-udupi-tattvavadis",
+  "note": "Божество Кришны (Танцующий Гопал) из глыбы гопи-чанданы, установлено в Удупи."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "lineage-successor",
+  "who": "@vyasatirtha",
+  "facts": [
+   "F6"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "lineage-successor",
+  "who": "@lakshmipati-tirtha",
+  "facts": [
+   "F4",
+   "I4"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "lineage-successor",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F4",
+   "F53",
+   "I4"
+  ],
+  "note": "Принял сампрадаю Мадхвы; первым внёс в неё према-бхакти в шрингара-расе (Бхактивинода, Бхактисиддханта)."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "lineage-successor",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F4",
+   "F53",
+   "I5"
+  ],
+  "event": "ev-udupi-tattvavadis",
+  "note": "Господь принял сампрадаю Мадхвы (B 544); в Удупи плясал перед Кришной Мадхвы."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "lineage-successor",
+  "who": "@baladeva-vidyabhushana",
+  "facts": [
+   "F5",
+   "F48",
+   "F50",
+   "F56",
+   "F57",
+   "I6"
+  ],
+  "note": "Сначала — санньяси школы Мадхвы; в «Прамея-ратнавали» — девять начал Мадхвы и цепь от него."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F40",
+   "F49",
+   "F53",
+   "F54"
+  ],
+  "note": "Опирался на «Бхагавата-татпарью» Мадхвы и стихи «Брахма-тарки»."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "other",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F55"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "other",
+  "who": "@ramanujacharya",
+  "facts": [
+   "F19",
+   "F49",
+   "F51",
+   "F52"
+  ],
+  "note": "В Шрирангаме Мадхва счёл вишиштадвайту недостаточной против Шанкары."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "opposed",
+  "who": "@shankaracharya",
+  "facts": [
+   "F14",
+   "F16",
+   "F17",
+   "F18",
+   "F41",
+   "F51"
+  ],
+  "note": "Опровергал майяваду; противники — ачарьи Шрингери-матха."
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F47",
+   "F59",
+   "F60",
+   "F61"
+  ]
+ },
+ {
+  "from": "@madhvacharya",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F58",
+   "I4"
+  ]
+ },
+ {
   "from": "@narahari-sarakara",
   "type": "father",
   "who": "@narayana-dasa-shrikhanda",

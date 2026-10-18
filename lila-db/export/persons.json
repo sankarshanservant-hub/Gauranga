@@ -4125,6 +4125,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@madhvacharya",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "companion"
    },
@@ -4734,6 +4738,10 @@
    "ev-tattva-gaura-nitai-names-prema"
   ],
   "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "deity-served"
+   },
    {
     "from": "@raghunatha-dasa",
     "type": "deity-served"
@@ -16138,6 +16146,10 @@
     "type": "guest"
    },
    {
+    "from": "@madhvacharya",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@nityananda",
     "type": "guru"
    },
@@ -23860,6 +23872,10 @@
     "type": "friend"
    },
    {
+    "from": "@madhvacharya",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "companion"
    },
@@ -29451,6 +29467,10 @@
    {
     "from": "@jahnava",
     "type": "met"
+   },
+   {
+    "from": "@madhvacharya",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -35144,6 +35164,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@madhvacharya",
+    "type": "lineage-successor"
    }
   ]
  },
@@ -35335,6 +35359,10 @@
     "type": "other"
    },
    {
+    "from": "@madhvacharya",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "other"
    },
@@ -35431,6 +35459,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@madhvacharya",
     "type": "other"
    },
    {
@@ -36740,6 +36772,10 @@
    "ev-tattva-gaura-scripture-proofs"
   ],
   "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "guru"
+   },
    {
     "from": "@nityananda",
     "type": "met"
@@ -40497,6 +40533,203 @@
    "ev-udupi-tattvavadis",
    "ev-four-sampradayas"
   ],
+  "summary": "воплощение Ваю (M pdf 336); гуру — Ачьютапрекша, Вьяса; происхождение — Удупи; явление — Гаура-дашами месяца Падманабхи — по нашему календарю; уход — Гаура-навами месяца Мадхавы — по нашему календарю",
+  "card": "parshadas/cards/madhvacharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/madhvacharya.md",
+   "en": "parshadas/en/madhvacharya.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "elders"
+  ],
+  "life": {
+   "appearance": {
+    "year": 1238,
+    "place": "Тулунада (так у M), ок. 8 миль к юго-востоку от #udupi",
+    "tithi": "Гаура-дашами месяца Падманабхи (Виджая-дашами) — по нашему календарю; у M дня нет",
+    "conf": "год — M, по надписям Нарахари Тиртхи в Шрикурмаме и «Ану-Мадхва-чарите»",
+    "facts": [
+     "F8",
+     "F9",
+     "F47"
+    ]
+   },
+   "disappearance": {
+    "year": 1317,
+    "tithi": "Гаура-навами месяца Мадхавы — по нашему календарю (= M: 9-й день светлой половины магхи)",
+    "conf": "M; 79 лет, накануне восьмидесятилетия",
+    "facts": [
+     "F8",
+     "F46"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Гита-бхашья»",
+    "facts": [
+     "F21",
+     "F22",
+     "F39"
+    ]
+   },
+   {
+    "title": "комментарий на Брахма-сутры («Пурнапраджня-бхашья»)",
+    "facts": [
+     "F22",
+     "F39"
+    ]
+   },
+   {
+    "title": "«Анувьякхьяна»",
+    "facts": [
+     "F39"
+    ]
+   },
+   {
+    "title": "«Даша-пракараны»",
+    "facts": [
+     "F39"
+    ]
+   },
+   {
+    "title": "комментарии на десять упанишад (последний — «Айтарея»)",
+    "facts": [
+     "F39",
+     "F46"
+    ]
+   },
+   {
+    "title": "«Бхагавата-татпарья» (комментарий на «Бхагаватам»)",
+    "facts": [
+     "F39",
+     "F40"
+    ]
+   },
+   {
+    "title": "«Махабхарата-татпарья» («Мокша-дхарма» у M)",
+    "facts": [
+     "F39"
+    ]
+   },
+   {
+    "title": "«Ньяя-виварана», «Карма-нирная», «Кришнамрита-махарнава»",
+    "facts": [
+     "F39"
+    ]
+   },
+   {
+    "title": "молитвы Кришне при обретении Божества",
+    "facts": [
+     "F29"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "other",
+    "as": "воплощение Ваю (бога ветра)",
+    "source": "M pdf 336 («говорят»)",
+    "level": "D"
+   }
+  ],
+  "relations": [
+   {
+    "type": "sannyasa-guru",
+    "who": "@achyutapreksha",
+    "note": "Санньяса в 12 лет; позже Мадхва обратил его в вайшнавизм — «гуру стал учеником»."
+   },
+   {
+    "type": "guru",
+    "who": "@vyasa",
+    "note": "ГГД (по T): дикша в мантру Кришны от Вьясы; M: встреча в Бадарикашраме, одобрение «Гита-бхашьи», шалаграма «Аштамурти»."
+   },
+   {
+    "type": "disciple",
+    "who": "@padmanabha-tirtha"
+   },
+   {
+    "type": "disciple",
+    "who": "@narahari-tirtha"
+   },
+   {
+    "type": "disciple",
+    "who": "@madhava-tirtha"
+   },
+   {
+    "type": "disciple",
+    "who": "@akshobhya-tirtha"
+   },
+   {
+    "type": "disciple",
+    "who": "@trivikrama-pandita"
+   },
+   {
+    "type": "disciple",
+    "who": "@satya-tirtha"
+   },
+   {
+    "type": "other",
+    "who": "@narayana-panditacharya",
+    "note": "Сын Тривикрамы, автор «Мадхва-виджаи» — главного жизнеописания."
+   },
+   {
+    "type": "deity-served",
+    "who": "@krishna",
+    "note": "Божество Кришны (Танцующий Гопал) из глыбы гопи-чанданы, установлено в Удупи."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@vyasatirtha"
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@lakshmipati-tirtha"
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@madhavendra-puri",
+    "note": "Принял сампрадаю Мадхвы; первым внёс в неё према-бхакти в шрингара-расе (Бхактивинода, Бхактисиддханта)."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@mahaprabhu",
+    "note": "Господь принял сампрадаю Мадхвы (B 544); в Удупи плясал перед Кришной Мадхвы."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@baladeva-vidyabhushana",
+    "note": "Сначала — санньяси школы Мадхвы; в «Прамея-ратнавали» — девять начал Мадхвы и цепь от него."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "Опирался на «Бхагавата-татпарью» Мадхвы и стихи «Брахма-тарки»."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "other",
+    "who": "@ramanujacharya",
+    "note": "В Шрирангаме Мадхва счёл вишиштадвайту недостаточной против Шанкары."
+   },
+   {
+    "type": "opposed",
+    "who": "@shankaracharya",
+    "note": "Опровергал майяваду; противники — ачарьи Шрингери-матха."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda"
+   }
+  ],
   "related_by": [
    {
     "from": "@jiva-gosvami",
@@ -41979,6 +42212,10 @@
     "type": "guru"
    },
    {
+    "from": "@madhvacharya",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@nityananda",
     "type": "guru"
    }
@@ -42616,6 +42853,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@madhvacharya",
+    "type": "opposed"
    }
   ]
  },
@@ -43931,6 +44172,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@madhvacharya",
+    "type": "lineage-successor"
+   },
+   {
     "from": "@rasikananda",
     "type": "lineage-successor"
    },
@@ -44789,6 +45034,204 @@
    {
     "from": "@shridhara-maharaja",
     "type": "siksha-disciple"
+   }
+  ]
+ },
+ {
+  "id": "@ramanujacharya",
+  "ru": "Рамануджачарья",
+  "en": "Ramanujacharya",
+  "note": "Рамануджа, Яти-раджа, Лакшмана (детское имя); ачарья Шри-сампрадаи, вишиштадвайта, «Шри-бхашья» (ок. 1017–1117; M pdf 315–332)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@yamunacharya",
+  "ru": "Ямуначарья (Алавандар)",
+  "en": "Yamunacharya (Alavandar)",
+  "note": "Алабандару; внук Натхамуни, предшественник Рамануджи в Шри-сампрадае, «Стотра-ратна» (M pdf 316–324)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@nathamuni",
+  "ru": "Натхамуни",
+  "en": "Nathamuni",
+  "note": "первый ачарья Шри-вайшнавов, собрал «Тамильские Веды» (Прабандху); дед Ямуначарьи (M pdf 315–316)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@kanchipurna",
+  "ru": "Канчипурна",
+  "en": "Kanchipurna",
+  "note": "шри-вайшнав из шудр в Канчи, ученик Ямуначарьи, первый наставник Рамануджи (M pdf 321–324)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@yadava-prakasha",
+  "ru": "Ядава Пракаша (Говинда Джияр)",
+  "en": "Yadava Prakasha (Govinda Jiyar)",
+  "note": "адвайтист в Канчи, учитель Рамануджи, позже его ученик; «Яти-дхарма-самуччая» (M pdf 321–327)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@mahapurna",
+  "ru": "Махапурна",
+  "en": "Mahapurna",
+  "note": "ученик Ямуначарьи в Шрирангаме, наставник Рамануджи в шастрах (M pdf 327–328)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@goshthipurna",
+  "ru": "Гоштхипурна",
+  "en": "Goshthipurna",
+  "note": "шри-вайшнав, давший Раманудже мантру после 18 отказов (M pdf 328–329; T 242)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@kuresha",
+  "ru": "Куреша (Куратталвар)",
+  "en": "Kuresha (Kurattalvar)",
+  "note": "второй и главный ученик Рамануджи; ослеплён царём-шиваитом вместо него (M pdf 325–330; B 589)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@achyutapreksha",
+  "ru": "Ачьютапрекша",
+  "en": "Achyutapreksha",
+  "note": "санньяса-гуру Мадхвы, позже его последователь (M pdf 333–335)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "sannyasa-guru"
+   }
+  ]
+ },
+ {
+  "id": "@padmanabha-tirtha",
+  "ru": "Падманабха Тиртха",
+  "en": "Padmanabha Tirtha",
+  "note": "ученик Мадхвы (прежде Шобхана Бхатта), первый в цепи после него (ГГД 22; M pdf 335, 338)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@narahari-tirtha",
+  "ru": "Нарахари Тиртха",
+  "en": "Narahari Tirtha",
+  "note": "ученик Мадхвы (прежде Свами Шастри), министр Калинги, надписи в Шрикурмаме (ГГД 22; M pdf 333–338); не путать с @narahari-sarakara",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@madhava-tirtha",
+  "ru": "Мадхава Тиртха",
+  "en": "Madhava Tirtha",
+  "note": "ученик Мадхвы, в цепи ГГД — «Мадхава-двиджа» (M pdf 338; T 5)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@akshobhya-tirtha",
+  "ru": "Акшобхья Тиртха",
+  "en": "Akshobhya Tirtha",
+  "note": "ученик Мадхвы, в цепи ГГД (M pdf 338; T 5)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@trivikrama-pandita",
+  "ru": "Тривикрама Пандит",
+  "en": "Trivikrama Pandita",
+  "note": "придворный пандит Джаясимхи в Кумбле, ставший учеником Мадхвы; «Таттва-прадипа» (M pdf 337–338)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@narayana-panditacharya",
+  "ru": "Нараяна Пандитачарья",
+  "en": "Narayana Panditacharya",
+  "note": "сын Тривикрамы Пандита, автор «Мадхва-виджаи» (M pdf 336–339)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@satya-tirtha",
+  "ru": "Сатья Тиртха",
+  "en": "Satya Tirtha",
+  "note": "спутник и ученик-санньяси Мадхвы, записал его «Гита-бхашью» (M pdf 335–336)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhvacharya",
+    "type": "disciple"
    }
   ]
  }
