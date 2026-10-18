@@ -107,7 +107,7 @@ B — вероятно, больше сотни).
 | @jiva-gosvami (021) | ✓ (из частей) | ✓ (PDF) | — |
 | @gopala-bhatta (022) | ✓ | ✓ (PDF) | — |
 | @raghunatha-dasa (023) | ✓ | ✓ (PDF) | — |
-| @srinivasa-acharya (024) | ✓ | — | — |
+| @srinivasa-acharya (024) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
