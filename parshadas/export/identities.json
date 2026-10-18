@@ -689,6 +689,52 @@
   ]
  },
  {
+  "person": "@srinivasa-acharya",
+  "in": "tattva",
+  "as": "сила милости (крипа-шакти) Махапрабху, распространившая книги Госвами",
+  "source": "письмо Вирабхадры (БР 14), по B",
+  "level": "B",
+  "facts": [
+   "F3",
+   "I1",
+   "Q2"
+  ],
+  "variants": [
+   "Гаура-шакти — так поняли преданные Пури (M)"
+  ]
+ },
+ {
+  "person": "@srinivasa-acharya",
+  "in": "tattva",
+  "as": "воплощение чистой премы Махапрабху, неотличный от Него",
+  "source": "БР 2.123 (через T)",
+  "level": "B",
+  "facts": [
+   "F5",
+   "Q3"
+  ]
+ },
+ {
+  "person": "@srinivasa-acharya",
+  "in": "tattva",
+  "as": "авеша-аватара Махапрабху",
+  "source": "T (без первоисточника)",
+  "level": "C",
+  "facts": [
+   "F5"
+  ]
+ },
+ {
+  "person": "@srinivasa-acharya",
+  "in": "krishna-lila",
+  "as": "Мани-манджари",
+  "source": "«Карнананда» 3 (lila-db)",
+  "level": "B",
+  "facts": [],
+  "event": "ev-srinivasa-samadhi-nose-ring",
+  "variants": []
+ },
+ {
   "person": "@srivasa",
   "in": "krishna-lila",
   "as": "мудрец Нарада",

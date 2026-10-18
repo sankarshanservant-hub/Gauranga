@@ -4161,6 +4161,10 @@
     "type": "son"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "met"
    },
@@ -6067,6 +6071,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "deity-served"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "deity-served"
    }
   ]
  },
@@ -7410,6 +7418,10 @@
     "type": "other"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -8543,6 +8555,10 @@
    {
     "from": "@shachi",
     "type": "in-law"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -11690,6 +11706,10 @@
    {
     "from": "@shachi",
     "type": "friend"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -12544,6 +12564,10 @@
     "type": "other"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "companion"
    },
@@ -12649,6 +12673,10 @@
    {
     "from": "@shachi",
     "type": "servant"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@vasu-ghosha",
@@ -13946,6 +13974,10 @@
     "type": "friend"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "companion"
    },
@@ -15104,6 +15136,10 @@
    {
     "from": "@raghunandana",
     "type": "guru"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@vasu-ghosha",
@@ -16492,6 +16528,10 @@
     "type": "guru"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "companion"
    }
@@ -17054,6 +17094,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@svarupa-damodara",
@@ -20230,6 +20274,10 @@
     "type": "disciple"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    }
@@ -20615,6 +20663,10 @@
    {
     "from": "@raghunandana",
     "type": "companion"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@sundarananda",
@@ -22728,6 +22780,10 @@
     "type": "other"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "co-worker"
    }
@@ -23782,6 +23838,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "friend"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "guru"
    }
   ]
  },
@@ -24984,6 +25044,10 @@
     "type": "other"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@vakreshvara",
     "type": "co-worker"
    },
@@ -25656,6 +25720,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@svarupa-damodara",
@@ -26777,6 +26845,10 @@
     "type": "son"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@sundarananda",
     "type": "companion"
    }
@@ -27293,6 +27365,10 @@
     "type": "other"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -27373,6 +27449,10 @@
    },
    {
     "from": "@shachi",
+    "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    }
   ]
@@ -28304,6 +28384,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "friend"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -29345,6 +29429,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    }
@@ -29841,6 +29929,423 @@
    "ev-srinivasa-disciples",
    "ev-karnananda-composed"
   ],
+  "summary": "в Кришна-лиле — Мани-манджари («Карнананда» 3) и др.; гуру — Гопала Бхатта (Госвами); происхождение — Чакханди; явление — вайшакха-пурнима, накшатра Рохини — B, M, T и наш календарь; уход — Гаура-аштами месяца Дамодара — по нашему календарю",
+  "card": "parshadas/cards/srinivasa-acharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/srinivasa-acharya.md",
+   "en": "parshadas/en/srinivasa-acharya.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later",
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1530 (только T)",
+    "tithi": "вайшакха-пурнима (пурнима месяца Мадхусудана), накшатра Рохини — B, M, T и наш календарь",
+    "place": "#chakhandi",
+    "conf": "день — все согласны; год — только T",
+    "facts": [
+     "F15",
+     "F16"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Гаура-аштами месяца Дамодара (Гопаштами) — по нашему календарю; книги дня не дают",
+    "place": "",
+    "conf": "Место и год книги не называют; кто ушёл раньше — Шринивас или Рамачандра — расходятся: M — Шринивас ушёл, не вынеся вести об уходе Рамачандры; T 213, B 1111 — Рамачандра ушёл после Шринивасы; T 210 — наоборот (F135).",
+    "facts": [
+     "F135",
+     "F136"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Шад-госвами-аштака» (T)",
+    "facts": [
+     "F130"
+    ]
+   },
+   {
+    "title": "одна-две бенгальские песни (приписываются; образцы — в «Карнананде»)",
+    "facts": [
+     "F130"
+    ]
+   },
+   {
+    "title": "распространение книг Госвами в Гауде (вместе с ЧЧ)",
+    "facts": [
+     "F3",
+     "F13",
+     "F67",
+     "F68",
+     "F77",
+     "F125"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "сила милости (крипа-шакти) Махапрабху, распространившая книги Госвами",
+    "source": "письмо Вирабхадры (БР 14), по B",
+    "level": "B",
+    "variants": [
+     "Гаура-шакти — так поняли преданные Пури (M)"
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "воплощение чистой премы Махапрабху, неотличный от Него",
+    "source": "БР 2.123 (через T)",
+    "level": "B"
+   },
+   {
+    "in": "tattva",
+    "as": "авеша-аватара Махапрабху",
+    "source": "T (без первоисточника)",
+    "level": "C"
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Мани-манджари",
+    "source": "«Карнананда» 3 (lila-db)",
+    "level": "B"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@chaitanya-dasa"
+   },
+   {
+    "type": "mother",
+    "who": "@lakshmipriya-chakhandi"
+   },
+   {
+    "type": "grandfather",
+    "who": "@balarama-yajigrama",
+    "note": "Дед по матери; M — пандит и астролог."
+   },
+   {
+    "type": "spouse",
+    "who": "@draupadi-ishvari",
+    "note": "Первая жена; приняла от него дикшу и имя Ишвари; свадьба — вайшакха кришна-трития (B) или акшая-трития (M)."
+   },
+   {
+    "type": "spouse",
+    "who": "@gauranga-priya",
+    "note": "Вторая жена, дочь Рагхавы Чакраварти из Гопалпура (Радха); свадьбу устроил Вира Хамбир."
+   },
+   {
+    "type": "in-law",
+    "who": "@gopala-chakravarti-yajigrama",
+    "note": "Тесть и ученик."
+   },
+   {
+    "type": "in-law",
+    "who": "@shyamadasa-chakravarti",
+    "note": "Шурин и ученик; один из шести Чакраварти (ПВ 18)."
+   },
+   {
+    "type": "in-law",
+    "who": "@ramacharana-chakravarti",
+    "note": "Шурин (Рамачандра, иначе Рамачаран) и ученик."
+   },
+   {
+    "type": "in-law",
+    "who": "@raghava-chakravarti-gopalpur",
+    "note": "Отец Гауранга-прии; ему и его жене Мадхави (T) во сне велено отдать дочь Шринивасу."
+   },
+   {
+    "type": "daughter",
+    "who": "@hemalata",
+    "note": "Старшая дочь; после его ухода проповедовала; сорвала кантхи с Рупы Кавираджа; гуру Ядунанданы Даса."
+   },
+   {
+    "type": "daughter",
+    "who": "@krishnapriya-srinivasa"
+   },
+   {
+    "type": "daughter",
+    "who": "@kanchanalatika",
+    "note": "Младшая дочь (B, «Карнананда»); M вместо неё называет «Пхулапи Тхакурани»."
+   },
+   {
+    "type": "son",
+    "who": "@vrindavana-acharya",
+    "note": "Старший сын; имя «Вриндаван Дас» дал Джива."
+   },
+   {
+    "type": "son",
+    "who": "@radhakrishna-acharya"
+   },
+   {
+    "type": "son",
+    "who": "@gati-govinda",
+    "note": "Автор «Вира-ратнавали»; от него — род Радхамоханы Тхакура."
+   },
+   {
+    "type": "relative",
+    "who": "@radhamohana-thakura",
+    "note": "Правнук (B 676), составитель «Падамрита-самудры»."
+   },
+   {
+    "type": "guru",
+    "who": "@gopala-bhatta",
+    "note": "Дикша-гуру; посвятил во Вриндаване (B: после омовения в Ямуне; M: в храме Радха-раманы)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@jiva-gosvami",
+    "note": "Дал титул «Ачарья», жильё у Радха-Дамодары; послал с книгами в Гауду; два письма; называл «махаттама»."
+   },
+   {
+    "type": "companion",
+    "who": "@narottama-dasa",
+    "note": "Друг, «единый душою»; вместе обошли Врадж и Навадвипу; Кхетури; песни Нароттамы о нём."
+   },
+   {
+    "type": "companion",
+    "who": "@shyamananda",
+    "note": "Джива вверил Шьямананду Шринивасу (B)."
+   },
+   {
+    "type": "disciple",
+    "who": "@ramachandra-kaviraja",
+    "note": "Ближайший ученик и слуга; кто ушёл раньше — источники расходятся."
+   },
+   {
+    "type": "disciple",
+    "who": "@govinda-kaviraja",
+    "note": "Посвящён в Будхари (БР 10.171, по B)."
+   },
+   {
+    "type": "disciple",
+    "who": "@vira-hambira",
+    "note": "Царь-разбойник Вишнупура, похитивший книги; харинама, затем югала-мантра; имя Чайтанья Дас; устроил вторую свадьбу."
+   },
+   {
+    "type": "disciple",
+    "who": "@vira-hambira-queen"
+   },
+   {
+    "type": "disciple",
+    "who": "@dhadi-hambira",
+    "note": "M: имя Гопал Дас."
+   },
+   {
+    "type": "disciple",
+    "who": "@krishnavallabha"
+   },
+   {
+    "type": "disciple",
+    "who": "@shridasa-chakravarti"
+   },
+   {
+    "type": "disciple",
+    "who": "@gokulananda"
+   },
+   {
+    "type": "disciple",
+    "who": "@karnapura-kaviraja",
+    "note": "Один из восьми кавираджей; строфы о качествах Шринивасы (в «Нароттама-виласе»)."
+   },
+   {
+    "type": "disciple",
+    "who": "@radhavallabha-dasa-poet",
+    "note": "«Ученик» по ПВ и «Карнананде»."
+   },
+   {
+    "type": "disciple",
+    "who": "@rupa-kaviraja",
+    "note": "Мнимый ученик (шишья-бруво); назвал гуру «грихастхой», отвергнут как «атибади»."
+   },
+   {
+    "type": "disciple",
+    "who": "@yadunandana-dasa-author",
+    "note": "По B — «его ученик» (неоднозначно); по «Карнананде» — ученик Хемалаты."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@harirama-acharya",
+    "note": "Ученик Рамачандры, проповедовал по наставлению Шринивасы."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Предсказал его рождение; после сокрытия утешил во сне и послал в Нилачалу; явился в киртане в Кхетури; велел во сне жениться вторично (T)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-sarakara",
+    "note": "Отеческая любовь; послал в Пури; велел жениться; праздник разлуки по нему."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "Устроил первую свадьбу; перед уходом благословил на проповедь."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Пури: «Бхагаватам» из его уст; по его велению вернулся в Гауду."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya"
+   },
+   {
+    "type": "other",
+    "who": "@vamshivadana"
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "T: благословила во сне."
+   },
+   {
+    "type": "other",
+    "who": "@sita-thakurani"
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Велела идти во Вриндаван; по её указанию — абхишека в Кхетури; гостила в Яджиграме; почитаема им как джагад-гуру."
+   },
+   {
+    "type": "other",
+    "who": "@vasudha"
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "note": "Письмо о нём как о силе милости Махапрабху; гостил в Яджиграме."
+   },
+   {
+    "type": "other",
+    "who": "@abhirama"
+   },
+   {
+    "type": "other",
+    "who": "@malini-abhirama"
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Радха-кунда: наставления о бхаджане (M)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@raghava-gosvami-govardhana"
+   },
+   {
+    "type": "other",
+    "who": "@bhugarbha"
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha"
+   },
+   {
+    "type": "other",
+    "who": "@madhu-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-bhattacharya"
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya"
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma"
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "B 807: обнял его, видя в нём будущего проповедника; вскоре ушёл."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Плакал у его самадхи."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-ghosha"
+   },
+   {
+    "type": "other",
+    "who": "@dhananjaya-vidyanivasa",
+    "note": "Учитель в детстве."
+   },
+   {
+    "type": "other",
+    "who": "@ishana-navadvipa"
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-dasa",
+    "note": "Благословил на женитьбу (M); праздник в день его ухода."
+   },
+   {
+    "type": "other",
+    "who": "@dvija-haridasa"
+   },
+   {
+    "type": "other",
+    "who": "@kanai-shrikhanda"
+   },
+   {
+    "type": "other",
+    "who": "@santosha-datta"
+   },
+   {
+    "type": "other",
+    "who": "@harinarayana-raja"
+   },
+   {
+    "type": "other",
+    "who": "@uddhava-dasa-padakarta"
+   },
+   {
+    "type": "other",
+    "who": "@vishvanatha-chakravarti"
+   },
+   {
+    "type": "other",
+    "who": "@nrisimha-kaviraja",
+    "note": "Автор строф «Навападьи» о нём."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti"
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-damodara-deity"
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-deity",
+    "note": "Гирлянда Говинды — знак силы проповедовать книги."
+   },
+   {
+    "type": "deity-served",
+    "who": "@kalachand-deity",
+    "note": "Установил и омыл в Вишнупуре."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhugarbha",
@@ -29966,6 +30471,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "father"
    }
   ]
  },
@@ -30017,6 +30526,10 @@
    {
     "from": "@narahari-sarakara",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "mother"
    }
   ]
  },
@@ -30047,6 +30560,12 @@
   ],
   "events": [
    "ev-srinivasa-schooling"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -30089,6 +30608,10 @@
    {
     "from": "@shachi",
     "type": "servant"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@vishnupriya",
@@ -30139,6 +30662,10 @@
    {
     "from": "@shachi",
     "type": "servant"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    },
    {
     "from": "@vishnupriya",
@@ -30491,6 +31018,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "companion"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -30742,6 +31273,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -31073,6 +31608,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
    }
   ]
  },
@@ -31170,6 +31709,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
    }
   ]
  },
@@ -31185,6 +31728,12 @@
   ],
   "events": [
    "ev-abhirama-whip-srinivasa"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -31410,6 +31959,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "companion"
    }
   ]
  },
@@ -31786,6 +32339,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@sundarananda",
     "type": "other"
    },
@@ -31875,6 +32432,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
    }
   ]
  },
@@ -31904,6 +32465,12 @@
    "ev-srinivasa-samadhi-nose-ring",
    "ev-kheturi-festival",
    "ev-narottama-sacred-thread"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -32024,6 +32591,12 @@
    "ev-prema-bhakti-chandrika",
    "ev-virachandra-yajigrama-kheturi",
    "ev-narottama-disappearance"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "siksha-disciple"
+   }
   ]
  },
  {
@@ -32132,6 +32705,10 @@
    {
     "from": "@raghunandana",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "spouse"
    }
   ]
  },
@@ -32167,6 +32744,10 @@
    {
     "from": "@jahnava",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "spouse"
    }
   ]
  },
@@ -32193,6 +32774,12 @@
    "ev-gati-govinda-birth",
    "ev-virachandra-vishnupura",
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "son"
+   }
   ]
  },
  {
@@ -32863,6 +33450,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    }
   ]
@@ -34628,6 +35219,10 @@
     "type": "son"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    }
@@ -34652,6 +35247,10 @@
    },
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    },
    {
@@ -37219,6 +37818,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -37267,6 +37870,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -37317,6 +37924,10 @@
   "related_by": [
    {
     "from": "@jiva-gosvami",
+    "type": "deity-served"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "deity-served"
    }
   ]
@@ -37452,6 +38063,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
    }
   ]
  },
@@ -37492,6 +38107,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "daughter"
    }
   ]
  },
@@ -37507,6 +38126,12 @@
   ],
   "events": [
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "daughter"
+   }
   ]
  },
  {
@@ -37523,6 +38148,12 @@
   "events": [
    "ev-ramachandra-obedience",
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "son"
+   }
   ]
  },
  {
@@ -37537,6 +38168,12 @@
   ],
   "events": [
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "son"
+   }
   ]
  },
  {
@@ -37583,6 +38220,10 @@
    {
     "from": "@raghunandana",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
    }
   ]
  },
@@ -37599,6 +38240,12 @@
   "events": [
    "ev-vira-hambira-padas-queen",
    "ev-kalachand-installation"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "deity-served"
+   }
   ]
  },
  {
@@ -37612,6 +38259,12 @@
   ],
   "events": [
    "ev-kalachand-installation"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -37625,6 +38278,12 @@
   ],
   "events": [
    "ev-vira-hambira-padas-queen"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -37692,6 +38351,10 @@
    {
     "from": "@jahnava",
     "type": "host"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -37858,6 +38521,12 @@
   ],
   "events": [
    "ev-jiva-srinivasa-letters"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -37875,6 +38544,12 @@
    "ev-gokulananda-shridasa-disciples",
    "ev-srinivasa-second-vrindavana",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -37894,6 +38569,12 @@
    "ev-srinivasa-second-vrindavana",
    "ev-kheturi-festival-invitations",
    "ev-kheturi-festival"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -37913,6 +38594,12 @@
    "ev-srinivasa-second-vrindavana",
    "ev-kheturi-festival-invitations",
    "ev-kheturi-festival"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -39303,6 +39990,12 @@
   "events": [
    "ev-prema-for-srinivasa",
    "ev-srinivasa-birth"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "grandfather"
+   }
   ]
  },
  {
@@ -39324,6 +40017,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    }
   ]
@@ -40621,6 +41318,12 @@
   ],
   "events": [
    "ev-srinivasa-disciples"
+  ],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "in-law"
+   }
   ]
  },
  {
@@ -42589,6 +43292,10 @@
    {
     "from": "@raghunandana",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "other"
    }
   ]
  },
@@ -42627,6 +43334,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
    }
   ]
  },
@@ -42642,6 +43353,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@srinivasa-acharya",
+    "type": "relative"
    }
   ]
  },
@@ -42750,6 +43465,96 @@
   "related_by": [
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@gopala-chakravarti-yajigrama",
+  "ru": "Гопала Чакраварти (Яджиграм)",
+  "en": "Gopala Chakravarti (of Yajigrama)",
+  "note": "тесть и ученик Шринивасы Ачарьи, отец Драупади (Ишвари); не путать с @gopala-chakravarti",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "in-law"
+   }
+  ]
+ },
+ {
+  "id": "@shyamadasa-chakravarti",
+  "ru": "Шьямадас (Шьямананда) Чакраварти",
+  "en": "Shyamadasa (Shyamananda) Chakravarti",
+  "note": "сын @gopala-chakravarti-yajigrama, шурин и ученик Шринивасы; один из шести Чакраварти («Према-виласа» 18)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "in-law"
+   }
+  ]
+ },
+ {
+  "id": "@raghava-chakravarti-gopalpur",
+  "ru": "Рагхава Чакраварти (Гопалпур)",
+  "en": "Raghava Chakravarti (of Gopalpur)",
+  "note": "брахман из Гопалпура в Радхе, отец Гауранга-прии, второй жены Шринивасы; жена — Мадхави",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "in-law"
+   }
+  ]
+ },
+ {
+  "id": "@kanchanalatika",
+  "ru": "Канчаналатика Тхакурани",
+  "en": "Kanchanalatika Thakurani",
+  "note": "младшая дочь Шринивасы Ачарьи («Карнананда»; у M — «Пхулапи»)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "daughter"
+   }
+  ]
+ },
+ {
+  "id": "@rupa-kaviraja",
+  "ru": "Рупа Кавирадж",
+  "en": "Rupa Kaviraja",
+  "note": "мнимый ученик Шринивасы, назвал его «грихастхой»; основатель «ати-бари» («бенгальский атибади»), отлучён; опровергнут Вишванатхой",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@nrisimha-kaviraja",
+  "ru": "Нрисимха Кавирадж",
+  "en": "Nrisimha Kaviraja",
+  "note": "поэт, автор «Навападьи» (строфы о Шринивасе, по B 663, 665); возможно, тот же Нрисимха, что среди восьми кавираджей Шринивасы («Према-виласа» 18)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@srinivasa-acharya",
     "type": "other"
    }
   ]

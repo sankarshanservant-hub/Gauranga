@@ -9078,6 +9078,838 @@
   "note": "Благословила его во сне (F65)."
  },
  {
+  "from": "@srinivasa-acharya",
+  "type": "father",
+  "who": "@chaitanya-dasa",
+  "facts": [
+   "F7",
+   "F9",
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "F17",
+   "F18",
+   "F22",
+   "F23"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa",
+   "ev-srinivasa-father-death-yajigrama"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "mother",
+  "who": "@lakshmipriya-chakhandi",
+  "facts": [
+   "F10",
+   "F11",
+   "F15",
+   "F17",
+   "F19",
+   "F24",
+   "F27",
+   "F47",
+   "F81"
+  ],
+  "events": [
+   "ev-srinivasa-birth",
+   "ev-srinivasa-journey-vrindavana"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "grandfather",
+  "who": "@balarama-yajigrama",
+  "facts": [
+   "F10",
+   "F11",
+   "F24"
+  ],
+  "note": "Дед по матери; M — пандит и астролог."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "spouse",
+  "who": "@draupadi-ishvari",
+  "facts": [
+   "F82",
+   "F83"
+  ],
+  "event": "ev-srinivasa-marriage",
+  "note": "Первая жена; приняла от него дикшу и имя Ишвари; свадьба — вайшакха кришна-трития (B) или акшая-трития (M)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "spouse",
+  "who": "@gauranga-priya",
+  "facts": [
+   "F114",
+   "F115"
+  ],
+  "note": "Вторая жена, дочь Рагхавы Чакраварти из Гопалпура (Радха); свадьбу устроил Вира Хамбир."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "in-law",
+  "who": "@gopala-chakravarti-yajigrama",
+  "facts": [
+   "F82",
+   "F84"
+  ],
+  "note": "Тесть и ученик."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "in-law",
+  "who": "@shyamadasa-chakravarti",
+  "facts": [
+   "F84",
+   "F127"
+  ],
+  "note": "Шурин и ученик; один из шести Чакраварти (ПВ 18)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "in-law",
+  "who": "@ramacharana-chakravarti",
+  "facts": [
+   "F84",
+   "F127"
+  ],
+  "note": "Шурин (Рамачандра, иначе Рамачаран) и ученик."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "in-law",
+  "who": "@raghava-chakravarti-gopalpur",
+  "facts": [
+   "F114"
+  ],
+  "note": "Отец Гауранга-прии; ему и его жене Мадхави (T) во сне велено отдать дочь Шринивасу."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "daughter",
+  "who": "@hemalata",
+  "facts": [
+   "F117",
+   "F120",
+   "F123",
+   "F126"
+  ],
+  "note": "Старшая дочь; после его ухода проповедовала; сорвала кантхи с Рупы Кавираджа; гуру Ядунанданы Даса."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "daughter",
+  "who": "@krishnapriya-srinivasa",
+  "facts": [
+   "F120"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "daughter",
+  "who": "@kanchanalatika",
+  "facts": [
+   "F120"
+  ],
+  "note": "Младшая дочь (B, «Карнананда»); M вместо неё называет «Пхулапи Тхакурани»."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "son",
+  "who": "@vrindavana-acharya",
+  "facts": [
+   "F118",
+   "F121"
+  ],
+  "event": "ev-jiva-srinivasa-letters",
+  "note": "Старший сын; имя «Вриндаван Дас» дал Джива."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "son",
+  "who": "@radhakrishna-acharya",
+  "facts": [
+   "F121"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "son",
+  "who": "@gati-govinda",
+  "facts": [
+   "F121",
+   "F122",
+   "F124"
+  ],
+  "note": "Автор «Вира-ратнавали»; от него — род Радхамоханы Тхакура."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "relative",
+  "who": "@radhamohana-thakura",
+  "facts": [
+   "F122"
+  ],
+  "note": "Правнук (B 676), составитель «Падамрита-самудры»."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "guru",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F50",
+   "F52",
+   "F53",
+   "F54",
+   "F56",
+   "F66",
+   "F92"
+  ],
+  "events": [
+   "ev-srinivasa-initiation"
+  ],
+  "note": "Дикша-гуру; посвятил во Вриндаване (B: после омовения в Ямуне; M: в храме Радха-раманы)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "siksha-guru",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F4",
+   "F51",
+   "F52",
+   "F55",
+   "F56",
+   "F57",
+   "F58",
+   "F62",
+   "F63",
+   "F64",
+   "F65",
+   "F66",
+   "F67",
+   "F68",
+   "F76",
+   "F92",
+   "F93",
+   "F94",
+   "F96",
+   "F118",
+   "F119"
+  ],
+  "events": [
+   "ev-srinivasa-arrives-vrindavana",
+   "ev-srinivasa-acharya-title",
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-books-mission-decision",
+   "ev-jiva-srinivasa-letters"
+  ],
+  "note": "Дал титул «Ачарья», жильё у Радха-Дамодары; послал с книгами в Гауду; два письма; называл «махаттама»."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "companion",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F2",
+   "F59",
+   "F60",
+   "F62",
+   "F72",
+   "F101",
+   "F109",
+   "F134",
+   "F135",
+   "F138"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
+   "ev-kheturi-festival"
+  ],
+  "note": "Друг, «единый душою»; вместе обошли Врадж и Навадвипу; Кхетури; песни Нароттамы о нём."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "companion",
+  "who": "@shyamananda",
+  "facts": [
+   "F61",
+   "F62",
+   "F72",
+   "F92",
+   "F94",
+   "F95",
+   "F106"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-shyamananda-vrindavana"
+  ],
+  "note": "Джива вверил Шьямананду Шринивасу (B)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F2",
+   "F87",
+   "F88",
+   "F89",
+   "F93",
+   "F109",
+   "F125",
+   "F131",
+   "F135"
+  ],
+  "event": "ev-ramachandra-kaviraja-meets-srinivasa",
+  "note": "Ближайший ученик и слуга; кто ушёл раньше — источники расходятся."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@govinda-kaviraja",
+  "facts": [
+   "F90",
+   "F127"
+  ],
+  "note": "Посвящён в Будхари (БР 10.171, по B)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@vira-hambira",
+  "facts": [
+   "F69",
+   "F70",
+   "F73",
+   "F74",
+   "F75",
+   "F76",
+   "F77",
+   "F96",
+   "F97",
+   "F110",
+   "F114",
+   "F127"
+  ],
+  "events": [
+   "ev-books-stolen-vana-vishnupura",
+   "ev-vira-hambira-conversion"
+  ],
+  "note": "Царь-разбойник Вишнупура, похитивший книги; харинама, затем югала-мантра; имя Чайтанья Дас; устроил вторую свадьбу."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@vira-hambira-queen",
+  "facts": [
+   "F96"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@dhadi-hambira",
+  "facts": [
+   "F96"
+  ],
+  "note": "M: имя Гопал Дас."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@krishnavallabha",
+  "facts": [
+   "F73"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@shridasa-chakravarti",
+  "facts": [
+   "F86",
+   "F100",
+   "F127"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@gokulananda",
+  "facts": [
+   "F86",
+   "F100",
+   "F127"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@karnapura-kaviraja",
+  "facts": [
+   "F127",
+   "F132"
+  ],
+  "note": "Один из восьми кавираджей; строфы о качествах Шринивасы (в «Нароттама-виласе»)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@radhavallabha-dasa-poet",
+  "facts": [
+   "F129"
+  ],
+  "note": "«Ученик» по ПВ и «Карнананде»."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@rupa-kaviraja",
+  "facts": [
+   "F117"
+  ],
+  "note": "Мнимый ученик (шишья-бруво); назвал гуру «грихастхой», отвергнут как «атибади»."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "disciple",
+  "who": "@yadunandana-dasa-author",
+  "facts": [
+   "F126"
+  ],
+  "note": "По B — «его ученик» (неоднозначно); по «Карнананде» — ученик Хемалаты."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "siksha-disciple",
+  "who": "@harirama-acharya",
+  "facts": [
+   "F125"
+  ],
+  "note": "Ученик Рамачандры, проповедовал по наставлению Шринивасы."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F5",
+   "F12",
+   "F13",
+   "F14",
+   "F28",
+   "F29",
+   "F104",
+   "F114"
+  ],
+  "events": [
+   "ev-prema-for-srinivasa",
+   "ev-srinivasa-hears-disappearance-dream"
+  ],
+  "note": "Предсказал его рождение; после сокрытия утешил во сне и послал в Нилачалу; явился в киртане в Кхетури; велел во сне жениться вторично (T)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F18",
+   "F21",
+   "F25",
+   "F26",
+   "F37",
+   "F81",
+   "F85",
+   "F91",
+   "F99",
+   "F100"
+  ],
+  "events": [
+   "ev-srinivasa-meets-narahari",
+   "ev-srinivasa-sets-out-nilachala"
+  ],
+  "note": "Отеческая любовь; послал в Пури; велел жениться; праздник разлуки по нему."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F18",
+   "F25",
+   "F81",
+   "F111",
+   "F112"
+  ],
+  "event": "ev-srinivasa-raghunandana-shrikhanda",
+  "note": "Устроил первую свадьбу; перед уходом благословил на проповедь."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F32",
+   "F33",
+   "F37",
+   "F38"
+  ],
+  "events": [
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "Пури: «Бхагаватам» из его уст; по его велению вернулся в Гауду."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F40",
+   "F41",
+   "F42",
+   "F80",
+   "F108",
+   "F139"
+  ],
+  "event": "ev-srinivasa-vishnupriya-mercy"
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@vamshivadana",
+  "facts": [
+   "F41"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F42"
+  ],
+  "note": "T: благословила во сне."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@sita-thakurani",
+  "facts": [
+   "F44"
+  ],
+  "event": "ev-srinivasa-shantipura"
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F45",
+   "F101",
+   "F103",
+   "F106",
+   "F108",
+   "F115"
+  ],
+  "events": [
+   "ev-srinivasa-khardaha-jahnava",
+   "ev-kheturi-festival"
+  ],
+  "note": "Велела идти во Вриндаван; по её указанию — абхишека в Кхетури; гостила в Яджиграме; почитаема им как джагад-гуру."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@vasudha",
+  "facts": [
+   "F45"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F3",
+   "F45",
+   "F107"
+  ],
+  "event": "ev-virachandra-yajigrama-kheturi",
+  "note": "Письмо о нём как о силе милости Махапрабху; гостил в Яджиграме."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F46"
+  ],
+  "event": "ev-abhirama-whip-srinivasa"
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@malini-abhirama",
+  "facts": [
+   "F46"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F34",
+   "F55",
+   "F66"
+  ],
+  "note": "Радха-кунда: наставления о бхаджане (M)."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F55",
+   "F66",
+   "F79",
+   "F137"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@raghava-gosvami-govardhana",
+  "facts": [
+   "F55",
+   "F60"
+  ],
+  "event": "ev-srinivasa-vraja-pilgrimage"
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@bhugarbha",
+  "facts": [
+   "F52",
+   "F66",
+   "F92",
+   "F118"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@lokanatha",
+  "facts": [
+   "F52",
+   "F66",
+   "F72",
+   "F92",
+   "F101"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@madhu-pandita",
+  "facts": [
+   "F52",
+   "F66"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@paramananda-bhattacharya",
+  "facts": [
+   "F52"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F32"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F32"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F12",
+   "F32",
+   "F36"
+  ],
+  "note": "B 807: обнял его, видя в нём будущего проповедника; вскоре ушёл."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F35"
+  ],
+  "note": "Плакал у его самадхи."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@govinda-ghosha",
+  "facts": [
+   "F18",
+   "F21"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@dhananjaya-vidyanivasa",
+  "facts": [
+   "F20"
+  ],
+  "event": "ev-srinivasa-schooling",
+  "note": "Учитель в детстве."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@ishana-navadvipa",
+  "facts": [
+   "F109"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F81",
+   "F85",
+   "F91",
+   "F99",
+   "F100"
+  ],
+  "note": "Благословил на женитьбу (M); праздник в день его ухода."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@dvija-haridasa",
+  "facts": [
+   "F86",
+   "F91",
+   "F99",
+   "F100"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@kanai-shrikhanda",
+  "facts": [
+   "F112"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@santosha-datta",
+  "facts": [
+   "F102",
+   "F103"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@harinarayana-raja",
+  "facts": [
+   "F98"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@uddhava-dasa-padakarta",
+  "facts": [
+   "F60",
+   "F66"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@vishvanatha-chakravarti",
+  "facts": [
+   "F117",
+   "F138"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@nrisimha-kaviraja",
+  "facts": [
+   "F29",
+   "F50"
+  ],
+  "note": "Автор строф «Навападьи» о нём."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F56",
+   "F60"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "deity-served",
+  "who": "@radha-damodara-deity",
+  "facts": [
+   "F51"
+  ]
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "deity-served",
+  "who": "@govinda-deity",
+  "facts": [
+   "F65"
+  ],
+  "event": "ev-govinda-commands-srinivasa",
+  "note": "Гирлянда Говинды — знак силы проповедовать книги."
+ },
+ {
+  "from": "@srinivasa-acharya",
+  "type": "deity-served",
+  "who": "@kalachand-deity",
+  "facts": [
+   "F97"
+  ],
+  "note": "Установил и омыл в Вишнупуре."
+ },
+ {
   "from": "@srivasa",
   "type": "sibling",
   "who": "@srirama-pandita",
