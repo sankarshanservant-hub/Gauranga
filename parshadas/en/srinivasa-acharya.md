@@ -451,3 +451,237 @@ famous as the festival of Kheturi. At the festival for Narahari (“Bhakti-ratna
 rites; Virachandra was there too, and Srinivasa explained the “Bhagavatam.” At the festival of Dvija Haridasa's
 departure, on Magha krishna-ekadashi, at Kanchanagaria, he initiated his sons Sri Dasa and Gokulananda.
 <!-- F99 F100 Q19 Q20 -->
+
+## Kheturi
+When Narottama, at Lokanatha's command, manifested six pairs of Deities at Kheturi — Gauranga, Vallabhi-kanta,
+Vraja-mohana, Sri Krishna, Radha-kanta and Radha-ramana — Srinivasa, at Jahnava's direction, himself performed Their
+abhisheka, installation and first puja. This was on Phalguna-purnima. <!-- F101 -->
+
+The news of the festival reached Srinivasa at Budhari, in the house of Govinda Kaviraja, and everyone went with him to
+Kheturi; Srinivasa, his disciple Ramachandra and Ramachandra's brother Govinda worked actively for the festival, which was
+organised by Raja Santosha Datta. Srinivasa, Narottama and Santosha went out to meet the guests with garlands. Srinivasa
+offered Jahnava sanctified sandal paste and garlands, and at her bidding Nrisimha Chaitanya adorned Srinivasa, Shyamananda
+and Narottama. At dusk, in honour of Gauranga's appearance, Srinivasa performed the abhisheka and sang and danced all
+night; in the morning came the abhisheka, the puja and the offering of bhoga cooked by Jahnava. Jahnava asked Narottama,
+Srinivasa and Shyamananda to eat after the mahantas, and then distributed maha-prasada to all. <!-- F102 F103 -->
+
+The festival was held under Jahnava's guidance; Srinivasa, Narottama, Shyamananda and the other acharyas honoured her as
+jagad-guru and felt they had reached the goal of life in hearing Hari-katha from her lips. Srinivasa and the other acharyas
+carried on sankirtana under the guidance of Jahnava and Vishnupriya. In the kirtana at Kheturi Mahaprabhu Himself appeared
+with His associates — this, says the “Bhakti-ratnakara,” was the mercy shown to Srinivasa and Narottama (10.605–607). The
+festival is described in detail in the article on Jahnava. <!-- F104 F108 Q23 Q8 -->
+
+The “Prema-vilasa” (vilasa 19) writes that at Kheturi Srinivasa worshipped Gauranga with the Radha-Krishna mantra, that
+the Gosvamis had supposedly prescribed worship of Gaura with the ten-syllable Gopala mantra, that Jahnava approved, and
+that on Phalguna-purnima everyone took maha-prasada. This is an interpolation by a malicious opponent of the Gaura-mantra
+and of observing the day of Gaura's appearance. There is nothing of the kind in the “Bhakti-ratnakara”: it says the Deities
+were “worshipped with wondrous rites,” and Narottama bowed to each, calling Him by name: “O Gauranga! O Vallavikanta! O Sri
+Krishna! O Vraja-mohana! O Radha-ramana! O Radhe! O Radha-kanta! Obeisance to You!” (10.492–496). So each Deity was
+worshipped with a special mantra, His own: to the different manifestations of the Lord — form, name, associates,
+pastimes — correspond different mantras, as the shastras and the mahajanas confirm. Vilasas 19 and 20 are not genuine at
+all: of the four manuscripts from which the “Prema-vilasa” was published at Baharampur (Bengali year 1299), three end with
+the 18th. The book is in places corrupted by interpolations contrary to siddhanta — on Kaviraja's suicide, on worship of
+Gaura with the Radha-Krishna mantra and fasting on Gaura-purnima, on the censure of Srinivasa's marriage — and these
+cannot be trusted. <!-- F105 Q7 I5 I4 -->
+
+After the festival Srinivasa and Shyamananda stayed a few more days at Kheturi and then returned to Yajigrama and
+celebrated there; Narottama came too, and then Shyamananda left for Utkala, having called at Srinivasa's house on his way
+from Kheturi. Jahnava, going to Vraja after the festival, met Srinivasa at Katwa on her return and stayed with him at
+Yajigrama, his home village; he brought her into his house and worshipped her. Virachandra too visited Yajigrama on his
+way to Vrindavana: Srinivasa worshipped him with devotion, honouring him as the Supreme Lord, and there was a great festival
+of sankirtana in his house. <!-- F106 F107 -->
+
+## Navadvipa with Ishana; Farewell to Raghunandana
+With Narottama and Ramachandra, Srinivasa went round the nine islands of Navadvipa, which embody the nine forms of bhakti.
+The places of Gaura's pastimes, already dilapidated, were shown them by Ishana — the old servant of Mahaprabhu's house, who
+had outlived all the devotees of Navadvipa: “In Navadvipa hardly anyone remains but the Lord's servant Ishana”
+(“Bhakti-ratnakara,” 11.721). Receiving his blessing and embrace, they went by way of Mayapura to Yajigrama.[^12]
+<!-- F109 Q18 -->
+
+King Vira Hambira came to Yajigrama at that time to see his guru's feet. And Srinivasa, after visiting Shrikhanda and
+Budhari, came again to Kheturi and immersed himself in the nectar of sankirtana lasting eight watches. There even logicians
+and worldly men took shelter at his feet. In Yajigrama he accepted many disciples, discussed the shastras, sang sankirtana
+until he was hoarse, and many prominent unbelievers surrendered to him. <!-- F110 -->
+
+Once Raghunandana called Srinivasa to Shrikhanda. He foretold that times of kutarka would come and doubts would settle in
+people's hearts, but that those seeking their good would cross this ocean of doubt through Srinivasa's preaching, and that
+Gauranga would do great things through him (“Bhakti-ratnakara,” 13.174–179). He blessed him: “Live long and preach the
+message of Sri Gauranga everywhere,” and entrusted his son Kanai to his Deities; for three days sankirtana went on, and
+Raghunandana departed.[^13] Together with Kanai Thakura Srinivasa held a festival of separation at Shrikhanda, and in the
+kirtana Raghunandana himself appeared, dancing. With a heavy heart Srinivasa returned to Yajigrama, and from there went to
+Vana-Vishnupura and spread kirtana there. The king and the people received him with honours; he gave classes in the palace,
+sang kirtana, and many in Vishnupura took his shelter. <!-- F111 F112 F113 Q24 -->
+
+## The Second Marriage
+In Vishnupura Srinivasa manifested the pastime of a second marriage. Raghava Chakravarti of Gopalpura in Radha had a
+virtuous daughter, Gauranga-priya. Unable to find a husband for her, Raghava prayed to the Deity of Mahaprabhu, and one
+night he and his wife Madhavi saw in a dream that their daughter was given to Srinivasa. At the same time Srinivasa too
+received in a dream Mahaprabhu's command to marry Gauranga-priya, and the girl herself chose him as her husband. Raghava
+came to Srinivasa and timidly asked leave to say why he had come; Srinivasa, understanding everything, smiled and agreed.
+The wedding was arranged by Vira Hambira with great splendour and at great expense. <!-- F114 -->
+
+With his young wife Srinivasa returned to Yajigrama. Just then Jahnava arrived there from Vrindavana. Srinivasa took the
+dust of her feet, worshipped her, and told Gauranga-priya to bow to her; Jahnava embraced her, stayed with them a few days,
+and left for Khardaha. <!-- F115 -->
+
+Some interpolated verses of the “Prema-vilasa” try to belittle Srinivasa because of his marriages, and some modern writers
+hold that Narottama remained renounced while Srinivasa, once renounced, “fell” from the ideal by marrying twice and
+fathering several children. These are the judgements of the falsely and excessively renounced — offensive and contrary to
+bhakti. Ramachandra, the very soul of Narottama, accepted Srinivasa as his guru after his first marriage; Narottama himself
+in the “Prarthana” prays for his mercy; Srinivasa is honoured as an acharya by householders and renunciants alike; and his
+marriage was arranged by renounced associates of Gaura — Narahari and others — who rejoiced in it. Srinivasa's marriage is
+a pastime shown for instruction: householders must not imitate the guru, and renunciants must not take a
+maha-bhagavata for a man attached to family and so deprive themselves of good. The deeds of Mahaprabhu's devotees are
+inconceivable to those who have not surrendered to the Lord and His devotees; pure devotees have no aim but the Lord's
+desire, and in their actions there is not a shadow of worldly desire. <!-- F116 I2 -->
+
+One who only called himself his disciple — Rupa Kaviraja — called Srinivasa a “grihastha,” a family man. Srinivasa's
+daughter Hemalata Thakurani tore the kanthi beads from his neck, and since then all pure Vaishnavas have rejected him as
+the Bengali “atibadi.” Expelled from Vaishnava society, he founded the apasampradaya of the “ati-bari”: he taught that only
+a renunciant can be an acharya and that no householder may bear the title “Gosvami,” and, rejecting the rules of vidhi,
+distorted raganuga-bhakti. Vishvanatha Chakravarti fought his movement and refuted him in the “Sarartha-darshini,” his
+commentary on the Third Canto of the “Bhagavatam.” <!-- F117 -->
+
+## Jiva's Letters
+From Vrindavana Jiva sent Srinivasa two letters. In the first he reports the departure of Bhugarbha and the progress of
+the revision of the “Rasamrita-sindhu,” the “Madhava-mahotsava,” the “Uttara-champu” — the second part of the
+“Gopala-champu” — and the “Hari-namamrita-vyakarana,” and asks after Srinivasa's eldest son, Vrindavana Dasa, and his other
+disciples. The name “Vrindavana Dasa” had been given to the boy by Jiva himself as soon as news of his birth reached Vraja
+(“Bhakti-ratnakara,” 14.19–20). <!-- F118 Q9 -->
+
+The second letter Jiva opens with the address “samasta-guna-prashasta-bandhuvara-shrinivasacharya-mahattameshu” — “to
+Srinivasa Acharya, the greatest, the best of friends, renowned for every virtue.” He tells of Vraja and of the revision of
+the “Vaishnava-toshani,” the “Durgama-sangamani” and the “Gopala-champu,” asks Srinivasa to correct the errors in the
+“Hari-namamrita-vyakarana” already sent with him, checking it against the bhashya and vritti, and writes that the
+“Uttara-gopala-champu” is written but still needs reflection. More on these letters is in the article on Jiva.
+<!-- F119 -->
+
+## Children and Descendants
+Srinivasa had three sons and three daughters. The “Karnananda” names the sons thus: “The eldest son is named Sri Vrindavana
+Acharya… Prabhu's middle son is Radhakrishna Acharya… The youngest son is named Sri Gati-Govinda” (1.125–128). Gati-Govinda
+is the author of the “Vira-ratnavali”; in its signature line he says, “At the priceless feet of Mahaprabhu Virachandra,
+Gati-Govinda, son of Srinivasa, speaks this.” Srinivasa's sons, like many of his disciples, became well-known song-poets
+(padakartas). <!-- F121 Q32 F124 Q12 -->
+
+The same “Karnananda” lists the daughters in this order: Hemalata, “Prabhu's own daughter,” who had many disciples and
+disciples' disciples; Krishnapriya Thakurani; and Kanchana-latika (1.136–139).[^14] After her father's departure Hemalata
+Thakurani preached pure bhakti with power. Yadunandana Dasa in the “Radha-Krishna-lila-rasa-kadamba” calls her full of
+love for Radha and Krishna, Srinivasa's daughter, who gave him the dust of her feet. <!-- F120 Q10 F123 -->
+
+Gati-Govinda's son was Krishna Prasada, and his son Jagadananda. Jagadananda had two wives: by the first was born
+Yadavendra, by the second Radha Mohana, Bhuvana Mohana, Gaura Mohana, Shyama Mohana and Madana Mohana; the descendants of
+Bhuvana Mohana live at Manikyahara (Murshidabad district). Srinivasa's aged great-grandson Radhamohana Thakura, in the
+first half of the eighteenth century, compiled the anthology of padas “Padamrita-samudra” and a Sanskrit commentary on it,
+the “Mahabhavanusarini”; for six months he led a debate and established the siddhanta of parakiya. Another descendant of
+Srinivasa, Madhusudana, was the guru of the author of the commentary “Kashika.” <!-- F122 -->
+
+## Disciples
+Srinivasa's disciple Ramachandra Kaviraja and Ramachandra's disciple Harirama Acharya, following his instruction, preached
+the siddhanta of the Gosvamis everywhere. Ramachandra was very dear to Srinivasa, and therefore Narottama loved him more
+than life; Vira Hambira, Srinivasa's disciple, regarded Ramachandra as his shiksha-guru. At the command of Narottama and
+Srinivasa, Ramachandra went once more to Vrindavana. <!-- F125 -->
+
+Yadunandana Dasa, a disciple of Hemalata,[^15] rendered many books of the Gosvamis into Bengali verse and became a
+well-known padakarta. In his verses he says, “My Prabhu is Acharya Thakura, who generously gave away in Gauda the treasure
+of the pastimes of Radha-Krishna”; and in the “Govinda-lilamrita”: “Thakura Srinivasa Acharya and Hemalata are servants of
+Chaitanya Dasa; longing for their feet, at their command Yadunandana speaks in the vernacular.” He apparently heard the
+story of Gopala Bhatta from Srinivasa himself. <!-- F126 Q11 -->
+
+The “Prema-vilasa,” at the end of vilasa 18 (Baharampur edition), lists the branches of the “wish-fulfilling tree of
+Srinivasa.” Six Chakravartis — Sri Dasa, Gokulananda, Shyamadasa, Vyasa, Govinda and Ramacharana — are devoted to the study
+of the books of bhakti, to serving the Vaishnavas and to delivering people. Eight Kavirajas — Ramachandra, Govinda,
+Karnapura, Nrisimha, Bhagavan, Vallabha Dasa, Gopiramana and Gokula. Then Ramakrishna, called Chattaraja; Kumudananda,
+Kularaja; Radhavallabha, Mandala; Jayarama Chakravarti; Rupa Ghataka; Thakura Dasa, Thakura; and the maharajadhiraja Vira
+Hambira Simha of the Malla line. In all — eight kavirajas, twelve brahmanas and one king: twenty-one branches. A verse there
+also glorifies Govinda Kavindra: the fragrance of his poems about Krishna, like a spring breeze from the sandal mountain,
+intoxicates the bee-devotees at the wish-fulfilling tree of Jiva's feet and astonishes all in the groves of Vraja.
+<!-- F127 F128 Q15 -->
+
+Srinivasa's disciples also included Krishnavallabha and others of Vishnupura, Gopala Chakravarti and his sons, the sons of
+Dvija Haridasa, Vira Hambira with the queen and Dhadi Hambira, and Ramachandra and Govinda Kaviraja; the “Prema-vilasa”
+and the “Karnananda” also call the poet Radhavallabha Dasa his disciple; and finally there was a would-be disciple, Rupa
+Kaviraja. <!-- F129 -->
+
+## Writings, and Songs about Him
+The “Karnananda” of Yadunandana Dasa mentions Srinivasa's padas and gives samples of them, and some ascribe one or two
+songs to him. The glory of the six Gosvamis may be understood from his “Shad-gosvami-ashtaka.” Ramachandra Kaviraja wrote
+his life — the “Srinivasa Acharyera jivana-charita.” <!-- F130 F131 -->
+
+Karnapura Kaviraja in the “Guna-lesha-suchaka” praises him, repeating after each verse: “May he, Sri Srinivasa Prabhu, my
+ocean of mercy, be victorious!” The first two verses are given above; the third tells how, on his way, he came to Khanda:
+
+“Going on his way, he came to the town called Khanda, bowed to the beloved of Chaitanya-chandra, the best of Thakuras, Sri
+Sarakara, and received his permission; then, bowing at the feet of Raghunandana, he went on, remembering him — may he, Sri
+Srinivasa Prabhu, my ocean of mercy, be victorious!” (“Narottama-vilasa,” 2.85)
+
+Ghanashyama Dasa, citing these verses, remarks that they contain material for Srinivasa's life. <!-- F132 Q13 -->
+
+The old poet Govinda Dasa, in the song “Jaya jaya Srinivasa gunadhama…,” glorifies Srinivasa, abode of virtues and
+saviour of the fallen: his body is fairer than gold, he is clad in silk, he utters the Name of love and expounds the
+“Bhagavata,” surrounded by his devotees and companions; “Radhe, Krishna, Govinda” never leaves his lips; he serves
+Chaitanya, relishes His pastimes, and in his hand is a wish-fulfilling tree of books. <!-- F133 Q14 -->
+
+Narottama in the “Prarthana” prays, “Be merciful, Sri Acharya Prabhu Srinivasa: Narottama Dasa begs for the company of
+Ramachandra.” And after Srinivasa's departure he composed the lament of separation “Ye anila prema-dhana…” — “Where has he
+gone, Prabhu Acharya Thakura, who brought the treasure of love and abundant mercy?” <!-- F134 Q1 -->
+
+## Departure
+Once Ramachandra Kaviraja, after spending some days with Narottama at Kheturi, left in great sorrow for Yajigrama, and soon
+the news came that Sri Acharya Thakura had gone to Vrindavana (“Narottama-vilasa,” vilasa 11). Ramachandra was constantly
+with him and passed away in Vrindavana after Srinivasa's departure; Narottama, receiving both tidings, composed his song of
+separation.[^16] The biographies name neither the place nor the day of his departure; the Vaishnavas honour it on the
+Gaura-ashtami of the month of Damodara (Gopashtami). <!-- F135 -->
+
+With the departure of Srinivasa, Narottama and Shyamananda (and also Rasikananda), the third of the four “dark periods” of
+Bengali Vaishnavism set in: after the departure of Mahaprabhu, Svarupa, Ramananda, the six Gosvamis and the three acharyas
+came the time of the apasampradayas. Yet even in such times the succession of the rupanugas is not broken: acharyas are
+sometimes secluded bhajananandis, sometimes preaching goshthyanandis, and an acharya's power is not measured by the number
+of his disciples. <!-- F136 I7 -->
+
+## Mani-manjari
+In the “Karnananda” Hemalata tells how Srinivasa remained three days in samadhi at Vishnupura: in the form of Mani-manjari
+he was searching for Sri Radha's nose-ring, lost in the water pastimes on the Yamuna, and Ramachandra, entering meditation,
+found it. So in Krishna's pastimes Srinivasa is Mani-manjari, a maidservant of Sri Radha. <!-- F4 -->
+
+Of the three acharyas who preached the holy name, Narottama is one, the other two being Srinivasa and Shyamananda; but it
+was Srinivasa who recovered the books. In the succession leading to Vishvanatha Chakravarti, Narottama stands “together
+with Shyamananda and Srinivasa.” And Jiva's teaching on parakiya is confirmed by the conduct and instructions of his
+disciples — Srinivasa, Narottama and Shyamananda. What the Lord foretold in Puri came true: through Rupa He revealed the
+books, and through Srinivasa He gave them to Gauda. <!-- F138 F13 -->
+
+[^1]: According to some biographies, Chaitanya Dasa went to Nilachala only to see the Lord, and the Lord Himself revealed
+    his unspoken wish; according to others, he went precisely to ask Mahaprabhu for a son.
+[^2]: The year of his appearance — 1530 — is given by only one biography.
+[^3]: According to another biography, the news of Gadadhara's departure reached Srinivasa while he was still on the road
+    from Puri, and that night Gadadhara appeared to him in a dream and consoled him.
+[^4]: According to another biography, Srinivasa himself humbly asked for initiation, and Gopala Bhatta gave him the mantra
+    the next day in the temple of Radha-ramana.
+[^5]: According to another biography, he received the title “Acharya” for his knowledge of philosophy: in a short time he
+    had mastered all the conclusions of the Gosvamis.
+[^6]: According to one biography, Shyamananda went not to Utkala but to Ambika-Kalna (elsewhere in the same biography —
+    to Utkala).
+[^7]: According to another biography, the wedding took place on Akshaya-tritiya in the month of Vaishakha.
+[^8]: According to another passage of the same biography, they were initiated later — at the festival on the day of their
+    father's departure at Kanchanagaria (see “Festivals of Separation”).
+[^9]: According to one book, not accepted by all, on Ramachandra's wedding day Srinivasa spoke to him a few words on the
+    transience of worldly life, and he never took up family life.
+[^10]: According to one passage of one biography, the title was given by Srinivasa himself on hearing Ramachandra's
+    verses; according to another, by the Gosvamis of Vrindavana.
+[^11]: According to another biography, Narahari and Gadadhara Dasa departed only after Srinivasa's second visit to
+    Vrindavana: on his return he learned of Narahari's departure only at Shrikhanda and fell senseless, and Raghunandana,
+    seeing him, was a little consoled in his grief; of Gadadhara Dasa's departure he learned at Kantakanagara. The news of
+    Dvija Haridasa's departure, according to the same biography, reached Vrindavana while he was there.
+[^12]: The biographies differ in the order of events: according to one — Kheturi, then the circuit of Navadvipa,
+    Yajigrama, Shrikhanda, Budhari and Kheturi again; according to another — Kheturi, Yajigrama, Navadvipa, Shrikhanda;
+    according to a third — Kheturi, the meeting with Jahnava at Katwa, Navadvipa, Raghunandana.
+[^13]: According to another biography, after the circuit of Navadvipa Srinivasa, with Narottama and Ramachandra, was going
+    to Raghunandana at Shrikhanda and learned of his departure on the way.
+[^14]: According to one biography, the daughters were named Krishnapriya, Hemalata and Phulapi Thakurani, and the sons
+    Vrindavana Vallabha, Radha Krishna and Sri Gati (Gita) Govinda.
+[^15]: So according to the “Karnananda.” One biography calls him “his disciple” in a way that leaves it unclear whether
+    Srinivasa's or Hemalata's.
+[^16]: According to another biography, Ramachandra was the first to depart, in Vrindavana, a few months later; the news
+    reached Srinivasa, and he, unable to bear separation from his dear disciple, also entered the eternal pastimes of
+    Radha-Govinda, and then Narottama composed “Ye anila prema-dhana.” Yet another biography says in one place that
+    Narottama first received the news of Ramachandra's departure and only soon after that of Srinivasa, and in another
+    that Ramachandra departed after Srinivasa.
