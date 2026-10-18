@@ -111,6 +111,7 @@ B — вероятно, больше сотни).
 | @rasikananda (T + M 158–160) | ✓ | ✓ (PDF) | — |
 | @bhakti-dayita-madhava (только T) | ✓ | ✓ (PDF) | — |
 | @bhaktivedanta-svami, @shridhara-maharaja, @bhakti-pramoda-puri, @bhakti-ballabha-tirtha (только T) | ✓ | ✓ (PDF) | — |
+| @madhvacharya, @ramanujacharya, @yamunacharya (M pdf 315–339) | ✓ | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
