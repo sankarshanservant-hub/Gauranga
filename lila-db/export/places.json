@@ -10283,5 +10283,77 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#mayapur",
+  "ru": "Шри Майяпур (Ишодьян)",
+  "en": "Sri Mayapur (Ishodyan)",
+  "note": "Навадвипа-дхама, восточный берег Ганги; матхи Гаудия-миссии XX в., самадхи @bhakti-dayita-madhava (T 287)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kolkata",
+  "ru": "Калькутта",
+  "en": "Calcutta (Kolkata)",
+  "note": "матхи Гаудия-миссии XX в. (Ултаданга, Багбазар, Сатиш Мукерджи-роуд)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#kanchanpara",
+  "ru": "Канчанпара",
+  "en": "Kanchanpara",
+  "note": "Фаридпур, Восточная Бенгалия, на Падме; место явления @bhakti-dayita-madhava (T 270)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#hardvar",
+  "ru": "Хардвар",
+  "en": "Haridwar",
+  "note": "у выхода Ганги из Гималаев (T 272)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#madras",
+  "ru": "Мадрас (Ченнаи)",
+  "en": "Madras (Chennai)",
+  "note": "Мадрас-Гаудия-матх (T 273, 284)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#sarbhog",
+  "ru": "Сарбхог",
+  "en": "Sarbhog",
+  "note": "Ассам, Камруп (близ Барпеты); Сарбхог-Гаудия-матх (T 274, 278, 288)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#goalpara",
+  "ru": "Гоалпара",
+  "en": "Goalpara",
+  "note": "Ассам, на Брахмапутре (T 279–280, 287)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#jashra",
+  "ru": "Джашра",
+  "en": "Jashra",
+  "note": "Надия; шрипат Джагадиши Пандита, Божества Джаганнатхи и Гаура-Гопалы (T 16, 287)",
+  "section": "",
+  "lilas": [],
+  "events": []
  }
 ]

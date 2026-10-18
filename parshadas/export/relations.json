@@ -1,5 +1,195 @@
 [
  {
+  "from": "@bhakti-dayita-madhava",
+  "type": "guru",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F24",
+   "F26",
+   "F27",
+   "F29",
+   "F30",
+   "F32",
+   "F33",
+   "F36",
+   "F37",
+   "F39",
+   "F40",
+   "F42",
+   "F48",
+   "F78",
+   "F79",
+   "F80",
+   "F84"
+  ],
+  "note": "Посвящён 4 сентября 1927 г. (Радхаштами), Ултаданга-матх; «вулканическая энергия»; «advance man»."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "sannyasa-guru",
+  "who": "@bhakti-gaurava-vaikhanasa",
+  "facts": [
+   "F50"
+  ],
+  "note": "Пхалгуна-пурнима 1944 г., храм Тота-Гопинатхи."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "disciple",
+  "who": "@bhakti-ballabha-tirtha",
+  "facts": [
+   "F61",
+   "F62",
+   "F82",
+   "F83",
+   "F84",
+   "F88",
+   "F100",
+   "F101"
+  ],
+  "note": "Камакхья Чаран Гуха-Рай; встреча в Гоалпаре (1947); санньяса 1961; назначен преемником (письмо 12.12.1976; наставления 30.12.1978); автор T."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "siksha-guru",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F98"
+  ],
+  "note": "T 290: он среди духовных братьев, считавших Шридхара Махараджа шикша-гуру; вместе строили Мадрас-Гаудия-матх и готовили Сарбхог (F29, F33, F35, F38, F80, F87)."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "co-worker",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F29",
+   "F33",
+   "F35",
+   "F38",
+   "F80",
+   "F87"
+  ]
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "co-worker",
+  "who": "@bhakti-hridaya-bona",
+  "facts": [
+   "F29",
+   "F80",
+   "F91",
+   "F99"
+  ],
+  "note": "Мадрас-Гаудия-матх; руководил памятным собранием 22 марта 1979 г."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "co-worker",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F76",
+   "F90",
+   "F99",
+   "F101"
+  ],
+  "note": "Редактор «Чайтанья Вани» по его приглашению (1964); совершил обряд самадхи."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "lineage-predecessor",
+  "who": "@gaurakishora-dasa-babaji",
+  "facts": [
+   "F6",
+   "F76"
+  ],
+  "note": "Парамешти-гуру автора T; его день ухода — день явления Бхакти Даиты Мадхавы."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "lineage-predecessor",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F62",
+   "F96"
+  ],
+  "note": "Советовал читать «Джайва-дхарму» и переводить книги Бхактивиноды."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "met",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F97"
+  ],
+  "note": "Мединипур: угостил его сладким рисом."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@jagadisha-pandita",
+  "facts": [
+   "F95"
+  ],
+  "note": "Божества Джаганнатхи и Гаура-Гопалы Джагадиши Пандита в Джашре перешли под его служение (шрипат, 1962 — F92)."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F31"
+  ],
+  "note": "Строил Рамананда-Гаудия-матх у Гошпада-тиртхи (Коввур). = @ramananda-raya F152."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@shyamananda",
+  "facts": [
+   "F45"
+  ],
+  "note": "Шьямананда-Гаудия-матх в Мединипуре (1942) назван в его честь."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F4",
+   "F44"
+  ],
+  "note": "«Дорог рупанугам» (пранама); проповедь послания Рупы и Рагхунатхи. = @rupa-gosvami F349."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F95",
+   "Q7"
+  ],
+  "note": "T сравнивает: как Гопала ждал Мадхавендру, так Божества Джагадиши «предложили себя» ему. = @madhavendra-puri I5."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@rasikananda",
+  "facts": [
+   "F89"
+  ],
+  "note": "Общий день ухода."
+ },
+ {
+  "from": "@bhakti-dayita-madhava",
+  "type": "other",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F89"
+  ],
+  "note": "Общий день ухода."
+ },
+ {
   "from": "@bhugarbha",
   "type": "guru",
   "who": "@gadadhara-pandita",

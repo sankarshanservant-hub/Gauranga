@@ -16118,6 +16118,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "lineage-predecessor"
    },
@@ -17091,6 +17095,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
+   },
    {
     "from": "@nityananda",
     "type": "other"
@@ -18821,6 +18829,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
+   },
    {
     "from": "@bhugarbha",
     "type": "companion"
@@ -31957,6 +31969,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "met"
    },
@@ -32763,6 +32779,12 @@
     "type": "other",
     "who": "@nityananda-dasa-author",
     "note": "«Према-виласа»: Расикананда и Мурари — два лица."
+   }
+  ],
+  "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
    }
   ]
  },
@@ -35245,6 +35267,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@bhakti-dayita-madhava",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -35319,6 +35345,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "guru"
+   },
    {
     "from": "@dhananjaya-pandita",
     "type": "other"
@@ -35402,6 +35432,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
+   },
    {
     "from": "@srivasa",
     "type": "other"
@@ -39356,6 +39390,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-dayita-madhava",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "friend"
    },
@@ -42984,6 +43022,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@bhakti-dayita-madhava",
+    "type": "met"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -43047,6 +43089,14 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "siksha-guru"
+   },
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "co-worker"
+   },
    {
     "from": "@vasu-ghosha",
     "type": "other"
@@ -43329,10 +43379,163 @@
   "id": "@bhakti-dayita-madhava",
   "ru": "Бхакти Даита Мадхава Госвами",
   "en": "Bhakti Dayita Madhava Gosvami",
-  "note": "ученик Бхактисиддханты; строил Рамананда-Гаудия-матх в Коввуре (T 273; глава в T)",
+  "note": "(1904–1979) Хаягрива дас; ученик Бхактисиддханты, основатель Шри Чайтанья Гаудия Матха; строил Рамананда-Гаудия-матх в Коввуре (глава T 270–288)",
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Бхактисиддханта Сарасвати (Прабхупада), Бхакти Гаурава Вайкханаса Махарадж; происхождение — Канчанпара; явление — Уттхана-экадаши; уход — Гаура-пратипад месяца Говинды — по нашему календарю; самадхи — Шри Майяпур (Ишодьян)",
+  "card": "parshadas/cards/bhakti-dayita-madhava.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhakti-dayita-madhava.md",
+   "en": "parshadas/en/bhakti-dayita-madhava.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1904-11-18",
+    "tithi": "Уттхана-экадаши (Гаура-экадаши месяца Дамодара — по нашему календарю); 3 аграхаяна 1311 г. бенг., 8 ч утра",
+    "place": "#kanchanpara",
+    "conf": "T; день совпадает с нашим календарём",
+    "facts": [
+     "F5",
+     "F6",
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "1979-02-27",
+    "tithi": "Гаура-пратипад месяца Говинды — по нашему календарю (вместе с Джаганнатхой дасом Бабаджи и Расиканандой); T: «Говинда 26, 492 г. эры Чайтаньи», 14 пхалгуна 1386 г. бенг.",
+    "place": "#kolkata",
+    "conf": "T; 9 ч утра, в своей комнате калькуттского матха (35, Сатиш Мукерджи-роуд)",
+    "facts": [
+     "F89"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#mayapur",
+     "kind": "самадхи в Майяпуре; обряд — Бхакти Промод Пури; поминальный праздник в Ишодьяне 1 марта 1979 г.",
+     "facts": [
+      "F90"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "беседа с Панчананом Таркаратной (передовица «Гаудии», 15.13–15, 1936)",
+    "facts": [
+     "F41"
+    ]
+   },
+   {
+    "title": "ежемесячник «Шри Чайтанья Вани Патрика» (основан 1961)",
+    "facts": [
+     "F94",
+     "F101"
+    ]
+   },
+   {
+    "title": "завещательное письмо (12.12.1976) и последние наставления (30.12.1978)",
+    "facts": [
+     "F82",
+     "F83",
+     "F84",
+     "F85",
+     "F86"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@bhaktisiddhanta",
+    "note": "Посвящён 4 сентября 1927 г. (Радхаштами), Ултаданга-матх; «вулканическая энергия»; «advance man»."
+   },
+   {
+    "type": "sannyasa-guru",
+    "who": "@bhakti-gaurava-vaikhanasa",
+    "note": "Пхалгуна-пурнима 1944 г., храм Тота-Гопинатхи."
+   },
+   {
+    "type": "disciple",
+    "who": "@bhakti-ballabha-tirtha",
+    "note": "Камакхья Чаран Гуха-Рай; встреча в Гоалпаре (1947); санньяса 1961; назначен преемником (письмо 12.12.1976; наставления 30.12.1978); автор T."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@shridhara-maharaja",
+    "note": "T 290: он среди духовных братьев, считавших Шридхара Махараджа шикша-гуру; вместе строили Мадрас-Гаудия-матх и готовили Сарбхог (F29, F33, F35, F38, F80, F87)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@shridhara-maharaja"
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-hridaya-bona",
+    "note": "Мадрас-Гаудия-матх; руководил памятным собранием 22 марта 1979 г."
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Редактор «Чайтанья Вани» по его приглашению (1964); совершил обряд самадхи."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "Парамешти-гуру автора T; его день ухода — день явления Бхакти Даиты Мадхавы."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@bhaktivinoda",
+    "note": "Советовал читать «Джайва-дхарму» и переводить книги Бхактивиноды."
+   },
+   {
+    "type": "met",
+    "who": "@vamshidasa-babaji",
+    "note": "Мединипур: угостил его сладким рисом."
+   },
+   {
+    "type": "other",
+    "who": "@jagadisha-pandita",
+    "note": "Божества Джаганнатхи и Гаура-Гопалы Джагадиши Пандита в Джашре перешли под его служение (шрипат, 1962 — F92)."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Строил Рамананда-Гаудия-матх у Гошпада-тиртхи (Коввур). = @ramananda-raya F152."
+   },
+   {
+    "type": "other",
+    "who": "@shyamananda",
+    "note": "Шьямананда-Гаудия-матх в Мединипуре (1942) назван в его честь."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "«Дорог рупанугам» (пранама); проповедь послания Рупы и Рагхунатхи. = @rupa-gosvami F349."
+   },
+   {
+    "type": "other",
+    "who": "@madhavendra-puri",
+    "note": "T сравнивает: как Гопала ждал Мадхавендру, так Божества Джагадиши «предложили себя» ему. = @madhavendra-puri I5."
+   },
+   {
+    "type": "other",
+    "who": "@rasikananda",
+    "note": "Общий день ухода."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Общий день ухода."
+   }
+  ],
   "related_by": [
    {
     "from": "@ramananda-raya",
@@ -43679,6 +43882,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@bhakti-dayita-madhava",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    }
@@ -43861,6 +44068,66 @@
    {
     "from": "@rasikananda",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@bhakti-ballabha-tirtha",
+  "ru": "Бхакти Валлабха Тиртха Госвами",
+  "en": "Bhakti Ballabha Tirtha Gosvami",
+  "note": "(род. 1924) ученик и преемник @bhakti-dayita-madhava (ачарья Шри Чайтанья Гаудия Матха с 1979), автор книги T; не путать с @bhakti-vilasa-tirtha",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@bhakti-pramoda-puri",
+  "ru": "Бхакти Промод Пури Госвами",
+  "en": "Bhakti Pramoda Puri Gosvami",
+  "note": "ученик Бхактисиддханты; редактор «Чайтанья Вани» с 1964 г.; шикша-гуру автора T (T 294)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "co-worker"
+   }
+  ]
+ },
+ {
+  "id": "@bhakti-hridaya-bona",
+  "ru": "Бхакти Хридой Бон Махарадж",
+  "en": "Bhakti Hridaya Bon Maharaj",
+  "note": "ученик Бхактисиддханты; строил Мадрас-Гаудия-матх (T 273, 284)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "co-worker"
+   }
+  ]
+ },
+ {
+  "id": "@bhakti-gaurava-vaikhanasa",
+  "ru": "Бхакти Гаурава Вайкханаса Махарадж",
+  "en": "Bhakti Gaurava Vaikhanasa Maharaj",
+  "note": "ученик Бхактисиддханты; дал санньясу @bhakti-dayita-madhava (1944) и @bhakti-pramoda-puri (1946) (T 277, 294)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@bhakti-dayita-madhava",
+    "type": "sannyasa-guru"
    }
   ]
  }

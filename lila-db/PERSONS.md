@@ -673,7 +673,7 @@
 | @dhyanachandra | Дхьяначандра Госвами | Dhyanachandra Gosvami | ученик Гопалы Гуру, автор «Дхьяначандра-паддхати»; Радхаканта-матх в Пури (B 201, 279; T 202) |
 | @radhakanta-puri | Радхаканта — Божество в Пури (дом Каши Мишры) | Radhakanta, the Deity in Puri (house of Kashi Mishra) | Радхаканта-матх; установлено при Гопале Гуру, ученике Вакрешвары (B 198, 275; T 202; M 238) |
 | @jayarama-chakravarti | Джаярама Чакраварти | Jayarama Chakravarti | из Бхитадии на Брахмапутре, переселился в Навадвипу; дед по матери Сварупы Дамодары, тесть Падмагарбхи Ачарьи (T 132; «Према-виласа» 24) |
-| @bhakti-dayita-madhava | Бхакти Даита Мадхава Госвами | Bhakti Dayita Madhava Gosvami | ученик Бхактисиддханты; строил Рамананда-Гаудия-матх в Коввуре (T 273; глава в T) |
+| @bhakti-dayita-madhava | Бхакти Даита Мадхава Госвами | Bhakti Dayita Madhava Gosvami | (1904–1979) Хаягрива дас; ученик Бхактисиддханты, основатель Шри Чайтанья Гаудия Матха; строил Рамананда-Гаудия-матх в Коввуре (глава T 270–288) · {карточка: гуру — Бхактисиддханта Сарасвати (Прабхупада), Бхакти Гаурава Вайкханаса Махарадж; происхождение — Канчанпара; явление — Уттхана-экадаши; уход — Гаура-пратипад месяца Говинды — по нашему календарю; самадхи — Шри Майяпур (Ишодьян)} |
 | @bhakti-vilasa-tirtha | Бхакти Вилас Тиртха Госвами | Bhakti Vilasa Tirtha Gosvami | ученик Бхактисиддханты; заложил храм Рамананда-Гаудия-матха (1951), установил Божества Рамананды и Махапрабху в Коввуре (1976) (B 1135, 1145; глава в B) |
 | @radha-vallabha-maheshpur | Радха-валлабха — Божество в Махешпуре | Radha-vallabha, the Deity of Maheshpur | Божество Сундарананды Тхакура; по преданию увезено госвами Саидабада (B 272–273; T 96) |
 | @radha-ramana-maheshpur | Радха-рамана — Божество в Махешпуре | Radha-ramana, the Deity of Maheshpur | Божество Сундарананды Тхакура (B 272; T 96); не путать с @radha-ramana-deity во Вриндаване |
@@ -706,3 +706,7 @@
 | @radha-damodara-gosvami | Радха-Дамодара Госвами | Radha-Damodara Gosvami | гуру Баладевы Видьябхушаны; в линии Расикананды (T 220–221; B 976; M 3); не путать с Божеством @radha-damodara-deity |
 | @govinda-gopivallabhapura | Говинда (Радха-Говинда) — Божество в Гопиваллабхапуре | Govinda (Radha-Govinda), the Deity of Gopivallabhapura | установлен Шьяманандой, служение вверено @rasikananda (T 216; M 158, 214; B 1107) |
 | @vaidyanatha-bhanja | Вайдьянатх Бхандж | Vaidyanatha Bhanja | раджа Маюрбханджа, ученик @rasikananda (T 216; M 159) |
+| @bhakti-ballabha-tirtha | Бхакти Валлабха Тиртха Госвами | Bhakti Ballabha Tirtha Gosvami | (род. 1924) ученик и преемник @bhakti-dayita-madhava (ачарья Шри Чайтанья Гаудия Матха с 1979), автор книги T; не путать с @bhakti-vilasa-tirtha |
+| @bhakti-pramoda-puri | Бхакти Промод Пури Госвами | Bhakti Pramoda Puri Gosvami | ученик Бхактисиддханты; редактор «Чайтанья Вани» с 1964 г.; шикша-гуру автора T (T 294) |
+| @bhakti-hridaya-bona | Бхакти Хридой Бон Махарадж | Bhakti Hridaya Bon Maharaj | ученик Бхактисиддханты; строил Мадрас-Гаудия-матх (T 273, 284) |
+| @bhakti-gaurava-vaikhanasa | Бхакти Гаурава Вайкханаса Махарадж | Bhakti Gaurava Vaikhanasa Maharaj | ученик Бхактисиддханты; дал санньясу @bhakti-dayita-madhava (1944) и @bhakti-pramoda-puri (1946) (T 277, 294) |
