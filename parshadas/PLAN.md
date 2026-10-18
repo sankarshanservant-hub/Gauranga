@@ -109,6 +109,7 @@ B — вероятно, больше сотни).
 | @raghunatha-dasa (023) | ✓ | ✓ (PDF) | — |
 | @srinivasa-acharya (024) | ✓ | ✓ (PDF) | — |
 | @rasikananda (T + M 158–160) | ✓ | ✓ (PDF) | — |
+| @bhakti-dayita-madhava (только T) | ✓ | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь:**
