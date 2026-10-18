@@ -495,3 +495,9 @@
 | Свами Бхакти Валлабха Тиртха Махарадж; Камакхья Чаран Гуха-Рай; Кришна Валлабха брахмачари | Swami Bhakti Ballabha Tirtha Maharaj; Kamakhya Charan Guha-Ray; Krishna Ballabha Brahmachari | @bhakti-ballabha-tirtha |
 | нивритти; правритти | nivritti; pravritti | путь отречения; путь мирской деятельности |
 | GOKUL (Всемирная организация вселенской любви Кришна-Чайтаньи) | GOKUL (Global Organization of Krishnachaitanya’s Universal Love) | основана Тиртхой Махараджем (1997) |
+| таттвавада, таттвавади; двайта-вада, бхеда-вада, шуддха-двайта | Tattvavada, Tattvavadis; dvaita-vada, bheda-vada, shuddha-dvaita | учение и последователи Мадхвы (@madhvacharya) |
+| Пурнапраджня Тиртха; Анандатиртха; Мадхьягеха Бхатта; авалли-брахманы | Purnaprajna Tirtha; Anandatirtha; Madhyageha Bhatta; Avalli brahmanas | имена Мадхвы; его отец и род |
+| Ананта-матх (Бадринатх); Бадарикашрам (Верхний Бадари); «Аштамурти» | Ananta Math (Badrinatha); Badarikashrama (Upper Badari); “Ashtamurti” | обитель Вьясы; шалаграма, данная Мадхве |
+| “Мадхва-виджая”; “Ану-Мадхва-чарита”; “Пурнапраджня-бхашья”; “Анувьякхьяна”; “Даша-пракараны”; “Гита-бхашья”; “Карма-нирная”; “Ньяя-виварана”; “Кришнамрита-махарнава”; “Таттва-прадипа” | “Madhva-vijaya”; “Anu-Madhva-charita”; “Purnaprajna-bhashya”; “Anuvyakhyana”; “Dasha-prakaranas”; “Gita-bhashya”; “Karma-nirnaya”; “Nyaya-vivarana”; “Krishnamrita-maharnava”; “Tattva-pradipa” | жизнеописания и сочинения Мадхвы и Тривикрамы |
+| Шрингери-матх; Кумбла (раджа Джаясимха); храм Кидил; Вишнумангла; Пундарика Пури; Падма Тиртха; Каданджари | Sringeri Math; Kumbla (Raja Jayasimha); Kidil temple; Vishnumangala; Pundarika Puri; Padma Tirtha; Kadanjari | противники и места в жизнеописании Мадхвы; Падма Тиртха ≠ Падманабха Тиртха |
+| брахма-ништха; шакти-паринама-вада | brahma-nishtha; shakti-parinama-vada | укоренённость в Абсолюте (Бхактисиддханта об ачарье); учение о преобразовании энергии |
