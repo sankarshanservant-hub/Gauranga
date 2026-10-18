@@ -5919,6 +5919,10 @@
    {
     "from": "@ramanujacharya",
     "type": "deity-served"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "deity-served"
    }
   ]
  },
@@ -35544,6 +35548,10 @@
    {
     "from": "@vishnupriya",
     "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "other"
    }
   ]
  },
@@ -45254,6 +45262,10 @@
    {
     "from": "@madhvacharya",
     "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "lineage-successor"
    }
   ]
  },
@@ -45265,6 +45277,99 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "происхождение — Южная Матхура (Мадурай); явление — нет; уход — нет",
+  "card": "parshadas/cards/yamunacharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/yamunacharya.md",
+   "en": "parshadas/en/yamunacharya.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "elders"
+  ],
+  "life": {
+   "appearance": {
+    "year": 953,
+    "place": "#madurai",
+    "tithi": "нет (M — лишь год «около 953»; в нашем календаре дня нет)",
+    "conf": "M",
+    "facts": [
+     "F3"
+    ]
+   },
+   "disappearance": {
+    "place": "#ranga-kshetra",
+    "tithi": "нет",
+    "conf": "M: глубоким стариком, в Шрирангаме, перед приходом Рамануджи",
+    "facts": [
+     "F24"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Стотра-ратна»",
+    "facts": [
+     "F18"
+    ]
+   },
+   {
+    "title": "«Гита-санграха» («Гитартха-санграха»)",
+    "facts": [
+     "F18"
+    ]
+   },
+   {
+    "title": "«Агама-праманья»",
+    "facts": [
+     "F18"
+    ]
+   },
+   {
+    "title": "«Сиддхи-трая» (отрывки)",
+    "facts": [
+     "F18"
+    ]
+   },
+   {
+    "title": "«Атма-сиддхи»",
+    "facts": [
+     "F18"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "grandfather",
+    "who": "@nathamuni"
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@nathamuni"
+   },
+   {
+    "type": "disciple",
+    "who": "@kanchipurna"
+   },
+   {
+    "type": "disciple",
+    "who": "@mahapurna"
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@ramanujacharya",
+    "note": "Не встретились при жизни; Рамануджа исполнил три его желания."
+   },
+   {
+    "type": "deity-served",
+    "who": "@ranganatha-deity"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta"
+   }
+  ],
   "related_by": [
    {
     "from": "@ramanujacharya",
@@ -45284,6 +45389,14 @@
    {
     "from": "@ramanujacharya",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "grandfather"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "lineage-predecessor"
    }
   ]
  },
@@ -45299,6 +45412,10 @@
    {
     "from": "@ramanujacharya",
     "type": "guru"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "disciple"
    }
   ]
  },
@@ -45333,6 +45450,10 @@
    {
     "from": "@ramanujacharya",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "disciple"
    }
   ]
  },

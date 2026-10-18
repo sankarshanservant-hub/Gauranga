@@ -13295,5 +13295,74 @@
    "F149"
   ],
   "note": "Песня о Гауре и Вишнуприи (приложение к «Анувритти»); учредил «Вишва-вайшнава-раджа-сабху» в её день (1919)."
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "grandfather",
+  "who": "@nathamuni",
+  "facts": [
+   "F1",
+   "F12",
+   "I2"
+  ]
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "lineage-predecessor",
+  "who": "@nathamuni",
+  "facts": [
+   "F2",
+   "F16"
+  ]
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "disciple",
+  "who": "@kanchipurna",
+  "facts": [
+   "F21",
+   "F24"
+  ]
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "disciple",
+  "who": "@mahapurna",
+  "facts": [
+   "F21",
+   "F26"
+  ]
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "lineage-successor",
+  "who": "@ramanujacharya",
+  "facts": [
+   "F2",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "I1"
+  ],
+  "note": "Не встретились при жизни; Рамануджа исполнил три его желания."
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "deity-served",
+  "who": "@ranganatha-deity",
+  "facts": [
+   "F15",
+   "F22"
+  ]
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F28"
+  ]
  }
 ]
