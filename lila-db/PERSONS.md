@@ -482,7 +482,7 @@
 | @sadashiva-kaviraja | Садашива Кавираджа | Sadashiva Kaviraja | спутник Господа, отец Пурушоттамы (ГГД 156; ЧЧ Ади 11) |
 | @sadashiva-pandita | Садашива Пандит | Sadashiva Pandita | спутник Господа в Навадвипе; в его доме жил Нитьянанда; в ванданах — брахмачари |
 | @sankarshana-puri | Санкаршана Пури | Sankarshana Puri | ученик Мадхавендры; по вандане Дживы — гуру Нитьянанды |
-| @saranga-thakura | Саранга (Шарнга) Тхакур | Saranga (Sharnga) Thakura | спутник Господа (ГГД 172: Нандимукхи) |
+| @saranga-thakura | Саранга (Шарнга) Тхакур | Saranga (Sharnga) Thakura | спутник Господа (ГГД 172: Нандимукхи) · {карточка: в Кришна-лиле — гопи Нандимукхи (ГГД 172) и др.; явление — кришна-чатурдаши месяца Ашадха; уход — кришна-трайодаши месяца Аграхаяна — по нашему календарю} |
 | @satyananda-bharati | Сатьянанда Бхарати | Satyananda Bharati | санньяси (ГГД 100) |
 | @shivananda-chakravarti | Шивананда Чакраварти | Shivananda Chakravarti | жил во Вриндаване (ГГД 183) |
 | @shrigarbha | Шригарбха | Shrigarbha | спутник Господа в Навадвипе (ГГД 103) |
@@ -727,3 +727,5 @@
 | @trivikrama-pandita | Тривикрама Пандит | Trivikrama Pandita | придворный пандит Джаясимхи в Кумбле, ставший учеником Мадхвы; «Таттва-прадипа» (M pdf 337–338) |
 | @narayana-panditacharya | Нараяна Пандитачарья | Narayana Panditacharya | сын Тривикрамы Пандита, автор «Мадхва-виджаи» (M pdf 336–339) |
 | @satya-tirtha | Сатья Тиртха | Satya Tirtha | спутник и ученик-санньяси Мадхвы, записал его «Гита-бхашью» (M pdf 335–336) |
+| @thakura-murari | Тхакур Мурари (Мурари Тхакур) | Thakura Murari | ученик Саранги (Шарнги) Тхакура, оживлённый им юноша из Ганги (B 681; T 94; M 185); не путать с @murari-gupta, @murari-chaitanya-dasa |
+| @radha-gopinatha-mamgachi | Радха-Гопинатха (по B — Радха-Говинда) — Божества Саранги Тхакура в Мамгачхи | Radha-Gopinatha (B: Radha-Govinda), the Deities of Saranga Thakura at Mamgachi | Модадрума-двипа (T 94; M 185; B 681) |

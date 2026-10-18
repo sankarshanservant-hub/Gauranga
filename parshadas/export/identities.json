@@ -720,6 +720,31 @@
   ]
  },
  {
+  "person": "@saranga-thakura",
+  "in": "krishna-lila",
+  "as": "гопи Нандимукхи (сестра Мадхумангалы — по B 365)",
+  "source": "ГГД 172",
+  "level": "A",
+  "facts": [
+   "F4",
+   "Q2"
+  ]
+ },
+ {
+  "person": "@saranga-thakura",
+  "in": "other-avatara",
+  "as": "Прахлада — мнение «некоторых», отвергнутое Шиванандой Сеном",
+  "source": "ГГД 172",
+  "level": "A",
+  "facts": [
+   "F5",
+   "Q2"
+  ],
+  "variants": [
+   "отвергнуто Шиванандой Сеном, отцом Кави Карнапуры"
+  ]
+ },
+ {
   "person": "@shachi",
   "in": "krishna-lila",
   "as": "Яшода, царица Враджа",

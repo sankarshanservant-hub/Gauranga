@@ -9762,6 +9762,133 @@
   "note": "По ГГД, в Санатану вошёл Санатана- (Санат-) кумара."
  },
  {
+  "from": "@saranga-thakura",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F2",
+   "F3",
+   "F12",
+   "F13",
+   "Q1"
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Ветвь древа Шри Чайтаньи (ЧЧ Ади 10.113); Господь снова и снова побуждал его принимать учеников."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "disciple",
+  "who": "@thakura-murari",
+  "facts": [
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F19"
+  ],
+  "note": "Умерший юноша, прибитый к его ногам в Ганге; оживлён и посвящён (B «говорят»; T — по «Анубхашье» и «Абхидхане»). T относит имя «Саранга Мурари» к ученику, B и M — к самому Саранге."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "deity-served",
+  "who": "@radha-gopinatha-mamgachi",
+  "facts": [
+   "F18",
+   "F21",
+   "F22",
+   "F23"
+  ],
+  "note": "B: Радха-Говинда; T, M: Радха-Гопинатха."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "neighbor",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F24"
+  ],
+  "note": "Божество Васудевы Датты (Мадана-Гопала) — в том же храме в Мамгачхи (T)."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@devananda-pandita",
+  "facts": [
+   "F13"
+  ],
+  "event": "ev-devananda-rebuked",
+  "note": "Встреча с Господом на улице Навадвипы — во время обличения Девананды (по «Абхидхане», через T); в ЧБ Мадхья 21 Саранга не назван."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@prahlada",
+  "facts": [
+   "F5",
+   "Q2"
+  ],
+  "note": "Некоторые отождествляют его с Прахладой; Шивананда Сен не согласен (ГГД 172)."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F5",
+   "Q2"
+  ]
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F4",
+   "Q2"
+  ]
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F3",
+   "Q1"
+  ]
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@vamshivadana",
+  "facts": [
+   "F10"
+  ],
+  "note": "По «Шрипата-парьятане» (через T) жили в Кулии-Пахарпуре вместе с Кавидаттой."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F14",
+   "F25"
+  ],
+  "note": "Рассказ об ученике — по «Анубхашье» (T); храм у места рождения Вриндавана даса рядом с его домом."
+ },
+ {
+  "from": "@saranga-thakura",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F25",
+   "F26"
+  ],
+  "note": "Место рождения Вриндавана даса — рядом, в Модадрума-двипе."
+ },
+ {
   "from": "@shachi",
   "type": "father",
   "who": "@nilambara-chakravarti",

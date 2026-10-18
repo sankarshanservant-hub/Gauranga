@@ -4161,6 +4161,10 @@
     "type": "guru"
    },
    {
+    "from": "@saranga-thakura",
+    "type": "companion"
+   },
+   {
     "from": "@shachi",
     "type": "son"
    },
@@ -20588,6 +20592,10 @@
     "type": "other"
    },
    {
+    "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "relative"
    },
@@ -23265,6 +23273,10 @@
     "type": "other"
    },
    {
+    "from": "@saranga-thakura",
+    "type": "neighbor"
+   },
+   {
     "from": "@shachi",
     "type": "guest"
    },
@@ -23978,6 +23990,10 @@
    "ev-kuliya-shachi-meeting"
   ],
   "related_by": [
+   {
+    "from": "@saranga-thakura",
+    "type": "other"
+   },
    {
     "from": "@shridhara-maharaja",
     "type": "other"
@@ -25040,6 +25056,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@saranga-thakura",
     "type": "other"
    },
    {
@@ -26483,6 +26503,10 @@
    },
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@saranga-thakura",
     "type": "other"
    },
    {
@@ -30710,6 +30734,10 @@
   ],
   "related_by": [
    {
+    "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "servant"
    },
@@ -32469,6 +32497,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@saranga-thakura",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -35519,6 +35551,10 @@
    },
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@saranga-thakura",
     "type": "other"
    },
    {
@@ -40084,6 +40120,110 @@
   "events": [
    "ev-associates-of-nityananda-wonders",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — гопи Нандимукхи (ГГД 172) и др.; явление — кришна-чатурдаши месяца Ашадха; уход — кришна-трайодаши месяца Аграхаяна — по нашему календарю",
+  "card": "parshadas/cards/saranga-thakura.yaml",
+  "article": {
+   "ru": "parshadas/ru/saranga-thakura.md",
+   "en": "parshadas/en/saranga-thakura.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "tithi": "кришна-чатурдаши месяца Ашадха",
+    "conf": "только M; T называет этот день иным мнением о дне ухода; в нашем календаре дня явления нет",
+    "facts": [
+     "F27",
+     "F29"
+    ]
+   },
+   "disappearance": {
+    "tithi": "кришна-трайодаши месяца Аграхаяна (Кешава) — по нашему календарю",
+    "conf": "T, M и наш календарь совпадают; T — иное мнение: кришна-чатурдаши Ашадхи; B даты не даёт",
+    "facts": [
+     "F28",
+     "F29"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "гопи Нандимукхи (сестра Мадхумангалы — по B 365)",
+    "source": "ГГД 172",
+    "level": "A"
+   },
+   {
+    "in": "other-avatara",
+    "as": "Прахлада — мнение «некоторых», отвергнутое Шиванандой Сеном",
+    "source": "ГГД 172",
+    "level": "A",
+    "variants": [
+     "отвергнуто Шиванандой Сеном, отцом Кави Карнапуры"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Ветвь древа Шри Чайтаньи (ЧЧ Ади 10.113); Господь снова и снова побуждал его принимать учеников."
+   },
+   {
+    "type": "disciple",
+    "who": "@thakura-murari",
+    "note": "Умерший юноша, прибитый к его ногам в Ганге; оживлён и посвящён (B «говорят»; T — по «Анубхашье» и «Абхидхане»). T относит имя «Саранга Мурари» к ученику, B и M — к самому Саранге."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-gopinatha-mamgachi",
+    "note": "B: Радха-Говинда; T, M: Радха-Гопинатха."
+   },
+   {
+    "type": "neighbor",
+    "who": "@vasudeva-datta",
+    "note": "Божество Васудевы Датты (Мадана-Гопала) — в том же храме в Мамгачхи (T)."
+   },
+   {
+    "type": "other",
+    "who": "@devananda-pandita",
+    "note": "Встреча с Господом на улице Навадвипы — во время обличения Девананды (по «Абхидхане», через T); в ЧБ Мадхья 21 Саранга не назван."
+   },
+   {
+    "type": "other",
+    "who": "@prahlada",
+    "note": "Некоторые отождествляют его с Прахладой; Шивананда Сен не согласен (ГГД 172)."
+   },
+   {
+    "type": "other",
+    "who": "@shivananda-sena"
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@vamshivadana",
+    "note": "По «Шрипата-парьятане» (через T) жили в Кулии-Пахарпуре вместе с Кавидаттой."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Рассказ об ученике — по «Анубхашье» (T); храм у места рождения Вриндавана даса рядом с его домом."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Место рождения Вриндавана даса — рядом, в Модадрума-двипе."
+   }
   ]
  },
  {
@@ -42236,6 +42376,12 @@
    "ev-vasudeva-datta-prayer",
    "ev-gambhira-divine-madness",
    "ev-maya-tests-haridasa"
+  ],
+  "related_by": [
+   {
+    "from": "@saranga-thakura",
+    "type": "other"
+   }
   ]
  },
  {
@@ -45604,6 +45750,36 @@
    {
     "from": "@madhvacharya",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@thakura-murari",
+  "ru": "Тхакур Мурари (Мурари Тхакур)",
+  "en": "Thakura Murari",
+  "note": "ученик Саранги (Шарнги) Тхакура, оживлённый им юноша из Ганги (B 681; T 94; M 185); не путать с @murari-gupta, @murari-chaitanya-dasa",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@saranga-thakura",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@radha-gopinatha-mamgachi",
+  "ru": "Радха-Гопинатха (по B — Радха-Говинда) — Божества Саранги Тхакура в Мамгачхи",
+  "en": "Radha-Gopinatha (B: Radha-Govinda), the Deities of Saranga Thakura at Mamgachi",
+  "note": "Модадрума-двипа (T 94; M 185; B 681)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@saranga-thakura",
+    "type": "deity-served"
    }
   ]
  }
