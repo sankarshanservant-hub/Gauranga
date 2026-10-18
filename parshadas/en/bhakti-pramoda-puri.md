@@ -89,7 +89,7 @@ He regarded Srila Sridhar Maharaj as his shiksha-guru. His close companions thro
 Maharaj, Bhakti Prajnana Keshava and Akinchana Krishnadasa Babaji; he was known for his love for his godbrothers and
 his gift for glorifying them. Srila Bhakti Dayita Madhava, in one of his lectures, recalls his stories about Srila
 Gaurakishora Dasa Babaji. Srila Bhakti Ballabha Tirtha received his blessings and association and, from 1997, at his
-request, has travelled the world preaching. <!-- F28 F29 F31 F32 -->
+request, travelled the world preaching. <!-- F28 F29 F31 F32 -->
 
 He had seen Vamshidasa Babaji in person and told stories about him. Once, at night, a thief carried off the utensils
 from Babaji’s hut, and in the morning a cow ate the fruit set aside for the Deities; Babaji only laughed and clapped
