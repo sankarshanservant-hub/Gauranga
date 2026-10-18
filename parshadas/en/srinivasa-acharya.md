@@ -276,3 +276,178 @@ books of the Gosvamis at his feet, received detailed personal guidance from him,
 Jiva's approval they set the order of kirtana. All three were great masters of music, skilled in the Delhi kalavati
 style, one in life and purpose, friends at heart, mature in the knowledge of the rasa of Vraja and in Vaishnava
 siddhanta. <!-- F62 -->
+
+## The Books Go to Gauda
+Meanwhile in Gauda, after Mahaprabhu's disappearance, confusion had set in. In the line of Nityananda Prabhu there was no
+worthy successor; Virachandra, independent by nature, did not reach all of Gauda with his preaching; discord arose among
+Advaita's descendants; the mahantas, the Lord's associates, were departing one after another. Bauls, sahajiyas, darveshes,
+sais and the like, hiding behind the names of Chaitanya and Nityananda, taught unfortunate people their own paths. Jiva,
+then the only Vaishnava acharya, decided to make Srinivasa, Narottama and Shyamananda acharyas who would restore pure
+bhakti in Gauda, and to send with them there the books of the Lord's associates. By training them and entrusting the
+books to them, he revived pure devotion in Gauda. <!-- F63 I3 -->
+
+Jiva — at Gopala Bhatta's wish — proposed this to the Gosvamis of Vraja, and after deliberating they all decided to hand
+the books to Srinivasa and send him off without delay. Jiva called the three and said, “Take the books of the Gosvamis
+and go quickly to Bengal.” This was in the year 1504 of the Shaka era; in sending them Jiva had in mind preaching both in
+Bengal and in Orissa. <!-- F64 -->
+
+Jiva and the Vaishnavas came to the temple of Govinda and prayed, “O Govindadeva, give Srinivasa the power to preach these
+books!” At that very moment a garland fell from Govinda's neck, and the pujari carefully handed it to Srinivasa. Seeing
+Govinda's mercy, Jiva and the other acharyas fixed the departure for Agrahayana shukla-panchami. <!-- F65 -->
+
+Before leaving, at Jiva's direction, Srinivasa received the order and blessing of Raghunatha Dasa, Gopala Bhatta,
+Bhugarbha, Lokanatha, Madhu Pandita, Krishnadasa Kaviraja and other acharyas and Vaishnavas; the three bowed to the three
+Deities of Vrindavana — Govinda, Gopinatha and Madana-mohana. A certain Vaishnava of Vrindavana named Ishana also blessed
+them; among those who saw them off were Govinda, Vani Krishnadasa and Uddhava Dasa (“Bhakti-ratnakara,” 6.514).
+<!-- F66 Q21 -->
+
+Before many mahantas Jiva packed the books into a chest. A wealthy merchant of Mathura, at his request, paid for an
+ox-cart, a wooden chest, locked and proof against rain, and armed guards on foot in front and behind. Jiva accompanied the
+chest as far as Mathura. The travellers took the road by which Mahaprabhu and Sanatana had once gone from Nilachala to
+Vrindavana; they spent the nights in villages, sang sankirtana and preached. Among the books Jiva sent with Srinivasa was
+the “Sri Chaitanya-charitamrita”; shortly before, Srinivasa had received the title “Acharya.” <!-- F67 F68 -->
+
+Why does the “Chaitanya-charitamrita” name neither Srinivasa, the disciple of Jiva and of Gopala Bhatta, nor Narottama?
+Many answer that Kaviraja finished the book before their preaching began — and so the silence is natural. <!-- F137 -->
+
+## The Theft at Vana-Vishnupura
+Rumour of a rich merchant with a precious load reached the king of Vana-Vishnupura, Vira Hambira — king and leader of
+robbers. The king had his astrologer test the rumour, and he confirmed that the chest held treasure. The robbers worshipped
+Chandi and sent out a spy; the king ordered that no one be killed. The night was especially dark; the travellers, having
+taken prasada, slept by the river. The king's men carried off the chest and brought it to the palace. <!-- F69 -->
+
+In the morning the three searched everywhere in alarm and, finding nothing, were as if struck by lightning. Their grief
+was indescribable; they thought of giving up their lives. Then they said, “Who can fathom the will of Govindadeva?” — and
+remembered hearing from the Gosvamis that the king of Vishnupura was the chief of robbers. The local people at once
+suspected the king, and some advised Srinivasa to go to him straight away: the books were surely in Vishnupura. News came,
+too, that they lay in the royal storehouse. Learning that the books could be found through the king himself, the three
+gave up the thought of death. <!-- F69 F71 -->
+
+Then Srinivasa sent Narottama to Kheturi and Shyamananda to Utkala, and himself resolved to go to the palace.[^6] Knowing
+Lokanatha's wish, he said to Narottama, “Go quickly to Kheturi and fulfil Lokanatha's command” (“Bhakti-ratnakara,”
+7.119). <!-- F72 Q22 -->
+
+Meanwhile in the palace the chest was opened — and instead of jewels there were only books. The king asked the astrologer
+how he could have been so wrong. On a palm leaf he read the name “Sri Rupa Gosvami,” and at the mere sight of Rupa's
+handwriting his sins vanished. The sight of the holy books purified him; he repented and wished to meet their owner — the
+“granthacharya” — lest he remain an offender against a saint. That night he dreamed of someone shining like a golden
+mountain — Srinivasa — who said, “Do not worry, I shall come soon. Life after life you are my eternal servant.” <!-- F70 -->
+
+## Vira Hambira
+In Vishnupura the brahmana Krishnavallabha, on seeing Srinivasa, surrendered at his feet, took him home and honoured him,
+and Srinivasa initiated him; others were initiated too. From Krishnavallabha Srinivasa learned that the king heard the
+“Bhagavatam” every day from a certain brahmana, and the next day Krishnavallabha brought him to the royal assembly as a
+great Vaishnava. <!-- F73 -->
+
+Seeing his wondrous form, the king fell at his feet and gave him a high seat and garlands. Srinivasa sang the
+guru-vandana and then, at the king's request, began to explain the “Bhagavatam”; after the explanation he sang and danced
+in kirtana. The king's heart melted. Srinivasa read the “Bhagavata” day after day, hoping to recover the books, and the
+king gave him a secluded dwelling. At last, when they were alone, Srinivasa told him of the loss. The king, weeping, begged
+forgiveness again and again and confessed how his robbers had carried off the chest and how he himself had been changed by
+opening it. With a straw between his teeth he fell at Srinivasa's feet; Srinivasa embraced him and said that Gauranga
+Himself would soon show him mercy. The king brought out the chest. <!-- F74 -->
+
+Srinivasa instructed him: “Sri Krishna Chaitanya has shown you mercy. Consider yourself an offender in every way and
+constantly perform nama-sankirtana,” — and gave him the Harinama maha-mantra. One glance at a great Vaishnava is enough to
+be purified: so the robber chief was purified by seeing Srinivasa. And Srinivasa himself saw in everything that had
+happened — the loss and the return of the books — only the boundless sweet mercy of Gaurasundara. <!-- F75 I6 -->
+
+At the king's request he sent letters to the Gosvamis in Vrindavana and to Narottama and Shyamananda: the books were
+found, and the king's heart was changed. The news went to Jiva with the drivers and guards; Srinivasa filled the cart that
+had brought the books with articles for service and sent it back to Vrindavana. The Gosvamis marvelled at Srinivasa's
+deeds. At their command he began to spread the books in Gauda. In time the king and all his court took initiation from him
+and gave him their lives and wealth; at the king's initiation Srinivasa gave him the name Chaitanya Dasa (on his initiation
+into the yugala-mantra, see below). <!-- F76 F77 -->
+
+Srinivasa preached both by explaining the “Bhagavata” and by kirtana, Narottama and Shyamananda chiefly by kirtana. Each of
+the three acharyas sang in his own style: Srinivasa in the manohara-shahi style, Narottama in garanhati, Shyamananda in
+reneti; these styles have not survived. <!-- F78 -->
+
+The “Prema-vilasa” (vilasa 13) relates that Krishnadasa Kaviraja, on hearing of the theft, decided that his
+“Chaitanya-charitamrita” was lost and threw himself into Radha-kunda. But no authoritative biography confirms this. And
+the “Chaitanya-charitamrita” itself records the Lord's judgement against suicide — both in the case of Raghunatha Dasa at
+Govardhana and of Sanatana, who wished to throw himself under the chariot:
+
+“My dear Sanatana, if I could attain Krishna by suicide, I would at once and without hesitation give up My life millions
+of times over. Krishna cannot be attained merely by giving up the body. He is attained only by selfless worship and
+devotion. There is no other way.” (CC, Antya 4.55–56)
+
+Such stories are interpolations contrary to siddhanta; of them see below. <!-- F79 -->
+
+## The First Marriage
+With the chest of books Srinivasa returned to Yajigrama, to his grandfather's house, and told the devotees everything.
+Here he learned of Vishnupriya's departure and fell senseless. Raghunandana called him to Shrikhanda; then Srinivasa again
+went round Katwa, Navadvipa and other holy places. <!-- F80 -->
+
+Narahari, Raghunandana and all the people of Shrikhanda loved him with a father's love. Srinivasa's mother, as his father
+had before, wished him to marry, and spoke of it to Narahari. Narahari, though he himself displayed renunciation,
+persuaded Srinivasa: “Obey your mother” (“Bhakti-ratnakara,” 1.883). Even earlier Srinivasa had received the same command
+in a dream from Advaita. Abashed, he agreed without waiting to be told twice. Gadadhara Dasa at Kantakanagara blessed
+him: “You will taste the nectar of the Lord's sankirtana among His associates; go and marry.” Raghunandana came to
+Yajigrama and arranged the wedding. Thus Srinivasa's marriage was arranged by Narahari and other renounced associates of
+Gaura. <!-- F81 Q27 -->
+
+On Vaishakha krishna-tritiya at Yajigrama he married Draupadi-devi, the devout daughter of Gopala Chakravarti.[^7] Draupadi
+took from him the mantra of initiation and the name Ishvari. Gopala Chakravarti, though his father-in-law, accepted him as
+his guru even before the wedding; Gopala's sons too — Shyamadasa (also called Shyamananda) and Ramachandra (also called
+Ramacharana) — became Srinivasa's disciples. Narahari and Gadadhara Dasa especially rejoiced at his marriage.
+<!-- F82 F83 F84 F85 -->
+
+In Yajigrama Srinivasa taught the books of the Gosvamis to many devoted disciples, and sincere souls flocked to him. Sri
+Dasa and Gokulananda, the sons of Dvija Haridasa, took initiation from him and studied with him.[^8] <!-- F86 -->
+
+## Ramachandra and Govinda Kaviraja
+Once, as Srinivasa was explaining the “Bhagavatam” in his house at Yajigrama, Ramachandra, the son of Chiranjiva Sena of
+Shrikhanda, passed by — newly married, walking with his young wife. Seeing each other from afar, both felt a bond of
+friendship. Srinivasa asked about him and learned that he was a learned poet and physician from a family of physicians,
+a native of Kumaranagara. Ramachandra and his brother Govinda had been brought up by their grandfather, Damodara Kaviraja,
+a shakta, and had leaned toward shaktism. Next morning Ramachandra came and fell at Srinivasa's feet. Srinivasa embraced
+him and said, “Life after life you are my dearest friend; fate has brought us together again” (“Bhakti-ratnakara,”
+8.574). Srinivasa began to teach him the books of the Gosvamis and a few days later gave him the Radha-Krishna mantra; out
+of love for him he also made him his personal servant.[^9] <!-- F88 Q25 -->
+
+So Ramachandra Kaviraja — a famous physician, unbeaten in debate — became one of Srinivasa's most important disciples;
+Narottama names him again and again in the signature lines of the songs of the “Prarthana.” The title “Kaviraja” was given
+him by Jiva.[^10] <!-- F87 F89 -->
+
+His brother Govinda, an ardent shakta, received a sign from Bhagavati (“Bhakti-ratnakara,” wave 9) and wished to take
+shelter of Srinivasa, but Srinivasa had already gone to Vrindavana. The devotees of Gauda sent Ramachandra after him, and
+Ramachandra told Govinda to move from Kumarahatta to Teliya Budhari. At the devotees' wish Srinivasa returned to Gauda and
+came to Budhari. Ramachandra and Govinda received him with pomp, and in Govinda's house Srinivasa initiated him into the
+Radha-Krishna mantra (“Bhakti-ratnakara,” 10.171). Delighted with Govinda's songs, Jiva, Srinivasa and Jahnava gave him
+the title “kaviraja.” <!-- F90 Q26 -->
+
+## The Second Visit to Vrindavana
+When Shuklambara, Gadadhara Dasa and Narahari had departed, Srinivasa, grieving, went to Vrindavana again; there he learned
+that Dvija Haridasa too had passed away.[^11] He travelled with many devotees by the old road — through Gaya, through
+Kashi, where he visited Chandrashekhara, through Mathura with its Vishrama-ghata and Adikeshava. Jiva was waiting for him,
+embraced him and asked about the Bengali Vaishnavas; Shyamananda also came from Puri. Srinivasa saw Gopala Bhatta,
+Bhugarbha, Lokanatha and others, heard from them of Gaura-Krishna, and they encouraged him. <!-- F91 F92 -->
+
+Jiva taught Srinivasa and Shyamananda the conclusions of the newly completed “Shat-sandarbha,” began the “Gopala-champu”
+and read them its opening invocation. Srinivasa spent several months with Jiva and the Gosvamis. He summoned Ramachandra
+from Gauda and presented him to Jiva; at the direction of Srinivasa and Jiva, Ramachandra visited Govinda, Gopinatha,
+Madana-mohana and the samadhi of Sanatana. Then at Jiva's command Srinivasa and Shyamananda went to Gauda by way of
+Vana-Vishnupura; with the return of the three acharyas a wave of Hari-kirtana swept over Gauda. <!-- F93 F94 -->
+
+## Vishnupura: Kalachand
+In Vishnupura the king danced for joy, honoured Srinivasa as his guru and gave a feast; Shyamananda marvelled at his
+devotion. Here Srinivasa initiated Vira Hambira into the yugala-mantra, the mantra of Radha-Krishna, and with Jiva's
+permission named him Sri Chaitanya Dasa. The queen and Prince Dhadi Hambira, who received the name Sri Gopala Dasa, were
+initiated too. The “Prema-vilasa” (vilasa 18) counts the “maharajadhiraja” Vira Hambira Simha of the royal Malla line as
+one of the branches of Srinivasa's “tree.” <!-- F95 F96 -->
+
+Through Vira Hambira Srinivasa manifested the service of Sri Kalachand: by his mercy the king installed this Deity, and on
+the day of installation Srinivasa with his own hands performed the abhisheka, the puja and all the rites. Then Shyamananda
+went to Puri and Srinivasa to Yajigrama. King Harinarayana of Shikhareshvara invited him and received him with honours;
+for several days Srinivasa explained the “Bhagavatam” there, and many received mercy. <!-- F97 F98 -->
+
+## Festivals of Separation
+Narahari had departed on Agrahayana krishna-ekadashi, Gadadhara Dasa in Kartika. On returning to Gauda Srinivasa held
+festivals of separation for Gadadhara Dasa at Katwa and for Narahari at Shrikhanda, and then a great festival at his own
+home in Yajigrama. Of Gadadhara Dasa's day of departure the “Bhakti-ratnakara” says: “What shall I say of Kartika
+krishna-ashtami? On this day my Prabhu disappeared” (9.362); the festival Srinivasa held on that day was immense and as
+famous as the festival of Kheturi. At the festival for Narahari (“Bhakti-ratnakara,” 9.512–514) Srinivasa performed the
+rites; Virachandra was there too, and Srinivasa explained the “Bhagavatam.” At the festival of Dvija Haridasa's
+departure, on Magha krishna-ekadashi, at Kanchanagaria, he initiated his sons Sri Dasa and Gokulananda.
+<!-- F99 F100 Q19 Q20 -->
