@@ -5131,6 +5131,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "other"
    }
   ]
  },
@@ -22141,6 +22145,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "other"
    }
   ]
  },
@@ -23938,6 +23946,10 @@
    "ev-kuliya-shachi-meeting"
   ],
   "related_by": [
+   {
+    "from": "@shridhara-maharaja",
+    "type": "other"
+   },
    {
     "from": "@srivasa",
     "type": "opposed"
@@ -26879,6 +26891,10 @@
    {
     "from": "@rasikananda",
     "type": "met"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -31064,6 +31080,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -35327,6 +35347,10 @@
     "type": "other"
    },
    {
+    "from": "@shridhara-maharaja",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -35412,6 +35436,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "guru"
    },
    {
     "from": "@srivasa",
@@ -43104,6 +43132,155 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Бхактисиддханта Сарасвати (Прабхупада); явление — Кришна-навами месяца Дамодара — по нашему календарю; уход — Амавасья месяца Шридхара — по нашему календарю",
+  "card": "parshadas/cards/shridhara-maharaja.yaml",
+  "article": {
+   "ru": "parshadas/ru/shridhara-maharaja.md",
+   "en": "parshadas/en/shridhara-maharaja.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1895",
+    "tithi": "Кришна-навами месяца Дамодара (≈ картика) — по нашему календарю; M — тот же день, что явление Вирачандры",
+    "place": "#hapaniya",
+    "conf": "T — год и место; титхи — календарь и M",
+    "facts": [
+     "F2"
+    ]
+   },
+   "disappearance": {
+    "date": "1988",
+    "tithi": "Амавасья месяца Шридхара (≈ шравана) — по нашему календарю; T: «амавасья июля»",
+    "place": "#navadvipa",
+    "conf": "T — год и амавасья; место ухода T не называет (поле — по матху, условно); месяц у T расходится с календарём",
+    "facts": [
+     "F38"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Шри Шри Прапанна-дживанамрита»",
+    "facts": [
+     "F26"
+    ]
+   },
+   {
+    "title": "комментарии к «Шаранагати»; бенгальские переводы «Бхагавад-гиты» и «Бхакти-расамрита-синдху»",
+    "facts": [
+     "F27"
+    ]
+   },
+   {
+    "title": "«Према-дхама-дева-стотрам»",
+    "facts": [
+     "F27"
+    ]
+   },
+   {
+    "title": "«Гаятри-нигудхартха»",
+    "facts": [
+     "F28",
+     "F30",
+     "F31"
+    ]
+   },
+   {
+    "title": "«Шримад-Бхактивинода-вираха-дашакам» (1936)",
+    "facts": [
+     "F18"
+    ]
+   },
+   {
+    "title": "«Шримад-Бхактивинода-дашакам» («Гаудия», 1939)",
+    "facts": [
+     "F19"
+    ]
+   },
+   {
+    "title": "«Golden Volcano of Divine Love» (англ.)",
+    "facts": [
+     "F33"
+    ]
+   },
+   {
+    "title": "записанные беседы с преданными со всего мира",
+    "facts": [
+     "F36"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@bhaktisiddhanta",
+    "note": "Посвящение 1927, санньяса 1930 («Бхакти Ракшак»), титул «шастра-нипуна»."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@bhaktivedanta-svami",
+    "note": "Письмо Бхактиведанты Свами: «принимаю на голову»."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@bhakti-dayita-madhava",
+    "note": "= @bhakti-dayita-madhava F98."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Также близкий спутник всей жизни; отзыв о «Гаятри-нигудхартхе»."
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Мадрас-Гаудия-матх; Сарбхог (1936); сборы."
+   },
+   {
+    "type": "co-worker",
+    "who": "@bhakti-hridaya-bona"
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-ballabha-tirtha",
+    "note": "Тиртха Махарадж получил его благословения и общение."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@bhaktivinoda",
+    "note": "Санскритские гимны Бхактивиноде (1936, 1939)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Пел песню Нароттамы в день ухода Бхактисиддханты; его сочинения сравнивали с Нароттамовыми."
+   },
+   {
+    "type": "other",
+    "who": "@vasu-ghosha",
+    "note": "Комментарий к песне «йади гаура на ха’та» (M)."
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "note": "Общий день явления (M)."
+   },
+   {
+    "type": "other",
+    "who": "@devananda-pandita",
+    "note": "Сарасват Матх — в Кулии, у места Девананды (M)."
+   },
+   {
+    "type": "other",
+    "who": "@radha",
+    "note": "«Гаятри-нигудхартха»: «бхарга» — Радха, «радха-падам дхимахи»."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
@@ -43564,6 +43741,14 @@
    {
     "from": "@ramananda-raya",
     "type": "other"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "siksha-disciple"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "co-worker"
    }
   ]
  },
@@ -44111,6 +44296,10 @@
    {
     "from": "@bhaktivedanta-svami",
     "type": "other"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "other"
    }
   ]
  },
@@ -44130,6 +44319,10 @@
    {
     "from": "@bhaktivedanta-svami",
     "type": "other"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "siksha-disciple"
    }
   ]
  },
@@ -44144,6 +44337,10 @@
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
+    "type": "co-worker"
+   },
+   {
+    "from": "@shridhara-maharaja",
     "type": "co-worker"
    }
   ]
@@ -44259,6 +44456,12 @@
     "type": "other",
     "who": "@lochana-dasa",
     "note": "Песня Лочана даса «парама каруна» была ему особенно дорога (M)."
+   }
+  ],
+  "related_by": [
+   {
+    "from": "@shridhara-maharaja",
+    "type": "siksha-disciple"
    }
   ]
  }

@@ -9547,6 +9547,140 @@
   "note": "Благословила его во сне (F65)."
  },
  {
+  "from": "@shridhara-maharaja",
+  "type": "guru",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F7",
+   "F8",
+   "F9",
+   "F10",
+   "F13",
+   "F14",
+   "F16"
+  ],
+  "note": "Посвящение 1927, санньяса 1930 («Бхакти Ракшак»), титул «шастра-нипуна»."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "siksha-disciple",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F20",
+   "F21"
+  ],
+  "note": "Письмо Бхактиведанты Свами: «принимаю на голову»."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "siksha-disciple",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F20"
+  ],
+  "note": "= @bhakti-dayita-madhava F98."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "siksha-disciple",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F20",
+   "F22",
+   "F30"
+  ],
+  "note": "Также близкий спутник всей жизни; отзыв о «Гаятри-нигудхартхе»."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "co-worker",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "F15"
+  ],
+  "note": "Мадрас-Гаудия-матх; Сарбхог (1936); сборы."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "co-worker",
+  "who": "@bhakti-hridaya-bona",
+  "facts": [
+   "F11"
+  ]
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "other",
+  "who": "@bhakti-ballabha-tirtha",
+  "facts": [
+   "F23"
+  ],
+  "note": "Тиртха Махарадж получил его благословения и общение."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "lineage-predecessor",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F9",
+   "F17",
+   "F18",
+   "F19"
+  ],
+  "note": "Санскритские гимны Бхактивиноде (1936, 1939)."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F16",
+   "F29"
+  ],
+  "note": "Пел песню Нароттамы в день ухода Бхактисиддханты; его сочинения сравнивали с Нароттамовыми."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "other",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F34"
+  ],
+  "note": "Комментарий к песне «йади гаура на ха’та» (M)."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F2"
+  ],
+  "note": "Общий день явления (M)."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "other",
+  "who": "@devananda-pandita",
+  "facts": [
+   "F25"
+  ],
+  "note": "Сарасват Матх — в Кулии, у места Девананды (M)."
+ },
+ {
+  "from": "@shridhara-maharaja",
+  "type": "other",
+  "who": "@radha",
+  "facts": [
+   "F30",
+   "F31"
+  ],
+  "note": "«Гаятри-нигудхартха»: «бхарга» — Радха, «радха-падам дхимахи»."
+ },
+ {
   "from": "@srinivasa-acharya",
   "type": "father",
   "who": "@chaitanya-dasa",
