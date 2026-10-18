@@ -640,9 +640,74 @@ Dasa by the Dhaka edition, to “Hari” by the Parishad manuscript, without a n
 Ramanarayana's edition, and to “a certain poet” by the Deccan College manuscript and Atulakrishna's edition.
 <!-- F67 F68 Q23 -->
 
-In the “Pada-kalpataru” of Vaishnava Dasa three Bengali songs stand under his name: a praise of Jayadeva, beloved of
+In the “Padakalpataru” of Vaishnava Dasa three Bengali songs stand under his name: a praise of Jayadeva, beloved of
 Padmavati and author of the “Gita-govinda,” whose abode is Kendubilva; a praise of Radha; and an arati of Madana-gopala.
 <!-- F69 -->
+
+## Songs about Raghunatha Dasa
+The old poet Radhavallabha Dasa — according to the “Prema-vilasa” and the “Karnananda,” a disciple of Srinivasa Acharya
+— set out Raghunatha's life in verse. By Chaitanya's mercy, he sings, the highest renunciation arose in Raghunatha: wife,
+house, wealth and power over his estates he cast away like filth and, having performed purashcharya — a vow of chanting
+Krishna's name — went to Purushottama and served the feet of Gauranga. Raghunatha bowed down to Chaitanya, to His
+companions, avataras, Deities and holy Names, to the places of His manifest and hidden pastimes and to all the
+Vaishnavas. Radhavallabha ends his song with a prayer: may Raghunatha Dasa fulfil the desire of Radhavallabha Dasa.
+<!-- F71 F72 F78 F81 -->
+
+There is also a Bengali song about his separation — “Kothay go premamayi,” “Where are You, loving Radha?” Srila
+Gaurakishora Dasa Babaji, whom Vaishnavas compared with Raghunatha Dasa in the strength of his renunciation, sang it in the
+guise of an avadhuta as he wandered through the Navadvipa-mandala, and Srila Bhaktisiddhanta wrote it down from his
+lips. In the song the Gosvami calls ceaselessly, “Radhe! Radhe!” — at Keshi-ghata, on the bank by Vamshivata, in
+Nidhuvana and Kunjavana, by Radha-kunda and Shyama-kunda, in Kusumavana, by Govardhana, in Talavana and Tamalavana; in
+soiled clothes he rolls in the dust of Vraja, bathed in tears, and wanders from lane to lane of Vrindavana; fifty-six
+dandas out of sixty he knows only Radha and Govinda, four dandas he sleeps — and in sleep sees Radha and Govinda.
+<!-- F70 F135 -->
+
+Srila Bhaktisiddhanta himself lived by Raghunatha's stotras: in Puri he worshipped Govardhana with the hymns of Rupa and
+Raghunatha and quoted the “Govardhana-vasa-prarthana-dashaka” and the “Mukta-charita.” And to those who consider the
+writing of books a hindrance to bhajana he pointed to Rupa, Sanatana, Jiva and Raghunatha Dasa — and called such people
+fools. <!-- F135 -->
+
+## The Silence of the “Chaitanya-bhagavata”
+Krishnadasa Kaviraja described in detail Nityananda's special mercy to Raghunatha in Panihati and the chida-dadhi festival
+held at His wish. Vrindavana Dasa in the “Chaitanya-bhagavata” mentions neither this festival nor even the name of
+Raghunatha Dasa; and Raghunatha himself, in the “Stavavali” and his other works, does not name Nityananda. This
+confuses scholars who trust only their own experience. But, as the biographers say, the truth about Bhagavan and His
+intimates is not measured by their measures. <!-- F24 I1 -->
+
+## Departure and Samadhi
+Raghunatha Dasa departed on the bank of Radha-kunda, where his samadhi stands, on the shukla-dvadashi of the month of
+Ashvina, in 1504 Shaka (1582). By our calendar this is Gaura-dvadashi of the month of Padmanabha. On the same lunar day
+Krishnadasa Kaviraja departed after him, and Vaishnavas honour their departure together with that of Raghunatha Bhatta.
+The Govardhana shila that he served is now in the Gokulananda temple at Radha-kunda. <!-- F120 F6 -->
+
+Narottama Dasa in his lament asks: “Where is Raghunatha Dasa, the saviour of the fallen?” <!-- F128 -->
+
+## Rasa-manjari
+Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who Raghunatha Dasa was in Krishna's pastimes:
+
+“And he who made his dwelling in a hut by Sri Radha-kunda — that is Raghunatha Dasa, whose former name is Rasa-manjari;
+some call him Srimati Rati-manjari, and others, by a difference of names, Bhanumati.” (GGD 185–186)
+
+So later Vaishnavas too call him in the Vraja-lila some Rasa-manjari, others Rati-manjari. His unearthly, eternally
+perfect attachment to Radha can be seen from his own “Sva-niyama-dashaka.” <!-- F19 F20 Q4 -->
+
+## The Treasury of Renunciation
+Wholly devoted to Radha's service, the best of the followers of Svarupa and Rupa, Raghunatha, with natural supreme
+anuraga, unbroken as a stream of oil, gave his whole being — life, body, senses, thoughts, his very self, intelligence
+and speech — to the service of Rupa-manjari and her mistress Vrishabhanu-nandini by the pond of his Lady. His unearthly
+madness of separation, the biographers say, cannot be understood while even a shadow of the desire for enjoyment
+remains in the heart: a hint of what was in his heart is revealed only to hearts softened by a drop of the Rupanugas'
+mercy, and no religious community in the world will fathom the height of his renunciation. <!-- F82 I2 -->
+
+The acharyas speak of two speeds of bhajana. One who follows the path of rules alone, as if under the stick, moves like a
+snail; one who longs for service like that of the ragatmikas — the eternal companions of Vraja — flies like an aeroplane.
+The lightning course of Raghunatha's divine madness outstrips millions of such aeroplanes; it amazed and delighted
+Gaurasundara Himself, who had taken on the feeling and radiance of Radha. <!-- F83 I3 -->
+
+Outwardly Raghunatha's renunciation may recall that of the Buddha, but its essence is entirely different. It is not a
+giving up of the senses to escape suffering, but attachment to Radha and Krishna, before which all else falls away of
+itself. That is why Kavi Karnapura called him the one treasury of renunciation, and Krishnadasa Kaviraja likened his vows
+to a line carved in stone. <!-- I9 -->
 
 [^1]: ⚠ One biography names Sri Gopinatha of Vrindavana as Raghunatha Dasa's Deity (beside Sanatana's Madana-mohana and
     Rupa's Govinda). Gopinatha, however, is usually held to be the Deity of Madhu Pandita.
