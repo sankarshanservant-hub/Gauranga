@@ -334,6 +334,113 @@ the “Prema-vilasa,” he also received initiation from him.[^7] Telling of Rag
 intelligence and practical skill of the Kayasthas — an argument sometimes used when speaking of Kaviraja's own caste.
 <!-- F123 -->
 
+## From the Summit of Govardhana to Radha-kunda
+When Mahaprabhu withdrew from this world, and Svarupa departed after Him, Raghunatha, tearing his hair in the turmoil of
+separation, set out for Vraja. He resolved to see Rupa and Sanatana one last time and then to leave his body by throwing
+himself from Govardhana. But the brothers saw him, held him back and preserved his life; they accepted him as their
+third brother and were themselves enriched by hearing from him of the Lord's pastimes in Puri. Bathed in their mercy, at
+their bidding he settled on the bank of Radha-kunda, took strict vows and, in the renunciation of separation, gave
+himself to the bhajana and kirtana of Gandharvika and Giridhari. (See also the article on Rupa Gosvami.)
+<!-- F110 F16 F74 -->
+
+That is why the “Chaitanya-charitamrita” preserved the Lord's judgement against suicide — both Raghunatha's attempt to
+throw himself from Govardhana and Sanatana's intention to perish under Jagannatha's chariot. And for the same reason the
+biographers consider unconfirmed the tale that Kaviraja, learning of the loss of the books, threw himself into
+Radha-kunda. Raghunatha himself, in the “Sva-niyama-dashaka” (9), asks for one thing only — to leave his body by
+Radha-kunda. <!-- F125 F136 -->
+
+At first he had not even a shelter by Radha-kunda. Sometimes he stayed with Gopala Bhatta, whose hut stood by the
+Manasa-ganga at Govardhana. Once, after bathing in the Manasa-ganga, Raghunatha was sitting in bhajana under a tree when
+a tiger came to the water to drink. Sanatana saw this and told him to build a hut. <!-- F117 -->
+
+Mahaprabhu Himself, coming to Arita, had bathed in the water of a rice field and revealed that this was Radha-kunda and
+Shyama-kunda. Raghunatha wished to restore the sacred ponds but hesitated. Then a rich merchant, travelling to
+Badrinatha with a large offering, saw Badrinarayana in a dream, and He told him to give the money to Raghunatha. The
+merchant turned back, found Raghunatha at Arita, and under his supervision both ponds were dug out and faced with stone.
+On the bank of Shyama-kunda grew five trees. Yudhishthira appeared to Raghunatha in a dream and revealed that these trees
+were the five Pandavas; Raghunatha stopped the felling, and that is why Shyama-kunda is not quite rectangular.
+<!-- F114 F115 -->
+
+## Life on the Bank of Radha-kunda
+Krishnadasa Kaviraja, who accepted Raghunatha as his guru, describes his life in Vraja thus:
+
+“Sri Raghunatha Dasa gave up everything, including food and water, drinking only a palmful of buttermilk a day. Every
+day he prostrated himself a thousand times before the Supreme Lord, uttered His holy name a hundred thousand times and
+bowed down to two thousand Vaishnavas. Day and night he served Sri Sri Radha-Krishna in his mind, and every day he spent
+three hours talking of the pastimes of Sri Chaitanya. Morning, noon and evening he bathed in Radha-kunda. On meeting the
+Vaishnavas of Vraja he embraced them, showing his deep respect. Twenty-two hours a day he devoted to the service of
+Krishna. He slept no more than two hours a day, and sometimes forgot sleep altogether.” (CC, Adi 10.98–102)
+
+Two or three cups of buttermilk a day were all his food; more than twenty-two hours a day went to sadhana, and sleep
+took no more than an hour and a half, or he went without sleep altogether. <!-- F17 Q2 F111 -->
+
+The poet Radhavallabha Dasa adds that Raghunatha wore a torn blanket, ate the fruits and milk foods of Vraja and did not
+eat rice; three times a day he bathed, remembered the Lord and performed kirtana. Fifty-six dandas out of sixty he sang
+of Radha and Krishna, four dandas he slept — and in sleep saw Radha and Krishna; not a single moment passed in vain.
+<!-- F75 -->
+
+## Among the Gosvamis of Vraja
+His mind, like a bee, Raghunatha kept at the feet of Gauranga, and he always remembered Svarupa. The poets sing that he
+was non-different from Rupa; his shelter was Sanatana; he was dear to both Bhattas, Raghunatha and Gopala; all Rupa's
+companions honoured his feet, and he felt great tenderness towards Jiva. <!-- F76 -->
+
+There is a tradition that, reading Rupa's “Lalita-madhava,” a drama of separation, Raghunatha sank so deep into
+separation that he nearly died. Then Rupa wrote the light-hearted “Dana-keli-kaumudi,” gave it to Raghunatha and took
+the “Lalita-madhava” away. <!-- F116 -->
+
+Gopala Bhatta begins the “Hari-bhakti-vilasa” by saying that he compiles it for the delight of Raghunatha Dasa, Rupa and
+Sanatana, and Sanatana in the “Vaishnava-toshani” names his two friends and helpers — Gopala Bhatta and Raghunatha
+Dasa. Sanatana's literary contribution, it is said, can be compared only with that of Rupa and Raghunatha Dasa.
+According to the “Bhakti-ratnakara,” Sanatana used to come to Radha-kunda to Rupa and Raghunatha Dasa. <!-- F133 F130 -->
+
+Together with Gopala Bhatta, Raghunatha Bhatta and Lokanatha, Raghunatha Dasa was with Rupa when Gopala, the Deity of
+Madhavendra Puri, stayed in Mathura (CC, Madhya 18.49). Later a council of “Dasa Gosvami and others” handed over
+Gopala's service to Vitthaleshvara (Vitthalanatha), the son of Vallabhacharya; in the “Gopala-raja-stotra” Raghunatha
+glorifies Gopala, adorned by the loving service of Vitthala. <!-- F131 -->
+
+The “Bhakti-ratnakara” preserves another story about Vitthalanatha. Once Raghunatha's digestion was upset, and
+Vitthalanatha brought two physicians from Ballabhpur. The physicians said that the ailment came from rice cooked in
+milk. Vitthalanatha was astonished: Raghunatha drinks only buttermilk! And Raghunatha confessed that he had eaten rice
+with milk in meditation, serving Radha and Krishna in Their pastimes. <!-- F119 Q34 -->
+
+Yet another story of the “Bhakti-ratnakara” shows how Raghunatha felt himself a maidservant of Radha. A Vrajavasi named
+Dasa was grieved that Raghunatha ate only a cup of buttermilk, and made him a large bowl of leaves. Learning that the
+leaves had been plucked at Sakhisthali, Raghunatha angrily threw the bowl away: Sakhisthali is the abode of Chandravali,
+Radha's rival, and one must not go there (BR 5.572–574). The biographers see in this the highest stage of a
+maidservant's love for Radha, incomprehensible to the envious and to those who harbour worldly desires: all these
+devotees are eternally perfect, and whoever doubts them falls. <!-- F118 I10 Q34 -->
+
+## Srinivasa, Narottama, Shyamananda
+Raghunatha lived a long life in Vraja, and the next generation began to come to him. Srinivasa, arriving in Vraja,
+learned that Raghunatha, maddened by separation from Gaura and Svarupa, had long been living there. The day after his
+initiation Srinivasa went with Jiva to Radha-kunda and saw Raghunatha Dasa, Raghava Gosvami and Krishnadasa Kaviraja
+(BR 4.392); by one account, Jiva sent him to Raghunatha, and Srinivasa spent three days at Radha-kunda. He marvelled at
+Raghunatha's austerity and his absorption in love, and before leaving for Gauda with the books of the Gosvamis he
+received his blessing. <!-- F112 F124 Q34 -->
+
+Narottama was the darling of Gopala Bhatta, Jiva and Raghunatha Dasa. Duhkhi Krishnadasa — the future Shyamananda —
+came to Raghunatha, who with heartfelt love sent him to Jiva. Jiva taught all three from the books of Rupa, Sanatana and
+his own, and from those of Raghunatha Dasa and Gopala Bhatta; when the books were sent to Gauda, they were blessed by
+Gopala Bhatta, Raghunatha Dasa, Kaviraja and others. Ramachandra Kaviraja, having bathed in Radha-kunda and
+Shyama-kunda, bowed down to Raghunatha, who embraced him with love. (In detail — in the article on Jiva Gosvami.)
+<!-- F126 F127 -->
+
+Jahnava Devi also came to Radha-kunda. Having visited the temples of Madana-mohana, Govinda and Gopinatha, she saw
+Raghunatha, emaciated by austerities and ceaselessly chanting the holy name, and blessed him. <!-- F113 -->
+
+## The Last Years
+The more of his companions left this world, the deeper his separation became. Radhavallabha Dasa sings: after
+Gauranga's departure Raghunatha gave up rice and ate only fruits and milk foods; after Sanatana's departure he drank only
+water; after Rupa's departure he gave up even water and lived on the chanting of “Radha-Krishna” alone. When Rupa and
+Sanatana withdrew, he went blind: “Why should I see, why should I live?” <!-- F79 F77 -->
+
+Not seeing Rupa and his companions, not hearing talk of Krishna, he would call out: “Where are Radha and Krishna, where
+are Vishakha and Lalita? O Chaitanya Mahaprabhu, O Svarupa, O Rupa and Sanatana!” Day and night he wept; his body lay in
+the dust, his eyes saw nothing, the body itself had become a burden. He lay on the bank of Radha-kunda; he could no
+longer speak, his tongue barely moved, tears flowed from his eyes, and his mind was absorbed in the remembrance of
+Krishna. He prayed: “O Radhavallabha, friend of Gandharvika, Radhika-ramana, Radha-natha, lord of Vrindavana, Krishna,
+Damodara — make me Your own.” <!-- F80 F77 -->
+
 [^1]: ⚠ One biography names Sri Gopinatha of Vrindavana as Raghunatha Dasa's Deity (beside Sanatana's Madana-mohana and
     Rupa's Govinda). Gopinatha, however, is usually held to be the Deity of Madhu Pandita.
 [^2]: According to another biography, Raghunatha Dasa appeared about 1494 and departed in 1586.
@@ -346,3 +453,4 @@ intelligence and practical skill of the Kayasthas — an argument sometimes used
 [^6]: According to the three old records mentioned above, Raghunatha lived nineteen years at home, eight in Nilachala
     and forty-nine in Vraja, at Radha-kunda.
 [^7]: According to local tradition, Kaviraja received initiation from Nityananda.
+
