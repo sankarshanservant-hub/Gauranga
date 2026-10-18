@@ -4141,6 +4141,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "companion"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -4724,6 +4728,12 @@
    "ev-tattva-rejecting-chaitanya-asura",
    "ev-tattva-chaitanya-gives-rare-prema",
    "ev-tattva-gaura-nitai-names-prema"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "deity-served"
+   }
   ]
  },
  {
@@ -5105,6 +5115,10 @@
    {
     "from": "@gopala-guru",
     "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
+    "type": "deity-served"
    },
    {
     "from": "@rupa-gosvami",
@@ -8591,6 +8605,10 @@
     "type": "in-law"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "father"
    }
@@ -10493,6 +10511,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -11502,6 +11524,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
    },
    {
     "from": "@rupa-gosvami",
@@ -13904,6 +13930,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -14571,6 +14601,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -17640,6 +17674,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "friend"
    },
@@ -18768,6 +18806,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -19585,6 +19627,10 @@
    },
    {
     "from": "@raghunatha-bhatta",
+    "type": "siksha-guru"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "siksha-guru"
    },
    {
@@ -22678,6 +22724,10 @@
     "type": "served-by"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "co-worker"
    }
@@ -23094,6 +23144,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
    {
     "from": "@shachi",
     "type": "guest"
@@ -23718,6 +23772,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "companion"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "friend"
    },
@@ -24099,6 +24157,10 @@
    {
     "from": "@nityananda",
     "type": "host"
+   },
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -24585,6 +24647,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "companion"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "siksha-disciple"
    },
@@ -24838,6 +24904,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    },
    {
@@ -25217,6 +25287,334 @@
    "ev-srinivasa-disciples",
    "ev-jiva-gosvami-writings",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Раса-манджари (ГГД 186); гуру — Ядунандана Ачарья (Тарка-чудамани); происхождение — Саптаграма (Тривени, Мукта-вени); явление — Гаура-панчами месяца Мадхава — по нашему календарю; уход — Гаура-двадаши месяца Падманабха — по нашему календарю, B и T; самадхи — Радха-кунда и Шьяма-кунда",
+  "card": "parshadas/cards/raghunatha-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/raghunatha-dasa.md",
+   "en": "parshadas/en/raghunatha-dasa.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "puri",
+   "vrindavana",
+   "goswamis"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1507 (1428 Шака / 1563 Самват) — B; около 1494 — T",
+    "tithi": "Гаура-панчами (Васанта-панчами) месяца Мадхава — по нашему календарю",
+    "place": "#krishnapura-saptagrama",
+    "conf": "1428 Шака — три согласных списка (Бхактивинода, рукопись Банамали Лала Госвами, рукописи Гопиваллабхапура; B); T — около 1494; источники книг титхи явления не дают",
+    "facts": [
+     "F3",
+     "F4",
+     "F5",
+     "F6",
+     "F7",
+     "F84"
+    ]
+   },
+   "disappearance": {
+    "date": "1582 (1504 Шака / 1639 Самват) — B; 1586 — T",
+    "tithi": "Гаура-двадаши месяца Падманабха (= ашвина шукла-двадаши) — по нашему календарю, B и T; общий день с Рагхунатхой Бхаттой и Кришнадасом Кавираджем",
+    "place": "#radha-kunda",
+    "conf": "Год: B (1504 Шака, 76 лет жизни) ≠ T (1586); титхи — все согласны",
+    "facts": [
+     "F3",
+     "F4",
+     "F5",
+     "F6",
+     "F120"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#radha-kunda",
+     "facts": [
+      "F120"
+     ],
+     "note": "T: самадхи на берегу Радха-кунды."
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Стававали» («Става-мала») — 29 стотр (Манах-шикша, Сва-нияма-дашака, Вилапа-кусуманджали, Враджа-виласа-става, Гауранга-става-калпатару и др.)",
+    "facts": [
+     "F25",
+     "F26",
+     "F27",
+     "F28",
+     "F29",
+     "F32",
+     "F33",
+     "F34",
+     "F35",
+     "F36",
+     "F38",
+     "F40",
+     "F41",
+     "F42",
+     "F43",
+     "F44",
+     "F45",
+     "F46",
+     "F47",
+     "F48",
+     "F49",
+     "F50",
+     "F51",
+     "F52",
+     "F53",
+     "F54",
+     "F55",
+     "F56",
+     "F57",
+     "F58"
+    ]
+   },
+   {
+    "title": "«Дана-чарита» («Дана-кели-чинтамани»)",
+    "facts": [
+     "F25",
+     "F60",
+     "F61",
+     "F62",
+     "F63"
+    ]
+   },
+   {
+    "title": "«Мукта-чарита»",
+    "facts": [
+     "F25",
+     "F64",
+     "F65"
+    ]
+   },
+   {
+    "title": "три стиха в «Падьявали» (131, 212, 331; авторство спорно)",
+    "facts": [
+     "F67",
+     "F68"
+    ]
+   },
+   {
+    "title": "три бенгальские песни в «Пада-калпатару» (приписываются)",
+    "facts": [
+     "F69"
+    ]
+   },
+   {
+    "title": "«Гуна-леша-сукхада» (по Ауфрехту)",
+    "facts": [
+     "F66"
+    ]
+   },
+   {
+    "title": "хранитель кадчи Сварупы — основа ЧЧ (Антья-лилы)",
+    "facts": [
+     "F28",
+     "F122",
+     "F123"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Раса-манджари",
+    "source": "ГГД 186",
+    "level": "A",
+    "variants": [
+     "Рати-манджари — по «некоторым» (ГГД 186; B 630)",
+     "Бханумати — по «иным» (ГГД 186)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@govardhana-majumdar"
+   },
+   {
+    "type": "uncle",
+    "who": "@hiranya-majumdar"
+   },
+   {
+    "type": "relative",
+    "who": "@kalidasa",
+    "note": "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхеде (T 80–81)."
+   },
+   {
+    "type": "guru",
+    "who": "@yadunandana-acharya",
+    "note": "Дикша-гуру; жрец семьи, ученик Адвайты, облагодетельствованный Васудевой Даттой; его поручение стало поводом к побегу."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@svarupa-damodara",
+    "note": "«Сварупов Рагху»: Господь вручил его Сварупе как сына и слугу и велел учиться у него; хранитель его кадчи."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Шантипур; Пури — 8 (B) или 16 (T) лет; дар камня Говардханы и гирлянды гунджи."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@rupa-gosvami",
+    "note": "Удержал от самоубийства у Говардханы, принял «третьим братом»; рупанугой Рагхунатха называет себя во всех книгах; плач о нём — «Прартханашрая-чатурдашака»."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@sanatana-gosvami",
+    "note": "«Напоил меня, не желавшего, бхакти с отречением» (Вилапа-кусуманджали); велел построить хижину (тигр)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Панихати: праздник чида-дадхи по Его велению; благословение. ЧБ о нём молчит, Рагхунатха Нитьянанду в «Стававали» не называет (F24)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Мальчиком в Чандпуре у Баларамы Ачарьи получил милость Харидаса."
+   },
+   {
+    "type": "other",
+    "who": "@balarama-acharya-chandapur",
+    "note": "Жрец семьи; Рагхунатха учился у него."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Отец служил Адвайте; Адвайта устроил ему остатки Господа в Шантипуре и представил Господу."
+   },
+   {
+    "type": "other",
+    "who": "@vasudeva-datta"
+   },
+   {
+    "type": "other",
+    "who": "@nilambara-chakravarti",
+    "note": "Отец и дядя — как младшие братья Ниламбары (B: «аджа»; T: «бхайя/дада»)."
+   },
+   {
+    "type": "other",
+    "who": "@raghava-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@shivananda-sena"
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant"
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta"
+   },
+   {
+    "type": "other",
+    "who": "@shankarananda-sarasvati",
+    "note": "Принёс Господу камень Говардханы и гунджу."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-khan"
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Кавирадж принял его своим гуру и писал ЧЧ с его слов; «Мукта-чарита» — силой общения с ним; по «Према-виласе» — дал ему дикшу (T); ушёл в тот же титхи."
+   },
+   {
+    "type": "companion",
+    "who": "@jiva-gosvami",
+    "note": "«Мукта-чарита» написана по желанию Дживы; к Дживе — великая нежность."
+   },
+   {
+    "type": "companion",
+    "who": "@gopala-bhatta",
+    "note": "Жил у него у Манаси-ганги; «два друга-помощника» Санатаны; ХБВ 1.2 — на радость Рагхунатхе Дасу."
+   },
+   {
+    "type": "companion",
+    "who": "@raghunatha-bhatta",
+    "note": "Дорог «двум Бхаттам»; общий день ухода."
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya"
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@shyamananda",
+    "note": "Принял Духкхи Кришнадаса и отправил к Дживе (B)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@jahnava"
+   },
+   {
+    "type": "other",
+    "who": "@vitthalanatha"
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "note": "M: учился расе под началом Сварупы и Рагхунатхи Даса."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti"
+   },
+   {
+    "type": "other",
+    "who": "@radhavallabha-dasa-poet",
+    "note": "Песня о его жизни (B 655–658)."
+   },
+   {
+    "type": "other",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "Пел песню о нём; отрешением подобен ему."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta"
+   },
+   {
+    "type": "other",
+    "who": "@banamali-lal-gosvami"
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha",
+    "note": "Гирлянда гунджи от Господа — как Вришабхану-нандини; вечный слуга Радхи."
+   },
+   {
+    "type": "deity-served",
+    "who": "@krishna",
+    "note": "Камень Говардханы — как Гиридхари; ныне в храме Гокулананды на Радха-кунде (T; B 972)."
+   }
   ],
   "related_by": [
    {
@@ -25925,6 +26323,10 @@
    },
    {
     "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    },
    {
@@ -26883,6 +27285,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -27568,6 +27974,12 @@
    "ev-advaita-departure",
    "ev-srinivasa-gadadhara-puri",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "guru"
+   }
   ]
  },
  {
@@ -28913,6 +29325,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "companion"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "nephew"
    },
@@ -29460,6 +29876,10 @@
    },
    {
     "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    },
    {
@@ -30059,6 +30479,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "lineage-successor"
    },
@@ -30643,6 +31067,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "other"
    }
@@ -30977,6 +31405,10 @@
    },
    {
     "from": "@raghunandana",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    }
   ]
@@ -31338,6 +31770,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -31639,6 +32075,12 @@
   "events": [
    "ev-kalidasa-foot-water",
    "ev-jahnava-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "relative"
+   }
   ]
  },
  {
@@ -32417,6 +32859,10 @@
    },
    {
     "from": "@raghunandana",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    }
   ]
@@ -33731,6 +34177,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "host"
    }
@@ -34021,6 +34471,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -34093,6 +34547,10 @@
    },
    {
     "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    },
    {
@@ -34220,6 +34678,10 @@
    {
     "from": "@nityananda",
     "type": "opposed"
+   },
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
    }
   ]
  },
@@ -40402,6 +40864,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "lineage-successor"
    },
@@ -40537,7 +41003,7 @@
   "id": "@hiranya-majumdar",
   "ru": "Хиранья (Маджумдар)",
   "en": "Hiranya (Majumdar)",
-  "note": "землевладелец Саптаграма, отец Рагхунатхи Даса; не путать с @hiranya-pandita",
+  "note": "землевладелец Саптаграма, старший брат Говардханы, дядя Рагхунатхи Даса; не путать с @hiranya-pandita",
   "section": "Аллегорические лица",
   "lilas": [
    "pvl-0258",
@@ -40552,13 +41018,19 @@
    "ev-raghunatha-dasa-shantipura",
    "ev-raghunatha-dasa-saptagrama-arrest",
    "ev-raghunatha-dasa-joins-lord"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "uncle"
+   }
   ]
  },
  {
   "id": "@govardhana-majumdar",
   "ru": "Говардхана (Маджумдар)",
   "en": "Govardhana (Majumdar)",
-  "note": "брат Хираньи, дядя Рагхунатхи Даса (по ЧЧ — его отец)",
+  "note": "младший брат Хираньи, отец Рагхунатхи Даса (ЧЧ; B 628; T 180)",
   "section": "Аллегорические лица",
   "lilas": [
    "pvl-0258",
@@ -40576,6 +41048,12 @@
    "ev-raghunatha-dasa-saptagrama-arrest",
    "ev-raghunatha-dasa-escape",
    "ev-raghunatha-dasa-joins-lord"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "father"
+   }
   ]
  },
  {
@@ -41070,6 +41548,12 @@
   ],
   "events": [
    "ev-haridasa-gopala-chakravarti"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   }
   ]
  },
  {
@@ -41289,6 +41773,12 @@
   ],
   "events": [
    "ev-govardhana-shila-gunja-gift"
+  ],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   }
   ]
  },
  {
@@ -42131,6 +42621,10 @@
     "type": "other"
    },
    {
+    "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "other"
    }
@@ -42223,6 +42717,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@raghunatha-dasa",
+    "type": "other"
    }
   ]
  },
@@ -42237,6 +42735,21 @@
   "related_by": [
    {
     "from": "@gopala-bhatta",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@gaurakishora-dasa-babaji",
+  "ru": "Гауракишора Дас Бабаджи",
+  "en": "Gaurakishora Dasa Babaji",
+  "note": "парамахамса-бабаджи, гуру Бхактисиддханты; пел песню о Рагхунатхе Дасе (B 653; T 241)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@raghunatha-dasa",
     "type": "other"
    }
   ]

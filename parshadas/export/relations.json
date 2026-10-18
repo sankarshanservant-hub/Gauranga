@@ -6421,6 +6421,494 @@
   "note": "Песня-«сучака» о нём (B 505–506); отождествление автора с учеником Шринивасы — по @sanatana-gosvami F426."
  },
  {
+  "from": "@raghunatha-dasa",
+  "type": "father",
+  "who": "@govardhana-majumdar",
+  "facts": [
+   "F7",
+   "F11",
+   "F85",
+   "F91",
+   "F92",
+   "F94",
+   "F99",
+   "F104"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-saptagrama-arrest",
+   "ev-raghunatha-dasa-escape"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "uncle",
+  "who": "@hiranya-majumdar",
+  "facts": [
+   "F8",
+   "F10",
+   "F11",
+   "F85",
+   "F93"
+  ],
+  "event": "ev-raghunatha-dasa-saptagrama-arrest"
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "relative",
+  "who": "@kalidasa",
+  "facts": [
+   "F86",
+   "F87"
+  ],
+  "note": "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхеде (T 80–81)."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "guru",
+  "who": "@yadunandana-acharya",
+  "facts": [
+   "F2",
+   "F13",
+   "F39",
+   "F86",
+   "F98"
+  ],
+  "note": "Дикша-гуру; жрец семьи, ученик Адвайты, облагодетельствованный Васудевой Даттой; его поручение стало поводом к побегу."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "siksha-guru",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F2",
+   "F15",
+   "F39",
+   "F102",
+   "F103",
+   "F108",
+   "F110",
+   "F122"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-joins-lord",
+   "ev-raghunatha-lord-instructions",
+   "ev-svarupa-teaches-raghunatha-piriti",
+   "ev-raghunatha-rotten-rice"
+  ],
+  "note": "«Сварупов Рагху»: Господь вручил его Сварупе как сына и слугу и велел учиться у него; хранитель его кадчи."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F15",
+   "F28",
+   "F39",
+   "F73",
+   "F90",
+   "F92",
+   "F100",
+   "F101",
+   "F102",
+   "F104",
+   "F105",
+   "F106",
+   "F108",
+   "F109"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-shantipura",
+   "ev-panihati-chida-dadhi",
+   "ev-raghunatha-dasa-joins-lord",
+   "ev-raghunatha-lord-instructions",
+   "ev-raghunatha-stops-invitations",
+   "ev-govardhana-shila-gunja-gift",
+   "ev-raghunatha-rotten-rice"
+  ],
+  "note": "Шантипур; Пури — 8 (B) или 16 (T) лет; дар камня Говардханы и гирлянды гунджи."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "siksha-guru",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F16",
+   "F21",
+   "F29",
+   "F47",
+   "F57",
+   "F58",
+   "F59",
+   "F62",
+   "F63",
+   "F65",
+   "F74",
+   "F76",
+   "F77",
+   "F110",
+   "F116",
+   "F136"
+  ],
+  "event": "ev-raghunatha-dasa-radha-kunda",
+  "note": "Удержал от самоубийства у Говардханы, принял «третьим братом»; рупанугой Рагхунатха называет себя во всех книгах; плач о нём — «Прартханашрая-чатурдашака»."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "siksha-guru",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F16",
+   "F21",
+   "F39",
+   "F74",
+   "F76",
+   "F79",
+   "F110",
+   "F117",
+   "F130",
+   "F133"
+  ],
+  "event": "ev-raghunatha-dasa-radha-kunda",
+  "note": "«Напоил меня, не желавшего, бхакти с отречением» (Вилапа-кусуманджали); велел построить хижину (тигр)."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F15",
+   "F24",
+   "F95",
+   "F96",
+   "F97"
+  ],
+  "event": "ev-panihati-chida-dadhi",
+  "note": "Панихати: праздник чида-дадхи по Его велению; благословение. ЧБ о нём молчит, Рагхунатха Нитьянанду в «Стававали» не называет (F24)."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F12",
+   "F88"
+  ],
+  "note": "Мальчиком в Чандпуре у Баларамы Ачарьи получил милость Харидаса."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@balarama-acharya-chandapur",
+  "facts": [
+   "F12",
+   "F86",
+   "F88"
+  ],
+  "note": "Жрец семьи; Рагхунатха учился у него."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F10",
+   "F90",
+   "F92",
+   "F104"
+  ],
+  "note": "Отец служил Адвайте; Адвайта устроил ему остатки Господа в Шантипуре и представил Господу."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F2",
+   "F13",
+   "F86"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@nilambara-chakravarti",
+  "facts": [
+   "F10",
+   "F101"
+  ],
+  "note": "Отец и дядя — как младшие братья Ниламбары (B: «аджа»; T: «бхайя/дада»)."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F96",
+   "F97"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F2",
+   "F99",
+   "F104"
+  ],
+  "event": "ev-raghunatha-dasa-escape"
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F102",
+   "F103",
+   "F108"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F100"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@shankarananda-sarasvati",
+  "facts": [
+   "F106"
+  ],
+  "note": "Принёс Господу камень Говардханы и гунджу."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@ramachandra-khan",
+  "facts": [
+   "F88"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "siksha-disciple",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F17",
+   "F28",
+   "F65",
+   "F120",
+   "F122",
+   "F123"
+  ],
+  "note": "Кавирадж принял его своим гуру и писал ЧЧ с его слов; «Мукта-чарита» — силой общения с ним; по «Према-виласе» — дал ему дикшу (T); ушёл в тот же титхи."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "companion",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F65",
+   "F76",
+   "F124",
+   "F126",
+   "F136"
+  ],
+  "note": "«Мукта-чарита» написана по желанию Дживы; к Дживе — великая нежность."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "companion",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F117",
+   "F126",
+   "F133"
+  ],
+  "note": "Жил у него у Манаси-ганги; «два друга-помощника» Санатаны; ХБВ 1.2 — на радость Рагхунатхе Дасу."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "companion",
+  "who": "@raghunatha-bhatta",
+  "facts": [
+   "F6",
+   "F76",
+   "F102"
+  ],
+  "note": "Дорог «двум Бхаттам»; общий день ухода."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F112",
+   "F124"
+  ],
+  "events": [
+   "ev-srinivasa-arrives-vrindavana"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F126",
+   "F128"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@shyamananda",
+  "facts": [
+   "F126"
+  ],
+  "event": "ev-shyamananda-comes-to-vrindavana",
+  "note": "Принял Духкхи Кришнадаса и отправил к Дживе (B)."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@ramachandra-kaviraja",
+  "facts": [
+   "F127"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F113"
+  ],
+  "event": "ev-jahnava-vrindavana"
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@vitthalanatha",
+  "facts": [
+   "F50",
+   "F119",
+   "F131"
+  ],
+  "event": "ev-gopala-mathura-vitthaleshvara"
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@gopala-guru",
+  "facts": [
+   "F122"
+  ],
+  "note": "M: учился расе под началом Сварупы и Рагхунатхи Даса."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F2"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F25"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@radhavallabha-dasa-poet",
+  "facts": [
+   "F71",
+   "F81"
+  ],
+  "note": "Песня о его жизни (B 655–658)."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@gaurakishora-dasa-babaji",
+  "facts": [
+   "F70",
+   "F135"
+  ],
+  "note": "Пел песню о нём; отрешением подобен ему."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F3",
+   "F31",
+   "F46",
+   "F122"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F135",
+   "I5",
+   "I6",
+   "I7",
+   "I8"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "other",
+  "who": "@banamali-lal-gosvami",
+  "facts": [
+   "F4"
+  ]
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "deity-served",
+  "who": "@radha",
+  "facts": [
+   "F15",
+   "F35",
+   "F43",
+   "F44",
+   "F45",
+   "F57",
+   "F73",
+   "F82",
+   "F106"
+  ],
+  "event": "ev-govardhana-shila-gunja-gift",
+  "note": "Гирлянда гунджи от Господа — как Вришабхану-нандини; вечный слуга Радхи."
+ },
+ {
+  "from": "@raghunatha-dasa",
+  "type": "deity-served",
+  "who": "@krishna",
+  "facts": [
+   "F15",
+   "F73",
+   "F106"
+  ],
+  "event": "ev-govardhana-shila-gunja-gift",
+  "note": "Камень Говардханы — как Гиридхари; ныне в храме Гокулананды на Радха-кунде (T; B 972)."
+ },
+ {
   "from": "@ramananda-raya",
   "type": "father",
   "who": "@bhavananda-raya",

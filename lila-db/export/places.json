@@ -10193,5 +10193,41 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#krishnapura-saptagrama",
+  "ru": "Кришнапур (Саптаграм)",
+  "en": "Krishnapur (Saptagram)",
+  "note": "округ Хугли, к югу от ст. Ади-Саптаграм; место явления Рагхунатхи Даса (B 628; T 180)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#arita",
+  "ru": "Арит (Аришта-грама)",
+  "en": "Arit (Arishta-grama)",
+  "note": "Врадж, деревня у Радха- и Шьяма-кунды (T 187)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#manasa-ganga",
+  "ru": "Манаси-ганга",
+  "en": "Manasa-ganga",
+  "note": "пруд у Говардханы; хижина Гопалы Бхатты, тигр у Рагхунатхи Даса (T 187)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#sakhisthali",
+  "ru": "Сакхистхали",
+  "en": "Sakhisthali",
+  "note": "Врадж, обитель Чандравали (T 187; БР 5)",
+  "section": "",
+  "lilas": [],
+  "events": []
  }
 ]
