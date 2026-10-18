@@ -1,0 +1,67 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/bhakti-ballabha-tirtha.md.
+id: "@bhakti-ballabha-tirtha"
+names:
+  ru: "Свами Бхакти Валлабха Тиртха Махарадж"
+  en: "Swami Bhakti Ballabha Tirtha Maharaj"
+  variants: ["Камакхья Чаран Гуха-Рай", "Кришна Валлабха брахмачари", "Свами Б. Б. Тиртха", "Тиртха Махарадж", "Бхакти Валлабха Тиртха Госвами"]
+  facts: [F2, F27]
+kind: acharya
+circle: [later]
+period: [P15]
+period_note: "XX век (род. 1924): ученик и преемник Бхакти Даиты Мадхавы, автор книги T; на момент книги (2001) жив; в лилах Господа не участвует."
+sampradaya: {name: "линия Бхактисиддханты Сарасвати через Бхакти Даиту Мадхаву", facts: [F7, F14, F15]}
+life:
+  appearance:
+    date: "1924"
+    tithi: "Рама-навами (по T); в нашем календаре дня нет"
+    place: ""
+    conf: "T — Ассам (тега нет), год и Рама-навами"
+    facts: [F1]
+origin:
+  places: []
+  facts: [F1, F2, F3]
+  note: "Родом из Ассама; отец — Дхирендра Гуха-Рай; дядя — работодатель Радха Мохана в Гоалпаре."
+relations:
+  - {type: guru, who: "@bhakti-dayita-madhava", facts: [F4, F6, F7, F8, F12, F13, F14, F15], note: "Встреча — Гоалпара, 1947; санньяса 1961; преемник (письмо 12.12.1976, наставления 30.12.1978; ачарья с 1979)."}
+  - {type: siksha-guru, who: "@bhakti-pramoda-puri", facts: [F16, F17, F19, F28, F29], note: "Правил книгу T; по его просьбе с 1997 г. проповедует по миру."}
+  - {type: other, who: "@shridhara-maharaja", facts: [F16], note: "Получил его благословения и общение."}
+  - {type: other, who: "@bhakti-hridaya-bona", facts: [F16]}
+  - {type: other, who: "@bhaktivedanta-svami", facts: [F9], note: "Отказался ехать с ним в США (1965), служа гуру."}
+  - {type: lineage-predecessor, who: "@bhaktisiddhanta", facts: [F17], note: "Парама-гуру."}
+  - {type: lineage-predecessor, who: "@bhaktivinoda", facts: [F6], note: "«Джайва-дхарма» рассеяла его сомнения."}
+unnamed:
+  - {who: "Дхирендра Гуха-Рай — отец", type: father, facts: [F2]}
+  - {who: "Радха Мохан («Рам Мохан-да», Гоалпара) — вартма-прадаршака-гуру", type: siksha-guru, facts: [F5]}
+  - {who: "Деваврата (Раби) — друг, пришедший с ним к гуру", type: friend, facts: [F4]}
+  - {who: "Бхакти Варидхи Паривраджака Махарадж — издатель бенгальского издания T", type: co-worker, facts: [F28]}
+  - {who: "Акинчана Кришнадас Бабаджи — благословил его", type: other, facts: [F16]}
+identities: []
+events: []
+events_note: "Лицо XX в.; событий lila-db нет."
+teachings_given:
+  - {title: "проповедь против насилия, единство сердец вне расы и религии", facts: [F18, F20]}
+  - {title: "жизнеописания спутников — в помощь их памятованию и прославлению (введение к T)", facts: [F30, I3]}
+teachings_received:
+  - {title: "Бхакти Даита Мадхава: притча о гусях и лебеде; нивритти и правритти", facts: [F4, F6]}
+works:
+  - {title: "«Шри Чайтанья: Его жизнь и спутники» (T; бенг. в 2 т.; англ. — Mandala, 2001)", facts: [F26, F27, F28]}
+  - {title: "двухтомная биография Бхакти Даиты Мадхавы (бенг.)", facts: [F25]}
+  - {title: "о Дхруве; путеводитель по Враджа-парикраме; правила поклонения Божествам (бенг.)", facts: [F25]}
+  - {title: "«Suddha Bhakti», «Sages of Ancient India», «A Taste of Transcendence» (англ.)", facts: [F27]}
+  - {title: "редактор «Шри Чайтанья Вани»", facts: [F26]}
+places: ["#goalpara", "#kolkata", "#jashra"]
+places_facts: [F3, F4, F10]
+character:
+  - {trait: "смирение: отказ от поездки на Запад ради служения гуру", facts: [F9]}
+  - {trait: "неутомимость (18 часов в день)", facts: [F24]}
+  - {trait: "кротость, любящий нрав, твёрдая вера, дар киртана", facts: [I1]}
+significance: {facts: [F14, F15, F18, F23, F27, I1]}
+sources:
+  T: "295 (глава, pdf 327); вне главы: 16, 272, 279–280, 284–286; pdf 2, 9, 12, 13, 14–16, 21, 22–23, 331"
+  M: ""
+  B: ""
+  other: []
+article: {ru: "parshadas/ru/bhakti-ballabha-tirtha.md", en: "parshadas/en/bhakti-ballabha-tirtha.md"}
+open_questions:
+  - "Возраст в предисловии 1992 г. — «70 лет» ≠ род. 1924 (T 295)."
+  - "Уход — после выхода книги; источники его не содержат."

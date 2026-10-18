@@ -1,5 +1,78 @@
 [
  {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "guru",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F4",
+   "F6",
+   "F7",
+   "F8",
+   "F12",
+   "F13",
+   "F14",
+   "F15"
+  ],
+  "note": "Встреча — Гоалпара, 1947; санньяса 1961; преемник (письмо 12.12.1976, наставления 30.12.1978; ачарья с 1979)."
+ },
+ {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "siksha-guru",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F16",
+   "F17",
+   "F19",
+   "F28",
+   "F29"
+  ],
+  "note": "Правил книгу T; по его просьбе с 1997 г. проповедует по миру."
+ },
+ {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F16"
+  ],
+  "note": "Получил его благословения и общение."
+ },
+ {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "other",
+  "who": "@bhakti-hridaya-bona",
+  "facts": [
+   "F16"
+  ]
+ },
+ {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "other",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F9"
+  ],
+  "note": "Отказался ехать с ним в США (1965), служа гуру."
+ },
+ {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "lineage-predecessor",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F17"
+  ],
+  "note": "Парама-гуру."
+ },
+ {
+  "from": "@bhakti-ballabha-tirtha",
+  "type": "lineage-predecessor",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F6"
+  ],
+  "note": "«Джайва-дхарма» рассеяла его сомнения."
+ },
+ {
   "from": "@bhakti-dayita-madhava",
   "type": "guru",
   "who": "@bhaktisiddhanta",

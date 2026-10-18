@@ -35303,6 +35303,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "lineage-predecessor"
    },
@@ -35389,6 +35393,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "lineage-predecessor"
+   },
    {
     "from": "@bhakti-dayita-madhava",
     "type": "guru"
@@ -43307,6 +43315,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "siksha-guru"
    },
@@ -43762,6 +43774,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "guru"
+   },
    {
     "from": "@bhakti-pramoda-puri",
     "type": "co-worker"
@@ -44328,6 +44344,98 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "гуру — Бхакти Даита Мадхава Госвами; явление — Рама-навами",
+  "card": "parshadas/cards/bhakti-ballabha-tirtha.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhakti-ballabha-tirtha.md",
+   "en": "parshadas/en/bhakti-ballabha-tirtha.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1924",
+    "tithi": "Рама-навами (по T); в нашем календаре дня нет",
+    "place": "",
+    "conf": "T — Ассам (тега нет), год и Рама-навами",
+    "facts": [
+     "F1"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Шри Чайтанья: Его жизнь и спутники» (T; бенг. в 2 т.; англ. — Mandala, 2001)",
+    "facts": [
+     "F26",
+     "F27",
+     "F28"
+    ]
+   },
+   {
+    "title": "двухтомная биография Бхакти Даиты Мадхавы (бенг.)",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "о Дхруве; путеводитель по Враджа-парикраме; правила поклонения Божествам (бенг.)",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "«Suddha Bhakti», «Sages of Ancient India», «A Taste of Transcendence» (англ.)",
+    "facts": [
+     "F27"
+    ]
+   },
+   {
+    "title": "редактор «Шри Чайтанья Вани»",
+    "facts": [
+     "F26"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Встреча — Гоалпара, 1947; санньяса 1961; преемник (письмо 12.12.1976, наставления 30.12.1978; ачарья с 1979)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Правил книгу T; по его просьбе с 1997 г. проповедует по миру."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-maharaja",
+    "note": "Получил его благословения и общение."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-hridaya-bona"
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivedanta-svami",
+    "note": "Отказался ехать с ним в США (1965), служа гуру."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@bhaktisiddhanta",
+    "note": "Парама-гуру."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@bhaktivinoda",
+    "note": "«Джайва-дхарма» рассеяла его сомнения."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
@@ -44508,6 +44616,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "co-worker"
    },
@@ -44530,6 +44642,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "other"
+   },
    {
     "from": "@bhakti-dayita-madhava",
     "type": "co-worker"
@@ -44662,6 +44778,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhakti-ballabha-tirtha",
+    "type": "other"
+   },
    {
     "from": "@bhakti-pramoda-puri",
     "type": "other"
