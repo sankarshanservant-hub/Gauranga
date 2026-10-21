@@ -116,6 +116,99 @@ he lectured on the evolution of matter. He studied Brahmo-dharma, Christianity, 
 teachings; he placed Christianity above Brahmoism, because it acknowledges the eternal personality of God. In the year
 of the Sepoy Rising, 1857, he travelled and lectured. <!-- F36 F37 F38 F39 -->
 
+## A grandfather's prophecy and first employment
+In 1858 he set out from Bengal for Nilachala. At Chhutigram he visited his grandfather, Krishnavallabha Datta; the old
+man foretold that his grandson would become a great Vaishnava — and at once left his body, the life-air departing
+through the crown of his head. In Puri Kedarnatha attended the Chandana-yatra of Jagannatha, stayed on for a few more
+days, and returned to Calcutta by way of Cuttack, Bhadrak and Midnapore[^5]. <!-- F40 F41 -->
+
+On Vidyasagara's recommendation he became a teacher at the government secondary school in Cuttack, and soon, in 1860,
+headmaster of the school at Bhadrak. In those years he wrote a book on the monasteries of Orissa, "Maths of Orissa,"
+which Sir William Hunter drew on extensively in his work "Orissa," and the "Sri Chaitanya-gita," signed with the name
+Sacchidananda Premalankara. <!-- F42 F43 -->
+
+He also taught in Midnapore. There a speech of his on true religion, given at a literary society, deeply moved a member
+of the Brahmo Samaj, Rama Narayana Basu. In Midnapore his first wife died, and in a second marriage he wed Bhagavati
+Devi. <!-- F45 F46 -->
+
+From Midnapore he moved to Burdwan and preached there too. In 1863 his English book "Our Wants" came out. In Burdwan the
+Brahmos and the Christians were in dispute, and he tried to reconcile them: in two lectures he showed the weakness of
+both sides' arguments. He founded a circle, the "Bhratri-samaja," where his talk on the soul attracted a certain
+Mr. Haley. Then service took him to Chuadanga and Ranaghat, and for a time to Chhapra in Bihar; from there he made his
+first journey to Vrindavana, by train, through Kashi, Mirzapur, Prayag and Agra. In Chhapra he learned Urdu and Persian
+and gave a lecture on Gautama. <!-- F47 F48 -->
+
+From Chhapra he was transferred to Purnea, and in 1868 to Dinajpur as Deputy Magistrate. There the Hindus were in
+dispute with the Brahmos, and he answered both sides with a speech, "The Bhagavata: Its Philosophy, Its Ethics and Its
+Theology." In June of that year he visited the house of Sri Rupa and Sri Sanatana at Ramakeli, and Rajmahal. Returning
+to Calcutta, he searched long for copies of the "Chaitanya-charitamrita" and the "Srimad-Bhagavatam" and at last found
+them with the publishers of Bat-tala. <!-- F49 F50 -->
+
+## Five years in Puri
+With these books he went to Purushottama-dhama: the government entrusted him with supervising the management of Lord
+Jagannatha's temple. From 1869 to 1874 he lived in Puri without a break. It is said of a Vaishnava that he is "softer
+than a flower and harder than a thunderbolt" — and such was Bhaktivinoda: kind to all, he would not tolerate deceit
+cloaked in the name of religion. <!-- F51 F52 -->
+
+In 1871, on the edge of the forest near Bhubaneswar, there lived with his disciples a yogi named Bishikishan, of the
+Khandait caste and the Atibari sect. Having gained mystic powers, he proclaimed himself an incarnation of Mahavishnu and
+announced in Oriya verses that on the 14th of the month of Chaitra (in the verses — the thirteenth month, Mina) he would
+assume a four-armed form and destroy the foreign mlecchas. He cured incurable diseases and gathered a great many
+followers. At last he announced that at the full moon he would perform a "rasa-lila," and summoned the girls of a
+neighbouring village. The Chaudhuris of the Bhringar clan, whose women he had defiled, complained to the district
+commissioner, Mr. Ravenshaw, and he entrusted the investigation to Bhaktivinoda. <!-- F53 F54 -->
+
+Bhaktivinoda went into the forest himself. Bishikishan called himself the living Mahavishnu and blasphemed Lord
+Jagannatha, while trying to flatter Bhaktivinoda. Seeing that the impostor would not give up his deceit, Bhaktivinoda
+arrested him and brought him to Puri. He gathered evidence in the surrounding villages and in the Buddhist viharas near
+Khandagiri. During the trial the yogi sent illnesses upon him and his family, but could not intimidate him: for
+conspiracy to rebellion Bhaktivinoda sentenced him to eighteen months' imprisonment. For twenty-one days Bishikishan
+neither ate nor drank — and left his body. In the months that followed Bhaktivinoda put an end to the deceit of two more
+impostors: an "incarnation of Brahma" in Jajpur and a "manifestation of Balarama" in Khurda. <!-- F55 F56 F57 -->
+
+## The "Bhagavata-samsad"
+In Puri he immersed himself in the shastras: he studied the "Bhagavata," the six "Sandarbhas" of Srila Jiva Gosvami,
+the "Govinda-bhashya," "Siddhanta-ratna" and "Prameya-ratnavali" of Srila Baladeva Vidyabhushana, and — in particular
+detail — Srila Rupa's "Bhakti-rasamrita-sindhu"; thus he showed how necessary the study of scripture is. He also
+studied the "Chaitanya-charitamrita" and Narahari Chakravarti's "Bhakti-ratnakara," while he did not accept Jayananda's
+"Chaitanya-mangala" as authoritative. Here he wrote the Sanskrit "Datta-kaustubha" and began the Sanskrit verses of the
+"Sri Krishna-samhita." <!-- F58 F63 F65 -->
+
+For the regular study of the "Bhagavata" he founded an assembly, the "Bhagavata-samsad," in the Jagannatha-vallabha
+garden; prominent Vaishnavas of Puri came to hear him — Nityananda Dasa, Paramananda Dasa, Narayana Dasa Mahanta, and
+Harihara Dasa Mahanta of Uttara-parshva. For with Mahaprabhu hearing the "Bhagavata" is one of the five principal limbs
+of bhakti, and Srila Jiva calls it the best of them. As Mahaprabhu heard the "Bhagavata" from Gadadhara Pandita, so
+Bhaktivinoda heard it from Sri Gopinatha Pandita. <!-- F59 F60 -->
+
+Not everyone was pleased. A babaji, Raghunatha Dasa of the Hati-akhra, objected to his readings — and fell ill; but
+Lord Jagannatha told him in a dream to go to Bhaktivinoda and beg forgiveness, and when he had done so he recovered. In
+Jagannatha's temple Bhaktivinoda would not sit in the Mukti-mandapa, where the mayavadis debated, but spoke near the
+temple of Lakshmi, where the footprints of Mahaprabhu are kept. His talks drew many mayavadis too, and the place came to
+be called the Bhakti-mandapa — the Bhakti-prangana. He often visited the siddha Vaishnava Svarupa Dasa Babaji,
+discussing the shastras with him. <!-- F61 F62 F64 -->
+
+The family lived near Grand Road, beside Narayana-chhata, not far from the temple, in a house on land that a wealthy
+family leased from the Dakshina-parshva Math. In 1974 Srila Bhakti Dayita Madhava Gosvami Maharaja recovered this house,
+and today Sri Chaitanya Gaudiya Math stands there with a beautiful temple. <!-- F66 -->
+
+## The birth of Bimala Prasada
+In this house, on Friday 6 February 1874, on the krishna-panchami of the month of Magha, at half past three in the
+afternoon, a son was born to Bhagavati Devi — the future Srila Bhaktisiddhanta Sarasvati, the fourth child of the
+family. The Thakura and the household were singing the holy names at that time. The umbilical cord was wound about the
+infant's body like a sacred thread. His father named him Bimala Prasada, after Vimala Devi, the potency of Lord
+Jagannatha; the child's first solid food was maha-prasada[^6]. <!-- F67 F144 F180 -->
+
+Six months later, at the Ratha-yatra, Lord Jagannatha's chariot by His will stopped before Bhaktivinoda's house at
+Narayana-chhata and stood there three days; for all three days, at the Thakura's direction, kirtana never ceased.
+Bhagavati Devi held the baby up to the chariot, and, stretching out his little hand, he touched Jagannatha's feet and
+received His garland; the pandas foretold a great future for the boy. As he grew, he listened attentively to the
+"Bhagavata" from his father's lips[^7]. <!-- F145 F181 -->
+
+Bhaktivinoda was "Jagannatha's own man": by His arrangement he was brought to Puri to set His service in order. And
+after Srila Bhaktisiddhanta's birth Mahaprabhu's message spread throughout the world; thus are interpreted the words of
+the "Padma Purana," "from Purushottama in Utkala." Ten months after his son's birth Bhaktivinoda was transferred to
+Ranaghat, and the family returned to Bengal overland, in palanquins. <!-- F68 F69 -->
+
 [^1]: This Krishnananda Datta, the raja in whose house Nityananda stayed, should not be confused with his namesake
     Krishnananda Datta, the father of Srila Narottama Dasa Thakura.
 [^2]: By the Gregorian calendar — Sunday, 2 September 1838; by the lunar calendar — the shukla-trayodashi of the month of
@@ -126,3 +219,11 @@ of the Sepoy Rising, 1857, he travelled and lectured. <!-- F36 F37 F38 F39 -->
     Srila Bhaktivinoda served Deities all his life — Giridhari, Kurma, Gaura-Gadadhara — while the scriptures
     distinguish the images of demigods, worshipped for worldly ends, from the Deities of Vishnu.
 [^4]: According to one of the biographies — in Bhowanipore.
+[^5]: The biography is unclear about the order of this journey: on one reading he visited his grandfather on the way
+    back, on another on the way from Calcutta, going on from there to Puri.
+[^6]: The details are told differently: in some accounts the cord was wound about the body, in others about the
+    shoulder; in some the annaprashana was performed with Jagannatha's prasada, in others with the prasada of Vimala
+    Devi, whence the child's name. By the Bengali calendar — 25 Magha 1280 (1795 of the Shaka era).
+[^7]: In one account the chariot stood before the house for three days and the baby took the Lord's garland himself;
+    in another, while the chariot stood on the Bada-danda, Bhagavati Devi at the Thakura's direction held her son up to
+    it, he stretched his hand towards Jagannatha's feet, and the garland fell of itself upon his head.
