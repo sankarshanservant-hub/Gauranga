@@ -840,6 +840,94 @@ Puri, he also received Advaita's blessings. Now the Lord told him to go home and
 Taking leave, the Lord told the devotees to come every year to the Ratha-yatra, and consoled Advaita: He hoped to see Him
 in Nilachala within that very year. <!-- F129 -->
 
+## Puri: the Following Years
+In the third year the Bengalis went to Puri together with their wives:
+
+“All the devotees set out under the leadership of Advaita Acharya, who joyfully anticipated meeting Mahaprabhu.” (CC,
+Madhya 16.13)
+
+“That year all the devotees set out together with their wives, including the wife of Sri Advaita Acharya, the mother of
+Achyutananda.” (CC, Madhya 16.21)
+
+All gathered at Advaita's house; He first took leave of Shachi and received her permission, and the travellers moved on
+to Nilachala, carrying the foods the Lord loved:
+
+“Throughout the whole journey the devotees performed sankirtana, purifying all the places through which they passed.”
+(CB, Antya 8.41)
+
+“Taking their wives, children and servants with them, the devotees went in great ecstasy to see Lord Chaitanya.” (CB,
+Antya 8.43) <!-- F130 Q13 -->
+
+One of the wonders of Puri concerned Advaita's son Gopala. When, on one of the Bengalis' visits, the Gundicha temple was
+being washed, the Lord told him to dance, and the boy fell unconscious in prema and stopped breathing. Advaita laid him on
+His lap; together with the devotees He loudly chanted the mantra to Nrisimha and sprinkled His son with water, but the
+boy did not come to himself, and all wept. Then:
+
+“Mahaprabhu placed His hand on his chest and loudly said: ‘Gopala, get up!’” (CC, Madhya 12.148)
+
+“Hearing this, Gopala came to himself, and the devotees began to dance and sing the holy name of God.” (CC, Madhya
+12.149)
+
+The “Charitamrita” tells of this in the Adi-lila as well (12.19–26). <!-- F131 -->
+
+## Kamalakanta Vishvasa
+Kamalakanta Vishvasa, Advaita's servant and disciple, without His knowledge wrote to King Prataparudra that Advaita was
+the Supreme Lord Himself, but by the will of fate had run into a debt of three hundred rupees, and asked the king to pay
+this debt. The letter reached the Lord. He said that to call Advaita the Supreme Lord was no mistake, but to present the
+Supreme Lord as a poor beggar was a disgrace, and He told Govinda no longer to let Kamalakanta in to see Him (CC, Adi
+12.29–36). Kamalakanta grieved, but Advaita rejoiced:
+
+“Sri Advaita said to Kamalakanta: ‘You simply do not understand your immense good fortune. For it is the Supreme Lord
+Himself — Sri Chaitanya Mahaprabhu — who has punished you.’” (CC, Adi 12.38)
+
+And Advaita went to the Lord to “complain” that He had shown Kamalakanta more mercy than He had shown Him. The Lord
+laughed, called Kamalakanta and instructed him:
+
+“An acharya-Vaishnava must never take gifts or money from kings and the wealthy. He must never eat food from the hands of
+materialistic people, for this pollutes the mind.” (CC, Adi 12.50)
+
+Srila Bhaktivinoda Thakura explains: although Advaita is God Himself, in this world He plays the role of a man in order
+to teach people. It is shameful for an acharya to beg from a king, and a teacher of the holy name takes no payment for
+it. <!-- F132 I12 -->
+
+## Mercy to Rupa; the Debt of Love
+When Rupa Gosvami came to Puri, the Lord Himself brought him to Advaita and Nityananda and asked Them to bless him:
+
+“Then Sri Chaitanya turned to Advaita Acharya and Nityananda: ‘With all Your heart You must bestow Your mercy on Rupa.’”
+(CC, Antya 1.56)
+
+And Advaita with Nityananda and all the devotees bestowed mercy on Rupa and embraced him (Antya 1.207)[^39]. <!-- F133 -->
+
+In the year when Nityananda too came with the Bengalis — against the Lord's order to remain in Bengal — the Lord, at the
+end of the four months of the rains, taking leave of the devotees, said of Advaita, “Acharya Gosai”:
+
+“To grant Me His mercy, Advaitacharya too has come here. Because of His love I am in His debt, and this debt I am unable
+to repay.” (CC, Antya 12.70)
+
+And then He addressed everyone: for My sake you have left your homes, wives and children and walked a hard road; I am a
+penniless sannyasi, and I have nothing to give you but My body — this I give to you (Antya 12.71–74)[^40].
+<!-- F134 Q14 -->
+
+## The Riddle
+Every year the Lord sent Jagadananda Pandita to Nadia to console Shachi. The last time, having stayed there a month,
+Jagadananda came to take leave of Advaita, and Advaita sent with him a message to the Lord — a riddle, a tarja,
+understandable to Him alone:
+
+“Tell the madman that all the people have gone mad. Tell the madman that rice is no longer sold in the market.” (CC,
+Antya 19.20)
+
+“Tell the madman that the mad one is no longer occupied with worldly affairs. Tell the madman that a madman has said
+this.” (CC, Antya 19.21)[^41]
+
+Hearing the riddle, the Lord smiled slightly, said, “Such is His order,” and fell silent. To Svarupa Damodara's question
+He answered only that the Acharya is a great knower of worship according to the agamas: for the puja He invokes the
+Deity, and when the worship is finished He sends Him away — and the meaning of the riddle, said the Lord, even He could
+not understand (Antya 19.23–28). Svarupa grew anxious: from that day the Lord's separation from Krishna became twice as
+strong, and His divine madness grew — His pastimes in this world were soon to be concealed. <!-- F135 Q14 -->
+
+Srila Bhaktivinoda Thakura reveals the meaning of the riddle: all are already intoxicated with prema, and the purpose for
+which Advaita called the Lord has been achieved; now the Lord is free to act as He pleases[^42]. <!-- I14 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -925,8 +1013,9 @@ in Nilachala within that very year. <!-- F129 -->
 [^30]: Vrindavana Dasa gives Achyutananda's age at that time differently — now three years, now five.
 [^31]: According to the “Charitamrita,” this was “in the following year” after the sannyasa. One of the biographies, having
     quoted this verse, at once adds that probably about three more years had passed.
-[^32]: One of the biographies refers this verse to the “Charitamrita” (“CC 3.8”), and the verse about the yearly visits
-    (Madhya 1.255) to “2.9.255–256”; correctly they are CB, Antya 8.4–6 and CC, Madhya 1.255.
+[^32]: One of the biographies refers this verse, as well as the account of the same journey with families (CB, Antya
+    8.39–43), to the “Charitamrita” (“CC 3.8”), and the verse about the yearly visits (Madhya 1.255) to “2.9.255–256”;
+    correctly they are CB, Antya 8.4–6, 8.39–43 and CC, Madhya 1.255.
 [^33]: The translation has “Damodara”; the Bengali text here reads “Svarupa,” that is, Svarupa Damodara, and “Bharati” is
     Brahmananda Bharati.
 [^34]: According to one of the biographies, the Lord's favourite dishes were cooked by Sita, and it was she who invited
@@ -949,3 +1038,15 @@ in Nilachala within that very year. <!-- F129 -->
     Master.
 [^38]: One of the biographies speaks of five or six days; the translation of the “Charitamrita” has “about a week,” and a
     little further (Madhya 16.234) “a whole week.”
+[^39]: One of the biographies says that the Lord asked Advaita and Nityananda to bless Rupa and Sanatana. According to the
+    “Charitamrita,” the request for mercy concerned Rupa (Antya 1.56–57), while Sanatana the Lord later only introduced
+    to Advaita and the other devotees (Antya 4.108).
+[^40]: One of the biographies renders these words (Antya 12.71–74) as though the Lord were speaking them to Advaita;
+    according to the “Charitamrita,” only verse 12.70 concerns Advaita, and after it the Lord addresses all the Bengali
+    devotees.
+[^41]: One of the biographies refers the riddle to verses 19.19–21 and renders its last line differently: “madmen are good
+    for nothing.”
+[^42]: The concealment of the Lord's pastimes takes place only by His own will. The image of the Acharya who invokes the
+    Deity for worship and then sends Him away speaks not of a servant's power over the Lord, but of the oneness of will
+    between the Lord and His eternal associate: the Lord came at Advaita's call and by His own will concludes His
+    pastimes when their purpose is achieved.
