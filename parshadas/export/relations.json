@@ -1502,6 +1502,162 @@
   ]
  },
  {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "guru",
+  "who": "@bhagavata-dasa-babaji",
+  "facts": [
+   "F13"
+  ],
+  "note": "Дал бабаджи-вешу и имя во Вриндаване."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "lineage-predecessor",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F13",
+   "F15",
+   "F16",
+   "F64"
+  ],
+  "note": "Гуру его гуру; в 1893 г. велел ему жить в Навадвипе."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "disciple",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F5",
+   "F6",
+   "F8",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F41",
+   "F53",
+   "F55",
+   "F56",
+   "F57",
+   "F58",
+   "F60",
+   "F62",
+   "F64",
+   "F65"
+  ],
+  "note": "Единственный ученик; бхагавати-дикша в магху 1900 г. по велению Бхактивиноды; имя Варшабханави-даита Дас; совершил последние обряды и перенёс самадхи."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "companion",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F2",
+   "F6",
+   "F7",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F34",
+   "F35",
+   "F39",
+   "F51",
+   "F52"
+  ],
+  "note": "Часто приходил в Свананда-сукхада-кунджу слушать «Бхагавату»; «Прабху» и «Вибху» — два гуру Бхактисиддханты; подробнее — реестр @bhaktivinoda."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@bhagavati-devi",
+  "facts": [
+   "F26"
+  ],
+  "note": "«Оставили Тхакура дома — зачем пришли в Кулию?»"
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F38"
+  ],
+  "note": "Его последователь-авадхута с той же строгостью (B)."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F21"
+  ],
+  "note": "Отрешением подобен ему; пел песню о его разлуке (= @raghunatha-dasa F70, F135)."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F20",
+   "F30"
+  ],
+  "note": "Любимые «Прартхана» и «Према-бхакти-чандрика»; Бхактисиддханта — единственный ученик, как Нароттама у Локанатхи."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@lokanatha",
+  "facts": [
+   "F30"
+  ],
+  "note": "Сравнение: уединённый бхаджананади с единственным учеником."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@manindra-chandra-nandi",
+  "facts": [
+   "F50"
+  ],
+  "note": "Отклонил приглашение во дворец."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@bhakti-vilasa-tirtha",
+  "facts": [
+   "F33",
+   "F59"
+  ],
+  "note": "Умапати видел его в Кулии (1914) и пришёл в день его ухода."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F59"
+  ],
+  "note": "Пришёл к Бхактисиддханте на следующий день после его ухода."
+ },
+ {
+  "from": "@gaurakishora-dasa-babaji",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F9",
+   "F55",
+   "F66"
+  ],
+  "note": "Явился в титхи его ухода; называл его парамешти-гуру."
+ },
+ {
   "from": "@gauridasa-pandita",
   "type": "father",
   "who": "@kamsari-mishra-shaligrama",

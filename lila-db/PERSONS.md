@@ -693,7 +693,7 @@
 | @damodara-dasa-radharamana | Дамодара Дас (брат Гопинатхи Пуджари) | Damodara Dasa (Gopinatha Pujari's brother) | из Деобанда; ученик @gopinatha-pujari; его сыновья Харинатха, Матхуранатха, Харирама — род служителей Радха-раманы (B 601; M 47) |
 | @banamali-lal-gosvami | Банамали Лал Госвами (Видьябхушана) | Banamali Lal Gosvami (Vidyabhushana) | учёный из Радха-рамана-гхеры во Вриндаване, собеседник авторов B (B 36, 406, 600, 602) |
 | @madhusudana-gosvami-sarvabhauma | Мадхусудана Госвами Сарвабхаума | Madhusudana Gosvami Sarvabhauma | пандит из ограды Радха-раманы, автор «Шри Радхарамана-пракатьи» (хинди); его библиотека (B 588, 617) |
-| @gaurakishora-dasa-babaji | Гауракишора Дас Бабаджи | Gaurakishora Dasa Babaji | парамахамса-бабаджи, гуру Бхактисиддханты; пел песню о Рагхунатхе Дасе (B 653; T 241) |
+| @gaurakishora-dasa-babaji | Гауракишора Дас Бабаджи | Gaurakishora Dasa Babaji | парамахамса-бабаджи, гуру Бхактисиддханты; пел песню о Рагхунатхе Дасе (B 653; T 241) · {карточка: по таттве — по природе — прибежище Господа, «Прабху» (Бхактисиддханта,…) и др.; гуру — Бхагавата Дас Бабаджи; происхождение — Багаян; уход — Уттхана-экадаши — по нашему календарю и по T, B; самадхи — Кулия, Шри Майяпур (Ишодьян)} |
 | @gopala-chakravarti-yajigrama | Гопала Чакраварти (Яджиграм) | Gopala Chakravarti (of Yajigrama) | тесть и ученик Шринивасы Ачарьи, отец Драупади (Ишвари); не путать с @gopala-chakravarti |
 | @shyamadasa-chakravarti | Шьямадас (Шьямананда) Чакраварти | Shyamadasa (Shyamananda) Chakravarti | сын @gopala-chakravarti-yajigrama, шурин и ученик Шринивасы; один из шести Чакраварти («Према-виласа» 18) |
 | @raghava-chakravarti-gopalpur | Рагхава Чакраварти (Гопалпур) | Raghava Chakravarti (of Gopalpur) | брахман из Гопалпура в Радхе, отец Гауранга-прии, второй жены Шринивасы; жена — Мадхави |
@@ -729,3 +729,6 @@
 | @satya-tirtha | Сатья Тиртха | Satya Tirtha | спутник и ученик-санньяси Мадхвы, записал его «Гита-бхашью» (M pdf 335–336) |
 | @thakura-murari | Тхакур Мурари (Мурари Тхакур) | Thakura Murari | ученик Саранги (Шарнги) Тхакура, оживлённый им юноша из Ганги (B 681; T 94; M 185); не путать с @murari-gupta, @murari-chaitanya-dasa |
 | @radha-gopinatha-mamgachi | Радха-Гопинатха (по B — Радха-Говинда) — Божества Саранги Тхакура в Мамгачхи | Radha-Gopinatha (B: Radha-Govinda), the Deities of Saranga Thakura at Mamgachi | Модадрума-двипа (T 94; M 185; B 681) |
+| @bhagavata-dasa-babaji | Бхагавата Дас Бабаджи | Bhagavata Dasa Babaji | бабаджи XIX в. во Вриндаване, ученик Джаганнатхи Даса Бабаджи; дал Гауракишоре бабаджи-вешу (T 240–241); не путать с @bhagavata-dasa-gadadhara |
+| @bhagavati-devi | Бхагавати Деви | Bhagavati Devi | жена Бхактивиноды Тхакура, мать Бхактисиддханты (B 688, 1122) |
+| @manindra-chandra-nandi | Маниндра Чандра Нанди (раджа Касимбазара) | Manindra Chandra Nandi (Raja of Cossimbazar) | звал Гауракишору во дворец (T 243); учился у Бхактивиноды (T 234) |

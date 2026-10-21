@@ -25782,6 +25782,10 @@
     "type": "other"
    },
    {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@gopala-bhatta",
     "type": "companion"
    },
@@ -28470,6 +28474,10 @@
     "type": "friend"
    },
    {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@gopala-bhatta",
     "type": "companion"
    },
@@ -31099,6 +31107,10 @@
    },
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gaurakishora-dasa-babaji",
     "type": "other"
    },
    {
@@ -35399,6 +35411,10 @@
     "type": "other"
    },
    {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "companion"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -35506,6 +35522,10 @@
     "type": "other"
    },
    {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "disciple"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -35607,6 +35627,10 @@
    {
     "from": "@bhakti-pramoda-puri",
     "type": "other"
+   },
+   {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "lineage-predecessor"
    },
    {
     "from": "@srivasa",
@@ -43537,6 +43561,10 @@
     "type": "met"
    },
    {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -44222,6 +44250,10 @@
     "type": "other"
    },
    {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -44247,6 +44279,10 @@
    {
     "from": "@bhakti-pramoda-puri",
     "type": "co-worker"
+   },
+   {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
    },
    {
     "from": "@ramananda-raya",
@@ -44584,6 +44620,149 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "по таттве — по природе — прибежище Господа, «Прабху» (Бхактисиддханта,…) и др.; гуру — Бхагавата Дас Бабаджи; происхождение — Багаян; уход — Уттхана-экадаши — по нашему календарю и по T, B; самадхи — Кулия, Шри Майяпур (Ишодьян)",
+  "card": "parshadas/cards/gaurakishora-dasa-babaji.yaml",
+  "article": {
+   "ru": "parshadas/ru/gaurakishora-dasa-babaji.md",
+   "en": "parshadas/en/gaurakishora-dasa-babaji.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "середина XIX в. (T)",
+    "tithi": "",
+    "place": "#bagayan",
+    "conf": "только T; день и год неизвестны, имена родителей неизвестны",
+    "facts": [
+     "F10"
+    ]
+   },
+   "disappearance": {
+    "date": "1915-11-17",
+    "tithi": "Уттхана-экадаши (Гаура-экадаши месяца Дамодара) — по нашему календарю и по T, B; T 242: 30 картика 1322 г. бенг.",
+    "place": "#kulia",
+    "conf": "T и B согласны (Ранир-дхармашала в Кулии — T; Коладвипа — B)",
+    "facts": [
+     "F54",
+     "F55"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#kulia",
+     "kind": "первое самадхи в Нутан-Чоре (старая Кулия), 1 аграхаяна 1915 г.; обряд по «Самскара-дипике»; позднее смыто Гангой",
+     "facts": [
+      "F60",
+      "F61"
+     ]
+    },
+    {
+     "place": "#mayapur",
+     "kind": "самадхи в Чайтанья-матхе на берегу Радха-кунды (1932); храм и мурти (1934)",
+     "facts": [
+      "F62",
+      "F63"
+     ],
+     "note": "Перенесены «часть останков» (T 243) или «целиком» (T 257)."
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "лучший из вечно совершенных (нитья-сиддха) спутников Махапрабху",
+    "source": "B (автор главы)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "отречение во плоти, океан расы разлуки",
+    "source": "пранама (T, автор не назван)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "самбандха-таттва (при Бхактивиноде — прайоджане и Бхактисиддханте — абхидхее)",
+    "source": "строфа в T (гл. о Бхактивиноде)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "по природе — прибежище Господа (бхагавад-ашрая), «Прабху»; с Бхактивинодой — «из одного вещества»",
+    "source": "Бхактисиддханта, статьи «Апраката-титхи», «Сад-джана-тошани» 19.5 (через B)",
+    "level": "B"
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@bhagavata-dasa-babaji",
+    "note": "Дал бабаджи-вешу и имя во Вриндаване."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Гуру его гуру; в 1893 г. велел ему жить в Навадвипе."
+   },
+   {
+    "type": "disciple",
+    "who": "@bhaktisiddhanta",
+    "note": "Единственный ученик; бхагавати-дикша в магху 1900 г. по велению Бхактивиноды; имя Варшабханави-даита Дас; совершил последние обряды и перенёс самадхи."
+   },
+   {
+    "type": "companion",
+    "who": "@bhaktivinoda",
+    "note": "Часто приходил в Свананда-сукхада-кунджу слушать «Бхагавату»; «Прабху» и «Вибху» — два гуру Бхактисиддханты; подробнее — реестр @bhaktivinoda."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavati-devi",
+    "note": "«Оставили Тхакура дома — зачем пришли в Кулию?»"
+   },
+   {
+    "type": "other",
+    "who": "@vamshidasa-babaji",
+    "note": "Его последователь-авадхута с той же строгостью (B)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Отрешением подобен ему; пел песню о его разлуке (= @raghunatha-dasa F70, F135)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Любимые «Прартхана» и «Према-бхакти-чандрика»; Бхактисиддханта — единственный ученик, как Нароттама у Локанатхи."
+   },
+   {
+    "type": "other",
+    "who": "@lokanatha",
+    "note": "Сравнение: уединённый бхаджананади с единственным учеником."
+   },
+   {
+    "type": "other",
+    "who": "@manindra-chandra-nandi",
+    "note": "Отклонил приглашение во дворец."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-vilasa-tirtha",
+    "note": "Умапати видел его в Кулии (1914) и пришёл в день его ухода."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Пришёл к Бхактисиддханте на следующий день после его ухода."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Явился в титхи его ухода; называл его парамешти-гуру."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
@@ -45068,6 +45247,10 @@
    },
    {
     "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
+   {
+    "from": "@gaurakishora-dasa-babaji",
     "type": "other"
    },
    {
@@ -45780,6 +45963,51 @@
    {
     "from": "@saranga-thakura",
     "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@bhagavata-dasa-babaji",
+  "ru": "Бхагавата Дас Бабаджи",
+  "en": "Bhagavata Dasa Babaji",
+  "note": "бабаджи XIX в. во Вриндаване, ученик Джаганнатхи Даса Бабаджи; дал Гауракишоре бабаджи-вешу (T 240–241); не путать с @bhagavata-dasa-gadadhara",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "guru"
+   }
+  ]
+ },
+ {
+  "id": "@bhagavati-devi",
+  "ru": "Бхагавати Деви",
+  "en": "Bhagavati Devi",
+  "note": "жена Бхактивиноды Тхакура, мать Бхактисиддханты (B 688, 1122)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@manindra-chandra-nandi",
+  "ru": "Маниндра Чандра Нанди (раджа Касимбазара)",
+  "en": "Manindra Chandra Nandi (Raja of Cossimbazar)",
+  "note": "звал Гауракишору во дворец (T 243); учился у Бхактивиноды (T 234)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
    }
   ]
  }
