@@ -113,6 +113,8 @@ B — вероятно, больше сотни).
 | @bhaktivedanta-svami, @shridhara-maharaja, @bhakti-pramoda-puri, @bhakti-ballabha-tirtha (только T) | ✓ | ✓ (PDF) | — |
 | @madhvacharya, @ramanujacharya, @yamunacharya (M pdf 315–339) | ✓ | ✓ (PDF) | — |
 | @saranga-thakura (025) | ✓ | ✓ (PDF) | — |
+| @gaurakishora-dasa-babaji (026) | ✓ | — | — |
+| @bhaktivinoda (026) | ✓ | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
 **Очередь (2026-10-21, пользователь: «сделай пять глав, затем остановись»):** 026 Гауракишора и Бхактивинода → 027 Вамшидас Бабаджи → 028 Джаганнатха Мишра (дополнить готовый реестр пилота) → 029 Ишвара Пури → 030 Адвайта Ачарья → ⏸ стоп.
