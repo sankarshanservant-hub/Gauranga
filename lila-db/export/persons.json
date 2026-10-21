@@ -19756,6 +19756,10 @@
    {
     "from": "@vakreshvara",
     "type": "other"
+   },
+   {
+    "from": "@vamshidasa-babaji",
+    "type": "other"
    }
   ]
  },
@@ -23170,6 +23174,10 @@
    {
     "from": "@sundarananda",
     "type": "co-worker"
+   },
+   {
+    "from": "@vamshidasa-babaji",
+    "type": "other"
    },
    {
     "from": "@vishnupriya",
@@ -31190,6 +31198,10 @@
     "type": "other"
    },
    {
+    "from": "@vamshidasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "other"
    },
@@ -35703,6 +35715,10 @@
     "type": "other"
    },
    {
+    "from": "@vamshidasa-babaji",
+    "type": "other"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "other"
    },
@@ -35828,6 +35844,10 @@
    {
     "from": "@vakreshvara",
     "type": "other"
+   },
+   {
+    "from": "@vamshidasa-babaji",
+    "type": "met"
    },
    {
     "from": "@vasu-ghosha",
@@ -35961,6 +35981,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@vamshidasa-babaji",
     "type": "other"
    }
   ]
@@ -43791,6 +43815,97 @@
   "section": "Аллегорические лица",
   "lilas": [],
   "events": [],
+  "summary": "по таттве — парамахамса-вайшнав в облике авадхуты (T) и др.; происхождение — Маджидпур; уход — Гаура-чатурти месяца Шридхара — по нашему календарю и T 247",
+  "card": "parshadas/cards/vamshidasa-babaji.yaml",
+  "article": {
+   "ru": "parshadas/ru/vamshidasa-babaji.md",
+   "en": "parshadas/en/vamshidasa-babaji.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#majidpur",
+    "conf": "только T; год и день неизвестны",
+    "facts": [
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Гаура-чатурти месяца Шридхара (≈ шравана шукла чатуртхи) — по нашему календарю и T 247",
+    "place": "",
+    "conf": "год и место ухода, самадхи — источники не дают",
+    "facts": [
+     "F105"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "парамахамса-вайшнав в облике авадхуты",
+    "source": "T (по статьям «Гаудии» и рассказам учеников Бхактисиддханты)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "венец рода парамахамс, первейший из маха-бхагават, «дорогой Вайкунтхе»; действия его сверхобычны (алаукика)",
+    "source": "журнал «Гаудия» (через B)",
+    "level": "C"
+   }
+  ],
+  "relations": [
+   {
+    "type": "other",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "Его последователь (тад-анугата), с той же строгостью к мирским (B 684; = @gaurakishora-dasa-babaji F38)."
+   },
+   {
+    "type": "met",
+    "who": "@bhaktisiddhanta",
+    "note": "Представлен ему Бхактивинодой в Навадвипе; Бхактисиддханта кланялся ему издали, но ученикам сближаться не позволял."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Познакомил с ним сына (T 249; = @bhaktivinoda F152)."
+   },
+   {
+    "type": "met",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Мединипур: угостил его сладким рисом (= @bhakti-dayita-madhava F97)."
+   },
+   {
+    "type": "met",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Свидетель его жизни у Ганги; получил пыль его стоп (= @bhakti-pramoda-puri F30)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Пел его песни («Нитай-пада-камала» и др.); «шесть воров в доме Нароттамы» — шесть Божеств Кхетури."
+   },
+   {
+    "type": "other",
+    "who": "@gauridasa-pandita",
+    "note": "Пел «Нитай и Гаура пляшут в доме Гауридаса»; вспоминал Амли-талу в Кальне."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-khan",
+    "note": "B: оскорбившая его старуха в Каши — как Рамачандра Хан, оскорбивший Нитьянанду."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Жил в Каши у Санатана-шикша-лила-кшетры (Шри Санатана-Гаудия-матх)."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-dayita-madhava",
@@ -44516,6 +44631,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "co-worker"
+   },
+   {
+    "from": "@vamshidasa-babaji",
+    "type": "met"
    }
   ]
  },
@@ -45031,6 +45150,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "other"
+   },
+   {
+    "from": "@vamshidasa-babaji",
+    "type": "other"
    }
   ]
  },
@@ -45516,6 +45639,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@vamshidasa-babaji",
+    "type": "met"
    }
   ]
  },
