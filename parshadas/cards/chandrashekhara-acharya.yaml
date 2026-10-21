@@ -1,0 +1,132 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/chandrashekhara-acharya.md и lila-db.
+id: "@chandrashekhara-acharya"
+names:
+  ru: "Чандрашекхара Ачарьяратна"
+  en: "Chandrashekhara Acharyaratna"
+  variants: ["Чандрашекхара Ачарья", "Ачарьяратна", "Шри Чандрашекхара-дева", "месо (месомашай) Господа"]
+  facts: [F1]
+kind: family
+circle: [navadvipa, puri]
+period: [P00, P01, P02, P04, P06, P07, P08, P09, P12, P14]
+period_note: "Нисходит прежде Господа (F7); при рождении Господа — его жена у Шачи (F11); опекает дом Мишры и Шачи (F9, F10); лично — в Гае (только M, F12), в киртанах и действе в своём доме (F13–F31), при Джагае и Мадхае (F15), шествии к Кази (F34), санньясе в Катве и в Шантипуре (F35–F40); затем ежегодно в Пури на чатурмасью (F41–F44)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#shrihatta"
+    conf: "дня явления источники не называют; в календаре Шри Чайтанья Сарасват Матха даты нет"
+    facts: [F5]
+    note: "В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и годовые файлы 540–541, проверено 2026-10-21) нет ни явления, ни ухода Чандрашекхары Ачарьи."
+  disappearance:
+    date: ""
+    conf: "день, год и место ухода источники не называют"
+    facts: []
+origin:
+  places: ["#shrihatta", "#navadvipa", "#mayapur", "#house-chandrashekhara"]
+  family: ["@sarvajaya", "@shachi"]
+  varna: ""
+  facts: [F5, F6, F8, F9]
+relations:
+  - {type: spouse, who: "@sarvajaya", facts: [F6, F9, F11], note: "Сестра Шачи — по «Гаудия-вайшнава-абхидхане» (B 740, T 50); жена с ним опекала дом Мишры и приходила к Шачи при рождении Господа."}
+  - {type: in-law, who: "@shachi", facts: [F6, F10, F19, F21, F40], note: "Муж её сестры; после ухода Джаганнатхи Мишры вёл её хозяйство; привёз её на паланкине в Шантипур (ЧЧ Мадхья 3.137)."}
+  - {type: in-law, who: "@jagannatha-mishra", facts: [F8, F9, F10], note: "Сосед в Майяпуре (только T); постоянно бывал у него в доме — до (T) или после (B) явления Господа."}
+  - {type: relative, who: "@mahaprabhu", facts: [F1, F6], note: "Месо (муж тётки по матери) Господа; B 735 — «Мой месомашай»."}
+  - {type: companion, who: "@mahaprabhu", facts: [F12, F13, F14, F15, F16, F17, F28, F29, F30, F34, F37, F41, F42, F43], events: [ev-chandrashekhara-drama, ev-sannyasa-katwa, ev-gauda-devotees-yearly-visit],
+     note: "Вечный спутник; в его доме — действо о Врадже; представитель Господа в обрядах санньясы (ЧБ Мадхья 28.132–134)."}
+  - {type: host, who: "@mahaprabhu", facts: [F13, F16, F30], event: ev-chandrashekhara-drama, note: "Ночные киртаны и действо в его доме; семь дней сияния."}
+  - {type: friend, who: "@nityananda", facts: [F24, F27, F35, F36, F37, F39, F40], event: ev-nityananda-follows-to-katwa,
+     note: "От Нитьянанды узнал о санньясе; с Ним в Катве; по ЧЧ — Его посланец к Адвайте и в Навадвипу."}
+  - {type: companion, who: "@mukunda-datta", facts: [F20, F37], note: "Вместе совершали обряды санньясы."}
+  - {type: companion, who: "@srivasa", facts: [F5, F13, F20, F21, F45], note: "Земляк по Шрихатте (ЧБ Ади 2.34); киртаны то у Шривасы, то у него; Шриваса — Нарада в действе."}
+  - {type: companion, who: "@srirama-pandita", facts: [F5, F20], note: "Земляк по Шрихатте; в действе — ученик Нарады (B 156)."}
+  - {type: companion, who: "@murari-gupta", facts: [F5, F7, F46], note: "Земляк по Шрихатте; среди родившихся тайно прежде Господа."}
+  - {type: companion, who: "@vakreshvara", facts: [F15], note: "ЧБ Мадхья 13.240: оба знают все дела Чайтаньи."}
+  - {type: other, who: "@advaita", facts: [F18, F20, F39, F40, F45], event: ev-shantipura-reunion,
+     note: "Адвайта возглавлял вайшнавов Бенгалии, в т. ч. его (B 724); шут в действе; по ЧЧ к Адвайте его послал Нитьянанда."}
+  - {type: other, who: "@buddhimanta-khan", facts: [F17], note: "Готовил наряды для действа в его доме."}
+  - {type: other, who: "@sadashiva-pandita", facts: [F17], note: "Готовил наряды для действа в его доме (ЧБ Мадхья 18.7)."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F23], note: "Танцевал гопи (Рамой) в действе в его доме."}
+  - {type: other, who: "@haridasa-thakura", facts: [F20], note: "Котал в действе в его доме."}
+  - {type: other, who: "@vishnupriya", facts: [F19, F38], note: "Пришла с Шачи на действо; по «Чайтанья-мангале» он принёс ей весть о санньясе."}
+  - {type: met, who: "@jagai-madhai", facts: [F15], event: ev-jagai-madhai-deliverance, note: "Свидетель их спасения за закрытыми дверями."}
+  - {type: other, who: "@chand-kazi", facts: [F34], event: ev-nagara-kirtana-kazi, note: "Был в шествии к Кази."}
+  - {type: met, who: "@kala-krishnadasa", facts: [F41], note: "Принял весть о возвращении Господа с юга."}
+  - {type: other, who: "@damodara-pandita", facts: [F36], note: "Вместе возглавили преданных, шедших в Катву (только «Чайтанья-мангала» по M)."}
+  - {type: other, who: "@malini", facts: [F11], note: "Его жена вместе с Малини пришла к Шачи при рождении Господа (B 143; ЧЧ Ади 13.110)."}
+  - {type: other, who: "@ishvara-puri", facts: [F12], event: ev-gaya-ishvara-puri-initiation, note: "Только M 53: был рядом при встрече Господа с Ишварой Пури в Гае."}
+  - {type: other, who: "@yadunatha-dasa-shakha", facts: [F4, F5], note: "Автор «Шакха-нирнаямриты», источник о его месте явления и отождествлении (T, B)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F2, F31, F32, F33], note: "Основал Шри Чайтанья Матх на месте его дома (Враджапаттана), 1918 (T)."}
+identities:
+  - in: other
+    as: "Чандра (Луна)"
+    source: "ГГД 112 (наш перевод)"
+    level: A
+    facts: [F2]
+    variants: ["B 740 (Бхактисиддханта): «один из девяти нидхи, или Чандра».", "T 50: «воплощение бога Луны»."]
+  - in: other
+    as: "один из девяти нидхи (сокровищ), родившихся с прозванием «ратна»"
+    source: "ГГД 102–103 (наш перевод); B 740"
+    level: A
+    facts: [F2]
+  - in: other
+    as: "сосуд великой любви Паурнамаси, «полная луна безбрежного сострадания»"
+    source: "«Шакха-нирнаямрита» Ядунатхи Даса (по T)"
+    level: C
+    facts: [F4]
+    note: "Только T 50; текста в репозитории нет — не сверено."
+  - in: tattva
+    as: "вечный спутник (нитья-сиддха), посланный прежде Господа; большая ветвь древа Чайтаньи"
+    source: "ЧБ Ади 2.98–99; ЧЧ Ади 13.52–55, 10.12–13"
+    level: A
+    facts: [F3, F7]
+    events: [ev-associates-descend]
+events:
+  - ev-associates-descend
+  - ev-navadvipa-vaishnavas-before-advent
+  - ev-advent-eclipse-devotees-rejoice
+  - ev-birth-festival-nimai-name
+  - ev-departure-for-gaya
+  - ev-gaura-dance-with-devotees
+  - ev-closed-door-kirtan-scoffers
+  - ev-balarama-bhava
+  - ev-jagai-madhai-deliverance
+  - ev-chandrashekhara-drama
+  - ev-nagara-kirtana-kazi
+  - ev-sannyasa-decision-devotees-grief
+  - ev-nityananda-follows-to-katwa
+  - ev-sannyasa-katwa
+  - ev-chandrashekhara-sent-back
+  - ev-radha-desha-wandering
+  - ev-advaita-boat-ganga-vrindavana
+  - ev-navadvipa-lament-after-sannyasa
+  - ev-shantipura-reunion
+  - ev-gauda-devotees-set-out-puri
+  - ev-gauda-devotees-arrive-puri
+  - ev-gundicha-marjana
+  - ev-narendra-jala-keli
+  - ev-gauda-devotees-come-with-wives
+  - ev-gauda-devotees-yearly-visit
+  - ev-month-stored-prasada
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#shrihatta", "#navadvipa", "#mayapur", "#house-chandrashekhara", "#gaya", "#katwa", "#radha-desha", "#shantipura", "#puri", "#gundicha", "#narendra-sarovara"]
+places_facts: [F5, F8, F12, F13, F16, F31, F32, F33, F37, F39, F40, F42, F43]
+character:
+  - {trait: "родственная забота о семье Господа: опекал дом Мишры и после его ухода вёл хозяйство Шачи", facts: [F9, F10, F40]}
+  - {trait: "доверенный Господа: знал о санньясе заранее и был Его представителем в обрядах", facts: [F35, F37], events: [ev-sannyasa-katwa]}
+  - {trait: "гостеприимство: его дом — место ночных киртанов и действа о Врадже", facts: [F13, F16, F30], events: [ev-chandrashekhara-drama]}
+  - {trait: "верность до конца: каждый год шёл к Господу в Пури на чатурмасью", facts: [F42, F43]}
+significance: {facts: [F3, F7, F15, F16, F31, F32, F33, I1, I2, I3, I4]}
+sources:
+  T: "50–52 (гл.); 4, 26, 31, 34, 38, 41, 46, 48, 58, 61, 106, 109, 250, 251"
+  M: "53, 64, 88–89 (вне глав)"
+  B: "740–744 (гл.); 102, 143, 149, 155–156, 724, 735, 745, 747, 754, 826, 832, 1036"
+  other: ["ГГД 102–103, 112", "ЧЧ Ади 10.12–13, 13.52–55, 13.110, 17.241–242, 17.272–273", "ЧЧ Мадхья 3.19–22, 3.137, 10.67–84", "ЧЧ Антья 7.48–50", "ЧБ Ади 2.34–35, 2.98–99", "ЧБ Мадхья 8.110–111, 13.240, 18, 28.11–12, 28.132–134", "«Шакха-нирнаямрита» (по T)"]
+article: {ru: "parshadas/ru/chandrashekhara-acharya.md", en: "parshadas/en/chandrashekhara-acharya.md"}
+open_questions:
+  - "Кто послал его в Навадвипу после санньясы: Господь из Катвы (ЧБ, B 735, «Чайтанья-мангала») или Нитьянанда из Радха-деши (ЧЧ Мадхья 3, T, B 743) (F38, F39)."
+  - "Бывал в доме Мишры ещё до явления Господа (T) или после (B) (F9)."
+  - "Божества, установленные Бхактисиддхантой в Чайтанья Матхе: Гуру-Гауранга и Радха-Говинда (T) ≠ Гандхарвика-Гиридхари (комментарий к ЧБ Ади 2.34) ≠ танцующий Гаура (B 149) (F33)."
+  - "Был ли он с Господом в Гае — только M (F12)."
+  - "Дни явления и ухода неизвестны; в нашем календаре их нет."

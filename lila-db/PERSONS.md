@@ -68,7 +68,7 @@
 | @murari-gupta | Мурари Гупта | Murari Gupta | |
 | @mukunda-datta | Мукунда Датта | Mukunda Datta | |
 | @narahari-sarakara | Нарахари Саркар (Тхакур) | Narahari Sarakara | гуру Лочана Даса, Шрикханда · {карточка: в Кришна-лиле — Мадхумати, задушевная подруга Радхи во Вриндаване (ГГД 177); происхождение — Шрикханда; уход — аграхаяна, кришна-экадаши} |
-| @chandrashekhara-acharya | Чандрашекхара Ачарьяратна | Chandrashekhara Acharyaratna | |
+| @chandrashekhara-acharya | Чандрашекхара Ачарьяратна | Chandrashekhara Acharyaratna | {карточка: Чандра (ГГД 112) и др.; происхождение — Шрихатта (Силхет)} |
 | @shuklambara | Шукламбара Брахмачари | Shuklambara Brahmachari | |
 | @damodara-pandita | Дамодара Пандит | Damodara Pandita | собеседник Мурари |
 | @gangadasa-pandita | Гангадас Пандит | Gangadasa Pandita | учитель |

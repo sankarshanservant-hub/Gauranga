@@ -4097,6 +4097,18 @@
     "type": "companion"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "relative"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "companion"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "host"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "companion"
    },
@@ -7446,6 +7458,10 @@
     "type": "other"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "in-law"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -7935,6 +7951,10 @@
    {
     "from": "@advaita",
     "type": "other"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "in-law"
    },
    {
     "from": "@gadadhara-pandita",
@@ -8617,6 +8637,10 @@
     "type": "other"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -8872,6 +8896,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "spouse"
+   },
    {
     "from": "@shachi",
     "type": "sibling"
@@ -10567,6 +10595,10 @@
     "type": "other"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "friend"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "companion"
    },
@@ -11908,6 +11940,10 @@
   ],
   "related_by": [
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -12946,6 +12982,10 @@
     "type": "guru"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -13908,6 +13948,10 @@
     "type": "other"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "companion"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -13995,6 +14039,10 @@
    "ev-jagadananda-visits-shachi"
   ],
   "related_by": [
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
    {
     "from": "@nityananda",
     "type": "other"
@@ -14376,6 +14424,10 @@
     "type": "friend"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "co-worker"
    },
@@ -14728,6 +14780,10 @@
   ],
   "related_by": [
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "companion"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -15051,6 +15107,10 @@
    {
     "from": "@advaita",
     "type": "other"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "companion"
    },
    {
     "from": "@gadadhara-pandita",
@@ -15724,6 +15784,196 @@
    "ev-jagadananda-visits-shachi",
    "ev-tattva-dasya-bhakta-bhava"
   ],
+  "summary": "Чандра (ГГД 112) и др.; происхождение — Шрихатта (Силхет)",
+  "card": "parshadas/cards/chandrashekhara-acharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/chandrashekhara-acharya.md",
+   "en": "parshadas/en/chandrashekhara-acharya.md"
+  },
+  "kind": "family",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#shrihatta",
+    "conf": "дня явления источники не называют; в календаре Шри Чайтанья Сарасват Матха даты нет",
+    "facts": [
+     "F5"
+    ],
+    "note": "В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и годовые файлы 540–541, проверено 2026-10-21) нет ни явления, ни ухода Чандрашекхары Ачарьи."
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода источники не называют",
+    "facts": []
+   }
+  },
+  "identities": [
+   {
+    "in": "other",
+    "as": "Чандра (Луна)",
+    "source": "ГГД 112 (наш перевод)",
+    "level": "A",
+    "variants": [
+     "B 740 (Бхактисиддханта): «один из девяти нидхи, или Чандра».",
+     "T 50: «воплощение бога Луны»."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "один из девяти нидхи (сокровищ), родившихся с прозванием «ратна»",
+    "source": "ГГД 102–103 (наш перевод); B 740",
+    "level": "A"
+   },
+   {
+    "in": "other",
+    "as": "сосуд великой любви Паурнамаси, «полная луна безбрежного сострадания»",
+    "source": "«Шакха-нирнаямрита» Ядунатхи Даса (по T)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "вечный спутник (нитья-сиддха), посланный прежде Господа; большая ветвь древа Чайтаньи",
+    "source": "ЧБ Ади 2.98–99; ЧЧ Ади 13.52–55, 10.12–13",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "spouse",
+    "who": "@sarvajaya",
+    "note": "Сестра Шачи — по «Гаудия-вайшнава-абхидхане» (B 740, T 50); жена с ним опекала дом Мишры и приходила к Шачи при рождении Господа."
+   },
+   {
+    "type": "in-law",
+    "who": "@shachi",
+    "note": "Муж её сестры; после ухода Джаганнатхи Мишры вёл её хозяйство; привёз её на паланкине в Шантипур (ЧЧ Мадхья 3.137)."
+   },
+   {
+    "type": "in-law",
+    "who": "@jagannatha-mishra",
+    "note": "Сосед в Майяпуре (только T); постоянно бывал у него в доме — до (T) или после (B) явления Господа."
+   },
+   {
+    "type": "relative",
+    "who": "@mahaprabhu",
+    "note": "Месо (муж тётки по матери) Господа; B 735 — «Мой месомашай»."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Вечный спутник; в его доме — действо о Врадже; представитель Господа в обрядах санньясы (ЧБ Мадхья 28.132–134)."
+   },
+   {
+    "type": "host",
+    "who": "@mahaprabhu",
+    "note": "Ночные киртаны и действо в его доме; семь дней сияния."
+   },
+   {
+    "type": "friend",
+    "who": "@nityananda",
+    "note": "От Нитьянанды узнал о санньясе; с Ним в Катве; по ЧЧ — Его посланец к Адвайте и в Навадвипу."
+   },
+   {
+    "type": "companion",
+    "who": "@mukunda-datta",
+    "note": "Вместе совершали обряды санньясы."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "note": "Земляк по Шрихатте (ЧБ Ади 2.34); киртаны то у Шривасы, то у него; Шриваса — Нарада в действе."
+   },
+   {
+    "type": "companion",
+    "who": "@srirama-pandita",
+    "note": "Земляк по Шрихатте; в действе — ученик Нарады (B 156)."
+   },
+   {
+    "type": "companion",
+    "who": "@murari-gupta",
+    "note": "Земляк по Шрихатте; среди родившихся тайно прежде Господа."
+   },
+   {
+    "type": "companion",
+    "who": "@vakreshvara",
+    "note": "ЧБ Мадхья 13.240: оба знают все дела Чайтаньи."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Адвайта возглавлял вайшнавов Бенгалии, в т. ч. его (B 724); шут в действе; по ЧЧ к Адвайте его послал Нитьянанда."
+   },
+   {
+    "type": "other",
+    "who": "@buddhimanta-khan",
+    "note": "Готовил наряды для действа в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@sadashiva-pandita",
+    "note": "Готовил наряды для действа в его доме (ЧБ Мадхья 18.7)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Танцевал гопи (Рамой) в действе в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Котал в действе в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "Пришла с Шачи на действо; по «Чайтанья-мангале» он принёс ей весть о санньясе."
+   },
+   {
+    "type": "met",
+    "who": "@jagai-madhai",
+    "note": "Свидетель их спасения за закрытыми дверями."
+   },
+   {
+    "type": "other",
+    "who": "@chand-kazi",
+    "note": "Был в шествии к Кази."
+   },
+   {
+    "type": "met",
+    "who": "@kala-krishnadasa",
+    "note": "Принял весть о возвращении Господа с юга."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "Вместе возглавили преданных, шедших в Катву (только «Чайтанья-мангала» по M)."
+   },
+   {
+    "type": "other",
+    "who": "@malini",
+    "note": "Его жена вместе с Малини пришла к Шачи при рождении Господа (B 143; ЧЧ Ади 13.110)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "note": "Только M 53: был рядом при встрече Господа с Ишварой Пури в Гае."
+   },
+   {
+    "type": "other",
+    "who": "@yadunatha-dasa-shakha",
+    "note": "Автор «Шакха-нирнаямриты», источник о его месте явления и отождествлении (T, B)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Основал Шри Чайтанья Матх на месте его дома (Враджапаттана), 1918 (T)."
+   }
+  ],
   "related_by": [
    {
     "from": "@advaita",
@@ -15985,6 +16235,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
    {
     "from": "@nityananda",
     "type": "companion"
@@ -16352,6 +16606,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
     "type": "other"
    },
    {
@@ -20425,6 +20683,10 @@
   ],
   "related_by": [
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "opposed"
    },
@@ -21896,6 +22158,10 @@
   ],
   "related_by": [
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "companion"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -22073,6 +22339,10 @@
    {
     "from": "@advaita",
     "type": "other"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "companion"
    },
    {
     "from": "@srivasa",
@@ -28307,6 +28577,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "met"
+   },
    {
     "from": "@nityananda",
     "type": "protege"
@@ -36492,6 +36766,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "other"
    },
@@ -36770,6 +37048,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "disciple"
@@ -40299,6 +40581,10 @@
   ],
   "related_by": [
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@vishnupriya",
     "type": "patron"
    }
@@ -41122,6 +41408,10 @@
   ],
   "related_by": [
    {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    }
@@ -41512,6 +41802,10 @@
    {
     "from": "@advaita",
     "type": "opposed"
+   },
+   {
+    "from": "@chandrashekhara-acharya",
+    "type": "other"
    },
    {
     "from": "@nityananda",

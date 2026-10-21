@@ -1608,6 +1608,298 @@
   ]
  },
  {
+  "from": "@chandrashekhara-acharya",
+  "type": "spouse",
+  "who": "@sarvajaya",
+  "facts": [
+   "F6",
+   "F9",
+   "F11"
+  ],
+  "note": "Сестра Шачи — по «Гаудия-вайшнава-абхидхане» (B 740, T 50); жена с ним опекала дом Мишры и приходила к Шачи при рождении Господа."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "in-law",
+  "who": "@shachi",
+  "facts": [
+   "F6",
+   "F10",
+   "F19",
+   "F21",
+   "F40"
+  ],
+  "note": "Муж её сестры; после ухода Джаганнатхи Мишры вёл её хозяйство; привёз её на паланкине в Шантипур (ЧЧ Мадхья 3.137)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "in-law",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F8",
+   "F9",
+   "F10"
+  ],
+  "note": "Сосед в Майяпуре (только T); постоянно бывал у него в доме — до (T) или после (B) явления Господа."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "relative",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F1",
+   "F6"
+  ],
+  "note": "Месо (муж тётки по матери) Господа; B 735 — «Мой месомашай»."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F28",
+   "F29",
+   "F30",
+   "F34",
+   "F37",
+   "F41",
+   "F42",
+   "F43"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama",
+   "ev-sannyasa-katwa",
+   "ev-gauda-devotees-yearly-visit"
+  ],
+  "note": "Вечный спутник; в его доме — действо о Врадже; представитель Господа в обрядах санньясы (ЧБ Мадхья 28.132–134)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "host",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F13",
+   "F16",
+   "F30"
+  ],
+  "event": "ev-chandrashekhara-drama",
+  "note": "Ночные киртаны и действо в его доме; семь дней сияния."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "friend",
+  "who": "@nityananda",
+  "facts": [
+   "F24",
+   "F27",
+   "F35",
+   "F36",
+   "F37",
+   "F39",
+   "F40"
+  ],
+  "event": "ev-nityananda-follows-to-katwa",
+  "note": "От Нитьянанды узнал о санньясе; с Ним в Катве; по ЧЧ — Его посланец к Адвайте и в Навадвипу."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "companion",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F20",
+   "F37"
+  ],
+  "note": "Вместе совершали обряды санньясы."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "companion",
+  "who": "@srivasa",
+  "facts": [
+   "F5",
+   "F13",
+   "F20",
+   "F21",
+   "F45"
+  ],
+  "note": "Земляк по Шрихатте (ЧБ Ади 2.34); киртаны то у Шривасы, то у него; Шриваса — Нарада в действе."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "companion",
+  "who": "@srirama-pandita",
+  "facts": [
+   "F5",
+   "F20"
+  ],
+  "note": "Земляк по Шрихатте; в действе — ученик Нарады (B 156)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "companion",
+  "who": "@murari-gupta",
+  "facts": [
+   "F5",
+   "F7",
+   "F46"
+  ],
+  "note": "Земляк по Шрихатте; среди родившихся тайно прежде Господа."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "companion",
+  "who": "@vakreshvara",
+  "facts": [
+   "F15"
+  ],
+  "note": "ЧБ Мадхья 13.240: оба знают все дела Чайтаньи."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F18",
+   "F20",
+   "F39",
+   "F40",
+   "F45"
+  ],
+  "event": "ev-shantipura-reunion",
+  "note": "Адвайта возглавлял вайшнавов Бенгалии, в т. ч. его (B 724); шут в действе; по ЧЧ к Адвайте его послал Нитьянанда."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@buddhimanta-khan",
+  "facts": [
+   "F17"
+  ],
+  "note": "Готовил наряды для действа в его доме."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@sadashiva-pandita",
+  "facts": [
+   "F17"
+  ],
+  "note": "Готовил наряды для действа в его доме (ЧБ Мадхья 18.7)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F23"
+  ],
+  "note": "Танцевал гопи (Рамой) в действе в его доме."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F20"
+  ],
+  "note": "Котал в действе в его доме."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F19",
+   "F38"
+  ],
+  "note": "Пришла с Шачи на действо; по «Чайтанья-мангале» он принёс ей весть о санньясе."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "met",
+  "who": "@jagai-madhai",
+  "facts": [
+   "F15"
+  ],
+  "event": "ev-jagai-madhai-deliverance",
+  "note": "Свидетель их спасения за закрытыми дверями."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@chand-kazi",
+  "facts": [
+   "F34"
+  ],
+  "event": "ev-nagara-kirtana-kazi",
+  "note": "Был в шествии к Кази."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "met",
+  "who": "@kala-krishnadasa",
+  "facts": [
+   "F41"
+  ],
+  "note": "Принял весть о возвращении Господа с юга."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F36"
+  ],
+  "note": "Вместе возглавили преданных, шедших в Катву (только «Чайтанья-мангала» по M)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@malini",
+  "facts": [
+   "F11"
+  ],
+  "note": "Его жена вместе с Малини пришла к Шачи при рождении Господа (B 143; ЧЧ Ади 13.110)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@ishvara-puri",
+  "facts": [
+   "F12"
+  ],
+  "event": "ev-gaya-ishvara-puri-initiation",
+  "note": "Только M 53: был рядом при встрече Господа с Ишварой Пури в Гае."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@yadunatha-dasa-shakha",
+  "facts": [
+   "F4",
+   "F5"
+  ],
+  "note": "Автор «Шакха-нирнаямриты», источник о его месте явления и отождествлении (T, B)."
+ },
+ {
+  "from": "@chandrashekhara-acharya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F31",
+   "F32",
+   "F33"
+  ],
+  "note": "Основал Шри Чайтанья Матх на месте его дома (Враджапаттана), 1918 (T)."
+ },
+ {
   "from": "@dhananjaya-pandita",
   "type": "companion",
   "who": "@nityananda",
