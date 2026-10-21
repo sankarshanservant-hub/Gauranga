@@ -116,7 +116,7 @@ B — вероятно, больше сотни).
 | @gaurakishora-dasa-babaji (026) | ✓ | ✓ (PDF) | — |
 | @bhaktivinoda (026) | ✓ | ✓ (PDF) | — |
 | @vamshidasa-babaji (027) | ✓ | ✓ (PDF) | — |
-| @ishvara-puri (029) | в работе | — | — |
+| @ishvara-puri (029) | ✓ | в работе | — |
 | @jagannatha-mishra (028; пилот сверен с переводом и сканом) | ✓ | ✓ (PDF) | — |
 | @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
