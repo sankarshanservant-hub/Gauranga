@@ -61,7 +61,7 @@ of the gods sounded from the heavens. So in Sri Mayapur the Lord accepted Jagann
 mother. When they saw their son's face, both forgot themselves in joy. Jagannatha himself and all the people of Nadia
 who came to see the child marvelled at His beauty: a lion's neck, arms like an elephant's trunk, a broad chest, and on
 His feet the marks of Vishnu. “This is no ordinary child,” people said. Day and night crowds came to Mishra's house,
-and it became like Vaikuntha; Narahari, too, sings of this in one of his songs. <!-- F24 F25 F26 F27 -->
+and it became like Vaikuntha; Narahari Sarakara, too, sings of this in one of his songs. <!-- F24 F25 F26 F27 -->
 
 The child's maternal grandfather, Nilambara Chakravarti, a master of the science of the stars, cast His horoscope and
 announced that the boy would be a king of kings and would hold every virtue in Himself — more than that, He was
@@ -83,8 +83,8 @@ On His birthday Shachi and Jagannatha gave her the honour of being the first to 
 his wife also came with gifts: they brought oil, bananas and fruits and performed the auspicious rites.
 <!-- F34 F35 F102 -->
 
-On the day after Phalguni-purnima Vaishnavas still remember the festival Jagannatha Mishra held to celebrate his son's
-birth. The days of Gaura's and Nityananda's appearance are themselves holy:
+On the day after Phalguni-purnima, on Krishna-pratipada, Vaishnavas still keep the Anandotsava of Jagannatha Mishra,
+remembering the festival of joy he held to celebrate his son's birth. The days of Gaura's and Nityananda's appearance are themselves holy:
 
 “Nityananda was born on the thirteenth day of the bright fortnight of Magha, and Gaurachandra appeared on the full
 moon of Phalguna.” (CB, Adi 3.45)
@@ -104,14 +104,16 @@ When the time came to test the child's inclinations, Jagannatha laid before Him 
 manuscript of the “Srimad-Bhagavatam.” The boy reached past everything straight for the book, and the learned guests
 foretold that He would be a great pandita. Some biographies place this at the name-giving ceremony, others at the
 annaprashana, the first feeding of rice; the latter add that He pressed the book to His chest, as if foreshadowing
-His future preaching.[^6] The meaning of this pastime is plain: the highest authority in spiritual matters is the
+His future preaching.[^6] At the annaprashana, one biography says, He took neither grain, nor silver, nor gold, the
+things that would suit a vaishya, nor puffed rice, which a brahmana fond of food would snatch, but out of the many
+scriptures that follow the Veda He chose the “Bhagavatam” alone. The meaning of this pastime is plain: the highest authority in spiritual matters is the
 “Bhagavatam.” According to the “Chaitanya-mangala,” the annaprashana was held when He was six months old, and only
-afterwards was He named. <!-- F41 F42 F43 I2 -->
+afterwards was He named. <!-- F41 F42 F43 F109 I2 -->
 
 Vishvambhara learned to walk holding His father's finger with His tiny hand. When He had begun to crawl, He once saw a
 snake in the courtyard — it was Shesha. The golden Narayana played with him and lay down on his coils. Jagannatha and
 the whole household cried out and wept in terror, and the snake slid away. Shachi and Jagannatha had seen their son's
-wondrous form, and in their hearts they no longer doubted that He was a divine person. <!-- F44 F45 F46 -->
+wondrous form, and in their hearts they no longer doubted that He was the Lord Himself. <!-- F44 F45 F46 -->
 
 As He grew, Nimai would go into the neighbours' houses for milk and rice, and if He found nothing to eat He would
 break their pots. His mischief delights devotees to this day. Once, as He was playing by the gate, two thieves coveted
@@ -167,7 +169,7 @@ childhood.” (CC, Adi 10.70)
 (CC, Adi 10.71)
 
 For Krishna the son of Nanda, Gaurasundara the son of Jagannatha Mishra, and Lord Jagannatha are one and the same
-supreme Divinity. <!-- Q8 F69 -->
+Supreme Lord. <!-- Q8 F69 -->
 
 The men complained of Nimai's pranks to His father, the girls and women to Shachi. Jagannatha would grow angry and go
 to punish his son, but would find Him so calm and innocent that he could only marvel. “Who is this child?” the parents
@@ -217,9 +219,9 @@ relates (CB, Adi 17), told him that His pilgrimage had been crowned with success
 holy place delivers the one for whom it is made, but the mere sight of Ishvara Puri delivers countless souls in a
 moment. <!-- F95 Q9 -->
 
-The care of the widow's household was taken up by Chandrashekhara Acharya, who even in Jagannatha's lifetime had
+The care of the widow's household was taken up by Chandrashekhara Acharyaratna, who even in Jagannatha's lifetime had
 constantly come with his wife to see the child and help in the house. Soon Shachi married her son to Lakshmipriya,
-the daughter of Vallabha. The matchmaker Vanamali told the bride's father: “Vishvambhara, the son of Jagannatha Mishra,
+the daughter of Vallabhacharya. The matchmaker Vanamali Acharya told the bride's father: “Vishvambhara, the son of Jagannatha Mishra,
 is a great scholar and an ocean of every virtue.” <!-- F96 F97 -->
 
 ## Mishra's House
@@ -243,7 +245,7 @@ And the Lord answered that Shankararanya had been His brother, and Jagannatha Mi
 Vishvarupa left His body at Pandharpur (Sholapur district, Maharashtra) in 1509 (1431 Shaka). <!-- F98 F99 F100 F101 F21 Q6 -->
 
 The courtyard of Shachi and Jagannatha, where the infant Vishvambhara danced, was sung of by Vasu Ghosha in his padas.
-After the Lord's departure the house became a place of pilgrimage. Narottama came to its threshold and fell at the door
+After the Lord's departure the house became a place of pilgrimage. Narottama Dasa Thakura came to its threshold and fell at the door
 in tears, and inside he met Shuklambara Brahmachari. Shyamananda (then still Duhkhi Krishnadasa) asked the people of
 Navadvipa where the old house of Jagannatha Mishra was, and found there the aged Ishana. Later Ramachandra Kaviraja
 came as well and received the blessings of the same Ishana. <!-- F103 F104 F105 F106 -->
@@ -307,4 +309,5 @@ devotees. <!-- F13 F14 F16 Q4 I1 Q10 -->
     by Srila Bhaktisiddhanta Sarasvati.
 [^12]: The “Gaura-ganoddesha-dipika” (39) adds that, in the view of some, Devaki and Vasudeva also entered them. Some
     biographies say that the Lord's former parents “entered” Jagannatha and Shachi, others that they are the same
-    persons, known by different names in different pastimes.
+    persons, known by different names in different pastimes
+    (though they too quote the same verse about “entering”).
