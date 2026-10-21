@@ -928,7 +928,99 @@ strong, and His divine madness grew — His pastimes in this world were soon to 
 Srila Bhaktivinoda Thakura reveals the meaning of the riddle: all are already intoxicated with prema, and the purpose for
 which Advaita called the Lord has been achieved; now the Lord is free to act as He pleases[^42]. <!-- I14 -->
 
-<!-- SECOND SHIFT -->
+## Sons
+One of the biographies counts six sons of Advaita. The eldest is Achyutananda, after him Krishna Mishra and Gopala
+Mishra: these three grasped the essence of their father's teaching and were devoted to Gaura; according to the
+“Advaita-charita,” they were born of Sita, and they are called the “three jewels” of Gaura. The fourth son is Balarama,
+the fifth Svarupa, the sixth Jagadisha; they did not accept Sri Chaitanya[^43]. The “Charitamrita,” listing the branches
+of Advaita's tree, speaks of this thus:
+
+“Unhusked rice is first measured together with the husk. But afterwards the husk must be winnowed away and the rice
+cleaned.” (CC, Adi 12.12) <!-- F136 Q11 -->
+
+Srila Bhaktivinoda Thakura explains in the “Amrita-pravaha-bhashya”: in the course of time some of Advaita's followers
+adopted other teachings, but the essence is the teaching of Advaita Himself, and whoever transgresses it will attain
+nothing:
+
+“The instructions of the teacher are the basis of spiritual life. One who transgresses his orders cannot make any
+progress.” (CC, Adi 12.10)
+
+“But those descendants of Advaita Acharya who accepted the path of Sri Achyutananda were all great devotees of God.”
+(CC, Adi 12.73)
+
+“And all those who received the mercy of Sri Advaita easily found shelter at the lotus feet of Sri Chaitanya.” (CC,
+Adi 12.74)
+
+Vrindavana Dasa says the same still more sternly:
+
+“If a person worships Advaita but neglects Gaurachandra, he dooms himself to ruin, even if he is Advaita's son.” (CB,
+Antya 4.183) <!-- F137 Q11 -->
+
+Achyutananda, according to the “Charitamrita,” is a great branch of Advaita's tree: from his very birth he served the
+feet of Sri Chaitanya (Adi 12.13). The “Gaura-ganoddesha-dipika” calls him the beloved disciple of Gadadhara Pandita and
+sees in him Karttikeya or the gopi Achyuta (others consider Krishna Mishra to be Karttikeya). One of the biographies gives
+the year of his birth as 1428 Shaka (1506), and the place as Shantipura[^44]. Srila Bhaktisiddhanta in the “Anubhashya”
+calls Achyutananda the first of Advaita's disciples, while the “Shakha-nirnayamrita” calls him a disciple of Gadadhara. In
+the Lord's last years he lived in Puri:
+
+“Achyutananda is the son of Advaita Acharya. He remained living in Jagannatha Puri, having taken shelter at the lotus feet
+of Sri Chaitanya.” (CC, Adi 10.150)
+
+According to one of the biographies, Advaita's other sons also lived in Puri at that time. <!-- F138 Q11 -->
+
+Yet another biography mentions “Sri Nrisimha, the son of Advaita Acharya,” who lived in Ramakeli[^45]. <!-- F139 -->
+
+## Disciples
+Advaita's mercy extended also to those who were bound to Him as disciples. Yadunandana Acharya of Chandpur, the guru of
+Raghunatha Dasa, was a close disciple of Advaita; Srinatha Chakravarti, the guru of Kavi Karnapura, a sub-branch of His
+tree; Padmanabha Chakravarti, the father of Lokanatha Gosvami, a dear follower of His. Kamalakanta Vishvasa, of whom we
+have told above, was also Advaita's disciple. <!-- F140 -->
+
+## Concealment
+When and where Advaita concluded His pastimes in this world, most of the biographies do not say. According to the
+“Gaudiya-vaishnava-abhidhana,” it was in 1559, in the hundred and twenty-fifth year of His life (see above, “Appearance in
+Shrihatta”); the biographies do not name the lunar day of His departure, and in our calendar there is no day of Sri
+Advaita's departure[^46]. <!-- F141 -->
+
+It is known that Advaita remained in the world even after the Lord's concealment, and departed before Sita. Srinivasa,
+returning from Puri, where he no longer found Gadadhara Pandita, learned on the way that Advaita and Nityananda too had
+concealed Themselves, and in grief resolved to give up his body; but both Prabhus appeared to him in a dream and
+consoled him. In Shantipura he saw Sita, barely alive in separation from her husband[^47]. Advaita came to Srinivasa in
+dreams later too: He told him to marry — even before Narahari told him the same. <!-- F141 F142 -->
+
+In Shantipura the service was continued by Advaita's sons. Achyutananda, Gopala and Krishna Mishra received Jahnava
+there; in Advaita's house Narottama spent two days with Achyutananda and bowed to him, and Krishna Mishra received
+Virachandra with honours and sankirtana. At the great festival in Kheturi were Achyutananda, Krishna Mishra and Gopala
+from Shantipura; and when kirtan was sung there, the Lord Himself appeared with His departed associates, and the
+“Bhakti-ratnakara” (10) exclaims: how Advaita and Nityananda shone in ecstasy! <!-- F143 F144 Q16 -->
+
+## Places of Remembrance and Books
+In Ramakeli, in the temple of Madana-mohana, the Deity of Advaita is worshipped together with Nitai-Gauranga. In
+Mayapura, on the site of Advaita's Navadvipa house, in 1932, on the day of Gaura-purnima, Srila Bhaktisiddhanta Sarasvati
+laid the foundation stone of a new temple; the Advaita-bhavana in Mayapura became a centre of the Gaudiya Math.
+<!-- F145 -->
+
+About Advaita were written the “Advaita-mangala,” the “Advaita-vilasa” and the “Sita-charitra”; Sarvabhauma Bhattacharya
+composed in His glory the “Advaita-dvadasha-nama,” the “Advaitashtaka” and the “Advaita-ashtottara-shata-nama.” Most
+fully He is spoken of in the “Chaitanya-charitamrita,” the “Chaitanya-bhagavata,” the “Bhakti-ratnakara” and the
+“Advaita-vilasa”; there is also the late “Advaita-prakasha”[^48]. <!-- F146 F147 -->
+
+## Advaita in the Memory of the Devotees
+Advaita's name sounds wherever Sri Chaitanya is sung of. He is glorified by the benedictions at the beginning of the
+chapters of the “Charitamrita” and by the verse “jaya advaitadi…”; the “Chaitanya-bhagavata” glorifies Him too at the
+beginning of the ninth chapter of the Adi-khanda; Vrindavana Dasa says that the Lord descended into the world amid
+Nityananda, Advaita and Gadadhara. His name is in the Pancha-tattva mantra: “sri-krishna-chaitanya prabhu-nityananda
+sri-advaita gadadhara srivasadi-gaura-bhakta-vrinda.” The “Bhakti-ratnakara” recalls Him at the kirtan at Shridhara's
+(12) and tells how Narottama prayed to Advaita together with other associates of the Lord (1). He is remembered in small
+things too: one evening it was to Advaita that Haridasa confessed he would no longer go preaching with Nityananda — so
+unpredictable were the avadhuta's pastimes. And in every list of the companions at the Ratha-yatra Advaita is among the
+first. <!-- F147 -->
+
+So the life of Advaita Acharya closes in a circle. His call, full of compassion for the people of Kali, brought down the
+Lord; His fearlessness revealed to the world Who Sri Chaitanya is; His humility showed how a servant seeks not honours but
+punishment from the Lord; and His riddle announced that the purpose was fulfilled — the world was intoxicated with prema.
+Whoever takes shelter of His feet will, in the words of the “Charitamrita,” easily find shelter at the feet of Sri
+Chaitanya. <!-- I14 I13 -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
     elements; Vishnu, glancing at maya, is the efficient cause of the world, while in the form of Sri Advaita Narayana
@@ -1050,3 +1142,20 @@ which Advaita called the Lord has been achieved; now the Lord is free to act as 
     Deity for worship and then sends Him away speaks not of a servant's power over the Lord, but of the oneness of will
     between the Lord and His eternal associate: the Lord came at Advaita's call and by His own will concludes His
     pastimes when their purpose is achieved.
+[^43]: The sources give the number of sons differently. Six sons — in one of the biographies; the “Charitamrita” also
+    names six: Achyutananda, Krishna Mishra and Gopala as branches of Advaita's tree, and as “other sons” Balarama,
+    Svarupa and Jagadisha (Adi 12.13–27). Another biography says that Sita bore three — Achyutananda, Krishna Mishra and
+    Gopala; a third names only Achyutananda.
+[^44]: This year agrees poorly with the primary sources: according to the “Charitamrita” (Adi 12.17) and the
+    “Chaitanya-bhagavata” (Antya 4), Achyuta was five years old when he objected to his father about Keshava Bharati —
+    already after the Lord's sannyasa, while the “Chaitanya-bhagavata” calls him a small child as early as 1510 (Antya
+    1). The year of his birth therefore remains unclear.
+[^45]: A son of this name is named neither by the other biographies nor by the “Charitamrita” in its list of Advaita's
+    sons (Adi 12).
+[^46]: The year 1559 and the age come only from these late works (see note 8). The late “Chaitanya-mangala” of Jayananda
+    and the “Advaita-prakasha” also tell of Advaita's departure after the Lord's concealment, but their information calls
+    for caution.
+[^47]: Elsewhere the same biography says that when Jahnava came to Shantipura before the festival in Kheturi, neither
+    Advaita nor Sita was any longer in the world.
+[^48]: Only this late book, whose information should be treated with caution, also tells of Madana-Gopala — the Deity
+    whom Advaita served; the biographies on which this article relies are silent about Him.
