@@ -459,6 +459,88 @@ and night. Parameshvari Dasa tells in a pada: the Lord sat in Advaita's temple, 
 playfully discussed the festival; Sita came in, smiling, and the Lord told them to call the Vaishnavas and prepare
 everything for kirtan. <!-- F82 F83 -->
 
+## Honour That Wounds
+The Lord in His humility conducted Himself as one of the devotees, and honoured Advaita as a guru, as an elder: He fell
+at His feet and would not let Him touch His own. Srila Bhaktivinoda Thakura explains this by Advaita's being the
+godbrother of Ishvara Puri, the Lord's guru. But such honour gave Advaita pain. <!-- F84 -->
+
+Once, when the Lord lost consciousness in sankirtana, Advaita smeared Himself with the dust of His feet and worshipped
+them according to all the rules. Coming to Himself, the Lord in confusion threw Himself into the Ganga; Nityananda and
+Haridasa pulled Him out, and afterwards He lived for some time in another place[^22]. <!-- F85 -->
+
+The “Chaitanya-bhagavata” (Madhya 17) tells of the same leap differently. Once the Lord felt no prema in kirtan, and
+Advaita, dancing, said to Him: “You made Nityananda the keeper of the storehouse of prema, and deprived Me and Srivasa
+of it — and You give it away even to the low-born. So I have dried up the ocean of Your prema!” The Lord decided there
+was no point in living without prema and threw Himself into the Ganga; Nityananda and Haridasa pulled Him out, and He
+secretly took shelter with Nandana Acharya. <!-- F86 -->
+
+The devotees searched everywhere for the Lord, and Advaita fasted from grief. Then the Lord, at the request of Srivasa,
+whom Nandana had brought to Him, came to Advaita. Advaita lay without strength, almost unconscious, and the Lord felt
+Himself at fault; but as soon as His voice sounded, Advaita rose and broke His fast. He begged forgiveness for His
+audacious words and prayed for a place at His feet — birth after birth. In Nandana's house the Lord, Nityananda and
+Advaita all hid at one time or another. <!-- F87 -->
+
+## The “Yoga-vasishtha”
+The Lord's honour was a torment to Advaita, and He resolved to provoke His anger. He began to expound the
+“Yoga-vasishtha,” placing knowledge, jnana, and liberation above bhakti, and on some pretext went away to Shantipura.
+Advaita Himself says in the “Charitamrita”:
+
+“Before, Mahaprabhu showed Me great honour as an elder. This state of affairs was not to My liking, and I devised how
+to change it all.” (CC, Adi 12.39)
+
+“I began to explain the ‘Yoga-vasishtha,’ in which liberation is accepted as the highest goal of life. Learning of
+this, Sri Chaitanya grew angry and punished Me, forgetting His former respect.” (CC, Adi 12.40)
+
+According to Srila Bhaktivinoda, He explained the path of knowledge to “a few unfortunate people.” Vrindavana Dasa
+conveys how it looked:
+
+“Intoxicated with bliss, He constantly swayed from side to side, commenting on the book ‘Yoga-vasishtha’ and glorifying
+jnana.” (CB, Madhya 19.20)[^23] <!-- F88 Q11 -->
+
+The Lord understood His design and went to Shantipura with Nityananda. Seeing Them, Advaita began to extol jnana still
+more zealously, and the Lord struck Him with His fists: “Why did You bring Me down from Vaikuntha if now You preach
+jnanavada?” <!-- F89 -->
+
+And Advaita, having received the punishment, danced with joy: He understood that He had won, and rubbed His head
+against the Lord's feet. “My desire is fulfilled,” He said. “Before, the Lord was sparing with Me, honouring Me as an
+elder, but now He has dealt with Me as with a servant and saved Me from the heresy of mayavada.” The Lord, seeing
+through His ruse, was abashed, but was pleased and merciful to Him:
+
+“Sri Chaitanya highly honoured Sri Advaita as His Guru on the path of bhakti. But Advaita Acharya Himself was greatly
+saddened by this.” (CC, Adi 17.66)
+
+“Then Advaita began to explain the path of philosophical speculation, and Sri Chaitanya in feigned anger showed Him His
+disrespect.” (CC, Adi 17.67)
+
+“Sri Advaita received this punishment as the greatest bliss. Understanding Advaita's motive, Sri Chaitanya was abashed
+and blessed Him.” (CC, Adi 17.68) <!-- F90 -->
+
+The Lord embraced Him: “I will be pleased with anyone, even one who has offended Me, if he takes Your shelter.” Advaita
+answered: “Whoever rejects You is nothing to You.” Little Achyutananda too saw his father's punishment. <!-- F91 -->
+
+So Advaita's “path of knowledge” was only a ruse for the sake of punishment, not a conviction. He arranged this lila to
+show what a blessing punishment from the Lord, from the guru or from a Vaishnava is. The highest thing for Advaita is to
+be a servant; honour from the Lord is a torment to Him, and for the sake of punishment He is ready to “preach” jnana and
+rejoice under the blows. And the Lord promises His mercy to anyone who takes Advaita's shelter — even an offender.
+<!-- F92 I6 I7 -->
+
+## Shachi and Advaita
+Shachi blamed Advaita for Vishvarupa's taking sannyasa. Before, she had kept silent, fearing to offend a Vaishnava — she
+knew Advaita to be a Vaishnava. But now Nimai too spent all His time in Advaita's house, leaving Lakshmipriya at home,
+and Shachi feared that He too would leave. In her sorrow she said to herself: “Who calls Him Advaita — ‘non-dual’? He is
+‘Dvaita’: one son He has already led away from home, and now He will not let me keep the other” (CB, Madhya
+22.113–117). Only her Son knew of this. <!-- F93 Q12 -->
+
+During the Mahaprakasha Srivasa asked the Lord to grant Shachi the darshana of His form, but the Lord said: “Mother has
+offended Advaita — I will not show Myself to her. Only He can forgive, as Ambarisha forgave Durvasa.” Then Shachi went
+herself to beg Advaita's forgiveness. And Advaita began to glorify her who had borne the Lord in her womb — until He lost
+consciousness; and then she took the dust of His feet. The Lord revealed His form to her[^24]. <!-- F94 F95 -->
+
+So the Lord showed how grave vaishnava-aparadha is: it bars the way even to Shachi, and only the forgiveness of the
+offended Vaishnava saves one from it. And He showed that Vaishnavas are not proud: Shachi went without delay to beg
+forgiveness. Shachi herself is the eternal mother of the Lord, Yashoda; Vrindavana Dasa says plainly that in truth it
+was not even an offence, but the Lord called it so (CB, Madhya 22.58)[^25]. <!-- F96 I8 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -516,3 +598,18 @@ everything for kirtan. <!-- F82 F83 -->
     to another, on the eve, at the adhivasa. In one of the biographies the Lord's words are referred to verses
     “CB 2.9.297–298”; correctly they are CB, Madhya 22.16 and 5.51–52.
 [^21]: One of the biographies names among the companions Advaita's son Achyutananda as well.
+[^22]: So in one of the biographies — the cause of the leap is named as the dust of His feet, which Advaita took without
+    leave. Another biography, following the “Chaitanya-bhagavata” (Madhya 17), names a different cause — Advaita's words
+    about prema.
+[^23]: The “Yoga-vasishtha” is a book permeated with the teaching of mayavada. Advaita expounded it not from conviction:
+    both Vrindavana Dasa and Kaviraja Gosvami say that it was a ruse, devised so that the Lord would stop honouring Him
+    as an elder and would punish Him as a servant.
+[^24]: The circumstances are told differently. According to one of the biographies, Srivasa asked for Shachi not
+    darshana but prema, and this was when the Lord was sitting on the vishnu-khatta; the Lord answered that prema was
+    impossible until the offence at Advaita's feet was forgiven. And Advaita, astonished that the mother chosen by the
+    Lord Himself could be at fault before Him, lost consciousness; Shachi took the dust of His feet and fell unconscious
+    in prema, and the Lord declared her free of the offence.
+[^25]: Shachi's “offence” is part of a lila performed for the sake of a lesson; one of the biographies calls it an
+    “extraordinary means” chosen by the Lord. Neither Shachi nor Advaita is subject to worldly feelings: Vrindavana Dasa
+    explains at once (Madhya 22.118–123) that the Lord wished, by His mother's example, to warn everyone against
+    vaishnava-aparadha and to establish Advaita as a Vaishnava — against those who would glorify Him as Krishna Himself.
