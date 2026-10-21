@@ -209,6 +209,153 @@ after Srila Bhaktisiddhanta's birth Mahaprabhu's message spread throughout the w
 the "Padma Purana," "from Purushottama in Utkala." Ten months after his son's birth Bhaktivinoda was transferred to
 Ranaghat, and the family returned to Bengal overland, in palanquins. <!-- F68 F69 -->
 
+## Travels and preaching
+From 1877 to 1910 Bhaktivinoda travelled all over India as a pilgrim and preacher. First he visited Amta (Uluberia
+subdivision), the shripata of Abhirama Thakura at Khanakul-Krishnanagar, Shyampur, Bhadrak, Naral (Jessore district),
+Calcutta and Prayag, and then Vrindavana, Radha-kunda and Govardhana. Near Govardhana he scattered a gang of Kanjhar
+robbers who were plundering pilgrims. The way back led through Mathura, Lucknow, Faizabad, Guptar-ghat, Ayodhya and
+Benares. <!-- F73 F74 -->
+
+It was then, in Vrindavana, in 1880, that he first bowed at the feet of Srila Jagannatha Dasa Babaji and received from
+him many instructions on hari-bhakti[^8]. From 1885 he often received spiritual guidance from the Babaji; their mutual
+attraction, Vaishnavas say, was "from time immemorial." <!-- F133 F167 F175 -->
+
+In Calcutta he began building his house, the "Bhakti Bhavana." When the foundations were being dug, a Deity of Sri
+Kurmadeva emerged from the earth; Bhaktivinoda gave Him to his seven-year-old son and taught him His worship — the
+mantra of Kurma — and from then on the boy wore tilaka[^9]. At this time too Bhaktivinoda first visited Mayapur.
+<!-- F75 F147 F76 -->
+
+In his service he was Deputy Collector in the Barasat subdivision, and then he was transferred from place to place:
+Srirampur (1884), Vaidyanath, Bankipur, Gaya — where he saw the steps at Pretashira built by his ancestor Madan Mohan
+Datta[^10] — again Naral and Barasat, Memari, Kulinagrama, Bandel and Saptagram. In Kulinagrama he lectured on the Holy
+Name, distinguishing the pure name, namabhasa — the shadow of the name — and namaparadha, offensive chanting. There too
+he gave his son initiation into harinama and the Nrisimha-mantra[^11]. Once, returning from Puri, he gave his son, then
+a pupil in the seventh class, a tulasi-mala of Lord Jagannatha, and read to him the "Sri Chaitanya-shikshamrita," which
+he was writing at the time. <!-- F77 F78 F146 -->
+
+In 1885 he founded in Calcutta the "Chaitanya-yantra" press, and in the "Bhakti Bhavana" a publishing house, the
+"Vaishnava Depository." His son helped him with the printing and proof-reading and travelled with him to the shripatas
+— to Kulinagrama and Saptagram — hearing his lectures on the Holy Name. In those same years the Sri Gaudiya
+Gosvami-sangha, for the four-hundredth anniversary of Mahaprabhu's appearance, conferred on him the title
+"Bhaktivinoda"[^12]. <!-- F79 F148 F44 -->
+
+In 1886 he helped found the "Vishva-vaishnava-raja-sabha" — the "royal assembly of the Vaishnavas of the whole world"
+— in the Durga-mandapa of Rama Gopala Basu in Krishna-Singher Gali off Bethune Road, and lectured there on the
+"Chaitanya-charitamrita" and the "Bhakti-rasamrita-sindhu." This sabha, tradition says, was first founded by Srila Jiva
+Gosvami eleven years after Mahaprabhu's departure; Bhaktivinoda gave it new life, and Srila Bhaktisiddhanta revived it
+in 1919 (of which more below). In those years Bhaktivinoda also met the famous Ramakrishna Paramahamsa, refuted his
+impersonalism and explained to him the truth of pure bhakti. <!-- F80 F81 -->
+
+## The mentor
+Srila Jagannatha Dasa Babaji, the "general of the Vaishnavas," Srila Bhaktivinoda honoured as his mentor. In his song on
+the chain of teachers Srila Bhaktisiddhanta remembers "Jagannatha, whose dear disciple is Bhaktivinoda." The Babaji,
+like him, was a goshthyanandi — one who rejoices in the company of devotees and makes the community grow; and his wish
+to see the sampradaya and its preaching flourish blossomed and bore fruit in Bhaktivinoda. The Babaji inspired him to
+preach the name and the dhama of Gaura, and verses in the Babaji's praise say that he invested all his power in his
+devotee Bhaktivinoda and through him sent the stream of harinama over the world; the blessed line of Bhaktivinoda grew
+from his body and his labours. <!-- F132 F189 F141 -->
+
+## Where the Lord appeared
+In 1887 Bhaktivinoda visited Tarakeshwar, the chief Shiva-linga of Bengal. There Lord Shiva said to him in a dream:
+"You long for Vrindavana, but close to you is Navadvipa-dhama, where so much remains to be done. What have you done
+there?" In the same year he was transferred to Krishnanagar, a few miles from Navadvipa. He began to visit Kulia — the
+present town of Navadvip — and stayed at the Ranir Dharmashala above the Ganga. One evening at about ten o'clock,
+standing on the roof, he saw across the river a shining building; the light was seen also by his son Kamala Prasada,
+who was with him. <!-- F82 F83 -->
+
+Bhaktivinoda learned that the light came from a place by the Ballal-dighi, and the old men of that village confirmed:
+here Mahaprabhu was born. Having studied old maps and documents, he established firmly that the place of the Lord's
+appearance lies by the Ballal-dighi. He examined the "Bhakti-ratnakara," the government's old statistical and
+topographical maps and the records of the district court, and laid the evidence before an assembly of the district's
+leading men and the famous pandits of Navadvipa — and they approved it. <!-- F84 F177 -->
+
+In 1888 he bought a plot in Godruma-dvipa and named it Surabhi-kunja; from Krishnanagar he also visited his native Ula.
+In 1889 he was transferred to the Netrokona subdivision of Mymensingh district, in East Bengal; he visited
+Narayanganj, the town of Mymensingh, the Garo hills, where he blessed the Hajong people, and Goalundo. Then came
+transfers to Tangail and Burdwan, and journeys to Shantipur, Kalna, Bagnapara, Koigram and Denur, the shripata of Srila
+Vrindavana Dasa Thakura. <!-- F86 F87 -->
+
+In May 1890 he was again in Kulia and visited Jagannatha Dasa Babaji in his bhajana-kutira in Koladvipa, where the
+Babaji spent his last years. In service to him Bhaktivinoda added a concrete veranda to the kutira[^13]. From Burdwan he
+went to sing kirtana with the devotees of the village of Amlajora, and visited Gopalpur, Raniganj and Barakar. In 1890
+he served at Raniganj, in 1891 at Dinajpur. <!-- F88 F136 F168 F89 -->
+
+In Calcutta he met Shishir Kumar Ghosh, a newspaper publisher. Ghosh regarded him as his guru and called him "the
+seventh Gosvami," was a constant visitor to the "Bhakti Bhavana," and at his word began to chant japa and wear a
+tulasi-mala, but was never able to adopt the Vaishnava way of life completely. Bhaktivinoda visited Midnapore, where he
+spoke with Sitanatha Mohapatra and others, Ghatal and Kayapat-Badna-ganj in Hooghly, and returned to Krishnanagar, to
+Surabhi-kunja. In Krishnanagar he convened large meetings, regularly attended by Englishmen too — Malrow, Wallace,
+Butler. <!-- F90 F91 -->
+
+On 9 March 1892, at Amlajora, in the presence of Jagannatha Dasa Babaji, he observed Hari-vasara — ekadashi; all night
+long there was kirtana and talk of Krishna. A "Prapanna-ashrama" was being established there — a place for hearing
+hari-katha and singing kirtana. The Babaji, then over a hundred and fifty years old, led a great nagara-sankirtana,
+danced, and for a long time lost external consciousness, while the Thakura in his hari-katha spoke of how necessary such
+abodes are and declared the ashrama open; the Babaji rejoiced at his zeal in preaching the name[^14].
+<!-- F92 F175 F167 -->
+
+From Amlajora Bhaktivinoda went via Buxar and Prayag to Vrindavana, and from 21 to 29 March went round Vraja:
+Bilvavana, Bhandiravana, Mathavana, Man-sarovara, Mathura, Gokula, Madhuvana, Talavana, Kumudavana, Bahulavana,
+Radha-kunda, Govardhana and other places; he returned through Cawnpore and Allahabad. In Calcutta he preached in the
+"Bhakti Bhavana" and continued the meetings in Krishnanagar. In the same year, 1892, the Babaji with the Vaishnavas
+sang sankirtana in Godruma, and then in Mayapur. <!-- F92 F93 F134 -->
+
+In the month of Magha 1299 of the Bengali era (February 1893) the Babaji came from Kulia to Godruma, to Surabhi-kunja:
+with his companions he crossed the Ganga, and the whole neighbourhood resounded with kirtana. On Wednesday, 27 Magha,
+Bhaktivinoda held a kirtana festival, and the Babaji was its guest of honour. The Babaji visited the Thakura both in
+Godruma and in Calcutta. <!-- F93 F134 F176 -->
+
+And on Thursday, 20 Phalguna of the same year (March 1893)[^15], the Thakura came to the Babaji in the morning with
+kirtana, and at eleven o'clock the devotees crossed with him to Mayapur in three boats. The Babaji was carried in a
+palanquin; usually the old man was carried in a basket by his servant, the Vrajavasi Bihari Dasa. At the place of
+appearance Dvarika Babu awaited them with kirtana and flags. The Babaji led everyone to the birthplace of the Lord — the
+Yogapitha — began to dance and pointed it out exactly, and then struck that very spot several times hard with his
+staff, to dispel all doubt. He also pointed out Khola-bhangar-danga — Srivasa-angana. They danced there as no one had
+danced in Navadvipa for almost four hundred years. It was decided to begin the service of Deities at the place of
+appearance and at Srivasa-angana: the Babaji proposed to install Jagannatha Mishra and Shachi in one building, in
+another Mahaprabhu with Lakshmi and Vishnupriya at His sides, and at Srivasa-angana the Pancha-tattva.
+<!-- F94 F135 F177 -->
+
+At about that time Bhaktivinoda argued with a descendant of a gosvami family who regarded one of Mahaprabhu's closest
+associates as a shudra. Grieved, the Thakura answered him with a verse, "vaishnava-charitra sarvada pavitra…": the
+character of a Vaishnava is always pure, and with one who out of envy reviles a Vaishnava Bhaktivinoda does not speak
+— he keeps silent. He wrote out his chain of teachers (guru-parampara) and hung it outside the "Bhakti Bhavana." He
+also preached in Bihar — at Sasaram, Nasirganj and Dehri. <!-- F95 Q10 F96 F97 -->
+
+In January 1894, at a large meeting in the A.B. School in Krishnanagar, it was resolved to install Deities at the place
+of appearance, and the "Navadvipa-pracharini-sabha" was founded to spread word of this place far and wide; its
+secretary was Naphar Chandra Pal Bhaktibhushana, zamindar of Natudaha (Nadia). Dvarika Babu, Naphar Babu and others
+decided to put up a thatched hut there for the Deities of Gaura and Vishnupriya. <!-- F98 -->
+
+The Deities were installed on 21 March 1894 (9 Chaitra 1300 of the Bengali era), on Phalguni-purnima — Gaura-purnima —
+during a lunar eclipse, amid loud kirtana[^16]. Thus Bhaktivinoda, following Srila Narottama, who installed Gaura and
+Vishnupriya at Kheturi, with the permission of Jagannatha Dasa Babaji manifested the service of Gaurasundara with
+Vishnupriya in Gaura's house in Mayapur. By this he answered the teachings which, calling themselves worship of
+Vishnupriya-Gauranga, reject the path of the rupanugas: the "gaura-bhajis," "gauravadis," gauranga-nagaris and blends
+with theosophy. Srila Bhaktisiddhanta sang of it in a song: Bhaktivinoda, servant of Gaura, remembering Narottama's
+feet, installed Priya and Hari in Mayapur. Through him the Babaji also revealed to the world once more the day of
+Srimati Vishnupriya's appearance — Sri-panchami, the shukla-panchami of the month of Magha; from Bhaktivinoda this
+custom spread throughout the Vaishnava world. <!-- F99 F170 F131 -->
+
+For the service of the Deities the "Sri Mayapur-seva-samiti" was formed. Its members were Shyamlal Gosvami,
+Shashibhushan Gosvami, Radhikanatha Gosvami, Bipina Bihari Gosvami, Mahamahopadhyaya Ajitanatha Nyayaratna,
+Mahendranatha Bhattacharya Vidyaranya, Satya Jivan Lahiri, Raja Vanamali Ray Bahadur of Tarash (Pabna), Shishir Kumar
+Ghosh, Matilal Ghosh, Yatindranatha Chaudhuri, Mahendranatha Majumdar, the advocate Kishorilal Sarkar, Nalinaksha Datta,
+Kanailal Dey Bahadur, the Deputy Magistrate Navin Chandra Sen and Jagatchandra Ray. <!-- F99 -->
+
+The Babaji also visited Bhaktivinoda in the Calcutta "Bhakti Bhavana," in Ram-Bagan; the Thakura always invited him for
+prasada, but the detached old man came only rarely. There the Babaji met the twelve-year-old Bimala Prasada and, learning
+that the boy was versed in jyotisha, told him to compose a Vaishnava calendar reckoned in years from Chaitanya's
+appearance. So arose the "Navadvipa-panjika," which Sri Chaitanya Math publishes to this day. The Babaji allowed no one
+to photograph him, but Bhaktivinoda arranged for a photograph when he was a guest at the "Bhakti Bhavana": this picture
+— the Babaji on a wooden seat, with Giridhari on his breast — now stands on the altars of the Gaudiya Maths. The Babaji
+loved Bhaktivinoda deeply and, it is said, gave him his own Giridhari; the Thakura installed this shila in his Calcutta
+house, and He is served there to this day. <!-- F168 F137 F178 F138 F139 F85 -->
+
+Srila Jagannatha Dasa Babaji entered the eternal pastimes on the shukla-pratipat of the month of Phalguna, Monday 25
+February 1895[^17]. Bhaktivinoda wrote in the "Sajjana-toshani": at ten in the morning, in his bhajana-kutira in
+Koladvipa, the old general of the Vaishnavas departed for the eternal abode. <!-- F140 -->
+
 [^1]: This Krishnananda Datta, the raja in whose house Nityananda stayed, should not be confused with his namesake
     Krishnananda Datta, the father of Srila Narottama Dasa Thakura.
 [^2]: By the Gregorian calendar — Sunday, 2 September 1838; by the lunar calendar — the shukla-trayodashi of the month of
@@ -227,3 +374,20 @@ Ranaghat, and the family returned to Bengal overland, in palanquins. <!-- F68 F6
 [^7]: In one account the chariot stood before the house for three days and the baby took the Lord's garland himself;
     in another, while the chariot stood on the Bada-danda, Bhagavati Devi at the Thakura's direction held her son up to
     it, he stretched his hand towards Jagannatha's feet, and the garland fell of itself upon his head.
+[^8]: So according to most of the biographies; according to one, the first meeting took place in Vrindavana during the
+    journeys begun in 1877, without an exact year.
+[^9]: The year and address are given differently: in one account the house was begun in 1882 at 181 Maniktola Street;
+    in another, in 1881 in Ram-Bagan; a third names the street "Manikarala Street."
+[^10]: In one place the biography calls Madan Mohan Datta Bhaktivinoda's great-grandfather, but by the genealogy it
+    gives itself he was his grandfather's great-grandfather.
+[^11]: In another account his son received harinama and the Nrisimha-mantra in Serampore, when his father, returning
+    from Puri, gave him a tulasi-mala of Jagannatha.
+[^12]: The biography dates this to 1885 and links it with the four-hundredth anniversary of Mahaprabhu's appearance;
+    but the Lord appeared in 1486, and the four-hundredth anniversary falls in 1886.
+[^13]: In another account the Babaji told Bhaktivinoda to build a hut for devotees beside his bhajana-kutira, and he
+    built it.
+[^14]: The biographies give the year of this meeting differently: 9 March 1892, 1892 without a date, and 1891.
+[^15]: 20 Phalguna 1299 of the Bengali era corresponds to March 1893; one of the biographies gives the year 1892 with
+    this date.
+[^16]: One of the biographies calls this day a Friday; by the calendar 21 March 1894 was a Wednesday.
+[^17]: Elsewhere the same biography places the Babaji's departure in February 1896.
