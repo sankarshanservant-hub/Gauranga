@@ -2,7 +2,7 @@
 
 Писано только по `parshadas/facts/bhaktivinoda.md` и `parshadas/cards/bhaktivinoda.yaml`; книги T/M/B не открывались.
 Покрытие: `python3 parshadas/check.py bhaktivinoda` → OK (F1–F199, Q1–Q15, I1–I6 в RU и EN; метки, разделы и сноски RU/EN
-совпадают). 25 разделов, 26 сносок; PDF — `parshadas/Bhaktivinoda-Thakura-ru.pdf` (21 с.). Статья закончена целиком.
+совпадают). 22 раздела, 26 сносок; PDF — `parshadas/Bhaktivinoda-Thakura-ru.pdf` (21 с.). Статья закончена целиком.
 
 ## План (разделы → пункты)
 1. Посланник Махапрабху — F1, F2+Q1, F3+Q2, F13, F14, F10+Q6, Q9. 2. Тьма над Гаудией — F7+Q5, F8, F11, F12+Q7, F9, F71, F70, I1.
