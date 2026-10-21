@@ -689,6 +689,96 @@ And it was always Advaita who led them:
 
 Sita and Achyutananda went with Him. <!-- F113 Q13 -->
 
+## The Meeting at Narendra-sarovara
+One of the biographies tells that in Puri the Lord declared before all that He had descended into the world at
+Advaita's call — and the people of Puri were filled with devotion to Advaita. Learning that the Bengalis headed by
+Advaita had already reached Athara-nala, the bridge at the entrance to Puri, the Lord Himself went out to meet them;
+with Him were Kashishvara, Bhagavan Acharya, Pradyumna Mishra and others. At Narendra-sarovara both sides fell prostrate
+before one another. “It is I who brought Him!” Advaita cried, and all bowed to Him. Nityananda and Advaita embraced, and
+the Lord, first of all, placed Jagannatha's garland on Advaita. <!-- F114 F115 -->
+
+## The Ratha-yatra and Gundicha
+At the Ratha-yatra the Lord Himself divided the singers into groups and appointed a dancer for each — Nityananda,
+Advaita, Haridasa and Vakreshvara. In the first group the lead singer was Svarupa Damodara and the dancer Advaita. There
+was also the Shantipura group, which Advaita Himself had gathered; His son danced in it, and Gopala Mishra sang with them:
+
+“In the group of singers from Shantipura, which Advaita Acharya had gathered, Achyutananda, Advaita's son, was chosen as
+the dancer. All the others were to sing along with Advaita.” (CC, Madhya 13.45)
+
+Before the kirtan the Lord with His own hand adorned His senior companions with sandal paste and garlands:
+
+“Advaita Acharya and Nityananda also felt immense happiness when the Lord's hand touched Them.” (CC, Madhya 13.31)
+<!-- F116 Q15 -->
+
+In other years too, going around the temple of Jagannatha in the bera-kirtan, the Lord formed seven groups:
+
+“And in each of these seven groups there was a principal dancer, such as Sri Advaita Acharya or Nityananda Prabhu.”
+(CC, Antya 10.59)
+
+“While in the other groups the principal dancers were Vakreshvara Pandita, Achyutananda, Srivasa Pandita, Satyaraja Khan
+and Narahari Dasa.” (CC, Antya 10.60)
+
+In the days when Jagannatha stayed at Gundicha, the Lord sang with the devotees in the temple courtyard from morning
+till evening:
+
+“At times He inspired Advaita Acharya, Nityananda, Thakura Haridasa and Achyutananda to dance.” (CC, Madhya 14.71)
+
+And when the Gundicha temple was washed before the festival, everyone carried water except a few of the elders:
+
+“All except Nityananda, Advaita, Damodara, Bharati and Paramananda Puri filled pots and carried water.” (CC, Madhya
+12.109)[^33]
+
+Advaita also played with the Lord and the devotees in the water pastimes at Narendra-sarovara. <!-- F117 Q15 -->
+
+Among the Lord's companions in Puri Svarupa Damodara was especially dear to Advaita:
+
+“He was very dear to Advaita and Sri Nityananda, and the very soul of the whole community of devotees headed by Srivasa
+Thakura.” (CC, Madhya 10.117)
+
+Together with the Lord, Advaita also went to the garden of Tota-Gopinatha to hear Gadadhara Pandita read the
+“Bhagavatam.” <!-- F118 F119 Q15 Q16 -->
+
+## A Meal in the Storm
+Once Advaita began to entreat the Lord to come to Him for a meal. He wanted to feed the Lord alone: when He came with the
+sannyasis, out of respect for them He ate very little. Advaita cooked Himself, while His wife helped Him — cutting
+vegetables and handing Him the provisions brought from Bengal (CB, Antya 9.20–24)[^34]. When the cooking was done,
+Advaita placed a tulasi-manjari on every dish and sat down to meditate: let the Lord come alone. <!-- F120 -->
+
+Suddenly a storm arose — wind, downpour and hail — and the sannyasis, losing their way, did not reach the place, while at
+Advaita's it only drizzled a little. The Lord came alone and ate everything Advaita served Him. When He had eaten,
+Advaita began to glorify Indra:
+
+“‘O Indra! Today I have understood your greatness. Today I have understood that you are a Vaishnava.’” (CB, Antya 9.61)
+
+But the Lord saw through Him. “Acharya, why do You hide the truth?” the Lord asked. “Is not this wind and rain the work
+of Your hands?” (CB, Antya 9.65) And He explained:
+
+“You thought that if I came together with the sannyasis, I would not eat much.” (CB, Antya 9.69)
+
+“In truth Indra carried out Your order, so that Your real greatness would not be revealed to all. The chance to serve
+You is the greatest fortune for him.” (CB, Antya 9.72)
+
+Indra, the servant of Krishna, fulfils the desires of His devotees; if Krishna fulfils Advaita's desires, what wonder is
+it that Indra obeys Him? One of the biographies places this meal in the third year, when the Bengalis came with their
+wives and brought foodstuffs with them. <!-- F121 Q13 -->
+
+## A Kirtan in Glory of Gaura
+The Lord would not allow Himself to be glorified: He called Himself only a servant of Krishna, and the devotees feared
+His anger. But one day Advaita told them: “Today we will glorify no avatara other than Sri Chaitanya — the source of all
+avataras. I will dance, and you sing His glory” (CB, Antya 9.157–162). No one could disobey Advaita, and the devotees
+began to sing, while Advaita danced and sang a song He Himself had composed in glory of the Lord:
+
+“‘O Sri Chaitanya! You are Narayana Himself! You are an ocean of mercy and the friend of the distressed. Please be
+merciful to Me.’” (CB, Antya 9.168)
+
+Hearing Himself glorified, the Lord was embarrassed and went home. When the devotees came to Him singing, He lay turned
+away and reproached them; and then He was answered that the sun cannot be hidden with one's palm — just so the truth
+about Him cannot be concealed (CB, Antya 9.204–208)[^35]. <!-- F122 -->
+
+Thus Advaita was the first openly to introduce kirtan in glory of Sri Krishna Chaitanya — honouring Him equally with
+Krishna, for He is Krishna. In this one sees Advaita's chief trait — spiritual fearlessness: it sounded in His loud call,
+in the shraddha-patra given to Haridasa, and in this kirtan. <!-- I10 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -776,3 +866,9 @@ Sita and Achyutananda went with Him. <!-- F113 Q13 -->
     quoted this verse, at once adds that probably about three more years had passed.
 [^32]: One of the biographies refers this verse to the “Charitamrita” (“CC 3.8”), and the verse about the yearly visits
     (Madhya 1.255) to “2.9.255–256”; correctly they are CB, Antya 8.4–6 and CC, Madhya 1.255.
+[^33]: The translation has “Damodara”; the Bengali text here reads “Svarupa,” that is, Svarupa Damodara, and “Bharati” is
+    Brahmananda Bharati.
+[^34]: According to one of the biographies, the Lord's favourite dishes were cooked by Sita, and it was she who invited
+    Him.
+[^35]: One of the biographies puts these words in Advaita's mouth; according to the “Chaitanya-bhagavata” (Antya
+    9.204–208), it was Srivasa Pandita who answered so: he made as if to hide the sun in his palms, and laughed.
