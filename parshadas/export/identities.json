@@ -255,6 +255,37 @@
   ]
  },
  {
+  "person": "@ishvara-puri",
+  "in": "krishna-lila",
+  "as": "принявший плод шрингары (супружеской любви) с древа желаний — Мадхавендры",
+  "source": "ГГД 23 (наш перевод)",
+  "level": "A",
+  "facts": [
+   "F14"
+  ]
+ },
+ {
+  "person": "@ishvara-puri",
+  "in": "krishna-lila",
+  "as": "«воплощение уджджвала-расы»",
+  "source": "«Адвайта-пракаша» 13",
+  "level": "D",
+  "note": "Только lila-db (apr-0061); в реестре нет."
+ },
+ {
+  "person": "@ishvara-puri",
+  "in": "tattva",
+  "as": "один из старших, которых Кришна посылает на землю прежде Себя",
+  "source": "ЧЧ Ади 3.92–94, 13.53–55",
+  "level": "A",
+  "facts": [
+   "F69"
+  ],
+  "events": [
+   "ev-associates-descend"
+  ]
+ },
+ {
   "person": "@jagannatha-mishra",
   "in": "krishna-lila",
   "as": "Нанда Махараджа, царь Враджа",

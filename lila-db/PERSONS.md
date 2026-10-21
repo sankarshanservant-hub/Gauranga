@@ -72,7 +72,7 @@
 | @shuklambara | Шукламбара Брахмачари | Shuklambara Brahmachari | |
 | @damodara-pandita | Дамодара Пандит | Damodara Pandita | собеседник Мурари |
 | @gangadasa-pandita | Гангадас Пандит | Gangadasa Pandita | учитель |
-| @ishvara-puri | Ишвара Пури | Ishvara Puri | гуру Господа |
+| @ishvara-puri | Ишвара Пури | Ishvara Puri | гуру Господа · {карточка: в Кришна-лиле — принявший плод шрингары с древа желаний —… (ГГД 23) и др.; гуру — Мадхавендра Пури; происхождение — Кумарахатта (Халисахар); явление — пурнима месяца джьяиштха} |
 | @madhavendra-puri | Мадхавендра Пури | Madhavendra Puri | {карточка: в Кришна-лиле — древо желаний, растущее во Врадже, с четырьмя… (ГГД 22) и др.; гуру — Лакшмипати (Тиртха); уход — шукла-двадаши месяца пхалгуна} |
 | @keshava-bharati | Кешава Бхарати | Keshava Bharati | санньяса-гуру |
 | @sarvabhauma | Сарвабхаума Бхаттачарья | Sarvabhauma Bhattacharya | Васудева |
@@ -734,3 +734,4 @@
 | @manindra-chandra-nandi | Маниндра Чандра Нанди (раджа Касимбазара) | Manindra Chandra Nandi (Raja of Cossimbazar) | звал Гауракишору во дворец (T 243); учился у Бхактивиноды (T 234) |
 | @krishnadasa-babaji | Кришнадас Бабаджи (Индрачандра) | Krishnadasa Babaji (Indrachandra) | ученик Бхактивиноды (дикша, бабаджи-веша 1315 г. бенг.), служил ему до ухода (B 1117–1119; T 235) |
 | @bhakti-pradipa-tirtha | Бхакти Прадип Тиртха (Джагадиш Бхакти Прадип) | Bhakti Pradipa Tirtha (Jagadisha Bhakti Pradipa) | ученик Бхактивиноды (1910), санньяси от Бхактисиддханты (T 235, 252) |
+| @shyamasundara-acharya | Шьямасундара Ачарья | Shyamasundara Acharya | брахман-рархи из Кумарахатты, отец Ишвары Пури (B 716; T 9); не путать с @shyamasundara-khardaha |

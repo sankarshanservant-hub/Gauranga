@@ -4113,6 +4113,14 @@
     "type": "companion"
    },
    {
+    "from": "@ishvara-puri",
+    "type": "disciple"
+   },
+   {
+    "from": "@ishvara-puri",
+    "type": "met"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "son"
    },
@@ -7434,6 +7442,10 @@
     "type": "other"
    },
    {
+    "from": "@ishvara-puri",
+    "type": "host"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "spouse"
    },
@@ -8025,6 +8037,10 @@
    "ev-nityananda-marriage"
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "disciple"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "son"
@@ -10547,6 +10563,14 @@
     "type": "other"
    },
    {
+    "from": "@ishvara-puri",
+    "type": "disciple"
+   },
+   {
+    "from": "@ishvara-puri",
+    "type": "friend"
+   },
+   {
     "from": "@jahnava",
     "type": "spouse"
    },
@@ -11559,6 +11583,10 @@
   "related_by": [
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@ishvara-puri",
     "type": "other"
    },
    {
@@ -12588,6 +12616,10 @@
     "type": "other"
    },
    {
+    "from": "@ishvara-puri",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
    },
@@ -13537,6 +13569,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "other"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "friend"
@@ -14675,6 +14711,10 @@
     "type": "friend"
    },
    {
+    "from": "@ishvara-puri",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -15783,6 +15823,182 @@
    "ev-four-sampradayas",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — принявший плод шрингары с древа желаний —… (ГГД 23) и др.; гуру — Мадхавендра Пури; происхождение — Кумарахатта (Халисахар); явление — пурнима месяца джьяиштха",
+  "card": "parshadas/cards/ishvara-puri.yaml",
+  "article": {
+   "ru": "parshadas/ru/ishvara-puri.md",
+   "en": "parshadas/en/ishvara-puri.md"
+  },
+  "kind": "guru",
+  "circle": [
+   "elders"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "пурнима месяца джьяиштха (Тривикрама)",
+    "place": "#kumarahatta",
+    "conf": "день — только по T; в календаре Шри Чайтанья Сарасват Матха даты нет",
+    "facts": [
+     "F7",
+     "F10",
+     "F11"
+    ],
+    "note": "В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-10-21) нет ни явления, ни ухода Ишвары Пури; джьяиштха-пурнима там — Снана-ятра (29.06.2026). Место рождения — #chaitanya-doba в Кумарахатте (F11, F66)."
+   },
+   "disappearance": {
+    "date": "до прихода Говинды к Господу в Пури (после южного странствия, 1512)",
+    "conf": "день, год и место ухода источники не называют",
+    "facts": [
+     "F58",
+     "F59",
+     "F61"
+    ],
+    "note": "M: к санньясе Господа (1510) он уже ушёл (F58) ≠ B 721: успел услышать о санньясе и жизни Господа в Пури (F57); B 804: Говинда и Кашишвара пришли после южного странствия (F61)."
+   }
+  },
+  "works": [
+   {
+    "title": "«Шри Кришна-лиламрита» — книга о деяниях Кришны; по ней учил Гададхару и просил Господа указать ошибки",
+    "facts": [
+     "F36",
+     "F37",
+     "F38",
+     "F42"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "принявший плод шрингары (супружеской любви) с древа желаний — Мадхавендры",
+    "source": "ГГД 23 (наш перевод)",
+    "level": "A"
+   },
+   {
+    "in": "krishna-lila",
+    "as": "«воплощение уджджвала-расы»",
+    "source": "«Адвайта-пракаша» 13",
+    "level": "D"
+   },
+   {
+    "in": "tattva",
+    "as": "один из старших, которых Кришна посылает на землю прежде Себя",
+    "source": "ЧЧ Ади 3.92–94, 13.53–55",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@shyamasundara-acharya"
+   },
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "note": "B 716 — санньяса у Мадхавендры; T — посвящение (F12). Служил ему при уходе и получил благословение премы (ЧЧ Антья 8)."
+   },
+   {
+    "type": "sannyasa-guru",
+    "who": "@madhavendra-puri",
+    "note": "Так только B 716."
+   },
+   {
+    "type": "disciple",
+    "who": "@mahaprabhu",
+    "note": "Господь являет игру принятия дикши (десятисложная мантра — T, B 70, ЧБ; M — «гаятри», F52). Порядок угощения и дикши: B, T, ЧБ — угощение до дикши; M — после (F50)."
+   },
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "Встречи в Навадвипе до Гаи: на дороге (B, M) ≠ у Адвайты (T 19, F31); обед у Шачи; спор о «Кришна-лиламрите»."
+   },
+   {
+    "type": "disciple",
+    "who": "@govinda-servant",
+    "note": "Его любимый слуга; по его наказу пришёл к Господу первым (F61). Шудра — вопрос Сарвабхаумы (F63)."
+   },
+   {
+    "type": "disciple",
+    "who": "@kashishvara",
+    "note": "Брахмачари; пришёл к Господу после паломничества (F61)."
+   },
+   {
+    "type": "disciple",
+    "who": "@nityananda",
+    "note": "Только «Према-виласа» (по T; уровень C): Нитьянанда — ученик Ишвары Пури; в lila-db (pvl-0040, pvl-0229, pvl-0265) — по сну Баларамы дал Ему санньясу и послал к Гауре; Джаянанда (C, jcm-0014) — санньяса в Праяге. Другие источники — ученик Мадхавендры или Лакшмипати (@nityananda F102)."
+   },
+   {
+    "type": "disciple",
+    "who": "@vishvarupa",
+    "note": "Только «Према-виласа» (уровень C) в lila-db (pvl-0228, pvl-0264): Вишварупа принял у него посвящение и санньясу (Шанкараранья) и передал ему свою мощь для Нитьянанды; в реестре нет."
+   },
+   {
+    "type": "friend",
+    "who": "@nityananda",
+    "note": "Полюбил Нитьянанду, видя, как Тот дорог его гуру."
+   },
+   {
+    "type": "companion",
+    "who": "@brahmananda-puri",
+    "note": "Собрат-ученик Мадхавендры; вместе при встрече с Нитьянандой."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "note": "Собрат-ученик; противоположный «свидетель» — отвергнут гуру (ЧЧ Антья 8.29–30)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Духовный брат (оба — ученики Мадхавендры); Адвайта узнал в нём вайшнава-санньяси и держал его на коленях; поэтому Господь чтил Адвайту как старшего (Бхактивинода, F72)."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta",
+    "note": "Песней открыл его экстаз в собрании Адвайты."
+   },
+   {
+    "type": "host",
+    "who": "@gopinatha-acharya",
+    "note": "Несколько месяцев (M — месяц) гостил в его доме в Навадвипе; там же, по БР, написал «Кришна-лиламриту»."
+   },
+   {
+    "type": "host",
+    "who": "@shachi",
+    "note": "Приготовила бхогу для Кришны и подала ему прасад."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@gadadhara-pandita",
+    "note": "Учил его по своей «Кришна-лиламрите»."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "Духовный брат; потому Господь чтил его как гуру."
+   },
+   {
+    "type": "other",
+    "who": "@ranga-puri",
+    "note": "Духовный брат; узнав, что Господь — ученик Ишвары Пури, исполнился нежности."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Поселился в Кумарахатте у места его рождения; «Девалая» напротив Чайтанья-добы."
+   },
+   {
+    "type": "other",
+    "who": "@shivananda-sena",
+    "note": "Жил в Кумарахатте, городе его рождения."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Спросил Господа, почему Ишвара Пури взял в слуги шудру."
+   }
+  ],
   "related_by": [
    {
     "from": "@gadadhara-pandita",
@@ -16164,6 +16380,14 @@
    {
     "from": "@gadadhara-pandita",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@ishvara-puri",
+    "type": "guru"
+   },
+   {
+    "from": "@ishvara-puri",
+    "type": "sannyasa-guru"
    },
    {
     "from": "@jagannatha-mishra",
@@ -16557,6 +16781,10 @@
   "related_by": [
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@ishvara-puri",
     "type": "other"
    },
    {
@@ -22423,6 +22651,10 @@
   ],
   "related_by": [
    {
+    "from": "@ishvara-puri",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -22842,6 +23074,10 @@
    {
     "from": "@gopala-guru",
     "type": "servant"
+   },
+   {
+    "from": "@ishvara-puri",
+    "type": "disciple"
    },
    {
     "from": "@nityananda",
@@ -23475,6 +23711,10 @@
    "ev-narottama-dream-ratha-kirtan"
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "host"
+   },
    {
     "from": "@nityananda",
     "type": "other"
@@ -24221,6 +24461,10 @@
    "ev-rupa-narayana"
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "disciple"
+   },
    {
     "from": "@nityananda",
     "type": "other"
@@ -25062,6 +25306,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "other"
+   },
    {
     "from": "@narahari-sarakara",
     "type": "companion"
@@ -39511,6 +39759,10 @@
   ],
   "related_by": [
    {
+    "from": "@ishvara-puri",
+    "type": "companion"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -40332,6 +40584,10 @@
    "ev-chaitanya-dasa-feast"
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "other"
+   },
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
@@ -41227,6 +41483,10 @@
    "ev-ranga-puri-pandharpur"
   ],
   "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "other"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "guest"
@@ -46433,6 +46693,21 @@
    {
     "from": "@bhaktivinoda",
     "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@shyamasundara-acharya",
+  "ru": "Шьямасундара Ачарья",
+  "en": "Shyamasundara Acharya",
+  "note": "брахман-рархи из Кумарахатты, отец Ишвары Пури (B 716; T 9); не путать с @shyamasundara-khardaha",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ishvara-puri",
+    "type": "father"
    }
   ]
  }

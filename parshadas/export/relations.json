@@ -2951,6 +2951,261 @@
   "note": "ГГД 163: Тунгавидья — Прабодхананда (к варианту M)."
  },
  {
+  "from": "@ishvara-puri",
+  "type": "father",
+  "who": "@shyamasundara-acharya",
+  "facts": [
+   "F8"
+  ]
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "guru",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F3",
+   "F12",
+   "F13",
+   "F14",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24"
+  ],
+  "event": "ev-madhavendra-puri-departure",
+  "note": "B 716 — санньяса у Мадхавендры; T — посвящение (F12). Служил ему при уходе и получил благословение премы (ЧЧ Антья 8)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "sannyasa-guru",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F12"
+  ],
+  "note": "Так только B 716."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "disciple",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F2",
+   "F44",
+   "F45",
+   "F46",
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "F51",
+   "F52",
+   "F53",
+   "F54",
+   "F71"
+  ],
+  "event": "ev-gaya-ishvara-puri-initiation",
+  "note": "Господь являет игру принятия дикши (десятисложная мантра — T, B 70, ЧБ; M — «гаятри», F52). Порядок угощения и дикши: B, T, ЧБ — угощение до дикши; M — после (F50)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "met",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F31",
+   "F32",
+   "F33",
+   "F35",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F47"
+  ],
+  "event": "ev-ishvara-puri-navadvipa",
+  "note": "Встречи в Навадвипе до Гаи: на дороге (B, M) ≠ у Адвайты (T 19, F31); обед у Шачи; спор о «Кришна-лиламрите»."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "disciple",
+  "who": "@govinda-servant",
+  "facts": [
+   "F59",
+   "F60",
+   "F61",
+   "F62",
+   "F63",
+   "F64"
+  ],
+  "event": "ev-govinda-joins-lord",
+  "note": "Его любимый слуга; по его наказу пришёл к Господу первым (F61). Шудра — вопрос Сарвабхаумы (F63)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "disciple",
+  "who": "@kashishvara",
+  "facts": [
+   "F59",
+   "F60",
+   "F61",
+   "F62",
+   "F64"
+  ],
+  "note": "Брахмачари; пришёл к Господу после паломничества (F61)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "disciple",
+  "who": "@nityananda",
+  "facts": [
+   "F75"
+  ],
+  "note": "Только «Према-виласа» (по T; уровень C): Нитьянанда — ученик Ишвары Пури; в lila-db (pvl-0040, pvl-0229, pvl-0265) — по сну Баларамы дал Ему санньясу и послал к Гауре; Джаянанда (C, jcm-0014) — санньяса в Праяге. Другие источники — ученик Мадхавендры или Лакшмипати (@nityananda F102)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "disciple",
+  "who": "@vishvarupa",
+  "note": "Только «Према-виласа» (уровень C) в lila-db (pvl-0228, pvl-0264): Вишварупа принял у него посвящение и санньясу (Шанкараранья) и передал ему свою мощь для Нитьянанды; в реестре нет."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "friend",
+  "who": "@nityananda",
+  "facts": [
+   "F15",
+   "F16",
+   "F17"
+  ],
+  "event": "ev-nityananda-meets-madhavendra",
+  "note": "Полюбил Нитьянанду, видя, как Тот дорог его гуру."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "companion",
+  "who": "@brahmananda-puri",
+  "facts": [
+   "F15",
+   "F16"
+  ],
+  "note": "Собрат-ученик Мадхавендры; вместе при встрече с Нитьянандой."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@ramachandra-puri",
+  "facts": [
+   "F21"
+  ],
+  "event": "ev-madhavendra-puri-departure",
+  "note": "Собрат-ученик; противоположный «свидетель» — отвергнут гуру (ЧЧ Антья 8.29–30)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F25",
+   "F26",
+   "F27",
+   "F28",
+   "F29",
+   "F30",
+   "F72"
+  ],
+  "event": "ev-ishvara-puri-navadvipa",
+  "note": "Духовный брат (оба — ученики Мадхавендры); Адвайта узнал в нём вайшнава-санньяси и держал его на коленях; поэтому Господь чтил Адвайту как старшего (Бхактивинода, F72)."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F29",
+   "F68"
+  ],
+  "note": "Песней открыл его экстаз в собрании Адвайты."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "host",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F34",
+   "F37"
+  ],
+  "note": "Несколько месяцев (M — месяц) гостил в его доме в Навадвипе; там же, по БР, написал «Кришна-лиламриту»."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "host",
+  "who": "@shachi",
+  "facts": [
+   "F32"
+  ],
+  "note": "Приготовила бхогу для Кришны и подала ему прасад."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "siksha-disciple",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F36",
+   "F37"
+  ],
+  "note": "Учил его по своей «Кришна-лиламрите»."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F73"
+  ],
+  "note": "Духовный брат; потому Господь чтил его как гуру."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@ranga-puri",
+  "facts": [
+   "F74",
+   "F77"
+  ],
+  "note": "Духовный брат; узнав, что Господь — ученик Ишвары Пури, исполнился нежности."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F11",
+   "F67"
+  ],
+  "note": "Поселился в Кумарахатте у места его рождения; «Девалая» напротив Чайтанья-добы."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F68"
+  ],
+  "note": "Жил в Кумарахатте, городе его рождения."
+ },
+ {
+  "from": "@ishvara-puri",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F63"
+  ],
+  "note": "Спросил Господа, почему Ишвара Пури взял в слуги шудру."
+ },
+ {
   "from": "@jagannatha-mishra",
   "type": "father",
   "who": "@upendra-mishra",
