@@ -400,6 +400,65 @@ Shantipura with Haridasa:
 “I lay in the Ocean of Milk,” the Lord would say another time, “and My sleep was broken by the roar of Nada” (CB, Madhya
 22.16)[^20]. <!-- F69 Q8 -->
 
+## Hide-and-Seek in Nandana's House
+Soon after the Vyasa-puja the Lord, filled with the mood of the Supreme, sent Ramai Pandita, Srivasa's younger brother,
+to Shantipura: “Tell Advaita: He for whose sake He worshipped with Ganga water and tulasi, wept and fasted, has come.
+Nityananda too has come. Let Him come with His wife and with all that is needed for puja.” Ramai could not utter a word
+for joy, but to Advaita everything was already revealed: “It seems Mahaprabhu has sent for Me,” He said. Advaita, Sita
+and their companions wept with happiness and set out at once[^21]. <!-- F70 F71 -->
+
+Raising His arms, Advaita danced: “It is I who brought the Lord down!” And to Ramai He said: “My faith will grow firmer
+if He places His feet on My head. I shall hide — let Him find Me Himself.” Coming to Navadvipa, He concealed Himself in
+the house of Nandana Acharya, and told Ramai to keep silent — or to say that Advaita had refused to come. And this
+“test” too is a lila: in this way Advaita let the Lord reveal His omniscience to all. <!-- F72 -->
+
+The Lord, meanwhile, ascended the vishnu-khatta, the throne of Vishnu, in Srivasa-angana and announced: “Nara wants
+proof. Advaita is testing Me — He is hiding at Nandana's with everything He has prepared for My puja.” Nityananda held
+an umbrella over Him, Gadadhara and others served. And the Lord sent Ramai again — to Nandana's; so Advaita learned that
+there is no hiding from the Lord. <!-- F73 F74 -->
+
+Advaita and His wife prostrated themselves before the Lord from a distance, and Advaita recited hymns. A vision opened to
+Him: the Lord in radiance, in the ornaments of which the dhyana-mantras speak; four-, five- and six-faced gods pray to
+Him; Ananta shades Him with His hoods, and the whole sky is full of gods and sages. The Lord said that He had come at His
+call from His rest in the Ocean of Milk. Advaita was struck dumb; then He washed His feet and worshipped Him with the
+five offerings, panchopachara, with the mantra “namo brahmanya-devaya…”. <!-- F75 -->
+
+He worshipped the Lord with various gifts — and the Lord, fulfilling His desire, placed His feet on His head, while all
+around cried, “Jaya!” At the Lord's bidding Advaita danced, forgetting Himself, and the devotees marvelled at such a
+dance at so advanced an age. One of the biographies adds that Advaita had brought Sita with Him and was the first of all
+to worship the Lord's feet. <!-- F76 -->
+
+The Lord placed His own garland on Advaita and told Him to ask for a blessing. “For Myself I have nothing to ask,”
+Advaita answered. “But let bhakti go to people of low station: those proud of learning, wealth, birth and renunciation
+only hinder the preaching.” Advaita's desire is not for Himself: devotion is for the low, the unlearned and the fallen,
+for pride closes the way to it. <!-- F77 I5 -->
+
+## The Mahaprakasha
+From then until the Lord's sannyasa Advaita lived in Navadvipa-Mayapura and every day attended the kirtan in Srivasa's
+house. Another time, seated on the vishnu-khatta, the Lord ate all the offerings and the betel and called: “Nara!”;
+Nityananda held an umbrella over Him, and Advaita, His palms joined, recited hymns. The Lord told Him to ask for a
+blessing, for it was for His sake that He had come, and then embraced each one and wept for Krishna. <!-- F78 F79 -->
+
+In the Mahaprakasha — the great revelation that lasted seven praharas, twenty-one hours — the Lord called each of the
+devotees, told him of his past and bade him ask for what he wished. Advaita said that He had nothing to ask. Then the
+Lord reminded Him of that dream about the verse of the “Gita” — and Advaita wept, for only He knew of it. “Be merciful
+to the unlearned and the fallen,” He asked; and, growing calm, He rejoiced that the Lord would regard Him as His
+servant. <!-- F80 -->
+
+## Shantipura and the Bank of the Ganga
+Lochana Dasa in the “Chaitanya-mangala” tells of other days as well. The Lord sang kirtan in Advaita's house, and They
+embraced each other. Advaita came to Navadvipa, bowed to the Lord and danced, and at Srivasa's question the Lord
+expounded the truth about Advaita, advaita-tattva. Nityananda stayed two days as Advaita's guest, and Advaita worshipped
+the Lord in Srivasa's house. In Advaita's house the Lord told Him to preach love for Krishna without discriminating who
+is worthy of it and who is not; the devotees gathered there, and to all of them, headed by Advaita, the Lord entrusted
+the preaching. <!-- F81 Q16 -->
+
+Once, on the bank of the Ganga, Gauranga seated Gadadhara beside Himself, and Advaita performed arati to Them both.
+Before His sannyasa Mahaprabhu came more than once with Nityananda to Advaita's house in Shantipura and sang kirtan day
+and night. Parameshvari Dasa tells in a pada: the Lord sat in Advaita's temple, Nityananda and Advaita sat beside Him and
+playfully discussed the festival; Sita came in, smiling, and the Lord told them to call the Vaishnavas and prepare
+everything for kirtan. <!-- F82 F83 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -456,3 +515,4 @@ Shantipura with Haridasa:
 [^20]: According to one of the biographies, the Lord called “Nara” on the very day of Nityananda's Vyasa-puja; according
     to another, on the eve, at the adhivasa. In one of the biographies the Lord's words are referred to verses
     “CB 2.9.297–298”; correctly they are CB, Madhya 22.16 and 5.51–52.
+[^21]: One of the biographies names among the companions Advaita's son Achyutananda as well.
