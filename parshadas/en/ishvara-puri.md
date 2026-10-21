@@ -122,10 +122,10 @@ scholar and teacher. He came concealing his name, his abode and who he was, so t
 in him; and he was not dressed as sannyasis dress, so that he truly could not be recognized (CB, Adi 11.70–72).
 Chance — or rather the will of Providence — brought him to the house of Advaita Acharya. <!-- F25 Q4 -->
 
-There, where Advaita performed his puja and where people gathered to speak of Krishna's glories, the guest sat
-humbly, almost timidly, to one side. Again and again Advaita looked up from his worship and gazed at him: the radiance
-of a Vaishnava cannot be hidden from a Vaishnava, and Advaita, himself a disciple of Madhavendra, at once recognized in
-the stranger the familiar features of a godbrother. Concluding within himself that this was a pure Vaishnava, he
+There, where Advaita performed His puja and where people gathered to speak of Krishna's glories, the guest sat
+humbly, almost timidly, to one side. Again and again Advaita looked up from His worship and gazed at him: the radiance
+of a Vaishnava cannot be hidden from a Vaishnava, and Advaita, Himself a disciple of Madhavendra, at once recognized in
+the stranger the familiar features of a godbrother. Concluding within Himself that this was a pure Vaishnava, He
 approached and said humbly, “Who are you, revered sir? It seems to me that you are a Vaishnava sannyasi.”
 <!-- F26 F27 -->
 
@@ -136,8 +136,8 @@ Adi 11.76). <!-- F28 I4 -->
 
 Mukunda Datta, a constant member of the gatherings at Advaita's house, sensed that a great Vaishnava was before them
 and, to reveal him, began to sing a verse about Krishna's glory. The moment the song touched Ishvara Puri's ears, he
-fell to the ground, and tears poured from his eyes in an unceasing stream. Advaita lifted him onto his lap — and soon
-was himself drenched with his tears (CB, Adi 11.77–80). Waves of love rose in Advaita too; the devotees were struck
+fell to the ground, and tears poured from his eyes in an unceasing stream. Advaita lifted him onto His lap — and soon
+was Himself drenched with his tears (CB, Adi 11.77–80). Waves of love rose in Advaita too; the devotees were struck
 dumb with wonder and said they had never seen such a Vaishnava anywhere. Little by little they learned that this was
 Ishvara Puri, the dearest disciple of Madhavendra, and they cried out jubilantly, “Hari! Hari!” <!-- F29 F30 -->
 
