@@ -192,8 +192,8 @@ long in one place, led him on (CB, Adi 11.122–123). <!-- F43 -->
 
 ## Gaya
 Time passed, and the Lord came to Gaya to perform the gaya-shraddha for His recently departed father, Jagannatha
-Mishra. Here He unexpectedly met Ishvara Puri: no one had known beforehand that he was in Gaya — the Lord Himself had
-moved his mind to come there (CC, Adi 17.8). According to one account, having completed the rites, the Lord came to
+Mishra. Here He unexpectedly met Ishvara Puri (CC, Adi 17.8): no one had known beforehand that he was in Gaya — the Lord Himself had
+moved his mind to come there. According to one account, having completed the rites, the Lord came to
 the feet of Vishnu, drowned in love and fell unconscious; at that very moment, by higher arrangement, Ishvara Puri
 approached and, seeing Him, was struck dumb. Chandrashekhara Acharya was nearby. Coming to Himself, the Lord saw
 Ishvara Puri and bowed to him; they embraced in great joy, and the tears of each bathed the other (CB, Adi 17.49).
@@ -205,7 +205,7 @@ are not equal to you — it is you who sanctify them; they pray for the dust of 
 the ocean of existence: I give this body to you. Let Me drink to My fill the honey of Krishna's lotus feet — that is
 the gift I ask” (CB, Adi 17.50–55). <!-- F46 Q9 -->
 
-Ishvara Puri replied: “Listen, Pandita! I know for certain that You are the Lord Himself[^10]; otherwise where would
+Ishvara Puri replied: “Listen, Pandita! I know for certain that You are of the Lord Himself[^10]; otherwise where would
 such learning and such a nature come from? Last night I had a wonderful dream, and today I have obtained its fruit.
 Every moment beside You I am in the highest bliss. Since the day I saw You in Nadia I have thought of nothing else;
 seeing You, I see Krishna.” The Lord smiled and answered, “This is My great good fortune” (CB, Adi 17.56–62).
@@ -344,10 +344,11 @@ Puri as His guru, flooded the world, both material and spiritual” (GGD 25). <!
 [^9]: The “Chaitanya-bhagavata” (Adi 11.102), on the contrary, says that in Navadvipa Ishvara Puri loved Nimai without
     yet understanding that the Supreme Lord Himself was before him; compare his words in Gaya: “Since the day I saw You
     in Nadia I have thought of nothing else.”
-[^10]: In our translation of the “Chaitanya-bhagavata” (Adi 17.56) — “an expansion of the Supreme Personality of
-    Godhead”; one of the biographies renders these words as an acknowledgement of Bhagavan Himself in full, another as
-    “a deity who has descended among men.” Gaudiya Vaishnavas, following the “Charitamrita,” know Sri Chaitanya as
-    Krishna Himself, Svayam Bhagavan.
+[^10]: The original of the “Chaitanya-bhagavata” (Adi 17.56) reads *tumī ye īśvara-aṁśa*: “You are an aṁśa (part,
+    manifestation) of the Lord”; our translation has “an expansion of the Supreme Personality of Godhead.” One of the
+    biographies renders these words as an acknowledgement of Bhagavan Himself in full, another as “a deity who has
+    descended among men.” The guru speaks with restraint: the Lord is still concealing Himself in the role of a
+    disciple. Gaudiya Vaishnavas, following the “Charitamrita,” know Sri Chaitanya as Krishna Himself, Svayam Bhagavan.
 [^11]: According to one of the biographies, this meal took place after the initiation: one day Ishvara Puri came to
     the Lord, and He begged him to stay for a meal, cooked and fed him Himself, anointed him with sandalwood and
     offered him a garland. The “Chaitanya-bhagavata” and the other biographies place it before the initiation.
