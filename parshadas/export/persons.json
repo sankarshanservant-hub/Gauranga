@@ -1,5 +1,961 @@
 [
  {
+  "id": "@advaita",
+  "names": {
+   "ru": "Адвайта Ачарья",
+   "en": "Advaita Acharya",
+   "variants": [
+    "Шри Адвайта Прабху",
+    "Ачарья Госвами",
+    "Ачарья Госай",
+    "Камалакша (Веда-панчанана)",
+    "Камала Канта (T)",
+    "Мангала (ЧЧ Ади 6.12)",
+    "Нара (B, T) / Нада (ЧБ)",
+    "Ситапати",
+    "Адвайта-чандра"
+   ],
+   "facts": [
+    "F12",
+    "F13",
+    "F14",
+    "F15"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "panca-tattva",
+   "elders",
+   "navadvipa"
+  ],
+  "period": [
+   "P00",
+   "P01",
+   "P02",
+   "P04",
+   "P05",
+   "P07",
+   "P08",
+   "P09",
+   "P12",
+   "P13",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Лично: явление и юность в Шрихатте/Шантипуре, странствия, дикша, Харидас (P01); явление Господа (P01–P02); толь в Навадвипе, Вишварупа, Ишвара Пури (P04–P05); откровения и Навадвипа (P07); санньяса и Шантипур (P08–P09); ежегодно в Пури (P12, P14); приход Господа в Шантипур после Рамакели (P13); уход — после ухода Господа (P15; книги: T — 1559). P00 — Садашива/Маха-Вишну, причина явления.",
+  "life": {
+   "appearance": {
+    "date": "1434",
+    "tithi": "маги шукла-саптами (Адвайта-саптами); по нашему календарю — Гаура-саптами месяца Мадхава",
+    "place": "#lauda",
+    "conf": "титхи — T (и «Адвайта-пракаша», D) = календарь; год — T («Гаудия-вайшнава-абхидхана») и предание; место спорно",
+    "facts": [
+     "F19",
+     "F20",
+     "F21",
+     "F22",
+     "F23"
+    ],
+    "events": [
+     "ev-advaita-birth"
+    ],
+    "note": "Место: Наваграм (Лауда, Навограм) в Шрихатте — B, T (БР), «Абхидхана» (Лаура); Шантипур — «Према-виласа» и «некоторые жития» (B считает менее надёжным). B: в год явления Господа Адвайте было 52 (F23)."
+   },
+   "disappearance": {
+    "date": "1559",
+    "tithi": "",
+    "place": "#shantipura?",
+    "conf": "спорно",
+    "facts": [
+     "F23",
+     "F141"
+    ],
+    "events": [
+     "ev-advaita-departure"
+    ],
+    "note": "T («Гаудия-вайшнава-абхидхана»): 1559 г., в 125 лет; «Адвайта-виласа» — «век с четвертью». B и M ни даты, ни места не дают. Ушёл после Господа, раньше (M pdf 216) или вместе (M 66) с Ситой, до Кхетури. В нашем календаре дня ухода нет. lila-db: Джаянанда (C), P15."
+   }
+  },
+  "origin": {
+   "places": [
+    "#lauda",
+    "#shrihatta",
+    "#shantipura"
+   ],
+   "family": [
+    "@kuvera-pandita",
+    "@labha"
+   ],
+   "varna": "брахман; T — варендра-брахман",
+   "facts": [
+    "F16",
+    "F17",
+    "F18",
+    "F21",
+    "F24"
+   ]
+  },
+  "relations": [
+   {
+    "type": "father",
+    "who": "@kuvera-pandita",
+    "facts": [
+     "F16",
+     "F18",
+     "F20",
+     "F22",
+     "F26"
+    ],
+    "note": "Кувера Пандит; по ГГД 91 (у T) — Кубера. ⚠ В PERSONS.md есть и @kubera-acharya («Адвайта-пракаша») — вероятный дубль тега."
+   },
+   {
+    "type": "mother",
+    "who": "@labha",
+    "facts": [
+     "F17",
+     "F18",
+     "F20",
+     "F22",
+     "F26"
+    ],
+    "note": "B — Нагадеви; T и БР — Набха-деви; PERSONS — Лабха («Адвайта-пракаша»)."
+   },
+   {
+    "type": "spouse",
+    "who": "@sita-thakurani",
+    "facts": [
+     "F37",
+     "F38",
+     "F39",
+     "F46",
+     "F55",
+     "F56",
+     "F57",
+     "F60",
+     "F71",
+     "F75",
+     "F83",
+     "F102",
+     "F108",
+     "F109",
+     "F113",
+     "F120",
+     "F141"
+    ],
+    "event": "ev-advaita-marries-sita",
+    "note": "По ГГД — Йогамайя (T 18: ГГД 86; T 76: ГГД 81–84); по M (со ссылкой на B) — Паурнамаси. Брак в Пхулии (M)."
+   },
+   {
+    "type": "spouse",
+    "who": "@shri-thakurani",
+    "facts": [
+     "F37"
+    ],
+    "note": "Только T и M; по ГГД — пракаша Йогамайи (Ситы). B её не называет."
+   },
+   {
+    "type": "in-law",
+    "who": "@nrisimha-bhaduri",
+    "facts": [
+     "F37",
+     "F38"
+    ],
+    "note": "Отец Ситы и Шри (Бадури)."
+   },
+   {
+    "type": "son",
+    "who": "@achyutananda",
+    "facts": [
+     "F71",
+     "F107",
+     "F113",
+     "F116",
+     "F117",
+     "F124",
+     "F125",
+     "F126",
+     "F136",
+     "F138",
+     "F143",
+     "F144"
+    ],
+    "events": [
+     "ev-achyutananda-birth",
+     "ev-achyuta-child-meets-sannyasi-lord",
+     "ev-achyutananda-keshava-bharati-dispute"
+    ],
+    "note": "Старший; T: 1428 Шака (1506) ⚠; ученик Гададхары (ГГД, «Шакха-нирнайамрита») ≠ первый ученик Адвайты (Анубхашья)."
+   },
+   {
+    "type": "son",
+    "who": "@krishna-mishra",
+    "facts": [
+     "F136",
+     "F138",
+     "F143",
+     "F144"
+    ],
+    "event": "ev-krishna-mishra-birth",
+    "note": "Из «трёх драгоценностей»; принимал Вирачандру в Шантипуре."
+   },
+   {
+    "type": "son",
+    "who": "@gopala-dasa-advaita",
+    "facts": [
+     "F116",
+     "F131",
+     "F136",
+     "F143"
+    ],
+    "events": [
+     "ev-gopala-dasa-birth",
+     "ev-gopala-dasa-revived"
+    ],
+    "note": "Гопала Мишра; оживлён Господом у Гундичи."
+   },
+   {
+    "type": "son",
+    "who": "@balarama-mishra",
+    "facts": [
+     "F136"
+    ],
+    "event": "ev-balarama-mishra-birth",
+    "note": "По T — не признавал Чайтанью."
+   },
+   {
+    "type": "son",
+    "who": "@svarupa-mishra",
+    "facts": [
+     "F136"
+    ],
+    "event": "ev-svarupa-jagadisha-birth",
+    "note": "По T — не признавал Чайтанью."
+   },
+   {
+    "type": "son",
+    "who": "@jagadisha-mishra",
+    "facts": [
+     "F136"
+    ],
+    "event": "ev-svarupa-jagadisha-birth",
+    "note": "По T — не признавал Чайтанью."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F6",
+     "F7",
+     "F9",
+     "F44",
+     "F45",
+     "F54",
+     "F58",
+     "F63",
+     "F64",
+     "F66",
+     "F68",
+     "F69",
+     "F72",
+     "F75",
+     "F76",
+     "F77",
+     "F80",
+     "F84",
+     "F85",
+     "F86",
+     "F88",
+     "F89",
+     "F90",
+     "F91",
+     "F105",
+     "F110",
+     "F114",
+     "F115",
+     "F120",
+     "F121",
+     "F122",
+     "F126",
+     "F129",
+     "F134",
+     "F135",
+     "I2"
+    ],
+    "note": "Призвал Господа своим зовом (према-хункара); Господь чтит его как старшего (гуру), Адвайта жаждет быть слугой и наказания."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "facts": [
+     "F6",
+     "F7",
+     "F73",
+     "F79",
+     "F81",
+     "F83",
+     "F85",
+     "F86",
+     "F89",
+     "F102",
+     "F105",
+     "F115",
+     "F116",
+     "F117",
+     "F126",
+     "F133",
+     "F141",
+     "I15"
+    ],
+    "events": [
+     "ev-nityananda-visits-advaita",
+     "ev-nityananda-advaita-meal-quarrel",
+     "ev-nityananda-advaita-meeting-shantipura",
+     "ev-nityananda-advaita-kirtan-navadvipa",
+     "ev-tattva-nityananda-advaita"
+    ],
+    "note": "Два «анги» / два ствола древа Чайтаньи; их «споры» — лила (I15)."
+   },
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "facts": [
+     "F30",
+     "F31",
+     "F32",
+     "F33",
+     "F34",
+     "F36"
+    ],
+    "events": [
+     "ev-advaita-meets-madhavendra",
+     "ev-advaita-madhavendra-initiation",
+     "ev-madhavendra-puri-aradhana"
+    ],
+    "note": "Время дикши ≠: B 724 — в паломничестве до Враджа; B 734 / ЧБ Антья 4 — Мадхавендра пришёл к нему задолго до явления Господа; T / ЧЧ Мадхья 4.110–111 — на пути Мадхавендры за сандалом. Дикша — лила (F31)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "facts": [
+     "F33",
+     "F36",
+     "F62"
+    ],
+    "event": "ev-ishvara-puri-navadvipa",
+    "note": "Духовный брат (оба — ученики Мадхавендры)."
+   },
+   {
+    "type": "other",
+    "who": "@pundarika-vidyanidhi",
+    "facts": [
+     "F35"
+    ],
+    "note": "Принял дикшу у Мадхавендры одновременно с Адвайтой (по T, «считается»)."
+   },
+   {
+    "type": "guru",
+    "who": "@shanta-vedantavagisha",
+    "facts": [
+     "F25"
+    ],
+    "note": "Учитель — только по lila-db («Адвайта-пракаша», D); T («Према-виласа») — Шантачарья из Пхуллабати: тождество не установлено."
+   },
+   {
+    "type": "friend",
+    "who": "@haridasa-thakura",
+    "facts": [
+     "F47",
+     "F48",
+     "F49",
+     "F50",
+     "F51",
+     "F52",
+     "F55",
+     "F85",
+     "F86"
+    ],
+    "events": [
+     "ev-haridasa-comes-to-advaita",
+     "ev-shraddha-patra-haridasa",
+     "ev-advent-eclipse-devotees-rejoice"
+    ],
+    "note": "Шраддха-патра; совместная молитва о нисхождении Господа."
+   },
+   {
+    "type": "other",
+    "who": "@vidyapati",
+    "facts": [
+     "F27"
+    ],
+    "event": "ev-advaita-vidyapati"
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "facts": [
+     "F40",
+     "F42",
+     "F55",
+     "F68",
+     "F78",
+     "F86",
+     "F87",
+     "F94",
+     "F97",
+     "F99"
+    ],
+    "note": "Вождь вайшнавов во главе со Шривасой; см. @srivasa F125."
+   },
+   {
+    "type": "other",
+    "who": "@srirama-pandita",
+    "facts": [
+     "F70",
+     "F71",
+     "F72",
+     "F74"
+    ],
+    "event": "ev-advaita-comes-to-navadvipa",
+    "note": "Рамай Пандит — вестник Господа к Адвайте."
+   },
+   {
+    "type": "host",
+    "who": "@nandana-acharya",
+    "facts": [
+     "F72",
+     "F73",
+     "F74",
+     "F86",
+     "F87"
+    ],
+    "note": "Адвайта прятался в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "facts": [
+     "F54",
+     "F55",
+     "F57",
+     "F60",
+     "F93",
+     "F94",
+     "F95",
+     "F96",
+     "F109",
+     "F112",
+     "F127",
+     "F130"
+    ],
+    "events": [
+     "ev-advaita-worships-shachi-womb",
+     "ev-shachi-receives-prema"
+    ],
+    "note": "«Апарадха» Шачи — игра ради урока (F96)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-mishra",
+    "facts": [
+     "F54",
+     "F55",
+     "F60"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@vishvarupa",
+    "facts": [
+     "F59",
+     "F60"
+    ],
+    "note": "Учился в толе Адвайты, проводил дни в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "facts": [
+     "F66",
+     "F82",
+     "F119",
+     "F138"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta",
+    "facts": [
+     "F61",
+     "F62"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya",
+    "facts": [
+     "F42",
+     "F99",
+     "F103"
+    ]
+   },
+   {
+    "type": "opposed",
+    "who": "@chand-kazi",
+    "facts": [
+     "F101"
+    ],
+    "event": "ev-nagara-kirtana-kazi"
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "facts": [
+     "F124",
+     "F125"
+    ],
+    "event": "ev-achyutananda-keshava-bharati-dispute",
+    "note": "«Гуру ли Он Господу?» — спор с Ачьютой."
+   },
+   {
+    "type": "patron",
+    "who": "@raghunatha-dasa",
+    "facts": [
+     "F128"
+    ],
+    "event": "ev-raghunatha-dasa-shantipura",
+    "note": "Адвайта — покровитель: представил юношу Господу, дал остатки трапезы."
+   },
+   {
+    "type": "served-by",
+    "who": "@govardhana-majumdar",
+    "facts": [
+     "F128"
+    ],
+    "note": "Отец Рагхунатхи даса, служил Адвайте дарами."
+   },
+   {
+    "type": "disciple",
+    "who": "@kamalakanta-vishvasa",
+    "facts": [
+     "F132",
+     "F140"
+    ],
+    "event": "ev-kamalakanta-letter-prataparudra"
+   },
+   {
+    "type": "disciple",
+    "who": "@yadunandana-acharya",
+    "facts": [
+     "F140"
+    ],
+    "note": "Гуру Рагхунатхи даса; близкий ученик Адвайты (T)."
+   },
+   {
+    "type": "disciple",
+    "who": "@srinatha-chakravarti",
+    "facts": [
+     "F140"
+    ],
+    "note": "«Подветвь Адвайты»; гуру Кави Карнапуры (T)."
+   },
+   {
+    "type": "other",
+    "who": "@padmanabha-chakravarti",
+    "facts": [
+     "F140"
+    ],
+    "note": "Отец Локанатхи; «дорогой последователь Адвайты» (M)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "facts": [
+     "F116",
+     "F118",
+     "F135"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "facts": [
+     "F135"
+    ],
+    "event": "ev-advaita-tarja"
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F133"
+    ],
+    "note": "По просьбе Господа благословил Рупу; ЧБ: Господь велел Рупе и Санатане просить бхакти у стоп Адвайты (@rupa-gosvami F63)."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "facts": [
+     "F102",
+     "F141",
+     "F143"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@vasudha",
+    "facts": [
+     "F102"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "facts": [
+     "F141",
+     "F142"
+    ],
+    "events": [
+     "ev-srinivasa-dream-nitai-advaita",
+     "ev-srinivasa-shantipura"
+    ],
+    "note": "После ухода явился ему во сне; велел жениться."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "facts": [
+     "F143",
+     "F144",
+     "F147"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "facts": [
+     "F144"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@vamshivadana",
+    "facts": [
+     "F123"
+    ],
+    "note": "M: при его рождении были Господь и Адвайта."
+   },
+   {
+    "type": "deity-served",
+    "who": "@madana-gopala-deity",
+    "events": [
+     "ev-advaita-madana-mohana",
+     "ev-advaita-entrusts-madana-gopala"
+    ],
+    "note": "Только lila-db («Адвайта-пракаша», D); в трёх книгах нет (BF120)."
+   }
+  ],
+  "unnamed": [
+   {
+    "who": "санньяси, спросивший о Кешаве Бхарати (только B)",
+    "type": "met",
+    "facts": [
+     "F124",
+     "F125"
+    ]
+   },
+   {
+    "who": "Шантачарья из Пхуллабати, учитель («Према-виласа», у T)",
+    "type": "guru",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "who": "«Нрисимха, сын Адвайты» в Рамакели (только M, ⚠)",
+    "type": "son",
+    "facts": [
+     "F139"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "Маха-Вишну (Каранодакашайи), пуруша-аватара; «Адвайта» — неотличен от Хари; бхакта-аватара Панча-таттвы",
+    "source": "ЧЧ Ади 1.12–13 (Сварупа Дамодара); ЧЧ Ади 6; Бхактисиддханта (Анубхашья)",
+    "level": "A",
+    "facts": [
+     "F1",
+     "F2",
+     "F4",
+     "F5",
+     "F6",
+     "F13",
+     "Q4"
+    ],
+    "events": [
+     "ev-tattva-nityananda-advaita",
+     "ev-tattva-pancha-tattva"
+    ],
+    "variants": [
+     "Бхактивинода: в прадхане — в облике Рудры, «второе тождество — Адвайта» (F4)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Садашива; во Врадже двояк — Шива и пастушок, танцующий с Кришной",
+    "source": "ГГД 76–80 («Шива-тантра»)",
+    "level": "B",
+    "facts": [
+     "F3",
+     "Q3"
+    ],
+    "variants": [
+     "«Чайтанья-мангала» Лочана: Шива пришёл как Адвайта (F3).",
+     "B о Садашиве не говорит (F1)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "один из двух «анги» (вторичных стволов древа) Шри Чайтаньи, наряду с Нитьянандой",
+    "source": "ЧЧ Ади 9.21; Ади 12.3",
+    "level": "A",
+    "facts": [
+     "F7"
+    ]
+   }
+  ],
+  "events": [
+   "ev-advaita-advent-cause",
+   "ev-advaita-birth",
+   "ev-advaita-parents-departure",
+   "ev-advaita-pilgrimage",
+   "ev-advaita-vidyapati",
+   "ev-advaita-madana-mohana",
+   "ev-advaita-meets-madhavendra",
+   "ev-advaita-madhavendra-initiation",
+   "ev-advaita-marries-sita",
+   "ev-haridasa-comes-to-advaita",
+   "ev-shraddha-patra-haridasa",
+   "ev-advaita-calls-lord",
+   "ev-advaita-tol-navadvipa",
+   "ev-advaita-worships-shachi-womb",
+   "ev-gaura-appearance",
+   "ev-advent-eclipse-devotees-rejoice",
+   "ev-sita-visits-newborn",
+   "ev-achyutananda-birth",
+   "ev-vishvarupa-sannyasa",
+   "ev-ishvara-puri-navadvipa",
+   "ev-advaita-gita-dream",
+   "ev-shrivasa-sees-chaturbhuja",
+   "ev-visit-advaita",
+   "ev-advaita-comes-to-navadvipa",
+   "ev-nityananda-vyasa-puja",
+   "ev-nityananda-visits-advaita",
+   "ev-advaita-yoga-vasishtha-beating",
+   "ev-shachi-receives-prema",
+   "ev-vishvarupa-shown-advaita",
+   "ev-mahaprakasha-abhisheka",
+   "ev-advaita-steals-foot-dust",
+   "ev-jump-into-ganga",
+   "ev-nagara-kirtana-kazi",
+   "ev-chandrashekhara-drama",
+   "ev-kirtan-festival-advaita-house",
+   "ev-sannyasa-katwa",
+   "ev-advaita-boat-ganga-vrindavana",
+   "ev-advaita-feast-shantipura",
+   "ev-shantipura-reunion",
+   "ev-achyuta-child-meets-sannyasi-lord",
+   "ev-farewell-shantipura",
+   "ev-gauda-devotees-set-out-puri",
+   "ev-gauda-devotees-arrive-puri",
+   "ev-gundicha-marjana",
+   "ev-gopala-dasa-revived",
+   "ev-ratha-yatra-gundicha",
+   "ev-advaita-gaura-kirtan",
+   "ev-advaita-feeds-lord-hailstorm",
+   "ev-gauda-devotees-come-with-wives",
+   "ev-shantipura-after-natashala",
+   "ev-achyutananda-keshava-bharati-dispute",
+   "ev-madhavendra-puri-aradhana",
+   "ev-raghunatha-dasa-shantipura",
+   "ev-lord-debt-gauda-devotees",
+   "ev-kamalakanta-letter-prataparudra",
+   "ev-advaita-tarja",
+   "ev-nityananda-marriage",
+   "ev-advaita-entrusts-madana-gopala",
+   "ev-advaita-departure",
+   "ev-advaita-followers-split",
+   "ev-srinivasa-dream-nitai-advaita",
+   "ev-srinivasa-shantipura",
+   "ev-kheturi-festival",
+   "ev-tattva-nityananda-advaita"
+  ],
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [
+   {
+    "title": "песня во славу Шри Чайтаньи, сочинённая для киртана в Пури (B)",
+    "facts": [
+     "F122"
+    ]
+   },
+   {
+    "title": "загадка (тарджа) Господу через Джагадананду",
+    "facts": [
+     "F135"
+    ],
+    "event": "ev-advaita-tarja"
+   }
+  ],
+  "places": [
+   "#lauda",
+   "#shrihatta",
+   "#shantipura",
+   "#gaya",
+   "#mithila",
+   "#vrindavana",
+   "#advaita-vata",
+   "#phulia",
+   "#navadvipa",
+   "#advaita-bhavana",
+   "#house-srivasa",
+   "#house-nandana-acharya",
+   "#katwa",
+   "#puri",
+   "#atharanala",
+   "#narendra-sarovara",
+   "#gundicha",
+   "#tota",
+   "#ramakeli",
+   "#kulia",
+   "#kumarahatta",
+   "#kheturi",
+   "#mayapur"
+  ],
+  "places_facts": [
+   "F21",
+   "F24",
+   "F26",
+   "F27",
+   "F28",
+   "F29",
+   "F38",
+   "F40",
+   "F48",
+   "F68",
+   "F72",
+   "F103",
+   "F105",
+   "F115",
+   "F117",
+   "F119",
+   "F123",
+   "F143",
+   "F145"
+  ],
+  "character": [
+   {
+    "trait": "сострадание к людям Кали, ради которых он «дерзким» зовом низвёл Господа",
+    "facts": [
+     "F44",
+     "F45",
+     "F47",
+     "F51",
+     "I2"
+    ]
+   },
+   {
+    "trait": "смирение слуги: страдает от почтения Господа и ищет наказания",
+    "facts": [
+     "F84",
+     "F85",
+     "F88",
+     "F90",
+     "F91",
+     "I6"
+    ]
+   },
+   {
+    "trait": "бесстрашие: громкий киртан вопреки угрозам, шраддха-патра Харидасу, киртан во славу Гауры",
+    "facts": [
+     "F47",
+     "F50",
+     "F122",
+     "I3",
+     "I10"
+    ]
+   },
+   {
+    "trait": "непостижимость поступков-«проверок» (прятался, «не узнавал»)",
+    "facts": [
+     "F58",
+     "F67",
+     "F72",
+     "I4"
+    ]
+   },
+   {
+    "trait": "просит бхакти не для себя, а для низких и падших",
+    "facts": [
+     "F77",
+     "F80",
+     "I5"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F1",
+    "F7",
+    "F9",
+    "F10",
+    "F11",
+    "F45",
+    "F46",
+    "I1",
+    "I2",
+    "I10",
+    "I13"
+   ]
+  },
+  "sources": {
+   "T": "16–24 (глава); упоминания: pdf 2, 15; 4–5, 7, 10, 14, 25, 27–31, 34–38, 40, 45, 48–53, 60, 62, 68, 70, 76–78, 80, 89, 104–106, 111, 129–134, 138, 140–141, 158, 163, 180–181, 185, 193, 197, 204, 206–207, 209, 256, 269, 295",
+   "M": "отдельной главы нет; глава о Сите 216–220; упоминания: pdf 7, 22, 41, 67, 81, 96, 123, 128, 130, 144, 157, 163, 189–190, 215–216, 281, 294, 296, 299; 56, 64, 66, 81, 86–88, 96, 221–222, 227–228",
+   "B": "723–739 (глава «Шри Адвайта Ачарья»); вне главы — через реестры других лиц",
+   "other": [
+    "ЧЧ Ади 1.12–13, 3, 6, 7, 9, 10, 12, 13, 17",
+    "ЧЧ Мадхья 1, 3, 4, 10–14, 16",
+    "ЧЧ Антья 3, 7, 10, 12, 19",
+    "ЧБ Ади 2, 9, 11",
+    "ЧБ Мадхья 2, 5, 6, 9, 10, 17–19, 22–24",
+    "ЧБ Антья 1, 4, 8, 9",
+    "ГГД 76–80, 81–86, 91",
+    "БР 5, 10, 12",
+    "«Чайтанья-мангала» Лочана (по M)",
+    "«Према-виласа», «Адвайта-виласа», «Гаудия-вайшнава-абхидхана» (по T)",
+    "lila-db: «Адвайта-пракаша» (D), Джаянанда (C)"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/advaita.md",
+   "en": "parshadas/en/advaita.md"
+  },
+  "open_questions": [
+   "Мать: Нагадеви (B) / Набха-деви (T, БР) / Лабха («Адвайта-пракаша») (F17); отец — дубль тегов @kuvera-pandita / @kubera-acharya (F16).",
+   "Место рождения: Наваграм-Лауда в Шрихатте / Шантипур (F21); учитель — Шантачарья (Пхуллабати) или Шанта Ведантавагиша (Пурнавати) (F25).",
+   "Время и обстоятельства дикши у Мадхавендры: три версии (F30); «джнянавада» до дикши — B, ⚠ лила (F32).",
+   "Прыжок Господа в Гангу: из-за пыли со стоп (B) или из-за слов «иссушил прему» (T, ЧБ Мадхья 17) (F85, F86).",
+   "Шачи-апарадха: просьба о преме (B) или о даршане в Махапракашу (T); кто пришёл к кому (F94, F95).",
+   "Хронология B против ЧЧ/ЧБ: Кази «после санньясы» (F101); кто послал Чандрашекхару (F103); путь в Шантипур (F105); Рамакели до/после Шантипура (F123); первый приход в Пури — через год или три (F112).",
+   "Ответ Адвайты Ачьюте: стыд и просьба о прощении (B, ЧБ) ≠ радость (ЧЧ Ади 12.17) (F125). Кто ответил «солнце не закрыть рукой» (F122).",
+   "Стряпня: в Шантипуре — Сита (T, M) / Шачи (B); в Пури — Адвайта (B, T) / Сита (M) (F108, F120).",
+   "Сыновья: шесть (T) / три (M) / один (B); «Нрисимха, сын Адвайты» (M) (F136, F139). Год рождения Ачьюты (F138).",
+   "Уход: 1559 г., 125 лет — только T; ни места, ни титхи; в нашем календаре дня ухода нет (F23, F141).",
+   "Богословские сноски: F1/F3 (Маха-Вишну и Садашива), F31–F32 (дикша и «джнянавада» — лила), F58/F67/F72 («не узнал», «проверка»), F92 (Йога-васиштха), F96 (апарадха Шачи)."
+  ]
+ },
+ {
   "id": "@bhakti-ballabha-tirtha",
   "names": {
    "ru": "Свами Бхакти Валлабха Тиртха Махарадж",

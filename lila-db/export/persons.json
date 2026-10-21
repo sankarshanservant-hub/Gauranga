@@ -4089,6 +4089,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "companion"
    },
@@ -7438,6 +7442,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -7925,6 +7933,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "neighbor"
    },
@@ -8037,6 +8049,10 @@
    "ev-nityananda-marriage"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@ishvara-puri",
     "type": "disciple"
@@ -10543,6 +10559,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "companion"
+   },
+   {
     "from": "@bhaktivedanta-svami",
     "type": "other"
    },
@@ -11580,6 +11600,312 @@
    "ev-pancha-tattva-prema-flood",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Садашива (ГГД 76–80) и др.; гуру — Мадхавендра Пури, Шанта Ведантавагиша; происхождение — Лауда (Навограм); явление — маги шукла-саптами",
+  "card": "parshadas/cards/advaita.yaml",
+  "article": {
+   "ru": "parshadas/ru/advaita.md",
+   "en": "parshadas/en/advaita.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "panca-tattva",
+   "elders",
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1434",
+    "tithi": "маги шукла-саптами (Адвайта-саптами); по нашему календарю — Гаура-саптами месяца Мадхава",
+    "place": "#lauda",
+    "conf": "титхи — T (и «Адвайта-пракаша», D) = календарь; год — T («Гаудия-вайшнава-абхидхана») и предание; место спорно",
+    "facts": [
+     "F19",
+     "F20",
+     "F21",
+     "F22",
+     "F23"
+    ],
+    "events": [
+     "ev-advaita-birth"
+    ],
+    "note": "Место: Наваграм (Лауда, Навограм) в Шрихатте — B, T (БР), «Абхидхана» (Лаура); Шантипур — «Према-виласа» и «некоторые жития» (B считает менее надёжным). B: в год явления Господа Адвайте было 52 (F23)."
+   },
+   "disappearance": {
+    "date": "1559",
+    "tithi": "",
+    "place": "#shantipura?",
+    "conf": "спорно",
+    "facts": [
+     "F23",
+     "F141"
+    ],
+    "events": [
+     "ev-advaita-departure"
+    ],
+    "note": "T («Гаудия-вайшнава-абхидхана»): 1559 г., в 125 лет; «Адвайта-виласа» — «век с четвертью». B и M ни даты, ни места не дают. Ушёл после Господа, раньше (M pdf 216) или вместе (M 66) с Ситой, до Кхетури. В нашем календаре дня ухода нет. lila-db: Джаянанда (C), P15."
+   }
+  },
+  "works": [
+   {
+    "title": "песня во славу Шри Чайтаньи, сочинённая для киртана в Пури (B)",
+    "facts": [
+     "F122"
+    ]
+   },
+   {
+    "title": "загадка (тарджа) Господу через Джагадананду",
+    "facts": [
+     "F135"
+    ],
+    "event": "ev-advaita-tarja"
+   }
+  ],
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "Маха-Вишну (Каранодакашайи), пуруша-аватара; «Адвайта» — неотличен от Хари; бхакта-аватара Панча-таттвы",
+    "source": "ЧЧ Ади 1.12–13 (Сварупа Дамодара); ЧЧ Ади 6; Бхактисиддханта (Анубхашья)",
+    "level": "A",
+    "variants": [
+     "Бхактивинода: в прадхане — в облике Рудры, «второе тождество — Адвайта» (F4)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Садашива; во Врадже двояк — Шива и пастушок, танцующий с Кришной",
+    "source": "ГГД 76–80 («Шива-тантра»)",
+    "level": "B",
+    "variants": [
+     "«Чайтанья-мангала» Лочана: Шива пришёл как Адвайта (F3).",
+     "B о Садашиве не говорит (F1)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "один из двух «анги» (вторичных стволов древа) Шри Чайтаньи, наряду с Нитьянандой",
+    "source": "ЧЧ Ади 9.21; Ади 12.3",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@kuvera-pandita",
+    "note": "Кувера Пандит; по ГГД 91 (у T) — Кубера. ⚠ В PERSONS.md есть и @kubera-acharya («Адвайта-пракаша») — вероятный дубль тега."
+   },
+   {
+    "type": "mother",
+    "who": "@labha",
+    "note": "B — Нагадеви; T и БР — Набха-деви; PERSONS — Лабха («Адвайта-пракаша»)."
+   },
+   {
+    "type": "spouse",
+    "who": "@sita-thakurani",
+    "note": "По ГГД — Йогамайя (T 18: ГГД 86; T 76: ГГД 81–84); по M (со ссылкой на B) — Паурнамаси. Брак в Пхулии (M)."
+   },
+   {
+    "type": "spouse",
+    "who": "@shri-thakurani",
+    "note": "Только T и M; по ГГД — пракаша Йогамайи (Ситы). B её не называет."
+   },
+   {
+    "type": "in-law",
+    "who": "@nrisimha-bhaduri",
+    "note": "Отец Ситы и Шри (Бадури)."
+   },
+   {
+    "type": "son",
+    "who": "@achyutananda",
+    "note": "Старший; T: 1428 Шака (1506) ⚠; ученик Гададхары (ГГД, «Шакха-нирнайамрита») ≠ первый ученик Адвайты (Анубхашья)."
+   },
+   {
+    "type": "son",
+    "who": "@krishna-mishra",
+    "note": "Из «трёх драгоценностей»; принимал Вирачандру в Шантипуре."
+   },
+   {
+    "type": "son",
+    "who": "@gopala-dasa-advaita",
+    "note": "Гопала Мишра; оживлён Господом у Гундичи."
+   },
+   {
+    "type": "son",
+    "who": "@balarama-mishra",
+    "note": "По T — не признавал Чайтанью."
+   },
+   {
+    "type": "son",
+    "who": "@svarupa-mishra",
+    "note": "По T — не признавал Чайтанью."
+   },
+   {
+    "type": "son",
+    "who": "@jagadisha-mishra",
+    "note": "По T — не признавал Чайтанью."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Призвал Господа своим зовом (према-хункара); Господь чтит его как старшего (гуру), Адвайта жаждет быть слугой и наказания."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Два «анги» / два ствола древа Чайтаньи; их «споры» — лила (I15)."
+   },
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "note": "Время дикши ≠: B 724 — в паломничестве до Враджа; B 734 / ЧБ Антья 4 — Мадхавендра пришёл к нему задолго до явления Господа; T / ЧЧ Мадхья 4.110–111 — на пути Мадхавендры за сандалом. Дикша — лила (F31)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "note": "Духовный брат (оба — ученики Мадхавендры)."
+   },
+   {
+    "type": "other",
+    "who": "@pundarika-vidyanidhi",
+    "note": "Принял дикшу у Мадхавендры одновременно с Адвайтой (по T, «считается»)."
+   },
+   {
+    "type": "guru",
+    "who": "@shanta-vedantavagisha",
+    "note": "Учитель — только по lila-db («Адвайта-пракаша», D); T («Према-виласа») — Шантачарья из Пхуллабати: тождество не установлено."
+   },
+   {
+    "type": "friend",
+    "who": "@haridasa-thakura",
+    "note": "Шраддха-патра; совместная молитва о нисхождении Господа."
+   },
+   {
+    "type": "other",
+    "who": "@vidyapati"
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Вождь вайшнавов во главе со Шривасой; см. @srivasa F125."
+   },
+   {
+    "type": "other",
+    "who": "@srirama-pandita",
+    "note": "Рамай Пандит — вестник Господа к Адвайте."
+   },
+   {
+    "type": "host",
+    "who": "@nandana-acharya",
+    "note": "Адвайта прятался в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "«Апарадха» Шачи — игра ради урока (F96)."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-mishra"
+   },
+   {
+    "type": "other",
+    "who": "@vishvarupa",
+    "note": "Учился в толе Адвайты, проводил дни в его доме."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta"
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya"
+   },
+   {
+    "type": "opposed",
+    "who": "@chand-kazi"
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "«Гуру ли Он Господу?» — спор с Ачьютой."
+   },
+   {
+    "type": "patron",
+    "who": "@raghunatha-dasa",
+    "note": "Адвайта — покровитель: представил юношу Господу, дал остатки трапезы."
+   },
+   {
+    "type": "served-by",
+    "who": "@govardhana-majumdar",
+    "note": "Отец Рагхунатхи даса, служил Адвайте дарами."
+   },
+   {
+    "type": "disciple",
+    "who": "@kamalakanta-vishvasa"
+   },
+   {
+    "type": "disciple",
+    "who": "@yadunandana-acharya",
+    "note": "Гуру Рагхунатхи даса; близкий ученик Адвайты (T)."
+   },
+   {
+    "type": "disciple",
+    "who": "@srinatha-chakravarti",
+    "note": "«Подветвь Адвайты»; гуру Кави Карнапуры (T)."
+   },
+   {
+    "type": "other",
+    "who": "@padmanabha-chakravarti",
+    "note": "Отец Локанатхи; «дорогой последователь Адвайты» (M)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara"
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "По просьбе Господа благословил Рупу; ЧБ: Господь велел Рупе и Санатане просить бхакти у стоп Адвайты (@rupa-gosvami F63)."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava"
+   },
+   {
+    "type": "other",
+    "who": "@vasudha"
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "После ухода явился ему во сне; велел жениться."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa"
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra"
+   },
+   {
+    "type": "other",
+    "who": "@vamshivadana",
+    "note": "M: при его рождении были Господь и Адвайта."
+   },
+   {
+    "type": "deity-served",
+    "who": "@madana-gopala-deity",
+    "note": "Только lila-db («Адвайта-пракаша», D); в трёх книгах нет (BF120)."
+   }
+  ],
   "related_by": [
    {
     "from": "@gadadhara-pandita",
@@ -11759,6 +12085,10 @@
    "ev-tattva-nityananda-advaita"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "spouse"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "other"
@@ -12603,6 +12933,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@bhaktivinoda",
     "type": "other"
@@ -13570,6 +13904,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -14033,6 +14371,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "friend"
+   },
    {
     "from": "@nityananda",
     "type": "co-worker"
@@ -14707,6 +15049,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "friend"
    },
@@ -15380,6 +15726,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -16001,6 +16351,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "siksha-guru"
    },
@@ -16374,6 +16728,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "guru"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
    },
@@ -16511,6 +16869,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
@@ -17986,6 +18348,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -19101,6 +19467,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
@@ -21613,7 +21983,7 @@
   "id": "@srirama-pandita",
   "ru": "Шри Рама Пандит",
   "en": "Sri Rama Pandita",
-  "note": "младший брат Шривасы",
+  "note": "младший брат Шривасы; Рамай (Рамаи) Пандит — вестник Господа к Адвайте (ЧБ Мадхья 6)",
   "section": "Спутники",
   "lilas": [
    "cb-0016",
@@ -21701,6 +22071,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "sibling"
    }
@@ -21753,6 +22127,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "host"
+   },
    {
     "from": "@nityananda",
     "type": "host"
@@ -21953,6 +22331,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -24381,6 +24763,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "son"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "disciple"
    },
@@ -25201,6 +25587,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "guru"
@@ -26037,6 +26427,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "patron"
+   },
    {
     "from": "@bhugarbha",
     "type": "met"
@@ -27185,6 +27579,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "met"
    },
@@ -27705,6 +28103,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "met"
    },
@@ -27811,6 +28213,10 @@
    "ev-tattva-nityananda-advaita"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@gauridasa-pandita",
     "type": "niece"
@@ -28251,6 +28657,12 @@
    "ev-advaita-parents-departure",
    "ev-advaita-meets-madhavendra",
    "ev-tattva-nityananda-advaita"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "mother"
+   }
   ]
  },
  {
@@ -28301,6 +28713,12 @@
   "events": [
    "ev-advaita-studies-shantipura",
    "ev-advaita-lotus-miracle"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "guru"
+   }
   ]
  },
  {
@@ -28324,6 +28742,12 @@
    "ev-last-twelve-years-gambhira",
    "ev-gambhira-divine-madness",
    "ev-narottama-bhajana-kheturi"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   }
   ]
  },
  {
@@ -28382,6 +28806,12 @@
   "events": [
    "ev-sita-appearance-lotus",
    "ev-advaita-marries-sita"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "in-law"
+   }
   ]
  },
  {
@@ -28403,6 +28833,12 @@
    "ev-advaita-marries-sita",
    "ev-sita-initiation",
    "ev-krishna-mishra-birth"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "spouse"
+   }
   ]
  },
  {
@@ -28432,6 +28868,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "disciple"
+   },
    {
     "from": "@raghunatha-dasa",
     "type": "guru"
@@ -28476,6 +28916,12 @@
    "ev-katwa-khanda-memorial-festivals",
    "ev-narottama-sacred-thread",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "son"
+   }
   ]
  },
  {
@@ -28520,6 +28966,12 @@
    "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart",
    "ev-narottama-sacred-thread"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "son"
+   }
   ]
  },
  {
@@ -28791,6 +29243,12 @@
    "ev-lokanatha-comes-to-advaita",
    "ev-east-bengal-tour",
    "ev-lokanatha-sent-to-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   }
   ]
  },
  {
@@ -28865,6 +29323,12 @@
    "ev-balarama-mishra-birth",
    "ev-advaita-entrusts-madana-gopala",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "son"
+   }
   ]
  },
  {
@@ -28880,6 +29344,12 @@
   "events": [
    "ev-svarupa-jagadisha-birth",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "son"
+   }
   ]
  },
  {
@@ -28897,6 +29367,12 @@
    "ev-svarupa-jagadisha-birth",
    "ev-advaita-entrusts-madana-gopala",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "son"
+   }
   ]
  },
  {
@@ -30744,6 +31220,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "met"
    },
@@ -31005,6 +31485,10 @@
    "ev-jahnava-kheturi"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@saranga-thakura",
     "type": "other"
@@ -31365,6 +31849,10 @@
    "ev-narottama-branches"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "other"
+   },
    {
     "from": "@bhaktivinoda",
     "type": "other"
@@ -35273,6 +35761,12 @@
   "events": [
    "ev-advaita-birth",
    "ev-tattva-nityananda-advaita"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "father"
+   }
   ]
  },
  {
@@ -38032,6 +38526,12 @@
    "ev-sanatana-kashi-instruction",
    "ev-advaita-entrusts-madana-gopala",
    "ev-advaita-departure"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "deity-served"
+   }
   ]
  },
  {
@@ -41022,6 +41522,10 @@
   ],
   "related_by": [
    {
+    "from": "@advaita",
+    "type": "opposed"
+   },
+   {
     "from": "@nityananda",
     "type": "opposed"
    },
@@ -42373,6 +42877,12 @@
   "events": [
    "ev-advaita-yoga-vasishtha-beating",
    "ev-kamalakanta-letter-prataparudra"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -42970,6 +43480,12 @@
   ],
   "events": [
    "ev-advaita-name-digvijayi"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -43049,6 +43565,10 @@
    "ev-raghunatha-dasa-joins-lord"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "served-by"
+   },
    {
     "from": "@raghunatha-dasa",
     "type": "father"
