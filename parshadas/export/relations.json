@@ -476,6 +476,235 @@
   "note": "Песня Лочана даса «парама каруна» была ему особенно дорога (M)."
  },
  {
+  "from": "@bhaktivinoda",
+  "type": "siksha-guru",
+  "who": "@jagannatha-dasa-babaji",
+  "facts": [
+   "F74",
+   "F85",
+   "F88",
+   "F92",
+   "F93",
+   "F94",
+   "F131",
+   "F133",
+   "F134",
+   "F135",
+   "F136",
+   "F137",
+   "F138",
+   "F139",
+   "F140",
+   "F141",
+   "F167",
+   "F168",
+   "F170",
+   "F175",
+   "F176",
+   "F177",
+   "F189"
+  ],
+  "note": "Встреча во Вриндаване (1880); наставления с 1885; Амладжора; указал место явления; Гиридхари-шила; «линия Бхактивиноды выросла из его тела и трудов». Формально дикша-гуру в книгах не назван."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "son",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F17",
+   "F67",
+   "F69",
+   "F75",
+   "F78",
+   "F101",
+   "F102",
+   "F104",
+   "F107",
+   "F116",
+   "F117",
+   "F118",
+   "F119",
+   "F144",
+   "F145",
+   "F146",
+   "F147",
+   "F148",
+   "F149",
+   "F150",
+   "F151",
+   "F154",
+   "F180",
+   "F181",
+   "F182"
+  ],
+  "note": "Родился в Пури 6.02.1874; харинама и Нрисимха-мантра от отца; дикша от Гауракишоры по велению отца; продолжатель «потока Бхактивиноды»."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "siksha-disciple",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F185",
+   "F191",
+   "F188"
+  ],
+  "note": "«Вибху» — шикша-гуру Бхактисиддханты."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "spouse",
+  "who": "@bhagavati-devi",
+  "facts": [
+   "F46",
+   "F121",
+   "F157",
+   "F193"
+  ],
+  "note": "Второй брак (Миднапур); мать Бхактисиддханты; ушла в ту же титхи через шесть лет (23.06.1920)."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "companion",
+  "who": "@gaurakishora-dasa-babaji",
+  "facts": [
+   "F103",
+   "F142",
+   "F186",
+   "F187",
+   "F190",
+   "F191",
+   "F192",
+   "F193",
+   "F194",
+   "F196",
+   "F198"
+  ],
+  "note": "«Прабху» и «Вибху» — два гуру Бхактисиддханты, «из одного вещества»; см. реестр @gaurakishora-dasa-babaji."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "disciple",
+  "who": "@bhakti-pradipa-tirtha",
+  "facts": [
+   "F111",
+   "F113",
+   "F159"
+  ],
+  "note": "Посвящён в Годруме (1910); священный шнур по «Сат-крия-сара-дипике»."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "disciple",
+  "who": "@krishnadasa-babaji",
+  "facts": [
+   "F112",
+   "F179"
+  ],
+  "note": "Дикша и бабаджи-веша; служил ему до ухода."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "siksha-disciple",
+  "who": "@manindra-chandra-nandi",
+  "facts": [
+   "F106",
+   "F151"
+  ]
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F15",
+   "F123",
+   "F124",
+   "F166"
+  ],
+  "note": "Автор санскритских гимнов в его честь (1936, 1939), комментария к «Шаранагати»."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F13",
+   "F66",
+   "F72"
+  ],
+  "note": "Вернул дом в Пури (1974); «переводите книги Бхактивиноды»."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F17",
+   "F60",
+   "F120",
+   "F124",
+   "F125"
+  ],
+  "note": "Ушёл в его день; явил служение Гададхаре-Гауранге; «не отличен от Гаура-шакти Гададхары» (= @gadadhara-pandita:F95)."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F98",
+   "F99",
+   "F131",
+   "F170"
+  ],
+  "note": "Установил Божества Гауры-Вишнуприи в Майяпуре (21.03.1894); через него разошёлся день её явления."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F170"
+  ],
+  "note": "Установил Гауру-Вишнуприю, следуя Нароттаме."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@krishnananda-datta",
+  "facts": [
+   "F20"
+  ],
+  "note": "⚠ Не он: предок Бхактивиноды — другой Кришнананда Датта (раджа, у которого гостил Нитьянанда), не отец Нароттамы."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@shiva",
+  "facts": [
+   "F82"
+  ],
+  "note": "Сон в Таракешваре (1887): «что ты сделал в Навадвипе?»"
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@vamshidasa-babaji",
+  "facts": [
+   "F152"
+  ],
+  "note": "Познакомил с ним сына."
+ },
+ {
+  "from": "@bhaktivinoda",
+  "type": "other",
+  "who": "@bhakti-pramoda-puri",
+  "facts": [
+   "F166"
+  ],
+  "note": "Узнал его «Саджджана-тошани» через Бхакти Ратну."
+ },
+ {
   "from": "@bhugarbha",
   "type": "guru",
   "who": "@gadadhara-pandita",

@@ -8581,6 +8581,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhaktivinoda",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -12571,6 +12575,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@bhaktivinoda",
+    "type": "other"
+   },
    {
     "from": "@bhugarbha",
     "type": "guru"
@@ -31102,6 +31110,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhaktivinoda",
+    "type": "other"
+   },
+   {
     "from": "@bhugarbha",
     "type": "siksha-disciple"
    },
@@ -31953,6 +31965,10 @@
    "ev-narasimha-raya-conversion"
   ],
   "related_by": [
+   {
+    "from": "@bhaktivinoda",
+    "type": "other"
+   },
    {
     "from": "@narahari-sarakara",
     "type": "other"
@@ -35393,6 +35409,214 @@
   "section": "Спутники",
   "lilas": [],
   "events": [],
+  "summary": "в Кришна-лиле — Камала-манджари, служанка Рупа-манджари в свите… (его песни…) и др.; происхождение — Ула-Бирнагар; явление — шукла-трайодаши бхадры; уход — амавасья ашадхи, в день ухода Гададхары Пандита — по T и нашему…; самадхи — Радха-кунда и Шьяма-кунда, Гадигачха (Годрума), пруд Горадаха",
+  "card": "parshadas/cards/bhaktivinoda.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhaktivinoda.md",
+   "en": "parshadas/en/bhaktivinoda.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1838-09-02",
+    "tithi": "шукла-трайодаши бхадры (T); по нашему календарю — Гаура-трайодаши Хришикеша-масы",
+    "place": "#birnagar",
+    "conf": "T; календарь согласен",
+    "facts": [
+     "F23",
+     "F122"
+    ]
+   },
+   "disappearance": {
+    "date": "1914-06-23",
+    "tithi": "амавасья ашадхи (Вамана-маса), в день ухода Гададхары Пандита — по T и нашему календарю",
+    "place": "#kolkata",
+    "conf": "T согласен с календарём; «Бхакти-бхаван», Калькутта; вошёл в полуденные игры Радхи-Говинды у Радха-кунды",
+    "facts": [
+     "F120",
+     "F124"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#radha-kunda",
+     "kind": "пушпа-самадхи и бхава-сева во «Враджа-Свананда-сукхада-кундже», установлены Бхактисиддхантой (6 ноября 1935)",
+     "facts": [
+      "F163"
+     ]
+    },
+    {
+     "place": "#gadigachha",
+     "kind": "мурти Бхактивиноды в Свананда-сукхада-кундже, Годрума (27 июня 1919)",
+     "facts": [
+      "F156"
+     ]
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "более ста книг на нескольких языках (список T из 74 позиций, 1850–1907)",
+    "facts": [
+     "F9",
+     "F126"
+    ]
+   },
+   {
+    "title": "журнал «Саджджана-тошани» (с 1878/1881; англ. изд. 1883)",
+    "facts": [
+     "F126",
+     "F127",
+     "F148"
+    ]
+   },
+   {
+    "title": "«Шри-Чайтанья-шикшамрита», «Джайва-дхарма», «Харинама-чинтамани», «Амрита-праваха-бхашья» к ЧЧ",
+    "facts": [
+     "F124",
+     "F126"
+    ]
+   },
+   {
+    "title": "«Шри-Чайтанья-гита», «Maths of Orissa», «Датта-каустубха», «Шри-Кришна-самхита»",
+    "facts": [
+     "F43",
+     "F65"
+    ]
+   },
+   {
+    "title": "песни: «Кальяна-калпа-тару», «Шаранагати», «Гитамала», «Гитавали»; «Годрума-чандра-бхаджанопадеша»",
+    "facts": [
+     "F5",
+     "F6",
+     "F125",
+     "F126"
+    ]
+   },
+   {
+    "title": "издания и комментарии: «Упадешамрита» с «Пиюша-варшини», «Бхаджанамрита», «Сат-крия-сара-дипика», «Чайтанья-упанишада», «Бхаджана-дарпана»",
+    "facts": [
+     "F128",
+     "F173",
+     "F174"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Камала-манджари, служанка Рупа-манджари в свите Лалиты; обитель — Свананда-сукхада-кунджа",
+    "source": "его песни «Сиддхи-лаласа» («Гита-мала»), «Кальяна-калпа-тару» (через T)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "Гаура-шакти, вечный спутник Махапрабху; не отличен от Гаура-шакти Гададхары",
+    "source": "пранама; Бхактисиддханта; Шридхар Махарадж (через T)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "прайоджана-таттва (при Гауракишоре — самбандхе, Бхактисиддханте — абхидхее)",
+    "source": "Шридхар Махарадж, «Бхактивинода-дашакам» (T 237)",
+    "level": "C"
+   },
+   {
+    "in": "tattva",
+    "as": "«Вибху» — шикша-гуру, распространяющий себя; «из одного вещества» с Гауракишорой",
+    "source": "Бхактисиддханта (через B)",
+    "level": "B"
+   }
+  ],
+  "relations": [
+   {
+    "type": "siksha-guru",
+    "who": "@jagannatha-dasa-babaji",
+    "note": "Встреча во Вриндаване (1880); наставления с 1885; Амладжора; указал место явления; Гиридхари-шила; «линия Бхактивиноды выросла из его тела и трудов». Формально дикша-гуру в книгах не назван."
+   },
+   {
+    "type": "son",
+    "who": "@bhaktisiddhanta",
+    "note": "Родился в Пури 6.02.1874; харинама и Нрисимха-мантра от отца; дикша от Гауракишоры по велению отца; продолжатель «потока Бхактивиноды»."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@bhaktisiddhanta",
+    "note": "«Вибху» — шикша-гуру Бхактисиддханты."
+   },
+   {
+    "type": "spouse",
+    "who": "@bhagavati-devi",
+    "note": "Второй брак (Миднапур); мать Бхактисиддханты; ушла в ту же титхи через шесть лет (23.06.1920)."
+   },
+   {
+    "type": "companion",
+    "who": "@gaurakishora-dasa-babaji",
+    "note": "«Прабху» и «Вибху» — два гуру Бхактисиддханты, «из одного вещества»; см. реестр @gaurakishora-dasa-babaji."
+   },
+   {
+    "type": "disciple",
+    "who": "@bhakti-pradipa-tirtha",
+    "note": "Посвящён в Годруме (1910); священный шнур по «Сат-крия-сара-дипике»."
+   },
+   {
+    "type": "disciple",
+    "who": "@krishnadasa-babaji",
+    "note": "Дикша и бабаджи-веша; служил ему до ухода."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@manindra-chandra-nandi"
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-maharaja",
+    "note": "Автор санскритских гимнов в его честь (1936, 1939), комментария к «Шаранагати»."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Вернул дом в Пури (1974); «переводите книги Бхактивиноды»."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Ушёл в его день; явил служение Гададхаре-Гауранге; «не отличен от Гаура-шакти Гададхары» (= @gadadhara-pandita:F95)."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "Установил Божества Гауры-Вишнуприи в Майяпуре (21.03.1894); через него разошёлся день её явления."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Установил Гауру-Вишнуприю, следуя Нароттаме."
+   },
+   {
+    "type": "other",
+    "who": "@krishnananda-datta",
+    "note": "⚠ Не он: предок Бхактивиноды — другой Кришнананда Датта (раджа, у которого гостил Нитьянанда), не отец Нароттамы."
+   },
+   {
+    "type": "other",
+    "who": "@shiva",
+    "note": "Сон в Таракешваре (1887): «что ты сделал в Навадвипе?»"
+   },
+   {
+    "type": "other",
+    "who": "@vamshidasa-babaji",
+    "note": "Познакомил с ним сына."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Узнал его «Саджджана-тошани» через Бхакти Ратну."
+   }
+  ],
   "related_by": [
    {
     "from": "@bhakti-ballabha-tirtha",
@@ -35514,6 +35738,14 @@
     "type": "guru"
    },
    {
+    "from": "@bhaktivinoda",
+    "type": "son"
+   },
+   {
+    "from": "@bhaktivinoda",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "other"
    },
@@ -35627,6 +35859,10 @@
    {
     "from": "@bhakti-pramoda-puri",
     "type": "other"
+   },
+   {
+    "from": "@bhaktivinoda",
+    "type": "siksha-guru"
    },
    {
     "from": "@gaurakishora-dasa-babaji",
@@ -36185,6 +36421,10 @@
    "ev-tattva-dasya-bhakta-bhava"
   ],
   "related_by": [
+   {
+    "from": "@bhaktivinoda",
+    "type": "other"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "other"
@@ -43561,6 +43801,10 @@
     "type": "met"
    },
    {
+    "from": "@bhaktivinoda",
+    "type": "other"
+   },
+   {
     "from": "@gaurakishora-dasa-babaji",
     "type": "other"
    },
@@ -43796,6 +44040,10 @@
    {
     "from": "@bhaktivedanta-svami",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@bhaktivinoda",
+    "type": "other"
    },
    {
     "from": "@vasu-ghosha",
@@ -44247,6 +44495,10 @@
    },
    {
     "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
+   {
+    "from": "@bhaktivinoda",
     "type": "other"
    },
    {
@@ -44773,6 +45025,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@bhaktivinoda",
+    "type": "companion"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    }
@@ -45247,6 +45503,10 @@
    },
    {
     "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
+   {
+    "from": "@bhaktivinoda",
     "type": "other"
    },
    {
@@ -45991,6 +46251,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@bhaktivinoda",
+    "type": "spouse"
+   },
+   {
     "from": "@gaurakishora-dasa-babaji",
     "type": "other"
    }
@@ -46006,8 +46270,42 @@
   "events": [],
   "related_by": [
    {
+    "from": "@bhaktivinoda",
+    "type": "siksha-disciple"
+   },
+   {
     "from": "@gaurakishora-dasa-babaji",
     "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@krishnadasa-babaji",
+  "ru": "Кришнадас Бабаджи (Индрачандра)",
+  "en": "Krishnadasa Babaji (Indrachandra)",
+  "note": "ученик Бхактивиноды (дикша, бабаджи-веша 1315 г. бенг.), служил ему до ухода (B 1117–1119; T 235)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@bhaktivinoda",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@bhakti-pradipa-tirtha",
+  "ru": "Бхакти Прадип Тиртха (Джагадиш Бхакти Прадип)",
+  "en": "Bhakti Pradipa Tirtha (Jagadisha Bhakti Pradipa)",
+  "note": "ученик Бхактивиноды (1910), санньяси от Бхактисиддханты (T 235, 252)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@bhaktivinoda",
+    "type": "disciple"
    }
   ]
  }
