@@ -113,7 +113,7 @@ B — вероятно, больше сотни).
 | @bhaktivedanta-svami, @shridhara-maharaja, @bhakti-pramoda-puri, @bhakti-ballabha-tirtha (только T) | ✓ | ✓ (PDF) | — |
 | @madhvacharya, @ramanujacharya, @yamunacharya (M pdf 315–339) | ✓ | ✓ (PDF) | — |
 | @saranga-thakura (025) | ✓ | ✓ (PDF) | — |
-| @gaurakishora-dasa-babaji (026) | ✓ | — | — |
+| @gaurakishora-dasa-babaji (026) | ✓ | ✓ (PDF) | — |
 | @bhaktivinoda (026) | ✓ | — | — |
 | @jagannatha-mishra, @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
