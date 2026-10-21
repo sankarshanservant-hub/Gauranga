@@ -454,6 +454,117 @@ of Kalna and others, once went with Srila Bhaktisiddhanta in kirtana to Mayapur 
 announced to Bhaktivinoda that he wished to lead a party round Navadvipa-dhama every year. He also wished to take part
 in the Navadvipa parikrama begun by the Thakura, but died before he could. <!-- F107 F152 -->
 
+## "Prabhu" and "Vibhu"
+Srila Bhaktisiddhanta honoured both his gurus — Srila Gaurakishora Dasa Babaji and Srila Bhaktivinoda — as
+non-different from Sri Rupa, and remembered them together already in the opening verses (mangalacharana) of his
+commentary "Anuvritti" on the "Upadeshamrita": "Gaurakishora Prabhu and Bhaktivinoda Vibhu preached pure bhakti…"
+Gaurakishora he called "Prabhu" — "my master" — and his father "Vibhu." A vibhu is a shiksha-guru who "expands" his
+body, full of unlimited knowledge and bliss, tasting only the joy of his own nature. He is a goshthyanandi, one whose
+joy lies in the company of devotees, and in our age the first founder and great authority of the preaching of pure
+bhakti; this joy in the fellowship of devotees is the very mark of a "vibhu." And in the introduction to his "Gaudiya
+Bhashya" on the "Bhakti-sandarbha" Srila Bhaktisiddhanta calls him one intoxicated with Krishna-rasa, a treasury of
+the glory of the Lord's servants: and in this lies his "vibhu" quality. <!-- F184 F185 F199 Q15 -->
+
+Bhaktivinoda is the chief restorer of the preaching of pure bhakti. Rejoicing in the company of devotees, he mercifully
+pointed out to souls their obstacles, vices and anarthas and in many ways warned those walking the path of bhakti;
+and Srila Gaurakishora, for all his seclusion, helped fulfil his cherished aim. By the desire of Mahaprabhu Himself he
+openly acted as a goshthyanandi preacher, fulfilling the Lord's cherished wish. Therefore Srila Bhaktisiddhanta coined
+the expression "Sri Bhaktivinoda-dhara" — "the current of Bhaktivinoda": through him the current of pure bhakti began to
+flow again in the Gaudiya sampradaya in our time. <!-- F186 F188 -->
+
+To a superficial eye he seems a man who lived in worldly comfort, censured renunciation, and spoke courteously and
+sympathetically with those whose vow is domestic happiness — the very opposite of the penniless Gaurakishora. With such
+knowledge one understands neither of them. "Impartiality shines in the life of Thakura Bhaktivinoda and of my Prabhu,"
+Srila Bhaktisiddhanta wrote in the "Sajjana-toshani": the two saints are made of one substance and by the will of one
+Lord began different pastimes, drawing the whole world into the service of Hari. <!-- F190 F187 -->
+
+Srila Gaurakishora ate Ganga clay and raw rice, went about as a naked renunciant, and rejoiced in the pastimes of
+Radha-Govinda. And Thakura Bhaktivinoda drank plenty of milk, lived in mansions, slept on a bedstead with a good bed and
+wore costly clothes — and just as eternally rejoiced in the pastimes of the same Gandharva and Giridhari. His
+"renunciation" is the highest thirst for Krishna's pastimes; it is the same as in Ramananda Raya and Pundarika
+Vidyanidhi, in the six Gosvamis and Lokanatha, in Srila Bhaktisiddhanta and Srila Gaurakishora. The eternally perfect
+renunciation of Bhaktivinoda, Gaurakishora and Sarasvati — for Krishna's happiness — is seen only by one who has "the
+eyes of bhakti." His words "Goloka shines in the home" were fulfilled in his own bhajana; but this is seen only by
+those whose "fleshly," distorted vision has been removed. There is a song of the Thakura's, "tyajiya shayana-sukha
+vichitra palanka…" — about giving up repose on a decorated bedstead; on hearing it, Srila Gaurakishora remarked: "You
+only sing…" <!-- F196 F197 F195 I2 F143 -->
+
+Srila Bhaktisiddhanta recalled: by past pious merit he had obtained Bhaktivinoda, who wished him nothing but good; "my
+Prabhu" often visited his father and sometimes stayed with him, and Bhaktivinoda mercifully showed him Gaurakishora;
+and by Prabhu's mercy he himself gradually came to revere Bhaktivinoda's extraordinary nature. So it is said: without
+Bhaktivinoda's mercy one cannot know Gaurakishora, without Gaurakishora's mercy one cannot understand Bhaktivinoda's
+superhuman nature, and without Srila Bhaktisiddhanta's mercy one cannot understand either. To see one who has taken
+shelter in the Lord is to "see Prabhu"; to see the same person as "expanding his body" is to "see Vibhu": so Radha
+expands Herself fully for Krishna's senses, so Kaviraja sees Nityananda. Gaurakishora and Bhaktivinoda are the
+diksha-guru and the shiksha-guru of bhajana of one non-dual knowledge; only their pastimes differ. <!-- F191 F192 F198 I3 -->
+
+Once Bhagavati Devi, the Thakura's wife, Mata Thakurani of the "Bhakti Bhavana," revered by all, came with other
+servants of the Thakura to Kulia to bow to Srila Gaurakishora. "You have left the Thakura at home — why then have you
+come to Kulia?" the Babaji greeted them. "An intimate associate of Gaura has appeared in your house." And when
+Bhaktivinoda, enacting the pastime of illness, was living in the "Bhakti Bhavana," the Babaji sent a certain gosvami to
+him with the words: "Carry Bhaktivinoda on your head from Calcutta, this universe of maya, here, to the dhama." The
+gosvami conveyed to the Thakura the Babaji's request that he move to Navadvipa, and the Thakura sent the Babaji his
+blessing: may his hari-bhajana be crowned with success. More on these and other episodes — in the article on Srila
+Gaurakishora Dasa Babaji. <!-- F193 F194 -->
+
+## The last years
+In 1906 he spoke at length on Mahaprabhu's teaching in the house of the zamindar Yatindranatha Ray Chaudhuri at Taki,
+fifty kilometres east of Calcutta. On 26 February 1906 he returned to Calcutta, and from there went to Svarupganj, in
+Godruma-dvipa, to his bhajana at Svananda-sukhada-kunja. There a certain Taraka Brahma Gosvami of Jessore asked him to
+accept his Deities of Radha-Madhava for the place of Mahaprabhu's appearance, and moved there with his family; but soon
+their conduct proved incompatible with what was proper, and they had to leave. On 29 April 1906 the "Sri
+Dhama-pracharini-sabha" assigned the temple five hundred rupees a year for the service of Sri Sri Radha-Madhava.
+<!-- F108 F109 -->
+
+In 1908 Srila Bhaktivinoda accepted the guise of a renounced Vaishnava — a bhagavata-paramahamsa, the babaji's dress —
+so as to immerse himself entirely in the nectar of the confidential pastimes of Radha and Govinda. Later, in 1918, Srila
+Bhaktisiddhanta took sannyasa — among other reasons, to show the transcendental nature of the paramahamsa's dress worn
+by his gurus: Jagannatha Dasa Babaji, Sacchidananda Bhaktivinoda and Gaurakishora. <!-- F110 F155 -->
+
+On 25 March 1910, again on Phalguni-purnima, the day of Mahaprabhu's appearance, Jagadisha Bhakti Pradipa, then still a
+householder, came to him in Mayapur, and five days later received initiation from him in Godruma. Another disciple was
+living with him at Svananda-sukhada-kunja at that time — Krishnadasa Babaji. His worldly name was Indrachandra, and he
+came from Chhatra (Narail, Jessore). Coming to Navadvipa in 1314–1315 of the Bengali era, he received pancharatrika
+diksha from the Thakura, and in Phalguna 1315 initiation as a babaji and the name Krishnadasa Babaji. At the Thakura's
+bidding he chanted the Name loudly day and night — but counting: so the Thakura taught protection against
+inattention. At the beginning of 1316 the Thakura sent him to Puri, where he stayed a year and a half; on his return he
+served the Thakura day and night until his departure, and on the day of departure performed all that falls to the
+first disciple. <!-- F111 F112 F179 -->
+
+The Thakura taught that one should always observe daiva-varnashrama-dharma — the divine, not the hereditary, order.
+According to the "Sat-kriya-sara-dipika" he gave the sacred thread to Jagadisha Bhakti Pradipa (later the sannyasi
+Bhakti Pradipa Tirtha Maharaja, a disciple of Srila Bhaktisiddhanta), Sitanatha Mohapatra Bhakti Tirtha, Vasanta Kumar
+Ghosh and Manmathanatha Ray. And at the same time he said: the present social varnashrama is distinct from the
+transcendental religion of exclusive devotion to Krishna and does not of itself lead to surrender; the highest teaching
+of the "Gita" is to give up everything connected with varnas and ashramas — that is, with identifying oneself with the
+body — and to develop the bhakti inherent in the nature of the soul; and scholars like Raghavachari do not understand
+the Gaudiya teaching of pure bhakti. <!-- F113 F114 Q11 -->
+
+In 1910, at Svananda-sukhada-kunja, while working on the "Sva-niyama-dvadashaka"[^24], he suddenly fell gravely ill.
+Srila Bhaktisiddhanta and close disciples gathered round, fearing that he was entering the eternal pastimes. Even when
+unable to walk, he wished to be carried on horseback from place to place — for the sake of preaching. Three years
+before his departure Srila Bhaktisiddhanta made a vow to his father: unworthy servant though he was, he would take up
+the highest good work — he would rout all teachings opposed to pure bhakti. The Thakura was pleased. <!-- F115 F116 -->
+
+The descendants of Nityananda and other associates, seeking gain, had at that time taken the side of the smartas.
+Vishvambharananda Deva-Gosvami of Gopivallabhapura invited Bhaktivinoda to an assembly of hundreds of pandits at
+Balighai (Midnapore), convened to affirm orthodox positions. Bedridden, the Thakura sent in his place his son and
+Suresh Chandra Mukhopadhyaya. The assembly met on 8–11 September 1911; among the scholars was Madhusudana Gosvami
+Sarvabhauma of the Radha-Raman Ghera in Vrindavana. Srila Bhaktisiddhanta read there a paper on the difference between
+a Vaishnava and a brahmana and astonished the assembly. A year later Madhusudana Gosvami came to the Thakura at the
+"Bhakti Bhavana" and proclaimed Srila Bhaktisiddhanta Bhaktivinoda's worthy successor in defending the Gaudiya
+sampradaya. <!-- F117 F153 F118 -->
+
+In 1913 Srila Bhaktisiddhanta began his commentary "Anubhashya" on the "Chaitanya-charitamrita" — as a supplement to his
+father's "Amrita-pravaha-bhashya" — and read him passages from it, giving him indescribable joy. <!-- F119 -->
+
+## Departure
+A few days before his departure the Thakura moved from Godruma to the Calcutta "Bhakti Bhavana." There, on 23 June
+1914, on the amavasya of the month of Vamana (Ashadha) — the very day on which the Gaura-shakti Sri Gadadhara Pandita
+Gosvami departed — he entered the midday pastimes of Sri Sri Radha-Govinda at Radha-kunda. Vaishnavas honour him to
+this day on the same day as Gadadhara Pandita. Six years later, on 23 June 1920, on the same tithi, his wife Bhagavati
+Devi, the revered Mata Thakurani, also departed. <!-- F120 F121 F157 -->
+
 [^1]: This Krishnananda Datta, the raja in whose house Nityananda stayed, should not be confused with his namesake
     Krishnananda Datta, the father of Srila Narottama Dasa Thakura.
 [^2]: By the Gregorian calendar — Sunday, 2 September 1838; by the lunar calendar — the shukla-trayodashi of the month of
@@ -503,3 +614,4 @@ in the Navadvipa parikrama begun by the Thakura, but died before he could. <!-- 
 [^23]: The biography names Satyaraja Khan as its author; but according to the "Chaitanya-charitamrita" the "Sri
     Krishna-vijaya" was written by his father, Gunaraja Khan: "Gunaraja Khan has a book, the 'Sri Krishna-vijaya,' in
     which there is one saying filled with the greatest love for Krishna" (CC, Madhya 15.99).
+[^24]: By the list of works the "Sva-niyama-dvadashaka" was written in 1906.
