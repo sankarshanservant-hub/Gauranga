@@ -118,7 +118,7 @@ B — вероятно, больше сотни).
 | @vamshidasa-babaji (027) | ✓ | ✓ (PDF) | — |
 | @ishvara-puri (029) | ✓ | ✓ (PDF) | — |
 | @advaita (030) | ✓ | ✓ (PDF) | — |
-| @chandrashekhara-acharya (031) | ✓ | в работе | — |
+| @chandrashekhara-acharya (031) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra (028; пилот сверен с переводом и сканом) | ✓ | ✓ (PDF) | — |
 | @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
