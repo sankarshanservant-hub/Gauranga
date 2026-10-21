@@ -135,7 +135,8 @@ quarter”[^8]. From Shrihatta He moved to Shantipura on the Bhagirathi, not far
 ## Study and Pilgrimage
 According to the “Prema-vilasa,” Advaita studied the Vedas and other scriptures under Shantacharya in Phullabati — one
 of the quarters of Shantipura — and received from him the title “acharya”[^9]. When Kuvera and Nabha Devi left this
-world, He went to Gaya — as if to perform the funeral rites for them — and from there set out to wander through the holy
+world, He went to Gaya on the pretext of performing
+the funeral rites, and from there set out to wander through the holy
 places of India. <!-- F25 F26 -->
 
 In Mithila, the “Advaita-vilasa” relates, He met Vidyapati. The great Maithili poet was by then very old; in a sweet
@@ -168,7 +169,7 @@ From Shantipura Madhavendra went south, to Remuna. <!-- F30 Q2 -->
 
 Advaita is Maha-Vishnu Himself; why should He need a guru? He accepted initiation to show conditioned souls that one
 cannot do without a guru — just as Mahaprabhu Himself accepts initiation from Ishvara Puri. Vrindavana Dasa says that
-Advaita only played the role of Madhavendra's disciple[^11]. <!-- F31 I11 -->
+Advaita only played the role of Madhavendra's disciple[^11]. <!-- F31 F32 I11 -->
 
 Madhavendra's disciples in the line of the Madhva-sampradaya are Ishvara Puri, Advaita, Paramananda Puri, Brahmananda
 Puri, Ranga Puri, Pundarika Vidyanidhi, Raghupati Upadhyaya and others; Srila Bhaktisiddhanta names Ishvara Puri,
@@ -319,8 +320,8 @@ of the Child. Sita is worthy of worship equally with Shachi: her motherly love, 
 The Lord was growing up in Navadvipa, and even the devotees were not sure that Nimai was Bhagavan Himself. Advaita, for
 His part, behaved as though He did not know who He was — and wished more than anyone that the learned Nimai would
 become a devotee[^17]. Nimai's elder brother, Vishvarupa, studied in Advaita's tol: every day, after bathing in the
-Ganga, he listened to His lectures and then himself explained to those gathered that the essence of all scripture is
-devotion to Krishna, and Advaita, rising from His puja, would embrace him. Whole days Vishvarupa spent in Advaita's
+Ganga, He listened to Advaita's lectures and then Himself explained to those gathered that the essence of all scripture is
+devotion to Krishna, and Advaita, rising from His puja, would embrace Him. Whole days Vishvarupa spent in Advaita's
 house in talks on the scriptures of bhakti. Little Nimai used to run over to call His brother to lunch, and Advaita
 could not take His eyes off His face. Many years later He recalled:
 
@@ -332,7 +333,7 @@ Madhya 2.22)
 “Enchanted by His beauty, I always blessed Him with the words: ‘May You attain bhakti.’” (CB, Madhya 2.23)
 <!-- F58 F59 -->
 
-When Vishvarupa was twelve years old and his wedding was already being prepared at home, he left and took sannyasa
+When Vishvarupa was twelve years old and His wedding was already being prepared at home, He left and took sannyasa
 with the name Shankararanya. Advaita grieved, but comforted everyone: soon Krishna Himself would appear; together with
 Sita He consoled Jagannatha and Shachi and helped them bring up Nimai. In Advaita's Navadvipa house the “Bhagavatam” was
 still read and kirtan sung, and everyone delighted in the voice of Mukunda Datta. <!-- F60 F61 -->
@@ -400,7 +401,7 @@ Shantipura with Haridasa:
 “I lay in the Ocean of Milk,” the Lord would say another time, “and My sleep was broken by the roar of Nada” (CB, Madhya
 22.16)[^20]. <!-- F69 Q8 -->
 
-## Hide-and-Seek in Nandana's House
+## In Nandana Acharya's House
 Soon after the Vyasa-puja the Lord, filled with the mood of the Supreme, sent Ramai Pandita, Srivasa's younger brother,
 to Shantipura: “Tell Advaita: He for whose sake He worshipped with Ganga water and tulasi, wept and fasted, has come.
 Nityananda too has come. Let Him come with His wife and with all that is needed for puja.” Ramai could not utter a word
@@ -541,6 +542,45 @@ offended Vaishnava saves one from it. And He showed that Vaishnavas are not prou
 forgiveness. Shachi herself is the eternal mother of the Lord, Yashoda; Vrindavana Dasa says plainly that in truth it
 was not even an offence, but the Lord called it so (CB, Madhya 22.58)[^25]. <!-- F96 I8 -->
 
+## The Universal Form
+Once Advaita, sorrowful, was dancing in Srivasa's courtyard and lamenting that His hope had still not been fulfilled;
+only after two praharas, some six hours, could He be calmed. The Lord, seeing how He rolled on the ground and wept, led
+Him into the room of Vishnu, and Advaita asked: “Let Me see what Arjuna saw.” And before Him appeared the universal
+form, the vishvarupa: a dark-blue four-armed Krishna, in whose body were the luminaries, the seas and the mountains,
+millions of faces, arms and eyes; Arjuna was reciting hymns to Him, and Advaita, taking a blade of grass between His
+teeth as a sign of humility, begged for service (cf. CB, Madhya 24). <!-- F97 F98 -->
+
+## The Drama in Chandrashekhara's House
+When in the house of Chandrashekhara Acharyaratna the Lord staged a drama about Krishna, Advaita was given the role of
+the vidushaka — the jester. The Lord played Rukmini and then appeared as the Adya-shakti, the original energy, Lakshmi;
+Nityananda was an old woman, Gadadhara a gopi, Srivasa Narada, Haridasa a watchman. The Lord announced that only those
+who had controlled their senses could watch the drama, and Advaita and Srivasa sadly said that this meant they could
+not. “Today all will become yogis,” the Lord answered (CB, Madhya 18). <!-- F99 -->
+
+## Night Kirtans and the Procession to the Kazi
+Advaita was beside the Lord in sankirtana — in Srivasa's courtyard, in the streets of Navadvipa and on the bank of the
+Ganga — and among those who sang all night long:
+
+“All of them sang in jubilation: ‘Krishna, Rama, Mukunda, Murari, Vanamali!’” (CB, Madhya 23.29)
+
+“Nityananda and Gadadhara whirled, holding hands. Advaita, like a lion, ran about the room in ecstatic bliss.” (CB,
+Madhya 23.30)[^26] <!-- F100 -->
+
+When Chand Kazi forbade the sankirtana, the Lord led Navadvipa out into the streets, and Advaita led one part of the
+procession, dancing and loudly singing the names:
+
+“The Lord danced as He moved along the bank of the Ganga, and all who walked beside Him sang the names of Lord Hari.”
+(CB, Madhya 23.202)
+
+“Advaita Acharya with His party went in front and danced in indescribable bliss.” (CB, Madhya 23.203)
+
+And the Kazi became a friend and vowed never again to hinder the sankirtana[^27]. <!-- F101 Q12 -->
+
+## Nityananda's Wedding
+Much later, after the Lord's sannyasa, when Nityananda agreed to marry, Advaita rejoiced: “Let it happen soon!” He was
+among the devotees at the wedding in Boroganchhi, and afterwards Nityananda with His wives, Vasudha and Jahnava, at
+Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!-- F102 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -613,3 +653,8 @@ was not even an offence, but the Lord called it so (CB, Madhya 22.58)[^25]. <!--
     “extraordinary means” chosen by the Lord. Neither Shachi nor Advaita is subject to worldly feelings: Vrindavana Dasa
     explains at once (Madhya 22.118–123) that the Lord wished, by His mother's example, to warn everyone against
     vaishnava-aparadha and to establish Advaita as a Vaishnava — against those who would glorify Him as Krishna Himself.
+[^26]: One of the biographies says that Advaita rushed about “holding on to Nityananda and Gadadhara”; according to the
+    text of the “Chaitanya-bhagavata,” it was Nityananda and Gadadhara who held hands, while Advaita ran like a lion.
+[^27]: One of the biographies places this account in the section on Advaita's life after the Lord's sannyasa; according
+    to the “Chaitanya-bhagavata” (Madhya 23), the procession to the Kazi took place before the sannyasa. The order of the
+    parties in the procession is given differently by the sources (see the article on Srivasa).
