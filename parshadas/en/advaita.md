@@ -194,6 +194,127 @@ the scriptures deeply. He lived there from time to time and would talk of Krishn
 Srivasa. Seeing around Him people bereft of devotion to Vishnu, He taught the “Bhagavad-gita” and the
 “Srimad-Bhagavatam” and revealed their essence as devotional service. <!-- F40 F41 -->
 
+## The Call
+Having returned to Bengal, Advaita became the head of its Vaishnavas. Around Him gathered Srivasa, Chandrashekhara
+Acharya, Gangadasa and others; Srivasa's brothers came to His house to hear the “Bhagavatam” and sing sankirtana. And
+Navadvipa all around was far from God. The learned were hostile to bhakti; they took for religion karma-yoga, rites
+performed for wealth; they taught the “Gita” and the “Bhagavatam” without a word about devotion; they were proud of
+birth and learning — and nowhere was the name of Krishna to be heard. The Vaishnavas headed by Advaita grieved.
+<!-- F42 F43 -->
+
+The people of the age of Kali were indifferent to their only good — to the sankirtana of Krishna's name, and Advaita's
+heart overflowed with compassion. He wished to awaken the whole people to harinama, and He reasoned: a partial avatara
+would not be enough here — the world would be saved only if Hari Himself descended. The “Charitamrita” conveys His
+thoughts:
+
+“My name Advaita will gain its true meaning only when I can induce Krishna Himself to perform sankirtana.” (CC, Adi
+3.101) <!-- F44 -->
+
+And He began to call the Lord. He worshipped Krishna with Ganga water and tulasi leaves — tulasi-manjaris — often
+fasted and gathered the Vaishnavas for common prayer; and He called loudly, with a “roar of love,” prema-hunkara:
+
+“Thinking of the lotus feet of Krishna, He began to offer Him tulasi-manjaris with Ganga water.” (CC, Adi 3.107)
+
+“And as He did so He called Krishna loudly, and this became the cause of Mahaprabhu's descent into this world.” (CC,
+Adi 3.108)
+
+“The main cause of Sri Chaitanya's descent is the plea of Advaita. The Lord, the Protector of dharma, comes only by the
+desire of His devotee.” (CC, Adi 3.109)
+
+Vrindavana Dasa says that this call was heard in Vaikuntha:
+
+“He called out loudly to Sri Krishna. The sound of Advaita Acharya's voice pierced the coverings of the universe and was
+heard in Vaikuntha.” (CB, Adi 2.82)
+
+“Hearing the loving call of Sri Advaita, Lord Krishna appeared in person, for He is always captivated by the love of
+His devotees.” (CB, Adi 2.83) <!-- F45 Q5 -->
+
+The “Bhakti-ratnakara” (12.3753–3764) sings of Him: Advaita's body is a treasury of the nectar of bhakti, non-different
+from the body of Chaitanya Himself; He brought Chaitanya down by His roar and then glorified Him everywhere; Advaita is
+non-different from Gauranga, and His consort Sita is the mother of the universe; whoever takes shelter of His feet will
+attain love for Gaura. So the cause of Gaura's descent was Advaita's compassion for the people of Kali, His “audacious”
+call and the prayer of Haridasa, of which more below — and the Lord Himself confirmed this more than once.
+<!-- F46 I2 -->
+
+The loud sankirtana angered the godless. They objected and threatened; they mocked: “The Lord sleeps through the four
+months of the rains — wake Him with your shouting, and there will be a great offence, and famine will come!”; they said
+that some brahmanas sing only to fill their bellies. When the devotees lost heart, Advaita encouraged them: the Lord
+will hear and will come. <!-- F47 -->
+
+## Advaita and Haridasa
+Long before the Lord's appearance Haridasa — by tradition, an avatara of Brahma — settled in Phulia, not far from
+Advaita's house in Shantipura. He lived in a cave and from time to time came to Advaita in Shantipura; so it was also
+after he had preached in Chandpur, in the house of Govardhana and Hiranya Majumdar. Haridasa was drawn by Advaita's
+talks, and Advaita recognised in him a bhajanandi who chants the holy name without cease. He built him a cave-like hut,
+explained the “Gita” to him every day in the spirit of steadfast devotion, nishtha-bhakti, and sent him prasada from
+His house. <!-- F48 F49 -->
+
+Haridasa was born in a family of yavanas, yet Advaita honoured him as no one else would have dared. At the yearly
+shraddha for His father He offered a meal to the Lord, and the first dish, the shraddha-patra, which is given to the
+most honoured brahmana, He gave to Haridasa. The mahaprasada of the shraddha is presented to the honoured guest, and the
+“Charitamrita” says that Advaita so revered Haridasa that He let him be the first to taste the remnants of the memorial
+offerings in honour of His father (Adi 10.44). Haridasa was afraid, and Advaita answered:
+
+“‘Do not fear, dear Haridasa. I shall certainly act in full accordance with the injunctions of the scriptures.’” (CC,
+Antya 3.219)
+
+“‘You are so great that to feed you is equal to feeding ten million venerable brahmanas.’ Saying this, Advaita Acharya
+offered him to taste the offering He had presented to His ancestors.” (CC, Antya 3.220)[^14]
+
+From then on Haridasa dined at Advaita's house every day. For Advaita faithfulness to scripture stands above caution
+about caste: a Vaishnava is worthy of worship whatever family he is born in. <!-- F50 Q10 I3 -->
+
+So the two of them together begged the Lord to come. Advaita worshipped Him with Ganga water and tulasi — in Shantipura
+and in Navadvipa-Mayapura — while Haridasa in his hut chanted the holy name and called on the Lord to appear; it is said
+that their prayer brought the Lord into the world in the form of Gauranga. The “Charitamrita” says:
+
+“Advaita Acharya constantly pondered how liberation could be given to all the fallen souls of this world. He thought:
+‘How can this whole world be saved, in which it is so hard to meet unselfish devotion to the Lord?’” (CC, Antya 3.221)
+
+“Wishing to call into this world Sri Krishna, the Master of all creation, Advaita Acharya took a vow to worship Him
+daily with Ganga water and tulasi leaves.” (CC, Antya 3.222)
+
+“In the same way Haridasa Thakura chanted the holy name of God in solitude, wishing to induce Krishna to descend into
+this world.” (CC, Antya 3.223)
+
+“The holy devotion of these two Vaishnavas became the cause of the descent of Sri Chaitanya, who gave liberation to the
+whole world, calling all to sing the holy name of God and so attain divine love for Krishna.” (CC, Antya 3.224)
+
+Later Haridasa moved to Navadvipa, wishing to live among pure devotees like Advaita. <!-- F51 F52 -->
+
+## The Lord's Appearance
+Before coming Himself, Krishna sends into the world those whom He will honour as elders:
+
+“First He sent to Earth all those close to Him and His elders. I shall list them briefly — to describe them all in
+detail is simply impossible.” (CC, Adi 13.53)
+
+“Sri Shachidevi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri, Advaita Acharya, Srivasa
+Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.54)
+
+The Three Prabhus descend together with Their eternal companions — with Srivasa, Haridasa and others. <!-- F53 Q15 -->
+
+When Shachi was in the sixth month of carrying the Lord, Advaita came to Jagannatha Mishra, left him, and, reciting
+hymns and bowing, walked around Shachi — He was worshipping the Child in her womb. The astonished couple asked what this
+meant, but Advaita only answered that in due time they would know; and they did not understand. <!-- F54 -->
+
+On the evening of the Lord's birth, in Shantipura, Advaita together with Haridasa suddenly broke into a dance of joy,
+and no one knew why. It was the day of a lunar eclipse, and on that occasion many gifts were given away; about what had
+happened both kept silent[^15]. <!-- F55 -->
+
+Advaita sent Sita in a palanquin to the house of Jagannatha Mishra with a casket of precious cloth and ornaments, and
+with her husband's permission she came from Shantipura with gifts:
+
+“Once the universally honoured Sita Thakurani, the wife of Sri Advaita Acharya, came with Advaita's consent to see the
+wondrous child, bringing various gifts with her.” (CC, Adi 13.111)
+
+“Touching the baby's head with fresh grass and rice, she blessed Him with the words: ‘May both brothers live long!’ And
+to protect Him from witches and evil spirits she gave Him the name Nimai.” (CC, Adi 13.117)[^16] <!-- F56 Q7 -->
+
+Sita often came from Shantipura to teach Shachi how to care for the Infant, and at the festival of His birthday she was
+the first allowed to offer the Child clothing. All the devotees together with Advaita and Sita prayed for the long life
+of the Child. Sita is worthy of worship equally with Shachi: her motherly love, vatsalya, for Gaura is of the same kind.
+<!-- F57 I16 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -234,3 +355,8 @@ Srivasa. Seeing around Him people bereft of devotion to Vishnu, He taught the �
     only Sita and does not mention the second wife, Shri.
 [^13]: One of the biographies, referring to another, calls Sita Paurnamasi in the lilas of Krishna; but according to
     the “Gaura-ganoddesha-dipika,” Paurnamasi is Govinda Acharya.
+[^14]: Elsewhere the same biography says “thousands of brahmanas”; the “Charitamrita” speaks of ten million.
+[^15]: According to another account, Jagannatha Mishra on the eve had sent word to Advaita in Shantipura, and Advaita
+    and Haridasa bathed in the river, danced and sang, and Sita was sent to Mayapura; according to yet another, Advaita,
+    having come from Shantipura, understood that Hari Himself had appeared and explained this to Srivasa and others.
+[^16]: One of the biographies refers this episode to verse Adi 13.112; correctly it is Adi 13.111 and 13.117.
