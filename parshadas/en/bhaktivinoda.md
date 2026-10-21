@@ -565,6 +565,111 @@ Gosvami departed — he entered the midday pastimes of Sri Sri Radha-Govinda at 
 this day on the same day as Gadadhara Pandita. Six years later, on 23 June 1920, on the same tithi, his wife Bhagavati
 Devi, the revered Mata Thakurani, also departed. <!-- F120 F121 F157 -->
 
+## The Moon of Godruma
+After the Thakura's departure, in 1950, the journal "Gaudiya" printed for the first time his verses "Sri
+Godruma-chandra-bhajanopadesha" — "Instruction on Worshipping the Moon of Godruma," with the refrain "bhaja
+godruma-kanana-kunja-vidhum" — "worship the moon of the groves of Godruma." They call one to leave the home full of the
+spirit of Kali and worldly talk, to become intoxicated with the Holy Name and go to the nine-islanded forest of Gaura;
+to read of Gaura-Hari, to roll in the dust of the Ganga's bank, to remember the pastimes of Gaura and Gadadhara, to
+become their follower and to hear of them. They also recall the legends of Godruma: here the Lord freed a demigod
+imprisoned in the body of a crocodile in the Goradaha lake, and appeared in His golden form to Indra and Surabhi,
+pleased with their austerities. <!-- F125 Q14 -->
+
+## Legacy
+After his father's departure Srila Bhaktisiddhanta became editor of the "Sajjana-toshani." In January 1915 the press
+was moved to Vraja-pattana in Mayapur, and in July to Krishnanagar, from where the journal and Bhaktivinoda's books were
+printed. Already in his lifetime, at his request and that of Shishir Kumar Ghosh, Srila Bhaktisiddhanta compiled a
+Vaishnava encyclopaedia, travelling all over India for it. <!-- F154 F158 -->
+
+By the wish of Bhaktivinoda and Jagannatha Dasa Babaji, Srila Bhaktisiddhanta opened at Srivasa-angana a sankirtana
+centre with the service of the Pancha-tattva, and in the house of Chandrashekhara Acharya installed the dancing Gaura
+and founded Sri Chaitanya Math. In November 1918 he opened in Calcutta the "Sri Bhaktivinoda Asana" (1 Ultadanga
+Junction Road, near the Pareshnath temple) — there arose the first Sri Gaudiya Math, the first branch of Sri Chaitanya
+Math. Here on 5 February 1919, on the day of Srimati Vishnupriya's appearance, the "Vishva-vaishnava-raja-sabha" was
+revived; the newspaper "Amrita Bazar Patrika" wrote at the time that Bhaktivinoda had given it "a new impetus" thirty-
+three years before. On 27 June 1919 Srila Bhaktisiddhanta installed a murti of Bhaktivinoda at Svananda-sukhada-kunja in
+Godruma. <!-- F171 F156 F183 F80 -->
+
+On 1 November 1920 Srila Bhaktisiddhanta initiated Bhaktivinoda's disciple Jagadisha Bhakti Pradipa, who bore the
+titles "Vaishnava-siddhanta-bhushana" and "Sampradaya-vaibhavacharya." At the Purushottama Math in Puri he instituted an
+annual festival in memory of Bhaktivinoda and Gadadhara Pandita, and in Madras, at the Sarasvata Asana, he instructed
+disciples from the Thakura's books. In 1929 he laid out in Mayapur Ishodyan — "the Lord's garden" — which Bhaktivinoda
+had desired. <!-- F159 F160 F161 -->
+
+The Thakura's memory continued to be honoured. On 3 April 1931 the "Thakura Bhaktivinoda Institute" opened in Mayapur —
+a high English school with a Vaishnava upbringing. In 1933 he was commemorated at a meeting in the London Gaudiya Math on
+23 June and in the town hall of Krishnanagar on 16 June, where Srila Bhaktisiddhanta spoke on the "Bhagavata" (Khitipati
+Nath Mitra and Dinanath Sanyal Ray Bahadur presiding). At Srila Bhaktisiddhanta's behest Y. Jagannatham published a
+Telugu translation of the "Sri Chaitanya-shikshamrita"; radio programmes were broadcast for the day of the Thakura's
+appearance. On 6 November 1935 Srila Bhaktisiddhanta established at Radha-kunda his pushpa-samadhi and bhava-seva in the
+"Vraja-Svananda-sukhada-kunja." On 12 February 1936 the "Thakur Bhaktivinoda Research Institute" (Krishnanushilana-gara)
+was opened, and on 19 June of that year the twenty-second anniversary of his departure was observed at
+Svananda-sukhada-kunja. <!-- F162 F163 -->
+
+"The current flowing from Srila Bhaktivinoda Thakura will never be stopped; redouble your efforts to fulfil his
+desires," Srila Bhaktisiddhanta used to say; the current that has passed through Svarupa, Rupa and Bhaktivinoda will
+never run dry. On the morning of his own departure he asked for the song "tuhun daya-sagara tarayite prani" to be sung —
+from Bhaktivinoda's Bengali rendering of the "Shikshashtaka." The Thakura's songs and books, Srila Bhaktisiddhanta
+taught, are of the same essence as Srila Narottama's songs; they should be carried through Bengal, Orissa and Assam;
+the "Sharanagati" was translated into Tamil and the "Sri Chaitanya-shikshamrita" into Telugu. <!-- F164 I6 F165 -->
+
+Srila Bhakti Dayita Madhava Gosvami Maharaja told his disciples: nothing more is needed — translate Bhaktivinoda's books
+into the languages of the world: that is the highest good for people; all that the Gaudiya Math has achieved is built
+on his foundation. Srila B. R. Sridhar Maharaj wrote a commentary on the "Sharanagati," and Srila Madhava Maharaja
+advised a doubting Kamakhya to read the "Jaiva-dharma" — and the doubts vanished. The Thakura's shiksha-disciple Bhakti
+Ratna Thakura introduced the young Srila Bhakti Pramoda Puri Maharaja to the "Sajjana-toshani." <!-- F72 I5 F166 -->
+
+The Thakura's researches live on in small things too: thus in Puri he identified the well of Paramananda Puri of which
+the "Chaitanya-bhagavata" speaks — west of Jagannatha's temple, beside the police station. <!-- F130 -->
+
+## The praise of disciples
+Two eminent disciples of Srila Bhaktisiddhanta composed hymns in his honour. Srila B. R. Sridhar Maharaj — in Sanskrit:
+"I worship Bhaktivinoda, the embodied potency of Gaura, the emperor of the knowers of the scriptures on bhakti, the
+treasury of the nectar of Radha's rasa." Srila Bhakti Vichar Jajabar Maharaja — in Bengali, in the song "bhakativinoda
+prabhu, daya koro more…" <!-- F15 Q8 -->
+
+Jajabar Maharaja's song says: by Bhaktivinoda's mercy one obtains Srila Prabhupada — Bhaktisiddhanta, whom he out of
+compassion gave to the world; through his preaching the world learned that Chaitanya's birthplace is Mayapur; his
+hundred books — the "Sri Chaitanya-shikshamrita," the "Jaiva-dharma" and others — and the journal "Sajjana-toshani" are
+revered by all; he restored the almost lost pure bhakti. By his example he taught that Krishna may be worshipped both at
+home and in the dhama; he manifested the service of the Deities of Gadadhara and Gaurahari, seeing in Them Radha and
+Madhava; he studied the books of the Gosvamis and preached their teaching, supporting it with evidence. He is like
+Vyasa, who revealed the Puranas, and his son, Prabhupada Dayita Dasa, like Shuka. He appeared in Gaura-mandala, in the
+village of Birnagar; and the author of the song himself, the sannyasi Jajabar, by his mercy found a place at Ishodyan,
+in Mayapur, in the Bhagavata Math. <!-- F16 F17 F18 -->
+
+In 1936, for the twenty-second anniversary of the Thakura's departure, Srila Sridhar Maharaj wrote the
+"Srimad-Bhaktivinoda-viraha-dashakam" — ten verses of separation: "for twenty-two years the world has borne the burden
+of separation." In them the Thakura is Gaura-shakti itself, who appeared drawn by the piety of souls, the personification
+of Mahaprabhu's compassionate power; even the gods cannot exhaust his glory, and in one verse sound Krishna's words to
+the gopis from the "Bhagavata": "I will not be able to repay you equally even in the course of many lifetimes" (CC, Adi
+4.180; SB 10.32.22). He was sent when the minds of the wise had been ruined by false dharma, yoga for enjoyment, the
+knowledge of the void, proud philanthropy and immorality in the guise of raga-bhajana. As the moon revives the herbs, so
+his appearance gave fruit to the shastras and joy to the Vaishnavas. By his books he showed how to preach bhakti, and the
+glory of the earlier acharyas, Ramanuja and others, does not compare with his, for he is the embodied ocean of prema. He
+bestows Krishna Himself and service in Goloka-Vrindavana — the nectar of service to Radha's feet, approved by
+Gauranga, realised by Svarupa, honoured by Sanatana, distributed by Rupa and tasted by Raghunatha and the rupanugas. At
+the end the author prays to be counted among the servants of Srila Bhaktisiddhanta. <!-- F123 Q12 -->
+
+In the "Srimad-Bhaktivinoda-dashakam," printed in the journal "Gaudiya" in July 1939, Srila Sridhar Maharaj glorifies
+him as the embodiment of Chaitanya's mercy, Gaura-shakti, dear to Jagannatha Prabhu and non-different from Gaurakishora.
+The Thakura gave the example of preaching the "Sri Nama-chintamani," revealed the glory of the name chanted without
+offences, uncovered the hidden place of Gaura's appearance — to the joy of the saints and the chagrin of the wicked —
+and, like Bhagiratha, brought down the Ganga of bhakti, carrying Chaitanya's message over the world. He is prayojana,
+the goal, while Gaurakishora is sambandha and Bhaktisiddhanta abhidheya[^25]; his books are the
+"Chaitanya-shikshamrita," the "Sajjana-toshani," the "Harinama-chintamani," the "Jaiva-dharma." He is non-different from
+the Gaura-shakti Gadadhara and departed on the same day — the amavasya of the month of Ashadha. <!-- F124 Q13 F129 -->
+
+## Kamala-manjari
+Srila Bhaktivinoda's eternal identity has been disclosed to the members of his spiritual family. He is the best of the
+followers of Sri Rupa-manjari, leader of the retinue of Lalita-sakhi, the first of Srimati Radhika's eight friends. In
+the songs of the "Kalyana-kalpa-taru" ("yugala-sevaya shri-rasa-mandale…") he calls himself an unworthy maidservant of
+Lalita-sakhi and prays to be appointed to the service of the Divine Couple in the circle of the rasa. And in the song
+"Siddhi-lalasa" from the collection "Gita-mala" ("varane tadit, vasa taravali…") he reveals his name — Kamala-manjari, a
+maidservant of Sri Rupa-manjari: her body is the colour of lightning, her sari the colour of the starry sky, she is
+forever twelve and a half years old; her abode is Svananda-sukhada-kunja in Lalita's grove[^26], where she sets the
+pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
+
 [^1]: This Krishnananda Datta, the raja in whose house Nityananda stayed, should not be confused with his namesake
     Krishnananda Datta, the father of Srila Narottama Dasa Thakura.
 [^2]: By the Gregorian calendar — Sunday, 2 September 1838; by the lunar calendar — the shukla-trayodashi of the month of
@@ -615,3 +720,7 @@ Devi, the revered Mata Thakurani, also departed. <!-- F120 F121 F157 -->
     Krishna-vijaya" was written by his father, Gunaraja Khan: "Gunaraja Khan has a book, the 'Sri Krishna-vijaya,' in
     which there is one saying filled with the greatest love for Krishna" (CC, Madhya 15.99).
 [^24]: By the list of works the "Sva-niyama-dvadashaka" was written in 1906.
+[^25]: This is a play on words: "bhakti-vinoda," "the joy of bhakti," is the highest goal (prayojana), love of God;
+    "gaura-kishora," the relationship with the youthful Gaura (sambandha); "bhakti-siddhanta," "the doctrine of bhakti,"
+    the means (abhidheya).
+[^26]: In one place the biography also calls this abode "Vrajananda-sukhada-kunja."
