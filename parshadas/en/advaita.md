@@ -581,6 +581,114 @@ Much later, after the Lord's sannyasa, when Nityananda agreed to marry, Advaita 
 among the devotees at the wedding in Boroganchhi, and afterwards Nityananda with His wives, Vasudha and Jahnava, at
 Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!-- F102 -->
 
+## The Lord's Sannyasa
+At the beginning of 1510 Mahaprabhu accepted sannyasa in Katwa. Intoxicated with love for Krishna, He wandered for three
+days, thinking He was going to Vrindavana, while Nityananda sent Chandrashekhara Acharya ahead:
+
+“At that time Sri Nityananda ordered Chandrashekhara: ‘Go quickly to the house of Advaita Acharya.’” (CC, Madhya 3.20)
+
+“‘I shall bring Sri Chaitanya to Advaita's house. But let Advaita wait for us with a boat on the bank of the Ganga.’”
+(CC, Madhya 3.21)
+
+From there Chandrashekhara was to go on to Navadvipa for Mother Shachi and all the devotees (Madhya 3.22)[^28]. The news
+of the Lord's sannyasa broke hearts, and, according to one of the biographies, Advaita wept until He fell down as though
+lifeless; then a voice from the sky told Him not to grieve: in a few days the Lord would be with them.
+<!-- F103 F104 Q13 -->
+
+## “Wherever You Are, There Is Vrindavana”
+Nityananda taught the cowherd boys to point out the road to the Lord so that it led Him not to the Yamuna but to the
+Ganga, opposite Shantipura. Taking the Ganga for the Yamuna, the Lord offered her a prayer and entered the water — and
+just then a boat came to the bank:
+
+“Just at that time Advaita Acharya arrived by boat with new cloth for Sri Chaitanya.” (CC, Madhya 3.30)
+
+“‘Advaitacharya! Is it You? How did You come here? How did You know that I am in Vraja?’” (CC, Madhya 3.32)
+
+“‘Truly, wherever You are, there is Vrindavana!’ the Acharya replied. ‘I am immensely fortunate that You have come to
+the bank of the Ganga.’” (CC, Madhya 3.33)
+
+The Lord exclaimed that Nityananda had deceived Him by calling the Ganga the Yamuna; but Advaita objected that there was
+no deception: here the Ganga and the Yamuna flow in one bed, and along the western bank flows the Yamuna, so the Lord had
+truly bathed in the Yamuna (Madhya 3.35–37). He dressed the Lord in dry cloth, brought Him by boat to His house and washed
+His feet[^29]. <!-- F105 -->
+
+Advaita fell prostrate before the Lord and embraced His feet, and the Lord raised Him up. To Advaita and Sita, says one
+of the biographies, it was as though life had been given back. <!-- F106 -->
+
+Advaita's little son Achyutananda came running too. Vrindavana Dasa speaks of him thus:
+
+“Advaita had a little son named Achyutananda, whose naked body seemed to radiate effulgence.” (CB, Antya 1.213)
+
+“Understanding that the Lord had come, this child, covered with dust from head to foot, came laughing to see Him.”
+(CB, Antya 1.215)
+
+“Coming, he fell at the lotus feet of Gaurachandra, and the Lord took this dust-covered child onto His lap.” (CB, Antya
+1.216)
+
+The Lord called the boy His brother: “If Advaita is My father, then you are My brother.” And he replied: “The scriptures
+say that You are the father of all”[^30]. <!-- F107 Q15 -->
+
+## Ten Days in Shantipura
+The Lord had eaten nothing for three days, and in Advaita's house a great feast was prepared for Him. Sita cooked, and
+Advaita offered everything to Vishnu; the rice lay in mountains on whole banana leaves. The Lord, says one of the
+biographies, after His fast accepted prasada from Sita's hands. At the meal Advaita joked with Him and with Nityananda,
+and Nityananda and Advaita began a playful quarrel: Advaita called Nityananda a “fallen avadhuta,” and Nityananda, as if
+in anger, threw a handful of rice — and Advaita danced with joy that the remnants of Nityananda's meal had touched Him.
+Such “disputes” of Advaita with Nityananda are lila: the one who seems to censure Nityananda in truth glorifies Him. On
+the following days the Lord ate Shachi's cooking as well. <!-- F108 I15 -->
+
+The next morning Chandrashekhara brought Shachi from Navadvipa:
+
+“On the morning after Mahaprabhu's arrival Chandrashekhara brought Mother Shachi in a palanquin. Many other devotees
+came with them as well.” (CC, Madhya 3.137)
+
+The people of Navadvipa came as well; in Shantipura the Lord was visited by Gangadasa, Shridhara, Damodara,
+Nandana Acharya and others. For four days Sita did not leave Shachi, who lay as though at the point of death.
+<!-- F109 -->
+
+For ten days sankirtana never ceased in Advaita's house:
+
+“All danced in jubilation, crying ‘Hari! Hari!’ Truly, Advaita's house became like Vaikuntha.” (CC, Madhya 3.156)
+
+Then, at His mother's request, the Lord resolved to live in Puri, and in that same year 1510 He went there, having
+encouraged the devotees, whom Advaita now led. For Advaita and all Navadvipa a time of separation began. <!-- F110 Q13 -->
+
+## Every Year to Nilachala
+From Puri the Lord set out to travel through South India. When Kala Krishnadasa brought to Bengal the news that He had
+returned, Advaita and the other devotees, with Shachi's permission, made ready to go to Puri. Devotees from Shrikhanda
+came to Advaita's house as well, to travel together:
+
+“Mukunda, Narahari and Raghunandana from Khanda also came to the Acharya's house, to go with Him to Jagannatha Puri.”
+(CC, Madhya 10.90) <!-- F111 -->
+
+Kaviraja Gosvami speaks of their first coming thus:
+
+“In the year after Sri Chaitanya accepted sannyasa, all the devotees, headed by Advaita, set out for Jagannatha Puri to
+see Mahaprabhu.” (CC, Madhya 1.46)
+
+“Having seen the Ratha-yatra, all the devotees stayed four months more, to relish the supreme bliss of dancing and
+singing the holy names in Sri Chaitanya's company.” (CC, Madhya 1.47)
+
+“Taking leave of everyone, the Lord asked the devotees to come every year to the Ratha-yatra festival at the Gundicha
+temple.” (CC, Madhya 1.48)
+
+According to one of the biographies, Advaita set out with Shachi's permission even before the Ratha-yatra, and the Lord
+sent mahaprasada ahead to meet the travellers at Cuttack[^31]. <!-- F112 -->
+
+Of the twenty-four years after His sannyasa the Lord spent six in travel and eighteen in Puri (Madhya 1.249), and all
+that time the Bengalis came to Him every year:
+
+“And every year the Bengali devotees came to see Sri Chaitanya and stayed four months in Puri.” (CC, Madhya 1.250)
+
+“The other devotees, headed by Advaita, Nityananda, Vidyanidhi, Mukunda, Vasudeva, Murari and Srivasa, came to Sri
+Chaitanya every year and stayed four months in Nilachala.” (CC, Madhya 1.255)
+
+And it was always Advaita who led them:
+
+“The devotees set out for Nilachala under the leadership of Advaita Acharya.” (CB, Antya 8.6)[^32]
+
+Sita and Achyutananda went with Him. <!-- F113 Q13 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -658,3 +766,13 @@ Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!
 [^27]: One of the biographies places this account in the section on Advaita's life after the Lord's sannyasa; according
     to the “Chaitanya-bhagavata” (Madhya 23), the procession to the Kazi took place before the sannyasa. The order of the
     parties in the procession is given differently by the sources (see the article on Srivasa).
+[^28]: So according to the “Charitamrita.” One of the biographies says that the Lord Himself sent Chandrashekhara, the
+    husband of His aunt, to console Navadvipa.
+[^29]: One of the biographies tells of the way to Shantipura differently: the Lord Himself sent Nityananda to bring the
+    devotees of Mayapura to Advaita's house, and He Himself came there by way of Phulia, where crowds met Him — even
+    blasphemers. Here the account follows the “Charitamrita” (Madhya 3).
+[^30]: Vrindavana Dasa gives Achyutananda's age at that time differently — now three years, now five.
+[^31]: According to the “Charitamrita,” this was “in the following year” after the sannyasa. One of the biographies, having
+    quoted this verse, at once adds that probably about three more years had passed.
+[^32]: One of the biographies refers this verse to the “Charitamrita” (“CC 3.8”), and the verse about the yearly visits
+    (Madhya 1.255) to “2.9.255–256”; correctly they are CB, Antya 8.4–6 and CC, Madhya 1.255.
