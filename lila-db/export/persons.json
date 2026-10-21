@@ -11691,7 +11691,7 @@
    {
     "type": "father",
     "who": "@kuvera-pandita",
-    "note": "Кувера Пандит; по ГГД 91 (у T) — Кубера. ⚠ В PERSONS.md есть и @kubera-acharya («Адвайта-пракаша») — вероятный дубль тега."
+    "note": "Кувера Пандит; по ГГД 91 (у T) — Кубера. Он же Кубера Ачарья «Адвайта-пракаши» (теги слиты)."
    },
    {
     "type": "mother",
@@ -28588,43 +28588,6 @@
   ]
  },
  {
-  "id": "@kubera-acharya",
-  "ru": "Кубера Ачарья (Тарка-панчанана)",
-  "en": "Kubera Acharya (Tarka-panchanana)",
-  "note": "отец Адвайты Ачарьи («Адвайта-пракаша»)",
-  "section": "Спутники",
-  "lilas": [
-   "apr-0002",
-   "apr-0003",
-   "apr-0004",
-   "pvl-0206",
-   "pvl-0241",
-   "apr-0006",
-   "pvl-0207",
-   "pvl-0242",
-   "apr-0007",
-   "pvl-0208",
-   "pvl-0243",
-   "apr-0008",
-   "apr-0009",
-   "pvl-0209",
-   "apr-0010",
-   "pvl-0210",
-   "pvl-0276"
-  ],
-  "events": [
-   "ev-advaita-parents-conception",
-   "ev-labha-dream-yama",
-   "ev-advaita-birth",
-   "ev-advaita-revives-prince",
-   "ev-advaita-kali-image-splits",
-   "ev-advaita-studies-shantipura",
-   "ev-advaita-lotus-miracle",
-   "ev-advaita-parents-departure",
-   "ev-advaita-meets-madhavendra"
-  ]
- },
- {
   "id": "@labha",
   "ru": "Лабха-деви",
   "en": "Labha-devi",
@@ -35752,14 +35715,39 @@
   "id": "@kuvera-pandita",
   "ru": "Кувера Пандит (Кувера Мишра)",
   "en": "Kuvera Pandita (Kuvera Mishra)",
-  "note": "отец Адвайты Ачарьи, Наваграм (Шрихатта); по «Гаура-ганоддеша-дипике» (81) — Кубера, друг Махадевы; супруга — @labha (Набха)",
+  "note": "отец Адвайты Ачарьи; он же Кубера Ачарья (Тарка-панчанана) «Адвайта-пракаши»; Наваграм (Шрихатта); по «Гаура-ганоддеша-дипике» (81) — Кубера, друг Махадевы; супруга — @labha (Набха)",
   "section": "Спутники",
   "lilas": [
+   "apr-0002",
+   "apr-0003",
+   "apr-0004",
+   "pvl-0206",
+   "pvl-0241",
    "pad-0554",
-   "pad-0547"
+   "apr-0006",
+   "pvl-0207",
+   "pvl-0242",
+   "apr-0007",
+   "pvl-0208",
+   "pvl-0243",
+   "apr-0008",
+   "apr-0009",
+   "pvl-0209",
+   "apr-0010",
+   "pvl-0210",
+   "pad-0547",
+   "pvl-0276"
   ],
   "events": [
+   "ev-advaita-parents-conception",
+   "ev-labha-dream-yama",
    "ev-advaita-birth",
+   "ev-advaita-revives-prince",
+   "ev-advaita-kali-image-splits",
+   "ev-advaita-studies-shantipura",
+   "ev-advaita-lotus-miracle",
+   "ev-advaita-parents-departure",
+   "ev-advaita-meets-madhavendra",
    "ev-tattva-nityananda-advaita"
   ],
   "related_by": [
