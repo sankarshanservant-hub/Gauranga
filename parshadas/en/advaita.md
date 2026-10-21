@@ -576,11 +576,6 @@ procession, dancing and loudly singing the names:
 
 And the Kazi became a friend and vowed never again to hinder the sankirtana[^27]. <!-- F101 Q12 -->
 
-## Nityananda's Wedding
-Much later, after the Lord's sannyasa, when Nityananda agreed to marry, Advaita rejoiced: “Let it happen soon!” He was
-among the devotees at the wedding in Boroganchhi, and afterwards Nityananda with His wives, Vasudha and Jahnava, at
-Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!-- F102 -->
-
 ## The Lord's Sannyasa
 At the beginning of 1510 Mahaprabhu accepted sannyasa in Katwa. Intoxicated with love for Krishna, He wandered for three
 days, thinking He was going to Vrindavana, while Nityananda sent Chandrashekhara Acharya ahead:
@@ -700,7 +695,7 @@ the Lord, first of all, placed Jagannatha's garland on Advaita. <!-- F114 F115 -
 ## The Ratha-yatra and Gundicha
 At the Ratha-yatra the Lord Himself divided the singers into groups and appointed a dancer for each — Nityananda,
 Advaita, Haridasa and Vakreshvara. In the first group the lead singer was Svarupa Damodara and the dancer Advaita. There
-was also the Shantipura group, which Advaita Himself had gathered; His son danced in it, and Gopala Mishra sang with them:
+was also the Shantipura group, which Advaita Himself had gathered; His son danced in it, and Gopala Mishra was in it too:
 
 “In the group of singers from Shantipura, which Advaita Acharya had gathered, Achyutananda, Advaita's son, was chosen as
 the dancer. All the others were to sing along with Advaita.” (CC, Madhya 13.45)
@@ -739,8 +734,8 @@ Together with the Lord, Advaita also went to the garden of Tota-Gopinatha to hea
 “Bhagavatam.” <!-- F118 F119 Q15 Q16 -->
 
 ## A Meal in the Storm
-Once Advaita began to entreat the Lord to come to Him for a meal. He wanted to feed the Lord alone: when He came with the
-sannyasis, out of respect for them He ate very little. Advaita cooked Himself, while His wife helped Him — cutting
+Once Advaita began to entreat the Lord to come to Him for a meal. He wanted to feed the Lord alone: when the Lord came with
+the sannyasis, out of respect for them He ate very little. Advaita cooked Himself, while His wife helped Him — cutting
 vegetables and handing Him the provisions brought from Bengal (CB, Antya 9.20–24)[^34]. When the cooking was done,
 Advaita placed a tulasi-manjari on every dish and sat down to meditate: let the Lord come alone. <!-- F120 -->
 
@@ -840,8 +835,14 @@ Puri, he also received Advaita's blessings. Now the Lord told him to go home and
 Taking leave, the Lord told the devotees to come every year to the Ratha-yatra, and consoled Advaita: He hoped to see Him
 in Nilachala within that very year. <!-- F129 -->
 
+## Nityananda's Wedding
+Later, when Nityananda, then living in Bengal, agreed to marry, Advaita rejoiced: “Let it happen soon!” He was
+among the devotees at the wedding in Boroganchhi, and afterwards Nityananda with His wives, Vasudha and Jahnava, at
+Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!-- F102 -->
+
 ## Puri: the Following Years
-In the third year the Bengalis went to Puri together with their wives:
+On one of their visits — according to the “Charitamrita,” in the third year — the Bengalis took their wives to Puri
+as well:
 
 “All the devotees set out under the leadership of Advaita Acharya, who joyfully anticipated meeting Mahaprabhu.” (CC,
 Madhya 16.13)
@@ -875,13 +876,10 @@ Kamalakanta Vishvasa, Advaita's servant and disciple, without His knowledge wrot
 the Supreme Lord Himself, but by the will of fate had run into a debt of three hundred rupees, and asked the king to pay
 this debt. The letter reached the Lord. He said that to call Advaita the Supreme Lord was no mistake, but to present the
 Supreme Lord as a poor beggar was a disgrace, and He told Govinda no longer to let Kamalakanta in to see Him (CC, Adi
-12.29–36). Kamalakanta grieved, but Advaita rejoiced:
-
-“Sri Advaita said to Kamalakanta: ‘You simply do not understand your immense good fortune. For it is the Supreme Lord
-Himself — Sri Chaitanya Mahaprabhu — who has punished you.’” (CC, Adi 12.38)
-
-And Advaita went to the Lord to “complain” that He had shown Kamalakanta more mercy than He had shown Him. The Lord
-laughed, called Kamalakanta and instructed him:
+12.29–36). Kamalakanta grieved, but Advaita rejoiced and told him that he did not understand his immense good
+fortune: for it was the Supreme Lord Himself — Sri Chaitanya Mahaprabhu — who had punished him (Adi 12.38). And Advaita
+went to the Lord to “complain” that He had shown Kamalakanta more mercy than He had shown Him. The Lord laughed, called
+Kamalakanta and instructed him:
 
 “An acharya-Vaishnava must never take gifts or money from kings and the wealthy. He must never eat food from the hands of
 materialistic people, for this pollutes the mind.” (CC, Adi 12.50)
@@ -961,12 +959,9 @@ feet of Sri Chaitanya (Adi 12.13). The “Gaura-ganoddesha-dipika” calls him t
 sees in him Karttikeya or the gopi Achyuta (others consider Krishna Mishra to be Karttikeya). One of the biographies gives
 the year of his birth as 1428 Shaka (1506), and the place as Shantipura[^44]. Srila Bhaktisiddhanta in the “Anubhashya”
 calls Achyutananda the first of Advaita's disciples, while the “Shakha-nirnayamrita” calls him a disciple of Gadadhara. In
-the Lord's last years he lived in Puri:
-
-“Achyutananda is the son of Advaita Acharya. He remained living in Jagannatha Puri, having taken shelter at the lotus feet
-of Sri Chaitanya.” (CC, Adi 10.150)
-
-According to one of the biographies, Advaita's other sons also lived in Puri at that time. <!-- F138 Q11 -->
+the Lord's last years, according to the “Charitamrita,” he remained living in Jagannatha Puri, having taken shelter at
+the feet of Sri Chaitanya (Adi 10.150); according to one of the biographies, Advaita's other sons also lived there at
+that time. <!-- F138 Q11 -->
 
 Yet another biography mentions “Sri Nrisimha, the son of Advaita Acharya,” who lived in Ramakeli[^45]. <!-- F139 -->
 
