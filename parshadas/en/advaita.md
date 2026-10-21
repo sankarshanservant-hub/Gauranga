@@ -315,6 +315,91 @@ the first allowed to offer the Child clothing. All the devotees together with Ad
 of the Child. Sita is worthy of worship equally with Shachi: her motherly love, vatsalya, for Gaura is of the same kind.
 <!-- F57 I16 -->
 
+## Nimai and Vishvarupa
+The Lord was growing up in Navadvipa, and even the devotees were not sure that Nimai was Bhagavan Himself. Advaita, for
+His part, behaved as though He did not know who He was — and wished more than anyone that the learned Nimai would
+become a devotee[^17]. Nimai's elder brother, Vishvarupa, studied in Advaita's tol: every day, after bathing in the
+Ganga, he listened to His lectures and then himself explained to those gathered that the essence of all scripture is
+devotion to Krishna, and Advaita, rising from His puja, would embrace him. Whole days Vishvarupa spent in Advaita's
+house in talks on the scriptures of bhakti. Little Nimai used to run over to call His brother to lunch, and Advaita
+could not take His eyes off His face. Many years later He recalled:
+
+“His elder brother, Vishvarupa, always used to come to Me before and discuss the ‘Gita’ with Me.” (CB, Madhya 2.21)
+
+“As a child Vishvambhara was exceptionally beautiful. He always came to Me to call His brother, Vishvarupa.” (CB,
+Madhya 2.22)
+
+“Enchanted by His beauty, I always blessed Him with the words: ‘May You attain bhakti.’” (CB, Madhya 2.23)
+<!-- F58 F59 -->
+
+When Vishvarupa was twelve years old and his wedding was already being prepared at home, he left and took sannyasa
+with the name Shankararanya. Advaita grieved, but comforted everyone: soon Krishna Himself would appear; together with
+Sita He consoled Jagannatha and Shachi and helped them bring up Nimai. In Advaita's Navadvipa house the “Bhagavatam” was
+still read and kirtan sung, and everyone delighted in the voice of Mukunda Datta. <!-- F60 F61 -->
+
+## Ishvara Puri in Advaita's House
+Once Ishvara Puri, a disciple of Madhavendra, came to Navadvipa unrecognised by anyone and entered Advaita's house:
+
+“When Ishvara Puri, by the will of providence, arrived at Advaita's house, no one could recognise him in such dress.”
+(CB, Adi 11.72)
+
+“He humbly sat down beside Advaita, who was performing puja.” (CB, Adi 11.73)
+
+“The radiance of a Vaishnava is never hidden from another Vaishnava. Advaita looked at the guest and could not take His
+eyes off him.” (CB, Adi 11.74)
+
+“Advaita asked: ‘Who are you, dear sir? I think you are a Vaishnava sannyasi.’” (CB, Adi 11.75)
+
+The guest answered that he was lower than a shudra. Then Mukunda sang of Krishna, and Ishvara Puri fell unconscious in
+the ecstasy of love; Advaita embraced him and was Himself drenched with his tears, and on Him too the signs of ecstasy
+appeared. So Ishvara Puri and Advaita met, both disciples of Madhavendra, though Advaita only played that
+role[^18]. <!-- F62 -->
+
+## The Dream about the “Gita”
+When Nimai returned from Gaya transformed, with the signs of the highest devotion, Advaita, Srivasa and the other
+devotees rejoiced, and Advaita began little by little to reveal to them Who He was. He told the Vaishnavas His dream.
+Not having understood a verse of the “Gita,” He had fasted, and at night someone said to Him: “Get up, Acharya, and
+eat; the meaning of the verse is — worship Me alone.” And further — about the vow Advaita had made with arms raised:
+
+“Why do You grieve? You have attained all You strove for. Your desire is fulfilled. That for which You kept fasts,
+performed worship and, weeping, chanted the names of Krishna has come to pass. You made an unbreakable vow to call down
+the Supreme Lord, and that Lord has now appeared.” (CB, Madhya 2.12–14)
+
+By His mercy, the voice said, people would see a bhakti inaccessible even to Brahma. Opening His eyes, Advaita saw
+Vishvambhara — and He vanished. The “Chaitanya-bhagavata” speaks of this in another place too:
+
+“Having revealed to Advaita the true meaning of the verse of the ‘Bhagavad-gita,’ Vishvambhara closed that door leading
+to the path of bhakti.” (CB, Madhya 10.166) <!-- F63 F64 Q1 Q11 -->
+
+The secrets of Krishna, Advaita added, He could not fathom — but let everyone wish that Nimai would surrender to
+Krishna. The devotees bowed to Him and began to sing the name of Hari. <!-- F65 -->
+
+## Gadadhara Sees the Worship
+Soon Gauranga came with Gadadhara to Advaita. Advaita cried out loudly, “Hari! Hari!” — and Gauranga fell unconscious.
+Then Advaita worshipped His feet with all the articles of puja and recited hymns to Govinda. Gadadhara objected: it is
+not fitting for an old man to worship a boy! “In a few days you will know,” Advaita answered. Coming to Himself, the
+Lord begged Advaita for mercy, and Advaita begged Him to lead them all in kirtan; and the Lord agreed. <!-- F66 -->
+
+Then Advaita withdrew to Shantipura: if Gauranga is Krishna, He Himself will draw Him to Himself. Advaita's mind is hard
+to understand — now He reveals Nimai, now He pretends not to know Him, now He “tests” Him and hides; but all this is so
+that the Lord should reveal Himself to the world[^19]. <!-- F67 I4 -->
+
+## “Nara!”
+Soon the Lord revealed Himself to Srivasa. He kicked the door of his temple: “Whom are you worshipping? Here I am!” —
+and showed His four-armed form. “Because of your loud sankirtana and Advaita's audacious call,” He said, “I have left
+Vaikuntha.” <!-- F68 -->
+
+And when Nityananda's Vyasa-puja was being performed in the house of Srivasa, the Lord began to call loudly: “Nara!
+Nara!” So He called Advaita, whose cry had brought Him down from Vaikuntha — and now Advaita lived without a care in
+Shantipura with Haridasa:
+
+“Only because of Nara, whom you all know as Advaita Acharya, have I now descended into this world.” (CB, Madhya 5.51)
+
+“Nara called Me from Vaikuntha, and now lives without a care together with Haridasa.” (CB, Madhya 5.52)
+
+“I lay in the Ocean of Milk,” the Lord would say another time, “and My sleep was broken by the roar of Nada” (CB, Madhya
+22.16)[^20]. <!-- F69 Q8 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -360,3 +445,14 @@ of the Child. Sita is worthy of worship equally with Shachi: her motherly love, 
     and Haridasa bathed in the river, danced and sang, and Sita was sent to Mayapura; according to yet another, Advaita,
     having come from Shantipura, understood that Hari Himself had appeared and explained this to Srivasa and others.
 [^16]: One of the biographies refers this episode to verse Adi 13.112; correctly it is Adi 13.111 and 13.117.
+[^17]: One of the biographies says that Advaita, enchanted by the boy's beautiful face, did not recognise the Lord in
+    Him. This concealment is part of the lila performed by His own will: Maha-Vishnu, non-different from Hari, cannot
+    fail to know the Lord, but, as another biography says, He “pretends not to know,” so that the Lord should reveal
+    Himself at the proper hour.
+[^18]: One of the biographies names Advaita's temple as the place of the meeting; another adds that later Gauranga met
+    Ishvara Puri there too — but according to the “Chaitanya-bhagavata” (Adi 11), the Lord met him on the road.
+[^19]: The “test” of which the biographies speak is not doubt. Advaita knows Who Gauranga is and Himself tells the
+    Vaishnavas of it; His “test” is a lila by which He compels the Lord to reveal Himself to all.
+[^20]: According to one of the biographies, the Lord called “Nara” on the very day of Nityananda's Vyasa-puja; according
+    to another, on the eve, at the adhivasa. In one of the biographies the Lord's words are referred to verses
+    “CB 2.9.297–298”; correctly they are CB, Madhya 22.16 and 5.51–52.
