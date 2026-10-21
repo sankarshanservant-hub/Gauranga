@@ -779,6 +779,67 @@ Thus Advaita was the first openly to introduce kirtan in glory of Sri Krishna Ch
 Krishna, for He is Krishna. In this one sees Advaita's chief trait — spiritual fearlessness: it sounded in His loud call,
 in the shraddha-patra given to Haridasa, and in this kirtan. <!-- I10 -->
 
+## Again in Shantipura: the Journey to Gauda
+Five years after His sannyasa the Lord resolved to go to Vrindavana by way of Bengal. According to the
+“Charitamrita,” He visited Srivasa in Kumarahatta, then Kulia, where He stayed a week in the house of Madhava Dasa and
+granted deliverance to crowds of people — even to sinners and offenders (the “Chaitanya-chandrodaya,” 9.33, also speaks
+of those seven days in Kulia), and from there He came to Shantipura, to Advaita's house, and consoled His mother there.
+From Shantipura He went to Ramakeli, where He met Rupa and Sanatana, reached Kanai-natashala and returned again to
+Shantipura, staying there ten days this time (CC, Madhya 16.205–212)[^36]. It is said that in those days Vamshivadana was
+born, and the Lord and Advaita were present at his birth. <!-- F123 Q16 -->
+
+## Achyuta and the Question about Keshava Bharati
+Even before the Lord came back from Ramakeli, a certain sannyasi came to Advaita's house and asked what relation Keshava
+Bharati bore to Sri Chaitanya. From the spiritual point of view the Lord has not and cannot have a guru; but Advaita
+reasoned that one may begin from the worldly side — so Devaki too is called Krishna's mother and Sandipani His guru — and
+answered: “Keshava Bharati is Chaitanya's guru” (CB, Antya 4.147–151). Just then five-year-old Achyuta ran in, naked and
+all dusty from play. The “Charitamrita” tells:
+
+“Hearing from his father that Keshava Bharati was Sri Chaitanya's teacher, Achyutananda was very upset.” (CC, Adi
+12.14)
+
+“Then he said to his father, Advaitacharya: ‘Your words that Keshava Bharati became Sri Chaitanya's guru bring ruin to our
+whole country.’” (CC, Adi 12.15)
+
+“‘Sri Chaitanya is the Guru of the whole universe. Yet You say that someone is His teacher. But there is no confirmation
+of this in the scriptures.’” (CC, Adi 12.16)
+
+“Advaita felt great joy when He heard the essence of the scriptural conclusions from His five-year-old son.” (CC, Adi
+12.17) <!-- F124 Q11 -->
+
+According to the “Chaitanya-bhagavata,” Advaita in bliss embraced His son, bathed him in tears of love and said:
+
+“‘You are My father, and I am your son. You have appeared as My son in order to instruct Me.’” (CB, Antya 4.174)
+
+He begged His son's forgiveness, and the boy, hearing himself praised, lowered his head in embarrassment. The sannyasi
+fell at Achyuta's feet and exclaimed: “As the father, so the son!” (CB, Antya 4.177–178)[^37]. Advaita danced together
+with His son: in His house an associate of the Lord had been born. Achyuta is an example of what a true son of Advaita is
+like: he cannot bear even worldly speech that belittles the Lord. <!-- F125 I9 -->
+
+At that moment the Lord Himself arrived. Advaita fell prostrate before Him, crying “Hari! Hari!”; the Lord embraced Him
+and bathed Him in tears, and Advaita lost consciousness, and on coming to Himself seated the Lord. Advaita and Nityananda
+embraced. The Lord took Achyuta on His lap and washed the dust off him with His tears; He blessed the boy. <!-- F126 -->
+
+## The Festival at Advaita's; Raghunatha
+Advaita sent for Shachi. She came in a palanquin, and the Lord fell prostrate at her feet; she herself cooked for her Son.
+The festival in Advaita's house lasted several days, and no one knew where the provisions came from. <!-- F127 -->
+
+At that time Raghunatha Dasa came to Shantipura. His father Govardhana Majumdar respectfully served Advaita with gifts,
+and therefore Advaita presented the young man to the Lord:
+
+“Raghunatha Dasa's father always respectfully served Advaita, and Advaita was favourably disposed to his whole family.”
+(CC, Madhya 16.225)
+
+“So Raghunatha stayed in Advaita's house, obtaining the chance for about a week to serve Sri Chaitanya and to eat the
+remnants of Mahaprabhu's meals.” (CC, Madhya 16.226)[^38]
+
+Raghunatha had seen the Lord already on His first coming to Shantipura, after the sannyasa (Madhya 16.223), and later, in
+Puri, he also received Advaita's blessings. Now the Lord told him to go home and wait until He came back from Vrindavana.
+<!-- F128 Q13 -->
+
+Taking leave, the Lord told the devotees to come every year to the Ratha-yatra, and consoled Advaita: He hoped to see Him
+in Nilachala within that very year. <!-- F129 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -872,3 +933,19 @@ in the shraddha-patra given to Haridasa, and in this kirtan. <!-- I10 -->
     Him.
 [^35]: One of the biographies puts these words in Advaita's mouth; according to the “Chaitanya-bhagavata” (Antya
     9.204–208), it was Srivasa Pandita who answered so: he made as if to hide the sun in his palms, and laughed.
+[^36]: The “Charitamrita” mentions both stays with Advaita — before Ramakeli and after. The biographies speak now of one,
+    now of the other, and differ in the order of the journey: according to one, after the South the Lord passed through
+    Kulia, then Ramakeli, and only then returned to Shantipura; according to another, He stayed a few days with Advaita
+    and went to Ramakeli, and from Advaita, as the “Chaitanya-bhagavata” says, to Srivasa in Kumarahatta; according to a
+    third, the Lord stopped at Advaita's on the way back from Kanai-natashala, and Balabhadra and Damodara are named as
+    being with Him — but, according to the “Charitamrita” (Madhya 17), Balabhadra Bhattacharya accompanied the Lord
+    later, on the way from Puri to Vrindavana.
+[^37]: Advaita's response is told differently. According to the “Charitamrita” (Adi 12.17), He rejoiced at His son's
+    words; it does not mention the sannyasi. The “Chaitanya-bhagavata” speaks both of Advaita's bliss (Antya 4.172) and of
+    His calling His son His father and begging forgiveness. One of the biographies writes that Advaita was ashamed.
+    Advaita's shame is the same play as His “worldly” answer: He, Maha-Vishnu Himself, knows that the Lord has no guru,
+    and arranges this conversation to reveal to the world His son's faith. Therefore the boy's reproach too — whether maya
+    had not overcome his father (CB, Antya 4.159–161) — does not mean that Advaita is subject to maya: Maha-Vishnu is her
+    Master.
+[^38]: One of the biographies speaks of five or six days; the translation of the “Charitamrita” has “about a week,” and a
+    little further (Madhya 16.234) “a whole week.”
