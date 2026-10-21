@@ -129,3 +129,163 @@ promised to come, but on entering the town he saw a pipal, recognised in it a Va
 Srila Madhava Maharaj came to him himself, and Babaji, remembering his love for Srila Bhaktisiddhanta, treated him to
 sweet rice. Apparently this meeting took place in just those four days by Upendra Maiti's road[^6]. <!-- F32 -->
 
+### Gaya
+He spent one night in the village of Godapiyasal, in the morning was at Shalboni and asked whether there was a station
+there. By a train at three in the morning he reached Gomoh and stayed on the platform, and the next day, with two
+servants, by the Delhi Mail, he arrived in Gaya-dhama at about half past one in the afternoon. Here he wished to stay
+near the temple of Sri Vishnu-pada. Local people invited him to the veranda of an open dharmashala by the Phalgu, but
+he remained in his tent on the sand of the bank. The whole day of Radhashtami he spent in supreme joy. And after two or
+three days he was speaking of Vrindavana again. <!-- F36 F37 F39 -->
+
+In Gaya he sang: “I will not go where Nitai is not; I will not look upon the faces of those who oppose Nitai.” The
+pandas of Gaya asked him to offer pinda to his ancestors. He asked where Gayasura had come from and heard out the whole
+legend; and the pandas added: “Here, during Ramachandra's exile, Sri Sita Devi offered pinda to Maharaja Dasharatha —
+you too should offer it.” Babaji replied: “People perform the dharma of giving gifts — and where do they go once they
+have crossed the Vaitarani? I cross it on a cart! I am kept outside the rules of the Vedas: I do neither the work of
+the Vedas nor the work of the injunctions — how am I to offer pinda to my parents?” And pointing to his Deities, he
+added: “They here will not let me.” “Ask your Thakuras and do as They say,” the pandas insisted, but he only repeated:
+“Hari, lover of His devotees!” <!-- F38 F40 F41 -->
+
+A wrestler laid a “Hanuman-yantra” amulet before him and asked him to return it with a blessing. “You have come to
+wheedle a blessing!” Babaji said sternly. “Take it — why did you throw it here?” — and the man picked up the amulet
+himself and left. And to Sri Gopala Babaji complained: “In Puri there are pandas, and here there are pandas, but no
+Harinama. I know nothing — now You Yourself deal with the pandas. You have left both Vedic and worldly dharma — who will
+drink water from Your hands? Gayanatha has no home, and Kashinatha has none either.” <!-- F42 F43 -->
+
+### Kashi
+From 25 Ashvina he lived in Kashi-dhama on the bank of the Ganga — at “the field where Sri Sanatana received
+instruction”; of his days there the servants of the Sri Sanatana Gaudiya Math told. To his Thakura he said: “You have
+seen Gayanatha — now see Kashinatha. In Puri You saw Lokanatha — here he is Kashinatha. You will go to Prayaga — there
+are troops there, but there are sadhus too, only he does not reveal himself to everyone. You will go to Vrindavana, and
+then where? In the rains, when the Ganga rises, in Ashadha, You will return to Navadvipa.” <!-- F45 F46 -->
+
+Almost every day he sang Srila Narottama Dasa Thakura's song “Nitai-pada-kamala” — “The lotus feet of Nitai”. At the
+line “When Nitai's mercy comes, you will attain Radha-Krishna in Vraja” he would say: “There is talk of Vraja, but
+whether I shall go I cannot say.” At the words that Nitai's feet are cooler than ten million moons he sighed: “Then why
+have I not been cooled?” At night he talked with Thakura and sang joyfully. <!-- F44 F23 Q6 -->
+
+Once, smelling a stick of incense, he said: “Nothing has any fragrance — or the fragrance is there, but the nose does
+not catch it.” And he recalled a saying from his former life beyond the Brahmaputra: “What is a washerman to do in a
+land of naked sannyasis?” — so too a speaker without listeners. “When Mahaprabhu came, hundreds of thousands flocked to
+Him; let us see how many come now. The Mayavadis of Kashi reviled Mahaprabhu then, and Tapana Mishra and Chandrashekhara
+suffered for it; let them come now — we shall see who is able.” And another time he said: “Wherever I go, sorrow goes
+with me — the prema of separation.” <!-- F47 F48 -->
+
+On his very first day in Kashi he himself chose the place for his tent. An old woman would not let him have it: “This
+is my place, I have sat here twenty years!” He drove her off: “Her place! Her purchased ghata! So Nitai's own estate is
+lost!” — and he sang: “Yama, run, run! In the domain of Nitai-chanda your turn is over.” The old woman tried to have
+him driven out with the help of worldly people. The chronicle remarks: such an evil thought takes hold of a soul that
+only pretends to live in Kashi and offends the feet of Shambhu — the king of Vaishnavas — and of the dhama itself; she
+offended the feet of a paramahamsa, one of Gaura-Nityananda's own, as Ramachandra Khan once offended the feet of
+Nityananda. <!-- F49 F50 -->
+
+He sang: “One who has no connection with this — his life has passed in vain” — and added: “I have nothing to do with
+all this; I see none of it.” This line he repeated later too. He sang also of intimate service: “Following the sakhis,
+I shall take up loving service”, “The sakhi in the form of the guru is on the left; I shall fan with a chamara Him who
+stands in the threefold-bending pose.” <!-- F51 -->
+
+On 3 Karttika he suddenly wished to go straight to Vrindavana, ordered transport to be arranged and even agreed to the
+train — on condition that, apart from him, not a single passenger travel on the entire train. When they came to say the
+carriage had been booked, he made no reply, and long afterwards said: “I will not go now.” — “But everything is booked,
+the money is paid!” — “Why did you pay? How should I know whether I shall go? You paid — very well; I will not go.”
+That day from morning he smiled to himself and spoke much; with tears of joy he sang “Nitai and Gaura dance in the house
+of Gauridasa”, and at times he spoke of Kalna and its Amli-tala. <!-- F52 F53 -->
+
+When a bather cried out “Sita-Rama!”, Babaji remarked: “‘Sita-Rama’ lives on the throne, and ‘Hare-Rama’ on the bank of
+the Sarayu.” And with a laugh: “All the sadhus get stuck at Gopala. There is no madhura-rasa now — I have no
+madhura-rasa; here it is shanta, dasya, sakhya, vatsalya, up to that.” And looking at a banana (rambha) before Thakura,
+he played on the word: “Rambha — Rambhavati, Kalavati, Lilavati — that is in Puri.” When a servant brought water for
+the service, he said to himself: “Without service the pure is not attained; Raya says: service is the way to the pure.”
+And suddenly: “What use is the thread? Mahaprabhu Himself said:
+“If a person has realised the truth about Krishna, he is a true Guru, whether he be a brahmana, a sannyasi or a
+shudra”. (CC, Madhya 8.127)
+And again: “In the service of Krishna birth or eminence is not taken into account at all”. (CC, Antya 4.67)”
+<!-- F54 F55 Q1 Q2 -->
+
+Once in Kashi a prakrita-sahajiya who had earlier sung lila-kirtana before him came to him. Chewing betel and laughing,
+he shouted loudly “Jaya Nitai, Jaya Nitai!”, as if glorifying Babaji, and, breaking the flow of hari-katha, struck up
+“The cowherd boy of Vraja has come”. A servant of the Sanatana Gaudiya Math stopped him and asked him to listen to
+Babaji; feigning embarrassment, the man began to take his leave. Babaji raised his hand before his face: “Excessive
+devotion is the mark of a thief!” — “How have I become a thief?” — “With your lips you say ‘Hari’, but in your mind
+there is something else.” The mask fell, and the hypocrite left. <!-- F56 -->
+
+A stout woman in saffron, assuming the air of a venerable elder, said: “Baba, I saw you at Baral Ghata in Navadvipa!
+Bless me to chant the name of Hari much; I am a daughter-in-law of Advaita's family.” He replied: “Above three locks —
+six, above them — sixteen, and still the thief breaks in and steals. A family has only one lock: what can it do? Go,
+go to your Baral Ghata.” <!-- F57 -->
+
+To a woman carrying bel leaves for the worship of Shiva he said: “I have seen, I have seen — this is in Navadvipa too,”
+and, pointing to a Shiva-linga: “Here it is all the same. When Gaura was small, He used to go naked to the bathing
+ghata of the Ganga. The girls would mould a Shiva-linga there and worship it, and He would joke with them: ‘Rather than
+Shiva, won't you worship Me?’”[^7] <!-- F58 -->
+
+When people asked him: “What will become of us, what are we to do?” — he sang: “Worship Nitai and you will attain
+Gaura; joylessness will go, and the highest joy will dawn.” To some he answered only: “Hari, lover of His devotees!”
+And once he said with a smile: “I have searched the whole world and not found a man after my own heart.” <!-- F59 -->
+
+On Tuesday, 9 Karttika (26 October), he sang: “In Vrindavana You were the little butter thief — the stealer of cream,
+butter, clothes and hearts,” and asked his servants: “Do you see the house of Chandrashekhara? Mahaprabhu lived there,
+and now no one can even tell. This is Kashi of stone — Vishvanatha is not here.” On 11 Karttika (28 October) he said:
+“This One (Sri Krishna) is a robber, and That One (Sri Gaurasundara) is the root of all cheats: He will not be caught!
+From Gaya He came to Kashi; I came to Kashi — and He went back to Gaya. He has no home: He became a vairagi, left His
+native land, dressed as a fakir — rags on His body, a kaupina about His loins.” <!-- F61 F62 -->
+
+To an old woman in saffron he said: “The Doms herd pigs and keep them within bounds by a mantra — not one leaves the
+herd, except perhaps one or two. So too are worldly people: they cannot leave the world, and if they do leave it, they
+go to live in Kashi. But Vishvanatha is not in Kashi — this is Kashi of stone; he lives in the spiritual, golden Kashi,
+and now roams the cremation grounds. Here on the ghata they have seated Hara-Gauri, set out a plate — and the coins pour
+in! I saw the same in Navadvipa.” <!-- F63 -->
+
+On Saturday, 13 Karttika (30 October), the day of his departure, he said: “Whoever hopes in You, You ruin utterly; to
+one You give money, from another You take it away. ‘There is no escape from offence to Your feet’ — how will you stop
+it? Who will save? To whom shall I speak, who will listen? I have not a drop of attachment to the Vaishnavas”[^8]. And
+before setting off: “Renunciation and enjoyment, majesty and sweetness… I smell nothing — no fragrance: the flowers have
+no scent, nor the fruits. ‘One moon dispels the darkness’ — what can many stars do? Is there a fragrant flower blooming
+anywhere?” All that day he fasted, and at eleven at night the boat left Kashi. <!-- F64 F65 F60 -->
+
+### Down the Ganga to Patna
+On 14 Karttika (31 October) the tent was pitched under a banyan on the bank of the Ganga near the village of Saidpur,
+twenty miles from Kashi. On 15 and 16 Karttika the boat drifted downstream by night. On 16 Karttika (2 November) he
+said: “Mercy to living beings, taste for the Name, service to the Vaishnavas — apart from this there is no eternal
+dharma.” To the Deity: “You have seen the Ganga of Kashi — now You will see the Ganga of Patna.” Near the village of
+Ghoshpur in Ghazipur district milk was obtained for Thakura; a pumpkin without its stalk, brought by a villager, he did
+not accept. Cooking after sunset, he sang to Thakura: “In sorrow and in joy we live in a boat: now ghee and honey, now
+fasting. I shall bring wild greens and cook them without salt — put two or three morsels in Your mouth.” That day he
+himself honoured prasada of only rice and boiled vegetables. <!-- F66 F67 -->
+
+### Patna
+On the morning of 18 Karttika (4 November), at Chhapra, the boat was tied to a steamer, and after three in the
+afternoon he reached the ghata of the Engineering College in Patna; here the tent was pitched, and he stayed in Patna
+until 15 November. On 19 Karttika he said: “They have locked Him up in prison. How much He used to eat — and now rice
+of three chhataks. The same smell as in Kashi I have caught in Patna too.” On 20 Karttika, when a servant complained
+that rats had eaten food left uncovered, he remarked: “Now they steal in order to eat, but give with respect — and they
+will not eat.” He questioned a Ramanuji sadhu from Patna about Harihara-chhatra and wanted to go there, but the next
+day changed his mind. <!-- F68 F69 F70 -->
+
+On 21 Karttika (7 November) he taught: “Do not eat tasty food, do not wear fine clothes, do not chew betel, do not smoke
+tobacco,” and he sang: “Leaving the comfort of sleep on an ornate bed, when shall I be covered with the dust of
+Vraja?” Seeing an old sadhu after his bath, he joyfully quoted the words of Hanuman:
+“The Lord of Sri and the Lord of Janaki are one and the same Supreme Soul; and yet my all in all is lotus-eyed Rama”.
+And he told a legend: when Kali came, Krishna told Narada that it was time for Him to depart. “But what of the souls?”
+asked Narada. “They will attain Me by feeding a brahmana sixteen dishes.” — “And the poor?” — “With flowers, water and
+tulasi.” — “And those crippled from birth?” — “By uttering My name once at the end of the day with all their heart.”
+<!-- F71 Q3 -->
+
+A resident of Patna asked him for instruction. “What instruction?” Babaji replied. “A mother looks at her son's belly —
+is he fed? A wife looks at her husband's waistband — has he brought money? From worldly life Krishna is far away.” —
+“How then can one leave worldly life?” — “Sadhus live by the Sarayu and say ‘Sita-Rama’: there is joy there, no
+joylessness. On Duryodhana's side is joylessness, on Yudhishthira's side happiness. Happiness and sorrow are two
+brothers; enjoyment and renunciation — one enjoys, another renounces.” <!-- F73 -->
+
+On 28 Karttika (14 November) he called out loudly: “Hari bol, Hari bol! Say ‘Gaura-Nitai’! So they say in Navadvipa and
+in Mayapur. Around the temple in Mayapur there are houses, and the service is under a nim tree. Once I went to Mayapur
+with a torn blanket and a water pot. Shachinandana Gosai came and took my pot; I sat. A little later Shachinandana Gosai
+returned the pot and left; and I left too.” Shachinandana Gosai is Mahaprabhu Himself. <!-- F74 -->
+
+On Monday, 29 Karttika (15 November), the day of departure, he offered balya-bhoga to the Deities in the morning, closed
+the tent, quickly cooked, offered to Thakura and honoured prasada at three o'clock. The servants of the Gaudiya Math
+bowed at his feet and sang songs of Sri Pancha-tattva — “Nitai-pada-kamala” and others — and he listened joyfully. Then
+he boarded the boat with his Deities and set off at about half past six in the evening. On 30 Karttika the boat lay at
+anchor near the village of Rupas, and on 2 Agrahayana (18 November) he was in great joy at the sight of the Ganga and in
+the evening reached the ghata of Munger. <!-- F75 F44 -->
+
