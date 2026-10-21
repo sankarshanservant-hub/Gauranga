@@ -132,6 +132,68 @@ the Lord appeared, Advaita was fifty-two — and seventeen years older than Hari
 age of one hundred and twenty-five, and the “Advaita-vilasa,” that He stayed in the world “a century and a
 quarter”[^8]. From Shrihatta He moved to Shantipura on the Bhagirathi, not far from Navadvipa. <!-- F23 F24 -->
 
+## Study and Pilgrimage
+According to the “Prema-vilasa,” Advaita studied the Vedas and other scriptures under Shantacharya in Phullabati — one
+of the quarters of Shantipura — and received from him the title “acharya”[^9]. When Kuvera and Nabha Devi left this
+world, He went to Gaya — as if to perform the funeral rites for them — and from there set out to wander through the holy
+places of India. <!-- F25 F26 -->
+
+In Mithila, the “Advaita-vilasa” relates, He met Vidyapati. The great Maithili poet was by then very old; in a sweet
+voice he recited his verses about Krishna, and the young pilgrim and the old poet glorified each other. The songs of
+Vidyapati, a mahajana, were later sung before Mahaprabhu in Puri. <!-- F27 -->
+
+In Vraja Advaita stayed for a long time beneath a banyan tree in Vrindavana. The place is called Advaita-vata: whoever
+sees it is purified and attains the love of the gopis. There He became absorbed in the worship of Krishna and in
+meditation understood that Krishna was about to appear in Navadvipa. From Vrindavana He returned to Shantipura, staying a
+few days in Navadvipa on the way, and the people of Shantipura, who had long pined without Him, were overjoyed.
+<!-- F28 F29 -->
+
+## Disciple of Madhavendra Puri
+Advaita's guru was Sri Madhavendra Puri — he whose disciple Ishvara Puri gave initiation to the Lord Himself, and whom
+Mahaprabhu called the original source of ecstatic love for Krishna. How and when they met is told in different
+ways[^10]. The “Chaitanya-bhagavata” says that long before the Lord's appearance Madhavendra, in his wanderings, came to
+Advaita's dwelling in Shantipura: Advaita saw in him all the signs of a true Vaishnava and bowed down before him, and
+Madhavendra embraced Him and bathed Him in tears of love. They became so absorbed in talk of Krishna that they forgot
+their bodies, and Advaita accepted instruction from him (CB, Antya 4.433–440). The “Charitamrita” names the occasion as
+well: Madhavendra, at the command of Gopala, was going to Puri for sandalwood, and on his way through Bengal stopped at
+Advaita's house:
+
+“Reaching Shantipura, he visited the house of Advaitacharya. Seeing the divine love of Madhavendra Puri, He rejoiced.”
+(CC, Madhya 4.110)
+
+“He asked Madhavendra Puri for initiation into the mantra. Madhavendra gave Him initiation and went on further south.”
+(CC, Madhya 4.111)
+
+From Shantipura Madhavendra went south, to Remuna. <!-- F30 Q2 -->
+
+Advaita is Maha-Vishnu Himself; why should He need a guru? He accepted initiation to show conditioned souls that one
+cannot do without a guru — just as Mahaprabhu Himself accepts initiation from Ishvara Puri. Vrindavana Dasa says that
+Advaita only played the role of Madhavendra's disciple[^11]. <!-- F31 I11 -->
+
+Madhavendra's disciples in the line of the Madhva-sampradaya are Ishvara Puri, Advaita, Paramananda Puri, Brahmananda
+Puri, Ranga Puri, Pundarika Vidyanidhi, Raghupati Upadhyaya and others; Srila Bhaktisiddhanta names Ishvara Puri,
+Nityananda and Advaita as the chief among them. According to the “Gaura-ganoddesha-dipika,” Ishvara Puri received from
+Madhavendra the fruit of madhurya, love in the conjugal mood, and Advaita the fruits of dasya and sakhya, service and
+friendship. It is said that Pundarika Vidyanidhi received initiation from Madhavendra at the same time as Advaita. The
+“Chaitanya-bhagavata” sees in this discipleship the highest praise of Madhavendra himself:
+
+“What more can I say of the devotion of one who became the spiritual teacher of Sri Advaita Acharya?” (CB, Adi 9.157)
+
+And Srila Bhaktivinoda Thakura explains why Mahaprabhu always honoured Advaita as an elder and a teacher: Advaita is the
+godbrother of Ishvara Puri, the Lord's guru. <!-- F33 F34 F35 F36 -->
+
+## Sita and Shri; Two Houses
+Advaita married two daughters of Nrisimha Baduri (Bhaduri), a devoted brahmana — Shri and Sita. Vishnu has three
+shaktis — Shri, Bhu and Nila; without His shaktis Advaita too would not have revealed Himself in fullness. According to
+the “Gaura-ganoddesha-dipika,” Sita is Yogamaya, and Shri is her prakasha, her manifestation[^12]. The wedding with Sita
+took place in Phulia-nagara, and after it Advaita settled in Shantipura, in Nadia[^13]. <!-- F37 F38 F39 -->
+
+Advaita had two houses: in Shantipura and in Navadvipa-Mayapura, not far from the house of Srivasa. Navadvipa in those
+days was called “the Oxford of India,” and in the Navadvipa house Advaita kept a tol — a Sanskrit school — and studied
+the scriptures deeply. He lived there from time to time and would talk of Krishna until dawn with the devotees headed by
+Srivasa. Seeing around Him people bereft of devotion to Vishnu, He taught the “Bhagavad-gita” and the
+“Srimad-Bhagavatam” and revealed their essence as devotional service. <!-- F40 F41 -->
+
 <!-- SECOND SHIFT -->
 
 [^1]: The “Charitamrita” says this too: maya manifests in two ways — as the efficient cause and as the material
@@ -157,3 +219,18 @@ quarter”[^8]. From Shrihatta He moved to Shantipura on the Bhagirathi, not far
     other lives, He was born in Shantipura itself.
 [^8]: Only these late works give the years of His appearance and departure; the other biographies do not name them. Our
     calendar has no day of His departure.
+[^9]: The late “Advaita-prakasha” names Advaita's teacher as Shanta Vedantavagisha of Purnavati; whether he is the same
+    person as Shantacharya is unknown.
+[^10]: According to one of the biographies, Advaita received Madhavendra's “invitation” while still on pilgrimage,
+    before He came to Vraja; elsewhere the same biography, following the “Chaitanya-bhagavata,” says that Madhavendra
+    himself came to Advaita's dwelling long before the Lord's appearance. The third version is that of the
+    “Charitamrita”: the meeting in Shantipura on Madhavendra's journey for sandalwood.
+[^11]: One of the biographies says that before meeting Madhavendra Advaita taught jnanavada, the path of abstract
+    knowledge — just as Mahaprabhu before Gaya was above all a master of grammar and logic and defeated Keshava Kashmiri —
+    and from then on preached Krishna-bhakti wholly. If this report is accepted, it too is only part of the lila:
+    Maha-Vishnu cannot stray into jnanavada. And the “Chaitanya-bhagavata” (Antya 4) relates that even before
+    Madhavendra's arrival Advaita was explaining the “Gita” and the “Bhagavatam” as the teaching of bhakti.
+[^12]: The biographies cite the “Gaura-ganoddesha-dipika” now as verse 86, now as 81–84. One of the biographies names
+    only Sita and does not mention the second wife, Shri.
+[^13]: One of the biographies, referring to another, calls Sita Paurnamasi in the lilas of Krishna; but according to
+    the “Gaura-ganoddesha-dipika,” Paurnamasi is Govinda Acharya.
