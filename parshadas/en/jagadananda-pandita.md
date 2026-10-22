@@ -529,7 +529,7 @@ Antya 14.89) <!-- F76 -->
 
 When Jagadananda visited Navadvipa and Shantipura for the last time, Advaita, according to one of the biographies,
 having returned from Puri, met him in Navadvipa and rejoiced in his company. On parting, Advaita sent with him for
-Mahaprabhu a riddle — a taraja-prahelika, understood by the Lord alone:
+Mahaprabhu a riddle — a tarja (taraja-prahelika), understood by the Lord alone:
 
 “‘Convey my countless obeisances to Mahaprabhu and say at His feet from me the following: Tell the madman that all the
 people have gone mad. Tell the madman that rice is no longer sold in the market. Tell the madman that the mad one is no
