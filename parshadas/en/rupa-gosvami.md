@@ -1061,10 +1061,11 @@ Sanatana never climbed it. Just as Gopala once on some pretext gave Mahaprabhu d
 showed mercy to Rupa and Sanatana as well. <!-- F255 -->
 
 In his old age Rupa enacted the pastime of no longer being able to reach Govardhana, and longed to see Gopala, the Deity
-of Madhavendra Puri. And Gopala, wishing to show Rupa His beauty — in fact, to show him mercy — on the pretext of fear of
+of Madhavendra Puri. And when Rupa's heart was deeply longing for His beauty, Gopala, wishing to give “His own” Rupa darshana — in fact, to
+show him mercy — on the pretext of fear of
 iconoclast mlechchhas came Himself from Govardhana to Mathura, to the house of Vitthalanatha (Vitthaleshvara), the younger
 son of Vallabhacharya, and accepted service there for a month. So Rupa with his companions gazed his fill on the beauty
-of Gopala-deva (CC, Madhya 18; “Bhakti-ratnakara,” 5.1333):
+of Gopala-deva (CC, Madhya 18):[^new-gopala]
 
 “Sri Rupa with his companions also spent a whole month in Mathura, beholding this Deity. He was accompanied by Gopala
 Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa Gosvami, Bhugarbha Gosvami, Sri Jiva
@@ -1075,6 +1076,18 @@ darshana of Sri Gopala accompanied by all these eminent devotees.” (CC, Madhya
 Ishana, a Vaishnava of Vrindavana, was also among those accompanying Rupa according to the “Bhakti-ratnakara.” The place
 in Mathura, in the Satghara quarter, where Rupa came for the darshana of Gopala was found in the mid-1930s by Srila
 Bhaktisiddhanta Sarasvati (on 29 October, in the month of Kartika). <!-- F256 F257 F258 Q59 -->
+
+One biography relates that the brothers continued to care for Gopala's service later as well. When His pujaris, driven
+out and beaten by Krishnadasa's men (see the article on Madhavendra Puri), came to Rupa and Sanatana in Vrindavana — the
+brothers were then living with hearts deeply wounded by separation from Gaura — and afterwards lodged a complaint in the
+royal court of Mathura, whose officials had been bribed beforehand, the brothers, hearing that the service of Gopala,
+the treasure of Madhavendra Puri's life, would pass into the hands of the royal officials, handed over the service and
+the temple of Gopala to Vitthalanatha, the son of Vallabhacharya, and duly arranged for Gaudiya pujaris. Vitthalanatha
+was especially favoured by Rupa and the Rupanugas: because he accepted the authority of Sri Krishna Chaitanya and His
+associates, the Gosvamis headed by Rupa and Raghunatha approved his service to Gopala. According to the same biography,
+Vitthalanatha in Mathura together with Rupa honoured Gopala Bhatta Gosvami (the words also allow the reading “honoured
+both Rupa and Gopala Bhatta”), and Rupa, wandering through Vraja-mandala, came to Gathuli and greatly rejoiced to see
+Vitthala's service to the Deity of Krishna Chaitanya.[^new-gathuli] <!-- F627 F628 F629 F630 -->
 
 ## The Sweet Rice and Radha's Braid
 The “Bhakti-ratnakara” (5.1311–1330) relates that once Rupa wished to cook sweet rice for Sanatana and invite him to eat,
@@ -1104,7 +1117,7 @@ time. Sanatana was struck dumb — and understood the rightness of Rupa's compar
 
 ## The Elder Brother
 Even when speaking of Sanatana, the Gaudiya acharyas call him again and again “Rupa's elder brother.” So write Kavi
-Karnapura (“Chaitanya-chandrodaya-nataka,” 9.45), Raghunatha Dasa Gosvami in the “Stavavali” (“Sva-niyama-dashaka,” 1;
+Karnapura (“Chaitanya-chandrodaya-nataka,” 9.34)[^new-cc934], Raghunatha Dasa Gosvami in the “Stavavali” (“Sva-niyama-dashaka,” 1;
 “Manah-shiksha,” 3) and in the “Mukta-charita” (4), Jiva in the closing verse of the “Laghu-toshani,” and Krishnadasa
 Kaviraja, in the verse of obeisance to the shastra-gurus at the beginning of chapters of the Antya-lila, bows “before my
 shastra-gurus: Srila Rupa Gosvami and his elder brother Srila Sanatana Gosvami” (CC, Antya 2.1; likewise Antya 3.1).
@@ -1128,20 +1141,22 @@ Sanatana saved Raghunatha from perishing in separation. Rupa's two best servants
 Gosvami. <!-- F272 F274 I23 -->
 
 The songs about Raghunatha Dasa say that he is “non-different from Rupa”; and when Rupa and Sanatana disappeared, “his
-eyes went blind,” and, not seeing Rupa and his companions, he wept. Raghunatha himself says at the end of the
+eyes went blind,” and, not seeing Rupa and his companions, he wept; after Sanatana's departure he drank only water, and after Rupa's
+departure he gave up even water. Raghunatha himself says at the end of the
 “Mukta-charita” that he wove this bouquet at Jiva's bidding, following the full instruction of Sri Rupa. There is also a
 tradition: reading Rupa's “Lalita-madhava,” a drama of separation, Raghunatha Dasa sank into such an ocean of separation
 that people began to fear for his life. Seeing this, Rupa wrote the short, merry “Dana-keli-kaumudi,” full of jests, gave
 it to Raghunatha and took back the “Lalita-madhava”; having read the new book, Raghunatha forgot his separation.
-<!-- F273 F275 F297 Q78 -->
+<!-- F273 F275 F297 Q78 F635 -->
 
 ## Raghunatha Bhatta
 Mahaprabhu told Raghunatha Bhatta, the son of Tapana Mishra, not to marry, but after his parents' death to go to Vrindavana
 and, under the shelter of Rupa and Sanatana, perform bhajana all eight praharas of the day, following in Rupa's footsteps
 and studying the “Bhagavatam” and other scriptures under their guidance; and so he did. When he came to Vrindavana, Rupa and
-Sanatana were overjoyed and embraced him lovingly. Raghunatha Bhatta read the “Bhagavatam” in Rupa's assembly — “the
-assembly of the king of the Vaishnavas of the whole world” (shri-shri-vishva-vaishnava-raja-sabha) — and, overwhelmed by
-prema, sometimes could not go on:
+Sanatana were overjoyed and embraced him lovingly. He gave himself into their care and every day in a sweet voice read
+the “Bhagavatam” to them — in Rupa's assembly, “the assembly of the king of the Vaishnavas of the whole world”
+(shri-shri-vishva-vaishnava-raja-sabha) — and, overwhelmed by prema (tears, trembling, a faltering voice), sometimes had to
+break off the reading:
 
 “Later, at Sri Chaitanya's bidding, he went to Vrindavana and stayed there to live, taking shelter of Sri Rupa Gosvami.
 Raghunatha Bhatta read the ‘Srimad-Bhagavatam’ aloud for Sri Rupa Gosvami. And so, by the mercy of Sri Chaitanya, he became
@@ -1157,7 +1172,8 @@ signs of renunciation — a dor, a kaupina and an upper garment.[^51] <!-- F278 
 
 Gopala Bhatta was very close to Rupa and Sanatana; Rupa held him as dear as his own life and entrusted him with the service
 of Radha-ramana. Hearing that Krishna had mercifully appeared to Gopala Bhatta as Radha-ramana from a shalagrama, Rupa and
-Sanatana with other devotees at once came for darshana and with tears of love beheld this world-enchanting Deity.[^52]
+Sanatana with other devotees at once came for darshana and with tears of love beheld this world-enchanting Deity; Gopala Bhatta invited Rupa, Sanatana and the other Gosvamis
+to a great festival of the Deity's abhisheka — on the Vaishakha full moon of 1599 Samvat (1542 CE).[^52]
 Together with Rupa and others Gopala Bhatta restored the lost holy places of Vrindavana. And the “Hari-bhakti-vilasa,” as
 the book itself says (1.2), was compiled by Gopala Bhatta, a disciple of Prabodhananda, to please Raghunatha Dasa, Rupa
 and Sanatana. <!-- F279 F280 F281 F282 F283 Q73 -->
@@ -2287,6 +2303,12 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     Vidyabhushana took part. That it was Aurangzeb who destroyed the temple one biography puts in question; according to
     another, the upper storey of the seven-storeyed temple was destroyed.
 [^48]: One biography gives Purva 2.111.
+[^new-gopala]: One biography also refers here to the “Bhakti-ratnakara,” 5.1333; but that verse concerns the meeting of
+    Uddhava Dasa, Madhava and others with Srinivasa at Nandishvara, not Gopala in Mathura (Uddhava Dasa is named among
+    Rupa's companions in CC, Madhya 18.51).
+[^new-gathuli]: The biography supports this with couplets of the “Bhakti-ratnakara,” but there (5.798–806) it is Raghava
+    Pandita's account to Srinivasa while going round Gathuli; Rupa is not mentioned in them.
+[^new-cc934]: The number follows our translation of the drama; one biography gives 9.45.
 [^49]: Where this took place is told differently: according to one account, at Rupa's place of bhajana, Teri-kadamba near
     Nandagrama; according to another, Sanatana was then living in a hut by Pavana-sarovara near Nandagrama. Ghee is
     mentioned in only one account.
@@ -2297,8 +2319,8 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
 [^51]: According to one biography, the Lord replied by letter and sent Gopala Bhatta a dor, a kaupina and a bahirvasa;
     according to another, He sent with a messenger to Rupa a kaupina and the upper garments of a babaji, and Rupa accepted
     them with great joy.
-[^52]: One biography dates this to “1599 of the Christian era,” on a full-moon day; apparently 1599 Samvat (1542 CE) is
-    meant, for in 1599 CE Rupa was no longer on earth. According to some accounts, Sri Radha-Govinda revealed Gopala
+[^52]: So according to one biography. Another dates the appearance to “1599 of the Christian era,” on a full-moon day;
+    there too 1599 Samvat (1542 CE) is apparently meant, for in 1599 CE Rupa was no longer on earth. According to some accounts, Sri Radha-Govinda revealed Gopala
     Bhatta's cherished desire to Rupa in a dream, and it was Rupa who revealed the Deity of Radha-ramana; usually the
     appearance of Radha-ramana is associated with Gopala Bhatta himself.
 [^53]: The same biography says elsewhere that in Vraja Narottama met Rupa, Sanatana and Lokanatha — it contradicts itself:
