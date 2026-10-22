@@ -1371,7 +1371,7 @@ brothers”: the poems “Hamsa-duta” and “Uddhava-sandesha,” the “Chhan
 The second witness is Narahari Chakravarti. He quotes these verses of Jiva in the “Bhakti-ratnakara” (1.796–799) and then,
 taking a list from Krishnadasa Adhikari, a disciple of Jiva (his name stands in the guru-parampara kept in the temple of
 Radha-Damodara), adds four books that Jiva did not name: the “Krishna-janma-tithi-vidhi,” the greater and lesser
-“Ganoddesha-dipika” and the “Prayuktakhyata-chandrika.” In the verse list of the same first wave of the
+“Ganoddesha-dipika” and the “Prayuktakhyata-chandrika.” In the verse list of the same first taranga of the
 “Bhakti-ratnakara” Rupa's books number sixteen: the “Hamsa-duta,” “Uddhava-sandesha,” “Krishna-janma-tithi-vidhi,” the
 greater and lesser “Ganoddesha-dipika,” the “Stavamala” on Krishna and His intimates, the “Vidagdha-madhava,”
 “Lalita-madhava,” “Dana-keli-kaumudi,” “Bhakti-rasamrita-sindhu,” “Ujjvala-nilamani,” “Prayuktakhyata-chandrika,”
@@ -1405,13 +1405,14 @@ verses in the shikharini metre (seventeen syllables to the line); so many are in
 (“Kavya-sangraha,” part 1, Calcutta, 1888), while the Bengali “Basumati” edition, with a hundred and one verses, is full
 of errors and not to be trusted. Several old manuscripts survive, and the poem has been printed more than once in
 Devanagari. Later Rupa himself quoted its verses as examples in the “Bhakti-rasamrita-sindhu” (three verses) and in the
-“Ujjvala-nilamani” (more than ten). <!-- F360 F361 F362 -->
+“Ujjvala-nilamani” (ten). <!-- F360 F361 F362 -->
 
 The subject of the poem is Radha's separation from Krishna. When at Akrura's request Krishna left Nanda's house and went
 to Mathura, Radha, pining, came with Her friends to the bank of the Yamuna. The familiar kunjas reminded Her of Krishna
 still more keenly, and She fainted; the sakhis could barely keep life in Her. Seeing Her divine madness (divyonmada),
 Lalita notices a white swan floating on the Yamuna and decides to send it to Krishna — to tell Him how Radha is and bring
 Him back to Vraja. She describes the way to the swan: the kadamba by the ghata where Krishna stole the gopis' garments, the
+place of the rasa-lila, Govardhana, the head of the asura Arishta, the Bhandira tree, the place of Brahma's prayers, the
 pool of Kaliya, Vrinda-devi, the forests full of the cries of peacocks — and the beauty of Mathura, capital of the Yadavas,
 the rapture of its women at the sight of Krishna, His chambers and the service rendered to Him, His form from feet to
 face. The swan should speak of the maidens of Vraja when the cuckoo sings or the scent of jasmine drifts by: let it remind
@@ -1421,7 +1422,8 @@ townspeople, He has grown cold to the simple wealth of the forest and to the for
 Let the swan tell Him also of Radha's burning separation, of Kubja's good fortune, of how Radha worships Parvati and Shiva
 for the sake of meeting Krishna, and of how in adhirudha-mahabhava She at times takes Herself to be Krishna. Uddhava,
 whom Krishna had sent to console the gopis with knowledge of the Paramatma, only deepened their grief; a disciple of
-Brihaspati, a minister absorbed in affairs of state, he will not tell Krishna how the gopis suffer — so there remains only
+Brihaspati, a minister absorbed in affairs of state, while the Yamuna, sister of Yama, has become as merciless as her brother — neither will tell Krishna how
+the gopis suffer — so there remains only
 the guileless white swan. Lalita recounts to it Radha's laments in Her divine madness, speaks of her own ardent wish to see
 the Divine Couple together again in Vrindavana and to serve Them, addresses Krishna's forest garland, His makara earrings,
 the Kaustubha gem and His conch, praising their good fortune and asking their sympathy, and bids the swan convey the
@@ -1484,7 +1486,8 @@ suddenly, deeply stirred, remembers the forests of Gokula. Overwhelmed by prema 
 of Vraja, He chooses Uddhava, first among His close friends, as messenger, explains that He went to Mathura out of anger at
 Kamsa's words, says that Radha is His dearest and that She, Lalita and the sakhis barely bear the burden of life, holding
 on only by His consolations, and bids Uddhava revive Radha, bitten by the serpent of separation, with the mantra of His
-message. The forest of Vraja is dearer to Him than anything; the memory of even the shadow of His trouble pains the gopis
+message. The forest of Vraja is dearer to Him than anything, and even its unmoving dwellers, down
+to the trees, are wasted by separation from Him; the memory of even the shadow of His trouble pains the gopis
 more than their own troubles the size of Mount Sumeru. Krishna describes the road and the places of His pastimes,
 recalls the past at each and sinks into prema; when Uddhava's chariot reaches the slopes of Nandishvara, He says, Radha's
 friends will think Krishna Himself has come. <!-- F389 F390 F391 Q92 -->
@@ -2141,7 +2144,7 @@ every step I burn in the fire of calamities and am without support — with whom
 
 Rupa's samadhi temple stands in the courtyard of the Radha-Damodara temple in Vrindavana; there too he performed bhajana
 in the last years of his life. When Ramachandra Kaviraja came with Jiva to the Radha-Damodara temple and saw Rupa's samadhi,
-he was plunged into such ecstasy that he amazed everyone (“Bhakti-ratnakara,” 9th wave). Another memorial place of Rupa in
+he was plunged into such ecstasy that he amazed everyone (“Bhakti-ratnakara,” 9th taranga). Another memorial place of Rupa in
 Vraja is the place of his bhajana, Teri-kadamba (Ter-kadamba), near Nandagrama. <!-- F618 F619 -->
 
 ## Rupa-manjari
