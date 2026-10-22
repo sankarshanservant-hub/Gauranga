@@ -900,7 +900,7 @@ will call me ‘mother’ any more” (CM, Madhya-khanda, part 16, vv. 8–15). 
 Nityananda consoled them both (v. 44). Then, remembering His words, “Whoever chants the name will attain Me,” all of
 them — Shachi and Vishnupriya, children and the old, young men and girls — sat down to chant the holy name, making
 Gauranga their refuge. The devotees, finding consolation only in the names and qualities of the Lord, did not leave
-Shachi's side (CB, Antya 1.50). For four days, while the Lord wandered half-mad through Radha-desha, yearning for
+Shachi's side (CB, Antya 1.50). For four days, while the Lord, beside Himself with love, wandered through Radha-desha, yearning for
 Vrindavana, Sita was with her: Shachi lay on the ground like one dying — as if the sun had left her sky for ever. And
 Vamshivadana composed a song of separation in which the poet rolls on the ground, hearing the weeping of the Lord's
 young wife and her mother-in-law. <!-- F163 F199 F86 F108 F91 F54 -->
