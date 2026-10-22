@@ -528,8 +528,8 @@ and sometimes to Mayapur to Shachi, and then they would stay a few days in their
 The Lord came to Srivasa in Kumarahatta from Advaita's house in Shantipura.[^19] Having visited the birthplace of His
 guru, He took a handful of earth and tied it in the end of His cloth. Srivasa, seeing before his eyes the One on Whom he
 had meditated, fell prostrate, pressed the Lord's feet to his chest and wept aloud. Hearing of the Lord's arrival, there
-gathered Advaita Acharya, Shivananda Sena with his family, Vasudeva Datta Thakura and other associates of Gaura (CB, Antya
-5.18), and all of Srivasa's household joyfully served the Lord and His associates. <!-- F95 F124 Q20 -->
+came Purandara Acharya, whom the Lord called His father, and then Vasudeva Datta Thakura, Shivananda Sena with his family
+and other associates of Gaura (CB, Antya 5.15–18), and all of Srivasa's household joyfully served the Lord and His associates. <!-- F95 F124 Q20 -->
 
 The Lord stayed several days with Srivasa. Srivasa delighted Him with kirtana, with reading the “Bhagavatam,” and with
 jokes, like a vidushaka, and Ramai, following his brother, sang the Lord's glories. In Srivasa's house in Kumarahatta
@@ -559,6 +559,10 @@ South — brought by Kala Krishnadasa — brought back to life Shachi, Srivasa, 
 prepare for Puri. In the third year the wives went with their husbands — and Malini went with Srivasa; among the pilgrims
 of that year are named Acharyaratna, Vidyanidhi, Srivasa and Ramai (CC, Madhya 16.16, 22–23). <!-- F99 F133 F122 Q15 -->
 
+When the Bengali devotees first came to Puri, King Prataparudra watched them from the roof of his palace, and Gopinatha
+Acharya, who knew them all from Navadvipa-Mayapur, named each of them at his request and spoke in more detail of the
+chief ones — Advaita, Srivasa and others (CC, Madhya 11.84). <!-- F141 Q23 -->
+
 In Nilachala Srivasa danced in the Lord's kirtana and before the chariot, washed the Gundicha temple together with all
 the others, took part in the water pastimes in Narendra Lake and served the Lord in many ways, and the Lord sometimes took
 His meals in his house and in the houses of other householder devotees. <!-- F100 -->
@@ -570,11 +574,12 @@ singer was Srivasa. Gangadasa, Haridasa, Shriman, Shubhananda and Sri Rama Pandi
 dancer was Sri Nityananda.” (CC, Madhya 13.38–39)
 
 The chief singers at the Ratha-yatra were Svarupa Damodara and Srivasa; there were four groups, with six singers and two
-mridangas in each. And when the Lord Himself danced, nine sang for Him: Srivasa, Ramai, Raghu, Mukunda, Haridasa,
-Govindananda, Madhava, Govinda and Govinda Ghosha (CC, Madhya 13.73). In the kirtana at the Lord's residence, in four
+mridangas in each. And when the Lord Himself danced, nine sang for Him, whom He gave to Svarupa Damodara's group: Srivasa,
+Ramai, Raghu, Govinda, Mukunda, Haridasa, Govindananda, Madhava and another Govinda — by one of the biographies,
+Govinda Ghosha (CC, Madhya 13.73–74). In the kirtana at the Lord's residence, in four
 groups, the dancers were Nityananda, Advaita, Vakreshvara and Srivasa, and each felt that the Lord was looking at him;
 in the great kirtana around the temple there were seven groups, each with its own dancer — Advaita, Nityananda,
-Vakreshvara, Achyutananda, Srivasa, Satyaraja and Narahari (CC, Antya 10.58–61).[^20] <!-- F101 F122 Q15 -->
+Vakreshvara, Achyutananda, Srivasa, Satyaraja and Narahari (CC, Antya 10.58–61).[^20] <!-- F101 F122 Q15 Q23 -->
 
 Once King Prataparudra was watching the Lord's dance, leaning on the shoulder of his minister Harichandana. Srivasa
 stood in ecstasy in front of the king, his eyes fixed on the Lord. Harichandana touched him again and again and asked
@@ -654,7 +659,7 @@ The year and place of Srivasa's departure are unknown.[^21] <!-- F112 F136 -->
 ## Srivasa-angana
 In time the site of Srivasa-angana was forgotten. It was rediscovered by Jagannatha Dasa Babaji, who identified the
 forgotten holy places of Mayapur — the Yogapitha, Srivasa-angana and others. The “Sajjana-toshani” of Bhaktivinoda
-Thakura relates that on the 20th of Phalguna in the year 1299 of the Bengali era (1893) the Babaji pointed out the
+Thakura relates that on the 20th of Phalguna in the year 1299 of the Bengali era (1893)[^22] the Babaji pointed out the
 place of the Lord's appearance, and then the place where the Kazi broke the mridanga — Srivasa-angana. It was decided to
 establish the service of Deities both at the birthplace and at Srivasa-angana, and the Babaji proposed installing the
 Deities of the Pancha-tattva here. <!-- F113 F81 -->
@@ -675,7 +680,7 @@ In Krishna's pastimes Srivasa is the sage Narada. The “Gaura-ganoddesha-dipika
 Pandita, his younger brother.” (GGD 90)
 
 Malini in Vraja is Krishna's nurse Ambika: “The nurse in Vraja named Ambika, who once suckled Him, is this Malini,
-considered the wife of Srivasa” (GGD 42). And Narayani is Kilimbika, Ambika's younger sister, who partook of Krishna's
+considered the wife of Srivasa” (GGD 42). And Narayani is Kilimbika, Ambika's sister, who partook of Krishna's
 remnants (GGD 43). Srivasa is also called an avatara of Narada Muni; the nature of Narada and the sense of majesty were
 recognised in him by the Lord Himself in the dispute at Hera-panchami, and he came on stage as Narada in the play at
 Chandrashekhara's. <!-- F115 Q3 F105 -->
@@ -688,18 +693,18 @@ commentary on CC, Adi 1.14, explains: all five are one in essence and differ onl
 Advaita are vishnu-tattva, while the shaktis and the pure devotees are His energies. The chief shaktis are Gadadhara,
 Svarupa Damodara and Ramananda; the pure devotees are Srivasa and others who serve the Lord in the mood of friendship and
 service. So too Krishnadasa Kaviraja says that Srivasa and countless devotees belong to the pure devotee-servants, while
-Gadadhara and others are incarnations of energies (CC, Adi 7.94–97). <!-- F116 Q17 -->
+Gadadhara and others are incarnations of energies (CC, Adi 7.14–17). <!-- F116 Q17 -->
 
 ## The Glory of Srivasa
 The biographies call Srivasa the first of the pure devotees and a constant associate of the Lord, a participant in all
 His important pastimes. Lochana Dasa in the “Chaitanya-mangala” names him among the associates who descended with the
-Lord, and the “Chaitanya-bhagavata” calls the Lord “the sole refuge of Srivasa and Gadadhara.” Srivasa's name has entered
+Lord, and the “Chaitanya-bhagavata” calls the Lord “the refuge of Srivasa and Gadadhara” (CB, Adi 9.2). Srivasa's name has entered
 prayers as well: “nāmi śrīmad-advaitācāryaṁ śrīvāsa-paṇḍitam…”; in the guru-parampara of the “Hari-bhakti-vilasa”
 Srivasa is mentioned among the authorities — “…gadādharaṁ śrīvāsaṁ bhakta-varyakam”; in explaining the “Bhagavatam”
 (11.5.32), Srivasa and others are named the “upangas,” the Lord's associates. Sarvabhauma's life as a householder is held
 up as an example by comparison with Advaita and Srivasa: for the sake of service to the Lord they set aside family and
 social concerns. His name stands forever in the row of the five names of the Pancha-tattva: “Krishna Chaitanya, Prabhu
-Nityananda, Advaita, Gadadhara, Srivasa.” <!-- F117 F118 F135 F139 -->
+Nityananda, Advaita, Gadadhara, Srivasa.” <!-- F117 F118 F135 F139 Q23 -->
 
 Srivasa is mentioned also in a song of Vamshivadana about Srivasa's temple, and in the account of Yadunatha Dasa about
 Chandrashekhara, who came from Shrihatta together with Srivasa and Srirama. The biographies recall that Jagadananda,
@@ -768,3 +773,5 @@ attain. <!-- I10 I1 F5 F64 -->
 [^21]: No biography names either the year or the place of his departure. His appearance at the Kheturi festival does not
     contradict this: the eternal associates of the Lord, having withdrawn their pastimes from the world's sight, can
     manifest themselves again whenever and wherever the Lord and His devotees wish.
+[^22]: One biography gives the year 1892 here; but the Bengali year 1299 began in April 1892, and its month of Phalguna
+    falls in February–March 1893.
