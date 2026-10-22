@@ -102,13 +102,15 @@ capital of Gauda, and that later the two elder ones became ministers of Hussain 
 
 Further on in the “Laghu-toshani” Jiva glorifies Raghunatha Dasa — the friend of Rupa and Sanatana, renowned on earth, who
 whirls forever in the waves of the great ocean of love for Radha and Krishna; the best of the worthy, to their own
-amazement, honour him as equal to both brothers. He also tells how Gopala Himself, in the guise of a cowherd boy, brought
+amazement, honour him as equal to both brothers. (And Radhavallabha's song about Raghunatha Dasa himself says that all Rupa's
+companions took refuge in him and that great was his tenderness — vatsalya — “for Jiva”: so the word is understood from
+its place in the list of Gosvamis, though it can also be read as “for living beings”.) He also tells how Gopala Himself, in the guise of a cowherd boy, brought
 the brothers milk. Then Jiva lists the books of Rupa[^7] and of Sanatana: the “Sri Bhagavatamrita”, the
 “Hari-bhakti-vilasa” with the commentary “Dig-darshini”, the “Lila-stava”, and the commentary on the Tenth Canto itself —
 the “Vaishnava-toshani” (“Dashama-tippani”); and to abridge this book, he says, Sanatana ordered “an insignificant jiva”,
 that is, Jiva himself. He asks forgiveness for what he wrote in haste, with or without understanding, and for the places
 where he left out his teacher's explanations: “And if I have written only what he himself awakened in my heart, I have
-nothing to fear from doubters”.[^8] <!-- F34 F35 F36 F37 Q4 Q5 -->
+nothing to fear from doubters”.[^8] <!-- F34 F35 F36 F37 Q4 Q5 F388 -->
 
 ## His Father, Anupama
 Jiva appeared in Bakla-Chandradvipa.[^9] His mother's name is not known. <!-- F40 F41 -->
@@ -370,7 +372,7 @@ calling on the mercy of the Lord's associates:
 “Lokanatha, Gopala Bhatta, Sri Jiva Gosani, show me mercy — I have no one”. (“Prema-vilasa”, 13.136)
 
 But if the Kaviraja died at the news of the theft even before Srinivasa, then still unmarried, first brought the books to
-Yajigrama, how could Jiva in a later letter, when Srinivasa already had sons and daughters, report: “From here — the
+Yajigrama, how could Jiva in a later letter, when Srinivasa already had sons and daughters, report: “From here, the
 obeisances of Sri Krishnadasa” (“Prema-vilasa”, 25, letter 6)? Such contradictions show that these traditions are
 malicious and were inserted later.[^24] <!-- F100 F101 Q16 I12 -->
 
@@ -558,14 +560,14 @@ When Srinivasa bowed down, Jiva embraced him with great love, asked — himself 
 Vaishnavas, and arranged prasada and lodging for him. Srinivasa arrived in the afternoon, on vaishakha-purnima; that day
 his prasada was brought by Krishna Pandita, the servant of Govinda, and Srinivasa honoured it together with Jiva himself.
 Srinivasa became “one of his own” (nija-jana) for Jiva, and in a letter Jiva calls him “mahattama” — “the greatest”.
-<!-- F142 F143 F144 F145 -->
+<!-- F142 F143 F144 F145 F389 -->
 
 Jiva lovingly gave Srinivasa lodging in a secluded place, entrusted him to the feet of Sri Radha-Damodara, introduced him to
 Lokanatha, Bhugarbha, Paramananda and Madhu Pandita, took him to Gopala Bhatta and let him see Radha-ramana. Later, at Gopala
 Bhatta's instruction, Jiva bathed Srinivasa in the Yamuna and himself brought him to Gopala Bhatta, who gave him
 initiation.[^28] The next day Srinivasa went with Jiva to Radha-kunda and saw Raghunatha Dasa, Raghava Gosvami and
 Krishnadasa Kaviraja.[^29] So Srinivasa became the diksha disciple of Gopala Bhatta and the shiksha disciple of Jiva: it was
-from him that he received instruction in the Vaishnava scriptures. <!-- F146 F147 F148 -->
+from him that he received instruction in the Vaishnava scriptures. <!-- F146 F147 F148 F389 -->
 
 Once Jiva was discussing a verse of the “Ujjvala-nilamani” on uddipana-vibhava — on what awakens loving feeling — and asked
 Srinivasa its meaning. By Rupa's mercy the explanation was so beautiful that Jiva and the Vaishnavas were amazed and
@@ -641,11 +643,12 @@ Vrindavana, the three disciples set out, and Jiva with a few companions accompan
 who blessed them was Uddhava Dasa (“Bhakti-ratnakara”, 6.514). <!-- F172 -->
 
 On the way the books were seized by the men of King Vira Hambira of Vana-Vishnupura. Later the king, hearing Srinivasa
-expound the “Bhagavatam”, became a Vaishnava and took initiation from him, and Srinivasa got the books back. The news of
+expound the “Bhagavatam”, became a Vaishnava and took initiation from him — according to one of the biographies, with Jiva's permission
+Srinivasa gave him diksha in the yugala-mantra and named him “Sri Chaitanya Dasa” — and Srinivasa got the books back. The news of
 the loss, and then of the recovery, reached Jiva — it was sent with the drivers and the guards — and Jiva and the other
 Gosvamis rejoiced greatly and marvelled at Srinivasa's deeds. After this Narottama went to preach in North Bengal and
 Shyamananda in Orissa, so that the teaching of the books should spread through Bengal and Orissa; later Shyamananda,
-returning to Vrindavana, found Srinivasa already with Jiva. <!-- F171 F173 F174 -->
+returning to Vrindavana, found Srinivasa already with Jiva. <!-- F171 F173 F174 F386 -->
 
 Why does the “Chaitanya-charitamrita” name neither Srinivasa nor Narottama? Many answer thus: the Kaviraja finished the book
 before their preaching began. Jiva sent the “Chaitanya-charitamrita” to Gauda with Srinivasa together with the other books
@@ -668,25 +671,26 @@ became one of the eight kavirajas. The “Bhakti-ratnakara” relates:
 
 “Sri Paramananda Bhattacharya, a treasury of prema, Sri Jiva Gosvami and other residents of Vrindavana — all, hearing from
 his lips the verses he had composed, with great joy gave him the title «Kaviraja»”. (“Bhakti-ratnakara”, 1.267–268)[^40]
-<!-- F180 Q24 -->
+<!-- F180 Q24 F389 -->
 
 Ramachandra had been summoned from Gauda by Srinivasa, who then spent several months with Jiva and the other Gosvamis. He
 was presented to Jiva; Jiva raised him up, embraced him and told him to visit Radha-ramana, Govinda, Gopinatha and the feet
 of the Gosvamis, and the Gosvamis were very pleased with Ramachandra's humility. With the permission of Srinivasa and Jiva
 he saw the Deities and the samadhi of Sanatana, at Jiva's command went round the forests of Vrindavana, and at Radha-kunda
-saw Raghunatha Dasa and Krishnadasa Kaviraja. When Ramachandra visited the Radha-Damodara temple together with Jiva and saw
-Rupa's samadhi, he went into an ecstasy that amazed everyone (“Bhakti-ratnakara”, 9th wave). After this, at Jiva's command,
+saw Raghunatha Dasa and Krishnadasa Kaviraja. Jiva himself led Ramachandra to the Radha-Damodara temple;
+seeing Rupa's samadhi, Ramachandra went into an ecstasy that amazed everyone — he rolled on the ground weeping “Ha, Prabhu
+Rupa!” — and Jiva took him on his lap and consoled him (“Bhakti-ratnakara”, 9.189–201). After this, at Jiva's command,
 Srinivasa and Shyamananda left for Gauda. <!-- F181 F182 F183 Q26 -->
 
 From Vrindavana Jiva wrote letters to Srinivasa; the “Bhakti-ratnakara” (14th wave) and the “Prema-vilasa” preserve them.
-In one he reports the departure of Bhugarbha and how the revision of the “Rasamrita-sindhu”, the “Madhava-mahotsava”, the
+In one (“Prema-vilasa”, 25, letter 2) he reports the departure of Bhugarbha and how the revision of the “Rasamrita-sindhu”, the “Madhava-mahotsava”, the
 “Uttara-champu” and the “Hari-namamrita-vyakarana” is progressing, and asks about the welfare of Srinivasa's eldest son,
 Vrindavana Dasa, and other disciples; the name “Vrindavana Dasa” had been given to the boy by Jiva himself as soon as news
 of his birth reached Vraja. Another letter Jiva opens with the address
-“samasta-guna-prashasta-bandhuvara-srinivasacharya-mahantameshu” — “to Srinivasa Acharya, most eminent, best of friends,
+“samasta-guna-prashasta-bandhuvara-srinivasacharya-mahattameshu” — “to Srinivasa Acharya, most eminent, best of friends,
 praised for every virtue” — and writes:
 
-“He is now carrying there the revised and examined books «Vaishnava-toshani», «Durgama-sangamani» and «Sri Gopala-champu».
+“He [Shyamadasa Acharya] is now carrying there the revised and examined books «Vaishnava-toshani», «Durgama-sangamani» and «Sri Gopala-champu».
 Therefore you should engage with him in the revision of the books and of their interpretation <…>. And also: if the
 «Harinamamrita» grammar that was earlier sent to you is to be taught, then, consulting the bhashya, the vritti and so on,
 the errors and the like should be corrected. <…> The «Sri Uttara-gopala-champu» is now written, but it still has to be
@@ -1718,8 +1722,8 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
     fear for his reputation as a scholar after reading in it a clear exposition of vraja-bhava.
 
 [^24]: The argument of one of the biographies rests on Jiva's letters preserved in the “Prema-vilasa” and the
-    “Bhakti-ratnakara”. In our translation of the “Prema-vilasa” Srinivasa's son Vrindavana Dasa is mentioned in letter 3
-    (Jiva's second letter to Srinivasa), and Krishnadasa's obeisances stand at the end of letter 6 — Jiva's fourth letter,
+    “Bhakti-ratnakara”. In our translation of the “Prema-vilasa” Srinivasa's son Vrindavana Dasa is mentioned in letters 2
+    and 3 (Jiva's first and second letters to Srinivasa), and Krishnadasa's obeisances stand at the end of letter 6 — Jiva's fourth letter,
     addressed not to Srinivasa but to Govinda Kaviraja. The conclusion does not change: the Kaviraja was alive when
     Srinivasa already had a family.
 
@@ -1730,7 +1734,8 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
     Bhaktivinoda himself understands it so below: “all that Yogamaya manifests is pure”.
 
 [^27]: According to another biography, on the way Srinivasa learned from brahmanas that Raghunatha Bhatta and other great
-    devotees had just departed, and fell unconscious; the brahmanas brought him to the place where Jiva lived.
+    devotees had just departed, and fell unconscious; the brahmanas brought him to the place where Jiva lived. According to a third, he first saw
+    Jiva's feet after the evening arati in the temple of Govindadeva.
 
 [^28]: According to another biography, the next morning Srinivasa went with Jiva for the darshana of Radha-ramana, saw
     Gopala Bhatta there, and the following day Gopala Bhatta initiated him.
@@ -1780,7 +1785,9 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
 
 [^40]: According to another biography, at Jiva's command Ramachandra visited Madana-mohana, Govinda, Gopinatha and the
     samadhi of Sanatana, saw Lokanatha, Gopala Bhatta and Bhugarbha, and these three gave him the title for his verses. One
-    more biography, in its chapter on Jahnava, says that the title was given to Govinda by Jiva, Srinivasa and Jahnava.
+    more biography, in its chapter on Jahnava, says that the title was given to Govinda by Jiva, Srinivasa and Jahnava. In a stanza about Govinda
+    Kaviraja, which one of the biographies quotes from the “Prema-vilasa”, the fragrance of his verses intoxicates the
+    bee-like devotees who have taken shelter of the wish-fulfilling tree — the feet of Sriman Jiva.
 
 [^41]: About 1941 CE (our own conversion).
 
