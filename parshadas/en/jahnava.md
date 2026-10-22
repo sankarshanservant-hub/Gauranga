@@ -11,12 +11,13 @@ more boldly: Jahnava Devi is Nityananda Prabhu Himself.[^1] <!-- F1 F2 F3 -->
 She is also called “Bhakta-svarupini” — devotion personified, a treasury of prema-bhakti; in her divine majesty
 (aishvarya) and divine sweetness (madhurya) are equally wonderful. Like Nityananda, she is a jagad-guru, a teacher of love
 for Krishna to the whole world. When Gaurasundara and Nityananda withdrew Their pastimes, it was she who was honoured as
-guru in all three holy lands — in Gauda-mandala, in Kshetra-mandala, that is, in Puri, and in Vraja-mandala. <!-- F4 F11 F41 -->
+guru in all three holy lands — in Gauda-mandala, in Kshetra-mandala, that is, in Puri, and in Vraja-mandala. By her
+mercy she delivered many sinners and godless people. <!-- F4 F11 F41 F114 -->
 
 ## Daughter of Surya Dasa
 Jahnava's father was Surya Dasa Sarakhela, also known as Suryadasa Pandita and Surya Pandita. He was dear to
 Sri Chaitanya, and Nityananda and Gauranga too regarded him as Their intimate devotee. Her mother's name was Bhadravati;
-the biographies call her most fortunate — it fell to her to become the mother of two shaktis of Nityananda. The elder
+one of the biographies calls her most fortunate — it fell to her to become the mother of two shaktis of Nityananda. The elder
 daughter was Vasudha, the younger Jahnava. <!-- F13 F14 F15 -->
 
 Jahnava's grandfather was Kamsari Mishra, a brahmana of the Vatsa gotra from the Ghoshal family. He and his wife
@@ -35,8 +36,8 @@ branches of Nityananda's tree, names both brothers together:
 “Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were full of love for God.”
 (CC, Adi 11.25) <!-- F20 F21 F22 Q4 -->
 
-Jahnava appeared in the world around 1409 of the Shaka era (≈ 1487) in Ambika-Kalna — so says one of the biographies;
-the others give neither the year nor the place of her birth.[^5] The day of her appearance is the ninth day of the bright
+Around 1409 of the Shaka era (≈ 1487), says one of the biographies, Jahnava appeared in the world to Bhadravati, the
+wife of Surya Dasa Sarakhela of Ambika-Kalna.[^5] The day of her appearance is the ninth day of the bright
 fortnight of Vaishakha, “Gaura-navami”; on that same day the appearance of Sita Devi, the eternal consort of Ramachandra,
 is also celebrated. Our calendar marks it in the same way: on the Gaura-navami of the month of Madhusudana it remembers
 the appearance of Nityananda's shakti Sri Jahnava Devi and of Rama's shakti Sri Sita Devi.[^6] <!-- F23 F24 F25 -->
@@ -64,14 +65,14 @@ fell at His feet and could not utter a word for tears. Nityananda, laughing with
 watching his brother, rejoiced as well. <!-- F30 -->
 
 When Surya Dasa offered his daughters to Nityananda, He showed him while awake what he had earlier seen in his dream:
-Vasudha and Jahnava shone like gold and kunkuma, in jewelled ornaments and many-coloured garments — Varuni and Revati on
+Vasudha and Jahnava shone brighter than gold and kunkuma, in jewelled ornaments and many-coloured garments — Varuni and Revati on
 either side of Balarama. Surya Dasa fainted with rapture (“Bhakti-ratnakara” 12.3908–3910).[^8] Nityananda granted him
 this vision of His majesty to delight His devotee. <!-- F31 I7 -->
 
 On the eve of the wedding the adhivasa was performed in the house of Krishnadasa Sarakhela in Shaligrama, with the
 brahmanas of Borgachhi and Shaligrama present.[^9] Then Surya Dasa, according to rite and custom, gave both his daughters
-to Nityananda (“Bhakti-ratnakara” 12.3983). “Fortunate he was both by scripture and in the eyes of the world,” says the
-“Bhakti-ratnakara,” “for he gave his daughters to the Supreme Lord.” <!-- F32 F33 Q2 -->
+to Nityananda. “Both by the custom of the world and by scripture Surya Dasa is fortunate,” says the “Bhakti-ratnakara”:
+“he gave his two daughters to Nityananda-chandra” (12.3983). <!-- F32 F33 Q2 -->
 
 The “Bhakti-ratnakara” stresses that the wedding was performed “according to human custom.” This does not mean that
 Nityananda entered into a worldly union. Every vishnu-tattva has three energies — Shri, Bhu and Nila (Lila) — and
@@ -105,7 +106,8 @@ Before setting out for Vrindavana, Srinivasa came to Khardaha. Parameshvari Dasa
 Virachandra; Srinivasa prostrated himself before them in tears, and Jahnava placed her feet on his head, blessing him
 with the dust of her feet. He stayed there several days, received the mercy of both mothers and the blessing of
 Virabhadra, and Jahnava, together with other associates of the Lord, seeing his devotion, told him to go to Vrindavana;
-from Khardaha he went on to Khanakula. <!-- F44 -->
+from Khardaha he went on to Khanakula, and on returning to Yajigrama he told his mother of Jahnava's command and received
+her blessing too. <!-- F44 -->
 
 Narottama too visited Khardaha — after his time in Vrindavana. Parameshvari Dasa brought him into the inner apartments
 of the house, to the feet of Jahnava and Vasudha. Understanding that he had already received the mercy of Lokanatha and
@@ -113,7 +115,7 @@ Jiva, they bestowed their own generously upon him; here the “Bhakti-ratnakara�
 Jahnava the supreme queen. For four days Narottama spoke with them about Krishna, and then went on to
 Khanakula-Krishnanagara. <!-- F45 -->
 
-Her stepson, Vasudha's son Virabhadra, also became her disciple in diksha. According to the “Prema-vilasa,” he once saw
+Her stepson, Vasudha's son Virabhadra, also became her disciple in diksha. According to the “Prema-vilasa” (24.699–704), he once saw
 her in a four-armed form — and his heart was changed: he resolved to take initiation from none other than her, his aunt
 and stepmother. <!-- F93 -->
 
@@ -130,8 +132,8 @@ Sarakhela, Madhava Acharya — Nityananda's son-in-law, Raghupati Vaidya, Minake
 Jnanadasa, Mahidhara, Sri Shankara, Kamalakara Pippalai, Gauranga Dasa, Nakadi, Krishna Dasa, Damodara, Balarama Dasa,
 Sri Mukunda and Vrindavana Dasa Thakura, as well as Srivasa's brothers Shripati and Shrinidhi.[^11] The
 “Bhakti-ratnakara” (10.375–382) names separately among her companions Parameshvari Dasa, Kamalakara Pippalai, and
-Bhagavan Acharya with his son Raghunatha Acharya; of Minaketana Ramadasa it says that the mere sight of such Vaishnavas
-sanctifies the three worlds. Her disciples Jnanadasa and Manohara Dasa went with her, and, according to the
+Bhagavan Acharya with his son Raghunatha Acharya, and of her companions, Minaketana Ramadasa among them, it says that the
+mere sight of such Vaishnavas sanctifies the three worlds. Her disciples Jnanadasa and Manohara Dasa went with her, and, according to the
 “Prema-vilasa,” little Kanu Thakura as well. At Katwa she was joined by Kala Krishnadasa of Akai-hata
 (“Bhakti-ratnakara” 10.409). <!-- F51 F52 Q6 -->
 
@@ -173,22 +175,26 @@ sankirtana Jahnava offered red abir powder to the Deities, and at her word the d
 it, as at Holi. At dusk Srinivasa performed the abhisheka in honour of Gauranga's appearance and sang and danced with the
 devotees all night. <!-- F47 F48 F62 F63 -->
 
-Jahnava herself cooked for the Deities. According to the “Bhakti-ratnakara” (10.686–687), early in the morning, full of
-joy, she bathed, performed her morning rites and meditation on the mantra, and eagerly prepared countless vegetable
-dishes; skilled in the art of cooking, she quickly made sweets, cakes and drinks as well, and it was she who directed the
-whole kitchen. Srinivasa offered the bhoga to the Deities.[^13] Then Jahnava distributed prasada to the mahantas with her
-own hands, and when they had eaten, she asked Narottama, Srinivasa and Shyamananda to eat — and took prasada last of all
-herself. Outside the hall, meanwhile, Raja Santosha was feeding thousands of people. <!-- F64 F65 -->
+Jahnava herself cooked for the Deities. The next morning, after the night of kirtana and the mangala-arati, as the
+“Bhakti-ratnakara” relates (10.686–688), Jahnava Ishvari in great joy performed her bath and morning rites, with great
+eagerness prepared wonderful dishes — rice, vegetables and much else beyond description — and with wonderful ceremony
+herself offered the bhoga to Gauranga, Vallabhikanta and the other Deities. Skilled in the art of cooking, she quickly
+made sweets, cakes and drinks as well, and it was she who directed the whole kitchen.[^13] Then Jahnava distributed
+prasada to the mahantas with her own hands, and when they had eaten, she asked Narottama, Srinivasa and Shyamananda to
+eat — they dared not disobey, and she fed them with care — and took prasada last of all herself. Outside the hall, meanwhile, Raja Santosha was feeding thousands of people. <!-- F64 F65 -->
 
 The great acharyas — Narottama, Srinivasa and others, themselves teachers of the whole world — felt that they had
-attained the goal of life by hearing talks about Hari from her lips. And the presence of Jahnava, Raghunandana,
-Achyutananda, Vrindavana Dasa and other eternal associates of the Lord made happy all who came to the festival. <!-- F49 F68 -->
+attained the goal of life by hearing talks about Hari from her lips. And the presence of Jahnava and of the eternal
+associates of the Lord who were there with her — Raghunandana, Achyutananda, Vrindavana Dasa, Shrinidhi and Shripati,
+Krishna Mishra, Gokula and many others — made happy all who came to the festival. <!-- F49 F68 F115 -->
 
 A controversy is also connected with the Kheturi festival. The “Prema-vilasa” (19th vilasa) claims that Srinivasa
 worshipped Gauranga there with the mantra of Radha-Krishna, that the Gosvamis prescribed the worship of Gaura with the
 ten-syllable Gopala mantra, that Jahnava approved of this, and that on Phalguna-purnima, Gaura's appearance day, all
 took mahaprasada — that is, broke the fast. One of the biographies regards this as an interpolation by a hand hostile to
-the Gaura-mantra and to the observance of Gaura's appearance day. Nothing of the kind is found in the
+the Gaura-mantra and to the observance of Gaura's appearance day, and adds that the 19th and 20th vilasas are not a
+genuine part of the “Prema-vilasa” at all: of the four manuscripts collected for its edition, three ended with the 18th
+vilasa. Nothing of the kind is found in the
 “Bhakti-ratnakara” (10th wave): there each of the six Deities is honoured separately, and Narottama calls each by name
 (10.492, 495–496). For the form, name, qualities and pastimes of the Lord are varied, and therefore the worship of each
 Deity requires its own mantras — so teach scripture and the mahajanas. <!-- F66 Q8 Q10 I8 -->
@@ -197,7 +203,8 @@ When the time came to part, Raja Santosha in tears presented everyone with gold,
 company set out for Vrindavana. <!-- F67 -->
 
 ## In Vraja
-Her journey to Vraja is described in the eleventh wave of the “Bhakti-ratnakara.” On the way, in a certain wealthy
+Her holy life was described in detail by Narahari Chakravarti in the “Bhakti-ratnakara”; the eleventh wave of that book
+is devoted to her journey to Vraja. On the way, in a certain wealthy
 village, she freed the local godless men and evildoers from sin and bestowed on them love for Krishna. Through Prayaga and
 Kashi she came to Mathura, visited the birthplace of Krishna, bathed at Vishrama-ghata and entered Vrindavana. <!-- F69 F70 F71 Q7 -->
 
@@ -218,7 +225,8 @@ Jahnava-ghata to this day. <!-- F76 F77 F110 -->
 
 Together with the Vaishnavas she went round Vraja-mandala and listened to Jiva Gosvami explaining the
 “Brihad-bhagavatamrita.” Srila Bhaktisiddhanta Sarasvati, in his “Anubhashya” to the “Chaitanya-charitamrita”
-(Adi 10.85), also mentions that Jahnava and other devotees came to Vrindavana during Jiva's lifetime. <!-- F78 F79 Q19 -->
+(Adi 10.85), also mentions that Jahnava and other devotees came to Vrindavana during Jiva's lifetime; Jiva provided prasada and
+lodging for all who came from Gauda. <!-- F78 F79 Q19 -->
 
 With her in Vrindavana was the boy Kanu, son of Purushottama Thakura — the future Kanu Thakura, also called Shishu
 Krishnadasa. He had left Bengal with her at the age of five (according to one tradition, Jahnava adopted him). Seeing what
@@ -256,7 +264,7 @@ of Gaura and Nityananda — and during the kirtana Gaura and Nityananda Themselv
 previous occasion, she cooked many dishes, offered them to the Deities and distributed the prasada; in a dream Gauridasa
 appeared to her together with Gaura and Nityananda, and They blessed her. <!-- F89 -->
 
-She also visited the house of Uddharana Datta, who was no longer living; there a sankirtana festival went on for another
+She also visited the house of Uddharana Datta, who had already departed from this world; there a sankirtana festival went on for another
 night, and from there she returned home by boat to Khardaha. She was received with sankirtana, and people crowded to see
 her. Virachandra and Ganga bowed to her, and she embraced them and, as mothers caress their children, tenderly breathed
 the fragrance of their heads; Jahnava and Vasudha exchanged respectful greetings. To Vasudha, Virabhadra and all who had
@@ -265,9 +273,9 @@ servant. The story of her pilgrimage is well known among Gaudiya Vaishnavas to t
 
 ## Disciples and Family
 Of her first disciple, Virabhadra, we have already spoken. Jahnava also took care of his marriage. According to the
-“Bhakti-ratnakara” (13.251–253), at her wish Yadunandana Acharya gave Virabhadra his two daughters, Shrimati and
+“Bhakti-ratnakara” (13.249–255), at her wish Yadunandana Acharya gave Virabhadra his two daughters, Shrimati and
 Narayani. This took place near Rajabol-hata, in Jhamatpur, where Jahnava had come to the temple of one of her disciples.
-Yadunandana and his wife Lakshmi attained great devotion by her mercy, and both daughters-in-law became her disciples and
+Yadunandana attained great devotion by her mercy, and both daughters-in-law became her disciples and
 received the mantra from her hands.[^16] <!-- F94 Q9 -->
 
 Her disciple in diksha was Nityananda Dasa, the author of the “Prema-vilasa.” She also asked for Ramachandra, or Ramai —
@@ -283,8 +291,7 @@ he told Jahnava and Vasudha about it, and Jahnava, overwhelmed with love, told h
 and install Radha-Gopinatha there. She also had a Deity of Radha made and sent it to Vrindavana, to Sri Govindadeva; the
 same Parameshvari Dasa accompanied Radha.[^17] <!-- F99 F100 -->
 
-The songs of Govinda Kaviraja, Ramachandra's brother, so delighted Jiva Gosvami, Srinivasa Acharya and Jahnava Mata that
-together they gave him the title “kaviraja” — “king of poets.”[^18] <!-- F101 -->
+The title “kaviraja” — “king of poets” — was given to Ramachandra and his brother Govinda by Jiva Gosvami.[^18] <!-- F101 -->
 
 ## Departure
 About when and how Jahnava left this world the biographies say little; two of them are entirely silent. One names the
@@ -307,16 +314,17 @@ She also had her own “gadi” — seat — at Sukhasagar. When the Ganges swal
 her gadi, together with the Deities of Purushottama (Nagara), which had earlier been brought there from Beledanga, were
 moved to Sahebdanga-Berigram, and when that place too was ruined, to Chandure, in Nadia district (Chakdaha police
 station), a mile from Simurali station and from Palpara. Srila Bhaktisiddhanta Sarasvati also writes of this in his
-“Anubhashya” (to CC, Adi 11.39). The Deities have now been in Chandure for about fifty years. <!-- F107 F108 Q19 -->
+“Anubhashya” (to CC, Adi 11.39). When one of the biographies was written, the Deities had
+already been in Chandure for about fifty years. <!-- F107 F108 Q19 -->
 
-The present temple in Chandure is a thatched hut with mud walls. There Jagannatha, Balarama and Subhadra are worshipped,
+The temple in Chandure was then a thatched hut with mud walls. There Jagannatha, Balarama and Subhadra are worshipped,
 two pairs of Nitai-Gaura, Gopinatha, Jahnava Mata, Bala-Gopala, five pairs of Radha-Govinda, Revati and Balarama, and a
 shalagrama. Some of the Deities were installed by Purushottama; the rest, it is said, came from Jahnava's gadi, which is
 why the shripat is also called the “pat of Vasu and Jahnava.” Here the service passed from mahanta to mahanta: Gopala
-Dasa, Ramakrishna, Bihari Dasa, Rama Dasa, another Gopala Dasa and now the aged Sitanatha Dasa. <!-- F109 -->
+Dasa, Ramakrishna, Bihari Dasa, Rama Dasa, another Gopala Dasa and at that time the aged Sitanatha Dasa. <!-- F109 -->
 
 ## Revati and Ananga-manjari
-Who is Jahnava in the eternal pastimes of Krishna? Kavi-karnapura answers in the “Gaura-ganoddesha-dipika”:
+Who is Jahnava in the eternal pastimes of Krishna? Kavi Karnapura answers in the “Gaura-ganoddesha-dipika”:
 
 “His two beloveds, Vasudha and Jahnavi — Sri Varuni and Revati, born in the line of Revata — are the daughters of the
 great-souled Sri Suryadasa, radiant as the sun, who is Kakudmi.” (GGD 65)
@@ -389,11 +397,12 @@ Sri Chaitanya. <!-- F111 Q18 -->
 [^2]: One of the biographies calls Jahnava's uncle who was with her at the Kheturi festival “Krishna Mishra.” Krishna
     Mishra is the name of Advaita's son, who is named separately among the guests from Shantipura; the names have
     evidently been confused, and Krishnadasa Sarakhela is meant.
-[^3]: According to another account, Surya Dasa's house and temple stood in Ambika, a little to the west of Gauridasa's
-    shripat.
+[^3]: One of these biographies says elsewhere that Surya Dasa's house and temple stood in Ambika, a little to the west
+    of Gauridasa's shripat; and the third calls him Surya Dasa “of Ambika-Kalna” (see below).
 [^4]: According to another biography, he was the royal treasurer, hence the title; elsewhere the same biography calls him
     a secretary to the Muslim authorities.
-[^5]: The other biographies give Shaligrama as her father's home and say nothing of her birthplace.
+[^5]: From this one may infer that she was also born in Ambika-Kalna, but no biography states her birthplace directly;
+    the other two do not give the year either, and regard Shaligrama as her father's home (see above).
 [^6]: One of the biographies gives the eighth day of the bright fortnight of Vaishakha (shukla-ashtami) as her appearance
     day; another regards the ninth day of the bright fortnight of Vaishakha as the day of her departure (see below,
     “Departure”). Here we follow our calendar.
@@ -409,20 +418,23 @@ Sri Chaitanya. <!-- F111 Q18 -->
     Jahnava's uncle as “Krishna Mishra” (see above).
 [^12]: One of the biographies places this meeting “in Kanthaka-nagara,” but Kanthaka-nagara is Katwa, while Govinda
     Kaviraja lived in Teliya-Budhari.
-[^13]: When she cooked is told differently: according to some biographies, she prepared the first offering herself on the
-    morning of the festival; according to another — on the third day of the festival, having bathed at noon “in the
-    Ganges” (though Kheturi stands on the Padma) and cooked rice, vegetables and other dishes of unheard-of taste.
+[^13]: According to the “Bhakti-ratnakara” and all three biographies, she cooked on the morning after the appearance day
+    (one calls this her first offering); but one of them says elsewhere — on the third day of the festival, having
+    bathed at noon “in the Ganges” (though Kheturi stands on the Padma) and cooked rice, vegetables and other dishes of
+    unheard-of taste. The bhoga, according to one of the biographies, was offered to the Deities by Srinivasa; according
+    to the “Bhakti-ratnakara,” by Jahnava herself.
 [^14]: The route is given slightly differently: according to one biography — Kheturi, Budhari, Ekachakra, Katwa,
     Yajigrama, Shrikhanda, Navadvipa, Ambika, Saptagrama and Khardaha; according to another — the same, but without
     Shrikhanda.
 [^15]: The details differ here. According to one account, at Katwa she met Yadunandana Acharya; according to another,
     she met Srinivasa there and went with him to Yajigrama. Where she went from Yajigrama is also told differently: to
     Navadvipa or straight to Khardaha.
-[^16]: According to another statement of the same biography, Narayani was Yadunandana's adopted daughter, and
-    Yadunandana himself a disciple of Virachandra.
+[^16]: According to another statement of one of the biographies, Narayani was Yadunandana's adopted daughter.
+    Yadunandana himself, according to the “Bhakti-ratnakara” (13.254), became a disciple of Virachandra at the wedding.
 [^17]: According to the “Nityananda-vamsha-vistara,” the Deity of Radha was intended for Madana-mohana.
-[^18]: According to another account (citing the “Anubhashya” to CC, Adi 10.85), the title “kaviraja” was given to
-    Ramachandra and his brother Govinda by Jiva Gosvami.
+[^18]: So writes one of the biographies, citing the “Anubhashya” to CC, Adi 10.85, and so does another in its chapter
+    on Jiva. But elsewhere this second biography says that Govinda's songs so delighted Jiva Gosvami, Srinivasa Acharya
+    and Jahnava Mata that together they gave him this title.
 [^19]: Our calendar marks her appearance on the Gaura-navami of the month of Madhusudana; the day of her departure is not
     in the calendar.
 [^20]: The departure of the Lord's eternal shakti is not death: she never came under the sway of karma and does not leave
