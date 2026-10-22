@@ -734,3 +734,5 @@
 | @krishnadasa-babaji | Кришнадас Бабаджи (Индрачандра) | Krishnadasa Babaji (Indrachandra) | ученик Бхактивиноды (дикша, бабаджи-веша 1315 г. бенг.), служил ему до ухода (B 1117–1119; T 235) |
 | @bhakti-pradipa-tirtha | Бхакти Прадип Тиртха (Джагадиш Бхакти Прадип) | Bhakti Pradipa Tirtha (Jagadisha Bhakti Pradipa) | ученик Бхактивиноды (1910), санньяси от Бхактисиддханты (T 235, 252) |
 | @shyamasundara-acharya | Шьямасундара Ачарья | Shyamasundara Acharya | брахман-рархи из Кумарахатты, отец Ишвары Пури (B 716; T 9); не путать с @shyamasundara-khardaha |
+| @baneshvara-pundarika | Банешвара (Гангопадхьяя) | Baneshvara (Gangopadhyaya) | отец Пундарики Видьянидхи, варендра-брахман родом из Багхии (Дакка) (B 69, 748; T 52); по другому мнению отца звали Шукламбара (B 748) |
+| @gangadevi-pundarika | Гангадеви | Gangadevi | мать Пундарики Видьянидхи (B 69, 748; T 52); не путать с @ganga-devi (богиня Ганга) |
