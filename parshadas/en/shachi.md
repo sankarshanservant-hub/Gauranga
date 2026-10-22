@@ -578,6 +578,233 @@ He consoled her with sweet words and left. And when He returned and bowed at her
 tears of love and joy streamed from her eyes (CM, Adi-khanda, part 15, vv. 14, 105–106). But it was a different Nimai
 who had come back from Gaya. <!-- F145 F193 -->
 
+## The Son Returned from Gaya
+Shachi looked at her son and forgot herself for joy (CB, Madhya 1.18). But what had happened to Him she could not
+understand. He wept aloud, calling for Krishna, flooding the courtyard with His tears, and asked everyone, “Where is
+Krishna? Where is Krishna?” With folded palms the mother begged Govinda to protect her son (1.43–46), and then went to
+worship the Ganga and Vishnu:
+
+“Mother Shachi prayed: ‘O Krishnachandra! You have taken my husband and my children. Only one son is left to me. O
+Krishna! There is no one to protect me. Please grant me the blessing that Vishvambhara may go on living at home, in His
+right mind.’” (CB, Madhya 1.135–136)
+
+She would bring Vishnupriya and seat her beside her son, but He seemed not to see even His wife; when He began to cry
+out, Vishnupriya would run away in fright and Shachi would be numb with fear (1.137–139). One day at the meal she set
+before Him rice adorned with a tulasi leaf and, like any mother, asked what He had been reading that day and whether He
+had quarrelled with anyone. Vrindavana Dasa, describing that moment, calls her “Shachi, the mother of all creation”: in
+answer the Lord, as Kapila once spoke to His mother Devahuti, began to tell her of the glory of devotional service to
+Krishna and of the torments of the soul that forgets Krishna — in the mother's womb, at birth and after it — and that
+only one who worships Krishna in the company of His devotees can live and die without fear. Listening to Him, Shachi
+felt great bliss (CB, Madhya 1.189–241). <!-- F146 F147 -->
+
+But the change in her son kept growing. He laughed and wept, fell unconscious, talked to Himself, and Shachi decided it
+was some unknown illness. “By the will of Providence I have lost my husband and my children; I have no one but my son,”
+she told everyone, “and I cannot understand what is wrong with Him: now He laughs, now He weeps.” The neighbours advised
+her to tie Him up, to give Him the juice of green coconuts, to rub oil into His head, and “the magnanimous Shachi, the
+Mother of the universe”, not knowing what to do, tried to follow their advice and surrendered herself wholeheartedly to
+Govinda. She sent word of everything to the Vaishnavas headed by Srivasa, and one day Srivasa came. The Lord was then
+circumambulating tulasi; on seeing the devotee He fell unconscious, and when He came to Himself He sobbed. “Is this
+madness?” thought Srivasa. “This is the highest devotion to Krishna.” To the mother he said:
+
+“‘Do not worry about anything. I assure you, this is not madness but true devotion to Krishna. No one is able to
+understand it. If you wish to see still more of Krishna's wonders, tell nothing to outsiders.’” (CB, Madhya 2.120–122)
+
+Shachi gave up the thought of madness, but anxiety did not leave her: would not this son, too, leave home? (CB, Madhya
+2.88–124) <!-- F148 F33 -->
+
+Once the Lord asked Gadadhara where that dark Krishna in yellow garments was, and on hearing, “Krishna is always in Your
+heart,” began to tear at His chest with His nails. Gadadhara held His hands and calmed Him: “Be patient, Krishna will
+come soon.” Shachi saw it all. “I have never met so sensible a youth,” she thought. “I myself am afraid even to go near
+my son, and he has calmed Him so skilfully,” and she asked him, “Dear boy, stay always by my son; do not leave Him for a
+moment.” Seeing such love of God in Him, she could no longer think of Him as her son: “An ordinary man cannot shed such
+tears. What great soul has appeared in our family?” — and in awe she did not dare to show herself before Him (CB,
+Madhya 2.202–214). Thus for a moment the Lord's majesty veiled her motherly love; but each time vatsalya, guarded by
+yogamaya, prevailed, and to her He was again only her son. <!-- F149 F34 -->
+
+Soon the mother herself received what He had brought from Gaya. Krishnadasa Kaviraja says it in a single line:
+
+“Then He bestowed love of Krishna upon His mother Shachidevi.” (CC, Adi 17.10)
+
+Lochana Dasa tells how it happened. Once, lying at home, the Lord wept in the mood of Radha separated from Krishna, who
+had gone away to Mathura, and gave no answer to His mother's questions. Shachi reflected — and by the signs understood
+that this was prema, Krishna's grace. Then she said:
+
+“‘Listen, listen, my son, my golden son: I see in You a wondrous [treasure], rare in the world. Wherever You went,
+whatever wealth You obtained, You brought it and gave it to me. In Gaya You obtained such wealth — love for Krishna, a
+thing rare even for the gods, a priceless jewel. If there is any compassion for me in Your heart, give me the wealth of
+love for Krishna — this I ask.’ When Shachi-devi spoke such words, the Lord's heart melted, and He looked [at her]: ‘By
+the mercy of the Vaishnavas you will obtain prema, mother — know it for certain: I am telling you.’” (CM,
+Madhya-khanda, part 1, vv. 26–31)
+
+At once Shachi obtained prema-bhakti: her body trembled, tears streamed from her eyes, and she called, “Krishna,
+Krishna!” (vv. 32–34). Murari Gupta tells it the same way: the mother saw her son weeping in His sleep, in time
+recognised the signs of prema and humbly begged Him for it; the Lord answered, “Mother, by the mercy of the Vaishnavas
+this will come to be for you,” and Shachi, “devotion personified”, obtained firm devotion to Hari (“Kadacha”
+2.1.9–18).[^n12] <!-- F194 F204 F82 F177 -->
+
+Lochana Dasa tells of another night too. In the third watch Vishvambhara suddenly began to weep, and Shachi, waking,
+asked, “Why are You weeping, child? Hearing Your weeping, I burn all over.” He was long silent, and then, sitting up on
+the bed, told her His dream: He had seen a Youth shining like a fresh raincloud, with a crest of peacock feathers, in
+yellow garments and with a flute in His hand. “Do not tell anyone,” He asked, and the mother rejoiced at these
+nectarean words (CM, Madhya-khanda, part 6, vv. 5–13). <!-- F83 F195 -->
+
+## Two Sons
+In those years a joy came to dwell in Shachi's house such as she had not known before: once more she had two sons. At
+the Vyasa-puja in Srivasa's house, when Nityananda and Gaurachandra, intoxicated with dancing, forgot Themselves, Shachi
+watched Them from a secluded place:
+
+“When mother Shachi looked at Vishvambhara and Nityananda, she thought: ‘These are my sons.’” (CB, Madhya 5.159)
+<!-- F150 F102 -->
+
+Nityananda often came running to her, and she welcomed Him with great love, while He, like a mischievous child, tried to
+catch hold of her feet, and she would run away (CB, Madhya 8.26–27). Once, towards morning, she had a dream and told it
+to her son in private: He and Nityananda, both five years old, ran into the Deity room, carried out Krishna and
+Balarama and began to quarrel with Them over the offerings. “The time when You stole butter is past,” Nityananda was
+saying, “now is the time of the brahmanas. My Master is Gaurachandra Vishvambhara.” All four snatched the food from one
+another, and then Nityananda called to her, “Mother, give Me something to eat, I am hungry.” The Lord laughed: “Mother,
+this is a most auspicious dream, only do not tell anyone about it. I Myself have noticed that half of what is offered to
+our Deities disappears somewhere.” And He proposed that they invite Nityananda to a meal at once (CB, Madhya
+8.28–51).[^n13] <!-- F151 F103 -->
+
+Shachi gladly set about cooking, the Lord Himself went to fetch Nityananda, and Ishana, the servant of the house,
+brought water to wash Their feet (8.52–59). The brothers sat side by side, and Vrindavana Dasa compares Them to Rama and
+Lakshmana in the house of Kaushalya:
+
+“Mother Shachi joyfully served Them, and when by mistake she brought Them three plates instead of two, They laughed
+merrily. And when she brought Them more, she saw Them in the form of five-year-old boys. She saw two beautiful boys, one
+fair-skinned and the other dark. They wore no clothes, and both had four arms. One held in His hands the conch, the
+disc, the club and the lotus, and on His chest were the mark of Shrivatsa and the Kaustubha gem. The other held the club
+and the plough. In the ears of both were earrings shaped like makaras.” (CB, Madhya 8.62–65)
+
+On her son's chest she saw her daughter-in-law too, like Lakshmi on the chest of Narayana — and the vision vanished.
+Shachi fell unconscious, the food scattered about the room; the Lord lifted her up, and she, saying nothing, went away
+into another room all in tears (8.66–71). <!-- F151 F48 -->
+
+The remnants of that meal were cleared away and reverently eaten by Ishana:
+
+“He is the most fortunate in all the fourteen worlds, for all his life he served mother Shachi.” (CB, Madhya 8.74)
+
+Ishana did whatever she needed, and Shachi loved him dearly. Serving her who is non-different from Yashoda, he knew that
+service to a devotee is higher than worship of the Lord Himself, and that the Lord's mercy follows the mercy of His
+devotee. “With folded palms I bow to Ishana, whom Shachi Thakurani loved so dearly,” sings the “Vaishnava-vandana”.
+<!-- F47 I4 Q7 -->
+
+Shachi regarded Nityananda as her own Vishvarupa: more than once she had heard Him speak exactly like her elder son, and
+had even seen Him in the form of Vishvarupa, but she told no one of this. When Nityananda, like a child, stood
+unclothed in the middle of the courtyard and the Lord Himself dressed Him, the mother beamed with smiles. Once she gave
+Him five sandesh; He ate one and threw the rest away. “Why did You throw them away? What will You eat now?” Shachi
+lamented. “If you want, you will find them,” He replied. Going into the room, she found there the same four sandesh,
+and on coming back she saw Nityananda eating them:
+
+“Shachi said: ‘O Nityananda, why do You bewilder me? I know that You are the Supreme Lord, and so I pray You to free me
+from the veil of illusion.’” (CB, Madhya 11.92)
+
+And, like a child, He reached again for her feet, and she ran away (CB, Madhya 11.78–93). Lochana Dasa relates that the
+Lord Himself revealed to her, “This is Vishvarupa, your own son; under the name of Nityananda He has come to
+Navadvipa,” and the mother, embracing Nityananda, said, “You have become my son… from today you two are my sons.” “All
+that you have said, mother, is true: I am your son — know it for certain,” answered Nityananda, and “seeing her two
+sons, Shachi was comforted at heart” (CM, Madhya-khanda, part 5, vv. 81–90).[^n14] <!-- F153 F104 F195 -->
+
+At home the Lord spent time with Vishnupriya, for He knew that this gladdened His mother (CB, Madhya 11.67–68). But more
+and more the house became for Him a place of ecstasy. His mother would say, “Son, go and bathe in the Ganga,” and He
+would answer, “Mother, chant the names of Rama and Krishna”;
+
+“Whatever Shachi said to her son, Vishvambhara answered only, ‘Krishna.’” (CB, Madhya 8.94)
+
+Watching this, she was immersed in bliss, but in the depths of her heart she thought that this son too might leave home
+(8.92). When in kirtana His tender body fell heavily to the ground, she would close her eyes, call on Govinda and pray,
+“O Krishna, let me not see Vishvambhara falling to the ground.” The Lord felt His mother's wish — and immersed her in
+such bliss that while the kirtana went on she was unaware of the outer world (8.124–132). When the Lord delivered Jagai
+and Madhai, Shachi and her daughter-in-law watched His pastimes at home, sunk in an ocean of nectar (13.308, 372), and
+Vrindavana Dasa exclaims:
+
+“Who can describe the good fortune that fell to mother Shachi? Only the thousand-headed Lord Ananta is able to, and even
+He only if He receives inspiration from above.” (CB, Madhya 13.373)
+
+“Gazing at the lotus face of her son, Shachi, the Mother of the universe, forgot where she was.” (CB, Madhya 13.375)
+
+Together with her daughter-in-law she prayed to Govinda as she beheld her son, and was wholly filled with bliss (CB,
+Madhya 19.270). <!-- F152 F154 F156 -->
+
+## In the House of Chandrashekhara
+When the Lord resolved to play the role of Lakshmi in the house of Chandrashekhara Acharya, her sister's husband, Shachi
+and her daughter-in-law came to watch, and with them the families of all the Vaishnavas (CB, Madhya 18.28–30). Srivasa
+came out in the guise of Narada — the same form, the same words and manners. “Is that Srivasa?” Shachi asked Malini.
+“Yes, it is he,” she replied. And Shachi, “a great Vaishnavi and the mother of the whole universe”, fainted with bliss,
+so that no sign of life could be found in her body; the women whispered the names of Krishna in her ear, and on coming to
+herself she remembered Govinda (18.62–68). And when the Lord Himself came out, no one recognised Him, not even those who
+had known Him from birth:
+
+“What to speak of others, when even mother Shachi did not recognise Him. She said: ‘Can it be that Lakshmi herself has
+come to dance?’” (CB, Madhya 18.131)
+
+And when the play was over and all were weeping with love of God, the pious women fell at Shachi's feet (18.197).
+<!-- F155 F35 -->
+
+## Shachi and Advaita
+Even in Nimai's childhood Shachi used to send Him to Advaita's house to call Vishvarupa to the meal, and Advaita, looking
+at the beautiful Child, would think, “He has stolen My heart — so this is My Lord” (CB, Madhya 22.93–102). But for the
+mother Advaita's house became a house of loss: there Vishvarupa had found the love for Krishna with which He left for
+sannyasa. “It was Advaita who induced my son to leave,” she would think when the pain subsided, but, fearing to offend a
+Vaishnava, she told this to no one, and looking at Vishvambhara she forgot her sorrows (22.107–110). Now Vishvambhara too
+spent nearly all His time with Advaita, leaving His young wife at home,[^n15] and one day her grief broke out:
+
+“When mother Shachi saw that her son was hardly ever at home, she said: ‘Acharya Gosani will take this son away too.’ In
+deep sorrow she went on: ‘Why do they call him “Advaita”? In truth this Gosani is “Dvaita”. He has already induced one
+son of mine to leave home, and now he wants to deprive me of my other son. I am a widow. No one will take pity on
+me.’” (CB, Madhya 22.113–117)
+
+No one learned of this except her Son, who dwells in the heart of everyone. <!-- F157 F37 F38 Q4 F158 -->
+
+One day the Lord sat on Vishnu's throne in Srivasa's house and began to give the devotees blessings. Srivasa asked Him
+to grant love of Krishna to mother Shachi — and heard: “Do not ask this. She has offended a Vaishnava, and that keeps
+her from attaining prema.” “Your words wound us to death,” cried Srivasa. “How can she who gave birth to You not attain
+love of Krishna?” The Lord answered that it was not in His power to destroy an offence against a Vaishnava — only that
+Vaishnava himself could do so, as Ambarisha forgave Durvasa; let His mother place on her head the dust of Advaita's feet
+(22.13–36).[^n16] The devotees went to Advaita, and He exclaimed:
+
+“‘Do you all want to kill Me? My Lord came forth from her womb, and therefore she is My mother and I am her son. I Myself
+long to obtain the dust of her feet. I do not even know the limits of My mother's glory. She is the mother of the whole
+universe and the embodiment of loving service to Vishnu. So how can you say such a thing? Even if a person utters “ai”
+as an ordinary word, the divine power of that sound will free him from all suffering. Mother Shachi is exactly like the
+Ganga. In truth, she is equal to Devaki and Yashoda.’” (CB, Madhya 22.38–43)
+
+Glorifying her, Advaita lost consciousness, and at that moment Shachi took the dust of His feet — and herself fell
+unconscious with bliss. The Vaishnavas began to sing the names of Hari, and the Lord, pleased with His mother, said to
+her from the throne:
+
+“‘Now you have attained devotional service to Vishnu, freed from the offence you committed against Advaita.’” (CB,
+Madhya 22.52) <!-- F39 F40 F157 -->
+
+Vrindavana Dasa himself adds a caution: “In truth, it was not even an offence, but the Lord took it so” (CB, Madhya
+22.58). The mother's words were the lament of vatsalya, not abuse; and the Lord enacted this pastime for the sake of
+others. He knew that there would be people who, exalting one Vaishnava, would disregard the rest, and through the
+example of His own mother, “as the instructing spiritual master”, He warned everyone against vaishnava-aparadha (22.54,
+118–131). If He did not pardon even His mother — the very essence of motherly love, Yashoda — what can others expect?
+One can be freed from an offence against a Vaishnava only by asking forgiveness of that Vaishnava himself. But Shachi too
+set an example: having given birth to Gaurahari, she was not in the least proud, and on understanding her fault she went
+to Advaita without delay. <!-- I2 I3 F157 -->
+
+[^n12]: According to the “Chaitanya-bhagavata”, the Lord granted prema to His mother only after Advaita had forgiven her
+    (Madhya 22.11, 52; see below, the section “Shachi and Advaita”); in Lochana Dasa and Murari Gupta the gift of prema
+    comes soon after Gaya. Both accounts agree in the main: prema comes to Shachi “by the mercy of the Vaishnavas”. One
+    biography, retelling the “Chaitanya-mangala”, writes that the Lord then “praised His mother's good fortune”; in
+    Lochana Dasa it is the author himself who glorifies the good fortune of the Lord's students, while to His mother the
+    Lord gives prema at her request.
+[^n13]: One biography retells this dream thus: Shachi saw that Gaura and Nitai were Kanai and Balai of Vraja Themselves.
+    In the “Chaitanya-bhagavata” in the dream They quarrel with the Deities of Krishna and Balarama, and it is in waking,
+    at the meal, that Shachi sees Them in the forms of Krishna and Balarama; the “Chaitanya-charitamrita” says briefly
+    that Shachi saw in Sri Chaitanya and Nityananda the two brothers Krishna and Balarama (Adi 17.17).
+[^n14]: Nityananda, according to Gaudiya Vaishnava theology, is Balarama Himself, and Vishvarupa too is a manifestation
+    of Sankarshana; therefore Shachi naturally loves Nityananda as her son and recognises Vishvarupa in Him.
+[^n15]: One biography calls her Lakshmipriya; but at that time, after the Lord's return from Gaya, His wife was
+    Vishnupriya. The “Chaitanya-bhagavata” says “Lakshmi” (Madhya 22.112) — as Vrindavana Dasa here calls Vishnupriya
+    too (cf. Madhya 11.65–68).
+[^n16]: According to one biography, Srivasa asked that Shachi might see His divine form, and when the offence had been
+    lifted, the Lord showed her that form. According to the “Chaitanya-bhagavata”, Srivasa asked prema for her, and the
+    Lord, pleased with His mother, declared that she had attained devotion to Vishnu (Madhya 22.24, 52); so also another
+    biography.
+
 <!-- СМЕНА 4: ниже — старый текст пилота, заменить -->
 
 ## The Years of Kirtana
