@@ -527,8 +527,9 @@ called nishtha, ruchi, asakti, and then bhava, or rati. Rati is born from sadhan
 and further sneha, mana, pranaya, raga, anuraga, bhava and mahabhava, just as the juice of the sugar cane becomes
 molasses (gur), then khanda-sara, sugar, sitopala and the finest candy, mishri. All the stages from rati to mahabhava are
 the sthayi-bhava, the abiding sentiment of krishna-bhakti-rasa. Rasa arises when vibhava, anubhava, sattvika and
-vyabhichari join the sthayi-bhava: the sthayi-bhava is its chief foundation, and the vyabhichari (sanchari) are its
-helpers. Vibhava is alambana and uddipana; alambana is vishaya and ashraya: in krishna-bhakti-rasa the devotee is the
+vyabhichari join the sthayi-bhava. The sthayi-bhava is the chief foundation, the root (mula) of rasa; vibhava is its
+cause (hetu), anubhava its effect (karya), the sattvika-bhavas its special effect (karya-vishesha), and the vyabhichari
+(sanchari) its helpers (sahaya). Vibhava is alambana and uddipana; alambana is vishaya and ashraya: in krishna-bhakti-rasa the devotee is the
 ashraya, Krishna the vishaya, and Krishna's qualities the uddipana. <!-- F130 F131 F132 F133 -->
 
 “One of these five rasas abides constantly in the devotee's heart, whereas the seven additional tastes may appear
@@ -574,8 +575,9 @@ deprived him of caste, he came to Kashi and, rejecting the verdicts of the smart
 complete shelter of Krishna's name and went to Vrindavana. In Mathura he gathered and sold dry firewood; he himself lived
 on a pice worth of roasted chickpeas, and with the rest he fed needy Vaishnavas, and to all the Bengalis who came there he
 gave rice with yoghurt and oil for massage. Serving the Vaishnavas, as his example shows, is not for the rich alone:
-whoever sincerely wishes to serve will be given the means by the Lord. Rupa had known Subuddhi Raya before, and with him
-he walked round the twelve forests of Vrindavana. <!-- F144 F145 F146 F147 I12 -->
+whoever sincerely wishes to serve will be given the means by the Lord. Rupa had known Subuddhi Raya before and rejoiced greatly
+to see his renunciation and his service to the Vaishnavas; Subuddhi served him with great love and himself led him
+round the holy places of Vraja-mandala — all the twelve forests of Vrindavana (CC, Madhya 25.200). <!-- F144 F145 F146 F147 I12 -->
 
 At the sight of the places of Krishna's pastimes, the plan of a drama about His pastimes was born in the heart of Rupa,
 “the crown of transcendental poets.” He began it right there in Vrindavana and then composed its nandi-shloka, the
@@ -710,8 +712,9 @@ conquers the mind, and all the senses fall still.” (“Vidagdha-madhava,” 1.
 <!-- F178 F179 F180 F181 Q37 -->
 
 Hearing it, the nama-acharya Haridasa Thakura in rapture began to glorify the meaning of the verse and broke into a
-dance: he had heard of the glory of the Name from many scriptures and sadhus, but never such a description of its
-sweetness (CC, Antya 1.100–101). <!-- F182 -->
+dance (CC, Antya 1.100): for the true greatness of the Name, says Kaviraja, is revealed only by great devotees who
+disclose the meaning of the scriptures (1.101). According to one biography, Haridasa said that he had heard of the glory
+of the Name from many scriptures and sadhus, but never such a description of its sweetness. <!-- F182 -->
 
 ## The Gathering at Rupa's
 On another day, after the darshana of Jagannatha, the Lord came to Rupa at Siddha-bakula with all His associates —
