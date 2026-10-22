@@ -374,12 +374,17 @@ people hear hari-katha and sing kirtana. <!-- F165 F172 -->
 ## The "Sajjana-toshani" and the books
 He began his principal works while living at Naral (Jessore district), in 1878–1881: the "Sri Krishna-samhita," the
 songs of the "Kalyana-kalpa-taru," and the monthly journal "Sajjana-toshani" — "The Delight of the Virtuous." An English
-edition of the journal appeared from 1883, at Barasat, and in 1885 he revived the Bengali one[^18]. In the pages of the
+edition of the journal appeared from 1883, at Barasat, and in 1885 he revived the journal[^18]. In the pages of the
 "Sajjana-toshani" he first printed many manuscripts of the Gosvamis and his own articles about them. Thus in the
 journal's second year (1885) appeared his note "Determining the Years of the Six Gosvamis," compiled from the records of
 a certain Vaishnava; in the first and second years the articles "Sri Jiva Gosvami" and "Sri Jiva Gosvami Prabhu," in
 the eleventh "Shat-sandarbha," in the fourth "Etawah on the Bank of the Yamuna"; in the tenth and eleventh years
-(1899–1900) Narahari Sarakara's "Bhajanamrita" with his commentary "Asvada-vistarini." Unpublished works also remained
+(1899–1900) Narahari Sarakara's "Bhajanamrita" with his commentary "Asvada-vistarini." In the conclusion of that
+commentary he shows the essence of the book: Mahaprabhu taught pure bhakti through the "Shikshashtaka," after His
+departure its teaching was distorted, and Narahari at His behest wrote the "Bhajanamrita" — on nama-bhajana free of
+offences under the shelter of sadhu and guru. In the article "Sri Sri Jiva Gosvami Prabhu" the Thakura calls Srila
+Jiva a pandita and knower of Vedanta equal to Sri Ramanuja, and the "Shat-sandarbha" a jewel; the dates of Srila
+Jiva's life that he obtained agree with the record of Vishvambharananda Deva-Gosvami. Unpublished works also remained
 after him: an article on Srila Rupa's dramas "Vidagdha-madhava" and "Lalita-madhava" (later printed by the journal
 "Gaudiya") and an English life of Srila Jiva in his own hand. <!-- F127 F148 F173 -->
 
@@ -405,7 +410,7 @@ Chaitanya-shikshamrita," a compendium of Mahaprabhu's teaching; the Sanskrit com
 "Shikshashtaka"; the book "Bhaktivinoda"; a verse translation of Srila Raghunatha Dasa's "Manah-shiksha" with the
 commentary "Bhajana-darpana"; the "Dashopanishad-churnika," the "Bhavavali," the novel "Prema-pradipa," the
 "Vishnu-sahasra-nama" with Baladeva's commentary — and published the "Sri Krishna-vijaya"[^23]. In 1887 the "Chaitanya
-Upanishad" came out with his commentary "Chaitanya-charanamrita": the only manuscript of this upanishad was sent
+Upanishad" came out with his commentary "Chaitanya-charanamrita": the manuscript of this upanishad was sent
 to him from Sambalpur by Pandita Madhusudana Dasa[^20]. In the same year, now at Krishnanagar, he began
 the "Amnaya-sutra" and brought out the "Navadvipa-dhama-mahatmya"[^21]. <!-- F126 F127 F128 F173 -->
 
@@ -428,7 +433,7 @@ on the Holy Name — as well as the "Bhagavatarka-marichi-mala" and a translatio
 these years also belongs the "Tattva-vamsha-mala." Then came an edition of the "Padma Purana" (1901), the
 "Bhajana-rahasya" and a revised "Vijana-grama about sannyasis" (1902), a new redaction of the "Sri Krishna-samhita" and
 an edition of the "Sat-kriya-sara-dipika" (1903), the enlarged "Sri Chaitanya-shikshamrita" and the "Prema-vivarta"
-(1905), the Sanskrit "Sva-niyama-dvadashaka" (1906), a translation of and commentary on the "Sri
+(1905)[^pv], the Sanskrit "Sva-niyama-dvadashaka" (1906), a translation of and commentary on the "Sri
 Nimbarka-dasha-shloki," and the song collections "Sri Gitamala" and "Sri Gitavali" (1907). Early works — a book in
 Urdu, "Balid-e-registry," the speech on Gautama and the Bengali verses "Hari-katha" — are dated as far back as the
 1850s. <!-- F126 -->
@@ -453,7 +458,9 @@ Thakura on the seashore, and his father arranged with the sub-registrar of Puri,
 be entrusted with the service of the Giridhari-asana in the Satasan Math. In March 1901 the Thakura came to Puri again,
 and in 1902 began building his own dwelling by Haridasa Thakura's samadhi — the "Bhakti Kuti." Nearby, in a tent on
 the shore, there lived at that time the Raja of Cossimbazar, Manindra Chandra Nandi, mourning someone close to him; he
-often heard Bhaktivinoda and his son and received instruction in bhakti from the Thakura. <!-- F104 F151 F105 F106 -->
+often heard Bhaktivinoda and his son and received instruction in bhakti from the Thakura. When the son met with
+difficulties in the service of the Giridhari-asana and with attacks, the Thakura advised him to leave for Mayapur and
+perform bhajana in seclusion, as Sri Ramanuja once did at Tirunarayanapura. <!-- F104 F151 F105 F106 F202 -->
 
 In 1903 Srila Bhaktisiddhanta regularly read and expounded the "Chaitanya-charitamrita" in the "Bhakti Kuti" in his
 father's presence. The Thakura was visited by the well-known Radharamana Charan Dasa Babaji; they discussed the
@@ -461,7 +468,7 @@ teaching, and Srila Bhaktisiddhanta showed from the shastras that his conduct an
 tradition. In Navadvipa Bhaktivinoda introduced his son to Vamshidasa Babaji. And Charan Dasa Babaji, with Vishnu Dasa
 of Kalna and others, once went with Srila Bhaktisiddhanta in kirtana to Mayapur on Dola-purnima, and the next year
 announced to Bhaktivinoda that he wished to lead a party round Navadvipa-dhama every year. He also wished to take part
-in the Navadvipa parikrama begun by the Thakura, but died before he could. <!-- F107 F152 -->
+in the Navadvipa parikrama begun by the Thakura, but died before he could, in 1906. <!-- F107 F152 -->
 
 ## "Prabhu" and "Vibhu"
 Srila Bhaktisiddhanta honoured both his gurus — Srila Gaurakishora Dasa Babaji and Srila Bhaktivinoda — as
@@ -477,9 +484,11 @@ the glory of the Lord's servants: and in this lies his "vibhu" quality. <!-- F18
 Bhaktivinoda is the chief restorer of the preaching of pure bhakti. Rejoicing in the company of devotees, he mercifully
 pointed out to souls their obstacles, vices and anarthas and in many ways warned those walking the path of bhakti;
 and Srila Gaurakishora, for all his seclusion, helped fulfil his cherished aim. By the desire of Mahaprabhu Himself he
-openly acted as a goshthyanandi preacher, fulfilling the Lord's cherished wish. Therefore Srila Bhaktisiddhanta coined
+acted openly, for all to see, as a goshthyanandi preacher, fulfilling the Lord's cherished wish. Therefore Srila Bhaktisiddhanta coined
 the expression "Sri Bhaktivinoda-dhara" — "the current of Bhaktivinoda": through him the current of pure bhakti began to
-flow again in the Gaudiya sampradaya in our time. <!-- F186 F188 -->
+flow again in the Gaudiya sampradaya in our time. Yet a vibhu is anyone who draws the world into the service of Hari,
+and so both gurus are; Srila Bhaktisiddhanta gave them the names "Prabhu" and "Vibhu" only to show the difference in
+their pastimes. <!-- F186 F188 -->
 
 To a superficial eye he seems a man who lived in worldly comfort, censured renunciation, and spoke courteously and
 sympathetically with those whose vow is domestic happiness — the very opposite of the penniless Gaurakishora. With such
@@ -499,13 +508,15 @@ vichitra palanka…" — about giving up repose on a decorated bedstead; on hear
 only sing…" <!-- F196 F197 F195 I2 F143 -->
 
 Srila Bhaktisiddhanta recalled: by past pious merit he had obtained Bhaktivinoda, who wished him nothing but good; "my
-Prabhu" often visited his father and sometimes stayed with him, and Bhaktivinoda mercifully showed him Gaurakishora;
-and by Prabhu's mercy he himself gradually came to revere Bhaktivinoda's extraordinary nature. So it is said: without
+Prabhu" often visited his father and sometimes stayed with him. Once, to teach a lesson to a would-be renunciant,
+Srila Gaurakishora took off his kaupina and came to the Thakura at Svananda-sukhada-kunja in a washed dhoti with a
+black border and a chadar. And it was Bhaktivinoda who mercifully showed Srila Bhaktisiddhanta Gaurakishora; and by
+Prabhu's mercy he in turn gradually came to revere Bhaktivinoda's extraordinary nature. So it is said: without
 Bhaktivinoda's mercy one cannot know Gaurakishora, without Gaurakishora's mercy one cannot understand Bhaktivinoda's
 superhuman nature, and without Srila Bhaktisiddhanta's mercy one cannot understand either. To see one who has taken
 shelter in the Lord is to "see Prabhu"; to see the same person as "expanding his body" is to "see Vibhu": so Radha
 expands Herself fully for Krishna's senses, so Kaviraja sees Nityananda. Gaurakishora and Bhaktivinoda are the
-diksha-guru and the shiksha-guru of bhajana of one non-dual knowledge; only their pastimes differ. <!-- F191 F192 F198 I3 -->
+diksha-guru and the shiksha-guru of bhajana of one non-dual knowledge; only their pastimes differ. <!-- F191 F206 F192 F198 I3 -->
 
 Once Bhagavati Devi, the Thakura's wife, Mata Thakurani of the "Bhakti Bhavana," revered by all, came with other
 servants of the Thakura to Kulia to bow to Srila Gaurakishora. "You have left the Thakura at home — why then have you
@@ -726,8 +737,9 @@ pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
 [^19]: The list of works given in one of the biographies opens with the words "from 1866 to 1907," yet includes
     writings of the 1850s: the book "Balid-e-registry" and the speech on Gautama (1856) and the verses "Hari-katha"
     (1850). In the account of his life the speech on Gautama belongs to the time of his service in Chhapra.
-[^20]: So according to the edition itself (see our translation of the "Chaitanya Upanishad"): the manuscript was sent
-    from Sambalpur in 1886, and the book was printed in 1887 in Calcutta, at the "Bhakti Bhavana." Bhaktivinoda himself,
+[^20]: So according to our translation of the "Chaitanya Upanishad" and the edition itself: the manuscript was sent
+    from Sambalpur by Pandita Madhusudana Dasa (by tradition, in 1886), and the book was printed in 1887 in Calcutta,
+    at the "Bhakti Bhavana." Bhaktivinoda himself,
     in the colophon of the commentary, writes that he composed it "on the bank of the Jahnavi" "in the fourth century of
     the era of Sri Chaitanya" (that is, from 1886), and the colophon of the Bengali translation calls Madhusudana "a
     resident of Sambalpur." One of the biographies writes that Bhaktivinoda received the manuscript while himself serving
@@ -739,6 +751,8 @@ pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
 [^23]: The biography names Satyaraja Khan as its author; but according to the "Chaitanya-charitamrita" the "Sri
     Krishna-vijaya" was written by his father, Gunaraja Khan: "Gunaraja Khan has a book, the 'Sri Krishna-vijaya,' in
     which there is one saying filled with the greatest love for Krishna" (CC, Madhya 15.99).
+[^pv]: So by the list of works; the first known edition of Jagadananda Pandita's "Prema-vivarta," brought out by
+    Bhaktivinoda, is held to be the Calcutta edition of 1906 (by other lists, 1905).
 [^24]: By the list of works the "Sva-niyama-dvadashaka" was written in 1906.
 [^25]: This is a play on words: "bhakti-vinoda," "the joy of bhakti," is the highest goal (prayojana), love of God;
     "gaura-kishora," the relationship with the youthful Gaura (sambandha); "bhakti-siddhanta," "the doctrine of bhakti,"
