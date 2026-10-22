@@ -1416,7 +1416,7 @@ for blasphemers; the dust of his feet, falling on their heads, will destroy thei
 preacher: even in threatening, he wishes good[^60]. <!-- F375 Q13 I9 -->
 
 From the “Chaitanya-bhagavata” (it was also called the “Chaitanya-mangala”) Krishnadasa Kaviraja learned of the wonders
-of Chaitanya and Nityananda (CC, Adi 8). Srila Bhaktisiddhanta explains: Vrindavana Dasa, absorbed in describing the
+of Chaitanya and Nityananda (CC, Adi 8.33–36). Srila Bhaktisiddhanta explains: Vrindavana Dasa, absorbed in describing the
 deeds of Nityananda, left out many events of his plan, and the Vaishnavas of Vrindavana asked Krishnadasa to describe
 them. <!-- F376 -->
 
