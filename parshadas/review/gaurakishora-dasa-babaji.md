@@ -24,7 +24,7 @@
 - **Исправлено на месте:** F7 (`испр. пров.`) — автор строфы о самбандхе: Шрила Б. Р. Шридхар Махарадж, «Шри Бхактивинода-дашакам»
   («Гаудия», июль 1939), строфа 8 — T 237 прямо называет автора; его наследие — наше (CLAUDE.md), в статье назван. F55 (`испр. пров.`) —
   год явления Бхакти Даиты Мадхавы (1904), стоявший в статье без опоры в реестре, — со ссылкой на T 270 / @bhakti-dayita-madhava F5.
-- `grep '@gaurakishora-dasa-babaji' parshadas/facts/*.md` — @bhaktivinoda (F64, F110, F112-строфы T 237, F149 и др.), @bhakti-dayita-madhava
+- `grep '@gaurakishora-dasa-babaji' parshadas/facts/*.md` — @bhaktivinoda (F64, F110, строфы T 237, F149 и др.), @bhakti-dayita-madhava
   F6, F76, @bhakti-pramoda-puri F5, @vamshidasa-babaji F4, @pundarika-vidyanidhi — противоречий нет (даты дикши: январь/магха 1900 —
   как у нас; «по велению/позволению» — сноска 3). Отдельного реестра Бхактисиддханты пока нет.
 
