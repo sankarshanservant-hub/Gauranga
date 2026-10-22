@@ -15,15 +15,15 @@ Vishva-vaishnava-raja-sabha. Krishnadasa Kaviraja describes them thus:
 the dress of cowherds, and peacock feathers adorned their hair”. (CC, Adi 11.21)
 
 Gauridasa's name never fails to appear in the lists of the twelve gopalas — now fourth, now fifth, for the order of these
-lists is not the same; he is named as well where the subject is another of the twelve, Mahesha Pandita. <!-- F3 Q14 -->
+lists is not the same. <!-- F3 Q14 -->
 
-On the tree of Sri Chaitanya, Nityananda is the main trunk:
+On the tree of Sri Chaitanya, Nityananda is the principal branch:
 
 “Sri Nityananda is the principal branch of Sri Chaitanya's wish-fulfilling tree. From this mighty branch grow many other
 branches and twigs”. (CC, Adi 11.5)
 
-Among the branches that grow from Him, Gauridasa is one of the most important, and among Nityananda's companions one of
-the dearest to Him. <!-- F2 Q15 -->
+Krishnadasa Kaviraja bows to all the devotees who grow like twigs upon this principal branch (CC, Adi 11.4). Among them
+Gauridasa is one of the most important branches, and among Nityananda's companions one of the dearest to Him. <!-- F2 Q15 -->
 
 Narahari Chakravarti in the “Bhakti-ratnakara” (7.322, 327) calls him Subalachandra, the abode of every virtue, full of
 prema: the name “Subala — Gauridasa” is known everywhere, he is dear to Nityananda and non-different from Chaitanya[^1].
@@ -36,7 +36,7 @@ quotations from the original sources the name is also read “Gauradasa”. <!--
 
 ## The Sons of Kamsari Mishra
 Gauridasa was born in Shaligrama, a village a few miles from Navadvipa, a few kilometres north of Mayapur, near
-Muragachha station on the Eastern Railway. His father was Kamsari Mishra, a brahmana of the Ghoshal family of the Vatsa
+Muragachha station on the Eastern Railway. His father was Kamsari Mishra of the Ghoshal family of the Vatsa
 gotra; his mother was Kamala Devi. Kamsari had six sons: Damodara, Jagannatha, Suryadasa Sarakhela, Gauridasa — the
 fourth — Krishnadasa Sarakhela and the youngest, Nrisimha Chaitanya[^2]. <!-- F6 F7 F8 F9 F10 -->
 
@@ -47,7 +47,7 @@ younger brother, Krishnadasa, believed in Nityananda with all their hearts:
 “Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were filled with love of
 God”. (CC, Adi 11.25) <!-- F11 F12 Q13 -->
 
-Gauridasa's constant support was also King Krishnadasa, son of Raja Harihoda of Badagachhi — the same who arranged
+Gauridasa's constant support was also King Krishnadasa, son of Raja Harihoda of Badagachhi — the same who undertook to arrange
 Nityananda's marriage. <!-- F18 -->
 
 ## The Move to Ambika
@@ -82,9 +82,9 @@ For Gauridasa, Gaura and Nityananda were everything. Separation from Them even f
 parting from the body, and he sang the qualities of Nitai and Chaitanya ceaselessly, in rapture. <!-- F33 -->
 
 Once Gaura and Nityananda came to take leave of him. This farewell is sung by a contemporary of the events — Gauridasa's
-brother, the poet Krishnadasa. Sri Chaitanya dances in the courtyard, Nityananda cries “Hari, Hari!”, and Gauridasa falls
-weeping at the Lord's feet: do not leave my house, stay in Ambika, or I shall die; and if You stay, all who look upon You
-will be saved. The Lord replies:
+brother, the poet Krishnadasa. In the house of Thakura Pandita, Gora dances, whirling round, Nityananda cries “Hari,
+Hari!”, and Gauridasa falls weeping at the Lord's feet: do not leave my house, stay in Ambika, or I shall die; and if You
+two brothers stay, all will be saved. The Lord replies:
 
 “Gauridasa, give up such a wish:
 serve My Deity and you will see —
@@ -93,13 +93,20 @@ keep this true word of Mine.” (Krishnadasa, PK 2358)
 
 Gauridasa heaved a heavy sigh and wept again; the brothers consoled him, but his heart found no rest. <!-- F32 F38 Q11 -->
 
-Then, the poet continues in the next pada, the Lord, seeing his despair, said softly: “We have stayed with you. Know that
-We two brothers are in your house for ever,” — and They manifested Themselves in two perfect murtis. The astonished
-Gauridasa saw four before him: Gaura and Nitai — and Their exact likenesses. “Your wish is fulfilled,” said the Lord.
-“These two will remain with you for ever, and We shall for ever ask you for food.” The “king of panditas” cooked a meal
-and offered it to all four, then garlands of lotuses, cloth and betel, and anointed Them with sandal paste. Then the two
-Lords, leaving two Lords with him, went away to Nilachala, while the Deities ate the rice Gauridasa offered Them, and he
-served Them as his heart desired[^6]. <!-- F39 -->
+Then, the poet continues in the next pada, the Lord, seeing his distress, said softly: “We have stayed with you. Know for
+certain: in this house of yours We two brothers have stayed.” Having consoled him thus, the Lord appeared before the Pandita
+with two Deities, and the astonished Gauridasa saw four before him — Gaura and Nitai and Their Deities. And again the Lord
+said to him:
+
+“Whichever you wish,
+those two keep in your house.
+For the sake of your faith I will eat at your house, asking for food —
+know it in your heart: it is true, true.” (Krishnadasa, PK 2359)
+
+The “king of panditas” set about cooking, and all four partook of the meal; then he offered Them garlands, cloth and
+betel and anointed Them with sandal paste. Having confirmed his faith in every way, the Lord left Both in his house — for
+the Pandita's love the two brothers eat there, asking for food — while They Themselves went to Nilachala. The Pandita
+serves Them, and They play there as They please[^6]. <!-- F39 F72 Q16 -->
 
 Another contemporary, Murari Gupta, tells of the same in the “Kadacha”: at almost the same time as the Lord's Deity was
 installed in Vishnupriya's house, Gaura and Nityananda came to the house of Gauridasa and gave him Their Deities.
@@ -108,8 +115,8 @@ installed in Vishnupriya's house, Gaura and Nityananda came to the house of Gaur
 with every power, and in great delight gave Them to him; dwelling there as They pleased, They partook, together with
 those two Deities, of food of many tastes”. (“Kadacha” 4.14.13–14) <!-- F35 Q12 -->
 
-The Gaura-Nitai Deity is not a likeness or a memorial of the Lord, but He Himself. “My murti is the same as I,” the Lord
-says in the pada, and in serving the Deities Gauridasa served Gaura and Nitai Themselves. <!-- I3 -->
+The Gaura-Nitai Deity is not a likeness or a memorial of the Lord, but He Himself. “I am present in it, know this for
+certain,” the Lord says in the pada, and in serving the Deities Gauridasa served Gaura and Nitai Themselves. <!-- I3 -->
 
 Later traditions tell it differently[^7]. According to one, Gaurasundara, understanding Gauridasa's heart, Himself
 commanded: “Manifest the Deities of Me and of My brother Nityananda — and We shall fulfil the desire of your heart.”
@@ -122,7 +129,8 @@ Nityananda's were hidden in a nim tree growing nearby. Gauridasa understood the 
 carved from that tree; Nityananda Himself, they say, was present at the carving. But when Mahaprabhu and Nityananda were
 about to leave, Gauridasa held Them back with all his strength. The Lord calmed him: “Nityananda and I are directly
 present in these Deities. Choose: either the Deities go — or We do.” Gauridasa, of course, chose that the “real” Gaura and
-Nitai should stay — and so it came to pass[^8]. This tradition sees in what happened a confirmation of the words of the
+Nitai should stay — and so it came to pass[^8]. The motif of the choice is already in Krishnadasa's pada: “Whichever you
+wish, those two keep in your house.” The tradition sees in what happened a confirmation of the words of the
 “Charitamrita”:
 
 “His name, His form and the nature of His personality make up one indivisible truth. Between these three aspects of the
@@ -131,7 +139,7 @@ Absolute there is no difference — their nature is equally spiritual and blissf
 The name, the Deity and the Lord Himself are one; all three are spiritual. <!-- F36 F37 Q9 I2 -->
 
 From then on, conquered by Gauridasa's love, the Deities truly ate everything he offered Them. Gaura-Nitai, who love Their
-devotees, became the captives of his love: he locked Them in the temple of his heart, and there was no way out for Them. <!-- F40 -->
+devotees, became the captives of his love: he locked Them in the temple of love, and there was no way out for Them. <!-- F40 -->
 
 ## “Friend Subala”
 Once Gaura and Nityananda, smiling tenderly, called him “friend Subala” and reminded him of the cowherd pastimes on the
@@ -207,14 +215,14 @@ Vidyabhushana; this line is called the line of Nityananda. Hridaya Chaitanya him
 worshipped Gaura-Nitai in the mood of friendship. <!-- F56 -->
 
 ## Kinsmen and Guests of Ambika
-When in Shaligrama Nityananda married the daughters of Suryadasa and embraced His father-in-law, Gauridasa, looking at
-his brother, was also overcome with bliss and could not contain his joy. <!-- F57 -->
+When Nityananda came for His marriage to the daughters of Suryadasa and embraced His future father-in-law, Gauridasa,
+looking at his brother, was also overcome with bliss and could not contain his joy. <!-- F57 -->
 
 Gauridasa's house in Ambika became a place to which the Lord's companions and heirs would come; many of these visits fell
 in the years of Hridaya Chaitanya. Virachandra, Nityananda's son, on his way to Vrindavana at his mother's bidding, came
 here from Shantipura, and Hridaya Chaitanya received him with warmth and love. Jahnava, on her first pilgrimage, came
 first of all to Gauridasa's house; Hridaya Chaitanya welcomed her cordially, she cooked an offering for the Gaura-Nitai
-Deities with her own hands, and the festival lasted the whole night. On the way back from Vraja she came to Ambika again
+Deities with her own hands, and after a festival of one night there she went on her way. On the way back from Vraja she came to Ambika again
 and wept, remembering her uncle, who had by then departed. In a great kirtana Gaura and Nityananda Themselves appeared;
 at night Jahnava cooked for Them and distributed prasada, and in a dream she saw Gauridasa together with Gaura and
 Nityananda, and all of them blessed her. <!-- F58 F59 F60 -->
@@ -300,13 +308,17 @@ were Sri Chaitanya and Nityananda. <!-- I6 -->
     His sannyasa, after many pastimes in Navadvipa; but in Krishnadasa's pada the Lords go to Nilachala after the farewell,
     which points to the time after the sannyasa. Murari Gupta (“Kadacha” 4.14) places the gift of the Deities in the days
     when the Lord, having already taken sannyasa, visited the environs of Navadvipa.
-[^7]: How the Deities appeared is told in different ways: according to the “Kadacha” and Krishnadasa's pada, the Lords
-    Themselves manifested Themselves in two murtis; according to one later account, Gauridasa manifested the Deities at
+[^7]: How the Deities appeared is told in different ways: according to the “Kadacha”, the Lords Themselves manifested
+    Their Deities and gave Them to Gauridasa; according to Krishnadasa's pada, the Lord came to him with two Deities and
+    bade him keep “whichever two you wish” (one of the biographies retells the pada otherwise: the Lords “manifested
+    Themselves in two murtis” and said, “Your wish is fulfilled”; it also gives the Lord's words as “My murti is the same
+    as I”); according to one later account, Gauridasa manifested the Deities at
     the Lord's command; according to tradition, the Deities were carved from a nim tree in which the forms of Gaura and
     Nityananda lay hidden.
 [^8]: “Real” here does not mean that the Deity is something less than the Lord. The point of the tradition is the
     opposite: the Lord Himself and His Deity are one indivisible truth (CC, Madhya 17.131), and Those who stayed with
-    Gauridasa are Gaura and Nitai Themselves.
+    Gauridasa are Gaura and Nitai Themselves. Both the “choice” and the “departure” of the Deities in the tradition are the
+    Lord's play with His loving devotee, not a story that the Deity could be anything other than He Himself.
 [^9]: The accounts of the cooking differ in detail. In one, it is Gauridasa himself who speaks with vexation, and the Lord
     answers, reminding him that He had asked him not to labour so. In another, Gaura and Nitai outwardly grew angry:
     seeing the old Gauridasa toil, They would not eat; he embraced Them tenderly and asked what he should cook for Them,
