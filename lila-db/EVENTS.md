@@ -2024,12 +2024,12 @@
 ## Господь бросается в Гангу / The Lord throws Himself into the Ganga  `ev-jump-into-ganga` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 17, 1–30 — [1–30](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L12-L127) · `cb-2009`
-- cb (A): Мадхья 17, 31–65 — [31–65](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L132-L300) · `cb-2010`
+- cb (A): Мадхья 17, 31–65 — [31–65](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L132-L302) · `cb-2010`
 - cc (A): Ади 17.243–246 — [243–246](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2451-L2481) · `cc-0281`
 - karnapura-ckm (A): Сарга 7, 91–97 — [91–97](../karnapura-mahakavya/ru/07.md?plain=1#L2048-L2183) · `kcm-0081`
 - lochana-cm (B): Мадхья-кханда, «Дивные игры Махапрабху в бхаве Бхагавана», 64–92 — [64–92](../lochana/ru/32.md?plain=1#L7-L94) · `lcm-0144`
 - murari-kcc (A): Пракрама 2, сарга 11, шлоки 19–25; сарга 12, шлоки 1–4 — [19–25](../murari-gupta/ru/2.11.md?plain=1#L41-L53); [1–4](../murari-gupta/ru/2.12.md?plain=1#L5-L11) · `mkc-0109`
-- cb (A): Мадхья 17, 66–102 — [66–102](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L305-L467) · `cb-2011`
+- cb (A): Мадхья 17, 66–102 — [66–102](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L307-L469) · `cb-2011`
 
 ## Кали и Адхарма страшатся явления Господа (аллегория) / Kali and Adharma dismayed by the Lord's advent (allegory)  `ev-kali-adharma-dismay` (1509–1510, возраст 23–24, оценка)
 
