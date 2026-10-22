@@ -107,7 +107,7 @@ Virachandra; Srinivasa prostrated himself before them in tears, and Jahnava plac
 with the dust of her feet. He stayed there several days, received the mercy of both mothers and the blessing of
 Virabhadra, and Jahnava, together with other associates of the Lord, seeing his devotion, told him to go to Vrindavana;
 from Khardaha he went on to Khanakula, and on returning to Yajigrama he told his mother of Jahnava's command and received
-her blessing too. <!-- F44 -->
+her blessing. <!-- F44 -->
 
 Narottama too visited Khardaha — after his time in Vrindavana. Parameshvari Dasa brought him into the inner apartments
 of the house, to the feet of Jahnava and Vasudha. Understanding that he had already received the mercy of Lokanatha and

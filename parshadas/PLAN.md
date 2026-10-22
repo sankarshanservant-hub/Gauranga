@@ -90,7 +90,7 @@ B — вероятно, больше сотни).
 | @gadadhara-pandita (004) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @srivasa (005) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @gauridasa-pandita (006) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @jahnava (007) | ✓ | ✓ (PDF) | — |
+| @jahnava (007) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @narahari-sarakara (008) | ✓ | ✓ (PDF) | — |
 | @vasu-ghosha (009) | ✓ | ✓ (PDF) | — |
 | @dhananjaya-pandita (010) | ✓ | ✓ (PDF) | — |
