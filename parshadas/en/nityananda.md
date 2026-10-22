@@ -1281,7 +1281,7 @@ The “Chaitanya-bhagavata” (Antya 5.728) calls him the eldest among Nityanand
 of the fallen; one biography ascribes to him the miracle of the kadamba blossoming on a lemon tree (cf. note 43).
 <!-- F378 -->
 
-Gauridasa Pandita — in Vraja, Subala — is one of the twelve gopalas and one of Nityananda's dearest companions (GGD 128). His
+Gauridasa Pandita — in Vraja, Subala (GGD 128) — is one of the twelve gopalas and one of Nityananda's dearest companions. His
 body, mind and speech were given to Nityananda (CB, Antya 5.730):
 
 “For the sake of serving Sri Nityananda, Gauridasa sacrificed the support of his class and family. So he accepted Sri
@@ -1304,7 +1304,9 @@ They put on Themselves. Once the Deities left the altar and sang and danced in t
 bank of the Ganga, and seeing the anger of Gauridasa, who came out with a cudgel, became invisible — They entered the
 heart of Hridaya Chaitanya. Gaura and Nityananda always abide in Gauridasa's house; later, in Ambika, Gaura and Nityananda
 appeared in a kirtana, and Jahnava saw Gauridasa with Them in a dream. In the present temple of Ambika are Deities of
-Gaura-Nitai (together with Radha-Krishna, Jagannatha, Balarama and Sita-Rama). <!-- F382 F383 F384 -->
+Gaura-Nitai (together with Radha-Krishna, Jagannatha, Balarama and Sita-Rama); there too, by one biography, are kept a
+manuscript of the “Gita” — by tradition written in the Lord's own hand (not all accept this) — and the Lord's oar.
+<!-- F382 F383 F384 -->
 
 Gauridasa's (Subala's) disciple Hridaya Chaitanya worshipped Gaura-Nitai in the mood of friendship (sakhya). From
 Gauridasa runs the succession called the “line of Nityananda”: Gauridasa Pandita — Hridaya Chaitanya — Shyamananda —
@@ -1346,7 +1348,8 @@ Many of Nityananda's companions showed such powers: Purushottama, according to t
 snake poison in trance. <!-- F404 -->
 
 Nityananda delivered Dhananjaya Pandita and, according to the “Chaitanya-bhagavata,” came to dwell in his heart forever
-(CB, Antya 5.733); in his shripata, Shitala-grama, the Deities of Nitai-Gauranga are served to this day. Kala (Kaliya)
+(CB, Antya 5.733); in his shripata, Shitala-grama, the Deities of Nitai-Gauranga are served to this day. And on returning from Vrindavana, by one biography,
+he installed Deities — Gopinatha, Nitai-Gaura and a Damodara shila — in the village of Jalandi-grama. Kala (Kaliya)
 Krishnadasa, also one of the twelve gopalas, is one of Nityananda's chief devotees:
 
 “One of the outstanding great Vaishnavas was Kala Krishnadasa. He wished to know nothing but the feet of Sri
@@ -1463,25 +1466,35 @@ no longer in this world), Advaita and Nityananda had already withdrawn Themselve
 the road and again resolved to give up his body, but that same night both Prabhus out of causeless mercy appeared to him
 in a dream, consoled him and dissuaded him. <!-- F410 F411 -->
 
+Of the order of the departures one can speak only on the word of two biographies, and even then without dates. By one,
+Vrindavana Dasa was born four years after the Lord's sannyasa, at Mahaprabhu's departure he was barely twenty, and soon
+after that he received initiation from Nityananda, and later went with Jahnava to Kheturi. The other remarks: since
+Vrindavana Dasa called himself Nityananda's last servant, Nityananda remained in His manifest pastimes only a short time
+after that initiation. From both accounts it follows that Nityananda withdrew Himself after Mahaprabhu; when exactly, none
+of the books says. <!-- F458 F460 -->
+
 A tradition recorded in later works (by Jayananda and in the “Nityananda-vamsha-vistara”) says that Nityananda entered
 Bankimdeva in Ekachakra — and the sevaits of Bankim-raya tell the same (see above, “Bankim-raya and the Memorial Places
 of Ekachakra”). Be that as it may, His pastimes did not cease: at the festival in Kheturi (BR 10) Gauranga Himself
 appeared in the kirtana with Nityananda and all the eternal associates, and the devotees saw Nityananda and Advaita
-overwhelmed with ecstasy. And in one letter, addressed apparently to Raghunandana, it is said: when Krishna Chaitanya
-and His companion Nityananda conclude Their appearance, the Vaishnavas of the Kali-yuga will grow ever more anxious and
-full of doubts. <!-- F412 F414 -->
+overwhelmed with ecstasy. And Raghunandana, consoling Shrinivasa before his own
+departure, quoted verses from the “Sri Krishna-bhajanamrita” of Narahari Sarakara (3–4): when Krishna Chaitanya and His
+companion Nityananda conclude Their appearance, the Vaishnavas of the Kali-yuga will grow ever more anxious and full of
+doubts — a hard time is drawing near; and then he blessed Shrinivasa to preach. <!-- F412 F414 -->
 
 ## Identifications
 According to the “Bhakti-ratnakara,” Hadai Pandita and Padmavati are in Krishna's lila Vasudeva and Rohini (see above).
-Balarama's wives, Varuni and Revati, according to the “Gaura-ganoddesha-dipika” (65–66), became Vasudha and Jahnava; both
-are daughters of Surya Dasa, who was formerly Kakudmi, the father of Revati[^52]. By another view, Jahnava is an
-incarnation of Ananga-manjari, the younger sister of Radha, daughter of Vrishabhanu: the possessor of energy is not
-different from His energy. One biography holds this view; another considers both acceptable, for several personalities
-can be united in the Lord's associates. <!-- F417 -->
+Balarama's wives, Varuni and Revati, according to the “Gaura-ganoddesha-dipika” (65), became Vasudha and Jahnava; both
+are daughters of Surya Dasa, who was formerly Kakudmi, the father of Revati[^52]. Ananga-manjari, the younger sister of
+Radha, daughter of Vrishabhanu, the same book (66) connects with both: “Some in the age of Kali declare Ananga-manjari to
+be Sri Vasudha Devi, and some call Jahnavi Ananga-manjari,” — and the saints, by the former rule of the distinction of
+manifestations, accept both as true. The biographies speak only of Jahnava as Ananga-manjari: the possessor of energy is
+not different from His energy. One of them holds this view; another considers acceptable both it and the identification
+with Revati, for several personalities can be united in the Lord's associates. <!-- F417 -->
 
 Virachandra, according to the “Gaura-ganoddesha-dipika” (67), is Kshirodakashayi Vishnu, an expansion (vyuha) of
-Sankarshana, not different from Chaitanya; he is eternally known by this name and eternally manifest in Goloka; by another
-view, he is Aniruddha, who appeared as Nityananda's son. Ganga Devi, Nityananda's daughter, is an incarnation of the river
+Sankarshana, not different from Chaitanya, and Nishatha and Ulmuka entered him for a purpose (68; see above); by one
+biography, he is eternally known by this name and eternally manifest in Goloka; by another view, he is Aniruddha, who appeared as Nityananda's son. Ganga Devi, Nityananda's daughter, is an incarnation of the river
 Ganga, and her husband Madhavacharya an incarnation of King Shantanu, Ganga's husband in the “Mahabharata” (GGD 69).
 <!-- F418 F419 Q59 -->
 
@@ -1772,9 +1785,9 @@ By another, the preparations took place in Boroganchhi, in the house of Krishnad
 Nityananda to come there; in the same place this Krishnadasa is called Surya Dasa's brother — evidently two Krishnadasas
 have been confused: the son of Harihora and Krishnadasa Sarakhela.
 [^52]: Which daughter was Revati and which Varuni is not clearly said, and the order of the names in one biography shifts:
-according to the “Gaura-ganoddesha-dipika” (65–66) Balarama's wives Varuni and Revati became Vasudha and Jahnava; in the
-dream Surya Dasa sees them “as Revati and Varuni,” in waking “as Varuni and Revati.” On the other view (Jahnava as
-Ananga-manjari) see below, “Identifications.”
+according to the “Gaura-ganoddesha-dipika” (65) Balarama's wives Varuni and Revati became Vasudha and Jahnava; in the
+dream Surya Dasa sees them “as Revati and Varuni,” in waking “as Varuni and Revati.” On Ananga-manjari (Vasudha or
+Jahnava) see below, “Identifications.”
 [^53]: By one biography, after the wedding Nityananda remained in Shaligrama and then came with His wives to Shachi; by
 another, at Shachi's request He lived in Navadvipa, then with Uddharana in Saptagrama, and finally settled for good in
 Khardaha. Here these accounts are combined into one.
