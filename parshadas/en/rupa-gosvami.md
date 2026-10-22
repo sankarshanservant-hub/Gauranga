@@ -901,12 +901,22 @@ prakrita-sahajiyas that sadhana requires giving up the study and writing of the 
 foreign to the Rupanugas; but whoever studies or writes for money, fame and honour grows weeds and will not obtain the true
 fruit, and a genuine Rupanuga does not seek such petty gains. <!-- I19 -->
 
+Of this same renunciation one biography speaks in reply to those who called the Gosvamis of Vrindavana self-seeking —
+and it speaks of them all together: Rupa, Raghunatha and the other Gosvamis, desiring only Krishna's pleasure, gave up
+ministerial posts under Hussain Shah, wealth like that of Indra, and wives as lovely as apsaras; they spent only one
+night under each tree and chewed dry chickpeas. The crown of the great renunciants, they showed themselves to be great
+lovers, intoxicated with divine madness, and even those who trust only their own experience unanimously praise their
+renunciation; to say that they appropriated the money of worldly people and of the Deities is childish prattle.
+<!-- F631 -->
+
 Drawn by the bhajana of Rupa and Sanatana and by the Lord's earlier instructions, Raghunatha Bhatta, Gopala Bhatta and
 Raghunatha Dasa Gosvami came to Vrindavana, and Jiva Gosvami at Nityananda's merciful bidding. Following Rupa and Sanatana,
 they preached Gaurasundara's innermost desire; the brothers' example drew the other Gosvamis to Vrindavana, and all of them
 are followers of Rupa. Soon after Lokanatha had settled in Vrindavana at the Lord's bidding, Rupa, Sanatana, Gopala Bhatta
 and others began to come there to live, and their company gladdened Lokanatha; they were all of one mind and heart, and
-Lokanatha was the eldest among the Gosvamis.[^40] <!-- F214 F215 I18 -->
+Lokanatha was the eldest among the Gosvamis.[^40] Sanatana, Rupa and Raghunatha, according to one biography, performed
+their bhajana in Vraja as one soul (abhinnatma) — just as Lokanatha and Bhugarbha did, and later Narottama and
+Ramachandra. <!-- F214 F215 I18 F634 -->
 
 Jiva recalls in the “Laghu-toshani” that Gopala Himself, in the form of a cowherd boy, appeared to the two brothers,
 bringing them milk (kshira-aharana-lila), and that Raghunatha Dasa was their renowned friend, whom the best of the Aryas
@@ -2239,8 +2249,10 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     after the verse of the “Lalita-madhava.”
 [^37]: According to one biography, Kalidasa was once considered the greatest Sanskrit poet — until Rupa began to write his
     transcendental poetry, imbued with divine feelings.
-[^38]: According to one biography (citing the “Bhakti-ratnakara”), Rupa perfectly fulfilled everything except one thing;
-    what it was is not said.
+[^38]: According to one biography (citing the “Bhakti-ratnakara”), Rupa perfectly fulfilled everything except one thing:
+    the service of the Deity had not yet been established, and Rupa was anxious about how to establish it. So too in the
+    “Bhakti-ratnakara” (2.404–406): having discovered the lost holy places, Rupa “pondered one thing” — that he could not
+    find Sri Govinda (see below, “Sri Govinda-deva”).
 [^39]: Accounts differ as to where Sanatana was then. According to one biography, he was already in Vraja by that time;
     according to another, Sanatana came to Puri by the forest road through Jharikhanda, a year after Dola-yatra left by the
     same road for Vraja, and Rupa soon joined him, so that the brothers met again more than a year after parting; according
