@@ -7,8 +7,7 @@ has been kept alive by the traditions of the Radhakanta Matha in Puri, the house
 his followers, and by a song that is sung on the day of his passing. From these his life can be pieced together. <!-- F2 -->
 
 He was born in Orissa into a brahmana family. His father was named Murari Pandita; his mother's name has not come
-down to us, nor have the years of his life or the day of his appearance. His name before he came to the Lord was
-Makaradhvaja Pandita. <!-- F1 F3 -->
+down to us, nor have the years of his life or the day of his appearance. His earlier name was Makaradhvaja Pandita. <!-- F1 F3 -->
 
 While still a child he came to be near Mahaprabhu in Puri and served the Lord under Govinda, His personal servant.
 From his earliest years he also lived with Vakreshvara Pandita, who cared for him and guided him. Mahaprabhu was
@@ -22,11 +21,11 @@ Tradition tells how the boy came by his second name. There lived in Puri a devot
 his tongue kept repeating it ceaselessly, of its own accord. One day Gopala saw him on his way to the latrine
 holding his tongue with his fingers, so that the Name would not sound in an unclean place. The boy began to set him
 right: the chanting of the holy name is bound by no rules of time or place; it must be repeated always, in purity
-and in impurity alike. “And if death should come upon you at just such a moment,” he asked, “how will you remember
-the Lord then?” <!-- F8 -->
+and in impurity alike. For if death should come at such a moment, how could one then attain the auspicious
+remembrance of the Lord?[^1] <!-- F8 -->
 
-Mahaprabhu heard of this and was delighted. “Gopala is doing the work of a guru,” He announced to the devotees, and
-from that day the Vaishnavas called the young Makaradhvaja Pandita Gopala Guru[^1]. Thus the Lord Himself gave him
+Mahaprabhu heard this and was delighted. He announced to the devotees that Gopala was doing the work of a guru, and
+from that day the Vaishnavas called the young Makaradhvaja Pandita Gopala Guru[^2]. Thus the Lord Himself gave him
 the name “Guru” because he taught others to chant the names of Krishna in every circumstance. And he earned that
 name by his whole life: what he taught, he himself practised — and that is the mark of a true acharya. <!-- F9 F10 F11 I3 I4 -->
 
@@ -39,7 +38,7 @@ else it could cost him his life. <!-- F12 -->
 The Vaishnavas grew anxious for the boy whom they all loved. Seeing their alarm, Mahaprabhu placed His foot on the
 boy's forehead — and in memory of this a distinctive tilaka mark is worn to this day in Gopala Guru's line. Gopala
 was still afraid, so the Lord took him onto His lap. In this way he received Abhirama's obeisance and came to no
-harm. It is said that Gopala Guru displayed extraordinary powers later in life as well. <!-- F13 -->
+harm. It is also said that Gopala Guru displayed extraordinary powers. <!-- F13 -->
 
 ## Disciple of Vakreshvara
 Gopala's guru was Vakreshvara Pandita, an intimate companion of the Lord, who in the last years of His pastimes
@@ -55,7 +54,7 @@ inner path he placed in the mouth of Raghunatha Dasa, the outer path in that of 
 current reached Krishnadasa Kaviraja, who revealed the “Chaitanya-charitamrita” and the “Govinda-lilamrita.” From
 Vakreshvara it came to Gopala Guru, who in the line of disciplic succession revealed the
 “Smarana-krama-paddhati.” Thus Svarupa's method of worship in madhura-rasa spread along two lines: from Raghunatha
-to Kaviraja, and from Vakreshvara to Gopala Guru[^2]. <!-- F19 F20 F21 -->
+to Kaviraja, and from Vakreshvara to Gopala Guru[^3]. <!-- F19 F20 F21 -->
 
 Srila Bhaktivinoda Thakura writes of him more than once in the “Jaiva-dharma” (ch. 26). In Purushottama, in the
 house of Kashi Mishra, on the very seat of Mahaprabhu, there now sits Vakreshvara's disciple Gopala Guru Gosvami,
@@ -84,7 +83,7 @@ Kashi Mishra had no children, and he bequeathed all his property to Mahaprabhu. 
 service of Radhakanta, together with His temple and gardens, to Gopala Guru and made him the first acharya of the
 Radhakanta Matha. Vakreshvara himself never sat on the gadi of that house: he remained in kirtana and dance beside
 the Lord. This took place on the shukla-dvadashi of the month of Magha, and ever since, on that day each year, the
-abhisheka of the present head of the matha is performed[^3]. <!-- F25 F26 F28 F29 -->
+abhisheka of the present head of the matha is performed[^4]. <!-- F25 F26 F28 F29 -->
 
 Since Gopala Guru's time the house of Kashi Mishra has been called the Radhakanta Matha. In Kashi Mishra's day
 Krishna alone was worshipped here; under Gopala Guru, Radha came to stand at Radhakanta's left and Lalita at His
@@ -117,8 +116,8 @@ and from there went on to the Gundicha. <!-- F37 F38 Q1 -->
 ## Writings
 His principal work is the “Smarana-krama-paddhati,” also known as the “Seva-smarana-paddhati” or simply the
 “Smarana-paddhati,” that is, “the method of remembrance” of the Lord. It consists of twenty-six chapters or topics.
-It begins with the nature of Krishna: why service to Him in Vraja is rendered in sweetness, madhurya; why in His
-humanlike pastimes He seems to feel fear, and how He differs from the jiva. Next come the manifest and unmanifest
+It begins with the nature of Krishna; then come the evidence that service to Him in Vraja is rendered in sweetness,
+madhurya, a discussion of fear and similar feelings in His humanlike pastimes, and how He differs from the jiva. Next come the manifest and unmanifest
 pastimes: parakiya, the gopis' three months of separation, Krishna's return to Vraja after the slaying of
 Dantavakra, the eternity of the pastimes in the three dhamas, the unsurpassed pastimes of the young cowherd, and
 Vrindavana as Goloka. Then raganuga-bhajana in its two forms, kama-rupa and sambandha-rupa, the qualification for
@@ -126,8 +125,9 @@ it, and service in the body of the sadhaka. After this, mantras and meditations:
 composed of sixteen names and meditation on it according to the tantras, the ten-syllable mantra as the basis of
 the Gopala-mantra, the kama-gayatri, radha-tattva and the mantra of Radha, remembrance of the guru and the order of
 remembering the line of gurus, the gaura-mantra and gaura-gayatri. And finally the service itself: to Gaurasundara
-from His waking until His rest; to Radha-Govinda in the spiritual form of a sakhi, under the guru's guidance,
-together with Lalita and the other sakhis and with Rupa-manjari; meditation on the Divine Couple, the eight sakhis
+from His waking until His rest; to Radha-Govinda in the spiritual form, the siddha-deha, at the side of one's guru
+in the form of a sakhi, together with Lalita and the other sakhis and with Rupa-manjari; meditation on the Divine
+Couple, the lotus, the eight sakhis
 and the groups, yuthas, with their mantras, remembrance of Radha-Govinda in the thousand-petalled lotus, the
 ashtakala-lila, and the order of japa. <!-- F39 F42 -->
 
@@ -140,21 +140,21 @@ honour Vakreshvara Pandita — Sri Tungavidya; I honour Sri Chaitanya, the son o
 adds that in the age of Kali she became renowned as Vakreshvara. <!-- F43 F44 Q2 Q3 -->
 
 The book closes with a verse saying that neither saffron robes, nor strict rules of diet, nor life in the forest, nor
-learned commentary, nor a vow of silence can destroy the lust born of the mind. What destroys it is even a tiny drop
-of the joy of serving the feet of Govinda, who plays on the banks of the Yamuna. <!-- F45 Q4 -->
+learned commentary, nor a vow of silence can destroy the lust born of the mind. What destroys it is even the slightest
+beginning of service to the feet of Govinda, who plays on the banks of the broad Yamuna. <!-- F45 Q4 -->
 
 At Vakreshvara's instruction Gopala Guru drew out the gaura-mantra and the order of worship of Gaura from many
-ancient sattvata-shastras and made them the treasure of the devotees. Gaurasundara is no historical figure of the
-human world: He is the beginningless, original Govinda, the cause of all causes, and therefore His name, His
+eternal sattvata-shastras and made them the treasure of the devotees. Gaurasundara is not merely a historical figure, a
+hero of this world: He is the beginningless, original Govinda, the cause of all causes, and therefore His name, His
 mantra, and the order of His worship are eternal. Those communities that oppose the gaura-mantra have only
 deprived themselves: Gopala Guru's paddhati is closed to them. <!-- F46 I5 -->
 
 The “Gaura-govindarchana-paddhati” is also his. His “Smarana-paddhati” and the “Dhyanachandra-paddhati” of his
-disciple are well known among pure Vaishnavas. Old manuscripts of both books survive, copied in the hand of Srila
+disciple are well known among pure Vaishnavas. Several old manuscripts of both books have been seen, copied in the hand of Srila
 Bhaktivinoda Thakura and Srila Bhaktisiddhanta Sarasvati and gathered in Vraja-mandala. Gopala Guru's paddhati
 itself Bhaktivinoda received from his gadi. It was kept in various ancient mathas of Vraja, and that alone shows
 how the Gaudiya Vaishnavas revered it. Since it describes the methods of bhajana, the original is not usually
-printed. <!-- F40 F41 -->
+printed, and spreading either paddhati among all is especially forbidden. <!-- F40 F41 -->
 
 Gopala Guru also composed the “Harinamartha-nirnaya,” an explanation of the meaning of the holy name. It contains
 the verse “sri-chaitanya-mukhodgirna…” with which the “Sara-sangraha,” ascribed to Srila Jiva Gosvami, opens. Linked
@@ -191,31 +191,31 @@ poet was not of his branch; nor does he anywhere name his own guru (see the arti
 Growing old, Gopala Guru handed over charge of the Radhakanta Matha and the service of Radhakanta to his disciple
 Dhyanachandra. Soon afterwards he left his body. What follows is told by tradition. Dhyanachandra, stricken with
 grief, carried his guru's body to the Svarga-dvara on the seashore, where cremations were held in Puri in those
-days. While the disciples were there, officers of a government department sealed the temple, declaring that
+days. While the disciples were there, officers of a government department barred the temple, declaring that
 authority had been passed to Dhyanachandra without the minister's sanction. <!-- F56 F57 -->
 
 Hearing this, Dhyanachandra fell weeping at the feet of his guru, whose body already lay upon the funeral pyre. The
 prayer of his beloved disciple reached Gopala Guru: he rose from the pyre, chanting the holy names in sankirtana.
 The officials took fright and gave up their claim to the matha. Gopala Guru returned to the temple, made over the
-house to his disciple by a lawful deed, and some time later departed for good[^4]. <!-- F58 F59 -->
+house to his disciple by a lawful deed, and some time later departed for good[^5]. <!-- F58 F59 -->
 
 This was on the shukla-navami of the month of Kartika (in our calendar, the month of Damodara), and on that day the
-Gaudiya Vaishnavas honour his memory[^5]. <!-- F60 -->
+Gaudiya Vaishnavas honour his memory[^6]. <!-- F60 -->
 
 A year after his passing, tradition relates, devotees returning to Vraja from the Ratha-yatra were astonished to see
 him in Vrindavana, at Vamshivata: he was sitting beneath a pakur tree chanting the holy name. When Dhyanachandra
 learned of it, he hurried to Vrindavana, fell at his feet, and begged to be allowed to stay in Vraja, though Gopala
-Guru told him to return to Puri and his duties. Even after this, it is said, devotees saw Gopala Guru in Vrindavana
-engaged in service. <!-- F61 -->
+Guru told him to return to Puri and his duties. <!-- F61 -->
 
 At last Gopala Guru said: if the separation was so unbearable, let Dhyanachandra have his image carved from neem
 wood, set it before the altar room of the temple, and serve it. So it was done, and his shri-murti is worshipped in
 the Radhakanta Matha to this day. <!-- F62 -->
 
-On the day of his passing a song about him is sung, signed with the name Narahari. The song recalls Makaradhvaja
+On the day of his passing a song about him is sung, signed with the name Narahari. The song calls him a wish-fulfilling tree for
+the devotees, recalls Makaradhvaja
 Pandita, whom the Lord named Gopala; it says that he was always intoxicated with his own songs, incomparable and
 captivating every heart; that no one was as merciful as he, that all praised him, and that he made everyone worthy
-of divine love. The poet laments that, because of his sins, he alone has been left without prema. <!-- F50 F63 F64 -->
+of divine love. The poet laments that, because of his sins, he alone has been left without prema. <!-- F50 F63 F64 F66 -->
 
 ## Manjumedhika
 Gopala Guru has always been honoured by the whole Gaudiya Vaishnava community. In calling his guru Tungavidya and
@@ -228,23 +228,27 @@ Who he is in the eternal pastimes is told by the “Guru-pranali” of his line 
 the edition of the Radhakanta Matha. Vakreshvara in his perfected form is Tungavidya. She has eight sakhis:
 Manjumedha, Sumadhura, Sumadhya, Madhurekshana, Tanumadhya, Madhusudha, Gunachuda, and Varangana. “The
 magnanimous Gopala Guru is her maidservant, her anugopi; by Chaitanya's mercy his siddha name is Manjumedhika.” Thus
-in Vraja he is the sakhi Manjumedha, the maidservant of Tungavidya[^6]. <!-- F51 F52 Q6 -->
+in Vraja he is the sakhi Manjumedha, the maidservant of Tungavidya[^7]. <!-- F51 F52 Q6 -->
 
-[^1]: Other accounts tell of the name differently. The song about Gopala Guru says that the boy was explaining a
+[^1]: So teaches the Lord Himself: “The chanting of Your names grants all perfection and is bound by no rules of
+    time or place: they may be chanted even while eating or resting” (CC, Antya 20.18; cf. “Shikshashtaka,” 2). Through
+    the boy's lips the Lord's own teaching was voiced.
+[^2]: Other accounts tell of the name differently. The song about Gopala Guru says that the boy was explaining a
     certain rule of devotion to another child, and the Lord in ecstasy told everyone, “From today I shall call Gopala
-    “guru”” — and the devotees wept with joy to see His mercy. According to a third account, the Lord lovingly called
+    ‘guru’” — and the devotees wept with joy to see His mercy. According to a third account, the Lord lovingly called
     him “guru” in jest, and so the name stayed with him.
-[^2]: According to one of the biographies, Gopala Guru was instructed in the science of rasa under the guidance of
+[^3]: According to one of the biographies, Gopala Guru was instructed in the science of rasa under the guidance of
     Svarupa Damodara and Raghunatha Dasa Gosvami and became expert in its principles; elsewhere he is even called a
     disciple of Svarupa Damodara — probably in the sense of succession, since his guru was Vakreshvara.
-[^3]: Accounts of this differ. According to one biography, after the Lord this place passed to Vakreshvara, and the
+[^4]: Accounts of this differ. According to one biography, after the Lord this place passed to Vakreshvara, and the
     Deity of Radhakanta was installed only in Gopala Guru's time; some say that Gopala Guru himself founded the
     Radhakanta Matha. According to another, he remained in Kashi Mishra's house after Vakreshvara's passing and then
     installed Radha-Kanta; yet elsewhere in that same book it is Vakreshvara himself who installs Radha-Kanta.
-[^4]: In another telling of the same tradition, the matha was closed by the king's men, and Gopala Guru, having
-    settled the matter at the temple, returned to the cremation ground.
-[^5]: The day of his passing is not marked in our calendar.
-[^6]: ⚠ According to one of the biographies, “in the opinion of some,” Gopala Guru is Tungavidya-sakhi herself. But
+[^5]: In another telling of the same tradition, the matha was closed by the king's men, and Gopala Guru, having
+    settled the matter at the temple, returned to the cremation ground; and even after that he appeared in
+    Vrindavana, where devotees saw him engaged in service.
+[^6]: The day of his passing is not marked in our calendar.
+[^7]: ⚠ According to one of the biographies, “in the opinion of some,” Gopala Guru is Tungavidya-sakhi herself. But
     both his own paddhati and the “Guru-pranali” identify Tungavidya as Vakreshvara; apparently the guru's identity
     has here been transferred to the disciple. In the “Gaura-ganoddesha-dipika” (GGD 163) Tungavidya is identified as
     Prabodhananda Sarasvati.

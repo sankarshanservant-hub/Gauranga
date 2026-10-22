@@ -99,7 +99,7 @@ B — вероятно, больше сотни).
 | @ramananda-raya (013) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhugarbha (014) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @sundarananda (015) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @gopala-guru (016) | ✓ | ✓ (PDF) | — |
+| @gopala-guru (016) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @raghunandana (017) | ✓ | ✓ (PDF) | — |
 | @rupa-gosvami (018) | ✓ (из частей) | ✓ (PDF, 65 с.) | — |
 | @sanatana-gosvami (019) | ✓ (из частей) | ✓ (PDF) | — |
