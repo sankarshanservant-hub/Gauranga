@@ -4117,6 +4117,14 @@
     "type": "companion"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "disciple"
+   },
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "companion"
    },
@@ -7466,6 +7474,10 @@
     "type": "other"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "host"
    },
@@ -7959,6 +7971,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "neighbor"
+   },
+   {
+    "from": "@gangadasa-pandita",
+    "type": "other"
    },
    {
     "from": "@madhavendra-puri",
@@ -8708,6 +8724,10 @@
    "ev-four-sampradayas"
   ],
   "related_by": [
+   {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "in-law"
@@ -10607,6 +10627,10 @@
     "type": "other"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "companion"
    },
@@ -11945,6 +11969,10 @@
    },
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gangadasa-pandita",
     "type": "other"
    },
    {
@@ -13952,6 +13980,10 @@
     "type": "companion"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -14428,6 +14460,10 @@
     "type": "other"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "co-worker"
    },
@@ -14784,6 +14820,10 @@
     "type": "companion"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -15115,6 +15155,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "friend"
+   },
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
    },
    {
     "from": "@ishvara-puri",
@@ -15984,6 +16028,10 @@
     "type": "other"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "relative"
    },
@@ -16094,6 +16142,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
    },
    {
     "from": "@jiva-gosvami",
@@ -16344,6 +16396,211 @@
    "ev-shantipura-after-natashala",
    "ev-gauda-devotees-yearly-visit",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — подобный Сандипани Муни, учителю Кришны (ЧБ Ади 8.26) и др.; происхождение — Навадвипа",
+  "card": "parshadas/cards/gangadasa-pandita.yaml",
+  "article": {
+   "ru": "parshadas/ru/gangadasa-pandita.md",
+   "en": "parshadas/en/gangadasa-pandita.md"
+  },
+  "kind": "guru",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#navadvipa",
+    "conf": "дня явления источники не называют; место — Надия (ЧБ Ади 2.98) ≠ возможное прочтение ЧЧ Ади 13.61 (Радха-деша); в календаре Шри Чайтанья Сарасват Матха даты нет",
+    "facts": [
+     "F6",
+     "F8"
+    ],
+    "note": "В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и годовые файлы 540–541, проверено 2026-10-21) нет ни явления, ни ухода Гангадаса Пандита."
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода источники не называют",
+    "facts": []
+   }
+  },
+  "identities": [
+   {
+    "in": "rama-lila",
+    "as": "Васиштха Муни, гуру Рамачандры (особое проявление; вместе с Сударшаной)",
+    "source": "ГГД 53 (наш перевод)",
+    "level": "A",
+    "variants": [
+     "B 745: «пракаша-виграха» Васиштхи — назван лишь Гангадас.",
+     "T 34: Васиштха явился в двух проявлениях — Гангадасе и Сударшане."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "подобный Сандипани Муни, учителю Кришны",
+    "source": "ЧБ Ади 8.26",
+    "level": "A",
+    "variants": [
+     "B 745, B 715, T 14: «тот самый» Сандипани.",
+     "«Гаудия-вайшнава-абхидхана» (по T 34): Васиштха вошёл в Сандипани — согласование.",
+     "ГГД 52 (наш перевод): Сандипани стал Кешавой Бхарати."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "мудрец Дурваса, любимый гопи (вместе с Джаганнатхой Ачарьей)",
+    "source": "ГГД 111 (наш перевод; у T — «199»)",
+    "level": "A",
+    "variants": [
+     "Наш перевод: «в Нидхуване»; T 34: «в Мадхуване».",
+     "Наш разбор ГГД: «ганга-даса» в ст. 111 может быть эпитетом Джаганнатхи Ачарьи."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "вечный спутник (нитья-сиддха), тайно родившийся в Надии прежде Господа; из Его старших (гуру-варга)",
+    "source": "ЧБ Ади 2.98–99",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "disciple",
+    "who": "@mahaprabhu",
+    "note": "Учитель грамматики Нимая (ЧЧ Ади 15.5); ученичество Господа — лила (⚠Б1)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Вечный спутник, «очень дорогой Чайтанье» (ЧЧ Ади 10.29); в махапракаше Господь напомнил, как в облике перевозчика спас его семью."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-mishra",
+    "note": "Отдал ему сына в учение (T 14, B 715); Гангадас хвалит его род."
+   },
+   {
+    "type": "other",
+    "who": "@nilambara-chakravarti",
+    "note": "Гангадас ставит в пример род деда Нимая по матери."
+   },
+   {
+    "type": "companion",
+    "who": "@murari-gupta",
+    "note": "Учился в его толе вместе с Нимаем (T 41, B 774)."
+   },
+   {
+    "type": "companion",
+    "who": "@mukunda-datta",
+    "note": "Соученик Нимая в его пашашале (B 808)."
+   },
+   {
+    "type": "companion",
+    "who": "@krishnananda-navadvipa",
+    "note": "Соученик Нимая (T 34; БР 12 по T)."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalakanta-navadvipa",
+    "note": "Соученик Нимая (T 34; БР 12 по T)."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-sanjaya",
+    "note": "В его чанди-мандапе Господь учил после Гаи."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "До явления Господа Адвайта возглавлял вайшнавов, в т. ч. его (B 724); обет «Слушайте, Шукламбара, Гангадас, Шриваса!» (B 1007)."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "note": "Вместе объясняли Господу, кто такие Джагай и Мадхай (ЧБ Мадхья 13.121); в группе Шривасы на Ратха-ятре."
+   },
+   {
+    "type": "companion",
+    "who": "@shuklambara",
+    "note": "Вместе названы в обете Адвайты (B 1007)."
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-acharya",
+    "note": "Среди тайно родившихся прежде Господа; в действе в его доме; по ЧЧ Шачи в Шантипур привёз Чандрашекхара, по B — Гангадас."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Нитьянанда в детском настроении заходил к нему (ЧБ Мадхья 8.25); танцор его группы на Ратха-ятре."
+   },
+   {
+    "type": "met",
+    "who": "@jagai-madhai",
+    "note": "Рассказал Господу о них; был при них за закрытыми дверями и в играх в Ганге."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Харидас с Нитьянандой бежали от Джагая и Мадхая; T считает Харидаса Тхакура членом его группы на Ратха-ятре."
+   },
+   {
+    "type": "companion",
+    "who": "@bada-haridasa",
+    "note": "B 747 — «Бада (?) Харидас» во второй группе; ЧЧ — «Харидас»."
+   },
+   {
+    "type": "companion",
+    "who": "@shriman-pandita"
+   },
+   {
+    "type": "companion",
+    "who": "@shubhananda"
+   },
+   {
+    "type": "companion",
+    "who": "@srirama-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@chand-kazi"
+   },
+   {
+    "type": "other",
+    "who": "@shridhara",
+    "note": "Плакал, видя любовь Господа к Шридхаре (ЧБ Мадхья 23.450)."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Только B: он повёл Шачи в Шантипур."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Назвал его Пратапарудре (ЧЧ Мадхья 11.85)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra"
+   },
+   {
+    "type": "other",
+    "who": "@sudarshana-pandita",
+    "note": "По ГГД 53 оба — проявления Васиштхи."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "ГГД 52: Сандипани = Кешава Бхарати (T 34)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Поклон Вриндавана Даса Гангадасу (ЧБ Мадхья 1.283–284)."
+   }
   ],
   "related_by": [
    {
@@ -17132,6 +17389,10 @@
     "type": "other"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    }
@@ -17401,6 +17662,10 @@
   "related_by": [
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gangadasa-pandita",
     "type": "other"
    },
    {
@@ -18818,6 +19083,10 @@
   "related_by": [
    {
     "from": "@gadadhara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gangadasa-pandita",
     "type": "other"
    },
    {
@@ -20687,6 +20956,10 @@
     "type": "met"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "opposed"
    },
@@ -21436,6 +21709,10 @@
     "type": "other"
    },
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -21649,6 +21926,12 @@
    "ev-pandits-recognize-vishvambhara",
    "ev-study-gangadasa",
    "ev-gaura-studies-with-advaita"
+  ],
+  "related_by": [
+   {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   }
   ]
  },
  {
@@ -22236,6 +22519,10 @@
   ],
   "related_by": [
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -22342,6 +22629,10 @@
    },
    {
     "from": "@chandrashekhara-acharya",
+    "type": "companion"
+   },
+   {
+    "from": "@gangadasa-pandita",
     "type": "companion"
    },
    {
@@ -41159,6 +41450,10 @@
   ],
   "related_by": [
    {
+    "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "other"
    },
@@ -41628,6 +41923,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
    }
   ]
  },
@@ -41805,6 +42104,10 @@
    },
    {
     "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@gangadasa-pandita",
     "type": "other"
    },
    {
@@ -43089,6 +43392,12 @@
   "events": [
    "ev-govinda-ishvara-puri-servant",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -43301,6 +43610,12 @@
   ],
   "events": [
    "ev-study-gangadasa"
+  ],
+  "related_by": [
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -43314,6 +43629,12 @@
   ],
   "events": [
    "ev-study-gangadasa"
+  ],
+  "related_by": [
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -44336,6 +44657,12 @@
   ],
   "events": [
    "ev-ratha-yatra-gundicha"
+  ],
+  "related_by": [
+   {
+    "from": "@gangadasa-pandita",
+    "type": "companion"
+   }
   ]
  },
  {

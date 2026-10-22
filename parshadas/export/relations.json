@@ -2626,6 +2626,323 @@
   ]
  },
  {
+  "from": "@gangadasa-pandita",
+  "type": "disciple",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F19",
+   "F21",
+   "F22",
+   "F24",
+   "F25",
+   "F30",
+   "F31",
+   "F32",
+   "F33"
+  ],
+  "events": [
+   "ev-study-gangadasa",
+   "ev-return-visits-gangadasa-mukunda-sanjaya",
+   "ev-gangadasa-admonishes-nimai"
+  ],
+  "note": "Учитель грамматики Нимая (ЧЧ Ади 15.5); ученичество Господа — лила (⚠Б1)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F4",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F43",
+   "F44",
+   "F46",
+   "F47",
+   "F49",
+   "F52",
+   "F53",
+   "F54",
+   "F56"
+  ],
+  "events": [
+   "ev-gangadasa-ferry-rescue",
+   "ev-jagai-madhai-deliverance",
+   "ev-nagara-kirtana-kazi",
+   "ev-ratha-yatra-gundicha"
+  ],
+  "note": "Вечный спутник, «очень дорогой Чайтанье» (ЧЧ Ади 10.29); в махапракаше Господь напомнил, как в облике перевозчика спас его семью."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F12",
+   "F30"
+  ],
+  "note": "Отдал ему сына в учение (T 14, B 715); Гангадас хвалит его род."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@nilambara-chakravarti",
+  "facts": [
+   "F30"
+  ],
+  "note": "Гангадас ставит в пример род деда Нимая по матери."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@murari-gupta",
+  "facts": [
+   "F6",
+   "F17",
+   "F18",
+   "F20"
+  ],
+  "note": "Учился в его толе вместе с Нимаем (T 41, B 774)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F20"
+  ],
+  "note": "Соученик Нимая в его пашашале (B 808)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@krishnananda-navadvipa",
+  "facts": [
+   "F17",
+   "F18",
+   "F20"
+  ],
+  "note": "Соученик Нимая (T 34; БР 12 по T)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@kamalakanta-navadvipa",
+  "facts": [
+   "F17",
+   "F18",
+   "F20"
+  ],
+  "note": "Соученик Нимая (T 34; БР 12 по T)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@mukunda-sanjaya",
+  "facts": [
+   "F28"
+  ],
+  "note": "В его чанди-мандапе Господь учил после Гаи."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F7",
+   "F34",
+   "F35",
+   "F49"
+  ],
+  "event": "ev-advaita-calls-lord",
+  "note": "До явления Господа Адвайта возглавлял вайшнавов, в т. ч. его (B 724); обет «Слушайте, Шукламбара, Гангадас, Шриваса!» (B 1007)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@srivasa",
+  "facts": [
+   "F33",
+   "F34",
+   "F35",
+   "F38",
+   "F42",
+   "F54"
+  ],
+  "note": "Вместе объясняли Господу, кто такие Джагай и Мадхай (ЧБ Мадхья 13.121); в группе Шривасы на Ратха-ятре."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@shuklambara",
+  "facts": [
+   "F35"
+  ],
+  "note": "Вместе названы в обете Адвайты (B 1007)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F6",
+   "F34",
+   "F43",
+   "F45",
+   "F49"
+  ],
+  "note": "Среди тайно родившихся прежде Господа; в действе в его доме; по ЧЧ Шачи в Шантипур привёз Чандрашекхара, по B — Гангадас."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F36",
+   "F54"
+  ],
+  "note": "Нитьянанда в детском настроении заходил к нему (ЧБ Мадхья 8.25); танцор его группы на Ратха-ятре."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "met",
+  "who": "@jagai-madhai",
+  "facts": [
+   "F42",
+   "F43",
+   "F44"
+  ],
+  "event": "ev-jagai-madhai-deliverance",
+  "note": "Рассказал Господу о них; был при них за закрытыми дверями и в играх в Ганге."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F42",
+   "F54"
+  ],
+  "note": "Харидас с Нитьянандой бежали от Джагая и Мадхая; T считает Харидаса Тхакура членом его группы на Ратха-ятре."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@bada-haridasa",
+  "facts": [
+   "F54"
+  ],
+  "note": "B 747 — «Бада (?) Харидас» во второй группе; ЧЧ — «Харидас»."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@shriman-pandita",
+  "facts": [
+   "F6",
+   "F54"
+  ]
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@shubhananda",
+  "facts": [
+   "F54"
+  ]
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "companion",
+  "who": "@srirama-pandita",
+  "facts": [
+   "F54"
+  ]
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@chand-kazi",
+  "facts": [
+   "F46"
+  ],
+  "event": "ev-nagara-kirtana-kazi"
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@shridhara",
+  "facts": [
+   "F47"
+  ],
+  "event": "ev-shridhara-kholavecha",
+  "note": "Плакал, видя любовь Господа к Шридхаре (ЧБ Мадхья 23.450)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F49"
+  ],
+  "event": "ev-shantipura-reunion",
+  "note": "Только B: он повёл Шачи в Шантипур."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F52"
+  ],
+  "event": "ev-prataparudra-watches-devotees-roof",
+  "note": "Назвал его Пратапарудре (ЧЧ Мадхья 11.85)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F52"
+  ],
+  "event": "ev-prataparudra-watches-devotees-roof"
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@sudarshana-pandita",
+  "facts": [
+   "F2"
+  ],
+  "note": "По ГГД 53 оба — проявления Васиштхи."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@keshava-bharati",
+  "facts": [
+   "F5"
+  ],
+  "note": "ГГД 52: Сандипани = Кешава Бхарати (T 34)."
+ },
+ {
+  "from": "@gangadasa-pandita",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F32"
+  ],
+  "note": "Поклон Вриндавана Даса Гангадасу (ЧБ Мадхья 1.283–284)."
+ },
+ {
   "from": "@gaurakishora-dasa-babaji",
   "type": "guru",
   "who": "@bhagavata-dasa-babaji",
