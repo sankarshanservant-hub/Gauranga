@@ -11811,7 +11811,7 @@
    {
     "type": "spouse",
     "who": "@shri-thakurani",
-    "note": "Только T и M; по ГГД — пракаша Йогамайи (Ситы). B её не называет."
+    "note": "T, M; B — лишь вне главы, по БР (гл. о Сите, B 1050); по ГГД — пракаша Йогамайи (Ситы)."
    },
    {
     "type": "in-law",
@@ -11836,7 +11836,7 @@
    {
     "type": "son",
     "who": "@balarama-mishra",
-    "note": "По T — не признавал Чайтанью."
+    "note": "По T — не признавал Чайтанью; B 972 — он и его потомки противились учению (против них — Вишванатха Чакраварти)."
    },
    {
     "type": "son",
@@ -11962,9 +11962,19 @@
     "note": "«Подветвь Адвайты»; гуру Кави Карнапуры (T)."
    },
    {
-    "type": "other",
+    "type": "disciple",
     "who": "@padmanabha-chakravarti",
-    "note": "Отец Локанатхи; «дорогой последователь Адвайты» (M)."
+    "note": "Отец Локанатхи; «дорогой последователь Адвайты» (M); B 1069–1070 — ученик (с женой)."
+   },
+   {
+    "type": "disciple",
+    "who": "@balarama-acharya-chandapur",
+    "note": "Жрец Хираньи и Говардханы, у него жил Харидас; ученик Адвайты — B 867."
+   },
+   {
+    "type": "disciple",
+    "who": "@shyamadasa-acharya",
+    "note": "Бхагаватачарья (Бада Шьямадас) — по «Према-виласе» (у B 1076–1077): побеждён в споре, получил мантру Кришны; устроил свадьбу Адвайты."
    },
    {
     "type": "other",
@@ -30078,6 +30088,12 @@
    "ev-advaita-name-digvijayi",
    "ev-advaita-marries-sita",
    "ev-advaita-departure"
+  ],
+  "related_by": [
+   {
+    "from": "@advaita",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -30536,7 +30552,7 @@
   "related_by": [
    {
     "from": "@advaita",
-    "type": "other"
+    "type": "disciple"
    }
   ]
  },
@@ -45516,6 +45532,10 @@
    "ev-haridasa-gopala-chakravarti"
   ],
   "related_by": [
+   {
+    "from": "@advaita",
+    "type": "disciple"
+   },
    {
     "from": "@raghunatha-dasa",
     "type": "other"
