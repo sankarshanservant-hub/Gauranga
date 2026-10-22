@@ -22,14 +22,14 @@ dear to Svarupa Damodara. <!-- F2 Q1 -->
 Raghunatha Dasa is one of the six Gosvamis of Vrindavana. Srila Bhaktisiddhanta Sarasvati, tracing the line of
 instruction (shiksha-parampara), leads it from Mahaprabhu to Svarupa Damodara, from him to Rupa and Sanatana, beside
 whom stand Raghunatha Dasa, Raghunatha Bhatta and Gopala Bhatta, and onward to Jiva and Krishnadasa Kaviraja.
-Bhaktisiddhanta calls Jiva and Raghunatha Dasa the original gurus of all the Rupanugas; Rupa and Raghunatha Dasa are as
-one being in two bodies, and Rupa's two best servants are he and Jiva. Among the three great acharyas of Vrindavana,
+Bhaktisiddhanta calls Jiva and Raghunatha Dasa the original gurus of all the Rupanugas. The “Sadhana-dipika” calls
+Raghunatha Rupa's “second body,” without equal, and Rupa's two best servants are said to be he and Jiva. Among the three great acharyas of Vrindavana,
 Sanatana is called the acharya of sambandha, Rupa the acharya of abhidheya, and Raghunatha Dasa the acharya of
 prayojana, the highest goal — and that goal, for him, was the feet of Sri Rupa.[^1] <!-- F132 F136 F129 -->
 
 His life is known to everyone who has read the “Chaitanya-charitamrita”: Krishnadasa Kaviraja devoted almost a whole
 chapter to it (Antya 6). Gaudiya Vaishnavas have retold it again and again in their journals — the “Sajjana-toshani,”
-the “Gaudiya,” the “Nadiya-prakasha” — and in a separate booklet, “Gosvami Sri Raghunatha Dasa.” <!-- F14 -->
+the “Gaudiya,” the “Nadiya-prakasha” — in the “Anubhashya” and in a separate booklet, “Gosvami Sri Raghunatha Dasa.” <!-- F14 -->
 
 ## Years of His Life
 Srila Bhaktivinoda Thakura printed in the second volume of the “Sajjana-toshani” an article, “Determining the Years of
@@ -134,20 +134,23 @@ but he cannot undo the results of past deeds. Sri Chaitanya has lavished His cau
 a madman gone mad for lotus-eyed Chaitanya?’” (CC, Antya 6.39–41) <!-- F94 Q31 -->
 
 ## Panihati: The Chida-dadhi Festival
-Learning that Nityananda Prabhu was in Panihati, Raghunatha went there. Nityananda was sitting under a tree on the bank
-of the Ganga amid His companions; Raghunatha fell flat from afar, and Nityananda, learning who it was, called him over,
-placed His feet on his head and announced the “punishment”:
+Learning that Nityananda Prabhu was in Panihati, Raghunatha went there with his father's permission. Nityananda was
+sitting under a tree on the bank of the Ganga amid His companions; Raghunatha fell flat from afar, and Nityananda,
+learning who it was, called him over, placed His feet on his head and announced to him a mercy in the guise of
+“punishment”:
 
 “‘You do not come close, but keep your distance like a thief. But I have caught you and shall punish you today. I want
 you to feed all My companions yogurt and flat rice.’ Hearing these words, Raghunatha became inexpressibly happy.” (CC,
 Antya 6.50–51) <!-- F95 Q26 -->
 
 So began the festival that to this day is called the “Panihati chida-dadhi mahotsava” — the great festival of flat rice
-and yogurt. Raghava Pandita brought his own foods; Gadadhara Dasa, Kamalakara Pippalai and many other devotees came,
-brahmanas and countless people. Nityananda and Mahaprabhu, who Himself came there, ate together on the bank of the
-Ganga, like the cowherd boys on the bank of the Yamuna. The remnants of Mahaprabhu's and Nityananda's meal Raghava gave
+and yogurt. Raghava Pandita brought his own foods; Gadadhara Dasa, Sundarananda, Jagadisha, Mahesha, Kamalakara Pippalai
+and many other devotees came, brahmanas and countless people. By the power of meditation Nityananda brought Gaurasundara
+there, and Mahaprabhu Himself came to accept Raghunatha's festival — unseen: only a few of the most fortunate
+Vaishnavas could see Him (CC, Antya 6.82). Nityananda and He ate together on the bank of the Ganga, like the cowherd
+boys on the bank of the Yamuna. The remnants of Mahaprabhu's and Nityananda's meal Raghava gave
 to Raghunatha. (The festival is described in detail in the article on Nityananda.) By our calendar the Panihati festival
-is celebrated on Gaura-trayodashi of the month of Trivikrama. <!-- F95 F96 -->
+is celebrated on Gaura-trayodashi of the month of Trivikrama. <!-- F95 F96 F97 -->
 
 The next morning Raghunatha asked through Raghava how he might gain his freedom. Nityananda again placed His feet on his
 head and said:
@@ -229,7 +232,7 @@ clothes. Treat everyone with respect, but expect no respect from others for your
 all the time, and in your mind worship the divine couple Sri Sri Radha-Krishna in Vrindavana.” (CC, Antya 6.236–237)
 
 So the young man who had given up wealth like Indra's and a beautiful wife, against the efforts and pleas of his
-parents, came to Nilachala by the mercy of Nityananda. Becoming “Svarupa's Raghu” — the ward of Svarupa, Mahaprabhu's
+parents, who were devoted to their own dharma, came to Nilachala by the mercy of Nityananda. Becoming “Svarupa's Raghu” — the ward of Svarupa, Mahaprabhu's
 second self — he attained intimate service to Gaurasundara, in whose form Radha and Madhava are united. How Svarupa
 guided him is told more fully in the article on Svarupa Damodara. <!-- F103 Q30 F15 -->
 
@@ -318,7 +321,7 @@ in this book, which I dedicate to all the devotees.” (CC, Madhya 2.84)
 pastimes seem incredible, I believe in them with all my heart.” (CC, Antya 14.83)
 
 “I personally heard from the lips of Sri Raghunatha Dasa Gosvami what Svarupa Damodara Gosvami told of the wonderful
-pastimes of Sri Chaitanya.” (CC, Antya 3.267–268) <!-- Q7 F28 -->
+pastimes of Sri Chaitanya.” (CC, Antya 3.267) <!-- Q7 F28 -->
 
 It is clear, too, that Kaviraja unfolded his book from the verses of Raghunatha's two hymns to the Lord, the
 “Shachisunu-ashtaka” and the “Gauranga-stava-kalpataru”; in the “Chaitanya-charitamrita” he himself refers to the
