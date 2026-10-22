@@ -947,7 +947,8 @@ How Rupa revealed the service of Govinda is told in the “Bhakti-ratnakara” (
 the “Sadhana-dipika” of Radhakrishna Gosvami, a disciple of Haridasa Pandita Gosvami, who lived in Vraja-mandala.[^42]
 Krishnadasa Kaviraja calls Haridasa Pandita the superintendent of Govinda's service (CC, Adi 8.54). Pandita Banamali Lala
 Gosvami of the Radha-ramana-ghera in Vrindavana spoke in 1940 of a “Sadhana-dipika” by Narayana Bhatta, but the
-“Sadhana-dipika” quoted in the “Bhakti-ratnakara” is the work of Radhakrishna Gosvami. This book beautifully glorifies
+“Sadhana-dipika” quoted in the “Bhakti-ratnakara” is the work of Radhakrishna Gosvami. This book (the verses from it
+given below are quoted by the “Bhakti-ratnakara” elsewhere, in the 6th taranga) beautifully glorifies
 following Rupa: “With those who stand outside the siddhanta of Rupa, the ocean of mercy, travellers on the path of raga
 should not converse about prema-rasa. I bow to the feet of Rupa, by whose mercy even an ignorant person grasps his
 teaching.” And again: “Tongue, always utter the name ‘Rupa’! Mind, remember Rupa, the embodiment of compassion! Head, bow
@@ -967,7 +968,8 @@ Baladeva, beheld within the Yoga-pitha the face of Govinda, who enchants million
 Govinda was originally worshipped by Krishna's great-grandson Vajranabha.[^45] <!-- F227 F228 F229 F230 F231 -->
 
 Rupa informed Gaurasundara in Nilachala by letter, and the Lord, greatly pleased, told “the strong” Kashishvara to go to
-Vrindavana to help Rupa and Sanatana; Kashishvara did not want to leave the Lord. Then the Lord brought the Deity of
+Vrindavana to help Rupa and Sanatana; Kashishvara did not want to leave the Lord. Then, understanding that Kashishvara's heart was pained by separation from
+Him, the Lord brought the Deity of
 Krishna that stood beside Jagannatha and said, “Know that He is non-different from Me.” The Deity and Mahaprabhu took food
 together, and Kashishvara, bowing down, carried the Deity of Sri Sri Gaura-Govinda to Vrindavana: this is Mahaprabhu
 standing beside Govinda. The “Sadhana-dipika” prays: “May Gaura-Govinda be merciful to me, whose feet by their radiance
@@ -1005,7 +1007,7 @@ whose life was in Govinda alone:
 “Later he instructed his disciples to erect a temple for Lord Govinda. He personally made many different ornaments for the
 Deity of Govinda, such as a flute and earrings in the shape of the mythical sea creature.” (CC, Antya 13.131)
 
-The CC names neither this disciple of Raghunatha Bhatta nor the builder of the temple. <!-- F247 F248 Q55 -->
+The CC names neither the disciple of Raghunatha Bhatta to whom he entrusted this nor the builder of the temple. <!-- F247 F248 Q55 -->
 
 Aurangzeb, it is said, destroyed the main temple and its five upper towers. Tradition relates that the badshah from his
 distant palace in Agra saw every day a bright light on the summit of Govinda's temple and out of envy could not bear that
@@ -2264,7 +2266,11 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
 [^41]: One biography calls Gopinatha the Deity of Raghunatha Dasa; usually, however, the Gopinatha of Vrindavana is
     associated with Madhu Pandita. This is apparently a transfer to the Deity of Srila Bhaktisiddhanta's scheme, in which
     Raghunatha Dasa is the acharya of prayojana (see below).
-[^42]: One biography gives the account as “Bhakti-ratnakara” 2.404–437.
+[^42]: One biography gives the account as “Bhakti-ratnakara” 2.404–437. Both references are correct: Narahari's own
+    account of Govinda is 2.404–421 and 433–437, the verses of the “Sadhana-dipika” are 2.422–432 (Govinda), 444–445
+    (Kashishvara) and 451–453 (Vrinda-devi). But that biography places the reference after the information about the hut
+    and the temple built by a disciple of Raghunatha Bhatta, which is not in “Bhakti-ratnakara” 2.404–437 (it is CC, Antya
+    13.131; see below).
 [^43]: According to one biography, this Vrajavasi — a divine person in the form of a handsome resident of Vraja — did not
     lead Rupa to the hill but consoled him: “Do not worry: Govinda is on the hill of Goma-tila, the Yoga-pitha of Vrindavana;
     every morning a cow comes there and gladly gives Him milk,” and vanished.
