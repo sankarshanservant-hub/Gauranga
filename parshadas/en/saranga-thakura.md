@@ -41,7 +41,7 @@ disciples, fearing that they would distract him from his service. <!-- F11 -->
 
 But Mahaprabhu had other plans for him. Sri Gaurasundara urged Saranga again and again to accept disciples, conveying
 His will to him more than once. According to the “Gaudiya-vaishnava-abhidhana,” the Lord once met him on a street in
-Navadvipa — in the days when He was rebuking Devananda Pandita for his offence against Shrivasa — and told him plainly
+Navadvipa — in the days when He was rebuking Devananda Pandita for his offence against Srivasa — and told him plainly
 to give up his vow.[^2] <!-- F12 F13 -->
 
 ## Thakura Murari
@@ -53,11 +53,11 @@ The next morning, as Saranga was bathing in the Ganga, the current carried a dea
 touched it. It was a youth who had died of snakebite. Following the custom of the time, his parents had not cremated
 the body but had laid it on a raft and set it adrift on the Ganga — so the “Abhidhana” tells. <!-- F14 F15 -->
 
-According to tradition, by the Lord’s mercy Saranga brought the dead youth back to life. He asked: “Who are you? What
+Saranga took hold of the body and, as tradition tells, brought the dead youth back to life by the power with which the Lord had endowed him. He asked: “Who are you? What
 is your lineage (gotra)?” Slowly coming to himself, the youth saw a great soul before him and bowed at his feet. Naming
 his caste and family, he said: “My name is Murari. Be merciful to me!” Thus Saranga kept the word he had given the
 Lord: he accepted the youth and gave him mantra-diksha. This disciple became renowned as Sri Thakura Murari.
-<!-- F14 F16 -->
+<!-- F14 F16 F32 -->
 
 From then on the disciple’s name was joined to the teacher’s: Saranga came to be called Sharnga (Saranga) Murari, and
 he is called so to this day.[^3] <!-- F1 F17 -->
@@ -66,7 +66,7 @@ A few days later Saranga taught his new disciple to serve his Deities, Sri Sri R
 Thakura Murari, generation after generation, now live in the village of Shar.[^4] <!-- F18 F19 -->
 
 Saranga Thakura himself, according to the “Abhidhana,” became an empowered preacher of Mahaprabhu’s dharma. Here lies
-the whole meaning of his life: he who sought solitude so that nothing might disturb his remembrance and chanting of the
+the chief lesson of his life: he who sought solitude so that nothing might disturb his remembrance and chanting of the
 holy name became, by Mahaprabhu’s will, one who carried that name to others. The power gained in the stillness of the
 Ganga’s bank was offered in the Lord’s service. <!-- F20 I1 -->
 
@@ -74,7 +74,7 @@ Ganga’s bank was offered in the Lord’s service. <!-- F20 I1 -->
 The worship of the Deities of Radha-Gopinatha whom Saranga Thakura served continues at Mamgachhi to this day.[^5]
 <!-- F21 -->
 
-The old temple stands beside a very ancient bakula tree; according to tradition, it has grown here since the time of
+The old temple was built beside a very ancient bakula tree; according to tradition, it has grown here since the time of
 Saranga Thakura himself. Some years ago a new temple building for the Deities of Sri Sharnga Murari was raised in front
 of the bakula tree; the temple is now in the care of the Gaudiya Math. <!-- F22 F23 -->
 
