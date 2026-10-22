@@ -453,7 +453,10 @@ wholly to Gaura-Nitai and Radha-Govinda. <!-- I2 I3 F16 F3 F4 -->
     chronicle of the “Gaudiya” is our own comparison.
 [^7]: This is a childhood play of the Lord: little Gaura, Himself the Supreme Personality of Godhead, in jest reveals to
     the girls that the true object of worship is He Himself; Shiva is His greatest devotee, and there is no disrespect to
-    Shiva in it. Babaji recalls it as a reminder that worship in Navadvipa must lead to Gaura.
+    Shiva in it. Babaji recalls it as a reminder that worship in Navadvipa must lead to Gaura. In the text the words are
+    given in paraphrase; literally the account reads: “Instead of worshipping Shiva, won’t you worship my ‘this one’?” —
+    with a gesture of the naked little boy. It is a child’s mischievous joke with no mundane sense in it: the Lord, having
+    appeared as a child, claims worship for Himself.
 [^8]: The same words have also been preserved as an answer to the question how to know the mercy of Krishna or of the
     Vaishnavas; there they speak of offence to the feet of the “Vaishnava-thakura”.
 [^9]: In another retelling of this line deer are named instead of elephants.
