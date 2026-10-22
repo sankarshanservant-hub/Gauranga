@@ -504,8 +504,8 @@ Vidyanidhi, in the six Gosvamis and Lokanatha, in Srila Bhaktisiddhanta and Sril
 renunciation of Bhaktivinoda, Gaurakishora and Sarasvati — for Krishna's happiness — is seen only by one who has "the
 eyes of bhakti." His words "Goloka shines in the home" were fulfilled in his own bhajana; but this is seen only by
 those whose "fleshly," distorted vision has been removed. There is a song of the Thakura's, "tyajiya shayana-sukha
-vichitra palanka…" — about giving up repose on a decorated bedstead; on hearing it, Srila Gaurakishora remarked: "You
-only sing…" <!-- F196 F197 F195 I2 F143 -->
+vichitra palanka…" — about giving up repose on a decorated bedstead; on hearing it sung, Srila Vamshidasa Babaji
+remarked: "You only sing…" <!-- F196 F197 F195 I2 F143 -->
 
 Srila Bhaktisiddhanta recalled: by past pious merit he had obtained Bhaktivinoda, who wished him nothing but good; "my
 Prabhu" often visited his father and sometimes stayed with him. Once, to teach a lesson to a would-be renunciant,
