@@ -104,7 +104,7 @@ B — вероятно, больше сотни).
 | @rupa-gosvami (018) | ✓ (из частей) | ✓ (PDF, 67 с.) | ✓ сплошная |
 | @sanatana-gosvami (019) | ✓ (из частей) | ✓ (PDF, 61 с.) | ✓ сплошная |
 | @raghunatha-bhatta (020) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @jiva-gosvami (021) | ✓ (из частей) | ✓ (PDF) | — |
+| @jiva-gosvami (021) | ✓ (из частей) | ✓ (PDF, 49 с.) | ✓ сплошная |
 | @gopala-bhatta (022) | ✓ | ✓ (PDF) | — |
 | @raghunatha-dasa (023) | ✓ | ✓ (PDF) | — |
 | @srinivasa-acharya (024) | ✓ | ✓ (PDF) | — |
