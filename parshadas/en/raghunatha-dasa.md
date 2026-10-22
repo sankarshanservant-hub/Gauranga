@@ -718,7 +718,10 @@ to a line carved in stone. <!-- I9 -->
 [^4]: According to another biography, Nilambara called them “bhaiya,” “younger brothers,” and they called him “dada,”
     “elder brother.”
 [^5]: According to one of the biographies, Raghunatha spent five or six days with Advaita.
-[^6]: According to the three old records mentioned above, Raghunatha lived nineteen years at home, eight in Nilachala
-    and forty-nine in Vraja, at Radha-kunda.
+[^6]: So says the “Charitamrita”: “For sixteen years he rendered intimate service to Sri Chaitanya, and after the
+    departure of Mahaprabhu and Svarupa Damodara he went to Vrindavana” (CC, Adi 10.93). According to the three old
+    records mentioned above, Raghunatha lived nineteen years at home, eight in Nilachala and forty-nine in Vraja, at
+    Radha-kunda; but Srila Bhaktivinoda, publishing one of these records, himself noted that some of its years are
+    doubtful. We follow the “Charitamrita”.
 [^7]: According to local tradition, Kaviraja received initiation from Nityananda.
 [^8]: One of the biographies speaks now of eleven, now of twelve verses (counting the last, the verse of fruit).
