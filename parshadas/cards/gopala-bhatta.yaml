@@ -32,11 +32,11 @@ origin:
 relations:
   - {type: father, who: "@venkata-bhatta", facts: [F6, F10, F12, F16, F17, F19, F25, F98], events: [ev-srirangam-chaturmasya]}
   - {type: uncle, who: "@trimalla-bhatta", facts: [F12, F13, F15, F70, F96, F97, F98], note: "У Мурари — отец (F97); у Нарахари — дом Трималлы и Венкаты."}
-  - {type: guru, who: "@prabodhananda-sarasvati", facts: [F12, F13, F15, F23, F25, F101, F102, F104], note: "Дядя по отцу; учитель шастр (B, M) и дикша-гуру (T по ХБВ 1.2; B 485, 767); B 607 — «шикша-ученик»."}
+  - {type: guru, who: "@prabodhananda-sarasvati", facts: [F12, F13, F15, F23, F25, F101, F102, F104, F107], note: "Дядя по отцу; учитель шастр (B, M) и дикша-гуру (T по ХБВ 1.2; B 485, 767); B 607 — «шикша-ученик»."}
   - {type: companion, who: "@mahaprabhu", facts: [F7, F10, F11, F16, F19, F20, F21, F22, F25, F26, F29, F30, F70], events: [ev-srirangam-chaturmasya, ev-gopala-bhatta-dream-vision, ev-lord-sends-seat-gopala-bhatta], note: "Мальчиком служил Ему в доме отца четыре месяца; обещание Вриндавана; письмо и дары (дор, каупина, бахирвас; по T — и сиденье) из Нилачалы."}
   - {type: friend, who: "@rupa-gosvami", facts: [F28, F29, F31, F47, F71, F79, F80, F91], events: [ev-gopala-bhatta-comes-vrindavana, ev-gopala-mathura-vitthaleshvara, ev-radha-ramana-appearance], note: "Рупа поручил ему служение Радха-раману (T); в свите Рупы назван первым (ЧЧ Мадхья 18.49)."}
   - {type: friend, who: "@sanatana-gosvami", facts: [F28, F29, F32, F57, F71, F74, F80], events: [ev-hari-bhakti-vilasa], note: "«Хари-бхакти-виласа»: составил Санатана под его именем / вместе с ним (M) / отредактирована им (Бхактисиддханта)."}
-  - {type: companion, who: "@raghunatha-dasa", facts: [F61, F74, F76, F104], note: "Два помощника Санатаны («Вайшнава-тошани» 13); ХБВ 1.2 — на радость Рагхунатхе Дасу."}
+  - {type: companion, who: "@raghunatha-dasa", facts: [F61, F74, F76, F104, F108], note: "Два помощника Санатаны («Вайшнава-тошани» 13); ХБВ 1.2 — на радость Рагхунатхе Дасу."}
   - {type: companion, who: "@raghunatha-bhatta", facts: [F1, F62, F76, F88]}
   - {type: companion, who: "@jiva-gosvami", facts: [F54, F55, F58, F59, F61, F72, F75, F80, F88], events: [ev-srinivasa-arrives-vrindavana, ev-books-mission-decision], note: "Джива упорядочил его «кадачу» в «Шат-сандарбху»; по его желанию послал Шринивасу в Гауду."}
   - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F1, F65, F100], event: ev-lokanatha-forbids-mention, note: "Один из шести шикша-гуру Кавираджа; позволил писать ЧЧ, но запретил писать о себе; «Става-панчака» приписывается Кавираджу."}
@@ -96,13 +96,13 @@ events_note: "По T/M/B: Шрирангам (мальчик служит Гос
 teachings_given: []
 teachings_received: []
 works:
-  - {title: "«Хари-бхакти-виласа» (под его именем; составил Санатана / вместе с ним / отредактирована им)", facts: [F32, F33, F34, F35, F36]}
+  - {title: "«Хари-бхакти-виласа» (под его именем; составил Санатана / вместе с ним / отредактирована им)", facts: [F32, F33, F34, F35, F36, F106]}
   - {title: "«кадача» (карики) — основа «Шат-сандарбхи» Дживы", facts: [F80]}
   - {title: "«Сат-крия-сара-дипика» с «Самскара-дипикой»", facts: [F81, F82, F83, F84, F85, F86, F87, F88, F89, F90]}
   - {title: "стих 38 «Падьявали»; песни на браджабхаше (приписываются)", facts: [F38, F39, F40]}
   - {title: "комментарий к «Кришна-карнамрите» (БР, T, M; B: «Кришна-валлабха» — тёзки)", facts: [F92, F93, F95]}
 places: ["#ranga-kshetra", "#kaveri", "#vrindavana", "#deoband", "#gandaki", "#mathura", "#puri", "#radha-kunda", "#govardhana", "#varshana", "#nandagrama", "#javat", "#gokula", "#sanketa"]
-places_facts: [F6, F9, F10, F23, F28, F41, F42, F43, F70, F79, F87]
+places_facts: [F6, F9, F10, F23, F28, F41, F42, F43, F70, F79, F87, F108]
 character:
   - {trait: "с детства — служение Господу в доме отца и жажда снова быть у Его стоп", facts: [F16, F19, F20, F21], events: [ev-srirangam-chaturmasya]}
   - {trait: "великая учёность (у дяди Прабодхананды), победы над майявадой", facts: [F23]}
