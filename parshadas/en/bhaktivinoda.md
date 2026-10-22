@@ -239,12 +239,17 @@ In 1885 he founded in Calcutta the "Chaitanya-yantra" press, and in the "Bhakti 
 Gosvami-sangha, for the four-hundredth anniversary of Mahaprabhu's appearance, conferred on him the title
 "Bhaktivinoda"[^12]. <!-- F79 F148 F44 -->
 
-In 1886 he helped found the "Vishva-vaishnava-raja-sabha" — the "royal assembly of the Vaishnavas of the whole world"
-— in the Durga-mandapa of Rama Gopala Basu in Krishna-Singher Gali off Bethune Road, and lectured there on the
-"Chaitanya-charitamrita" and the "Bhakti-rasamrita-sindhu." This sabha, tradition says, was first founded by Srila Jiva
-Gosvami eleven years after Mahaprabhu's departure; Bhaktivinoda gave it new life, and Srila Bhaktisiddhanta revived it
-in 1919 (of which more below). In those years Bhaktivinoda also met the famous Ramakrishna Paramahamsa, refuted his
-impersonalism and explained to him the truth of pure bhakti. <!-- F80 F81 -->
+In 1885, 399 years after Mahaprabhu's appearance, he founded in the house of Rama Gopala Basu, in its Durga-mandapa in
+Krishna-Singher Gali off Bethune Road, the "Vishva-vaishnava-sabha" — the "World Society of Vaishnavas"; it is also
+called the "Vishva-vaishnava-raja-sabha," the "royal assembly of the Vaishnavas of the whole world"[^sabha]. Among its
+members were Madana Gopala Gosvami, Nilakantha Gosvami, Bipin Bihari Gosvami, Radhikanatha Gosvami and Shishir Kumar
+Ghosh. The Thakura lectured there on the "Chaitanya-charitamrita" and the "Bhakti-rasamrita-sindhu," and every Sunday
+his son went with him to the meetings and carried his father's "Bhakti-rasamrita-sindhu" for him. A year later, in
+1886, the society celebrated the four-hundredth anniversary of Mahaprabhu's appearance. This sabha, tradition says,
+was first founded by Srila Jiva Gosvami eleven years after Mahaprabhu's departure; Bhaktivinoda gave it new life, and
+Srila Bhaktisiddhanta revived it in 1919 (of which more below). In those years Bhaktivinoda also met the famous
+Ramakrishna Paramahamsa, refuted his impersonalism and explained to him the truth of pure bhakti.
+<!-- F200 F80 F81 -->
 
 ## The mentor
 Srila Jagannatha Dasa Babaji, the "general of the Vaishnavas," Srila Bhaktivinoda honoured as his mentor. In his song on
@@ -289,10 +294,14 @@ Butler. <!-- F90 F91 -->
 
 On 9 March 1892, at Amlajora, in the presence of Jagannatha Dasa Babaji, he observed Hari-vasara — ekadashi; all night
 long there was kirtana and talk of Krishna. A "Prapanna-ashrama" was being established there — a place for hearing
-hari-katha and singing kirtana. The Babaji, then over a hundred and fifty years old, led a great nagara-sankirtana,
-danced, and for a long time lost external consciousness, while the Thakura in his hari-katha spoke of how necessary such
-abodes are and declared the ashrama open; the Babaji rejoiced at his zeal in preaching the name[^14].
-<!-- F92 F175 F167 -->
+hari-katha and singing kirtana. The Thakura himself wrote of that day in the "Sajjana-toshani": after the ekadashi vigil, at eight in the
+morning, the whole village came out for nagara-sankirtana and moved towards the Prapanna-ashrama; at its head went the
+Babaji, who was over a hundred years old[^age]. He danced "like a lion" and sang: "What a name Nitai has brought! He has
+brought it to the market of the Name and gives it for faith" ("nitai ki nama enechhe re…"); he wept and fell in
+ecstasy, and all shed tears, all trembled, and, scarcely able to sing, all danced. In his dance the Babaji rose up in
+rapture, watered the ground with his tears, and for a long time lost external consciousness. The Thakura in his
+hari-katha spoke of how necessary such abodes are, and the Babaji declared the ashrama open; he rejoiced at the
+Thakura's zeal in preaching the name[^14]. <!-- F92 F201 Q16 F175 F167 -->
 
 From Amlajora Bhaktivinoda went via Buxar and Prayag to Vrindavana, and from 21 to 29 March went round Vraja:
 Bilvavana, Bhandiravana, Mathavana, Man-sarovara, Mathura, Gokula, Madhuvana, Talavana, Kumudavana, Bahulavana,
@@ -302,8 +311,8 @@ sang sankirtana in Godruma, and then in Mayapur. <!-- F92 F93 F134 -->
 
 In the month of Magha 1299 of the Bengali era (February 1893) the Babaji came from Kulia to Godruma, to Surabhi-kunja:
 with his companions he crossed the Ganga, and the whole neighbourhood resounded with kirtana. On Wednesday, 27 Magha,
-Bhaktivinoda held a kirtana festival, and the Babaji was its guest of honour. The Babaji visited the Thakura both in
-Godruma and in Calcutta. <!-- F93 F134 F176 -->
+Bhaktivinoda held a kirtana festival, and the Babaji was its guest of honour. From then on the Thakura often came to the Babaji, and the Babaji
+visited the Thakura both in Godruma and in Calcutta. <!-- F93 F134 F176 -->
 
 And on Thursday, 20 Phalguna of the same year (March 1893)[^15], the Thakura came to the Babaji in the morning with
 kirtana, and at eleven o'clock the devotees crossed with him to Mayapur in three boats. The Babaji was carried in a
@@ -697,10 +706,17 @@ pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
 [^11]: In another account his son received harinama and the Nrisimha-mantra in Serampore, when his father, returning
     from Puri, gave him a tulasi-mala of Jagannatha.
 [^12]: The biography dates this to 1885 and links it with the four-hundredth anniversary of Mahaprabhu's appearance;
-    but the Lord appeared in 1486, and the four-hundredth anniversary falls in 1886.
+    but the Lord appeared in 1486, and the four-hundredth anniversary falls in 1886. So too elsewhere in the same book:
+    the World Society of Vaishnavas was founded in 1885, and a year later it celebrated the four-hundredth anniversary.
+[^sabha]: Elsewhere the same biography says that he helped found the "Vishva-vaishnava-raja-sabha" in the
+    Durga-mandapa of Rama Gopala Basu in 1886. As the first founders of the sabha tradition names either Srila Jiva
+    Gosvami (so the newspaper "Amrita Bazar Patrika" wrote in 1919) or Sri Rupa and Sri Sanatana; Srila Bhaktisiddhanta
+    set out its history in the "Sajjana-toshani."
 [^13]: In another account the Babaji told Bhaktivinoda to build a hut for devotees beside his bhajana-kutira, and he
     built it.
 [^14]: The biographies give the year of this meeting differently: 9 March 1892, 1892 without a date, and 1891.
+[^age]: So Bhaktivinoda himself writes; according to one of the biographies, the Babaji was then over a hundred and
+    fifty years old.
 [^15]: 20 Phalguna 1299 of the Bengali era corresponds to March 1893; one of the biographies gives the year 1892 with
     this date.
 [^16]: One of the biographies calls this day a Friday; by the calendar 21 March 1894 was a Wednesday.
