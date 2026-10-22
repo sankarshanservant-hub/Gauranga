@@ -44,7 +44,7 @@ the purusha-avataras, and what His form as a devotee in the Pancha-tattva means,
 His names are past counting. Vrindavana Dasa, “the Vyasa of Sri Chaitanya's lilas,” calls Him Nityananda Avadhuta,
 Nityananda-chandra, Nityananda-rama and Nityananda-raya, Nityananda-svarupa and Nityananda-svarupa-gosani, Nityananda
 Bhagavan and Nityananda Mahaprabhu, Prabhuvara, Mahavira, Mahabali, Mahamati, Mahashaya, Mahamaheshvara,
-Nityananda-simha, Nityananda-mahamalla and Mahamalla-raya, Nitai-chand, Nitai Thakura, Ishvara Nitai, Gaureshvara; to
+Nityananda-simha, Nityananda-mahamalla and Mahamalla-raya, Nitai-chand, Nitai Thakura, Ishvara Nitai, Vishvambhara and Gaudeshvara, “the lord of Gauda”; to
 him He is Avadhuta-chandra, Avadhutavara, Avadhutamani, Avadhuta-mahabala, Avadhuta-mahashaya, Avadhuta-raya and
 Avadhuta-simha, “the abode of Sri Chaitanya's great love,” “the father of sankirtana,” “the guardian of the dharma of
 the age,” “the delight of the world,” “the one most dear to Sri Chaitanya,” “the beloved form of Chaitanya-chandra”[^1].
@@ -54,7 +54,7 @@ blessing come from the very names with which Vrindavana Dasa glorified Him, for 
 reveals the glory of Sri Chaitanya. <!-- F1 F2 F3 F4 -->
 
 Most often He is called an avadhuta. Srila Bhaktisiddhanta Sarasvati, following Shridhara Svami (on the “Bhagavatam”
-3.1.19), explains the word thus: one who takes no care of the body (Anubhashya on CC, Adi 5.161) — who has cast off
+3.1.19), explains the word thus: one who takes no care of the body (Anubhashya on CC, Adi 5.161); an avadhuta has cast off
 worldly feelings and duties and is bound by no conventions, not even the rules of varnashrama. Nityananda lives in the
 world of krishna-prema, in unbroken divine ecstasy, and gives no thought to adorning the body — that is why He is the
 Avadhuta. In His wanderings, too, He went about in the guise of an avadhuta. <!-- F5 I12 -->
@@ -113,7 +113,7 @@ Hadai Ojha, and dispelled the darkness over Rarh. One of the biographies calls V
 Nityananda's “other Self.” <!-- F34 F35 F36 F37 F38 F39 F415 F416 -->
 
 With His coming every kind of good fortune arrived in Radha-desha: famine, poverty and misfortune vanished. From infancy
-He was restrained and very intelligent, endowed with every virtue and millions of times more beautiful than Cupid.
+He was restrained and very intelligent, endowed with every virtue, and His beauty eclipsed millions of Kamadevas.
 <!-- F42 F43 -->
 
 Not far from Ekachaka resides Shiva Maudeshvara (Maureshvara). Nityananda worshipped him to show an example of service to
@@ -144,8 +144,8 @@ Padmavati-devi, fell senseless. <!-- F51 F52 -->
 ## Childhood: the Lilas of Krishna, Rama and Vamana
 Concealing His divinity, the boy Nityananda played with the children not at ordinary games but at the lilas of Krishna,
 Rama and other avataras; and Krishna was always at the centre of every game. His friends never left Him and did not go
-home, playing day and night, and the parents did not complain — they loved Him with all their hearts, and He embraced
-both kin and friends. Everyone wondered — Hadai and Padmavati first of all — how the child knew Krishna's deeds and why,
+home, playing day and night, and the parents did not worry — they loved Him with all their hearts and embraced Him
+tenderly. Everyone wondered — Hadai and Padmavati first of all — how the child knew Krishna's deeds and why,
 instead of ordinary pastimes, He enacted the lilas of the incarnations of Vishnu. <!-- F53 F54 F55 -->
 
 It all began with an “assembly of the gods.” One boy played the Earth presenting the gods' petition to Vishnu; all went
@@ -190,8 +190,8 @@ And “Hanuman” set out — every word he spoke had been taught him by Nityana
 to stay — Hanuman hurried on; a “crocodile” in a pond seized his feet — and was defeated; a “rakshasa” threatened to
 swallow him — and after a fight was defeated too; the “gandharvas” on Mount Gandhamadana were also overcome, and Hanuman
 brought the mountain on his head. A boy-physician — Sushena, the monkeys' physician — held the herb vishalyakarani to
-“Lakshmana's” nose, and “Lakshmana” rose, and the parents came to themselves. Everyone laughed; Hadai Pandita took his son
-in his arms and asked, “Where did You learn this?” — and He answered, laughing, “These are all My lilas.” <!-- F69 F70 F71 -->
+“Lakshmana's” nose, and “Lakshmana” rose, and the parents came to themselves. Everyone laughed; Hadai Pandita embraced his son,
+and people asked, “Child, how do You know all this?” — and He answered, smiling, “These are all My lilas.” <!-- F69 F70 F71 -->
 
 In early childhood His body was tender and fair; no one wanted to let Him out of their arms, and people loved Him more
 than their own sons, while from infancy nothing was dear to Him but Krishna's lila. Vrindavana Dasa sees in Him the
@@ -257,8 +257,8 @@ the month of Magha He took the morning bath at Prayaga. Then He came to Mathura,
 in the Yamuna at Vishrama-ghata and in ecstasy circled Govardhana and all twelve forests of Vrindavana. In Gokula, in the
 house of Nanda Maharaja, He sat and wept with overflowing feeling and bowed down to Madana-Gopala. In Hastinapura, the abode
 of the Pandavas, He wept at the sight of the place of great devotees — the people there, who knew nothing of devotion,
-could not understand it; and seeing the glory of Balarama in Hastinapura, He bowed and cried out in ecstasy, “May
-Balarama, the bearer of the plough, save us all!” <!-- F87 F88 F89 -->
+could not understand it; and seeing the glory of Balarama in Hastinapura, He bowed and cried out, “Save Me,
+Haladhara!” <!-- F87 F88 F89 -->
 
 In Dvaraka He bathed joyfully in the sea; He was at Siddhapura, the abode of Kapila; at Matsya-tirtha, at a great festival,
 He distributed much cooked rice; at Shiva-Kanchi and Vishnu-Kanchi He laughed to see the bitter enmity of the devotees of
@@ -285,10 +285,10 @@ could answer; then, angered, He struck them on the head with His foot — the Bu
 on His way. <!-- F95 F96 F98 -->
 
 Next came Kanyakumari, where He had darshana of Durga-devi, the Southern Sea, Sri Ananta (Anantapura), the pond of the five
-apsaras (Pancha-apsara), the temple of Shiva at Gokarna; He went from door to door through Kerala and Trigarta, saw the
-venerable consort of Dvaipayana, was at the Nirvindhya, the Payasvini and the Tapti, at the Reva, in the city of
+apsaras (Pancha-apsara), the temple of Shiva at Gokarna; He went from door to door through Kerala and Trigarta, saw
+Arya-Dvaipayani — the goddess Parvati on an island near Gokarna, was at the Nirvindhya, the Payasvini and the Tapti, at the Reva, in the city of
 Mahishmati and at Malla-tirtha, and through Shurparaka went on to the west. In all His wanderings He feared nothing and no
-one; His body seemed wasted, for He was constantly absorbed in Krishna; He now laughed, now wept — who can fathom His
+one; constantly absorbed in Krishna, He had no control over His body; He now laughed, now wept — who can fathom His
 moods? <!-- F97 F100 F101 -->
 
 ## Meeting Madhavendra Puri
@@ -1588,11 +1588,11 @@ the mind and reaches Vrindavana” (“āra kabe nitāi-cānda…”); Bhaktivin
 name. Following these mahajanas, the Vaishnavas pray for a drop of love for Nityananda and proclaim His victory: without
 Nitai one cannot attain Radha-Krishna. <!-- Q68 Q69 I25 -->
 
-[^1]: One of the names in this list — “Vishvasta” (“He on whom one may rely”) — is uncertainly read in the manuscript.
+[^1]: “Vishvambhara” (“He who sustains the universe”) is usually the name of Mahaprabhu Himself; here it stands in the list of Nityananda's names. The name “Gaudeshvara” might be taken for a misprint of “Gaureshvara” (“the Lord of Gaura”), but Vrindavana Dasa calls Him so at the very beginning of the account of His appearance as well: Ekachaka is the village “where Gaudeshvara [appeared],” the Lord of the Gaudiya Vaishnavas (CB, Adi 9.5).
 [^2]: One of the biographies, speaking of Gangadasa Pandita, says that Nityananda appeared in Rarh, and Gangadasa, Murari
 and Mukunda elsewhere. The “Charitamrita” (Adi 13.61) names Radha-desha as the birthplace of all four.
-[^3]: In a short summary of the same chapter of the “Chaitanya-bhagavata” the voice proclaims otherwise: “I shall be born
-in Goloka-Mathura to lighten the burden of the Earth.”
+[^3]: In a short summary of the same chapter of the “Chaitanya-bhagavata” the voice proclaims otherwise: “Soon I shall appear
+in Mathura and Gokula to lighten the burden of the Earth.”
 [^4]: So in the text of the chapter itself; in its short summary it is Nityananda in the role of Rama Himself who crushes
 Parashurama's pride.
 [^5]: One of the biographies calls Nityananda the eldest son of Hadai and Padmavati, but gives no names of their other
@@ -1600,14 +1600,16 @@ children.
 [^6]: Only one biography tells of the sannyasi who led Nityananda away from home; the others say only that at twelve He
 set out for the holy places.
 [^7]: So in the “Chaitanya-bhagavata” (Adi 9.100–101): twelve years at home and twenty years of wandering. According to
-other biographies, He wandered “until His twentieth year” and met Mahaprabhu in Navadvipa in the twentieth year of His
-life; one short summary of the same chapter adds that it “ends with an explanation of Nityananda's renunciation,” though
-the text of the chapter itself has nothing of the kind. Yet another biography remarks in passing, as something well known,
+other biographies (and to the short summary prefixed to the chapter in the edition of the “Bhagavata”), He wandered
+“until He was twenty years old” and met Mahaprabhu in Navadvipa in the twentieth year of His life; one biography,
+retelling this summary, adds that the chapter “ends with an explanation of Nityananda's renunciation” — the summary itself
+says otherwise: at the end of the chapter it is explained why Nityananda had not yet begun preaching the holy name. Yet another biography remarks in passing, as something well known,
 that Nityananda was twelve years older than Mahaprabhu; by the periods of the “Bhagavata,” at the time of His meeting with
 the Lord after the Lord's return from Gaya Nityananda must have been over thirty.
 [^8]: The order of places here is that of the chapter's text (CB, Adi 9). One biography gives the same route as a single
-list; it lacks the Buddhist monastery, Karttikeya and the “consort of Dvaipayana,” and names Madura twice. The readings
-“Uttara-Yamuna” and “consort of Dvaipayana” (probably Dvaipayani, that is, Arya) differ between accounts.
+list; it lacks the Buddhist monastery, Karttikeya and Arya-Dvaipayani, and names Madura twice. The reading “Uttara-Yamuna”
+differs between accounts; Dvaipayani (the “island” Arya, that is, Parvati, CB, Adi 9.150) has become in one of them “the
+venerable consort of Dvaipayana.”
 [^9]: So according to the “Bhakti-ratnakara” (a holy place on the western coast) and one of the biographies; according to
 another, in South India; the “Chaitanya-bhagavata” does not name the region.
 [^10]: So according to the “Chaitanya-bhagavata.” In one retelling, on the contrary, Nityananda began to describe
