@@ -24,14 +24,15 @@ His name is woven into the very praise of the Lord: at the opening of the Madhya
 Vakreshvara Pandita appeared in this world on the krishna-panchami of the month of Ashadha. In our calendar this is
 the krishna-panchami of the month of Vamana — the Appearance Day of Srila Vakreshvara Pandita. <!-- F13 -->
 
-Nothing is known of his parents or family. His birthplace is said to be Guptipara near Triveni[^3]. Later he lived
+Nothing is known of his parents or family. His birthplace is said to be Guptipara near Triveni[^3]. Before settling in Puri he lived
 in Sridham Navadvipa and was a companion of the Lord already in the days of His Navadvipa pastimes, and afterwards
 at His sannyasa and in Puri. He was a superb singer and dancer, and when Mahaprabhu began the sankirtana, Vakreshvara
 became one of its foremost singers and dancers. <!-- F14 F15 F16 -->
 
 ## The Dancer of the Sankirtana
 Vakreshvara's dancing passed into legend. Once — in the house of Srivasa, it is said — he danced without a break for
-twenty-four praharas, that is, three days and nights. Krishnadasa Kaviraja tells what followed:
+twenty-four praharas, that is, three days and nights: not by bodily strength, but in the unbroken bliss of love for
+Krishna. Krishnadasa Kaviraja also tells how the Lord Himself sang while he danced:
 
 “Once Sri Chaitanya Himself was singing, and Vakreshvara Pandita, dancing before Him, fell at Mahaprabhu's feet and
 said: ‘O moon-faced One! Give me ten thousand gandharvas. Let them sing and I will dance, and that will give me the
@@ -39,15 +40,16 @@ greatest happiness.’ Sri Chaitanya replied: ‘You are like one of My wings; i
 sky.’” (CC, Adi 10.18–20) <!-- F17 F18 Q7 -->
 
 In Navadvipa he danced in ecstasy at the kirtanas in the houses of Srivasa and Chandrashekhara. Vrindavana Dasa names
-him among those who came to the night kirtanas at Srivasa's: “Sadashiva, Vakreshvara, Shrigarbha, Shuklambara…”
-(CB, Madhya 8.115). In the dramas the Lord staged in Srivasa's house he was one of the principal dancers, and among
-those who danced in the Lord's kirtana Vrindavana Dasa names Ramai, Raghunandana, Srivasa, Haridasa, Vakreshvara,
-Dvija Haridasa and Shankara. More about these kirtanas is told in the article on Srivasa Pandita. <!-- F19 Q14 Q21 -->
+him among those who came to the night kirtanas at Srivasa's: “…Shridhara, Sadashiva, Vakreshvara, Shrigarbha,
+Shuklambara…” (CB, Madhya 8.115). In the dramas the Lord staged in Srivasa's house he was one of the principal dancers, and a song signed
+by Vrindavana Dasa names among those who danced in the Lord's kirtana Ramai, Raghunandana, Srivasa, Haridasa,
+Vakreshvara, Dvija Haridasa and Shankara[^4]. More about these kirtanas is told in the article on Srivasa Pandita. <!-- F19 Q14 Q21 -->
 
 He was at the Lord's side in the great events of the Navadvipa pastimes. When Jagai and Madhai were brought into the
 Lord's house and the doors were shut, Vakreshvara was among the few closest companions who saw the brothers receive
-mercy. Of him and Chandrashekhara Vrindavana Dasa says: “Vakreshvara Pandita and Chandrashekhara Acharya know all the
-deeds of Chaitanya” (CB, Madhya 13.240). <!-- F20 Q13 -->
+mercy. Vrindavana Dasa names him among those who knew the Lord's pastimes: “Pundarika Vidyanidhi, Haridasa Thakura,
+Garuda, Ramai, Srinivasa, Gangadasa, Vakreshvara Pandita and Chandrashekhara Acharya were thoroughly acquainted with
+the pastimes of Lord Chaitanya” (CB, Madhya 13.239–240). <!-- F20 Q13 -->
 
 On the day the Lord led the nagara-kirtana to the Kazi's house, the procession moved in three parties: Haridasa in
 front, Advaita in the middle, and Gaurachandra Himself at the rear, with Gadadhara, Vakreshvara, Murari, Srivasa and
@@ -56,9 +58,8 @@ Gopinatha walking beside Him. Among those who danced that day Vrindavana Dasa na
 “Among them were such great devotees as Murari, Mukunda Datta, Ramai, Govinda, Vakreshvara and Vasudeva.”
 (CB, Madhya 23.209) <!-- F21 Q15 -->
 
-He also witnessed the Lord's mercy to the poor trader Shridhara. Kavi Karnapura in his drama mentions “Vakreshvara the
-dancer” coming to the Lord, and according to Lochana Dasa's “Chaitanya-mangala,” after the Lord's sannyasa Nityananda
-followed Him together with Chandrashekhara, Damodara and Vakreshvara. <!-- F22 F65 -->
+He also witnessed the Lord's mercy to the poor trader Shridhara. According to Lochana Dasa's “Chaitanya-mangala,”
+after the Lord's sannyasa Nityananda went after Him together with Chandrashekhara, Damodara, Vakreshvara and others. <!-- F22 F65 -->
 
 ## Mercy to Devananda
 The best-known story about Vakreshvara is how he saved Devananda Pandita. <!-- I1 -->
@@ -70,17 +71,17 @@ not tell prema from ordinary sentiment, pushed him out, and Devananda did not st
 hearing how he expounded the “Bhagavata,” angrily and sternly rebuked a man who did not honour the Vaishnavas. Nor did
 Devananda at that time have faith in Mahaprabhu. According to one account, the Lord, on learning of the offence,
 spoke of the two Bhagavatas — the book and the devotee — and did not grant Devananda love of God. This story is told
-more fully in the article on Srivasa Pandita. <!-- F23 F24 -->
+more fully in the article on Srivasa Pandita. <!-- F23 F24 F69 -->
 
 After the Lord's sannyasa it was Devananda's good fortune to meet Vakreshvara (CB, Antya 3.468). One day Vakreshvara
 came unexpectedly to his house of his own accord and began to sing and dance there. He did so out of causeless mercy
-— to show everyone by a living example why a Vaishnava is called Patita-pavana, “the purifier of the fallen”[^4].
+— to show everyone by a living example why a Vaishnava is called Patita-pavana, “the purifier of the fallen”[^5].
 <!-- F25 I1 -->
 
 Devananda saw shining in him the power of a Vaishnava and a devotion to Vishnu unequalled in the three worlds, and his
 heart melted. He began to serve Vakreshvara with sincere love. While Vakreshvara danced, Devananda walked round him
 with a cane in his hand and held the crowd back; when Vakreshvara fell to the ground in ecstasy, Devananda laid his
-head in his lap, carefully gathered the dust from his body and smeared it on himself[^5]. It is said that the crowd
+head in his lap, carefully gathered the dust from his body and smeared it on himself[^6]. It is said that the crowd
 kept growing and clamouring while Vakreshvara sang and danced for another six hours into the night; when at last he
 sat down to rest, Devananda fell at his feet, and Vakreshvara blessed him: “May you have love for God.” From that day
 devotion grew in Devananda, and from that same day he began to serve the Vaishnavas. <!-- F26 F27 F28 F29 -->
@@ -88,7 +89,7 @@ devotion grew in Devananda, and from that same day he began to serve the Vaishna
 His association with Vakreshvara removed all of Devananda's offences. From Vakreshvara's lips he heard the glory of
 Mahaprabhu and understood who He truly is, and faith in the Lord and a longing to see Gaurasundara awoke in him.
 Srila Bhaktisiddhanta Sarasvati remarks in his “Gaudiya-bhashya” that Devananda was a smarta, yet a scholar and an
-ascetic, devoted to the “Bhagavatam” alone; he lacked only faith in Mahaprabhu, and this fault was corrected by
+ascetic, who read the “Bhagavatam” alone; he lacked only faith in Mahaprabhu, and this fault was corrected by
 Vakreshvara's mercy. The fruit of serving a Vaishnava is faith in the Lord's feet. <!-- F30 F31 -->
 
 Devananda came to the Lord and begged forgiveness, and Gaurasundara forgave him everything. This happened when, five
@@ -126,14 +127,17 @@ Damodara Pandita, Haridasa Thakura, Vaidya Raghunatha and Raghunatha Dasa. […]
 accompanied the Lord everywhere before. When Sri Chaitanya settled in Jagannatha Puri, they stayed to serve Him
 there.” (CC, Adi 10.124–127) <!-- F35 Q5 -->
 
-And again, where Gadadhara Pandita takes kshetra-sannyasa — the vow never to leave the Kshetra:
+And elsewhere, telling how Gadadhara Pandita settled in Nilachala (one biography calls this his kshetra-sannyasa — the
+vow never to leave the Kshetra):
 
 “Gadadhara Pandita, Vakreshvara, Damodara, Shankara and Haridasa Thakura stayed to live with the Lord in Puri.
 Jagadananda, Bhagavan, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara also moved there.” (CC, Madhya
 1.252–253) <!-- F36 Q6 -->
 
-In Nilachala Vakreshvara would sometimes invite the Lord to his home for a meal. Together with the Lord, Advaita and
-others he went to the garden of Tota-Gopinatha to hear Gadadhara Pandita read the “Bhagavatam.” <!-- F37 F38 -->
+Kavi Karnapura in the “Chaitanya-charita-mahakavya” mentions “Vakreshvara the dancer” coming to the Lord in Puri
+together with Vasudeva Datta and Bhagavan Acharya. In Nilachala Vakreshvara would sometimes invite the Lord to his
+home for a meal. Together with the Lord, Advaita and
+others he went to the garden of Tota-Gopinatha to hear Gadadhara Pandita read the “Bhagavatam.” <!-- F65 F37 F38 -->
 
 Yet here too his chief service remained his dance. At the evening kirtana in Nilachala the Lord divided the devotees
 into four parties:
@@ -150,12 +154,12 @@ Vakreshvara was the dancer of the fourth party:
 Raghava were to sing the response with him, and also the two brothers Madhava and Vasudeva Ghosha. Vakreshvara
 Pandita was chosen as the dancer.” (CC, Madhya 13.42–43)
 
-The Ghosha brothers led the singing, and “Vakreshvara himself” danced before them[^6]. <!-- F40 F41 F63 Q10 -->
+The Ghosha brothers led the singing, and “Vakreshvara himself” danced before them[^7]. <!-- F40 F41 F63 Q10 F68 -->
 
 When the Lord circled the temple of Jagannatha with a great kirtana of seven parties, each had its own chief dancer,
 and one of them was again Vakreshvara (CC, Antya 10.58–61). During the festival at Gundicha, where kirtana went on
 morning, noon and evening, the Lord made now Advaita, now Nityananda, now Haridasa, Achyutananda or Vakreshvara dance
-(CC, Madhya 14.70–72). At times the Lord Himself became the singer, just so that Vakreshvara might dance:
+(CC, Madhya 14.70–72). At times the Lord told Vakreshvara to dance and Himself became the singer:
 
 “Then the Lord told Vakreshvara to dance, and He Himself began to sing. Many fine singers such as Svarupa Damodara
 began to sing with the Lord and, in a trance of divine love, forgot time and place.” (CC, Madhya 14.100–101)
@@ -173,7 +177,7 @@ when Gaurasundara with kirtana laid that body in samadhi on the shore of the oce
 When the Lord set out from Nilachala for Vrindavana, Vakreshvara was among His companions. At Ramakeli he saw the Lord
 grant His mercy to Rupa and Sanatana; at the Lord's bidding the brothers touched the feet of His companions, and they
 blessed them. He also greeted the Lord on the bank of Narendra-sarovara when He returned from Vrindavana (CC, Madhya
-25). <!-- F46 F65 -->
+25.219–221). <!-- F46 F65 -->
 
 To Vallabha Bhatta the Lord said that He had “come to know” love for Krishna through the devotees of Bengal, the
 preachers of the holy name:
@@ -185,7 +189,7 @@ essence of pure devotion to Krishna.” (CC, Antya 7.48–50) <!-- F47 Q16 -->
 
 In Puri the Lord lived in the house of Kashi Mishra, the royal priest of King Prataparudra. It is said that this
 place later came to Vakreshvara, and that in the time of his disciple Gopala Guru the Deity of Sri Radhakanta was
-installed there[^7]. <!-- F48 -->
+installed there[^8]. <!-- F48 -->
 
 ## After the Lord's Disappearance
 Vakreshvara outlived the disappearance of Mahaprabhu and remained in Puri. When Srinivasa came there, he found
@@ -193,7 +197,7 @@ Vakreshvara among the companions who, in separation from Gaura, had forgotten fo
 of His name, form, qualities and pastimes; from them Srinivasa received blessings (“Bhakti-ratnakara,” 3). <!-- F49 -->
 
 The poem “Sri Gaura-krishnodaya” says that Vakreshvara was regarded as the Lord's first disciple and was placed in
-the very abode where the Lord had lived (“Gaura-krishnodaya,” 18.60)[^8]. The same poem names him first among the
+the very abode where the Lord had lived (“Gaura-krishnodaya,” 18.60)[^9]. The same poem names him first among the
 companions of His sankirtana (5.30). <!-- F12 Q20 F65 -->
 
 ## The Outer Path of Worship in Rasa
@@ -222,7 +226,7 @@ According to the “Vakreshvara-charita,” five branches came from Vakreshvara:
 Acharya, Govindanada, Devananda and Gopala Guru. Many in Orissa have received initiation in his line and call
 themselves Gaudiya Vaishnavas. According to the “Anuragavalli,” a record of the succession from Mahaprabhu was found
 with a descendant of Gopala Guru's family, and the “Nityananda-vamsha-vistara” says that at Prabhu's bidding
-Vakreshvara gave the mantra of Radha-Krishna to King Chakradeva[^9]. Srila Jiva Gosvami in his vandana remembers the
+Vakreshvara gave the mantra of Radha-Krishna to King Chakradeva[^10]. Srila Jiva Gosvami in his vandana remembers the
 Lord immersed in the bliss of kirtana beside Vakreshvara. <!-- F53 F59 F65 -->
 
 Gopala Guru called his guru Tungavidya and the Son of Shachi Nanda-nandana, yet he taught nothing contrary to
@@ -232,12 +236,12 @@ gaura-nagari doctrine that grew up in Shrikhanda. <!-- F7 I5 -->
 ## Govinda Deva and the “Gaura-krishnodaya”
 The Utkala poet Sri Govinda Deva belonged to Vakreshvara's circle. In the year 1680 of the Shaka era (1758) he wrote
 the “Sri Gaura-krishnodaya,” a poem in eighteen sargas on the pastimes of Gaura, in which he also describes the life
-of Vakreshvara; it was published by Srila Bhaktisiddhanta Sarasvati[^10]. At the opening of the poem (1.5) the poet
+of Vakreshvara; it was published by Srila Bhaktisiddhanta Sarasvati[^11]. At the opening of the poem (1.5) the poet
 glorifies Rupa, Vakreshvara and other gurus but does not name Gopala Guru: perhaps he was not of his branch.
 <!-- F60 F61 -->
 
 ## Departure
-Vakreshvara Pandita left this world on the shukla-shashthi of the month of Ashadha[^11]. Where this happened and where
+Vakreshvara Pandita left this world on the shukla-shashthi of the month of Ashadha[^12]. Where this happened and where
 his samadhi is, the biographies do not say. <!-- F62 -->
 
 ## Aniruddha and Tungavidya
@@ -247,16 +251,17 @@ Who Vakreshvara is in the eternal pastimes is told by Kavi Karnapura in the “G
 Krishna. It was he who spoke sweet words to the feet of Chaitanya: ‘O merciful One, give me a thousand singers.’ By a
 distinction of her own manifestation, Shashirekha entered into him.” (GGD 71–73)
 
-Thus in Gaura-lila he is Aniruddha, the fourth of the chatur-vyuha, and for this reason one biography calls him
-vishnu-tattva; and Shashirekha, a friend of Radha, entered into him[^12]. <!-- F3 F4 F5 Q2 -->
+Thus in Gaura-lila he is Aniruddha, the fourth of the chatur-vyuha, and one biography says that Kavi Karnapura
+thereby established him as vishnu-tattva; and Shashirekha[^13], a friend of Radha, entered into him[^14]. <!-- F3 F4 F5 Q2 F67 -->
 
 In the line of Gopala Guru he is honoured differently — as Tungavidya, one of the dear sakhis, a gopi skilled in song
 and dance. Dhyanachandra Gosvami in his “Paddhati” praises him as the best of brahmanas, a devotee of Chaitanya,
 always absorbed in preaching the sweet rasa of Radha and Krishna; his lips are adorned with songs given him by Gaura;
 from the joy of confidential service in Vrindavana the sattvika-bhavas — stupor and the rest — appear in him; he is
 the original dancer-avatara in Gaurasundara's absorption in the rasa of separation. Tungavidya lives eternally in
-Vraja in the most intense longing and, like a heroine in separation, is ever attached to Krishna; in the age of Kali,
-in Gaura-rasa, the same person became famous once more as Vakreshvara[^13]. <!-- F6 F9 F10 Q17 -->
+Vraja in great elation and, like a heroine disappointed in awaiting her tryst (a vipralabdha), is ever filled with love
+for Krishna; in the age of Kali,
+in Gaura-rasa, the same person became famous once more as Vakreshvara[^15]. <!-- F6 F9 F10 Q17 F66 -->
 
 Gopala Guru in the “Seva-smarana-paddhati” likewise honours his guru as Tungavidya Sakhi: “I worship Vakreshvara
 Pandita — Sri Tungavidya; I worship Sri Chaitanya, the son of Shachi — Nanda-nandana,” and says that in the age of
@@ -275,30 +280,34 @@ remembering him purifies the universe. <!-- I2 -->
     Madhya 7.3; but in our text of the “Chaitanya-bhagavata” that verse speaks of Jagadananda, Shrigarbha and
     Pundarika. A verse close in sense is CB, Madhya 1.6, quoted above.
 [^3]: Only one biography reports this; the others say nothing of his birthplace.
-[^4]: According to another account, Vakreshvara stayed with Devananda “by the will of providence”; so too the
+[^4]: One biography cites this song as a passage of the “Chaitanya-bhagavata”; these lines are not in our text of the CB.
+[^5]: According to another account, Vakreshvara stayed with Devananda “by the will of providence”; so too the
     “Chaitanya-bhagavata”: by the will of providence Devananda's devotion attracted him, and he stayed for a while in
     his ashrama (CB, Antya 3.474). According to a third account, he was singing and dancing one evening in the house
     of a certain devotee in Kuliya, and Devananda came there on hearing of the kirtana.
-[^5]: According to one account, Devananda stood before him spellbound for a long time, and wiped the dust from his body
+[^6]: According to one account, Devananda stood before him spellbound for a long time, and wiped the dust from his body
     with his own shawl.
-[^6]: According to another account, there were four sampradayas at the Ratha-yatra, and among them Vakreshvara
+[^7]: According to another account, there were four sampradayas at the Ratha-yatra, and among them Vakreshvara
     supposedly “founded a new sampradaya — of dance.” This is probably an inaccuracy: according to the
     “Chaitanya-charitamrita,” he was the dancer in Govinda Ghosha's party.
-[^7]: This is told in different ways. Some say that the Radhakanta Matha was founded by Gopala Guru himself. According
+[^8]: This is told in different ways. Some say that the Radhakanta Matha was founded by Gopala Guru himself. According
     to one biography, Vakreshvara lived in Kashi Mishra's house and himself installed the Deities of Radha-Kanta;
     according to another passage of the same book, Gopala Guru stayed there after Vakreshvara's departure and
     installed Radhakanta. According to a third biography, the Lord Himself entrusted the service of Radhakanta to
     Gopala Guru, while Vakreshvara never sat on the gadi of the Radhakanta Matha and was never its acharya, remaining
     in kirtana and dance with the Lord.
-[^8]: The sense of the verse is that Vakreshvara was deemed the Lord's first disciple and placed in that abode. It seems
+[^9]: The sense of the verse is that Vakreshvara was deemed the Lord's first disciple and placed in that abode. It seems
     to refer to the time after the Lord's disappearance, when His companions placed Vakreshvara in His abode; by one
     interpretation, the Lord Himself so arranged it at His departure.
-[^9]: This report is chronologically doubtful.
-[^10]: According to one biography, the poem was written in Oriya “in the 17th year of the Gaura era”; this is probably
+[^10]: This report is chronologically doubtful.
+[^11]: According to one biography, the poem was written in Oriya “in the 17th year of the Gaura era”; this is probably
     an error of translation.
-[^11]: This date is given by two biographies (one of them following the “Dhyanachandra-paddhati”); the third gives no
+[^12]: This date is given by two biographies (one of them following the “Dhyanachandra-paddhati”); the third gives no
     date of departure. Our calendar does not mark this day.
-[^12]: One biography omits verse 72 and gives only verses 71 and 73. In the “Chaitanya-charitamrita” Vakreshvara asks
+[^13]: The “Gaura-ganoddesha-dipika” also names Kashishvara Gosvami as Shashirekha in Vraja: “Sri Kashishvara Gosvami
+    is the former Shashirekha in Vraja” (GGD 166). Into Vakreshvara, according to verse 73, she entered “by a distinction
+    of her own manifestation.”
+[^14]: One biography omits verse 72 and gives only verses 71 and 73. In the “Chaitanya-charitamrita” Vakreshvara asks
     not for a thousand singers but for ten thousand gandharvas (CC, Adi 10.19).
-[^13]: In the “Gaura-ganoddesha-dipika” (GGD 163) Prabodhananda Sarasvati is named as Tungavidya. These identifications
+[^15]: In the “Gaura-ganoddesha-dipika” (GGD 163) — and, following it, in two biographies — Prabodhananda Sarasvati is named as Tungavidya. These identifications
     differ, and we do not merge them.
