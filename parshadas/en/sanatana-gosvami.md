@@ -894,11 +894,11 @@ With joined palms Sanatana said: “You have ordered me to compile a Vaishnava s
 such judgments. Only if You teach me how to do it and Yourself enter my heart can an unworthy man accomplish this service.
 You are Ishvara: whatever You make one do will be accomplished.” The Lord answered: “Whatever you wish to write, Krishna
 will reveal to you; still, I shall give you a few sutras as a direction.” And He listed the subjects of the future book
-(CC, Madhya 24.325–345): shelter at the guru's feet; the characteristics of guru and disciple and their mutual testing; the
+(CC, Madhya 24.319–340): shelter at the guru's feet; the characteristics of guru and disciple and their mutual testing; the
 object of worship; mantras, the right to a mantra, perfection in a mantra and purification; initiation; morning
 remembrance and morning duties; cleanliness, achamana, cleaning the teeth, bathing, sandhya-vandana; service to the guru;
 the urdhva-pundra, the marks of the disc and other symbols, gopi-chandana, wearing garlands offered to Krishna; gathering
-tulasi; preparing clothes, seat and house; awakening Krishna and worshipping Him with five, sixteen, fifty and sixty-four
+tulasi; preparing clothes, seat and house; awakening Krishna and worshipping Him with five, sixteen, fifty, ten and sixty-four
 articles; service at the five times of day, arati, Krishna's meals and rest; the characteristics of the Deity and of the
 shalagrama; pilgrimage to Krishna's places and darshana of His Deities; the glory of the Name and the avoidance of
 offences to the Name; the characteristics of a Vaishnava; the removal of offences in service; the characteristics of the
@@ -1092,10 +1092,10 @@ of such exemplary conduct, which gives honour to others, the Lord rejoiced great
 
 “‘O Sanatana! Though you are the saviour of the whole world and can purify even the gods and great sages by your touch,
 the nature of devotees is such that they always strive to observe all the rules and injunctions of the scriptures.
-Observing such etiquette is the true ornament of saintly Vaishnavas. <…> Whereas one who transgresses the directions of
+Observing such etiquette is the true ornament of saintly Vaishnavas. Whereas one who transgresses the directions of
 the scriptures only becomes a laughing-stock. Moreover, he loses both happiness and good fortune, in this life and the
 next. You always follow all the spiritual injunctions, and by this you have greatly pleased Me. Who but you can set others
-an example of such proper saintly conduct?’” (CC, Antya 4.129, 131–132) <!-- F288 Q40 -->
+an example of such proper saintly conduct?’” (CC, Antya 4.129–132) <!-- F288 Q40 -->
 
 Greatly pleased, the Lord embraced Sanatana tightly — “His dear one, with a transcendental body”; the discharge from
 Sanatana's sores touched the Lord's body, and Sanatana, seeing this, suffered greatly and with humble entreaties tried
