@@ -7,7 +7,7 @@ disciples of Srila Bhaktisiddhanta Sarasvati remembered with reverence and with 
 him Om Vishnupada Sri Srila Vamshidasa Babaji Maharaja, or more often simply Srila Babaji Maharaja or Baba; the best
 of avadhutas (avadhuta-vara) and the crown jewel of the line of paramahamsas, the foremost of maha-bhagavatas, a great
 soul free in every respect (sarva-tantra-svatantra). Others called him Srila Vamshi Dasa Babaji, Vamshi Dasaji or
-Mahatma Vamshi Dasa, and memory has kept for him the name “the Paramahamsa Avadhuta”. <!-- F1 -->
+Mahatma Vamshi Dasa, and one of the biographies calls him “the Paramahamsa Avadhuta”. <!-- F1 -->
 
 He was a paramahamsa Vaishnava who lived as an avadhuta — a wanderer not bound by outward rules. An avadhuta has shaken
 off every worldly feeling and obligation, takes no account of social custom, above all of the rules of varnashrama,
@@ -37,12 +37,12 @@ performed his bhajana as it should be done. He had little love for his native la
 invited him there, he yielded to their eagerness, but found no joy in the journey and said that this was a place the
 Pandavas had disdained. He said the same in Bhagalpur: “Majidpur is a land the Pandavas left behind: the people are
 ill-natured, they eat anything, there is no Harinama. I have no place of my own; like the Pandavas in exile, I live
-unrecognised in the forest.” Only with a fellow countryman, Gokula Dasa Babaji, an elder godbrother of Srila Bhakti
-Pramoda Puri Goswami Maharaj, did he gladly speak of Krishna in his native Mymensingh dialect. <!-- F10 F12 F13 -->
+unrecognised in the forest.” But with a fellow countryman, Gokula Dasa Babaji, an elderly godbrother of Srila Bhakti
+Pramoda Puri Goswami Maharaj, who often came to him, he spoke joyfully of Krishna in his native Mymensingh dialect. <!-- F10 F12 F13 -->
 
 ## Beneath a Tree by the Ganga
-From East Bengal he came to Navadvipa and settled on the bank of the Ganga. He lived in the highest renunciation: at
-first simply under a tree, later in a hut by the river. “In Navadvipa I lived on alms,” he said. “To eat another's
+From East Bengal he came to Navadvipa and settled on the bank of the Ganga. He lived in the highest renunciation: under a
+tree on the bank, and he also had a hut by the river. “In Navadvipa I lived on alms,” he said. “To eat another's
 rice is good, but to live under another's roof is not.” He wore only a kaupina and neither cut nor groomed his hair
 or beard. He was so tall that he could pick fruit for puja from the upper branches without a ladder; but once he fell
 from a tree — and from then on he showed the form of a lame man. <!-- F14 F19 F18 -->
@@ -73,10 +73,10 @@ innermost heart. At times he offered tobacco in a hookah to Radha and Govinda �
 The chronicle of the “Gaudiya” calls him a follower of Srila Gaurakishora Dasa Babaji Maharaja: in his life one sees
 the same examples of restraining and instructing worldly people as in the life of Srila Gaurakishora. <!-- F4 -->
 
-When the young Srila Bhaktisiddhanta came to Navadvipa, Srila Bhaktivinoda Thakura introduced him to Babaji. Srila
+When Srila Bhaktisiddhanta, having left Puri, came to Navadvipa, Srila Bhaktivinoda Thakura introduced him to Babaji. Srila
 Bhaktisiddhanta was drawn by his Vaishnava conduct and his complete disregard for social convention. He himself bowed
 to Babaji from a distance, but did not allow his disciples to associate with him: a beginner might misunderstand his
-indifference to rules and offend his feet. The rules of sadhana, Srila Bhaktisiddhanta's disciples explained, exist
+indifference to rules and offend his feet. The rules of sadhana, one of the biographies explains, exist
 above all for the pleasure of Radha-Govinda and for the growth of the beginner; whoever measures a perfected Vaishnava
 by the standards of a sadhaka risks committing an offence and falling from the path of devotion. <!-- F15 F16 F17 I1 -->
 
@@ -143,7 +143,7 @@ legend; and the pandas added: “Here, during Ramachandra's exile, Sri Sita Devi
 you too should offer it.” Babaji replied: “People perform the dharma of giving gifts — and where do they go once they
 have crossed the Vaitarani? I cross it on a cart! I am kept outside the rules of the Vedas: I do neither the work of
 the Vedas nor the work of the injunctions — how am I to offer pinda to my parents?” And pointing to his Deities, he
-added: “They here will not let me.” “Ask your Thakuras and do as They say,” the pandas insisted, but he only repeated:
+added: “They here will not let me — now let us see what happens.” “Ask your Thakuras and do as They say,” the pandas insisted, but he only repeated:
 “Hari, lover of His devotees!” <!-- F38 F40 F41 -->
 
 A wrestler laid a “Hanuman-yantra” amulet before him and asked him to return it with a blessing. “You have come to
@@ -162,7 +162,7 @@ then where? In the rains, when the Ganga rises, in Ashadha, You will return to N
 Almost every day he sang Srila Narottama Dasa Thakura's song “Nitai-pada-kamala” — “The lotus feet of Nitai”. At the
 line “When Nitai's mercy comes, you will attain Radha-Krishna in Vraja” he would say: “There is talk of Vraja, but
 whether I shall go I cannot say.” At the words that Nitai's feet are cooler than ten million moons he sighed: “Then why
-have I not been cooled?” At night he talked with Thakura and sang joyfully. <!-- F44 F23 Q6 -->
+have I not been cooled?” <!-- F44 Q6 -->
 
 Once, smelling a stick of incense, he said: “Nothing has any fragrance — or the fragrance is there, but the nose does
 not catch it.” And he recalled a saying from his former life beyond the Brahmaputra: “What is a washerman to do in a
@@ -174,8 +174,9 @@ with me — the prema of separation.” <!-- F47 F48 -->
 On his very first day in Kashi he himself chose the place for his tent. An old woman would not let him have it: “This
 is my place, I have sat here twenty years!” He drove her off: “Her place! Her purchased ghata! So Nitai's own estate is
 lost!” — and he sang: “Yama, run, run! In the domain of Nitai-chanda your turn is over.” The old woman tried to have
-him driven out with the help of worldly people. The chronicle remarks: such an evil thought takes hold of a soul that
-only pretends to live in Kashi and offends the feet of Shambhu — the king of Vaishnavas — and of the dhama itself; she
+him driven out with the help of worldly people. The chronicle remarks: a soul that only pretends to live in Kashi and offends
+the feet of Shambhu — the king of Vaishnavas — and of the dhama itself is possessed by such an evil thought when it
+stands at the door of death; she
 offended the feet of a paramahamsa, one of Gaura-Nityananda's own, as Ramachandra Khan once offended the feet of
 Nityananda. <!-- F49 F50 -->
 
@@ -206,16 +207,16 @@ Once in Kashi a prakrita-sahajiya who had earlier sung lila-kirtana before him c
 he shouted loudly “Jaya Nitai, Jaya Nitai!”, as if glorifying Babaji, and, breaking the flow of hari-katha, struck up
 “The cowherd boy of Vraja has come”. A servant of the Sanatana Gaudiya Math stopped him and asked him to listen to
 Babaji; feigning embarrassment, the man began to take his leave. Babaji raised his hand before his face: “Excessive
-devotion is the mark of a thief!” — “How have I become a thief?” — “With your lips you say ‘Hari’, but in your mind
-there is something else.” The mask fell, and the hypocrite left. <!-- F56 -->
+devotion is the mark of a thief!” — “How have I become a thief?” — “With my lips I say ‘Hari’, but in my mind there
+is something else.” The mask fell, and the hypocrite left. <!-- F56 -->
 
 A stout woman in saffron, assuming the air of a venerable elder, said: “Baba, I saw you at Baral Ghata in Navadvipa!
 Bless me to chant the name of Hari much; I am a daughter-in-law of Advaita's family.” He replied: “Above three locks —
 six, above them — sixteen, and still the thief breaks in and steals. A family has only one lock: what can it do? Go,
 go to your Baral Ghata.” <!-- F57 -->
 
-To a woman carrying bel leaves for the worship of Shiva he said: “I have seen, I have seen — this is in Navadvipa too,”
-and, pointing to a Shiva-linga: “Here it is all the same. When Gaura was small, He used to go naked to the bathing
+To a woman with bel leaves he said: “I have seen, I have seen — this is in Navadvipa too,”
+and, indicating a Shiva-linga with a gesture: “Here it is all the same. When Gaura was small, He used to go naked to the bathing
 ghata of the Ganga. The girls would mould a Shiva-linga there and worship it, and He would joke with them: ‘Rather than
 Shiva, won't you worship Me?’”[^7] <!-- F58 -->
 
@@ -254,7 +255,7 @@ fasting. I shall bring wild greens and cook them without salt — put two or thr
 himself honoured prasada of only rice and boiled vegetables. <!-- F66 F67 -->
 
 ### Patna
-On the morning of 18 Karttika (4 November), at Chhapra, the boat was tied to a steamer, and after three in the
+On the morning of 18 Karttika (4 November), at Chhapra, the boat was tied to a steamer, and at four in the
 afternoon he reached the ghata of the Engineering College in Patna; here the tent was pitched, and he stayed in Patna
 until 15 November. On 19 Karttika he said: “They have locked Him up in prison. How much He used to eat — and now rice
 of three chhataks. The same smell as in Kashi I have caught in Patna too.” On 20 Karttika, when a servant complained
@@ -262,14 +263,14 @@ that rats had eaten food left uncovered, he remarked: “Now they steal in order
 will not eat.” He questioned a Ramanuji sadhu from Patna about Harihara-chhatra and wanted to go there, but the next
 day changed his mind. <!-- F68 F69 F70 -->
 
-On 21 Karttika (7 November) he taught: “Do not eat tasty food, do not wear fine clothes, do not chew betel, do not smoke
-tobacco,” and he sang: “Leaving the comfort of sleep on an ornate bed, when shall I be covered with the dust of
+On 21 Karttika (7 November) he taught in Mahaprabhu's words: “Do not eat luxurious food and do not wear costly
+clothes” (CC, Antya 6.236), and added: “Do not chew betel, do not smoke tobacco.” And he sang: “Leaving the comfort of sleep on an ornate bed, when shall I be covered with the dust of
 Vraja?” Seeing an old sadhu after his bath, he joyfully quoted the words of Hanuman:
 “The Lord of Sri and the Lord of Janaki are one and the same Supreme Soul; and yet my all in all is lotus-eyed Rama”.
-And he told a legend: when Kali came, Krishna told Narada that it was time for Him to depart. “But what of the souls?”
+Then, saying that King Kali is very mighty, he told a legend: when Kali came, Krishna told Narada that it was time for Him to depart. “But what of the souls?”
 asked Narada. “They will attain Me by feeding a brahmana sixteen dishes.” — “And the poor?” — “With flowers, water and
 tulasi.” — “And those crippled from birth?” — “By uttering My name once at the end of the day with all their heart.”
-<!-- F71 Q3 -->
+<!-- F71 Q7 Q3 -->
 
 A resident of Patna asked him for instruction. “What instruction?” Babaji replied. “A mother looks at her son's belly —
 is he fed? A wife looks at her husband's waistband — has he brought money? From worldly life Krishna is far away.” —
@@ -317,12 +318,12 @@ And in the morning, seeing palms all around, he remembered Vrindavana: “Here i
 little while in Bhagalpur,” and he sang of Talavana, Khajuravana and Madhuvana. <!-- F80 F23 -->
 
 11 Agrahayana (27 November): “He performs ashtanga-pranama. Where there is fearlessness, there is fear too; it is hard
-to be fearless.” And he sang: “I will not take, I will not take any other burden; I want neither gems nor ornaments”;
+to be fearless.” And he sang: “I will not give, I will not give any other burden; I want neither gems nor ornaments”;
 “Once I saw You in the womb — and now I seek and do not find You, Hari,” — “Hari, when shall I see You again?”
 15 Agrahayana (1 December): “The intimate and the external: the intimate one does what is inward, the external one what
 is outward — to each according to his mind. With Yashoda — up to shanta, dasya, sakhya, vatsalya. Where now in
 Vrindavana are Yashoda and Krishna? Where are the sixteen thousand gopis? Who churns curd and butter now?” And seeing a
-forest he sang: “Who is it that plays the flute beneath the Vamshi-vata in Bhandiravana?” <!-- F81 F82 -->
+forest he sang: “Who is it that plays the flute beneath the Vamshi-tata in Bhandiravana?” <!-- F81 F82 -->
 
 17 Agrahayana (3 December): “Where shall I go? I see no path; wherever I go, there I shall sit. Who performs this
 service? You have set up house. Srila Narottama Thakura set up house — he founded six services,” that is, the service
@@ -338,7 +339,7 @@ sandbank of Mayapur.” <!-- F85 F86 -->
 On 24 Agrahayana (10 December) he taught: “Do not live with unbelievers,” and quoted a verse of Chanakya: a friend who
 ruins your affairs behind your back but speaks sweetly to your face the wise man will reject, like a pot of poison with
 milk only at its brim. “Whose company do you keep? ‘I have fallen into the snare of the wicked.’ What a maya! How to be
-free? ‘I see not a trace of deliverance’, ‘the more I see, the more I suffer’, ‘so weeps the helpless one’ — and now I
+free? ‘I see not a trace of deliverance’, ‘the more I see, the more I suffer’, ‘so weeps the helpless one’ — and now he
 cannot even weep. I see no path. What shall I answer when Yama comes? He will not listen to words!” 28 Agrahayana
 (14 December): “In this land there is no Harinama, and yet I came here; I do not know where to go now. ‘The senses have
 fallen under the sway of enemies…’ — what remedy is there now?” <!-- F87 F88 -->
@@ -360,7 +361,7 @@ Vrindavana; the flow of the Ganga and its sandbanks — Navadvipa-dhama. “It i
 3 Pausha (19 December). “In Jyaishtha there is the fair at Sri Ramakeli; I shall go there — there will be much joy. But
 these months must be spent here. Here too are the outlines of Navadvipa: ahead, the sandbank of Sri Mayapur; on the
 other bank, Svarupganj; the Ganga flows south, as in Navadvipa. Talavana, Khajuravana, Bhandiravana, a bamboo grove — I
-am happy beneath the Vamshi-vata.” Now laughing, now weeping, he was immersed in the joy of his realisation.
+am happy beneath the Vamshi-tata.” Now laughing, now weeping, he was immersed in the joy of his realisation.
 <!-- F91 F94 F28 -->
 
 For several days he displayed — to outward eyes — the pastime of a cold and a cough, and acted as if in defiance of the
@@ -421,7 +422,7 @@ singing of the songs of the mahajanas — we shake off the dust of the holy plac
 
 ## Departure
 Srila Vamshidasa Babaji Maharaja left this world on the fourth lunar day of the bright half of the month of Shravana
-(shravana shukla chaturthi); by our calendar this is Gaura-chaturthi of the month of Shridhara, falling in August.
+(shravana shukla chaturthi); by our calendar this is Gaura-chaturthi of the month of Shridhara (in 2026, 16 August).
 Neither the year nor the place of his departure, nor the site of his samadhi, have been preserved by the sources.
 <!-- F105 -->
 
@@ -440,7 +441,7 @@ wholly to Gaura-Nitai and Radha-Govinda. <!-- I2 I3 F16 F3 F4 -->
     Srila Gaurakishora Dasa Babaji; from whom he received initiation and the babaji's dress, the sources do not say.
 [^2]: The story of the unlocked hut is given after Haridasa Dasa's book “Gaudiya-vaishnava-jivana” (vol. 2).
 [^3]: The offering of tobacco is no example to imitate: for a sadhaka tobacco is an intoxicant renounced in service (as
-    Babaji himself taught: “do not smoke tobacco”). But the service of a paramahamsa who, in spiritual feeling, lives
+    Babaji himself taught in Patna: “do not smoke tobacco”). But the service of a paramahamsa who, in spiritual feeling, lives
     beside the Divine Couple of Vraja is not measured by the rules of a sadhaka: so he served Radha and Govinda in his
     intimate feeling, without offering this to Nitai-Gauranga. That is exactly why Srila Bhaktisiddhanta bowed to him
     from a distance but did not allow beginners either to imitate him or to judge him.
@@ -453,10 +454,11 @@ wholly to Gaura-Nitai and Radha-Govinda. <!-- I2 I3 F16 F3 F4 -->
     chronicle of the “Gaudiya” is our own comparison.
 [^7]: This is a childhood play of the Lord: little Gaura, Himself the Supreme Personality of Godhead, in jest reveals to
     the girls that the true object of worship is He Himself; Shiva is His greatest devotee, and there is no disrespect to
-    Shiva in it. Babaji recalls it as a reminder that worship in Navadvipa must lead to Gaura. In the text the words are
-    given in paraphrase; literally the account reads: “Instead of worshipping Shiva, won’t you worship my ‘this one’?” —
-    with a gesture of the naked little boy. It is a child’s mischievous joke with no mundane sense in it: the Lord, having
-    appeared as a child, claims worship for Himself.
+    Shiva in it. Babaji recalls it as a reminder that worship in Navadvipa must lead to Gaura. In the text Gaura’s words are
+    softened; in full the account reads: “When the girls moulded a Shiva-linga and worshipped it, He would say to them
+    mischievously: ‘Instead of worshipping Shiva, can’t you worship my “this one”?’” — the words “this one” are set in
+    quotation marks in the account; they are spoken by a naked little boy. It is a child’s mischief with no mundane sense
+    in it: the Lord, having appeared as a child, claims worship for Himself.
 [^8]: The same words have also been preserved as an answer to the question how to know the mercy of Krishna or of the
     Vaishnavas; there they speak of offence to the feet of the “Vaishnava-thakura”.
 [^9]: In another retelling of this line deer are named instead of elephants.
