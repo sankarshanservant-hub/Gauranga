@@ -249,8 +249,8 @@ knowing it within, came to Srivasa's door and roared, and the Lord showed Him th
 ## The Nightly Kirtana Behind Closed Doors
 Mahaprabhu announced: from now on there would be unbroken sankirtana every night, followed by a bath in the Ganga. As
 the place of the nightly kirtana He chose Srivasa's house; sometimes the kirtana was held in the house of Chandrashekhara
-Acharya (CB, Madhya 8.110–112). It began on hari-vasara, the day of Ekadashi:[^12] on the blessed ground of Srivasa's
-courtyard rang out “Gopala! Govinda!” (CB, Madhya 8.77–78). Mahaprabhu would now sing the refrain “Hari o Rama Rama,” now
+Acharya (CB, Madhya 8.110–112). It began on the day of Sri Hari-vasara, Ekadashi: on the blessed ground of Srivasa's
+courtyard rang out “Gopala! Govinda!”, and from dawn Vishvambhara danced (CB, Madhya 8.138–140).[^12] Mahaprabhu would now sing the refrain “Hari o Rama Rama,” now
 cry out in joy “Jitam! Jitam!” — “Victory!” — and the devotees echoed Him. <!-- F53 Q9 -->
 
 They sang behind closed doors, only with intimates; no unbeliever in Nadia was admitted. Taking part in the kirtanas at
@@ -312,7 +312,7 @@ and the Lord said that those births had passed in a moment, and allowed him to s
 
 All these manifestations of the “maha-maha-prakasha” took place in Srivasa's house. Vrindavana Dasa says: in Navadvipa
 hundreds of ascetics, sannyasis, yogis and jnanis study the “Gita” and the “Bhagavatam” in vain, while Srivasa with his
-wife, sons and servants — and even the dogs and cats of his house — received what sannyasis and ascetics will not attain
+wife, children and servants — and even the dogs and cats of his house — received what sannyasis and ascetics will not attain
 even in a ten-millionth part. <!-- F64 -->
 
 Narayani, four years old, lived with Srivasa and was blessed with the remnants of Mahaprabhu's meal. That is why among
@@ -337,9 +337,9 @@ how Srivasa asked about the greatness of Advaita, and the Lord expounded to him 
 ## Those Who Offended Srivasa
 Gopala Chapala, a garrulous bhattacharya, one night, while the kirtana was going on behind Srivasa's locked doors,
 left at his door everything needed for the worship of Bhavani (Kali): banana leaves, hibiscus flowers, red sandalwood, a
-pot of wine and meat. In the morning Srivasa opened the door, saw this and, laughing, said loudly to the respectable
-people of Navadvipa: “Look, I worship Bhavani every night! Here is my glory — I am a shakta.” He said it in jest. The
-distressed neighbours called a sweeper, threw everything away and purified the place with water and cow dung. <!-- F68 -->
+pot of wine and meat. In the morning Srivasa opened the door, saw this and, laughing, said loudly to everyone around:
+“Look, I worship Bhavani every night! Here is my glory — I am a shakta.” He said it in jest. The respectable people of
+Navadvipa, distressed, called a sweeper, threw everything away and purified the place with water and cow dung. <!-- F68 -->
 
 For the offence at Srivasa's feet Gopala was struck with leprosy — festering sores covered his whole body. He lived
 under a tree by the Ganga, and when the Lord came there to bathe, he begged Him for deliverance. The Lord answered in
@@ -348,8 +348,8 @@ anger:
 “‘O wicked envier of devotees! Expect no forgiveness from Me, I shall not save you! Let worms devour you for tens of
 millions of lives.’” (CC, Adi 17.51)
 
-For having made Srivasa out to be a worshipper of Bhavani, said the Lord, he would spend ten million births in the hell
-called Raurava (CC, Adi 17.52). <!-- F69 Q11 -->
+For having made Srivasa out to be a worshipper of Bhavani, said the Lord, he would spend ten million births in hell
+(CC, Adi 17.52) — in the hell called Raurava, the biographies specify. <!-- F69 Q11 -->
 
 Years passed. After His sannyasa, on the way to Nilachala, the Lord came to Kuliya, and Gopala again begged for
 forgiveness. This time the Lord told him to ask forgiveness of Srivasa — and by Srivasa's mercy the offence was removed.
@@ -370,8 +370,8 @@ ascetic, renounced from birth — yet he had indulged students hostile to Srivas
 “Anyone who makes a distinction between Me, My servant and the book ‘Bhagavatam’ surely brings ruin upon himself.” (CB,
 Madhya 21.18)
 
-“One who reads the ‘Bhagavatam’ without glorifying bhakti is a fool; I shall tear up his manuscript,” the Lord went on
-(CB, Madhya 21.20–21). “To see such a devotee as Srivasa, even the Ganga came down from Hara's head to earth as a river;
+“This reader, who keeps silent about loving service to God, knows nothing at all; see how I shall tear up his book
+today,” the Lord went on (CB, Madhya 21.20–21). “To see such a devotee as Srivasa, even the Ganga came down from Hara's head to earth as a river;
 the offence you committed by driving him out through your students has turned you away from God.” The Lord, who had
 learned of the offence already at the Mahaprakasha, long remained indifferent to Devananda; later He told him to ask
 forgiveness at Srivasa's feet — for the book-Bhagavata and the devotee-Bhagavata are one. Devananda came to Srivasa, who
@@ -386,9 +386,9 @@ One evening Srivasa's mother-in-law, without telling him, hid in a corner of the
 dool), hoping to watch the kirtana. The Lord was dancing — and suddenly began to repeat: “Why is there no joy for Me
 today? Is an outsider hiding here?” Srivasa searched the room, found no one, and asked the Lord to sing and dance freely.
 Again the Lord said there was no joy, and some devotees began to blame themselves. Srivasa searched more carefully and
-found his mother-in-law; she was led out by the hair,[^14] and the Lord danced joyfully. <!-- F72 -->
+found his mother-in-law; she was led out by the hair,[^14] and the Lord danced joyfully. <!-- F72 F140 -->
 
-The Lord Himself sought out Srivasa's wife, sons, servants and maidservants, even his dogs and cats, to give them His
+The Lord Himself sought out Srivasa's wife, son, servants and maidservants, even his dogs and cats, to give them His
 prasada — but the mother-in-law, lacking simplicity, was left without the mercy of both the devotee and the Lord: the
 daughter received prasada, the mother did not. The lesson of this story: the Lord is merciful to the guileless; bodily
 kinship with a great devotee does not yet admit one to the society of devotees, and in bhakti bodily and social ties are
@@ -405,8 +405,9 @@ his good fortune, and the Lord called him over, placed His feet on his head and 
 austerity. Neither asceticism, nor milk, nor celibacy gives the right to the Lord's dance — the path to Him is surrender
 alone. <!-- F74 I5 -->
 
-The “Chaitanya-mangala” tells it differently: a brahmana was not admitted to the nightly kirtana and cursed the Lord —
-“May You never know the joys of worldly life!” — and the Lord danced for joy. <!-- F74 -->
+The “Chaitanya-mangala” tells it differently: a brahmana was not admitted to the nightly kirtana and cursed the Lord:
+“May Your worldly happiness perish!” — and the Lord gladly accepted the curse and consoled the repentant brahmana: it
+was what He Himself desired. <!-- F74 -->
 
 ## Other Pastimes in Navadvipa
 Gaurasundara wished to enact the pastimes of Vraja in the house of Chandrashekhara Acharya and said who would take
@@ -416,8 +417,8 @@ conquered our senses — how then can we watch?” The Lord smiled and said that
 nothing would disturb them — and that without Advaita and Srivasa He would not dance at all. <!-- F76 F129 -->
 
 Advaita was the jester (vidushaka), Haridasa the watchman (kotoval), Nityananda an old woman, Gadadhara a gopi; the Lord
-came out as Rukmini and at the end as Adya-shakti, the primordial energy. “Wake up — Srivasa will come out to dance as
-Narada!” (CB, Madhya 18.100). Srivasa came on stage as Narada, and Ramai as his disciple and companion; thus, under the
+came out as Rukmini and at the end as Adya-shakti, the primordial energy. Haridasa called out to everyone, “Awake! Awake!” — and Srivasa danced in the
+dress of Narada (CB, Madhya 18.100). Srivasa came on stage as Narada, and Ramai as his disciple and companion; thus, under the
 guise of a play, they revealed their former forms and the truth about Gaura. Srivasa-Narada said: “I have travelled the
 universes wishing to see Krishna; in Vaikuntha the doors are shut and the house is empty. I heard that Krishna has come
 to Nadia and, dressed as Lakshmi, will dance.” Shachi came to watch with Vishnupriya, and the Vaishnavas with their
@@ -447,16 +448,18 @@ the devotees into groups, and in the town kirtana Srivasa, at the Lord's command
 the Kazi broke the mridanga was later pointed out by Jagannatha Dasa Babaji: it is called “Khola-bhangar-danga,” “the
 place where the mridanga was broken,” and it is none other than Srivasa-angana. <!-- F81 F131 -->
 
-After Madhai wounded Nityananda, the Lord with the devotees brought the brothers Jagai and Madhai to Srivasa-angana, and
-there they became devotees. <!-- F130 -->
+When Nityananda and Haridasa, having run from two drunkards, told the Lord about them, Gangadasa and Srivasa, who were
+sitting before Him, explained who they were: “O Lord, their names are Jagai and Madhai. They are sons of a pious
+brahmana and were born here. Bad company has spoiled them” (CB, Madhya 13.121–123). And after Madhai wounded
+Nityananda, the Lord with the devotees brought the brothers to Srivasa-angana, and there they became devotees. <!-- F143 Q23 F130 -->
 
 Once the Lord displayed wondrous transformations in Shuklambara's house, and among those who saw them were Gadadhara,
 Sadashiva, Murari, Srivasa and Shriman; after Gaya, Shriman, Srivasa, Gadadhara and Sadashiva were with Shuklambara. <!-- F83 F139 -->
 
 In the time when Advaita lived in Navadvipa — from the Lord's self-revelation until His sannyasa — he came every day to
 the kirtana in Srivasa-angana. Once he danced there sadly, lamenting that he had not attained the highest. In loving
-delirium he said to the Lord: “You have made Nityananda the keeper of the treasures of prema, but You give it neither to
-me nor to Srivasa!” (CB, Madhya 17.16, 18). And when the Lord, having resolved to drown Himself, was saved by Nityananda
+delirium he said to the Lord: “Neither I nor Srivasa have attained love of God… We have no access to prema, while this
+Avadhuta has come and become its keeper” (CB, Madhya 17.22–23). And when the Lord, having resolved to drown Himself, was saved by Nityananda
 and Haridasa and took refuge with Nandana, the devotees suffered without Him. The Lord asked Nandana to bring Srivasa
 alone;[^17] Srivasa told Him that Advaita in despair was fasting, and begged the Lord to appear to him and to the others
 who were suffering, and the Lord went with him to Advaita. <!-- F83 F125 Q21 -->
@@ -738,13 +741,15 @@ attain. <!-- I10 I1 F5 F64 -->
     seem inadmissible — would shake his faith: Nityananda is the Lord's second body, and His acts are not subject to
     worldly judgement.
 [^11]: By another account, the crow carried off a vessel of ghee used for the worship of Vishnu in Srivasa's house.
-[^12]: When the kirtana began is told differently: by some accounts (so also the “Chaitanya-bhagavata,” Madhya 8.77–78),
-    in the evening of Ekadashi; by others, from the dawn of the day of hari-vasara.
+[^12]: By one of the biographies, the kirtana began in the evening of Ekadashi; the “Chaitanya-bhagavata” (Madhya 8.140)
+    and another biography say that the Lord danced from dawn.
 [^13]: One biography places the incident at Devananda's before the Lord's appearance; the others do not date it. How
     Devananda was freed from his offence is also told differently: he received the Lord's mercy by serving Vakreshvara —
     or he came to Srivasa and was forgiven by him.
 [^14]: By one account, Srivasa told another devotee to lead her out unnoticed by the rest; by another, all the devotees
-    searched, and Srivasa, finding his mother-in-law, was embarrassed and led her out by the hair himself.
+    searched, and Srivasa, finding his mother-in-law, was embarrassed and led her out by the hair himself. So too the first
+    biography says elsewhere that Srivasa himself led his mother-in-law out by the hair because she had displeased the
+    Lord, and adds that the deeds of such devotees are not to be measured by the standards of worldly society.
 [^15]: According to one of the biographies, the Kazi (Sirajuddin, Chand Kazi) came to Srivasa's house in particular, broke
     a mridanga there and ordered the devotees to be beaten.
 [^16]: The order of the procession is told differently: by one account, it was divided into three parts headed by Advaita,
