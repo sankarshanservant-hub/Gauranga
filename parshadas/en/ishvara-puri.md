@@ -80,17 +80,17 @@ forests without consolation. Consolation came when their guru met Nityananda. <!
 
 This happened somewhere in western India, in the years when Nityananda was travelling to the holy places. On seeing
 each other, Madhavendra and Nityananda fell unconscious with love, and Ishvara Puri, standing nearby with Brahmananda
-Puri and other disciples, wept — so overwhelmed was he by that love (CB, Adi 9). And when both came to themselves and
+Puri and other disciples, wept — so overwhelmed was he by that love (CB, Adi 9.161). And when both came to themselves and
 embraced tightly, Ishvara Puri and Brahmananda became attached to Nityananda with all their hearts: they saw how dear
-He was to their guru. Their sorrow was dispelled, and for many days Nityananda stayed with Madhavendra, Ishvara Puri
+He was to their guru (CB, Adi 9.170). Their sorrow was dispelled, and for many days Nityananda stayed with Madhavendra, Ishvara Puri
 and Brahmananda Puri in talks about Krishna. <!-- F15 F16 Q3 -->
 
-The highest service fell to him in Madhavendra's last days. Grown old, Madhavendra became infirm and could no longer
-move, and of all the disciples Ishvara Puri served him best. He never left his guru's side, chanted Krishna's name to
+The highest service fell to him in Madhavendra's last days. Madhavendra could no longer move, and of all the disciples
+Ishvara Puri served him best. He never left his guru's side, chanted Krishna's name to
 him and sang of Krishna's glories and pastimes, and when it was needed he cleaned away his urine and stool with his
 own hands (CC, Antya 8.26–27). The commentary of Srila Bhaktivedanta Svami, on which one of the biographies draws,
-explains: infirmity does not diminish a Vaishnava whom the Lord always protects — it only gives his disciples the
-chance to serve, and by the guru's mercy the disciple attains perfection. <!-- F18 F19 I3 -->
+explains: a Vaishnava is always protected by the Lord, and if he appears infirm, this only gives his disciples the
+chance to serve; and by the guru's mercy the disciple attains perfection. <!-- F18 F19 I3 -->
 
 Madhavendra answered this service with a blessing that shaped the whole of his disciple's later life:
 
@@ -112,8 +112,9 @@ from Krishna:
 “O merciful Lord, ever kind to the afflicted, O master of Mathura, when shall I see You again? In separation from You
 my heart is breaking. O Beloved! What am I to do?” (CC, Antya 8.32)
 
-This verse, “ayi dīna-dayārdra nātha,” has never since left the lips of pure devotees. The “Chaitanya-bhagavata” (Adi
-11.125) sums it up: Madhavendra joyfully gave the whole treasury of divine love to his disciple Ishvara Puri.
+This verse, “ayi dīna-dayārdra nātha,” has never since left the lips of pure devotees. The “Chaitanya-bhagavata” sums
+it up: “Sri Madhavendra Puri joyfully passed on the treasure of ecstatic love to his disciple — Sri Ishvara Puri” (CB,
+Adi 11.125–126).
 <!-- F22 F23 Q7 -->
 
 ## An Unrecognized Guest in Navadvipa
@@ -126,26 +127,26 @@ There, where Advaita performed His puja and where people gathered to speak of Kr
 humbly, almost timidly, to one side. Again and again Advaita looked up from His worship and gazed at him: the radiance
 of a Vaishnava cannot be hidden from a Vaishnava, and Advaita, Himself a disciple of Madhavendra, at once recognized in
 the stranger the familiar features of a godbrother. Concluding within Himself that this was a pure Vaishnava, He
-approached and said humbly, “Who are you, revered sir? It seems to me that you are a Vaishnava sannyasi.”
+approached and asked humbly, “Who are you, O dear sir? I think that you are a Vaishnava sannyasi” (CB, Adi 11.75).
 <!-- F26 F27 -->
 
-“I am lower than a shudra,” the guest replied. “I have come to see your feet.” A brahmana by birth and a sannyasi by
-ashrama, he spoke of himself so without a trace of pose — and by this a great Vaishnava is known. Humility is the true
-ornament of a Vaishnava, and he who was the jewel of the learned and the best of the renounced wore it naturally (CB,
-Adi 11.76). <!-- F28 I4 -->
+The guest replied: “I am lower than a shudra. I have come here only to see Your lotus feet” (CB, Adi 11.76). A
+brahmana by birth and a sannyasi by ashrama, he spoke of himself so without a trace of pose — and by this a great
+Vaishnava is known. Humility is the true ornament of a Vaishnava, and he who was the jewel of the learned and the best
+of the renounced wore it naturally. <!-- F28 I4 -->
 
 Mukunda Datta, a constant member of the gatherings at Advaita's house, sensed that a great Vaishnava was before them
 and, to reveal him, began to sing a verse about Krishna's glory. The moment the song touched Ishvara Puri's ears, he
-fell to the ground, and tears poured from his eyes in an unceasing stream. Advaita lifted him onto His lap — and soon
-was Himself drenched with his tears (CB, Adi 11.77–80). Waves of love rose in Advaita too; the devotees were struck
+fell to the ground, and tears poured from his eyes in an unceasing stream. Advaita hastily caught him in His arms
+(according to one account, lifted him onto His lap), and soon was Himself drenched with his tears (CB, Adi 11.77–80). Waves of love rose in Advaita too; the devotees were struck
 dumb with wonder and said they had never seen such a Vaishnava anywhere. Little by little they learned that this was
 Ishvara Puri, the dearest disciple of Madhavendra, and they cried out jubilantly, “Hari! Hari!” <!-- F29 F30 -->
 
 ## Nimai Pandita and the “Krishna-lilamrita”
-One day Nimai, returning from school, met Ishvara Puri on the road and bowed to him[^5]. The sannyasi was struck by
-His beauty and majestic gravity and asked, “What is Your name, best of brahmanas? Where is Your home? What books do You
-study and teach?” “This is Nimai Pandita,” the students answered, and Ishvara Puri rejoiced: “So You are Nimai
-Pandita!” (CB, Adi 11.85–91). <!-- F31 -->
+One day Nimai, returning from school, met Ishvara Puri on the road and, seeing His eternal servant, bowed down before
+him[^5]. The sannyasi was struck by His beauty and majestic gravity and asked, “O best of brahmanas, what is Your name?
+What do You study and what do You teach? Where is Your home?” Those accompanying the Lord answered, “This is Nimai
+Pandita,” and Ishvara Puri said joyfully, “So, You are Nimai!” (CB, Adi 11.85–91). <!-- F31 -->
 
 Nimai invited him to a meal and with great love brought him to His home; according to one account, He Himself washed
 His guest's feet, saying, “Sripada, be merciful.” Mother Shachi cooked bhoga for Krishna, and Ishvara Puri honoured
@@ -166,9 +167,9 @@ Krishna-lilamrita,” an account of Krishna's deeds. The “Bhakti-ratnakara” 
 house of Gopinatha Acharya, where Vishvambhara would come from time to time, that Ishvara Puri wrote it.
 <!-- F36 F37 Q15 -->
 
-One evening, when the Lord came as usual, Ishvara Puri handed Him the manuscript: “You are the greatest of scholars.
-I have written a book about Krishna; listen to it and point out my mistakes — by this You will make me very happy”
-(CB, Adi 11.103–104). The Lord's answer is one of the most precious teachings of the “Chaitanya-bhagavata”:
+One evening, when the Lord came as usual, Ishvara Puri smilingly handed Him the manuscript: “You are the greatest of
+scholars. I have written a book about the glories of Krishna. Please listen to it and note the mistakes I have made. By
+this You will give me the greatest joy” (CB, Adi 11.103–104). The Lord's answer is one of the most precious teachings of the “Chaitanya-bhagavata”:
 
 “One who sees faults in the way a devotee speaks of Krishna is a sinner. Krishna is always pleased with the poetic
 praises written by His devotee, even if they contain some imperfections. The uneducated will say ‘vishnaya,’ and the
@@ -179,49 +180,56 @@ One who looks for faults in a devotee is himself full of faults; who would dare 
 pastimes born of love (CB, Adi 11.109–110)? The words of devotees do not belong to this world: their letters are taken
 from the alphabet of Krishna Himself, and therefore they are perfect. <!-- F38 F39 Q6 -->
 
-At these words it was as though nectar spread through Ishvara Puri's heart. Smiling, he still insisted: “You will not
-be blamed for it — do tell me where the mistake is.” From then on they spent about an hour every evening in such
-conversations. Once the Lord pointed out a grammatical irregularity: a verbal root, He said, stood in the wrong voice.
+At these words it was as though nectar spread through Ishvara Puri's heart. Smiling, he still insisted: “There will be
+nothing wrong if You point out the possible mistakes in my book” (CB, Adi 11.112). From then on Nimai spent an hour or
+two with him every day in such conversations (CB, Adi 11.113). Once the Lord pointed out a grammatical irregularity: a verbal root, He said, stood in the wrong voice.
 Ishvara Puri, himself a great scholar, justified his usage the next day by all the rules, and the Lord, acknowledging
 him right, looked for no more faults in the book[^8]: the glory of His devotee always pleases Him more than His own
-(CB, Adi 11.112–121). <!-- F40 F41 F42 I5 -->
+(CB, Adi 11.114–121). <!-- F40 F41 F42 I5 -->
 
-According to one of the biographies, Ishvara Puri then understood that Nimai was the Supreme Lord Himself[^9], and a
-few days later, with a few devotees, he left Navadvipa to continue his pilgrimage: love, which does not let one stay
-long in one place, led him on (CB, Adi 11.122–123). <!-- F43 -->
+According to one of the biographies, Ishvara Puri then understood that Nimai was the Supreme Lord Himself[^9]. For
+several months he relished learned conversations with Gaurasundara, and then — according to that same biography, with
+a few devotees — he left Navadvipa to continue his pilgrimage: love, which does not let one stay long in one place,
+led him on (CB, Adi 11.122–123). <!-- F43 -->
 
 ## Gaya
 Time passed, and the Lord came to Gaya to perform the gaya-shraddha for His recently departed father, Jagannatha
 Mishra. Here He unexpectedly met Ishvara Puri (CC, Adi 17.8): no one had known beforehand that he was in Gaya — the Lord Himself had
-moved his mind to come there. According to one account, having completed the rites, the Lord came to
-the feet of Vishnu, drowned in love and fell unconscious; at that very moment, by higher arrangement, Ishvara Puri
-approached and, seeing Him, was struck dumb. Chandrashekhara Acharya was nearby. Coming to Himself, the Lord saw
-Ishvara Puri and bowed to him; they embraced in great joy, and the tears of each bathed the other (CB, Adi 17.49).
+moved his mind to come there. At the feet of Vishnu, hearing the brahmanas speak of the glory of those feet, the Lord
+drowned in love, and at that moment, obeying His divine will, Ishvara Puri came there (CB, Adi 17.42–46). According to
+one account, the Lord then fell unconscious, and Ishvara Puri, seeing Him, was struck dumb; Chandrashekhara Acharya was
+nearby. Coming to Himself, the Lord saw Ishvara Puri and bowed to him; they embraced in great joy, and the tears of
+each bathed the other (CB, Adi 17.47–49).
 <!-- F44 F45 Q8 -->
 
-Then the Lord said: “Seeing your feet, I have fulfilled the purpose of My journey to Gaya. The pinda liberates only
-those ancestors for whom it is offered, but a single glance of yours frees millions from all bonds. The holy places
-are not equal to you — it is you who sanctify them; they pray for the dust of your feet — and so do I. Save Me from
-the ocean of existence: I give this body to you. Let Me drink to My fill the honey of Krishna's lotus feet — that is
-the gift I ask” (CB, Adi 17.50–55). <!-- F46 Q9 -->
+Then the Lord said: “My journey to Gaya reached its goal the moment I saw your lotus feet. If a person makes an
+offering to the ancestors at a holy place, they attain liberation. In this way only those to whom the sanctified food
+is offered can be liberated. But it is enough simply to see you, and millions of ancestors are at once freed from
+material bondage. The holy places cannot compare with you, for you are able to purify them. Please save Me from the
+ocean of material existence. I surrender to you! I beg you: let Me drink the nectar of Krishna's lotus feet” (CB, Adi
+17.50–55). According to one of the biographies, the Lord also said: the holy places pray for the dust of your feet —
+and so do I; I give this body to you. <!-- F46 Q9 -->
 
-Ishvara Puri replied: “Listen, Pandita! I know for certain that You are of the Lord Himself[^10]; otherwise where would
-such learning and such a nature come from? Last night I had a wonderful dream, and today I have obtained its fruit.
-Every moment beside You I am in the highest bliss. Since the day I saw You in Nadia I have thought of nothing else;
-seeing You, I see Krishna.” The Lord smiled and answered, “This is My great good fortune” (CB, Adi 17.56–62).
+Ishvara Puri replied that he knew for certain that the One before him was of the Lord Himself[^10]; otherwise where
+would such learning and such qualities come from? And he went on: “Last night I had a wondrous dream, and today I have
+obtained its fruit. O Pandita! Every moment of Your company I experience the greatest bliss. Since the day I saw You in
+Nadia, there has been no room left in my heart for any other attraction. Believe me, I speak the truth: when I see
+You, I remember Lord Krishna.” Hearing the truthful words of His beloved devotee, the Lord smiled and said, “I am
+extraordinarily fortunate” (CB, Adi 17.56–62).
 <!-- F47 F48 Q10 -->
 
-With Ishvara Puri's permission the Lord went to perform the shraddha and the accompanying rites. Having completed
+With Ishvara Puri's permission the Lord — in the role of an ordinary pilgrim who had come to honour His departed
+father — went to perform the shraddha and the accompanying rites. Having completed
 them, He returned to His lodging, rested and began to cook. Just as the food was ready, Ishvara Puri arrived, chanting
 the names of Krishna. The Lord gave him everything He had cooked for Himself; the guest offered to share the food
 equally, but the Lord insisted that he eat alone, and began to cook again for Himself. Afterwards He Himself anointed
 His guest's body with sandalwood paste (CB, Adi 17.80–96)[^11]. Thus the Lord showed perfectly how to serve the guru:
 service to the guru is the gateway to devotion, and one who does not know how to honour a saint will not attain
-prema. <!-- F49 F50 I7 -->
+prema. <!-- F49 F50 F79 I7 -->
 
-The next day the Lord came to Ishvara Puri alone and with deep reverence asked him for mantra-diksha. “What to speak
-of a mantra?” he answered. “To You I am ready to give my very life” (CB, Adi 17.104–106). And the Lord, “wishing to
-teach the whole world,” accepted from him the ten-syllable mantra (CB, Adi 17.107)[^12]. <!-- F51 F52 Q11 -->
+The next day the Lord came to Ishvara Puri alone and with deep reverence asked him for mantra-diksha. Ishvara Puri
+answered: “What to speak of a mantra? I am ready to give You my life” (CB, Adi 17.105–106). And the Lord, “wishing to
+teach the whole world,” accepted from him the ten-syllable mantra (CB, Adi 17.107)[^12]. <!-- F51 F52 F80 Q11 -->
 
 The Lord, Bhagavan Himself, needs no teacher. But He became a disciple so that the world would understand: without
 taking shelter of a genuine guru there is neither pure devotion nor the highest good, and one must know how to conduct
@@ -231,9 +239,10 @@ Navadvipa. <!-- F53 I1 F54 -->
 
 Of what followed the “Charitamrita” speaks briefly: “And immediately after initiation by the Guru, love for Krishna
 manifested in Him. And when He returned home, it took complete possession of Him” (CC, Adi 17.9). With Gaya begin the
-pastimes of love and the sankirtana; the place of initiation at the feet of Vishnu in Gaya was not forgotten later —
-it is recalled in accounts of Krishnadasa and Srinivasa — and Madhavendra came to be spoken of as the one whose
-disciple Ishvara Puri gave the Lord diksha in Gaya. <!-- F55 -->
+pastimes of love and the sankirtana. The place of initiation at the feet of Vishnu in Gaya was not forgotten later:
+on their way to Vrindavana both Srinivasa Acharya and Shyamananda (Duhkhi Krishnadasa) bowed there to the feet of
+Vishnu — Shyamananda, remembering how Ishvara Puri had given the Lord the mantra, was overwhelmed with ecstasy; and
+Madhavendra came to be spoken of as the one whose disciple Ishvara Puri gave the Lord diksha in Gaya. <!-- F55 -->
 
 ## The Dust of Kumarahatta
 The Lord did not forget His guru's homeland either. He came to Kumarahatta[^13] and, as the “Chaitanya-bhagavata”
@@ -270,14 +279,14 @@ servant; both served their guru as long as he remained in this world.
 Chaitanya there.” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
 
 Govinda set out at once and found the Lord already returned from His journey through the South; Kashishvara came
-later, after first visiting the holy places. “My name is Govinda, and I am the servant of Ishvara Puri,” the first
-said. “Just before his departure from this world he ordered me to find Sri Krishna Chaitanya and become His servant”
-(CC, Madhya 10.132–133). The Lord replied: “Sri Ishvara Puri always treated Me with parental love. Therefore in his
+later, after first visiting the holy places. Govinda said: “My name is Govinda and I am the servant of Ishvara Puri.
+By the order of my guru I have come to You. Just before his departure from this world Ishvara Puri ordered me to find
+Sri Krishna Chaitanya and become His servant” (CC, Madhya 10.132–133). The Lord replied: “Sri Ishvara Puri always treated Me with parental love. Therefore in his
 sending you to Me I see his causeless mercy” (CC, Madhya 10.135). <!-- F61 Q13 -->
 
 Yet the Lord hesitated to accept their service: they were His godbrothers, servants of His guru, and themselves worthy
 of respect. Sarvabhauma persuaded Him that a guru's order must not be broken, and the Lord, taking into account
-Ishvara Puri's command, agreed. At that time Sarvabhauma also asked why Puri Gosvami had kept as his servant a man from
+Ishvara Puri's command, agreed (CC, Madhya 10.142–145). At that time Sarvabhauma also asked why Puri Gosvami had kept as his servant a man from
 a shudra family. The Lord answered: those like Ishvara Puri are independent, like the Supreme Himself; their mercy is
 not subject to Vedic injunctions and does not look at caste — for Krishna, too, accepted food in the house of Vidura,
 a shudra by his mother. Krishna's mercy is guided by love alone, and service in love is millions of times sweeter than
@@ -315,7 +324,8 @@ meetings with the Lord and with Madhavendra. But even this little is enough. By 
 became an “ocean of love” and the heir to Madhavendra's treasury; in him the sprout of devotion that first sprouted in
 his guru grew strong and became a support for the trunk — Mahaprabhu Himself. His humility (“I am lower than a
 shudra”), his hidden ecstasy that he never put on show, his love for Gadadhara and for Nityananda — these are the
-traits of a Vaishnava of whom the Lord could say, “a single glance of yours frees millions.” <!-- F20 F24 F53 -->
+traits of a Vaishnava of whom the Lord said, “It is enough simply to see you, and millions of ancestors are at once
+freed from material bondage.” <!-- F20 F24 F53 -->
 
 And yet his chief glory is the one the Lord Himself bestowed on him. Accepting the mantra from him, bowing to the dust
 of his homeland, accepting the service of his disciples as the guru's will, Sri Chaitanya showed the world what it
@@ -332,7 +342,7 @@ Puri as His guru, flooded the world, both material and spiritual” (GGD 25). <!
 [^4]: One of the biographies gives the reference here as “Charitamrita,” Madhya 8.29 — it should read Antya 8.29;
     another cites Antya 8.32 for the story of the two disciples, though that is the number of the verse “ayi
     dīna-dayārdra,” while the two witnesses are spoken of in Antya 8.30.
-[^5]: So in the “Chaitanya-bhagavata” (Adi 11.85) and in two biographies; according to the third, Gauranga first saw
+[^5]: So in the “Chaitanya-bhagavata” (Adi 11.85–86) and in two biographies; according to the third, Gauranga first saw
     him in the same place, at Advaita's house.
 [^6]: According to one of the biographies — a month.
 [^7]: According to the “Chaitanya-bhagavata” (Adi 11.101) — in the evening, after lessons; one biography says the Lord
@@ -343,8 +353,8 @@ Puri as His guru, flooded the world, both material and spiritual” (GGD 25). <!
     corrections in it with His own hand.
 [^9]: The “Chaitanya-bhagavata” (Adi 11.102), on the contrary, says that in Navadvipa Ishvara Puri loved Nimai without
     yet understanding that the Supreme Lord Himself was before him; compare his words in Gaya: “Since the day I saw You
-    in Nadia I have thought of nothing else.”
-[^10]: The original of the “Chaitanya-bhagavata” (Adi 17.56) reads *tumī ye īśvara-aṁśa*: “You are an aṁśa (part,
+    in Nadia, there has been no room left in my heart for any other attraction” (Adi 17.60).
+[^10]: The original of the “Chaitanya-bhagavata” (Adi 17.56) reads *tumi ye īśvara-aṁśa*: “You are an aṁśa (part,
     manifestation) of the Lord”; our translation has “an expansion of the Supreme Personality of Godhead.” One of the
     biographies renders these words as an acknowledgement of Bhagavan Himself in full, another as “a deity who has
     descended among men.” The guru speaks with restraint: the Lord is still concealing Himself in the role of a
@@ -353,8 +363,11 @@ Puri as His guru, flooded the world, both material and spiritual” (GGD 25). <!
     the Lord, and He begged him to stay for a meal, cooked and fed him Himself, anointed him with sandalwood and
     offered him a garland. The “Chaitanya-bhagavata” and the other biographies place it before the initiation.
 [^12]: So in the “Chaitanya-bhagavata” and in two biographies; the third calls the mantra “gayatri” and gives the
-    Lord's request in the words “Without it My mind is restless”; in a retelling of Lochana Dasa's
-    “Chaitanya-mangala” it is the “Krishna-mantra.”
+    Lord's request in the words “Without it My mind is restless,” and places the request a few days after the meeting.
+    In Lochana Dasa's “Chaitanya-mangala” it is “the mantra of Krishna,” “the great mantra of Gopinatha”; there the
+    Lord meets Ishvara Puri on the way to the feet of Vishnu, before the rites, begs him for mercy and at once receives
+    the mantra — and the bhavas of Vraja awaken in Him; a few days later He returns home (CM, Adi-khanda, part 15, vv.
+    57–75).
 [^13]: The sources differ as to when this happened. The “Chaitanya-bhagavata” tells of it in the chapter on Gaya;
     according to one biography, the Lord came to Kumarahatta on His way back from Gaya to Navadvipa and watered the
     ground with His tears; according to another — on the way to Puri, after which He went to Srivasa's house;
