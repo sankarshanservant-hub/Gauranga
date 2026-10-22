@@ -16,10 +16,12 @@ cherished design, and why his name stands first among the names of the six Gosva
 In the “Chaitanya-chandrodaya-nataka,” Kavi Karnapura places in the mouth of Sarvabhauma Bhattacharya a verse that
 lists Rupa's virtues one after another:
 
-“In Rupa — dear, beloved, whose very nature is prema, naturally beautiful, like Him, one with Him and the image of
-His vilasa — the Lord unfolded bhakti-rasa.” (“Chaitanya-chandrodaya-nataka,” 9.30)[^1]
+“Into Rupa — dear by his very nature, beloved by his very nature, by his very nature love, beautiful from birth,
+like the Lord Himself — the Lord, who is one in His form, placed the form of His own pastimes.”
+(“Chaitanya-chandrodaya-nataka,” 9.30)[^1]
 
-In other words, Rupa is the Lord's dear devotee, the object of His deep love and tenderness, wholly filled with
+The word “rupa” here is both “form” and Rupa's name; the sense of the verse is that the Lord enabled Rupa to understand and describe His lilas.
+One biography explains the epithets of the verse thus: Rupa is the Lord's dear devotee, the object of His deep love and tenderness, wholly filled with
 prema, non-different from Him, like Him, His intimate associate and the image of His vilasa; and in him the Lord
 revealed the scripture of bhakti-rasa. In Krishna's eternal pastimes he is Rupa-manjari, of which more will be said
 at the end of this article. <!-- F316 F317 Q63 Q1 -->
@@ -2130,9 +2132,9 @@ Rupa-manjari, and Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's 
 Information about Rupa is also found in the articles on Madhavendra Puri, Nityananda, Gadadhara Pandita, Svarupa Damodara,
 Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 F624 F626 -->
 
-[^1]: The number follows our translation of the drama; one biography gives the verse as 9.39 (incorrectly). Here the
-    verse is rendered as another biography understands it; closer to the letter: “…the Lord, who is one in His form,
-    placed in Rupa the form of His own pastimes,” that is, He enabled him to understand and describe His lilas. The
+[^1]: The verse follows our translation of the drama, as does the number; one biography gives the verse as 9.39
+    (incorrectly). Another biography renders the verse thus: “In Rupa — dear, beloved, whose very nature is prema,
+    naturally beautiful, like Him, one with Him and the image of His vilasa — the Lord unfolded bhakti-rasa.” The
     first biography also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
     Lord expounded the science of rasa to Rupa as to no one else, because Rupa was the dear friend of Svarupa Damodara,
     in essence the Lord's beloved, by nature prema itself, naturally beautiful; Mahaprabhu knew him to be like Himself,
