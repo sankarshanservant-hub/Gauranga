@@ -1,0 +1,117 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/pundarika-vidyanidhi.md и lila-db.
+id: "@pundarika-vidyanidhi"
+names:
+  ru: "Пундарика Видьянидхи"
+  en: "Pundarika Vidyanidhi"
+  variants: ["Видьянидхи", "Преманидхи («сокровищница любви»)", "Пундарикакша (ГГД)", "Видьянидхи-махашая", "Ачарьянидхи (только T)"]
+  facts: [F1, F4, F47]
+kind: associate
+circle: [elders, navadvipa, puri]
+period: [P00, P01, P07, P12, P14]
+period_note: "Из старших, посланных прежде Господа (F7); ученик Мадхавендры Пури (F16); в Навадвипе Господь тоскует о нём и являет его славу, он приезжает, даёт дикшу Гададхаре, бывает на киртанах, в махапракаше и при спасении Джагая и Мадхая (F18–F50); в Пури — ежегодно с преданными Гауды, водные игры со Сварупой, вторичная дикша Гададхары, Одана-шашти (F52–F66). «Отец», лично — не в детстве Господа: Господь впервые видит его в Навадвипе (F45–F47)."
+life:
+  appearance:
+    date: "шукла-панчами месяца магха (Мадхава-маса), Шри Кришна Васанта-панчами; по календарю ШЧСМ — 03.02.2025, 23.01.2026, 12.02.2027"
+    tithi: "шукла-панчами (васанта-панчами), магха"
+    place: "#chakrashala"
+    conf: "титхи и место — только T 52; B и M не называют; календарь Шри Чайтанья Сарасват Матха даёт ту же титхи — совпадает с T"
+    facts: [F11]
+    note: "Календарь Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-10-22): «День явления Шрилы Пундарика Видьянидхи» — Мадхава-маса, гаура-панчами (Шри Кришна Васанта-панчами). Год явления источники не называют."
+  disappearance:
+    date: ""
+    conf: "день, год и место ухода ни одна книга не называет; в календаре ШЧСМ дня ухода нет"
+    facts: []
+origin:
+  places: ["#chattagrama", "#chakrashala", "#meghala", "#dhaka"]
+  family: ["@baneshvara-pundarika", "@gangadevi-pundarika"]
+  varna: "варендра-брахман (T 52; «Према-виласа» 22 по T); B 69 — Гангопадхьяя"
+  facts: [F9, F10, F11, F12, F13, F14]
+  note: "Родина рода — Багхия (Дакка) (T 52); родился в Чакрашале (T); шрипат — деревня Мегхала / Мекхала у Хатхазари (B 748, 69, 853; T 43, 52, 85); второй дом — у Ганги в Майяпуре (#house-pundarika)."
+relations:
+  - {type: father, who: "@baneshvara-pundarika", facts: [F9, F10], note: "Банешвара (B 748, 69; T 52); по «другому мнению» (только B 748) — Шукламбара."}
+  - {type: mother, who: "@gangadevi-pundarika", facts: [F9]}
+  - {type: spouse, who: "@ratnavati", facts: [F5, F9], note: "Только B 748 и T 52 делают Ратнавати его женой; естественное чтение ГГД 57, T 44 и M — Ратнавати жена Мадхавы Мишры, мать Гададхары (⚠Б2). Спорно."}
+  - {type: guru, who: "@madhavendra-puri", facts: [F4, F13, F16, F17], note: "Ученик Мадхавендры Пури (B 748, 69, 27; T 5, 52, 53); по T — посвящён одновременно с Адвайтой."}
+  - {type: disciple, who: "@gadadhara-pandita", facts: [F32, F33, F34, F35, F36, F37, F38, F39, F40, F41, F42, F43, F56, F57], events: [ev-gadadhara-initiation-pundarika],
+     note: "Дал Гададхаре мантру в Навадвипе (ЧБ Мадхья 7) и вновь — в Пури (ЧБ Антья 10.79–80). В Кришна-лиле — отец и дочь (Вришабхану и Радха, T 54)."}
+  - {type: other, who: "@mahaprabhu", facts: [F3, F6, F16, F18, F19, F20, F21, F27, F45, F46, F47, F48, F49, F50, F52, F57, F67], events: [ev-gadadhara-initiation-pundarika, ev-mahaprakasha-abhisheka, ev-tattva-bhakti-kalpataru],
+     note: "Господь звал его «отцом» и «Преманидхи», плакал, произнося его имя, и почитал как ученика Мадхавендры — собрата Своего гуру (⚠Б5)."}
+  - {type: friend, who: "@svarupa-damodara", facts: [F53, F55, F59, F60, F65], events: [ev-narendra-jala-keli, ev-pundarika-odana-shashthi-slap],
+     note: "Задушевный друг (B 69, 211); жили вместе в Нилачале, вместе ходили на даршан Джаганнатхи, брызгались водой на Нарендре; Сварупа ликовал о пощёчинах-милости."}
+  - {type: friend, who: "@mukunda-datta", facts: [F15, F30, F31, F32, F33, F36, F39], note: "Земляк из Чаттаграма; один знал его как вайшнава, привёл к нему Гададхару и пением о бхакти открыл его прему."}
+  - {type: other, who: "@vasudeva-datta", facts: [F12, F15, F30], note: "Земляк; вместе с Мукундой знал его славу (B 749, 855); Мекхала — в 10 крошах от Чханхары."}
+  - {type: friend, who: "@madhava-mishra", facts: [F5, F15], note: "Отец Гададхары — его добрый друг (T 53); по ГГД 57 — особое проявление Вришабхану."}
+  - {type: companion, who: "@advaita", facts: [F7, F16, F52], event: ev-gauda-devotees-yearly-visit, note: "По T — посвящён у Мадхавендры одновременно с Адвайтой; ежегодно шёл в Нилачалу в группе во главе с Адвайтой."}
+  - {type: companion, who: "@srivasa", facts: [F48, F52], note: "Каждую ночь — на киртанах в доме Шривасы; в третий год шёл с ним в Нилачалу (ЧЧ Мадхья 16.16)."}
+  - {type: companion, who: "@govinda-ghosha", facts: [F52], note: "ЧЧ Мадхья 16.16 (B 848)."}
+  - {type: companion, who: "@chandrashekhara-acharya", facts: [F48, F52], note: "Ачарьяратна — в списке идущих в Нилачалу (ЧЧ Мадхья 16.16); киртаны у Шривасы и Чандрашекхары (T 106)."}
+  - {type: companion, who: "@gangadasa-pandita", facts: [F48, F50], note: "Вместе названы на киртанах и при Джагае и Мадхае (ЧБ Мадхья 13.238–240)."}
+  - {type: met, who: "@jagai-madhai", facts: [F50], event: ev-jagai-madhai-deliverance}
+  - {type: deity-served, who: "@jagannatha-deity", facts: [F55, F58, F59, F60, F61, F62, F63, F64, F66], event: ev-pundarika-odana-shashthi-slap,
+     note: "Ежедневный даршан на рассвете; Одана-шашти: разыгранное осуждение крахмальной ткани и пощёчины во сне — милость (⚠Б3)."}
+  - {type: other, who: "@balarama", facts: [F62, F63, F66], event: ev-pundarika-odana-shashthi-slap, note: "Вместе с Джаганнатхой бил его во сне по щекам (ЧЧ Мадхья 16.80; ЧБ Антья 10)."}
+  - {type: other, who: "@vallabhacharya", facts: [F17], note: "B 27: цепь гуру Валлабхи — Мадхавендра → Пундарика → Гададхара → Валлабха (против «Чаураси байтхак»)."}
+  - {type: other, who: "@vrindavana-dasa", facts: [F67], note: "Описал его жизнь (ЧБ Мадхья 7, Антья 10) и плод слушания о нём."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F44, F56], note: "Комментарии «Гаудия-бхашьи» (по T 54–55): вайшнава не узнать по внешности; мантра — шабда-брахман."}
+  - {type: other, who: "@ramananda-raya", facts: [F68], note: "B 689–690: та же подлинная вайрагья, хоть внешне в богатстве."}
+identities:
+  - in: krishna-lila
+    as: "Вришабхану, царь, отец Шримати Радхарани"
+    source: "ГГД 54 (наш перевод)"
+    level: A
+    facts: [F2, F43]
+    variants: ["ГГД 55: Чайтанья звал его «отцом» — T 52: в настроении Кришны в разлуке с Радхой ≠ T 54 и наш перевод ГГД 55: в настроении Радхи (F3).", "T 54: Гададхара — Радха, отсюда любовь «прежнего родства»."]
+  - in: krishna-lila
+    as: "Мадхава Мишра — его особое проявление (как Вришабхану); Ратнавати — Киртида"
+    source: "ГГД 57 (наш перевод)"
+    level: A
+    facts: [F5, F9]
+    variants: ["Чья жена Ратнавати: B 748, T 52 — Пундарики; ГГД 57 (естественное чтение), T 44, M — Мадхавы Мишры."]
+  - in: tattva
+    as: "из старших (гуру-варга), посланных Кришной прежде Себя; третья большая ветвь древа Чайтаньи"
+    source: "ЧЧ Ади 13.52–54; Ади 10.14"
+    level: A
+    facts: [F6, F7]
+    events: [ev-associates-descend, ev-tattva-bhakti-kalpataru]
+events:
+  - ev-associates-descend
+  - ev-gadadhara-initiation-pundarika
+  - ev-mahaprakasha-abhisheka
+  - ev-jagai-madhai-deliverance
+  - ev-jala-keli-navadvipa
+  - ev-radhashtami-navadvipa
+  - ev-gauda-devotees-yearly-visit
+  - ev-gundicha-marjana
+  - ev-narendra-jala-keli
+  - ev-pundarika-odana-shashthi-slap
+  - ev-tattva-bhakti-kalpataru
+events_note: "ev-radhashtami-navadvipa — по БР 12.3177 у T (в его доме), не сверено (F51). Вне реестра (только lila-db): ev-devotees-gather-nilachala, ev-gauda-devotees-arrive-puri, ev-shantipura-reunion, ev-prataparudra-watches-devotees-roof, ev-gadadhara-birth («Према-виласа») — см. «Не взято»."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#chattagrama", "#chakrashala", "#meghala", "#dhaka", "#navadvipa", "#house-pundarika", "#ganga", "#house-srivasa", "#puri", "#narendra-sarovara", "#gundicha"]
+places_facts: [F10, F11, F12, F13, F14, F24, F25, F28, F48, F51, F52, F53, F54, F55]
+character:
+  - {trait: "сокровенный преданный: под обликом богача-мирянина скрывал непрестанную прему, обманывая тех, кто судит по виду (⚠Б1)", facts: [F21, F22, F23, F29, F34, F44, F68]}
+  - {trait: "почтение к Ганге: не входил в неё ногами, ходил на даршан ночью, пил её воду прежде поклонения", facts: [F24, F25, F26]}
+  - {trait: "мгновенный экстаз при слове о милости Кришны: восемь саттвика-бхав, без чувств две прахары", facts: [F36, F37, F38]}
+  - {trait: "радость гуру о достойном ученике", facts: [F40, F42, F57], events: [ev-gadadhara-initiation-pundarika]}
+  - {trait: "строгость к чистоте поклонения — и радость о наказании Господа как о милости (лила, ⚠Б3)", facts: [F59, F60, F61, F62, F64, F65], events: [ev-pundarika-odana-shashthi-slap]}
+  - {trait: "сакхья с Сварупой Дамодарой: беседы о Кришне день и ночь, игры в воде", facts: [F53, F55, F65]}
+significance: {facts: [F6, F20, F66, F67, I1, I2, I3, I4, I5, I6, I7]}
+sources:
+  T: "52–55 (гл.); 4, 5, 22, 40, 43, 45–46, 85, 106, 109, 134"
+  M: "pdf 37 (вне глав)"
+  B: "748–753 (гл.); 27, 69, 140–141, 211, 689–690, 810–811, 848, 853, 855"
+  other: ["ГГД 54–57", "ЧЧ Ади 10.14, 13.52–54", "ЧЧ Мадхья 1.255, 16.16, 16.76–81", "ЧЧ Антья 7.48", "ЧБ Мадхья 7.11–143, 8.112–116, 13.238–240, 13.335–337", "ЧБ Антья 8.124, 10.23–26, 10.79–80, 10.101–181", "Бхаг. 3.2.23, 10.6.35", "«Према-виласа» 22 (по T)", "БР 12.3177 (по T)", "«Гаудия-бхашья» к ЧБ (по T)"]
+article: {ru: "parshadas/ru/pundarika-vidyanidhi.md", en: "parshadas/en/pundarika-vidyanidhi.md"}
+open_questions:
+  - "Чья жена Ратнавати (Киртида): Пундарики (B 748, T 52) или Мадхавы Мишры (ГГД 57, T 44, M) (F5, F9)."
+  - "Отец — Банешвара или Шукламбара («другое мнение», только B 748) (F9)."
+  - "В каком настроении Господь звал его «отцом»: Кришны в разлуке с Радхой (T 52) или Радхи (T 54, ГГД 55) (F3)."
+  - "Место рождения: Чакрашала (T) — B и M не называют; шрипат Мегхала / Мекхала — написание расходится (F11, F12)."
+  - "Кто посоветовал Гададхаре дикшу: сам Гададхара (B, T 53, M) или Господь (T 46) (F41); когда Пундарика пришёл к Господу — в ту же ночь (B 811) или «однажды ночью» (ЧБ) (F45)."
+  - "Водный бой со Сварупой: пора Ратха-ятры (B 751) или Чандана-ятра (T 54) (F53)."
+  - "«Ачарьянидхи» (ЧЧ Антья 7.48) — он ли (только T 109) (F1, F69)."
+  - "Радхаштами в его доме — БР 12.3177 по T, не сверено (F51)."
+  - "Год явления, день, год и место ухода неизвестны; дня ухода в календаре ШЧСМ нет."

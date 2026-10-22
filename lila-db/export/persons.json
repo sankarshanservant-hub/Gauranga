@@ -4169,6 +4169,10 @@
     "type": "other"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
     "from": "@raghunandana",
     "type": "companion"
    },
@@ -5363,6 +5367,10 @@
   ],
   "related_by": [
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
     "from": "@sundarananda",
     "type": "companion"
    }
@@ -5751,6 +5759,10 @@
    {
     "from": "@nityananda",
     "type": "met"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "deity-served"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -12000,6 +12012,10 @@
     "type": "companion"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "companion"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -13034,6 +13050,10 @@
     "type": "other"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "disciple"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -14002,6 +14022,10 @@
    {
     "from": "@nityananda",
     "type": "host"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "companion"
    },
    {
     "from": "@shachi",
@@ -15169,6 +15193,10 @@
     "type": "companion"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "friend"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -16040,6 +16068,10 @@
     "type": "other"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "companion"
+   },
+   {
     "from": "@shachi",
     "type": "in-law"
    },
@@ -16610,6 +16642,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "companion"
    }
   ]
  },
@@ -17272,6 +17308,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "guru"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
     "type": "guru"
    },
    {
@@ -18261,6 +18301,10 @@
     "type": "other"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "companion"
    },
@@ -18885,6 +18929,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "friend"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -20964,6 +21012,10 @@
     "type": "opposed"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "met"
+   },
+   {
     "from": "@vakreshvara",
     "type": "other"
    }
@@ -21733,6 +21785,10 @@
     "type": "disciple"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -22017,6 +22073,10 @@
   "related_by": [
    {
     "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
    {
@@ -24464,6 +24524,10 @@
   ],
   "related_by": [
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -26147,6 +26211,172 @@
    "ev-gadadhara-reads-bhagavata-puri",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Вришабхану, царь, отец Шримати Радхарани (ГГД 54) и др.; гуру — Мадхавендра Пури; происхождение — Чаттаграм (Читтагонг); явление — шукла-панчами, магха",
+  "card": "parshadas/cards/pundarika-vidyanidhi.yaml",
+  "article": {
+   "ru": "parshadas/ru/pundarika-vidyanidhi.md",
+   "en": "parshadas/en/pundarika-vidyanidhi.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "elders",
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "шукла-панчами месяца магха (Мадхава-маса), Шри Кришна Васанта-панчами; по календарю ШЧСМ — 03.02.2025, 23.01.2026, 12.02.2027",
+    "tithi": "шукла-панчами (васанта-панчами), магха",
+    "place": "#chakrashala",
+    "conf": "титхи и место — только T 52; B и M не называют; календарь Шри Чайтанья Сарасват Матха даёт ту же титхи — совпадает с T",
+    "facts": [
+     "F11"
+    ],
+    "note": "Календарь Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-10-22): «День явления Шрилы Пундарика Видьянидхи» — Мадхава-маса, гаура-панчами (Шри Кришна Васанта-панчами). Год явления источники не называют."
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода ни одна книга не называет; в календаре ШЧСМ дня ухода нет",
+    "facts": []
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Вришабхану, царь, отец Шримати Радхарани",
+    "source": "ГГД 54 (наш перевод)",
+    "level": "A",
+    "variants": [
+     "ГГД 55: Чайтанья звал его «отцом» — T 52: в настроении Кришны в разлуке с Радхой ≠ T 54 и наш перевод ГГД 55: в настроении Радхи (F3).",
+     "T 54: Гададхара — Радха, отсюда любовь «прежнего родства»."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "Мадхава Мишра — его особое проявление (как Вришабхану); Ратнавати — Киртида",
+    "source": "ГГД 57 (наш перевод)",
+    "level": "A",
+    "variants": [
+     "Чья жена Ратнавати: B 748, T 52 — Пундарики; ГГД 57 (естественное чтение), T 44, M — Мадхавы Мишры."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "из старших (гуру-варга), посланных Кришной прежде Себя; третья большая ветвь древа Чайтаньи",
+    "source": "ЧЧ Ади 13.52–54; Ади 10.14",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@baneshvara-pundarika",
+    "note": "Банешвара (B 748, 69; T 52); по «другому мнению» (только B 748) — Шукламбара."
+   },
+   {
+    "type": "mother",
+    "who": "@gangadevi-pundarika"
+   },
+   {
+    "type": "spouse",
+    "who": "@ratnavati",
+    "note": "Только B 748 и T 52 делают Ратнавати его женой; естественное чтение ГГД 57, T 44 и M — Ратнавати жена Мадхавы Мишры, мать Гададхары (⚠Б2). Спорно."
+   },
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "note": "Ученик Мадхавендры Пури (B 748, 69, 27; T 5, 52, 53); по T — посвящён одновременно с Адвайтой."
+   },
+   {
+    "type": "disciple",
+    "who": "@gadadhara-pandita",
+    "note": "Дал Гададхаре мантру в Навадвипе (ЧБ Мадхья 7) и вновь — в Пури (ЧБ Антья 10.79–80). В Кришна-лиле — отец и дочь (Вришабхану и Радха, T 54)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Господь звал его «отцом» и «Преманидхи», плакал, произнося его имя, и почитал как ученика Мадхавендры — собрата Своего гуру (⚠Б5)."
+   },
+   {
+    "type": "friend",
+    "who": "@svarupa-damodara",
+    "note": "Задушевный друг (B 69, 211); жили вместе в Нилачале, вместе ходили на даршан Джаганнатхи, брызгались водой на Нарендре; Сварупа ликовал о пощёчинах-милости."
+   },
+   {
+    "type": "friend",
+    "who": "@mukunda-datta",
+    "note": "Земляк из Чаттаграма; один знал его как вайшнава, привёл к нему Гададхару и пением о бхакти открыл его прему."
+   },
+   {
+    "type": "other",
+    "who": "@vasudeva-datta",
+    "note": "Земляк; вместе с Мукундой знал его славу (B 749, 855); Мекхала — в 10 крошах от Чханхары."
+   },
+   {
+    "type": "friend",
+    "who": "@madhava-mishra",
+    "note": "Отец Гададхары — его добрый друг (T 53); по ГГД 57 — особое проявление Вришабхану."
+   },
+   {
+    "type": "companion",
+    "who": "@advaita",
+    "note": "По T — посвящён у Мадхавендры одновременно с Адвайтой; ежегодно шёл в Нилачалу в группе во главе с Адвайтой."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "note": "Каждую ночь — на киртанах в доме Шривасы; в третий год шёл с ним в Нилачалу (ЧЧ Мадхья 16.16)."
+   },
+   {
+    "type": "companion",
+    "who": "@govinda-ghosha",
+    "note": "ЧЧ Мадхья 16.16 (B 848)."
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-acharya",
+    "note": "Ачарьяратна — в списке идущих в Нилачалу (ЧЧ Мадхья 16.16); киртаны у Шривасы и Чандрашекхары (T 106)."
+   },
+   {
+    "type": "companion",
+    "who": "@gangadasa-pandita",
+    "note": "Вместе названы на киртанах и при Джагае и Мадхае (ЧБ Мадхья 13.238–240)."
+   },
+   {
+    "type": "met",
+    "who": "@jagai-madhai"
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-deity",
+    "note": "Ежедневный даршан на рассвете; Одана-шашти: разыгранное осуждение крахмальной ткани и пощёчины во сне — милость (⚠Б3)."
+   },
+   {
+    "type": "other",
+    "who": "@balarama",
+    "note": "Вместе с Джаганнатхой бил его во сне по щекам (ЧЧ Мадхья 16.80; ЧБ Антья 10)."
+   },
+   {
+    "type": "other",
+    "who": "@vallabhacharya",
+    "note": "B 27: цепь гуру Валлабхи — Мадхавендра → Пундарика → Гададхара → Валлабха (против «Чаураси байтхак»)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Описал его жизнь (ЧБ Мадхья 7, Антья 10) и плод слушания о нём."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Комментарии «Гаудия-бхашьи» (по T 54–55): вайшнава не узнать по внешности; мантра — шабда-брахман."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "B 689–690: та же подлинная вайрагья, хоть внешне в богатстве."
+   }
+  ],
   "related_by": [
    {
     "from": "@advaita",
@@ -26349,6 +26579,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "companion"
    },
    {
     "from": "@srinivasa-acharya",
@@ -35357,6 +35591,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "friend"
    }
   ]
  },
@@ -36703,6 +36941,10 @@
     "type": "neighbor"
    },
    {
+    "from": "@pundarika-vidyanidhi",
+    "type": "spouse"
+   },
+   {
     "from": "@shachi",
     "type": "friend"
    }
@@ -37094,6 +37336,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
    {
@@ -47837,6 +48083,36 @@
    {
     "from": "@ishvara-puri",
     "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@baneshvara-pundarika",
+  "ru": "Банешвара (Гангопадхьяя)",
+  "en": "Baneshvara (Gangopadhyaya)",
+  "note": "отец Пундарики Видьянидхи, варендра-брахман родом из Багхии (Дакка) (B 69, 748; T 52); по другому мнению отца звали Шукламбара (B 748)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@gangadevi-pundarika",
+  "ru": "Гангадеви",
+  "en": "Gangadevi",
+  "note": "мать Пундарики Видьянидхи (B 69, 748; T 52); не путать с @ganga-devi (богиня Ганга)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@pundarika-vidyanidhi",
+    "type": "mother"
    }
   ]
  }

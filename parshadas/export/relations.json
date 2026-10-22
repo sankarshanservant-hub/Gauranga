@@ -8270,6 +8270,281 @@
   ]
  },
  {
+  "from": "@pundarika-vidyanidhi",
+  "type": "father",
+  "who": "@baneshvara-pundarika",
+  "facts": [
+   "F9",
+   "F10"
+  ],
+  "note": "Банешвара (B 748, 69; T 52); по «другому мнению» (только B 748) — Шукламбара."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "mother",
+  "who": "@gangadevi-pundarika",
+  "facts": [
+   "F9"
+  ]
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "spouse",
+  "who": "@ratnavati",
+  "facts": [
+   "F5",
+   "F9"
+  ],
+  "note": "Только B 748 и T 52 делают Ратнавати его женой; естественное чтение ГГД 57, T 44 и M — Ратнавати жена Мадхавы Мишры, мать Гададхары (⚠Б2). Спорно."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "guru",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F4",
+   "F13",
+   "F16",
+   "F17"
+  ],
+  "note": "Ученик Мадхавендры Пури (B 748, 69, 27; T 5, 52, 53); по T — посвящён одновременно с Адвайтой."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "disciple",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F32",
+   "F33",
+   "F34",
+   "F35",
+   "F36",
+   "F37",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F43",
+   "F56",
+   "F57"
+  ],
+  "events": [
+   "ev-gadadhara-initiation-pundarika"
+  ],
+  "note": "Дал Гададхаре мантру в Навадвипе (ЧБ Мадхья 7) и вновь — в Пури (ЧБ Антья 10.79–80). В Кришна-лиле — отец и дочь (Вришабхану и Радха, T 54)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F6",
+   "F16",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F27",
+   "F45",
+   "F46",
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "F52",
+   "F57",
+   "F67"
+  ],
+  "events": [
+   "ev-gadadhara-initiation-pundarika",
+   "ev-mahaprakasha-abhisheka",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Господь звал его «отцом» и «Преманидхи», плакал, произнося его имя, и почитал как ученика Мадхавендры — собрата Своего гуру (⚠Б5)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "friend",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F53",
+   "F55",
+   "F59",
+   "F60",
+   "F65"
+  ],
+  "events": [
+   "ev-narendra-jala-keli",
+   "ev-pundarika-odana-shashthi-slap"
+  ],
+  "note": "Задушевный друг (B 69, 211); жили вместе в Нилачале, вместе ходили на даршан Джаганнатхи, брызгались водой на Нарендре; Сварупа ликовал о пощёчинах-милости."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "friend",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F15",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F36",
+   "F39"
+  ],
+  "note": "Земляк из Чаттаграма; один знал его как вайшнава, привёл к нему Гададхару и пением о бхакти открыл его прему."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F12",
+   "F15",
+   "F30"
+  ],
+  "note": "Земляк; вместе с Мукундой знал его славу (B 749, 855); Мекхала — в 10 крошах от Чханхары."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "friend",
+  "who": "@madhava-mishra",
+  "facts": [
+   "F5",
+   "F15"
+  ],
+  "note": "Отец Гададхары — его добрый друг (T 53); по ГГД 57 — особое проявление Вришабхану."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "companion",
+  "who": "@advaita",
+  "facts": [
+   "F7",
+   "F16",
+   "F52"
+  ],
+  "event": "ev-gauda-devotees-yearly-visit",
+  "note": "По T — посвящён у Мадхавендры одновременно с Адвайтой; ежегодно шёл в Нилачалу в группе во главе с Адвайтой."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "companion",
+  "who": "@srivasa",
+  "facts": [
+   "F48",
+   "F52"
+  ],
+  "note": "Каждую ночь — на киртанах в доме Шривасы; в третий год шёл с ним в Нилачалу (ЧЧ Мадхья 16.16)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "companion",
+  "who": "@govinda-ghosha",
+  "facts": [
+   "F52"
+  ],
+  "note": "ЧЧ Мадхья 16.16 (B 848)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "companion",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F48",
+   "F52"
+  ],
+  "note": "Ачарьяратна — в списке идущих в Нилачалу (ЧЧ Мадхья 16.16); киртаны у Шривасы и Чандрашекхары (T 106)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "companion",
+  "who": "@gangadasa-pandita",
+  "facts": [
+   "F48",
+   "F50"
+  ],
+  "note": "Вместе названы на киртанах и при Джагае и Мадхае (ЧБ Мадхья 13.238–240)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "met",
+  "who": "@jagai-madhai",
+  "facts": [
+   "F50"
+  ],
+  "event": "ev-jagai-madhai-deliverance"
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "deity-served",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F55",
+   "F58",
+   "F59",
+   "F60",
+   "F61",
+   "F62",
+   "F63",
+   "F64",
+   "F66"
+  ],
+  "event": "ev-pundarika-odana-shashthi-slap",
+  "note": "Ежедневный даршан на рассвете; Одана-шашти: разыгранное осуждение крахмальной ткани и пощёчины во сне — милость (⚠Б3)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@balarama",
+  "facts": [
+   "F62",
+   "F63",
+   "F66"
+  ],
+  "event": "ev-pundarika-odana-shashthi-slap",
+  "note": "Вместе с Джаганнатхой бил его во сне по щекам (ЧЧ Мадхья 16.80; ЧБ Антья 10)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@vallabhacharya",
+  "facts": [
+   "F17"
+  ],
+  "note": "B 27: цепь гуру Валлабхи — Мадхавендра → Пундарика → Гададхара → Валлабха (против «Чаураси байтхак»)."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F67"
+  ],
+  "note": "Описал его жизнь (ЧБ Мадхья 7, Антья 10) и плод слушания о нём."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F44",
+   "F56"
+  ],
+  "note": "Комментарии «Гаудия-бхашьи» (по T 54–55): вайшнава не узнать по внешности; мантра — шабда-брахман."
+ },
+ {
+  "from": "@pundarika-vidyanidhi",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F68"
+  ],
+  "note": "B 689–690: та же подлинная вайрагья, хоть внешне в богатстве."
+ },
+ {
   "from": "@raghunandana",
   "type": "father",
   "who": "@mukunda-dasa",
