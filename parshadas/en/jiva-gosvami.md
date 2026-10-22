@@ -268,7 +268,7 @@ Mathura, Bengal and Orissa and the “prime minister” of the universal assembl
 A newspaper note from Srila Bhaktisiddhanta's time reports that this sabha was founded by Jiva Gosvami himself eleven years
 after Mahaprabhu's departure, and that Bhaktivinoda Thakura gave it new life; its revival was marked on the appearance day
 of Vishnupriya, and Srila Bhaktisiddhanta set out the history of the sabha in the “Sajjana-toshani” (vol. 21, no. 9).[^15]
-<!-- F72 F73 F74 -->
+<!-- F72 F73 F74 F387 -->
 
 From time to time Jiva went round Vraja with the devotees and went to Mathura — for the darshana of Sri Gopaladeva, who
 then resided in the house of Vitthaleshvara (Vitthalanatha), the son of Vallabha Bhatta. Krishnadasa Kaviraja wrote the
@@ -276,22 +276,25 @@ then resided in the house of Vitthaleshvara (Vitthalanatha), the son of Vallabha
 
 All who came from Gauda Jiva received with prasada and lodging. Jahnava-devi, the consort of Nityananda, also came to
 Vrindavana with other devotees. The heads of the Vaishnavas of Vraja came out to greet her — Jiva, Gopala Bhatta,
-Lokanatha, Bhugarbha and Madhu Pandita; according to Parameshvari Dasa's account, “the renowned Sri Jiva” was among
-those who met her in Mathura and told her the names of the other Gosvamis. Going round Vraja-mandala, Jahnava listened to
-Jiva expounding the “Brihad-bhagavatamrita”. When she brought the five-year-old Kanu to Vrindavana, Jiva and the other
-Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^16] <!-- F77 F78 F79 F80 Q25 -->
+Lokanatha, Bhugarbha and Madhu Pandita. According to the “Bhakti-ratnakara”, the Gosvamis met her at Akrura-sthana, on
+the way from Mathura to Vrindavana, and Parameshvari Dasa, pointing to each, told her their names: “…this is Sri Madhu
+Pandita, and this is the renowned Sri Jiva” (11.100–106).[^16] There Jiva showed her the secluded place to which the
+Lord, avoiding the crowds in Vrindavana, used to come to accept alms, and in Vrindavana he had prepared lodging for her
+beforehand (11.120–126). Jahnava wished to hear the books of the Gosvamis, and Jiva read to her the
+“Brihad-bhagavatamrita” and others; as she listened, she could not contain her prema (11.201–202). When she brought the five-year-old Kanu to Vrindavana, Jiva and the other
+Gosvamis, seeing the boy's devotion, named him “Kanai Thakura”.[^17] <!-- F77 F78 F79 F80 Q25 -->
 
 When Nityananda's son Virachandra (Virabhadra) came to Vrindavana, the mahajanas of Vraja went out to meet him — Jiva,
 Krishnadasa Kaviraja, Ananta Acharya, Haridasa Pandita, Krishnadasa Brahmachari (a disciple of Gadadhara Pandita and
 servant of Madana-Gopala), Gopinatha Adhikari, Madhu Pandita and his fellow Madhavacharya. With the permission of Bhugarbha
-and Jiva, Virachandra went round Vraja: the twelve forests, Radha- and Shyama-kundas, Govardhana.[^17] <!-- F81 F82 -->
+and Jiva, Virachandra went round Vraja: the twelve forests, Radha- and Shyama-kundas, Govardhana.[^18] <!-- F81 F82 -->
 
 Jiva's name appears in many other accounts of the Vaishnavas of that time as well. He is among those who teach the worship
 of Krishna together with the ashraya-vigraha, the shelter of devotion; together with other Gaudiya acharyas he gave
 Jahnava the place of jagad-guru; in relation to Bhugarbha Jiva is one of the juniors. Srila Bhaktisiddhanta in the
 “Anubhashya” (on CC, Madhya 7.130) calls fools those who consider writing books, such as occupied Rupa, Sanatana, Jiva and
 Raghunatha Dasa, an obstacle to bhajana. Baladeva names Jiva in his list of the acharyas of the sampradaya, and the
-“Vaishnava-vandana”, attributed to Jiva, glorifies Gopala Bhatta.[^18] Narottama in one of his songs, lamenting that he had
+“Vaishnava-vandana”, attributed to Jiva, glorifies Gopala Bhatta.[^19] Narottama in one of his songs, lamenting that he had
 not served the feet of the Gosvamis, names Jiva together with Svarupa Damodara, Sanatana, Raghunatha Bhatta, Raghunatha
 Dasa, Gopala Bhatta, Bhugarbha and Lokanatha. <!-- F83 F84 -->
 
@@ -300,9 +303,10 @@ Jiva, following all the satvata-shastras, counts among the offences against the 
 he did not commit this offence. <!-- F85 -->
 
 ## Sri Sri Radha-Damodara
-According to the “Bhakti-ratnakara” (4th wave), Rupa Gosvami himself revealed the Deity of Sri Sri Radha-Damodara and gave
-Him to Jiva. That Deity now resides in Jaipur, while in Vrindavana, in the Radha-Damodara temple near Shringara-vata,
-resides His manifestation (prakasha-murti).[^19] In one of the rooms of the Radha-Damodara temple many old manuscripts
+By a command received in a dream, Rupa Gosvami with his own hands revealed the Deity of Sri Sri Radha-Damodara and gave
+Him to Jiva (“Bhakti-ratnakara”, 4.285–290): Radha-Damodara is the treasure of Jiva's life. One of the biographies adds
+that that Deity now resides in Jaipur, while in Vrindavana, in the Radha-Damodara temple near Shringara-vata, resides His
+manifestation (prakasha-murti).[^20] In one of the rooms of the Radha-Damodara temple many old manuscripts
 were kept, but because of long temple lawsuits the library was under lock, and where the books went no one can say.
 <!-- F86 F87 -->
 
@@ -325,7 +329,7 @@ Bhaktivinoda Thakura, in his article “Sri Sri Jiva Gosvami Prabhu” (“Sajja
 in the science of Vedanta Jiva had no equal in his day. It is “said” that Vallabha, the acharya of the Vishnusvami
 sampradaya, showed him his book “Tattva-dipa”; Jiva put forward many Vedantic arguments and showed the flaws in his views,
 and Vallabhacharya on his advice corrected a good deal in the book. Bhaktivinoda quotes four verses of the “Tattva-dipa”
-in which, he says, knowing Vaishnavas will easily recognise Jiva's hand.[^20] Jiva, he says, is a pandita and knower of
+in which, he says, knowing Vaishnavas will easily recognise Jiva's hand.[^21] Jiva, he says, is a pandita and knower of
 Vedanta equal to Ramanuja; his “Shat-sandarbha” is a jewel of the world: whoever understands it well will find no Vedantic
 argument unknown to him. <!-- F92 F93 F94 F95 Q15 -->
 
@@ -346,7 +350,7 @@ him, silenced the tongue of the reviler of his gurus, and revealed the glory of 
 By this he showed what a true disciple is — a “guru-devatma”, who sees in the guru his deity and his very life. <!-- F97 -->
 
 Those averse to Hari, failing to understand this, did not scruple to call Jiva a violator of the verse on humility —
-“trinad api sunichena” (“humbler than a blade of grass”) — and invented a story that his guru punished him for it.[^21]
+“trinad api sunichena” (“humbler than a blade of grass”) — and invented a story that his guru punished him for it.[^22]
 Srila Bhaktisiddhanta calls this story a slander of the sahajiyas: victory over the reviler of one's gurus is not a breach
 of humility but a model of a disciple's fidelity. Whoever sees anger and pride in it is like certain present-day worldly
 men of letters who, seeing Vrindavana Dasa Thakura's anger at the revilers of Nityananda, took even him, an avatara of
@@ -355,7 +359,7 @@ similar books. <!-- F98 I10 F69 F70 F71 -->
 
 The second slander concerns a well. Certain envious people spread a story that Jiva threw the “Chaitanya-charitamrita” into
 a well, and that Krishnadasa Kaviraja, hearing of it, gave up his life; the book supposedly survived only because the
-Kaviraja's disciple Mukunda had copied it beforehand.[^22] Srila Bhaktisiddhanta calls this a contemptible fabrication,
+Kaviraja's disciple Mukunda had copied it beforehand.[^23] Srila Bhaktisiddhanta calls this a contemptible fabrication,
 born of enmity towards the guru and the Vaishnavas and without any foundation. <!-- F99 F100 -->
 
 The falsity of this story is seen also from another tradition, itself apparently interpolated and contradictory. The
@@ -368,7 +372,7 @@ calling on the mercy of the Lord's associates:
 But if the Kaviraja died at the news of the theft even before Srinivasa, then still unmarried, first brought the books to
 Yajigrama, how could Jiva in a later letter, when Srinivasa already had sons and daughters, report: “From here — the
 obeisances of Sri Krishnadasa” (“Prema-vilasa”, 25, letter 6)? Such contradictions show that these traditions are
-malicious and were inserted later.[^23] <!-- F100 F101 Q16 I12 -->
+malicious and were inserted later.[^24] <!-- F100 F101 Q16 I12 -->
 
 ## Svakiya and Parakiya
 The third slander touches the most intimate realm — the rasa of the gopis. Worldly sahajiyas, devoted to gratifying the
@@ -399,8 +403,8 @@ parakiya. They were all immersed in bliss, relishing this”. (“Karnananda”,
 What Jiva intended in his commentary “Lochana-rochani” on the “Ujjvala-nilamani” was disclosed by Vishvanatha Chakravarti in
 his commentary “Ananda-chandrika”, and the purpose of that intention was explained by Narahari Chakravarti. In the
 “Narottama-vilasa” (in the verses about himself as author) he writes: in his commentary on the “Ujjvala-nilamani” Jiva gave
-many explanations for the sake of people of a bad disposition; the ill-intentioned do not understand his words and bring
-disquisitions on tattva into all the lilas. Jiva is a follower of Rupa; by his mercy the truth reveals itself in the heart
+many explanations for the sake of people of a bad disposition; the ill-intentioned do not grasp Jiva's words; statements
+of tattva are brought into all the lilas. Jiva is a follower of Rupa; by his mercy the truth reveals itself in the heart
 — who, then, can understand the words of such a Jiva? And Vishvanatha is not different from Jiva in outlook: Rupa's intention
 was manifest in him, and together with Radhika and her friends he showed the world great mercy. <!-- F107 F108 Q18 -->
 
@@ -408,7 +412,7 @@ The dispute over svakiya and parakiya did not die down later either. Tradition t
 Krishnadeva Sharma, with a decree from the Delhi padishah Muhammad Shah, at the head of troops and vassals, appeared at the
 court of the Murshidabad nawab Jafar Ali and demanded a debate on svakiya and parakiya. Then Radhamohana Thakura, a
 descendant of Srinivasa Acharya, conducted the examination for six months, established the siddhanta of parakiya and made
-Krishnadeva his disciple. The dispute was decided in the month of vaishakha of the year 1128;[^24] the certificates of
+Krishnadeva his disciple. The dispute was decided in the month of vaishakha of the year 1128;[^25] the certificates of
 defeat (ajaya-patra) and of renunciation (istafa-patra) issued at that debate survive to this day. <!-- F109 F110 F111 -->
 
 ## Goloka and Gokula: Bhaktivinoda's Explanation
@@ -424,7 +428,7 @@ In his explanation of the verse of the “Brahma-samhita”, in his commentary o
 contact with mundane qualities, actions appear in it that cannot exist in the essential truth (svarupa-tattva) — the
 slaying of asuras, “possessing the wives of others”, birth and the like. The gopis belong to Krishna's svarupa-shakti and
 are therefore His own (svakiya); how could they be “wives of others”? Their “marriage to others” in the manifest lila is
-only an appearance, a notion created by Yogamaya.[^25] If the hidden meaning of these words of Jiva is disclosed, says
+only an appearance, a notion created by Yogamaya.[^26] If the hidden meaning of these words of Jiva is disclosed, says
 Bhaktivinoda, no doubt will remain. <!-- F113 -->
 
 According to Rupa and Sanatana, the unmanifest (aprakata) and the manifest lilas are not different: one is manifest beyond
@@ -549,7 +553,7 @@ the highest rarity of rasa; it looks low only to worldly vision. <!-- F139 F140 
 
 ## Srinivasa, Narottama, Shyamananda
 When Srinivasa came to Vraja, Rupa, Sanatana, Kashishvara and Raghunatha Bhatta had already disappeared; Raghunatha Dasa,
-Gopala Bhatta and Jiva were still living, and he received the blessing of all three.[^26] Jiva had already heard of him.
+Gopala Bhatta and Jiva were still living, and he received the blessing of all three.[^27] Jiva had already heard of him.
 When Srinivasa bowed down, Jiva embraced him with great love, asked — himself a Bengali — about the welfare of the Gaudiya
 Vaishnavas, and arranged prasada and lodging for him. Srinivasa arrived in the afternoon, on vaishakha-purnima; that day
 his prasada was brought by Krishna Pandita, the servant of Govinda, and Srinivasa honoured it together with Jiva himself.
@@ -559,27 +563,27 @@ Srinivasa became “one of his own” (nija-jana) for Jiva, and in a letter Jiva
 Jiva lovingly gave Srinivasa lodging in a secluded place, entrusted him to the feet of Sri Radha-Damodara, introduced him to
 Lokanatha, Bhugarbha, Paramananda and Madhu Pandita, took him to Gopala Bhatta and let him see Radha-ramana. Later, at Gopala
 Bhatta's instruction, Jiva bathed Srinivasa in the Yamuna and himself brought him to Gopala Bhatta, who gave him
-initiation.[^27] The next day Srinivasa went with Jiva to Radha-kunda and saw Raghunatha Dasa, Raghava Gosvami and
-Krishnadasa Kaviraja.[^28] So Srinivasa became the diksha disciple of Gopala Bhatta and the shiksha disciple of Jiva: it was
+initiation.[^28] The next day Srinivasa went with Jiva to Radha-kunda and saw Raghunatha Dasa, Raghava Gosvami and
+Krishnadasa Kaviraja.[^29] So Srinivasa became the diksha disciple of Gopala Bhatta and the shiksha disciple of Jiva: it was
 from him that he received instruction in the Vaishnava scriptures. <!-- F146 F147 F148 -->
 
 Once Jiva was discussing a verse of the “Ujjvala-nilamani” on uddipana-vibhava — on what awakens loving feeling — and asked
 Srinivasa its meaning. By Rupa's mercy the explanation was so beautiful that Jiva and the Vaishnavas were amazed and
 admitted that without Rupa's mercy such an explanation would be impossible. With the consent of all the Vaishnavas Jiva
 joyfully gave Srinivasa the title “Acharya”, and at Jiva's command he from then on taught the Vaishnavas of Vraja the
-“Bhagavatam” and other shastras.[^29] <!-- F149 -->
+“Bhagavatam” and other shastras.[^30] <!-- F149 -->
 
 Narottama too came, from Kheturi; Jiva sent him to serve the feet of Lokanatha Gosvami, and later gave him the title
 “Thakura Mahashaya”. At Jiva's instruction Srinivasa and Narottama went round Vraja-mandala together with Raghava Gosvami,
-the southern brahmana of Govardhana.[^30] Narottama became the favourite of the three Gosvamis then still living — Gopala
+the southern brahmana of Govardhana.[^31] Narottama became the favourite of the three Gosvamis then still living — Gopala
 Bhatta, Jiva and Raghunatha Dasa; he lived on alms (madhukari) and under Jiva's guidance studied the works of the Gosvamis
 deeply. <!-- F150 F151 F152 -->
 
-Then Duhkhi Krishnadasa of Dandeshvara in Utkala, a disciple of Hridaya Chaitanya, came to Jiva.[^31] When he arrived,
+Then Duhkhi Krishnadasa of Dandeshvara in Utkala, a disciple of Hridaya Chaitanya, came to Jiva.[^32] When he arrived,
 Narottama and Srinivasa had just returned from going round the forests; Jiva was delighted and asked him about each of the
 devotees of Bengal and Utkala. Hridaya Chaitanya had earlier himself asked Jiva: “I give you my disciple Duhkhi
 Krishnadasa; teach him Krishna consciousness well and, when his mind has become steady, after thorough study send him back
-to me”.[^32] In Vrindavana Duhkhi found out from local people where Jiva's bhajana-kutira was, came there, bowed down and
+to me”.[^33] In Vrindavana Duhkhi found out from local people where Jiva's bhajana-kutira was, came there, bowed down and
 told about himself. Jiva gladly took him under his protection, and Duhkhi served him zealously and studied the scriptures
 of the Gosvamis together with Srinivasa and Narottama. When he asked for a service that would bring him close to Jiva, Jiva
 told him to carry water every day from Kanana-kunja, and this service filled his life with meaning and bliss.
@@ -589,7 +593,7 @@ Jiva taught Duhkhi Krishnadasa the “Bhagavatam”, made him an acharya of the 
 He also gave him the name “Shyamananda” — “the joy of Shyama” — because he delighted Radha and Shyamasundara; seeing his
 longing to become a maidservant of Radha, Jiva gave him the inner readiness for it. Tradition tells that once, while
 sweeping the Rasa-mandala, Shyamananda found Radharani's anklet (nupura) and touched his forehead with it, and the mark
-became the tilaka of his line — the “nupura-tilaka”.[^33] So service to the guru became Shyamananda's path to Radha's
+became the tilaka of his line — the “nupura-tilaka”.[^34] So service to the guru became Shyamananda's path to Radha's
 mercy. <!-- F159 F160 F161 I8 -->
 
 Although Shyamananda had received initiation from Hridaya Chaitanya — a disciple of Gauridasa Pandita who worshipped Gaura
@@ -597,13 +601,13 @@ and Nitai in sakhya-bhava — his guru himself entrusted him to Jiva's care. Thr
 Shyamananda acquired a taste for serving Radha and Krishna in madhurya-rasa; that is why he later initiated Rasikananda in
 the worship of Radha and Krishna. There is no offence to the guru in this: sakhya is contained in madhurya, and the
 disciple's growth only increases the teacher's glory. A few days after Hridaya Chaitanya, rebuked by Radha in a dream, had
-been reconciled with his disciple and left Vraja, Jiva told Shyamananda to return to his homeland.[^34] <!-- F162 F163 I9 -->
+been reconciled with his disciple and left Vraja, Jiva told Shyamananda to return to his homeland.[^35] <!-- F162 F163 I9 -->
 
 For some time Srinivasa, Narottama and Shyamananda lived with Jiva as his shiksha disciples, receiving detailed personal
 instruction; with his approval they arranged an order of kirtana (kirtana-paddhati). Jiva regaled all three with the rasa
 of bhakti from the books of Rupa and Sanatana, his own, and those of Raghunatha Dasa, Gopala Bhatta and others, and soon
 Shyamananda became as expert as the other two: training under Jiva made all three scholars in the philosophy and shastras
-of Mahaprabhu. They lived on alms and performed bhajana as one heart.[^35] Later, in Navadvipa, Narottama told Shuklambara
+of Mahaprabhu. They lived on alms and performed bhajana as one heart.[^36] Later, in Navadvipa, Narottama told Shuklambara
 Brahmachari that he had lived in Vrindavana under the care of Jiva and Lokanatha, and Shuklambara embraced him and asked
 about the welfare and doings of the Gosvamis; and in Khardaha Jahnava and Vasudha, understanding that Narottama had
 received the mercy of Lokanatha and Jiva, bestowed their own mercy on him. <!-- F164 F165 F166 -->
@@ -619,7 +623,7 @@ taking cover under the names of Chaitanya and Nityananda. Jiva was then the only
 grieved by this news, he decided to make Srinivasa, Narottama and Shyamananda acharyas — restorers of pure bhakti in Gauda —
 and to send the books of siddhanta there. So Jiva restored pure bhakti in Gauda not by himself but through his disciples,
 training them and sending the books with them. The Gosvamis of Vraja, having discussed his proposal, decided to send all
-three.[^36] <!-- F167 F168 I6 -->
+three.[^37] <!-- F167 F168 I6 -->
 
 Srila Bhaktisiddhanta writes in the “Anubhashya”: Jiva gave Srinivasa, Narottama and Duhkhi Krishnadasa, who had come from
 Gauda, the names “Acharya”, “Thakura Mahashaya” and “Sri Shyamananda” and sent them to Gauda to preach nama-prema — the Holy
@@ -629,7 +633,7 @@ Before the departure Jiva prayed with the Vaishnavas in the temple of Govinda: �
 to preach the books”. At once a garland fell from Govinda's neck, and the pujari handed it to Srinivasa. Seeing this mercy,
 Jiva and the other acharyas fixed the departure for aghrahayana shukla-panchami, the fifth lunar day of the bright fortnight
 of the month of aghrahayana. This was in 1504 Shaka (1582–1583) — the same year in which Jiva completed the
-“Laghu-toshani”.[^37] <!-- F170 F171 -->
+“Laghu-toshani”.[^38] <!-- F170 F171 -->
 
 Before many mahantas Jiva himself packed all the books into a wooden chest. A wealthy merchant of Mathura took upon himself
 the cost of the cart, a chest proof against rain, and foot guards. Having bowed to the three principal Deities of
@@ -656,14 +660,14 @@ departure. <!-- F176 F177 -->
 
 Srinivasa and Shyamananda lived with Jiva, and he taught them the conclusions of the “Shat-sandarbha”, which he had just
 completed. At that time, says one of the biographies, Jiva began writing the “Gopala-champu” and read them its
-mangalacharana — the opening verses.[^38] <!-- F178 F179 -->
+mangalacharana — the opening verses.[^39] <!-- F178 F179 -->
 
 Jiva gave the title “Kaviraja” to Srinivasa's disciple Ramachandra Sena and his younger brother Govinda Sena. Ramachandra
 used to visit Vrindavana and associated with Jiva and the other Vaishnavas; Jiva liked his verses very much, and Ramachandra
 became one of the eight kavirajas. The “Bhakti-ratnakara” relates:
 
 “Sri Paramananda Bhattacharya, a treasury of prema, Sri Jiva Gosvami and other residents of Vrindavana — all, hearing from
-his lips the verses he had composed, with great joy gave him the title «Kaviraja»”. (“Bhakti-ratnakara”, 1.267–268)[^39]
+his lips the verses he had composed, with great joy gave him the title «Kaviraja»”. (“Bhakti-ratnakara”, 1.267–268)[^40]
 <!-- F180 Q24 -->
 
 Ramachandra had been summoned from Gauda by Srinivasa, who then spent several months with Jiva and the other Gosvamis. He
@@ -701,7 +705,7 @@ Envious and self-seeking people want to present Jiva as the founder of the teach
 teaching itself as new. The cause is their superficiality. Contrary to the sutra “tarka-apratishthanat” (“because reasoning
 has no firm ground”, “Brahma-sutra” 2.1.11), they set about applying logic to the self-evident, transcendental,
 inconceivable truth, which can be grasped only through the word of shruti, and therefore they do not understand the word
-“achintya”. Thus in the month of magha of the year 1347 of the Bengali era[^40] the monthly of a certain “brand-new akhara of
+“achintya”. Thus in the month of magha of the year 1347 of the Bengali era[^41] the monthly of a certain “brand-new akhara of
 avatara-vada” tried to pass off achintya-bheda-abheda as a new teaching — as a modified “anirvachaniya-vada” (the doctrine
 of the indescribable) of the kevala-advaitins, that is, as the same advaita-vada under another name. <!-- F187 F188 -->
 
@@ -725,7 +729,7 @@ and cow. Others, the naiyayikas, teach difference and ascribe non-difference onl
 “tat tvam asi” otherwise. Still others, mindful of the sutra “tarka-apratishthanat” and seeing the flaws of both sides,
 accept inconceivable difference and non-difference. The Puranikas and the Shaivas hold bheda-abheda, as does Bhaskara; for
 the Mayavadis difference is only practical (vyavaharika) or apparent (pratitika); Gotama, Kanada, Jaimini, Kapila and
-Patanjali stand for difference (bheda), and so do Ramanuja and Madhva.[^41] “But in our view,” says Jiva, “there is only
+Patanjali stand for difference (bheda), and so do Ramanuja and Madhva.[^42] “But in our view,” says Jiva, “there is only
 inconceivable difference and non-difference, for the Supreme Truth is full of inconceivable shakti”. <!-- F191 F192 Q33 -->
 
 This teaching is not new. A brand-new, self-willed community without a sampradaya (asampradayika-bruva), stricken by the
@@ -858,10 +862,10 @@ same: the “Hari-namamrita-vyakarana”, “Sutra-malika”, “Dhatu-sangraha�
 on the “Gopala-tapani”, the “Brahma-samhita”, the “Bhakti-rasamrita-sindhu”, the “Ujjvala-nilamani” and the
 “Yoga-sara-stava”; the exposition of the Gayatri from the “Agni Purana”; the marks on Krishna's feet according to the
 “Padma Purana” and the marks on Radhika's hands and feet; the “Gopala-champu” in two parts — and the seven “Sandarbhas”,
-the seventh of which is the “Krama-sandarbha”.[^42] <!-- F210 Q41 -->
+the seventh of which is the “Krama-sandarbha”.[^43] <!-- F210 Q41 -->
 
 Only some of Jiva's books are dated. Sanatana finished the “Vaishnava-toshani” in 1476 Shaka, and Jiva, at his command,
-made its abridged exposition, the “Laghu-toshani”, in 1504 Shaka (about 1582; see above).[^43] The earliest date among all
+made its abridged exposition, the “Laghu-toshani”, in 1504 Shaka (about 1582; see above).[^44] The earliest date among all
 Jiva's dated books is 1477 Shaka, the year of the “Madhava-mahotsava”; the “Uttara-champu”, the second part of the
 “Gopala-champu”, was completed in 1649 Samvat (1514 Shaka). Thirty-seven years separate these two books. Below the books
 are described in the order of Narahari's list, followed by what that list does not name and by what is only ascribed to
@@ -1035,7 +1039,7 @@ its conclusion:
 protect me”.
 
 The Bengali retelling explains: here Jiva calls for help on Krishna, Sri Krishna Chaitanya, Rupa, Sanatana, Gopala Bhatta,
-his supreme friend Raghunatha Dasa and his father Vallabha.[^44] Next comes a salutation to Krishna in the form of Gopala:
+his supreme friend Raghunatha Dasa and his father Vallabha.[^45] Next comes a salutation to Krishna in the form of Gopala:
 to the son of Nanda and son of the cowherd woman, who increases the joy of the three worlds, the lord of the eternally
 perfect gopis, dark as a new cloud, lotus-eyed. <!-- F252 Q55 -->
 
@@ -1072,7 +1076,7 @@ His vraja-lila, Govinda; the third to Gopijana-vallabha, Gopinatha. And the vers
 of the flute which, entering Brahma, became the gayatri for him (“atha venu-ninadasya trayi-murti-mayi gatih…”, 5.27),
 Bhaktivinoda Thakura, relying on Jiva's commentary, explains thus: “trayi-murti” is sambandha, abhidheya and prayojana,
 that is, Madana-mohana, Govinda and Gopinatha; he supports this with the words of the “Brahma-samhita”, the commentaries of
-Jiva and Vishvanatha and the “Gopala-tapani”.[^45] <!-- F261 F262 Q59 -->
+Jiva and Vishvanatha and the “Gopala-tapani”.[^46] <!-- F261 F262 Q59 -->
 
 ### “Durgama-sangamani”
 The “Durgama-sangamani” is Jiva's commentary on the “Bhakti-rasamrita-sindhu”. “Sangamani” is that which leads to, or a
@@ -1221,10 +1225,10 @@ lips about sambandha, abhidheya and prayojana according to the “Bhagavatam” 
 conclusions Gopala Bhatta, son of Venkata Bhatta from the bank of the Kaveri, received while studying with Rupa and
 Sanatana, and, gathering their essence anew, for their pleasure he wrote a book of karikas — brief propositions in verse.
 This book Jiva calls the source of the “Bhagavata-sandarbha”: Gopala Bhatta's contribution was notes, theses, which Jiva
-then developed in detail.[^46] In the introduction to the “Tattva-sandarbha” (verses 4–5) he says: the ancient Vaishnavas,
+then developed in detail.[^47] In the introduction to the “Tattva-sandarbha” (verses 4–5) he says: the ancient Vaishnavas,
 Madhvacharya and others, wrote books about Bhagavan; gathering their essence, a book was composed by Gopala Bhatta — a Vedic
 brahmana from the south, a friend of Jiva's two elder uncles; but in it there was order in some places, while in others
-the order was broken or the exposition fragmentary, and “insignificant Jiva” sets it out in order.[^47] The same thought
+the order was broken or the exposition fragmentary, and “insignificant Jiva” sets it out in order.[^48] The same thought
 is repeated at the beginning of all the other five sandarbhas. Baladeva Vidyabhushana in his commentary explains: “the
 friend of those two” is Gopala Bhatta, “the ancient Vaishnavas” are Madhva and others; therefore the author calls Gopala
 Bhatta's book the source of the “Shat-sandarbha”, and Gopala Bhatta himself its brief compiler. <!-- F295 F296 F297 Q74 -->
@@ -1477,7 +1481,7 @@ Mitra's “Notices of Sanskrit Manuscripts”, the catalogue of the Madras Orien
 recorded there under his name is his. One of the biographies tests each attribution: what Jiva himself confirms it
 accepts, while what is known only from catalogues or “according to some” it leaves in question. <!-- I26 -->
 
-Thus a manuscript of the “Sara-sangraha” is listed among Jiva's writings; it was described by Rajendralal Mitra.[^48] Its
+Thus a manuscript of the “Sara-sangraha” is listed among Jiva's writings; it was described by Rajendralal Mitra.[^49] Its
 introduction has seven verses: glory to the syllables “Hare Krishna” that came from Sri Chaitanya's lips; a prayer, with a
 straw between the teeth, to be the dust of Sri Rupa's feet birth after birth; a salutation to Krishna's feet; a prayer for
 the mercy of Mukunda's feet; “I relish new meanings of Sri Rupa's books…”; the verse “Glory in the land of Mathura to Srila
@@ -1565,10 +1569,10 @@ The Bengali retelling renders this: Jiva proclaimed His greatness anew. And in h
 “Govinda-bhashya” Baladeva writes: “May Jiva, who delivered all opposing thinkers — the sankhyas, the pashupatas,
 vivarta-vada and other sampradayas — be my refuge”. <!-- F368 F369 Q30 -->
 
-Baladeva wrote a commentary on the “Shat-sandarbha”; it was published in Calcutta by Shyamlal.[^49] And it was the
+Baladeva wrote a commentary on the “Shat-sandarbha”; it was published in Calcutta by Shyamlal.[^50] And it was the
 “Shat-sandarbha” itself that brought him into the Gaudiya sampradaya: under the guidance of Radha-Damodara Gosvami, a
 scholar from Kanauj, he studied it in detail and, convinced of the superiority of Gaudiya Vaishnava philosophy, accepted
-initiation from him.[^50] Sanatana in the “Brihad-bhagavatamrita” and Jiva in the “Sandarbhas” zealously upheld Sri
+initiation from him.[^51] Sanatana in the “Brihad-bhagavatamrita” and Jiva in the “Sandarbhas” zealously upheld Sri
 Chaitanya's idea that the “Bhagavatam” is the true commentary on the Vedanta; Baladeva proved the same in his debate with
 the Ramanujas in Jaipur, supporting his words with Jiva's arguments from the “Shat-sandarbha”. <!-- F370 F371 F372 -->
 
@@ -1603,7 +1607,7 @@ The early lives of Mahaprabhu — Murari Gupta's “Kadacha”, Vrindavana Dasa'
 associate of Gaura (Gaura-parshada) and an associate of the vraja-lila. Enumerating the friends of Radha whom She set to
 service and who, taking male bodies, played together with Gaura, Karnapura names among them Vilasa-manjari, and among
 Gaura's associates — in the same order — “the virtuous scholar Sriman Jiva, son of Sri Vallabha” (“Gaura-ganoddesha-dipika”,
-194–207).[^51] <!-- F383 F384 Q27 -->
+194–207).[^52] <!-- F383 F384 Q27 -->
 
 So in Krishna's eternal pastimes Jiva is Sri Vilasa-manjari; and Bhaktivinoda Thakura, calling him “our tattva-acharya”,
 says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
@@ -1661,141 +1665,157 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
     “Bhakti-ratnakara” (1.712–738) the dreams follow one after the other.
 
 [^15]: According to another testimony (see the article on Sanatana Gosvami), the Vishva-vaishnava-raja-sabha was first
-    founded by Rupa and Sanatana.
+    founded by Rupa and Sanatana. One of the biographies, in its chapter on Sanatana, says that it was founded by all six
+    Gosvamis coming together — Rupa, Sanatana, Raghunatha Dasa, Raghunatha Bhatta, Gopala Bhatta and Jiva — who preached
+    Mahaprabhu's cherished desire.
 
-[^16]: According to another biography, the name was given by Jiva and the residents of Vraja.
+[^16]: One of the biographies writes that Jiva met her in Mathura and himself told her the names of the other Gosvamis,
+    and that she heard the “Brihad-bhagavatamrita” from Jiva while going round Vraja. In the “Bhakti-ratnakara” the names
+    are given by Parameshvari Dasa, and Jiva read the books of the Gosvamis to her in Vrindavana, before the tour of the
+    forests (11.201–204). Here and below, verse numbers of the fifth and later waves of the “Bhakti-ratnakara” follow the
+    Bengali edition of 1960.
 
-[^17]: According to the “Bhakti-ratnakara” (13th wave), as one of the biographies retells it, Virachandra went round Vraja
+[^17]: According to another biography, the name was given by Jiva and the residents of Vraja.
+
+[^18]: According to the “Bhakti-ratnakara” (13th wave), as one of the biographies retells it, Virachandra went round Vraja
     with the permission of his mother, Vasudha, and with the blessing of Bhugarbha and Jiva; according to another
-    biography, at their command.
+    biography, at their command. The “Bhakti-ratnakara” itself (13.329) says “with the permission” of Bhugarbha, Sri Jiva
+    and others.
 
-[^18]: One of the biographies, in its chapter on Madhavendra Puri, also mentions Jiva's father: Mahaprabhu came to Arail,
+[^19]: One of the biographies, in its chapter on Madhavendra Puri, also mentions Jiva's father: Mahaprabhu came to Arail,
     where Rupa and Vallabha were living, in 1434/1435 Shaka (1512–1513) and showed mercy to Vallabhacharya. This date is
     earlier than the meeting in Ramakeli and does not agree with the course of events in the “Chaitanya-charitamrita”.
 
-[^19]: According to another biography, Jiva's Deity, Radha-Damodara, is worshipped to this day in the Radha-Damodara
+[^20]: According to another biography, Jiva's Deity, Radha-Damodara, is worshipped to this day in the Radha-Damodara
     temple in Vrindavana.
 
-[^20]: One of the biographies explains in a note that the third son of Vitthalacharya (the son of the original
+[^21]: One of the biographies explains in a note that the third son of Vitthalacharya (the son of the original
     Vallabhacharya, a contemporary of Gaurasundara), Gokulanatha, was also called “Vallabha”; he changed his grandfather's
     views and created the new teaching of “Vallabha”, and through his efforts Madhavendra Puri's Gopaladeva was moved to
     present-day Nathdwara. On another dispute between Jiva and Vallabha Bhatta, told by the “Bhakti-ratnakara”, see note
-    21 below.
+    22 below.
 
-[^21]: The sahajiyas say that Rupa reproached Jiva for the debate with the digvijayi and rejected him for a time, and that
+[^22]: The sahajiyas say that Rupa reproached Jiva for the debate with the digvijayi and rejected him for a time, and that
     only Sanatana's intercession brought Jiva back into Rupa's company. A similar story, connected not with the digvijayi
-    but with Vallabha Bhatta, is told by the “Bhakti-ratnakara” (5th wave), and after it by one of the biographies (see also
-    the article on Rupa Gosvami). Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him; Vallabha Bhatta
-    came and proposed corrections to the opening verses. Jiva, angered by his presumption, followed him to the Yamuna, as if
-    to fetch water, and refuted all his objections. Vallabha told Rupa of the dispute; Rupa gently reproached Jiva and told
-    him to return to Bengal and come back only when he had calmed down. Jiva, however, went not home but to the
-    neighbouring village of Nanda-ghat, and there, to regain his guru's mercy, worshipped Krishna intently, fasted or ate
-    the merest morsel, and grew very weak in body. Sanatana, happening to come there, found him, brought him to Rupa and
-    begged forgiveness for him; Rupa and Jiva were reconciled. Another biography tells something different about Vallabha
-    Bhatta (see above, the section “Master of Vedanta”) and says nothing of any banishment.
+    but with Vallabha Bhatta, is told by the “Bhakti-ratnakara” (5.1626–1665; see also the article on Rupa Gosvami). Rupa
+    was writing the “Bhakti-rasamrita-sindhu” and the young Jiva was fanning him; Vallabha Bhatta came and, glancing at the
+    opening verses, said he would correct them. Jiva, on the pretext of fetching water, followed him to the Yamuna, asked
+    what his doubt was, and refuted all his objections. Vallabha returned to Rupa, asked about the youth and praised him,
+    while Rupa gently said to Jiva: “Out of kindness to me the Bhatta undertook to correct the book for my good, and you
+    could not bear even such small words” — and told him to go east and return to Vrindavana when his mind was calm. This
+    is a lila of instruction: the guru teaches his disciple forbearance and is not angry
+    with him. Jiva went only a short way, to
+    Nanda-ghat, and lived there in a hut of leaves in a secluded forest; now he ate the merest morsel, now he fasted, and
+    he grew very weak in body. Sanatana, happening to come there, found him and told Rupa of him; Rupa at once sent for
+    Jiva and nursed him himself, and then Rupa and Sanatana entrusted everything to Jiva. The “Bhakti-ratnakara” tells of
+    the digvijayi only after this reconciliation, and he is not connected with Rupa's reproach (5.1666–1669): the
+    digvijayi demanded a certificate of victory, Jiva at once sent him a letter, and on reading it he was defeated. One of
+    the biographies retells the “Bhakti-ratnakara” story differently: Jiva followed Vallabha, angered by his presumption,
+    and Sanatana himself brought him to Rupa and begged forgiveness for him. Another biography tells something different
+    about Vallabha Bhatta (see above, the section “Master of Vedanta”) and says nothing of any banishment.
 
-[^22]: The biographies name different motives: one, envy of the beauty of the “Chaitanya-charitamrita”; the other, Jiva's
+[^23]: The biographies name different motives: one, envy of the beauty of the “Chaitanya-charitamrita”; the other, Jiva's
     fear for his reputation as a scholar after reading in it a clear exposition of vraja-bhava.
 
-[^23]: The argument of one of the biographies rests on Jiva's letters preserved in the “Prema-vilasa” and the
+[^24]: The argument of one of the biographies rests on Jiva's letters preserved in the “Prema-vilasa” and the
     “Bhakti-ratnakara”. In our translation of the “Prema-vilasa” Srinivasa's son Vrindavana Dasa is mentioned in letter 3
     (Jiva's second letter to Srinivasa), and Krishnadasa's obeisances stand at the end of letter 6 — Jiva's fourth letter,
     addressed not to Srinivasa but to Govinda Kaviraja. The conclusion does not change: the Kaviraja was alive when
     Srinivasa already had a family.
 
-[^24]: The era is not named; by the sense it is the Bengali era (about 1721 CE; our own conversion).
+[^25]: The era is not named; by the sense it is the Bengali era (about 1721 CE; our own conversion).
 
-[^25]: The Bengali text here says “created by maya”. What is meant is Yogamaya — the Lord's spiritual power that arranges
+[^26]: The Bengali text here says “created by maya”. What is meant is Yogamaya — the Lord's spiritual power that arranges
     His pastimes — not the mundane maya that binds living beings: the Lord and His associates are not subject to it.
     Bhaktivinoda himself understands it so below: “all that Yogamaya manifests is pure”.
 
-[^26]: According to another biography, on the way Srinivasa learned from brahmanas that Raghunatha Bhatta and other great
+[^27]: According to another biography, on the way Srinivasa learned from brahmanas that Raghunatha Bhatta and other great
     devotees had just departed, and fell unconscious; the brahmanas brought him to the place where Jiva lived.
 
-[^27]: According to another biography, the next morning Srinivasa went with Jiva for the darshana of Radha-ramana, saw
+[^28]: According to another biography, the next morning Srinivasa went with Jiva for the darshana of Radha-ramana, saw
     Gopala Bhatta there, and the following day Gopala Bhatta initiated him.
 
-[^28]: According to another biography, Srinivasa was sent to Raghunatha Dasa at Radha-kunda; after three days there he
+[^29]: According to another biography, Srinivasa was sent to Raghunatha Dasa at Radha-kunda; after three days there he
     returned to Vrindavana, to Jiva's shelter.
 
-[^29]: According to another biography, Jiva taught Srinivasa the “Bhagavatam” and the books of the Gosvamis; soon he knew
+[^30]: According to another biography, Jiva taught Srinivasa the “Bhagavatam” and the books of the Gosvamis; soon he knew
     all their conclusions by heart, and Jiva gave him the title “Acharya” for his knowledge of philosophy.
 
-[^30]: One of the biographies gives Narottama's title simply as “Thakura” and says that Jiva told only Srinivasa to go round
+[^31]: One of the biographies gives Narottama's title simply as “Thakura” and says that Jiva told only Srinivasa to go round
     Vraja with Raghava Gosvami. According to another, Srinivasa first met Narottama in person in Jiva's ashrama, and Jiva
     told both to go round the forests of Vrindavana with Raghava Gosvami.
 
-[^31]: Two biographies say that he was sent to Jiva by his guru, Hridaya Chaitanya (according to one, “to Jiva's school”);
+[^32]: Two biographies say that he was sent to Jiva by his guru, Hridaya Chaitanya (according to one, “to Jiva's school”);
     one of them calls Jiva the foremost scholar of the sampradaya. According to a third, in its chapter on Shyamananda,
     Duhkhi was sent to Jiva by Raghunatha Dasa.
 
-[^32]: According to another biography, Hridaya, learning of his disciple's zeal in Vraja, wrote Jiva a letter: let Duhkhi
+[^33]: According to another biography, Hridaya, learning of his disciple's zeal in Vraja, wrote Jiva a letter: let Duhkhi
     regard Jiva as a continuation of himself.
 
-[^33]: One of the biographies says that Jiva named him “Shyamananda” because he had delighted Shyamasundara. Another tells
+[^34]: One of the biographies says that Jiva named him “Shyamananda” because he had delighted Shyamasundara. Another tells
     it differently: drawing water for Jiva, Duhkhi found Radha's anklet at Kanana-kunja; Radha Herself marked him with tilaka
     using it and named him “Shyamananda”, and he returned to Jiva's feet. Jiva, seeing the shining tilaka, was struck dumb
     with amazement and asked about it; on hearing the story he was overjoyed, told him not to reveal this miracle to people,
     and said: “From this day your name is Shyamananda”. According to this account Jiva only confirmed the name given by
     Radha.
 
-[^34]: According to one biography, to Gauda; according to another, to Orissa.
+[^35]: According to one biography, to Gauda; according to another, to Orissa.
 
-[^35]: One of the biographies adds: “so they lived with Rupa Gosvami, who taught them everything”. But Rupa was no longer
+[^36]: One of the biographies adds: “so they lived with Rupa Gosvami, who taught them everything”. But Rupa was no longer
     present then; this is probably a slip, or refers to Rupa's teaching, which they received through Jiva.
 
-[^36]: The biographies describe this decision differently: all the Gosvamis of Vraja together with Jiva decided to send
+[^37]: The biographies describe this decision differently: all the Gosvamis of Vraja together with Jiva decided to send
     the books soon with Srinivasa; Srinivasa was sent by Jiva at the wish of Gopala Bhatta; the Gosvamis of Vrindavana
     decided to send the three; Jiva and the other Vaishnavas of Vraja told them to take the manuscripts. One more biography,
     in its chapter on Narottama, relates that Jiva called all three and said: “In future you must preach Mahaprabhu's
     message widely — take the books of the Gosvamis and go quickly to Bengal”, and they, accepting the guru's order, left.
 
-[^37]: Only one biography gives the year. According to it, they left on an ox-cart; according to another, on one of the
+[^38]: Only one biography gives the year. According to it, they left on an ox-cart; according to another, on one of the
     days of the bright fortnight of aghrahayana.
 
-[^38]: This does not agree with other testimonies: by its colophon the “Purva-champu” was completed in 1510 Shaka (on the
+[^39]: This does not agree with other testimonies: by its colophon the “Purva-champu” was completed in 1510 Shaka (on the
     dates of the book see the section on his writings), by Jiva's own letters (see below) the “Uttara-champu” was still
     being revised after Srinivasa's departure, and the “Karnananda” says that the “Gopala-champu” was already being relished
     in Raghunatha Dasa's time at Radha-kunda (see above).
 
-[^39]: According to another biography, at Jiva's command Ramachandra visited Madana-mohana, Govinda, Gopinatha and the
+[^40]: According to another biography, at Jiva's command Ramachandra visited Madana-mohana, Govinda, Gopinatha and the
     samadhi of Sanatana, saw Lokanatha, Gopala Bhatta and Bhugarbha, and these three gave him the title for his verses. One
     more biography, in its chapter on Jahnava, says that the title was given to Govinda by Jiva, Srinivasa and Jahnava.
 
-[^40]: About 1941 CE (our own conversion).
+[^41]: About 1941 CE (our own conversion).
 
-[^41]: In the Bengali retelling of one of the biographies Ramanuja's teaching is called vishishtadvaita-vada and Madhva's
+[^42]: In the Bengali retelling of one of the biographies Ramanuja's teaching is called vishishtadvaita-vada and Madhva's
     bheda-vada; in Jiva's Sanskrit text both are named as upholders of difference.
 
-[^42]: One of the biographies, retelling this list, places the “Krama-sandarbha” first among the “Sandarbhas” and calls
+[^43]: One of the biographies, retelling this list, places the “Krama-sandarbha” first among the “Sandarbhas” and calls
     the “Krishnarchana-dipika” the “Radha-krishnarchana-dipika”; in the “Bhakti-ratnakara” itself the “Krama-sandarbha” is
     named seventh (1.842).
 
-[^43]: According to another biography, Sanatana gave the “Vaishnava-toshani” to Jiva to revise, and Jiva completed the
+[^44]: According to another biography, Sanatana gave the “Vaishnava-toshani” to Jiva to revise, and Jiva completed the
     revised text, naming it the “Laghu-toshani”, in 1504 Shaka.
 
-[^44]: The address “vraja-vallabha” (“beloved of Vraja”) is taken by the Bengali retelling in one of the biographies to
+[^45]: The address “vraja-vallabha” (“beloved of Vraja”) is taken by the Bengali retelling in one of the biographies to
     refer to Jiva's father, Vallabha (Anupama).
 
-[^45]: One of the biographies calls this work of Bhaktivinoda the “Anubhashya”; but “Anubhashya” is the name of Srila
+[^46]: One of the biographies calls this work of Bhaktivinoda the “Anubhashya”; but “Anubhashya” is the name of Srila
     Bhaktisiddhanta Sarasvati's commentary (on the “Chaitanya-charitamrita”), so the titles are probably confused here
     (cf. the article on Sanatana Gosvami).
 
-[^46]: One of the biographies says otherwise: Gopala Bhatta wrote a preface to Jiva's “Shat-sandarbha”.
+[^47]: One of the biographies says otherwise: Gopala Bhatta wrote a preface to Jiva's “Shat-sandarbha”.
 
-[^47]: In the retelling of another biography Jiva says that he arranges Gopala Bhatta's book, checking it against the
+[^48]: In the retelling of another biography Jiva says that he arranges Gopala Bhatta's book, checking it against the
     teachings of the great — Madhva, Shridhara Svami and Ramanujacharya.
 
-[^48]: One of the biographies refers here to the “Notices of Sanskrit Manuscripts”, vol. I, p. 207, and to Aufrecht,
+[^49]: One of the biographies refers here to the “Notices of Sanskrit Manuscripts”, vol. I, p. 207, and to Aufrecht,
     vol. IV, pp. 303–305; the sources seem to be confused: vol. I, p. 207 is Aufrecht's “Catalogus Catalogorum” (the same
     place where the “Mukta-charita” and the “Stavamala” are mentioned), while vol. IV, pp. 303–305 is Mitra's “Notices”.
 
-[^49]: According to another biography, Baladeva wrote a commentary on the “Tattva-sandarbha” (cf. the verse from its
+[^50]: According to another biography, Baladeva wrote a commentary on the “Tattva-sandarbha” (cf. the verse from its
     beginning quoted above).
 
-[^50]: According to another biography, Baladeva met in Puri the pandita Sri Radha-Damodara, one of the chief disciples of
+[^51]: According to another biography, Baladeva met in Puri the pandita Sri Radha-Damodara, one of the chief disciples of
     Rasikananda Deva, received from him the Radha-Krishna mantra and at his feet began to study the “Shat-sandarbha”.
 
-[^51]: The biographies cite these places as shlokas 195 (Vilasa-manjari) and 203 (Jiva); in the edition on which our
+[^52]: The biographies cite these places as shlokas 195 (Vilasa-manjari) and 203 (Jiva); in the edition on which our
     translation of the “Gaura-ganoddesha-dipika” is based, shlokas 194–207 are grouped together, and the correspondence of
     the gopis' names to Gaura's associates is given in the order of enumeration.
