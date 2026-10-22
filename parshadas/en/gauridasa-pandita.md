@@ -209,8 +209,8 @@ the Deities, giving him full right to it — adhikara. <!-- F54 F55 -->
 Gauridasa's anger was only an outward play: inwardly he rejoiced, and through this play the glory of the disciple was
 revealed, the one into whose heart Gaura and Nitai had entered. <!-- I4 -->
 
-From Gauridasa comes a line of disciplic succession. The chief disciple of Hridaya Chaitanya was Shyamananda, who called
-himself the servant of the servant of Subala; after him came Rasikananda, Nayanananda, Radha-Damodara and Baladeva
+From Gauridasa comes a line of disciplic succession. The chief disciple of Hridaya Chaitanya was Shyamananda —
+the servant of the servant of Subala; after him came Rasikananda, Nayanananda, Radha-Damodara and Baladeva
 Vidyabhushana; this line is called the line of Nityananda. Hridaya Chaitanya himself, the disciple of Subala-sakha,
 worshipped Gaura-Nitai in the mood of friendship. <!-- F56 -->
 

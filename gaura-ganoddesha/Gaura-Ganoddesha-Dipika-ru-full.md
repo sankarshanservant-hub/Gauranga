@@ -1825,9 +1825,9 @@
 *subalo yaḥ priyaśreṣṭhaḥ sa gaurīdāsapaṇḍitaḥ|*
 *kamalākaraḥ pippalāināmnāsīdyo mahābalaḥ||128||*
 
-*Пословно:* subalah — Субала; yah — который; priya-shreshthah — лучший из любимых (друзей); sah — он; gauridasa-panditah — Гаури Дас Пандит; kamalakarah — Камалакара; pippalai-namna — по имени Пиппалаи; asit — был; yah — который; mahabalah — Махабала.
+*Пословно:* subalah — Субала; yah — который; priya-shreshthah — лучший из любимых (друзей); sah — он; gauridasa-panditah — Гауридас Пандит; kamalakarah — Камалакара; pippalai-namna — по имени Пиппалаи; asit — был; yah — который; mahabalah — Махабала.
 
-**128.** Субала, лучший из любимых друзей, — это Гаури Дас Пандит; могучий Махабала — это Камалакара Пиппалаи.
+**128.** Субала, лучший из любимых друзей, — это Гауридас Пандит; могучий Махабала — это Камалакара Пиппалаи.
 
 ### Шлока 129
 
