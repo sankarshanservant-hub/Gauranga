@@ -4492,12 +4492,13 @@
    {
     "in": "krishna-lila",
     "as": "Васудама — друг (сакха) Кришны; один из двенадцати гопалов",
-    "source": "ГГД 127 (по T)",
+    "source": "ГГД 127 (по T); иначе — «Гопала-нирная» (Васудама = Камалакара, ур. C; F40)",
     "level": "A",
     "facts": [
      "F1",
      "F2",
-     "Q1"
+     "Q1",
+     "F40"
     ]
    }
   ],
@@ -4507,7 +4508,7 @@
    "ev-panihati-chida-dadhi",
    "ev-tattva-bhakti-kalpataru"
   ],
-  "events_note": "Все события — только по lila-db (F39): ev-dhananjaya-renunciation — ванданы (Джива 117–118, Девакинандана 118, «в трипади» 109–110); ev-panihati-chida-dadhi — ЧЧ Антья 6; ev-nityananda-preaching-gauda — «Гопала-нирная» (vv-0061); ev-tattva-bhakti-kalpataru — ветви Нитьянанды, ЧЧ Ади 11.31. Участие в навадвипской санкиртане (F17) отдельным событием в lila-db не заведено.",
+  "events_note": "Все события — только по lila-db (F39): ev-dhananjaya-renunciation — ванданы (Джива 117–118, Девакинандана 118, «в трипади» 109–110); ev-panihati-chida-dadhi — ЧЧ Антья 6; ev-nityananda-preaching-gauda — «Первая вандана» (vv-0061; Дхананджая — ст. 49, вне вставки «Гопала-нирная», где Васудама — Камалакара, F40); ev-tattva-bhakti-kalpataru — ветви Нитьянанды, ЧЧ Ади 11.31. Участие в навадвипской санкиртане (F17) отдельным событием в lila-db не заведено.",
   "teachings_given": [],
   "teachings_received": [],
   "works": [],
