@@ -206,7 +206,7 @@ kundas, his days in studying the shastras and writing. Rupa loved him as his own
 of Radha-ramana. Gopala Bhatta came to Vrindavana as one of those drawn by the bhajana of Rupa and Sanatana and by the
 Lord's earlier command — Raghunatha Bhatta and Raghunatha Dasa came as well, while Lokanatha was living there already.
 According to one account, Gopala Bhatta's hut stood on the bank of the Manasa-ganga at Govardhana, and Raghunatha
-Dasa, who at first had no shelter at Radha-kunda, sometimes stayed with him. (according to the “Bhakti-ratnakara,” 5.554–562, Gopala Bhatta’s dwelling was at Radha-kunda). <!-- F31 F108 -->
+Dasa, who at first had no shelter at Radha-kunda, sometimes stayed with him (according to the “Bhakti-ratnakara,” 5.554–562, Gopala Bhatta’s dwelling was at Radha-kunda). <!-- F31 F108 -->
 
 ## The “Hari-bhakti-vilasa”
 In the South Gopala Bhatta had himself seen the good conduct — sadachara — of the Vaishnavas of Ramanuja's school, while
