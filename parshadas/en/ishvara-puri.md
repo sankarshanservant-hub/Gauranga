@@ -303,7 +303,7 @@ was filled with tenderness towards Him as soon as he learned that He was a disci
 <!-- F72 F73 F74 -->
 
 Srila Bhaktisiddhanta says: the Lord, the guru of the whole world, accepted Ishvara Puri as His guru in order to
-glorify him. And the Lord Himself treasured what He had heard from him: in Remuna He told His companions the story of
+honour him. And the Lord Himself treasured what He had heard from him: in Remuna He told His companions the story of
 Madhavendra and Gopala as He had heard it from the lips of His guru (CC, Madhya 4). <!-- F71 F76 -->
 
 Later works, which must be approached with caution, add a good deal more[^15]. The “Prema-vilasa” calls Ishvara Puri
