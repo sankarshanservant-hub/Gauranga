@@ -1987,8 +1987,8 @@ also on the “Padma,” “Vishnu,” “Brahmanda” and “Skanda” Puranas,
 According to the “Bhakti-ratnakara” (1.818–819), Rupa, at the wish of a certain Vaishnava, composed eleven verses on the
 eightfold (ashta-kaliya) lila — a treasure for the fortunate — and gave them to Krishnadasa Kaviraja to expand. In some
 manuscripts these verses are called “Ashta-kalika-shlokavali” or “Smarana-mangala-ekadasham.” In the Baharampur edition of
-the “Govinda-lilamrita” they stand at the beginning of the first sarga and open sargas 2, 5, 8, 19, 20 and 21; individual
-words of the last two verses coincide with the beginning of the 22nd sarga. Haraprasad Shastri describes a manuscript of
+the “Govinda-lilamrita” three of them are verses 3, 4 and 10 of the first sarga, and the rest open sargas 2, 5, 8, 19, 20 and 21; individual
+words of the last two verses coincide with part of the first verse of the 22nd sarga. Haraprasad Shastri describes a manuscript of
 the “Smarana-mangala” of thirty-five verses with the colophon “thus ends the ‘Smarana-mangala,’ the
 ‘Ashta-kalika-shlokavali’ on Radha-Krishna, composed by Shrimad Rupa Gosvami”; the Bangiya Sahitya Parishad holds a
 manuscript of eleven verses. The report of the “Bhakti-ratnakara” is confirmed by Kaviraja himself at the end of the
@@ -2011,7 +2011,7 @@ composer and reader must be devotees of Krishna. The main content of the book is
 kalika, the shloka and the viruda. Rhythmically ordered words are called “kala,” a group of kalas a “kalika” (no more than
 sixty-four kalas and no fewer than twelve); syllables are combined by five rules, each with short and long syllables, ten
 kinds in all; at the beginning and end of a kalika stand verses on the hero's virtues, and the description of these virtues
-poets call a “viruda.” Of earlier authors are named “some,” Bhujageshvara Pingala and one more whose name is unclear; almost
+poets call a “viruda.” Of earlier authors are named “some,” Bhujageshvara Pingala and Shanmukha; almost
 all the examples Rupa took from his own “Govinda-virudavali.” The conclusion of the book: Vasudeva, praised with a fine
 virudavali bearing all the marks, rejoices and bestows mercy, but one who glorifies Him with a virudavali lacking the proper
 marks Hari does not accept, however well he may recite. Following this book and the “Govinda-virudavali,” Jiva Gosvami
@@ -2034,7 +2034,8 @@ patience, performing the limbs of bhakti (hearing, chanting and the rest), givin
 of the sadhus; six kinds of association with sadhus that nourish bhakti; the proper treatment of Vaishnavas of the
 beginning, middle and highest stages; the prohibition of looking at a Vaishnava with a worldly eye; the way of remembering
 Krishna's name and the rest; the way of bhajana, the place of residence and the conduct of the practitioner; a comparison
-of places of bhajana and the pre-eminence of Sri Radha-kunda, and in the last two verses its glory. To restrain the six
+of places of bhajana and the pre-eminence of Sri Radha-kunda; in the tenth
+verse, that among practitioners the highest is one who has taken shelter of Radha-kunda, and in the eleventh, its glory. To restrain the six
 urges is the essence of a true tridandi-gosvami. <!-- F578 -->
 
 Rupa's poetics, plays and teaching on the ornaments of speech are prized and discussed by the prakrita-sahajiyas and
@@ -2053,7 +2054,7 @@ old book collection of his family. The compilers of one of the biographies met h
 October 1940; he told them that Bhaktivinoda, on reading the verses of the “Upadeshamrita,” was so amazed and delighted that
 he placed the manuscript on his head and, trembling with prema, in a faltering voice, said again and again that it would
 bring the world immeasurable good. Bhaktivinoda, who considered the book a priceless treasure for the true servants of Hari,
-also made a verse rendering of it (“Sri Upadeshamrita-bhasha”), set it to songs in the “Sharanagati,” and in the 10th–11th
+also made a verse rendering of it (“Sri Upadeshamrita-bhasha”), set it to songs in the “Bhajana-lalasa” section of the “Sharanagati,” in the graceful tripadi metre, and in the 10th–11th
 years of the “Sajjana-toshani” (1898–1899) wrote, on the basis of the second and third verses, twelve articles on the six
 things favourable and the six unfavourable to bhakti. <!-- F582 F583 F584 F585 F590 Q146 -->
 
@@ -2120,12 +2121,12 @@ avataras, Radhika the first and most revered of His beloveds, and the sakhis Her
 path of raga has realized it by his mercy. Having received Sri Chaitanya's command and studied the “Bhagavatam,” Rupa drew
 from it the treasures of the siddhanta of bhakti, made them into his books and gave living beings the chintamani of prema;
 in plays, songs and verses on the rasa of Radha-Krishna he established the pure view of parakiya, established on earth Sri
-Chaitanya's innermost desire and tasted its sweetness; and at the end, in separation from Him, he bore the cruellest
-anguish — hence his raving and lament. <!-- F611 F612 F613 -->
+Chaitanya's innermost desire and tasted its sweetness; and at the end the song speaks of the cruellest
+anguish in separation from Sri Chaitanya — of raving and lament.[^65] <!-- F611 F612 F613 -->
 
 Two other songs are signed “Madho.” If Rupa had not taken a body in the Kali-yuga, the first sings, who would have opened the
 storehouse of the treasure of vraja-prema, who, like a swan, would have separated milk from water, who, giving up
-everything, would have worshipped Vrindavana, who would have told of Mathura and Vrindavana, the customs of Vraja, the deeds
+everything, would have worshipped Vrindavana, who would have known Mathura and Vrindavana, the customs of Vraja, the deeds
 of Radha-Madhava and that love? By the mercy of his feet all sing and make others sing. The second glorifies Rupa, the ocean
 of the great rasa: his darshana, touch and words are nectar; he is deep, steadfast and merciful, a treasury of
 prema-bhakti, who revealed the great gem of ujjvala-prema; he renounced Gauda, is adorned with virtues, gladdens the
@@ -2150,11 +2151,11 @@ he was plunged into such ecstasy that he amazed everyone (“Bhakti-ratnakara,�
 Vraja is the place of his bhajana, Teri-kadamba (Ter-kadamba), near Nandagrama. <!-- F618 F619 -->
 
 ## Rupa-manjari
-In Krishna's eternal pastimes Rupa is Rupa-manjari. The “Gaura-ganoddesha-dipika” says: “She who was formerly called
-Rupa-manjari in Vrindavana has now appeared as Rupa Gosvami” (180). Lalita is first among the sakhis of Radharani's
+In Krishna's eternal pastimes Rupa is Rupa-manjari. The “Gaura-ganoddesha-dipika” says: “Sri Rupa-manjari, who was once famous
+in Vrindavana, has now appeared, having become Rupa Gosvami” (180). Lalita is first among the sakhis of Radharani's
 retinue, and Rupa-manjari is first among those who follow Lalita; therefore in Gaura-lila too Rupa is the head of the six
-Gosvamis.[^65] Her closest friend is Rati-manjari, whom the wise also call Lavanga-manjari; according to the
-“Gaura-ganoddesha-dipika,” she appeared as Sanatana. <!-- F620 F621 F622 F625 -->
+Gosvamis.[^66] Her closest friend is Rati-manjari, whom the wise also call Lavanga-manjari; according to the
+“Gaura-ganoddesha-dipika” (181–182), she is now Sanatana. <!-- F620 F621 F622 F625 -->
 
 Rupa and Sanatana are eternal associates of Krishna in Vrindavana: they came to enrich Gauranga's pastimes and only played
 the role of sadhakas striving for perfection. Therefore the words in which the brothers called themselves men of “low
@@ -2356,7 +2357,10 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     Karnapura composed a verse in the arya metre at the age of seven (CC, Antya 16) — but a request from Raghunatha Dasa,
     who had not yet appeared, would be outwardly impossible. The word “svara” can also mean “three” (the three tones of
     Vedic recitation), but that would give 1431 Shaka (1509), when Raghunatha was three years old.
-[^65]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
+[^65]: In the original: “chaitanya-birahe shesh, pai atishay klesh”: the verb “pai” (“I suffer”) is grammatically more
+    likely first person, so these words may belong to the singer himself; the anguish, raving and lament can be ascribed to
+    Rupa only from the course of the song.
+[^66]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
     whom Ramananda is non-different.
 
 [^jiva-br]: So the “Bhakti-ratnakara” (5th taranga) tells of “Rupa's mercy to Jiva”: on a hot summer day, when Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing. Following the “Bhakti-ratnakara,” one biography retells this incident precisely as “Rupa's mercy to Jiva.”
