@@ -1019,7 +1019,7 @@ penniless sannyasi, and I have nothing to give you but My body — this I give t
 <!-- F134 Q14 -->
 
 ## The Riddle
-Every year the Lord sent Jagadananda Pandita to Nadia to console Shachi. The last time, having stayed there a month,
+Every year the Lord sent Jagadananda Pandita to Nadia to console Shachi. Once, having stayed there a month,
 Jagadananda came to take leave of Advaita, and Advaita sent with him a message to the Lord — a riddle, a tarja,
 understandable to Him alone:
 
@@ -1029,11 +1029,12 @@ Antya 19.20)
 “Tell the madman that the mad one is no longer occupied with worldly affairs. Tell the madman that a madman has said
 this.” (CC, Antya 19.21)[^43]
 
-Hearing the riddle, the Lord smiled slightly, said, “Such is His order,” and fell silent. To Svarupa Damodara's question
-He answered only that the Acharya is a great knower of worship according to the agamas: for the puja He invokes the
+Hearing the riddle, the Lord smiled slightly, said, “Such is His order,” and fell silent. To the question of Svarupa Damodara, who
+himself knew its meaning, He answered only that the Acharya is a great knower of worship according to the agamas: for the puja He invokes the
 Deity, and when the worship is finished He sends Him away — and the meaning of the riddle, said the Lord, even He could
-not understand (Antya 19.23–28). Svarupa grew anxious: from that day the Lord's separation from Krishna became twice as
-strong, and His divine madness grew — His pastimes in this world were soon to be concealed. <!-- F135 Q14 -->
+not understand (Antya 19.23–28). Svarupa Damodara grew sad: from that day the Lord's separation from Krishna became twice as
+strong, and His divine madness grew (19.29–31). One of the biographies sees in this a sign that the Lord's pastimes in
+this world were soon to be concealed. <!-- F135 Q14 -->
 
 Srila Bhaktivinoda Thakura reveals the meaning of the riddle: all are already intoxicated with prema, and the purpose for
 which Advaita called the Lord has been achieved; now the Lord is free to act as He pleases[^44]. <!-- I14 -->
@@ -1067,8 +1068,9 @@ Vrindavana Dasa says the same still more sternly:
 Antya 4.183) <!-- F137 Q11 -->
 
 Achyutananda, according to the “Charitamrita,” is a great branch of Advaita's tree: from his very birth he served the
-feet of Sri Chaitanya (Adi 12.13). The “Gaura-ganoddesha-dipika” calls him the beloved disciple of Gadadhara Pandita and
-sees in him Karttikeya or the gopi Achyuta (others consider Krishna Mishra to be Karttikeya). One of the biographies gives
+feet of Sri Chaitanya (Adi 12.13). The “Gaura-ganoddesha-dipika” (87–88) calls him the darling of Krishna-Chaitanya and the beloved disciple of
+Gadadhara Pandita and sees in him Karttikeya and the gopi Achyuta — both are true, for the two are united in one (others
+consider Krishna Mishra to be Karttikeya). One of the biographies gives
 the year of his birth as 1428 Shaka (1506), and the place as Shantipura[^46]. Srila Bhaktisiddhanta in the “Anubhashya”
 calls Achyutananda the first of Advaita's disciples, while the “Shakha-nirnayamrita” calls him a disciple of Gadadhara. In
 the Lord's last years, according to the “Charitamrita,” he remained living in Jagannatha Puri, having taken shelter at
@@ -1077,11 +1079,23 @@ that time. <!-- F138 Q11 -->
 
 Yet another biography mentions “Sri Nrisimha, the son of Advaita Acharya,” who lived in Ramakeli[^47]. <!-- F139 -->
 
+According to one of the biographies, Achyutananda and his brothers Krishna Mishra and Gopala lived in celibacy, serving
+the Lord's mission, while Advaita's line continued from His other sons, who did not follow the Lord. The same biography
+says that Balarama and his descendants rose against the teaching and that Srila Vishvanatha Chakravarti contended with
+them. <!-- F153 -->
+
 ## Disciples
 Advaita's mercy extended also to those who were bound to Him as disciples. Yadunandana Acharya of Chandpur, the guru of
 Raghunatha Dasa, was a close disciple of Advaita; Srinatha Chakravarti, the guru of Kavi Karnapura, a sub-branch of His
 tree; Padmanabha Chakravarti, the father of Lokanatha Gosvami, a dear follower of His. Kamalakanta Vishvasa, of whom we
 have told above, was also Advaita's disciple. <!-- F140 -->
+
+Another biography also names as Advaita's disciples Balarama Acharya of Chandpur — the priest of Hiranya and
+Govardhana, in whose house Haridasa lived (CC, Antya 3.164–167) — and Padmanabha together with his wife. The late
+“Prema-vilasa” tells that the “conqueror of the quarters” Bada Shyamadasa, defeated by Advaita in debate at Shantipura,
+received from Him the Krishna mantra and became known as Bhagavata Acharya (24.186–191); it was he who arranged
+Advaita's marriage (24.331–334). (According to the “Charitamrita,” Bhagavata Acharya is a branch of Gadadhara Pandita,
+Adi 12.80.) <!-- F152 -->
 
 ## Concealment
 When and where Advaita concluded His pastimes in this world, most of the biographies do not say. According to the
@@ -1089,17 +1103,19 @@ When and where Advaita concluded His pastimes in this world, most of the biograp
 Shrihatta”); the biographies do not name the lunar day of His departure, and in our calendar there is no day of Sri
 Advaita's departure[^48]. <!-- F141 -->
 
-It is known that Advaita remained in the world even after the Lord's concealment, and departed before Sita. Srinivasa,
-returning from Puri, where he no longer found Gadadhara Pandita, learned on the way that Advaita and Nityananda too had
-concealed Themselves, and in grief resolved to give up his body; but both Prabhus appeared to him in a dream and
-consoled him. In Shantipura he saw Sita, barely alive in separation from her husband[^49]. Advaita came to Srinivasa in
+It is known that Advaita remained in the world even after the Lord's concealment, and concealed Himself before Sita.
+Srinivasa, returning from Puri, where he no longer found Gadadhara Pandita, learned on the high road from people of Gauda
+that Advaita and Nityananda too had concealed Themselves, and in grief resolved to give up his body; but both Prabhus
+appeared to him in a dream and consoled him (“Bhakti-ratnakara,” 3.325–358). Entering Shantipura, he again saw Advaita:
+He appeared to him and consoled him. And Sita, barely alive in separation from her husband, placed her feet on his head,
+blessed him and entrusted him to Madana-Gopala — Advaita's Deity (4.63–79)[^49]. Advaita came to Srinivasa in
 dreams later too: He told him to marry — even before Narahari told him the same. <!-- F141 F142 -->
 
 In Shantipura the service was continued by Advaita's sons. Achyutananda, Gopala and Krishna Mishra received Jahnava
 there; in Advaita's house Narottama spent two days with Achyutananda and bowed to him, and Krishna Mishra received
 Virachandra with honours and sankirtana. At the great festival in Kheturi were Achyutananda, Krishna Mishra and Gopala
-from Shantipura; and when kirtan was sung there, the Lord Himself appeared with His departed associates, and the
-“Bhakti-ratnakara” (10) exclaims: how Advaita and Nityananda shone in ecstasy! <!-- F143 F144 Q16 -->
+from Shantipura; and when kirtan was sung there, the Lord Himself appeared with His associates — both manifest and already concealed — and the
+“Bhakti-ratnakara” (10.573–604) exclaims: how Advaita and Nityananda shone in ecstasy! <!-- F143 F144 Q16 -->
 
 ## Places of Remembrance and Books
 In Ramakeli, in the temple of Madana-mohana, the Deity of Advaita is worshipped together with Nitai-Gauranga. In
@@ -1284,7 +1300,7 @@ Chaitanya. <!-- I14 I13 -->
     names six: Achyutananda, Krishna Mishra and Gopala as branches of Advaita's tree, and as “other sons” Balarama,
     Svarupa and Jagadisha (Adi 12.13–27). Another biography says that Sita bore three — Achyutananda, Krishna Mishra and
     Gopala; a third names only Achyutananda.
-[^46]: This year agrees poorly with the primary sources: according to the “Charitamrita” (Adi 12.17) and the
+[^46]: Another biography gives “about 1505.” Both years agree poorly with the primary sources: according to the “Charitamrita” (Adi 12.17) and the
     “Chaitanya-bhagavata” (Antya 4), Achyuta was five years old when he objected to his father about Keshava Bharati —
     already after the Lord's sannyasa, while the “Chaitanya-bhagavata” calls him a small child as early as 1510 (Antya
     1). The year of his birth therefore remains unclear.
@@ -1295,5 +1311,6 @@ Chaitanya. <!-- I14 I13 -->
     for caution.
 [^49]: Elsewhere the same biography says that when Jahnava came to Shantipura before the festival in Kheturi, neither
     Advaita nor Sita was any longer in the world.
-[^50]: Only this late book, whose information should be treated with caution, also tells of Madana-Gopala — the Deity
-    whom Advaita served; the biographies on which this article relies are silent about Him.
+[^50]: Only this late book, whose information should be treated with caution, tells in detail of Madana-Gopala — the
+    Deity whom Advaita served; the “Bhakti-ratnakara” (4.79) mentions Madana-Gopala in Advaita's house in Shantipura:
+    Sita entrusted Srinivasa to Him.
