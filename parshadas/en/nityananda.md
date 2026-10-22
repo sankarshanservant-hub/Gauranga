@@ -576,28 +576,45 @@ The people of Navadvipa mocked such preaching, but the two, strong in Chaitanya'
 
 In Navadvipa lived Jagai and Madhai — drunkards and robbers, great sinners born in a brahmana family; there was no vileness
 they had not committed — only offence to Vaishnavas had not touched them. Seeing their fall, Nityananda was especially
-merciful to them: He asked people about them and was fired with the wish to save them. Respectable people tried to
-dissuade Him, but He would not listen; He stood where the brothers could hear Him and loudly delivered Mahaprabhu's
-command:
+merciful to them: His heart wept for them. He asked people about them and was fired with the wish to save them — then the
+whole world would know the glory of the Lord. He disclosed His plan to Haridasa, and Haridasa answered, “Whatever You
+desire is the Lord's desire.” Respectable people tried to dissuade Them, but They would not listen; They stood where the
+brothers could hear Them and loudly delivered Mahaprabhu's command:
 
 “Krishna has descended to grant you the highest good. Therefore give up your sinful life and worship Him alone.” (CB,
-Madhya 13.84) <!-- F192 F193 Q27 -->
+Madhya 13.84) <!-- F192 F193 Q27 F446 -->
 
-The brothers, eyes bloodshot, rushed at them in anger, and Nityananda and Haridasa ran without looking back — straight to
-Gaura, and told Him everything; old Haridasa could not keep up with Nityananda, but escaped. That evening Haridasa told
-Advaita that he would not go with Nityananda any more: His behaviour was reckless and unpredictable. But the flight of the
-all-powerful Nityananda is a mysterious lila: for later He alone delivered them. And to Gaura Nityananda said, “What are
-You so proud of? To bring the pious to the name is easy. Save such as Jagai and Madhai — then the name ‘Saviour of the
-fallen’ will be Yours by right.” “There is no doubt of it,” Gaura replied. <!-- F194 F195 I2 F196 -->
+The brothers, eyes bloodshot, rushed at Them in anger shouting “Seize them!”, and Nityananda and Haridasa ran without
+looking back, crying, “Krishna! Govinda! Save us!”; old Haridasa could not keep up with Nityananda, but escaped: the drunken
+pursuers stumbled and fell behind. The two came to Gaura and told Him everything, and Gangadasa and Srivasa explained to
+the Lord who these brothers were. “If they come here, I shall tear them to pieces,” said the Lord. But Nityananda
+answered, “Tear them You may, but while they are there I shall go nowhere any more. What are You so proud of? The pious
+chant Krishna's name by themselves; first make these two say ‘Govinda’ — to save such as Jagai and Madhai is greater glory;
+then the name ‘Saviour of the fallen’ will be Yours by right.” Vishvambhara smiled: “They were saved the moment they saw
+You. To whomever Nityananda wishes good, Krishna has already granted good — there is no doubt of it.” And Haridasa
+complained to Advaita that he would not go with Nityananda any more: His behaviour was reckless and unpredictable. But the
+flight of the all-powerful Nityananda is a mysterious lila: for later He alone delivered them.
+<!-- F194 F195 I2 F196 F446 -->
 
-Another time, at night, when Nityananda and Haridasa were returning to Mahaprabhu's house after preaching, Madhai threw a
-shard of a broken pot at Nityananda's head, and Jagai held him back. Mahaprabhu, learning of it, came and summoned the
-Sudarshana-chakra; but Nityananda said, “Jagai stopped Madhai. Forgive them — give Me their bodies as alms.” Gaura embraced
-Jagai: “By protecting Nityananda you have bought Me; from today you will obtain prema-bhakti.” Seeing the change in Jagai,
-Madhai too was changed: he took shelter at Nityananda's feet, and He forgave him all his offences. Both vowed to sin no
-more, took the shelter of Nitai-Gaura and became mahabhagavatas, and Gaura had the victory of Nityananda's mercy
-proclaimed. On His instruction Madhai every day prostrated himself before the Vaishnavas who came and begged forgiveness
-for his offences[^25]. <!-- F197 F198 F199 F200 F201 F202 F203 -->
+One night Nityananda came to the brothers on purpose, to save them. “Who are You?” — “I am going to the Lord's house.” —
+“What is Your name?” — “My name is Avadhuta.” At that name Madhai in anger struck Him on the head with a shard of an
+earthen pot; the head was split, blood flowed, but Nityananda only thought of Govinda. Jagai, taking pity on Him, held back
+his brother's hand: “What is the use of beating a sannyasi?”[^25] People ran to the Lord, and Mahaprabhu, seeing the blood,
+summoned the Sudarshana-chakra — the brothers saw it in terror; but Nityananda said, “When Madhai struck Me, Jagai saved
+Me. Forgive them — give Me their bodies as alms.” Gaura embraced Jagai: “By protecting Nityananda you have bought Me; from
+today you will obtain prema-bhakti,” — and showed him His four-armed form. Seeing the change in Jagai, Madhai too was changed
+and fell at the Lord's feet; but the Lord said, “Your guilt is heavier — you have shed Nityananda's blood, and Nityananda's
+body is higher than Mine; fall at His feet.” Madhai took shelter at Nityananda's feet, and He forgave him all his offences:
+“If in all My life I have gathered even a little piety, I give it all to Madhai”; at the Lord's word He embraced Madhai,
+entered into him and endowed him with every power. Both vowed to sin no more, took the shelter of Nitai-Gaura and became
+mahabhagavatas, and Gaura had the victory of Nityananda's mercy proclaimed. <!-- F197 F198 F199 F200 F201 F203 F447 -->
+
+But Madhai, remembering that he had shed Nityananda's blood, found no peace. Finding Him alone, he held His feet and with
+tears begged forgiveness, and Nityananda embraced him: “Does a father take offence at the slaps of his little son?” — and
+told him to build a ghat on the Ganga and humbly bow to everyone who came to bathe. From then on Madhai every day, with
+tears and pain, repeating “Krishna, Krishna,” served the ghat, prostrated himself before the Vaishnavas who came there and
+begged forgiveness for his offences. For his severe austerity he was called Madhai-brahmachari, and the ghat is called
+Madhai's ghat to this day (CB, Madhya 15.92–94). <!-- F202 F448 -->
 
 ## The “Dari” Sannyasi; the Kazi; the Universal Form
 Once, on the way to Advaita's house, Nityananda and Gaura called on a certain sannyasi. Gaura bowed, and he blessed Him:
@@ -630,8 +647,11 @@ scattered rice all over the house, and Advaita, feigning anger, revealed to the 
 At Mahaprabhu's bidding Nityananda went from town to town preaching the kirtana of Hari's name. The Kazi, hearing of the
 preaching and the noise of the kirtana, broke a mridanga; the hostile Hindus of Navadvipa supported him, called Nimai and
 Nitai “cheats” and said, “Soon the Kazi will stop Nityananda's street kirtana.” Then Gaura with Nityananda and all the
-Vaishnavas went out in a sankirtana procession through Navadvipa and subdued the Kazi; Advaita in that procession,
-holding on to Nityananda and Gadadhara, rushed about like a lion (CB, Madhya 23.29–30). <!-- F209 F210 -->
+Vaishnavas went out in a sankirtana procession through Navadvipa and subdued the Kazi. Nityananda danced in the procession beside the Lord;
+the order of the companies one biography gives in different ways: now Haridasa in front, Advaita in the middle and
+Gaurachandra Himself behind, now three companies led by Advaita, Haridasa and Srivasa. And before the procession, at the
+kirtana behind closed doors, Nityananda and Gadadhara whirled hand in hand, and Advaita, like a lion, rushed about the
+room (CB, Madhya 23.29–30). <!-- F209 F210 F449 -->
 
 Once, while Nityananda was walking about Nadia, Mahaprabhu revealed His universal form in Srivasa's house. Nityananda
 inwardly knew it, came at once to Srivasa's door and roared, and Gaura showed Him His form containing countless universes.
@@ -1656,10 +1676,11 @@ one must not imitate them.
 two days: Mahaprabhu “rescued” His kaupina and told the devotees to wear its shreds as an amulet (kavacha).
 [^24]: So in the “Chaitanya-bhagavata” (Madhya 20.14–17). One biography retells the dream the other way round:
 Nityananda-Balarama fans Mahaprabhu-Krishna with a chamara.
-[^25]: According to one biography, Nityananda later went to Jagai and Madhai alone and delivered them, without the episode
-of the shard and the chakra; He is the most merciful, who saved such sinners and gave them love of God. The place where
-Madhai begged the Vaishnavas' forgiveness the “Chaitanya-bhagavata” speaks of as Madhai's ghat. The deliverance of the
-brothers is also mentioned in the account of Pundarika Vidyanidhi.
+[^25]: So in the “Chaitanya-bhagavata” (Madhya 13.173–182). According to one biography, Madhai threw the shard when
+Nityananda and Haridasa were returning together after preaching; according to another, Nityananda later went to the
+brothers alone and delivered them, without the episode of the shard and the chakra; He is the most merciful, who saved
+such sinners and gave them love of God. The deliverance of the brothers is also mentioned in the account of Pundarika
+Vidyanidhi.
 [^26]: The Lord and Nityananda accept food from a fallen man not because They approve his path (Gaura, hearing of the
 “ananda,” cried “Vishnu! Vishnu!” and threw Himself into the Ganga), but out of a mercy that can bring even such a man to
 good. Srila Bhaktisiddhanta Sarasvati teaches that the acts of the highest adhikari are not measured by a worldly yardstick
