@@ -241,7 +241,7 @@ Gosvami-sangha, for the four-hundredth anniversary of Mahaprabhu's appearance, c
 
 In 1885, 399 years after Mahaprabhu's appearance, he founded in the house of Rama Gopala Basu, in its Durga-mandapa in
 Krishna-Singher Gali off Bethune Road, the "Vishva-vaishnava-sabha" — the "World Society of Vaishnavas"; it is also
-called the "Vishva-vaishnava-raja-sabha," the "royal assembly of the Vaishnavas of the whole world"[^sabha]. Among its
+called the "Vishva-vaishnava-raja-sabha," the "royal assembly of the Vaishnavas of the whole world"[^13]. Among its
 members were Madana Gopala Gosvami, Nilakantha Gosvami, Bipin Bihari Gosvami, Radhikanatha Gosvami and Shishir Kumar
 Ghosh. The Thakura lectured there on the "Chaitanya-charitamrita" and the "Bhakti-rasamrita-sindhu," and every Sunday
 his son went with him to the meetings and carried his father's "Bhakti-rasamrita-sindhu" for him. A year later, in
@@ -281,7 +281,7 @@ transfers to Tangail and Burdwan, and journeys to Shantipur, Kalna, Bagnapara, K
 Vrindavana Dasa Thakura. <!-- F86 F87 -->
 
 In May 1890 he was again in Kulia and visited Jagannatha Dasa Babaji in his bhajana-kutira in Koladvipa, where the
-Babaji spent his last years. In service to him Bhaktivinoda added a concrete veranda to the kutira[^13]. From Burdwan he
+Babaji spent his last years. In service to him Bhaktivinoda added a concrete veranda to the kutira[^14]. From Burdwan he
 went to sing kirtana with the devotees of the village of Amlajora, and visited Gopalpur, Raniganj and Barakar. In 1890
 he served at Raniganj, in 1891 at Dinajpur. <!-- F88 F136 F168 F89 -->
 
@@ -296,12 +296,12 @@ On 9 March 1892, at Amlajora, in the presence of Jagannatha Dasa Babaji, he obse
 long there was kirtana and talk of Krishna. A "Prapanna-ashrama" was being established there — a place for hearing
 hari-katha and singing kirtana. The Thakura himself wrote of that day in the "Sajjana-toshani": after the ekadashi vigil, at eight in the
 morning, the whole village came out for nagara-sankirtana and moved towards the Prapanna-ashrama; at its head went the
-Babaji, who was over a hundred years old[^age]. He danced "like a lion" and sang: "What a name Nitai has brought! He has
+Babaji, who was over a hundred years old[^15]. He danced "like a lion" and sang: "What a name Nitai has brought! He has
 brought it to the market of the Name and gives it for faith" ("nitai ki nama enechhe re…"); he wept and fell in
 ecstasy, and all shed tears, all trembled, and, scarcely able to sing, all danced. In his dance the Babaji rose up in
 rapture, watered the ground with his tears, and for a long time lost external consciousness. The Thakura in his
 hari-katha spoke of how necessary such abodes are, and the Babaji declared the ashrama open; he rejoiced at the
-Thakura's zeal in preaching the name[^14]. <!-- F92 F201 Q16 F175 F167 -->
+Thakura's zeal in preaching the name[^16]. <!-- F92 F201 Q16 F175 F167 -->
 
 From Amlajora Bhaktivinoda went via Buxar and Prayag to Vrindavana, and from 21 to 29 March went round Vraja:
 Bilvavana, Bhandiravana, Mathavana, Man-sarovara, Mathura, Gokula, Madhuvana, Talavana, Kumudavana, Bahulavana,
@@ -314,7 +314,7 @@ with his companions he crossed the Ganga, and the whole neighbourhood resounded 
 Bhaktivinoda held a kirtana festival, and the Babaji was its guest of honour. From then on the Thakura often came to the Babaji, and the Babaji
 visited the Thakura both in Godruma and in Calcutta. <!-- F93 F134 F176 -->
 
-And on Thursday, 20 Phalguna of the same year (March 1893)[^15], the Thakura came to the Babaji in the morning with
+And on Thursday, 20 Phalguna of the same year (March 1893)[^17], the Thakura came to the Babaji in the morning with
 kirtana, and at eleven o'clock the devotees crossed with him to Mayapur in three boats. The Babaji was carried in a
 palanquin; usually the old man was carried in a basket by his servant, the Vrajavasi Bihari Dasa. At the place of
 appearance Dvarika Babu awaited them with kirtana and flags. The Babaji led everyone to the birthplace of the Lord — the
@@ -337,7 +337,7 @@ secretary was Naphar Chandra Pal Bhaktibhushana, zamindar of Natudaha (Nadia). D
 decided to put up a thatched hut there for the Deities of Gaura and Vishnupriya. <!-- F98 -->
 
 The Deities were installed on 21 March 1894 (9 Chaitra 1300 of the Bengali era), on Phalguni-purnima — Gaura-purnima —
-during a lunar eclipse, amid loud kirtana[^16]. Thus Bhaktivinoda, following Srila Narottama, who installed Gaura and
+during a lunar eclipse, amid loud kirtana[^18]. Thus Bhaktivinoda, following Srila Narottama, who installed Gaura and
 Vishnupriya at Kheturi, with the permission of Jagannatha Dasa Babaji manifested the service of Gaurasundara with
 Vishnupriya in Gaura's house in Mayapur. By this he answered the teachings which, calling themselves worship of
 Vishnupriya-Gauranga, reject the path of the rupanugas: the "gaura-bhajis," "gauravadis," gauranga-nagaris and blends
@@ -362,7 +362,7 @@ loved Bhaktivinoda deeply and, it is said, gave him his own Giridhari; the Thaku
 house, and He is served there to this day. <!-- F168 F137 F178 F138 F139 F85 -->
 
 Srila Jagannatha Dasa Babaji entered the eternal pastimes on the shukla-pratipat of the month of Phalguna, Monday 25
-February 1895[^17]. Bhaktivinoda wrote in the "Sajjana-toshani": at ten in the morning, in his bhajana-kutira in
+February 1895[^19]. Bhaktivinoda wrote in the "Sajjana-toshani": at ten in the morning, in his bhajana-kutira in
 Koladvipa, the old general of the Vaishnavas departed for the eternal abode. <!-- F140 -->
 
 ## A sweeper in the market of the Name
@@ -374,7 +374,7 @@ people hear hari-katha and sing kirtana. <!-- F165 F172 -->
 ## The "Sajjana-toshani" and the books
 He began his principal works while living at Naral (Jessore district), in 1878–1881: the "Sri Krishna-samhita," the
 songs of the "Kalyana-kalpa-taru," and the monthly journal "Sajjana-toshani" — "The Delight of the Virtuous." An English
-edition of the journal appeared from 1883, at Barasat, and in 1885 he revived the journal[^18]. In the pages of the
+edition of the journal appeared from 1883, at Barasat, and in 1885 he revived the journal[^20]. In the pages of the
 "Sajjana-toshani" he first printed many manuscripts of the Gosvamis and his own articles about them. Thus in the
 journal's second year (1885) appeared his note "Determining the Years of the Six Gosvamis," compiled from the records of
 a certain Vaishnava; in the first and second years the articles "Sri Jiva Gosvami" and "Sri Jiva Gosvami Prabhu," in
@@ -397,7 +397,7 @@ published it with the commentary "Prakashika" of Radharamana Dasa Gosvami and hi
 signing himself "Bhaktivinoda-dasa, a resident of Godruma." His collection also held an old kadacha with the dates of
 Raghunatha Bhatta's life, and on it his note: "contradicts the panjika." <!-- F174 -->
 
-In all, from 1866 to 1907, he wrote and published a great many works in Bengali, Sanskrit, English and Urdu[^19]. In his
+In all, from 1866 to 1907, he wrote and published a great many works in Bengali, Sanskrit, English and Urdu[^21]. In his
 youth these were English books and lectures — on the "Bhagavata" (1869), "Reflections," on the verses on Haridasa
 Thakura's samadhi, on the temple of Jagannatha and on the akhras of Puri (1871) — and an exposition of the
 "Garbha-stotra" (1870). Then came the Sanskrit "Vedantadhikarana-mala" (1872), "Datta-kaustubha" (1874),
@@ -409,10 +409,10 @@ Chakravarti's commentary "Sarartha-darshini" and his own Bengali translation "Ra
 Chaitanya-shikshamrita," a compendium of Mahaprabhu's teaching; the Sanskrit commentary "Sammodana" on the
 "Shikshashtaka"; the book "Bhaktivinoda"; a verse translation of Srila Raghunatha Dasa's "Manah-shiksha" with the
 commentary "Bhajana-darpana"; the "Dashopanishad-churnika," the "Bhavavali," the novel "Prema-pradipa," the
-"Vishnu-sahasra-nama" with Baladeva's commentary — and published the "Sri Krishna-vijaya"[^23]. In 1887 the "Chaitanya
+"Vishnu-sahasra-nama" with Baladeva's commentary — and published the "Sri Krishna-vijaya"[^22]. In 1887 the "Chaitanya
 Upanishad" came out with his commentary "Chaitanya-charanamrita": the manuscript of this upanishad was sent
-to him from Sambalpur by Pandita Madhusudana Dasa[^20]. In the same year, now at Krishnanagar, he began
-the "Amnaya-sutra" and brought out the "Navadvipa-dhama-mahatmya"[^21]. <!-- F126 F127 F128 F173 -->
+to him from Sambalpur by Pandita Madhusudana Dasa[^23]. In the same year, now at Krishnanagar, he began
+the "Amnaya-sutra" and brought out the "Navadvipa-dhama-mahatmya"[^24]. <!-- F126 F127 F128 F173 -->
 
 Then followed the "Vaishnava-siddhanta-mala" (1888), the "Sri Amnaya-sutra," the "Navadvipa-dhama-mahatmya" and a
 translation of the "Siddhanta-darpana" (1890), the "Bhagavad-gita" with Baladeva's commentary and the Bengali
@@ -433,7 +433,7 @@ on the Holy Name — as well as the "Bhagavatarka-marichi-mala" and a translatio
 these years also belongs the "Tattva-vamsha-mala." Then came an edition of the "Padma Purana" (1901), the
 "Bhajana-rahasya" and a revised "Vijana-grama about sannyasis" (1902), a new redaction of the "Sri Krishna-samhita" and
 an edition of the "Sat-kriya-sara-dipika" (1903), the enlarged "Sri Chaitanya-shikshamrita" and the "Prema-vivarta"
-(1905)[^pv], the Sanskrit "Sva-niyama-dvadashaka" (1906), a translation of and commentary on the "Sri
+(1905)[^25], the Sanskrit "Sva-niyama-dvadashaka" (1906), a translation of and commentary on the "Sri
 Nimbarka-dasha-shloki," and the song collections "Sri Gitamala" and "Sri Gitavali" (1907). Early works — a book in
 Urdu, "Balid-e-registry," the speech on Gautama and the Bengali verses "Hari-katha" — are dated as far back as the
 1850s. <!-- F126 -->
@@ -445,7 +445,7 @@ Bahadur, he went with his son to Agartala and charmed the raja with talks on bha
 Kurseong, in the Himalayan foothills, and in October 1898 to Kashi and Prayag; on the way back they visited Gaya.
 <!-- F100 F101 F102 F149 -->
 
-In Godruma-dvipa, by the river Sarasvati, he set up a new place of bhajana — Svananda-sukhada-kunja[^22] — and
+In Godruma-dvipa, by the river Sarasvati, he set up a new place of bhajana — Svananda-sukhada-kunja[^26] — and
 performed his bhajana there. Srila Gaurakishora Dasa Babaji came here constantly to hear the Thakura read the
 "Bhagavata" and to talk about Vaishnava teaching; his renunciation deeply moved the Thakura. Here in 1898 Srila
 Bhaktisiddhanta first saw his future guru, and in the month of Magha 1900, at his father's behest, received from him
@@ -562,7 +562,7 @@ of the "Gita" is to give up everything connected with varnas and ashramas — th
 body — and to develop the bhakti inherent in the nature of the soul; and scholars like Raghavachari do not understand
 the Gaudiya teaching of pure bhakti. <!-- F113 F114 Q11 -->
 
-In 1910, at Svananda-sukhada-kunja, while working on the "Sva-niyama-dvadashaka"[^24], he suddenly fell gravely ill.
+In 1910, at Svananda-sukhada-kunja, while working on the "Sva-niyama-dvadashaka"[^27], he suddenly fell gravely ill.
 Srila Bhaktisiddhanta and close disciples gathered round, fearing that he was entering the eternal pastimes. Even when
 unable to walk, he wished to be carried on horseback from place to place — for the sake of preaching. Three years
 before his departure Srila Bhaktisiddhanta made a vow to his father: unworthy servant though he was, he would take up
@@ -635,7 +635,7 @@ a high English school with a Vaishnava upbringing; later a junior school bearing
 Nath Mitra and Dinanath Sanyal Ray Bahadur presiding). At Srila Bhaktisiddhanta's behest Y. Jagannatham published a
 Telugu translation of the "Sri Chaitanya-shikshamrita"; radio programmes were broadcast for the day of the Thakura's
 appearance. On 6 November 1935 Srila Bhaktisiddhanta established at Radha-kunda his pushpa-samadhi and bhava-seva in the
-"Vraja-Svananda-sukhada-kunja." On 12 February 1936 the "Thakur Bhaktivinoda Research Institute" (Krishnanushilana-gara)[^ri]
+"Vraja-Svananda-sukhada-kunja." On 12 February 1936 the "Thakur Bhaktivinoda Research Institute" (Krishnanushilana-gara)[^28]
 was opened, and on 19 June of that year the twenty-second anniversary of his departure was observed at
 Svananda-sukhada-kunja. <!-- F162 F163 -->
 
@@ -692,7 +692,7 @@ The Thakura gave the example of preaching the "Sri Nama-chintamani," revealed th
 offences, uncovered the hidden place of Gaura's appearance — to the joy of the saints and the chagrin of the wicked —
 and, like Bhagiratha, brought down the Ganga of bhakti, carrying Chaitanya's message over the world; he glorified
 the guru and the Vaishnavas and set the example of chanting the Name. He is prayojana,
-the goal, while Gaurakishora is sambandha and Bhaktisiddhanta abhidheya[^25]; his books are the
+the goal, while Gaurakishora is sambandha and Bhaktisiddhanta abhidheya[^29]; his books are the
 "Chaitanya-shikshamrita," the "Sajjana-toshani," the "Harinama-chintamani," the "Jaiva-dharma." He is non-different from
 the Gaura-shakti Gadadhara and departed on the same day — the amavasya of the month of Ashadha. <!-- F124 Q13 F129 -->
 
@@ -703,7 +703,7 @@ the songs of the "Kalyana-kalpa-taru" ("yugala-sevaya shri-rasa-mandale…") he 
 Lalita-sakhi and prays to be appointed to the service of the Divine Couple in the circle of the rasa. And in the song
 "Siddhi-lalasa" from the collection "Gita-mala" ("varane tadit, vasa taravali…") he reveals his name — Kamala-manjari, a
 maidservant of Sri Rupa-manjari: her body is the colour of lightning, her sari the colour of the starry sky, she is
-forever twelve and a half years old; her abode is Svananda-sukhada-kunja in Lalita's grove[^26], where she sets the
+forever twelve and a half years old; her abode is Svananda-sukhada-kunja in Lalita's grove[^30], where she sets the
 pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
 
 [^1]: This Krishnananda Datta, the raja in whose house Nityananda stayed, should not be confused with his namesake
@@ -735,43 +735,43 @@ pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
 [^12]: The biography dates this to 1885 and links it with the four-hundredth anniversary of Mahaprabhu's appearance;
     but the Lord appeared in 1486, and the four-hundredth anniversary falls in 1886. So too elsewhere in the same book:
     the World Society of Vaishnavas was founded in 1885, and a year later it celebrated the four-hundredth anniversary.
-[^sabha]: Elsewhere the same biography says that he helped found the "Vishva-vaishnava-raja-sabha" in the
+[^13]: Elsewhere the same biography says that he helped found the "Vishva-vaishnava-raja-sabha" in the
     Durga-mandapa of Rama Gopala Basu in 1886. As the first founders of the sabha tradition names either Srila Jiva
     Gosvami (so the newspaper "Amrita Bazar Patrika" wrote in 1919) or Sri Rupa and Sri Sanatana; Srila Bhaktisiddhanta
     set out its history in the "Sajjana-toshani."
-[^13]: In another account the Babaji told Bhaktivinoda to build a hut for devotees beside his bhajana-kutira, and he
+[^14]: In another account the Babaji told Bhaktivinoda to build a hut for devotees beside his bhajana-kutira, and he
     built it.
-[^14]: The biographies give the year of this meeting differently: 9 March 1892, 1892 without a date, and 1891.
-[^age]: So Bhaktivinoda himself writes; according to one of the biographies, the Babaji was then over a hundred and
+[^15]: So Bhaktivinoda himself writes; according to one of the biographies, the Babaji was then over a hundred and
     fifty years old.
-[^15]: 20 Phalguna 1299 of the Bengali era corresponds to March 1893; one of the biographies gives the year 1892 with
+[^16]: The biographies give the year of this meeting differently: 9 March 1892, 1892 without a date, and 1891.
+[^17]: 20 Phalguna 1299 of the Bengali era corresponds to March 1893; one of the biographies gives the year 1892 with
     this date.
-[^16]: One of the biographies calls this day a Friday; by the calendar 21 March 1894 was a Wednesday.
-[^17]: Elsewhere the same biography places the Babaji's departure in February 1896.
-[^18]: The beginning of the journal is dated differently: by the list of works — 1881 (running to 1898); by the account
+[^18]: One of the biographies calls this day a Friday; by the calendar 21 March 1894 was a Wednesday.
+[^19]: Elsewhere the same biography places the Babaji's departure in February 1896.
+[^20]: The beginning of the journal is dated differently: by the list of works — 1881 (running to 1898); by the account
     of his life at Naral — 1878–1881.
-[^19]: The list of works given in one of the biographies opens with the words "from 1866 to 1907," yet includes
+[^21]: The list of works given in one of the biographies opens with the words "from 1866 to 1907," yet includes
     writings of the 1850s: the book "Balid-e-registry" and the speech on Gautama (1856) and the verses "Hari-katha"
     (1850). In the account of his life the speech on Gautama belongs to the time of his service in Chhapra.
-[^20]: So according to our translation of the "Chaitanya Upanishad" and the edition itself: the manuscript was sent
+[^22]: The biography names Satyaraja Khan as its author; but according to the "Chaitanya-charitamrita" the "Sri
+    Krishna-vijaya" was written by his father, Gunaraja Khan: "Gunaraja Khan has a book, the 'Sri Krishna-vijaya,' in
+    which there is one saying filled with the greatest love for Krishna" (CC, Madhya 15.99).
+[^23]: So according to our translation of the "Chaitanya Upanishad" and the edition itself: the manuscript was sent
     from Sambalpur by Pandita Madhusudana Dasa (by tradition, in 1886), and the book was printed in 1887 in Calcutta,
     at the "Bhakti Bhavana." Bhaktivinoda himself,
     in the colophon of the commentary, writes that he composed it "on the bank of the Jahnavi" "in the fourth century of
     the era of Sri Chaitanya" (that is, from 1886), and the colophon of the Bengali translation calls Madhusudana "a
     resident of Sambalpur." One of the biographies writes that Bhaktivinoda received the manuscript while himself serving
     at Sambalpur and calls Madhusudana his disciple; Bhaktivinoda's own words do not confirm this.
-[^21]: By the list of works the "Navadvipa-dhama-mahatmya" appeared in 1890.
-[^22]: The years are given differently: according to one biography, Svananda-sukhada-kunja was founded in 1897;
+[^24]: By the list of works the "Navadvipa-dhama-mahatmya" appeared in 1890.
+[^25]: So by the list of works; the first known edition of Jagadananda Pandita's "Prema-vivarta," brought out by
+    Bhaktivinoda, is held to be the Calcutta edition of 1906 (by other lists, 1905).
+[^26]: The years are given differently: according to one biography, Svananda-sukhada-kunja was founded in 1897;
     according to another, the plot for it was bought in 1899. Srila Bhaktisiddhanta's first meeting there with Srila
     Gaurakishora belongs to 1898.
-[^23]: The biography names Satyaraja Khan as its author; but according to the "Chaitanya-charitamrita" the "Sri
-    Krishna-vijaya" was written by his father, Gunaraja Khan: "Gunaraja Khan has a book, the 'Sri Krishna-vijaya,' in
-    which there is one saying filled with the greatest love for Krishna" (CC, Madhya 15.99).
-[^ri]: In the list of maths in the same biography the year is given as 1931.
-[^pv]: So by the list of works; the first known edition of Jagadananda Pandita's "Prema-vivarta," brought out by
-    Bhaktivinoda, is held to be the Calcutta edition of 1906 (by other lists, 1905).
-[^24]: By the list of works the "Sva-niyama-dvadashaka" was written in 1906.
-[^25]: This is a play on words: "bhakti-vinoda," "the joy of bhakti," is the highest goal (prayojana), love of God;
+[^27]: By the list of works the "Sva-niyama-dvadashaka" was written in 1906.
+[^28]: In the list of maths in the same biography the year is given as 1931.
+[^29]: This is a play on words: "bhakti-vinoda," "the joy of bhakti," is the highest goal (prayojana), love of God;
     "gaura-kishora," the relationship with the youthful Gaura (sambandha); "bhakti-siddhanta," "the doctrine of bhakti,"
     the means (abhidheya).
-[^26]: In one place the biography also calls this abode "Vrajananda-sukhada-kunja."
+[^30]: In one place the biography also calls this abode "Vrajananda-sukhada-kunja."
