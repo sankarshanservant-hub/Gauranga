@@ -1834,7 +1834,9 @@ tree of Gaudiya rasa literature, the scientific shastra on bhakti-rasa; of how t
 and of its opening verse, we have spoken above. A detailed review of the book was printed in the journal “Gaudiya” (year
 12, nos. 47–49). Among its conclusions is that mental service (manasi-seva) is higher than service with physical
 articles: Rupa gives the example of a brahmana of Pratishthanapura who by mental service attained the company of Narayana
-in Vaikuntha (1.2.182). <!-- F516 F517 -->
+in Vaikuntha (1.2.182). According to one biography, in the “Bhakti-rasamrita-sindhu” Rupa accepted the path of pushti
+(grace) of which the early Vallabhacharya, a follower of Gadadhara Pandita, had spoken; the later “pushti-marga” the
+Gaudiya Vaishnavas did not accept. <!-- F516 F517 F632 -->
 
 The “Ujjvala-nilamani” (“The Radiant Sapphire”) is the scientific shastra on the ujjvala, or madhura, rasa of Krishna, the
 embodiment of the nectar of all rasas; it unfolds what is said briefly about madhura-rasa in the “Bhakti-rasamrita-sindhu”
