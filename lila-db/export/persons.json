@@ -4145,6 +4145,10 @@
     "type": "met"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "son"
    },
@@ -7494,6 +7498,10 @@
     "type": "host"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "spouse"
    },
@@ -10659,6 +10667,10 @@
     "type": "friend"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@jahnava",
     "type": "spouse"
    },
@@ -11992,6 +12004,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "other"
    },
@@ -13038,6 +13054,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
    },
@@ -14008,6 +14028,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "friend"
    },
@@ -14486,6 +14510,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "other"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -15187,6 +15215,10 @@
    {
     "from": "@ishvara-puri",
     "type": "other"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -16060,6 +16092,10 @@
     "type": "companion"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "relative"
    },
@@ -16322,6 +16358,10 @@
    {
     "from": "@chandrashekhara-acharya",
     "type": "other"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -17713,6 +17753,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "met"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "lineage-predecessor"
    },
@@ -18295,6 +18339,10 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -18925,6 +18973,10 @@
    {
     "from": "@gopala-guru",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "friend"
    },
    {
     "from": "@nityananda",
@@ -20885,6 +20937,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "friend"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
    },
    {
     "from": "@jiva-gosvami",
@@ -22951,6 +23007,202 @@
    "ev-chataka-parvata-govardhana",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Сатьябхама, царица Двараки (ГГД 51) и др.",
+  "card": "parshadas/cards/jagadananda-pandita.yaml",
+  "article": {
+   "ru": "parshadas/ru/jagadananda-pandita.md",
+   "en": "parshadas/en/jagadananda-pandita.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "conf": "день, год и место явления ни одна книга не называет (T 106: неизвестны); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-10-22) дня явления нет",
+    "facts": [
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода неизвестны (T 111); в календаре ШЧСМ дня ухода нет",
+    "facts": [
+     "F78"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Према-виварта» (бенг.; издана Бхактивинодой в 1905 г.)",
+    "facts": [
+     "F52",
+     "F53"
+    ],
+    "note": "Авторство — по ЧЧ Антья 12.154 (ВЧД) и Бхактисиддханте (у T 110); B не называет."
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Сатьябхама (её проявление), царица Двараки",
+    "source": "ГГД 51 (наш перевод: «по некоторому иному различению»); ЧЧ Ади 10.21",
+    "level": "A",
+    "variants": [
+     "T 106 переводит ГГД 51 как «нет различия между Сатьябхамой и Джагаданандой» (⚠Б7).",
+     "ЧЧ Антья 7.138, 12.152: любовь — как у Сатьябхамы (вамья-свабхава)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "шестая ветвь древа Чайтаньи, «сама жизнь» Господа; в мадхура-расе (с Гададхарой и Сварупой)",
+    "source": "ЧЧ Ади 10.21; ЧЧ Мадхья 2.78",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "«Сама жизнь» Господа (ЧЧ Ади 10.21); мадхура-раса; любовные ссоры (вамья Сатьябхамы): масло, ложе, посты; Господь «боится» его (ЧЧ Мадхья 7.21–22) — ⚠Б1–⚠Б2, ⚠Б5."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Спутник на пути в Пури; оставил ему данду, которую Нитьянанда сломал (ЧБ Антья 2.202–222)."
+   },
+   {
+    "type": "companion",
+    "who": "@mukunda-datta",
+    "note": "Вместе на пути в Пури; Мукунда переписал шлоки Сарвабхаумы на стену прежде, чем Джагадананда отдал лист Господу."
+   },
+   {
+    "type": "companion",
+    "who": "@damodara-pandita",
+    "note": "Спутник на пути в Пури (по ЧЧ); вместе с Сарвабхаумой на даршане; раздатчики прасада."
+   },
+   {
+    "type": "companion",
+    "who": "@gadadhara-pandita",
+    "note": "По B 754 и ЧБ — среди спутников из Шантипура; с ним и Сварупой — в мадхура-расе (ЧЧ Мадхья 2.78)."
+   },
+   {
+    "type": "friend",
+    "who": "@svarupa-damodara",
+    "note": "Сварупа ходатайствовал за его поездку во Вриндаван и устроил Господу ложе из банановых листьев вместо его тюфяка; вместе раздавали прасад."
+   },
+   {
+    "type": "met",
+    "who": "@sarvabhauma",
+    "note": "Передал Господу две шлоки Сарвабхаумы (ЧЧ Мадхья 6.248–256)."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "В Пури советовал ему уйти во Вриндаван и получил упрёк Господа (⚠Б3); во Врадже Господь велел держаться Санатаны — жили вместе в Гокуле два месяца; гнев из-за красной ткани (⚠Б4); дары Господу."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Ежегодно носил ей прасад и вести; рассказал о тайных приходах Господа к ней."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Передал Господу загадку (тараджу) Адвайты."
+   },
+   {
+    "type": "guest",
+    "who": "@ramachandra-puri",
+    "note": "Угостил его прасадом; тот перекормил Джагадананду и осудил «обжорство» последователей Чайтаньи."
+   },
+   {
+    "type": "companion",
+    "who": "@shivananda-sena",
+    "note": "Жил у него в Бенгалии (ЧЧ Антья 2.43); в его доме приготовлено масло чанданади."
+   },
+   {
+    "type": "met",
+    "who": "@nrisimhananda"
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Через Говинду передавал масло и ложе; накормил его остатками Господа."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-bhatta",
+    "note": "Рамаи и Рагхунатха помогали стряпать; Джагадананда угостил их остатками Господа."
+   },
+   {
+    "type": "other",
+    "who": "@ramai-puri"
+   },
+   {
+    "type": "other",
+    "who": "@nandai"
+   },
+   {
+    "type": "met",
+    "who": "@tapana-mishra"
+   },
+   {
+    "type": "met",
+    "who": "@chandrashekhara-vaidya"
+   },
+   {
+    "type": "opposed",
+    "who": "@mukunda-sarasvati",
+    "note": "Не сам он — его ткань на голове Санатаны вызвала гнев Джагадананды."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa"
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-acharya"
+   },
+   {
+    "type": "companion",
+    "who": "@kashishvara"
+   },
+   {
+    "type": "companion",
+    "who": "@haridasa-thakura"
+   },
+   {
+    "type": "met",
+    "who": "@ramananda-raya"
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa"
+   },
+   {
+    "type": "other",
+    "who": "@satyabhama",
+    "note": "Его проявление (ГГД 51; ЧЧ Ади 10.21)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Комментарии (по T): мадхура-раса; этикет; «према-виварта» — и книга."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Издал «Према-виварту» (1905); объяснил загадку Адвайты."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "note": "Хранил в Гамбхире одеяло, сделанное Сварупой или Джагаданандой (T 202)."
+   }
+  ],
   "related_by": [
    {
     "from": "@advaita",
@@ -23714,6 +23966,12 @@
    "ev-nakula-brahmachari",
    "ev-tattva-three-ways-deliverance",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "met"
+   }
   ]
  },
  {
@@ -24081,6 +24339,10 @@
    {
     "from": "@ishvara-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -25477,6 +25739,10 @@
     "type": "disciple"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -25786,6 +26052,10 @@
   ],
   "related_by": [
    {
+    "from": "@jagadananda-pandita",
+    "type": "met"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "father"
    },
@@ -26062,6 +26332,10 @@
     "type": "companion"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -26129,6 +26403,10 @@
    "ev-narottama-path-vision"
   ],
   "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "met"
+   },
    {
     "from": "@raghunatha-bhatta",
     "type": "other"
@@ -26490,6 +26768,10 @@
    {
     "from": "@ishvara-puri",
     "type": "other"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "companion"
    },
    {
     "from": "@narahari-sarakara",
@@ -29105,6 +29387,10 @@
    {
     "from": "@chandrashekhara-acharya",
     "type": "met"
+   },
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -37200,6 +37486,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -37324,6 +37614,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@jagadananda-pandita",
     "type": "other"
    },
    {
@@ -38344,6 +38638,10 @@
    "ev-narottama-initiation"
   ],
   "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "other"
@@ -41904,6 +42202,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadananda-pandita",
+    "type": "guest"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    }
@@ -43604,6 +43906,12 @@
    "ev-jagadananda-sandal-oil",
    "ev-chataka-parvata-govardhana",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   }
   ]
  },
  {
@@ -43623,6 +43931,12 @@
    "ev-jagadananda-sandal-oil",
    "ev-chataka-parvata-govardhana",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   }
   ]
  },
  {
@@ -44207,6 +44521,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "other"
+   },
    {
     "from": "@jiva-gosvami",
     "type": "other"
@@ -45355,6 +45673,10 @@
    "ev-jagadananda-vrindavana-pilu"
   ],
   "related_by": [
+   {
+    "from": "@jagadananda-pandita",
+    "type": "opposed"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "met"

@@ -441,6 +441,40 @@
   ]
  },
  {
+  "person": "@jagadananda-pandita",
+  "in": "krishna-lila",
+  "as": "Сатьябхама (её проявление), царица Двараки",
+  "source": "ГГД 51 (наш перевод: «по некоторому иному различению»); ЧЧ Ади 10.21",
+  "level": "A",
+  "facts": [
+   "F2",
+   "F6",
+   "F52"
+  ],
+  "variants": [
+   "T 106 переводит ГГД 51 как «нет различия между Сатьябхамой и Джагаданандой» (⚠Б7).",
+   "ЧЧ Антья 7.138, 12.152: любовь — как у Сатьябхамы (вамья-свабхава)."
+  ],
+  "events": [
+   "ev-jagadananda-dvaraka-queen-jest"
+  ]
+ },
+ {
+  "person": "@jagadananda-pandita",
+  "in": "tattva",
+  "as": "шестая ветвь древа Чайтаньи, «сама жизнь» Господа; в мадхура-расе (с Гададхарой и Сварупой)",
+  "source": "ЧЧ Ади 10.21; ЧЧ Мадхья 2.78",
+  "level": "A",
+  "facts": [
+   "F3",
+   "F5"
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru",
+   "ev-last-twelve-years-gambhira"
+  ]
+ },
+ {
   "person": "@jagannatha-mishra",
   "in": "krishna-lila",
   "as": "Нанда Махараджа, царь Враджа",

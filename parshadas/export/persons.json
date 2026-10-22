@@ -9009,6 +9009,648 @@
   ]
  },
  {
+  "id": "@jagadananda-pandita",
+  "names": {
+   "ru": "Джагадананда Пандит",
+   "en": "Jagadananda Pandita",
+   "variants": [
+    "Пандит Джагадананда",
+    "Пандит-махашая (так зовёт Санатана)",
+    "Джага (уменьшительно, в упрёке Господа)"
+   ],
+   "facts": [
+    "F1"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "period": [
+   "P04",
+   "P05",
+   "P07",
+   "P09",
+   "P10",
+   "P11",
+   "P12",
+   "P13",
+   "P14"
+  ],
+  "period_note": "Лично — с начала санкиртаны в Навадвипе (киртаны у Шривасы и Чандрашекхары, F8–F10); спутник Господа на пути в Пури после санньясы (F11–F16); постоянный спутник в Пури (F17–F30, F34–F59); ежегодный посланец к Шачи в Навадвипу (F39–F41, F73); путешествие во Вриндаван к Санатане (F61–F72). Детство и встреча с Господом в Надии — только по «Према-виварте» и Джаянанде (lila-db, не книги T/M/B).",
+  "life": {
+   "appearance": {
+    "date": "",
+    "conf": "день, год и место явления ни одна книга не называет (T 106: неизвестны); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-10-22) дня явления нет",
+    "facts": [
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода неизвестны (T 111); в календаре ШЧСМ дня ухода нет",
+    "facts": [
+     "F78"
+    ]
+   }
+  },
+  "origin": {
+   "places": [],
+   "family": [],
+   "varna": "",
+   "facts": [
+    "F7"
+   ],
+   "note": "Родители, род и родина в книгах не названы; T лишь заключает, что родился в Бенгалии (ЧЧ Антья 7.48–49 — среди вайшнавов, явившихся в Бенгалии). По «Према-виварте» (lila-db ev-shivananda-raises-jagadananda) его растил Шивананда Сена — вне реестра."
+  },
+  "relations": [
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F3",
+     "F5",
+     "F6",
+     "F21",
+     "F27",
+     "F35",
+     "F36",
+     "F42",
+     "F43",
+     "F44",
+     "F45",
+     "F46",
+     "F47",
+     "F48",
+     "F49",
+     "F50",
+     "F51",
+     "F52",
+     "F54",
+     "F55",
+     "F56",
+     "F57",
+     "F58",
+     "F61",
+     "F62",
+     "F63"
+    ],
+    "events": [
+     "ev-jagadananda-sandal-oil",
+     "ev-jagadananda-bed-banana",
+     "ev-jagadananda-vrindavana-pilu",
+     "ev-departure-for-south"
+    ],
+    "note": "«Сама жизнь» Господа (ЧЧ Ади 10.21); мадхура-раса; любовные ссоры (вамья Сатьябхамы): масло, ложе, посты; Господь «боится» его (ЧЧ Мадхья 7.21–22) — ⚠Б1–⚠Б2, ⚠Б5."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "facts": [
+     "F11",
+     "F15",
+     "F16",
+     "F21",
+     "F22",
+     "F23"
+    ],
+    "events": [
+     "ev-danda-broken",
+     "ev-journey-to-puri",
+     "ev-messenger-to-gauda-after-south"
+    ],
+    "note": "Спутник на пути в Пури; оставил ему данду, которую Нитьянанда сломал (ЧБ Антья 2.202–222)."
+   },
+   {
+    "type": "companion",
+    "who": "@mukunda-datta",
+    "facts": [
+     "F11",
+     "F16",
+     "F18",
+     "F22",
+     "F23"
+    ],
+    "note": "Вместе на пути в Пури; Мукунда переписал шлоки Сарвабхаумы на стену прежде, чем Джагадананда отдал лист Господу."
+   },
+   {
+    "type": "companion",
+    "who": "@damodara-pandita",
+    "facts": [
+     "F11",
+     "F16",
+     "F17",
+     "F22",
+     "F23",
+     "F28",
+     "F29"
+    ],
+    "note": "Спутник на пути в Пури (по ЧЧ); вместе с Сарвабхаумой на даршане; раздатчики прасада."
+   },
+   {
+    "type": "companion",
+    "who": "@gadadhara-pandita",
+    "facts": [
+     "F5",
+     "F11"
+    ],
+    "note": "По B 754 и ЧБ — среди спутников из Шантипура; с ним и Сварупой — в мадхура-расе (ЧЧ Мадхья 2.78)."
+   },
+   {
+    "type": "friend",
+    "who": "@svarupa-damodara",
+    "facts": [
+     "F5",
+     "F24",
+     "F28",
+     "F29",
+     "F30",
+     "F56",
+     "F57",
+     "F58",
+     "F62",
+     "F75",
+     "F76"
+    ],
+    "events": [
+     "ev-jagadananda-bed-banana",
+     "ev-chataka-parvata-govardhana"
+    ],
+    "note": "Сварупа ходатайствовал за его поездку во Вриндаван и устроил Господу ложе из банановых листьев вместо его тюфяка; вместе раздавали прасад."
+   },
+   {
+    "type": "met",
+    "who": "@sarvabhauma",
+    "facts": [
+     "F16",
+     "F17",
+     "F18",
+     "F19"
+    ],
+    "events": [
+     "ev-sarvabhauma-deliverance"
+    ],
+    "note": "Передал Господу две шлоки Сарвабхаумы (ЧЧ Мадхья 6.248–256)."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "facts": [
+     "F34",
+     "F35",
+     "F36",
+     "F64",
+     "F65",
+     "F66",
+     "F67",
+     "F68",
+     "F69",
+     "F70",
+     "F71"
+    ],
+    "events": [
+     "ev-jagadananda-advises-sanatana",
+     "ev-jagadananda-vrindavana-pilu"
+    ],
+    "note": "В Пури советовал ему уйти во Вриндаван и получил упрёк Господа (⚠Б3); во Врадже Господь велел держаться Санатаны — жили вместе в Гокуле два месяца; гнев из-за красной ткани (⚠Б4); дары Господу."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "facts": [
+     "F39",
+     "F40",
+     "F41"
+    ],
+    "events": [
+     "ev-jagadananda-visits-shachi"
+    ],
+    "note": "Ежегодно носил ей прасад и вести; рассказал о тайных приходах Господа к ней."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "facts": [
+     "F73",
+     "F74",
+     "F75"
+    ],
+    "events": [
+     "ev-advaita-tarja"
+    ],
+    "note": "Передал Господу загадку (тараджу) Адвайты."
+   },
+   {
+    "type": "guest",
+    "who": "@ramachandra-puri",
+    "facts": [
+     "F38"
+    ],
+    "events": [
+     "ev-ramachandra-puri-criticism"
+    ],
+    "note": "Угостил его прасадом; тот перекормил Джагадананду и осудил «обжорство» последователей Чайтаньи."
+   },
+   {
+    "type": "companion",
+    "who": "@shivananda-sena",
+    "facts": [
+     "F33",
+     "F42"
+    ],
+    "events": [
+     "ev-nrisimhananda-three-offerings"
+    ],
+    "note": "Жил у него в Бенгалии (ЧЧ Антья 2.43); в его доме приготовлено масло чанданади."
+   },
+   {
+    "type": "met",
+    "who": "@nrisimhananda",
+    "facts": [
+     "F33"
+    ],
+    "events": [
+     "ev-nrisimhananda-three-offerings"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "facts": [
+     "F42",
+     "F43",
+     "F44",
+     "F51",
+     "F56",
+     "F57"
+    ],
+    "note": "Через Говинду передавал масло и ложе; накормил его остатками Господа."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-bhatta",
+    "facts": [
+     "F51"
+    ],
+    "note": "Рамаи и Рагхунатха помогали стряпать; Джагадананда угостил их остатками Господа."
+   },
+   {
+    "type": "other",
+    "who": "@ramai-puri",
+    "facts": [
+     "F51"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@nandai",
+    "facts": [
+     "F51"
+    ]
+   },
+   {
+    "type": "met",
+    "who": "@tapana-mishra",
+    "facts": [
+     "F65"
+    ]
+   },
+   {
+    "type": "met",
+    "who": "@chandrashekhara-vaidya",
+    "facts": [
+     "F65"
+    ]
+   },
+   {
+    "type": "opposed",
+    "who": "@mukunda-sarasvati",
+    "facts": [
+     "F68"
+    ],
+    "note": "Не сам он — его ткань на голове Санатаны вызвала гнев Джагадананды."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "facts": [
+     "F8",
+     "F31"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-acharya",
+    "facts": [
+     "F8",
+     "F77"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@kashishvara",
+    "facts": [
+     "F9",
+     "F28",
+     "F30"
+    ]
+   },
+   {
+    "type": "companion",
+    "who": "@haridasa-thakura",
+    "facts": [
+     "F24",
+     "F30"
+    ],
+    "events": [
+     "ev-haridasa-departure"
+    ]
+   },
+   {
+    "type": "met",
+    "who": "@ramananda-raya",
+    "facts": [
+     "F5",
+     "F24"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "facts": [
+     "F21",
+     "F23"
+    ],
+    "events": [
+     "ev-messenger-to-gauda-after-south"
+    ]
+   },
+   {
+    "type": "other",
+    "who": "@satyabhama",
+    "facts": [
+     "F2",
+     "F6",
+     "F52"
+    ],
+    "note": "Его проявление (ГГД 51; ЧЧ Ади 10.21)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "facts": [
+     "F5",
+     "F35",
+     "F53"
+    ],
+    "note": "Комментарии (по T): мадхура-раса; этикет; «према-виварта» — и книга."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "facts": [
+     "F53",
+     "F67",
+     "F74"
+    ],
+    "note": "Издал «Према-виварту» (1905); объяснил загадку Адвайты."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "facts": [
+     "F60"
+    ],
+    "note": "Хранил в Гамбхире одеяло, сделанное Сварупой или Джагаданандой (T 202)."
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Сатьябхама (её проявление), царица Двараки",
+    "source": "ГГД 51 (наш перевод: «по некоторому иному различению»); ЧЧ Ади 10.21",
+    "level": "A",
+    "facts": [
+     "F2",
+     "F6",
+     "F52"
+    ],
+    "variants": [
+     "T 106 переводит ГГД 51 как «нет различия между Сатьябхамой и Джагаданандой» (⚠Б7).",
+     "ЧЧ Антья 7.138, 12.152: любовь — как у Сатьябхамы (вамья-свабхава)."
+    ],
+    "events": [
+     "ev-jagadananda-dvaraka-queen-jest"
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "шестая ветвь древа Чайтаньи, «сама жизнь» Господа; в мадхура-расе (с Гададхарой и Сварупой)",
+    "source": "ЧЧ Ади 10.21; ЧЧ Мадхья 2.78",
+    "level": "A",
+    "facts": [
+     "F3",
+     "F5"
+    ],
+    "events": [
+     "ev-tattva-bhakti-kalpataru",
+     "ev-last-twelve-years-gambhira"
+    ]
+   }
+  ],
+  "events": [
+   "ev-jagadananda-childhood-quarrel",
+   "ev-shivananda-raises-jagadananda",
+   "ev-gadadhara-jagadananda-in-lords-house",
+   "ev-shridhara-kholavecha",
+   "ev-farewell-shantipura",
+   "ev-journey-to-puri",
+   "ev-chhatrabhoga-ramachandra-khan",
+   "ev-danda-broken",
+   "ev-sarvabhauma-meeting",
+   "ev-sarvabhauma-deliverance",
+   "ev-departure-for-south",
+   "ev-return-from-south",
+   "ev-messenger-to-gauda-after-south",
+   "ev-svarupa-paramananda-arrive",
+   "ev-ramananda-comes-to-puri",
+   "ev-gauda-devotees-arrive-puri",
+   "ev-gundicha-garden-feast",
+   "ev-departure-for-gauda",
+   "ev-return-to-puri-from-vrindavana",
+   "ev-nrisimhananda-three-offerings",
+   "ev-sanatana-puri-sores",
+   "ev-jagadananda-advises-sanatana",
+   "ev-vallabha-bhatta-puri",
+   "ev-ramachandra-puri-criticism",
+   "ev-haridasa-departure",
+   "ev-jagadananda-visits-shachi",
+   "ev-jagadananda-sandal-oil",
+   "ev-jagadananda-bed-banana",
+   "ev-jagadananda-vrindavana-pilu",
+   "ev-chataka-parvata-govardhana",
+   "ev-advaita-tarja"
+  ],
+  "events_note": "Только по lila-db (не книги T/M/B): ev-jagadananda-childhood-quarrel, ev-shivananda-raises-jagadananda, ev-jagadananda-dvaraka-queen-jest, ev-jagadananda-giridhari-seva, ev-parrot-sings-gaura, ev-goradaha-crocodile-deliverance («Према-виварта»); ev-gadadhara-jagadananda-in-lords-house (Джаянанда); ev-vallabha-bhatta-puri и ev-gadadhara-vallabha-initiation (ЧЧ Антья 7.66, 7.150) — см. «Не взято».",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [
+   {
+    "title": "«Према-виварта» (бенг.; издана Бхактивинодой в 1905 г.)",
+    "facts": [
+     "F52",
+     "F53"
+    ],
+    "note": "Авторство — по ЧЧ Антья 12.154 (ВЧД) и Бхактисиддханте (у T 110); B не называет."
+   }
+  ],
+  "places": [
+   "#navadvipa",
+   "#house-srivasa",
+   "#house-chandrashekhara",
+   "#shantipura",
+   "#chhatrabhoga",
+   "#atharanala",
+   "#puri",
+   "#gundicha",
+   "#alalanatha",
+   "#ramakeli",
+   "#kanai-natashala",
+   "#panihati",
+   "#kumarahatta",
+   "#house-kashi-mishra",
+   "#chataka-parvata",
+   "#kashi",
+   "#mathura",
+   "#gokula",
+   "#vrindavana",
+   "#govardhana",
+   "#jharikhanda"
+  ],
+  "places_facts": [
+   "F8",
+   "F11",
+   "F12",
+   "F16",
+   "F22",
+   "F26",
+   "F27",
+   "F31",
+   "F32",
+   "F33",
+   "F42",
+   "F60",
+   "F65",
+   "F66",
+   "F71",
+   "F76"
+  ],
+  "character": [
+   {
+    "trait": "любовь Сатьябхамы (вамья): любовные ссоры, молчание и посты, когда Господь отвергает его заботу (⚠Б1)",
+    "facts": [
+     "F6",
+     "F21",
+     "F45",
+     "F46",
+     "F57",
+     "F59",
+     "F61"
+    ]
+   },
+   {
+    "trait": "неустанная забота о теле и удобстве Господа-санньяси — масло, ложе, лучшие кушанья",
+    "facts": [
+     "F27",
+     "F42",
+     "F47",
+     "F50",
+     "F55"
+    ]
+   },
+   {
+    "trait": "любовь кормить Господа и преданных; раздача прасада",
+    "facts": [
+     "F13",
+     "F25",
+     "F27",
+     "F28",
+     "F29",
+     "F30",
+     "F47",
+     "F51"
+    ]
+   },
+   {
+    "trait": "исключительная преданность Гауре (ананья-ништха): гнев на ткань чужого санньяси на голове Санатаны (⚠Б4)",
+    "facts": [
+     "F68",
+     "F69"
+    ]
+   },
+   {
+    "trait": "тоска в разлуке с Господом",
+    "facts": [
+     "F22",
+     "F32",
+     "F71"
+    ]
+   },
+   {
+    "trait": "доверенный посланец Господа к матери",
+    "facts": [
+     "F39",
+     "F40",
+     "F41",
+     "F73"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F3",
+    "F5",
+    "F52",
+    "F53",
+    "I1",
+    "I2",
+    "I3",
+    "I4",
+    "I5",
+    "I6",
+    "I7"
+   ]
+  },
+  "sources": {
+   "T": "106–111 (гл.); 6, 22, 24, 69 (тёзка), 74, 82, 83, 89, 104–105, 113–114, 131, 133, 137, 138, 140, 146, 147, 154, 164, 169–171, 202, 240",
+   "M": "pdf 193, 200, 293 (вне глав)",
+   "B": "754–757 (гл.); 198, 206, 211, 222–223, 227, 241, 250, 453–460, 783, 790, 797, 828, 848, 857, 874, 997–999, 1003, 1005",
+   "other": [
+    "ГГД 51",
+    "ЧЧ Ади 10.21–23, 10.125–127",
+    "ЧЧ Мадхья 1.252–254, 2.78, 3.209–210, 6.248–256, 7.21–22, 9.339–340, 10.67–74, 10.127, 11.208, 12.163–172",
+    "ЧЧ Антья 2.37–48, 4.155–169, 7.48–50, 7.138–139, 8.5–15, 11.84, 12.86–154, 13.4–77, 14.89, 19.4–22",
+    "ЧБ Мадхья 7.3, 8.110–117, 23.451",
+    "ЧБ Антья 2.35, 2.151–222",
+    "«Према-виварта»",
+    "«Анубхашья» и «Гаудия-бхашья» Бхактисиддханты (по T)",
+    "«Амрита-праваха-бхашья» Бхактивиноды (по T)"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/jagadananda-pandita.md",
+   "en": "parshadas/en/jagadananda-pandita.md"
+  },
+  "open_questions": [
+   "Спутники из Шантипура: B — с Гададхарой, ЧЧ — с Дамодарой, ЧБ — шестеро (F11).",
+   "Сколько дней постился после разбитого кувшина: два (B) или три (T; ЧЧ — «на третий день») (F46).",
+   "Толкование наказа ЧЧ Антья 13.37: брахманы-чобе (T) или рагамаргии без знания айшварьи (B) (F63).",
+   "ГГД 51: «по некоторому различению» (наш перевод) или «нет различия» (T) (F2).",
+   "Родина, семья, годы, день явления и ухода неизвестны; в календаре ШЧСМ их нет (F7, F78)."
+  ]
+ },
+ {
   "id": "@jagannatha-mishra",
   "names": {
    "ru": "Джаганнатха Мишра",
