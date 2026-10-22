@@ -218,8 +218,8 @@ auspicious kirtana — and when Sri Gauranga Himself appeared with His associate
 Raghunandana danced with everyone (“Bhakti-ratnakara” 10.572). <!-- F59 Q17 -->
 
 Shyamananda, returning from Kheturi, stayed at Shrikhanda in Raghunandana's house, and Jahnava Devi, on her way back from
-Vrindavana, also visited his home. According to one biography, when Virachandra, Nityananda's son, was travelling through
-Bengal, Raghunandana and his son Kanai Thakura welcomed him lovingly at Shrikhanda and embraced him.[^13] <!-- F60 F61 F78 -->
+Vrindavana, also visited his home. And when Virachandra, Nityananda's son, travelling through Bengal, came to Shrikhanda, he was lovingly received, according
+to the “Bhakti-ratnakara,” by Raghunandana's son Kanai Thakura — this is told after Raghunandana's departure.[^13] <!-- F60 F61 F78 -->
 
 ## Departure
 Before his departure Raghunandana sent a devotee to Yajigrama to call Srinivasa. He soon came to Shrikhanda and bowed down,
@@ -301,8 +301,8 @@ Only one biography calls this Krishnadasa of Akai-hat a disciple of Raghunandana
 south of Boro-grama.
 [^12]: According to another biography, the wedding was on Akshaya-tritiya — the third day of the bright fortnight of
 Vaishakha.
-[^13]: According to the “Bhakti-ratnakara,” it was Kanai Thakura who received Virachandra at Shrikhanda, and this is
-told after Raghunandana's departure.
+[^13]: According to one of the biographies, Virachandra was welcomed and embraced at Shrikhanda by Raghunandana and his son
+    Kanai Thakura.
 [^14]: According to another biography, he departed on the chaturdashi of the bright fortnight of Shravana. Our calendar
 does not list the day of his departure.
 [^15]: According to one biography, some authorities consider him Kandarpa-manjari, others Kandarpa, Krishna's son in

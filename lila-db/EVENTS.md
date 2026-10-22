@@ -5105,20 +5105,20 @@
 
 ## Валлабха Бхатта у Господа в Пури / Vallabha Bhatta with the Lord at Puri  `ev-vallabha-bhatta-puri` (1516–1533, возраст 30–47, оценка)
 
-- cc (A): Антья 7.4–57 — [4–57](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L58-L789) · `cc-4077`
+- cc (A): Антья 7.4–57 — [4–57](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L58-L788) · `cc-4077`
 - gaura-krishnodaya (B): Сарга 17, 16–19 — [16–19](../gaura-krishnodaya/ru/17.md?plain=1#L39-L45) · `gkd-0166`
 - vallabha-varta (D): Ядунатха, «Валлабха-дигвиджая», Пурва-чаритравакчхеда (изд. 1985, с. 52); § 2.1 — [1–4](../vallabha/ru/02.md?plain=1#L15-L29) · `vlb-0013`
-- cc (A): Антья 7.58–75 — [58–75](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L800-L1008) · `cc-4078`
-- cc (A): Антья 7.76–95 — [76–95](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1020-L1258) · `cc-4079`
+- cc (A): Антья 7.58–75 — [58–75](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L799-L1007) · `cc-4078`
+- cc (A): Антья 7.76–95 — [76–95](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1019-L1257) · `cc-4079`
 
 ## Валлабха Бхатта спорит с вайшнавами и отвергает Шридхару Свами; Господь смиряет его гордость / Vallabha Bhatta argues with the Vaishnavas and rejects Shridhara Svami; the Lord humbles his pride  `ev-vallabha-sridhara-svami` (1516–1533, возраст 30–47, оценка)
 
-- cc (A): Антья 7.96–112 — [96–112](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1271-L1467) · `cc-4080`
-- cc (A): Антья 7.113–137 — [113–137](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1480-L1788) · `cc-4081`
+- cc (A): Антья 7.96–112 — [96–112](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1270-L1466) · `cc-4080`
+- cc (A): Антья 7.113–137 — [113–137](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1479-L1787) · `cc-4081`
 
 ## Господь испытывает Гададхару; Валлабха Бхатта получает посвящение от Гададхары / The Lord tests Gadadhara; Vallabha Bhatta is initiated by Gadadhara  `ev-gadadhara-vallabha-initiation` (1516–1533, возраст 30–47, оценка)
 
-- cc (A): Антья 7.138–167 — [138–167](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1801-L2170) · `cc-4082`
+- cc (A): Антья 7.138–167 — [138–167](../chaitanya-charitamrita/vcd/txt/CC_Antya07.txt?plain=1#L1800-L2169) · `cc-4082`
 
 ## Господь теряет сознание, услышав слова Валлабхи о разлуке (валлабхское предание) / The Lord swoons on hearing Vallabha's words on separation (Vallabha tradition)  `ev-chaitanya-swoons-vallabha-words` (1516–1533, возраст 30–47, оценка)
 
@@ -5130,16 +5130,16 @@
 
 ## Прадьюмна Мишра слушает о Кришне от Рамананды Рая / Pradyumna Mishra hears about Krishna from Ramananda Raya  `ev-pradyumna-mishra-hears-ramananda` (1516–1533, возраст 30–47, оценка)
 
-- cc (A): Антья 5.4–32 — [4–32](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L48-L362) · `cc-4054`
-- cc (A): Антья 5.33–54 — [33–54](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L372-L608) · `cc-4055`
-- cc (A): Антья 5.55–76 — [55–76](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L619-L851) · `cc-4056`
-- cc (A): Антья 5.77–90 — [77–90](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L863-L1013) · `cc-4057`
+- cc (A): Антья 5.4–32 — [4–32](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L48-L361) · `cc-4054`
+- cc (A): Антья 5.33–54 — [33–54](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L371-L607) · `cc-4055`
+- cc (A): Антья 5.55–76 — [55–76](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L618-L850) · `cc-4056`
+- cc (A): Антья 5.77–90 — [77–90](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L862-L1012) · `cc-4057`
 
 ## Бенгальский поэт и его драма: Сварупа Дамодара обличает ошибку и открывает в шлоке молитву Сарасвати / The Bengali poet's drama: Svarupa Damodara exposes the error and reveals Sarasvati's prayer in the verse  `ev-bengali-poet-drama-svarupa` (1516–1533, возраст 30–47, оценка)
 
-- cc (A): Антья 5.91–108 — [91–108](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L1024-L1210) · `cc-4058`
-- cc (A): Антья 5.109–127 — [109–127](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L1218-L1455) · `cc-4059`
-- cc (A): Антья 5.128–158 — [128–158](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L1470-L1824) · `cc-4060`
+- cc (A): Антья 5.91–108 — [91–108](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L1023-L1209) · `cc-4058`
+- cc (A): Антья 5.109–127 — [109–127](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L1217-L1454) · `cc-4059`
+- cc (A): Антья 5.128–158 — [128–158](../chaitanya-charitamrita/vcd/txt/CC_Antya05.txt?plain=1#L1469-L1823) · `cc-4060`
 
 ## Рамачандра Пури в Пури осуждает Господа, и Господь сокращает еду / Ramachandra Puri in Puri criticises the Lord, and the Lord reduces His eating  `ev-ramachandra-puri-criticism` (1516–1533, возраст 30–47, оценка)
 
