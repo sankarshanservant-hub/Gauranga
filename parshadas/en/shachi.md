@@ -805,6 +805,252 @@ to Advaita without delay. <!-- I2 I3 F157 -->
     Lord, pleased with His mother, declared that she had attained devotion to Vishnu (Madhya 22.24, 52); so also another
     biography.
 
+## Before the Sannyasa
+The anxiety that Shachi had carried in her heart ever since her son's return from Gaya was gradually taking shape.
+Lochana Dasa relates that once a certain brahmana, who had not been let in to watch the Lord's dancing, cursed Him in
+anger: “Be outside samsara!” Hearing of it from people, Shachi fell unconscious, and when her son came home she asked
+Him in tears, “How did you wrong him? This whole house of mine is only for your sake… if harm comes to you, I shall
+die.” “I have done him no wrong,” the Lord consoled her, “and a curse without fault cannot take effect.” He bathed in
+the Ganga, worshipped Krishna, watered tulasi and sat down to eat, while Shachi tenderly gazed at His face (CM,
+Madhya-khanda, part 10, vv. 69+1–21).[^n17] But for Him this curse was a blessing: He Himself wished to leave samsara.
+Soon, with a quiet smile, He told those close to Him that in the night a brahmana had whispered the mantra of sannyasa
+in His ear, and since then His heart was no longer His own (CM, Madhya-khanda, part 12, vv. 49–53).[^n18]
+<!-- F196 F197 F84 -->
+
+The first to learn of the Lord's decision was Nityananda, and Shachi was the first of the five to whom the Lord allowed
+Him to disclose His intention (CB, Madhya 28.11–12). Thinking of how she would bear this separation, Nityananda went
+off to a solitary place and wept bitterly (CB, Madhya 26.153–156). Shachi herself wept at home, seeing her son in ecstasy
+embracing the devotees and sobbing (26.84). And when the news reached her, she forgot where she was, fell unconscious
+again and again and could not stop her tears (CB, Madhya 27.18–20), and one day, when her son was sitting at home, she
+said to Him:
+
+“‘My dear son, do not leave home. Do not abandon Your mother. This sinful soul lives only because she sees Your
+face.’” (CB, Madhya 27.22)
+
+“‘You have descended to establish religious principles, but is leaving one's mother a religious precept? You are the
+embodiment of all religious rules, so how will You leave Your mother? How then will You preach religious precepts in
+this world?’” (CB, Madhya 27.27–28)
+
+“Your elder brother left me, Your father has gone to Vaikuntha; stay, sing kirtana at home with Your devotees —
+Nityananda will help You,” she pleaded (27.30–34), and Vrindavana Dasa compares her to Kaushalya instructing Rama
+(27.35). The Lord was silent, His head bowed. Shachi grew pale, stopped eating, and from grief her body became “skin and
+bones”. Then, seeing that His mother could not go on living like this, the Lord took her aside to a solitary place:
+
+“The Lord said: ‘My mother, restore peace to your soul and understand that I have been your son for many lives. Hear
+attentively of your own glory. In the past your name was Prishni. You were My mother. Later you appeared in the heavens
+as Aditi. I descended into this world as Vamana, and you were My mother. Then you came as Devahuti, and I was born as
+your son Kapila. Then you became Kaushalya, and I came again as your son Ramachandra. Then you were born as Devaki in
+Mathura and were imprisoned by the demon Kamsa. At that time too you became My mother. You are that same Devaki, and I
+am your son. Beginning this movement of sankirtana, I shall soon take two more births as your son. My mother, in My form
+as the Deity you appear as the earth. And in My form as the holy name you are My mother as the tongue. You are My mother
+birth after birth. Nothing will ever separate you and Me.’” (CB, Madhya 27.39–49)
+
+Thus the Lord revealed to her that He would be her son hereafter as well — in the Deity, which is made from earth, and in
+the holy name, which the tongue sings: the name, the form and the very being of the Lord are non-different from one
+another. Hearing this secret, Shachi found peace (27.36–51). <!-- F159 F105 F160 F109 Q12 I5 F161 -->
+
+Lochana Dasa tells the same in his own way. Shachi begged her son not to take sannyasa in His youth, and He told her of
+Dhruva and of the instruction of his mother. “I too will go with you,” said Shachi then. “If such a golden son goes off
+with a shaven head, I will shave my head, put on red garments and become a yogini.” The Lord began to console her: other
+people's sons bring their mothers gold and silver, which pass away, but He would bring her prema for Krishna,
+imperishable in this world and the next. And for a moment the Lord of the fourteen worlds lifted the veil from her: in
+her son she saw Krishna of Vrindavana, dark as a fresh cloud, with His flute, among the cowherd boys and gopis. Yet even
+then the mother's love did not yield to His majesty:
+
+“[Yet] in her tenderness Shachi does not give up her own relation [to Him]: ‘Krishna has become my son — so my good
+fortune has decreed. Krishna, unattainable for the world, is my son; He is subject to no one's control — what can my
+strength do?’ Reasoning thus, Shachi spoke: ‘You are the independent Lord, the jewel among men. By my good fortune You
+were so long in my power — now, as it pleases You, take sannyasa.’” (CM, Madhya-khanda, part 14, vv. 212–215)
+
+“Why is such a treasure leaving me?” she asked and wept aloud, and the Lord, raising His face, answered:
+
+“‘…on any day when you long with love to see Me — at that very moment you will be able to see Me.’” (CM,
+Madhya-khanda, part 14, v. 220)
+
+The veil lifted from her at that moment Lochana Dasa calls maya, but it is no veil of ignorance: it is yogamaya, the
+Lord's internal potency, which hides His majesty for the sake of a mother's love — and, having seen that majesty, Shachi
+still remained His mother. <!-- F198 F85 -->
+
+On the eve of His departure the pious Shridhara brought the Lord a gourd. “Tomorrow I shall leave,” thought the Lord,
+“but nothing Shridhara brings must go to waste,” and He asked His mother to cook it, and when another devotee brought a
+pitcher of milk, He said with a smile, “Very good, cook them together.” Shachi set about the cooking with great joy (CB,
+Madhya 28.33–40). Vrindavana Dasa places this departure beside others: Kapila left His mother Devahuti, Shuka went away
+from his father, the great Vaishnava Vyasa, without looking back, and the best of sannyasis left His mother Shachi; but
+“in truth all these examples of renunciation are not a forsaking of one's obligations. At their root lies the attainment
+of the highest good, but only great souls can understand this” (CB, Madhya 3.101–104). <!-- F36 F161 F101 -->
+
+## The Night of Departure
+That night Shachi did not sleep but only wept. The Lord woke in the brahma-muhurta, and when she understood that He was
+about to leave, she came and sat by the door. The Lord took her by the hands:
+
+“‘You cared for Me wonderfully. Only thanks to you did I master the sciences and receive an education. Forgetting your
+own happiness, you live only for My pleasure. Every moment you gave Me such love that I cannot repay you even in a
+million kalpas.’” (CB, Madhya 28.51–53)
+
+“‘My dear mother, please hear Me. All creation is governed by the Supreme Lord. No one has the power to be independent.
+Who can understand the will of the Supreme Lord, by which living beings meet and part? Whether I leave now or in ten
+years, you should not grieve in any case. I take full responsibility for both your worldly and your spiritual
+needs.’” (CB, Madhya 28.55–58)
+
+“Mother Shachi listened quietly to what the Lord was saying. She answered nothing; only endless tears streamed from her
+eyes. Thus Shachi, the mother of the whole universe, became as sorrowful and silent as mother Earth. Can anyone
+comprehend the inconceivable pastimes of Krishna? The Lord placed the dust of His mother's feet on His head, walked
+around her and left without delay.” (CB, Madhya 28.60–62)
+
+In the morning the devotees came to bow to the Lord and found His mother at the door. “Why are you sitting here,
+mother?” asked Srivasa. For a long time she could not speak, and then she said:
+
+“After some time she said: ‘Listen to me. Only the Vaishnavas have the right to share the Lord's possessions. Divide among
+yourselves all that He has left. The shastras say that all this now belongs to you. So take it, do as I ask, and let me
+go away from here.’” (CB, Madhya 28.70–72)
+
+The Lord's house was filled with weeping, and when the devotees had calmed down a little, they sat around mother Shachi
+(28.65–88).
+
+This parting was no rupture in the worldly sense. The Lord did not leave His mother as people leave their families for
+their own sake: He went for the deliverance of the fallen (28.63), and in leaving took upon Himself the care of her. And
+her grief is vipralambha, separation, in which a mother's love is revealed most fully; so Yashoda wept for Krishna when
+Akrura took Him away to Mathura. <!-- F162 -->
+
+## Twelve Days
+When the news reached Navadvipa, “mother Shachi turned to stone with grief. She stood motionless, like a doll” (CB, Antya
+1.38). Lochana Dasa says that Shachi and Vishnupriya kept falling unconscious; Shachi wept, holding on her lap
+Vishnupriya, who lay as if dead, and called, “Nimai!” — “On every side it is empty, all is wrapped in darkness… no one
+will call me ‘mother’ any more” (CM, Madhya-khanda, part 16, vv. 8–15). As He left to follow the Lord to Katva,
+Nityananda consoled them both (v. 44). Then, remembering His words, “Whoever chants the name will attain Me,” all of
+them — Shachi and Vishnupriya, children and the old, young men and girls — sat down to chant the holy name, making
+Gauranga their refuge. The devotees, finding consolation only in the names and qualities of the Lord, did not leave
+Shachi's side (CB, Antya 1.50). For four days, while the Lord wandered half-mad through Radha-desha, yearning for
+Vrindavana, Sita was with her: Shachi lay on the ground like one dying — as if the sun had left her sky for ever. And
+Vamshivadana composed a song of separation in which the poet rolls on the ground, hearing the weeping of the Lord's
+young wife and her mother-in-law. <!-- F163 F199 F86 F108 F91 F54 -->
+
+When Chandrashekhara came back from Katva, Shachi ran out to meet him with her hair unbound:
+
+“‘Where have you left my Nimai and come back? How did He shave His head, in what land? What wretched sannyasi with a
+cruel heart felt no pity when giving the mantra to Vishvambhara!’” (CM, Madhya-khanda, part 18, vv. 6–7)
+
+“No more shall I cook rice to serve you… Who will know when you are hungry?” she lamented (vv. 12–13). These are the
+words of a mother's love, not abuse of the guru of the Lord's sannyasa: so speaks the heart of a mother for whom her
+Son is her whole life. <!-- F199 -->
+
+Meanwhile the Lord had sent Nityananda to Navadvipa to tell the devotees that He awaited them in Shantipur, in
+Advaita's house (CB, Antya 1.127–133). Nityananda, intoxicated with prema, swam down the Ganga to the Lord's favourite
+ghat and went straight to His house:
+
+“On arriving, He saw that mother Shachi had been fasting for twelve days already. Only by the strength of her devotion
+to Krishna did she remain alive. Mother Shachi was overflowing with the parental love of Yashoda. Tears of love streamed
+endlessly from her eyes. Whomever she met, mother Shachi asked: ‘Are you from Mathura? Please, tell me, how are Krishna
+and Balarama there?’ Asking this, she would fall unconscious to the ground. Sometimes mother Shachi said: ‘Are those
+the sounds of the flute and the horn? Has Akrura at last come back to Vrindavana?’ Thus mother Shachi was sinking in the
+ocean of separation from Krishna. Not a trace of outer consciousness remained in her body.” (CB, Antya 1.146–151)
+
+This is not bewilderment but prema itself: in separation from Gaura there was revealed in Shachi who she eternally is —
+Yashoda waiting for Krishna to come back from Mathura. Nityananda fell at her feet, and with a cry of “My son!” she lost
+consciousness. He gave everyone the good news and began to console her: “Your son is the Supreme Lord Himself, whom the
+Vedas seek. He has promised always to protect you and to care for all your needs, both material and spiritual”
+(1.152–168). And He added:
+
+“‘Mother, let us go quickly. You will cook for Krishna and so satisfy all the devotees. Everyone wishes to taste the
+food cooked by you. But when you fast, Krishna fasts too. Cook some dish and offer it to Krishna. I am very
+hungry.’” (CB, Antya 1.169–171)
+
+“Hearing these words of Nityananda, mother Shachi forgot her sorrows and went to cook. The pious mother Shachi first
+offered the dish she had cooked to Krishna, and then served it to Nityananda. Then mother Shachi served all the
+Vaishnavas, feeding them prasada. All were happy to taste it. When all the devotees were satisfied, mother Shachi
+herself sat down to eat, breaking her twelve-day fast.” (CB, Antya 1.172–175) <!-- F164 -->
+
+## Shantipur
+Lochana Dasa describes her meeting with Nityananda thus: with a cry of “O Avadhuta, where have you left my Nimai?”
+Shachi, mad with grief, ran to meet Him, and Nityananda answered, “Do not grieve: He has sent me to bring you all. The
+Lord will be in the house of Advaita Acharya — let us go!” At once everyone set out — from children to the old — and
+Shachi ran ahead of them all: strength had returned to her body (CM, Madhya-khanda, part 18, vv. 56–64). Murari Gupta
+writes that Nityananda bowed at Shachi's feet, consoled her, ate the food she had cooked, and next morning led her and
+the Vaishnavas to Advaita's house (“Kadacha” 3.4.8–10). With her went Murari Gupta, Nandana Acharya, Shridhara,
+Damodara Pandita and many others; Krishnadasa Kaviraja says that it was Chandrashekhara who went to fetch her:[^n19]
+
+“On the morning after Mahaprabhu's arrival Chandrashekhara brought mother Shachi in a palanquin. Many other devotees
+came with them too.” (CC, Madhya 3.137) <!-- F200 F205 F42 F120 F178 -->
+
+“The Lord fell before her in obeisance. Mother Shachi laid His head on her lap and burst into sobs. The meeting shook
+them both. Seeing her son's smoothly shaven head, Shachimata was deeply agitated. With great love she stroked her son and
+kissed His face. She tried to look at Him, but tears blinded her eyes. Sobbing, Shachi lamented: ‘My dear son, Nimai! Do
+not become as cruel as Vishvarupa, Your elder brother. I have not seen him since he took sannyasa. You will kill me if You
+do the same.’” (CC, Madhya 3.140–144)
+
+“Sri Chaitanya answered with tears in His eyes: ‘O My mother, hear Me. My body is all I have, and it belongs to you. It
+was born and nurtured by you. Even in millions of births I could not repay you this debt. I shall never become
+indifferent to you, whatever aims I pursued in taking sannyasa. I shall live wherever you say and fulfil your every
+wish.’” (CC, Madhya 3.145–148)
+
+Seeing her son in the garments of a sannyasi, Shachi and all the people of Navadvipa felt joy mingled with the pain of
+separation. Murari recalls His words: “Mother, I am always near you” (“Kadacha” 3.4.21); according to Lochana Dasa, the
+Lord fell before her and said, “Weep no more: your weeping pains My heart” (CM, Madhya-khanda, part 18, vv.
+76+3–4).[^n20] <!-- F178 F43 F205 F200 -->
+
+From that day it was Shachi herself who cooked for the Lord and His companions (CC, Madhya 3.160), and He ate what she
+had prepared, to soothe at least a little the pain His departure had caused her. At night, when He fell to the ground in
+kirtana, the mother wept and prayed:
+
+“‘O Narayana! From childhood I have done my every act and every deed as service to You. Please grant my request.
+Each time my Nimai falls to the ground, let Him feel no pain at all.’” (CC, Madhya 3.165–166)
+
+Krishnadasa Kaviraja says that in her at that time happiness, fear and humility were joined together (3.167). When
+Srivasa and other brahmanas also wished to invite the Lord to their homes for a meal, Shachi asked them:
+
+“‘Who knows where and when I shall see Nimai again? You will always be able to meet Him in another place. But my lot is
+sad — for I have only this meeting. Therefore I beg you all, let me cook for Nimai while He stays in the house of Sri
+Advaita.’” (CC, Madhya 3.169–171) <!-- F179 F43 -->
+
+A sannyasi ought not to live among his relatives, but the Lord said that He would leave neither the devotees nor His
+mother, and asked how He might fulfil both dharmas. Advaita and the devotees came to Shachi with this question, and the
+Mother of the universe decided it herself:
+
+“‘If He stays here, He will make me happy. But if people censure Him, I shall be unhappy. So I have a fine idea. Let Him
+settle in Jagannatha Puri. In this way He will attain both aims at once. Navadvipa is closely connected with Jagannatha
+Puri. People are always going back and forth, and so I shall always have the latest news. You will easily be able to go
+there, and sometimes He too will come to bathe in the Ganga. It does not matter to me at all whether I am happy or not.
+But whatever brings Him happiness gives happiness to me too.’” (CC, Madhya 3.181–185)
+
+“O mother, your words are like the injunctions of the Vedas,” the devotees replied (3.186).[^n21] The Lord, delighted,
+asked everyone at home to perform Krishna-sankirtana unceasingly (3.187–191). The festival at Advaita's house went on for
+several days more: by day they spoke of Krishna, by night they sang, the mother cooked in bliss, and her son and the
+devotees partook of her cooking, and her happiness grew day by day (3.198–205); in all the Lord stayed ten days in
+Shantipur (3.136). Advaita asked Nityananda, Jagadananda, Damodara Pandita and Mukunda Datta to accompany Him to
+Puri.[^n22] <!-- F179 F44 F121 -->
+
+Lochana Dasa describes the farewell. The devotees pleaded, “Look at Your defenceless mother… How will You take leave of
+Shachi?” Shachi, her strength gone, rose, holding on to the hands of two people:
+
+“‘Where will you go, having become pitiless? Not seeing you, my son, I shall die. Everyone else will see your face many
+times — but I, unfortunate, shall see it no more. You yourself, child, have consoled everyone — but who, my son, will
+console me?’” (CM, Madhya-khanda, part 19, vv. 56–58)
+
+“You are dying of vain grief, forgetting what you knew before,” the Lord answered, reminding her of His promise to
+appear whenever she called, and, prostrating Himself at her feet, consoled her (vv. 60–62). Krishnadasa Kaviraja says
+that on leaving the Lord offered prayers at His mother's feet and reverently walked around her, and Advaita's house was
+filled with weeping (CC, Madhya 3.210–211). So in 1510 He left by way of Chhatrabhoga for Nilachala. <!-- F201 F44 -->
+
+[^n17]: This account is found only in the 1983 edition of the “Chaitanya-mangala”; it is absent from the editions of
+    1903 and 1922.
+[^n18]: One biography writes that it was Shachi who had this dream of the sannyasa mantra; according to the
+    “Chaitanya-mangala”, the dream was seen by the Lord Himself, who told it to those close to Him.
+[^n19]: According to the “Chaitanya-charitamrita”, Nityananda sent Chandrashekhara first to Advaita and then to
+    Navadvipa for mother Shachi and the devotees (Madhya 3.20–22, 137). According to the “Chaitanya-bhagavata”, it was
+    Nityananda Himself who went for them, at the Lord's command (Antya 1.127–176); so too in Lochana Dasa (CM,
+    Madhya-khanda, part 18, vv. 56–64) and Murari Gupta (“Kadacha” 3.4.7–10). The meeting of mother and son in
+    Shantipur after the sannyasa is not itself described in the “Chaitanya-bhagavata”. The biographies name different
+    companions of Shachi on this journey: Chandrashekhara, Murari Gupta, “one of those who were there”.
+[^n20]: These lines are found only in the 1983 edition of the “Chaitanya-mangala”; the same edition says that in
+    Shantipur it was Shachi who cooked (v. 88+1; the 1903 edition gives this line only in a footnote).
+[^n21]: According to the “Chaitanya-charitamrita”, it was Shachi herself who decided that He should live in Puri (Madhya
+    3.181–185); so too in its other passages (Madhya 15.52; Antya 3.39, 19.11) and in Murari Gupta (“Kadacha” 4.20.4):
+    the Lord lives in Nilachala “at her command”. In Lochana Dasa the Lord in Shantipur Himself gives the devotees a vow:
+    “Truly, I shall live in Nilachala” (CM, Madhya-khanda, part 19, vv. 49–54). The biographies write that He settled in
+    Puri “at the wish”, “at the request” or “at the command” of His mother.
+[^n22]: So in the “Chaitanya-charitamrita” (Madhya 3.209–210). One biography writes that Damodara Pandita went with the
+    Lord at the instruction of Shachi herself.
+
 <!-- СМЕНА 4: ниже — старый текст пилота, заменить -->
 
 ## The Years of Kirtana
