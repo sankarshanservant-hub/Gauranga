@@ -39,10 +39,10 @@ def cb(kh, ch, a, b):
     t = (R / f'chaitanya-bhagavata/src/txt/CB_{kh}{ch:02d}.txt').read_text(errors='replace')
     out = []
     for v in range(a, b + 1):
-        m = re.search(rf'^Текст {v}(?:[–-]\d+)?\s*$(.*?)(?=^Тексты? \d+|\Z)', t, re.S | re.M)
+        m = re.search(rf'^Тексты? (?:{ch}\.)?{v}(?:[–-]\d+)?\s*$(.*?)(?=^Тексты? \d+|\Z)', t, re.S | re.M)
         grp = ''
         if not m:  # стих внутри группы «Текст 12–14»
-            for g in re.finditer(r'^Тексты? (\d+)[–-](\d+)\s*$(.*?)(?=^Тексты? \d+|\Z)', t, re.S | re.M):
+            for g in re.finditer(r'^Тексты? (?:\d+\.)?(\d+)[–-](?:\d+\.)?(\d+)\s*$(.*?)(?=^Тексты? \d+|\Z)', t, re.S | re.M):  # бывает «Тексты 5.231–233»
                 if int(g.group(1)) <= v <= int(g.group(2)):
                     m, grp = g, f'[{g.group(1)}–{g.group(2)}] '
                     break
