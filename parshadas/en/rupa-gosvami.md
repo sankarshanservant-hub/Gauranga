@@ -1526,7 +1526,7 @@ vow, its origin and greatness, the harm of neglecting it, the determination of t
 birth chamber and the whole puja — from bathing to the arghya to the moon, the worship of Devaki and Krishna and the
 prayer. Why, then, did Sanatana bid Rupa write another book? Either Rupa compiled a brief rule before the detailed rules
 entered the “Hari-bhakti-vilasa,” or he wrote the book later to describe specially the mahabhisheka on Krishna's
-birthday. It is precisely this that distinguishes Rupa's book: on the eve, on Saptami, the platform for the bathing is
+birthday. Comparing the topics of the two books, a thoughtful reader will see the particular features of each. In Rupa's book it is thus: on the eve, on Saptami, the platform for the bathing is
 cleansed, a pit is dug in the courtyard, banana posts are set at the corners, with an awning and flags; on the morning of
 Janmashtami the Deity is carried with kirtana and dance to the platform adorned with lamps and pots, with umbrella and
 chamara; then come the svasti-vachana, the bhuta-shuddhi, the installation of the pot, the sankalpa, the puja, the bathing
@@ -1675,7 +1675,7 @@ itself, as the sutradhara says in the first act, was written at a command receiv
 the bhakta-avatara; Vishvanatha Chakravarti explains in his commentary that this is Gopishvara, who dwells on the bank of
 Brahma-kunda. At Gopishvara's command the play was also presented to an assembly of scholars from many lands. These are his
 words: “The life of these devotees, in whom separation from Mukunda has awakened, is ready to leave the body. Save them by
-revealing the river of the nectar of His pastimes; My mercy will gather for you all that is needed.” <!-- F461 F462 F464 F465 Q108 Q109 -->
+revealing the river of the nectar of His pastimes; my mercy will gather for you all that is needed.” <!-- F461 F462 F464 F465 Q108 Q109 -->
 
 Some, not understanding these words, raise objections: what separation is meant, if the play was being written in the
 Lord's presence? But separation from Mukunda is the natural trait of the Gaura-bhaktas who follow Rupa: they are always
@@ -1774,8 +1774,8 @@ doorkeeper Kanchuki, Bhargavi, Gargi, Bakula and others. There is a Bengali vers
 Both plays, the “Dana-keli-kaumudi” and Rupa's rasa-shastras are beyond the reach not only of the ordinary human mind but
 even of the empirical judgement of extraordinary people: one who is in the grip of lust, anger and the other enemies will
 not, by learning alone, touch even the shore of these transcendental oceans. Therefore many who fancied themselves
-panditas, not grasping the meaning of the plays, fell into confusion — especially over the Lord's words to Rupa: “Krishna
-never leaves Vraja” (CC, Antya 1.66; see above). The true resolution was given by Bhaktivinoda Thakura in an article,
+panditas, not grasping the meaning of the plays, fell into confusion — especially over the Lord's words to Rupa: “Do not try to take
+Krishna out of Vrindavana, for He never wishes to go beyond it” (CC, Antya 1.66; see above). The true resolution was given by Bhaktivinoda Thakura in an article,
 “Remarks on the Plays ‘Vidagdha-madhava’ and ‘Lalita-madhava’”; he did not publish it in his lifetime, and it was printed
 later in the journal “Gaudiya” (year 20, no. 6). <!-- F493 F494 F495 I35 -->
 
@@ -1790,8 +1790,8 @@ In the introduction Rupa wishes the Vaishnavas good from Radha's glance and vict
 sutradhara speaks of Vaishnavas overwhelmed by prema in the valley of Mount Nandishvara: the lovers' quarrel of Nanda's son
 draws even the atmaramas away from the bliss of brahman. The opening verse of the bhanika has a double meaning: it
 glorifies Krishna, whose name attracts the knowers of rasa, whose conduct increases the joy of Nanda and of the sadhus,
-whose beauty bestows festivity, whose body is eternal (“sanatana”) — and at the same time “my master,” whose name attracts
-people, whose nature gladdens the sadhus, who gives festivity to Rupa and bears a body named “Sanatana,” that is, Sri
+whose beauty bestows festivity, whose body is eternal (“sanatana”) — and at the same time “my master,” whose tongue is drawn by the holy name (“rasajna” means both “knower of rasa” and “tongue”),
+whose nature gladdens the sadhus, who gives festivity to Rupa and bears a body named “Sanatana,” that is, Sri
 Sanatana (11). <!-- F501 F502 Q121 -->
 
 The plot is this. Vasudeva, wishing good to Balarama and to his friend's son Krishna, son of the king of Vraja, began a
