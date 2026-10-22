@@ -131,7 +131,7 @@ But Gadadhara was looking around. Pundarika sat like a prince on a high couch be
 milk foam and soft cushions. Beside him stood five or seven large and small jharis, water jugs, and an elegant brass
 bowl of pan; he himself was chewing pan. Two servants at his sides fanned him with peacock-feather fans. His forehead
 was adorned with urdhva-pundra and a red dot of fragrant abir, his hair was artfully dressed, and he himself, by the
-power of bhakti, was as beautiful as Madana, the god of love. Before him stood an ornate palanquin, a dola, with a bed
+power of bhakti, was as beautiful as Madana. Before him stood an ornate palanquin, a dola, with a bed
 inside; incense smouldered all around and servants thronged (CB, Madhya 7.57–66)[^6]. He seemed a wealthy dandy — and
 such he wished to seem to those who judge by appearances. <!-- F34 -->
 
@@ -425,7 +425,7 @@ or the place of his departure; nor is the day of his departure in our calendar.
     wrongly refers here to the “Charitamrita” (Antya 8.124); the verse is from the “Chaitanya-bhagavata.”
 [^13]: One of the biographies, rendering this verse in its own words, writes otherwise: the Lord called him “father”
     when, in His own mood as Krishna, He suffered separation from Radha. Elsewhere the same biography says that the Lord
-    called him so in the mood of Srimati Radharani; so the verse itself is understood (*rādhā-viraha-kātaraḥ*, “afflicted
-    by separation like Radha”). The biographies cite verses 54–57 as one block under the number 54.
+    called him so in the mood of Srimati Radharani; so our translation renders the verse. The words *rādhā-viraha-kātaraḥ* allow both readings: “afflicted by
+    separation, like Radha” and “afflicted by separation from Radha.” The biographies cite verses 54–57 as one block under the number 54.
 [^14]: One of the biographies gives the numbers Antya 10.183–184 for the last verses; in our edition these are Antya
     10.180–181.
