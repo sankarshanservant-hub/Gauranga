@@ -93,7 +93,7 @@ B — вероятно, больше сотни).
 | @jahnava (007) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @narahari-sarakara (008) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vasu-ghosha (009) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @dhananjaya-pandita (010) | ✓ | ✓ (PDF) | — |
+| @dhananjaya-pandita (010) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vakreshvara (011) | ✓ | ✓ (PDF) | — |
 | @svarupa-damodara (012) | ✓ | ✓ (PDF) | — |
 | @ramananda-raya (013) | ✓ | ✓ (PDF) | — |
