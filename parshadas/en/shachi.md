@@ -445,51 +445,140 @@ And indeed: returning one day from the Ganga, He called His mother aside and gav
 This happened whenever want came to the house. Shachi marvelled and worried: where did her son get the gold — had He
 borrowed it? — and every time she exchanged it with great misgiving (CB, Adi 8.175–181). <!-- F139 -->
 
-<!-- СМЕНА 4: ниже — старый текст пилота, заменить -->
-
 ## Two Daughters-in-law
-The match with Lakshmipriya, the daughter of Vallabhacharya, began with a refusal. The matchmaker Vanamali Acharya
-came to Shachi and proposed the daughter of a worthy brahmana, but Shachimata replied that her fatherless son was still
-studying. Nimai, however, without saying a word about His meeting with the matchmaker, told His mother Himself that He
-wished to marry and asked her to find Vanamali. Shachi did so. Poor Vallabha could give with his daughter only, as the
-saying went, “five haritaki fruits”, but no one minded. Shachi gathered relatives and friends and prepared the wedding,
-and in the evening after the rite she and the brahmanas' wives led the bride into the house. When Lakshmi sat down
-beside the Lord, Shachi's house was filled with light. <!-- F28 F80 F29 -->
+When Nimai had become a renowned pandita, Shachi resolved to see Him married. By the Lord's will, on the very day when
+He met at the Ganga Vallabhacharya's daughter Lakshmi, His eternal consort, the matchmaker Vanamali Acharya came to
+Shachi's house and proposed this girl as a wife for her son. But the mother replied:
 
-With Lakshmi's arrival the house became like Mahavaikuntha. Shachi kept seeing wondrous forms and smelling the
-fragrance of lotuses; she felt that Kamala herself dwelt in her daughter-in-law, for the old poverty had gone and
-everything needed appeared from no one knew where. When Nimai sat down to eat, she could not look enough at Lakshmi
-serving and Him eating. One day the Lord sent word to His mother to prepare a meal at once for twenty sannyasis; there
-was nothing in the house and Shachi grew anxious — and just then someone brought everything needed, and Lakshmi
-happily cooked the meal. Shachi was delighted with her daughter-in-law's gentle nature. Lakshmi served Tulasi
-untiringly and the Lord's mother still more devotedly; at times Shachi saw a divine light like flame coming from her as
-she massaged her husband's feet, and the fragrance of a great lotus spread through the whole house.
-<!-- F115 F116 F117 -->
+“‘My son is growing up without a father. Let Him first complete His education. When the time comes, I will think of His
+marriage.’” (CB, Adi 10.57)
 
-To support His wife and mother, the Lord went to teach in East Bengal. As He left, He told His mother that He would be
-away a short while and told Lakshmi to serve her constantly, and Lakshmi did so. But she could not bear separation from
-her husband and left the world. Lonely Shachi's weeping would have melted stone; the neighbours helped to perform the
-last rites. On His return Nimai found His mother in sorrow and asked the reason. She stood with bowed head, and it was
-the neighbours who told Him of Lakshmi's death. The Lord grieved, as befits a man, and then comforted His mother: this
-world is passing, it is the Lord alone who unites and parts everyone, and is it not good fortune for a faithful wife to
-go to the Ganga while her husband lives? Lochana Dasa adds that in consoling her He praised Lakshmi's virtues.
-<!-- F118 F30 -->
+Vanamali went away saddened and on the road met Nimai Himself. Having heard him, the Lord smiled and went home:
 
-For a long time pain tormented Shachi's heart, but in time she began to think of her son's happiness. She had long
-known Vishnupriya, the daughter of the royal pandita Sanatana Mishra: the girl bathed in the Ganga three times a day
-and each time bowed at Shachi's feet, and Shachi would bless her: “May Krishna give you a worthy husband.” Now Shachi
-wished to have her as her daughter-in-law and, making sure that her son did not object, sent for the matchmaker
-Kashinatha.[^9] “Speak to the royal pandita,” she said. “If he is willing, let him give his daughter to my Nimai.” She
-feared that the high-born Sanatana would refuse the son of poor parents, who had besides a name for eccentricity, but
-the matchmaker only laughed: “Thakurani, if not to Nimai Pandita, then to whom?” When Kashinatha returned with consent,
-Shachi said, “I have done all I could; the rest is in the hands of Sri Hari.” <!-- F95 F32 F31 F96 F97 F81 -->
+“Entering the house, the Lord asked His mother: ‘Why did you turn down the brahmana's proposal?’ Mother Shachi was
+delighted to hear her son's hint. The next day she called the brahmana to the house.” (CB, Adi 10.63–64)
 
-On the eve of the wedding Shachi and the women of the neighbourhood performed the rites of worship to the Ganga and to
-the goddess Shashthi, and on returning she generously presented them with rice, bananas, ghee, betel and vermilion, and
-by the Lord's power there was more than enough for all. Setting out for the bride's house, Gaurasundara bowed at the
-feet of His mother, the brahmanas and His teacher. The next day the young couple came to Shachi's house to music and
-song, and the women of Navadvipa compared them, some to Shiva and Gauri, some to Lakshmi and Hari, some to Rati and
-Kama, some to Indra and Shachi, some to Rama and Sita. <!-- F98 F99 F107 -->
+So also Lochana Dasa tells it: the Lord told His mother that He had seen the matchmaker looking sad, and “the very
+quick-witted Shachi understood the hint” (CM, Adi-khanda, part 9, vv. 750–753). At her bidding Vanamali went to
+Vallabha; the poor brahmana could give with his daughter only “five haritaki fruits”, but this troubled no one (CB, Adi
+10.65–77; CC, Adi 15.29–30). Shachi invited relatives and friends, gave the women rice, bananas, kumkum, betel and oil,
+and in the evening, after the ceremony at Vallabha's house, she received the bride at the threshold together with the
+brahmanas' wives and lavishly rewarded the brahmanas and musicians (CB, Adi 10.87, 116–118).
+<!-- F28 F80 F140 F176 F190 F203 -->
+
+With Lakshmi's coming Shachi's house became like Vaikuntha. It was flooded with such light that at times Shachi could
+not see anything clearly; beside her son she saw tongues of flame, and the fragrance of the lotus spread through the
+house:
+
+“Shachi thought: ‘I can guess the reason for this. Evidently my daughter-in-law is an incarnation of Lakshmi Devi. That
+is why I see this radiance and smell the fragrance of the lotus. Now our poverty will come to an end. How did I come to
+have such a daughter-in-law? Surely she is Lakshmi herself!’” (CB, Adi 10.124–126)
+
+And indeed, the former poverty departed, and all that was needed appeared from no one knew where. When Nimai sat down
+to eat, His mother could not look enough at Lakshmi serving the rice and Him eating it (CB, Adi 12.102).
+<!-- F29 F115 F140 F142 -->
+
+In those days Ishvara Puri came to Navadvipa, recognized by no one. Nimai invited him home for a meal, and Shachi cooked
+an offering for Krishna; having honoured the prasada, the guest sat in the Deity room and became absorbed in talk of
+Krishna (CB, Adi 11.92–94). Her son's studies, the happy days of His learning, were incomparable happiness for Shachi
+(CB, Adi 11.69). <!-- F26 F68 F141 -->
+
+Vrindavana Dasa relates how one full-moon night Nimai sat at the door of the Vishnu room and, remembering
+Vrindavana-chandra, began to play the flute. Only Shachi heard this melody: she fainted with rapture, and on coming to
+herself went out — and no longer heard the flute, but saw the full moon on her son's breast. At night she heard the
+singing of hundreds of voices, as though a rasa-lila were going on close by; she saw a light that filled the house,
+divine women with lotuses in their hands, radiant gods who vanished the next moment:
+
+“There was nothing surprising in Shachi beholding all these wonders — the Vedas call her the embodiment of service to
+Lord Vishnu. Anyone on whom mother Shachi casts a merciful glance will be able to see the same wonders.” (CB, Adi
+12.230–231) <!-- F142 -->
+
+Sometimes the Lord invited ten or twenty sannyasis and sent word to His mother to cook at once a meal for twenty. “What
+shall I feed them with?” Shachi would worry if there was nothing in the house, but as soon as she thought of it, someone
+brought everything needed, and Lakshmi joyfully cooked (CB, Adi 14.14–19). Shachi saw how meek and diligent her
+daughter-in-law was, and her happiness grew day by day. Lakshmi rose at dawn, managed the house herself, decorated the
+floor of the Deity room with designs, prepared everything for the worship of Vishnu; she served Tulasi tirelessly, but
+still more gladly the Lord's mother. And when Lakshmi held her husband's feet in her hands for hours, Shachi at times saw
+around those feet a radiance like tongues of flame and smelt the fragrance of the lotus throughout the house (CB, Adi
+14.38–47). “Her daughter-in-law's goodness makes Shachi forget herself,” says Lochana Dasa (CM, Adi-khanda, part 12,
+v. 107). <!-- F116 F117 F143 F191 F203 -->
+
+To support His mother and wife, the Lord went to teach in East Bengal. On leaving He said to His mother: “Mother, I am
+setting out on a journey,” and told Lakshmi to serve His mother constantly (CB, Adi 14.50–51). Lakshmi served “Ai” so,
+almost ceasing to eat; but separation from her husband she could not bear: “the snake of separation from Lord Chaitanya
+bit her, and the poison of that snake sent her to the supreme abode” (CC, Adi 16.21). On the bank of the Ganga, placing
+the Lord's feet in her heart, she left this world (CB, Adi 14.100–105). Shachi's grief, says Vrindavana Dasa, would have
+melted stones (CB, Adi 14.106). Lochana Dasa gives her lament: “My daughter-in-law Lakshmi was like Lakshmi in all her
+virtues… My son, having appointed you to serve me, went to foreign lands without a care — how shall I, unfortunate one,
+look at His face?” — and her relatives consoled her that the one eternal Reality is Krishna (CM, Adi-khanda, part 13,
+vv. 122–136). The neighbours and all the devotees helped to perform the last rites. <!-- F118 F143 F30 F191 -->
+
+Returning with rich gifts, the Lord bowed to His mother and offered her all He had brought; Shachi, sorrowful, at once
+began to cook. The relatives, not wishing to grieve Him, kept silent. In the evening He came to His mother:
+
+“In reply to her son's words mother Shachi bowed her head and wept bitterly. Overcome by grief, she could not speak.
+The Lord said: ‘Dear mother, I know everything. Has some misfortune befallen your daughter-in-law?’” (CB, Adi
+14.176–177)
+
+The relatives told Him that Lakshmi had departed.[^9] For a while the Lord was silent, grieving like an ordinary man,
+and then He consoled His mother: all creation is in the power of the Supreme — who but He unites and separates? And who
+is more fortunate than a woman who leaves her body before her husband? (CB, Adi 14.158–188). Krishnadasa Kaviraja says
+that He returned for this very purpose:
+
+“As the Supreme Soul, Sri Chaitanya learned of Lakshmidevi's departure. He at once returned home to console His
+grieving mother.” (CC, Adi 16.22)
+
+In Lochana Dasa and Murari Gupta the Lord consoles her with the story of an apsara cursed by Indra to be born on earth,
+who became the wife of an incarnation of God[^10] — and Shachi, having listened to her son, “ceased grieving and thought
+of it no more” (CM, Adi-khanda, part 13, v. 157; “Kadacha” 1.12.8–18). <!-- F30 F143 F177 F191 F203 -->
+
+For a long time pain tormented Shachi's heart, but in time she began to think of her son's happiness and searched all
+Navadvipa for a new bride for Him. Vishnupriya, the daughter of the raja-pandita Sanatana Mishra, she had known long:
+from childhood the girl bathed in the Ganga several times a day and each time bowed humbly to Shachi.
+
+“And mother Shachi lovingly blessed her: ‘May Lord Krishna send you a worthy husband.’ While bathing, Shachi thought:
+‘How good it would be if this girl became my son's wife.’” (CB, Adi 15.48–49)
+
+Having made sure that her son did not object, Shachi called the brahmana Kashinatha and, opening her heart to him in
+private, sent him to Sanatana: “Tell him: if he wishes, let him give his daughter to my son” (CB, Adi 15.38–52; CM,
+Adi-khanda, part 13; “Kadacha” 1.13.2–3).[^11] It is told that she worried lest the noble Sanatana refuse his daughter
+to the son of poor parents, who moreover passed for an eccentric, but the matchmaker only answered: “Thakurani, if not
+to Nimai Pandita, then to whom?” — and when he came back from Sanatana and told her everything, he heard: “I have done
+what I could; the rest is in the hands of Sri Hari.” Sanatana and his family gladly agreed, and the mother, delighted,
+at once began to prepare for the wedding (CB, Adi 15.60–67). And when Sanatana sent his messenger to her, Shachi
+replied:
+
+“‘Good, good!’ said Shachi in great joy. ‘I agree; do everything quickly.’” (CM, Adi-khanda, part 13, v. 38)
+
+The brahmana messenger added that Vishnupriya would justify her name — she would obtain Vishvambhara as Rukmini
+obtained Krishna — and the mother rejoiced still more (CM, Adi-khanda, part 13, vv. 39–42; “Kadacha” 1.13.10–15).
+<!-- F95 F32 F31 F144 F96 F97 F192 F81 -->
+
+On the eve of the wedding Shachi with the women performed puja to the Ganga, went with music to worship the goddess
+Shashthi, visited the houses of relatives and lavishly gave the women puffed rice, bananas, oil, betel and kumkum:
+
+“By the presence of the Supreme Lord the quantity of prepared gifts kept increasing. Thus mother Shachi was able to
+present each of the women five or seven times.” (CB, Adi 15.118)
+
+Setting out for the bride's house, the Lord reverently walked around His mother and bowed to her and to the brahmanas
+(CB, Adi 15.140). When the newly-weds were returning in a palanquin through the streets of Navadvipa, the women
+compared them, some to Shiva and Parvati, some to Lakshmi and Hari, some to Kama and Rati, some to Indra and Shachi,
+some to Rama and Sita; and at the house Shachi was waiting with the virtuous women — she warmly greeted her
+daughter-in-law and led her into the house (CB, Adi 15.205–213; “Kadacha” 1.14.33). From then on, says Murari, the Lord
+lived at home, gladdening His mother and wife (“Kadacha” 1.15). <!-- F98 F144 F99 F107 F203 -->
+
+Then the Lord performed the shraddha for His father and prepared to go to Gaya. He asked His mother's permission (CB,
+Adi 17.12), and her heart was set aflame:
+
+“‘You are going to foreign lands — listen, Vishvambhara: without You there is darkness in my house. You are the blind
+woman's staff, the pupil of my eyes, the soul of this body — I have no one but You.’” (CM, Adi-khanda, part 15,
+vv. 11–12)
+
+He consoled her with sweet words and left. And when He returned and bowed at her feet, Shachi embraced her son, and
+tears of love and joy streamed from her eyes (CM, Adi-khanda, part 15, vv. 14, 105–106). But it was a different Nimai
+who had come back from Gaya. <!-- F145 F193 -->
+
+<!-- СМЕНА 4: ниже — старый текст пилота, заменить -->
 
 ## The Years of Kirtana
 From Gaya the Lord returned changed. He wept, called for Krishna, fainted, and people began to talk of a “wind
@@ -524,13 +613,13 @@ the goddesses Nimai was not recognised even by those who had known Him from birt
 Vishvarupa's departure had left in Shachi's heart a quiet grievance against Advaita, for it was at His house that her
 elder son had come to see the world as passing. She was careful not to offend Advaita, knowing Him to be a Vaishnava,
 and found comfort in having Nimai at home. But when Nimai too began to spend whole days at Advaita's, leaving His young
-wife at home,[^10] Shachi thought to herself: “He is called Advaita, but Dvaita would suit Him better: He does not unite,
+wife at home,[^12] Shachi thought to herself: “He is called Advaita, but Dvaita would suit Him better: He does not unite,
 He divides. Because of Him one son of mine, beautiful as the moon, has gone, and now the other is not allowed to stay
 at home. No one pities me; I am alone in the world.” She did not say it aloud — she only thought it, out of love for
 her son. But her Son dwells in every heart. <!-- F37 F38 Q4 -->
 
 Once, when the Lord was revealing His divine nature to the devotees in Srivasa's house, Srivasa asked Him to grant His
-mercy to Shachi as well. The Lord replied that His mother had offended Advaita and therefore would not receive it.[^11]
+mercy to Shachi as well. The Lord replied that His mother had offended Advaita and therefore would not receive it.[^13]
 “If those words reach our ears again, we shall not survive them,” cried Srivasa, and the Lord explained how to be freed
 from an offence against a Vaishnava: only the one offended can forgive. Learning of this, Shachi went at once to
 Advaita to beg forgiveness. But as soon as He heard her, He began to glorify the one who had carried the Supreme Lord
@@ -568,7 +657,7 @@ hearing it, the poet rolls on the ground. <!-- F86 F108 F54 -->
 
 For four days, while the Lord wandered half-mad, pressing towards Vrindavana, Sita stayed with Shachi: Shachi lay on the
 ground like one dying — as if the sun had left her sky for ever. At last Nityananda brought the Lord by a ruse to
-Shantipur, and Chandrashekhara Acharyaratna was sent to Navadvipa for Shachi and the devotees.[^12] The news brought her
+Shantipur, and Chandrashekhara Acharyaratna was sent to Navadvipa for Shachi and the devotees.[^14] The news brought her
 almost lifeless body back to life, and the next morning he brought her by palanquin to Advaita's house; with her came
 Murari Gupta, Nandana Acharya, Shridhara, Damodara Pandita, Gangadasa and others. <!-- F91 F42 F113 -->
 
@@ -635,7 +724,7 @@ in Advaita's house, all the cooking was taken on by Shachi — “Ai”, as the 
 by the wives of the Vaishnavas, and the Lord with all His devotees partook of what she had prepared. After His wedding
 Nityananda brought His wives, Vasudha and Jahnava, to her; Shachi embraced them again and again, seated them on her lap
 and fondly pinched their cheeks. At her wish Nityananda then lived nearby for some time before settling in
-Khardaha.[^13] <!-- F106 F100 Q11 F70 F64 -->
+Khardaha.[^15] <!-- F106 F100 Q11 F70 F64 -->
 
 Ishana and Vamshivadana were always with her, servants and protectors of Shachi and Vishnupriya; later, according to
 one biography, their affairs were also managed by Gadadhara Dasa, who moved to Katwa when they were gone. Every morning
@@ -644,7 +733,7 @@ Shachi went with Vishnupriya to bathe in the Ganga. <!-- F49 F52 F53 -->
 ## Departure and Remembrance
 When and how Shachi left this world the biographies do not say. We know only that Vamshivadana, after the departure of
 the Lord and of Shachimata, served Vishnupriya and the aged Ishana, and that Jahnava, coming to the Lord's house after
-the festival at Kheturi, did not find Shachi there and grieved that she had missed her.[^14] Srinivasa Acharya, who came
+the festival at Kheturi, did not find Shachi there and grieved that she had missed her.[^16] Srinivasa Acharya, who came
 to Navadvipa to see the Lord's family, was blessed by Shachi in a dream. <!-- F51 F50 F71 F65 -->
 
 Songs keep her memory. Vasudeva Ghosha sings of the Boy who whirls about Shachi's courtyard, hides and teases His mother,
@@ -668,7 +757,7 @@ And Kavi Karnapura:
 Jagannatha Purandara — of this there is no doubt. Into them also entered the gods Aditi and Kashyapa, Kaushalya and
 Dasharatha, and Prishni and her husband.” (GGD 37–38)
 
-Thus all who in earlier descents had been mothers of God were united in Shachi.[^15] She is the very essence of
+Thus all who in earlier descents had been mothers of God were united in Shachi.[^17] She is the very essence of
 motherly love, and in that love — not in majesty — lies her secret: the Lord for whose sake sages fast cried in her
 arms, asked her for food, and secretly came from Puri to her hearth. <!-- F7 F8 Q1 Q2 -->
 
@@ -697,21 +786,29 @@ arms, asked her for food, and secretly came from Puri to her hearth. <!-- F7 F8 
     the father against Shachi's objection, and he gave way to her request and the neighbours' persuasion (Adi 7.128,
     193–197). In Lochana Dasa, on the contrary, Shachi says to her husband: “Let my son be a dunce — as long as He lives
     a hundred years” (CM, Adi-khanda, part 6, v. 494).
-[^9]: Lochana Dasa in the “Chaitanya-mangala” calls the matchmaker Dvija Kashishvara and the bride the daughter of
-    Sanatana Pandita.
-[^10]: One biography names her Lakshmipriya, but at that time, after the Lord's return from Gaya, His wife was Vishnupriya
+[^9]: According to the “Chaitanya-bhagavata” (Adi 14.177–178), the Lord was told of Lakshmi's death by the relatives;
+    according to Lochana Dasa and Murari Gupta, Shachi herself told Him everything (CM, Adi-khanda, part 13, v. 148;
+    “Kadacha” 1.12.11). One biography writes that He was told of Lakshmi's death by the neighbours.
+[^10]: Gaudiya Vaishnavas, following Vrindavana Dasa, see in Lakshmipriya Lakshmi herself; the story of the apsara is
+    the words with which the Lord consoled His mother while concealing Himself. Murari Gupta at once adds in the Lord's
+    words: “Or else it was the Mistress of the world herself, in the form of Lakshmi, who went to the lotus feet of her
+    Lord” (“Kadacha” 1.12.17), and concludes: “Thus did Hari, playing the part of a man, conceal His manifest glory”
+    (1.12.18).
+[^11]: One biography, retelling the “Chaitanya-mangala”, calls the matchmaker “Dvija Kashishvara”; in the
+    “Chaitanya-mangala” itself, as in Murari Gupta and the “Chaitanya-bhagavata”, he is the brahmana Kashinatha.
+[^12]: One biography names her Lakshmipriya, but at that time, after the Lord's return from Gaya, His wife was Vishnupriya
     (CB, Madhya 22).
-[^11]: According to some biographies, Srivasa asked that Shachi might see His divine form — and when the offence had been
+[^13]: According to some biographies, Srivasa asked that Shachi might see His divine form — and when the offence had been
     lifted, the Lord showed her that form; according to others, that she might be granted love of God: the Lord said
     that only Advaita could forgive her, as only Ambarisha could forgive the offence of Durvasa, and when Shachi touched
     the dust of Advaita's feet she herself fell unconscious, overwhelmed by love, and the Lord declared that she had
     attained devotion to Vishnu.
-[^12]: According to some biographies, Chandrashekhara was sent by Nityananda (so also CC, Madhya 3.137); according to
+[^14]: According to some biographies, Chandrashekhara was sent by Nityananda (so also CC, Madhya 3.137); according to
     another, it was Advaita who sent for Shachi.
-[^13]: According to one biography, at Shachi's request Nityananda lived for some time in Navadvipa after His wedding,
+[^15]: According to one biography, at Shachi's request Nityananda lived for some time in Navadvipa after His wedding,
     then moved to Saptagrama to Uddharana Datta and finally to Khardaha; according to another, at her word He went
     straight to Advaita's house in Shantipur and stayed there until Uddharana Datta invited Him to Saptagrama.
-[^14]: One biography, citing the “Bhakti-ratnakara”, relates that Vamshivadana, on meeting Srinivasa, went to tell
+[^16]: One biography, citing the “Bhakti-ratnakara”, relates that Vamshivadana, on meeting Srinivasa, went to tell
     Vishnupriya and Shachimata of his arrival; yet the same biography says that by then Shachi had already departed.
-[^15]: Some biographies list them by name, including Devaki; the “Gaura-ganoddesha-dipika” (37–38) names Aditi,
+[^17]: Some biographies list them by name, including Devaki; the “Gaura-ganoddesha-dipika” (37–38) names Aditi,
     Kaushalya and Prishni.
