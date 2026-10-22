@@ -352,9 +352,12 @@ biographers consider unconfirmed the tale that Kaviraja, learning of the loss of
 Radha-kunda. Raghunatha himself, in the “Sva-niyama-dashaka” (9), asks for one thing only — to leave his body by
 Radha-kunda. <!-- F125 F136 -->
 
-At first he had not even a shelter by Radha-kunda. Sometimes he stayed with Gopala Bhatta, whose hut stood by the
-Manasa-ganga at Govardhana. Once, after bathing in the Manasa-ganga, Raghunatha was sitting in bhajana under a tree when
-a tiger came to the water to drink. Sanatana saw this and told him to build a hut. <!-- F117 -->
+At first he had not even a hut by Radha-kunda: day and night Raghunatha lived under a tree and did not wish to build a
+dwelling. One day Sanatana came from Vrindavana to Radha-kunda, to Gopala Bhatta's dwelling, and went to bathe at the
+Manasa-pavana ghat. There he saw a tiger drinking water; the tiger passed close by Raghunatha, who sat absorbed in
+meditation, and went off into the forest. Coming to himself, Raghunatha saw Sanatana and fell at his feet, and Sanatana
+embraced him with love and told him from now on to live not under a tree but in a hut. For the good of others
+Raghunatha obeyed, and that same day the building of the hut began (BR 5.554–562).[^8] <!-- F117 -->
 
 Mahaprabhu Himself, coming to Arit, had bathed in the water of a rice field and revealed that this was Radha-kunda and
 Shyama-kunda. Raghunatha wished to restore the sacred ponds but hesitated. Then a rich merchant, travelling to
@@ -383,9 +386,13 @@ of Radha and Krishna, four dandas he slept — and in sleep saw Radha and Krishn
 <!-- F75 -->
 
 ## Among the Gosvamis of Vraja
+The biographers say that Raghunatha Dasa, like Raghunatha Bhatta and Gopala Bhatta, was drawn to Vrindavana by the
+example of Rupa and Sanatana's bhajana, and that they came there by Mahaprabhu's earlier bidding, while Jiva came at
+Nityananda's bidding. <!-- F140 -->
+
 His mind, like a bee, Raghunatha kept at the feet of Gauranga, and he always remembered Svarupa. The poets sing that he
-was non-different from Rupa; his shelter was Sanatana; he was dear to both Bhattas, Raghunatha and Gopala; all Rupa's
-companions honoured his feet, and he felt great tenderness towards Jiva. <!-- F76 -->
+was non-different from Rupa; his shelter was Sanatana; he was dear to both Bhattas, Raghunatha and Gopala; the song
+speaks too of his closeness to all of Rupa's companions and of his great tenderness towards Jiva.[^9] <!-- F76 -->
 
 There is a tradition that, reading Rupa's “Lalita-madhava,” a drama of separation, Raghunatha sank so deep into
 separation that he nearly died. Then Rupa wrote the light-hearted “Dana-keli-kaumudi,” gave it to Raghunatha and took
@@ -394,30 +401,33 @@ the “Lalita-madhava” away. <!-- F116 -->
 Gopala Bhatta begins the “Hari-bhakti-vilasa” by saying that he compiles it for the delight of Raghunatha Dasa, Rupa and
 Sanatana, and Sanatana in the “Vaishnava-toshani” names his two friends and helpers — Gopala Bhatta and Raghunatha
 Dasa. Sanatana's literary contribution, it is said, can be compared only with that of Rupa and Raghunatha Dasa.
-According to the “Bhakti-ratnakara,” Sanatana used to come to Radha-kunda to Rupa and Raghunatha Dasa. <!-- F133 F130 -->
+According to the “Bhakti-ratnakara,” Sanatana used to come to Radha-kunda to Rupa and Raghunatha Dasa. And Jiva, in the mangalacharana of the
+“Gopala-champu,” among those whom he asks for protection — Krishna, Sri Krishna Chaitanya, Rupa, Sanatana, Gopala Bhatta
+and Vallabha — names also “the supreme friend” Srila Raghunatha Dasa Prabhu. <!-- F133 F130 F137 -->
 
 Together with Gopala Bhatta, Raghunatha Bhatta and Lokanatha, Raghunatha Dasa was with Rupa when Gopala, the Deity of
 Madhavendra Puri, stayed in Mathura (CC, Madhya 18.49). Later a council of “Dasa Gosvami and others” handed over
 Gopala's service to Vitthaleshvara (Vitthalanatha), the son of Vallabhacharya; in the “Gopala-raja-stotra” Raghunatha
 glorifies Gopala, adorned by the loving service of Vitthala. <!-- F131 -->
 
-The “Bhakti-ratnakara” preserves another story about Vitthalanatha. Once Raghunatha's digestion was upset, and
-Vitthalanatha brought two physicians from Ballabhpur. The physicians said that the ailment came from rice cooked in
-milk. Vitthalanatha was astonished: Raghunatha drinks only buttermilk! And Raghunatha confessed that he had eaten rice
-with milk in meditation, serving Radha and Krishna in Their pastimes. <!-- F119 Q34 -->
+The “Bhakti-ratnakara” preserves another story about Vitthalanatha. Once Raghunatha's digestion was upset; his body grew
+heavy, and no one understood why. Sri Vitthalanatha of Ballabhpur, hearing of it, came himself with two physicians.
+Feeling his pulse, the physicians said that the ailment came from rice cooked in milk. Vitthalanatha was astonished:
+Raghunatha drinks only buttermilk! And Raghunatha confessed that it was true: in his mind, in meditation, he had eaten
+prasada rice with milk (BR 5.575–580).[^10] <!-- F119 Q34 -->
 
 Yet another story of the “Bhakti-ratnakara” shows how Raghunatha felt himself a maidservant of Radha. A Vrajavasi named
 Dasa was grieved that Raghunatha ate only a cup of buttermilk, and made him a large bowl of leaves. Learning that the
 leaves had been plucked at Sakhisthali, Raghunatha angrily threw the bowl away: Sakhisthali is the abode of Chandravali,
-Radha's rival, and one must not go there (BR 5.572–574). The biographers see in this the highest stage of a
+Radha's rival, and one must not go there (BR 5.564–574). The biographers see in this the highest stage of a
 maidservant's love for Radha, incomprehensible to the envious and to those who harbour worldly desires: all these
 devotees are eternally perfect, and whoever doubts them falls. <!-- F118 I10 Q34 -->
 
 ## Srinivasa, Narottama, Shyamananda
 Raghunatha lived a long life in Vraja, and the next generation began to come to him. Srinivasa, arriving in Vraja,
-learned that Raghunatha, maddened by separation from Gaura and Svarupa, had long been living there. The day after his
-initiation Srinivasa went with Jiva to Radha-kunda and saw Raghunatha Dasa, Raghava Gosvami and Krishnadasa Kaviraja
-(BR 4.392); by one account, Jiva sent him to Raghunatha, and Srinivasa spent three days at Radha-kunda. He marvelled at
+learned that Raghunatha, maddened by separation from Gaura and Svarupa, had long been living there. The day after
+Srinivasa's initiation Jiva sent him to Radha-kunda, and Sri Dasa Gosani, Raghava Gosvami and Krishnadasa Kaviraja
+showed him boundless mercy; Srinivasa spent three days at Radha-kunda and Govardhana (BR 4.390–393).[^11] He marvelled at
 Raghunatha's austerity and his absorption in love, and before leaving for Gauda with the books of the Gosvamis he
 received his blessing. <!-- F112 F124 Q34 -->
 
@@ -459,7 +469,7 @@ in Nilachala, longs in separation to see once more Gaurasundara, adorned with th
 The “Gauranga-stava-kalpataru” consists of eleven verses on the Lord's last pastimes in Nilachala and a twelfth, the
 verse of fruit. <!-- F26 F27 F28 -->
 
-The “Manah-shiksha,” “Instruction to the Mind,” has eleven verses and a verse of fruit.[^8] For all who seek exclusive
+The “Manah-shiksha,” “Instruction to the Mind,” has eleven verses and a verse of fruit.[^12] For all who seek exclusive
 hari-bhajana, and especially for those who follow the way of thought of Rupa and Raghunatha, it is a text for daily
 reading and worship. The Rupanugas are initiated into its teaching: to drink the fivefold nectar — worship, the holy
 name, meditation, hearing and obeisances — of Gandharvika and Giridhari, and to honour Sanatana, Rupa and Govardhana. The
@@ -572,7 +582,7 @@ called the only shelter, and the Rupanugas are invited to taste these verses. Th
 Mukunda, the lord of Radha's life, and a verse of fruit. The “Utkantha-dashaka” sings of Radha's pastimes with Krishna and
 the longing to serve Her, and the “Nava-yuva-dvandva-didrikshashtaka” of the longing to see the youthful Couple in Vraja.
 In the “Abhishta-prarthanashtaka” he asks Radha, dear to Vishakha, for the service he longs for, and by Radha-kunda begs
-to see Lalita, in whose heart Radha ever dwells. The “Dana-nivartana-kundashtaka” glorifies the greatness and beauty of
+to see Lalita, in whom, as in Radha, the beauty of love for Krishna (prema-shri) ever dwells. The “Dana-nivartana-kundashtaka” glorifies the greatness and beauty of
 Dana-nivartana-kunda and begs for residence by it; the verse of fruit promises that the reader will settle there for
 ever and in time will see the dana-lila of Radha and Krishna. <!-- F52 F53 F54 F55 F56 Q17 -->
 
@@ -612,7 +622,9 @@ straw between his teeth, prays to be the dust of Rupa's feet in every birth. <!-
 The Lord's name does not appear in it, just as it does not appear in the “Dana-keli-kaumudi,” and one may ask whether it
 was not written before Raghunatha came to Mahaprabhu. But the biographers answer: where Rupa is glorified, his master
 Gaurasundara is glorified too. Moreover, the “Dana-keli-kaumudi” was written in 1471 Shaka, so the “Chintamani” is a
-little later; and Rupa himself said that he wrote his bhanika for Raghunatha Dasa. <!-- F63 I4 -->
+little later; and Rupa himself said that he wrote his bhanika for Raghunatha Dasa. In it he is indicated by the words “living in a hut on the bank of
+Radha-kunda, having given up other concerns,” and the commentary ascribed to Jiva explains “the dear friend” as Raghunatha
+Dasa, who lives by Radha-kunda. <!-- F63 I4 F140 -->
 
 ### The “Mukta-charita”
 In the “Mukta-charita” Krishna tells Satyabhama of the pastimes of Vraja, beginning with how He planted pearls; Samanjasa,
@@ -632,7 +644,11 @@ written. <!-- F65 Q22 -->
 ### Other Works and Attributions
 Aufrecht also lists among his works the “Guna-lesha-sukhada” and the “Stavavali”; he also mentions a “Sri Raghunatha
 Dasa” in Rupa's “Dana-keli-kaumudi,” but whether this is the same Raghunatha Dasa is unknown. The “Upadeshamrita” and the
-“Gaura-sahasranama” are sometimes ascribed to Raghunatha Dasa. <!-- F66 F136 -->
+“Gaura-sahasranama” are sometimes ascribed to Raghunatha Dasa. The same “Catalogus Catalogorum” ascribes to Jiva the
+“Mukta-charita” and the “Stava-mala”; but the biographer knows only Raghunatha Dasa's “Mukta-charita,” and Jiva's
+“Stava-mala” is the collection of Rupa's stotras that he compiled. Conversely, some works and hymns of Raghunatha himself
+have been ascribed to Rupa by mistake. Among those quoted by the printed “Samskara-dipika” is Raghunatha Dasa Gosvami as
+well. <!-- F66 F136 F138 F140 F139 -->
 
 In Rupa's “Padyavali” three verses stand under his name: 131, on the infant Krishna; 212, “Messenger-friend, prepare a
 bed of leaves”; and 331, on separation from Krishna, gone to the city of the king (Mathura). It is said that these verses
@@ -669,6 +685,12 @@ Srila Bhaktisiddhanta himself lived by Raghunatha's stotras: in Puri he worshipp
 Raghunatha and quoted the “Govardhana-vasa-prarthana-dashaka” and the “Mukta-charita.” And to those who consider the
 writing of books a hindrance to bhajana he pointed to Rupa, Sanatana, Jiva and Raghunatha Dasa — and called such people
 fools. <!-- F135 -->
+
+Bhaktisiddhanta told his disciples to preach together the message of Rupa and Raghunatha, and after his departure the
+writers of the “Gaudiya” grieved that they had lost the one who guarded the tradition of Rupa and Raghunatha. And Srila
+B. R. Sridhar Maharaj, in the “Prabhupada-padma-stavaka,” his hymn to Srila Bhaktisiddhanta, glorifies the nectar of
+service to Sri Radha's feet — approved by Gaura, known by Svarupa, honoured by Rupa's elder brother, distributed by Rupa
+and others, tasted by Raghunatha and his companions, and guarded by Jiva and others. <!-- F141 -->
 
 ## The Silence of the “Chaitanya-bhagavata”
 Krishnadasa Kaviraja described in detail Nityananda's special mercy to Raghunatha in Panihati and the chida-dadhi festival
@@ -727,4 +749,11 @@ to a line carved in stone. <!-- I9 -->
     Radha-kunda; but Srila Bhaktivinoda, publishing one of these records, himself noted that some of its years are
     doubtful. We follow the “Charitamrita”.
 [^7]: According to local tradition, Kaviraja received initiation from Nityananda.
-[^8]: One of the biographies speaks now of eleven, now of twelve verses (counting the last, the verse of fruit).
+[^8]: One biography tells it differently: Raghunatha sometimes stayed with Gopala Bhatta, whose hut stood by the
+    Manasa-ganga at Govardhana, and the tiger came to the water when Raghunatha, after bathing in the Manasa-ganga, was
+    sitting under a tree. We follow the “Bhakti-ratnakara.”
+[^9]: The lines of the song can be read in two ways: Rupa's companions took shelter at his feet — or he at theirs; the
+    “great tenderness” is towards Jiva, or towards all living beings (jibe).
+[^10]: According to one biography, it was the physicians who came from Ballabhpur.
+[^11]: According to one biography, Srinivasa went to Radha-kunda together with Jiva.
+[^12]: One of the biographies speaks now of eleven, now of twelve verses (counting the last, the verse of fruit).
