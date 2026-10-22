@@ -922,8 +922,9 @@ festival were Gadadhara Dasa, Mahesha Pandita and Jagadisha Pandita[^45]. <!-- F
 Mahaprabhu Himself came too[^46]. Nityananda and Mahaprabhu ate on the bank of the Ganga as the cowherd boys on the bank
 of the Yamuna, and with Them ate Their companions, many brahmanas and countless men and women. In the afternoon
 Nityananda went to Raghava's house and spent the evening in kirtana and dance; drawn by His dancing, Mahaprabhu came again,
-and to show Raghava's good fortune They sat together and accepted his meal — fine rice, vegetables, cakes, sweet rice;
-the remnants of Mahaprabhu's meal Raghava gave to Raghunatha. <!-- F288 F289 -->
+and to show Raghava's good fortune They sat together and accepted his meal — fine rice, vegetables, cakes, sweet rice.
+(According to one account, the prasada Raghava had brought Nityananda set aside for the night.) The remnants of
+Mahaprabhu's meal — according to the same account, of both brothers — Raghava gave to Raghunatha. <!-- F288 F289 F455 -->
 
 Next day Raghunatha asked through Raghava how he might attain Mahaprabhu's feet. Nityananda placed His feet on his head
 and answered:
@@ -973,6 +974,12 @@ banik traders, though considered low and unlearned, attained prema-bhakti, and e
 feet. Sri Krishna Chaitanya and Nityananda wanted to show that a great devotee can appear in any family and caste —
 therefore some of Their devotees were born in such families. By worshipping Uddharana and pleasing him one quickly gains
 Nityananda's mercy, and through it love for Krishna. <!-- F298 F299 F300 I4 -->
+
+In Saptagrama stands the six-armed form of Mahaprabhu which Uddharana installed and himself served: on the Lord's right
+is Nityananda, on His left Gadadhara. The Nitai-Gaura Deities that Uddharana installed in Uddharanpur near Katwa were,
+it is said, taken to the capital of the Banowari rajas. After Uddharana's departure Jahnava, Nityananda's shakti,
+visited his shripata. And one biography remarks with sorrow that later some born in the community Nityananda had
+delivered, calling themselves devotees, came to oppose Him. <!-- F457 -->
 
 Chaitanya and Nityananda delivered everyone — sinners and offenders alike. Ordinarily offences keep the holy name from
 bearing fruit, but with Them it is otherwise:
