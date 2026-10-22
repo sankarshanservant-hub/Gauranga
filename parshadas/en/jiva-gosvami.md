@@ -35,7 +35,7 @@ Bhaktivinoda Thakura printed in the “Sajjana-toshani” (year 2, no. 2) from t
 to them Jiva appeared in 1455 of the Shaka era (about 1533 CE) and departed in 1540 Shaka (about 1618); he spent
 eighty-five years on earth — twenty at home and sixty-five in Vrindavana. An old manuscript from the collection of the
 late Vishvambharananda Deva Gosvami, the pandita of the shripata of Gopivallabhapura, gives the same figures, and other
-researches arrive at them too. Yet Bhaktivinoda himself remarked that some dates in his source seem certain and others
+sources give the same years. Yet Bhaktivinoda himself remarked that some dates in his source seem certain and others
 doubtful, and that by this record Jiva would have been born in the very year of Mahaprabhu's disappearance, which is
 hardly correct.[^2] <!-- F8 F9 F10 F11 F12 F13 F14 F15 F16 -->
 
@@ -83,7 +83,7 @@ Murari rich in virtues, and the youngest, the renowned Mukunda. <!-- F26 F27 F28
 In Navahatta a son, Kumara-deva, the best of brahmanas, was born to Mukunda. When religious strife broke out in Naihati,
 the pious Kumara-deva left for Bengal and settled in Bakla-Chandradvipa, and he also made himself a dwelling in
 Fatehabad (then in the Jessore district), between Naihati and Bakla.[^6] Of his sons, three were dearest of all to the
-best Vaishnavas. Jiva writes of them (the “Laghu-toshani”, in the translation of the verses quoted by Narahari
+best Vaishnavas. Jiva writes of them in the “Laghu-toshani” (these verses are quoted by Narahari
 Chakravarti):
 
 “The first is Srila Sanatana, his younger brother named Sri Rupa, then [the youngest] bearing the name Sriman Vallabha;
@@ -141,7 +141,7 @@ unshakeable»”. (CC, Antya 4.30–31, 38–43)
 Anupama lived inseparably with his brothers and with them heard talks about Krishna and the “Bhagavatam”. The brothers
 wanted to test him and urged him to worship the all-attractive Krishna together with them; out of respect for them he
 agreed to ask for initiation — and then came what Sanatana described. Hearing this story, Mahaprabhu compared Anupama
-with Murari Gupta, who was just as firmly devoted to Rama. <!-- F43 F44 Q6 -->
+with Murari Gupta, who was just as firmly devoted to Rama (CC, Antya 4.45–46). <!-- F43 F44 Q6 -->
 
 Anupama first saw Mahaprabhu when the Lord came to Ramakeli.[^10] By His will renunciation awoke in Rupa and Sanatana, and
 soon the brothers left everything to seek His company. When Rupa, displaying the lila of abandoning worldly affairs, set
@@ -1608,7 +1608,7 @@ Gaura's associates — in the same order — “the virtuous scholar Sriman Jiva
 So in Krishna's eternal pastimes Jiva is Sri Vilasa-manjari; and Bhaktivinoda Thakura, calling him “our tattva-acharya”,
 says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
 
-[^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived outside the outer wall of
+[^1]: A manuscript from the library of the venerable pandita Banamali Lala Gosvami, who lived in the outer compound of
     the Radha-ramana temple in Vrindavana, gives 1580 Samvat as the year of appearance and 1665 Samvat as that of “attaining
     the Ishtadeva” (departure) — that is, 1445 and 1530 Shaka, about 1523 and 1608 CE; by it Jiva lived twenty-four years
     at home, studying, and eighty-five years in all, so that at the time of Mahaprabhu's disappearance he was ten years
@@ -1643,7 +1643,7 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
     same biography, following the “Bhakti-ratnakara”, says that Jiva left for Navadvipa from his home in
     Bakla-Chandradvipa.
 
-[^10]: One of the biographies gives the year — 1513.
+[^10]: One of the biographies gives the year — 1513 (by the usual reckoning, 1514).
 
 [^11]: One of the biographies gives the year — 1436 Shaka (1514–1515). But by the course of events in the
     “Chaitanya-charitamrita” — Rupa went to Vrindavana after the Lord had returned from there, spent a month in Vraja, then
