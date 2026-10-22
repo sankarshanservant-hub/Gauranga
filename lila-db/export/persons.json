@@ -26558,6 +26558,10 @@
     "type": "companion"
    },
    {
+    "from": "@srinivasa-acharya",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "other"
    }
@@ -32282,7 +32286,7 @@
    {
     "type": "disciple",
     "who": "@karnapura-kaviraja",
-    "note": "Один из восьми кавираджей; строфы о качествах Шринивасы (в «Нароттама-виласе»)."
+    "note": "Один из восьми кавираджей; строфы о качествах Шринивасы («Гуна-леша-сучака», в «Нароттама-виласе»)."
    },
    {
     "type": "disciple",
@@ -32371,6 +32375,11 @@
    {
     "type": "other",
     "who": "@krishnadasa-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-bhatta",
+    "note": "Скрылся до его прихода; прощание с его самадхи при отъезде с книгами (БР 6.452–457)."
    },
    {
     "type": "other",
