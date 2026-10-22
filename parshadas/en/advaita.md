@@ -853,8 +853,14 @@ wives and brought foodstuffs with them. <!-- F121 Q13 -->
 
 ## A Kirtan in Glory of Gaura
 The Lord would not allow Himself to be glorified: He called Himself only a servant of Krishna, and the devotees feared
-His anger. But one day Advaita told them: “Today we will glorify no avatara other than Sri Chaitanya — the source of all
-avataras. I will dance, and you sing His glory” (CB, Antya 9.157–162). No one could disobey Advaita, and the devotees
+His anger. But one day Advaita told them:
+
+“Today we will glorify no avatara other than Lord Chaitanya, Who is the source of all other avataras.” (CB, Antya 9.159)
+
+“I will dance, and all of you sing the glory of Lord Chaitanya. For if I sing as thunderously as a lion, I will frighten
+you all.” (CB, Antya 9.162)
+
+No one could disobey Advaita, and the devotees
 began to sing, while Advaita danced and sang a song He Himself had composed in glory of the Lord:
 
 “‘O Sri Chaitanya! You are Narayana Himself! You are an ocean of mercy and the friend of the distressed. Please be
@@ -875,13 +881,14 @@ granted deliverance to crowds of people — even to sinners and offenders (the �
 of those seven days in Kulia), and from there He came to Shantipura, to Advaita's house, and consoled His mother there.
 From Shantipura He went to Ramakeli, where He met Rupa and Sanatana, reached Kanai-natashala and returned again to
 Shantipura, staying there ten days this time (CC, Madhya 16.205–212)[^38]. It is said that in those days Vamshivadana was
-born, and the Lord and Advaita were present at his birth. <!-- F123 Q16 -->
+born, and the Lord and Advaita were present at his birth. <!-- F123 F158 Q16 -->
 
 ## Achyuta and the Question about Keshava Bharati
 Even before the Lord came back from Ramakeli, a certain sannyasi came to Advaita's house and asked what relation Keshava
 Bharati bore to Sri Chaitanya. From the spiritual point of view the Lord has not and cannot have a guru; but Advaita
-reasoned that one may begin from the worldly side — so Devaki too is called Krishna's mother and Sandipani His guru — and
-answered: “Keshava Bharati is Chaitanya's guru” (CB, Antya 4.147–151). Just then five-year-old Achyuta ran in, naked and
+reasoned that one may begin from the worldly side — so the Lord, Who has neither father nor mother, is glorified as the
+son of Devaki (one of the biographies adds: and Sandipani is called His guru) — and answered: “Keshava Bharati is
+Chaitanya's guru” (CB, Antya 4.146–151). Just then five-year-old Achyuta ran in, naked and
 all dusty from play. The “Charitamrita” tells:
 
 “Hearing from his father that Keshava Bharati was Sri Chaitanya's teacher, Achyutananda was very upset.” (CC, Adi
@@ -901,9 +908,9 @@ According to the “Chaitanya-bhagavata,” Advaita in bliss embraced His son, b
 “‘You are My father, and I am your son. You have appeared as My son in order to instruct Me.’” (CB, Antya 4.174)
 
 He begged His son's forgiveness, and the boy, hearing himself praised, lowered his head in embarrassment. The sannyasi
-fell at Achyuta's feet and exclaimed: “As the father, so the son!” (CB, Antya 4.177–178)[^39]. Advaita danced together
-with His son: in His house an associate of the Lord had been born. Achyuta is an example of what a true son of Advaita is
-like: he cannot bear even worldly speech that belittles the Lord. <!-- F125 I9 -->
+fell prostrate and exclaimed: “As the father, so the son!” (CB, Antya 4.177–178)[^39]. Advaita danced together with His
+son: in His house an associate of the Lord had been born (4.184–187). Achyuta is an example of what a true son of Advaita is
+like: he cannot bear even worldly speech that belittles the Lord. <!-- F125 F157 I9 -->
 
 At that moment the Lord Himself arrived. Advaita fell prostrate before Him, crying “Hari! Hari!”; the Lord embraced Him
 and bathed Him in tears, and Advaita lost consciousness, and on coming to Himself seated the Lord. Advaita and Nityananda
@@ -932,7 +939,7 @@ in Nilachala within that very year. <!-- F129 -->
 ## Nityananda's Wedding
 Later, when Nityananda, then living in Bengal, agreed to marry, Advaita rejoiced: “Let it happen soon!” He was
 among the devotees at the wedding in Boroganchhi, and afterwards Nityananda with His wives, Vasudha and Jahnava, at
-Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!-- F102 -->
+Shachi's word stayed with Advaita in Shantipura, and Sita embraced them both. <!-- F102 F159 -->
 
 ## Puri: the Following Years
 On one of their visits — according to the “Charitamrita,” in the third year — the Bengalis took their wives to Puri
@@ -953,6 +960,15 @@ to Nilachala, carrying the foods the Lord loved:
 “Taking their wives, children and servants with them, the devotees went in great ecstasy to see Lord Chaitanya.” (CB,
 Antya 8.43) <!-- F130 Q13 -->
 
+Once the Lord, sending Shrikanta Sena, Shivananda's nephew, back from Puri, told him to tell the Bengalis not to come
+that year:
+
+“I Myself shall come to Bengal this year and meet there with Advaita and all the devotees.” (CC, Antya 2.41)
+
+“Advaita Acharya was already ready to set out, but on hearing this news He stayed at home.” (CC, Antya 2.45)
+
+The month of Pausha passed, but the Lord did not come (Antya 2.46–47). <!-- F150 -->
+
 One of the wonders of Puri concerned Advaita's son Gopala. When, on one of the Bengalis' visits, the Gundicha temple was
 being washed, the Lord told him to dance, and the boy fell unconscious in prema and stopped breathing. Advaita laid him on
 His lap; together with the devotees He loudly chanted the mantra to Nrisimha and sprinkled His son with water, but the
@@ -972,15 +988,17 @@ this debt. The letter reached the Lord. He said that to call Advaita the Supreme
 Supreme Lord as a poor beggar was a disgrace, and He told Govinda no longer to let Kamalakanta in to see Him (CC, Adi
 12.29–36). Kamalakanta grieved, but Advaita rejoiced and told him that he did not understand his immense good
 fortune: for it was the Supreme Lord Himself — Sri Chaitanya Mahaprabhu — who had punished him (Adi 12.38). And Advaita
-went to the Lord to “complain” that He had shown Kamalakanta more mercy than He had shown Him. The Lord laughed, called
-Kamalakanta and instructed him:
+went to the Lord to “complain” that He had shown Kamalakanta more mercy than He had shown Him (Adi 12.43–45). The Lord
+laughed, called Kamalakanta and instructed him:
 
 “An acharya-Vaishnava must never take gifts or money from kings and the wealthy. He must never eat food from the hands of
 materialistic people, for this pollutes the mind.” (CC, Adi 12.50)
 
 Srila Bhaktivinoda Thakura explains: although Advaita is God Himself, in this world He plays the role of a man in order
 to teach people. It is shameful for an acharya to beg from a king, and a teacher of the holy name takes no payment for
-it. <!-- F132 I12 -->
+it. And Kaviraja Gosvami says that these confidential exchanges were understood only by Advaita and the Lord: only the
+Lord grasped the essence of Advaita's intention, and only Advaita appreciated the full depth of the Lord's instruction
+(Adi 12.48, 12.54). <!-- F132 I12 -->
 
 ## Mercy to Rupa; the Debt of Love
 When Rupa Gosvami came to Puri, the Lord Himself brought him to Advaita and Nityananda and asked Them to bless him:
@@ -1235,11 +1253,16 @@ Chaitanya. <!-- I14 I13 -->
     and went to Ramakeli, and from Advaita, as the “Chaitanya-bhagavata” says, to Srivasa in Kumarahatta; according to a
     third, the Lord stopped at Advaita's on the way back from Kanai-natashala, and Balabhadra and Damodara are named as
     being with Him — but, according to the “Charitamrita” (Madhya 17), Balabhadra Bhattacharya accompanied the Lord
-    later, on the way from Puri to Vrindavana.
+    later, on the way from Puri to Vrindavana. And according to the “Chaitanya-mangala” (Shesha-khanda, part 6, vv.
+    57–58), the Lord, returning from Vrindavana, came to Shantipura, to Advaita's house, spent a day and a night there in
+    the joy of kirtan and next morning left for Nilachala; according to the “Charitamrita,” He returned from Vrindavana
+    by way of Prayaga and Kashi, and visited Kulia and Shantipura on the way to Vrindavana.
 [^39]: Advaita's response is told differently. According to the “Charitamrita” (Adi 12.17), He rejoiced at His son's
     words; it does not mention the sannyasi. The “Chaitanya-bhagavata” speaks both of Advaita's bliss (Antya 4.172) and of
-    His calling His son His father and begging forgiveness. One of the biographies writes that Advaita was ashamed.
-    Advaita's shame is the same play as His “worldly” answer: He, Maha-Vishnu Himself, knows that the Lord has no guru,
+    His calling His son His father and begging forgiveness; it was Achyuta, according to it, who felt ashamed (Antya
+    4.176). One of the biographies in one place writes that Advaita was ashamed, and in another, following the
+    “Chaitanya-bhagavata,” that He was plunged into an ocean of happiness and called His son His father. Even if the
+    first report is accepted, Advaita's shame is the same play as His “worldly” answer: He, Maha-Vishnu Himself, knows that the Lord has no guru,
     and arranges this conversation to reveal to the world His son's faith. Therefore the boy's reproach too — whether maya
     had not overcome his father (CB, Antya 4.159–161) — does not mean that Advaita is subject to maya: Maha-Vishnu is her
     Master.
