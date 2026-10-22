@@ -21,8 +21,8 @@ life:
   samadhi: []
 origin:
   places: ["#maheshpur"]
-  facts: [F8, F9, F16, F17]
-  note: "T: не был женат, потомков нет (F16); потомки родни — в Мангалдихи (F17)."
+  facts: [F8, F9, F16, F17, F19]
+  note: "Брихад-врати — давший обет безбрачия (B, F19); T: не был женат, потомков нет (F16); потомки родни — в Мангалдихи (F17)."
 relations:
   - {type: companion, who: "@nityananda", facts: [F1, F3, F7, F20, F25, Q2, Q5, Q6],
      events: [ev-panihati-chida-dadhi, ev-nityananda-preaching-gauda, ev-chandrashekhara-sent-back, ev-nityananda-panihati-abhisheka, ev-tattva-bhakti-kalpataru],
