@@ -975,11 +975,8 @@ feet. Sri Krishna Chaitanya and Nityananda wanted to show that a great devotee c
 therefore some of Their devotees were born in such families. By worshipping Uddharana and pleasing him one quickly gains
 Nityananda's mercy, and through it love for Krishna. <!-- F298 F299 F300 I4 -->
 
-In Saptagrama stands the six-armed form of Mahaprabhu which Uddharana installed and himself served: on the Lord's right
-is Nityananda, on His left Gadadhara. The Nitai-Gaura Deities that Uddharana installed in Uddharanpur near Katwa were,
-it is said, taken to the capital of the Banowari rajas.
-And one biography remarks with sorrow that later some born in the community Nityananda had
-delivered, calling themselves devotees, came to oppose Him. <!-- F457 -->
+One biography remarks with sorrow that later some born in the community Nityananda had delivered, calling themselves
+devotees, came to oppose Him. <!-- F457 -->
 
 Chaitanya and Nityananda delivered everyone — sinners and offenders alike. Ordinarily offences keep the holy name from
 bearing fruit, but with Them it is otherwise:
@@ -1083,7 +1080,8 @@ Nupura-kunda near the shripata of Lavanga (Akai-hat, near Katwa), tradition says
 that of Raghunandana, the son of Mukunda of Shrikhanda, according to others, that of Nityananda Prabhu.
 <!-- F318 F319 F320 -->
 
-At Ramakeli Rupa and Sanatana, coming to the Lord by night, first met Nityananda and Haridasa:
+As far as Ramakeli the Lord was accompanied by Nityananda — according to one account, with seven companions and
+Haridasa. There Rupa and Sanatana, coming to the Lord by night, first met Nityananda and Haridasa:
 
 “In the dead of night they came to the house of Sri Chaitanya. First they met Sri Nityananda and Thakura Haridasa.” (CC,
 Madhya 1.183)
@@ -1092,7 +1090,7 @@ Madhya 1.183)
 
 To show that a conditioned soul is saved by the mercy of devotees, the Lord told Nityananda, Haridasa, Srivasa, Gadadhara
 and others to bless the brothers, and they touched the feet of His companions, among them the feet of Nityananda.
-<!-- F321 F442 -->
+<!-- F321 F442 F458 -->
 
 With the place called Prematali on the bank of the Padmavati is linked the tradition of the love left for Narottama: by one
 version, Mahaprabhu, travelling in Bengal and having sent Nityananda to Puri, wept there in ecstasy and kept prema for
@@ -1320,8 +1318,9 @@ Uddharana Datta is one of the twelve gopalas (Subahu, GGD 129). He was born in 1
 As one of Nityananda's closest companions he is called “parama-parama-patita-pavana,” the saviour of the most fallen;
 whoever takes shelter of him attains service at the feet of Nityananda and Gauranga. According to the
 “Chaitanya-bhagavata,” he has the right to serve Nityananda; possessing great wealth, he gave all his senses to
-Nityananda's service. In his shripata at Saptagrama is the six-armed Mahaprabhu whom he served, and to His right the Deity
-of Nityananda. <!-- F405 F406 -->
+Nityananda's service. In his shripata at Saptagrama is the six-armed Mahaprabhu whom he installed and himself served, to His right the Deity
+of Nityananda, to His left that of Gadadhara. The Nitai-Gaura Deities that Uddharana installed in Uddharanpur near Katwa
+were, it is said, taken to the capital of the Banowari rajas. <!-- F405 F406 F457 -->
 
 Parameshvari Dasa is one of Nityananda's most important companions, who appeared to enrich His pastimes:
 
@@ -1331,7 +1330,7 @@ Antya 5.732)
 “Parameshvara Dasa was wholly devoted to the lotus feet of Sri Nityananda. Anyone who simply remembers his name easily
 attains devotion to Krishna.” (CC, Adi 11.29) <!-- F403 -->
 
-Purushottama (Nagara) — in Vraja, the cowherd boy Damana (GGD 131). The “Charitamrita” counts him among Nityananda's
+Purushottama (Nagara) — in Vraja, the cowherd boy Dama (GGD 131). The “Charitamrita” counts him among Nityananda's
 devotees:
 
 “From birth Purushottama Dasa was absorbed in service to the lotus feet of Sri Nityananda. All his childhood he plays
@@ -1353,14 +1352,18 @@ Krishnadasa, also one of the twelve gopalas, is one of Nityananda's chief devote
 “One of the outstanding great Vaishnavas was Kala Krishnadasa. He wished to know nothing but the feet of Sri
 Nityananda.” (CC, Adi 11.37)
 
-He must not be confused with the brahmana Krishnadasa, the Lord's servant in the South (see above). Kamalakara Pippalai,
+He must not be confused with the brahmana Krishnadasa, the Lord's servant in the South (see above): though the
+“Charitamrita” calls that one, too, Kala Krishnadasa, they are different persons, as Srila Bhaktisiddhanta distinguishes
+them (see note 38). Kamalakara Pippalai,
 one of the twelve gopalas (Mahabala, GGD 128; “Vaishnavachara-darpana”), is counted among Nityananda's branches. Mahesha
 Pandita is considered a branch of both Nityananda and Chaitanya; like all Nityananda's companions he was generous and
 devoted to saving the fallen, and danced in ecstasy like a madman; he was an especially close friend of Nityananda and,
 according to the “Chaitanya-bhagavata,” especially dear to Him; he was also in Khardaha when Narottama came there (BR
 8.220). Jagadisha Pandita, too, is considered a branch of both Nityananda and Chaitanya: Nityananda, like Mahaprabhu, was
 won over by his devotion and considered him one of His intimates, and for Jagadisha Nityananda was life and soul; he who
-served Jagannatha and Gaura-Gopala is called “a dear companion of Nityananda.” <!-- F388 F389 F390 F400 F387 -->
+served Jagannatha and Gaura-Gopala is called “a dear companion of Nityananda.” Drawn by the parental love of Jagadisha
+and his wife, Gauranga and Nityananda twice came to his shripata at Yashada, sang sankirtana there and held festivals.
+<!-- F388 F389 F390 F400 F387 F454 F456 -->
 
 To the singing of the three Ghosha brothers — Govinda, Madhava and Vasudeva — Nityananda danced:
 
@@ -1387,7 +1390,8 @@ names thus:
 Adi 11.51)
 
 And Narottama from childhood meditated on the qualities of Chaitanya and Nityananda and prayed to Them; Shyamananda loved
-to hear of the glory of Gauranga and Nityananda. <!-- F401 F372 F402 Q46 Q59 -->
+to hear of the glory of Gauranga and Nityananda. And Advaita's son Achyutananda, in the words of one biography, was “dear
+to Nityananda as life.” <!-- F401 F372 F402 Q46 Q59 F458 -->
 
 Vrindavana Dasa Thakura, author of the “Chaitanya-bhagavata,” is called a disciple of Nityananda[^59]; he himself called
 himself Nityananda's last servant.
@@ -1448,9 +1452,8 @@ values even a small attachment: Krishnadasa merely took the side of Nityananda's
 Not for nothing does he begin every chapter of the “Charitamrita” by invoking Mahaprabhu and His companions — Nityananda
 and Advaita. <!-- Q53 I6 -->
 
-According to the “Gaura-ganoddesha-dipika” (68), Nishatha and Ulmuka entered Nityananda's expansions as Minaketana and
-Rama; according to the “Charitamrita” and the “Bhakti-ratnakara,” Minaketana Ramadasa is one person, and perhaps both
-were united in him. As Nityananda is an avadhuta, so is His follower Minaketana; Srila Bhaktisiddhanta explains: a
+The “Gaura-ganoddesha-dipika” (67–68) says that the brothers Nishatha and Ulmuka entered Virachandra for a purpose, and
+that Minaketana Ramadasa is “another Sankarshana, the original vyuha”[^x397]. As Nityananda is an avadhuta, so is His follower Minaketana; Srila Bhaktisiddhanta explains: a
 disciple of Nityananda is an eternally perfect maha-bhagavata, a paramahamsa beyond varnashrama. <!-- F397 -->
 
 ## The Disappearance
@@ -1814,3 +1817,7 @@ internal energy: the gopis — ashraya — serve Him, the vishaya, for His joy, 
 just as there is none in Krishna's rasa-lila.
 [^66]: On the adjoining page of the same biography the Deities brought by Narottama to Kheturi are called Gauranga and
 Vishnupriya.
+[^x397]: One biography reads this verse differently: Nishatha and Ulmuka entered Nityananda's expansions — Minaketana and
+Rama; and since, according to the “Charitamrita” and the “Bhakti-ratnakara,” Minaketana Ramadasa is one person, perhaps
+both were united in him. Here the verse is given according to the Sanskrit and our translation of the
+“Gaura-ganoddesha-dipika.”
