@@ -172,7 +172,7 @@ Vaishnavas; he has come because he heard your name.” Vidyanidhi was overjoyed 
 But what Gadadhara saw troubled him. Pundarika sat like a prince: a high bed, silk sheets whiter than milk foam, soft
 pillows, a canopy, costly clothes, incense and perfumes, five or seven little jars, pan in a brass box, a hookah; two
 servants fanned him with peacock-feather fans; on his forehead were the urdhva-pundra and a red dot of abir, his hair was
-well groomed, and before him hung an ornate swing. “If he is a Vaishnava,” Gadadhara thought, “why does he look so much
+well groomed, and before him stood an ornate palanquin. “If he is a Vaishnava,” Gadadhara thought, “why does he look so much
 like a worldly man?” — and he was disappointed. <!-- F42 -->
 
 Mukunda understood his doubt and wished to reveal who Pundarika really was. He sweetly sang a verse of the “Bhagavatam”
