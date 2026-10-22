@@ -356,7 +356,7 @@ which food was cooked for Vishnu cannot be defiled, and worldly notions of purit
 (CB, Adi 7.166–179; cf. CC, Adi 14.73–75; “Kadacha” 1.6.13–17). People laughed, and His mother pleaded:
 
 “Shachimata said: ‘Come down and go and bathe.’ But the Lord did not move and went on sitting. ‘Nimai!’ said
-Shachimata. ‘Go quickly, before your father finds out about Your pranks!’” (CB, Adi 7.181–182)
+Shachimata. ‘Go quickly, before Your father finds out about Your pranks!’” (CB, Adi 7.181–182)
 <!-- F18 F135 F175 F203 F77 -->
 
 “I will not come down until you promise that I shall go to school again,” He answered, and the onlookers began to
@@ -435,7 +435,7 @@ universe, bore all the wilful outbursts of Sri Gauranga.” (CB, Adi 8.160–162
 “Mother Shachi, like mother Earth, patiently endured everything. Body, mind and speech were subject to her will.” (CB,
 Adi 8.164)
 
-In the evening she only asked Him tenderly: “Why did You break so many things? All this is Yours, not mine. What will
+When He had come back from the Ganga and eaten, she only asked Him tenderly: “Why did You break so many things? All this is Yours, not mine. What will
 You eat tomorrow?” — and He answered with a smile: “Krishna takes care of everyone” (CB, Adi 8.123–171). <!-- F138 -->
 
 And indeed: returning one day from the Ganga, He called His mother aside and gave her two tolas of gold:
@@ -459,7 +459,7 @@ Vanamali went away saddened and on the road met Nimai Himself. Having heard him,
 delighted to hear her son's hint. The next day she called the brahmana to the house.” (CB, Adi 10.63–64)
 
 So also Lochana Dasa tells it: the Lord told His mother that He had seen the matchmaker looking sad, and “the very
-quick-witted Shachi understood the hint” (CM, Adi-khanda, part 9, vv. 750–753). At her bidding Vanamali went to
+shrewd Shachi understood the hint” (CM, Adi-khanda, part 9, vv. 750–753). At her bidding Vanamali went to
 Vallabha; the poor brahmana could give with his daughter only “five haritaki fruits”, but this troubled no one (CB, Adi
 10.65–77; CC, Adi 15.29–30). Shachi invited relatives and friends, gave the women rice, bananas, kumkum, betel and oil,
 and in the evening, after the ceremony at Vallabha's house, she received the bride at the threshold together with the
@@ -514,7 +514,7 @@ look at His face?” — and her relatives consoled her that the one eternal Rea
 vv. 122–136). The neighbours and all the devotees helped to perform the last rites. <!-- F118 F143 F30 F191 -->
 
 Returning with rich gifts, the Lord bowed to His mother and offered her all He had brought; Shachi, sorrowful, at once
-began to cook. The relatives, not wishing to grieve Him, kept silent. In the evening He came to His mother:
+began to cook. The relatives, not wishing to grieve Him, kept silent. Later He came to His mother:
 
 “In reply to her son's words mother Shachi bowed her head and wept bitterly. Overcome by grief, she could not speak.
 The Lord said: ‘Dear mother, I know everything. Has some misfortune befallen your daughter-in-law?’” (CB, Adi
@@ -699,11 +699,12 @@ and on coming back she saw Nityananda eating them:
 “Shachi said: ‘O Nityananda, why do You bewilder me? I know that You are the Supreme Lord, and so I pray You to free me
 from the veil of illusion.’” (CB, Madhya 11.92)
 
-And, like a child, He reached again for her feet, and she ran away (CB, Madhya 11.78–93). Lochana Dasa relates that the
+By “the veil of illusion” she humbly means yogamaya, which hides from her the majesty of her sons. And He, like a
+child, reached again for her feet, and she ran away (CB, Madhya 11.78–93). Lochana Dasa relates that the
 Lord Himself revealed to her, “This is Vishvarupa, your own son; under the name of Nityananda He has come to
 Navadvipa,” and the mother, embracing Nityananda, said, “You have become my son… from today you two are my sons.” “All
 that you have said, mother, is true: I am your son — know it for certain,” answered Nityananda, and “seeing her two
-sons, Shachi was comforted at heart” (CM, Madhya-khanda, part 5, vv. 81–90).[^14] <!-- F153 F104 F195 -->
+sons, Shachi was comforted at heart” (CM, Madhya-khanda, part 5, vv. 80+10–80+11, 81–90).[^14] <!-- F153 F104 F195 -->
 
 At home the Lord spent time with Vishnupriya, for He knew that this gladdened His mother (CB, Madhya 11.67–68). But more
 and more the house became for Him a place of ecstasy. His mother would say, “Son, go and bathe in the Ganga,” and He
@@ -797,8 +798,8 @@ Soon, with a quiet smile, He told those close to Him that in the night a brahman
 in His ear, and since then His heart was no longer His own (CM, Madhya-khanda, part 12, vv. 49–53).[^18]
 <!-- F196 F197 F84 -->
 
-The first to learn of the Lord's decision was Nityananda, and Shachi was the first of the five to whom the Lord allowed
-Him to disclose His intention (CB, Madhya 28.11–12). Thinking of how she would bear this separation, Nityananda went
+The first to learn of the Lord's decision was Nityananda, and among the five to whom the Lord allowed Him to disclose
+it, His mother was named first (CB, Madhya 28.11–12). Thinking of how she would bear this separation, Nityananda went
 off to a solitary place and wept bitterly (CB, Madhya 26.153–156). Shachi herself wept at home, seeing her son in ecstasy
 embracing the devotees and sobbing (26.84). And when the news reached her, she forgot where she was, fell unconscious
 again and again and could not stop her tears (CB, Madhya 27.18–20), and one day, when her son was sitting at home, she
@@ -895,7 +896,7 @@ Akrura took Him away to Mathura. <!-- F162 -->
 ## Twelve Days
 When the news reached Navadvipa, “mother Shachi turned to stone with grief. She stood motionless, like a doll” (CB, Antya
 1.38). Lochana Dasa says that Shachi and Vishnupriya kept falling unconscious; Shachi wept, holding on her lap
-Vishnupriya, who lay as if dead, and called, “Nimai!” — “On every side it is empty, all is wrapped in darkness… no one
+Vishnupriya, who lay as if dead, and called, “Nimai!” — “All around is empty, all is shrouded in darkness… no one
 will call me ‘mother’ any more” (CM, Madhya-khanda, part 16, vv. 8–15). As He left to follow the Lord to Katva,
 Nityananda consoled them both (v. 44). Then, remembering His words, “Whoever chants the name will attain Me,” all of
 them — Shachi and Vishnupriya, children and the old, young men and girls — sat down to chant the holy name, making
@@ -1006,8 +1007,7 @@ Shachi?” Shachi, her strength gone, rose, holding on to the hands of two peopl
 times — but I, unfortunate, shall see it no more. You yourself, child, have consoled everyone — but who, my son, will
 console me?’” (CM, Madhya-khanda, part 19, vv. 56–58)
 
-“You are dying of vain grief, forgetting what you knew before,” the Lord answered, reminding her of His promise to
-appear whenever she called, and, prostrating Himself at her feet, consoled her (vv. 60–62). Krishnadasa Kaviraja says
+“You are dying of vain grief, forgetting what you knew before,” the Lord answered, reminding her who her son is, and, prostrating Himself at her feet, consoled her (vv. 60–62). Krishnadasa Kaviraja says
 that on leaving the Lord offered prayers at His mother's feet and reverently walked around her, and Advaita's house was
 filled with weeping (CC, Madhya 3.210–211). So in 1510 He left by way of Chhatrabhoga for Nilachala. <!-- F201 F44 -->
 
@@ -1060,12 +1060,12 @@ said, “I am going not for Your sake, but to see mother Shachi” (16.135). <!-
 
 ## Five Years Later
 Five years after His sannyasa, in 1514, the Lord Himself came to Bengal — to see His mother and the Ganga. For seven days
-He stayed in Kulia, in the house of Madhava Dasa, Vamshivadana's father, and there bestowed His mercy on Devananda Pandita
-(CC, Madhya 16.208–209); then He visited Ramakeli and came to Shantipur, to Advaita's house. Having received the Lord of
+He stayed in Kulia, in the house of Madhava Dasa (CC, Madhya 16.208–209), Vamshivadana's father, and there bestowed
+His mercy on Devananda Pandita; then He visited Ramakeli and came to Shantipur, to Advaita's house. Having received the Lord of
 His life in His own home, Advaita was beside Himself with happiness, and when He had calmed a little, He sent people to
 Navadvipa with a palanquin for mother Shachi (CB, Antya 4.209–212).[^23] <!-- F94 F165 F168 F113 -->
 
-Vrindavana Dasa describes the state in which the messengers found her. Five years of separation had made her Yashoda:
+Vrindavana Dasa describes the state in which the messengers found her. Through five years of separation Yashoda had come to light in her ever more fully:
 
 “Sometimes mother Shachi would cry out: ‘Rama! Krishna! Go quickly and milk the cows. I am going to sell milk.’ Sometimes
 mother Shachi ran about with a stick in her hand, saying: ‘Catch Him! Catch Him! Where is that butter thief? You won't
@@ -1120,7 +1120,7 @@ of His meal (4.305–313). During that same visit Advaita held a festival on the
 Madhavendra Puri, and again “Ai” volunteered to cook, while the wives of the Vaishnavas helped her; the Lord and all the
 devotees partook of her cooking (CB, Antya 4.441–447, 506). Murari Gupta says that the Lord, “the crest-jewel of those
 devoted to their mothers”, had her brought from Navadvipa, dispelled her grief and ate the food she had cooked
-(“Kadacha” 3.18.19–20). He also tells how in Kulia the Lord fell at His mother's feet, and she hastily embraced Him and,
+(“Kadacha” 3.18.19–20). He also tells how the Lord, coming from Kulia to Navadvipa, fell at His mother's feet, and she hastily embraced Him and,
 having fed Him food of the four kinds, “the loving mother was filled with joy” (4.14.4–5), and how Gaura and Nitai,
 having spent several days with Advaita, “obedient to Their mother's will”, gladdened her with sweet words and left
 (4.15.6–12).[^25] <!-- F167 F100 Q11 F206 F122 -->
@@ -1161,7 +1161,7 @@ settling in Khardaha.[^27] And when separation from Gaura became unbearable, He 
 back to Nilachala (CB, Antya 7.10–11). <!-- F70 F64 F106 F169 -->
 
 ## Damodara Pandita and Jagadananda
-The strictest of His companions, Damodara Pandita, the Lord sent to live with His mother:
+The most impartial of His companions, Damodara Pandita, the Lord sent to live with His mother:
 
 “Apart from you I see no one who could look after her and protect her. You have surrounded even Me with your care.”
 (CC, Antya 3.22)
@@ -1219,8 +1219,8 @@ the full,’” and Shachi confessed:
 seems to me that Nimai has eaten all the food on the tray, but afterwards I take it for a dream.’” (CC, Antya
 12.93–94)
 
-Jagadananda, naming the exact days, confirmed that her son had come in reality, and she believed that it was no
-dream.[^28] Next to her house lived the confectioner Parameshvara, who also went to Puri with the pilgrims from Bengal
+One biography adds that Jagadananda, naming the exact days, confirmed to her that her son had come in reality, and she
+believed that it was no dream.[^28] Next to her house lived the confectioner Parameshvara, who also went to Puri with the pilgrims from Bengal
 (12.54). <!-- F184 F61 F114 -->
 
 Krishnadasa Kaviraja calls the Lord “the crown of all who are devoted to their mother” and gives His words, which
@@ -1290,7 +1290,7 @@ ever separate you and Me”; and He still appears in her house, for where He is 
 [^5]: One biography, retelling these lines of Lochana Dasa, adds that Shachi, looking into her son's mouth, saw the
     universe there; this is found neither in the text of the “Chaitanya-mangala” nor in Srila Bhaktisiddhanta's
     summary (at this place: “fearing misfortune to come, she fell into anxiety”).
-[^6]: According to one biography, Shachi sent her son to take Vishvarupa his lunch. According to the
+[^6]: According to one biography, Shachi sent her son to take Vishvarupa His lunch. According to the
     “Chaitanya-bhagavata”, it was to call His brother home for the meal (Adi 7.34–40; cf. Madhya 2.22, 22.93).
 [^7]: Shachi is not named in the Lord's reply; one biography writes that He called Jagannatha and Shachi His father
     and mother.
@@ -1320,7 +1320,8 @@ ever separate you and Me”; and He still appears in her house, for where He is 
     at the meal, that Shachi sees Them in the forms of Krishna and Balarama; the “Chaitanya-charitamrita” says briefly
     that Shachi saw in Sri Chaitanya and Nityananda the two brothers Krishna and Balarama (Adi 17.17).
 [^14]: Nityananda, according to Gaudiya Vaishnava theology, is Balarama Himself, and Vishvarupa too is a manifestation
-    of Sankarshana; therefore Shachi naturally loves Nityananda as her son and recognises Vishvarupa in Him.
+    of Sankarshana; therefore Shachi naturally loves Nityananda as her son and recognises Vishvarupa in Him. The Lord's words “This is
+    Vishvarupa…” are found only in the 1983 edition of the “Chaitanya-mangala” (vv. 80+10–80+11).
 [^15]: One biography calls her Lakshmipriya; but at that time, after the Lord's return from Gaya, His wife was
     Vishnupriya. The “Chaitanya-bhagavata” says “Lakshmi” (Madhya 22.112) — as Vrindavana Dasa here calls Vishnupriya
     too (cf. Madhya 11.65–68).
@@ -1343,7 +1344,7 @@ ever separate you and Me”; and He still appears in her house, for where He is 
 [^21]: According to the “Chaitanya-charitamrita”, it was Shachi herself who decided that He should live in Puri (Madhya
     3.181–185); so too in its other passages (Madhya 15.52; Antya 3.39, 19.11) and in Murari Gupta (“Kadacha” 4.20.4):
     the Lord lives in Nilachala “at her command”. In Lochana Dasa the Lord in Shantipur Himself gives the devotees a vow:
-    “Truly, I shall live in Nilachala” (CM, Madhya-khanda, part 19, vv. 49–54). The biographies write that He settled in
+    “truly I shall dwell in Nilachala” (CM, Madhya-khanda, part 19, vv. 49–54). The biographies write that He settled in
     Puri “at the wish”, “at the request” or “at the command” of His mother.
 [^22]: So in the “Chaitanya-charitamrita” (Madhya 3.209–210). One biography writes that Damodara Pandita went with the
     Lord at the instruction of Shachi herself.
@@ -1352,7 +1353,7 @@ ever separate you and Me”; and He still appears in her house, for where He is 
     back to life.
 [^24]: The “Chaitanya-bhagavata” (Antya 4.237–238) names Gangadasa and Murari; one biography, naming Gangadasa, places
     this journey at the Lord's coming to Shantipur after His sannyasa.
-[^25]: Murari Gupta places the meeting in Kulia and the festival in honour of Madhavendra Puri at the Lord's return to
+[^25]: Murari Gupta places this meeting with His mother (the Lord came to her in Navadvipa from Kulia) and the festival in honour of Madhavendra Puri at the Lord's return to
     Bengal after His journey to Vrindavana; the “Chaitanya-bhagavata” tells of the festival of Madhavendra Puri during
     this visit (Antya 4.441–508).
 [^26]: According to the “Chaitanya-bhagavata”, His mother came to her son in Shantipur when He was returning from
