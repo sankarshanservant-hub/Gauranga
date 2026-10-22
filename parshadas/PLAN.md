@@ -96,7 +96,7 @@ B — вероятно, больше сотни).
 | @dhananjaya-pandita (010) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vakreshvara (011) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @svarupa-damodara (012) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @ramananda-raya (013) | ✓ | ✓ (PDF) | — |
+| @ramananda-raya (013) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhugarbha (014) | ✓ | ✓ (PDF) | — |
 | @sundarananda (015) | ✓ | ✓ (PDF) | — |
 | @gopala-guru (016) | ✓ | ✓ (PDF) | — |
