@@ -588,14 +588,33 @@ rejoice under the blows. And the Lord promises His mercy to anyone who takes Adv
 ## Shachi and Advaita
 Shachi blamed Advaita for Vishvarupa's taking sannyasa. Before, she had kept silent, fearing to offend a Vaishnava — she
 knew Advaita to be a Vaishnava. But now Nimai too spent all His time in Advaita's house, leaving Lakshmipriya at home,
-and Shachi feared that He too would leave. In her sorrow she said to herself: “Who calls Him Advaita — ‘non-dual’? He is
-‘Dvaita’: one son He has already led away from home, and now He will not let me keep the other” (CB, Madhya
-22.113–117). Only her Son knew of this. <!-- F93 Q12 -->
+and Shachi feared that He too would leave. In her sorrow she said to herself:
 
-During the Mahaprakasha Srivasa asked the Lord to grant Shachi the darshana of His form, but the Lord said: “Mother has
-offended Advaita — I will not show Myself to her. Only He can forgive, as Ambarisha forgave Durvasa.” Then Shachi went
-herself to beg Advaita's forgiveness. And Advaita began to glorify her who had borne the Lord in her womb — until He lost
-consciousness; and then she took the dust of His feet. The Lord revealed His form to her[^25]. <!-- F94 F95 -->
+“Why is he called ‘Advaita’? In truth this Gosani is ‘Dvaita.’ He has already induced one son of mine to leave home, and
+now He wants to deprive me of my other son.” (CB, Madhya 22.113–117)
+
+Only her Son knew of this. <!-- F93 Q12 -->
+
+Once, when the Lord, having revealed Himself, was seated on the throne and giving blessings to the devotees, Srivasa
+asked:
+
+“Lord, we wish that You would grant ecstatic love for Krishna to mother Shachi.” (CB, Madhya 22.24)
+
+The Lord refused: she had offended a Vaishnava, and only that Vaishnava himself can free one from such an offence — so
+Ambarisha freed Durvasa from it (Madhya 22.25–34):
+
+“She has offended Nara, and therefore she will attain ecstatic love for Krishna only if Nara forgives her.” (CB, Madhya
+22.35)
+
+“Let her place the dust of Advaita's feet on her head, and then I shall grant her divine love for Krishna.” (CB, Madhya
+22.36)
+
+Hearing of this, Advaita said that Shachi was His mother, for from her womb His Lord had appeared, and began to glorify
+her — until He lost consciousness; then Shachi came, took the dust of His feet and herself fell unconscious with bliss.
+The Lord declared to her:
+
+“Now you have attained devotional service to Vishnu, freed from the offence you committed against Advaita.” (CB, Madhya
+22.52)[^25] <!-- F94 F95 -->
 
 So the Lord showed how grave vaishnava-aparadha is: it bars the way even to Shachi, and only the forgiveness of the
 offended Vaishnava saves one from it. And He showed that Vaishnavas are not proud: Shachi went without delay to beg
@@ -608,14 +627,19 @@ only after two praharas, some six hours, could He be calmed. The Lord, seeing ho
 Him into the room of Vishnu, and Advaita asked: “Let Me see what Arjuna saw.” And before Him appeared the universal
 form, the vishvarupa: a dark-blue four-armed Krishna, in whose body were the luminaries, the seas and the mountains,
 millions of faces, arms and eyes; Arjuna was reciting hymns to Him, and Advaita, taking a blade of grass between His
-teeth as a sign of humility, begged for service (cf. CB, Madhya 24). <!-- F97 F98 -->
+teeth as a sign of humility, begged for service (cf. CB, Madhya 24.33, 24.47–55). <!-- F97 F98 -->
 
 ## The Drama in Chandrashekhara's House
 When in the house of Chandrashekhara Acharyaratna the Lord staged a drama about Krishna, Advaita was given the role of
-the vidushaka — the jester. The Lord played Rukmini and then appeared as the Adya-shakti, the original energy, Lakshmi;
-Nityananda was an old woman, Gadadhara a gopi, Srivasa Narada, Haridasa a watchman. The Lord announced that only those
-who had controlled their senses could watch the drama, and Advaita and Srivasa sadly said that this meant they could
-not. “Today all will become yogis,” the Lord answered (CB, Madhya 18). <!-- F99 -->
+the vidushaka — the jester: forgetting Himself, He “danced in various moods like an experienced jester” (CB, Madhya
+18.35–36). The Lord danced in the mood of Rukmini and then appeared as the Adya-shakti, the original energy, Lakshmi;
+Gadadhara too played Rukmini, Nityananda the Lord's grandmother, Srivasa Narada, Haridasa a watchman[^27]. The Lord
+announced that only those who had controlled their senses could watch the drama, and Advaita and Srivasa sadly said
+that this meant they could not. But the Lord smiled and answered: “If you do not come, then who will be present during
+the dance?” (Madhya 18.24) — and reassured them:
+
+“Today you will all become the greatest mystic yogis. Beholding My dance, none of you will be bewildered.” (CB, Madhya
+18.26) <!-- F99 -->
 
 ## Night Kirtans and the Procession to the Kazi
 Advaita was beside the Lord in sankirtana — in Srivasa's courtyard, in the streets of Navadvipa and on the bank of the
@@ -624,7 +648,7 @@ Ganga — and among those who sang all night long:
 “All of them sang in jubilation: ‘Krishna, Rama, Mukunda, Murari, Vanamali!’” (CB, Madhya 23.29)
 
 “Nityananda and Gadadhara whirled, holding hands. Advaita, like a lion, ran about the room in ecstatic bliss.” (CB,
-Madhya 23.30)[^27] <!-- F100 -->
+Madhya 23.30)[^28] <!-- F100 -->
 
 When Chand Kazi forbade the sankirtana, the Lord led Navadvipa out into the streets, and Advaita led one part of the
 procession, dancing and loudly singing the names:
@@ -634,7 +658,7 @@ procession, dancing and loudly singing the names:
 
 “Advaita Acharya with His party went in front and danced in indescribable bliss.” (CB, Madhya 23.203)
 
-And the Kazi became a friend and vowed never again to hinder the sankirtana[^28]. <!-- F101 Q12 -->
+And the Kazi became a friend and vowed never again to hinder the sankirtana[^29]. <!-- F101 Q12 -->
 
 ## The Lord's Sannyasa
 At the beginning of 1510 Mahaprabhu accepted sannyasa in Katwa. Intoxicated with love for Krishna, He wandered for three
@@ -645,7 +669,7 @@ days, thinking He was going to Vrindavana, while Nityananda sent Chandrashekhara
 “‘I shall bring Sri Chaitanya to Advaita's house. But let Advaita wait for us with a boat on the bank of the Ganga.’”
 (CC, Madhya 3.21)
 
-From there Chandrashekhara was to go on to Navadvipa for Mother Shachi and all the devotees (Madhya 3.22)[^29]. The news
+From there Chandrashekhara was to go on to Navadvipa for Mother Shachi and all the devotees (Madhya 3.22)[^30]. The news
 of the Lord's sannyasa broke hearts, and, according to one of the biographies, Advaita wept until He fell down as though
 lifeless; then a voice from the sky told Him not to grieve: in a few days the Lord would be with them.
 <!-- F103 F104 Q13 -->
@@ -665,7 +689,7 @@ the bank of the Ganga.’” (CC, Madhya 3.33)
 The Lord exclaimed that Nityananda had deceived Him by calling the Ganga the Yamuna; but Advaita objected that there was
 no deception: here the Ganga and the Yamuna flow in one bed, and along the western bank flows the Yamuna, so the Lord had
 truly bathed in the Yamuna (Madhya 3.35–37). He dressed the Lord in dry cloth, brought Him by boat to His house and washed
-His feet[^30]. <!-- F105 -->
+His feet[^31]. <!-- F105 -->
 
 Advaita fell prostrate before the Lord and embraced His feet, and the Lord raised Him up. To Advaita and Sita, says one
 of the biographies, it was as though life had been given back. <!-- F106 -->
@@ -681,7 +705,7 @@ Advaita's little son Achyutananda came running too. Vrindavana Dasa speaks of hi
 1.216)
 
 The Lord called the boy His brother: “If Advaita is My father, then you are My brother.” And he replied: “The scriptures
-say that You are the father of all”[^31]. <!-- F107 Q15 -->
+say that You are the father of all”[^32]. <!-- F107 Q15 -->
 
 ## Ten Days in Shantipura
 The Lord had eaten nothing for three days, and in Advaita's house a great feast was prepared for Him. Sita cooked, and
@@ -728,7 +752,7 @@ singing the holy names in Sri Chaitanya's company.” (CC, Madhya 1.47)
 temple.” (CC, Madhya 1.48)
 
 According to one of the biographies, Advaita set out with Shachi's permission even before the Ratha-yatra, and the Lord
-sent mahaprasada ahead to meet the travellers at Cuttack[^32]. <!-- F112 -->
+sent mahaprasada ahead to meet the travellers at Cuttack[^33]. <!-- F112 -->
 
 Of the twenty-four years after His sannyasa the Lord spent six in travel and eighteen in Puri (Madhya 1.249), and all
 that time the Bengalis came to Him every year:
@@ -740,7 +764,7 @@ Chaitanya every year and stayed four months in Nilachala.” (CC, Madhya 1.255)
 
 And it was always Advaita who led them:
 
-“The devotees set out for Nilachala under the leadership of Advaita Acharya.” (CB, Antya 8.6)[^33]
+“The devotees set out for Nilachala under the leadership of Advaita Acharya.” (CB, Antya 8.6)[^34]
 
 Sita and Achyutananda went with Him. <!-- F113 Q13 -->
 
@@ -781,7 +805,7 @@ till evening:
 And when the Gundicha temple was washed before the festival, everyone carried water except a few of the elders:
 
 “All except Nityananda, Advaita, Damodara, Bharati and Paramananda Puri filled pots and carried water.” (CC, Madhya
-12.109)[^34]
+12.109)[^35]
 
 Advaita also played with the Lord and the devotees in the water pastimes at Narendra-sarovara. <!-- F117 Q15 -->
 
@@ -796,7 +820,7 @@ Together with the Lord, Advaita also went to the garden of Tota-Gopinatha to hea
 ## A Meal in the Storm
 Once Advaita began to entreat the Lord to come to Him for a meal. He wanted to feed the Lord alone: when the Lord came with
 the sannyasis, out of respect for them He ate very little. Advaita cooked Himself, while His wife helped Him — cutting
-vegetables and handing Him the provisions brought from Bengal (CB, Antya 9.20–24)[^35]. When the cooking was done,
+vegetables and handing Him the provisions brought from Bengal (CB, Antya 9.20–24)[^36]. When the cooking was done,
 Advaita placed a tulasi-manjari on every dish and sat down to meditate: let the Lord come alone. <!-- F120 -->
 
 Suddenly a storm arose — wind, downpour and hail — and the sannyasis, losing their way, did not reach the place, while at
@@ -828,7 +852,7 @@ merciful to Me.’” (CB, Antya 9.168)
 
 Hearing Himself glorified, the Lord was embarrassed and went home. When the devotees came to Him singing, He lay turned
 away and reproached them; and then He was answered that the sun cannot be hidden with one's palm — just so the truth
-about Him cannot be concealed (CB, Antya 9.204–208)[^36]. <!-- F122 -->
+about Him cannot be concealed (CB, Antya 9.204–208)[^37]. <!-- F122 -->
 
 Thus Advaita was the first openly to introduce kirtan in glory of Sri Krishna Chaitanya — honouring Him equally with
 Krishna, for He is Krishna. In this one sees Advaita's chief trait — spiritual fearlessness: it sounded in His loud call,
@@ -840,7 +864,7 @@ Five years after His sannyasa the Lord resolved to go to Vrindavana by way of Be
 granted deliverance to crowds of people — even to sinners and offenders (the “Chaitanya-chandrodaya,” 9.33, also speaks
 of those seven days in Kulia), and from there He came to Shantipura, to Advaita's house, and consoled His mother there.
 From Shantipura He went to Ramakeli, where He met Rupa and Sanatana, reached Kanai-natashala and returned again to
-Shantipura, staying there ten days this time (CC, Madhya 16.205–212)[^37]. It is said that in those days Vamshivadana was
+Shantipura, staying there ten days this time (CC, Madhya 16.205–212)[^38]. It is said that in those days Vamshivadana was
 born, and the Lord and Advaita were present at his birth. <!-- F123 Q16 -->
 
 ## Achyuta and the Question about Keshava Bharati
@@ -867,7 +891,7 @@ According to the “Chaitanya-bhagavata,” Advaita in bliss embraced His son, b
 “‘You are My father, and I am your son. You have appeared as My son in order to instruct Me.’” (CB, Antya 4.174)
 
 He begged His son's forgiveness, and the boy, hearing himself praised, lowered his head in embarrassment. The sannyasi
-fell at Achyuta's feet and exclaimed: “As the father, so the son!” (CB, Antya 4.177–178)[^38]. Advaita danced together
+fell at Achyuta's feet and exclaimed: “As the father, so the son!” (CB, Antya 4.177–178)[^39]. Advaita danced together
 with His son: in His house an associate of the Lord had been born. Achyuta is an example of what a true son of Advaita is
 like: he cannot bear even worldly speech that belittles the Lord. <!-- F125 I9 -->
 
@@ -886,7 +910,7 @@ and therefore Advaita presented the young man to the Lord:
 (CC, Madhya 16.225)
 
 “So Raghunatha stayed in Advaita's house, obtaining the chance for about a week to serve Sri Chaitanya and to eat the
-remnants of Mahaprabhu's meals.” (CC, Madhya 16.226)[^39]
+remnants of Mahaprabhu's meals.” (CC, Madhya 16.226)[^40]
 
 Raghunatha had seen the Lord already on His first coming to Shantipura, after the sannyasa (Madhya 16.223), and later, in
 Puri, he also received Advaita's blessings. Now the Lord told him to go home and wait until He came back from Vrindavana.
@@ -954,7 +978,7 @@ When Rupa Gosvami came to Puri, the Lord Himself brought him to Advaita and Nity
 “Then Sri Chaitanya turned to Advaita Acharya and Nityananda: ‘With all Your heart You must bestow Your mercy on Rupa.’”
 (CC, Antya 1.56)
 
-And Advaita with Nityananda and all the devotees bestowed mercy on Rupa and embraced him (Antya 1.207)[^40]. <!-- F133 -->
+And Advaita with Nityananda and all the devotees bestowed mercy on Rupa and embraced him (Antya 1.207)[^41]. <!-- F133 -->
 
 In the year when Nityananda too came with the Bengalis — against the Lord's order to remain in Bengal — the Lord, at the
 end of the four months of the rains, taking leave of the devotees, said of Advaita, “Acharya Gosai”:
@@ -963,7 +987,7 @@ end of the four months of the rains, taking leave of the devotees, said of Advai
 to repay.” (CC, Antya 12.70)
 
 And then He addressed everyone: for My sake you have left your homes, wives and children and walked a hard road; I am a
-penniless sannyasi, and I have nothing to give you but My body — this I give to you (Antya 12.71–74)[^41].
+penniless sannyasi, and I have nothing to give you but My body — this I give to you (Antya 12.71–74)[^42].
 <!-- F134 Q14 -->
 
 ## The Riddle
@@ -975,7 +999,7 @@ understandable to Him alone:
 Antya 19.20)
 
 “Tell the madman that the mad one is no longer occupied with worldly affairs. Tell the madman that a madman has said
-this.” (CC, Antya 19.21)[^42]
+this.” (CC, Antya 19.21)[^43]
 
 Hearing the riddle, the Lord smiled slightly, said, “Such is His order,” and fell silent. To Svarupa Damodara's question
 He answered only that the Acharya is a great knower of worship according to the agamas: for the puja He invokes the
@@ -984,13 +1008,13 @@ not understand (Antya 19.23–28). Svarupa grew anxious: from that day the Lord'
 strong, and His divine madness grew — His pastimes in this world were soon to be concealed. <!-- F135 Q14 -->
 
 Srila Bhaktivinoda Thakura reveals the meaning of the riddle: all are already intoxicated with prema, and the purpose for
-which Advaita called the Lord has been achieved; now the Lord is free to act as He pleases[^43]. <!-- I14 -->
+which Advaita called the Lord has been achieved; now the Lord is free to act as He pleases[^44]. <!-- I14 -->
 
 ## Sons
 One of the biographies counts six sons of Advaita. The eldest is Achyutananda, after him Krishna Mishra and Gopala
 Mishra: these three grasped the essence of their father's teaching and were devoted to Gaura; according to the
 “Advaita-charita,” they were born of Sita, and they are called the “three jewels” of Gaura. The fourth son is Balarama,
-the fifth Svarupa, the sixth Jagadisha; they did not accept Sri Chaitanya[^44]. The “Charitamrita,” listing the branches
+the fifth Svarupa, the sixth Jagadisha; they did not accept Sri Chaitanya[^45]. The “Charitamrita,” listing the branches
 of Advaita's tree, speaks of this thus:
 
 “Unhusked rice is first measured together with the husk. But afterwards the husk must be winnowed away and the rice
@@ -1017,13 +1041,13 @@ Antya 4.183) <!-- F137 Q11 -->
 Achyutananda, according to the “Charitamrita,” is a great branch of Advaita's tree: from his very birth he served the
 feet of Sri Chaitanya (Adi 12.13). The “Gaura-ganoddesha-dipika” calls him the beloved disciple of Gadadhara Pandita and
 sees in him Karttikeya or the gopi Achyuta (others consider Krishna Mishra to be Karttikeya). One of the biographies gives
-the year of his birth as 1428 Shaka (1506), and the place as Shantipura[^45]. Srila Bhaktisiddhanta in the “Anubhashya”
+the year of his birth as 1428 Shaka (1506), and the place as Shantipura[^46]. Srila Bhaktisiddhanta in the “Anubhashya”
 calls Achyutananda the first of Advaita's disciples, while the “Shakha-nirnayamrita” calls him a disciple of Gadadhara. In
 the Lord's last years, according to the “Charitamrita,” he remained living in Jagannatha Puri, having taken shelter at
 the feet of Sri Chaitanya (Adi 10.150); according to one of the biographies, Advaita's other sons also lived there at
 that time. <!-- F138 Q11 -->
 
-Yet another biography mentions “Sri Nrisimha, the son of Advaita Acharya,” who lived in Ramakeli[^46]. <!-- F139 -->
+Yet another biography mentions “Sri Nrisimha, the son of Advaita Acharya,” who lived in Ramakeli[^47]. <!-- F139 -->
 
 ## Disciples
 Advaita's mercy extended also to those who were bound to Him as disciples. Yadunandana Acharya of Chandpur, the guru of
@@ -1035,12 +1059,12 @@ have told above, was also Advaita's disciple. <!-- F140 -->
 When and where Advaita concluded His pastimes in this world, most of the biographies do not say. According to the
 “Gaudiya-vaishnava-abhidhana,” it was in 1559, in the hundred and twenty-fifth year of His life (see above, “Appearance in
 Shrihatta”); the biographies do not name the lunar day of His departure, and in our calendar there is no day of Sri
-Advaita's departure[^47]. <!-- F141 -->
+Advaita's departure[^48]. <!-- F141 -->
 
 It is known that Advaita remained in the world even after the Lord's concealment, and departed before Sita. Srinivasa,
 returning from Puri, where he no longer found Gadadhara Pandita, learned on the way that Advaita and Nityananda too had
 concealed Themselves, and in grief resolved to give up his body; but both Prabhus appeared to him in a dream and
-consoled him. In Shantipura he saw Sita, barely alive in separation from her husband[^48]. Advaita came to Srinivasa in
+consoled him. In Shantipura he saw Sita, barely alive in separation from her husband[^49]. Advaita came to Srinivasa in
 dreams later too: He told him to marry — even before Narahari told him the same. <!-- F141 F142 -->
 
 In Shantipura the service was continued by Advaita's sons. Achyutananda, Gopala and Krishna Mishra received Jahnava
@@ -1058,7 +1082,7 @@ laid the foundation stone of a new temple; the Advaita-bhavana in Mayapura becam
 About Advaita were written the “Advaita-mangala,” the “Advaita-vilasa” and the “Sita-charitra”; Sarvabhauma Bhattacharya
 composed in His glory the “Advaita-dvadasha-nama,” the “Advaitashtaka” and the “Advaita-ashtottara-shata-nama.” Most
 fully He is spoken of in the “Chaitanya-charitamrita,” the “Chaitanya-bhagavata,” the “Bhakti-ratnakara” and the
-“Advaita-vilasa”; there is also the late “Advaita-prakasha”[^49]. <!-- F146 F147 -->
+“Advaita-vilasa”; there is also the late “Advaita-prakasha”[^50]. <!-- F146 F147 -->
 
 ## Advaita in the Memory of the Devotees
 Advaita's name sounds wherever Sri Chaitanya is sung of. He is glorified by the benedictions at the beginning of the
@@ -1154,79 +1178,84 @@ Chaitanya. <!-- I14 I13 -->
     well,” laughed aloud on hearing His praise of jnana (CB, Madhya 19.25), and Advaita's wife, interceding for Him,
     “understood what was happening” (19.135). And the “blows” here are not a mundane reprisal but a lila in which the Lord
     answers His servant's desire to be punished.
-[^25]: The circumstances are told differently. According to one of the biographies, Srivasa asked for Shachi not
-    darshana but prema, and this was when the Lord was sitting on the vishnu-khatta; the Lord answered that prema was
-    impossible until the offence at Advaita's feet was forgiven. And Advaita, astonished that the mother chosen by the
-    Lord Himself could be at fault before Him, lost consciousness; Shachi took the dust of His feet and fell unconscious
-    in prema, and the Lord declared her free of the offence.
+[^25]: So according to the “Chaitanya-bhagavata” (Madhya 22.20–52). The biographies tell the circumstances differently.
+    According to one of them, Srivasa asked for Shachi the darshana of the Lord's form, during the Mahaprakasha; the Lord
+    answered: “Mother has offended Advaita — I will not show Myself to her,” Shachi went herself to beg Advaita's
+    forgiveness and, having received it, saw the Lord's form. Another, closer to the “Chaitanya-bhagavata,” speaks of
+    prema and of the vishnu-khatta and writes that Advaita lost consciousness, astonished that the mother chosen by the
+    Lord Himself could be at fault before Him.
 [^26]: Shachi's “offence” is part of a lila performed for the sake of a lesson; one of the biographies calls it an
     “extraordinary means” chosen by the Lord. Neither Shachi nor Advaita is subject to worldly feelings: Vrindavana Dasa
     explains at once (Madhya 22.118–123) that the Lord wished, by His mother's example, to warn everyone against
     vaishnava-aparadha and to establish Advaita as a Vaishnava — against those who would glorify Him as Krishna Himself.
-[^27]: One of the biographies says that Advaita rushed about “holding on to Nityananda and Gadadhara”; according to the
+[^27]: According to one of the biographies, Gadadhara played a gopi; according to the “Chaitanya-bhagavata,” the Lord gave
+    Gadadhara the role of Rukmini (Madhya 18.9), and he danced “in the garments of Rama, the goddess of fortune” (18.112),
+    while at the end of the drama it was the Lord Himself who became a gopi (18.219). Another biography adds that the Lord
+    said He would not dance at all without Advaita and Srivasa (cf. 18.24).
+[^28]: One of the biographies says that Advaita rushed about “holding on to Nityananda and Gadadhara”; according to the
     text of the “Chaitanya-bhagavata,” it was Nityananda and Gadadhara who held hands, while Advaita ran like a lion.
-[^28]: One of the biographies places this account in the section on Advaita's life after the Lord's sannyasa; according
+[^29]: One of the biographies places this account in the section on Advaita's life after the Lord's sannyasa; according
     to the “Chaitanya-bhagavata” (Madhya 23), the procession to the Kazi took place before the sannyasa. The order of the
     parties in the procession is given differently by the sources (see the article on Srivasa).
-[^29]: So according to the “Charitamrita.” One of the biographies says that the Lord Himself sent Chandrashekhara, the
+[^30]: So according to the “Charitamrita.” One of the biographies says that the Lord Himself sent Chandrashekhara, the
     husband of His aunt, to console Navadvipa.
-[^30]: One of the biographies tells of the way to Shantipura differently: the Lord Himself sent Nityananda to bring the
+[^31]: One of the biographies tells of the way to Shantipura differently: the Lord Himself sent Nityananda to bring the
     devotees of Mayapura to Advaita's house, and He Himself came there by way of Phulia, where crowds met Him — even
     blasphemers. Here the account follows the “Charitamrita” (Madhya 3).
-[^31]: Vrindavana Dasa gives Achyutananda's age at that time differently — now three years, now five.
-[^32]: According to the “Charitamrita,” this was “in the following year” after the sannyasa. One of the biographies, having
+[^32]: Vrindavana Dasa gives Achyutananda's age at that time differently — now three years, now five.
+[^33]: According to the “Charitamrita,” this was “in the following year” after the sannyasa. One of the biographies, having
     quoted this verse, at once adds that probably about three more years had passed.
-[^33]: One of the biographies refers this verse, as well as the account of the same journey with families (CB, Antya
+[^34]: One of the biographies refers this verse, as well as the account of the same journey with families (CB, Antya
     8.39–43), to the “Charitamrita” (“CC 3.8”), and the verse about the yearly visits (Madhya 1.255) to “2.9.255–256”;
     correctly they are CB, Antya 8.4–6, 8.39–43 and CC, Madhya 1.255.
-[^34]: The translation has “Damodara”; the Bengali text here reads “Svarupa,” that is, Svarupa Damodara, and “Bharati” is
+[^35]: The translation has “Damodara”; the Bengali text here reads “Svarupa,” that is, Svarupa Damodara, and “Bharati” is
     Brahmananda Bharati.
-[^35]: According to one of the biographies, the Lord's favourite dishes were cooked by Sita, and it was she who invited
+[^36]: According to one of the biographies, the Lord's favourite dishes were cooked by Sita, and it was she who invited
     Him.
-[^36]: One of the biographies puts these words in Advaita's mouth; according to the “Chaitanya-bhagavata” (Antya
+[^37]: One of the biographies puts these words in Advaita's mouth; according to the “Chaitanya-bhagavata” (Antya
     9.204–208), it was Srivasa Pandita who answered so: he made as if to hide the sun in his palms, and laughed.
-[^37]: The “Charitamrita” mentions both stays with Advaita — before Ramakeli and after. The biographies speak now of one,
+[^38]: The “Charitamrita” mentions both stays with Advaita — before Ramakeli and after. The biographies speak now of one,
     now of the other, and differ in the order of the journey: according to one, after the South the Lord passed through
     Kulia, then Ramakeli, and only then returned to Shantipura; according to another, He stayed a few days with Advaita
     and went to Ramakeli, and from Advaita, as the “Chaitanya-bhagavata” says, to Srivasa in Kumarahatta; according to a
     third, the Lord stopped at Advaita's on the way back from Kanai-natashala, and Balabhadra and Damodara are named as
     being with Him — but, according to the “Charitamrita” (Madhya 17), Balabhadra Bhattacharya accompanied the Lord
     later, on the way from Puri to Vrindavana.
-[^38]: Advaita's response is told differently. According to the “Charitamrita” (Adi 12.17), He rejoiced at His son's
+[^39]: Advaita's response is told differently. According to the “Charitamrita” (Adi 12.17), He rejoiced at His son's
     words; it does not mention the sannyasi. The “Chaitanya-bhagavata” speaks both of Advaita's bliss (Antya 4.172) and of
     His calling His son His father and begging forgiveness. One of the biographies writes that Advaita was ashamed.
     Advaita's shame is the same play as His “worldly” answer: He, Maha-Vishnu Himself, knows that the Lord has no guru,
     and arranges this conversation to reveal to the world His son's faith. Therefore the boy's reproach too — whether maya
     had not overcome his father (CB, Antya 4.159–161) — does not mean that Advaita is subject to maya: Maha-Vishnu is her
     Master.
-[^39]: One of the biographies speaks of five or six days; the translation of the “Charitamrita” has “about a week,” and a
+[^40]: One of the biographies speaks of five or six days; the translation of the “Charitamrita” has “about a week,” and a
     little further (Madhya 16.234) “a whole week.”
-[^40]: One of the biographies says that the Lord asked Advaita and Nityananda to bless Rupa and Sanatana. According to the
+[^41]: One of the biographies says that the Lord asked Advaita and Nityananda to bless Rupa and Sanatana. According to the
     “Charitamrita,” the request for mercy concerned Rupa (Antya 1.56–57), while Sanatana the Lord later only introduced
     to Advaita and the other devotees (Antya 4.108).
-[^41]: One of the biographies renders these words (Antya 12.71–74) as though the Lord were speaking them to Advaita;
+[^42]: One of the biographies renders these words (Antya 12.71–74) as though the Lord were speaking them to Advaita;
     according to the “Charitamrita,” only verse 12.70 concerns Advaita, and after it the Lord addresses all the Bengali
     devotees.
-[^42]: One of the biographies refers the riddle to verses 19.19–21 and renders its last line differently: “madmen are good
+[^43]: One of the biographies refers the riddle to verses 19.19–21 and renders its last line differently: “madmen are good
     for nothing.”
-[^43]: The concealment of the Lord's pastimes takes place only by His own will. The image of the Acharya who invokes the
+[^44]: The concealment of the Lord's pastimes takes place only by His own will. The image of the Acharya who invokes the
     Deity for worship and then sends Him away speaks not of a servant's power over the Lord, but of the oneness of will
     between the Lord and His eternal associate: the Lord came at Advaita's call and by His own will concludes His
     pastimes when their purpose is achieved.
-[^44]: The sources give the number of sons differently. Six sons — in one of the biographies; the “Charitamrita” also
+[^45]: The sources give the number of sons differently. Six sons — in one of the biographies; the “Charitamrita” also
     names six: Achyutananda, Krishna Mishra and Gopala as branches of Advaita's tree, and as “other sons” Balarama,
     Svarupa and Jagadisha (Adi 12.13–27). Another biography says that Sita bore three — Achyutananda, Krishna Mishra and
     Gopala; a third names only Achyutananda.
-[^45]: This year agrees poorly with the primary sources: according to the “Charitamrita” (Adi 12.17) and the
+[^46]: This year agrees poorly with the primary sources: according to the “Charitamrita” (Adi 12.17) and the
     “Chaitanya-bhagavata” (Antya 4), Achyuta was five years old when he objected to his father about Keshava Bharati —
     already after the Lord's sannyasa, while the “Chaitanya-bhagavata” calls him a small child as early as 1510 (Antya
     1). The year of his birth therefore remains unclear.
-[^46]: A son of this name is named neither by the other biographies nor by the “Charitamrita” in its list of Advaita's
+[^47]: A son of this name is named neither by the other biographies nor by the “Charitamrita” in its list of Advaita's
     sons (Adi 12).
-[^47]: The year 1559 and the age come only from these late works (see note 8). The late “Chaitanya-mangala” of Jayananda
+[^48]: The year 1559 and the age come only from these late works (see note 8). The late “Chaitanya-mangala” of Jayananda
     and the “Advaita-prakasha” also tell of Advaita's departure after the Lord's concealment, but their information calls
     for caution.
-[^48]: Elsewhere the same biography says that when Jahnava came to Shantipura before the festival in Kheturi, neither
+[^49]: Elsewhere the same biography says that when Jahnava came to Shantipura before the festival in Kheturi, neither
     Advaita nor Sita was any longer in the world.
-[^49]: Only this late book, whose information should be treated with caution, also tells of Madana-Gopala — the Deity
+[^50]: Only this late book, whose information should be treated with caution, also tells of Madana-Gopala — the Deity
     whom Advaita served; the biographies on which this article relies are silent about Him.
