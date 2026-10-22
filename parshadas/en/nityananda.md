@@ -305,14 +305,11 @@ was dancing in their hearts. Nityananda said:
 
 “Lord Nityananda said: ‘I have gone round many holy places, but today I have reached the goal of My pilgrimage. Today I
 have seen the lotus feet of Madhavendra Puri. Seeing his exalted love, I have attained the perfection of life.’” (CB, Adi
-9.166–167)
-
-Such prema, He said, He had met nowhere: Madhavendra loses consciousness at the mere sight of a cloud.
-<!-- F109 F111 F112 Q5 -->
+9.166–167) <!-- F109 F111 F112 Q5 -->
 
 And Madhavendra embraced Nityananda, bathed Him in tears, took Him on his lap and pressed Him to his breast; from love he
-could not utter a word and would not let Him go. He said that Krishna was merciful to him, since He had sent such a
-companion:
+could not utter a word and would not let Him go. Such love, he said, he had met nowhere, and where it is, there for him
+are all the holy places; Krishna was merciful to him, since He had sent such a companion:
 
 “I have met Nityananda, and therefore I know that Krishna has granted me His mercy.” (CB, Adi 9.183)
 
@@ -321,7 +318,7 @@ companion:
 “If a person hears the name of Nityananda, he will certainly attain the lotus feet of Lord Krishnachandra.” (CB, Adi
 9.185)
 
-For him Nityananda's company was higher than Vaikuntha and all the tirthas together; and whoever bears even a little
+For him Nityananda's company contained in itself all the tirthas and Vaikuntha itself; and whoever bears even a little
 dislike for Nityananda will not be dear to Krishna, however much of a devotee he may seem. Day and night Madhavendra
 glorified Nityananda and served Him with love[^10]. <!-- F113 F114 F115 Q6 -->
 
@@ -332,8 +329,8 @@ Krishna and had gone off sorrowfully into the forests; the meeting with Nityanan
 
 For a few days[^11] they wandered together — from forest to forest, as if searching for Krishna — and spoke of His lilas,
 while the brotherhood of disciples sang the name of Hari without pause. Madhavendra, at the sight of a dark cloud,
-remembered Krishna and fell senseless; day and night, intoxicated with love, he laughed, wept, spoke incoherently and
-shouted like one drunk — his love in separation is beyond description. And Nityananda, intoxicated with the nectar of
+remembered Krishna and fell senseless — his love in separation is beyond description; day and night, intoxicated with
+love, both laughed, wept and, beside themselves, cried, “Haya! Haya!” And Nityananda, intoxicated with the nectar of
 Govinda's sweetness, reeled, stumbled, fell, laughed aloud and thundered. Their talks of Krishna were confidential, and
 only Krishna could understand them; day and night lost all meaning for them:
 
@@ -355,7 +352,7 @@ godbrother is not different from honour to the guru. <!-- F102 F103 F104 F105 I2
 ## Nilachala, Gangasagara and the Waiting in Vrindavana
 Having parted from Madhavendra, Nityananda bathed at Dhanus-tirtha, visited Rameshvaram, Vijayanagara, Mayapuri
 (Haridvara), Avanti, the Godavari, the abode of Jiyur-Nrisimhadeva (Simhachala), Tirumala, the shrine of Kurmanatha, and
-came to Purushottama. As soon as He entered the city of Sri Jagannatha, the moon of Nilachala, He saw the chakra on the
+came to Purushottama. As soon as He entered the city of Sri Jagannatha, the moon of Nilachala, He saw the flag above the
 temple and fell senseless; at darshana He saw Jagannatha in four forms (chaturvyuha), with all His servants, and again
 and again lost and regained consciousness: He was shaken with trembling, bathed in perspiration and tears, and gave
 thunderous cries. After a few days in Nilachala He visited Gangasagara, where the Ganga flows into the ocean. Vrindavana
@@ -382,7 +379,8 @@ their glory.” (CB, Adi 9.211)
 Possessed of all power, He concealed His lila of bestowing prema-bhakti and waited for Gaurachandra to reveal the greatness
 of sankirtana and give the order. The thought “to do nothing without the will of Sri Chaitanya” does not diminish but
 exalts service to the Lord: even Ananta, Brahma, Shiva and all the gods do nothing without His sanction, and the
-destroyers, rulers and maintainers of the universe carry out their duties only by His command.
+destroyers, rulers and maintainers of the universe carry out their duties only by His command. And on those who do not like to hear the glory of Nityananda the Vaishnavas
+do not even cast a glance.
 <!-- F128 F129 F130 F131 F132 F133 Q10 -->
 
 Vrindavana Dasa closes the chapter on Nityananda's childhood and wanderings with praise and prayer. Nityananda delivered
@@ -397,9 +395,9 @@ Mahaprabhu, says Vrindavana Dasa, “gave us Nityananda — and took Him away.�
 He also warns against one mistake. Some followers of Sri Chaitanya speak of Nityananda in a way that seems like blame but
 is in fact praise; these Vaishnavas are pure of heart, and their apparent quarrel is only lila (one translation of the
 chapter explains that Vaishnavas such as Advaita Acharya are meant). But whoever takes the side of one and reviles the
-other will perish; and whoever follows those who reject all blame of Nityananda will attain Sri Chaitanya. And Vrindavana
+other will perish; and whoever follows Nityananda without seeking faults in Him will attain the shelter of Sri Gaurachandra. And Vrindavana
 Dasa prays: to see Sri Chaitanya and Nityananda among the devotees; that Nityananda be his eternal master; that, keeping
-faith with Nityananda, he may serve the feet of Gaurachandra and, birth after birth, read the “Bhagavata” at Nityananda's
+faith with Nityananda, he may serve the feet of Gaurachandra and, birth after birth, study the “Srimad-Bhagavatam” at Nityananda's
 feet — for without Mahaprabhu's consent no one attains the feet of Nityananda. <!-- Q14 I10 Q15 -->
 
 ## Arrival in Navadvipa
