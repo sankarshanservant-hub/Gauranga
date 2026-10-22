@@ -43,15 +43,17 @@ is also celebrated. Our calendar marks it in the same way: on the Gaura-navami o
 the appearance of Nityananda's shakti Sri Jahnava Devi and of Rama's shakti Sri Sita Devi.[^6] <!-- F23 F24 F25 -->
 
 ## Surya Dasa's Dream
-When his daughters came of age, Surya Dasa began to wonder to whom he should give them. One night, having sat up late with
-these thoughts, he fell asleep and saw a dream: he was giving both his daughters to Nityananda. Nityananda appeared to him
-as Balarama Himself, and Vasudha and Jahnava stood at His left and right in the forms of Revati and Varuni, wondrously
-adorned, lighting up all ten directions with their radiance. <!-- F26 F28 -->
+When his daughters came of age, Surya Dasa began to wonder to whom he should give them. At that time a certain
+Krishnadasa of Borgachhi near Shaligrama, son of Harihara, a kayastha and a devotee of Nityananda, took it upon himself to
+find a wife for Nityananda. And an old brahmana of Shaligrama, seeing how anxious Surya Dasa was, revealed to him who
+Nityananda was: the son of Harai Pandita and Padmavati of Ekachakra — in Krishna-lila, Vasudeva and Rohini — Balarama
+Himself, who had wandered through all the holy places, and the eternal husband of his daughters. <!-- F26 F27 -->
 
-Meanwhile a certain Krishnadasa of Borgachhi near Shaligrama, son of Harihara, a kayastha and a devotee of Nityananda,
-took it upon himself to find a wife for Nityananda. And an old brahmana of Shaligrama, seeing how anxious Surya Dasa was,
-revealed to him who Nityananda was: the son of Harai Pandita and Padmavati of Ekachakra — in Krishna-lila, Vasudeva and
-Rohini — Balarama Himself, who had wandered through all the holy places, and the eternal husband of his daughters. <!-- F27 -->
+One night, having sat up late with these thoughts, Surya Dasa fell asleep and saw a dream: he was giving both his
+daughters to Nityananda. Nityananda appeared to him as Balarama Himself, and Vasudha and Jahnava, shining brighter than
+gold and kunkuma, in jewelled ornaments and many-coloured garments, stood at His left and right in the forms of Revati
+and Varuni, lighting up all ten directions with their radiance. Surya Dasa forgot himself in rapture
+(“Bhakti-ratnakara” 12.3901–3911):[^7] Nityananda granted him this vision of His majesty to delight His devotee. <!-- F26 F28 F31 I7 -->
 
 In the morning Surya Dasa told his dream to a brahmana friend: “Until He accepts them, I shall have no peace.” He sent his
 friend to Navadvipa, to Srivasa, in whose house Nityananda was then staying. Nityananda sent word that He would fulfil
@@ -59,15 +61,10 @@ Surya Dasa's wish, and Advaita Acharya, hearing of it, said, “Let it happen so
 with the good news. <!-- F29 -->
 
 Krishnadasa, son of Harihara (one of the biographies calls Harihara a king and the village Boroganchhi), took upon himself
-a splendid wedding in his own house and prevailed on Nityananda to come.[^7] Srivasa, Advaita, Chandrashekhara, Murari
+a splendid wedding in his own house and prevailed on Nityananda to come.[^8] Srivasa, Advaita, Chandrashekhara, Murari
 Gupta and many others gathered with sankirtana; devotees from Shaligrama came too. Surya Dasa ran out to meet Nityananda,
 fell at His feet and could not utter a word for tears. Nityananda, laughing with joy, embraced him, and Gauridasa,
 watching his brother, rejoiced as well. <!-- F30 -->
-
-When Surya Dasa offered his daughters to Nityananda, He showed him while awake what he had earlier seen in his dream:
-Vasudha and Jahnava shone brighter than gold and kunkuma, in jewelled ornaments and many-coloured garments — Varuni and Revati on
-either side of Balarama. Surya Dasa fainted with rapture (“Bhakti-ratnakara” 12.3908–3910).[^8] Nityananda granted him
-this vision of His majesty to delight His devotee. <!-- F31 I7 -->
 
 On the eve of the wedding the adhivasa was performed in the house of Krishnadasa Sarakhela in Shaligrama, with the
 brahmanas of Borgachhi and Shaligrama present.[^9] Then Surya Dasa, according to rite and custom, gave both his daughters
@@ -406,9 +403,11 @@ Sri Chaitanya. <!-- F111 Q18 -->
 [^6]: One of the biographies gives the eighth day of the bright fortnight of Vaishakha (shukla-ashtami) as her appearance
     day; another regards the ninth day of the bright fortnight of Vaishakha as the day of her departure (see below,
     “Departure”). Here we follow our calendar.
-[^7]: One of the biographies confuses this Krishnadasa, son of Harihara, with Krishnadasa Sarakhela, the brides' uncle.
-[^8]: The order of the names in the descriptions of the visions is inconsistent — now “Revati and Varuni,” now “Varuni
-    and Revati” — so it cannot tell us which sister stood on the left and which on the right.
+[^7]: One of the biographies places this vision not in the dream but at the wedding: as if Nityananda showed it to Surya
+    Dasa while awake when he offered Him his daughters; but in the “Bhakti-ratnakara,” to which it refers, the vision is
+    part of the dream. The order of the names in the retellings is inconsistent — now “Revati and Varuni,” now “Varuni
+    and Revati” — so they cannot tell us which sister stood on the left and which on the right.
+[^8]: One of the biographies confuses this Krishnadasa, son of Harihara, with Krishnadasa Sarakhela, the brides' uncle.
 [^9]: According to another biography, all the wedding preparations took place in the house of Krishnadasa in
     Boroganchhi; and the first one elsewhere mistakenly places the wedding in Shantipura.
 [^10]: The sequence of moves after the wedding is given differently: according to one biography — Navadvipa, Saptagrama
