@@ -84,11 +84,11 @@ Gadadhara what liberation is. He answered according to nyaya: the final and comp
 (atyantika-duhkha-nivritti). Nimai showed that this definition was insufficient, and the devotees, listening, thought how
 good it would be if such a scholar became a devotee. <!-- F23 -->
 
-In those same years Ishvara Puri came to Navadvipa and stayed for several months in the house of Gopinatha Acharya (CB, Adi 11.96)[^3]. He
-grew fond of Gadadhara: he saw in the youth an innate detachment, present since childhood, he saw streams of tears of
-love for Krishna — and with affection he began to teach him his book “Sri Krishna-lilamrita,” straight from the
-manuscript. As the “Bhakti-ratnakara” (12.2205–2207) reports, it was in the house of Gopinatha Acharya that Puri wrote
-this book. Vrindavana Dasa relates:
+In those same years Ishvara Puri came to Navadvipa and stayed for several months in the house of Gopinatha Acharya (CB,
+Adi 11.96)[^3]. He grew fond of Gadadhara: he saw in the youth an innate detachment, present since childhood, he saw
+streams of tears of love for Krishna — and with affection he began to teach him his book “Sri Krishna-lilamrita,”
+straight from the manuscript. As the “Bhakti-ratnakara” (12.2205–2207) reports, it was in the house of Gopinatha Acharya
+that Puri wrote this book. Vrindavana Dasa relates:
 
 “Ishvara Puri began to teach Gadadhara Pandita from his book ‘Sri Krishna-lilamrita.’” (CB, Adi 11.100)
 
@@ -107,8 +107,8 @@ be the One for whose sake Advaita had performed all His worship? <!-- F26 -->
 When the Lord returned from Gaya, the first to see His transformations of love was Shriman Pandita; he told the devotees
 of them, and the Lord appointed a meeting with them in the house of Shuklambara Brahmachari. Hearing of this from
 Shriman, Gadadhara hurried after him and hid in the house: the Lord would surely speak of Krishna — and he wanted to
-listen, if only in secret. The Lord spoke on the veranda, while Gadadhara sat inside. When the Lord, crying “Where is Krishna?”, fell to the
-ground, Gadadhara in the next room also lost consciousness (CB, Madhya 1.86–88)[^4]. Coming to Himself, the Lord asked
+listen, if only in secret. The Lord spoke on the veranda, while Gadadhara sat inside. When the Lord, crying
+“Where is Krishna?”, fell to the ground, Gadadhara in the next room also lost consciousness (CB, Madhya 1.86–88)[^4]. Coming to Himself, the Lord asked
 who was hiding there, and Shuklambara replied: “It is Your Gadadhara” (1.96). Vrindavana Dasa continues:
 
 “Gadadhara lowered his head and wept. Seeing this, Vishvambhara felt deep satisfaction. He said: ‘O Gadadhara, you are
@@ -141,14 +141,14 @@ Nityananda sat on the left, Srivasa decorated Them with flowers, Narahari fanned
 sandalwood paste, Murari sang Their glories, and Madhava, Vasudeva, Purushottama, Vijaya, Mukunda and others sang in
 various ragas. <!-- F31 F108 F32 -->
 
-Gadadhara was with the Lord in all His pastimes: at the night kirtanas in the houses of Srivasa and
-Chandrashekhara (CB, Madhya 8.111–112), in the water pastimes after the deliverance of Jagai and Madhai, at the
-mahaprakasha in Srivasa's courtyard, in the procession to the Kazi, and later at the sannyasa; in Puri — at the
-cleaning of the Gundicha temple, at the bathing in Narendra lake, and in many other pastimes. At one of the kirtanas behind closed doors, still before the procession to the
-Kazi, Nityananda and Gadadhara whirled about holding hands, while Advaita, like a lion, rushed about the room (CB, Madhya
-23.30)[^5]. When the Vaishnavas spoke
-of Nityananda and Gauranga — two Lords who honor each other — and Srivasa compared Them to Madhava and Shankara,
-Gadadhara took it up: “Well said; it is like the story of Rama and Lakshmana.” <!-- F33 F35 F109 F122 -->
+Gadadhara was with the Lord in all His pastimes: at the night kirtanas in the houses of Srivasa and Chandrashekhara (CB,
+Madhya 8.111–112), in the water pastimes after the deliverance of Jagai and Madhai, at the mahaprakasha in Srivasa's
+courtyard, in the procession to the Kazi, and later at the sannyasa; in Puri — at the cleaning of the Gundicha temple,
+at the bathing in Narendra lake, and in many other pastimes. At one of the kirtanas behind closed doors, still before
+the procession to the Kazi, Nityananda and Gadadhara whirled about holding hands, while Advaita, like a lion, rushed
+about the room (CB, Madhya 23.30)[^5]. When the Vaishnavas spoke of Nityananda and Gauranga — two Lords who honor each
+other — and Srivasa compared Them to Madhava and Shankara, Gadadhara took it up: “Well said; it is like the story of
+Rama and Lakshmana.” <!-- F33 F35 F109 F122 -->
 
 A special place among these pastimes belongs to the drama in the house of Chandrashekhara Acharya. The Lord Himself
 assigned the roles: Haridasa was the village watchman, Srivasa was Narada, He Himself was Rukmini, and Gadadhara too was
@@ -174,18 +174,18 @@ pleasure. Only Mukunda and Vasudeva Datta, his countrymen, knew him. Gadadhara, 
 not know him — according to one biography, only in appearance, for the sake of the lila. <!-- F37 F38 -->
 
 Gadadhara was especially attached to Mukunda, and Mukunda loved him dearly: whenever a sadhu or sannyasi came to
-Navadvipa, Mukunda would call Gadadhara and they would go to him together. And now Mukunda said[^7] that he would introduce
-him to an extraordinary Vaishnava, not of this world — “and as a reward, remember me as your servant.” Gadadhara gladly
-went at once. Mukunda presented him: “This is Gadadhara. From childhood he has been indifferent to the world; in worldly
-terms he is the son of the brahmana Madhava Mishra; from an early age he has kept to renunciation and is dear to all the
-Vaishnavas; he has come because he heard your name.” Vidyanidhi was overjoyed and spoke with him warmly[^8].
-<!-- F39 F40 F41 -->
+Navadvipa, Mukunda would call Gadadhara and they would go to him together. And now Mukunda said[^7] that he would
+introduce him to an extraordinary Vaishnava, not of this world — “and as a reward, remember me as your servant.”
+Gadadhara gladly went at once. Mukunda presented him: “This is Gadadhara. From childhood he has been indifferent to the
+world; in worldly terms he is the son of the brahmana Madhava Mishra; from an early age he has kept to renunciation and
+is dear to all the Vaishnavas; he has come because he heard your name.” Vidyanidhi was overjoyed and spoke with him
+warmly[^8]. <!-- F39 F40 F41 -->
 
 But what Gadadhara saw troubled him. Pundarika sat like a prince: a high bed, silk sheets whiter than milk foam, soft
 pillows, a canopy, costly clothes, incense and perfumes, five or seven little jars, pan in a brass box, a hookah; two
-servants fanned him with peacock-feather fans; on his forehead were the urdhva-pundra and a red dot of abir, his hair was
-well groomed, and before him stood an ornate palanquin. “If he is a Vaishnava,” Gadadhara thought, “why does he look so much
-like a worldly man?” — and he was disappointed. <!-- F42 -->
+servants fanned him with peacock-feather fans; on his forehead were the urdhva-pundra and a red dot of abir, his hair
+was well groomed, and before him stood an ornate palanquin. “If he is a Vaishnava,” Gadadhara thought, “why does he look
+so much like a worldly man?” — and he was disappointed. <!-- F42 -->
 
 Mukunda understood his doubt and wished to reveal who Pundarika really was. He sweetly sang a verse of the “Bhagavatam”
 about Putana — how Krishna granted the position of a mother even to the demoness who came to poison Him[^9]. With a cry
@@ -282,8 +282,8 @@ non-different from Them; and in the lila of Mahaprabhu, Who is Himself the embod
 <!-- F61 I5 F62 F99 F100 -->
 
 When Gadadhara Pandita, Bhagavan Acharya or Sarvabhauma invited the Lord, He accepted their invitation even if He had
-already been invited by others, and ate at their homes just as they wished (CC, Antya 8.88–89)[^12]. And to Vallabha Bhatta the Lord named Gadadhara Pandita among the Vaishnavas born in Bengal who carry the holy
-name to the world:
+already been invited by others, and ate at their homes just as they wished (CC, Antya 8.88–89)[^12]. And to Vallabha
+Bhatta the Lord named Gadadhara Pandita among the Vaishnavas born in Bengal who carry the holy name to the world:
 
 “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda,
 Vasudeva, Murari and many other Vaishnavas were born in the land of Bengal. All of them everywhere preach the glory of
@@ -362,12 +362,12 @@ principles makes Me unhappy. If you want Me to be happy, then go back to Jaganna
 your own defence, you will bring misfortune upon Me.’ Having said this, Mahaprabhu sailed away in a boat, and Gadadhara
 Pandita fell unconscious to the ground.” (CC, Madhya 16.137–142) <!-- F70 F71 -->
 
-Gadadhara bore the separation from the Lord harder than anyone[^14], and his separation knew no bounds. The Lord entrusted him to Sarvabhauma — to console him and escort him back —
-and went on Himself. Sarvabhauma reminded Gadadhara how Krishna broke His own promise so as not to let Bhishma break his
-word: so too Mahaprabhu, parting from him against His own heart, was protecting his vow. And both, overcome by the grief
-of separation, returned to Puri (CC, Madhya 16.143–147). Such “rebellious” love — the readiness to abandon vows,
-service, everything for the Lord — is understood only by the closest: love on the path of spontaneous devotion is not
-easy to grasp. <!-- F72 F73 I3 -->
+Gadadhara bore the separation from the Lord harder than anyone[^14], and his separation knew no bounds. The Lord
+entrusted him to Sarvabhauma — to console him and escort him back — and went on Himself. Sarvabhauma reminded Gadadhara
+how Krishna broke His own promise so as not to let Bhishma break his word: so too Mahaprabhu, parting from him against
+His own heart, was protecting his vow. And both, overcome by the grief of separation, returned to Puri (CC, Madhya
+16.143–147). Such “rebellious” love — the readiness to abandon vows, service, everything for the Lord — is understood
+only by the closest: love on the path of spontaneous devotion is not easy to grasp. <!-- F72 F73 I3 -->
 
 The Lord was then going to Gauda; in Ramakeli, where He bestowed His mercy on Rupa and Sanatana, the “Charitamrita”
 names Gadadhara too among His intimate associates; the Lord told them all to bless the two brothers (CC, Madhya
@@ -416,10 +416,11 @@ Achyutananda, the son of Advaita Acharya, is “the beloved disciple of Srimat P
 and branch of Gadadhara, while Srila Bhaktisiddhanta in the “Anubhashya” calls him the first of the disciples of
 Advaita, Whose son he is. Achyutananda came to be regarded as the chief among Gadadhara's disciples, was present at the
 festival in Kheturi, and after the Lord's disappearance and the departure of his guru returned to Shantipura and served
-the Lord's mission in obedience to his father. The “Shakha-nirnayamrita” itself (“The Nectar of Determining the Branches”) is a book about Gadadhara's
-disciples, written by his disciple Yadunatha Dasa; he also indicated that Chandrashekhara Acharya appeared in Shrihatta.
-This book glorifies Achyutananda with the stanza “mahā-rasāmṛtānandam…” and mentions (35) Uddhava Dasa — whom the
-“Charitamrita” too calls a branch of Gadadhara (Adi 12.84). <!-- F81 F117 F82 Q13 F83 -->
+the Lord's mission in obedience to his father. The “Shakha-nirnayamrita” itself (“The Nectar of Determining the
+Branches”) is a book about Gadadhara's disciples, written by his disciple Yadunatha Dasa; he also indicated that
+Chandrashekhara Acharya appeared in Shrihatta. This book glorifies Achyutananda with the stanza “mahā-rasāmṛtānandam…”
+and mentions (35) Uddhava Dasa — whom the “Charitamrita” too calls a branch of Gadadhara (Adi 12.84). <!-- F81 F117 F82
+Q13 F83 -->
 
 Gadadhara's beloved disciple was Paramananda Gosvami: together with Madhu Pandita he found the Deity of Gopinatha on the
 bank of the Yamuna, at Vamshivata. And Hridayananda, whom Gadadhara loved as his own life, he gave to Gauridasa Pandita.
@@ -498,13 +499,12 @@ entered into him, as is said in the ‘Gaura-chandrodaya.’” (GGD 147–150) 
 
 She who in Krishna-lila was the daughter of Vrishabhanu, Srimati Radharani, became Gadadhara in Gaura-lila; this is
 confirmed by the notes of Svarupa Damodara and the songs of Vasudeva Ghosha. That is why Pundarika, Vrishabhanu, is his
-guru and the Lord's “father” in the mood of Radha; that is why the Lord said that in Vaikuntha Gadadhara is His consort, and in
-Navadvipa he and Gaura are what Radha and Krishna are in Vrindavana. One biography calls Gadadhara the embodiment of
-hladini, the Lord's pleasure energy. Kavi Karnapura in the “Gaura-ganoddesha” shows the distinction between the two
-Gadadharas: Gadadhara Pandita is the form of Sri Radhika (GGD 153), the very form (svarupa) of the daughter of
-Vrishabhanu, while Gadadhara Dasa is Chandrakanti, “a manifestation of Radha's glory” (GGD 154), the radiance of Her
-body; so too teaches Srila Bhaktisiddhanta: Gadadhara Pandita is Radha Herself, Gadadhara Dasa Her
-bodily effulgence. <!-- F105 F107 F103 -->
+guru and the Lord's “father” in the mood of Radha; that is why the Lord said that in Vaikuntha Gadadhara is His consort,
+and in Navadvipa he and Gaura are what Radha and Krishna are in Vrindavana. One biography calls Gadadhara the embodiment
+of hladini, the Lord's pleasure energy. Kavi Karnapura in the “Gaura-ganoddesha” shows the distinction between the two
+Gadadharas: Gadadhara Pandita is the form of Sri Radhika (GGD 153), the svarupa of the daughter of Vrishabhanu, while
+Gadadhara Dasa is Chandrakanti, “a manifestation of Radha's glory” (GGD 154), the radiance of Her body; so too teaches
+Srila Bhaktisiddhanta: Gadadhara Pandita is Radha Herself, Gadadhara Dasa Her bodily effulgence. <!-- F105 F107 F103 -->
 
 All this is a transcendental mystery, and it must be understood as Bhaktisiddhanta teaches. Gaura is Krishna Himself,
 Who has taken the mood and radiance of Radha, and Gadadhara is Radha serving Him in the form of a devotee-brahmana. Their
