@@ -22,7 +22,7 @@ life:
     place: "#vrindavana"
     conf: "год — кадача (B), M; T — 1579 или 1580; титхи — навадвипская панджика (B) и наш календарь (общий день с Рагхунатхой Дасом и Кришнадасом Кавираджем, ср. B 504); кадача даёт джьештха шукла-дашами, что Бхактивинода счёл противоречащим альманаху"
     facts: [F29, F31, F32, F76]
-  samadhi: [{place: "#vrindavana", facts: [F77], note: "Только T по «Бхакти-ратнакаре»; точное место не названо."}]
+  samadhi: [{place: "#vrindavana", facts: [F77], note: "T по «Бхакти-ратнакаре»; БР 6.452–457 (по бенгальскому): во Вриндаване, Шриниваса прощается с ним между самадхи Кашишвары и храмом Говинды."}]
 origin:
   places: ["#east-bengal", "#padmavati", "#kashi"]
   family: ["@tapana-mishra"]
@@ -33,8 +33,8 @@ relations:
   - {type: father, who: "@tapana-mishra", facts: [F9, F10, F11, F12, F13, F15, F16, F17, F18, F24, F25, F54], events: [ev-tapana-mishra-east-bengal, ev-kashi-tapana-mishra]}
   - {type: companion, who: "@mahaprabhu", facts: [F19, F22, F23, F24, F36, F39, F42, F43, F47, F48, F49, F56, F57, F58, F59], events: [ev-kashi-tapana-mishra, ev-raghunatha-bhatta-first-visit-puri, ev-raghunatha-bhatta-sent-vrindavana],
      note: "Мальчиком служил Ему в Каши; дважды по восемь месяцев в Пури; наставления (не жениться, служить родителям, изучать «Бхагавату»), посылка во Вриндаван, «передача силы» (песня Радхаваллабхи), гирлянда и бетель-прасад. Дикша-гуру книги не называют."}
-  - {type: siksha-guru, who: "@rupa-gosvami", facts: [F6, F26, F48, F56, F61, F62, F63, F73], events: [ev-gopala-mathura-vitthaleshvara], note: "Жил под его прибежищем, читал «Бхагавату» в его собрании; в его свите в Матхуре; B: неотличен от Рупы, венец рупануг."}
-  - {type: siksha-guru, who: "@sanatana-gosvami", facts: [F56, F61, F63]}
+  - {type: siksha-guru, who: "@rupa-gosvami", facts: [F6, F26, F48, F56, F61, F62, F63, F73, F81], events: [ev-gopala-mathura-vitthaleshvara], note: "Жил под его прибежищем, читал «Бхагавату» в его собрании; в его свите в Матхуре; B: неотличен от Рупы, венец рупануг."}
+  - {type: siksha-guru, who: "@sanatana-gosvami", facts: [F56, F61, F63, F81]}
   - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F5, F32, Q14], note: "Один из шести шикша-гуру Кавираджа (ЧЧ Ади 1.36–37)."}
   - {type: companion, who: "@raghunatha-dasa", facts: [F5, F7, F32, F46, I1], note: "Двое Рагхунатх Госвами; общий день ухода (наш календарь, B 504); B сопоставляет наставления Господа им обоим."}
   - {type: companion, who: "@gopala-bhatta", facts: [F5, F7, F8, F62, F78], event: ev-vrindavana-two-teachers-rule}
@@ -51,7 +51,7 @@ relations:
   - {type: other, who: "@shrinathji-deity", facts: [F73], note: "Гопала-дева, увиденный в Матхуре со свитой Рупы."}
   - {type: other, who: "@balabhadra-bhattacharya", facts: [F21], note: "Готовил для Господа в доме Тапаны (M)."}
   - {type: other, who: "@kashishvara", facts: [F76], event: ev-rupa-sanatana-departure, note: "Скрылись до прихода Шринивасы (вместе с Рупой и Санатаной)."}
-  - {type: other, who: "@srinivasa-acharya", facts: [F76, F77], event: ev-srinivasa-arrives-vrindavana, note: "Пришёл во Врадж уже после его ухода; у его самадхи (T по БР)."}
+  - {type: other, who: "@srinivasa-acharya", facts: [F76, F77], event: ev-srinivasa-arrives-vrindavana, note: "Пришёл во Врадж уже после его ухода; уходя в Гауду, прощался с его самадхи и славил его (БР 6.452–457; T — славу слышал)."}
   - {type: other, who: "@narottama-dasa", facts: [F78]}
   - {type: other, who: "@lokanatha", facts: [F73, F80], event: ev-lokanatha-life-vrindavana}
   - {type: other, who: "@bhugarbha", facts: [F73, F75, F78]}
@@ -102,8 +102,8 @@ significance: {facts: [F1, F5, F6, F75, I1, I2, I3, I4, I5, I6]}
 sources:
   T: "172–174 (глава); 110, 137, 160–161, 170, 184, 205, 210"
   M: "146–153 (глава); pdf 19, 111, 217, 311"
-  B: "493–506 (глава); 50, 267–268, 320, 329, 331, 460, 624, 633, 664, 683"
-  other: ["ЧЧ Ади 1.36–37, 10.152–158; Мадхья 17.90–91, 18.50, 22.135; Антья 12, 13.89–135, 19.14", "ЧБ Ади 14.132–147", "Мурари, «Кадача» 4.1.14–17", "ГГД 185", "«Бхакти-ратнакара» (по T)", "«Према-виласа» (по B — о Тапане)", "песня Радхаваллабхи (B 505–506)", "кадача из собрания Бхактивиноды (по B)", "«Анубхашья» Бхактисиддханты"]
+  B: "493–506 (глава); 50, 267–268, 320, 329, 331, 460, 461, 624, 633, 664, 683"
+  other: ["ЧЧ Ади 1.36–37, 10.152–158; Мадхья 17.90–91, 18.49, 22.135; Антья 12, 13.89–135, 19.14", "ЧБ Ади 14.132–147", "Мурари, «Кадача» 4.1.14–17", "ГГД 185", "«Бхакти-ратнакара» 2.404–437, 6.452–457 (по бенгальскому; у T 6.452–457 без номера)", "«Према-виласа» (по B — о Тапане)", "песня Радхаваллабхи (B 505–506)", "кадача из собрания Бхактивиноды (по B)", "«Анубхашья» Бхактисиддханты"]
 article: {ru: "parshadas/ru/raghunatha-bhatta.md", en: "parshadas/en/raghunatha-bhatta.md"}
 open_questions:
   - "Год явления: 1505 (кадача, M), около 1503 (T), около 1425 Шака (Бхактисиддханта) (F29, F30)."
