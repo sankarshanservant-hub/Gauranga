@@ -184,8 +184,8 @@ Not everyone was pleased. A babaji, Raghunatha Dasa of the Hati-akhra, objected 
 Lord Jagannatha told him in a dream to go to Bhaktivinoda and beg forgiveness, and when he had done so he recovered. In
 Jagannatha's temple Bhaktivinoda would not sit in the Mukti-mandapa, where the mayavadis debated, but spoke near the
 temple of Lakshmi, where the footprints of Mahaprabhu are kept. His talks drew many mayavadis too, and the place came to
-be called the Bhakti-mandapa — the Bhakti-prangana. He often visited the siddha Vaishnava Svarupa Dasa Babaji,
-discussing the shastras with him. <!-- F61 F62 F64 -->
+be called the Bhakti-mandapa — the Bhakti-prangana. He also kept company with the siddha Vaishnava Svarupa Dasa
+Babaji, discussing the shastras with him. <!-- F61 F62 F64 -->
 
 The family lived near Grand Road, beside Narayana-chhata, not far from the temple, in a house on land that a wealthy
 family leased from the Dakshina-parshva Math. In 1974 Srila Bhakti Dayita Madhava Gosvami Maharaja recovered this house,
@@ -200,7 +200,7 @@ Jagannatha; the child's first solid food was maha-prasada[^6]. <!-- F67 F144 F18
 
 Six months later, at the Ratha-yatra, Lord Jagannatha's chariot by His will stopped before Bhaktivinoda's house at
 Narayana-chhata and stood there three days; for all three days, at the Thakura's direction, kirtana never ceased.
-Bhagavati Devi held the baby up to the chariot, and, stretching out his little hand, he touched Jagannatha's feet and
+Bhagavati Devi, the baby in her arms, went up onto the chariot, and, stretching out his little hand, he touched Jagannatha's feet and
 received His garland; the pandas foretold a great future for the boy. As he grew, he listened attentively to the
 "Bhagavata" from his father's lips[^7]. <!-- F145 F181 -->
 
@@ -686,8 +686,8 @@ pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
     shoulder; in some the annaprashana was performed with Jagannatha's prasada, in others with the prasada of Vimala
     Devi, whence the child's name. By the Bengali calendar — 25 Magha 1280 (1795 of the Shaka era).
 [^7]: In one account the chariot stood before the house for three days and the baby took the Lord's garland himself;
-    in another, while the chariot stood on the Bada-danda, Bhagavati Devi at the Thakura's direction held her son up to
-    it, he stretched his hand towards Jagannatha's feet, and the garland fell of itself upon his head.
+    in another, while the chariot stood on the Bada-danda, Bhagavati Devi at the Thakura's direction went up onto it with
+    her son, he stretched his hand towards Jagannatha's feet, and the garland fell of itself upon his head.
 [^8]: So according to most of the biographies; according to one, the first meeting took place in Vrindavana during the
     journeys begun in 1877, without an exact year.
 [^9]: The year and address are given differently: in one account the house was begun in 1882 at 181 Maniktola Street;
