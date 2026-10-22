@@ -21564,6 +21564,11 @@
    },
    {
     "type": "other",
+    "who": "@virabhadra",
+    "note": "M pdf 22: вместе с сыном Канаи принял и обнял Вирачандру в Шрикханде; ⚠ по БР 13 Вирачандру там принял Канаи уже после ухода Рагхунанданы."
+   },
+   {
+    "type": "other",
     "who": "@uddhava-dasa-padakarta",
     "note": "Пады о ладду Гопинатхе и о встрече с Абхирамой."
    },
@@ -28886,6 +28891,10 @@
    {
     "from": "@nityananda",
     "type": "son"
+   },
+   {
+    "from": "@raghunandana",
+    "type": "other"
    },
    {
     "from": "@rasikananda",
