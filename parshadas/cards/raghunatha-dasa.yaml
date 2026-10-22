@@ -28,14 +28,14 @@ origin:
   family: ["@govardhana-majumdar", "@hiranya-majumdar", "@kalidasa"]
   varna: "каястха (род землевладельцев-Маджумдаров)"
   facts: [F7, F8, F9, F10, F85, F86, F87, F89, F121]
-  note: "Сын Говардханы, племянник Хираньи (у Хираньи сыновей не было, T); мать по имени не известна; жена — красавица (имени нет). Годы в Нилачале: 8 (B) ≠ 16 (T) (F3–F5, F110)."
+  note: "Сын Говардханы, племянник Хираньи (у Хираньи сыновей не было, T); мать по имени не известна; жена — красавица (имени нет). Годы в Нилачале: 16 (ЧЧ Ади 10.93; T) — принято; 8 — поздние списки (B) (F3–F5, F110)."
 relations:
   - {type: father, who: "@govardhana-majumdar", facts: [F7, F11, F85, F91, F92, F94, F99, F104], events: [ev-raghunatha-dasa-saptagrama-arrest, ev-raghunatha-dasa-escape]}
   - {type: uncle, who: "@hiranya-majumdar", facts: [F8, F10, F11, F85, F93], event: ev-raghunatha-dasa-saptagrama-arrest}
   - {type: relative, who: "@kalidasa", facts: [F86, F87], note: "Дядя по роду (дальний дядя); жил в Шанкханагаре (T) / Бхеде (T 80–81)."}
   - {type: guru, who: "@yadunandana-acharya", facts: [F2, F13, F39, F86, F98], note: "Дикша-гуру; жрец семьи, ученик Адвайты, облагодетельствованный Васудевой Даттой; его поручение стало поводом к побегу."}
   - {type: siksha-guru, who: "@svarupa-damodara", facts: [F2, F15, F39, F102, F103, F108, F110, F122], events: [ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-svarupa-teaches-raghunatha-piriti, ev-raghunatha-rotten-rice], note: "«Сварупов Рагху»: Господь вручил его Сварупе как сына и слугу и велел учиться у него; хранитель его кадчи."}
-  - {type: companion, who: "@mahaprabhu", facts: [F15, F28, F39, F73, F90, F92, F100, F101, F102, F104, F105, F106, F108, F109], events: [ev-raghunatha-dasa-shantipura, ev-panihati-chida-dadhi, ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-raghunatha-stops-invitations, ev-govardhana-shila-gunja-gift, ev-raghunatha-rotten-rice], note: "Шантипур; Пури — 8 (B) или 16 (T) лет; дар камня Говардханы и гирлянды гунджи."}
+  - {type: companion, who: "@mahaprabhu", facts: [F15, F28, F39, F73, F90, F92, F100, F101, F102, F104, F105, F106, F108, F109], events: [ev-raghunatha-dasa-shantipura, ev-panihati-chida-dadhi, ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-raghunatha-stops-invitations, ev-govardhana-shila-gunja-gift, ev-raghunatha-rotten-rice], note: "Шантипур; Пури — 16 лет (ЧЧ Ади 10.93; 8 — поздние списки B); дар камня Говардханы и гирлянды гунджи."}
   - {type: siksha-guru, who: "@rupa-gosvami", facts: [F16, F21, F29, F47, F57, F58, F59, F62, F63, F65, F74, F76, F77, F110, F116, F136], event: ev-raghunatha-dasa-radha-kunda, note: "Удержал от самоубийства у Говардханы, принял «третьим братом»; рупанугой Рагхунатха называет себя во всех книгах; плач о нём — «Прартханашрая-чатурдашака»."}
   - {type: siksha-guru, who: "@sanatana-gosvami", facts: [F16, F21, F39, F74, F76, F79, F110, F117, F130, F133], event: ev-raghunatha-dasa-radha-kunda, note: "«Напоил меня, не желавшего, бхакти с отречением» (Вилапа-кусуманджали); велел построить хижину (тигр)."}
   - {type: other, who: "@nityananda", facts: [F15, F24, F95, F96, F97], event: ev-panihati-chida-dadhi, note: "Панихати: праздник чида-дадхи по Его велению; благословение. ЧБ о нём молчит, Рагхунатха Нитьянанду в «Стававали» не называет (F24)."}
@@ -51,8 +51,8 @@ relations:
   - {type: other, who: "@shankarananda-sarasvati", facts: [F106], note: "Принёс Господу камень Говардханы и гунджу."}
   - {type: other, who: "@ramachandra-khan", facts: [F88]}
   - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F17, F28, F65, F120, F122, F123], note: "Кавирадж принял его своим гуру и писал ЧЧ с его слов; «Мукта-чарита» — силой общения с ним; по «Према-виласе» — дал ему дикшу (T); ушёл в тот же титхи."}
-  - {type: companion, who: "@jiva-gosvami", facts: [F65, F76, F124, F126, F136], note: "«Мукта-чарита» написана по желанию Дживы; к Дживе — великая нежность."}
-  - {type: companion, who: "@gopala-bhatta", facts: [F117, F126, F133], note: "Жил у него у Манаси-ганги; «два друга-помощника» Санатаны; ХБВ 1.2 — на радость Рагхунатхе Дасу."}
+  - {type: companion, who: "@jiva-gosvami", facts: [F65, F76, F124, F126, F136, F137, F138], note: "«Мукта-чарита» написана по желанию Дживы; к Дживе — великая нежность; Джива в «Гопала-чампу» зовёт его «высшим другом»."}
+  - {type: companion, who: "@gopala-bhatta", facts: [F117, F126, F133, F139], note: "Жил у него у Манаси-ганги; «два друга-помощника» Санатаны; ХБВ 1.2 — на радость Рагхунатхе Дасу."}
   - {type: companion, who: "@raghunatha-bhatta", facts: [F6, F76, F102], note: "Дорог «двум Бхаттам»; общий день ухода."}
   - {type: other, who: "@srinivasa-acharya", facts: [F112, F124], events: [ev-srinivasa-arrives-vrindavana]}
   - {type: other, who: "@narottama-dasa", facts: [F126, F128]}
@@ -66,7 +66,7 @@ relations:
   - {type: other, who: "@radhavallabha-dasa-poet", facts: [F71, F81], note: "Песня о его жизни (B 655–658)."}
   - {type: other, who: "@gaurakishora-dasa-babaji", facts: [F70, F135], note: "Пел песню о нём; отрешением подобен ему."}
   - {type: other, who: "@bhaktivinoda", facts: [F3, F31, F46, F122]}
-  - {type: other, who: "@bhaktisiddhanta", facts: [F135, I5, I6, I7, I8]}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F135, F141, I5, I6, I7, I8]}
   - {type: other, who: "@banamali-lal-gosvami", facts: [F4]}
   - {type: deity-served, who: "@radha", facts: [F15, F35, F43, F44, F45, F57, F73, F82, F106], event: ev-govardhana-shila-gunja-gift, note: "Гирлянда гунджи от Господа — как Вришабхану-нандини; вечный слуга Радхи."}
   - {type: deity-served, who: "@krishna", facts: [F15, F73, F106], event: ev-govardhana-shila-gunja-gift, note: "Камень Говардханы — как Гиридхари; ныне в храме Гокулананды на Радха-кунде (T; B 972)."}
@@ -131,7 +131,8 @@ sources:
 article: {ru: "parshadas/ru/raghunatha-dasa.md", en: "parshadas/en/raghunatha-dasa.md"}
 open_questions:
   - "Год явления: 1507 (B, 1428 Шака) или около 1494 (T) (F6, F84); год ухода: 1582 (B) или 1586 (T) (F3, F120)."
-  - "Сколько лет в Пури: 8 (B, три списка) или 16 (T) (F3–F5, F110)."
+  - "Сколько лет в Пури — решено (2026-10-22): 16 (ЧЧ Ади 10.93; T); 8 трёх поздних списков (B) — в сноске (F3–F5, F110)."
+  - "Где тигр подошёл к нему в бхаджане: T — у Манаси-ганги на Говардхане (жил у Гопалы Бхатты); БР 5.554–562 — у Манаса-павана-гхата (Радха-кунда) (F117)."
   - "Годовой доход семьи: 12 лакхов оброка (B) / 8 лакхов (T 181) / 20 лакхов (T 182) (F8, F89)."
   - "Как Господь звал отца и дядю: «аджа» (B) или они звали Ниламбару «дада» (T) (F10, F101)."
   - "Авторство стихов «Падьявали» 212 и 331 (F68); «Гуна-леша-сукхада» (F66)."
