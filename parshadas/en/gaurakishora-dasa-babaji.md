@@ -18,9 +18,11 @@ associates and a great bhagavata. Like Narada and other great teachers, he poure
 at times in the guise of a curse, of restraint and of punishment. <!-- F2 F3 -->
 
 A pranama-mantra glorifies him thus: "I bow to the lotus feet of Gaurakishora — renunciation embodied, an ocean of
-the rasa of separation." And in one verse Srila Bhaktivinoda is called the goal (prayojana), Srila Bhaktisiddhanta
-the means (abhidheya), and Srila Gaurakishora the foundation, the relationship with the Lord (sambandha); the verse
-plays on words: "relationship with Gaurakishora" is also relationship with the youthful Gaura. <!-- F4 Q1 F7 -->
+the rasa of separation." And Srila B. R. Sridhar Maharaj, in his hymn "Sri Bhaktivinoda-dashakam," calls Srila
+Bhaktivinoda the goal (prayojana), Srila Bhaktisiddhanta the means (abhidheya), and Srila Gaurakishora the foundation,
+the relationship with the Lord (sambandha); the verse plays on words: "relationship with Gaurakishora" is also
+relationship with the youthful Gaura. In another verse of the same hymn he says that Srila Bhaktivinoda is in his very
+essence non-different from Srila Gaurakishora. <!-- F4 Q1 F7 F69 -->
 
 ## Family and leaving home
 He was born around the middle of the nineteenth century into a vaishya family in the village of Bagayan on the bank
@@ -33,7 +35,7 @@ In Vrindavana he accepted the dress of a paramahamsa — the babaji-vesha — fr
 of Srila Jagannatha Dasa Babaji, and with it the name Gaurakishora Dasa. For thirty years he lived in the land of Vraja
 in austere bhajana. At times he left Vraja and wandered through North India and Bengal; in the east he met the
 foremost Vaishnavas of Bengal and Orissa — Svarupa Dasa Babaji of Puri, Bhagavan Dasa Babaji of Kalna and Chaitanya
-Dasa Babaji of Kulia. <!-- F13 F14 -->
+Dasa Babaji of Kulia. <!-- F13 F14 F67 -->
 
 ## In Navadvipa
 In 1893, when the Yogapitha in Mayapur — the Lord's birthplace — was consecrated[^1], Srila Jagannatha Dasa Babaji told
@@ -103,7 +105,7 @@ Lokanatha's only disciple, Narottama, a great community grew, so from Srila Bhak
 the Gaudiya Maths. The mark of true discipleship, this story teaches, is unshakable resolve and devotion to the guru.
 <!-- F29 F30 F31 I5 -->
 
-He never allowed worldly people to touch his feet; if anyone did, he would cry out angrily, "You are ruined!" — and so
+He never allowed worldly people to touch his feet; if anyone did, he would show anger and cry out, "You are ruined!" — and so
 almost everyone was rather afraid of him. Yet out of great love he himself sprinkled the dust of his feet on his
 beloved disciple's head and rubbed it over his whole body. Finding him fully worthy, he blessed him and told him to
 preach Mahaprabhu's message throughout the world. Many years later Srila Bhaktisiddhanta recalled his guru's
@@ -152,11 +154,11 @@ fancying himself his favourite; he did not drive them away openly, but neither d
 accepted them, we would rejoice to see transcendental bhagavata-dharma in them; had they received the "mercy without
 deceit" of which Vrindavana Dasa writes, it would have been their true good: the bonds of the world would have broken
 and they would have attained love for Krishna. "My Prabhu was no cheat, like many in the dress of sadhus," wrote Srila
-Bhaktisiddhanta. "Complete sincerity was truth itself for him, and his love was incomparable." Many — the
+Bhaktisiddhanta. "Complete sincerity was truth itself for him, and his love was incomparable; it showed that the attainment of wondrous powers (siddhis) is mere deception." Many — the
 inexperienced and the seasoned, the learned and the ignorant, and those who fancied themselves devotees — saw him,
 yet could not truly see him: such is the divine power (aishi-shakti) of Krishna's devotee. A Vaishnava answers each
 according to his disposition: whoever comes with a worldly desire receives advice to his taste — and so remains
-deceived. <!-- F43 F44 I4 -->
+deceived. <!-- F43 F71 F44 I4 -->
 
 ## Instructions
 Once the followers of a certain babaji began praising their guru in his presence: "How merciful he is — he travels
@@ -236,14 +238,20 @@ for service to You let my taste be, truly my taste." <!-- F5 Q2 F6 Q3 Q4 Q5 -->
 In 1918 Srila Bhaktisiddhanta accepted sannyasa — among other reasons, to show the transcendental nature of the
 paramahamsa's dress worn by his gurus: Jagannatha Dasa Babaji, Bhaktivinoda and Gaurakishora. And Srila Bhakti Dayita
 Madhava Gosvami Maharaja, a disciple of Srila Bhaktisiddhanta, called Srila Gaurakishora his parameshthi-guru — his
-guru's guru — and the embodiment of utmost renunciation. <!-- F8 F9 -->
+guru's guru — and the embodiment of utmost renunciation.
+
+When in 1922 in Vrindavana Pandit Ramakrishna Dasa Babaji maintained that the Holy Name stands on a level with any other
+practice of bhakti, Srila Bhaktisiddhanta answered him according to the teaching of the Gosvamis as unfolded by
+Vishvanatha Chakravarti, Baladeva, Jagannatha Dasa Babaji and Gaurakishora Dasa Babaji: chanting the Holy Name is both
+the chief practice and its very goal; remembrance of the Lord and His pastimes comes of itself to one who chants the
+Name. <!-- F8 F9 F68 -->
 
 ## Departure
 Srila Gaurakishora Dasa Babaji entered the eternal pastimes in 1915, on Utthana Ekadashi (the Gaura Ekadashi of the
 month of Damodara), at the Ranir Dharmashala in Kulia — ancient Koladvipa[^4]. Many years later Srila Bhaktisiddhanta
 left the world at the same hour of the day as his guru — at the end of night, when the eternal daily pastimes begin.
-And on the lunar day of Srila Gaurakishora's departure, in 1904, Srila Bhakti Dayita Madhava Gosvami Maharaja had
-appeared. <!-- F54 F55 -->
+And on Utthana Ekadashi of 1904 — the very lunar day on which Srila Gaurakishora would later depart — Srila Bhakti
+Dayita Madhava Gosvami Maharaja appeared. <!-- F54 F55 -->
 
 On receiving the news, Srila Bhaktisiddhanta, stricken with the pain of separation, hurried to Kulia. There the
 mahants of various akharas were already quarrelling over where and how to bury the body: each wanted the future
@@ -297,9 +305,12 @@ Vaishnavas and brahmanas, for your mantra, for the Holy Name, and for the shelte
 of Vraja." <!-- F65 Q11 -->
 
 To this day in Srila Bhaktisiddhanta's line Utthana Ekadashi is honoured as the day of worship of Srila Gaurakishora
-Dasa Babaji Maharaja; Srila Bhakti Dayita Madhava Gosvami Maharaja spoke of this in a lecture on 12 November 1967.
+Dasa Babaji Maharaja; Srila Bhakti Dayita Madhava Gosvami Maharaja spoke of this in a lecture on 12 November 1967. Of Babaji
+Maharaja's deeds and teachings, he reminded his hearers, they had heard much from the venerable Srila Bhakti Pramoda
+Puri Maharaja; and, uttering his name, he begged the blessings of Babaji Maharaja and of his own guru, "non-different
+from him."
 Srila Bhaktisiddhanta's disciples offered even their writings about him as an offering on the day of separation from
-Gaurakishora Prabhu. <!-- F66 -->
+Gaurakishora Prabhu. <!-- F66 F70 -->
 
 [^1]: The festival in Mayapur is dated 20 Phalguna 1299 of the Bengali era, which corresponds to March 1893; one of the
     biographies gives the year 1892 with the same date.
