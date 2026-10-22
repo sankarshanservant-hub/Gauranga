@@ -15,7 +15,7 @@
 - **Подборка без ИИ** (главы целиком + упоминания вне глав, абзац с именем и соседние):
   `python3 parshadas/tools/bundle.py <tmp>/bundle.md --ocr /home/user/gauranga-private/ocr --T '<regex>' --M '<regex>'
   --B '<бенг. regex>' --T-chapter a-b --M-chapter a-b --B-chapter a-b` (главу B в бандле можно не читать — она в
-  переводе). Regex — с вариантами написания; отличать тёзок.
+  переводе). Regex — с вариантами написания (необязательные гласные: `Jah?an?a?va`; sh/s, v/b; без диакритики), затем контрольный `grep -i` по OCR; отличать тёзок.
 - Сведения о лице в готовых реестрах других лиц (`parshadas/facts/*.md`) — сверить и ссылаться («см. @тег F…»).
 - Цитаты ЧЧ/ЧБ — `python3 parshadas/tools/verse.py "CC Madhya 1.1" "CB Adi 1.1"` (в переводе B они даны ссылкой и
   первыми/последними словами — проверять, верна ли ссылка автора). События — `lila-db/events*.yaml`, `python3 lila-db/query.py`.
