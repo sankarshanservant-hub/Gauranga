@@ -25,11 +25,12 @@ At first the brothers lived in Shrihatta; later, seeking the company of devotees
 Navadvipa. <!-- F3 F4 F9 Q18 -->
 
 Srivasa built a house by the Ganga, not far from the house of Jagannatha Mishra in Navadvipa-Mayapur. His wife's name
-was Malini Devi. With them lived Narayani, the daughter of one of Srivasa's brothers.[^2] Widowed before her son was
-born, she left the home of her husband, Vaikuntha Dasa Vipra, in Kumarahatta (Halisahar) and settled with Srivasa in
-Navadvipa. Here her son grew up — born in 1507, the future Vrindavana Dasa Thakura, author of the
-“Chaitanya-bhagavata” — and here from childhood he received the Lord's special mercy.[^3] Srivasa himself had a son, an
-only son, who died as a child; of him we shall speak below.[^4] <!-- F6 F7 F8 F10 F12 F134 Q21 -->
+was Malini Devi. With them lived Narayani, the daughter of one of Srivasa's brothers,[^2] the mother of Vrindavana Dasa
+Thakura, author of the “Chaitanya-bhagavata.” Her husband, Vaikuntha Dasa Vipra, died while she was carrying her son;
+Vrindavana Dasa was born in 1507. Part of his childhood he spent in Mamgachhi, on Modadruma-dvipa of Navadvipa, by the
+Bhagirathi — in the parental home of Malini Devi, to which Malini herself returned in her old age; there his Deities,
+Gaura-Nitai, are served to this day, and the place of his childhood play is shown.[^3] Srivasa himself had a son, an
+only son, who died as a child; of him we shall speak below.[^4] <!-- F6 F7 F8 F10 F12 F134 Q21 F142 -->
 
 The brothers, their servants and all their household gave themselves forever to the feet of Mahaprabhu. Gaurasundara was
 everything to them, and they knew no other gods:
@@ -114,7 +115,7 @@ Srivasa understood at once that this was no illness but transcendental mahabhava
 fulfilled. He comforted Shachi and asked her to tell no one what great love had manifested in her son. And Nimai asked
 him: “Everyone says My humours are disordered. What do you think?” Srivasa laughed: “I would wish such a disorder for
 myself! Strong feelings of devotion have awakened in You — this is Krishna's mercy.” The Lord embraced him: “Had you too
-said that I was mad, I would have drowned Myself in the Ganga” (CB, Madhya 2.113–117). <!-- F28 Q6 -->
+said that I was ill, I would have drowned Myself in the Ganga this very day” (CB, Madhya 2.113–117). <!-- F28 Q6 -->
 
 Now Nimai sang the name loudly day and night in His own house and in Srivasa's. The pashandis complained that they
 could not sleep and reviled the devotees, and Srivasa most of all: “That brahmana Srivasa is behind it all! Four brothers
@@ -147,7 +148,7 @@ sankirtana.” <!-- F33 F127 -->
 Srivasa rose in love, joined his palms and glorified Vishvambhara to his heart's content with the prayer of Brahma from
 the “Bhagavatam.” By one account, he fell prostrate and bowed to Vishvambhara, the son of Shachi, in yellow cloth, with a
 garland of gunja and a peacock feather — “to Nimai, the student of Gangadasa” — and said that now his ancestors were
-delivered and his life fulfilled. The Lord, pleased, wished to show His form to Srivasa's wife, his sons and all his
+delivered and his life fulfilled. The Lord, pleased, wished to show His form to Srivasa's wife, his children and all his
 household, and told him to serve His feet with his wife and ask for blessings. Srivasa and his family worshipped
 Vishvambhara's feet with everything they had prepared for the worship of Vishnu — fragrances, flowers, incense, lamps —
 and surrendered themselves to Him. The whole household received mercy. <!-- F34 F35 F127 -->
@@ -184,7 +185,7 @@ the mood of Balarama and began to roar: “Wine! Wine!” Srivasa replied: “Th
 give it to will receive it.” Nityananda meanwhile was living secretly with Nandana Acharya. Having learned of His coming
 in a dream, Gaura sent Haridasa Thakura and Srivasa to search for Him:
 
-“Go, Haridasa, go, Srivasa Pandita…” (CB, Madhya 3.160)
+“O Haridasa! O Srivasa Pandita! Go and look for anyone who has lately come to the town” (CB, Madhya 3.160)
 
 For three praharas they went round Navadvipa — the homes of Vaishnavas, sannyasis, householders — and did not find the
 newcomer. Then Gaura Himself led everyone to Nandana's and revealed Nityananda to them.[^8] <!-- F40 F119 Q21 -->
@@ -227,9 +228,9 @@ test me so. Nityananda is Your second body. Whoever has worshipped You for even 
 may be. Let Nityananda drink wine, keep company with a woman of another faith, ruin my caste, my life and my wealth — my
 faith in Him will not waver.”[^10] <!-- F48 Q8 -->
 
-Then the Lord, of His own accord, unasked, blessed him: “Even if Lakshmi should go begging from town to town, there will
-be no poverty in your house. Even the cats and dogs of your house will attain firm devotion to Me. Nityananda I entrust
-to you — take care of Him in every way” (CB, Madhya 8.20–22). The occasion of the blessing was Srivasa's devotion to
+Then the Lord, of His own accord, unasked, blessed him: “Sooner will the goddess of fortune, Lakshmi, go begging from
+door to door than you will ever know want of anything. Whoever lives in your house, even a dog or a cat, will attain
+undivided devotion to Me. I entrust Nityananda to you. Take care of all His needs” (CB, Madhya 8.20–22). The occasion of the blessing was Srivasa's devotion to
 Nityananda and his unshakeable faith in Him. <!-- F49 F119 Q8 -->
 
 Once Nityananda, in the mood of a cowherd boy of Vraja, threw off His cloth, tied it on His head and wandered swaying
@@ -711,13 +712,16 @@ attain. <!-- I10 I1 F5 F64 -->
 [^1]: So the “Prema-vilasa” relates: Jaladhara Pandita had five sons, the eldest of whom was Nalina Pandita, and Srivasa
     was the second. All other accounts speak of four brothers — Srivasa, Srirama, Shripati and Shrinidhi.
 [^2]: Whose daughter Narayani was is told differently: by some accounts, the eldest brother's, Nalina Pandita's; by
-    others, simply “one of the brothers'”; the “Chaitanya-bhagavata” calls her the daughter of Srivasa's brother.
-    Vrindavana Dasa himself nowhere says that he is the grandson of Srivasa's brother and that Srivasa is his
+    others, simply “one of the brothers'”; the “Chaitanya-bhagavata” calls her the daughter of Srivasa's brother (Madhya
+    2.321–322). Vrindavana Dasa himself nowhere says that he is the grandson of Srivasa's brother and that Srivasa is his
     great-uncle, so as not to exalt himself. In one place, however, he is called the grandson of Srivasa's sister.
-[^3]: By another account (citing Srila Bhaktisiddhanta's commentary on the “Chaitanya-bhagavata”), as a boy Vrindavana
-    Dasa grew up in the ancestral home of Malini Devi.
-[^4]: Some biographies state plainly that Srivasa had only one son; others, describing his household, mention Srivasa's
-    “wife, sons and servants.”
+[^3]: Where Narayani lived after her marriage and where Vrindavana Dasa was born is told differently. By one account, she
+    lived in her husband's house in Kumarahatta (Halisahar) and, widowed, settled with Srivasa in Navadvipa, where the
+    boy received the Lord's special mercy; by another, she was given in marriage in Mamgachhi, into Malini's family, and
+    there, it is said, Vrindavana Dasa was born; by a third, he was born in Mamgachhi or in Kumarahatta. That as a boy he
+    grew up in the ancestral home of Malini Devi is also said in Srila Bhaktisiddhanta's commentary on the
+    “Chaitanya-bhagavata.”
+[^4]: That the son was an only son two biographies state plainly; the third calls him simply Srivasa's son.
 [^5]: Our calendar marks the appearance day of Srivasa Pandita on Krishna-ashtami of the month of Vishnu (≈ Chaitra); his
     disappearance day is not in the calendar. One biography names the month of his departure Vamana, another Ashadha;
     these are the same month.
