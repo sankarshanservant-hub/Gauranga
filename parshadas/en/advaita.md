@@ -744,7 +744,8 @@ encouraged the devotees, whom Advaita now led. For Advaita and all Navadvipa a t
 From Puri the Lord set out to travel through South India. When Kala Krishnadasa brought to Bengal the news that He had
 returned, Advaita in jubilation cried out at the top of His voice, sang and danced much (CC, Madhya 10.78–80); one of the
 biographies says that this news as it were brought Shachi, Srivasa, Advaita and Haridasa back to life. The devotees
-gathered in Advaita's house and, with Shachi's permission, set out for Puri (Madhya 10.85–88). Devotees from Shrikhanda
+gathered in Advaita's house and then, having received Shachi's permission in Navadvipa, set out for Puri (Madhya
+10.85–88). Devotees from Shrikhanda
 came to Advaita's house as well, to travel together:
 
 “Mukunda, Narahari and Raghunandana from Khanda also came to the Acharya's house, to go with Him to Jagannatha Puri.”

@@ -117,7 +117,7 @@ B — вероятно, больше сотни).
 | @bhaktivinoda (026) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vamshidasa-babaji (027) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @ishvara-puri (029) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @advaita (030) | ✓ | ✓ (PDF) | — |
+| @advaita (030) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @chandrashekhara-acharya (031) | ✓ | ✓ (PDF) | — |
 | @gangadasa-pandita (032) | ✓ | ✓ (PDF) | — |
 | @pundarika-vidyanidhi (033) | ✓ | ✓ (PDF) | — |
