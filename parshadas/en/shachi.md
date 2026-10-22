@@ -333,34 +333,119 @@ Ranga Puri added that one of her worthy sons, Shankararanya, had attained perfec
 overcome by separation, replied that before taking sannyasa Shankararanya had been His brother, and Jagannatha Mishra
 His father (CC, Madhya 9.299–301).[^7] <!-- F4 F23 F24 -->
 
+## Learning
+Nimai learned with astonishing speed, and all Navadvipa vied in praising Him. Shachi heard this praise with joy, but
+Jagannatha grew gloomy: “Vishvarupa studied the scriptures, understood that the world is transient — and left. If
+Vishvambhara becomes learned, He too will leave home. Better that He remain unlettered but live with us.” Shachi
+objected:
+
+“‘But how then will He be able to make a living? And who will give his daughter in marriage to an ignoramus?’” (CB,
+Adi 7.128)
+
+Jagannatha replied that it is Krishna who feeds everyone, not learning, and insisted: the boy was forbidden to go to
+school (CB, Adi 7.121–148).[^8] Lochana Dasa has another story too: when the father, angered by Nimai's pranks, took a
+switch in his hand, Shachi seized his arm, shielded her son with her body and hid Him in her lap:
+
+“‘Do not beat my son — He is dying of fright!’” (CM, Adi-khanda, part 6, v. 492) <!-- F134 F19 F190 -->
+
+Left without schooling, the Boy grew more mischievous than ever and one day sat down on a heap of discarded pots in
+which food had been cooked. His friends ran to Shachi, and she cried out: “Nimai, Nimai, what are You doing? One who
+touches these pots must bathe!” And He, like the sage Dattatreya, answered her from the top of this mound: I, an
+ignoramus, cannot tell good from bad; where I am, nothing is impure — the Ganga and all holy places come there; pots in
+which food was cooked for Vishnu cannot be defiled, and worldly notions of purity are mere figments of the imagination
+(CB, Adi 7.166–179; cf. CC, Adi 14.73–75; “Kadacha” 1.6.13–17). People laughed, and His mother pleaded:
+
+“Shachimata said: ‘Come down and go and bathe.’ But the Lord did not move and went on sitting. ‘Nimai!’ said
+Shachimata. ‘Go quickly, before your father finds out about Your pranks!’” (CB, Adi 7.181–182)
+<!-- F18 F135 F175 F203 F77 -->
+
+“I will not come down until you promise that I shall go to school again,” He answered, and the onlookers began to
+reproach Shachi: who had put it into her head to forbid her son to study when he himself wished to? At last Shachi
+pulled Him down from the pots, took Him to the Ganga, bathed Him and bathed herself, and when Jagannatha returned she
+told him everything:
+
+“‘Our son is sad that He is not allowed to study.’” (CB, Adi 7.193)
+
+All the neighbours supported her: “What Krishna wills will happen — let Him study,” and Jagannatha gave way: “As you
+say, so I shall do” (CB, Adi 7.183–197), and Nimai joyfully returned to His studies (7.202). <!-- F19 F135 -->
+
+While still a child, Nimai asked His mother for a gift:
+
+“Once, bowing at His mother's feet, Sri Chaitanya asked her for a single gift. His mother said: ‘I will do whatever You
+ask.’ Then Nimai said: ‘Please, mother, do not eat grain on Ekadashi.’ Shachi said: ‘Your words are true. I promise
+that I will no longer eat grain on Ekadashi.’ From then on she fasted on Ekadashi.” (CC, Adi 15.8–10)
+
+Lochana Dasa says that He said it in a voice deep as thunder, and His mother's heart was filled with shyness, awe and
+love: “I shall keep Your command,” she said softly. Thus, by instructing His mother, the Lord taught everyone.
+<!-- F176 F79 F190 F203 -->
+
+## The Passing of Jagannatha
+One day Jagannatha woke in tears and, bowing his head to the ground, began to pray to Govinda that Nimai might remain at
+home. Astonished, Shachi asked what he was praying for, and he told her his dream: Nimai with a shaven head, in the
+garb of a sannyasi, laughing, weeping and dancing with Krishna's name on His lips; the Vaishnavas, led by Advaita,
+singing around Him; He seated on the throne of Vishnu, Brahma and Shiva glorifying Him; and then He goes to Nilachala,
+and millions of people follow Him. Shachi calmed her husband:
+
+“‘Do not worry,’ said Shachimata, ‘it is only a dream. Nimai will not leave home.’” (CB, Adi 8.106)
+
+She tried to convince him that their son was too attached to His books to leave home, but she could not dispel her
+husband's anxiety (CB, Adi 8.93–108). <!-- F20 F136 -->
+
+Soon Jagannatha left this world. Vrindavana Dasa says of him:
+
+“But only a few days passed, and Jagannatha Mishra, whose body is eternal and transcendental, left this world.” (CB,
+Adi 8.109)
+
+Lochana Dasa describes his last hours: when the fever began and Shachi wept, the Lord began to explain the truth to
+her — death is certain for all, even for Brahma and Rudra, time destroys Indra, Varuna and Agni — and told her to call
+the relatives so that all together might help His father remember Krishna's name. Mother and son carried Jagannatha to
+the bank of the Ganga, and to the sound of sankirtana he departed for Vaikuntha. Shachi, clasping her husband's feet,
+wept: “I shall go with you! Take me with you!” The Lord grieved bitterly for His father, as Ramachandra did for
+Dasharatha, and then performed the prescribed rites for him (CM, Adi-khanda, part 8, vv. 657–691; CB, Adi 8.110; CC,
+Adi 15.23–24). <!-- F21 F137 F176 F190 -->
+
+Only her love for her son helped Shachi to bear the loss. If she lost sight of Him even for a little while, her eyes
+grew dim, and He never left her side:
+
+“‘Mother, do not grieve so,’ He would say, ‘as long as I am with you, you will want for nothing! Very soon I shall give
+you what is unattainable even for Brahma and Shiva.’ Seeing the beautiful face of Sri Gaurachandra, Shachi forgot not
+only her sufferings but herself.” (CB, Adi 8.117–119)
+
+“Looking at Vishvambhara, you will forget everything,” the women consoled her. And she thought of one thing only: that
+her fatherless son should not fall into despondency; let His heart be immersed in learning — then He will be happy. She
+herself took Him to His teachers and humbly begged: “My son has lost His father — be kind to Him, regard Him as your own
+son”; the pandits, abashed, replied that it was they who would learn from Him (CM, Adi-khanda, part 8, vv. 687,
+694–695; part 9, vv. 697–705). Chandrashekhara Acharyaratna took on the management of the widow's household.
+<!-- F137 F190 F45 -->
+
+They lived in poverty, but Nimai demanded of His mother all that only a King of kings could wish for, and when He did
+not get what He wanted, He grew angry. Once, about to go to the Ganga, He asked for a garland and sandal paste for the
+worship of the Ganga; His mother asked Him to wait a little — and He, flaring up like Rudra, smashed all the pots in the
+house, tore the cloth, broke the doors and began to beat with a stick the walls, the tree in the courtyard and the very
+ground. Shachi hid in a corner in fear: against His mother, says Vrindavana Dasa, He would not have raised His hand even
+in anger. Then He fell down in the courtyard and slept in the dust — He who reclines on Ananta. Shachi made the
+garland, gently brushed the sand from her son and raised Him up: “Get up, my son, go and worship the Ganga. It is good
+that You broke everything — now all misfortunes are behind us.” Abashed, He went silently to the river, while she
+tidied the house and sat down to cook:
+
+“Although the Lord had destroyed everything in the house, there was no anxiety in Shachi's heart. She meekly bore all
+her son's outbursts, just as mother Yashoda bore Krishna's pranks in Gokula. Thus Shachi Devi, the mother of the
+universe, bore all the wilful outbursts of Sri Gauranga.” (CB, Adi 8.160–162)
+
+“Mother Shachi, like mother Earth, patiently endured everything. Body, mind and speech were subject to her will.” (CB,
+Adi 8.164)
+
+In the evening she only asked Him tenderly: “Why did You break so many things? All this is Yours, not mine. What will
+You eat tomorrow?” — and He answered with a smile: “Krishna takes care of everyone” (CB, Adi 8.123–171). <!-- F138 -->
+
+And indeed: returning one day from the Ganga, He called His mother aside and gave her two tolas of gold:
+
+“‘Mother, look what Krishna has given us!’ said Nimai. ‘Go and exchange it for what we need.’” (CB, Adi 8.176)
+
+This happened whenever want came to the house. Shachi marvelled and worried: where did her son get the gold — had He
+borrowed it? — and every time she exchanged it with great misgiving (CB, Adi 8.175–181). <!-- F139 -->
+
 <!-- СМЕНА 4: ниже — старый текст пилота, заменить -->
-
-## Vishvarupa Leaves
-Every noon Shachi would send little Nimai to take lunch to Vishvarupa, who was studying at Advaita's house. Advaita
-would gaze at the beautiful Boy, not yet recognising in Him the One He had been calling with His cries. When Vishvarupa
-turned twelve and His parents began to speak of His marriage, He secretly left home and took sannyasa. Shachi and
-Jagannatha felt the separation bitterly; everyone around grieved too, and Advaita and Sita consoled them and helped
-raise Nimai, repeating that Krishna Himself would soon come. Lochana Dasa also writes of their weeping. <!-- F27 F17 -->
-
-Fearing that learning would take the younger son from home as well, Jagannatha forbade Nimai to study. In reply the
-Boy grew naughtier than ever, and one day He sat down on the rubbish heap where the cooking pots were thrown away.
-Shachi grew angry and told Him again and again to come away, but He answered her like the sage Dattatreya: how can an
-ignorant one tell pure from impure? How can a pot in which food was cooked for Vishnu be defiled? And can any place
-where I am be impure? Worldly notions of purity have no power over devotion. Lochana Dasa adds that He spoke to her of
-the transcendental nature of Krishna, the master of all, and, seeing her bewildered, brought her a coconut. At last
-Shachi dragged her son away by force, bathed Him and bathed herself. Then, together with the neighbours, she prevailed
-on her husband to let Nimai study again, and Jagannatha gave in.[^8] <!-- F18 F77 F19 -->
-
-Whenever Shachi saw how joyfully her son studied, her own joy grew. In those days Ishvara Puri came secretly to
-Navadvipa, and Nimai invited him home. Shachi quickly cooked many wonderful dishes and offered them to the Deity, and
-Nimai served the prasada to the guest. <!-- F68 F26 -->
-
-One night Jagannatha dreamt that Nimai was a sannyasi singing the holy names with devotees. He became convinced that
-his son would leave; Shachi argued that the Boy was far too attached to His books ever to leave home, but she could not
-change her husband's mind. Soon afterwards Jagannatha left the world. Gaurasundara mourned His father as Ramachandra
-mourned Dasharatha, yet found the strength to comfort His mother, speaking to her of how short a man's life is in this
-world, and of other truths. Chandrashekhara Acharyaratna took charge of the widow's household affairs. While still
-living at home, the Lord told His mother not to eat grains on Ekadashi — and so taught everyone. <!-- F20 F21 F45 F79 -->
 
 ## Two Daughters-in-law
 The match with Lakshmipriya, the daughter of Vallabhacharya, began with a refusal. The matchmaker Vanamali Acharya
@@ -607,9 +692,11 @@ arms, asked her for food, and secretly came from Puri to her hearth. <!-- F7 F8 
     “Chaitanya-bhagavata”, it was to call His brother home for the meal (Adi 7.34–40; cf. Madhya 2.22, 22.93).
 [^7]: Shachi is not named in the Lord's reply; one biography writes that He called Jagannatha and Shachi His father
     and mother.
-[^8]: According to one account, both parents interrupted His studies and themselves sent their son back to school after
-    hearing Him speak in the mood of Dattatreya; according to another, the decision was the father's, and he yielded to
-    the entreaties of Shachi and the neighbours.
+[^8]: According to one account, both parents interrupted His studies and themselves sent their son back to school
+    after hearing His words in the spirit of Dattatreya; according to the “Chaitanya-bhagavata”, the ban was imposed by
+    the father against Shachi's objection, and he gave way to her request and the neighbours' persuasion (Adi 7.128,
+    193–197). In Lochana Dasa, on the contrary, Shachi says to her husband: “Let my son be a dunce — as long as He lives
+    a hundred years” (CM, Adi-khanda, part 6, v. 494).
 [^9]: Lochana Dasa in the “Chaitanya-mangala” calls the matchmaker Dvija Kashishvara and the bride the daughter of
     Sanatana Pandita.
 [^10]: One biography names her Lakshmipriya, but at that time, after the Lord's return from Gaya, His wife was Vishnupriya
