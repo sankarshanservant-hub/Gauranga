@@ -15,8 +15,8 @@ quarrels, says Kaviraja, were born only of love — and he promises to tell of i
 <!-- F3 Q2 -->
 
 His name is Sri Jagadananda Pandita. Sanatana Gosvami respectfully calls him “Pandita-mahashaya” (CC, Antya 13.58),
-while the Lord Himself, rebuking him, calls him with affectionate reproach simply “Jaga” — “Jaga, the schoolboy of
-yesterday” (CC, Antya 4.158). Vrindavana dasa Thakura, glorifying Gaurachandra, praises Him as Jagadananda's life:
+while the Lord Himself, rebuking him, calls him with affectionate reproach simply “Jaga” — “Jaga, a mere boy of
+yesterday” (CC, Antya 4.158, 4.167). Vrindavana dasa Thakura, glorifying Gaurachandra, praises Him as Jagadananda's life:
 
 “Glory to Him, the life and soul of Sri Jagadananda and Shrigarbha!” (CB, Madhya 7.3) <!-- F1 F4 Q3 -->
 
