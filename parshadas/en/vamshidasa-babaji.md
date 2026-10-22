@@ -439,7 +439,9 @@ wholly to Gaura-Nitai and Radha-Govinda. <!-- I2 I3 F16 F3 F4 -->
     attachment to the Vaishnavas” are the speech of a paramahamsa's humility, who speaks of himself as a fallen soul;
     they must not be taken literally. According to the chronicle of the “Gaudiya”, he followed in the footsteps of
     Srila Gaurakishora Dasa Babaji; from whom he received initiation and the babaji's dress, the sources do not say.
-[^2]: The story of the unlocked hut is given after Haridasa Dasa's book “Gaudiya-vaishnava-jivana” (vol. 2).
+[^2]: The story of the unlocked hut is given after Haridasa Dasa's book “Gaudiya-vaishnava-jivana” (vol. 2). His
+    reproaches to the Deities, like his jests and complaints to Them, are the speech of love: for him the Deity is the
+    Lord Himself, living and near, not an image.
 [^3]: The offering of tobacco is no example to imitate: for a sadhaka tobacco is an intoxicant renounced in service (as
     Babaji himself taught in Patna: “do not smoke tobacco”). But the service of a paramahamsa who, in spiritual feeling, lives
     beside the Divine Couple of Vraja is not measured by the rules of a sadhaka: so he served Radha and Govinda in his

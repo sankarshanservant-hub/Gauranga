@@ -115,7 +115,7 @@ B — вероятно, больше сотни).
 | @saranga-thakura (025) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @gaurakishora-dasa-babaji (026) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @bhaktivinoda (026) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @vamshidasa-babaji (027) | ✓ | ✓ (PDF) | — |
+| @vamshidasa-babaji (027) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @ishvara-puri (029) | ✓ | ✓ (PDF) | — |
 | @advaita (030) | ✓ | ✓ (PDF) | — |
 | @chandrashekhara-acharya (031) | ✓ | ✓ (PDF) | — |
