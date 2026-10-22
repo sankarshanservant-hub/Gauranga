@@ -7922,7 +7922,11 @@
    {
     "type": "relative",
     "who": "@chandrashekhara-acharya",
-    "note": "Ещё при его жизни с женой помогал в доме; после его ухода принял на себя всю заботу о доме Шачи (F97). Родство (муж сестры Шачи) — по реестру Шачи (@shachi:F46)."
+    "note": "Сосед в Майяпуре (T; ныне Шри Чайтанья Матх, F112). Ещё при его жизни с женой помогал в доме — по T до явления Господа, по B после (F97); после его ухода принял на себя всю заботу о доме Шачи (F97). Родство (муж сестры Шачи) — по реестру Шачи (@shachi:F46)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@chandrashekhara-acharya"
    },
    {
     "type": "friend",
@@ -7944,6 +7948,15 @@
    {
     "type": "neighbor",
     "who": "@ratnavati"
+   },
+   {
+    "type": "patron",
+    "who": "@hiranya-majumdar",
+    "note": "Хиранья и Говардхана из Саптаграмы, почитавшие Ниламбару Чакраварти как старшего брата, прежде много помогали Мишре (B 628, F111)."
+   },
+   {
+    "type": "patron",
+    "who": "@govardhana-majumdar"
    },
    {
     "type": "other",
@@ -16126,6 +16139,10 @@
    {
     "from": "@jagannatha-mishra",
     "type": "relative"
+   },
+   {
+    "from": "@jagannatha-mishra",
+    "type": "neighbor"
    },
    {
     "from": "@nityananda",
@@ -44934,6 +44951,10 @@
   ],
   "related_by": [
    {
+    "from": "@jagannatha-mishra",
+    "type": "patron"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "uncle"
    }
@@ -44966,6 +44987,10 @@
    {
     "from": "@advaita",
     "type": "served-by"
+   },
+   {
+    "from": "@jagannatha-mishra",
+    "type": "patron"
    },
    {
     "from": "@raghunatha-dasa",
