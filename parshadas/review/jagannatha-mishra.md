@@ -74,8 +74,8 @@
 
 ### 7. Карточка
 - Не правилась: новые сведения её не меняют по существу. Возможные дополнения (решить смене 2 / при следующей правке карточки):
-  `relations` @chandrashekhara-acharya — + F112 (сосед, T 51); @advaita — + B 726 (F22); новая связь @hiranya-majumdara /
-  @govardhana-majumdara (F111) — если такие теги есть в `lila-db/PERSONS.md`; `character` — «скрывали чудеса Сына от людей» (F110).
+  `relations` @chandrashekhara-acharya — + F112 (сосед, T 51); @advaita — + B 726 (F22); новая связь @hiranya-majumdar /
+  @govardhana-majumdar (F111; теги есть в `lila-db/PERSONS.md`); `character` — «скрывали чудеса Сына от людей» (F110).
 
 ### Передать смене 2 (статья RU и EN)
 `check.py` после смены 1: не покрыты **F110, F111, F112, Q11** — внести.
