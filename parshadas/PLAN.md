@@ -102,7 +102,7 @@ B — вероятно, больше сотни).
 | @gopala-guru (016) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @raghunandana (017) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @rupa-gosvami (018) | ✓ (из частей) | ✓ (PDF, 67 с.) | ✓ сплошная |
-| @sanatana-gosvami (019) | ✓ (из частей) | ✓ (PDF) | — |
+| @sanatana-gosvami (019) | ✓ (из частей) | ✓ (PDF, 61 с.) | ✓ сплошная |
 | @raghunatha-bhatta (020) | ✓ | ✓ (PDF) | — |
 | @jiva-gosvami (021) | ✓ (из частей) | ✓ (PDF) | — |
 | @gopala-bhatta (022) | ✓ | ✓ (PDF) | — |
