@@ -3,9 +3,9 @@
 
 ## The Singer of Gaura
 Vasudeva Ghosha Thakura — in songs and in the lists of Vaishnavas he is simply called Vasu Ghosha — is one of Sri
-Gauranga's eternal companions. With the same short name he signed his own padas: the last line of a song says now "so
-says Vasu," now "so says Vasudeva Ghosha." In Gaudiya Vaishnava society he is remembered together with the name, form,
-qualities and pastimes of Gaurasundara, just as Narahari Sarakara Thakura is remembered. <!-- F1 F2 -->
+Gauranga's eternal companions. He signed his own padas in both ways: the last line of a song says now "so says Vasu," now "so
+says Vasudeva Ghosha." Just as Gaudiya Vaishnavas always sing of Narahari Sarakara Thakura together with the name, form,
+qualities and pastimes of Gaurasundara, so they glorify Vasudeva as an eternal companion in Gaura-lila. <!-- F1 F2 -->
 
 Vasu Ghosha stands beside the Lord in the evening worship as well. In Srila Bhaktivinoda Thakura's “Gaura-arati”
 Narahari and others fan Gaurachandra with chamaras, while Sanjaya, Mukunda, Vasu Ghosha and others sing. Thus the poet
@@ -17,8 +17,8 @@ does not flow. The family was respected and prominent. Vasudeva had two brothers
 who is also called Madhavananda. Which of the three was the eldest the biographies do not say; Kavi Karnapura in the
 “Gaura-ganoddesha-dipika” names them in this order: Govinda, Madhavananda, Vasudeva. <!-- F7 F8 -->
 
-The family is linked with Shrihatta (Sylhet) through the village of Budan (Buran), or Buranga: according to one
-account, the house of Vasudeva's maternal uncle stood there[^1]. His father, whose name has not come down to us, for
+The family is linked with Shrihatta (Sylhet) through the village of Buran, or Burangi: according to one
+account, the house of Vasudeva's maternal uncle stood there[^1]. His father, whose name the biographies do not give, for
 some reason settled in Kumarahatta, and later the three brothers moved from there to Navadvipa[^2]. Neither the year
 nor the place of Vasudeva's birth, nor the day of his appearance, is given in the biographies. <!-- F9 F10 F11 F12 -->
 
@@ -34,8 +34,8 @@ Gadadhara Dasa, and such are two of the brothers as well:
 
 “Madhava and Vasudeva Ghosha also belonged to both these groups.” (CC, Adi 11.15)
 
-Of Govinda, who stayed with the Lord, Kaviraja specially says that he is a branch of Sri Chaitanya; of Vasudeva no such
-remark is made: his place is in both ganas. <!-- F4 Q2 F6 -->
+Govinda, who stayed with the Lord, the biographies count among the branches of Sri Chaitanya alone; of Vasudeva no
+such remark is made: his place is in both ganas. <!-- F4 Q2 F6 -->
 
 ## Gunatunga
 Kavi Karnapura reveals who the three brothers were in Krishna's eternal pastimes:
@@ -67,8 +67,8 @@ Madhava:
 known as the singer of the Lord's pastimes in Vrindavana, and he was very dear to Lord Nityananda. The three brothers —
 Madhava, Vasudeva and Govinda — sang while Lord Nityananda danced.” (CB, Antya 5.257–259) <!-- F29 Q3 -->
 
-All three brothers came to be called "singers of Vrindavana"[^4]. Their singing had nothing in common with that of
-worldly performers: the brothers were wholly given to kirtana, and they had no worldly notions. Here lies the meaning
+Srila Bhaktisiddhanta Sarasvati Thakura, in the “Gaudiya-bhashya” on this verse, calls all three brothers "singers of
+Vrindavana"[^4]. Their singing had nothing in common with that of worldly performers: the brothers were wholly given to kirtana, and they had no worldly notions. Here lies the meaning
 of the name: the desire to serve Hari grows in the heart only when worldly conceptions have been destroyed completely.
 <!-- F30 I3 -->
 
@@ -105,7 +105,8 @@ brothers: many of his songs have survived, while of Govinda's and Madhava's only
 
 Vasudeva began to compose songs about Gauranga following Narahari Sarakara Thakura. The “Padasamudra” tells that,
 having drunk deep of the nectar of Sarakara Thakura's songs, he himself longed to express that nectar in verse; it
-also sings the wondrous glory of Narahari — Madhumati of Vraja, whose virtues have no end. <!-- F17 Q8 -->
+also sings the wondrous glory of Narahari — Madhumati of Vraja, whose virtues have no end (in almost the same words the “Bhakti-ratnakara,” 2.220, speaks
+of Narahari). <!-- F17 Q8 -->
 
 All of Vasudeva's genuine songs are about Sri Gaura. They are very simple, full of sweetness, and touch the depths of
 the heart. Not without reason did Krishnadasa Kaviraja say of him:
@@ -138,11 +139,11 @@ Gaura has preached the name 'Hare Krishna.'
 Vasudeva Ghosha says with folded palms:
 He is Gaura, He is Krishna, He is Jagannatha." (Vasu Ghosha, PK 2192) <!-- F21 -->
 
-Rama, who punished Ravana, is one of His manifestations; from Goloka He descends as Gaura, in the mood of Radharani, and
+One of the biographies explains the song thus: Rama, who punished Ravana, is one of His manifestations; from Goloka He descends as Gaura, in the mood of Radharani, and
 He is one with Rama, Krishna and Jagannatha. Two lines of this song — of Gaura the sannyasi "with staff and water pot"
 and of Gaura who came "in the mood of Sri Radha" — utterly refute the doctrines of the nadiya-nagari and gaura-nagari,
-which picture the Lord as a worldly enjoyer. In Vasu the Lord is a sannyasi who has renounced the world, absorbed in
-the feeling of Radha, His eternal beloved — not at all one who seeks enjoyment. <!-- F21 F23 -->
+which picture Gaura as a nagara, a lover of the women of Nadia. In Vasu Gaura is a sannyasi who has come in the mood of
+Sri Radha, His eternal beloved; such a Gaura has no place in the fancies of the nagaris. <!-- F21 F23 -->
 
 Another song begins: "What shall I say of Your hundreds and hundreds of incarnations? Gaurangachand alone is my life."
 In the incarnation of Vishnu the Lord is a beggar asking for prema, with Shiva, Shuka and Narada beside Him; in the
@@ -173,7 +174,7 @@ such mercy is known to all the world.
 Through the sankirtana of the name so dear to Him He delivered the people of the world —
 why then has Vasu been left out?" (Vasu Ghosha, PK 2314) <!-- F24 F27 -->
 
-The best loved of the songs linked with Vasu's name is perhaps the one that begins "had Gaura not come…":
+One of the best known songs linked with Vasu's name begins "had Gaura not come…":
 
 "Had there been no Gauranga, what would have become of us?
 How would we have lived?
@@ -219,20 +220,21 @@ worldly in them, for they were composed by one who had tasted the rasa of separa
 "Gauranga, carry me across!" and grieving "why then has Vasu been left out?", teaches us the humility without which one
 cannot sing the glories of the Lord. <!-- F2 F14 F19 I1 I2 I3 -->
 
-[^1]: According to other information, Budan (Baduna), or Buranga, in Shrihatta was the brothers' native village.
+[^1]: According to other information, Baduna, or Burangi, in Shrihatta was the brothers' native village.
 [^2]: According to one biography, the brothers moved to Navadvipa after their father's death.
 [^3]: According to one biography, the brothers are the eighty-second, eighty-third and eighty-fourth branches; in the
     subheadings of our translation of the “Chaitanya-charitamrita” the numbering is different (Govinda Ghosha is the
     eighty-first branch, and the eighty-fourth is Abhirama Thakura).
-[^4]: In the “Chaitanya-bhagavata” it is Madhava Ghosha who is called "the singer of Vrindavana"; one of the
-    biographies applies this name to all three brothers.
+[^4]: In the verse of the “Chaitanya-bhagavata” itself it is Madhava Ghosha who is called "the singer of Vrindavana";
+    the name is applied to all three brothers by Srila Bhaktisiddhanta's commentary, and after it by one of the
+    biographies (which gives these words as its own).
 [^5]: According to another account, Nityananda danced in trance to the brothers' singing, then sat on the Deities'
     throne, and abhisheka was performed for Him.
 [^6]: According to the “Chaitanya-charitamrita,” the lead singer of the fourth group was Govinda Ghosha, while Vasudeva
     and Madhava sang the responses; so too most of the biographies. One of them, in its chapter on Vasudeva, names
     Vasudeva "with his two brothers" as the lead singers.
-[^7]: In the version given by one of the biographies, Vishvambhara dances in the courtyard of Shachi and Jagannatha, in
-    Mayapur.
+[^7]: One of the biographies, quoting this pada, specifies the place: the courtyard of Shachi and Jagannatha in Mayapur.
+    These are the biographer's own words: the text of the pada he quotes has only "Shachi's courtyard."
 [^8]: In the retelling of one biography the song sounds different: all the incarnations of Vishnu, Shiva, Shukadeva,
     Narada, the four Kumaras and the lords of the universe beg for the love that Gauranga alone distributes; all men and
     women, without any qualification, dance and attain perfection; His qualities have maddened "the ten directions"; and
