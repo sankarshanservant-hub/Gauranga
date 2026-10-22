@@ -163,7 +163,7 @@ His brows and never ceasing to dance, answered Him (we render it from the Bengal
 prema to come from, when Nara has dried it up? Neither I nor Srivasa has received love, while You enjoy pastimes of love
 with oil-pressers and flower-sellers and keep company with the low classes instead of discussing the shastras with
 learned brahmanas. The avadhuta has become the servant of Your love, He is the keeper of its storehouse, and Srivasa and
-I are left outside. If You do not give Me prema-yoga, I shall swallow up all Your prema — and the fault will not be
+I are left outside. If You do not give Me prema-yoga, I shall dry up all Your prema — and the fault will not be
 Mine.” And He danced in jest. <!-- F28 F29 Q9 -->
 
 These words are neither arrogance nor reproach in the ordinary sense. Vrindavana dasa himself says that Acharya Gosani
