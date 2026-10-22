@@ -23,11 +23,11 @@ Gadadhara's branch of the Chaitanya tree. There Krishnadasa Kaviraja names him t
 
 “Bhugarbha Gosvami and Bhagavata Dasa came to Vrindavana and lived there all their lives.” (CC, Adi 12.82)[^1]
 
-These are the eleventh and twelfth branches of Gadadhara, both of them hermits of Vrindavana to the end of their days.
+In the list of Gadadhara's branches they come eleventh and twelfth.
 <!-- F2 F3 Q2 -->
 
-Bhagavata Dasa was his fellow disciple under Gadadhara and his close friend. The “Shakha-nirnaya,” listing the branches
-of Gadadhara, bows in its thirty-first verse to Bhagavata Dasa as “Bhugarbha's companion,” whose mind is ever adorned
+Bhagavata Dasa was his fellow disciple under Gadadhara and his close friend. The “Shakha-nirnaya”
+bows in its thirty-first verse to Bhagavata Dasa as “Bhugarbha's companion,” whose mind is ever adorned
 with songs of the pastimes of Radha and Krishna. <!-- F4 Q5 -->
 
 To Bhugarbha himself the same book gives a verse of homage of his own. It praises him as an ever-magnanimous master who
@@ -48,7 +48,7 @@ heart”; Bhugarbha was Lokanatha's closest friend and constant companion. Narah
 And in the sixth wave of the same book Bhugarbha and Lokanatha are called together a mine of virtues. <!-- F12 F13 Q7 Q8 -->
 
 Their bond is one example of how the Lord's associates chose their companions. Sanatana, Rupa and Raghunatha; Lokanatha
-and Bhugarbha; later Narottama and Ramachandra Kaviraja — each pair had its own style of bhajana, yet they chose one
+and Bhugarbha; later Narottama and Ramachandra Kaviraja — each of these bonds had its own style of bhajana, yet they chose one
 another without a trace of rivalry or envy. This does not mean they lived under one roof: what united them was the love
 of kindred souls, and that love itself served the following of Vrishabhanu's daughter and delighted Radhanatha. Of
 dividing into parties they never even thought. <!-- I2 -->
@@ -58,15 +58,15 @@ Lokanatha and Bhugarbha came to live in Vraja at Mahaprabhu's command, even befo
 of Chaitanya's devotees to leave for Vrindavana. Lokanatha was the first Gaudiya Vaishnava whom the Lord told to go
 there, and he went together with Bhugarbha. <!-- F14 -->
 
-Bhugarbha went with him not by any special order. When Lokanatha in Navadvipa was taking leave of the Lord, weeping and
+And this is how Bhugarbha came to be Lokanatha's companion. When Lokanatha in Navadvipa was taking leave of the Lord, weeping and
 clasping His feet, Gadadhara Pandita stood nearby with his disciple Bhugarbha. Bhugarbha's heart melted at the scene: he
 would not let his friend go alone and offered to go with him himself. He asked leave of his guru; the Lord glanced at
 Gadadhara approvingly, and Gadadhara gladly let his disciple go.[^4] According to one biography, Lokanatha left home and
 came to the Lord in Navadvipa in 1510 (1431 of the Shaka era). <!-- F15 F16 F17 -->
 
 They walked for about two months, without a single coin, living on alms. At Rajmahal, on the border of Bengal, they first
-heard a foreign tongue and met the indifference of the inhabitants. Beyond lay Tejpur, Purnia, Ayodhya, Lucknow, Agra and
-many holy places, and at last Gokula and Vrindavana.[^5] Attachment to parents, to home, to comforts and to their native
+heard a foreign tongue and met the indifference of the inhabitants. Beyond lay Tejpur, Purnia, Ayodhya, Lucknow, Agra and,
+at last, Gokula and Vrindavana.[^5] Attachment to parents, to home, to comforts and to their native
 land — all this the two, still young men, had left behind. <!-- F18 F11 -->
 
 Vraja met them with dense jungle and thickets where beasts of prey roamed. Of the former beauty of its temples and
@@ -80,10 +80,10 @@ laughing, as if mad, they fell at the feet of the Vrajavasis asking where Krishn
 ground and smeared their heads and eyes with the dust of Vraja, saying that it purifies the heart. <!-- F20 -->
 
 ## Searching for the Lord, and Chira-ghata
-Meanwhile the Lord took sannyasa and went to the South, where He travelled for two years; then, having first sent Rupa and
-Sanatana to Vrindavana, He came there Himself. Hearing of His journey south, Lokanatha and Bhugarbha — Lokanatha above all,
+Meanwhile the Lord took sannyasa and went to the South, where He travelled for two years, and then came to
+Vrindavana.[^6] Hearing of His journey south, Lokanatha and Bhugarbha — Lokanatha above all,
 in great anxiety — went south to find Him. So it happened that for the whole two months the Lord spent in Vrindavana they
-were not there.[^6] <!-- F21 -->
+were not there.[^7] <!-- F21 -->
 
 When they returned, the Lord consoled Lokanatha in a dream. Seeing Him in the dress of a sannyasi, He said, they would only
 grieve; let them rather meditate on His former form — with its beautiful curls. <!-- F22 -->
@@ -114,10 +114,10 @@ Vallabhacharya — and in truth showed by this His mercy to the aged Rupa. For a
 Him, and with him were his companions:
 
 “Sri Rupa with his companions also spent a whole month in Mathura beholding this Deity. He was accompanied by Gopala
-Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa Gosvami, Bhugarbha Gosvami, Sri
+Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa Gosvami. Bhugarbha Gosvami, Sri
 Jiva Gosvami, Sri Yadava Acharya and Govinda Gosvami.” (CC, Madhya 18.48–50)
 
-That month Bhugarbha not only beheld Gopaladeva but danced and sang before Him.[^7] <!-- F7 Q3 -->
+That month Bhugarbha not only beheld Gopaladeva but danced and sang before Him.[^8] <!-- F7 Q3 -->
 
 ## Disciples and the “Chaitanya-charitamrita”
 Krishnadasa Kaviraja names Bhugarbha's disciples as well:
@@ -141,14 +141,14 @@ It was with the permission and blessing of Bhugarbha and Lokanatha that Krishnad
 Mahaprabhu's last pastimes. <!-- F32 F33 Q1 -->
 
 But these elders themselves — Lokanatha, Bhugarbha and others — told Kaviraja not to mention them in the book; that is why
-so little about them has survived.[^8] Vrindavana Dasa in the “Chaitanya-bhagavata” likewise names neither Lokanatha nor
+so little about them has survived.[^9] Vrindavana Dasa in the “Chaitanya-bhagavata” likewise names neither Lokanatha nor
 Bhugarbha — perhaps for the same reason. There is no ill will in this: the chroniclers of the Lord's pastimes sometimes
 leave part of the story to those who come after. <!-- F34 F35 -->
 
 In this prohibition lies a lesson for all. As long as even a shadow of the desire for fame remains in the heart,
 hari-bhajana is impossible. Even mayavadis can give up women and wealth, but the thirst for worldly prestige is the worst
 enemy of love for Krishna. That is why Raghunatha Dasa Gosvami, in the “Manah-shiksha” and at the beginning of the
-“Vraja-vilasa-stava,” condemns it before anything else. <!-- I1 -->
+“Vraja-vilasa-stava” and other hymns, condemns it more than anything else. <!-- I1 -->
 
 ## Why “Six”
 If Lokanatha and Bhugarbha were older and came to Vraja earlier, why are the Gosvamis called six and not eight? Sanatana,
@@ -171,16 +171,16 @@ He saw Gopala Bhatta, Bhugarbha and Lokanatha and heard from them stories of Gau
 encouraged him and eased his sorrow. <!-- F38 -->
 
 When Jahnava Devi came to Vraja, the heads of the Vaishnava community — Jiva, Gopala Bhatta, Lokanatha, Bhugarbha, Madhu
-Pandita — came out to honour her.[^9] With the permission and blessing of Bhugarbha and Jiva, Virachandra (Virabhadra)
-too went round Vraja: the twelve forests, Radha-kunda and Shyama-kunda, Govardhana.[^10] <!-- F39 F40 -->
+Pandita — came out to honour her.[^10] With the permission and blessing of Bhugarbha and Jiva, Virachandra (Virabhadra)
+too went round Vraja: the twelve forests, Radha-kunda and Shyama-kunda, Govardhana.[^11] <!-- F39 F40 -->
 
 Ramachandra Kaviraja, coming to Vrindavana, was granted the darshana of the feet of Gopala Bhatta, Lokanatha and
-Bhugarbha and received their mercy and blessing.[^11] <!-- F41 -->
+Bhugarbha and received their mercy and blessing.[^12] <!-- F41 -->
 
 Narottama Thakura was in close and loving association with Bhugarbha. In a humble song of his “Prarthana” he laments
 that he did not serve the feet of the Gosvamis without whose mercy he cannot attain the service of Radha and Krishna in
 Vraja, and among them he names Bhugarbha. There are nine such Gosvamis in the song: Svarupa, Sanatana, Rupa, Raghunatha,
-the two Bhattas, Bhugarbha, Jiva and Lokanatha.[^12] <!-- F8 F9 Q9 -->
+the two Bhattas, Bhugarbha, Jiva and Lokanatha.[^13] <!-- F8 F9 Q9 -->
 
 ## Departure
 Bhugarbha Gosvami left this world in Vrindavana, in the lifetime of Jiva Gosvami. Jiva informed Srinivasa of it in a
@@ -189,7 +189,7 @@ letter. The “Prema-vilasa” renders his words thus:
 “But the feet of Sri Bhugarbha Gosvami — he has left his body, giving himself to Krishna; and this in particular: it
 took place in full awareness.” (“Prema-vilasa,” 25.21–22) <!-- F42 -->
 
-The day of his departure is the shukla-chaturdashi of the month of Kartika.[^13] By our calendar it is observed on
+The day of his departure is the shukla-chaturdashi of the month of Kartika.[^14] By our calendar it is observed on
 Gaura-chaturdashi of the month of Damodara, on the same day as Kashishvara Pandita. Where his samadhi is, the biographies
 do not say. <!-- F43 F44 -->
 
@@ -199,7 +199,7 @@ Who Bhugarbha is in Krishna's eternal pastimes is revealed by Kavi Karnapura in 
 “The former name of Bhugarbha Thakura is Prema-manjari; Lokanatha Gosvami is the former Sri Lila-manjari.” (GGD 187)
 
 In Vraja he is Prema-manjari, one of the manjaris, the maidservants of Srimati Radharani, and in the same verse his
-inseparable friend is named beside him.[^14] <!-- F1 Q4 -->
+inseparable friend is named beside him.[^15] <!-- F1 Q4 -->
 
 So in one name his whole life comes together: he who spoke of nothing but Gaura and gave all his time to the mental
 service of Radha and Krishna is himself, in Vraja, Prema-manjari — “the bud of love” in Radha's service. His blessing
@@ -216,18 +216,21 @@ remained a lesson for all who walk the path of bhajana. <!-- F1 F33 I1 -->
     Vrindavana, and only there met Rupa, Sanatana, Gopala Bhatta, Bhugarbha and others — although the same biography says
     elsewhere that both came to Vrindavana at the Lord's command.
 [^5]: Another biography gives a shorter route: Rajmahal, Tajpur, Purnia, Lucknow and many holy places.
-[^6]: Only one biography says that Bhugarbha went south together with Lokanatha and that in the dream the Lord addressed
+[^6]: One biography adds that the Lord had sent Rupa and Sanatana to Vrindavana before this. According to the
+    “Chaitanya-charitamrita,” He sent them there only after His own stay in Vraja: Rupa from Prayaga (Madhya 19.240),
+    Sanatana from Kashi (Madhya 25.175).
+[^7]: Only one biography says that Bhugarbha went south together with Lokanatha and that in the dream the Lord addressed
     them both; the other two tell of the search for the Lord and of the dream with reference to Lokanatha alone.
-[^7]: One of the biographies, telling of this month in Mathura, names Lokanatha and “other Gaudiya Vaishnavas” but does
+[^8]: One of the biographies, telling of this month in Mathura, names Lokanatha and “other Gaudiya Vaishnavas” but does
     not mention Bhugarbha.
-[^8]: According to one of the biographies, it was Lokanatha alone who gave this instruction.
-[^9]: According to another biography, some of the Vaishnavas of Vraja, Bhugarbha among them, met Jahnava already in
+[^9]: According to one of the biographies, it was Lokanatha alone who gave this instruction.
+[^10]: According to another biography, some of the Vaishnavas of Vraja, Bhugarbha among them, met Jahnava already in
     Mathura.
-[^10]: According to one biography — with the blessing, according to another — at the command of Bhugarbha and Jiva.
-[^11]: According to one of the biographies, these senior Gosvamis — Lokanatha, Gopala Bhatta and Bhugarbha — also gave him
+[^11]: According to one biography — with the blessing, according to another — at the command of Bhugarbha and Jiva.
+[^12]: According to one of the biographies, these senior Gosvamis — Lokanatha, Gopala Bhatta and Bhugarbha — also gave him
     the title “Kaviraja”; according to another, the title was given by Jiva Gosvami.
-[^12]: In the retelling of one biography Rupa is not named in this list: it has eight names — Svarupa Damodara,
+[^13]: In the retelling of one biography Rupa is not named in this list: it has eight names — Svarupa Damodara,
     Sanatana, Raghunatha Bhatta, Raghunatha Dasa, Gopala Bhatta, Bhugarbha, Jiva and Lokanatha.
-[^13]: Only one biography gives this date; the other two do not name the day of his departure.
-[^14]: According to the “Prema-vilasa” (7.268–269), Bhugarbha in Vraja is Nandimukhi, who tenderly loves Manjulali
+[^14]: Only one biography gives this date; the other two do not name the day of his departure.
+[^15]: According to the “Prema-vilasa” (7.268–269), Bhugarbha in Vraja is Nandimukhi, who tenderly loves Manjulali
     (Lokanatha); this testimony carries less authority than the “Gaura-ganoddesha-dipika.”
