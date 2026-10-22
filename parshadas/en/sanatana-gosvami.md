@@ -177,8 +177,8 @@ Krishna, whom he worships. <!-- F39 F40 F41 Q7 I6 -->
 
 ## Ramakeli
 The brothers' seat was Ramakeli, a shripata on the Ganga, right by the border, in the district of Maldah: some eight
-miles south of English Bazar and five or six miles from Maldah station. Sultan Barbak made Ramakeli the capital of
-Bengal in 1486; under the British it was a district headquarters; and many devotees lived there, among them Sri
+miles south of English Bazar and five or six miles from Maldah station. According to one biography, Sultan Barbak made Ramakeli the
+capital of Bengal in 1486; under the British it was a district headquarters; and many devotees lived there, among them Sri
 Nrisimha, the son of Advaita Acharya. The place is also called Gupta-Vrindavana, the “hidden Vrindavana.” <!-- F42 -->
 
 The brothers lived mostly in Ramakeli: there they studied all the shastras and duly honoured the brahmana Vaishnavas.
@@ -239,12 +239,18 @@ Present at the meeting were Nityananda, Haridasa, Shrivasa, Gadadhara Pandita, M
 Vakreshvara and many others; at the Lord's bidding the brothers touched their feet, and He told everyone to bless them.
 At that same time Vallabha, who became Anupama, also received mercy. <!-- F54 -->
 
-Vrindavana Dasa Thakura in the “Chaitanya-bhagavata” tells of the giving of the names differently — as an event in
-Nilachala, where the brothers came later: the Lord told them to beg for prema-bhakti at Advaita's feet and to go to
-Mathura to preach bhakti, and changed their names as a “third samskara.” He calls Sanatana “Sanatana-avadhuta”:
+Vrindavana Dasa Thakura in the “Chaitanya-bhagavata” tells of the giving of the name differently — as an event in
+Nilachala, where the brothers came later: the Lord told them to beg for prema-bhakti at Advaita's feet and then to go to
+Mathura to preach bhakti. Vrindavana Dasa also names the brothers' former names — Sakara Mallik and Dabir Khas: at the
+very beginning of his poem he says that in the Antya-khanda Gaurasundara will reveal Himself to Dabir Khas, and that the
+two brothers, recognising the Lord, will attain liberation and receive new names — Rupa and Sanatana (CB, Adi
+1.171–172); and in the account itself, that the Lord cast His merciful glance on the two brothers, “Sakara Mallik and
+Rupa” (CB, Antya 9.239). Sanatana he calls “Sanatana-avadhuta”:
 
 “sakara-mallika nama ghuchaiya tana / sanatana avadhuta thuilena nama” — “taking from him the name Sakara Mallik,
-[the Lord] named him Sanatana-avadhuta.” (CB, Antya 9.273)[^15] <!-- F59 Q13 -->
+[the Lord] named him Sanatana-avadhuta.” (CB, Antya 9.273)
+
+The note on this passage calls such a giving of a name the “third samskara.”[^15] <!-- F59 Q13 F494 -->
 
 Seeing the huge crowds around the Lord, Sanatana, wise in worldly affairs, lovingly dissuaded Him from going to
 Vrindavana in this way. The Shah trusts You, he said, but he is a Muslim and cannot be relied upon; Your work here is
@@ -446,9 +452,9 @@ blanket was, told the whole story.[^33] The Lord said:
 
 “‘I have been thinking about this. Lord Sri Krishna is boundlessly merciful, and therefore He has destroyed all your
 worldly attachments. Why then would He leave in you anything worldly to which you might be even slightly attached? Having
-cured a patient, a good physician will not allow even the slightest trace of the disease to remain in his body. <…> This
+cured a patient, a good physician will not allow even the slightest trace of the disease to remain in his body. This
 blanket, worth three gold coins, is not compatible with the life of an ascetic living on alms. For an ascetic to wear it
-violates the laws of dharma and gives occasion for ridicule.’” (CC, Madhya 20.90, 92)[^34] <!-- F114 F115 F116 Q18 -->
+violates the laws of dharma and gives occasion for ridicule.’” (CC, Madhya 20.90–92)[^34] <!-- F114 F115 F116 Q18 -->
 
 If conduct and preaching do not agree, one's own dharma perishes and one becomes a laughing-stock; whomever Krishna
 favours without guile, He frees from the disease of worldliness completely, to the last trace. The Lord, though Bhagavan
@@ -496,8 +502,8 @@ attaining it. Be merciful and explain all these truths to me.’” (CC, Madhya 
 
 The Lord answered: Krishna's full mercy is in you, you know all the truths, and the threefold miseries no longer exist for
 you; but a saint, though knowing everything, asks again in order to become firm in knowledge, and you are worthy to spread
-bhakti. Inquiry into the truth is the jiva's first step towards the good: one whose desire to awaken sambandha-jnana is
-firm soon reaches the goal, and the question “Who am I?” makes the jiva fit for this knowledge. A mistake in
+bhakti. Inquiry into the truth is the jiva's first step towards the good: one whose desire to awaken sad-dharma, true
+dharma, is firm soon reaches the goal, and the question “Who am I?” makes the jiva fit for sambandha-jnana. A mistake in
 self-knowledge leads to a mistake in the goal, and then every effort is in vain: one who takes himself to be the gross
 body measures duty and morality by the good of the body; one who takes himself to be the subtle body, by the development
 of the mind; while one who knows himself to be the soul seeks the good of the soul and uses both bodies in the way that is
@@ -578,7 +584,7 @@ shakti (Brahma, Narada, Vyasa) think, “I am Bhagavan's servant.” <!-- F147 -
 
 “When the one Supreme Lord expands Himself into forms between which there is no difference at all, this is called
 ‘prakasha.’ So did Krishna in order to marry sixteen thousand princesses in Dvaraka, or when He enjoyed the rasa dance.”
-(CC, Adi 1.69)
+(CC, Adi 1.69–70)
 
 “But the many forms of God between which there are some differences are known as ‘vilasa’ (sportive).” (CC, Adi 1.76)
 
@@ -597,7 +603,7 @@ the inner controller of the subtle aggregate universe, the creator of Brahma, a 
 the Paramatma, is the controller of the gross universe and of every jiva, a portion of Aniruddha. This successive
 manifestation shows the Lord's property of expanding (“charishnu-dharma”); therefore Ishvara is Vishnu alone, while the
 other two guna-avataras and all the devas are adhikarika-tattvas subordinate to Him. From Govinda, “the great lamp,”
-proceed the three purusha-avataras, and the svamsha-avataras, like Rama and Nrisimha, are like lamps lit from Him: equal
+through His vilasa-murti proceed the three purusha-avataras, and the svamsha-avataras, like Rama and Nrisimha, are like lamps lit from Him: equal
 to Him in qualities and in essence not different from Govinda, but different in pastimes. <!-- F150 F151 F152 -->
 
 Of the guna-avataras, Vishnu, Kshirodakashayi, maintains the world through sattva; He is of one nature with Govinda —
@@ -629,7 +635,7 @@ jiva in full and five great ones, beyond the reach of a jiva, in part; therefore
 of jivas, though he belongs to the vibhinnamshas. In one kalpa a worthy jiva becomes Shiva the destroyer; in another, if
 there is no such jiva, Vishnu Himself assumes the form of Shiva; all these destroyers are guna-avataras. But Sadashiva,
 who dwells in Shivaloka within Vaikuntha, is not a guna-avatara: he is beyond the gunas and, like Narayana, is a vilasa of
-Krishna's svayam-rupa, the source of the guna-avatara Shiva; therefore he is higher than Brahma and not different from
+Krishna's svayam-rupa, the whole (amshi) of which the guna-avatara Shiva is a part; therefore he is higher than Brahma and not different from
 Vishnu. The Lord said: <!-- F158 F159 F160 F161 F162 Q24 -->
 
 “Brahma and Shiva are only executors of the Lord's will in the form of His devoted servants (bhaktas), while Vishnu
@@ -1993,9 +1999,10 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
     “mallik” is explained as “lord,” a title Muslims gave to respected wealthy families close to the government.
 
 [^11]: One of the biographies gives the same passage as 1.612–614 and without the words about the father's atonement;
-    another, citing 1.609–614, speaks of the father, as the “Bhakti-ratnakara” itself does. A third puts it differently:
-    by Vedic custom it was the person who associated with a Muslim who had to purify himself, and Sanatana, paying no heed
-    to custom, simply regarded himself as fallen from the brahmana caste.
+    another, citing 1.609–614, speaks of the father, as the “Bhakti-ratnakara” itself does. Both references are correct:
+    1.612–614 is the end of the same passage. A third puts it differently: by Vedic custom it was the person who
+    associated with a Muslim who had to purify himself, and Sanatana, paying no heed to custom, simply regarded himself
+    as fallen from the brahmana caste.
 
 [^12]: One of the biographies calls this village Bhatravari and adds that brahmanas and panditas came from Navadvipa to
     serve the brothers.
@@ -2011,7 +2018,10 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
     in the evening, when the Lord was resting under a tree on the bank of the Ganga.
 
 [^15]: According to the “Chaitanya-charitamrita,” the Lord gave the brothers the names Rupa and Sanatana at Ramakeli (CC,
-    Madhya 1.208). The account of the “Chaitanya-bhagavata” is discussed more fully in the article on Rupa Gosvami.
+    Madhya 1.208). The account of the “Chaitanya-bhagavata” is discussed more fully in the article on Rupa Gosvami. One
+    biography attributes the words about the “third samskara” to Vrindavana Dasa himself and says that the Lord changed
+    the names of both brothers; in the CB these words stand not in the verse but in an explanatory subheading to it (in
+    Srila Bhaktisiddhanta's edition), and only Sakara Mallik's name is changed there.
 
 [^16]: One of the biographies, following the CC (Madhya 1.221–224), attributes this advice to both brothers, though further
     on it itself calls it “Sanatana's proposal”; likewise in CC, Madhya 16.265, the Lord recalls Sanatana's words. Another,
@@ -2036,7 +2046,9 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
 [^22]: According to another biography, Sanatana offered the bribe — five thousand rupees — only after his persuasions, and
     told the jailer to say that the prisoner had gone to relieve himself, then to bathe in the Ganga, had jumped into the
     water and vanished (with no mention of fetters), while he, the jailer, would become a Sufi and go on the hajj to Mecca.
-    According to a third — “I shall go to Mecca with a dervish.”
+    And in the one by which Sanatana's speech is given here — “I shall go to Mecca, taking the dervish” (Bengali
+    “darabesha laiya,” that is, apparently, assuming the dervish's guise; cf. CC, Madhya 20.13: “I will become a
+    dervish”).
 
 [^23]: According to another biography, Sanatana had the grocer bring the seven thousand from the money Rupa had left;
     according to a third, he bribed the jailer with money sent by Rupa. Only one biography says that the jailer ferried him
@@ -2068,7 +2080,7 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
 
 [^32]: One of the biographies gives this verse as “2.6.220”; the correct reference is Antya 6.220. The other references of
     that biography to the “Chaitanya-charitamrita” have been checked and are correct. Another biography gives the
-    instructions on the “Hari-bhakti-vilasa” as “Madhya 29.326–345” (correctly Madhya 24.325–345), and the description of
+    instructions on the “Hari-bhakti-vilasa” as “Madhya 29.326–345” (correctly Madhya 24.319–340), and the description of
     the Gosvamis' life in Vraja as Madhya 19.128–132 (19.127–132 in the translation from which the quotations here are
     taken).
 
