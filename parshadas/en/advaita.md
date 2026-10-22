@@ -362,14 +362,16 @@ role[^18]. <!-- F62 -->
 ## The Dream about the “Gita”
 When Nimai returned from Gaya transformed, with the signs of the highest devotion, Advaita, Srivasa and the other
 devotees rejoiced, and Advaita began little by little to reveal to them Who He was. He told the Vaishnavas His dream.
-Not having understood a verse of the “Gita,” He had fasted, and at night someone said to Him: “Get up, Acharya, and
-eat; the meaning of the verse is — worship Me alone.” And further — about the vow Advaita had made with arms raised:
+Not having understood a verse of the “Gita,” He had fasted, and at night someone said to Him: get up, Acharya, and
+eat; the meaning of the verse is — worship Me alone; do not cause everyone suffering. And further — about the vow Advaita
+had made with arms raised:
 
 “Why do You grieve? You have attained all You strove for. Your desire is fulfilled. That for which You kept fasts,
 performed worship and, weeping, chanted the names of Krishna has come to pass. You made an unbreakable vow to call down
 the Supreme Lord, and that Lord has now appeared.” (CB, Madhya 2.12–14)
 
-By His mercy, the voice said, people would see a bhakti inaccessible even to Brahma. Opening His eyes, Advaita saw
+Throughout the land, the voice said, Krishna-kirtan would resound, and by His mercy people would see a bhakti
+inaccessible even to Brahma (CB, Madhya 2.15–16). Opening His eyes, Advaita saw
 Vishvambhara — and He vanished. The “Chaitanya-bhagavata” speaks of this in another place too:
 
 “Having revealed to Advaita the true meaning of the verse of the ‘Bhagavad-gita,’ Vishvambhara closed that door leading
@@ -390,10 +392,10 @@ that the Lord should reveal Himself to the world[^19]. <!-- F67 I4 -->
 
 ## “Nara!”
 Soon the Lord revealed Himself to Srivasa. He kicked the door of his temple: “Whom are you worshipping? Here I am!” —
-and showed His four-armed form. “Because of your loud sankirtana and Advaita's audacious call,” He said, “I have left
-Vaikuntha.” <!-- F68 -->
+and showed His four-armed form. “Because of your loud sankirtana, because of the persecution of the devotees and because of
+Advaita's audacious call,” He said, “I have left Vaikuntha.” <!-- F68 -->
 
-And when Nityananda's Vyasa-puja was being performed in the house of Srivasa, the Lord began to call loudly: “Nara!
+And on the eve of Nityananda's Vyasa-puja, at the kirtan in the house of Srivasa, the Lord began to call loudly: “Nara!
 Nara!” So He called Advaita, whose cry had brought Him down from Vaikuntha — and now Advaita lived without a care in
 Shantipura with Haridasa:
 
@@ -401,30 +403,50 @@ Shantipura with Haridasa:
 
 “Nara called Me from Vaikuntha, and now lives without a care together with Haridasa.” (CB, Madhya 5.52)
 
-“I lay in the Ocean of Milk,” the Lord would say another time, “and My sleep was broken by the roar of Nada” (CB, Madhya
+Another time the Lord would say that He lay in the Ocean of Milk and His sleep was broken by the roar of Nada (CB, Madhya
 22.16)[^20]. <!-- F69 Q8 -->
 
 ## In Nandana Acharya's House
 Soon after the Vyasa-puja the Lord, filled with the mood of the Supreme, sent Ramai Pandita, Srivasa's younger brother,
 to Shantipura: “Tell Advaita: He for whose sake He worshipped with Ganga water and tulasi, wept and fasted, has come.
 Nityananda too has come. Let Him come with His wife and with all that is needed for puja.” Ramai could not utter a word
-for joy, but to Advaita everything was already revealed: “It seems Mahaprabhu has sent for Me,” He said. Advaita, Sita
-and their companions wept with happiness and set out at once[^21]. <!-- F70 F71 -->
+for joy, but to Advaita everything was already revealed: “It seems Mahaprabhu has sent for Me,” He said. And when Ramai
+delivered the message, Advaita raised His arms, wept and fell unconscious, and coming to Himself exclaimed:
 
-Raising His arms, Advaita danced: “It is I who brought the Lord down!” And to Ramai He said: “My faith will grow firmer
-if He places His feet on My head. I shall hide — let Him find Me Himself.” Coming to Navadvipa, He concealed Himself in
-the house of Nandana Acharya, and told Ramai to keep silent — or to say that Advaita had refused to come. And this
-“test” too is a lila: in this way Advaita let the Lord reveal His omniscience to all. <!-- F72 -->
+“I have brought Him! I have brought My Lord! Because of Me the Supreme Lord has come from Vaikuntha!” (CB, Madhya
+6.38–39)
 
-The Lord, meanwhile, ascended the vishnu-khatta, the throne of Vishnu, in Srivasa-angana and announced: “Nara wants
-proof. Advaita is testing Me — He is hiding at Nandana's with everything He has prepared for My puja.” Nityananda held
-an umbrella over Him, Gadadhara and others served. And the Lord sent Ramai again — to Nandana's; so Advaita learned that
-there is no hiding from the Lord. <!-- F73 F74 -->
+Sita, little Achyutananda and all the servants wept with happiness too — and soon they set out[^21]. <!-- F70 F71 F154 -->
+
+But Advaita wanted the Lord to reveal Himself. To Ramai He said:
+
+“If He shows Me His divine majesty and blesses My head with His lotus feet, I shall acknowledge Him as My eternal
+Master. I swear it shall be so.” (CB, Madhya 6.47–48)
+
+He resolved to hide — let the Lord find Him Himself. Coming to Navadvipa, He concealed Himself in the house of Nandana
+Acharya, and told Ramai to say that Advaita had not come:
+
+“I shall stay secretly in the house of Nandana Acharya, but you tell Vishvambhara that I have not come.” (CB, Madhya 6.57)
+
+And this “test” too is a lila: in this way Advaita let the Lord reveal His omniscience to all. <!-- F72 -->
+
+The Lord, meanwhile, ascended the vishnu-khatta, the throne of Vishnu, in Srivasa-angana and proclaimed:
+
+“Nara is coming! Nara is coming! He wants to behold My majesty!” (CB, Madhya 6.63)
+
+Nityananda held an umbrella over Him, Gadadhara and others served. As soon as Ramai came in, the Lord said to him:
+
+“Nara is coming here. He knows perfectly well Who I am, and yet He is always testing.” (CB, Madhya 6.68)
+
+“I know perfectly well that Nara is now in the house of Nandana Acharya. He has sent you here to test Me.” (CB, Madhya
+6.69)
+
+And the Lord sent Ramai again — to Nandana's; so Advaita learned that there is no hiding from the Lord. <!-- F73 F74 -->
 
 Advaita and His wife prostrated themselves before the Lord from a distance, and Advaita recited hymns. A vision opened to
 Him: the Lord in radiance, in the ornaments of which the dhyana-mantras speak; four-, five- and six-faced gods pray to
 Him; Ananta shades Him with His hoods, and the whole sky is full of gods and sages. The Lord said that He had come at His
-call from His rest in the Ocean of Milk. Advaita was struck dumb; then He washed His feet and worshipped Him with the
+call from His rest in the Ocean of Milk (CB, Madhya 6.73–95). Advaita was struck dumb; then He washed His feet and worshipped Him with the
 five offerings, panchopachara, with the mantra “namo brahmanya-devaya…”. <!-- F75 -->
 
 He worshipped the Lord with various gifts — and the Lord, fulfilling His desire, placed His feet on His head, while all
@@ -434,7 +456,7 @@ to worship the Lord's feet. <!-- F76 -->
 
 The Lord placed His own garland on Advaita and told Him to ask for a blessing. “For Myself I have nothing to ask,”
 Advaita answered. “But let bhakti go to people of low station: those proud of learning, wealth, birth and renunciation
-only hinder the preaching.” Advaita's desire is not for Himself: devotion is for the low, the unlearned and the fallen,
+only hinder the preaching” (cf. CB, Madhya 6.158–170). Advaita's desire is not for Himself: devotion is for the low, the unlearned and the fallen,
 for pride closes the way to it. <!-- F77 I5 -->
 
 ## The Mahaprakasha
@@ -1073,10 +1095,13 @@ Chaitanya. <!-- I14 I13 -->
     Ishvara Puri there too — but according to the “Chaitanya-bhagavata” (Adi 11), the Lord met him on the road.
 [^19]: The “test” of which the biographies speak is not doubt. Advaita knows Who Gauranga is and Himself tells the
     Vaishnavas of it; His “test” is a lila by which He compels the Lord to reveal Himself to all.
-[^20]: According to one of the biographies, the Lord called “Nara” on the very day of Nityananda's Vyasa-puja; according
-    to another, on the eve, at the adhivasa. In one of the biographies the Lord's words are referred to verses
-    “CB 2.9.297–298”; correctly they are CB, Madhya 22.16 and 5.51–52.
-[^21]: One of the biographies names among the companions Advaita's son Achyutananda as well.
+[^20]: So according to the “Chaitanya-bhagavata” (Madhya 5.15, 5.23: the kirtan on the eve of the Vyasa-puja) and one of
+    the biographies; another refers it to the very day of the Vyasa-puja. In one of the biographies the Lord's words are
+    referred to verses “CB 2.9.297–298”; correctly they are CB, Madhya 22.16 and 5.51–52. In our Russian translation
+    Madhya 22.16 reads “by the loud weeping of Advaita”; the Bengali text has “nāḍāra huṅkāre,” “by the roar of Nada.”
+[^21]: So according to the “Chaitanya-bhagavata” (Madhya 6.36–44). The biographies tell this story in parts: one says
+    that Advaita, raising His arms, danced, and in another place that He fainted with joy; two of them name among those
+    who wept Advaita's son Achyutananda as well.
 [^22]: So in one of the biographies — the cause of the leap is named as the dust of His feet, which Advaita took without
     leave. Another biography, following the “Chaitanya-bhagavata” (Madhya 17), names a different cause — Advaita's words
     about prema.
