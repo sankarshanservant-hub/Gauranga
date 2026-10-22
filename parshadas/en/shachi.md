@@ -76,60 +76,96 @@ is yogamaya, the Lord's internal potency, that veils His majesty so that nothing
 vatsalya. Only His eternal associate can treat the Lord as a son; the Lord Himself, sitting in her arms, is never under
 the sway of maya, and neither is His mother. <!-- F7 F8 Q1 Q2 I1 -->
 
+## The Lord in Shachi's Womb
+In the month of Magha of the year 1406 of the Shaka era (January 1485) the Lord Himself entered the bodies of Shachi
+and Jagannatha (CC, Adi 13.80). The couple were the first to notice the change:
+
+“One day Jagannatha Mishra said to Shachidevi: ‘I have witnessed an astonishing wonder! Your form radiates such
+effulgence, as if the goddess Lakshmi herself had come to live in our house. Wherever I go, people show me respect and
+of their own accord give me wealth, clothes, rice and much else.’ Shachidevi replied: ‘I too see in the sky the forms
+of divine beings offering prayers.’” (CC, Adi 13.81–83) <!-- F172 -->
+
+The “Chaitanya-bhagavata” relates that when the Lord entered Shachi and Jagannatha, the couple heard Ananta's cries of
+“Victory! Victory!” and thought they were dreaming. Brahma and the other gods, remaining unseen, came every day to
+glorify Him who, though the shelter of countless universes, had entered Shachi's womb, and they bowed to her house (CB,
+Adi 2.144–154, 193–195). Murari Gupta gives their hymn, addressed to her herself: “We bow to you who ever bear Him in
+your womb! You are Aditi, the mother of Hari… You bear in your womb Him who will spread the holiest of sacrifices —
+kirtana” (“Kadacha” 1.5.8–10). <!-- F123 F202 -->
+
+Lochana Dasa adds that day by day Shachi's body shone more brightly and people wondered: “We do not know who has come
+to Shachi's house.” In the sixth month Advaita Acharya came to them. Shachi brought Him water to wash His feet, and He,
+with tears in His eyes, walked around her and bowed down to her; Shachi started at such a breach of custom, the couple
+asked in bewilderment what it meant, and Jagannatha received only the answer: “Later you will know everything.” The
+gods came too; Shachi felt their presence and rejoiced, though at times she was frightened to see their host. And her
+heart in those days became like this:
+
+“Shachi's heart was filled with compassion for all beings: she is kind [to all] as to herself, not distinguishing her
+own from others.” (CM, Adi-khanda, part 1, v. 46) <!-- F72 F73 F186 -->
+
+The Lord remained in her womb until the full moon of the month of Phalguna (CB, Adi 2.195). On the full moon of
+Phalguna in the year 1407 of the Shaka era (February 1486), at dusk, during an eclipse of the moon, when all over Nadia
+people were singing the holy names on the pretext of the eclipse, Gaurachandra rose from the ocean of her womb like a
+golden moon. Thus in Mayapur the Lord accepted Jagannatha and Shachi as His father and mother. The gods, in the guise
+of ordinary people, came to Shachi's house and sang the names of Hari aloud (CB, Adi 2.226–233). In Lochana Dasa,
+Shachi, beside herself with happiness, beckons to her husband:
+
+“‘Our life has borne fruit — look at our son's face!’” (CM, Adi-khanda, part 1, v. 55)
+
+Seeing the Child's face, both forgot themselves for joy. Nilambara Chakravarti hurried to his son-in-law's house, cast
+his grandson's horoscope and, turning to Shachi, said that the Child would deliver both families for ever — the
+father's and the mother's; hearing her father's words, she was filled with joy (“Kadacha” 1.5.23–28). Gods and men
+hastened to Mishra's house, and the house became Vaikuntha. For eight days, as Bengali custom required, mother and
+child did not leave the birth chamber, and on the ninth a festival was held. Narahari sings of those days: happy Shachi
+holds her son on her lap, and crowds stream in to see Him. <!-- F6 F9 F74 F123 F186 F202 Q9 -->
+
+Heavenly women also came to Shachi's house. Aditi, the mother of the gods, touched the Child's head with rice and durva
+grass and wished Him long life, and other goddesses were with her:
+
+“Srimati Shachi Devi and the assembled guests were astonished to see the unearthly beauty of the goddesses, but did not
+dare to ask the strangers who they were and where they came from. The goddesses reverently took the dust from Shachi
+Devi's feet, and mother Shachi lost the power of speech for happiness.” (CB, Adi 3.37–38) <!-- F124 -->
+
+Malini did not come alone — with her was Chandrashekhara's wife, Shachi's sister:
+
+“Malini, the wife of Srivasa Thakura, came with the wife of Chandrashekhara and many other women. With great joy they
+honoured the infant, offering Him vermilion, turmeric, oil, puffed rice, coconuts, bananas and other fruits.”
+(CC, Adi 13.110) <!-- F110 F173 -->
+
+Soon, with Advaita's consent, His wife Sita Thakurani came from Shantipura in a covered palanquin with rich gifts.
+Entering Shachi's house, she was amazed: the Child was exactly like Krishna of Gokula, differing only in colour — and
+her heart melted with motherly love (CC, Adi 13.111–116). When mother and son first left the birth chamber, Shachi went
+with the women to the Ganga, worshipped the Ganga and the goddess Shashthi and, as custom required, gave the women
+puffed rice, bananas, oil, kumkum and betel, and they bowed down to her (CB, Adi 4.18–22). On that day Sita presented
+mother and child with clothes and ornaments, Shachi and Jagannatha honoured her, and she went home happy.
+<!-- F88 F125 F173 -->
+
+From then on Sita often came to Mayapur and taught Shachi how to bring up the Child; on His birthday the parents gave
+her the honour of being the first to offer Him new clothes. Sita and Shachi were of one heart — Nimai was their life,
+and day after day Sita helped to bring Him up. The Lord always treated Sita with the same reverence and love as His own
+mother, and therefore Vaishnavas honour Sita equally with Shachi, as a mother of the universe. Krishnadasa Kaviraja sums
+up those days:
+
+“Thus Shachimata and Jagannatha Mishra obtained a son who was the husband of Lakshmi herself. All their desires were
+fulfilled, and from then on their house was always full of wealth and every kind of provision. And as they looked at
+their beloved child, Nimai, their happiness grew day by day.” (CC, Adi 13.119) <!-- F89 F90 F92 F87 F173 -->
+
+## The Name “Nimai”
+When the time came for the name-giving, the pandits led by Nilambara Chakravarti, friends and relatives gathered in
+Mishra's house. Opinions were divided: the pandits proposed one name, the venerable women another:
+
+“[The women said:] ‘Since you have lost many daughters, let this child of yours bear the name Nimai.’” (CB, Adi 4.45)
+
+The pandits reasoned that with the Child's birth the drought had given way to long-awaited rain and the whole world had
+found prosperity, and they named Him Vishvambhara, “He who sustains the universe”; His horoscope too pointed to this
+name. But the women's voice was not set aside:
+
+“Let His second name be ‘Nimai’, as the venerable women advised.” (CB, Adi 4.50)
+
+The nim is a bitter tree; witches and evil spirits, as people in Bengal believe, dare not approach it, and the
+bitterness of its leaves drives death away. So the mother who had lost eight daughters, and the women around her,
+protected the Child and wished Him long life.[^3] <!-- F126 F10 F88 Q13 -->
+
 <!-- СМЕНА 4: ниже — старый текст пилота, заменить -->
-
-## Eight Daughters and Vishvarupa
-The first years of her marriage brought Shachi great sorrow. Eight daughters were born to her, and not one lived more
-than a few moments. Then Jagannatha performed a special rite, praying for a son, and soon Vishvarupa was born — a
-manifestation of Baladeva. This boy, indifferent to worldly things from His very childhood, later took sannyasa under
-the name Shankararanya and ended His days in Pandharpur in 1509 (1431 of the Shaka era). <!-- F3 F4 -->
-
-When Sri Ranga Puri, a disciple of Madhavendra Puri, met the Lord in Pandharpur many years later, he remembered Shachi
-thus:
-
-“He remembered the wife of Jagannatha Mishra as a most devoted and chaste woman. She had shown them such care, as if
-she were the mother of the whole creation.” (CC, Madhya 9.297)
-
-“It had seemed to him then that no one in all the three worlds cooked better than she. When she fed sannyasis, she
-treated them with the same love as her own sons.” (CC, Madhya 9.298)
-
-He and his guru had once been guests at Mishra's house, and Ranga Puri still remembered the taste of the banana-flower
-curry the lady of the house had cooked for them. Then he told how this woman had a worthy son who became the sannyasi
-Shankararanya, and how here, in Pandharpur, He had attained perfection. The Lord, overcome by separation, answered
-that Shankararanya had been His brother in His former life, and Jagannatha and Shachi His father and mother.[^3]
-<!-- F23 F24 -->
-
-## Mother of the Lord
-When the Supreme Lord Himself entered Shachi's womb, her body began to shine with an unearthly radiance, and all who
-saw her said, “A great soul will be born to Shachi.” In the sixth month Advaita Acharya came to their house. He bowed
-to the child within her and walked around her, and to the couple's puzzled questions He only replied that in time
-they would understand everything. Brahma, Shiva and the other gods also came to honour the Lord hidden in her womb;
-Shachi sensed their presence and rejoiced. In those days her heart was filled with mercy for the whole world.
-<!-- F72 F73 -->
-
-On the full-moon evening of the month of Phalguna in 1486, during a lunar eclipse, amid the singing of the holy names,
-Gaurachandra rose from the ocean of her womb like a golden moon. So in Mayapur the Lord accepted Jagannatha and Shachi
-as His father and mother. Gazing at the Infant's face, both forgot themselves for joy. Gods and men hurried to Mishra's
-house, and the house became Vaikuntha. Malini came with khai, bananas and fruit and performed the rites for good
-fortune. For eight days, as Bengali custom required, mother and child kept to the birth-chamber, and on the ninth a
-festival was held. Narahari sings of those days: a happy Shachi holds her son on her lap while crowds stream in to see
-Him. <!-- F74 F6 F9 F110 Q9 -->
-
-Soon Sita Thakurani, Advaita's wife, arrived from Shantipur with rich gifts. She blessed the Infant, touching His head
-with durva grass and rice, and to protect Him from evil spirits she named Him Nimai:
-
-“Touching the little one's head with fresh grass and rice, she blessed Him, saying, ‘May both brothers live long!’ And
-to protect Him from witches and evil spirits she gave Him the name Nimai.” (CC, Adi 13.117)
-
-Witches and evil spirits, as Bengal believes, keep away from the nim tree, and the bitterness of its leaves wards off
-death; in this way the women, Shachi among them, wished the Child a long life.[^4] On the day mother and son first left
-the birth-chamber, Sita presented them with clothes and ornaments; Shachi and Jagannatha honoured her, and she went
-home happy. <!-- F88 F10 Q13 -->
-
-From then on Sita often came to Mayapur and taught Shachi how to raise the Infant; on His birthday the parents gave her
-the honour of being the first to offer Him new clothes. Sita and Shachi were of one heart — Nimai was their very life —
-and day after day Sita helped Shachi bring Him up. The Lord always treated Sita with the same respect and love as His
-own mother, and so Vaishnavas honour Sita equally with Shachi, as the mother of the universe. <!-- F89 F90 F92 F87 -->
 
 ## Nimai in His Mother's Arms
 There were many wonders in Mishra's house, but the parents, fearing for the Child, told no one about them. At four
@@ -186,7 +222,7 @@ ignorant one tell pure from impure? How can a pot in which food was cooked for V
 where I am be impure? Worldly notions of purity have no power over devotion. Lochana Dasa adds that He spoke to her of
 the transcendental nature of Krishna, the master of all, and, seeing her bewildered, brought her a coconut. At last
 Shachi dragged her son away by force, bathed Him and bathed herself. Then, together with the neighbours, she prevailed
-on her husband to let Nimai study again, and Jagannatha gave in.[^5] <!-- F18 F77 F19 -->
+on her husband to let Nimai study again, and Jagannatha gave in.[^4] <!-- F18 F77 F19 -->
 
 Whenever Shachi saw how joyfully her son studied, her own joy grew. In those days Ishvara Puri came secretly to
 Navadvipa, and Nimai invited him home. Shachi quickly cooked many wonderful dishes and offered them to the Deity, and
@@ -231,7 +267,7 @@ For a long time pain tormented Shachi's heart, but in time she began to think of
 known Vishnupriya, the daughter of the royal pandita Sanatana Mishra: the girl bathed in the Ganga three times a day
 and each time bowed at Shachi's feet, and Shachi would bless her: “May Krishna give you a worthy husband.” Now Shachi
 wished to have her as her daughter-in-law and, making sure that her son did not object, sent for the matchmaker
-Kashinatha.[^6] “Speak to the royal pandita,” she said. “If he is willing, let him give his daughter to my Nimai.” She
+Kashinatha.[^5] “Speak to the royal pandita,” she said. “If he is willing, let him give his daughter to my Nimai.” She
 feared that the high-born Sanatana would refuse the son of poor parents, who had besides a name for eccentricity, but
 the matchmaker only laughed: “Thakurani, if not to Nimai Pandita, then to whom?” When Kashinatha returned with consent,
 Shachi said, “I have done all I could; the rest is in the hands of Sri Hari.” <!-- F95 F32 F31 F96 F97 F81 -->
@@ -276,13 +312,13 @@ the goddesses Nimai was not recognised even by those who had known Him from birt
 Vishvarupa's departure had left in Shachi's heart a quiet grievance against Advaita, for it was at His house that her
 elder son had come to see the world as passing. She was careful not to offend Advaita, knowing Him to be a Vaishnava,
 and found comfort in having Nimai at home. But when Nimai too began to spend whole days at Advaita's, leaving His young
-wife at home,[^7] Shachi thought to herself: “He is called Advaita, but Dvaita would suit Him better: He does not unite,
+wife at home,[^6] Shachi thought to herself: “He is called Advaita, but Dvaita would suit Him better: He does not unite,
 He divides. Because of Him one son of mine, beautiful as the moon, has gone, and now the other is not allowed to stay
 at home. No one pities me; I am alone in the world.” She did not say it aloud — she only thought it, out of love for
 her son. But her Son dwells in every heart. <!-- F37 F38 Q4 -->
 
 Once, when the Lord was revealing His divine nature to the devotees in Srivasa's house, Srivasa asked Him to grant His
-mercy to Shachi as well. The Lord replied that His mother had offended Advaita and therefore would not receive it.[^8]
+mercy to Shachi as well. The Lord replied that His mother had offended Advaita and therefore would not receive it.[^7]
 “If those words reach our ears again, we shall not survive them,” cried Srivasa, and the Lord explained how to be freed
 from an offence against a Vaishnava: only the one offended can forgive. Learning of this, Shachi went at once to
 Advaita to beg forgiveness. But as soon as He heard her, He began to glorify the one who had carried the Supreme Lord
@@ -320,7 +356,7 @@ hearing it, the poet rolls on the ground. <!-- F86 F108 F54 -->
 
 For four days, while the Lord wandered half-mad, pressing towards Vrindavana, Sita stayed with Shachi: Shachi lay on the
 ground like one dying — as if the sun had left her sky for ever. At last Nityananda brought the Lord by a ruse to
-Shantipur, and Chandrashekhara Acharyaratna was sent to Navadvipa for Shachi and the devotees.[^9] The news brought her
+Shantipur, and Chandrashekhara Acharyaratna was sent to Navadvipa for Shachi and the devotees.[^8] The news brought her
 almost lifeless body back to life, and the next morning he brought her by palanquin to Advaita's house; with her came
 Murari Gupta, Nandana Acharya, Shridhara, Damodara Pandita, Gangadasa and others. <!-- F91 F42 F113 -->
 
@@ -387,7 +423,7 @@ in Advaita's house, all the cooking was taken on by Shachi — “Ai”, as the 
 by the wives of the Vaishnavas, and the Lord with all His devotees partook of what she had prepared. After His wedding
 Nityananda brought His wives, Vasudha and Jahnava, to her; Shachi embraced them again and again, seated them on her lap
 and fondly pinched their cheeks. At her wish Nityananda then lived nearby for some time before settling in
-Khardaha.[^10] <!-- F106 F100 Q11 F70 F64 -->
+Khardaha.[^9] <!-- F106 F100 Q11 F70 F64 -->
 
 Ishana and Vamshivadana were always with her, servants and protectors of Shachi and Vishnupriya; later, according to
 one biography, their affairs were also managed by Gadadhara Dasa, who moved to Katwa when they were gone. Every morning
@@ -396,7 +432,7 @@ Shachi went with Vishnupriya to bathe in the Ganga. <!-- F49 F52 F53 -->
 ## Departure and Remembrance
 When and how Shachi left this world the biographies do not say. We know only that Vamshivadana, after the departure of
 the Lord and of Shachimata, served Vishnupriya and the aged Ishana, and that Jahnava, coming to the Lord's house after
-the festival at Kheturi, did not find Shachi there and grieved that she had missed her.[^11] Srinivasa Acharya, who came
+the festival at Kheturi, did not find Shachi there and grieved that she had missed her.[^10] Srinivasa Acharya, who came
 to Navadvipa to see the Lord's family, was blessed by Shachi in a dream. <!-- F51 F50 F71 F65 -->
 
 Songs keep her memory. Vasudeva Ghosha sings of the Boy who whirls about Shachi's courtyard, hides and teases His mother,
@@ -420,7 +456,7 @@ And Kavi Karnapura:
 Jagannatha Purandara — of this there is no doubt. Into them also entered the gods Aditi and Kashyapa, Kaushalya and
 Dasharatha, and Prishni and her husband.” (GGD 37–38)
 
-Thus all who in earlier descents had been mothers of God were united in Shachi.[^12] She is the very essence of
+Thus all who in earlier descents had been mothers of God were united in Shachi.[^11] She is the very essence of
 motherly love, and in that love — not in majesty — lies her secret: the Lord for whose sake sages fast cried in her
 arms, asked her for food, and secretly came from Puri to her hearth. <!-- F7 F8 Q1 Q2 -->
 
@@ -429,28 +465,29 @@ arms, asked her for food, and secretly came from Puri to her hearth. <!-- F7 F8 
 [^2]: According to one biography, Devaki and Vasudeva also entered into Shachi and Jagannatha. The
     “Gaura-ganoddesha-dipika” (38) names Aditi, Kaushalya and Prishni, and of Devaki and Vasudeva says only: “Some say”
     (39). In Murari Gupta the gods, praising Shachi, say to her: “You are Devaki, Rohini and Yashoda” (“Kadacha” 1.5.9).
-[^3]: In the “Chaitanya-charitamrita” (Madhya 9.301) the Lord calls Shankararanya His brother and Jagannatha Mishra His
-    father; Shachi is not mentioned in His reply.
-[^4]: According to one biography, the name “Nimai” was given by Shachi and the other women; according to others, by Sita
-    Thakurani, as the “Chaitanya-charitamrita” (Adi 13.117) also says.
-[^5]: According to one account, both parents interrupted His studies and themselves sent their son back to school after
+[^3]: The “Chaitanya-charitamrita” names a different giver of the name: “Touching the baby's head with fresh grass and
+    rice, she [Sita Thakurani] blessed Him with the words: ‘May the life of both brothers be long!’ And to protect Him
+    from witches and evil spirits, she named Him Nimai” (CC, Adi 13.117). The biographies follow now one, now the other
+    of these sources: according to some, the name was given by Shachi and the other women or by the neighbours;
+    according to others, by Sita.
+[^4]: According to one account, both parents interrupted His studies and themselves sent their son back to school after
     hearing Him speak in the mood of Dattatreya; according to another, the decision was the father's, and he yielded to
     the entreaties of Shachi and the neighbours.
-[^6]: Lochana Dasa in the “Chaitanya-mangala” calls the matchmaker Dvija Kashishvara and the bride the daughter of
+[^5]: Lochana Dasa in the “Chaitanya-mangala” calls the matchmaker Dvija Kashishvara and the bride the daughter of
     Sanatana Pandita.
-[^7]: One biography names her Lakshmipriya, but at that time, after the Lord's return from Gaya, His wife was Vishnupriya
+[^6]: One biography names her Lakshmipriya, but at that time, after the Lord's return from Gaya, His wife was Vishnupriya
     (CB, Madhya 22).
-[^8]: According to some biographies, Srivasa asked that Shachi might see His divine form — and when the offence had been
+[^7]: According to some biographies, Srivasa asked that Shachi might see His divine form — and when the offence had been
     lifted, the Lord showed her that form; according to others, that she might be granted love of God: the Lord said
     that only Advaita could forgive her, as only Ambarisha could forgive the offence of Durvasa, and when Shachi touched
     the dust of Advaita's feet she herself fell unconscious, overwhelmed by love, and the Lord declared that she had
     attained devotion to Vishnu.
-[^9]: According to some biographies, Chandrashekhara was sent by Nityananda (so also CC, Madhya 3.137); according to
+[^8]: According to some biographies, Chandrashekhara was sent by Nityananda (so also CC, Madhya 3.137); according to
     another, it was Advaita who sent for Shachi.
-[^10]: According to one biography, at Shachi's request Nityananda lived for some time in Navadvipa after His wedding,
+[^9]: According to one biography, at Shachi's request Nityananda lived for some time in Navadvipa after His wedding,
     then moved to Saptagrama to Uddharana Datta and finally to Khardaha; according to another, at her word He went
     straight to Advaita's house in Shantipur and stayed there until Uddharana Datta invited Him to Saptagrama.
-[^11]: One biography, citing the “Bhakti-ratnakara”, relates that Vamshivadana, on meeting Srinivasa, went to tell
+[^10]: One biography, citing the “Bhakti-ratnakara”, relates that Vamshivadana, on meeting Srinivasa, went to tell
     Vishnupriya and Shachimata of his arrival; yet the same biography says that by then Shachi had already departed.
-[^12]: Some biographies list them by name, including Devaki; the “Gaura-ganoddesha-dipika” (37–38) names Aditi,
+[^11]: Some biographies list them by name, including Devaki; the “Gaura-ganoddesha-dipika” (37–38) names Aditi,
     Kaushalya and Prishni.
