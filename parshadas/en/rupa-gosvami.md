@@ -293,7 +293,7 @@ this verse, He embraced both brothers and then mercifully touched their heads wi
 
 The verse the Lord recited is from the “Itihasa-samuchchaya.” <!-- F73 F74 Q17 -->
 
-Having received this mercy, Rupa — a peerless poet whose poetry is not of this world — together with his younger
+Having received this mercy, Rupa — the best of transcendental poets (aprakrita-kavi-shreshtha) — together with his younger
 brother, with folded palms, bowed to the Lord with a verse of his own:
 
 “O Krishna, I offer You my obeisances. Your name is Sri Krishna Chaitanya. The colour of Your body is golden yellow. You
@@ -394,12 +394,14 @@ in his heart, so that Rupa became skilled in expounding them. These teachings ar
 Karnapura says in the “Chaitanya-chandrodaya-nataka”:
 
 “When in the course of time the accounts of the pastimes of Vrindavana had vanished from people's memory, the Lord, to
-glorify them again in all their fullness, bathed Rupa and Sanatana there in the nectar of His mercy.”
-(“Chaitanya-chandrodaya-nataka,” 9)[^26]
+glorify them again in all their fullness, bathed Rupa and Sanatana in the nectar of His mercy in that same place.”
+(“Chaitanya-chandrodaya-nataka,” 9.38)[^26]
 
-And elsewhere in the same drama (9.70): Rupa, long bound fast by Gaura's beloved qualities and free of attachment to
+And elsewhere in the same drama (9.29): Rupa, long bound fast by Gaura's beloved qualities and free of attachment to
 home, revealed his form like the highest rasa embodied, and in Prayaga the Lord bestowed His mercy on him and his younger
-brother Anupama with loving talks and tight embraces. <!-- F98 F99 F100 F101 Q23 Q24 -->
+brother Anupama with loving talks and tight embraces. As one biography explains, Rupa, attached from the very beginning
+to the qualities of his ishtadeva Gaurasundara, only played the role of household life and displayed the lila of
+liberation from it: an eternal associate of the Lord is not bound by home. <!-- F98 F99 F100 F101 Q23 Q24 -->
 
 Rupa himself recorded this in the opening verse of the “Bhakti-rasamrita-sindhu” (1.1.2), which Krishnadasa Kaviraja
 quotes:
@@ -409,7 +411,8 @@ Therefore I humbly bow down at the lotus feet of the Supreme Lord Sri Chaitanya 
 to do this.” (CC, Madhya 19.134)
 
 “Lowest,” “wretched” are words of humility; and the inspiration in the heart of which Rupa speaks is the shakti
-invested by the Lord: He instructed Rupa not with words alone but revealed all truths within him. According to one
+invested by the Lord: He instructed Rupa not with words alone but revealed all truths within him. This was not the training of a novice: the
+Lord was giving shiksha to His eternal associate in order to reveal bhakti-rasa to the world through him. According to one
 biography, in Prayaga Mahaprabhu directly told Rupa to write the “Bhakti-rasamrita-sindhu.” <!-- F102 Q25 I8 -->
 
 For ten days in succession, having invested His shakti in Rupa, the Lord set forth to him in concise form, like sutras,
@@ -2186,8 +2189,9 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     with money “sent by Rupa.” Compare the tradition of the Havaskhana ghat.
 [^21]: According to the chapter on Balabhadra Bhattacharya in one biography, in Prayaga, at Triveni (during the ten days
     of bathing in the month of Makara), Balabhadra invited Rupa and Vallabha (Anupama) and fed them the remnants of
-    Mahaprabhu's meal. According to the CC, however, the brothers received the remnants of the Lord's meal in the house of
-    the South Indian brahmana (Madhya 19.58–59) and then at Vallabha Bhatta's (Madhya 19.88–89).
+    Mahaprabhu's meal. This agrees with the CC: in the house of the South Indian brahmana “the Bhattacharya” (evidently
+    Balabhadra, the Lord's companion) invited the two brothers as well, and they received the remnants from Mahaprabhu's
+    plate (Madhya 19.58–59); later Vallabha Bhatta gave them the remnants of the Lord's meal (Madhya 19.88–89).
 [^22]: In the CC: “This conversation about Krishna aroused in Mahaprabhu the bliss of maha-prema, but in the presence of
     the Bhattacharya He restrained His feelings” (Madhya 19.63); according to one biography, Vallabha marvelled at the
     Lord's ecstatic symptoms.
@@ -2196,8 +2200,10 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
 [^25]: One biography gives these verses with a wrong number (Madhya 19.105–107). The same biography's references to CC
     Antya 1.73–86 (given as Madhya 13.66–72) and Antya 1.100 (given as 1.101) are inaccurate; its other references to the
     CC and CB in the story of Rupa are correct.
-[^26]: The verse is numbered 9.104 in one biography and 9.38 in another; the second takes “there” to mean “in
-    Vrindavana.”
+[^26]: The verse numbers follow our translation of the drama. One biography gives this verse as 9.104, and the verse
+    about Rupa free of attachment to home as 9.70 (by another numbering). The original has “in that same place”
+    (tatraiva), that is, where, as the drama relates, the Lord instructed Rupa and Sanatana; another biography takes it
+    as “in Vrindavana.”
 [^27]: According to one biography — differently: of millions devoted to karma only one is a jnani, of millions of jnanis
     only one is liberated, and among millions of the liberated a devotee of Krishna is hard to find; many people follow
     the Vedas only in name, and of those who follow dharma many seek its fruits; the soul is there called an atomic spark
