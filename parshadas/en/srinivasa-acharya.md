@@ -122,7 +122,7 @@ himself; at his laments stones melt. Again and again he falls unconscious to the
 everyone's heart breaks. In great torment the day ended; he firmly resolved: ‘I will not keep life in this body. I shall
 build a fire and enter it — then this cruel anguish of mine will end.’” (“Bhakti-ratnakara,” 3.66–70) <!-- F28 Q5 -->
 
-Then Mahaprabhu brought sleep upon him and appeared to him in a dream. Nrisimha Kaviraja writes in the “Navapadya” that
+Then Mahaprabhu brought sleep upon him and appeared to him in a dream. Nrisimha Kaviraja writes in one of his verses that
 the Lord, seeing His devotee's suffering, consoled him with many merciful words and told him to go on to Nilachala. His
 disciple Karnapura Kaviraja, in the “Guna-lesha-suchaka” — “A Hint of a Fraction of His Virtues,” whose verses are
 preserved in the “Narottama-vilasa” — recalls the same journey:
