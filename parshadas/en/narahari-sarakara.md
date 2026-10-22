@@ -15,8 +15,8 @@ as one's wealth, Advaita as one's strength, the feet of Radha and Govinda as one
 participant in the pastimes of Gaura-Krishna — this is the art of bhajana. <!-- F7 Q6 I1 -->
 
 Of all the residents of Shrikhanda — and every one of them was a companion of the Lord — Narahari was the first. Beside
-him lived and served his brother Mukunda, his nephew Raghunandana, Chiranjiva and Sulochana; later Shrikhanda gave Gauda
-Damodara Kaviraja, Ramachandra and Govinda Kaviraja, Balarama Dasa, Ratikanta, Ramagopala Dasa, Pitambara Dasa,
+him lived and served his brother Mukunda, his nephew Raghunandana, Chiranjiva and Sulochana; among the eminent devotees of Shrikhanda are
+also counted Damodara Kaviraja, Ramachandra and Govinda Kaviraja, Balarama Dasa, Ratikanta, Ramagopala Dasa, Pitambara Dasa,
 Shachinandana, Jagadananda and many other Vaishnavas. <!-- F35 -->
 
 ## A Family of Vaidyas
@@ -39,7 +39,7 @@ though ordinary people did not see it. The “Chaitanya-charitamrita” says of 
 “Outwardly he is a court physician in the service of the state. But who can understand how great is his love for God?”
 (CC, Madhya 15.120) <!-- F15 -->
 
-When their father died, Mukunda sent his younger brother to study in Navadvipa and looked after him himself. Narahari soon
+When their father died, Mukunda sent his younger brother to study in Navadvipa. Narahari soon
 became a great scholar — Bhaktivinoda Thakura notes that he was an accomplished grammarian — and at the same time a subtle
 connoisseur of the tastes of bhakti-rasa. <!-- F16 -->
 
@@ -51,8 +51,8 @@ afterwards. <!-- F17 Q18 -->
 
 In Navadvipa, when Gadadhara Pandita was serving the Lord without ever leaving Him, Narahari had the good fortune to
 enter his company. Srila Bhaktisiddhanta Sarasvati writes that certain companions of Mahaprabhu, Narahari among them,
-became followers of Gadadhara: they took shelter of him, knowing him to be the dearest of all to the Lord. That is why
-Lochana Dasa calls Gadadhara and Narahari the dearest companions of Mahaprabhu, and more than once paints this picture:
+became followers of Gadadhara: they took shelter of him, knowing him to be the dearest of all to the Lord. And Narahari's
+disciple Lochana Dasa calls Gadadhara and Narahari the dearest companions of Mahaprabhu, and more than once paints this picture:
 Gaurasundara, with Gadadhara on His left, Narahari on His right and Raghunandana at His feet, all of them drinking the
 nectar of His face. <!-- F18 F19 F20 -->
 
@@ -139,7 +139,7 @@ Shrikhanda had once been a centre of Shakta-Tantric worship. By the power of Muk
 from the sixteenth century, a prominent centre of Gaudiya Vaishnava preaching. <!-- F38 -->
 
 Narahari raised his nephew with great care and loved him dearly; Raghunandana also became his disciple. A Sanskrit verse
-quoted by the biographies says just this: “And this Raghunandana is most worthy, the disciple of Narahari…” (we find it
+quoted by one of the biographies says just this: “And this Raghunandana is most worthy, the disciple of Narahari…” (we find it
 also in the “Vaishnava-vandana,” 90). <!-- F39 Q15 -->
 
 According to tradition, Mahaprabhu and Nityananda once came to Narahari at Shrikhanda and asked for honey. Narahari turned
@@ -148,7 +148,8 @@ the water of the pond beside his house into honey, and since then the pond has b
 
 In a dream the Lord told him to install Deities of the Lord Himself; according to one biography there were three, and
 They are worshipped to this day in Shrikhanda, Katwa and Ganganagara.[^9] The Deity of Gaura installed by Narahari in
-Shrikhanda (“Bhakti-ratnakara” 8.431–432) is named by the biographies among the Deities of Gaura of that age. At his
+Shrikhanda — Raghunandana showed It to Narottama (“Bhakti-ratnakara” 8.431–432) — is named by one of the biographies
+among the Deities of Gaura of that age. At his
 behest, it is said, Kanai, Raghunandana's son, established in Shrikhanda the service of Gauranga and Vishnupriya. And
 before his own departure Raghunandana, as one biography says, gave himself to Narahari's Deities — Sri Gauranga and Sri
 Madana-Gopala. <!-- F41 F42 F43 F44 -->
@@ -164,21 +165,21 @@ together with Gaura-lila. <!-- F46 -->
 Narahari's best-known disciple is Lochana Dasa of Kogram near Jhamatpur, the author of the “Chaitanya-mangala,” a disciple
 devoted to him alone (ekanishtha). As a youth he came to Shrikhanda and took shelter at Narahari's feet; the guru grew fond
 of him and gave him initiation. Lochana lived with him in Shrikhanda and learned from him the art of kirtana, and later,
-according to one biography, the guru told him to write the life of Mahaprabhu. <!-- F47 F48 -->
+at the guru's command, he wrote the life of Mahaprabhu — the “Chaitanya-mangala.” <!-- F47 F48 -->
 
 Lochana's detachment alarmed his wife's parents, and they came to Narahari. He told his disciple to go to his
 father-in-law's house. <!-- F49 -->
 
 The “Chaitanya-mangala” is full of love for the guru. At the very beginning of the book Lochana writes: “Thakura Sri
 Narahari, master of his servant's life — my hope is in his feet; low though I am, I long to sing the virtues of Gaura —
-this is Lochana Dasa's hope” (Sutra-khanda, 9); “Without him I have no friend in the three worlds; I praise Narahari Dasa,
+this is what Lochana Dasa trusts in” (Sutra-khanda, 9); “Without him I have no friend in the three worlds; I praise Narahari Dasa,
 ocean of Gaura's virtues” (ibid., 33); “My Thakura, Prabhu Narahari Dasa — I bow and humbly pray: fulfil my desire”
 (ibid., 61). At the end of the Sutra-khanda he again glorifies his guru and his nephew Raghunandana:
 
 “Sri Narahari Dasa is my Thakura, whose power is the glory of the vaidya lineage. Unchecked is his love for Krishna, his
 body is full of Krishna; to his followers he teaches nothing but prema. His heart aches with compassion for countless
 beings… ‘Narahari of Chaitanya’ — so this master is renowned; apart from his feet I have no other refuge… On the path
-approved by Chaitanya his judgement is pure… To all Vaishnavas — due respect and love.” (“Chaitanya-mangala,”
+approved by Chaitanya his judgement is pure… To all Vaishnavas due honour and love.” (“Chaitanya-mangala,”
 Sutra-khanda 636–644)[^10] <!-- F50 F6 Q2 -->
 
 Later Lochana grew anxious: had he not offended Nityananda by glorifying his own guru as the dearest to the Lord while
@@ -195,8 +196,9 @@ Yajigrama, Narahari met Srinivasa and showered mercy and love upon him; one biog
 received the mercy of Govinda Ghosha and Narahari. <!-- F54 -->
 
 Later Srinivasa moved with his mother to Yajigrama, to be always near the devotees of Shrikhanda, and came to Narahari in
-neighbouring Shrikhanda. He fell at his feet and rolled on the ground, and Narahari raised him and embraced him. From
-Narahari Srinivasa learned that the Lord would soon withdraw His pastimes and that there was no time to lose; with the
+neighbouring Shrikhanda. He fell at his feet and rolled on the ground, and Narahari embraced him. From
+Narahari Srinivasa learned that the Lord would soon withdraw His pastimes and that there was no time to lose: Narahari
+referred to a riddle (tarja) of Advaita Acharya; with the
 permission and blessings of the people of Shrikhanda he set out for Nilachala on Magha shukla-panchami.[^11] <!-- F55 -->
 
 Karnapura Kaviraja, Srinivasa's disciple, recalls this in a verse quoted in the “Narottama-vilasa”: on his way to Puri,
@@ -244,8 +246,8 @@ Karttika. <!-- F68 -->
 The festival of separation, the viraha-utsava, for Sarakara Thakura was instituted in Shrikhanda by Raghunandana, and the
 rites were performed by Srinivasa. Nityananda's son Virachandra (Virabhadra) came, with many eminent Vaishnavas. Srinivasa
 expounded the “Srimad-Bhagavatam,” Virabhadra danced all night in sankirtana, and on the dvadashi there was a great
-festival (“Bhakti-ratnakara,” 9). The assembled great souls glorified Raghunandana.[^16] Srinivasa then held festivals of
-separation for Narahari in Shrikhanda and for Gadadhara Dasa in Katwa. <!-- F69 -->
+festival (“Bhakti-ratnakara” 9.706).[^16] The assembled great souls glorified Raghunandana. Srinivasa then held festivals
+of separation for Gadadhara Dasa in Katwa and for Narahari in Shrikhanda. <!-- F69 -->
 
 Lochana Dasa came to the festival with Yadunandana Thakura and welcomed the guests with garlands and sandal paste. After
 the departure of Shuklambara Brahmachari, Gadadhara Dasa, Narahari Sarakara and, according to one biography, Dvija
@@ -295,7 +297,7 @@ stages of this bhajana are described in the “Shikshashtaka” and the “Upade
 sadhaka's conduct, of how he rises according to his qualification through the stages of sva-nishtha, parinishthita and
 nirapeksha, of association with devotees and the giving up of other association so as to be freed from offences, and of
 shelter in the rasa of Krishna's name, form, qualities and pastimes. It warns against the deceptions that will appear
-after the avatara's disappearance and clarifies what is left unsaid in the “Shikshashtaka” — and so for those who seek
+after the avatara's disappearance (to be on guard against them is itself a part of bhajana) and clarifies what is left unsaid in the “Shikshashtaka” — and so for those who seek
 bhajana it is like a necklace. <!-- F76 F77 I3 -->
 
 Bhaktivinoda notes something more: although Narahari humbly calls himself a “foolish servant,” Sarasvati revealed his
@@ -369,19 +371,22 @@ Raghunandana is the son of Mukunda (CC, Adi 10.78), and Narahari is his uncle.
 [^4]: According to another biography, these words were written by Lochana Dasa.
 [^5]: One of the biographies takes the words “Narahari and others” to mean “Narahari and the other residents of
 Shrikhanda.”
-[^6]: The verse itself names no one and speaks of several devotees; the identification is therefore only an
-interpretation.
+[^6]: The verse itself names no one — it speaks only of “some fortunate ones” (কোন ভাগ্যবন্ত); the identification is
+therefore only an interpretation.
 [^7]: According to one biography, it was Sarvabhauma who asked Gopinatha Acharya to name the devotees — after the
 Snana-yatra, when the Lord had withdrawn to Alalanatha. In the “Chaitanya-charitamrita” (Madhya 11) Gopinatha points out
 the devotees to the king.
 [^8]: One of the biographies cites here verse “197” of the “Gaura-ganoddesha-dipika”; in our translation it is verse 209.
 [^9]: According to another biography, of the six Deities installed in Shrikhanda, Narahari, by tradition, installed the
 Deities of Mahaprabhu and Nityananda; a third names Sri Gauranga and Sri Madana-Gopala as Narahari's Deities.
-[^10]: “Narahari of Chaitanya” — Narahari who belongs to Chaitanya: so, in our translation, Lochana names his guru. One of
-the biographies reads the passage differently — as though Lochana were calling the Lord Himself “Narahari-Chaitanya.”
+[^10]: “Narahari of Chaitanya” (নরহরি চৈতন্য) — Narahari who belongs to Chaitanya: so Lochana names his guru; the
+“master” (prabhu) in this line is Narahari himself, not the Lord. So too one of the biographies, which quotes the line,
+understands it.
 [^11]: According to another biography, Narahari, Raghunandana and others, hearing of Srinivasa's wish to go to Puri,
 rejoiced and told him to wait a few days so as to go together with the Bengali devotees. Elsewhere it is said that
-Srinivasa went to Nilachala sent by Narahari Thakura of Shrikhanda.
+Srinivasa went to Nilachala sent by Narahari Thakura of Shrikhanda. That Narahari referred to Advaita's riddle is stated
+by one biography; another says that Srinivasa set out with his mother's permission, on the fifth day of the bright
+fortnight.
 [^12]: The accounts differ. According to one biography, Srinivasa's mother herself told Narahari of her wish, and he told
 Srinivasa to marry. According to another, Narahari spoke to him when Raghunandana called Srinivasa to Shrikhanda after
 Vishnupriya's passing. Only one of the biographies says that Narahari himself kept the vow of a brihad-vrati, and it
@@ -391,8 +396,11 @@ family life. That Raghunandana arranged the wedding is stated by two biographies
 pastimes. The eternal companions appear together with the Lord wherever He Himself appears in His devotee's kirtana.
 [^14]: In 2026 — on 5 December, the krishna-dvadashi: that year the ekadashi fast is moved to the mahadvadashi.
 [^15]: Only one biography gives the year of his departure; the others do not.
-[^16]: One of the biographies quotes the “Bhakti-ratnakara” (9.512–514) thus: the great festival will be “on the
-thirteenth day of the dark fortnight of Agrahayana”; according to another, the great festival was on the dvadashi.
+[^16]: One of the biographies, citing the “Bhakti-ratnakara” (9.512–514), gives the day of the great festival as “the
+thirteenth day of the dark fortnight of Agrahayana.” This is a mistake: in the “Bhakti-ratnakara” itself the festival is
+set for the krishna-ekadashi, the day of his departure (9.513–514), and the great festival was on the dvadashi (9.706).
+The same biography says that Srinivasa, on returning from his second journey to Vrindavana, took part in the
+anniversary festivals of the departure of Narahari in Shrikhanda and of Gadadhara Dasa in Katwa.
 [^17]: According to another biography, the “Bhajanamrita” is a Sanskrit book of songs.
 [^18]: The lists differ. One of the biographies names the “Bhakti-chandrika-patala,” the “Sri-Chaitanya-sahasranama,” the
 “Sri-Shachinandanashtaka,” the “Sri-Radhashtaka” and the “Sri-Krishna-bhajanamrita” as his well-known and honoured books;
@@ -401,7 +409,8 @@ him a book of songs, the “Padakalpataru,” on deep separation from Gauranga; 
 songs by various poets (one song of Narahari's is indeed in it).
 [^19]: In one place one of the biographies, by a slip, calls the “Bhakti-ratnakara” a work of Narahari Sarakara Thakura;
 its author is Narahari Chakravarti.
-[^20]: “Gaura-nagari” is the notion of Gauranga as a nagara, a lover, surrounded by the “nagaris” of Nadia. It is
+[^20]: “Gaura-nagari” is the sahajiya doctrine that Gauranga is a “nagara,” the beloved of the women of Nadia (the
+“nagaris”). It is
 rejected both by Vrindavana Dasa and by Srila Bhaktisiddhanta Sarasvati, who counts it among the deviations from
 Mahaprabhu's teaching: in Gaura-lila the Lord accepted the bhava and complexion of Sri Radha in order to taste Her love
 for Krishna, and both as a sannyasi and earlier, in Navadvipa, He always kept strict rules regarding women. The Gaudiya
