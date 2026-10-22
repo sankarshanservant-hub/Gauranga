@@ -2,7 +2,7 @@
 """Перевод стиха по ссылке из наших файлов (почти без затрат токенов).
   verse.py "CC Madhya 4.197-199"   — ЧЧ, перевод ВЧД (chaitanya-charitamrita/vcd/txt/CC_<Лила><NN>.txt)
   verse.py "CB Antya 3.176-178"    — ЧБ, Мадхья/Антья (chaitanya-bhagavata/src/txt/CB_<Кханда><NN>.txt)
-Лилы/кханды: Adi, Madhya, Antya. ЧБ Ади — по CB_Adi_verses.json (разбор tools/cb_adi_parse.py, ~94 % стихов)."""
+Лилы/кханды: Adi, Madhya, Antya. ЧБ Ади — по изданию chaitanya-bhagavata/ed/CB_AdiNN.md (запасной путь — CB_Adi_verses.json)."""
 import re, sys
 from pathlib import Path
 R = Path(__file__).resolve().parents[2]
@@ -25,7 +25,26 @@ def cc(lila, ch, a, b):
         out.append(f'({v}) {grp}' + re.sub(r'\s+', ' ', body).strip())
     return out
 
+def cb_ed(kh, ch, a, b):
+    """Издание ed/CB_<Кханда><NN>.md: «**N.** перевод» (группы — «**12–14.**»)."""
+    f = R / f'chaitanya-bhagavata/ed/CB_{kh}{ch:02d}.md'
+    if not f.exists(): return None
+    t = f.read_text(errors='replace')
+    out = []
+    for v in range(a, b + 1):
+        m, grp = re.search(rf'^\*\*{v}\.\*\* (.*)$', t, re.M), ''
+        if not m:
+            for g in re.finditer(r'^\*\*(\d+)[–-](\d+)\.\*\* (.*)$', t, re.M):
+                if int(g.group(1)) <= v <= int(g.group(2)):
+                    m, grp = g, f'[{g.group(1)}–{g.group(2)}] '
+                    break
+        out.append(f'({v}) {grp}' + (m.group(m.lastindex).strip() if m else '— не найден'))
+    return out
+
 def cb(kh, ch, a, b):
+    if kh == 'Adi':  # Ади — по изданию ed/ (разбор двухколоночной выгрузки CB_Adi_verses.json ошибался)
+        r = cb_ed(kh, ch, a, b)
+        if r and not all(x.endswith('— не найден') for x in r): return r
     if kh == 'Adi':  # разобрано tools/cb_adi_parse.py из двухколоночной выгрузки CB_Adi_all.txt
         import json
         d = json.loads((R / 'chaitanya-bhagavata/src/txt/CB_Adi_verses.json').read_text())
