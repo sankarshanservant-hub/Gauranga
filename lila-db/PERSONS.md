@@ -96,7 +96,7 @@
 | @vakreshvara | Вакрешвара Пандит | Vakreshvara Pandita | {карточка: в Кришна-лиле — в него вошла Шаширекха (ГГД 73) и др.; происхождение — Гуптипара; явление — кришна-панчами месяца Ашадха; уход — шукла-шаштхи месяца Ашадха} |
 | @shridhara | Шридхара (Кхолавеча) | Shridhara (Kholavecha) | Шридхара Пандит Навадвипы |
 | @srirama-pandita | Шри Рама Пандит | Sri Rama Pandita | младший брат Шривасы; Рамай (Рамаи) Пандит — вестник Господа к Адвайте (ЧБ Мадхья 6) |
-| @nandana-acharya | Нандана Ачарья | Nandana Acharya | в его доме в Навадвипе остановился Нитьянанда |
+| @nandana-acharya | Нандана Ачарья | Nandana Acharya | в его доме в Навадвипе остановился Нитьянанда · {карточка: по таттве — семнадцатая ветвь древа Чайтаньи (ЧЧ Ади 10.39); происхождение — Навадвипа} |
 | @gopinatha-navadvipa | Гопинатха (брахман Навадвипы) | Gopinatha (a brahmana of Navadvipa) | спутник Господа в Навадвипе; возможно, тот же, что Гопинатха Ачарья (родом из Навадвипы, позднее в Пури) — отождествление не доказано |
 | @vanamali-vipra | Ванамали (бедный брахман из Бенгалии) | Vanamali (a poor brahmana from Bengal) | пришёл с сыном, увидел в Гауре Кришну; не путать с @vanamali-acharya |
 | @jagadananda-pandita | Джагадананда Пандит | Jagadananda Pandita | {карточка: в Кришна-лиле — Сатьябхама, царица Двараки (ГГД 51) и др.} |
@@ -736,3 +736,7 @@
 | @shyamasundara-acharya | Шьямасундара Ачарья | Shyamasundara Acharya | брахман-рархи из Кумарахатты, отец Ишвары Пури (B 716; T 9); не путать с @shyamasundara-khardaha |
 | @baneshvara-pundarika | Банешвара (Гангопадхьяя) | Baneshvara (Gangopadhyaya) | отец Пундарики Видьянидхи, варендра-брахман родом из Багхии (Дакка) (B 69, 748; T 52); по другому мнению отца звали Шукламбара (B 748) |
 | @gangadevi-pundarika | Гангадеви | Gangadevi | мать Пундарики Видьянидхи (B 69, 748; T 52); не путать с @ganga-devi (богиня Ганга) |
+| @nandana-nityananda | Нандана (брат Вишнудаса и Гангадаса) | Nandana (brother of Vishnudasa and Gangadasa) | ветвь Нитьянанды, один из трёх братьев (ЧЧ Ади 11.43); по B 758 — то же лицо, что @nandana-acharya, по «Гаудия-вайшнава-абхидхане» (T 48) — другое: поэт, сочинитель песен |
+| @vishnudasa-nityananda | Вишнудас (брат Нанданы и Гангадаса) | Vishnudasa (brother of Nandana and Gangadasa) | ветвь Нитьянанды, один из трёх братьев, в чьём доме жил Нитай (ЧЧ Ади 11.43; B 758; T 48); не путать с @vishnudasa, @vishnudasa-acharya, @vishnudasa-vaidya |
+| @gangadasa-chaturbhuja | Гангадас (сын Чатурбхуджи Пандита) | Gangadasa (son of Chaturbhuja Pandita) | ветвь Нитьянанды; прежде в его доме жил Нитьянанда (ЧБ Антья 5.745; ЧЧ Ади 11.43; B 758; T 48); не путать с @gangadasa-pandita, @baru-gangadasa |
+| @chaturbhuja-pandita | Чатурбхуджа Пандит | Chaturbhuja Pandita | отец Гангадаса (ЧБ Антья 5.745); по B 758 — и отец Нанданы Ачарьи (⚠ вывод B) |

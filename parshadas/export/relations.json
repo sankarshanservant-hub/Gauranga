@@ -7097,6 +7097,273 @@
   ]
  },
  {
+  "from": "@nandana-acharya",
+  "type": "guest",
+  "who": "@nityananda",
+  "facts": [
+   "F10",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "I1",
+   "I2"
+  ],
+  "events": [
+   "ev-nityananda-first-meeting"
+  ],
+  "note": "Придя в Навадвипу, Нитьянанда тайно жил в его доме; здесь Господь с преданными нашёл Его и открыл Его славу (ЧБ Мадхья 3–4); Нандана считал служение Ему исполнением жизни (T)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "guest",
+  "who": "@advaita",
+  "facts": [
+   "F10",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F29",
+   "F31",
+   "F37"
+  ],
+  "events": [
+   "ev-advaita-comes-to-navadvipa",
+   "ev-jump-into-ganga"
+  ],
+  "note": "Адвайта, «испытывая» Господа, спрятался в его доме (ЧБ Мадхья 6.57, 6.69) — ⚠Б2."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "guest",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F9",
+   "F10",
+   "F27",
+   "F28",
+   "F30",
+   "F32",
+   "F33",
+   "F34",
+   "F35",
+   "I3",
+   "I4"
+  ],
+  "events": [
+   "ev-jump-into-ganga",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Ветвь древа Чайтаньи (ЧЧ Ади 10.39); после прыжка в Гангу Господь ночь скрывался у него, Нандана служил Ему и сказал, что Его не спрятать (ЧБ Мадхья 17.47–64) — ⚠Б1, ⚠Б4."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "companion",
+  "who": "@srivasa",
+  "facts": [
+   "F12",
+   "F15",
+   "F19",
+   "F35",
+   "F36",
+   "F42"
+  ],
+  "events": [
+   "ev-jump-into-ganga",
+   "ev-closed-door-kirtan-scoffers"
+  ],
+  "note": "Спутник ночных киртанов у Шривасы; по велению Господа привёл Шривасу к Нему (ЧБ Мадхья 17.67–68) ≠ T 31 — Шривасу привёл Харидас."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F15",
+   "F30",
+   "F31",
+   "F35"
+  ],
+  "events": [
+   "ev-jump-into-ganga"
+  ],
+  "note": "Харидас с Нитьянандой вытащил Господа из Ганги; Господь ушёл к Нандане (по T 31 — они Его спрятали)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@srirama-pandita",
+  "facts": [
+   "F23",
+   "F24",
+   "F25",
+   "F26"
+  ],
+  "events": [
+   "ev-advaita-comes-to-navadvipa"
+  ],
+  "note": "Рамаи, вестник к Адвайте; Господь вторично послал его в дом Нанданы за Адвайтой."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "met",
+  "who": "@sita-thakurani",
+  "facts": [
+   "F24",
+   "F26"
+  ],
+  "events": [
+   "ev-advaita-comes-to-navadvipa"
+  ]
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "met",
+  "who": "@achyutananda",
+  "facts": [
+   "F24"
+  ],
+  "events": [
+   "ev-advaita-comes-to-navadvipa"
+  ]
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "sibling",
+  "who": "@vishnudasa-nityananda",
+  "facts": [
+   "F3",
+   "F5"
+  ],
+  "note": "По B и T (ЧЧ Ади 11.43); по «Абхидхане» брат Вишнудаса — другой Нандана (@nandana-nityananda) — ⚠2."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "sibling",
+  "who": "@gangadasa-chaturbhuja",
+  "facts": [
+   "F2",
+   "F3",
+   "F5"
+  ],
+  "note": "По B и T (ЧБ Антья 5.745, ЧЧ Ади 11.43) — ⚠2."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "father",
+  "who": "@chaturbhuja-pandita",
+  "facts": [
+   "F2"
+  ],
+  "note": "Вывод B (⚠2); по «Абхидхане» отец — Лакшми Нараян (F6)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@nandana-nityananda",
+  "facts": [
+   "F8"
+  ],
+  "note": "Тёзка: по B — то же лицо, по «Абхидхане» (T 48) — другое (ветвь Нитьянанды, поэт)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F39"
+  ],
+  "events": [
+   "ev-raghavera-jhali",
+   "ev-month-stored-prasada"
+  ],
+  "note": "В год «рагхавера джхали» Нандана тоже поднёс Господу кушанья (ЧЧ Антья 10.122)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F41"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Назвал его царю (ЧЧ Мадхья 11.89); T — Сарвабхаума (⚠5)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F38"
+  ],
+  "events": [
+   "ev-shantipura-reunion"
+  ],
+  "note": "Вместе с Шачи и навадвипскими преданными встретил Господа-санньяси в Шантипуре."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "companion",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F12",
+   "F42"
+  ],
+  "events": [
+   "ev-nagara-kirtana-kazi"
+  ]
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "companion",
+  "who": "@jagadisha-pandita",
+  "facts": [
+   "F43"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ]
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@shridhara",
+  "facts": [
+   "F43"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Был с Господом во дворе Шридхары (B 763)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F21"
+  ],
+  "note": "К нему обращён рассказ БР о доме Нанданы (у T)."
+ },
+ {
+  "from": "@nandana-acharya",
+  "type": "other",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F11"
+  ],
+  "note": "«Кханджан (хромой) Ачарья» «Карчи», чьё двустишие B относит к Нандане, — по примечанию нашего перевода, видимо, хромой Бхагаван Ачарья (⚠3)."
+ },
+ {
   "from": "@narahari-sarakara",
   "type": "father",
   "who": "@narayana-dasa-shrikhanda",

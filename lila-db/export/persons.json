@@ -4165,6 +4165,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "guest"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "companion"
    },
@@ -7514,6 +7518,10 @@
     "type": "host"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -10687,6 +10695,10 @@
     "type": "friend"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "guest"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "companion"
    },
@@ -12024,6 +12036,10 @@
     "type": "disciple"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "guest"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -12196,6 +12212,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@nandana-acharya",
+    "type": "met"
    },
    {
     "from": "@shachi",
@@ -14044,6 +14064,10 @@
     "type": "met"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "companion"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    },
@@ -14514,6 +14538,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@nandana-acharya",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -22639,6 +22667,10 @@
     "type": "other"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -22752,6 +22784,10 @@
     "type": "companion"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "sibling"
    }
@@ -22802,6 +22838,142 @@
    "ev-month-stored-prasada",
    "ev-chaitanya-dasa-feast",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "по таттве — семнадцатая ветвь древа Чайтаньи (ЧЧ Ади 10.39); происхождение — Навадвипа",
+  "card": "parshadas/cards/nandana-acharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/nandana-acharya.md",
+   "en": "parshadas/en/nandana-acharya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "conf": "день, год и место явления неизвестны (B 763; T 50); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-10-22) его дня явления нет",
+    "facts": [
+     "F46"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода неизвестны (B 763; T 50); в календаре ШЧСМ дня ухода нет",
+    "facts": [
+     "F46"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "tattva",
+    "as": "семнадцатая ветвь древа Чайтаньи; в его доме скрывались два Господа",
+    "source": "ЧЧ Ади 10.39",
+    "level": "A",
+    "variants": [
+     "B 758, T 48: скрывались все трое — Нитьянанда, Адвайта и Махапрабху (⚠6).",
+     "B 758 (и T): он же — брат Вишнудаса и Гангадаса, ветвь Нитьянанды (ЧЧ Ади 11.43); «Абхидхана» (T 48): то — другой Нандана."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guest",
+    "who": "@nityananda",
+    "note": "Придя в Навадвипу, Нитьянанда тайно жил в его доме; здесь Господь с преданными нашёл Его и открыл Его славу (ЧБ Мадхья 3–4); Нандана считал служение Ему исполнением жизни (T)."
+   },
+   {
+    "type": "guest",
+    "who": "@advaita",
+    "note": "Адвайта, «испытывая» Господа, спрятался в его доме (ЧБ Мадхья 6.57, 6.69) — ⚠Б2."
+   },
+   {
+    "type": "guest",
+    "who": "@mahaprabhu",
+    "note": "Ветвь древа Чайтаньи (ЧЧ Ади 10.39); после прыжка в Гангу Господь ночь скрывался у него, Нандана служил Ему и сказал, что Его не спрятать (ЧБ Мадхья 17.47–64) — ⚠Б1, ⚠Б4."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "note": "Спутник ночных киртанов у Шривасы; по велению Господа привёл Шривасу к Нему (ЧБ Мадхья 17.67–68) ≠ T 31 — Шривасу привёл Харидас."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Харидас с Нитьянандой вытащил Господа из Ганги; Господь ушёл к Нандане (по T 31 — они Его спрятали)."
+   },
+   {
+    "type": "other",
+    "who": "@srirama-pandita",
+    "note": "Рамаи, вестник к Адвайте; Господь вторично послал его в дом Нанданы за Адвайтой."
+   },
+   {
+    "type": "met",
+    "who": "@sita-thakurani"
+   },
+   {
+    "type": "met",
+    "who": "@achyutananda"
+   },
+   {
+    "type": "sibling",
+    "who": "@vishnudasa-nityananda",
+    "note": "По B и T (ЧЧ Ади 11.43); по «Абхидхане» брат Вишнудаса — другой Нандана (@nandana-nityananda) — ⚠2."
+   },
+   {
+    "type": "sibling",
+    "who": "@gangadasa-chaturbhuja",
+    "note": "По B и T (ЧБ Антья 5.745, ЧЧ Ади 11.43) — ⚠2."
+   },
+   {
+    "type": "father",
+    "who": "@chaturbhuja-pandita",
+    "note": "Вывод B (⚠2); по «Абхидхане» отец — Лакшми Нараян (F6)."
+   },
+   {
+    "type": "other",
+    "who": "@nandana-nityananda",
+    "note": "Тёзка: по B — то же лицо, по «Абхидхане» (T 48) — другое (ветвь Нитьянанды, поэт)."
+   },
+   {
+    "type": "other",
+    "who": "@raghava-pandita",
+    "note": "В год «рагхавера джхали» Нандана тоже поднёс Господу кушанья (ЧЧ Антья 10.122)."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Назвал его царю (ЧЧ Мадхья 11.89); T — Сарвабхаума (⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Вместе с Шачи и навадвипскими преданными встретил Господа-санньяси в Шантипуре."
+   },
+   {
+    "type": "companion",
+    "who": "@jagadananda-pandita"
+   },
+   {
+    "type": "companion",
+    "who": "@jagadisha-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@shridhara",
+    "note": "Был с Господом во дворе Шридхары (B 763)."
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "К нему обращён рассказ БР о доме Нанданы (у T)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya",
+    "note": "«Кханджан (хромой) Ачарья» «Карчи», чьё двустишие B относит к Нандане, — по примечанию нашего перевода, видимо, хромой Бхагаван Ачарья (⚠3)."
+   }
   ],
   "related_by": [
    {
@@ -23215,6 +23387,10 @@
    {
     "from": "@gopala-guru",
     "type": "other"
+   },
+   {
+    "from": "@nandana-acharya",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -24985,6 +25161,10 @@
     "type": "host"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    }
@@ -25660,6 +25840,10 @@
    {
     "from": "@jahnava",
     "type": "host"
+   },
+   {
+    "from": "@nandana-acharya",
+    "type": "met"
    }
   ]
  },
@@ -25839,6 +26023,10 @@
    "ev-chaitanya-dasa-feast"
   ],
   "related_by": [
+   {
+    "from": "@nandana-acharya",
+    "type": "other"
+   },
    {
     "from": "@nityananda",
     "type": "host"
@@ -32290,6 +32478,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@nandana-acharya",
+    "type": "other"
    },
    {
     "from": "@narahari-sarakara",
@@ -40209,6 +40401,10 @@
     "type": "companion"
    },
    {
+    "from": "@nandana-acharya",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "friend"
    }
@@ -41729,6 +41925,10 @@
    {
     "from": "@jagannatha-mishra",
     "type": "friend"
+   },
+   {
+    "from": "@nandana-acharya",
+    "type": "companion"
    },
    {
     "from": "@nityananda",
@@ -48435,6 +48635,66 @@
    {
     "from": "@pundarika-vidyanidhi",
     "type": "mother"
+   }
+  ]
+ },
+ {
+  "id": "@nandana-nityananda",
+  "ru": "Нандана (брат Вишнудаса и Гангадаса)",
+  "en": "Nandana (brother of Vishnudasa and Gangadasa)",
+  "note": "ветвь Нитьянанды, один из трёх братьев (ЧЧ Ади 11.43); по B 758 — то же лицо, что @nandana-acharya, по «Гаудия-вайшнава-абхидхане» (T 48) — другое: поэт, сочинитель песен",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@nandana-acharya",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@vishnudasa-nityananda",
+  "ru": "Вишнудас (брат Нанданы и Гангадаса)",
+  "en": "Vishnudasa (brother of Nandana and Gangadasa)",
+  "note": "ветвь Нитьянанды, один из трёх братьев, в чьём доме жил Нитай (ЧЧ Ади 11.43; B 758; T 48); не путать с @vishnudasa, @vishnudasa-acharya, @vishnudasa-vaidya",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@nandana-acharya",
+    "type": "sibling"
+   }
+  ]
+ },
+ {
+  "id": "@gangadasa-chaturbhuja",
+  "ru": "Гангадас (сын Чатурбхуджи Пандита)",
+  "en": "Gangadasa (son of Chaturbhuja Pandita)",
+  "note": "ветвь Нитьянанды; прежде в его доме жил Нитьянанда (ЧБ Антья 5.745; ЧЧ Ади 11.43; B 758; T 48); не путать с @gangadasa-pandita, @baru-gangadasa",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@nandana-acharya",
+    "type": "sibling"
+   }
+  ]
+ },
+ {
+  "id": "@chaturbhuja-pandita",
+  "ru": "Чатурбхуджа Пандит",
+  "en": "Chaturbhuja Pandita",
+  "note": "отец Гангадаса (ЧБ Антья 5.745); по B 758 — и отец Нанданы Ачарьи (⚠ вывод B)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@nandana-acharya",
+    "type": "father"
    }
   ]
  }
