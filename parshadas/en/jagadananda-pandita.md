@@ -312,3 +312,294 @@ Puri. Kaviraja says:
 
 “Pandita Jagadananda, who attained the divine love of Sri Chaitanya, is truly worthy of the highest glory. Anyone who
 met him felt that he had met Chaitanya Himself.” (CC, Antya 12.101) <!-- F41 -->
+
+## The Sandalwood Oil
+Once, returning from Navadvipa, Jagadananda stayed in the house of Shivananda Sena. There they prepared one matra —
+about fifteen kilograms — of the fragrant oil “chandanadi,” made of sandalwood with many aromatic additions (CC, Antya
+12.102).
+
+“With this fragrant sandalwood oil they filled a large jar, and carefully Jagadananda carried it to Sri
+Jagannatha-Puri.” (CC, Antya 12.103)
+
+In Puri he left the jar with Govinda and asked him to anoint the Lord's head with this oil (Antya 12.104). Govinda
+reported to the Lord: Jagadananda has brought this oil from Bengal with great care; it is excellent for soothing
+disorders of vayu and pitta. The Lord replied: <!-- F42 -->
+
+“‘A sannyasi has no need whatever of oil. And oil with many aromatic additions he should not even touch. Give this oil
+to the temple of Jagannatha, to be burned in the lamps. Then Jagadananda's labours will meet with full success.’” (CC,
+Antya 12.108–109)
+
+Thus, in the view of one of the biographies, the Lord set an example for all who have renounced the world. <!-- F43 -->
+
+Jagadananda, hearing this, said nothing. Ten days later Govinda again conveyed his wish to the Lord, and the Lord
+indignantly asked whether He should not hire a masseur as well (Antya 12.110–112):
+
+“‘Why then did I become a sannyasi, renouncing worldly joys? It seems you are mocking Me, calling down My ruin by this.
+If anyone, passing by Me, catches the scent of this oil, he will at once think that I am a dari-sannyasi (or a
+debauched tantrika).’” (CC, Antya 12.113–114) <!-- F44 Q14 -->
+
+This anger is part of the lila of a renounced sannyasi. The Lord needs neither austerity nor comforts, and His body is
+not bound by worldly needs; rejecting the oil, He teaches the renunciants, while He Himself relishes His devotee's love
+in all its shades.
+
+Next morning the Lord Himself told Jagadananda: “You know that I am a sannyasi and cannot accept this oil; give it to
+the temple of Jagannatha, and your labour will be crowned with success” (Antya 12.115–117).
+
+“Then Jagadananda asked: ‘Who has told You all these fables? I brought no oil from Bengal.’ Saying this, Jagadananda
+carried the jar of fragrant oil out of the room, and in the courtyard broke it before Chaitanya. Having broken the jar
+of fragrant oil, Jagadananda went off to his own house, and lay down, firmly locking the door.” (CC, Antya 12.118–120)
+<!-- F45 -->
+
+He lay there without rising or taking food[^12]. And then, to soften his mana, the Lord Himself came to him:
+<!-- F46 -->
+
+“Three days later Chaitanya Mahaprabhu came to his door and said: ‘Get up, My dear Jagadananda! I want you today to
+cook your lunch for Me. Now I am going to Jagannatha's temple. I shall come to you afterwards, by noon.’” (CC, Antya
+12.121–122)
+
+Jagadananda got up, bathed and set about cooking. When the Lord came, he washed His feet, seated Him in the place of
+honour, heaped the finest rice on a banana leaf, poured ghee over it, set the vegetable dishes around it in little cups
+of banana bark, adorned everything with tulasi leaves and served cakes, sweet rice and much other prasada of Jagannatha
+(Antya 12.123–126). <!-- F47 -->
+
+The Lord told him to put rice and vegetables on a second leaf for Jagadananda himself and, raising His hands, would not
+touch the food until he sat down with Him. But Jagadananda asked the Lord to eat first, promising to eat afterwards
+(Antya 12.127–129). One of the biographies remarks: thus his mana melted away. <!-- F48 -->
+
+Having tasted the meal, the Lord said:
+
+“‘Truly, you have attained the mercy of Krishna! For all that you cook, even in anger, turns out so nectarean. You cook
+so deliciously because Krishna, wishing to taste it all, cooks it all Himself through you. You offer Krishna rice that
+can be compared with nectar in taste. Who can describe the limit of your good fortune?’” (CC, Antya 12.131–133)
+
+“Jagadananda answered Him thus: ‘Yes, the cook is the one who will eat. I have only gathered the ingredients.’” (CC,
+Antya 12.134) <!-- F49 Q15 -->
+
+Jagadananda kept on serving more and more, and the Lord, fearing that otherwise he would fast again, did not dare to
+refuse and ate ten times more than usual, until at last He begged the Pandita to stop (Antya 12.135–139). <!-- F50 -->
+
+When the Lord rose and washed His hands, Jagadananda offered Him spices, sandal paste and a garland. The Lord sat down
+and said that He wished to see him eat. “Go, Lord, and rest,” Jagadananda replied. “Ramai and Raghunatha helped me
+cook; first I shall feed them.” The Lord left Govinda to see whether the Pandita ate; but Jagadananda sent Govinda to
+massage the Lord's feet, promising to keep for him the remnants from His plate. He fed the remnants of the Lord's meal
+to Ramai, Raghunatha Bhatta, Govinda and Nandai, and honoured them himself; and only when Govinda told the Lord that
+Jagadananda was eating did the Lord fall peacefully asleep (Antya 12.140–151). <!-- F51 -->
+
+Kaviraja concludes that Jagadananda's love for the Lord is like Satyabhama's love for Krishna described in the
+“Bhagavata” (Antya 12.152), and continues:
+
+“Is anyone able to grasp what good fortune fell to Jagadananda? There is no other example of such good fortune. Anyone
+who hears of that love between Chaitanya and Jagadananda, or reads his work ‘Prema-vivarta,’ will be able to understand
+the nature of that love. He will surely attain the wealth of divine love for Sri Krishna.” (CC, Antya 12.153–154)
+<!-- F52 Q16 -->
+
+The broken jar, the locked door and the fast are not resentment or hot temper but the vamya of Satyabhama, a loving
+quarrel in which the devotee is “angry” with the Lord out of love, and the Lord out of love “fears” him, humbles
+Himself before him and comes Himself to make peace. The Lord's refusals of comfort, for their part, are a lesson to
+renunciants, not coldness towards His devotee. <!-- I1 -->
+
+## “Prema-vivarta”
+Srila Bhaktisiddhanta Sarasvati explains that the word “prema-vivarta” in this verse of the “Charitamrita” means both
+the “transformations of love” — Jagadananda's loving quarrels with the Lord — and Jagadananda's book of that name. The
+“Prema-vivarta,” written in Bengali, was published in 1905 by Srila Bhaktivinoda Thakura. One of the biographies cites
+a thought from it: it is not enough to say “I belong to Gaura” — one must follow Gaura's conduct and teachings.
+<!-- F53 Q21 Q23 -->
+
+## The Bed of Banana Bark
+In His last years the Lord, tormented by separation from Krishna, became utterly emaciated.
+
+“Separation from Krishna wasted the body and mind of Sri Chaitanya Mahaprabhu. Yet He blossomed again when He
+experienced the emotions of divine love. When the emaciated Sri Chaitanya lay down on a mat of dry banana bark, it
+caused Him only pain.” (CC, Antya 13.4–5)
+
+The devotees could not bear to see this (Antya 13.6). Jagadananda obtained fine cloth, dyed it[^13], stuffed it with
+the cotton of the shimula tree and made a mattress and pillow; he gave them to Govinda, so that he would ask the Lord to
+accept the bed, and asked Svarupa Damodara himself to persuade the Lord to lie on it (Antya 13.7–10)[^14].
+<!-- F54 F55 F56 -->
+
+Seeing the bed, the Lord grew angry and asked Govinda who had made it. Hearing Jagadananda's name, He became a little
+afraid — one of the biographies explains: because Jagadananda is Satyabhama, inclined to jealous mana — and yet He had
+the bed removed and lay down, as before, on the dry banana bark (Antya 13.10–12). Svarupa said that by this He would
+greatly grieve Jagadananda, and the Lord answered: “Shall I have a bedstead brought too? Jagadananda wants Me to enjoy
+comforts like worldly people” (Antya 13.13–14). And He added: <!-- F57 -->
+
+“Having become a monk, I have renounced the world and now sleep only on the floor. I shall cover Myself with great
+disgrace if I again begin to use a bed, a mat or a pillow.” (CC, Antya 13.15)
+
+This anger is feigned: the Lord, as one of the biographies says, displayed it in the mood of a renounced sannyasi. His
+body is wasted not by worldly want but by separation from Krishna, in the mood of Radha — and sleeping on bark is also
+part of His lila and a lesson for renunciants.
+
+Jagadananda was deeply saddened. Then Svarupa found a way: he brought dry banana leaves, tore them with his nails into
+fine fibres and stuffed with them two of the Lord's outer cloths; thus a new mat and pillow were made, and with great
+difficulty he persuaded the Lord to accept them (Antya 13.16–19). <!-- F58 -->
+
+“Everyone was happy to learn that the Lord was sleeping on the new bed. Only Jagadananda remained dissatisfied and did
+not hide it.” (CC, Antya 13.20) <!-- F59 -->
+
+In the Gambhira — in the house of Kashi Mishra, now the Radha-kanta Math — according to one of the biographies, a
+quilted blanket made for the Lord by Svarupa Damodara or by Jagadananda Pandita is worshipped together with the Lord's
+wooden sandals. <!-- F60 -->
+
+## In Vraja
+Jagadananda had long dreamed of seeing Vrindavana, but the Lord would not let him go (Antya 13.21). Now, not showing
+his sorrow, he again asked permission to go to Mathura[^15].
+
+“Sri Chaitanya replied: ‘You are angry with Me. And if you go to Mathura now, you will simply become a beggar and go on
+scolding Me.’ But falling at the Lord's lotus feet, Jagadananda pleaded: ‘For a long time I have dreamed of reaching
+Vrindavana.’” (CC, Antya 13.23–24) <!-- F61 -->
+
+Out of love for him the Lord would not agree, but Jagadananda asked again and again and at last turned to Svarupa
+Damodara. Svarupa said to the Lord:
+
+“Just as You earlier allowed him to go to Bengal and see Shachimata, so now let him see Vrindavana and then come back
+here.” (CC, Antya 13.32)
+
+Heeding Svarupa, the Lord gave permission (Antya 13.26–33) and gave Jagadananda instructions for the road: <!-- F62 -->
+
+“‘You may go without fear as far as Varanasi, but after that be extremely careful and continue your journey only in the
+company of kshatriyas. When bandits see a lone Bengali traveller on the road, they seize him, rob him and make him work
+for them. In Mathura stay constantly in the company of Sanatana Gosvami and offer due respect to the feet of all the
+senior Vaishnavas. Honour all these holy devotees of Mathura with love, but do not associate with them closely. Nor
+should you try to imitate their conduct and worship. Visit all twelve forests of Vrindavana together with Sanatana
+Gosvami, not leaving his company for a moment. Do not stay long in Vrindavana, and return to Jagannatha Puri
+immediately. Do not climb the sacred hill of Govardhana to see the Deity Gopala.’” (CC, Antya 13.34–39)[^16]
+<!-- F63 Q17 -->
+
+And the Lord charged him to tell Sanatana that He would soon come to Vrindavana again — let him prepare a dwelling for
+Him, a place for bhajana (Antya 13.40, 13.65). <!-- F64 -->
+
+Jagadananda went by the forest road to Varanasi, where he met Tapana Mishra and Chandrashekhara and joyfully told them
+of the Lord, and from there came to Mathura, to Sanatana (Antya 13.42–44).
+
+“Sanatana Gosvami showed Jagadananda the twelve forests of Vrindavana. Having seen Mahavana last, they then settled in
+Gokula.” (CC, Antya 13.45) <!-- F65 F66 -->
+
+Jagadananda lived with Sanatana in his cave, but they ate separately, each according to his custom: Sanatana lived on
+alms — madhukari — while Jagadananda went to a nearby temple and cooked for himself (Antya 13.46–47). One of the
+biographies explains that he was not used to wheat food, and Srila Bhaktivinoda Thakura (“Amrita-pravaha-bhashya”) adds
+that in those days rice and dal were not offered to the Deities in the temples of Vraja. <!-- F67 Q22 -->
+
+Once Jagadananda invited Sanatana to lunch at the temple. A certain sannyasi, Mukunda Sarasvati, had given Sanatana his
+upper cloth[^17], and Sanatana, tying it round his head, came and sat at the temple door (Antya 13.49–51).
+
+“Taking this red cloth for a gift from Sri Chaitanya, Jagadananda felt a surge of divine love and asked Sanatana
+Gosvami: ‘Please tell me, where did you get this red cloth?’ Sanatana Gosvami answered him: ‘Mukunda Sarasvati gave it
+to me.’ Jagadananda became angry on hearing these words. Seizing a cooking pot, he was about to strike Sanatana.” (CC,
+Antya 13.52–54) <!-- F68 -->
+
+Sanatana was abashed, and Jagadananda, putting the pot back on the hearth, said:
+
+“‘You are one of the chief associates of Sri Krishna-Chaitanya Mahaprabhu. No one is dearer to Him than you. And in
+spite of this you have wrapped your head in cloth given you by another sannyasi! Who could bear such a thing?’” (CC,
+Antya 13.56–57)
+
+Sanatana replied: you are a great knower of the scriptures, and no one is dearer to Sri Chaitanya than you; such faith
+in Him is worthy of you. I tied this cloth on precisely to see the strength of your faith — and now I have seen how
+extraordinarily strong your love for the Lord is. And it does not befit a Vaishnava to wear the saffron cloth of a
+monk: I shall certainly give it to someone (Antya 13.58–61). Sanatana's deep devotion pacified Jagadananda.
+<!-- F69 Q18 -->
+
+His impulse was no outburst of anger in the worldly sense but exclusive devotion to Gaura, ananya-nishtha, which
+could not bear to see on the head of His associate the cloth of a sannyasi of another path. Sanatana had deliberately
+provoked this impulse to reveal Jagadananda's love to the world, and, according to one of the biographies, was very
+pleased to see it.
+
+“Having offered the cooked food to Sri Chaitanya, Jagadananda then honoured this prasada together with Sanatana.” (CC,
+Antya 13.62) <!-- F70 -->
+
+“Thus Jagadananda stayed two months in Vrindavana. But he could no longer bear the pain of separation from Sri
+Chaitanya.” (CC, Antya 13.64)
+
+He made ready to return to Puri, and Sanatana sent with him gifts of Vraja for the Lord: sand from the place of the
+rasa-lila, a stone from Govardhana, dried ripe pilu fruits and a gunja garland (Antya 13.66–67). <!-- F71 -->
+
+Jagadananda's return delighted the Lord and all the devotees. The Lord embraced him tightly; Jagadananda conveyed to
+Him Sanatana's obeisances and all the gifts. The pilu fruits the Lord distributed to the devotees: those who knew these
+fruits sucked the stones, while the Bengalis, who did not know them, chewed and swallowed the seeds and burned their
+tongues with their pungent taste — and this became yet another of the Lord's sweet pastimes (Antya 13.71–77).
+<!-- F72 -->
+
+## The Last Years
+Once the Lord took the sand dunes by the sea for Govardhana Hill and rushed towards them with the speed of the wind.
+Everyone ran after Him:
+
+“Among them were Svarupa Damodara, Jagadananda Pandita, Gadadhara Pandita, Ramai, Nandai and Shankara Pandita.” (CC,
+Antya 14.89) <!-- F76 -->
+
+When Jagadananda visited Navadvipa and Shantipura for the last time, Advaita, according to one of the biographies,
+having returned from Puri, met him in Navadvipa and rejoiced in his company. On parting, Advaita sent with him for
+Mahaprabhu a riddle — a taraja-prahelika, understood by the Lord alone:
+
+“‘Convey my countless obeisances to Mahaprabhu and say at His feet from me the following: Tell the madman that all the
+people have gone mad. Tell the madman that rice is no longer sold in the market. Tell the madman that the mad one is no
+longer busy with worldly affairs. Tell the madman that a madman has said this.’” (CC, Antya 19.19–21) <!-- F73 Q19 -->
+
+Srila Bhaktivinoda Thakura reveals its meaning: the task for which Advaita had called the Lord is accomplished. Having
+read the riddle, Mahaprabhu became ever more absorbed in His states, and the devotees began to think that He would
+soon withdraw. Svarupa was alarmed, and in reply to his question the Lord revealed that the purpose of His descent had
+been fulfilled. <!-- F74 F75 Q22 -->
+
+## Satyabhama
+Kavi Karnapura says of him in the “Gaura-ganoddesha-dipika”:
+
+“By a certain secondary distinction, the Satvatas hold that Jagadananda Pandita is a manifestation of Satyabhama.”
+(GGD 51)[^18]
+
+The “Charitamrita” says the same: Jagadananda is a manifestation of Queen Satyabhama (Adi 10.21), and his love for the
+Lord is like Satyabhama's love for Krishna (Antya 7.138, 12.152). Satyabhama is a queen of Dvaraka, wilful and proud in
+love; her mana is not a flaw but a special taste of prema. So too in Gaura's lila Jagadananda's love showed itself in
+quarrels, silences and fasts, while the Lord, relishing this prema, both gave in to him and “feared” him, and came
+Himself to make peace. <!-- F2 Q1 -->
+
+## Significance
+The life of Jagadananda Pandita is a story of love that is always seeking how to serve the Lord's body and cannot
+reconcile itself to His renunciation. The oil, the bed, the best dishes on His plate — all these are the cares of
+Satyabhama, and the anger, the broken jar and the locked door are her mana. The Lord rejected his cares to teach the
+renunciants, but loved him so much that He came Himself to make peace and ate ten times more than usual just so that
+he would not fast. His scolding is mercy and a lesson in etiquette; his impulse in Vraja is fidelity to Gaura; his
+yearly visits to Shachi were consolation for the Lord's mother, and for the devotees of Navadvipa meeting him was
+meeting Chaitanya Himself. <!-- I1 I3 -->
+
+When and where Jagadananda Pandita left this world, the sources do not say: no biography names the day or the place of
+his departure, nor is the day of his departure found in our calendar. <!-- F78 -->
+
+
+[^1]: One of the biographies names Gadadhara Pandita among these four in place of Damodara Pandita, mixing the list of
+    the “Charitamrita” with that of the “Chaitanya-bhagavata.” According to the “Chaitanya-bhagavata,” six accompanied
+    the Lord: “The Lord was accompanied by Nityananda, Gadadhara, Mukunda, Govinda, Jagadananda and Brahmananda.” (CB,
+    Antya 2.35)
+[^2]: In one retelling of this passage the danda is left “with Nityananda and Svarupa”; but the “Chaitanya-bhagavata”
+    (Antya 2.202) has *nityānanda-svarūpe* — “with Nityananda-svarupa,” that is, with Nityananda Himself; Svarupa
+    Damodara came to the Lord only later.
+[^3]: In another place of the same biography and in another biography the leaf with the shlokas is received by
+    Jagadananda and Damodara together.
+[^4]: According to one of the biographies, Jagadananda himself copied the shlokas onto the wall; the “Charitamrita”
+    (Madhya 6.251–252) says that Mukunda Datta did so.
+[^5]: One of the biographies gives these shlokas the numbers Madhya 6.253–254; the correct numbers are 6.254–255.
+[^6]: Two biographies name Bhavananda in this verse instead of Bhagavan (Bhagavan Acharya).
+[^7]: According to one of the biographies, these seven served prasada after the kirtana at the Ratha-yatra; according to
+    the “Charitamrita” (Madhya 12.163), at the meal in the garden after the cleansing of the Gundicha temple.
+[^8]: According to one of the biographies, Jagadananda supposedly “permitted” Sanatana to leave; according to the
+    “Charitamrita,” he only gave advice.
+[^9]: One of the biographies refers here to Antya 7.142–143; those verses speak of Gadadhara Pandita and Rukmini,
+    while Jagadananda and Satyabhama are spoken of in 7.138–139.
+[^10]: According to two biographies, Jagadananda invited all three — the Lord, Paramananda Puri and Ramachandra Puri;
+    according to the “Charitamrita” (Antya 8.8), he invited Ramachandra Puri alone.
+[^11]: One of the biographies says that the Lord sent His mother a piece of His own worn cloth; according to the
+    “Charitamrita” (Antya 19.12), it was cloth-prasada received at a festival of Jagannatha.
+[^12]: How long he fasted the biographies tell differently: according to one, two days; according to another, three.
+    According to the “Charitamrita” (Antya 12.121), the Lord came to him on the third day.
+[^13]: The biographies name the colour of the cloth differently: gairika (the colour of red clay), saffron; in the
+    translation of the “Charitamrita,” red.
+[^14]: According to one of the biographies, he gave the bed to Svarupa alone.
+[^15]: One of the biographies tells of the journey to Vrindavana before the story of the bed; according to the
+    “Charitamrita” (Antya 13), Jagadananda asked to be allowed to go to Vraja after it.
+[^16]: The words about the “holy devotees of Mathura” (Antya 13.37) are interpreted differently: according to one of
+    the biographies, the Chaube brahmanas of Mathura are meant; according to another, devotees of the path of raga
+    lacking knowledge of the Lord's majesty (aishvarya-jnana). One of the biographies refers to the whole instruction as
+    Antya 13.39.
+[^17]: According to one of the biographies, Mukunda Sarasvati was a Mayavadi sannyasi; another says that Jagadananda
+    raised a pot of rice against Sanatana.
+[^18]: One of the biographies renders this verse as though the devotees see no difference at all between Satyabhama
+    and Jagadananda Pandita; we follow our translation.
