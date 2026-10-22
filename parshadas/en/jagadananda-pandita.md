@@ -152,3 +152,163 @@ someone to Bengal to tell Shachimata that Sri Chaitanya has arrived in Jagannath
 
 The Lord agreed, and Kala Krishnadasa set out for Bengal with maha-prasada for all the Vaishnavas (Madhya 10.73–74).
 <!-- F23 -->
+
+## In Nilachala
+In Puri Jagadananda gradually grew close to all the Lord's devotees. When Svarupa Damodara came from Varanasi, he,
+having bowed to the Lord, met Jagadananda, Mukunda, Shankara and Sarvabhauma and offered them due respect (CC, Madhya
+10.127); and Ramananda Raya, returning to Puri, honoured Nityananda, Paramananda Puri, Brahmananda Bharati, Svarupa,
+Jagadananda, Mukunda and others. He came to know Haridasa Thakura as well. <!-- F24 -->
+
+He became one of the Lord's constant companions in Nilachala:
+
+“Gadadhara Pandita, Vakreshvara, Damodara, Shankara and Haridasa Thakura remained to live with the Lord in Puri.
+Jagadananda, Bhagavan, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara also moved there.” (CC, Madhya
+1.252–253)[^6]
+
+Elsewhere too the “Charitamrita” names him among the old companions who had formerly accompanied the Lord everywhere
+and, when He settled in Puri, remained to serve Him there (Adi 10.124–127). Together with Puri Gosvami, Svarupa,
+Damodara, Govinda and Kashishvara he went every morning with the Lord for darshan of Jagannatha. <!-- F26 Q6 -->
+
+He especially loved to feed the Lord and the devotees with what he had cooked himself. When the Bengali devotees first
+came to Puri and the Lord Himself began serving them prasada, no one would start eating; then Svarupa seated the Lord
+at the meal together with Nityananda, and others began to serve:
+
+“In jubilation Svarupa, Damodara Pandita and Jagadananda began to help him.” (CC, Madhya 11.208) <!-- F25 F29 -->
+
+Soon after, on the eve of the Ratha-yatra, after the cleansing of the Gundicha temple, the Lord sat down with the
+devotees to a meal in the garden:
+
+“Seven devotees — Damodara Gosvami, Jagadananda, Damodara Pandita, Kashishvara, Gopinatha, Vaninatha and Shankara —
+served prasada to all, while the others joyfully cried, ‘Hari! Hari!’” (CC, Madhya 12.163)[^7] <!-- F28 -->
+
+Here Jagadananda's love showed itself in its own way:
+
+“Serving prasada, Jagadananda, as if by chance, placed the tastiest dishes before Sri Chaitanya. Chaitanya made a show
+of being angry. And yet, when by such tricks, against His will, such prasada reached Him, at heart He was glad of it.
+Having received this prasada, He looked at it for some time, but then, fearing to hurt Jagadananda, tasted a little.
+Chaitanya knew that if He did not eat the food Jagadananda offered, he would fast, and so He began to eat it.” (CC,
+Madhya 12.169–172) <!-- F27 -->
+
+Many years later, at the festival in honour of the departure of Haridasa Thakura, he tirelessly served prasada together
+with Svarupa Damodara, Kashishvara and Shankara (CC, Antya 11.84). One of the biographies sees a lesson in this:
+serving prasada to devotees is an important part of devotional service. <!-- F30 I4 -->
+
+When the Lord first tried to go to Vrindavana by way of Gauda — through Panihati, Kumarahatta and Kulia, spending five
+days in Vidyanagara and reaching Ramakeli — Jagadananda was with Him. Among the Lord's companions at Ramakeli the
+“Charitamrita” names Nityananda, Haridasa, Srivasa, Gadadhara, Mukunda, Jagadananda, Murari and Vakreshvara (Madhya
+1.212–224); the Lord told them to bless Rupa and Sanatana. At Kanai-natashala, because of the huge crowds, the Lord
+turned back. And when, having at last visited Vrindavana, He returned to Puri through the forests of Jharikhanda,
+Jagadananda again knew the pain of separation — and the indescribable joy of meeting again. <!-- F31 F32 -->
+
+## In the House of Shivananda
+Part of his time Jagadananda spent in Bengal, in the house of Shivananda Sena. Once the Lord sent word through
+Shrikanta Sena, Shivananda's nephew, that the Bengali devotees should not come to Puri that year: He would come to
+Bengal Himself.
+
+“Gladden Shivananda Sena with the news that in the winter month of Pausha I shall be an unexpected guest in his house.
+Jagadananda also lives with him, and he will cook for Me.” (CC, Antya 2.42–43)
+
+Shivananda and Jagadananda, having prepared everything, waited for the Lord every day until evening throughout the
+month of Pausha, but He did not come, and both were deeply saddened. Then Nrisimhananda Brahmachari came to them and
+promised that in three days he would bring the Lord before them; both knew his power and believed him (CC, Antya
+2.44–48). <!-- F33 -->
+
+## The Nectar of Intimacy
+When Sanatana Gosvami came from Vraja to Nilachala through the forests of Jharikhanda, his body was covered with sores.
+The Lord, heedless of his pleas, embraced him again and again, and Sanatana was tormented by the thought that the
+discharge from his sores was touching the Lord's body. One day, after a talk about Krishna, he asked Jagadananda's
+advice, and Jagadananda advised him, after seeing the Ratha-yatra, to go to Vrindavana — the land the Lord had given
+him (CC, Antya 4.155–156)[^8]. <!-- F34 -->
+
+Learning of this, the Lord displayed a play of anger at Jagadananda:
+
+“‘Jagadananda is still a boy, but he has already become so proud that he thinks himself entitled to advise even you
+and other senior Vaishnavas. In spiritual and worldly matters you always stand in the position of guru to him. And he
+tries to instruct you, without any understanding of his own position.’” (CC, Antya 4.158–159)
+
+Everyone respects your authority, the Lord went on, even I value your advice — how then does this boy dare to
+instruct you? (Antya 4.160) <!-- F35 -->
+
+But Sanatana heard something quite different in these words. Falling at the Lord's feet, he said, “Now I understand
+how great is the good fortune of Jagadananda Pandita” (Antya 4.161), and went on:
+
+“Lord! You let Jagadananda constantly drink the nectar of Your love. But me, while praising me before everyone, You
+give only the bitter juice of nimba and nishinda.” (CC, Antya 4.163)
+
+The Lord was a little embarrassed and, wishing to console Sanatana, replied:
+
+“‘Jagadananda Pandita is dear to Me, but you, Sanatana, are far dearer. Yet I cannot bear it when anyone violates
+spiritual etiquette.’” (CC, Antya 4.166)
+
+Sanatana is a recognised master of the shastras, while Jagadananda is a young novice; that, said the Lord, is why it
+is unbearable for Me to hear that he gives you advice (Antya 4.167–169). And to Sanatana the Lord said that He saw in
+him a pure devotee: He is the guardian and the devotees are His children, and it does not befit Him, a sannyasi, to
+judge Sanatana's body as mundane (more on this in the life of Sanatana Gosvami). <!-- F36 F37 Q11 -->
+
+This lila is a lesson in Vaishnava etiquette. Srila Bhaktisiddhanta Sarasvati explains: each has his own position, and
+one who oversteps his measure and, thinking himself important, gives advice to one worthy of respect violates
+etiquette; such violations in juniors, as in Jagadananda, the Lord checked. Thus He showed Sanatana's seniority and
+taught all to honour senior Vaishnavas. But the reproach itself is mercy: the Lord says that Jagadananda is dear to Him,
+and Sanatana sees in His scolding not disgrace but the nectar of intimacy. If the Lord scolds a devotee, the devotee
+should consider it great good fortune. One of the biographies remarks that even after Sanatana's words the Lord still
+regarded Jagadananda's act as presumption. <!-- I3 I7 Q21 -->
+
+## The Love of Satyabhama
+When the learned Vallabha Bhatta came to Puri, the Lord told him that He Himself had grasped the essence of bhakti by
+the mercy of the Vaishnavas of Bengal — and named among them Acharyaratna, Acharyanidhi, Gadadhara Pandita,
+Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda, Vasudeva, Murari and many others (CC, Antya
+7.48–49):
+
+“‘Everywhere they all preach the glory of chanting the holy names of God and the enchanting beauty of love for
+Krishna. Thanks to them all I have understood the essence of unalloyed devotion to Krishna.’” (CC, Antya 7.50)
+<!-- F77 Q12 -->
+
+Telling of the same time, Krishnadasa Kaviraja reveals the nature of Jagadananda's love:
+
+“The pure and most profound love that Jagadananda Pandita had for Sri Chaitanya Mahaprabhu can be compared only with
+the supreme love that Queen Satyabhama had for Krishna, while often quarrelling with Him. Jagadananda Pandita often
+started loving quarrels with Sri Chaitanya. Yet these quarrels brought joy to them both.” (CC, Antya
+7.138–139)[^9]
+
+Satyabhama's love is vamya: wilful, unyielding, it shows itself in mana, the proud pique of the beloved, and in loving
+quarrels — pranaya-kalaha. That is why Jagadananda, being Satyabhama, so often contended with Mahaprabhu. His anger,
+silences and fasts are not worldly touchiness but sweet expressions of this prema, which the Lord Himself relishes.
+<!-- F6 Q13 -->
+
+## Ramachandra Puri
+Mahaprabhu and Paramananda Puri honoured Ramachandra Puri as a disciple of Madhavendra Puri. When he came to Nilachala,
+Jagadananda invited him to his place[^10], brought much prasada of Jagannatha from the temple and fed his guest.
+Having eaten his fill, Ramachandra Puri himself began to serve out the remnants, piling them again and again on
+Jagadananda's plate, and when he had eaten, began to reproach him:
+
+“‘I have often heard that the followers of Chaitanya always overeat. And it really is so! Today I have seen it for
+myself!’” (CC, Antya 8.13)
+
+Ramachandra Puri always behaved like this: first he overfed people, then he condemned them (Antya 8.15); according to
+one of the biographies, he himself deliberately ate a great deal so as to have something to reproach afterwards.
+Kaviraja, in the view of another biography, here contrasts the sincerity of Jagadananda with the hypocrisy of
+Ramachandra Puri — a disciple of Madhavendra only in appearance, who had lost the mercy of his guru. <!-- F38 -->
+
+## Messenger to the Mother
+Mahaprabhu deeply honoured His mother and, even after accepting sannyasa, continued to serve her.
+
+“Jagadananda Pandita was very dear to Mahaprabhu, and the Lord delighted in his conduct. Every year Mahaprabhu sent him
+to Nadia to console His mother, knowing how she suffered in separation from Him.” (CC, Antya 19.4–5)
+
+Jagadananda brought Shachi Devi the Lord's obeisances and words, cloth-prasada of Jagannatha, the finest prasada of His
+temple, sweets and more (Antya 19.6–13)[^11], and spoke with her at length about her son, easing her separation.
+<!-- F39 -->
+
+Once, in the year when the Lord told Nityananda not to come to Puri, Jagadananda, coming to Shachi, revealed a secret
+to her: “Mother, sometimes Chaitanya comes to you and eats your food, and then says, ‘Today Mother has fed Me to the
+full.’ He eats everything you offer to God, and you think you dreamed it.” And Shachi admitted that sometimes it seems
+to her that Nimai has eaten everything on the tray, but afterwards she takes it for a dream (CC, Antya 12.86–95). So
+she came to believe that it had all been real. <!-- F40 -->
+
+Meeting him plunged the devotees of Navadvipa into an ocean of happiness. Murari Gupta and Vasudeva Datta surrounded
+him with care and would not let him go, listening to his intimate stories of the Lord (Antya 12.96–100); according to
+one of the biographies, after the chaturmasya Vasudeva, Murari and Jagadananda came together to Shachi with news from
+Puri. Kaviraja says:
+
+“Pandita Jagadananda, who attained the divine love of Sri Chaitanya, is truly worthy of the highest glory. Anyone who
+met him felt that he had met Chaitanya Himself.” (CC, Antya 12.101) <!-- F41 -->
