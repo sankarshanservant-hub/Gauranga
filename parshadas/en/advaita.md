@@ -83,8 +83,9 @@ manifestation of the Lord in Vraja, non-different from Chaitanya. Kavi Karnapura
 “Shiva-tantra,” told by Bhairava. Once in the month of Karttika, at the festival of lamps, the Dipa-yatra,
 Shankara-deva, Bhairava's guru, saw Krishna and Balarama dancing among the cowherd boys, and himself longed to become a
 cowherd boy — and whirled into their dance. So by Krishna's mercy Sadashiva in Vraja is twofold: he is both Shiva
-himself and a cowherd boy dancing with Krishna. Lochana Dasa in the “Chaitanya-mangala” says the same briefly: Shiva came
-with the Lord — as Advaita[^3]. <!-- F3 Q3 -->
+himself and a cowherd boy dancing with Krishna. Lochana Dasa in the “Chaitanya-mangala” calls Advaita Mahesha: “Mahesha
+Thakura went forth before all: He was born in a brahmana family, named Kamalaksha” (CM, Sutra-khanda, part 8, v. 600);
+and Srila Bhaktisiddhanta, in his summary of that chapter, says briefly: Shiva came as Advaita Prabhu[^3]. <!-- F3 Q3 -->
 
 ## Names
 His earlier name was Sri Kamalaksha Veda-panchanana; according to the “Gaudiya-vaishnava-abhidhana,” Kamalaksha, or
@@ -107,7 +108,7 @@ Mahaprabhu affectionately called Him “Nara”[^5]. He is also called “Achary
 “Charitamrita” calls Him “Acharya Gosai” (Antya 12.70); Narottama in his song calls Him Sitapati. <!-- F14 F15 -->
 
 ## Appearance in Shrihatta
-Advaita's father was Kuvera Pandita, a Varendra brahmana — according to the “Gaura-ganoddesha-dipika” (91), Kubera, the
+Advaita's father was Kuvera Pandita, a Varendra brahmana — according to the “Gaura-ganoddesha-dipika” (81), Kubera, the
 friend of Mahadeva and leader of the guhyakas. His mother was named Nabha Devi[^6]. The “Bhakti-ratnakara” (5.2041–2043)
 tells of them: Kuvera, a worshipper of Nrisimha, lived in Navagrama near Sylhet; fortune attended him on the path of
 bhakti, and he knew nothing but the feet of Krishna; and his faithful wife Nabha Devi is worthy of the worship of the
@@ -173,7 +174,7 @@ Advaita only played the role of Madhavendra's disciple[^11]. <!-- F31 F32 I11 --
 
 Madhavendra's disciples in the line of the Madhva-sampradaya are Ishvara Puri, Advaita, Paramananda Puri, Brahmananda
 Puri, Ranga Puri, Pundarika Vidyanidhi, Raghupati Upadhyaya and others; Srila Bhaktisiddhanta names Ishvara Puri,
-Nityananda and Advaita as the chief among them. According to the “Gaura-ganoddesha-dipika,” Ishvara Puri received from
+Nityananda and Advaita as the chief among them. According to the “Gaura-ganoddesha-dipika” (23–24), Ishvara Puri received from
 Madhavendra the fruit of madhurya, love in the conjugal mood, and Advaita the fruits of dasya and sakhya, service and
 friendship. It is said that Pundarika Vidyanidhi received initiation from Madhavendra at the same time as Advaita. The
 “Chaitanya-bhagavata” sees in this discipleship the highest praise of Madhavendra himself:
@@ -248,7 +249,8 @@ Advaita's house in Shantipura. He lived in a cave and from time to time came to 
 after he had preached in Chandpur, in the house of Govardhana and Hiranya Majumdar. Haridasa was drawn by Advaita's
 talks, and Advaita recognised in him a bhajanandi who chants the holy name without cease. He built him a cave-like hut,
 explained the “Gita” to him every day in the spirit of steadfast devotion, nishtha-bhakti, and sent him prasada from
-His house. <!-- F48 F49 -->
+His house. Haridasa spent most of his time with Advaita — in Navadvipa-Mayapura and in Shantipura; in His circle they
+grieved over the godlessness of the people, expounded the “Gita” and the “Bhagavatam” and sang kirtan. <!-- F48 F49 F151 -->
 
 Haridasa was born in a family of yavanas, yet Advaita honoured him as no one else would have dared. At the yearly
 shraddha for His father He offered a meal to the Lord, and the first dish, the shraddha-patra, which is given to the
@@ -303,7 +305,8 @@ and no one knew why. It was the day of a lunar eclipse, and on that occasion man
 happened both kept silent[^15]. <!-- F55 -->
 
 Advaita sent Sita in a palanquin to the house of Jagannatha Mishra with a casket of precious cloth and ornaments, and
-with her husband's permission she came from Shantipura with gifts:
+with her husband's permission she came from Shantipura with gifts; seeing the superhuman form of the Infant, she was
+greatly amazed:
 
 “Once the universally honoured Sita Thakurani, the wife of Sri Advaita Acharya, came with Advaita's consent to see the
 wondrous child, bringing various gifts with her.” (CC, Adi 13.111)
@@ -318,7 +321,7 @@ of the Child. Sita is worthy of worship equally with Shachi: her motherly love, 
 
 ## Nimai and Vishvarupa
 The Lord was growing up in Navadvipa, and even the devotees were not sure that Nimai was Bhagavan Himself. Advaita, for
-His part, behaved as though He did not know who He was — and wished more than anyone that the learned Nimai would
+His part, behaved as though He did not know Who He was — and wished more than anyone that the learned Nimai would
 become a devotee[^17]. Nimai's elder brother, Vishvarupa, studied in Advaita's tol: every day, after bathing in the
 Ganga, He listened to Advaita's lectures and then Himself explained to those gathered that the essence of all scripture is
 devotion to Krishna, and Advaita, rising from His puja, would embrace Him. Whole days Vishvarupa spent in Advaita's
@@ -1026,7 +1029,9 @@ Chaitanya. <!-- I14 I13 -->
 [^2]: One of the biographies gives the reference to these verses as Adi 7.94–97; correctly it is Adi 7.14–17.
 [^3]: Sadashiva here is not the demigod who governs the destruction of the world, but a manifestation of the Lord Himself
     in Vraja (as the “Gaura-ganoddesha-dipika” itself calls him); therefore the words about Sadashiva do not contradict
-    Advaita's being Maha-Vishnu: both truths speak of His divine nature.
+    Advaita's being Maha-Vishnu: both truths speak of His divine nature. And Lochana Dasa, having called Advaita Mahesha,
+    at once explains: this great Maheshvara is full of sattva, and only the world, judging by externals, calls Him
+    “tamo-guna”; the mundane tamo-guna is cast away from among His qualities (CM, Sutra-khanda, part 8, vv. 602–604).
 [^4]: One of the biographies refers these explanations of the names to Adi 6.26 and 6.30–31; correctly they are Adi 6.25
     and 6.28–30.
 [^5]: In the Bengali text of the “Chaitanya-bhagavata” the nickname sounds as “Nada” (nāḍā); the biographies and
@@ -1051,8 +1056,8 @@ Chaitanya. <!-- I14 I13 -->
     and from then on preached Krishna-bhakti wholly. If this report is accepted, it too is only part of the lila:
     Maha-Vishnu cannot stray into jnanavada. And the “Chaitanya-bhagavata” (Antya 4) relates that even before
     Madhavendra's arrival Advaita was explaining the “Gita” and the “Bhagavatam” as the teaching of bhakti.
-[^12]: The biographies cite the “Gaura-ganoddesha-dipika” now as verse 86, now as 81–84. One of the biographies names
-    only Sita and does not mention the second wife, Shri.
+[^12]: “Gaura-ganoddesha-dipika,” 86 (one of the biographies wrongly gives 81–84). One of the biographies, in its chapter
+    on Advaita, names only Sita; it speaks of Shri only in its account of Sita, referring to the “Bhakti-ratnakara.”
 [^13]: One of the biographies, referring to another, calls Sita Paurnamasi in the lilas of Krishna; but according to
     the “Gaura-ganoddesha-dipika,” Paurnamasi is Govinda Acharya.
 [^14]: Elsewhere the same biography says “thousands of brahmanas”; the “Charitamrita” speaks of ten million.
