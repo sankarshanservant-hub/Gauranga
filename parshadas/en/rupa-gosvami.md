@@ -17,7 +17,7 @@ In the “Chaitanya-chandrodaya-nataka,” Kavi Karnapura places in the mouth of
 lists Rupa's virtues one after another:
 
 “In Rupa — dear, beloved, whose very nature is prema, naturally beautiful, like Him, one with Him and the image of
-His vilasa — the Lord unfolded bhakti-rasa.” (“Chaitanya-chandrodaya-nataka,” Act 9)[^1]
+His vilasa — the Lord unfolded bhakti-rasa.” (“Chaitanya-chandrodaya-nataka,” 9.30)[^1]
 
 In other words, Rupa is the Lord's dear devotee, the object of His deep love and tenderness, wholly filled with
 prema, non-different from Him, like Him, His intimate associate and the image of His vilasa; and in him the Lord
@@ -185,7 +185,9 @@ strong that we ourselves have become enemies of the cows and of the whole brahmi
 hand and foot so tightly that we have been cast into the foul abyss of sense enjoyment. No one in the whole universe
 can save us but You, for You are the Saviour of the most fallen.” (CC, Madhya 1.196–199)
 
-If You save us, they said, the whole universe will learn the greatness of Your mercy. <!-- F51 F52 Q11 -->
+If You save us, they said, the whole universe will learn the greatness of Your mercy. We grieve over our unworthiness,
+but Your divine qualities irresistibly attract us, and our hearts burn with an unattainable desire — as a dwarf dreams
+of reaching the moon (CC, Madhya 1.204–205). <!-- F51 F52 Q11 -->
 
 These words are an expression of great Vaishnava humility (dainya), not an admission of any real fall. Rupa and
 Sanatana are the Lord's eternal associates, who stand above varnashrama, and to take their self-abasement literally,
@@ -243,7 +245,8 @@ sweetness of bhakti to the people of the West, and said:
 “I shall come to Mathura later. Prepare a secluded place for Me.” Then the Lord changed the name of Sakara Mallik to
 Sanatana. (CB, Antya 9.272–273)
 
-Vrindavana Dasa calls this change of name the “third samskara”: Sakara Mallik became “Sanatana the avadhuta.”[^16]
+Sakara Mallik, in Vrindavana Dasa's words, became “Sanatana the avadhuta”; the note on this passage calls such a
+giving of a name the “third samskara.”[^16]
 <!-- F63 Q15 -->
 
 Already from the meeting in Ramakeli it is clear that Mahaprabhu intended to teach the world through Rupa and Sanatana.
@@ -2116,7 +2119,10 @@ Rupa-manjari, and Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's 
 Information about Rupa is also found in the articles on Madhavendra Puri, Nityananda, Gadadhara Pandita, Svarupa Damodara,
 Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 F624 F626 -->
 
-[^1]: One biography numbers the verse 9.39. It also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
+[^1]: The number follows our translation of the drama; one biography gives the verse as 9.39 (incorrectly). Here the
+    verse is rendered as another biography understands it; closer to the letter: “…the Lord, who is one in His form,
+    placed in Rupa the form of His own pastimes,” that is, He enabled him to understand and describe His lilas. The
+    first biography also takes the words “priya-svarupe” as “dear friend of Svarupa”: the
     Lord expounded the science of rasa to Rupa as to no one else, because Rupa was the dear friend of Svarupa Damodara,
     in essence the Lord's beloved, by nature prema itself, naturally beautiful; Mahaprabhu knew him to be like Himself,
     and he was His vilasa (manifestation).
@@ -2163,7 +2169,9 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     the CC both speak (Madhya 1.221–224), and the Lord then ponders “Sanatana's words” (Madhya 1.228). The pictures at
     Kanai-natashala are mentioned by only one biography; one of them also refers here to the “Bhakti-ratnakara” (1.635).
 [^16]: According to the “Chaitanya-charitamrita,” the Lord gave the brothers their names in Ramakeli (Madhya 1.208);
-    Vrindavana Dasa tells the story in his own way, and it is his account that is given here.
+    Vrindavana Dasa tells the story in his own way, and it is his account that is given here. One biography attributes
+    the words about the “third samskara” to Vrindavana Dasa himself; in the CB they stand not in the verse but in an
+    explanatory subheading to it (in Srila Bhaktisiddhanta's edition).
 [^17]: Purashcharana, according to the “Hari-bhakti-vilasa” (17.11), is a rite of Deity worship, repetition of the
     mantra, libations, fire sacrifice and feeding of brahmanas in the morning, at midday and in the evening for a
     prescribed period. For the maha-mantra it is unnecessary: even a single utterance of the holy name brings all the
