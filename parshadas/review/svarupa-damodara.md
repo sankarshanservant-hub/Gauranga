@@ -109,3 +109,6 @@
 ### Вопросы пользователю
 - Нет вопросов, требующих решения. Предложение: в карточке источник Лалиты «Б. Р. Шридхар Махарадж („Золотой вулкан“)» подкрепить точной
   ссылкой (глава/страница) — в реестре его нет, книги T/M/B его не цитируют.
+
+## Решение по вопросу смены 1 (2026-10-22)
+Источник Лалиты у Шрилы Шридхара Махараджа найден: «The Golden Volcano of Divine Love», раздел «Sri Gauranga-avatara» — «Svarupa Damodara Prabhu, Sri Caitanya Mahaprabhu’s personal secretary, who is considered to be Lalita-sakhi, the nearest friend of Srimati Radharani in the pastimes of Krishna». Ссылка добавлена в карточку и в статьи RU/EN (координатор).

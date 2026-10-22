@@ -641,7 +641,7 @@ Chaitanya, who was living Radharani's heart-rending love.” (CC, Antya 6.10)
 
 So the acharyas understand him too. According to Srila Bhaktivinoda Thakura, Svarupa — Gaurasundara's “second self” —
 is in the Vraja pastimes Lalita Devi, Radhika's “second self,” and Ramananda is Vishakha; this is called the
-prevailing view in the Gaudiya sampradaya. Srila B. R. Sridhar Maharaj, in “The Golden Volcano of Divine Love,” says
+prevailing view in the Gaudiya sampradaya. Srila B. R. Sridhar Maharaj, in “The Golden Volcano of Divine Love” (section “Sri Gauranga-avatara”), says
 that Svarupa Damodara Prabhu, Sri Chaitanya Mahaprabhu's personal secretary, is considered to be Lalita-sakhi, the
 nearest friend of Srimati Radharani in the pastimes of Krishna. As Lalita and Vishakha are Radha's closest friends, so
 Svarupa and Ramananda are Sri Chaitanya's closest companions[^11]. <!-- F99 Q3 F98 F138 F110 -->
