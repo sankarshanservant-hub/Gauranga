@@ -207,7 +207,8 @@ Kashi she came to Mathura, visited the birthplace of Krishna, bathed at Vishrama
 
 Some of the Vaishnavas of Vraja met her already in Mathura, and in Vrindavana the heads of the community came to welcome
 her. Parameshvari Dasa, as the “Bhakti-ratnakara” relates, names them: Gopala Bhatta, Bhugarbha, Lokanatha, Krishnadasa
-Brahmachari, Krishna Pandita, Madhu Pandita and Jiva; Jiva introduced each of them to her by name. The Gosvamis fell at
+Brahmachari, Krishna Pandita, Madhu Pandita and Jiva, — and it is he who named each of them to her (11.102–106; according to one of the
+biographies, Jiva named them). The Gosvamis fell at
 her feet, and she in turn bowed before them. Seeing the samadhi of her uncle Gauridasa Pandita in Vrindavana, Jahnava
 wept uncontrollably (“Bhakti-ratnakara” 11.259). <!-- F72 F73 -->
 
