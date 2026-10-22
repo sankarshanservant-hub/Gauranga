@@ -1750,7 +1750,7 @@ The “Bhakti-ratnakara” recalls this too: “Kavi Karnapura, dear to the Lord
 Sanatana” (1.657). <!-- F443 Q65 -->
 
 ## Writings
-Sanatana left four books: the “Brihad-bhagavatamrita” with the commentary “Dig-darshini”; the “Hari-bhakti-vilasa,” also
+Of the books Sanatana wrote at Gaurasundara's command, four are known: the “Brihad-bhagavatamrita” with the commentary “Dig-darshini”; the “Hari-bhakti-vilasa,” also
 with the commentary “Dig-darshini”; the “Lila-stava,” or “Dashama-charita”; and the “Vaishnava-toshani”
 (“Dashama-tippani,” “Brihad-vaishnava-toshani”), a commentary (tippani) on the Tenth Canto of the “Bhagavatam.”[^73]
 <!-- F444 -->
@@ -1798,8 +1798,8 @@ Jagad-ananda. <!-- F450 F451 -->
 
 The first part is a conversation between Parikshit and his mother Uttara after he has heard the “Bhagavatam” from
 Shukadeva. Parikshit tells how Narada searched for the one who possesses Bhagavan's highest mercy: from a brahmana of
-Prayaga and a king of the south to Indra, to Brahma in Brahmaloka, to Shambhu, dear to Vishnu, to the inhabitants of
-Vaikuntha, to Prahlada, Hanuman, the Pandavas, the Yadavas and at last to Uddhava, who longs for a place in Vrindavana and
+Prayaga and a king of the south to Indra, to Brahma in Brahmaloka, to Shambhu, dear to Vishnu (here the glory of
+Vaikuntha is sung), to Prahlada, Hanuman, the Pandavas, the Yadavas and at last to Uddhava, who longs for a place in Vrindavana and
 reveals the love of the gopis as the last word of bhakti. The book opens with praise of Krishna, the gopis, Sri
 Krishna-Chaitanya, Mathura, Vrindavana, the Yamuna, Govardhana, Krishna-bhakti and the Name; it tells of Krishna's journey
 to the earthly Vrindavana and His return to Dvaraka, of the glory of Nanda and Yashoda and of the prema of the gopis, and
@@ -1921,13 +1921,14 @@ pastimes up to His departure for Mathura; one of its verses — Sanatana's addre
 <!-- F473 F476 -->
 
 Many considered the “Lila-stava” lost. Some see it in the “Gitavali” — the forty-one songs of the “Stava-mala” on the
-pastimes of the Tenth Canto, beginning with the Nandotsava, in each of which Sanatana's name appears in one way or another;
+pastimes of the Tenth Canto, beginning with the Nandotsava, in each of which Sanatana's name appears in one way or another;[^77]
 but Baladeva Vidyabhushana at the end of his commentary on the “Gitavali” calls its songs “taught by Rupa” (see the
 article on Rupa Gosvami). In the Berhampur edition of Rupa's “Stava-mala” the name “Sanatana” stands in the closing lines
 (bhanita) of the songs “Saurabha-sevita-pushpa-vinirmita,” “Apaghana-ghatita” and “Damodara-rati-vardhana-veshe.”
 Radhamohana Thakura included them in the “Padamrita-samudra” and in his commentary interprets the name in two ways:
 “Krishna, who is worshipped by Girisha, Sanaka and others together with Sanatana Gosvami,” or “Sarasvati praises Sanatana
-Gosvami” — that is, the pastimes described by the Gosvami named Sanatana, honoured by Sanaka and others.
+Gosvami” — that is, the songs speak of the pastimes described by the Gosvami named Sanatana, honoured by Sanaka (or by
+Sanaka and others).
 <!-- F474 F475 Q75 Q76 -->
 
 ### “Vaishnava-toshani”
@@ -1950,7 +1951,7 @@ Shridhara Svami, the sole guardian of bhakti; his own teachers (see above); Adva
 avadhuta, Gadadhara Pandita, Svarupa Damodara and the other associates of Chaitanya, by the touch of the dust of whose
 feet even the lowly become exalted; and those who love Vrindavana and have taken shelter at Govinda's feet —
 Kashishvara, Lokanatha and Krishnadasa. Then he writes that he has set out a little, according to Vaishnava siddhanta,
-for the pleasure of the Vaishnavas; that his shelter is the Vaishnavas whose encouragement pushed him into this bold
+for the pleasure of the Vaishnavas;[^78] that his shelter is the Vaishnavas whose encouragement pushed him into this bold
 work, and that where the two friends Gopala Bhatta and Raghunatha Dasa help, every goal is attained (see above); that
 this work is for the pleasure of “Shrimach-Chaitanya-rupa,” and that only Vaishnavas who know the fragrance of Sri
 Chaitanya's feet can taste the “Vaishnava-toshani.” The commentary ends with the words: the tippani on the Tenth Canto is
@@ -1980,7 +1981,7 @@ Sanatana's years and the day of his passing — the full moon of the month of Va
 this article. Behind the temple of Madana-mohana, on lower ground, in a small building of red stone, Sanatana's samadhi is
 shown; beside it is a well of sweet water, the “Sanatana-kupa.” Every year on the day of Sanatana's passing a great
 festival is held here. When Ramachandra Kaviraja came to Vrindavana, by the direction of Srinivasa and Jiva he had
-darshana of Govinda, Gopinatha and Madana-mohana and visited Sanatana's samadhi. <!-- F485 F486 F396 -->
+darshana of Govinda, Gopinatha and Madana-mohana and visited Sanatana's samadhi.[^79] <!-- F485 F486 F396 -->
 
 Sanatana is remembered in Kashi as well. The place on the bank of the Ganga where he received Mahaprabhu's instructions is
 called “Sri Sanatana-shiksha-lila-kshetra”; there stands the Sri Sanatana Gaudiya Math, where Vamshidasa Babaji lived for
@@ -1996,7 +1997,7 @@ Sanatana, whose body is non-different from Gaura, worthy of worship by all; for 
 among sages, also entered into him.” (“Gaura-ganoddesha-dipika,” 181–182) <!-- F488 Q66 -->
 
 The second “Sanatana” in this verse is the sage Sanatana- (Sanat-) kumara, one of the four Kumaras; and Rupa in the
-“Laghu-bhagavatamrita” calls his brother an avatara of the Kumaras.[^77] Sanatana, “whose body is non-different from
+“Laghu-bhagavatamrita” calls his brother an avatara of the Kumaras.[^80] Sanatana, “whose body is non-different from
 Gaura,” is regarded as an extension, as it were, of Sri Chaitanya's own body. He is called the bhakti-siddhantacharya and
 the acharya of sambandha-jnana: through him Mahaprabhu disclosed to the world the essence of the siddhanta of bhakti, and
 his Madana-mohana to this day restores in souls their forgotten relationship with Krishna. <!-- F489 -->
@@ -2286,5 +2287,16 @@ his Madana-mohana to this day restores in souls their forgotten relationship wit
 [^76]: The contents of the vilasas are given after one of the biographies (in Srila Bhaktivedanta Swami's summary); the
     tenth vilasa is omitted there.
 
-[^77]: One of the biographies quotes only the first half of the verse of the “Gaura-ganoddesha-dipika” and does not speak
+[^77]: Elsewhere in the same biography (in the account of Rupa) the songs of the “Gitavali” are counted as forty-two;
+    here, as with Baladeva Vidyabhushana (“forty and one more”), as forty-one.
+
+[^78]: So one of the biographies renders this passage in Bengali. The Sanskrit verse, as printed there, says otherwise:
+    “vaishnavaparitoshah” — he has set out a little where [in Shridhara Svami] the Vaishnavas might have remained
+    unsatisfied.
+
+[^79]: So in two biographies: in one, by the direction of Srinivasa and Jiva; in the other, by Jiva's command; there it
+    is also said that Ramachandra took the dust of the feet of Lokanatha, Gopala Bhatta and Bhugarbha, who were then
+    living. In the second biography this is the only mention of Sanatana's samadhi.
+
+[^80]: One of the biographies quotes only the first half of the verse of the “Gaura-ganoddesha-dipika” and does not speak
     of the Kumara entering him.
