@@ -671,8 +671,9 @@ days, thinking He was going to Vrindavana, while Nityananda sent Chandrashekhara
 
 From there Chandrashekhara was to go on to Navadvipa for Mother Shachi and all the devotees (Madhya 3.22)[^30]. The news
 of the Lord's sannyasa broke hearts, and, according to one of the biographies, Advaita wept until He fell down as though
-lifeless; then a voice from the sky told Him not to grieve: in a few days the Lord would be with them.
-<!-- F103 F104 Q13 -->
+lifeless; then a voice from the sky told Him not to grieve: in a few days the Lord would be with them. Elsewhere the
+same biography says that, on receiving the news, Advaita went with Haridasa from Navadvipa to Shantipura.
+<!-- F103 F104 F155 Q13 -->
 
 ## “Wherever You Are, There Is Vrindavana”
 Nityananda taught the cowherd boys to point out the road to the Lord so that it led Him not to the Yamuna but to the
@@ -704,8 +705,10 @@ Advaita's little son Achyutananda came running too. Vrindavana Dasa speaks of hi
 “Coming, he fell at the lotus feet of Gaurachandra, and the Lord took this dust-covered child onto His lap.” (CB, Antya
 1.216)
 
-The Lord called the boy His brother: “If Advaita is My father, then you are My brother.” And he replied: “The scriptures
-say that You are the father of all”[^32]. <!-- F107 Q15 -->
+“The Lord said: ‘O Achyuta, Advaita Acharya is My father. Therefore we are brothers.’” (CB, Antya 1.217)
+
+“Achyuta replied: ‘By Your own sweet will You have become the friend of all living beings, whereas the Vedas extol You as
+the father of all that exists.’” (CB, Antya 1.218)[^32] <!-- F107 Q15 -->
 
 ## Ten Days in Shantipura
 The Lord had eaten nothing for three days, and in Advaita's house a great feast was prepared for Him. Sita cooked, and
@@ -713,8 +716,8 @@ Advaita offered everything to Vishnu; the rice lay in mountains on whole banana 
 biographies, after His fast accepted prasada from Sita's hands. At the meal Advaita joked with Him and with Nityananda,
 and Nityananda and Advaita began a playful quarrel: Advaita called Nityananda a “fallen avadhuta,” and Nityananda, as if
 in anger, threw a handful of rice — and Advaita danced with joy that the remnants of Nityananda's meal had touched Him.
-Such “disputes” of Advaita with Nityananda are lila: the one who seems to censure Nityananda in truth glorifies Him. On
-the following days the Lord ate Shachi's cooking as well. <!-- F108 I15 -->
+Such “disputes” of Advaita with Nityananda are lila: the one who seems to censure Nityananda in truth glorifies Him. When Advaita wished to massage the Lord's feet, the Lord stopped Him and sent Him to eat together with Mukunda and
+Haridasa (Madhya 3.105–107). On the following days the Lord ate Shachi's cooking as well. <!-- F108 F155 I15 -->
 
 The next morning Chandrashekhara brought Shachi from Navadvipa:
 
@@ -729,16 +732,23 @@ For ten days sankirtana never ceased in Advaita's house:
 
 “All danced in jubilation, crying ‘Hari! Hari!’ Truly, Advaita's house became like Vaikuntha.” (CC, Madhya 3.156)
 
+According to one of the biographies, at the evening kirtan Advaita danced holding on to Nityananda, with Haridasa
+behind Them. For many days Advaita fed and lodged the guests from Navadvipa and the surrounding villages:
+
+“Inexhaustible were His stores. As soon as He spent anything, it was at once replenished.” (CC, Madhya 3.159) <!-- F155 -->
+
 Then, at His mother's request, the Lord resolved to live in Puri, and in that same year 1510 He went there, having
 encouraged the devotees, whom Advaita now led. For Advaita and all Navadvipa a time of separation began. <!-- F110 Q13 -->
 
 ## Every Year to Nilachala
 From Puri the Lord set out to travel through South India. When Kala Krishnadasa brought to Bengal the news that He had
-returned, Advaita and the other devotees, with Shachi's permission, made ready to go to Puri. Devotees from Shrikhanda
+returned, Advaita in jubilation cried out at the top of His voice, sang and danced much (CC, Madhya 10.78–80); one of the
+biographies says that this news as it were brought Shachi, Srivasa, Advaita and Haridasa back to life. The devotees
+gathered in Advaita's house and, with Shachi's permission, set out for Puri (Madhya 10.85–88). Devotees from Shrikhanda
 came to Advaita's house as well, to travel together:
 
 “Mukunda, Narahari and Raghunandana from Khanda also came to the Acharya's house, to go with Him to Jagannatha Puri.”
-(CC, Madhya 10.90) <!-- F111 -->
+(CC, Madhya 10.90) <!-- F111 F156 -->
 
 Kaviraja Gosvami speaks of their first coming thus:
 
@@ -829,8 +839,8 @@ Advaita began to glorify Indra:
 
 “‘O Indra! Today I have understood your greatness. Today I have understood that you are a Vaishnava.’” (CB, Antya 9.61)
 
-But the Lord saw through Him. “Acharya, why do You hide the truth?” the Lord asked. “Is not this wind and rain the work
-of Your hands?” (CB, Antya 9.65) And He explained:
+But the Lord saw through Him: He asked why the Acharya was hiding the truth — was not this wind and rain the work of His
+hands? (CB, Antya 9.65) — and explained:
 
 “You thought that if I came together with the sannyasis, I would not eat much.” (CB, Antya 9.69)
 
@@ -838,7 +848,7 @@ of Your hands?” (CB, Antya 9.65) And He explained:
 You is the greatest fortune for him.” (CB, Antya 9.72)
 
 Indra, the servant of Krishna, fulfils the desires of His devotees; if Krishna fulfils Advaita's desires, what wonder is
-it that Indra obeys Him? One of the biographies places this meal in the third year, when the Bengalis came with their
+it that Indra obeys Him? (cf. CB, Antya 9.73–74). One of the biographies places this meal in the third year, when the Bengalis came with their
 wives and brought foodstuffs with them. <!-- F121 Q13 -->
 
 ## A Kirtan in Glory of Gaura
@@ -1198,11 +1208,15 @@ Chaitanya. <!-- I14 I13 -->
     to the “Chaitanya-bhagavata” (Madhya 23), the procession to the Kazi took place before the sannyasa. The order of the
     parties in the procession is given differently by the sources (see the article on Srivasa).
 [^30]: So according to the “Charitamrita.” One of the biographies says that the Lord Himself sent Chandrashekhara, the
-    husband of His aunt, to console Navadvipa.
+    husband of His aunt, to console Navadvipa, although elsewhere the same biography follows the “Charitamrita”: it was
+    Nityananda who sent Chandrashekhara for Shachi and the devotees.
 [^31]: One of the biographies tells of the way to Shantipura differently: the Lord Himself sent Nityananda to bring the
     devotees of Mayapura to Advaita's house, and He Himself came there by way of Phulia, where crowds met Him — even
     blasphemers. Here the account follows the “Charitamrita” (Madhya 3).
-[^32]: Vrindavana Dasa gives Achyutananda's age at that time differently — now three years, now five.
+[^32]: One of the biographies, referring to Vrindavana Dasa, says that Achyutananda was then either three or five years
+    old. In the “Chaitanya-bhagavata” itself he is here a “little son” (Antya 1.213), and he is called five years old in
+    the account of Keshava Bharati (Antya 4.153). The biographies render this conversation in their own words: “If
+    Advaita is My father, then you are My brother” — “The scriptures say that You are the father of all.”
 [^33]: According to the “Charitamrita,” this was “in the following year” after the sannyasa. One of the biographies, having
     quoted this verse, at once adds that probably about three more years had passed.
 [^34]: One of the biographies refers this verse, as well as the account of the same journey with families (CB, Antya
@@ -1210,8 +1224,9 @@ Chaitanya. <!-- I14 I13 -->
     correctly they are CB, Antya 8.4–6, 8.39–43 and CC, Madhya 1.255.
 [^35]: The translation has “Damodara”; the Bengali text here reads “Svarupa,” that is, Svarupa Damodara, and “Bharati” is
     Brahmananda Bharati.
-[^36]: According to one of the biographies, the Lord's favourite dishes were cooked by Sita, and it was she who invited
-    Him.
+[^36]: So according to the “Chaitanya-bhagavata” (Antya 9.21, 24: Advaita Himself cooked, and His wife assisted Him) and
+    two of the biographies. According to a third, on one of the visits to Puri the Lord's favourite dishes were cooked by
+    Sita, and it was she who invited Him; it says nothing of the storm.
 [^37]: One of the biographies puts these words in Advaita's mouth; according to the “Chaitanya-bhagavata” (Antya
     9.204–208), it was Srivasa Pandita who answered so: he made as if to hide the sun in his palms, and laughed.
 [^38]: The “Charitamrita” mentions both stays with Advaita — before Ramakeli and after. The biographies speak now of one,
