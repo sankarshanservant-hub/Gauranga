@@ -3,7 +3,7 @@
 
 ## One of the Six Gosvamis
 Raghunatha Bhatta is one of the six Gosvamis of Vrindavana, the best of the intimate associates of Sri Krishna
-Chaitanya and of those who established His cherished desire in the world. The Lord's biographers call him by several
+Chaitanya and of those who established His cherished desire. The Lord's biographers call him by several
 names: Raghunatha Bhattacharya, Bhatta Raghunatha, Bhatta Gosvami, or simply Raghunatha. At the very beginning of the
 “Chaitanya-charitamrita” Krishnadasa Kaviraja Gosvami honours him among his six instructors:
 
@@ -27,7 +27,7 @@ Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 10.153–158) places his app
 Raghunatha was the son of Tapana Mishra; so both Murari Gupta and Krishnadasa Kaviraja call him:
 
 “I shall also tell of three devotees of Sri Chaitanya in Varanasi: the physician Chandrashekhara, Sri Tapana Mishra
-and his son, Raghunatha Bhattacharya.” (CC, Adi 10.152) <!-- F9 -->
+and his son, Raghunatha Bhattacharya.” (CC, Adi 10.152–153) <!-- F9 -->
 
 Tapana Mishra came from East Bengal, from the village of Rampur on the bank of the Padma; the “Prema-vilasa” also says
 that he met the Lord at Rampur on the bank of the Padmavati. This was in the days when Mahaprabhu, in His pastime as a
@@ -119,7 +119,8 @@ sweets for the Lord and packed them in a large bag, and he set off with a servan
 Chaitanya. He set out from Varanasi by the road through Bengal, together with a servant who carried all his things.”
 (CC, Antya 13.89–90) <!-- Q5 -->
 
-In Bengal he met Ramadasa Vishvasa — a kayastha, the king's trusted treasurer (by one account, the Shah's), learned in
+On the way he met Ramadasa Vishvasa — a kayastha, the king's trusted man (vishvasa) (by one account, trusted by the Shah,
+who had given him an important post in the treasury), learned in
 all the shastras, an expert in poetics who taught the “Kavya-prakasha.” Ramadasa belonged to the Ramanandi community; he
 was a great Vaishnava and worshipper of Rama, chanted the name of Rama day and night and expounded the “Ramayana.” He had
 given up everything and was going to Jagannatha. Meeting Raghunatha, Ramadasa carried his baggage on his head and even
@@ -200,7 +201,7 @@ the scriptures owes nothing any more to the gods of the universe, the great sage
 
 The Lord told Raghunatha to come to Nilachala again, placed His own prasada garland around his neck[^5] and, embracing
 him, sent him off. He also gave him maha-prasada for all the devotees of Kashi close to Tapana and Chandrashekhara. The
-Lord, a sannyasi, sent the finest prasada of Jagannatha from Nilachala both to Shachi and to the devotees: this showed
+Lord, a sannyasi, sent the finest prasada of Jagannatha from Nilachala — both to Shachi and to the devotees: this showed
 His transcendental love for His devotees, His being subject to their love. Outwardly it resembles the attachment of a
 conditioned soul, but its nature is altogether different. <!-- F49 I4 -->
 
@@ -250,8 +251,10 @@ Raghunatha Bhatta, Gopala Bhatta and Raghunatha Dasa came to Vrindavana, and Jiv
 <!-- F62 -->
 
 Raghunatha Bhatta read the “Bhagavata” in Rupa's assembly — the Vishva-vaishnava-raja-sabha, “the assembly of the king of
-the Vaishnavas of all the world” — every day, in a sweet voice, before Rupa and Sanatana (on this assembly see the
-articles on Rupa and Sanatana). Krishnadasa Kaviraja describes what that reading was like (CC, Antya 13.126–130). From
+the Vaishnavas of all the world” — every day, in a sweet voice, before Rupa and Sanatana. By one account, this assembly was founded jointly by the six Gosvamis — Rupa, Sanatana,
+Raghunatha Dasa, Raghunatha Bhatta, Gopala Bhatta and Jiva — who thus preached Mahaprabhu's cherished desire (on this
+assembly see the articles on Rupa and Sanatana). Krishnadasa Kaviraja describes what that reading was like (CC, Antya
+13.126–130). <!-- F81 --> From
 extraordinary love all eight spiritual transformations arose in him — tears, trembling, a faltering voice — and he could
 not read on. His voice was sweeter than the cuckoo's, and he sang each verse to three or four melodies, in different
 ragas. When he read or heard of Krishna's beauty and sweetness, love deprived him of outer consciousness. The feet of
@@ -262,8 +265,8 @@ remembering Govinda's pastimes (by one account, those of Gaura-Govinda). <!-- F6
 Deity of Govinda, such as a flute and earrings in the shape of the makara, the mythic sea creature.” (CC, Antya
 13.131)[^6]
 
-Govinda, who had appeared at Goma-tila, was served at first in a hut; later a disciple of Raghunatha Bhatta built Him a
-beautiful temple with a jagamohana (so according to the “Bhakti-ratnakara,” 2.404–437). The “Chaitanya-charitamrita”
+By one account, Govinda, who had appeared at Goma-tila, was served at first in a hut, and later a disciple of Raghunatha
+Bhatta built Him a beautiful temple with a jagamohana.[^7] The “Chaitanya-charitamrita”
 names neither this disciple nor the builder of the temple (see the article on Rupa Gosvami). <!-- F68 Q16 -->
 
 He never spoke of worldly matters nor listened to worldly talk of fortune and misfortune: all eight praharas were given
@@ -281,7 +284,7 @@ same love for his own worshipful Lord that lives in himself. <!-- F69 F70 Q19 I5
 “When he meditated on Krishna, he would take Mahaprabhu's gift — the tulasi garland and Jagannatha's prasada — tie them
 together and put them around his neck. Thus I have described the supreme fruit of the mercy of Sri Chaitanya Mahaprabhu.
 By Sri Chaitanya's mercy Raghunatha Bhatta became wholly absorbed in pure love for Krishna.” (CC, Antya
-13.134–135)[^7] <!-- F71 F72 -->
+13.134–135)[^8] <!-- F71 F72 -->
 
 When Rupa stayed for a month in Mathura in the house of Vitthalanatha, son of Vallabha Bhatta, and beheld Gopala-deva,
 Raghunatha Bhatta was in his retinue:
@@ -309,11 +312,13 @@ When Shrinivasa Acharya came to Mathura, Rupa, Sanatana, Kashishvara and Raghuna
 Brahmanas on their way to Vrindavana told him that Raghunatha Bhatta and other great devotees had only just left this
 world, and Shrinivasa fell to the ground in the grief of separation. <!-- F76 -->
 
-According to the “Bhakti-ratnakara,” at Raghunatha Bhatta's samadhi in Vrindavana the heart breaks. There it is
-remembered that he was so expert in the shastras that Brihaspati himself delighted in his explanations of siddhanta;
-that his talks on the “Bhagavata” had no equal — Vyasa himself would have wished to hear them; that the gods marvelled
-at his sadhana. Hearing this, Shrinivasa and the devotees fell prostrate and went to the temple of Govindaji.
-<!-- F77 Q18 -->
+Later, setting out from Vrindavana for Gauda with Narottama and Shyamananda, Shrinivasa took leave of the samadhis of the
+Gosvamis. The “Bhakti-ratnakara” relates that at Raghunatha Bhatta's samadhi he was bathed in tears and his heart was
+breaking. Who, merely hearing of Raghunatha Bhatta's qualities, would not find his heart refreshed? — so Shrinivasa
+glorified him. He was a teacher of all the shastras, and Brihaspati himself, hearing his discourses, joyfully applauded
+him; his reading of the “Bhagavata” has no equal — Vyasa and the other sages long to hear it; the gods marvelled at his
+devotion. Then Shrinivasa and his companions fell prostrate and, taking leave, went to the temple of Govinda (BR
+6.452–457).[^9] <!-- F77 Q18 -->
 
 Narottama Dasa in a song of lament cries: “Where are Raghunatha Bhatta and Gopala Bhatta?” — and in the “Prarthana”
 names him among the Gosvamis whom he never had the chance to serve. <!-- F78 -->
@@ -334,14 +339,14 @@ Rupa, Sanatana, Gopala Bhatta, Raghunatha Bhatta and others will be in Vrindavan
 the Gaudiyas by Raghunatha Bhatta. His departure, following that of Rupa and Sanatana, is mentioned in the
 “Anuragavalli,” the “Prema-vilasa” and the “Narottama-vilasa.” <!-- F80 -->
 
-The day of Raghunatha Bhatta Gosvami's departure is the shukla-dvadashi of the month of Ashvina;[^8] by our calendar this
+The day of Raghunatha Bhatta Gosvami's departure is the shukla-dvadashi of the month of Ashvina;[^10] by our calendar this
 is the Gaura-dvadashi of the month of Padmanabha. On this day Vaishnavas honour the departure of three Gosvamis at
 once — Raghunatha Bhatta, Raghunatha Dasa and Krishnadasa Kaviraja. <!-- F31 F32 -->
 
 ## Raga-manjari
 Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who Raghunatha Bhatta was in Krishna's pastimes:
 
-“Raghunatha Bhatta is the former Raga-manjari.” (GGD 185)[^9]
+“Raghunatha Bhatta is the former Raga-manjari.” (GGD 185)[^11]
 
 In his drama “Chaitanya-chandrodaya” the same Kavi Karnapura does not mention him. <!-- F2 F3 Q13 -->
 
@@ -366,10 +371,14 @@ himself blessed — as if he had tasted the remnants of their meal. <!-- I6 -->
     made by the same wealthy disciple who built the temple; according to two others and to the translation of the CC
     quoted here, by
     Raghunatha himself.
-[^7]: According to one of the biographies, he wore the garland and the “beads” given by the Lord.
-[^8]: So according to the Navadvipa panjika. The old kadcha gives the day of departure as jyeshtha shukla-dashami, but
+[^7]: One of the biographies cites the “Bhakti-ratnakara” (2.404–437) here, but that passage of the “Bhakti-ratnakara”
+    tells only of Govinda's appearance at Goma-tila; it says nothing of the hut or the temple.
+[^8]: According to one of the biographies, he wore the garland and the “beads” given by the Lord.
+[^9]: According to one of the biographies, these words of glorification are not Shrinivasa's own — he and the devotees
+    hear them; in the “Bhakti-ratnakara” (6.456) Shrinivasa himself speaks them.
+[^10]: So according to the Navadvipa panjika. The old kadcha gives the day of departure as jyeshtha shukla-dashami, but
     Bhaktivinoda Thakura remarked that this contradicts the almanac.
-[^9]: ⚠ Two biographies apply to Raghunatha Bhatta the second half of the verse as well — “who dwelt in a hut by Sri
+[^11]: ⚠ Two biographies apply to Raghunatha Bhatta the second half of the verse as well — “who dwelt in a hut by Sri
     Radha-kunda.” According to our translation of the “Gaura-ganoddesha-dipika,” these words begin the passage on
     Raghunatha Dasa: “And he who made his dwelling in a hut by Sri Radha-kunda — that is Raghunatha Dasa, whose former
     name is Rasa-manjari” (GGD 185–186).
