@@ -541,8 +541,8 @@ from childhood the girl bathed in the Ganga several times a day and each time bo
 
 Having made sure that her son did not object, Shachi called the brahmana Kashinatha and, opening her heart to him in
 private, sent him to Sanatana: “Tell him: if he wishes, let him give his daughter to my son” (CB, Adi 15.38–52; CM,
-Adi-khanda, part 13; “Kadacha” 1.13.2–3).[^11] It is told that she worried lest the noble Sanatana refuse his daughter
-to the son of poor parents, who moreover passed for an eccentric, but the matchmaker only answered: “Thakurani, if not
+Adi-khanda, part 13; “Kadacha” 1.13.2–3).[^11] It is told that she worried lest Sanatana, a man of high standing, reject
+her son, who was not rich and whom the town thought eccentric, but the matchmaker only answered: “Thakurani, if not
 to Nimai Pandita, then to whom?” — and when he came back from Sanatana and told her everything, he heard: “I have done
 what I could; the rest is in the hands of Sri Hari.” Sanatana and his family gladly agreed, and the mother, delighted,
 at once began to prepare for the wedding (CB, Adi 15.60–67). And when Sanatana sent his messenger to her, Shachi
@@ -685,8 +685,8 @@ The remnants of that meal were cleared away and reverently eaten by Ishana:
 “He is the most fortunate in all the fourteen worlds, for all his life he served mother Shachi.” (CB, Madhya 8.74)
 
 Ishana did whatever she needed, and Shachi loved him dearly. Serving her who is non-different from Yashoda, he knew that
-service to a devotee is higher than worship of the Lord Himself, and that the Lord's mercy follows the mercy of His
-devotee. “With folded palms I bow to Ishana, whom Shachi Thakurani loved so dearly,” sings the “Vaishnava-vandana”.
+service to a devotee is higher than worship of the Lord Himself, and that the Lord is merciful to one whom His devotee
+has blessed first. “With folded palms I bow to Ishana, whom Shachi Thakurani loved so dearly,” sings the “Vaishnava-vandana”.
 <!-- F47 I4 Q7 -->
 
 Shachi regarded Nityananda as her own Vishvarupa: more than once she had heard Him speak exactly like her elder son, and
@@ -902,7 +902,7 @@ Nityananda consoled them both (v. 44). Then, remembering His words, “Whoever c
 them — Shachi and Vishnupriya, children and the old, young men and girls — sat down to chant the holy name, making
 Gauranga their refuge. The devotees, finding consolation only in the names and qualities of the Lord, did not leave
 Shachi's side (CB, Antya 1.50). For four days, while the Lord, beside Himself with love, wandered through Radha-desha, yearning for
-Vrindavana, Sita was with her: Shachi lay on the ground like one dying — as if the sun had left her sky for ever. And
+Vrindavana, Sita was with her: Shachi, exhausted by separation, could not rise from the ground and scarcely showed a sign of life. And
 Vamshivadana composed a song of separation in which the poet rolls on the ground, hearing the weeping of the Lord's
 young wife and her mother-in-law. <!-- F163 F199 F86 F108 F91 F54 -->
 
@@ -1155,8 +1155,8 @@ near you.’” (“Kadacha” 4.23.4–5)
 And when she served the meal, she saw that it was Rama and Krishna who were eating it, and was plunged in an ocean of
 joy (4.23.6–8). <!-- F169 F208 F106 -->
 
-After His marriage Nityananda brought His wives, Vasudha and Jahnava, to her; Shachi embraced them again and again,
-seated them on her lap and fondly patted their cheeks. At her wish Nityananda then lived nearby for some time before
+After His marriage Nityananda brought His wives, Vasudha and Jahnava, to her; Shachi welcomed them with
+great joy, would not let them out of her embrace and tenderly caressed them both. At her wish Nityananda then lived nearby for some time before
 settling in Khardaha.[^27] And when separation from Gaura became unbearable, He would ask Shachi's permission and go
 back to Nilachala (CB, Antya 7.10–11). <!-- F70 F64 F106 F169 -->
 
