@@ -5,10 +5,9 @@
 In the Navadvipa of Mahaprabhu's time he was known as Sri Gangadasa Pandita. The “Chaitanya-bhagavata” calls him now
 “vipra Gangadasa,” “Gangadasa the brahmana,” now “the crown of teachers” (adhyapaka-shiromani, Adi 8.26; Madhya 1.267):
 in the whole town there was no greater teacher. Yet his glory for all ages is that the Lord Himself studied under him.
-Krishnadasa Kaviraja, describing the tree of Sri Chaitanya, speaks of him thus:
-
-“Gangadasa Pandita is immeasurably dear to Sri Chaitanya. Remembering him can destroy all the fetters of worldly
-existence.” (CC, Adi 10.29) <!-- F1 F4 Q4 -->
+Krishnadasa Kaviraja, describing the tree of Sri Chaitanya, says that Gangadasa Pandita is immeasurably dear to the
+Lord and that the mere remembrance of him can destroy all the fetters of worldly existence (CC, Adi 10.29).
+<!-- F1 F4 Q4 -->
 
 He belongs to those eternal associates of the Lord who came into the world before Him and awaited His descent:
 

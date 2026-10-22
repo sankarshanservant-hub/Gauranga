@@ -119,7 +119,7 @@ B — вероятно, больше сотни).
 | @ishvara-puri (029) | ✓ | ✓ (PDF) | — |
 | @advaita (030) | ✓ | ✓ (PDF) | — |
 | @chandrashekhara-acharya (031) | ✓ | ✓ (PDF) | — |
-| @gangadasa-pandita (032) | ✓ | в работе | — |
+| @gangadasa-pandita (032) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra (028; пилот сверен с переводом и сканом) | ✓ | ✓ (PDF) | — |
 | @shachi (пилот, без главы B) | ✓ | ✓ | — |
 
