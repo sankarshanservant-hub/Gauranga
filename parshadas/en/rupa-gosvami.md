@@ -793,6 +793,9 @@ Sanatana, is so wise and learned that there is no one who can compare with him. 
 as strong as yours, Ramananda. In him humility, detachment and unsurpassed learning are united. I empower these two
 brothers to go to Vrindavana and write literary works on bhakti.’” (CC, Antya 1.197–202)
 
+In one biography's retelling the Lord says here: “Having invested shakti in the hearts of both brothers, I have sent
+them to Vrindavana to propagate the scriptures of bhakti.”
+
 “Then Sri Chaitanya embraced Rupa Gosvami and asked him to offer prayers at the lotus feet of all the devotees present.
 Advaita Acharya, Nityananda Prabhu and all the other devotees poured their causeless mercy on Rupa Gosvami and embraced
 him. All the devotees were immensely astonished at the special mercy Sri Chaitanya had shown Rupa Gosvami, and at the
@@ -801,7 +804,9 @@ unsurpassed virtues of Rupa himself.” (CC, Antya 1.206–208) <!-- F197 F198 F
 Sri Gaurasundara is Himself the lord of Sarasvati; Ramananda, the author of the “Jagannatha-vallabha-nataka,” is
 Vishakha-devi in the pastimes of Vraja; Svarupa Damodara, Gaurasundara's “second self” and an ocean of transcendental
 rasa, is Lalita-devi. Both they and all the devotees who know rasa praised Rupa's poetry: it cannot be compared with the
-verses of worldly, “village” poets. Worldly men of letters, for their part, place Rupa on a level with Kalidasa, or below
+verses of worldly, “village” poets. The “Vidagdha-madhava,” as one biography says, was heard and praised without
+measure by Sri Chaitanya Himself — “the united form of Radha and Madhava” — by Ramananda, Svarupa and others close to
+Gaura. Worldly men of letters, for their part, place Rupa on a level with Kalidasa, or below
 or above him. But just as neither a piece of glass nor even the Koh-i-noor can be compared with the transcendental
 Kaustubha gem, so no worldly poet celebrated by the crowd can be compared even with the radiance of the toenails of
 Rupa's feet.[^37] <!-- F200 F201 -->
