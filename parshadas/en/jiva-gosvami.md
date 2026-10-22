@@ -1145,8 +1145,7 @@ first awakening of Their love; the killing of Pralamba and again a forest fire; 
 flute, asks His beloved for love; instead of the sacrifice to Indra — the worship of Govardhana with the cows; Indra's power
 is broken, and the Holder of the hill receives the title “Gavendra”; Nanda in the world of Varuna and the vision of
 Goloka; the stealing of the gopis' garments; Krishna asks food of the brahmanas' wives; the beginning of the rasa-lila;
-Krishna's disappearance from the rasa and the account of Sri Radhika's good fortune; the gopis' praise in separation and
-the finding of Krishna. The last eight puranas are the expansion of the rasa pastimes; play in the water, wandering in the
+Krishna's disappearance from the rasa and the account of Sri Radhika's good fortune; the ending of the gopis' separation (vipralambha-stambhana) and the finding of Krishna. The last eight puranas are the expansion of the rasa pastimes; play in the water, wandering in the
 forest and the completion of the rasa; Krishna in Ambika-vana frees a Vidyadhara from a curse; playful sports in solitude;
 the killing of Shankhachuda and the Holi play of Krishna and Balarama; the killing of Vrishasura, the appearance of the two
 kundas and the pastimes of the tenth year; the killing of Keshi; and, finally, the fulfilment of all the desires of Krishna
@@ -1218,9 +1217,7 @@ p. 208; vol. II, p. 32) and described by Rajendralal Mitra (“Notices of Sanskr
 <!-- F292 -->
 
 ### “Shat-sandarbha”
-Jiva's principal work is the “Sri Bhagavata-sandarbha”, otherwise the “Shat-sandarbha”, “The Six Sandarbhas”. It was
-composed, at the instruction of Rupa and Sanatana, by a follower of the feet of Sri Krishna Chaitanya honoured by the
-assembly of Vaishnavas of the whole world. Its six parts are the “Tattva-”, “Bhagavat-”, “Paramatma-”, “Sri Krishna-”,
+Jiva's principal work is the “Sri Bhagavata-sandarbha”, otherwise the “Shat-sandarbha”, “The Six Sandarbhas”. It was composed, at the instruction of Rupa and Sanatana, honoured by the assembly of Vaishnavas of the whole world, by a follower of the feet of Sri Krishna Chaitanya. Its six parts are the “Tattva-”, “Bhagavat-”, “Paramatma-”, “Sri Krishna-”,
 “Sri Bhakti-” and “Sri Priti-sandarbha”. The first four establish sambandha-tattva, the truth of relationship; the
 “Bhakti-sandarbha” — abhidheya, the path; the “Priti-sandarbha” — prayojana, the goal. <!-- F293 F294 -->
 
@@ -1278,8 +1275,7 @@ approaches them with an academic yardstick breaks Jiva's sworn prohibition and f
 be understood only by studying it with a devotee who loves Gaura (on the errors of scholars see below). <!-- I23 -->
 
 There are twenty-four principal topics in the “Tattva-sandarbha”. They are the paravyoma and Bhagavan; the work of the
-avataras; sambandha, abhidheya and prayojana; the powerlessness of mundane knowledge — perception and inference — to grasp
-the inconceivable and His shakti without Vedic testimony; the inadequacy of logic and the authority of the word
+avataras; sambandha, abhidheya and prayojana; the powerlessness of mundane knowledge — perception and inference — to know, without Vedic testimony, the nature of the inconceivable Reality and to determine devotion to It; the inadequacy of logic and the authority of the word
 (shabda); the appearance and disappearance of the Vedas and Puranas. The Puranas are the fifth Veda; they are of three
 kinds, and one must follow the sattvic ones; the “Bhagavatam” is the natural (akritrima) commentary on the Vedas, a
 nirguna, transcendental, pure Purana, the crown of all proofs. Further: the chief fruit of Krishna's name is prema-bhakti;
@@ -1414,7 +1410,7 @@ The explanation of the “Tattva-sandarbha” speaks of the superiority of shabd
 ten kinds of proof; of the power of the word and the doctrine of sphota-vada; of grasping the meaning of the great sayings
 (mahavakya); of the svarupa of Bhagavan; of creation; of the objections of the advaitins against Bhagavan's vigraha; of the
 teachings of Madhvacharya and Ramanujacharya. The explanation of the “Bhagavat-sandarbha” — on the siddhanta of shakti; on
-the reproach that accepting shakti brings duality into His nature; on the sutra “anandamayo 'bhyasat”; on the refutation of
+the fault into which one falls by denying shakti; on the possession of dual properties (dvidharmata); on the sutra “anandamayo 'bhyasat”; on the refutation of
 nirvishesha-vada, the doctrine of the attributeless; on the three kinds of difference; on the eternity of the vigraha, on
 how it is limited and yet unlimited; on the agreement of all the shastras in Krishna. The explanation of the
 “Paramatma-sandarbha” — on anubhuti, the experience of consciousness; on “I”-consciousness; on the jiva being atomic and
@@ -1446,7 +1442,7 @@ certain Jiva, living in Vrindavana, shine for ever” — “a certain Jiva” b
 Jiva's commentary on the “Sri Gopala-tapani Upanishad” is mentioned in the “Catalogus Catalogorum” (vol. III, pp. 35 and
 44). It is called the “Sri Sukha-bodhini” — “Easily Understood”. At the beginning of his explanation of the
 “Purva-tapani” Jiva explains the mantra of the kama-bija and comments on the mantra of worship of Krishna, whose form is
-sach-chid-ananda. The head of the shruti, he writes, says that the universe was created from “klim”: from “la” — earth,
+sach-chid-ananda. The crown of the shruti, the Upanishad, he writes, says that the universe was created from “klim”: from “la” — earth,
 from “ka” — water; citing this as the basis of his tantra, Gautama-muni expounds: from “ka” — water, from “la” — earth,
 from “i” — fire, from the bindu — the moon, from their union — the sun. This shruti is the “Gopala-tapani”, recited in the
 Pippalada shakha of the “Atharva Veda” and received by the brahmanas of the Parashara gotra, known in Gurjara and other
@@ -1597,6 +1593,11 @@ In Puri Bhaktivinoda studied the “Bhagavatam”, Jiva's six “Sandarbhas”, 
 bhakti, and Jiva pointed out that it is the best of all a devotee's activities; for the sake of this truth Bhaktivinoda
 founded in Puri the assembly “Bhagavata-samsad”. Among the articles of Srila Bhaktisiddhanta Sarasvati there is one titled
 “Sri Jiva Gosvami”; how he published the “Hari-namamrita-vyakarana” has been told above. <!-- F378 F379 F380 -->
+
+Srila Bhaktisiddhanta's disciple Srila B. R. Sridhar Maharaj, in his verses “Srimad-Bhaktivinoda-viraha-dashakam” (1936),
+sings of the nectar of service to Sri Radha's feet which Bhaktivinoda has the power to give — approved by Sri Gaura, known
+by Svarupa, revered by Rupa's elder brother, spread by Rupa and others, relished and served by the Raghunathas, “guarded by
+Jiva and others” (jivadyair abhirakshitam), worshipped by Shuka, Shiva, Brahma and others. <!-- F390 -->
 
 ## Departure, samadhi, places of remembrance
 Jiva left this world in Vrindavana on the day which our calendar marks as Gaura-tritiya of the month of Narayana (on the
@@ -1825,4 +1826,4 @@ says that in Krishna's lila he is a special manjari (see above). <!-- F385 -->
 
 [^52]: The biographies cite these places as shlokas 195 (Vilasa-manjari) and 203 (Jiva); in the edition on which our
     translation of the “Gaura-ganoddesha-dipika” is based, shlokas 194–207 are grouped together, and the correspondence of
-    the gopis' names to Gaura's associates is given in the order of enumeration.
+    the gopis' names to Gaura's associates is given in the order of enumeration: Vilasa-manjari is twelfth among the friends, Sriman Jiva twelfth among the associates.
