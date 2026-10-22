@@ -977,8 +977,8 @@ Nityananda's mercy, and through it love for Krishna. <!-- F298 F299 F300 I4 -->
 
 In Saptagrama stands the six-armed form of Mahaprabhu which Uddharana installed and himself served: on the Lord's right
 is Nityananda, on His left Gadadhara. The Nitai-Gaura Deities that Uddharana installed in Uddharanpur near Katwa were,
-it is said, taken to the capital of the Banowari rajas. After Uddharana's departure Jahnava, Nityananda's shakti,
-visited his shripata. And one biography remarks with sorrow that later some born in the community Nityananda had
+it is said, taken to the capital of the Banowari rajas.
+And one biography remarks with sorrow that later some born in the community Nityananda had
 delivered, calling themselves devotees, came to oppose Him. <!-- F457 -->
 
 Chaitanya and Nityananda delivered everyone — sinners and offenders alike. Ordinarily offences keep the holy name from
@@ -1114,7 +1114,9 @@ the devotees rest — this is the “vishrama-sthana,” the place of rest — a
 Nityananda, the avadhuta bound by no rules, in Gauda took on the role of a householder as well. Not all the biographies
 speak of it: one of them, which calls Him the eldest son of Hadai and Padmavati (but does not name their other children),
 is silent about the marriage, as it is silent about the date and place of His departure; of the identifications according
-to the “Gaura-ganoddesha-dipika” it gives only two — Baladeva, and Jahnava as Ananga-manjari. <!-- F84 -->
+to the “Gaura-ganoddesha-dipika” it gives only two — Baladeva, and Jahnava as Ananga-manjari (the “Gaura-ganoddesha-dipika” itself, 66, gives both
+opinions — some call Ananga-manjari Vasudha, others Jahnava — and accepts both as true; see below, “Identifications”).
+<!-- F84 -->
 
 Nityananda's wives were the two daughters of Surya Dasa Sarakhela (Sarahela), elder brother of Gauridasa Pandita —
 Vasudha and Jahnava. By one account, Surya Dasa lived in Shaligrama and served as a secretary to the Muslim authorities;
@@ -1185,9 +1187,12 @@ Deities of Purushottama (Nagara) were moved together with the Deity of Jahnava M
 Chanduregram (Anubhashya to CC, Adi 11.39). Nityananda Dasa, author of the “Prema-vilasa,” is a diksha disciple of
 Jahnava Mata. Jahnava departed on the shukla-navami of the month of Vaishakha. <!-- F344 F345 F347 F350 -->
 
-Seeing the devotion of Purushottama's son, Kanu Thakura, Nityananda named him Shishu Krishnadasa. The boy lost his mother early
-(she too was called Jahnava), and, it is said, Nityananda's wife Jahnava adopted him and took him with her to
-Vrindavana[^56]. <!-- F351 -->
+Seeing the devotion of Purushottama's son, Kanu Thakura, from his earliest years, Nityananda named him Shishu Krishnadasa.
+The boy lost his mother early (she too was called Jahnava). From here the biographies differ: by one, Nityananda's wife
+Jahnava, it is said, adopted him and took him with her to Vrindavana; by another, Jahnava-mata took him to Vrindavana at
+five, and there Jiva and the other Gosvamis named him Kanai Thakura; by a third, on learning of his mother's departure,
+Nityananda Himself came to Purushottama's house and took the “twelve-year-old child” to His own home in Khardaha[^56].
+<!-- F351 F453 -->
 
 ## Descendants: Virachandra and Ganga
 Jahnava had no sons; Vasudha bore Virabhadra (Virachandra, Birchandra) Gosvami and a daughter, Ganga Devi. According to
@@ -1213,9 +1218,9 @@ are chanted everywhere in the world.” (CC, Adi 11.11)
 And again: Virabhadra is the best of all Nityananda's branches, and there is no end to the shoots that grew from it (CC,
 Adi 11.56). <!-- F356 Q49 -->
 
-Virabhadra's wife was Shrimati, daughter of Yadunandana (Yadunatha) Acharya and his wife Vidyunmala of Jhamatpur (Hooghly
-district); the second was Narayani. The marriage was arranged by Jahnava, and both daughters-in-law were her disciples.
-As vishnu-tattva, says one biography, Virabhadra had three shaktis, and the Shri-shakti is Shrimati[^57]. He had no
+Virabhadra's wives were Shrimati, daughter of Yadunandana (Yadunatha) Acharya and his wife Vidyunmala of Jhamatpur (Hooghly
+district), and Narayani. By one biography, the marriage was arranged by Jahnava, and both daughters-in-law were her
+disciples; by another, Yadunandanacharya was himself a disciple of Virachandra. As vishnu-tattva, says one biography, Virabhadra had three shaktis, and the Shri-shakti is Shrimati[^57]. He had no
 children of his own. Three are named as his adopted sons: the eldest, Gopijana-vallabha, who lived in Latagram near
 Mankar (Burdwan district); the middle one, Ramakrishna, at Gayespur near Malda; and the youngest, Ramachandra, who lived in
 Khardaha, a pure shrotriya brahmana of the Batavyal family, of the Shandilya gotra. In the “Bhakti-ratnakara” all three
@@ -1241,7 +1246,7 @@ Virachandra and His daughter Ganga Devi received his obeisances unharmed, which 
 composed ashtakas in their honour. <!-- F364 F365 F366 -->
 
 Ganga Devi's husband was Madhavacharya (Madhava Chattopadhyaya) of Jirat (Hooghly); in the opinion of some, he was a
-disciple of Purushottama (Nagara). <!-- F367 -->
+disciple of Purushottama (Nagara), in the opinion of others — of Nityananda or of Jahnava. <!-- F367 F453 -->
 
 Descendants of Nityananda were spoken of in later times as well. From His line came the well-known scholar Shyamlal
 Gosvami, who studied at the “Sarasvata-chatushpathi” (1897). And in 1911 those who called themselves descendants of
@@ -1775,11 +1780,13 @@ and Jahnava are His transcendental shaktis, and these pastimes are eternal (see 
 teaches Srila Bhaktisiddhanta Sarasvati; they must not be measured by a worldly measure (cf. note 28).
 [^55]: Two lists of Jahnava's companions from different biographies are combined here. In one of them Krishna Mishra is
 called “her uncle”; on what this rests is not said.
-[^56]: So by one biography; by another, Kanu Thakura was born on the day of the Ratha-yatra in the year 1450 of the Shaka
-era, and Nityananda gave him the name Shishu Krishnadasa seeing his devotion. The “Charitamrita” calls Kanu Thakura the son
+[^56]: Kanu Thakura was born on the day of the Ratha-yatra: by one biography, in the year 1450 of the Shaka era; by another,
+which cites his descendants, in 1457 Shaka (942 of the Bengali era), on a Thursday, on the second tithi of the bright
+half of Ashadha. Why Nityananda came for the boy only twelve years after his mother's departure, this second biography
+does not explain. The “Charitamrita” calls Kanu Thakura the son
 of Purushottama Dasa (CC, Adi 11.40).
-[^57]: By one biography, Shrimati and Narayani were sisters, daughters of Yadunandana; by another, Narayani was the adopted
-daughter of Yadunatha Acharya and Vidyunmala.
+[^57]: By one biography, Shrimati and Narayani were sisters, daughters of Yadunandana; by two others, Narayani was the
+adopted daughter of Yadunatha (Yadunandana) Acharya and Vidyunmala.
 [^58]: By another tradition, Gauridasa asked Mahaprabhu to stay with him forever, and the Lord revealed that His form and
 Nityananda's were hidden in a neem tree nearby; Gauridasa had Gaura-Nitai carved from it, and, it is said, Nityananda
 Himself was present at the carving. When They were about to leave, the Lord said: “Nityananda and I are directly present
