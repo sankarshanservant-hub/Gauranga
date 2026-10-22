@@ -102,14 +102,14 @@ even more abundantly than before. <!-- F40 F42 F43 -->
 Before setting out for Vrindavana, Srinivasa came to Khardaha. Parameshvari Dasa led him to Vasudha, Jahnava and
 Virachandra; Srinivasa prostrated himself before them in tears, and Jahnava placed her feet on his head, blessing him
 with the dust of her feet. He stayed there several days, received the mercy of both mothers and the blessing of
-Virabhadra, and Jahnava, together with other associates of the Lord, seeing his devotion, told him to go to Vrindavana;
-from Khardaha he went on to Khanakula, and on returning to Yajigrama he told his mother of Jahnava's command and received
+Virabhadra, and Jahnava, together with other associates of the Lord, seeing his devotion, told him to go to Vrindavana
+(“Bhakti-ratnakara” 4.86–96); from Khardaha he went on to Khanakula, and on returning to Yajigrama he told his mother of Jahnava's command and received
 her blessing. <!-- F44 -->
 
 Narottama too visited Khardaha — after his time in Vrindavana. Parameshvari Dasa brought him into the inner apartments
 of the house, to the feet of Jahnava and Vasudha. Understanding that he had already received the mercy of Lokanatha and
-Jiva, they bestowed their own generously upon him; here the “Bhakti-ratnakara” calls Vasudha the knower of all truth and
-Jahnava the supreme queen. For four days Narottama spoke with them about Krishna, and then went on to
+Jiva, they bestowed their own generously upon him; here the “Bhakti-ratnakara” (8.213) calls both queens, Vasudha and
+Jahnava, knowers of all truth. For four days Narottama spoke with them about Krishna, and then went on to
 Khanakula-Krishnanagara. <!-- F45 -->
 
 Her stepson, Vasudha's son Virabhadra, also became her disciple in diksha. According to the “Prema-vilasa” (24.699–704), he once saw
@@ -119,7 +119,7 @@ and stepmother. <!-- F93 -->
 ## The Road to Kheturi
 Narottama Thakura planned a great festival in Kheturi on Phalguna-purnima, the appearance day of Mahaprabhu. The host was
 Raja Santosha Datta, the son of Narottama's brother and his disciple; all three acharyas came together — Narottama,
-Shyamananda and Srinivasa. The “Bhakti-ratnakara” tells how the associates of Mahaprabhu in Bengal rejoiced in Narottama.
+Shyamananda and Srinivasa. The “Bhakti-ratnakara” (1.429–434) tells how the associates of Mahaprabhu in Bengal rejoiced in Narottama.
 Jahnava rejoiced too — the daughter of Surya Pandita, the consort of Nityananda, honoured by the whole world, who
 generously gives away the jewels of prema: his very name filled her with joy, and his renunciation and extraordinary love
 for Krishna gladdened her still more. And she graciously set out for Kheturi so that all might see her. <!-- F46 F50 Q5 -->
