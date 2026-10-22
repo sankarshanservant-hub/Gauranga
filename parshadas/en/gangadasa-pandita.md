@@ -140,7 +140,7 @@ wonder Srivasa Pandita too, offering a prayer to the Lord, begins it with the wo
 feet of the student of Gangadasa Pandita” (CB, Madhya 2.274). <!-- F32 F33 Q12 Q17 I4 -->
 
 ## The Ferry
-Soon after His return from Gaya, Mahaprabhu displayed the mahaprakasha in the house of Srivasa: for seven praharas —
+Soon after His return from Gaya, Mahaprabhu displayed the Mahaprakasha in the house of Srivasa: for seven praharas —
 twenty-one hours — He sat on the throne of Vishnu, openly revealing Himself. Calling one devotee after another to
 Himself, He blessed each and reminded him of his past. Gangadasa's turn came too. Here is what, according to the
 “Chaitanya-bhagavata,” the Lord said to him (Madhya 9.109–117; our translation, from the Bengali text):
@@ -281,7 +281,7 @@ of all knowledge, and took Him into his home almost as a son. The Lord, playing 
 example both students and teachers: a teacher must possess real knowledge, a student must honour his teacher, and
 knowledge that does not lead to devotion to Krishna is fruitless. <!-- F4 I1 I2 I3 -->
 
-In the mahaprakasha the Lord revealed that long before He had protected him at the night ferry — and this shows that He
+In the Mahaprakasha the Lord revealed that long before He had protected him at the night ferry — and this shows that He
 guards His associates always and alone knows their hidden past. From then on Gangadasa remained beside the Lord to the
 end: in the kirtanas of Navadvipa, at the deliverance of Jagai and Madhai, in Shantipura, in Puri and at the
 Ratha-yatra. The biographies of the Lord's associates invariably name him in their lists, and Vrindavana Dasa Thakura
