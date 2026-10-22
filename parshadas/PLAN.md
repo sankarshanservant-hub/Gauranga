@@ -106,7 +106,7 @@ B — вероятно, больше сотни).
 | @raghunatha-bhatta (020) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jiva-gosvami (021) | ✓ (из частей) | ✓ (PDF, 49 с.) | ✓ сплошная |
 | @gopala-bhatta (022) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @raghunatha-dasa (023) | ✓ | ✓ (PDF) | — |
+| @raghunatha-dasa (023) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @srinivasa-acharya (024) | ✓ | ✓ (PDF) | — |
 | @rasikananda (T + M 158–160) | ✓ | ✓ (PDF) | — |
 | @bhakti-dayita-madhava (только T) | ✓ | ✓ (PDF) | — |
