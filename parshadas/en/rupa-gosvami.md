@@ -1183,11 +1183,13 @@ Jiva, having studied the scriptures in Kashi under Madhusudana Vachaspati, came 
 and Sanatana and studied under them the whole “Bhagavata” and the scriptures on bhakti; both gurus entrusted him with
 revising their works. <!-- F284 -->
 
-How Rupa supposedly sent Jiva away for a debate with a scholar and forgave him only at Sanatana's intercession is told in
-different ways; Srila Bhaktisiddhanta and one of the biographies regard such stories as a fabrication of the sahajiyas
-(see the article on Jiva Gosvami).[^jiva-br] <!-- F285 F286 F287 -->
+The “Bhakti-ratnakara” tells of “Rupa's mercy to Jiva”: when Jiva had out-argued the scholar Vallabha Bhatta, Rupa gently
+reproached him and sent him away for a time, and then, at Sanatana's intercession, accepted and blessed him again.[^jiva-br]
+This is a lila of instruction: thus Rupa taught his disciple humility — it is not worldly anger or punishment. As for the
+interpretation that Rupa cast Jiva off, Srila Bhaktisiddhanta rejects it (see below and the article on Jiva Gosvami).
+<!-- F285 F286 F287 -->
 
-The incident itself, according to Srila Bhaktisiddhanta, was this. A certain digvijayi, thirsting for worldly fame, obtained from Rupa and Sanatana a written
+Another incident, of which Srila Bhaktisiddhanta writes, was this. A certain digvijayi, thirsting for worldly fame, obtained from Rupa and Sanatana a written
 acknowledgement of victory (jaya-patra): Jiva's gurus yielded to him without debate. The proud man began to revile them as
 ignoramuses and demanded the same from their disciple; Jiva engaged him in debate, defeated him and silenced the reviler
 of his gurus (Srila Bhaktisiddhanta Sarasvati, “Anubhashya” on CC, Adi 10.85). Thus Jiva showed what a true disciple should
@@ -2350,4 +2352,4 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
 [^62]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
     whom Ramananda is non-different.
 
-[^jiva-br]: So the “Bhakti-ratnakara” (5th wave) tells of “Rupa's mercy to Jiva”: on a hot summer day, when Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing. Only the “Bhakti-ratnakara” (and one biography following it) gives this story; Srila Bhaktisiddhanta rejects the interpretation that Rupa cast Jiva off.
+[^jiva-br]: So the “Bhakti-ratnakara” (5th taranga) tells of “Rupa's mercy to Jiva”: on a hot summer day, when Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing. Following the “Bhakti-ratnakara,” one biography retells this incident precisely as “Rupa's mercy to Jiva.”
