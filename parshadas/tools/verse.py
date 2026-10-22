@@ -12,9 +12,17 @@ def cc(lila, ch, a, b):
     out = []
     for v in range(a, b + 1):
         m = re.search(rf'^\({v}(?:[–-]\d+)?\)(.*?)(?=^\(\d+(?:[–-]\d+)?\)|\Z)', t, re.S | re.M)
+        grp = ''
+        if not m:  # стих внутри группы «(54–55)»
+            for g in re.finditer(r'^\((\d+)[–-](\d+)\)(.*?)(?=^\(\d+(?:[–-]\d+)?\)|\Z)', t, re.S | re.M):
+                if int(g.group(1)) <= v <= int(g.group(2)):
+                    m, grp = g, f'[{g.group(1)}–{g.group(2)}] '
+                    break
         if not m: out.append(f'({v}) — не найден'); continue
-        body = re.split(r'[\u0980-\u09FF]', m.group(1))[0]  # до бенгальского текста следующего стиха
-        out.append(f'({v}) ' + re.sub(r'[\s\u3164]+', ' ', body).strip())
+        body = m.group(3) if grp else m.group(1)
+        body = re.split(r'[\u0980-\u09FF]', body)[0]  # до бенгальского текста следующего стиха
+        body = re.split(r'[\u1160\uFFA0\u3164]', body)[0]  # до приклеенного подзаголовка («ᅠ ᅠ 9 ветвь — …»)
+        out.append(f'({v}) {grp}' + re.sub(r'\s+', ' ', body).strip())
     return out
 
 def cb(kh, ch, a, b):
@@ -31,9 +39,39 @@ def cb(kh, ch, a, b):
     t = (R / f'chaitanya-bhagavata/src/txt/CB_{kh}{ch:02d}.txt').read_text(errors='replace')
     out = []
     for v in range(a, b + 1):
-        m = re.search(rf'^Текст {v}(?:[–-]\d+)?\s*$(.*?)(?=^Текст \d+|\Z)', t, re.S | re.M)
+        m = re.search(rf'^Текст {v}(?:[–-]\d+)?\s*$(.*?)(?=^Тексты? \d+|\Z)', t, re.S | re.M)
+        grp = ''
+        if not m:  # стих внутри группы «Текст 12–14»
+            for g in re.finditer(r'^Тексты? (\d+)[–-](\d+)\s*$(.*?)(?=^Тексты? \d+|\Z)', t, re.S | re.M):
+                if int(g.group(1)) <= v <= int(g.group(2)):
+                    m, grp = g, f'[{g.group(1)}–{g.group(2)}] '
+                    break
+            m = m and type('M', (), {'group': lambda self, i, _g=m: _g.group(3) if i == 1 else _g.group(i)})()
         if not m: out.append(f'({v}) — не найден'); continue
-        # перевод — первые подряд идущие строки кириллицей, без бенгальского и без диакритики транслитерации
+        # перевод идёт после бенгальских строк и стольких же строк транслитерации (в транслитерации бывает строка
+        # без диакритики, а в переводе — слово с диакритикой, поэтому по одному виду строки их не различить)
+        ls = [l.strip() for l in m.group(1).splitlines()]
+        bn = [i for i, s in enumerate(ls) if re.search(r'[\u0980-\u09FF]', s)]
+        if bn:
+            run = [bn[0]]  # первая группа бенгальских строк (в блоке бывает несколько стихов)
+            for i in bn[1:]:
+                if i != run[-1] + 1: break
+                run.append(i)
+            bn = run
+            rest = [s for s in ls[bn[-1] + 1:]]
+            k, i = len(bn), 0
+            while i < len(rest) and k:  # пропустить транслитерацию
+                if rest[i]: k -= 1
+                i += 1
+            tr = []
+            for s in rest[i:]:
+                if not s:
+                    if tr: break
+                    continue
+                tr.append(s)
+            if tr:
+                out.append(f'({v}) {grp}' + ' '.join(tr)); continue
+        # запасной путь: первые подряд идущие строки кириллицей, без бенгальского и без диакритики транслитерации
         tr, started = [], False
         for l in m.group(1).splitlines():
             s = l.strip()
