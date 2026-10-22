@@ -71,7 +71,7 @@ brahmanas of Borgachhi and Shaligrama present.[^9] Then Surya Dasa, according to
 to Nityananda. “Both by the custom of the world and by scripture Surya Dasa is fortunate,” says the “Bhakti-ratnakara”:
 “he gave his two daughters to Nityananda-chandra” (12.3983). <!-- F32 F33 Q2 -->
 
-The “Bhakti-ratnakara” stresses that the wedding was performed “according to human custom.” This does not mean that
+One of the biographies stresses that the wedding was performed “according to human custom.” This does not mean that
 Nityananda entered into a worldly union. Every vishnu-tattva has three energies — Shri, Bhu and Nila (Lila) — and
 Nityananda, being vishnu-tattva, possesses them too; Vasudha and Jahnava are His eternal shaktis, and the marriage only
 disclosed to people what exists eternally. <!-- F34 -->

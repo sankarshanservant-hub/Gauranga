@@ -1140,12 +1140,12 @@ Nityananda's feet and held them, flooding the ground with tears and unable to ut
 hold back His joyful laughter and, bestowing full mercy on him, embraced him. Gauridasa, seeing his brother, was in
 ecstasy too. <!-- F332 F333 F334 -->
 
-When Surya Dasa offered his daughters at Nityananda's feet, He mercifully showed him the same vision in waking: both
+According to one of the biographies, when Surya Dasa offered his daughters at Nityananda's feet, He mercifully showed
+him the same vision in waking as well (by the “Bhakti-ratnakara”, Surya Dasa saw it in a dream): both
 shone brighter than mountains of gold and kunkuma, in jewels and many-coloured garments, and Surya Dasa fainted with love.
 The adhivasa on the eve of the wedding was held in the house of Krishnadasa Sarakhela in Shaligrama in the presence of all
-the brahmanas of Borgachi and Shaligrama (BR 12.3983); Surya Dasa bowed to Nityananda's feet and, according to rite and
-custom, gave Him both daughters. He was truly fortunate, says the “Bhakti-ratnakara”: he gave his daughters to the
-Supreme Personality of Godhead, Lord Nityananda. <!-- F335 F336 F337 -->
+the brahmanas of Borgachi and Shaligrama; Surya Dasa bowed to Nityananda's feet and, according to rite and
+custom, gave Him both daughters. “How fortunate is Surya Dasa,” says the “Bhakti-ratnakara”, “he gave his two daughters to Nityananda-chandra” (BR 12.3983). <!-- F335 F336 F337 -->
 
 After the wedding Nityananda stayed for a while in Shaligrama, and then with His two wives came to Navadvipa to Shachi Devi
 and bowed at her feet; Shachi joyfully embraced Vasudha and Jahnava, sat them on her lap and pinched their cheeks
