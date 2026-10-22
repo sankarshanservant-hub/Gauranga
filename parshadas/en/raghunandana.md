@@ -12,7 +12,7 @@ an abode of His mercy:
 
 “Mukunda Dasa of Shrikhanda and his son Raghunandana, as well as Narahari, Chiranjiva and Sulochana, are branches of Sri
 Chaitanya's tree of bhakti, who everywhere and in every place generously distributed the fruits and flowers of divine love
-for Krishna.” (CC, Adi 10.78) <!-- F41 Q2 -->
+for Krishna.” (CC, Adi 10.78–79) <!-- F41 Q2 -->
 
 Of all the residents of Khanda who were Gaura's companions, three were foremost:
 
@@ -51,7 +51,7 @@ The Lord Himself used to tell His devotees how once a fan of peacock feathers wa
 Mukunda, remembering Krishna, fell senseless. The padishah himself came down to him; Mukunda blamed it on epilepsy, but
 the ruler understood that a great saint stood before him and sent him home with honour (CC, Madhya 15.121–127). <!-- F16 -->
 
-The boy was raised by his uncle: Narahari took great care over his upbringing and loved him dearly, and Raghunandana
+His uncle took great care over the boy's upbringing: Narahari loved him dearly, and Raghunandana
 became his disciple. An old Sanskrit verse glorifies Mukunda Dasa for having as his son Raghunandana, beautiful as
 Kandarpa, who fed Gopala laddus: he is worthy of honour, Narahari's disciple, righteous and esteemed by the good, pure in
 conduct from childhood, his heart washed clean by bhakti. <!-- F9 F19 Q3 -->
@@ -59,7 +59,8 @@ conduct from childhood, his heart washed clean by bhakti. <!-- F9 F19 Q3 -->
 ## Laddus for Gopinatha
 Love for Krishna awakened in him from the age of five, says the “Guna-charita-mahima-lesha.” Its verse glorifies
 Raghunandana, who dwells in the land of Shrikhanda: from his fifth year, sweet with the rapture of Krishna's rasa, he
-worshipped the beautiful Sri Gopinatha, and in his childhood play Gopinatha joyfully ate sweet rice.[^3] <!-- F21 F22 Q11 -->
+manifested the beautiful Deity of Sri Gopinatha and circumambulated Him in service, and in his childhood play Gopinatha
+joyfully ate sweet rice.[^3] <!-- F21 F22 Q11 -->
 
 The household Deity of Mukunda's family was Gopinatha — Krishna.[^4] The song-poet Uddhava Dasa tells in a song what
 happened next. Once Mukunda, leaving on business — according to one biography, to treat a patient — told his son to feed
@@ -67,11 +68,12 @@ the Deity with care. The boy set the food before Him and, weeping, began to plea
 unseen ate everything to the last crumb. On his return Mukunda asked for prasada, and the son innocently replied that He
 had eaten it all. <!-- F23 F24 F28 Q7 -->
 
-Another time Mukunda gave the same instruction, but on returning he hid and watched — from outside, through the window.
+Another time Mukunda gave the same instruction, but on returning he hid and watched.
 Raghunandana placed a laddu in Gopinatha's hand and kept saying, “Eat, eat!” The Deity ate half — and the moment Mukunda
 appeared in the doorway, stopped eating. One biography explains that the first time He had already eaten His fill, and
 so ate only half. Mukunda, overwhelmed with love, took his son on his lap and embraced him, speaking in a choked voice and
-shedding streams of tears. <!-- F24 -->
+shedding streams of tears. Uddhava Dasa ends his song with the words: he who is non-different from Madana is Sri
+Raghunandana himself. <!-- F24 F5 -->
 
 Half of that laddu is still in the Deity's hand at Shrikhanda: it is kept in one of the village temples, and the fortunate
 come there to see it. The “Bhakti-ratnakara” tells that all the mahantas gathered at Shrikhanda were enchanted on seeing
@@ -103,9 +105,9 @@ Lochana Dasa writes that Chaitanya told him, “You are My life,” and more tha
 His left, Narahari on His right and Raghunandana at His feet, all with their companions drinking the nectar of His moonlike
 face. <!-- F31 F32 F33 -->
 
-Later a Deity of Sri Gauranga was installed in Raghunandana's temple. According to the “Bhakti-ratnakara,” in Gauranga's
-courtyard he and the devotees would watch the morning and evening arati and sing and dance in kirtana; it also says that
-he served the Deity of Lord Chaitanya.[^6] <!-- F34 F35 -->
+A Deity of Sri Gauranga was installed in Raghunandana's temple. According to the “Bhakti-ratnakara,” in Gauranga's
+courtyard he and the devotees would watch the morning and evening arati and sing and dance in kirtana; in the eighth wave
+of the same book, as one biography cites it, it is said that he served the Deity of Lord Chaitanya.[^6] <!-- F34 F35 -->
 
 ## Every Year to Puri
 When the Lord returned from the South, the residents of Khanda set out to Him together with everyone:
@@ -168,14 +170,14 @@ have nothing to do with the pure companions of Shrikhanda. <!-- F43 I4 -->
 ## Abhirama and the Ankle Bell
 It is said that only one who sincerely loves Krishna could withstand the obeisance of Abhirama Thakura and the stroke of
 his whip Jayamangala. In another song Uddhava Dasa tells how Abhirama came to Shrikhanda looking for Raghunandana. Mukunda,
-fearing that he would bow down to his son, hid the boy, but Raghunandana himself went to a place called Baradangi
+fearing that he would bow down to his son, hid him, but Raghunandana himself went to a place called Baradangi
 (Badadangi), met Abhirama there and withstood his mighty obeisance; then together they sang the names of Gaura and
-Nityananda and danced in love of God — according to one biography, in the house of a certain devotee.[^9] The song ends
-with the words: he who is non-different from Madana is Sri Raghunandana himself. <!-- F45 F46 Q8 F5 -->
+Nityananda and danced in love of God — according to one biography, in the house of a certain devotee.[^9] <!-- F45 F46 Q8 -->
 
-In this dance the nupura — an ankle bell — flew from Raghunandana's foot and fell four miles away, at Akai-hat, into a pond
-by the house of Krishnadasa, whom one biography calls his disciple; later the pond was named Nupura-kunda in memory of
-this. Nupura-kunda is still shown near the shripata of Lavanga-sakhi, Kala Krishnadasa, at Akai-hat.[^10] The ankle bell
+In this dance the nupura — an ankle bell — flew from Raghunandana's foot and fell four miles away, at Akai-hat,
+by the house of Krishnadasa, whom one biography calls his disciple; later a pond was dug there in memory of this —
+Nupura-kunda (according to another biography, the ankle bell fell straight into a pond, which has borne that name ever
+since). Nupura-kunda is still shown near the shripata of Lavanga-sakhi, Kala Krishnadasa, at Akai-hat.[^10] The ankle bell
 itself, it is said, together with the Deities of the Akai-hat shripata — Sri Radhavallabha and Sri Gopala — is kept to
 this day in the house of the mahantas in the village of Kadui, three kroshas from Akai-hat.[^11] <!-- F47 F48 F76 -->
 
@@ -209,14 +211,15 @@ it was then that the assembled mahantas glorified his greatness. He was also at 
 Dasa in Katwa. <!-- F57 F58 -->
 
 ## Kheturi
-To the great festival that Narottama arranged at Kheturi Raghunandana came from Shrikhanda with many devotees, together with
-Jahnava Devi and others. On the evening before the Appearance Day of Mahaprabhu he began the preliminary kirtana, and the
+To the great festival that Narottama arranged at Kheturi Raghunandana came from Shrikhanda with many devotees; among the
+guests were Jahnava Devi and many other companions of the Lord. On the evening before the Appearance Day of Mahaprabhu he began the preliminary kirtana, and the
 singing went on until midnight. At the request of Narottama and Srinivasa he sang the mangalacharana — the opening,
 auspicious kirtana — and when Sri Gauranga Himself appeared with His associates among the devotees in the great kirtana,
 Raghunandana danced with everyone (“Bhakti-ratnakara” 10.572). <!-- F59 Q17 -->
 
 Shyamananda, returning from Kheturi, stayed at Shrikhanda in Raghunandana's house, and Jahnava Devi, on her way back from
-Vrindavana, also visited his home. <!-- F60 F61 -->
+Vrindavana, also visited his home. According to one biography, when Virachandra, Nityananda's son, was travelling through
+Bengal, Raghunandana and his son Kanai Thakura welcomed him lovingly at Shrikhanda and embraced him.[^13] <!-- F60 F61 F78 -->
 
 ## Departure
 Before his departure Raghunandana sent a devotee to Yajigrama to call Srinivasa. He soon came to Shrikhanda and bowed down,
@@ -231,7 +234,7 @@ Then he went to the Deity, called his son Kanai and handed the service over to h
 his Deities. For three days the devotees sang sankirtana; then he once more surrendered himself to Narahari's Deities, Sri
 Gauranga and Sri Madana-Gopala, and under their merciful gaze left this world. The “Bhakti-ratnakara” says that he
 gradually vanished from sight, repeating again and again the names of Sri Krishna Chaitanya, and glorifies that day — the
-chaturthi of the bright fortnight of the month of Shravana.[^13] The biographies do not give the year of his departure; he
+chaturthi of the bright fortnight of the month of Shravana:[^14] who would not sing the glory of Raghunandana! The biographies do not give the year of his departure; he
 departed at Shrikhanda. <!-- F66 F67 F68 -->
 
 After his departure his son Kanai Thakura, together with Srinivasa, held a festival of separation at Shrikhanda, inviting
@@ -250,8 +253,9 @@ Gopikananda, from him Yugalananda, from him Gauragunananda. Lalitananda's sons w
 Premananda's sons were Sarvananda (whose son was Jivananda), Kishorananda and Dvarakinatha; Keshavananda's sons were
 Kirtanananda, Rakhalananda and Banavarinanda. <!-- F72 -->
 
-Raghunandana's descendants still live at Shrikhanda; one of the best known is Panchanana Kaviraja. Bhaktivinoda Thakura
-noted that the family numbers no fewer than four hundred men and that all their names are recorded at Shrikhanda. <!-- F73 -->
+Raghunandana's descendants still live at Shrikhanda; one of the best known is Panchanana Kaviraja. According to Bhaktivedanta
+Swami, drawing on Bhaktivinoda Thakura's commentary, the family numbers no fewer than four hundred men, and all their
+names are recorded at Shrikhanda. <!-- F73 -->
 
 The poet Rayashekhara, or Kavishekhara Raya, is known as a “disciple” of Raghunandana; many padas in Brajabuli circulate
 under this name. In general, quite a few padas on Gauranga bear the names of his disciples and their disciples, but they
@@ -266,7 +270,7 @@ Radha and Madhava in Vraja; non-different in body from Sri Chaitanya, he is Ragh
 
 One biography specifies that he is Sri Pradyumna-Vishnu of the Vraja-lila. Pradyumna, Krishna's son in Dvaraka, is the
 one called Kandarpa and Madana; that is why Abhirama proclaimed Madana in him, why Uddhava's song calls him non-different
-from Madana, and why the poets compare his beauty with Kandarpa's.[^14] <!-- F2 F3 F4 F5 -->
+from Madana, and why the poets compare his beauty with Kandarpa's.[^15] <!-- F2 F3 F4 F5 -->
 
 So Raghunandana, who fed Gopinatha laddus, is the one who in Vraja assists the pastimes of Radha and Madhava, and who in
 Gaura-lila bestows bhakti even on his own father. <!-- F2 I1 -->
@@ -274,7 +278,7 @@ Gaura-lila bestows bhakti even on his own father. <!-- F2 I1 -->
 ---
 [^1]: Two biographies give the year of birth, one gives the day; the third gives neither.
 [^2]: ⚠ In one place one of the biographies calls Raghunandana the son of Narahari Sarakara. This is a mistake:
-Raghunandana is the son of Mukunda (CC, Adi 10.78; Madhya 15.113–117), and Narahari is his uncle.
+Raghunandana is the son of Mukunda (CC, Adi 10.78–79; Madhya 15.113–117), and Narahari is his uncle.
 [^3]: So the verse itself; the Bengali explanation of it says otherwise: in his childhood play Gopinatha gave him sweet
 rice as a blessing, as prasada.
 [^4]: In the Sanskrit verse about him and in the “Vaishnava-vandana” this Deity is called Gopala.
@@ -297,8 +301,10 @@ Only one biography calls this Krishnadasa of Akai-hat a disciple of Raghunandana
 south of Boro-grama.
 [^12]: According to another biography, the wedding was on Akshaya-tritiya — the third day of the bright fortnight of
 Vaishakha.
-[^13]: According to another biography, he departed on the chaturdashi of the bright fortnight of Shravana. Our calendar
+[^13]: According to the “Bhakti-ratnakara,” it was Kanai Thakura who received Virachandra at Shrikhanda, and this is
+told after Raghunandana's departure.
+[^14]: According to another biography, he departed on the chaturdashi of the bright fortnight of Shravana. Our calendar
 does not list the day of his departure.
-[^14]: According to one biography, some authorities consider him Kandarpa-manjari, others Kandarpa, Krishna's son in
+[^15]: According to one biography, some authorities consider him Kandarpa-manjari, others Kandarpa, Krishna's son in
 Dvaraka; there is no Kandarpa-manjari in the “Gaura-ganoddesha-dipika,” while the second view agrees with GGD 70. On the
 meaning of the name “Madana” see note 7.
