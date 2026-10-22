@@ -1456,7 +1456,7 @@ Not for nothing does he begin every chapter of the “Charitamrita” by invokin
 and Advaita. <!-- Q53 I6 -->
 
 The “Gaura-ganoddesha-dipika” (67–68) says that the brothers Nishatha and Ulmuka entered Virachandra for a purpose, and
-that Minaketana Ramadasa is “another Sankarshana, the original vyuha”[^x397]. As Nityananda is an avadhuta, so is His follower Minaketana; Srila Bhaktisiddhanta explains: a
+that Minaketana Ramadasa is “another Sankarshana, the original vyuha”[^63]. As Nityananda is an avadhuta, so is His follower Minaketana; Srila Bhaktisiddhanta explains: a
 disciple of Nityananda is an eternally perfect maha-bhagavata, a paramahamsa beyond varnashrama. <!-- F397 -->
 
 ## The Disappearance
@@ -1512,7 +1512,7 @@ Krishna's first expansion is mula-Sankarshana Balarama, the original father of a
 as Nityananda. Nityananda is baladeva-tattva, mula-Sankarshana, the cause of Maha-Sankarshana in Vaikuntha and the source
 of the three purusha-avataras: Karanodakashayi, Garbhodakashayi and Kshirodakashayi Vishnu. Mula-Sankarshana is the
 eternally worshipped deity of Shiva. Ananta-Shesha, who holds up the earth, is so closely bound to Him that Nityananda is
-called Ananta Himself[^63]. <!-- F8 F9 F10 F13 -->
+called Ananta Himself[^64]. <!-- F8 F9 F10 F13 -->
 
 Svarupa Damodara, the “second self” of Sri Gaurasundara, glorified Nityananda in five verses of his “Kadcha,” which
 Krishnadasa Kaviraja quotes at the beginning of the “Charitamrita” (CC, Adi 1.7–11):
@@ -1533,7 +1533,7 @@ waters of the Garbha, the lila of the collective (samashti) Vishnu; by His glanc
 individual (vyashti) Vishnu, caring for the welfare of living beings. As Shesha He serves Krishna in ten forms — as bed,
 seat and so on (cf. CC, Adi 5.10). From His form abiding in the waters of the Karana are manifested Goloka-Vrindavana,
 Vaikuntha, the countless anu-chaitanyas, the minute living beings of the jiva-shakti, and the universe with its fourteen
-worlds[^64]; from Him, too, Advaita, the inner controller and material cause of the world; from Him the
+worlds[^65]; from Him, too, Advaita, the inner controller and material cause of the world; from Him the
 naimittika-avataras — Rama, Nrisimha and others — eternally appear. And when Govinda, the cause of all causes, manifested
 the magnanimous lila of Gaura and began to give out Krishna-prema, Baladeva manifested His form as Nityananda to serve this
 lila of the bestowal of love. The living beings eternally dependent on Him are known as Gaura's associates —
@@ -1550,7 +1550,7 @@ shakti-tattva. The “Charitamrita” says it briefly:
 
 Nityananda is the original cause of Maha-Vishnu and vishaya-tattva — the One who is served; He manifested the rasa-lila
 with the gopis, who serve Him as ashraya. In the language of the alankara-shastra the one served is called vishaya, the
-one serving ashraya[^65]. He is the master of prakriti, no part of Him is material, His body is eternally manifest from a
+one serving ashraya[^66]. He is the master of prakriti, no part of Him is material, His body is eternally manifest from a
 supernatural substance; He is shaktiman, vishnu-tattva, and Vasudha and Jahnava Thakurani are His transcendental shaktis.
 For the aprakrita Vishnu and His associates there is no difference between the body and the possessor of the body — maya
 does not divide them; His appearance in the world is not painful and not caused by karma, as ours is, and His pastimes are
@@ -1606,7 +1606,10 @@ Nityananda is worshipped together with Gaura in many temples. In the royal palac
 and Gaura-Gadadhara are honoured; in the house of Kashi Mishra (Radha-kanta-matha), in the time of Gopala Guru
 (1538–1548), Deities of Gauranga and Nityananda were installed. Deities of Nitai-Gauranga together with Advaita stand in
 the Madana-Mohana temple in Ramakeli, Gaura-Nityananda in the temple at Chakra-tirtha on Govardhana; Narottama brought to
-Kheturi the Deities of Sri Gauranga-Nityananda[^66]. <!-- F436 F437 F438 F439 -->
+Kheturi the Deities of Sri Gauranga-Nityananda[^67]. In the shripata of Mahesha Pandita the Deities of Gaura-Nityananda
+are served, together with Gopinatha, Madana-Mohana, Radha-Govinda and a shalagrama-shila; in Ambika Jahnava-mata, on the
+way to Kheturi, cooked with her own hands the offering for Gauridasa's Deities of Gaura-Nityananda.
+<!-- F436 F437 F438 F439 F459 -->
 
 The name of Nitai never leaves the lips of His followers. Vamshi sang in longing: “Will Nimai and Nitai ever dance
 together again?” Shyamananda's disciples — the yogi Damodara, Rasika Murari — sang the names of Nitai-Chaitanya, and
@@ -1649,7 +1652,8 @@ Radha-Govinda.” (CC, Adi 5.204) <!-- Q54 -->
 After him come Narottama Dasa Thakura and Bhaktivinoda Thakura. Narottama sings of Nitai's lotus feet and prays: “When
 will Nityananda be merciful to me and free me from birth and death? By His mercy one gives up worldly enjoyment, purifies
 the mind and reaches Vrindavana” (“āra kabe nitāi-cānda…”); Bhaktivinoda sings of Nitai and the marketplace of the holy
-name. Following these mahajanas, the Vaishnavas pray for a drop of love for Nityananda and proclaim His victory: without
+name. Following these mahajanas, the author of one biography, on the day of Nityananda's appearance, prays at the feet of His
+associates for a drop of love for Nityananda and proclaims His victory: without
 Nitai one cannot attain Radha-Krishna. <!-- Q68 Q69 I25 -->
 
 [^1]: “Vishvambhara” (“He who sustains the universe”) is usually the name of Mahaprabhu Himself; here it stands in the list of Nityananda's names. The name “Gaudeshvara” might be taken for a misprint of “Gaureshvara” (“the Lord of Gaura”), but Vrindavana Dasa calls Him so at the very beginning of the account of His appearance as well: Ekachaka is the village “where Gaudeshvara [appeared],” the Lord of the Gaudiya Vaishnavas (CB, Adi 9.5).
@@ -1817,20 +1821,20 @@ sinner who does not value Him or who blasphemes Him — I strike his face with m
 [^62]: One and the same biography tells this differently in two places: in one, Gunarnava made no reply to the rebuke and
 the brother was “doomed to ruin”; in the other, Gunarnava was glad of the rebuke and the brother was doomed to lose all his
 devotion. According to the “Charitamrita,” the brother then lost all hope in spiritual life (CC, Adi 5.178).
-[^63]: So in the retelling of the “Chaitanya-bhagavata” (Adi 9): Nityananda is “Ananta-deva Himself, who appeared by the
-will of Gaura-Krishna”; and one of the biographies calls Him Lord Shesha Himself. But according to the verses of Svarupa
-Damodara (see below), Ananta, who holds up the earth, is His kala, a portion. Only the words differ: Ananta is His own
-manifestation.
-[^64]: “Manifested” does not mean “created”: Goloka and Vaikuntha are eternal abodes; they are not made. Baladeva-Sankarshana
-is the bearer of sandhini, the energy of being (see below), and therefore He is the eternal ground through which the
-spiritual abodes manifest themselves; so teaches Srila Bhaktisiddhanta Sarasvati. Only the material universe is created —
-through the purusha-avataras.
-[^65]: Of Balarama's rasa-lila with the gopis of Vraja the “Srimad-Bhagavatam” speaks (10.65). It is a pastime of His
-internal energy: the gopis — ashraya — serve Him, the vishaya, for His joy, and in this pastime there is no worldly lust,
-just as there is none in Krishna's rasa-lila.
-[^66]: On the adjoining page of the same biography the Deities brought by Narottama to Kheturi are called Gauranga and
-Vishnupriya.
-[^x397]: One biography reads this verse differently: Nishatha and Ulmuka entered Nityananda's expansions — Minaketana and
+[^63]: One biography reads this verse differently: Nishatha and Ulmuka entered Nityananda's expansions — Minaketana and
 Rama; and since, according to the “Charitamrita” and the “Bhakti-ratnakara,” Minaketana Ramadasa is one person, perhaps
 both were united in him. Here the verse is given according to the Sanskrit and our translation of the
 “Gaura-ganoddesha-dipika.”
+[^64]: So in the retelling of the “Chaitanya-bhagavata” (Adi 9): Nityananda is “Ananta-deva Himself, who appeared by the
+will of Gaura-Krishna”; and one of the biographies calls Him Lord Shesha Himself. But according to the verses of Svarupa
+Damodara (see below), Ananta, who holds up the earth, is His kala, a portion. Only the words differ: Ananta is His own
+manifestation.
+[^65]: “Manifested” does not mean “created”: Goloka and Vaikuntha are eternal abodes; they are not made. Baladeva-Sankarshana
+is the bearer of sandhini, the energy of being (see below), and therefore He is the eternal ground through which the
+spiritual abodes manifest themselves; so teaches Srila Bhaktisiddhanta Sarasvati. Only the material universe is created —
+through the purusha-avataras.
+[^66]: Of Balarama's rasa-lila with the gopis of Vraja the “Srimad-Bhagavatam” speaks (10.65). It is a pastime of His
+internal energy: the gopis — ashraya — serve Him, the vishaya, for His joy, and in this pastime there is no worldly lust,
+just as there is none in Krishna's rasa-lila.
+[^67]: On the adjoining page of the same biography the Deities brought by Narottama to Kheturi are called Gauranga and
+Vishnupriya.
