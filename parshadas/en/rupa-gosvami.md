@@ -1185,7 +1185,7 @@ revising their works. <!-- F284 -->
 
 The “Bhakti-ratnakara” tells of “Rupa's mercy to Jiva”: when Jiva had out-argued the scholar Vallabha Bhatta, Rupa gently
 reproached him and sent him away for a time, and then, at Sanatana's intercession, accepted and blessed him again.[^jiva-br]
-This is a lila of instruction: thus Rupa taught his disciple humility — it is not worldly anger or punishment. As for the
+This is a lila of instruction, not worldly anger or punishment: thus Rupa taught his disciple humility. As for the
 interpretation that Rupa cast Jiva off, Srila Bhaktisiddhanta rejects it (see below and the article on Jiva Gosvami).
 <!-- F285 F286 F287 -->
 
