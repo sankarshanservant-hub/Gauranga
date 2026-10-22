@@ -396,8 +396,8 @@ Chaitanya-shikshamrita," a compendium of Mahaprabhu's teaching; the Sanskrit com
 "Shikshashtaka"; the book "Bhaktivinoda"; a verse translation of Srila Raghunatha Dasa's "Manah-shiksha" with the
 commentary "Bhajana-darpana"; the "Dashopanishad-churnika," the "Bhavavali," the novel "Prema-pradipa," the
 "Vishnu-sahasra-nama" with Baladeva's commentary — and published the "Sri Krishna-vijaya"[^23]. In 1887 the "Chaitanya
-Upanishad" came out with his commentary "Chaitanya-charanamrita": the only manuscript of this upanishad he received,
-while serving at Sambalpur, from his disciple Madhusudana Dasa[^20]. In the same year, now at Krishnanagar, he began
+Upanishad" came out with his commentary "Chaitanya-charanamrita": the only manuscript of this upanishad was sent
+to him from Sambalpur by Pandita Madhusudana Dasa[^20]. In the same year, now at Krishnanagar, he began
 the "Amnaya-sutra" and brought out the "Navadvipa-dhama-mahatmya"[^21]. <!-- F126 F127 F128 F173 -->
 
 Then followed the "Vaishnava-siddhanta-mala" (1888), the "Sri Amnaya-sutra," the "Navadvipa-dhama-mahatmya" and a
@@ -710,8 +710,12 @@ pattern of service to the Divine Couple. <!-- F4 F5 Q3 F6 Q4 -->
 [^19]: The list of works given in one of the biographies opens with the words "from 1866 to 1907," yet includes
     writings of the 1850s: the book "Balid-e-registry" and the speech on Gautama (1856) and the verses "Hari-katha"
     (1850). In the account of his life the speech on Gautama belongs to the time of his service in Chhapra.
-[^20]: The edition itself (see our translation of the "Chaitanya Upanishad") is more precise: the manuscript was sent
-    from Sambalpur in 1886, and the book was printed in 1887 in Calcutta, at the "Bhakti Bhavana."
+[^20]: So according to the edition itself (see our translation of the "Chaitanya Upanishad"): the manuscript was sent
+    from Sambalpur in 1886, and the book was printed in 1887 in Calcutta, at the "Bhakti Bhavana." Bhaktivinoda himself,
+    in the colophon of the commentary, writes that he composed it "on the bank of the Jahnavi" "in the fourth century of
+    the era of Sri Chaitanya" (that is, from 1886), and the colophon of the Bengali translation calls Madhusudana "a
+    resident of Sambalpur." One of the biographies writes that Bhaktivinoda received the manuscript while himself serving
+    at Sambalpur and calls Madhusudana his disciple; Bhaktivinoda's own words do not confirm this.
 [^21]: By the list of works the "Navadvipa-dhama-mahatmya" appeared in 1890.
 [^22]: The years are given differently: according to one biography, Svananda-sukhada-kunja was founded in 1897;
     according to another, the plot for it was bought in 1899. Srila Bhaktisiddhanta's first meeting there with Srila
