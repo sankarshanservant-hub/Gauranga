@@ -564,6 +564,16 @@ Parameshvari Dasa sings in a pada (“Pada-kalpataru”): the Lord came to Advai
 sat beside Him and jokingly discussed the festival; Sita Thakurani came in smiling, and the Lord had the Vaishnavas called
 and mridangas, karatalas, sandal paste and aguru made ready. <!-- F184 F189 -->
 
+Once Mahaprabhu with Nityananda came unexpectedly to Shantipur, to Advaita, with whom Haridasa was living. The four of Them
+bathed in the Ganga; Advaita prostrated himself at Mahaprabhu's feet, and Haridasa at Advaita's, “like three links of the
+chain of a bridge,” — and Nityananda rejoiced. For several days They spoke of preaching the holy name, and then Mahaprabhu
+with Nityananda and Haridasa returned to Navadvipa. Another time Advaita began to extol knowledge above bhakti, and the
+Lord in anger dragged Him into the courtyard and began to punish Him. It was a lila: Advaita rejoiced at receiving
+punishment from the Lord (CB, Madhya 19.152). Advaita's wife, Sita, begged Him to spare the old brahmana, while Nityananda
+only smiled (CB, Madhya 19.135–138). Afterwards the Lord said to Nityananda, “If I showed agitation, forgive Me,” and They
+looked at each other and laughed; the Lord bathed in the Ganga with Nityananda, Advaita and Haridasa, and Sita served Them
+a meal. <!-- F450 F451 -->
+
 ## Preaching the Name; Jagai and Madhai
 Mahaprabhu made Nityananda and Haridasa the first preachers of the holy name:
 
@@ -659,8 +669,9 @@ inwardly knew it, came at once to Srivasa's door and roared, and Gaura showed Hi
 
 ## The Lord's Sannyasa and Shantipur
 The hostile students (paduya) of Navadvipa were piling up offences, reviling Gaura and plotting violence. For their own
-good Mahaprabhu resolved to take sannyasa and told the devotees of it in a riddle (hiyali); only Nityananda understood. He
-grieved that Gaura's beautiful hair would be gone; Gaura explained to Him in private the reason for sannyasa, and
+good Mahaprabhu resolved to take sannyasa and told the devotees of it in a riddle (hiyali); only Nityananda understood (according to another account
+of the same biography, Lokanatha was the first to learn of the coming sannyasa, while Nityananda, the Lord's “second
+Self,” learned of it only a day before). He grieved that Gaura's beautiful hair would be gone; Gaura explained to Him in private the reason for sannyasa, and
 Nityananda did not stand in the way but told the devotees, and, thinking of Shachi's separation, was stunned. According to
 the “Chaitanya-mangala,” when Shachi and Vishnupriya fell senseless, Nityananda tried to console them, and then devotees
 led by Chandrashekhara Acharya and Damodara Pandita followed Nityananda to Katwa. <!-- F212 F213 F214 -->
@@ -685,15 +696,15 @@ Madhya 3.21)
 
 So the Lord came to Shantipur and met there Shachi and the devotees of Navadvipa; the “Chaitanya-mangala” also describes
 Nityananda's conversation with Shachi. In Advaita's house Mahaprabhu and Nityananda ate Sita's enormous feast on whole
-banana leaves, while Advaita joked and talked with Them. After His sannyasa the Lord stayed ten days in Shantipur.
-<!-- F220 F221 F222 -->
+banana leaves, while Advaita joked and talked with Them. At the kirtana Advaita danced holding Nityananda, and Haridasa behind Them.
+After His sannyasa the Lord stayed ten days in Shantipur. <!-- F220 F221 F222 F452 -->
 
 ## The Way to Puri; the Broken Staff
 At His mother's request that He settle in Puri, the Lord went from Shantipur through Chhatrabhoga to Nilachala. With Him
 went Nityananda, Mukunda Datta, Jagadananda, Damodara Pandita, Gadadhara Pandita, Govinda and Brahmananda[^28]. At Remuna,
 before Kshira-chora Gopinatha, the Lord told His companions the story of Madhavendra Puri — as Ishvara Puri had told it to
-Him — and when, reciting Madhavendra's verse “ayi dīna-dayārdra nātha,” He became intoxicated with love, Nityananda held
-Him and calmed Him. At Cuttack Nityananda told the story of Sakshi-Gopala. Mahaprabhu and Nityananda also passed through
+Him — and when, reciting Madhavendra's verse “ayi dīna-dayārdra nātha,” He fainted from love, Nityananda caught
+Him and laid Him on His lap (CC, Madhya 4.197–199). At Cuttack Nityananda told the story of Sakshi-Gopala. Mahaprabhu and Nityananda also passed through
 Bansdaha (Vamshadaha) near Jaleshvara (CB, Antya 2.263–264). <!-- F223 F224 F225 F226 F227 F228 -->
 
 From Cuttack the Lord went to Bhuvaneshvara, for darshana of Shiva, and then to Kamalapur on the bank of the Bhargi. On
