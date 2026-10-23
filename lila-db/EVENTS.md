@@ -4214,9 +4214,9 @@
 - chaitanya-chandrodaya (A): Акт 9, царь, Сарвабхаума и Рамананда, ст. 5–8 — [*(Входят сидящий на троне Царь и Сарвабх–**Рамананда.** До пределов ваших владени](../chaitanya-chandrodaya/ru/09.md?plain=1#L119-L179) · `ccd-0077`
 - gaura-krishnodaya (B): Сарга 13, 1–2 — [1–2](../gaura-krishnodaya/ru/13.md?plain=1#L7-L9) · `gkd-0120`
 - karnapura-ckm (A): Сарга 19, 1–12 — [1–12](../karnapura-mahakavya/ru/19.md?plain=1#L44-L232) · `kcm-0166`
-- karnapura-ckm (A): Сарга 19, 20–34 — [20–34](../karnapura-mahakavya/ru/19.md?plain=1#L376-L639) · `kcm-0168`
-- karnapura-ckm (A): Сарга 19, 35–80 — [35–80](../karnapura-mahakavya/ru/19.md?plain=1#L659-L1497) · `kcm-0169`
-- karnapura-ckm (A): Сарга 19, 81–100 — [81–100](../karnapura-mahakavya/ru/19.md?plain=1#L1516-L1863) · `kcm-0170`
+- karnapura-ckm (A): Сарга 19, 20–34 — [20–34](../karnapura-mahakavya/ru/19.md?plain=1#L378-L641) · `kcm-0168`
+- karnapura-ckm (A): Сарга 19, 35–80 — [35–80](../karnapura-mahakavya/ru/19.md?plain=1#L661-L1499) · `kcm-0169`
+- karnapura-ckm (A): Сарга 19, 81–100 — [81–100](../karnapura-mahakavya/ru/19.md?plain=1#L1518-L1865) · `kcm-0170`
 - karnapura-ckm (A): Сарга 20, 1–10 — [1–10](../karnapura-mahakavya/ru/20.md?plain=1#L37-L238) · `kcm-0171`
 - murari-kcc (A): Пракрама 3, сарга 17, шлоки 1–5 — [1–5](../murari-gupta/ru/3.17.md?plain=1#L5-L13) · `mkc-0184`
 - gaura-stotras (A): Рупа, Вторая «Чайтаньяштака» 7 — [7–7](../stotras/ru/05.md?plain=1#L17-L17) · `gst-0024`
@@ -4230,7 +4230,7 @@
 
 ## Дамодара опаздывает к утренней службе: «наказание» книжкой / Damodara late for the morning service: the «punishment» with a song-book  `ev-damodara-late-gita-pustika` (1514–1516, возраст 28–30, оценка)
 
-- karnapura-ckm (A): Сарга 19, 13–19 — [13–19](../karnapura-mahakavya/ru/19.md?plain=1#L249-L358) · `kcm-0167`
+- karnapura-ckm (A): Сарга 19, 13–19 — [13–19](../karnapura-mahakavya/ru/19.md?plain=1#L249-L360) · `kcm-0167`
 
 ## Гададхара оставляет кшетра-санньясу, чтобы идти за Господом в Гауду / Gadadhara abandons his kshetra-sannyasa to follow the Lord to Gauda  `ev-gadadhara-leaves-kshetra-sannyasa` (1514–1514, возраст 28–28, вероятно)
 
