@@ -458,6 +458,7 @@
 | “Шьямананда-шатака”; “Бхакта-бхагаваташтака”; “Кунджакели-двадашака” | “Shyamananda-shataka”; “Bhakta-bhagavatashtaka”; “Kunjakeli-dvadashaka” | сочинения Расикананды |
 | “Астикья-даршана” | “Astikya-darshana” | книга Вишвамбхарананды Девы Госвами |
 | «тёмные периоды» бенгальского вайшнавизма | “dark periods” of Bengal Vaishnavism | периодизация одного из жизнеописаний |
+| Иччха (жена Расикананды, БР 15.30); Маллабхуми; Кишора Дас (Кишорадас); Шрипат Гопиваллабхапур | Ichchha; Mallabhumi; Kishora Dasa; Sripat Gopivallabhapura | @rasikananda, этап В (по бенгальскому тексту БР 15) |
 | Шрила Бхакти Даита Мадхава Госвами Махарадж; Шрила Мадхава Махарадж; Хаягрива дас брахмачари; Херамба Кумар Бандьопадхьяя | Srila Bhakti Dayita Madhava Goswami Maharaj; Srila Madhava Maharaj; Hayagriva Dasa Brahmachari; Heramba Kumar Bandyopadhyaya | @bhakti-dayita-madhava; имена — как в карточке (Goswami, Maharaj) |
 | Шри Чайтанья Гаудия Матх; Шри Чайтанья Матх; Гаудия-матх (Ултаданга, Багбазар, Мадрас-Гаудия-матх) | Sri Chaitanya Gaudiya Math; Sri Chaitanya Math; Gaudiya Math (Ultadanga, Bagbazar, Madras Gaudiya Math) | названия учреждений; отдельные матхи — через дефис: Шьямананда-Гаудия-матх / Shyamananda Gaudiya Math |
 | Ишодьян | Ishodyan | главный матх Шри Чайтанья Гаудия Матха в Майяпуре |
