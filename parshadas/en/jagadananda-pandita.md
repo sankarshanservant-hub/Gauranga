@@ -71,7 +71,7 @@ told it to say “Radha-Krishna,” but the parrot sang “Gaurahari,” calling
 feigning anger, went away (2.31–42). <!-- F98 -->
 
 Fragments of Jayananda's “Chaitanya-mangala,” known only from quotations by later authors, speak of the same years:
-once Shachi brought Gadadhara and Jagadananda into the house, carrying them in her arms; both served Gauranga every day
+once in Navadvipa Shachi brought Gadadhara and Jagadananda, carrying them in her arms; both served Gauranga every day
 in His home; and Jagadananda was among those with whom the Lord set out from Navadvipa for Gaya. <!-- F92 -->
 
 ## In the Kirtanas of Navadvipa
@@ -701,8 +701,8 @@ his departure, nor is the day of his departure found in our calendar. <!-- F78 -
     Jagadananda and Damodara together.
 [^5]: According to one of the biographies, Jagadananda himself copied the shlokas onto the wall; the “Charitamrita”
     (Madhya 6.251–252) says that Mukunda Datta did so.
-[^6]: In the translation of the “Charitamrita” these shlokas are marked as “Chaitanya-chandrodaya” 6.74–75 — after
-    another edition of the drama.
+[^6]: In the translation of the “Charitamrita” these shlokas are marked as “Chaitanya-chandrodaya” 6.74–75 — by a
+    different numbering of the drama's verses.
 [^7]: One of the biographies gives these shlokas the numbers Madhya 6.253–254; the correct numbers are 6.254–255.
 [^8]: Two biographies name Bhavananda in this verse instead of Bhagavan (Bhagavan Acharya).
 [^9]: According to one of the biographies, these seven served prasada after the kirtana at the Ratha-yatra; according to

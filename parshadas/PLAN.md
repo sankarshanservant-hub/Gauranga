@@ -121,7 +121,7 @@ B — вероятно, больше сотни).
 | @chandrashekhara-acharya (031) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @gangadasa-pandita (032) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @pundarika-vidyanidhi (033) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @jagadananda-pandita (034) | ✓ | ✓ (PDF) | — |
+| @jagadananda-pandita (034) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @nandana-acharya (035) | ✓ | ✓ (PDF) | — |
 | @damodara-pandita (089) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagannatha-mishra (028; пилот сверен с переводом и сканом) | ✓ | ✓ (PDF) | ✓ сплошная |
