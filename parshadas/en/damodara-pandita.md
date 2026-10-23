@@ -166,6 +166,189 @@ proud pandita has melted; and it is the two of them who, “hastily throwing bac
 the words: “Master! The Bhattacharya has sent two verses and alms-food — the remnants of Lord Jagannatha's meal”
 (Act 6). <!-- F66 -->
 
+## “The Staff of Instruction”
+In the spring of that same year the Lord resolved to go to the South — to search, as He said, for Vishvarupa — and to
+go alone. Nityananda and the others could not reconcile themselves to the separation, and Nityananda pleaded with Him
+to take at least one companion. Then the Lord, as if excusing Himself, listed the “faults” of His intimates: each of
+them, He said, in his own way held Him in hand. Damodara's turn came too:
+
+“I am a sannyasi, and Damodara is a brahmachari, yet he always tries to instruct Me with a stick in his hand.” (CC,
+Madhya 7.25)
+
+“In his view I do not know the rules of proper conduct, and so he constantly tries to restrain My wilful nature.” (CC,
+Madhya 7.26)
+
+“By Krishna's mercy he does not care for public opinion, but I must always conform to people's notions of a
+sannyasi's duty, and therefore I cannot disregard it.” (CC, Madhya 7.27)
+
+The “staff of instruction” is *shiksha-danda*: by rule it is the sannyasi who carries the staff, yet here the
+brahmachari seems to hold a stick over the sannyasi. But Krishnadasa Kaviraja at once reveals what stands behind these
+“reproaches”:
+
+“The Lord is always conquered by the virtues of His devotees. Seemingly mentioning their faults, He was in truth
+relishing all these qualities.” (CC, Madhya 7.29)
+
+One of the biographies observes that with these words the Lord subtly pointed to Damodara's chief trait —
+*nirapeksha*, freedom from regard for people and for one's own advantage. So, listing their imagined faults, the Lord
+glorified Nityananda, Jagadananda and Damodara — and still went alone, taking with Him only a simple brahmana,
+Krishnadasa. <!-- F10 F11 F46 Q3 -->
+
+## The Lord's Return
+For two years the devotees in Puri lived in separation. When the news came that the Lord was returning and had already
+reached Alalanatha, they could wait no longer:
+
+“Hearing of Mahaprabhu's approach, Nityananda Raya at once hastened to meet Him, unable to bear the waiting because of
+the feelings of divine love that overflowed Him.” (CC, Madhya 9.339)
+
+“Eager to see Sri Chaitanya, Jagadananda, Damodara Pandita and Mukunda danced with happiness, unable to master their
+feelings.” (CC, Madhya 9.340)
+
+According to one of the biographies, the Lord, having reached Alalanatha, Himself sent His servant Krishnadasa ahead
+with the news, and the four ran out to meet Him on the high road. <!-- F12 Q4 -->
+
+That same Krishnadasa the Lord, on His return, decided to dismiss. He told Sarvabhauma that in the South the brahmana
+had been enticed by the wandering Bhattathari and had left the Lord; the Lord had rescued him with difficulty and now
+did not wish him to remain with Him. Krishnadasa wept. Taking pity on him, the four friends found a service for him:
+
+“Then a plan ripened in the minds of four devotees — Nityananda, Jagadananda, Mukunda and Damodara: ‘We must send
+someone to Bengal to tell Shachimata that Sri Chaitanya has arrived in Jagannatha Puri.’” (CC, Madhya 10.67–68)
+
+“‘Hearing of Mahaprabhu's return, all the devotees headed by Advaita and Srivasa will surely come to see Him. We can
+send Krishnadasa to Bengal.’ With these words they gave him the assurance that he could still serve the Lord.” (CC,
+Madhya 10.69–70)
+
+The next day they asked the Lord's permission, and He agreed (10.71–72). The news of the Lord's return gladdened mother
+Shachi, Advaita, Srivasa and all the Vaishnavas of Bengal. The biographies add that later Damodara Pandita himself came
+from Puri to Gauda and met Kala Krishnadasa there[^7]. <!-- F13 F47 F14 -->
+
+## Shankara Pandita
+The news Krishnadasa brought roused all Bengal: the devotees, headed by Advaita, set out for Nilachala. With them came
+Shankara Pandita, Damodara's younger brother, and the Lord, seeing him, said to the elder:
+
+“Seeing Shankara, Sri Chaitanya addressed Damodara Pandita: ‘My love for you is imbued with the deepest reverence.’”
+(CC, Madhya 11.146)
+
+“‘Therefore take charge of your brother, Shankara, for I am bound to him by ties of pure and unmixed love.’” (CC,
+Madhya 11.147)
+
+“Damodara replied: ‘Shankara is my younger brother, but since he has obtained Your mercy, he has become my elder
+brother.’” (CC, Madhya 11.148)
+
+The Lord's love for Damodara is coloured by reverence (*gaurava*): the stern brahmachari is honoured by the Lord
+Himself. Towards Shankara, however, He feels a love that has no respectful distance, and therefore, as one of the
+biographies explains, He entrusts him to his elder brother, knowing that Damodara will keep him under discipline. In
+the last years Shankara became the Lord's inseparable servant: he slept beside Him, and the Lord at times fell asleep
+with His feet resting on him — hence he was called “the pillow for the Lord's feet.” <!-- F15 F16 F17 F48 Q5 -->
+
+In those same days Nityananda, Jagadananda, Damodara and Mukunda joyfully met Haridasa Thakura, who had settled at
+Siddha-bakula (CC, Madhya 11.196). And when the Lord Himself began to serve prasada to the guests, no one would touch
+the food until He sat down; at Svarupa Damodara's request the Lord sat down to eat with Nityananda and the sannyasis,
+and then others took up the serving:
+
+“After this Mahaprabhu sat down with all the sannyasis, and Gopinatha Acharya with great joy began to serve prasada.”
+(CC, Madhya 11.207)
+
+“In jubilation Svarupa, Damodara Pandita and Jagadananda began to help him.” (CC, Madhya 11.208) <!-- F18 F19 -->
+
+## “If Damodara Says So”
+Prataparudra, the king of Orissa, longed with all his heart to see the Lord and asked for a meeting more than once;
+refused, he threatened to give up his kingdom and become a beggar. Sarvabhauma, Nityananda and the others decided not
+to ask the Lord directly, but only to tell Him of the king's devotion. The Lord's heart softened, but He answered
+sternly — and referred to Damodara:
+
+“‘You all want Me to go to Kataka to meet the king.’” (CC, Madhya 12.23)
+
+“‘That will in no way raise Me spiritually, and besides, people will only laugh at Me! But why speak of people, when
+Damodara will shower Me with reproaches?’” (CC, Madhya 12.24)
+
+“‘I will not meet the king, in spite of the requests of all the devotees. It is possible only if Damodara gives his
+consent.’” (CC, Madhya 12.25)
+
+One of the biographies gives the interpretation of Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya”: valuing
+Damodara's devotion, the Lord with these words gently hinted that his reproaches were sometimes superfluous and that he
+would do well to beware of this inclination. Damodara himself answered with loving pique (*abhimana*):
+
+“‘You are the independent Supreme Lord,’ said Damodara. ‘You know perfectly well what should be done and what should
+not.’” (CC, Madhya 12.26)
+
+“‘I am only a tiny soul — how can I instruct You? If You wish, You will meet the king, and I shall see it.’” (CC,
+Madhya 12.27)
+
+“‘Prataparudra has love for You, and You always reciprocate with Your devotees. In reward for his love You will grant
+him Your touch.’” (CC, Madhya 12.28)
+
+In this answer lies the essence of all his “strictness.” The Lord is wholly independent, and no one has the right to
+give Him rules; but by His very nature He is conquered by love (*sneha-vasha*), and so whoever loves Him, him He will
+surely accept. And so it came to pass. <!-- F20 F21 F22 F49 Q6 Q14 I2 I3 -->
+
+## Puri
+At the Ratha-yatra the Lord divided the kirtana into seven groups. The first was led by Svarupa Damodara, Advaita
+Acharya danced in it, and five sang the responses:
+
+“Svarupa Damodara He chose as the leader of the first group, and Mahaprabhu told five singers to sing the responses
+for him in the kirtana: Damodara, Narayana, Govinda Datta, Raghava Pandita and Sri Govindananda.” (CC, Madhya 13.36–37)
+
+Karnapura in the “Chaitanya-charita-mahakavya” also names among the singers of the Ratha-yatra “Srila Damodara, the
+best of brahmanas” (15.105), and Lochana Dasa sees him dancing in the Lord's kirtana together with Gadadhara, Narahari,
+Nityananda, Srinivasa, Murari and Mukunda (“Chaitanya-mangala,” Madhya-khanda, pt. 22, v. 170). On the eve of the
+Ratha-yatra, after the cleansing of the Gundicha temple, the Lord held a feast in the garden, and Damodara Pandita was
+one of the seven who served prasada:
+
+“Seven devotees — Damodara Gosvami, Jagadananda, Damodara Pandita, Kashishvara, Gopinatha, Vaninatha and Shankara —
+served prasada to all, while the others joyfully cried, ‘Hari! Hari!’” (CC, Madhya 12.163)[^8]
+<!-- F23 F50 F24 F67 F65 -->
+
+From then on he lived in Puri as one of the Lord's constant companions:
+
+“Gadadhara Pandita, Vakreshvara, Damodara, Shankara and Haridasa Thakura remained to live with the Lord in Puri.
+Jagadananda, Bhagavan, Govinda, Kashishvara, Paramananda Puri and Svarupa Damodara also moved there.” (CC, Madhya
+1.252–253)
+
+The “Charitamrita” names him both among those who associated closely with the Lord in Puri (Adi 10.124–126) and among
+those with whom the Lord went every morning for darshana of Jagannatha — with Paramananda Puri, Jagadananda, Svarupa,
+Govinda and Kashishvara (Madhya 15.184–185). Once, together with Jagadananda, Svarupa, Govinda, Kashishvara, Shankara and
+Mukunda, he came to bathe in the ocean and heard from afar the singing of Junior Haridasa, who had already left his body
+(Antya 2.153–154). When Sanatana Gosvami came to Puri, the Lord introduced him to all His associates, Damodara Pandita
+among them (Antya 4.108–110); and at the feast given by Vallabha Bhatta, Damodara Pandita, with Svarupa, Jagadananda,
+Kashishvara, Shankara and Raghava, served prasada (Antya 7.66). <!-- F25 F51 F52 F54 -->
+
+## The Song-book
+In the third year the devotees of Bengal came to Nilachala together with their wives. Having seen them off, the Lord
+resolved to go to Vrindavana by way of Bengal. Among those who left Puri with Him the “Charitamrita” names “Gopinatha
+Acharya and Damodara Pandita” (Madhya 16.127–129), and Karnapura names Govinda, Jagadananda, Sri Damodara Pandita and
+Paramananda Puri (“Chaitanya-charita-mahakavya” 19.6, 24). <!-- F26 F51 F67 -->
+
+Karnapura also preserved a small episode of this departure that is not in the “Charitamrita.” The evening before, the
+Lord said:
+
+“I shall go, singing, to see Jagannatha, and this Damodara will surely sing together with Me.”
+(“Chaitanya-charita-mahakavya” 19.14)
+
+At the end of the night the Lord set out with singing for the first service of the Lord of the temple; but Damodara was
+not at hand, and the Lord Himself waited for him for a while at the Lion Gate. At last he came:
+
+“Then, a little late, that brahmana joined [them]; the Lord, His heart seized [by feeling], on seeing him grew angry.
+And He, the Ocean of love, out of love struck him many times on the back with the book of songs and kicked him.”
+(“Chaitanya-charita-mahakavya” 19.18–19)
+
+Twice Karnapura repeats the word “love” — *pranayat pranayambudhih*, “out of love — the Ocean of love” — and this says
+everything: this is not the anger of a worldly man but the Lord's play of love with an eternal associate so dear to Him
+that He cannot sing without him. And at dawn Paramananda Puri, seeing the mark of the blow on Damodara's back, covered it
+with a cloth (19.30)[^9]. <!-- F67 -->
+
+That year the Lord, having pondered Sanatana's words, went only as far as Kanai-natashala and turned back without
+reaching Vrindavana. On the way back He stayed with Advaita in Shantipura, and returned to Nilachala with only two
+companions:
+
+“‘I shall take only two with Me to Nilachala, and with the rest we shall meet at the Ratha-yatra.’” (CC, Madhya 1.235)
+
+“So Balabhadra Bhattacharya and Damodara Pandita went with Sri Chaitanya to Puri.” (CC, Madhya 1.236) <!-- F26 F27 -->
+
+And when the Lord, having travelled through Northern India and visited Vrindavana, returned with Balabhadra through the
+forests of Jharikhanda, the devotees came out to meet Him and met Him at Narendra-sarovara. The Lord bowed before the
+elders, and among those He embraced the “Charitamrita” names Damodara Pandita too (Madhya 25.218–222)[^10].
+<!-- F28 F51 -->
+
 [^1]: The identification follows the “Gaura-ganoddesha-dipika” of Kavi Karnapura, a contemporary of the Lord. The
     “fieriness” of Shaibya and of Damodara is not worldly anger but the directness of love, which will not keep silent
     about anything that, to its mind, does not befit the beloved. Karnapura does not name the reason why Sarasvati, the
@@ -194,3 +377,16 @@ the words: “Master! The Bhattacharya has sent two verses and alms-food — the
     composed on beholding the Lord's six-armed form, and says that Mukunda wrote them on the wall before the Lord's
     dwelling. According to the “Charitamrita,” the hymn of a hundred verses is a separate song (Madhya 6.257–258), and
     the two verses on the leaf are distinct (6.254–255).
+[^7]: Listing those in Navadvipa whom Krishnadasa's news gladdened, the “Charitamrita” names Damodara Pandita too
+    (Madhya 10.81–84), although just before, according to the same book, he himself meets the Lord in Puri and with his
+    friends sends Krishnadasa to Bengal (Madhya 9.340, 10.67). ⚠ So it stands in the text. Perhaps this verse explains
+    what the biographies say: later Damodara himself came from Puri to Gauda.
+[^8]: One of the biographies places this serving of prasada on the day of the Ratha-yatra, after the kirtana before the
+    chariot; another, “after the sankirtana in Purushottama.” ⚠ According to the “Charitamrita” (Madhya 12.163–164), it
+    was the feast in the garden after the cleansing of the Gundicha temple.
+[^9]: The blow with the song-book is a play of love (*prema-lila*) of the Lord with His eternal associate. The Lord is
+    subject neither to anger nor to any other worldly feeling; His “anger” here, like Damodara's reproaches, is one of
+    the waves of the love that binds Him to His devotees. Karnapura himself names the cause — “out of love”
+    (*pranayat*).
+[^10]: One of the biographies names Athara-nala, the bridge at the entrance to Puri, as the place of the meeting;
+    according to the “Charitamrita,” the Lord was met at Narendra-sarovara.
