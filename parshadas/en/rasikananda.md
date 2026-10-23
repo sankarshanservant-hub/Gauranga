@@ -29,9 +29,10 @@ family lived in bhakti. For a long time the raja had no son, and he regarded his
 mercy of the Lord of the universe, Lord Jagannatha. The son, in the words of the same book (15.29), was “most skilled
 in serving his mother and father,” and he was their delight. <!-- F7 F8 F11 -->
 
-By birth Achyutananda was an Oriya of the karana caste, which corresponds to the kayasthas among Bengalis.[^3] But a
-Vaishnava is beyond the modes of material nature and is not judged by caste: as one biographer explains, father and
-son were born among the karanas in order to bless that caste. <!-- F10 I4 -->
+By birth, as one biography says, Achyutananda was an Oriya of the karana caste, which corresponds to the kayasthas
+among Bengalis; the “Prema-vilasa” (20.191), however, calls Rasikananda and Murari “two brahmanas.”[^3] But a
+Vaishnava is beyond the modes of material nature and is not judged by caste: as the same biographer explains, father
+and son were born among the karanas in order to bless that caste. <!-- F10 I4 -->
 
 ## Childhood
 From his earliest years Rasikananda was an example of devotion to Krishna. His father invited learned pandits to
@@ -213,7 +214,7 @@ author's conjecture, not based on the “Gaura-ganoddesha-dipika.” <!-- I3 F60
     own wife; they also appear separately, “Rasikananda, Sri Murari,” in the list of Shyamananda's closest disciples in
     one biography. Narahari Chakravarti in the “Bhakti-ratnakara” states clearly that they are one person.
 [^2]: Our calendar does not give the day of Rasikananda's appearance.
-[^3]: The “Prema-vilasa” (20.191) calls Rasikananda and Murari “two brahmanas.”
+[^3]: The registry holds no other testimony about his caste, so both versions are given.
 [^4]: According to one biography, his wife was Ichchhamayi Devi (Ichchhadei), a native of Ghatshila, and he met his
     guru in her home village; the “Bhakti-ratnakara” does not say where she came from. According to another
     biography, his wife's name was Shyamadasi; the “Prema-vilasa” (20.192) names the wives of Rasikananda and Murari as
