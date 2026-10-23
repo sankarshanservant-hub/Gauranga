@@ -122,7 +122,7 @@ B — вероятно, больше сотни).
 | @gangadasa-pandita (032) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @pundarika-vidyanidhi (033) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagadananda-pandita (034) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @nandana-acharya (035) | ✓ | ✓ (PDF) | — |
+| @nandana-acharya (035) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @damodara-pandita (089) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagannatha-mishra (028; пилот сверен с переводом и сканом) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shachi (пилот, без главы B; статья переработана) | ✓ | ✓ (PDF) | ✓ сплошная (статья переработана) |
