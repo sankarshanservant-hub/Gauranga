@@ -120,7 +120,7 @@ B — вероятно, больше сотни).
 | @advaita (030) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @chandrashekhara-acharya (031) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @gangadasa-pandita (032) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @pundarika-vidyanidhi (033) | ✓ | ✓ (PDF) | — |
+| @pundarika-vidyanidhi (033) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagadananda-pandita (034) | ✓ | ✓ (PDF) | — |
 | @nandana-acharya (035) | ✓ | ✓ (PDF) | — |
 | @damodara-pandita (089) | ✓ | ✓ (PDF) | ✓ сплошная |

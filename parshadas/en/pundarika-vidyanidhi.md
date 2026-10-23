@@ -277,9 +277,9 @@ who set out from Gauda for Nilachala in the third year, the “Charitamrita” s
 “Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with his two brothers
 set out on the road with their travelling bags.” (CC, Madhya 16.16) <!-- F52 Q10 Q19 -->
 
-The “Chaitanya-bhagavata,” listing the travellers, says: “With great joy went Pundarika Vidyanidhi too, remembering
-whom Gaurachandra weeps aloud” (Antya 8.10); Murari Gupta also names him among them (4.17.3: “Pundarikaksha
-Vidyanidhi, the treasury of love”), and so does the “Charitamrita” (Antya 12.13). When the Bengalis first came to Puri,
+The “Chaitanya-bhagavata,” listing the travellers, says: “Pundarika Vidyanidhi too went with them in great joy. Remembering
+him, the Lord wept aloud” (Antya 8.10); Murari Gupta also names him among them (“Pundarika Vidyanidhi, the treasury
+of love,” 4.17.3), and so does the “Charitamrita” (Antya 12.13). When the Bengalis first came to Puri,
 Gopinatha Acharya, pointing them out from the palace roof to King Prataparudra, named “Vidyanidhi Acharya” too (CC,
 Madhya 11.84; so also in the “Chaitanya-chandrodaya,” Act 8), and the Lord embraced and glorified each of those who had
 come — Acharyaratna, Vidyanidhi, Gadadhara and others (CC, Madhya 11.159–160). <!-- F73 F78 -->
@@ -337,7 +337,7 @@ story, Vrindavana Dasa says, he wrote down from the lips of Gadadhara himself (C
 
 ## Odana-shashthi
 In the year when Vidyanidhi stayed on in Puri, he saw the festival of Odana-shashthi (CC, Madhya 16.76–78). Gaurasundara
-with all the devotees also went to see Jagannatha being dressed — He Himself both the worshipper and the One worshipped
+with all the devotees also went to see Jagannatha being dressed: He Himself is both the worshipper and the One worshipped
 (CB, Antya 10.90–95). On this day,
 at the onset of winter, Jagannatha is dressed for the first time in winter garments; the cloth for them is new, not
 yet washed, and still contains weaver's starch — mar (“manduya”), according to one of the biographies made from
