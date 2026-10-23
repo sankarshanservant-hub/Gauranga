@@ -110,7 +110,8 @@ B — вероятно, больше сотни).
 | @srinivasa-acharya (024) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @rasikananda (T + M 158–160) | ✓ | ✓ (PDF, 7 с.) | ✓ сплошная |
 | @bhakti-dayita-madhava (только T) | ✓ | ✓ (PDF, 12 с.) | ✓ сплошная |
-| @bhaktivedanta-svami, @shridhara-maharaja, @bhakti-pramoda-puri, @bhakti-ballabha-tirtha (только T) | ✓ | ✓ (PDF) | — |
+| @bhakti-pramoda-puri (только T) | ✓ | ✓ (PDF, 5 с.) | ✓ сплошная |
+| @bhaktivedanta-svami, @shridhara-maharaja, @bhakti-ballabha-tirtha (только T) | ✓ | ✓ (PDF) | — |
 | @madhvacharya, @ramanujacharya, @yamunacharya (M pdf 315–339) | ✓ | ✓ (PDF) | — |
 | @saranga-thakura (025) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @gaurakishora-dasa-babaji (026) | ✓ | ✓ (PDF) | ✓ сплошная |
