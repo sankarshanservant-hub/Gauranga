@@ -21,7 +21,7 @@ and a teacher of the whole world. <!-- F4 Q10 F101 F104 -->
 He appeared in 1904, at eight in the morning, on the Utthana Ekadashi of the month of Damodara, in the village of
 Kanchanpara in Faridpur district, East Bengal.[^1] The same lunar day also marks the departure of Srila Gaurakishora
 Dasa Babaji, the guru of Srila Bhaktisiddhanta. Utthana Ekadashi is the day on which Lord Vishnu rises from His
-sleep, and his biographer sees a sign in the coincidence: one had come into the world who would awaken suffering
+yoga-nidra, and his biographer sees a sign in the coincidence: one had come into the world who would awaken suffering
 souls. <!-- F5 F6 I1 -->
 
 Kanchanpara lies right at the mouth of the Padma, which is called the Kirtinasha there. Upstream is Prema-tali, where
@@ -217,8 +217,8 @@ Bhakti Prasad Ashram Maharajas. <!-- F56 F57 -->
 
 In Gauhati, thanks to Krishna Keshava and Chinta Haran, he met prominent people — the Chief Minister of Assam,
 Gopinath Bardoloi, Durgeshvar Sharma, Kumudeshvar Goswami and others — and spoke on the “Bhagavata” in the Chief
-Minister's house. Bardoloi likened his preaching to Gandhi's “Ram-dhun.” Maharaj reminded him that Gandhi had written
-in “Young India” that he was ready to sacrifice the Ram-dhun for the country — “but we are ready to sacrifice the
+Minister's house. Bardoloi likened his preaching to Gandhi's “Ram-dhun.” Maharaj reminded him that Gandhi, as he had read
+in “Young India,” once said he was ready to sacrifice the Ram-dhun for the country — “but we are ready to sacrifice the
 country for the Ram-dhun.” The Absolute is a Person, and everything exists for Him. Bardoloi wished to leave
 politics and live in the math, but his colleagues would not let him go, and soon afterwards he died. <!-- F58 F59 -->
 
@@ -230,7 +230,7 @@ Rameshvar Dasa Adhikari. In 1945 he walked from Hauli to Barpeta with Krishna Ke
 Trailokyanath, Madhavananda Vrajabasi and Bhuvana Mohan Dasa Adhikari. In Barpeta he stayed with Amiya Kanti Dasa and
 Hare Krishna Dasa, who received initiation as Aghadaman Dasa and Hari Dasa. He was honoured too by the satradhikari of
 Shankaradeva's school, Narayan Deva Mishra, who served as priest at a large gathering in Barpeta and invited
-Maharaj to his own seat. <!-- F64 F66 -->
+Maharaj to his home. <!-- F64 F66 -->
 
 Jiveshvar Goswami of Tihun had grown cold towards the Gaudiya Math after the harsh preaching of a certain
 householder; having heard Srila Madhava Maharaj, he admitted that he said exactly the same, but in a way that did
@@ -330,7 +330,7 @@ things, recalled what “revered Puri Maharaj” had told of the Babaji. <!-- F7
 
 He had, he said, three gurus: the Lord, who dispels ignorance; Srila Bhaktisiddhanta, who drew him into service; and
 all the Vaishnavas, his own disciples included. Guru and disciple are to each other both the object of service and
-the one cared for — as Yashoda served Gopala by binding Him. Srila Bhaktisiddhanta addressed all his disciples as
+the one cared for — as Yashoda, for whom Gopala was the object of her service, bound Him as her own child. Srila Bhaktisiddhanta addressed all his disciples as
 “prabhu” and with the respectful “apni,” using the familiar “tumi” with only a few — yet he instructed them and
 corrected them sternly. <!-- F77 F78 -->
 
