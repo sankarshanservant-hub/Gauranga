@@ -3,9 +3,9 @@
 
 ## The House Where the Lords Lay Hidden
 Sri Nandana Acharya was a brahmana of Navadvipa and a close associate of Mahaprabhu. In the “Chaitanya-bhagavata” the
-Lord calls him simply “Nandana,” and Vrindavana dasa Thakura calls him a mahabhagavata, a great devotee (Madhya 3.124);
-in the words of one of the biographies, he was the best of mahabhagavatas. In the “Charitamrita” his name appears both as
-“Acharya Nandana” (Madhya 11.89) and as “Nandanacharya” (Madhya 12.157). <!-- F1 -->
+Lord calls him simply “Nandana,” and Vrindavana dasa Thakura calls him a mahabhagavatottama, the best of great devotees
+(Madhya 3.124). In the “Charitamrita” his name appears both as “Acharya Nandana” (Madhya 11.89) and as “Nandanacharya”
+(Madhya 12.157). <!-- F1 -->
 
 Krishnadasa Kaviraja, enumerating the branches of the tree of Sri Chaitanya, speaks of him thus:
 
@@ -48,7 +48,7 @@ different person: he is counted in the branch of Nityananda, composed verses and
 
 According to one of the biographies, Nandana Acharya was lame, and when the Lord returned from His journey to the south
 and all the devotees rejoiced, lame Nandana came to bow to Him before anyone else: “With deep love comes Nandana
-Acharya — lame though he is, he arrives before all.” This account, however, calls for caution[^5]. <!-- F11 Q13 -->
+Acharya — lame though he is, he arrives before all.” This account, however, calls for caution[^5]. <!-- F11 Q13 F48 -->
 
 ## The Night Kirtanas
 When Mahaprabhu had returned from Gaya and begun to reveal Himself, worldly people, as before, were busy with their
@@ -59,7 +59,9 @@ let us all sing the holy names of God together.” (CB, Madhya 8.106–107)
 
 The Vaishnavas joyfully accepted His words, and from then on kirtana went on every night behind closed doors in
 Srivasa-angana. Only intimates were admitted, and the “Chaitanya-bhagavata,” listing those present at these night
-kirtanas, names Nandana among them — beside Vijaya and Jagadananda (Madhya 8.112–116). <!-- F12 Q4 Q15 -->
+kirtanas, names Nandana among them — beside Vijaya and Jagadananda (Madhya 8.112–116). And Lochana Dasa names “the virtuous
+Nandana Acharya” among the associates who gathered round the Lord when He began to bestow prema (ChM, Madhya-khanda,
+part 1, v. 59). <!-- F12 Q4 Q15 F50 -->
 
 ## The Guest from Vrindavana
 In those days Nityananda was wandering among the holy places. Having gone round all of India in separation from Krishna,
@@ -72,10 +74,12 @@ living in Vrindavana.” (CB, Madhya 3.122)
 
 At once He set out for Navadvipa and stayed in the house of Nandana Acharya (CB, Madhya 3.123). Nandana saw before him an
 avadhuta — a wanderer bound by no outward rules — of huge stature, with arms reaching to His knees, whose body shone
-like the sun. With great joy he received the guest, fed Him and kept Him in his home (CB, Madhya 3.124–135). Nityananda
+like the sun. With great joy he received the guest, fed Him and kept Him in his home (CB, Madhya 3.124–135); and the
+“Bhakti-ratnakara” recalls that Nandana, seeing the guest's great effulgence, was beside himself and with great care kept
+Him in his house (12.1726–1727). Nityananda
 lived with him in secret, disclosing Himself to no one, and Nandana, having received the chance to serve Him, felt that
 his life had been fulfilled. He served Nityananda not as a wanderer who had found shelter but as the Lord: Nityananda is
-Baladeva Himself. <!-- F14 Q5 I1 -->
+Baladeva Himself. <!-- F14 Q5 I1 F53 -->
 
 Mahaprabhu knew of His coming. Even before, He had hinted to the Vaishnavas that a great personality would soon come,
 but they did not understand Him; and when He learned of Nityananda's arrival in a dream, the Lord announced it to the
@@ -87,15 +91,22 @@ By Gaurasundara's will they gladly went through all the quarters of Navadvipa �
 empty-handed: there was no newcomer in the town marked out by any title or outward sign. So it had to be: the pastimes
 of Gaura are confidential, and neither Krishna nor Baladeva can be recognised in them at first sight. Nityananda is the
 deeply hidden truth of Baladeva, and only the Lord Himself can reveal Him. The all-knowing Mahaprabhu smiled and Himself
-led the devotees to the house of Nandana Acharya (CB, Madhya 3.176). <!-- F15 F16 Q6 I2 -->
+led the devotees to the house of Nandana Acharya (CB, Madhya 3.176). Other poets too remember His words. “The best of sages
+has come to the house of Nandana Acharya; I too am going there,” He said, according to Murari Gupta (2.8.9); “The avadhuta
+is in the house of Nandana Acharya,” according to Kavi Karnapura (“Chaitanya-charitamrita-mahakavya” 6.111); “The Great
+Soul is staying in the house of Nandana Acharya; I too shall go there,” according to Lochana Dasa (ChM, Madhya-khanda,
+part 5, v. 40)[^6]. That Nityananda stayed with Nandana Acharya is also told by later books — the “Advaita-prakasha” (14.73–78)
+and Jayananda's “Chaitanya-mangala.” <!-- F15 F16 Q6 I2 F49 F50 F51 F52 -->
 
 The Lord, who dwells in every heart, knew that Nityananda was living with Nandana. Coming there, He bowed down before
 Nityananda in full obeisance and stood before Him, while the devotees gazed in wonder at One who shone like a million
 suns. And Nityananda, Baladeva Himself, relished with all His senses the form and qualities of Gaurasundara — His
-eternal Lord. Long afterwards, going round the holy places of Navadvipa, Srinivasa Acharya would hear, according to the
-“Bhakti-ratnakara”: “Look, Srinivasa — here is his house. Here the Lord came with all the devotees and found Nityananda
-seated in meditation; and the devotees stood here gazing at His incomparable beauty”[^6]. Fortunate indeed is Nandana
-Acharya, into whose house the Lord came with all His devotees! <!-- F17 F18 F21 Q12 I1 -->
+eternal Lord.
+
+Long afterwards, when Srinivasa Acharya was being shown the holy places of Navadvipa, he was told at this house, according
+to the “Bhakti-ratnakara”: “Sri Nandana Acharya is supremely fortunate. Look, Srinivasa: this is his house. Into this
+house the Lord came with the company of devotees and saw Nityananda seated in meditation; and the devotees stood and could
+not gaze enough at Nityananda's matchless beauty” (12.2422–2424)[^7]. <!-- F17 F18 F21 Q12 I1 -->
 
 To reveal Nityananda's glory, Mahaprabhu gave a sign to Srivasa Pandita, and he, understanding Him, recited a verse of
 the “Bhagavatam” (CB, Madhya 4.6–7):
@@ -107,8 +118,12 @@ Vrindavana, made beautiful by His footprints, while His cowherd friends sang His
 Hearing the verse, Nityananda, love embodied, cried “Ha Krishna!” and fell unconscious, and all eight sattvika-bhavas —
 the spiritual transformations — appeared on His body; and when He returned to outer consciousness, the Vaishnavas filled
 the house with joyful cries. Mahaprabhu, longing for union with His Brother, pressed Nitai to His heart and glorified Him
-before all. Lochana Dasa adds in the “Chaitanya-mangala” (Madhya 4) that here, in Nandana's house, the Lord explained
-Nityananda's glory to the devotees and showed Him His six-armed, four-armed and two-armed forms. <!-- F20 F22 -->
+before all. According to Lochana Dasa's “Chaitanya-mangala,” the Lord and Nityananda embraced, weeping and laughing, and
+then danced together; the Lord Himself took the dust of Nityananda's feet and placed it on the devotees' heads, and on the
+way back He spoke to them of Nityananda's greatness (ChM, Madhya-khanda, part 5, vv. 61–78). His six-armed, four-armed and
+two-armed forms the Lord revealed to Nityananda later, in the house of Srivasa (ibid., vv. 91–101)[^8]. And when the Lord
+told Nityananda that His Vyasa-puja would be on the morrow, all of them, according to the “Bhakti-ratnakara,” went from
+the house of Nandana Acharya to the house of Srivasa (12.2445–2448). <!-- F20 F22 F50 F53 -->
 
 ## Advaita Hides with Nandana
 Soon after the Vyasa-puja in the house of Srivasa, when Mahaprabhu was absorbed in kirtana with Nityananda and the
@@ -128,7 +143,7 @@ The Lord Vishvambhara understood Advaita's intention. He ascended the vishnu-kha
 house of Srivasa and displayed there His majestic form; at His sign Nityananda held an umbrella over Him, others served,
 and the Lord announced to all what was in Advaita's mind: “He has decided to test Me and is hiding in the house of
 Nandana Acharya with everything he has prepared for My puja.” Just then Ramai arrived and bowed down, and the Lord said
-to him: “I know well that Nara is now at Nandana Acharya's: it is He who sent you here to test Me” (CB, Madhya 6.69)[^7].
+to him: “I know well that Nara is now at Nandana Acharya's: it is He who sent you here to test Me” (CB, Madhya 6.69)[^9].
 Having revealed Advaita's intention to Ramai, the Lord told him to bring Him. Ramai returned to Nandana's house and, at
 the Lord's second bidding, told Advaita everything. <!-- F25 F26 -->
 
@@ -147,7 +162,7 @@ to the feet of Gaura. <!-- F26 Q8 -->
 
 ## The Night the Lord Hid
 When Mahaprabhu walked through Navadvipa, everyone saw in Him Madana Himself: in Him shone the beauty of Krishna,
-Madana-mohana, that captivates hearts — a beauty not mundane but divine[^8]. People absorbed in worldly affairs thought
+Madana-mohana, that captivates hearts — a beauty not mundane but divine[^10]. People absorbed in worldly affairs thought
 Him proud; even the godless feared the power of His learning, and the Bhattacharyas who styled themselves teachers He did
 not value at a straw. When Gaurasundara walked through the town, His servants secretly accompanied Him. And the godless,
 defeated by His learning and genius, conspired and complained about Him to the local ruler. <!-- F27 -->
@@ -179,7 +194,7 @@ Haridasa after Him.
 This is not despair, nor a worldly attempt to part with life: the Lord is not bound by a body. In the role of His own
 devotee He was showing that a devotee cannot conceive of life without prema. Nityananda and Haridasa jumped in after Him
 and drew Him out of the river. The Lord, wishing to remain hidden, told them to tell no one that they had seen Him, and
-went to the house of Nandana Acharya (CB, Madhya 17.44–47)[^9]. Nityananda and Haridasa kept the secret. The devotees,
+went to the house of Nandana Acharya (CB, Madhya 17.44–47)[^11]. Nityananda and Haridasa kept the secret. The devotees,
 finding the Lord nowhere, wept in separation, and Advaita, considering Himself an offender, fasted in grief.
 <!-- F30 F31 -->
 
@@ -203,21 +218,23 @@ endless glory of Krishna, and the night flew by like a single moment (CB, Madhya
 At dawn the Lord wished to show mercy to Advaita: He knew that the devotees could not bear the separation any longer.
 
 “Looking at Nandana Acharya, the Lord ordered: ‘Go and bring Srivasa Pandita here — him alone.’ Without delaying a moment,
-Nandana Acharya hurried to the house of Srivasa and returned with him to the Lord.” (CB, Madhya 17.67–68)[^10]
+Nandana Acharya hurried to the house of Srivasa and returned with him to the Lord.” (CB, Madhya 17.67–68)[^12]
 
 Seeing the Lord, Srivasa wept with love. The Lord first consoled him and then asked about Advaita, and Srivasa told how
 Advaita was grieving and fasting, and begged the Lord to show Himself to Him and to all who were suffering in
-separation. The merciful Lord went to Advaita and found Him nearly unconscious. Considering Himself a great offender,
-Mahaprabhu called Him again and again, and Advaita awoke from His swoon of love. Again and again He begged forgiveness
-for His wrong thoughts and bold words and prayed to be given forever, birth after birth, the place of a servant at the
-Lord's feet (CB, Madhya 17.69–101). And this too is lila: the “Chaitanya-bhagavata” says that Krishna punishes only His
+separation. The merciful Lord went to Advaita and found Him nearly unconscious: Advaita considered Himself a great
+offender[^13]. The Lord called Him again and again, and Advaita awoke from His swoon of love. According to the biographies,
+He begged forgiveness again and again for His wrong thoughts and bold words and prayed to be given forever, birth after
+birth, the place of a servant at the Lord's feet; in the “Chaitanya-bhagavata” He says that the Lord Himself had moved
+Him to act so, and prays: “O Lord, grant Me the mood of loving service to You and keep Me at Your feet as the son of Your
+maidservant” (CB, Madhya 17.69–87). And this too is lila: the “Chaitanya-bhagavata” says that Krishna punishes only His
 eternal servants, and Advaita, understanding that He had been punished as a servant, laughed for joy (CB, Madhya
 17.97–100). <!-- F35 F36 F37 Q10 -->
 
 ## With the Lord in Navadvipa and Puri
 Nandana was with the Lord on the great day of the procession to the Kazi as well. The “Chaitanya-bhagavata,” naming
 the experts in kirtana who walked with Mahaprabhu then, mentions side by side Govinda, Jagadananda, Nandana Acharya and
-Shuklambara (Madhya 23.150–152)[^11]. When the procession reached the house of Shridhara and the Lord drank water from his
+Shuklambara (Madhya 23.150–152)[^14]. When the procession reached the house of Shridhara and the Lord drank water from his
 old iron pot, the devotees, seeing His love for the poor trader, could not hold back their tears:
 
 “Jagadisha, Gopinatha, Nandana Acharya, Shuklambara, Garuda and many other devotees shed tears.” (CB, Madhya 23.452)
@@ -231,12 +248,20 @@ brought Him to Shantipura, to the house of Advaita. Shachi and the devotees of N
 
 “Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda and Sanjaya.” (CC, Madhya 3.154) <!-- F38 -->
 
-When the Lord settled in Puri, Nandana Acharya, together with the other Bengali devotees, came to Him for the
-Ratha-yatra. King Prataparudra, watching from the palace roof as the Vaishnavas approached, asked who they were, and
-Gopinatha Acharya named them one by one:
+When the Lord, having settled in Puri, returned from His journey to the south and the news reached Bengal, all His
+devotees rejoiced; the “Charitamrita,” listing them, names “Raghava Pandita and Acharya Nandana” too (Madhya 10.84). They
+all gathered at Advaita's house and went to Puri for the Ratha-yatra. King Prataparudra, watching from the palace roof as
+the Vaishnavas approached, asked who they were, and Gopinatha Acharya named them one by one:
 
 “Here also are Raghava Pandita, Acharya Nandana and Shriman Pandita. And this is Shrikanta and Narayana.” (CC, Madhya
-11.89)[^12] <!-- F41 Q11 -->
+11.89)[^15] <!-- F41 Q11 F48 -->
+
+From then on he went to Puri with the Bengali devotees. Murari Gupta names “Sri Nandana” — apparently he — among the
+devotees of Gauda who went with Advaita to Purushottama (4.17.8), and the “Chaitanya-bhagavata,” listing those who set out
+for Nilachala, says of him:
+
+“Nandana Acharya too came in delight — he to whose house Lord Nityananda had first come.” (CB, Antya 8.22)
+<!-- F47 F49 -->
 
 According to the biographies, Nandana took part in the Lord's pastimes with the Bengali devotees: in the cleaning of the
 Gundicha temple and of the temple of Sri Nrisimha, in the water play in Indradyumna lake, at the feast of mahaprasada in
@@ -262,7 +287,7 @@ nor are his days found in our calendar. <!-- F46 -->
 
 The memory of his house is kept at Ishodyan in Sri Mayapura. There stands the “Sri Nandana Acharya Bhavana” with the
 Deities of Sri Gaura-Nityananda — Sri Chaitanya Mahaprabhu and Nityananda Prabhu. The temple was built by Srila Bhakti
-Saranga Goswami Maharaja, founder of the “Gaudiya Sangha,” who has since entered the eternal pastimes of the Lord[^13].
+Saranga Goswami Maharaja, founder of the “Gaudiya Sangha,” who has since entered the eternal pastimes of the Lord[^16].
 <!-- F45 -->
 
 ## Significance
@@ -292,23 +317,32 @@ keep these confidential pastimes in his house — and, at the appointed hour, to
     but there it reads “Khanjan Acharya,” “the lame Acharya,” and the meeting takes place at Alalanatha, near Puri.
     According to the note in our translation of the “Karcha,” this is probably the lame Bhagavan Acharya of Puri: the
     “Charitamrita” says that “even the lame Bhagavan Acharya ran slowly after all the devotees” (Antya 14.90). Nandana,
-    however, lived in Navadvipa and came to Puri with the Bengali devotees, so a meeting at Alalanatha fits him poorly.
+    however, lived in Navadvipa, learned of the Lord's return from the south in Bengal and came to Puri with Advaita's
+    devotees (CC, Madhya 10.81–85), so a meeting at Alalanatha fits him poorly.
     Another biography also writes of Nandana's lameness, on the authority of the “Gaudiya-vaishnava-abhidhana.”
-[^6]: The verse numbers (“Bhakti-ratnakara” 12.2422–2424) are given after one of the biographies; our translation of that
-    book does not yet exist, and the verses have not been checked.
-[^7]: In the Bengali text of the “Chaitanya-bhagavata” this name by which the Lord calls Advaita sounds “Nada” (nāḍā);
+[^6]: According to the “Chaitanya-bhagavata,” the Lord sent Haridasa and Srivasa to look for Nityananda (Madhya 3.160);
+    according to Murari Gupta and Kavi Karnapura, Rama Pandita, Murari, Narayana and Mukunda (Murari 2.8.4).
+[^7]: Our translation, from the Bengali text (1960 edition); one of the biographies also quotes these verses, under the
+    same numbers. We do not yet have a translation of the “Bhakti-ratnakara.”
+[^8]: One of the biographies, summarising this chapter of the “Chaitanya-mangala,” places the revelation of the forms too
+    in Nandana's house; according to the poem itself and to Murari Gupta (2.8.20–27), it took place in Srivasa's house.
+[^9]: In the Bengali text of the “Chaitanya-bhagavata” this name by which the Lord calls Advaita sounds “Nada” (nāḍā);
     translations usually render it as “Nara.”
-[^8]: Madana here is not a mundane deity of desire: what is meant is Krishna, Madana-mohana, whose beauty captivates
+[^10]: Madana here is not a mundane deity of desire: what is meant is Krishna, Madana-mohana, whose beauty captivates
     Madana himself. And the “pride” that people saw in the Lord was how men of worldly affairs perceived Him, not His
     nature.
-[^9]: According to one of the biographies, Haridasa and Nityananda took the Lord to Nandana's house and hid Him there,
+[^11]: According to one of the biographies, Haridasa and Nityananda took the Lord to Nandana's house and hid Him there,
     since He wished for seclusion; according to the “Chaitanya-bhagavata,” He went there Himself, telling them to keep
     silent.
-[^10]: So according to the “Chaitanya-bhagavata” and most of the biographies; one of them writes in another place that
+[^12]: So according to the “Chaitanya-bhagavata” and most of the biographies; one of them writes in another place that
     Srivasa was brought to Nandana's house by Haridasa.
-[^11]: One of the biographies gives this verse as “Madhya 23.152”; in our edition verses 150–152 are translated together.
-[^12]: One of the biographies writes that it was Sarvabhauma Bhattacharya who named Nandana to the king; according to the
+[^13]: According to two of the biographies, it was the Lord who, on seeing Advaita, considered Himself a great offender;
+    according to the “Chaitanya-bhagavata” (Madhya 17.50–51, 17.77), Advaita considered Himself so. Neither is a mundane
+    fault: Vrindavana dasa says that the Lord, having punished Advaita, “in the end felt great compassion for Him”
+    (Madhya 17.66).
+[^14]: One of the biographies gives this verse as “Madhya 23.152”; in our edition verses 150–152 are translated together.
+[^15]: One of the biographies writes that it was Sarvabhauma Bhattacharya who named Nandana to the king; according to the
     “Charitamrita” (Madhya 11.83–89), the devotees were named by Gopinatha Acharya.
-[^13]: The biographies speak of the temple differently: according to one, the “Nandana Acharya Bhavana” was built in
+[^16]: The biographies speak of the temple differently: according to one, the “Nandana Acharya Bhavana” was built in
     memory of Nandana Acharya's house; according to the other, the temple stands on the very site of his house; only the
     second names the builder.
