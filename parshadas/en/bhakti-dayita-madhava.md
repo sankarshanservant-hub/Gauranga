@@ -10,11 +10,12 @@ Parivrajakacharya Tridandi Swami Srimad Bhakti Dayita Madhava Goswami Maharaj. <
 
 One of his biographies was written by his disciple and successor, Srila Bhakti Ballabha Tirtha Maharaj, who
 dedicated his book to his “beloved gurudeva” and to his shiksha-guru, Srila Bhakti Pramoda Puri Maharaj, and first
-printed its articles in the journal “Sri Chaitanya Vani,” which his guru had founded. The biography opens with
+printed its articles in the journal “Sri Chaitanya Vani,” which his guru had founded; that journal also carried, in
+instalments, the detailed two-volume life of his guru that he wrote in Bengali. The biography opens with
 Sanskrit pranama-mantras. They glorify Srila Madhava Maharaj as dear to the followers of Sri Rupa, as
 magnanimity itself; as one who, out of love for his guru and godbrothers, revealed the glory of Ishodyan in Mayapur
 and restored to the world Srila Bhaktisiddhanta's birthplace in Puri; as the best of the teachers of the Holy Name
-and a teacher of the whole world. <!-- F4 Q10 F101 -->
+and a teacher of the whole world. <!-- F4 Q10 F101 F104 -->
 
 ## Appearance and Family
 He appeared in 1904, at eight in the morning, on the Utthana Ekadashi of the month of Damodara, in the village of
@@ -45,13 +46,13 @@ Lord does is for the best, and for past sins it might have been worse. <!-- F12 
 In high school he set up a free library for his poorer classmates. Tall and strong, he was a leader among his peers,
 captain of the school teams and an actor in its plays; nor did he stand aside from the independence movement, and he
 read Gandhi's paper “Young India.” But it was his mother who shaped what was deepest in him: she read the scriptures
-with him, and at her wish he read the “Bhagavad-gita” every day, so that by the age of eleven he knew all seven
+with him, and at her wish he read the “Bhagavad-gita” every day, and by eleven he knew all seven
 hundred of its verses by heart. He studied in Kanchanpara and Bhatagram, and went to Calcutta for higher education.
 <!-- F15 F16 F17 -->
 
 ## The Search for a Guru
-In Calcutta he lived with a relative and childhood friend, Narayan Chandra Mukhopadhyaya — the same who many years
-later would take sannyasa from him and become Bhakti Prasun Bodhayan Maharaj. Narayan Chandra saw his friend weeping
+In Calcutta he stayed with a kinsman who had been his friend since boyhood, Narayan Chandra Mukhopadhyaya — the same who would later
+take sannyasa and become Bodhayan Maharaj.[^2] Narayan Chandra saw his friend weeping
 at night as he called out to the Lord; the young man ate once a day, and only havishyanna. Once, in a dream, Narada
 Muni gave him a mantra and promised that it would bring him to perfection; but on waking he could not recall it in
 full, and he grieved for a long time. <!-- F18 F19 -->
@@ -68,10 +69,10 @@ This was around 1925. So, his biographer observes, a heart drawn to the Lord as 
 neither by family nor by wealth. <!-- F23 I2 -->
 
 ## At the Feet of Srila Bhaktisiddhanta
-That same year he came to Mayapur for the first time with Narayan Chandra and some friends, and saw Srila
+That same year, together with Narayan Chandra and some friends, he first visited Mayapur and saw Srila
 Bhaktisiddhanta. At a lecture he heard that one must learn to see the Deity — not with eyes blinded by desires, but
 with eyes of love. That day he witnessed the initiation of Dr. S. N. Ghosh and his wife. Back in Calcutta he began
-going to the Gaudiya Math on Ultadanga Road to hear hari-katha, studied the scriptures and, without telling anyone,
+attending hari-katha at the Ultadanga Road math, studied the scriptures and, without telling anyone,
 gave the math a good deal of money and goods. <!-- F24 F25 -->
 
 In 1927, on the day of Radhashtami, at the Ultadanga Math, Srila Bhaktisiddhanta gave him harinama and mantra and
@@ -96,13 +97,16 @@ at Goshpada-tirtha, where Ramananda met Mahaprabhu, he bought the land and super
 in all his guru's undertakings — festivals, parikramas of Vraja and Navadvipa, the opening of maths and pada-pithas,
 publishing — and was usually sent ahead to prepare the ground. He began nothing without Srila Bhaktisiddhanta's
 direct instruction; and for this complete surrender, his biographer says, he inherited his guru's power to preach.
-His fidelity to his guru remains an example to this day. <!-- F31 F30 F32 I3 -->
+His fidelity to his guru remains an example to this day. His whole being — thought, meditation, japa — was given to
+fulfilling his guru's wishes; for an assigned task he would forget food and sleep and labour through the night. And
+those who met him — a tall, gracious man at home both in modern argument and in the evidence of the shastras — gladly
+took up whatever he asked of them. <!-- F31 F30 F32 I3 F102 -->
 
 ## Sarbhog
 In March 1936 the Deities of Sri Sri Guru-Gauranga-Gandharvika-Giridhari were to be installed at the Sarbhog Gaudiya
 Math in Assam, near Barpeta — one of the sixty-four maths of that time. Srila Bhaktisiddhanta sent him ahead with
 Srila Sridhar Maharaj, Janaki-Vallabha Dasa Brahmachari and others; the math was in the charge of Bhakti Vijnan
-Ashram Maharaj. A few days before the festival nothing was ready, and Hayagriva hurriedly arranged lodgings for the
+Ashram Maharaj. With only a few days left before the celebration nothing was ready, and Hayagriva hurriedly arranged lodgings for the
 guests. Srila Bhaktisiddhanta himself arrived at Sarbhog station on the morning of 15 March with Kunja Bihari
 Vidyabhushan, Paramananda Vidyaratna, Krishna Keshava Brahmachari and other companions; for three days thousands of
 people received mahaprasad. <!-- F33 F34 -->
@@ -132,7 +136,7 @@ Bhaktisiddhanta sent Bhakti Pradip Tirtha in his place, entrusting him instead w
 what he feared most was a long separation from his guru. <!-- F39 -->
 
 In 1936 his guru sent him to Pandit Panchanan Tarkaratna of Bhatpara, who had been attacking daiva-varnashrama. He was
-told to go without tilaka or Vaishnava dress, as an ordinary brahmana. In the morning he arrived with Praphulla
+told to go with no tilaka and not in Vaishnava clothing, as an ordinary brahmana. In the morning he arrived with Praphulla
 Chandra Chattopadhyaya of Kanthalpara, found the pandit's son Jiva Nyayatirtha there, and for two hours discussed the
 scriptures. His conclusion was this: the pandit's learning is immense, but without the company of a pure devotee no
 right conclusions are possible. A record of the conversation appeared as the leading article in the Bengali weekly
@@ -141,7 +145,7 @@ his guru's grace. <!-- F40 F41 I5 -->
 
 ## After His Guru's Departure
 Departing in 1937, Srila Bhaktisiddhanta charged his disciples to preach the message of Sri Rupa and Raghunatha
-together. The united mission soon broke apart; his biographer sees the will of the Lord even in this: capable
+together. What followed might seem to have gone against that wish, but his biographer sees the will of the Lord even in it: capable
 disciples, acharyas in their own right, came to preach each on his own, and to revile some while extolling others is
 an offence against Vaishnavas. In those years he himself went from house to house seeking out disciples who had gone
 back to family life and brought them back to the math; some of them later became acharyas. He helped any godbrother
@@ -172,7 +176,7 @@ much. After their guru's departure his godbrothers — Kunja Bihari Vidyabhushan
 Sarvasva Giri, Bhakti Svarupa Parvat, Bhakti Prasun Bodhayan Maharajas, Krishna Keshava and Sundar Gopal
 Brahmacharis — persuaded him to accept sannyasa so as to fulfil their guru's wish. In 1944, on Phalguna Purnima — the
 day of Mahaprabhu's appearance — on the grounds of the Tota-Gopinatha temple in Puri, he accepted sannyasa from Srila
-Bhakti Gaurava Vaikhanasa Maharaj; he was about forty years old.[^2] Present were Kunja Bihari Vidyabhushan,
+Bhakti Gaurava Vaikhanasa Maharaj; he was about forty years old.[^3] Present were Kunja Bihari Vidyabhushan,
 Paramananda Vidyaratna, Parvat Maharaj and Bodhayan Maharaj. From then on he was called Bhakti Dayita Madhava
 Goswami. When he returned to the Shyamananda Gaudiya Math, the Vishva-vaishnava-raja-sabha received him with honour
 and presented him with an address praising his fearlessness, the power of his words and his love for the devotees.
@@ -186,18 +190,20 @@ Jamuki, Pakulla and Churain. <!-- F53 -->
 
 At Jamuki-Pakulla he lectured in a pandal by the school before a thousand Hindus and Muslims. The police warned him
 that a word against Pakistan could land him in prison. Wary of impure prison food, he asked that questions be held
-until the end. Still a mullah asked him about “idol worship.” Srila Madhava Maharaj replied that God is all-powerful
-and can appear in any form. An idol is a product of the mind and of hands working with matter; the sri-vigraha is
+until the end. Still a mullah asked him about “idol worship.” Srila Madhava Maharaj replied that God is all-powerful:
+could the Almighty, he asked, pass an elephant through the eye of a needle? The Lord is He who is able to do, not to
+do, and to do otherwise; and so He can appear in whatever form He wills. An idol is a product of the mind and of hands working with matter; the sri-vigraha is
 the form the Lord Himself accepts out of love for His devotee. It is wholly spiritual and is seen only by the eyes of
-bhakti. <!-- F54 -->
+bhakti. <!-- F54 Q11 -->
 
 ## Assam
 Srila Bhaktisiddhanta had once told him directly to preach in Assam: the Assamese are simple-hearted and trust sadhus.
-And so he went there — to Sarbhog, with Bhuvana, Uddharan and Krishna Keshava Brahmachari.[^3] Because of the
+And so he went there — to Sarbhog, with Bhuvana, Uddharan and Krishna Keshava Brahmachari.[^4] Because of the
 troubles within the Gaudiya Math he stayed not at the math but in the house of Krishna Keshava's brother. There was a
 flood; they lived on a bamboo platform, and Krishna Keshava's mother cooked for the Vaishnavas. The war with Japan was
 on; the house was requisitioned for troops, and Maharaj moved to a village near Sarbhog, where he preached for seven
-days, and afterwards stayed with Gopal Prabhu in Sarbhog itself. <!-- F55 -->
+days, and afterwards stayed with Gopal Prabhu in Sarbhog itself. So, his biographer remarks, he was ready to bear any
+hardship to carry out his guru's will and bring good to souls forgetful of Krishna. <!-- F55 I11 -->
 
 In Sarbhog he spoke on the “Bhagavata” daily in the house of the schoolteacher Chinta Haran Patgiri, and his first
 disciples there were Gopal Dasa Adhikari and his wife, Shivananda Dasa Adhikari, Khagen Dasa Adhikari and Achyutananda
@@ -217,7 +223,7 @@ country for the Ram-dhun.” The Absolute is a Person, and everything exists for
 politics and live in the math, but his colleagues would not let him go, and soon afterwards he died. <!-- F58 F59 -->
 
 He preached also at Bijani, Bhatipara, Hauli and Barpeta. At Hauli, before a gathering of many thousands, a maulvi
-asked whether anyone had ever seen the soul or God. Maharaj took up a book in Urdu: one who does not know the
+asked whether anyone had ever seen the soul or God. Maharaj answered with the example of a book in Urdu: one who does not know the
 language cannot read even its title — but does it follow that it has none? There are two kinds of sight, the sensory
 and the Vedic, veda-drik; the truth reveals itself to one who surrenders. There Rameshvar Varman took shelter, becoming
 Rameshvar Dasa Adhikari. In 1945 he walked from Hauli to Barpeta with Krishna Keshava, Gopal Krishna Dasa Adhikari,
@@ -233,7 +239,8 @@ not wound. <!-- F67 -->
 In 1947 he came again to Assam, to Goalpara, at the invitation of Radha Mohan Dasa Adhikari — a householder, a
 disciple of Srila Bhaktisiddhanta and a former brahmachari, known in Goalpara as “Ram Mohan-da.” With him were
 Krishna Keshava, Uddharan Brahmachari, Madhavananda Vrajabasi and Ratharudha Dasa Brahmachari. The Harisabha meeting
-was chaired by the advocate Khiroda Sen. <!-- F60 -->
+was chaired by the advocate Khiroda Sen; also present were the district attorney Kamakhya Charan Sen and Priya
+Kumar Guha-Ray, the Mechpara estate's pleader. <!-- F60 F103 -->
 
 In Radha Mohan's house he was first seen by Kamakhya Charan Guha-Ray, son of Dhirendra Guha-Ray, who had come with his
 friend Devavrata; later he became Krishna Vallabha Brahmachari, and after sannyasa, Bhakti Ballabha Tirtha Maharaj.
@@ -247,7 +254,7 @@ Kamakhya's vartma-pradarshaka-guru — the one who first showed him the path —
 address that Gurudeva's letters came. Maharaj advised the young man to read Srila Bhaktivinoda Thakura's
 “Jaiva-dharma” and wrote that on the path of renunciation, nivritti, government service is not needed, while on the
 path of pravritti one may take it. Kamakhya resolved to leave home. That same year, 1947, he completed his master's
-degree in philosophy at Calcutta University and from then on gave his life to the service of his guru; in time he
+degree in philosophy at Calcutta University and from then on devoted himself wholly to serving his guru; in time he
 became secretary of the Sri Chaitanya Gaudiya Math, one of Maharaj's first sannyasi disciples (taking sannyasa in
 1961), and after his departure his successor-acharya. <!-- F62 F100 -->
 
@@ -262,12 +269,12 @@ Barpeta (Gauhati, Sarbhog, Chakchaka-bazar, Pathshala, Rangia, Nalbari, Amingaon
 Cachar (Silchar, Hailakandi), Sibsagar and Lakhimpur, and also in Shillong. The surrendered have nothing to fear, his
 biographer says: their selfless service cannot be stopped. As the “Bhagavata” says: “Your devotees, O Madhava, bound to
 You by ties of love, never fall from the path; protected by You, O Lord, they stride fearlessly over the heads of the
-enemy's commanders” (SB 10.2.33). In Assam he opened maths in Tezpur, Gauhati and Goalpara.[^4] <!-- F65 Q2 I7 F68 -->
+enemy's commanders” (SB 10.2.33). In Assam he opened maths in Tezpur, Gauhati and Goalpara.[^5] <!-- F65 Q2 I7 F68 -->
 
 ## The Sri Chaitanya Gaudiya Math
 He left the Sri Chaitanya Math when already mature in years; in his biographer's words, Mahaprabhu Himself led him out
 of a constricted position — and in a short time he built large centres all over India. No efforts of the envious can
-hide a true guru, as a wisp of cloud cannot hide the sun, and to oppose him is an offence against a Vaishnava. In a
+hide a true guru, just as a passing cloud cannot veil the sun, and to oppose him is an offence against a Vaishnava. In a
 difficult time his “right and left hands” in managing the temples were two Calcuttans, Manikantha Mukhopadhyaya and
 Dr. S. N. Ghosh, head of the Homeopathic Factory — the same whose initiation he had witnessed in Mayapur in 1925;
 later the advocate Jayanta Kumar Mukhopadhyaya took on much of the management. <!-- F69 I8 F70 -->
@@ -278,7 +285,7 @@ inspiration many educated and influential men accepted tridandi-sannyasa. Warm, 
 people of every station — and that, says his biographer, is why the Sri Chaitanya Gaudiya Math grew so quickly.
 <!-- F71 F72 F75 I9 -->
 
-He acquired the land and buildings at Srila Bhaktisiddhanta's birthplace in Puri. The house on Grand Road near
+He obtained the land and houses at Srila Bhaktisiddhanta's birthplace in Puri. The house on Grand Road near
 Narayan-chata where his guru was born stood on the property of the Dakshina-parshva Math; in 1974 Srila Madhava
 Maharaj recovered it, and today a Sri Chaitanya Gaudiya Math with a temple stands there. He was also the chief
 organiser of the all-India celebration of Srila Bhaktisiddhanta's centenary, in which all his godbrothers took part.
@@ -287,8 +294,8 @@ organiser of the all-India celebration of Srila Bhaktisiddhanta's centenary, in 
 In Jashra, in Nadia, the Deities of Jagadisha Pandita — Lord Jagannatha and Gaura-Gopala — entrusted Themselves to his
 service. Jagadisha's descendants, Vishvanath Goswami and Shambhunath and Mrityunjaya Mukhopadhyaya, could no longer
 maintain the worship or the crumbling temple; on the advice of Panchu Thakura of Jashra and Santosh Kumar Mallik of
-Ranaghat they handed the temple over to him unconditionally. His biographer compares this to Gopala waiting for
-Madhavendra Puri: the Deities Themselves offered Themselves to the one who would serve Them. Maharaj repaired the
+Ranaghat they handed the temple over to him unconditionally. The account of it printed in “Sri Chaitanya Vani,” which his biographer reproduces, compares this to Gopala
+waiting for Madhavendra Puri: the Deities Themselves offered Themselves to the one who would serve Them. Maharaj repaired the
 temple, brought in electricity, built a guesthouse for pilgrims, and in the first year personally seated and fed
 several thousand people with mahaprasad. <!-- F95 -->
 
@@ -299,7 +306,7 @@ on Mathura Road (1960) and the Sri Vinoda-vani Gaudiya Math at Kaliya-daha (1967
 Goari-bazar (1960); in Calcutta, the math on Satish Mukherjee Road (1961; the new temple opened in 1967). In
 Mathura-mandala came the Sri Gaudiya Sevashram at Madhuvana (1961) and an ashram at Gokula-Mahavan (1975); in
 Hyderabad, two maths (1962 and 1972); in Jashra, the shripat of Jagadisha Pandita (1962). These were followed by
-Goalpara (1969), Chandigarh (1970),[^5] Puri (1974), the Jagannatha temple in Agartala (1976) and Dehradun (1977).
+Goalpara (1969), Chandigarh (1970),[^6] Puri (1974), the Jagannatha temple in Agartala (1976) and Dehradun (1977).
 In 1955 two more maths passed into his care — in Sarbhog, and the Sri Gadai-Gauranga Math in Baliati. <!-- F92 -->
 
 He also opened schools: a chatushpathi in Medinipur (1946), a primary school and a Sanskrit vidyapitha at Ishodyan
@@ -373,9 +380,10 @@ mercy, deliverers of the fallen.” <!-- F88 Q8 -->
 
 ## Departure and Samadhi
 Srila Bhakti Dayita Madhava Goswami Maharaj left this world in 1979, on the Gaura-pratipad of the month of Govinda,
-at nine in the morning, to the chanting of the Holy Names, in his room at the Calcutta math on Satish Mukherjee
-Road; in his biographer's words, he entered the morning pastimes with Sri Radha. The departures of Srila Jagannatha
-Dasa Babaji and of Rasikananda Deva Gosvami are commemorated on the same day.[^6] <!-- F89 -->
+at nine in the morning, while the Holy Names were being sung, in his own room in the Calcutta math, Satish
+Mukherjee Road; in his biographer's words, he entered the Lord's eternal pastimes at the hour of His morning
+pastimes with Sri Radha. The departures of Srila Jagannatha
+Dasa Babaji and of Rasikananda Deva Gosvami are commemorated on the same day.[^7] <!-- F89 -->
 
 At four that afternoon his body was carried to Mayapur with kirtan and laid in samadhi according to the scriptures;
 the rites were performed by Srila Bhakti Pramoda Puri Maharaj. Two days later a memorial festival was held at the
@@ -385,17 +393,22 @@ the “Amrita Bazar Patrika.” <!-- F90 F91 -->
 
 [^1]: According to one biography — on Friday, 3 Agrahayana of the Bengali year 1311 (18 November 1904), in the
     village of Kanchanpara, Madaripur subdivision, Bhedarganj thana. The day agrees with our calendar.
-[^2]: The biography says “at forty” and “on the 457th anniversary of Mahaprabhu's appearance.” But with his
+[^2]: So one biography states: “took sannyasa from him.” Yet the same biographer names Bhakti Prasun Bodhayan
+    Maharaj among the godbrothers who persuaded Srila Madhava Maharaj to accept sannyasa and were present at it in
+    1944; so Bodhayan Maharaj must have taken sannyasa earlier, and not from him — probably an inexactness of the
+    account.
+[^3]: The biography says “at forty” and “on the 457th anniversary of Mahaprabhu's appearance.” But with his
     appearance in November 1904, in March 1944 he was in his fortieth year (thirty-nine full years), and Gaura
     Purnima 1944 was the 458th anniversary of the Lord's appearance (1486); the biography's count seems to be a
     year off.
-[^3]: The biography places this journey after the preaching in East Pakistan (around 1947), yet says in the same
+[^4]: The biography places this journey after the preaching in East Pakistan (around 1947), yet says in the same
     breath that the war with Japan was on, that is, before 1945; and the walk from Hauli to Barpeta is dated 1945.
     Most likely his first journeys to Assam fell in the war years.
-[^4]: The list of institutions appended to the biography names more Assamese maths: Tezpur (1948), Gauhati (1953)
+[^5]: The list of institutions appended to the biography names more Assamese maths: Tezpur (1948), Gauhati (1953)
     and Goalpara (1969), and besides these the Sarbhog Gaudiya Math, which passed into his care in 1955.
-[^5]: In the list of institutions the Chandigarh math is in Sector 20-A, but in the account of the schools, in
-    Sector 20-B.
-[^6]: According to the biography — on Tuesday, 14 Phalguna of the Bengali year 1386 (27 February 1979), “Govinda 26,
+[^6]: In the list of institutions the Chandigarh math is in Sector 20-A, but in the account of his works and in the lists of
+    schools, libraries and dispensaries, in Sector 20-B.
+[^7]: According to the biography — on Tuesday, 14 Phalguna of the Bengali year 1386 (so the biography; February 1979
+    fell in the Bengali year 1385) — 27 February 1979, “Govinda 26,
     year 492 of the Chaitanya era.” The figure “Govinda 26” does not agree with the Gaura-pratipad (the new moon fell
     the day before) — probably a different count of the month's days; the day of departure is given by our calendar.
