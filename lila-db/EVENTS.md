@@ -1610,16 +1610,16 @@
 
 ## Адвайта приходит к Господу в Навадвипу / Advaita comes to the Lord in Navadvipa  `ev-advaita-comes-to-navadvipa` (1509–1510, возраст 23–24, оценка)
 
-- cb (A): Мадхья 6, 1–58 — [1–58](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L14-L285) · `cb-1040`
-- cb (A): Мадхья 6, 59–72 — [59–72](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L290-L355) · `cb-1041`
+- cb (A): Мадхья 6, 1–58 — [1–58](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L14-L286) · `cb-1040`
+- cb (A): Мадхья 6, 59–72 — [59–72](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L291-L356) · `cb-1041`
 - chaitanya-chandrodaya (A): Акт 2, главная сцена — [*(Затем входят: восседающий Господь Вишв–**Адвайта.** Зачем говорить «его»? Скажи](../chaitanya-chandrodaya/ru/02.md?plain=1#L268-L298) · `ccd-0028`
 - karnapura-ckm (A): Сарга 5, 22–31 — [22–31](../karnapura-mahakavya/ru/05.md?plain=1#L499-L702) · `kcm-0043`
 - karnapura-ckm (A): Сарга 6, 76–85 — [76–85](../karnapura-mahakavya/ru/06.md?plain=1#L1736-L1934) · `kcm-0061`
 - lochana-cm (B): Мадхья-кханда, «Истина об Адвайте», 73–89 — [73–89](../lochana/ru/27.md?plain=1#L118-L166) · `lcm-0119`
 - murari-kcc (A): Пракрама 2, сарга 6, шлоки 11–17 — [11–17](../murari-gupta/ru/2.06.md?plain=1#L25-L37) · `mkc-0085`
-- cb (A): Мадхья 6, 104–138 — [104–138](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L512-L680) · `cb-1043`
-- cb (A): Мадхья 6, 139–163 — [139–163](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L685-L805) · `cb-1044`
-- cb (A): Мадхья 6, 164–179 — [164–179](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L810-L882) · `cb-1045`
+- cb (A): Мадхья 6, 104–138 — [104–138](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L513-L681) · `cb-1043`
+- cb (A): Мадхья 6, 139–163 — [139–163](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L686-L806) · `cb-1044`
+- cb (A): Мадхья 6, 164–179 — [164–179](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L811-L883) · `cb-1045`
 - murari-kcc (A): Пракрама 2, сарга 6, шлоки 18–27 — [18–27](../murari-gupta/ru/2.06.md?plain=1#L39-L57) · `mkc-0086`
 - lochana-cm (B): Мадхья-кханда, «Истина об Адвайте», 90–109 — [90–109](../lochana/ru/27.md?plain=1#L169-L226) · `lcm-0120`
 
@@ -1629,7 +1629,7 @@
 
 ## Господь являет Адвайте вселенский облик / The Lord reveals the universal form to Advaita  `ev-vishvarupa-shown-advaita` (1509–1510, возраст 23–24, оценка)
 
-- cb (A): Мадхья 6, 73–103 — [73–103](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L360-L507) · `cb-1042`
+- cb (A): Мадхья 6, 73–103 — [73–103](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L361-L508) · `cb-1042`
 - cb (A): Мадхья 24, 32–74 — [32–74](../chaitanya-bhagavata/ed/CB_Madhya24.md?plain=1#L162-L364) · `cb-2056`
 - cc (A): Ади 17.10 — [10–10](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L113-L113) · `cc-0245`
 - gaura-krishnodaya (B): Сарга 5, 31 — [31–31](../gaura-krishnodaya/ru/05.md?plain=1#L69-L69) · `gkd-0045`

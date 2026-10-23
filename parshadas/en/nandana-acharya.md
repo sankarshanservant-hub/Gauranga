@@ -40,8 +40,8 @@ biographies, also lived for some days in Nilachala — according to one, togethe
 A different lineage is given by the “Gaudiya-vaishnava-abhidhana.” According to it, Nandana Acharya came of a family of
 brahmana astrologers: his father, Lakshmi Narayana, a renowned seer and astrologer, was present at the birth of
 Mahaprabhu, and he had two sons — Nandana Acharya and Bhagavan Adhikari Sarvabhauma. The family were Shakadvipi
-brahmanas, descendants of Shanti Muni, son of Parashara, of the Bharata branch of the Vatsya gotra, from Rarh. For some
-time Nandana lived in the village of Bahirkhanda near Tarakeshvar[^4], and then moved to Navadvipa and settled in
+brahmanas, descendants of Shanti Muni, son of Parashara, of the Vatsya gotra (its Bharata line), natives of Rarh. For a
+time Nandana made his home at Bahirkhanda, a village near Tarakeshvar[^4], and then moved to Navadvipa and settled in
 Shrihatia, in Dakshin-para. The Nandana who was the brother of Gangadasa and Vishnudasa the “Abhidhana” considers a
 different person: he is counted in the branch of Nityananda, composed verses and songs, and little else is known of him.
 <!-- F6 F7 F8 -->
@@ -76,9 +76,8 @@ At once He set out for Navadvipa and stayed in the house of Nandana Acharya (CB,
 avadhuta — a wanderer bound by no outward rules — of huge stature, with arms reaching to His knees, whose body shone
 like the sun. With great joy he received the guest, fed Him and kept Him in his home (CB, Madhya 3.124–135); and the
 “Bhakti-ratnakara” recalls that Nandana, seeing the guest's great effulgence, was beside himself and with great care kept
-Him in his house (12.1726–1727). Nityananda
-lived with him in secret, disclosing Himself to no one, and Nandana, having received the chance to serve Him, felt that
-his life had been fulfilled. He served Nityananda not as a wanderer who had found shelter but as the Lord: Nityananda is
+Him in his house (12.1726–1727). Nityananda lived with him in secret, disclosing Himself to no one, and Nandana, now granted the chance to serve Him, regarded
+his life as fulfilled. He served Nityananda not as a wanderer who had found shelter but as the Lord: Nityananda is
 Baladeva Himself. <!-- F14 Q5 I1 F53 -->
 
 Mahaprabhu knew of His coming. Even before, He had hinted to the Vaishnavas that a great personality would soon come,
@@ -105,7 +104,7 @@ eternal Lord.
 
 Long afterwards, when Srinivasa Acharya was being shown the holy places of Navadvipa, he was told at this house, according
 to the “Bhakti-ratnakara”: “Sri Nandana Acharya is supremely fortunate. Look, Srinivasa: this is his house. Into this
-house the Lord came with the company of devotees and saw Nityananda seated in meditation; and the devotees stood and could
+house the Lord came with the company of devotees and saw Nityananda seated, absorbed in contemplation; and the devotees stood and could
 not gaze enough at Nityananda's matchless beauty” (12.2422–2424)[^7]. <!-- F17 F18 F21 Q12 I1 -->
 
 To reveal Nityananda's glory, Mahaprabhu gave a sign to Srivasa Pandita, and he, understanding Him, recited a verse of
@@ -192,13 +191,13 @@ Haridasa after Him.
 “Considering it pointless to maintain a body devoid of prema, the Lord leapt into the Ganga.” (CB, Madhya 17.33)
 
 This is not despair, nor a worldly attempt to part with life: the Lord is not bound by a body. In the role of His own
-devotee He was showing that a devotee cannot conceive of life without prema. Nityananda and Haridasa jumped in after Him
-and drew Him out of the river. The Lord, wishing to remain hidden, told them to tell no one that they had seen Him, and
+devotee He was showing that a devotee cannot conceive of life without prema. Nityananda and Haridasa leapt into the water
+behind Him and drew Him out of the river. The Lord, wishing to remain hidden, told them to tell no one that they had seen Him, and
 went to the house of Nandana Acharya (CB, Madhya 17.44–47)[^11]. Nityananda and Haridasa kept the secret. The devotees,
 finding the Lord nowhere, wept in separation, and Advaita, considering Himself an offender, fasted in grief.
 <!-- F30 F31 -->
 
-Coming to Nandana's house, Mahaprabhu sat down on the vishnu-khatta. Nandana prostrated himself before Him in full
+Coming to Nandana's house, Mahaprabhu took His seat on the vishnu-khatta. Nandana prostrated himself before Him in full
 obeisance and with great love began to serve Him: he brought dry clothes, offered arghya, fragrant oils and sandal,
 camphor and betel (CB, Madhya 17.53–58). And the Lord said to him (CB, Madhya 17.59–62; our translation from the
 Bengali):
@@ -234,8 +233,8 @@ eternal servants, and Advaita, understanding that He had been punished as a serv
 ## With the Lord in Navadvipa and Puri
 Nandana was with the Lord on the great day of the procession to the Kazi as well. The “Chaitanya-bhagavata,” naming
 the experts in kirtana who walked with Mahaprabhu then, mentions side by side Govinda, Jagadananda, Nandana Acharya and
-Shuklambara (Madhya 23.150–152)[^14]. When the procession reached the house of Shridhara and the Lord drank water from his
-old iron pot, the devotees, seeing His love for the poor trader, could not hold back their tears:
+Shuklambara (Madhya 23.150–152)[^14]. When the procession reached the house of Shridhara and the Lord drank from his
+old iron water-pot, the devotees, seeing His love for the poor trader, could not hold back their tears:
 
 “Jagadisha, Gopinatha, Nandana Acharya, Shuklambara, Garuda and many other devotees shed tears.” (CB, Madhya 23.452)
 
@@ -249,7 +248,7 @@ brought Him to Shantipura, to the house of Advaita. Shachi and the devotees of N
 “Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda and Sanjaya.” (CC, Madhya 3.154) <!-- F38 -->
 
 When the Lord, having settled in Puri, returned from His journey to the south and the news reached Bengal, all His
-devotees rejoiced; the “Charitamrita,” listing them, names “Raghava Pandita and Acharya Nandana” too (Madhya 10.84). They
+devotees rejoiced; the “Charitamrita,” listing them, names him too: “…Raghava Pandita, Acharya Nandana…” (Madhya 10.81–84). They
 all gathered at Advaita's house and went to Puri for the Ratha-yatra. King Prataparudra, watching from the palace roof as
 the Vaishnavas approached, asked who they were, and Gopinatha Acharya named them one by one:
 
@@ -263,8 +262,8 @@ for Nilachala, says of him:
 “Nandana Acharya too came in delight — he to whose house Lord Nityananda had first come.” (CB, Antya 8.22)
 <!-- F47 F49 -->
 
-According to the biographies, Nandana took part in the Lord's pastimes with the Bengali devotees: in the cleaning of the
-Gundicha temple and of the temple of Sri Nrisimha, in the water play in Indradyumna lake, at the feast of mahaprasada in
+According to the biographies, Nandana took part in the Lord's pastimes with the Bengali devotees: when the Gundicha temple
+and the temple of Sri Nrisimha were cleansed, in the water play in Indradyumna lake, at the feast of mahaprasada in
 the Aitota garden and at the Ratha-yatra. By name the “Charitamrita” mentions him at the feast in the garden after the
 cleaning of Gundicha:
 
@@ -287,7 +286,7 @@ nor are his days found in our calendar. <!-- F46 -->
 
 The memory of his house is kept at Ishodyan in Sri Mayapura. There stands the “Sri Nandana Acharya Bhavana” with the
 Deities of Sri Gaura-Nityananda — Sri Chaitanya Mahaprabhu and Nityananda Prabhu. The temple was built by Srila Bhakti
-Saranga Goswami Maharaja, founder of the “Gaudiya Sangha,” who has since entered the eternal pastimes of the Lord[^16].
+Saranga Goswami Maharaja, founder of the “Gaudiya Sangha,” who has since departed into the Lord's eternal pastimes[^16].
 <!-- F45 -->
 
 ## Significance
@@ -295,7 +294,7 @@ The sources draw Nandana Acharya's life in few strokes, and almost all of them a
 chose this house for Their confidential pastimes: here Nityananda found shelter, and here Mahaprabhu with all the
 devotees first met Him; here Advaita hid while “testing” the Lord; here Mahaprabhu Himself lay hidden for a whole night.
 That is why the “Charitamrita” calls Nandana a branch of the tree renowned in the world because the Lords hid in his
-house, and the biographies call him fortunate indeed. <!-- F9 I1 I4 -->
+house, and the “Bhakti-ratnakara” calls him supremely fortunate. <!-- F9 I1 I4 -->
 
 His service was selfless hospitality: he received Nityananda, Advaita and the Lord Himself and served each of Them as
 the Lord, and he considered service to Nityananda the fulfilment of his life. And his answer to the Lord, who asked him
