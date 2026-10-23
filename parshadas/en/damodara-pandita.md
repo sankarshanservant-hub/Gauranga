@@ -349,6 +349,197 @@ forests of Jharikhanda, the devotees came out to meet Him and met Him at Narendr
 elders, and among those He embraced the “Charitamrita” names Damodara Pandita too (Madhya 25.218–222)[^10].
 <!-- F28 F51 -->
 
+## The Widow's Son
+Damodara's best-known vakya-danda, which the “Charitamrita” promised to tell of “later,” took place in Puri soon after
+the Lord rejected Junior Haridasa. In Purushottama there lived a boy, the son of a deceased brahmana of Orissa —
+well-mannered and very handsome. Every day he came to the Lord, bowed to Him and talked with Him at length, holding Him
+dearer than his own life, and the Lord was kind to him. Damodara could not accept this. Again and again he forbade the
+boy to come, but the boy could not live a day without seeing the Lord: “children are always drawn to where they are
+given love” (CC, Antya 3.7). And one day, when the boy had left, Damodara could restrain himself no longer:
+
+“‘You instruct each and every one. You are the teacher even of other teachers. But we have yet to understand what kind
+of teacher You are.’” (CC, Antya 3.11)
+
+“‘Now all over Jagannatha Puri everyone will be talking about You. What will become then of Your reputation as a
+teacher?’” (CC, Antya 3.12)[^11]
+
+He said it by hint, as if of someone else (*anyopadeshe*). The Lord asked, “What are you saying, Damodara?” — and he
+explained plainly:
+
+“Damodara Pandita replied: ‘You are the independent Lord. You act as You Yourself wish, and no one can forbid You. But
+if people begin to discuss Your behaviour, how will You stop them?’” (CC, Antya 3.13–14)
+
+“‘Lord! You are versed in all the scriptures. Why then do You not consider that this boy is the son of a brahmana
+widow? Why do You show him so much love?’” (CC, Antya 3.15)
+
+“‘Though his mother, this brahmana widow, is austere, pious and chaste, she has one fault: she is young and beautiful.
+You too are very handsome and young. Why then do You give people such strong cause for gossip?’” (CC, Antya 3.16–17)
+
+Having said this, Damodara fell silent. And the Lord smiled — He was pleased:
+
+“Having said this, Damodara Pandita fell silent. And Sri Chaitanya, inwardly pleased, began with a smile to reflect:”
+(CC, Antya 3.18)
+
+“‘All these words of Damodara Pandita are born of the waves of pure love. Among all My closest friends there is no one
+who could compare with him.’” (CC, Antya 3.19)
+
+What troubled Damodara was not the Lord's conduct — he knows that the Lord is independent and pure — but the talk of
+people, which might touch His name. For the Lord's honour he is ready to reproach the Lord Himself. That is why the
+Lord calls his reproach “a wave of pure love” and places him above all His intimates[^12].
+<!-- F29 F30 F31 F32 F53 Q7 Q8 I1 -->
+
+## Guardian of Shachi's House
+The next day the Lord called Damodara to a secluded place. With this conversation the “Charitamrita” explains its first
+words about him — “fully pleased with this reproach, Sri Chaitanya sent Damodara to Navadvipa”:
+
+“Sri Chaitanya said: ‘O Damodara, My friend, I would like to ask you to go to Nadia and take care of My mother there.’”
+(CC, Antya 3.21)
+
+“‘Apart from you I see no one who could look after her and protect her. You have surrounded even Me with your care.’”
+(CC, Antya 3.22)
+
+“‘You are the most impartial friend among all My close associates. Without such objectivity it is impossible to
+protect the path of dharma from every attack.’” (CC, Antya 3.23)
+
+“‘You can accomplish even what is beyond My power. You can rebuke even Me — what then to speak of others?’” (CC,
+Antya 3.24)
+
+“‘Go to My mother's house and take shelter at her holy feet. In your presence no one will dare to behave as he
+pleases.’” (CC, Antya 3.25)
+
+“‘From time to time you may come to see Me, but only for a short while, and then return again to Navadvipa.’” (CC,
+Antya 3.26)
+
+“Impartiality” and “objectivity” in the translation stand for *nirapeksha*: freedom from regard for anyone whatsoever,
+without which, in the Lord's words, dharma cannot be protected[^13]. <!-- F33 F53 Q9 I4 -->
+
+The Lord told him to offer His mother millions of obeisances, to tell her about Him so as to console her heart, and to
+remind her of one secret: again and again He comes to her house and eats all that she offers Him. On the recent
+Magha-sankranti she had prepared various dishes and, offering them to Krishna, sat down to meditate; He came and quickly
+ate everything; wiping away her tears, she saw the empty tray and thought she had dreamt it, and in the confusion of
+separation decided she had not yet offered — and, finding the pots in the kitchen full, offered again (CC, Antya
+3.27–37). And the Lord concluded:
+
+“‘Thus again and again I ate all the offerings you made Me, attracted by your pure love. I live in Jagannatha Puri only
+in obedience to your instruction. Yet the power of your pure love draws Me so irresistibly that I am unable to
+resist.’” (CC, Antya 3.38–39) <!-- F34 Q10 -->
+
+The Lord gave Damodara Jagannatha's prasada — separately for His mother and for all the Vaishnavas — and he carried out
+exactly all that he had been told:
+
+“So by the Lord's will Damodara Pandita was sent to Nadia (Navadvipa). After meeting Shachimata he remained to live at
+her holy feet.” (CC, Antya 3.42)
+
+“He gave Jagannatha's prasada to all the Vaishnavas headed by Advaita Acharya. So Damodara Pandita did everything
+exactly as Sri Chaitanya Mahaprabhu had ordered him.” (CC, Antya 3.43)
+
+In Navadvipa his strictness became a support for all:
+
+“Everyone knew the strictness of Damodara Pandita, and therefore, out of fear of him, no one allowed himself any
+careless acts.” (CC, Antya 3.44)
+
+“Damodara Pandita could rebuke anyone among Sri Chaitanya's associates in whom he saw a departure from proper conduct.
+So, by his strictness, he established the norms of proper behaviour for the Vaishnavas.” (CC, Antya 3.45)
+
+“Thus I have told of the reproaches of Damodara Pandita. Hearing of them cleanses the heart of ignorance and
+godlessness.” (CC, Antya 3.46)
+
+That the Lord sent Damodara to Navadvipa to comfort His mother is said by the “Gaura-krishnodaya” as well (16.66). And
+Narahari Chakravarti in the “Bhakti-ratnakara” sees in him one of the four facets the Lord revealed to the world through
+His associates: through Ramananda He showed victory over Kandarpa, through Haridasa — forbearance, through Sanatana and
+Rupa — humility, and “through Damodara He revealed impartiality” (1.630). <!-- F35 F36 F53 Q11 F68 F69 -->
+
+## “Today You Have Bought Me”
+As the Lord had allowed, Damodara came from time to time from Navadvipa to Puri. Vrindavana Dasa mentions that with the
+devotees of Bengal who went, headed by Advaita, to the Ratha-yatra, “Sri Damodara Pandita also returned to Nilachala,
+after visiting mother Shachi” (CB, Antya 8.37); Murari too names him in that procession — “Damodara Pandita and
+Raghunandana Thakura” (Murari, 4.17.12) — and the late “Vaishnava-vandana” says that Damodara, having seen Ai, hurried
+on (4.114). <!-- F56 F59 F70 -->
+
+Of one of these visits Vrindavana Dasa tells in detail. The Lord, seeing Damodara, called him to a secluded place and
+asked, “You have been staying with My mother. Tell Me the truth: is she devoted to Lord Vishnu?” (CB, Antya 9.91–93). And
+at this the stern brahmachari flared up:
+
+“Hearing this question, the austere and impartial Damodara Pandita answered in anger:” (CB, Antya 9.94)
+
+“‘O Gosvami, what are You saying? You ask whether Your mother has devotion to God?’” (CB, Antya 9.95)
+
+“‘Your devotion to Lord Vishnu has come to You by the mercy of Your mother. All that You have has come through her.’”
+(CB, Antya 9.96)
+
+“‘Know that all the devotion You have has come to You by her mercy.’” (CB, Antya 9.97)
+
+On her body, he went on, tears, trembling, perspiration, swoons and hair standing on end are always to be seen; the
+name of Krishna never leaves her lips; is it not she who is called Vishnu-bhakti? “You know this perfectly well, but
+You ask, pretending that You do not know”; and even one who utters “Ai,” “mother,” as an ordinary word is freed from
+all troubles (9.98–102). The Lord's happiness knew no bounds:
+
+“With great satisfaction the Lord embraced Damodara Pandita, immersed in the bliss of divine love.” (CB, Antya 9.104)
+
+“‘O Damodara, today you have bought Me, fully confirming the feeling of My heart.’” (CB, Antya 9.105)
+
+“‘All the devotion to Vishnu that I possess has come to Me by the mercy of My mother. Of this there is no doubt.’” (CB,
+Antya 9.106)
+
+“‘By her will I live in this world. Therefore I can never repay her for it.’” (CB, Antya 9.107)
+
+“‘O Damodara, please hear Me. I am wholly conquered by her love. I always see her.’” (CB, Antya 9.108)
+
+Having blessed Damodara, the Lord sat down among the devotees; and He asked, Vrindavana Dasa explains, only to instruct
+the world (9.109–110). Murari Gupta gives the same conversation briefly:
+
+“Once Krishna asked Sri Damodara Pandita, ‘Tell Me truly: is My mother's devotion to Krishna firm?’ Hearing this, he
+answered angrily, ‘It is only by her grace that there is in You that devotion, full of the rasa of Krishna, whose
+nature is eternal bliss!’ Hearing this, the Lord tenderly embraced the brahmana and said, ‘My friend, all that you have
+said to Me is true. It is only by her command that I live in this Kshetra, of that there is no doubt — and yet her love
+draws Me back to her again and again.’” (Murari, 4.20.1–4)
+
+Here too Damodara's anger is the same directness of love: he cannot bear even a shadow of doubt about her through whom,
+as he knows, Vishnu-bhakti comes into the world. <!-- F57 F60 -->
+
+## After the Lord's Concealment
+The Lord counted Damodara among those associates from Bengal through whose preaching love for the holy name spread
+through the world:
+
+“Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara.” (CC, Antya 7.48)
+
+“Kashishvara, Mukunda, Vasudeva, Murari and many other Vaishnavas were born in the land of Bengal.” (CC, Antya 7.49)
+
+“‘All of them everywhere preach the glory of chanting the holy names of God and the enchanting beauty of love for
+Krishna. Thanks to them all I have understood the essence of pure devotion to Krishna.’” (CC, Antya 7.50)[^14]
+<!-- F37 Q12 -->
+
+He outlived the Lord's concealment and remained in Navadvipa. When Narottama came there, he met in Mayapur the elder
+associates of the Lord — Shuklambara, Ishana, Murari, Damodara, Dasa Gadadhara — grieving for the Lord; “seeing
+Damodara Pandita there, Narottama in agitation bowed down at his feet” (“Bhakti-ratnakara” 8.93). The
+“Narottama-vilasa” adds that “Pandita Damodara and the others dear to Prabhu could not let Narottama go for a moment”
+(3.132). Srinivasa too came to Navadvipa, and there he was met by Murari Gupta, Srivasa Pandita, Damodara Pandita,
+Sanjaya, Shuklambara and Dasa Gadadhara — those who told him to go to Vrindavana (“Bhakti-ratnakara” 4.57).
+<!-- F38 F39 F69 Q13 -->
+
+Later traditions preserve a few more touches. According to the “Anuragavalli,” after the Lord's departure only her
+maidservants and Damodara Pandita would enter the presence of Vishnupriya, who lived in seclusion; the
+“Advaita-prakasha” tells how Ishana, coming to Navadvipa, met Damodara Pandita and with him entered Vishnupriya's inner
+apartments, and later sees him dancing in Advaita's last kirtana in Shantipura (22.70–82, 22.115)[^15]. <!-- F71 -->
+
+When and where he left this world the sources do not say. Neither the day of his appearance nor that of his
+departure is named by the biographies or the primary sources; nor are they in our calendar.
+
+## Significance
+Damodara Pandita entered the history of the Lord's pastimes as “the one who chastises by word.” But all his strictness
+comes from love: in reproaching the Lord he cares only that no one's gossip should touch His name, and the Lord Himself
+calls his reproaches “waves of pure love” and knows no one closer. He, by nature free from regard for people, himself
+acknowledges that the Lord is independent and accountable to no one — and that He is conquered by His devotee's love.
+The Lord's words about him had a teaching meaning as well: even valuing his directness, the Lord gently showed that it
+too needs measure. Above all, through Damodara the Lord revealed to the world *nirapeksha*, fearless faithfulness to
+what is right, without which dharma cannot be protected — and therefore it was to him, and to no one else, that He
+entrusted His mother's house. <!-- I1 I2 I3 I4 -->
+
+The world owes him the first biography of the Lord as well: from his questions grew Murari Gupta's poem, and from it
+Lochana Dasa's “Chaitanya-mangala.” “Hearing of them cleanses the heart of ignorance and godlessness,” says Krishnadasa
+Kaviraja of Damodara's vakya-danda; and Damodara himself, having heard Murari to the end, said: “I have reached my
+goal.” <!-- F58 F62 Q11 -->
+
 [^1]: The identification follows the “Gaura-ganoddesha-dipika” of Kavi Karnapura, a contemporary of the Lord. The
     “fieriness” of Shaibya and of Damodara is not worldly anger but the directness of love, which will not keep silent
     about anything that, to its mind, does not befit the beloved. Karnapura does not name the reason why Sarasvati, the
@@ -390,3 +581,16 @@ elders, and among those He embraced the “Charitamrita” names Damodara Pandit
     (*pranayat*).
 [^10]: One of the biographies names Athara-nala, the bridge at the entrance to Puri, as the place of the meeting;
     according to the “Charitamrita,” the Lord was met at Narendra-sarovara.
+[^11]: One of the biographies gives the references for this and the following episodes as “Adi 3.11–12,” “Adi
+    3.22–23,” and below “Adi 7.50”; read Antya 3.11–12, 3.22–23 and 7.50.
+[^12]: Damodara's words are concern for the Lord's honour in the eyes of the world (*loka-apavada*, people's talk), not
+    a suspicion of anything worldly: the Lord, the boy and his mother are, by Damodara's own words, pure. The Lord
+    Himself willed this pastime and was pleased with it (CC, Adi 10.32; Antya 3.18–19); Damodara's vakya-danda is a
+    manifestation of pure love, and the “Charitamrita” promises those who hear of it the cleansing of the heart
+    (Antya 3.46).
+[^13]: The Bengali text has *nirapeksha*: “there is no one among My people as nirapeksha as you; without nirapeksha
+    dharma cannot be protected.” One of the biographies stresses that here the Lord once more pointed to this trait of
+    Damodara.
+[^14]: See note 11.
+[^15]: The “Anuragavalli” and the “Advaita-prakasha” are late works, and their accounts are not confirmed by the primary
+    sources.
