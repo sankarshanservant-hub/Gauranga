@@ -20,10 +20,14 @@ Advaita Acharya, Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.
 <!-- F6 F7 Q2 Q3 -->
 
 ## Family and Homeland
-Pundarika's father was Baneshvara of the Gangopadhyaya family[^2], his mother Gangadevi. Some biographies also name his
-wife — Ratnavati[^3]. His father's family belonged to the Varendra brahmanas and came from the town of Baghiya in the
-district of Dacca; the “Prema-vilasa” (vilasa 22), as one of the biographies quotes it, says that it was a highly
-respected family. It says too that Pundarika was a very wealthy zamindar with lands in Chakrashala, yet remained
+The “Chaitanya-bhagavata” says that the Lord Himself ordained his appearance in Chattagrama, to bless those eastern
+lands (Madhya 7.10): “The great Vaishnavas Pundarika Vidyanidhi, Chaitanya-vallabha and Vasudeva Datta appeared in
+Chattagrama” (Adi 2.36–37). In his commentary on these verses Srila Bhaktisiddhanta writes that Pundarika's father was
+Baneshvara (according to another opinion, Shuklambara) Brahmachari[^2], his mother Ganga Devi, and his wife
+Ratnavati[^3]; one of the biographies adds that the family bore the name Gangopadhyaya. Baneshvara was a Varendra
+brahmana; according to Srila Bhaktisiddhanta, he moved to the village of Baghiya in the district of Dacca, and the local
+community of brahmanas did not accept him. The “Prema-vilasa” (vilasa 22), as one of the biographies quotes it, says
+that it was a highly respected family. It says too that Pundarika was a very wealthy zamindar with lands in Chakrashala, yet remained
 spotlessly pure in conduct; that he lived now in Chittagong, now in Navadvipa; and that he was a disciple of
 Madhavendra Puri. <!-- F9 F10 F13 Q4 -->
 
@@ -34,9 +38,13 @@ Pundarika Vidyanidhi is celebrated. The sources do not give the year of his birt
 
 His ancestral home, his shripat, stood in the village of Meghala (Mekhala) in the police district of Hathazari in the
 district of Chattagrama, north of Chittagong itself; ten kroshas from there lies Chhanhara, the birthplace of Vasudeva
-Datta[^4]. But Pundarika also had a second home — on the bank of the Ganga, in Sri Mayapur, in Navadvipa; the Lord
+Datta[^4]. Srila Bhaktisiddhanta writes that his bhajana-kutir there has fallen into decay, and that no one can any
+longer read the ancient inscriptions on its wall and on a neighbouring temple; the descendants of the family relate
+that Mukunda Datta often came there to perform bhajana. The family was always small: generation after generation only
+one son was born in it, and sometimes none; the descendants, who followed the shakta-dharma, became priests for those
+whom the community had rejected. One of them, Sarojananda Gosvami, lived in Vrindavana. But Pundarika also had a second home — on the bank of the Ganga, in Sri Mayapur, in Navadvipa; the Lord
 Himself speaks of it: “He lives in Chattagrama, but here in Mayapur he also has a house” (CB, Madhya 7.30).
-<!-- F12 F14 -->
+<!-- F12 F14 F70 F71 -->
 
 Chittagong was the homeland of other associates of the Lord as well — Mukunda Datta, Vasudeva Datta and Gadadhara
 Pandita. Gadadhara's father, Madhava Mishra, was a good friend of Pundarika. Mukunda had long known him as a Vaishnava,
@@ -164,28 +172,20 @@ apart in a single moment. <!-- F37 -->
 Vidyanidhi returned to outer consciousness only after two praharas — six hours (CB, Madhya 7.108). Gadadhara, amazed,
 embraced Mukunda in tears: “You are my true friend — you have shown me the greatest of devotees! And I took a
 mahabhagavata for an ordinary lover of pleasure and offended him. I shall receive mantra from him — and he will forgive
-me” (CB, Madhya 7.96–105). When Vidyanidhi came to himself, Mukunda conveyed his friend's wish to him. <!-- F38 F39 -->
+me” (CB, Madhya 7.96–105); Gadadhara called the great devotee “Vidyanidhi Bhattacharya” (7.97). Vidyanidhi, coming to
+himself, was glad to see Gadadhara's tears, embraced him and pressed him to his heart (7.110), and Mukunda conveyed his
+friend's wish to him: “He is detached from the world and since childhood has never left the Lord; you two will be a
+worthy guru and disciple — fix an auspicious day” (7.111–116). <!-- F38 F39 F71 -->
 
 Pundarika smiled and was overjoyed: “Providence has brought me together with a great jewel. Such a disciple is
 obtained only by the good fortune of many births. I shall certainly give him initiation — on the coming dvadashi of the
-bright fortnight, at the most auspicious hour” (CB, Madhya 7.117–120). Gadadhara and Mukunda went to Mahaprabhu, told
-Him of Vidyanidhi's arrival and that Gadadhara had resolved to receive diksha from him, and the Lord, much pleased,
-said: “Quickly, quickly!”[^8] <!-- F40 F41 -->
-
-On the appointed auspicious day Gadadhara received initiation into mantra from Pundarika Vidyanidhi. Thus two
-associates dear to Sri Krishna Chaitanya became for each other a worthy guru and a worthy disciple: Gadadhara displayed
-the lila of choosing his guru. The secret of their bond lies in Krishna's lila: Pundarika is Vrishabhanu, the father
-of Srimati Radhika, and Gadadhara is Radha Herself; therefore the love of their former kinship was manifested between
-guru and disciple. <!-- F42 F43 -->
-
-One of the biographies sees in this lila a lesson addressed to all who cannot tell a devotee from a non-devotee: it was
-revealed to put them to shame. Such people, the author adds, do not understand even the meaning of the honorary
-Vaishnava titles that were conferred by the Sri Navadvipa-dhama-pracharini Sabha and the Vishva-vaishnava-raja-sabha.
-<!-- I2 -->
+bright fortnight, at the most auspicious hour” (CB, Madhya 7.117–120). That day Gadadhara took leave of Mukunda and came
+to the Lord, and Vishvambhara, hearing of Vidyanidhi's arrival, was filled with boundless joy (CB, Madhya 7.121–122).
+<!-- F40 -->
 
 ## Meeting the Lord
 One night Vidyanidhi came secretly to the Lord. He left all his servants behind and came quite alone, unseen by people
-on the road[^9]. As soon as he saw Mahaprabhu, he fell unconscious from excess of joy, without even managing to bow
+on the road[^8]. As soon as he saw Mahaprabhu, he fell unconscious from excess of joy, without even managing to bow
 down (CB, Madhya 7.123–125). Coming to himself, he gave a thunderous roar — a hunkara — and wept, reproaching himself
 that he alone in all the world had been left without the Lord's mercy; seeing him, all the Vaishnavas wept (CB, Madhya
 7.126–129). <!-- F45 -->
@@ -200,14 +200,42 @@ bodies could not be told apart: it seemed as if the Lord had melted into the bod
 Hearing how the Lord, weeping, called him “father” and “treasury of love,” the devotees understood how dear Vidyanidhi
 was to Him, and surrounded him with love and honour (CB, Madhya 7.135, 137). <!-- F46 -->
 
+The Lord brought him together with all the Vaishnavas, and all sang kirtana with Pundarika. “His title is Pundarika
+Vidyanidhi,” said the Lord. “The Creator made him to distribute prema-bhakti” — and, raising His arms, He cried aloud:
+“Hari!” (CB, Madhya 7.139–141). <!-- F71 -->
+
 “Today My morning is auspicious,” said the Lord. “I must have woken at a blessed moment: with My own eyes I have seen
-Premanidhi!” (CB, Madhya 7.142–143) <!-- F47 Q8 -->
+Premanidhi!” (CB, Madhya 7.142–143) Then Premanidhi returned to outer consciousness, recognised the Lord and bowed down
+to Him, and then to Advaita and to all the Vaishnavas, to each according to his greatness; the devotees looked at him
+and saw in him an ocean of prema (CB, Madhya 7.144–147). <!-- F47 Q8 F71 -->
+
+After this meeting Gadadhara asked the Lord's permission to receive mantra from Pundarika: “Not knowing his
+unfathomable ways, I thought of him with disrespect; therefore I shall become his disciple — a guru surely forgives the
+offence of his disciple.” The Lord, pleased with his words, said: “Quickly, quickly!”[^9] (CB, Madhya 7.148–151)
+<!-- F41 F71 -->
+
+On the appointed auspicious day Gadadhara joyfully received initiation into mantra from Premanidhi (CB, Madhya 7.152).
+Thus two associates dear to Sri Krishna Chaitanya became for each other a worthy guru and a worthy disciple: Gadadhara
+displayed the lila of choosing his guru. “What more can I say of Pundarika's glory, when his disciple is Gadadhara?
+This is the summit for a devotee,” exclaims Vrindavana Dasa Thakura; he confesses that he longs one day to see
+Vidyanidhi, and promises that whoever reads and hears of the meeting of Pundarika and Gadadhara will gain the treasure
+of prema (CB, Madhya 7.153–156). The secret of their bond lies in Krishna's lila: according to the
+“Gaura-ganoddesha-dipika,” Pundarika is Vrishabhanu, the father of Srimati Radhika, and Gadadhara is Radha Herself;
+therefore the love of their former kinship was manifested between guru and disciple. <!-- F42 F43 F71 -->
+
+One of the biographies sees in this lila a lesson addressed to all who cannot tell a devotee from a non-devotee: it was
+revealed to put them to shame. Such people, the author adds, do not understand even the meaning of the honorary
+Vaishnava titles that were conferred by the Sri Navadvipa-dhama-pracharini Sabha and the Vishva-vaishnava-raja-sabha.
+<!-- I2 -->
 
 ## In the Kirtanas of Navadvipa
 From then on Pundarika attended the Lord's kirtanas in the house of Srivasa every night. The “Chaitanya-bhagavata,”
 listing the few intimate associates admitted to these night kirtanas at Srivasa's house and sometimes at
 Chandrashekhara's, names Nityananda, Gadadhara, Advaita, Srivasa, Vidyanidhi, Murari, Hiranya, Haridasa, Gangadasa and
-others (Madhya 8.111–116). <!-- F48 -->
+others (Madhya 8.111–116). Kavi Karnapura writes in the “Chaitanya-chandrodaya” that day after day the Lord danced
+ecstatically to the singing of His dear associates — now in Srivasa's house, now at Acharyaratna's, now “in the dwelling
+of Sri Vidyanidhi,” now in Murari's house (Act 2, v. 17); and when the Lord presented His drama in Acharyaratna's house,
+He Himself appointed as singers Srirama and others, and also Acharyaratna and Vidyanidhi (Act 3). <!-- F48 F83 F80 -->
 
 He was present too on the day of the Mahaprakasha, when for seven praharas — the “sat-prahariya bhava” — the Lord
 openly, concealing nothing, poured out His mercy on all His associates. <!-- F49 -->
@@ -220,11 +248,20 @@ Acharya were well acquainted with the pastimes of Lord Chaitanya.” (CB, Madhya
 
 Seeing how the delivered brothers sat among the devotees showing the signs of prema, and what good fortune had befallen
 them, Pundarika was wholly absorbed in ecstasy. And afterwards the Lord went with all His associates to the Ganga and
-sported in her waters; Vidyanidhi was there too (CB, Madhya 13.337). <!-- F50 -->
+sported in her waters; Vidyanidhi was there too (CB, Madhya 13.336–339). <!-- F50 -->
 
 According to the “Bhakti-ratnakara,” as one of the biographies quotes it, Mahaprabhu celebrated the appearance day of
 Srimati Radharani in the house of Pundarika Vidyanidhi[^10]. Thus in Navadvipa Radhashtami was kept in the house of
 Vrishabhanu. <!-- F51 Q9 -->
+
+When the Lord left Navadvipa and accepted sannyasa, Vidyanidhi, like all His associates, was in separation from Him.
+Karnapura puts this plea into his mouth: “O love, obeisance to you — for nowhere are you born without pretence! Even
+towards Him Whose mercy is free of pretence you are false — otherwise how could I still remain alive?”
+(“Chaitanya-chandrodaya,” Act 4, v. 29). And when the Lord came to Shantipur, Vidyanidhi was among the devotees who
+gathered to Him at Advaita's house:
+
+“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
+<!-- F80 F77 -->
 
 ## In Nilachala
 When the Lord settled in Puri, the Vaishnavas of Gauda came to Him every year and stayed there for four months;
@@ -240,10 +277,18 @@ who set out from Gauda for Nilachala in the third year, the “Charitamrita” s
 “Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with his two brothers
 set out on the road with their travelling bags.” (CC, Madhya 16.16) <!-- F52 Q10 Q19 -->
 
-In Puri he cleaned the Gundicha temple together with the Lord and the devotees and honoured maha-prasada with them.
-<!-- F54 -->
+The “Chaitanya-bhagavata,” listing the travellers, says: “With great joy went Pundarika Vidyanidhi too, remembering
+whom Gaurachandra weeps aloud” (Antya 8.10); Murari Gupta also names him among them (4.17.3: “Pundarikaksha
+Vidyanidhi, the treasury of love”), and so does the “Charitamrita” (Antya 12.13). When the Bengalis first came to Puri,
+Gopinatha Acharya, pointing them out from the palace roof to King Prataparudra, named “Vidyanidhi Acharya” too (CC,
+Madhya 11.84; so also in the “Chaitanya-chandrodaya,” Act 8), and the Lord embraced and glorified each of those who had
+come — Acharyaratna, Vidyanidhi, Gadadhara and others (CC, Madhya 11.159–160). <!-- F73 F78 -->
 
-Pundarika's closest friend in Nilachala was Svarupa Damodara. Svarupa felt for him the love of friendship,
+In Puri he cleaned the Gundicha temple together with the Lord and the devotees and honoured maha-prasada with them[^12].
+<!-- F54 F81 -->
+
+Pundarika's closest friend in Nilachala was Svarupa Damodara. Their friendship began earlier still, when Svarupa bore
+the name Purushottama Acharya (CB, Antya 10.52). Svarupa felt for him the love of friendship,
 sakhya-priti; coming to Nilachala, Vidyanidhi lived together with him, and the two friends delighted in talks about
 Krishna, opening their hearts to each other without reserve (CB, Antya 10.101–102). Every day at dawn they went
 together for darshana of Jagannatha (CB, Antya 10.159). <!-- F55 -->
@@ -251,7 +296,10 @@ together for darshana of Jagannatha (CB, Antya 10.159). <!-- F55 -->
 When the Lord with all the devotees sported in the waters of Lake Narendra, the friends were together there too:
 
 “The two friends, Pundarika Vidyanidhi and Svarupa Damodara, smiled as in ecstasy they splashed water on each other.”
-(CB, Antya 8.124)[^12] <!-- F53 Q11 -->
+(CB, Antya 8.124)[^13] <!-- F53 Q11 -->
+
+And in the days at Gundicha after the Ratha-yatra, when the Lord held water pastimes in Lake Indradyumna and the
+devotees contended in pairs, Vidyanidhi met Svarupa Damodara in the water (CC, Madhya 14.75–80). <!-- F79 -->
 
 ## The Mantra Received Again
 Many years later, in Puri, the bond of guru and disciple was revealed once more. One day Gadadhara Pandita came to Sri
@@ -271,18 +319,30 @@ him the Lord teaches both instructors and disciples: a mantra passed on to an un
 one's own guru and not from anyone else — and indeed the Lord Himself would not repeat it in the guru's place.
 <!-- Q14 I4 -->
 
-And so it happened: ten days later Pundarika Vidyanidhi came to Nilachala, and the Lord, smiling, exclaimed: “Father
-has come! Father has come!” (CB, Antya 10.68–69). Gadadhara went to his guru and asked him to give him the ishta-mantra
-again, and he lovingly gave it (CC, Madhya 16.78). Vrindavana Dasa Thakura, having told of this, exclaims: “What more
-can be said of the glory of Premanidhi, when his disciple is Gadadhara, the very limit of divine love?” (CB, Antya
-10.79–80). <!-- F57 Q13 -->
+And so it happened. One day the Lord, absorbed in bhakti-rasa, felt within Himself that Vidyanidhi had come: no sooner
+had He thought of him than Vidyanidhi appeared before Him. The Lord, smiling, exclaimed: “Father has come! Father has
+come!” Premanidhi was beside himself with prema; the Lord pressed him to His breast and wept, all the Vaishnavas around
+wept, and their love for Premanidhi kept growing (CB, Antya 10.67–73). There, before the Lord, he met his old friend
+Svarupa: each tried to take the dust of the other's feet, they pulled and pushed each other, and neither could prevail,
+while Gauranga watched them and laughed (CB, Antya 10.74–76). The Lord asked him to stay for a while in Nilachala, and
+he, counting it a great fortune, remained near the Lord; the Lord gave him lodging at Yameshvara, on the shore of the
+ocean (CB, Antya 10.77–78, 85). Gadadhara went to his guru and asked him to give him the ishta-mantra again, and he
+lovingly gave it (CB, Antya 10.79; CC, Madhya 16.78). Vrindavana Dasa Thakura, having told of this, exclaims: “What more
+can be said of the glory of Premanidhi, whose disciple is Gadadhara, the very limit of divine love?” (CB, Antya 10.80).
+<!-- F57 Q13 F74 -->
+
+His glory was sung by Advaita, Srivasa, Murari and Haridasa, and there was no Vaishnava who did not glorify him; he
+himself served all the devotees with body, speech and mind, and there was not a grain of pride in him. The rest of the
+story, Vrindavana Dasa says, he wrote down from the lips of Gadadhara himself (CB, Antya 10.81–84). <!-- F74 -->
 
 ## Odana-shashthi
-In the year when Vidyanidhi stayed on in Puri, he saw the festival of Odana-shashthi (CC, Madhya 16.76–78). On this day,
+In the year when Vidyanidhi stayed on in Puri, he saw the festival of Odana-shashthi (CC, Madhya 16.76–78). Gaurasundara
+with all the devotees also went to see Jagannatha being dressed — He Himself both the worshipper and the One worshipped
+(CB, Antya 10.90–95). On this day,
 at the beginning of winter, Jagannatha is dressed for the first time in winter garments; the cloth for them is new, not
 yet washed, and still contains weaver's starch — mar (“manduya”), according to one of the biographies made from
 tapioca. It is the pujaris who dress the Lord. And according to the smriti, starched cloth is considered impure.
-<!-- F58 -->
+But the “Chaitanya-bhagavata” says: “As He wishes, so His servants act” (Antya 10.89). <!-- F58 F75 -->
 
 Pundarika was a strict guardian of purity and Vaishnava etiquette, and he spoke of this with his friend Svarupa
 Damodara: “Why have they put unwashed cloth on the Lord? Everyone here knows both shruti and smriti.” Svarupa replied
@@ -326,8 +386,11 @@ off lightly” (CB, Antya 10.142–144). In the morning the devotees saw the mar
 too. <!-- F64 -->
 
 Every morning Svarupa would call for his friend so that they could go together for darshana of Jagannatha. That day
-Vidyanidhi did not get up from his bed. He called Svarupa inside and told him in detail why his cheeks were swollen
-(CB, Antya 10.159–172). Svarupa, seeing the Lord's mercy to his friend, rejoiced: a true friend always rejoices in his
+Vidyanidhi did not get up from his bed. He called Svarupa inside and, smiling, told him why his cheeks were swollen:
+“Last night all my doubts were dispelled. For two dandas Jagannatha and Balarama struck my cheeks, saying: ‘You have
+censured the cloth We wear.’ I am ashamed to show myself until my cheeks are healed; this should not be told to others.
+A great fortune has befallen me: had I not received fitting punishment, I would have fallen into a blind well” (CB,
+Antya 10.159–172). Svarupa, seeing the Lord's mercy to his friend, rejoiced: a true friend always rejoices in his
 friend's good fortune.
 
 “Damodara Svarupa said: ‘Listen, brother. I have never seen such a wonderful punishment, nor heard of anything like it.
@@ -340,7 +403,9 @@ This story shows how dear Pundarika is to Krishna and Baladeva. To non-devotees 
 rewards nor punishes them. But a dear devotee, wishing his good, He Himself purifies — by punishment in a dream and in
 other ways — and personally punishes thus only His very closest. The “Chaitanya-bhagavata” itself says: if a man in a
 dream receives punishment or wealth, all vanishes on waking, but the Lord's punishment and mercy in a dream are visible
-to all (Antya 10.149–150). <!-- F66 I6 -->
+to all (Antya 10.149–150). There is no one in the world more fortunate than Vidyanidhi, adds Vrindavana Dasa: not even
+His son Pradyumna did the Lord teach in this way, and with non-devotees He does not speak even in a dream (Antya
+10.145–151). <!-- F66 I6 F76 -->
 
 ## True Renunciation
 The appearance of a rich man that Pundarika wore is neither a flaw nor a concession to the world, but a veil with
@@ -350,6 +415,13 @@ true vairagya is one and the same in all of them — the summit of the thirst to
 of them outwardly lived in wealth and others in utter renunciation. To non-devotees only a crude giving up of things
 looks like renunciation; but renunciation is measured not by poverty but by the thirst for service to Krishna, and
 Pundarika's outward wealth in no way distinguishes his vairagya from the vairagya of the Gosvamis. <!-- F68 I7 -->
+
+Srila Bhaktisiddhanta writes of this in his commentaries on the “Chaitanya-bhagavata”: when materialists see the
+prosperity of such exalted Vaishnavas as Pundarika Vidyanidhi or Ramananda Raya, it only bewilders them the more — from
+the blindness born of intoxication with the senses (on Madhya 16.148). The perfect qualities of Pundarika Vidyanidhi,
+Ramananda Raya and Nityananda Prabhu any intelligent person will see and understand, while the unfortunate, searching
+for materialism in Vaishnavas, only heap up offences; and to imitate the outward guise of a paramahamsa without those
+qualities is ruinous (on Antya 6.18). <!-- F82 -->
 
 ## Vrishabhanu
 Kavi Karnapura reveals who Pundarika was in Krishna's lila:
@@ -361,10 +433,11 @@ him is considered to be Sri Madhava Mishra, and his wife Ratnavati is declared b
 <!-- F2 F4 F5 Q1 -->
 
 King Vrishabhanu is the father of Srimati Radharani, and Mahaprabhu is Krishna Himself, Who has accepted the mood and
-radiance of Radha. Therefore, tasting Radha's feelings, the Lord called Pundarika “father” — and with tears: “Bap
-Pundarika!” — “Father Pundarika!”[^13] Gadadhara, Pundarika's disciple, is Radha Herself; that is why the love of guru
+radiance of Radha. Karnapura's words allow two readings: the Lord called Pundarika “father” when afflicted by
+separation like Radha — or when afflicted by separation from Radha, in His own mood as Krishna; so Srila Bhaktisiddhanta
+renders this verse. And the Lord called him so with tears: “Bap Pundarika!” — “Father Pundarika!”[^14] Gadadhara, Pundarika's disciple, is Radha Herself; that is why the love of guru
 and disciple was the love of father and daughter. According to the “Gaura-ganoddesha-dipika,” a special manifestation
-of Vrishabhanu is also Madhava Mishra, Gadadhara's father, and Ratnavati is Kirtida, Radha's mother. <!-- F3 F43 -->
+of Vrishabhanu is also Madhava Mishra, Gadadhara's father, and Ratnavati is Kirtida, Radha's mother. <!-- F3 F43 F70 -->
 
 ## Significance
 The “Chaitanya-bhagavata” concludes its account of him thus:
@@ -373,8 +446,11 @@ The “Chaitanya-bhagavata” concludes its account of him thus:
 
 And recalling that he did not enter the Ganga, fearing to touch her with his feet, but only looked at her and drank her
 water, and that the Lord always wept when calling him, “O father, Pundarika!”, Vrindavana Dasa Thakura promises: whoever
-hears of the life of Pundarika Vidyanidhi will surely attain the lotus feet of Krishna (CB, Antya 10.179–181)[^14].
-<!-- F67 Q18 -->
+hears of the life of Pundarika Vidyanidhi will surely attain the lotus feet of Krishna (CB, Antya 10.179–181)[^15].
+Vrindavana Dasa more than once glorifies Gaura as “the life and wealth of Pundarika Vidyanidhi” (Madhya 7.3; 8.2), “the
+abode of love of Vakreshvara and Pundarika” (Madhya 9.4), “He Who captivated the heart of Pundarika Vidyanidhi” (Antya
+7.4); and Lochana Dasa at the beginning of the “Chaitanya-mangala” sings: “Joyfully I glorify Pundarika Vidyanidhi, for
+whom Mahaprabhu wept aloud” (Sutra-khanda, part 1, v. 23). <!-- F67 Q18 F72 -->
 
 The life of Pundarika Vidyanidhi is a lesson in how to recognise a Vaishnava. Beneath the guise of a wealthy nobleman
 he kept a prema that, at a single verse about Krishna's mercy, scattered all his “luxury”; the Lord longed for him
@@ -387,22 +463,25 @@ When and where Pundarika Vidyanidhi left this world, the sources do not say: not
 or the place of his departure; nor is the day of his departure in our calendar.
 
 
-[^1]: One of the biographies, following the “Gaura-ganoddesha-dipika” (54), also calls him Pundarikaksha; the verse
-    itself says *puṇḍarīkākhyaḥ*, “named Pundarika.” The same biography writes that the Lord's associates also called
-    him “Acharyanidhi” — so it understands the list of Bengali devotees who carry the holy name to the world:
-    “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara” (CC, Antya 7.48). The
-    “Charitamrita” itself does not specify who Acharyanidhi is, and this identification remains the opinion of one
-    author.
-[^2]: According to another opinion, which one of the biographies cites, Pundarika's father was named Shuklambara.
-[^3]: The “Gaura-ganoddesha-dipika” (57) says: “A special manifestation of him is considered to be Sri Madhava Mishra,
-    and his wife Ratnavati is declared by the wise to be Kirtida.” The words “his wife” refer more naturally to Madhava
-    Mishra; so this verse is understood by other biographies as well, in which Ratnavati is the mother of Gadadhara
-    Pandita. Two biographies read the verse otherwise and call Ratnavati Pundarika's wife.
+
+[^1]: One of the biographies, following the “Gaura-ganoddesha-dipika” (54), also calls him Pundarikaksha; so too Srila
+    Bhaktisiddhanta reads this verse (*puṇḍarīkākṣo*), while our edition has *puṇḍarīkākhyaḥ*, “named Pundarika.” Srila
+    Bhaktisiddhanta, in his commentary on the “Chaitanya-bhagavata” (Adi 2.36–37), writes that Pundarika is also known
+    as Premanidhi and Acharyanidhi; so one of the biographies too understands the list of Bengali devotees who carry the
+    holy name to the world: “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara,
+    Vakreshvara” (CC, Antya 7.48). The “Charitamrita” itself does not explain who Acharyanidhi is; the name also stands
+    in its other lists — Madhya 10.82, 12.157; Antya 10.4, 10.120, 10.139.
+[^2]: The “other opinion” about Shuklambara is repeated after Srila Bhaktisiddhanta by one of the biographies as well.
+[^3]: So also two biographies. The “Gaura-ganoddesha-dipika” (57) says: “A special manifestation of him is considered
+    to be Sri Madhava Mishra, and his wife Ratnavati is declared by the wise to be Kirtida.” The words “his wife” may
+    refer either to Pundarika or to Madhava Mishra; other biographies understand them in the second way, and in them
+    Ratnavati is the mother of Gadadhara Pandita.
 [^4]: The name of the village is spelt differently — Meghal, Meghala, Mekhala; in substance it is one and the same
     place. The distances too are given differently: according to some, the Hathazari police district lies six kroshas
     north of Chattagrama, and the village one krosha east of it; according to others, the village is two miles east of
-    Hathazari and about twelve miles north of the town. One of the biographies renders the ten kroshas to Chhanhara as
-    “about twenty miles.”
+    Hathazari and about twelve miles north of the town; according to Srila Bhaktisiddhanta's commentary, three
+    kilometres east of Hata-hajari and eighteen north of Chattagrama. One of the biographies renders the ten kroshas to
+    Chhanhara as “about twenty miles”; Srila Bhaktisiddhanta gives thirty kilometres.
 [^5]: According to one of the biographies, Mukunda introduced Gadadhara only after Pundarika had come to himself after
     his ecstasy.
 [^6]: One of the biographies also mentions a hookah among these furnishings; the “Chaitanya-bhagavata” does not.
@@ -410,22 +489,29 @@ or the place of his departure; nor is the day of his departure in our calendar.
     verses of the “Bhagavatam” (3.2.23 and 10.6.35), as in the “Chaitanya-bhagavata”; according to others, only one
     verse (3.2.23), its number being given wrongly in one place (4.2.23); according to a third, a verse about Krishna's
     lila without further detail.
-[^8]: According to one account, it was Mahaprabhu Himself who advised Gadadhara to atone for the offence by initiation
-    from Pundarika; according to others, Gadadhara decided this himself, and the Lord only joyfully approved.
-[^9]: According to one of the biographies, Pundarika came to the Lord the very night that Gadadhara and Mukunda told
+[^8]: According to one of the biographies, Pundarika came to the Lord the very night that Gadadhara and Mukunda told
     Him of his arrival; the “Chaitanya-bhagavata” says simply “one night” (Madhya 7.123).
+[^9]: According to one account, it was Mahaprabhu Himself who advised Gadadhara to atone for the offence by initiation
+    from Pundarika; according to others, Gadadhara decided this himself, and the Lord only joyfully approved. One of the
+    biographies writes that Gadadhara told the Lord of Vidyanidhi's arrival together with Mukunda.
 [^10]: The verse number (“Bhakti-ratnakara” 12.3177) is given after this biography; the twelfth wave of that book is not
     yet in our translation, and the verse has not been checked.
 [^11]: One of the biographies refers here in different places to Madhya 1.255–256 and to “Madhya 9.255–256”; the
     correct reference is Madhya 1.255.
-[^12]: When these pastimes took place the biographies say differently: according to one, at the time of the
+[^12]: So says one of the biographies. In the “Charitamrita,” at the feast after the cleaning of Gundicha, Acharyanidhi
+    is named among those seated with the Lord (Madhya 12.157); if this is Pundarika (see note 1), that is the source of
+    the account.
+[^13]: When these pastimes took place the biographies say differently: according to one, at the time of the
     Ratha-yatra; according to another, at Jagannatha's Chandana-yatra, at Narendra-sarovara (Chandan-pukur). According
     to the “Chaitanya-bhagavata” (Antya 8), the devotees of Gauda came to Nilachala that time for the Ratha-yatra, and
-    the Lord held the water pastimes at the Chandana-yatra, so both reports are compatible. One of the biographies
-    wrongly refers here to the “Charitamrita” (Antya 8.124); the verse is from the “Chaitanya-bhagavata.”
-[^13]: One of the biographies, rendering this verse in its own words, writes otherwise: the Lord called him “father”
-    when, in His own mood as Krishna, He suffered separation from Radha. Elsewhere the same biography says that the Lord
-    called him so in the mood of Srimati Radharani; so our translation renders the verse. The words *rādhā-viraha-kātaraḥ* allow both readings: “afflicted by
-    separation, like Radha” and “afflicted by separation from Radha.” The biographies cite verses 54–57 as one block under the number 54.
-[^14]: One of the biographies gives the numbers Antya 10.183–184 for the last verses; in our edition these are Antya
+    the pastimes on the Narendra took place at the festival of the Chandana-yatra, on the day of their arrival; another
+    water contest of Vidyanidhi and Svarupa, after the Ratha-yatra, is described by the “Charitamrita” — in Lake
+    Indradyumna (Madhya 14.80). One of the biographies wrongly refers here to the “Charitamrita” (Antya 8.124); the
+    verse is from the “Chaitanya-bhagavata.”
+[^14]: The words *rādhā-viraha-kātaraḥ* allow both readings: “afflicted by separation, like Radha” and “afflicted by
+    separation from Radha.” The second is found in the rendering of the verse in Srila Bhaktisiddhanta's commentary on
+    the “Chaitanya-bhagavata” (Adi 2.36–37) and in one of the biographies; elsewhere the same biography says that the
+    Lord called him so in the mood of Srimati Radharani; so our translation renders the verse. The biographies cite
+    verses 54–57 as one block under the number 54.
+[^15]: One of the biographies gives the numbers Antya 10.183–184 for the last verses; in our edition these are Antya
     10.180–181.
