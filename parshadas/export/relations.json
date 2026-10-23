@@ -4926,7 +4926,9 @@
    "F16",
    "F21",
    "F22",
-   "F23"
+   "F23",
+   "F79",
+   "F86"
   ],
   "events": [
    "ev-danda-broken",
@@ -4969,9 +4971,22 @@
   "who": "@gadadhara-pandita",
   "facts": [
    "F5",
-   "F11"
+   "F11",
+   "F82",
+   "F91",
+   "F92",
+   "F97",
+   "F98",
+   "F99"
   ],
-  "note": "По B 754 и ЧБ — среди спутников из Шантипура; с ним и Сварупой — в мадхура-расе (ЧЧ Мадхья 2.78)."
+  "events": [
+   "ev-gadadhara-jagadananda-in-lords-house",
+   "ev-jagadananda-childhood-quarrel",
+   "ev-parrot-sings-gaura",
+   "ev-jagadananda-giridhari-seva",
+   "ev-gadadhara-vallabha-initiation"
+  ],
+  "note": "Друг детства (ПВ, Джаянанда); по B 754 и ЧБ — среди спутников из Шантипура; с ним и Сварупой — в мадхура-расе (ЧЧ Мадхья 2.78); послан звать его к Господу (ЧЧ Антья 7.150)."
  },
  {
   "from": "@jagadananda-pandita",
@@ -4988,7 +5003,10 @@
    "F58",
    "F62",
    "F75",
-   "F76"
+   "F76",
+   "F82",
+   "F90",
+   "F95"
   ],
   "events": [
    "ev-jagadananda-bed-banana",
@@ -5004,7 +5022,8 @@
    "F16",
    "F17",
    "F18",
-   "F19"
+   "F19",
+   "F88"
   ],
   "events": [
    "ev-sarvabhauma-deliverance"
@@ -5026,7 +5045,9 @@
    "F68",
    "F69",
    "F70",
-   "F71"
+   "F71",
+   "F80",
+   "F102"
   ],
   "events": [
    "ev-jagadananda-advises-sanatana",
@@ -5041,12 +5062,15 @@
   "facts": [
    "F39",
    "F40",
-   "F41"
+   "F41",
+   "F92",
+   "F93",
+   "F97"
   ],
   "events": [
    "ev-jagadananda-visits-shachi"
   ],
-  "note": "Ежегодно носил ей прасад и вести; рассказал о тайных приходах Господа к ней."
+  "note": "Ежегодно носил ей прасад и вести; рассказал о тайных приходах Господа к ней; в детстве — в её доме (ПВ 2.24; Джаянанда)."
  },
  {
   "from": "@jagadananda-pandita",
@@ -5076,16 +5100,67 @@
  },
  {
   "from": "@jagadananda-pandita",
-  "type": "companion",
+  "type": "patron",
   "who": "@shivananda-sena",
   "facts": [
    "F33",
-   "F42"
+   "F42",
+   "F89",
+   "F101"
   ],
   "events": [
-   "ev-nrisimhananda-three-offerings"
+   "ev-nrisimhananda-three-offerings",
+   "ev-shivananda-raises-jagadananda"
   ],
-  "note": "Жил у него в Бенгалии (ЧЧ Антья 2.43); в его доме приготовлено масло чанданади."
+  "note": "Воспитатель и защитник: в детстве учил его «Бхагаватам» и «Гите», привёл в Надию к Господу (ПВ 8.17–19); жил у него в Бенгалии (ЧЧ Антья 2.43; «Чандродая», акт 9); в его доме приготовлено масло чанданади."
+ },
+ {
+  "from": "@jagadananda-pandita",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F83",
+   "F87",
+   "F88",
+   "F89",
+   "F91",
+   "F101"
+  ],
+  "note": "Сын Шивананды, «живёт в моей деревне» (ПВ 8.15); пишет о нём в «Чандродае» и махакавье."
+ },
+ {
+  "from": "@jagadananda-pandita",
+  "type": "other",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F77",
+   "F82"
+  ],
+  "events": [
+   "ev-vallabha-bhatta-puri"
+  ],
+  "note": "Раздавал прасад на его пиру (ЧЧ Антья 7.66)."
+ },
+ {
+  "from": "@jagadananda-pandita",
+  "type": "other",
+  "who": "@madhavi-dasa",
+  "facts": [
+   "F93"
+  ],
+  "events": [
+   "ev-jagadananda-visits-shachi"
+  ],
+  "note": "Поэт называет его своим господином (тхакуром) — ПК 1853."
+ },
+ {
+  "from": "@jagadananda-pandita",
+  "type": "met",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F80"
+  ],
+  "note": "Слышал пение ушедшего Младшего Харидаса (ЧЧ Антья 2.153–154)."
  },
  {
   "from": "@jagadananda-pandita",
