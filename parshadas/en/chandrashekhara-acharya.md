@@ -48,11 +48,21 @@ following him, writes that Chandrashekhara is one of the nine nidhis, or Chandra
 Yadunatha Dasa, a disciple of Gadadhara Pandita Gosvami, in the “Shakha-nirnayamrita” praises him, according to one of
 the biographies, as a vessel of Paurnamasi's great love and a full moon of boundless compassion. <!-- F4 Q3 -->
 
+Murari Gupta, his contemporary, speaks of him in the same way — and names his teachers:
+
+“The disciple of them both became the divine Chandrashekhara, a portion of the Moon; greatly renowned, he is celebrated
+on earth as Acharyaratna.” (Murari, 1.4.6)
+
+“Both” here are Sri Madhava Puri and Advaita Acharya, of whom Murari speaks in the preceding verse. Elsewhere he recalls
+“the teacher Chandrashekhara, king of the twice-born”: at the name of Krishna the hairs on his body stood on end, and
+tears streamed down his face (Murari, 1.1.21). <!-- F49 -->
+
 ## Shrihatta and the Lord's Family
-Chandrashekhara's birthplace was Shrihatta (Sylhet) — so, as the biographies attest, Yadunatha Dasa also says. The
+Chandrashekhara's birthplace was Shrihatta (Sylhet) — so, according to one of the biographies, Yadunatha Dasa also
+says. The
 “Chaitanya-bhagavata” sings of the same: Srivasa Pandita, Srirama Pandita and Sri Chandrashekhara-deva, honoured by the
 three worlds, and with them Murari, the physician of the disease of worldly existence — all these Vaishnavas appeared in
-Shrihatta (CB, Adi 2.34–35)[^3]. Later he lived in Navadvipa, on the bank of the Ganga. <!-- F5 Q4 -->
+Shrihatta (CB, Adi 2.34–35)[^3]. Later he lived in Navadvipa. <!-- F5 Q4 -->
 
 His wife was Sarvajaya Devi, Shachi's sister — so it is established in the “Gaudiya-vaishnava-abhidhana.” Srila
 Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” is more cautious: according to some accounts, he writes,
@@ -91,9 +101,13 @@ Madhya 8.111)
 These nights at Srivasa's and at Chandrashekhara's are recalled also in the accounts of Haridasa, Jagadananda,
 Vakreshvara, Buddhimanta Khan, Jagadisha and Sadashiva: all of them sang and danced in both houses. <!-- F13 Q6 -->
 
-Lochana Dasa in the “Chaitanya-mangala” tells how once the devotees, led by Acharyaratna, came to the Lord and saw Him in
-the form of Balarama, and then bathed together in the Ganga. The “Charitamrita” also recalls that when the Lord walked
-about, enraptured, imitating Baladeva, Chandrashekhara saw in Him Sri Balarama Himself (CC, Adi 17.118). <!-- F14 -->
+Lochana Dasa in the “Chaitanya-mangala” and Murari Gupta tell how once the Lord, seized by the bhava of Balarama, told
+Gadadhara to call His Vaishnava friends, and they came, led by Acharyaratna. Seeing the Lord so shaken, Acharyaratna
+asked tenderly: “Tell us Yourself, my boy, what is the cause?” — and the Lord related that He had seen beside Him
+Halayudha, like a white mountain; so in Lochana Dasa, while in Murari (2.14.11–13) all who came ask this question. Then
+in the form of Halayudha the Lord danced with all the devotees, and in the morning they bathed together in the Ganga.
+The “Charitamrita” also recalls that when the Lord walked about, enraptured, imitating Baladeva, Chandrashekhara saw in
+Him Sri Balarama Himself (CC, Adi 17.118). <!-- F14 F50 -->
 
 He was also among the few who saw how the Lord accepted Jagai and Madhai. These two, born in a pure brahmana family, had
 abandoned its dignity and lived by robbery; but by the Lord's mercy a new life began for them: He forgave them and
@@ -106,7 +120,8 @@ Acharya — all of them know all the deeds of Chaitanya (CB, Madhya 13.239–240
 ## The Drama of Vraja
 The most famous event connected with his name took place in his home. Here Mahaprabhu, for the first time in Bengal,
 sang and danced in the mood of the Goddess, devi-bhava — so writes Srila Bhaktisiddhanta. The “Chaitanya-bhagavata”
-(Madhya 18) describes this pastime in detail, and the “Charitamrita” recalls it in two verses:
+(Madhya 18) describes this pastime in detail, Murari Gupta and Lochana Dasa sing of it, and the “Charitamrita”
+recalls it in two verses:
 
 “Then in the house of Sri Chandrashekhara Sri Chaitanya played the role of Rukmini in a drama devoted to Krishna's
 pastimes.” (CC, Adi 17.241)
@@ -168,7 +183,8 @@ By the Lord's power a wondrous effulgence remained in Chandrashekhara's house fo
 
 It seemed as if the moon, the sun and lightning were blazing at once. Whoever came to the Acharya's house could not open
 his eyes, and people asked why; but the Vaishnavas only smiled to themselves and explained nothing (CB, Madhya
-18.227–230). <!-- F30 -->
+18.227–230). Lochana Dasa writes that from the Lord's effulgence in Chandrashekhara's house it was as if hundreds of
+thousands of moons had risen. <!-- F30 F51 -->
 
 ## Vrajapattana
 Chandrashekhara's house came to be called Vrajapattana, “the town of Vraja”: here, as Srila Bhaktisiddhanta writes, the
@@ -196,8 +212,10 @@ the few to whom this could be revealed:
 “I shall accept sannyasa from him. Only to five may You tell of this: to My mother, Gadadhara, Brahmananda Bharati,
 Chandrashekhara Acharya and Mukunda.” (CB, Madhya 28.11–12) <!-- F35 Q16 -->
 
-When the Lord went to Katwa, Chandrashekhara together with Damodara Pandita, as Lochana Dasa relates in the
-“Chaitanya-mangala,” led the devotees after Nityananda. There, according to the “Chaitanya-bhagavata,” all whom the Lord
+In the morning, when the devotees came to the Lord's house and did not find Him, Chandrashekhara was among those who
+wept in the courtyard (CB, Madhya 28.85). As Lochana Dasa relates in the “Chaitanya-mangala,” the devotees sent the
+chief among them after the Lord — Chandrashekhara Acharya, Damodara Pandita, Vakreshvara and others — and Nityananda
+went with them. There, according to the “Chaitanya-bhagavata,” all whom the Lord
 had called beforehand gradually gathered: Nityananda, Gadadhara, Mukunda, Chandrashekhara Acharya and Brahmananda (CB,
 Madhya 28.103–104). <!-- F36 F37 -->
 
@@ -210,12 +228,25 @@ that was prescribed (CB, Madhya 28.132–134). The “Charitamrita” says the s
 necessary rites.” (CC, Adi 17.273)
 
 Thus together with Nityananda and Mukunda Datta he performed according to the shastras all that befitted the pastime
-of sannyasa. <!-- F37 Q11 I4 -->
+of sannyasa; Murari Gupta adds that “the venerable Acharyaratna, knower of the injunctions, performed the worship of
+Krishna according to the rules” (Murari, 3.2.6). <!-- F37 Q11 I4 F52 -->
 
 Then Chandrashekhara returned to Navadvipa and told everyone of the Lord's sannyasa. According to the
-“Chaitanya-bhagavata,” the Lord Himself let him go from Katwa; one of the biographies adds that Mahaprabhu sent His
-mesomashai to Navadvipa-Mayapur to console everyone while He was away. Lochana Dasa writes that Chandrashekhara brought
-the news to Shachi and Vishnupriya, and both wept bitterly. <!-- F38 -->
+“Chaitanya-bhagavata,” the Lord Himself let him go: at dawn, leaving for the forest, He embraced Chandrashekhara and
+wept aloud:
+
+“Go back home and tell all the Vaishnavas that I have gone to the forest. Go home and do not grieve. I cannot leave
+your heart. You are My father, and I am your son. You are My beloved companion birth after birth.” (CB, Antya 1.27–29)
+
+Chandrashekhara fell unconscious, and when he came to himself he went to Navadvipa and told everyone: “The Lord has
+gone to the forest” (CB, Antya 1.30–34). One of the biographies adds that, sending His mesomashai to Navadvipa-Mayapur,
+Mahaprabhu charged him to console everyone while He was away, and that Chandrashekhara had followed the Lord at a
+distance and seen everything with his own eyes. According to the “Chaitanya-mangala,” the Lord let him go after three
+days: “We shall see each other again, soon we shall meet — do not grieve,” — and Chandrashekhara left in tears; he
+brought the news to Shachi and Vishnupriya, and both wept bitterly. Murari Gupta writes that on the seventh day
+Chandrashekhara came to the dejected devotees and, in a voice broken with tears, told them everything — and it is from
+his words that Murari relates the Lord's sannyasa and His frenzy in the land of Radha (Murari, 3.1.8–9; 3.3).
+<!-- F38 F52 F54 -->
 
 The “Charitamrita” tells of these days differently[^12]. After His sannyasa the Lord in ecstasy rushed towards
 Vrindavana, but Nityananda by a stratagem led Him to the Ganga near Shantipura, and sent Chandrashekhara ahead:
@@ -240,8 +271,9 @@ Bengal Kala Krishnadasa met Chandrashekhara too, and Acharyaratna, together with
 the news (CC, Madhya 10.81–84). <!-- F41 -->
 
 From then on, together with the devotees of Gauda, he went to Purushottama-dhama for the chaturmasya and spent those
-months there with the Lord. In Puri he was Mahaprabhu's companion in many pastimes — at the cleansing of the Gundicha
-temple, in the water pastimes in Narendra-sarovara and others. <!-- F42 F43 -->
+months there with the Lord. His name stands both in the lists of those who went with Advaita (Murari, 4.17.3) and among
+those who set out in the third year (CC, Madhya 16.16). In Puri he was Mahaprabhu's companion in many pastimes — at the cleansing of the Gundicha
+temple, in the water pastimes in Narendra-sarovara and others. <!-- F42 F43 F48 F53 -->
 
 In a conversation with Vallabha Bhatta the Lord, speaking of the Vaishnavas born in the land of Bengal, named
 Acharyaratna first, and after him Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara,
@@ -297,9 +329,12 @@ throughout the world — the sankirtana whose beginning the Lord had laid in Nav
     Guru-Gauranga and Radha-Govinda; according to another, an image of Gaura dancing in sankirtana; Srila
     Bhaktisiddhanta's commentary on the “Chaitanya-bhagavata” (Adi 2.34) names Sri Guru-Gauranga and
     Gandharvika-Giridhari, and also the murtis of the acharyas of the four sampradayas.
-[^12]: According to the “Chaitanya-bhagavata” and the “Chaitanya-mangala,” it was the Lord Himself who sent
-    Chandrashekhara to Navadvipa, from Katwa; according to the “Charitamrita,” it was Nityananda, already on the way to
-    Shantipura, and first to Advaita. The biographies follow now one account, now the other, and one gives both.
+[^12]: According to the “Chaitanya-bhagavata,” the “Chaitanya-mangala” and Murari Gupta (3.3.12), it was the Lord
+    Himself who sent Chandrashekhara to Navadvipa; according to the “Charitamrita,” it was Nityananda, already on the
+    way to Shantipura, and first to Advaita. The biographies follow now one account, now the other, and one gives both.
+    The original sources also differ as to who then brought Shachi to the Lord: according to the “Charitamrita,”
+    Chandrashekhara; according to the “Chaitanya-bhagavata” (Antya 1), the “Chaitanya-mangala” and Murari (3.4.8–10),
+    Nityananda.
 [^13]: One of the biographies says that Kala Krishnadasa was sent by Nityananda, another that the Lord sent him “with
     Nityananda and others.” According to the “Charitamrita” (Madhya 10.67–74), Nityananda, Jagadananda, Mukunda and
     Damodara proposed sending him to Bengal, and the Lord permitted it; Nityananda did not go with him.
