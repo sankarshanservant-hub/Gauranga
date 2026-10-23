@@ -3,7 +3,7 @@
 
 ## The Teacher of Navadvipa
 In the Navadvipa of Mahaprabhu's time he was known as Sri Gangadasa Pandita. The “Chaitanya-bhagavata” calls him now
-“vipra Gangadasa,” “Gangadasa the brahmana,” now “the crown of teachers” (adhyapaka-shiromani, Adi 8.26; Madhya 1.267):
+“vipra Gangadasa,” “Gangadasa the brahmana,” now “the crown of teachers” (adhyapaka-shiromani, Adi 8.26; upadhyaya-shiromani, Madhya 1.267):
 in the whole town there was no greater teacher. Yet his glory for all ages is that the Lord Himself studied under him.
 Krishnadasa Kaviraja, describing the tree of Sri Chaitanya, says that Gangadasa Pandita is immeasurably dear to the
 Lord and that the mere remembrance of him can destroy all the fetters of worldly existence (CC, Adi 10.29).
@@ -26,7 +26,8 @@ were born in Radha-desha (Adi 13.61)[^2]. <!-- F8 Q6 -->
 Even before the Lord's advent, when Advaita Acharya returned to Bengal, the local Vaishnavas — Srivasa, Chandrashekhara,
 Gangadasa and others — gathered around Him, and He spent most of His time among them. Grieving that the world had
 forgotten God, Advaita once vowed in anger: “Listen, Shuklambara, Gangadasa, Srivasa! I shall bring Krishna, and
-everyone shall see it: He Himself will descend and deliver all — together with devotees such as you.” <!-- F34 F35 -->
+everyone shall see it: He Himself will descend and deliver all — together with devotees such as you” (CB, Adi
+2.118–119). <!-- F34 F35 -->
 
 Gangadasa lived in Ganganagara, very close to the house of Jagannatha Mishra; so writes Srila Bhaktisiddhanta Sarasvati
 too in his commentary on the “Chaitanya-bhagavata.” According to tradition, when Bhagiratha was leading the Ganga down
@@ -54,10 +55,16 @@ could repeat it whenever He liked (Adi 15.5). Among Gangadasa's thousands of stu
 memory or intellect, and the teacher, marvelling at His gifts, held Nimai to be the best of all and greatly rejoiced in
 it (CB, Adi 8.33–36). <!-- F15 F16 F19 Q10 -->
 
+The teacher seated Nimai first among all the students and said: “Study diligently, My boy — you will become a Bhattacharya, I
+tell you firmly.” “For one whom you bless,” the Lord replied, “is the title of Bhattacharya hard to attain?” (CB, Adi
+8.189–192). Thus He Who is Himself the source of all knowledge gave honour to His teacher's blessing. <!-- F59 -->
+
 Every day, having performed sandhya and His other duties at dawn, Nimai came with the other students to Gangadasa's
-assembly and began to debate: He asked questions, examined the answers, argued and refuted. His companions — Murari
+assembly and began to debate: He asked questions, examined the answers, argued and refuted (CB, Adi 10.6–9); at times
+He refuted all the explanations of the teacher himself — and then at once established them anew (Adi 8.34). His
+companions — Murari
 Gupta, Krishnananda, Kamalakanta (CB, Adi 8.37–38) — had the worst of it: Nimai put tricky logical questions to them,
-and explained one and the same sutra first in one way and then in quite another, and these debates amazed everyone. In
+and would interpret one and the same sutra first so and then quite differently, and these debates amazed everyone. In
 the same school — Gangadasa's Sanskrit tol, his pathashala — Mukunda Datta also studied. Nimai baffled not only
 Mukunda but the senior students too, and even the teacher himself, who only rejoiced that he had so learned a
 student. <!-- F17 F20 -->
@@ -69,7 +76,9 @@ with questions[^4]. <!-- F18 Q9 -->
 
 Surrounded by His students, Sarasvati-pati, the husband of the goddess of learning, Gaurachandra walked about
 Navadvipa, absorbed in the sciences. In the whole town, apart from Gangadasa Pandita, there was no pandita able fully
-to understand His explanations, and only with him, His teacher, did the Lord discuss the books. <!-- F21 -->
+to understand His explanations, and only with him, His teacher, did the Lord discuss the books: Gangadasa is the one
+“greatly fortunate” man from whom, in the words of the “Chaitanya-bhagavata,” the Lord in His pastime “received learning” (Adi
+11.7–8). <!-- F21 -->
 
 Srila Bhaktisiddhanta Sarasvati explains in the “Gaudiya-bhashya” why the Lord became a student. Gaura-Narayana is the
 Lord of Vaikuntha, the sole repository of all the shastras, the very embodiment of the wealth of knowledge. Descending
@@ -77,6 +86,12 @@ into the world, He accepts a form and circumstances resembling human ones and, a
 wished to study grammar and other sciences. He Himself had nothing to acquire: studying with Gangadasa, the Lord merely
 played the role of a student, showing by His own example that a teacher must possess real knowledge, not a show of
 learning[^5]. <!-- F22 Q8 I1 -->
+
+Lochana Dasa and Murari Gupta speak of the same. The young Lord had three teachers — Vishnu Pandita, Sudarshana and
+Gangadasa: “Under Sudarshana and the pandit Gangadasa the Teacher of the world studied — for their own good” (CM,
+Adi-khanda, part 9, v. 707). Murari explains: “He Himself bestowed knowledge on the brahmanas; and under those who were
+the greatest of panditas He studied — for their own great good” (Murari, 1.9.2). The Lord, appearing by His yogamaya in
+a human form, studied to instruct the world and for the good of His teachers (Murari, 1.9.1–3). <!-- F58 -->
 
 ## After Gaya
 In 1509 Nimai returned from Gaya transformed. The Vaishnavas of Navadvipa — Srivasa, Shriman, Gadadhara, Sadashiva,
@@ -93,8 +108,8 @@ student: with reverence and with love. <!-- F23 F24 F25 I2 -->
 “The teacher said: ‘My dear, how glorious Your life is! You have granted liberation to the families of Your
 parents.’” (CB, Madhya 1.122)
 
-Learning that does not lead to devotion to Krishna is a waste of time, whereas devotion delivers one's ancestors on
-both the father's side and the mother's — so one of the biographies explains these words. Then Gangadasa spoke of
+Study that does not bring one to devotion to Krishna is spent in vain, while devotion frees a person's forebears,
+paternal and maternal alike — so one of the biographies explains these words. Then Gangadasa spoke of
 Nimai's students: they all wait for Him alone and without Him do not open their books — nor would they open them even
 if Brahma himself told them to. “Now You have returned at last,” he concluded. “Go home today, and tomorrow begin the
 lessons” (CB, Madhya 1.123–124)[^6]. <!-- F26 F27 Q11 I3 -->
@@ -117,14 +132,16 @@ grandfather is Nilambara Chakravarti, and Your father is Jagannatha Mishra Puran
 and mother there have never been ignorant men. You too are an eminent scholar and possess the deepest knowledge.’”
 (CB, Madhya 1.272–274)
 
-And he told Nimai not to abandon study and from now on to teach His students properly (CB, Madhya 1.275–278). The Lord
-replied:
+And he began to exhort Nimai not to abandon study: “If giving up learning means becoming a devotee, are Your father
+and grandfather then not devotees? By learning a brahmana becomes a Vaishnava-brahmana: how can an unlettered man tell
+right from wrong? Chant the name of Krishna — and study. Teach the shastras to Your students as is proper, and put no
+other meaning into them — I adjure You” (CB, Madhya 1.275–278; retold from the Bengali). The Lord replied:
 
 “‘By the mercy of your feet no one in all Navadvipa can defeat Me in debate.’” (CB, Madhya 1.279)
 
 “I shall teach in the very centre of the town,” He went on, “and we shall see whether anyone has the strength to find a
 flaw in My explanations” (CB, Madhya 1.280–281). Hearing this, Gangadasa was pleased (CB, Madhya 1.282). This
-conversation too is a pastime: Gangadasa played in it his role of a caring teacher-pandita, and the Lord the role of a
+conversation and the teacher's reproaches too are a pastime: Gangadasa played in it his role of a caring teacher-pandita, and the Lord the role of a
 scholar delighting in knowledge (vidya-vilasa). There is no worldly pride in His words: He, the source of all
 knowledge, merely gives honour to His teacher's mercy. <!-- F30 F31 -->
 
@@ -166,7 +183,9 @@ in a childlike mood and playing with the boys, would sometimes go visiting Ganga
 according to one of the biographies, He called on Gangadasa right after He had been worshipped in the house of
 Srivasa. And at night Mahaprabhu held kirtana in the house of Srivasa and sometimes at Chandrashekhara's, and among the
 few intimate associates admitted to these kirtanas the “Chaitanya-bhagavata” names Nityananda, Gadadhara, Advaita,
-Srivasa, Vidyanidhi, Murari, Hiranya, Haridasa — and Gangadasa (Madhya 8.112–116). <!-- F36 F37 -->
+Srivasa, Vidyanidhi, Murari, Hiranya, Haridasa — and Gangadasa (Madhya 8.112–116). Mahaprabhu Himself also called at
+Gangadasa's house (Madhya 8.84), and the “Chaitanya-bhagavata” opens one of its chapters with the words: “Glory to the
+Lord of Gangadasa and Vasudeva!” (Madhya 21.2). <!-- F36 F37 F62 -->
 
 When Nityananda and Haridasa, escaping from Jagai and Madhai, came to the Lord and told Him about them, Mahaprabhu
 asked who these two were:
@@ -183,12 +202,15 @@ Gangadasa was among the few who were present there:
 Acharya were well acquainted with the pastimes of Lord Chaitanya.” (CB, Madhya 13.239–240)
 
 He was there too when Mahaprabhu went with the devotees and with Jagai and Madhai to the Ganga and played in its waters
-(CB, Madhya 13.337). <!-- F42 F43 F44 -->
+(CB, Madhya 13.336–339). <!-- F42 F43 F44 -->
 
 In the house of Chandrashekhara, where the Lord enacted the pastimes of Vraja, Gangadasa also had his part. When
 Brahmananda came on stage with Gadadhara in the guise of the old companion Suprabha, the devotees began to question the
 travellers, and Gangadasa asked: “Where will you stay tonight?” — “You will give us a place,” Brahmananda replied.
-“You ask too much,” Gangadasa retorted. “Go somewhere else” (CB, Madhya 18.102–108). <!-- F45 -->
+“You ask too much,” Gangadasa retorted. “Go somewhere else” (CB, Madhya 18.102–108). Kavi Karnapura in the drama
+“Chaitanya-chandrodaya” adds that for this performance, to which only the worthy were to be admitted, Srivasa at the
+Lord's word “appointed as gatekeeper the best of brahmanas, named Gangadasa, the most trusted man of the Lord” (Act 3).
+<!-- F45 F60 -->
 
 On the day when the procession of nagara-sankirtana moved to the house of Chand Kazi and subdued him, “Gangadasa the
 brahmana” walked with the Lord (CB, Madhya 23.150). And when the procession reached the house of Shridhara, the Lord's
@@ -202,16 +224,25 @@ And when the Lord resolved to take sannyasa, the grief of the Vaishnavas knew no
 “Falling to the ground in the Lord's courtyard, Mukunda, Murari, Shridhara, Gadadhara, Gangadasa, Srivasa and his
 family, Chandrashekhara and Haridasa wept without cease.” (CB, Madhya 28.85) <!-- F48 -->
 
+That last night of the Lord in Navadvipa the “Chaitanya-chandrodaya” shows through the eyes of Gangadasa. Hearing that
+Advaita had come from Shantipura, he goes to Srivasa's house and sees the kirtana: Vakreshvara dances, Vishvambhara
+Himself, Advaita, Nityananda. Towards the end of the night, dozing off, he calls out in his sleep: “O Lord Vishvambhara,
+where are You?” — and at dawn Shachi's messengers are already going about Navadvipa and ask him too whether the Lord is
+with him. When it became clear that the Lord had gone, Srivasa entrusted Gangadasa with the hardest task — to preserve
+the life of the Lord's mother: she trusts his words. Gangadasa brought the devotees her question whether her son was
+well, and then her answer: “What are you hiding? He has only gone the way of his elder brother” (Act 4, v. 38) — the
+way of Vishvarupa, who too had taken sannyasa. <!-- F61 -->
+
 ## Shantipura and Puri
 Having taken sannyasa, the Lord came to Shantipura, to the house of Advaita Acharya, and the devotees of Navadvipa
-hastened there to Him. According to one of the biographies, it was Gangadasa who brought Shachi-mata, longing to see
-her son, to Shantipura[^7]. The “Charitamrita” names him among those who were there with the Lord:
+hastened there to Him, Gangadasa among them[^7]. The “Charitamrita” names him among those who were there with the
+Lord:
 
 “Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
 <!-- F49 -->
 
-When the Lord settled in Puri, Gangadasa was one of the first Bengali devotees to go to Him, and afterwards he went to
-Nilachala for the Ratha-yatra. On that first arrival of the Bengalis the Lord was not in Puri: after the Snana-yatra
+When the Lord settled in Puri, Gangadasa was among the earliest devotees from Bengal who set out to see Him there,
+and afterwards he went to Nilachala for the Ratha-yatra. On that first arrival of the Bengalis the Lord was not in Puri: after the Snana-yatra
 Jagannatha is hidden from view (anavasara), and Mahaprabhu, unable to bear the separation, had gone away to
 Alalanatha; but on learning that the devotees from Gauda had come, He returned at once. King Prataparudra and
 Sarvabhauma watched the arriving Vaishnavas from the palace roof, and Sarvabhauma named each one to the king:
@@ -234,13 +265,27 @@ Sri Rama Pandita, and the dancer of this group was Sri Nityananda (Madhya 13.39)
 Lord appeared now in one form, now in many at once; He Himself danced and sang and drew the devotees into the dance —
 and was so absorbed in this bliss that He paid no heed at all to His own nature[^9]. <!-- F54 F55 Q16 -->
 
-Gangadasa was with the Lord also in the pastimes at Lake Narendra, where Mahaprabhu sported in the water with the
-devotees. Year after year he came from Gauda to Puri together with the other Vaishnavas; the “Charitamrita,” listing
+Year after year Gangadasa came from Gauda to Puri together with the other Vaishnavas; the “Charitamrita,” listing
 those who went there in one of these years, names him too:
 
 “Together with everyone there also went Vasudeva Datta, Murari Gupta, Gangadasa, Shrimana Sena, Shriman Pandita,
 Akinchana Krishnadasa, Murari, Garuda Pandita, Buddhimanta Khan, Sanjaya Purushottama, Bhagavan Pandita, Shuklambara
-Brahmachari and Nrisimhananda Brahmachari.” (CC, Antya 10.9) <!-- F56 -->
+Brahmachari and Nrisimhananda Brahmachari.” (CC, Antya 10.9–11)
+
+The “Chaitanya-bhagavata” says the same: when the time of the Ratha-yatra drew near, “joyfully set out the pandit
+Gangadasa, the remembrance of whom destroys the bonds of karma” (Antya 8.9), and Murari Gupta calls him “the pandita
+named Gangadasa, endowed with every good quality” (Murari, 4.17.4). In Puri, at Lake Narendra, together with Srivasa,
+Shrirama, Haridasa, Vakreshvara, Gopinatha and Chandrashekhara, absorbed in the Lord's pastimes, he splashed water on
+his companions, and they on him (CB, Antya 8.125–126). <!-- F50 F56 -->
+
+In 1514, returning from Ramakeli, the Lord again stayed at Shantipura with Advaita, and Advaita sent a palanquin to
+Navadvipa for Shachi-mata. Her joy at the news “Gaurasundara is in Shantipura” cannot be described (CB, Antya
+4.233–235), and it fell to Gangadasa to escort her there:
+
+“Gangadasa Pandita, the dear associate of the Lord, immediately set out on the way together with Shachi-mata.” (CB,
+Antya 4.237)
+
+Murari Gupta and other devotees went with them (CB, Antya 4.238). <!-- F49 -->
 
 When and where Gangadasa Pandita left this world, the sources do not say. Neither the day of his appearance nor the day
 of his departure is given by any biography; nor are they found in our calendar.
@@ -252,7 +297,9 @@ Kavi Karnapura in the “Gaura-ganoddesha-dipika” reveals who Gangadasa was be
 
 So the guru of Ramachandra became a teacher once again in the pastimes of Lord Gaura: Sudarshana Pandita too taught the
 young Nimai. The biographies speak of this verse differently: one calls Gangadasa a special manifestation
-(prakasha-vigraha) of Vasishtha and does not mention Sudarshana, another names both. <!-- F2 Q1 -->
+(prakasha-vigraha) of Vasishtha and does not mention Sudarshana, another names both. Lochana Dasa and Murari Gupta,
+too, name Sudarshana and Gangadasa side by side as teachers of the young Lord (CM, Adi-khanda, part 9, v. 707;
+Murari, 1.9.1). <!-- F2 Q1 F58 -->
 
 With Krishna's teacher, however, the “Chaitanya-bhagavata” only compares him: “Gangadasa Pandita, like unto
 Sandipani.” Sandipani himself, according to the “Gaura-ganoddesha-dipika,” became in the Lord's pastimes Keshava
@@ -278,7 +325,7 @@ The sources draw the life of Gangadasa Pandita in a few strokes, but each of the
 associate who descended before Him in the role of an elder, he became the teacher of the One Who is Himself the source
 of all knowledge, and took Him into his home almost as a son. The Lord, playing the role of a student, taught by this
 example both students and teachers: a teacher must possess real knowledge, a student must honour his teacher, and
-knowledge that does not lead to devotion to Krishna is fruitless. <!-- F4 I1 I2 I3 -->
+knowledge that does not bring one to devotion to Krishna bears no fruit. <!-- F4 I1 I2 I3 -->
 
 In the Mahaprakasha the Lord revealed that long before He had protected him at the night ferry — and this shows that He
 guards His associates always and alone knows their hidden past. From then on Gangadasa remained beside the Lord to the
@@ -304,9 +351,10 @@ worshipped by the fourteen worlds? <!-- F32 F57 I4 I5 -->
     Nimai had left none of His students had opened a book, and told Him to begin the lessons from the next day;
     according to another, he told Him that neither He nor His students should open their books that day, “even if
     Brahma himself should bid it.” The text follows the Bengali original.
-[^7]: Only one biography says so; another says simply that he came to Shantipura together with the other devotees of
-    Navadvipa. According to the “Charitamrita” (Madhya 3.137), Shachi was brought to Shantipura in a palanquin by
-    Chandrashekhara Acharyaratna.
+[^7]: One of the biographies writes that “after the sannyasa” Gangadasa brought Shachi-mata to Shantipura. This account
+    is taken from the “Chaitanya-bhagavata” (Antya 4.233–239), and there it concerns another visit of the Lord to
+    Shantipura — in 1514 (see below). In 1510, according to the “Charitamrita” (Madhya 3.137), Shachi was brought to
+    Shantipura in a palanquin by Chandrashekhara Acharyaratna.
 [^8]: Which Haridasa sang in this group the biographies understand differently: one, with a question mark, Bada (the
     Elder) Haridasa, another Haridasa Thakura; the “Charitamrita” says simply “Haridasa.”
 [^9]: This is not forgetfulness under the sway of maya: the Lord is the master of maya. Absorbed in the bliss of kirtana
