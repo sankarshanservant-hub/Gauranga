@@ -1953,6 +1953,356 @@
   "note": "Основал Шри Чайтанья Матх на месте его дома (Враджапаттана), 1918 (T)."
  },
  {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F10",
+   "F11",
+   "F15",
+   "F20",
+   "F22",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F36",
+   "F43",
+   "F49",
+   "F53",
+   "F57",
+   "F60",
+   "F67"
+  ],
+  "events": [
+   "ev-damodara-sent-navadvipa",
+   "ev-damodara-shachi-devotion",
+   "ev-lord-refuses-to-see-king",
+   "ev-damodara-late-gita-pustika"
+  ],
+  "note": "Вакья-данда — словесные упрёки Господу (сын вдовы, встреча с царём) — лила чистой премы по воле Господа: «волна чистой любви; нет у Меня такого близкого» (ЧЧ Антья 3.19); Господь любит его с почтением (гаурава)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "sibling",
+  "who": "@shankara-pandita",
+  "facts": [
+   "F15",
+   "F16",
+   "F17",
+   "F43",
+   "F55"
+  ],
+  "note": "Младший брат; Господь поручил его заботам Дамодары (ЧЧ Мадхья 11.146–148); по ЧБ Антья 3.185 пришли в Нилачалу вместе."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "sibling",
+  "who": "@pitambara",
+  "facts": [
+   "F64"
+  ],
+  "note": "Старший брат — только по ВВ (Девакинандана 2.27–28; санскр. вандана 1.43); ГГД 168 — Кавери, без указания родства."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F4",
+   "F5",
+   "F33",
+   "F34",
+   "F35",
+   "F53",
+   "F56",
+   "F57",
+   "F60",
+   "F70"
+  ],
+  "events": [
+   "ev-damodara-sent-navadvipa",
+   "ev-damodara-shachi-devotion"
+  ],
+  "note": "Пришёл с ней в Шантипур; послан Господом её охранять и передать тайное послание; жил подле неё; свидетельствовал Господу о её Вишну-бхакти (ЧБ Антья 9; Мурари 4.20)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F40",
+   "F58",
+   "F62",
+   "F63"
+  ],
+  "events": [
+   "ev-damodara-murari-question"
+  ],
+  "note": "Собеседник Мурари: вся «Шри Кришна-чайтанья-чаритамрита» — рассказ Мурари в ответ на вопросы Дамодары; так и в ЧМ («беседа с Дамодарой из уст Мурари»)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F5",
+   "F6",
+   "F7",
+   "F10",
+   "F12",
+   "F13",
+   "F18",
+   "F41"
+  ],
+  "events": [
+   "ev-journey-to-puri",
+   "ev-departure-for-south",
+   "ev-return-from-south",
+   "ev-messenger-to-gauda-after-south"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F5",
+   "F6",
+   "F7",
+   "F8",
+   "F10",
+   "F12",
+   "F13",
+   "F18",
+   "F19",
+   "F24",
+   "F37",
+   "F45"
+  ],
+  "events": [
+   "ev-sarvabhauma-deliverance"
+  ],
+  "note": "Вместе принесли Господу два стиха Сарвабхаумы; раздатчики прасада."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F5",
+   "F6",
+   "F7",
+   "F8",
+   "F12",
+   "F13",
+   "F18"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F19",
+   "F23",
+   "F24",
+   "F52"
+  ],
+  "note": "В первой группе киртана Ратха-ятры — подпевающий у Сварупы; вместе раздавали прасад."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F7",
+   "F8",
+   "F20",
+   "F45",
+   "F66"
+  ],
+  "events": [
+   "ev-sarvabhauma-deliverance"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@kala-krishnadasa",
+  "facts": [
+   "F13",
+   "F14",
+   "F47"
+  ],
+  "events": [
+   "ev-messenger-to-gauda-after-south"
+  ],
+  "note": "Предложили послать его вестником в Гауду; позже встретился с ним в Гауде (T, B)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F18"
+  ],
+  "events": [
+   "ev-haridasa-puri-hut"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F20",
+   "F22",
+   "F49"
+  ],
+  "events": [
+   "ev-lord-refuses-to-see-king"
+  ],
+  "note": "Господь сослался на него, отказываясь видеть царя; Дамодара: «Ты подвластен любви — встретишься с ним»."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@advaita",
+  "facts": [
+   "F4",
+   "F23",
+   "F53",
+   "F56",
+   "F59",
+   "F71"
+  ],
+  "note": "Адвайта (по ЧЧ) дал его Господу в спутники в Пури (F44); танцор первой группы киртана; прасад вайшнавам во главе с Адвайтой."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F27",
+   "F28"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F41",
+   "F65"
+  ],
+  "events": [
+   "ev-nityananda-follows-to-katwa"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "companion",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F67"
+  ],
+  "events": [
+   "ev-damodara-late-gita-pustika"
+  ],
+  "note": "По ЧЧМ 19.30 прикрыл след удара на его спине."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F54"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F54"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F52"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Слышал пение уже оставившего тело Младшего Харидаса."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F38",
+   "F69"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F39",
+   "F69"
+  ]
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@vishnupriya",
+  "facts": [
+   "F71"
+  ],
+  "note": "Только по «Анурагавалли» (C) и «Адвайта-пракаше» (D)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "met",
+  "who": "@ishana-nagara",
+  "facts": [
+   "F71"
+  ],
+  "note": "АП 22 (D)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "F40",
+   "F61",
+   "F62"
+  ],
+  "note": "Лочан славит его и называет книгу Мурари «беседой с Дамодарой»; по M — Дамодара передал Лочане стихи Мурари (≠ ЧМ)."
+ },
+ {
+  "from": "@damodara-pandita",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F21"
+  ],
+  "note": "Комментарий к ЧЧ Мадхья 12.25 (по T)."
+ },
+ {
   "from": "@dhananjaya-pandita",
   "type": "companion",
   "who": "@nityananda",

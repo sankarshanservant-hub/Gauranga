@@ -4109,6 +4109,10 @@
     "type": "host"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "other"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "companion"
    },
@@ -7497,6 +7501,10 @@
     "type": "in-law"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -8703,6 +8711,10 @@
    {
     "from": "@chandrashekhara-acharya",
     "type": "other"
+   },
+   {
+    "from": "@damodara-pandita",
+    "type": "met"
    },
    {
     "from": "@gauridasa-pandita",
@@ -10667,6 +10679,10 @@
     "type": "friend"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "companion"
    },
@@ -12032,6 +12048,10 @@
    {
     "from": "@chandrashekhara-acharya",
     "type": "guru"
+   },
+   {
+    "from": "@damodara-pandita",
+    "type": "companion"
    },
    {
     "from": "@gadadhara-pandita",
@@ -14562,6 +14582,10 @@
     "type": "other"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
     "from": "@gangadasa-pandita",
     "type": "other"
    },
@@ -14930,6 +14954,10 @@
     "type": "companion"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "other"
+   },
+   {
     "from": "@gangadasa-pandita",
     "type": "companion"
    },
@@ -15260,6 +15288,10 @@
    },
    {
     "from": "@chandrashekhara-acharya",
+    "type": "companion"
+   },
+   {
+    "from": "@damodara-pandita",
     "type": "companion"
    },
    {
@@ -16153,6 +16185,10 @@
     "type": "other"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -16426,6 +16462,177 @@
    "ev-damodara-murari-question",
    "ev-avatara-kinds",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Шайбья, во Врадже резкая на слово (ГГД 159) и др.; происхождение — Навадвипа",
+  "card": "parshadas/cards/damodara-pandita.yaml",
+  "article": {
+   "ru": "parshadas/ru/damodara-pandita.md",
+   "en": "parshadas/en/damodara-pandita.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "conf": "день, год и место явления не названы ни в T/M/B, ни в первоисточниках; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-10-23) дня Дамодары Пандита нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "неизвестно; последнее известие — встреча с Нароттамой и Шринивасой в Навадвипе после ухода Господа (F38, F39); в календаре ШЧСМ дня нет",
+    "facts": [
+     "F38",
+     "F39"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "собеседник Мурари Гупты: его вопросы — рамка «Шри Кришна-чайтанья-чаритамриты» (сочинение Мурари, не его)",
+    "facts": [
+     "F58",
+     "F62"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Шайбья, во Врадже резкая на слово (чанди); в него вошла и Сарасвати-деви",
+    "source": "ГГД 159",
+    "level": "A"
+   },
+   {
+    "in": "tattva",
+    "as": "десятая ветвь древа Шри Чайтаньи, «неистовый в любви», учинивший Господу вакья-данду",
+    "source": "ЧЧ Ади 10.31–32",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Вакья-данда — словесные упрёки Господу (сын вдовы, встреча с царём) — лила чистой премы по воле Господа: «волна чистой любви; нет у Меня такого близкого» (ЧЧ Антья 3.19); Господь любит его с почтением (гаурава)."
+   },
+   {
+    "type": "sibling",
+    "who": "@shankara-pandita",
+    "note": "Младший брат; Господь поручил его заботам Дамодары (ЧЧ Мадхья 11.146–148); по ЧБ Антья 3.185 пришли в Нилачалу вместе."
+   },
+   {
+    "type": "sibling",
+    "who": "@pitambara",
+    "note": "Старший брат — только по ВВ (Девакинандана 2.27–28; санскр. вандана 1.43); ГГД 168 — Кавери, без указания родства."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Пришёл с ней в Шантипур; послан Господом её охранять и передать тайное послание; жил подле неё; свидетельствовал Господу о её Вишну-бхакти (ЧБ Антья 9; Мурари 4.20)."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "Собеседник Мурари: вся «Шри Кришна-чайтанья-чаритамрита» — рассказ Мурари в ответ на вопросы Дамодары; так и в ЧМ («беседа с Дамодарой из уст Мурари»)."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda"
+   },
+   {
+    "type": "companion",
+    "who": "@jagadananda-pandita",
+    "note": "Вместе принесли Господу два стиха Сарвабхаумы; раздатчики прасада."
+   },
+   {
+    "type": "companion",
+    "who": "@mukunda-datta"
+   },
+   {
+    "type": "companion",
+    "who": "@svarupa-damodara",
+    "note": "В первой группе киртана Ратха-ятры — подпевающий у Сварупы; вместе раздавали прасад."
+   },
+   {
+    "type": "met",
+    "who": "@sarvabhauma"
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Предложили послать его вестником в Гауду; позже встретился с ним в Гауде (T, B)."
+   },
+   {
+    "type": "met",
+    "who": "@haridasa-thakura"
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Господь сослался на него, отказываясь видеть царя; Дамодара: «Ты подвластен любви — встретишься с ним»."
+   },
+   {
+    "type": "companion",
+    "who": "@advaita",
+    "note": "Адвайта (по ЧЧ) дал его Господу в спутники в Пури (F44); танцор первой группы киртана; прасад вайшнавам во главе с Адвайтой."
+   },
+   {
+    "type": "companion",
+    "who": "@balabhadra-bhattacharya"
+   },
+   {
+    "type": "companion",
+    "who": "@chandrashekhara-acharya"
+   },
+   {
+    "type": "companion",
+    "who": "@paramananda-puri",
+    "note": "По ЧЧМ 19.30 прикрыл след удара на его спине."
+   },
+   {
+    "type": "met",
+    "who": "@sanatana-gosvami"
+   },
+   {
+    "type": "met",
+    "who": "@vallabha-bhatta"
+   },
+   {
+    "type": "met",
+    "who": "@chhota-haridasa",
+    "note": "Слышал пение уже оставившего тело Младшего Харидаса."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa"
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya"
+   },
+   {
+    "type": "met",
+    "who": "@vishnupriya",
+    "note": "Только по «Анурагавалли» (C) и «Адвайта-пракаше» (D)."
+   },
+   {
+    "type": "met",
+    "who": "@ishana-nagara",
+    "note": "АП 22 (D)."
+   },
+   {
+    "type": "other",
+    "who": "@lochana-dasa",
+    "note": "Лочан славит его и называет книгу Мурари «беседой с Дамодарой»; по M — Дамодара передал Лочане стихи Мурари (≠ ЧМ)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Комментарий к ЧЧ Мадхья 12.25 (по T)."
+   }
   ],
   "related_by": [
    {
@@ -17832,6 +18039,10 @@
   ],
   "related_by": [
    {
+    "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -19058,6 +19269,10 @@
     "type": "other"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -19272,6 +19487,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@damodara-pandita",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -21022,6 +21241,10 @@
     "type": "companion"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -21333,6 +21556,10 @@
   "related_by": [
    {
     "from": "@bhaktivedanta-svami",
+    "type": "other"
+   },
+   {
+    "from": "@damodara-pandita",
     "type": "other"
    },
    {
@@ -23457,6 +23684,10 @@
     "type": "other"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -24157,6 +24388,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@damodara-pandita",
+    "type": "companion"
+   },
    {
     "from": "@ishvara-puri",
     "type": "other"
@@ -26184,6 +26419,10 @@
   ],
   "related_by": [
    {
+    "from": "@damodara-pandita",
+    "type": "sibling"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "companion"
    }
@@ -26251,6 +26490,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@damodara-pandita",
+    "type": "companion"
+   },
    {
     "from": "@raghunatha-bhatta",
     "type": "other"
@@ -29670,6 +29913,10 @@
     "type": "met"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "other"
    },
@@ -30383,6 +30630,12 @@
    "ev-nityananda-departure",
    "ev-advaita-entrusts-madana-gopala",
    "ev-advaita-departure"
+  ],
+  "related_by": [
+   {
+    "from": "@damodara-pandita",
+    "type": "met"
+   }
   ]
  },
  {
@@ -31753,6 +32006,10 @@
   ],
   "related_by": [
    {
+    "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -32568,6 +32825,10 @@
     "type": "met"
    },
    {
+    "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "protege"
    },
@@ -33208,6 +33469,10 @@
    {
     "from": "@bhugarbha",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@damodara-pandita",
+    "type": "met"
    },
    {
     "from": "@gadadhara-pandita",
@@ -37206,6 +37471,10 @@
   ],
   "related_by": [
    {
+    "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "disciple"
    },
@@ -37768,6 +38037,10 @@
    {
     "from": "@bhakti-pramoda-puri",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@damodara-pandita",
+    "type": "other"
    },
    {
     "from": "@gadadhara-pandita",
@@ -42398,7 +42671,13 @@
   "note": "брат Дамодары и Шанкары Пандитов (ГГД 168)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@damodara-pandita",
+    "type": "sibling"
+   }
+  ]
  },
  {
   "id": "@purandara-acharya",
