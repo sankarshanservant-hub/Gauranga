@@ -40,7 +40,8 @@ madhura, especially sweet to the Lord; by it he won His heart. <!-- F5 Q7 Q20 --
 ## Origins
 Where and when Jagadananda was born, who his parents were, of what family and caste he came — the biographies do not
 say. One of them remarks that for one who seeks bhakti the details of a guru's worldly origin do not matter. We can
-only conclude that he came from Bengal: from the very beginning he took part in the kirtanas of Navadvipa, and the Lord
+only conclude that he came from Bengal: from the very beginning he took part in the kirtanas of Navadvipa, the “Prema-vivarta” calls Kavi Karnapura
+his fellow villager, and the Lord
 Himself names him among the Vaishnavas who appeared on the soil of Bengal (CC, Antya 7.48–49). His days of appearance
 and departure are found neither in the biographies nor in our calendar (Sri Chaitanya Saraswat Math). <!-- F7 I6 -->
 
@@ -60,7 +61,10 @@ in the morning Shachi and Jagannatha Mishra fed Jagadananda milk-rice and sent h
 The poet concludes:
 
 “After a quarrel love becomes like pure gold — how much joy there was in my heart! The Lord says: ‘That is why you get
-angry and I get angry: so our love for each other grows.’” (“Prema-vivarta” 2.25) <!-- F97 -->
+angry and I get angry: so our love for each other grows.’” (“Prema-vivarta” 2.25)
+
+Already in this childhood lila sounds the note that will run through his whole life: a quarrel in which love grows.
+<!-- F97 -->
 
 There too he tells how, playing with him and Gadadhara in a forest on the bank of the Ganga, Nimai caught a parrot and
 told it to say “Radha-Krishna,” but the parrot sang “Gaurahari,” calling Nimai Krishna and Gadadhara Radha; the Lord,
@@ -71,7 +75,7 @@ once Shachi brought Gadadhara and Jagadananda into the house, carrying them in h
 in His home; and Jagadananda was among those with whom the Lord set out from Navadvipa for Gaya. <!-- F92 -->
 
 ## In the Kirtanas of Navadvipa
-When the Lord returned from Gaya and began the sankirtana, Jagadananda was with Him from its first days.
+When the Lord, back from Gaya, began the sankirtana, Jagadananda was with Him from its first days.
 
 “Every night the devotees sang kirtana in the house of Srivasa, or sometimes in the house of Chandrashekhara.” (CB,
 Madhya 8.111)
@@ -85,7 +89,7 @@ then adds:
 He was also in the great sankirtana procession through Navadvipa on the day the Lord subdued the Kazi: the
 “Chaitanya-bhagavata,” among the masters of kirtana who went with the Lord that day, names Govinda, Jagadananda,
 Nandana Acharya, Shuklambara and others (Madhya 23.150–152). And when at the end of that day, at Shridhara's house, the
-Lord drank water from his leaking iron pot, all the devotees wept:
+Lord drank from his leaking iron pot, all the devotees wept:
 
 “Govinda, Govindananda, Shrigarbha, Shriman, Kashishvara, Sri Jagadananda and Rama also wept.” (CB, Madhya 23.451)
 <!-- F10 F9 -->
@@ -119,7 +123,7 @@ cooked the meal:
 “Jagadananda cooked the food with a contented heart, and the Lord ate it together with the devotees.” (CB, Antya 2.162)
 <!-- F13 -->
 
-On this journey Jagadananda carried the Lord's staff — the sannyasi's danda — and collected alms. Beyond the
+On this journey it was Jagadananda who bore the staff of the Lord — the sannyasi's danda — and collected alms. Beyond the
 Suvarnarekha river Nityananda and Jagadananda fell behind the others (CB, Antya 2.193), and, going for alms, Jagadananda
 left the danda with Nityananda:
 
@@ -227,7 +231,7 @@ and, when He settled in Puri, remained to serve Him there (Adi 10.124–127). To
 Damodara, Govinda and Kashishvara he went every morning with the Lord for darshan of Jagannatha (Madhya 15.184). <!-- F26 Q6 -->
 
 He especially loved to feed the Lord and the devotees with what he had cooked himself. When the Bengali devotees first
-came to Puri and the Lord Himself began serving them prasada, no one would start eating; then Svarupa seated the Lord
+came to Puri and the Lord set about distributing prasada to them with His own hands, no one would start eating; then Svarupa seated the Lord
 at the meal together with Nityananda, and others began to serve:
 
 “In jubilation Svarupa, Damodara Pandita and Jagadananda began to help him.” (CC, Madhya 11.208) <!-- F25 F29 -->
@@ -292,7 +296,7 @@ to the household (“Chaitanya-chandrodaya,” Act 9). <!-- F89 -->
 
 ## The Nectar of Intimacy
 When Sanatana Gosvami came from Vraja to Nilachala through the forests of Jharikhanda, his body was covered with sores.
-The Lord, heedless of his pleas, embraced him again and again, and Sanatana was tormented by the thought that the
+The Lord, heedless of his pleas, kept clasping him in His arms, and Sanatana was tormented by the thought that the
 discharge from his sores was touching the Lord's body. The Lord Himself had introduced Jagadananda to him, as He had the
 other devotees (Antya 4.109), and one day, when Jagadananda came to him and they had talked of Krishna (Antya 4.135),
 Sanatana asked his advice, and Jagadananda advised him, after seeing the Ratha-yatra, to go to Vrindavana — the land the Lord had given
@@ -364,7 +368,7 @@ myself!’” (CC, Antya 8.13)
 
 Ramachandra Puri always behaved like this: first he overfed people, then he condemned them (Antya 8.15); according to
 one of the biographies, he himself deliberately ate a great deal so as to have something to reproach afterwards.
-Kaviraja, in the view of another biography, here contrasts the sincerity of Jagadananda with the hypocrisy of
+Kaviraja, in the view of another biography, here sets Jagadananda's sincerity against the pretence of
 Ramachandra Puri — a disciple of Madhavendra only in appearance, who had lost the mercy of his guru. <!-- F38 -->
 
 ## Messenger to the Mother
@@ -377,7 +381,7 @@ Jagadananda brought Shachi Devi the Lord's obeisances and words, cloth-prasada o
 temple, sweets and more (Antya 19.6–13)[^13], and spoke with her at length about her son, easing her separation.
 <!-- F39 -->
 
-Once, in the year when the Lord told Nityananda not to come to Puri, Jagadananda, coming to Shachi, revealed a secret
+Once, in the year when Nityananda was asked by the Lord to stay away from Puri, Jagadananda, coming to Shachi, revealed a secret
 to her: “Mother, sometimes Chaitanya comes to you and eats your food, and then says, ‘Today Mother has fed Me to the
 full.’ He eats everything you offer to God, and you think you dreamed it.” And Shachi admitted that sometimes it seems
 to her that Nimai has eaten everything on the tray, but afterwards she takes it for a dream (CC, Antya 12.86–95). So
@@ -522,7 +526,7 @@ experienced the emotions of divine love. When the emaciated Sri Chaitanya lay do
 caused Him only pain.” (CC, Antya 13.4–5)
 
 The devotees could not bear to see this (Antya 13.6). Jagadananda obtained fine cloth, dyed it[^16], stuffed it with
-the cotton of the shimula tree and made a mattress and pillow; he gave them to Govinda, so that he would ask the Lord to
+the cotton of the shimula tree and so made a mattress and a pillow; he gave them to Govinda, so that he would ask the Lord to
 accept the bed, and asked Svarupa Damodara himself to persuade the Lord to lie on it (Antya 13.7–10)[^17].
 <!-- F54 F55 F56 -->
 
@@ -587,7 +591,7 @@ Gokula.” (CC, Antya 13.45) <!-- F65 F66 -->
 Jagadananda lived with Sanatana in his cave, but they ate separately, each according to his custom: Sanatana lived on
 alms — madhukari — while Jagadananda went to a nearby temple and cooked for himself (Antya 13.46–47). One of the
 biographies explains that he was not used to wheat food, and Srila Bhaktivinoda Thakura (“Amrita-pravaha-bhashya”) adds
-that in those days rice and dal were not offered to the Deities in the temples of Vraja. <!-- F67 Q22 -->
+that at that time the temples of Vraja did not offer rice and dal to their Deities. <!-- F67 Q22 -->
 
 Once Jagadananda invited Sanatana to lunch at the temple. A certain sannyasi, Mukunda Sarasvati, had given Sanatana his
 upper cloth[^20], and Sanatana, tying it round his head, came and sat at the temple door (Antya 13.49–51).
@@ -650,7 +654,7 @@ Mahaprabhu a riddle — a tarja (taraja-prahelika), understood by the Lord alone
 people have gone mad. Tell the madman that rice is no longer sold in the market. Tell the madman that the mad one is no
 longer busy with worldly affairs. Tell the madman that a madman has said this.’” (CC, Antya 19.19–21) <!-- F73 Q19 -->
 
-Srila Bhaktivinoda Thakura reveals its meaning: the task for which Advaita had called the Lord is accomplished. Having
+Srila Bhaktivinoda Thakura reveals its meaning: the work for which Advaita had summoned the Lord is done. Having
 read the riddle, Mahaprabhu became ever more absorbed in His states, and the devotees began to think that He would
 soon withdraw. Svarupa was alarmed, and in reply to his question the Lord revealed that the purpose of His descent had
 been fulfilled. <!-- F74 F75 Q22 -->
