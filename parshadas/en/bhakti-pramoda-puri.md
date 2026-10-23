@@ -59,12 +59,22 @@ Gaudiya Math; it was he who performed the samadhi rite of Srila Bhakti Dayita Ma
 <!-- F19 F20 F21 -->
 
 ## Word and Pen
-For more than sixty years he wrote on Vaishnava philosophy and theology — hundreds of poems, essays, stories, diary
-pages, editorials and letters. In his foreword to the Sri Chaitanya Gaudiya Math edition of the “Sri
-Chaitanya-charitamrita” he writes about Krishnadasa Kaviraja and retells a tradition about Vishvanatha Chakravarti.
-Vishvanatha could not understand why Kaviraja’s kama-gayatri has twenty-four and a half syllables, and vowed to die at
-Radha-kunda; but Srimati Radhika told him in a dream that Krishnadasa is Her friend and writes correctly: according to
-the “Varnagama-bhasvata”, the syllable “ya” before “vi” counts as a half. <!-- F22 F23 -->
+Through deep study of the scriptures he became a keeper of the treasure handed down from Sri Chaitanya through the
+line of acharyas, and one of the most fruitful writers and teachers among the Gaudiya Vaishnavas; at his guru’s word
+he edited, wrote, published and helped to spread countless spiritual publications. For more than sixty years he wrote
+on Vaishnava philosophy and theology — hundreds of poems, essays, stories, diary pages, editorials and letters.
+<!-- F39 F22 -->
+
+In his foreword to the Sri Chaitanya Gaudiya Math edition of the “Sri Chaitanya-charitamrita” he writes about
+Krishnadasa Kaviraja. Srila Vrindavana Dasa Thakura, absorbed in Nityananda’s pastimes, did not unfold much of what he
+himself had listed at the start of his book, and the devotees of Vrindavan asked Krishnadasa to describe those
+pastimes. He went to Sri Madana-Mohana to ask leave, and before all the leading Vaishnavas of Vrindavan a garland
+slipped from the Deity; the pujari placed it on Krishnadasa’s chest, and he, taking this as the Lord’s will, began to
+write. Hence his words: “Having charged me with writing this book, Sri Madana-Gopala Himself dictates it to me, and I
+merely write after Him like a parrot” (Sri Chaitanya-charitamrita, Adi, 8.78). There, too, he retells a tradition about
+Vishvanatha Chakravarti. Vishvanatha could not understand why Kaviraja’s kama-gayatri has twenty-four and a half
+syllables, and vowed to die at Radha-kunda; but Srimati Radhika told him in a dream that Krishnadasa is Her friend and
+writes correctly: according to the “Varnagama-bhasvata”, the syllable “ya” before “vi” counts as a half. <!-- F23 -->
 
 In the collection “Sri Sarasvati-jayashri”, published by the Bagbazar Gaudiya Math in 1948, appeared his article on the
 works of the vaishnava-sarvabhauma Srila Jagannatha Dasa Babaji. Of Srila Sridhar Maharaj’s “Gayatri-nigudhartha” he
@@ -81,8 +91,20 @@ the Bengali edition. The lives of devotees soften the heart, he writes, and the 
 Vaishnavas’ mercy; so it is good to read them on the appearance and departure days of the associates. <!-- F26 F27 I5 -->
 
 He supports his thought with words from the “Sri Chaitanya-charitamrita”, the “Sri Chaitanya-bhagavata” and the
-“Srimad-Bhagavatam”, and with songs of Srila Bhaktivinoda; among them are the Lord’s words: “Know the acharya to be
-Me”. (Srimad-Bhagavatam, 11.17.27) <!-- Q1 -->
+“Srimad-Bhagavatam”, and with songs of Srila Bhaktivinoda and Srila Narottama Dasa Thakura: the Lord says that the
+worship of His devotee is dearer to Him than worship of Himself, and that the acharya is to be known as He Himself:
+“Know the acharya to be Me” (Srimad-Bhagavatam, 11.17.27). Gaura is Krishna Himself, come in the Kali age after the
+Dvapara; in the Navadvipa pastimes sweetness is subordinate to generosity, and these qualities of Gaura are present in
+all His associates. Whoever reads their lives again and again is cleansed of envy and enmity and can, as the Lord
+taught by His own example, carry His message to every land. <!-- Q1 I6 -->
+
+Srila Bhaktisiddhanta called the printing press the “brihat-mridanga”, the great drum: books and journals make
+preaching firm and far-reaching. Therefore, he writes, Parivrajaka Maharaj and Bhakti Ballabha Tirtha, in printing
+books, earn the love of their gurus and of all pure devotees. He prays that the author may live many more years,
+thanks all who helped with money and labour, asks pardon for any misprints left, and signs himself “begging for the
+dust of the pure devotees’ feet, a servant of the servants of the Vaishnavas”. A passage of this foreword also appears
+on the cover of the English edition, signed “Swami B. P. Puri, Founder-Acharya of the Sri Gopinath Gaudiya Math”.
+<!-- F41 F42 -->
 
 ## Godbrothers and Senior Vaishnavas
 He regarded Srila Sridhar Maharaj as his shiksha-guru. His close companions throughout life were Srila B. R. Sridhar
@@ -95,23 +117,37 @@ He had seen Vamshidasa Babaji in person and told stories about him. Once, at nig
 from Babaji’s hut, and in the morning a cow ate the fruit set aside for the Deities; Babaji only laughed and clapped
 his hands: one thief gives, another takes away. Babaji did not let anyone touch his feet, but on the day after
 Phalguna Purnima, in ecstasy, he allowed it — and so he received the dust of his feet, and another time his prasad
-remnants. He also told an incident connected with Srila Bhaktivinoda’s song “tyajiya shayana-sukha…”, and of the ban
-on invented “mantras”. <!-- F30 -->
+remnants. When someone sang Srila Bhaktivinoda’s song “tyajiya shayana-sukha…”, Babaji remarked that it opens only to
+one who has opened oneself; and when someone sang an invented “mantra” contrary to siddhanta, he said: “That name has
+no place here.” <!-- F30 -->
+
+A certain man kept begging Babaji for mercy; one day Babaji took off his kaupina and held it out to him: “You want my
+mercy? Here — take it”, and the man took fright. So too, Puri Maharaj would say, we ask the Vaishnavas for mercy but
+are not ready to receive it. His aged godbrother Gokula Dasa Babaji, who came from a place near Babaji’s home, often
+visited him, and the two would talk joyfully of Krishna in the Mymensingh dialect. <!-- F38 -->
 
 ## His Nature
 He rested little: even in old age he wrote at night and chanted the Holy Name, and his servants always found him
 awake in the morning. A knower of the scriptures, he also looked after the printing press and sang kirtan beautifully.
-Humble and simple, he thought little of himself and made everyone feel needed and valued. <!-- F33 F34 F35 -->
+Humble and simple, he thought little of himself and made everyone feel needed and valued. People of many countries and
+walks of life found in him a spiritual guide and shelter; he upheld pure Vaishnavism and explained the path of
+sharanagati, surrender to the Lord. <!-- F33 F34 F35 F40 -->
 
 ## Departure
 Before his departure he appointed his close disciple, Sripad Bhakti Bibudha Bodhayan Maharaj, as his successor and
 president-acharya of the Sri Gopinath Gaudiya Math. According to the biography, Srila Bhakti Pramoda Puri Goswami
 Maharaj left this world in the predawn hours of Narayana Chaturdashi, the day before Rasa Purnima, on 21 October
-1999[^1]. His body was brought from Jagannatha Puri to the Gopinath Gaudiya Math at Ishodyan and laid in samadhi.
+1999[^4]. His body was brought from Jagannatha Puri to the Gopinath Gaudiya Math at Ishodyan and laid in samadhi.
 <!-- F37 F36 -->
+
+The biographer hopes that, once his words are translated, the world beyond Bengal and India too will come to know the
+spirit of true Vaishnava religion that he shared so untiringly. <!-- I7 -->
 
 [^1]: Our calendar (Sri Chaitanya Saraswat Math) does not list his appearance and departure days; the dates follow one
     biography.
 [^2]: The biography gives the year of Srila Bhaktisiddhanta’s departure as 1937 in this chapter and as 1936 in
     another.
 [^3]: According to the same biography the author was born in 1924, so in 1992 he was sixty-eight.
+[^4]: The date and the tithi in the biography do not agree: by calculation, the full moon (Sharadiya Rasa) fell in 1999
+    on 24 October and shukla chaturdashi on 23 October, while at dawn on 21 October it was shukla ekadashi. Our calendar
+    does not list his days; the biography gives no way to tell which indication is right.
