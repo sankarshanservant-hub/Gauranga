@@ -25,7 +25,7 @@ lands (Madhya 7.10): “The great Vaishnavas Pundarika Vidyanidhi, Chaitanya-val
 Chattagrama” (Adi 2.36–37). In his commentary on these verses Srila Bhaktisiddhanta writes that Pundarika's father was
 Baneshvara (according to another opinion, Shuklambara) Brahmachari[^2], his mother Ganga Devi, and his wife
 Ratnavati[^3]; one of the biographies adds that the family bore the name Gangopadhyaya. Baneshvara was a Varendra
-brahmana; according to Srila Bhaktisiddhanta, he moved to the village of Baghiya in the district of Dacca, and the local
+brahmana; according to Srila Bhaktisiddhanta, he settled in Baghiya, a village of Dacca district, and the local
 community of brahmanas did not accept him. The “Prema-vilasa” (vilasa 22), as one of the biographies quotes it, says
 that it was a highly respected family. It says too that Pundarika was a very wealthy zamindar with lands in Chakrashala, yet remained
 spotlessly pure in conduct; that he lived now in Chittagong, now in Navadvipa; and that he was a disciple of
@@ -64,7 +64,7 @@ Pundarika's guru Madhavendra Puri. <!-- F17 -->
 
 ## “Pundarika, My Father!”
 When Mahaprabhu in Navadvipa was revealing the majesty of His Vaikuntha pastimes, He missed one devotee, and He sighed
-heavily at not seeing Vidyanidhi (CB, Madhya 7.11). The Lord, the Inner Controller, knew that Pundarika wished to live
+heavily at not seeing Vidyanidhi (CB, Madhya 7.11). The Lord, the Inner Controller, knew that Pundarika wanted to dwell
 by the Ganga, and one day, having finished dancing, He sat down among the devotees and wept aloud:
 
 “‘O Pundarika, My father, My friend! When shall I see you again?!’” (CB, Madhya 7.13)
@@ -79,8 +79,8 @@ fortunate that you wish to hear of him. Wonderful is all that he does; his very 
 7.20–21). <!-- F19 F20 -->
 
 And the Lord revealed to them Vidyanidhi's secret. In this hidden avatara of His — the prachchhanna-avatara — Gaura
-conceals Himself; and so Vidyanidhi conceals himself. He behaves like a man of the world, surrounded by all the
-trappings of a wealthy life, and no one recognises a Vaishnava in him: thus he deceives the fools who are misled by
+conceals Himself; and so Vidyanidhi conceals himself. He behaves like a man of the world, amid every
+appurtenance of a wealthy life, and no one recognises a Vaishnava in him: thus he deceives the fools who are misled by
 outward appearance. But within, he is ever immersed in the ocean of love for Krishna:
 
 “He is always immersed in the ocean of love for Krishna. His body is adorned with such signs of divine love as
@@ -303,10 +303,10 @@ devotees contended in pairs, Vidyanidhi met Svarupa Damodara in the water (CC, M
 
 ## The Mantra Received Again
 Many years later, in Puri, the bond of guru and disciple was revealed once more. One day Gadadhara Pandita came to Sri
-Chaitanya and said: “Ever since I repeated my ishta-mantra to someone, my mind cannot clearly receive it. Repeat it to
+Chaitanya and said: “Since I spoke my ishta-mantra to someone, my mind cannot clearly receive it. Repeat it to
 me again, and my mind will be at peace.” The Lord replied: “You have a guru who gave you the mantra; be careful, do not
 become an offender. What is a mantra? I would give you even My life; but while your guru lives, it is not fitting for
-Me to do this.” “He is not here,” Gadadhara objected; “do it in his place.” “Providence will easily bring you together
+Me to do this.” “He is not here,” Gadadhara objected; “act for him.” “Providence will easily bring you together
 with your guru Vidyanidhi,” said the Lord. “Not ten days will pass before he is here” (CB, Antya 10.22–30).
 <!-- F56 Q12 -->
 
@@ -339,7 +339,7 @@ story, Vrindavana Dasa says, he wrote down from the lips of Gadadhara himself (C
 In the year when Vidyanidhi stayed on in Puri, he saw the festival of Odana-shashthi (CC, Madhya 16.76–78). Gaurasundara
 with all the devotees also went to see Jagannatha being dressed — He Himself both the worshipper and the One worshipped
 (CB, Antya 10.90–95). On this day,
-at the beginning of winter, Jagannatha is dressed for the first time in winter garments; the cloth for them is new, not
+at the onset of winter, Jagannatha is dressed for the first time in winter garments; the cloth for them is new, not
 yet washed, and still contains weaver's starch — mar (“manduya”), according to one of the biographies made from
 tapioca. It is the pujaris who dress the Lord. And according to the smriti, starched cloth is considered impure.
 But the “Chaitanya-bhagavata” says: “As He wishes, so His servants act” (Antya 10.89). <!-- F58 F75 -->
@@ -348,8 +348,8 @@ Pundarika was a strict guardian of purity and Vaishnava etiquette, and he spoke 
 Damodara: “Why have they put unwashed cloth on the Lord? Everyone here knows both shruti and smriti.” Svarupa replied
 that the Lord is above all rules and that there is no fault in this custom. “For the Lord Himself, yes,” Pundarika
 persisted. “The Deity, Sri Vigraha, is chinmaya, spiritual; judgements about the gunas do not apply to Him. But have
-His servants too become Brahman? After touching starched cloth one washes one's hands — why, then, do the pujaris dress
-the Lord in unwashed cloth?” So the two friends walked along the road hand in hand, laughing and arguing whether there
+His servants too become Brahman? After touching starched cloth one washes one's hands — why, then, do the pujaris clothe
+the Lord in cloth that has not been washed?” So the two friends walked along the road hand in hand, laughing and arguing whether there
 was any fault in the conduct of Jagannatha's servants (CB, Antya 10.103–120). <!-- F59 F60 -->
 
 This argument should not be understood as an argument about the rightness of the smriti. The “Chaitanya-bhagavata”
@@ -364,7 +364,7 @@ condemn Vaishnavas for not observing the rules of the smriti. <!-- F61 I5 -->
 That same night the all-knowing Lord Chaitanya came to Vidyanidhi in a dream in the form of Jagannatha. Pundarika saw
 Jagannatha and Balarama; Jagannatha, displaying anger, seized him, and the two brothers began to slap him on both
 cheeks, so that the marks of Their fingers remained on them. “Krishna, save me! Forgive my offence!” Vidyanidhi
-pleaded. “Why are You beating me?” he asked Kanai and Balai. The Lord replied: “There is no end to your offences. I have
+pleaded. “Why are You beating me?” he asked Kanai and Balai. The Lord replied: “Your offences are endless. I have
 no caste, nor have My servants; living here, you ought to know this. If you fear losing caste, why do you stay where it
 is lost? I Myself established this festival, yet you, accepting Me as Brahman, see a fault in My servants who dress Me
 in starched cloth. If you wish to keep both the purity of bhakti and the customs of your class, leave Sri Kshetra and
@@ -382,8 +382,8 @@ touched my cheeks.” “I punished you because I see in you My servant — out 
 10.136–140). Waking and remembering the pain, Pundarika understood that the touch of the Lord's hands had brought him
 the greatest good fortune: the Lord Himself had punished him, and in this was his highest bliss, the true mercy of the
 master to the servant. His cheeks were swollen, yet he laughed: “Very good! The Lord is merciful — for my offence I got
-off lightly” (CB, Antya 10.142–144). In the morning the devotees saw the marks of the blows on his cheeks and laughed
-too. <!-- F64 -->
+off lightly” (CB, Antya 10.142–144). When, next morning, the devotees noticed the traces of the blows on his cheeks, they
+laughed too. <!-- F64 -->
 
 Every morning Svarupa would call for his friend so that they could go together for darshana of Jagannatha. That day
 Vidyanidhi did not get up from his bed. He called Svarupa inside and, smiling, told him why his cheeks were swollen:
@@ -434,7 +434,7 @@ him is considered to be Sri Madhava Mishra, and his wife Ratnavati is declared b
 
 King Vrishabhanu is the father of Srimati Radharani, and Mahaprabhu is Krishna Himself, Who has accepted the mood and
 radiance of Radha. Karnapura's words allow two readings: the Lord called Pundarika “father” when afflicted by
-separation like Radha — or when afflicted by separation from Radha, in His own mood as Krishna; so Srila Bhaktisiddhanta
+separation like Radha — or when afflicted by separation from Radha, in His own, Krishna's, mood; so Srila Bhaktisiddhanta
 renders this verse. And the Lord called him so with tears: “Bap Pundarika!” — “Father Pundarika!”[^14] Gadadhara, Pundarika's disciple, is Radha Herself; that is why the love of guru
 and disciple was the love of father and daughter. According to the “Gaura-ganoddesha-dipika,” a special manifestation
 of Vrishabhanu is also Madhava Mishra, Gadadhara's father, and Ratnavati is Kirtida, Radha's mother. <!-- F3 F43 F70 -->
@@ -478,8 +478,8 @@ or the place of his departure; nor is the day of his departure in our calendar.
     Ratnavati is the mother of Gadadhara Pandita.
 [^4]: The name of the village is spelt differently — Meghal, Meghala, Mekhala; in substance it is one and the same
     place. The distances too are given differently: according to some, the Hathazari police district lies six kroshas
-    north of Chattagrama, and the village one krosha east of it; according to others, the village is two miles east of
-    Hathazari and about twelve miles north of the town; according to Srila Bhaktisiddhanta's commentary, three
+    north of Chattagrama, and the village one krosha east of it; according to others, the village lies two miles to the east of
+    Hathazari, some twelve miles from the town to the north; according to Srila Bhaktisiddhanta's commentary, three
     kilometres east of Hata-hajari and eighteen north of Chattagrama. One of the biographies renders the ten kroshas to
     Chhanhara as “about twenty miles”; Srila Bhaktisiddhanta gives thirty kilometres.
 [^5]: According to one of the biographies, Mukunda introduced Gadadhara only after Pundarika had come to himself after
