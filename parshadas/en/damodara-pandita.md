@@ -446,7 +446,9 @@ So, by his strictness, he established the norms of proper behaviour for the Vais
 “Thus I have told of the reproaches of Damodara Pandita. Hearing of them cleanses the heart of ignorance and
 godlessness.” (CC, Antya 3.46)
 
-That the Lord sent Damodara to Navadvipa to comfort His mother is said by the “Gaura-krishnodaya” as well (16.66). And
+An echo of this account has apparently been kept in the “Gaura-krishnodaya” as well: the Lord, “restrained by words
+spoken by Svarupa,” sends to Navadvipa to comfort Shachi — whom, it does not say directly; in the course of the narrative
+it is Raghunatha Dasa, and the author has probably confused Damodara Pandita here with Svarupa Damodara (16.66). And
 Narahari Chakravarti in the “Bhakti-ratnakara” sees in him one of the four facets the Lord revealed to the world through
 His associates: through Ramananda He showed victory over Kandarpa, through Haridasa — forbearance, through Sanatana and
 Rupa — humility, and “through Damodara He revealed impartiality” (1.630). <!-- F35 F36 F53 Q11 F68 F69 -->
@@ -521,9 +523,11 @@ biographies, those who told him to go to Vrindavana.
 <!-- F38 F39 F69 Q13 -->
 
 Later traditions preserve a few more touches. According to the “Anuragavalli,” after the Lord's departure only her
-maidservants and Damodara Pandita would enter the presence of Vishnupriya, who lived in seclusion; the
+maidservants and — “by the Lord's order” — Damodara Pandita would enter the presence of Vishnupriya, who lived in
+seclusion; there he is also remembered as one “impartial even towards Mahaprabhu,” who at once restores proper order, and
+the Ganga water for her service is carried by his servant (2.105–112); the
 “Advaita-prakasha” tells how Ishana, coming to Navadvipa, met Damodara Pandita and with him entered Vishnupriya's inner
-apartments, and later sees him dancing in Advaita's last kirtana in Shantipura (22.70–82, 22.115)[^16]. <!-- F71 -->
+apartments, and later sees him dancing in Advaita's last kirtana in Shantipura (22.70–82, 22.115)[^16]. <!-- F71 F75 -->
 
 When and where he left this world the sources do not say. Neither the day of his appearance nor that of his
 departure is named by the biographies or the primary sources; nor are they in our calendar.
