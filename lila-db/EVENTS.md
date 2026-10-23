@@ -3752,8 +3752,8 @@
 - cc (A): Мадхья 11.169–184 — [169–184](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L1386-L1506) · `cc-2026`
 - cc (A): Мадхья 11.197–211 — [197–211](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L1614-L1726) · `cc-2028`
 - murari-kcc (A): Пракрама 4, сарга 18, шлоки 1–8 — [1–8](../murari-gupta/ru/4.18.md?plain=1#L5-L19) · `mkc-0236`
-- cb (A): Антья 8, 142–153 — [142–153](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L692-L747) · `cb-3105`
-- cb (A): Антья 8, 163–174 — [163–174](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L797-L852) · `cb-3107`
+- cb (A): Антья 8, 142–153 — [142–153](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L695-L750) · `cb-3105`
+- cb (A): Антья 8, 163–174 — [163–174](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L800-L855) · `cb-3107`
 - murari-kcc (A): Пракрама 4, сарга 19, шлоки 1–15 — [1–15](../murari-gupta/ru/4.19.md?plain=1#L5-L33) · `mkc-0238`
 
 ## Харидас Тхакур в Пури: хижина в саду у дома Каши Мишры / Haridasa Thakura in Puri: the hut in the garden by Kashi Mishra's house  `ev-haridasa-puri-hut` (1512–1514, возраст 26–28, оценка)
@@ -3764,14 +3764,14 @@
 ## Игры в воде на озере Нарендра / Water pastimes at Narendra-sarovara  `ev-narendra-jala-keli` (1512–1514, возраст 26–28, оценка)
 
 - advaita-prakasha (D): Гл. 15, 154–165 — [154. Веселье Ш–165. Уповая на](../advaita-prakash/15.md?plain=1#L158-L169) · `apr-0095`
-- cb (A): Антья 8, 102–141 — [102–141](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L499-L687) · `cb-3104`
+- cb (A): Антья 8, 102–141 — [102–141](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L499-L690) · `cb-3104`
 - karnapura-ckm (A): Сарга 18, 7–16 — [7–16](../karnapura-mahakavya/ru/18.md?plain=1#L143-L301) · `kcm-0161`
 - murari-kcc (A): Пракрама 4, сарга 18, шлоки 9–25 — [9–25](../murari-gupta/ru/4.18.md?plain=1#L21-L53) · `mkc-0237`
 - cc (A): Антья 10.41–56 — [41–56](../chaitanya-charitamrita/vcd/txt/CC_Antya10.txt?plain=1#L498-L676) · `cc-4100`
 
 ## Господь сажает туласи в горшок и повторяет имена, глядя на неё / The Lord plants Tulasi in a pot and chants His rounds gazing at her  `ev-lord-tulasi-pot-japa` (1512–1514, возраст 26–28, оценка)
 
-- cb (A): Антья 8, 154–162 — [154–162](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L752-L792) · `cb-3106`
+- cb (A): Антья 8, 154–162 — [154–162](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L755-L795) · `cb-3106`
 
 ## Адвайта начинает киртан имён Гауранги / Advaita begins the kirtana of Gauranga's names  `ev-advaita-gaura-kirtan` (1512–1514, возраст 26–28, оценка)
 
