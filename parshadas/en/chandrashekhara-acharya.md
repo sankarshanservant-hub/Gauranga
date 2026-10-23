@@ -48,12 +48,12 @@ following him, writes that Chandrashekhara is one of the nine nidhis, or Chandra
 Yadunatha Dasa, a disciple of Gadadhara Pandita Gosvami, in the “Shakha-nirnayamrita” praises him, according to one of
 the biographies, as a vessel of Paurnamasi's great love and a full moon of boundless compassion. <!-- F4 Q3 -->
 
-Murari Gupta, his contemporary, speaks of him in the same way — and names his teachers:
+Murari Gupta, his contemporary, also links him with the Moon — and names his teachers:
 
 “The disciple of them both became the divine Chandrashekhara, a portion of the Moon; greatly renowned, he is celebrated
 on earth as Acharyaratna.” (Murari, 1.4.6)
 
-“Both” here are Sri Madhava Puri and Advaita Acharya, of whom Murari speaks in the preceding verse. Elsewhere he recalls
+“Both” here are Sri Madhavendra Puri (in Murari, Madhava Puri) and Advaita Acharya, of whom Murari speaks in the preceding verse. Elsewhere he recalls
 “the teacher Chandrashekhara, king of the twice-born”: at the name of Krishna the hairs on his body stood on end, and
 tears streamed down his face (Murari, 1.1.21). <!-- F49 -->
 
@@ -191,8 +191,8 @@ Chandrashekhara's house came to be called Vrajapattana, “the town of Vraja”:
 Lord staged the drama of Vrindavana. <!-- F31 -->
 
 To Bhaktisiddhanta himself this place was especially dear. In 1909 he built a hut here, “Vraja-pattan,” and lived in it,
-continuing his vow — to chant a billion holy names — while in his heart dwelling on the bank of Radha-kunda. And on 7
-March 1918, on Gaura-purnima, the very day he accepted tridandi-sannyasa, Bhaktisiddhanta installed Deities in the house
+continuing his vow — to chant a billion holy names — while in his heart dwelling on the bank of Radha-kunda. And in
+1918, on Gaura-purnima, the very day he accepted tridandi-sannyasa, Bhaktisiddhanta installed Deities in the house
 of Chandrashekhara Acharya and founded the Sri Chaitanya Math, the chief centre of the Gaudiya Maths; he did this
 fulfilling the wish of Srila Bhaktivinoda Thakura[^11]. <!-- F33 -->
 
@@ -212,10 +212,10 @@ the few to whom this could be revealed:
 “I shall accept sannyasa from him. Only to five may You tell of this: to My mother, Gadadhara, Brahmananda Bharati,
 Chandrashekhara Acharya and Mukunda.” (CB, Madhya 28.11–12) <!-- F35 Q16 -->
 
-In the morning, when the devotees came to the Lord's house and did not find Him, Chandrashekhara was among those who
-wept in the courtyard (CB, Madhya 28.85). As Lochana Dasa relates in the “Chaitanya-mangala,” the devotees sent the
+The Lord left Navadvipa before dawn. When in the morning the devotees came to His house and did not find Him,
+Chandrashekhara was among those who wept in the courtyard (CB, Madhya 28.85). As Lochana Dasa relates in the “Chaitanya-mangala,” the devotees sent the
 chief among them after the Lord — Chandrashekhara Acharya, Damodara Pandita, Vakreshvara and others — and Nityananda
-went with them. There, according to the “Chaitanya-bhagavata,” all whom the Lord
+went with them. In Katwa, according to the “Chaitanya-bhagavata,” all whom the Lord
 had called beforehand gradually gathered: Nityananda, Gadadhara, Mukunda, Chandrashekhara Acharya and Brahmananda (CB,
 Madhya 28.103–104). <!-- F36 F37 -->
 
@@ -305,7 +305,8 @@ throughout the world — the sankirtana whose beginning the Lord had laid in Nav
 [^1]: In one place this biography refers to the “Chaitanya-bhagavata,” Adi 9.98–99; read Adi 2.98–99.
 [^2]: One of the biographies calls him an incarnation of the moon-god. The identification follows the
     “Gaura-ganoddesha-dipika”; Chandrashekhara himself is an eternal associate of the Lord (nitya-siddha) who descended
-    by His will (CB, Adi 2.98), not a demigod born by the force of karma.
+    by His will (CB, Adi 2.98), not a demigod born by the force of karma. Murari Gupta too calls him “a portion of the
+    Moon” (1.4.6).
 [^3]: One of the biographies gives the reference Adi 1.34–36; read Adi 2.34–35.
 [^4]: According to one of the biographies, they visited Mishra's house and helped with the household even before the
     Lord's advent; according to another, they began to come after His advent, to see Him and care for Him.
@@ -328,7 +329,9 @@ throughout the world — the sankirtana whose beginning the Lord had laid in Nav
 [^11]: Which Deities Srila Bhaktisiddhanta installed, the biographies tell differently: according to one, Sri
     Guru-Gauranga and Radha-Govinda; according to another, an image of Gaura dancing in sankirtana; Srila
     Bhaktisiddhanta's commentary on the “Chaitanya-bhagavata” (Adi 2.34) names Sri Guru-Gauranga and
-    Gandharvika-Giridhari, and also the murtis of the acharyas of the four sampradayas.
+    Gandharvika-Giridhari, and also the murtis of the acharyas of the four sampradayas. One of the biographies dates
+    the founding of the Math to 7 March 1918, calling that day Gaura-purnima; but there was no full moon on 7 March 1918
+    (the full moons fell at the end of February and the end of March).
 [^12]: According to the “Chaitanya-bhagavata,” the “Chaitanya-mangala” and Murari Gupta (3.3.12), it was the Lord
     Himself who sent Chandrashekhara to Navadvipa; according to the “Charitamrita,” it was Nityananda, already on the
     way to Shantipura, and first to Advaita. The biographies follow now one account, now the other, and one gives both.
