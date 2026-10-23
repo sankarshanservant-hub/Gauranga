@@ -8,7 +8,7 @@ Maharaj. His life is inseparable from the Gaudiya Math: he had no aim but to ple
 <!-- I1 I2 -->
 
 ## Appearance and Youth
-According to one biography, he appeared on 8 October 1898 in the village of Ganganandapur in Jessore district (now in
+According to one biography, he appeared on 8 October 1898 at Ganganandapur, a village of the Jessore district (now in
 Bangladesh)[^1]. His father was Tarini Charan Chakravarti, his mother Srimati Ram Rangini Devi, and his worldly name
 was Pramod Bhushan Chakravarti. <!-- F1 F2 -->
 
@@ -26,11 +26,11 @@ gave him harinama and mantra-diksha and the name Pranavananda Brahmachari. <!-- 
 For thirteen years he stayed near his guru and took down his lectures and talks; most of Srila Bhaktisiddhanta’s
 words that have come down to us are transcripts of his notes. At his guru’s instruction he wrote articles for the
 journal “Gaudiya”, and for seven years was its proofreader and one of its chief editors. In 1926 he was entrusted with
-the “Dainika Nadiya Prakasha”, the world’s only daily Vaishnava newspaper; for two years he ran it, printing his
+the “Dainika Nadiya Prakasha”, then the only Vaishnava daily anywhere in the world; for two years he ran it, printing his
 guru’s daily talks and the articles of other writers. <!-- F7 F8 F9 -->
 
-Srila Bhaktisiddhanta gave him the titles “maha-mahopadeshaka”, great teacher, and “pratna-vidyalankara”, keeper of
-the wisdom of the ancient scriptures, and said of him: he loves his guru, and his life is one with his words. The key
+Srila Bhaktisiddhanta gave him the titles “maha-mahopadeshaka”, great teacher, and “pratna-vidyalankara”, guardian of
+the ancient scriptural wisdom, and said of him: he loves his guru, and his life and his words are one. The key
 to success in bhakti is to listen attentively to the guru; “lend me your ears”, Srila Bhaktisiddhanta would ask, and
 Pranavananda followed this in everything. He ascribed all his success to his guru’s mercy, and one disciple said of
 him that he set forth the whole siddhanta of Srila Bhaktisiddhanta without words. <!-- F10 F11 I3 I4 -->
@@ -42,24 +42,24 @@ sannyasa mantra and told him to accept renunciation. In August 1946, at Champaha
 his godbrother Srila Bhakti Gaurava Vaikhanasa Maharaj, and then travelled across India with Srila Bhakti Hridaya Bon
 and Srila Bhakti Dayita Madhava. <!-- F12 F14 F15 -->
 
-At the request of his godbrother Bhakti Vilasa Tirtha he served for seven years as chief pujari of the Yogapitha
+At the request of his godbrother Bhakti Vilasa Tirtha he was for seven years the chief pujari of the Yogapitha
 temple, the birthplace of Sri Chaitanya. In the 1950s he chose solitary worship and settled in a humble hut on the
 bank of the Ganges at Ambika-Kalna. The Maharaja of Burdwan, moved by his austerity, gave him the ancient temple of
 Ananta-Vasudeva in Kalna on Radhashtami 1958. <!-- F16 F17 F18 -->
 
-In 1964 Srila Bhakti Dayita Madhava invited him to head the editorial board of the journal “Sri Chaitanya Vani”, and
+In 1964 Srila Bhakti Dayita Madhava asked him to lead the editors of the journal “Sri Chaitanya Vani”, and
 for thirty-three years he served as chairman of its editorial board. <!-- F13 -->
 
 ## Sri Gopinath Gaudiya Math
 In 1989, in his ninety-first year, he founded the Sri Gopinath Gaudiya Math at Ishodyan in Mayapur — for the service
 of Sri Sri Gaura-Gadadhara, Jagannatha, Radha-Gopinatha and Lakshmi-Nrisimha; his temples in Puri, Vrindavan, Kolkata
 and Medinipur followed. In 1995 he was elected president of the World Vaishnava Association. For his delicacy and
-precision in worship he was often called to be chief priest at Deity installations and at the ceremonies of the
+precision in worship he was often asked to lead Deity installations and the ceremonies of the
 Gaudiya Math; it was he who performed the samadhi rite of Srila Bhakti Dayita Madhava on 27 February 1979.
 <!-- F19 F20 F21 -->
 
 ## Word and Pen
-Through deep study of the scriptures he became a keeper of the treasure handed down from Sri Chaitanya through the
+Steeped in the scriptures, he became a keeper of the treasure handed down from Sri Chaitanya through the
 line of acharyas, and one of the most fruitful writers and teachers among the Gaudiya Vaishnavas; at his guru’s word
 he edited, wrote, published and helped to spread countless spiritual publications. For more than sixty years he wrote
 on Vaishnava philosophy and theology — hundreds of poems, essays, stories, diary pages, editorials and letters.
@@ -78,7 +78,7 @@ writes correctly: according to the “Varnagama-bhasvata”, the syllable “ya�
 
 In the collection “Sri Sarasvati-jayashri”, published by the Bagbazar Gaudiya Math in 1948, appeared his article on the
 works of the vaishnava-sarvabhauma Srila Jagannatha Dasa Babaji. Of Srila Sridhar Maharaj’s “Gayatri-nigudhartha” he
-wrote that this explanation of the gayatri as centred on Srimati Radharani was revealed to its author by the mercy of
+wrote that this explanation of the gayatri as centred on Srimati Radharani had dawned upon its author by the mercy of
 Srila Bhaktisiddhanta, and that it is the best path to Krishna’s mercy. <!-- F24 F25 -->
 
 He was shiksha-guru and editor to Srila Bhakti Ballabha Tirtha Maharaj when the latter prepared the English edition
@@ -92,7 +92,7 @@ Vaishnavas’ mercy; so it is good to read them on the appearance and departure 
 
 He supports his thought with words from the “Sri Chaitanya-charitamrita”, the “Sri Chaitanya-bhagavata” and the
 “Srimad-Bhagavatam”, and with songs of Srila Bhaktivinoda and Srila Narottama Dasa Thakura: the Lord says that the
-worship of His devotee is dearer to Him than worship of Himself, and that the acharya is to be known as He Himself:
+honour shown to His devotee pleases Him more than honour shown to Himself, and that the acharya is to be known as He Himself:
 “Know the acharya to be Me” (Srimad-Bhagavatam, 11.17.27). Gaura is Krishna Himself, come in the Kali age after the
 Dvapara; in the Navadvipa pastimes sweetness is subordinate to generosity, and these qualities of Gaura are present in
 all His associates. Whoever reads their lives again and again is cleansed of envy and enmity and can, as the Lord
@@ -101,8 +101,8 @@ taught by His own example, carry His message to every land. <!-- Q1 I6 -->
 Srila Bhaktisiddhanta called the printing press the “brihat-mridanga”, the great drum: books and journals make
 preaching firm and far-reaching. Therefore, he writes, Parivrajaka Maharaj and Bhakti Ballabha Tirtha, in printing
 books, earn the love of their gurus and of all pure devotees. He prays that the author may live many more years,
-thanks all who helped with money and labour, asks pardon for any misprints left, and signs himself “begging for the
-dust of the pure devotees’ feet, a servant of the servants of the Vaishnavas”. A passage of this foreword also appears
+thanks all who helped with money and labour, asks pardon for any misprints left, and signs himself “begging for dust
+from the feet of pure devotees, a servant of the servants of the Vaishnavas”. A passage of this foreword also appears
 on the cover of the English edition, signed “Swami B. P. Puri, Founder-Acharya of the Sri Gopinath Gaudiya Math”.
 <!-- F41 F42 -->
 
@@ -121,8 +121,8 @@ remnants. When someone sang Srila Bhaktivinoda’s song “tyajiya shayana-sukha
 one who has opened oneself; and when someone sang an invented “mantra” contrary to siddhanta, he said: “That name has
 no place here.” <!-- F30 -->
 
-A certain man kept begging Babaji for mercy; one day Babaji took off his kaupina and held it out to him: “You want my
-mercy? Here — take it”, and the man took fright. So too, Puri Maharaj would say, we ask the Vaishnavas for mercy but
+A certain man kept begging Babaji for mercy; one day Babaji took off his kaupina and held it out to him: “Is it my
+mercy you want? Take it, then”, and the man took fright. So too, Puri Maharaj would say, we ask the Vaishnavas for mercy but
 are not ready to receive it. His aged godbrother Gokula Dasa Babaji, who came from a place near Babaji’s home, often
 visited him, and the two would talk joyfully of Krishna in the Mymensingh dialect. <!-- F38 -->
 
@@ -130,18 +130,18 @@ visited him, and the two would talk joyfully of Krishna in the Mymensingh dialec
 He rested little: even in old age he wrote at night and chanted the Holy Name, and his servants always found him
 awake in the morning. A knower of the scriptures, he also looked after the printing press and sang kirtan beautifully.
 Humble and simple, he thought little of himself and made everyone feel needed and valued. People of many countries and
-walks of life found in him a spiritual guide and shelter; he upheld pure Vaishnavism and explained the path of
+walks of life found in him a guide and refuge on the spiritual path; he stood firm for pure Vaishnavism and explained the path of
 sharanagati, surrender to the Lord. <!-- F33 F34 F35 F40 -->
 
 ## Departure
-Before his departure he appointed his close disciple, Sripad Bhakti Bibudha Bodhayan Maharaj, as his successor and
+Before his departure he named his close disciple Sripad Bhakti Bibudha Bodhayan Maharaj to succeed him as
 president-acharya of the Sri Gopinath Gaudiya Math. According to the biography, Srila Bhakti Pramoda Puri Goswami
-Maharaj left this world in the predawn hours of Narayana Chaturdashi, the day before Rasa Purnima, on 21 October
-1999[^4]. His body was brought from Jagannatha Puri to the Gopinath Gaudiya Math at Ishodyan and laid in samadhi.
+Maharaj departed in the predawn hours of Narayana Chaturdashi, the day before Rasa Purnima, on 21 October
+1999[^4]. His sacred body was brought from Jagannatha Puri to the Gopinath Gaudiya Math at Ishodyan and laid in samadhi.
 <!-- F37 F36 -->
 
-The biographer hopes that, once his words are translated, the world beyond Bengal and India too will come to know the
-spirit of true Vaishnava religion that he shared so untiringly. <!-- I7 -->
+The biographer hopes that, once his words are translated, the world beyond Bengal and India too will discover the
+spirit of genuine Vaishnava religion, which he never tired of giving to others. <!-- I7 -->
 
 [^1]: Our calendar (Sri Chaitanya Saraswat Math) does not list his appearance and departure days; the dates follow one
     biography.
