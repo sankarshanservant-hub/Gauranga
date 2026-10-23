@@ -69,9 +69,10 @@ light, Damodara could not accept it in silence:
 say to His mother, ‘I am going; guard your son, good lady’? About this I have a great doubt. Is this the yogamaya of the
 Lord of the world? Please explain it — for the deeds of Hari are done for the good of the world.” (Murari, 1.7.25–27)
 
-Murari, having reflected and bowed to Hari, replied: when a person meditates on Bhagavan, sings of Him and hears of Him,
+Yogamaya is the Lord's internal energy, by which He Himself reveals and conceals Himself in His pastimes; it is not the
+external maya, and the Lord is not subject to it. Murari, having reflected and bowed to Hari, replied: when a person meditates on Bhagavan, sings of Him and hears of Him,
 Hari enters the heart of that great soul, and he, forgetting his own body, bears within him His splendour and might; so
-the Lord taught the world that the devotee's body is truly the very soul of Bhagavan (1.8.1–7). Another time, hearing that at
+the Lord taught the world that He regards the devotee's body as His own (1.8.1–7). Another time, hearing that at
 Bhubaneshvara the Lord had reverently eaten the remnants of offerings to Shiva, Damodara objected: because of Bhrigu's
 curse they are not eaten — how then could Bhagavan, knowing this, accept them? Murari explained: Mahadeva joyfully
 offered Krishna hospitality; and when people worship Maheshvara, regarding him as the best of Vaishnavas, the Lord
@@ -106,7 +107,7 @@ passed Murari's verses on to him and told him about the Lord; the “Chaitanya-m
 ## Navadvipa
 In Navadvipa Damodara was beside the Lord in the years of kirtana. When the Lord returned from Gaya and His associates
 gathered around Him, Lochana Dasa names among them “Rudra Pandita and Pandita Damodara” (“Chaitanya-mangala,”
-Madhya-khanda, pt. 1, v. 60). A pada attributed to Yadunatha sings that Damodara sang in the Lord's night kirtana in
+Madhya-khanda, pt. 1, v. 60). A pada signed with the name Yadu sings that Damodara sang in the Lord's night kirtana in
 Navadvipa. <!-- F65 F72 -->
 
 When the Lord left Navadvipa and accepted sannyasa, “Sri Chandrashekhara Acharya, Pandita Damodara, Vakreshvara and
@@ -254,7 +255,7 @@ and then others took up the serving:
 
 ## “If Damodara Says So”
 Prataparudra, the king of Orissa, longed with all his heart to see the Lord and asked for a meeting more than once;
-refused, he threatened to give up his kingdom and become a beggar. Sarvabhauma, Nityananda and the others decided not
+when refused, he declared he would renounce his throne and live as a mendicant. Sarvabhauma, Nityananda and the others decided not
 to ask the Lord directly, but only to tell Him of the king's devotion. The Lord's heart softened, but He answered
 sternly — and referred to Damodara:
 
