@@ -123,7 +123,7 @@ B — вероятно, больше сотни).
 | @pundarika-vidyanidhi (033) | ✓ | ✓ (PDF) | — |
 | @jagadananda-pandita (034) | ✓ | ✓ (PDF) | — |
 | @nandana-acharya (035) | ✓ | ✓ (PDF) | — |
-| @damodara-pandita (089) | ✓ | — | — |
+| @damodara-pandita (089) | ✓ | ✓ (PDF) | — |
 | @jagannatha-mishra (028; пилот сверен с переводом и сканом) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shachi (пилот, без главы B; статья переработана) | ✓ | ✓ (PDF) | ✓ сплошная (статья переработана) |
 

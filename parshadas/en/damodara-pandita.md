@@ -29,7 +29,7 @@ Navadvipa.” (CC, Adi 10.32)
 “The eleventh branch is Shankara Pandita, Damodara's younger brother. Everyone also called him Prabhu-padopadhana (the
 pillow for the Lord's feet).” (CC, Adi 10.33)
 
-The love that dares to reproach the Lord Himself the “Charitamrita” calls *prochanda*, “impetuous.” In the language of
+The love that dares to reproach the Lord Himself the “Charitamrita” calls *prachanda*, “impetuous.” In the language of
 the Vaishnavas such a reproach is *vakya-danda*, “chastisement by word.” It is neither impudence nor self-assurance: the
 Lord Himself willed this pastime and was Himself “fully pleased” with it. Krishnadasa recalls it in the brief summaries
 of his book too: after the Lord punished Junior Haridasa, “Damodara Pandita tried to correct the Lord's behaviour”
@@ -207,7 +207,7 @@ According to one of the biographies, the Lord, having reached Alalanatha, Himsel
 with the news, and the four ran out to meet Him on the high road. <!-- F12 Q4 -->
 
 That same Krishnadasa the Lord, on His return, decided to dismiss. He told Sarvabhauma that in the South the brahmana
-had been enticed by the wandering Bhattathari and had left the Lord; the Lord had rescued him with difficulty and now
+had been enticed by women of a Bhattathari camp and had left the Lord; the Lord had rescued him with difficulty and now
 did not wish him to remain with Him. Krishnadasa wept. Taking pity on him, the four friends found a service for him:
 
 “Then a plan ripened in the minds of four devotees — Nityananda, Jagadananda, Mukunda and Damodara: ‘We must send
@@ -375,7 +375,7 @@ widow? Why do You show him so much love?’” (CC, Antya 3.15)
 “‘Though his mother, this brahmana widow, is austere, pious and chaste, she has one fault: she is young and beautiful.
 You too are very handsome and young. Why then do You give people such strong cause for gossip?’” (CC, Antya 3.16–17)
 
-Having said this, Damodara fell silent. And the Lord smiled — He was pleased:
+The Lord's response was unexpected:
 
 “Having said this, Damodara Pandita fell silent. And Sri Chaitanya, inwardly pleased, began with a smile to reflect:”
 (CC, Antya 3.18)
@@ -383,7 +383,7 @@ Having said this, Damodara fell silent. And the Lord smiled — He was pleased:
 “‘All these words of Damodara Pandita are born of the waves of pure love. Among all My closest friends there is no one
 who could compare with him.’” (CC, Antya 3.19)
 
-What troubled Damodara was not the Lord's conduct — he knows that the Lord is independent and pure — but the talk of
+What troubled Damodara was not the Lord's conduct — he himself acknowledges that the Lord is independent — but the talk of
 people, which might touch His name. For the Lord's honour he is ready to reproach the Lord Himself. That is why the
 Lord calls his reproach “a wave of pure love” and places him above all His intimates[^12].
 <!-- F29 F30 F31 F32 F53 Q7 Q8 I1 -->
@@ -509,7 +509,7 @@ through the world:
 Krishna. Thanks to them all I have understood the essence of pure devotion to Krishna.’” (CC, Antya 7.50)[^14]
 <!-- F37 Q12 -->
 
-He outlived the Lord's concealment and remained in Navadvipa. When Narottama came there, he met in Mayapur the elder
+He outlived the Lord's concealment and remained in Navadvipa. When Narottama came there, in Mayapur he was met by the elder
 associates of the Lord — Shuklambara, Ishana, Murari, Damodara, Dasa Gadadhara — grieving for the Lord; “seeing
 Damodara Pandita there, Narottama in agitation bowed down at his feet” (“Bhakti-ratnakara” 8.93). The
 “Narottama-vilasa” adds that “Pandita Damodara and the others dear to Prabhu could not let Narottama go for a moment”
@@ -530,7 +530,7 @@ Damodara Pandita entered the history of the Lord's pastimes as “the one who ch
 comes from love: in reproaching the Lord he cares only that no one's gossip should touch His name, and the Lord Himself
 calls his reproaches “waves of pure love” and knows no one closer. He, by nature free from regard for people, himself
 acknowledges that the Lord is independent and accountable to no one — and that He is conquered by His devotee's love.
-The Lord's words about him had a teaching meaning as well: even valuing his directness, the Lord gently showed that it
+The Lord's words about him had, as Srila Bhaktivinoda explains, a teaching meaning as well: even valuing his directness, the Lord gently showed that it
 too needs measure. Above all, through Damodara the Lord revealed to the world *nirapeksha*, fearless faithfulness to
 what is right, without which dharma cannot be protected — and therefore it was to him, and to no one else, that He
 entrusted His mother's house. <!-- I1 I2 I3 I4 -->
@@ -584,7 +584,7 @@ goal.” <!-- F58 F62 Q11 -->
 [^11]: One of the biographies gives the references for this and the following episodes as “Adi 3.11–12,” “Adi
     3.22–23,” and below “Adi 7.50”; read Antya 3.11–12, 3.22–23 and 7.50.
 [^12]: Damodara's words are concern for the Lord's honour in the eyes of the world (*loka-apavada*, people's talk), not
-    a suspicion of anything worldly: the Lord, the boy and his mother are, by Damodara's own words, pure. The Lord
+    a suspicion of anything worldly: the Lord he himself calls independent, and the boy's mother austere and chaste. The Lord
     Himself willed this pastime and was pleased with it (CC, Adi 10.32; Antya 3.18–19); Damodara's vakya-danda is a
     manifestation of pure love, and the “Charitamrita” promises those who hear of it the cleansing of the heart
     (Antya 3.46).
