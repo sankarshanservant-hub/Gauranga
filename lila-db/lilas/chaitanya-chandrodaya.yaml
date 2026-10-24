@@ -258,7 +258,7 @@
   bhava: [aishvarya]
   teaching: [gaura-tattva]
   divergence: "Повествование — со стороны олицетворённых Кали и Адхармы; эпизода со шлокой Судамы (Мурари 2.12) нет."
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "*(За сценой — радостный шум.)*", to_text: "*Конец вишкамбхаки (вводной сцены).*"}
 
@@ -280,7 +280,7 @@
   bhava: [aishvarya]
   teaching: [gaura-tattva, prema]
   scriptures: ["Бхаг. 1.8.20", "Бхаг. 10.47.25"]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "*(Затем входит, восседая на ложе, в боже", to_text: "в обители Шри Вриндаваны, иначе называем"}
 
@@ -382,7 +382,7 @@
   themes: [offense, family, revelation]
   teaching: [vaishnava]
   scriptures: ["Бхаг. 10.3.31"]
-  event: ev-shachi-vaishnava-aparadha
+  event: ev-shachi-receives-prema
   verses:
     - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "А сейчас вот что: Шачи-деви, видя в нём ", to_text: "**Адвайта.** Эй, эй, Шривас и другие! В "}
 
@@ -404,7 +404,7 @@
   bhava: [devotee]
   teaching: [gaura-tattva]
   scriptures: ["Бг. 11.51"]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Все.** Господин, так и сделаем. *(Вмес", to_text: "*Так заканчивается первый акт «Шри Чайта"}
 
@@ -919,7 +919,7 @@
   ref: "Акт 6, правешака (Ганга и Океан)"
   file: "chaitanya-chandrodaya/ru/06.md"
   period: P09
-  order: 75
+  order: 88.5
   title: "Камалапура: Нитьянанда ломает посох Господа"
   summary: "В деревне Камалапура, пока Господь, омывшись, идёт вперёд к храму, Нитьянанда со словами «На что этот посох — обломок нежданной напасти?» ломает Его посох и бросает в реку."
   persons: ["@ganga-devi", "@ratnakara", "@nityananda", "@mahaprabhu"]

@@ -1,0 +1,248 @@
+# События, заведённые при внесении «Шри Чайтанья-чаритамриты», Мадхья 10–17 (исполнитель cc-m2; источник cc).
+# Формат — README.md, раздел «События». Дописывать в конец; порядок на шкале — поле order.
+
+- id: ev-puri-devotees-introduced
+  title: "Сарвабхаума представляет Господу вайшнавов Пури"
+  title_en: "Sarvabhauma introduces the Vaishnavas of Puri to the Lord"
+  period: P12
+  order: 2.2
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [mercy, jagannatha]
+  notes: "ЧЧ Мадхья 10.38–48: Джанардана, Кришнадас, Шикхи и Мурари Махити, Прадьюмна Мишра, Парамананда Махапатра и другие."
+
+- id: ev-kala-krishnadasa-dismissed
+  title: "Господь отказывается от Кала Кришнадаса"
+  title_en: "The Lord dismisses Kala Krishnadasa"
+  period: P12
+  order: 2.8
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [offense]
+  notes: "ЧЧ Мадхья 10.62–66: после случая с бхаттатхари (Мадхья 9) Господь не берёт его больше с Собой; затем его посылают вестником в Гауду (ev-messenger-to-gauda-after-south)."
+
+- id: ev-brahmananda-bharati-deerskin
+  title: "Брахмананда Бхарати оставляет оленью шкуру"
+  title_en: "Brahmananda Bharati gives up his deerskin"
+  period: P12
+  order: 9.7
+  cc: "Мадхья 10"
+  cb: ""
+  themes: [sannyasa, revelation]
+  notes: "ЧЧ Мадхья 10.151–183: Господь «не узнаёт» его в шкуре; спор о двух обликах Брахмана (Джаганнатха и Гаура)."
+
+- id: ev-gauda-devotees-set-out-puri
+  title: "Преданные Гауды собираются у Адвайты и выходят в Нилачалу"
+  title_en: "The devotees of Gauda gather at Advaita's and set out for Nilachala"
+  period: P12
+  order: 17
+  cc: "Мадхья 10"
+  cb: "Антья 8"
+  themes: [pilgrimage, separation]
+  notes: "ЧЧ Мадхья 10.85–90; путь и приход — Мадхья 11 (ev-gauda-devotees-arrive-puri)."
+
+- id: ev-lord-refuses-to-see-king
+  title: "Господь отказывается видеть царя Пратапарудру; горе царя и совет Сарвабхаумы"
+  title_en: "The Lord refuses to see King Prataparudra; the king's grief and Sarvabhauma's counsel"
+  period: P12
+  order: 8.4
+  cc: "Мадхья 11; Мадхья 12"
+  cb: ""
+  themes: [sannyasa, mercy]
+  notes: "ЧЧ Мадхья 11.3–13, 41–61: «для санньяси видеть царя — что пить яд»; Сарвабхаума советует встретить Господа в саду в день Ратха-ятры (исполнение — ev-prataparudra-mercy)."
+
+- id: ev-prataparudra-watches-devotees-roof
+  title: "Пратапарудра с крыши дворца смотрит на приход бенгальских вайшнавов"
+  title_en: "Prataparudra watches the arrival of the Bengali Vaishnavas from the palace roof"
+  period: P12
+  order: 19
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [kirtan, teaching, prasada]
+  notes: "ЧЧ Мадхья 11.66–123: Гопинатха Ачарья называет преданных; Сарвабхаума о према-санкиртане и о прасаде."
+
+- id: ev-haridasa-puri-hut
+  title: "Харидас Тхакур в Пури: хижина в саду у дома Каши Мишры"
+  title_en: "Haridasa Thakura in Puri: the hut in the garden by Kashi Mishra's house"
+  period: P12
+  order: 21
+  cc: "Мадхья 11"
+  cb: ""
+  themes: [mercy, kirtan]
+  notes: "ЧЧ Мадхья 11.161–196: Харидас не идёт к храму; Господь обнимает его («касаюсь тебя, чтобы очиститься») и даёт уединённую хижину (традиционно — Сиддха-бакула)."
+
+- id: ev-gundicha-garden-feast
+  title: "Трапеза в саду после уборки Гундичи"
+  title_en: "The feast in the garden after the cleaning of Gundicha"
+  period: P12
+  order: 66.5
+  cc: "Мадхья 12"
+  cb: ""
+  themes: [prasada, pranks]
+  notes: "ЧЧ Мадхья 12.151–202: Господь вспоминает лесные трапезы Кришны; Сарвабхаума: «ворона стала Гарудой»; шутливая перебранка Адвайты и Нитьянанды (ср. похожую сцену в Шантипуре — ГКУ)."
+
+- id: ev-netrotsava-darshan
+  title: "Нетротсава: Господь созерцает Джаганнатху после анавасары"
+  title_en: "Netrotsava: the Lord beholds Jagannatha after anavasara"
+  period: P12
+  order: 67
+  calendar: "Нетротсава, накануне Ратха-ятры"
+  cc: "Мадхья 12"
+  cb: ""
+  themes: [jagannatha, festival, ecstasy]
+  notes: "ЧЧ Мадхья 12.203–220."
+
+- id: ev-gundicha-nine-days-lilas
+  title: "Девять дней у Гундичи: киртаны и вриндаванские игры в саду Джаганнатха-валлабха"
+  title_en: "Nine days at Gundicha: kirtanas and Vrindavana pastimes in the Jagannatha-vallabha garden"
+  period: P12
+  order: 73
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [krishna-lila, kirtan, ecstasy]
+  notes: "ЧЧ Мадхья 14.70–74, 94–105: Господь чувствует, что Кришна вернулся во Вриндаван; пляски под деревьями под песни Васудевы Датты."
+
+- id: ev-indradyumna-jala-keli
+  title: "Водные игры в озере Индрадьюмна; Адвайта — ложе Шеши для Господа"
+  title_en: "Water pastimes in Indradyumna lake; Advaita becomes Shesha's bed for the Lord"
+  period: P12
+  order: 73.2
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [pranks, krishna-lila, revelation]
+  notes: "ЧЧ Мадхья 14.75–93: преданные сражаются парами, Сарвабхаума и Рамананда как дети; Шеша-шайи-лила."
+
+- id: ev-kulinagrama-silk-ropes
+  title: "Шёлковые верёвки для Джаганнатхи: служение жителей Кулинаграмы"
+  title_en: "Silk ropes for Jagannatha: the service of the residents of Kulinagrama"
+  period: P12
+  order: 76.5
+  cc: "Мадхья 14"
+  cb: ""
+  themes: [jagannatha, festival]
+  notes: "ЧЧ Мадхья 14.248–253: Рамананда Васу и Сатьяраджа Хан ежегодно привозят верёвки («обитель Ананта-Шеши»); ср. ev-kulinagrama-glory."
+
+- id: ev-advaita-worships-lord-tulasi
+  title: "Адвайта поклоняется Господу, а Господь — Адвайте остатками туласи"
+  title_en: "Advaita worships the Lord, and the Lord worships Advaita with the remnants of tulasi"
+  period: P12
+  order: 77
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [pranks, deities]
+  notes: "ЧЧ Мадхья 15.7–12: «кем бы Ты ни был, Тебе поклоняюсь»; приглашения Адвайты автор отсылает к Вриндавану Дасу."
+
+- id: ev-vijaya-dashami-hanuman-lanka
+  title: "Виджая-дашами: Господь в бхаве Ханумана рушит «Ланку»"
+  title_en: "Vijaya-dashami: in Hanuman's mood the Lord storms 'Lanka'"
+  period: P12
+  order: 79
+  calendar: "Виджая-дашами"
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [festival, ecstasy]
+  notes: "ЧЧ Мадхья 15.32–36; там же упомянуты Раса-ятра, Дипавали и Уттхана-двадаши."
+
+- id: ev-lord-eats-shachi-offering
+  title: "Господь незримо вкушает подношение Шачи"
+  title_en: "The Lord invisibly eats Shachi's offering"
+  period: P12
+  order: 79.5
+  calendar: "Виджая-дашами"
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [family, separation, revelation]
+  notes: "ЧЧ Мадхья 15.47–66: рассказ Господа Шривасе с поручением передать Шачи прасад и просьбу о прощении. Ср. ev-avirbhava-four-places."
+
+- id: ev-raghava-pandita-seva-glory
+  title: "Слава служения Рагхавы Пандита: кокосы для Кришны"
+  title_en: "The glory of Raghava Pandita's service: coconuts for Krishna"
+  period: P12
+  order: 90.2
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [prasada, deities]
+  notes: "ЧЧ Мадхья 15.68–92: Господь описывает преданным чистоту его подношений; кокосы, коснувшиеся притолоки, выброшены."
+
+- id: ev-satyaraja-vaishnava-question
+  title: "Вопросы Сатьяраджи Хана: путь грихастхи и признаки вайшнава"
+  title_en: "Satyaraja Khan's questions: the path of a householder and the marks of a Vaishnava"
+  period: P12
+  order: 95.5
+  cc: "Мадхья 15; Мадхья 16"
+  cb: ""
+  themes: [teaching]
+  teaching: [holy-name, vaishnava]
+  notes: "ЧЧ Мадхья 15.102–111 (первый год: «тот, кто хоть раз произнёс имя Кришны»); продолжение вопросов — в следующие годы (Мадхья 16)."
+
+- id: ev-farewell-gauda-devotees-instructions
+  title: "Прощание с бенгальскими преданными: поручения каждому"
+  title_en: "Farewell to the Bengali devotees: instructions to each"
+  period: P12
+  order: 89
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [separation, teaching]
+  notes: "ЧЧ Мадхья 15.39–183: сводное событие для поручений, не выделенных в отдельные события (Сарвабхаума и Вачаспати — Джаганнатха и Ганга; прощание; Гададхара в Ямешваре). Отдельно: ev-nityananda-sent-to-gauda, ev-lord-eats-shachi-offering, ev-raghava-pandita-seva-glory, ev-kulinagrama-glory, ev-satyaraja-vaishnava-question, ev-mukunda-dasa-peacock, ev-vasudeva-datta-prayer."
+
+- id: ev-murari-test-rama-devotion
+  title: "Испытание верности Мурари Гупты Раме"
+  title_en: "The test of Murari Gupta's fidelity to Rama"
+  period: P07
+  order: 104.5
+  cc: "Мадхья 15"
+  cb: ""
+  themes: [mercy, teaching]
+  notes: "ЧЧ Мадхья 15.137–157 (рассказ Господа в Пури): Мурари не может оставить Рагхунатху; «ты — Хануман». Ср. ev-murari-ramadasa."
+
+- id: ev-gauda-devotees-come-with-wives
+  title: "Преданные Гауды идут в Пури с жёнами; Шивананда ведёт паломников"
+  title_en: "The devotees of Gauda go to Puri with their wives; Shivananda leads the pilgrims"
+  period: P12
+  order: 140
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [pilgrimage, deities, prasada]
+  notes: "ЧЧ Мадхья 16.12–47 («на третий год»): Ремуна (кшира Гопинатхи, рассказы Нитьянанды о Мадхавендре и Сакши-гопале), встреча в Пури."
+
+- id: ev-nityananda-asked-stay-gauda
+  title: "Господь просит Нитьянанду не приходить каждый год, а оставаться в Бенгалии"
+  title_en: "The Lord asks Nityananda not to come every year but to remain in Bengal"
+  period: P12
+  order: 142
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [mercy, separation]
+  notes: "ЧЧ Мадхья 16.59–68: «Я — тело, Ты — жизнь»; там же загадочная просьба Адвайты жестами."
+
+- id: ev-pundarika-odana-shashthi-slap
+  title: "Одана-шаштхи: Джаганнатха и Баларама во сне бьют Пундарику Видьянидхи по щекам"
+  title_en: "Odana-shashthi: in a dream Jagannatha and Balarama slap Pundarika Vidyanidhi"
+  period: P12
+  order: 143
+  calendar: "Одана-шаштхи"
+  cc: "Мадхья 16"
+  cb: "Антья 10"
+  themes: [offense, jagannatha, celestial]
+  notes: "ЧЧ Мадхья 16.76–81 (кратко; подробно, по словам автора, — у Вриндавана Даса): негодование на накрахмаленную ткань Джаганнатхи; там же — повторное посвящение Гададхары."
+
+- id: ev-ramananda-farewell-remuna
+  title: "Прощание с Раманандой Раем в Ремуне"
+  title_en: "Farewell to Ramananda Raya at Remuna"
+  period: P13
+  order: 2.8
+  cc: "Мадхья 16"
+  cb: ""
+  themes: [separation, pilgrimage]
+  notes: "ЧЧ Мадхья 16.150–155: Рамананда падает без чувств, Господь кладёт его голову к Себе на колени и плачет."
+
+- id: ev-prakashananda-mocks-lord-kashi
+  title: "Пракашананда насмехается над Господом; «майявади не могут произнести имя Кришны»"
+  title_en: "Prakashananda mocks the Lord; 'the Mayavadis cannot utter the name of Krishna'"
+  period: P13
+  order: 36.5
+  cc: "Мадхья 17"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [holy-name, vedanta]
+  notes: "ЧЧ Мадхья 17.101–146 (на пути во Вриндаван): брахман из Махараштры передаёт Господу насмешки Пракашананды; учение о единстве имени, облика и личности Кришны; «товар премы в Каши никто не купил». Обращение Пракашананды — ev-varanasi-sannyasis (Мадхья 25)."

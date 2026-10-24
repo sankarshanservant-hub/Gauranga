@@ -1,0 +1,143 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/gangadasa-pandita.md и lila-db.
+id: "@gangadasa-pandita"
+names:
+  ru: "Гангадас Пандит"
+  en: "Gangadasa Pandita"
+  variants: ["Гангадас", "Ганга-дас", "випра Гангадас", "Адхьяпака-широмани", "Упадхьяя-широмани"]
+  facts: [F1]
+kind: guru
+circle: [navadvipa, puri]
+period: [P00, P01, P04, P05, P07, P08, P09, P12]
+period_note: "Нисходит прежде Господа (F6–F7); до явления — среди вайшнавов при Адвайте (F34–F35); учитель Нимая после упанаяны (F12–F22, F58–F59); после Гаи — встреча и увещевание (F24–F31); лично — в махапракаше, при спасении Джагая и Мадхая, в действе у Чандрашекхары (привратник — F60), шествии к Кази, у Шридхары (F38–F47); в последнюю ночь Господа в Навадвипе и после Его ухода — вестник между преданными и Шачи (F61); скорбит о санньясе (F48); в Шантипуре — в 1510 г. и в 1514 г., когда привёл туда Шачи (F49); в Пури — на Ратха-ятре и в играх на озере Нарендра (F50–F56)."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: "#navadvipa"
+    conf: "дня явления источники не называют; место — Надия (ЧБ Ади 2.98) ≠ возможное прочтение ЧЧ Ади 13.61 (Радха-деша); в календаре Шри Чайтанья Сарасват Матха даты нет"
+    facts: [F6, F8]
+    note: "В календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и годовые файлы 540–541, проверено 2026-10-21) нет ни явления, ни ухода Гангадаса Пандита."
+  disappearance:
+    date: ""
+    conf: "день, год и место ухода источники не называют"
+    facts: []
+origin:
+  places: ["#navadvipa", "#ganganagara", "#house-gangadasa", "#simantadvipa"]
+  family: []
+  varna: "брахман (випра)"
+  facts: [F1, F6, F9, F10, F11]
+unnamed:
+  - {who: "его семья (T: жена и дети), бежавшая с ним к переправе", type: relative, facts: [F39, F40]}
+relations:
+  - {type: disciple, who: "@mahaprabhu", facts: [F12, F13, F14, F15, F16, F17, F19, F21, F22, F24, F25, F30, F31, F32, F33, F58, F59, F62], events: [ev-study-gangadasa, ev-return-visits-gangadasa-mukunda-sanjaya, ev-gangadasa-admonishes-nimai],
+     note: "Учитель грамматики Нимая (ЧЧ Ади 15.5); ученичество Господа — лила (⚠Б1)."}
+  - {type: companion, who: "@mahaprabhu", facts: [F4, F38, F39, F40, F41, F43, F44, F46, F47, F49, F52, F53, F54, F56, F60, F61, F62], events: [ev-gangadasa-ferry-rescue, ev-jagai-madhai-deliverance, ev-nagara-kirtana-kazi, ev-ratha-yatra-gundicha],
+     note: "Вечный спутник, «очень дорогой Чайтанье» (ЧЧ Ади 10.29); в махапракаше Господь напомнил, как в облике перевозчика спас его семью."}
+  - {type: other, who: "@jagannatha-mishra", facts: [F12, F30], note: "Отдал ему сына в учение (T 14, B 715); Гангадас хвалит его род."}
+  - {type: other, who: "@nilambara-chakravarti", facts: [F30], note: "Гангадас ставит в пример род деда Нимая по матери."}
+  - {type: companion, who: "@murari-gupta", facts: [F6, F17, F18, F20, F49, F62], note: "Учился в его толе вместе с Нимаем (T 41, B 774); в 1514 г. пошёл с ним и Шачи в Шантипур (ЧБ Антья 4.238)."}
+  - {type: companion, who: "@mukunda-datta", facts: [F20], note: "Соученик Нимая в его пашашале (B 808)."}
+  - {type: companion, who: "@krishnananda-navadvipa", facts: [F17, F18, F20], note: "Соученик Нимая (T 34; БР 12 по T)."}
+  - {type: companion, who: "@kamalakanta-navadvipa", facts: [F17, F18, F20], note: "Соученик Нимая (T 34; БР 12 по T)."}
+  - {type: other, who: "@mukunda-sanjaya", facts: [F28], note: "В его чанди-мандапе Господь учил после Гаи."}
+  - {type: other, who: "@advaita", facts: [F7, F34, F35, F49, F61], event: ev-advaita-calls-lord, note: "До явления Господа Адвайта возглавлял вайшнавов, в т. ч. его (B 724); обет «Слушайте, Шукламбара, Гангадас, Шриваса!» (B 1007)."}
+  - {type: companion, who: "@srivasa", facts: [F33, F34, F35, F38, F42, F54, F60, F61], note: "Вместе объясняли Господу, кто такие Джагай и Мадхай (ЧБ Мадхья 13.121); в группе Шривасы на Ратха-ятре; по «Чандродае» Шриваса поставил его привратником при действе и послал утешить Шачи."}
+  - {type: companion, who: "@shuklambara", facts: [F35], note: "Вместе названы в обете Адвайты (B 1007)."}
+  - {type: companion, who: "@chandrashekhara-acharya", facts: [F6, F34, F43, F45, F49], note: "Среди тайно родившихся прежде Господа; в действе в его доме (привратник — по «Чандродае»); в 1510 г. Шачи в Шантипур привёз Чандрашекхара (ЧЧ), в 1514 г. — Гангадас (ЧБ Антья 4.237)."}
+  - {type: other, who: "@nityananda", facts: [F36, F54], note: "Нитьянанда в детском настроении заходил к нему (ЧБ Мадхья 8.25); танцор его группы на Ратха-ятре."}
+  - {type: met, who: "@jagai-madhai", facts: [F42, F43, F44], event: ev-jagai-madhai-deliverance, note: "Рассказал Господу о них; был при них за закрытыми дверями и в играх в Ганге."}
+  - {type: other, who: "@haridasa-thakura", facts: [F42, F54], note: "Харидас с Нитьянандой бежали от Джагая и Мадхая; T считает Харидаса Тхакура членом его группы на Ратха-ятре."}
+  - {type: companion, who: "@bada-haridasa", facts: [F54], note: "B 747 — «Бада (?) Харидас» во второй группе; ЧЧ — «Харидас»."}
+  - {type: companion, who: "@shriman-pandita", facts: [F6, F54]}
+  - {type: companion, who: "@shubhananda", facts: [F54]}
+  - {type: companion, who: "@srirama-pandita", facts: [F54]}
+  - {type: other, who: "@chand-kazi", facts: [F46], event: ev-nagara-kirtana-kazi}
+  - {type: other, who: "@shridhara", facts: [F47], event: ev-shridhara-kholavecha, note: "Плакал, видя любовь Господа к Шридхаре (ЧБ Мадхья 23.450)."}
+  - {type: other, who: "@shachi", facts: [F49, F61], events: [ev-shantipura-after-natashala, ev-lament-after-lord-leaves], note: "В 1514 г. повёл Шачи в Шантипур к Господу (ЧБ Антья 4.237; B 747); по «Чандродае» в утро ухода Господа — вестник между ней и преданными."}
+  - {type: other, who: "@sarvabhauma", facts: [F52], event: ev-prataparudra-watches-devotees-roof, note: "Назвал его Пратапарудре (ЧЧ Мадхья 11.85)."}
+  - {type: other, who: "@prataparudra", facts: [F52], event: ev-prataparudra-watches-devotees-roof}
+  - {type: other, who: "@sudarshana-pandita", facts: [F2, F58], note: "По ГГД 53 оба — проявления Васиштхи; оба — учителя Нимая (ЧМ, Мурари 1.9.1)."}
+  - {type: other, who: "@vishnu-pandita", facts: [F58], note: "Ещё один учитель Нимая (ЧМ, Мурари 1.9.1)."}
+  - {type: companion, who: "@vakreshvara", facts: [F61], note: "«Чандродая», акт 4: Гангадас видит пляску Вакрешвары в последнюю ночь Господа в Навадвипе."}
+  - {type: other, who: "@keshava-bharati", facts: [F5], note: "ГГД 52: Сандипани = Кешава Бхарати (T 34)."}
+  - {type: other, who: "@vrindavana-dasa", facts: [F32], note: "Поклон Вриндавана Даса Гангадасу (ЧБ Мадхья 1.283–284)."}
+identities:
+  - in: rama-lila
+    as: "Васиштха Муни, гуру Рамачандры (особое проявление; вместе с Сударшаной)"
+    source: "ГГД 53 (наш перевод)"
+    level: A
+    facts: [F2]
+    variants: ["B 745: «пракаша-виграха» Васиштхи — назван лишь Гангадас.", "T 34: Васиштха явился в двух проявлениях — Гангадасе и Сударшане."]
+  - in: krishna-lila
+    as: "подобный Сандипани Муни, учителю Кришны"
+    source: "ЧБ Ади 8.26"
+    level: A
+    facts: [F5]
+    variants: ["B 745, B 715, T 14: «тот самый» Сандипани.", "«Гаудия-вайшнава-абхидхана» (по T 34): Васиштха вошёл в Сандипани — согласование.", "ГГД 52 (наш перевод): Сандипани стал Кешавой Бхарати."]
+    note: "Текст ЧБ — «যে-হেন সান্দীপনি» (подобный); отождествление «тот самый» — прочтение авторов B и T."
+  - in: krishna-lila
+    as: "мудрец Дурваса, любимый гопи (вместе с Джаганнатхой Ачарьей)"
+    source: "ГГД 111 (наш перевод; у T — «199»)"
+    level: A
+    facts: [F3]
+    variants: ["Наш перевод: «в Нидхуване»; T 34: «в Мадхуване».", "Наш разбор ГГД: «ганга-даса» в ст. 111 может быть эпитетом Джаганнатхи Ачарьи."]
+  - in: tattva
+    as: "вечный спутник (нитья-сиддха), тайно родившийся в Надии прежде Господа; из Его старших (гуру-варга)"
+    source: "ЧБ Ади 2.98–99"
+    level: A
+    facts: [F6, F7]
+    events: [ev-associates-descend]
+events:
+  - ev-navadvipa-vaishnavas-before-advent
+  - ev-advaita-calls-lord
+  - ev-associates-descend
+  - ev-upanayana
+  - ev-study-gangadasa
+  - ev-nimai-murari-debate
+  - ev-nimai-pandit-teaching
+  - ev-return-visits-gangadasa-mukunda-sanjaya
+  - ev-gangadasa-admonishes-nimai
+  - ev-gaura-dance-with-devotees
+  - ev-gangadasa-ferry-rescue
+  - ev-jagai-madhai-deliverance
+  - ev-jala-keli-navadvipa
+  - ev-chandrashekhara-drama
+  - ev-leaving-navadvipa
+  - ev-lament-after-lord-leaves
+  - ev-nagara-kirtana-kazi
+  - ev-shridhara-kholavecha
+  - ev-sannyasa-decision-devotees-grief
+  - ev-navadvipa-lament-after-sannyasa
+  - ev-shantipura-reunion
+  - ev-shantipura-after-natashala
+  - ev-gauda-devotees-set-out-puri
+  - ev-snana-yatra-anavasara-alalanatha
+  - ev-prataparudra-watches-devotees-roof
+  - ev-gauda-devotees-arrive-puri
+  - ev-ratha-yatra-gundicha
+  - ev-narendra-jala-keli
+  - ev-gauda-devotees-yearly-visit
+  - ev-tattva-bhakti-kalpataru
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#navadvipa", "#ganganagara", "#house-gangadasa", "#simantadvipa", "#house-srivasa", "#house-chandrashekhara", "#shantipura", "#puri", "#alalanatha", "#narendra-sarovara"]
+places_facts: [F6, F9, F10, F11, F28, F38, F45, F49, F50, F51, F56]
+character:
+  - {trait: "отеческая любовь к ученику: держал Нимая при себе как сына и радовался его уму", facts: [F14, F16, F20]}
+  - {trait: "попечение учителя-пандита: после Гаи благословил Господа и велел продолжать учить", facts: [F25, F26, F27, F30], events: [ev-gangadasa-admonishes-nimai]}
+  - {trait: "сокровенная связь с Господом: только Господь знал, как спас его у переправы, — и он упал без чувств от блаженства", facts: [F39, F40, F41], events: [ev-gangadasa-ferry-rescue]}
+  - {trait: "верность до конца: в Шантипуре, в Пури и на Ратха-ятре — рядом с Господом", facts: [F49, F50, F53, F54]}
+  - {trait: "доверие преданных и Шачи: привратник при действе, вестник к Шачи в утро ухода Господа, провожатый её в Шантипур", facts: [F49, F60, F61]}
+significance: {facts: [F4, F32, I1, I2, I3, I4, I5]}
+sources:
+  T: "34–35 (гл.); 14, 41, 50, 106"
+  M: "223 (вне глав)"
+  B: "745–747 (гл.); 715, 724, 740, 774, 808, 1007, 1064"
+  other: ["ГГД 52, 53, 111", "ЧЧ Ади 10.29, 13.61, 15.5", "ЧЧ Мадхья 3.153, 11.85, 11.159–160, 13.38–39", "ЧЧ Антья 10.9–11", "ЧБ Ади 2.98–99, 2.118–119, 8.24–39, 8.189–192, 10.6–9, 11.5–8", "ЧБ Антья 4.233–239, 8.3–9, 8.125–126", "ЧМ Ади-кханда, ч. 9, ст. 706–708", "Мурари 1.9.1–3, 4.17.4", "«Чайтанья-чандродая», акты 3, 4", "ЧБ Мадхья 1.120–124, 1.261–284, 2.274, 8.25, 8.84, 8.112–116, 9.109–120, 13.120–123, 13.238–240, 13.335–337, 18.107–108, 23.150, 23.450, 28.85; 21.2", "БР 12.2185–2188 (по T)", "«Гаудия-бхашья» к ЧБ Ади 8.24 (по T)"]
+article: {ru: "parshadas/ru/gangadasa-pandita.md", en: "parshadas/en/gangadasa-pandita.md"}
+open_questions:
+  - "Сандипани: «подобный» (ЧБ Ади 8.26) или «тот самый» (B, T 14); ГГД 52 — Сандипани = Кешава Бхарати (F5)."
+  - "ГГД 111: Гангадас — Дурваса вместе с Джаганнатхой Ачарьей или «ганга-даса» — эпитет Джаганнатхи; Нидхувана или Мадхувана (F3)."
+  - "Место рождения: Надия (ЧБ Ади 2.98) или Радха-деша (ВЧД ЧЧ Ади 13.61) (F8)."
+  - "Дни явления и ухода неизвестны; в нашем календаре их нет."

@@ -972,7 +972,7 @@ by the power of māyā  by You  even  being hidden
 paśyanti kecid aniśaṁ tvad-ananya-bhāvāḥ  
 see  some  constantly  devoted to You alone
 
-(88) “Your supreme nature transcends the three kinds of limits, and nothing can be equal to it or greater. Though You hide it by the power of Your own māyā, some, devoted to You alone, see it at all times.” (Stotra-ratna 13)
+(88) “Your supreme nature transcends the three kinds of limits, and nothing can be equal to it or greater. Though You hide it by the power of Your own māyā (Yogamāyā), some, devoted to You alone, see it at all times.” (Stotra-ratna 13)
 
 অসুরস্বভাবে কৃষ্ণে কভু নাহি জানে ৷  
 লুকাইতে নারে কৃষ্ণ ভক্তজন-স্থানে ॥ ৮৯ ॥

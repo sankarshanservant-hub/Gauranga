@@ -1,0 +1,2265 @@
+# «Чайтанья-чаритамрита», Мадхья-лила 2–9 — записи базы лил (исполнитель cc-m1). Формат — lila-db/README.md.
+
+- id: cc-1001
+  source: cc
+  ref: "Мадхья 2.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 995
+  title: "Мадхья 2: вступление — о пралапе Гауры в разлуке с Кришной; слава Чайтанье, Нитьянанде, Адвайте и преданным"
+  summary: "Автор объявляет, что в этой главе, кратко пересказывая сутры Антья-лилы, опишет бессвязные речи Гауры в разлуке с Кришной, и славит Шри Чайтанью, Нитьянанду, Адвайтачандру и преданных Гауры."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "1", to: "2"}
+
+- id: cc-1002
+  source: cc
+  ref: "Мадхья 2.3–14"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100
+  title: "Последние двенадцать лет: Господь, как Радха при встрече с Уддхавой, в безумии разлуки; Гамбхира, Львиные врата, океан, дюны-Говардхана"
+  summary: "Последние двенадцать лет Господь непрестанно переживал разлуку с Кришной, как Радха при виде Уддхавы: речи Его стали бессвязны, из пор сочилась кровь, тело то худело, то полнело. Ночами без сна в Гамбхире Он тёрся лицом о стены; при запертых трёх дверях выходил и падал у Львиных врат или бросался в океан, бежал к песчаным дюнам, принимая их за Говардхану, а сады — за Вриндаван. Суставы Его растягивались, а руки, ноги и голова втягивались в тело, как у черепахи, — такие преображения не были известны прежде."
+  persons: ["@mahaprabhu", "@radha", "@uddhava"]
+  places: ["#puri", "#chataka-parvata"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "3", to: "14"}
+
+- id: cc-1003
+  source: cc
+  ref: "Мадхья 2.15–34"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.1
+  title: "Пралапа: «Где Мой владыка жизни?» — Господь произносит шлоку из драмы Рамананды и сетует, что без Кришны глаза, уши, язык, нос и тело напрасны"
+  summary: "В скорби разлуки Господь восклицает: «Где сын Нанды, играющий на флейте?» — и произносит шлоку «Джаганнатха-валлабха-натаки» (3.9) о любви, что ранит, не разбирая, и о мимолётности юности; Кришна, как огонь мотыльков, похитил сердца и бросил их в океан разлуки. Затем в волнах бхавы Он говорит: глаза, не видевшие лица Кришны, уши, не слышавшие Его повествований и флейты, язык, не вкусивший Его губ, нос, не ощутивший Его благоухания, тело, не знавшее прикосновения Его стоп, — бесполезны."
+  persons: ["@mahaprabhu", "@krishna", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  scriptures: ["Джаганнатха-валлабха-натака, 3.9"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "15", to: "34"}
+
+- id: cc-1004
+  source: cc
+  ref: "Мадхья 2.35–38"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.2
+  title: "Пралапа: «Если вновь увижу Кришну, украшу те мгновения драгоценностями»"
+  summary: "В смирении и безнадёжности Господь вновь и вновь повторяет шлоку «Джаганнатха-валлабха-натаки» (3.11): когда случается увидеть Кришну, хотя бы во сне, блаженство и Камадева похищают ум, и не наглядеться на Него; если же Он вновь явится, те мгновения Господь умастит сандалом и украсит гирляндами и драгоценностями."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Джаганнатха-валлабха-натака, 3.11"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "35", to: "38"}
+
+- id: cc-1005
+  source: cc
+  ref: "Мадхья 2.39–49"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.3
+  title: "Вернувшись во внешнее сознание, Господь говорит Сварупе и Рамананде: «Во Мне нет и запаха любви к Кришне»"
+  summary: "Приходя во внешнее сознание, Господь спрашивает двух спутников, не говорил ли Он в безумии, и открывает им сердце: чистая према невозможна среди смертных, а если она есть, то разлуки не пережить. Позабыв стыд, Он произносит шлоку: «Во Мне нет и капли любви к Кришне, Я плачу, лишь чтобы показать Свою удачу; не видя Его лица, Я, как насекомое, влачу жизнь и забочусь о теле». Чистая любовь к Кришне подобна безупречно белой ткани и безбрежному океану счастья, капля которого затопит мир; описать её нельзя, но безумец не может молчать."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, teaching]
+  bhava: [radha, devotee]
+  teaching: [prema]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "39", to: "49"}
+
+- id: cc-1006
+  source: cc
+  ref: "Мадхья 2.50–52"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.4
+  title: "Яд и нектар любви: снаружи — муки, внутри — блаженство"
+  summary: "День за днём наедине с Раманандой Раем и Сварупой Дамодарой Господь являл Свои бхавы: внешне Он словно страдал от яда, но внутри был исполнен блаженства. Любовь к Кришне — как жгучий сладкий сироп, смесь яда и нектара; приведена шлока «Видагдха-мадхавы» (2.18)."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Видагдха-мадхава, 2.18"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "50", to: "52"}
+
+- id: cc-1007
+  source: cc
+  ref: "Мадхья 2.53–56"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.5
+  title: "Даршан Джаганнатхи у колонны Гаруды: «Я пришёл на Курукшетру»; канава у колонны наполняется слезами; «Где же Вриндаван?»"
+  summary: "Видя Джаганнатху с Баларамой и Субхадрой, Господь думал, что пришёл на Курукшетру и узрел лотосоокого Героя. Стоя у колонны Гаруды, Он смотрел на Джаганнатху, и канава у её основания наполнялась Его слезами. Возвращаясь из храма, Он сидел, чертя ногтями по земле, и стенал: «Где Вриндаван, где Кришна, сын царя пастухов, где берег Ямуны, где танец раса?»"
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@balarama", "@subhadra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "В переводе ВЧД ст. 54 — «статуя Гаруды»; имеется в виду колонна Гаруды (гаруда-стамбха) в храме Джаганнатхи."
+  themes: [jagannatha, ecstasy, separation]
+  bhava: [radha]
+  cc: "Мадхья 2"
+  event: ev-garuda-stambha-darshan
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "53", to: "56"}
+
+- id: cc-1008
+  source: cc
+  ref: "Мадхья 2.57–65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.6
+  title: "Пралапа в шлоках «Кришна-карнамриты»: «Как пережить дни и ночи, не видя Тебя?»; битва бхав в теле Господа"
+  summary: "Не в силах вынести разлуку, Господь произносит шлоки «Кришна-карнамриты» (41, 32): «О Хари, океан милости, как прожить дни и ночи без Твоего даршана?», «Когда Я увижу Твоё лицо в уединении?» Противоборствующие бхавы — стремление, дерзость, смирение, гнев, нетерпение — сходились в Нём, как бешеные слоны на тростниковом поле, истощая тело и ум; тогда Он произнёс шлоку «Карнамриты» (40): «Когда же Я вновь увижу Тебя?»"
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Кришна-карнамрита, 41", "Кришна-карнамрита, 32", "Кришна-карнамрита, 40"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "57", to: "65"}
+
+- id: cc-1009
+  source: cc
+  ref: "Мадхья 2.66–71"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.7
+  title: "Пралапа: Кришна то порицаем, то прославляем — «Ты коварный обольститель… Ты — отрада Моих глаз»"
+  summary: "В безумии разлуки, ни на миг не забывая Кришну, Господь то упрекает Его — непостоянного, привлекающего всех женщин, коварного, — то тут же оправдывает и славит: Он океан милости, владыка Враджа, возлюбленный; «Если Ты ушёл, услышав упрёк, — внемли хвале: Ты — Моё богатство и жизнь, явись вновь»."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "66", to: "71"}
+
+- id: cc-1010
+  source: cc
+  ref: "Мадхья 2.72–76"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 100.8
+  title: "Господь видит Кришну в беспамятстве и вскакивает с криком «Кришна пришёл!» (шлока «Карнамриты», 68)"
+  summary: "Оцепенение, дрожь, испарина, слёзы охватывали Господа: Он плакал, смеялся, плясал, пел, бежал, падал без сознания. Однажды в беспамятстве Он увидел Кришну и, очнувшись, вскочил с криком: «Пришёл Кришна!» — и произнёс шлоку «Кришна-карнамриты» (68): «Не Он ли, сам бог любви, сияющий как кадамба, вновь предстал Моим глазам?» Бхавы — отчаяние, скорбь, смирение, ликование, гнев — как гуру учеником, управляли Его телом и умом."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Кришна-карнамрита, 68"]
+  cc: "Мадхья 2"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "72", to: "76"}
+
+- id: cc-1011
+  source: cc
+  ref: "Мадхья 2.77–78"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: P14
+  order: 99
+  title: "Со Сварупой и Раманандой Господь дни и ночи поёт Чандидаса, Видьяпати, «Гита-говинду», «Карнамриту» и драму Рамананды; четыре расы со спутниками"
+  summary: "С великой радостью Господь дни и ночи вместе с Раманандой Раем и Сварупой Дамодарой пел песни Чандидаса и Видьяпати, стихи «Гита-говинды», «Кришна-карнамриты» и «Джаганнатха-валлабха-натаки». Он вкушал ватсалью с Парамананда Пури, сакхью с Раманандой Раем, дасью с Говиндой и другими, мадхурью с Гададхарой, Джагаданандой и Сварупой и считал Себя в долгу перед ними."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@chandidasa", "@vidyapati", "@jayadeva", "@bilvamangala", "@paramananda-puri", "@govinda-servant", "@gadadhara-pandita", "@jagadananda-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  teaching: [prema, associates-tattva]
+  cc: "Мадхья 2"
+  event: ev-last-twelve-years-gambhira
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "77", to: "78"}
+
+- id: cc-1012
+  source: cc
+  ref: "Мадхья 2.79–80"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 114.9
+  title: "Если Билвамангала являл такие бхавы, что говорить о Самом Господе; Кришна принял сердце и сияние Радхи, чтобы вкусить три сокровенных чувства"
+  summary: "Лилашука (Билвамангала Тхакур), будучи человеком, являл многие бхавы — не диво, что они проявлялись в теле Самого Владыки, познавшего все расы. Во Врадже Кришна пожелал вкусить три сокровенных чувства, но не смог, ибо они — достояние Радхи; поэтому Он принял Её сердце и сияние и пришёл как Шри Кришна Чайтанья."
+  persons: ["@mahaprabhu", "@bilvamangala", "@krishna", "@radha"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [gaura-tattva, prema]
+  cc: "Мадхья 2"
+  event: ev-krishna-resolves-advent-radha-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "79", to: "80"}
+
+- id: cc-1013
+  source: cc
+  ref: "Мадхья 2.81–83"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 122.1
+  title: "Вкушая прему, Господь учит ей и раздаёт её всем без разбора — Он самый милостивый из аватар; Его деяния понятны лишь по Его милости, в кругу преданных"
+  summary: "Вкушая прему, Господь учил ей Своих преданных и раздавал это сокровище всем без разбора; капли этого океана не получить даже Брахме, а Он раздал его миру — нет никого милостивее Его. Его удивительные деяния понятны лишь по Его милости, и обсуждать их следует в кругу Его преданных, со слугами Его слуг."
+  persons: ["@mahaprabhu", "@brahma"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva, vaishnava]
+  cc: "Мадхья 2"
+  event: ev-tattva-chaitanya-gives-rare-prema
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "81", to: "83"}
+
+- id: cc-1014
+  source: cc
+  ref: "Мадхья 2.84–95"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  period: PX
+  order: 995.1
+  title: "Сокровище лил Сварупы Дамодары через Рагхунатху Даса — в этой книге; ответ критикам о санскритских шлоках; старость автора; поклон и колофон"
+  summary: "Лилы Господа, хранимые в сердце Сварупы Дамодары, тот передал Рагхунатхе Дасу, а от него услышал и записал автор. Тем, кто сетует на обилие санскритских стихов, он отвечает: всем не угодить, а стихи объяснены простым языком; кто продолжает слушать, обретёт прему. Так кратко описана Антья-лила; автор, старый, с дрожащими руками, почти не видящий и не слышащий, надеется, если продлятся дни, описать её подробнее; он ничего не прибавил и не убавил, следуя Сварупе, Рупе и Рагхунатхе Дасу, и, по повелению вайшнавов Враджа, особенно Тхакура Харидаса, касается лишь капли этого океана."
+  persons: ["@krishnadasa-kaviraja", "@svarupa-damodara", "@raghunatha-dasa", "@rupa-gosvami", "@sanatana-gosvami", "@mahaprabhu", "@nityananda", "@advaita", "@haridasa-pandita-govinda"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 95 — «Тхакур Харидас» понят как Харидас Пандит, служитель Говинды во Вриндаване, по повелению которого написана книга (ЧЧ Ади 8); не Харидас Тхакур Намачарья."
+  themes: [author]
+  cc: "Мадхья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "84", to: "95"}
+
+- id: cc-1015
+  source: cc
+  ref: "Мадхья 3.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: PX
+  order: 995.2
+  title: "Мадхья 3: вступление — после санньясы Господь хотел идти во Врадж, но в преме блуждал по Радха-деше и пришёл в Шантипур"
+  summary: "Поклон Шри Чайтанье: приняв санньясу, Он решил идти во Враджа-дхаму, но, утратив внешнее сознание от любви к Кришне, странствовал по Радха-деше, а затем пришёл в Шантипур и наслаждался обществом преданных. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#radha-desha", "#shantipura"]
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "1", to: "2"}
+
+- id: cc-1016
+  source: cc
+  ref: "Мадхья 3.3–15"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 10
+  title: "Три дня в Радха-деше: Господь в преме повторяет шлоку авантийского брахмана; пастушки кричат «Хари!», и Он благословляет их"
+  summary: "Приняв санньясу в конце двадцать четвёртого года, в светлую половину магхи, Господь в преме пошёл во Вриндаван, но три дня блуждал по Радха-деше, очищая её, и повторял шлоку «Бхагаватам» (11.23.57) о решимости служить стопам Мукунды: «Цель одежд отречения — служение Мукунде; Я пойду во Вриндаван и в уединении буду служить Кришне». С Ним шли Нитьянанда, Чандрашекхара и Мукунда. Всякий, кто видел Его, избавлялся от бед; пастушки кричали «Хари! Хари!», и Господь, касаясь их голов, говорил: «Пойте! Вы очень удачливы»."
+  persons: ["@mahaprabhu", "@nityananda", "@chandrashekhara-acharya", "@mukunda-datta"]
+  places: ["#radha-desha"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, ecstasy, kirtan]
+  scriptures: ["Бхаг. 11.23.57"]
+  calendar: "санньяса — магха, светлая половина"
+  date_basis: "ЧЧ Мадхья 3.3: санньяса в конце 24-го года, в светлую половину магхи"
+  cc: "Мадхья 3"
+  event: ev-radha-desha-wandering
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "3", to: "15"}
+
+- id: cc-1017
+  source: cc
+  ref: "Мадхья 3.16–39"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 25
+  title: "Нитьянанда ведёт Господа к Ганге как к Ямуне; Адвайта на лодке с новой одеждой: «Где Ты — там Вриндаван»"
+  summary: "Нитьянанда тайно велит пастушкам указать Господу на дорогу во Вриндаван к Ганге, посылает Чандрашекхару к Адвайте (ждать с лодкой) и в Навадвипу за Шачи и преданными, а Господу на вопрос о Вриндаване отвечает: «Вот Ямуна». В преме Господь славит Ямуну шлокой «Чайтанья-чандродаи» (5.13) и омывается. Приплывший с новой одеждой Адвайта на вопрос «Как Ты узнал, что Я во Врадже?» отвечает: «Где Ты — там Вриндаван»; на упрёк Нитьянанде в обмане Адвайта говорит, что здесь Ганга и Ямуна текут вместе и у западного берега — Ямуна, и зовёт Господа, три дня не евшего, к Себе."
+  persons: ["@mahaprabhu", "@nityananda", "@chandrashekhara-acharya", "@advaita"]
+  places: ["#radha-desha", "#ganga", "#shantipura"]
+  kind: lila
+  authority: A
+  notes: "У Мурари (3.3) Чандрашекхару отпускает в Навадвипу Сам Господь (ev-chandrashekhara-sent-back); у Кавираджи его посылает Нитьянанда."
+  themes: [ecstasy, pranks]
+  scriptures: ["Чайтанья-чандродая-натака, 5.13"]
+  cc: "Мадхья 3"
+  event: ev-advaita-boat-ganga-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "16", to: "39"}
+
+- id: cc-1018
+  source: cc
+  ref: "Мадхья 3.40–107"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 40
+  title: "Пир у Адвайты: три подношения Кришне; «санньяси не подобает есть роскошно»; шутливая перебранка Адвайты и Нитьянанды, брошенный рис; Харидас и Мукунда едят после"
+  summary: "Адвайта везёт Господа к Себе, омывает Ему стопы; жена Ачарьи готовит, Адвайта подносит Вишну, всё делят на три части — на металлическом блюде для Кришны и в чашах из банановых листьев с сотнями блюд (перечень яств). Харидас и Мукунда отказываются есть вместе с Господом. Господь возражает, что санньяси не подобает роскошная еда; Адвайта отвечает: «В Пури Ты ешь пятьдесят четыре раза в день», — и подкладывает Ему снова и снова. Нитьянанда жалуется, что голоден; Адвайта называет Его падшим авадхутой-обжорой; Нитьянанда бросает рис, и Адвайта, коснувшись остатков, пляшет: «Я очищен!»; Нитьянанда: «Это прасад Кришны — искупи оскорбление, накорми сто санньяси». Затем Адвайта подносит пан, сандал и гирлянды; Господь не позволяет Ему растирать Свои стопы и посылает поесть с Мукундой и Харидасом."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@sita-thakurani", "@haridasa-thakura", "@mukunda-datta", "@krishna"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [prasada, pranks]
+  teaching: [prasada-teaching, sannyasa-teaching]
+  cc: "Мадхья 3"
+  event: ev-advaita-feast-shantipura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "40", to: "107"}
+
+- id: cc-1019
+  source: cc
+  ref: "Мадхья 3.108–136"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 45
+  title: "Шантипур стекается к Господу; вечерний киртан: Адвайта пляшет со шлокой «Сегодня Кришна в Моём доме», Мукунда поёт песнь разлуки, Господь в экстазе пляшет три часа"
+  summary: "Узнав о приходе Господа, жители Шантипура весь день приходят на даршан, восклицая «Хари!», изумлённые Его красотой. Вечером Адвайта начинает санкиртану и пляшет, пока Нитьянанда и Харидас пляшут следом; Адвайта поёт стих Радхи «После стольких дней разлуки Кришна снова в Моём доме» и, припадая к стопам Господа, говорит: «Ты долго скрывался, теперь Я свяжу Тебя». Господь падает в экстазе; Мукунда поёт песню, созвучную Его разлуке («любовь к Кришне стала ядом»), и бхавы сражаются в Нём, как воины. Господь вскакивает с криком «Пойте!» и пляшет три часа, пока Нитьянанда не останавливает Его. Десять дней подряд Адвайта устраивал пиры и киртаны."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@haridasa-thakura", "@mukunda-datta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy]
+  bhava: [radha]
+  cc: "Мадхья 3"
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "108", to: "136"}
+
+- id: cc-1020
+  source: cc
+  ref: "Мадхья 3.137–167"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 46
+  title: "Чандрашекхара привозит Шачи и жителей Надии: Шачи плачет над бритой головой сына — «Не будь жесток, как Вишварупа»; «Это тело — твоё»; молитва Шачи Нараяне"
+  summary: "Наутро Чандрашекхара привозит в паланкине Шачи, с ней — множество людей Надии. Господь падает к её стопам; Шачи, положив Его голову на колени, плачет над бритой головой: «Не будь жесток, как Вишварупа, — ты убьёшь меня». Господь отвечает: «Это тело рождено и взлелеяно тобой, Мне не выплатить долг; Я буду жить там, где скажешь». Он встречает каждого — Шривасу, Рамаи, Видьянидхи, Гададхару, Гангадаса, Вакрешвару, Мурари, Шукламбару и других; дом Адвайты стал как Вайкунтха, а запасы Адвайты, кормившего всех, не убывали. Шачи готовит для Господа; видя, как Он падает в киртане, она молит Нараяну, чтобы Нимай не чувствовал боли."
+  persons: ["@mahaprabhu", "@chandrashekhara-acharya", "@shachi", "@vishvarupa", "@advaita", "@srivasa", "@srirama-pandita", "@pundarika-vidyanidhi", "@gadadhara-pandita", "@gangadasa-pandita", "@vakreshvara", "@murari-gupta", "@shuklambara", "@buddhimanta-khan", "@nandana-acharya", "@shridhara", "@vijaya-dasa", "@vasudeva-datta", "@damodara-pandita", "@mukunda-datta", "@mukunda-sanjaya", "@narayana"]
+  places: ["#shantipura", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 154 — «Санджая» отнесён к @mukunda-sanjaya; «Дамодара» — к Дамодаре Пандиту (вероятно)."
+  themes: [family, separation, kirtan]
+  divergence: "Шачи привозит Чандрашекхара (по поручению Нитьянанды); у Мурари, Лочана и других её приводит Нитьянанда."
+  cc: "Мадхья 3"
+  event: ev-shantipura-reunion
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "137", to: "167"}
+
+- id: cc-1021
+  source: cc
+  ref: "Мадхья 3.168–192"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 55
+  title: "Шачи просит позволить ей одной готовить для Нимая; «как исполнить две дхармы?» — Шачи велит Господу жить в Пури; Господь просит всех совершать Кришна-санкиртану"
+  summary: "Шриваса и другие брахманы хотели угощать Господа, но Шачи просит: «Позвольте мне готовить, пока Он здесь». Тронутый, Господь говорит преданным: Он не оставит ни их, ни мать, но санньяси не подобает жить у родных — как исполнить обе дхармы? Шачи отвечает: если Его будут порицать, она будет несчастна; пусть живёт в Джаганнатха-Пури — оттуда часто приходят вести, преданные смогут ходить к Нему, а Он — приходить к Ганге. Преданные славят её слова как веды; Господь радостно просит всех дома совершать Кришна-санкиртану и обещает возвращаться."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa", "@advaita"]
+  places: ["#shantipura", "#puri"]
+  kind: lila
+  authority: A
+  themes: [family, sannyasa, kirtan]
+  teaching: [sannyasa-teaching, holy-name]
+  cc: "Мадхья 3"
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "168", to: "192"}
+
+- id: cc-1022
+  source: cc
+  ref: "Мадхья 3.193–215"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 56
+  title: "Харидас: «Как я буду жить без Тебя?» — Господь обещает взять его в Пури; ещё несколько дней праздника у Адвайты; прощание, Адвайта со слезами идёт следом"
+  summary: "Харидас Тхакур со слезами говорит, что ему, низкому, не попасть к Господу в Пури; Господь просит его оставить смирение и обещает взять его с Собой и молиться за него перед Джаганнатхой. По просьбе Адвайты Господь остаётся ещё на несколько дней: днём беседы о Кришне, ночью санкиртана, Шачи готовит. Затем Он отпускает преданных по домам, велит совершать санкиртану; Адвайта даёт в спутники Нитьянанду, Джагадананду, Дамодару Пандита и Мукунду. Господь утешает мать, обходит её и уходит под плач; Адвайте, идущему следом в слезах, Он велит вернуться и утешить мать и преданных."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@advaita", "@shachi", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  themes: [separation, family]
+  cc: "Мадхья 3"
+  event: ev-farewell-shantipura
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "193", to: "215"}
+
+- id: cc-1023
+  source: cc
+  ref: "Мадхья 3.216–217"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: P09
+  order: 70
+  title: "Через Чхатрабхогу вдоль Ганги — в Пури; путь подробно описан Вриндаваном Дасом"
+  summary: "Господь направился через Чхатрабхогу вдоль Ганги в Джаганнатха-Пури. Путешествие подробно описал Вриндаван Дас Тхакур в «Чайтанья-бхагавате» (первоначально — «Чайтанья-мангала»)."
+  persons: ["@mahaprabhu", "@vrindavana-dasa"]
+  places: ["#chhatrabhoga", "#ganga", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; ссылка на ЧБ Антья 2."
+  themes: [pilgrimage]
+  cc: "Мадхья 3"
+  event: ev-journey-to-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "216", to: "217"}
+
+- id: cc-1024
+  source: cc
+  ref: "Мадхья 3.218–219"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  period: PX
+  order: 995.3
+  title: "Плод слушания об играх в доме Адвайты; колофон"
+  summary: "Кто с преданностью слушает об этих играх Господа в доме Адвайты, вскоре обретёт сокровище любви к Кришне. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "218", to: "219"}
+
+- id: cc-1025
+  source: cc
+  ref: "Мадхья 4.1–9"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: PX
+  order: 995.4
+  title: "Мадхья 4: поклон Мадхавендре Пури, ради которого Гопинатха украл сладкий рис и явился Гопала; автор лишь упоминает подробно описанное Вриндаваном Дасом"
+  summary: "Поклон Мадхавендре Пури: ради него Гопинатха украл горшок сладкого риса и стал зваться Кширачорой, а Гопала, покорённый его любовью, явил Себя. Слава Гаурачандре, Нитьянанде, Адвайте и преданным. Игры, подробно и сладостно описанные Вриндаваном Дасом, автор лишь упомянет, а подробнее опишет то, что тот изложил кратко, — и молит не счесть это оскорблением."
+  persons: ["@krishnadasa-kaviraja", "@madhavendra-puri", "@gopala-remuna", "@shrinathji-deity", "@vrindavana-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 4"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "1", to: "9"}
+
+- id: cc-1026
+  source: cc
+  ref: "Мадхья 4.10–20"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P09
+  order: 80
+  title: "Путь в Пури: милость сборщикам пошлин; в Ремуне с Гопинатхи на голову Господа падает венец; Господь остаётся ради кширы и рассказывает историю Кширачоры"
+  summary: "Господь с четырьмя спутниками шёл в Пури, воспевая имя Кришны и собирая подаяние в деревнях; переправляясь через реки, Он одаривал милостью сборщиков пошлин, и те не мешали Ему. В Ремуне, когда Он склонился к стопам Гопинатхи, с Божества Ему на голову упал цветочный венец; в ликовании Он долго пел и плясал, и слуги, изумлённые, оказали Ему служение. Слышав от Ишвары Пури о случившемся здесь прежде, Господь остался на ночь, желая отведать сладкого риса Гопинатхи, и рассказал преданным, почему Божество зовут Кширачора."
+  persons: ["@mahaprabhu", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta", "@gopala-remuna", "@ishvara-puri"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  themes: [deities, pilgrimage, ecstasy]
+  cc: "Мадхья 4"
+  event: ev-remuna-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "10", to: "20"}
+
+- id: cc-1027
+  source: cc
+  ref: "Мадхья 4.21–102"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P01
+  order: 1.72
+  title: "Рассказ Господа: пастушок приносит Мадхавендре молоко у Говинда-кунды; во сне Гопала велит вынести Его из рощи; установление на Говардхане, абхишека и Аннакута"
+  summary: "Мадхавендра Пури в преме обходит Говардхану, омывается в Говинда-кунде и сидит под деревом; прекрасный пастушок приносит ему кувшин молока: «В нашей деревне никто не голодает». Ночью мальчик во сне ведёт его в рощу: «Я — Гопала, Поднявший Говардхану, установленный Ваджрой; жрец спрятал Меня от мусульман; перенеси Меня на холм». Мадхавендра понимает, что видел Самого Кришну; с жителями деревни он вырубает путь, Божество с трудом поднимают на вершину и ставят на камень. Совершена великая абхишека (панча-гавья, панчамрита, ароматные масла) и устроен праздник Аннакута с горами риса и яств; Гопала, долго голодавший, принимает всё, касаясь рукой, — это видит лишь Мадхавендра. Он обращает брахманов в вайшнавов; деревни по очереди устраивают Аннакуту; богачи Матхуры приносят дары, кшатрий строит храм, у Гопалы десять тысяч коров."
+  persons: ["@mahaprabhu", "@madhavendra-puri", "@shrinathji-deity", "@krishna"]
+  places: ["#govardhana", "#govinda-kunda", "#mathura", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Рассказ Господа в Ремуне (ЧЧ Мадхья 4.19–20 → 4.170)."
+  themes: [deities, prasada, festival]
+  cc: "Мадхья 4"
+  event: ev-madhavendra-gopala-govardhana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "21", to: "102"}
+
+- id: cc-1028
+  source: cc
+  ref: "Мадхья 4.103–109"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P01
+  order: 1.73
+  title: "Два бенгальских брахмана — слуги Гопалы; через два года Гопала во сне велит принести сандал из Нилачалы"
+  summary: "Из Бенгалии пришли два брахмана-отреченца; Мадхавендра дал им посвящение и поручил ежедневное служение Гопале. Через два года Гопала во сне сказал: «Мой жар не прошёл — принеси малаянский сандал из Нилачалы и умасти Меня». В преме Мадхавендра, поручив служение многим людям, отправился в Бенгалию."
+  persons: ["@madhavendra-puri", "@shrinathji-deity"]
+  places: ["#govardhana", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Бенгальские брахманы-слуги Гопалы — ср. ev-bengali-servants-shrinathji."
+  themes: [deities]
+  cc: "Мадхья 4"
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "103", to: "109"}
+
+- id: cc-1029
+  source: cc
+  ref: "Мадхья 4.110–111"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P01
+  order: 1.7
+  title: "Мадхавендра Пури в Шантипуре посвящает Адвайту"
+  summary: "Достигнув Шантипура, Мадхавендра Пури пришёл в дом Адвайты Ачарьи; тот, видя его прему, возликовал и попросил посвящения; Мадхавендра дал ему мантру и пошёл дальше на юг."
+  persons: ["@madhavendra-puri", "@advaita"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: A
+  notes: "Упоминание."
+  themes: [deities]
+  cc: "Мадхья 4"
+  event: ev-advaita-madhavendra-initiation
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "110", to: "111"}
+
+- id: cc-1030
+  source: cc
+  ref: "Мадхья 4.112–142"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P01
+  order: 1.75
+  title: "Кширачора-Гопинатха: Мадхавендра устыдился желания попробовать кширу; Гопинатха прячет горшок под накидкой и во сне велит пуджари отнести его санньяси на базаре"
+  summary: "В Ремуне, восхищённый служением Гопинатхе, Мадхавендра спросил, что подносят Божеству, — двенадцать горшков сладкого риса «амрита-кели»; он подумал, что, попробовав, сможет готовить так же для Гопалы, но устыдился этого желания и ушёл сидеть на опустевшем базаре, повторяя имя. Гопинатха во сне сказал пуджари: «Я спрятал горшок кширы под Своей накидкой для санньяси Мадхавендры Пури — отнеси ему». Пуджари находит горшок и, крича на базаре, отдаёт его со словами «Нет никого удачливей тебя»; Мадхавендра в преме съедает рис, черепки горшка завязывает в накидку и ест по кусочку, а затем, боясь славы, уходит из Ремуны."
+  persons: ["@madhavendra-puri", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  themes: [deities, prasada]
+  cc: "Мадхья 4"
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "112", to: "142"}
+
+- id: cc-1031
+  source: cc
+  ref: "Мадхья 4.143–169"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P01
+  order: 1.76
+  title: "Мадхавендра в Пури собирает сандал и камфару; в Ремуне Гопала во сне велит умастить сандалом Гопинатху — «Его тело тождественно Моему»"
+  summary: "В Пури Мадхавендра в преме созерцает Джаганнатху; слава следует за ним, хотя он её избегает. Рассказав о явлении Гопалы, он получает от преданных сандал и камфару, царский пропуск от сборщиков пошлин, брахмана и слугу в помощь. В Ремуне, получив кширу-прасад, он видит сон: Гопала велит умащивать этим сандалом Гопинатху — «Его тело не отлично от Моего, так ты охладишь и Меня». Всё лето сандал растирали и подносили Гопинатхе, а затем Мадхавендра провёл чатурмасью в Пури."
+  persons: ["@madhavendra-puri", "@jagannatha-deity", "@shrinathji-deity", "@gopala-remuna"]
+  places: ["#puri", "#remuna"]
+  kind: lila
+  authority: A
+  themes: [deities, jagannatha]
+  cc: "Мадхья 4"
+  event: ev-madhavendra-kshira-chora
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "143", to: "169"}
+
+- id: cc-1032
+  source: cc
+  ref: "Мадхья 4.170–190"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P09
+  order: 80.1
+  title: "Господь спрашивает Нитьянанду: «Кто удачливее Мадхавендры Пури?» — о его отречении и любви, испытанной Гопалой"
+  summary: "Рассказав это, Господь спрашивает Нитьянанду: кто в мире удачливее Мадхавендры Пури? Кришна Сам принёс ему молоко, трижды давал указания во сне, явился как Гопала и освободил мир, ради него Гопинатха украл кширу. Гопала знал об опасности пути через земли мусульман и по милости велел умастить сандалом Гопинатху, так что усилия Мадхавендры увенчались успехом; Он испытывал его любовь — отрешённый и молчаливый, тот, не прося еды, нёс тяжёлый сандал тысячи миль, не тревожась о трудностях: таков нрав беззаветного преданного."
+  persons: ["@mahaprabhu", "@nityananda", "@madhavendra-puri", "@shrinathji-deity", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  themes: [teaching, deities]
+  teaching: [vaishnava, prema]
+  cc: "Мадхья 4"
+  event: ev-remuna-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "170", to: "190"}
+
+- id: cc-1033
+  source: cc
+  ref: "Мадхья 4.191–209"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: P09
+  order: 80.2
+  title: "Шлока Мадхавендры «Айи дина-дайардра натха» — Господь в высшей преме перед Гопинатхой; двенадцать горшков кширы-прасада"
+  summary: "Господь произносит шлоку Мадхавендры Пури, сказанную Самой Радхой и сошедшую с его уст: её вкус постигли лишь Радха, Мадхавендра и Господь, а Мадхавендра, повторяя её, достиг совершенства при уходе: «О милостивый Владыка Матхуры, когда Я увижу Тебя? Без Тебя Моё сердце мечется». Господь падает без чувств, Нитьянанда подхватывает Его; Он пляшет, плачет, повторяя лишь «Айи дина!», являя все признаки экстаза, и слуги Гопинатхи видят высшую прему. После арати пуджари подносит Ему двенадцать горшков кширы; Господь берёт пять для Себя и спутников, семь отдаёт пуджари — Он уже вкусил её как Гопинатха, но ест вновь, уча бхакти. Всю ночь — нама-санкиртана; утром после мангала-арати Он уходит."
+  persons: ["@mahaprabhu", "@nityananda", "@madhavendra-puri", "@radha", "@gopala-remuna"]
+  places: ["#remuna"]
+  kind: lila
+  authority: A
+  notes: "Источник шлоки в тексте не назван; «Падьявали» указана по традиции."
+  themes: [ecstasy, deities, prasada]
+  bhava: [radha]
+  scriptures: ["Падьявали, 334 (шлока Мадхавендры Пури)"]
+  cc: "Мадхья 4"
+  event: ev-remuna-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "191", to: "209"}
+
+- id: cc-1034
+  source: cc
+  ref: "Мадхья 4.210–213"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  period: PX
+  order: 995.5
+  title: "Плод слушания о Гопале, Гопинатхе и Мадхавендре; колофон"
+  summary: "Так описана любовь Господа к Его преданным и вершина премы; Господь Сам рассказывал преданным о качествах Гопалы, Гопинатхи и Мадхавендры Пури. Кто с верой слушает это, обретёт прему у стоп Кришны. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 4"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "210", to: "213"}
+
+- id: cc-1035
+  source: cc
+  ref: "Мадхья 5.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: PX
+  order: 995.6
+  title: "Мадхья 5: поклон Господу, который как Сакши-гопала за сто дней прошёл пешком ради брахмана"
+  summary: "Поклон Верховному Господу, который в облике Сакши-гопалы Своими стопами за сто дней пересёк страну ради блага брахмана. Слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@sakshi-gopala", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "1", to: "2"}
+
+- id: cc-1036
+  source: cc
+  ref: "Мадхья 5.3–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 82
+  title: "Яджапур: Господь поёт и пляшет перед Варахадевой и ночует в храме"
+  summary: "Придя в Яджапур, Господь поклонился Божеству Варахадевы, пел, плясал и возносил молитвы в преме и провёл ночь в храме."
+  persons: ["@mahaprabhu", "@varaha"]
+  places: ["#jajpur"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; у Мурари и в ЧБ в Яджапуре — богиня Вираджа и другие святыни."
+  themes: [pilgrimage, deities, ecstasy]
+  cc: "Мадхья 5"
+  event: ev-jajpur-viraja
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "3", to: "4"}
+
+- id: cc-1037
+  source: cc
+  ref: "Мадхья 5.5–9"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 85
+  title: "Катак: даршан Сакши-гопалы; ночью Нитьянанда рассказывает Его историю"
+  summary: "В Катаке, увидев Сакши-гопалу, Господь в преме пел, плясал и молился и остался в храме на ночь. Нитьянанда, ещё прежде в паломничестве слышавший здесь историю Божества от местных жителей, к великой радости Господа рассказал её преданным."
+  persons: ["@mahaprabhu", "@nityananda", "@sakshi-gopala"]
+  places: ["#cuttack"]
+  kind: lila
+  authority: A
+  themes: [deities, pilgrimage]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "5", to: "9"}
+
+- id: cc-1038
+  source: cc
+  ref: "Мадхья 5.10–118"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P01
+  order: 1.7
+  title: "Рассказ Нитьянанды: обет старого брахмана перед Гопалой во Вриндаване; отказ под давлением семьи; Гопала идёт за юным брахманом, звеня колокольчиками, и свидетельствует"
+  summary: "Два брахмана из Видьянагары, старый и молодой, паломничают до Матхуры и Вриндавана; довольный служением молодого, старый обещает ему в жёны дочь и по его просьбе клянётся перед Гопалой. Дома родные грозят отречься, жена и сын — принять яд, и сын учит отца сказать: «Не помню». На сходе сын обвиняет юношу в краже денег; юноша зовёт Свидетелем Гопалу, и решают: если Гопала придёт, дочь будет отдана. Юный брахман идёт во Вриндаван; Кришна обещает свидетельствовать; на возражение «Божества не ходят» юноша отвечает: «Ты не изваяние, Ты сын Нанды». Гопала идёт за ним сто дней, звеня ножными колокольчиками и съедая ежедневно рис, с условием не оборачиваться; у деревни юноша обернулся, и Гопала остался там. Старый брахман простирается перед Ним; Гопала свидетельствует, называет обоих Своими вечными слугами и по их просьбе остаётся; правитель строит храм, Божество зовут Сакши-гопалой."
+  persons: ["@nityananda", "@sakshi-gopala", "@krishna", "@rukmini"]
+  places: ["#vidyanagara", "#gaya", "#kashi", "#prayaga", "#mathura", "#govardhana", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Ст. 13: тогда на месте храма Говинды во Вриндаване стоял большой храм Гопалы."
+  themes: [deities]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala-two-brahmins
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "10", to: "118"}
+
+- id: cc-1039
+  source: cc
+  ref: "Мадхья 5.119–133"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P01
+  order: 1.71
+  title: "Царь Пурушоттама-дэва переносит Сакши-гопалу в Катак; Маникья-симхасана — Джаганнатхе; жемчужина царицы в ноздре Гопалы"
+  summary: "Позже царь Ориссы Пурушоттама-дэва завоевал ту землю и взял драгоценный трон Маникья-симхасану; по его мольбе Гопала согласился пойти в его царство. Трон царь поднёс Джаганнатхе, а Гопале установил служение в Катаке. Царица пожелала поднести Гопале свою жемчужину, будь у Него проколота ноздря; Гопала во сне сказал: «В детстве мать проколола Мне ноздрю — отверстие осталось», и наутро жемчужину вдели с великим празднеством. С тех пор Сакши-гопала — в Катаке."
+  persons: ["@purushottama-deva", "@sakshi-gopala", "@jagannatha-deity", "@yashoda"]
+  places: ["#vidyanagara", "#cuttack", "#puri"]
+  kind: lila
+  authority: A
+  themes: [deities]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala-two-brahmins
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "119", to: "133"}
+
+- id: cc-1040
+  source: cc
+  ref: "Мадхья 5.134–140"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 85.1
+  title: "Господь перед Сакши-гопалой — Они схожи обликом; путь до Бхуванешвары описан Вриндаваном Дасом"
+  summary: "Господь с преданными с наслаждением выслушали рассказ Нитьянанды. Когда Господь сидел перед Гопалой, преданные увидели Их сходство — оба величавы, лотосооки, луноликие, сияющие, — и Нитьянанда с улыбкой указал на это. Утром после мангала-арати Господь пошёл дальше; места до Бхуванешвары подробно описал Вриндаван Дас."
+  persons: ["@mahaprabhu", "@nityananda", "@sakshi-gopala", "@vrindavana-dasa"]
+  places: ["#cuttack", "#bhubaneshvara"]
+  kind: lila
+  authority: A
+  notes: "Ст. 140 — упоминание пути через Бхуванешвару (ЧБ Антья 2)."
+  themes: [deities, revelation]
+  cc: "Мадхья 5"
+  event: ev-sakshi-gopala
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "134", to: "140"}
+
+- id: cc-1041
+  source: cc
+  ref: "Мадхья 5.141–158"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: P09
+  order: 88
+  title: "Камалапур: Нитьянанда ломает посох Господа и бросает в Бхаргинади; Господь видит храм Джаганнатхи, в преме идёт до Атхараналы, гневается и уходит вперёд один"
+  summary: "В Камалапуре Господь, омываясь в Бхаргинади, отдал посох Нитьянанде и пошёл в храм Капотешвары; Нитьянанда сломал посох на три части и бросил в реку. Увидев издали храм Джаганнатхи, Господь в преме плясал, смеялся, плакал, и девять километров стали для Него во сто крат длиннее; у Атхараналы Он пришёл в себя и спросил посох. Нитьянанда сказал, что они вместе упали на посох, и просил наказания; опечаленный, Господь в гневе сказал: «Вы привели Меня в Нилачалу, но не сберегли Моё единственное достояние» — и ушёл вперёд один. Смысл этой лилы постигают лишь преданные стоп Чайтаньи и Нитьянанды."
+  persons: ["@mahaprabhu", "@nityananda", "@mukunda-datta", "@shiva"]
+  places: ["#kamalapura", "#atharanala", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Событие ev-danda-broken; одновременно — первое созерцание храма (ev-first-sight-jagannatha-temple)."
+  themes: [sannyasa, ecstasy, jagannatha]
+  cc: "Мадхья 5"
+  event: ev-danda-broken
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "141", to: "158"}
+
+- id: cc-1042
+  source: cc
+  ref: "Мадхья 5.159–161"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  period: PX
+  order: 995.7
+  title: "Слава Гопалы, воспетая Нитьянандой; плод слушания; колофон"
+  summary: "Милость Гопалы превосходит даже Его славу; Его деяния воспел Нитьянанда, а Господь слушал. Кто с верой слушает рассказ о Гопале, скоро обретёт прибежище у Его стоп. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@sakshi-gopala", "@nityananda", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "159", to: "161"}
+
+- id: cc-1043
+  source: cc
+  ref: "Мадхья 6.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: PX
+  order: 995.8
+  title: "Мадхья 6: поклон Гаурачандре, наполнившему бхакти окаменевшее от логики сердце Сарвабхаумы"
+  summary: "Поклон Владыке мира Гаурачандре, наполнившему преданностью сердце Сарвабхаумы Бхаттачарьи, почти окаменевшее от ложных философских доводов. Слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@sarvabhauma", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 6"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "1", to: "2"}
+
+- id: cc-1044
+  source: cc
+  ref: "Мадхья 6.3–4"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 10
+  title: "Первый даршан: Господь бросается обнять Джаганнатху и падает без чувств в храме"
+  summary: "Ведомый бхавой, Господь побежал в храм; при виде Джаганнатхи Его према многократно возросла, и, кинувшись обнять Божество, Он упал без чувств."
+  persons: ["@mahaprabhu", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, ecstasy]
+  cc: "Мадхья 6"
+  event: ev-first-darshan-jagannatha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "3", to: "4"}
+
+- id: cc-1045
+  source: cc
+  ref: "Мадхья 6.5–13"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 11
+  title: "Сарвабхаума удерживает стражника и уносит бесчувственного Господа к себе; ватка у ноздрей; «как адхирудха-махабхава проявилась в теле человека?»"
+  summary: "Сарвабхаума остановил стражника, собравшегося ударить Господа, изумился Его красоте и бхавам и, поскольку близилось время подношения, с учениками и смотрителем храма перенёс Его к себе домой. Не видя дыхания, он поднёс к Его ноздрям ватку и, заметив лёгкое колыхание, успокоился, размышляя: это признаки адхирудха-махабхавы, доступные лишь вечным спутникам, — как они проявились в теле человека?"
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, jagannatha]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "5", to: "13"}
+
+- id: cc-1046
+  source: cc
+  ref: "Мадхья 6.14–36"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 12
+  title: "Спутники у Львиных врат встречают Гопинатху Ачарью; в доме Сарвабхаумы; Чанданешвара ведёт их к Джаганнатхе, Нитьянанда в экстазе"
+  summary: "Нитьянанда и спутники, дойдя до Львиных врат, слышат о санньяси, лишившемся чувств в храме и унесённом Сарвабхаумой, и понимают, что это Господь. Их встречает Гопинатха Ачарья из Надии, зять Вишарады, знавший истину о Господе; Мукунда рассказывает ему о санньясе, и Гопинатха ведёт всех к Сарвабхауме. Тот радушно принимает их и посылает с ними сына Чанданешвару на даршан; Нитьянанда в экстазе едва не падает, пуджари надевает на Него гирлянду Джаганнатхи, и все с прасадом возвращаются к Господу."
+  persons: ["@nityananda", "@mukunda-datta", "@gopinatha-acharya", "@sarvabhauma", "@chandaneshvara", "@mahaprabhu", "@jagannatha-deity", "@jagadananda-pandita", "@damodara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, ecstasy]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "14", to: "36"}
+
+- id: cc-1047
+  source: cc
+  ref: "Мадхья 6.37–67"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 13
+  title: "Господь приходит в себя с криком «Хари!»; махапрасад в доме Сарвабхаумы; родство с Ниламбарой Чакраварти; «принимаю тебя гуру»; Господь будет смотреть на Джаганнатху от колонны Гаруды"
+  summary: "Под пение святых имён к полудню Господь очнулся с возгласом «Хари! Хари!». Сарвабхаума угощает всех махапрасадом на золотой посуде, уговаривая отведать сладостей. Он приветствует Господа: «Намо нараяная», а Господь отвечает: «Кришне матир асту» — и Бхаттачарья понимает, что Он вайшнав-санньяси. От Гопинатхи он узнаёт, что Господь — сын Джаганнатхи Мишры Пурандары и внук Ниламбары Чакраварти, школьного друга его отца Махешвары Вишарады. Господь смиренно называет его учителем Веданты и Своим гуру; на совет не ходить в храм одному отвечает, что будет смотреть на Джаганнатху от колонны Гаруды. Его поселяют в уединённом доме тётки Сарвабхаумы, и Гопинатха ведёт Его на утренний даршан."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@jagannatha-mishra", "@nilambara-chakravarti", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 48–49: в переводе ВЧД ответ Господа («кр̣ш̣н̣е матир асту» — «да будет ум твой у Кришны») опущен; приветствие и ответ — по бенгальскому тексту, своими словами."
+  themes: [prasada, jagannatha, family]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-meeting
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "37", to: "67"}
+
+- id: cc-1048
+  source: cc
+  ref: "Мадхья 6.68–117"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 20
+  title: "Сарвабхаума хочет обучить юного санньяси Веданте и заново посвятить; Гопинатха Ачарья спорит с ним и учениками: Бога постигают по Его милости; юга-аватара в Кали; Господь заступается за Сарвабхауму"
+  summary: "Сарвабхаума, узнав, что Господь — Кришна Чайтанья, ученик Кешавы Бхарати, считает Бхарати-сампрадаю средней и предлагает учить Его Веданте и заново дать санньясу в высшей сампрадае. Опечаленный Гопинатха отвечает, что Господь — Сам Бхагаван; на требование учеников доказательств — Его постигают не логикой, а по Его милости (Бхаг. 10.14.29); на довод «в Кали нет аватары Вишну — Он Триюга» — у Него нет лила-аватары в Кали, но юга-аватара приходит каждый век (Бхаг. 10.8.13; 11.5.31–32; «Вишну-сахасра-нама»); заблуждения учеников — действие майи (Бхаг. 6.4.31; 11.22.4). Сарвабхаума просит пригласить Господа и продолжить «наставлять» его. Гопинатха с Мукундой с упрёком передают Господу его слова, но Господь говорит: «Сарвабхаума заботится обо Мне как опекун, в чём его вина?»"
+  persons: ["@sarvabhauma", "@gopinatha-acharya", "@mukunda-datta", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, revelation]
+  teaching: [gaura-tattva, yuga-dharma, sannyasa-teaching]
+  scriptures: ["Бхаг. 10.14.29", "Бхаг. 10.8.13", "Бхаг. 11.5.31", "Бхаг. 11.5.32", "Махабхарата, Вишну-сахасра-нама", "Бхаг. 6.4.31", "Бхаг. 11.22.4"]
+  cc: "Мадхья 6"
+  event: ev-gopinatha-sarvabhauma-debate
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "68", to: "117"}
+
+- id: cc-1049
+  source: cc
+  ref: "Мадхья 6.118–138"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 30
+  title: "Семь дней Господь молча слушает Веданту у Сарвабхаумы; на восьмой: «Смысл сутр ясен, а твои толкования скрывают его» — мукхья-вритти выше лакшаны"
+  summary: "В храме Сарвабхаума усаживает Господа и семь дней толкует Веданту; Господь слушает молча. На восьмой день на вопрос, понимает ли Он, Господь отвечает: смысл каждой сутры ясен, но толкования Бхаттачарьи скрывают его, подменяя прямое значение (мукхья-вритти) переносным; шрути — высшее свидетельство, и их прямой смысл главный, как Веды объявляют чистыми раковину и коровий навоз; «Веданта-сутра» — как солнце, а толкования — тучи."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, learning]
+  teaching: [vedanta]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "118", to: "138"}
+
+- id: cc-1050
+  source: cc
+  ref: "Мадхья 6.139–182"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 31
+  title: "Господь опровергает майяваду: Брахман — Бхагаван с шестью совершенствами; три энергии; джива — энергия; парината-вада, а не виварта; пранава — маха-вакья; Шанкара учил по велению Господа"
+  summary: "Все Веды и Пураны называют высший Брахман Бхагаваном, полным совершенств; «бесформенность» в шрути означает отсутствие материального (Чайтанья-чандродая 6.67), Он — творец, хранитель и прибежище, Его глаза и ум духовны, «апани-пада» говорит о Его духовных стопах; Пураны раскрывают смысл Вед (Бхаг. 10.14.32). Господь обладает тремя энергиями — внутренней (хладини, сандхини, самвит), пограничной (дживы) и внешней (майя) (Вишну-пурана 6.7.61–63; 1.12.69; Гита 7.4–5); джива — энергия, а не Сам Господь; облик Бога — сач-чид-ананда, а не саттва-гуна, и отрицающий это — атеист, опаснее буддистов. Мир — преобразование непостижимых энергий (парината), как философский камень творит золото, сам не меняясь; ложно лишь отождествление с телом; пранава — маха-вакья, а «тат твам аси» — вспомогательное изречение. Три предмета Вед — самбандха (Бхагаван), абхидхея (бхакти), прайоджана (према); Шанкара не виновен — по велению Господа (Падма-пурана) он, воплощение Шивы, проповедовал майяваду."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@shankaracharya", "@vyasa", "@shiva", "@durga"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, learning]
+  teaching: [vedanta, maya, bhakti-supremacy]
+  scriptures: ["Чайтанья-чандродая-натака, 6.67", "Бхаг. 10.14.32", "Шветашватара-упанишад, 3.19 («апани-пада»)", "Вишну-пурана, 6.7.61–63", "Вишну-пурана, 1.12.69", "Бхагавад-гита, 7.4–5", "Падма-пурана, Уттара-кханда, 62.31", "Падма-пурана, Уттара-кханда, 25.7"]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "139", to: "182"}
+
+- id: cc-1051
+  source: cc
+  ref: "Мадхья 6.183–198"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 32
+  title: "Шлока «атмарама»: девять толкований Сарвабхаумы и восемнадцать — Господа"
+  summary: "Ошеломлённому Сарвабхауме Господь говорит, что даже атмарамы служат Хари, и приводит шлоку «атмарамаш ча мунайо» (Бхаг. 1.7.10). По просьбе Господа Бхаттачарья первым толкует её девятью способами, и Господь, назвав его Брихаспати, объясняет её иначе, не касаясь его толкований: соединяя каждое из одиннадцати слов со словом «атмарама», Он раскрывает восемнадцать значений — качества Господа непостижимы и влекут всех, как Шукадеву и Кумар."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@sanaka-kumaras"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, learning]
+  teaching: [scripture, bhakti-supremacy]
+  scriptures: ["Бхаг. 1.7.10"]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "183", to: "198"}
+
+- id: cc-1052
+  source: cc
+  ref: "Мадхья 6.199–215"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 33
+  title: "Сарвабхаума узнаёт в Господе Кришну и кается; Господь являет ему четырёхрукий облик и облик Кришны с флейтой; сто шлок; экстаз Сарвабхаумы"
+  summary: "Сарвабхаума понимает, что Господь — Сам Кришна, и, коря себя за гордыню и оскорбление, припадает к Его стопам. По милости Господь являет ему четырёхрукий облик, а затем Свой изначальный облик — Кришну с флейтой. Сарвабхауме открываются все истины — сила святого имени и раздача премы; меньше чем за полчаса он слагает сто шлок; Господь обнимает его, и тот в экстазе пляшет и плачет. На вопрос Гопинатхи Господь говорит: «По общению с тобой Джаганнатха одарил его милостью». Сарвабхаума славит Господа: «Ты растопил моё сердце, железное от логики»."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@krishna", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [revelation, mercy, ecstasy]
+  bhava: [aishvarya, krishna]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "199", to: "215"}
+
+- id: cc-1053
+  source: cc
+  ref: "Мадхья 6.216–238"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 34
+  title: "Господь приносит Сарвабхауме махапрасад на рассвете, и тот ест его, не умывшись; «Сегодня Я покорил весь мир»"
+  summary: "Утром, получив от пуджари прасад и гирлянду Джаганнатхи, Господь спешит к Бхаттачарье; тот, проснувшись с возгласом «Кришна! Кришна!», встречает Его. Ещё не почистив зубы и не омывшись, Сарвабхаума тотчас ест прасад, прочитав две шлоки «Падма-пураны» о том, что махапрасад едят сразу, где бы и когда ни получили. В экстазе Господь и слуга обнимаются и пляшут; Господь говорит: «Сегодня Я покорил мир, вознёсся на Вайкунтху — у Сарвабхаумы вера в махапрасад; сегодня ты разорвал оковы майи» (Бхаг. 2.7.42). С тех пор гордыня покинула Бхаттачарью, и, толкуя шастры, он говорил лишь о бхакти; Гопинатха пляшет, хлопая в ладоши."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, mercy, ecstasy]
+  teaching: [prasada-teaching]
+  scriptures: ["Падма-пурана (две шлоки о махапрасаде)", "Бхаг. 2.7.42"]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "216", to: "238"}
+
+- id: cc-1054
+  source: cc
+  ref: "Мадхья 6.239–247"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 35
+  title: "«Что важнее всего в бхакти?» — «Нама-санкиртана»: шлока «харер нама»; Сарвабхаума приписывает милость общению с Гопинатхой"
+  summary: "На следующий день Сарвабхаума, кающийся в прежнем умонастроении, спрашивает Господа о главном в практике бхакти; Господь отвечает: нама-санкиртана — и всесторонне объясняет шлоку «харер нама эва кевалам» (Брихан-нарадия-пурана). Гопинатха напоминает о своём предсказании; Сарвабхаума, кланяясь, говорит, что милость Господа пришла к нему по общению с ним, маха-бхагаватой; Господь обнимает его, и они идут к Джаганнатхе."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@gopinatha-acharya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, kirtan]
+  teaching: [holy-name, vaishnava]
+  scriptures: ["Брихан-нарадия-пурана, 38.126"]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "239", to: "247"}
+
+- id: cc-1055
+  source: cc
+  ref: "Мадхья 6.248–258"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 36
+  title: "Две шлоки Сарвабхаумы на пальмовом листе: Мукунда переписывает их на стену, Господь рвёт лист"
+  summary: "Сарвабхаума посылает с Джагаданандой и Дамодарой махапрасад и пальмовый лист с двумя шлоками о Господе — Кришне, пришедшем как Шри Чайтанья, чтобы учить знанию, бхакти и отречению, и возродившем утраченную бхакти-йогу (Чайтанья-чандродая 6.74–75). Мукунда успевает переписать их на стену у входа; прочитав, Господь рвёт лист, но преданные запомнили шлоки со стены — они стали ожерельем на шее преданных. Сарвабхаума стал беспримесным преданным и постоянно повторял имена Шри Кришны Чайтаньи, сына Шачи."
+  persons: ["@sarvabhauma", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [revelation, author]
+  scriptures: ["Чайтанья-чандродая-натака, 6.74", "Чайтанья-чандродая-натака, 6.75"]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "248", to: "258"}
+
+- id: cc-1056
+  source: cc
+  ref: "Мадхья 6.259–278"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 37
+  title: "«Бхакти-паде» вместо «мукти-паде»: Сарвабхаума меняет слова молитвы Брахмы; пять видов мукти; саюджья страшна преданному"
+  summary: "Сарвабхаума произносит молитву Брахмы (Бхаг. 10.14.8), заменив «мукти-паде» на «бхакти-паде». На вопрос Господа он отвечает: плод бхакти выше освобождения, слияние с Брахманом — наказание для враждебных служению; из пяти видов мукти (салокья, самипья, сарупья, саршти, саюджья) чистый преданный ради служения может принять четыре, но не саюджью — ни растворение в Брахмане, ни слияние с телом Господа (Бхаг. 3.29.13). Господь объясняет, что «мукти-пада» и так указывает на Кришну — «у чьих стоп мукти», «прибежище освобождения»; Сарвабхаума отвечает, что не может произнести слово, рождающее страх, а слово «бхакти» дарит радость. Господь, смеясь, обнимает его: прежний учитель майявады возненавидел слово «мукти»."
+  persons: ["@sarvabhauma", "@mahaprabhu", "@brahma"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture]
+  scriptures: ["Бхаг. 10.14.8", "Бхаг. 3.29.13"]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "259", to: "278"}
+
+- id: cc-1057
+  source: cc
+  ref: "Мадхья 6.279–281"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: P10
+  order: 38
+  title: "Видя перемену в Сарвабхауме, жители Пури во главе с Каши Мишрой принимают прибежище у Господа"
+  summary: "Как камень признают философским, лишь когда он обращает железо в золото, так, видя веру Бхаттачарьи в учение вайшнавов, люди поняли, что Господь — Сам Кришна, сын Нанды; все жители Пури во главе с Каши Мишрой пришли за прибежищем к Его стопам."
+  persons: ["@sarvabhauma", "@kashi-mishra", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, revelation]
+  cc: "Мадхья 6"
+  event: ev-sarvabhauma-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "279", to: "281"}
+
+- id: cc-1058
+  source: cc
+  ref: "Мадхья 6.282–287"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  period: PX
+  order: 995.9
+  title: "Анонс: путь на юг, служение и пир Сарвабхаумы будут описаны позже; колофон"
+  summary: "Об этом автор расскажет позднее, а теперь — о путешествии Господа на юг; опишет он и служение Сарвабхаумы, и пир в его доме. Слушание с верой об играх Господа даёт прибежище у Его стоп. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@sarvabhauma", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 6"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "282", to: "287"}
+
+- id: cc-1059
+  source: cc
+  ref: "Мадхья 7.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: PX
+  order: 996
+  title: "Мадхья 7: слава Господу, исцелившему от проказы брахмана Васудеву"
+  summary: "Слава Шри Чайтанье, который исцелил брахмана Васудеву от проказы, даровал ему прекрасное тело и удовлетворение в любовном служении. Слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@vasudeva-vipra", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 7"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "1", to: "2"}
+
+- id: cc-1060
+  source: cc
+  ref: "Мадхья 7.3–6"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P10
+  order: 40
+  title: "Хронология: санньяса в магху, приход в Пури в пхалгуну, Дола-ятра в конце пхалгуны, Сарвабхаума в чайтру, уход на юг в начале вайшакхи"
+  summary: "Освободив Сарвабхауму, Господь пожелал идти на юг. Санньясу Он принял в светлую половину магхи, в пхалгуну пришёл в Пури и в конце пхалгуны видел Дола-ятру, много пел и плясал в преме; в чайтру, живя в Нилачале, освободил Сарвабхауму, а в начале вайшакхи решил идти на юг."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [festival, jagannatha]
+  calendar: "магха (санньяса); пхалгуна — приход в Пури и Дола-ятра; чайтра — Сарвабхаума; вайшакха — уход на юг"
+  date_conf: "точно"
+  date_basis: "ЧЧ Мадхья 7.4–6"
+  cc: "Мадхья 7"
+  event: ev-first-year-festivals-puri
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "3", to: "6"}
+
+- id: cc-1061
+  source: cc
+  ref: "Мадхья 7.7–41"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 5
+  title: "«Я пойду искать Вишварупу один»: Господь «упрекает» Нитьянанду, Джагадананду, Мукунду и Дамодару; по просьбе Нитьянанды берёт Кала Кришнадаса"
+  summary: "Обняв преданных, Господь смиренно просит отпустить Его на юг искать брата Вишварупу — одного, без спутников, хотя, всеведущий, знает, что тот уже ушёл из мира: это лишь предлог освободить Юг. Нитьянанда просит взять кого-нибудь, ведь Он знает дороги. Господь отвечает: «Ты — кукловод, Я — плясун», и перечисляет «вины»: Нитьянанда привёл Его к Адвайте и сломал посох, Джагадананда хочет, чтобы Он наслаждался, Мукунда страдает, видя Его аскезу, Дамодара-брахмачари наставляет Его с палкой в руке. Так Он, наслаждаясь их добродетелями, оберегал их от страданий при виде Его аскезы. Нитьянанда смиряется, но просит взять простого брахмана Кришнадаса, чтобы нёс кувшин и одежду, ведь руки Господа заняты счётом имён, а в экстазе Он падает без чувств; Господь соглашается."
+  persons: ["@mahaprabhu", "@nityananda", "@jagadananda-pandita", "@mukunda-datta", "@damodara-pandita", "@vishvarupa", "@kala-krishnadasa"]
+  places: ["#puri", "#setubandha"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, pilgrimage, separation]
+  cc: "Мадхья 7"
+  event: ev-departure-for-south
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "7", to: "41"}
+
+- id: cc-1062
+  source: cc
+  ref: "Мадхья 7.42–75"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 6
+  title: "Прощание с Сарвабхаумой: пять дней угощения у него, гирлянда-позволение Джаганнатхи; «встреться с Раманандой Раем»; Сарвабхаума без чувств"
+  summary: "Господь просит у Сарвабхаумы позволения идти искать Вишварупу; тот в горе молит остаться хоть на несколько дней, и Господь проводит пять дней у него, вкушая угощения его жены, матери Шатхи. Затем в храме Он просит позволения у Джаганнатхи, получает гирлянду и прасад, обходит алтарь и отправляется. На пути к Алаланатхе Сарвабхаума просит: «В Видьянагаре на Годавари живёт Рамананда Рай — не отвергай его как шудру: нет в мире такого расика-бхакты; прежде я насмехался над ним, а теперь понимаю его»; он посылает с Гопинатхой четыре набора одежды. Господь просит благословения и уходит быстрым шагом, не оглядываясь на упавшего без чувств Сарвабхауму, — сердце великих то твёрже молнии, то нежнее цветка. Нитьянанда относит его домой."
+  persons: ["@mahaprabhu", "@sarvabhauma", "@shathira-mata", "@jagannatha-deity", "@gopinatha-acharya", "@ramananda-raya", "@nityananda"]
+  places: ["#puri", "#alalanatha", "#vidyanagara", "#godavari"]
+  kind: lila
+  authority: A
+  notes: "Источник шлоки ст. 73 в тексте не назван; указан по традиции."
+  themes: [separation, jagannatha, pilgrimage]
+  scriptures: ["Уттара-рама-чарита, 2.7 («ваджрад апи катхорани»)"]
+  cc: "Мадхья 7"
+  event: ev-departure-for-south
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "42", to: "75"}
+
+- id: cc-1063
+  source: cc
+  ref: "Мадхья 7.76–94"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 7
+  title: "Алаланатха: Господь пляшет среди толпы, народ становится вайшнавами; Нитьянанда предсказывает киртан в каждой деревне; наутро — прощание, преданные падают без чувств"
+  summary: "В Алаланатхе преданные возносят Господу молитвы; Он пляшет в преме, золотой, в шафрановых одеждах, украшенный слезами и дрожью, а вокруг толпа поёт имена Хари, и никто не уходит домой. Нитьянанда говорит, что такой киртан будет в каждой деревне. Господь с Нитьянандой и спутниками вкушают прасад от Гопинатхи за закрытыми дверями храма, пока народ не заглушает всё криками «Хари!»; до вечера люди приходят и становятся вайшнавами. Ночь проходит в беседах о Кришне; наутро Господь обнимает каждого и уходит, не оборачиваясь; преданные падают без чувств и, постясь день, возвращаются в Пури. За Господом идёт Кришнадас с кувшином и одеждой."
+  persons: ["@mahaprabhu", "@nityananda", "@gopinatha-acharya", "@kala-krishnadasa"]
+  places: ["#alalanatha"]
+  kind: lila
+  authority: A
+  themes: [kirtan, separation, mercy]
+  cc: "Мадхья 7"
+  event: ev-alalanatha-prema-chain
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "76", to: "94"}
+
+- id: cc-1064
+  source: cc
+  ref: "Мадхья 7.95–112"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 8
+  title: "Господь идёт на юг, как безумный лев, с шлокой «Кришна! Кешава! Рама Рагхава!»; встреченные Им становятся вайшнавами и обращают свои деревни — так Юг становится вайшнавским"
+  summary: "Опьянённый преманой, Господь шёл, как безумный лев, повторяя «Кришна, Кришна, защити Меня! Рама Рагхава, Кешава...» и прося каждого встречного повторять «Хари». Встретившие Его в преме следовали за Ним; обняв и наделив силой, Он отсылал их домой, и они, воспевая имена Кришны, обращали своих односельчан, а те — других: так от одного к другому вся Южная Индия стала вайшнавской. Встреченные Им становились маха-бхагаватами и позже, став ачарьями, освободили мир; такой силы Господь не являл даже в Навадвипе, и понять это могут лишь получившие Его милость."
+  persons: ["@mahaprabhu"]
+  places: ["#dravida", "#setubandha"]
+  kind: lila
+  authority: A
+  themes: [mercy, kirtan, pilgrimage]
+  cc: "Мадхья 7"
+  event: ev-south-conversions
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "95", to: "112"}
+
+- id: cc-1065
+  source: cc
+  ref: "Мадхья 7.113–120"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 10
+  title: "Курма-кшетра: Господь в преме пляшет перед Божеством Курмы; люди становятся вайшнавами"
+  summary: "В Курма-кшетре Господь вознёс молитвы Божеству Курмы и в преме смеялся, плакал, пел и плясал; люди со всей округи, видя Его любовь и красоту, становились вайшнавами и плясали, подняв руки, повторяя имена Кришны, — потоп нектара имени затопил страну. Служитель Божества оказал Ему великое почтение."
+  persons: ["@mahaprabhu"]
+  places: ["#kurma-kshetra"]
+  kind: lila
+  authority: A
+  themes: [deities, mercy, kirtan]
+  cc: "Мадхья 7"
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "113", to: "120"}
+
+- id: cc-1066
+  source: cc
+  ref: "Мадхья 7.121–135"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 10.1
+  title: "Брахман Курма с семьёй пьёт воду с Его стоп; «Возьми меня с Собой» — «Нет: стань гуру, воспевай имя Кришны и учи каждого встречного — „йаре декха таре каха кришна-упадеша“»"
+  summary: "Брахман Курма с верой приглашает Господа, омывает Его стопы и с семьёй пьёт эту воду, кормит Его и доедает остатки, а затем просит взять его с Собой. Господь отвечает: «Не говори так: оставайся дома и непрестанно воспевай имена Кришны; кого бы ни встретил, учи его науке о Кришне — по Моему повелению стань гуру и освободи эту землю; тогда мирское не коснётся тебя, и ты вновь обретёшь Моё общество». Такие наставления Господь давал в каждом доме, где принимал пищу. Курма долго шёл за Ним, пока Господь не отослал его."
+  persons: ["@mahaprabhu", "@kurma-vipra", "@brahma"]
+  places: ["#kurma-kshetra"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [holy-name, vaishnava]
+  cc: "Мадхья 7"
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "121", to: "135"}
+
+- id: cc-1067
+  source: cc
+  ref: "Мадхья 7.136–151"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: P11
+  order: 10.2
+  title: "Прокажённый брахман Васудева: Господь возвращается и обнимает его — болезнь исчезает; Господь — Васудевамрита-прада"
+  summary: "Брахман Васудева, страдавший проказой, возвращавший в раны выпавших червей, утром пришёл к дому Курмы, узнал, что Господь ушёл, и упал без чувств, сокрушаясь; тут Господь вернулся и обнял его — болезнь и скорбь исчезли, тело стало прекрасным. Изумлённый, он произнёс шлоку Судамы (Бхаг. 10.81.16) и сказал, что боится гордыни; Господь ответил: «Непрестанно воспевай имена Кришны — и гордость не коснётся тебя; учи всех науке о Кришне». Васудева и Курма рыдали, обнявшись; так Господь получил имя Васудевамрита-прада."
+  persons: ["@mahaprabhu", "@vasudeva-vipra", "@kurma-vipra"]
+  places: ["#kurma-kshetra"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  teaching: [holy-name]
+  scriptures: ["Бхаг. 10.81.16"]
+  cc: "Мадхья 7"
+  event: ev-kurma-vasudeva
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "136", to: "151"}
+
+- id: cc-1068
+  source: cc
+  ref: "Мадхья 7.152–155"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  period: PX
+  order: 996.1
+  title: "Плод слушания; автор пишет услышанное от вайшнавов; колофон"
+  summary: "Кто с верой слушает эти игры, скоро обретёт прибежище у стоп Господа. Автор не знает ни начала, ни конца Его лил и пишет лишь услышанное от великих вайшнавов, прося преданных не принимать его оскорблений. Молясь у стоп Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 7"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "152", to: "155"}
+
+- id: cc-1069
+  source: cc
+  ref: "Мадхья 8.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: PX
+  order: 996.2
+  title: "Мадхья 8: Господь, океан знания о бхакти, наполнил им Рамананду, как тучу, чтобы он пролил его на мир"
+  summary: "Шри Чайтанья, океан знания о бхакти, напитал этим нектаром сердце Рамананды Рая и велел ему, как туче, пролить его на мир. Слава Чайтанье, Нитьянанде, Адвайте и преданным Гауры."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@ramananda-raya", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 8"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "1", to: "2"}
+
+- id: cc-1070
+  source: cc
+  ref: "Мадхья 8.3–8"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 20
+  title: "Джияда-Нрисимха: Господь в преме поёт и пляшет, славит Нрисимху шлоками"
+  summary: "Через несколько дней Господь пришёл к Джияда-Нрисимхе, простёрся перед Божеством, пел, плясал и молился в преме, произнося шлоки: «Слава Нрисимхе, Владыке Прахлады, пчеле у лотосного лица Лакшми», «Как львица грозна для других, но нежна к львятам, так Нрисимха — к преданным» (из комментария Шридхары Свами к Бхаг. 7.9.1). Пуджари принёс Ему гирлянду и прасад; переночевав в храме, утром Он пошёл дальше."
+  persons: ["@mahaprabhu", "@jiyada-nrisimha", "@prahlada", "@lakshmi", "@shridhara-svami"]
+  places: ["#simhachala"]
+  kind: lila
+  authority: A
+  themes: [deities, ecstasy, pilgrimage]
+  bhava: [nrisimha]
+  scriptures: ["Шридхара Свами, комментарий к Бхаг. 7.9.1"]
+  cc: "Мадхья 8"
+  event: ev-jiyada-nrisimha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "3", to: "8"}
+
+- id: cc-1071
+  source: cc
+  ref: "Мадхья 8.9–47"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30
+  title: "Годавари как Ямуна; Рамананда Рай приходит омыться; Господь и Рамананда в объятии падают в экстазе; изумление ведических брахманов; взаимные хвалы"
+  summary: "Обращая по пути людей в вайшнавов, Господь пришёл к Годавари: река напомнила Ему Ямуну, а лес — Вриндаван; Он пел и плясал, омылся и сел у реки, воспевая имя Кришны. Рамананда Рай в паланкине с музыкантами и ведическими брахманами прибыл для омовения; увидев сияющего санньяси, он простёрся перед Ним. «Ты Рамананда Рай?» — «Я Твой низкий слуга-шудра». Господь обнял его, и оба в экстазе упали, повторяя «Кришна»; брахманы дивились, почему санньяси, сияющий как Брахман, плачет, обнимая шудру. Совладав с Собой, Господь говорит, что пришёл по совету Сарвабхаумы; Рамананда называет Его Нараяной, коснувшимся неприкасаемого по беспредельной милости (Бхаг. 10.8.4), а Господь — его маха-бхагаватой, от касания к которому Он, «майявади-санньяси», погрузился в прему."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#godavari", "#vidyanagara"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy]
+  scriptures: ["Бхаг. 10.8.4"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "9", to: "47"}
+
+- id: cc-1072
+  source: cc
+  ref: "Мадхья 8.48–56"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.1
+  title: "Господь принимает приглашение брахмана-вайшнава; Рамананда просит остаться неделю; вечером он приходит со слугой"
+  summary: "Ведический брахман-вайшнав пригласил Господа на обед; Господь сказал Рамананде, что жаждет вновь услышать от него о Кришне, а тот попросил остаться хотя бы на неделю, чтобы очистить его ум. После обеда оба с нетерпением ждали вечера; омывшись, Господь сел ждать, и Рамананда пришёл со слугой, — они обнялись и погрузились в беседу о Кришне."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari", "#vidyanagara"]
+  kind: lila
+  authority: A
+  themes: [teaching]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "48", to: "56"}
+
+- id: cc-1073
+  source: cc
+  ref: "Мадхья 8.57–81"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.2
+  title: "Садхья-нирная: варнашрама — «это внешне»; карма, отданная Кришне; отказ от сва-дхармы; джняна-мишра-бхакти — «внешне»; бхакти без джняны — «это так»; према-бхакти; дасья, сакхья, ватсалья, мадхурья"
+  summary: "На вопрос Господа о цели жизни Рамананда шаг за шагом приводит ступени: исполнение варнашрама-дхармы (Вишну-пурана 3.8.9), посвящение плодов труда Кришне (Гита 9.27), отказ от сва-дхармы (Бхаг. 11.11.32; Гита 18.66), бхакти, смешанная со знанием (Гита 18.54) — всё это Господь называет внешним. Бхакти без примеси знания — слушание о Господе от преданных (Бхаг. 10.14.3) — «это так, но скажи глубже»; затем према-бхакти, обретаемая лишь горячим стремлением (Падьявали 13–14), дасья-према (Бхаг. 9.5.16; Стотра-ратна 43), сакхья (Бхаг. 10.12.11), ватсалья (Бхаг. 10.8.46; 10.9.20) и, наконец, канта-бхава — према гопи (Бхаг. 10.47.60; 10.32.2)."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari", "#vidyanagara"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [bhakti-supremacy, prema]
+  scriptures: ["Вишну-пурана, 3.8.9", "Бхагавад-гита, 9.27", "Бхаг. 11.11.32", "Бхагавад-гита, 18.66", "Бхагавад-гита, 18.54", "Бхаг. 10.14.3", "Падьявали, 13", "Падьявали, 14", "Бхаг. 9.5.16", "Стотра-ратна, 43", "Бхаг. 10.12.11", "Бхаг. 10.8.46", "Бхаг. 10.9.20", "Бхаг. 10.47.60", "Бхаг. 10.32.2"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "57", to: "81"}
+
+- id: cc-1074
+  source: cc
+  ref: "Мадхья 8.82–94"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.3
+  title: "Постепенность рас: каждая последующая содержит качества предыдущих, как первоэлементы; према пленяет Кришну, и Он — должник гопи"
+  summary: "Для каждого преданного его раса лучшая, но при беспристрастном рассмотрении есть градация (Бхакти-расамрита-синдху 2.5.38): качества рас возрастают, как свойства эфира, воздуха, огня, воды и земли, и мадхурья вмещает шанту, дасью, сакхью и ватсалью. Кришну в полноте обретают лишь премой (Бхаг. 10.82.45); Он отвечает каждому по мере его предания, но не может отплатить за прему гопи и остаётся их должником (Бхаг. 10.32.22); среди гопи Его сладость безгранично возрастает (Бхаг. 10.33.6)."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@krishna"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema]
+  scriptures: ["Бхакти-расамрита-синдху, 2.5.38", "Бхаг. 10.82.45", "Бхаг. 10.32.22", "Бхаг. 10.33.6"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "82", to: "94"}
+
+- id: cc-1075
+  source: cc
+  ref: "Мадхья 8.95–115"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.4
+  title: "Любовь Радхи — высшая: Кришна оставляет раса-лилу и ищет Её в слезах («Гита-говинда» 3.1–2); противоречивый нрав Её премы"
+  summary: "«Скажи ещё» — и Рамананда говорит: «Никто прежде не спрашивал о большем»: любовь Радхи — вершина среди гопи (Падма-пурана; Бхаг. 10.30.28). Господь замечает, что Кришна увёл Радху тайно, ибо при других гопи Её любовь не раскрывалась. Рамананда описывает: когда Радха, обиженная, ушла с раса-лилы, танец без Неё не радовал Кришну, Он покинул круг и, пронзённый стрелой Камадевы, в слезах искал Её у Ямуны («Гита-говинда» 3.1–2); сотни тысяч гопи не утолили Его желания. Пути любви извилисты, как ход змеи (Уджвала-ниламани)."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@radha", "@krishna", "@jayadeva"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  scriptures: ["Падма-пурана (Лагху-бхагаватамрита, 2.45)", "Бхаг. 10.30.28", "Гита-говинда, 3.1", "Гита-говинда, 3.2", "Уджвала-ниламани, Шрингара-бхеда, 102"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "95", to: "115"}
+
+- id: cc-1076
+  source: cc
+  ref: "Мадхья 8.116–132"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.5
+  title: "«Расскажи о Радха- и Кришна-таттве» — «Я лишь попугай, говорю то, что Ты внушаешь»; «Кто знает науку о Кришне, тот гуру — будь он брахман, санньяси или шудра»"
+  summary: "Господь говорит, что понял цель и путь, и просит рассказать об истине Кришны и Радхи, о расах и преме. Рамананда отвечает, что лишь повторяет, как попугай, то, что Господь внушает ему из сердца. Господь возражает: Он лишь майявади-санньяси, и даже Сарвабхаума послал Его к Рамананде; «Кто знает истину о Кришне, тот гуру, будь он брахман, санньяси или шудра»; не обманывай Меня почтением к санньясе. Рамананда, над которым майя не властна, в смущении говорит: «Я — кукла, мой язык — Твоя вина: я скажу то, что Ты пожелаешь»."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [vaishnava]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "116", to: "132"}
+
+- id: cc-1077
+  source: cc
+  ref: "Мадхья 8.133–148"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.6
+  title: "Кришна-таттва: Кришна — источник всех аватар, сач-чид-ананда, юный Купидон Вриндавана; чарует все расы, Нараяну, Лакшми и даже Самого Себя"
+  summary: "Кришна, сын Нанды, — Верховный Владыка, источник всех аватар, причина причин; в Нём покоятся бесчисленные Вайкунтхи и вселенные; Он — сач-чид-ананда, вместилище всех энергий и рас (Брахма-самхита 5.1). Во Вриндаване Он — вечно юный бог любви, которому поклоняются кама-гаятри; Он чарует всех, даже Купидона (Бхаг. 10.32.2). Во всех расах Он — вишая, преданные — ашрая (Бхакти-расамрита-синдху 1.1.1); воплощение шрингары, Он пленяет Нараяну, Лакшми (Гита-говинда 1.11; Бхаг. 10.89.58; 10.16.36) и Самого Себя, так что желает обнять Себя (Лалита-мадхава 8.34)."
+  persons: ["@ramananda-raya", "@krishna", "@narayana", "@lakshmi"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema]
+  scriptures: ["Брахма-самхита, 5.1", "Бхаг. 10.32.2", "Бхакти-расамрита-синдху, 1.1.1", "Гита-говинда, 1.11", "Бхаг. 10.89.58", "Бхаг. 10.16.36", "Лалита-мадхава, 8.34"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "133", to: "148"}
+
+- id: cc-1078
+  source: cc
+  ref: "Мадхья 8.149–184"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.7
+  title: "Радха-таттва: три энергии; хладини, её суть — према, вершина — махабхава, воплощённая в Радхе; убранство Радхи из бхав; Её качества желают Сатьябхама, Лакшми и Парвати"
+  summary: "Энергии Кришны — внутренняя, пограничная и внешняя (Вишну-пурана 6.7.61); внутренняя — хладини, сандхини и самвит (Вишну-пурана 1.12.69). Хладини даёт блаженство Кришне и Его преданным; её суть — према, вершина — махабхава, олицетворённая Радхой (Уджвала-ниламани 4.3), чьё тело соткано из премы (Брахма-самхита 5.37); Лалита и другие гопи — Её распространения. Её убранство — бхавы: омовения в нектарах милосердия, юности и красоты, сари стыдливости, мускус любви, сурьма изменчивости, двадцать украшений-бхав; Она постоянно исполняет желания Кришны (Говинда-лиламрита 11.122). Её достоинств желают Сатьябхама, Лакшми, Парвати и Арундхати; даже Кришна не знает их предела."
+  persons: ["@ramananda-raya", "@radha", "@krishna", "@lalita", "@satyabhama", "@lakshmi", "@parvati"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema]
+  scriptures: ["Вишну-пурана, 6.7.61", "Вишну-пурана, 1.12.69", "Уджвала-ниламани, 4.3", "Брахма-самхита, 5.37", "Говинда-лиламрита, 11.122"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "149", to: "184"}
+
+- id: cc-1079
+  source: cc
+  ref: "Мадхья 8.185–194"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.8
+  title: "Виласа Радхи и Кришны: Кришна — дхира-лалита; према-виласа-виварта — Господь закрывает рукой уста Рамананды, поющего свою песню"
+  summary: "Господь просит рассказать о любовных играх; Рамананда говорит, что Кришна — дхира-лалита (Бхакти-расамрита-синдху 2.1.230), дни и ночи наслаждающийся с Радхой в рощах Вриндавана (там же, 2.1.119). На «скажи ещё» он отвечает: дальше — за пределами его понимания, есть лишь према-виласа-виварта, и не знает, понравится ли это Господу; когда он начинает петь свою песню («стоило нам встретиться глазами…»), Господь в преме закрывает ему рот рукой. Приведена также шлока о Кришне, царе слонов в рощах Говардханы, и сердце Радхи, слитом с Ним, как смола."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy]
+  teaching: [prema]
+  scriptures: ["Бхакти-расамрита-синдху, 2.1.230", "Бхакти-расамрита-синдху, 2.1.119"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "185", to: "194"}
+
+- id: cc-1080
+  source: cc
+  ref: "Мадхья 8.195–231"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 30.9
+  title: "Садхана: лилы Радхи и Кришны доступны лишь через гопи; гопи-бхава — не кама; рагануга в настроении сакхи; шрути обрели Кришну; Лакшми не смогла"
+  summary: "Господь спрашивает, как достичь этой цели. Рамананда: игры Радхи и Кришны сокровенны и недоступны даже в дасье, сакхье и ватсалье — только гопи знают их и питают их (Говинда-лиламрита 10.16); сакхи не желают сами наслаждаться Кришной, их счастье — в служении Их играм; Радха — лиана премы, а сакхи — её листья и цветы (Уджвала-ниламани). Любовь гопи — не мирская кама, а желание радовать Кришну (Бхакти-расамрита-синдху 1.2.285; Бхаг. 10.31.19). Тот, кого влечёт настроение гопи, следуя рага-марге, обретает во Врадже сына Нанды и духовное тело по своей бхаве, как мудрецы-шрути (Бхаг. 10.87.23; 10.9.21); поэтому, приняв настроение гопи, следует день и ночь помнить игры Радхи и Кришны. Путём благоговения Кришны во Вриндаване не достичь — свидетельство тому Лакшми (Бхаг. 10.47.60)."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@radha", "@krishna", "@lakshmi", "@uddhava"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema, bhakti-supremacy]
+  scriptures: ["Говинда-лиламрита, 10.16", "Бхакти-расамрита-синдху, 1.2.285", "Бхаг. 10.31.19", "Бхаг. 10.87.23", "Бхаг. 10.9.21", "Бхаг. 10.47.60"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "195", to: "231"}
+
+- id: cc-1081
+  source: cc
+  ref: "Мадхья 8.232–239"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 31
+  title: "Слёзы и объятия; ночь в беседе; Рамананда просит остаться на десять дней — «Пока Я жив, Я не расстанусь с тобой»"
+  summary: "Господь обнял Рамананду, и оба плакали; так прошла ночь, и утром они вернулись к делам. Прощаясь, Рамананда просит Господа остаться дней на десять: никто, кроме Него, не даст живым существам Кришна-прему. Господь отвечает: «Я очистил Свой ум, слушая от тебя о Кришне; тебе нет равных в понимании игр Радхи и Кришны; о каких десяти днях ты говоришь — пока Я жив, Я не смогу расстаться с тобой»."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari", "#vidyanagara"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "232", to: "239"}
+
+- id: cc-1082
+  source: cc
+  ref: "Мадхья 8.241–260"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 31.1
+  title: "Вопросы и ответы: высшее знание — Кришна-бхакти, высшая слава — быть преданным, высшее горе — разлука с преданным; жить во Врадже; лучшее — общение с преданным; вороны и кукушки"
+  summary: "Ночами в уединении Господь спрашивал, а Рамананда отвечал: высшее знание — бхакти Кришне; высшая слава — быть Его преданным; богатейший — обладающий любовью к Радха-Кришне; тяжелейшее горе — разлука с преданным Кришны; высший из освобождённых — обладающий премой; лучшая песня — об играх Радха-Кришны; высшее благо — общение с преданным; помнить — имя, качества и игры Кришны; созерцать — стопы Радха-Кришны; жить — во Врадже, где раса-лила; слушать — об Их любви; высшая святыня — имена Радха-Кришны; ищущие мукти станут деревьями, а наслаждений — полубогами. Безвкусные, как вороны, клюют горькие плоды нима, а расики, как кукушки, вкушают почки манго; философы грызут сухое древо знания, а удачливые пьют нектар премы."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema, vaishnava, holy-name]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "241", to: "260"}
+
+- id: cc-1083
+  source: cc
+  ref: "Мадхья 8.261–290"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 31.2
+  title: "Рамананда видит Господа Шьямасундарой с флейтой; «Махабхагавата видит Кришну во всём»; Господь являет облик Расараджи-Махабхавы — Рамананда без чувств; «Моё тело не светлое — его коснулась Радха»"
+  summary: "Рамананда говорит: всё это Ты открыл в моём сердце, как Нараяна Брахме (Бхаг. 1.1.1), но есть сомнение: прежде я видел Тебя санньяси, а теперь вижу пастушком Шьямасундарой, окутанным золотым сиянием, с флейтой у уст. Господь отвечает: маха-бхагавата из-за премы видит Кришну во всём движущемся и неподвижном (Бхаг. 11.2.45; 10.35.9). Рамананда просит не скрываться: Ты пришёл с сердцем и сиянием Радхи вкусить Свою сладость, тайно, но затопил мир премой — зачем обманываешь меня? Улыбаясь, Господь являет облик Расараджи и Махабхавы, соединённых в одном теле; Рамананда падает без чувств, а очнувшись, видит Его вновь в одеждах санньяси. Господь говорит: «Никто, кроме тебя, не видел этого облика; Моё тело светлое от прикосновения тела Радхи, что касается лишь сына Нанды; Её бхава преобразила Мои тело и ум, и Я вкушаю Свою сладость. Храни это в тайне — люди сочтут это безумием; мы оба безумцы»."
+  persons: ["@ramananda-raya", "@mahaprabhu", "@radha", "@krishna", "@narayana", "@brahma"]
+  places: ["#godavari", "#vidyanagara"]
+  kind: lila
+  authority: A
+  themes: [revelation, ecstasy]
+  bhava: [radha, krishna]
+  teaching: [gaura-tattva]
+  scriptures: ["Бхаг. 1.1.1", "Бхаг. 11.2.45", "Бхаг. 10.35.9"]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "261", to: "290"}
+
+- id: cc-1084
+  source: cc
+  ref: "Мадхья 8.291–301"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: P11
+  order: 31.3
+  title: "Десять ночей Кришна-катхи; «Оставь мирские дела и приходи в Пури»; храм Ханумана; жители Видьянагары становятся вайшнавами; Рамананда в разлуке"
+  summary: "Десять ночей Господь провёл с Раманандой, говоря об играх Кришны с гопи, но тема не иссякла — как рудник, где есть все металлы и чинтамани. В последний день Господь сказал: «Оставь мирские дела и приходи в Нилачалу — Я вернусь туда после паломничества, и мы будем жить вместе, наслаждаясь беседами о Кришне». Утром, поклонившись Хануману в его храме, Господь ушёл на юг; жители Видьянагары разных убеждений, увидев Его, стали вайшнавами, а Рамананда, оставив дела, думал лишь о Нём и страдал в разлуке."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@hanuman"]
+  places: ["#vidyanagara", "#godavari", "#puri"]
+  kind: lila
+  authority: A
+  themes: [separation, mercy]
+  cc: "Мадхья 8"
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "291", to: "301"}
+
+- id: cc-1085
+  source: cc
+  ref: "Мадхья 8.302–312"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  period: PX
+  order: 996.3
+  title: "Беседа Господа и Рамананды — сгущённое молоко с сахаром и камфарой; слушать с верой, без споров; описано по записям Сварупы Дамодары; колофон"
+  summary: "Встречу кратко изложил автор — и тысячеглавый Шеша не опишет её всю. Деяния Господа — как сгущённое молоко, Рамананды — гора сахара, а их беседа о Радха-Кришне — камфара; кто однажды вкусит это слухом, захочет вновь, и ему откроется раса-таттва и чистая любовь к стопам Радха-Кришны. Слушать нужно с верой, без возражений — спорами это сокровенное не постичь; оно открывается тем, для кого стопы Чайтаньи, Нитьянанды и Адвайты превыше всего. Поклон Рамананде, устами которого Господь открыл раса-таттву; описано по записям Сварупы Дамодары. Колофон."
+  persons: ["@krishnadasa-kaviraja", "@ramananda-raya", "@svarupa-damodara", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 8"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "302", to: "312"}
+
+- id: cc-1086
+  source: cc
+  ref: "Мадхья 9.1–2"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: PX
+  order: 996.4
+  title: "Мадхья 9: диском милости Господь спас жителей Юга из пасти крокодилов буддизма, джайнизма и майявады"
+  summary: "Жители Юга, сильные, как слоны, попали в пасть крокодилов учений — буддизма, джайнизма и майявады; диском Своей милости Господь освободил их, сделав вайшнавами. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#dravida"]
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 9"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "1", to: "2"}
+
+- id: cc-1087
+  source: cc
+  ref: "Мадхья 9.3–13"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 25
+  title: "Тысячи святынь Юга: Господь делает их местами паломничества; вайшнавы Рамы, мадхвы и рамануджи становятся преданными Кришны"
+  summary: "Господь посетил тысячи святых мест Юга, превращая их в великие тиртхи ради очищения людей; автор называет лишь некоторые, не по порядку. Философы, благочестивые и безбожники, увидев Его, становились вайшнавами; вайшнавы Юга тогда поклонялись Раме, немногие были мадхвами и рамануджами, — после встречи с Господом все стали преданными Кришны и воспевали Его имена: «Рама Рагхава, спаси меня! Кришна Кешава, защити меня!»"
+  persons: ["@mahaprabhu", "@madhvacharya"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-south-conversions
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "3", to: "13"}
+
+- id: cc-1088
+  source: cc
+  ref: "Мадхья 9.14–37"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 35
+  title: "Гаутами-ганга, Малликарджуна, Ахобала-Нрисимха; в Сиддхавате брахман, повторявший имя Рамы, начинает повторять имя Кришны: «Ты — Сам Кришна»"
+  summary: "С этой шлокой Господь омылся в Гаутами-ганге, побывал у Шивы в Малликарджуне, где побуждал всех петь имена Кришны, и у Ахобала-Нрисимхи, а в Сиддхавате — у Рамачандры; брахман, не произносивший ни фразы без имени «Рама», принял Его у себя. Побывав в Сканда-кшетре и Триматхе (Тривикрама), Господь вернулся и увидел, что брахман теперь непрестанно повторяет имя Кришны. Тот объяснил: увидев Господа, он раз произнёс имя Кришны, и оно овладело его языком; он знает шлоки о равенстве имён Рамы и Кришны и о том, что имя Кришны равно трём тысячам имён Вишну (Падма-пурана; Брахманда-пурана), но прежде из любви к Раме повторял Его имя; теперь, увидев Господа, он понял: «Ты — Сам Кришна»."
+  persons: ["@mahaprabhu", "@rama", "@shiva", "@nrisimha", "@kartikeya"]
+  places: ["#siddhavata"]
+  kind: lila
+  authority: A
+  themes: [kirtan, mercy]
+  teaching: [holy-name]
+  scriptures: ["Падма-пурана, Шата-нама-стотра", "Махабхарата, Удьйога-парва, 71.4", "Брихад-вишну-сахасранама-стотра (Падма-пурана, 72.335)", "Брахманда-пурана"]
+  cc: "Мадхья 9"
+  event: ev-rama-name-to-krishna-name
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "14", to: "37"}
+
+- id: cc-1089
+  source: cc
+  ref: "Мадхья 9.38–45"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 25.1
+  title: "Вриддхакаши и деревня брахманов: миллионы приходят к Господу; Он опровергает последователей Гаутамы, Канады, Шанкары, Капилы и Патанджали и утверждает Кришна-бхакти"
+  summary: "Посетив Шиву в Вриддхакаши, Господь остановился в деревне брахманов; Его пришли увидеть бесчисленные люди и, видя Его в преме, начинали воспевать имена Кришны. Среди них были приверженцы ньяи, вайшешики, учения Шанкары, санкхьи, йоги, смрити, Пуран и Агам; Господь разбил все их доводы и утвердил превосходство Кришна-бхакти — постепенно весь Юг стал вайшнавским."
+  persons: ["@mahaprabhu", "@shiva", "@shankaracharya"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [learning, mercy]
+  teaching: [bhakti-supremacy]
+  cc: "Мадхья 9"
+  event: ev-south-conversions
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "38", to: "45"}
+
+- id: cc-1090
+  source: cc
+  ref: "Мадхья 9.46–52"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 46.5
+  title: "Спор с буддистами: Господь разбивает девять положений буддийского учителя"
+  summary: "Гордые учителя разных безбожных учений пришли к Господу с учениками; буддийский учитель выдвинул девять основных положений буддизма. Хотя вайшнаву незачем спорить с буддистами, Господь, чтобы сломить его гордость, опроверг их одно за другим неотразимыми доводами; посрамлённые учёные ушли под смех людей и, поняв, что Он вайшнав, задумали месть."
+  persons: ["@mahaprabhu"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [learning]
+  teaching: [vedanta]
+  cc: "Мадхья 9"
+  event: ev-debate-buddhists
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "46", to: "52"}
+
+- id: cc-1091
+  source: cc
+  ref: "Мадхья 9.53–63"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 47
+  title: "Нечистая пища под видом махапрасада: птица уносит блюдо, оно падает на голову буддийского учителя; ученики поют «Кришна! Хари!» ему на ухо — он приходит в себя и поёт «Хари»"
+  summary: "Буддисты поднесли Господу блюдо осквернённой пищи, назвав её махапрасадом; огромная птица схватила блюдо, пища рассыпалась на буддистов, а металлическое блюдо упало ребром на голову учителя, и тот лишился чувств. Ученики в слезах просили прощения: «Ты — Сам Бог, оживи нашего гуру». Господь велел им громко петь имена Кришны и Хари ему на ухо; учитель очнулся и сам стал петь «Хари! Хари!», почтительно склоняясь перед Господом. Люди изумились, а Господь шутя исчез."
+  persons: ["@mahaprabhu"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [mercy, offense, prasada]
+  teaching: [holy-name]
+  cc: "Мадхья 9"
+  event: ev-bird-snatches-impure-food
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "53", to: "63"}
+
+- id: cc-1092
+  source: cc
+  ref: "Мадхья 9.64–65"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 38
+  title: "Трипати и Тирумала: четырёхрукое Божество на холме Венката; молитвы Раме в Трипати"
+  summary: "Господь пришёл в Трипати и Тирумалу, увидел четырёхрукое Божество и пошёл к холму Венката; в Трипати Он поклонился Рамачандре в Его храме и вознёс множество молитв."
+  persons: ["@mahaprabhu", "@rama"]
+  places: ["#tirupati", "#venkata"]
+  kind: lila
+  authority: A
+  notes: "Упоминание."
+  themes: [deities, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-tripadi-ramats
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "64", to: "65"}
+
+- id: cc-1093
+  source: cc
+  ref: "Мадхья 9.66–67"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 39
+  title: "Пана-Нрисимха: Господь в преме молится Нрисимхе"
+  summary: "Влияние милостивого Господа трогало каждого. В храме Пана-Нрисимхи Он в преме кланялся и молился Нрисимхе, и все дивились Его воздействию на людей."
+  persons: ["@mahaprabhu", "@nrisimha"]
+  places: ["#mangalagiri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание."
+  themes: [deities, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-pana-nrisimha
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "66", to: "67"}
+
+- id: cc-1094
+  source: cc
+  ref: "Мадхья 9.68–70"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 41
+  title: "Шива-канчи и Вишну-канчи: шиваиты становятся вайшнавами; два дня перед Лакшми-Нараяной"
+  summary: "В Шива-канчи Господь увидел Божество Шивы и обратил шиваитов в вайшнавов; в Вишну-канчи Он молился Лакшми-Нараяне и два дня пел и плясал в преме, делая каждого преданным Кришны."
+  persons: ["@mahaprabhu", "@shiva", "@narayana", "@lakshmi"]
+  places: ["#kanchi", "#vishnu-kanchi"]
+  kind: lila
+  authority: A
+  notes: "Упоминание."
+  themes: [deities, mercy, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-vishnu-kanchi
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "68", to: "70"}
+
+- id: cc-1095
+  source: cc
+  ref: "Мадхья 9.71–73"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 42
+  title: "Трикала-хасти, Пакши-тиртха, Вриддхакола (Швета-Вараха), Шива в жёлтых одеждах"
+  summary: "После Трималаи Господь поклонился Шиве в Трикала-хасти, видел Шиву в Пакши-тиртхе, в Вриддхаколе посетил храм Швета-Варахи, а затем — Божество Шивы, облачённое в жёлтые одежды."
+  persons: ["@mahaprabhu", "@shiva", "@varaha"]
+  places: ["#pakshitirtha"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень святынь)."
+  themes: [deities, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-pakshitirtha-tiger
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "71", to: "73"}
+
+- id: cc-1096
+  source: cc
+  ref: "Мадхья 9.74–76"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 43
+  title: "Шияли-Бхайрави, Кавери, Госамадж, Ведаван; Амрита-линга — шиваиты становятся вайшнавами"
+  summary: "Господь посетил Шияли-Бхайрави (Дургу), пришёл к Кавери, поклонился Шиве в Госамадже и в Ведаване и Шиве Амрита-линге; посещая храмы Шивы, Он обращал шиваитов в вайшнавов."
+  persons: ["@mahaprabhu", "@shiva", "@durga"]
+  places: ["#kaveri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень святынь)."
+  themes: [deities, mercy, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-amrita-linga-gosamaja
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "74", to: "76"}
+
+- id: cc-1097
+  source: cc
+  ref: "Мадхья 9.77–79"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 44
+  title: "Девастхана — беседы со шри-вайшнавами; Кумбхакарна-капала, Шива-кшетра, Папанашана"
+  summary: "В Девастхане Господь посетил храм Вишну и много общался с последователями Рамануджи — шри-вайшнавами; в Кумбхакарна-капале видел большое озеро, в Шива-кшетре — храм Шивы, в Папанашане — храм Вишну, а затем пошёл в Шри Ранга-кшетру."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#tanjore", "#kaveri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень святынь); привязано к событию Танджора по смежности мест (Кумбхакарна-капала — Кумбаконам)."
+  themes: [deities, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-tanjore-dhaleshvara
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "77", to: "79"}
+
+- id: cc-1098
+  source: cc
+  ref: "Мадхья 9.80–92"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 50
+  title: "Шрирангам: Господь пляшет перед Ранганатхой; Венката Бхатта омывает Его стопы и просит провести у него чатурмасью; толпы и приглашения брахманов"
+  summary: "Омывшись в Кавери, Господь в преме пел и плясал перед Ранганатхой, изумляя всех. Шри-вайшнав Венката Бхатта пригласил Его, с семьёй выпил воду с Его стоп и попросил остаться на четыре месяца сезона дождей, чтобы слушать от Него Кришна-катху. Господь жил у него, каждый день омывался в Кавери и плясал перед Ранганатхой; сотни тысяч людей приходили и начинали повторять имена Кришны; брахманы-вайшнавы Шрирангама каждый день приглашали Его, и многим не досталось очереди за все четыре месяца."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@ranganatha-deity"]
+  places: ["#ranga-kshetra", "#kaveri"]
+  kind: lila
+  authority: A
+  themes: [deities, ecstasy, festival]
+  calendar: "чатурмасья"
+  cc: "Мадхья 9"
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "80", to: "92"}
+
+- id: cc-1099
+  source: cc
+  ref: "Мадхья 9.93–107"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 45
+  title: "Брахман, неправильно читающий Гиту, плачет от любви: «Я вижу Кришну, возницу Арджуны»; «Твоё чтение совершенно»"
+  summary: "В Шрирангаме брахман ежедневно читал перед Божеством все восемнадцать глав «Гиты», а люди смеялись над его произношением; он же плакал и трепетал от счастья. На вопрос Господа он ответил, что не понимает санскрита и читает по велению гуру, но, читая, видит тёмного прекрасного Кришну с вожжами на колеснице Арджуны, дающего наставления, — и ум его ни о чём больше не думает. Господь сказал: «Твоё чтение совершенно, ты понял суть» — и обнял его; брахман: «Видя Тебя, я вижу Самого Кришну». Господь дал ему наставления и велел молчать об этом; брахман оставался с Ним все четыре месяца."
+  persons: ["@mahaprabhu", "@krishna"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: A
+  themes: [mercy, revelation, ecstasy]
+  teaching: [scripture]
+  cc: "Мадхья 9"
+  event: ev-gita-reading-brahmana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "93", to: "107"}
+
+- id: cc-1100
+  source: cc
+  ref: "Мадхья 9.108–126"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 50.1
+  title: "Шутка Господа с Венкатой Бхаттой: «Почему целомудренная Лакшми ищет общества пастушка Кришны и всё же не попадает на расу, а шрути — попадают?»"
+  summary: "Венката Бхатта поклонялся Лакшми-Нараяне; Господь и он сдружились и шутили друг с другом. Господь спросил: Лакшми — высшая из целомудренных, а Мой Кришна — пастушок; почему она ради Его общества совершала аскезы (Бхаг. 10.16.36)? Бхатта ответил: Кришна и Нараяна едины, но игры Кришны привлекательнее, и Лакшми не нарушает верности, желая вкусить их («сиддхантатас тв абхеде ’пи»). Господь: тогда почему она не попала на расу (Бхаг. 10.47.60), а олицетворённые шрути обрели Кришну (Бхаг. 10.87.23)? Бхатта признаёт: «Я — крошечная джива, игры Господа глубже океана; Ты — Сам Кришна, Тебе одному ведом их смысл»."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@lakshmi", "@narayana", "@krishna"]
+  places: ["#ranga-kshetra"]
+  kind: teaching
+  authority: A
+  themes: [teaching, pranks]
+  teaching: [prema, gaura-tattva]
+  scriptures: ["Бхаг. 10.16.36", "Бхакти-расамрита-синдху, 1.2.59 («сиддхантатас тв абхеде ’пи»)", "Бхаг. 10.47.60", "Бхаг. 10.87.23"]
+  cc: "Мадхья 9"
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "108", to: "126"}
+
+- id: cc-1101
+  source: cc
+  ref: "Мадхья 9.127–150"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 50.2
+  title: "Ответ Господа: Кришну обретают лишь в настроении жителей Враджа; Лакшми хотела Его, не приняв тела гопи; Кришна — Сваям Бхагаван, Нараяна — Его виласа; четырёхрукий облик не влечёт гопи"
+  summary: "Господь объясняет: Кришна привлекает всех сладостью; Его достигают лишь следуя спонтанной любви враджаваси, не знающих о Его величии (одни связывают Его как сына, другие побеждают в играх как друга) (Бхаг. 10.9.21); знатоки Вед поклонялись Ему вслед за гопи и родились во Врадже в телах гопи. Лакшми хотела общения с Кришной, не меняя тела и не следуя гопи, поэтому не вошла в расу. Затем, чтобы сломить гордость Бхатты, считавшего Нараяну Самим Бхагаваном, Господь в шутку говорит: Сваям Бхагаван — Кришна (Бхаг. 1.3.28), Нараяна — Его виласа; Кришна влечёт Лакшми, но Нараяна не влечёт гопи, и даже когда Кришна принял облик Нараяны, гопи не почувствовали к Нему любви (Лалита-мадхава 6.14)."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@krishna", "@narayana", "@lakshmi", "@yashoda"]
+  places: ["#ranga-kshetra"]
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [prema, bhakti-supremacy]
+  scriptures: ["Бхаг. 10.9.21", "Бхаг. 10.47.60", "Бхаг. 1.3.28", "Лалита-мадхава, 6.14"]
+  cc: "Мадхья 9"
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "127", to: "150"}
+
+- id: cc-1102
+  source: cc
+  ref: "Мадхья 9.151–166"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 50.3
+  title: "«Я пошутил»: Кришна и Нараяна, гопи и Лакшми едины, как камень вайдурья в разных оттенках; Венката Бхатта принимает Кришна-бхакти; конец чатурмасьи, Бхатта падает без чувств при расставании"
+  summary: "Утешая Бхатту, Господь говорит: «Я шутил; вот вывод, на котором держится вера вайшнавов: Кришна и Нараяна — одно, как и гопи и Лакшми; Лакшми вкушает общество Кришны через гопи; Господь един, но является в разных обликах по бхаве преданных, как драгоценный камень меняет цвет на разных поверхностях» (Нарада-панчаратра). Бхатта отвечает: «Ты — Сам Кришна; встречу с Тобой я обрёл по милости Лакшми-Нараяны; теперь я понял: высшая цель — Кришна-бхакти», — и падает к Его стопам. По окончании чатурмасьи Господь поклонился Ранганатхе и ушёл; Бхатта долго шёл следом и, не выдержав разлуки, упал без чувств."
+  persons: ["@mahaprabhu", "@venkata-bhatta", "@krishna", "@narayana", "@lakshmi", "@ranganatha-deity"]
+  places: ["#ranga-kshetra"]
+  kind: lila
+  authority: A
+  themes: [teaching, separation]
+  teaching: [bhakti-supremacy]
+  scriptures: ["Нарада-панчаратра («мани йатха вибхагена»)"]
+  cc: "Мадхья 9"
+  event: ev-srirangam-chaturmasya
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "151", to: "166"}
+
+- id: cc-1103
+  source: cc
+  ref: "Мадхья 9.167–175"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 60
+  title: "Гора Ришабха; встреча с Парамананда Пури: три дня бесед о Кришне; «приходи в Нилачалу»"
+  summary: "На горе Ришабха Господь молился Нараяне в храме; услышав, что в соседнем селении проводит чатурмасью Парамананда Пури, Он пришёл к нему, почтительно коснулся его стоп, и тот с любовью обнял Его. Три дня они провели в доме брахмана в беседах о Кришне. Пури собирался в Пури к Пурушоттаме, а затем к Ганге в Бенгалию; Господь просил его вернуться в Нилачалу, ибо желает постоянно с ним общаться, и пошёл в Шри-шайлу."
+  persons: ["@mahaprabhu", "@paramananda-puri", "@narayana"]
+  places: ["#rishabha-parvata", "#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-paramananda-puri-meeting
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "167", to: "175"}
+
+- id: cc-1104
+  source: cc
+  ref: "Мадхья 9.176–178"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 62
+  title: "Шри-шайла: Шива и Дурга в облике брахманов; три дня сокровенных бесед"
+  summary: "В Шри-шайле жили Шива и Дурга в облике брахманов; увидев Господа, они возликовали; Шива дал Ему подаяние и пригласил к Себе, и три дня в уединении они вели сокровенные беседы. С позволения Шивы Господь отправился в Камакоштхи-пури."
+  persons: ["@mahaprabhu", "@shiva", "@durga"]
+  places: ["#shri-shaila"]
+  kind: lila
+  authority: A
+  themes: [celestial, teaching]
+  cc: "Мадхья 9"
+  event: ev-shri-shaila-shiva-durga
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "176", to: "178"}
+
+- id: cc-1105
+  source: cc
+  ref: "Мадхья 9.179–197"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 75
+  title: "Южная Матхура: брахман-почитатель Рамы скорбит, что Равана коснулся Ситы; Господь: духовное тело Ситы недоступно мирским чувствам — Равана похитил её иллюзорный облик"
+  summary: "Из Камакоштхи Господь пришёл в Южную Матхуру; брахман-почитатель Рамы, отрешённый, пригласил Его, но в полдень у него не было ничего готово: «Лакшмана принесёт из леса плоды и коренья, и Сита приготовит». Господь, довольный таким поклонением, поел в три часа, а брахман постился в скорби: «Сита — Маха-Лакшми, мать мира, а Равана коснулся её — я брошусь в огонь». Господь сказал: облик Ситы — духовный, полный блаженства, мирские чувства не могут даже увидеть его, не то что коснуться; Равана похитил лишь иллюзорный облик, ибо материальное не властно над духовным. Ободрённый брахман прервал пост."
+  persons: ["@mahaprabhu", "@ramadasa-vipra", "@sita-devi", "@rama", "@ravana"]
+  places: ["#madurai"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy]
+  bhava: [rama]
+  teaching: [scripture]
+  cc: "Мадхья 9"
+  event: ev-maya-sita-kurma-purana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "179", to: "197"}
+
+- id: cc-1106
+  source: cc
+  ref: "Мадхья 9.198–200"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 80
+  title: "Дурвашана и Махендра-шайла (Парашурама); Сетубандха: омовение в Дханус-тиртхе, ночь у Рамешвары"
+  summary: "Омывшись в Критамале, Господь посетил храм Рамачандры в Дурвашане, на Махендра-шайле вознёс молитвы Парашураме, а в Сетубандхе омылся в Дханус-тиртхе и остановился на ночь у Рамешвары."
+  persons: ["@mahaprabhu", "@rama", "@shiva"]
+  places: ["#setubandha"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, deities]
+  cc: "Мадхья 9"
+  event: ev-setubandha-rameshvara
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "198", to: "200"}
+
+- id: cc-1107
+  source: cc
+  ref: "Мадхья 9.201–217"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 80.1
+  title: "Рамешвара: в «Курма-пуране» — Агни укрыл Ситу у Парвати, а Равана похитил Майя-Ситу; Господь берёт ветхие листы и приносит их брахману Рамадасу в Южную Матхуру"
+  summary: "В собрании брахманов у Рамешвары Господь слушал «Курма-пурану»: при виде Раваны Сита приняла прибежище у Агни, тот оставил её у Парвати и подменил её Майя-Ситой, а при огненном испытании вернул Раме настоящую Ситу. С позволения брахманов Господь взял ветхие листы с этим рассказом, оставив вместо них список, и принёс их Рамадасу в Южную Матхуру. Тот в слезах припал к Его стопам: «Ты — Сам Рамачандра в облике санньяси, избавивший меня от горя» — и с радостью угостил Его."
+  persons: ["@mahaprabhu", "@ramadasa-vipra", "@sita-devi", "@agni", "@parvati", "@rama", "@ravana"]
+  places: ["#setubandha", "#madurai"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy]
+  scriptures: ["Курма-пурана (о Майя-Сите)"]
+  cc: "Мадхья 9"
+  event: ev-maya-sita-kurma-purana
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "201", to: "217"}
+
+- id: cc-1108
+  source: cc
+  ref: "Мадхья 9.218–223"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 82
+  title: "Пандья-деша: Тамрапарни, девять храмов Вишну в Найя-трипати, Гаджендра-мокшана; холм Малая — Агастья; Каньякумари"
+  summary: "Даровав милость брахману, Господь пошёл в Пандья-дешу, омылся в Тамрапарни и посетил девять храмов Вишну в Найя-трипати, Раму и Лакшману в Чийяратале, Шиву в Тила-канчи, Вишну в Гаджендра-мокшане, Ситу-Раму в Панагари, Чамтапур и Шри Вайкунтху; на холме Малая вознёс молитвы Агастье и пришёл в Каньякумари."
+  persons: ["@mahaprabhu", "@rama", "@shiva"]
+  places: ["#tamraparni", "#kanyakumari"]
+  kind: lila
+  authority: A
+  notes: "Упоминание (перечень святынь)."
+  themes: [pilgrimage, deities]
+  cc: "Мадхья 9"
+  event: ev-tamraparni-kanyakumari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "218", to: "223"}
+
+- id: cc-1109
+  source: cc
+  ref: "Мадхья 9.224–233"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 82.5
+  title: "Маллара-деша: бхаттатхари соблазняют Кришнадаса; их оружие ранит их самих; Господь за волосы вытаскивает слугу"
+  summary: "Через Амлиталу Господь пришёл в Маллара-дешу, где жили кочевники-бхаттатхари, и остановился у храма Рамачандры. Простодушного слугу Кришнадаса женщины бхаттатхари очаровали, и утром он ушёл к ним. Господь пришёл за ним: «Я санньяси, и вы носите одежды отречения — зачем причиняете Мне боль?» Разгневанные, они окружили Его с оружием, но оно выскользнуло из их рук и ранило их самих; они в страхе разбежались, а Господь за волосы вытащил Кришнадаса из их стана."
+  persons: ["@mahaprabhu", "@kala-krishnadasa"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  cc: "Мадхья 9"
+  event: ev-krishnadasa-bhattathari
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "224", to: "233"}
+
+- id: cc-1110
+  source: cc
+  ref: "Мадхья 9.234–240"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 83.5
+  title: "Ади-Кешава у Пайясвини: Господь пляшет в преме и находит главу «Брахма-самхиты»"
+  summary: "Омывшись в Пайясвини, Господь в храме Ади-Кешавы плясал, пел и молился в преме, изумляя людей. Беседуя там с учёными преданными, Он нашёл древнюю рукопись главы «Брахма-самхиты» и застыл в экстазе, обливаясь слезами. «Брахма-самхита» — одно из важнейших вайшнавских писаний, воспевающее славу Говинды, сжатая суть всех вайшнавских выводов."
+  persons: ["@mahaprabhu", "@govinda-deity"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, deities, learning]
+  teaching: [scripture]
+  cc: "Мадхья 9"
+  event: ev-brahma-samhita-adikeshava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "234", to: "240"}
+
+- id: cc-1111
+  source: cc
+  ref: "Мадхья 9.241–244"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 84
+  title: "Список «Брахма-самхиты»; Ананта-Падманабха, Джанардана, Шанкара-Нараяна; Шрингери-матх; Матсья-тиртха на Тунгабхадре"
+  summary: "Сделав копию «Брахма-самхиты», Господь пошёл в Ананта-Падманабху, затем несколько дней пел и плясал у Джанарданы, посетил Шанкара-Нараяну у Пайясвини, видел Шрингери-матх — главную обитель последователей Шанкарачарьи — и омылся в Тунгабхадре в Матсья-тиртхе."
+  persons: ["@mahaprabhu", "@shankaracharya"]
+  places: ["#shringeri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; Шрингери — только посещение (без спора)."
+  themes: [pilgrimage, deities]
+  cc: "Мадхья 9"
+  event: ev-shringeri-debate
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "241", to: "244"}
+
+- id: cc-1112
+  source: cc
+  ref: "Мадхья 9.245–253"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 84.5
+  title: "Удупи: Господь в преме пляшет перед Танцующим Гопалой Мадхвачарьи; таттвавади, приняв Его за майявади, затем почтительно принимают Его"
+  summary: "В Удупи, главной обители таттвавади, Господь увидел прекрасное Божество Танцующего Гопалы, которое явилось Мадхвачарье во сне и было найдено им в грузе гопи-чанданы на лодке, — и много пел и плясал в преме. Таттвавади сначала сочли Его майявади-санньяси, но, видя Его прему, с почтением приняли Его как вайшнава; заметив их гордость своим вайшнавизмом, Господь с улыбкой обратился к собранию."
+  persons: ["@mahaprabhu", "@madhvacharya", "@krishna"]
+  places: ["#udupi"]
+  kind: lila
+  authority: A
+  themes: [deities, ecstasy]
+  cc: "Мадхья 9"
+  event: ev-udupi-tattvavadis
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "245", to: "253"}
+
+- id: cc-1113
+  source: cc
+  ref: "Мадхья 9.254–278"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 84.6
+  title: "Беседа с ачарьей таттвавади: «варнашрама, отданная Кришне, и пять видов мукти» — Господь: шравана-киртана и према — цель; преданные отвергают мукти и карму; единственное достоинство — признание вечного облика Господа"
+  summary: "Господь смиренно спросил ачарью таттвавади о цели и средстве; тот ответил: варнашрама с посвящением Кришне ведёт к пяти видам освобождения и Вайкунтхе. Господь возразил: по шастрам высшая садхана — слушание и воспевание (Бхаг. 7.5.23–24), рождающие прему — пятую, высшую цель (Бхаг. 11.2.40); шастры осуждают карму (Бхаг. 11.11.32; Гита 18.66; Бхаг. 11.20.9), а преданные отвергают пять видов мукти как ад (Бхаг. 3.29.13; 5.14.44; 6.17.28). «Ты назвал целью мукти и карму, решив запутать Меня, простого санньяси». Пристыжённый ачарья признал Его правоту, но сказал, что они следуют установленному Мадхвачарьей. Господь заметил, что в их сообществе Он видит лишь одно достоинство — признание вечного облика Господа в Божестве; так Он сломил их гордость."
+  persons: ["@mahaprabhu", "@madhvacharya", "@shiva", "@parvati"]
+  places: ["#udupi"]
+  kind: teaching
+  authority: A
+  themes: [teaching, learning]
+  teaching: [bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 7.5.23–24", "Бхаг. 11.2.40", "Бхаг. 11.11.32", "Бхагавад-гита, 18.66", "Бхаг. 11.20.9", "Бхаг. 3.29.13", "Бхаг. 5.14.44", "Бхаг. 6.17.28"]
+  cc: "Мадхья 9"
+  event: ev-udupi-tattvavadis
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "254", to: "278"}
+
+- id: cc-1114
+  source: cc
+  ref: "Мадхья 9.279–303"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 85.5
+  title: "Гокарна, Колхапур — и Пандарпур: Господь пляшет перед Виттхалой; встреча с Шри Ранга Пури, учеником Мадхавендры; весть о том, что Шанкараранья (Вишварупа) ушёл здесь из мира"
+  summary: "Через Пхалгу-тиртху, Тритакупу, Панчапсару, Гокарну (Шива), Дваипаяни, Сурпараку и Колхапур (Лакшми, Кшира-Бхагавати, Ланга-Ганеша) Господь пришёл в Пандарпур и в преме плясал перед Виттхалой. У пригласившего Его брахмана Он узнал, что здесь остановился Шри Ранга Пури, ученик Мадхавендры, поспешил к нему и в экстазе простёрся; тот: «Ты связан с моим учителем — иначе откуда такая любовь?» — и они, обнявшись, плакали. Господь рассказал о связи с Ишварой Пури; неделю они говорили о Кришне. Ранга Пури вспомнил, как с Мадхавендрой был в Навадвипе у Джаганнатхи Мишры, его жену, кормившую санньяси как сыновей, и банановое карри, и сказал, что её сын-санньяси Шанкараранья достиг совершенства здесь, в Пандарпуре; Господь ответил: «Он был Моим братом, а Джаганнатха Мишра — отцом». Ранга Пури пошёл в Двараку, а Господь ещё четыре дня омывался в Бхиме и посещал Виттхалу."
+  persons: ["@mahaprabhu", "@ranga-puri", "@madhavendra-puri", "@ishvara-puri", "@jagannatha-mishra", "@shachi", "@vishvarupa", "@shankararanya", "@vitthala-deity", "@lakshmi", "@ganesha", "@shiva"]
+  places: ["#pandharpur", "#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: A
+  notes: "Шанкараранья — санньяса-имя Вишварупы."
+  themes: [ecstasy, family, departure]
+  cc: "Мадхья 9"
+  event: ev-ranga-puri-pandharpur
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "279", to: "303"}
+
+- id: cc-1115
+  source: cc
+  ref: "Мадхья 9.304–309"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 86.5
+  title: "На берегу Кришна-веньи: брахманы-вайшнавы изучают «Кришна-карнамриту» Билвамангалы; Господь переписывает её"
+  summary: "На берегу Кришна-веньи все брахманы были чистыми вайшнавами и постоянно изучали «Кришна-карнамриту» Билвамангалы Тхакура; Господь с радостью слушал её и переписал, чтобы взять с Собой. Нет в трёх мирах книги, подобной ей: она дарует знание о чистой премы и сладости игр Кришны. «Брахма-самхиту» и «Кришна-карнамриту» Господь хранил как величайшее сокровище."
+  persons: ["@mahaprabhu", "@bilvamangala"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [learning, krishna-lila]
+  teaching: [scripture]
+  cc: "Мадхья 9"
+  event: ev-krishna-karnamrita-found
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "304", to: "309"}
+
+- id: cc-1116
+  source: cc
+  ref: "Мадхья 9.310–315"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 70
+  title: "Тапи, Махишматипур, Нармада, Ришьямука, Дандакаранья: Господь обнимает семь пальм, и они исчезают — «Он — Рамачандра»"
+  summary: "Омывшись в Тапи, Господь прошёл через Махишматипур к Нармаде, в Дханус-тиртхе омылся в Нирвиндхье, побывал у горы Ришьямука и в Дандакаранье. Там Он обнял семь древних огромных пальм, и они исчезли; люди изумились: «Этот санньяси — аватара Рамачандры: никто, кроме Рамы, не отправил бы их на Вайкунтху»."
+  persons: ["@mahaprabhu", "@rama"]
+  places: ["#dravida"]
+  kind: lila
+  authority: A
+  themes: [mercy, revelation]
+  bhava: [rama]
+  cc: "Мадхья 9"
+  event: ev-saptatala-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "310", to: "315"}
+
+- id: cc-1117
+  source: cc
+  ref: "Мадхья 9.316–318"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 40
+  title: "Пампа, Панчавати, Насик (Трьямбака), Брахма-гири, Кушаварта, Сапта-Годавари — и снова Видьянагара"
+  summary: "Господь омылся в озере Пампа, отдыхал в Панчавати, в Насике видел Шиву Трьямбаку, побывал в Брахма-гири и Кушаварте у истока Годавари, через Сапта-Годавари и многие святыни вернулся в Видьянагару."
+  persons: ["@mahaprabhu", "@shiva"]
+  places: ["#panchavati", "#nasik", "#godavari", "#vidyanagara"]
+  kind: lila
+  authority: A
+  notes: "Упоминание; Панчавати — без бхавы Рамы (ср. Мурари)."
+  themes: [pilgrimage]
+  cc: "Мадхья 9"
+  event: ev-panchavati-rama-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "316", to: "318"}
+
+- id: cc-1118
+  source: cc
+  ref: "Мадхья 9.319–335"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 89.5
+  title: "Снова у Рамананды: Господь передаёт ему «Брахма-самхиту» и «Кришна-карнамриту» — «они подтверждают всё, что ты говорил»; неделя бесед; Рамананда отпросился у царя и вскоре придёт в Пури"
+  summary: "Рамананда поспешил навстречу Господу, и они в преме плакали обнявшись. Господь рассказал о путешествии и передал ему две книги: «Всё, что ты открыл Мне о преме, подтверждается ими»; Рамананда сделал себе копии. Днём приходили толпы, ночью они говорили о Кришне — так прошла почти неделя. Рамананда сказал, что по позволению Господа написал Пратапарудре, и царь велел ему вернуться в Пури; Господь: «Для этого Я и вернулся — взять тебя в Нилачалу». Рамананда попросил Господа идти вперёд, ибо его обоз с конями, слонами и солдатами шумен, и обещал прийти дней через десять."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@prataparudra"]
+  places: ["#vidyanagara", "#godavari", "#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, learning]
+  cc: "Мадхья 9"
+  event: ev-return-visit-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "319", to: "335"}
+
+- id: cc-1119
+  source: cc
+  ref: "Мадхья 9.336–357"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: P11
+  order: 90
+  title: "Возвращение в Пури: вайшнавы на пути; из Алаланатхи посылает Кришнадаса; встреча с Нитьянандой и спутниками, Сарвабхаумой на берегу океана; даршан Джаганнатхи; ночь у Сарвабхаумы — «нигде не встретил вайшнава, равного тебе, лишь Рамананда»"
+  summary: "Господь возвращался той же дорогой, и повсюду звучали имена Хари. Из Алаланатхи Он послал Кришнадаса известить Нитьянанду; навстречу поспешили Нитьянанда, Джагадананда, Дамодара Пандит, Мукунда и Гопинатха Ачарья, а Сарвабхаума встретил Его на берегу океана; все плакали от радости. Увидев Джаганнатху, Господь в экстазе плясал, получил гирлянду и прасад; Каши Мишра склонился к Его стопам. Сарвабхаума накормил Его махапрасадом, растирал Ему стопы, и всю ночь Господь рассказывал о путешествии: «Я обошёл множество святынь, но нигде не встретил вайшнава, равного тебе; лишь общение с Раманандой Раем принесло Мне величайшее счастье»."
+  persons: ["@mahaprabhu", "@kala-krishnadasa", "@nityananda", "@jagadananda-pandita", "@damodara-pandita", "@mukunda-datta", "@gopinatha-acharya", "@sarvabhauma", "@jagannatha-deity", "@kashi-mishra", "@ramananda-raya"]
+  places: ["#alalanatha", "#puri"]
+  kind: lila
+  authority: A
+  themes: [jagannatha, ecstasy, prasada]
+  cc: "Мадхья 9"
+  event: ev-return-from-south
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "336", to: "357"}
+
+- id: cc-1120
+  source: cc
+  ref: "Мадхья 9.358–365"
+  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  period: PX
+  order: 996.5
+  title: "Паломничество описано кратко; плод слушания; в Кали единственная дхарма — следовать вайшнавам и вайшнавским писаниям; колофон"
+  summary: "Так кратко описано паломничество Господа — подробно его не описать; автор пишет из жадности, без стыда. Кто слушает о Его путешествии по святыням, обретёт сокровище премы; слушать надо с верой, оставив зависть, и воспевать имена Хари. В эпоху Кали единственная истинная дхарма — следовать вайшнавам и вайшнавским писаниям. Игры Чайтанья-чандры — бездонный океан, автор лишь коснулся его с берега; чем больше слушаешь их с верой, тем больше открывается. Колофон."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Мадхья 9"
+  verses:
+    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "358", to: "365"}

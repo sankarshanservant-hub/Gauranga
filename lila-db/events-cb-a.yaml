@@ -1,0 +1,279 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты», Антья-кханда 1–10 (исполнитель cb-a). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml).
+
+- id: ev-keshava-bharati-dances-katwa
+  title: "Ночь после санньясы: Кешава Бхарати танцует с Господом"
+  title_en: "The night after sannyasa: Keshava Bharati dances with the Lord"
+  period: P08
+  order: 45
+  years: [1510, 1510]
+  cb: "Антья 1.7–25"
+  themes: [kirtan, ecstasy, sannyasa]
+  notes: "Сразу после санньясы Господь велит Мукунде петь и танцует всю ночь; обнятый Им Кешава Бхарати, бросив данду и камандалу, танцует в преме; на рассвете Бхарати идёт с Господом."
+
+- id: ev-lord-praises-ganga
+  title: "Господь омывается в Ганге и возносит ей молитвы"
+  title_en: "The Lord bathes in the Ganga and offers her prayers"
+  period: P09
+  order: 17
+  years: [1510, 1510]
+  cb: "Антья 1.109–123"
+  themes: [ecstasy, pilgrimage]
+  notes: "На закате Господь с Нитьянандой входит в Гангу, пьёт её воду и славит её: её имя даёт бхакти Вишну и имя Кришны на устах; Ганга смущается — ведь она исходит из Его стоп."
+
+- id: ev-shachi-breaks-fast-nityananda
+  title: "Нитьянанда прерывает двенадцатидневный пост Шачи"
+  title_en: "Nityananda ends Shachi's twelve-day fast"
+  period: P09
+  order: 38
+  years: [1510, 1510]
+  cb: "Антья 1.146–176"
+  themes: [family, separation, prasada]
+  notes: "Шачи, в разлуке подобная Яшоде, двенадцать дней не ест; Нитьянанда утешает её («твой сын — Тот, Кого ищут Веды»), просит приготовить для Кришны и накормить Его; она подносит пищу Кришне, кормит Нитьянанду и вайшнавов и лишь тогда ест сама."
+
+- id: ev-crowds-cross-ganga-phulia
+  title: "Толпы Навадвипы переправляются через Гангу к Господу в Пхулию"
+  title_en: "Crowds from Navadvipa cross the Ganga to see the Lord at Phulia"
+  period: P09
+  order: 42
+  years: [1510, 1510]
+  cb: "Антья 1.177–207"
+  themes: [mercy, kirtan, sannyasa]
+  notes: "Узнав о санньясе и имени «Кришна Чайтанья», бесчисленные люди, даже прежние хулители, слепые, хромые и беременные, переправляются кто на лодках, кто на плотах, горшках и банановых стволах; Господь выходит к ним, воспевая имя, и одаривает всех милостивым взглядом."
+
+- id: ev-achyuta-child-meets-sannyasi-lord
+  title: "Дитя Ачьютананда: «Ты стал всем другом, а Веды зовут Тебя отцом»"
+  title_en: "The child Achyutananda: 'You became everyone's friend, though the Vedas call You father'"
+  period: P09
+  order: 46
+  years: [1510, 1510]
+  cb: "Антья 1.213–220"
+  themes: [revelation, family]
+  notes: "Покрытый пылью нагой мальчик-сын Адвайты падает к стопам Господа; на слова «Адвайта — Мой отец, значит, мы братья» отвечает мудростью не по годам."
+
+- id: ev-shantipura-mahaprakasha
+  title: "Господь на троне Вишну в доме Адвайты: «Я — Кришна, Рама, Нараяна…»"
+  title_en: "The Lord on Vishnu's throne in Advaita's house: 'I am Krishna, Rama, Narayana…'"
+  period: P09
+  order: 47
+  years: [1510, 1510]
+  cb: "Антья 1.249–276"
+  themes: [revelation, mercy]
+  notes: "В Шантипуре Господь садится на трон Вишну, перечисляет Свои аватары и деяния, говорит, что подвластен преданным, и обещает никогда не покидать спутников; затем скрывает величие."
+
+- id: ev-ananta-pandita-atisara
+  title: "Господь в доме Ананты Пандита в Атисаре"
+  title_en: "The Lord at the house of Ananta Pandita in Atisara"
+  period: P09
+  order: 71
+  years: [1510, 1510]
+  cb: "Антья 2.50–57"
+  themes: [prasada, pilgrimage]
+  notes: "По пути вдоль Ганги Господь гостит у Ананты Пандита, принимает у него пищу (санньяси живёт подаянием) и всю ночь говорит о Кришне."
+
+- id: ev-chhatrabhoga-ramachandra-khan
+  title: "Чхатрабхога: Амбулинга-гхат и Рамачандра Кхан переправляет Господа в Ориссу"
+  title_en: "Chhatrabhoga: Ambulinga-ghat, and Ramachandra Khan ferries the Lord to Orissa"
+  period: P09
+  order: 71.5
+  years: [1510, 1510]
+  cc: "Мадхья 16"
+  cb: "Антья 2.60–149"
+  themes: [ecstasy, pilgrimage, mercy]
+  notes: "В Чхатрабхоге, где Ганга делится на сто рукавов и Шива пребывает в форме воды (Амбулинга), Господь плачет «О Джаганнатха»; правитель Рамачандра Кхан, несмотря на войну между царствами, ночью отправляет Его на лодке; в пути Господь ободряет испуганных: «Нас хранит Сударшана»; высадка у Праяга-гхата в Ориссе. По ЧЧ Мадхья 16 — на обратном пути в Гауду (Рамачандра Кхан — тот же правитель)."
+
+- id: ev-jaleshvara-shiva-dance
+  title: "Джалешвара: Господь танцует перед Шивой и славит Нитьянанду"
+  title_en: "Jaleshvara: the Lord dances before Shiva and glorifies Nityananda"
+  period: P09
+  order: 76
+  years: [1510, 1510]
+  cb: "Антья 2.237–263"
+  themes: [deities, ecstasy, teaching]
+  notes: "После сломанного посоха Господь один уходит вперёд; в храме Джалешвара-Махадевы под музыку поклонения гнев Его проходит, Он танцует; затем обнимает Нитьянанду и велит всем почитать Его: «Тело Нитьянанды Мне дороже Моего»."
+
+- id: ev-shakta-sannyasi-vamshadaha
+  title: "Шакта-санньяси по дороге в Вамшадаху"
+  title_en: "The Shakta sannyasi on the way to Vamshadaha"
+  period: P09
+  order: 77
+  years: [1510, 1510]
+  cb: "Антья 2.264–276"
+  themes: [mercy, pranks]
+  notes: "Господь приветливо говорит с шактой, который зовёт Его в свой ашрам вкусить «блаженства» (вина); Господь с улыбкой отсылает его «всё подготовить» — шутка ради его освобождения."
+
+- id: ev-shiva-receives-ekamra-kashiraja
+  title: "Шива, побеждённый Сударшаной за Каширадждой, получает от Кришны Экамра-вану"
+  title_en: "Shiva, defeated by Sudarshana for siding with the King of Kashi, receives Ekamra-vana from Krishna"
+  period: P00
+  order: 900
+  cb: "Антья 2.315–395"
+  themes: [deities, offense]
+  notes: "По «Сканда-пуране» в изложении ЧБ: Шива помогает Каширадже против Кришны; Сударшана сжигает Каши, Шива предаётся Кришне, и Тот дарует ему Экамра-вану (Бхуванешвару) к северу от Пурушоттама-кшетры, славит Нилачалу и делает Шиву хранителем Своих обителей."
+
+- id: ev-puri-people-moving-jagannatha
+  title: "Жители Нилачалы: «Это движущийся Джаганнатха»"
+  title_en: "The people of Nilachala: 'He is the moving Jagannatha'"
+  period: P10
+  order: 35
+  years: [1510, 1510]
+  cb: "Антья 3.156–166"
+  themes: [kirtan, jagannatha, ecstasy]
+  notes: "После освобождения Сарвабхаумы Господь день и ночь в киртане на улицах Пури; люди берут пыль Его следов."
+
+- id: ev-nityananda-embraces-balarama-deity
+  title: "Нитьянанда взбирается на трон и обнимает Божество Баларамы"
+  title_en: "Nityananda climbs the throne and embraces the Deity of Balarama"
+  period: P10
+  order: 36
+  years: [1510, 1510]
+  cb: "Антья 3.192–202"
+  themes: [jagannatha, ecstasy, revelation]
+  notes: "Стражник, схвативший Нитьянанду за руку, отлетает; Нитьянанда надевает гирлянду Баларамы; стражник смиряется, и Нитьянанда обнимает его."
+
+- id: ev-ocean-shore-moonlit-kirtan
+  title: "Лунной ночью: киртан Господа на берегу океана"
+  title_en: "The Lord's moonlit kirtana on the ocean shore"
+  period: P10
+  order: 37
+  years: [1510, 1510]
+  cb: "Антья 3.203–227, 263–268"
+  themes: [kirtan, ecstasy]
+  notes: "Господь сидит на берегу океана в ясную лунную ночь с преданными и всю ночь поёт и танцует; олицетворённые признаки экстаза не покидают Его; океан обретает благо, как прежде Ганга и Ямуна."
+
+- id: ev-gadadhara-reads-bhagavata-puri
+  title: "Гададхара читает Господу «Бхагавату»"
+  title_en: "Gadadhara reads the Bhagavata to the Lord"
+  period: P10
+  order: 38
+  years: [1510, 1510]
+  cb: "Антья 3.228–231; Антья 10"
+  themes: [teaching, ecstasy]
+  notes: "Гададхара неотлучно служит Господу и читает Ему «Шримад-Бхагаватам»; слушая, Господь становится безумным от премы."
+
+- id: ev-paramananda-puri-well-ganga
+  title: "Ганга входит в колодец Парамананды Пури"
+  title_en: "The Ganga enters Paramananda Puri's well"
+  period: P10
+  order: 39
+  years: [1510, 1510]
+  cb: "Антья 3.232–262"
+  themes: [mercy, revelation]
+  notes: "Вода в колодце Парамананды Пури мутна; Господь просит Джаганнатху, чтобы в колодец вошла Бхогавати-Ганга; наутро вода чиста; Господь: «Я пришёл из-за любви Пури Госвами; он может даже продать Меня»."
+
+- id: ev-kulia-mass-kirtan
+  title: "Кулия: Господь выходит к толпам; тысячи групп киртана"
+  title_en: "Kulia: the Lord comes out to the crowds; thousands of kirtana parties"
+  period: P13
+  order: 8.5
+  cb: "Антья 3.343–441"
+  themes: [kirtan, mercy]
+  notes: "Господь тайно уходит от Видья-вачаспати в Кулию; толпы обвиняют Вачаспати, что он прячет Господа; узнав правду, все переправляются (под тонущими лодками появляются отмели); по молитве Вачаспати Господь выходит, и тысячи групп киртана поют; Господь танцует в каждой; освобождены все грешники Кулии."
+
+- id: ev-kulia-offender-brahmana-remedy
+  title: "Кулия: брахман-хулитель вайшнавов получает лекарство — прославлять вайшнавов"
+  title_en: "Kulia: a brahmana who blasphemed Vaishnavas receives the remedy — to glorify them"
+  period: P13
+  order: 8.7
+  cb: "Антья 3.442–463"
+  themes: [offense, mercy, teaching]
+  notes: "«Те же уста, что пили яд, должны пить нектар»: теми устами, что хулили вайшнавов, — слагать песни во славу преданных. Суть искупления за вайшнава-апарадху."
+
+- id: ev-srivasa-one-two-three
+  title: "«Раз, два, три»: Шривас о своём пропитании; Господь обещает ему достаток"
+  title_en: "'One, two, three': Srivasa on his livelihood; the Lord promises him plenty"
+  period: P13
+  order: 7.2
+  cb: "Антья 5.38–74"
+  themes: [teaching, mercy]
+  notes: "В Кумарахатте Господь спрашивает Шриваса, как он кормит семью, никуда не выходя; тот хлопает трижды: три дня поста — и в Гангу; Господь: «Даже если Лакшми будет просить подаяния, твой дом не узнает бедности» (Гита 9.22); благословляет Шриваса и Адвайту не стареть и велит Шри Раме служить брату."
+
+- id: ev-bhagavatacharya-varahanagara
+  title: "Вараханагар: Господь дарует брахману титул «Бхагавата Ачарья»"
+  title_en: "Varahanagara: the Lord gives a brahmana the title 'Bhagavata Acharya'"
+  period: P13
+  order: 7.5
+  cb: "Антья 5.110–121"
+  themes: [ecstasy, teaching]
+  notes: "Брахман-чтец «Бхагаваты» читает стихи о бхакти; Господь всю ночь танцует, падая наземь, а затем называет его Бхагавата Ачарьей и велит толковать «Бхагавату»."
+
+- id: ev-prataparudra-dream-dusty-jagannatha
+  title: "Сон Пратапарудры: Джаганнатха в пыли, как Гаура в киртане"
+  title_en: "Prataparudra's dream: Jagannatha covered in dust, like Gaura in kirtana"
+  period: P12
+  order: 299
+  cb: "Антья 5.148–185"
+  themes: [jagannatha, revelation, offense]
+  notes: "Тайно увидев танец Господа, царь смущается пылью и слюной на Его теле; ночью Джаганнатха во сне, в пыли и слезах, не позволяет коснуться Себя: «Ты брезговал Моим телом»; затем на троне — Гаура; проснувшись, царь кается и понимает, что Чайтанья и Джаганнатха едины."
+
+- id: ev-brahmana-doubts-nityananda-conduct
+  title: "Брахман сомневается в поведении Нитьянанды: Господь разъясняет и велит проповедовать Его славу"
+  title_en: "A brahmana doubts Nityananda's conduct: the Lord explains and sends him to proclaim His glory"
+  period: P12
+  order: 127
+  cb: "Антья 6"
+  themes: [teaching, offense]
+  notes: "Бывший соученик Господа из Навадвипы, видя у Нитьянанды-санньяси бетель, золото, шёлк, железный посох и жизнь у шудр, спрашивает в Пури, почему Его поведение не согласно с ашрамом; Господь: великого не касаются мирские достоинства и пороки, как лотос — воды (Бхаг. 11.20.36); подражающий гибнет, как пьющий яд не-Рудра; рассказ «Бхагаваты» о шести сыновьях Деваки, проклятых за насмешку над Брахмой (Бхаг. 10.85); «Даже если Нитьянанда войдёт в винную лавку, Его стопы чтит Брахма»; брахман возвращается и получает милость Нитьянанды."
+
+- id: ev-lord-tulasi-pot-japa
+  title: "Господь сажает туласи в горшок и повторяет имена, глядя на неё"
+  title_en: "The Lord plants Tulasi in a pot and chants His rounds gazing at her"
+  period: P12
+  order: 32
+  cb: "Антья 8.154–162"
+  themes: [teaching, ecstasy]
+  notes: "«Без туласи Я не могу жить, как рыба без воды»; когда Господь идёт, повторяя имена, перед Ним несут туласи; садясь за счёт имён (санкхья-нама), Он ставит её перед Собой."
+
+- id: ev-lakshesvara-hundred-thousand-names
+  title: "«Я ем лишь у лакшешвары» — у того, кто повторяет сто тысяч имён"
+  title_en: "'I eat only at the house of a lakshesvara' — one who chants a hundred thousand names"
+  period: P12
+  order: 51
+  cb: "Антья 9.116–129"
+  themes: [teaching, kirtan]
+  notes: "Брахманы, приглашающие Господа, пугаются: у них нет и тысячи монет; Господь объясняет: лакшешвара — тот, кто ежедневно повторяет сто тысяч имён; все начинают повторять по сто тысяч."
+
+- id: ev-keshava-bharati-bhakti-above-jnana
+  title: "Кешава Бхарати: бхакти выше гьяны"
+  title_en: "Keshava Bharati: bhakti is higher than jnana"
+  period: P12
+  order: 52
+  cb: "Антья 9.130–156"
+  themes: [teaching]
+  notes: "На вопрос Господа Кешава Бхарати отвечает: бхакти выше знания — так учат махаджаны, которые, отвергнув освобождение, молят о бхакти (Брахма, Нанда и пастухи); Господь: «Скажи ты иначе — Я бы сегодня вошёл в океан»."
+
+- id: ev-srivasa-compares-advaita-to-shuka
+  title: "Шривас сравнивает Адвайту с Шукой и Прахладой — Господь гневается"
+  title_en: "Srivasa compares Advaita to Shuka and Prahlada — the Lord is angered"
+  period: P12
+  order: 53
+  cb: "Антья 9.280–307"
+  themes: [teaching, offense]
+  notes: "Господь шлёпает Шриваса и с палкой гонится за ним: «Шука по сравнению с Надой — дитя; Нада пробудил Меня в молочном океане и привёл сюда»; Адвайта удерживает Его руку; Шривас просит прощения."
+
+- id: ev-bhrigu-tests-trimurti
+  title: "Бхригу испытывает Брахму, Шиву и Вишну"
+  title_en: "Bhrigu tests Brahma, Shiva and Vishnu"
+  period: P00
+  order: 920
+  cb: "Антья 9.310–392"
+  themes: [teaching, celestial]
+  notes: "По «Бхагавате» (10.89): мудрецы на Сарасвати посылают Бхригу узнать, кто высший; Брахма и Шива гневаются, Вишну, получив удар ногой в грудь, омывает стопы Бхригу и просит прощения; Бхригу провозглашает Нараяну высшим. Автор: великого вайшнава понять нельзя без милости Кришны — следует всех почитать и вести себя смиренно."
+
+- id: ev-advaita-circumambulates-lord-sees-face
+  title: "«Ты обходишь Джаганнатху, а Я смотрю лишь на Его лицо»: Адвайта признаёт поражение"
+  title_en: "'You circle Jagannatha, but I look only at His face': Advaita admits defeat"
+  period: P12
+  order: 141
+  cb: "Антья 10.5–21"
+  themes: [jagannatha, pranks]
+  notes: "Адвайта говорит, что после даршана обошёл Джаганнатху пять-семь раз; Господь: «Ты побеждён — Я не смотрю по сторонам и не обхожу, а вижу лишь прекрасное лицо Джаганнатхи»; Адвайта: «Пусть Я всегда буду так побеждён Тобой»."
+
+- id: ev-lord-falls-into-well
+  title: "Господь в экстазе падает в колодец"
+  title_en: "The Lord falls into a well in ecstasy"
+  period: P12
+  order: 142
+  cb: "Антья 10.58–66"
+  themes: [ecstasy]
+  notes: "В экстазе Господь падает в колодец и плавает в нём, как дитя, без царапин; Адвайта и преданные вытаскивают Его, а Он спрашивает: «Что случилось? Почему вы плачете?»"

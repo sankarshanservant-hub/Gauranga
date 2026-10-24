@@ -1,0 +1,151 @@
+# События, заведённые при разборе «Шри Чайтанья-чаритамриты», Мадхья 18–25 (исполнитель cc-m3). Формат — как events.yaml.
+
+# Мадхья 18 — Господь во Вриндаване.
+- id: ev-gopala-mathura-vitthaleshvara
+  title: "Гопала месяц живёт в Матхуре у Виттхалешвары; Рупа с преданными созерцает Его"
+  title_en: "Gopala stays a month in Mathura at Vitthaleshvara's house; Rupa and the devotees behold Him"
+  period: P15
+  order: 30
+  cc: "Мадхья 18.45–54"
+  cb: ""
+  themes: [deities]
+  notes: "После ухода Господа: Гопала из страха перед мусульманами приходит в Матхуру ради престарелого Рупы Госвами."
+
+- id: ev-akrura-tirtha-imli-tala
+  title: "Господь живёт в Акрура-тиртхе; нама-санкиртана под Имли-талой"
+  title_en: "The Lord stays at Akrura-tirtha; nama-sankirtana under the Imli-tala"
+  period: P13
+  order: 160
+  cc: "Мадхья 18.69–81; 18.129–134"
+  cb: ""
+  themes: [kirtan, pilgrimage, prasada]
+  notes: "Уходя от толп Матхуры, Господь живёт в Акрура-тиртхе, днём воспевает имя у Ямуны под древним тамариндом; брахманы Матхуры наперебой приглашают Его."
+
+- id: ev-soro-to-prayaga
+  title: "Через Соро-кшетру в Праягу; Господь затопляет премой западные края"
+  title_en: "Through Soro-kshetra to Prayaga; the Lord floods the western lands with prema"
+  period: P13
+  order: 181.8
+  cc: "Мадхья 18.213–222"
+  cb: ""
+  calendar: "магха, Макара-санкранти"
+  themes: [mercy, pilgrimage, festival]
+
+# Мадхья 19 — милость к Рупе в Праяге.
+- id: ev-raghupati-upadhyaya
+  title: "Рагхупати Упадхьяя читает Господу свои стихи о Кришне"
+  title_en: "Raghupati Upadhyaya recites his verses on Krishna to the Lord"
+  period: P13
+  order: 183.3
+  cc: "Мадхья 19.92–107"
+  cb: ""
+  themes: [teaching, ecstasy, krishna-lila]
+  teaching: [prema]
+  notes: "В Адаиле, в доме Валлабхи Бхатты: высший облик — Шьяма, обитель — Матхура, возраст — кайшора, раса — мадхурья (Падьявали 82)."
+
+- id: ev-rupa-sanatana-vrindavana-vairagya
+  title: "Отречённая жизнь Рупы и Санатаны во Вриндаване (рассказы паломников)"
+  title_en: "The renounced life of Rupa and Sanatana in Vrindavana (as told by pilgrims)"
+  period: P14
+  order: 40
+  date_conf: оценка
+  date_basis: "время не названо: рассказы приходивших в Пури из Вриндавана при жизни Господа"
+  cc: "Мадхья 19.123–134"
+  cb: ""
+  themes: [sannyasa, kirtan]
+
+# Мадхья 20 — Санатана в Каши.
+- id: ev-sanatana-bhota-kantha
+  title: "Санатана принимает облик отречённого: бритьё, старое дхоти и обмен дорогого одеяла на ветхую накидку"
+  title_en: "Sanatana takes the renunciant's guise: shaving, an old dhoti and exchanging a costly blanket for a worn cloth"
+  period: P13
+  order: 184.7
+  cc: "Мадхья 20.67–93"
+  cb: ""
+  themes: [sannyasa]
+  teaching: [sannyasa-teaching]
+
+# Мадхья 21 — наставление Санатане: величие и сладость Кришны.
+- id: ev-sanatana-shiksha-aishvarya-madhurya
+  title: "Наставление Санатане: величие и сладость Кришны"
+  title_en: "Instruction to Sanatana: the majesty and sweetness of Krishna"
+  period: P13
+  order: 185.2
+  cc: "Мадхья 21"
+  cb: ""
+  themes: [teaching, krishna-lila, ecstasy]
+  teaching: [prema, scripture]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши): бесчисленные Вайкунтхи, три обители, Брахмы в Двараке, мадхурья Кришны — в бхаве гопи."
+
+# Мадхья 22 — наставление Санатане: абхидхея, садхана-бхакти.
+- id: ev-sanatana-shiksha-sadhana-bhakti
+  title: "Наставление Санатане: абхидхея — садхана-бхакти, вайдхи и рагануга"
+  title_en: "Instruction to Sanatana: abhidheya — sadhana-bhakti, vaidhi and raganuga"
+  period: P13
+  order: 185.3
+  cc: "Мадхья 22"
+  cb: ""
+  themes: [teaching]
+  teaching: [bhakti-supremacy, vaishnava]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши)."
+
+# Мадхья 23 — наставление Санатане: прайоджана, према и расы.
+- id: ev-sanatana-shiksha-prema-rasa
+  title: "Наставление Санатане: прайоджана — према, её ступени и расы"
+  title_en: "Instruction to Sanatana: prayojana — prema, its stages and the rasas"
+  period: P13
+  order: 185.4
+  cc: "Мадхья 23"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши). Поручение Санатане (Мадхья 23.95–118) — в ev-sanatana-kashi-instruction."
+
+# Мадхья 24 — шестьдесят одно толкование шлоки «атмарама»; план «вайшнава-смрити».
+- id: ev-atmarama-sixty-one
+  title: "Шестьдесят одно толкование шлоки «атмарама» для Санатаны"
+  title_en: "Sixty-one explanations of the atmarama verse for Sanatana"
+  period: P13
+  order: 185.5
+  cc: "Мадхья 24"
+  cb: ""
+  themes: [teaching]
+  teaching: [scripture, bhakti-supremacy]
+  scriptures: ["Бхаг. 1.7.10"]
+  notes: "Продолжение ev-sanatana-kashi-instruction (Каши). Прежде (Мадхья 6) Господь толковал эту шлоку Сарвабхауме на восемнадцать ладов."
+
+- id: ev-narada-mrigari-hunter
+  title: "Нарада и охотник Мригари"
+  title_en: "Narada and the hunter Mrigari"
+  period: PX
+  order: 200
+  cc: "Мадхья 24.223–276"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [vaishnava, holy-name]
+  notes: "Пример силы садху-санги, рассказанный Господом Санатане (по Сканда-пуране); не эпизод жизни Господа."
+
+- id: ev-sanatana-vaishnava-smriti-plan
+  title: "Господь даёт Санатане план «вайшнава-смрити»"
+  title_en: "The Lord gives Sanatana the outline of the Vaishnava-smriti"
+  period: P13
+  order: 185.6
+  cc: "Мадхья 24.319–340"
+  cb: ""
+  themes: [teaching, festival]
+  teaching: [purity, vaishnava]
+  notes: "По традиции — «Хари-бхакти-виласа» (в тексте не названа)."
+
+# Мадхья 25 — Варанаси, Субуддхи Рай, возвращение в Пури.
+- id: ev-subuddhi-raya-holy-name
+  title: "Субуддхи Рай, лишённый касты Хусейн-шахом, получает от Господа наставление о святом имени"
+  title_en: "Subuddhi Raya, outcasted by Hussain Shah, receives the Lord's instruction on the holy name"
+  period: P13
+  order: 186.5
+  date_conf: оценка
+  date_basis: "встреча в Варанаси; время по ЧЧ точно не названо"
+  cc: "Мадхья 25.179–193"
+  cb: ""
+  themes: [muslims, mercy, teaching]
+  teaching: [holy-name, purity]
+  notes: "Пандиты Каши предписывают смерть в кипящем гхи; Господь посылает его во Вриндаван петь имя. Дальнейшая жизнь в Матхуре — ev-rupa-first-vrindavana-stay, ev-sanatana-mathura-vraja-places."

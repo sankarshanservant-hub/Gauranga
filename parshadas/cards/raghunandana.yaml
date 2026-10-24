@@ -1,0 +1,128 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/raghunandana.md и lila-db.
+id: "@raghunandana"
+names:
+  ru: "Рагхунандана Тхакур"
+  en: "Raghunandana Thakura"
+  variants: ["Рагхунандана дас (M, по выдержке из Бхактиведанты Свами)", "Мадана (так назвал его Абхирама, по Лочану)", "Прадьюмна (в лиле Кришны)"]
+  facts: [F1, F4]
+kind: associate
+circle: [navadvipa, puri, later]
+period: [P07, P12, P14, P15]
+period_note: "Лично: каждый год в Пури на Ратха-ятре — танцор группы Кханды (P12, P14); после сокрытия Господа — в Шрикханде: Шриниваса, Нароттама, праздник разлуки по Нарахари, Кхетури, свой уход (P15). В Навадвипе (P07) — только по «Чайтанья-мангале» Лочана и падам (lila-db) и, возможно, M pdf 294 (F77). Год рождения 1510 (T, M) — уже после явления Господа."
+life:
+  appearance:
+    date: "1510 (1432 шаки)"
+    tithi: "Васанта-панчами (гаура-панчами магхи)"
+    place: "#shrikhanda"
+    conf: "год — T и M; титхи — только T и календарь ШЧСМ («День явления Шрилы Рагхунандана Тхакура» — Мадхава-маса, гаура-панчами, 23.01.2026)"
+    facts: [F12, F13]
+  disappearance:
+    date: ""
+    tithi: "шравана, шукла-чатуртхи (T по БР 13.183–184) ≠ шукла-чатурдаши (M)"
+    place: "#shrikhanda"
+    conf: "титхи спорна (T ≠ M); B дня не называет; года нет ни у кого; в календаре ШЧСМ дня ухода нет"
+    facts: [F64, F65, F66, F67, F68, F69]
+    note: "Перед уходом позвал Шринивасу и благословил его на проповедь; предал себя Божествам (M); ушёл, повторяя имена Шри Кришна Чайтаньи (T по БР 13). Праздник разлуки устроил сын Канаи со Шринивасой (T, M, B)."
+origin:
+  places: ["#shrikhanda"]
+  family: ["@mukunda-dasa", "@narahari-sarakara", "@madhava-dasa-shrikhanda", "@narayana-dasa-shrikhanda"]
+  varna: "вайдья (лекарь)"
+  facts: [F10, F11, F12, F14, F15]
+  note: "Сын Мукунды Даса, придворного лекаря (B по скану — при дворе Хусейн Шаха); внук Нараяны Даса; племянник и ученик Нарахари Саркара. Имя матери неизвестно (T)."
+relations:
+  # семья
+  - {type: father, who: "@mukunda-dasa", facts: [F10, F15, F16, F17, F20, F24, F46], note: "«Рагхунандана — мой отец»: Мукунда назвал сына своим гуру, ибо от него пришла Кришна-бхакти (ЧЧ Мадхья 15.113–117)."}
+  - {type: relative, who: "@narahari-sarakara", facts: [F10, F19, F33, F36, F57, F58], note: "Дядя (младший брат отца); воспитывал его с любовью (T); вместе — танцоры группы Кханды на Ратха-ятре; провёл праздник разлуки по нему (F58). ⚠ T 200 ошибочно зовёт Рагхунандану сыном Нарахари."}
+  - {type: guru, who: "@narahari-sarakara", facts: [F9, F19]}
+  - {type: relative, who: "@madhava-dasa-shrikhanda", facts: [F10], note: "Дядя, средний брат Мукунды."}
+  - {type: relative, who: "@narayana-dasa-shrikhanda", facts: [F11], note: "Дед по отцу (B: Нараянадева Саркар)."}
+  - {type: son, who: "@kanai-shrikhanda", facts: [F35, F66, F69, F70], note: "Перед уходом передал ему служение Гаура-Гопале (T); Канаи со Шринивасой устроил праздник разлуки."}
+  - {type: relative, who: "@madana-raya-shrikhanda", facts: [F71, F72], note: "Внук (сын Канаи), ученик Нарахари (B 290 по скану)."}
+  - {type: relative, who: "@vamshi-raya-shrikhanda", facts: [F71], note: "Внук (сын Канаи); у M — Вамшивадана."}
+  # Господь
+  - {type: companion, who: "@mahaprabhu", facts: [F20, F30, F31, F32, F36, F37, F38, F39, F40], note: "Поручение — только служение Кришне (ЧЧ Мадхья 15.131); каждый год на Ратха-ятре; «Ты — Моя жизнь» (ЧМ); по T — «приёмный сын», которому Господь дал право гирлянды в адхиваса санкиртаны (F31)."}
+  # Божества
+  - {type: deity-served, who: "@gopinatha-shrikhanda", facts: [F21, F22, F23, F24, F25, F26, F27, F28], event: ev-raghunandana-feeds-gopinatha, note: "С пяти лет; накормил Божество ладду — половина ладду и ныне в руке Гопинатхи (B, T, M). В строфе и «Вайшнава-вандане» — «Гопала»."}
+  - {type: deity-served, who: "@gaura-deity-shrikhanda", facts: [F34, F35, F66], note: "B (по БР 9): в его храме установлено Божество Гауранги, он смотрел арати; T — Гаура-Гопала; M — свои Божества «Гопал-Гауранга» и Божества Нарахари «Гауранга и Мадана-Гопала». Тождество Божеств в книгах не прояснено."}
+  # спутники
+  - {type: companion, who: "@abhirama", facts: [F4, F45, F46, F47], note: "Абхирама возвестил его аватарой Маданы (ЧМ); встреча и совместный танец — в Шрикханде (T) или Бараданги (B, M); тогда упала нупура (T, M)."}
+  - {type: companion, who: "@chiranjiva-sena", facts: [F38, F42]}
+  - {type: companion, who: "@sulochana-shrikhanda", facts: [F38, F41]}
+  - {type: disciple, who: "@rayashekhara", facts: [F74], note: "Известен как его «ученик»; многие пады на браджабули под этим именем принимать без разбора нельзя (B)."}
+  - {type: disciple, who: "@krishnadasa-akaihat", facts: [F47, F76], note: "⚠ только T 72: «ученик Кришнадас» в Акаи-хате; другие книги учеником его не называют."}
+  # Шриниваса и ачарьи
+  - {type: protege, who: "@srinivasa-acharya", facts: [F49, F50, F51, F52, F53, F54, F55, F58, F62, F64, F65, F69], events: [ev-srinivasa-shrikhanda, ev-srinivasa-raghunandana-shrikhanda, ev-srinivasa-marriage, ev-katwa-khanda-memorial-festivals],
+     note: "Отеческая любовь; позвал его в Шрикханду после кончины Вишнуприи (M); устроил его свадьбу с Драупади (B, M); перед уходом благословил на проповедь и предсказал сомнения людей (T по БР 13; B 673)."}
+  - {type: other, who: "@draupadi-ishvari", facts: [F55], note: "Устроил её брак со Шринивасой; день: кришна-трития (B) ≠ акшая-трития (M) вайшакхи."}
+  - {type: other, who: "@narottama-dasa", facts: [F56, F59, F62], event: ev-narottama-shrikhanda-yajigrama-katwa, note: "Обнял Нароттаму в Шрикханде; пел мангалачарану на празднике в Кхетури по его просьбе (M)."}
+  - {type: other, who: "@ramachandra-kaviraja", facts: [F62, F63], note: "Дал ему дозволение идти во Вриндаван (M, B)."}
+  - {type: other, who: "@ishana-navadvipa", facts: [F62], note: "Шриниваса с друзьями шли от Ишаны к нему в Шрикханду."}
+  - {type: other, who: "@jahnava", facts: [F59, F61], events: [ev-kheturi-festival, ev-jahnava-returns-through-kheturi], note: "Вместе в Кхетури; на обратном пути она посетила его дом (T 200)."}
+  - {type: other, who: "@shyamananda", facts: [F60], note: "Останавливался у него в Шрикханде по пути из Кхетури."}
+  - {type: other, who: "@virabhadra", facts: [F78], note: "M pdf 22: вместе с сыном Канаи принял и обнял Вирачандру в Шрикханде; ⚠ по БР 13 Вирачандру там принял Канаи уже после ухода Рагхунанданы."}
+  # поэты и авторы
+  - {type: other, who: "@uddhava-dasa-padakarta", facts: [F5, F24, F46, Q7, Q8], note: "Пады о ладду Гопинатхе и о встрече с Абхирамой."}
+  - {type: other, who: "@lochana-dasa", facts: [F4, F27, F32, F33, F44, Q6], note: "Славит его в «Чайтанья-мангале» (Сутра-кханда 647–656)."}
+  - {type: other, who: "@kavi-karnapura", facts: [F2, F39, Q1, Q12], note: "ГГД 70 — Прадьюмна; «Чайтанья-чандродая» 9.1."}
+  - {type: other, who: "@murari-gupta", facts: [F40, Q13], note: "«Кадача» 4.1.5."}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F18, F29, F30, F41, Q2, Q5]}
+  - {type: other, who: "@karnapura-kaviraja", facts: [F51, Q16]}
+  - {type: other, who: "@narahari-chakravarti", facts: [F7, F26, F34, F65, F67, Q9, Q10, Q15], note: "Автор БР — главный источник о его поздних годах и уходе."}
+  - {type: other, who: "@vrindavana-dasa", facts: [F77], note: "⚠ M pdf 294: пада о киртане, где пляшут Рамаи и Рагхунандана, — тождество неясно."}
+unnamed:
+  - {who: "мать (имя неизвестно, T)", type: mother, facts: [F13]}
+  - {who: "Бхагаван и ещё четыре сына Мадана Рая; далее род до Банаваринанды (B 290)", type: relative, facts: [F72]}
+  - {who: "Панчанана Кавирадж, известный потомок (M)", type: relative, facts: [F73]}
+  - {who: "Гопала Чакраварти из Яджиграма, отец Драупади", type: other, facts: [F55]}
+identities:
+  - in: other-avatara
+    as: "Прадьюмна, третья из вьюх; во Врадже — прия-нарма-сакха, помогавший играм Радхи и Мадхавы; неотличен от Шри Чайтаньи"
+    source: "ГГД 70"
+    level: A
+    facts: [F2, Q1]
+    variants: ["B 288: «Прадьюмна-Вишну» Враджа-лилы", "ЧМ Сутра 652: Абхирама возвестил его аватарой Маданы (F4); песня Уддхавы: «неотличен от Маданы» (F5)", "M: по одним — Кандарпа-манджари (⚠ в ГГД нет), по другим — Кандарпа, сын Кришны в Двараке (F3)"]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-rasa-shrivasa-vrindavana
+  - ev-raghunandana-feeds-gopinatha
+  - ev-gauda-devotees-set-out-puri
+  - ev-prataparudra-watches-devotees-roof
+  - ev-ratha-yatra-gundicha
+  - ev-mukunda-dasa-peacock
+  - ev-srinivasa-meets-narahari
+  - ev-srinivasa-shrikhanda
+  - ev-srinivasa-sets-out-nilachala
+  - ev-narottama-shrikhanda-yajigrama-katwa
+  - ev-srinivasa-marriage
+  - ev-gadadhara-dasa-narahari-departure
+  - ev-katwa-khanda-memorial-festivals
+  - ev-srinivasa-raghunandana-shrikhanda
+  - ev-kheturi-festival
+  - ev-jahnava-returns-through-kheturi
+  - ev-gati-govinda-birth
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "«Шри Гаура-намамрита-стотра» и «Шри Шачисуташтака» — санскритские гимны, приписываемые ему «некоторыми» (B)", facts: [F75]}
+places: ["#shrikhanda", "#puri", "#yajigrama", "#akai-hat", "#baradangi", "#kadui", "#kheturi", "#katwa", "#navadvipa", "#kulinagrama", "#vana-vishnupura", "#madhu-pushkarini"]
+places_facts: [F12, F14, F25, F29, F36, F40, F46, F47, F48, F54, F55, F58, F59, F62, F69]
+character:
+  - {trait: "према к Кришне с пяти лет; детская простота, покорившая Божество", facts: [F21, F22, F24, I2], events: [ev-raghunandana-feeds-gopinatha]}
+  - {trait: "дарующий бхакти: родной отец называет его своим гуру", facts: [F20, I1], events: [ev-mukunda-dasa-peacock]}
+  - {trait: "искусный танцор; танец чарует мир", facts: [F6, F7, F8, F36, F44, F46]}
+  - {trait: "кротость, милость к униженным, сладкая речь, равная любовь ко всем", facts: [F7, F44]}
+  - {trait: "отеческая забота о Шринивасе; благословение на проповедь", facts: [F53, F54, F55, F64, F65]}
+significance: {facts: [F17, F18, F43, I1, I2, I3, I4, I5]}
+sources:
+  T: "71–72 (глава); 40, 67, 69, 70, 95, 200, 204–206, 209"
+  M: "142–145 (глава); pdf 22, 83, 96, 117, 126, 128–130, 179, 181, 214, 215, 217, 222, 223, 229, 231, 233, 257, 294"
+  B: "282–290 (глава); 131, 175, 176, 178, 179, 669–670, 673, 677, 910, 932, 1109"
+  other: ["ГГД 70", "ЧЧ Ади 10.78; Мадхья 10.90, 11.92, 13.46, 15.112–131", "«Чайтанья-мангала», Сутра-кханда 647–656", "«Чайтанья-чандродая-натака» 9.1", "Мурари, «Кадача» 4.1.5", "БР 2.208, 3.47, 3.303, 4.150–155, 8, 9 (9.525, 9.660 сл.), 10.572, 13.174–184", "«Гуна-чарита-махима-леша»", "пады Уддхавы Даса", "«Гаудия-вайшнава-абхидхана» (по T)"]
+article: {ru: "parshadas/ru/raghunandana.md", en: "parshadas/en/raghunandana.md"}
+open_questions:
+  - "День ухода: шукла-чатуртхи (T по БР 13.183–184) или шукла-чатурдаши (M) шраваны; в календаре ШЧСМ дня нет (F68)."
+  - "Где встретились с Абхирамой: Шрикханда (T) или Бараданги (B, M); где ныне нупура: Акаихат (M) или Кадуи (B) (F46–F48)."
+  - "День свадьбы Шринивасы: кришна-трития (B) или акшая-трития (M) вайшакхи (F55)."
+  - "Какие Божества: Гопинатха (детство), Гауранга (БР 9, B), Гаура-Гопала (T), «Гопал-Гауранга» и Божества Нарахари «Гауранга и Мадана-Гопала» (M) (F34, F35, F66)."
+  - "«Ученик Кришнадас» в Акаи-хате (только T) — кто это (F47)."
+  - "Кандарпа-манджари (M) — в ГГД нет (F3); ⚠ богословская сноска: Мадана/Кандарпа = Прадьюмна, не мирской Камадева (F4, F5)."
+  - "Встречал ли Рагхунандана Вирачандру в Шрикханде (M pdf 22) — по БР 13 его там принял Канаи после ухода отца (F78)."

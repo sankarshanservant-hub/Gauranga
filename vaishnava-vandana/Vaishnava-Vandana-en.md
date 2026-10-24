@@ -2,7 +2,7 @@
 
 *"Praises of the Vaishnavas": lists of the associates of Sri Chaitanya*
 
-*The Sanskrit vandana attributed to Jiva Gosvami; the* Vaishnava-vandana *and* Vaishnavabhidhana *of Devakinandana Dasa*
+*The Sanskrit vandana attributed to Jiva Gosvami; the* Vaishnava-vandana *and* Vaishnavabhidhana *of Devakinandana Dasa; two Bengali vandanas ascribed to Vrindavana Dasa*
 
 *Translated from the Sanskrit and Bengali*
 
@@ -40,8 +40,18 @@ not been found in a public-domain edition.
 **Part 3. Devakinandana Kaviraja, the Vaishnavabhidhana** — a Sanskrit list of names (53 verses), following
 almost exactly the order of the Bengali vandana; from the same 1910 edition.
 
-**Not translated** are two other vandanas of the 1910 edition — the "First vandana" on Nityananda's associates
-and a vandana in tripadi, both attributed to Vrindavana Dasa (see `CATALOG.md`).
+**Parts 4 and 5. Two Bengali vandanas ascribed to Vrindavana Dasa.** Both come from the same 1910 edition.
+The "First vandana" (144 verses) is essentially made up of couplets from the *Chaitanya-bhagavata*: the list of
+Nityananda's associates and the account of the devotees going to Nilachala for the Chariot festival. To these is
+added the "Gopala-nirnaya", which identifies Nityananda's associates with the cowherd boys of Vraja. Vrindavana Dasa
+himself gave no such identifications, and six of the ten differ from the *Gaura-ganoddesha*, so the name of the
+author of the *Chaitanya-bhagavata* in the colophon points to the source of the lines rather than to the compiler.
+The tripadi vandana (150 stanzas and couplets) is signed "Vrindavana Dasa", but its author himself praises
+Vrindavana Dasa, Narayani's son, and is therefore another man — the "second Vrindavana Dasa", as Majumdar calls him.
+His order of names and many characterisations repeat the Sanskrit vandana of Part 1 almost word for word, but there
+are also details found nowhere else: the Lord's secret counsel with Nityananda about Virachandra, Parameshvara's
+forty jackals, Saranga's hundred and twenty snakes. The notes mark parallels with Parts 1–2, with the
+*Chaitanya-bhagavata* and with the *Gaura-ganoddesha*.
 
 **Principles.** Only the text of the vandanas is translated — without the original or a word-for-word
 rendering. The Russian and English translations were made in parallel, with the same numbering and the same
@@ -50,7 +60,7 @@ numbering; the *Chaitanya-charitamrita* — CC; the *Chaitanya-bhagavata* — CB
 the vandanas, from GGD and from Majumdar's conclusions. Where a vandana differs from what Gaudiya Vaishnavas
 accept (for example, a different identification of an associate), the translation is exact and the
 explanation is given in a note. At the end of the book there is a **consolidated index of persons**: where
-each associate is mentioned in the three texts and in GGD.
+each associate is mentioned in the five texts and in GGD.
 
 ---
 
@@ -59,6 +69,8 @@ each associate is mentioned in the three texts and in GGD.
 - Part 1. The Sanskrit *Vaishnava-vandana* attributed to Jiva Gosvami
 - Part 2. Devakinandana Dasa, *Vaishnava-vandana*
 - Part 3. Devakinandana Kaviraja, *Sri Vaishnavabhidhana*
+- Part 4. The "First vandana" ascribed to Vrindavana Dasa
+- Part 5. The tripadi *Vaishnava-vandana* of the "second" Vrindavana Dasa
 - Index of persons
 
 ---
@@ -1287,232 +1299,1416 @@ To those devoted to the name of Hari and wholly given to devotion to Hari — wh
 
 ---
 
+# Part 4. The "First vandana" ascribed to Vrindavana Dasa
+
+*A Bengali vandana (payar), entitled "First vandana" in the 1910 edition: benediction; Nityananda and His associates and their forms as cowherd boys (the "Gopala-nirnaya"); Vrindavana Dasa; the devotees go to Nilachala for the Chariot festival; conclusion (pp. 8–20 of the 1910 edition; two verses and couplets 3–144)*[^04-1]
+
+*[p. 8]*
+
+## Benediction
+
+**1.** I praise the two whose arms reach to their knees, who shine like gold, the sole source of sankirtana, with eyes wide as lotuses, who sustain the universe, the best of the twice-born, guardians of the dharma of the age, doers of good to the world, descents of compassion.[^04-2]
+
+**2.** Obeisance to You, eternally true in all three times, son of Jagannatha — to You together with Your sons, servants and wives, obeisance.[^04-3]
+
+**3.** Glory, glory to Vishvambhara, glory to the king of the twice-born!
+Glory to the assembly of those dear to Vishvambhara!
+
+**4.** Glory to Gaurachandra, the bridge of dharma, great and steadfast!
+Glory to Him whose beautiful body is sankirtana itself!
+
+**5.** Glory to the friend, the treasure and the life of Nityananda,
+glory to the abode of the prema of Gadadhara and Advaita!
+
+**6.** Glory to Him to whom Sri Jagadananda is exceedingly dear!
+Glory to the heart of Vakreshvara and Kashishvara!
+
+**7.** Glory, glory to the Lord of Srivasa and all His beloved ones!
+Cast, O Lord, Your auspicious glance upon the living beings![^04-4]
+
+*[p. 9]*
+
+**8.** With all my heart I praise Thakura Chaitanya;
+I praise the worshipful Deity and all His beloved ones.
+
+**9.** I praise Thakura Nityananda together with Advaita:
+He is golden of form, His arms reach to His knees.
+
+**10.** Listen, listen, brothers, to an auspicious account:
+hearing it, sin departs and the world is purified.
+
+**11.** The greatness of Nityananda's servants
+cannot be exhausted even if one speaks for a hundred years.
+
+**12.** And yet I shall name those whom I know:
+all of them are of Nanda's community, descended cowherd men and women.[^04-5]
+
+**13.** Nityananda Raya, the jewel of a thousand crowns —
+He, the Lord, sings Gora's qualities with a thousand mouths.
+
+**14.** It is He who, bearing a thousand hoods in various pastimes,
+holds on His own body His own form.[^04-6]
+
+**15.** Who has the power to tell of Nityananda's greatness?
+Those with whom Nityananda played —
+
+**16.** all of them are of Nanda's community, descended cowherd men and women;
+all of them are eternal, pure, forms of the Lord Himself.
+
+**17.** Be merciful, Lord, grant me this grace:
+may my mind dwell at the feet of Your servants.
+
+**18.** All of them were born at the command of Lord Chaitanya;
+Nityananda Prabhu wanders through the world of samsara, [bound] by maya.[^04-7]
+
+**19.** Vedavyasa and others — all have spoken [of them];
+each speaks according to his own love and understanding.[^04-8]
+
+*[p. 10]*
+
+## Nityananda's associates and their forms as cowherd boys
+
+**20.** Because of Nityananda's prohibition
+their former names were not openly written down.[^04-9]
+
+**21.** A dear associate is Ramadasa Mahashaya:
+he always speaks in the mood of the Lord.
+
+**22.** No one can quickly understand his words;
+Gaurachandra is always in his heart.
+
+**23.** More than all is Ramadasa seized by feeling:
+for three months Krishna dwelt in his heart.[^04-10]
+
+**24.** The one whom the *Bhagavata* calls Shridama —
+know for certain: it is Ramadasa.[^04-11]
+
+**25.** He is the manifest form of prema, beyond [prema itself]:
+ninefold prema-bhakti is his play.
+
+**26.** The ocean of prema named Sri Sundarananda —
+the great abode of Nityananda's prema.
+
+**27.** He is counted first among the associates;
+he is Nityananda's treasure and life.[^04-12]
+
+**28.** The one whom the Puranas extol as Sudama —
+all know: it is Sundarananda.[^04-13]
+
+**29.** Kamalakara Pandita, free in love —
+the one to whom Nityananda gave Saptagrama.
+
+**30.** The one whom the Puranas call Vasudama —
+all know: it is Kamalakara.[^04-14]
+
+**31.** Uddharana Datta, a great Vaishnava, generous:
+to him was given the right to serve Nityananda.
+
+*[p. 11]*
+
+**32.** The one whom the *Bhagavata* calls Mahabala —
+know for certain: it is Uddharana.[^04-15]
+
+**33.** Sri Parameshvara Dasa, whose life is Nityananda:
+Nityananda plays in his form.
+
+**34.** The one whom the Puranas call Subahu —
+all know: it is Parameshvara.[^04-16]
+
+**35.** Purushottama Dasa has no awareness of the external:
+Nityananda-chandra plays in his heart.
+
+**36.** The one whom the Puranas extol as Stokakrishna —
+all know: it is Purushottama.[^04-17]
+
+**37.** Gauridasa Pandita, greatly fortunate:
+in body, mind and word his life is Nityananda.
+
+**38.** The one whom the Puranas call Subala —
+all know as Gauridasa Pandita.[^04-18]
+
+**39.** Purushottama Pandita was born in Navadvipa;
+he is the innermost core [of the heart] of Nityananda.
+
+**40.** The one whom the *Bhagavata* calls Arjuna —
+know for certain: it is Purushottama.[^04-19]
+
+**41.** All call him the son of Ratai;
+this noble one is an associate of Nityananda.
+
+**42.** The one whom the Puranas extol as Lavanga —
+all know: it is Purushottama.[^04-20]
+
+**43.** Kaliya Krishnadasa is famed in the three worlds:
+at the sight of him Gaurachandra appears in the heart.
+
+*[p. 12]*
+
+**44.** The one whom the *Bhagavata* calls Mahabahu —
+know as settled: it is Kaliya Krishna.[^04-21]
+
+*(Thus ends the "Gopala-nirnaya".)*
+
+**45.** Gadadhara Dasa, full of the rasa of prema-bhakti:
+at the sight of him all sins are destroyed.
+
+**46.** All know him as Radhika;
+at the sight of him Gaurachandra is attained.[^04-22]
+
+**47.** Sadashiva Kaviraja, greatly fortunate:
+Gaurachandra and Nityananda are his treasure and life.
+
+**48.** The one whom the Puranas extol as Chandravali —
+all know as Sadashiva Kaviraja.[^04-23]
+
+**49.** Dhananjaya Pandita, an extraordinary mahanta:
+Nityananda is always in his heart.
+
+**50.** Mahesha Pandita is the greatest of mahantas;
+it is said that he is especially dear to Nityananda.[^04-24]
+
+**51.** Balarama Dasa, full of prema and intoxicated by it:
+from the breeze [that comes] from him all sins are destroyed.
+
+**52.** The noble brahmana Krishnadasa, born in Radha:
+his play is among Nityananda's associates.
+
+**53.** Jagadisha Pandita, abode of the highest radiance:
+I name him among Nityananda's associates.
+
+**54.** The pious Krishnadasa, whose home is in Badagachhi:
+in his village Nityananda played.[^04-25]
+
+*[p. 13]*
+
+**55.** Jagannatha Kavichandra, full of the rasa of prema:
+Nityananda is always in his heart.[^04-26]
+
+**56.** The famous Chaitanya Dasa — Murari Pandita:
+his play is with huge snakes and tigers.[^04-27]
+
+**57.** The wise Raghunatha Vaidya Upadhyaya:
+from his mere glance love for Krishna and attraction to Him arise.
+
+**58.** Chaturbhuja Pandita, Nandana, Gangadasa:
+formerly Nityananda played in his house.[^04-28]
+
+**59.** Acharya Vaishnavananda, most generous:
+formerly he was known by the name Raghunatha Puri.[^04-29]
+
+**60.** Paramananda Upadhyaya, a wholly devoted Vaishnava:
+in love for Nityananda he became a mahanta.
+
+**61.** The famous Paramananda Gupta Mahashaya:
+formerly Nityananda found shelter in his house.
+
+**62.** The mahanta Acharyachandra, endowed with every power:
+he has no other refuge than Nityananda.
+
+**63.** Krishnananda and Devananda, two pure servants:
+their play is among Nityananda's associates.[^04-30]
+
+**64.** Acharya Vaishnavananda, most generous:
+he has no other refuge than Nityananda-chandra.
+
+**65.** The singer Madhavananda Ghosha Mahashaya;
+Vasudeva Ghosha, full of the rasa of prema.
+
+**66.** Very dear to Nityananda are Manohara, [Narayana],
+Krishnananda and Devananda — these four.[^04-31]
+
+*[p. 14]*
+
+**67.** Greatly fortunate are these four generous panditas:
+in their houses Nityananda played.[^04-32]
+
+## Other devotees of the Lord
+
+**68.** With joy I praise Pundarika Vidyanidhi:
+remembering him, Gaurachandra weeps aloud.[^04-33]
+
+**69.** With joy I praise Thakura Haridasa,
+and I praise the other Haridasa, who lives on the seashore.[^04-34]
+
+**70.** I praise Mukunda Datta, Krishna's singer,
+Shivananda Sena and the others close [to the Lord].
+
+**71.** With a joyful heart I praise Sri Govinda:
+he led the singing in kirtana together with the Lord.[^04-35]
+
+**72.** I praise Sri Vijaya Dasa, the copyist,
+whom the Lord blessed [with the name] "Ratnabahu".[^04-36]
+
+**73.** I praise the wise Sadashiva Pandita,
+in whose house Nityananda formerly lived.
+
+**74.** With a joyful heart I praise Purushottama Sanjaya:
+Nityananda came first to his house.[^04-37]
+
+**75.** I praise Achyutananda, whose deeds are wonderful,
+Brahmananda Bharati, and Sanatana and Rupa.[^04-38]
+
+**76.** With joy I praise Garuda Pandita:
+snake poison does not take one who utters his name.[^04-39]
+
+**77.** How many servants and dear friends are with Nityananda —
+who can describe them? It is like [counting] the waves of the ocean.
+
+**78.** How many companions are with Nityananda-chandra —
+even in a hundred years I could not describe them.[^04-40]
+
+*[p. 15]*
+
+**79.** One [of His] servants has thousands upon thousands of [his own] servants;
+by Nityananda's grace they too are gurus.
+
+**80.** All of them are free in the rasa of Chaitanya;
+the treasure and life of them all are Chaitanya and Nityananda.
+
+## Vrindavana Dasa
+
+**81.** The last servant is Sri Vrindavana Dasa:
+he dwelt in the womb of Narayani, who partook of [the Lord's] remnants.[^04-41]
+
+**82.** Having gained a servant's place, he became learned;
+birth after birth [may] I sing the qualities of Vrindavana-chandra.[^04-42]
+
+**83.** Nityananda and Sri Chaitanya are the two great Masters:
+birth after birth [may] I serve the feet of the two Lords.
+
+**84.** In nine ways I shall serve [Them] —
+grant this gift, Lord: so Your servant prays.
+
+**85.** Glory, glory to Gaurachandra, glory to Nityananda!
+Glory, glory to all the Lord's devotees!
+
+**86.** Glory, glory to Advaita and the others, glory to Haridasa!
+Glory, glory to Gadadhara, glory to Srinivasa!
+
+## The devotees go to Nilachala
+
+**87.** Now hear how all the Vaishnavas came —
+Acharya Gosani and all the beloved [of the Lord].[^04-43]
+
+**88.** The time of the festival when [Jagannatha] mounts the chariot had come:
+the host of devotees set out for Nilachala.
+
+**89.** The Lord's command: every year
+all are to come to see the Chariot festival.
+
+**90.** Acharya Gosani and with him all the devotees —
+all set out for Nilachala.
+
+*[p. 16]*
+
+**91.** Thakura Pandita Srinivasa went,
+in whose house Chaitanya revealed Himself.
+
+**92.** Then Sri Pandita Vakreshvara went,
+in whose house Gaurangasundara danced.[^04-44]
+
+**93.** With joy Thakura Haridasa went:
+in his form is Brahma, a manifestation of devotion.[^04-45]
+
+**94.** Pradyumna Brahmachari Mahashaya went,
+with whom Nrisimha converses face to face.
+
+**95.** Vasudeva Datta Mahashaya went,
+to whom Krishna sells Himself.
+
+**96.** Acharyachandra Sri Chandrashekhara went,
+in whose house the Lord danced in the form of the Devi.[^04-46]
+
+**97.** Joyfully Pandita Gangadasa went:
+remember him, and all sins are destroyed.
+
+**98.** With a jubilant heart Purushottama Sanjaya went,
+Mahaprabhu's chief pupil in the former days of study.
+
+**99.** Crying "Hari!", Pandita Shriman went,
+who carefully holds the torch during the Lord's dancing.
+
+**100.** Nandana Acharya and other beloved ones went:
+Nityananda came first to his house.
+
+**101.** The scribe went — the fortunate pandita
+in whose body Krishna dwelt.[^04-47]
+
+**102.** Gopinatha Pandita and Sri Garbha Pandita
+went — both truly forms of Krishna.[^04-48]
+
+*[p. 17]*
+
+**103.** Joyfully Shuklambara Brahmachari went,
+whose food Lord Gaurahari ate.
+
+**104.** The penniless Shridhara, Krishna's servant, went,
+whose water Sri Gaurasundara drank.
+
+**105.** Sri Vanamali Pandita, the auspicious, went,
+who saw Nityananda's plough and pestle.[^04-49]
+
+**106.** Jagadisha Pandita and Hiranya Bhagavata
+went joyfully — both intoxicated with the rasa of Krishna.
+
+**107.** Formerly, in the form of an infant, [the Lord]
+ate in the houses of these two the offering brought on Hari's day.[^04-50]
+
+**108.** Buddhimanta Khan Mahashaya went:
+from his very birth his business is Chaitanya's commands.
+
+**109.** Crying "Hari!", Acharya Purandara went,
+whom Sri Gaurasundara calls "father".
+
+**110.** The generous Pandita Sri Raghava went,
+in whose house Chaitanya secretly played.
+
+**111.** Gopinatha Simha Mahashaya went,
+whom Gaurachandra calls Akrura.
+
+**112.** Murari went — a lion among physicians for the disease of worldly existence,
+who foresaw the advent of Gaurachandra.[^04-51]
+
+**113.** Pandita Shriman, greatly beloved of the Lord,
+went together with Vanamali Pandita.[^04-52]
+
+**114.** Pandita Damodara, who had come to see Ai,
+having seen Ai, quickly went [with all].
+
+*[p. 18]*
+
+**115.** The devotees of Chaitanya are countless — how many names shall I give?
+All went, becoming abodes of bliss.
+
+**116.** Having honoured Ai and taken leave of her,
+the lion Advaita went, leading the host of devotees.
+
+**117.** Whatever dishes they knew the Lord had liked before —
+those dishes they took to feed Him.
+
+**118.** All along the way performing kirtana in bliss,
+they went, sanctifying every path.
+
+**119.** Exulting, the devotees cry "Hari!" —
+hearing it, the three worlds are purified.
+
+**120.** With wives, sons, menservants and maidservants
+they came in the highest bliss to see Chaitanya.
+
+**121.** Wherever they stopped and settled for the night,
+that place became like the city of Vaikuntha.
+
+**122.** Of which Mahaprabhu sings, that very Bhagavan, […][^04-53]
+
+## The glory of the Lord
+
+**123.** In the form of Bhagavan the Lord is in endless pastimes;
+by the Lord's mercy Bhagavan is one in form.[^04-54]
+
+**124.** Ananta in the form of Madhava sports in play;
+Ananta serves in the house of Mukunda.
+
+**125.** Mahaprabhu honours devotion with reverence,
+as if a gem were hidden within a stone.[^04-55]
+
+**126.** In the form of the original energy is Mahi, the Vaishnavi mother;
+her child is Ganga, who holds the great jewel.
+
+*[p. 19]*
+
+**127.** All these original forms give birth to devotion;
+devotion is dear to the Lord — this is the inner meaning.
+
+**128.** This is the secret, unfathomable narrative of the Vedas:
+a good to the pious, a hindrance to the deeds of the wicked.
+
+**129.** Listen, all, to these secret accounts:
+their support is Mahaprabhu, Bhagavan.
+
+**130.** Glory, glory to Bhagavan, glory to Haladhara!
+Glory, glory to Bhagavan, the beautiful Trimalla![^04-56]
+
+**131.** Glory, glory to Harihara, glory to Balarama!
+Glory, glory to Jagannatha, the abode of bliss!
+
+**132.** Glory, glory to Mahaprabhu Sri Krishna Chaitanya!
+Glory, glory to Nityananda Prabhu, blessed is He, blessed!
+
+## The meeting at Nilachala
+
+**133.** Thus in joy all the great souls
+safely came to Nilachala.
+
+**134.** Seeing at Kamalapura the flags and banners [of the temple],
+all fell down weeping, [prostrate] like sticks.[^04-57]
+
+**135.** Mahaprabhu, hearing of the arrival of the host of devotees,
+wished to go out to meet them.
+
+**136.** What wondrous love — it has no end:
+His mahaprasada reaches as far as Kataka!
+
+**137.** "For Advaita's sake is this descent of Mine" —
+so Mahaprabhu says again and again.
+
+**138.** "I lay asleep in the Ocean of Milk —
+My sleep was broken by Nada's roar."[^04-58]
+
+*[p. 20]*
+
+**139.** "Nada! Nada!" crying, the Lord roars:
+"For Advaita's sake is this descent of Mine."
+
+**140.** No one can understand the reason [for His love of] Nada:
+for Nada's sake I descended into the three worlds.
+
+**141.** Because of Nada [came] Lord Chaitanya and Nitai,
+whose qualities I sing in endless universes.
+
+## Conclusion
+
+**142.** Endless are Chaitanya's servants — how many names do I know?
+With joined palms I praise the feet of them all.
+
+**143.** Whoever, rising at dawn, reads and hears [this]
+attains Advaita and Chaitanya — this cannot be refuted.
+
+**144.** Know Sri Nityananda and Sri Chaitanya-chandra —
+Vrindavana Dasa sings at Their feet.[^04-59]
+
+*Thus ends the "Sri Vaishnava-vandana" composed by Srimad Vrindavana Dasa Thakura.*
+
+---
+
+### Translator's notes
+
+[^04-1]: Attribution. The 1910 editor called this vandana the "First"; its colophon ascribes it to Vrindavana Dasa Thakura. In substance it is a compilation of couplets from the *Chaitanya-bhagavata* (CB): the verses Adi 1.1–2; the list of Nityananda's associates (Antya 5.718–757) and the account of the devotees going to Nilachala (Antya 8.3–52), with few changes. To these are added an insertion, the "Gopala-nirnaya" (identifications of the associates with the cowherd boys of Vraja), and several linking couplets not found in CB (12–19, 25, 75, 123–132 and others). Vrindavana Dasa himself declined to give the associates' former names (see v. 20), so the insertions are the work of a later compiler. The name of Vrindavana Dasa in the colophon is probably due to the borrowed lines, including his closing signature (v. 144). CB verse numbers follow the Gaudiya Math edition (`chaitanya-bhagavata/src/`).
+[^04-2]: CB Adi 1.1 (the opening verse of the *Chaitanya-bhagavata*): Gaura and Nityananda.
+[^04-3]: CB Adi 1.2.
+[^04-4]: Chapters of CB begin this way (cf. Antya 5.2, 9.2).
+[^04-5]: Vv. 11–12 — CB Antya 5.718–720. "Nanda's community" is Vraja: Nityananda's associates are cowherd boys of Vraja (cf. GGD 14).
+[^04-6]: Nityananda is Ananta-Shesha, thousand-mouthed, eternally singing the Lord's glory. As Shesha He serves the Lord with His bodies (as couch, umbrella and so on) and bears upon Himself the Lord's form, which is non-different from Him.
+[^04-7]: That is, Nityananda moves through this world to deliver conditioned souls. He is not subject to maya: maya rules only the world of samsara.
+[^04-8]: Cf. CB Antya 5.756: all will become known "through Vedavyasa". Here the reference is probably to those who indicated the associates' former forms (cf. GGD 5).
+[^04-9]: CB Antya 5.721. In Vrindavana Dasa this couplet explains why the former names are not given. Here those names are given immediately after it (the "Gopala-nirnaya", vv. 24–44): one more sign that the insertion is not Vrindavana Dasa's.
+[^04-10]: CB Antya 5.722–724. Ramadasa is Abhirama (cf. Pt. 1, 95; Pt. 2, 83). In CB, Nityananda is always in his heart (here, Gaurachandra), and Krishna dwelt for three months "in his body". The word *grihastha* ("householder") in the edition is probably a corruption of *bhava-grasta* ("seized by feeling"), as in CB; translated accordingly. "The mood of the Lord" (*ishvara-bhava*): when Krishna manifested in him, Ramadasa spoke as the Lord. This is no claim to divinity.
+[^04-11]: GGD 126: Abhirama is Shridama; it agrees. References to the *Bhagavata* and the Puranas here and below concern the names of the cowherd boys (Shridama, Subala, Stokakrishna, Arjuna and others are named in Bhag. 10.22.31), not the identifications themselves.
+[^04-12]: CB Antya 5.728 ("chief among Nityananda's associates"). The last word of the couplet (বাণা) is unclear.
+[^04-13]: GGD 127: Sundarananda is Sudama; it agrees.
+[^04-14]: CB Antya 5.729: Nityananda gives Saptagrama to "Kamalakanta Pandita"; here the reading is "Kamalakara". According to GGD 127–128, Vasudama is Dhananjaya Pandita, and Kamalakara Pippalai is Mahabala. Here it differs from GGD.
+[^04-15]: CB Antya 5.743. GGD 129: Uddharana Datta is Subahu. It differs.
+[^04-16]: CB Antya 5.732 ("Parameshvari Dasa"). GGD 132: Parameshvara Dasa is Arjuna. It differs.
+[^04-17]: CB Antya 5.742. According to CB (5.741), Purushottama Dasa is the son of Sadashiva Kaviraja (Devakinandana's guru, Pt. 2, 87–94). GGD distinguishes Purushottama Dasa, who is Stokakrishna (130), from Nagara Purushottama, son of Sadashiva, who is Dama (131). The identification with Stokakrishna agrees with GGD 130.
+[^04-18]: CB Antya 5.730. GGD 128: Gauridasa Pandita is Subala; it agrees.
+[^04-19]: CB Antya 5.737–738; cf. Pt. 2, 100. According to GGD 132, Arjuna is Parameshvara Dasa; Purushottama Pandita is not named among the cowherd boys in GGD.
+[^04-20]: The "son of Ratai" is not in CB; he may be the same Purushottama, son of Ratnakara (Pt. 2, 97; Pt. 1, 101 and note). According to GGD 132, Lavanga is Kala Krishnadasa.
+[^04-21]: CB Antya 5.740. According to GGD 132, Kaliya (Kala) Krishnadasa is Lavanga, and Mahabahu (GGD 129) is Mahesha Pandita. The "Gopala-nirnaya" in sum: ten cowherd boys are named (Dama and Kusumasava are missing). Shridama, Sudama, Subala and Stokakrishna agree with GGD; the other six identifications differ. Cf. CC Adi 11, which lists the same associates of Nityananda, but without former names.
+[^04-22]: CB Antya 5.727. According to GGD 154–155, Gadadhara Dasa is Chandrakanti, a manifestation of Radha's splendour, and Purnananda; the vandanas call him Radha herself (cf. Pt. 1, 83, "the daughter of Vrishabhanu"; Pt. 5, 59). The understanding accepted among Gaudiya Vaishnavas follows GGD: Gadadhara Dasa carries Radha's radiance (*kanti*).
+[^04-23]: CB Antya 5.741. GGD 156: Sadashiva Kaviraja is Chandravali; it agrees.
+[^04-24]: Vv. 49–53 — CB Antya 5.733, 744, 734, 739, 736.
+[^04-25]: CB Antya 5.748. On Krishnadasa of Badagachhi see Pt. 1, 125–128 and Pt. 5, 120–124.
+[^04-26]: CB Antya 5.735 has "Yadunatha Kavichandra"; "Jagannatha" here is probably a corruption.
+[^04-27]: Vv. 56–57 — CB Antya 5.725–726. Murari Chaitanya Dasa — cf. Pt. 1, 120; Pt. 2, 121.
+[^04-28]: CB Antya 5.745: "Gangadasa, son (নন্দন) of Chaturbhuja Pandita". The edition's commas make one person into three, reading the word "son" as the name "Nandana". The translation follows the edition.
+[^04-29]: CB Antya 5.746; this couplet (with a different second line) is repeated in v. 64.
+[^04-30]: Vv. 60–63 — CB Antya 5.744, 747, 749. CB 5.749 and 5.752 have "Krishnadasa and Devananda"; here, "Krishnananda".
+[^04-31]: CB Antya 5.752: "Manohara, Narayana, Krishnadasa, Devananda". In the edition a corrupt word (বাএন) stands where "Narayana" should be; restored from CB.
+[^04-32]: Cf. CB Antya 5.751, which concerns one person, Jiva Pandita, "in whose house Nityananda-chandra played".
+[^04-33]: Vv. 68–76 — couplets from the list of devotees going to Nilachala (CB Antya 8.10, 13, 15, 17–20, 34). The verb "went" is replaced here by "I praise".
+[^04-34]: CB Antya 8.13. Who this second Haridasa "who lives on the seashore" is remains unclear.
+[^04-35]: CB Antya 8.17: Govinda Datta, the lead singer in the Lord's kirtana.
+[^04-36]: CB Antya 8.18. Vijaya was a copyist (cf. Pt. 1, 49; Pt. 2, 33). The Lord showed him His greatness, and thereafter he was called "Ratnabahu" ("jewel-arm").
+[^04-37]: CB Antya 8.20, 22. In CB, Nityananda first comes to the house of Nandana Acharya (cf. v. 100), while Purushottama Sanjaya is the Lord's chief pupil in His student days (cf. v. 98). Here the two lines are joined.
+[^04-38]: This couplet is not in CB Antya 8. Achyutananda is Advaita's son; Brahmananda Bharati — CC Madhya 10; Sanatana and Rupa are the Gosvamis.
+[^04-39]: CB Antya 8.34: by the power of the holy name, snake poison did not overcome Garuda Pandita. Here the power is transferred to one who utters his name.
+[^04-40]: Vv. 77–80 — CB Antya 5.753–755 (77 has no parallel).
+[^04-41]: CB Antya 5.757–758: Narayani is "the vessel of Chaitanya's remnants" (cf. Pt. 1, 36–37; Pt. 2, 19, 126).
+[^04-42]: The sense of the first line is unclear; who speaks in the second — Vrindavana Dasa or the compiler — is also unclear. "Vrindavana-chandra" is Krishna (Gaura); perhaps there is also a play on the name of Vrindavana Dasa.
+[^04-43]: Vv. 87–90 — CB Antya 8.3–6. "Acharya Gosani" is Advaita.
+[^04-44]: CB Antya 8.11: Vakreshvara, "for whose dancing Gaurasundara became the kirtaniya". Cf. Pt. 1, 80.
+[^04-45]: CB Antya 8.13 reads differently. *Brahma-vastu* here is Brahma (GGD 93–95; Pt. 1, 38, "the abode of Brahma"), not the impersonal Brahman.
+[^04-46]: CB Antya 8.8: "Acharyaratna Sri Chandrashekhara". The Lord's dance in the form of the Devi (Lakshmi, Rukmini) in Chandrashekhara's house — CB Madhya 18. Vv. 91–114 repeat CB Antya 8.7–37 in a somewhat different order.
+[^04-47]: CB Antya 8.25: "the scribe — Bhagavan Pandita"; the edition has *bhagyavan* ("fortunate").
+[^04-48]: CB Antya 8.26. Gopinatha Pandita is probably Gopinatha Acharya. Shrigarbha — cf. Pt. 1, 47.
+[^04-49]: CB Antya 8.27: Vanamali saw the golden plough and pestle (Balarama's emblems, revealed by the Lord).
+[^04-50]: CB Antya 8.28–29: as a child the Lord, on Ekadashi, demanded the food prepared for Vishnu in the houses of Jagadisha and Hiranya (CB Adi 6).
+[^04-51]: CB Antya 8.33: Murari, "in whose body Gauranga-Hari secretly dwells"; here, "who foresaw the advent".
+[^04-52]: CB Antya 8.36: "Shrirama Pandita together with Narayana Pandita".
+[^04-53]: A half-couplet; in the edition a gap marked with asterisks follows. Cf. CB Antya 8.45: "…of which Adideva, Shesha Bhagavan, sings".
+[^04-54]: Vv. 123–132 do not occur in CB Antya 8; the sense is unclear in places, and the translation is literal. Nityananda (Ananta) seems to be praised as the Lord's servant, and devotion as the object of His special love.
+[^04-55]: That is, the Lord honours the devotion hidden in a devotee like a gem hidden in a stone.
+[^04-56]: "Trimalla" is unclear; perhaps a corruption (*tribhanga*?). Haladhara and Balarama are Nityananda; Harihara here probably means "Hari" (the sense is unclear).
+[^04-57]: Vv. 133–138 — CB Antya 8.46–52 (136 — 8.50; 137–138 — 8.51–52 in reverse order).
+[^04-58]: Nada is an affectionate name of Advaita: the Lord says He descended at Advaita's call (CB Antya 8.51–52; CC Adi 3).
+[^04-59]: The closing signature (*bhanita*) with which the chapters of CB end.
+
+---
+
+# Part 5. The tripadi *Vaishnava-vandana* of the "second" Vrindavana Dasa
+
+*A Bengali vandana, entitled "Third vandana" in the 1910 edition: tripadi stanzas (2–68), then payar couplets (69–150). Introduction; Gaura, Nityananda, Advaita and their families; the associates at Navadvipa; the sannyasis; the Gosvamis of Vrindavana; associates in Gauda and Orissa; Nityananda's associates; conclusion (pp. 37–55 of the 1910 edition)*[^05-1]
+
+*[p. 37]*
+
+## Introduction
+
+**1.** I praise the merciful Sri Krishna Chaitanya and Nityananda, [who contain] all avataras, the refuge of all devotees.[^05-2]
+
+*Raga — as one chooses.*
+
+*Refrain:* Sing of Sri Krishna Chaitanya-chandra and of Balarama — Nityananda — with full voice: you will pass your life happily, gain the company of Vaishnavas and never see Yama.
+
+**2.** The age of Kali, like a snake, has bitten all people, and the world writhes in the burning of the poison;
+Gauranga, the abode of virtues, by the power of the great mantra — the name "Hare Krishna Rama" — has brought it back to life.
+
+**3.** Above all the Vaishnavas, purifiers of the three worlds, seeing fallen and suffering souls,
+were moved in their hearts by compassion and, instructing [them] in Krishna, made them happy with the happiness of Krishna.
+
+**4.** Listen, O base man: give up false maya, hold fast, hold fast to the feet of the Vaishnavas;
+by the power of a Vaishnava's mercy Kala (time) cannot devour you — you will pass [it] safely.
+
+**5.** Keep company with Vaishnavas, look upon a Vaishnava's form, hear with your ears a Vaishnava's words;
+reflect and see in your mind: apart from the Thakura Vaishnava, no one else can give devotion to Hari.[^05-3]
+
+*[p. 38]*
+
+**6.** The greatness of the Vaishnavas is unknown to the world and to the Vedas, and even the gods do not grasp its essence;
+I am the lowest of the low, weaker than a moth — what shall I say of it with my small mouth?
+
+**7.** And yet, according to this strength, day and night, reflecting day after day,
+I shall describe something of Sri Chaitanya, Nityananda and all the devotees with Them.
+
+**8.** I shall speak of my heart: towards a rasa of which I am unworthy — towards that very rasa my mind has been drawn;
+do not laugh at faults of sandhi and of words: Lord Janardana accepts the feeling.[^05-4]
+
+**9.** Simple by nature, I do not know what comes before and after, and the vandana will not go in order;
+therefore with words I bow and beg pardon — let no one count it an offence.[^05-5]
+
+**10.** Prostrating my body on the ground, first of all I shall bow to the feet of Shachi and Jagannatha;
+then I praise Vishvarupa, the Thakura, king of sannyasis, blessed by the name Sri Shankararanya.[^05-6]
+
+**11.** With undivided devotion I praise Gaurachandra-Hari, the descent auspicious for the world:
+He was born in the town of Nadia to protect the dharma of the age and spread sankirtana.[^05-7]
+
+*[p. 39]*
+
+## The families of the Lord and of Nityananda
+
+**12.** With great reverence I praise Lakshmi and Vishnupriya, then I praise the divine Gadadhara:
+of all the Vaishnavas none is so dear [to the Lord] — he is Chaitanya's second body.[^05-8]
+
+**13.** I praise the mother, Padmavati, and the father, Hadai Pandita, whose son is such a one — Nityananda;
+I praise Prabhu Nityananda, fearless, the root of bliss, who delivered all.[^05-9]
+
+**14.** I bow to the feet of her whose name is Varuni, the abode of Ananga-manjari:
+she who is Ananga-manjari is Jahnava Gosani; Varuni is her former name.[^05-10]
+
+**15.** Falling to the ground in joy, I praise Vasu and Jahnavi, whose son is Virachandra;
+I shall praise Thakura Virabhadra, deep and steadfast, with whose virtues the world was filled.
+
+**16.** At Nilachala Gaurahari held a chief counsel in private with Nityananda;
+its reason is this: that Vira Prabhu is a descent of Gauranga Himself.[^05-11]
+
+**17.** Do not doubt this: in the *Sri Chaitanya-bhagavata* Vrindavana Dasa wrote it;
+Abhirama understood all this and, bowing, revealed it.[^05-12]
+
+*[p. 40]*
+
+**18.** Radha and Krishna in liquid form, who dwelt in Brahma's vessel, the Mother of the world abiding in the three worlds —
+Bhagavan Himself become water, named Ganga-devi: I praise that daughter of Nityananda.[^05-13]
+
+**19.** The abode of Govinda's prema, named Acharya Madhava, whose body is full of the bliss of prema —
+with joined palms I praise his lotus feet: Ganga-devi is his wife.[^05-14]
+
+*Refrain:* Well done, O Gaurangachand: spreading the net of prema, You have bound the minds of living beings; by meditation on Hari's name and qualities You have made the people of the world blessed — I die, [giving myself] as Your ransom.
+
+## Madhavendra Puri, Advaita and His family
+
+**20.** I praise Sri Madhava Puri: having descended to earth, he revealed devotion to Vishnu;
+he is the ancient original guru, a wish-tree of compassion, Mahaprabhu's first devotee.[^05-15]
+
+**21.** I praise the lord of Shantipura, the wise Sri Advaita, whose might is like Sadashiva's:
+by the power of His austerity Chaitanya, brought to earth, made His descent.[^05-16]
+
+*[p. 41]*
+
+**22.** The original energy of Kailasa, I praise Sita-bhagavati, whose might equals the power of devotion:
+by her vow Jagannatha descended and spread prasada.[^05-17]
+
+**23.** The dust of Sita's feet I shall praise, placing it on my head — and I shall count myself worthy of praise;
+I praise her dear son, Sri Achyutananda, renounced from childhood.[^05-18]
+
+## The associates at Navadvipa
+
+**24.** My heart's desire fulfilled, I shall praise Srivasa, non-different from Narada, the best of sages;
+I praise Malini-devi, whom Prabhu Nityananda and Vishvambhara called "mother".[^05-19]
+
+**25.** I praise Narayani-devi: serving Chaitanya's feet, she received the nectar of His lips;
+I shall praise Sri Haridasa — the manifestation of Brahma himself — who made [people] chant the name aloud.[^05-20]
+
+**26.** I shall praise Paramananda and Pandita Jagadananda, like Sarasvati in another form;
+Thakura Sri Gopinatha fell at [the Lord's] feet and offered the Lord much praise.[^05-21]
+
+**27.** I shall praise Murari Gupta, like that very Hanuman, whose treasure of life is Raghunatha;
+I praise Sri Chandrashekhara, cool as the moon, then I praise Acharyaratna.[^05-22]
+
+*[p. 42]*
+
+**28.** Govinda and Garuda I shall praise with hymns: their meditation is Gaura's feet;
+I shall praise Mukunda Datta, maddened by Krishna's qualities, whose singing puts the kinnaras to shame.[^05-23]
+
+**29.** I praise Vasudeva Datta, whose secret essence and greatness cannot be told:
+from the breeze of his body arises prema-bhakti for Krishna — what other comparison shall I give?[^05-24]
+
+**30.** Damodara, Pitambara, Jagannatha, Shankara, Narayana — these five brothers,
+free from all desires, depending on nothing, detached — I shall praise them together.[^05-25]
+
+**31.** Famed as the Lord's maternal grandfather, Nilambara Chakravarti I shall carefully praise:
+surpassing the omniscient in vision, he drew up the Lord's auspicious horoscope with predictions of the future.[^05-26]
+
+**32.** The abode of all virtues, I shall praise Pandita Rama, harmless, doing good to others;
+with all my heart, body and mind I praise Gupta Narayana, placing his feet upon my head.[^05-27]
+
+**33.** Dwelling in the town of Nadia, I praise the guru Gangadasa, with whom the Lord studied;
+holding a straw between my teeth, I humbly praise Vishnudasa and Sudarshana.[^05-28]
+
+*[p. 43]*
+
+**34.** Sadashiva, Vidyanidhi, Shrigarbha and Shrinidhi, Buddhimanta Khan Mahashaya,
+the brahmachari Shuklambara, heirs to the treasure of prema — these six I praise.[^05-29]
+
+**35.** Ramadasa, Kavichandra, the scribe Vijayananda, Acharya Ratneshvara I shall praise;
+I shall praise the generous Shridhara, whose customer was Gauranga at his stall of banana pith, bananas and banana flowers.[^05-30]
+
+**36.** With joined palms I praise Vanamali with his son — the two who beg for the alms of devotion;
+then I shall praise Halayudha and Vasudeva, whose minds are wholly given to Chaitanya.[^05-31]
+
+**37.** The vessel of Ai's mercy, I shall praise Ishana, whom Ai brought up;
+Garuda and Kashishvara I shall praise next, having praised the feet of Jagadisha.[^05-32]
+
+**38.** Gangadasa, Krishnananda, Raya Sri Mukunda I praise with special reverence;
+I praise Sri Vallabhacharya, whose deed bore fruit: he gave the Lord his daughter Lakshmi.[^05-33]
+
+**39.** With devotion in my mind I shall praise Pandita Sri Sanatana, whose daughter is Vishnupriya:
+by the power of what austerity, by the fruit of what merit — I do not know — Mahaprabhu became his son-in-law.
+
+*[p. 44]*
+
+**40.** With both palms joined, I praise the brahmana Kashinatha; I shall praise Acharya Vanamali,
+who came and arranged the match of Lakshmi-devi for her auspicious marriage with the Lord.[^05-34]
+
+## The sannyasis
+
+**41.** I shall praise Ishvara Puri, whom the Lord accepted as guru, considering Himself lowly;
+I praise Keshava Bharati with deep humility — the one who made the Lord a sannyasi.
+
+**42.** I praise Ramachandra Puri: seeing his vehemence, the Lord gave up everything;
+Sri Puri Paramananda — I praise his feet — the one called Thakura Uddhava.[^05-35]
+
+**43.** I praise Damodara Puri, to whom Gaurahari is subject, whose manner is like Satyabhama's;
+Sri Nrisimhananda the sannyasi, who delights in sankirtana, I praise, [and] the wise Satyananda.[^05-36]
+
+**44.** I praise Garuda Avadhuta, whose prema is wondrous — marvellous to see and to hear;
+I shall praise Sri Vishnu Puri, who composed the *Vishnu-bhakti-ratnavali* to deliver people.[^05-37]
+
+**45.** I praise Vishveshvarananda, whose life is Gaurachandra; then I praise Sri Keshava Puri;
+I praise Anubhavananda, Bharati Sachchidananda, then I praise Manoratha Puri.[^05-38]
+
+*[p. 45]*
+
+## The Gosvamis of Vrindavana
+
+**46.** I praise Rupa and Sanatana, dwelling in Sri Vrindavana, supremely renounced, free from the world:
+giving up their royal posts and taking the guise of beggars, they took a water-pot and a kaupina.[^05-39]
+
+**47.** I praise Jiva Gosani, whom all the Vaishnavas asked: "Which truth is the essence?"
+Having examined all the shastras, he answered: "Bhakti-yoga alone — there is nothing higher."[^05-40]
+
+**48.** Dwelling at Sri Radha-kunda, I praise Raghunatha Dasa, who knows the inner heart of Chaitanya;
+then with great devotion I praise Raghava Gosani, whose play is at Govardhana.[^05-41]
+
+**49.** I shall praise Gopala Bhatta, who lives in one place only — near Sanatana:
+no other talk is in his mouth — days and nights he passes happily in Govinda's name and qualities.[^05-42]
+
+**50.** I praise Raghunatha Bhatta, maddened by love for Krishna — in Vrindavana, among the Vrajavasis:
+when he reads the *Bhagavata*, his body is overcome by prema, and a sweet voice sounds in his telling.[^05-43]
+
+**51.** I praise Prabhu Lokanatha, who with Bhugarbha Thakura always sports in Vrindavana:
+seeing people in distress, always anxious at heart, he gave them the treasure of prema and made them happy.[^05-44]
+
+*[p. 46]*
+
+**52.** With devotion I praise Prabodhananda Sarasvati, abode of the highest greatness and virtues:
+the *Sri Chaitanya-chandramrita* is a book he composed; this book is the treasure and life of the devotees.[^05-45]
+
+**53.** With a joyful mind I praise the wise Kashishvara, whom all call the famous "Bhakta";
+I praise Shuddha Sarasvati, firm in devotion to Gaura's feet: beasts and birds are captive to his feeling.[^05-46]
+
+## The associates in Gauda and Orissa
+
+**54.** I shall praise Raghavananda, in whose house Nityananda made His power known:
+on the lemon tree in his garden a kadamba blossomed — all who saw it were amazed.[^05-47]
+
+**55.** I praise the beautiful Thakura Sri Purandara, like that very Angada Thakura:
+a certain brahmana, taking him, received him as a guest in his house — and with all his family saw the tail.[^05-48]
+
+**56.** I praise Kashi, the best of Mishras, whose house is in Utkala, in whose dwelling [lived] Gauraraya;
+Pattanayaka Vaninatha, whose life is Jagannatha, I shall praise at his feet.[^05-49]
+
+**57.** I praise Raya Ramananda, with whom Gaurachandra discussed the characteristics of devotion;
+I shall praise Sri Vakreshvara: for his dancing Vishvambhara in great bliss sang kirtana.[^05-50]
+
+*[p. 47]*
+
+**58.** I shall praise Subuddhi Mishra and Sri Govindananda the brahmana, by whose mental causeway-road
+from Kuliya to Gauda the Lord went, rejoicing.[^05-51]
+
+**59.** She who is the daughter of Vrishabhanu is Gadadhara Dasa: now he has revealed his name;
+let no one doubt: this is Gauranga's twin body — such is Gadadhara Dasa.[^05-52]
+
+**60.** I praise Gadadhara Dasa, whose pastimes are incomparable, whose body is full of the rasa of prema;
+I praise Sadashiva the vaidya: by his grace a stone at once melts and becomes water.[^05-53]
+
+**61.** I praise Shivananda Sena, who has no thought other than Chaitanya's lotus feet;
+I shall praise Mukunda Dasa, living in Khanda of the vaidyas, whose son is Sri Raghunandana.[^05-54]
+
+**62.** Mukunda Dasa's devotion — Krishna's inexpressible power — is known in the world to this day:
+seeing a peacock feather, his eyes grew restless and he fell in confusion, overwhelmed with prema.[^05-55]
+
+**63.** I shall praise Sri Narahari Dasa — blessed is he, I offer myself for him — in whose heart are Chaitanya's pastimes;
+I praise Raghunandana, like Madana in form, whose dancing enchants the world.[^05-56]
+
+*[p. 48]*
+
+**64.** I praise Raghunatha Dasa, who delights in the happiness of prema, whose mind is bound in the net of love;
+I praise Acharya Purandara: in the feeling of Krishna he constantly, always weeps aloud.[^05-57]
+
+**65.** Thakura Sri Krishnadasa, living in Akaihat — peaceful, utterly without possessions;
+Paramananda Pandita, Mahaprabhu's fellow student — these I praise with devotion.[^05-58]
+
+**66.** In the highest bliss I shall praise Pandita Sri Devananda, who always reads the *Bhagavata*;
+I shall praise Acharyachandra, who knows the inner meaning of prema, whose virtues and deeds are known to the world.[^05-59]
+
+**67.** Govinda, Madhavananda, Vasudeva Ghosha — I praise [them], three brothers, an ocean of virtues:
+hearing their song, Lord Vishvambhara, [surrounded by] all His associates, could not contain Himself.[^05-60]
+
+**68.** Gadadhara Dasa and with him Vasudeva Ghosha I shall carefully praise, both:
+the bud of a karavi flower that was on his ear became fragrant like a lotus before the assembly.[^05-61]
+
+*Refrain:* Blessed are Advaita and Gaurachandra, blessed, blessed is Nityananda, blessed, blessed is the circle of devotees; blessed, blessed are the name and the qualities, blessed, blessed is sankirtana — blessed is all this in the age of Kali.
+
+*[p. 49]*
+
+## Nityananda's associates
+
+**69.** I praise Thakura Ramadasa, foremost among devotees,
+whose fame filled the world, whose manifestation is wondrous.
+
+**70.** A log lay there [that only] sixteen men [could lift];
+he playfully lifted it with two fingers
+
+**71.** and, bending in a threefold curve, made a flute of it
+and played sweet songs on it.[^05-62]
+
+**72.** The cowherd boy Shridama is Abhirama Gosani,
+a second Chaitanya: his greatness has no end.[^05-63]
+
+**73.** I praise the Sudama of Vraja — Thakura Sundara,
+whose might is like fire, whose form is beautiful.
+
+**74.** His servant seizes a tiger and brings it from the forest,
+embraces it and makes it hear the name of Hari in its ear.[^05-64]
+
+**75.** I shall praise Sri Gauridasa Pandita Thakura,
+the beloved of Nityananda, full of greatness.
+
+**76.** Taking the Lord's command on his head, he went to Shantipura
+and brought Acharya Prabhu [Advaita] to Utkala.[^05-65]
+
+**77.** He is called Subala, the cowherd boy of Gokula;
+he gives refuge to the good and is death to the wicked.
+
+**78.** His power of devotion to Krishna is known to the world:
+because of him the godless [went to] the netherworld (?).[^05-66]
+
+**79.** He lives in Ambika;
+in his house are the Deities of Nityananda and Chaitanya.
+
+**80.** While the Lord was still present he manifested [these] Deities:
+whoever sees these Deities, his bonds of karma are destroyed.[^05-67]
+
+*[p. 50]*
+
+**81.** With divine garlands, sandal paste, clothes and ornaments
+he adorned Nitaichand.
+
+**82.** With great reverence I praise Uddharana Datta,
+who travelled to the holy places together with Nityananda.[^05-68]
+
+**83.** I shall carefully praise Thakura Parameshvara Dasa,
+who revealed himself while dancing in kirtana:
+
+**84.** calling forty jackals one by one,
+he made them all utter the sixteen names.[^05-69]
+
+**85.** I praise Thakura Pippalai, artless in a child's feeling,
+all of whose pastimes and play are like a child's.
+
+**86.** Then I praise Thakura Kamalakara Dasa,
+whose highest exultation is in the sankirtana of Krishna.[^05-70]
+
+**87.** I praise Purushottama Tirtha, the crown of rasikas,
+who is intoxicated with the rasa of Sri Krishna.[^05-71]
+
+**88.** I praise the mad, playful Kala Krishnadasa:
+always beside himself with prema, he cannot keep hold of his cloth.[^05-72]
+
+**89.** With joined palms I shall praise Sri Saranga Thakura,
+in whose patched quilt there were six score snakes.[^05-73]
+
+**90.** I praise Makaradhvaja Kara, a treasury of virtues,
+who always sings Krishna's qualities in the Lord's presence.
+
+**91.** I praise Bhagavata Acharya, Mishra Kaviraja;
+I praise Ananta Acharya, [who lives] in Navadvipa.[^05-74]
+
+**92.** Then I shall praise the feet of Madhu Pandita,
+whom all call the Vaishnava Pandita.[^05-75]
+
+*[p. 51]*
+
+## Associates in Orissa and others
+
+**93.** I shall praise the feet of Govinda Acharya,
+who described the secret of Radha and Krishna.
+
+**94.** I praise the wise Sarvabhauma Bhattacharya,
+who is called Brihaspati, the guru of the gods.
+
+**95.** I shall praise King Prataparudra,
+who was granted the sight of Mahaprabhu's six-armed form.[^05-76]
+
+**96.** Having praised the feet of the brahmana Raghunatha Dasa,
+[I praise] Vishnudasa the vaidya and Vipradasa of Utkala.[^05-77]
+
+**97.** I praise Kanai Khutiya, a stream of the rasa of prema,
+whose nature and feeling are like a gopi's;
+
+**98.** his sons are Jagannatha Dasa and Balarama:
+what shall I say of their greatness? It is incomparable.
+
+**99.** I praise Jagannatha Dasa, a guru in the rasa of song:
+at his songs the creepers and trees of the forest weep.
+
+**100.** I praise Balarama Dasa, the Oriya Vaishnava:
+Jagannatha and Balarama are captive to his feeling.[^05-78]
+
+**101.** Govindananda Thakura, called Sugriva,
+built a great bridge for the Lord.[^05-79]
+
+**102.** I praise Kashishvara, Simheshvara, Shivananda;
+I praise with joy Sri Chandaneshvara.[^05-80]
+
+**103.** I shall praise Madhava Pattanayaka;
+I shall praise Hari Bhatta and Baladeva Mahati.
+
+**104.** I praise Subuddhi Mishra, who gives understanding to the unwise;
+I praise Shrinatha Mishra, knower of the truth of Krishna.
+
+*[p. 52]*
+
+**105.** I shall carefully praise Tulasi Mishra;
+with body, word and mind I praise Kashinatha Mahati.[^05-81]
+
+**106.** I shall praise Ramananda, the ornament of the Vasu family,
+whose family are bees at Gaura's lotus feet.
+
+**107.** Purushottama Brahmachari and Sri Madhu Pandita,
+two noble servants of Chaitanya, I praise.
+
+**108.** I praise the brahmana Ramachandra, Pandita Shrikara;
+I praise Yadu Kavichandra, an ocean of happiness.[^05-82]
+
+**109.** I shall praise Pandita Sri Dhananjaya,
+whose renunciation is proclaimed in the world:
+
+**110.** giving at the Lord's feet a household worth a hundred thousand,
+he took a pot in his hand and put on a kaupina.[^05-83]
+
+**111.** I praise both feet of Pandita Suryadasa,
+whose son-in-law Prabhu Nityananda became.
+
+**112.** I shall praise the feet of Thakura Vamshivadana,
+who formerly was the flute at Krishna's lips.
+
+**113.** With care I shall praise Murari Chaitanya Dasa,
+whose pastimes and play are with pythons.
+
+**114.** I praise Jagannatha Sena, Paramananda Gupta;
+I shall praise the boy Ramadasa and Kavichandra.
+
+**115.** I shall praise Vallabhacharya, Sena Kamsari;
+I shall praise Bhaskara — a descent of Vishvakarma.
+
+**116.** I praise Balarama Dasa, the teacher of song,
+who has no business other than service to Nityananda.[^05-84]
+
+*[p. 53]*
+
+**117.** I praise Mahesha Pandita, maddened by Krishna;
+I praise Jagadisha Pandita, who delights in dancing.
+
+**118.** I praise Narayani's son, Vrindavana Dasa,
+whom all devotees call Vedavyasa.
+
+**119.** The *Sri Chaitanya-bhagavata* is his composition;
+this book has enchanted the three worlds.[^05-85]
+
+**120.** I shall praise the wise Krishnadasa of Behari,[^05-86]
+who lives in the village of Badagachhi:
+
+**121.** this man, in the net of love,
+kept Nitaichand captive in his house.
+
+**122.** Pandita Thakura came and, striking his chest,
+seized [Him] by the edge of His cloth and led Him away, saying: "My Lord!"
+
+**123.** In separation from Nityananda, Thakura Krishnadasa
+spent seven months like a madman.
+
+**124.** Nityananda came again to his house,
+and, gaining the sight of Nityananda, he grew calm.[^05-87]
+
+**125.** I shall praise Paramananda, the best of avadhutas,
+whose body is full of the rasa of prema.
+
+**126.** I praise Pandita Gangadasa, who lives at Anadi;[^05-88]
+I praise Yadunatha Dasa, sweet in his pastimes.
+
+**127.** I praise Purushottama Tirtha, Tirtha Sri Rama;
+I praise Raghunatha Puri, [that] my heart's desire be fulfilled.[^05-89]
+
+**128.** I praise Ashrama Upendra, Hariharananda;
+I praise Tirtha Vasudeva, Puri Sri Ananta.[^05-90]
+
+*[p. 54]*
+
+**129.** I praise the sweet-formed Mukunda Kaviraja;
+I praise Rajiva (?) Pandita in Navadvipa.[^05-91]
+
+**130.** I praise Shishu Krishnadasa, the little cowherd,
+whose body Nityananda nourished with His own hands.[^05-92]
+
+**131.** Then I worshipped Madhava Acharya,
+whose work it is always to describe Krishna's qualities:
+
+**132.** he composed the *Krishna-mangala* following the *Bhagavata* —
+this song became known to the whole world.[^05-93]
+
+**133.** Nrisimha Chaitanya Dasa and Krishnadasa —
+two noble ones, an abode of love, I praise.
+
+**134.** I praise the utterly penniless Sri Shankara Ghosha,
+with whose playing on the dampha the Lord is pleased.
+
+**135.** I praise Madhava Acharya, the jewel of the twice-born,
+whose wife is Ganga, Nityananda's daughter.[^05-94]
+
+**136.** I shall praise the feet of Ganga-devi,
+Shivananda Chakravarti, Narayana Padiyari.[^05-95]
+
+## Conclusion
+
+**137.** Here ends a brief Vaishnava-vandana:
+the devotees of Chaitanya are countless — they cannot be numbered.
+
+**138.** And how many more hundreds and thousands of Vaishnavas
+fill the three worlds!
+
+**139.** In the north, south, east and west
+countless Vaishnavas have descended to earth.
+
+**140.** At the beginning of the age of Kali, at Chaitanya's descent,
+by Chaitanya's mercy there are Vaishnavas in every house.
+
+*[p. 55]*
+
+**141.** Therefore the Vaishnavas are without number:
+freely wander all these purifiers of the fallen.
+
+**142.** The Lords of them all are Chaitanya and Nityananda:
+these are the devotees of the two Mahaprabhus.
+
+**143.** Who can know the truth of the Vaishnavas?
+The *Sri Bhagavata* proclaims the greatness of the Vaishnavas.
+
+**144.** Such a praise of the feet of all the Vaishnavas,
+when read and heard, frees one from suffering.
+
+**145.** [One] is freed from sin, his body becomes pure;
+by reading and hearing the heart becomes clear.
+
+**146.** On his lips shines the name "Krishna";
+whatever he desires is fulfilled.
+
+**147.** In his throat the goddess Sarasvati plays;
+Kamala comes and settles in his house.
+
+**148.** Wherever he goes, he knows no defeat:
+everywhere he goes as a victor.
+
+**149.** Disease, old age and fever do not touch his body;
+he is healthy and always content.
+
+**150.** Surely he will attain pure devotion —
+with this longing it was composed by Vrindavana Dasa.[^05-96]
+
+*Thus ends the "Vaishnava-vandana" composed by Sri Vrindavana Dasa.*
+
+---
+
+### Translator's notes
+
+[^05-1]: Attribution. In the 1910 edition this vandana is the "Third" (the second is Devakinandana's, Pt. 2); the colophon ascribes it to Vrindavana Dasa. But the author himself praises "Narayani's son, Vrindavana Dasa", the author of the *Chaitanya-bhagavata* (vv. 17, 118–119), so he is not the author of CB. Majumdar calls him the "second Vrindavana Dasa" and regards the vandana as largely a retelling of the Sanskrit vandana of Pt. 1. Indeed, the order of names and many characterisations agree with Pt. 1 almost word for word; parallels are noted in the footnotes. Tripadi stanzas (two long lines of three parts each) and payar couplets are numbered consecutively; refrains are not numbered.
+[^05-2]: A Sanskrit dedicatory verse. The word *santau* (সন্তৌ) is unclear.
+[^05-3]: Vv. 2–5 are an introduction not found in Pts. 1 and 2. "Hare Krishna Rama" is the maha-mantra.
+[^05-4]: Cf. Pt. 2, 3–5. "Janardana accepts the feeling": the Lord looks at the feeling, not at the words.
+[^05-5]: An apology for breaking the order, as in Pt. 1, 6 and Pt. 2, 5.
+[^05-6]: Cf. Pt. 1, 9–10; Pt. 2, 6–7.
+[^05-7]: Cf. Pt. 1, 11; Pt. 2, 8.
+[^05-8]: Cf. Pt. 1, 12 ("the second body of the Lord"); Pt. 2, 9.
+[^05-9]: Cf. Pt. 1, 14–15; Pt. 2, 10–11.
+[^05-10]: Cf. Pt. 1, 18 (Jahnavi is Ananga-manjari). According to GGD 65, Vasudha and Jahnavi are Varuni and Revati; GGD 66 gives both opinions on which of them is Ananga-manjari.
+[^05-11]: Cf. Pt. 1, 22 ("Sri Chaitanya appearing a second time"); GGD 67: Virachandra is non-different from Chaitanya. The Lord's secret counsel with Nityananda at Nilachala is known only from this vandana.
+[^05-12]: The *Chaitanya-bhagavata* says nothing about Virachandra: he was born after it was written. The author's reference is probably inexact. Abhirama — see vv. 69–72.
+[^05-13]: Ganga, Nityananda's daughter, is the river Ganga herself, who came forth from Vishnu's foot (GGD 69). Brahma washed Vamana's foot with water from his vessel, and it became the Ganga. "Radha and Krishna in liquid form" and "Bhagavan become water" are traditional names of the Ganga (cf. Pt. 1, 24–25); no impersonal Brahman is meant.
+[^05-14]: Cf. Pt. 1, 24–29; GGD 69 (Madhava is King Shantanu).
+[^05-15]: Cf. Pt. 1, 30; Pt. 2, 14.
+[^05-16]: Cf. Pt. 1, 31; Pt. 2, 15.
+[^05-17]: Cf. Pt. 1, 32.
+[^05-18]: Cf. Pt. 1, 33; Pt. 2, 16.
+[^05-19]: Cf. Pt. 1, 36; Pt. 2, 17–18. GGD 90.
+[^05-20]: Cf. Pt. 1, 36, 38; Pt. 2, 19–20. GGD 93–95.
+[^05-21]: Cf. Pt. 1, 38–39. Jagadananda is "like Sarasvati in another form", as in Pt. 1, 38 ("another form of Vani"); according to GGD 51 he is a manifestation of Satyabhama. Paramananda is probably Paramananda Puri (cf. v. 42). Gopinatha is Gopinatha Acharya (Pt. 2, 21).
+[^05-22]: Cf. Pt. 1, 39–40. GGD 91: Murari Gupta is Hanuman. The question mark after "as the moon" is the editor's.
+[^05-23]: Cf. Pt. 1, 40–41; Pt. 2, 24–25.
+[^05-24]: Cf. Pt. 1, 42; Pt. 2, 26.
+[^05-25]: Cf. Pt. 1, 43; Pt. 2, 27–28.
+[^05-26]: Cf. Pt. 1, 44; Pt. 2, 29.
+[^05-27]: Cf. Pt. 1, 45; Pt. 2, 30.
+[^05-28]: Cf. Pt. 1, 46; Pt. 2, 30.
+[^05-29]: Six brahmacharis, as in Pt. 1, 47–48 (a fact known only from the vandanas).
+[^05-30]: Cf. Pt. 1, 48–49; Pt. 2, 33–34. Shridhara sold banana-leaf cups, bananas and banana pith, and the Lord bargained with him (CB Adi 12; GGD 133).
+[^05-31]: Cf. Pt. 1, 49–50; Pt. 2, 35–36.
+[^05-32]: Cf. Pt. 1, 50, 52; Pt. 2, 37–38. "Garudai" is Garuda (Pandita).
+[^05-33]: Cf. Pt. 1, 52–53; Pt. 2, 39–40. "Raya Sri Mukunda" — cf. Pt. 1, 52 ("Rama and Mukunda").
+[^05-34]: Cf. Pt. 1, 55; Pt. 2, 42. GGD 49–50.
+[^05-35]: Cf. Pt. 1, 56–58; Pt. 2, 43–46. Ramachandra Puri reproached the Lord for eating much, and the Lord reduced His meals (CC Antya 8). GGD 118: Paramananda Puri is Uddhava.
+[^05-36]: Cf. Pt. 1, 59–60. "Like Satyabhama", as in Pt. 1, 59 (of Damodara Puri).
+[^05-37]: Cf. Pt. 1, 61; Pt. 2, 48–49.
+[^05-38]: Cf. Pt. 1, 63; Pt. 2, 51–52. "Bharati Sachchidananda" — in Jiva, "Chidananda". Manoratha Puri is not named in the other vandanas.
+[^05-39]: Cf. Pt. 1, 64; Pt. 2, 53.
+[^05-40]: Cf. Pt. 1, 65–66 (where this is said of Rupa); Pt. 2, 54.
+[^05-41]: Cf. Pt. 1, 70–71; Pt. 2, 55.
+[^05-42]: Cf. Pt. 1, 68–69; Pt. 2, 56.
+[^05-43]: Cf. Pt. 1, 72; Pt. 2, 57.
+[^05-44]: Cf. Pt. 1, 72; Pt. 2, 58.
+[^05-45]: Cf. Pt. 1, 73; Pt. 2, 61.
+[^05-46]: Cf. Pt. 1, 74; Pt. 2, 59–60. Beasts and birds captive to Shuddha Sarasvati — a detail known only from this vandana.
+[^05-47]: Cf. Pt. 1, 75; Pt. 2, 63. CB Antya 5.278–287: kadamba flowers on a lemon tree (*jambira*) at Panihati; here, as in CB, a lemon tree (in Pt. 1, a pomegranate).
+[^05-48]: Cf. Pt. 1, 76; Pt. 2, 64. GGD 91: Purandara is Angada. Here in more detail: a brahmana received Purandara as a guest and, with his family, saw the tail.
+[^05-49]: Cf. Pt. 1, 77–78; Pt. 2, 65.
+[^05-50]: Cf. Pt. 1, 78–80; Pt. 2, 67–68.
+[^05-51]: Cf. Pt. 1, 81–82, 111; Pt. 2, 69. Govindananda's mental road is a fact known only from the vandanas; cf. CC Madhya 1, where Nrisimhananda Brahmachari builds the mental road. Here the way runs from Kuliya to Gauda.
+[^05-52]: Cf. Pt. 1, 83 ("the daughter of Vrishabhanu"); Pt. 4, 46. According to GGD 154–155, Gadadhara Dasa is Chandrakanti, a manifestation of Radha's splendour; the accepted understanding follows GGD. "Gauranga's twin body" (গৌরাঙ্গ-যুগল-দেহ) is unclear: perhaps it means that Gauranga is Radha and Krishna together, and Gadadhara Dasa a part of Radha.
+[^05-53]: Cf. Pt. 1, 84; Pt. 2, 70–71.
+[^05-54]: Cf. Pt. 1, 85–86; Pt. 2, 72–74.
+[^05-55]: Cf. Pt. 1, 87–88; Pt. 2, 74. CC Madhya 15.
+[^05-56]: Cf. Pt. 1, 89–90; Pt. 2, 75–76.
+[^05-57]: Cf. Pt. 1, 91; Pt. 2, 77–78.
+[^05-58]: Cf. Pt. 1, 91–92; Pt. 2, 79.
+[^05-59]: Cf. Pt. 1, 92–93; Pt. 2, 78.
+[^05-60]: Cf. Pt. 1, 93; Pt. 2, 80–82. GGD 188.
+[^05-61]: In Pt. 1, 94 and Pt. 2, 93 the miracle of the karavi flower is performed by Purushottama Dasa; here by Gadadhara Dasa (or Vasudeva Ghosha). A divergence.
+[^05-62]: Cf. Pt. 1, 95; Pt. 2, 83. According to GGD 126, the log could be lifted by thirty-two men; here, sixteen.
+[^05-63]: Cf. Pt. 4, 21–24. "A second Chaitanya" — of Abhirama's greatness.
+[^05-64]: Cf. Pt. 1, 96; Pt. 2, 84. GGD 127: Sundarananda is Sudama.
+[^05-65]: Cf. Pt. 1, 97; Pt. 2, 99. This fact is known only from the vandanas.
+[^05-66]: The reading is corrupt; the question mark is in the edition.
+[^05-67]: Cf. Pt. 1, 98; Pt. 2, 99, 135. GGD 128.
+[^05-68]: Cf. Pt. 1, 134; Pt. 2, 98.
+[^05-69]: Cf. Pt. 1, 99; Pt. 2, 85. "Ten gandas" (a ganda is four) — forty jackals. "The sixteen names" — the maha-mantra. The number of jackals is known only from this vandana.
+[^05-70]: Cf. Pt. 1, 100; Pt. 2, 96.
+[^05-71]: Cf. Pt. 1, 101 and note; Pt. 2, 97.
+[^05-72]: Cf. Pt. 1, 101; Pt. 2, 95.
+[^05-73]: Cf. Pt. 1, 102; Pt. 2, 101. "Six score" — a hundred and twenty snakes; the number is known only from this vandana.
+[^05-74]: Cf. Pt. 1, 103–104; Pt. 2, 101–102.
+[^05-75]: Cf. Pt. 1, 105; Pt. 2, 102.
+[^05-76]: Cf. Pt. 1, 105–106; Pt. 2, 103–105. In CC (Madhya 6) the six-armed form is shown to Sarvabhauma, not to Prataparudra (see Pt. 1, note to v. 106).
+[^05-77]: Cf. Pt. 1, 107–108; Pt. 2, 106–107.
+[^05-78]: Vv. 97–100 — cf. Pt. 1, 109–110; Pt. 2, 109–111.
+[^05-79]: Cf. Pt. 1, 111; Pt. 2, 69; above, v. 58.
+[^05-80]: Vv. 102–104 — cf. Pt. 1, 112–114; Pt. 2, 112–114.
+[^05-81]: Vv. 105–108 — cf. Pt. 1, 114–117; Pt. 2, 113–117.
+[^05-82]: "Shrikara" — so also Pt. 2, 117; in Jiva (Pt. 1, 117), Shridhara.
+[^05-83]: Cf. Pt. 1, 117–118; Pt. 2, 118. "A household worth a hundred thousand" — wealth of a lakh (of coins).
+[^05-84]: Vv. 111–116 — cf. Pt. 1, 119–123; Pt. 2, 120–124.
+[^05-85]: Cf. Pt. 1, 37 ("who described the qualities of Nityananda and Chaitanya"); Pt. 2, 126. This couplet shows that the author of the vandana is not Narayani's son.
+[^05-86]: "Behari" (বেহারি) is unclear: perhaps a nickname or a place name.
+[^05-87]: Vv. 120–124 — cf. Pt. 1, 125–128; Pt. 2, 127. "Pandita Thakura" is Gauridasa Pandita (so in Pt. 1, 126). The seven months of separation are known only from the vandanas.
+[^05-88]: Cf. Pt. 1, 129 ("Anadi Gangadasa"). Here "Anadi" is taken as a place.
+[^05-89]: Vv. 127–128 — cf. Pt. 1, 130–131; Pt. 2, 130–131. "Puri manaskama" is taken as "fulfilling the heart's desire"; it may be part of a name.
+[^05-90]: GGD 97, 100–101.
+[^05-91]: Cf. Pt. 1, 131. The question mark after the name "Rajiva" is the editor's.
+[^05-92]: Cf. Pt. 1, 133; Pt. 2, 133.
+[^05-93]: Cf. Pt. 1, 135; Pt. 2, 134. Madhava Acharya's *Krishna-mangala* is a poem on the tenth canto of the *Bhagavata*.
+[^05-94]: Cf. Pt. 1, 24–27; Pt. 2, 138. The same Madhava Acharya as in v. 19; named here a second time.
+[^05-95]: Cf. Pt. 1, 137; Pt. 2, 139. "Padiyari" (পড়িয়ারী) is apparently Narayana's nickname ("Paidari" in the index).
+[^05-96]: Cf. Pt. 2, 145–147; Pt. 4, 143. The signature "Vrindavana Dasa" is that of the vandana's author, the "second" Vrindavana Dasa (see note 1).
+
+---
+
 # Index of persons
 
-*Where each associate is mentioned: Part 1 — the vandana attributed to Jiva (verses); Part 2 — Devakinandana (couplets); Part 3 — the* Vaishnavabhidhana *(verses); GGD — the* Gaura-ganoddesha-dipika *(verses by our numbering). Tag — the person code in the lila database (`lila-db/PERSONS.md`); "—" — no tag (person not identified). "(?)" — tentative identification. Order — by first mention.*
+*Where each associate is mentioned: Part 1 — the vandana attributed to Jiva (verses); Part 2 — Devakinandana (couplets); Part 3 — the* Vaishnavabhidhana *(verses); Part 4 — the "First vandana" (verses); Part 5 — the tripadi vandana (stanzas and couplets); GGD — the* Gaura-ganoddesha-dipika *(verses by our numbering). Tag — the person code in the lila database (`lila-db/PERSONS.md`); "—" — no tag (person not identified). "(?)" — tentative identification. Order — by first mention.*
 
-| Name | Tag | Pt. 1 | Pt. 2 | Pt. 3 | GGD |
-|---|---|---|---|---|---|
-| Sri Chaitanya Mahaprabhu (Gaurachandra, Vishvambhara) | @mahaprabhu | 2, 4, 9, 11, 142, 149 | 6, 8 | 3, 5 | 26–34 |
-| Nityananda | @nityananda | 4, 14–16, 19, 75, 125–128, 142, 145 | 10–12 | 6–7 | 58–64 |
-| Advaita Acharya | @advaita | 5, 31, 97, 140, 145 | 15, 99–100 | 11 | 76–80 |
-| Rupa Gosvami | @rupa-gosvami | 1, 5, 64–66, 146 | 53, 56 | 24 | 180 |
-| Sanatana Gosvami | @sanatana-gosvami | 1, 64, 67–69, 146 | 53, 56 | 23 | 182 |
-| Vallabha (Anupama), Jiva's father | @anupama | 1 | — | — | 194–207 |
-| Jiva Gosvami | @jiva-gosvami | 1, 6, 65, 153 | 54 | 24 | 194–207 |
-| Shachi | @shachi | 9, 53–54, 136 | 6 | 3 | 37 |
-| Jagannatha Mishra (Purandara) | @jagannatha-mishra | 9 | 6 | 3 | 37 |
-| Vishvarupa (Shankararanya) | @vishvarupa | 9–10 | 6–7 | 3–4 | 58–62 |
-| Lakshmipriya | @lakshmipriya | 12, 53, 55 | 9, 40 | 5 | 45–46 |
-| Vishnupriya | @vishnupriya | 12, 54 | 9, 41 | 5 | 47–48 |
-| Gadadhara Pandita | @gadadhara-pandita | 12–13, 34, 146 | 9 | 5 | 147–153 |
-| Pundarika Vidyanidhi | @pundarika-vidyanidhi | 13, 47 (?) | 16a, 31 (?) | 14 (?) | 54–56 |
-| Padmavati | @padmavati | 14, 75, 145 | 10 | 6 | 40 |
-| Hadai (Haddipa) Pandita, Mukunda | @hadai-pandita | 14 | 10 | 6 | 40 |
-| Vasudha | @vasudha | 17 | 12, 120 | 7 | 65–66 |
-| Suryadasa Pandita (Sarakhela) | @suryadasa-pandita | 17, 119 | 120 | 42 | 65 |
-| Jahnava (Jahnavi) | @jahnava | 18–21, 23, 26, 142, 145 | 12, 120 | 7 | 65–66 |
-| Ananga-manjari | @ananga-manjari | 18 | — | — | 66 |
-| Gopinatha, the Deity of Vrindavana | @gopinatha-deity-vrindavana | 20–21 | — | — | — |
-| Virabhadra (Virachandra) | @virabhadra | 22–23 | 12–13 | 7 | 67–68 |
-| Ganga, Nityananda's daughter | @ganga-nityananda | 24–26 | 138 | — | 69 |
-| Madhava Acharya, husband of Ganga | @madhava-acharya-ganga | 27–29 | 138 | 49 (?) | 69 |
-| Ishvara Puri | @ishvara-puri | 18, 28, 56, 141–142 | 43 | 18 | 23, 25 |
-| Madhavendra Puri | @madhavendra-puri | 30, 140–144 | 14 | 11 | 22–25 |
-| Sita Thakurani | @sita-thakurani | 32, 145 | 16 | — | 86 |
-| Achyutananda | @achyutananda | 33–35 | 16 | 11 | 87–88 |
-| Srivasa (Srinivasa) | @srivasa | 36 | 17 | 11 | 90 |
-| Malini | @malini | 36 | 18 | — | 42 |
-| Narayani | @narayani | 36–37 | 19, 126 | — | 43 |
-| Vrindavana Dasa | @vrindavana-dasa | 37 | 126 | 36 | 109 |
-| Haridasa Thakura | @haridasa-thakura | 38, 146 | 20 | 12 | 93–95 |
-| Jagadananda Pandita | @jagadananda-pandita | 38 | 62 | 25 | 51 |
-| Gopinatha (Acharya) | @gopinatha-acharya | 39 | 21 | 11 | 75, 178 |
-| Murari Gupta | @murari-gupta | 39 | 22 | 12 | 91 |
-| Chandrashekhara (Acharyaratna) | @chandrashekhara-acharya | 40 | 23 | 11 | 112 |
-| Acharyaratna (if not Chandrashekhara) | — | 40, 93 | 23 | — | 103 |
-| Govinda (together with Garuda) | — | 40 | 24 | 11 (?) | 116 |
-| Garuda (Pandita) | @garuda-pandita | 40, 52 | 24, 38 | 16 | 116–117 |
-| Mukunda Datta | @mukunda-datta | 41 | 25 | 12 | 140 |
-| Vasudeva Datta | @vasudeva-datta | 42 | 26 | 12 | 140 |
-| Damodara Pandita | @damodara-pandita | 43 | 27 | 12 | 159 |
-| Pitambara, Damodara Pandita's brother | @pitambara | 43 | 27 | 13 | 168 |
-| Jagannatha, Damodara Pandita's brother | — | 43 | 28 | 13 | 158 (?) |
-| Shankara Pandita | @shankara-pandita | 43 | 28 | 13 | 157 |
-| Narayana, Damodara Pandita's brother | — | 43 | 28 | 13 | — |
-| Nilambara Chakravarti | @nilambara-chakravarti | 44 | 29 | 13 | 104–105 |
-| Sri Rama Pandita | @srirama-pandita | 45 | 30 | 13 | 90 |
-| Narayana (Gupta?) | @narayana-navadvipa | 45 | 30 | 12 | — |
-| Gangadasa Pandita, the teacher | @gangadasa-pandita | 46 | 30 | 14 | 53 |
-| Vishnu (Vishnudasa) Pandita | @vishnu-pandita | 46 | 30 | 14 | — |
-| Sudarshana Pandita | @sudarshana-pandita | 46 | 30 | 14 | 53 |
-| Sadashiva (Pandita) | @sadashiva-pandita | 47 | 31 | 14 | — |
-| Shrigarbha | @shrigarbha | 47 | 31 | 15 | 103 |
-| Shrinidhi | @shrinidhi | 47 | 31 | 15 | 103 |
-| Buddhimanta Khan | @buddhimanta-khan | 47 | 31 | 14 | — |
-| Shuklambara Brahmachari | @shuklambara | 47 | 32 | 15 | 191 |
-| Ramadasa | — | 48 | 33 | 15 | — |
-| Kavichandra | @kavichandra | 48, 121 | 33, 122 | 15, 44 | 171 |
-| Vijaya (the scribe) | @vijaya-dasa | 49 | 33 | 16 | — |
-| Ratneshvara Acharya | — | 49 | — | — | — |
-| Nandana Acharya | @nandana-acharya | — | 33 | 16, 34 | — |
-| Shridhara (Kholaveca) | @shridhara | 49, 117 (?) | 34 | 15 | 133 |
-| Vanamali, the poor brahmana, with his son | @vanamali-vipra | 49 | 35 | 15 (?) | 114 |
-| Halayudha (Thakura) | @halayudha | 50 | 36 | 15 | 134 |
-| Vasudeva (Bhadra) | — | 50 | 36 | 17 | — |
-| Ishana (Dasa) | @ishana-navadvipa | 50 | 37 | 16 | — |
-| Shriman (Pandita) | @shriman-pandita | 51 | 38 | 16 | — |
-| Sanjaya (Mukunda-Sanjaya?) | @mukunda-sanjaya | 51 | 38 | 16 | — |
-| Kashishvara (the Lord's servant; Kashishvara Gosvami) | @kashishvara | 52, 74, 147 | 38, 59 | 16, 23 | 137, 166 |
-| Jagadisha Pandita | @jagadisha-pandita | 52, 124 | 38, 125 | 16, 36 | 143 |
-| Gangadasa (the second) | — | 52 | 39 | 17 | 111 |
-| Krishnananda (of Navadvipa) | — | 52 | 39 | — | 167 |
-| Rama and Mukunda | — | 52 | 39 | 17 | — |
-| Vallabhacharya (Lakshmipriya's father) | @vallabhacharya | 53 | 40 | 17 | 44 |
-| Sanatana Mishra (Pandita) | @sanatana-mishra | 54 | 41 | 17 | 47 |
-| Kashinatha (the brahmana) | @kashinatha | 55 | 42 | 18 | 50 |
-| Vanamali Acharya | @vanamali-acharya | 55 | 42 | 18 | 49 |
-| Keshava Bharati | @keshava-bharati | 57 | 44 | 18 | 52, 117 |
-| Ramachandra Puri | @ramachandra-puri | 58 | 45 | 19 | 92 |
-| Paramananda Puri | @paramananda-puri | 58, 141 | 46, 79 (?) | 19, 30 (?) | 118 |
-| Damodara Puri | @damodara-puri | 59 | 46 | 19 (?) | 97 |
-| Narasimha (Nrisimhananda) Tirtha | @narasimha-tirtha | 59 | 47 | 19 | 100 |
-| Sukhananda Puri | @sukhananda-puri | 59 | 47 | 20 | 97 |
-| Govinda (Govindananda) Puri | @govinda-puri | 60, 141 | 47 | 20 | 97 |
-| Brahmananda Puri | @brahmananda-puri | 60 | 47 | 20 | — |
-| Nrisimha (Nrisimhananda) Puri / Bharati | @nrisimha-puri | 60 | 48 | 23 | 100 |
-| Satyananda Bharati | @satyananda-bharati | 60 | 48 | 20 | 100 |
-| Garuda Avadhuta | @garuda-avadhuta | 61 | 48 | 21 | 101 |
-| Vishnu Puri | @vishnu-puri | 61 | 49 | 22 | — |
-| Brahmananda Svarupa | @brahmananda-svarupa | 62 | 50 | 21 | — |
-| Krishnananda Puri | @krishnananda-puri | 62 | 50 | 23 | 97 |
-| Raghava Puri | @raghava-puri | 62 | 50 | 21 | 97 |
-| Vishveshvarananda | @vishveshvarananda | 63 | 51 | 22 | — |
-| Keshava Puri | @keshava-puri | 63 | 52 | 21 | 97 |
-| Anubhavananda | @anubhavananda | 63 | 52 | 22 | — |
-| Chidananda | @chidananda | 63 | — | 22 (?) | 100 |
-| Gopala Bhatta | @gopala-bhatta | 67–69, 73 | 56 | 24 | 184 |
-| Raghunatha Dasa Gosvami | @raghunatha-dasa | 70, 147 | 55 | 24 | 185–186 |
-| Raghava Gosvami (of Govardhana) | @raghava-gosvami-govardhana | 71 | 55 | 25 (?) | 162 |
-| Raghunatha Bhatta | @raghunatha-bhatta | 72 | 57, 136 | 25 | 185 |
-| Lokanatha Gosvami | @lokanatha | 72 | 58 | 25 | 187 |
-| Bhugarbha | @bhugarbha | 72 | 58 | 25 | 187 |
-| Prabodhananda Sarasvati | @prabodhananda-sarasvati | 73 | 61 | 24 | 163 |
-| Shuddha Sarasvati | @shuddha-sarasvati | 74 | 60 | 24 | — |
-| Raghava Pandita (Raghavananda) | @raghava-pandita | 74–75 | 63 | 25 (?) | 166 |
-| Purandara Pandita | @purandara-pandita | 76 | 64 | 25 | 91 |
-| Kashi Mishra | @kashi-mishra | 77 | 65 | 26 | 193 |
-| Vaninatha (Pattanayaka) | @vaninatha-raya | 78 | 65 | 26 | — |
-| Ramananda Raya | @ramananda-raya | 78–79, 148 | 67 | 26 | 120–124 |
-| Vakreshvara Pandita | @vakreshvara | 80, 147 | 68 | 26 | 71–73 |
-| Govindananda (Sugriva Mishra) | @govindananda | 81–82, 111 | 69 | 26 | 91 |
-| Gadadhara Dasa | @gadadhara-dasa | 83 | 70, 86, 91 | 27, 37 (?) | 154–155 |
-| Sadashiva Kaviraja | @sadashiva-kaviraja | 84 | 71 | 27 | 156 |
-| Shivananda Sena | @shivananda-sena | 85 | 72–73 | 27 | 4, 176 |
-| Mukunda Dasa (of Shrikhanda) | @mukunda-dasa | 86–88 | 74 | 27 | 175 |
-| Raghunandana | @raghunandana | 86, 90 | 76 | 28 | 70 |
-| Narahari Sarakara | @narahari-sarakara | 89–90, 147 | 75 | 28 | 177 |
-| Raghunatha (the vaidya) | — | 91 | 77 | 28 | — |
-| Purandara Acharya | @purandara-acharya | 91 | 78 | 29 | — |
-| Krishnadasa of Akaihat | @krishnadasa-akaihat | 91 (?) | 79 | 29 (?) | — |
-| Paramananda Pandita, the Lord's fellow student | — | 92 | 79 | 30 | — |
-| Devananda Pandita | @devananda-pandita | 92 | 78 | 29 | 106 |
-| Acharyachandra | — | — | 78 | 29 | — |
-| Govinda Ghosha | @govinda-ghosha | 93 | 80, 91 | 30 | 188 |
-| Madhava (Madhavananda) Ghosha | @madhava-ghosha | 93 | 81 | 30 | 188 |
-| Vasu (Vasudeva) Ghosha | @vasu-ghosha | 93 | 82 | 30 | 188 |
-| Purushottama Dasa (Nagara), Devakinandana's guru | @purushottama-nagara | 94 | 87–94 | 1, 31 | 131 |
-| Abhirama (Ramadasa) | @abhirama | 95 | 83 | 31 | 126 |
-| Sundarananda | @sundarananda | 96 | 84 | 31 | 127 |
-| Gauridasa Pandita | @gauridasa-pandita | 97–98, 126 | 99, 135 | 32 | 128 |
-| Parameshvara Dasa | @parameshvara-dasa | 99 | 85 | 31 | 132 |
-| Kamalakara Pippalai | @kamalakara-pippalai | 100 | 96 | 32 | 128 |
-| Purushottama (son of Ratnakara / "Tirtha") | — | 101 | 97 | 33 (?) | — |
-| Kaliya (Kala) Krishnadasa | @kaliya-krishnadasa | 101 | 95 | 32 (?) | 132 |
-| Saranga (Sharnga) Thakura | @saranga-thakura | 102 | 101 | 35 | 172 |
-| Makaradhvaja Kara | @makaradhvaja-kara | 103 | 101 | 35 | 141, 168 |
-| Bhagavatacharya | @bhagavatacharya | 104 | 102 | 34 | 194–207 |
-| Kaviraja Mishra | @kaviraja-mishra | 104 | 102 | 33 | — |
-| Ananta Acharya | @ananta-acharya | 104 | 102 | — | 165 |
-| Madhu Pandita | @madhu-pandita | 105, 115 | 102, 116 | 33 | — |
-| Govinda Acharya | @govinda-acharya | 105 | 103 | 34 | 41 |
-| Sarvabhauma Bhattacharya | @sarvabhauma | 106, 148 | 104 | 34 | 119 |
-| Prataparudra | @prataparudra | 106 | 105 | 35 | 118 |
-| Raghunatha (Yadunatha), the brahmana | — | 107 | 106 | 35 | — |
-| Vishnudasa, the vaidya | @vishnudasa-vaidya | 107 | 106–107 | 37 | — |
-| Vanamali Dasa, Vishnudasa's brother | @vanamali-dasa-vaidya | 107 | 107–108 | 37 | — |
-| Vipradasa of Utkala | @vipradasa-odia | 108 | 106 | 37 | — |
-| Haridasa the brahmana (Dvija Haridasa) | @dvija-haridasa | 108 | 106 | 35 | — |
-| Kanai Khutiya | @kanai-khutiya | 109 | 109 | — | — |
-| Jagannatha (Dasa), the Oriya singer | @jagannatha-dasa-odia | 109–110 | 109, 111 | 38 | — |
-| Balarama (Dasa), the Oriya | @balarama-dasa-odia | 109–110 | 109–110 | 38 | — |
-| Kashishvara (the Oriya) | — | 112 | 112 | 38 | — |
-| Simheshvara | @simheshvara | 112 | 112 | 39 | — |
-| Shivananda Pandita (the Oriya) | — | 112 | 112 | 39 | — |
-| Chandaneshvara | @chandaneshvara | 112 | 112 | 38 | — |
-| Madhava Pattanayaka | @madhava-pattanayaka | 113 | 114 | 40 | — |
-| Hari Bhatta | @hari-bhatta | 113 | 114 | 40 | — |
-| Baladeva (Balarama) Mahiti | @baladeva-mahiti | 113 | 114 | 39 | — |
-| Subuddhi Mishra | @subuddhi-mishra | 114 | 113 | 39 | 194–207 |
-| Shrinatha Mishra | @shrinatha-mishra | 114 | 113 | 39 | 171 |
-| Tulasi Mishra | @tulasi-mishra | 114 | 113 | 39 | — |
-| Kashinatha Mahiti | @kashinatha-mahiti | 114 | 113 | 40 | — |
-| Ramananda Vasu | @ramananda-vasu | 115 | 115 | 40 | 173 |
-| Purushottama Brahmachari | @purushottama-brahmachari | 115–116 | 116 | 40 | — |
-| Ramachandra, the brahmana | — | 117 | 117 | 41 | — |
-| Shrikara (Shridhara?) Pandita | — | 117 | 117 | 41 | — |
-| Yadunatha Kavichandra | @yadunatha-kavichandra | 117 | 117 | 41 | — |
-| Dhananjaya Pandita | @dhananjaya-pandita | 117–118 | 118 | 41 | 127 |
-| Jagannatha (Pandita, Acharya) | — | 119 | 119 | 42 | 111 (?) |
-| Lakshmana Acharya | — | 119 | 119 | 42 | — |
-| Krishnadasa Pandita | — | 91 (?), 119 | 119 | 29, 46 | — |
-| Vamshivadana | @vamshivadana | 120 | 86 | 32 | 179 |
-| Murari Chaitanya Dasa | @murari-chaitanya-dasa | 120 | 121 | — | — |
-| Jagannatha Sena | @jagannatha-sena | 121 | 122 | 43 | 194–207 |
-| Paramananda Gupta | @paramananda-gupta | 121 | 122 | 43 | 194–207 |
-| Ramadasa (Rama), the boy | — | 121 | 122 | 44 | 145 (?) |
-| Vallabha Sena / Vallabhacharya | — | 122 | 123 | 44 | — |
-| Kamsari Sena | @kamsari-sena | 122 | 123 | 43 | 194–207 |
-| Bhaskara Thakura | @bhaskara-thakura | 122 | 123 | 43 | 114 |
-| Balarama Dasa, the singer | @balarama-dasa-poet | 123 | 124 | 44 | — |
-| Mahesha Pandita | @mahesha-pandita | 124 | 125 | 44 | 129 |
-| Krishnadasa of Badagachhi | @krishnadasa-badagachhi | 125–128 | 127 | — | — |
-| Paramananda Avadhuta | @paramananda-avadhuta | 128 | 128 | 45 | — |
-| Anadi Gangadasa (Pandita) | — | 129 | 129 | 45 | — |
-| Vilasi Pandita | — | 129 | — | — | — |
-| Yadunatha Dasa | — | 129 | 129 | 46 | — |
-| Purushottama Tirtha (Puri) | @purushottama-tirtha | 130 | 130 | 47 | 101 |
-| Jagannatha Tirtha | @jagannatha-tirtha | 130 | 130 | 47 | 100 |
-| Rama Tirtha | @rama-tirtha | 130 | 130 | 47 | 101 |
-| Raghunatha Tirtha (Puri) | @raghunatha-tirtha | 130 | 130 | 47 | 97 (?) |
-| Upendra Ashrama | @upendra-ashrama | 130 | 131 | 48 | 101 |
-| Hariharananda (Bharati) | @hariharananda | 130 | 131 | 48 | — |
-| Vasudeva Tirtha | @vasudeva-tirtha | 131 | 131 | 48 | 101 |
-| Ananta Puri | @ananta-puri | 131 | 131 | 48 | 97 |
-| Mukunda Kaviraja | — | 131 | 132 | 45 (?) | — |
-| Rajiva Pandita | — | 131 | — | — | — |
-| Jiva Pandita | @jiva-pandita | 132 | 132 | 45 | 169 |
-| Shishu Krishnadasa | @shishu-krishnadasa | 133 | 133 | 46 | — |
-| Uddharana Datta | @uddharana-datta | 134 | 98 | 33 | 129 |
-| Madhava Acharya, author of the Krishna-mangala | @madhava-acharya-kavivallabha | 135 | 134 | 49 (?) | 169 |
-| Nrisimha Chaitanya Dasa | — | 135 | 135 | 49 | — |
-| Krishnadasa | — | 135 | — | — | — |
-| Shankara Ghosha | @shankara-ghosha | 136 | 137 | 49 | 142 |
-| Shivananda Chakravarti | @shivananda-chakravarti | 137 | 139 | 49 | 183 |
-| Narayana (Paidari) | — | 137 | 139 | 49 | — |
-| Sankarshana Puri | @sankarshana-puri | 140, 142 | — | — | — |
-| Pradyumna Mishra | @pradyumna-mishra | — | 66 | 36 | 74 |
-| Bhavananda Raya | @bhavananda-raya | — | 66 | — | 122 |
-| Kalanidhi, Sudhanidhi, Gopinatha (Ramananda's brothers) | — | — | 66 | — | — |
-| Kavi Karnapura and his brothers Chaitanya Dasa, Ramadasa | @kavi-karnapura | — | 73 | 43 (?) | 145 |
-| Gauridasa the kirtaniya | — | — | 90 | — | — |
-| Purushottama Pandita | @purushottama-pandita | — | 100 | — | — |
-| Krishnadasa, Gauridasa's brother | @krishnadasa-poet | — | 135 | 32 (?) | — |
-| Ramachandra Dasa | — | — | 136 | — | — |
-| Madhusudana Upadhyaya | — | — | — | 28 | — |
-| Srishtidhara | — | — | — | 30 | — |
-| Tapana Mishra (Acharya) | @tapana-mishra | — | — | 36 | — |
-| Bhagavan Acharya | @bhagavan-acharya | — | — | 36 | 74 |
-| Chiranjiva | @chiranjiva-sena | — | — | 46 | 194–207, 209 |
-| Krishna Tirtha | — | — | — | 47 | — |
-| Madhavananda Acharya, Dasa Sanatana | — | — | — | 49 | — |
+| Name | Tag | Pt. 1 | Pt. 2 | Pt. 3 | Pt. 4 | Pt. 5 | GGD |
+|---|---|---|---|---|---|---|---|
+| Sri Chaitanya Mahaprabhu (Gaurachandra, Vishvambhara) | @mahaprabhu | 2, 4, 9, 11, 142, 149 | 6, 8 | 3, 5 | 1–8, 132, 137–141 | 1–2, 11, 16, 142 | 26–34 |
+| Nityananda | @nityananda | 4, 14–16, 19, 75, 125–128, 142, 145 | 10–12 | 6–7 | 1, 5, 9, 13–20, 132, 141, 144 | 1, 13, 16, 54, 81, 121–124, 130, 142 | 58–64 |
+| Advaita Acharya | @advaita | 5, 31, 97, 140, 145 | 15, 99–100 | 11 | 5, 9, 86, 116, 137–141, 143 | 21–22, 76 | 76–80 |
+| Rupa Gosvami | @rupa-gosvami | 1, 5, 64–66, 146 | 53, 56 | 24 | 75 | 46 | 180 |
+| Sanatana Gosvami | @sanatana-gosvami | 1, 64, 67–69, 146 | 53, 56 | 23 | 75 | 46 | 182 |
+| Vallabha (Anupama), Jiva's father | @anupama | 1 | — | — | — | — | 194–207 |
+| Jiva Gosvami | @jiva-gosvami | 1, 6, 65, 153 | 54 | 24 | — | 47 | 194–207 |
+| Shachi | @shachi | 9, 53–54, 136 | 6 | 3 | 114, 116 | 10, 37 | 37 |
+| Jagannatha Mishra (Purandara) | @jagannatha-mishra | 9 | 6 | 3 | — | 10 | 37 |
+| Vishvarupa (Shankararanya) | @vishvarupa | 9–10 | 6–7 | 3–4 | — | 10 | 58–62 |
+| Lakshmipriya | @lakshmipriya | 12, 53, 55 | 9, 40 | 5 | — | 12, 40 | 45–46 |
+| Vishnupriya | @vishnupriya | 12, 54 | 9, 41 | 5 | — | 12, 39 | 47–48 |
+| Gadadhara Pandita | @gadadhara-pandita | 12–13, 34, 146 | 9 | 5 | 5, 86 | 12 | 147–153 |
+| Pundarika Vidyanidhi | @pundarika-vidyanidhi | 13, 47 (?) | 16a, 31 (?) | 14 (?) | 68 | 34 (?) | 54–56 |
+| Padmavati | @padmavati | 14, 75, 145 | 10 | 6 | — | 13 | 40 |
+| Hadai (Haddipa) Pandita, Mukunda | @hadai-pandita | 14 | 10 | 6 | — | 13 | 40 |
+| Vasudha | @vasudha | 17 | 12, 120 | 7 | — | 15 | 65–66 |
+| Suryadasa Pandita (Sarakhela) | @suryadasa-pandita | 17, 119 | 120 | 42 | — | 111 | 65 |
+| Jahnava (Jahnavi) | @jahnava | 18–21, 23, 26, 142, 145 | 12, 120 | 7 | — | 14–15 | 65–66 |
+| Ananga-manjari | @ananga-manjari | 18 | — | — | — | 14 | 66 |
+| Gopinatha, the Deity of Vrindavana | @gopinatha-deity-vrindavana | 20–21 | — | — | — | — | — |
+| Virabhadra (Virachandra) | @virabhadra | 22–23 | 12–13 | 7 | — | 15–17 | 67–68 |
+| Ganga, Nityananda's daughter | @ganga-nityananda | 24–26 | 138 | — | — | 18, 135–136 | 69 |
+| Madhava Acharya, husband of Ganga | @madhava-acharya-ganga | 27–29 | 138 | 49 (?) | — | 19, 135 | 69 |
+| Ishvara Puri | @ishvara-puri | 18, 28, 56, 141–142 | 43 | 18 | — | 41 | 23, 25 |
+| Madhavendra Puri | @madhavendra-puri | 30, 140–144 | 14 | 11 | — | 20 | 22–25 |
+| Sita Thakurani | @sita-thakurani | 32, 145 | 16 | — | — | 22–23 | 86 |
+| Achyutananda | @achyutananda | 33–35 | 16 | 11 | 75 | 23 | 87–88 |
+| Srivasa (Srinivasa) | @srivasa | 36 | 17 | 11 | 7, 86, 91 | 24 | 90 |
+| Malini | @malini | 36 | 18 | — | — | 24 | 42 |
+| Narayani | @narayani | 36–37 | 19, 126 | — | 81 | 25, 118 | 43 |
+| Vrindavana Dasa | @vrindavana-dasa | 37 | 126 | 36 | 81–82, 144 | 17, 118–119 | 109 |
+| Haridasa Thakura | @haridasa-thakura | 38, 146 | 20 | 12 | 69, 86, 93 | 25 | 93–95 |
+| Jagadananda Pandita | @jagadananda-pandita | 38 | 62 | 25 | 6 | 26 | 51 |
+| Gopinatha (Acharya) | @gopinatha-acharya | 39 | 21 | 11 | 102 (?) | 26 | 75, 178 |
+| Murari Gupta | @murari-gupta | 39 | 22 | 12 | 112 | 27 | 91 |
+| Chandrashekhara (Acharyaratna) | @chandrashekhara-acharya | 40 | 23 | 11 | 96 | 27 | 112 |
+| Acharyaratna (if not Chandrashekhara) | — | 40, 93 | 23 | — | — | 27 | 103 |
+| Govinda (together with Garuda) | — | 40 | 24 | 11 (?) | — | 28 | 116 |
+| Garuda (Pandita) | @garuda-pandita | 40, 52 | 24, 38 | 16 | 76 | 28, 37 | 116–117 |
+| Mukunda Datta | @mukunda-datta | 41 | 25 | 12 | 70 | 28 | 140 |
+| Vasudeva Datta | @vasudeva-datta | 42 | 26 | 12 | 95 | 29 | 140 |
+| Damodara Pandita | @damodara-pandita | 43 | 27 | 12 | 114 | 30 | 159 |
+| Pitambara, Damodara Pandita's brother | @pitambara | 43 | 27 | 13 | — | 30 | 168 |
+| Jagannatha, Damodara Pandita's brother | — | 43 | 28 | 13 | — | 30 | 158 (?) |
+| Shankara Pandita | @shankara-pandita | 43 | 28 | 13 | — | 30 | 157 |
+| Narayana, Damodara Pandita's brother | — | 43 | 28 | 13 | — | 30 | — |
+| Nilambara Chakravarti | @nilambara-chakravarti | 44 | 29 | 13 | — | 31 | 104–105 |
+| Sri Rama Pandita | @srirama-pandita | 45 | 30 | 13 | — | 32 | 90 |
+| Narayana (Gupta?) | @narayana-navadvipa | 45 | 30 | 12 | — | 32 | — |
+| Gangadasa Pandita, the teacher | @gangadasa-pandita | 46 | 30 | 14 | 97 (?) | 33 | 53 |
+| Vishnu (Vishnudasa) Pandita | @vishnu-pandita | 46 | 30 | 14 | — | 33 | — |
+| Sudarshana Pandita | @sudarshana-pandita | 46 | 30 | 14 | — | 33 | 53 |
+| Sadashiva (Pandita) | @sadashiva-pandita | 47 | 31 | 14 | 73 | 34 | — |
+| Shrigarbha | @shrigarbha | 47 | 31 | 15 | 102 | 34 | 103 |
+| Shrinidhi | @shrinidhi | 47 | 31 | 15 | — | 34 | 103 |
+| Buddhimanta Khan | @buddhimanta-khan | 47 | 31 | 14 | 108 | 34 | — |
+| Shuklambara Brahmachari | @shuklambara | 47 | 32 | 15 | 103 | 34 | 191 |
+| Ramadasa | — | 48 | 33 | 15 | — | 35 | — |
+| Kavichandra | @kavichandra | 48, 121 | 33, 122 | 15, 44 | — | 35, 114 | 171 |
+| Vijaya (the scribe) | @vijaya-dasa | 49 | 33 | 16 | 72 | 35 | — |
+| Ratneshvara Acharya | — | 49 | — | — | — | 35 | — |
+| Nandana Acharya | @nandana-acharya | — | 33 | 16, 34 | 100 | — | — |
+| Shridhara (Kholaveca) | @shridhara | 49, 117 (?) | 34 | 15 | 104 | 35 | 133 |
+| Vanamali, the poor brahmana, with his son | @vanamali-vipra | 49 | 35 | 15 (?) | — | 36 | 114 |
+| Halayudha (Thakura) | @halayudha | 50 | 36 | 15 | — | 36 | 134 |
+| Vasudeva (Bhadra) | — | 50 | 36 | 17 | — | 36 | — |
+| Ishana (Dasa) | @ishana-navadvipa | 50 | 37 | 16 | — | 37 | — |
+| Shriman (Pandita) | @shriman-pandita | 51 | 38 | 16 | 99, 113 | — | — |
+| Sanjaya (Mukunda-Sanjaya?) | @mukunda-sanjaya | 51 | 38 | 16 | 74, 98 (?) | — | — |
+| Kashishvara (the Lord's servant; Kashishvara Gosvami) | @kashishvara | 52, 74, 147 | 38, 59 | 16, 23 | 6 | 37, 53 | 137, 166 |
+| Jagadisha Pandita | @jagadisha-pandita | 52, 124 | 38, 125 | 16, 36 | 53, 106 | 37, 117 | 143 |
+| Gangadasa (the second) | — | 52 | 39 | 17 | — | 38 | 111 |
+| Krishnananda (of Navadvipa) | — | 52 | 39 | — | — | 38 | 167 |
+| Rama and Mukunda | — | 52 | 39 | 17 | — | 38 | — |
+| Vallabhacharya (Lakshmipriya's father) | @vallabhacharya | 53 | 40 | 17 | — | 38 | 44 |
+| Sanatana Mishra (Pandita) | @sanatana-mishra | 54 | 41 | 17 | — | 39 | 47 |
+| Kashinatha (the brahmana) | @kashinatha | 55 | 42 | 18 | — | 40 | 50 |
+| Vanamali Acharya | @vanamali-acharya | 55 | 42 | 18 | — | 40 | 49 |
+| Keshava Bharati | @keshava-bharati | 57 | 44 | 18 | — | 41 | 52, 117 |
+| Ramachandra Puri | @ramachandra-puri | 58 | 45 | 19 | — | 42 | 92 |
+| Paramananda Puri | @paramananda-puri | 58, 141 | 46, 79 (?) | 19, 30 (?) | — | 26 (?), 42 | 118 |
+| Damodara Puri | @damodara-puri | 59 | 46 | 19 (?) | — | 43 | 97 |
+| Narasimha (Nrisimhananda) Tirtha | @narasimha-tirtha | 59 | 47 | 19 | — | — | 100 |
+| Sukhananda Puri | @sukhananda-puri | 59 | 47 | 20 | — | — | 97 |
+| Govinda (Govindananda) Puri | @govinda-puri | 60, 141 | 47 | 20 | — | — | 97 |
+| Brahmananda Puri | @brahmananda-puri | 60 | 47 | 20 | — | — | — |
+| Nrisimha (Nrisimhananda) Puri / Bharati | @nrisimha-puri | 60 | 48 | 23 | — | 43 (?) | 100 |
+| Satyananda Bharati | @satyananda-bharati | 60 | 48 | 20 | — | 43 | 100 |
+| Garuda Avadhuta | @garuda-avadhuta | 61 | 48 | 21 | — | 44 | 101 |
+| Vishnu Puri | @vishnu-puri | 61 | 49 | 22 | — | 44 | — |
+| Brahmananda Svarupa | @brahmananda-svarupa | 62 | 50 | 21 | — | — | — |
+| Krishnananda Puri | @krishnananda-puri | 62 | 50 | 23 | — | — | 97 |
+| Raghava Puri | @raghava-puri | 62 | 50 | 21 | — | — | 97 |
+| Vishveshvarananda | @vishveshvarananda | 63 | 51 | 22 | — | 45 | — |
+| Keshava Puri | @keshava-puri | 63 | 52 | 21 | — | 45 | 97 |
+| Anubhavananda | @anubhavananda | 63 | 52 | 22 | — | 45 | — |
+| Chidananda | @chidananda | 63 | — | 22 (?) | — | 45 (?) | 100 |
+| Gopala Bhatta | @gopala-bhatta | 67–69, 73 | 56 | 24 | — | 49 | 184 |
+| Raghunatha Dasa Gosvami | @raghunatha-dasa | 70, 147 | 55 | 24 | — | 48 | 185–186 |
+| Raghava Gosvami (of Govardhana) | @raghava-gosvami-govardhana | 71 | 55 | 25 (?) | — | 48 | 162 |
+| Raghunatha Bhatta | @raghunatha-bhatta | 72 | 57, 136 | 25 | — | 50 | 185 |
+| Lokanatha Gosvami | @lokanatha | 72 | 58 | 25 | — | 51 | 187 |
+| Bhugarbha | @bhugarbha | 72 | 58 | 25 | — | 51 | 187 |
+| Prabodhananda Sarasvati | @prabodhananda-sarasvati | 73 | 61 | 24 | — | 52 | 163 |
+| Shuddha Sarasvati | @shuddha-sarasvati | 74 | 60 | 24 | — | 53 | — |
+| Raghava Pandita (Raghavananda) | @raghava-pandita | 74–75 | 63 | 25 (?) | 110 | 54 | 166 |
+| Purandara Pandita | @purandara-pandita | 76 | 64 | 25 | — | 55 | 91 |
+| Kashi Mishra | @kashi-mishra | 77 | 65 | 26 | — | 56 | 193 |
+| Vaninatha (Pattanayaka) | @vaninatha-raya | 78 | 65 | 26 | — | 56 | — |
+| Ramananda Raya | @ramananda-raya | 78–79, 148 | 67 | 26 | — | 57 | 120–124 |
+| Vakreshvara Pandita | @vakreshvara | 80, 147 | 68 | 26 | 6, 92 | 57 | 71–73 |
+| Govindananda (Sugriva Mishra) | @govindananda | 81–82, 111 | 69 | 26 | — | 58, 101 | 91 |
+| Gadadhara Dasa | @gadadhara-dasa | 83 | 70, 86, 91 | 27, 37 (?) | 45–46 | 59–60, 68 | 154–155 |
+| Sadashiva Kaviraja | @sadashiva-kaviraja | 84 | 71 | 27 | 47–48 | 60 | 156 |
+| Shivananda Sena | @shivananda-sena | 85 | 72–73 | 27 | 70 | 61 | 4, 176 |
+| Mukunda Dasa (of Shrikhanda) | @mukunda-dasa | 86–88 | 74 | 27 | — | 61–62 | 175 |
+| Raghunandana | @raghunandana | 86, 90 | 76 | 28 | — | 61, 63 | 70 |
+| Narahari Sarakara | @narahari-sarakara | 89–90, 147 | 75 | 28 | — | 63 | 177 |
+| Raghunatha (the vaidya) | — | 91 | 77 | 28 | 57 (?) | 64 | — |
+| Purandara Acharya | @purandara-acharya | 91 | 78 | 29 | 109 | 64 | — |
+| Krishnadasa of Akaihat | @krishnadasa-akaihat | 91 (?) | 79 | 29 (?) | — | 65 | — |
+| Paramananda Pandita, the Lord's fellow student | — | 92 | 79 | 30 | — | 65 | — |
+| Devananda Pandita | @devananda-pandita | 92 | 78 | 29 | — | 66 | 106 |
+| Acharyachandra | — | — | 78 | 29 | 62 | 66 | — |
+| Govinda Ghosha | @govinda-ghosha | 93 | 80, 91 | 30 | — | 67 | 188 |
+| Madhava (Madhavananda) Ghosha | @madhava-ghosha | 93 | 81 | 30 | 65 | 67 | 188 |
+| Vasu (Vasudeva) Ghosha | @vasu-ghosha | 93 | 82 | 30 | 65 | 67–68 | 188 |
+| Purushottama Dasa (Nagara), Devakinandana's guru | @purushottama-nagara | 94 | 87–94 | 1, 31 | 35–36 | — | 131 |
+| Abhirama (Ramadasa) | @abhirama | 95 | 83 | 31 | 21–25 | 17, 69–72 | 126 |
+| Sundarananda | @sundarananda | 96 | 84 | 31 | 26–28 | 73–74 | 127 |
+| Gauridasa Pandita | @gauridasa-pandita | 97–98, 126 | 99, 135 | 32 | 37–38 | 75–81, 122 | 128 |
+| Parameshvara Dasa | @parameshvara-dasa | 99 | 85 | 31 | 33–34 | 83–84 | 132 |
+| Kamalakara Pippalai | @kamalakara-pippalai | 100 | 96 | 32 | 29–30 (?) | 85–86 | 128 |
+| Purushottama (son of Ratnakara / "Tirtha") | — | 101 | 97 | 33 (?) | 41–42 (?) | — | — |
+| Kaliya (Kala) Krishnadasa | @kaliya-krishnadasa | 101 | 95 | 32 (?) | 43–44 | 88 | 132 |
+| Saranga (Sharnga) Thakura | @saranga-thakura | 102 | 101 | 35 | — | 89 | 172 |
+| Makaradhvaja Kara | @makaradhvaja-kara | 103 | 101 | 35 | — | 90 | 141, 168 |
+| Bhagavatacharya | @bhagavatacharya | 104 | 102 | 34 | — | 91 | 194–207 |
+| Kaviraja Mishra | @kaviraja-mishra | 104 | 102 | 33 | — | 91 | — |
+| Ananta Acharya | @ananta-acharya | 104 | 102 | — | — | 91 | 165 |
+| Madhu Pandita | @madhu-pandita | 105, 115 | 102, 116 | 33 | — | 92, 107 | — |
+| Govinda Acharya | @govinda-acharya | 105 | 103 | 34 | — | 93 | 41 |
+| Sarvabhauma Bhattacharya | @sarvabhauma | 106, 148 | 104 | 34 | — | 94 | 119 |
+| Prataparudra | @prataparudra | 106 | 105 | 35 | — | 95 | 118 |
+| Raghunatha (Yadunatha), the brahmana | — | 107 | 106 | 35 | — | 96 | — |
+| Vishnudasa, the vaidya | @vishnudasa-vaidya | 107 | 106–107 | 37 | — | 96 | — |
+| Vanamali Dasa, Vishnudasa's brother | @vanamali-dasa-vaidya | 107 | 107–108 | 37 | — | — | — |
+| Vipradasa of Utkala | @vipradasa-odia | 108 | 106 | 37 | — | 96 | — |
+| Haridasa the brahmana (Dvija Haridasa) | @dvija-haridasa | 108 | 106 | 35 | — | — | — |
+| Kanai Khutiya | @kanai-khutiya | 109 | 109 | — | — | 97 | — |
+| Jagannatha (Dasa), the Oriya singer | @jagannatha-dasa-odia | 109–110 | 109, 111 | 38 | — | 98–99 | — |
+| Balarama (Dasa), the Oriya | @balarama-dasa-odia | 109–110 | 109–110 | 38 | — | 98, 100 | — |
+| Kashishvara (the Oriya) | — | 112 | 112 | 38 | — | 102 | — |
+| Simheshvara | @simheshvara | 112 | 112 | 39 | — | 102 | — |
+| Shivananda Pandita (the Oriya) | — | 112 | 112 | 39 | — | 102 | — |
+| Chandaneshvara | @chandaneshvara | 112 | 112 | 38 | — | 102 | — |
+| Madhava Pattanayaka | @madhava-pattanayaka | 113 | 114 | 40 | — | 103 | — |
+| Hari Bhatta | @hari-bhatta | 113 | 114 | 40 | — | 103 | — |
+| Baladeva (Balarama) Mahiti | @baladeva-mahiti | 113 | 114 | 39 | — | 103 | — |
+| Subuddhi Mishra | @subuddhi-mishra | 114 | 113 | 39 | — | 58, 104 | 194–207 |
+| Shrinatha Mishra | @shrinatha-mishra | 114 | 113 | 39 | — | 104 | 171 |
+| Tulasi Mishra | @tulasi-mishra | 114 | 113 | 39 | — | 105 | — |
+| Kashinatha Mahiti | @kashinatha-mahiti | 114 | 113 | 40 | — | 105 | — |
+| Ramananda Vasu | @ramananda-vasu | 115 | 115 | 40 | — | 106 | 173 |
+| Purushottama Brahmachari | @purushottama-brahmachari | 115–116 | 116 | 40 | — | 107 | — |
+| Ramachandra, the brahmana | — | 117 | 117 | 41 | — | 108 | — |
+| Shrikara (Shridhara?) Pandita | — | 117 | 117 | 41 | — | 108 | — |
+| Yadunatha Kavichandra | @yadunatha-kavichandra | 117 | 117 | 41 | 55 (?) | 108 | — |
+| Dhananjaya Pandita | @dhananjaya-pandita | 117–118 | 118 | 41 | 49 | 109–110 | 127 |
+| Jagannatha (Pandita, Acharya) | — | 119 | 119 | 42 | — | — | 111 (?) |
+| Lakshmana Acharya | — | 119 | 119 | 42 | — | — | — |
+| Krishnadasa Pandita | — | 91 (?), 119 | 119 | 29, 46 | — | — | — |
+| Vamshivadana | @vamshivadana | 120 | 86 | 32 | — | 112 | 179 |
+| Murari Chaitanya Dasa | @murari-chaitanya-dasa | 120 | 121 | — | 56 | 113 | — |
+| Jagannatha Sena | @jagannatha-sena | 121 | 122 | 43 | — | 114 | 194–207 |
+| Paramananda Gupta | @paramananda-gupta | 121 | 122 | 43 | 61 | 114 | 194–207 |
+| Ramadasa (Rama), the boy | — | 121 | 122 | 44 | — | 114 | 145 (?) |
+| Vallabha Sena / Vallabhacharya | — | 122 | 123 | 44 | — | 115 | — |
+| Kamsari Sena | @kamsari-sena | 122 | 123 | 43 | — | 115 | 194–207 |
+| Bhaskara Thakura | @bhaskara-thakura | 122 | 123 | 43 | — | 115 | 114 |
+| Balarama Dasa, the singer | @balarama-dasa-poet | 123 | 124 | 44 | 51 (?) | 116 | — |
+| Mahesha Pandita | @mahesha-pandita | 124 | 125 | 44 | 50 | 117 | 129 |
+| Krishnadasa of Badagachhi | @krishnadasa-badagachhi | 125–128 | 127 | — | 54 | 120–124 | — |
+| Paramananda Avadhuta | @paramananda-avadhuta | 128 | 128 | 45 | — | 125 | — |
+| Anadi Gangadasa (Pandita) | — | 129 | 129 | 45 | — | 126 | — |
+| Vilasi Pandita | — | 129 | — | — | — | — | — |
+| Yadunatha Dasa | — | 129 | 129 | 46 | — | 126 | — |
+| Purushottama Tirtha (Puri) | @purushottama-tirtha | 130 | 130 | 47 | — | 87, 127 | 101 |
+| Jagannatha Tirtha | @jagannatha-tirtha | 130 | 130 | 47 | — | — | 100 |
+| Rama Tirtha | @rama-tirtha | 130 | 130 | 47 | — | 127 | 101 |
+| Raghunatha Tirtha (Puri) | @raghunatha-tirtha | 130 | 130 | 47 | — | 127 | 97 (?) |
+| Upendra Ashrama | @upendra-ashrama | 130 | 131 | 48 | — | 128 | 101 |
+| Hariharananda (Bharati) | @hariharananda | 130 | 131 | 48 | — | 128 | — |
+| Vasudeva Tirtha | @vasudeva-tirtha | 131 | 131 | 48 | — | 128 | 101 |
+| Ananta Puri | @ananta-puri | 131 | 131 | 48 | — | 128 | 97 |
+| Mukunda Kaviraja | — | 131 | 132 | 45 (?) | — | 129 | — |
+| Rajiva Pandita | — | 131 | — | — | — | 129 | — |
+| Jiva Pandita | @jiva-pandita | 132 | 132 | 45 | — | — | 169 |
+| Shishu Krishnadasa | @kanu-thakura | 133 | 133 | 46 | — | 130 | — |
+| Uddharana Datta | @uddharana-datta | 134 | 98 | 33 | 31–32 | 82 | 129 |
+| Madhava Acharya, author of the Krishna-mangala | @madhava-acharya-kavivallabha | 135 | 134 | 49 (?) | — | 131–132 | 169 |
+| Nrisimha Chaitanya Dasa | — | 135 | 135 | 49 | — | 133 | — |
+| Krishnadasa | — | 135 | — | — | — | 133 (?) | — |
+| Shankara Ghosha | @shankara-ghosha | 136 | 137 | 49 | — | 134 | 142 |
+| Shivananda Chakravarti | @shivananda-chakravarti | 137 | 139 | 49 | — | 136 | 183 |
+| Narayana (Paidari) | — | 137 | 139 | 49 | — | 136 | — |
+| Sankarshana Puri | @sankarshana-puri | 140, 142 | — | — | — | — | — |
+| Pradyumna Mishra | @pradyumna-mishra | — | 66 | 36 | — | — | 74 |
+| Bhavananda Raya | @bhavananda-raya | — | 66 | — | — | — | 122 |
+| Kalanidhi, Sudhanidhi, Gopinatha (Ramananda's brothers) | — | — | 66 | — | — | — | — |
+| Kavi Karnapura and his brothers Chaitanya Dasa, Ramadasa | @kavi-karnapura | — | 73 | 43 (?) | — | — | 145 |
+| Gauridasa the kirtaniya | — | — | 90 | — | — | — | — |
+| Purushottama Pandita | @purushottama-pandita | — | 100 | — | 39–40 | — | — |
+| Krishnadasa, Gauridasa's brother | @krishnadasa-poet | — | 135 | 32 (?) | — | — | — |
+| Ramachandra Dasa | — | — | 136 | — | — | — | — |
+| Madhusudana Upadhyaya | — | — | — | 28 | — | — | — |
+| Srishtidhara | — | — | — | 30 | — | — | — |
+| Tapana Mishra (Acharya) | @tapana-mishra | — | — | 36 | — | — | — |
+| Bhagavan Acharya | @bhagavan-acharya | — | — | 36 | — | — | 74 |
+| Chiranjiva | @chiranjiva-sena | — | — | 46 | — | — | 194–207, 209 |
+| Krishna Tirtha | — | — | — | 47 | — | — | — |
+| Madhavananda Acharya, Dasa Sanatana | — | — | — | 49 | — | — | — |
+| Krishnadasa, the brahmana born in Radha | — | — | — | — | 52 | — | — |
+| Chaturbhuja Pandita and his son Gangadasa ("Nandana") | — | — | — | — | 58 | — | — |
+| Vaishnavananda Acharya (formerly Raghunatha Puri) | @vaishnavananda | — | — | — | 59, 64 | — | — |
+| Paramananda Upadhyaya | — | — | — | — | 60 | — | — |
+| Krishnadasa (Krishnananda) and Devananda, Nityananda's associates | — | — | — | — | 63, 66 | — | — |
+| Manohara and Narayana | — | — | — | — | 66 | — | — |
+| Haridasa who lives on the seashore | — | — | — | — | 69 | — | — |
+| Govinda Datta | @govinda-datta | — | — | — | 71 | — | — |
+| Bhagavan Pandita, the scribe | — | — | — | — | 101 | — | — |
+| Vanamali Pandita, who saw the plough and pestle | — | — | — | — | 105, 113 | — | 144 |
+| Hiranya (Bhagavata, Pandita) | @hiranya-pandita | — | — | — | 106 | — | — |
+| Gopinatha Simha | @gopinatha-simha | — | — | — | 111 | — | 117 |
+| Manoratha Puri | — | — | — | — | — | 45 | — |
+| Nrisimhananda (Pradyumna) Brahmachari | @nrisimhananda | — | — | — | 94 | — | — |
+| Brahmananda Bharati | @brahmananda-bharati | — | — | — | 75 | — | — |

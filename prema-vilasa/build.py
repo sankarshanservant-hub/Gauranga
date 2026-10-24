@@ -1,4 +1,4 @@
-"""Собирает перевод «Према-виласы» (ru/en, виласы 01–23 — сколько готово) в MD, DOCX и PDF.
+"""Собирает перевод «Према-виласы» (ru/en, виласы 01–24 и «Полувиласа» 25) в MD, DOCX и PDF.
 Использует функции разбора и вёрстки из ../govinda-kadacha/build.py. Запуск: python3 build.py [ru|en].
 """
 import importlib.util, os, re, sys
@@ -26,9 +26,20 @@ META = {
 
 **Источник.** Издание 1913 г. (Калькутта, Багбазар; общественное достояние), сверенное по двум
 независимым OCR-копиям (изд. 1913 г. и его перепечатки 1999 г.). Переведён **только текст поэмы**:
-предисловия и примечания издателей не переводились. Переведены виласы 1–23 и заключительная «Полувиласа» (письма
-Шринивасы и Дживы Госвами и стихотворный указатель содержания); основной текст 24-й виласы (поздняя
-генеалогическая вставка) не переводился — его содержание передано лишь в указателе.
+предисловия и примечания издателей не переводились. Переведены все двадцать четыре виласы и заключительная «Полувиласа»
+(письма Шринивасы и Дживы Госвами и стихотворный указатель содержания).
+
+**О 24-й виласе.** Двадцать четвёртая виласа (около двух тысяч двустиший) по характеру резко отличается
+от остальных. В ней собраны житие Адвайты Ачарьи (во многом совпадающее с «Адвайта-пракашей» Ишаны
+Нагары), рассказы о Брахма-Харидасе, о родословии Махапрабху, о Вишварупе и Нитьянанде, о путешествии
+Махапрабху в Восточную Бенгалию, о женитьбе Нитьянанды и о Вирабхадре, а большую её часть занимают
+родословия и правила кулинской системы бенгальских брахманов (Адишура, Баллала Сена, Девивара,
+Камсанараяна). Подлинность этой виласы оспаривается: старые рукописи поэмы её не содержат, и
+Б. Маджумдар («Шри-Чайтанья-чаритер упадан») считает её позднейшим сочинением; в тексте заметны
+анахронизмы (блудница «из рода моголов» при Харидасе, Камсанараяна — современник Махапрабху, смешение
+логика Удаяны X в. с кулинским преобразователем) и сведения, неизвестные другим вайшнавским источникам.
+Виласа переведена полностью и точно, как она есть; спорные места, расхождения с «Чайтанья-чаритамритой»,
+«Чайтанья-бхагаватой» и другими источниками и признаки поздней вставки оговорены в примечаниях.
 
 **Принципы.** Двустишия-паяры переведены построчно, без рифмы, и пронумерованы в каждой виласе
 (в оригинале нумерации нет); трипади, песни и санскритские шлоки идут под одним номером. Испорченные
@@ -58,9 +69,21 @@ Vishnupura.
 
 **Source.** The edition of 1913 (Calcutta, Bagbazar; public domain), collated from two independent OCR
 copies (the 1913 edition and its 1999 reprint). **Only the poem itself** is translated: the editors'
-prefaces and notes are not. Vilasas 1–23 are translated, together with the closing "Half-vilasa"
-(the letters of Srinivasa and Jiva Gosvami and the verse index of contents); the main text of the
-twenty-fourth vilasa (a late genealogical addition) is not translated, its contents appear only in the index.
+prefaces and notes are not. All twenty-four vilasas are translated, together with the closing "Half-vilasa"
+(the letters of Srinivasa and Jiva Gosvami and the verse index of contents).
+
+**On the twenty-fourth vilasa.** The twenty-fourth vilasa (about two thousand couplets) differs sharply
+in character from the rest. It gathers a life of Advaita Acharya (largely agreeing with Ishana Nagara's
+*Advaita-prakasha*), accounts of Brahma-Haridasa, of Mahaprabhu's lineage, of Vishvarupa and Nityananda,
+of Mahaprabhu's journey to East Bengal, of Nityananda's marriage and of Virabhadra, while most of it is
+taken up by the genealogies and rules of the kulin system of the Bengali brahmanas (Adishura, Ballala
+Sena, Devivara, Kamsanarayana). Its authenticity is disputed: the old manuscripts of the poem do not
+contain it, and B. Majumdar (*Sri-Chaitanya-chariter upadan*) regards it as a late composition; the text
+shows anachronisms (a "Mughal" courtesan in Haridasa's time, Kamsanarayana as Mahaprabhu's contemporary,
+the conflation of the tenth-century logician Udayana with the kulin reformer) and information unknown to
+other Vaishnava sources. The vilasa is translated in full and faithfully, as it stands; disputed passages,
+divergences from the *Chaitanya-charitamrita*, the *Chaitanya-bhagavata* and other sources, and the signs
+of late interpolation are noted in the translator's notes.
 
 **Principles.** The payar couplets are translated line by line, without rhyme, and numbered within each
 vilasa (the original has no numbering); tripadi stanzas, songs and Sanskrit verses are numbered as single

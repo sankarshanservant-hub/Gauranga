@@ -1,0 +1,166 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты», Мадхья-кханда 15–28 (блок cb-m2). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml).
+
+- id: ev-madhai-ghat
+  title: "Раскаяние Мадхая: молитва Нитьянанде и гхат на Ганге"
+  title_en: "Madhai's repentance: his prayer to Nityananda and the ghat on the Ganga"
+  period: P07
+  order: 121.3
+  cb: "Мадхья 15"
+  themes: [mercy, offense]
+  notes: "После освобождения (ev-jagai-madhai-deliverance) Мадхай молит Нитьянанду о прощении и по Его слову строит гхат на Ганге."
+
+- id: ev-shrivasa-mother-in-law-expelled
+  title: "Тёща Шривасы, спрятавшаяся на ночном киртане"
+  title_en: "Shrivasa's mother-in-law hidden at the night kirtana"
+  period: P07
+  order: 121.6
+  cb: "Мадхья 16"
+  themes: [kirtan, ecstasy]
+  notes: "Господь не чувствует радости, пока спрятавшуюся тёщу Шривасы не выводят."
+
+- id: ev-advaita-steals-foot-dust
+  title: "Адвайта крадёт пыль со стоп Господа"
+  title_en: "Advaita steals the dust of the Lord's feet"
+  period: P07
+  order: 121.7
+  cb: "Мадхья 16"
+  themes: [ecstasy, mercy]
+  teaching: [associates-tattva]
+  notes: "Господь в ответ берёт пыль со стоп Адвайты: «Я обворую вора»."
+
+- id: ev-lalitapura-sannyasi
+  title: "Господь и Нитьянанда в доме санньяси-пьяницы в Лалитапуре"
+  title_en: "The Lord and Nityananda at the house of a wine-drinking sannyasi in Lalitapura"
+  period: P07
+  order: 112.7
+  cb: "Мадхья 19"
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy]
+  notes: "По пути в Шантипур (к ev-advaita-yoga-vasishtha-beating): санньяси-грихастха благословляет Господа богатством и женой, Господь учит, что нет благословения выше бхакти; узнав, что «ананда» санньяси — вино, Господь уходит и с Нитьянандой плывёт по Ганге к Адвайте."
+
+- id: ev-nityananda-advaita-meal-quarrel
+  title: "Трапеза у Адвайты: Нитьянанда разбрасывает рис, Адвайта в шутку бранит Его"
+  title_en: "Meal at Advaita's house: Nityananda scatters rice and Advaita mockingly scolds Him"
+  period: P07
+  order: 112.9
+  cb: "Мадхья 19"
+  themes: [prasada, pranks]
+  teaching: [associates-tattva]
+  notes: "После примирения Господа с Адвайтой (ev-advaita-yoga-vasishtha-beating), в Шантипуре. Ср. сходную перебранку после санньясы — ev-advaita-feast-shantipura."
+
+- id: ev-murari-dream-nityananda-elder
+  title: "Сон Мурари: Нитьянанда — старший брат; остатки бетеля и обличение Пракашананды"
+  title_en: "Murari's dream: Nityananda is the elder brother; betel remnants and the denunciation of Prakashananda"
+  period: P07
+  order: 113.2
+  cb: "Мадхья 20"
+  themes: [revelation, teaching]
+  teaching: [associates-tattva, vedanta]
+  notes: "Мурари кланяется Господу прежде Нитьянанды и получает укор; во сне видит Нитьянанду Халадхарой, которого обмахивает Господь, и наутро кланяется сперва Нитьянанде; Господь даёт ему остатки бетеля и в настроении Владыки обличает Пракашананду из Каши, считающего Его тело иллюзорным."
+
+- id: ev-murari-rice-lord-indigestion
+  title: "Мурари в экстазе кормит Кришну рисом; Господь «лечится» его водой"
+  title_en: "Murari feeds Krishna rice in ecstasy; the Lord 'cures' Himself with Murari's water"
+  period: P07
+  order: 113.25
+  cb: "Мадхья 20"
+  themes: [prasada, mercy]
+  notes: "Мурари бросает рис на пол со словами «Ешь, Кришна!»; наутро Господь приходит «лечить расстройство желудка» и выпивает его кувшин воды."
+
+- id: ev-murari-garuda
+  title: "Мурари в бхаве Гаруды носит Господа на плечах"
+  title_en: "Murari in the mood of Garuda carries the Lord on his shoulders"
+  period: P07
+  order: 113.3
+  cb: "Мадхья 20"
+  themes: [revelation, ecstasy]
+  bhava: [aishvarya]
+  notes: "В доме Шривасы Господь в четырёхруком облике зовёт Гаруду; Мурари отвечает «Я — Гаруда» и носит Его по двору."
+
+- id: ev-murari-knife
+  title: "Мурари решает оставить тело прежде Господа; Господь отбирает нож"
+  title_en: "Murari resolves to leave his body before the Lord departs; the Lord takes away the knife"
+  period: P07
+  order: 113.35
+  cb: "Мадхья 20"
+  themes: [mercy, separation]
+  notes: "Боясь пережить уход Господа (как Сита была оставлена, а Ядавы погибли), Мурари прячет нож; всеведущий Господь находит его и берёт с Мурари слово: «Иначе ты съешь Мою голову»."
+
+- id: ev-devananda-rebuked
+  title: "Господь обличает Девананду Пандита, выгнавшего Шривасу с чтения «Бхагаваты»"
+  title_en: "The Lord rebukes Devananda Pandita for expelling Shrivasa from his Bhagavata recitation"
+  period: P07
+  order: 113.5
+  cb: "Мадхья 21"
+  themes: [offense, teaching]
+  teaching: [scripture, vaishnava, bhakti-supremacy]
+  notes: "Ученики Девананды вытолкали плачущего от премы Шривасу; Господь, услышав толкование «Бхагаваты» без бхакти, хочет порвать книгу, а встретив Девананду, гневно укоряет его. Позднейшая милость к нему — ev-devananda-mercy (ЧБ Антья 3)."
+
+- id: ev-wine-shop-balarama-bhava
+  title: "Запах вина у кабака: Господь в бхаве Баларамы; пьяницы поют «Хари»"
+  title_en: "The smell of wine at a tavern: the Lord in Balarama's mood; the drunkards chant 'Hari'"
+  period: P07
+  order: 113.45
+  cb: "Мадхья 21"
+  themes: [ecstasy, mercy]
+  bhava: [balarama]
+  notes: "Шриваса удерживает Господа от входа в кабак; от взгляда Господа пьяницы пляшут и поют имена Хари."
+
+- id: ev-vishvarupa-pandits-assembly
+  title: "Отрок Вишварупа в собрании пандитов: трижды доказывает и опровергает толкование сутр"
+  title_en: "The boy Vishvarupa in the assembly of pandits: three times He establishes and refutes His explanation of the sutras"
+  period: P04
+  order: 5
+  cb: "Мадхья 22"
+  themes: [learning, family]
+  notes: "На вопрос бхаттачарьи Вишварупа отвечает «знаю понемногу»; отец, рассердившись, шлёпает Его по дороге; Вишварупа возвращается и трижды подряд обосновывает и опровергает толкование сутр. В ЧБ — воспоминание в рассказе об оскорблении Шачи (Мадхья 22)."
+
+- id: ev-milk-drinking-brahmachari
+  title: "Брахмачари, питающийся одним молоком, тайком смотрит киртан"
+  title_en: "The milk-drinking brahmachari secretly watches the kirtana"
+  period: P07
+  order: 122.2
+  cb: "Мадхья 23"
+  themes: [kirtan, teaching, mercy]
+  teaching: [bhakti-supremacy]
+  notes: "Шриваса прячет аскета-брахмачари в доме; Господь не чувствует радости и возвещает: «Никто не достигнет Меня, питаясь одним молоком; чандала, предавшийся Мне, — Мой»; когда тот смиренно уходит, Господь зовёт его и касается его головы стопой."
+
+- id: ev-gopi-bhava-krishna-thief
+  title: "Господь в бхаве гопи: «Гопи! Гопи!», гнев на имя «Кришна», «Вриндаван! Матхура!»"
+  title_en: "The Lord in the mood of a gopi: 'Gopi! Gopi!', anger at the name 'Krishna', 'Vrindavana! Mathura!'"
+  period: P07
+  order: 136
+  cb: "Мадхья 24"
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [gopi]
+  notes: "Целыми днями Господь зовёт «Гопи!», бранит Кришну-«воришку» (вспоминая Шурпанакху и Вали) и гонится за произносящими «Кришна», поёт «Гокула! Вриндаван! Матхура!», чертит ногтями на земле трижды изогнутый облик и рыдает. Ср. ev-students-offend-sannyasa-resolve (ЧЧ Ади 17: студент и «Гопи! Гопи!»)."
+
+- id: ev-duhkhi-named-sukhi
+  title: "Служанка Духкхи носит воду с Ганги — Господь нарекает её Сукхи"
+  title_en: "The maidservant Duhkhi carries Ganga water — the Lord names her Sukhi"
+  period: P07
+  order: 85.5
+  cb: "Мадхья 25"
+  themes: [mercy]
+  teaching: [vaishnava]
+  notes: "Служанка Шривасы ставит рядами кувшины с водой для омовения Господа после киртана; Господь велит звать её Сукхи («счастливая»), и Шриваса перестаёт обращаться с ней как со служанкой."
+
+- id: ev-lord-cannot-worship-vishnu-tears
+  title: "Господь не может совершить пуджу Вишну от слёз и поручает её Гададхаре"
+  title_en: "The Lord cannot perform Vishnu-puja for His tears and entrusts it to Gadadhara"
+  period: P07
+  order: 136.5
+  cb: "Мадхья 25"
+  themes: [ecstasy, deities]
+  bhava: [devotee]
+  notes: "Садясь за поклонение Вишну, Господь раз за разом промокает от слёз и меняет одежду; наконец говорит Гададхаре: «Поклоняйся ты — Я не настолько удачлив»."
+
+- id: ev-shuklambara-feast-vijaya-vision
+  title: "Господь ест рис, сваренный Шукламбарой; Виджая видит Его золотую руку"
+  title_en: "The Lord eats rice cooked by Shuklambara; Vijaya sees His golden hand"
+  period: P07
+  order: 137
+  cb: "Мадхья 26"
+  themes: [prasada, mercy, revelation]
+  notes: "По просьбе Господа Шукламбара, не касаясь пищи руками, варит рис с мякотью банана, и Господь в его доме у Ганги ест его с восторгом; во время отдыха писец Виджая Дас видит руку Господа золотой колонной в перстнях, сияющей до Брахмалоки, и семь дней бродит по Надии в экстазе. Ср. сырой рис Шукламбары — ev-shuklambara-mercy."
