@@ -105,7 +105,9 @@ other woman as “untouchable,” Ramanuja sent her back to her parents and left
 In the temple of Varadaraja, before the Deity he had long served, he accepted the saffron cloth and the tridanda of a
 Vaishnava sannyasi — three staffs signifying that mind, body and speech are given to Vishnu. From then on he was called
 Yati-raja, “king of renunciants.” The tridandis of his line bear the title “Ramanujarya-svami”; the single staff of
-Shankara's followers the Sri Vaishnavas do not accept. <!-- F26 -->
+Shankara's followers the Sri Vaishnavas do not accept. <!-- F26 --> Nisikanta Sanyal (“Sree Krishna Chaitanya,” 1933,
+with a foreword by Srila Bhaktisiddhanta) adds that Lakshmana accepted sannyasa on the bank of the Anantasaras, the temple tank at Kanchi,
+invoking the grace of Sri Yamunacharya, and soon became the head of the Sri-sampradaya. <!-- F65 -->
 
 ## Disciples in Kanchi
 Ramanuja established an ashrama by the temple in Kanchi and began to teach Vedanta and bhakti. The first to become his
