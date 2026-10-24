@@ -107,7 +107,7 @@ def build(ch, check=False):
     ru = parse_edits(ROOT / f'review/work/{ch}-ru.txt')
     en = parse_edits(ROOT / f'review/work/{ch}-en.txt')
     nums = [b['num'] for b in blocks]
-    for k in list(ru) + list(en):
+    for k in [x for x in list(ru) + list(en) if x != '0']:
         if k not in nums:
             raise SystemExit(f'нет блока {k}')
     # RU
