@@ -469,11 +469,10 @@ Sridhar Maharaj — and later received sannyasa from him as well. And Sripad B. 
 Swami, foreseeing how his disciples would need higher guidance after his departure, advised them to turn to Sridhar
 Maharaj. <!-- F94 -->
 
-The compilers of Srila Sridhar Maharaj’s book “Sri Guru and His Grace” write of this too: Swami “advised his senior
-disciples that if the need arose to consult higher spiritual authority after his disappearance, his senior
-godbrother, Srila Sridhar Maharaj, should be consulted. On more than one occasion he said, ‘I consider Srila Sridhar
-Maharaj to be my siksa-guru, instructing spiritual master, so what to speak of the benefit that others can have from
-his association.’” <!-- F123 -->
+The compilers of Srila Sridhar Maharaj’s book “Sri Guru and His Grace” confirm this: Swami advised his senior
+disciples to consult Sridhar Maharaj if they needed higher spiritual authority after his disappearance, and on more
+than one occasion he said, “I consider Srila Sridhar Maharaj to be my siksa-guru, instructing spiritual master, so what
+to speak of the benefit that others can have from his association.” <!-- F123 -->
 
 What he meant by the word “shiksha-guru” is best explained by his own commentary on the “Sri Chaitanya-charitamrita”.
 Krishnadasa Kaviraja writes: “I know my instructing Guru as Krishna’s personal form. The Lord manifests Himself in
