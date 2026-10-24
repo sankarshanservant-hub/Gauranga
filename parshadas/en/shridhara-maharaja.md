@@ -406,32 +406,210 @@ words on tape: “Going forward, the lion often looks back. In Sanskrit this is 
 putting all our strength into preaching, but sometimes we look back to learn what Srila Sridhar Maharaj thinks of
 it.” <!-- F96 -->
 
-<!-- СМЕНА 2: ниже — старый текст, заменить -->
-
-
 ## Writings
-His first book was the “Sri Sri Prapanna-jivanamrita”, a thorough study of sharanagati, surrender to the Lord, on the
-evidence of the scriptures. He wrote many songs, prayers and commentaries in Bengali and Sanskrit; among the most
-important are his commentaries on Srila Bhaktivinoda’s “Sharanagati”, his Bengali translations of the
-“Bhagavad-gita” and the “Bhakti-rasamrita-sindhu”, and his Sanskrit poem on Sri Chaitanya’s pastimes, the
-“Prema-dhama-deva-stotram”. Akinchana Krishnadasa Babaji, a well-known disciple of Srila Sarasvati Thakura, used to
-say that he saw no difference between his writings and those of Narottama Dasa Thakura. In English there appeared a
-book of his talks, “Golden Volcano of Divine Love”, and his explanation of Vasu Ghosha’s song “yadi gaura na ha’ta”
-is quoted in his book by Bhakti Vidhan Mahayogi Swami. <!-- F26 F27 F29 F33 F34 -->
+His first book was the “Sri Sri Prapanna-jivanamritam” — “The Nectar of Immortality for the Surrendered Soul”. It is
+a poem woven from many verses of the scriptures and of the Vaishnavas of the past and from his own Sanskrit aphorisms;
+step by step it unfolds the six limbs of sharanagati, surrender to the Lord, and stands as a thorough study of this
+science on the evidence of the shastras. <!-- F26 F99 -->
 
-An outstanding gift of his to the heritage of Sri Rupa’s followers is the “Gayatri-nigudhartha”, an explanation of
-the gayatri mantra in the spirit of the “Srimad-Bhagavatam”; enlightened souls call it the highest treasure of the
-Gaudiya Vaishnavas. The “bharga”, the effulgence on which the gayatri meditates, is Srimati Radharani, Krishna’s
-svarupa-shakti, who manifests Herself as Goloka, as effulgence, and as the power of the Lord’s pastimes. The sound of
-the gayatri is the song of Krishna’s flute, full of love for Radha, and the hidden meaning of the mantra is
-“radha-padam dhimahi”: we meditate on Radha’s feet, we serve Her. This is Mahaprabhu’s highest teaching.
-<!-- F28 I2 F31 Q2 -->
+In Sanskrit he composed other outstanding works as well: the “Prabhupada-padma-stavakah”, a poem in glorification of
+Srila Bhaktisiddhanta, and the “Sri Sri Prema-dhama-deva-stotram”, an exceedingly beautiful poem on the deeds and
+teachings of Sri Chaitanya Mahaprabhu; Akinchana Krishnadasa Babaji used to say that Srila Rupa Gosvami himself is
+present in it. Sridhar Maharaj wrote many songs, prayers and commentaries in Bengali and Sanskrit; among the most
+important are his commentaries on Srila Bhaktivinoda’s “Sharanagati” and his Bengali translations of the
+“Bhagavad-gita” and the “Bhakti-rasamrita-sindhu”. <!-- F98 F27 -->
+
+Krishnadasa Babaji often visited Hapania, Sridhar Maharaj’s birthplace, and would ask the villagers, “Is this where
+Srila Sridhar Maharaj studied? Is this the pond where he bathed?” Once Sridhar Maharaj asked him, “You are my
+godbrother — why do you visit the place of my birth?” — “Because I consider your works non-different from the
+writings of Srila Rupa Gosvami. I go there to put on my head the dust of the land where you displayed your
+pastimes.” According to one of the biographies, the Babaji also said that he saw no difference between his writings
+and those of Narottama Dasa Thakura. <!-- F97 F29 -->
+
+He placed his own commentary on the “Bhagavad-gita” in the line of the works of the succession: “In our line the
+‘Bhagavad-gita’ was commented on by Srila Vishvanatha Chakravarti Thakura, Srila Baladeva Vidyabhushana and other
+teachers. Some verses were explained by Srila Jiva Gosvami.” Srila Bhaktivinoda, translating the “Gita” into
+Bengali, relied mainly on Baladeva and Vishvanatha, while the original commentaries on the “Gita” and the
+“Bhagavatam” are held to be those of Sridhara Svami, which Sri Chaitanya Mahaprabhu Himself recognised. “I too tried
+to shed new light on some verses of the ‘Bhagavad-gita’,” Srila Sridhar Maharaj said: drawing on the previous
+teachers, he showed how the “Gita” unfolds the ideas of madhura-rasa and of its highest manifestation, parakiya-rasa,
+the transcendental love of Vraja. Once he asked Srila Bhaktivedanta Swami what he thought of his interpretation and
+heard, “What can I say? Your interpretation is absolutely correct.” Discussing with him the verse of the “Gita”
+(10.10) *dadāmi buddhi-yogaṁ taṁ, yena mām upayānti te* — “I give them that buddhi-yoga by which they come to Me” —
+he concluded that the word “upayanti” here points to parakiya-rasa, and Swami Maharaj agreed: “Yes, what is meant here
+is precisely the parakiya-rasa of Vraja. Nothing else can be the highest conclusion of the ‘Bhagavad-gita’.”
+<!-- F100 F101 Q7 -->
+
+The fruit of that youthful conviction that the gayatri is spiritual and will itself reveal its meaning was the
+“Gayatri-nigudhartha” — an explanation of the gayatri mantra in the spirit of the “Srimad-Bhagavatam”, from the
+standpoint of madhura-rasa; it is an outstanding gift to the heritage of Sri Rupa’s followers, and enlightened souls
+call it the highest treasure of the Gaudiya Vaishnavas. The “bharga”, the effulgence on which the gayatri meditates,
+is Srimati Radharani, Krishna’s svarupa-shakti, who manifests Herself as Goloka, as effulgence, and as the power of
+the Lord’s pastimes. The sound of the gayatri is the song of Krishna’s flute, full of love for Radha, and the hidden
+meaning of the mantra is “radha-padam dhimahi”: we meditate on Radha’s feet, we serve Her. This is Mahaprabhu’s
+highest teaching. <!-- F28 I2 F31 Q2 -->
 
 Srila Bhakti Pramoda Puri Maharaj wrote that this understanding of the Brahma-gayatri as centred on Srimati Radharani
 was revealed to Sridhar Maharaj in the depth of realisation by the mercy of Srila Bhaktisiddhanta, and that it is the
 best path to Krishna’s mercy. He recalled the words of the Upanishads, “shabalach chhyamam prapadye” — “through the
 Fair One I come to the Dark One”, through Radha to Krishna. For his gift of revealing to sincere souls the hidden
 meaning of the Lord’s pastimes of love, “Deva” was added to his name. <!-- F30 Q3 F32 -->
+
+His Sanskrit verses are carved in marble at the Imlitala temple in Vrindavan, built by Srila Bhakti Saranga Goswami
+Maharaj on the spot where Mahaprabhu sat beneath a tamarind (imli) tree when He came to Vrindavan. The verses speak of
+His pastime at that place and of the exact time of His coming to Vrindavan — a date usually considered unknown (the
+“Chaitanya-charitamrita” and other books contain only hints of it), here conveyed by number-words, as is customary in
+Sanskrit prosody. His godbrothers could not fully grasp the meaning of the shloka; it was explained by the young
+Gaurendu Brahmachari. When some objected that this date differed from the one given by Srila Bhaktisiddhanta, he
+replied, “Perhaps, but what my Guru Maharaj says is true, and I can prove it,” — and proved it with quotations from
+the “Chaitanya-charitamrita”. <!-- F136 -->
+
+His heritage was introduced to the West by Sripad Bhakti Sudhir Goswami Maharaj: the books “The Search for Sri
+Krishna, Reality the Beautiful”, “Sri Guru and His Grace”, “The Golden Volcano of Divine Love”, “Subjective Evolution
+of Consciousness” and “Loving Search for the Lost Servant” opened a new depth in the understanding of Krishna
+consciousness[^8]. Goswami Maharaj also wrote the book “Brothers” — about Srila Bhaktivedanta Swami, his diksha-guru,
+and Srila Sridhar Maharaj, his shiksha- and sannyasa-guru. Sridhar Maharaj’s explanation of Vasu Ghosha’s song “yadi
+gaura na ha’ta” is quoted in his book by one of his disciples. <!-- F33 F155 F34 -->
+
+## Brothers: Sridhar Maharaj and Bhaktivedanta Swami
+A special chapter of his life is his friendship with Abhay Charan De, the future Srila A. C. Bhaktivedanta Swami
+Prabhupada. They first met in 1930 in Allahabad. “At that time he had not yet accepted sannyasa,” Srila Bhaktivedanta
+Swami recalled many years later: Sridhar Maharaj had left home and come to Allahabad as a vanaprastha, dressed in
+white. “Krishna and Prabhupada chose him to prepare me,” he said (here, as in Sridhar Maharaj’s own words,
+“Prabhupada” means Srila Bhaktisiddhanta). Sridhar Maharaj lived in his house for many years; for more than five
+years they were in close association, often for five to seven hours a day, and Abhay, seeing in him a pure devotee,
+always took his instructions and advice very seriously. Though they were godbrothers, he invariably addressed him as
+“Your Divine Grace” and “Om Vishnupad” — forms of address used only for one’s spiritual master. <!-- F105 F106 -->
+
+They preached together, too. In Bombay, where Abhay, then still a householder, had a business office, they opened a
+local temple of the Gaudiya Math and organised two parties to collect donations; one of them consisted of Abhay,
+Sridhar Maharaj and Bhakti Saranga Goswami Maharaj. Calling on Abhay’s colleagues, the pharmacists, they collected
+about five thousand rupees: “I made the acquaintances, Sridhar Maharaj preached, and Goswami Maharaj collected the
+donations.” By the recollections of others, Abhay often accompanied Sridhar Maharaj to preaching programmes and played
+the mridanga, and when Sridhar Maharaj was ill he led the party himself — singing kirtana and lecturing on the
+“Srimad-Bhagavatam”. With him Abhay also discussed his misfortunes — failures in business and discord in the family —
+seeking their spiritual benefit, and he highly valued his gift of bringing out the very essence of the scriptures.
+<!-- F107 F108 F109 -->
+
+Once in Bombay they received a sannyasi of the Gaudiya Math who had returned from Europe: to their surprise, he had
+neither tridanda, nor shikha, nor sannyasi dress. He said that in the West he had been asked questions that could not
+be answered. Abhay began to ask what those questions were, and Sridhar Maharaj answered them all, one after another.
+And Abhay exclaimed, “Today Asia has conquered Europe!” <!-- F110 -->
+
+In Calcutta Abhay rented two houses on Sitakanta Banerjee Lane; one housed his pharmaceutical laboratory, and its
+upper rooms he gave to Sridhar Maharaj and his disciples — among them the young Gaurendu Brahmachari. When leaving
+Calcutta, Sridhar Maharaj told Gaurendu to study the “Gita” under Abhay, and he often took him along on his preaching
+tours. Abhay was then translating the “Bhagavad-gita” into English and writing a commentary on it, discussing it with
+Sridhar Maharaj; later the manuscript was burnt through an employee’s negligence. “When Srila Bhaktivedanta Swami
+Prabhupada began his translation of the ‘Bhagavad-gita’, he consulted me on many questions,” Srila Sridhar Maharaj
+said in March 1982. Abhay also helped to publish Sridhar Maharaj’s first book. Srila Govinda Maharaj recalled how he
+said to his sister Bhavini Didi, whom they also called Pishima: “The ‘Sri Sri Prapanna-jivanamritam’ is a much-needed
+and wonderful book. You have money. Please help to publish this book,” — and the first edition came out with her
+money. <!-- F111 F102 F103 -->
+
+The title “Bhaktivedanta”, which became known to the whole world, was given to Abhay Charan by none other than
+Sridhar Maharaj. After the Gaudiya Math broke apart many senior Vaishnavas took his shelter, and with difficult
+questions his godbrothers came to him. In 1959 sannyasa was given to Bhaktivedanta Prabhu by Srila Bhakti Prajnana
+Keshava Maharaj, Sridhar Maharaj’s first sannyasa disciple, who kept his title and gave him the name “Swami”. Setting
+out for America in 1965 on the “Jaladuta”, Srila Bhaktivedanta Swami carried among his few books the
+“Srimad-Bhagavatam” and the “Sri Sri Prapanna-jivanamritam”. And when some disciples of Srila Bhaktisiddhanta were
+displeased that Bhaktivedanta Swami was being called “Prabhupada” — a name once used only for their guru — Sridhar
+Maharaj rejoiced: “Yes, Prabhupada — he is fully worthy of this name.” <!-- F112 F113 F114 -->
+
+In 1967, returning from America, Srila Bhaktivedanta Swami stayed with him at the Sri Chaitanya Saraswat Math and took
+part in the celebration of his Vyasa-puja. He wrote to a disciple: “My godbrother B. R. Sridhar Maharaj has given us a
+whole house. He has also agreed to cooperate with our society. We shall celebrate his birthday, and our brahmacharis
+will learn how to celebrate the birthday of their spiritual master.” At that time he also proposed that Sridhar
+Maharaj become president of his young International Society for Krishna Consciousness. Seeing how absorbed the two
+godbrothers were in conversation, Swami Maharaj’s disciple Achyutananda later asked what they had spoken of, and
+heard: “If I tell you, you will faint. Sridhar Maharaj is an extraordinarily elevated soul!” <!-- F115 F116 -->
+
+Disciples deprived of his direct guidance Srila Bhaktivedanta Swami would send to Sridhar Maharaj. In one letter he
+writes that he can direct a disciple “to the most competent of all my godbrothers. This is B. R. Sridhar Maharaj,
+whom even I consider my shiksha-guru,” and advises: “live happily with Sridhar Maharaj.” Sridhar Maharaj, for his
+part, admired him: “What our Swami Maharaj has done is a miracle! What Bhaktivinoda Thakura conceived, Bhaktisiddhanta
+Sarasvati Thakura began to put into practice. And we see that through Swami Maharaj, at the end of his life, this
+plan has been fulfilled so completely. We are happy, we are glad, we are proud of it!” With tears in his eyes Swami
+Maharaj replied that everything had come by the mercy of Guru and the Vaishnavas, and asked Sridhar Maharaj to go on
+blessing him. “Bhaktivedanta Swami Maharaj has bored a tunnel through the mountain of the Western ego!” Srila Sridhar
+Maharaj said more than once. <!-- F117 F118 -->
+
+Anxious about his health, Srila Bhaktivedanta Swami wrote to Srila Govinda Maharaj: ask Sridhar Maharaj whether I
+should go to Vrindavan to leave my body there or remain in the West. Sridhar Maharaj dictated the reply: “Wherever
+you are, there is Vrindavan. Krishna is always with you and will always come to your aid. And if you should leave
+your body in New York, it will mean that Vrindavan has come to you in New York — do not doubt it.” Later Swami Maharaj
+wrote: “The instructions of Sripad Sridhar Maharaj I keep in the very core of my heart. Always and in everything he is
+my well-wisher. Certainly, after the departure of Prabhupada I should accept his guidance. And he has instructed me to
+remain in this country for good!” One of the biographies also writes of this letter — of the constant well-wisher
+whose instructions he accepts “on my head”. <!-- F119 F21 -->
+
+Srila Bhaktivedanta Swami sometimes stayed at his Math, and Sridhar Maharaj — always together with Srila Govinda
+Maharaj — visited him at the Chandrodaya Mandir in Mayapur. On 17 March 1973, at the opening of that temple, they sat
+on one vyasasana, and Swami Maharaj recalled: “I am very fortunate: for a long time, from about 1930, I have had the
+opportunity to associate with Srila Sridhar Maharaj. Maharaj, do you remember the time when you came to Allahabad and
+we met?” — and added: “I always knew he is a real Vaishnava.” Sridhar Maharaj was unwell, and at his request Srila
+Govinda Maharaj spoke in his place. He began with a verse of Raghupati Upadhyaya: “To whom can I tell it, and who now
+will believe that the Brahman, in the groves on the Yamuna’s bank, is the beloved of the young cowherd wives?” — who
+would believe that Abhay Babu, the householder everyone knew from the Gaudiya Math programmes, had become a world
+acharya? And he said that Swami Maharaj accepted Sridhar Maharaj as his shiksha-guru. Swami Maharaj confirmed: “I love
+him as my own son, and his Gurudeva, Sridhar Maharaj, I consider my shiksha-guru.” “He glorified me, calling me ‘Om
+Vishnupad’,” Srila Sridhar Maharaj recalled. <!-- F120 F121 -->
+
+Despite Srila Bhaktivedanta Swami’s many requests, Sridhar Maharaj never went to preach outside India: “I did not want
+to become a big man. It is not in my nature. I would not like to be surrounded by crowds. I am content with what I
+have. Reflection on the spiritual is my life. To live by the conclusions of the scriptures and the counsel of the
+mahajanas, to discuss them in the circle of close devotees — that is the main purpose of my life.” <!-- F122 -->
+
+In March 1977, shortly before his departure, Swami Maharaj came to him in Navadvip for the last time: “I do not know
+how much longer I shall last, so I have come to see Sridhar.” He asked him to settle in Mayapur: Srila Prabhupada
+[Bhaktisiddhanta] had always wanted Sridhar Maharaj to preach and had told him more than once, “Why don’t you drag him
+out?”; the disciples would build a house where they would live together, with a lift and a car; “Sometimes I need to
+consult someone, but I have no one who could give good advice, and I need it very much.” Sridhar Maharaj answered:
+“Yes, as long as I have strength, as long as I live, to fulfil Prabhupada’s desire…” Yet he never moved, and later
+explained it thus: “At that time I did not think I would live longer than he, and so I promised to come to Mayapur
+whenever possible.” In that conversation Swami Maharaj also spoke of the planetarium. Sridhar Maharaj dearly loved
+Srila Sanatana Gosvami’s “Brihad-bhagavatamrita” and dreamed of an exhibition where dioramas would depict the worlds
+of the spiritual sky described in it, up to Goloka Vrindavan; unable to build it himself, he proposed it to Swami
+Maharaj, who took up the idea with enthusiasm: “The planetarium will be built under your direction.” <!-- F123 F124 -->
+
+After Srila Bhaktivedanta Swami’s departure Sridhar Maharaj said: “I consider him a shaktyavesha-avatara.” The proof
+is both the verses he wrote while crossing the Atlantic and all that he accomplished in the West. In the “Prayer to
+the Lotus Feet of Krishna” Swami Maharaj, seeing in his guru, Srila Bhaktisiddhanta, the embodiment of Srimati
+Radharani, and in his order a service to Her, humbly deems himself unworthy of that service and asks Krishna to serve
+his guru; and in answer to this sincere prayer a special divine power descended: “Otherwise all this would have been
+impossible.” Sridhar Maharaj composed for him a pranama-mantra, recited daily in the centres of the Sri Chaitanya
+Saraswat Math: <!-- F125 F126 -->
+
+*namaḥ oṁ viṣṇupādāya kṛṣṇa-preṣṭhāya bhū-tale*  
+*svāmī-śrī-bhaktivedānta-prabhupādāya te namaḥ*  
+*gurv-ājñāṁ śirasi-dhṛtvā śakty-āveśa-sva-rūpiṇe*  
+*hare-kṛṣṇeti mantreṇa pāścātya-prācya-tāriṇe*  
+*viśvācārya-prabaryāya divya-kāruṇya-mūrtaye*  
+*śrī-bhāgavata-mādhurya-gītā-jñāna-pradāyine*  
+*gaura-śrī-rūpa-siddhānta-sarasvatī-niṣeviṇe*  
+*rādhā-kṛṣṇa-padāmbhoja-bhṛṅgāya gurave namaḥ*
+
+“Obeisance to you, Om Vishnupada, so dear to Krishna here on earth — Swami Sri Bhaktivedanta Prabhupada! Obeisance to
+him who, taking the order of his guru upon his head, became a shaktyavesha, an embodiment of the Lord’s special power,
+and by the mantra Hare Krishna delivered both West and East; to the best of the world’s acharyas, the embodiment of
+divine compassion, the giver of the sweetness of the ‘Bhagavatam’ and the knowledge of the ‘Gita’; to the devoted
+servant of Gaura, Sri Rupa and Bhaktisiddhanta Sarasvati; to the bee at the lotus feet of Radha and Krishna — to the
+guru, obeisance.” <!-- Q8 -->
+
+After Srila Bhaktivedanta Swami’s departure many of his followers, on his advice, turned to Sridhar Maharaj for
+guidance, and he revealed to them the depth of Vaishnavism. He taught that the spiritual revolution takes place within
+a person: first one must change oneself — and then the world around will change; direct service to Krishna attracts
+only beginners, while devotees of a higher level seek the Lord’s mercy by pleasing His intimate servants — the guru and
+his circle, and ultimately Nityananda Prabhu and Srimati Radharani. Thus Sripad B. A. Sagar Maharaj, one of the first
+disciples of Srila Bhaktivedanta Swami, accepted Sridhar Maharaj’s guidance on his recommendation, and Sridhar Maharaj
+became his sannyasa-guru. Comparing Sridhar Maharaj with another of his godbrothers, Keshava Maharaj, Srila
+Bhaktivedanta Swami is remembered to have said that the first possessed depth and the second breadth. So in the lives
+of the two brothers their special lila was revealed: the younger saw in the elder his shiksha-guru, and the elder in
+the younger a shaktyavesha-avatara. <!-- F127 F128 I5 -->
+
+<!-- СМЕНА 2: ниже — старый текст, заменить -->
+
+
 
 ## Godbrothers and Disciples
 Many godbrothers honoured him as their senior and regarded him as their shiksha-guru — among them Srila A. C.
@@ -477,3 +655,6 @@ Sridhara[^99]. Many devoted followers carry his teaching through the world to th
     founded soon after Srila Bhaktisiddhanta’s departure.
 [^7]: The verse quoted speaks of many books, commentaries and disputes; next to it in the same list stands the rule
     not to take many disciples (cf. CC, Madhya 22.114: “One should not take a great number of disciples…”).
+[^8]: “Our Teachers” names these books in its account of B. S. Goswami Maharaj — “his books”; they are the talks and
+    writings of Srila Sridhar Maharaj in his editing and publication. One of the biographies expressly calls “Golden
+    Volcano of Divine Love” a book of Srila Sridhar Maharaj.
