@@ -352,7 +352,7 @@ sincere soul. <!-- F88 I4 -->
 
 Helping everyone, he did not, however, overexert himself: the “Bhakti-rasamrita-sindhu”, in listing the sixty-four
 limbs of bhakti, warns against superfluous undertakings — not to build too many temples, not to hold large preaching
-programmes — and he would quote a verse from it[^7]:
+programmes — and he would quote a verse from it[^6]:
 
 *bahu-granthakalābhyāsa-vyākhyā-vāda-vivarjanam*  
 *vyavahāre ’py akārpaṇyaṁ śokādy-avaśa-vartitā*
@@ -367,7 +367,7 @@ rule an empire and still have time to rest. Another wears himself out trying to 
 does not succeed.” Each must do what is within his power. <!-- F89 -->
 
 ## Sri Chaitanya Saraswat Math
-In 1941 Srila Sridhar Maharaj founded the Sri Chaitanya Saraswat Math[^6]. At first it was only a thatched hut on the
+In 1941 Srila Sridhar Maharaj founded the Sri Chaitanya Saraswat Math[^7]. At first it was only a thatched hut on the
 bank of the Ganges, but even then he composed a shloka that foretold the future worldwide glory of the Math. The plot
 with its tumbledown hut was given to him by Sriyukta Sakhi Charan Ray, who bought it with his own money. Before that
 he had lived for some time in a rented house together with Sripad Keshava Maharaj, and sometimes at the math in
@@ -607,21 +607,107 @@ Bhaktivedanta Swami is remembered to have said that the first possessed depth an
 of the two brothers their special lila was revealed: the younger saw in the elder his shiksha-guru, and the elder in
 the younger a shaktyavesha-avatara. <!-- F127 F128 I5 -->
 
-<!-- СМЕНА 2: ниже — старый текст, заменить -->
+## The Disciple and Successor
+In the spring of 1947 a sankirtana party from the Sri Chaitanya Saraswat Math came to Nandaghat, and a
+seventeen-year-old youth — the future Srila Govinda Maharaj — went with it to Navadvip. He came to the feet of
+Sridhar Maharaj on the day of Nrisimha Chaturdashi. Sridhar Maharaj asked him two questions: could he stay in the
+Math and dedicate his whole life to service — and would he follow the instructions of his guru and not his own
+mind? The youth answered “yes” without the slightest hesitation. And Sripad Krishnadasa Babaji then said to Sridhar
+Maharaj, “Please give special attention to Sri Gaurendu Brahmachari — he is very intelligent and has outstanding
+qualities.” <!-- F129 F92 -->
 
+By a rule he himself had laid down, a newcomer waited at least six months for initiation; but here Sridhar Maharaj
+broke his own rule: only a month later, at the Ratha-yatra, he initiated the youth and gave him the name Gaurendu
+Brahmachari, and a week after that he introduced him to his godbrothers as his successor. Akinchana Krishnadasa
+Babaji accepted the youth as his own son; Bhakti Prajnana Keshava, Bhakti Saranga Goswami, Sakhi Babu, Ram Gopal
+Babu, Madhava Maharaj and Jajabar Maharaj spoke of his extraordinary gifts — and this confirmed Sridhar Maharaj in his
+decision to make Gaurendu his successor and the acharya of the Math. He drew him close as his personal servant and
+himself taught him the truths of the scriptures, Vaishnava etiquette and Sanskrit poetics; for more than forty years
+Srila Govinda Maharaj was his trusted servant and personal physician. The choice of a young and almost unknown
+disciple surprised many, but Sridhar Maharaj stood firm and asked those who disagreed to leave the society. “This
+youth will become a great saint and will deliver thousands of souls,” he foretold. <!-- F130 F131 F132 -->
 
+When Srila Bhaktivedanta Swami was in Mathura, Keshava Maharaj told him that Sridhar Maharaj intended to publish a
+journal, the “Gaudiya Darshan”; and in his very first letter from America, addressed to Govinda Maharaj, Swami
+Maharaj rejoiced at the first issues received “from the Math of Sripad Sridhar Maharaj in Navadvip”: “He has an
+excellent assistant in young Govinda Maharaj, and I think this is a very fortunate choice.” <!-- F133 -->
 
-## Godbrothers and Disciples
-Many godbrothers honoured him as their senior and regarded him as their shiksha-guru — among them Srila A. C.
-Bhaktivedanta Swami, Bhakti Prajnana Keshava, Bhakti Saranga Goswami, Bhakti Dayita Madhava and Bhakti Pramoda Puri.
-Srila Bhaktivedanta Swami wrote that he accepted his instructions “on my head”, that Sridhar Maharaj was his constant
-well-wisher, that after the departure of Srila Sarasvati Thakura one should heed him, and that from him he had
-received the instruction to remain “in this country” for good. <!-- F20 F21 -->
+A pro-rector of Calcutta University who had heard Gaurendu debate said to Sridhar Maharaj, “Pay attention to this
+youth. He will make your name glorious.” Once, because of a severe migraine, Sridhar Maharaj sent the twenty-one-year
+-old Gaurendu in his place to speak on the “Srimad-Bhagavatam” at a memorial gathering in the house of the Calcutta
+businessman Sri Satkari Banerjee; the host later said that the listeners — among them at least eight doctors of
+philosophy — were satisfied in the highest degree: “This boy has satisfied our intellectual hunger.” It was Satkari
+Banerjee who paid all the expenses of the installation of the Deities at the Sri Chaitanya Saraswat Math. In
+Chaitanyapur, at a zamindar’s house, they were expecting Sridhar Maharaj himself, but Gaurendu came — and answered
+every question. One zamindar said to Sridhar Maharaj of the brahmachari he had sent: “He appeared like a little
+cobra…” <!-- F134 -->
 
-Srila Bhakti Pramoda Puri Maharaj was his close companion throughout life, as were Bhakti Prajnana Keshava and
-Akinchana Krishnadasa Babaji. Srila Bhakti Ballabha Tirtha Maharaj, too, received his blessings and close
-association. Bhakti Vidhan Mahayogi Swami calls both him and Srila Bhaktivedanta Swami his spiritual masters.
-<!-- F22 F23 F40 -->
+Sridhar Maharaj spoke of his disciple with love: “Many times I have seen that his advice helped me in the most
+varied situations… Certainly he has siddhis”; “He never saw our Guru Maharaj, Srila Bhaktisiddhanta Sarasvati, yet
+there is so much in common in their convictions, as if they had associated many times.” The story of how young
+Gaurendu asked a sannyasi reputed to be a great pandit whether God can commit suicide he often recalled, but added
+that such a question should not be asked. <!-- F135 -->
+
+Once, setting out for Vrindavan with his disciples, Sridhar Maharaj met at the station Sripad Bhakti Pradipa Tirtha
+Maharaj with his disciples; relations between them were not very close at the time. Gaurendu asked, “Tirtha Maharaj is
+here. I feel I should offer him my respects. Will you allow me to do so?” — “Yes, of course,” Sridhar Maharaj replied.
+<!-- F137 -->
+
+Sridhar Maharaj discussed his compositions with Govinda Maharaj, an expert in alankara, Sanskrit poetics: when he was
+pondering a shloka, his disciple would suggest variants. Some of these shlokas have not been published, and many were
+never written down — they are known only from Srila Govinda Maharaj. Under Sridhar Maharaj’s guidance Ram Gopal Babu,
+too, worked on the “Bhakti-rasamrita-sindhu” — a disciple of Srila Bhaktisiddhanta, a Master of Arts of Calcutta
+University and zamindar of the Sampal district. <!-- F138 -->
+
+For forty years Sridhar Maharaj prepared his disciple for the service of acharya and had long insisted that he take
+sannyasa: “After you accept sannyasa, I will hand over all my duties to you.” By 1964 Gaurendu was still not a
+sannyasi, which greatly grieved Guru Maharaj. At last, in 1985, he called his disciple: “The day after tomorrow you
+will accept sannyasa,” — and to the request for three months he answered, “No, you will accept sannyasa the day after
+tomorrow, otherwise I shall die today.” He invited Sripad Puri Maharaj, and two days later, when he arrived, Srila
+Govinda Maharaj accepted sannyasa. The next morning was Sridhar Maharaj’s own appearance day. “Srila Guru Maharaj,
+yesterday you gave sannyasa to Srila Govinda Maharaj, but I think he accepted sannyasa many, many lifetimes ago,” Sripad
+B. A. Sagar Maharaj said to him. “You mean that this was done only to show people his true position, but in fact he
+has held it for a long time?” Guru Maharaj replied, and, smiling and laughing, spoke for hours about his disciple.
+“It was the appearance day of the Guru himself, but the Guru was performing kirtana to his disciple!” Sagar Maharaj
+recalled. For more than three hours at his Vyasa-puja he glorified Srila Govinda Maharaj — his deep understanding of
+the scriptures, his ability to harmonise everything, his exalted devotional nature, his serious and responsible
+approach to every task. On Gaura-purnima 1986 he proclaimed Srila Govinda Maharaj acharya of the mission, handed over
+to him all his authority and himself seated him in his own acharya’s chair[^9]. <!-- F139 F140 -->
+
+In his will he briefly explained why he had chosen Srila Govinda Maharaj as acharya. From Gaura-purnima 1986 until his
+departure he no longer accepted disciples, and when Govinda Maharaj was away from the Math he himself gave initiation
+— in his disciple’s name. There was a time when, citing his advanced age, he had decided to accept no disciples at
+all, and began to initiate people from the West only after his beloved disciple vowed to him to take care of the
+Deities, the mission and all the devotees. <!-- F141 F148 -->
+
+Once he said to his disciple, “I consider your spiritual position higher than mine,” and explained: “I have often
+found that your advice and suggestions are very valuable to me. Before, it was so only with Vasudeva Prabhu. In any
+case, I often have the feeling that you are more qualified than I.” He composed a pranama-mantra for Srila Govinda
+Maharaj — a case unprecedented in the history of the sampradaya, when the teacher glorifies his disciple — and ordered
+his picture to be placed on the altar for daily worship. He often said, “Srila Govinda Maharaj is a paramahamsa by
+his very nature.” <!-- F143 F157 -->
+
+*gurvābhīṣṭa-supūrakaṁ guru-gaṇair āśīṣa-sambhūṣitaṁ*  
+*cintyācintya-samasta-veda-nipuṇaṁ śrī-rūpa-panthānugam*  
+*govindābhidham ujjvalaṁ vara-tanuṁ bhakty-anvitaṁ sundaraṁ*  
+*vande viśva-guruñ ca divya-bhagavat-premṇo hi bīja-pradam*
+
+“I bow to him who perfectly fulfils the innermost desires of his guru, who is adorned with the blessings of the whole
+guru-varga, who is versed in all the Vedas — in the conceivable and the inconceivable — and follows the path of Sri
+Rupa; to him who is called Govinda, radiant, beautiful of form, full of devotion — the teacher of the world, the giver
+of the seed of divine love for the Lord.” <!-- Q9 -->
+
+He taught that the relationship of guru and disciple is not limited to dasya-rasa, the relation of master and servant:
+it can be friendly, and at times even coloured by the parental feeling of a disciple who surrounds his Gurudeva with
+care and attention. <!-- F144 -->
+
+Sripad Bhakti Sudhir Goswami Maharaj recalled his words: “In fact, in many respects Srila Govinda Maharaj is more
+qualified than I.” Shortly before his departure, seeing Goswami Maharaj off to the West, Sridhar Maharaj called him to
+his bedside, took him firmly by the shoulders and said: “Goswami Maharaj, this may be my last instruction to you... My
+sincere and ardent desire is — help Govinda Maharaj. Do you promise?” <!-- F145 -->
+
+The translator of one of the biographies, too, calls him and Srila Bhaktivedanta Swami his spiritual masters.
+<!-- F40 -->
 
 ## Last Years and Departure
 When he spoke of the Lord’s pastimes his speech was wondrous: his voice and every movement breathed love, and one
@@ -630,9 +716,51 @@ to hear from him the teaching of Srila Bhaktisiddhanta and the previous acharyas
 These talks were recorded on audio and video, transcribed, and are published by the Sri Chaitanya Saraswat Math and
 his followers. <!-- F35 F36 -->
 
-In his last days he was absorbed in the mood of separation and in longing to serve Sri Sri Radha-Govinda. Srila
-Bhakti Rakshaka Sridhar Deva Goswami Maharaj entered the eternal pastimes in 1988, on the Amavasya of the month of
-Sridhara[^99]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
+Having handed over the post of acharya, he withdrew into his room and spent the last years of his manifest pastimes
+in deep experience of divine separation from the Lord and in longing to serve Sri Sri Radha-Govinda. In June 1988, as
+Sripad Shrutashrava Prabhu recalled, hardly anyone was admitted to him any more except Srila Govinda Maharaj; when he
+came in and sat beside him, Guru Maharaj was transformed: with one arm he embraced him, and in the other hand he held
+his palm. (On his very first visit, at Gaura-purnima, Shrutashrava had seen Govinda Maharaj singing verses of the
+“Chaitanya-charitamrita” to Sridhar Maharaj to please him.) <!-- F147 F37 F146 -->
+
+Srila Bhakti Rakshaka Sridhar Deva Goswami Maharaj entered the eternal pastimes on 12 August 1988, on the Amavasya of
+the month of Sridhara, in the ninety-third year of his life[^10]. <!-- F142 F38 -->
+
+A year later, in 1989, on his appearance day, Srila B. K. Tapasvi Maharaj said to the devotees gathered at the Sri
+Chaitanya Saraswat Math: “Srila Sridhar Maharaj was an outstanding follower of our Gurudeva, Srila Bhaktisiddhanta
+Sarasvati Goswami Maharaj, and he chose Srila Govinda Maharaj as his successor. Therefore, my dear devotees, please
+accept him as the successor of Srila Sridhar Maharaj.” Srila Govinda Maharaj was blessed also by Sridhar Maharaj’s
+godbrothers — B. V. Jajabar Maharaj, B. D. Madhava Maharaj, Krishnadasa Babaji Maharaj, B. P. Puri Maharaj, B. K.
+Shanta Maharaj and Satprasangananda Prabhu. <!-- F150 -->
+
+## Legacy
+The whole life of Srila Sridhar Maharaj was an embodiment of sharanagati, and all his gifts are imbued with the spirit
+of surrender; but his most generous gift was a sharanagata-bhakta — Srila Govinda Maharaj. “The precious gift of
+Srila Sridhar Maharaj to the whole world was his beloved disciple and successor, Srila Govinda Maharaj,” they say in
+his mission. From 1992 Srila Govinda Maharaj preached all over the world, and through him people of more than forty
+countries came to know the life and teaching of Sridhar Maharaj. In 1995 his book “Sri Guru and His Grace” appeared
+in Russian for the first time. <!-- F104 F153 -->
+
+Srila Govinda Maharaj said: “Srila Sridhar Maharaj is my diksha- and shiksha-guru. Srila Bhaktivedanta Swami
+Maharaj, by the mercy of Srila Sridhar Maharaj, is also my shiksha-guru.” Both of them gave the world the Hare
+Krishna maha-mantra, and “they did not intend to create sects — why should we do so?” “I am a disciple of Srila
+Sridhar Maharaj, and from my youth I adopted his attitude to the world. In everyone I see a friend.” <!-- F152 -->
+
+Sripad B. V. Goswami Maharaj, who first came to Sridhar Maharaj’s temple in Santa Fe and began his acquaintance with
+his books with “Sri Guru and His Grace”, said in Moscow on 26 October 2005 — on Sridhar Maharaj’s Vyasa-puja, the
+hundred and eleventh anniversary of his appearance — that with Sridhar Maharaj a familiar theme often takes an
+unexpected turn that opens a new depth in it. Thus, speaking of Srimati Radharani, he said that we are in essence
+shaktas; not worshippers of mundane power, but shuddha-shaktas: Srimati Radharani is the shuddha-shakti, the pure
+internal potency of the Lord. In this he follows Srila Bhaktisiddhanta: “They worship Radharani because She is dear to
+Krishna, but we worship Krishna because He is dear to Radharani.” A new depth was opened also by his exposition of
+the five levels of knowledge — pratyaksha, paroksha, aparoksha, adhokshaja and aprakrita. <!-- F154 -->
+
+In the books of the Sri Chaitanya Saraswat Math he is the Founder-Acharya; among the great disciples of Srila
+Bhaktisiddhanta he is named first. His life and teachings were briefly described by Sripad B. A. Sagar Maharaj in the
+book “Srila Guru Maharaj: His Divine Pastimes and Teachings in Brief”, and recordings of his talks are collected in an
+audio archive (sridharmaharaj.ru). Many devoted followers carry his teaching through the world to this day.
+<!-- F151 F156 F39 -->
+
 
 [^1]: The day of his appearance is given in “Nashi uchitelya” (“Our Teachers”), a book of the Sri Chaitanya Saraswat
     Math; one of the biographies gives only the year and the place. That day was the Krishna Navami of the month of
@@ -648,13 +776,21 @@ Sridhara[^99]. Many devoted followers carry his teaching through the world to th
     of his departure, and “tuhu doya-sagara” was sung by Navina Krishna Vidyalankara. The account of Srila Govinda
     Maharaj and Srila Sridhar Maharaj’s own words (“exactly one day before his departure”) place it on the eve of the
     departure; we follow them here.
-[^99]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
-    Sridhara, which in 1988 fell in August.
-[^6]: The year of the founding is given in “Our Teachers”; the same book records his own recollection that he first
+[^6]: The verse quoted speaks of many books, commentaries and disputes; next to it in the same list stands the rule
+    not to take many disciples (cf. CC, Madhya 22.114: “One should not take a great number of disciples…”).
+[^7]: The year of the founding is given in “Our Teachers”; the same book records his own recollection that he first
     came to the donated land on the day of the Ratha-yatra in 1942. According to one of the biographies, the Math was
     founded soon after Srila Bhaktisiddhanta’s departure.
-[^7]: The verse quoted speaks of many books, commentaries and disputes; next to it in the same list stands the rule
-    not to take many disciples (cf. CC, Madhya 22.114: “One should not take a great number of disciples…”).
 [^8]: “Our Teachers” names these books in its account of B. S. Goswami Maharaj — “his books”; they are the talks and
     writings of Srila Sridhar Maharaj in his editing and publication. One of the biographies expressly calls “Golden
     Volcano of Divine Love” a book of Srila Sridhar Maharaj.
+[^9]: The order of events follows “Our Teachers”. There, in Srila Govinda Maharaj’s recollection, he accepted
+    sannyasa in 1985 and was proclaimed acharya “two months later, at Gaura-purnima”; it is then said that Sridhar
+    Maharaj seated him in his chair and “on the next day” glorified him at his Vyasa-puja; by the recollection of B. A.
+    Sagar Maharaj, Sridhar Maharaj’s appearance day fell on the day after the sannyasa. The appearance day falls in the
+    month of Damodara (autumn), Gaura-purnima in spring; the same book says that he accepted no disciples “from that
+    day of Gaura-purnima 1986”. Hence here: sannyasa on the eve of the Vyasa-puja of 1985, proclamation as acharya on
+    Gaura-purnima 1986.
+[^10]: The day of his departure is given in “Our Teachers”; it is the Amavasya of the month of Sridhara — the day on
+    which his departure is observed according to our calendar. One of the biographies says “on the Amavasya of July”;
+    this is inexact: in 1988 the Amavasya of the month of Sridhara fell in August.
