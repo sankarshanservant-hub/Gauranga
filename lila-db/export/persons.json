@@ -22186,6 +22186,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-maharaja",
+    "type": "neighbor"
+   },
+   {
     "from": "@jahnava",
     "type": "companion"
    },
@@ -29272,6 +29276,10 @@
    },
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-maharaja",
     "type": "other"
    },
    {
@@ -38303,6 +38311,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "other"
    },
@@ -38980,6 +38992,10 @@
   "related_by": [
    {
     "from": "@bhaktivinoda",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-maharaja",
     "type": "other"
    },
    {
@@ -46924,6 +46940,11 @@
     "type": "other",
     "who": "@radha",
     "note": "«Гаятри-нигудхартха»: «бхарга» — Радха, «радха-падам дхимахи»; «мы — шуддха-шакты»."
+   },
+   {
+    "type": "disciple",
+    "who": "@govinda-maharaja",
+    "note": "Гауренду брахмачари — ученик с 1947, слуга более 40 лет, санньяса 1985, ачарья-преемник (см. @govinda-maharaja)."
    }
   ],
   "related_by": [
@@ -46954,6 +46975,18 @@
    {
     "from": "@bhaktivinoda",
     "type": "other"
+   },
+   {
+    "from": "@govinda-maharaja",
+    "type": "guru"
+   },
+   {
+    "from": "@govinda-maharaja",
+    "type": "sannyasa-guru"
+   },
+   {
+    "from": "@govinda-maharaja",
+    "type": "lineage-predecessor"
    },
    {
     "from": "@vasu-ghosha",
@@ -47413,6 +47446,10 @@
    },
    {
     "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-maharaja",
     "type": "other"
    },
    {
@@ -48443,6 +48480,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "siksha-disciple"
    },
@@ -48680,6 +48721,11 @@
     "type": "other",
     "who": "@rupa-gosvami",
     "note": "Жил во Вриндаване в храме Радха-Дамодары (самадхи Рупы); «сознание Кришны» — из «Падьявали»; юкта-вайрагья Рупы (N)."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@govinda-maharaja",
+    "note": "Гауренду Брахмачари — ученик Шридхара Махараджа; учил у него «Гиту», первый распространитель «Back to Godhead»; «люблю его как родного сына» (см. @govinda-maharaja)."
    }
   ],
   "related_by": [
@@ -48689,6 +48735,14 @@
    },
    {
     "from": "@bhakti-pramoda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-maharaja",
+    "type": "siksha-guru"
+   },
+   {
+    "from": "@govinda-maharaja",
     "type": "other"
    },
    {
@@ -49381,6 +49435,10 @@
     "type": "disciple"
    },
    {
+    "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "other"
    }
@@ -49488,6 +49546,154 @@
    {
     "from": "@nandana-acharya",
     "type": "father"
+   }
+  ]
+ },
+ {
+  "id": "@govinda-maharaja",
+  "ru": "Шрила Б. С. Говинда Дев-Госвами Махарадж",
+  "en": "Srila B. S. Govinda Dev-Goswami Maharaj",
+  "note": "Бхакти Сундар Говинда Дев-Госвами (род. 1929, Бамунпара), в юности — Гауренду Брахмачари; ученик (с 1947), слуга и преемник @shridhara-maharaja, севаит-президент-ачарья Шри Чайтанья Сарасват Матха; шикша-ученик @bhaktivedanta-svami (N II.3, III); его наследие — наше (CLAUDE.md); не путать с @govinda-deity, @govinda-servant, @govinda-ghosha, @govinda-karmakara",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "summary": "гуру — Шрила Б. Р. Шридхар Махарадж; происхождение — Бамунпара; явление — Кришна-двития месяца Нараяны — по нашему календарю; уход — Гаура-двадаши месяца Вишну — фестиваль в честь дня ухода по нашему…",
+  "card": "parshadas/cards/govinda-maharaja.yaml",
+  "article": {
+   "ru": "parshadas/ru/govinda-maharaja.md",
+   "en": "parshadas/en/govinda-maharaja.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1929-12-17",
+    "tithi": "Кришна-двития месяца Нараяны — по нашему календарю; по расчёту на 17.12.1929 двития с ≈13:45 IST (на восходе — пратипад)",
+    "place": "#bamunpara",
+    "conf": "N — дата и место (Бамунпара, округ Бурдван); титхи — календарь и расчёт (согласуются при рождении во второй половине дня)",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Гаура-двадаши месяца Вишну (≈ чайтра) — фестиваль в честь дня ухода по нашему календарю",
+    "place": "",
+    "conf": "N (закончена в 2007 г.) об уходе не говорит; год и место в наших источниках не названы — только календарь (титхи)",
+    "facts": [
+     "F70"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "статьи в журнале «Гаудия Даршан» (в т. ч. «Чхалар патхе»)",
+    "facts": [
+     "F27",
+     "F28"
+    ]
+   },
+   {
+    "title": "санскритские поэмы и шлоки; варианты шлок в сочинениях Шридхара Махараджа",
+    "facts": [
+     "F47",
+     "F48"
+    ]
+   },
+   {
+    "title": "храмовый комплекс у Говинда-кунды в Навадвипе; храмы во Вриндаване, Пури, Калькутте; эскиз храма в Санкт-Петербурге",
+    "facts": [
+     "F65",
+     "F66",
+     "F76"
+    ]
+   },
+   {
+    "title": "лекции и ответы (мировые туры с 1992 г.; Россия с 1996 г.)",
+    "facts": [
+     "F67",
+     "F70",
+     "F74",
+     "F75",
+     "F78",
+     "F82",
+     "F88"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@shridhara-maharaja",
+    "note": "Пришёл в Нрисимха-чатурдаши 1947 г., дикша на Ратха-ятру 1947 г. (Гауренду Брахмачари); более 40 лет слуга и личный врач; санньяса 1985 (по календарю — Бахулаштами, 6.11.1985). Дикша- и шикша-гуру (его слова)."
+   },
+   {
+    "type": "sannyasa-guru",
+    "who": "@shridhara-maharaja",
+    "note": "«В 1985 году… даровал санньясу»; приглашён «Шрипад Пури Махарадж» (N не уточняет)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@shridhara-maharaja",
+    "note": "Представлен как преемник через неделю после дикши (1947); провозглашён ачарьей на Гаура-пурниму 1986 г.; завещание; в 1989 г. признан духовными братьями гуру."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@bhaktivedanta-svami",
+    "note": "Изучал у него «Гиту» в Калькутте по указанию гуру; «по милости Шрилы Шридхара Махараджа — также мой шикша-гуру»; четыре года совместной проповеди."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivedanta-svami",
+    "note": "Первый распространитель «Back to Godhead»; первое письмо Свами из Америки — ему («Гаудия Даршан»); посредник в вопросе о Вриндаване; Маяпур 1973 — «мой дорогой сын»; в лекциях — успех проповеди по милости Свами."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Не видел его; Шридхар Махарадж: мыслит, будто много с ним общался; рассказ о последнем дне Бхактисиддханты — со слов гуру и его братьев."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pradipa-tirtha",
+    "note": "На вокзале с разрешения гуру выразил почтение; «подлинно вайшнавские качества»."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-pramoda-puri",
+    "note": "Среди благословивших в 1989 г. — «Б. П. Пури Махарадж»; «Шрипад Пури Махарадж» при санньясе 1985 г. — вероятно, он (N не уточняет)."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "«Б. Д. Мадхав Махарадж» — среди благословивших в 1989 г. («Мадхав Махарадж» в F16, F46 — без отождествления)."
+   },
+   {
+    "type": "other",
+    "who": "@virabhadra",
+    "note": "Семейные Божества Радха-Кришны, по преданию, установил Вирачандра."
+   },
+   {
+    "type": "neighbor",
+    "who": "@vrindavana-dasa",
+    "note": "Дом рождения — рядом с домом, где жил Вриндаван Дас Тхакур (через века)."
+   },
+   {
+    "type": "other",
+    "who": "@shiva",
+    "note": "Отцу в храме Шивы открылось, что сын будет под покровительством Шивы."
+   }
+  ],
+  "related_by": [
+   {
+    "from": "@bhaktivedanta-svami",
+    "type": "siksha-disciple"
+   },
+   {
+    "from": "@shridhara-maharaja",
+    "type": "disciple"
    }
   ]
  }
