@@ -172,6 +172,11 @@ Advaita is Maha-Vishnu Himself; why should He need a guru? He accepted initiatio
 cannot do without a guru — just as Mahaprabhu Himself accepts initiation from Ishvara Puri. Vrindavana Dasa says that
 Advaita only played the role of Madhavendra's disciple[^11]. <!-- F31 F32 I11 -->
 
+Murari Gupta (“Kadacha” 1.4.5–6) binds them still more closely: one portion of the Lord appeared in two ways — as
+Madhava Puri and as Advaita Acharya — and Chandrashekhara, renowned on earth as Acharyaratna, became the disciple of
+them both. This does not diminish Advaita: He is Maha-Vishnu Himself, non-different from the Lord, and Madhavendra is
+His guru and the root of the tree of devotion. <!-- F160 -->
+
 Madhavendra's disciples in the line of the Madhva-sampradaya are Ishvara Puri, Advaita, Paramananda Puri, Brahmananda
 Puri, Ranga Puri, Pundarika Vidyanidhi, Raghupati Upadhyaya and others; Srila Bhaktisiddhanta names Ishvara Puri,
 Nityananda and Advaita as the chief among them. According to the “Gaura-ganoddesha-dipika” (23–24), Ishvara Puri received from

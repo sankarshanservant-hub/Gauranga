@@ -102,11 +102,11 @@
   order: 30
   title: "Позднее: Гопала месяц живёт в Матхуре у Виттхалешвары; престарелый Рупа с преданными созерцает Его"
   summary: "Рупа и Санатана тоже не смели подниматься на Говардхану, и Гопала даровал даршан и им. Когда Рупа, уже в преклонных летах, не мог пойти к Нему, Гопала из страха перед мусульманами месяц жил в Матхуре в доме Виттхалешвары; Рупа с Гопалой Бхаттой, Рагхунатхой Дасом, Рагхунатхой Бхаттой, Локанатхой, Бхугарбхой, Дживой, Ядава Ачарьей, Говиндой Госани и другими месяц созерцал Его, после чего Гопала вернулся в храм, а Рупа — во Вриндаван."
-  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@shrinathji-deity", "@vitthalanatha", "@gopala-bhatta", "@raghunatha-dasa", "@raghunatha-bhatta", "@lokanatha", "@bhugarbha", "@jiva-gosvami", "@yadavacharya-gosani", "@govinda-gosani"]
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@shrinathji-deity", "@vitthalanatha", "@gopala-bhatta", "@raghunatha-dasa", "@raghunatha-bhatta", "@lokanatha", "@bhugarbha", "@jiva-gosvami", "@yadavacharya-gosani", "@govinda-gosani", "@uddhava-dasa-vraja"]
   places: ["#mathura", "#vrindavana"]
   kind: post-advent
   authority: A
-  notes: "Отступление автора о времени после ухода Господа. Также названы Уддхава Дас, Мадхава, Гопала Дас, Нараяна Дас, Говинда, Вани Кришнадас, Пундарикакша, Ишана, Лагху Харидас (без тегов)."
+  notes: "Отступление автора о времени после ухода Господа. Также названы Уддхава Дас (@uddhava-dasa-vraja — вероятно, тот, что встречал Шринивасу, БР 5.1333), Мадхава, Гопала Дас, Нараяна Дас, Говинда, Вани Кришнадас, Пундарикакша, Ишана, Лагху Харидас (без тегов)."
   themes: [deities, departure]
   cc: "Мадхья 18"
   event: ev-gopala-mathura-vitthaleshvara

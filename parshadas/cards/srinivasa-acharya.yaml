@@ -95,7 +95,7 @@ relations:
   - {type: other, who: "@kanai-shrikhanda", facts: [F112]}
   - {type: other, who: "@santosha-datta", facts: [F102, F103]}
   - {type: other, who: "@harinarayana-raja", facts: [F98]}
-  - {type: other, who: "@uddhava-dasa-padakarta", facts: [F60, F66]}
+  - {type: other, who: "@uddhava-dasa-vraja", facts: [F60, F66]}
   - {type: other, who: "@vishvanatha-chakravarti", facts: [F117, F138]}
   - {type: other, who: "@nrisimha-kaviraja", facts: [F29, F50], note: "Автор строф «Навападьи» о нём."}
   - {type: other, who: "@narahari-chakravarti", facts: [F56, F60]}

@@ -145,6 +145,10 @@ convinced by His guest's ecstatic love that here was His guru, He underwent the 
 souls that no one can do without a guru: He played the part of Madhavendra's disciple.[^4]
 <!-- F38 F39 F40 F41 F42 Q13 -->
 
+Murari Gupta (“Kadacha” 1.4.5–6) names Madhava Puri the first of the associates who came to earth before the Lord: one
+portion of the Lord appeared in two ways — as him and as Advaita Acharya — and Chandrashekhara Acharyaratna became the
+disciple of them both. Advaita here is Maha-Vishnu Himself, and Madhavendra is His guru. <!-- F282 -->
+
 The “Chaitanya-bhagavata” (Antya 4.398) says that Madhavendra and Advaita are not different from each other, and yet
 Advaita is his disciple. That is why the Lord honoured Advaita as a guru, while Advaita Himself saw in Chaitanya the
 Lord and regarded Himself as His servant — His principal limb (CC, Adi 6.36–41). <!-- F43 F44 Q7 Q22 -->
@@ -758,10 +762,10 @@ Gosvami.” (CC, Madhya 18.49)
 
 “After a month Sri Gopala went to His temple, and Sri Rupa Gosvami returned to Vrindavana.” (CC, Madhya 18.54)
 
-The “Bhakti-ratnakara” (5.1333) preserves the same. Rupa and his companions were so delighted with Vitthalanatha's
-service that they lived with him for a month; Raghunatha Dasa praised this service of Gopala in the
-“Gopala-raja-stotra” (13–14), and Rupa himself at Gathuli rejoiced at how Vitthala served the Deity of Krishna
-Chaitanya (BR 5.804–805). Vitthaleshvara's house in Satghara, where Rupa saw Gopala, and the places of service of his
+Rupa and his companions were so delighted with Vitthalanatha's service that they lived with him for a month;
+Raghunatha Dasa praised this service of Gopala in the “Gopala-raja-stotra” (13–14). Later, according to the
+“Bhakti-ratnakara” (5.798–806), Raghava Pandita brought Srinivasa and Narottama to Gathuli: they saw Gopala and the
+Deity of Krishna Chaitanya served by Vitthala, and Vitthalanatha, Vallabha's son, received them with indescribable love. Vitthaleshvara's house in Satghara, where Rupa saw Gopala, and the places of service of his
 seven sons were later destroyed by men of another faith. <!-- F184 F185 F186 F187 Q19 Q26 Q27 -->
 
 On the fourth lunar day of the bright fortnight of Vaishakha 1567 (974 of the Bengali era) Gopala, at Vitthalanatha's
