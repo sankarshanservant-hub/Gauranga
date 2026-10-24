@@ -837,12 +837,12 @@ happiness.” (CC, Antya 5.107–108) <!-- F204 Q45 -->
 
 ## Head of the Sampradaya
 The book of our line, “Our Teachers,” sees in these days at Puri the establishment of Rupa as head of the sampradaya.
-Mahaprabhu was surrounded by exalted souls. Ramananda Raya He regarded as His equal and even as His guru — this He
-acknowledged in the famous conversation on the bank of the Godavari; Svarupa Damodara is honoured as Mahaprabhu's second
-manifestation, and no work was presented to the Lord without his strict examination. And yet it was not they but Rupa whom
-He made head of the sampradaya. When Mahaprabhu asked how Rupa had been able to understand His heart, Svarupa answered:
-“You have bestowed all Your blessings on Rupa; that is why Your heart is an open book to him.” And Mahaprabhu, who always
-showed humility, this time revealed His own nature: “Yes, I have given Rupa everything.” <!-- F640 -->
+Mahaprabhu was surrounded by exalted souls. Ramananda Raya He regarded as His equal and even as His guru, and He Himself
+acknowledged his exalted position in the famous conversation on the bank of the Godavari; Svarupa Damodara is honoured as
+Mahaprabhu's second manifestation, and no work was presented to the Lord without his strict examination. And yet it was
+not they but Rupa whom He made head of the sampradaya. To Svarupa's answer that the Lord's heart is open to Rupa by His
+mercy (see above), this book adds: Mahaprabhu, who always showed humility, this time revealed His own nature: “Yes, I have
+given Rupa everything.” <!-- F640 -->
 
 Then, according to this account, Mahaprabhu presented Rupa to the assembly of His closest associates and asked them to
 test him, appointing Ramananda Raya as judge. Rupa read passages from the “Lalita-madhava” and the “Vidagdha-madhava,” and
@@ -853,10 +853,10 @@ And Ramananda concluded: Rupa has presented the genuine teaching of Mahaprabhu, 
 before him, and he is the greatest of poets; a hero is one who always attains his goal, and Rupa is a great hero, for his
 poetry “strikes the very heart and never misses.” “All of us,” he said, “acknowledge him as Your successor.” <!-- F641 -->
 
-All who were present confirmed: “Without doubt You have bestowed all Your mercy on him; otherwise he could not have written
+All who were present confirmed: “Without doubt You have bestowed all Your mercy on him. Otherwise he could not have written
 such things.” Then Mahaprabhu wished that all of them should bless Rupa, so that he might reveal His teaching to the world.
 The Vaishnavas objected: “Your mercy will be enough.” “No, it is not enough,” Mahaprabhu replied. “You are My friends.
-Bestow your mercy on him: then he will feel pure love for Krishna and will be able to spread His message.” And all the
+So bestow your mercy on him; then he will feel pure love for Krishna and will be able to spread His message.” And all the
 great souls blessed Rupa without hesitation. Thus Mahaprabhu revealed the true glory of Sri Rupa and placed His sampradaya
 in his care. At the assembly where He proclaimed Rupa head of the sampradaya, in the words of this book, were present
 Ramananda Raya, Svarupa Damodara, Sarvabhauma Bhattacharya, Advaita Acharya, Bhagavan Acharya, Shikhi Mahiti and hundreds
@@ -1431,8 +1431,8 @@ Srila Sridhar Maharaj, when he began to accept disciples, did not exert himself 
 “Bhakti-rasamrita-sindhu,” in its list of the angas of bhakti, says not to build too many temples or hold large programmes.
 Srila Govinda Maharaj recalled how, hearing his exposition of the sixty-four angas of bhakti, he wondered: Guru Maharaj
 preaches widely, collects donations, builds temples — “Rupa Gosvami forbids this”; what will he say? The answer took only a
-few words: “Everything depends on capacity. One person can rule an empire and still have time for rest, while another
-wears himself out trying to cope with family cares.” What is beyond one person's strength is a small thing for another, and
+few words: “Everything depends on capacity. One person can rule an empire and still have time for rest. Another
+wears himself out trying to cope with family cares and still does not succeed.” What is beyond one person's strength is a small thing for another, and
 each must do what lies within his power. <!-- F649 I46 -->
 
 ## Works
@@ -2363,7 +2363,11 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     Ramananda Raya, Svarupa Damodara and Haridasa Thakura; according to the CC (Antya 1.207), Advaita Acharya and
     Nityananda also embraced Rupa. Bhagavan Acharya and Shikhi Mahiti are named only in “Our Teachers.” Mahaprabhu's
     request that all should bless Rupa is in the CC as well (Antya 1.199); the Vaishnavas' reply “Your mercy will be
-    enough” and the words “You are My friends” are given only in “Our Teachers.”
+    enough” and the words “You are My friends” are given only in “Our Teachers.” Only there, too, are the “test” of Rupa,
+    Ramananda as “judge,” and the words “we acknowledge him as Your successor”: according to the CC, the Lord Himself
+    brought Sarvabhauma, Ramananda and Svarupa to Rupa and praised Rupa in order to test Sarvabhauma and Ramananda
+    themselves (Antya 1.103–106), and Ramananda questioned Rupa about the dramas (Antya 1.123 ff.); that they had never
+    heard the glory of the name described like this is said in the CC by all the devotees (Antya 1.121–122).
 [^41]: According to one biography (citing the “Bhakti-ratnakara”), Rupa perfectly fulfilled everything except one thing:
     the service of the Deity had not yet been established, and Rupa was anxious about how to establish it. So too in the
     “Bhakti-ratnakara” (2.404–406): having discovered the lost holy places, Rupa “pondered one thing” — that he could not
