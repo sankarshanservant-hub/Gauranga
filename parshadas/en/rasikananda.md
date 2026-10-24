@@ -38,7 +38,7 @@ His father, Achyuta (Achyutananda, Achyutadeva), was the ruler of Mallabhumi; Ra
 “Bhakti-ratnakara” (15.26) says that he, the ruler of that land, delighted in caring for his subjects and was pure in
 conduct. The “Rasika-mangala” adds that, calm, restrained and patient, he served the brahmanas, was devoted to the
 holy name, and was kind and courteous to all. He had, according to the same poem, several wives and many sons;
-Rasika's elder brother was Kashinatha Raya. The mother, Bhavani, was renowned as a truly faithful wife, and the whole
+Rasika's elder brother was Kashinatha Dasa. The mother, Bhavani, was renowned as a truly faithful wife, and the whole
 family lived in bhakti. She was the daughter of Haladhara Pattanayaka, a man of a noble karana family who had fled
 Cuttack from the oppression of the yavanas and, having lost everything, came to Rayani; Achyuta saw the girl in the
 house of Gopi Mandala, asked for her hand and arranged the wedding himself. The poet says that the parents received
@@ -227,7 +227,7 @@ disgracing the family, and some abused the sadhus themselves. Then he said to Sh
 than Krishna, and because of me they are reviled — I shall go.”[^12] She answered: “Where you are, there am I;
 with you even the shade of a tree is good.” Taking only the family Deity — once seized by force by the Bhanja raja and recovered by
 Rasika himself — in nothing but the clothes they wore they went away to the Suvarnarekha, to a secluded part of
-Mallabhumi called “the hidden Vrindavana,” where Rasika's elder brother Kashinatha Raya had founded the village of
+Mallabhumi called “the hidden Vrindavana,” where Rasika's elder brother Kashinatha Dasa had founded the village of
 Kashipura. There they built a house and served sadhus by the hundred. <!-- F78 -->
 
 Shyamananda came, and Rasika asked him to name the Deity who had been in their house from of old. “Everyone will call
