@@ -381,7 +381,7 @@
 | @murari-mahiti | Мурари Махити | Murari Mahiti | брат Шикхи Махити; не путать с @murari-gupta |
 | @madhavi-devi | Мадхави-деви | Madhavi-devi | сестра Шикхи Махити, «половина» из «трёх с половиной» сокровенных спутников; не путать с @madhavi-dasa |
 | @bhavananda-raya | Бхавананда Рай | Bhavananda Raya | отец Рамананды Рая и Ванинатхи; Господь назвал его Панду |
-| @bhagavan-acharya | Бхагаван Ачарья | Bhagavan Acharya | учёный преданный в Пури, брат Гопалы Бхаттачарьи |
+| @bhagavan-acharya | Бхагаван Ачарья | Bhagavan Acharya | учёный преданный в Пури, брат Гопалы Бхаттачарьи; хромой («кханджа»; ГГД 74 — часть Гауры), родом из Халишахара (Кумарахатты) (B 947); у T 73 — «Кхандж Бхагаван дас» (`lila-db/review/tags-2026-10-24.md`, п. 8) |
 | @kamalananda | Камалананда | Kamalananda | бенгальский слуга Господа, позднее живший в Пури (ЧЧ Ади 10.149) |
 | @sita-lokanatha | Сита (мать Локанатхи) | Sita (Lokanatha's mother) | жена Падманабхи Чакраварти из Талкхари; не путать с @sita-thakurani |
 | @subuddhi-raya | Субуддхи Рай (Мишра), бывший правитель Гауды | Subuddhi Raya (Mishra), former ruler of Gauda | поселился в Матхуре (ЧЧ Мадхья 25); не путать с @subuddhi-mishra |

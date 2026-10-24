@@ -259,8 +259,8 @@ and those who only call themselves such. A hollow formed on the spot, and then a
 After the Lord's sannyasa, Srivasa Pandita moved to Kumarahatta with his whole family and his brothers and settled
 near Ishvara Puri's birthplace; opposite the Chaitanya-doba stands the temple “Devalaya,” marked as Srivasa's
 dwelling. People still take earth here, but many have forgotten that the Lord took it from His guru's birthplace.
-Other associates of the Lord lived in Kumarahatta, Ishvara Puri's native town: Shivananda Sena and Khanja Bhagavan
-Dasa; and Mukunda and Vasudeva Datta moved here after the Lord's sannyasa, calling this place “the original abode of
+Other associates of the Lord lived in Kumarahatta, Ishvara Puri's native town: Shivananda Sena and the lame Bhagavan —
+apparently Bhagavan Acharya, whom the “Gaura-ganoddesha-dipika” (74) calls a portion of Gaura; and Mukunda and Vasudeva Datta moved here after the Lord's sannyasa, calling this place “the original abode of
 Ishvara Puripada.” <!-- F67 F68 -->
 
 ## Last Years
