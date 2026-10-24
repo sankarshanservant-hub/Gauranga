@@ -294,6 +294,262 @@ the sun  as  with its form  see  the gods
 
 (25) Him the devotees behold through bhakti-yoga, as the gods behold the sun in its own form.[^15]
 
+জ্ঞান-যোগ-মার্গে তাঁরে ভজে যেই সব ৷  
+ব্রহ্ম-আত্মরূপে তাঁরে করে অনুভব ॥ ২৬ ॥
+
+jñāna-yoga-mārge tām̐re bhaje yei saba  
+on the path of knowledge and yoga  Him  worship  who  all  
+brahma-ātma-rūpe tām̐re kare anubhava  
+as Brahman and the Self  Him  they  realize
+
+(26) Those who worship Him on the paths of knowledge and yoga realize Him as Brahman and as the Supersoul.
+
+উপাসনা-ভেদে জানি ঈশ্বর-মহিমা ৷  
+অতএব সূর্য্য তাঁর দিয়ে ত’ উপমা ॥ ২৭ ॥
+
+upāsanā-bhede jāni īśvara-mahimā  
+by the difference of worship  I know  of the Lord  the greatness  
+ataeva sūrya tām̐ra diye ta’ upamā  
+therefore  the sun  for Him  is given  indeed  as a simile
+
+(27) By the differences in worship we know the greatness of the Lord; that is why He is compared to the sun.
+
+সেই নারায়ণ কৃষ্ণের স্বরূপ অভেদ ৷  
+একই বিগ্রহ, কিন্তু আকার-বিভেদ ॥ ২৮ ॥
+
+sei nārāyaṇa kṛṣṇera svarūpa abheda  
+that  Nārāyaṇa  from Kṛṣṇa’s  own form  not different  
+ekai vigraha, kintu ākāra-vibheda  
+one and the same  form,  but  of shape  difference
+
+(28) That Nārāyaṇa is not different from Kṛṣṇa’s own form: They are one and the same Person, differing only in shape.
+
+ইঁহো ত’ দ্বিভুজ, তিঁহো ধরে চারি হাথ ৷  
+ইঁহো বেণু ধরে, তিঁহো চক্রাদিক সাথ ॥ ২৯ ॥
+
+im̐ho ta’ dvi-bhuja, tim̐ho dhare cāri hātha  
+this One  indeed  two-armed,  that One  holds  four  hands  
+im̐ho veṇu dhare, tim̐ho cakrādika sātha  
+this One  the flute  holds,  that One  the disc and the rest  with
+
+(29) This One has two arms, while that One has four; this One holds the flute, that One the disc and the other emblems.
+
+নারায়ণস্ত্বং ন হি সর্ব্বদেহিনা-  
+মাত্মাস্যধীশাখিললোকসাক্ষী ৷  
+নারায়ণোঽঙ্গং নরভূ-জলায়না-  
+ত্তচ্চাপি সত্যং ন তবৈব মায়া ॥ ৩০ ॥
+
+nārāyaṇas tvaṁ na hi sarva-dehinām  
+Nārāyaṇa  You  not  indeed  of all  the embodied  
+ātmāsy adhīśākhila-loka-sākṣī  
+the Self  You are  O Lord  of all  worlds  the witness  
+nārāyaṇo ’ṅgaṁ nara-bhū-jalāyanāt  
+Nārāyaṇa  (Your) limb  from Nara  born  waters  abode  
+tac cāpi satyaṁ na tavaiva māyā  
+that  also  true  not  Your  indeed  māyā
+
+(30) “Are You not Nārāyaṇa? For You are the Self of all embodied beings, O Lord, and the witness of all the worlds. Nārāyaṇa is Your portion — so called because His abode is the waters born of Nara; and that too is true, not Your māyā.” (Śrīmad-Bhāgavatam, 10.14.14)[^16]
+
+শিশু বৎস হরি’ ব্রহ্মা করি’ অপরাধ ৷  
+অপরাধ ক্ষমাইতে মাগেন প্রসাদ ॥ ৩১ ॥
+
+śiśu vatsa hari’ brahmā kari’ aparādha  
+the boys  calves  having stolen  Brahmā  having committed  offence  
+aparādha kṣamāite māgena prasāda  
+the offence  to have forgiven  begs  for mercy
+
+(31) Having stolen the boys and the calves, Brahmā had committed an offence; to have it forgiven, he begged for mercy:
+
+তোমার নাভিপদ্ম হৈতে আমার জন্মোদয় ৷  
+তুমি পিতা-মাতা, আমি তোমার তনয় ॥ ৩২ ॥
+
+tomāra nābhi-padma haite āmāra janmodaya  
+Your  of the navel  from the lotus  my  birth  
+tumi pitā-mātā, āmi tomāra tanaya  
+You  father and mother,  I  Your  son
+
+(32) “From the lotus of Your navel I was born; You are my father and mother, and I am Your son.
+
+পিতা মাতা বালকের না লয় অপরাধ ৷  
+অপরাধ ক্ষম, মোরে করহ প্রসাদ ॥ ৩৩ ॥
+
+pitā mātā bālakera nā laya aparādha  
+father  mother  of a child  do not  take  the offences  
+aparādha kṣama, more karaha prasāda  
+the offence  forgive,  to me  show  mercy
+
+(33) A father and mother do not hold a child’s offences against him. Forgive my offence and be merciful to me.”
+
+কৃষ্ণ কহেন — ব্রহ্মা, তোমার পিতা নারায়ণ ৷  
+আমি গোপ, তুমি কৈছে আমার নন্দন ॥ ৩৪ ॥
+
+kṛṣṇa kahena — brahmā, tomāra pitā nārāyaṇa  
+Kṛṣṇa  says —  Brahmā,  your  father  Nārāyaṇa  
+āmi gopa, tumi kaiche āmāra nandana  
+I  a cowherd,  you  how  My  son
+
+(34) Kṛṣṇa said: “Brahmā, your father is Nārāyaṇa. I am a cowherd boy — how can you be My son?”
+
+ব্রহ্মা বলেন, তুমি কি না হও নারায়ণ ৷  
+তুমি নারায়ণ — শুন তাহার কারণ ॥ ৩৫ ॥
+
+brahmā balena, tumi ki nā hao nārāyaṇa  
+Brahmā  says,  You  whether  not  are  Nārāyaṇa  
+tumi nārāyaṇa — śuna tāhāra kāraṇa  
+You  Nārāyaṇa —  hear  of that  the reason
+
+(35) Brahmā said: “Are You not Nārāyaṇa? You are Nārāyaṇa — hear the reason.
+
+প্রাকৃতাপ্রাকৃত-সৃষ্ট্যে যত জীবরূপ ৷  
+তাহার যে আত্মা তুমি মূল-স্বরূপ ॥ ৩৬ ॥
+
+prākṛtāprākṛta-sṛṣṭye yata jīva-rūpa  
+in the material and spiritual  creation  all  living  forms  
+tāhāra ye ātmā tumi mūla-svarūpa  
+their  who  the Self  You  the original  form
+
+(36) You are the Self of all living beings, as many as there are in the material and spiritual creation; You are their original source.[^17]
+
+পৃথ্বী যৈছে ঘটকুলের কারণ আশ্রয় ৷  
+জীবের নিদান তুমি, তুমি সর্ব্বাশ্রয় ॥ ৩৭ ॥
+
+pṛthvī yaiche ghaṭa-kulera kāraṇa āśraya  
+the earth  as  of the pots  of the multitude  the cause  the support  
+jīvera nidāna tumi, tumi sarvāśraya  
+of the souls  the cause  You,  You  of all  the shelter
+
+(37) As the earth is the cause and the support of all earthen pots, so You are the cause of all souls, and You are the shelter of all.
+
+‘নার’ শব্দে কহে সর্ব্বজীবের নিচয় ৷  
+‘অয়ন’ শব্দেতে কহে তাহার আশ্রয় ॥ ৩৮ ॥
+
+‘nāra’ śabde kahe sarva-jīvera nicaya  
+‘nāra’  by the word  is meant  of all souls  the aggregate  
+‘ayana’ śabdete kahe tāhāra āśraya  
+‘ayana’  by the word  is meant  their  shelter
+
+(38) The word *nāra* means the aggregate of all souls, and the word *ayana* means their shelter.
+
+অতএব তুমি হও মূল নারায়ণ ৷  
+এই এক হেতু, শুন দ্বিতীয় কারণ ॥ ৩৯ ॥
+
+ataeva tumi hao mūla nārāyaṇa  
+therefore  You  are  the original  Nārāyaṇa  
+ei eka hetu, śuna dvitīya kāraṇa  
+this  one  reason,  hear  the second  reason
+
+(39) Therefore You are the original Nārāyaṇa. That is one reason; hear now the second.
+
+জীবের ঈশ্বর — পুরুষাদি অবতার ৷  
+তাঁহা সবা হৈতে তোমার ঐশ্বর্য্য অপার ॥ ৪০ ॥
+
+jīvera īśvara — puruṣādi avatāra  
+of the souls  the lords —  the Puruṣas and other  avatāras  
+tām̐hā sabā haite tomāra aiśvarya apāra  
+Them  all  than  Your  majesty  unlimited
+
+(40) The Puruṣas and the other avatāras are the lords of the souls, but Your majesty is unlimited, greater than that of Them all.
+
+অতএব অধীশ্বর তুমি সর্ব্বপিতা ৷  
+তোমার শক্তিতে তাঁরা জগৎ-রক্ষিতা ॥ ৪১ ॥
+
+ataeva adhīśvara tumi sarva-pitā  
+therefore  the supreme Lord  You  of all  the father  
+tomāra śaktite tām̐rā jagat-rakṣitā  
+by Your  power  They  of the world  the protectors
+
+(41) Therefore You are the supreme Lord, the father of all; it is by Your power that They protect the world.
+
+নারের অয়ন যাতে করহ পালন ৷  
+অতএব হও তুমি মূল নারায়ণ ॥ ৪২ ॥
+
+nārera ayana yāte karaha pālana  
+of the nāras  the shelters  since  You do  protection  
+ataeva hao tumi mūla nārāyaṇa  
+therefore  are  You  the original  Nārāyaṇa
+
+(42) Since You protect those who are the shelter of the nāras, You are the original Nārāyaṇa.
+
+তৃতীয় কারণ শুন শ্রীভগবান্ ৷  
+অনন্ত ব্রহ্মাণ্ড বহু বৈকুণ্ঠাদি ধাম ॥ ৪৩ ॥
+
+tṛtīya kāraṇa śuna śrī-bhagavān  
+the third  reason  hear  O Śrī Bhagavān  
+ananta brahmāṇḍa bahu vaikuṇṭhādi dhāma  
+unlimited  universes  many  Vaikuṇṭhas and other  abodes
+
+(43) Hear the third reason, O Śrī Bhagavān. There are unlimited universes and many abodes — the Vaikuṇṭhas and others.
+
+ইথে যত জীব, তার ত্রৈকালিক কর্ম্ম ৷  
+তাহা দেখ, সাক্ষী তুমি, জান সব মর্ম্ম ॥ ৪৪ ॥
+
+ithe yata jīva, tāra trai-kālika karma  
+in them  all  beings,  their  of the three times  deeds  
+tāhā dekha, sākṣī tumi, jāna saba marma  
+that  You see,  the witness  You,  You know  of all  the essence
+
+(44) All the beings in them, and their deeds in past, present and future — You see it all; You are the witness, You know the heart of everything.
+
+তোমার দর্শনে সর্ব্ব জগতের স্থিতি ৷  
+তুমি না দেখিলে কার নাহি স্থিতি গতি ॥ ৪৫ ॥
+
+tomāra darśane sarva jagatera sthiti  
+by Your  sight  of all  worlds  the existence  
+tumi nā dekhile kāra nāhi sthiti gati  
+You  not  if You see —  of anyone  is not  rest  motion
+
+(45) By Your glance all the worlds exist; if You did not look on them, nothing could either stand or move.
+
+নারের অয়ন যাতে কর দরশন ৷  
+তাহাতেও হও তুমি মূল নারায়ণ ॥ ৪৬ ॥
+
+nārera ayana yāte kara daraśana  
+of the nāras  the ways  since  You do  seeing  
+tāhāteo hao tumi mūla nārāyaṇa  
+by that also  are  You  the original  Nārāyaṇa
+
+(46) Since You see the ways of all the nāras, by that too You are the original Nārāyaṇa.”
+
+কৃষ্ণ কহেন — ব্রহ্মা, তোমার না বুঝি বচন ৷  
+জীব-হৃদি, জলে বৈসে সেই নারায়ণ ॥ ৪৭ ॥
+
+kṛṣṇa kahena — brahmā, tomāra nā bujhi vacana  
+Kṛṣṇa  says —  Brahmā,  your  not  I understand  words  
+jīva-hṛdi, jale vaise sei nārāyaṇa  
+in the hearts of beings,  in the waters  dwells  that  Nārāyaṇa
+
+(47) Kṛṣṇa said: “Brahmā, I do not understand your words. Nārāyaṇa is He who dwells in the hearts of living beings and in the waters.”
+
+ব্রহ্মা কহে — জলে জীবে যেই নারায়ণ ৷  
+সে সব তোমার অংশ, — এ সত্য বচন ॥ ৪৮ ॥
+
+brahmā kahe — jale jīve yei nārāyaṇa  
+Brahmā  says —  in the waters  in beings  who  Nārāyaṇa  
+se saba tomāra aṁśa, — e satya vacana  
+They  all  Your  portions, —  this  true  word
+
+(48) Brahmā said: “The Nārāyaṇa who lies in the waters and dwells in the beings — in all these forms He is Your portion. What I say is true.
+
+কারণাব্ধি-গর্ভোদক-ক্ষীরোদকশায়ী ৷  
+মায়াদ্বারা সৃষ্টি করে, তাতে সব মায়ী ॥ ৪৯ ॥
+
+kāraṇābdhi-garbhodaka-kṣīrodaka-śāyī  
+of the Causal ocean  Garbhodaka  Kṣīrodaka  who lie  
+māyā-dvārā sṛṣṭi kare, tāte saba māyī  
+through māyā  creation  They do,  therefore  all  masters of māyā
+
+(49) Kāraṇodakaśāyī, Garbhodakaśāyī and Kṣīrodakaśāyī Viṣṇu create through māyā; therefore all of Them are *māyī*, masters of māyā.[^18]
+
+সেই তিন জলশায়ী সর্ব্ব-অন্তর্য্যামী ৷  
+ব্রহ্মাণ্ডবৃন্দের আত্মা যে পুরুষ-নামী ॥ ৫০ ॥
+
+sei tina jala-śāyī sarva-antaryāmī  
+those  three  who lie on the waters  of all  the Indwellers  
+brahmāṇḍa-vṛndera ātmā ye puruṣa-nāmī  
+of the universes  of the multitude  the Self  who  Puruṣa  named
+
+(50) These three, who lie on the waters, dwell within all as the Supersoul: They who are called Puruṣas are the Self of all the universes.[^19]
+
 ---
 
 [^1]: «Anubhāṣya»: *bālaḥ* — “an inexperienced child”; the crocodiles are the mutually contending doctrines of Aulūkya, Jina, Buddha, Jaimini, Patañjali, Gautama, Kaṇāda, Kapila, Śaṅkara, Dattātreya and others; by the Lord’s mercy even the inexperienced one sets them aside as straw and comes to know the pure feet of Kṛṣṇa.
@@ -325,3 +581,11 @@ the sun  as  with its form  see  the gods
 [^14]: «Amṛta-pravāha-bhāṣya»: by the word *sākṣāt* (“directly, Himself”) the author establishes that Śrī Kṛṣṇa Caitanya is Govinda Himself, not His *prakāśa* or *vilāsa*.
 
 [^15]: «Amṛta-pravāha-bhāṣya»: the eternal form of the Lord cannot be seen by material senses or by the efforts of knowledge; through bhakti, through love, only the devotees become fit to see it — as the gods, whose divine eyes pierce the net of the sun’s rays, see the sun’s own form.
+
+[^16]: «Anubhāṣya»: the verse gives three meanings of the name Nārāyaṇa, corresponding to the three Puruṣa-avatāras: “the Self of all the embodied” (*nāra* — the aggregate of souls, *ayana* — their shelter) is Kṣīrodakaśāyī; “the witness of all the worlds” (*ayase* — “You know”) is Garbhodakaśāyī; “He whose abode is the waters born of Nara” is Kāraṇodakaśāyī. All of Them are Your portions, and You are the original Nārāyaṇa. “Not māyā” — not transient like what māyā produces: māyā cannot touch Your spiritual body, even in the avatāras.
+
+[^17]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). «Amṛta-pravāha-bhāṣya»: the material creation lies within māyā (Gītā, 7.4–5).
+
+[^18]: «Amṛta-pravāha-bhāṣya»: “Because They create through māyā, these three Puruṣas are *māyī*, that is, lords in relation to māyā.” Māyā does not touch Them (2.54).
+
+[^19]: «Amṛta-pravāha-bhāṣya»: *ye puruṣa-nāmī* — “They whose name is Puruṣa”. The Self of the universes in this verse is all three of Them: Kāraṇodakaśāyī of all the universes together, Garbhodakaśāyī of the aggregate of beings in a universe, Kṣīrodakaśāyī of each individual being (2.51).
