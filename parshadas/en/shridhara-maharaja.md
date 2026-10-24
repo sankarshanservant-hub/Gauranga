@@ -2,56 +2,55 @@
 *Srila Bhakti Rakshaka Sridhar Deva Goswami Maharaj · @shridhara-maharaja*
 
 ## Guardian of Devotion
-Srila Bhakti Rakshaka Sridhar Deva Goswami Maharaj was a disciple of Srila Bhaktisiddhanta Sarasvati Thakura and the
-founder of the Sri Chaitanya Saraswat Math in Navadvip. His godbrothers and disciples called him Srila B. R. Sridhar
-Maharaj, Sripad Sridhar Maharaj, or simply Sridhar Dev. The name “Bhakti Rakshaka” — “guardian of devotion” — was
-given him by his guru: Srila Bhaktisiddhanta saw in him a faithful exponent of his own conclusions. <!-- F1 I1 -->
+Srila Bhakti Rakshaka Sridhar Deva Goswami Maharaj was a disciple of Srila Bhaktisiddhanta Sarasvati Thakura, an
+acharya in his line, and the founder of the Sri Chaitanya Saraswat Math in Navadvip. His godbrothers and disciples
+called him Srila B. R. Sridhar Maharaj, Sripad Sridhar Maharaj, or simply Sridhar Dev. The name “Bhakti Rakshaka” —
+“guardian of devotion” — was given him by his guru: Srila Bhaktisiddhanta saw in him a faithful exponent of his own
+conclusions. <!-- F1 I1 -->
 
-## Appearance and Youth
-He appeared in 1895 in Hapania, West Bengal, on the Krishna Navami of the month of Damodara. The same lunar day also
-commemorates the appearance of Virachandra Prabhu, the son of Nityananda[^1]. <!-- F2 -->
+On the eve of his departure Srila Bhaktisiddhanta wished to hear from his lips the song of the feet of Sri Rupa
+Manjari, and his godbrothers understood that on that day the guru had passed on to him the authority of the Rupanuga
+Sampradaya, the line of Sri Rupa’s followers. From then on they honoured him as the sampradaya-acharya, and many of
+them accepted sannyasa from him. He was revered by all as an eminent acharya of this line, yet he himself never
+thought himself worthy of glory and remained deeply humble all his life. His disciple and successor, Srila Govinda
+Maharaj, said that after the great wave of Srila Bhaktivedanta Swami Maharaj’s preaching had swept over the whole
+world, “now a new wave has come — the preaching of Srila Sridhar Maharaj”. <!-- I3 F93 F152 -->
 
-Learning came easily to him, and from childhood his heart was drawn to God and to the sacred books — the Vedas and
-Upanishads. At fourteen, by family custom, he received the sacred thread. At first he especially loved Lord
-Ramachandra; but on coming to know Sri Chaitanya’s teaching he took up the “Bhagavad-gita” and was drawn to Krishna
-with all his heart. After school he entered Krishnanath College in Berhampore, in Murshidabad district, and four years
-later took his bachelor’s degree in philosophy. <!-- F3 F4 F5 F6 -->
+## Family and Appearance
+He appeared on 12 October 1895 in Sripat Hapania, in the district of Burdwan, West Bengal — on the Krishna Navami of
+the month of Damodara. The same lunar day also commemorates the appearance of Virachandra Prabhu, the son of
+Nityananda[^1]. <!-- F42 F2 -->
 
-## At the Feet of Srila Bhaktisiddhanta
-For a long time he searched for a sadhu from whom he could take initiation and found none. At last, by the mercy of
-the Supreme, he met Srila Bhaktisiddhanta Sarasvati Thakura and in 1927 became his disciple. In 1930 the guru gave him
-sannyasa and the name “Bhakti Rakshaka”, seeing in his disciple the strength to guard the line of the Gaudiya
-Vaishnavas against distortion. On reading the Sanskrit verses he had composed in praise of Srila Bhaktivinoda Thakura,
-Srila Bhaktisiddhanta said that he was now at peace: after him there would remain at least one person able to
-present his conclusions — bhakti-siddhanta. The guru also honoured him with the title “shastra-nipuna”, one who has
-grasped the meaning of the scriptures deeply; and his own disciple, the translator of one of the biographies, calls
-him “sarva-shastra-siddhanta-vit” — knower of the conclusions of all scriptures. <!-- F7 F8 F9 F10 -->
+His family was a respected brahmana family. His father’s name was Sri Upendra Chandra Deva Sharma Bhattacharya
+Vidyaratna, his mother’s Srimati Gauri Bala Devi; they named their son Sri Ramendra Chandra Deva Sharma
+Bhattacharya[^2]. <!-- F41 -->
 
-He laboured side by side with Srila Bhakti Dayita Madhava: he encouraged him while he was building the Madras Gaudiya
-Math, and the temple in Madras rose through the efforts of them both, of Srila Bhakti Hridaya Bon Maharaj and of
-others; with him, Bhakti Pradip Tirtha and Jajabar Maharaj he went out collecting donations for the mission.
-<!-- F11 F15 -->
+His birth was preceded by a sign. A relative of the family had gone on pilgrimage to receive the darshan of the Deity,
+and in a dream the Deity handed her a beautiful, radiant infant. Remembering that her sister-in-law had no children,
+she gave the child to her. When Ramendra was born, she recognised in him the very infant of her dream. <!-- F43 -->
 
-In March 1936 Srila Bhaktisiddhanta sent him with Srila Bhakti Dayita Madhava and others to Sarbhog in Assam, to
-prepare the installation of the Deities of Sri Sri Guru-Gauranga and Gandharvika-Giridhari. By the guru’s order he
-directed the ceremony and dressed and adorned the Deities beforehand. Then Srila Bhaktisiddhanta said, “The Deities
-are already installed,” and Sridhar Maharaj grew sorrowful, thinking he had committed an offence. He asked Srila
-Bhakti Dayita Madhava to write to the guru and beg forgiveness for him. The reply came: one who is surrendered commits
-no offence — the Lord does not see his faults. <!-- F12 F13 F14 -->
+Learning came easily to him, and from childhood his heart was drawn to God and to the sacred books. At primary school
+he was always first in his class and twice skipped a year; early on, too, he showed an inborn inclination for
+Sanskrit. “My memory can go back to the time when I was learning to read — I was five then,” Srila Sridhar Maharaj
+recalled. From five to eight he lived in his uncle’s house and received his first schooling there, and his aunt helped
+him study the “Ramayana” and the “Mahabharata”. Even then he was drawn to the ancient teachings — the Vedas and
+Upanishads — and to the way of life of the orthodox part of society. <!-- F3 F44 F45 -->
 
-On the morning of the day Srila Bhaktisiddhanta left this world, he asked Sridhar Maharaj to sing Narottama Dasa’s
-song “sri rupa-manjari-pada”. <!-- F16 -->
+At ten he moved on to middle school. In the school debating club he always took the side of the shastras and often
+argued with teachers who championed “the Renaissance or the Reformation”. “I fought without fear of defeat,” he said.
+At fourteen, by family tradition, he received the sacred thread of a brahmana. <!-- F46 F47 F4 -->
 
-## Hymns to Srila Bhaktivinoda
-Of Srila Bhaktisiddhanta’s disciples, two became known for their hymns to Srila Bhaktivinoda Thakura: Bhakti Vichar
-Jajabar wrote in Bengali, and Sridhar Maharaj in Sanskrit. For the anniversary of Srila Bhaktivinoda’s departure in
-1936 he composed the “Srimad-Bhaktivinoda-viraha-dashakam”, ten verses on separation from him. One of its verses
-sings of service to the feet of Srimati Radhika — the service that Sri Gauranga approved, Svarupa Damodara
-understood and Sanatana Gosvami revered. In July 1939 the journal “Gaudiya” printed another poem of his, the
-“Srimad-Bhaktivinoda-dashakam”. <!-- F17 F18 F19 Q1 -->
+His mother cooked many tasty vegetable dishes for the whole family, but he would eat only rice stewed with bitter nim
+leaves, which greatly upset her. While still a child he rose every day before sunrise and walked three miles to the
+Ganges to bathe, picking lotuses on the way from the ponds nearby as offerings to the Ganges and to Lord Shiva. Once,
+as he was walking to Jamapur, the universal form of the Lord suddenly appeared before his eyes. <!-- F49 -->
+
+
+
+<!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 ## Sri Chaitanya Saraswat Math
-Some time after the departure of Srila Bhaktisiddhanta[^2] he founded his own temple — the Sri Chaitanya Saraswat
+Some time after the departure of Srila Bhaktisiddhanta[^3] he founded his own temple — the Sri Chaitanya Saraswat
 Math on the bank of the Ganges in Navadvip-dham. The Math stands in Kuliya, ancient Koladvipa, where Devananda Pandita
 lived — at the place called aparadha-bhanjana, “where offences are forgiven”: here Mahaprabhu forgave all who had
 once offended Him in Navadvip. <!-- F24 F25 -->
@@ -101,11 +100,15 @@ his followers. <!-- F35 F36 -->
 
 In his last days he was absorbed in the mood of separation and in longing to serve Sri Sri Radha-Govinda. Srila
 Bhakti Rakshaka Sridhar Deva Goswami Maharaj entered the eternal pastimes in 1988, on the Amavasya of the month of
-Sridhara[^3]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
+Sridhara[^4]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
 
-[^1]: The biography gives the year and place of his appearance; the day follows our calendar (Sri Chaitanya Saraswat
-    Math). The translator of another biography also notes the shared appearance day with Virachandra.
-[^2]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
+[^1]: The day of his appearance is given in “Nashi uchitelya” (“Our Teachers”), a book of the Sri Chaitanya Saraswat
+    Math; one of the biographies gives only the year and the place. That day was the Krishna Navami of the month of
+    Damodara — the day on which his appearance is observed according to our calendar (Sri Chaitanya Saraswat Math).
+    The translator of another biography notes that the appearance of Virachandra is observed on the same day.
+[^2]: The name given at birth is recorded in “Our Teachers”. In Madras, by his own account, he was known as “Sri
+    Ramendrasundar Bhattacharya, Bachelor of Arts”.
+[^3]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
     chapters — 1936 and 1937.
-[^3]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
+[^4]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
     Sridhara, which in 1988 fell in August.
