@@ -1079,6 +1079,220 @@ in unlimited  forms  one  form,  there is not  any  difference
 
 (100) Within these six forms there are unlimited varieties; yet in all those unlimited forms there is one form, and no difference at all.
 
+চিচ্ছক্তি, স্বরূপশক্তি, অন্তরঙ্গা নাম ৷  
+তাহার বৈভব অনন্ত বৈকুণ্ঠাদি ধাম ॥ ১০১ ॥
+
+cic-chakti, svarūpa-śakti, antaraṅgā nāma  
+the spiritual potency,  the personal potency,  internal  by name  
+tāhāra vaibhava ananta vaikuṇṭhādi dhāma  
+its  opulence  unlimited  Vaikuṇṭhas and other  abodes
+
+(101) The spiritual potency (*cit-śakti*), called also the personal potency (*svarūpa-śakti*) and the internal potency (*antaraṅgā*): her opulence is the unlimited abodes — the Vaikuṇṭhas and others.[^40]
+
+মায়াশক্তি, বহিরঙ্গা, জগৎকারণ ৷  
+তাহার বৈভব অনন্ত ব্রহ্মাণ্ডের গণ ॥ ১০২ ॥
+
+māyā-śakti, bahiraṅgā, jagat-kāraṇa  
+the potency māyā,  external,  of the world  the cause  
+tāhāra vaibhava ananta brahmāṇḍera gaṇa  
+its  opulence  unlimited  of universes  the multitudes
+
+(102) The potency māyā, the external potency, is the cause of the world: her opulence is the unlimited multitude of universes.
+
+জীবশক্তি তটস্থাখ্য, নাহি যার অন্ত ৷  
+মুখ্য তিন শক্তি, তার বিভেদ অনন্ত ॥ ১০৩ ॥
+
+jīva-śakti taṭasthākhya, nāhi yāra anta  
+the potency of souls  marginal  called,  there is not  of which  an end  
+mukhya tina śakti, tāra vibheda ananta  
+principal  three  potencies,  their  varieties  unlimited
+
+(103) The potency of the souls, called marginal (*taṭasthā*), has no end. These are the three principal potencies, and their varieties are unlimited.
+
+এই ত’ স্বরূপগণ, আর তিন শক্তি ৷  
+সবার আশ্রয় কৃষ্ণ, কৃষ্ণে সবার স্থিতি ॥ ১০৪ ॥
+
+ei ta’ svarūpa-gaṇa, āra tina śakti  
+these  indeed  the personal forms,  and  three  potencies  
+sabāra āśraya kṛṣṇa, kṛṣṇe sabāra sthiti  
+of all  the shelter  Kṛṣṇa,  in Kṛṣṇa  of all  the abiding
+
+(104) Such are His personal forms and His three potencies. Kṛṣṇa is the shelter of them all; in Kṛṣṇa they all abide.
+
+যদ্যপি ব্রহ্মাণ্ডগণের পুরুষ আশ্রয় ৷  
+সেহ পুরুষাদি সবার কৃষ্ণ মূলাশ্রয় ॥ ১০৫ ॥
+
+yadyapi brahmāṇḍa-gaṇera puruṣa āśraya  
+although  of the universes  the Puruṣa  the shelter  
+seha puruṣādi sabāra kṛṣṇa mūlāśraya  
+of those  Puruṣas and others  of all  Kṛṣṇa  the original shelter
+
+(105) Although the Puruṣa is the shelter of the universes, Kṛṣṇa is the original shelter of all — of the Puruṣas and the rest.
+
+স্বয়ং ভগবান্ কৃষ্ণ, কৃষ্ণ সর্ব্বাশ্রয় ৷  
+পরম ঈশ্বর কৃষ্ণ সর্ব্বশাস্ত্রে কয় ॥ ১০৬ ॥
+
+svayaṁ bhagavān kṛṣṇa, kṛṣṇa sarvāśraya  
+Himself  Bhagavān  Kṛṣṇa,  Kṛṣṇa  the shelter of all  
+parama īśvara kṛṣṇa sarva-śāstre kaya  
+the supreme  Lord  Kṛṣṇa  in all scriptures  is said
+
+(106) Kṛṣṇa is Bhagavān Himself; Kṛṣṇa is the shelter of all. All the scriptures declare Kṛṣṇa to be the Supreme Lord.
+
+ঈশ্বরঃ পরমঃ কৃষ্ণঃ সচ্চিদানন্দবিগ্রহঃ ৷  
+অনাদিরাদির্গোবিন্দঃ সর্ব্বকারণকারণম্ ॥ ১০৭ ॥
+
+īśvaraḥ paramaḥ kṛṣṇaḥ  
+the Lord  Supreme  Kṛṣṇa  
+sac-cid-ānanda-vigrahaḥ  
+of being  knowledge  bliss  whose form  
+anādir ādir govindaḥ  
+without beginning  the beginning  Govinda  
+sarva-kāraṇa-kāraṇam  
+of all  causes  the cause
+
+(107) “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)
+
+এ সব সিদ্ধান্ত তুমি জান ভালমতে ৷  
+তবু পূর্ব্বপক্ষ কর আমা চালাইতে ॥ ১০৮ ॥
+
+e saba siddhānta tumi jāna bhāla-mate  
+these  all  conclusions  you  know  well  
+tabu pūrva-pakṣa kara āmā cālāite  
+yet  objections  you make  me  to unsettle
+
+(108) You know all these conclusions well, and yet you raise objections, only to unsettle me.[^41]
+
+সেই কৃষ্ণ অবতারী ব্রজেন্দ্রকুমার ৷  
+আপনে চৈতন্যরূপে কৈল অবতার ॥ ১০৯ ॥
+
+sei kṛṣṇa avatārī vrajendra-kumāra  
+that  Kṛṣṇa  the source of avatāras  of the king of Vraja  the son  
+āpane caitanya-rūpe kaila avatāra  
+Himself  in the form of Caitanya  made  descent
+
+(109) That Kṛṣṇa, the source of all avatāras, the son of the king of Vraja, has Himself descended in the form of Caitanya.
+
+অতএব চৈতন্য-গোসাঞি পরতত্ত্ব-সীমা ৷  
+তাঁরে ক্ষীরোদশায়ী কহি, কি তাঁর মহিমা ॥ ১১০ ॥
+
+ataeva caitanya-gosāñi paratattva-sīmā  
+therefore  Caitanya  Gosāñi  of the Supreme Truth  the limit  
+tām̐re kṣīroda-śāyī kahi, ki tām̐ra mahimā  
+Him  Kṣīrodaśāyī  calling,  what  His  glory
+
+(110) Therefore Caitanya Gosāñi is the furthest limit of the Supreme Truth. To call Him Kṣīrodaśāyī — what glory is that to Him?[^42]
+
+সেই ত’ ভক্তের বাক্য নহে ব্যভিচারী ৷  
+সকল সম্ভবে তাঁতে, যাতে অবতারী ॥ ১১১ ॥
+
+sei ta’ bhaktera vākya nahe vyabhicārī  
+that  indeed  of the devotee  the word  is not  erroneous  
+sakala sambhave tām̐te, yāte avatārī  
+all  is possible  in Him,  since  the source of avatāras
+
+(111) Yet such words of a devotee are not wrong: everything is possible in Him, for He is the source of the avatāras.
+
+অবতারীর দেহে সব অবতারের স্থিতি ৷  
+কেহো কোনমতে কহে, যেমন যার মতি ॥ ১১২ ॥
+
+avatārīra dehe saba avatārera sthiti  
+of the source of avatāras  in the body  of all  avatāras  the presence  
+keho kona-mate kahe, yemana yāra mati  
+someone  in some way  speaks,  according as  whose  understanding
+
+(112) All the avatāras are present in the body of their source; so each speaks of Him in his own way, according to his understanding.
+
+কৃষ্ণকে কহয়ে কেহ — নরনারায়ণ ৷  
+কেহো কহে, কৃষ্ণ হয় সাক্ষাৎ বামন ॥ ১১৩ ॥
+
+kṛṣṇake kahaye keha — nara-nārāyaṇa  
+Kṛṣṇa  calls  someone —  Nara-Nārāyaṇa  
+keho kahe, kṛṣṇa haya sākṣāt vāmana  
+someone  says,  Kṛṣṇa  is  directly  Vāmana
+
+(113) Some call Kṛṣṇa Nara-Nārāyaṇa; others say that Kṛṣṇa is Vāmana Himself.
+
+কেহো কহে, কৃষ্ণ ক্ষীরোদশায়ী অবতার ৷  
+অসম্ভব নহে, সত্য বচন সবার ॥ ১১৪ ॥
+
+keho kahe, kṛṣṇa kṣīroda-śāyī avatāra  
+someone  says,  Kṛṣṇa  of Kṣīrodaśāyī  an avatāra  
+asambhava nahe, satya vacana sabāra  
+impossible  it is not,  true  the words  of all
+
+(114) Some say that Kṛṣṇa is an avatāra of Kṣīrodaśāyī. Nothing of this is impossible; the words of all of them are true.
+
+কেহো কহে, পরব্যোমে নারায়ণ-হরি ৷  
+সকল সম্ভবে কৃষ্ণে, যাতে অবতারী ॥ ১১৫ ॥
+
+keho kahe, para-vyome nārāyaṇa-hari  
+someone  says,  in the spiritual  sky  Nārāyaṇa  Hari  
+sakala sambhave kṛṣṇe, yāte avatārī  
+all  is possible  in Kṛṣṇa,  since  the source of avatāras
+
+(115) Some call Him Nārāyaṇa, Hari of the spiritual sky. Everything is possible in Kṛṣṇa, for He is the source of the avatāras.
+
+সব শ্রোতাগণের করি চরণ বন্দন ৷  
+এ সব সিদ্ধান্ত শুন, করি’ এক মন ॥ ১১৬ ॥
+
+saba śrotā-gaṇera kari caraṇa vandana  
+of all  the listeners  I make  to the feet  obeisance  
+e saba siddhānta śuna, kari’ eka mana  
+these  all  conclusions  hear,  making  one-pointed  the mind
+
+(116) I bow down at the feet of all my listeners: hear all these conclusions with undivided attention.
+
+সিদ্ধান্ত বলিয়া চিত্তে না কর অলস ৷  
+ইহা হৈতে কৃষ্ণে লাগে সুদৃঢ় মানস ॥ ১১৭ ॥
+
+siddhānta baliyā citte nā kara alasa  
+conclusions  thinking them  in the mind  not  be  idle  
+ihā haite kṛṣṇe lāge sudṛḍha mānasa  
+from this  to Kṛṣṇa  becomes attached  firmly  the mind
+
+(117) Do not be indifferent to them, thinking them mere doctrine; from them the mind becomes firmly attached to Kṛṣṇa.
+
+চৈতন্য-মহিমা জানি এ সব সিদ্ধান্তে ৷  
+চিত্ত দৃঢ় হঞা লাগে মহিমা-জ্ঞান হৈতে ॥ ১১৮ ॥
+
+caitanya-mahimā jāni e saba siddhānte  
+Caitanya’s  greatness  I know  by these  all  conclusions  
+citta dṛḍha hañā lāge mahimā-jñāna haite  
+the mind  firm  becoming  is attached  of greatness  knowledge  from
+
+(118) Through all these conclusions I come to know the greatness of Caitanya; and from knowing His greatness the mind becomes firm and attached to Him.[^43]
+
+চৈতন্যপ্রভুর মহিমা কহিবার তরে ৷  
+কৃষ্ণের মহিমা কহি করিয়া বিস্তারে ॥ ১১৯ ॥
+
+caitanya-prabhura mahimā kahibāra tare  
+Caitanya  the Lord’s  greatness  to tell  for the sake of  
+kṛṣṇera mahimā kahi kariyā vistāre  
+Kṛṣṇa’s  greatness  I tell  making  in detail
+
+(119) To tell the greatness of Caitanya Prabhu, I have described the greatness of Kṛṣṇa in detail.
+
+চৈতন্য-গোসাঞির এই তত্ত্ব-নিরূপণ ৷  
+স্বয়ং ভগবান্ কৃষ্ণ ব্রজেন্দ্রনন্দন ॥ ১২০ ॥
+
+caitanya-gosāñira ei tattva-nirūpaṇa  
+Caitanya  Gosāñi’s  this  of the truth  determination  
+svayaṁ bhagavān kṛṣṇa vrajendra-nandana  
+Himself  Bhagavān  Kṛṣṇa  of the king of Vraja  the son
+
+(120) This is the determination of the truth of Caitanya Gosāñi: He is Bhagavān Himself, Kṛṣṇa, the son of the king of Vraja.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১২১ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the «Caitanya-caritāmṛta».
+
 ---
 
 [^1]: «Anubhāṣya»: *bālaḥ* — “an inexperienced child”; the crocodiles are the mutually contending doctrines of Aulūkya, Jina, Buddha, Jaimini, Patañjali, Gautama, Kaṇāda, Kapila, Śaṅkara, Dattātreya and others; by the Lord’s mercy even the inexperienced one sets them aside as straw and comes to know the pure feet of Kṛṣṇa.
@@ -1158,3 +1372,11 @@ in unlimited  forms  one  form,  there is not  any  difference
 [^38]: «Amṛta-pravāha-bhāṣya»: *prābhava* and *vaibhava* are those forms whose eternal form of being, knowledge and bliss is like Hari’s, yet somewhat less than the Supreme; according to the degree of potency, where lordship (*prabhutā*) predominates they are called *prābhava*, and where all-pervading greatness (*vibhutā*) predominates, *vaibhava*.
 
 [^39]: «Amṛta-pravāha-bhāṣya»: the *aṁśa* and *śaktyāveśa* avatāras are described elsewhere; they too are counted among the *prābhava* and *vaibhava*. Kṛṣṇa, who is eternally youthful, has pastimes in both childhood and boyhood (AP on 2.99).
+
+[^40]: «Amṛta-pravāha-bhāṣya»: *cit-śakti* is another name of the *svarūpa-śakti*, the internal potency; from her come the unlimited manifestations of opulence in Vaikuṇṭha and the other abodes; from the marginal *jīva-śakti* — unlimited souls, bound and liberated; from the external māyā — the unlimited opulence of the material universes.
+
+[^41]: «Amṛta-pravāha-bhāṣya»: *cālāite* — “to cause needless agitation”.
+
+[^42]: «Amṛta-pravāha-bhāṣya»: in some books Śrī Caitanya is called Kṣīrodaśāyī, the Lord of Vaikuṇṭha; that does not describe His glory fully, yet the words of those devotees are not false (2.111): Kṛṣṇa Caitanya, non-different from Kṛṣṇa, is Himself the source of the avatāras, and all the avatāras are present in Him. The «Anubhāṣya» cites the «Caitanya-bhāgavata» (Madhya 6.95): “I was lying in the Milk Ocean; My sleep was broken by Nāḍā’s (Advaita’s) roar.”
+
+[^43]: The «Anubhāṣya» cites the «Pañcarātra»: “Firm affection, greater than all else and joined with knowledge of the Lord’s greatness, is called bhakti”; and: “On the path of rules it is joined with knowledge of His greatness; for those who follow the path of spontaneous love it is mostly pure (affection) alone.”
