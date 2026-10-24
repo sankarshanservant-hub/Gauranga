@@ -17078,7 +17078,72 @@
   "type": "other",
   "who": "@bhaktisiddhanta",
   "facts": [
-   "F28"
-  ]
+   "F28",
+   "F31"
+  ],
+  "note": "писал о нём; называет среди ачарьев, проповедовавших вишну-бхакти"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F30"
+  ],
+  "note": "молил Господа в Рамакели словами «Стотра-ратны» (ЧЧ Мадхья 1.203, 1.206)"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F30"
+  ],
+  "note": "то же (ЧЧ Мадхья 1.203, 1.206)"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F30"
+  ],
+  "note": "привёл его стих о дасье (ЧЧ Мадхья 8.73)"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F30"
+  ],
+  "note": "произнёс его строфу перед Господом (ЧЧ Мадхья 11.151; ЧЧН 8.41)"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F30"
+  ],
+  "note": "цитирует «Стотра-ратну» (ЧЧ Ади 3.86, 3.88; Антья 3.91)"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F30"
+  ],
+  "note": "цитирует «Стотра-ратну» (ЧЧН 3.45, 8.41)"
+ },
+ {
+  "from": "@yamunacharya",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F30"
+  ],
+  "note": "стих о Шеше — к Нитьянанде (ЧБ Ади 1.46)"
  }
 ]

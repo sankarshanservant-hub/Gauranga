@@ -18675,6 +18675,10 @@
    {
     "from": "@svarupa-damodara",
     "type": "friend"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "other"
    }
   ]
  },
@@ -20481,6 +20485,10 @@
    {
     "from": "@vakreshvara",
     "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "other"
    }
   ]
  },
@@ -21312,6 +21320,10 @@
    },
    {
     "from": "@vamshidasa-babaji",
+    "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
     "type": "other"
    }
   ]
@@ -22211,6 +22223,10 @@
    },
    {
     "from": "@vishnupriya",
+    "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
     "type": "other"
    }
   ]
@@ -27359,6 +27375,10 @@
    {
     "from": "@vasu-ghosha",
     "type": "companion"
+   },
+   {
+    "from": "@yamunacharya",
+    "type": "other"
    }
   ]
  },
@@ -28829,6 +28849,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
     "type": "other"
    }
   ]
@@ -34964,6 +34988,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@yamunacharya",
     "type": "other"
    }
   ]
@@ -48665,8 +48693,10 @@
    {
     "title": "«Стотра-ратна»",
     "facts": [
-     "F18"
-    ]
+     "F18",
+     "F30"
+    ],
+    "note": "строфы цитируют ЧЧ, ЧБ, «Чайтанья-чандродая»"
    },
    {
     "title": "«Гита-санграха» («Гитартха-санграха»)",
@@ -48722,7 +48752,43 @@
    },
    {
     "type": "other",
-    "who": "@bhaktisiddhanta"
+    "who": "@bhaktisiddhanta",
+    "note": "писал о нём; называет среди ачарьев, проповедовавших вишну-бхакти"
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "молил Господа в Рамакели словами «Стотра-ратны» (ЧЧ Мадхья 1.203, 1.206)"
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "то же (ЧЧ Мадхья 1.203, 1.206)"
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "привёл его стих о дасье (ЧЧ Мадхья 8.73)"
+   },
+   {
+    "type": "other",
+    "who": "@shivananda-sena",
+    "note": "произнёс его строфу перед Господом (ЧЧ Мадхья 11.151; ЧЧН 8.41)"
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "цитирует «Стотра-ратну» (ЧЧ Ади 3.86, 3.88; Антья 3.91)"
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "цитирует «Стотра-ратну» (ЧЧН 3.45, 8.41)"
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "стих о Шеше — к Нитьянанде (ЧБ Ади 1.46)"
    }
   ],
   "related_by": [
