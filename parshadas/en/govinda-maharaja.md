@@ -615,7 +615,7 @@ Srila B. T. Niriha Maharaj. <!-- F105 -->
 
 After the departure of Srila Govinda Maharaj, according to the mission, Sri Chaitanya Saraswat Math was headed by a
 board of acharyas. It comprised disciples of Srila Govinda Maharaj — Srila Bhakti Nirmal Acharya Maharaj, Srila Bhakti
-Bimal Avadhut Maharaj, acharya of the Russian mission, and Trivikram Maharaj — as well as disciples of Srila Sridhar
+Bimal Avadhut Maharaj, acharya of the Russian mission, and Srila Bhakti Vijay Trivikram Maharaj — as well as disciples of Srila Sridhar
 Maharaj, Srila Bhakti Pavan Janardan Maharaj and Srila Bhakti Kusum Ashram Maharaj. <!-- F106 -->
 
 [^1]: The date and place of his appearance are given in “Our Teachers”. By calculation, at sunrise on 17 December 1929
