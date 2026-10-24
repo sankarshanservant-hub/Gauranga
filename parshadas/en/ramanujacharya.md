@@ -61,8 +61,8 @@ that is, the lotus; the eyes of Vishnu are beautiful as a crimson lotus. <!-- F1
 
 Yadava Prakasha saw a rival in him and with his disciples plotted to kill him in a deserted place on the road to the
 Ganga, and then to bathe in the Ganga to wash away the sin. A cousin warned Ramanuja, and he escaped. Back in Kanchi,
-Yadava Prakasha resumed his lectures, and Ramanuja attended them, though he was already seeking another path. <!-- F16
--->
+Yadava Prakasha resumed his lectures, and Ramanuja attended them, though he was already seeking another path.
+<!-- F16 -->
 
 Yamunacharya himself came to Kanchi to see the young man. Seeing that he was still studying under Yadava Prakasha, he
 did not approach him; it is said that he prayed from afar that Ramanuja would become the establisher of the teaching
@@ -91,8 +91,8 @@ remarked. Ramanuja understood that these were three unfulfilled wishes, and made
 ordinary people to surrender to Vishnu through the five purificatory rites (pancha-samskara) — and one finger opened.
 He vowed to explain the Alvars' hymns in a commentary — the second opened. He promised to write a commentary on the
 Vedanta-sutras establishing Sri Vaishnavism as the highest conclusion of the Vedas — the third opened, and the
-teacher's face shone with peace. Thenceforth the biography calls Yamunacharya Ramanuja's divine teacher.[^1] <!-- F21
-F22 -->
+teacher's face shone with peace. Thenceforth the biography calls Yamunacharya Ramanuja's divine teacher.[^1]
+<!-- F21 F22 -->
 
 ## Sannyasa
 Back in Kanchi, Ramanuja devoted himself to serving Kanchipurna and the temple and grew cold towards home, while
@@ -110,7 +110,7 @@ Shankara's followers the Sri Vaishnavas do not accept. <!-- F26 -->
 ## Disciples in Kanchi
 Ramanuja established an ashrama by the temple in Kanchi and began to teach Vedanta and bhakti. The first to become his
 disciple was his nephew, his elder sister's son, Mudali Andan (Dasharathi); the second was the learned and wealthy
-brahmana Kuresha (Kurattalvan), famed for his memory. <!-- F27 -->
+brahmana Kuresha (Kurattalvar), famed for his memory. <!-- F27 -->
 
 Yadava Prakasha's mother, devoted to Vishnu, grieved over her son's monism and persuaded him to visit Ramanuja; in a
 dream a voice told him to become Ramanuja's disciple. Next morning he asked whether there was any basis in scripture
@@ -245,8 +245,8 @@ equal to Ramanuja. When at Galta near Jaipur opponents[^4] challenged the standi
 commentary of their own on the Vedanta, Baladeva Vidyabhushana defeated them. According to one biography, the panditas
 then recognized Baladeva as an acharya and wished to become his disciples, but he humbly declined: of the four
 sampradayas the Sri sampradaya is a genuine school, preaching service to God as the highest path, and in upholding the
-Gaudiya teaching he wished to show it not the least disrespect, for to offend it would be a grave offence. <!-- F52
-F55 F63 -->
+Gaudiya teaching he wished to show it not the least disrespect, for to offend it would be a grave offence.
+<!-- F52 F55 F63 -->
 
 Srila Bhaktisiddhanta Sarasvati said that having many disciples, as Madhva and Ramanuja had, is no hindrance at all on
 the path of sadhana. In 1896 Srila Bhaktivinoda wrote the “Sri-Ramanuja-upadesha” in Bengali. Srila Bhaktisiddhanta
