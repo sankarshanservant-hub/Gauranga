@@ -101107,6 +101107,59 @@
   "attestation": 11
  },
  {
+  "id": "cc-0306",
+  "source": "cc",
+  "ref": "Мадхья 1.91",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P08",
+  "order": 40.1,
+  "title": "Сутра: первая сутра — санньяса; приняв её, Господь отправляется во Вриндаван",
+  "summary": "Первая сутра — принятие Господом санньясы; приняв санньясу, Господь отправился в Шри Вриндаван.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Ади 17, Мадхья 3, ЧБ Мадхья 26–28.",
+  "themes": [
+   "sannyasa"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-sannyasa-katwa",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "91",
+    "to": "91"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "91",
+    "to": "91",
+    "line": 961,
+    "line_to": 961,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L961-L961"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "age": [
+   23,
+   24
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "Мурари 3.2.10: в миг перехода Солнца из Козерога в Водолей (конец солнечного магха); санньяса — в конце 24-го года жизни, в месяце магха 1510 г. (Шака 1431; ЧЧ Ади 17, Мадхья 1)",
+  "calendar": "магха; санкранти",
+  "cb": "Мадхья 28",
+  "attestation": 11
+ },
+ {
   "id": "pad-0050",
   "source": "padas",
   "ref": "Ананта Ачарья, ПК 2285 «জয় শচীনন্দন জগ-জীবন সার»",
@@ -103218,6 +103271,62 @@
   ],
   "date_conf": "вероятно",
   "cc": "Мадхья 3",
+  "cb": "Антья 1.51–108",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 9
+ },
+ {
+  "id": "cc-0307",
+  "source": "cc",
+  "ref": "Мадхья 1.92–93",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P09",
+  "order": 10.1,
+  "title": "Сутра: три дня Господь в любви блуждает по Радха-деше; Нитьянанда приводит Его к Ганге, назвав её Ямуной",
+  "summary": "Охваченный любовью, не помня о внешнем, Господь три дня блуждал по Радха-деше; Нитьянанда, введя Махапрабху в заблуждение, привёл Его на берег Ганги, назвав её Ямуной.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda"
+  ],
+  "places": [
+   "#radha-desha",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 3.",
+  "themes": [
+   "ecstasy",
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-radha-desha-wandering",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "92",
+    "to": "93"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "92",
+    "to": "93",
+    "line": 971,
+    "line_to": 981,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L971-L981"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
   "cb": "Антья 1.51–108",
   "age": [
    24,
@@ -106851,6 +106960,64 @@
    }
   ],
   "cc": "Мадхья 3",
+  "cb": "Антья 1",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 11
+ },
+ {
+  "id": "cc-0308",
+  "source": "cc",
+  "ref": "Мадхья 1.94–95",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P09",
+  "order": 45.1,
+  "title": "Сутра: в доме Адвайты в Шантипуре — первая бхикша и ночной киртан; встреча с матерью и преданными; уход в Нилачалу",
+  "summary": "Господь пришёл в дом Ачарьи в Шантипуре, там впервые принял бхикшу, а ночью была санкиртана; там Он встретился с матерью и преданными и, всё уладив, ушёл в Ниладри.",
+  "persons": [
+   "@mahaprabhu",
+   "@advaita",
+   "@shachi"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 3.",
+  "themes": [
+   "kirtan",
+   "family",
+   "prasada"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-shantipura-reunion",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "94",
+    "to": "95"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "94",
+    "to": "95",
+    "line": 991,
+    "line_to": 1001,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L991-L1001"
+   }
+  ],
   "cb": "Антья 1",
   "years": [
    1510,
@@ -110526,6 +110693,67 @@
    }
   ],
   "cc": "Мадхья 5",
+  "cb": "Антья 2",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "cc-0309",
+  "source": "cc",
+  "ref": "Мадхья 1.96–97",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P09",
+  "order": 75.1,
+  "title": "Сутра: по пути в Пури — даршаны Божеств, рассказ о Мадхавендре Пури, Гопале и Кширачоре, история Сакши-гопалы; Нитьянанда ломает посох Господа",
+  "summary": "По пути были разные лилы: даршаны всех Божеств, рассказ о Мадхаве Пури и установлении Гопалы, история о похищении сладкого риса и рассказ о Сакши-гопале; Нитьянанда сломал посох Господа.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda",
+   "@madhavendra-puri",
+   "@shrinathji-deity",
+   "@gopala-remuna",
+   "@sakshi-gopala"
+  ],
+  "places": [
+   "#remuna"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 4–5. Упоминание: ev-madhavendra-kshira-chora, ev-sakshi-gopala. Ст. 97 — у ВЧД «Нитьянанда поведал… о Гопинатхе… и о Свидетеле-Гопале» (в стихе рассказчик не назван; историю Кширачоры рассказывает Сам Господь, Мадхья 4; сноска). Гопала Мадхавендры отождествлён со @shrinathji-deity по описанию тега.",
+  "themes": [
+   "pilgrimage",
+   "deities",
+   "sannyasa"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-danda-broken",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "96",
+    "to": "97"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "96",
+    "to": "97",
+    "line": 1011,
+    "line_to": 1021,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1011-L1021"
+   }
+  ],
   "cb": "Антья 2",
   "years": [
    1510,
@@ -115271,6 +115499,66 @@
   "attestation": 8
  },
  {
+  "id": "cc-0310",
+  "source": "cc",
+  "ref": "Мадхья 1.98–100",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P10",
+  "order": 10.1,
+  "title": "Сутра: разгневанный, Господь один идёт к Джаганнатхе и падает без чувств; Сарвабхаума уносит Его к себе; спутники догоняют Его",
+  "summary": "Разгневавшись, Господь один пошёл увидеть Джаганнатху и, увидев, упал без чувств; Сарвабхаума отнёс Его к себе домой, и в третью прахару Господь пришёл в сознание. Нитьянанда, Джагадананда, Дамодара и Мукунда пришли следом, встретились с Ним и обрадовались.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity",
+   "@sarvabhauma",
+   "@nityananda",
+   "@jagadananda-pandita",
+   "@damodara-pandita",
+   "@mukunda-datta"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 6. Встреча с Сарвабхаумой — ev-sarvabhauma-meeting.",
+  "themes": [
+   "jagannatha",
+   "ecstasy"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-first-darshan-jagannatha",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "98",
+    "to": "100"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "98",
+    "to": "100",
+    "line": 1031,
+    "line_to": 1051,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1031-L1051"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "cb": "Антья 2",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 8
+ },
+ {
   "id": "cc-1045",
   "source": "cc",
   "ref": "Мадхья 6.5–13",
@@ -117424,6 +117712,65 @@
    }
   ],
   "cc": "Мадхья 6",
+  "cb": "Антья 3",
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 13
+ },
+ {
+  "id": "cc-0311",
+  "source": "cc",
+  "ref": "Мадхья 1.101",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P10",
+  "order": 30.1,
+  "title": "Сутра: милость Сарвабхауме — Господь являет ему Свой облик Владыки",
+  "summary": "Затем Господь оказал милость Сарвабхауме и показал ему Свой облик Ишвары.",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 6.",
+  "themes": [
+   "mercy",
+   "revelation"
+  ],
+  "bhava": [
+   "aishvarya"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-sarvabhauma-deliverance",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "101",
+    "to": "101"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "101",
+    "to": "101",
+    "line": 1061,
+    "line_to": 1061,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1061-L1061"
+   }
+  ],
   "cb": "Антья 3",
   "years": [
    1510,
@@ -119664,6 +120011,61 @@
   "attestation": 6
  },
  {
+  "id": "cc-0312",
+  "source": "cc",
+  "ref": "Мадхья 1.102",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 10.1,
+  "title": "Сутра: Господь отправляется на юг; в Курма-кшетре избавляет Васудеву",
+  "summary": "Затем Господь отправился на юг и в Курма-кшетре избавил Васудеву.",
+  "persons": [
+   "@mahaprabhu",
+   "@vasudeva-vipra"
+  ],
+  "places": [
+   "#kurma-kshetra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 7.",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-kurma-vasudeva",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "102",
+    "to": "102"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "102",
+    "to": "102",
+    "line": 1071,
+    "line_to": 1071,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1071-L1071"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 6
+ },
+ {
   "id": "cc-1066",
   "source": "cc",
   "ref": "Мадхья 7.121–135",
@@ -120077,6 +120479,62 @@
    }
   ],
   "cc": "Мадхья 8",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0313",
+  "source": "cc",
+  "ref": "Мадхья 1.103",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 20.1,
+  "title": "Сутра: молитвы Джияда-Нрисимхе; Господь утверждает святое имя на каждой дороге и в каждой деревне",
+  "summary": "У Джияда-Нрисимхи Господь вознёс молитвы Нрисимхе и на каждой дороге, в каждой деревне утверждал святое имя.",
+  "persons": [
+   "@mahaprabhu",
+   "@jiyada-nrisimha"
+  ],
+  "places": [
+   "#simhachala"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 8.",
+  "themes": [
+   "deities",
+   "kirtan",
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-jiyada-nrisimha",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "103",
+    "to": "103"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "103",
+    "to": "103",
+    "line": 1081,
+    "line_to": 1081,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1081-L1081"
+   }
+  ],
   "years": [
    1510,
    1512
@@ -121109,6 +121567,61 @@
    }
   ],
   "cc": "Мадхья 8",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 12
+ },
+ {
+  "id": "cc-0314",
+  "source": "cc",
+  "ref": "Мадхья 1.104",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 30.1,
+  "title": "Сутра: лес на берегу Годавари Господь принимает за Вриндаван; встреча с Раманандой Раем",
+  "summary": "В лесу на берегу Годавари Господь принял это место за Вриндаван и там же встретился с Раманандой Раем.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#godavari"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 8.",
+  "themes": [
+   "teaching",
+   "ecstasy"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-ramananda-raya-godavari",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "104",
+    "to": "104"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "104",
+    "to": "104",
+    "line": 1091,
+    "line_to": 1091,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1091-L1091"
+   }
+  ],
   "years": [
    1510,
    1512
@@ -122774,6 +123287,63 @@
    }
   ],
   "cc": "Мадхья 9",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "cc-0315",
+  "source": "cc",
+  "ref": "Мадхья 1.105–106",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 38.1,
+  "title": "Сутра: Трималла и Трипади; проповедь имени Кришны повсюду; сокрушение безбожников; даршан Аховала-Нрисимхи",
+  "summary": "Господь посетил святые места Трималлу и Трипади и повсюду распространял имя Кришны; затем сокрушил безбожников и видел Аховала-Нрисимху и другие Божества.",
+  "persons": [
+   "@mahaprabhu",
+   "@nrisimha"
+  ],
+  "places": [
+   "#tirupati",
+   "#venkata"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9. Аховала (Ахобилам) — без тега места.",
+  "themes": [
+   "pilgrimage",
+   "deities",
+   "learning"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-tripadi-ramats",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "105",
+    "to": "106"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "105",
+    "to": "106",
+    "line": 1101,
+    "line_to": 1111,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1101-L1111"
+   }
+  ],
   "years": [
    1510,
    1512
@@ -125231,6 +125801,65 @@
   "attestation": 9
  },
  {
+  "id": "cc-0316",
+  "source": "cc",
+  "ref": "Мадхья 1.107–110",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 50.1,
+  "title": "Сутра: Шрирангам — экстаз при виде Шри Ранги; чатурмасья в доме Трималлы Бхатты, изумлённого учёностью и любовью Господа",
+  "summary": "Господь пришёл в Шри Ранга-кшетру на берегу Кавери и, увидев Шри Рангу, пришёл в волнение любви; четыре месяца дождей Он жил в доме Трималлы Бхатты — шри-вайшнава и великого пандита, изумлённого учёностью и премой Господа, — и провёл чатурмасью со шри-вайшнавами в танце, пении и кришна-санкиртане.",
+  "persons": [
+   "@mahaprabhu",
+   "@ranganatha-deity",
+   "@trimalla-bhatta"
+  ],
+  "places": [
+   "#ranga-kshetra",
+   "#kaveri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9.",
+  "themes": [
+   "festival",
+   "kirtan",
+   "deities"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-srirangam-chaturmasya",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "107",
+    "to": "110"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "107",
+    "to": "110",
+    "line": 1121,
+    "line_to": 1151,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1121-L1151"
+   }
+  ],
+  "years": [
+   1510,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "Мурари 3.15.12, 17: пора дождей в Ранга-кшетре; год — первая чатурмасья после санньясы (по ЧЧ Мадхья 9)",
+  "calendar": "чатурмасья (пора дождей)",
+  "age": [
+   24,
+   24
+  ],
+  "attestation": 9
+ },
+ {
   "id": "cc-1100",
   "source": "cc",
   "ref": "Мадхья 9.108–126",
@@ -126093,6 +126722,58 @@
   "attestation": 6
  },
  {
+  "id": "cc-0317",
+  "source": "cc",
+  "ref": "Мадхья 1.111",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 60.1,
+  "title": "Сутра: после чатурмасьи Господь снова идёт на юг и встречает Парамананду Пури",
+  "summary": "После чатурмасьи Господь снова пошёл на юг и там встретился с Парамананда Пури.",
+  "persons": [
+   "@mahaprabhu",
+   "@paramananda-puri"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9.",
+  "themes": [
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-paramananda-puri-meeting",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "111",
+    "to": "111"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "111",
+    "to": "111",
+    "line": 1161,
+    "line_to": 1161,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1161-L1161"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 6
+ },
+ {
   "id": "cc-1104",
   "source": "cc",
   "ref": "Мадхья 9.176–178",
@@ -126621,6 +127302,63 @@
   "attestation": 3
  },
  {
+  "id": "cc-0322",
+  "source": "cc",
+  "ref": "Мадхья 1.117–119",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 75.1,
+  "title": "Сутра: в Сетубандхе Господь слышит «Курма-пурану» о призрачной Сите, похищенной Раваной, берёт старинный лист и рассеивает горе Рамадаса",
+  "summary": "Там Господь слушал «Курма-пурану», где написано, что Равана похитил призрачную Ситу; обрадовавшись, Он вспомнил слова брахмана Рамадаса, настойчиво взял тот старинный лист и, показав его Рамадасу, рассеял его горе.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramadasa-vipra",
+   "@rama"
+  ],
+  "places": [
+   "#setubandha",
+   "#madurai"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9.",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-maya-sita-kurma-purana",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "117",
+    "to": "119"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "117",
+    "to": "119",
+    "line": 1221,
+    "line_to": 1241,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1221-L1241"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 3
+ },
+ {
   "id": "cc-1106",
   "source": "cc",
   "ref": "Мадхья 9.198–200",
@@ -126962,6 +127700,62 @@
    }
   ],
   "cc": "Мадхья 9",
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0321",
+  "source": "cc",
+  "ref": "Мадхья 1.115–116",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 80.1,
+  "title": "Сутра: даршаны Ананты, Пурушоттамы, Джанарданы, Падманабхи и Васудевы; освобождение семи пальм; омовение в Сетубандхе и даршан Рамешвары",
+  "summary": "Господь видел Ананту, Пурушоттаму, Шри Джанардану, Падманабху и Васудеву; затем освободил семь пальм (сапта-тала), совершил омовение в Сетубандхе и видел Рамешвару.",
+  "persons": [
+   "@mahaprabhu",
+   "@shiva"
+  ],
+  "places": [
+   "#travancore",
+   "#setubandha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9. Упоминание: ev-saptatala-deliverance. Ст. 116 — у ВЧД «у мыса Коморин» (исправлено: Сетубандха; сноска).",
+  "themes": [
+   "pilgrimage",
+   "deities"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-setubandha-rameshvara",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "115",
+    "to": "116"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "115",
+    "to": "116",
+    "line": 1201,
+    "line_to": 1211,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1201-L1211"
+   }
+  ],
   "years": [
    1510,
    1512
@@ -127371,6 +128165,59 @@
   "attestation": 3
  },
  {
+  "id": "cc-0318",
+  "source": "cc",
+  "ref": "Мадхья 1.112",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 82.6,
+  "title": "Сутра: Господь спасает Кришнадаса от бхаттатхари и распространяет имя Кришны через брахманов, повторявших имя Рамы",
+  "summary": "Затем Господь вызволил Кришнадаса у бхаттатхари и распространил имя Кришны устами брахманов, повторявших имя Рамы.",
+  "persons": [
+   "@mahaprabhu",
+   "@kala-krishnadasa"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9.",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-krishnadasa-bhattathari",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "112",
+    "to": "112"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "112",
+    "to": "112",
+    "line": 1171,
+    "line_to": 1171,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1171-L1171"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 3
+ },
+ {
   "id": "gkr-0059",
   "source": "govinda-karcha",
   "ref": "Часть 6, 1166–1210",
@@ -127671,6 +128518,58 @@
   "attestation": 2
  },
  {
+  "id": "cc-0323",
+  "source": "cc",
+  "ref": "Мадхья 1.120",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 83.6,
+  "title": "Сутра: Господь находит рукописи «Брахма-самхиты» и «Карнамриты» и, сочтя их превосходными, приносит с Собой",
+  "summary": "Найдя две рукописи — «Брахма-самхиту» и «Карнамриту», Господь, зная их превосходство, взял обе книги с Собой.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9. Упоминание: ev-krishna-karnamrita-found.",
+  "themes": [
+   "teaching",
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-brahma-samhita-adikeshava",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "120",
+    "to": "120"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "120",
+    "to": "120",
+    "line": 1251,
+    "line_to": 1251,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1251-L1251"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 2
+ },
+ {
   "id": "cc-1111",
   "source": "cc",
   "ref": "Мадхья 9.241–244",
@@ -127949,6 +128848,60 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/10.md?plain=1#L67-L99",
     "file_en": "gaura-krishnodaya/en/10.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/10.md?plain=1#L67-L99"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "cc-0320",
+  "source": "cc",
+  "ref": "Мадхья 1.114",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 84.6,
+  "title": "Сутра: беседа о таттве с таттвавади — они признают себя ниже",
+  "summary": "Господь обсуждал истину с таттвавади, и все они сочли себя ниже Его.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#udupi"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9.",
+  "themes": [
+   "learning",
+   "teaching"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-udupi-tattvavadis",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "114",
+    "to": "114"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "114",
+    "to": "114",
+    "line": 1191,
+    "line_to": 1191,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1191-L1191"
    }
   ],
   "years": [
@@ -128287,6 +129240,62 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/govinda-kadacha/ru/07.md?plain=1#L7-L10",
     "file_en": "govinda-kadacha/en/07.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/govinda-kadacha/en/07.md?plain=1#L7-L10"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "cc-0319",
+  "source": "cc",
+  "ref": "Мадхья 1.113",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P11",
+  "order": 85.6,
+  "title": "Сутра: встреча со Шри Ранга Пури; Господь избавляет от горя брахмана Рамадаса",
+  "summary": "Там Господь встретился со Шри Ранга Пури и избавил от горя брахмана Рамадаса.",
+  "persons": [
+   "@mahaprabhu",
+   "@ranga-puri",
+   "@ramadasa-vipra"
+  ],
+  "places": [
+   "#pandharpur"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 9. Горе Рамадаса — ev-maya-sita-kurma-purana (ст. 117–119).",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-ranga-puri-pandharpur",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "113",
+    "to": "113"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "113",
+    "to": "113",
+    "line": 1181,
+    "line_to": 1181,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1181-L1181"
    }
   ],
   "years": [
@@ -133963,6 +134972,64 @@
   "attestation": 2
  },
  {
+  "id": "cc-0325",
+  "source": "cc",
+  "ref": "Мадхья 1.127–128",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 8.6,
+  "title": "Сутра: по прежнему повелению Господа Рамананда Рай с дозволения царя приходит в Пури; дни и ночи — беседы о Кришне",
+  "summary": "Ещё при встрече Господь велел Рамананде прийти в Нилачалу; получив дозволение царя, он через несколько дней пришёл, и Господь дни и ночи беседовал с Раманандой о Кришне.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@prataparudra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 11.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-ramananda-comes-to-puri",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "127",
+    "to": "128"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "127",
+    "to": "128",
+    "line": 1321,
+    "line_to": 1331,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1321-L1331"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
   "id": "cc-0145",
   "source": "cc",
   "ref": "Ади 10.138–142",
@@ -134985,6 +136052,127 @@
    28
   ],
   "attestation": 3
+ },
+ {
+  "id": "cc-0326",
+  "source": "cc",
+  "ref": "Мадхья 1.129–130",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 9.6,
+  "title": "Сутра: милость Каши Мишре, встреча с Прадьюмной Мишрой; приходят Парамананда Пури, Говинда и Кашишвара; радость встречи со Сварупой Дамодарой; Шикхи Махити и Бхавананда Рай",
+  "summary": "Господь оказал милость Каши Мишре и встретился с Прадьюмной Мишрой и другими; пришли Парамананда Пури, Говинда и Кашишвара; встреча со Сварупой Дамодарой принесла Ему высшую радость; Он встретился также с Шикхи Махити и Бхаванандой Раем.",
+  "persons": [
+   "@mahaprabhu",
+   "@kashi-mishra",
+   "@pradyumna-mishra",
+   "@paramananda-puri",
+   "@govinda-servant",
+   "@kashishvara",
+   "@svarupa-damodara",
+   "@shikhi-mahiti",
+   "@bhavananda-raya"
+  ],
+  "places": [
+   "#puri",
+   "#house-kashi-mishra"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 10. Упоминание: ev-kashi-mishra-residence, ev-govinda-ishvara-puri-servant, ev-bhavananda-raya-pandu.",
+  "themes": [
+   "mercy"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-svarupa-paramananda-arrive",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "129",
+    "to": "130"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "129",
+    "to": "130",
+    "line": 1341,
+    "line_to": 1351,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1341-L1351"
+   }
+  ],
+  "cb": "Антья 3",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "cc-0368",
+  "source": "cc",
+  "ref": "Мадхья 1.285",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 9.6,
+  "title": "Господь заставляет Брахмананду Бхарати снять одеяние из шкуры (перечень)",
+  "summary": "Господь отучает Брахмананду Бхарати носить одеяние из шкуры. Так Господь совершал игры шесть лет.",
+  "persons": [
+   "@mahaprabhu",
+   "@brahmananda-bharati"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "В сутрах Антья-лилы; «Анубхашья» отсылает к Мадхья 10 (там — приход Брахмананды в Пури после возвращения Господа с юга, т. е. до похода во Вриндаван).",
+  "themes": [
+   "sannyasa",
+   "teaching"
+  ],
+  "teaching": [
+   "sannyasa-teaching"
+  ],
+  "cc": "Мадхья 1; Мадхья 10",
+  "event": "ev-brahmananda-bharati-deerskin",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "285",
+    "to": "285"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "285",
+    "to": "285",
+    "line": 2917,
+    "line_to": 2917,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2917-L2917"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
  },
  {
   "id": "cc-2013",
@@ -136711,6 +137899,64 @@
   "attestation": 7
  },
  {
+  "id": "cc-0298",
+  "source": "cc",
+  "ref": "Мадхья 1.46–47",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 20.1,
+  "title": "Сутра: в первый год преданные во главе с Адвайтой приходят в Нилачалу, видят Ратха-ятру и четыре месяца пляшут и поют с Господом",
+  "summary": "В первый год преданные во главе с Адвайтой пошли в Ниладри повидать Господа; увидев Ратха-ятру, они остались там на четыре месяца, в высшем ликовании танцуя и воспевая вместе с Господом.",
+  "persons": [
+   "@mahaprabhu",
+   "@advaita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 11–15. «Пратхама ватсаре» — «в первый год» (по «Анубхашье» — в первый год после санньясы Господа); по ЧЧ Мадхья 10–11 гаудии впервые приходят после возвращения Господа с юга.",
+  "themes": [
+   "kirtan",
+   "jagannatha",
+   "festival"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.46: «в первый год»; по Мадхья 10–11 — после возвращения Господа с юга (1512)",
+  "cc": "Мадхья 1",
+  "event": "ev-gauda-devotees-arrive-puri",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "46",
+    "to": "47"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "46",
+    "to": "47",
+    "line": 487,
+    "line_to": 497,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L487-L497"
+   }
+  ],
+  "cb": "Антья 8",
+  "years": [
+   1512,
+   1514
+  ],
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 7
+ },
+ {
   "id": "cc-2024",
   "source": "cc",
   "ref": "Мадхья 11.146–158",
@@ -136757,6 +138003,66 @@
     "line_to": 1301,
     "count": 13,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L1201-L1301"
+   }
+  ],
+  "cb": "Антья 8",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "cc-0327",
+  "source": "cc",
+  "ref": "Мадхья 1.131–132",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 20.2,
+  "title": "Сутра: приходят все вайшнавы Гауды; первая встреча с жителями Кулинаграмы; жители Кханды во главе с Нарахари Дасом приходят с Шиванандой Сеном",
+  "summary": "Из Гауды пришли все вайшнавы; была первая встреча с жителями Кулина-грамы; все жители Кханды во главе с Нарахари Дасом пришли вместе с Шиванандой Сеном и встретились с Господом.",
+  "persons": [
+   "@mahaprabhu",
+   "@narahari-sarakara",
+   "@shivananda-sena"
+  ],
+  "places": [
+   "#puri",
+   "#gauda",
+   "#kulinagrama",
+   "#shrikhanda"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 11. Кханда — Шрикханда.",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-gauda-devotees-arrive-puri",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "131",
+    "to": "132"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "131",
+    "to": "132",
+    "line": 1361,
+    "line_to": 1371,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1361-L1371"
    }
   ],
   "cb": "Антья 8",
@@ -137007,7 +138313,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-2027",
@@ -138583,6 +139889,66 @@
   "attestation": 5
  },
  {
+  "id": "cc-0324",
+  "source": "cc",
+  "ref": "Мадхья 1.121–126",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 60.1,
+  "title": "Сутра: возвращение в Нилачалу, Снана-ятра; в анавасару Господь в разлуке уходит в Алаланатху; Нитьянанда и Сарвабхаума возвращают Его; приходят гаудии, и киртан успокаивает Его",
+  "summary": "Господь снова вернулся в Нилачалу и с преданными увидел Снана-ятру; в анавасару, не получая даршана Джаганнатхи, Он в разлуке ушёл в Алаланатху и пробыл там несколько дней; узнав, что идут преданные Гауды, Нитьянанда и Сарвабхаума настояли и привели Махапрабху обратно в Нилачалу. Господь дни и ночи проводил, охваченный разлукой; тогда пришли гаудии и, посовещавшись, начали киртан — в упоении киртаном ум Господа успокоился.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity",
+   "@nityananda",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri",
+   "#alalanatha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 11. Приход гаудиев — ev-gauda-devotees-arrive-puri.",
+  "themes": [
+   "jagannatha",
+   "separation",
+   "kirtan"
+  ],
+  "calendar": "Снана-ятра; анавасара",
+  "cc": "Мадхья 1",
+  "event": "ev-snana-yatra-anavasara-alalanatha",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "121",
+    "to": "126"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "121",
+    "to": "126",
+    "line": 1261,
+    "line_to": 1311,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1261-L1311"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 5
+ },
+ {
   "id": "kcm-0131",
   "source": "karnapura-ckm",
   "ref": "Сарга 13, 60–61",
@@ -139043,6 +140409,60 @@
    }
   ],
   "cc": "Мадхья 12",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "cc-0328",
+  "source": "cc",
+  "ref": "Мадхья 1.133",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 65.1,
+  "title": "Сутра: после Снана-ятры Господь со всеми преданными очищает храм Гундичи",
+  "summary": "Увидев Снана-ятру вместе с преданными, Господь взял всех и очистил храм Гундичи.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 12.",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-gundicha-marjana",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "133",
+    "to": "133"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "133",
+    "to": "133",
+    "line": 1381,
+    "line_to": 1381,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1381-L1381"
+   }
+  ],
   "years": [
    1512,
    1514
@@ -140931,6 +142351,71 @@
   "attestation": 8
  },
  {
+  "id": "cc-0301",
+  "source": "cc",
+  "ref": "Мадхья 1.53–58",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 70.1,
+  "title": "Сутра: на даршане Джаганнатхи Господь чувствует встречу на Курукшетре; перед колесницей поёт «Я обрела Владыку жизни» и читает шлоку «йах каумара-харах»",
+  "summary": "Глядя на Джаганнатху, Господь думал: «Я снова обрела Его на Курукшетре». Танцуя перед колесницей на Ратха-ятре, Он пел лишь одну песню: «Я обрела Владыку Моей жизни, по Ком изнемогала в огне Маданы»; с этим припевом Он танцевал всю вторую прахару дня, чувствуя: «Возьму Кришну и уйду во Врадж». В этом настроении посреди танца Он читал стих, смысла которого никто не понимал: «Тот, кто похитил Моё сердце в юности, — тот же возлюбленный; те же ночи чайтры и ветры от кадамб, и Я та же — но сердце стремится к любовным играм там, у Ревы, под деревом ветаси» («Падьявали», 386).",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity",
+   "@krishna",
+   "@radha"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 13. Ст. 56 — у ВЧД «после полудня» («двития прахара» — вторая прахара дня; сноска); ст. 55 — «любовной страсти» заменено на «любовного томления (Маданы)».",
+  "themes": [
+   "jagannatha",
+   "ecstasy",
+   "festival"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "scriptures": [
+   "Падьявали, 386"
+  ],
+  "calendar": "Ратха-ятра (ашадха)",
+  "cc": "Мадхья 1",
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "53",
+    "to": "58"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "53",
+    "to": "58",
+    "line": 557,
+    "line_to": 613,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L557-L613"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 8
+ },
+ {
   "id": "gst-0021",
   "source": "gaura-stotras",
   "ref": "Рупа, Первая «Чайтаньяштака» 7",
@@ -140977,6 +142462,63 @@
   ],
   "calendar": "ашадха; Ратха-ятра, Хера-панчами",
   "cc": "Мадхья 13–14; Мадхья 16",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 8
+ },
+ {
+  "id": "cc-0329",
+  "source": "cc",
+  "ref": "Мадхья 1.134",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 70.2,
+  "title": "Сутра: Ратха-ятра — Господь танцует перед колесницей и уходит в сад",
+  "summary": "Вместе со всеми Господь видел Ратха-ятру; станцевав перед колесницей, Он ушёл в сад.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 13–14.",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "kirtan"
+  ],
+  "calendar": "Ратха-ятра (ашадха)",
+  "cc": "Мадхья 1",
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "134",
+    "to": "134"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "134",
+    "to": "134",
+    "line": 1391,
+    "line_to": 1391,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1391-L1391"
+   }
+  ],
   "years": [
    1512,
    1514
@@ -142095,6 +143637,64 @@
   "attestation": 1
  },
  {
+  "id": "cc-0336",
+  "source": "cc",
+  "ref": "Мадхья 1.144–145",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 75,
+  "title": "После Ратха-ятры: игры в садах, абхишека от брахмана Кришнадаса, водные игры у Гундичи, Хера-панчами (перечень)",
+  "summary": "В садах (у дороги к Гундиче) Господь являет различные игры; брахман Кришнадас совершает Его абхишеку. У Гундичи после танца Господь устраивает водные игры, а в Хера-панчами созерцает лилу богини Лакшми.",
+  "persons": [
+   "@mahaprabhu",
+   "@lakshmi",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Мадхья 14. «Брахман Кришнадас» (ст. 144) — без тега: отождествление неясно. Ср. ev-ratha-yatra-gundicha.",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "calendar": "ашадха, Ратха-ятра; Хера-панчами",
+  "years": [
+   1512,
+   1512
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.143–147: Ратха-ятра первого года после возвращения с юга (юг — 1510–1512)",
+  "cc": "Мадхья 1; Мадхья 14",
+  "event": "ev-hera-panchami",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "144",
+    "to": "145"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "144",
+    "to": "145",
+    "line": 1491,
+    "line_to": 1501,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1491-L1501"
+   }
+  ],
+  "age": [
+   26,
+   26
+  ],
+  "attestation": 3
+ },
+ {
   "id": "cc-2067",
   "source": "cc",
   "ref": "Мадхья 14.106–135",
@@ -142601,6 +144201,65 @@
   "attestation": 1
  },
  {
+  "id": "cc-0337",
+  "source": "cc",
+  "ref": "Мадхья 1.146–147",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 77,
+  "title": "Господь в наряде пастушка на празднике рождения Кришны; прощание с преданными Гауды (перечень)",
+  "summary": "На празднике рождения Кришны Господь облачается пастушком, несёт на коромысле горшки с йогуртом и вращает посох. Затем Он отпускает преданных Гауды и постоянно поёт киртан с оставшимися при Нём спутниками.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Мадхья 15 (Нанда-махотсава; прощание с бенгальскими преданными).",
+  "themes": [
+   "festival",
+   "krishna-lila",
+   "kirtan"
+  ],
+  "bhava": [
+   "sakha"
+  ],
+  "calendar": "Джанмаштами (Нанда-утсава)",
+  "years": [
+   1512,
+   1512
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.146–147: в тот же год, что и Ратха-ятра ст. 143–145 (1512, оценка)",
+  "cc": "Мадхья 1; Мадхья 15",
+  "event": "ev-gopa-vesha-dadhi-utsava",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "146",
+    "to": "147"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "146",
+    "to": "147",
+    "line": 1511,
+    "line_to": 1521,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1511-L1521"
+   }
+  ],
+  "age": [
+   26,
+   26
+  ],
+  "attestation": 2
+ },
+ {
   "id": "cc-2075",
   "source": "cc",
   "ref": "Мадхья 15.4–14",
@@ -142958,6 +144617,62 @@
   "attestation": 2
  },
  {
+  "id": "cc-0359",
+  "source": "cc",
+  "ref": "Мадхья 1.261",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 85,
+  "title": "Удивительная трапеза Господа из рук Адвайты (перечень)",
+  "summary": "Господь вкушает удивительную трапезу из рук Адвайты.",
+  "persons": [
+   "@mahaprabhu",
+   "@advaita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Упоминание в сутрах Антья-лилы; «Анубхашья» отсылает к ЧБ, Антья 8; в ЧЧ — Мадхья 15 (событие отнесено к годам до похода во Вриндаван).",
+  "themes": [
+   "prasada",
+   "mercy"
+  ],
+  "cc": "Мадхья 1; Мадхья 15",
+  "event": "ev-advaita-feeds-lord-hailstorm",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "261",
+    "to": "261"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "261",
+    "to": "261",
+    "line": 2677,
+    "line_to": 2677,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2677-L2677"
+   }
+  ],
+  "cb": "Антья 9.3–88",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 3
+ },
+ {
   "id": "cc-2090",
   "source": "cc",
   "ref": "Мадхья 15.244–296",
@@ -143065,6 +144780,61 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/ru/12.md?plain=1#L73-L73",
     "file_en": "gaura-krishnodaya/en/12.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/gaura-krishnodaya/en/12.md?plain=1#L73-L73"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 2
+ },
+ {
+  "id": "cc-0331",
+  "source": "cc",
+  "ref": "Мадхья 1.137",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 85.1,
+  "title": "Сутра: пышная трапеза Господа в доме Сарвабхаумы; мать Шатхи говорит: «Пусть Шатхи станет вдовой»",
+  "summary": "В доме Сарвабхаумы Господу было устроено пышное угощение, из-за чего мать Шатхи сказала: «Пусть Шатхи станет вдовой!»",
+  "persons": [
+   "@mahaprabhu",
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 15 (хула Амогхи, мужа Шатхи). Шатхи и её мать (жена Сарвабхаумы) — без тегов; Амогха в стихе не назван (у ВЧД — пояснение в переводе).",
+  "themes": [
+   "prasada",
+   "offense"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-amogha-cholera",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "137",
+    "to": "137"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "137",
+    "to": "137",
+    "line": 1421,
+    "line_to": 1421,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1421-L1421"
    }
   ],
   "years": [
@@ -143440,6 +145210,67 @@
   "attestation": 6
  },
  {
+  "id": "cc-0360",
+  "source": "cc",
+  "ref": "Мадхья 1.262",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 90,
+  "title": "Господь, посовещавшись наедине, посылает Нитьянанду проповедовать прему в Гауду (перечень)",
+  "summary": "Посовещавшись с Нитьянандой наедине, Господь посылает Его в Гауду проповедовать прему.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda"
+  ],
+  "places": [
+   "#puri",
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Упоминание в сутрах Антья-лилы; «Анубхашья» отсылает к Мадхья 15.42 и 16.59–67 (ср. Мадхья 1.24).",
+  "themes": [
+   "mercy",
+   "kirtan"
+  ],
+  "teaching": [
+   "holy-name",
+   "prema"
+  ],
+  "cc": "Мадхья 1; Мадхья 15–16",
+  "event": "ev-nityananda-sent-to-gauda",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "262",
+    "to": "262"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "262",
+    "to": "262",
+    "line": 2687,
+    "line_to": 2687,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2687-L2687"
+   }
+  ],
+  "cb": "Антья 5",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 6
+ },
+ {
   "id": "cc-2079",
   "source": "cc",
   "ref": "Мадхья 15.37–44",
@@ -143744,6 +145575,67 @@
    1514
   ],
   "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0295",
+  "source": "cc",
+  "ref": "Мадхья 1.24–30",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 90.1,
+  "title": "Сутра: Нитьянанда послан в Гауду и затопляет её премой; Он — Баларама, но считает Себя слугой Чайтаньи: «Служите Чайтанье, воспевайте Чайтанью»",
+  "summary": "Господь послал Нитьянанду Госани в Гауду, и Он затопил её нектаром премы: по природе неудержимый в любви к Кришне, Он по велению Господа раздавал её повсюду. Автор кланяется Ему, побудившему весь мир принять то, что дорого Чайтанье. Чайтанья называет Его старшим братом, а Он говорит: «Мой Господь — Чайтанья»; будучи Самим Баларамой, Он считает Себя слугой Чайтаньи: «Служите Чайтанье, воспевайте Чайтанью, принимайте имя Чайтаньи — кто предан Чайтанье, тот Моя жизнь». Так Он привёл людей к преданности Чайтанье и спас убогих, падших и даже хулителей.",
+  "persons": [
+   "@mahaprabhu",
+   "@nityananda",
+   "@balarama"
+  ],
+  "places": [
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 15 и «Чайтанья-бхагавата» (Антья 5–6). Ст. 26 — по изданию ГМ «чайтаньера прия» (у ВЧД — по чтению «чайтаньера бхакти»; сноска).",
+  "themes": [
+   "mercy",
+   "teaching"
+  ],
+  "teaching": [
+   "associates-tattva"
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.23–24: в первые шесть лет пребывания Господа в Нилачале (ср. Мадхья 15 — после первой Ратха-ятры с преданными Гауды)",
+  "cc": "Мадхья 1",
+  "event": "ev-nityananda-sent-to-gauda",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "24",
+    "to": "30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "24",
+    "to": "30",
+    "line": 267,
+    "line_to": 327,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L267-L327"
+   }
+  ],
+  "cb": "Антья 5",
+  "years": [
+   1512,
+   1514
+  ],
   "years_from": "period",
   "age": [
    26,
@@ -148512,6 +150404,63 @@
   "attestation": 3
  },
  {
+  "id": "cc-0332",
+  "source": "cc",
+  "ref": "Мадхья 1.138–139",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 120,
+  "title": "Сутра: на следующий год преданные во главе с Адвайтой снова идут к Господу; Шивананда Сен ведёт их и заботится обо всех",
+  "summary": "На следующий год преданные во главе с Адвайтой снова отправились к Господу; Шивананда Сен с радостью вёл всех, давал им кров и заботился обо всех.",
+  "persons": [
+   "@mahaprabhu",
+   "@advaita",
+   "@shivananda-sena"
+  ],
+  "places": [
+   "#gauda",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; ср. Мадхья 16, Антья 1. Ст. 139 — у ВЧД «Махапрабху разместил всех преданных» (подлежащее — Шивананда, ср. Антья 1; исправлено со сноской).",
+  "themes": [
+   "pilgrimage",
+   "jagannatha"
+  ],
+  "years": [
+   1513,
+   1513
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.138: «на следующий год» после первого прихода гаудиев (1512)",
+  "cc": "Мадхья 1",
+  "event": "ev-gauda-devotees-yearly-visit",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "138",
+    "to": "139"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "138",
+    "to": "139",
+    "line": 1431,
+    "line_to": 1441,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1431-L1441"
+   }
+  ],
+  "age": [
+   27,
+   27
+  ],
+  "attestation": 6
+ },
+ {
   "id": "mkc-0249",
   "source": "murari-kcc",
   "ref": "Пракрама 4, сарга 23, шлоки 1–12",
@@ -148689,6 +150638,172 @@
   "age": [
    26,
    28
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0333",
+  "source": "cc",
+  "ref": "Мадхья 1.140",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 121,
+  "title": "Сутра: с Шиванандой приходит удачливая собака и, увидев стопы Господа, уходит из этого мира",
+  "summary": "Вместе с Шиванандой пришла удачливая собака; увидев стопы Господа, она исчезла (обрела освобождение).",
+  "persons": [
+   "@mahaprabhu",
+   "@shivananda-sena"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Антья 1.",
+  "themes": [
+   "mercy"
+  ],
+  "years": [
+   1513,
+   1513
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.138–140: во второй год приходов гаудиев",
+  "divergence": "В Мадхье 1 эпизод отнесён ко второму году приходов гаудиев (до путешествия Господа во Вриндаван); в Антье 1 он рассказан в начале антья-лилы, после возвращения Господа из Вриндавана; у Карнапуры (ЧЧд, акт 10) — «ещё до того, как Господь ходил в Матхуру».",
+  "cc": "Мадхья 1",
+  "event": "ev-shivananda-dog",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "140",
+    "to": "140"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "140",
+    "to": "140",
+    "line": 1451,
+    "line_to": 1451,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1451-L1451"
+   }
+  ],
+  "age": [
+   27,
+   27
+  ],
+  "attestation": 4
+ },
+ {
+  "id": "cc-0334",
+  "source": "cc",
+  "ref": "Мадхья 1.141",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 122,
+  "title": "Сутра: по пути гаудии встречают Сарвабхауму, уходящего в Каши",
+  "summary": "В пути все встретились с Сарвабхаумой; Сарвабхаума Бхаттачарья уходил в Каши.",
+  "persons": [
+   "@sarvabhauma"
+  ],
+  "places": [
+   "#kashi"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра. Ст. 141 — у ВЧД «по пути в Варанаси преданные…» (в Каши шёл Сарвабхаума; исправлено со сноской). Событие по Карнапуре отнесено к последним годам (P14); в ЧЧ Мадхья 1 — ко второму году приходов гаудиев.",
+  "themes": [
+   "teaching",
+   "pilgrimage"
+  ],
+  "years": [
+   1513,
+   1513
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.138–141: во второй год приходов гаудиев",
+  "cc": "Мадхья 1",
+  "event": "ev-sarvabhauma-to-varanasi",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "141",
+    "to": "141"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "141",
+    "to": "141",
+    "line": 1461,
+    "line_to": 1461,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1461-L1461"
+   }
+  ],
+  "age": [
+   27,
+   27
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "cc-0335",
+  "source": "cc",
+  "ref": "Мадхья 1.142–143",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 123,
+  "title": "Сутра: второй год — вайшнавы встречаются с Господом, игры в воде, очищение Гундичи и танец Господа на Ратха-ятре",
+  "summary": "Все вайшнавы пришли и встретились с Господом; Господь со всеми играл в воде, со всеми очистил храм Гундичи и танцевал, глядя на Ратха-ятру.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; ср. Мадхья 16 (второй год). Продолжение перечня второго года — ст. 144 и далее.",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "kirtan"
+  ],
+  "years": [
+   1513,
+   1513
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.138: второй год приходов гаудиев",
+  "calendar": "Ратха-ятра (ашадха)",
+  "cc": "Мадхья 1",
+  "event": "ev-gauda-devotees-yearly-visit",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "142",
+    "to": "143"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "142",
+    "to": "143",
+    "line": 1471,
+    "line_to": 1481,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1471-L1481"
+   }
+  ],
+  "age": [
+   27,
+   27
   ],
   "attestation": 6
  },
@@ -152011,6 +154126,62 @@
   "attestation": 13
  },
  {
+  "id": "cc-0330",
+  "source": "cc",
+  "ref": "Мадхья 1.135–136",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P12",
+  "order": 300.1,
+  "title": "Сутра: в саду — милость Пратапарудре; при прощании Господь велит гаудиям приходить каждый год на Ратха-ятру",
+  "summary": "Там же, в саду, Господь оказал милость Пратапарудре. В день прощания Он велел преданным Гауды приходить каждый год на Ратха-ятру — под этим предлогом Он желал встречаться с преданными.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 14–15. Прощание — ср. ev-gauda-devotees-yearly-visit.",
+  "themes": [
+   "mercy",
+   "jagannatha"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-prataparudra-mercy",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "135",
+    "to": "136"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "135",
+    "to": "136",
+    "line": 1401,
+    "line_to": 1411,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1401-L1411"
+   }
+  ],
+  "cb": "Антья 5",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 13
+ },
+ {
   "id": "gst-0018",
   "source": "gaura-stotras",
   "ref": "Рупа, Первая «Чайтаньяштака» 3",
@@ -152426,6 +154597,64 @@
   "date_conf": "вероятно",
   "date_basis": "Карнапура, «Чайтанья-чандродая», акт 9 (слова киннаров и Сарвабхаумы): после возвращения с Юга (1512) Господь, удерживаемый Раманандой, медлил два года",
   "cc": "Мадхья 16",
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "cc-0338",
+  "source": "cc",
+  "ref": "Мадхья 1.148–149",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 2,
+  "title": "Господь идёт во Вриндаван через Гауду: служение Пратапарудры, эпизод с одеждой и Пури Госани, Рамананда провожает до Бхадраки (перечень)",
+  "summary": "Чтобы идти во Вриндаван, Господь отправляется в Гауду; в пути Ему разнообразно служит Пратапарудра. Упомянут эпизод с подношением одежды, связанный с Пури Госани; Рамананда Рай провожает Господа до Бхадраки.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@paramananda-puri",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#puri",
+   "#bhadraka"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Мадхья 16. «Пури Госани» — по употреблению ЧЧ Парамананда Пури (отождествление предположительное).",
+  "themes": [
+   "pilgrimage",
+   "separation"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "по событию ev-departure-for-gauda (1514)",
+  "cc": "Мадхья 1; Мадхья 16",
+  "event": "ev-departure-for-gauda",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "148",
+    "to": "149"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "148",
+    "to": "149",
+    "line": 1531,
+    "line_to": 1541,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1531-L1541"
+   }
+  ],
   "age": [
    28,
    28
@@ -153816,6 +156045,62 @@
   "attestation": 1
  },
  {
+  "id": "cc-0341",
+  "source": "cc",
+  "ref": "Мадхья 1.155–162",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 5,
+  "title": "Нрисимхананда мысленно мостит Господу дорогу до Канаи Наташалы и предсказывает, что Господь повернёт назад",
+  "summary": "Услышав, что Господь пойдёт во Вриндаван, Нрисимхананда в созерцании мостит от Кулии дорогу самоцветами, устилает её цветами без стеблей, сажает вдоль неё ряды бакул и устраивает дивные пруды с самоцветными спусками, лотосами и птицами. Дальше Канаи Наташалы ум не идёт, и он, изумлённый, уверенно говорит преданным: на этот раз Господь не пойдёт во Вриндаван — от Канаи Наташалы Он повернёт назад.",
+  "persons": [
+   "@nrisimhananda",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#kulia",
+   "#kanai-natashala"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Подробно — Мадхья 16.",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1; Мадхья 16",
+  "event": "ev-natashala-kanai-return",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "155",
+    "to": "162"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "155",
+    "to": "162",
+    "line": 1601,
+    "line_to": 1671,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1601-L1671"
+   }
+  ],
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 6
+ },
+ {
   "id": "gkd-0126",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 13, 37–38",
@@ -155043,7 +157328,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cc-0255",
@@ -155103,6 +157388,62 @@
    30
   ],
   "attestation": 2
+ },
+ {
+  "id": "cc-0339",
+  "source": "cc",
+  "ref": "Мадхья 1.150–151",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 8,
+  "title": "В доме Видья-вачаспати: толпы пять дней; ночью Господь уходит в Кулию (перечень)",
+  "summary": "Придя в Гауду, Господь останавливается в доме Видья-вачаспати; посмотреть на Него собираются толпы. Пять дней люди не дают Ему покоя, и Господь ночью уходит в деревню Кулию.",
+  "persons": [
+   "@mahaprabhu",
+   "@vidya-vachaspati"
+  ],
+  "places": [
+   "#kulia"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень.",
+  "themes": [
+   "mercy",
+   "pilgrimage"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду после Виджая-дашами 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1",
+  "cb": "Антья 3",
+  "event": "ev-vidya-vachaspati-house",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "150",
+    "to": "151"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "150",
+    "to": "151",
+    "line": 1551,
+    "line_to": 1561,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1551-L1561"
+   }
+  ],
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 5
  },
  {
   "id": "gkd-0125",
@@ -155215,7 +157556,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "kcm-0174",
@@ -155270,7 +157611,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "mkc-0186",
@@ -155329,7 +157670,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cb-3049",
@@ -155390,7 +157731,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "cb-3050",
@@ -155686,6 +158027,65 @@
   "attestation": 3
  },
  {
+  "id": "cc-0340",
+  "source": "cc",
+  "ref": "Мадхья 1.152–154",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 9,
+  "title": "Кулия: несметные толпы; милость к Девананде, прощение Гопалы Чапалы и хулителей (перечень)",
+  "summary": "Услышав о приходе Господа в Кулию, приходят несметные толпы. Там Господь милует Девананду, прощает брахману Гопале оскорбление Шривасы; безбожники и хулители падают к Его стопам, и Он, простив их, дарует им любовь к Кришне.",
+  "persons": [
+   "@mahaprabhu",
+   "@devananda-pandita",
+   "@gopala-chapala",
+   "@srivasa"
+  ],
+  "places": [
+   "#kulia"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень. Прощение Гопалы — ср. ev-gopala-chapala-forgiven (Ади 17).",
+  "themes": [
+   "mercy",
+   "offense"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1; Ади 17",
+  "cb": "Антья 3",
+  "divergence": "У Мурари милость к Девананде — в доме Вачаспати; в ЧЧ (как и в ЧБ) — в Кулии.",
+  "event": "ev-devananda-mercy",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "152",
+    "to": "154"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "152",
+    "to": "154",
+    "line": 1571,
+    "line_to": 1591,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1571-L1591"
+   }
+  ],
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 3
+ },
+ {
   "id": "mkc-0187",
   "source": "murari-kcc",
   "ref": "Пракрама 3, сарга 17, шлоки 17–20",
@@ -155871,7 +158271,65 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
+ },
+ {
+  "id": "cc-0342",
+  "source": "cc",
+  "ref": "Мадхья 1.163–167",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 10,
+  "title": "Из Кулии к Вриндавану: толпы, люди уносят землю со следов Господа; пляска в Рамакели",
+  "summary": "Господь выходит из Кулии во Вриндаван, с Ним тысячи преданных; где Он проходит, несметные толпы приходят Его увидеть, и их горе исчезает; землю, которой коснулись Его стопы, люди уносят, и на дороге остаются ямы. Так Господь приходит в Рамакели близ Гауды и пляшет там без чувств от премы; поглядеть на Его стопы стекаются несметные толпы.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#kulia",
+   "#ramakeli",
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень.",
+  "themes": [
+   "pilgrimage",
+   "ecstasy",
+   "mercy"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1",
+  "event": "ev-ramakeli-rupa-sanatana",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "163",
+    "to": "167"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "163",
+    "to": "167",
+    "line": 1681,
+    "line_to": 1721,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1681-L1721"
+   }
+  ],
+  "cb": "Антья 4",
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 9
  },
  {
   "id": "jcm-0086",
@@ -155996,7 +158454,67 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
+ },
+ {
+  "id": "cc-0343",
+  "source": "cc",
+  "ref": "Мадхья 1.168–181",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 11,
+  "title": "Владыка Гауды о Господе: «Пусть идёт, куда пожелает»; Кешава Чхатри умаляет Господа, Дабир Кхас (Рупа) открывает Его славу",
+  "summary": "Мусульманский правитель Гауды, изумлённый влиянием Господа, говорит: кто без даяний ведёт за собой столько людей — несомненно, пророк; пусть никто не чинит Ему препятствий. Кешава Чхатри, чтобы отвратить вражду, умаляет Господа — нищий санньяси, на которого наговаривают, — и через брахмана просит Господа уйти. Наедине царь спрашивает Дабира Кхаса; тот говорит: даровавший тебе царство Господь родился в твоей стране; спроси своё сердце — ты, царь, подобен части Вишну. Царь отвечает: сердце говорит мне, что Он — Сам Ишвара.",
+  "persons": [
+   "@gauda-sultan",
+   "@keshava-vasu",
+   "@rupa-gosvami",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#gauda",
+   "#ramakeli"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Ст. 166 — у ВЧД «на окраине Бенгалии» (исправлено: близ Гауды, сноска); ст. 173 — у ВЧД «Твой слуга» (в оригинале — явана; сноска). «Амрита-праваха-бхашья»: владыка Гауды — падишах Хусейн Шах; Кешава намеренно не дал разговору развиться, опасаясь вражды царя к Господу.",
+  "themes": [
+   "muslims",
+   "revelation"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1",
+  "divergence": "У Карнапуры («Чайтанья-чандродая», акт 9) султану объясняет, кто идёт, сам министр Кешава Васу, и султан признаёт Господа Богом; в ЧЧ Кешава Чхатри умаляет Господа, а славу Его открывает Дабир Кхас (Рупа).",
+  "event": "ev-gauda-sultan-sees-crowds",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "168",
+    "to": "181"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "168",
+    "to": "181",
+    "line": 1731,
+    "line_to": 1861,
+    "count": 14,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1731-L1861"
+   }
+  ],
+  "cb": "Антья 4",
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 5
  },
  {
   "id": "ccd-0081",
@@ -156054,7 +158572,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "gkd-0127",
@@ -156115,7 +158633,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "jcm-0087",
@@ -156176,7 +158694,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "brt-0030",
@@ -156241,7 +158759,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "brt-0056",
@@ -156302,7 +158820,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cb-3058",
@@ -156362,7 +158880,7 @@
    28,
    30
   ],
-  "attestation": 4
+  "attestation": 5
  },
  {
   "id": "apr-0098",
@@ -156419,7 +158937,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "brt-0031",
@@ -156486,7 +159004,76 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
+ },
+ {
+  "id": "cc-0344",
+  "source": "cc",
+  "ref": "Мадхья 1.182–218",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 12,
+  "title": "Рамакели: Дабир Кхас и Сакара Маллик в полночь приходят к Господу; молитвы смирения; Господь даёт им имена Рупа и Санатана",
+  "summary": "Посоветовавшись, братья тайно, в полночь приходят к Господу; сначала их встречают Нитьянанда и Харидас и докладывают о них. С травой в зубах и тканью на шее братья падают ниц, плачут от смирения и молятся: они ниже Джагая и Мадхая — млеччхи по общению и делам; приводят шлоки «Бхакти-расамрита-синдху» (1.2.154) и «Стотра-ратны» (47, 43). Господь говорит: вы — Мои давние слуги, отныне ваши имена — Рупа и Санатана; по вашим письмам Я знал ваши сердца и наставлял вас шлокой о женщине, привязанной к другому; в Гауду Я пришёл только ради вас; скоро Кришна освободит вас. Он возлагает руки им на головы, они — Его стопы себе на головы; Господь просит преданных помиловать братьев, и все восклицают «Хари!».",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@nityananda",
+   "@haridasa-thakura",
+   "@jagai-madhai"
+  ],
+  "places": [
+   "#ramakeli"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Ст. 202 — по изданию ГМ «садайа» (Милосердный); у ВЧД — по чтению «сва-дайа̄» (сноска). Подробнее — Мадхья 19 (отречение братьев), Антья 1. Джагай и Мадхай — упоминание (ev-jagai-madhai-deliverance).",
+  "themes": [
+   "mercy",
+   "muslims"
+  ],
+  "teaching": [
+   "holy-name",
+   "vaishnava"
+  ],
+  "scriptures": [
+   "Бхакти-расамрита-синдху, 1.2.154",
+   "Стотра-ратна, 47",
+   "Стотра-ратна, 43"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1; Мадхья 19",
+  "event": "ev-ramakeli-rupa-sanatana",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "182",
+    "to": "218"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "182",
+    "to": "218",
+    "line": 1871,
+    "line_to": 2250,
+    "count": 37,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1871-L2250"
+   }
+  ],
+  "cb": "Антья 4",
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 9
  },
  {
   "id": "gkd-0128",
@@ -156544,7 +159131,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "jcm-0094",
@@ -156604,7 +159191,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "mkc-0188",
@@ -156672,7 +159259,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "nvl-0007",
@@ -156739,7 +159326,7 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "pvl-0195",
@@ -156804,7 +159391,74 @@
    28,
    30
   ],
-  "attestation": 8
+  "attestation": 9
+ },
+ {
+  "id": "cc-0345",
+  "source": "cc",
+  "ref": "Мадхья 1.219–226",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 12.2,
+  "title": "Рамакели: братья кланяются спутникам Господа и советуют Ему уйти — с такой толпой не ходят во Вриндаван",
+  "summary": "При встрече были Нитьянанда, Харидас, Шривас, Гададхар, Мукунда, Джагадананда, Мурари и Вакрешвар; братья падают к стопам каждого, и все говорят: «Вы благословенны — вы обрели Господа». Прощаясь, они смиренно просят Господа уйти: хоть царь Гауды и почитает Его, он мусульманин, доверять ему нельзя; идти во Вриндаван с толпой в сотни тысяч человек — не подобает. Господу нечего бояться, но Его лила — человеческая. Братья уходят, и Господь решает покинуть деревню.",
+  "persons": [
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@mahaprabhu",
+   "@nityananda",
+   "@haridasa-thakura",
+   "@srivasa",
+   "@gadadhara-pandita",
+   "@mukunda-datta",
+   "@jagadananda-pandita",
+   "@murari-gupta",
+   "@vakreshvara",
+   "@gauda-sultan"
+  ],
+  "places": [
+   "#ramakeli"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Подробнее совет Санатаны — Мадхья 16.",
+  "themes": [
+   "mercy",
+   "muslims",
+   "pilgrimage"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1; Мадхья 16",
+  "event": "ev-ramakeli-rupa-sanatana",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "219",
+    "to": "226"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "219",
+    "to": "226",
+    "line": 2260,
+    "line_to": 2330,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2260-L2330"
+   }
+  ],
+  "cb": "Антья 4",
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 9
  },
  {
   "id": "nvl-0008",
@@ -157393,6 +160047,62 @@
   "attestation": 4
  },
  {
+  "id": "cc-0346",
+  "source": "cc",
+  "ref": "Мадхья 1.227–231",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 13,
+  "title": "Канаи Наташала: картины лил Кришны; по совету Санатаны Господь оставляет поход с толпой и объявляет, что идёт в Нилачалу",
+  "summary": "Утром Господь приходит в Канаи Наташалу и видит там изображения лил Кришны. Ночью Он размышляет: Санатана сказал, что толпа — нехорошо; идти в Матхуру с таким множеством людей — нарушить расу; идти надо одному или с одним спутником. Утром, омывшись в Ганге, Он говорит: «Пойду в Нилачалу» — и отправляется в путь.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-gosvami"
+  ],
+  "places": [
+   "#kanai-natashala",
+   "#ganga"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сбывается предсказание Нрисимхананды (Мадхья 1.161–162).",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "путь в Гауду, 1514 г. (ev-departure-for-gauda)",
+  "cc": "Мадхья 1; Мадхья 16",
+  "event": "ev-natashala-kanai-return",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "227",
+    "to": "231"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "227",
+    "to": "231",
+    "line": 2340,
+    "line_to": 2380,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2340-L2380"
+   }
+  ],
+  "age": [
+   28,
+   28
+  ],
+  "attestation": 6
+ },
+ {
   "id": "apr-0097",
   "source": "advaita-prakasha",
   "ref": "Гл. 16, 6–28",
@@ -157689,6 +160399,65 @@
   "age": [
    28,
    30
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "cc-0347",
+  "source": "cc",
+  "ref": "Мадхья 1.232–235",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 15,
+  "title": "Шантипур: пять–семь дней у Адвайты; Шачи семь дней кормит Господа; прощание с преданными",
+  "summary": "Господь приходит в Шантипур и пять–семь дней живёт в доме Адвайты Ачарьи. Приходит Шачидеви и выражает Ему почтение; семь дней Господь принимает пищу у неё. С её позволения Он снова отправляется в путь и смиренно прощается с преданными: в Нилачалу Он пойдёт с двумя спутниками, а с остальными встретится на Ратха-ятре.",
+  "persons": [
+   "@mahaprabhu",
+   "@advaita",
+   "@shachi"
+  ],
+  "places": [
+   "#shantipura"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "У ВЧД ст. 233 передан вольно: «Адвайта не замедлил пригласить Шачидеви, и та семь дней готовила».",
+  "themes": [
+   "family",
+   "prasada",
+   "separation"
+  ],
+  "years": [
+   1514,
+   1514
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "возвращение из Гауды, 1514 г. (оценка)",
+  "cc": "Мадхья 1; Мадхья 16",
+  "divergence": "У Мурари и Лочана Даса (ev-shantipura-second-visit) пребывание у Адвайты в Шантипуре отнесено и ко времени после Вриндавана; в ЧЧ — после поворота от Канаи Наташалы.",
+  "event": "ev-shantipura-after-natashala",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "232",
+    "to": "235"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "232",
+    "to": "235",
+    "line": 2390,
+    "line_to": 2420,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2390-L2420"
+   }
+  ],
+  "cb": "Антья 4",
+  "age": [
+   28,
+   28
   ],
   "attestation": 7
  },
@@ -158675,6 +161444,63 @@
   "attestation": 3
  },
  {
+  "id": "cc-0348",
+  "source": "cc",
+  "ref": "Мадхья 1.236",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 20,
+  "title": "Господь возвращается в Нилачалу с Балабхадрой Бхаттачарьей и Дамодарой Пандитом",
+  "summary": "С двумя спутниками — Балабхадрой Бхаттачарьей и Пандитом Дамодарой — Господь приходит в Нилачалу.",
+  "persons": [
+   "@mahaprabhu",
+   "@balabhadra-bhattacharya",
+   "@damodara-pandita"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень.",
+  "themes": [
+   "pilgrimage",
+   "jagannatha"
+  ],
+  "years": [
+   1514,
+   1515
+  ],
+  "date_conf": "оценка",
+  "date_basis": "после пути в Гауду 1514 г.; осенью 1515 г. — уход во Вриндаван (оценка)",
+  "cc": "Мадхья 1; Мадхья 16",
+  "event": "ev-return-puri-after-gauda",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "236",
+    "to": "236"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "236",
+    "to": "236",
+    "line": 2430,
+    "line_to": 2430,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2430-L2430"
+   }
+  ],
+  "cb": "Антья 5.122–138",
+  "age": [
+   28,
+   29
+  ],
+  "attestation": 3
+ },
+ {
   "id": "cc-2111",
   "source": "cc",
   "ref": "Мадхья 16.252–278",
@@ -159036,6 +161862,66 @@
   "age": [
    28,
    30
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0349",
+  "source": "cc",
+  "ref": "Мадхья 1.237–240",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 25,
+  "title": "Тайный уход во Вриндаван с одним Балабхадрой: Джхарикханда, Каши, Матхура, двенадцать лесов; Балабхадра уводит Господа из Матхуры",
+  "summary": "Пробыв в Нилачале несколько дней, Господь тайно, ночью, уходит во Вриндаван; с Ним лишь Балабхадра Бхаттачарья. Лесной дорогой Джхарикханды, являя разные игры, Он приходит в Каши; через четыре дня идёт во Вриндаван, видит Матхуру и обходит двенадцать лесов. При виде мест лил Он теряет покой от премы, и Балабхадра уводит Его из Матхуры.",
+  "persons": [
+   "@mahaprabhu",
+   "@balabhadra-bhattacharya"
+  ],
+  "places": [
+   "#puri",
+   "#jharikhanda",
+   "#kashi",
+   "#mathura",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Мадхья 17–18. Ст. 239 — у ВЧД в перевод вставлен перечень двенадцати лесов (из «Анубхашьи»); снят, перечень дан в комментарии. Уход из Матхуры — ср. ev-akrura-ghata-fall.",
+  "themes": [
+   "pilgrimage",
+   "krishna-lila",
+   "ecstasy"
+  ],
+  "years": [
+   1515,
+   1515
+  ],
+  "date_conf": "оценка",
+  "date_basis": "поход во Вриндаван — по традиционной хронологии осень 1515 г. (оценка)",
+  "cc": "Мадхья 1; Мадхья 17–18",
+  "event": "ev-departure-for-vrindavana",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "237",
+    "to": "240"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "237",
+    "to": "240",
+    "line": 2440,
+    "line_to": 2470,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2440-L2470"
+   }
+  ],
+  "age": [
+   29,
+   29
   ],
   "attestation": 6
  },
@@ -166174,6 +169060,66 @@
   "attestation": 9
  },
  {
+  "id": "cc-0350",
+  "source": "cc",
+  "ref": "Мадхья 1.241–243",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 182,
+  "title": "Праяга: встреча с Рупой, наставление; Рупа послан во Вриндаван",
+  "summary": "Дорогой вдоль Ганги Балабхадра приводит Господа в Праягу; там к Нему приходит Шри Рупа и падает ниц, и Господь в великом блаженстве обнимает его. Наставив Рупу, Господь посылает его во Вриндаван, а Сам идёт в Варанаси.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@balabhadra-bhattacharya"
+  ],
+  "places": [
+   "#prayaga",
+   "#ganga",
+   "#kashi"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Мадхья 19.",
+  "themes": [
+   "mercy",
+   "teaching",
+   "pilgrimage"
+  ],
+  "years": [
+   1516,
+   1516
+  ],
+  "date_conf": "оценка",
+  "date_basis": "на обратном пути из Матхуры, перед двумя месяцами в Каши — начало 1516 г. (оценка)",
+  "cc": "Мадхья 1; Мадхья 19",
+  "divergence": "У Лочана Даса встречи с Рупой и Санатаной объединены (в ЧЧ — Праяга и Каши раздельно).",
+  "event": "ev-rupa-prayaga",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "241",
+    "to": "243"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "241",
+    "to": "243",
+    "line": 2480,
+    "line_to": 2500,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2480-L2500"
+   }
+  ],
+  "age": [
+   30,
+   30
+  ],
+  "attestation": 9
+ },
+ {
   "id": "cc-3025",
   "source": "cc",
   "ref": "Мадхья 19.44–60",
@@ -168265,6 +171211,65 @@
     "count": 4,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi07.md?plain=1#L451-L481"
    }
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0351",
+  "source": "cc",
+  "ref": "Мадхья 1.244–245",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P13",
+  "order": 185,
+  "title": "Каши: два месяца наставлений Санатане; Санатана послан в Матхуру; милость к санньяси; возвращение в Нилачалу",
+  "summary": "В Каши к Господу приходит Санатана; два месяца Господь наставляет его, а затем, наделив силой бхакти, посылает в Матхуру. Оказав милость санньяси, Господь уходит в Нилачалу.",
+  "persons": [
+   "@mahaprabhu",
+   "@sanatana-gosvami",
+   "@prakashananda-sarasvati"
+  ],
+  "places": [
+   "#kashi",
+   "#mathura",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Мадхья 20–25. «Санньяси» — по «Анубхашье», Пракашананда (Мадхья 25: ev-varanasi-sannyasis).",
+  "themes": [
+   "teaching",
+   "mercy",
+   "sannyasa"
+  ],
+  "years": [
+   1516,
+   1516
+  ],
+  "date_conf": "оценка",
+  "date_basis": "на обратном пути из Матхуры, два месяца в Каши — начало 1516 г. (оценка)",
+  "cc": "Мадхья 1; Мадхья 20, 25",
+  "event": "ev-sanatana-kashi-instruction",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "244",
+    "to": "245"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "244",
+    "to": "245",
+    "line": 2510,
+    "line_to": 2520,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2510-L2520"
+   }
+  ],
+  "age": [
+   30,
+   30
   ],
   "attestation": 6
  },
@@ -175571,6 +178576,80 @@
   "attestation": 3
  },
  {
+  "id": "cc-0353",
+  "source": "cc",
+  "ref": "Мадхья 1.249–256",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 1,
+  "title": "Восемнадцать лет в Нилачале: спутники, живущие с Господом, и ежегодные приходы преданных Гауды на четыре месяца",
+  "summary": "Вернувшись из Вриндавана, Господь восемнадцать лет живёт в Нилачале и никуда не уходит. Каждый год приходят преданные Гауды и остаются с Ним четыре месяца; Господь непрестанно поёт и пляшет в киртане и дарует любовную преданность всем, вплоть до чандалов. В Нилачале живут Гададхара Пандит, Вакрешвар, Дамодар, Шанкар, Харидас, Джагадананда, Бхавананда, Говинда, Кашишвар, Парамананда Пури, Сварупа Дамодара, Рамананда Рай и другие жители Кшетры; каждый год приходят Адвайта, Нитьянанда, Мукунда, Шривас, Видьянидхи, Васудева, Мурари и другие.",
+  "persons": [
+   "@mahaprabhu",
+   "@gadadhara-pandita",
+   "@vakreshvara",
+   "@damodara-pandita",
+   "@shankara-pandita",
+   "@haridasa-thakura",
+   "@jagadananda-pandita",
+   "@bhavananda-raya",
+   "@govinda-servant",
+   "@kashishvara",
+   "@paramananda-puri",
+   "@svarupa-damodara",
+   "@ramananda-raya",
+   "@advaita",
+   "@nityananda",
+   "@mukunda-datta",
+   "@srivasa",
+   "@pundarika-vidyanidhi",
+   "@vasudeva-datta",
+   "@murari-gupta"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Ст. 253 — по изданию ГМ «Бхавананда» (у ВЧД — «Бхагаван», сноска); отождествление с Бхаванандой Раем — по контексту (жители Нилачалы). «Васудева» (ст. 255) — предположительно Васудева Датта, «Говинда» — слуга Господа (@govinda-servant).",
+  "themes": [
+   "kirtan",
+   "mercy",
+   "jagannatha"
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.249: восемнадцать лет после возвращения из Вриндавана (1516–1533)",
+  "cc": "Мадхья 1",
+  "event": "ev-puri-eighteen-years-associates",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "249",
+    "to": "256"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "249",
+    "to": "256",
+    "line": 2560,
+    "line_to": 2627,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2560-L2627"
+   }
+  ],
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "kcm-0162",
   "source": "karnapura-ckm",
   "ref": "Сарга 18, 17–45",
@@ -176288,6 +179367,64 @@
   "age": [
    30,
    47
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0299",
+  "source": "cc",
+  "ref": "Мадхья 1.48–50",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 5.1,
+  "title": "Сутра: «Приходите каждый год на Гундичу» — двенадцать лет преданные Гауды ежегодно приходят к Господу",
+  "summary": "Прощаясь, Господь велел всем приходить каждый год на праздник Гундичи; по Его велению преданные ежегодно приходили, видели Гундичу, встречались с Господом и уходили. Так двенадцать лет они приходили и уходили — ни Господь, ни преданные не могли жить друг без друга.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri",
+   "#gundicha",
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; ср. Мадхья 15–16, Антья 10, 12.",
+  "themes": [
+   "jagannatha",
+   "festival",
+   "kirtan"
+  ],
+  "years": [
+   1512,
+   1523
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.50: двенадцать лет ежегодных приходов, считая от первого прихода гаудиев (1512 — оценка)",
+  "calendar": "Ратха-ятра (ашадха)",
+  "cc": "Мадхья 1",
+  "event": "ev-gauda-devotees-yearly-visit",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "48",
+    "to": "50"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "48",
+    "to": "50",
+    "line": 507,
+    "line_to": 527,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L507-L527"
+   }
+  ],
+  "age": [
+   26,
+   37
   ],
   "attestation": 6
  },
@@ -177817,6 +180954,67 @@
   "attestation": 3
  },
  {
+  "id": "cc-0302",
+  "source": "cc",
+  "ref": "Мадхья 1.59–75",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 11.5,
+  "title": "Рупа понимает шлоку Господа и пишет ответную на пальмовом листе; Господь находит её в кровле, шлепком и объятием одаряет Рупу милостью и велит Сварупе учить его сокровенной расе",
+  "summary": "Смысл шлоки знал лишь Сварупа, но в тот год в Пури был и Рупа: услышав её из уст Господа, он тут же сложил стих-разъяснение, записал его на пальмовом листе, засунул в кровлю своего жилища и ушёл омыться в море. Харидас Тхакур, Рупа и Санатана не входили в храм Джаганнатхи; Господь, увидев упала-бхогу, приходил к тому из троих, кто был на месте, и лишь потом шёл к Себе. В тот раз, взглянув вверх, Он нашёл лист со стихом и, прочитав, погрузился в экстаз; Рупа пал перед Ним, как палка; Господь шлёпнул его, обнял и спросил: «Никто не знает замысла Моего стиха — как ты узнал Мой ум?» Показав стих Сварупе, Он спросил и его; Сварупа ответил: «Раз он узнал Твой ум — значит, получил Твою милость». Господь сказал: «Довольный им, Я обнял его и передал ему все силы; он достоин постичь сокровенную расу — объясняй её и ты». Подробнее — в Антье.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@svarupa-damodara",
+   "@haridasa-thakura",
+   "@sanatana-gosvami",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Подробно — Антья 1. Ст. 63–65 — правило Господа ежедневно навещать Харидаса, Рупу и Санатану (они не входили в храм). Ст. 73: объятие с передачей сил — по-видимому, в Праяге (Мадхья 19).",
+  "themes": [
+   "mercy",
+   "ecstasy"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-priyah-so-yam-rupa",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "59",
+    "to": "75"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "59",
+    "to": "75",
+    "line": 623,
+    "line_to": 783,
+    "count": 17,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L623-L783"
+   }
+  ],
+  "years": [
+   1516,
+   1517
+  ],
+  "date_conf": "оценка",
+  "age": [
+   30,
+   31
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4008",
   "source": "cc",
   "ref": "Антья 1.72–92",
@@ -177869,6 +181067,77 @@
     "line_to": 695,
     "count": 21,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya01.txt?plain=1#L539-L695"
+   }
+  ],
+  "years": [
+   1516,
+   1517
+  ],
+  "date_conf": "оценка",
+  "age": [
+   30,
+   31
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0303",
+  "source": "cc",
+  "ref": "Мадхья 1.76–84",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 11.51,
+  "title": "Шлока Рупы «прийах со ’йам» и её смысл: Радха на Курукшетре тоскует по Кришне-пастушку во Вриндаване; гопи у Бхагаватам и «Лалита-мадхавы»",
+  "summary": "Шлока Рупы («Падьявали», 387): «Подруга, это тот же дорогой Кришна, встреченный на Курукшетре, и Я та же Радха, и то же счастье встречи — но Мой ум стремится к лесу на берегу Калинди, где звучит пятая нота Его флейты». Смысл: видя Джаганнатху, Господь чувствует как Радхика, обретшая на Курукшетре даршан Кришны: царские одежды, слоны, кони, толпы — где Его наряд пастушка, где уединённый Вриндаван? Лишь там, с тем Кришной и в том чувстве, исполнится желание. Так и гопи говорят в «Бхагаватам» (10.82.48): «Пусть Твои лотосные стопы, которые созерцают йоги, взойдут и в наших умах, хоть мы и привязаны к дому» — то есть «пусть Твои стопы явятся в Моём доме во Врадже». Обдумав смысл этого стиха, Рупа сложил свой, понятный людям; и в «Лалита-мадхаве» (10.38) гопи зовут Кришну играть на флейте в благословенной земле Матхуры.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@radha",
+   "@krishna",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana"
+  ],
+  "kind": "teaching",
+  "authority": "A",
+  "notes": "Ст. 83 — по изданию ГМ «шлокартха вичара» (у ВЧД — по чтению «шлока-гудхартха вишада»; сноска).",
+  "themes": [
+   "krishna-lila",
+   "ecstasy",
+   "teaching"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "teaching": [
+   "prema",
+   "scripture"
+  ],
+  "scriptures": [
+   "Падьявали, 387",
+   "Бхаг. 10.82.48",
+   "Лалита-мадхава, 10.38"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-priyah-so-yam-rupa",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "76",
+    "to": "84"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "76",
+    "to": "84",
+    "line": 799,
+    "line_to": 891,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L799-L891"
    }
   ],
   "years": [
@@ -178189,6 +181458,60 @@
    24
   ],
   "attestation": 1
+ },
+ {
+  "id": "cc-0355",
+  "source": "cc",
+  "ref": "Мадхья 1.258",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 12,
+  "title": "Рупа снова приходит в Пури; Господь вкладывает силу в его сердце (перечень)",
+  "summary": "Рупа Госвами снова приходит к Господу, и Господь вкладывает в его сердце Свою силу.",
+  "persons": [
+   "@rupa-gosvami",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 1. «Анубхашья»: вложение чит-шакти.",
+  "themes": [
+   "mercy"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 1",
+  "event": "ev-rupa-puri-dramas",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "258",
+    "to": "258"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "258",
+    "to": "258",
+    "line": 2647,
+    "line_to": 2647,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2647-L2647"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 4
  },
  {
   "id": "cc-4010",
@@ -178947,6 +182270,65 @@
   "attestation": 4
  },
  {
+  "id": "cc-0358",
+  "source": "cc",
+  "ref": "Мадхья 1.260–261",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 14,
+  "title": "Санатана снова в Пури: испытание в месяц джьяиштха; довольный Господь посылает его во Вриндаван (перечень)",
+  "summary": "Санатана Госвами снова приходит в Пури; в месяц джьяиштха Господь испытывает его и, довольный им, посылает во Вриндаван.",
+  "persons": [
+   "@sanatana-gosvami",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 4.",
+  "themes": [
+   "mercy"
+  ],
+  "teaching": [
+   "vaishnava"
+  ],
+  "calendar": "джьяиштха",
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 4",
+  "event": "ev-sanatana-puri-sores",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "260",
+    "to": "261"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "260",
+    "to": "261",
+    "line": 2667,
+    "line_to": 2677,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2667-L2677"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 4
+ },
+ {
   "id": "gkd-0162",
   "source": "gaura-krishnodaya",
   "ref": "Сарга 17, 1–3",
@@ -179452,6 +182834,60 @@
   "age": [
    30,
    47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0357",
+  "source": "cc",
+  "ref": "Мадхья 1.259",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 14.8,
+  "title": "Дамодара Пандит «наказывает» Господа словами (перечень)",
+  "summary": "Дамодара Пандит укоряет Господа словами («ваккья-данда»).",
+  "persons": [
+   "@damodara-pandita",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 3. «Анубхашья»: предостережение о том, что несведущие станут осуждать Господа; по суждению преданных — лишь видимость наказания.",
+  "themes": [
+   "teaching"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 3",
+  "event": "ev-damodara-vakya-danda",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "259",
+    "to": "259"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "259",
+    "to": "259",
+    "line": 2657,
+    "line_to": 2657,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2657-L2657"
+   }
+  ],
+  "age": [
+   30,
+   36
   ],
   "attestation": 1
  },
@@ -180689,6 +184125,68 @@
   "attestation": 3
  },
  {
+  "id": "cc-0296",
+  "source": "cc",
+  "ref": "Мадхья 1.31–34",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 17.51,
+  "title": "Сутра: Господь посылает Рупу и Санатану во Врадж — они открывают святые места, утверждают служение Мадана-Гопалы и Говинды и пишут книги о сокровенной бхакти Враджа",
+  "summary": "Господь послал Рупу и Санатану во Врадж, и по Его велению братья пришли во Вриндаван. Проповедуя бхакти, они открыли все святые места и распространили служение Мадана-Гопалы и Говинды; собрав множество писаний, составили книги — суть бхакти — и спасли глупых и падших; по повелению Господа изучили все шастры и проповедовали сокровенную бхакти Враджа.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@madana-mohana-vrindavana",
+   "@govinda-deity"
+  ],
+  "places": [
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра. Повеление братьям — в Праяге и Каши (Мадхья 19–20, 23); Мадана-Гопала — Божество Санатаны, Говинда — Рупы.",
+  "themes": [
+   "pilgrimage",
+   "deities",
+   "teaching"
+  ],
+  "teaching": [
+   "bhakti-supremacy"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-gosvamis-reveal-lost-tirthas",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "31",
+    "to": "34"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "31",
+    "to": "34",
+    "line": 337,
+    "line_to": 367,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L337-L367"
+   }
+  ],
+  "date_conf": "оценка",
+  "years": [
+   1516,
+   1533
+  ],
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 3
+ },
+ {
   "id": "brt-0062",
   "source": "bhakti-ratnakara",
   "ref": "Таранга 2, 473–483",
@@ -181552,6 +185050,64 @@
   "attestation": 2
  },
  {
+  "id": "cc-0356",
+  "source": "cc",
+  "ref": "Мадхья 1.259",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 25,
+  "title": "Господь наказывает Младшего Харидаса (перечень)",
+  "summary": "Господь наказывает Младшего Харидаса.",
+  "persons": [
+   "@mahaprabhu",
+   "@chhota-haridasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 2.",
+  "themes": [
+   "sannyasa",
+   "offense"
+  ],
+  "teaching": [
+   "sannyasa-teaching"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 2",
+  "event": "ev-chhota-haridasa-punished",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "259",
+    "to": "259"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "259",
+    "to": "259",
+    "line": 2657,
+    "line_to": 2657,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2657-L2657"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 2
+ },
+ {
   "id": "cc-4022",
   "source": "cc",
   "ref": "Антья 2.101–145",
@@ -181691,6 +185247,65 @@
   "attestation": 1
  },
  {
+  "id": "cc-0362",
+  "source": "cc",
+  "ref": "Мадхья 1.264",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 26,
+  "title": "Господь посылает Прадьюмну Мишру слушать кришна-катху у Рамананды Рая (перечень)",
+  "summary": "Рассказав Прадьюмне Мишре о достоинствах Рамананды, Господь даёт ему услышать от Рамананды кришна-катху.",
+  "persons": [
+   "@mahaprabhu",
+   "@pradyumna-mishra",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 5. «Анубхашья»: вайшнава-ачарья Рамананда, не брахман по рождению, принят в гуру брахманом по рождению.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "vaishnava",
+   "prema"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 5",
+  "event": "ev-pradyumna-mishra-hears-ramananda",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "264",
+    "to": "264"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "264",
+    "to": "264",
+    "line": 2707,
+    "line_to": 2707,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2707-L2707"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4032",
   "source": "cc",
   "ref": "Антья 3.143–163",
@@ -181806,6 +185421,62 @@
    47
   ],
   "attestation": 1
+ },
+ {
+  "id": "cc-0366",
+  "source": "cc",
+  "ref": "Мадхья 1.283",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 29,
+  "title": "Рагхунатха Дас у Нитьянанды устраивает праздник чида-дадхи (перечень)",
+  "summary": "Рагхунатха Дас приходит к Нитьянанде и там устраивает праздник плющеного риса с простоквашей.",
+  "persons": [
+   "@raghunatha-dasa",
+   "@nityananda"
+  ],
+  "places": [
+   "#panihati"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 6. Место (Панихати) — по «Анубхашье».",
+  "themes": [
+   "festival",
+   "prasada",
+   "mercy"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 6",
+  "event": "ev-panihati-chida-dadhi",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "283",
+    "to": "283"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "283",
+    "to": "283",
+    "line": 2897,
+    "line_to": 2897,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2897-L2897"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 2
  },
  {
   "id": "cc-4065",
@@ -182296,6 +185967,66 @@
   "age": [
    30,
    47
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0367",
+  "source": "cc",
+  "ref": "Мадхья 1.284",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 30,
+  "title": "С позволения Нитьянанды Рагхунатха приходит к стопам Господа; Господь вверяет его Сварупе (перечень)",
+  "summary": "С позволения Нитьянанды Рагхунатха приходит к стопам Господа, и Господь вверяет его попечению Сварупы.",
+  "persons": [
+   "@raghunatha-dasa",
+   "@mahaprabhu",
+   "@svarupa-damodara",
+   "@nityananda"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 6. «Анубхашья» приводит «Вилапа-кусуманджали», 5.",
+  "themes": [
+   "mercy",
+   "sannyasa"
+  ],
+  "scriptures": [
+   "Вилапа-кусуманджали, 5"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 6",
+  "event": "ev-raghunatha-dasa-joins-lord",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "284",
+    "to": "284"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "284",
+    "to": "284",
+    "line": 2907,
+    "line_to": 2907,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2907-L2907"
+   }
+  ],
+  "age": [
+   30,
+   36
   ],
   "attestation": 6
  },
@@ -183229,6 +186960,63 @@
    47
   ],
   "attestation": 1
+ },
+ {
+  "id": "cc-0361",
+  "source": "cc",
+  "ref": "Мадхья 1.263",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 32,
+  "title": "Валлабха Бхатта у Господа; Господь объясняет ему смысл имени Кришны (перечень)",
+  "summary": "Валлабха Бхатта встречается с Господом, и Господь объясняет ему смысл имени Кришны.",
+  "persons": [
+   "@mahaprabhu",
+   "@vallabha-bhatta"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 7 (ср. Мадхья 19). «Анубхашья»: Валлабха Бхатта принял имя-мантру у Гададхары Пандита.",
+  "themes": [
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 7",
+  "event": "ev-vallabha-bhatta-puri",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "263",
+    "to": "263"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "263",
+    "to": "263",
+    "line": 2697,
+    "line_to": 2697,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2697-L2697"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 3
  },
  {
   "id": "cc-4077",
@@ -184756,6 +188544,62 @@
   "attestation": 1
  },
  {
+  "id": "cc-0364",
+  "source": "cc",
+  "ref": "Мадхья 1.266",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 40,
+  "title": "Из-за Рамачандры Пури Господь урезает Свою пищу; видя печаль вайшнавов, оставляет половину (перечень)",
+  "summary": "Опасаясь Рамачандры Пури, Господь уменьшает Свою пищу; видя печаль вайшнавов, Он оставляет половину прежнего.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramachandra-puri"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 8.",
+  "themes": [
+   "prasada",
+   "offense",
+   "sannyasa"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 8",
+  "event": "ev-ramachandra-puri-criticism",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "266",
+    "to": "266"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "266",
+    "to": "266",
+    "line": 2727,
+    "line_to": 2727,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2727-L2727"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-3031",
   "source": "cc",
   "ref": "Мадхья 19.123–134",
@@ -184878,7 +188722,7 @@
    30,
    47
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "vlb-0002",
@@ -184944,6 +188788,123 @@
   "age": [
    30,
    47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0365",
+  "source": "cc",
+  "ref": "Мадхья 1.267–282",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 44,
+  "title": "Существа четырнадцати миров под видом паломников приходят на даршан; Господь гневается на киртан о Нём, народ славит Его; шутливый укор Шриниваса",
+  "summary": "Живые существа всех четырнадцати миров, приняв облик людей, под видом паломников приходят в Нилачалу увидеть Господа. Однажды Шривас и другие преданные поют киртан о качествах Махапрабху; Господь гневно говорит: «Оставив имена и качества Кришны, что вы поёте? Своевольные, вы погубите мир!» В это время несметные толпы со всех сторон кричат: «Слава Кришне Чайтанье, сыну царя Враджа! Мы пришли издалека — дай нам даршан!» Тронутый их смирением, Господь выходит, поднимает руки и велит: «Говорите „Хари! Хари!“» — и все стороны наполняет звук имени. Люди славят Его как Ишвару; Шринивас шутливо говорит: «Дома Ты прячешься — зачем же являешься снаружи? Закрой им рты рукой! Солнце взошло — и хочет спрятаться». Господь отвечает: «Шринивас, оставь насмешки — вы все вместе Меня позорите», одаряет людей благим взглядом и уходит в дом, исполнив их желание.",
+  "persons": [
+   "@mahaprabhu",
+   "@srivasa"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Паломники из всех миров — ср. Антья 9.7–12 («Анубхашья»); упрёк Господа и шутка Шриниваса подробно рассказаны лишь здесь.",
+  "themes": [
+   "kirtan",
+   "revelation",
+   "mercy"
+  ],
+  "bhava": [
+   "devotee"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 9",
+  "event": "ev-worlds-pilgrims-srivasa-praise",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "267",
+    "to": "282"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "267",
+    "to": "282",
+    "line": 2737,
+    "line_to": 2887,
+    "count": 16,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2737-L2887"
+   }
+  ],
+  "age": [
+   30,
+   36
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0363",
+  "source": "cc",
+  "ref": "Мадхья 1.265",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 45,
+  "title": "Господь спасает Гопинатху Паттанаяка, брата Рамананды, от казни (перечень)",
+  "summary": "Царь собирался казнить Гопинатху Паттанаяка, брата Рамананды, и Господь стал его спасителем.",
+  "persons": [
+   "@mahaprabhu",
+   "@gopinatha-pattanayaka",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 9 (там казнь приказал старший царевич). «Царь» не отмечен тегом.",
+  "themes": [
+   "mercy"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: первые шесть лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 9",
+  "event": "ev-gopinatha-pattanayaka-pardoned",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "265",
+    "to": "265"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "265",
+    "to": "265",
+    "line": 2717,
+    "line_to": 2717,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2717-L2717"
+   }
+  ],
+  "age": [
+   30,
+   36
   ],
   "attestation": 1
  },
@@ -185895,6 +189856,61 @@
   "age": [
    30,
    47
+  ],
+  "attestation": 3
+ },
+ {
+  "id": "cc-0354",
+  "source": "cc",
+  "ref": "Мадхья 1.257",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 60,
+  "title": "Уход Харидаса Тхакура и праздник, устроенный Махапрабху (перечень)",
+  "summary": "Харидас достигает совершенства (уходит) — всё это удивительно; Сам Махапрабху устраивает в его честь великий праздник.",
+  "persons": [
+   "@haridasa-thakura",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра-перечень; подробно — Антья 11.",
+  "themes": [
+   "departure",
+   "festival"
+  ],
+  "years": [
+   1516,
+   1522
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.285: среди игр первых шести лет из последних восемнадцати (1516–1522)",
+  "cc": "Мадхья 1; Антья 11",
+  "event": "ev-haridasa-departure",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "257",
+    "to": "257"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "257",
+    "to": "257",
+    "line": 2637,
+    "line_to": 2637,
+    "count": 1,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2637-L2637"
+   }
+  ],
+  "age": [
+   30,
+   36
   ],
   "attestation": 3
  },
@@ -189960,6 +193976,64 @@
   "attestation": 2
  },
  {
+  "id": "cc-0300",
+  "source": "cc",
+  "ref": "Мадхья 1.51–52",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 99.1,
+  "title": "Сутра: последние двенадцать лет Господь погружён в лилы разлуки с Кришной, день и ночь — в божественном безумии",
+  "summary": "В оставшиеся последние двенадцать лет сердце Господа было поглощено лилами разлуки с Кришной: непрестанно, день и ночь, в божественном безумии разлуки Он смеялся, плакал, танцевал и пел в великой скорби.",
+  "persons": [
+   "@mahaprabhu",
+   "@krishna"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Мадхья 2, Антья 14–20. Ст. 52 — у ВЧД «почти сделала Его безумцем» (исправлено: божественное безумие разлуки).",
+  "themes": [
+   "separation",
+   "ecstasy"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "years": [
+   1522,
+   1533
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.51: последние двенадцать лет (до ухода Господа в 1533/34)",
+  "cc": "Мадхья 1",
+  "event": "ev-last-twelve-years-gambhira",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "51",
+    "to": "52"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "51",
+    "to": "52",
+    "line": 537,
+    "line_to": 547,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L537-L547"
+   }
+  ],
+  "age": [
+   36,
+   47
+  ],
+  "attestation": 2
+ },
+ {
   "id": "pvl-0012",
   "source": "prema-vilasa",
   "ref": "Виласа 2, 1–12",
@@ -191027,6 +195101,69 @@
   "years_from": "period",
   "age": [
    30,
+   47
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "cc-0304",
+  "source": "cc",
+  "ref": "Мадхья 1.85–88",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P14",
+  "order": 100.1,
+  "title": "Сутра: видя Джаганнатху с Субхадрой и без флейты, Господь жаждет трижды изогнутого Кришну Враджа; как Радха при виде Уддхавы, Он день и ночь в удгхурне",
+  "summary": "Глядя на Джаганнатху, Махапрабху видел Его с Субхадрой и без флейты в руке и непрестанно жаждал: «Где во Врадже Я найду трижды изогнутого прекрасного сына царя Враджа?» Как Радхика обезумела при виде Уддхавы, так Господь день и ночь говорил в смятении (удгхурна) божественного безумия; так Он провёл последние двенадцать лет — таков порядок Шеша-лилы.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-deity",
+   "@subhadra",
+   "@krishna",
+   "@radha",
+   "@uddhava"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Сутра; подробно — Антья 14–20. Ст. 88 — у ВЧД «полубезумном состоянии» (исправлено: божественное безумие).",
+  "themes": [
+   "ecstasy",
+   "separation",
+   "jagannatha"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "years": [
+   1522,
+   1533
+  ],
+  "date_conf": "оценка",
+  "date_basis": "ЧЧ Мадхья 1.88: последние двенадцать лет",
+  "cc": "Мадхья 1",
+  "event": "ev-gambhira-divine-madness",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "85",
+    "to": "88"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "85",
+    "to": "88",
+    "line": 901,
+    "line_to": 931,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L901-L931"
+   }
+  ],
+  "age": [
+   36,
    47
   ],
   "attestation": 6
@@ -216154,7 +220291,67 @@
    47,
    48
   ],
-  "attestation": 1
+  "attestation": 2
+ },
+ {
+  "id": "cc-0297",
+  "source": "cc",
+  "ref": "Мадхья 1.35–45",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "P15",
+  "order": 100.1,
+  "title": "Книги Госвами: «Хари-бхакти-виласа» и «Бхагаватамрита» Санатаны; «Расамрита-синдху», драмы, «Уджвала-ниламани» и сто тысяч шлок Рупы; «Бхагавата-сандарбха» и «Гопала-чампу» Дживы",
+  "summary": "Санатана Госвами создал «Хари-бхакти-виласу», «Бхагаватамриту», «Дашама-типпани» и «Дашама-чариту». Книг Рупы Госвами не счесть — в ста тысячах шлок он описал игры Враджа: «Бхакти-расамрита-синдху», «Видагдха-мадхава», «Уджвала-ниламани», «Лалита-мадхава», «Дана-кели-каумуди», многие гимны, восемнадцать «Лила-ччханд», «Падьявали», «Говинда-вирудавали» с её лакшаной, «Матхура-махатмья», «Натака-варнана», «Лагху-бхагаватамрита» и другие. Его племянник Шри Джива Госвами написал бесчисленные книги о бхакти: обширную «Бхагавата-сандарбху» — суть заключений бхакти, и «Гопала-чампу», утверждающую вечные игры и полную расы Враджа. Так, явив много книг, они жили во Вриндаване со своей общиной.",
+  "persons": [
+   "@sanatana-gosvami",
+   "@rupa-gosvami",
+   "@jiva-gosvami"
+  ],
+  "places": [
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "A",
+  "notes": "Ст. 40 — «тахара лакшана» у ВЧД не переведено (сноска); ст. 43 — по изданию ГМ «ликхийачхена сара» (у ВЧД — по чтению «декхаийачхена пара»; сноска). Перечень книг по «Лагху-тошани» и «Бхакти-ратнакаре» — в «Анубхашье» к ст. 35–44.",
+  "themes": [
+   "author",
+   "learning"
+  ],
+  "teaching": [
+   "scripture",
+   "prema"
+  ],
+  "cc": "Мадхья 1",
+  "event": "ev-gosvami-works-vraja",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "35",
+    "to": "45"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "35",
+    "to": "45",
+    "line": 377,
+    "line_to": 477,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L377-L477"
+   }
+  ],
+  "years": [
+   1533,
+   1534
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "attestation": 2
  },
  {
   "id": "nvl-0061",
@@ -242398,6 +246595,50 @@
   "attestation": 1
  },
  {
+  "id": "cc-0352",
+  "source": "cc",
+  "ref": "Мадхья 1.246–248",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "PX",
+  "order": 990,
+  "title": "Итог Мадхья-лилы: шесть лет странствий и жизни в Кшетре, киртан и даршан Джаганнатхи; переход к сутрам Антья-лилы",
+  "summary": "Шесть лет Господь так совершал Свои игры — то странствуя, то живя в Кшетре; в блаженстве с преданными Он постоянно пел киртан, созерцал Джаганнатху и вкушал игры любви. Так автор изложил сутры Мадхья-лилы и приглашает преданных слушать сутры Антья-лилы.",
+  "persons": [
+   "@mahaprabhu",
+   "@krishnadasa-kaviraja",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "themes": [
+   "author",
+   "kirtan"
+  ],
+  "cc": "Мадхья 1",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "246",
+    "to": "248"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "246",
+    "to": "248",
+    "line": 2530,
+    "line_to": 2550,
+    "count": 3,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2530-L2550"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "lcm-0251",
   "source": "lochana-cm",
   "ref": "Шеша-кханда, гл. 4, «Слово Лочана Даса о себе», 94+39 — 94+69 (только изд. 1983 г.)",
@@ -242618,6 +246859,101 @@
     "line_to": 3394,
     "count": 6,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L3347-L3394"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0293",
+  "source": "cc",
+  "ref": "Мадхья 1.1–7",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "PX",
+  "order": 995,
+  "title": "Мангалачарана Мадхья-лилы: милость Чайтаньядевы; поклон Чайтанье и Нитьянанде — солнцу и луне Гауды; Божества Мадана-Мохан, Говинда и Гопинатх; слава Гауре, Нитьянанде, Адвайте и преданным",
+  "summary": "Автор молит Шри Чайтаньядеву о милости, по которой даже невежда мгновенно становится всеведущим; поклоняется Шри Кришна Чайтанье и Нитьянанде, вместе взошедшим над Гаудой, как солнце и луна, рассеивая тьму; славит Радху и Мадана-Мохана — прибежище хромого и неразумного, вспоминает Радху и Говиндадеву на троне под древом желаний во Вриндаване и просит благословения Гопинатха, зовущего гопи флейтой у Вамшиваты. Слава Гаурачандре, сыну Шачи, Нитьянанде, Адвайтачандре и преданным Гауры во главе со Шривасом.",
+  "persons": [
+   "@krishnadasa-kaviraja",
+   "@mahaprabhu",
+   "@nityananda",
+   "@advaita",
+   "@srivasa",
+   "@shachi",
+   "@radha",
+   "@madana-mohana-vrindavana",
+   "@govinda-deity",
+   "@gopinatha-vrindavana"
+  ],
+  "places": [
+   "#gauda",
+   "#vrindavana",
+   "#vamshivata"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "notes": "Ст. 2–5 — те же шлоки, что Ади 1.2, 1.15–17 (по «Анубхашье» — поклон Гауре и Нитаю и Божествам — Владыкам самбандхи, абхидхеи и прайоджаны).",
+  "themes": [
+   "author"
+  ],
+  "cc": "Мадхья 1",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "1",
+    "to": "7"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "1",
+    "to": "7",
+    "line": 19,
+    "line_to": 97,
+    "count": 7,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L19-L97"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0369",
+  "source": "cc",
+  "ref": "Мадхья 1.286–287",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "PX",
+  "order": 995,
+  "title": "Конец сутр; дальше — последние двенадцать лет; колофон главы",
+  "summary": "Так рассказаны сутры этой части; далее слушайте о последних двенадцати годах. Уповая на стопы Шри Рупы и Рагхунатхи, Кришнадас рассказывает «Чайтанья-чаритамриту».",
+  "persons": [
+   "@krishnadasa-kaviraja",
+   "@rupa-gosvami",
+   "@raghunatha-dasa"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "A",
+  "notes": "Ст. 286 — «мадхйа-лӣла̄ра сӯтра-ган̣а»; «Анубхашья»: сутры последних двенадцати лет изложены во второй главе.",
+  "themes": [
+   "author"
+  ],
+  "cc": "Мадхья 1",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "286",
+    "to": "287"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "286",
+    "to": "287",
+    "line": 2927,
+    "line_to": 2937,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2927-L2937"
    }
   ],
   "attestation": 1
@@ -243147,6 +247483,55 @@
   "attestation": 1
  },
  {
+  "id": "cc-0294",
+  "source": "cc",
+  "ref": "Мадхья 1.8–23",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "PX",
+  "order": 995.1,
+  "title": "Сутры Шеша-лилы: Вриндаван Дас — Вьяса лил Чайтаньи; деление лил: Ади (24 года дома), санньяса в магху, Шеша — Мадхья (шесть лет странствий) и Антья (восемнадцать лет в Нилачале)",
+  "summary": "Сутры Ади-лилы, подробно описанной Вриндаваном Дасом, уже даны; теперь — главные сутры заключительных лил: описанное в «Чайтанья-мангале» подробно здесь будет дано кратко, а недосказанное там — подробно. Вриндаван Дас — Вьяса лил Чайтаньи; по его велению автор лишь доедает его остатки. Двадцать четыре года Господь жил дома — это Ади-лила; в конце двадцать четвёртого года, в светлую половину месяца магха, Он принял санньясу и ещё двадцать четыре года являл Шеша-лилу. Шеша-лила делится на Мадхью — шесть лет хождений между Нилачалой, Гаудой, Сетубандхой и Вриндаваном — и Антью. Восемнадцать лет Господь жил только в Нилачале, Своим примером уча бхакти; из них шесть лет — с преданными, утверждая према-бхакти в танце и пении.",
+  "persons": [
+   "@krishnadasa-kaviraja",
+   "@vrindavana-dasa",
+   "@vyasa",
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri",
+   "#gauda",
+   "#setubandha",
+   "#vrindavana"
+  ],
+  "kind": "author",
+  "authority": "A",
+  "notes": "План Мадхья- и Антья-лилы; эпизоды не описаны. Ст. 16: санньяса — в светлую половину магхи в конце 24-го года (ср. cc-0180, Ади 13.8–18). Ст. 11: «Чайтанья-мангала» — прежнее название «Чайтанья-бхагаваты» (по «Анубхашье»).",
+  "themes": [
+   "author"
+  ],
+  "calendar": "магха, шукла-пакша (санньяса)",
+  "cc": "Мадхья 1",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "8",
+    "to": "23"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "8",
+    "to": "23",
+    "line": 107,
+    "line_to": 257,
+    "count": 16,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L107-L257"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-1014",
   "source": "cc",
   "ref": "Мадхья 2.84–95",
@@ -243652,6 +248037,46 @@
     "line_to": 32,
     "count": 2,
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/vcd/txt/CC_Antya10.txt?plain=1#L20-L32"
+   }
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "cc-0305",
+  "source": "cc",
+  "ref": "Мадхья 1.89–90",
+  "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+  "period": "PX",
+  "order": 995.2,
+  "title": "Деяния двадцати четырёх лет санньясы безбрежны; автор лишь указывает направление и перечисляет сутры главных лил",
+  "summary": "То, что Господь совершил за двадцать четыре года после санньясы, бесконечно и безбрежно — кто постигнет его суть? Чтобы лишь указать направление, автор перечисляет сутры главных лил.",
+  "persons": [
+   "@krishnadasa-kaviraja",
+   "@mahaprabhu"
+  ],
+  "places": [],
+  "kind": "author",
+  "authority": "A",
+  "themes": [
+   "author"
+  ],
+  "cc": "Мадхья 1",
+  "verses": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "89",
+    "to": "90"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "chaitanya-charitamrita/ed/vcd/CC_Madhya01.md",
+    "from": "89",
+    "to": "90",
+    "line": 941,
+    "line_to": 951,
+    "count": 2,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L941-L951"
    }
   ],
   "attestation": 1
