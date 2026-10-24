@@ -214,6 +214,15 @@ to mix closely with them. You will spend a great deal of money on my journey, bu
 hopes. Of course, if You order me, I will go.” And in his place the guru sent Sriyukta A. B. Goswami Prabhu — later
 Srila Bhakti Saranga Goswami Maharaj. <!-- F74 -->
 
+Once, when he was in the Madras Math, someone came and criticized them: “Oh, you are only talking about Krishna, and
+people are dying without food. Don’t you mind?” The Ramkrishna Mission, the man went on, was doing real relief by
+feeding so many: “First make them live, feed them, and then you can tell him about Krishna.” Sridhar Maharaj answered
+with a question: if, while one is distributing food in a famine, someone from the crowd flees, should one go on
+distributing, or run to catch him? “You must distribute the food; that is natural,” the man replied. “The crowd is
+always ready to hear from me about Krishna,” said Sridhar Maharaj. “…Why should I stop distribution of the nectar, and
+run to catch one man?” Real relief in this world of death, he taught, is not clothing or feeding people, but
+Krishna-katha, talk of Krishna. <!-- F165 -->
+
 He travelled widely through India, preaching in Bengali, Hindi, Sanskrit and English; he had an excellent command of
 English and was uncommonly eloquent. Tirelessly carrying the message of Sri Chaitanyadeva, he lectured in colleges and
 universities, held public seminars and arranged sankirtana festivals. Once in Garidi, in Bihar, after his lecture in
@@ -223,8 +232,31 @@ fallen. Another time, also in Garidi, the chairman of a scientific conference, h
 we regarded Vaishnava-dharma as a branch of Hinduism, but the arguments and the evidence of scripture have convinced
 us that it is the original religion — jaiva-dharma, the religion of all souls. <!-- F75 F76 -->
 
+Preaching with his guru in South India, he noted how Srila Bhaktisiddhanta received gentlemen renowned as devotees in
+their parts. He would ask each of them, “Under whose guidance does your devotional service to Krishna go on?”
+Generally they said that they were directly concerned with Lord Krishna or Lord Rama — and when they had gone, the
+guru would say, “He has no devotion.” Devotion that ignores the shelter of the Lord’s devotees remains vague and takes
+no real shape. Many sayings of his guru he would later repeat to his listeners: “You have come here cutting a return
+ticket”; the intellect cannot enter the world of spirit, just as a bee cannot taste the honey by licking the outside of
+a corked bottle; “I am a servant of the servant of the Vaishnavas” — so the guru always spoke of himself; “We are
+suddha-sakta, worshipers of the pure potency”; and of one departed disciple: “Bhaktivinod Thakur came to me, but I
+could not recognize him.” <!-- F167 F168 -->
+
 Together with Srila Bhakti Dayita Madhava, Bhakti Pradip Tirtha and Jajabar Maharaj he also went out collecting
 donations for the mission. <!-- F15 -->
+
+In 1934 the mission’s journal “The Harmonist” printed his essay on Sri Guru, signed “Swami B. R. Sridhar”; half a
+century later it opened the book “Sri Guru and His Grace”. Every living being, he wrote, tends towards perfection, but
+the tendency is weak — and this “makes room for the guide, or guru”; “the guidance to perfection or Absolute Truth is
+necessarily a function of the absolute Himself, and the divine agent through whom this function manifests is Sri Guru,
+or the divine guide.” Sri Guru manifests himself in a twofold way, as the director from within and the preceptor from
+without, and only by the grace of the guru within can we recognize the real preceptor without and submit to his holy
+feet. Not even in his liberated condition can an individual soul be one with Godhead; and “Sri Guru is not exclusively
+the same as the Supreme Lord Himself, but he fully represents the essence of the whole normal potency and embodies the
+most comprehensive and excellent service and favor of the Lord. As he is the fittest servitor of the Lord, he is
+empowered by the Lord to reinstate all misguided souls to their best interest.” The disciple, he would later teach,
+sees in the guru the delegated power of Krishna, while the guru himself conducts himself as a Vaishnava — an
+inconceivable unity in diversity. <!-- F164 I6 -->
 
 ## Sarbhog and the Hymns to Srila Bhaktivinoda
 In March 1936 Srila Bhaktisiddhanta sent him with Srila Bhakti Dayita Madhava and others to Sarbhog in Assam, to
@@ -350,6 +382,17 @@ possible to help those whom you consider to be sincere seekers.” So the humili
 the scriptures that had led him to decline the post of acharya gave way, by Nityananda’s will, to compassion for every
 sincere soul. <!-- F88 I4 -->
 
+He also told of this turn in his own words. At first he had shared the idea that only a devotee of the highest order
+may initiate, and after the departure of Srila Bhaktisiddhanta he “did not venture to make disciples”; but, he said,
+“I had some transformation through three events. Then I came to take up this work humbly, modestly.” There came to his
+mind the story of Krishna’s headache in Dvaraka, when the only cure was the footdust of His devotees: in Dvaraka no one
+would give Narada any — no one wanted to go to hell for such audacity — but the gopis of Vrindavan came at once: “Yes.
+Eternal hell. We don’t care for that! If slight relief is there for our Lord, that is our only concern.” And there came
+Mahaprabhu’s command: “On my order, become guru, and deliver the land” (CC, Madhya 7.128). “I am fallible,” such a
+disciple thinks, “but I am confident that what my guru has given to me is an uncommon, vital, and nectarine thing. And
+he has asked me to give it to others… I am his servant. He will look after me.” “Being so low, still I have accepted
+this duty as I have been ordered by my acharya to do,” said Srila Sridhar Maharaj. <!-- F166 Q11 -->
+
 Helping everyone, he did not, however, overexert himself: the “Bhakti-rasamrita-sindhu”, in listing the sixty-four
 limbs of bhakti, warns against superfluous undertakings — not to build too many temples, not to hold large preaching
 programmes — and he would quote a verse from it[^6]:
@@ -375,6 +418,15 @@ Midnapore, where Sripad Jajabar Maharaj, Sripad Madhava Maharaj and others lived
 Ratha-yatra, he came to this hut for the first time with his Govardhana-shila. “But here I lived separately,” he
 recalled. At first there was only one person with him; then another came and brought several devotees from Orissa;
 in time others joined as well, among them some of his godbrothers, and the mission began to grow. <!-- F90 F92 -->
+
+*śrīmach-chaitanya-sārasvata-maṭhavara-udgīta-kīrtir jaya-śrīṁ…* — so begins the shloka he composed about the Math.
+It says that in Sri Nabadwip Dham, non-different from Vrindavan, on the bank of the Bhagirathi, in Koladwip,
+non-different from Govardhan, the King of Mountains, shines Sri Chaitanya Saraswat Math; the followers of Sri Rupa who
+live there, in strict adherence to the line of Sri Sri Rupa-Raghunath, constantly chant the glories of Sri Gaurasundar
+and long to serve Sri Sri Guru Gauranga Gandharva Govindasundar, and the victory flag of the Math’s renown soars ever
+higher. The English translation of the shloka printed in “Sri Guru and His Grace” was made from the Bengali
+translation by Srila Govinda Maharaj. Today the Math has centres in Nabadwip (Kolerganj) and in Bhanjipur near
+Tarakeshwar (Hooghly district), and elsewhere in India and throughout the world. <!-- F173 F174 Q10 -->
 
 The Math stands in Kuliya, ancient Koladvipa, where Devananda Pandita lived — at the place called aparadha-bhanjana,
 “where offences are forgiven”: here Mahaprabhu forgave all who had once offended Him in Navadvip. It was here, to the
@@ -455,6 +507,14 @@ best path to Krishna’s mercy. He recalled the words of the Upanishads, “shab
 Fair One I come to the Dark One”, through Radha to Krishna. For his gift of revealing to sincere souls the hidden
 meaning of the Lord’s pastimes of love, “Deva” was added to his name. <!-- F30 Q3 F32 -->
 
+This meaning of the gayatri is imprinted in the emblem of his Math as well. As Srila Govinda Maharaj explained, Sri
+Chaitanya Saraswat Math, where sankirtan is always going on, is shown inside Krishna’s flute, and from the Math the
+sound om, the very gist of the gayatri, comes forth radiating merciful rays. For, as Sridhar Maharaj explained,
+*gāyatrī muralīṣṭa-kīrtana-dhanaṁ rādhā-padaṁ dhīmahi*: “Krishna’s flute does not make any other sound except for the
+glorification of Srimati Radharani.” The emblem also keeps his image: the guru is water, the servitors of the Math are
+lotuses, and Radha-Krishna is the sun; if there is no water — if one cannot take shelter of Sri Guru and his grace —
+the lotus is burnt by the rays of the sun. <!-- F176 -->
+
 His Sanskrit verses are carved in marble at the Imlitala temple in Vrindavan, built by Srila Bhakti Saranga Goswami
 Maharaj on the spot where Mahaprabhu sat beneath a tamarind (imli) tree when He came to Vrindavan. The verses speak of
 His pastime at that place and of the exact time of His coming to Vrindavan — a date usually considered unknown (the
@@ -470,6 +530,25 @@ of Consciousness” and “Loving Search for the Lost Servant” opened a new de
 consciousness[^8]. Goswami Maharaj also wrote the book “Brothers” — about Srila Bhaktivedanta Swami, his diksha-guru,
 and Srila Sridhar Maharaj, his shiksha- and sannyasa-guru. Sridhar Maharaj’s explanation of Vasu Ghosha’s song “yadi
 gaura na ha’ta” is quoted in his book by one of his disciples. <!-- F33 F155 F34 -->
+
+One of these books, “Sri Guru and His Grace” (1983), was gathered from his talks with devotees about Sri Guru; it was
+compiled and edited by Srila Bhakti Sudhir Goswami Maharaj and Sripad Bhakti Vidhan Mahayogi Maharaj. Its preface is
+a 1936 address by Srila Bhaktivedanta Swami, its introduction his own essay of 1934; the book went through five
+printings (1983–2013), and in 2023 it appeared in electronic form as well. Its closing words gave it its name: we
+should never search for our fortune in the mud, but always look to the high sky and pray for Sri Guru and His Grace.
+In the list of the Math’s English publications seventeen books stand under his name — among them, besides those
+already named, “Sri Sri Prapanna-jivanamritam”, “Sri Sri Prema-dhama-devam Stotram” and the four volumes of “Sermons
+of the Guardian of Devotion”. <!-- F163 F175 -->
+
+The main thoughts of these talks are simple and deep. The succession of gurus is above all a succession of
+instruction, the siksa-guru parampara: it “follows the ideal, not the body”, and the guru is recognized by the
+substance of his teaching, not by outward form. “We are slaves of the truth,” he said: wherever the pure current of
+truth descends, there we bow our heads. One who has received nectar from his guru must be ready to pass it on to others
+even at his own risk: “I may go to hell, but I must carry out the order of my gurudeva” — and such a one the Lord will
+not forsake. Yet “even an acharya should consider that he is a student, and not a finished professor who has
+everything.” Nor should a Vaishnava be judged by the magnitude of his outward activity: the preacher who loves the
+company of devotees (gosthyanandi) and the one who prefers solitude (viviktanandi) both do what Krishna entrusts to
+them — the key is in His hand. <!-- I7 I8 I9 -->
 
 ## Brothers: Sridhar Maharaj and Bhaktivedanta Swami
 A special chapter of his life is his friendship with Abhay Charan De, the future Srila A. C. Bhaktivedanta Swami
@@ -597,7 +676,27 @@ divine compassion, the giver of the sweetness of the ‘Bhagavatam’ and the kn
 servant of Gaura, Sri Rupa and Bhaktisiddhanta Sarasvati; to the bee at the lotus feet of Radha and Krishna — to the
 guru, obeisance.” <!-- Q8 -->
 
-After Srila Bhaktivedanta Swami’s departure many of his followers, on his advice, turned to Sridhar Maharaj for
+Srila Bhaktivedanta Swami advised his senior disciples that if the need arose to consult higher spiritual authority
+after his disappearance, they should consult his senior godbrother, Srila Sridhar Maharaj; on more than one occasion he
+said, “I consider Srila Sridhar Maharaj to be my siksa-guru, instructing spiritual master, so what to speak of the
+benefit that others can have from his association.” Just after his disappearance his senior disciples came to Sridhar
+Maharaj and asked his advice on how to guide the International Society for Krishna Consciousness; excerpts of these
+conversations entered the book “Sri Guru and His Grace”. The disciple is like a lotus, he told them, the guru like the
+water, and Krishna like the sun: as long as the lotus floats on the water, the sun nourishes it, but without water that
+very sun will burn it; to retain the memory of the guru in his separation is the highest test. With his disciples the
+acharya must have absolute authority, yet two dangers threaten him: partiality to his disciples at the expense of his
+godbrothers, and deviation; and the constitution of a society must not bind the acharya and stifle faith: “The giving
+of love will conquer more than the giving of law.” To those who had received the Holy Name from Bhaktivedanta Swami
+and the gayatri from one of his disciples he advised them to honour first of all Prabhupada, “who is the nama-guru, the guru
+of guru”, and then the diksha-guru. Before them, too, he glorified Swami Maharaj. To go with the Name to every village
+was the design of ISKCON: “That was the aim of Bhaktivedanta Swami Prabhupada, and we understand and appreciate that.”
+“Bhaktivedanta Swami Prabhupada went the length and breadth of the world with Krishna consciousness. The fact that you
+have all come here is due to his earnestness. He has gone to the upper world, and so, in his name we are going on with
+some sort of transaction.” Swami Maharaj, he said, had laid stress among the Westerners on devotion to Nityananda and
+“distributed the key widely” to the chest of jewels left in the scriptures; and of himself: “This is not mine. This is
+the property of my gurudeva.” <!-- F169 F170 F171 F172 -->
+
+Later, too, many followers of Srila Bhaktivedanta Swami, on his advice, turned to Sridhar Maharaj for
 guidance, and he revealed to them the depth of Vaishnavism. He taught that the spiritual revolution takes place within
 a person: first one must change oneself — and then the world around will change; direct service to Krishna attracts
 only beginners, while devotees of a higher level seek the Lord’s mercy by pleasing His intimate servants — the guru and
@@ -759,6 +858,10 @@ book “Srila Guru Maharaj: His Divine Pastimes and Teachings in Brief”, and r
 audio archive (sridharmaharaj.ru). Many devoted followers carry his teaching through the world to this day.
 <!-- F151 F156 F39 -->
 
+In the chart of the disciplic succession printed in “Sri Guru and His Grace”, Srila Bhaktisiddhanta is followed by him
+(beside him, in brackets, Srila A. C. Bhaktivedanta Swami), after him comes Srila B. S. Govinda Dev-Goswami Maharaj,
+and then Srila B. N. Acharya Maharaj and Srila B. T. Niriha Maharaj. <!-- F177 -->
+
 
 [^1]: The day of his appearance is given in “Nashi uchitelya” (“Our Teachers”), a book of the Sri Chaitanya Saraswat
     Math; one of the biographies gives only the year and the place. That day was the Krishna Navami of the month of
@@ -783,7 +886,9 @@ audio archive (sridharmaharaj.ru). Many devoted followers carry his teaching thr
     founded soon after Srila Bhaktisiddhanta’s departure.
 [^8]: “Our Teachers” names these books in its account of B. S. Goswami Maharaj — “his books”; they are the talks and
     writings of Srila Sridhar Maharaj in his editing and publication. One of the biographies expressly calls “Golden
-    Volcano of Divine Love” a book of Srila Sridhar Maharaj.
+    Volcano of Divine Love” a book of Srila Sridhar Maharaj. In the list of publications of Sri Chaitanya Saraswat Math (in
+    “Sri Guru and His Grace” itself) all five are named books of Srila Sridhar Maharaj; “Sri Guru and His Grace” was
+    compiled and edited by B. S. Goswami Maharaj and B. V. Mahayogi Maharaj.
 [^9]: The order of events follows “Our Teachers”. There, in Srila Govinda Maharaj’s recollection, he accepted
     sannyasa in 1985 and was proclaimed acharya “two months later, at Gaura-purnima”; it is then said that Sridhar
     Maharaj seated him in his chair and “on the next day” glorified him at his Vyasa-puja; by the recollection of B. A.
