@@ -131,8 +131,8 @@
   source: vaishnava-vandana
   ref: Вандана Дживы, 44
   file: vaishnava-vandana/ru/01.md
-  period: P01
-  order: 70
+  period: P02
+  order: 2
   title: Ниламбара Чакраварти составляет гороскоп Господа
   summary: Дед Господа по матери составил гороскоп, где было указано и будущее.
   persons:
@@ -146,7 +146,7 @@
   notes: Упоминание; ср. ЧЧ Ади 13–14, ГГД 104.
   themes:
   - family
-  event: ev-gaura-appearance
+  event: ev-nilambara-prediction
   verses:
   - file: vaishnava-vandana/ru/01.md
     from: '44'
@@ -849,8 +849,8 @@
   source: vaishnava-vandana
   ref: Девакинандана, 29
   file: vaishnava-vandana/ru/02.md
-  period: P01
-  order: 70
+  period: P02
+  order: 2
   title: Ниламбара предрекает будущее Господа
   summary: Ниламбара Чакраварти тотчас предрёк будущее Господа.
   persons:
@@ -864,7 +864,7 @@
   notes: Упоминание.
   themes:
   - family
-  event: ev-gaura-appearance
+  event: ev-nilambara-prediction
   verses:
   - file: vaishnava-vandana/ru/02.md
     from: '29'

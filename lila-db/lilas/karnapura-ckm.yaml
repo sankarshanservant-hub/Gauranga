@@ -145,7 +145,7 @@
   notes: "Поэтическое описание (утпрекша) знамений перед рождением."
   themes: [celestial]
   calendar: "пхалгуна, пурнима"
-  event: ev-gaura-appearance
+  event: ev-nature-heralds-advent
   verses:
     - {file: "karnapura-mahakavya/ru/02.md", from: "25", to: "37"}
 
