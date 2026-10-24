@@ -10,6 +10,8 @@
 гл. II.2 без подзаголовков — «N II.2 (txt 846)» (номер строки приватного txt). Книга миссии пользователя, а его
 наследие и наследие его гуру — наше (CLAUDE.md): цитировать можно, со ссылкой; в реестре — кратко, своими словами,
 короткие цитаты в кавычках.
+**SG** — «Sri Guru and His Grace» Шрилы Шридхара Махараджа (© 1983 Шри Чайтанья Сарасват Матх; приватно) — раздел «SG»
+ниже (F102–F105).
 **T, M, B — нет.** Поиск (2026-10-24): T и M — `grep -i` по всему OCR `Govinda (Dev(a)? )?(Go?swam[iy] )?Mah?araj|B\.? ?S\.?
 ?Govinda|Bhakti ?Sundar|Sundar Govinda|Gaurendu|Gourendu|Bamunpara|Nandaghat|successor|present acharya`; B — бенгальский
 OCR `গোবিন্দ ?মহারাজ|গোবিন্দ দেব গোস্বামী|ভক্তি ?সুন্দর|সুন্দর গোবিন্দ|গৌরেন্দু` и рабочие переводы всех глав
@@ -487,6 +489,30 @@ F100. +пров. «Миссия ИСККОН»: Свами основал ИСК
   проповедуют, и он «очень уважает их». [N ч. III, „Миссия ИСККОН“] (к F86)
 
 F101. +пров. Уход: 27 марта 2010 г., 4:25 утра, Калькутта (Индия). [сведения миссии — сообщил пользователь, 2026-10-24; по нашему календарю — Гаура-двадаши месяца Вишну, = F70]
+
+## SG — «Sri Guru and His Grace» (2026-10-24; все пункты — +пров. (SG))
+Источник **SG** — «Sri Guru and His Grace» Шрилы Б. Р. Шридхара Махараджа (© 1983 Sri Chaitanya Saraswat Math; 5-е изд.
+2013, эл. 2023; приватно: `gauranga-private/sources/sri-guru-and-his-grace/`), прочитан целиком; ссылки — по главе. О нём —
+только приложения поздних изданий (эмблема, шлока, книги, схема преемственности); в беседах он не упомянут.
+F102. +пров. (SG) Его глава «The Logo of Sri Chaitanya Saraswat Math» («By His Divine Grace Srila Bhakti Sundar Govinda
+  Dev-Goswami Maharaj»): на эмблеме матх, где всегда идёт санкиртана, — внутри флейты Кришны; из матха исходит «ом», суть
+  гаятри, излучая милость; приведено объяснение Шридхара Махараджа: «Gayatri muralista-kirtana-dhanam Radha-padam
+  dhimahi» — флейта Кришны звучит лишь во славу Шримати Радхарани; гуру — как вода, слуги матха — как лотосы, Верховный
+  Господь в образе Радха-Кришны (ом) — солнце: без воды — без прибежища у Шри Гуру и его милости — лотос сгорает.
+  [SG, «The Logo of Sri Chaitanya Saraswat Math»] (= @shridhara-maharaja F176; образ лотоса — слова Шридхара Махараджа
+  ученикам Бхактиведанты Свами, @shridhara-maharaja F170)
+F103. +пров. (SG) Английский перевод шлоки о Шри Чайтанья Сарасват Матхе («ш́рӣмач-чаитанйа-са̄расвата-мат̣хавара…») в SG
+  сделан «from the original Bengali translation written by Srila B.S. Govinda Dev-Goswami Maharaj». [SG, «Sri Chaitanya
+  Saraswat Math’s Mission»] (= @shridhara-maharaja F173, Q10)
+F104. +пров. (SG) Его английские книги в перечне изданий матха — 11: «Divine Servitor», «Dignity of the Divine Servitor»,
+  «Divine Guidance», «Golden Reflections», «The Benedictine Tree of Divine Aspiration», «Affectionate Guidance», «Life’s
+  Destination», «In Search of the Original Source», «Nectarean Glories of Sri Nityananda Prabhu», «Religion of the
+  Heart», «Revealed Truth». [SG, «Books and Publications of Sri Chaitanya Saraswat Math»]
+F105. +пров. (SG) Схема преемственности SG: после Шридхара Махараджа — он («B.S. Govinda Dev-Goswami Maharaj»), за ним —
+  «B.N. Acharya Maharaj», далее — «B.T. Niriha Maharaj»; электронное издание SG (2023) подготовлено в служении «the
+  Successor President Acharya of Sri Chaitanya Saraswat Math, His Divine Grace Om Vishnupad Srila Bhakti Nirmal Acharya
+  Maharaj» (B. N. = Бхакти Нирмал — то же лицо). [SG, «The Disciplic Succession»; титульный лист] (= @shridhara-maharaja
+  F163, F177)
 
 ## Смысл и наставления (мысли N — своими словами, кратко)
 I1. N: с рождения было ясно, что он — необыкновенная личность; это подтверждали события его жизни, прежде всего приход в

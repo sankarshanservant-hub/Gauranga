@@ -394,6 +394,19 @@ there. <!-- F65 -->
 Through his efforts temples and centres were founded in Vrindavan, Jagannatha Puri, Calcutta and other cities of
 India, and his disciples opened centres all over the world. <!-- F66 -->
 
+He also explained the emblem of the Math printed in later editions of Srila Sridhar Maharaj’s book “Sri Guru and His
+Grace”: “Sri Chaitanya Saraswat Math, where sankirtan is always going on, is inside Krishna’s flute, and the sound om,
+which is the very gist meaning of gayatri, comes from Sri Chaitanya Saraswat Math, radiating merciful rays.” For, as
+Srila Sridhar Maharaj explained, *gāyatrī muralīṣṭa-kīrtana-dhanaṁ rādhā-padaṁ dhīmahi* — “Krishna’s flute does not
+make any other sound except for the glorification of Srimati Radharani.” “The position of the guru is like water,”
+writes Srila Govinda Maharaj; “the servitors of Sri Chaitanya Saraswat Math are like lotuses; and the Supreme
+Personality of Godhead, worshipped in His divine form of Radha-Krishna (om), is the sun”: if there is no water — “if
+one cannot take shelter of Sri Guru and His grace” — the lotus is burnt by the rays of the sun. The English
+translation of the shloka Sridhar Maharaj composed about the Math was likewise made from his Bengali translation. In
+the list of the Math’s publications eleven English books stand under his name — among them “Divine Servitor”, “Divine
+Guidance”, “Golden Reflections”, “Affectionate Guidance”, “Nectarean Glories of Sri Nityananda Prabhu”, “Religion of
+the Heart” and “Revealed Truth”. <!-- F102 F103 F104 -->
+
 ## All over the World
 Fulfilling the will of his guru, in 1992 Srila Govinda Maharaj began to preach worldwide. At first devotees simply
 invited him to visit their centres and ashrams, but already the first journey showed what success awaited his
@@ -594,6 +607,11 @@ service to the Vaishnavas”. <!-- F81 -->
 The book “Our Teachers” appeared in his lifetime and says nothing of his departure. Srila Govinda Maharaj left this
 world and entered the eternal pastimes of the Lord on 27 March 2010, at 4:25 in the morning, in Kolkata. The Sri
 Chaitanya Saraswat Math honours this day on the Gaura-dvadashi of the month of Vishnu[^8]. <!-- F70 F101 -->
+
+In the chart of the disciplic succession printed in “Sri Guru and His Grace”, Srila Sridhar Maharaj is followed by
+Srila Govinda Maharaj, and he by Srila B. N. Acharya Maharaj — Srila Bhakti Nirmal Acharya Maharaj, his successor as
+President-Acharya of the Math, in whose service the electronic edition of the book was prepared in 2023 — and then by
+Srila B. T. Niriha Maharaj. <!-- F105 -->
 
 [^1]: The date and place of his appearance are given in “Our Teachers”. By calculation, at sunrise on 17 December 1929
     the Krishna-pratipad was still running, and the dvitiya began in the afternoon; the book does not give the hour of
