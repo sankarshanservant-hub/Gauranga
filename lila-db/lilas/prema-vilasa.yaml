@@ -4052,7 +4052,7 @@
   order: 1.1
   title: "[Указатель к в. 24] Кувера и Набха-деви: сыновья, переселение в Шантипур, зачатие, возвращение в Нараграм; рождение Адвайты в полнолуние магхи"
   summary: "В краю Лаур в Шрихатте — раджа Дивьясимха и Кувера Ачарья; из шести сыновей Куверы четверо умерли, двое ушли странствовать; в скорби Кувера с Набха-деви приходит в Шантипур, она зачинает, и Кувера возвращается в Нараграм; Адвайта рождается в полнолуние магхи; имянаречение, первый рис, начало учения."
-  persons: ["@kubera-acharya", "@labha", "@divya-simha", "@advaita", "@vijaya-puri"]
+  persons: ["@kuvera-pandita", "@labha", "@divya-simha", "@advaita", "@vijaya-puri"]
   places: ["#lauda", "#shantipura"]
   kind: lila
   authority: D
@@ -4073,7 +4073,7 @@
   order: 1.2
   title: "[Указатель к в. 24] Царевич насмехается — от рыка Адвайты падает без чувств и оживлён"
   summary: "Адвайта учится и играет с царевичем; от его рыка насмешник падает без чувств, Адвайта убегает; его находят, и по его милости царевич приходит в себя."
-  persons: ["@advaita", "@divya-simha", "@kubera-acharya"]
+  persons: ["@advaita", "@divya-simha", "@kuvera-pandita"]
   places: ["#lauda"]
   kind: miracle
   authority: D
@@ -4092,7 +4092,7 @@
   order: 1.25
   title: "[Указатель к в. 24] Поклон Адвайты раскалывает изваяние Кали; на её месте раджа ставит образ Вишну"
   summary: "После упанаяны Адвайта не кланяется Кали, отец бранит его; когда он кланяется, изваяние раскалывается и богиня исчезает; по велению Адвайты Дивьясимха ставит на её место образ Вишну."
-  persons: ["@advaita", "@kubera-acharya", "@divya-simha"]
+  persons: ["@advaita", "@kuvera-pandita", "@divya-simha"]
   places: ["#lauda"]
   kind: miracle
   authority: D
@@ -4111,7 +4111,7 @@
   order: 1.35
   title: "[Указатель к в. 24] Учение у Шантачарьи из Пхулии; лотос из пруда со змеями; хождение по воде"
   summary: "Адвайта учится в Шантипуре у Шантачарьи из Пхулии словесности, смрити, Ведам, пуранам, философии и «Бхагавате», приводит туда родителей, получает звание Ачарьи и достаёт лотос из пруда, кишащего змеями, идя по воде, как по суше."
-  persons: ["@advaita", "@shanta-vedantavagisha", "@kubera-acharya", "@labha"]
+  persons: ["@advaita", "@shanta-vedantavagisha", "@kuvera-pandita", "@labha"]
   places: ["#shantipura", "#phulia"]
   kind: miracle
   authority: D
@@ -4130,7 +4130,7 @@
   order: 1.5
   title: "[Указатель к в. 24] После ухода родителей и пинды в Гае Адвайта странствует; встреча с Мадхавендрой Пури и с Виджаей Пури в Каши"
   summary: "Родители Адвайты уходят из мира; совершив пинду в Гае, он странствует, встречает Мадхавендру Пури, изучает у него писания о бхакти, а в Каши встречает Виджаю Пури."
-  persons: ["@advaita", "@madhavendra-puri", "@vijaya-puri", "@kubera-acharya", "@labha"]
+  persons: ["@advaita", "@madhavendra-puri", "@vijaya-puri", "@kuvera-pandita", "@labha"]
   places: ["#gaya", "#kashi"]
   kind: lila
   authority: D
@@ -4735,7 +4735,7 @@
   order: 1.1
   title: "Кувера Ачарья и Набха-деви: шестеро сыновей, переселение в Шантипур; рождение Адвайты (Камалаканты)"
   summary: "Придворный пандит раджи Дивьясимхи в Лауре Кувера Ачарья, из рода Нарасимхи Надияла, женат на Набха-деви; их жрец Виджая Пури — источник сведений о детстве Адвайты; из шести сыновей четверо умирают, родители переселяются в Шантипур; Набха зачинает, в Наваграме Кувера извещает раджу; Адвайта рождается в Магха-шукла-саптами и получает имена Камалаканта и Адвайта."
-  persons: ["@kubera-acharya", "@labha", "@divya-simha", "@vijaya-puri", "@narasimha-nadiyal", "@advaita", "@nityananda-dasa-author"]
+  persons: ["@kuvera-pandita", "@labha", "@divya-simha", "@vijaya-puri", "@narasimha-nadiyal", "@advaita", "@nityananda-dasa-author"]
   places: ["#lauda", "#shantipura", "#shrihatta"]
   kind: lila
   authority: C
@@ -4755,7 +4755,7 @@
   order: 1.2
   title: "Детство Адвайты: пляска при имени Кришны; рык Адвайты сражает насмешливого царевича, оживлённого водой шалаграмы"
   summary: "Мальчик Камалаканта пляшет, слыша имена Кришны; царевич насмехается — от рыка Камалаканты падает без чувств; раджа скорбит, но Камалаканта говорит, что царевич не умер, и оживляет его водой со стоп шалаграмы."
-  persons: ["@advaita", "@kubera-acharya", "@divya-simha"]
+  persons: ["@advaita", "@kuvera-pandita", "@divya-simha"]
   places: ["#lauda"]
   kind: miracle
   authority: C
@@ -4774,7 +4774,7 @@
   order: 1.25
   title: "Камалаканта не кланяется Кали: изваяние раскалывается; совет радже служить вайшнавам"
   summary: "После упанаяны Камалаканта в павильоне Калики не кланяется Деви, говоря, что он Садашива; по настоянию отца кланяется — Деви исчезает, изваяние раскалывается; он советует радже служить преданным Вишну и почитать Деви с преданностью, и раджа ставит образы Деви и Вишну."
-  persons: ["@advaita", "@kubera-acharya", "@divya-simha"]
+  persons: ["@advaita", "@kuvera-pandita", "@divya-simha"]
   places: ["#lauda"]
   kind: miracle
   authority: C
@@ -5436,7 +5436,7 @@
   order: 22.96
   title: "Родословия Нитьянанды и Адвайты (от Нараяны Бхатты и Гаутамы); Нарасимха Надиял"
   summary: "Род Нитьянанды из готры Шандильи от Нараяны Бхатты до Хадаи Ойхи и Вирабхадры; род Адвайты из готры Бхарадваджи от Гаутамы через Нарасимху Надияла, министра раджи Ганеши, до Куверы и шести сыновей Адвайты."
-  persons: ["@nityananda", "@hadai-pandita", "@virabhadra", "@advaita", "@kubera-acharya", "@narasimha-nadiyal", "@raja-ganesha"]
+  persons: ["@nityananda", "@hadai-pandita", "@virabhadra", "@advaita", "@kuvera-pandita", "@narasimha-nadiyal", "@raja-ganesha"]
   places: []
   kind: author
   authority: D

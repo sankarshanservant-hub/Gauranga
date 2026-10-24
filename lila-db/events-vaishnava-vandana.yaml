@@ -98,7 +98,7 @@
   period: P12
   order: 112.7
   cc: "Ади 11"
-  cb: ""
+  cb: "Антья 5"
   themes: [revelation]
   notes: "Ванданы (Джива 95, 99, 102, 120; Девакинандана 83, 85); ГГД 126 (бревно Абхирамы); ЧЧ Ади 11 (Мурари Чайтанья Дас)."
 
@@ -121,16 +121,6 @@
   cb: ""
   themes: [kirtan]
   notes: "Ванданы (Джива 136; Девакинандана 137); ГГД 142. Время и место не указаны; место на шкале условно."
-
-- id: ev-hiranya-jagadisha-ekadashi-naivedya
-  title: "Младенец Нимай в экадаши ест угощение для Вишну в домах Джагадиши и Хираньи"
-  title_en: "The infant Nimai eats the Ekadashi offering for Vishnu in the houses of Jagadisha and Hiranya"
-  period: P03
-  order: 6.5
-  cc: ""
-  cb: "Ади 6"
-  themes: [pranks, prasada]
-  notes: "ЧБ Ади 6; упомянуто в ЧБ Антья 8.28–29 и в «Первой вандане» (ч. 4, 106–107)."
 
 - id: ev-virachandra-secret-counsel
   title: "Тайный совет Господа с Нитьянандой в Нилачале: Вирачандра будет нисшествием Гауранги"

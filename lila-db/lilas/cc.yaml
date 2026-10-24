@@ -2914,11 +2914,11 @@
   order: 880
   title: "Ветви древа в Пури: Рамаи и Нандаи, Кришнадас — спутник на юге, Балабхадра — на пути в Матхуру, певцы Старший и Младший Харидас, Ачьютананда и другие"
   summary: "Рамаи и Нандаи постоянно служат вместе с Говиндой: Рамаи ежедневно наполняет водой двадцать два кувшина, Нандаи служит по указанию Говинды; Кришнадас, чистый кулина-брахман, — спутник Господа в странствии по югу; Балабхадра Бхаттачарья — Его брахмачари на пути в Матхуру; певцы Старший и Младший Харидас всегда при Махапрабху; Рамабхадрачарья, ория Симхешвара, Тапана Ачарья, Рагху, Ниламбара, Сингабхатта, Камабхатта, Дантура Шивананда, прежний слуга из Гауды Камалананда; сын Адвайты Ачьютананда живёт в Нилачале, приняв прибежище у стоп Господа; Нирлома Гангадас и Вишнудас — все они живут с Господом в Нилачале."
-  persons: ["@ramai-puri", "@nandai", "@govinda-servant", "@kala-krishnadasa", "@balabhadra-bhattacharya", "@bada-haridasa", "@chhota-haridasa", "@simheshvara", "@kamalananda", "@achyutananda", "@advaita", "@mahaprabhu"]
+  persons: ["@ramai-puri", "@nandai", "@govinda-servant", "@kala-krishnadasa", "@balabhadra-bhattacharya", "@bada-haridasa", "@chhota-haridasa", "@simheshvara", "@kamalananda", "@achyutananda", "@advaita", "@mahaprabhu", "@gangadasa-chaturbhuja", "@vishnudasa-nityananda"]
   places: ["#puri"]
   kind: teaching
   authority: A
-  notes: "Перечень ветвей. Прочие имена (10.148–149, 10.151) без тегов; Вишнудас — тождество с @vishnudasa не установлено."
+  notes: "Перечень ветвей. Прочие имена (10.148–149) без тегов. «Нирлома Гангадас и Вишнудас» (10.151) отнесены к братьям Нанданы (@gangadasa-chaturbhuja, @vishnudasa-nityananda; ЧЧ Ади 11.43) по B 758 (Вишнудас и Гангадас некоторое время жили в Нилачале) — вероятно, не доказано (lila-db/review/tags-2026-10-24.md); с @vishnudasa (ория у Алаланатхи) тождество не установлено."
   themes: [teaching, pilgrimage]
   teaching: [associates-tattva]
   cc: "Ади 10"
@@ -3379,7 +3379,7 @@
   places: ["#navadvipa"]
   kind: lila
   authority: A
-  notes: "Упоминание (воспоминание в речи Адвайты). Наказание Мукунды (ЧБ Мадхья 10) и Шачи (оскорбление Адвайты, ЧБ Мадхья 22; ev-shachi-vaishnava-aparadha) — упомянуты вскользь, отдельных записей нет."
+  notes: "Упоминание (воспоминание в речи Адвайты). Наказание Мукунды (ЧБ Мадхья 10) и Шачи (оскорбление Адвайты, ЧБ Мадхья 22; ev-shachi-receives-prema) — упомянуты вскользь, отдельных записей нет."
   themes: [offense, teaching, mercy]
   teaching: [bhakti-supremacy, vedanta]
   cc: "Ади 12"
@@ -4917,7 +4917,7 @@
   places: ["#navadvipa"]
   kind: lila
   authority: A
-  notes: "Сутра трёх эпизодов; по «Анубхашье»: према Шачи — ЧБ Мадхья 22 (ev-shachi-receives-prema, ev-shachi-vaishnava-aparadha; ср. ст. 71), встреча с Адвайтой — ЧБ Мадхья 6 (ev-advaita-comes-to-navadvipa), вишварупа — ЧБ Мадхья 24."
+  notes: "Сутра трёх эпизодов; по «Анубхашье»: према Шачи — ЧБ Мадхья 22 (ev-shachi-receives-prema, ev-shachi-receives-prema; ср. ст. 71), встреча с Адвайтой — ЧБ Мадхья 6 (ev-advaita-comes-to-navadvipa), вишварупа — ЧБ Мадхья 24."
   themes: [revelation, family]
   bhava: [aishvarya]
   cc: "Ади 17"
@@ -5244,7 +5244,7 @@
   teaching: [vaishnava]
   cc: "Ади 17"
   divergence: "В ЧЧ и ЧБ оскорбление Шачи — перед Адвайтой; у Карнапуры («Чайтанья-чандродая», акт 1) — перед Шривасой и другими преданными."
-  event: ev-shachi-vaishnava-aparadha
+  event: ev-shachi-receives-prema
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "71", to: "71"}
 
@@ -5286,7 +5286,7 @@
   teaching: [bhakti-supremacy, vaishnava]
   scriptures: ["Бхаг. 10.81.16"]
   cc: "Ади 17"
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "chaitanya-charitamrita/ed/vcd/CC_Adi17.md", from: "77", to: "78"}
 

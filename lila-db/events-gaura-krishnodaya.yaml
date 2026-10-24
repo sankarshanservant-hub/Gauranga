@@ -16,7 +16,7 @@
   title_en: "Krishna resolves to appear in Radha's form to taste Her love"
   period: P00
   order: 7
-  cc: "Ади 1.6; Ади 4"
+  cc: "Ади 1.6; Ади 4; Мадхья 2"
   cb: ""
   themes: [revelation, krishna-lila]
   notes: "Внутренняя причина нисшествия (три желания Кришны, ЧЧ Ади 1.6, 4). «Гаура-кришнодая» (1.34–50) соединяет её с внешней: Кришна, войдя в ум Вишну, лежащего в океане, распределяет роли (Вишну — Вишварупа, Шива — Адвайта и т. д.)."
@@ -27,7 +27,7 @@
   period: P02
   order: 4.5
   cc: "Ади 13"
-  cb: ""
+  cb: "Ади 3.32–42"
   themes: [celestial, family]
   notes: "ЧЧ Ади 13: жёны небожителей приходят неузнанными в облике брахманских жён. «Гаура-кришнодая» 2.34–38."
 
@@ -47,7 +47,7 @@
   period: P03
   order: 40
   cc: "Ади 14"
-  cb: "Ади 6"
+  cb: "ср. Ади 6.72–85"
   themes: [pranks, revelation]
   notes: "ЧЧ Ади 14: Господь требует, чтобы девочки, исполняющие обеты, поклонялись Ему, и благословляет их: хороший муж, семь сыновей."
 
@@ -67,21 +67,21 @@
   period: P07
   order: 101
   cc: "Ади 17"
-  cb: ""
+  cb: "Мадхья 6.73–103; Мадхья 24"
   themes: [revelation]
   bhava: [aishvarya]
   notes: "ЧЧ Ади 17: «Адвайте показал вишварупу»."
 
 - id: ev-mahaprakasha-abhisheka
-  title: "Махапракаша: преданные совершают абхишеку Господа"
-  title_en: "The mahaprakasha: the devotees perform the Lord's abhisheka"
+  title: "Махапракаша: абхишека Господа в доме Шривасы"
+  title_en: "The mahaprakasha: the Lord's abhisheka in Shrivasa's house"
   period: P07
   order: 113.5
   cc: "Ади 17"
-  cb: "Мадхья 9"
-  themes: [revelation, festival]
+  cb: "Мадхья 9.1–134; 10.166–173, 264–287"
+  themes: [revelation, festival, sannyasa]
   bhava: [aishvarya]
-  notes: "Великое откровение в доме Шривасы: Господь садится на трон Вишну, преданные омывают Его."
+  notes: "Великое откровение в доме Шривасы: Господь садится на трон Вишну, преданные омывают Его (ЧБ Мадхья 9–10 — «семь прахар»; ЧЧ Ади 17.11, 17.18). Мурари 2.12.5–17, Лочан и Карнапура (сарга 5; сарга 7 — «второе омовение») связывают омовение со шлокой Судамы, которую читает Мурари (ЧЧ Ади 17.77–78), и с первым предвестием санньясы; у них эпизод стоит позже, ближе к санньясе. Отдельные эпизоды махапракаши ЧБ — ev-gangadasa-ferry-rescue, ev-murari-sees-rama-mahaprakasha, ev-haridasa-scars-mahaprakasha."
 
 - id: ev-astrologer-sarvajna
   title: "Всеведущий астролог видит в Господе Кришну"
@@ -89,7 +89,7 @@
   period: P07
   order: 85
   cc: "Ади 17"
-  cb: ""
+  cb: "Ади 12.153–177"
   themes: [revelation]
   notes: "ЧЧ Ади 17: Господь спрашивает астролога о Своём прежнем рождении."
 
@@ -108,8 +108,8 @@
   title_en: "The students offend the Lord: the resolve to take sannyasa to save them"
   period: P07
   order: 139
-  cc: "Ади 17"
-  cb: ""
+  cc: "Ади 17; Ади 7–8"
+  cb: "Мадхья 26"
   themes: [sannyasa, offense, mercy]
   notes: "ЧЧ Ади 17: «санньяси они будут кланяться — и очистятся»."
 
@@ -242,7 +242,7 @@
   title_en: "Bhavananda Raya and his sons with the Lord: \"You are Pandu\""
   period: P12
   order: 3
-  cc: "Мадхья 10"
+  cc: "Мадхья 10; Ади 10"
   cb: ""
   themes: [mercy, family]
   notes: "ЧЧ Мадхья 10: Бхавананда — Панду, его пятеро сыновей — Пандавы; Ванинатха остаётся служить Господу."
@@ -262,7 +262,7 @@
   title_en: "Govinda, Ishvara Puri's servant, comes to the Lord"
   period: P12
   order: 9
-  cc: "Мадхья 10"
+  cc: "Мадхья 10; Ади 10"
   cb: ""
   themes: [family]
   notes: "ЧЧ Мадхья 10: после ухода Ишвары Пури Говинда по его велению приходит служить Господу; Господь принимает его из уважения к воле гуру. Не путать с ev-govinda-joins-lord (Говинда-кузнец «Кадачи»)."
@@ -273,7 +273,7 @@
   period: P12
   order: 9.5
   cc: "Мадхья 10"
-  cb: ""
+  cb: "Антья 3"
   themes: [family]
   notes: "ЧЧ Мадхья 10: Парамананда Пури, Сварупа Дамодара, Брахмананда Бхарати, Бхагаван Ачарья и другие приходят к Господу."
 
@@ -301,11 +301,11 @@
   title: "Колесница не идёт; Господь толкает её"
   title_en: "The chariot will not move; the Lord pushes it"
   period: P12
-  order: 72
-  cc: "Мадхья 14"
+  order: 72.75
+  cc: "Мадхья 14.47–60"
   cb: ""
   themes: [jagannatha, festival, revelation]
-  notes: "ЧЧ Мадхья 14: слоны не могли сдвинуть колесницу; Господь толкнул её головой."
+  notes: "ЧЧ Мадхья 14.47–60: после отдыха и пира в саду у Балаганди слоны не могли сдвинуть колесницу; Господь толкнул её головой, и она сама покатилась к Гундиче. (Ещё раньше, Мадхья 13.189–190, Господь сдвинул колесницу лбом в начале шествия — это в ev-ratha-yatra-gundicha.)"
 
 - id: ev-bahuda-return-chariots
   title: "Возвращение колесниц (Бахуда-ятра) и примирение с Лакшми"
@@ -322,7 +322,7 @@
   title_en: "Chaturmasya in Puri: the devotees invite the Lord in turn"
   period: P12
   order: 78
-  cc: "Мадхья 15"
+  cc: "Мадхья 15; Мадхья 14"
   cb: ""
   themes: [prasada, family]
 
@@ -373,9 +373,9 @@
   period: P13
   order: 20
   cc: "Мадхья 16"
-  cb: ""
+  cb: "Антья 5.122–138"
   themes: [jagannatha, pilgrimage]
-  notes: "Господь с Балабхадрой Бхаттачарьей и Дамодарой Пандитом возвращается в Пури; Его встречают Рамананда, Гададхара, Сарвабхаума."
+  notes: "Господь с Балабхадрой Бхаттачарьей и Дамодарой Пандитом возвращается в Пури; Его встречают Рамананда, Гададхара, Сарвабхаума. ЧБ Антья 5.122–138 — после Панихати и Вараханагара: Сарвабхаума и спутники-ория встречают «движущегося Джаганнатху»."
 
 - id: ev-parrots-vrindavana
   title: "Вриндаван: деревья, коровы, олени и спор попугая с шарикой"
@@ -440,7 +440,7 @@
   title_en: "Rupa and Anupama in Vrindavana with Subuddhi Raya"
   period: P13
   order: 184
-  cc: "Мадхья 19; Антья 1"
+  cc: "Мадхья 19; Антья 1; Мадхья 25"
   cb: ""
   themes: [pilgrimage]
   notes: "Рупа месяц живёт во Вриндаване, посылает письмо Санатане и уходит обратно."
@@ -469,7 +469,7 @@
   title_en: "Rupa goes to Gauda; the passing of Anupama"
   period: P14
   order: 9
-  cc: "Антья 1"
+  cc: "Антья 1; Мадхья 25"
   cb: ""
   themes: [departure]
   notes: "Рупа, начав во Вриндаване драму, уходит с Анупамой в Гауду; Анупама оставляет тело на берегу Ганги; Рупа один идёт в Пури."
@@ -479,7 +479,7 @@
   title_en: "The Lord sends Damodara Pandita to Navadvipa to Shachi"
   period: P14
   order: 15
-  cc: "Антья 3"
+  cc: "Антья 3; Ади 10"
   cb: ""
   themes: [family]
   notes: "Дамодара Пандит «упрекает» Господа за ласку к сыну вдовы; Господь, похвалив его прямоту, посылает его в Навадвипу присматривать за Шачи."
@@ -519,7 +519,7 @@
   title_en: "Jagadananda breaks the jar of sandalwood oil"
   period: P14
   order: 70
-  cc: "Антья 12"
+  cc: "Антья 12; Ади 10"
   cb: ""
   themes: [sannyasa, pranks]
   notes: "Господь отказывается от благоуханного масла как неподобающего санньяси; Джагадананда в любовном гневе разбивает сосуд."
@@ -539,7 +539,7 @@
   title_en: "Raghunatha Bhatta with the Lord in Puri; sent to Vrindavana"
   period: P14
   order: 75
-  cc: "Антья 13"
+  cc: "Антья 13; Ади 10"
   cb: ""
   themes: [mercy, deities]
   notes: "Господь посылает Рагхунатху Бхатту во Вриндаван читать «Бхагавату» Рупе и Санатане; он служит Говинде."

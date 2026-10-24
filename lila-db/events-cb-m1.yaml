@@ -1,0 +1,237 @@
+# События, заведённые при разборе «Шри Чайтанья-бхагаваты», Мадхья-кханда 1–14 (исполнитель cb-m1). Формат — как events.yaml.
+# Новое событие — только если лилы в базе ещё нет (проверено поиском по events*.yaml).
+
+- id: ev-return-navadvipa-welcome
+  title: "Возвращение из Гаи: встреча с родными; рассказ о Падападма-тиртхе и первые слёзы премы"
+  title_en: "Return from Gaya: welcome by relatives; the account of the Padapadma-tirtha and the first tears of prema"
+  period: P07
+  order: 5
+  cb: "Мадхья 1.10–50"
+  themes: [ecstasy, family]
+  notes: "Родные и вайшнавы встречают Господа; наедине с близкими Он начинает рассказ о Гае и при словах «Падападма-тиртха» плачет, дрожит, теряет самообладание; велит прийти наутро в дом Шукламбары."
+
+- id: ev-return-visits-gangadasa-mukunda-sanjaya
+  title: "После Гаи Господь кланяется Гангадасу и приходит в дом Мукунды-Санджаи"
+  title_en: "After Gaya the Lord bows to Gangadasa and visits the house of Mukunda-Sanjaya"
+  period: P07
+  order: 31
+  cb: "Мадхья 1.120–133"
+  themes: [learning, family]
+  notes: "Гангадас обнимает ученика и велит завтра же вернуться к преподаванию; в доме Мукунды-Санджаи Господь обнимает Пурушоттаму Санджаю."
+
+- id: ev-kapila-bhava-instruction-shachi
+  title: "Господь в настроении Капилы наставляет Шачи: страдания души в утробе и поклонение Кришне"
+  title_en: "In the mood of Kapila the Lord instructs Shachi: the soul's suffering in the womb and worship of Krishna"
+  period: P07
+  order: 33
+  cb: "Мадхья 1.189–241"
+  themes: [teaching, family]
+  notes: "За трапезой Шачи спрашивает, что Он читал; Господь отвечает: истинны лишь писания о бхакти, и, как Капила Девахути, рассказывает о молитве души в утробе (по Бхаг. 3.31)."
+
+- id: ev-gangadasa-admonishes-nimai
+  title: "Гангадас увещевает Нимая не оставлять учёбу; вызов пандитам Надии"
+  title_en: "Gangadasa admonishes Nimai not to abandon scholarship; the challenge to the pandits of Nadia"
+  period: P07
+  order: 34
+  cb: "Мадхья 1.250–294"
+  themes: [learning, teaching]
+  notes: "Ученики жалуются Гангадасу, что Нимай во всём толкует лишь Кришну; Гангадас: «Твои отец и дед не оставили учёбы ради преданности»; Господь обещает: «Никто в Навадвипе не опровергнет Моих толкований», — и до ночи толкует сутры у ворот, бросая вызов пандитам."
+
+- id: ev-ratnagarbha-bhagavata-verse
+  title: "Ратнагарбха Ачарья читает шлоку «Бхагаваты» — Господь падает в преме"
+  title_en: "Ratnagarbha Acharya recites a Bhagavata verse and the Lord falls in prema"
+  period: P07
+  order: 35
+  cb: "Мадхья 1.295–321"
+  themes: [ecstasy, krishna-lila]
+  notes: "Ратнагарбха, друг отца Господа из той же деревни, читает Бхаг. 10.23.22 (Кришна в облике танцора); Господь без чувств, просит «Читай ещё!», обнимает его — и тот обретает прему; Гададхара останавливает чтение."
+
+- id: ev-lord-closes-school
+  title: "Господь прекращает преподавание и связывает книги; благословение ученикам"
+  title_en: "The Lord stops teaching and ties up His books; blessing to the students"
+  period: P07
+  order: 36
+  cb: "Мадхья 1.322–402"
+  themes: [learning, teaching]
+  notes: "Десять дней Господь в каждом корне и сутре видит лишь Кришну; ученики признаются, что учёба остановилась; Господь отпускает их к другим учителям и связывает книги; ученики тоже отказываются учиться у других; Господь благословляет их: «Если Я хоть день служил Кришне…»."
+
+- id: ev-first-kirtan-with-students
+  title: "Первая санкиртана: Господь учит учеников петь «харайе намах кришна ядавайа намах»"
+  title_en: "The first sankirtana: the Lord teaches His students to sing 'haraye namah krishna yadavaya namah'"
+  period: P07
+  order: 37
+  cc: "Ади 17"
+  cb: "Мадхья 1.403–423"
+  themes: [kirtan, ecstasy]
+  notes: "Господь хлопает в ладоши и поёт имена, ученики вторят; Он катается в пыли; на звуки сбегаются жители Надии и вайшнавы. ЧЧ Ади 17 упоминает ту же песню, которой Господь научил учеников."
+
+- id: ev-lord-serves-vaishnavas
+  title: "Господь служит вайшнавам у Ганги и принимает их благословения"
+  title_en: "The Lord serves the Vaishnavas at the Ganga and accepts their blessings"
+  period: P07
+  order: 38
+  cb: "Мадхья 2.33–84"
+  themes: [teaching, mercy]
+  notes: "Встречая Шривасу и других по пути к Ганге, Господь выжимает их одежды, носит корзины цветов, глину и траву куша; вайшнавы благословляют Его и жалуются на безбожие Надии; Господь: «Ради вас Кришна нисходит; считайте Меня своим слугой»."
+
+- id: ev-shrivasa-good-madness
+  title: "Шачи считает сына больным; Шриваса: «Это не безумие, а высшая према»"
+  title_en: "Shachi thinks her son is ill; Shrivasa: 'This is not madness but the highest prema'"
+  period: P07
+  order: 39
+  cb: "Мадхья 2.85–124"
+  themes: [ecstasy, family]
+  notes: "Господь в настроении Вишну восклицает «Я — Он!»; соседи советуют связать Его и мазать голову маслом; Шриваса, увидев, как Господь лишается чувств при виде вайшнава: «Я сам хотел бы такого безумия»; Господь: «Скажи ты, что Я болен, — Я утопился бы в Ганге»."
+
+- id: ev-kanai-natashala-vision-after-gaya
+  title: "Рассказ Господа: по пути из Гаи в Канаи-Натшале Его обнял тёмный юноша с флейтой"
+  title_en: "The Lord's account: on the way back from Gaya, at Kanai-Natashala, a dark youth with a flute embraced Him"
+  period: P07
+  order: 39.5
+  cb: "Мадхья 2.159–201"
+  themes: [separation, ecstasy, revelation]
+  notes: "Господь открывает близким Свою сердечную боль: в Канаи-Натшале Он увидел Кришну — цвета тамалы, с павлиньим пером, флейтой, Каустубхой, — Тот обнял Его и исчез; с тех пор Господь спрашивает каждого вайшнава: «Где Кришна?». Ср. ev-natashala-kanai-return (поворот от Натшалы в 1514 г.)."
+
+- id: ev-gadadhara-krishna-in-heart
+  title: "«Кришна в Твоём сердце» — Господь раздирает грудь; Шачи просит Гададхару не отходить от сына"
+  title_en: "'Krishna is in Your heart' — the Lord tears at His chest; Shachi asks Gadadhara to stay by her son"
+  period: P07
+  order: 39.7
+  cb: "Мадхья 2.202–214"
+  themes: [separation, ecstasy, family]
+  notes: "Гададхара приносит бетель; на вопрос «Где тёмный Кришна в жёлтых одеждах?» отвечает: «В Твоём сердце» — и Господь ногтями раздирает Себе грудь; Гададхара удерживает и утешает Его; Шачи: «Будь всегда подле моего сына»."
+
+- id: ev-rumour-king-boats-shrivasa
+  title: "Хулители киртана; слух, что царь послал лодки схватить вайшнавов"
+  title_en: "The blasphemers of kirtan; the rumour that the king has sent boats to seize the Vaishnavas"
+  period: P07
+  order: 39.8
+  cb: "Мадхья 2.225–243"
+  themes: [offense, kirtan, muslims]
+  notes: "Атеисты, разбуженные киртаном, винят Шривасу с братьями («кричат имена ради пропитания»), предлагают сбросить его дом в Гангу; разносится слух о двух царских лодках; Шриваса пугается."
+
+- id: ev-shrivasa-sees-chaturbhuja
+  title: "Господь является Шривасе в четырёхруком облике у его алтаря Нрисимхи; Нараяни плачет от любви"
+  title_en: "The Lord appears to Shrivasa in His four-armed form at his Nrisimha altar; Narayani weeps with love"
+  period: P07
+  order: 39.9
+  cb: "Мадхья 2.244–340"
+  themes: [revelation, mercy]
+  notes: "Увидев коров на берегу, Господь возвещает «Я — Нанда-нандана!», бьёт ногой в дверь комнаты, где Шриваса поклоняется Нрисимхе, и восседает в позе героя с раковиной, диском, булавой и лотосом: «Твой киртан и зов Нары (Адвайты) привели Меня с Вайкунтхи»; Шриваса славит Его молитвой Брахмы (Бхаг. 10.14.1), семья поклоняется Его стопам; Господь обещает обратить царя к имени и велит четырёхлетней Нараяни плакать, повторяя имя Кришны."
+
+- id: ev-akrura-bhava-navadvipa
+  title: "Господь в бхаве Акруры: «О Нанда, отпусти Кришну и Балараму в Матхуру»"
+  title_en: "The Lord in the mood of Akrura: 'O Nanda, let Krishna and Balarama go with me to Mathura'"
+  period: P07
+  order: 59
+  cb: "Мадхья 3.1–17"
+  themes: [ecstasy, krishna-lila]
+  notes: "Услышав о какой-либо лиле Кришны, Господь принимает её настроение: плачет по шесть часов, смеётся по три, восклицает «Я — Он! Где старый Нара, призвавший Меня?»; в бхаве Акруры падает, как палка, и просит Нанду отпустить Кришну и Балараму на праздник лука."
+
+- id: ev-nityananda-breaks-danda-navadvipa
+  title: "Нитьянанда ночью ломает данду и разбивает камандалу; Господь пускает обломки по Ганге"
+  title_en: "Nityananda breaks His danda and kamandalu at night; the Lord casts the pieces into the Ganga"
+  period: P07
+  order: 109.3
+  cb: "Мадхья 5.66–78"
+  themes: [ecstasy, sannyasa]
+  notes: "Накануне вьяса-пуджи, в доме Шривасы; наутро Рамаи находит обломки; Господь с преданными пускает данду по течению Ганги; Нитьянанда бросается в реку ловить крокодила за хвост, и лишь слово Господа возвращает Его. Ср. ev-danda-broken (данда Самого Господа на пути в Пури)."
+
+- id: ev-nityananda-child-malini
+  title: "Нитьянанда живёт у Шривасы как дитя; Малини кормит Его, как сына"
+  title_en: "Nityananda lives at Shrivasa's house like a child; Malini feeds Him as her son"
+  period: P07
+  order: 109.7
+  cb: "Мадхья 7.7–8; Мадхья 11"
+  themes: [family, ecstasy]
+  notes: "Упоминание в ЧБ Мадхья 7: Нитьянанда не ест рис Сам, и Малини кормит Его своими руками."
+
+- id: ev-lord-tests-shrivasa-nityananda
+  title: "Господь испытывает Шривасу: «Зачем держишь в доме авадхуту неизвестного рода?»"
+  title_en: "The Lord tests Shrivasa: 'Why keep in your house an avadhuta of unknown birth?'"
+  period: P07
+  order: 107.5
+  cb: "Мадхья 8.9–27"
+  themes: [teaching, family]
+  notes: "Шриваса: «Нитьянанда — Твоё собственное тело, я видел это»; обрадованный Господь благословляет его и поручает ему заботу о Нитьянанде; Нитьянанда как дитя плавает в Ганге, играет с детьми, ходит к Гангадасу и Мурари, пытается схватить за стопы Шачи."
+
+- id: ev-shachi-dream-krishna-balarama-deities
+  title: "Сон Шачи: Гаура и Нитьянанда спорят с Божествами Кришны и Баларамы за подношения"
+  title_en: "Shachi's dream: Gaura and Nityananda quarrel with the Deities of Krishna and Balarama over the offerings"
+  period: P07
+  order: 107.8
+  cb: "Мадхья 8.28–50"
+  themes: [revelation, deities, family]
+  notes: "Пятилетние Гаура и Нитьянанда выносят из алтаря Божества Кришны и Баларамы; Те гонят «самозванцев», Нитьянанда: «Время пастушков прошло, настало время брахманов; Мой Господин — Гаурачандра»; все четверо отнимают друг у друга пищу; Господь просит мать никому не рассказывать: половина подношений и впрямь исчезала. ЧЧ Ади 17 (сутра) упоминает, что Шачи увидела двух братьев Рамой и Кришной."
+
+- id: ev-closed-door-kirtan-scoffers
+  title: "Ночной киртан за запертыми дверями у Шривасы; хула толпы у ворот"
+  title_en: "The night kirtan behind closed doors at Shrivasa's; the crowd's blasphemy at the gate"
+  period: P07
+  order: 112.9
+  cb: "Мадхья 8.106–280"
+  themes: [kirtan, offense, ecstasy]
+  notes: "Господь устанавливает каждую ночь киртан — в доме Шривасы или Чандрашекхары; двери запирают; тысячи людей у ворот требуют впустить их и хулят: пьянствуют, призывают мантрами пять дев, навлекли засуху; грозят разрушить дом Шривасы. Ср. ЧЧ Ади 17 (год ночного киртана у Шривасы)."
+
+- id: ev-lord-eats-offerings-throne
+  title: "Господь на троне с шалаграмами: «Я — Кришна, Нараяна!» — съедает все подношения"
+  title_en: "The Lord on the throne with the shalagramas: 'I am Krishna, Narayana!' — He eats all the offerings"
+  period: P07
+  order: 113.2
+  cb: "Мадхья 8.281–325"
+  themes: [revelation, prasada]
+  notes: "За три часа до рассвета Господь кладёт себе на колени шалаграмы и садится на симхасану (Нитьянанда-Ананта входит в неё, чтобы трон не сломался); объявляет: «В Кали Я — Кришна, Я — Нараяна, сын Деваки», съедает йогурт, масло, сласти, кокосы, бананы — на двести человек, и, наконец, камфару и бетель; зовёт «Нара!», предлагает всем благословения, затем падает без чувств, и преданные думают, что Он ушёл."
+
+- id: ev-gangadasa-ferry-rescue
+  title: "Господь напоминает Гангадасу: в образе паромщика Он переправил его семью, бежавшую от яванов"
+  title_en: "The Lord reminds Gangadasa: as a ferryman He carried his family across the Ganga when they fled the Yavanas"
+  period: P07
+  order: 113.55
+  cb: "Мадхья 9.109–120"
+  themes: [revelation, mercy, muslims]
+  notes: "В махапракашу Господь напоминает преданным случаи их жизни: Шривасе — как его выгнали с чтения «Бхагаваты» у Девананды (ev-devananda-rebuked), одному — как Он лечил его в облике лекаря, Гангадасу — как ночью у пустой пристани явился паромщиком и перевёз его семью, спасая от мусульманского царя. Гангадас здесь — преданный Навадвипы (по контексту махапракаши; тождество с учителем Гангадасом Пандитом не оговорено)."
+
+- id: ev-murari-sees-rama-mahaprakasha
+  title: "В махапракашу Мурари видит Господа Рамачандрой: «Ты — Хануман»"
+  title_en: "During the mahaprakasha Murari sees the Lord as Ramachandra: 'You are Hanuman'"
+  period: P07
+  order: 113.57
+  cb: "Мадхья 10.7–33"
+  themes: [revelation, mercy]
+  notes: "Мурари видит Господа цвета травы дурва в позе лучника, с Ситой и Лакшманой и вожаками обезьян; Господь напоминает ему о сожжённой Ланке и горе Гандхамадане; Мурари просит лишь всегда петь славу Господа и общаться с Его слугами. Ср. ev-murari-ramadasa (имя «Рамадас»)."
+
+- id: ev-haridasa-scars-mahaprakasha
+  title: "Господь показывает Харидасу шрамы на Своей спине: «Я принял удары яванов на Себя»"
+  title_en: "The Lord shows Haridasa the scars on His back: 'I took the Yavanas' blows upon Myself'"
+  period: P07
+  order: 113.58
+  cb: "Мадхья 10.35–111"
+  themes: [mercy, muslims, revelation]
+  notes: "Господь говорит Харидасу: «Мы одного сословия; Я хотел поразить твоих мучителей диском, но ты молился об их благе, и Я закрыл твою спину Своим телом»; Харидас в смирении («кто коснётся меня, должен омыться») славит силу памятования (Драупади, Прахлада, Пандавы и Дурваса, Аджамила) и просит лишь остатков пищи слуг Господа; Господь дарует ему чистую бхакти. Избиение на двадцати двух рынках — ЧБ Ади 16 (ev-haridasa-muslim-governor)."
+
+- id: ev-crow-ghee-pot-malini
+  title: "Ворона уносит горшочек Малини — по слову Нитьянанды приносит его обратно"
+  title_en: "A crow carries off Malini's pot — at Nityananda's word it brings it back"
+  period: P07
+  order: 109.75
+  cb: "Мадхья 11.31–59"
+  themes: [pranks, revelation]
+  notes: "Малини плачет о медном горшочке (для масла), унесённом вороной; Нитьянанда велит вороне вернуть его, и та приносит; Малини славит Его как Лакшману и Балараму, а Он, как дитя, просит есть, и у Малини появляется молоко."
+
+- id: ev-nityananda-sandesh-shachi
+  title: "Нитьянанда-дитя в доме Шачи: ответы невпопад и выброшенные сандеши"
+  title_en: "Child-like Nityananda at Shachi's house: answers at random and the thrown-away sandesh"
+  period: P07
+  order: 109.8
+  cb: "Мадхья 11.65–93"
+  themes: [pranks, revelation, family]
+  notes: "Нагой Нитьянанда приходит, когда Господь сидит с Лакшми (Вишнуприей), отвечает невпопад; Шачи даёт пять сандешей, Он съедает один и выбрасывает четыре, а затем ест те же сандеши, найденные Шачи в комнате; Шачи видит в Нём Вишварупу: «Я знаю, что Ты — Верховный Господь, сними с меня покров»."
+
+- id: ev-yamaraja-dance-jagai-madhai
+  title: "Ямараджа и полубоги пляшут, славя спасение Джагая и Мадхая"
+  title_en: "Yamaraja and the demigods dance, glorifying the deliverance of Jagai and Madhai"
+  period: P07
+  order: 121.6
+  cb: "Мадхья 14"
+  themes: [celestial, mercy, kirtan]
+  notes: "Возвращаясь из Навадвипы, Яма спрашивает Читрагупту о грехах Джагая и Мадхая — их не перечесть, но Господь в миг избавил их; Яма падает без чувств от любви к Кришне, Брахма и Шива поют ему на ухо, и он пляшет; с ним пляшут Шива с Карттикеей и Ганешей, Брахма с праджапати, Нарада, Шукадева, Индра, Ананта с Гарудой; звуки киртана достигают Сатьялоки."

@@ -1,0 +1,198 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/rupa-gosvami.md и lila-db.
+id: "@rupa-gosvami"
+names:
+  ru: "Рупа Госвами"
+  en: "Rupa Gosvami"
+  variants: ["Дабир Кхас (титул при Хуссейн Шахе)", "Шри Рупа", "Рупа-манджари (в Кришна-лиле)", "«Сантоша» (прежнее имя — по мнению некоторых, M)", "«жалкий / малый Рупа» (о себе)"]
+  facts: [F24, F26, F28, F29, F30, F31, F53, F58, F620]
+kind: acharya
+circle: [goswamis, vrindavana]
+period: [P13, P14, P15]
+period_note: "Лично: Рамакели и Прайяга (P13), Пури и Врадж при Господе (P14), Врадж после сокрытия Господа (P15). В lila-db упоминается и в рассказах о других периодах (P00, P01, P07, P11 — пророчества, перечни, предания)."
+life:
+  appearance:
+    date: "1489 (Бхактивинода; рукописи Гопиваллабхапура; словарь Ашутоша Дэва) / 1493 (рукопись Радха-раманы; M)"
+    tithi: ""
+    place: "#fatehabad?"
+    conf: "место рождения прямо не названо; дом Кумарадевы — Бакла-Чандрадвипа и Фатеябад"
+    facts: [F1, F3, F4, F5, F7, F13]
+  disappearance:
+    date: "1564 (Бхактивинода) / 1568 (рукопись Радха-раманы) / 1558 (словарь Ашутоша Дэва, по T)"
+    tithi: "Шравана шукла-двадаши (B); по нашему календарю — Гаура-двадаши месяца Шридхара, на следующий день после начала Джхулан-ятры (24 августа 2026); T — «бхадра, 12-й день светлой половины, после Джхулан-экадаши» (вероятно, солнечный месяц)"
+    place: "#vrindavana"
+    conf: "день по B совпадает с нашим календарём; год спорен"
+    facts: [F3, F5, F7, F8, F616]
+  samadhi: [{place: "#radha-damodara-temple", facts: [F618]}]
+origin:
+  places: ["#karnata", "#naihati", "#chandradvipa", "#fatehabad", "#sakurma", "#ramakeli"]
+  family: ["@kumara-deva", "@sanatana-gosvami", "@anupama", "@jiva-gosvami"]
+  varna: "брахман (яджурведийский, готра Бхарадваджа), род царей Карнаты"
+  facts: [F9, F10, F11, F12, F13, F15, F16, F18, F19, F30, F269]
+  note: "Родословная — по «Лагху-тошани» Дживы (B, M) и Анубхашье Бхактисиддханты (T); расхождения — кто переселился в Бенгалию (Кумарадева по B и T / Мукунда по M), число дочерей Падманабхи (18 / 8)."
+relations:
+  - {type: father, who: "@kumara-deva", facts: [F15]}
+  - {type: sibling, who: "@sanatana-gosvami", facts: [F15, F28, F51, F53, F150, F208, F213, F266, F267, F269], note: "Старший брат; Рупа чтил его как гуру (M: «Санатана — гуру Рупы»), Санатана называл Рупу своим любимым слугой."}
+  - {type: siksha-guru, who: "@sanatana-gosvami", facts: [F268, F269, F485, F592], note: "M; в ЛМ 1.7 Рупа называет Санатану аватарой Санов и вишва-гуру; поклоны Санатане в сочинениях Рупы."}
+  - {type: sibling, who: "@anupama", facts: [F15, F57, F69, F72, F151, F153], note: "Младший брат (Валлабха); ушёл из мира на пути из Вриндавана (в Гауде по B / в пути по T)."}
+  - {type: nephew, who: "@jiva-gosvami", facts: [F15, F61, F284, F285, F286, F287, F288, F292, F293, F294, F296], note: "Сын Анупамы; ученик Рупы и Санатаны; собрал «Ставамалу»; эпизод изгнания (T, по БР) и спор с дигвиджайи."}
+  - {type: siksha-disciple, who: "@jiva-gosvami", facts: [F284, F288, F292, F293, F436]}
+  - {type: guru, who: "@mahaprabhu", facts: [F53, F55, F74, F97, F98, F102, F141, F143, F158, F167, F173, F206, F207], events: [ev-ramakeli-rupa-sanatana, ev-rupa-prayaga, ev-rupa-shiksha-prayaga, ev-rupa-arrives-haridasa-puri, ev-priyah-so-yam-rupa, ev-rupa-sent-vrindavana-after-dola], note: "Встреча и имя в Рамакели; вложение шакти и наставления в Прайяге (Дашашвамедха); общение в Пури; четырёхчастное поручение."}
+  - {type: siksha-disciple, who: "@raghunatha-dasa", facts: [F272, F273, F274, F275, F297, F319, F321, F505, F617], events: [ev-raghunatha-dasa-radha-kunda], note: "«Третий брат»; удержан Рупой и Санатаной от самоубийства; «Дана-кели-каумуди» — по его просьбе (B, по комментарию); плач Рагхунатхи по уходе Рупы."}
+  - {type: siksha-disciple, who: "@raghunatha-bhatta", facts: [F151, F276, F277, F247], events: [ev-raghunatha-bhatta-sent-vrindavana]}
+  - {type: friend, who: "@gopala-bhatta", facts: [F278, F279, F280, F281, F282, F283, F293], events: [ev-gopala-bhatta-comes-vrindavana, ev-radha-ramana-appearance]}
+  - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F106, F324, F325, F355, F563, F566], note: "Развернул 11 стихов Рупы в «Говинда-лиламрите»; «лучший из рупануг» (T)."}
+  - {type: lineage-successor, who: "@narottama-dasa", facts: [F300, F301, F302, F303, F304, F305, F306, F307, F308, F309, F312, F314], events: [ev-narottama-path-vision]}
+  - {type: lineage-successor, who: "@srinivasa-acharya", facts: [F310, F311, F312], events: [ev-srinivasa-vision-rupa-sanatana, ev-rupa-sanatana-departure]}
+  - {type: friend, who: "@lokanatha", facts: [F215, F257, F298, F299, F300], events: [ev-lokanatha-life-vrindavana]}
+  - {type: host, who: "@haridasa-thakura", facts: [F60, F157, F158, F163, F164, F182], events: [ev-rupa-arrives-haridasa-puri, ev-tunde-tandavini], note: "В Пури Рупа жил у Харидаса (T: в Сиддха-бакуле)."}
+  - {type: companion, who: "@svarupa-damodara", facts: [F171, F176, F177, F183, F184, F200, F204, F316, F329], events: [ev-priyah-so-yam-rupa], note: "Сварупа понял «прийах со 'йам»; по велению Господа открывал Рупе истины расы; в шикша-парампаре — до Рупы (= @svarupa-damodara F45–F47)."}
+  - {type: companion, who: "@ramananda-raya", facts: [F97, F183, F184, F188, F189, F192, F193, F194, F195, F200, F622], events: [ev-rupa-puri-dramas], note: "Разбирал обе драмы и хвалил их (= @ramananda-raya F52, F123)."}
+  - {type: companion, who: "@sarvabhauma", facts: [F183, F184]}
+  - {type: companion, who: "@nityananda", facts: [F51, F56, F161, F199], note: "= @nityananda F255, F321."}
+  - {type: companion, who: "@advaita", facts: [F161, F199, F63]}
+  - {type: companion, who: "@subuddhi-raya", facts: [F144, F145, F146, F147, F150]}
+  - {type: met, who: "@vallabha-bhatta", facts: [F81, F85, F86, F87, F88, F89, F90, F91, F92, F93, F285, F286], events: [ev-vallabha-bhatta-adaila]}
+  - {type: met, who: "@raghupati-upadhyaya", facts: [F94, F543]}
+  - {type: companion, who: "@balabhadra-bhattacharya", facts: [F80, F91]}
+  - {type: companion, who: "@krishnadasa-rajput", facts: [F91, F93]}
+  - {type: host, who: "@tapana-mishra", facts: [F151]}
+  - {type: host, who: "@chandrashekhara-vaidya", facts: [F151]}
+  - {type: co-worker, who: "@kashishvara", facts: [F232, F233, F311], events: [ev-gaura-govinda-kashishvara]}
+  - {type: host, who: "@vitthalanatha", facts: [F256, F257], events: [ev-gopala-mathura-vitthaleshvara]}
+  - {type: companion, who: "@bhugarbha", facts: [F215, F254, F257]}
+  - {type: companion, who: "@govinda-gosani", facts: [F253, F254, F257]}
+  - {type: other, who: "@haridasa-pandita-govinda", facts: [F222, F223, F253, F254]}
+  - {type: other, who: "@radha-krishna-gosvami", facts: [F222, F224, F225, F226], note: "Автор «Садхана-дипики» — источника рассказа о Говинде (БР 2)."}
+  - {type: ruler-of, who: "@gauda-sultan", facts: [F28, F29, F48, F50, F62], events: [ev-gauda-sultan-sees-crowds], note: "Хуссейн Шах: Рупа — Дабир Кхас при его дворе (здесь type — роль султана по отношению к Рупе: правитель)."}
+  - {type: co-worker, who: "@keshava-vasu", facts: [F35, F49], note: "Кешава Чхатри (Кхатри) — советник Шаха; только T и M."}
+  - {type: other, who: "@satyabhama", facts: [F155, F156, F169], event: ev-satyabhama-dream-rupa}
+  - {type: other, who: "@shiva", facts: [F461, F464, F482, F483], note: "Гопишвара у Брахма-кунды во сне велел писать обе драмы."}
+  - {type: other, who: "@madhavendra-puri", facts: [F256], note: "Гопала Мадхавендры пришёл в Матхуру, чтобы дать Рупе даршан."}
+  - {type: other, who: "@kavi-karnapura", facts: [F100, F101, F316, F543]}
+  - {type: other, who: "@baladeva-vidyabhushana", facts: [F331, F332, F241, F251]}
+  - {type: other, who: "@vishvanatha-chakravarti", facts: [F327, F461, F575]}
+  - {type: other, who: "@bhaktivinoda", facts: [F2, F3, F339, F341, F550, F582, F590]}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F58, F333, F343, F345, F346, F347, F258]}
+  - {type: deity-served, who: "@govinda-deity", facts: [F219, F221, F227, F228, F229, F230, F240, F241, F251, F252], events: [ev-govinda-deva-appearance], note: "Явил служение Говинде на Гома-тиле (Йога-питха); Говинда — «владыка жизни» Рупы."}
+  - {type: other, who: "@gaura-govinda-deity", facts: [F233, F234], event: ev-gaura-govinda-kashishvara}
+  - {type: other, who: "@vrinda-devi", facts: [F249], event: ev-vrinda-devi-rupa}
+  - {type: other, who: "@shrinathji-deity", facts: [F255, F256, F257], event: ev-gopala-mathura-vitthaleshvara, note: "Гопала Говардхана."}
+  - {type: other, who: "@madana-mohana-vrindavana", facts: [F219, F235]}
+  - {type: other, who: "@radha-ramana-deity", facts: [F279, F280, F281], event: ev-radha-ramana-appearance, note: "⚠ по «некоторым рассказам» (B) Рупа сам явил Радха-рамана; обычно — Гопала Бхатта."}
+  - {type: other, who: "@radha", facts: [F259, F260, F261, F262, F264, F265], note: "Предания (БР): Радха приносит продукты для сладкого риса; коса — «змея» в «Чату-пушпанджали»."}
+unnamed:
+  - {who: "предки: Сарвагья, Анируддха, Рупешвара, Падманабха, Мукунда(-дева)", type: relative, facts: [F9, F10, F11, F12, F13]}
+  - {who: "мать (имя неизвестно)", type: mother, facts: [F15]}
+  - {who: "дядя по матери в Сакурме", type: uncle, facts: [F19]}
+  - {who: "брахман-южанин в Прайяге", type: host, facts: [F72, F78, F79, F143]}
+  - {who: "враджаваси, указавший место Говинды", type: other, facts: [F228, F229]}
+  - {who: "Видьявачаспати, брат Сарвабхаумы — учитель (по M)", type: guru, facts: [F20]}
+identities:
+  - in: krishna-lila
+    as: "Рупа-манджари, первая среди служанок, следующих Лалите"
+    source: "ГГД 180"
+    level: A
+    facts: [F620, F621, Q1]
+    variants: ["T 126: последовательница Лалиты и Вишакхи (F622)"]
+  - in: other
+    as: "вечный спутник Господа, выше варнашрамы; «низкое рождение» — слова смирения"
+    source: "B, T, M (толкование авторов)"
+    level: C
+    facts: [F623, F624, I1, I2]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-ramakeli-rupa-sanatana
+  - ev-gauda-sultan-sees-crowds
+  - ev-rupa-sanatana-renunciation
+  - ev-rupa-prayaga
+  - ev-vallabha-bhatta-adaila
+  - ev-rupa-shiksha-prayaga
+  - ev-rupa-first-vrindavana-stay
+  - ev-sanatana-mathura-vraja-places
+  - ev-rupa-gauda-anupama-passing
+  - ev-satyabhama-dream-rupa
+  - ev-rupa-arrives-haridasa-puri
+  - ev-rupa-puri-dramas
+  - ev-priyah-so-yam-rupa
+  - ev-tunde-tandavini
+  - ev-rupa-sent-vrindavana-after-dola
+  - ev-rupa-year-gauda
+  - ev-rupa-sanatana-books-vrindavana
+  - ev-gosvamis-reveal-lost-tirthas
+  - ev-govinda-deva-appearance
+  - ev-gaura-govinda-kashishvara
+  - ev-vrinda-devi-rupa
+  - ev-gopala-milk-rupa-sanatana
+  - ev-rupa-sanatana-vrindavana-vairagya
+  - ev-raghunatha-bhatta-sent-vrindavana
+  - ev-gopala-bhatta-comes-vrindavana
+  - ev-raghunatha-dasa-radha-kunda
+  - ev-jiva-comes-to-vrindavana
+  - ev-rupa-narayana
+  - ev-jiva-exiled-by-rupa
+  - ev-radha-ramana-appearance
+  - ev-gopala-mathura-vitthaleshvara
+  - ev-rupa-sanatana-departure
+  - ev-srinivasa-vision-rupa-sanatana
+  - ev-narottama-path-vision
+events_note: "События — по реестру; имя дигвиджайи (ev-rupa-narayana, «Према-виласа») и сон Шриниваса по «Нава-падье» (ev-srinivasa-vision-rupa-sanatana) — уточнения lila-db к F288 и F311. Эпизоды lila-db ev-rupa-sends-book-to-lord и ev-chaitanya-swoons-vallabha-words в книгах-источниках реестра нет. Ещё ~70 эпизодов lila-db, где Рупа лишь упомянут, сюда не вынесены (query.py @rupa-gosvami)."
+teachings_given:
+  - {topic: "лиана бхакти: семя-шраддха, полив слушанием и воспеванием, ограда от вайшнава-апарадхи, срезание сорняков (наставления Господа Рупе)", facts: [F109, F117, F118, F119, F120, F121, I9]}
+  - {topic: "чистая бхакти и ступени от шраддхи до махабхавы; пять главных и семь второстепенных рас, первенство мадхурьи", facts: [F124, F125, F130, F131, F134, F140, F141]}
+  - {topic: "Кришна, сын Нанды, не покидает Враджа (враджа-лила выше пура-лилы)", facts: [F167, F168, F169, F494]}
+  - {topic: "«Упадешамрита»: шесть порывов, шесть помех и шесть помощников бхакти, превосходство Радха-кунды", facts: [F576, F578, F579, F581, I40]}
+  - {topic: "шабда — главная прамана, рассуждение без основы отвергнуто (ЛБА)", facts: [F559, I39]}
+  - {topic: "брак гопи — лишь видимость, созданная Йогамайей", facts: [F475, F487, F488, F489, I33]}
+teachings_received:
+  - {topic: "кришна-, бхакти- и раса-таттва в Прайяге (десять дней на Дашашвамедхе)", facts: [F96, F97, F98, F103, F109, F141]}
+works:
+  - {title: "«Хамса-дута» (до встречи с Господом, по B)", facts: [F360, F361, F374, F375, F378, F384]}
+  - {title: "«Уддхава-сандеша»", facts: [F385, F398]}
+  - {title: "«Кришна-джанма-титхи-видхи» («Кришнабхишека»)", facts: [F399, F410]}
+  - {title: "«Ганоддеша-дипика» большая и малая (1550 г.)", facts: [F411, F421, F435]}
+  - {title: "«Ставамала» (собрана Дживой; «Уткалика-валлари» — 1549/50; «Говинда-вирудавали», «Гитавали», «Чату-пушпанджали», «Говардханаштаки»)", facts: [F350, F436, F437, F444, F455, F456, F457, F251, F252, F264]}
+  - {title: "«Видагдха-мадхава» (1532 г., Гокула)", facts: [F169, F189, F458, F477, F478]}
+  - {title: "«Лалита-мадхава» (1537 г., Бхадравана)", facts: [F169, F193, F479, F491, F497]}
+  - {title: "«Дана-кели-каумуди» (бханика; 1549 г.?)", facts: [F498, F505, F506, F508, F512, F513, F275]}
+  - {title: "«Бхакти-расамрита-синдху» (1541 г.)", facts: [F102, F211, F516, F517, F285]}
+  - {title: "«Уджвала-ниламани»", facts: [F211, F432, F433, F518]}
+  - {title: "«Праюктакхьята-чандрика» (рукопись не найдена)", facts: [F519, F523]}
+  - {title: "«Матхура-махатмья» («Матхура-махима»)", facts: [F524, F536]}
+  - {title: "«Падьявали» (антология)", facts: [F537, F541, F542, F545]}
+  - {title: "«Натака-чандрика»", facts: [F546, F556]}
+  - {title: "«Санкшепа- (Лагху-) бхагаватамрита»", facts: [F557, F562]}
+  - {title: "одиннадцать стихов о восьмичастной лиле (основа «Говинда-лиламриты»)", facts: [F355, F563, F567, F566]}
+  - {title: "«Саманья-вирудавали-лакшана»", facts: [F356, F568, F575]}
+  - {title: "«Упадешамрита»", facts: [F576, F590]}
+  - {title: "стихи «намо маха-ваданьяя», «прийах со 'йам», «тунде тандавини»", facts: [F75, F76, F77, F173, F181]}
+  - {title: "приписываемые Рупе гимны и книги (спорные; сахаджийские — отвергнуты B)", facts: [F358, F359, F593, F610]}
+places: ["#karnata", "#naihati", "#chandradvipa", "#fatehabad", "#sakurma", "#ramakeli", "#gauda", "#maldah", "#kanai-natashala", "#prayaga", "#adaila", "#kashi", "#mathura", "#vrindavana", "#satyabhamapura", "#puri", "#gomatila", "#brahma-kunda", "#govardhana", "#radha-kunda", "#nandagrama", "#gokula", "#bhadravana", "#ter-kadamba", "#radha-damodara-temple", "#jaipur", "#galta"]
+places_facts: [F9, F12, F13, F19, F36, F37, F41, F45, F62, F72, F81, F96, F144, F151, F155, F157, F164, F229, F241, F255, F256, F477, F491, F506, F618, F619]
+character:
+  - {trait: "глубочайшее смирение: считал себя низким и не входил в храм Джаганнатхи; «жалкий Рупа» в своих книгах", facts: [F52, F86, F164, F165, F166, F529, I2, I15]}
+  - {trait: "проникновение в сокровенное настроение Господа (настроение Радхи) — «прийах со 'йам»", facts: [F170, F171, F173, F175, F176, I13]}
+  - {trait: "предельное отречение во Врадже: ночлег под деревьями, подаяние, бхаджан почти без сна", facts: [F213, F66, F209]}
+  - {trait: "щедрость: раздал богатство брахманам, вайшнавам, родне и храмам", facts: [F66, F209]}
+  - {trait: "почитание Говардхана как Кришны — никогда не всходил на холм", facts: [F255]}
+  - {trait: "красивый почерк — «как нить жемчуга»", facts: [F180, F313]}
+  - {trait: "томление разлуки с Господом после Его сокрытия", facts: [F456, F613, F617]}
+significance: {facts: [F314, F315, F316, F317, F318, F319, F320, F106, F107, F108, I24, I25, I3, I4]}
+sources:
+  T: "153–161 (глава); 24, 32–33, 68, 83–84, 97–98, 100, 107, 126, 135, 146, 150–151, 162–172, 176–179, 186–190, 197–198, 204–212, 219–231, 236, 253–275, 290"
+  M: "отдельной главы нет; 2, 10–11, 46, 48, 76, 90, 95, 97–98, 105, 123–125, 152, 161–167, 174–184, 187, 193–195, 255"
+  B: "291–404 (глава); 405, 460, 466, 468–471, 475–476, 491–493, 497, 501–503, 508–519, 524, 534, 553–583, 597–619, 629, 646–657, 664–665, 893, 941, 973–994, 1056, 1103, pdf 1098"
+  other: ["ЧЧ Ади 1.16–19, 5.203, 8.50–69, 10.84–90, 10.157–158; Мадхья 1.35–41, 1.63–65, 1.175–224, 18.48–53, 19.1–255, 25.208; Антья 1.43–200, 4.217–226, 5.86–87, 5.107–108, 13.131", "ЧБ Антья 9.238–239, 9.272–273", "ГГД 180", "«Бхакти-ратнакара» 1.540–568, 1.630–631, 1.796–821, 2.422–453, 5.1311–1333, 6.92–110, 14.19", "«Чайтанья-чандродая-натака» 9", "«Лагху-вайшнава-тошани» (заключение)", "«Садхана-дипика»", "«Анубхашья» (через T)", "«Саджджана-тошани» 1885, 1898"]
+article: {ru: "parshadas/ru/rupa-gosvami.md", en: "parshadas/en/rupa-gosvami.md"}
+open_questions:
+  - "Годы жизни: 1489–1564 (Бхактивинода) / 1493–1568 (рукопись Радха-раманы; M — 1493) / 1489–1558 (Ашутош Дэв по T) (F3, F5, F7)."
+  - "День ухода: шравана-шукла-двадаши (B; наш календарь — Гаура-двадаши Шридхары) против «бхадры» у T — вероятно, солнечный месяц (F8, F616)."
+  - "Нумерация «Падьявали»: «прийах со 'йам» — 383 (B 383, T) / 387 (B 311, ВЧД); «йах каумара-харах» — 382 (B) / 386 (ВЧД) (F172, F173, F544)."
+  - "Номера стихов: «тунде тандавини» — ВМ 1.33 (B) / 1.15 (T, ВЧД); «Чайтанья-чандродая» 9.104 (B) / 9.38 (T) (F100, F181)."
+  - "Кто переселился в Бакла-Чандрадвипу — Кумарадева (B, T) или Мукунда (M); дочерей Падманабхи — 18 (B) или 8 (M) (F12, F13)."
+  - "Время и порядок: ночью (B, T) или вечером (M) встреча в Рамакели; кто советовал Господу уйти — Санатана (T) или оба (M) (F51, F62)."
+  - "Где ушёл Анупама — в Гауде (B) или в пути (T); кто сказал Санатане (F153)."
+  - "Был ли Санатана во Врадже, когда Рупа уходил из Пури (B), или пришёл в Пури позже (T) (F208)."
+  - "Путь Говинды из Вриндавана: сразу в Джайпур (B 327–328), через Бхаратпур (T), через Галту (B 989) (F241)."
+  - "B pdf 1098: Господь будто бы послал Рупу и Санатану во Вриндаван «до Своего прихода» — против ЧЧ (F299)."
+  - "Сладкий рис: место (Тери-кадамба / Павана-саровар) и ответ Санатаны (запрет / самоукор) (F259, F262)."
+  - "Явил ли Радха-раману Рупа (B, «по некоторым рассказам») или Гопала Бхатта; дата у M «1599» (F280, F281)."
+  - "Датировка «Дана-кели-каумуди» (1549 или 1495) и время написания «Хамса-дуты» и «Уддхава-сандеши» относительно встречи с Господом (F374, F395, F506, F508)."

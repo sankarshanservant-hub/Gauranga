@@ -2673,7 +2673,7 @@ with this longing it was composed by Vrindavana Dasa.[^05-96]
 | Mukunda Kaviraja | — | 131 | 132 | 45 (?) | — | 129 | — |
 | Rajiva Pandita | — | 131 | — | — | — | 129 | — |
 | Jiva Pandita | @jiva-pandita | 132 | 132 | 45 | — | — | 169 |
-| Shishu Krishnadasa | @shishu-krishnadasa | 133 | 133 | 46 | — | 130 | — |
+| Shishu Krishnadasa | @kanu-thakura | 133 | 133 | 46 | — | 130 | — |
 | Uddharana Datta | @uddharana-datta | 134 | 98 | 33 | 31–32 | 82 | 129 |
 | Madhava Acharya, author of the Krishna-mangala | @madhava-acharya-kavivallabha | 135 | 134 | 49 (?) | — | 131–132 | 169 |
 | Nrisimha Chaitanya Dasa | — | 135 | 135 | 49 | — | 133 | — |
