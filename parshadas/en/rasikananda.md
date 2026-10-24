@@ -323,7 +323,9 @@ Lord's mercy at work and the power with which his guru had invested Rasika. <!--
 Raja Hari-Narayana, lord of Panchati, told of Rasika to the Gajapati Nrisimhadeva, “the adhikari of Sri Jagannatha” —
 the king of Puri. The king received him and asked him to play the flute; hearing him play, the whole assembly fell
 senseless. Rasika declined to sit beside the Gajapati — “such is the custom of the court” — and in conversation taught
-him to serve the sadhus: Krishna Himself walks after the sadhus, and blasphemy of them brings ruin. Then he asked the
+him to serve the sadhus: guru, Krishna and the sadhus are one; the sadhus are to be honoured more than Krishna — when
+the sadhus are served, Krishna rejoices at heart (see note 12); Narayana Himself ever abides with the sadhus and adorns
+Himself with the dust of their feet; blasphemy of Himself He bears, but blasphemy of the sadhus He does not bear. Then he asked the
 king for “alms” — to give up the killing of living beings. The Gajapati agreed, honoured Rasika and obeyed his word as
 the word of Jagannatha, and after him other rajas also took shelter of Rasika.[^17] <!-- F95 -->
 
@@ -367,7 +369,7 @@ full moon, Rasika gathered provisions for a whole year; Shyamananda, Hridayanand
 dressed as Krishna and the eight sakhis enacted the rasa-lila according to the “Bhagavata.” As Rasika was going from
 his house to the place of the rasa, a cobra bit his foot — and itself turned to dust; he told no one and spent the
 whole night rejoicing at the festival, and in the morning two snake's fangs were found in his foot: the poison had not
-touched him. <!-- F90 F91 -->
+touched him. “He is a part of Narayana,” people said; and the poet himself more than once calls him so.[^18] <!-- F90 F91 -->
 
 The Raja of Ghantshila gave Shyamananda a village, named Shyamasundarapura; in Sana-Govindapura Shyamananda settled his
 three wives. At that time he laughingly told everyone to call Rasika “Thakura Gosai” — and so he was called from then
@@ -392,8 +394,8 @@ service of Govinda. The poet also lists Rasika's disciples — the brahmanas Kal
 sit on the shoulders of tigers and crocodiles), Bhaktadasa, Shyamagopala, Dina-Shyam, son of Ramadasa and Draupadi of a
 noble karana family, and many others. <!-- F101 F102 F103 -->
 
-There was opposition too. Two senior disciples of Shyamananda, Kishora and Chintamani, rejected Rasika's gift, flung the
-cloths at his head and reviled him; Rasika only rejoiced — “like Shyamananda before you, you have placed a cloth on my
+There was opposition too. Two senior disciples of Shyamananda, Kishora and Chintamani, would not accept the costly
+cloths Rasika offered — they threw them down, a cloth fell on his head — and reviled him; Rasika only rejoiced — “like Shyamananda before you, you have placed a cloth on my
 head” — and fell at their feet, calling himself the offender. Soon they fell gravely ill; Rasika nursed them himself, but
 they said: “We stumbled at Rasika's feet — the black serpent of offence has bitten us,” and they left the world, while
 Rasika wept and held a festival in their honour. The bhunya Uddhanda, who refused to carry out Shyamananda's word, soon
@@ -401,14 +403,15 @@ perished. The Mimamsaka pandits of Hijli, unable to answer Rasika in debate, beg
 wrote to them: “You will leave these bodies and be born again, and then I shall take you on my lap and give you the
 holy name”; the one who told them to tie the letter round a dog's neck perished by a dog, the rest died within six
 months, and, born again, received the holy name from Rasika. The senior wife of Shyamananda, Gauranga-dasi, displeased
-that by their guru's word the three thakuranis were to live together, with her supporters planted a letter, supposedly
-written by Rasika, plotting to poison her; but when it was read before all the Vaishnavas, the letter was found to hold
+that by their guru's word the three thakuranis were to live together, with her supporters forged a letter — as if Rasika
+were writing to Shyamapriya that she, Gauranga-dasi, should be poisoned — and had it read before all the Vaishnavas; but
+the letter was found to hold
 only verses of the “Bhagavata” and lines saying that whoever blasphemes the sinless Rasika goes to hell — and the
 plotters were put to shame. Raja Ramachandra Dhal, who disregarded his word, soon lost his kingdom and his life, and his
-son became Rasika's disciple.[^18] <!-- F104 F106 F108 F109 F110 -->
+son became Rasika's disciple.[^19] <!-- F104 F106 F108 F109 F110 -->
 
 ## Festivals and Journeys
-Rasika established thirty annual festivals — on the Hora-panchami of the Ratha-yatra, the festival of Sri Chaitanya; on
+Rasika established thirty annual festivals — on the Hora-panchami of the Ratha-yatra; on the appearance day of Sri Chaitanya; on
 the days of Janmashtami and Radha's appearance; of the Rasa; of the departure of Subala (Gauridasa Pandita) and of
 Hridayananda — and himself went from house to house collecting a handful of rice and cowries for them. In
 Gopivallabhapura the festivals lasted twelve days: each day Govinda was dressed anew and carried to the place of the
@@ -438,7 +441,7 @@ Rasikananda left several works. The chief of them is the “Shyamananda-shataka,
 Vidyabhushana wrote a commentary on it. Narahari Chakravarti quotes from it a verse that glorifies Shyamananda “as
 the beloved disciple of Hridayananda and as the dear disciple's disciple of Sri Subala, the Lord's friend”
 (“Bhakti-ratnakara,” 1.381; he does not name the author). Also known is his “Kunjakeli-dvadashaka.” One biography names, besides,
-a “Bhakta-bhagavatashtaka,” another a “Shrimad-bhagavata-ashtaka”;[^19] the full edition of the “Rasika-mangala” prints
+a “Bhakta-bhagavatashtaka,” another a “Shrimad-bhagavata-ashtaka”;[^20] the full edition of the “Rasika-mangala” prints
 in its appendix the Sanskrit “Sri Bhagavata-ashtaka” — “a work of Srila Rasikananda Deva Gosvami.” These eight verses are
 not about the book but about the bhagavatas — the Lord's devotees; each ends with the words “these bhagavatas I honour at
 every moment, falling with my head to the ground.” Here they are in our translation:
@@ -447,14 +450,14 @@ every moment, falling with my head to the ground.” Here they are in our transl
 > festival of the rasa of full prema, and whose faces are bright; who ever play with joy in the great ocean of the nectar
 > of Krishna's stories — these bhagavatas I honour at every moment, falling with my head to the ground.
 > 2. Those who, even when the four goals of life themselves come to honour their feet, disdain even to glance at them;
-> whose sorrows are gone; who taste the nectar of prema for the Lord of Vraja and regard the impassable ocean of worldly
+> whose sorrows are gone; who taste the nectar of prema for the Lord of Vraja and regard the all-but-impassable ocean of worldly
 > existence as a puddle in a calf's hoofprint…
 > 3. Those who, by their own will binding fast with the great ropes of love the lotus feet of the Beloved of the maidens
 > of Vraja — feet sought by Brahma, Shiva and others — freely and joyfully drink the intoxicating juice flowing from them…
-> 4. Those who are a festival for the hearts of the whole world and give happiness; whom Krishna sent down to earth in
-> human form[^20] for the deliverance of men; whose lotus feet are a ship across the ocean of samsara; in whom the good
+> 4. Those who are a festival for the hearts of the whole world and give happiness to their own; whom Krishna sent down to earth in
+> human form[^21] for the deliverance of men; whose lotus feet are a ship across the ocean of samsara; in whom the good
 > fortune of the three worlds dawns…
-> 5. Those who by the gift of the nectar of their glance cut the great bonds of existence, who by the touch of the water
+> 5. Those who by the gift of the nectar of the sight of them cut men's great bonds of existence, who by the touch of the water
 > that has washed their lotus feet destroy the threefold misery, and by their talk spread love for the feet of the Nagara
 > of Vraja…
 > 6. Those who shine in the rapture of bhava, their bodies thrilling, their lotus faces washed by streams of tears of joy,
@@ -469,7 +472,9 @@ every moment, falling with my head to the ground.” Here they are in our transl
 >
 > Whoever reads with faith this “Bhagavata-ashtaka,” which grants welfare, increases devotion and at every step grants the
 > joy of prema, will soon surely attain the highest love for the bhagavatas — the very soul of the Lord of Vrindavana — the
-> love by which the Beloved of the gopis is conquered. Already in childhood and boyhood, according to the “Rasika-mangala,” he composed songs in various
+> love by which the Beloved of the gopis is conquered.
+
+Already in childhood and boyhood, according to the “Rasika-mangala,” he composed songs in various
 languages and shlokas in the manner of various kavyas. <!-- F40 F41 F61 -->
 
 ## Departure
@@ -490,27 +495,27 @@ Chaitanya said: this Gopala is Mine.” <!-- F39 F121 -->
 In Phalguna, on the way to Remuna, in the village of Banshda a small thorn pierced his foot, and a fever began. “I shall
 surely go to Krishna,” he said; “prepare a place for me at the feet of Sri Gopala Raya in Remuna.” Wherever he stopped
 there was kirtana and the sadhus were fed. When his body grew weak, his companions wanted to carry him to
-Gopivallabhapura, but even a hundred men could not lift the litter; again he said, “To Remuna,” and from Sarata they
-carried him there. One biography names this village Bansdaha (Vamshadaha) near Jaleshvara; along this very road
+Gopivallabhapura, but even a hundred men could not lift the litter; again he said, “To Remuna,” and from Sarata he set
+out for it. One biography names this village Bansdaha (Vamshadaha) near Jaleshvara; along this very road
 Mahaprabhu Himself had once travelled to Puri with Nityananda:
 
 “Having spent the night in Jaleshvara, the Lord set out at dawn together with the devotees. On the way to Vamshadaha
 the Lord met a shakta sannyasi, who tried to instruct Mahaprabhu.” (CB, Antya 2.263–264)
 
 From there, according to the same biography, Rasikananda and his companions went on to Remuna, singing the holy names
-all the way.[^21] <!-- F43 Q1 -->
+all the way.[^22] <!-- F43 Q1 -->
 
 In Remuna Rasika entered the temple alone. A brahmana saw him go in — but he was not to be found in the temple: he had
-withdrawn into Gopala, entering His holy body “together with his own body.”[^22] Only those close to him knew of
+withdrawn into Gopala, entering His holy body “together with his own body.”[^23] Only those close to him knew of
 it, and they revealed it to no one; they enclosed the spot, laid there his clothes, ornaments and garlands, sandal,
 kumkuma and musk, and set up a samadhi before Gopala. “Do not take this for a human pastime,” says the poet. In the
 temple courtyard of Kshirachora-Gopinatha the pushpa-samadhi (flower samadhi) of Rasika-Murari is honoured to this day.
 <!-- F44 F45 F122 -->
 
 This took place, according to one biography, in 1652; according to the “Rasika-mangala,” he was then sixty-two years and
-four months old, which gives the beginning of 1653.[^23] The poet names the day exactly: Phalguna, the pratipad after
+four months old, which gives the beginning of 1653.[^24] The poet names the day exactly: Phalguna, the pratipad after
 Shiva-chaturdashi. So too in our calendar: the disappearance day of Srila Rasikananda Deva Gosvami is observed on
-Gaura-pratipad of the month of Govinda, two days after Shivaratri.[^24] Our calendar does not give the day of his
+Gaura-pratipad of the month of Govinda, two days after Shivaratri.[^25] Our calendar does not give the day of his
 appearance. <!-- F42 F46 -->
 
 With Rasikananda's departure — together with those of Srinivasa, Narottama and Shyamananda — one biographer
@@ -520,7 +525,7 @@ associates the beginning of the third of the four “dark periods” of Bengal V
 Rasikananda and Shyamadasi, according to the “Rasika-mangala,” had daughters — the elder, Devaki, a disciple of
 Shyamananda, and the gentle Vrindavati — and nine sons, of whom three survived: Radhananda, Krishnagati and
 Radha-Krishna Dasa. Radhananda Thakura, a beloved disciple of Shyamananda, was versed in all the scriptures and
-renowned as a master of music.[^25] Descendants of Rasikananda live to this day in Gopivallabhapura
+renowned as a master of music.[^26] Descendants of Rasikananda live to this day in Gopivallabhapura
 (Gopijana-vallabhapura). His preaching was carried on by his son Radhananda, his grandson Nayanananda and others.
 Among his descendants was also Vishvambharananda Deva Gosvami, author of the well-known “Astikya-darshana.”
 <!-- F48 F49 F50 F68 -->
@@ -532,7 +537,7 @@ Vaishnavas searched for manuscripts there together with him — so the author of
 Through Rasikananda runs the disciplic succession of Baladeva Vidyabhushana in the line of Nityananda: Gauridasa
 Pandita — Hridaya Chaitanya — Shyamananda — Rasikananda — Nayanananda — Radha-Damodara — Baladeva. Nayanananda was
 Baladeva's parama-guru, while his direct guru was Sri Radha-Damodara, then head of the “Shyamasundara-kunja” matha
-founded by Shyamananda in Vrindavana (“Siddhanta-ratna,” commentary on 8.35).[^26] <!-- F51 F52 -->
+founded by Shyamananda in Vrindavana (“Siddhanta-ratna,” commentary on 8.35).[^27] <!-- F51 F52 -->
 
 ## Significance
 Rasikananda is the model of a disciple who gave his whole being to his guru and so became the channel of his
@@ -614,33 +619,37 @@ author's conjecture, not based on the “Gaura-ganoddesha-dipika.” <!-- I3 F60
     Raja of Mayana, Chandrabhanu, while Bhima, Shrikara and the yavana “Suva Ahmad” (apparently a subadar) are called
     wicked men and unbelievers who abandoned their wicked ways and sought his shelter. The “Rasika-mangala” has no
     Patashpura; its Gajapati is the king of Puri, and Ahmad Beg is the suba of Banpur.
-[^18]: So the author of the poem, who wrote in Rasikananda's own circle, relates it; we give his words exactly and
+[^18]: So in the poem: “a part of Narayana” (নারায়ণ-অংশ) — Pashchima 4.51, 65; Uttara 9.47; 16.2, 51. These are the author's
+    words, and we give them exactly. For a Gaudiya Vaishnava Rasikananda is a pure devotee, an eternal servant of the
+    Lord empowered by Him, not an incarnation of Vishnu (vishnu-tattva); this is how we understand these expressions of
+    the poet as well.
+[^19]: So the author of the poem, who wrote in Rasikananda's own circle, relates it; we give his words exactly and
     briefly. For the poet this is neither revenge nor worldly anger: Rasika himself rejoices at abuse, prays for those who
     offend him and weeps for them, while the Lord does not tolerate offences against His devotee; and punishment is
     followed by mercy — the blasphemers, born again, receive the holy name, and the raja's son becomes a Vaishnava. An
     offence against a Vaishnava, according to the CC (Madhya 19.156), is like a mad elephant that uproots and tramples
     the creeper of devotion.
-[^19]: This biography also mentions various collections of his verses, prayers and songs.
-[^20]: “Maya” here (মায়ামনুষ্যাকৃতি — “who by maya have taken human form”) is the Lord's own potency, yogamaya:
+[^20]: This biography also mentions various collections of his verses, prayers and songs.
+[^21]: “Maya” here (মায়ামনুষ্যাকৃতি — “who by maya have taken human form”) is the Lord's own potency, yogamaya:
     the devotees descend by His will and are not subject to worldly illusion.
-[^21]: According to this biography, he came there shortly before his departure with seven disciples. Another
+[^22]: According to this biography, he came there shortly before his departure with seven disciples. Another
     biography says that he came to Remuna from Sarata-grama — as does the “Rasika-mangala”; neither it nor the poem
     mentions the seven disciples.
-[^22]: A pure devotee does not “dissolve” in the Deity or lose his identity: the poet's words “entered Gopala's
+[^23]: A pure devotee does not “dissolve” in the Deity or lose his identity: the poet's words “entered Gopala's
     body,” “merged with Him” mean that he withdrew from the eyes of the world and continues to serve the Lord in His
     eternal pastimes. According to one biography, in the courtyard of the temple of Kshirachora-Gopinatha he disappeared
     into the Deity of Gopinatha, and his seven disciples left their bodies at once, and there the pushpa-samadhi of him
     and his seven companions is honoured; according to another, in Remuna he spoke of Krishna with the devotees,
     instructing everyone always to worship Him, entered the temple of Gopinatha and, touching His lotus feet, entered the
     Lord's eternal pastimes. The “Rasika-mangala” does not mention the seven disciples.
-[^23]: According to the same biography, it was the year 1578 of the Shaka era, equated with 1652; but 1578 Shaka
+[^24]: According to the same biography, it was the year 1578 of the Shaka era, equated with 1652; but 1578 Shaka
     corresponds to about 1656, and 1652 to 1574 Shaka. By our calculation, counting from the birth date given in the poem
     (the night of 28–29 October 1590), sixty-two years and four months fall in Phalguna of 1574 Shaka; the bright pratipad
     after Shivaratri that year was 28 February 1653. The poem's own reckoning does not fully agree: twenty-four years and
     nine months from Shyamananda's departure (1552 Shaka) would give about 1655.
-[^24]: According to one biography, the festival of his departure in Remuna falls on Shiva-chaturdashi of the
+[^25]: According to one biography, the festival of his departure in Remuna falls on Shiva-chaturdashi of the
     month of Magha and lasts twelve days (Shivaratri falls in Magha when the months are counted from the new moon, in
     Phalguna when counted from the full moon); the “Rasika-mangala” has no twelve-day festival of his departure.
-[^25]: According to one biography, the sons were named Radhananda, Krishna-Govinda and Radha-Krishna.
-[^26]: According to one biography, Pandita Radha-Damodara, Baladeva's teacher in Puri, ranked among the chief
+[^26]: According to one biography, the sons were named Radhananda, Krishna-Govinda and Radha-Krishna.
+[^27]: According to one biography, Pandita Radha-Damodara, Baladeva's teacher in Puri, ranked among the chief
     disciples of Rasikananda himself.
