@@ -208,7 +208,7 @@ end.” <!-- F54 -->
 
 Starting the preaching was not easy. “Since he was a grihastha at that time, a family man, and I was a brahmachari in
 saffron,” Srila Govinda Maharaj related, “he taught me a few shlokas from the ‘Srimad-Bhagavatam’ and at public
-lectures gave me the vyasasana. ‘Recite these verses,’ he would say, ‘and then I will explain them to the
+lectures gave me the vyasasana (the seat of honour of the speaker). ‘Recite these verses,’ he would say, ‘and then I will explain them to the
 audience.’ That is how he began his preaching. His eagerness to spread Krishna consciousness was
 immense.” <!-- F55 -->
 
