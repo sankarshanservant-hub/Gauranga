@@ -293,18 +293,121 @@ know how the transfer of authority takes place, but that day we witnessed it. Sr
 of the Rupanuga Sampradaya to Srila Sridhar Maharaj.” From then on they showed him the greatest reverence as the
 sampradaya-acharya of the Rupanuga line. <!-- F80 I3 -->
 
+## Seclusion: Vrindavan, Ekachakra, Navadvip
+After Srila Bhaktisiddhanta’s departure the affairs of the mission were to be managed by the trustees he had
+appointed: by the guru’s will they were to form a governing body. “But, unfortunately for us... there were many
+disagreements, and the Mission could not preserve its unity,” Srila Sridhar Maharaj recalled. As his conscience
+bade, he did all he could to keep the movement from falling apart, but he sided with no party: “to take anyone’s side
+in a fight against others was not my rule.” A lawsuit began, and some of his godbrothers were imprisoned; in those
+days he did not leave: “I could not run away like a coward.” Only when the case was dropped about a year later did he
+leave the Math and go to Vrindavan, though his godbrothers did everything to keep him. <!-- F82 -->
 
+For a month he lived near Govardhana, keeping the vow of urja-vrata, and there he accepted a Govardhana-shila. On the
+way back he met a relative, Mani Babu, who worked on the railway, and asked him to donate ten rupees a month; he
+agreed and sent the money for two or three months. With this “capital” he came to Navadvip and rented a house for two
+rupees a month. His godbrothers searched for him a long time, and when they found him they began to visit him — and
+never came without gifts. <!-- F83 -->
 
+Some leaders of the Gaudiya Math asked him to become acharya, but he had never wished for such a post. His
+godbrothers hoped that he would give initiation to the new people whom the preaching would bring — but he refused,
+because he “did not feel the confirmation of the heart.” Yet one anxiety would not leave him: Srila Bhaktisiddhanta
+had not approved of nirjana-bhajana, solitary practice, and had always taught that devotees must gather together and
+sing kirtana. <!-- F84 -->
 
+He did not mean to stay long in Vrindavan. “Only perfected souls can live in Vrindavan,” he said; fallen souls should
+rather seek the shelter of Mahaprabhu in Navadvip, at the aparadha-bhanjan-pat, the place where all offences are
+forgiven. But Mahaprabhu’s mercy comes only by the mercy of Nityananda Prabhu. Narottama Dasa Thakura sings of it:
+*heno nitāi bine bhāi, rādhā-kṛṣṇa pāite nāi* — “without such a Nitai, O brother, one cannot attain Radha and
+Krishna.” Srila Sridhar Maharaj explained: “by the mercy of Nityananda we shall receive the mercy of Gauranga, and by
+the mercy of Gauranga we shall attain the mercy of Radha-Govinda.” Such, he said, is the path shown long ago by Lord
+Brahma: “A devotee of Krishna can easily correct and wholly change even what destiny has ordained for him.”
+<!-- F85 Q5 -->
 
+He resolved to settle for good in Koladvipa, near Gupta-Govardhana. But to take eternal shelter in Navadvip-dham one
+needs the blessing of the dhameshvara, the Lord of the dham — Nityananda Prabhu. So he first went to Ekachakra, the
+place of Nityananda’s appearance, and prayed: “You are patita-pavana, the saviour of the fallen. I pray for Your
+mercy. Allow me to spend the rest of my days in Koladvipa, in Navadvip-dham, where I can find shelter.” And suddenly
+he heard a voice within: “You pray for the mercy of Nityananda Prabhu and want to win His favour?” Nityananda saves
+the fallen — while he himself did not wish to help others; how could he hope for His compassion? He pondered this
+long and at last surrendered to the will of Nityananda Prabhu — and came to Navadvip. <!-- F85 F86 -->
+
+In Navadvip he rented a room for two rupees a month. By day he studied the shastras; in the evening he chanted the
+Holy Name and lay down to sleep only after completing a lakh — a hundred thousand Names. For Sri Giridhari, whom he
+had brought from Vrindavan, he made a small throne in his room; he cooked once a day, offered the food to the Lord and
+himself took a little prasada. “The days flowed by evenly.” <!-- F87 -->
+
+At that time he was studying the books of Srila Jiva Gosvami. One who has wealth but does not give it to the Lord is
+guilty, says Jiva, of vitta-shathya, miserliness; likewise one who has understood the science of bhakti but does not
+share it with others is guilty of jnana-shathya. He remembered a Puranic story heard in childhood: a great learned
+brahmana would share his knowledge with no one, and in his next life became a mango tree laden with beautiful fruit
+that no one — neither man nor even bird — would touch; so the Lord answered Anantadeva, who asked about that tree’s
+fate. Another thought came too: if a physician has not yet reached perfection, can he not help the sick? If everyone
+waits until he is perfect, many will never live to receive help. “With these thoughts I decided that I would no
+longer seek solitude, but would begin to help others.” He had no wish to preach widely or to have many disciples, but
+he resolved to explain the fundamentals of the knowledge kept by the succession to everyone who came, and to give
+initiation — remembering the instruction given him by Nityananda Prabhu, the patita-pavana: “You must do everything
+possible to help those whom you consider to be sincere seekers.” So the humility and the love of quiet reflection on
+the scriptures that had led him to decline the post of acharya gave way, by Nityananda’s will, to compassion for every
+sincere soul. <!-- F88 I4 -->
+
+Helping everyone, he did not, however, overexert himself: the “Bhakti-rasamrita-sindhu”, in listing the sixty-four
+limbs of bhakti, warns against superfluous undertakings — not to build too many temples, not to hold large preaching
+programmes — and he would quote a verse from it[^7]:
+
+*bahu-granthakalābhyāsa-vyākhyā-vāda-vivarjanam*  
+*vyavahāre ’py akārpaṇyaṁ śokādy-avaśa-vartitā*
+
+“Giving up the study of many books and arts, of commentaries and disputes; generosity in worldly dealings; not
+yielding to grief and the like.” <!-- Q6 -->
+
+This very rule had once puzzled him. Reading the “Bhakti-rasamrita-sindhu” with his disciples, Guru Maharaj came to
+the sixty-four limbs of devotion — yet he himself preached widely, collected huge sums and built temples. What would
+he say of this verse? But in two words the guru dispelled all doubt: “Everything depends on capacity. One person can
+rule an empire and still have time to rest. Another wears himself out trying to cope with family cares, and still
+does not succeed.” Each must do what is within his power. <!-- F89 -->
+
+## Sri Chaitanya Saraswat Math
+In 1941 Srila Sridhar Maharaj founded the Sri Chaitanya Saraswat Math[^6]. At first it was only a thatched hut on the
+bank of the Ganges, but even then he composed a shloka that foretold the future worldwide glory of the Math. The plot
+with its tumbledown hut was given to him by Sriyukta Sakhi Charan Ray, who bought it with his own money. Before that
+he had lived for some time in a rented house together with Sripad Keshava Maharaj, and sometimes at the math in
+Midnapore, where Sripad Jajabar Maharaj, Sripad Madhava Maharaj and others lived. In 1942, on the day of the
+Ratha-yatra, he came to this hut for the first time with his Govardhana-shila. “But here I lived separately,” he
+recalled. At first there was only one person with him; then another came and brought several devotees from Orissa;
+in time others joined as well, among them some of his godbrothers, and the mission began to grow. <!-- F90 F92 -->
+
+The Math stands in Kuliya, ancient Koladvipa, where Devananda Pandita lived — at the place called aparadha-bhanjana,
+“where offences are forgiven”: here Mahaprabhu forgave all who had once offended Him in Navadvip. It was here, to the
+feet of the Lord who forgives the fallen, that he had longed to come when he left Vrindavan. The lake beside the Math
+was revealed to him as Govinda-kunda — the very one in Vrindavan, manifest in Navadvip as well; under Srila Govinda
+Maharaj there rose on its banks the main temple of the Math, a temple of Shiva, the Nat-mandir, the
+Chandan-yatra-mandir and other buildings. <!-- F24 F25 F158 F149 -->
+
+He explained the name of the Math thus: “‘Chaitanya Saraswat’ points to the succession that runs from Chaitanya to
+Sarasvati, our Gurudeva”: here Srila Bhaktisiddhanta’s teaching is presented in its true light, and “the purity of
+his teaching is the object of our care. Our mission is the preservation, preaching, propagation and development of
+the teaching of our whole guru-parampara from Chaitanya to Sarasvati.” <!-- F91 -->
+
+Many godbrothers saw in him the acharya of the Rupanuga line and came to him for counsel. At their request he gave
+sannyasa to Srila Bhakti Saranga Goswami Maharaj, to Srila Bhakti Prajnana Keshava Maharaj — his first sannyasa
+disciple — to Bhakti Aloka Paramahamsa Maharaj, Bhakti Kamal Madhusudan Maharaj, Narasimha Maharaj, Bhagavat Maharaj,
+Acharya Maharaj and others; practically all the senior disciples of Srila Bhaktisiddhanta either took sannyasa from
+him or asked him from whom to take it. Many regarded him as their shiksha-guru — among them Srila A. C. Bhaktivedanta
+Swami, Bhakti Prajnana Keshava, Bhakti Saranga Goswami, Bhakti Dayita Madhava and Bhakti Pramoda Puri. Akinchana
+Krishnadasa Babaji, Bhakti Pramoda Puri and other revered Vaishnavas were convinced that Srila Sarasvati Thakura had
+passed the authority of acharya of the Rupanuga Sampradaya to him. Bhakti Pramoda Puri, Bhakti Prajnana Keshava and
+Akinchana Krishnadasa Babaji remained his close companions all their lives, and Srila Bhakti Ballabha Tirtha Maharaj,
+too, received his blessings and close association. <!-- F93 F94 F95 F20 F22 F23 -->
+
+Once, during a parikrama of Vrindavan, on his appearance day, Srila Bhakti Saranga Goswami Maharaj, one of the senior
+preachers among Srila Bhaktisiddhanta’s disciples, himself worshipped him — offering incense and a lamp of a hundred
+and eight wicks — in the presence of many of his own disciples and godbrothers. Srila Govinda Maharaj recorded his
+words on tape: “Going forward, the lion often looks back. In Sanskrit this is called simhavalokanam. We go forward,
+putting all our strength into preaching, but sometimes we look back to learn what Srila Sridhar Maharaj thinks of
+it.” <!-- F96 -->
 
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
-## Sri Chaitanya Saraswat Math
-Some time after the departure of Srila Bhaktisiddhanta[^6] he founded his own temple — the Sri Chaitanya Saraswat
-Math on the bank of the Ganges in Navadvip-dham. The Math stands in Kuliya, ancient Koladvipa, where Devananda Pandita
-lived — at the place called aparadha-bhanjana, “where offences are forgiven”: here Mahaprabhu forgave all who had
-once offended Him in Navadvip. <!-- F24 F25 -->
 
 ## Writings
 His first book was the “Sri Sri Prapanna-jivanamrita”, a thorough study of sharanagati, surrender to the Lord, on the
@@ -351,7 +454,7 @@ his followers. <!-- F35 F36 -->
 
 In his last days he was absorbed in the mood of separation and in longing to serve Sri Sri Radha-Govinda. Srila
 Bhakti Rakshaka Sridhar Deva Goswami Maharaj entered the eternal pastimes in 1988, on the Amavasya of the month of
-Sridhara[^7]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
+Sridhara[^99]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
 
 [^1]: The day of his appearance is given in “Nashi uchitelya” (“Our Teachers”), a book of the Sri Chaitanya Saraswat
     Math; one of the biographies gives only the year and the place. That day was the Krishna Navami of the month of
@@ -367,7 +470,10 @@ Sridhara[^7]. Many devoted followers carry his teaching through the world to thi
     of his departure, and “tuhu doya-sagara” was sung by Navina Krishna Vidyalankara. The account of Srila Govinda
     Maharaj and Srila Sridhar Maharaj’s own words (“exactly one day before his departure”) place it on the eve of the
     departure; we follow them here.
-[^6]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
-    chapters — 1936 and 1937.
-[^7]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
+[^99]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
     Sridhara, which in 1988 fell in August.
+[^6]: The year of the founding is given in “Our Teachers”; the same book records his own recollection that he first
+    came to the donated land on the day of the Ratha-yatra in 1942. According to one of the biographies, the Math was
+    founded soon after Srila Bhaktisiddhanta’s departure.
+[^7]: The verse quoted speaks of many books, commentaries and disputes; next to it in the same list stands the rule
+    not to take many disciples (cf. CC, Madhya 22.114: “One should not take a great number of disciples…”).
