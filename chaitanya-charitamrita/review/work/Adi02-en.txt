@@ -179,6 +179,7 @@ tr: That Nārāyaṇa is not different from Kṛṣṇa’s own form: They are o
 w: this One  indeed  two-armed,  that One  holds  four  hands
 w: this One  the flute  holds,  that One  the disc and the rest  with
 tr: This One has two arms, while that One has four; this One holds the flute, that One the disc and the other emblems.
+fn: As in the Gauḍīya Maṭha edition: «চারি হাত» (another spelling: «হাথ»).
 
 ## 30
 w: Nārāyaṇa  You  not  indeed  of all  the embodied
@@ -437,3 +438,138 @@ fn: The reference is as in the edition: “a rule of rhetoric, «Ekādaśī-tatt
 w: the subject  not  having stated  not  one states  the predicate
 w: first  the subject  one states,  afterwards  the predicate
 tr: Without stating the subject one does not state the predicate: first the subject is stated, and afterwards the predicate.
+
+## 76
+w: ‘the predicate’  one calls  that,  which  thing  unknown
+w: ‘the subject’  one calls  that,  which  is  known
+tr: That which is unknown is called the predicate (*vidheya*); that which is known is called the subject (*anuvāda*).
+
+## 77
+w: as  we say, —  this  brāhmaṇa  a great  scholar
+w: brāhmaṇa —  the subject,  its  predicate —  scholarship
+tr: For example, we say: “This brāhmaṇa is a great scholar.” Here “brāhmaṇa” is the subject, and its predicate is “scholarship”.
+
+## 78
+w: a brāhmaṇa  that he is  we know,  his  scholarship  unknown
+w: therefore  brāhmaṇa  first,  scholarship  afterwards
+tr: That he is a brāhmaṇa is known, but his scholarship is not; therefore “brāhmaṇa” comes first, and “scholarship” afterwards.
+
+## 79
+w: so  here  the avatāras,  all  They  known
+w: of whom  avatāras —  this  thing  unknown
+tr: In the same way, here the avatāras are all known, but whose avatāras They are — that is unknown.
+
+## 80
+w: ‘these’  by the word  of the avatāras  first  the subject
+w: ‘of the Puruṣa  portions’  afterwards  of the predicate  the statement
+tr: First, by the word “these”, the avatāras are stated as the subject; afterwards the predicate is given: “portions of the Puruṣa”.
+fn: This refers to verse 2.67 (*ete cāṁśa-kalāḥ puṁsaḥ*).
+
+## 81
+w: so  Kṛṣṇa  among the avatāras  became  known
+w: of Him  particular  knowledge  that  unknown
+tr: So too Kṛṣṇa became known among the avatāras, but the particular knowledge of Him remained unknown.
+
+## 82
+w: therefore  ‘Kṛṣṇa’  the word  first  the subject
+w: ‘Bhagavān  Himself’  afterwards  of the predicate  the statement
+tr: Therefore the word “Kṛṣṇa” comes first, as the subject, and afterwards the predicate is stated: that He is “Bhagavān Himself”.
+
+## 83
+w: of Kṛṣṇa  being Bhagavān Himself —  this  became  established
+w: of Bhagavān Himself  being Kṛṣṇa  became  necessary
+tr: Thus it is established that Kṛṣṇa is Bhagavān Himself; and it follows of necessity that Bhagavān Himself is Kṛṣṇa.
+
+## 84
+w: Kṛṣṇa  if  a portion  were,  the source  Nārāyaṇa
+w: then  reversed  would be  of Sūta  the statement
+tr: If Kṛṣṇa were the portion and Nārāyaṇa the source, Sūta’s statement would have been the reverse.
+
+## 85
+w: Nārāyaṇa  the source  who  Bhagavān Himself
+w: He  Śrī Kṛṣṇa —  so  would make  that  explanation
+tr: He would have said: “Nārāyaṇa, the source, is Bhagavān Himself, and He is Śrī Kṛṣṇa.”
+
+## 86
+w: error,  inattention,  deceit,  imperfection of the senses
+w: of the seers  wise  in the words  there are not  faults  these  all
+tr: In the words of the wise seers there are none of these faults: error, inattention, the wish to deceive, and imperfection of the senses.
+fn: «Amṛta-pravāha-bhāṣya»: *bhrama* — false knowledge; *pramāda* — inattention; *vipralipsā* — the mind straying elsewhere; *karaṇāpāṭava* — the imperfection of the senses.
+
+## 87
+w: contrary meaning  speak  you,  on being told  you show  anger
+w: in your  interpretation  of the unconsidered  predicate  the fault
+tr: You speak against the scriptures and grow angry when this is pointed out. The fault in your interpretation is that the predicate is wrongly placed (*avimṛṣṭa-vidheyāṁśa*).
+fn: «Anubhāṣya»: the fault *avimṛṣṭa-vidheyāṁśa* (“an unconsidered predicate”) arises when the unknown is not set forth as the principal statement; it is also called *vidheyāvimarśa*. «Amṛta-pravāha-bhāṣya»: it occurs when the predicate is stated before the subject.
+
+## 88
+w: whose  Godhood  from  of others  Godhood
+w: ‘Bhagavān  Himself’  of the word  in Him alone  the meaning
+tr: He from whose Godhood the Godhood of all others proceeds — in Him alone the words “Bhagavān Himself” have their meaning.
+
+## 89
+w: a lamp  from  as  of many  lamps  kindling
+w: original  one  lamp  that  I count
+tr: As many lamps are kindled from one lamp, and that one I count as the original,
+fn: «Anubhāṣya» cites the «Brahma-saṁhitā», 5.46: a flame passed on to another lamp shines just as the first; so Govinda appears as Viṣṇu. All the forms of Viṣṇu are like lamps, equal in light to the original Nārāyaṇa, yet they shine from the original lamp.
+
+## 90
+w: so  of all  avatāras  Kṛṣṇa  indeed  the cause
+w: another  one  verse  hear,  of wrong interpretations  refutation
+tr: so Kṛṣṇa is the cause of all the avatāras. Hear another verse, which refutes wrong interpretations.
+
+## 91–92
+w: here  primary creation  secondary creation  and
+w: maintenance  favour  impulses
+w: the reigns of Manu  narrations of the Lord
+w: winding up  liberation  the shelter
+w: of the tenth  for the clear understanding
+w: of the nine  here  the characteristics
+w: describe  the great souls
+w: by what is heard  by meaning  and  directly
+tr: “In this «Bhāgavatam» there are ten subjects: primary creation (*sarga*), secondary creation (*visarga*), maintenance (*sthāna*), the Lord’s favour to His devotees (*poṣaṇa*), the impulses to action (*ūti*), the reigns of Manu (*manvantara*), the narrations of the Lord (*īśānukathā*), the winding up of the world (*nirodha*), liberation (*mukti*) and the shelter (*āśraya*). To reveal clearly the tenth, the great souls describe here the characteristics of the other nine — sometimes in prayers and narratives, sometimes by direct explanation.” (Śrīmad-Bhāgavatam, 2.10.1–2)
+fn: According to the «Anubhāṣya»: *ūti* — karmic desires; *manvantara* — the righteous path given by Manu; *īśānukathā* — the accounts of Hari’s avatāras; *nirodha* — the Lord with His potencies lying down in sleep; *mukti* — abiding in one’s pure nature; *āśraya* — the Supreme Brahman, the cause of creation, maintenance and dissolution. «Amṛta-pravāha-bhāṣya»: the nine are described “sometimes through prayers and narratives, sometimes by direct analysis”. In the edition these are two verses (2.91 and 2.92).
+
+## 93
+w: the shelter  to know  I tell  these  nine  categories
+w: of these  nine  of the origin  the cause  that  the meaning of shelter
+tr: To make the shelter known I have named these nine categories; the cause from which these nine arise — that is what “the shelter” means.
+
+## 94
+w: Kṛṣṇa  alone  the shelter of all,  Kṛṣṇa  of all  the abode
+w: Kṛṣṇa’s  in the body  of all  universes  the rest
+tr: Kṛṣṇa alone is the shelter of all; Kṛṣṇa is the abode of all. In Kṛṣṇa’s body all the universes rest.
+
+## 95
+w: in the Tenth (Canto)  the tenth  the subject
+w: of the sheltered  the shelter  the embodiment
+w: Śrī Kṛṣṇa  named  the supreme  abode
+w: of the world  the abode  I bow  to That
+tr: “In the Tenth Canto the tenth subject is revealed: the embodiment of the shelter of all who take shelter, the supreme abode named Śrī Kṛṣṇa, the abode of the world. To That I bow down.” (Śrīdhara Svāmī, «Bhāvārtha-dīpikā» on Śrīmad-Bhāgavatam, 10.1.1)
+
+## 96
+w: of Kṛṣṇa  own form,  and  of the three potencies  knowledge
+w: who  has,  he  has not  about Kṛṣṇa  ignorance
+tr: One who knows Kṛṣṇa’s own form and His three potencies is no longer ignorant of Kṛṣṇa.
+
+## 97
+w: of Kṛṣṇa  of the own form  are  sixfold  pastime forms
+w: prābhava  vaibhava  in the forms  twofold  manifestation
+tr: Kṛṣṇa’s own form has six kinds of pastime forms (*vilāsa*): His manifestations are of two kinds, *prābhava* and *vaibhava*;
+fn: «Amṛta-pravāha-bhāṣya»: *prābhava* and *vaibhava* are those forms whose eternal form of being, knowledge and bliss is like Hari’s, yet somewhat less than the Supreme; according to the degree of potency, where lordship (*prabhutā*) predominates they are called *prābhava*, and where all-pervading greatness (*vibhutā*) predominates, *vaibhava*.
+
+## 98
+w: portion  empowered  in the forms  twofold  avatāras
+w: of childhood  of boyhood  nature  two  indeed  kinds
+tr: His avatāras are of two kinds, partial (*aṁśa*) and empowered (*śaktyāveśa*); and His pastimes are of two kinds, those of childhood (*bālya*) and of boyhood (*paugaṇḍa*).
+fn: «Amṛta-pravāha-bhāṣya»: the *aṁśa* and *śaktyāveśa* avatāras are described elsewhere; they too are counted among the *prābhava* and *vaibhava*. Kṛṣṇa, who is eternally youthful, has pastimes in both childhood and boyhood (AP on 2.99).
+
+## 99
+w: youthful  in His own form  Kṛṣṇa  Himself  the source of avatāras
+w: pastimes  performs  in these  six  forms  the universe  filling
+tr: Kṛṣṇa in His own form is youthful (*kiśora*): He Himself is the source of the avatāras. In these six forms He sports, filling the universe.
+
+## 100
+w: in these  six  forms  there are  unlimited  varieties
+w: in unlimited  forms  one  form,  there is not  any  difference
+tr: Within these six forms there are unlimited varieties; yet in all those unlimited forms there is one form, and no difference at all.

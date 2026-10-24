@@ -324,15 +324,15 @@ one and the same  form,  but  of shape  difference
 
 (28) That Nārāyaṇa is not different from Kṛṣṇa’s own form: They are one and the same Person, differing only in shape.
 
-ইঁহো ত’ দ্বিভুজ, তিঁহো ধরে চারি হাথ ৷  
+ইঁহো ত’ দ্বিভুজ, তিঁহো ধরে চারি হাত ৷  
 ইঁহো বেণু ধরে, তিঁহো চক্রাদিক সাথ ॥ ২৯ ॥
 
-im̐ho ta’ dvi-bhuja, tim̐ho dhare cāri hātha  
+im̐ho ta’ dvi-bhuja, tim̐ho dhare cāri hāta  
 this One  indeed  two-armed,  that One  holds  four  hands  
 im̐ho veṇu dhare, tim̐ho cakrādika sātha  
 this One  the flute  holds,  that One  the disc and the rest  with
 
-(29) This One has two arms, while that One has four; this One holds the flute, that One the disc and the other emblems.
+(29) This One has two arms, while that One has four; this One holds the flute, that One the disc and the other emblems.[^16]
 
 নারায়ণস্ত্বং ন হি সর্ব্বদেহিনা-  
 মাত্মাস্যধীশাখিললোকসাক্ষী ৷  
@@ -348,7 +348,7 @@ Nārāyaṇa  (Your) limb  from Nara  born  waters  abode
 tac cāpi satyaṁ na tavaiva māyā  
 that  also  true  not  Your  indeed  māyā
 
-(30) “Are You not Nārāyaṇa? For You are the Self of all embodied beings, O Lord, and the witness of all the worlds. Nārāyaṇa is Your portion — so called because His abode is the waters born of Nara; and that too is true, not Your māyā.” (Śrīmad-Bhāgavatam, 10.14.14)[^16]
+(30) “Are You not Nārāyaṇa? For You are the Self of all embodied beings, O Lord, and the witness of all the worlds. Nārāyaṇa is Your portion — so called because His abode is the waters born of Nara; and that too is true, not Your māyā.” (Śrīmad-Bhāgavatam, 10.14.14)[^17]
 
 শিশু বৎস হরি’ ব্রহ্মা করি’ অপরাধ ৷  
 অপরাধ ক্ষমাইতে মাগেন প্রসাদ ॥ ৩১ ॥
@@ -408,7 +408,7 @@ in the material and spiritual  creation  all  living  forms
 tāhāra ye ātmā tumi mūla-svarūpa  
 their  who  the Self  You  the original  form
 
-(36) You are the Self of all living beings, as many as there are in the material and spiritual creation; You are their original source.[^17]
+(36) You are the Self of all living beings, as many as there are in the material and spiritual creation; You are their original source.[^18]
 
 পৃথ্বী যৈছে ঘটকুলের কারণ আশ্রয় ৷  
 জীবের নিদান তুমি, তুমি সর্ব্বাশ্রয় ॥ ৩৭ ॥
@@ -538,7 +538,7 @@ of the Causal ocean  Garbhodaka  Kṣīrodaka  who lie
 māyā-dvārā sṛṣṭi kare, tāte saba māyī  
 through māyā  creation  They do,  therefore  all  masters of māyā
 
-(49) Kāraṇodakaśāyī, Garbhodakaśāyī and Kṣīrodakaśāyī Viṣṇu create through māyā; therefore all of Them are *māyī*, masters of māyā.[^18]
+(49) Kāraṇodakaśāyī, Garbhodakaśāyī and Kṣīrodakaśāyī Viṣṇu create through māyā; therefore all of Them are *māyī*, masters of māyā.[^19]
 
 সেই তিন জলশায়ী সর্ব্ব-অন্তর্য্যামী ৷  
 ব্রহ্মাণ্ডবৃন্দের আত্মা যে পুরুষ-নামী ॥ ৫০ ॥
@@ -548,7 +548,7 @@ those  three  who lie on the waters  of all  the Indwellers
 brahmāṇḍa-vṛndera ātmā ye puruṣa-nāmī  
 of the universes  of the multitude  the Self  who  Puruṣa  named
 
-(50) These three, who lie on the waters, dwell within all as the Supersoul: They who are called Puruṣas are the Self of all the universes.[^19]
+(50) These three, who lie on the waters, dwell within all as the Supersoul: They who are called Puruṣas are the Self of all the universes.[^20]
 
 হিরণ্যগর্ভের আত্মা গর্ভোদকশায়ী ৷  
 ব্যষ্টিজীব-অন্তর্য্যামী ক্ষীরোদকশায়ী ॥ ৫১ ॥
@@ -558,7 +558,7 @@ of Hiraṇyagarbha  the Self  Garbhodakaśāyī
 vyaṣṭi-jīva-antaryāmī kṣīrodaka-śāyī  
 of the individual being  the Indweller  Kṣīrodakaśāyī
 
-(51) Garbhodakaśāyī is the Self of Hiraṇyagarbha, and Kṣīrodakaśāyī is the Indweller of each individual being.[^20]
+(51) Garbhodakaśāyī is the Self of Hiraṇyagarbha, and Kṣīrodakaśāyī is the Indweller of each individual being.[^21]
 
 এ সভার দর্শনে ত’ আছে মায়াগন্ধ ৷  
 তুরীয় কৃষ্ণের নাহি মায়ার সম্বন্ধ ॥ ৫২ ॥
@@ -568,7 +568,7 @@ of Them  all  in the glance  indeed  there is  of māyā  a trace
 turīya kṛṣṇera nāhi māyāra sambandha  
 of the fourth  Kṛṣṇa  there is not  with māyā  connection
 
-(52) In Their glancing upon māyā there is, as it were, a trace of māyā; but Kṛṣṇa, who abides in the fourth (*turīya*), has no connection with māyā at all.[^21]
+(52) In Their glancing upon māyā there is, as it were, a trace of māyā; but Kṛṣṇa, who abides in the fourth (*turīya*), has no connection with māyā at all.[^22]
 
 বিরাট্ হিরণ্যগর্ভশ্চ কারণং চেত্যুপাধয়ঃ ৷  
 ঈশস্য যৎ ত্রিভির্হীনং তুরীয়ং তৎ প্রচক্ষতে ॥ ৫৩ ॥
@@ -582,7 +582,7 @@ of the Lord  that which  of the three  devoid
 turīyaṁ tat pracakṣate  
 the fourth  that  they call
 
-(53) “Virāṭ, Hiraṇyagarbha and Kāraṇa are designations of the Lord; that which is free from these three is called the fourth (*turīya*).” (Śrīdhara Svāmī’s commentary on Śrīmad-Bhāgavatam, 11.15.16)[^22]
+(53) “Virāṭ, Hiraṇyagarbha and Kāraṇa are designations of the Lord; that which is free from these three is called the fourth (*turīya*).” (Śrīdhara Svāmī’s commentary on Śrīmad-Bhāgavatam, 11.15.16)[^23]
 
 যদ্যপি তিনের মায়া লইয়া ব্যবহার ৷  
 তথাপি তৎস্পর্শ নাহি, সভে মায়া-পার ॥ ৫৪ ॥
@@ -592,7 +592,7 @@ although  of the three  with māyā  having to do  dealings
 tathāpi tat-sparśa nāhi, sabhe māyā-pāra  
 yet  its  touch  is not,  all  beyond māyā
 
-(54) Although the three have dealings with māyā, she does not touch Them: all of Them are beyond māyā.[^23]
+(54) Although the three have dealings with māyā, she does not touch Them: all of Them are beyond māyā.[^24]
 
 এতদীশনমীশস্য প্রকৃতিস্থোঽপি তদ্গুণৈঃ ৷  
 ন যুজ্যতে সদাত্মস্থৈর্যথা বুদ্ধিস্তদাশ্রয়া ॥ ৫৫ ॥
@@ -626,7 +626,7 @@ of those  three  the source  of the spiritual sky  Nārāyaṇa
 tem̐ha tomāra prakāśa, tumi mūla-nārāyaṇa  
 He  Your  manifestation,  You  the original  Nārāyaṇa
 
-(57) The source of those three is the Nārāyaṇa of the spiritual sky. He is Your manifestation (*prakāśa*), and You are the original Nārāyaṇa.”[^24]
+(57) The source of those three is the Nārāyaṇa of the spiritual sky. He is Your manifestation (*prakāśa*), and You are the original Nārāyaṇa.”[^25]
 
 অতএব ব্রহ্মবাক্যে পরব্যোম-নারায়ণ ৷  
 তেঁহ কৃষ্ণের প্রকাশ — এই তত্ত্ব-বিবরণ ॥ ৫৮ ॥
@@ -636,7 +636,7 @@ therefore  of Brahmā  in the words  of the spiritual sky  Nārāyaṇa
 tem̐ha kṛṣṇera prakāśa — ei tattva-vivaraṇa  
 He  Kṛṣṇa’s  manifestation —  this  of the truth  explanation
 
-(58) Thus, by Brahmā’s words, the Nārāyaṇa of the spiritual sky is a manifestation of Kṛṣṇa. This is the explanation of the truth.[^25]
+(58) Thus, by Brahmā’s words, the Nārāyaṇa of the spiritual sky is a manifestation of Kṛṣṇa. This is the explanation of the truth.[^26]
 
 এই শ্লোক তত্ত্ব-লক্ষণ ভাগবত-সার ৷  
 পরিভাষা-রূপে ইহার সর্ব্বত্রাধিকার ॥ ৫৯ ॥
@@ -646,7 +646,7 @@ this  verse  of the truth  characteristic  of the Bhāgavata  the essence
 paribhāṣā-rūpe ihāra sarvatrādhikāra  
 of a paribhāṣā  in the form  its  everywhere  application
 
-(59) This verse (2.30), which reveals the characteristics of the Truth, is the essence of the «Bhāgavatam»; as a rule of interpretation (*paribhāṣā*) it applies everywhere.[^26]
+(59) This verse (2.30), which reveals the characteristics of the Truth, is the essence of the «Bhāgavatam»; as a rule of interpretation (*paribhāṣā*) it applies everywhere.[^27]
 
 ব্রহ্ম, আত্মা, ভগবান্ — কৃষ্ণের বিহার ৷  
 এ অর্থ না জানি’ মূর্খ অর্থ করে আর ॥ ৬০ ॥
@@ -656,7 +656,7 @@ Brahman,  Paramātmā,  Bhagavān —  of Kṛṣṇa  the manifestations
 e artha nā jāni’ mūrkha artha kare āra  
 this  meaning  not  knowing  the foolish  meaning  make  other
 
-(60) Brahman, Paramātmā and Bhagavān are manifestations of Kṛṣṇa. Not knowing this meaning, fools interpret otherwise.[^27]
+(60) Brahman, Paramātmā and Bhagavān are manifestations of Kṛṣṇa. Not knowing this meaning, fools interpret otherwise.[^28]
 
 অবতারী নারায়ণ, কৃষ্ণ অবতার ৷  
 তেঁহ চতুর্ভুজ, ইঁহ মনুষ্য-আকার ॥ ৬১ ॥
@@ -690,7 +690,7 @@ Brahman  thus  Paramātmā  thus
 bhagavān iti śabdyate  
 Bhagavān  thus  is named
 
-(63) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)[^28]
+(63) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)[^29]
 
 শুন ভাই, এ শ্লোকার্থ করহ বিচার ৷  
 এক মুখ্যতত্ত্ব, তিন তাহার প্রচার ॥ ৬৪ ॥
@@ -710,7 +710,7 @@ non-dual  knowledge  the real  Truth  Kṛṣṇa’s  own form
 brahma, ātmā, bhagavān, — tina tām̐ra rūpa  
 Brahman,  Paramātmā,  Bhagavān, —  three  His  forms
 
-(65) The non-dual knowledge, the Truth itself, is Kṛṣṇa’s own form; Brahman, Paramātmā and Bhagavān are His three forms.[^29]
+(65) The non-dual knowledge, the Truth itself, is Kṛṣṇa’s own form; Brahman, Paramātmā and Bhagavān are His three forms.[^30]
 
 এই শ্লোকের অর্থে তুমি হৈলা নির্ব্বচন ৷  
 আর এক শুন ভাগবতের বচন ॥ ৬৬ ॥
@@ -734,7 +734,7 @@ by the enemies of Indra  troubled  the world
 mṛḍayanti yuge yuge  
 make happy  in age  after age
 
-(67) “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)[^30]
+(67) “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)[^31]
 
 সব অবতারের করি সামান্য-লক্ষণ ৷  
 তার মধ্যে কৃষ্ণচন্দ্রের করিল গণন ॥ ৬৮ ॥
@@ -808,7 +808,7 @@ not  indeed  without a footing  anything
 kutracit pratitiṣṭhati  
 anywhere  stands
 
-(74) ‘One should not state the predicate without first stating the subject; for nothing that has not found its footing can stand anywhere.’ (Ekādaśī-tattva, 13)[^31]
+(74) ‘One should not state the predicate without first stating the subject; for nothing that has not found its footing can stand anywhere.’ (Ekādaśī-tattva, 13)[^32]
 
 অনুবাদ না কহিয়া না কহি বিধেয় ৷  
 আগে অনুবাদ কহি, পশ্চাদ্বিধেয় ॥ ৭৫ ॥
@@ -819,6 +819,265 @@ the subject  not  having stated  not  one states  the predicate
 first  the subject  one states,  afterwards  the predicate
 
 (75) Without stating the subject one does not state the predicate: first the subject is stated, and afterwards the predicate.
+
+‘বিধেয়’ কহিয়ে তারে, যে বস্তু অজ্ঞাত ৷  
+‘অনুবাদ’ কহি তারে, যেই হয় জ্ঞাত ॥ ৭৬ ॥
+
+‘vidheya’ kahiye tāre, ye vastu ajñāta  
+‘the predicate’  one calls  that,  which  thing  unknown  
+‘anuvāda’ kahi tāre, yei haya jñāta  
+‘the subject’  one calls  that,  which  is  known
+
+(76) That which is unknown is called the predicate (*vidheya*); that which is known is called the subject (*anuvāda*).
+
+যৈছে কহি, — এই বিপ্র পরম পণ্ডিত ৷  
+বিপ্র — অনুবাদ, ইহার বিধেয় — পাণ্ডিত্য ॥ ৭৭ ॥
+
+yaiche kahi, — ei vipra parama paṇḍita  
+as  we say, —  this  brāhmaṇa  a great  scholar  
+vipra — anuvāda, ihāra vidheya — pāṇḍitya  
+brāhmaṇa —  the subject,  its  predicate —  scholarship
+
+(77) For example, we say: “This brāhmaṇa is a great scholar.” Here “brāhmaṇa” is the subject, and its predicate is “scholarship”.
+
+বিপ্র বলি’ জানি, তার পাণ্ডিত্য অজ্ঞাত ৷  
+অতএব বিপ্র আগে, পাণ্ডিত্য পশ্চাৎ ॥ ৭৮ ॥
+
+vipra bali’ jāni, tāra pāṇḍitya ajñāta  
+a brāhmaṇa  that he is  we know,  his  scholarship  unknown  
+ataeva vipra āge, pāṇḍitya paścāt  
+therefore  brāhmaṇa  first,  scholarship  afterwards
+
+(78) That he is a brāhmaṇa is known, but his scholarship is not; therefore “brāhmaṇa” comes first, and “scholarship” afterwards.
+
+তৈছে ইঁহ অবতার, সব তাঁর জ্ঞাত ৷  
+কার অবতার — এই বস্তু অবিজ্ঞাত ॥ ৭৯ ॥
+
+taiche im̐ha avatāra, saba tām̐ra jñāta  
+so  here  the avatāras,  all  They  known  
+kāra avatāra — ei vastu avijñāta  
+of whom  avatāras —  this  thing  unknown
+
+(79) In the same way, here the avatāras are all known, but whose avatāras They are — that is unknown.
+
+‘এতে’ শব্দে অবতারের আগে অনুবাদ ৷  
+‘পুরুষের অংশ’ পাছে বিধেয় সংবাদ ॥ ৮০ ॥
+
+‘ete’ śabde avatārera āge anuvāda  
+‘these’  by the word  of the avatāras  first  the subject  
+‘puruṣera aṁśa’ pāche vidheya saṁvāda  
+‘of the Puruṣa  portions’  afterwards  of the predicate  the statement
+
+(80) First, by the word “these”, the avatāras are stated as the subject; afterwards the predicate is given: “portions of the Puruṣa”.[^33]
+
+তৈছে কৃষ্ণ অবতার-ভিতরে হৈল জ্ঞাত ৷  
+তাঁহার বিশেষ-জ্ঞান সেই অবিজ্ঞাত ॥ ৮১ ॥
+
+taiche kṛṣṇa avatāra-bhitare haila jñāta  
+so  Kṛṣṇa  among the avatāras  became  known  
+tām̐hāra viśeṣa-jñāna sei avijñāta  
+of Him  particular  knowledge  that  unknown
+
+(81) So too Kṛṣṇa became known among the avatāras, but the particular knowledge of Him remained unknown.
+
+অতএব ‘কৃষ্ণ’ শব্দ আগে অনুবাদ ৷  
+‘স্বয়ং ভগবত্তা’ পিছে বিধেয় সংবাদ ॥ ৮২ ॥
+
+ataeva ‘kṛṣṇa’ śabda āge anuvāda  
+therefore  ‘Kṛṣṇa’  the word  first  the subject  
+‘svayaṁ bhagavattā’ piche vidheya saṁvāda  
+‘Bhagavān  Himself’  afterwards  of the predicate  the statement
+
+(82) Therefore the word “Kṛṣṇa” comes first, as the subject, and afterwards the predicate is stated: that He is “Bhagavān Himself”.
+
+কৃষ্ণের স্বয়ং-ভগবত্তা — ইহা হৈল সাধ্য ৷  
+স্বয়ং-ভগবানের কৃষ্ণত্ব হৈল বাধ্য ॥ ৮৩ ॥
+
+kṛṣṇera svayaṁ-bhagavattā — ihā haila sādhya  
+of Kṛṣṇa  being Bhagavān Himself —  this  became  established  
+svayaṁ-bhagavānera kṛṣṇatva haila bādhya  
+of Bhagavān Himself  being Kṛṣṇa  became  necessary
+
+(83) Thus it is established that Kṛṣṇa is Bhagavān Himself; and it follows of necessity that Bhagavān Himself is Kṛṣṇa.
+
+কৃষ্ণ যদি অংশ হৈত, অংশী নারায়ণ ৷  
+তবে বিপরীত হৈত সূতের বচন ॥ ৮৪ ॥
+
+kṛṣṇa yadi aṁśa haita, aṁśī nārāyaṇa  
+Kṛṣṇa  if  a portion  were,  the source  Nārāyaṇa  
+tabe viparīta haita sūtera vacana  
+then  reversed  would be  of Sūta  the statement
+
+(84) If Kṛṣṇa were the portion and Nārāyaṇa the source, Sūta’s statement would have been the reverse.
+
+নারায়ণ অংশী যেই স্বয়ং-ভগবান্ ৷  
+তেঁহ শ্রীকৃষ্ণ — ঐছে করি তা ব্যাখ্যান ॥ ৮৫ ॥
+
+nārāyaṇa aṁśī yei svayaṁ-bhagavān  
+Nārāyaṇa  the source  who  Bhagavān Himself  
+tem̐ha śrī-kṛṣṇa — aiche kari tā vyākhyāna  
+He  Śrī Kṛṣṇa —  so  would make  that  explanation
+
+(85) He would have said: “Nārāyaṇa, the source, is Bhagavān Himself, and He is Śrī Kṛṣṇa.”
+
+ভ্রম, প্রমাদ, বিপ্রলিপ্সা, করণাপাটব ৷  
+আর্ষ-বিজ্ঞবাক্যে নাহি দোষ এই সব ॥ ৮৬ ॥
+
+bhrama, pramāda, vipralipsā, karaṇāpāṭava  
+error,  inattention,  deceit,  imperfection of the senses  
+ārṣa-vijña-vākye nāhi doṣa ei saba  
+of the seers  wise  in the words  there are not  faults  these  all
+
+(86) In the words of the wise seers there are none of these faults: error, inattention, the wish to deceive, and imperfection of the senses.[^34]
+
+বিরুদ্ধার্থ কহ তুমি, কহিতে কর রোষ ৷  
+তোমার অর্থে অবিমৃষ্টবিধেয়াংশ-দোষ ॥ ৮৭ ॥
+
+viruddhārtha kaha tumi, kahite kara roṣa  
+contrary meaning  speak  you,  on being told  you show  anger  
+tomāra arthe avimṛṣṭa-vidheyāṁśa-doṣa  
+in your  interpretation  of the unconsidered  predicate  the fault
+
+(87) You speak against the scriptures and grow angry when this is pointed out. The fault in your interpretation is that the predicate is wrongly placed (*avimṛṣṭa-vidheyāṁśa*).[^35]
+
+যাঁর ভগবত্তা হৈতে অন্যের ভগবত্তা ৷  
+‘স্বয়ং ভগবান্’ শব্দের তাহাতেই সত্তা ॥ ৮৮ ॥
+
+yām̐ra bhagavattā haite anyera bhagavattā  
+whose  Godhood  from  of others  Godhood  
+‘svayaṁ bhagavān’ śabdera tāhātei sattā  
+‘Bhagavān  Himself’  of the word  in Him alone  the meaning
+
+(88) He from whose Godhood the Godhood of all others proceeds — in Him alone the words “Bhagavān Himself” have their meaning.
+
+দীপ হৈতে যৈছে বহু দীপের জ্বলন ৷  
+মূল এক দীপ তাহা করিয়ে গণন ॥ ৮৯ ॥
+
+dīpa haite yaiche bahu dīpera jvalana  
+a lamp  from  as  of many  lamps  kindling  
+mūla eka dīpa tāhā kariye gaṇana  
+original  one  lamp  that  I count
+
+(89) As many lamps are kindled from one lamp, and that one I count as the original,[^36]
+
+তৈছে সব অবতারের কৃষ্ণ সে কারণ ৷  
+আর এক শ্লোক শুন, কুব্যাখ্যা-খণ্ডন ॥ ৯০ ॥
+
+taiche saba avatārera kṛṣṇa se kāraṇa  
+so  of all  avatāras  Kṛṣṇa  indeed  the cause  
+āra eka śloka śuna, kuvyākhyā-khaṇḍana  
+another  one  verse  hear,  of wrong interpretations  refutation
+
+(90) so Kṛṣṇa is the cause of all the avatāras. Hear another verse, which refutes wrong interpretations.
+
+অত্র সর্গো বিসর্গশ্চ স্থানং পোষণমূতয়ঃ ৷  
+মন্বন্তরেশানুকথা নিরোধো মুক্তিরাশ্রয়ঃ ॥ ৯১ ॥
+
+দশমস্য বিশুদ্ধ্যর্থং নবানামিহ লক্ষণম্ ৷  
+বর্ণয়ন্তি মহাত্মানঃ শ্রুতেনার্থেন চাঞ্জসা ॥ ৯২ ॥
+
+atra sargo visargaś ca  
+here  primary creation  secondary creation  and  
+sthānaṁ poṣaṇam ūtayaḥ  
+maintenance  favour  impulses  
+manvantareśānukathā  
+the reigns of Manu  narrations of the Lord  
+nirodho muktir āśrayaḥ  
+winding up  liberation  the shelter  
+daśamasya viśuddhy-arthaṁ  
+of the tenth  for the clear understanding  
+navānām iha lakṣaṇam  
+of the nine  here  the characteristics  
+varṇayanti mahātmānaḥ  
+describe  the great souls  
+śrutenārthena cāñjasā  
+by what is heard  by meaning  and  directly
+
+(91–92) “In this «Bhāgavatam» there are ten subjects: primary creation (*sarga*), secondary creation (*visarga*), maintenance (*sthāna*), the Lord’s favour to His devotees (*poṣaṇa*), the impulses to action (*ūti*), the reigns of Manu (*manvantara*), the narrations of the Lord (*īśānukathā*), the winding up of the world (*nirodha*), liberation (*mukti*) and the shelter (*āśraya*). To reveal clearly the tenth, the great souls describe here the characteristics of the other nine — sometimes in prayers and narratives, sometimes by direct explanation.” (Śrīmad-Bhāgavatam, 2.10.1–2)[^37]
+
+আশ্রয় জানিতে কহি এ নব পদার্থ ৷  
+এ নবের উৎপত্তি-হেতু সেই আশ্রয়ার্থ ॥ ৯৩ ॥
+
+āśraya jānite kahi e nava padārtha  
+the shelter  to know  I tell  these  nine  categories  
+e navera utpatti-hetu sei āśrayārtha  
+of these  nine  of the origin  the cause  that  the meaning of shelter
+
+(93) To make the shelter known I have named these nine categories; the cause from which these nine arise — that is what “the shelter” means.
+
+কৃষ্ণ এক সর্ব্বাশ্রয়, কৃষ্ণ সর্ব্বধাম ৷  
+কৃষ্ণের শরীরে সর্ব্ব-বিশ্বের বিশ্রাম ॥ ৯৪ ॥
+
+kṛṣṇa eka sarvāśraya, kṛṣṇa sarva-dhāma  
+Kṛṣṇa  alone  the shelter of all,  Kṛṣṇa  of all  the abode  
+kṛṣṇera śarīre sarva-viśvera viśrāma  
+Kṛṣṇa’s  in the body  of all  universes  the rest
+
+(94) Kṛṣṇa alone is the shelter of all; Kṛṣṇa is the abode of all. In Kṛṣṇa’s body all the universes rest.
+
+দশমে দশমং লক্ষ্যমাশ্রিতাশ্রয়বিগ্রহম্ ৷  
+শ্রীকৃষ্ণাখ্যং পরং ধাম জগদ্ধাম নমামি তৎ ॥ ৯৫ ॥
+
+daśame daśamaṁ lakṣyam  
+in the Tenth (Canto)  the tenth  the subject  
+āśritāśraya-vigraham  
+of the sheltered  the shelter  the embodiment  
+śrī-kṛṣṇākhyaṁ paraṁ dhāma  
+Śrī Kṛṣṇa  named  the supreme  abode  
+jagad-dhāma namāmi tat  
+of the world  the abode  I bow  to That
+
+(95) “In the Tenth Canto the tenth subject is revealed: the embodiment of the shelter of all who take shelter, the supreme abode named Śrī Kṛṣṇa, the abode of the world. To That I bow down.” (Śrīdhara Svāmī, «Bhāvārtha-dīpikā» on Śrīmad-Bhāgavatam, 10.1.1)
+
+কৃষ্ণের স্বরূপ, আর শক্তিত্রয়-জ্ঞান ৷  
+যাঁর হয়, তাঁর নাহি কৃষ্ণেতে অজ্ঞান ॥ ৯৬ ॥
+
+kṛṣṇera svarūpa, āra śakti-traya-jñāna  
+of Kṛṣṇa  own form,  and  of the three potencies  knowledge  
+yām̐ra haya, tām̐ra nāhi kṛṣṇete ajñāna  
+who  has,  he  has not  about Kṛṣṇa  ignorance
+
+(96) One who knows Kṛṣṇa’s own form and His three potencies is no longer ignorant of Kṛṣṇa.
+
+কৃষ্ণের স্বরূপের হয় ষড়্বিধ বিলাস ৷  
+প্রাভব-বৈভব-রূপে দ্বিবিধ প্রকাশ ॥ ৯৭ ॥
+
+kṛṣṇera svarūpera haya ṣaḍ-vidha vilāsa  
+of Kṛṣṇa  of the own form  are  sixfold  pastime forms  
+prābhava-vaibhava-rūpe dvi-vidha prakāśa  
+prābhava  vaibhava  in the forms  twofold  manifestation
+
+(97) Kṛṣṇa’s own form has six kinds of pastime forms (*vilāsa*): His manifestations are of two kinds, *prābhava* and *vaibhava*;[^38]
+
+অংশ-শক্ত্যাবেশরূপে দ্বিবিধাবতার ৷  
+বাল্য-পৌগণ্ড-ধর্ম্ম দুই ত’ প্রকার ॥ ৯৮ ॥
+
+aṁśa-śaktyāveśa-rūpe dvi-vidhāvatāra  
+portion  empowered  in the forms  twofold  avatāras  
+bālya-paugaṇḍa-dharma dui ta’ prakāra  
+of childhood  of boyhood  nature  two  indeed  kinds
+
+(98) His avatāras are of two kinds, partial (*aṁśa*) and empowered (*śaktyāveśa*); and His pastimes are of two kinds, those of childhood (*bālya*) and of boyhood (*paugaṇḍa*).[^39]
+
+কিশোরস্বরূপ কৃষ্ণ স্বয়ং অবতারী ৷  
+ক্রীড়া করে এই ছয়-রূপে বিশ্ব ভরি’ ॥ ৯৯ ॥
+
+kiśora-svarūpa kṛṣṇa svayaṁ avatārī  
+youthful  in His own form  Kṛṣṇa  Himself  the source of avatāras  
+krīḍā kare ei chaya-rūpe viśva bhari’  
+pastimes  performs  in these  six  forms  the universe  filling
+
+(99) Kṛṣṇa in His own form is youthful (*kiśora*): He Himself is the source of the avatāras. In these six forms He sports, filling the universe.
+
+এই ছয়-রূপে হয় অনন্ত বিভেদ ৷  
+অনন্তরূপে একরূপ, নাহি কিছু ভেদ ॥ ১০০ ॥
+
+ei chaya-rūpe haya ananta vibheda  
+in these  six  forms  there are  unlimited  varieties  
+ananta-rūpe eka-rūpa, nāhi kichu bheda  
+in unlimited  forms  one  form,  there is not  any  difference
+
+(100) Within these six forms there are unlimited varieties; yet in all those unlimited forms there is one form, and no difference at all.
 
 ---
 
@@ -852,34 +1111,50 @@ first  the subject  one states,  afterwards  the predicate
 
 [^15]: «Amṛta-pravāha-bhāṣya»: the eternal form of the Lord cannot be seen by material senses or by the efforts of knowledge; through bhakti, through love, only the devotees become fit to see it — as the gods, whose divine eyes pierce the net of the sun’s rays, see the sun’s own form.
 
-[^16]: «Anubhāṣya»: the verse gives three meanings of the name Nārāyaṇa, corresponding to the three Puruṣa-avatāras: “the Self of all the embodied” (*nāra* — the aggregate of souls, *ayana* — their shelter) is Kṣīrodakaśāyī; “the witness of all the worlds” (*ayase* — “You know”) is Garbhodakaśāyī; “He whose abode is the waters born of Nara” is Kāraṇodakaśāyī. All of Them are Your portions, and You are the original Nārāyaṇa. “Not māyā” — not transient like what māyā produces: māyā cannot touch Your spiritual body, even in the avatāras.
+[^16]: As in the Gauḍīya Maṭha edition: «চারি হাত» (another spelling: «হাথ»).
 
-[^17]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). «Amṛta-pravāha-bhāṣya»: the material creation lies within māyā (Gītā, 7.4–5).
+[^17]: «Anubhāṣya»: the verse gives three meanings of the name Nārāyaṇa, corresponding to the three Puruṣa-avatāras: “the Self of all the embodied” (*nāra* — the aggregate of souls, *ayana* — their shelter) is Kṣīrodakaśāyī; “the witness of all the worlds” (*ayase* — “You know”) is Garbhodakaśāyī; “He whose abode is the waters born of Nara” is Kāraṇodakaśāyī. All of Them are Your portions, and You are the original Nārāyaṇa. “Not māyā” — not transient like what māyā produces: māyā cannot touch Your spiritual body, even in the avatāras.
 
-[^18]: «Amṛta-pravāha-bhāṣya»: “Because They create through māyā, these three Puruṣas are *māyī*, that is, lords in relation to māyā.” Māyā does not touch Them (2.54).
+[^18]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). «Amṛta-pravāha-bhāṣya»: the material creation lies within māyā (Gītā, 7.4–5).
 
-[^19]: «Amṛta-pravāha-bhāṣya»: *ye puruṣa-nāmī* — “They whose name is Puruṣa”. The Self of the universes in this verse is all three of Them: Kāraṇodakaśāyī of all the universes together, Garbhodakaśāyī of the aggregate of beings in a universe, Kṣīrodakaśāyī of each individual being (2.51).
+[^19]: «Amṛta-pravāha-bhāṣya»: “Because They create through māyā, these three Puruṣas are *māyī*, that is, lords in relation to māyā.” Māyā does not touch Them (2.54).
 
-[^20]: «Amṛta-pravāha-bhāṣya»: Hiraṇyagarbha is the aggregate of beings (*samaṣṭi*); its Indweller is Garbhodakaśāyī; the Indweller of each separate being (*vyaṣṭi*) is Kṣīrodakaśāyī.
+[^20]: «Amṛta-pravāha-bhāṣya»: *ye puruṣa-nāmī* — “They whose name is Puruṣa”. The Self of the universes in this verse is all three of Them: Kāraṇodakaśāyī of all the universes together, Garbhodakaśāyī of the aggregate of beings in a universe, Kṣīrodakaśāyī of each individual being (2.51).
 
-[^21]: «Amṛta-pravāha-bhāṣya»: beyond the three Puruṣas is the *turīya*, “the fourth”: Nārāyaṇa, Lord of the spiritual sky, the *vilāsa* of Kṛṣṇacandra, utterly free from any trace of māyā; and the Puruṣas, as it says on 2.54, “only cast Their glance upon māyā, but do not touch it”.
+[^21]: «Amṛta-pravāha-bhāṣya»: Hiraṇyagarbha is the aggregate of beings (*samaṣṭi*); its Indweller is Garbhodakaśāyī; the Indweller of each separate being (*vyaṣṭi*) is Kṣīrodakaśāyī.
 
-[^22]: «Anubhāṣya»: Virāṭ is the gross, Hiraṇyagarbha the subtle, Kāraṇa — ignorance or *prakṛti*; these are particular manifestations (*upādhi*) of the Puruṣa-avatāra, the creator of the *mahat*; the *turīya*, free from them, is Vaikuṇṭha, beyond the three Puruṣas. Śrīdhara Svāmī cites this verse to explain the word *turīya*.
+[^22]: «Amṛta-pravāha-bhāṣya»: beyond the three Puruṣas is the *turīya*, “the fourth”: Nārāyaṇa, Lord of the spiritual sky, the *vilāsa* of Kṛṣṇacandra, utterly free from any trace of māyā; and the Puruṣas, as it says on 2.54, “only cast Their glance upon māyā, but do not touch it”.
 
-[^23]: «Amṛta-pravāha-bhāṣya»: Hiraṇyagarbha and the other beings, collective and individual, are under māyā; the three Puruṣas, though dealing with her, are beyond her — They are lords of māyā; They glance at her, but do not touch her.
+[^23]: «Anubhāṣya»: Virāṭ is the gross, Hiraṇyagarbha the subtle, Kāraṇa — ignorance or *prakṛti*; these are particular manifestations (*upādhi*) of the Puruṣa-avatāra, the creator of the *mahat*; the *turīya*, free from them, is Vaikuṇṭha, beyond the three Puruṣas. Śrīdhara Svāmī cites this verse to explain the word *turīya*.
 
-[^24]: As in the Gauḍīya Maṭha edition: «তেঁহ তোমার প্রকাশ» — “He is Your manifestation”. «Amṛta-pravāha-bhāṣya»: the Nārāyaṇa of the spiritual sky is the source of the Puruṣa-avatāras; He is “Your secondary manifestation (*gauṇa-prakāśa*) in the form of *vilāsa*”. «Anubhāṣya»: His *vilāsa* is the fourfold form — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — from whom the three Puruṣas appear.
+[^24]: «Amṛta-pravāha-bhāṣya»: Hiraṇyagarbha and the other beings, collective and individual, are under māyā; the three Puruṣas, though dealing with her, are beyond her — They are lords of māyā; They glance at her, but do not touch her.
 
-[^25]: As in the Gauḍīya Maṭha edition: «তেঁহ কৃষ্ণের প্রকাশ» (another reading: «তেঁহো কৃষ্ণের বিলাস»). In meaning this manifestation is a *vilāsa*: on 2.57 the «Amṛta-pravāha-bhāṣya» calls Nārāyaṇa “a secondary manifestation in the form of *vilāsa*”.
+[^25]: As in the Gauḍīya Maṭha edition: «তেঁহ তোমার প্রকাশ» — “He is Your manifestation”. «Amṛta-pravāha-bhāṣya»: the Nārāyaṇa of the spiritual sky is the source of the Puruṣa-avatāras; He is “Your secondary manifestation (*gauṇa-prakāśa*) in the form of *vilāsa*”. «Anubhāṣya»: His *vilāsa* is the fourfold form — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — from whom the three Puruṣas appear.
 
-[^26]: «Anubhāṣya»: “this verse” is the one quoted above (2.30), “Are You not Nārāyaṇa…”. «Amṛta-pravāha-bhāṣya»: *paribhāṣā* — a governing rule: “this characteristic you will find everywhere in the «Bhāgavatam»”.
+[^26]: As in the Gauḍīya Maṭha edition: «তেঁহ কৃষ্ণের প্রকাশ» (another reading: «তেঁহো কৃষ্ণের বিলাস»). In meaning this manifestation is a *vilāsa*: on 2.57 the «Amṛta-pravāha-bhāṣya» calls Nārāyaṇa “a secondary manifestation in the form of *vilāsa*”.
 
-[^27]: «Amṛta-pravāha-bhāṣya»: *vihāra* — a manifestation (*prakāśa*) for His pastimes.
+[^27]: «Anubhāṣya»: “this verse” is the one quoted above (2.30), “Are You not Nārāyaṇa…”. «Amṛta-pravāha-bhāṣya»: *paribhāṣā* — a governing rule: “this characteristic you will find everywhere in the «Bhāgavatam»”.
 
-[^28]: The same verse as 2.11 (so the «Anubhāṣya» also notes).
+[^28]: «Amṛta-pravāha-bhāṣya»: *vihāra* — a manifestation (*prakāśa*) for His pastimes.
 
-[^29]: «Amṛta-pravāha-bhāṣya»: “non-dual knowledge” in this verse is the original Reality, Kṛṣṇa’s own form.
+[^29]: The same verse as 2.11 (so the «Anubhāṣya» also notes).
 
-[^30]: «Anubhāṣya»: *ete* — “the avatāras named before”; *aṁśāḥ* — portions of the Puruṣa-avatāra, *kalāḥ* — portions of portions; *mṛḍayanti*, “make happy”, refers to these avatāras. «Amṛta-pravāha-bhāṣya»: “Rāma, Nṛsiṁha and others are portions or parts of the Puruṣa; They protect the world oppressed by demons.”
+[^30]: «Amṛta-pravāha-bhāṣya»: “non-dual knowledge” in this verse is the original Reality, Kṛṣṇa’s own form.
 
-[^31]: The reference is as in the edition: “a rule of rhetoric, «Ekādaśī-tattva», 13”.
+[^31]: «Anubhāṣya»: *ete* — “the avatāras named before”; *aṁśāḥ* — portions of the Puruṣa-avatāra, *kalāḥ* — portions of portions; *mṛḍayanti*, “make happy”, refers to these avatāras. «Amṛta-pravāha-bhāṣya»: “Rāma, Nṛsiṁha and others are portions or parts of the Puruṣa; They protect the world oppressed by demons.”
+
+[^32]: The reference is as in the edition: “a rule of rhetoric, «Ekādaśī-tattva», 13”.
+
+[^33]: This refers to verse 2.67 (*ete cāṁśa-kalāḥ puṁsaḥ*).
+
+[^34]: «Amṛta-pravāha-bhāṣya»: *bhrama* — false knowledge; *pramāda* — inattention; *vipralipsā* — the mind straying elsewhere; *karaṇāpāṭava* — the imperfection of the senses.
+
+[^35]: «Anubhāṣya»: the fault *avimṛṣṭa-vidheyāṁśa* (“an unconsidered predicate”) arises when the unknown is not set forth as the principal statement; it is also called *vidheyāvimarśa*. «Amṛta-pravāha-bhāṣya»: it occurs when the predicate is stated before the subject.
+
+[^36]: «Anubhāṣya» cites the «Brahma-saṁhitā», 5.46: a flame passed on to another lamp shines just as the first; so Govinda appears as Viṣṇu. All the forms of Viṣṇu are like lamps, equal in light to the original Nārāyaṇa, yet they shine from the original lamp.
+
+[^37]: According to the «Anubhāṣya»: *ūti* — karmic desires; *manvantara* — the righteous path given by Manu; *īśānukathā* — the accounts of Hari’s avatāras; *nirodha* — the Lord with His potencies lying down in sleep; *mukti* — abiding in one’s pure nature; *āśraya* — the Supreme Brahman, the cause of creation, maintenance and dissolution. «Amṛta-pravāha-bhāṣya»: the nine are described “sometimes through prayers and narratives, sometimes by direct analysis”. In the edition these are two verses (2.91 and 2.92).
+
+[^38]: «Amṛta-pravāha-bhāṣya»: *prābhava* and *vaibhava* are those forms whose eternal form of being, knowledge and bliss is like Hari’s, yet somewhat less than the Supreme; according to the degree of potency, where lordship (*prabhutā*) predominates they are called *prābhava*, and where all-pervading greatness (*vibhutā*) predominates, *vaibhava*.
+
+[^39]: «Amṛta-pravāha-bhāṣya»: the *aṁśa* and *śaktyāveśa* avatāras are described elsewhere; they too are counted among the *prābhava* and *vaibhava*. Kṛṣṇa, who is eternally youthful, has pastimes in both childhood and boyhood (AP on 2.99).
