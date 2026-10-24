@@ -394,7 +394,7 @@ there. <!-- F65 -->
 Through his efforts temples and centres were founded in Vrindavan, Jagannatha Puri, Calcutta and other cities of
 India, and his disciples opened centres all over the world. <!-- F66 -->
 
-He also explained the emblem of the Math printed in later editions of Srila Sridhar Maharaj’s book “Sri Guru and His
+He also explained the emblem of the Math printed in the present edition of Srila Sridhar Maharaj’s book “Sri Guru and His
 Grace”: “Sri Chaitanya Saraswat Math, where sankirtan is always going on, is inside Krishna’s flute, and the sound om,
 which is the very gist meaning of gayatri, comes from Sri Chaitanya Saraswat Math, radiating merciful rays.” For, as
 Srila Sridhar Maharaj explained, *gāyatrī muralīṣṭa-kīrtana-dhanaṁ rādhā-padaṁ dhīmahi* — “Krishna’s flute does not
