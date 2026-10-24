@@ -613,6 +613,11 @@ Srila Govinda Maharaj, and he by Srila B. N. Acharya Maharaj — Srila Bhakti Ni
 President-Acharya of the Math, in whose service the electronic edition of the book was prepared in 2023 — and then by
 Srila B. T. Niriha Maharaj. <!-- F105 -->
 
+After the departure of Srila Govinda Maharaj, according to the mission, Sri Chaitanya Saraswat Math was headed by a
+board of acharyas. It comprised disciples of Srila Govinda Maharaj — Srila Bhakti Nirmal Acharya Maharaj, Srila Bhakti
+Bimal Avadhut Maharaj, acharya of the Russian mission, and Trivikram Maharaj — as well as sannyasi disciples of Srila
+Sridhar Maharaj, Janardan Maharaj and Ashram Maharaj. <!-- F106 -->
+
 [^1]: The date and place of his appearance are given in “Our Teachers”. By calculation, at sunrise on 17 December 1929
     the Krishna-pratipad was still running, and the dvitiya began in the afternoon; the book does not give the hour of
     his birth.
