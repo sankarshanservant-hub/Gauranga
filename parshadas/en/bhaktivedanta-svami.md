@@ -95,9 +95,8 @@ Though they were Godbrothers, he always addressed Sridhar Maharaj as “Your Div
 addresses only one’s guru. In this, “Our Teachers” says, lies the whole essence of their lila: he went beyond
 etiquette, and such regard for a Godbrother has no precedent. For more than five years they kept close company,
 often for five to seven hours a day, and he was sure that it was Sridhar Maharaj who had prepared him for preaching
-in the West. Other disciples of Srila Bhaktisiddhanta felt the same towards Sridhar Maharaj — Bhakti Prajnana
-Keshava, Bhakti Saranga Goswami, Bhakti Dayita Madhava, Bhakti Pramoda Puri: all of them regarded him as their
-shiksha-guru. <!-- F35 I6 F10 -->
+in the West. Many other disciples of Srila Bhaktisiddhanta also regarded Sridhar Maharaj as their shiksha-guru —
+Bhakti Prajnana Keshava, Bhakti Saranga Goswami, Bhakti Dayita Madhava, Bhakti Pramoda Puri. <!-- F35 I6 F10 -->
 
 Sridhar Maharaj himself told of one of their talks. It concerned the verse of the “Bhagavad-gita” in which Krishna
 speaks of the souls surrendered to Him: “dadami buddhi-yogam tam yena mam upayanti te” — “I give them the inner divine
@@ -135,8 +134,9 @@ answered them one after another. Then Abhay declared: “Today Asia has conquere
 One of his most important meetings with his guru took place in Vrindavana in 1935. Abhay was walking with Srila
 Bhaktisiddhanta and several Godbrothers along the bank of Radha-kunda, and the guru shared his sorrow with him: some of
 his senior disciples were quarrelling over the rooms and property of the Calcutta Math — what would happen when he was
-gone? This “fire of factional interests”, once it flared up, would destroy everything. “It would be good,” he said,
-“to take the marble off the temples and print books with the money.” Abhay took no part in those quarrels. And,
+gone? (Abhay himself took no part in those quarrels.) This “fire of factional interests”, once it flared up, would
+destroy everything. “It would be good,” he said, “to take the marble off the temples and print books with the money.”
+And,
 turning directly to him, Srila Bhaktisiddhanta said: “If you ever have money, print books.” Abhay felt that these
 words had changed the course of his life. <!-- F47 -->
 
@@ -180,7 +180,7 @@ rooms of the laboratory he gave to his dear Godbrother Sridhar Maharaj and his d
 Gaurendu Brahmachari, the future Srila Govinda Maharaj. Thus Sridhar Maharaj’s Calcutta centre was housed in his home
 for many years[^2]. <!-- F49 F50 -->
 
-It was Gaurendu’s guru who told him to study the “Gita” under Abhay. “Guru Maharaj told me to study the ‘Srimad
+“Guru Maharaj told me to study the ‘Srimad
 Bhagavad-gita’ under Srila Swami Maharaj at the times when he himself was away from Calcutta,” Srila Govinda Maharaj
 recalled. Abhay brought out two or three issues of the journal, but there were no funds to go on; huge stacks lay in
 his room, and no one offered to distribute them. Then he said to Gaurendu: “Take the journal and distribute it, going
@@ -338,14 +338,14 @@ guiding his growing movement. In those years he brought Krishna consciousness to
 created a society of thousands of members and opened a hundred and eight temples on five continents — so the
 astrologer’s prediction made at his birth came true as well. He transplanted into foreign soil what many had thought to
 be merely an Indian faith, and showed in practice that the teaching of the Gaudiya Vaishnavas belongs to no single
-culture: it is the dharma of the soul, the eternal nature of everyone. Mahaprabhu’s living teaching, to which he gave
+culture: it is the soul’s own dharma, the eternal nature of everyone. Mahaprabhu’s living teaching, to which he gave
 the name “Krishna consciousness”, he carried farther than the Gaudiya thinkers of his time had thought
 possible. <!-- F78 F6 F7 -->
 
-To attack illusion, one of the biographers says, is the highest service to people: its price is humility in the face
-of ingratitude, and its reward is the dignity of the soul restored to many. What some sought by the sword and others by
-wealth he achieved with a humble heart, flooding the world with love of God — and a day will come when all nations sing
-his glory. <!-- I2 I3 -->
+To attack illusion, one of the biographers says, is the highest service to people: one pays for it by bearing
+ingratitude humbly, and what one wins is the soul’s own worth, given back to many. What some sought by the sword and
+others by wealth he achieved with a humble heart, flooding the world with love for God — and a time is coming when
+every nation will sing his glory. <!-- I2 I3 -->
 
 In June 1971 he visited Moscow. His stay behind the “Iron Curtain” lasted only three days, yet even in that time he
 gained a follower — Ananta Shanti Prabhu, who then began to preach to his friends. His disciples carried the work on.
@@ -357,7 +357,7 @@ ceased. Today, thanks to the preaching of his disciples, there are thousands of 
 sees in this the fulfilment of the prediction of Srila Bhaktivinoda Thakura, who named Russia among the first countries
 that would accept Mahaprabhu’s teaching with all their heart. <!-- F87 F88 -->
 
-Those who knew him spoke above all of his humility. “This is the main point of everything he said: ‘I am the servant of
+What touched George Harrison most in him was his humility. “This is the main point of everything he said: ‘I am the servant of
 the servant of the servant’,” recalled George Harrison. The Swami never laid claim to divinity, and Harrison admired his
 modesty and simplicity: “He was a perfect example of everything he spoke about.” His influence on the world, in
 Harrison’s words, is immeasurable: possessing nothing material, he made thousands of people devotees, and the movement
@@ -375,7 +375,7 @@ devotion to God commanded attention — many young Americans followed him; he kn
 standards. “His voice was the voice of a seventy-year-old man. But when he spoke or sang, the whole atmosphere
 changed.” <!-- F81 -->
 
-Flawless humility and full surrender to the Lord were joined in him with high demands on his disciples; yet his
+Humility and complete self-surrender to the Lord were joined in him with high demands on his disciples; yet his
 insistence, too, was for the Lord’s sake — the active humility of one who carries out His will. Perfection and
 liberation can be reached even without humility, the biographer observes, but pure devotion stands on humility alone;
 Srila Bhaktivedanta Swami had both. <!-- F4 I1 -->
@@ -397,14 +397,14 @@ In 1970 he founded the Bhaktivedanta Book Trust (BBT), which, according to “Ou
 publisher of Vedic literature. R. Subramanyam of New Delhi wrote of his translation of the “Srimad-Bhagavatam” that
 amid unceasing travels and countless duties the founder-acharya of ISKCON was translating this multi-volume Sanskrit
 work into English single-handed. “It is truly astonishing how he is able to do this alone… Is it not Vyasa Muni
-himself, reborn in our time to recast his old work in the world language of this age?” <!-- F85 F86 -->
+himself, reborn in our time to recast his old work in the world language of this age…” <!-- F85 F86 -->
 
 His works became a support for others too. Bhakti Vidhan Mahayogi Swami, translating into English one of the
 biographies of the Lord’s associates, used the BBT edition of the “Sri Chaitanya-charitamrita” with Srila Bhaktivedanta
 Swami’s translation and commentary; he calls both Srila Bhaktivedanta Swami and Srila Sridhar Maharaj his beloved
 spiritual masters. He also writes that Lochana Dasa’s song “parama karuna pahun dui jana”, on the mercy of Nitai and
-Gaurachandra, was especially dear to Srila Bhaktivedanta Swami. He explained it thus: Nitai-Gaura are the essence of
-all avataras, and the path They give is joyful — sing and dance. <!-- F15 F16 F17 -->
+Gaurachandra, was especially dear to Srila Bhaktivedanta Swami. He explained it thus: Nitai-Gaura are the sum and
+substance of every avatara, and the path They give is joyful — sing and dance. <!-- F15 F16 F17 -->
 
 “Prabhupada” was at first the name of Srila Bhaktisiddhanta Sarasvati, and later Srila Bhaktivedanta Swami too was
 honoured with it. Some disciples of Srila Bhaktisiddhanta disapproved of anyone but their guru being called so, but
@@ -480,9 +480,9 @@ the Swami recalled Allahabad in 1930 and the years when Sridhar Maharaj had live
 above). <!-- F99 -->
 
 Srila Govinda Maharaj spoke that day at the request of Sridhar Maharaj, who was unwell. He began with the verse of
-Raghupati Upadhyaya “kam prati kathayitum ishe…” — to whom can I tell it, and who will believe that the Supreme
-Absolute Truth performs His pastimes with the gopis in the groves on the bank of the Yamuna (Krishnadasa Kaviraja
-quotes this verse as well — CC, Madhya 19.98) — and applied it to the Swami: “Who will believe me that Srila Swami
+Raghupati Upadhyaya “kam prati kathayitum ishe…”, which Krishnadasa Kaviraja quotes as well: “To whom shall I tell it,
+and who will believe me, that the Supreme Absolute Truth is the beloved of the young cowherd maidens in the groves by
+the Yamuna?” (CC, Madhya 19.98) This verse he applied to the Swami: “Who will believe me that Srila Swami
 Maharaj, whom we formerly knew as Abhay Babu, a regular participant in the programmes of the Sri Gaudiya Math and a
 householder occupied with family cares and business affairs, has now become a world acharya, known everywhere? He has
 spread Krishna consciousness over the whole planet, accomplishing the most impossible of all impossible
@@ -493,7 +493,7 @@ whom Mahaprabhu wished to preach His teaching: he had many worthy followers, but
 Srila Bhaktivedanta Swami, and the Swami accomplished this task wonderfully. Govinda Maharaj also said that the Swami
 accepts Sridhar Maharaj as his shiksha-guru and regards Govinda Maharaj himself as a son. “In reply Swami Maharaj
 confirmed: ‘All that Govinda Maharaj has said is true. I love him as my own son, and his Gurudeva, Sridhar Maharaj, I
-regard as my shiksha-guru.’ He glorified me, calling me ‘Om Vishnupad’.” Thus, before many Godbrothers and thousands of
+regard as my shiksha-guru.’ He glorified me, calling me ‘Om Vishnupad’,” Sridhar Maharaj recalled. Thus, before many Godbrothers and thousands of
 devotees, the Swami publicly called Srila Govinda Maharaj his dear son. “At that time he was a Guru of world stature,”
 said Srila Govinda Maharaj. “For me this is a great mercy and a rare good fortune.” <!-- F100 F101 -->
 
@@ -507,8 +507,9 @@ become a “big man” was not in his nature; his life was reflection on spiritu
 the circle of close devotees. <!-- F103 -->
 
 In March 1977, shortly before his departure, the Swami came to see him in Navadvipa; their conversation was recorded.
-“I do not know how much longer I shall last, so I have come to see Sridhar,” the Swami said, and he began to ask him to
-settle at the ISKCON temple in Mayapur: “Srila Prabhupada [Srila Bhaktisiddhanta] always wanted you to preach. More
+“I do not know how much longer I shall last, so I have come to see Sridhar,” the Swami said. “How wonderful it is when
+the Lord’s will is fulfilled through someone,” Sridhar Maharaj responded. And the Swami began to ask him to settle at
+the ISKCON temple in Mayapur: “Srila Prabhupada [Srila Bhaktisiddhanta] always wanted you to preach. More
 than once he said to me: ‘Why don’t you bring him out?’… Srila Prabhupada spoke of you as one of the most remarkable
 preachers. I want to travel everywhere with you.” He promised to rent for Sridhar Maharaj any lodging he might wish,
 or to live together with him in the house his disciples were building for him — with a lift and a car — while Sridhar
@@ -517,7 +518,7 @@ under Sridhar Maharaj’s guidance. “If you are near, it will be a great suppo
 someone, but I have no one who could give good advice, and I need it very much… So, Maharaj, please order me — and I
 shall arrange everything… And that planetarium too will be built under your direction. I should like to unite Indian
 culture and American money. It will be for the good of the whole world.” “Yes, while I have strength, while I live, to
-fulfil the desire of Prabhupada [Srila Bhaktisiddhanta]…” Sridhar Maharaj replied. <!-- F104 -->
+fulfil the desire of Prabhupada [Srila Bhaktisiddhanta]…” Sridhar Maharaj replied. <!-- F104 F120 -->
 
 The planetarium had long been Sridhar Maharaj’s own dream. He dearly loved Srila Sanatana Gosvami’s
 “Brihad-bhagavatamrita” and wished to build an exhibition where dioramas would show the planetary systems of the
@@ -573,8 +574,7 @@ of divine mercy, who gave the world the sweetness of the “Srimad-Bhagavatam”
 feet of Radha and Krishna[^5]. <!-- F108 -->
 
 ## Legacy
-Srila Govinda Maharaj spoke of him as the one who began a spiritual revolution. The teachings of Buddha and Shankara,
-he recalled, needed a long time before people accepted them, whereas Srila Swami Maharaj presented Krishna
+Speaking of the spiritual revolution, Srila Govinda Maharaj recalled that the teachings of Buddha and Shankara needed a long time before people accepted them, whereas Srila Swami Maharaj presented Krishna
 consciousness to the whole world in just a few years, and in the swiftness with which this happened “there is
 undoubtedly something supernatural”. So Mahaprabhu’s prediction was fulfilled: “In every town and village throughout
 the world My holy name will be chanted.” (CB, Antya 4.126) Through the Swami’s preaching Krishna consciousness “swept
@@ -633,7 +633,7 @@ and Srila Bhaktivedanta Swami. Its conception, which belongs to Sripad B. A. Mad
 greatest Vaishnavas of our time and reveal the depth of their spiritual relationship, and its aim — to bring them joy
 and help their followers unite in the service of Mahaprabhu’s mission. <!-- F118 F119 -->
 
-To all his followers he left a legacy of love, not of law. He gave to everyone, yet searched for the one who would
+To all his followers he bequeathed not law but love. He gave to everyone, yet searched for the one who would
 truly understand his message. His inner form, the biographer says, is revealed only to those who accept the essence
 of his teaching and example: one can see his true nature only by his will. Deep realisation is the ability to apply
 spiritual truth to differing circumstances; an acharya does not freeze in time but flows out in love to everyone who
@@ -649,7 +649,7 @@ reaches, however slightly, for pure devotion. <!-- F13 F14 I4 -->
     Sri Chaitanya Saraswat Math was housed in his home at his request “for ten years”. He himself, in his speech of
     1973, says that Sridhar Maharaj lived in his house “for many years”.
 
-[^3]: “Our Teachers” calls this temple “founded by Srila Rupa Gosvami”. According to the “Bhakti-ratnakara”
+[^3]: “Our Teachers” speaks of the temple as “founded by Srila Rupa Gosvami”. According to the “Bhakti-ratnakara”
     (4.285–290), Rupa Gosvami revealed the Deity of Sri Sri Radha-Damodara and gave Him to Srila Jiva Gosvami.
 
 [^4]: None of the biographies on which this article rests gives the day and place of his departure — only the year
