@@ -488,6 +488,15 @@
 | “Шри Шри Прапанна-дживанамрита”; “Гаятри-нигудхартха”; “Према-дхама-дева-стотрам”; “Шримад-Бхактивинода-вираха-дашакам”; “Шримад-Бхактивинода-дашакам” | “Sri Sri Prapanna-jivanamrita”; “Gayatri-nigudhartha”; “Prema-dhama-deva-stotram”; “Srimad-Bhaktivinoda-viraha-dashakam”; “Srimad-Bhaktivinoda-dashakam” | сочинения Шридхара Махараджа |
 | «радха-падам дхимахи»; бхарга | “radha-padam dhimahi”; bharga | смысл гаятри по «Гаятри-нигудхартхе» |
 | Акинчана Кришнадас Бабаджи; Бхакти Прагьяна Кешава; Бхакти Саранга Госвами; Бхакти Вичар Джаджабар | Akinchana Krishnadasa Babaji; Bhakti Prajnana Keshava; Bhakti Saranga Goswami; Bhakti Vichar Jajabar | ученики Бхактисиддханты |
+| Рамендра Чандра Дева Шарма Бхаттачарья; Рамендрасундар Бхаттачарья | Ramendra Chandra Deva Sharma Bhattacharya; Ramendrasundar Bhattacharya | имя Шридхара Махараджа при рождении; так он звался в Мадрасе (“Наши учителя”) |
+| Упендра Чандра Дева Шарма Бхаттачарья Видьяратна; Гаури Бала Деви | Upendra Chandra Deva Sharma Bhattacharya Vidyaratna; Gauri Bala Devi | родители Шридхара Махараджа |
+| Шрипат Хапания (округ Бурдван); Джамапур; Гумо; Кална | Sripat Hapania (Burdwan district); Jamapur; Gumo; Kalna | места детства и юности Шридхара Махараджа |
+| Парамананда (Бхарат Севашрам) | Paramananda (Bharat Sevashram) | основатель Бхарат Севашрама, ровесник Шридхара Махараджа; не путать с тёзками XVI в. |
+| Киртанананда брахмачари; Бхарати Махарадж; Бхакти Сварупа Парват Махарадж; Бхактиядава Госвами Махарадж; Шраути Махарадж; Апракрита Прабху; Кунджабихари Видьябхушан (Кунджа Бабу) | Kirtanananda Brahmachari; Bharati Maharaj; Bhakti Svarupa Parvat Maharaj; Bhaktiyadava Goswami Maharaj; Shrauti Maharaj; Aprakrita Prabhu; Kunjabihari Vidyabhushan (Kunja Babu) | ученики Бхактисиддханты (статья о Шридхаре Махарадже); Кунджабихари — позднее Бхакти Вилас Тиртха |
+| Ултаданга (дом № 1, у храма Парешнатха); Курукшетра; Шимла; Гариди (Бихар) | Ultadanga (No. 1, near the Pareshnath temple); Kurukshetra; Shimla; Garidi (Bihar) | места проповеди Шридхара Махараджа; Гариди — как в “Наших учителях” (вероятно, Гиридих) |
+| ниведитатма | niveditatma | «всецело предавшаяся душа» — так Бхактисиддханта назвал Шридхара Махараджа |
+| «Шри Рупа-манджари-пада»; «туху дойа-сагара» | “Sri Rupa-manjari-pada”; “tuhu doya-sagara” | песни Нароттамы и Бхактивиноды, петые у постели Бхактисиддханты |
+| Шрила Говинда Махарадж (Гауренду брахмачари) | Srila Govinda Maharaj (Gaurendu Brahmachari) | ученик и преемник Шридхара Махараджа (тег — при его статье) |
 | Шрила Бхакти Промод Пури Госвами Махарадж; Пранавананда брахмачари; Промод Бхушан Чакраварти | Srila Bhakti Pramoda Puri Goswami Maharaj; Pranavananda Brahmachari; Pramod Bhushan Chakravarti | @bhakti-pramoda-puri (EN — Pramoda, не Promode) |
 | маха-махопадешака; пратна-видьяланкара | maha-mahopadeshaka; pratna-vidyalankara | титулы Пури Махараджа от Бхактисиддханты |
 | Ганганандапур (Джессор); Чампахати | Ganganandapur (Jessore); Champahati | место явления и место санньясы Пури Махараджа |

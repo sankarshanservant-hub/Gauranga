@@ -21,9 +21,9 @@ He appeared on 12 October 1895 in Sripat Hapania, in the district of Burdwan, We
 the month of Damodara. The same lunar day also commemorates the appearance of Virachandra Prabhu, the son of
 Nityananda[^1]. <!-- F42 F2 -->
 
-His family was a respected brahmana family. His father’s name was Sri Upendra Chandra Deva Sharma Bhattacharya
-Vidyaratna, his mother’s Srimati Gauri Bala Devi; they named their son Sri Ramendra Chandra Deva Sharma
-Bhattacharya[^2]. <!-- F41 -->
+He came of a respected brahmana family. His father’s name was Sri Upendra Chandra Deva Sharma Bhattacharya Vidyaratna,
+his mother’s Srimati Gauri Bala Devi; they named their son Sri Ramendra Chandra Deva Sharma Bhattacharya[^2].
+<!-- F41 -->
 
 His birth was preceded by a sign. A relative of the family had gone on pilgrimage to receive the darshan of the Deity,
 and in a dream the Deity handed her a beautiful, radiant infant. Remembering that her sister-in-law had no children,
@@ -128,16 +128,16 @@ Brahmachari stopped him: this threshold was not to be crossed without permission
 a story from the “Mahabharata”: Vyasadeva sent Shukadeva to study with the royal sage Janaka, and at each of the seven
 gates of the capital Shukadeva was kept waiting seven days — forty-nine days he waited for the meeting. And he
 reasoned: were there something wrong here, while he was surrounded with flattery and honour, it would be right to
-leave; “but if I can attain the true good here, then even if they beat me with a broom — I must not leave!” <!-- F62
--->
+leave; “but if I can attain the true good here, then even if they beat me with a broom — I must not leave!”
+<!-- F62 -->
 
 Soon their first conversation took place. After his meal Guru Maharaj was walking on the roof, and he was standing
 nearby. Through a companion Srila Bhaktisiddhanta asked whether he wished to say something, whether he had any
 questions, and at last what purpose had brought him. “To attain your mercy at any cost,” he answered. “I need nothing
 else.” Then the guru came over himself, asked who he was, where he came from and what he did, and said, “You are
 undoubtedly fortunate. You were born within Gaura-mandala.” The companion handed him a newly printed booklet — a gift
-from Guru Maharaj. He already had one, but he was told: take it — this is something more than a mere gift. <!-- F63
--->
+from Guru Maharaj. He already had one, but he was told: take it — this is something more than a mere gift.
+<!-- F63 -->
 
 His decision ripened at one of the Math’s festivals. Srila Bhaktisiddhanta was speaking to a large gathering of
 educated guests from Krishnanagar; elsewhere Sripad Bhakti Pradip Tirtha Maharaj was speaking, Sripad Bhakti Svarupa
@@ -205,8 +205,8 @@ once niveditatma, “a pure soul wholly surrendered to the Supreme”. In Octobe
 Ultadanga Road, Srila Bhaktisiddhanta gave him sannyasa and the name “Srimad Bhakti Rakshaka Sridhar” — “Guardian of
 Devotion” — for his supreme devotion and strict fidelity to the ideals of the Rupanuga Sampradaya. The guru saw in him
 the strength to guard the line of the Gaudiya Vaishnavas against distortion. His own disciple, the translator of one
-of the biographies, also calls him “sarva-shastra-siddhanta-vit” — knower of the conclusions of all scriptures. <!--
-F72 F73 F8 F10 -->
+of the biographies, also calls him “sarva-shastra-siddhanta-vit” — knower of the conclusions of all scriptures.
+<!-- F72 F73 F8 F10 -->
 
 When Bon Maharaj left to preach in England, he took charge of the Math in Madras. Srila Bhaktisiddhanta wanted to send
 him to London too, but he replied: “I am not fit for this. I do not understand their pronunciation, and I have no wish
@@ -246,10 +246,10 @@ least one person able to present his conclusions — bhakti-siddhanta. <!-- F17 
 
 Srila Sridhar Maharaj himself recalled that he composed the poem about a year before his guru’s departure. When he
 read it to Srila Bhaktisiddhanta, the latter remarked, “You have chosen the style very well.” Later he heard the guru
-tell Sripad Shrauti Maharaj that the poem was so beautiful that it was not his: its author was Srila Bhaktivinoda
-Thakura himself, who had revealed his work through him — “to me this is perfectly clear.” And to Sriyukta Aprakrita
-Prabhu Srila Bhaktisiddhanta said, “I am glad that my message will survive me — I see the siddhanta in this verse.”
-Here is the ninth verse of the poem, on Srila Bhaktivinoda’s most hidden gift: <!-- F78 -->
+tell Sripad Shrauti Maharaj that the poem was so beautiful, and it was not written by him: its author was Srila
+Bhaktivinoda Thakura himself, who had revealed his work through him — “to me this is perfectly clear.” And to Sriyukta
+Aprakrita Prabhu Srila Bhaktisiddhanta said, “I am glad that my message will survive me — I see the siddhanta in this
+verse.” Here is the ninth verse of the poem, on Srila Bhaktivinoda’s most hidden gift: <!-- F78 -->
 
 *śrī-gaurānumataṁ svarūpa-viditaṁ rūpāgrajenādṛtaṁ*  
 *rūpādyaiḥ pariveśitaṁ raghu-gaṇair āsvāditaṁ sevitam*  
@@ -261,8 +261,8 @@ Rupa and his companions, relished and served by Raghunatha and his followers, gu
 Shuka, Shiva, Brahma and the rest — the nectar of service to the feet of Sri Radha! O wonder: and this you have the
 power to bestow” (“Srimad-Bhaktivinoda-viraha-dashakam”, 9). <!-- Q4 Q1 -->
 
-Another poem of his, the “Srimad-Bhaktivinoda-dashakam”, was printed in the journal “Gaudiya” in July 1939. <!-- F19
--->
+Another poem of his, the “Srimad-Bhaktivinoda-dashakam”, was printed in the journal “Gaudiya” in July 1939.
+<!-- F19 -->
 
 ## The Guru’s Last Day
 Srila Bhaktisiddhanta left this world on 1 January 1937[^4]. Just before his departure he wished to hear from the
