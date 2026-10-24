@@ -604,8 +604,9 @@ godbrothers were in conversation, Swami Maharaj’s disciple Achyutananda later 
 heard: “If I tell you, you will faint. Sridhar Maharaj is an extraordinarily elevated soul!” <!-- F115 F116 -->
 
 Disciples deprived of his direct guidance Srila Bhaktivedanta Swami would send to Sridhar Maharaj. In one letter he
-writes that he can direct a disciple “to the most competent of all my godbrothers. This is B. R. Sridhar Maharaj,
-whom even I consider my shiksha-guru,” and advises: “live happily with Sridhar Maharaj.” Sridhar Maharaj, for his
+writes that he can refer a disciple “to one who is most highly competent of all my god-brothers. This is B.R.
+Sridhara Maharaja, whom I consider to be even my siksa guru,” and advises: “live peacefully with Sridhara Maharaja”
+(Letter to Hrsikesa, 31 January 1969). Sridhar Maharaj, for his
 part, admired him: “What our Swami Maharaj has done is a miracle! What Bhaktivinoda Thakura conceived, Bhaktisiddhanta
 Sarasvati Thakura began to put into practice. And we see that through Swami Maharaj, at the end of his life, this
 plan has been fulfilled so completely. We are happy, we are glad, we are proud of it!” With tears in his eyes Swami

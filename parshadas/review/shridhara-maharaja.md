@@ -380,3 +380,10 @@ identified with God Himself» (предисловие) в статью не вз
   (одобрение замысла, советы), без оценок. Предание о «головной боли» Кришны — лила, без мирского оттенка.
 - Сноски 1–10 подряд, RU = EN; маркеры RU = EN (скрипт). `check.py shridhara-maharaja` → OK. Карточка не правилась.
   PDF пересобран (26 с.).
+
+## Письмо Бхактиведанты Свами о шикша-гуру — оригинал (2026-10-24)
+F117: письмо — Letter to Hrsikesa, Los Angeles, 31.01.1969 (VedaBase; полный абзац и сверка с N —
+review/bhaktivedanta-svami.md, «Письмо о шикша-гуру — оригинал»). Реестр: испр. пров. (адресат, дата). EN статьи:
+обратный перевод заменён дословными фразами оригинала («to one who is most highly competent of all my god-brothers…
+whom I consider to be even my siksa guru», «live peacefully with Sridhara Maharaja») со ссылкой; RU — по N, добавлены
+адресат и дата. Расхождения N с оригиналом по смыслу нет (оттенок: «живи счастливо» — live peacefully) — без сноски.

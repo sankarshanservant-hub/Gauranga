@@ -460,11 +460,12 @@ Afterwards he asked what they had been speaking about, and heard: “If I tell y
 an extraordinarily exalted soul!” <!-- F93 -->
 
 All his life Srila Bhaktivedanta Swami deeply revered and trusted Sridhar Maharaj, and disciples to whom he could not
-give direct guidance he sent into his care. To one of them he wrote: “If you are really seeking the guidance of a
-shiksha-guru, I can direct you to the most competent of all my Godbrothers. This is B. R. Sridhar Maharaj, whom even I
-regard as my shiksha-guru — what to speak of the benefit that you can gain by associating with him… When the devotees
-and I were in India, we lived with Sridhar Maharaj… So live happily with Sridhar Maharaj, and thus you will attain
-spiritual perfection.” On his advice one of his first disciples, B. A. Sagar Maharaj, accepted the guidance of
+give direct guidance he sent into his care. To one of them, Hrsikesa, he wrote from Los Angeles on 31 January 1969:
+“If you are actually serious to take instructions from a siksa guru, I can refer you to one who is most highly
+competent of all my god-brothers. This is B.R. Sridhara Maharaja, whom I consider to be even my siksa guru, so what to
+speak of the benefit that you can have from his association… When I was in India, Acyutananda, Ramanuga, and myself,
+with others, lived with Sridhara Maharaja… Leave Vrindaban, live peacefully with Sridhara Maharaja… and thereby you
+will be spiritually enlightened.” (Letter to Hrsikesa, 31 January 1969) On his advice one of his first disciples, B. A. Sagar Maharaj, accepted the guidance of
 Sridhar Maharaj — and later received sannyasa from him as well. And Sripad B. B. Avadhut Maharaj relates that the
 Swami, foreseeing how his disciples would need higher guidance after his departure, advised them to turn to Sridhar
 Maharaj. <!-- F94 -->
