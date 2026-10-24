@@ -1,7 +1,7 @@
 “Śrī Caitanya-caritāmṛta”  
 Ādi-līlā  
 Chapter 1  
-**The Supreme Principle of the Guru**  
+**The Auspicious Invocation: Obeisance to the Guru and Others**  
 (English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
 
 বন্দে গুরূনীশভক্তানীশমীশাবতারকান্ ৷  
@@ -290,7 +290,7 @@ of the book  at the beginning  I make  the auspicious invocation
 guru, vaiṣṇava, bhagavān — tinera smaraṇa  
 guru,  Vaiṣṇava,  Bhagavān —  of the three  remembrance
 
-(20) At the beginning of the book I make the auspicious invocation — the remembrance of three: the guru, the Vaiṣṇavas and Bhagavān.
+(20) At the beginning of the book I make the auspicious invocation — the remembrance of three: the Guru, the Vaiṣṇavas and Bhagavān.
 
 তিনের স্মরণে হয় বিঘ্নবিনাশন ৷  
 অনায়াসে হয় নিজ বাঞ্চিতপূরণ ॥ ২১ ॥
@@ -534,7 +534,7 @@ although  my  guru —  of Caitanya  a servant
 tathāpi jāniye āmi tām̐hāra prakāśa  
 still  know  I  His  manifestation
 
-(44) Although my guru is a servant of Śrī Caitanya, I know him to be His manifestation.[^19]
+(44) Although my Guru is a servant of Śrī Caitanya, I know him to be His manifestation.[^19]
 
 গুরু কৃষ্ণরূপ হন শাস্ত্রের প্রমাণে ৷  
 গুরুরূপে কৃষ্ণ কৃপা করেন ভক্তগণে ॥ ৪৫ ॥
@@ -558,7 +558,7 @@ not  as a mortal  should envy
 sarva-deva-mayo guruḥ  
 of all gods  composed  the guru
 
-(46) “Know the ācārya to be Me. Never show him disrespect, and do not envy him, thinking him an ordinary mortal, for the guru embodies all the gods.” (Śrīmad-Bhāgavatam, 11.17.27)[^20]
+(46) “Know the ācārya to be Me. Never show him disrespect, and do not envy him, thinking him an ordinary mortal, for the Guru embodies all the gods.” (Śrīmad-Bhāgavatam, 11.17.27)[^20]
 
 শিক্ষাগুরুকে ত’ জানি কৃষ্ণের স্বরূপ ৷  
 অন্তর্য্যামী, ভক্তশ্রেষ্ঠ — এই দুই রূপ ॥ ৪৭ ॥
@@ -568,7 +568,7 @@ the instructing guru  indeed  I know  Kṛṣṇa’s  own form
 antaryāmī, bhakta-śreṣṭha — ei dui rūpa  
 the Indweller,  the best of devotees —  these  two  forms
 
-(47) I know the instructing guru to be Kṛṣṇa’s own form, in two aspects: the Indweller within, and the best of devotees.[^21]
+(47) I know the instructing Guru to be Kṛṣṇa’s own form, in two aspects: the Indweller within, and the best of devotees.[^21]
 
 নৈবোপয়ন্ত্যপচিতিং কবয়স্তবেশ  
 ব্রহ্মায়ুষাপি কৃতমৃদ্ধমুদঃ স্মরন্তঃ ৷  
@@ -1344,7 +1344,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^39]: The Gauḍīya Maṭha edition reads «…বাঞ্ছা আদি এই সব» (“and so on”). «Amṛta-pravāha-bhāṣya» (on 1.91): *kaitava* is the desire for *dharma*, *artha*, *kāma* and *mokṣa*; the chief of them is the desire for liberation (1.92).
 
-[^40]: «Anubhāṣya» and «Amṛta-pravāha-bhāṣya»: *mahā-muni-kṛte* — “composed by the great sage Śrī Nārāyaṇa” (originally as the four seed-verses, *catuḥ-ślokī*). *Projjhita-kaitava* — free from the desire for the fruits of dharma, artha, kāma and mokṣa.
+[^40]: The verse says only «শ্রীমদ্ভাগবতে মহামুনিকৃতে» (*śrīmad-bhāgavate mahā-muni-kṛte*), “in the beautiful «Bhāgavata» composed by the great sage”; the sage is not named. The «Anubhāṣya» explains: *śrī-nārāyaṇa-mahā-muni-racite* — “composed by the great sage Śrī Nārāyaṇa”; the «Amṛta-pravāha-bhāṣya»: the «Bhāgavatam» was first composed by Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). The translation therefore names no one, as the verse does not. *Projjhita-kaitava* — free from the desire for the fruits of dharma, artha, kāma and mokṣa.
 
 [^41]: Śrīdhara Svāmī’s comment on Śrīmad-Bhāgavatam 1.1.2 (heading in the edition).
 

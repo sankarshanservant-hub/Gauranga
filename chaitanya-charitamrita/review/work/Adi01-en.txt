@@ -2,7 +2,7 @@
 # Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
 
 ## 0
-tr: The Supreme Principle of the Guru
+tr: The Auspicious Invocation: Obeisance to the Guru and Others
 
 ## 1
 w: I worship  the gurus,  the Lord’s devotees
@@ -150,7 +150,7 @@ fn: «Anubhāṣya»: Madana-mohana, Govinda and Gopīnātha are the presiding D
 ## 20
 w: of the book  at the beginning  I make  the auspicious invocation
 w: guru,  Vaiṣṇava,  Bhagavān —  of the three  remembrance
-tr: At the beginning of the book I make the auspicious invocation — the remembrance of three: the guru, the Vaiṣṇavas and Bhagavān.
+tr: At the beginning of the book I make the auspicious invocation — the remembrance of three: the Guru, the Vaiṣṇavas and Bhagavān.
 
 ## 21
 w: of the three  by remembrance  comes  of obstacles  destruction
@@ -276,7 +276,7 @@ fn: «Amṛta-pravāha-bhāṣya»: *āvaraṇa* — “the devotees surrounding
 ## 44
 w: although  my  guru —  of Caitanya  a servant
 w: still  know  I  His  manifestation
-tr: Although my guru is a servant of Śrī Caitanya, I know him to be His manifestation.
+tr: Although my Guru is a servant of Śrī Caitanya, I know him to be His manifestation.
 fn: «Anubhāṣya»: all except Mahāprabhu are His servants; the guru is the *āśraya-vigraha*, the abode of service, and is the Lord’s manifestation as His servant, never to be regarded as the *viṣaya* (the object of worship).
 
 ## 45
@@ -289,13 +289,13 @@ w: the ācārya  Me  one should know
 w: one should not disrespect  ever
 w: not  as a mortal  should envy
 w: of all gods  composed  the guru
-tr: “Know the ācārya to be Me. Never show him disrespect, and do not envy him, thinking him an ordinary mortal, for the guru embodies all the gods.” (Śrīmad-Bhāgavatam, 11.17.27)
+tr: “Know the ācārya to be Me. Never show him disrespect, and do not envy him, thinking him an ordinary mortal, for the Guru embodies all the gods.” (Śrīmad-Bhāgavatam, 11.17.27)
 fn: «Anubhāṣya»: *mām* — “My dearest one”; *martya-buddhyā* — “with a mind bounded by time, place and circumstance”.
 
 ## 47
 w: the instructing guru  indeed  I know  Kṛṣṇa’s  own form
 w: the Indweller,  the best of devotees —  these  two  forms
-tr: I know the instructing guru to be Kṛṣṇa’s own form, in two aspects: the Indweller within, and the best of devotees.
+tr: I know the instructing Guru to be Kṛṣṇa’s own form, in two aspects: the Indweller within, and the best of devotees.
 fn: «Anubhāṣya»: the instructing guru is twofold — the *caitya-guru*, who gives discrimination from within, and the *mahānta-guru*, the great devotee.
 
 ## 48
@@ -559,7 +559,7 @@ w: to be known  real  here  substance  bestowing good  the threefold miseries  u
 w: in the beautiful Bhāgavata  by the great sage  composed  what  by others?  the Lord
 w: at once  in the heart  is captured  here  by the pious  who wish to hear  that very moment
 tr: “In this beautiful «Bhāgavatam», composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)
-fn: «Anubhāṣya» and «Amṛta-pravāha-bhāṣya»: *mahā-muni-kṛte* — “composed by the great sage Śrī Nārāyaṇa” (originally as the four seed-verses, *catuḥ-ślokī*). *Projjhita-kaitava* — free from the desire for the fruits of dharma, artha, kāma and mokṣa.
+fn: The verse says only «শ্রীমদ্ভাগবতে মহামুনিকৃতে» (*śrīmad-bhāgavate mahā-muni-kṛte*), “in the beautiful «Bhāgavata» composed by the great sage”; the sage is not named. The «Anubhāṣya» explains: *śrī-nārāyaṇa-mahā-muni-racite* — “composed by the great sage Śrī Nārāyaṇa”; the «Amṛta-pravāha-bhāṣya»: the «Bhāgavatam» was first composed by Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). The translation therefore names no one, as the verse does not. *Projjhita-kaitava* — free from the desire for the fruits of dharma, artha, kāma and mokṣa.
 
 ## 92
 w: of them  among  liberation’s  desire  deceit’s  chief

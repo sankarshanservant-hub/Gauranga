@@ -112,6 +112,10 @@ def build(ch, check=False):
             raise SystemExit(f'нет блока {k}')
     # RU
     out = [l for l in head if l.strip() and l.strip() != '(перевод Вриндавана Чандры даса)']
+    if '0' in ru and ru['0']['tr']:   # заголовок главы — по колофону издания
+        tl = [k for k, l in enumerate(out) if l.strip().startswith('**')]
+        if tl: out[tl[0]] = f"**{ru['0']['tr']}**  "
+        else: out.append(f"**{ru['0']['tr']}**  ")
     out += ['(перевод Вриндавана Чандры даса; выверка по изд. Гаудия Матха и «Анубхашье», 2026 — проект)', '']
     fnl = []; n = 1
     oldnotes = {re.match(r'\[\^(\d+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
