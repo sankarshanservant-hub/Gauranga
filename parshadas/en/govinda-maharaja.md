@@ -339,6 +339,249 @@ B. B. Avadhut Maharaj: in this mantra Sridhar Maharaj proclaims that his discipl
 his spiritual master”, “has received all the blessings of his guru-varga” and “is able to give the seed of love for
 God to all sincere souls”. <!-- F57 -->
 
+## The Guru’s Last Years
+There was a time when Sridhar Maharaj, citing his advanced age, decided to accept no disciples at all. He began to
+initiate people from the West only after his beloved disciple vowed to him to take care of the Deities, the mission
+and all the devotees. <!-- F62 -->
+
+Sridhar Maharaj taught that a disciple’s relationship with his Gurudeva is not limited to dasya-rasa, the service of a
+servant to his master: it can also be friendly, and at times it is coloured even by a parental feeling with which the
+disciple surrounds his guru with care and attention. “Our Teachers” gives these words of his when telling of the most
+intimate side of the relationship between the guru and Srila Govinda Maharaj. <!-- F60 -->
+
+Sripad Bhakti Sudhir Goswami Maharaj recalled Sridhar Maharaj’s words: “In fact, in many respects Srila Govinda Maharaj
+is more qualified than I. If you associate closely with him, you will understand what level this personality is on.”
+Shortly before his departure, seeing Goswami Maharaj off to the West, the guru called him to his bedside, took him
+firmly by the shoulders and said: “Goswami Maharaj, this may be my last instruction to you... My sincere and ardent
+desire is — help Govinda Maharaj. Do you promise?” — “Yes, Maharaj,” he replied in a voice trembling with emotion.
+<!-- F58 -->
+
+Sripad Shrutashrava Prabhu visited the Math while Sridhar Maharaj was still present, and with every visit he discovered
+more exalted qualities in Srila Govinda Maharaj: “What amazed me especially was the love he felt for his Gurudeva, and
+which his Gurudeva had for him.” On his first visit, at Gaura-purnima, Govinda Maharaj sang verses of the
+“Chaitanya-charitamrita” to his guru to please him. Shrutashrava saw Sridhar Maharaj for the last time in June 1988:
+he had by then withdrawn completely, and hardly anyone was admitted to him except his closest servant, Srila Govinda
+Maharaj; it was by his mercy that Shrutashrava was let in for a last darshan. “Most wonderful of all was to see how
+Srila Sridhar Maharaj was transformed when Srila Govinda Maharaj entered the room and sat beside him. Guru Maharaj
+embraced Srila Govinda Maharaj with one arm, and in the other hand he held his palm.” <!-- F59 -->
+
+Having handed over the post of acharya to his disciple, Sridhar Maharaj withdrew into his room and spent the last
+years of his manifest pastimes in deep experience of divine separation from the Lord. On 12 August 1988 he entered the
+eternal pastimes. <!-- F61 F54 -->
+
+## Acharya of the Sri Chaitanya Saraswat Math
+A year later, in 1989, on Sridhar Maharaj’s appearance day, Srila B. K. Tapasvi Maharaj addressed the devotees gathered
+at the Math: “Srila Sridhar Maharaj was an outstanding follower of our Gurudeva, Srila Bhaktisiddhanta Sarasvati
+Goswami Maharaj, and he chose Srila Govinda Maharaj as his successor. Therefore, my dear devotees, please accept him as
+the successor of Srila Sridhar Maharaj, or else your spiritual life will come to ruin.” This was said by the very
+Tapasvi Maharaj who had once recommended Srila Bhaktivedanta Swami to Srila Bhaktisiddhanta for two initiations on one
+day — harinama and gayatri-diksha. <!-- F63 -->
+
+Other eminent godbrothers of Sridhar Maharaj also blessed Srila Govinda Maharaj — Sripad B. V. Jajabar Maharaj,
+Sripad B. D. Madhava Maharaj, Sripad Krishnadasa Babaji Maharaj, Sripad B. P. Puri Maharaj, Sripad B. K. Shanta Maharaj
+and Sripad Satprasangananda Prabhu — thereby confirming his position as a “true acharya”. <!-- F64 -->
+
+Srila Govinda Maharaj accepted the mercy of his guru and the Vaishnavas as seva — an opportunity to serve Sri Sri
+Guru-Gauranga and the devotees. Under his caring guidance the Math grew rapidly. It had been revealed to Sridhar
+Maharaj that the lake by the Math is Govinda-kunda — the very one in Vrindavan, manifest also in Navadvip; and now on
+its banks rose the main temple of the Math, a temple of Shiva, the Nat-mandir, the Chandan-yatra-mandir, residences for
+the devotees and other buildings. The lands of the Math expanded considerably, and extensive farming is carried on
+there. <!-- F65 -->
+
+Through his efforts temples and centres were founded in Vrindavan, Jagannatha Puri, Calcutta and other cities of
+India, and his disciples opened centres all over the world. <!-- F66 -->
+
+## All over the World
+Fulfilling the will of his guru, in 1992 Srila Govinda Maharaj began to preach worldwide. At first devotees simply
+invited him to visit their centres and ashrams, but already the first journey showed what success awaited his
+mission. He learned to speak English right in the course of his lectures — Sripad Sagar Maharaj or someone else among
+his companions would prompt him how to render Bengali concepts — but his spiritual qualities and knowledge of the
+science of devotion very soon won the hearts of many sincere people. Through him and through these devotees people in
+more than forty countries came to know the life and teaching of Srila Sridhar Maharaj. <!-- F67 -->
+
+Thus the saying arose: “The sun never sets on the Sri Chaitanya Saraswat Math” — for there is no country, large or
+small, without a branch of the Math and loving disciples serving Srila Govinda Maharaj. <!-- F68 -->
+
+In 2007 Sripad B. B. Avadhut Maharaj said that thanks to the preaching of Srila Govinda Maharaj, “who has travelled
+all over the world many times”, centres and followers of the Math had appeared in almost every country, and that
+thousands of disciples had received from him initiation into the chanting of the Holy Name and the path of pure
+bhakti. “He has already visited Russia ten times,” he added. <!-- F69 -->
+
+Everywhere he spoke of Krishna consciousness without partiality. Once in Santa Cruz he was asked how to unite “two
+camps” — ISKCON and the followers of Srila Sridhar Maharaj; of his answer, below. <!-- F71 -->
+
+## Russia
+Srila Govinda Maharaj gave special attention to Russia. In 1994, in America, a Russian devotee asked him for
+initiation — Jagannatha Vallabha Prabhu, the future Sripad Bhakti Bimal Avadhut Maharaj. “I gave him initiation and
+said: ‘You are a Russian and run a successful business in America, but I would like you to return to Russia, do
+business there and develop the preaching,’” Srila Govinda Maharaj recalled. <!-- F72 -->
+
+In 1995 he sent Jagannatha Vallabha Prabhu and his close companion Sripad Sagar Maharaj to Russia. That same year
+Srila Sridhar Maharaj’s book “Sri Guru and His Grace” appeared in Russian for the first time, and Sagar Maharaj gave
+initiation to those who wished on behalf of Srila Govinda Maharaj. Thus the preaching of the Sri Chaitanya Saraswat
+Math in Russia began. <!-- F73 -->
+
+The following year Jagannatha Vallabha Prabhu organised the first Vaishnava festival with his participation. In his
+first lecture in Russia Srila Govinda Maharaj spoke of the spiritual kinship of Russians and Indians: “Having come
+here, I was very surprised to see that Vaishnavism lives naturally in the hearts of Russian people.” Humility,
+tolerance and respect for others, without which there is no Vaishnava, he said he had found here in everyone. “Now
+Russian people are absorbing spiritual experience, but in the future Russia herself will make a priceless contribution
+to the spiritual treasury of the whole world.” <!-- F74 -->
+
+During the world tour of 2003 he said that Russia had always supported India and that their cultures are similar, and
+when they merge into one, it will be a spiritual culture. “Not a single country is atheistic,” he said then, and
+also: “There is only one nationality — that of a resident of the transcendental world.” <!-- F75 -->
+
+From then on he came to Russia almost every year, accepting as disciples tens and hundreds of sincere people. Over ten
+years, under the guidance of Sripad Avadhut Maharaj, the leader of the Russian mission, a cultural centre opened in
+Moscow and a temple was built in Saint Petersburg: Srila Govinda Maharaj himself made its sketch, and Vijay Raman
+Prabhu directed the construction. In 2000 the Deities of Sri Sri Guru Gauranga Radha-Madhava-Sundarjiu were installed
+in the temple. Disciples of Srila Govinda Maharaj appeared in many cities of central Russia, Siberia, Karelia, the Far
+East, Ukraine, Latvia, Abkhazia, Georgia, Moldova and Belarus. <!-- F76 -->
+
+To three Russian disciples — Sripad Bhakti Bimal Avadhut Maharaj, Sripad Bhakti Chaitanya Bharati Maharaj and Sripad
+Bhakti Achintya Madhava Maharaj — he gave sannyasa. Every year preachers of the Math come to Russia — Sripad B. S.
+Goswami Maharaj, Sripad B. P. Siddhanti Maharaj, Sripad B. L. Akinchan Maharaj, Sripad B. K. Giri Maharaj, Sripad
+Shrutashrava Prabhu and others — and twice a year Russian devotees go on pilgrimage to Navadvip: for the Vyasa-puja,
+the appearance day of Srila Govinda Maharaj, and for Gaura-purnima. <!-- F77 -->
+
+On 26 October 2006, the day of Srila Bhaktivedanta Swami’s departure, Srila Govinda Maharaj lectured in Saint
+Petersburg, at Lakhta. He had seen in the temple a map of Russia marking the cities with centres of the Math, and was
+amazed at how widely the preaching had spread: the country, formerly communist, had become “theistic, ‘Krishna
+conscious’”. “In spite of my poor health I have come here to see the faces of the Russian devotees… Your devotion
+has called me here,” he said. And the Deities of the Petersburg temple, Sri Sri Guru Gauranga
+Radha-Madhava-Sundarjiu, in his words, “have given me everything; They have given me the opportunity to preach in
+Russia”. <!-- F78 -->
+
+There he also spoke of Sripad Avadhut Maharaj: he invites other preachers to Russia — Sripad Goswami Maharaj, Sripad
+Janardana Maharaj, Sripad Siddhanti Maharaj, Sripad Akinchan Maharaj, Sripad Bhagavat Maharaj, Sripad Paramahamsa
+Maharaj, Sripad Shrutashrava Prabhu and many others — but never takes any credit to himself. “Sometimes I even scold
+him for it. I tell him: ‘How can you act like this? You live in such austere conditions, hold no position, eat poorly
+and take no care of yourself at all.’” How he manages to preach so successfully, Srila Govinda Maharaj admitted, he
+could not understand. But it was not done, he said, by Avadhut Maharaj, nor by himself, nor by Srila Bhaktivedanta
+Swami Prabhupada, nor by Srila Guru Maharaj: “In truth it was done by Krishna Himself — He used us as an instrument to
+carry the Holy Name ‘from door to door’ — into every home, to every person.” <!-- F79 -->
+
+The book “Our Teachers” was completed in 2007, during the twenty-third world preaching tour of Srila Govinda Maharaj.
+In spite of his advanced age, poor health and the prohibitions of his doctors, he came to Russia, preached with
+inspiration, sang bhajans and gave initiation to new disciples. On leaving he said: “If Lord Krishna prolongs my days,
+I shall certainly come to Russia.” <!-- F70 -->
+
+## Teachings
+The whole meaning of Vaishnava sannyasa, Srila Govinda Maharaj said, is to serve twenty-four hours a day the feet of
+Sri Sri Guru-Gauranga, the Holy Name, the Deities and the devotees. The spiritual path, he repeated, requires freedom
+from envy, humility, respect for the Vaishnavas and purity in chanting the Holy Name. To everyone who came into contact
+with him he strove to give the most precious thing — pure, selfless devotion, that rasa for the sake of which the
+Rupanuga-sampradaya exists and preaches. <!-- F80 -->
+
+The preaching of recent decades he called a spiritual revolution. “Thanks to the preaching of Srila Swami Maharaj,
+Krishna consciousness, like a huge wave, has swept over the whole world. Now a new wave has come — the preaching of
+Srila Sridhar Maharaj.” Thus Mahaprabhu’s prediction was fulfilled: “In every town and village throughout the world My
+holy name will be chanted” (CB, Antya 4.126). “This miracle has happened, and it is impossible to believe it!” He
+recalled that Srila Bhaktisiddhanta Sarasvati Thakura preached although the sahajiyas, fearing to lose their
+influence, wanted to destroy his mission and even tried to kill him; he opened sixty-four centres in India and sent
+disciples to the West. The teachings of Buddha and Shankara took a long time to be accepted, but Srila Swami Maharaj
+presented Krishna consciousness to the whole world in a few years — “in how swiftly this is happening there is,
+undoubtedly, something supernatural”. <!-- F82 Q5 -->
+
+“I do not notice the faults of devotees,” he said. Mistakes happen, “but that is not terrible”; there are many acharyas
+in the world, and perhaps not all of them are perfect, but they labour like a farmer who digs, sows and waters before
+he reaps a harvest. “Our preaching also resembles a war, a war with maya, with Durga. It is a real uprising,” he said:
+Srila Swami Maharaj, Srila Guru Maharaj and others created a revolutionary atmosphere, and “the gates of Durga-devi’s
+prison are destroyed… The revolution has taken place, the gates are torn down, and the prisoners are running to
+Vaikuntha.” The war here is an image: maya is the external energy of the Lord, and Durga-devi, His faithful
+servant, by His will keeps the souls who have turned away from Him in the prison of this world; the preachers’
+“uprising” is the liberation of the prisoners by the Holy Name, which the Lord Himself desires. <!-- F83 -->
+
+The worldwide preaching of the Math he considered possible only by the mercy of Srila Bhaktivedanta Swami Prabhupada,
+who, in Srila Sridhar Maharaj’s words, “cut a tunnel through the mountain of the Western ego”: the success in Russia is
+his merit too, and the movement of Srila Bhaktisiddhanta, spread over the world, “has sprouted from the seed planted by
+Srila Bhaktivedanta Swami Prabhupada”. On the day of his departure Govinda Maharaj said that the Math owes all the
+glory of its preaching in the West to the mercy of Srila Bhaktivedanta Swami Prabhupada, and recalled that his father’s
+house stood on Hazen Road, in a prestigious district, and that in the first half of his life the Swami was a
+successful businessman: Jawaharlal Nehru and Indira Gandhi came to his Allahabad centre to make purchases. But Krishna
+wished that for the sake of Krishna-sankirtana he should become a pauper — and “his ‘simple living’ is not the same as
+what is usually meant by simplicity”. On that day the Swami is glorified in all the Maths — in Navadvip, in America,
+Mexico, England; the devotees of ISKCON, “members of our family”, celebrate him too, and the sankirtana movement he
+began in the West “will never stop”. <!-- F84 F85 -->
+
+ISKCON, he said, is a society that truly spreads Krishna consciousness. “Srila Swami Maharaj is a
+shaktyavesha-avatara. An ordinary man could not have created such a Mission in only five years,” he repeated the words
+of his guru. When news came from all over the world that people were chanting the Hare Krishna maha-mantra, Sridhar
+Maharaj rejoiced greatly and always glorified the Swami, and the Swami often came to tell him about his preaching. The
+Swami chose several leaders, named them the GBC — the Governing Body Commission — and was very proud of them; Govinda
+Maharaj warmly recalled his meetings with Sripad Bhavananda Maharaj, Sripad Tamal Krishna Maharaj, Sripad Achyutananda
+Maharaj and others: “I have many friends in ISKCON who have a deep understanding of the ideas of Sri Chaitanya
+Mahaprabhu.” <!-- F86 -->
+
+He was asked whether his disciples might distribute the books of Srila Bhaktivedanta Swami. “I was probably the first
+to begin distributing the journal ‘Back to Godhead’,” he answered; he saw no obstacle to it, if the BBT publishing house
+agreed: “I think that everyone who honours Srila Sridhar Maharaj and Srila Swami Maharaj will be happy to see their
+books side by side.” And to one whose friends were dissuading him from reading Sridhar Maharaj’s books he recalled the
+close relationship of the two acharyas: some forty-two years beside his guru, the Calcutta branch of the Math in the
+Swami’s house, the “Gita” studied under the Swami. “To the very last days of his stay in this world Srila Swami Maharaj
+wanted Srila Guru Maharaj to head ISKCON.” And Sridhar Maharaj founded the Sri Chaitanya Saraswat Math “to help sincere
+seekers of truth”, not wishing to cause any disturbance to other missions. <!-- F87 -->
+
+In Santa Cruz, answering the question about the two camps, he said: “I have not come here for sectarian propaganda. I
+live in the mood of my guides.” Both — Srila Sridhar Maharaj and Srila Bhaktivedanta Swami Maharaj — are his Gurus:
+“Srila Sridhar Maharaj is my diksha- and shiksha-guru. Srila Bhaktivedanta Swami Maharaj, by the mercy of Srila
+Sridhar Maharaj, is also my shiksha-guru.” He had the good fortune to be a disciple of many others as well, but these
+two are his principal guides, and the line is from Srila Bhaktisiddhanta Sarasvati Thakura. “I have no party
+attachments.” <!-- F88 -->
+
+Without humility, patience and respect for others, he taught, spiritual progress is impossible: this path Mahaprabhu
+showed in the third verse of the “Shikshashtaka”:
+
+“One should constantly chant the Holy Name of Krishna, feeling oneself humbler than a blade of grass and more
+tolerant than a tree, showing due respect to others and not desiring respect for oneself.” (CC, Adi 17.31) <!-- F89 Q6 -->
+
+These qualities protect one from vaishnava-aparadha — the greatest obstacle to chanting the maha-mantra. “Through the
+Vaishnavas the maha-mantra descends into the material world from the higher plane of existence. It spreads in this
+world through the Pancha-tattva — Sri Krishna Chaitanya, Nityananda Prabhu, Sri Advaita, Sri Gadadhara and Srivasa
+Thakura. But if we offend Them, the Holy Name will not reveal Itself to us.” Mahaprabhu taught that one should avoid
+vaishnava-aparadha and the other nine offences against the Holy Name. <!-- F89 -->
+
+The meaning of life, he said, is to attain Krishna consciousness, the most vital need of every jiva. It does not
+matter whether you are a disciple of Srila Sridhar Maharaj or of Srila Bhaktivedanta Swami Maharaj, whether you were
+initiated in ISKCON or in the Math; what matters is to practise under the guidance of a true Vaishnava — one who has
+these three qualities and genuine knowledge of Sri Krishna. The goal of life is sadhu-sanga, association with the
+sadhu, and the sadhu makes no distinction between camps and parties: he sees only levels of devotion. “In everyone I
+would like to see a friend and well-wisher. I feel respect for everyone. I am afraid to offend a Vaishnava, to
+whatever sampradaya he may belong.” <!-- F90 -->
+
+“There is no problem with ISKCON,” he said; to one in whom the party spirit is strong he advised giving up such
+thinking and chanting the maha-mantra given by Srila Bhakti Rakshaka Sridhar Deva Goswami Maharaj and Srila
+Bhaktivedanta Swami Maharaj. “They did not intend to create sects — why should we do so? To bring harmony into the
+relations between these societies is not at all difficult.” <!-- F91 -->
+
+“What do I live for? Why have I come here?” he asked himself. If he brings benefit to others, his efforts are not in
+vain; otherwise it is only a waste of money earned by the devotees. He travels the world to meet friends and talk with
+them about Krishna consciousness, preaching without partiality. “Even if it is one person, I shall be immensely happy.
+Then I shall know that I have fulfilled my mission.” <!-- F92 -->
+
+So too he saw his guru. Sridhar Maharaj always tried to bring everything around him into harmony, and members of the
+Gaudiya Mission and even representatives of groups hostile to him came to him for advice. Once Sridhar Maharaj asked
+the leader of one of them: “Why do you come to me, if our views are so different?” — and heard: “Maharaj, you belong
+to no party… Conversing with you, I feel genuine happiness.” <!-- F93 -->
+
+“I am a disciple of Srila Sridhar Maharaj, and from my youth I adopted his attitude to the world. In everyone I see a
+friend, and if a person has no friendly feelings towards me, I try to win him over. I would not like to have enemies.”
+He has many friends in ISKCON and in the societies founded by his guru’s godbrothers and by his own: “Their mercy
+sustains my life,” he said, and when it touches him, obstacles leave his spiritual path. Therefore, following the
+instructions of his guru, he tried to live in harmony with everything around him. <!-- F94 -->
+
+## Legacy
+Anyone sincere who longs for spiritual life can become a disciple of Srila Govinda Maharaj. The chief principle of his
+sampradaya is “mercy is higher than justice”: Mahaprabhu distributed mercy to all, regardless of outward differences.
+The freedom of the soul, he teaches, is above all, for it is Krishna’s priceless gift; spiritual life is above all an
+inner path, and each must walk it himself, relying on the mercy of Guru, Sri Krishna and the Vaishnavas. And among the
+chief principles proclaimed by Sri Chaitanya is “compassion for every soul, chanting of the Holy Name and service to the
+Vaishnavas”. <!-- F81 -->
+
+The book “Our Teachers” appeared in his lifetime and says nothing of his departure. The Sri Chaitanya Saraswat Math
+honours the day of his departure on the Gaura-dvadashi of the month of Vishnu[^6]. <!-- F70 -->
+
 [^1]: The date and place of his appearance are given in “Our Teachers”. By calculation, at sunrise on 17 December 1929
     the Krishna-pratipad was still running, and the dvitiya began in the afternoon; the book does not give the hour of
     his birth.
@@ -359,3 +602,7 @@ God to all sincere souls”. <!-- F57 -->
 [^5]: In the Sanskrit of the mantra his name is woven into its very praise: *govindābhidham* — “called Govinda”,
     *bhakty-anvitaṁ sundaraṁ* — “full of devotion, beautiful”; compare “Bhakti Sundar Govinda”. In the translation given
     in “Our Teachers” the full name is stated outright.
+[^6]: “Our Teachers” was completed in 2007, in his lifetime, and does not speak of his departure. The day of
+    remembrance follows our calendar (Sri Chaitanya Saraswat Math): the festival in honour of the day of his departure
+    falls on the Gaura-dvadashi of the month of Vishnu. The year and place of his departure are not named in the sources
+    on which this article is based.
