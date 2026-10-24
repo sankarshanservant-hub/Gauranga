@@ -641,7 +641,9 @@ author's conjecture, not based on the “Gaura-ganoddesha-dipika.” <!-- I3 F60
     into the Deity of Gopinatha, and his seven disciples left their bodies at once, and there the pushpa-samadhi of him
     and his seven companions is honoured; according to another, in Remuna he spoke of Krishna with the devotees,
     instructing everyone always to worship Him, entered the temple of Gopinatha and, touching His lotus feet, entered the
-    Lord's eternal pastimes. The “Rasika-mangala” does not mention the seven disciples.
+    Lord's eternal pastimes. The “Rasika-mangala” does not mention the seven disciples; the poet adds instead that,
+    having withdrawn, Prabhu went to Vrindavana (Uttara 16.5), and that afterwards no one was seen in the litter
+    (Uttara 16.29).
 [^24]: According to the same biography, it was the year 1578 of the Shaka era, equated with 1652; but 1578 Shaka
     corresponds to about 1656, and 1652 to 1574 Shaka. By our calculation, counting from the birth date given in the poem
     (the night of 28–29 October 1590), sixty-two years and four months fall in Phalguna of 1574 Shaka; the bright pratipad
