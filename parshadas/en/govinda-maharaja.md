@@ -135,8 +135,8 @@ guru was struck down by a severe attack of migraine and sent in his place Gauren
 was alarmed: how would this youth speak on the “Bhagavatam” before so many educated people? But Gaurendu amazed
 everyone by the depth of his understanding and gave an exhaustive answer to every question. The next morning Satkari
 Banerjee told Sridhar Maharaj that the listeners — among them at least eight doctors of philosophy — had been
-satisfied in the highest degree: “‘This boy has satisfied our intellectual hunger,’ they said.” It was he who later
-paid all the expenses of the installation of the Deities at the Sri Chaitanya Saraswat Math. <!-- F37 -->
+satisfied in the highest degree: “‘This boy has satisfied our intellectual hunger,’ they said.” It was Satkari Banerjee who
+later paid all the expenses of the installation of the Deities at the Sri Chaitanya Saraswat Math. <!-- F37 -->
 
 At the school from which Gaurendu had graduated he was invited to give a lecture on the “Srimad-Bhagavatam”; the
 whole staff of the school, headed by the principal, came to hear their former pupil. The teachers began to test him
@@ -215,7 +215,7 @@ their meaning. <!-- F47 -->
 
 Ram Gopal Babu — a senior disciple of Srila Bhaktisiddhanta, formerly a manager, a Master of Arts of Calcutta
 University, zamindar of the Sampal district and a great Sanskrit scholar — completed under Sridhar Maharaj’s guidance
-his work on the “Bhakti-rasamrita-sindhu”. Reading at that time a Sanskrit poem by the young Govinda Maharaj, he
+his work on the “Bhakti-rasamrita-sindhu”. Reading at that time a Sanskrit poem by the young Gaurendu, he
 embraced him in admiration: “How beautiful is what you have written! You are very young, but already so skilled in
 composing verses in Sanskrit!” But when he was given to read a poem by his godbrother, a Master of Arts, he only
 exclaimed: “Why are you giving it to me?” — while of Govinda Maharaj’s poems he always spoke with the greatest
@@ -416,7 +416,8 @@ initiation — Jagannatha Vallabha Prabhu, the future Sripad Bhakti Bimal Avadhu
 said: ‘You are a Russian and run a successful business in America, but I would like you to return to Russia, do
 business there and develop the preaching,’” Srila Govinda Maharaj recalled. <!-- F72 -->
 
-In 1995 he sent Jagannatha Vallabha Prabhu and his close companion Sripad Sagar Maharaj to Russia. That same year
+In 1995 he sent to Russia one of his first Russian disciples, Jagannatha Vallabha Prabhu, and his close
+companion Sripad Sagar Maharaj. That same year
 Srila Sridhar Maharaj’s book “Sri Guru and His Grace” appeared in Russian for the first time, and Sagar Maharaj gave
 initiation to those who wished on behalf of Srila Govinda Maharaj. Thus the preaching of the Sri Chaitanya Saraswat
 Math in Russia began. <!-- F73 -->

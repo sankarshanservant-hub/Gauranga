@@ -113,7 +113,7 @@ B — вероятно, больше сотни).
 | @bhakti-pramoda-puri (только T) | ✓ | ✓ (PDF, 5 с.) | ✓ сплошная |
 | @bhaktivedanta-svami (T + N) | ✓ (+N) | ✓ (PDF, переработана по N) | ✓ сплошная (по N) |
 | @shridhara-maharaja (T + M + N) | ✓ (+N) | ✓ (PDF, переработана по N) | ✓ сплошная (по N) |
-| @govinda-maharaja (N; T, M, B — нет) | ✓ (F1–F94; карточка) | — | — |
+| @govinda-maharaja (N; T, M, B — нет) | ✓ (F1–F94; карточка) | ✓ (PDF, 18 с.) | — |
 | @bhakti-ballabha-tirtha (только T) | ✓ | ✓ (PDF, 4 с.) | ✓ сплошная |
 | @madhvacharya (M pdf 333–339) | ✓ | ✓ (PDF, 10 с.) | ✓ сплошная |
 | @ramanujacharya (M pdf 315–332) | ✓ | ✓ (PDF, 8 с.) | ✓ сплошная |
