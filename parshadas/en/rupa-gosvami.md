@@ -58,19 +58,19 @@ at Fatehabad (then in the district of Jessore), between Naihati and Bakla.[^6] C
 the lands of present-day Bangladesh; it included Faridpur, Bakharganj and the southern parts of the Dacca and Pabna
 districts. <!-- F12 F13 F14 -->
 
-Kumara-deva was a pious brahmana; the name of his wife, Rupa's mother, has not come down to us. Of his many sons three
-became renowned: the eldest, Sanatana, the second, Rupa, and the youngest, Vallabha, or Anupama; the names of the
+Kumara-deva was a pious brahmana. His wife, Rupa's mother, is named in “Our Teachers” as Sri Revati Devi, and the book says
+that they had five sons and one daughter.[^7] Of the sons three became renowned: the eldest, Sanatana, the second, Rupa, and the youngest, Vallabha, or Anupama; the names of the
 others are unknown. Vallabha's only son was Jiva. Sanatana himself, in his commentary on the “Brihad-bhagavatamrita”
 (1.3), calls Rupa his dear servant and says of him: the son of Kumara, of the line of Jagad-guru, the renowned acharya
 of the brahmana families of Karnata. And the “Sanatanashtaka,” attributed to Rupa, calls Sanatana “the ornament of the
 line of brahmana kings of the blessed South.” Apart from this genealogy, no reliable information about the
-descendants of the family has been found. <!-- F15 F18 Q2 Q3 -->
+descendants of the family has been found. <!-- F15 F18 Q2 Q3 F636 -->
 
 ## Childhood and Names
 After Kumara-deva's death, Sanatana, Rupa and Vallabha lived and studied in the house of their maternal uncle in the
 small village of Sakurma near the capital of Gauda. The elder brothers became brilliant scholars — in the words of
 one biography, “the crown jewels of the Gaudiya Vaishnava scholars”; they were taught philosophy and the shastras by
-Sarvabhauma Bhattacharya's brother Vidyavachaspati, who often stayed in Ramakeli.[^7] <!-- F19 F20 -->
+Sarvabhauma Bhattacharya's brother Vidyavachaspati, who often stayed in Ramakeli.[^8] <!-- F19 F20 -->
 
 From early childhood, the same biography relates, all three were immersed in bhava-bhakti. Remembering Vrindavana,
 they played in the groves of tamala, keli-kadamba and tulasi around their home, named the ponds there Radha-kunda and
@@ -86,7 +86,7 @@ transcendental nature, yet when they are near one another they cannot help revea
 brothers behaved as sadhakas striving for perfection, to show people how one ought to act. <!-- I1 -->
 
 The names “Rupa” and “Sanatana” were given to the brothers by Sri Chaitanya Himself when they became His disciples;
-their earlier names are unknown, though some hold that Sanatana was called Amara and Rupa Santosha. Vallabha too
+their earlier names are unknown, though some hold that Sanatana was called Amara and Rupa Santosha.[^9] Vallabha too
 received the name “Anupama” from the Lord; Krishnadasa Kaviraja says of him: “Sri Rupa's brother was also a great
 Vaishnava. His name was Sri Vallabha, but he was better known as Anupama Mallik” (CC, Madhya 19.36). At court, however, the brothers were known by their titles — Sakara
 Mallik and Dabir Khas. Vrindavana Dasa Thakura confirms this as well, anticipating the story at the very beginning
@@ -98,14 +98,16 @@ attain liberation and receive new names — Rupa and Sanatana.” (CB, Adi 1.171
 And in the story itself he says:
 
 “At that time two fortunate souls came before Sri Chaitanya. The Lord cast His merciful glance on these two brothers,
-Sakara Mallik and Rupa.” (CB, Antya 9.238–239) <!-- F24 F25 F26 Q7 Q13 Q14 -->
+Sakara Mallik and Rupa.” (CB, Antya 9.238–239) <!-- F24 F25 F26 Q7 Q13 Q14 F637 -->
 
 ## At the Court of Hussain Shah
 The brothers' learning, intelligence and noble character drew the attention of the ruler of Gauda, Hussain Shah, and
 they came to hold the two highest posts at his court: Sanatana, “a Brihaspati in intellect,” and Rupa, unequalled in
-appearance and virtues, became the “two pillars” of his rule.[^8] Sanatana received the title Sakara Mallik, Rupa that
+appearance and virtues, became the “two pillars” of his rule.[^10] Sanatana received the title Sakara Mallik, Rupa that
 of Dabir Khas; the Sultan addresses Rupa by this title in the “Chaitanya-charitamrita” as well. Rupa was the
-Sultan's personal adviser, his private secretary, and Sanatana his first minister.[^9] <!-- F28 F29 -->
+Sultan's personal adviser, his private secretary, and Sanatana his first minister.[^11] “Our Teachers” adds that besides Sanskrit the brothers knew Arabic, Persian and Urdu and were
+acquainted with many influential and highly placed people in India. Yet service at court was only the outer side of their
+life: inwardly they always sought one thing alone — Krishna-prema. <!-- F28 F29 F638 I43 -->
 
 According to the dictionary “Raja-vyavahara-kosha,” the word “dabir” means “one versed in reasoning” (yuktabhijno
 dabirah syat), and “khas” means “one's own,” that is, the sovereign's personal adviser. Others derive it from the
@@ -125,7 +127,7 @@ adviser. <!-- F27 F33 F34 F35 -->
 
 ## Ramakeli
 The shripata of Ramakeli lies on the Ganga in the district of Malda (West Bengal), south of the present town of
-Malda.[^10] Here in Ramakeli, which Sultan Barbak made the capital of Bengal in 1486, Rupa and Sanatana had their
+Malda.[^12] Here in Ramakeli, which Sultan Barbak made the capital of Bengal in 1486, Rupa and Sanatana had their
 headquarters; many well-known devotees lived here as well, among them Sri Nrisimha, the son of Advaita Acharya. Under
 the British, Ramakeli was a district centre. The place is also called Gupta-Vrindavana, “hidden Vrindavana.” <!-- F36 -->
 
@@ -143,12 +145,12 @@ the Rupa-sagara, a large pond said to have been dug at Rupa's order; it survives
 Baraduari, a huge stone audience hall (darbar) with twelve doors; in 1801, in the time of “Krent Sahib” (the reading of
 the name is uncertain), its domes were covered with gold leaf, and tradition says that here Dabir Khas held his office.
 And finally there is the ghat of Havaskhana: according to tradition, it was from here that Sanatana, having given the
-jailer seven thousand coins, left his confinement and crossed the Ganga by night.[^11] <!-- F37 F38 F39 F40 F41 F42 -->
+jailer seven thousand coins, left his confinement and crossed the Ganga by night.[^13] <!-- F37 F38 F39 F40 F41 F42 -->
 
 ## The Meeting under the Tamala
 On the pretext of a journey from Nilachala to Vrindavana, Sri Chaitanya came to Gauda-mandala and spent five days in
 the house of Vachaspati in Vidyanagara (in Jahnu-dvipa, near Kola-dvipa); from there He went to Kuliya and then, by way
-of Malda, to Ramakeli.[^12] When the rumour spread that from Kuliya the Lord would go to Vrindavana, Nrisimhananda
+of Malda, to Ramakeli.[^14] When the rumour spread that from Kuliya the Lord would go to Vrindavana, Nrisimhananda
 Brahmachari began in meditation to pave for Him a road of precious stones from Kuliya to Vrindavana and to spread over it
 an unbroken bed of flowers. But when the road reached Kanai-natashala near Gauda, his mind was disturbed and the
 meditation broke off. “This time,” said Nrisimhananda, “the Lord will go only as far as Kanai-natashala, not to
@@ -158,7 +160,7 @@ Countless crowds followed the Lord, and so He came to Ramakeli on the Ganga, nea
 was amazed at His influence and grew alarmed, suspecting Him of a political aim. At first the king was reassured by the
 devotee Keshava Chhatri, his adviser: this was only a mendicant sannyasi on pilgrimage with few people about Him, and
 there was nothing to fear; but the king did not believe him, for thousands were following the Lord. At the same time
-Keshava secretly sent the Lord advice to leave, since the king could not be trusted.[^13] <!-- F48 F49 -->
+Keshava secretly sent the Lord advice to leave, since the king could not be trusted.[^15] <!-- F48 F49 -->
 
 Then the Sultan called Dabir Khas in private and asked him about the Lord. Krishnadasa Kaviraja Gosvami records Rupa's
 answer:
@@ -174,7 +176,7 @@ So diplomatically did Rupa glorify the Lord that the Shah was reassured. <!-- F5
 
 Returning home, Dabir Khas took counsel with his elder brother. Both wished to see the Lord for themselves; concealing
 their royal dress, they slipped out of the palace and late at night came first to Nityananda and Haridasa Thakura, who
-told the Lord of their arrival.[^14] The brothers took straws between their teeth and tied cloth about their necks as a
+told the Lord of their arrival.[^16] The brothers took straws between their teeth and tied cloth about their necks as a
 sign of humility, fell at the Lord's feet like rods and with tears began to entreat Him. The Lord bade them rise and
 blessed them, and they, with folded palms, glorified Sri Krishna Chaitanya, the merciful Saviour of the fallen, and said
 of themselves: by birth, occupation and association we are among the lowest of men; You have come to deliver the
@@ -237,7 +239,7 @@ Vrindavana is a place of simplicity, not of pomp; the Lord's work here was done,
 before misfortune came. Having blessed the brothers, the Lord left Ramakeli. In the morning He came to Kanai-natashala,
 where He saw many pictures of Krishna's pastimes, and at night He pondered Sanatana's advice and decided: with such a
 crowd I shall spoil the simplicity of Vrindavana — I shall go there alone or with one companion. And having gone only
-as far as Kanai-natashala, He turned back to Puri.[^15] <!-- F62 -->
+as far as Kanai-natashala, He turned back to Puri.[^17] <!-- F62 -->
 
 The “Chaitanya-bhagavata” tells of the brothers' meeting with the Lord differently — as an event in Nilachala, where Rupa
 and Sanatana came after giving up their worldly affairs. The Lord told Sakara Mallik and Dabir Khas to beg for
@@ -248,7 +250,7 @@ sweetness of bhakti to the people of the West, and said:
 Sanatana. (CB, Antya 9.272–273)
 
 Sakara Mallik, in Vrindavana Dasa's words, became “Sanatana the avadhuta”; the note on this passage calls such a
-giving of a name the “third samskara.”[^16]
+giving of a name the “third samskara.”[^18]
 <!-- F63 Q15 -->
 
 Already from the meeting in Ramakeli it is clear that Mahaprabhu intended to teach the world through Rupa and Sanatana.
@@ -256,10 +258,10 @@ Already from the meeting in Ramakeli it is clear that Mahaprabhu intended to tea
 
 ## Leaving Royal Service
 Soon a strong spirit of renunciation awoke in the brothers. To be freed from service the sooner and join the Lord, they
-paid two brahmanas handsomely to perform a purashcharana of the Krishna mantra on their behalf.[^17] Rupa left his post
+paid two brahmanas handsomely to perform a purashcharana of the Krishna mantra on their behalf.[^19] Rupa left his post
 and carried a great deal of wealth from Ramakeli by boat to his house in Fatehabad. There he divided it: half he gave to
 brahmanas and Vaishnavas, a quarter for the maintenance of his relatives, and the remaining quarter he entrusted to
-reliable brahmanas against future misfortune. For Sanatana he left ten thousand coins in Gauda.[^18] <!-- F64 F65 F66 -->
+reliable brahmanas against future misfortune. For Sanatana he left ten thousand coins in Gauda.[^20] <!-- F64 F65 F66 -->
 
 Meanwhile Sanatana, pleading illness, stopped attending court and studied the “Bhagavatam” with a group of Sanskrit
 scholars. The Shah first sent him a physician, then, learning the truth, came himself, and when Sanatana flatly refused
@@ -269,14 +271,14 @@ Hearing that the Lord had returned from Gauda to Nilachala and would soon go to 
 Puri to find out when Mahaprabhu would set out by the forest road through Jharikhanda; the messengers returned to Gauda
 with news of His journey. Rupa wrote to Sanatana that the Lord had gone to Vrindavana and that he himself was following
 Him with his younger brother Anupama, and begged his brother to free himself quickly by any means and come to the Lord's
-feet.[^19] Bhaktivinoda Thakura (“Amrita-pravaha-bhashya,” 2.20.3) reports that the letter consisted of a single Sanskrit
+feet.[^21] Bhaktivinoda Thakura (“Amrita-pravaha-bhashya,” 2.20.3) reports that the letter consisted of a single Sanskrit
 verse:
 
 “Where is Mathura, the city of the lord of the Yadavas? Where is Uttara-Koshala of the lord of the Raghus? Remembering
 this, steady your mind: this world is not eternal.”
 
 Sanatana understood the hidden meaning — the Lord had gone to Mathura — and rejoiced. He bribed the jailer with seven
-thousand coins from the money Rupa had left, escaped from confinement and set out after his brothers.[^20]
+thousand coins from the money Rupa had left, escaped from confinement and set out after his brothers.[^22]
 <!-- F68 F69 F70 Q16 F71 -->
 
 ## Prayaga
@@ -311,7 +313,7 @@ the bestowal of krishna-prema. Thus the whole of gaura-tattva is contained in a 
 The Lord seated Rupa beside Him and asked about Sanatana. “He is now the king's prisoner,” Rupa answered, “and will be
 freed only if You release him.” “Sanatana's bonds are already broken,” said the Lord; “he will soon come to Me.” That day,
 at the brahmana's invitation, the brothers stayed in his house and received the remnants of the Lord's meal. The Lord
-took up residence at Triveni, the confluence of the Ganga and the Yamuna, and Rupa and Anupama settled nearby.[^21]
+took up residence at Triveni, the confluence of the Ganga and the Yamuna, and Rupa and Anupama settled nearby.[^23]
 <!-- F78 F79 F80 -->
 
 ## Vallabha Bhatta
@@ -325,7 +327,7 @@ sampradaya, gods and rishis lived there for the sake of Vallabhacharya's company
 Hearing of the Lord's great influence and that He was at Triveni, Vallabha Bhatta hastened to Him and prostrated himself
 at His feet; the Lord embraced him and began to speak of Krishna. In this conversation His prema welled up, but,
 regarding Vallabha as an outsider (bahiranga), the Lord concealed His feeling, and Vallabha could only marvel at what he
-saw.[^22] Rupa and Anupama were at the Lord's feet, and He introduced His most beloved devotees to Vallabha. Out of
+saw.[^24] Rupa and Anupama were at the Lord's feet, and He introduced His most beloved devotees to Vallabha. Out of
 humility the brothers bowed to the Bhatta from a distance; and when he moved towards them to embrace them, they —
 seeking no honour and honouring others (amani-manada) — drew back, calling themselves unworthy: “We are low and
 untouchable; do not defile yourself,” and sat at a distance. <!-- F85 F86 -->
@@ -367,10 +369,10 @@ Madhya 19.79–80) <!-- F91 -->
 Having brought the Lord to his home, Vallabha washed His feet with his own hands, and the whole family placed that water
 on their heads; he dressed the Lord in a new kaupina and upper cloth and performed a “great puja” with incense, flowers,
 fragrances and lamps. Then with great care he fed the Lord many dishes and gave the remnants of His meal to Rupa and
-Krishnadasa the Rajput;[^23] after the meal he offered Him spices, laid Him down to rest and himself began to massage His
+Krishnadasa the Rajput;[^25] after the meal he offered Him spices, laid Him down to rest and himself began to massage His
 feet, and the Lord told him to go and eat too. <!-- F92 F93 -->
 
-There came the mahabhagavata Raghupati Upadhyaya from Tirhut,[^24] a disciple of Madhavendra Puri, and the Lord spoke
+There came the mahabhagavata Raghupati Upadhyaya from Tirhut,[^26] a disciple of Madhavendra Puri, and the Lord spoke
 with him at length about rasa. To the Lord's questions about the highest form, the highest abode, the age and the rasa,
 he answered thus:
 
@@ -389,7 +391,7 @@ staying there unrecognised. <!-- F96 -->
 Gosvami, investing him with His special power. There He revealed to Sri Rupa the highest truths about Krishna, teaching
 him the highest conclusions of the science of bhakti and rasa in full accord with the ‘Srimad-Bhagavatam.’ He imparted
 to him all the confidential conclusions He had earlier heard from Ramananda Raya. By His mercy Sri Rupa was able to
-grasp them perfectly.” (CC, Madhya 19.114–116)[^25] <!-- F97 Q155 -->
+grasp them perfectly.” (CC, Madhya 19.114–116)[^27] <!-- F97 Q155 -->
 
 Having invested His shakti in the heart of this most worthy disciple, the Lord made him mature and awakened all truths
 in his heart, so that Rupa became skilled in expounding them. These teachings are called the “Sri-rupa-shiksha.” Kavi
@@ -397,7 +399,7 @@ Karnapura says in the “Chaitanya-chandrodaya-nataka”:
 
 “When in the course of time the accounts of the pastimes of Vrindavana had vanished from people's memory, the Lord, to
 glorify them again in all their fullness, bathed Rupa and Sanatana in the nectar of His mercy in that same place.”
-(“Chaitanya-chandrodaya-nataka,” 9.38)[^26]
+(“Chaitanya-chandrodaya-nataka,” 9.38)[^28]
 
 And elsewhere in the same drama (9.29): Rupa, long bound fast by Gaura's beloved qualities and free of attachment to
 home, revealed his form like the highest rasa embodied, and in Prayaga the Lord bestowed His mercy on him and his younger
@@ -461,7 +463,7 @@ mobile are beasts and birds, creatures of the waters and of the land, and among 
 are very few. If from among humans one excludes the barbarian mlechchhas, the Pulindas, the Buddhists and the Shabaras,
 there remain the followers of the Vedas; some of them follow dharma, others do not; of those who follow dharma many are
 devoted to rituals, others to knowledge, and of ten million knowers only one is truly liberated, that is, free of worldly
-understanding.[^27] Of all the liberated, one who has taken up the service of Krishna with faith is a krishna-bhakta: he
+understanding.[^29] Of all the liberated, one who has taken up the service of Krishna with faith is a krishna-bhakta: he
 has no desires other than service. All others, up to the liberated, are bound by the thirst for enjoyment (bhukti) or
 liberation (mukti): the pious and the ritualists seek enjoyment, the knowers liberation, others the siddhis of yoga. As
 long as these three desires are in the heart, there is no peace; only the selfless devotee of Krishna attains the highest
@@ -519,7 +521,7 @@ Bhakti tinged by the three gunas is saguna; but beyond it there is nirguna-bhakt
 “Bhagavatam” (3.29.11–14): as soon as one hears of the Lord's qualities, the mind flows to Him unceasingly, as the Ganga
 flows to the ocean; such bhakti is causeless and unobstructed; the devotees do not accept, even when offered, salokya,
 sarshti, samipya, sarupya or oneness with the Lord without service; this is the supreme (atyantika) bhakti-yoga, by which
-the soul crosses beyond the three gunas of maya and attains pure prema.[^28] But if desires for enjoyment, liberation and
+the soul crosses beyond the three gunas of maya and attains pure prema.[^30] But if desires for enjoyment, liberation and
 the like live in the heart, prema will not be born even from hundreds of sadhanas: the thirst for bhukti and mukti is
 two witches, and as long as they are in the heart, the happiness of bhakti will not come. <!-- F127 F128 F129 Q32 -->
 
@@ -539,7 +541,7 @@ suddenly, owing to particular circumstances.” (CC, Madhya 19.188)
 
 The five principal rasas are shanta, dasya, sakhya, vatsalya and madhura; the seven secondary ones are hasya, adbhuta,
 vira, karuna, raudra, bhayanaka and bibhatsa. The secondary ones only nourish the principal: they come when occasioned
-and, having played their part, depart.[^29] Krishna-rati is twofold: mixed with awareness of majesty, and pure. In
+and, having played their part, depart.[^31] Krishna-rati is twofold: mixed with awareness of majesty, and pure. In
 Dvaraka, Mathura and Vaikuntha bhakti is mixed with awareness of majesty, and prema there is constrained; but in Gokula
 the cowherds and gopis, in pure love, do not acknowledge Krishna's majesty even when they see it. <!-- F134 F135 I11 -->
 
@@ -594,7 +596,7 @@ In Kashi Rupa and Anupama met the Maharashtrian brahmana, Chandrashekhara and Ta
 Mishra's house and heard from him the whole account of the Lord's teachings to Sanatana. At that time the boy Raghunatha,
 Tapana's son, saw Rupa and heard Mahaprabhu's teachings. After staying ten days in Kashi, the brothers went to Gauda; on
 the way Rupa pondered the events of the drama and made notes (kadchas). And in Gauda Anupama left his body on the bank of
-the Ganga (“attained the Ganga”) and went to the eternal abode of Ramachandra.[^30] <!-- F151 F152 F153 -->
+the Ganga (“attained the Ganga”) and went to the eternal abode of Ramachandra.[^32] <!-- F151 F152 F153 -->
 
 ## Satyabhamapura and Puri
 After Anupama's passing, Rupa, burning with longing, set out for Nilachala, to the Lord's feet. Because of his
@@ -608,7 +610,9 @@ tells me to write a separate play. I intended to describe Krishna's pastimes in 
 Now I must divide them into two parts.’” (CC, Antya 1.40–44)
 
 So Rupa understood that the maiden who had appeared to him was Satyabhama-devi, and decided to write the vraja-lila
-and the dvaraka-lila separately, as two dramas. <!-- F155 F156 -->
+and the dvaraka-lila separately, as two dramas. This revelation, “Our Teachers” explains, accords with Mahaprabhu's
+teaching that the service of Vrindavana — Radha-dasyam — stands above every other kind of service to Krishna: the mood of
+Dvaraka is other than the mood of Vrindavana. <!-- F155 F156 I45 -->
 
 “Absorbed in these thoughts, he soon reached Jagannatha Puri. Arriving there, he went to the hut of Haridasa Thakura.
 With boundless love Haridasa Thakura received Rupa and said, ‘Mahaprabhu told me that you would come.’ Every day Sri
@@ -629,7 +633,7 @@ all the Lord's devotees — both the Gaudiyas and the people of Utkala. <!-- F16
 Every day the Lord visited Haridasa, spoke intimately with Rupa and gave them both mahaprasada received from the temple;
 He sent them the remnants of His own meal with Govinda. For Haridasa, Rupa and Sanatana, though they were gurus even for
 the best of transcendental brahmanas, did not go into the temple of Jagannatha: out of great humility and for the sake of
-propriety, after their long closeness to the Muslim court, they considered themselves no better than mlechchhas.[^31]
+propriety, after their long closeness to the Muslim court, they considered themselves no better than mlechchhas.[^33]
 
 “Haridasa Thakura, Sri Rupa and Sri Sanatana never entered the temple of Jagannatha. After seeing the upala-bhoga
 ceremony, Mahaprabhu would visit these three saints and only then go home. So the Lord came to these devotees every day,
@@ -640,7 +644,7 @@ the house of Kashi Mishra to see the Lord, though nothing prevented him, and liv
 Mahaprabhu respected his decision and never told him to go to Jagannatha: Rupa's humility attracted the Lord, and through
 his example He wished to teach the world humility. The “Bhakti-ratnakara” says that the Lord “through Ramananda revealed
 the crushing of Kandarpa's pride, through Damodara revealed detachment, through Haridasa showed forbearance, through
-Sanatana and Rupa revealed humility” (“Bhakti-ratnakara,” 1.630–631).[^32] <!-- F163 F164 F165 F166 Q46 I15 -->
+Sanatana and Rupa revealed humility” (“Bhakti-ratnakara,” 1.630–631).[^34] <!-- F163 F164 F165 F166 Q46 I15 -->
 
 ## “Do Not Take Krishna out of Vraja”
 “The next day the omniscient Lord Sri Chaitanya came to Rupa Gosvami and said to him: ‘Do not try to take Krishna out of
@@ -676,12 +680,12 @@ And Rupa's verse:
 “Dear friend, at last on the field of Kurukshetra I have met My long-dear sweet friend Krishna. I am the same Radhika,
 and We are together again. How sweet is the magical moment of Our meeting! Yet I want to be again on the bank of the
 Yamuna, beneath the shade of the groves of Vrindavana, and hear again His flute sounding the fifth note and driving Me
-mad.” (CC, Antya 1.79)[^33] <!-- F172 F173 Q35 Q36 -->
+mad.” (CC, Antya 1.79)[^35] <!-- F172 F173 Q35 Q36 -->
 
 Rupa wrote his verse on a palm leaf, tucked the leaf into the thatched roof of the hut and went to bathe in the sea.
 Meanwhile the Lord came, happened to look up, saw the leaf, read the verse — and was plunged into prema, marvelling at
 how clearly Rupa had grasped His innermost feelings. On returning, Rupa saw the Lord in prema and prostrated himself
-before Him.[^34] The Lord slapped him: “How did you know the most secret thing in My heart?” — and embraced him tightly.
+before Him.[^36] The Lord slapped him: “How did you know the most secret thing in My heart?” — and embraced him tightly.
 <!-- F174 F175 -->
 
 Then the Lord, as if not knowing the answer, playfully showed the verse to Svarupa, asking him to check whether it had
@@ -710,7 +714,7 @@ and was plunged into prema:
 “How much sweetness these two syllables ‘Krish-na’ contain! I cannot even imagine it. As soon as one utters Krishna's
 name, it seems to dance on the tongue, and then one wishes to have thousands of mouths. When this name enters the ears,
 one wishes to have millions of ears. And when the holy name of Krishna begins to dance in the courtyard of the heart, it
-conquers the mind, and all the senses fall still.” (“Vidagdha-madhava,” 1.15; CC, Antya 1.99)[^35]
+conquers the mind, and all the senses fall still.” (“Vidagdha-madhava,” 1.15; CC, Antya 1.99)[^37]
 <!-- F178 F179 F180 F181 Q37 -->
 
 Hearing it, the nama-acharya Haridasa Thakura in rapture began to glorify the meaning of the verse and broke into a
@@ -772,7 +776,7 @@ contrary, they will be very happy to hear these verses,’ said Ramananda Raya, 
 beginning of any undertaking attracts good fortune.’” (CC, Antya 1.179–182)
 
 The Lord's anger was only an appearance meant to teach people, and Rupa, by remembering his Deity at the beginning of his
-book, had done nothing contrary to the shastras and siddhanta.[^36] <!-- F192 F193 Q41 I14 -->
+book, had done nothing contrary to the shastras and siddhanta.[^38] <!-- F192 F193 Q41 I14 -->
 
 Ramananda asked about each part of the “Lalita-madhava” too, and Rupa answered, quoting the relevant verses. Having gone
 through both dramas, Ramananda turned to Mahaprabhu's feet and began, as if with a thousand mouths, to extol Rupa's
@@ -811,7 +815,7 @@ measure by Sri Chaitanya Himself — “the united form of Radha and Madhava” 
 Gaura. Worldly men of letters, for their part, place Rupa on a level with Kalidasa, or below
 or above him. But just as neither a piece of glass nor even the Koh-i-noor can be compared with the transcendental
 Kaustubha gem, so no worldly poet celebrated by the crowd can be compared even with the radiance of the toenails of
-Rupa's feet.[^37] <!-- F200 F201 -->
+Rupa's feet.[^39] <!-- F200 F201 -->
 
 The “Srimad-Bhagavatam” (1.5.10) says: “Speech, however colourful its words, that does not sing the glory of Hari, which
 purifies the world, is a place of pilgrimage for crows; the swans find no joy in it.” Poetry that does not serve with
@@ -831,6 +835,43 @@ who is absorbed in love of God and skilled in describing pure loving feelings gi
 plays of Sri Rupa Gosvami are an example of this. Merely on hearing their introduction all the devotees feel the highest
 happiness.” (CC, Antya 5.107–108) <!-- F204 Q45 -->
 
+## Head of the Sampradaya
+The book of our line, “Our Teachers,” sees in these days at Puri the establishment of Rupa as head of the sampradaya.
+Mahaprabhu was surrounded by exalted souls. Ramananda Raya He regarded as His equal and even as His guru — this He
+acknowledged in the famous conversation on the bank of the Godavari; Svarupa Damodara is honoured as Mahaprabhu's second
+manifestation, and no work was presented to the Lord without his strict examination. And yet it was not they but Rupa whom
+He made head of the sampradaya. When Mahaprabhu asked how Rupa had been able to understand His heart, Svarupa answered:
+“You have bestowed all Your blessings on Rupa; that is why Your heart is an open book to him.” And Mahaprabhu, who always
+showed humility, this time revealed His own nature: “Yes, I have given Rupa everything.” <!-- F640 -->
+
+Then, according to this account, Mahaprabhu presented Rupa to the assembly of His closest associates and asked them to
+test him, appointing Ramananda Raya as judge. Rupa read passages from the “Lalita-madhava” and the “Vidagdha-madhava,” and
+Ramananda, examining the depth and consistency of the truths set out in them, asked about style, poetics and theology;
+Rupa's answers astonished everyone. Haridasa Thakura, the acharya of the holy name, said of his verse in glory of the
+Harinama: “Never before have we heard anything that expresses the understanding of the Holy Name with such perfection.”
+And Ramananda concluded: Rupa has presented the genuine teaching of Mahaprabhu, his poetry surpasses all that was written
+before him, and he is the greatest of poets; a hero is one who always attains his goal, and Rupa is a great hero, for his
+poetry “strikes the very heart and never misses.” “All of us,” he said, “acknowledge him as Your successor.” <!-- F641 -->
+
+All who were present confirmed: “Without doubt You have bestowed all Your mercy on him; otherwise he could not have written
+such things.” Then Mahaprabhu wished that all of them should bless Rupa, so that he might reveal His teaching to the world.
+The Vaishnavas objected: “Your mercy will be enough.” “No, it is not enough,” Mahaprabhu replied. “You are My friends.
+Bestow your mercy on him: then he will feel pure love for Krishna and will be able to spread His message.” And all the
+great souls blessed Rupa without hesitation. Thus Mahaprabhu revealed the true glory of Sri Rupa and placed His sampradaya
+in his care. At the assembly where He proclaimed Rupa head of the sampradaya, in the words of this book, were present
+Ramananda Raya, Svarupa Damodara, Sarvabhauma Bhattacharya, Advaita Acharya, Bhagavan Acharya, Shikhi Mahiti and hundreds
+of other saints and scholars.[^40] <!-- F639 F642 -->
+
+Rupa's authority, says “Our Teachers,” was acknowledged by all the great devotees of Mahaprabhu: Sanatana, Rupa's guru,
+honoured him as his senior; Raghunatha Dasa glorified him in his prayers; Svarupa Damodara, Ramananda Raya, Sarvabhauma
+Bhattacharya, Advaita Acharya and Haridasa Thakura — those dearer to Mahaprabhu than anyone — acknowledged his leadership.
+Mahaprabhu Himself wrote no books: He charged His disciples to work out and establish His teaching, and all the writings of
+the Gaudiya Vaishnavas go back to the works of Rupa — to the source from which the stream of Mahaprabhu's teaching flows.
+Rupa and Sanatana He taught Himself, while to others He only gave advice, and He made them the guardians of His teaching;
+therefore by Rupa's name the followers of Mahaprabhu call themselves Rupanugas, and their school the Rupanuga-sampradaya.
+Rupa's direct disciple, Jiva Gosvami, brilliantly defended his views in the “Shat-sandarbha,” and the knowledge received
+from Rupa and Sanatana has come down to our day through Raghunatha Dasa, Jiva and other acharyas. <!-- I44 I47 -->
+
 ## The Command to Go to Vrindavana
 “So all the devotees spent the four months of the rainy season in Sri Chaitanya's company. Then the Lord bade them
 farewell, and they returned to Bengal. But Rupa Gosvami remained at Sri Chaitanya's lotus feet until the festival of
@@ -844,8 +885,8 @@ Antya 1.214–221) <!-- F205 F206 -->
 
 This command is called fourfold: to write the scriptures of bhakti-rasa, to find the lost holy places, to establish the
 service of Deities and temples, and to preach transcendental bhakti-rasa — and so to establish the Lord's innermost
-desire. Rupa and Sanatana fulfilled it.[^38] Taking leave of the Lord, Rupa placed His feet on his head and went to
-Vrindavana by way of Gauda.[^39] In Gauda he divided his movable and immovable property among his relatives, had the money
+desire. Rupa and Sanatana fulfilled it.[^41] Taking leave of the Lord, Rupa placed His feet on his head and went to
+Vrindavana by way of Gauda.[^42] In Gauda he divided his movable and immovable property among his relatives, had the money
 kept there brought to him and distributed it to relatives, brahmanas and temples; because of this he was delayed in Gauda
 for nearly a year. <!-- F207 F208 F209 I17 -->
 
@@ -914,7 +955,7 @@ Raghunatha Dasa Gosvami came to Vrindavana, and Jiva Gosvami at Nityananda's mer
 they preached Gaurasundara's innermost desire; the brothers' example drew the other Gosvamis to Vrindavana, and all of them
 are followers of Rupa. Soon after Lokanatha had settled in Vrindavana at the Lord's bidding, Rupa, Sanatana, Gopala Bhatta
 and others began to come there to live, and their company gladdened Lokanatha; they were all of one mind and heart, and
-Lokanatha was the eldest among the Gosvamis.[^40] Sanatana, Rupa and Raghunatha, according to one biography, performed
+Lokanatha was the eldest among the Gosvamis.[^43] Sanatana, Rupa and Raghunatha, according to one biography, performed
 their bhajana in Vraja as one soul (abhinnatma) — just as Lokanatha and Bhugarbha did, and later Narottama and
 Ramachandra. <!-- F214 F215 I18 F634 -->
 
@@ -929,7 +970,7 @@ treasure of Sanatana's life, so Govinda was the lord of Rupa's life. Krishnadasa
 Vrindavana — Madana-mohana, Govinda and Gopinatha — says:
 
 “These three principal Deities have for ever captured the hearts of all the Gaudiya Vaishnavas. I worship Their beautiful
-feet, for They are the Lords of my life.” (CC, Adi 1.19)[^41] <!-- F219 F220 Q50 -->
+feet, for They are the Lords of my life.” (CC, Adi 1.19)[^44] <!-- F219 F220 Q50 -->
 
 Among the obeisances to the three lords of Vrindavana at the beginning of the “Chaitanya-charitamrita,” Kaviraja bows to
 Govinda as the lord of abhidheya:
@@ -944,7 +985,7 @@ prayojana, and the acharya of prayojana is Raghunatha Dasa. Rupa shows how to se
 feet are the highest goal even for the acharya of prayojana, Raghunatha Dasa. <!-- F221 Q57 I22 -->
 
 How Rupa revealed the service of Govinda is told in the “Bhakti-ratnakara” (2nd taranga, 422–453), following the verses of
-the “Sadhana-dipika” of Radhakrishna Gosvami, a disciple of Haridasa Pandita Gosvami, who lived in Vraja-mandala.[^42]
+the “Sadhana-dipika” of Radhakrishna Gosvami, a disciple of Haridasa Pandita Gosvami, who lived in Vraja-mandala.[^45]
 Krishnadasa Kaviraja calls Haridasa Pandita the superintendent of Govinda's service (CC, Adi 8.54). Pandita Banamali Lala
 Gosvami of the Radha-ramana-ghera in Vrindavana spoke in 1940 of a “Sadhana-dipika” by Narayana Bhatta, but the
 “Sadhana-dipika” quoted in the “Bhakti-ratnakara” is the work of Radhakrishna Gosvami. This book (the verses from it
@@ -960,12 +1001,12 @@ deeply. He searched for his beloved Lord through the forests of Vraja, through t
 Vrajavasis, and, not finding Him, one day sat under a tree on the bank of the Yamuna and wept, burning in separation from
 Krishna. Then a handsome Vrajavasi came up to him and in a sweet voice asked why he was sad. Rupa told him of the Lord's
 instructions. The man led him to the hill of Goma-tila and said, “Every morning a cow (kamadhenu) comes here and pours out
-her milk of her own accord; understand what this means and do what is needed,” and vanished.[^43] At his words and his
+her milk of her own accord; understand what this means and do what is needed,” and vanished.[^46] At his words and his
 form Rupa fainted in prema, and on coming to himself understood: “Krishna came and spoke with me, and I did not recognise
 Him.” He understood the secret and announced to the Vrajavasis that here was the Yoga-pitha and here Govinda-deva lay
 hidden. All the Vrajavasis — children, old men, youths — with hearts melted by love began to dig and, by the mercy of
-Baladeva, beheld within the Yoga-pitha the face of Govinda, who enchants millions of Kamadevas.[^44] It is said that this
-Govinda was originally worshipped by Krishna's great-grandson Vajranabha.[^45] <!-- F227 F228 F229 F230 F231 -->
+Baladeva, beheld within the Yoga-pitha the face of Govinda, who enchants millions of Kamadevas.[^47] It is said that this
+Govinda was originally worshipped by Krishna's great-grandson Vajranabha.[^48] <!-- F227 F228 F229 F230 F231 -->
 
 Rupa informed Gaurasundara in Nilachala by letter, and the Lord, greatly pleased, told “the strong” Kashishvara to go to
 Vrindavana to help Rupa and Sanatana; Kashishvara did not want to leave the Lord. Then, understanding that Kashishvara's heart was pained by separation from
@@ -973,7 +1014,7 @@ Him, the Lord brought the Deity of
 Krishna that stood beside Jagannatha and said, “Know that He is non-different from Me.” The Deity and Mahaprabhu took food
 together, and Kashishvara, bowing down, carried the Deity of Sri Sri Gaura-Govinda to Vrindavana: this is Mahaprabhu
 standing beside Govinda. The “Sadhana-dipika” prays: “May Gaura-Govinda be merciful to me, whose feet by their radiance
-surpass Madana, whose face puts to shame the lotus and the jewel, at whose feet Rupa took shelter.”[^46]
+surpass Madana, whose face puts to shame the lotus and the jewel, at whose feet Rupa took shelter.”[^49]
 <!-- F232 F233 F234 F235 Q53 -->
 
 The “Bhakti-ratnakara” (6th taranga, 92–110, also following the verses of the “Sadhana-dipika”) tells of the Deity of Radha
@@ -1013,7 +1054,7 @@ Aurangzeb, it is said, destroyed the main temple and its five upper towers. Trad
 distant palace in Agra saw every day a bright light on the summit of Govinda's temple and out of envy could not bear that
 the temple stood higher than his pleasure palace; he sent troops to destroy the temples of Mathura and Vrindavana, but the
 priests, learning of it through spies, at once carried their Deities away by forest paths. So Govinda-deva came to Jaipur,
-where He is served to this day.[^47] But just as Ravana, having stolen only Sita's shadow, thought he had stolen Sita
+where He is served to this day.[^50] But just as Ravana, having stolen only Sita's shadow, thought he had stolen Sita
 herself, the Lord's svarupa-shakti, so it was here: enemies touch only the outward. The almighty Lord plays at being
 helpless, the protector of Brahma and Shiva as if in need of protection; this wonderful pastime attracts the service of the
 devotees and bewilders those who have turned away from Him. <!-- F240 F241 F242 I20 -->
@@ -1026,7 +1067,7 @@ In the “Bhakti-rasamrita-sindhu” Rupa describes the “ruin” that the dars
 
 “Friend, if you value the company of your kinsfolk, do not look at Govinda standing at Keshi-ghata — smiling, bent in three
 places, with sidelong glance, with the flute at His lips tender as young shoots, with a peacock feather in His hair.”
-(“Bhakti-rasamrita-sindhu,” 1.2.239)[^48]
+(“Bhakti-rasamrita-sindhu,” 1.2.239)[^51]
 
 Its meaning is that the darshana of Govinda takes away the taste for everything else. <!-- F250 Q56 I21 -->
 
@@ -1065,7 +1106,7 @@ of Madhavendra Puri. And when Rupa's heart was deeply longing for His beauty, Go
 show him mercy — on the pretext of fear of
 iconoclast mlechchhas came Himself from Govardhana to Mathura, to the house of Vitthalanatha (Vitthaleshvara), the younger
 son of Vallabhacharya, and accepted service there for a month. So Rupa with his companions gazed his fill on the beauty
-of Gopala-deva (CC, Madhya 18):[^49]
+of Gopala-deva (CC, Madhya 18):[^52]
 
 “Sri Rupa with his companions also spent a whole month in Mathura, beholding this Deity. He was accompanied by Gopala
 Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa Gosvami, Bhugarbha Gosvami, Sri Jiva
@@ -1087,12 +1128,12 @@ was especially favoured by Rupa and the Rupanugas: because he accepted the autho
 associates, the Gosvamis headed by Rupa and Raghunatha approved his service to Gopala. According to the same biography,
 Vitthalanatha in Mathura together with Rupa honoured Gopala Bhatta Gosvami (the words also allow the reading “honoured
 both Rupa and Gopala Bhatta”), and Rupa, wandering through Vraja-mandala, came to Gathuli and greatly rejoiced to see
-Vitthala's (Vitthalanatha's) service to the Deity of Krishna Chaitanya.[^50] <!-- F627 F628 F629 F630 -->
+Vitthala's (Vitthalanatha's) service to the Deity of Krishna Chaitanya.[^53] <!-- F627 F628 F629 F630 -->
 
 ## The Sweet Rice and Radha's Braid
 The “Bhakti-ratnakara” (5.1311–1330) relates that once Rupa wished to cook sweet rice for Sanatana and invite him to eat,
 but there was nothing needed in his hut. And Srimati Radharani, who fulfils the innermost desires of the devotees, in the
-form of a young cowherd girl brought milk, rice, sugar and ghee.[^51] Rupa opened the door and saw a beautiful cowherd girl
+form of a young cowherd girl brought milk, rice, sugar and ghee.[^54] Rupa opened the door and saw a beautiful cowherd girl
 with gifts. “Child, why have you come? Why did you trouble yourself?” “What trouble, baba? I have only come to render a
 little service to a saint.” Rupa accepted the gifts and invited her to sit down, but she said she had work to do and
 vanished, leaving Rupa perplexed. <!-- F259 F260 -->
@@ -1103,7 +1144,7 @@ thinking how to cook sweet rice for Sanatana, and she appeared as if by magic.�
 Radha Thakurani Herself and with tears of love said, “By accepting service from Her we are ruined — we shall not reach our
 cherished goal”; for Radha is their Mistress and they Her servants, and the relationship of service had been reversed. Again
 and again he reproached himself for having accepted service from Her whom he longed to serve, and strictly forbade Rupa to
-accept such gifts in future.[^52] <!-- F261 F262 -->
+accept such gifts in future.[^55] <!-- F261 F262 -->
 
 According to the “Bhakti-ratnakara,” Sanatana once came to Radha-kunda to Rupa and Raghunatha Dasa; they rose, showed him
 honour, seated him, and all three held an ishtagoshthi, a discussion about Krishna. Rupa had then written a hymn to
@@ -1117,7 +1158,7 @@ time. Sanatana was struck dumb — and understood the rightness of Rupa's compar
 
 ## The Elder Brother
 Even when speaking of Sanatana, the Gaudiya acharyas call him again and again “Rupa's elder brother.” So write Kavi
-Karnapura (“Chaitanya-chandrodaya-nataka,” 9.34)[^53], Raghunatha Dasa Gosvami in the “Stavavali” (“Sva-niyama-dashaka,” 1;
+Karnapura (“Chaitanya-chandrodaya-nataka,” 9.34)[^56], Raghunatha Dasa Gosvami in the “Stavavali” (“Sva-niyama-dashaka,” 1;
 “Manah-shiksha,” 3) and in the “Mukta-charita” (4), Jiva in the closing verse of the “Laghu-toshani,” and Krishnadasa
 Kaviraja, in the verse of obeisance to the shastra-gurus at the beginning of chapters of the Antya-lila, bows “before my
 shastra-gurus: Srila Rupa Gosvami and his elder brother Srila Sanatana Gosvami” (CC, Antya 2.1; likewise Antya 3.1).
@@ -1168,12 +1209,12 @@ niryasa; “Bhakti-ratnakara,” 1.163–165). The brothers already knew that he
 then on a lifelong friendship bound them. Rupa was just about to send word to Mahaprabhu in Puri with some devotees, and the
 brothers informed the Lord of Gopala Bhatta's arrival. The Lord, delighted, replied: “Regard Bhatta Gopala as your younger
 brother, look after him with love and from time to time send Me good news”; and with His answer He sent Gopala Bhatta the
-signs of renunciation — a dor, a kaupina and an upper garment.[^54] <!-- F278 -->
+signs of renunciation — a dor, a kaupina and an upper garment.[^57] <!-- F278 -->
 
 Gopala Bhatta was very close to Rupa and Sanatana; Rupa held him as dear as his own life and entrusted him with the service
 of Radha-ramana. Hearing that Krishna had mercifully appeared to Gopala Bhatta as Radha-ramana from a shalagrama, Rupa and
 Sanatana with other devotees at once came for darshana and with tears of love beheld this world-enchanting Deity; Gopala Bhatta invited Rupa, Sanatana and the other Gosvamis
-to a great festival of the Deity's abhisheka — on the Vaishakha full moon of 1599 Samvat (1542 CE).[^55]
+to a great festival of the Deity's abhisheka — on the Vaishakha full moon of 1599 Samvat (1542 CE).[^58]
 Together with Rupa and others Gopala Bhatta restored the lost holy places of Vrindavana. And the “Hari-bhakti-vilasa,” as
 the book itself says (1.2), was compiled by Gopala Bhatta, a disciple of Prabodhananda, to please Raghunatha Dasa, Rupa
 and Sanatana. <!-- F279 F280 F281 F282 F283 Q73 -->
@@ -1184,7 +1225,7 @@ and Sanatana and studied under them the whole “Bhagavata” and the scriptures
 revising their works. <!-- F284 -->
 
 The “Bhakti-ratnakara” tells of “Rupa's mercy to Jiva”: when Jiva had out-argued the scholar Vallabha Bhatta, Rupa gently
-reproached him and sent him away for a time, and then, at Sanatana's intercession, accepted and blessed him again.[^jiva-br]
+reproached him and sent him away for a time, and then, at Sanatana's intercession, accepted and blessed him again.[^59]
 This is a lila of instruction, not worldly anger or punishment: thus Rupa taught his disciple humility. As for the
 interpretation that Rupa cast Jiva off, Srila Bhaktisiddhanta rejects it (see below and the article on Jiva Gosvami).
 <!-- F285 F286 F287 -->
@@ -1233,7 +1274,7 @@ Sanatana's — that is, by Rupa. <!-- F294 F295 F296 Q68 Q69 -->
 ## Lokanatha, Narottama and Srinivasa
 When Mahaprabhu and His intimates headed by Rupa and Sanatana disappeared, Lokanatha could not bear the separation. Coming
 again to Vrindavana, he learned that Rupa and Sanatana had already departed, and grieved bitterly; it was then that
-Narottama came to him.[^56] Narottama Dasa Thakura prays in the “Prarthana”: “When will my master Lokanatha take me with him
+Narottama came to him.[^60] Narottama Dasa Thakura prays in the “Prarthana”: “When will my master Lokanatha take me with him
 and give me to Rupa's feet?” <!-- F298 F299 F300 Q67 -->
 
 Narottama Thakura, the servant of Rupa, Raghunatha and Jiva, sang Rupa's greatness “with a million mouths” and chose him as
@@ -1261,7 +1302,7 @@ Mahaprabhu foretold the birth of Srinivasa: “Through Rupa, Sanatana and others
 through Srinivasa they will be distributed” (“Bhakti-ratnakara,” 2.120–123). When Srinivasa came to Vraja, Rupa, Sanatana,
 Kashishvara and Raghunatha Bhatta had already disappeared, while Raghunatha Dasa, Gopala Bhatta and Jiva were still on earth.
 According to the “Nava-padya” of Nrisimha Kaviraja, Rupa and the others headed by Sanatana said to Srinivasa in a dream:
-“This is no time to grieve: Gopala Bhatta is here; receive the mantra from him and our books, go to Gauda and preach.”[^57]
+“This is no time to grieve: Gopala Bhatta is here; receive the mantra from him and our books, go to Gauda and preach.”[^61]
 Jiva entrusted Srinivasa, Narottama and Shyamananda with taking to Gauda the books of Rupa and Sanatana, and also of
 Raghunatha Dasa, Gopala Bhatta and others. And when the robber-king of Vana-Vishnupura, Vira Hambira, opened the stolen chest
 of the Gosvamis' books, he saw on a palm leaf the name “Sri Rupa Gosvami” — and at the mere sight of Rupa's flawlessly
@@ -1312,7 +1353,8 @@ dream received from Govinda the command to write a commentary on the “Vedanta-
 clear that he lived after the battle of Plassey (1757). In the “Prameya-ratnavali” he bows to Shyamasundara, Chaitanya,
 Vyasa, Rupa and Sanatana, “risen like two moons.” On Rupa's books he wrote the “Stavamala-vibhushana” (a commentary on the
 “Stavamala”), a commentary on the “Nataka-chandrika,” the “Saranga-rangada” (a commentary on the “Laghu-bhagavatamrita”)
-and a commentary on the “Utkalika-vallari” (1686 Shaka, 1764 CE). <!-- F331 F332 -->
+and a commentary on the “Utkalika-vallari” (1686 Shaka, 1764 CE). “Our Teachers” calls his works a treasure offered at the
+lotus feet of Sri Rupa: thanks to Baladeva the Rupanuga-sampradaya took final shape as an independent tradition. <!-- F331 F332 I49 -->
 
 Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's feet the chief thing in his life and often said that he
 desired nothing else. He taught: many fools think that teaching through books, as Rupa, Sanatana, Jiva and Raghunatha Dasa
@@ -1328,9 +1370,9 @@ maidservant of Rupa-manjari, the head of Lalita's retinue. In June 1868 Bhaktivi
 in Ramakeli, and in Puri he studied the “Bhakti-rasamrita-sindhu” in detail. In the “Sajjana-toshani” (8.9) he denounced the pseudo-Vaishnavas
 who, reviling Nityananda and Mahaprabhu, invent false accusations of association with women against the faultless Rupa
 Gosvami, Ramananda and others, and so deceive the world. And Srila B. R. Sridhar Maharaj, in the
-“Prabhupada-padma-stavaka,” his hymn to Srila Bhaktisiddhanta, glorifies the service of Radha's feet, approved by
-Gauranga, understood by Svarupa, honoured by Sanatana, Rupa's elder brother, distributed by Rupa and others and tasted by
-Raghunatha and the other followers of Rupa. <!-- F336 F339 F341 F342 F633 -->
+“Srimad-Bhaktivinoda-viraha-dashakam” (9), his hymn to Srila Bhaktivinoda, glorifies the service of Radha's feet,
+approved by Gauranga, understood by Svarupa, honoured by Sanatana, Rupa's elder brother, distributed by Rupa and others,
+tasted by Raghunatha and the other followers of Rupa, guarded by Jiva and others and revered by Shuka, Shiva and Brahma. <!-- F336 F339 F341 F342 F633 Q157 -->
 
 Srila Bhaktisiddhanta Sarasvati worshipped Govardhana with the hymns of Rupa and Raghunatha and constantly repeated the words
 of Rupa's first “Govardhanashtaka” — “Govardhana, fulfil my hope” (pratyasham me tvam kuru govardhana purnam) — and those of
@@ -1356,8 +1398,42 @@ Bhaktivinoda; “be a servant of the followers of Svarupa and Rupa,” say the v
 and Gopinatha in them follows Rupa-manjari. <!-- F340 F345 F346 F347 -->
 
 His disciple Bhakti Dayita Madhava Gosvami is called “dear to the followers of Rupa”; Srila Bhaktisiddhanta told his
-disciples to preach the message of Rupa and Raghunatha together, and the commentary of Srila B. R. Sridhara Maharaja on the
+disciples to preach the message of Rupa and Raghunatha together, and the commentary of Srila B. R. Sridhar Maharaj on the
 gayatri is called a contribution to the Rupanuga-sampradaya. <!-- F349 -->
+
+Srila Bhaktisiddhanta's guru, Gaurakishora Dasa Babaji, told him to give up all other occupations and devote his life to
+preaching the message of Sri Rupa and Sri Sanatana; and it was for him, says “Our Teachers,” to spread the teaching of Sri
+Rupa not only in India but all over the world. On the eve of his departure he wished to hear Narottama's song “Sri
+Rupa-manjari-pada” — the hymn of the Gaudiya Vaishnavas in which the whole siddhanta, the highest mood of devotion and the
+special position of Srila Rupa Gosvami are expressed — and not from a brahmachari with a beautiful voice but from Srila
+B. R. Sridhar Maharaj: “I do not need beautiful singing.” His godbrothers saw in this the transfer to Sridhar Maharaj of
+the authority of acharya of the Rupanuga-sampradaya. Nishkinchana Krishnadasa Babaji considered the writings of Sridhar
+Maharaj non-different from the scriptures of Srila Rupa Gosvami, and of his “Sri Sri Prema-dhama-deva-stotram” he said that
+Srila Rupa Gosvami himself, the head of Mahaprabhu's succession, is present in it. <!-- F643 F644 F645 -->
+
+Srila A. C. Bhaktivedanta Swami Prabhupada, having withdrawn from worldly affairs, settled in Vrindavana, in the temple of
+Sri Sri Radha-Damodara, founded, in the words of “Our Teachers,” by Srila Rupa Gosvami (according to the
+“Bhakti-ratnakara,” Rupa himself revealed the Deity of Radha-Damodara and gave Him to Jiva; Rupa's samadhi is there as
+well), and there he began translating the “Srimad-Bhagavatam.” The very name “Krishna consciousness” he took from a verse
+included in Rupa's “Padyavali” — krishna-bhakti-rasa-bhavita (“imbued with the taste of devotion to Krishna”); Krishnadasa
+Kaviraja quotes this verse too:
+
+“The sweetness of bhakti, revealed in an individual relationship with Krishna, cannot be attained even by performing pious
+deeds for millions of births in succession. Only one thing is needed — an ardent desire to obtain such unalloyed devotion
+without delay, wherever it may be found.” (CC, Madhya 8.70; “Padyavali,” 14)
+
+Bhaktivedanta Swami applied to perfection the principle of yukta-vairagya, renunciation in devotion, formulated by Rupa: to
+accept all that is favourable to service and reject what is unfavourable, engaging everything in Krishna consciousness
+according to the directions of the shastras and the acharyas. And Srila Bhaktisiddhanta, following the principle of true
+renunciation proclaimed by Rupa, introduced daiva-varnashrama into his movement. <!-- F646 F647 F648 Q156 -->
+
+Srila Sridhar Maharaj, when he began to accept disciples, did not exert himself excessively, for the
+“Bhakti-rasamrita-sindhu,” in its list of the angas of bhakti, says not to build too many temples or hold large programmes.
+Srila Govinda Maharaj recalled how, hearing his exposition of the sixty-four angas of bhakti, he wondered: Guru Maharaj
+preaches widely, collects donations, builds temples — “Rupa Gosvami forbids this”; what will he say? The answer took only a
+few words: “Everything depends on capacity. One person can rule an empire and still have time for rest, while another
+wears himself out trying to cope with family cares.” What is beyond one person's strength is a small thing for another, and
+each must do what lies within his power. <!-- F649 I46 -->
 
 ## Works
 Rupa's books are listed by three witnesses whom the Gaudiya Vaishnavas trust without reservation. The first is his nephew
@@ -1366,7 +1442,7 @@ brothers”: the poems “Hamsa-duta” and “Uddhava-sandesha,” the “Chhan
 “Govinda-virudavali,” the “Premendu-sagara” and many other well-known stotras to Krishna; two plays, the
 “Vidagdha-madhava” and the “Lalita-madhava”; the bhanika “Dana-keli”; the “pair” of books on rasa, the
 “Bhakti-rasamrita-sindhu” and the “Ujjvala-nilamani”; the compilations “Mathura-mahima,” “Padyavali” and
-“Nataka-chandrika”; and finally the abridged “Bhagavatamrita.”[^58] <!-- F350 Q82 -->
+“Nataka-chandrika”; and finally the abridged “Bhagavatamrita.”[^62] <!-- F350 Q82 -->
 
 The second witness is Narahari Chakravarti. He quotes these verses of Jiva in the “Bhakti-ratnakara” (1.796–799) and then,
 taking a list from Krishnadasa Adhikari, a disciple of Jiva (his name stands in the guru-parampara kept in the temple of
@@ -1505,7 +1581,7 @@ carry the readers across the ocean of worldly existence. <!-- F392 F393 Q93 Q94 
 When the poem was written it does not say; neither the opening nor the concluding verses contain Krishna's name or an
 obeisance to Him. But in one of the last verses Rupa names himself (“rupashraya-pada,” “the feet that are Rupa's shelter”)
 and with the word “svami” his master, Sanatana or Krishna. The name “Sri Rupa” could not have been there before the
-meeting with Sri Chaitanya, and so the poem is assigned to the time after the meeting.[^59] It has 131 verses in the
+meeting with Sri Chaitanya, and so the poem is assigned to the time after the meeting.[^63] It has 131 verses in the
 mandakranta metre (seventeen syllables); it was printed in Devanagari in the “Kavya-sangraha” edited by Haeberlin and in
 Jivananda Vidyasagara's “Kavya-sangraha” (part 3, Calcutta, 1888). Rupa quotes verses of the “Uddhava-sandesha” as examples
 in the “Bhakti-rasamrita-sindhu” (Uttara 5.7) and many times in the “Ujjvala-nilamani.” <!-- F394 F395 F396 F397 F398 -->
@@ -1654,7 +1730,7 @@ are quoted by Jiva in the “Bhakti-rasamrita-shesha” and by Baladeva in the �
 
 At the end of every song of the “Gitavali” the name “Sanatana” stands as the signature (bhanita), and some consider it
 Sanatana's work, citing the “Dashama-charita” in the list of his books (CC, Madhya 1.35). But Baladeva at the end of his
-commentary calls these songs Rupa's work.[^60] The songs are in the gatha metre, with ten anushtubh verses added; their
+commentary calls these songs Rupa's work.[^64] The songs are in the gatha metre, with ten anushtubh verses added; their
 themes are the Nandotsava, Vasanta-panchami, the Dola-yatra and the rasa-lila, and within it the marks and examples of the
 eight kinds of heroine. For each song a raga is given — ashavari, karnata, kalyana, kedara, gaudi, dhanashri, bhairava,
 mallara, ramakeli, lalita, vasanta, saurashtri — while the tala (ekatali) is named only twice. <!-- F442 F451 F452 F455 Q107 -->
@@ -1714,7 +1790,7 @@ marriages, whereas they are Krishna's eternal beloveds (“Vidagdha-madhava,” 
 
 The play ends with three verses: Rupa calls on the learned to study the “Vidagdha-madhava,” full of Sri Radha's pastimes and
 separation and adorned with the sixty-four arts; names the time and place of completion — Sri Gokula, at the close of 1589
-Samvat (1532 CE);[^61] and humbly says that as stars of feeble light adorn the night, so the peaceful, exalted bhagavatas
+Samvat (1532 CE);[^65] and humbly says that as stars of feeble light adorn the night, so the peaceful, exalted bhagavatas
 turn even a heap of faults into virtues. The manuscript collection of the shripata of Gopivallabhapura holds a Bengali copy
 of the play on sixty-six leaves, made in 1657. Yadu-nandana Thakura, a disciple of Hemalata Thakurani, composed an elegant
 Bengali verse rendering of the play, the “Rasa-kadamba.” <!-- F463 F476 F477 F478 Q112 -->
@@ -1724,7 +1800,7 @@ The “Lalita-madhava” is a play in ten acts. The first four depict the sweet 
 the tenth the pastimes of Dvaraka are mingled with them, and so the play is considered devoted to dvaraka-lila. Rupa
 explains the title in the conclusion: here Hari, who captivates the mind of Kamadeva himself, by His own free will did not
 display the lofty (udatta) heroism befitting the heroes of plays, and by His pastimes took on the “lalita”-bhava — a
-playful, graceful mood.[^62] The acts are titled: “The Evening Festival,” “The Slaying of Shankhachuda,” “Radhika
+playful, graceful mood.[^66] The acts are titled: “The Evening Festival,” “The Slaying of Shankhachuda,” “Radhika
 Maddened,” “Radha's Tryst,” “Chandravali Found,” “Lalita Found,” “Meeting in the New Vrindavana,” “Pastimes in the New
 Vrindavana,” “Gazing at the Picture” and “Desires Fulfilled.” <!-- F479 F480 F481 Q113 -->
 
@@ -1744,7 +1820,7 @@ To him, the complete teacher of the world, obeisance.” (“Lalita-madhava,” 
 So Rupa calls Sanatana an avatara of the four Kumaras and the teacher of the world (vishva-guru). <!-- F485 F486 Q115 -->
 
 In the first act, in a conversation between Gargi and Paurnamasi, Rupa reveals a special secret: the semblance of Radha's
-marriage to Abhimanyu is only an appearance created by yogamaya;[^63] otherwise how could a lowly man take the hand of
+marriage to Abhimanyu is only an appearance created by yogamaya;[^67] otherwise how could a lowly man take the hand of
 Radha — a vaijayanti garland woven of the flowers of Mount Vindhya's austerities, enriched with the nectar of Brahma's
 blessing, a nectar of sweetness that softens Madhava's heart (1.25)? In the plot of the play, two daughters, famed in the
 three worlds, were born to Vindhya by Brahma's blessing. Among the eight great shaktis full of sweetness — Radha,
@@ -1817,7 +1893,7 @@ lived at Nandishvara; the commentary that in the Baharampur edition is circulate
 
 The year in the last verse is given in number-words (“manu-shata,” “chandra,” “svara”); by the rule “figures are read from
 right to left” this is 1471 Shaka, that is, 1549 CE. Another reading would give years when Rupa was a child and Raghunatha
-Dasa had not yet appeared or was an infant; Raghunatha appeared in 1506, and by 1549 his request is quite possible.[^64]
+Dasa had not yet appeared or was an infant; Raghunatha appeared in 1506, and by 1549 his request is quite possible.[^68]
 That the “Bhakti-rasamrita-sindhu,” completed in 1541, quotes verses of the bhanika does not stand in the way: Rupa could
 have been writing both books at once and quoted verses from the finished part of the bhanika (the printed edition has 414
 sections, and the “Bhakti-rasamrita-sindhu” quotes sections up to the 117th), finishing it afterwards. Following Rupa's
@@ -2122,7 +2198,7 @@ path of raga has realized it by his mercy. Having received Sri Chaitanya's comma
 from it the treasures of the siddhanta of bhakti, made them into his books and gave living beings the chintamani of prema;
 in plays, songs and verses on the rasa of Radha-Krishna he established the pure view of parakiya, established on earth Sri
 Chaitanya's innermost desire and tasted its sweetness; and at the end the song speaks of the cruellest
-anguish in separation from Sri Chaitanya — of raving and lament.[^65] <!-- F611 F612 F613 -->
+anguish in separation from Sri Chaitanya — of raving and lament.[^69] <!-- F611 F612 F613 -->
 
 Two other songs are signed “Madho.” If Rupa had not taken a body in the Kali-yuga, the first sings, who would have opened the
 storehouse of the treasure of vraja-prema, who, like a swan, would have separated milk from water, who, giving up
@@ -2154,7 +2230,7 @@ Vraja is the place of his bhajana, Teri-kadamba (Ter-kadamba), near Nandagrama. 
 In Krishna's eternal pastimes Rupa is Rupa-manjari. The “Gaura-ganoddesha-dipika” says: “Sri Rupa-manjari, who was once famous
 in Vrindavana, has now appeared, having become Rupa Gosvami” (180). Lalita is first among the sakhis of Radharani's
 retinue, and Rupa-manjari is first among those who follow Lalita; therefore in Gaura-lila too Rupa is the head of the six
-Gosvamis.[^66] Her closest friend is Rati-manjari, whom the wise also call Lavanga-manjari; according to the
+Gosvamis.[^70] Her closest friend is Rati-manjari, whom the wise also call Lavanga-manjari; according to the
 “Gaura-ganoddesha-dipika” (181–182), she is now Sanatana. <!-- F620 F621 F622 F625 -->
 
 Rupa and Sanatana are eternal associates of Krishna in Vrindavana: they came to enrich Gauranga's pastimes and only played
@@ -2165,10 +2241,12 @@ birth,” “consorting with the low” —
 Madhya 1.189)
 
 — are the humility (dainya) of a Vaishnava, and to take them literally is an offence: Rupa and Sanatana are eternal
-associates of the Lord, above varnashrama, gurus even for paramahamsas. So Narottama in his songs prays for service under
+associates of the Lord, above varnashrama, gurus even for paramahamsas. “Our Teachers” says still more: all the great souls who contributed to the succession of
+Mahaprabhu are not merely teachers and sages but eternal associates of Srimati Radharani, endowed with power, and all of
+them serve Her under the guidance of Sri Rupa-manjari, who appeared in this world as Sri Rupa Gosvami. So Narottama in his songs prays for service under
 Rupa-manjari, and Srila Bhaktisiddhanta Sarasvati considered the dust of Rupa's feet the one desire of his life (see above).
 Information about Rupa is also found in the articles on Madhavendra Puri, Nityananda, Gadadhara Pandita, Svarupa Damodara,
-Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 F624 F626 -->
+Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 F624 F626 I48 -->
 
 [^1]: The verse follows our translation of the drama, as does the number; one biography gives the verse as 9.39
     (incorrectly). Another biography renders the verse thus: “In Rupa — dear, beloved, whose very nature is prema,
@@ -2195,172 +2273,180 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
 [^6]: According to another account, also citing the “Laghu-vaishnava-toshani,” it was Mukunda himself who moved to
     Fatehabad near Jessore, in the pargana of Bakla-Chandradvipa. According to the “Anubhashya,” Kumara-deva's house stood
     in the village of Bakla in Chandradvipa, and “his home” was in Fatehabad in the district of Jessore.
-[^7]: According to another biography, Vidyavachaspati was Sanatana's teacher.
-[^8]: According to one biography, the Shah, hearing of the brothers from pious people, himself wished to give them
+[^7]: One of the biographies states plainly that the name of Rupa's mother is unknown; the other biographies do not
+    mention a daughter of Kumara-deva.
+[^8]: According to another biography, Vidyavachaspati was Sanatana's teacher.
+[^9]: In “Our Teachers” the earlier names are listed in a different order: “Santosh, Amar and Vallabha … became known as
+    Sri Sanatana Gosvami, Sri Rupa Gosvami and Sri Anupama”; by this order Sanatana was called Santosh and Rupa Amar.
+[^10]: According to one biography, the Shah, hearing of the brothers from pious people, himself wished to give them
     posts, and they were obliged to accept out of fear of the yavana king.
-[^9]: Accounts of the posts differ. Rupa is also called a prominent minister — “perhaps the minister of finance,” as the
+[^11]: Accounts of the posts differ. Rupa is also called a prominent minister — “perhaps the minister of finance,” as the
     “Gaudiya-vaishnava-abhidhana” puts it — or a revenue officer and treasurer; Sanatana is called the chief, first
     minister or the Sultan's personal secretary.
-[^10]: Different distances are given: about four kroshas south of Malda; about eight miles south of English Bazar and
+[^12]: Different distances are given: about four kroshas south of Malda; about eight miles south of English Bazar and
     five or six miles from Malda station; about five miles from the station, near the border.
-[^11]: According to one biography — affirmatively, without “according to tradition” and without “at midnight”:
+[^13]: According to one biography — affirmatively, without “according to tradition” and without “at midnight”:
     Mahaprabhu first met Rupa and Sanatana in Ramakeli under kadamba and tamala trees; the same account mentions the
     shrine and footprints. According to that description, the temple of Madana-mohana, whom Sanatana personally served,
     also houses Nitai-Gauranga and Advaita, and the ponds are named thus: Radha-kunda, Shyama-kunda, Surabhi-kunda,
     Lalita-kunda, Vishakha-kunda and Sanatana-sagara.
-[^12]: According to another account (retelling CC, Madhya 1), after spending five years in Puri the Lord went to Bengal
+[^14]: According to another account (retelling CC, Madhya 1), after spending five years in Puri the Lord went to Bengal
     to see the Ganga and His mother, stayed several days with Advaita in Shantipura and from there went to Ramakeli. The same account does not describe
     separately Rupa's leaving royal service, Prayaga or Puri, and mentions the Lord's meeting with Rupa and Sanatana also
     in its retelling of Lochana Dasa's “Chaitanya-mangala” (Shesha-khanda, ch. 2) — right after the Lord's visit to Mathura.
-[^13]: He is also called Keshava Khatri and Keshava Kshatriya. According to one biography, he assured the king that the
+[^15]: He is also called Keshava Khatri and Keshava Kshatriya. According to one biography, he assured the king that the
     Lord had only three or four companions.
-[^14]: According to one biography, the brothers came in the evening to a tree on the bank of the Ganga where the Lord was
+[^16]: According to one biography, the brothers came in the evening to a tree on the bank of the Ganga where the Lord was
     resting with only His close associates.
-[^15]: According to one biography the advice was given by Sanatana, according to another by both brothers together; in
+[^17]: According to one biography the advice was given by Sanatana, according to another by both brothers together; in
     the CC both speak (Madhya 1.221–224), and the Lord then ponders “Sanatana's words” (Madhya 1.228). The pictures at
     Kanai-natashala are mentioned by only one biography; one of them also refers here to the “Bhakti-ratnakara” (1.635).
-[^16]: According to the “Chaitanya-charitamrita,” the Lord gave the brothers their names in Ramakeli (Madhya 1.208);
+[^18]: According to the “Chaitanya-charitamrita,” the Lord gave the brothers their names in Ramakeli (Madhya 1.208);
     Vrindavana Dasa tells the story in his own way, and it is his account that is given here. One biography attributes
     the words about the “third samskara” to Vrindavana Dasa himself; in the CB they stand not in the verse but in an
     explanatory subheading to it (in Srila Bhaktisiddhanta's edition).
-[^17]: Purashcharana, according to the “Hari-bhakti-vilasa” (17.11), is a rite of Deity worship, repetition of the
+[^19]: Purashcharana, according to the “Hari-bhakti-vilasa” (17.11), is a rite of Deity worship, repetition of the
     mantra, libations, fire sacrifice and feeding of brahmanas in the morning, at midday and in the evening for a
     prescribed period. For the maha-mantra it is unnecessary: even a single utterance of the holy name brings all the
     fruits of purashcharana.
-[^18]: According to one biography, the wealth was taken on two boats to Bakla-Chandradvipa, half was given to Vaishnavas
+[^20]: According to one biography, the wealth was taken on two boats to Bakla-Chandradvipa, half was given to Vaishnavas
     (or to Vaishnavas and brahmanas), and the ten thousand (gold) coins for Sanatana were deposited with a grocer in the
     capital, Gauda.
-[^19]: According to one biography, the letter reached Sanatana in Ramakeli; according to another, Rupa, on receiving the
+[^21]: According to one biography, the letter reached Sanatana in Ramakeli; according to another, Rupa, on receiving the
     news, at once left Bakla.
-[^20]: According to one biography, the seven thousand rupees were brought to Sanatana by the grocer from the money Rupa
+[^22]: According to one biography, the seven thousand rupees were brought to Sanatana by the grocer from the money Rupa
     had left (ten thousand had been left in all); according to another, following the CC, Sanatana bought his release
     with money “sent by Rupa.” Compare the tradition of the Havaskhana ghat.
-[^21]: According to the chapter on Balabhadra Bhattacharya in one biography, in Prayaga, at Triveni (during the ten days
+[^23]: According to the chapter on Balabhadra Bhattacharya in one biography, in Prayaga, at Triveni (during the ten days
     of bathing in the month of Makara), Balabhadra invited Rupa and Vallabha (Anupama) and fed them the remnants of
     Mahaprabhu's meal. This agrees with the CC: in the house of the South Indian brahmana “the Bhattacharya” (evidently
     Balabhadra, the Lord's companion) invited the two brothers as well, and they received the remnants from Mahaprabhu's
     plate (Madhya 19.58–59); later Vallabha Bhatta gave them the remnants of the Lord's meal (Madhya 19.88–89).
-[^22]: In the CC: “This conversation about Krishna aroused in Mahaprabhu the bliss of maha-prema, but in the presence of
+[^24]: In the CC: “This conversation about Krishna aroused in Mahaprabhu the bliss of maha-prema, but in the presence of
     the Bhattacharya He restrained His feelings” (Madhya 19.63); according to one biography, Vallabha marvelled at the
     Lord's ecstatic symptoms.
-[^23]: So also in the CC (Madhya 19.89); according to another biography — to Rupa and Anupama.
-[^24]: The division of Tirhut today comprises four districts — Saran, Champaran, Muzaffarpur and Darbhanga.
-[^25]: One biography gives these verses with a wrong number (Madhya 19.105–107). The same biography's references to CC
+[^25]: So also in the CC (Madhya 19.89); according to another biography — to Rupa and Anupama.
+[^26]: The division of Tirhut today comprises four districts — Saran, Champaran, Muzaffarpur and Darbhanga.
+[^27]: One biography gives these verses with a wrong number (Madhya 19.105–107). The same biography's references to CC
     Antya 1.73–86 (given as Madhya 13.66–72) and Antya 1.100 (given as 1.101) are inaccurate; its other references to the
     CC and CB in the story of Rupa are correct.
-[^26]: The verse numbers follow our translation of the drama. One biography gives this verse as 9.104, and the verse
+[^28]: The verse numbers follow our translation of the drama. One biography gives this verse as 9.104, and the verse
     about Rupa free of attachment to home as 9.70 (by another numbering). The original has “in that same place”
     (tatraiva), that is, where, as the drama relates, the Lord instructed Rupa and Sanatana; another biography takes it
     as “in Vrindavana.”
-[^27]: According to one biography — differently: of millions devoted to karma only one is a jnani, of millions of jnanis
+[^29]: According to one biography — differently: of millions devoted to karma only one is a jnani, of millions of jnanis
     only one is liberated, and among millions of the liberated a devotee of Krishna is hard to find; many people follow
     the Vedas only in name, and of those who follow dharma many seek its fruits; the soul is there called an atomic spark
     of consciousness, and mobile beings are divided into those of land, air and water.
-[^28]: One biography introduces this verse with the words “Sri Krishna said to Uddhava,” but in the “Bhagavatam” (3.29) it
+[^30]: One biography introduces this verse with the words “Sri Krishna said to Uddhava,” but in the “Bhagavatam” (3.29) it
     is Kapila's instruction to Devahuti.
-[^29]: One biography speaks here of “twelve rasas,” that is, the five principal and seven secondary together.
-[^30]: According to one biography, Anupama passed away on the road, while the brothers were going along the Ganga to
+[^31]: One biography speaks here of “twelve rasas,” that is, the five principal and seven secondary together.
+[^32]: According to one biography, Anupama passed away on the road, while the brothers were going along the Ganga to
     Bengal. According to one account, Mahaprabhu Himself told Sanatana in Puri of Rupa's coming, of Anupama's devotion to
     Rama and of his passing; according to another, Sanatana heard of his brother's passing from Haridasa Thakura.
-[^31]: According to one biography, all three were born into a high, respected brahmana caste; according to another, they
+[^33]: According to one biography, all three were born into a high, respected brahmana caste; according to another, they
     were gurus even for the best of transcendental brahmanas.
-[^32]: One biography gives the verse as “Bhakti-ratnakara” 1.631, another as 1.630–631.
-[^33]: The Lord's verse “yah kaumara-harah” is included in the “Padyavali” (386 in the Russian translation of the CC used
+[^34]: One biography gives the verse as “Bhakti-ratnakara” 1.631, another as 1.630–631.
+[^35]: The Lord's verse “yah kaumara-harah” is included in the “Padyavali” (386 in the Russian translation of the CC used
     here, 382 in another numbering), and also in the “Sahitya-darpana” (1.2) and the “Kavya-prakasha” (1.4). Rupa's verse
     “priyah so ’yam” is “Padyavali” 387 in the same translation, 383 in the other numbering.
-[^34]: According to another account, Rupa did not go to bathe but came when the Lord was already in ecstasy and fell
+[^36]: According to another account, Rupa did not go to bathe but came when the Lord was already in ecstasy and fell
     before Him like a rod; and the Lord, embracing him, gave him His blessing.
-[^35]: In another numbering — “Vidagdha-madhava” 1.33.
-[^36]: According to one biography, the Lord's displeasure was aroused by the verse of the “Vidagdha-madhava” (1.2): the
+[^37]: In another numbering — “Vidagdha-madhava” 1.33.
+[^38]: According to one biography, the Lord's displeasure was aroused by the verse of the “Vidagdha-madhava” (1.2): the
     Lord said that its praise was excessive, while the other devotees were overwhelmed with prema. In the CC, after this
     verse is read, the Lord only “did not praise it” and considered it too embellished (Antya 1.131), and He reproaches Rupa
     after the verse of the “Lalita-madhava.”
-[^37]: According to one biography, Kalidasa was once considered the greatest Sanskrit poet — until Rupa began to write his
+[^39]: According to one biography, Kalidasa was once considered the greatest Sanskrit poet — until Rupa began to write his
     transcendental poetry, imbued with divine feelings.
-[^38]: According to one biography (citing the “Bhakti-ratnakara”), Rupa perfectly fulfilled everything except one thing:
+[^40]: The “Chaitanya-charitamrita” (Antya 1) names among those who heard Rupa's dramas Sarvabhauma Bhattacharya,
+    Ramananda Raya, Svarupa Damodara and Haridasa Thakura; according to the CC (Antya 1.207), Advaita Acharya and
+    Nityananda also embraced Rupa. Bhagavan Acharya and Shikhi Mahiti are named only in “Our Teachers.” Mahaprabhu's
+    request that all should bless Rupa is in the CC as well (Antya 1.199); the Vaishnavas' reply “Your mercy will be
+    enough” and the words “You are My friends” are given only in “Our Teachers.”
+[^41]: According to one biography (citing the “Bhakti-ratnakara”), Rupa perfectly fulfilled everything except one thing:
     the service of the Deity had not yet been established, and Rupa was anxious about how to establish it. So too in the
     “Bhakti-ratnakara” (2.404–406): having discovered the lost holy places, Rupa “pondered one thing” — that he could not
     find Sri Govinda (see below, “Sri Govinda-deva”).
-[^39]: Accounts differ as to where Sanatana was then. According to one biography, he was already in Vraja by that time;
+[^42]: Accounts differ as to where Sanatana was then. According to one biography, he was already in Vraja by that time;
     according to another, Sanatana came to Puri by the forest road through Jharikhanda, a year after Dola-yatra left by the
     same road for Vraja, and Rupa soon joined him, so that the brothers met again more than a year after parting; according
     to a third, having at last returned to Vrindavana, Sanatana met Rupa again, and both remained to carry out
     Mahaprabhu's commands.
-[^40]: The order in which they came to Vrindavana is told differently: according to one biography, Rupa and the others came
+[^43]: The order in which they came to Vrindavana is told differently: according to one biography, Rupa and the others came
     there after Lokanatha; according to another, a few days after coming to Vrindavana Lokanatha met Rupa, Sanatana, Gopala
     Bhatta, Bhugarbha and others there.
-[^41]: One biography calls Gopinatha the Deity of Raghunatha Dasa; usually, however, the Gopinatha of Vrindavana is
+[^44]: One biography calls Gopinatha the Deity of Raghunatha Dasa; usually, however, the Gopinatha of Vrindavana is
     associated with Madhu Pandita. This is apparently a transfer to the Deity of Srila Bhaktisiddhanta's scheme, in which
     Raghunatha Dasa is the acharya of prayojana (see below).
-[^42]: One biography gives the account as “Bhakti-ratnakara” 2.404–437. Both references are correct: Narahari's own
+[^45]: One biography gives the account as “Bhakti-ratnakara” 2.404–437. Both references are correct: Narahari's own
     account of Govinda is 2.404–421 and 433–437, the verses of the “Sadhana-dipika” are 2.422–432 (Govinda), 444–445
     (Kashishvara) and 451–453 (Vrinda-devi). But that biography places the reference after the information about the hut
     and the temple built by a disciple of Raghunatha Bhatta, which is not in “Bhakti-ratnakara” 2.404–437 (it is CC, Antya
     13.131; see below).
-[^43]: According to one biography, this Vrajavasi — a divine person in the form of a handsome resident of Vraja — did not
+[^46]: According to one biography, this Vrajavasi — a divine person in the form of a handsome resident of Vraja — did not
     lead Rupa to the hill but consoled him: “Do not worry: Govinda is on the hill of Goma-tila, the Yoga-pitha of Vrindavana;
     every morning a cow comes there and gladly gives Him milk,” and vanished.
-[^44]: According to another opinion, Rupa revealed Govinda-deva not from the Yoga-pitha near Goma-tila but from Sri
+[^47]: According to another opinion, Rupa revealed Govinda-deva not from the Yoga-pitha near Goma-tila but from Sri
     Govinda-kunda.
-[^45]: One biography calls Vajranabha Krishna's grandson; in fact he is Krishna's great-grandson.
-[^46]: According to one biography, when Madana-mohana appeared to Sanatana and Sanatana began to serve Him with an
+[^48]: One biography calls Vajranabha Krishna's grandson; in fact he is Krishna's great-grandson.
+[^49]: According to one biography, when Madana-mohana appeared to Sanatana and Sanatana began to serve Him with an
     abhisheka, Rupa, seeing the wonderful Deity, was filled with prema and informed Mahaprabhu in Puri of it through a
     messenger.
-[^47]: The Deity's route is told differently: according to one biography, Govinda went straight to Jaipur; according to
+[^50]: The Deity's route is told differently: according to one biography, Govinda went straight to Jaipur; according to
     another, first to Bharatpur, then to Jaipur; according to a third, a prince of Amber took Him to Galta near Amber, the
     chief seat of the Ramanandis, and Raja Jai Singh built a large temple there and installed in it “the Govinda-deva of
     Rupa, the guru of Man Singh”; later a dispute arose between the Ramanandis and the Gaudiya priests, in which Baladeva
     Vidyabhushana took part. That it was Aurangzeb who destroyed the temple one biography puts in question; according to
     another, the upper storey of the seven-storeyed temple was destroyed.
-[^48]: One biography gives Purva 2.111.
-[^49]: One biography also refers here to the “Bhakti-ratnakara,” 5.1333; but that verse concerns the meeting of
+[^51]: One biography gives Purva 2.111.
+[^52]: One biography also refers here to the “Bhakti-ratnakara,” 5.1333; but that verse concerns the meeting of
     Uddhava Dasa, Madhava and others with Srinivasa at Nandishvara, not Gopala in Mathura (Uddhava Dasa is named among
     Rupa's companions in CC, Madhya 18.51).
-[^50]: The biography supports this with couplets of the “Bhakti-ratnakara,” but there (5.798–806) it is Raghava
+[^53]: The biography supports this with couplets of the “Bhakti-ratnakara,” but there (5.798–806) it is Raghava
     Pandita's account to Srinivasa while going round Gathuli; Rupa is not mentioned in them.
-[^51]: Where this took place is told differently: according to one account, at Rupa's place of bhajana, Teri-kadamba near
+[^54]: Where this took place is told differently: according to one account, at Rupa's place of bhajana, Teri-kadamba near
     Nandagrama; according to another, Sanatana was then living in a hut by Pavana-sarovara near Nandagrama. Ghee is
     mentioned in only one account.
-[^52]: Sanatana's answer is reported differently: according to one account, he forbade Rupa ever to cook sweet rice again,
+[^55]: Sanatana's answer is reported differently: according to one account, he forbade Rupa ever to cook sweet rice again,
     so that Radharani would not trouble Herself for his sake; according to another, he strictly forbade him to accept such
     gifts in future, since the relationship of service had been reversed; according to a third, with tears of prema he
     reproached himself for having accepted service from Her whom he longed to serve.
-[^53]: The number follows our translation of the drama; one biography gives 9.45.
-[^54]: According to one biography, the Lord replied by letter and sent Gopala Bhatta a dor, a kaupina and a bahirvasa;
+[^56]: The number follows our translation of the drama; one biography gives 9.45.
+[^57]: According to one biography, the Lord replied by letter and sent Gopala Bhatta a dor, a kaupina and a bahirvasa;
     according to another, He sent with a messenger to Rupa a kaupina and the upper garments of a babaji, and Rupa accepted
     them with great joy.
-[^55]: So according to one biography. Another dates the appearance to “1599 of the Christian era,” on a full-moon day;
+[^58]: So according to one biography. Another dates the appearance to “1599 of the Christian era,” on a full-moon day;
     there too 1599 Samvat (1542 CE) is apparently meant, for in 1599 CE Rupa was no longer on earth. According to some accounts, Sri Radha-Govinda revealed Gopala
     Bhatta's cherished desire to Rupa in a dream, and it was Rupa who revealed the Deity of Radha-ramana; usually the
     appearance of Radha-ramana is associated with Gopala Bhatta himself.
-[^56]: The same biography says elsewhere that in Vraja Narottama met Rupa, Sanatana and Lokanatha — it contradicts itself:
+[^59]: So the “Bhakti-ratnakara” (5th taranga) tells of “Rupa's mercy to Jiva”: on a hot summer day, when Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing. Following the “Bhakti-ratnakara,” one biography retells this incident precisely as “Rupa's mercy to Jiva.”
+[^60]: The same biography says elsewhere that in Vraja Narottama met Rupa, Sanatana and Lokanatha — it contradicts itself:
     Rupa departed before Narottama came. And the chapter on Lokanatha in one biography says that even before His own coming
     to Vrindavana the Lord sent Rupa and Sanatana there; this contradicts the CC, where Rupa is sent to Vrindavana in Prayaga,
     after the Lord's visit to Vrindavana — evidently a careless retelling.
-[^57]: One biography says that Srinivasa, Narottama and Duhkhi Krishnadasa (Shyamananda), studying the Gosvamis' scriptures
+[^61]: One biography says that Srinivasa, Narottama and Duhkhi Krishnadasa (Shyamananda), studying the Gosvamis' scriptures
     at Jiva's feet, “thus lived with Rupa Gosvami, who taught these dear disciples everything”; probably Rupa's teaching
     transmitted through Jiva is meant, or it is a slip.
-[^58]: In the Bengali paraphrase of this verse in one of the biographies the “Stavamala” stands in place of the
+[^62]: In the Bengali paraphrase of this verse in one of the biographies the “Stavamala” stands in place of the
     “Utkalika-vallari”; Jiva's verse itself reads “stavasyotkalikavalli.”
-[^59]: In one of the biographies this verse is called now “the verse before the penultimate,” now verse 130; in a poem of
+[^63]: In one of the biographies this verse is called now “the verse before the penultimate,” now verse 130; in a poem of
     131 verses that is indeed the penultimate verse, which contains the words “rupashraya-pada.”
-[^60]: Baladeva speaks of forty-one songs (gathas), while both printed editions of the “Stavamala” have forty-two.
-[^61]: The Lord's withdrawal is usually dated 1533 (1455 Shaka); 1589 Samvat falls in 1532–1533 CE, so the words “in the
+[^64]: Baladeva speaks of forty-one songs (gathas), while both printed editions of the “Stavamala” have forty-two.
+[^65]: The Lord's withdrawal is usually dated 1533 (1455 Shaka); 1589 Samvat falls in 1532–1533 CE, so the words “in the
     year of Mahaprabhu's departure” in the reasoning above should be taken as approximate.
-[^62]: The Bengali paraphrase of this verse in one of the biographies says “having displayed lofty heroism… took on the
+[^66]: The Bengali paraphrase of this verse in one of the biographies says “having displayed lofty heroism… took on the
     lalita-bhava”; the verse itself has “aprakatayan,” “not displaying,” so the paraphrase apparently contains a misprint.
-[^63]: The original has “a transformation (vivarta) of maya.” What is meant is yogamaya, the Lord's internal potency that
+[^67]: The original has “a transformation (vivarta) of maya.” What is meant is yogamaya, the Lord's internal potency that
     arranges His pastimes: neither Radha nor Krishna nor Their associates are subject to the external maya, and the
     gopis' “marriages” are only an appearance for those who have no part in the confidential pastime.
-[^64]: Without the rule of reading from right to left one would get 1417 Shaka (1495 CE), and Rupa, who appeared in 1489
+[^68]: Without the rule of reading from right to left one would get 1417 Shaka (1495 CE), and Rupa, who appeared in 1489
     or 1493, would then have been six or two years old. For a superhuman mahajana even this is not impossible — Kavi
     Karnapura composed a verse in the arya metre at the age of seven (CC, Antya 16) — but a request from Raghunatha Dasa,
     who had not yet appeared, would be outwardly impossible. The word “svara” can also mean “three” (the three tones of
     Vedic recitation), but that would give 1431 Shaka (1509), when Raghunatha was three years old.
-[^65]: In the original: “chaitanya-birahe shesh, pai atishay klesh”: the verb “pai” (“I suffer”) is grammatically more
+[^69]: In the original: “chaitanya-birahe shesh, pai atishay klesh”: the verb “pai” (“I suffer”) is grammatically more
     likely first person, so these words may belong to the singer himself; the anguish, raving and lament can be ascribed to
     Rupa only from the course of the song.
-[^66]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
+[^70]: One of the biographies, in its chapter on Ramananda Raya, calls Rupa-manjari a follower of Lalita and Vishakha, with
     whom Ramananda is non-different.
-
-[^jiva-br]: So the “Bhakti-ratnakara” (5th taranga) tells of “Rupa's mercy to Jiva”: on a hot summer day, when Rupa was writing the “Bhakti-rasamrita-sindhu” and Jiva was fanning him, Vallabha Bhatta came. Having read the opening verses, he suggested correcting something. Jiva followed him to the Yamuna to fetch water, asked what error he had found and refuted each of his objections. Vallabha, returning to Rupa's hut, told how amazed he was at the young man's learning; Rupa gently reproached Jiva and told him to return to Bengal and come back to Vrindavana only when he had calmed down. But Jiva went not home but to the neighbouring village of Nanda-ghata, and there by severe austerities and fasting sought his guru's forgiveness, until his body grew quite weak. Sanatana, happening to come there, found him, took him to Rupa and begged his brother to forgive him; Rupa and Jiva were reconciled, and Jiva again received Rupa's affectionate blessing. Following the “Bhakti-ratnakara,” one biography retells this incident precisely as “Rupa's mercy to Jiva.”
