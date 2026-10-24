@@ -541,16 +541,98 @@ Srila Bhaktivedanta Swami left this world on 14 November 1977, on the Gaura Chat
 Vrindavana, for which his heart had so longed[^4]. A Vaishnava’s departure is no worldly death: having fulfilled the
 mission given by his guru, he entered the eternal pastimes of the Lord, Whom he had served all his life. <!-- F12 -->
 
-<!-- СМЕНА 2: ниже — старый текст, заменить -->
+## Shaktyavesha-avatara
+After the Swami’s departure Sridhar Maharaj said: “I regard him as a shaktyavesha-avatara. This is attested by his
+writings composed during the voyage across the Atlantic, and by what he was able to do in the West. To the extent that
+he gave himself to Krishna, keenly felt his dependence on Him and was free from any desire other than the instructions
+of his Gurudeva, to that extent Krishna responded and descended to help him.” In the “Prayer to the Lotus Feet of
+Krishna”, Sridhar Maharaj went on, the Swami says that good fortune will come only when Srimati Radharani is pleased.
+Seeing in his guru, Srila Sarasvati Thakura, the embodiment of Radharani, and in his command a service to Her, he
+humbly confesses himself unworthy of that service and therefore asks Krishna to serve his guru. “He dedicated himself
+entirely to his teacher’s cause and prayed to Krishna so sincerely, wishing to fulfil the will of his Gurudeva, that a
+special divine power descended to help him… Therefore he is a shaktyavesha-avatara.” Srila Govinda Maharaj passes on
+other words of his guru about him: “An ordinary man could not have created such a Mission in just five
+years.” <!-- F107 I7 -->
 
-To his followers he was father and friend. The biographer sees in him a shaktyavesha-avatara — an envoy invested with
-a special power of the Lord — and calls him “nityanandavesha”: the power of Sripada Nityananda Prabhu worked through
-him. Flawless humility and full surrender to the Lord were joined in him with high demands on his disciples; yet his
-insistence, too, was for the Lord’s sake — the active humility of one who carries out His will. Perfection and
-liberation can be reached even without humility, the biographer observes, but pure devotion stands on humility
-alone; Srila Bhaktivedanta Swami had both. <!-- F3 F4 I1 -->
+Srila Bhaktivedanta Swami himself often repeated that no one can preach Krishna consciousness without being empowered
+by Krishna: “In the age of Kali the spiritual practice is the chanting of Krishna’s holy names. Without receiving
+Krishna’s sanction for it, no one can teach sankirtana.” (CC, Antya 7.11) His greatest achievement, “Our Teachers”
+says, is that he spread Krishna consciousness throughout the world and founded the International Society for Krishna
+Consciousness, which he charged with carrying Mahaprabhu’s message further — and only one whom the Lord had endowed
+with special mercy could do this. The biographer mentioned earlier likewise sees in him a shaktyavesha-avatara — an
+envoy invested with a special power of the Lord — and calls him “nityanandavesha”: the power of Sripada Nityananda
+Prabhu worked through him. To his followers, he adds, Srila Prabhupada was father and friend. <!-- F89 Q5 F3 -->
+
+Sridhar Maharaj composed for him a pranama-mantra, which is recited daily at the services in the centres of the Sri
+Chaitanya Saraswat Math. It begins with the words “namah om vishnupadaya krishna-preshthaya bhutale / swami sri
+bhaktivedanta prabhupadaya te namah”. Its meaning is this: obeisance to Srila Bhaktivedanta Swami Prabhupada, dear to
+Krishna, who came to the earth; taking his guru’s instruction upon his head, he appeared as an incarnation endowed with
+divine power, and by the Hare Krishna mantra delivered both West and East; he is the best of world acharyas, the image
+of divine mercy, who gave the world the sweetness of the “Srimad-Bhagavatam” and the knowledge of the
+“Bhagavad-gita”; he serves Sri Gaura, Sri Rupa and Srila Bhaktisiddhanta Sarasvati and, like a bee, clings to the lotus
+feet of Radha and Krishna[^5]. <!-- F108 -->
 
 ## Legacy
+Srila Govinda Maharaj spoke of him as the one who began a spiritual revolution. The teachings of Buddha and Shankara,
+he recalled, needed a long time before people accepted them, whereas Srila Swami Maharaj presented Krishna
+consciousness to the whole world in just a few years, and in the swiftness with which this happened “there is
+undoubtedly something supernatural”. So Mahaprabhu’s prediction was fulfilled: “In every town and village throughout
+the world My holy name will be chanted.” (CB, Antya 4.126) Through the Swami’s preaching Krishna consciousness “swept
+over the whole world like a huge wave”, and now, Govinda Maharaj said, a new wave has come — the preaching of Srila
+Sridhar Maharaj. Preaching is a war with maya, with Durga: Srila Swami Maharaj, Srila Sridhar Maharaj and others
+“created a revolutionary atmosphere”, and the gates of Durga-devi’s prison are broken — how else could people all over
+the world chant Hare Krishna? <!-- F111 Q10 -->
+
+On 26 October 2006, the day of Srila Bhaktivedanta Swami’s departure, Srila Govinda Maharaj gave a lecture in Saint
+Petersburg. The Sri Chaitanya Saraswat Math now preaches throughout the world, he said, but this became possible only by
+the mercy of Srila Prabhupada, and the success in Russia is his achievement too. The movement of Srila Bhaktisiddhanta,
+which has spread over the world, “has grown from the seed planted by Srila Bhaktivedanta Swami Prabhupada”, and all the
+glory of preaching in the West has come by his mercy. On this day he is glorified in all the maths — in Navadvipa, in
+America, Mexico, England and other countries; the devotees of ISKCON, “members of our family”, celebrate it too. “By
+the mercy of Krishna, by the mercy of Sri Chaitanya Mahaprabhu, the sankirtana movement begun in the Western world by
+Srila Bhaktivedanta Swami Prabhupada will never stop.” <!-- F112 -->
+
+On this day, Govinda Maharaj related, the devotees cook Srila Prabhupada’s favourite dishes — he was very fond of food
+cooked in ghee. “I remember how he scolded me: ‘Why do you eat dry rice, without ghee?! Be sure to eat it with ghee!’”
+But the young Gaurendu could not afford it: his usual breakfast was one paisa’s worth of rice. In the first half of his
+life the Swami was a successful businessman, but Krishna wished him to become a pauper for the sake of spreading
+sankirtana, and “simple living and high thinking” came to him. “But his ‘simple living’ is not the same as what is
+usually meant by simplicity.” <!-- F113 F102 -->
+
+ISKCON, Srila Govinda Maharaj said, is a society that truly spreads Krishna consciousness: Srila Bhaktivedanta Swami
+founded it for the highest good of conditioned souls. When news came from all over the world that people were chanting
+Hare Krishna, Sridhar Maharaj rejoiced and always glorified the Swami, and the Swami often came and told him about his
+preaching. To carry Krishna consciousness across the world the Swami chose several leaders, was very proud of them, and
+named his successors the GBC — the Governing Body Commission; Govinda Maharaj warmly remembered his meetings with
+Bhavananda, Tamal Krishna and Achyutananda. He called both his gurus: Sridhar Maharaj was his diksha- and
+shiksha-guru, and Srila Bhaktivedanta Swami, “by the mercy of Srila Sridhar Maharaj”, his shiksha-guru as well; both
+were his principal teachers. The Hare Krishna mantra, he said, was given to us by both of them, and they had no
+intention of creating sects: “There is no problem with ISKCON.” Nor did he see any obstacle to his followers
+distributing the Swami’s books, if the BBT agreed: everyone who honours both acharyas will be happy to see their books
+side by side. <!-- F114 F115 -->
+
+Sripad B. B. Avadhut Maharaj says that the Swami, the only passenger of the “Jaladuta”, brought the highest truths of
+the East to America[^6], and that the first to accept his teaching were idealists who had challenged the Western
+consumer society. “In a mere ten short years the sankirtana movement swept over the whole world, returned to India and
+even penetrated the Iron Curtain of the socialist camp.” The Swami preached tirelessly, set down what is most important
+in spiritual life in his commentaries on the Vedic books, and said that his teaching would spread in the world for
+another ten thousand years. And Sripad B. V. Goswami Maharaj, a preacher of ISKCON, sees in the books of Bhaktivedanta
+Swami Prabhupada, the founder-acharya of ISKCON, the foundation of a broad, non-sectarian approach to preaching. He
+recalls an episode from the “Prabhupada-lilamrita”: comparing two of his Godbrothers, Srila Prabhupada said that
+Sridhar Maharaj had depth and Keshava Maharaj a striving for breadth, and he asked his disciples to unite breadth and
+depth; this difficult task, following Srila Bhaktisiddhanta, he set before his followers. The path, though, is
+determined by Mahaprabhu Himself: Srila Prabhupada explains in his commentary on the “Sri Chaitanya-charitamrita” that
+some branches of Lord Chaitanya’s tree wither in their time while others gain strength — according to which of them His
+shakti nourishes. <!-- F116 F117 -->
+
+Many of his disciples have already been named in these pages. Let us name one more, Sripad B. S. Goswami Maharaj — his
+disciple by initiation, whose shiksha- and sannyasa-guru was Sridhar Maharaj; he wrote the book “Brothers” about the
+relationship of Srila Bhaktivedanta Swami and Srila Sridhar Maharaj. The same relationship is the subject of the book
+“Our Teachers”, published by our mission in honour of three acharyas — Srila Govinda Maharaj, Srila Sridhar Maharaj
+and Srila Bhaktivedanta Swami. Its conception, which belongs to Sripad B. A. Madhava Maharaj, was to glorify the
+greatest Vaishnavas of our time and reveal the depth of their spiritual relationship, and its aim — to bring them joy
+and help their followers unite in the service of Mahaprabhu’s mission. <!-- F118 F119 -->
+
 To all his followers he left a legacy of love, not of law. He gave to everyone, yet searched for the one who would
 truly understand his message. His inner form, the biographer says, is revealed only to those who accept the essence
 of his teaching and example: one can see his true nature only by his will. Deep realisation is the ability to apply
@@ -574,3 +656,11 @@ reaches, however slightly, for pure devotion. <!-- F13 F14 I4 -->
     (1977). The day follows our calendar (Sri Chaitanya Saraswat Math): the Gaura Chaturthi of the month of Damodara,
     which in 1977 fell on 14 November; the place is given from generally known information. The anniversary of which
     Srila Govinda Maharaj spoke also agrees with the calendar: in 2006 it was observed on 26 October.
+
+[^5]: The Russian translation of the mantra given in “Our Teachers” also says that he “descended into this world from
+    Goloka itself” and that he is “the shaktyavesha-avatara of Nityananda Prabhu Himself”; these words are not in the
+    Sanskrit text of the mantra. The idea that the power of Nityananda worked in him is expressed by another biography
+    (see above).
+
+[^6]: The interview says “in the early sixties”. According to his diary and the biographies, he sailed for America in
+    1965.
