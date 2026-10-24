@@ -224,8 +224,8 @@ also present at the great assembly where Virabhadra spoke, and at the farewell o
 When Rasika's father left the world, quarrels broke out among the brothers. Rasika fed sadhus without regard to their
 birth, drank the water that had washed their feet and with his wife ate their remnants; his relatives reviled him for
 disgracing the family, and some abused the sadhus themselves. Then he said to Shyamadasi: “A Vaishnava is dearer to me
-than Krishna, and because of me they are reviled — I shall go.”[^12] She answered: “Where you are, there am I; with you even
-the shade of a tree is good.” Taking only the family Deity — once seized by force by the Bhanja raja and recovered by
+than Krishna, and because of me they are reviled — I shall go.”[^12] She answered: “Where you are, there am I;
+with you even the shade of a tree is good.” Taking only the family Deity — once seized by force by the Bhanja raja and recovered by
 Rasika himself — in nothing but the clothes they wore they went away to the Suvarnarekha, to a secluded part of
 Mallabhumi called “the hidden Vrindavana,” where Rasika's elder brother Kashinatha Raya had founded the village of
 Kashipura. There they built a house and served sadhus by the hundred. <!-- F78 -->
