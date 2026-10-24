@@ -106,12 +106,133 @@ Chaitanyadeva Himself say nothing of the kind? On the contrary, He taught: whoev
 company of sadhus — and so you will come to Me. Paramananda had no answer. Then he asked him to say where a guru could
 be found; Paramananda gave him an address, but he found no one there. <!-- F59 -->
 
+## Meeting Srila Bhaktisiddhanta
+One day he came across a poster: the Gaudiya Math was inviting people to a festival that ran for a whole month at No.
+1 Ultadanga, not far from the Pareshnath temple. He went, reasoning that a movement called “Gaudiya” must have to do
+with Sri Chaitanyadeva. He found only one man there — the rest had gone out on nagara-sankirtana — and even in a short
+conversation he saw that here the scriptures were known more deeply and thoroughly than he knew them. Then the
+devotees returned, and for the first time he saw Srila Bhaktisiddhanta — “Guru Maharaj”, as he always called his guru
+— with the danda of a wandering monk in his hand. “At first sight I understood that Guru Maharaj was completely
+indifferent to the world. Nothing could disturb him — he was completely self-sufficient.” From that day on he began to
+visit the Math. <!-- F60 -->
+
+He was drawn by these people’s faith in the scriptures. Worldly authorities counted for nothing here: if anyone began
+to speak of the ideas of Aurobindo, Vivekananda, Ramakrishna or Gandhi, he was quickly cut short — the measure of
+everything was Mahaprabhu, the “Bhagavatam” and the “Gita”. Gradually the true meaning of the “Gita” and the
+“Bhagavatam” began to open to him, and he understood that Sri Chaitanyadeva and the “Chaitanya-charitamrita” are the
+highest ideal of spiritual knowledge. <!-- F61 -->
+
+He longed to see and hear Guru Maharaj himself. But once, when he wanted to go upstairs to his room, Kirtanananda
+Brahmachari stopped him: this threshold was not to be crossed without permission. It sounded harsh, and he thought,
+“Why do they divide people here into their own and outsiders? I shall not come here again.” But at once he remembered
+a story from the “Mahabharata”: Vyasadeva sent Shukadeva to study with the royal sage Janaka, and at each of the seven
+gates of the capital Shukadeva was kept waiting seven days — forty-nine days he waited for the meeting. And he
+reasoned: were there something wrong here, while he was surrounded with flattery and honour, it would be right to
+leave; “but if I can attain the true good here, then even if they beat me with a broom — I must not leave!” <!-- F62
+-->
+
+Soon their first conversation took place. After his meal Guru Maharaj was walking on the roof, and he was standing
+nearby. Through a companion Srila Bhaktisiddhanta asked whether he wished to say something, whether he had any
+questions, and at last what purpose had brought him. “To attain your mercy at any cost,” he answered. “I need nothing
+else.” Then the guru came over himself, asked who he was, where he came from and what he did, and said, “You are
+undoubtedly fortunate. You were born within Gaura-mandala.” The companion handed him a newly printed booklet — a gift
+from Guru Maharaj. He already had one, but he was told: take it — this is something more than a mere gift. <!-- F63
+-->
+
+His decision ripened at one of the Math’s festivals. Srila Bhaktisiddhanta was speaking to a large gathering of
+educated guests from Krishnanagar; elsewhere Sripad Bhakti Pradip Tirtha Maharaj was speaking, Sripad Bhakti Svarupa
+Parvat Maharaj was receiving donations, and the Math was alive like a beehive. When the festival was over and the
+guests, having bowed to the guru, were going home, he suddenly said, “Do not deceive me.” You came to dedicate
+yourselves to the service of Krishna, and now you are leaving to plunge again into worldly affairs, thinking: when I
+am free, I shall come to the Math. No! Even if a fire is burning somewhere and you hurry to put it out — there is no
+need: “Even if fire engulfs the whole world, you will lose nothing.” “Your needs and desires will be fulfilled only in
+the service of Krishna’s lotus feet, and in no other way.” Never before had he heard Krishna-bhajana spoken of with
+such force and urgency — and he understood that here was where he must bow his head. He resolved to become a disciple
+of Srila Bhaktisiddhanta. <!-- F64 -->
+
+He was drawn to the company of the noble and learned men who had given their lives to Mahaprabhu’s service. What kept
+him from coming and staying? His father was dead; his mother and three younger brothers would manage without him — but
+his wife would be unhappy. That same evening, on returning home, he learned that his wife had suddenly fallen ill;
+three days later she was gone. His mother tried to marry him again, but in vain. <!-- F65 -->
+
+In those days he was invited to Mayapur for the festival of Sriman Mahaprabhu’s appearance. His mother, too, was
+calling him — to the village of Gumo, where she had stopped with one of her sons before a journey to Haridwar: her
+health was failing, and the meeting might be their last. The choice was hard, but he went to Mayapur. Six months after
+his wife’s death his mother passed away in Haridwar during the Kumbha Mela; before her death she was anxious about who
+would perform her shraddha if her eldest son became a sannyasi. He came, fulfilled a son’s duty, and returned to join
+the Math. At first he had thought to do so once his younger brothers had finished their studies and found work, but
+Sripad Bharati Maharaj and others persuaded him not to delay: some new obstacle would surely arise later, and this
+life would pass in vain. <!-- F66 F67 -->
+
+So he became a member of the Gaudiya Math, and little by little his doubts were dispelled. Soon many, even senior
+godbrothers, began to ask him to explain difficult passages in the lectures of Srila Bhaktisiddhanta — “Srila
+Prabhupada”, as his disciples called him — and his explanations gave everyone great satisfaction; the educated part of
+the mission acknowledged that he presented Mahaprabhu’s teaching very simply and clearly. <!-- F68 -->
+
+In 1926 he left home for good and dedicated himself entirely to the service of the mission. Srila Bhaktisiddhanta was
+overjoyed that such a learned man had come to Sriman Mahaprabhu’s mission, and greeted it with a verse of the
+“Bhagavad-gita” (3.21):
+
+*yad yad ācarati śreṣṭhas tat tad evetaro janaḥ*  
+*sa yat pramāṇaṁ kurute lokas tad anuvartate*
+
+“People follow the example of a great man. Whatever conclusion such a man accepts as truth, the rest agree with it.”
+<!-- F69 Q7 -->
+
+So after a long search, by the mercy of the Supreme, he found his guru. According to one of the biographies, he
+received initiation from Srila Bhaktisiddhanta in 1927[^3]. <!-- F7 -->
+
+## Preacher of the Gaudiya Math; Sannyasa
+At first he lived in the Calcutta Math and served in the printing press, reading proofs. This work, he admitted, did
+not particularly inspire him: what drew him most was preaching. This was noticed, and soon he was sent out to preach.
+First they stayed at a Math in Bengal, then in Benares, and finally in Vrindavan, where they held nagara-sankirtana;
+then he was sent to Delhi to collect donations. When a Math was founded at Kurukshetra, he was put in charge of it;
+for two or three years he laboured there alone — Kurukshetra is deserted except on the days of solar eclipses, when
+hundreds of thousands of pilgrims flock there. Then a Math was established in Delhi, and he headed it; later he
+preached in Shimla and other places. <!-- F70 -->
+
+Then Srila Bhaktisiddhanta sent them to Madras. The party lived in a rented house; it was led by the senior sannyasi,
+Sripad Bon Maharaj. He himself was known as “Sri Ramendrasundar Bhattacharya, Bachelor of Arts”: he addressed the
+public, introduced the sannyasis, and sometimes collected donations. But Bon Maharaj once remarked that this devotee
+could preach well — better that he preach than collect donations. He also encouraged Srila Bhakti Dayita Madhava while
+the latter was building the Madras Gaudiya Math: the temple in Madras rose through the labours of them both, of Bon
+Maharaj and of others. <!-- F71 F11 -->
+
+Even before sannyasa he was one of the outstanding preachers of the Math, and Srila Bhaktisiddhanta was very pleased
+with him. He spoke of him as “a worthy person to continue the spiritual succession”; valuing his deep knowledge of the
+scriptures and spiritual insight, he called him shastra-nipuna, “expert in the conclusions of the scriptures”, and
+once niveditatma, “a pure soul wholly surrendered to the Supreme”. In October 1930, at the first Gaudiya Math on
+Ultadanga Road, Srila Bhaktisiddhanta gave him sannyasa and the name “Srimad Bhakti Rakshaka Sridhar” — “Guardian of
+Devotion” — for his supreme devotion and strict fidelity to the ideals of the Rupanuga Sampradaya. The guru saw in him
+the strength to guard the line of the Gaudiya Vaishnavas against distortion. His own disciple, the translator of one
+of the biographies, also calls him “sarva-shastra-siddhanta-vit” — knower of the conclusions of all scriptures. <!--
+F72 F73 F8 F10 -->
+
+When Bon Maharaj left to preach in England, he took charge of the Math in Madras. Srila Bhaktisiddhanta wanted to send
+him to London too, but he replied: “I am not fit for this. I do not understand their pronunciation, and I have no wish
+to mix closely with them. You will spend a great deal of money on my journey, but I shall not be able to justify Your
+hopes. Of course, if You order me, I will go.” And in his place the guru sent Sriyukta A. B. Goswami Prabhu — later
+Srila Bhakti Saranga Goswami Maharaj. <!-- F74 -->
+
+He travelled widely through India, preaching in Bengali, Hindi, Sanskrit and English; he had an excellent command of
+English and was uncommonly eloquent. Tirelessly carrying the message of Sri Chaitanyadeva, he lectured in colleges and
+universities, held public seminars and arranged sankirtana festivals. Once in Garidi, in Bihar, after his lecture in
+the local law library, a listener bitterly admitted: we fancied ourselves civilised because we mix with the English
+and thought our ancestors savages — your talk has shown us what a great heritage we possess and how low we have
+fallen. Another time, also in Garidi, the chairman of a scientific conference, having heard him, concluded: until now
+we regarded Vaishnava-dharma as a branch of Hinduism, but the arguments and the evidence of scripture have convinced
+us that it is the original religion — jaiva-dharma, the religion of all souls. <!-- F75 F76 -->
+
+Together with Srila Bhakti Dayita Madhava, Bhakti Pradip Tirtha and Jajabar Maharaj he also went out collecting
+donations for the mission. <!-- F15 -->
+
+
 
 
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 ## Sri Chaitanya Saraswat Math
-Some time after the departure of Srila Bhaktisiddhanta[^3] he founded his own temple — the Sri Chaitanya Saraswat
+Some time after the departure of Srila Bhaktisiddhanta[^4] he founded his own temple — the Sri Chaitanya Saraswat
 Math on the bank of the Ganges in Navadvip-dham. The Math stands in Kuliya, ancient Koladvipa, where Devananda Pandita
 lived — at the place called aparadha-bhanjana, “where offences are forgiven”: here Mahaprabhu forgave all who had
 once offended Him in Navadvip. <!-- F24 F25 -->
@@ -161,7 +282,7 @@ his followers. <!-- F35 F36 -->
 
 In his last days he was absorbed in the mood of separation and in longing to serve Sri Sri Radha-Govinda. Srila
 Bhakti Rakshaka Sridhar Deva Goswami Maharaj entered the eternal pastimes in 1988, on the Amavasya of the month of
-Sridhara[^4]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
+Sridhara[^5]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
 
 [^1]: The day of his appearance is given in “Nashi uchitelya” (“Our Teachers”), a book of the Sri Chaitanya Saraswat
     Math; one of the biographies gives only the year and the place. That day was the Krishna Navami of the month of
@@ -169,7 +290,9 @@ Sridhara[^4]. Many devoted followers carry his teaching through the world to thi
     The translator of another biography notes that the appearance of Virachandra is observed on the same day.
 [^2]: The name given at birth is recorded in “Our Teachers”. In Madras, by his own account, he was known as “Sri
     Ramendrasundar Bhattacharya, Bachelor of Arts”.
-[^3]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
+[^3]: “Our Teachers” does not give the year of initiation: it says that in 1926 he left home and joined the
+    mission. One of the biographies dates his initiation to 1927. The two accounts do not contradict each other.
+[^4]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
     chapters — 1936 and 1937.
-[^4]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
+[^5]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
     Sridhara, which in 1988 fell in August.
