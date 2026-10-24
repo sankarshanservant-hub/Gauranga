@@ -45,6 +45,67 @@ leaves, which greatly upset her. While still a child he rose every day before su
 Ganges to bathe, picking lotuses on the way from the ponds nearby as offerings to the Ganges and to Lord Shiva. Once,
 as he was walking to Jamapur, the universal form of the Lord suddenly appeared before his eyes. <!-- F49 -->
 
+## Youth: Rama, Gaura, Krishna
+He was born into a revered family of smarta brahmanas, yet from his earliest childhood he was drawn to the sankirtana
+of Sri Chaitanya Mahaprabhu. <!-- F53 -->
+
+“In life I value self-sacrifice and magnanimity,” Srila Sridhar Maharaj said. That is why at first he especially loved
+Lord Ramachandra, for His flawless deeds. For Krishna he did not at first feel the same attachment: the Vrindavan-lila
+was then beyond his understanding. And yet, looking at the murti of Radha-Govinda, he felt the charm that came from
+Them. His first attraction to Krishna was awakened by the “Bhagavad-gita”, and later by Mahaprabhu. He admired
+Radharani and loved Mahaprabhu with all his heart — and They led him to Krishna: “Mahaprabhu and Radharani showed me
+mercy — it is They who helped me attain love for Krishna.” So the young man’s perplexity before the Lord’s most
+intimate pastimes was dispelled by the mercy of Those who Themselves bring love for Him to the world. <!-- F48 F5 -->
+
+While still at school he read in a book that japa of the gayatri 432 times a day brings swift progress on the
+spiritual path, and for some time he did just that, trying to grasp the meaning of the mantra without a grammar or a
+dictionary. “I was convinced: the Gayatri mantra is not lifeless words — it is spiritual and full of consciousness,”
+he recalled; and so, if he chanted it, it would itself reveal its meaning and purpose. Many years later he would write
+the “Gayatri-nigudhartha”, an explanation of the hidden meaning of the gayatri (of which more below). <!-- F54 -->
+
+## College, a Turning Point, the Search for a Guru
+After school he entered Krishnanath College in Berhampore, in the district of Murshidabad. In those years an
+astrologer looked at his palm and foretold that the young man would become a perfect, enlightened personality, would
+be famed throughout the world as a preacher of Hari-katha, and would leave this world at the age of ninety-three. (He
+departed in 1988, in the ninety-third year of his life.) Textbooks held little interest for him: he read the
+“Chaitanya-charitamrita” and the “Chaitanya-bhagavata” far more — and still passed his examinations, while many
+diligent students failed. Four years later he became a Bachelor of Arts in philosophy and took up the study of law.
+<!-- F6 F50 F51 -->
+
+The turning point came unexpectedly. One day a fellow student referred to his own father as “that gentleman” and
+explained: where was I in my past lives, and who were my parents then? He is my father only in this life. The words
+cut him to the quick. “He is right. We are all almost strangers,” he thought, and the longer he thought, the more
+keenly he felt emptiness and loneliness. “It was a great shock and a great upheaval in my life,” Srila Sridhar Maharaj
+recalled. Worldly achievements lost all meaning for him, and he neglected his studies. <!-- F55 -->
+
+At that time a friend gave him books on the life and teachings of Mahaprabhu. He read them eagerly, as if drinking
+nectar, and found in them what he had longed for: hope, support and shelter. His attachment to Sri Chaitanyadeva, he
+thought, had come to him from a past life. His mother’s family revered Mahaprabhu, but his father’s kin — orthodox
+smarta brahmanas, worshippers of Shakti and logicians of the Nyaya school — were hostile to His followers. Even so, he
+surrendered to Chaitanyadeva not only with his mind but with his heart: “I underwent a complete conversion.” He began
+to look for devotees of Gauranga and for a sadhu whom he could accept as his guru, but for a long time he found none.
+<!-- F56 F57 F7 -->
+
+Soon afterwards his father died, broken by the change in his eldest son, on whom he had placed the family’s hopes. On
+his deathbed he asked his son to promise that he would marry. Sridhar Maharaj had never told a lie and could not give
+his word where he was not sure of keeping it; but his father begged him not to grieve him in the hour of death, and he
+answered, “I will try to fulfil your request.” He had to keep his word — he married; his family life lasted six years.
+<!-- F58 -->
+
+Meanwhile Mahatma Gandhi’s civil disobedience movement was gaining strength, promising independence — swaraj — within
+a year. In 1921, before finishing law college, he joined it: he wished to become a sannyasi, but resolved to give that
+year to his countrymen. On behalf of the movement he worked as a secretary in Kalna; so two or three years went by.
+Then he withdrew from its affairs, but later he was called to Calcutta, where he acquired another profession and held
+an executive post. <!-- F52 -->
+
+His search for a guru went on. A college friend introduced him to a man of his own age — Paramananda, the founder of
+the Bharat Sevashram, a man of action (a karmi). Paramananda urged him to join his organisation and argued that
+Mahaprabhu’s teaching is the highest, but one must first acquire detachment by following the Buddha and then study
+Shankara’s Vedanta; otherwise prema may easily be mistaken for ordinary worldly love. He objected: why, then, did
+Chaitanyadeva Himself say nothing of the kind? On the contrary, He taught: whoever you are, take the Name and the
+company of sadhus — and so you will come to Me. Paramananda had no answer. Then he asked him to say where a guru could
+be found; Paramananda gave him an address, but he found no one there. <!-- F59 -->
+
 
 
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
