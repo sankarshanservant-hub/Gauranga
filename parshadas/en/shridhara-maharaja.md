@@ -245,7 +245,7 @@ could not recognize him.” <!-- F167 F168 -->
 Together with Srila Bhakti Dayita Madhava, Bhakti Pradip Tirtha and Jajabar Maharaj he also went out collecting
 donations for the mission. <!-- F15 -->
 
-In 1934 the mission’s journal “The Harmonist” printed his essay on Sri Guru, signed “Swami B. R. Sridhar”; half a
+In 1934 the mission’s journal “The Harmonist” printed his essay on Sri Guru, signed “Swami B.R. Sridhar”; half a
 century later it opened the book “Sri Guru and His Grace”. Every living being, he wrote, tends towards perfection, but
 the tendency is weak — and this “makes room for the guide, or guru”; “the guidance to perfection or Absolute Truth is
 necessarily a function of the absolute Himself, and the divine agent through whom this function manifests is Sri Guru,
@@ -386,7 +386,7 @@ He also told of this turn in his own words. At first he had shared the idea that
 may initiate, and after the departure of Srila Bhaktisiddhanta he “did not venture to make disciples”; but, he said,
 “I had some transformation through three events. Then I came to take up this work humbly, modestly.” There came to his
 mind the story of Krishna’s headache in Dvaraka, when the only cure was the footdust of His devotees: in Dvaraka no one
-would give Narada any — no one wanted to go to hell for such audacity — but the gopis of Vrindavan came at once: “Yes.
+would give Narada any — no one wanted to go to hell for it — but the gopis of Vrindavan came at once: “Yes.
 Eternal hell. We don’t care for that! If slight relief is there for our Lord, that is our only concern.” And there came
 Mahaprabhu’s command: “On my order, become guru, and deliver the land” (CC, Madhya 7.128). “I am fallible,” such a
 disciple thinks, “but I am confident that what my guru has given to me is an uncommon, vital, and nectarine thing. And
@@ -536,9 +536,9 @@ compiled and edited by Srila Bhakti Sudhir Goswami Maharaj and Sripad Bhakti Vid
 a 1936 address by Srila Bhaktivedanta Swami, its introduction his own essay of 1934; the book went through five
 printings (1983–2013), and in 2023 it appeared in electronic form as well. Its closing words gave it its name: we
 should never search for our fortune in the mud, but always look to the high sky and pray for Sri Guru and His Grace.
-In the list of the Math’s English publications seventeen books stand under his name — among them, besides those
-already named, “Sri Sri Prapanna-jivanamritam”, “Sri Sri Prema-dhama-devam Stotram” and the four volumes of “Sermons
-of the Guardian of Devotion”. <!-- F163 F175 -->
+In the list of the Math’s English publications seventeen books stand under his name — among them, besides the five
+just named, the English editions of “Sri Sri Prapanna-jivanamritam” and “Sri Sri Prema-dhama-devam Stotram” spoken
+of above, and the four volumes of “Sermons of the Guardian of Devotion”. <!-- F163 F175 -->
 
 The main thoughts of these talks are simple and deep. The succession of gurus is above all a succession of
 instruction, the siksa-guru parampara: it “follows the ideal, not the body”, and the guru is recognized by the
