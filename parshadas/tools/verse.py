@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Перевод стиха по ссылке из наших файлов (почти без затрат токенов).
   verse.py "CC Madhya 4.197-199"   — ЧЧ, перевод ВЧД (chaitanya-charitamrita/vcd/txt/CC_<Лила><NN>.txt)
-  verse.py "CB Antya 3.176-178"    — ЧБ, Мадхья/Антья (chaitanya-bhagavata/src/txt/CB_<Кханда><NN>.txt)
-Лилы/кханды: Adi, Madhya, Antya. ЧБ Ади — по изданию chaitanya-bhagavata/ed/CB_AdiNN.md (запасной путь — CB_Adi_verses.json)."""
+  verse.py "CB Antya 3.176-178"    — ЧБ, по нашему изданию chaitanya-bhagavata/ed/CB_<Кханда><NN>.md
+Лилы/кханды: Adi, Madhya, Antya. ЧБ — по ed/ (там ручные правки; Мадхья/Антья пересобраны 2026-10-24); запасной
+путь, если стиха в ed нет: Ади — CB_Adi_verses.json, Мадхья/Антья — src/txt/CB_<Кханда><NN>.txt."""
 import re, sys
 from pathlib import Path
 R = Path(__file__).resolve().parents[2]
@@ -42,9 +43,10 @@ def cb_ed(kh, ch, a, b):
     return out
 
 def cb(kh, ch, a, b):
-    if kh == 'Adi':  # Ади — по изданию ed/ (разбор двухколоночной выгрузки CB_Adi_verses.json ошибался)
-        r = cb_ed(kh, ch, a, b)
-        if r and not all(x.endswith('— не найден') for x in r): return r
+    # все кханды — по изданию ed/ (разбор CB_Adi_verses.json и src/txt ошибался: транслитерация вместо перевода,
+    # склейка с пояснением — Антья 4.171, 4.178, 8.125)
+    r = cb_ed(kh, ch, a, b)
+    if r and not any(x.endswith('— не найден') for x in r): return r
     if kh == 'Adi':  # разобрано tools/cb_adi_parse.py из двухколоночной выгрузки CB_Adi_all.txt
         import json
         d = json.loads((R / 'chaitanya-bhagavata/src/txt/CB_Adi_verses.json').read_text())
