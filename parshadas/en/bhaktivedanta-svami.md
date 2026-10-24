@@ -83,6 +83,94 @@ whenever his guru was there. The thirty years he was still to spend in India are
 grew stronger in him year by year: to fulfil his guru’s will and preach Krishna consciousness throughout the
 world. <!-- F42 F43 -->
 
+## A Godbrother
+Abhay first met Srila B. R. Sridhar Maharaj in 1930 in Allahabad. Sridhar Maharaj had not yet taken sannyasa: he had
+left home and come to Allahabad as a vanaprastha, dressed in white. More than forty years later, at the opening of the
+temple in Mayapur in 1973, Srila Bhaktivedanta Swami recalled those days: “Krishna and Prabhupada [Srila
+Bhaktisiddhanta] chose him to prepare me. Sridhar Maharaj lived in my house for many years, and naturally our
+relations were most intimate. I have always taken his instructions and advice very seriously, because I see in him a
+pure devotee. I sought his company and tried to help him. We are very close spiritually.” <!-- F33 F34 -->
+
+Though they were Godbrothers, he always addressed Sridhar Maharaj as “Your Divine Grace” and “Om Vishnupad”, as one
+addresses only one’s guru. In this, “Our Teachers” says, lies the whole essence of their lila: he went beyond
+etiquette, and such regard for a Godbrother has no precedent. For more than five years they kept close company,
+often for five to seven hours a day, and he was sure that it was Sridhar Maharaj who had prepared him for preaching
+in the West. Other disciples of Srila Bhaktisiddhanta felt the same towards Sridhar Maharaj — Bhakti Prajnana
+Keshava, Bhakti Saranga Goswami, Bhakti Dayita Madhava, Bhakti Pramoda Puri: all of them regarded him as their
+shiksha-guru. <!-- F35 I6 F10 -->
+
+Sridhar Maharaj himself told of one of their talks. It concerned the verse of the “Bhagavad-gita” in which Krishna
+speaks of the souls surrendered to Him: “dadami buddhi-yogam tam yena mam upayanti te” — “I give them the inner divine
+inspiration that helps them come close to Me” (10.10). Sridhar Maharaj remarked that the word “upayanti” here points
+to parakiya-rasa, and his companion agreed: “Yes, what is meant here is precisely the parakiya-rasa of Vraja. Nothing
+else can be the highest conclusion of the ‘Bhagavad-gita’.” Another time Sridhar Maharaj asked what he thought of his
+reading of several verses of the “Gita” in the light of madhura-rasa, and heard: “What can I say? Your interpretation
+is absolutely correct.” <!-- F36 Q9 -->
+
+They preached together, too. Abhay, then still a householder, opened an office in Bombay for his business; together
+with Sridhar Maharaj he opened a temple of the Gaudiya Math there, and they formed two parties to collect donations.
+One was made up of himself, Sridhar Maharaj and Bhakti Saranga Goswami; they called on his pharmacist acquaintances
+and collected about five thousand rupees. “I made the introductions,” he recalled, “Sridhar Maharaj preached, and
+Goswami Maharaj collected the donations.” <!-- F37 -->
+
+Satsvarupa Dasa Goswami, one of his disciples, writes in his biography that Abhay often accompanied Sridhar Maharaj
+and his assistants and played the mridanga at their programmes, and when Sridhar Maharaj was ill he led the party
+himself: he led the kirtan, played the mridanga and lectured on the “Srimad-Bhagavatam”. He acknowledged Sridhar
+Maharaj as “a pure Vaishnava, a pure devotee”, greatly valued his advice and discussed with him even what spiritual
+benefit his failures in business and the discord in his family were bringing him. <!-- F38 F39 -->
+
+Abhay always helped Sridhar Maharaj’s preaching and highly prized his rare gift for bringing out the very essence of
+the scriptures. When Sridhar Maharaj compiled the book “Sri Sri Prapanna-jivanamritam” — a collection of Sanskrit
+verses, his own and those of devotees of the past, on the six limbs of sharanagati, full surrender to Krishna — Abhay
+took the cost of publishing it upon himself. Srila Govinda Maharaj recalled how he said to his sister Bhavini Didi,
+whom the Math called Pishima: “‘Sri Sri Prapanna-jivanamritam’ is a much-needed and wonderful book. You have money.
+Please help to publish this book.” And it was she who gave the money for the first edition. <!-- F40 -->
+
+Once in Bombay the two of them arranged a meeting with a sannyasi of the Gaudiya Math who had returned from Europe. He
+came without his tridanda, without a shikha and without sannyasi dress, and said of the West: “They asked such
+questions as cannot be answered.” Abhay began to draw out of him what the questions were, and Sridhar Maharaj
+answered them one after another. Then Abhay declared: “Today Asia has conquered Europe!” <!-- F41 -->
+
+## “Print Books”
+One of his most important meetings with his guru took place in Vrindavana in 1935. Abhay was walking with Srila
+Bhaktisiddhanta and several Godbrothers along the bank of Radha-kunda, and the guru shared his sorrow with him: some of
+his senior disciples were quarrelling over the rooms and property of the Calcutta Math — what would happen when he was
+gone? This “fire of factional interests”, once it flared up, would destroy everything. “It would be good,” he said,
+“to take the marble off the temples and print books with the money.” Abhay took no part in those quarrels. And,
+turning directly to him, Srila Bhaktisiddhanta said: “If you ever have money, print books.” Abhay felt that these
+words had changed the course of his life. <!-- F47 -->
+
+For Srila Bhaktisiddhanta’s Vyasa-puja of 1936 Abhay offered his guru a poem and an essay, and read them at a
+gathering of his Godbrothers in Bombay. Both were received very warmly and printed in the journal “Harmonist”. The
+essay amazed many devotees of the Math: this little-known Bengali so deeply understood the siddhanta of the Gaudiya
+Vaishnavas and the position of the guru. His thought runs thus: whoever interprets the divine sound, shabda-brahma,
+by his own imperfect perception, without being trained under a genuine acharya, inevitably deviates from Vyasadeva,
+as the Mayavadis do, and cannot be a guru. He quoted the verse of the “Padma Purana”: “sampradaya-vihina ye mantras te
+nishphala matah” — a mantra received outside the disciplic succession is fruitless. The transcendent is not known by
+observation and experiment; it can only be heard — as sound descending through Sri Gurudeva and Sri Vyasadeva. And
+therefore, he concluded, “to remove the disagreements among us, born of our unruly nature, we must surrender this
+very day at the feet of the representative of Sri Vyasadeva.” <!-- F44 Q2 -->
+
+One of his Godbrothers nicknamed Abhay “kavi”, “poet-sage”, and the name stuck. But what mattered more was that Srila
+Bhaktisiddhanta read the poem. It struck at the very spearhead of his preaching, aimed against impersonalism, and it
+gave him great joy; the editor of the “Harmonist” received the order: “Print whatever he writes.” Abhay later
+revealed his philosophical and literary gift in full: in a short time he produced more than sixty books on Vaishnava
+philosophy — a feat of service to his guru. <!-- F45 F46 -->
+
+Srila Bhaktisiddhanta left this world in January 1937. A month earlier Abhay wrote to him that, being a family man,
+he could not give all his time to service, and asked: “Could you not give me some definite service?” Two weeks later
+the answer came: “I am quite sure that, knowing English, you will be able to convey our ideas to people who do not
+know the languages [Bengali and Hindi]… This will bring good both to you and to your listeners. I very much hope
+that you will be able to preach successfully in English.” Abhay took this letter as a confirmation of the command
+of 1922, and from then on he had no doubt about the purpose of his life. <!-- F48 -->
+
+Before his departure Srila Bhaktisiddhanta charged his senior disciples to continue the preaching in the West. He
+had sent his first envoys to London in his lifetime, but his departure and the Second World War that soon followed
+cut short what had been begun. Among the great Vaishnavas whom Srila Bhaktisiddhanta trained, “Our Teachers” names
+Srila Sridhar Maharaj, Srila Bhaktivedanta Swami, Bhakti Prajnana Keshava, Bhakti Vilasa Tirtha, Bhakti Dayita
+Madhava, Bhakti Pramoda Puri, Bhakti Saranga Goswami and many others; but, the book says, only one of them succeeded
+in fully carrying out his wish for the West — Srila Bhaktivedanta Swami. <!-- F109 -->
+
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 To his followers he was father and friend. The biographer sees in him a shaktyavesha-avatara — an envoy invested with
