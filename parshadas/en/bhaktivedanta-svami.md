@@ -232,6 +232,77 @@ In 1959 he was given sannyasa by Sripad Bhakti Prajnana Keshava Maharaj, one of 
 Bhaktisiddhanta and the first sannyasa disciple of Sridhar Maharaj. He kept for him the title “Bhaktivedanta” and gave
 him the name “Swami”. So Srila A. C. Bhaktivedanta Swami began his great service. <!-- F58 -->
 
+## The Only Passenger of the “Jaladuta”
+Shortly before his departure he asked Bhakti Ballabha Tirtha to come with him to America; but that devotee, secretary
+of the Sri Chaitanya Gaudiya Math, was serving his guru and humbly declined. <!-- F8 -->
+
+On 13 August 1965, a few days before his sixty-ninth birthday, Srila Bhaktivedanta Swami sailed for America to open
+the teaching of Sri Chaitanya to the people of the West. Sumati Morarji, owner of the Scindia shipping company, was
+on friendly terms with him, and he was taken as the only passenger on a small cargo ship, the “Jaladuta”. With him he
+had a suitcase, an umbrella, a little grain, forty rupees — about seven dollars — a few books, and faith in the mercy
+of his guru. Among the books were the “Srimad-Bhagavatam” and Sridhar Maharaj’s “Sri Sri
+Prapanna-jivanamritam”. <!-- F59 F60 F61 -->
+
+The voyage proved very hard. A few days out the ship ran into violent storms; besides seasickness, the Swami suffered
+two heart attacks, and on the next two nights the attacks returned, so that he understood this journey might cost him
+his life. On the third night Krishna Himself came to him in a dream, encouraged him and promised him full protection.
+There were no more attacks. <!-- F62 -->
+
+On Friday, 10 September 1965, he wrote in his diary: “Today the ship is not rolling, and I feel somewhat better. But I
+feel the pain of separation from Vrindavana and my Lords: Sri Govinda, Gopinatha and Radha-Damodara. My only
+consolation is the ‘Chaitanya-charitamrita’, reading which I relish the nectar of Lord Chaitanya’s lila. I have left
+Bharata-bhumi only to fulfil the desire of Sri Bhaktisiddhanta Sarasvati, in which the will of Lord Chaitanya is
+expressed. Having none of the needed qualifications, I am nevertheless taking the risk, wishing to carry out the order
+of His Divine Grace. Being far from Vrindavana, I depend only on Their mercy.” <!-- F63 -->
+
+Three days later he wrote a prayer to Krishna. You have brought me here, he says, so You must have some business here.
+The people here are in the grip of passion and ignorance, content with their lives and indifferent to the message of
+Vasudeva; but by Your causeless mercy even the impossible becomes possible, and only Your will can free them from
+illusion. The words of the “Srimad-Bhagavatam” are Your incarnation, and humble hearing of the “Bhagavatam” purifies
+the heart: here he quotes the verses of the “Bhagavatam” (1.2.17–21) on how hearing and service to a pure devotee
+drive passion, ignorance and lust out of the heart. I myself am unfortunate and fallen, he goes on, and I can convince
+them only with Your blessing; success or failure is in Your will. And further: “O Lord, I am a puppet in Your hands.
+And since You have brought me here to dance, then make me dance, make me dance, O Lord, make me dance as You wish. I
+have neither devotion nor knowledge, but I have firm faith in the Holy Name of Krishna. I have been named
+Bhaktivedanta, and now, if You wish, You will help me to justify the true meaning of that name.” <!-- F64 Q3 -->
+
+The voyage lasted thirty-seven days. He arrived in America utterly alone: all his property was what he had taken on
+board — no money, no friends, no followers. But he firmly believed that by the mercy of the Lord and his guru he would
+fulfil his mission. He himself said that he came to America “as an aggressor” — to challenge illusion. <!-- F65 F5 -->
+
+## New York: The Birth of ISKCON
+In September 1965 he came to New York, and for a whole year he struggled alone to found a movement. He lived very
+simply and spoke about Krishna at every opportunity; little by little he managed to interest a few people. His first
+winter in the West, that of 1965–1966, was the hardest. He went on translating and thought about how to open a temple
+of Krishna in New York. <!-- F66 F67 -->
+
+Then he moved to the Lower East Side of Manhattan, renting an apartment and a small shop, “Matchless Gifts”, with a
+shop-window on Second Avenue, number 26. Word spread among young seekers of truth that an Indian swami had come who
+taught a “special process of yoga” — the chanting of the Hare Krishna mantra — and people began coming to see him and
+ask questions. The Lower East Side was then the centre of the hippies: in 1966 thousands of young people wandered its
+streets in search of the meaning of life. He was given a task which, in the words of “Our Teachers”, no teacher before
+him had known — to transplant Vedic culture into the most unsuitable soil; and it was these young people who were
+destined to become his flock. <!-- F68 F69 -->
+
+Soon he registered the International Society for Krishna Consciousness — ISKCON — of which he had dreamt while still
+in India. The words “Krishna consciousness” are his rendering of the phrase “krishna-bhakti-rasa-bhavita” from Srila
+Rupa Gosvami’s “Padyavali”. Krishnadasa Kaviraja quotes this verse as well: “krishna-bhakti-rasa-bhavita matih /
+kriyatam yadi kuto ’pi labhyate…” — “The sweetness of bhakti, in the unfolding of an individual relationship with
+Krishna, cannot be attained even by performing pious deeds for millions of births in a row. Only one thing is
+needed — an ardent desire to obtain without delay such unalloyed devotion, wherever it may be manifest.” (CC, Madhya
+8.70) Thus Mahaprabhu’s living teaching received the name by which the whole world came to know it. The premises the
+Swami rented with the help of his first followers came to be called the “temple”. <!-- F70 Q4 F7 -->
+
+When registering the Society in 1966 he set out its seven purposes, and in them, “Our Teachers” says, one sees how
+clearly he foresaw the future scope of the movement. The Society was to bring spiritual knowledge to people
+systematically and teach them spiritual practice, so as to restore the balance of values in society, unite people and
+establish peace; to preach Krishna consciousness as it is set forth in the “Bhagavad-gita” and the
+“Srimad-Bhagavatam”; to bring its members closer to one another and to Krishna, helping each to realise that every
+soul is an inseparable part of Krishna; to spread sankirtana, the congregational chanting of the Holy Name, according
+to the instructions of Sri Chaitanya Mahaprabhu; to build, in one of the holy places of Krishna’s pastimes, a city
+for its members and for all people; to unite its members into one family and teach them a simple, natural way of
+life; and for all this to publish journals and books. <!-- F71 -->
+
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 To his followers he was father and friend. The biographer sees in him a shaktyavesha-avatara — an envoy invested with
@@ -242,10 +313,6 @@ liberation can be reached even without humility, the biographer observes, but pu
 alone; Srila Bhaktivedanta Swami had both. <!-- F3 F4 I1 -->
 
 ## Preaching in the West
-Shortly before setting out across the ocean, he asked Bhakti Ballabha Tirtha to come with him to America; but that
-devotee, then secretary of the Sri Chaitanya Gaudiya Math, was serving his guru and humbly declined. In 1965 Srila
-Bhaktivedanta Swami came to America — in his own words, “as an aggressor”, to challenge illusion. <!-- F8 F5 -->
-
 For twelve years, until his departure in 1977, he travelled the world, transplanting into foreign soil what many had
 thought to be merely an Indian faith. He showed in practice that the teaching of the Gaudiya Vaishnavas belongs to no
 single culture: it is the dharma of the soul, the eternal nature of everyone. He named Mahaprabhu’s living teaching
