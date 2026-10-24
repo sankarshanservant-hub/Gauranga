@@ -416,6 +416,131 @@ world”; it was Srila Bhaktisiddhanta and Srila Bhaktivedanta Swami who gave it
 followers have called him ever since, carried out his preaching in fulfilment of his guru’s will and spared no effort
 for it. <!-- F82 F83 -->
 
+## Shiksha-guru and Godbrother
+The first letter the Swami wrote after arriving in America was addressed to Srila Govinda Maharaj — the same Gaurendu
+who had once carried “Back to Godhead” from door to door in Calcutta. The Swami had received two issues of the journal
+“Gaudiya Darshan”, which Sridhar Maharaj had begun to publish — while still in Mathura he had heard of the plan from
+Sripad Keshava Maharaj — and he was overjoyed. Everything that happens in the Math, he wrote, is possible only through
+Govinda Maharaj’s energy, and now it is clear why Sridhar Maharaj has bestowed all his mercy on him. The article
+“Chhalar Pathe” struck him as both beautifully written and deep: in time, the Swami wrote, Govinda Maharaj would
+probably become “the greatest transcendental humorist in the history of journalism”. “For me you will forever remain
+one of my most beloved sons.” And in a letter to Sripad Goswami Maharaj he called the start of the journal beyond all
+praise and added that Sridhar Maharaj had a fine assistant in the young Govinda Maharaj. <!-- F110 -->
+
+Great souls, says the “Bhagavad-gita” (10.9), find joy and bliss in talks about Krishna — “tushyanti cha ramanti cha”;
+such was the life of Srila Bhaktivedanta Swami too. He always sought the company of his senior Godbrothers, and above
+all of Sridhar Maharaj. Returning to India in 1967, he stayed with him in Navadvipa, at the Sri Chaitanya Saraswat
+Math, and took part in the celebration of his Vyasa-puja. He wrote to one of his disciples: “Yesterday we arrived in
+Nabadwip-dham. The ashram where we are now staying was founded by one of my Godbrothers. It is spacious and wonderful
+here. My Godbrother B. R. Sridhar Maharaj has given us a whole house. He has also agreed to cooperate with our society.
+We shall celebrate his birthday, and our brahmacharis will learn how to celebrate the birthday of their spiritual
+master.” At that time the Swami offered Sridhar Maharaj the presidency of his young society, ISKCON; and, as Srila
+Govinda Maharaj recalled, “until his very last days in this world” the Swami wished Sridhar Maharaj to head
+ISKCON. <!-- Q6 F90 F91 F92 -->
+
+At that Vyasa-puja Achyutananda, a disciple of the Swami, saw his teacher deep in conversation with Sridhar Maharaj.
+Afterwards he asked what they had been speaking about, and heard: “If I tell you, you will faint. Sridhar Maharaj is
+an extraordinarily exalted soul!” <!-- F93 -->
+
+All his life Srila Bhaktivedanta Swami deeply revered and trusted Sridhar Maharaj, and disciples to whom he could not
+give direct guidance he sent into his care. To one of them he wrote: “If you are really seeking the guidance of a
+shiksha-guru, I can direct you to the most competent of all my Godbrothers. This is B. R. Sridhar Maharaj, whom even I
+regard as my shiksha-guru — what to speak of the benefit that you can gain by associating with him… When the devotees
+and I were in India, we lived with Sridhar Maharaj… So live happily with Sridhar Maharaj, and thus you will attain
+spiritual perfection.” On his advice one of his first disciples, B. A. Sagar Maharaj, accepted the guidance of
+Sridhar Maharaj — and later received sannyasa from him as well. And Sripad B. B. Avadhut Maharaj relates that the
+Swami, foreseeing how his disciples would need higher guidance after his departure, advised them to turn to Sridhar
+Maharaj. <!-- F94 -->
+
+What he meant by the word “shiksha-guru” is best explained by his own commentary on the “Sri Chaitanya-charitamrita”.
+Krishnadasa Kaviraja writes: “I know my instructing Guru as Krishna’s personal form. The Lord manifests Himself in
+this world in two forms: within, as the Supersoul in every heart, and without, as the best of Vaishnavas, the saintly
+teacher.” (CC, Adi 1.47) The instructing teacher is Krishna Himself, Srila Bhaktivedanta Swami explains; Krishnadasa
+Kaviraja speaks of two kinds of instructing teachers — the liberated soul wholly absorbed in meditation on devotional
+service, and the one who awakens the disciple’s spiritual consciousness by proper instructions. There is no difference
+between the Supreme Lord who gives shelter and the initiating and instructing teachers, and one who foolishly
+distinguishes between them commits an offence. <!-- F95 Q11 -->
+
+Sridhar Maharaj, for his part, understood and admired him as no one else did. “What our Swami Maharaj has done is a
+miracle!” he would say. “What Bhaktivinoda Thakura conceived, Bhaktisiddhanta Sarasvati Thakura began to put into
+practice. And we see that through Swami Maharaj, at the end of his life, this plan has been fulfilled so completely. We
+are happy, we are glad, we are proud of it!” With tears in his eyes and a trembling voice the Swami replied: “All by
+the grace of Guru and the Vaishnavas… Therefore I want Sridhar Maharaj to give me his blessings, as he always has, and
+may Guru Maharaj help me to be able to do some service. All the success has come by his mercy. There is no merit of
+mine here.” He himself, the Swami said, had no qualification at all — and he recalled the words of Srila Narottama
+Dasa Thakura from the “Prema-bhakti-chandrika”: “chhadiya vaishnava-seva nistara payechhe keba” — who has ever found
+deliverance without serving the Vaishnavas? And Sridhar Maharaj said more than once: “Bhaktivedanta Swami Maharaj has
+cut a tunnel through the mountain of the Western ego!” <!-- F96 Q7 F97 -->
+
+When in India, the Swami sometimes stayed at Sridhar Maharaj’s Math in Navadvipa, and Sridhar Maharaj sometimes
+visited him in Mayapur, at the “Chandrodaya Mandir” — always together with Srila Govinda Maharaj. On 17 March 1973, at
+the opening of that ISKCON temple, the “Mayapur Chandrodaya Mandir”, they sat together on one vyasasana; a photograph
+survives: the two of them on the vyasasana, and Srila Govinda Maharaj speaking into the microphone. It was then that
+the Swami recalled Allahabad in 1930 and the years when Sridhar Maharaj had lived in his house (this speech is told of
+above). <!-- F99 -->
+
+Srila Govinda Maharaj spoke that day at the request of Sridhar Maharaj, who was unwell. He began with the verse of
+Raghupati Upadhyaya “kam prati kathayitum ishe…” — to whom can I tell it, and who will believe that the Supreme
+Absolute Truth performs His pastimes with the gopis in the groves on the bank of the Yamuna (Krishnadasa Kaviraja
+quotes this verse as well — CC, Madhya 19.98) — and applied it to the Swami: “Who will believe me that Srila Swami
+Maharaj, whom we formerly knew as Abhay Babu, a regular participant in the programmes of the Sri Gaudiya Math and a
+householder occupied with family cares and business affairs, has now become a world acharya, known everywhere? He has
+spread Krishna consciousness over the whole planet, accomplishing the most impossible of all impossible
+deeds.” <!-- F101 Q8 -->
+
+Sridhar Maharaj later related that Govinda Maharaj called Srila Bhaktisiddhanta an extraordinary personality through
+whom Mahaprabhu wished to preach His teaching: he had many worthy followers, but for preaching in the West he chose
+Srila Bhaktivedanta Swami, and the Swami accomplished this task wonderfully. Govinda Maharaj also said that the Swami
+accepts Sridhar Maharaj as his shiksha-guru and regards Govinda Maharaj himself as a son. “In reply Swami Maharaj
+confirmed: ‘All that Govinda Maharaj has said is true. I love him as my own son, and his Gurudeva, Sridhar Maharaj, I
+regard as my shiksha-guru.’ He glorified me, calling me ‘Om Vishnupad’.” Thus, before many Godbrothers and thousands of
+devotees, the Swami publicly called Srila Govinda Maharaj his dear son. “At that time he was a Guru of world stature,”
+said Srila Govinda Maharaj. “For me this is a great mercy and a rare good fortune.” <!-- F100 F101 -->
+
+Srila Bhaktivedanta Swami always loved Govinda Maharaj with a father’s love: for four years they preached together, and
+the Swami himself taught him the Vaishnava scriptures and the mridanga and looked after his health and
+well-being. <!-- F102 -->
+
+## The Last Meeting and Departure
+However much the Swami asked him, Sridhar Maharaj never once went abroad to preach. He explained this himself: to
+become a “big man” was not in his nature; his life was reflection on spiritual matters and talks on the scriptures in
+the circle of close devotees. <!-- F103 -->
+
+In March 1977, shortly before his departure, the Swami came to see him in Navadvipa; their conversation was recorded.
+“I do not know how much longer I shall last, so I have come to see Sridhar,” the Swami said, and he began to ask him to
+settle at the ISKCON temple in Mayapur: “Srila Prabhupada [Srila Bhaktisiddhanta] always wanted you to preach. More
+than once he said to me: ‘Why don’t you bring him out?’… Srila Prabhupada spoke of you as one of the most remarkable
+preachers. I want to travel everywhere with you.” He promised to rent for Sridhar Maharaj any lodging he might wish,
+or to live together with him in the house his disciples were building for him — with a lift and a car — while Sridhar
+Maharaj could visit his own Math whenever he liked. While the Swami himself was travelling, his disciples would practise
+under Sridhar Maharaj’s guidance. “If you are near, it will be a great support for me. Sometimes I need to consult
+someone, but I have no one who could give good advice, and I need it very much… So, Maharaj, please order me — and I
+shall arrange everything… And that planetarium too will be built under your direction. I should like to unite Indian
+culture and American money. It will be for the good of the whole world.” “Yes, while I have strength, while I live, to
+fulfil the desire of Prabhupada [Srila Bhaktisiddhanta]…” Sridhar Maharaj replied. <!-- F104 -->
+
+The planetarium had long been Sridhar Maharaj’s own dream. He dearly loved Srila Sanatana Gosvami’s
+“Brihad-bhagavatamrita” and wished to build an exhibition where dioramas would show the planetary systems of the
+spiritual world described in that book and Krishna’s abode, Goloka Vrindavana. Having no means to do it himself, he
+offered the work to the Swami, who took it up with enthusiasm: “The planetarium will be built under your guidance.”
+But Sridhar Maharaj did not move to Mayapur. “At that time I did not think I would live longer than he,” he explained
+later, “and so I promised to come to Mayapur as far as possible.” <!-- F106 F105 -->
+
+Once, troubled by his illness, Srila Bhaktivedanta Swami wrote to Srila Govinda Maharaj: “I know that I still have
+many duties in the Western world and many things that I must do. But I feel that my time is coming to an end, I shall
+soon die, and I would like to leave my body in Vrindavana. So please ask Srila Sridhar Maharaj what I should do: should
+I go to Vrindavana or stay in the Western world?” Govinda Maharaj put the question to his guru, and Sridhar Maharaj
+dictated the reply: “Wherever you are, there is Vrindavana. Krishna is always with you and will always come to your
+aid. And if you should have to leave your body in New York, it will mean that Vrindavana has come to you in New York —
+have no doubt.” Later the Swami wrote: “The instructions of Sripad Sridhar Maharaj I keep in my very heart. Always and
+in everything he is my well-wisher. Certainly, after the departure of Prabhupada [Srila Bhaktisiddhanta] I should
+accept his guidance. And he has told me to stay in this country for good!” Another account of the same letter says
+that he accepts Sridhar Maharaj’s instruction “on my head”. <!-- F98 F11 -->
+
+Srila Bhaktivedanta Swami left this world on 14 November 1977, on the Gaura Chaturthi of the month of Damodara, in
+Vrindavana, for which his heart had so longed[^4]. A Vaishnava’s departure is no worldly death: having fulfilled the
+mission given by his guru, he entered the eternal pastimes of the Lord, Whom he had served all his life. <!-- F12 -->
+
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 To his followers he was father and friend. The biographer sees in him a shaktyavesha-avatara — an envoy invested with
@@ -424,18 +549,6 @@ him. Flawless humility and full surrender to the Lord were joined in him with hi
 insistence, too, was for the Lord’s sake — the active humility of one who carries out His will. Perfection and
 liberation can be reached even without humility, the biographer observes, but pure devotion stands on humility
 alone; Srila Bhaktivedanta Swami had both. <!-- F3 F4 I1 -->
-
-## His Godbrothers
-Among the disciples of Srila Bhaktisiddhanta, Srila Bhaktivedanta Swami — like Bhakti Prajnana Keshava, Bhakti
-Saranga Goswami, Bhakti Dayita Madhava, Bhakti Pramoda Puri and others — regarded Srila B. R. Sridhar Maharaj as his
-shiksha-guru. In a letter he writes that he accepts Sripad Sridhar Maharaj’s instruction “on my head”: he is his
-constant well-wisher, and after the departure of Srila Sarasvati Thakura it is fitting to follow his guidance; from
-him, too, he received the instruction to live “in this country” for good. <!-- F10 F11 -->
-
-## Departure
-Srila Bhaktivedanta Swami left this world in 1977, on the Gaura Chaturthi of the month of Damodara. His appearance day
-is celebrated on the Krishna Navami of the month of Hrishikesha — Nandotsava, the day after Janmashtami[^4].
-<!-- F12 -->
 
 ## Legacy
 To all his followers he left a legacy of love, not of law. He gave to everyone, yet searched for the one who would
@@ -457,5 +570,7 @@ reaches, however slightly, for pure devotion. <!-- F13 F14 I4 -->
 [^3]: “Our Teachers” calls this temple “founded by Srila Rupa Gosvami”. According to the “Bhakti-ratnakara”
     (4.285–290), Rupa Gosvami revealed the Deity of Sri Sri Radha-Damodara and gave Him to Srila Jiva Gosvami.
 
-[^4]: The biography gives only the year of his departure (1977); the days of departure and appearance follow our
-    calendar (Sri Chaitanya Saraswat Math).
+[^4]: None of the biographies on which this article rests gives the day and place of his departure — only the year
+    (1977). The day follows our calendar (Sri Chaitanya Saraswat Math): the Gaura Chaturthi of the month of Damodara,
+    which in 1977 fell on 14 November; the place is given from generally known information. The anniversary of which
+    Srila Govinda Maharaj spoke also agrees with the calendar: in 2006 it was observed on 26 October.
