@@ -146,10 +146,27 @@ essay amazed many devotees of the Math: this little-known Bengali so deeply unde
 Vaishnavas and the position of the guru. His thought runs thus: whoever interprets the divine sound, shabda-brahma,
 by his own imperfect perception, without being trained under a genuine acharya, inevitably deviates from Vyasadeva,
 as the Mayavadis do, and cannot be a guru. He quoted the verse of the “Padma Purana”: “sampradaya-vihina ye mantras te
-nishphala matah” — a mantra received outside the disciplic succession is fruitless. The transcendent is not known by
-observation and experiment; it can only be heard — as sound descending through Sri Gurudeva and Sri Vyasadeva. And
-therefore, he concluded, “to remove the disagreements among us, born of our unruly nature, we must surrender this
-very day at the feet of the representative of Sri Vyasadeva.” <!-- F44 Q2 -->
+nishphala matah” — a mantra received outside the disciplic succession is fruitless. “We cannot know anything of
+the transcendental region by our limited, perverted method of observation and experiment”; it can only be heard —
+“the transcendental sound transmitted from that region to this, through the unadulterated medium of sri gurudeva or
+Sri Vyasadeva.” And therefore, he concluded, “we should surrender ourselves today at the feet of the representative of
+Sri Vyasadeva for the elimination of all our differences bred by our unsubmissive attitude.” <!-- F44 Q2 -->
+
+An excerpt of this address — Abhay delivered it on behalf of the members of the Bombay branch of the Gaudiya Math and
+signed it “Abhay Charan Das, For Members, Sri Gaudiya Math, Bombay” — half a century later became the preface to
+Srila Sridhar Maharaj’s book “Sri Guru and His Grace”. “Sixty-two years ago, on this auspicious day,” he said, “the
+acharyadeva made his appearance by the call of Thakur Bhaktivinoda at Sri Ksetra, Jagannatha Dhama at Puri”; and to
+honour him is no sectarian concern: “There is only one guru, who appears in an infinity of forms to teach you, me and
+all others.” Srila Bhaktisiddhanta is not the guru of a sectarian institution but “the jagad-guru, or the guru of all
+of us: the only difference is that some obey him wholeheartedly, while others do not obey him directly.” He is “the
+tenth disciplic representative from Sri Rupa Goswami”, and his advent day is honoured as Sri Vyasa-puja, “because the
+acharya is the living representative of Vyasadeva”. He is “our ‘eye-opener,’ our eternal father, our eternal
+preceptor and our eternal guide.” And for himself Abhay prayed to bear the lot due to his past misdoings, but to keep
+“this power of recollection: that I am nothing but a tiny servant of the Almighty Absolute Godhead, realized through
+the unflinching mercy of my divine master.” “In ten short years, Bhaktivedanta Swami Prabhupada inundated the world
+with Krishna Consciousness,” write the compilers of the book; in this address “he smashes the sectarian misconception
+that the spiritual master is limited to a particular person, form, or institution, and establishes the universal
+conception of guru.” <!-- F121 F122 -->
 
 One of his Godbrothers nicknamed Abhay “kavi”, “poet-sage”, and the name stuck. But what mattered more was that Srila
 Bhaktisiddhanta read the poem. It struck at the very spearhead of his preaching, aimed against impersonalism, and it
@@ -452,6 +469,12 @@ Sridhar Maharaj — and later received sannyasa from him as well. And Sripad B. 
 Swami, foreseeing how his disciples would need higher guidance after his departure, advised them to turn to Sridhar
 Maharaj. <!-- F94 -->
 
+The compilers of Srila Sridhar Maharaj’s book “Sri Guru and His Grace” write of this too: Swami “advised his senior
+disciples that if the need arose to consult higher spiritual authority after his disappearance, his senior
+godbrother, Srila Sridhar Maharaj, should be consulted. On more than one occasion he said, ‘I consider Srila Sridhar
+Maharaj to be my siksa-guru, instructing spiritual master, so what to speak of the benefit that others can have from
+his association.’” <!-- F123 -->
+
 What he meant by the word “shiksha-guru” is best explained by his own commentary on the “Sri Chaitanya-charitamrita”.
 Krishnadasa Kaviraja writes: “I know my instructing Guru as Krishna’s personal form. The Lord manifests Himself in
 this world in two forms: within, as the Supersoul in every heart, and without, as the best of Vaishnavas, the saintly
@@ -574,6 +597,23 @@ of divine mercy, who gave the world the sweetness of the “Srimad-Bhagavatam”
 feet of Radha and Krishna[^5]. <!-- F108 -->
 
 ## Legacy
+Just after his disappearance his senior disciples came to Sridhar Maharaj and asked his advice on how to guide the
+International Society for Krishna Consciousness; excerpts of these conversations entered the book “Sri Guru and His
+Grace”. “The disciple is like a lotus,” Sridhar Maharaj told them. “The spiritual master is like the water around the
+lotus… Your late gurudeva’s position is like water and Krishna is like the sun”: as long as the lotus floats on the
+water, the sun nourishes it, but without water that very sun will burn it. Before them, too, he glorified Swami
+Maharaj. To go with the Holy Name to every village was the design of ISKCON: “That was the aim of Bhaktivedanta Swami
+Prabhupada, and we understand and appreciate that.” “Bhaktivedanta Swami Prabhupada went the length and breadth of the
+world with Krishna consciousness. The fact that you have all come here is due to his earnestness.” Swami, he said,
+had laid stress among the Westerners on devotion to Nityananda and “distributed the key widely” to the treasures left
+in the scriptures. Those who had received the Holy Name from Swami and the gayatri from one of his disciples he
+advised to honour first of all Prabhupada, “who is the nama-guru, the guru of guru”, and then the diksha-guru.
+And when a devotee asked why the disciplic succession in the “Bhagavad-gita As It Is” contains only thirty-eight
+names, though the system is fifty centuries old, Sridhar Maharaj answered that our succession “follows the ideal, not
+the body”: it is a succession of instructing spiritual masters, and only the great stalwarts of the line are named in
+it. In the chart of the disciplic succession printed in the same book, the name of Srila Bhaktivedanta Swami stands in
+brackets beside that of Srila Sridhar Maharaj, after Srila Bhaktisiddhanta. <!-- F124 F125 F126 F127 F128 -->
+
 Speaking of the spiritual revolution, Srila Govinda Maharaj recalled that the teachings of Buddha and Shankara needed a long time before people accepted them, whereas Srila Swami Maharaj presented Krishna
 consciousness to the whole world in just a few years, and in the swiftness with which this happened “there is
 undoubtedly something supernatural”. So Mahaprabhu’s prediction was fulfilled: “In every town and village throughout

@@ -686,8 +686,8 @@ water, and Krishna like the sun: as long as the lotus floats on the water, the s
 very sun will burn it; to retain the memory of the guru in his separation is the highest test. With his disciples the
 acharya must have absolute authority, yet two dangers threaten him: partiality to his disciples at the expense of his
 godbrothers, and deviation; and the constitution of a society must not bind the acharya and stifle faith: “The giving
-of love will conquer more than the giving of law.” To those who had received the Holy Name from Bhaktivedanta Swami
-and the gayatri from one of his disciples he advised them to honour first of all Prabhupada, “who is the nama-guru, the guru
+of love will conquer more than the giving of law.” Those who had received the Holy Name from Bhaktivedanta Swami
+and the gayatri from one of his disciples he advised to honour first of all Prabhupada, “who is the nama-guru, the guru
 of guru”, and then the diksha-guru. Before them, too, he glorified Swami Maharaj. To go with the Name to every village
 was the design of ISKCON: “That was the aim of Bhaktivedanta Swami Prabhupada, and we understand and appreciate that.”
 “Bhaktivedanta Swami Prabhupada went the length and breadth of the world with Krishna consciousness. The fact that you

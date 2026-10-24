@@ -4,6 +4,8 @@
 далее — глава о Шридхаре Махарадже). Упоминания: T 92, 290, 295; T pdf 21 (оглавление); M pdf 6, M 93 (pdf 109) и
 цитаты его комментариев в M. B — нет. **N** — «Наши учителя» (ч. II, гл. 1 — его глава; упоминания: Введение,
 I.3, II.2, II.3, ч. III, примечания) — раздел «N» ниже (с F18).
+**SG** — «Sri Guru and His Grace» Шрилы Шридхара Махараджа (© 1983 Шри Чайтанья Сарасват Матх; приватно) — раздел «SG»
+ниже (F121–F128).
 
 Пагинация: T — печатная = pdf − 32; номер T 289 на странице-фотографии не напечатан (по счёту). Сверка по скану:
 T 289 (pdf 321 — фото, подпись «Srila A. C. Bhaktivedanta Swami Prabhupada»). OCR главы чистый, даты (1965, 1977) — без
@@ -612,6 +614,51 @@ Q12. Стих «Бхагавад-гиты» о предании (по смысл
 - N II.3, III — о Говинде Махарадже, российской миссии, интервью — сверх F110–F117 не о нём.
 - Прим. N 1, 3, 5–7, 12–21, 24–32 — пояснения терминов и ссылки; использованы при пунктах.
 - N I.1–I.3 (Рупа, Бхактивинод, Бхактисиддханта) — сверх F109 о нём нет; «Прабхупада» там = Бхактисиддханта (тёзка).
+
+## SG — «Sri Guru and His Grace» (2026-10-24; все пункты — +пров. (SG))
+Источник **SG** — «Sri Guru and His Grace» Шрилы Б. Р. Шридхара Махараджа (© 1983 Sri Chaitanya Saraswat Math; 5-е изд.
+2013, эл. 2023; приватно: `gauranga-private/sources/sri-guru-and-his-grace/`), прочитан целиком; ссылки — по главе. О нём:
+предисловие (его речь 1936 г.), вступление редакторов к главе «Separation from Sri Guru», слова Шридхара Махараджа в
+беседах, схема преемственности. Оценки Шридхара Махараджа в самом предисловии нет (речь посвящена Бхактисиддханте);
+она — во вступлении к «Separation from Sri Guru» (F123).
+F121. +пров. (SG) Предисловие SG — выдержка из его речи на день явления Бхактисиддханты, напечатанной в “The Harmonist”
+  в 1936 г.; подпись: «Abhay Charan Das, For Members, Sri Gaudiya Math, Bombay»; речь произнесена от имени членов
+  бомбейского отделения Гаудия Матха («Gentlemen…»); «шестьдесят два года назад в этот благоприятный день» ачарья явился
+  в Пури по зову Бхактивиноды (1874 + 62 = 1936 ✓). Это то самое эссе 1936 г., о котором N (F44): заключительная фраза
+  у N — перевод фразы SG «we should surrender ourselves today at the feet of the representative of Sri Vyasadeva for the
+  elimination of all our differences bred by our unsubmissive attitude», так же — фраза о «методе наблюдения и
+  эксперимента»; места о шабда-брахме и стих «Падма-пураны» (Q2) в выдержку SG не вошли. [SG, «Preface»] (= F44; #mumbai)
+F122. +пров. (SG) Мысли речи (сверх F44): чествование гуру — не сектантское дело: «There is only one guru, who appears in
+  an infinity of forms to teach you, me and all others»; Бхактисиддханта — не гуру одной организации, а джагад-гуру,
+  гуру всех, — «the only difference is that some obey him wholeheartedly, while others do not obey him directly»; он —
+  десятый представитель преемственности от Шри Рупы; день — Вьяса-пуджа, ибо ачарья — живой представитель Вьясадевы;
+  учение Чайтаньи исказили «some unscrupulous persons», а ачарья спас от этого; гуру — «our “eye-opener,” our eternal
+  father, our eternal preceptor and our eternal guide»; его молитва: пусть он несёт то, что заслужил прошлыми проступками,
+  но помнит, «that I am nothing but a tiny servant of the Almighty Absolute Godhead, realized through the unflinching
+  mercy of my divine master». Редакторы SG: в этой речи он «smashes the sectarian misconception that the spiritual master
+  is limited to a particular person, form, or institution, and establishes the universal conception of guru»; «In ten
+  short years, Bhaktivedanta Swami Prabhupada inundated the world with Krishna Consciousness». [SG, «Preface»]
+F123. +пров. (SG) Вступление редакторов к «Separation from Sri Guru»: советовал старшим ученикам, если после его ухода
+  понадобится высший духовный совет, обращаться к старшему духовному брату — Шридхару Махараджу; не раз говорил: «I
+  consider Srila Sridhar Maharaj to be my siksa-guru, instructing spiritual master, so what to speak of the benefit that
+  others can have from his association». [SG, «Separation from Sri Guru»] (= F94 (N: письмо — та же мысль; SG даёт её как
+  не раз сказанное, без письма — EN письма не заменён); @shridhara-maharaja F169)
+F124. +пров. (SG) Сразу после его ухода старшие ученики пришли к Шридхару Махараджу за советом, как вести ИСККОН; выдержки
+  из бесед — в SG (ученик — лотос, гуру — вода, Кришна — солнце; ачарья, его ученики и духовные братья; устав, не
+  сковывающий веру). [SG, «Separation from Sri Guru»] (= @shridhara-maharaja F170; ср. F94 — Авадхут Махарадж по N)
+F125. +пров. (SG) Слова Шридхара Махараджа о нём в беседах SG: замысел ИСККОН — с Именем обойти каждую деревню, «That was
+  the aim of Bhaktivedanta Swami Prabhupada, and we understand and appreciate that»; на Западе он особо подчёркивал
+  преданность Нитьянанде; «went the length and breadth of the world with Krishna consciousness. The fact that you have
+  all come here is due to his earnestness. He has gone to the upper world…»; «distributed the key widely». [SG, «The
+  Original Guru»; «”I Command You—Become Guru!”»; «The Line of Sri Rupa»] (= @shridhara-maharaja F171)
+F126. +пров. (SG) Шридхар Махарадж: тем, кто принял от него харинаму, а гаятри — от одного из его учеников, первым следует
+  почитать его — нама-гуру, «the guru of guru», затем дикша-гуру, затем всех прочих его учеников. [SG, «Nama Guru and
+  Mantra Guru»] (= @shridhara-maharaja F172)
+F127. +пров. (SG) Вопрос преданного: в его «Bhagavad-gita As It Is» в списке преемственности тридцать восемь имён, хотя
+  системе пятьдесят веков; Шридхар Махарадж: наша парампара — шикша-гуру-парампара, по идеалу, а не по телам; в ней
+  названы лишь великие столпы линии. [SG, «Instructing Spiritual Masters»]
+F128. +пров. (SG) В схеме преемственности SG он стоит в квадратных скобках рядом со Шридхаром Махараджем, после
+  Бхактисиддханты. [SG, «The Disciplic Succession»] (= @shridhara-maharaja F177)
 
 ## Смысл и наставления (мысли авторов — своими словами, кратко)
 I1. Совершенство и освобождение достижимы и без смирения, чистая же преданность стоит только на смирении и предании; у

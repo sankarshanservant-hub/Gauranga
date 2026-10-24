@@ -261,3 +261,41 @@ N без диакритики, перевод свой. Комментарий �
 1. **«Прапанна-дживанамритам»**: в обеих статьях (@bhaktivedanta-svami, @shridhara-maharaja) и в N — с «-м», а в
    GLOSSARY.md — “Шри Шри Прапанна-дживанамрита”. *Предложение:* привести GLOSSARY к форме статей и N («-дживанамритам»).
 2. **«Хазен-роуд»** (вопрос смены 1) — оставлено как в N. *Предложение:* так и оставить.
+
+## Пополнение по SG (2026-10-24)
+
+Источник **SG** — «Sri Guru and His Grace» Шрилы Б. Р. Шридхара Махараджа (© 1983 Sri Chaitanya Saraswat Math; приватно
+`gauranga-private/sources/sri-guru-and-his-grace/`), прочитан целиком. О нём — предисловие (выдержка из его речи 1936 г.),
+вступление редакторов к «Separation from Sri Guru», слова Шридхара Махараджа в беседах, схема преемственности.
+**Оценки Шридхара Махараджа в предисловии нет** — речь 1936 г. посвящена Бхактисиддханте; его слова о Шридхаре
+Махарадже приводят редакторы во вступлении к «Separation from Sri Guru» (F123).
+
+**Реестр:** +F121–F128 (`+пров. (SG)`), раздел «## SG — …», строка в шапке. Речь 1936 г. = эссе N (F44): SG даёт
+английский подлинник (выдержку без места о шабда-брахме и стиха «Падма-пураны»); подпись «Abhay Charan Das, For Members,
+Sri Gaudiya Math, Bombay»; «62 года назад» = 1936 ✓. Расхождений SG с N/T нет; сносок не добавлено.
+
+**EN-цитаты (п. 1 задания): заменено оригиналом SG — 1** (+1 пересказ переведён в цитату по тому же месту):
+- F44, заключение эссе: было (обратный перевод N) “to remove the disagreements among us, born of our unruly nature, we
+  must surrender this very day at the feet of the representative of Sri Vyasadeva.” → стало (SG, «Preface») “we should
+  surrender ourselves today at the feet of the representative of Sri Vyasadeva for the elimination of all our
+  differences bred by our unsubmissive attitude.” RU — по N без изменений: русская цитата N — перевод той же фразы SG.
+- F44, там же: пересказ «The transcendent is not known by observation and experiment…» → цитаты SG “We cannot know
+  anything of the transcendental region by our limited, perverted method of observation and experiment” и “the
+  transcendental sound transmitted from that region to this, through the unadulterated medium of sri gurudeva or Sri
+  Vyasadeva”; RU — соответственно цитаты N (txt 362: перевод тех же фраз SG; опечатка N «передавамый» → «передаваемый»).
+- Не заменено: письмо о шикша-гуру (F94) — та же мысль, что в SG (F123), но SG не говорит о письме («on more than one
+  occasion he said»); фраза SG дана отдельным абзацем (F123), EN письма — обратный перевод, как было. Прочие EN-цитаты
+  (F22–F116 по списку смен 1–2) в SG не встречаются.
+
+**Статья (RU = EN):** «“Печатай книги”» — цитаты эссе (F44) и новый абзац о речи как предисловии SG (F121 F122);
+«Шикша-гуру и духовный брат» — после письма (F94) абзац F123; «Наследие» — первым абзацем беседы старших учеников со
+Шридхаром Махараджем после 1977 г., его слова о Свами, нама-гуру, 38 имён “Бхагавад-гиты как она есть”, схема
+преемственности (F124–F128). EN-цитаты — дословно по SG (проверено скриптом), RU — наш перевод. Маркеры RU = EN; сноски
+1–6 без изменений. `check.py bhaktivedanta-svami` → OK.
+
+**Богословие:** из предисловия не взяты формулировки «the acharya has been identified with God Himself» (комментарий к ШБ
+11.17.27) — без пояснения допускают майявадское прочтение; «There is only one guru, who appears in an infinity of
+forms» — дана как в SG, в рамке «вселенского понимания гуру» (редакторы SG). Оценок других миссий нет: слова Шридхара
+Махараджа об ИСККОН — только одобрение замысла Свами.
+
+**Карточка:** works (речь 1936 г. — предисловие SG: F121 F122), sources.other — SG. `cards.py`, `lila-db/build.py` — 0 ошибок.
