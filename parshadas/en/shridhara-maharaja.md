@@ -189,7 +189,7 @@ First they stayed at a Math in Bengal, then in Benares, and finally in Vrindavan
 then he was sent to Delhi to collect donations. When a Math was founded at Kurukshetra, he was put in charge of it;
 for two or three years he laboured there alone — Kurukshetra is deserted except on the days of solar eclipses, when
 hundreds of thousands of pilgrims flock there. Then a Math was established in Delhi, and he headed it; later he
-preached in Shimla and other places. <!-- F70 -->
+preached in Shimla and other places. <!-- F70 F159 -->
 
 Then Srila Bhaktisiddhanta sent them to Madras. The party lived in a rented house; it was led by the senior sannyasi,
 Sripad Bon Maharaj. He himself was known as “Sri Ramendrasundar Bhattacharya, Bachelor of Arts”: he addressed the
@@ -204,9 +204,9 @@ scriptures and spiritual insight, he called him shastra-nipuna, “expert in the
 once niveditatma, “a pure soul wholly surrendered to the Supreme”. In October 1930, at the first Gaudiya Math on
 Ultadanga Road, Srila Bhaktisiddhanta gave him sannyasa and the name “Srimad Bhakti Rakshaka Sridhar” — “Guardian of
 Devotion” — for his supreme devotion and strict fidelity to the ideals of the Rupanuga Sampradaya. The guru saw in him
-the strength to guard the line of the Gaudiya Vaishnavas against distortion. His own disciple, the translator of one
-of the biographies, also calls him “sarva-shastra-siddhanta-vit” — knower of the conclusions of all scriptures.
-<!-- F72 F73 F8 F10 -->
+the strength to guard the line of the Gaudiya Vaishnavas against distortion. The translator of one of the
+biographies — a disciple both of his and of Srila Bhaktivedanta Swami — also calls him “sarva-shastra-siddhanta-vit”,
+knower of the conclusions of all scriptures. <!-- F72 F73 F8 F10 F40 -->
 
 When Bon Maharaj left to preach in England, he took charge of the Math in Madras. Srila Bhaktisiddhanta wanted to send
 him to London too, but he replied: “I am not fit for this. I do not understand their pronunciation, and I have no wish
@@ -246,7 +246,7 @@ least one person able to present his conclusions — bhakti-siddhanta. <!-- F17 
 
 Srila Sridhar Maharaj himself recalled that he composed the poem about a year before his guru’s departure. When he
 read it to Srila Bhaktisiddhanta, the latter remarked, “You have chosen the style very well.” Later he heard the guru
-tell Sripad Shrauti Maharaj that the poem was so beautiful, and it was not written by him: its author was Srila
+tell Sripad Shrauti Maharaj that the poem was beautiful indeed and had not been written by him: its author was Srila
 Bhaktivinoda Thakura himself, who had revealed his work through him — “to me this is perfectly clear.” And to Sriyukta
 Aprakrita Prabhu Srila Bhaktisiddhanta said, “I am glad that my message will survive me — I see the siddhanta in this
 verse.” Here is the ninth verse of the poem, on Srila Bhaktivinoda’s most hidden gift: <!-- F78 -->
@@ -280,7 +280,7 @@ skilled singer and hesitated in embarrassment; then Kunjabihari Vidyabhushan —
 Math, later Sripad Bhakti Vilasa Tirtha Maharaj — asked a brahmachari with a good voice to sing. But Srila
 Bhaktisiddhanta said, “I do not want beautiful singing — I want to hear this bhajan from Sridhar Maharaj.” Everyone
 was stunned. Deeply moved, Sridhar Maharaj began to sing, and the guru said, “I am happy.” Then he told others to sing
-Srila Bhaktivinoda’s song “*tuhu doyā-sāgara tāraite prāṇī*” and others[^5]. <!-- F80 F16 -->
+Srila Bhaktivinoda’s song “*tuhu doyā-sāgara tāraite prāṇī*” and others[^5]. <!-- F80 F16 F160 -->
 
 Srila Sridhar Maharaj himself recalled: “When Prabhupada fell ill, I was at his bedside serving him. Exactly one day
 before his departure he called me and asked me to sing ‘Sri Rupa-manjari-pada’.” He was not yet used to leading
@@ -328,7 +328,7 @@ needs the blessing of the dhameshvara, the Lord of the dham — Nityananda Prabh
 place of Nityananda’s appearance, and prayed: “You are patita-pavana, the saviour of the fallen. I pray for Your
 mercy. Allow me to spend the rest of my days in Koladvipa, in Navadvip-dham, where I can find shelter.” And suddenly
 he heard a voice within: “You pray for the mercy of Nityananda Prabhu and want to win His favour?” Nityananda saves
-the fallen — while he himself did not wish to help others; how could he hope for His compassion? He pondered this
+the fallen, while the one praying had no wish to help others — how could he hope for His compassion? He pondered this
 long and at last surrendered to the will of Nityananda Prabhu — and came to Navadvip. <!-- F85 F86 -->
 
 In Navadvip he rented a room for two rupees a month. By day he studied the shastras; in the evening he chanted the
@@ -354,11 +354,11 @@ Helping everyone, he did not, however, overexert himself: the “Bhakti-rasamrit
 limbs of bhakti, warns against superfluous undertakings — not to build too many temples, not to hold large preaching
 programmes — and he would quote a verse from it[^6]:
 
-*bahu-granthakalābhyāsa-vyākhyā-vāda-vivarjanam*  
+*bahu-grantha-kalābhyāsa-vyākhyā-vāda-vivarjanam*  
 *vyavahāre ’py akārpaṇyaṁ śokādy-avaśa-vartitā*
 
-“Giving up the study of many books and arts, of commentaries and disputes; generosity in worldly dealings; not
-yielding to grief and the like.” <!-- Q6 -->
+“Giving up the study of many books and arts, of commentaries and disputes; freedom from meanness and faint-heartedness
+in worldly dealings; not yielding to grief and the like” (“Bhakti-rasamrita-sindhu”, 1.2.79–80). <!-- Q6 -->
 
 This very rule had once puzzled him. Reading the “Bhakti-rasamrita-sindhu” with his disciples, Guru Maharaj came to
 the sixty-four limbs of devotion — yet he himself preached widely, collected huge sums and built temples. What would
@@ -415,8 +415,8 @@ science on the evidence of the shastras. <!-- F26 F99 -->
 In Sanskrit he composed other outstanding works as well: the “Prabhupada-padma-stavakah”, a poem in glorification of
 Srila Bhaktisiddhanta, and the “Sri Sri Prema-dhama-deva-stotram”, an exceedingly beautiful poem on the deeds and
 teachings of Sri Chaitanya Mahaprabhu; Akinchana Krishnadasa Babaji used to say that Srila Rupa Gosvami himself is
-present in it. Sridhar Maharaj wrote many songs, prayers and commentaries in Bengali and Sanskrit; among the most
-important are his commentaries on Srila Bhaktivinoda’s “Sharanagati” and his Bengali translations of the
+present in it. Sridhar Maharaj composed a wealth of songs, prayers and commentaries, both Bengali and Sanskrit; foremost
+among them are his commentaries on Srila Bhaktivinoda’s “Sharanagati” and his Bengali translations of the
 “Bhagavad-gita” and the “Bhakti-rasamrita-sindhu”. <!-- F98 F27 -->
 
 Krishnadasa Babaji often visited Hapania, Sridhar Maharaj’s birthplace, and would ask the villagers, “Is this where
@@ -489,7 +489,7 @@ donations.” By the recollections of others, Abhay often accompanied Sridhar Ma
 the mridanga, and when Sridhar Maharaj was ill he led the party himself — singing kirtana and lecturing on the
 “Srimad-Bhagavatam”. With him Abhay also discussed his misfortunes — failures in business and discord in the family —
 seeking their spiritual benefit, and he highly valued his gift of bringing out the very essence of the scriptures.
-<!-- F107 F108 F109 -->
+<!-- F107 F108 F109 F161 -->
 
 Once in Bombay they received a sannyasi of the Gaudiya Math who had returned from Europe: to their surprise, he had
 neither tridanda, nor shikha, nor sannyasi dress. He said that in the West he had been asked questions that could not
@@ -548,8 +548,9 @@ Maharaj — visited him at the Chandrodaya Mandir in Mayapur. On 17 March 1973, 
 on one vyasasana, and Swami Maharaj recalled: “I am very fortunate: for a long time, from about 1930, I have had the
 opportunity to associate with Srila Sridhar Maharaj. Maharaj, do you remember the time when you came to Allahabad and
 we met?” — and added: “I always knew he is a real Vaishnava.” Sridhar Maharaj was unwell, and at his request Srila
-Govinda Maharaj spoke in his place. He began with a verse of Raghupati Upadhyaya: “To whom can I tell it, and who now
-will believe that the Brahman, in the groves on the Yamuna’s bank, is the beloved of the young cowherd wives?” — who
+Govinda Maharaj spoke in his place. He began with a verse of Raghupati Upadhyaya, which Krishnadasa Kaviraja also
+quotes: “To whom shall I tell it, and who will believe me, that the Supreme Absolute Truth is the beloved of the young
+cowherd girls in the groves by the river Yamuna?” (CC, Madhya 19.98) — who
 would believe that Abhay Babu, the householder everyone knew from the Gaudiya Math programmes, had become a world
 acharya? And he said that Swami Maharaj accepted Sridhar Maharaj as his shiksha-guru. Swami Maharaj confirmed: “I love
 him as my own son, and his Gurudeva, Sridhar Maharaj, I consider my shiksha-guru.” “He glorified me, calling me ‘Om
@@ -630,11 +631,11 @@ youth will become a great saint and will deliver thousands of souls,” he foret
 When Srila Bhaktivedanta Swami was in Mathura, Keshava Maharaj told him that Sridhar Maharaj intended to publish a
 journal, the “Gaudiya Darshan”; and in his very first letter from America, addressed to Govinda Maharaj, Swami
 Maharaj rejoiced at the first issues received “from the Math of Sripad Sridhar Maharaj in Navadvip”: “He has an
-excellent assistant in young Govinda Maharaj, and I think this is a very fortunate choice.” <!-- F133 -->
+excellent assistant in young Govinda Maharaj, and I think this is a very fortunate choice.” <!-- F133 F162 -->
 
 A pro-rector of Calcutta University who had heard Gaurendu debate said to Sridhar Maharaj, “Pay attention to this
-youth. He will make your name glorious.” Once, because of a severe migraine, Sridhar Maharaj sent the twenty-one-year
--old Gaurendu in his place to speak on the “Srimad-Bhagavatam” at a memorial gathering in the house of the Calcutta
+youth. He will make your name glorious.” Once, because of a severe migraine, Sridhar Maharaj sent the twenty-one-year-old
+Gaurendu in his place to speak on the “Srimad-Bhagavatam” at a memorial gathering in the house of the Calcutta
 businessman Sri Satkari Banerjee; the host later said that the listeners — among them at least eight doctors of
 philosophy — were satisfied in the highest degree: “This boy has satisfied our intellectual hunger.” It was Satkari
 Banerjee who paid all the expenses of the installation of the Deities at the Sri Chaitanya Saraswat Math. In
@@ -706,15 +707,12 @@ qualified than I.” Shortly before his departure, seeing Goswami Maharaj off to
 his bedside, took him firmly by the shoulders and said: “Goswami Maharaj, this may be my last instruction to you... My
 sincere and ardent desire is — help Govinda Maharaj. Do you promise?” <!-- F145 -->
 
-The translator of one of the biographies, too, calls him and Srila Bhaktivedanta Swami his spiritual masters.
-<!-- F40 -->
-
 ## Last Years and Departure
 When he spoke of the Lord’s pastimes his speech was wondrous: his voice and every movement breathed love, and one
 disciple called him “beauty, sweetness and charm in motion”. In his later years devotees came from all over the world
 to hear from him the teaching of Srila Bhaktisiddhanta and the previous acharyas, and he spoke with them at length.
-These talks were recorded on audio and video, transcribed, and are published by the Sri Chaitanya Saraswat Math and
-his followers. <!-- F35 F36 -->
+His talks were preserved on tape and on film, then transcribed, and the Sri Chaitanya Saraswat Math and his followers
+publish them. <!-- F35 F36 -->
 
 Having handed over the post of acharya, he withdrew into his room and spent the last years of his manifest pastimes
 in deep experience of divine separation from the Lord and in longing to serve Sri Sri Radha-Govinda. In June 1988, as
@@ -776,8 +774,10 @@ audio archive (sridharmaharaj.ru). Many devoted followers carry his teaching thr
     of his departure, and “tuhu doya-sagara” was sung by Navina Krishna Vidyalankara. The account of Srila Govinda
     Maharaj and Srila Sridhar Maharaj’s own words (“exactly one day before his departure”) place it on the eve of the
     departure; we follow them here.
-[^6]: The verse quoted speaks of many books, commentaries and disputes; next to it in the same list stands the rule
-    not to take many disciples (cf. CC, Madhya 22.114: “One should not take a great number of disciples…”).
+[^6]: The verse quoted (“Bhakti-rasamrita-sindhu”, 1.2.79–80) speaks of many books, commentaries and disputes; the
+    rule not to bind oneself to disciples and not to embark on great undertakings (*śiṣyādy-ananubandhitvaṁ
+    mahārambhādy-anudyamaḥ*) stands in the same list a line earlier (1.2.78). Cf. CC, Madhya 22.114: “One should not
+    take a great number of disciples…”
 [^7]: The year of the founding is given in “Our Teachers”; the same book records his own recollection that he first
     came to the donated land on the day of the Ratha-yatra in 1942. According to one of the biographies, the Math was
     founded soon after Srila Bhaktisiddhanta’s departure.
