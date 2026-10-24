@@ -91,7 +91,7 @@ relations:
   - {type: companion, who: "@bhagavan-acharya", facts: [F52], note: "С сыном Рагхунатхой (БР 10.382, у T). ⚠ тег — Бхагаван Ачарья из Пури; у T это он же (Халисахар)."}
   - {type: companion, who: "@vrindavana-dasa", facts: [F51, F52, F68]}
   # Божества
-  - {type: deity-served, who: "@gopinatha-deity-vrindavana", facts: [F8, F10, F74, F104, F105], event: ev-jahnava-gopinatha,
+  - {type: deity-served, who: "@gopinatha-vrindavana", facts: [F8, F10, F74, F104, F105], event: ev-jahnava-gopinatha,
      note: "B: как Ананга-манджари пребывает справа от Гопинатхи ≠ НВВ (lila-db): по левую руку; T 89: вошла в тело Радхики в Его храме."}
   - {type: other, who: "@gopinatha-deity-puri", facts: [F8, F105], note: "B: справа от Тота-Гопинатхи пребывает как Ананга-манджари; Гададхара служит Гопинатхе с Радхой и Ананга-манджари (Джахнавой)."}
   - {type: other, who: "@gaura-nitai-ambika", facts: [F53, F89], note: "Готовила им подношения в Амбике; в киртане явились Гаура и Нитьянанда (M)."}

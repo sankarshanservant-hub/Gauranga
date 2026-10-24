@@ -51,7 +51,7 @@ relations:
      note: "Взял его у Гададхары Пандита (B), дал дикшу, вверил служение Гаура-Нитаю; после праздника явления Господа дал имя «Хридая Чайтанья» (F54)."}
   - {type: other, who: "@gadadhara-pandita", facts: [F46], note: "По B отдал Гауридасу своего Хридаянанду (= @gadadhara-pandita:F87)."}
   - {type: lineage-successor, who: "@shyamananda", facts: [F56, F62], note: "Ученик его ученика Хридаи Чайтаньи; «слуга слуги Субалы» (T 213); далее Расикананда → … → Баладева Видьябхушана (T 221)."}
-  - {type: servant, who: "@gangadasa-pujari-ambika", facts: [F52], note: "Пуджари Бара Гангадас, обнаруживший пустой трон."}
+  - {type: servant, who: "@baru-gangadasa", facts: [F52], note: "Пуджари Бара Гангадас, обнаруживший пустой трон."}
   - {type: patron, who: "@krishnadasa-badagachhi", facts: [F18], event: ev-krishnadasa-badagachhi-separation, note: "M по комментарию Бхактивиноды: «царь Кришнадас, сын Хариходы» всегда поддерживал Гауридаса."}
   # гости Амбики
   - {type: other, who: "@virabhadra", facts: [F58], note: "Посетил дом Гауридаса по пути во Вриндаван (M 14)."}

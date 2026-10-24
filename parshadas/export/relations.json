@@ -3805,7 +3805,7 @@
  {
   "from": "@gauridasa-pandita",
   "type": "servant",
-  "who": "@gangadasa-pujari-ambika",
+  "who": "@baru-gangadasa",
   "facts": [
    "F52"
   ],
@@ -6431,7 +6431,7 @@
  {
   "from": "@jahnava",
   "type": "deity-served",
-  "who": "@gopinatha-deity-vrindavana",
+  "who": "@gopinatha-vrindavana",
   "facts": [
    "F8",
    "F10",
@@ -9769,13 +9769,13 @@
  {
   "from": "@pundarika-vidyanidhi",
   "type": "spouse",
-  "who": "@ratnavati",
+  "who": "@ratnavati-pundarika",
   "facts": [
    "F5",
    "F9",
    "F70"
   ],
-  "note": "Женой его называют комм. Бхактисиддханты к ЧБ Ади 2.36–37, B 748 и T 52; ГГД 57 допускает оба чтения; T 44 и M — Ратнавати жена Мадхавы Мишры, мать Гададхары (⚠Б2)."
+  "note": "Женой его называют комм. Бхактисиддханты к ЧБ Ади 2.36–37, B 748 и T 52; ГГД 57 допускает оба чтения; T 44 и M — Ратнавати жена Мадхавы Мишры, мать Гададхары (⚠Б2). В lila-db — отдельный тег от @ratnavati (матери Гададхары), см. lila-db/review/tags-2026-10-24.md."
  },
  {
   "from": "@pundarika-vidyanidhi",
