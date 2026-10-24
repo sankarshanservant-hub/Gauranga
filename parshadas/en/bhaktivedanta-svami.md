@@ -171,6 +171,67 @@ Srila Sridhar Maharaj, Srila Bhaktivedanta Swami, Bhakti Prajnana Keshava, Bhakt
 Madhava, Bhakti Pramoda Puri, Bhakti Saranga Goswami and many others; but, the book says, only one of them succeeded
 in fully carrying out his wish for the West — Srila Bhaktivedanta Swami. <!-- F109 -->
 
+## “Back to Godhead”
+Carrying out his guru’s command, Abhay began writing commentaries on the “Bhagavad-gita”, and then conceived the idea
+of publishing at his own expense a journal, “Back to Godhead”, on the philosophy of the Gaudiya Vaishnavas. He
+thought out, wrote and typed its articles himself, alone, in his flat. He was living in Calcutta then and rented two
+houses on Sitakanta Banerjee Lane: in one lived his family, in the other was his pharmaceutical laboratory. The upper
+rooms of the laboratory he gave to his dear Godbrother Sridhar Maharaj and his disciples — among them the young
+Gaurendu Brahmachari, the future Srila Govinda Maharaj. Thus Sridhar Maharaj’s Calcutta centre was housed in his home
+for many years[^2]. <!-- F49 F50 -->
+
+It was Gaurendu’s guru who told him to study the “Gita” under Abhay. “Guru Maharaj told me to study the ‘Srimad
+Bhagavad-gita’ under Srila Swami Maharaj at the times when he himself was away from Calcutta,” Srila Govinda Maharaj
+recalled. Abhay brought out two or three issues of the journal, but there were no funds to go on; huge stacks lay in
+his room, and no one offered to distribute them. Then he said to Gaurendu: “Take the journal and distribute it, going
+from door to door.” “So I became the first distributor of that journal,” Srila Govinda Maharaj related. “I did not
+know a word of English, but I was very proud of the chance to distribute that journal.” Even then, in Calcutta,
+Abhay at once saw unusual spiritual qualities in the youth. <!-- F51 F102 -->
+
+In those same years he was translating the “Bhagavad-gita” into English and writing a commentary on it, discussing it
+with Sridhar Maharaj. “When Srila Bhaktivedanta Swami Prabhupada began his translation of the ‘Bhagavad-gita’, he
+consulted me on many points,” Sridhar Maharaj said in March 1982. It was an enormous labour, but the manuscript was
+burnt through an employee’s carelessness, and in America he had to translate the “Gita” and write the commentary all
+over again. <!-- F52 -->
+
+The times were hard: India had lived through the Second World War, the post-war crisis and partition into two states.
+Educated people and officials took almost no interest in the journal. Abhay himself went to the press to read the
+proofs, himself printed the journal and himself distributed it. He also tried to found a “League of Devotees” — the
+forerunner of the future International Society for Krishna Consciousness — and grew ever more convinced that only a
+spiritual revival could lead civilisation out of its crisis. <!-- F53 -->
+
+Srila Govinda Maharaj recalled that they lived then in Abhay’s house among Hindus, while right next door the Muslim
+houses began. Clashes raged nearby, and at night bandits attacked homes. Abhay was much alarmed and once told Gaurendu
+that bottles of incendiary mixture were kept in the attic: if they were attacked, he was to throw them at the
+attackers. “Such were the conditions we lived in then, but afterwards, by the Lord’s mercy, it all came to an
+end.” <!-- F54 -->
+
+Starting the preaching was not easy. “Since he was a grihastha at that time, a family man, and I was a brahmachari in
+saffron,” Srila Govinda Maharaj related, “he taught me a few shlokas from the ‘Srimad-Bhagavatam’ and at public
+lectures gave me the vyasasana. ‘Recite these verses,’ he would say, ‘and then I will explain them to the
+audience.’ That is how he began his preaching. His eagerness to spread Krishna consciousness was
+immense.” <!-- F55 -->
+
+## Vrindavana and Sannyasa
+The years went by. His children grew up and became independent, and the pharmaceutical business, once profitable,
+declined. His senior Godbrothers told Abhay that in this way the Lord, by His mercy, was freeing him from worldly ties
+so that he could give his whole life to the service of Krishna. By 1950 he had withdrawn from business, handing it
+over to his sons, and settled in Vrindavana, in the temple of Sri Sri Radha-Damodara, whose Deity Srila Rupa Gosvami
+had revealed[^3]. Here he began the chief work of his life — an English translation, with commentary, of the
+many-volumed “Srimad-Bhagavatam”, eighteen thousand verses. He chose the “Bhagavatam” as the most important and
+authoritative Vaishnava scripture: he needed books for preaching, and he wanted not only to publish them but to bring
+them to the West. <!-- F56 -->
+
+The title “Bhaktivedanta”, later known throughout the world, was given to Abhay Charan De by Srila Sridhar Maharaj.
+After Srila Bhaktisiddhanta’s departure the Gaudiya Math split into several missions, and many senior Vaishnavas took
+shelter of Sridhar Maharaj. People came to him for advice on difficult questions; almost all the senior disciples of
+Srila Bhaktisiddhanta took sannyasa from him, and others asked him from whom they should take it. So Abhay Charan
+Prabhu, too, turned to Sridhar Maharaj — and received the name “Bhaktivedanta”. <!-- F57 -->
+
+In 1959 he was given sannyasa by Sripad Bhakti Prajnana Keshava Maharaj, one of the senior disciples of Srila
+Bhaktisiddhanta and the first sannyasa disciple of Sridhar Maharaj. He kept for him the title “Bhaktivedanta” and gave
+him the name “Swami”. So Srila A. C. Bhaktivedanta Swami began his great service. <!-- F58 -->
+
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 To his followers he was father and friend. The biographer sees in him a shaktyavesha-avatara — an envoy invested with
@@ -215,7 +276,7 @@ dance. <!-- F15 F16 F17 -->
 
 ## Departure
 Srila Bhaktivedanta Swami left this world in 1977, on the Gaura Chaturthi of the month of Damodara. His appearance day
-is celebrated on the Krishna Navami of the month of Hrishikesha — Nandotsava, the day after Janmashtami[^2].
+is celebrated on the Krishna Navami of the month of Hrishikesha — Nandotsava, the day after Janmashtami[^4].
 <!-- F12 -->
 
 ## Legacy
@@ -230,5 +291,13 @@ reaches, however slightly, for pure devotion. <!-- F13 F14 I4 -->
     of Hrishikesha, Nandotsava — follows our calendar (Sri Chaitanya Saraswat Math); it agrees with the date of
     1 September 1896.
 
-[^2]: The biography gives only the year of his departure (1977); the days of departure and appearance follow our
+[^2]: “Our Teachers” speaks of this in different ways: in one place it says that Sridhar Maharaj and the young
+    Gaurendu lived there “for several years”; in another Srila Govinda Maharaj recalls that the Calcutta branch of the
+    Sri Chaitanya Saraswat Math was housed in his home at his request “for ten years”. He himself, in his speech of
+    1973, says that Sridhar Maharaj lived in his house “for many years”.
+
+[^3]: “Our Teachers” calls this temple “founded by Srila Rupa Gosvami”. According to the “Bhakti-ratnakara”
+    (4.285–290), Rupa Gosvami revealed the Deity of Sri Sri Radha-Damodara and gave Him to Srila Jiva Gosvami.
+
+[^4]: The biography gives only the year of his departure (1977); the days of departure and appearance follow our
     calendar (Sri Chaitanya Saraswat Math).
