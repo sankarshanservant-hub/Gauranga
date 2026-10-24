@@ -226,11 +226,10 @@ Dhyanachandra, Chaitanya Dasa and Manohara Dasa. The Madhva acharya Vyasatirtha 
 biography, fourteen generations after Madhva; a Vallabhite tradition even tells that, as head of the “great seat” of the
 Madhva sampradaya, he offered that seat to Vallabha. <!-- F5 F6 -->
 
-A verse of the “Padma Purana,” quoted in both the “Gaura-ganoddesha-dipika” and the “Bhakti-ratnakara,” says:
-“Mantras received outside a sampradaya are fruitless”; in the age of Kali the earth is purified by
-the Vaishnavas of four sampradayas — of Sri, Brahma, Rudra and Sanaka. Their first acharyas — Ramanuja, Madhva,
-Vishnusvami and Nimbarka — took as their original gurus Lakshmi, Brahma, Rudra and the Sanat-kumaras respectively.
-<!-- Q6 -->
+A verse of the “Padma Purana,” quoted in both the “Gaura-ganoddesha-dipika” and the “Bhakti-ratnakara,” says: “Mantras
+received outside a sampradaya are fruitless”; in the age of Kali the earth is purified by the Vaishnavas of four
+sampradayas — of Sri, Brahma, Rudra and Sanaka. Their first acharyas — Ramanuja, Madhva, Vishnusvami and Nimbarka — took
+as their original gurus Lakshmi, Brahma, Rudra and the Sanat-kumaras respectively. <!-- Q6 -->
 
 Madhavendra Puri accepted the sampradaya of Sri Madhvacharya and Vaishnava sannyasa. Mahaprabhu accepted Madhva's
 sampradaya because the eternal form of God, full of being, knowledge and bliss, which Madhva upheld, is the root of

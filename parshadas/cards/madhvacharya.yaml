@@ -29,25 +29,26 @@ origin:
   note: "Отец — Мадхьягеха Бхатта."
 relations:
   - {type: sannyasa-guru, who: "@achyutapreksha", facts: [F13, F15, F26], note: "Санньяса в 12 лет; позже Мадхва обратил его в вайшнавизм — «гуру стал учеником»."}
-  - {type: guru, who: "@vyasa", facts: [F4, F20, F21, F22], note: "ГГД (по T): дикша в мантру Кришны от Вьясы; M: встреча в Бадарикашраме, одобрение «Гита-бхашьи», шалаграма «Аштамурти»."}
+  - {type: guru, who: "@vyasa", facts: [F4, F20, F21, F22, F67], note: "ГГД 22: дикша в мантру Кришны от Вьясы; M: встреча в Бадарикашраме, одобрение «Гита-бхашьи», шалаграма «Аштамурти»."}
   - {type: disciple, who: "@padmanabha-tirtha", facts: [F4, F24, F25, F45]}
   - {type: disciple, who: "@narahari-tirtha", facts: [F4, F8, F24, F25, F45]}
   - {type: disciple, who: "@madhava-tirtha", facts: [F4, F45]}
   - {type: disciple, who: "@akshobhya-tirtha", facts: [F4, F45]}
   - {type: disciple, who: "@trivikrama-pandita", facts: [F36, F43, F44]}
   - {type: disciple, who: "@satya-tirtha", facts: [F22, F35]}
-  - {type: other, who: "@narayana-panditacharya", facts: [F33, F44], note: "Сын Тривикрамы, автор «Мадхва-виджаи» — главного жизнеописания."}
+  - {type: other, who: "@narayana-panditacharya", facts: [F33, F44], note: "Сын Тривикрамы, автор «Мадхва-виджаи», которую Бхактиведанта Свами советует читать о Мадхве."}
   - {type: deity-served, who: "@krishna", facts: [F28, F29, F30, F31, F32], event: ev-udupi-tattvavadis, note: "Божество Кришны (Танцующий Гопал) из глыбы гопи-чанданы, установлено в Удупи."}
   - {type: lineage-successor, who: "@vyasatirtha", facts: [F6]}
   - {type: lineage-successor, who: "@lakshmipati-tirtha", facts: [F4, I4]}
-  - {type: lineage-successor, who: "@madhavendra-puri", facts: [F4, F53, I4], note: "Принял сампрадаю Мадхвы; первым внёс в неё према-бхакти в шрингара-расе (Бхактивинода, Бхактисиддханта)."}
-  - {type: lineage-successor, who: "@mahaprabhu", facts: [F4, F53, I5], event: ev-udupi-tattvavadis, note: "Господь принял сампрадаю Мадхвы (B 544); в Удупи плясал перед Кришной Мадхвы."}
+  - {type: lineage-successor, who: "@madhavendra-puri", facts: [F4, F53, F67, F68, I4], note: "Принял сампрадаю Мадхвы; первым внёс в неё према-бхакти в шрингара-расе (Бхактивинода, Бхактисиддханта)."}
+  - {type: lineage-successor, who: "@mahaprabhu", facts: [F4, F53, F67, F68, F69, I5], event: ev-udupi-tattvavadis, note: "Господь принял сампрадаю Мадхвы (B 544); в Удупи плясал перед Кришной Мадхвы и указал таттвавади на карму и мукти в их практике, похвалив признание вечного облика Господа (ЧЧ Мадхья 9.250–278)."}
   - {type: lineage-successor, who: "@baladeva-vidyabhushana", facts: [F5, F48, F50, F56, F57, I6], note: "Сначала — санньяси школы Мадхвы; в «Прамея-ратнавали» — девять начал Мадхвы и цепь от него."}
   - {type: other, who: "@jiva-gosvami", facts: [F40, F49, F53, F54], note: "Опирался на «Бхагавата-татпарью» Мадхвы и стихи «Брахма-тарки»."}
   - {type: other, who: "@gopala-bhatta", facts: [F55]}
   - {type: other, who: "@ramanujacharya", facts: [F19, F49, F51, F52], note: "В Шрирангаме Мадхва счёл вишиштадвайту недостаточной против Шанкары."}
   - {type: opposed, who: "@shankaracharya", facts: [F14, F16, F17, F18, F41, F51], note: "Опровергал майяваду; противники — ачарьи Шрингери-матха."}
-  - {type: other, who: "@bhaktisiddhanta", facts: [F47, F59, F60, F61]}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F47, F59, F60, F61, F63, F64, F65, F66, F70]}
+  - {type: other, who: "@bhakti-vilasa-tirtha", facts: [F66], note: "Приём в Удупи 7.11.1957; следы стоп Махапрабху в Шрирангаме и Тирупати."}
   - {type: other, who: "@bhaktivinoda", facts: [F58, I4]}
 unnamed:
   - {who: "Мадхьягеха Бхатта — отец", type: father, facts: [F10, F11, F12]}
@@ -75,6 +76,7 @@ works:
   - {title: "«Махабхарата-татпарья» («Мокша-дхарма» у M)", facts: [F39]}
   - {title: "«Ньяя-виварана», «Карма-нирная», «Кришнамрита-махарнава»", facts: [F39]}
   - {title: "молитвы Кришне при обретении Божества", facts: [F29]}
+  - {title: "«Шатадушани» (по ГГД 22)", facts: [F67]}
 places: ["#udupi", "#kanyakumari", "#setubandha", "#ranga-kshetra", "#badarikashrama", "#godavari", "#kashi", "#kurma-kshetra"]
 places_facts: [F8, F9, F17, F18, F19, F20, F21, F22, F24, F28, F29, F33, F37]
 character:
@@ -85,12 +87,14 @@ character:
   - {trait: "строгость в поклонении Божеству и в соблюдении экадаши", facts: [F31]}
 significance: {facts: [F3, F4, F53, F54, I2, I4, I5, I6]}
 sources:
-  T: "4–5, 98, 113, 220–222, 227, 240, 249, 251–254, 257, 262, 266 (упоминания)"
-  M: "pdf 333–339 (глава, без печатных номеров); pdf 11, 15–16, 18; M 48"
-  B: "15, 27, 31, 171–172, 538–544, 569, 579, 619, 622–625, 980–993, 1038, 1126, 1142–1143; pdf 868, 874"
-  other: ["ГГД 22–24 (по T)", "«Прамея-ратнавали» 1.8", "ЧЧ Мадхья 9.245–249", "«Мадхва-виджая» (по M)", "коммент. Бхактиведанты Свами к ЧЧ Мадхья 9.245 (цит. M)"]
+  T: "4–5, 98, 113, 220–222, 227, 240, 249, 251–254, 256–257, 260, 262, 266, 269 (упоминания)"
+  M: "pdf 333–339 (глава, без печатных номеров; pdf 315–332 — глава о Ременудже); pdf 11, 15–16, 18; M 48"
+  B: "15, 22, 27–33, 66, 76, 171–172, 205–207, 538–544, 569–570, 579, 587, 619, 622–625, 850–851, 980–993, 1038, 1043, 1126–1128, 1136–1137, 1142–1144; pdf 868, 874"
+  other: ["ГГД 21–24", "«Бхакти-ратнакара» 5 (бенг.)", "«Прамея-ратнавали» 1.8 (по M и B)", "ЧЧ Мадхья 1.114, 9.11, 9.245–278", "«Мадхва-виджая» (по M)", "коммент. Бхактиведанты Свами к ЧЧ Мадхья 9.245 (цит. M)"]
 article: {ru: "parshadas/ru/madhvacharya.md", en: "parshadas/en/madhvacharya.md"}
 open_questions:
   - "Гуру: санньяса от Ачьютапрекши (M) и дикша в мантру Кришны от Вьясы (ГГД по T) (F4, F13)."
   - "Место рождения у M — «Тулунада»; название требует сверки с первоисточниками (F9)."
   - "M: «десять пунктов» Прамея-ратнавали, перечислено девять (F48)."
+  - "Счёт колен: по ГГД (Пурушоттама и Брахманья — двое) Мадхавендра — 15-й после Мадхвы, по БРК 5 — 14-й; Вьясатиртха у B — «14-й» (F6, F67, F68)."
+  - "Ачарья таттвавади, беседовавший с Господом, в ЧЧ не назван; «Вадираджа Тиртха из Содэ-матха» — лишь в речи на приёме 1957 г. (F66)."
