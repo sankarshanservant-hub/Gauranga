@@ -226,13 +226,82 @@ us that it is the original religion — jaiva-dharma, the religion of all souls.
 Together with Srila Bhakti Dayita Madhava, Bhakti Pradip Tirtha and Jajabar Maharaj he also went out collecting
 donations for the mission. <!-- F15 -->
 
+## Sarbhog and the Hymns to Srila Bhaktivinoda
+In March 1936 Srila Bhaktisiddhanta sent him with Srila Bhakti Dayita Madhava and others to Sarbhog in Assam, to
+prepare the installation of the Deities of Sri Sri Guru-Gauranga and Gandharvika-Giridhari. By the guru’s order he
+directed the ceremony and dressed and adorned the Deities beforehand. Seeing this, Srila Bhaktisiddhanta said, “The
+Deities are already installed,” and Sridhar Maharaj grew sorrowful, thinking he had committed an offence. He asked
+Srila Bhakti Dayita Madhava to write to the guru and beg forgiveness for him. The reply came: one who is surrendered
+commits no offence — the Lord does not see his faults. <!-- F12 F13 F14 -->
+
+Of Srila Bhaktisiddhanta’s disciples, two became especially known for their hymns to Srila Bhaktivinoda Thakura:
+Bhakti Vichar Jajabar wrote in Bengali, and Sridhar Maharaj in Sanskrit. In that same year, 1936, for the anniversary
+of Srila Bhaktivinoda’s departure, he composed the “Srimad-Bhaktivinoda-viraha-dashakam”, ten verses on separation
+from him, glorifying Bhaktivinoda and his place in the succession of Sri Chaitanya Mahaprabhu. The style and depth of
+the poem so struck Srila Bhaktisiddhanta that he said to his sannyasi disciples Sripad Bhaktiyadava Goswami Maharaj
+and Sripad Shrauti Maharaj: “It is Bhaktivinoda Thakura who speaks through him. I am glad that when I leave this world
+there will remain at least one person able to present the siddhanta in all its fullness.” According to one of the
+biographies, on reading these Sanskrit verses the guru said that he was now at peace: after him there would remain at
+least one person able to present his conclusions — bhakti-siddhanta. <!-- F17 F18 F77 F9 -->
+
+Srila Sridhar Maharaj himself recalled that he composed the poem about a year before his guru’s departure. When he
+read it to Srila Bhaktisiddhanta, the latter remarked, “You have chosen the style very well.” Later he heard the guru
+tell Sripad Shrauti Maharaj that the poem was so beautiful that it was not his: its author was Srila Bhaktivinoda
+Thakura himself, who had revealed his work through him — “to me this is perfectly clear.” And to Sriyukta Aprakrita
+Prabhu Srila Bhaktisiddhanta said, “I am glad that my message will survive me — I see the siddhanta in this verse.”
+Here is the ninth verse of the poem, on Srila Bhaktivinoda’s most hidden gift: <!-- F78 -->
+
+*śrī-gaurānumataṁ svarūpa-viditaṁ rūpāgrajenādṛtaṁ*  
+*rūpādyaiḥ pariveśitaṁ raghu-gaṇair āsvāditaṁ sevitam*  
+*jīvādyair abhirakṣitaṁ śuka-śiva-brahmādi-sammānitaṁ*  
+*śrī-rādhā-pada-sevanāmṛtam aho! tad dātum īśo bhavān*
+
+“Approved by Sri Gaura, understood by Svarupa, revered by Sanatana, the elder brother of Rupa; offered to the world by
+Rupa and his companions, relished and served by Raghunatha and his followers, guarded by Jiva and others, honoured by
+Shuka, Shiva, Brahma and the rest — the nectar of service to the feet of Sri Radha! O wonder: and this you have the
+power to bestow” (“Srimad-Bhaktivinoda-viraha-dashakam”, 9). <!-- Q4 Q1 -->
+
+Another poem of his, the “Srimad-Bhaktivinoda-dashakam”, was printed in the journal “Gaudiya” in July 1939. <!-- F19
+-->
+
+## The Guru’s Last Day
+Srila Bhaktisiddhanta left this world on 1 January 1937[^4]. Just before his departure he wished to hear from the
+lips of Srila Sridhar Maharaj Narottama Dasa Thakura’s bhajan “Sri Rupa-manjari-pada” — a hymn of the Gaudiya
+Vaishnavas that expresses the whole siddhanta, the highest mood of devotion, and the special position of Srila Rupa
+Gosvami. <!-- F79 -->
+
+Srila Govinda Maharaj told the story thus. The disciples took turns watching at the guru’s bedside, each for two hours
+a day, and Sridhar Maharaj chose the hardest time — from two to four in the morning, when sleep presses hardest. When
+relieved, he did not sleep but only rested: an hour later the arati would begin. On the day before his departure Srila
+Bhaktisiddhanta called together his closest disciples and, not seeing Sridhar Maharaj among them, said, “Call Sridhar
+Maharaj.” When he came, the guru asked, “Sridhar Maharaj, sing *śrī-rūpa-mañjarī-pada, sei mora sampada*.” Everyone
+understood that the guru would soon leave the world, and they hung on his every word. Sridhar Maharaj was not a
+skilled singer and hesitated in embarrassment; then Kunjabihari Vidyabhushan — secretary and manager of the Gaudiya
+Math, later Sripad Bhakti Vilasa Tirtha Maharaj — asked a brahmachari with a good voice to sing. But Srila
+Bhaktisiddhanta said, “I do not want beautiful singing — I want to hear this bhajan from Sridhar Maharaj.” Everyone
+was stunned. Deeply moved, Sridhar Maharaj began to sing, and the guru said, “I am happy.” Then he told others to sing
+Srila Bhaktivinoda’s song “*tuhu doyā-sāgara tāraite prāṇī*” and others[^5]. <!-- F80 F16 -->
+
+Srila Sridhar Maharaj himself recalled: “When Prabhupada fell ill, I was at his bedside serving him. Exactly one day
+before his departure he called me and asked me to sing ‘Sri Rupa-manjari-pada’.” He was not yet used to leading
+kirtana and lacked the resolve; Sriyukta Kunja Babu asked a brahmachari to sing, but the guru was displeased: “I do
+not need correct intonation or sweet sounds.” “And I had to sing ‘Sri Rupa-manjari-pada’. Someone said, ‘Thus
+Prabhupada has accepted you into the world of rasa-seva.’” <!-- F81 -->
+
+His godbrothers said many times afterwards — and Srila Govinda Maharaj heard it from them himself: “Before, we did not
+know how the transfer of authority takes place, but that day we witnessed it. Srila Prabhupada passed on the authority
+of the Rupanuga Sampradaya to Srila Sridhar Maharaj.” From then on they showed him the greatest reverence as the
+sampradaya-acharya of the Rupanuga line. <!-- F80 I3 -->
+
+
+
 
 
 
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 ## Sri Chaitanya Saraswat Math
-Some time after the departure of Srila Bhaktisiddhanta[^4] he founded his own temple — the Sri Chaitanya Saraswat
+Some time after the departure of Srila Bhaktisiddhanta[^6] he founded his own temple — the Sri Chaitanya Saraswat
 Math on the bank of the Ganges in Navadvip-dham. The Math stands in Kuliya, ancient Koladvipa, where Devananda Pandita
 lived — at the place called aparadha-bhanjana, “where offences are forgiven”: here Mahaprabhu forgave all who had
 once offended Him in Navadvip. <!-- F24 F25 -->
@@ -282,7 +351,7 @@ his followers. <!-- F35 F36 -->
 
 In his last days he was absorbed in the mood of separation and in longing to serve Sri Sri Radha-Govinda. Srila
 Bhakti Rakshaka Sridhar Deva Goswami Maharaj entered the eternal pastimes in 1988, on the Amavasya of the month of
-Sridhara[^5]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
+Sridhara[^7]. Many devoted followers carry his teaching through the world to this day. <!-- F37 F38 F39 -->
 
 [^1]: The day of his appearance is given in “Nashi uchitelya” (“Our Teachers”), a book of the Sri Chaitanya Saraswat
     Math; one of the biographies gives only the year and the place. That day was the Krishna Navami of the month of
@@ -292,7 +361,13 @@ Sridhara[^5]. Many devoted followers carry his teaching through the world to thi
     Ramendrasundar Bhattacharya, Bachelor of Arts”.
 [^3]: “Our Teachers” does not give the year of initiation: it says that in 1926 he left home and joined the
     mission. One of the biographies dates his initiation to 1927. The two accounts do not contradict each other.
-[^4]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
+[^4]: One of the biographies gives the year of Srila Bhaktisiddhanta’s departure differently in different chapters —
+    1936 and 1937.
+[^5]: According to one of the biographies, Srila Bhaktisiddhanta asked for this song on the morning of the very day
+    of his departure, and “tuhu doya-sagara” was sung by Navina Krishna Vidyalankara. The account of Srila Govinda
+    Maharaj and Srila Sridhar Maharaj’s own words (“exactly one day before his departure”) place it on the eve of the
+    departure; we follow them here.
+[^6]: One and the same biography gives the year of Srila Bhaktisiddhanta’s departure differently in different
     chapters — 1936 and 1937.
-[^5]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
+[^7]: According to the biography, “on the Amavasya of July”; according to our calendar, the Amavasya of the month of
     Sridhara, which in 1988 fell in August.
