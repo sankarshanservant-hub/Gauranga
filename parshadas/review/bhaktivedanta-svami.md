@@ -322,3 +322,54 @@ forms» — дана как в SG, в рамке «вселенского пон
   Махараджа (одобрение замысла), без оценок.
 - Сноски 1–6 подряд, RU = EN; маркеры RU = EN. `check.py bhaktivedanta-svami` → OK. Карточка не правилась. PDF
   пересобран (21 с.).
+
+## Письмо о шикша-гуру — оригинал (2026-10-24, по решению пользователя)
+Пользователь разрешил взять подлинный английский текст письма из изданий BBT (вместо обратного перевода с русского N).
+Найдено в Bhaktivedanta VedaBase, раздел Letters: https://vedabase.io/en/library/letters/letter-to-hrsikesa-2/
+(«Content used with permission of © The Bhaktivedanta Book Trust International, Inc.»).
+
+**Выходные данные:** Letter to Hrsikesa (ученик Свами, тогда во Вриндаване вместе с Ачьютанандой), Los Angeles,
+January 31st, 1969 (№ 69-01-31). Ответ на письмо Хришикеши от 9 января 1969 г. Начало письма в VedaBase утрачено
+(«[TEXT MISSING]»).
+
+**Абзац (дословно, по VedaBase):**
+
+> [TEXT MISSING] letter of January 9, 1969, I suspect that you have interest in taking instruction from some siksa
+> guru, but in this connection, because you are my disciple and I think, a sincere soul, it is my duty to refer you to
+> someone who is competent to act as siksa guru. This Bon Maharaja, perhaps you do not know, has been rejected by Guru
+> Maharaja. So I cannot recommend him as siksa guru. I think that he has no actual spiritual asset. For spiritual
+> advancement of life, we must go to one who is actually practicing spiritual life; not to some head of a mundane
+> institution, not to one who has offended his Spiritual Master in so many ways. I do not wish to go into all details
+> here, but I must inform you that this Bon Maharaja may be considered as a black snake, and at the time of His
+> Disappearance, my Guru Maharaja did not even wish to have him in His presence due to the character of this Bon
+> Maharaja. So if you are actually serious to take instructions from a siksa guru, I can refer you to one who is most
+> highly competent of all my god-brothers. This is B.R. Sridhara Maharaja, whom I consider to be even my siksa guru, so
+> what to speak of the benefit that you can have from his association. He is living in Navadvipa, and if you like, I
+> can give you letter of introduction as well as I will send him letter to allow you to stay there with him. So if you
+> and Acyutananda are not lost to the poison of Bon Maharaja, and are still serious about advancement of your
+> spiritual life, I will advise you to go to Sridhara Maharaja. Or else I do not know what will save you. So my advice
+> to you both is that you immediately leave the unhealthy and envious association of Bon Maharaja and either proceed
+> to Germany as I have instructed you, or at least go to someone who will be competent to act as siksha guru. This is
+> Sridhara Maharaja.
+
+Следующие абзацы (из них N берёт отдельные фразы): «When I was in India, Acyutananda, Ramanuga, and myself, with others,
+lived with Sridhara Maharaja, so Acyutananda knows him very well. He spared a big house for us and if both of you go
+there now, it will be very good for your spiritual benefit. Then I will feel that you are safe. Besides that, if you
+wish to live in India, you can make arrangements for this house so that other of your god-brothers may go there in the
+future. …» — «So don't be carried away by whims. It is my duty to save you. Leave Vrindaban, live peacefully with
+Sridhara Maharaja, if you do not wish to go to Germany, and thereby you will be spiritually enlightened. Please inform
+me immediately regarding what you have decided.»
+
+**Сверка с русским текстом N (II.1, „«Ты упадешь в обморок»“).** N даёт сокращённый перевод-пересказ, сводя три абзаца
+в один и опуская всё о Бон Махарадже и альтернативу «ехать в Германию». По смыслу о Шридхаре Махарадже N оригиналу не
+противоречит: «наиболее компетентный среди всех моих духовных братьев» (most highly competent of all my god-brothers),
+«кого даже я считаю своим шикша-гуру» (whom I consider to be even my siksa guru), «что уж говорить о благе…», «я буду
+знать, что ты в безопасности», «мы жили у Шридхара Махараджа». Оттенки: «живи счастливо» — в оригинале live peacefully
+(«живи мирно, спокойно»); «обретёшь духовное совершенство» — will be spiritually enlightened («будешь духовно
+просветлён»); фраза «Ради духовного продвижения мы должны идти к тому, кто живет подлинной духовной жизнью» в оригинале
+противопоставлена неназванному в N учителю. Существенного расхождения по смыслу нет — сноску в RU не ставили; RU оставлен
+по N, в обе статьи добавлены адресат и дата.
+
+**Правки:** реестр — F94 (`facts/bhaktivedanta-svami.md`) и F117 (`facts/shridhara-maharaja.md`): адресат, дата, место
+(испр. пров.). EN статей @bhaktivedanta-svami и @shridhara-maharaja — обратный перевод заменён дословными фразами
+оригинала со ссылкой «Letter to Hrsikesa, 31 January 1969»; RU — по N, с адресатом и датой.
