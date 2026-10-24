@@ -357,7 +357,8 @@ another Mahaprabhu with Lakshmi and Vishnupriya at His sides, and at Srivasa-ang
 According to "Our Teachers," the Thakura called the Babaji, his guru, to verify the discovery. The old man could no
 longer walk by himself, and a disciple carried him in a basket; but on seeing the place of Sri Chaitanya Mahaprabhu's
 appearance the Babaji leapt out of the basket and broke into dance, rejoicing and calling out the names of Sri Gaura. After
-that no doubt remained. The great joy that filled him the Thakura expressed in the "Sri Navadvipa-dhama-mahatmya," where
+that no doubt remained. The great joy that filled him the Thakura expressed in the "Sri Navadvipa-dhama-mahatmya" (according to other biographies it appeared earlier, in
+1887–1890; see below), where
 he told of events revealed to him: the book describes Srila Jiva Gosvami's pilgrimage through the holy places of
 Navadvipa-mandala under the guidance of Sri Nityananda Prabhu. <!-- F214 F215 -->
 
@@ -388,13 +389,13 @@ Mahendranatha Bhattacharya Vidyaranya, Satya Jivan Lahiri, Raja Vanamali Ray Bah
 Ghosh, Matilal Ghosh, Yatindranatha Chaudhuri, Mahendranatha Majumdar, the advocate Kishorilal Sarkar, Nalinaksha Datta,
 Kanailal Dey Bahadur, the Deputy Magistrate Navin Chandra Sen and Jagatchandra Ray. <!-- F99 -->
 
-Having left government service, the Thakura collected donations for a temple at the place of the Lord's appearance and
+According to "Our Teachers," having left government service, the Thakura collected donations for a temple at the place of the Lord's appearance and
 approached everyone — even those on whom he had once, as a judge, passed sentence; at the same time he preached the Holy
 Name widely. His efforts were not in vain: with the funds he collected the first building was erected at the holy place of
 appearance. To care for the dhama and serve it he formed a special committee, and later he entrusted the care of Mayapur
 to his son. <!-- F217 -->
 
-It was not easy to convince people that the true dhama had been found; moreover, no one lived there at the time. In due
+It was not easy, this book relates, to convince people that the true dhama had been found; moreover, no one lived there at the time. In due
 course a brick building was put up, where the worship of the Deity of Sri Chaitanya Mahaprabhu began; the real temple was
 built later. The brahmanas who cooked for the Deity did not wish to stay long in a deserted and unsafe place, and so that
 the service should not be interrupted, the Thakura went to great lengths: at times he himself prepared ganja for the cook
@@ -756,7 +757,7 @@ bhakti-siddhanta." <!-- F15 Q8 F204 -->
 style and depth of the poem struck him, and he said to his sannyasi disciples, Sripad Bhaktiyadava Gosvami Maharaj and
 Sripad Shrauti Maharaj: "It is Bhaktivinoda Thakura speaking through him." Sridhar Maharaj himself recalled that when he
 read the poem to his guru, the latter remarked: "You have chosen the style very well," and later said to Shrauti Maharaj:
-"Its author is Srila Bhaktivinoda Thakura himself, who has manifested his work through him. To me this is perfectly
+"…its author is Srila Bhaktivinoda Thakura himself, who has manifested his work through him. To me this is perfectly
 clear"; and to Sriyukta Aprakrita Prabhu he said: "I am glad that my message will survive me — I see the siddhanta in this
 verse." <!-- F225 -->
 
