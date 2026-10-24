@@ -591,8 +591,9 @@ above all an inner path, and each must walk it himself, relying on the mercy of 
 And among the chief principles proclaimed by Sri Chaitanya is “compassion for every soul, chanting of the Holy Name and
 service to the Vaishnavas”. <!-- F81 -->
 
-The book “Our Teachers” appeared in his lifetime and says nothing of his departure. The Sri Chaitanya Saraswat Math
-honours the day of his departure on the Gaura-dvadashi of the month of Vishnu[^8]. <!-- F70 -->
+The book “Our Teachers” appeared in his lifetime and says nothing of his departure. Srila Govinda Maharaj left this
+world and entered the eternal pastimes of the Lord on 27 March 2010, at 4:25 in the morning, in Kolkata. The Sri
+Chaitanya Saraswat Math honours this day on the Gaura-dvadashi of the month of Vishnu[^8]. <!-- F70 F101 -->
 
 [^1]: The date and place of his appearance are given in “Our Teachers”. By calculation, at sunrise on 17 December 1929
     the Krishna-pratipad was still running, and the dvitiya began in the afternoon; the book does not give the hour of
@@ -621,5 +622,6 @@ honours the day of his departure on the Gaura-dvadashi of the month of Vishnu[^8
     in “Our Teachers” the full name is stated outright.
 [^8]: “Our Teachers” was completed in 2007, in his lifetime, and does not speak of his departure. The day of
     remembrance follows our calendar (Sri Chaitanya Saraswat Math): the festival in honour of the day of his departure
-    falls on the Gaura-dvadashi of the month of Vishnu. The year and place of his departure are not named in the sources
-    on which this article is based.
+    falls on the Gaura-dvadashi of the month of Vishnu. The year, hour and place of his departure were supplied by the
+    mission (Sri Chaitanya Saraswat Math, 2026); by our calendar 27 March 2010 is the Gaura-dvadashi of the month of
+    Vishnu.
