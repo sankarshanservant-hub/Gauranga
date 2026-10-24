@@ -303,6 +303,119 @@ to the instructions of Sri Chaitanya Mahaprabhu; to build, in one of the holy pl
 for its members and for all people; to unite its members into one family and teach them a simple, natural way of
 life; and for all this to publish journals and books. <!-- F71 -->
 
+## Preaching Is the Essence
+“Books are the basis, practicality is the principle, preaching is the essence, and purity is the strength,” Srila
+Bhaktivedanta Swami used to say. From his very first days in America he returned to “Back to Godhead”, but now he
+entrusted the journal to his first disciples: they wrote the articles themselves, typeset, edited, printed and
+distributed it. The preaching was still his own, but he was no longer alone. <!-- F72 F73 -->
+
+In January 1967 a temple of Sri Sri Radha-Krishna opened in San Francisco, and a few months later the Swami himself
+installed there the Deities of Lord Jagannatha, Subhadra and Balarama. That summer his health forced him into a clinic
+for urgent treatment. As soon as he had recovered, he decided to visit India and took his first Western disciples with
+him — he lovingly called them his “dancing white elephants”. Before he left, his disciples told him they meant to open
+centres in Boston, Buffalo, Santa Fe and Los Angeles, and he was delighted. “The Hare Krishna mantra is like a big
+cannon,” he said. “Fire it so that everyone hears, and maya will flee the battlefield in fear.” <!-- F74 F75 -->
+
+On that journey, at the invitation of the custodians of Uddharana Datta’s temple in Saptagram, he went there with his
+American disciples. The whole suvarna-vanik community honours this temple, and as a child he had visited it with his
+parents; he tells of this himself in his commentary on the “Sri Chaitanya-charitamrita” (Adi 11.41). Of other days of
+the same journey — in Navadvipa, with Sridhar Maharaj — we shall speak below. <!-- F9 -->
+
+Meanwhile six American devotees set out to open a centre in London. The first months were hard; then they met George
+Harrison of the Beatles, and with his help recorded a disc of the Hare Krishna mantra at the Apple studio. By the time
+the Swami arrived in London, John Lennon and Yoko Ono had given the devotees part of their house. <!-- F76 -->
+
+From 1965 to 1970 he worked above all to strengthen the Society in America: if Americans accepted the philosophy of
+Krishna consciousness, he reasoned, the whole world would follow. In India his preaching had no success — his
+countrymen did not take Krishna consciousness seriously. Following the mood of his guru, he applied to the full the
+principle of yukta-vairagya given by Srila Rupa Gosvami: to accept everything favourable to the service of Krishna and
+reject everything unfavourable. He boldly put Western technology, capital and learning to the service of preaching —
+both in the West and in India itself, where he developed the holy places revered by the Gaudiya Vaishnavas. To this end
+he resolved to build three large temples in India: in Vrindavana, in Mayapur and in Bombay. <!-- F77 -->
+
+For twelve years, until his very departure, he travelled the world: fourteen times he circled the globe, personally
+guiding his growing movement. In those years he brought Krishna consciousness to almost every major city of the world,
+created a society of thousands of members and opened a hundred and eight temples on five continents — so the
+astrologer’s prediction made at his birth came true as well. He transplanted into foreign soil what many had thought to
+be merely an Indian faith, and showed in practice that the teaching of the Gaudiya Vaishnavas belongs to no single
+culture: it is the dharma of the soul, the eternal nature of everyone. Mahaprabhu’s living teaching, to which he gave
+the name “Krishna consciousness”, he carried farther than the Gaudiya thinkers of his time had thought
+possible. <!-- F78 F6 F7 -->
+
+To attack illusion, one of the biographers says, is the highest service to people: its price is humility in the face
+of ingratitude, and its reward is the dignity of the soul restored to many. What some sought by the sword and others by
+wealth he achieved with a humble heart, flooding the world with love of God — and a day will come when all nations sing
+his glory. <!-- I2 I3 -->
+
+In June 1971 he visited Moscow. His stay behind the “Iron Curtain” lasted only three days, yet even in that time he
+gained a follower — Ananta Shanti Prabhu, who then began to preach to his friends. His disciples carried the work on.
+They preached in the countries of Eastern Europe; in 1976 Gopal Krishna Goswami presented a set of his teacher’s books
+each to the Lenin Library and the Tashkent Library, and that same year lectures on bhakti-yoga and the chanting of the
+Hare Krishna mantra were given at a research institute in Vladimir. The Soviet authorities persecuted the preachers —
+arresting them, confining them in psychiatric hospitals — until, with the changes in the country, the persecution
+ceased. Today, thanks to the preaching of his disciples, there are thousands of devotees in Russia, and “Our Teachers”
+sees in this the fulfilment of the prediction of Srila Bhaktivinoda Thakura, who named Russia among the first countries
+that would accept Mahaprabhu’s teaching with all their heart. <!-- F87 F88 -->
+
+Those who knew him spoke above all of his humility. “This is the main point of everything he said: ‘I am the servant of
+the servant of the servant’,” recalled George Harrison. The Swami never laid claim to divinity, and Harrison admired his
+modesty and simplicity: “He was a perfect example of everything he spoke about.” His influence on the world, in
+Harrison’s words, is immeasurable: possessing nothing material, he made thousands of people devotees, and the movement
+he founded keeps growing even after his departure. The poet Allen Ginsberg confessed that in all their arguments he was
+always won over by the Swami’s charm — deeply personal and yet wholly selfless, born of complete devotion to God. The
+Swami told him about his teacher, about Chaitanya and the chain of disciplic succession, and seemed to work on his
+translations day and night. <!-- F80 -->
+
+Harvey Cox, professor of theology at Harvard University, wrote that at a venerable age, heeding the call of his
+spiritual master, the Swami willingly took on all the hardships of the journey to America; there are thousands of
+teachers, but he was “one in a thousand, perhaps even one in a million”. Shaligram Shukla, professor of linguistics at
+Georgetown University, said that for thousands of people he was an ideal embodied in a living being, answering the
+great questions of life by his very deeds. The historian of religion Thomas J. Hopkins noted that his example of
+devotion to God commanded attention — many young Americans followed him; he knew how to lead and was not afraid to set
+standards. “His voice was the voice of a seventy-year-old man. But when he spoke or sang, the whole atmosphere
+changed.” <!-- F81 -->
+
+Flawless humility and full surrender to the Lord were joined in him with high demands on his disciples; yet his
+insistence, too, was for the Lord’s sake — the active humility of one who carries out His will. Perfection and
+liberation can be reached even without humility, the biographer observes, but pure devotion stands on humility alone;
+Srila Bhaktivedanta Swami had both. <!-- F4 I1 -->
+
+## Books and the Name “Prabhupada”
+However often he moved from place to place, he never stopped writing — essays, articles, books on the science of
+Krishna consciousness. Among his books are “Bhagavad-gita As It Is” (1968), “Teachings of Lord Chaitanya” (1968),
+“Krishna, the Supreme Personality of Godhead” (in Russian, “The Source of Eternal Pleasure”, 1970), “The Nectar of
+Devotion” (1970), the “Sri Chaitanya-charitamrita” in seventeen volumes (1973–1975) and thirty volumes of the
+“Srimad-Bhagavatam” (1962–1977). In twelve years more than sixty volumes appeared; even in his lifetime they were
+translated into seventy-five languages and sold in tens of millions of copies, and in all, according to “Our Teachers”,
+more than a hundred and fifty million of his books have been distributed around the world. He gave thousands of
+lectures, wrote thousands of letters and held thousands of conversations with disciples, admirers and opponents, and
+many eminent scholars and public figures acknowledged his contribution. Wherever he stayed, he acquainted people with
+Vedic literature and cared for his disciples. So the command he had once heard on the bank of Radha-kunda was being
+fulfilled. <!-- F84 F79 -->
+
+In 1970 he founded the Bhaktivedanta Book Trust (BBT), which, according to “Our Teachers”, has become the largest
+publisher of Vedic literature. R. Subramanyam of New Delhi wrote of his translation of the “Srimad-Bhagavatam” that
+amid unceasing travels and countless duties the founder-acharya of ISKCON was translating this multi-volume Sanskrit
+work into English single-handed. “It is truly astonishing how he is able to do this alone… Is it not Vyasa Muni
+himself, reborn in our time to recast his old work in the world language of this age?” <!-- F85 F86 -->
+
+His works became a support for others too. Bhakti Vidhan Mahayogi Swami, translating into English one of the
+biographies of the Lord’s associates, used the BBT edition of the “Sri Chaitanya-charitamrita” with Srila Bhaktivedanta
+Swami’s translation and commentary; he calls both Srila Bhaktivedanta Swami and Srila Sridhar Maharaj his beloved
+spiritual masters. He also writes that Lochana Dasa’s song “parama karuna pahun dui jana”, on the mercy of Nitai and
+Gaurachandra, was especially dear to Srila Bhaktivedanta Swami. He explained it thus: Nitai-Gaura are the essence of
+all avataras, and the path They give is joyful — sing and dance. <!-- F15 F16 F17 -->
+
+“Prabhupada” was at first the name of Srila Bhaktisiddhanta Sarasvati, and later Srila Bhaktivedanta Swami too was
+honoured with it. Some disciples of Srila Bhaktisiddhanta disapproved of anyone but their guru being called so, but
+Sridhar Maharaj was very glad: “Yes, Prabhupada — he is fully worthy of this name.” Ordinarily, “Our Teachers”
+explains, devotees are addressed as “prabhu” and sannyasis as “prabhupada”, and the jati-gosvamis call all their gurus
+so, which is why India has many “prabhupadas”. But when Srila Bhaktisiddhanta preached Mahaprabhu’s teaching throughout
+India, the word took on a special meaning — “one who preaches the truth of Krishna consciousness throughout the
+world”; it was Srila Bhaktisiddhanta and Srila Bhaktivedanta Swami who gave it that meaning. Srila Prabhupada, as his
+followers have called him ever since, carried out his preaching in fulfilment of his guru’s will and spared no effort
+for it. <!-- F82 F83 -->
+
 <!-- СМЕНА 2: ниже — старый текст, заменить -->
 
 To his followers he was father and friend. The biographer sees in him a shaktyavesha-avatara — an envoy invested with
@@ -312,34 +425,12 @@ insistence, too, was for the Lord’s sake — the active humility of one who ca
 liberation can be reached even without humility, the biographer observes, but pure devotion stands on humility
 alone; Srila Bhaktivedanta Swami had both. <!-- F3 F4 I1 -->
 
-## Preaching in the West
-For twelve years, until his departure in 1977, he travelled the world, transplanting into foreign soil what many had
-thought to be merely an Indian faith. He showed in practice that the teaching of the Gaudiya Vaishnavas belongs to no
-single culture: it is the dharma of the soul, the eternal nature of everyone. He named Mahaprabhu’s living teaching
-“Krishna consciousness” and carried it farther than the Gaudiya thinkers of his time had thought possible. To attack
-illusion, the biographer says, is the highest service to people: its price is humility in the face of ingratitude,
-and its reward is the dignity of the soul restored to many. What some sought by the sword and others by wealth he
-achieved with a humble heart, flooding the world with love of God — and a day will come when all nations sing his
-glory. <!-- F6 F7 I2 I3 -->
-
-In 1967, back from America, he came at the invitation of the temple’s custodians to the temple of Uddharana Datta in
-Saptagram, bringing his American disciples. The whole suvarna-vanik community honours this temple, and as a child he
-had visited it with his parents; he tells of this himself in his commentary on the “Sri Chaitanya-charitamrita”
-(Adi 11.41). <!-- F9 -->
-
 ## His Godbrothers
 Among the disciples of Srila Bhaktisiddhanta, Srila Bhaktivedanta Swami — like Bhakti Prajnana Keshava, Bhakti
 Saranga Goswami, Bhakti Dayita Madhava, Bhakti Pramoda Puri and others — regarded Srila B. R. Sridhar Maharaj as his
 shiksha-guru. In a letter he writes that he accepts Sripad Sridhar Maharaj’s instruction “on my head”: he is his
 constant well-wisher, and after the departure of Srila Sarasvati Thakura it is fitting to follow his guidance; from
 him, too, he received the instruction to live “in this country” for good. <!-- F10 F11 -->
-
-Bhakti Vidhan Mahayogi Swami, translating into English one of the biographies of the Lord’s associates, calls both
-Srila Bhaktivedanta Swami and Srila Sridhar Maharaj his beloved spiritual masters, and relies on Srila Bhaktivedanta
-Swami’s translation of the “Sri Chaitanya-charitamrita” with commentary. He also writes that Lochana Dasa’s song
-“parama karuna pahun dui jana”, on the mercy of Nitai and Gaurachandra, was especially dear to Srila Bhaktivedanta
-Swami. He explained it thus: Nitai-Gaura are the essence of all avataras, and the path They give is joyful — sing and
-dance. <!-- F15 F16 F17 -->
 
 ## Departure
 Srila Bhaktivedanta Swami left this world in 1977, on the Gaura Chaturthi of the month of Damodara. His appearance day
