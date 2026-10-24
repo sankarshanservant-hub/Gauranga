@@ -9,7 +9,7 @@ is called Srila B. S. Govinda Dev-Goswami Maharaj or Srila Govinda Maharaj, and 
 Gurudev and Acharyadev. In his youth, at his initiation, his guru gave him the name Gaurendu Brahmachari.
 <!-- F1 F2 -->
 
-The whole life of Srila Sridhar Maharaj was an embodiment of sharanagati, surrender to the Lord, and in his mission
+The whole life of Srila Sridhar Maharaj was an embodiment of sharanagati, surrender to the Lord, and in the Math
 his most generous gift is said to be the sharanagata-bhakta in whom that highest ideal became a living example —
 Srila Govinda Maharaj. Sripad B. B. Avadhut Maharaj called him “the precious gift of Srila Sridhar Maharaj to the
 whole world”. The book “Our Teachers”, in which the Russian mission of the Sri Chaitanya Saraswat Math glorified “the
@@ -540,7 +540,7 @@ Bhaktivedanta Swami Maharaj — are his Gurus: “Srila Sridhar Maharaj is my di
 Bhaktivedanta Swami Maharaj, by the mercy of Srila Sridhar Maharaj, is also my shiksha-guru.” He had the good fortune
 to learn from many others as well, but these two are his principal guides, and the line is from Srila Bhaktisiddhanta
 Sarasvati Thakura. “I have no party attachments”: it does not matter who belongs to which party, or who lives in India
-and who in America — “I do not look for differences”; he preaches Krishna consciousness rather than sorting out who,
+and who in America — “I do not look for differences”; he preached Krishna consciousness rather than sorting out who,
 in his view, deserves trust. <!-- F88 F97 -->
 
 Without humility, patience and respect for others, he taught, spiritual progress is impossible: this path Mahaprabhu
