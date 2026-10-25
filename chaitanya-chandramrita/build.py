@@ -1,4 +1,5 @@
-"""Собирает русский перевод «Шри Чайтанья-чандрамриты» (ru/01–04.md) в MD, DOCX и PDF.
+"""Собирает перевод «Шри Чайтанья-чандрамриты» (ru/01–04.md, en/01–04.md) в MD, DOCX и PDF.
+Запуск: python3 build.py [ru|en] (по умолчанию оба).
 
 Использует функции разбора и вёрстки из ../govinda-kadacha/build.py.
 """
@@ -73,13 +74,13 @@ PREFACE_B = PREFACE.replace('*Перевод с санскрита на русс
 ## Оглавление""")
 
 
-def load_bhashya():
-    """{номер по изд. 1951: (тема, [абзацы])} из bss/b0*.md (нумерация бенгальского изд.)."""
+def load_bhashya(d='bss'):
+    """{номер по изд. 1951: (тема, [абзацы])} из bss/b0*.md или bss-en/b0*.md (нумерация бенгальского изд.)."""
     res = {}
-    for f in sorted(kb.re.sub('', '', x) for x in os.listdir(os.path.join(HERE, 'bss'))):
+    for f in sorted(os.listdir(os.path.join(HERE, d))):
         if not kb.re.match(r'b0\d\.md$', f):
             continue
-        text = open(os.path.join(HERE, 'bss', f), encoding='utf-8').read()
+        text = open(os.path.join(HERE, d, f), encoding='utf-8').read()
         for part in kb.re.split(r'^### ', text, flags=kb.re.M)[1:]:
             head, _, body = part.partition('\n')
             head = head.strip()
@@ -88,7 +89,7 @@ def load_bhashya():
                 continue
             n = int(head)
             lines = body.strip().split('\n')
-            tema = lines[0].split(':', 1)[1].strip() if lines and lines[0].startswith('ТЕМА') else None
+            tema = lines[0].split(':', 1)[1].strip() if lines and lines[0].startswith(('ТЕМА', 'THEME')) else None
             rest = '\n'.join(lines[1:] if tema is not None else lines)
             paras = [p.strip() for p in kb.re.split(r'\n\s*\n', rest) if p.strip()]
             key = n if n <= 74 else ('17b' if n == 75 else n - 1)
@@ -99,7 +100,10 @@ def load_bhashya():
 DROP_ANVAYA_NOTES = False
 
 
-def with_bhashya(text, bh):
+ANVAYA_NOTE = ('Из пословного толкования', 'From the word-for-word gloss')
+
+
+def with_bhashya(text, bh, lang='ru'):
     out = []
     for para in kb.re.split(r'\n\s*\n', text):
         out.append(para)
@@ -111,11 +115,14 @@ def with_bhashya(text, bh):
             if key not in bh:
                 continue
             tema, paras = bh[key]
-            lab = '**Гаудия-бхашья' + (' (бенг. изд., № 75 — повтор шлоки)' if key == '17b' else '') + '.**'
-            out.append('>> ' + lab + (f' *{tema}*' if tema else ''))
+            if lang == 'en':
+                lab = '**Gaudiya-bhashya' + (' (Bengali ed., No. 75 — the verse repeated)' if key == '17b' else '') + '.**'
+            else:
+                lab = '**Гаудия-бхашья' + (' (бенг. изд., № 75 — повтор шлоки)' if key == '17b' else '') + '.**'
+            out.append('>> ' + lab + (f" *{tema.replace('*', '')}*" if tema else ''))
             for p in paras:
                 if DROP_ANVAYA_NOTES:
-                    p = '\n'.join(l for l in p.split('\n') if not l.startswith('Из пословного толкования'))
+                    p = '\n'.join(l for l in p.split('\n') if not l.startswith(ANVAYA_NOTE))
                 if p.strip():
                     out.append('\n'.join('>> ' + l for l in p.split('\n')))
     return '\n\n'.join(out)
@@ -146,10 +153,10 @@ def load_skt(d=None):
     return res
 
 
-def load_anvaya():
-    """{номер: {'anvaya': str, 'diff': [строки]}} из bss/a0*.md (основная нумерация)."""
+def load_anvaya(d='bss'):
+    """{номер: {'anvaya': str, 'diff': [строки]}} из bss/a0*.md или bss-en/a0*.md (основная нумерация)."""
     res = {}
-    d = os.path.join(HERE, 'bss')
+    d = os.path.join(HERE, d)
     for f in sorted(os.listdir(d)):
         if not kb.re.match(r'a0\d\.md$', f):
             continue
@@ -176,7 +183,7 @@ def iast(lines):
     return [sanscript.transliterate(l, 'devanagari', 'iast').replace('ṃ', 'ṁ') for l in lines]
 
 
-def with_skt(text, sk, an=None):
+def with_skt(text, sk, an=None, lab=('Шлока', 'Пословно', 'Пословно (анвайя Бхактисиддханты)')):
     an = an or {}
     out = []
     for para in kb.re.split(r'\n\s*\n', text):
@@ -184,37 +191,39 @@ def with_skt(text, sk, an=None):
         keys = []
         if m:
             keys = [m.group(1)]
-        elif para.strip().startswith('(Поклоняюсь Шри Кришне Чайтанье'):
+        elif para.strip().startswith(('(Поклоняюсь Шри Кришне Чайтанье', '(I bow to Sri Krishna Chaitanya')):
             keys = ['13a']
         for k in keys:
             rec = sk.get(k)
             if not rec or not rec['skt']:
                 continue
-            out.append(f'### Шлока {k}')
+            out.append(f'### {lab[0]} {k}')
             out.append('\n'.join(rec['skt']))
             out.append('\n'.join(f'*{l}*' for l in iast(rec['skt'])))
             if an.get(k, {}).get('anvaya'):
-                out.append('*Пословно (анвайя Бхактисиддханты):* ' + an[k]['anvaya'])
+                out.append(f'*{lab[2]}:* ' + an[k]['anvaya'])
             elif rec.get('wfw'):
-                out.append('*Пословно:* ' + rec['wfw'])
+                out.append(f'*{lab[1]}:* ' + rec['wfw'])
         out.append(para)
     return '\n\n'.join(out)
 
 
-def build(out, preface, bh=None, sk=None, an=None):
+def build(out, preface, bh=None, sk=None, an=None, lang='ru'):
+    m = LANGS[lang]
     toc, body = [], []
-    files = ['00-vvedenie'] if bh is not None and os.path.exists(os.path.join(HERE, 'ru', '00-vvedenie.md')) else []
+    intro = m['intro']
+    files = [intro] if bh is not None and os.path.exists(os.path.join(HERE, lang, intro + '.md')) else []
     files += [f'{i:02d}' for i in (1, 2, 3, 4)]
     for key in files:
-        text = open(os.path.join(HERE, 'ru', key + '.md'), encoding='utf-8').read().strip()
+        text = open(os.path.join(HERE, lang, key + '.md'), encoding='utf-8').read().strip()
         text = kb.re.sub(r'\[\^([^\]]+)\]', lambda m: f'[^{key[:2]}-{m.group(1)}]', text)
         title = text.splitlines()[0].lstrip('# ').strip()
         sub = kb.re.search(r'^\*([^*\[].+)\*$', text, kb.re.M)
-        toc.append(f'- {title} — {sub.group(1)}' if sub and key != '00-vvedenie' else f'- {title}')
+        toc.append(f'- {title} — {sub.group(1)}' if sub and key != intro else f'- {title}')
         if bh is not None:
-            text = with_bhashya(text, bh)
+            text = with_bhashya(text, bh, lang)
             if sk:
-                text = with_skt(text, sk, an)
+                text = with_skt(text, sk, an, lab=m['lab'])
             if key == '04' and 'END' in bh:
                 text = text.split('\n\n[^')[0] + '\n\n' + '\n\n'.join('>> ' + p for p in bh['END'][1]) + \
                     ('\n\n[^' + text.split('\n\n[^', 1)[1] if '\n\n[^' in text else '')
@@ -223,7 +232,7 @@ def build(out, preface, bh=None, sk=None, an=None):
     open(os.path.join(HERE, out + '.md'), 'w', encoding='utf-8').write(md)
     blocks = kb.parse(md)
     kb.build_docx(blocks, os.path.join(HERE, out + '.docx'))
-    kb.build_pdf(blocks, os.path.join(HERE, out + '.pdf'), 'Шри Чайтанья-чандрамрита', 'Прабодхананда Сарасвати (рус. пер.)')
+    kb.build_pdf(blocks, os.path.join(HERE, out + '.pdf'), m['title'], m['author'])
     print(out, 'ok', len(blocks))
 
 
@@ -251,10 +260,98 @@ def diff_report(an):
     print('diff report:', len(rows), 'items,', nsense, 'verses [смысл]')
 
 
+PREFACE_EN = """# Sri Chaitanya-chandramrita
+
+*"The Nectar of the Moon Chaitanya"*
+
+*Prabodhananda Sarasvati*
+
+*Translated from the Sanskrit*
+
+---
+
+## Translator's note
+
+The *Sri Chaitanya-chandramrita* is a Sanskrit collection of a little over a hundred verses glorifying Sri
+Chaitanya Mahaprabhu. Its author is Prabodhananda Sarasvati, a contemporary of Mahaprabhu who later lived in
+Vrindavana (tradition regards him as the uncle and teacher of Gopala Bhatta Gosvami). The book is divided
+into twelve sections: praise, obeisance, benediction, the glory of Gaura's devotees, censure of the
+non-devotees, humility, fidelity to the object of worship, instruction to the world, the supremacy of
+Chaitanya, the glory of His descent, the beauty and dance of Gaura, and finally lament over His
+disappearance.
+
+**Source.** The Sanskrit text is taken from the edition *Sri Chaitanya-chandramritam tatha Sri
+Sangita-madhavam*, Mathura, 1951 (ed. Baba Krishnadasa, with a Hindi translation by Gosvami Krishna
+Chaitanya; eGangotri scan at archive.org). The verse numbering follows that edition (142 verses and one
+verse in brackets without a number). Poorly recognized passages have been checked against the Bengali
+edition with the translation of Bhaktisiddhanta Sarasvati (which has 143 verses: one verse stands in a
+different place, so from the seventh section on its numbers are one higher). **Only Prabodhananda's
+Sanskrit text has been translated.** The Hindi and Bengali translations and commentaries of the editions
+helped to make out corrupt passages but are not reproduced.
+
+**Verification.** After the first translation the Sanskrit text was restored line by line from both
+editions (checking the metre and relying on Bhaktisiddhanta's word-for-word analysis), and the translation
+of every verse was compared afresh with it; places where the translation departed from Bhaktisiddhanta's
+interpretation in meaning were corrected according to him. The English translation was made from the
+Sanskrit, in agreement with the Russian translation (same numbering and notes).
+
+---
+
+## Contents
+
+"""
+
+PREFACE_EN_FULL = PREFACE_EN.replace('*Translated from the Sanskrit*',
+    '*Translated from the Sanskrit*\n\n*Sanskrit text, transliteration, word-for-word translation and the "Gaudiya-bhashya" of Bhaktisiddhanta Sarasvati (translated from the Bengali)*').replace('## Contents',
+    """**Full version.** For each verse are given: the Sanskrit text in Devanagari, restored from the 1951 edition
+and Bhaktisiddhanta's Bengali edition (where they differ, Bhaktisiddhanta's reading is preferred; this is our
+own corrected text, not a reprint of any single edition); an IAST transliteration; a word-for-word
+translation — the complete translation of Bhaktisiddhanta's *anvaya* (word-for-word analysis) in his word
+order (words he supplies as implied are in square brackets); and the translation.
+
+After each verse follows a translation of the "Gaudiya-bhashya" of Bhaktisiddhanta Sarasvati (1874–1937) —
+his Bengali translation and commentary from the Gaudiya Math edition (Calcutta, 1st ed.); his preface to that
+edition is given at the beginning of the book. For each verse the summary heading and the continuous
+commentary (*anuvada*) are translated; glosses from the word-for-word analysis that are not in the continuous
+text appear in the *anvaya* above. The Bengali text is known from an OCR copy; illegible places are marked
+"[…]". The verse numbers follow the 1951 edition; in the Bengali edition verse 17 is repeated once more as
+No. 75, so from No. 75 on its numbers are one higher. The commentary and the *anvaya* were translated into
+English from the Bengali, in agreement with the Russian translation.
+
+---
+
+## Contents""")
+
+LANGS = {
+    'ru': dict(intro='00-vvedenie', lab=('Шлока', 'Пословно', 'Пословно (анвайя Бхактисиддханты)'),
+               title='Шри Чайтанья-чандрамрита', author='Прабодхананда Сарасвати (рус. пер.)'),
+    'en': dict(intro='00-introduction', lab=('Verse', 'Word for word', "Word for word (Bhaktisiddhanta's anvaya)"),
+               title='Sri Chaitanya-chandramrita', author='Prabodhananda Sarasvati (Eng. tr.)'),
+}
+
+
+def load_skt_en():
+    sk = load_skt()
+    tr = load_skt(os.path.join(HERE, 'skt-en'))
+    for k, rec in sk.items():
+        rec['wfw'] = tr.get(k, {}).get('wfw', '')
+    return sk
+
+
 if __name__ == '__main__':
-    build(OUT, PREFACE)
-    if os.path.isdir(os.path.join(HERE, 'bss')):
-        an = load_anvaya()
-        DROP_ANVAYA_NOTES = bool(an)
-        build(OUT + '-full', PREFACE_B, load_bhashya(), load_skt(), an)
-        diff_report(an)
+    import sys
+    langs = sys.argv[1:] or ['ru', 'en']
+    if 'ru' in langs:
+        build(OUT, PREFACE)
+        if os.path.isdir(os.path.join(HERE, 'bss')):
+            an = load_anvaya()
+            DROP_ANVAYA_NOTES = bool(an)
+            build(OUT + '-full', PREFACE_B, load_bhashya(), load_skt(), an)
+            diff_report(an)
+    if 'en' in langs:
+        build('Chaitanya-Chandramrita-en', PREFACE_EN, lang='en')
+        if os.path.isdir(os.path.join(HERE, 'skt-en')):
+            bh_en = load_bhashya('bss-en') if os.path.isdir(os.path.join(HERE, 'bss-en')) else {}
+            an_en = load_anvaya('bss-en') if bh_en else None
+            DROP_ANVAYA_NOTES = bool(an_en)
+            build('Chaitanya-Chandramrita-en-full', PREFACE_EN_FULL, bh_en, load_skt_en(), an_en, lang='en')

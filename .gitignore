@@ -1,5 +1,7 @@
 __pycache__/
 chaitanya-charitamrita/src/CC_SS.pdf
+gaura-krishnodaya/src/Gaura-krsnodaya_scan.pdf
+sources/prema-vivarta/YCUf_*.pdf
 
 # исходник музыки (156 МБ, больше лимита GitHub; лежит на Google Диске) — в сайт идут site/assets/audio/*.mp3
 site/assets/src/audio/

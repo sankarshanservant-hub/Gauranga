@@ -841,7 +841,7 @@
   years: [1509, 1509]
   date_conf: вероятно
   date_basis: "Махакавья 5.14, 5.32–35, 5.125"
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "karnapura-mahakavya/ru/05.md", from: "32", to: "52"}
 
@@ -860,7 +860,7 @@
   parallels: "Мурари 2.12.5–17"
   themes: [revelation, mercy, festival]
   scriptures: ["Гита 9.34"]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "karnapura-mahakavya/ru/05.md", from: "53", to: "80"}
 
@@ -899,7 +899,7 @@
   parallels: "Мурари 2.12.5–17"
   notes: "«Я ухожу» и обморок — не уход из мира: Господь возвращается к внешнему сознанию от звука киртана. Шутка Шривасы о «Твоей майе» (ст. 112) — о йогамае, скрывающей величие Господа."
   themes: [revelation, kirtan, ecstasy]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "karnapura-mahakavya/ru/05.md", from: "91", to: "118"}
 
@@ -1570,7 +1570,7 @@
   notes: "Первое предвестие санньясы. Великое омовение Карнапура уже описал в сарге 5 (ст. 38–52); здесь — повторное."
   themes: [revelation, sannyasa]
   scriptures: ["Бхаг. 10.81.16"]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "karnapura-mahakavya/ru/07.md", from: "98", to: "106"}
 
@@ -2080,7 +2080,7 @@
   ref: "Сарга 11, 80–81"
   file: "karnapura-mahakavya/ru/11.md"
   period: P09
-  order: 75
+  order: 85.5
   title: "Нитьянанда ломает посох Господа"
   summary: "Господь отдаёт посох Нитьянанде и идёт вперёд; тот, обдумав, ломает посох и на вопрос Господа отвечает, что споткнулся и посох сломался."
   persons: ["@mahaprabhu", "@nityananda"]
@@ -2480,7 +2480,7 @@
   ref: "Сарга 13, 50–59"
   file: "karnapura-mahakavya/ru/13.md"
   period: P12
-  order: 60
+  order: 18
   title: "Возвращение в Пури; Снана-ятра и уход в Алаланатху"
   summary: "Вернувшись в Пури, Господь видит Снана-ятру; когда Джаганнатха скрыт в анавасару, Господь в разлуке уходит в Алаланатху, и преданные ищут Его; Кала Кришнадаса отсылают в Бенгалию."
   persons: ["@mahaprabhu", "@kala-krishnadasa"]
@@ -2983,7 +2983,7 @@
   themes: [mercy, prasada]
   teaching: [vaishnava]
   scriptures: ["na me ’bhaktaś catur-vedī…"]
-  event: ev-rupa-sanatana-anupama-ratha-garden
+  event: ev-rupa-arrives-haridasa-puri
   verses:
     - {file: "karnapura-mahakavya/ru/17.md", from: "8", to: "24"}
 

@@ -44,7 +44,7 @@
   years: [1509, 1509]
   date_conf: вероятно
   date_basis: "Маджумдар: БР приводит паду как свидетельство очевидца абхишеки 1509 г."
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/01.md", from: "2.1", to: "2.4"}
 
@@ -67,7 +67,7 @@
   years: [1509, 1509]
   date_conf: вероятно
   date_basis: "Маджумдар: ПК 1536, 1537, 1571 — пады очевидца об абхишеке 1509 г."
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/01.md", from: "3.1", to: "3.4"}
 
@@ -90,7 +90,7 @@
   years: [1509, 1509]
   date_conf: вероятно
   date_basis: "Маджумдар: та же абхишека 1509 г., описание очевидцев"
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/01.md", from: "4.1", to: "4.8"}
 
@@ -453,7 +453,7 @@
   ref: "Шивананда Сен, ПК 2355 «জয় জয় পণ্ডিত গোসাঞি»"
   file: "padas/ru/01.md"
   period: P13
-  order: 195.1
+  order: 2.71
   title: "Хвала Гададхаре, оставившему ради Господа жизнь в Кшетре"
   summary: "Слава Пандиту Госани, по милости которого поэт поёт о Чайтанье: ради Господа он оставил обет жить в Кшетре и служение Кришне; Гаура и Гададхар — как Рама и Джанаки, как Радха и Кришна; из любви к Радхе Шьяма стал золотым."
   persons: ["@shivananda-sena", "@gadadhara-pandita", "@mahaprabhu", "@gopinatha-deity-puri"]
@@ -2878,7 +2878,7 @@
   notes: "Атрибуция (какой Кришнадас) не установлена; прежняя первая строка каталога — начало третьего двустишия."
   themes: [festival, revelation]
   bhava: [aishvarya]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/07.md", from: "13.1", to: "13.6"}
 
@@ -5929,7 +5929,7 @@
   notes: "Только ГПТ (ГГ-008); продолжение пады ПК 1538."
   themes: [revelation, festival, prasada]
   bhava: [aishvarya]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/14.md", from: "6.1", to: "6.4"}
 
@@ -5948,7 +5948,7 @@
   parallels: "ЧБ Мадхья 9"
   notes: "Только ГПТ (ВГ-165); разговорная форма «এনেছি» указывает на позднее происхождение."
   themes: [revelation, festival, kirtan]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/14.md", from: "7.1", to: "7.6"}
 
@@ -5967,7 +5967,7 @@
   parallels: "ЧБ Мадхья 9"
   notes: "Только ГПТ (ВГ-031; в каталоге ошибочно числилась нагари-падой)."
   themes: [revelation, festival, celestial]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/14.md", from: "8.1", to: "8.6"}
 
@@ -5986,7 +5986,7 @@
   parallels: "ЧБ Мадхья 9–10"
   notes: "Только ГПТ; новая строка каталога КР-020."
   themes: [revelation, ecstasy]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/14.md", from: "9.1", to: "9.5"}
 
@@ -6005,7 +6005,7 @@
   parallels: "ПК 1536–1537 (порция 01)"
   notes: "Только ГПТ (ВГ-164)."
   themes: [revelation, festival]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/14.md", from: "10.1", to: "10.4"}
 
@@ -6855,7 +6855,7 @@
   notes: "Приложение ГПТ-Нарахари; новая строка каталога НГ-240. Вероятно Чакраварти: в БР приведена за падой Васу Гхоша ПК 1536."
   themes: [revelation, festival]
   bhava: [aishvarya]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/17.md", from: "9.1", to: "9.8"}
 
@@ -6875,7 +6875,7 @@
   notes: "Приложение ГПТ-Нарахари (НГ-136; в каталоге ошибочно в разделе нагари-бхавы). Вероятно Чакраварти (БР)."
   themes: [revelation, festival]
   bhava: [aishvarya]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/17.md", from: "10.1", to: "10.8"}
 
@@ -6894,7 +6894,7 @@
   parallels: "ЧБ Мадхья 9"
   notes: "Приложение ГПТ-Нарахари (НГ-137; в каталоге ошибочно в разделе нагари-бхавы). Атрибуция не установлена (Саркар или Чакраварти): в БР нет; простой бенгальский. Только ГПТ."
   themes: [revelation, family]
-  event: ev-murari-sudama-verse-abhisheka
+  event: ev-mahaprakasha-abhisheka
   verses:
     - {file: "padas/ru/17.md", from: "11.1", to: "11.4"}
 

@@ -1,0 +1,174 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/svarupa-damodara.md и lila-db.
+id: "@svarupa-damodara"
+names:
+  ru: "Сварупа Дамодара Госвами"
+  en: "Svarupa Damodara Gosvami"
+  variants: ["Пурушоттама Ачарья (до санньясы)", "Пурушоттама Бхаттачарья (T)", "Дамодара-Сварупа", "Сварупа Госай", "Шри Мадхва-Гаудиешвара", "«второе я» Господа (двития-сварупа)"]
+  facts: [F1, F2, F3, F4, F104]
+kind: associate
+circle: [navadvipa, puri]
+period: [P07, P10, P12, P13, P14, P15]
+period_note: "Лично: в Навадвипе у стоп Господа как Пурушоттама Ачарья (P07); после санньясы Господа — санньяса в Каши (P10, по «Према-виласе» в lila-db); приход в Пури после южного паломничества Господа (P12); провожает Господа во Вриндаван и встречает по возвращении (P13); неотлучно — в последние годы, в Гамбхире (P14); ушёл в день Ратха-ятры вскоре после сокрытия Господа (P15). P00 — только как источник знания о причинах нисхождения (ЧЧ Ади 4)."
+life:
+  appearance: {date: "", tithi: "", place: "#navadvipa?", conf: "дня явления нет ни в книгах, ни в нашем календаре; место рождения — по T (жил в Навадвипе у деда по матери)", facts: [F102]}
+  disappearance:
+    tithi: "Ашадха шукла-двития (по нашему календарю — Гаура-двития месяца Вамана), день Ратха-ятры"
+    date: ""
+    place: "#puri"
+    conf: "B; T — «в день Ратха-ятры, вскоре после сокрытия Господа»; M — «второй день от полнолуния Ашадхи» (вероятно, искажение); наш календарь совпадает с B (16 июля 2026); год не указан"
+    facts: [F101, F146, F147]
+  samadhi: []
+origin:
+  places: ["#navadvipa", "#bhitadia"]
+  family: ["@padmagarbha-acharya", "@jayarama-chakravarti"]
+  facts: [F5, F102, F103]
+  note: "Только T (по «Гаудия-вайшнава-абхидхане») и lila-db («Према-виласа» 24): отец Падмагарбха; мать — дочь Джаярамы Чакраварти из Бхитадии; вырос в Навадвипе у деда. B и M о семье молчат."
+sampradaya: {name: "дашанами (санньяса без йогапатты, имя брахмачари «Сварупа»)", facts: [F6, F9, F105, F106]}
+relations:
+  - {type: father, who: "@padmagarbha-acharya", facts: [F102], note: "T; lila-db pvl-0267."}
+  - {type: grandfather, who: "@jayarama-chakravarti", facts: [F102], note: "Дед по матери (T)."}
+  - {type: sibling, who: "@lakshminatha-lahiri", event: ev-purushottama-acharya-sannyasa, note: "Сводный брат (сын Падмагарбхи от другой жены) — только lila-db, «Према-виласа» 24 (уровень C)."}
+  - {type: sannyasa-guru, who: "@chaitanyananda", facts: [F6, F7, F12, Q1], note: "Чайтанъянанда Бхарати, Каши; велел учить веданте; отпустил в Пури."}
+  - {type: companion, who: "@mahaprabhu", facts: [F3, F13, F14, F15, F16, F18, F26, F28, F29, F53, F69, F81, F88, F96, F112, F114], events: [ev-svarupa-paramananda-arrive, ev-gambhira-divine-madness, ev-last-twelve-years-gambhira],
+     note: "«Второе я» Господа; проверяющий всё, что читают Господу; певец Его настроений; в Гамбхире неотлучно."}
+  - {type: siksha-disciple, who: "@raghunatha-dasa", facts: [F61, F62, F63, F64, F65, F66, F111, F126, F127, F128, F153], events: [ev-raghunatha-dasa-joins-lord, ev-raghunatha-lord-instructions, ev-raghunatha-rotten-rice],
+     note: "«Сварупов Рагху»; Господь назначил Сварупу его шикша-гуру; Рагхунатха хранил кадчу Сварупы наизусть (внутренний путь расопасаны)."}
+  - {type: siksha-disciple, who: "@vakreshvara", facts: [F92, F144], note: "По «Джайва-дхарме» — передал ему внешний путь расопасаны (= @vakreshvara F50)."}
+  - {type: lineage-successor, who: "@gopala-guru", facts: [F144], note: "Через Вакрешвару (B, T); M — обучался под началом Сварупы и Рагхунатхи; B 581 — «ученик Сварупы» (вероятно, опечатка)."}
+  - {type: lineage-successor, who: "@rupa-gosvami", facts: [F45, F46, F47, F100, F122, F139, F145], events: [ev-priyah-so-yam-rupa], note: "Друг; «сварупа-рупануга»; в шикша-парампаре Бхактисиддханты — после Сварупы."}
+  - {type: friend, who: "@ramananda-raya", facts: [F19, F88, F95, F108, F110, F114, F137, F150], events: [ev-ramananda-comes-to-puri], note: "«Одна душа» (B 233); вдвоём — сокровенные спутники Господа в разлуке."}
+  - {type: friend, who: "@pundarika-vidyanidhi", facts: [F39, F116, F117], events: [ev-pundarika-odana-shashthi-slap, ev-narendra-jala-keli]}
+  - {type: friend, who: "@bhagavan-acharya", facts: [F48, F49, F50, F55, F56], events: [ev-gopala-bhattacharya-mayavada, ev-bengali-poet-drama-svarupa]}
+  - {type: co-worker, who: "@paramananda-puri", facts: [F17, F112, F113, F115, F124], note: "Двое, что были сердцем Господа в Пури; «две руки» санньяса-облика Господа (ЧБ)."}
+  - {type: co-worker, who: "@govinda-servant", facts: [F20, F62, F67, F75, F77, F81], events: [ev-gauda-devotees-arrive-puri]}
+  - {type: co-worker, who: "@jagadananda-pandita", facts: [F74, F75, F76, F123, F132], events: [ev-jagadananda-bed-banana]}
+  - {type: co-worker, who: "@srivasa", facts: [F25, F35, F54], events: [ev-hera-panchami], note: "Спор о Лакшми и Вриндаване (= @srivasa F104–F105)."}
+  - {type: co-worker, who: "@advaita", facts: [F21, F54, F119], note: "Главный танцор в его группе киртана на Ратха-ятре."}
+  - {type: companion, who: "@nityananda", facts: [F17, F21, F54, F123, F142]}
+  - {type: companion, who: "@gadadhara-pandita", facts: [F70, F113, F115, F140], events: [ev-gadadhara-vallabha-initiation]}
+  - {type: companion, who: "@kashishvara", facts: [F38, F74]}
+  - {type: companion, who: "@shankara-pandita", facts: [F17, F74]}
+  - {type: companion, who: "@damodara-pandita", facts: [F38, F119, F123]}
+  - {type: companion, who: "@sarvabhauma", facts: [F17, F124, F137]}
+  - {type: other, who: "@chhota-haridasa", facts: [F52, F71, F129, F148], events: [ev-chhota-haridasa-punished, ev-chhota-haridasa-prayaga], note: "Утешал, заступался; заключил, что тот обрёл место среди спутников."}
+  - {type: other, who: "@haridasa-thakura", facts: [F73, F74, F131], event: ev-haridasa-departure}
+  - {type: other, who: "@gopala-bhattacharya", facts: [F49, F50], event: ev-gopala-bhattacharya-mayavada}
+  - {type: other, who: "@vallabha-bhatta", facts: [F69], event: ev-vallabha-bhatta-puri}
+  - {type: other, who: "@kavi-karnapura", facts: [F80, F99, F141], event: ev-karnapura-child-mercy, note: "Мальчик Парамананда Пури-дас; ГГД 160 о Сварупе."}
+  - {type: other, who: "@shivananda-sena", facts: [F80]}
+  - {type: other, who: "@balabhadra-bhattacharya", facts: [F41], event: ev-departure-for-vrindavana}
+  - {type: other, who: "@bhavananda-raya", facts: [F130], event: ev-gopinatha-pattanayaka-pardoned}
+  - {type: other, who: "@gopinatha-pattanayaka", facts: [F71, F130]}
+  - {type: other, who: "@sanatana-gosvami", facts: [F125]}
+  - {type: other, who: "@raghunatha-bhatta", facts: [F125]}
+  - {type: other, who: "@shikhi-mahiti", facts: [F89], note: "«Три с половиной» из группы Радхи."}
+  - {type: other, who: "@madhavi-devi", facts: [F89]}
+  - {type: other, who: "@murari-gupta", facts: [F90, F94, F135, F141], note: "Мурари записал начальные игры, Сварупа — последние."}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F29, F83, F91, F94, F96, F97, F135, F136], note: "Развернул кадчу Сварупы (через Рагхунатху) в ЧЧ."}
+  - {type: other, who: "@vrindavana-dasa", facts: [F94, F115]}
+  - {type: other, who: "@lochana-dasa", facts: [F90, F94]}
+  - {type: other, who: "@bhaktivinoda", facts: [F64, F92, F120, F135]}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F9, F105, F106, F113, F145]}
+  - {type: deity-served, who: "@jagannatha-deity", facts: [F26, F27, F38, F72], events: [ev-ratha-yatra-gundicha]}
+unnamed:
+  - {who: "мать — дочь Джаярамы Чакраварти (имя неизвестно)", type: mother, facts: [F102]}
+  - {who: "гаудия-бхакта, выпивший воду со стоп Господа в Гундиче", type: other, facts: [F22, F118], event: ev-gundicha-marjana}
+  - {who: "брахман-поэт из Восточной Бенгалии, автор пьесы", type: other, facts: [F55, F56, F57, F58, F59, F60], event: ev-bengali-poet-drama-svarupa}
+  - {who: "рыбак, вытащивший Господа из моря", type: other, facts: [F84, F85, F133], event: ev-fall-into-ocean-fisherman}
+identities:
+  - in: krishna-lila
+    as: "Лалита-деви, «второе я» Радхики"
+    source: "ЧЧ Антья 6.10 (сравнение по служению); Бхактивинода (через B); Б. Р. Шридхар Махарадж («Золотой вулкан божественной любви», раздел «Sri Gauranga-avatara»: «Svarupa Damodara Prabhu, Sri Caitanya Mahaprabhu’s personal secretary, who is considered to be Lalita-sakhi»)"
+    level: A
+    facts: [F64, F98, F138, F152, Q31]
+    variants: ["ГГД 160 — Вишакха"]
+    note: "Принято в статье (решение пользователя, 2026-10-17): линия Бхактивиноды — Бхактисиддханты — Шридхара Махараджа; ГГД — сноской."
+  - in: krishna-lila
+    as: "Вишакха, учившая Радху искусствам"
+    source: "ГГД 160"
+    level: A
+    facts: [F99, Q3]
+    variants: ["Лалита — ЧЧ Антья 6.10 (сравнение), Бхактивинода, Шридхар Махарадж; T: «преобладающее мнение»"]
+  - in: tattva
+    as: "«второе я» (двития-сварупа) Шри Чайтаньи; воплощённая према-раса"
+    source: "ЧЧ Мадхья 10.111, Антья 7.38"
+    level: A
+    facts: [F3, F69, Q1, Q19]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-purushottama-acharya-sannyasa
+  - ev-svarupa-paramananda-arrive
+  - ev-ramananda-comes-to-puri
+  - ev-gauda-devotees-arrive-puri
+  - ev-gundicha-marjana
+  - ev-ratha-yatra-gundicha
+  - ev-hera-panchami
+  - ev-narendra-jala-keli
+  - ev-indradyumna-jala-keli
+  - ev-pundarika-odana-shashthi-slap
+  - ev-nilachala-sankirtana
+  - ev-departure-for-vrindavana
+  - ev-return-to-puri-from-vrindavana
+  - ev-priyah-so-yam-rupa
+  - ev-gopala-bhattacharya-mayavada
+  - ev-chhota-haridasa-punished
+  - ev-chhota-haridasa-prayaga
+  - ev-bengali-poet-drama-svarupa
+  - ev-raghunatha-dasa-joins-lord
+  - ev-raghunatha-lord-instructions
+  - ev-raghunatha-stops-invitations
+  - ev-govardhana-shila-gunja-gift
+  - ev-raghunatha-rotten-rice
+  - ev-vallabha-bhatta-puri
+  - ev-gadadhara-vallabha-initiation
+  - ev-gopinatha-pattanayaka-pardoned
+  - ev-jagamohana-dance-govinda-crosses
+  - ev-haridasa-departure
+  - ev-jagadananda-bed-banana
+  - ev-karnapura-child-mercy
+  - ev-limbs-elongated-separation
+  - ev-chataka-parvata-govardhana
+  - ev-kurma-form-telinga-cows
+  - ev-fall-into-ocean-fisherman
+  - ev-advaita-tarja
+  - ev-gambhira-divine-madness
+  - ev-last-twelve-years-gambhira
+  - ev-shikshashtaka-recitation
+  - ev-devotees-lament-after-disappearance
+events_note: "Все события — по реестру (T/M/B со ссылками на ЧЧ, ЧБ), кроме ev-purushottama-acharya-sannyasa (только lila-db, «Према-виласа» 24; по сути = F6, F103) и ev-devotees-lament-after-disappearance (lila-db). Ещё ~60 эпизодов lila-db, где он лишь присутствует, сюда не вынесены (query.py @svarupa-damodara)."
+teachings_given:
+  - {topic: "против майявады: «Шарирака-бхашью» вайшнаву слушать нельзя", facts: [F49, F50, F51, Q10]}
+  - {topic: "Джаганнатха и Чайтанья — Сам Бхагаван, у Бога нет различия тела и Его сущности", facts: [F57, F59, Q13, Q15]}
+  - {topic: "изучать «Бхагаватам» у вайшнава, прибежище у стоп Чайтаньи, общество Его преданных", facts: [F58, Q14]}
+  - {topic: "превосходство Вриндавана и маны гопи над величием Лакшми", facts: [F31, F33, F35, Q8]}
+  - {topic: "садхья и садхана — Рагхунатхе (по велению Господа)", facts: [F62, Q17]}
+teachings_received: []
+works:
+  - {title: "«Сангита-дамодара» (трактат о музыке)", facts: [F11]}
+  - {title: "кадча (записи последних игр Господа): внутренний путь — Рагхунатхе дасу, внешний — Вакрешваре; стихи в начале ЧЧ (Ади 1.5–14)", facts: [F90, F91, F92, F94, F97, F135, F136, F142]}
+  - {title: "молитва «хелоддхулита-кхедайа…» (ЧЧ Мадхья 10.119; «Чайтанья-чандродая»)", facts: [F13, Q2]}
+  - {title: "песня «сей та парана-натха паину…» (по B — его)", facts: [F26, Q5]}
+places: ["#navadvipa", "#bhitadia", "#kashi", "#puri", "#gundicha", "#house-kashi-mishra", "#narendra-sarovara", "#indradyumna-sarovara", "#chataka-parvata", "#aitota", "#konark"]
+places_facts: [F5, F6, F12, F21, F77, F78, F84, F102, F116]
+character:
+  - {trait: "строжайший страж сиддханты: не пропускал к Господу ни расабхасы, ни майявады", facts: [F49, F50, F53, F55, F57, I2]}
+  - {trait: "милость к исправляемому: обличив поэта, сам наставил его и дал хвалебное толкование", facts: [F58, F59, F60, I2]}
+  - {trait: "заступник оступившихся преданных (Чхота Харидас, Бхавананда, Джагадананда)", facts: [F52, F71, F75, F129, F130, I4]}
+  - {trait: "певец, угадывающий настроение Господа и воплощающий каждую расу песней", facts: [F24, F26, F29, F79, F82, F96, F115]}
+  - {trait: "заботливое служение телу Господа в Его экстазах (удерживал руку, ложе из листьев, поиски в ночи)", facts: [F29, F75, F77, F81, F86, I7]}
+  - {trait: "уединённый, молчаливый учёный, не искавший известности", facts: [F12, F10]}
+  - {trait: "отречение без гордости ашрамом — санньяса без йогапатты", facts: [F8, F9, I1, F143]}
+significance: {facts: [F2, F3, F23, F63, F90, F93, F94, F95, F96, F100, F145, I1, I2, I3, I4, I5, I6, I7, I8]}
+sources:
+  T: "130–139 (глава); 2, 3, 17, 23, 33, 40, 44, 54, 55, 75, 80, 101, 102, 105, 107, 108, 110–112, 116, 122, 128, 129, 144, 145, 156, 159, 160, 162, 173, 183–186, 192, 197, 202, 210, 226, 236, 263–264"
+  M: "227–229 (глава); 49, 72, 237, 255"
+  B: "203–231 (глава); 69, 71, 81, 164, 198, 200, 201, 233, 240, 241, 243, 244, 249, 250, 253, 274, 310, 312, 313, 315, 317, 364, 460, 581, 627–637, 656, 690, 691, 751, 753, 756, 757, 787, 793, 794, 804, 807, 819, 857, 882–885, 889, 895, 896, 947, 948, 959, 999, 1000, 1015, 1032, 1043, 1044"
+  other: ["ЧЧ Ади 1.5–14, 4.103–110, 10.124, 13.15–17; Мадхья 1.66–72, 2.77–78, 2.84, 10.102–131, 11.74–80, 11.141–142, 11.202–208, 12.109–141, 13.36–167, 14.116–231, 16.77, 17.3–15, 25.221; Антья 1.76–114, 2.84–166, 5.95–156, 6.10, 6.139–143, 6.201–323, 7.38–45, 7.150–151, 9.36, 10.67, 11.49–84, 13.9–33, 14.7–10, 14.56–104, 15.24–27, 16, 17, 18.18–23, 19, 20.3–11", "ЧБ Антья 8.124, 10.36–49, 10.173–177", "ГГД 160 (и 147–150)", "«Чайтанья-чандродая» 8.10", "«Према-виласа» 24", "«Бхакти-ратнакара» 1.630–631", "«Джайва-дхарма» гл. 26, 39", "«Анубхашья», «Амрита-праваха-бхашья» (через T)", "Бхаг. 10.21.18, 10.29.40; «Гита-говинда» 2.2; «Кавья-пракаша», «Падьявали» 380, 383"]
+article: {ru: "parshadas/ru/svarupa-damodara.md", en: "parshadas/en/svarupa-damodara.md"}
+open_questions:
+  - "Отождествление: в статье — Лалита (ЧЧ Антья 6.10, Бхактивинода, Шридхар Махарадж), ГГД 160 — Вишакха сноской (F98, F99)."
+  - "Когда ушёл в Каши: после санньясы Господа (ЧЧ, B, M, «Према-виласа») или ещё до неё (Бхактисиддханта в «Анубхашье» к Ади 4.105, по T) (F6, F106)."
+  - "Как он принял санньясу: санньяса без йогапатты (B, ЧЧ) или лишь брахмачарья у дашанами (Бхактисиддханта по T) (F9, F105, F106)."
+  - "Первая встреча с Раманандой: по приходе Рамананды в Пури (B), с царём Пратапарудрой (T), около того же времени (M) (F108)."
+  - "Год ухода не указан; день — Ашадха шукла-двития (B; наш календарь), у M — неясное «второй день от полнолуния» (F146)."
+  - "Гопала Гуру — ученик Вакрешвары (B 201, T) или «ученик Сварупы» (B 581, вероятно опечатка) (F144)."
+  - "Детали эпизодов: кто вернулся просить прощения за гаудию в Гундиче (F118); сколько раз хлопнул рыбака и где тот был (F133); кто просил прасад для праздника Харидаса (F131)."

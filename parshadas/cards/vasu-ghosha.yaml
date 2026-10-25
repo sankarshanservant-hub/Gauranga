@@ -1,0 +1,101 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/vasu-ghosha.md и lila-db.
+id: "@vasu-ghosha"
+names:
+  ru: "Васу Гхош"
+  en: "Vasu Ghosha"
+  variants: ["Васудева Гхош", "Васудева Гхош Тхакур", "Васу (подпись в падах)", "Гунатунга (во Врадже)"]
+  facts: [F1, F13]
+kind: associate
+circle: [navadvipa, puri]
+period: [P12, P15]
+period_note: "Лично — с Нитьянандой в Гауде (Панихати) и ежегодно в Пури на Ратха-ятре (P12); время жизни в Навадвипе и ухода в книгах не датировано. В Кхетури (P15) — среди спутников, явившихся с Господом на киртане Нароттамы (по БР 10), и как автор пады, которую там пели (lila-db)."
+life:
+  appearance: {conf: "неизвестно", facts: [F12]}
+  disappearance:
+    tithi: "шукла-двития месяца Картика"
+    place: "#tamluk?"
+    conf: "титхи — все три книги согласны; год и место не названы"
+    facts: [F38, F37]
+origin:
+  places: ["#shrihatta", "#kumarahatta", "#navadvipa"]
+  family: ["@govinda-ghosha", "@madhava-ghosha"]
+  varna: "каястха (Уттара-Рархи)"
+  facts: [F7, F8, F9, F10, F11]
+  note: "Шрихатта (деревня Буран/Буранги): по B — дом дяди по матери, по M — родная деревня (F9). В Навадвип братья переселились «позже» (B) или после смерти отца (M) (F11)."
+relations:
+  - {type: sibling, who: "@govinda-ghosha", facts: [F7, F29, F31, F35, F36], note: "Ведущий певец их группы на Ратха-ятре (ЧЧ Мадхья 13.42–43); остался с Господом, когда Васудева и Мадхава ушли с Нитьянандой."}
+  - {type: sibling, who: "@madhava-ghosha", facts: [F7, F29, F31, F33, F34, F37], note: "Вместе служили Нитьянанде киртаном в Гауде (F33); B называет Мадхавананду «братом Васудевы Гхоша» (F34)."}
+  - {type: companion, who: "@nityananda", facts: [F4, F24, F29, F31, F32, F33], events: [ev-nityananda-sent-to-gauda, ev-nityananda-panihati-abhisheka],
+     note: "В обеих ганах — Гауры и Нитьянанды (ЧЧ Ади 11.15); по ЧЧ Ади 10.117–118 пошёл с Ним в Гауду; песня о Нитьянанде (F24)."}
+  - {type: companion, who: "@mahaprabhu", facts: [F2, F18, F19, F20, F21, F22, F35, F36, F39], events: [ev-ratha-yatra-gundicha, ev-gauda-devotees-come-with-wives],
+     note: "Пел в четвёртой группе на Ратха-ятре; ежегодно приходил в Пури. Все подлинные пады — о Гауре."}
+  - {type: siksha-guru, who: "@narahari-sarakara", facts: [F17, F2], note: "Начал слагать пады, следуя Нарахари («Падасамудра»); не посвящение — образец поэта."}
+  - {type: co-worker, who: "@vakreshvara", facts: [F35], event: ev-ratha-yatra-gundicha, note: "Танцор их группы на Ратха-ятре."}
+  - {type: co-worker, who: "@chhota-haridasa", facts: [F35], note: "Подпевал в четвёртой группе (с ним — Вишнудас; какой именно Вишнудас — не сказано)."}
+  - {type: co-worker, who: "@raghava-pandita", facts: [F35, F32], note: "Подпевал в той же группе; в его доме в Панихати братья пели для Нитьянанды."}
+  - {type: companion, who: "@shivananda-sena", facts: [F36], note: "С ним братья ежегодно ходили из Гауды в Пури."}
+  - {type: other, who: "@abhirama", facts: [F4, F31], note: "Как и он, в обеих ганах; вместе ушли с Нитьянандой в Гауду (ЧЧ Ади 10.117–118)."}
+  - {type: other, who: "@gadadhara-dasa", facts: [F4, F34]}
+  - {type: other, who: "@gadadhara-pandita", facts: [F26], note: "Его песни подтверждают, что Гададхара — Радха (M)."}
+  - {type: other, who: "@shachi", facts: [F20], note: "Пада о пляске младенца во дворе Шачи."}
+  - {type: other, who: "@jagannatha-mishra", facts: [F20]}
+  - {type: other, who: "@narottama-dasa", facts: [F39], events: [ev-kheturi-festival, ev-kheturi-mahantas-depart], note: "На киртане Нароттамы в Кхетури (БР 10, по M); по НВ 8 (lila-db) — Нароттама пел паду Васу Гхоша."}
+  - {type: other, who: "@bhaktivinoda", facts: [F3], note: "Назвал его в «Гаура-арати»."}
+  - {type: other, who: "@mukunda-sanjaya", facts: [F3], note: "«Санджая, Мукунда, Васу Гхош поют» («Гаура-арати»)."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F14], note: "Братья — кая-вьюха ашрая-виграхи мадхура-расы."}
+  - {type: other, who: "@krishnadasa-kaviraja", facts: [F19, Q4]}
+  - {type: other, who: "@vrindavana-dasa", facts: [F29, Q3]}
+  - {type: other, who: "@kavi-karnapura", facts: [F13, Q1]}
+  - {type: other, who: "@shridhara-maharaja", facts: [I1], note: "Толкование песни «йади гаура на ха’та» (по M)."}
+unnamed:
+  - {who: "отец (поселился в Кумарахатте)", type: father, facts: [F10, F11]}
+  - {who: "дядя по матери (дом в Шрихатте, по B)", type: uncle, facts: [F9]}
+identities:
+  - in: krishna-lila
+    as: "Гунатунга — сакхи Враджа, певшая песни, сложенные Вишакхой"
+    source: "ГГД 188 (по T, M, B)"
+    level: A
+    facts: [F13, Q1]
+  - in: tattva
+    as: "кая-вьюха ашрая-виграхи (Радхи) мадхура-расы; в разряде принявших Радхику высшей ашрая-виграхой"
+    source: "Бхактисиддханта, «Гаудия-бхашья» (по B 189, 848; M 243)"
+    level: B
+    facts: [F14]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-nityananda-sent-to-gauda
+  - ev-nityananda-panihati-abhisheka
+  - ev-associates-of-nityananda-wonders
+  - ev-prataparudra-watches-devotees-roof
+  - ev-ratha-yatra-gundicha
+  - ev-gauda-devotees-come-with-wives
+  - ev-kheturi-festival
+  - ev-kheturi-mahantas-depart
+events_note: "ev-prataparudra-watches-devotees-roof (ЧЧ Мадхья 11.88) и ev-kheturi-mahantas-depart (НВ 8) — только по lila-db; ev-associates-of-nityananda-wonders — ЧЧ Ади 11.19 (F19). Пады Васу Гхоша о играх Господа — lila-db/lilas/padas.yaml."
+teachings_given: []
+teachings_received: []
+works:
+  - {title: "пады о Шри Гауре (в т. ч. «Шачира ангинайа наче Вишвамбхара рая», «Джая джая Джаганнатха Шачира нандана», «Ки кахиба шата шата туйа аватара», «Йади Гаура на ха’та»)", facts: [F16, F18, F20, F21, F22, F25]}
+  - {title: "пада о Нитьянанде «Нитаи кевала патита джанера бандху»", facts: [F24]}
+  - {title: "вставки гаура-нагари под его именем — не подлинны (B)", facts: [F28]}
+places: ["#shrihatta", "#kumarahatta", "#navadvipa", "#panihati", "#gauda", "#puri", "#tamluk", "#kheturi"]
+places_facts: [F9, F10, F11, F20, F31, F32, F33, F35, F36, F37, F39]
+character:
+  - {trait: "сладкоголосый певец киртана, под которого танцевали Нитьянанда и Господь", facts: [F15, F29, F33], events: [ev-nityananda-panihati-abhisheka]}
+  - {trait: "простые и трогающие сердце песни о Гауре, от которых, по ЧЧ, тают дерево и камень", facts: [F18, F19], events: [ev-associates-of-nityananda-wonders]}
+  - {trait: "смирение в подписи: «не знаю ни джапы, ни аскезы — Гауранга, переправь меня»; «почему Васу остался обделён?»", facts: [F22, F24]}
+  - {trait: "вкушает расу разлуки (випраламбха-расика) — по B", facts: [F28, F37]}
+significance: {facts: [F2, F3, F14, F19, F23, F28, I1, I2, I3]}
+sources:
+  T: "63–65 (общая глава о братьях Гхошах); 70, 79"
+  M: "242–245 (общая глава); pdf 35, 101, 114"
+  B: "188–193 (глава); 139, 818, 847–849"
+  other: ["ЧЧ Ади 10.115–118, 11.15, 11.19; Мадхья 11.88, 13.42–43, 16.16", "ЧБ Антья 5.257–259", "ГГД 188", "БР 10 (по M)", "«Падасамудра» (по B)", "«Гаура-арати» Бхактивиноды", "«Гаудия-бхашья» Бхактисиддханты"]
+article: {ru: "parshadas/ru/vasu-ghosha.md", en: "parshadas/en/vasu-ghosha.md"}
+open_questions:
+  - "Шрихатта: дом дяди по матери (B) или родная деревня (M); чтение названия — Буран (বুড়ন) или Буранги (Бадуна у M) (F9)."
+  - "Переселение в Навадвип — «позже» (B) или после смерти отца (M) (F11)."
+  - "Когда поселился в Тамлуке: после санньясы Господа (B 189, «иные говорят», с «?»), «в конце концов» (T) или после ухода Махапрабху (M, «Тамала») (F37)."
+  - "Ведущий певец на Ратха-ятре: по B 193 — Васудева с братьями; по ЧЧ Мадхья 13.42–43, T, M и B 847 — Говинда, Васудева подпевает (F35)."
+  - "Пересказ пады «Ки кахиба…» у M расходится с текстом у B (Кумары, «десять сторон», концовка-призыв) (F22)."
+  - "«Васудева» при Кази-далане (ЧБ Мадхья 23.209, B 848) — Гхош или Датта? (см. «Не взято»)."
+  - "Нумерация ветвей у M (82–84) не совпадает с подзаголовками нашего перевода ЧЧ (F5)."

@@ -7,11 +7,48 @@
   python3 query.py year:1510 age:24 auth:A       # попадает в диапазон / уровень не ниже A
   python3 query.py event:ev-jagai-madhai
   python3 query.py text:Сарвабхаума              # подстрока в title/summary/notes/ref
+  python3 query.py ident:Вишакха                 # лилы с участием тех, кто в Кришна-лиле — Вишакха (по карточкам)
+  python3 query.py who:@svarupa-damodara         # справка о лице: карточка, отождествления, связи, статья
+  python3 query.py who:Вишакха                   # кто отождествляется с … (поиск по отождествлениям)
   python3 query.py ... -l                        # кратко: только id и название
 """
 import json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+_people = None
+
+
+def people():
+    global _people
+    if _people is None:
+        f = os.path.join(HERE, 'export', 'persons.json')
+        _people = {p['id']: p for p in json.load(open(f, encoding='utf-8'))} if os.path.exists(f) else {}
+    return _people
+
+
+def ident_match(v):
+    """Теги лиц, у которых в отождествлениях (карточки parshadas/) есть подстрока v."""
+    v = v.lower()
+    return {t for t, p in people().items()
+            if any(v in ' '.join(str(i.get(k, '')) for k in ('as', 'variants')).lower() for i in p.get('identities') or [])}
+
+
+def who(q):
+    ps = [people()[q]] if q in people() else [people()[t] for t in sorted(ident_match(q))]
+    for p in ps:
+        print(f"{p['id']} · {p['ru']} ({p['en']}){' · ' + p['note'] if p.get('note') else ''}")
+        if p.get('summary'): print('   ', p['summary'])
+        for i in p.get('identities') or []:
+            print(f"    [{i.get('in')}] {i.get('as')} — {i.get('source', '')} ({i.get('level', '')})")
+        rel = p.get('relations') or []
+        if rel:
+            by = {}
+            for r in rel: by.setdefault(r['type'], []).append(r['who'])
+            print('    связи:', '; '.join(f"{k}: {', '.join(v[:6])}{' …' if len(v) > 6 else ''}" for k, v in by.items()))
+        art = p.get('article') or {}
+        print(f"    лил: {len(p.get('lilas') or [])}, событий: {len(p.get('events') or [])}"
+              f"{', статья: ' + art['ru'] if art.get('ru') else ''}")
+    print(f'— найдено: {len(ps)}')
 
 
 def match(e, c):
@@ -26,6 +63,8 @@ def match(e, c):
         r = e.get('years' if k == 'year' else 'age')
         return bool(r) and r[0] <= int(v) <= r[1]
     if k == 'scripture': return any(v.lower() in s.lower() for s in e.get('scriptures') or [])
+    if k == 'ident':
+        return bool(ident_match(v) & set(e.get('persons') or []))
     if k == 'text':
         hay = ' '.join(str(e.get(x, '')) for x in ('title', 'summary', 'notes', 'ref', 'parallels', 'divergence'))
         return v.lower() in hay.lower()
@@ -35,6 +74,8 @@ def match(e, c):
 def main(args):
     short = '-l' in args
     conds = [a for a in args if a != '-l']
+    if len(conds) == 1 and conds[0].startswith('who:'):
+        return who(conds[0][4:])
     data = json.load(open(os.path.join(HERE, 'export', 'lilas.json'), encoding='utf-8'))
     res = [e for e in data if all(match(e, c) for c in conds)]
     for e in res:

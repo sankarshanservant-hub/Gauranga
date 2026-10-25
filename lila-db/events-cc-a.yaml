@@ -1,0 +1,474 @@
+# События, заведённые при внесении «Шри Чайтанья-чаритамриты», Антья-лила 1–20 (исполнитель cc-a; формат — README.md).
+# Дописывать в конец; порядок на шкале — поле order.
+
+# --- Антья 1 ---
+- id: ev-satyabhama-dream-rupa
+  title: "Сон Рупы в Сатьябхама-пуре: Сатьябхама велит написать о Ней отдельную драму"
+  title_en: "Rupa's dream at Satyabhama-pura: Satyabhama asks for a separate drama about Her"
+  period: P14
+  order: 9.5
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.40–44"
+  cb: ""
+  themes: [celestial, author]
+  notes: "По пути из Гауды в Пури; отсюда — разделение замысла на «Видагдха-мадхаву» и «Лалита-мадхаву» (ср. ev-rupa-puri-dramas)."
+
+- id: ev-rupa-arrives-haridasa-puri
+  title: "Рупа приходит к Господу в Пури: Харидас, бенгальские преданные, благословение Адвайты и Нитьянанды"
+  title_en: "Rupa comes to the Lord in Puri: Haridasa, the Bengali devotees, the blessing of Advaita and Nityananda"
+  period: P14
+  order: 10.5
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.45–64"
+  cb: "Антья 9.235–275"
+  themes: [mercy, prasada]
+  notes: "Вторая встреча Рупы с Господом (первая — в Праяге, ev-rupa-prayaga); по ЧЧ — во время Ратха-ятры, когда пришли бенгальцы; Господь просит Адвайту и Нитьянанду благословить Рупу. Расхождения: ЧБ Антья 9.235–275 — Рупа приходит вместе с Сакарой Малликом (Санатаной), Господь велит им припасть к стопам Адвайты, тот благословляет их премой, и Господь посылает их в Матхуру; Карнапура, Махакавья 17.8–24 — три брата (с Анупамой) вместе приходят в сад во время Ратха-ятры, славят Господа, Он отсылает их к Джаганнатхе, читает «на ме ’бхакташ чатур-веди» и раздаёт махапрасад. По ЧЧ (Антья 1, 4) Рупа и Санатана приходили в Пури порознь, а Анупама умер в Бенгалии."
+
+- id: ev-priyah-so-yam-rupa
+  title: "Шлока Рупы «прийах со ’йам»: Господь находит лист на крыше хижины"
+  title_en: "Rupa's verse priyah so 'yam: the Lord finds the palm leaf on the roof"
+  period: P14
+  order: 11.5
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.72–92"
+  cb: ""
+  themes: [ecstasy, jagannatha, krishna-lila]
+  notes: "Ответ на шлоку «йах каумара-харах», которую Господь повторял на Ратха-ятре (Мадхья 1, 13)."
+
+- id: ev-tunde-tandavini
+  title: "Стих Рупы «тунде тандавини» о сладости имени «Кришна»"
+  title_en: "Rupa's verse tunde tandavini on the sweetness of the name Krishna"
+  period: P14
+  order: 11.7
+  years: [1516, 1517]
+  date_conf: оценка
+  cc: "Антья 1.94–102"
+  cb: ""
+  themes: [ecstasy, teaching]
+  teaching: [holy-name]
+  notes: "Видагдха-мадхава 1.15; затем стих прочитан при собрании (ev-rupa-puri-dramas)."
+
+- id: ev-rupa-sent-vrindavana-after-dola
+  title: "После Дола-ятры Господь посылает Рупу во Вриндаван писать о расах и восстанавливать святые места"
+  title_en: "After Dola-yatra the Lord sends Rupa to Vrindavana to write on rasa and restore the holy places"
+  period: P14
+  order: 12.8
+  years: [1517, 1517]
+  date_conf: оценка
+  cc: "Антья 1.213–221"
+  cb: ""
+  themes: [mercy, festival, pilgrimage]
+  notes: "Господь велит прислать к Нему Санатану (ср. ev-sanatana-puri-sores)."
+
+# --- Антья 2 ---
+- id: ev-tattva-three-ways-deliverance
+  title: "Три способа, которыми Гаура спасает мир: личная встреча, вхождение в преданного, явление"
+  title_en: "Three ways Gaura delivers the world: personal meeting, empowering a devotee, manifestation"
+  period: PX
+  order: 117.1
+  cc: "Антья 2.3–15"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva]
+  notes: "Сакшад-даршана, авеша (Накула Брахмачари — ev-nakula-brahmachari), авирбхава (Нрисимхананда — ev-nrisimhananda-three-offerings; ev-avirbhava-four-places)."
+
+- id: ev-gopala-bhattacharya-mayavada
+  title: "Бхагаван Ачарья и его брат-майявади: Сварупа запрещает слушать толкование Шанкары"
+  title_en: "Bhagavan Acharya and his Mayavadi brother: Svarupa forbids hearing Shankara's commentary"
+  period: P14
+  order: 24
+  cc: "Антья 2.84–100"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [vedanta, bhakti-supremacy]
+  notes: ""
+
+- id: ev-chhota-haridasa-prayaga
+  title: "Младший Харидас оставляет тело в Праяге и поёт Господу в облике гандхарвы"
+  title_en: "Junior Haridasa gives up his body at Prayaga and sings to the Lord as a Gandharva"
+  period: P14
+  order: 25.5
+  cc: "Антья 2.146–166"
+  cb: ""
+  themes: [departure, sannyasa, mercy]
+  notes: "Через год после наказания (ev-chhota-haridasa-punished)."
+
+# --- Антья 3 ---
+- id: ev-haridasa-namabhasa-yavanas
+  title: "Беседа Господа с Харидасом: как спасутся яваны — проблеск имени (намабхаса)"
+  title_en: "The Lord's talk with Haridasa: how the yavanas will be delivered — namabhasa"
+  period: P14
+  order: 57
+  cc: "Антья 3.49–64"
+  cb: ""
+  themes: [teaching, muslims]
+  teaching: [holy-name]
+  notes: "«Харам» мусульман содержит имя Рамы; пример Аджамилы."
+
+- id: ev-haridasa-sthavara-jangama-deliverance
+  title: "Харидас: санкиртана Господа освобождает движущихся и неподвижных существ"
+  title_en: "Haridasa: the Lord's sankirtana delivers moving and nonmoving beings"
+  period: P14
+  order: 57.5
+  cc: "Антья 3.65–92"
+  cb: ""
+  themes: [teaching, kirtan, mercy]
+  teaching: [holy-name, gaura-tattva]
+  notes: "Ссылки на игры в Джхарикханде (Мадхья 17) и молитву Васудевы Датты (Мадхья 15)."
+
+- id: ev-nityananda-ramachandra-khan
+  title: "Рамачандра Хан оскорбляет Нитьянанду и разорён мусульманским чиновником"
+  title_en: "Ramachandra Khan offends Nityananda and is ruined by a Muslim official"
+  period: P14
+  order: 27
+  cc: "Антья 3.143–163"
+  cb: ""
+  themes: [offense, muslims]
+  notes: "Во время проповеди Нитьянанды в Бенгалии; не путать с Рамачандрой Ханом из Чхатрабхоги (ev-chhatrabhoga-ramachandra-khan)."
+
+- id: ev-haridasa-gopala-chakravarti
+  title: "Харидас в Чандапуре: спор о силе имени и наказание Гопалы Чакраварти"
+  title_en: "Haridasa at Chandapur: the debate on the power of the name and the punishment of Gopala Chakravarti"
+  period: P05
+  order: 20
+  years: [1500, 1506]
+  date_conf: оценка
+  date_basis: "Рагхунатха Дас ещё мальчик-школьник (ст. 168)"
+  cc: "Антья 3.164–212"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [holy-name, bhakti-supremacy, vaishnava]
+  notes: "Собрание в доме Хираньи и Говардханы; плод имени — према, освобождение лишь побочно."
+
+- id: ev-maya-tests-haridasa
+  title: "Майя испытывает Харидаса и получает от него имя Кришны"
+  title_en: "Maya tests Haridasa and receives the name of Krishna from him"
+  period: P01
+  order: 2.97
+  cc: "Антья 3.225–266"
+  cb: ""
+  themes: [celestial, mercy]
+  teaching: [holy-name]
+  notes: "Три лунные ночи у пещеры Харидаса; ЧЧ относит её ко времени разлива премы с приходом Господа (ст. 252)."
+
+# --- Антья 4 ---
+- id: ev-anupama-rama-devotion
+  title: "Анупама не может оставить стопы Рамачандры: испытание старшими братьями"
+  title_en: "Anupama cannot give up Ramachandra's feet: his elder brothers' test"
+  period: P12
+  order: 990
+  cc: "Антья 4.28–47"
+  cb: ""
+  themes: [family, teaching]
+  teaching: [vaishnava]
+  notes: "Рассказ Санатаны в Пури о прошлом (в Гауде, до ухода братьев от мира); Господь сравнивает с испытанием Мурари Гупты."
+
+- id: ev-sanatana-suicide-forbidden
+  title: "Господь запрещает Санатане самоубийство: «твоё тело — Моя собственность»"
+  title_en: "The Lord forbids Sanatana's suicide: \"your body is My property\""
+  period: P14
+  order: 14.1
+  cc: "Антья 4.54–103"
+  cb: ""
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, holy-name, vaishnava]
+  notes: "Поручения Санатане: этикет вайшнавов, бхакти, святые места Враджа."
+
+- id: ev-sanatana-hot-sand-test
+  title: "Санатана идёт по раскалённому песку, избегая Львиных ворот"
+  title_en: "Sanatana walks on the burning sand, avoiding the Lion Gate"
+  period: P14
+  order: 14.2
+  cc: "Антья 4.115–134"
+  cb: ""
+  calendar: "джьяиштха"
+  themes: [teaching, prasada]
+  teaching: [vaishnava, purity]
+  notes: "В саду Ямешвары (Тота?)."
+
+- id: ev-jagadananda-advises-sanatana
+  title: "Джагадананда советует Санатане вернуться во Вриндаван; Господь бранит Джагадананду"
+  title_en: "Jagadananda advises Sanatana to return to Vrindavana; the Lord rebukes Jagadananda"
+  period: P14
+  order: 14.3
+  cc: "Антья 4.135–164"
+  cb: ""
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  notes: ""
+
+- id: ev-sanatana-returns-vrindavana-forest-path
+  title: "Санатана возвращается во Вриндаван лесным путём Господа"
+  title_en: "Sanatana returns to Vrindavana by the Lord's forest path"
+  period: P14
+  order: 14.9
+  cc: "Антья 4.207–213"
+  cb: ""
+  themes: [pilgrimage, separation]
+  notes: "Места пути узнаёт у Балабхадры Бхаттачарьи."
+
+- id: ev-rupa-sanatana-books-vrindavana
+  title: "Рупа и Санатана во Вриндаване: писания, святые места и книги"
+  title_en: "Rupa and Sanatana in Vrindavana: scriptures, holy places and books"
+  period: P14
+  order: 17.1
+  cc: "Антья 4.217–226"
+  cb: ""
+  themes: [teaching, author]
+  teaching: [scripture, prema]
+  notes: "Перечень книг: Брихад-бхагаватамрита, Дашама-типпани, Хари-бхакти-виласа; Бхакти-расамрита-синдху, Уджвала-ниламани, Видагдха- и Лалита-мадхава, Дана-кели-каумуди. Ср. ev-gosvamis-reveal-lost-tirthas."
+
+# --- Антья 5 ---
+- id: ev-pradyumna-mishra-hears-ramananda
+  title: "Прадьюмна Мишра слушает о Кришне от Рамананды Рая"
+  title_en: "Pradyumna Mishra hears about Krishna from Ramananda Raya"
+  period: P14
+  order: 35
+  cc: "Антья 5.4–90"
+  cb: ""
+  themes: [teaching, krishna-lila]
+  teaching: [prema, vaishnava]
+  notes: "Включает рассказ о том, как Рамананда учит девадаси танцу для Джаганнатхи, и слова Господа о духовной природе тела Рамананды."
+
+- id: ev-bengali-poet-drama-svarupa
+  title: "Бенгальский поэт и его драма: Сварупа Дамодара обличает ошибку и открывает в шлоке молитву Сарасвати"
+  title_en: "The Bengali poet's drama: Svarupa Damodara exposes the error and reveals Sarasvati's prayer in the verse"
+  period: P14
+  order: 36
+  cc: "Антья 5.91–158"
+  cb: ""
+  themes: [teaching, jagannatha, mercy]
+  teaching: [gaura-tattva, scripture]
+  notes: "Правило: всё, что читают Господу, сначала проверяет Сварупа."
+
+# --- Антья 6 ---
+- id: ev-raghunatha-dasa-saptagrama-arrest
+  title: "Мусульманский чиновник заточает Рагхунатху Даса в Саптаграме; Рагхунатха мирит его с Хираньей"
+  title_en: "A Muslim official imprisons Raghunatha Dasa at Saptagrama; Raghunatha reconciles him with Hiranya"
+  period: P14
+  order: 28
+  cc: "Антья 6.16–41"
+  cb: ""
+  themes: [muslims, family]
+  notes: "После возвращения Господа из Вриндавана; затем — попытки бегства."
+
+- id: ev-raghunatha-dasa-escape
+  title: "Бегство Рагхунатхи Даса из дома в Пури"
+  title_en: "Raghunatha Dasa's flight from home to Puri"
+  period: P14
+  order: 29.5
+  cc: "Антья 6.157–188"
+  cb: ""
+  themes: [sannyasa, pilgrimage]
+  notes: "Ночью, проводив гуру Ядунандану Ачарью; двадцать дней пути через Чхатрабхогу."
+
+- id: ev-raghunatha-lord-instructions
+  title: "Наставления Господа Рагхунатхе Дасу: не слушать мирского, не есть вкусного, повторять имя"
+  title_en: "The Lord's instructions to Raghunatha Dasa: hear nothing worldly, eat nothing rich, chant the name"
+  period: P14
+  order: 30.3
+  cc: "Антья 6.228–241"
+  cb: ""
+  themes: [teaching, sannyasa]
+  teaching: [sannyasa-teaching, holy-name]
+  notes: "«грамья-катха на шунибе…»; Шикшаштака 3."
+
+- id: ev-raghunatha-stops-invitations
+  title: "Рагхунатха перестаёт приглашать Господа на деньги отца и просить у Львиных ворот"
+  title_en: "Raghunatha stops inviting the Lord with his father's money and begging at the Lion Gate"
+  period: P14
+  order: 30.7
+  cc: "Антья 6.266–286"
+  cb: ""
+  themes: [sannyasa, prasada, teaching]
+  teaching: [sannyasa-teaching, purity]
+  notes: ""
+
+- id: ev-raghunatha-rotten-rice
+  title: "Рагхунатха ест промытый гнилой прасад; Господь отнимает у него пригоршню"
+  title_en: "Raghunatha eats washed rotten prasada; the Lord snatches a handful"
+  period: P14
+  order: 31.5
+  cc: "Антья 6.309–325"
+  cb: ""
+  themes: [sannyasa, prasada]
+  notes: ""
+
+# --- Антья 7 ---
+- id: ev-vallabha-sridhara-svami
+  title: "Валлабха Бхатта спорит с вайшнавами и отвергает Шридхару Свами; Господь смиряет его гордость"
+  title_en: "Vallabha Bhatta argues with the Vaishnavas and rejects Shridhara Svami; the Lord humbles his pride"
+  period: P14
+  order: 32.5
+  cc: "Антья 7.96–137"
+  cb: ""
+  themes: [learning, teaching, mercy]
+  teaching: [scripture, holy-name]
+  notes: "«Кто не признаёт Свами — блудница»; Шридхара Свами — гуру мира. Ср. ev-vallabha-bhatta-puri."
+
+- id: ev-gadadhara-vallabha-initiation
+  title: "Господь испытывает Гададхару; Валлабха Бхатта получает посвящение от Гададхары"
+  title_en: "The Lord tests Gadadhara; Vallabha Bhatta is initiated by Gadadhara"
+  period: P14
+  order: 32.8
+  cc: "Антья 7.138–167"
+  cb: ""
+  themes: [mercy, teaching]
+  teaching: [associates-tattva, prema]
+  notes: "Любовь Гададхары — как у Рукмини, Джагадананды — как у Сатьябхамы; «Гададхара-прананатха»."
+
+# --- Антья 8 ---
+- id: ev-madhavendra-puri-departure
+  title: "Уход Мадхавендры Пури: отвержение Рамачандры Пури и благословение Ишвары Пури"
+  title_en: "Madhavendra Puri's departure: rejection of Ramachandra Puri and blessing of Ishvara Puri"
+  period: P05
+  order: 3
+  date_conf: оценка
+  cc: "Антья 8.16–35"
+  cb: ""
+  themes: [departure, separation, offense]
+  teaching: [prema]
+  notes: "Шлока «айи дина-даярдра натха»; время и место в ЧЧ не названы: после встречи Нитьянанды с Мадхавендрой (ЧБ Ади 9) и до встречи Господа с Ишварой Пури."
+
+- id: ev-ramachandra-puri-criticism
+  title: "Рамачандра Пури в Пури осуждает Господа, и Господь сокращает еду"
+  title_en: "Ramachandra Puri in Puri criticises the Lord, and the Lord reduces His eating"
+  period: P14
+  order: 37
+  cc: "Антья 8"
+  cb: ""
+  themes: [offense, prasada, sannyasa]
+  teaching: [sannyasa-teaching]
+  notes: "Муравьи и «любовь к сладостям»; Парамананда Пури и преданные упрашивают Господа есть хотя бы половину прежнего."
+
+# --- Антья 9 ---
+- id: ev-gopinatha-pattanayaka-pardoned
+  title: "Спасение Гопинатхи Паттанаяка: казнь отменена, царь прощает долг"
+  title_en: "The rescue of Gopinatha Pattanayaka: the execution cancelled, the king forgives the debt"
+  period: P14
+  order: 38
+  cc: "Антья 9"
+  cb: ""
+  themes: [mercy, jagannatha]
+  notes: "Господь отказывается просить царя и хочет уйти в Алаланатху; Пратапарудра прощает долг, узнав об этом от Каши Мишры."
+
+# --- Антья 10 ---
+- id: ev-jagamohana-dance-govinda-crosses
+  title: "Танец Господа в храме под песню «джагамохана»; Говинда переступает через спящего Господа"
+  title_en: "The Lord's dance in the temple to the Jagamohana song; Govinda steps over the sleeping Lord"
+  period: P14
+  order: 51
+  cc: "Антья 10.57–102"
+  cb: ""
+  themes: [kirtan, ecstasy, jagannatha]
+  teaching: [vaishnava]
+  notes: "Киртан семи групп вокруг храма; строка на ория «пусть моя голова склонится в джагамохане»."
+
+- id: ev-chaitanya-dasa-feast
+  title: "Приглашения бенгальских вайшнавов; пиры Шивананды и его сына Чайтаньи Даса"
+  title_en: "Invitations of the Bengali Vaishnavas; the feasts of Shivananda and his son Chaitanya Dasa"
+  period: P14
+  order: 52
+  cc: "Антья 10.132–157"
+  cb: ""
+  themes: [prasada, family]
+  notes: "«Что за имя такое — Чайтанья Дас?»; сын угадывает желание Господа."
+
+# --- Антья 12 ---
+- id: ev-nityananda-kicks-shivananda
+  title: "Нитьянанда пинает Шивананду Сену, оставшись без ночлега; Шриканта уходит вперёд к Господу"
+  title_en: "Nityananda kicks Shivananda Sena when left without lodging; Shrikanta goes ahead to the Lord"
+  period: P14
+  order: 5.5
+  cc: "Антья 12.7–43"
+  cb: ""
+  themes: [mercy, pilgrimage]
+  notes: "«Проклятие» трём сыновьям Шивананды; Шивананда счастлив прикосновению стопы."
+
+- id: ev-parameshvara-modaka
+  title: "Кондитер Парамешвара из Надии у Господа в Пури"
+  title_en: "Parameshvara the sweet-maker of Nadia with the Lord in Puri"
+  period: P14
+  order: 6.5
+  cc: "Антья 12.54–60"
+  cb: ""
+  themes: [mercy, family]
+  notes: "«Со мной пришла и мать Мукунды» — простодушная любовь."
+
+- id: ev-lord-debt-gauda-devotees
+  title: "Прощаясь с бенгальцами, Господь называет Себя их должником и отдаёт им Своё тело"
+  title_en: "Bidding farewell to the Bengalis, the Lord calls Himself their debtor and gives them His body"
+  period: P14
+  order: 7
+  cc: "Антья 12.61–85"
+  cb: ""
+  themes: [separation, mercy]
+  notes: ""
+
+# --- Антья 13 ---
+- id: ev-jagadananda-bed-banana
+  title: "Постель для Господа: Господь отвергает подстилку Джагадананды и принимает ложе из банановых волокон Сварупы"
+  title_en: "A bed for the Lord: He refuses Jagadananda's quilt and accepts Svarupa's bed of banana fibres"
+  period: P14
+  order: 71.5
+  cc: "Антья 13.3–20"
+  cb: ""
+  themes: [sannyasa, separation]
+  notes: ""
+
+- id: ev-devadasi-gita-govinda-song
+  title: "Господь бежит на пение «Гита-говинды» девадаси; Говинда удерживает Его"
+  title_en: "The Lord runs towards a devadasi singing the Gita-govinda; Govinda holds Him back"
+  period: P14
+  order: 73
+  cc: "Антья 13.78–88"
+  cb: ""
+  themes: [ecstasy, sannyasa]
+  notes: "По пути к храму Ямешвары."
+
+- id: ev-raghunatha-bhatta-first-visit-puri
+  title: "Первый приход Рагхунатхи Бхатты к Господу в Пури (с Рамадасом Вишвасом)"
+  title_en: "Raghunatha Bhatta's first visit to the Lord in Puri (with Ramadasa Vishvasa)"
+  period: P14
+  order: 74
+  cc: "Антья 13.89–117"
+  cb: ""
+  themes: [mercy, prasada, family]
+  notes: "Восемь месяцев с Господом; запрет жениться, служение родителям. Затем — ev-raghunatha-bhatta-sent-vrindavana."
+
+# --- Антья 14 ---
+- id: ev-oriya-woman-garuda-pillar
+  title: "Женщина-ория ставит ногу на плечо Господа у колонны Гаруды"
+  title_en: "An Oriya woman puts her foot on the Lord's shoulder at the Garuda pillar"
+  period: P14
+  order: 100.45
+  cc: "Антья 14.22–30"
+  cb: ""
+  themes: [jagannatha, mercy]
+  notes: "«Джаганнатха не дал Мне такого стремления, как у неё»; после сна о раса-лиле (ev-rasa-dream-separation)."
+
+# --- Антья 15 ---
+- id: ev-flower-garden-vrindavana-search
+  title: "Сад у моря принят за Вриндаван: Господь, как гопи, ищет Кришну у деревьев и лиан"
+  title_en: "A garden by the sea taken for Vrindavana: like the gopis, the Lord seeks Krishna among the trees and creepers"
+  period: P14
+  order: 100.65
+  cc: "Антья 15.28–94"
+  cb: ""
+  themes: [ecstasy, krishna-lila, separation]
+  notes: "Шлоки Бхаг. 10.30; видение Кришны под кадамбой; танец под «Гита-говинду» 2.3. Рупа, «Чайтанья-аштака» 6."
+
+# --- Антья 16 ---
+- id: ev-krishna-adharamrita-phela
+  title: "Прасад со вкусом нектара уст Кришны: «частица фелы, обретаемая благодаря сукрити»"
+  title_en: "Prasada with the taste of the nectar of Krishna's lips: \"a particle of phela obtained by sukriti\""
+  period: P14
+  order: 100.75
+  cc: "Антья 16.88–150"
+  cb: ""
+  themes: [ecstasy, prasada, krishna-lila]
+  teaching: [prasada-teaching, prema]
+  notes: "Прасад «гопала-валлабха-бхога»; ночное толкование шлок о губах Кришны и о флейте (Бхаг. 10.31.14, 10.21.9; Говинда-лиламрита 8.8)."

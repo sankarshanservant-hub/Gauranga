@@ -1,5 +1,7 @@
-"""Собирает главы 01.md–22.md в один Markdown, DOCX (python-docx) и PDF (reportlab).
+"""Собирает главы 01.md–22.md (RU) или en/01.md–22.md (EN) в один Markdown,
+DOCX (python-docx) и PDF (reportlab).
 
+Запуск: python3 build.py [ru|en|all] (по умолчанию all).
 Зависимости: pip install python-docx reportlab; шрифт Liberation Serif.
 """
 import os, re, sys
@@ -38,19 +40,61 @@ PREFACE = """# Шри Адвайта-пракаша
 
 """
 
-def chapters():
-    return [os.path.join(HERE, f'{i:02d}.md') for i in range(1, 23)]
+PREFACE_EN = """# Sri Advaita-prakasha
 
-def build_md():
+*Ishana Nagara*
+
+*Translated from the Bengali*
+
+---
+
+## Translator's preface
+
+The *Advaita-prakasha* is the life of Sri Advaita Acharya, one of the principal associates
+of Sri Chaitanya Mahaprabhu. It was composed by Ishana Nagara, a disciple and servant of
+Advaita who grew up in His house. As the last chapter states, the book was completed in the
+year 1490 of the Shaka era (AD 1568) in Lauda.
+
+The translation follows an edition in which the Bengali couplets (*payar*) are printed in
+Devanagari, each followed by a modern Hindi paraphrase. Only **the original text of Ishana
+Nagara** is translated here, couplet by couplet, keeping the numbering. The publisher's Hindi
+paraphrase served only to check the sense. The publisher's insertions were not translated:
+extracts from other works and modern songs.
+
+The text of the edition was digitized (OCR) with small errors. Where a reading was unclear,
+this is noted in the notes at the end of each chapter. Sanskrit and Bengali names are given
+in a simplified transcription; Sanskrit and Bengali terms are in italics. The English version
+was made from the Bengali, with the Russian translation as a guide to numbering and notes;
+the numbering of both versions is the same.
+
+---
+
+## Contents
+
+"""
+
+LANGS = {
+    'ru': dict(out='Advaita-Prakash-ru', preface=PREFACE, dir=HERE,
+               title='Шри Адвайта-пракаша', author='Ишана Нагара (рус. пер.)'),
+    'en': dict(out='Advaita-Prakash-en', preface=PREFACE_EN, dir=os.path.join(HERE, 'en'),
+               title='Sri Advaita-prakasha', author='Ishana Nagara (English tr.)'),
+}
+
+
+def chapters(d=HERE):
+    return [os.path.join(d, f'{i:02d}.md') for i in range(1, 23)]
+
+def build_md(lang='ru'):
+    L = LANGS[lang]
     toc, body = [], []
-    for i, p in enumerate(chapters(), 1):
+    for i, p in enumerate(chapters(L['dir']), 1):
         text = open(p, encoding='utf-8').read().strip()
         title = text.splitlines()[0].lstrip('# ').strip()
         sub = re.search(r'^\*(.+)\*$', text, re.M)
         toc.append(f'{i}. {title}' + (f' — {sub.group(1)}' if sub else ''))
         body.append(text)
-    md = PREFACE + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
-    open(os.path.join(HERE, OUT + '.md'), 'w', encoding='utf-8').write(md)
+    md = L['preface'] + '\n'.join(toc) + '\n\n---\n\n' + '\n\n---\n\n'.join(body) + '\n'
+    open(os.path.join(HERE, L['out'] + '.md'), 'w', encoding='utf-8').write(md)
     return md
 
 FONT_DIR = '/usr/share/fonts/truetype/liberation'
@@ -130,7 +174,7 @@ def build_docx(blocks, path):
     doc.save(path)
 
 
-def build_pdf(blocks, path):
+def build_pdf(blocks, path, title='Шри Адвайта-пракаша', author='Ишана Нагара (рус. пер.)'):
     from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
     from reportlab.lib.pagesizes import A4
     from reportlab.lib.styles import ParagraphStyle
@@ -188,12 +232,15 @@ def build_pdf(blocks, path):
             story.append(Paragraph(markup(text), styles[kind]))
     doc = SimpleDocTemplate(path, pagesize=A4, leftMargin=2.2 * cm, rightMargin=2.2 * cm,
                             topMargin=2 * cm, bottomMargin=2 * cm,
-                            title='Шри Адвайта-пракаша', author='Ишана Нагара (рус. пер.)')
+                            title=title, author=author)
     doc.build(story, onFirstPage=footer, onLaterPages=footer)
 
 
 if __name__ == '__main__':
-    blocks = parse(build_md())
-    build_docx(blocks, os.path.join(HERE, OUT + '.docx'))
-    build_pdf(blocks, os.path.join(HERE, OUT + '.pdf'))
-    print('ok')
+    arg = sys.argv[1] if len(sys.argv) > 1 else 'all'
+    for lang in (LANGS if arg == 'all' else [arg]):
+        L = LANGS[lang]
+        blocks = parse(build_md(lang))
+        build_docx(blocks, os.path.join(HERE, L['out'] + '.docx'))
+        build_pdf(blocks, os.path.join(HERE, L['out'] + '.pdf'), L['title'], L['author'])
+        print('ok', lang)

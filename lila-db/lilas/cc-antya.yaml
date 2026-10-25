@@ -1,0 +1,3258 @@
+# «Шри Чайтанья-чаритамрита», Антья-лила 1–20 (исполнитель cc-a). Формат — lila-db/README.md.
+
+- id: cc-4001
+  source: cc
+  ref: "Антья 1.1–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: PX
+  order: 995.01
+  title: "Мангалачарана Антья-лилы: поклон Чайтанье, святым, шести Госвами, Радха-Мадана-мохану, Говинде и Гопинатхе; автор, старый и близкий к смерти, приступает к Антья-лиле"
+  summary: "Поклон Шри Кришне Чайтанье, по милости Которого хромой одолевает горы; молитва святым о посохе милости, шести Госвами, Радха-Мадана-мохану, Гандхарва-Говиндасундаре и Гопинатхе у Вамшиваты. Главные игры кратко описаны; автор, ослабевший от старости, расскажет теперь о том, что прежде не описал."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-bhatta", "@jiva-gosvami", "@gopala-bhatta", "@raghunatha-dasa", "@madana-mohana-vrindavana", "@govinda-deity", "@gopinatha-vrindavana"]
+  places: ["#vrindavana", "#vamshivata"]
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 1"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "1", to: "12"}
+
+- id: cc-4002
+  source: cc
+  ref: "Антья 1.13–33"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 10
+  title: "Собака Шивананды Сены: Шивананда кормит пса в пути и платит за его переправу; пропавший пёс у Господа в Пури повторяет «Кришна» и уходит на Вайкунтху"
+  summary: "Узнав о возвращении Господа из Вриндавана, преданные Бенгалии во главе с Адвайтой идут в Пури под опекой Шивананды Сены; Шивананда кормит приставшего к ним пса и платит лодочнику за его переправу. Когда пёс пропал, Шивананда не стал ужинать. В Пури преданные видят пса перед Господом: Господь кормит его мякотью кокоса и велит повторять «Рама, Кришна, Хари»; пёс повторяет «Кришна», Шивананда кланяется ему и просит прощения, и пёс, обретя духовное тело, уходит на Вайкунтху."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@advaita", "@svarupa-damodara", "@shachi"]
+  places: ["#kulinagrama", "#shrikhanda", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 20 — Шивананду задерживает сборщик пошлины (ср. ev-shivananda-toll-arrest)."
+  themes: [mercy, prasada]
+  cc: "Антья 1"
+  event: ev-shivananda-dog
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "13", to: "33"}
+
+- id: cc-4003
+  source: cc
+  ref: "Антья 1.34–39"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 9
+  title: "Рупа начинает во Врадже драму о Кришне; по пути в Гауду кончается Анупама"
+  summary: "По велению Господа Рупа ушёл во Вриндаван и начал там драму об играх Кришны, составив благословляющее вступление; по пути в Гауду он обдумывал её. В Бенгалии скоропостижно скончался Анупама; совершив обряды, Рупа пошёл к Господу, но уже не застал вайшнавов Бенгалии, ушедших в Пури."
+  persons: ["@rupa-gosvami", "@anupama"]
+  places: ["#vrindavana", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [departure, author]
+  cc: "Антья 1"
+  event: ev-rupa-gauda-anupama-passing
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "34", to: "39"}
+
+- id: cc-4004
+  source: cc
+  ref: "Антья 1.40–44"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 9.5
+  title: "Сон в Сатьябхама-пуре: Сатьябхама велит Рупе написать о Ней отдельную драму"
+  summary: "В оринском селении Сатьябхама-пур Рупе во сне явилась божественной красоты дева и повелела посвятить Ей отдельную драму, обещая, что по Её милости та выйдет прекрасной. Рупа понял, что Сатьябхама велит разделить замысел: игры Вриндавана и Двараки — в двух драмах."
+  persons: ["@rupa-gosvami", "@satyabhama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [celestial, author]
+  cc: "Антья 1"
+  event: ev-satyabhama-dream-rupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "40", to: "44"}
+
+- id: cc-4005
+  source: cc
+  ref: "Антья 1.45–61"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 10.5
+  title: "Рупа приходит в Пури к Харидасу; Господь встречает его и просит Адвайту и Нитьянанду благословить его"
+  summary: "Рупа пришёл к хижине Харидаса, и тот сказал, что Господь предупредил о его приходе. После упала-бхоги Господь пришёл, обнял Рупу, расспросил о Санатане (они разминулись в пути) и выслушал весть о кончине Анупамы. На другой день Он представил Рупу всем преданным и попросил Адвайту и Нитьянанду наделить его силой описывать расы любви к Кришне; каждый день Он приносил Рупе и Харидасу прасад Джаганнатхи."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@haridasa-thakura", "@advaita", "@nityananda", "@sanatana-gosvami"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada]
+  cc: "Антья 1"
+  event: ev-rupa-arrives-haridasa-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "45", to: "61"}
+
+- id: cc-4006
+  source: cc
+  ref: "Антья 1.62–64"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 10.6
+  title: "Уборка Гундичи и трапеза в саду Айтота: Говинда приносит Рупе и Харидасу остатки Господа"
+  summary: "Господь с преданными убрал храм Гундичи и в саду Айтота вкусил с ними прасад; Харидас и Рупа радовались, видя это, и, получив от Говинды остатки Господа, плясали от радости."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@rupa-gosvami", "@govinda-servant"]
+  places: ["#gundicha", "#aitota", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание ежегодной уборки Гундичи в год прихода Рупы (основной рассказ — Мадхья 12, ev-gundicha-marjana); около 1516 г."
+  themes: [jagannatha, prasada]
+  cc: "Антья 1"
+  event: ev-rupa-arrives-haridasa-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "62", to: "64"}
+
+- id: cc-4007
+  source: cc
+  ref: "Антья 1.65–71"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 11.9
+  title: "«Не уводи Кришну из Вриндавана»: Господь подтверждает сон Рупы, и тот решает написать две драмы"
+  summary: "Всеведущий Господь сказал Рупе: Кришна, сын Нанды, никогда не покидает Вриндавана, а Яду-кумара — это Васудева-Кришна, играющий в Матхуре и Двараке. Рупа понял, что Господь подтвердил веление Сатьябхамы, и решил составить две драмы с отдельными вступлениями и сюжетами."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@krishna", "@satyabhama"]
+  places: ["#puri", "#vrindavana", "#dvaraka", "#mathura"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema, scripture]
+  scriptures: ["Лагху-бхагаватамрита, 1.5.461"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "65", to: "71"}
+
+- id: cc-4008
+  source: cc
+  ref: "Антья 1.72–92"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 11.5
+  title: "Шлока Рупы «прийах со ’йам»: Господь находит пальмовый лист на крыше и спрашивает, как Рупа узнал Его сердце"
+  summary: "На Ратха-ятре Господь, танцуя перед колесницей, повторял шлоку «йах каумара-харах», смысл которой понимал лишь Сварупа; Рупа постиг Его настроение и составил ответный стих: Радха, встретив Кришну на Курукшетре, жаждет вернуться к Ямуне и рощам Вриндавана. Лист со стихом Рупа положил под соломенную крышу; Господь нашёл его, пришёл в экстаз премы, хлопнул Рупу по плечу и спросил, как тот узнал Его сокровенное. Сварупа ответил, что это знак особой милости Господа, и Господь велел ему наставлять Рупу в науке рас."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@svarupa-damodara", "@radha", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Мадхья 1, 13 (шлока «йах каумара-харах» на Ратха-ятре)"
+  themes: [ecstasy, jagannatha, krishna-lila]
+  bhava: [radha]
+  scriptures: ["Падьявали, 386", "Падьявали, 387", "Нала-найшадха, 3.17"]
+  cc: "Антья 1"
+  event: ev-priyah-so-yam-rupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "72", to: "92"}
+
+- id: cc-4009
+  source: cc
+  ref: "Антья 1.93–102"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 11.7
+  title: "Стих «тунде тандавини»: Господь читает в рукописи Рупы о сладости имени «Кришна», Харидас пляшет"
+  summary: "По окончании чатурмасьи бенгальцы ушли, Рупа остался в Пури. Господь пришёл, когда Рупа писал, похвалил его почерк — «как жемчужные ожерелья» — и, прочитав стих о сладости двух слогов «Криш-на» (имя пляшет на языке, и хочется тысяч ртов и миллионов ушей), пришёл в восторг премы; Харидас, услышав, заплясал. Славу имени следует слушать от великих преданных."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  teaching: [holy-name]
+  scriptures: ["Видагдха-мадхава, 1.15"]
+  cc: "Антья 1"
+  event: ev-tunde-tandavini
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "93", to: "102"}
+
+- id: cc-4010
+  source: cc
+  ref: "Антья 1.103–133"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12
+  title: "Испытание Рупы при Сарвабхауме и Рамананде: «прийах со ’йам», «тунде тандавини», вступление «Видагдха-мадхавы» и шлока о Гауре"
+  summary: "Господь пришёл к Рупе с Сарвабхаумой, Раманандой и Сварупой и, чтобы испытать их, восхвалял Рупу. Сварупа прочитал стих «прийах со ’йам», и Рамананда с Сарвабхаумой признали в нём особую милость Господа; Рупа прочитал «тунде тандавини», и все сказали, что никогда не слышали столь сладостной славы имени. Сварупа рассказал о разделении замысла на «Видагдха-мадхаву» и «Лалита-мадхаву»; Рупа прочитал благословляющие шлоки, и Господь не похвалил стих о Себе (сын Шачи, цвета расплавленного золота, дарует небывалую уннатоджвала-расу), назвав его преувеличением, а преданные одобрили его."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@sarvabhauma", "@ramananda-raya", "@svarupa-damodara", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, krishna-lila, mercy]
+  teaching: [prema, holy-name, gaura-tattva]
+  scriptures: ["Бхакти-расамрита-синдху, 2.1.138", "Падьявали, 387", "Видагдха-мадхава, 1.15", "Видагдха-мадхава, 1.1", "Видагдха-мадхава, 1.2"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "103", to: "133"}
+
+- id: cc-4011
+  source: cc
+  ref: "Антья 1.134–170"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12.1
+  title: "Рамананда расспрашивает Рупу о «Видагдха-мадхаве»: правартака, прарочана, пурва-рага, природа премы, Вриндаван, флейта, красота Кришны и Радхи"
+  summary: "Рупа объяснил приёмы драмы (правартака, прарочана) и на вопросы Рамананды о пробуждении влечения, преображениях любви и письмах гопи, о природе премы (яд и нектар одновременно), её признаках, о Вриндаване, флейте Кришны и красоте Кришны и Радхи читал стихи из своих драм; ответы поразили всех преданных."
+  persons: ["@rupa-gosvami", "@ramananda-raya", "@radha", "@krishna", "@lalita", "@vishakha"]
+  places: ["#puri", "#vrindavana"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema]
+  scriptures: ["Видагдха-мадхава, 1.10", "Видагдха-мадхава, 1.8", "Видагдха-мадхава, 1.6", "Видагдха-мадхава, 2.9", "Видагдха-мадхава, 2.18", "Видагдха-мадхава, 5.4", "Лалита-мадхава, 4.27"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "134", to: "170"}
+
+- id: cc-4012
+  source: cc
+  ref: "Антья 1.171–212"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12.2
+  title: "Вступление «Лалита-мадхавы»; Господь недоволен похвалой Себе — «дёготь в мёде», Рамананда — «камфора»; Господь уполномочивает Рупу и Санатану писать о бхакти"
+  summary: "Рупа смиренно прочитал вступление «Лалита-мадхавы»; услышав шлоку о Себе, Господь внутренне обрадовался, но внешне рассердился: похвала Ему — как дёготь в бочке мёда; Рамананда возразил, что это камфора, и памятование о Божестве в начале благоприятно. Выслушав другие стихи, Рамананда восхвалил поэзию Рупы как поток нектара; Господь сказал, что встретил Рупу в Праяге, просил всех благословить его, прославил Санатану и объявил, что уполномочивает братьев писать во Вриндаване книги о бхакти. Рамананда: Ты — Сам Бхагаван, и истины, сказанные Тобой моими устами, проявились у Рупы. Преданные обняли Рупу; Харидас восхвалил его удачу, а Рупа ответил, что говорит лишь то, что вкладывает в его уста Господь."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@ramananda-raya", "@sanatana-gosvami", "@advaita", "@nityananda", "@haridasa-thakura"]
+  places: ["#puri", "#prayaga"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy, krishna-lila]
+  teaching: [gaura-tattva, prema]
+  scriptures: ["Лалита-мадхава, 1.1", "Лалита-мадхава, 1.3", "Лалита-мадхава, 1.11", "Сахитья-дарпана, 6.289", "Бхакти-расамрита-синдху, 1.1.2"]
+  cc: "Антья 1"
+  event: ev-rupa-puri-dramas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "171", to: "212"}
+
+- id: cc-4013
+  source: cc
+  ref: "Антья 1.213–221"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: P14
+  order: 12.8
+  title: "Рупа остаётся до Дола-ятры; Господь посылает его во Вриндаван: писать о расах, восстанавливать святые места, прислать Санатану"
+  summary: "Рупа проводил дни с Харидасом в беседах о Кришне; после чатурмасьи бенгальцы ушли, а Рупа остался до Дола-ятры. После праздника Господь наделил его силой и велел жить во Вриндаване, писать книги о расах, восстанавливать забытые святые места, служить Кришне и проповедовать раса-бхакти, а Санатану прислать к Нему; Рупа возложил стопы Господа себе на голову и через Бенгалию ушёл во Вриндаван."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@haridasa-thakura", "@sanatana-gosvami"]
+  places: ["#puri", "#vrindavana", "#gauda"]
+  kind: lila
+  authority: A
+  themes: [mercy, festival, pilgrimage]
+  cc: "Антья 1"
+  event: ev-rupa-sent-vrindavana-after-dola
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "213", to: "221"}
+
+- id: cc-4014
+  source: cc
+  ref: "Антья 1.222"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  period: PX
+  order: 995.02
+  title: "Колофон Антья 1: о второй встрече Рупы с Господом"
+  summary: "Так рассказано о второй встрече Рупы с Господом; кто слушает это, обретает прибежище у стоп Чайтаньи. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Последний стих в файле помечен «(222)» повторно (вместо 223)."
+  themes: [author]
+  cc: "Антья 1"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "222", to: "2:222"}
+
+- id: cc-4015
+  source: cc
+  ref: "Антья 2.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: PX
+  order: 995.03
+  title: "Мангалачарана Антья 2"
+  summary: "Поклон гуру, вайшнавам, шастра-гуру — Рупе, Санатане, Рагхунатхе Дасу и Дживе, — Чайтанье с Нитьянандой и Адвайтой, Радха-Говинде и гопи во главе с Лалитой и Вишакхой; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@radha", "@krishna", "@lalita", "@vishakha"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "1", to: "2"}
+
+- id: cc-4016
+  source: cc
+  ref: "Антья 2.3–15"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: PX
+  order: 117.1
+  title: "Три способа, которыми Гаура спасает мир: личная встреча (сакшад-даршана), вхождение в достойного преданного (авеша) и явление (авирбхава)"
+  summary: "Желая блага всем мирам, Господь освобождал тремя способами: личной встречей, вхождением в достойного преданного (как в Накулу Брахмачари) и явлением Себя (как Нрисимхананде). Каждый год в Пури приходили бенгальцы и жители других стран, а гандхарвы, девы и киннары в облике людей, увидев Его, становились вайшнавами и пели имя Кришны; ради тех, кто не мог прийти, Господь входил в тела святых вайшнавов, и, видя их, люди становились преданными."
+  persons: ["@mahaprabhu", "@nakula-brahmachari", "@nrisimhananda"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, mercy]
+  teaching: [gaura-tattva]
+  cc: "Антья 2"
+  event: ev-tattva-three-ways-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "3", to: "15"}
+
+- id: cc-4017
+  source: cc
+  ref: "Антья 2.16–32"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 20
+  title: "Господь входит в Накулу Брахмачари из Амбуи; Накула угадывает мантру Шивананды Сены"
+  summary: "Чтобы спасти бенгальцев, Господь вошёл в сердце Накулы Брахмачари из Амбуи: тот смеялся, плакал, пел и плясал в экстазе, сиял, как Господь, и всем велел петь имя Кришны. Шивананда Сен, усомнившись, загадал: если Накула позовёт его и назовёт его мантру, значит, в нём Господь. Накула велел позвать Шивананду из толпы и назвал его четырёхсложную мантру Гаура-Гопалы; Шивананда уверовал и стал ему служить."
+  persons: ["@mahaprabhu", "@nakula-brahmachari", "@shivananda-sena"]
+  places: ["#ambika-kalna"]
+  kind: lila
+  authority: A
+  notes: "Амбуя — Амбика-Кална. В ст. 31 в переводе — пояснение Бхактивиноды о четырёх слогах мантры."
+  themes: [mercy, ecstasy, revelation]
+  cc: "Антья 2"
+  event: ev-nakula-brahmachari
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "16", to: "32"}
+
+- id: cc-4018
+  source: cc
+  ref: "Антья 2.33–35"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 18.9
+  title: "Господь, привлекаемый любовью, всегда является в четырёх местах: у Шачи, в пляске Нитьянанды, на киртане Шриваса и в доме Рагхавы"
+  summary: "Господь, по природе привлекаемый любовью, всегда проявлялся в домашнем храме Шачи, там, где пляшет Нитьянанда, на киртане Шриваса и в доме Рагхавы Пандита."
+  persons: ["@mahaprabhu", "@shachi", "@nityananda", "@srivasa", "@raghava-pandita"]
+  places: ["#navadvipa", "#panihati"]
+  kind: teaching
+  authority: A
+  themes: [revelation, teaching]
+  teaching: [gaura-tattva]
+  cc: "Антья 2"
+  event: ev-avirbhava-four-places
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "33", to: "35"}
+
+- id: cc-4019
+  source: cc
+  ref: "Антья 2.36–78"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 21
+  title: "Нрисимхананда «приводит» Господа в Бенгалию: Господь съедает подношения Джаганнатхе, Нрисимхе и Себе"
+  summary: "Шриканта Сен, пробыв два месяца в Пури, принёс весть: в этом году никому не идти — Господь Сам придёт в пауше к Шивананде, и Джагадананда будет Ему готовить. Месяц ожидания прошёл напрасно; Нрисимхананда (прежде Прадьюмна Брахмачари) обещал привести Господа через три дня, в медитации довёл Его до Панихати, приготовил множество блюд и разделил на три подношения — Джаганнатхе, Господу и своему Нрисимхе. В медитации он увидел, как Господь съел все три; с внутренним восторгом он внешне сетовал за Нрисимху, а Шивананда усомнился. На следующий год Господь при всех хвалил угощения Нрисимхананды прошлой зимой, и Шивананда уверовал: Господь един с Нрисимхой и Джаганнатхой."
+  persons: ["@mahaprabhu", "@nrisimhananda", "@shivananda-sena", "@shrikanta-sena", "@jagadananda-pandita", "@advaita", "@jagannatha-deity", "@nrisimha", "@raghava-pandita"]
+  places: ["#puri", "#kumarahatta", "#panihati"]
+  kind: lila
+  authority: A
+  notes: "Дом Шивананды — в Кумарахатте (по Ади 10); в тексте главы место не названо."
+  calendar: "пауша"
+  themes: [revelation, prasada, mercy]
+  teaching: [gaura-tattva]
+  cc: "Антья 2"
+  event: ev-nrisimhananda-three-offerings
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "36", to: "78"}
+
+- id: cc-4020
+  source: cc
+  ref: "Антья 2.79–83"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 19
+  title: "Четыре места постоянного явления Господа; Гаурасундара покоряется любви — ради Шивананды Он приходит снова и снова"
+  summary: "Господь ежедневно ел в доме Шачи, всегда приходил на киртан Шриваса, был там, где пляшет Нитьянанда, и постоянно проявлен в доме Рагхавы. Он покоряется чистой любви и являет Себя такому преданному; пленённый любовью Шивананды, Он приходил к нему снова и снова."
+  persons: ["@mahaprabhu", "@shachi", "@srivasa", "@nityananda", "@raghava-pandita", "@shivananda-sena"]
+  places: ["#navadvipa", "#panihati"]
+  kind: teaching
+  authority: A
+  themes: [revelation, teaching]
+  teaching: [gaura-tattva, prema]
+  cc: "Антья 2"
+  event: ev-avirbhava-four-places
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "79", to: "83"}
+
+- id: cc-4021
+  source: cc
+  ref: "Антья 2.84–100"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 24
+  title: "Бхагаван Ачарья и его брат-майявади Гопала: Сварупа запрещает слушать толкование Веданты Шанкары"
+  summary: "Бхагаван Ачарья, учёный преданный в Пури в бхаве друга-пастушка, друг Сварупы, привёл к Господу младшего брата Гопалу, изучившего Веданту в Бенаресе; Господь, зная, что тот майявади без преданности Кришне, лишь внешне был с ним учтив. Когда Бхагаван Ачарья позвал всех слушать толкование Гопалы, Сварупа с любовью упрекнул его: слушание майявада-бхашьи Шанкары оскверняет даже великого вайшнава и разрушает настроение слуги — человек начинает считать себя Всевышним. Устыдившись, Бхагаван Ачарья отослал брата домой."
+  persons: ["@bhagavan-acharya", "@gopala-bhattacharya", "@svarupa-damodara", "@mahaprabhu"]
+  places: ["#puri", "#kashi"]
+  kind: lila
+  authority: A
+  notes: "Ст. 99 в файле нет (после 98 сразу 100)."
+  themes: [teaching, offense]
+  teaching: [vedanta, bhakti-supremacy]
+  cc: "Антья 2"
+  event: ev-gopala-bhattacharya-mayavada
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "84", to: "100"}
+
+- id: cc-4022
+  source: cc
+  ref: "Антья 2.101–145"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 25
+  title: "Наказание Младшего Харидаса: за то, что он просил рис у Мадхави-деви, Господь закрывает ему дверь; даже Парамананда Пури не может умилостивить Господа"
+  summary: "Бхагаван Ачарья послал Младшего Харидаса, певца Господа, попросить тонкого риса у Мадхави-деви — сестры Шикхи Махити, одной из «трёх с половиной» ближайших спутниц Радхи. Похвалив рис, Господь велел Говинде больше не пускать Харидаса: санньяси, ведущий беседы с женщинами, — «обезьянье отречение». Харидас три дня постился; на просьбы преданных Господь пригрозил уйти, а Парамананде Пури сказал, что уйдёт в Алаланатху, и тот смирился с волей независимого Господа. Сварупа уговорил Харидаса поесть; с тех пор тот видел Господа лишь издали; преданные же стали остерегаться женщин даже во сне. Прошёл год, но Господь не сжалился."
+  persons: ["@mahaprabhu", "@chhota-haridasa", "@bhagavan-acharya", "@madhavi-devi", "@shikhi-mahiti", "@svarupa-damodara", "@ramananda-raya", "@govinda-servant", "@paramananda-puri"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  notes: "Ст. 117 в файле нет (после 116 сразу 118)."
+  themes: [sannyasa, offense]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Бхаг. 9.19.17"]
+  cc: "Антья 2"
+  event: ev-chhota-haridasa-punished
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "101", to: "145"}
+
+- id: cc-4023
+  source: cc
+  ref: "Антья 2.146–166"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: P14
+  order: 25.5
+  title: "Младший Харидас оставляет тело в Праяге и в облике гандхарвы поёт Господу; «таково искупление санньяси, глядящего на женщин»"
+  summary: "Через год после наказания Харидас ушёл в Праягу и, надеясь обрести служение стопам Господа, оставил тело при слиянии трёх рек; в духовном теле гандхарвы он ночами незримо пел для Господа. Господь, спросив о нём, лишь улыбнулся; спутники у океана слышали его пение, и Сварупа отверг догадку о брахма-ракшасе. Весть пришла из Праяги в Навадвипу; когда Шриваса рассказал о ней в Пури, Господь сказал: «Каждый пожинает плоды своих поступков; таково искупление для санньяси, любующегося женщинами». Преданные заключили, что Харидас обрёл прибежище у стоп Господа."
+  persons: ["@mahaprabhu", "@chhota-haridasa", "@svarupa-damodara", "@jagadananda-pandita", "@govinda-servant", "@kashishvara", "@shankara-pandita", "@damodara-pandita", "@mukunda-datta", "@srivasa", "@shivananda-sena"]
+  places: ["#prayaga", "#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  notes: "Ст. 153–154: «Мукунда» — вероятно, Мукунда Датта; «Шанкара» — Шанкара Пандит, «Дамодара» — Дамодара Пандит (по смыслу)."
+  themes: [departure, sannyasa, mercy]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 2"
+  event: ev-chhota-haridasa-prayaga
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "146", to: "166"}
+
+- id: cc-4024
+  source: cc
+  ref: "Антья 2.167–172"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  period: PX
+  order: 995.04
+  title: "Смысл наказания Младшего Харидаса: одной игрой Господь достигает многих целей; колофон Антья 2"
+  summary: "Эта игра учит людей правилам отречения, показывает привязанность преданных к Господу, величие святого места и то, что Господь не отвергает верного слугу: одной игрой Он достигает пяти-семи целей. Слушайте с верой, оставив споры. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@chhota-haridasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 2"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "167", to: "172"}
+
+- id: cc-4025
+  source: cc
+  ref: "Антья 3.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 995.05
+  title: "Мангалачарана Антья 3"
+  summary: "Поклон гуру, вайшнавам, шастра-гуру, Чайтанье со спутниками, Радха-Говинде и гопи; слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@radha", "@krishna"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "1", to: "2"}
+
+- id: cc-4026
+  source: cc
+  ref: "Антья 3.3–19"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 14.9
+  title: "Упрёк Дамодары Пандита: Господь ласков к сыну молодой вдовы-брахманки — «что скажут люди?»"
+  summary: "Красивый мальчик, сын умершего орисского брахмана, каждый день приходил к Господу, и Господь встречал его с любовью; Дамодара Пандит запрещал ему, но тот не слушал. Наконец Дамодара дерзко сказал Господу: Ты учитель всех, но люди станут судачить — мать мальчика благочестива, но молода и красива, а Ты молод и красив. Господь, внутренне довольный, подумал, что эти речи рождены чистой любовью и среди друзей Ему нет равного Дамодаре."
+  persons: ["@mahaprabhu", "@damodara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, teaching]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 3"
+  event: ev-damodara-sent-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "3", to: "19"}
+
+- id: cc-4027
+  source: cc
+  ref: "Антья 3.20–48"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 15
+  title: "Господь посылает Дамодару в Надию охранять Шачи и передаёт тайное послание: «Я ел твои подношения на Макара-санкранти»"
+  summary: "Господь попросил Дамодару, самого беспристрастного друга, который может отчитать даже Его, жить в Надии у стоп Шачи и рассказывать ей о Нём. Он передал тайную весть: на недавний праздник Магха-санкранти, когда Шачи поднесла Кришне блюда и стала медитировать, Он явился и всё съел; она сочла это сном, увидела полные горшки на кухне и поднесла снова; привлечённый её любовью, Он всегда ест её подношения и живёт в Пури лишь по её слову. Дамодара отнёс Шачи и вайшнавам во главе с Адвайтой прасад Джаганнатхи и своей строгостью утвердил среди спутников нормы поведения. Деяния Господа глубже миллионов океанов."
+  persons: ["@mahaprabhu", "@damodara-pandita", "@shachi", "@advaita", "@jagannatha-deity"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  calendar: "магха, Макара-санкранти"
+  themes: [family, revelation, prasada]
+  cc: "Антья 3"
+  event: ev-damodara-sent-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "20", to: "48"}
+
+- id: cc-4028
+  source: cc
+  ref: "Антья 3.49–64"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 57
+  title: "Беседа с Харидасом: как спасутся яваны? — «харам» содержит имя Рамы; сила проблеска имени (намабхасы), пример Аджамилы"
+  summary: "Господь спросил Харидаса, как освободятся в век Кали те, кто отвергает Веды, убивает коров и брахманов. Харидас ответил: мусульмане говорят «харам», и в этом звучит имя Рамы — они спасутся проблеском имени (намабхасой); имя, произнесённое с иным смыслом или неправильно, сохраняет очищающую силу, как у Аджамилы, позвавшего сына «Нараяна»; проблеск имени без оскорблений уничтожает грехи и дарует освобождение."
+  persons: ["@mahaprabhu", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, muslims]
+  teaching: [holy-name]
+  scriptures: ["Нрисимха-пурана", "Хари-бхакти-виласа, 11.289", "Бхакти-расамрита-синдху, 2.1.103", "Бхаг. 6.2.49"]
+  cc: "Антья 3"
+  event: ev-haridasa-namabhasa-yavanas
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "49", to: "64"}
+
+- id: cc-4029
+  source: cc
+  ref: "Антья 3.65–92"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 57.5
+  title: "Как освободятся движущиеся и неподвижные существа? — Харидас: санкиртаной Господа; «Твои игры — океан, мне не постичь и капли»"
+  summary: "На вопрос Господа Харидас ответил: Ты уже освободил всех, громко воспевая имя; подвижные существа спасены, а деревья откликаются эхом — это их прославление (как в Джхарикханде, по рассказу Балабхадры; по молитве Васудевы Датты Ты обещал спасти всех). На возражение «вселенная опустеет» Харидас сказал: Ты наполнишь её вновь, как Рама — Айодхью, и как Кришна во Врадже. Господь, удивлённый, что Харидас постиг Его сокровенное, обнял его, но более не касался этой темы: Он скрывает Своё величие, но не может утаить его от преданных; затем Он восхвалял Харидаса перед спутниками."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@balabhadra-bhattacharya", "@vasudeva-datta", "@rama"]
+  places: ["#puri", "#jharikhanda", "#ayodhya"]
+  kind: teaching
+  authority: A
+  themes: [teaching, kirtan, mercy]
+  teaching: [holy-name, gaura-tattva]
+  scriptures: ["Бхаг. 10.29.16", "Вишну-пурана, 4.15.17", "Стотра-ратна, 13"]
+  cc: "Антья 3"
+  event: ev-haridasa-sthavara-jangama-deliverance
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "65", to: "92"}
+
+- id: cc-4030
+  source: cc
+  ref: "Антья 3.93–97"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 995.06
+  title: "Достоинства Харидаса неисчислимы; автор дополнит то, что Вриндаван Дас не описал подробно"
+  summary: "Господь радовался, прославляя вайшнавов, а Харидас — лучший из них; часть его качеств описал Вриндаван Дас в «Чайтанья-бхагавате», а автор расскажет о том, что там описано не подробно."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-thakura", "@vrindavana-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "93", to: "97"}
+
+- id: cc-4031
+  source: cc
+  ref: "Антья 3.98–142"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P01
+  order: 2.6
+  title: "Блудница, подосланная Рамачандрой Ханом, слушает имя три ночи и становится вайшнави"
+  summary: "В лесу у Бенаполя Харидас жил в хижине, поклонялся туласи и повторял триста тысяч имён в день. Заминдар Рамачандра Хан, ненавидевший вайшнавов, подослал юную блудницу, чтобы опорочить его. Три ночи Харидас просил её подождать, пока он завершит обет имени, и она, слушая, сама стала повторять «Хари»; на третью ночь её сердце изменилось, она призналась в замысле и попросила спасти её. Харидас велел раздать имущество брахманам, жить в его хижине, повторять имя и служить туласи и ушёл; она обрила голову, повторяла триста тысяч имён в день, стала знаменитой вайшнави, к которой приходили великие преданные."
+  persons: ["@haridasa-thakura", "@ramachandra-khan"]
+  places: ["#benapola"]
+  kind: lila
+  authority: A
+  themes: [mercy, offense]
+  teaching: [holy-name]
+  cc: "Антья 3"
+  event: ev-haridasa-prostitute
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "98", to: "142"}
+
+- id: cc-4032
+  source: cc
+  ref: "Антья 3.143–163"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P14
+  order: 27
+  title: "Рамачандра Хан оскорбляет Нитьянанду, сев на которого место он велит перекопать; мусульманский чиновник разоряет его дом и деревню"
+  summary: "После оскорбления Харидаса Рамачандра Хан стал ещё демоничнее. Нитьянанда, странствуя по Бенгалии с проповедью премы и усмиряя безбожников, пришёл к нему и сел в Дурга-мандапе; Хан через слугу предложил Ему ночлег в коровнике пастуха. Нитьянанда, смеясь, ушёл, сказав, что этот дом годится лишь для мясоедов; Хан велел перекопать место и вымазать двор навозом. Вскоре мусульманский казначей за недоимки арестовал Хана с семьёй, три дня грабил деревню и варил говядину в храме Дурги; Хан лишился касты и богатства. За оскорбление великой души страдает вся округа."
+  persons: ["@nityananda", "@ramachandra-khan", "@haridasa-thakura"]
+  places: ["#benapola"]
+  kind: lila
+  authority: A
+  themes: [offense, muslims]
+  teaching: [vaishnava]
+  cc: "Антья 3"
+  event: ev-nityananda-ramachandra-khan
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "143", to: "163"}
+
+- id: cc-4033
+  source: cc
+  ref: "Антья 3.164–212"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P05
+  order: 20
+  title: "Харидас в Чандапуре у Баларамы Ачарьи; на собрании у Хираньи и Говардханы: плод имени — према, освобождение лишь побочно; Гопала Чакраварти, оскорбивший Харидаса, заболевает проказой"
+  summary: "Харидас жил в Чандапуре у Баларамы Ачарьи, жреца Хираньи и Говардханы; мальчик Рагхунатха Дас каждый день приходил к нему и получил милость, приведшую его к Господу. На собрании у братьев Харидас сказал: уничтожение грехов и освобождение — лишь побочный плод имени, как рассеивание тьмы до восхода; главный плод — према к стопам Кришны, а преданный не принимает освобождения. Главный сборщик податей Гопала Чакраварти поднял его на смех и поклялся отрезать нос, если проблеск имени даёт освобождение; Харидас ответил тем же. Собрание осудило Гопалу, и братья прогнали его; Харидас простил его, но через три дня Гопала заболел проказой, и нос его отпал. Преданные не обижаются на глупцов, но Кришна не терпит хулы на преданных; огорчённый, Харидас ушёл в Шантипур."
+  persons: ["@haridasa-thakura", "@balarama-acharya-chandapur", "@hiranya-majumdar", "@govardhana-majumdar", "@raghunatha-dasa", "@gopala-chakravarti"]
+  places: ["#chandapur-saptagrama", "#saptagrama"]
+  kind: lila
+  authority: A
+  notes: "Ст. 166: «Бхагаван Ачарья» — по контексту Баларама Ачарья. Ст. 168: Рагхунатха — «сын Говардханы» (ЧЧ; ср. PERSONS: по другим — сын Хираньи)."
+  themes: [teaching, offense]
+  teaching: [holy-name, bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 11.2.40", "Падьявали, 16", "Бхаг. 6.2.49", "Бхаг. 3.29.13", "Хари-бхакти-судходая, 14.36"]
+  cc: "Антья 3"
+  event: ev-haridasa-gopala-chakravarti
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "164", to: "212"}
+
+- id: cc-4034
+  source: cc
+  ref: "Антья 3.213–224"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P01
+  order: 2.95
+  title: "Харидас у Адвайты в Шантипуре: пещера на берегу Ганги, шраддха-патра; молитвы Адвайты и имя Харидаса призывают Кришну"
+  summary: "Адвайта устроил Харидасу пещеру на берегу Ганги, объяснял ему «Бхагавату» и «Гиту» в свете бхакти и кормил его. Харидас спросил, зачем Адвайта, живя среди знатных брахманов, оказывает ему почести; Адвайта ответил, что поступает по шастрам: накормить Харидаса — всё равно что накормить десять миллионов брахманов, и дал ему шраддха-патру. Адвайта поклонялся Кришне водой Ганги с туласи, а Харидас воспевал имя, желая Его нисхождения; их преданность стала причиной явления Чайтаньи."
+  persons: ["@haridasa-thakura", "@advaita", "@mahaprabhu"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada, teaching]
+  teaching: [vaishnava, gaura-tattva]
+  cc: "Антья 3"
+  event: ev-shraddha-patra-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "213", to: "224"}
+
+- id: cc-4035
+  source: cc
+  ref: "Антья 3.225–258"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: P01
+  order: 2.97
+  title: "Майя-деви испытывает Харидаса три лунные ночи и получает от него имя Кришны"
+  summary: "Лунной ночью к пещере Харидаса пришла сияющая женщина, поклонилась туласи и Харидасу и стала искушать его. Харидас просил подождать, пока он завершит обет имени, и так прошли три ночи; тогда она открылась: «Я — Майя; я очаровываю даже Брахму, но тебя не смогла». Она сказала, что получила от Шивы имя Рамы, но теперь, в разливе премы с приходом Чайтаньи, желает имя Кришны, дающее прему; Харидас дал ей имя, и она ушла довольной."
+  persons: ["@haridasa-thakura", "@durga", "@shiva", "@mahaprabhu"]
+  places: ["#shantipura", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Майя (Махамайя, внешняя энергия Господа) — тег @durga. Место по тексту — «пещера» Харидаса (ср. ст. 214)."
+  themes: [celestial, mercy]
+  teaching: [holy-name]
+  cc: "Антья 3"
+  event: ev-maya-tests-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "225", to: "258"}
+
+- id: cc-4036
+  source: cc
+  ref: "Антья 3.259–266"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 117.2
+  title: "Почему Майя просит имя: ради премы, раздаваемой Чайтаньей, родились на земле Брахма, Шива, Кумары, Прахлада, Нарада, Лакшми — и пришёл Сам Кришна"
+  summary: "Чтобы обрести сокровище премы, раздаваемое Господом, на земле родились Брахма, Шива, Кумары, Прахлада, Нарада и энергии Кришны во главе с Лакшми, а Сам сын Нанды пришёл вкусить её; что удивительного, что Майя-служанка просит о ней. Без милости преданного и безоскорбительного имени премы не обрести; святое имя — сокровищница очарования, привлекающая даже Кришну."
+  persons: ["@mahaprabhu", "@durga", "@brahma", "@shiva", "@sanaka-kumaras", "@prahlada", "@narada", "@lakshmi", "@krishna"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching, celestial]
+  teaching: [holy-name, gaura-tattva, prema]
+  cc: "Антья 3"
+  event: ev-maya-tests-haridasa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "259", to: "266"}
+
+- id: cc-4037
+  source: cc
+  ref: "Антья 3.267–270"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  period: PX
+  order: 995.07
+  title: "Источник рассказа — Рагхунатха Дас со слов Сварупы; колофон Антья 3"
+  summary: "Автор слышал об этих играх от Рагхунатхи Даса, которому рассказывал Сварупа Дамодара, и описывает их кратко по милости Господа. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@raghunatha-dasa", "@svarupa-damodara", "@haridasa-thakura"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 3"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "267", to: "270"}
+
+- id: cc-4038
+  source: cc
+  ref: "Антья 4.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: PX
+  order: 995.08
+  title: "Вступление Антья 4: Санатана снова у Господа — испытание и исцеление"
+  summary: "Когда Санатана пришёл из Вриндавана, Господь с любовью принял его, отговорил от самоубийства, испытал и исцелил его тело. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@sanatana-gosvami", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 4"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "1", to: "2"}
+
+- id: cc-4039
+  source: cc
+  ref: "Антья 4.3–25"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 13.9
+  title: "Санатана идёт через Джхарикханду, покрывается язвами и решает броситься под колесо колесницы; в Пури у Харидаса Господь силой обнимает его"
+  summary: "Когда Рупа ушёл в Бенгалию, Санатана один пошёл из Матхуры в Пури лесами Джхарикханды; от голода и дурной воды его тело покрылось зудящими язвами. Считая себя низкорождённым и неспособным приблизиться к храму, он решил на Ратха-ятре оставить тело под колесом колесницы на глазах Господа и Джаганнатхи. В Пури он пришёл к Харидасу; Господь, придя после упала-бхоги, силой обнял его, хотя тот молил не касаться его, и гной из язв попал на тело Господа; затем Господь представил его спутникам."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@haridasa-thakura"]
+  places: ["#mathura", "#jharikhanda", "#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "3", to: "25"}
+
+- id: cc-4040
+  source: cc
+  ref: "Антья 4.26–47"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 13.95
+  title: "Санатана рассказывает о твёрдой преданности Анупамы Рамачандре; Господь: «так Я испытал Мурари Гупту»"
+  summary: "Господь сказал, что Рупа прожил здесь десять месяцев и ушёл десять дней назад, и что Анупама, преданный Рамы, оставил мир. Санатана рассказал: однажды братья уговорили Анупаму (Валлабху) поклоняться Кришне; тот согласился, но всю ночь плакал и утром сказал, что продал голову стопам Рамачандры и не может её забрать; братья обняли его и восхвалили его непоколебимую преданность. Господь ответил, что так же испытал Мурари Гупту: славен преданный, не оставляющий стоп Господа, и славен Господь, не оставляющий слугу."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@anupama", "@rupa-gosvami", "@rama", "@murari-gupta"]
+  places: ["#puri", "#gauda"]
+  kind: lila
+  authority: A
+  parallels: "Мадхья 15 (испытание Мурари Гупты)"
+  themes: [teaching, family]
+  teaching: [vaishnava]
+  cc: "Антья 4"
+  event: ev-anupama-rama-devotion
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "26", to: "47"}
+
+- id: cc-4041
+  source: cc
+  ref: "Антья 4.48–53"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.05
+  title: "Санатана поселён с Харидасом; Господь ежедневно приносит им прасад Джаганнатхи"
+  summary: "Господь поселил Санатану в хижине Харидаса, чтобы оба наслаждались беседами о Кришне и именем, и прислал им прасад через Говинду; Санатана кланялся Джаганнатхе издали, глядя на диск на куполе храма, а Господь каждый день приходил к ним и приносил прасад."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@haridasa-thakura", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, jagannatha]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "48", to: "53"}
+
+- id: cc-4042
+  source: cc
+  ref: "Антья 4.54–103"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.1
+  title: "Господь запрещает Санатане самоубийство: «Кришну не обрести, оставив тело; твоё тело — Моя собственность и инструмент Моей миссии»; Харидас и Санатана славят друг друга"
+  summary: "Всеведущий Господь сказал: если бы самоубийством можно было обрести Кришну, Он сделал бы это миллионы раз, но Кришна достигается лишь бхакти, а самоубийство — плод невежества; рождение в низкой семье не мешает служению, а гордость знатных мешает; из девяти видов бхакти высший — воспевание имени без оскорблений. Санатана предался Ему, и Господь сказал: предавшись, ты не вправе губить Мою собственность — твоим телом Я утвержу этикет вайшнавов, бхакти, найду забытые святые места и проповедую во Вриндаване, куда Сам не могу уйти по слову матери. Харидас восхвалил удачу Санатаны и сожалел, что его собственное тело не пригодно Господу; Санатана ответил: через тебя Господь проповедует имя — ты и сам повторяешь, и проповедуешь."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@haridasa-thakura", "@uddhava"]
+  places: ["#puri", "#vrindavana", "#mathura"]
+  kind: teaching
+  authority: A
+  notes: "Ст. 75 в файле нет (после 74 сразу 76)."
+  themes: [teaching, mercy]
+  teaching: [bhakti-supremacy, holy-name, vaishnava]
+  scriptures: ["Бхаг. 11.14.20", "Бхаг. 10.52.43", "Бхаг. 10.29.35", "Бхаг. 7.9.10"]
+  cc: "Антья 4"
+  event: ev-sanatana-suicide-forbidden
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "54", to: "103"}
+
+- id: cc-4043
+  source: cc
+  ref: "Антья 4.104–114"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.15
+  title: "Санатана видит танец Господа на Ратха-ятре; Господь представляет его бенгальским преданным; Санатана остаётся до Дола-ятры"
+  summary: "На Ратха-ятру пришли бенгальские преданные; Санатана был поражён танцем Господа перед Джаганнатхой. За четыре месяца дождей Господь представил ему Адвайту, Нитьянанду, Шривасу, Вакрешвару, Васудеву Датту, Мурари, Рагхаву, Дамодару, Парамананду Пури, Брахмананду Пури, Сварупу, Гададхару, Сарвабхауму, Рамананду, Джагадананду, Шанкару, Кашишвару, Говинду и других; все полюбили его. Когда бенгальцы ушли, Санатана остался у Господа и видел Дола-ятру."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@advaita", "@nityananda", "@srivasa", "@vakreshvara", "@vasudeva-datta", "@murari-gupta", "@raghava-pandita", "@damodara-pandita", "@paramananda-puri", "@brahmananda-puri", "@svarupa-damodara", "@gadadhara-pandita", "@sarvabhauma", "@ramananda-raya", "@jagadananda-pandita", "@shankara-pandita", "@kashishvara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "По ст. 115 Санатана пришёл в вайшакху, а испытание было в джьяиштху — т. е. до Ратха-ятры; ст. 104–114 забегают вперёд."
+  themes: [jagannatha, festival]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "104", to: "114"}
+
+- id: cc-4044
+  source: cc
+  ref: "Антья 4.115–134"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.2
+  title: "Испытание в джьяиштху: Санатана идёт к Господу в сад Ямешвары по раскалённому песку, избегая Львиных ворот, чтобы не коснуться служителей Джаганнатхи"
+  summary: "В месяц джьяиштха Господь, обедая в саду Ямешвары, позвал Санатану; тот пошёл по берегу моря, где полуденный песок жёг, как огонь, и, от радости не чувствуя боли, пришёл с волдырями на стопах. Он объяснил, что не вправе идти через Львиные ворота, где ходят служители Джаганнатхи. Господь, довольный, сказал: хотя ты очищаешь даже богов, преданные соблюдают этикет шастр, и это их украшение; кто нарушает его, становится посмешищем; и снова обнял его, испачкавшись гноем, к печали Санатаны."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  calendar: "джьяиштха"
+  themes: [teaching, prasada]
+  teaching: [vaishnava, purity]
+  cc: "Антья 4"
+  event: ev-sanatana-hot-sand-test
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "115", to: "134"}
+
+- id: cc-4045
+  source: cc
+  ref: "Антья 4.135–164"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.3
+  title: "Джагадананда советует Санатане вернуться во Вриндаван; Господь бранит Джагадананду, а Санатана сетует, что его поят «соком нимба»"
+  summary: "Санатана поведал Джагадананде, что Господь, вопреки его просьбам, обнимает его и пачкается гноем, — это оскорбление погубит его. Джагадананда посоветовал после Ратха-ятры вернуться во Вриндаван, и Санатана сказал об этом Господу. Господь рассердился: мальчишка Джагадананда возгордился, наставляя тебя, ведь ты для него гуру и даже Мне даёшь советы. Санатана ответил: велика удача Джагадананды — Ты поишь его нектаром близости, а меня, хваля, — горьким соком нимба и ниншинды."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@jagadananda-pandita", "@haridasa-thakura"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, offense]
+  teaching: [vaishnava]
+  cc: "Антья 4"
+  event: ev-jagadananda-advises-sanatana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "135", to: "164"}
+
+- id: cc-4046
+  source: cc
+  ref: "Антья 4.165–204"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.4
+  title: "«Твоё тело для Меня — сосуд нектара»: тело вайшнава духовно; Господь обнимает Санатану, и язвы исчезают"
+  summary: "Господь сказал: Джагадананда дорог, но ты дороже; Я не терплю нарушения этикета; хваля тебя, Я не считаю тебя чужим. Тело твоё лишь кажется материальным, оно духовно; в мире двойственности «хорошее» и «плохое» — плод воображения, а санньяси равно видит грязь и сандал. Харидас возразил, что это лишь внешнее: Ты милостив к падшим; Господь сказал, что любит их, как мать — детей, не чувствуя отвращения, и что при посвящении, когда преданный предаётся Кришне, Кришна делает его тело духовным; Кришна послал язвы, чтобы испытать Господа, а тело Санатаны благоухает чатух-самой. Он оставил Санатану ещё на год и вновь обнял его: язвы исчезли, тело засияло золотом; Харидас понял, что это лила Господа."
+  persons: ["@mahaprabhu", "@sanatana-gosvami", "@haridasa-thakura", "@jagadananda-pandita", "@vasudeva-vipra", "@krishna"]
+  places: ["#puri", "#jharikhanda"]
+  kind: lila
+  authority: A
+  notes: "Ст. 194 в переводе отнесён к Бхаг. 11.23.34 (по ГМ — 11.29.34)."
+  themes: [mercy, teaching]
+  teaching: [vaishnava, maya]
+  scriptures: ["Бхаг. 11.28.4", "Бг. 5.18", "Бг. 6.8", "Бхаг. 11.29.34"]
+  cc: "Антья 4"
+  event: ev-sanatana-puri-sores
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "165", to: "204"}
+
+- id: cc-4047
+  source: cc
+  ref: "Антья 4.205–213"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 14.9
+  title: "После Дола-ятры Санатана уходит во Вриндаван лесным путём Господа, расспросив Балабхадру о местах Его игр"
+  summary: "После Дола-ятры Господь простился с Санатаной, дав наставления о делах во Вриндаване; разлуку их не описать. Санатана узнал у Балабхадры Бхаттачарьи названия селений, рек и гор на пути Господа через лес и, проходя их, погружался в прему. Во Вриндаване к нему вскоре пришёл Рупа."
+  persons: ["@sanatana-gosvami", "@mahaprabhu", "@balabhadra-bhattacharya", "@rupa-gosvami"]
+  places: ["#puri", "#jharikhanda", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, separation]
+  cc: "Антья 4"
+  event: ev-sanatana-returns-vrindavana-forest-path
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "205", to: "213"}
+
+- id: cc-4048
+  source: cc
+  ref: "Антья 4.214–216"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 16
+  title: "Рупа год живёт в Гауде, раздаёт накопленное родным, брахманам и храмам и возвращается во Вриндаван"
+  summary: "Рупа задержался в Бенгалии на год, распределяя накопленные деньги между родственниками, брахманами и храмами, и, исполнив задуманное, вернулся во Вриндаван."
+  persons: ["@rupa-gosvami"]
+  places: ["#gauda", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, family]
+  cc: "Антья 4"
+  event: ev-rupa-year-gauda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "214", to: "216"}
+
+- id: cc-4049
+  source: cc
+  ref: "Антья 4.217–226"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P14
+  order: 17.1
+  title: "Рупа и Санатана во Вриндаване собирают писания, открывают святые места и пишут книги: «Брихад-бхагаватамрита», «Хари-бхакти-виласа», «Бхакти-расамрита-синдху», «Уджвала-ниламани»"
+  summary: "Братья жили вместе по воле Господа, собрали множество писаний, разыскали забытые святые места и установили там поклонение. Санатана написал «Брихад-бхагаватамриту», «Дашама-типпани», «Хари-бхакти-виласу» и многое другое — о служении Мадана-мохану и Говинде; Рупа — «Бхакти-расамрита-синдху», «Уджвала-ниламани», «Видагдха-мадхаву», «Лалита-мадхаву», «Дана-кели-каумуди» и др., всего более ста тысяч шлок."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@madana-mohana-vrindavana", "@govinda-deity"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [teaching, author]
+  teaching: [scripture, prema]
+  cc: "Антья 4"
+  event: ev-rupa-sanatana-books-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "217", to: "226"}
+
+- id: cc-4050
+  source: cc
+  ref: "Антья 4.227–231"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P15
+  order: 120
+  title: "Джива, сын Анупамы, во Вриндаване: «Бхагават-сандарбха», «Гопала-чампу», «Шат-сандарбха»"
+  summary: "Сын Валлабхи (Анупамы) Джива, великий знаток шастр, оставил мир, пришёл во Вриндаван и написал множество книг о чистой бхакти: «Бхагават-сандарбху», «Гопала-чампу», «Шат-сандарбху» — всего более четырёхсот тысяч шлок."
+  persons: ["@jiva-gosvami", "@anupama"]
+  places: ["#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [teaching, author]
+  teaching: [scripture]
+  cc: "Антья 4"
+  event: ev-jiva-gosvami-writings
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "227", to: "231"}
+
+- id: cc-4051
+  source: cc
+  ref: "Антья 4.232–235"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: P15
+  order: 11.5
+  title: "Нитьянанда благословляет Дживу и посылает его во Вриндаван"
+  summary: "Решив идти из Бенгалии в Матхуру, Джива попросил позволения у Нитьянанды; тот, как к племяннику дорогих Господу Рупы и Санатаны, коснулся стопой его головы, обнял и велел тотчас идти во Вриндаван — Господь отдал Врадж его семье. Джива исполнил волю и написал много книг и проповедовал бхакти."
+  persons: ["@jiva-gosvami", "@nityananda"]
+  places: ["#gauda", "#vrindavana"]
+  kind: lila
+  authority: A
+  notes: "Место встречи в ЧЧ не названо («из Бенгалии»)."
+  themes: [mercy, pilgrimage]
+  cc: "Антья 4"
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "232", to: "235"}
+
+- id: cc-4052
+  source: cc
+  ref: "Антья 4.236–239"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  period: PX
+  order: 995.09
+  title: "Поклон четырём Госвами-гуру; колофон Антья 4"
+  summary: "Санатана, Рупа, Джива и Рагхунатха Дас — гуру автора. Так описана встреча Санатаны с Господом; качества Господа — как сахарный тростник. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@sanatana-gosvami", "@rupa-gosvami", "@jiva-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 4"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "236", to: "239"}
+
+- id: cc-4053
+  source: cc
+  ref: "Антья 5.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: PX
+  order: 995.1
+  title: "Мангалачарана Антья 5"
+  summary: "Автор, изъеденный червями корысти и зависти, предаётся единственному целителю — Чайтанье; слава сыну Шачи, Нитьянанде, Адвайте и преданным — Сварупе, Гададхаре, Рупе и Санатане."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@svarupa-damodara", "@gadadhara-pandita", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "1", to: "3"}
+
+- id: cc-4054
+  source: cc
+  ref: "Антья 5.4–32"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 35
+  title: "Прадьюмна Мишра просит рассказать о Кришне; Господь посылает его к Рамананде, который в саду учит двух девадаси танцу для Джаганнатхи"
+  summary: "Прадьюмна Мишра попросил Господа рассказать о Кришне; Господь сказал, что Сам слушает о Кришне от Рамананды, и послал его к нему. Слуга сказал, что Рамананда в уединённом саду учит двух юных танцовщиц танцевать под песни своей драмы для Джаганнатхи: сам умащает, омывает и наряжает их, но ум его невозмутим, как при касании дерева или камня, — он чувствует себя служанкой гопи. Выйдя, Рамананда смиренно извинился за ожидание, но было поздно, и Мишра ушёл ни с чем."
+  persons: ["@pradyumna-mishra", "@mahaprabhu", "@ramananda-raya", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [krishna-lila, jagannatha]
+  bhava: [gopi]
+  scriptures: ["Бхаг. 1.2.8"]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "4", to: "32"}
+
+- id: cc-4055
+  source: cc
+  ref: "Антья 5.33–54"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 35.1
+  title: "Господь о Рамананде: «даже имя женщины волнует Мой ум — а он невозмутим»; кто с верой слушает о расе, освобождается от вожделения; тело Рамананды духовно"
+  summary: "Выслушав Мишру, Господь сказал: Я санньяси, но даже имя женщины волнует Мой ум; Рамананда же, касаясь юных танцовщиц, невозмутим — это чудо из чудес; его тело лишь кажется мирским, оно духовно. По «Бхагавате», кто с верой слушает и рассказывает об играх Кришны с гопи, скоро избавляется от вожделения — болезни сердца — и обретает прему; Рамананда идёт путём рага-бхакти, выше правил, и ум его выше майи. Господь вновь послал Мишру к нему, велев сослаться на Него."
+  persons: ["@mahaprabhu", "@pradyumna-mishra", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, krishna-lila]
+  teaching: [prema, vaishnava]
+  scriptures: ["Бхаг. 10.33.39"]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "33", to: "54"}
+
+- id: cc-4056
+  source: cc
+  ref: "Антья 5.55–76"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 35.2
+  title: "Рамананда весь день рассказывает Прадьюмне Мишре о Кришне: «Я лишь вина, на которой играет Господь»"
+  summary: "Узнав, что его послал Господь, Рамананда с радостью увёл Мишру в уединённую комнату; Мишра попросил объяснить то, о чём тот говорил Господу в Видьянагаре. Рамананда пахтал океан рас, сам задавая вопросы и отвечая, до вечера, и оба забыли о себе; Мишра ушёл, танцуя. Вечером он сказал Господу: Рамананда признался, что говорит не он — Господь играет на нём, как на вине; Кришна — океан рас, недоступный даже Брахме."
+  persons: ["@ramananda-raya", "@pradyumna-mishra", "@mahaprabhu"]
+  places: ["#puri", "#vidyanagara"]
+  kind: lila
+  authority: A
+  parallels: "Мадхья 8 (беседа в Видьянагаре)"
+  themes: [teaching, krishna-lila, ecstasy]
+  teaching: [prema]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "55", to: "76"}
+
+- id: cc-4057
+  source: cc
+  ref: "Антья 5.77–90"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: PX
+  order: 117.3
+  title: "Господь прославляет Своих преданных: дхарму Он учит и через «шудр» — Рамананду, Харидаса, Санатану, Рупу"
+  summary: "Господь сказал, что смирение Рамананды не знает равных — он приписывает свои слова другим. Рамананда, домохозяин, не подвластен шести врагам и наставляет санньяси; Господь послал к нему Мишру, чтобы явить его качества. Чтобы сломить гордость надменных, Господь учит дхарме даже через низкорождённых: через Рамананду — истину о Кришне, через Харидаса — славу имени, через Санатану — суть бхакти, через Рупу — вкус рас Вриндавана."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@pradyumna-mishra", "@haridasa-thakura", "@sanatana-gosvami", "@rupa-gosvami"]
+  places: []
+  kind: teaching
+  authority: A
+  themes: [teaching]
+  teaching: [vaishnava, gaura-tattva]
+  cc: "Антья 5"
+  event: ev-pradyumna-mishra-hears-ramananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "77", to: "90"}
+
+- id: cc-4058
+  source: cc
+  ref: "Антья 5.91–108"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 36
+  title: "Бенгальский поэт привозит драму о Господе; правило Сварупы: всё сначала слушает он; о расабхасе и неумелых поэтах"
+  summary: "Бенгальский брахман написал драму о Господе и поселился у Бхагавана Ачарьи; вайшнавам она понравилась. Но всё, что читали Господу, сначала слушал Сварупа: Господь гневался на смешение несовместимых рас и противоречие сиддханте. Сварупа сказал Бхагавану Ачарье: ты простодушный пастушок, слушаешь всё подряд; кто не знает рас и сиддханты, не пересечёт океан бхакти; описывать игры Гауры может лишь тот, кто принял Его стопы как богатство жизни, — пример тому две драмы Рупы. После трёх дней уговоров Сварупа согласился слушать."
+  persons: ["@svarupa-damodara", "@bhagavan-acharya", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, author]
+  teaching: [prema, scripture]
+  cc: "Антья 5"
+  event: ev-bengali-poet-drama-svarupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "91", to: "108"}
+
+- id: cc-4059
+  source: cc
+  ref: "Антья 5.109–127"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 36.1
+  title: "Шлока поэта: Чайтанья — «душа» тела Джаганнатхи; Сварупа: тело и душа Господа едины, Джаганнатха — не тленное тело, Чайтанья — не искра-джива"
+  summary: "Поэт прочитал вступление: золотой Чайтанья стал душой лотосоокого тела Джаганнатхи и оживил косную природу; преданные похвалили его. Сварупа в гневе сказал: ты оскорбил обоих — Джаганнатха всецело духовен, а ты представил Его безжизненным телом из пракрити; Чайтанья — Сам Бхагаван с шестью достояниями, изначальный огонь, а ты назвал Его искрой-дживой. Различать тело и душу Господа — тяжкое оскорбление: в Боге тело и душа едины и состоят из блаженства; джива же — слуга майи."
+  persons: ["@svarupa-damodara", "@jagannatha-deity", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, jagannatha, offense]
+  teaching: [gaura-tattva, maya]
+  scriptures: ["Курма-пурана", "Бхаг. 3.9.3", "Бхаг. 3.9.4", "Шридхара Свами к Бхаг. 1.7.6"]
+  cc: "Антья 5"
+  event: ev-bengali-poet-drama-svarupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "109", to: "127"}
+
+- id: cc-4060
+  source: cc
+  ref: "Антья 5.128–158"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: P14
+  order: 36.2
+  title: "Сварупа открывает в шлоке поэта молитву Сарасвати: Джаганнатха — неподвижный Дару-брахман, Чайтанья — движущийся Брахман; поэт предаётся и остаётся в Пури"
+  summary: "Поэт онемел от стыда, как утка среди лебедей. Милостивый Сварупа наставил его: слушай «Бхагавату» от вайшнава, предавшись стопам Господа, общайся с Его преданными. Он объяснил: как устами Индры, Джарасандхи и Шишупалы Сарасвати возносила Кришне хвалу, так и здесь — Джаганнатха и Чайтанья едины, это Кришна; Джаганнатха — неподвижный Дару-брахман в Пури, а Чайтанья — движущийся Брахман, странствующий, чтобы спасти тех, кто не может прийти. Поэт с травинкой в зубах предался преданным; они представили его Господу, и он, отрёкшись от всего, остался в Пури."
+  persons: ["@svarupa-damodara", "@mahaprabhu", "@jagannatha-deity", "@sarasvati-devi", "@indra"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [teaching, mercy, jagannatha]
+  teaching: [gaura-tattva, scripture]
+  scriptures: ["Бхаг. 10.25.5"]
+  cc: "Антья 5"
+  event: ev-bengali-poet-drama-svarupa
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "128", to: "158"}
+
+- id: cc-4061
+  source: cc
+  ref: "Антья 5.159–164"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  period: PX
+  order: 995.11
+  title: "Итог Антья 5 и колофон"
+  summary: "Так рассказано, как Прадьюмна Мишра слушал Рамананду и как невежественный, но смиренный бенгальский поэт обрёл прибежище у Господа; каждая игра Господа расходится сотнями потоков. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@pradyumna-mishra", "@ramananda-raya"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 5"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "159", to: "164"}
+
+- id: cc-4062
+  source: cc
+  ref: "Антья 6.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: PX
+  order: 995.12
+  title: "Мангалачарана Антья 6: Господь верёвкой милости вытащил Рагхунатху из колодца семейной жизни"
+  summary: "Поклон Чайтанье, Который хитростью, верёвкой беспричинной милости вытащил Рагхунатху Даса из слепого колодца семейной жизни и поручил его Сварупе Дамодаре; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@raghunatha-dasa", "@svarupa-damodara"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 6"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "1", to: "2"}
+
+- id: cc-4063
+  source: cc
+  ref: "Антья 6.3–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 100
+  title: "Ночами Господь томится в разлуке с Кришной; Рамананда, как Субала, и Сварупа, как Лалита, утешают Его"
+  summary: "Господь непрестанно чувствовал разлуку с Кришной, но скрывал её, чтобы не огорчать преданных; днём Он отвлекался, а ночью боль возвращалась. Жизнь в Нём поддерживали Рамананда, рассказывавший о Кришне, и Сварупа, певший песни: как Субала утешал Кришну, так Рамананда утешал Господа, и как Лалита утешала Радху, так Сварупа поддерживал Его, переживавшего любовь Радхи."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@radha", "@lalita", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Общее описание (вступление к главе о Рагхунатхе)."
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  cc: "Антья 6"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "3", to: "12"}
+
+- id: cc-4064
+  source: cc
+  ref: "Антья 6.13–41"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 28
+  title: "Рагхунатха Дас дома в Саптаграме: мусульманский чиновник арестовывает его вместо Хираньи, Рагхунатха смягчает его; попытки бегства"
+  summary: "После наставления в Шантипуре Рагхунатха жил дома как обычный домохозяин, внутренне ни к чему не привязанный. Мусульманский чиновник, лишившийся сбора налогов Саптаграмы в пользу Хираньи, донёс в казну; Хиранья скрылся, и чиновник заточил Рагхунатху, но не смел его бить. Рагхунатха сказал ему: ты мне как отец, а братья то ссорятся, то мирятся; растроганный, тот заплакал, освободил его и через него помирился с Хираньей. Через год Рагхунатха стал постоянно убегать; отец, отвергнув совет матери связать его, сказал: его не удержали богатство Индры и красавица-жена — не удержат и верёвки; на нём милость Чайтаньи."
+  persons: ["@raghunatha-dasa", "@hiranya-majumdar", "@govardhana-majumdar", "@mahaprabhu"]
+  places: ["#saptagrama", "#shantipura"]
+  kind: lila
+  authority: A
+  notes: "По ЧЧ — отец Рагхунатхи Говардхана, дядя Хиранья."
+  themes: [muslims, family, sannyasa]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-saptagrama-arrest
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "13", to: "41"}
+
+- id: cc-4065
+  source: cc
+  ref: "Антья 6.42–100"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29
+  title: "Чида-дадхи в Панихати: Нитьянанда «наказывает вора» Рагхунатху — накормить всех плющеным рисом с йогуртом; Нитьянанда призывает Господа и кормит Его"
+  summary: "Рагхунатха пришёл к Нитьянанде в Панихати, где Тот сидел на камне под деревом на берегу Ганги, сияя, как восходящее солнце, среди множества преданных. «Вор пришёл! Накажу тебя: накорми всех Моих спутников плющеным рисом с йогуртом», — сказал Нитьянанда и коснулся стопой его головы. Рагхунатха устроил огромный пир: сотни горшков с чидой, йогуртом, молоком, бананами и сахаром; спутники Нитьянанды — Рамадас, Сундарананда, Гададхара Дас, Мурари, Камалакара, Садашива, Пурандара, Дхананджая, Джагадиша, Парамешвара, Махеша, Гауридас, Хода Кришнадас, Уддхарана — сидели на возвышении, тысячи людей — на земле, на берегу и в воде. Пришёл Рагхава Пандит. Нитьянанда в медитации призвал Господа, обходил с Ним ряды, вкладывая чиду Ему в рот, и посадил рядом с Собой; немногие удачливые видели Господа. Все ели с пением «Хари», и спутникам казалось, что они на Ямуне с Кришной и Баларамой. Рагхунатха скупал и раздавал товар торговцев и получил остатки Нитьянанды."
+  persons: ["@nityananda", "@raghunatha-dasa", "@mahaprabhu", "@raghava-pandita", "@abhirama", "@sundarananda", "@gadadhara-dasa", "@murari-chaitanya-dasa", "@kamalakara-pippalai", "@sadashiva-kaviraja", "@purandara-pandita", "@dhananjaya-pandita", "@jagadisha-pandita", "@parameshvara-dasa", "@mahesha-pandita", "@gauridasa-pandita", "@hoda-krishnadasa", "@uddharana-datta"]
+  places: ["#panihati", "#ganga"]
+  kind: lila
+  authority: A
+  notes: "Рамадас — Абхирама Тхакур (тег @abhirama); «Мурари», «Садашива» — по смыслу спутники Нитьянанды (Мурари Чайтанья Дас, Садашива Кавираджа)."
+  themes: [prasada, mercy, festival]
+  bhava: [sakha]
+  cc: "Антья 6"
+  event: ev-panihati-chida-dadhi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "42", to: "100"}
+
+- id: cc-4066
+  source: cc
+  ref: "Антья 6.101–125"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29.1
+  title: "Вечером в доме Рагхавы Пандита: пляска Нитьянанды, которую тайно видит Господь, и угощение для двух братьев; Рагхава даёт Рагхунатхе их остатки"
+  summary: "Вечером в доме Рагхавы начался киртан; Нитьянанда заплясал, затопив мир премой, и Господь тайно смотрел — видел Его лишь Нитьянанда. За ужином Нитьянанда поставил справа сиденье для Господа, и Господь пришёл и сел; Рагхава подавал обоим братьям блюда, словно приготовленные Самой Радхой, получившей благословение Дурвасы. Господь ежедневно вкушает подношения Рагхавы, порой позволяя Себя видеть. Остатки трапезы братьев Рагхава отдал Рагхунатхе: «их вкусил Сам Господь — исчезнут все твои оковы»."
+  persons: ["@nityananda", "@mahaprabhu", "@raghava-pandita", "@raghunatha-dasa", "@radha", "@durvasa"]
+  places: ["#panihati"]
+  kind: lila
+  authority: A
+  themes: [kirtan, prasada, revelation]
+  cc: "Антья 6"
+  event: ev-panihati-chida-dadhi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "101", to: "125"}
+
+- id: cc-4067
+  source: cc
+  ref: "Антья 6.126–156"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29.2
+  title: "Нитьянанда благословляет Рагхунатху: «Гаурачандра пришёл спасти тебя и поручит тебя Сварупе»; Рагхунатха одаривает спутников Нитьянанды и возвращается домой"
+  summary: "Утром Рагхунатха через Рагхаву попросил Нитьянанду коснуться стопой его головы, чтобы ничто не помешало ему достичь стоп Господа. Нитьянанда сказал преданным: его богатство — как у Индры, но по милости Чайтаньи в нём нет привязанности, благословите его; затем коснулся стопой его головы: «Ради твоего пира пришёл Сам Господь; Он отдаст тебя Сварупе — иди домой, скоро достигнешь Его стоп». Рагхунатха тайно передал казначею Нитьянанды золото и монеты и через Рагхаву одарил спутников Нитьянанды; дома он стал спать в Дурга-мандапе под стражей, обдумывая побег."
+  persons: ["@nityananda", "@raghunatha-dasa", "@raghava-pandita", "@mahaprabhu", "@svarupa-damodara"]
+  places: ["#panihati", "#saptagrama"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa]
+  scriptures: ["Бхаг. 5.14.43"]
+  cc: "Антья 6"
+  event: ev-panihati-chida-dadhi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "126", to: "156"}
+
+- id: cc-4068
+  source: cc
+  ref: "Антья 6.157–188"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 29.5
+  title: "Бегство Рагхунатхи: ночью, проводив гуру Ядунандану Ачарью, он уходит лесными тропами и за двадцать дней доходит до Пури"
+  summary: "Когда бенгальцы ушли в Пури, Рагхунатха не мог идти с ними. Однажды ночью к нему пришёл его гуру Ядунандана Ачарья, ученик Адвайты, попросить уговорить брахмана, бросившего служение Божеству; на полпути Рагхунатха отпустил его и, без стражи, пошёл на восток, затем на юг, избегая больших дорог. Ночь он провёл в коровнике пастуха, выпив молока. Отец послал десять человек с письмом к Шивананде; те догнали бенгальцев у Джханкары, но Рагхунатхи с ними не было. Миновав Чхатрабхогу, он шёл просёлками, думая лишь о стопах Господа, и за двадцать дней, поев лишь три раза, достиг Пури."
+  persons: ["@raghunatha-dasa", "@yadunandana-acharya", "@vasudeva-datta", "@advaita", "@govardhana-majumdar", "@shivananda-sena"]
+  places: ["#saptagrama", "#chhatrabhoga", "#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, pilgrimage]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-escape
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "157", to: "188"}
+
+- id: cc-4069
+  source: cc
+  ref: "Антья 6.189–227"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30
+  title: "Рагхунатха у Господа: «Кришна вытащил тебя из выгребной ямы»; Господь отдаёт его Сварупе — «Рагху Сварупы»; Рагхунатха просит подаяние у Львиных ворот, и Господь хвалит его отречение"
+  summary: "Рагхунатха простёрся во дворе; Мукунда Датта объявил его, и Господь обнял его: милость Кришны вытащила тебя из выгребной ямы мирских услад; твои отец и дядя — друзья Моего деда Ниламбары, но они лишь «почти вайшнавы». Видя его худобу, Господь отдал его Сварупе как сына и слугу — «Рагху Сварупы», третий Рагхунатха — и велел Говинде кормить его. Пять дней Рагхунатха ел остатки Господа, а затем стал вечером просить подаяние у Львиных ворот, где служители храма кормят вайшнавов. Господь одобрил: отрешённый должен непрестанно воспевать имя, кормиться подаянием, не зависеть от других и не служить языку, желудку и гениталиям."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@svarupa-damodara", "@mukunda-datta", "@govinda-servant", "@nilambara-chakravarti", "@hiranya-majumdar", "@govardhana-majumdar"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, sannyasa, prasada]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "189", to: "227"}
+
+- id: cc-4070
+  source: cc
+  ref: "Антья 6.228–241"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30.3
+  title: "Наставления Господа Рагхунатхе: не слушай и не веди мирских разговоров, не ешь вкусного, не носи хорошего, почитай всех, не жди почёта, повторяй имя и мысленно служи Радха-Кришне во Врадже"
+  summary: "Рагхунатха через Сварупу спросил о своём долге. Господь с улыбкой сказал: твой наставник — Сварупа, он знает больше Меня; но вот Мои слова: не слушай и не говори о мирском, не ешь изысканного, не носи дорогого, почитай всех, не ожидая почёта, всегда повторяй имя Кришны и мысленно служи Радха-Кришне во Вриндаване. Шлока «тринад апи суничена». Господь вновь поручил его Сварупе, и с ним Рагхунатха совершал сокровенное служение."
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@svarupa-damodara", "@govinda-servant", "@radha", "@krishna"]
+  places: ["#puri", "#vrindavana"]
+  kind: teaching
+  authority: A
+  themes: [teaching, sannyasa]
+  teaching: [sannyasa-teaching, holy-name]
+  scriptures: ["Шикшаштака, 3"]
+  cc: "Антья 6"
+  event: ev-raghunatha-lord-instructions
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "228", to: "241"}
+
+- id: cc-4071
+  source: cc
+  ref: "Антья 6.242–265"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30.6
+  title: "Рагхунатха видит Ратха-ятру; Шивананда сообщает отцу Рагхунатхи о его отречении; стихи Карнапуры о Рагхунатхе"
+  summary: "Пришли бенгальские преданные; Господь, как прежде, убрал с ними Гундичу и плясал на Ратха-ятре, и Рагхунатха был поражён; Адвайта оказал ему милость, Шивананда рассказал о погоне. Когда бенгальцы вернулись, Шивананда сказал посланцу отца: Рагхунатха живёт у Господа под опекой Сварупы, днём и ночью повторяет имя и просит подаяние у Львиных ворот; родители послали ему слуг, брахмана и четыреста монет. Карнапура в «Чайтанья-чандродае» прославил его отрешённость и дерево премы, выросшее в нём."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@advaita", "@shivananda-sena", "@govardhana-majumdar", "@kavi-karnapura", "@svarupa-damodara"]
+  places: ["#puri", "#gundicha", "#saptagrama"]
+  kind: lila
+  authority: A
+  parallels: "Карнапура, ЧЧд акт 10"
+  themes: [jagannatha, family, sannyasa]
+  scriptures: ["Чайтанья-чандродая, 10.3", "Чайтанья-чандродая, 10.4"]
+  cc: "Антья 6"
+  event: ev-raghunatha-dasa-joins-lord
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "242", to: "265"}
+
+- id: cc-4072
+  source: cc
+  ref: "Антья 6.266–286"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 30.7
+  title: "Рагхунатха перестаёт приглашать Господа на деньги отца и просить у Львиных ворот: «пища мирских людей оскверняет ум», «у ворот думают, как блудница»"
+  summary: "Рагхунатха отказался от слуг и денег, но два года дважды в месяц устраивал для Господа пир на деньги, хранимые присланным брахманом, а затем перестал. Сварупа объяснил: он понял, что, беря деньги мирских людей, оскверняет ум, а Господь принимает приглашения лишь чтобы не огорчать его; Господь согласился — пища мирян в гуне страсти оскверняет и дающего, и принимающего. Затем Рагхунатха стал есть в бесплатной столовой (чхатре), и Господь похвалил: стоящий у ворот думает, как блудница — «этот даст, тот не дал»."
+  persons: ["@raghunatha-dasa", "@mahaprabhu", "@svarupa-damodara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, prasada, teaching]
+  teaching: [sannyasa-teaching, purity]
+  cc: "Антья 6"
+  event: ev-raghunatha-stops-invitations
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "266", to: "286"}
+
+- id: cc-4073
+  source: cc
+  ref: "Антья 6.287–308"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 31
+  title: "Господь дарит Рагхунатхе камень с Говардханы и ожерелье из гунджи, привезённые Шанкаранандой Сарасвати, и учит поклоняться шиле водой и туласи"
+  summary: "Шанкарананда Сарасвати принёс из Вриндавана ожерелье из гунджи и камень с Говардханы; три года Господь носил ожерелье, вспоминая игры Враджа, прижимал камень к глазам и сердцу и омывал слезами, называя его телом Кришны. Довольный Рагхунатхой, Он отдал их ему: в камне Сам Кришна; поклоняйся ему в чистоте кувшином воды и восемью соцветиями туласи. Сварупа дал утварь и велел подносить сладости на восемь каури. Рагхунатха понял: камнем Господь даровал ему место у Говардханы, а гунджей — прибежище у стоп Радхи."
+  persons: ["@mahaprabhu", "@raghunatha-dasa", "@shankarananda-sarasvati", "@svarupa-damodara", "@govinda-servant", "@krishna", "@radha"]
+  places: ["#puri", "#govardhana", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [deities, mercy, krishna-lila]
+  cc: "Антья 6"
+  event: ev-govardhana-shila-gunja-gift
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "287", to: "308"}
+
+- id: cc-4074
+  source: cc
+  ref: "Антья 6.309–325"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: P14
+  order: 31.5
+  title: "Отречение Рагхунатхи: полтора часа на сон и еду, лоскутная накидка; он ест промытый гнилой рис, и Господь с Сварупой отнимают у него «нектар»"
+  summary: "Рагхунатха днём и ночью медитировал на стопы Кришны и повторял имя, тратя на сон и еду не более полутора часов; носил ветхую ткань и лоскутную накидку и корил себя даже за малую еду. Он собирал ночью прасад Джаганнатхи, испортившийся так, что его не ели даже телингские коровы у Львиных ворот, промывал и ел твёрдую сердцевину с солью. Сварупа отведал и попрекнул: ешь нектар и не угощаешь нас; Господь пришёл, силой съел пригоршню и сказал, что такого вкусного прасада не пробовал, а Сварупа не дал Ему взять ещё."
+  persons: ["@raghunatha-dasa", "@svarupa-damodara", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, prasada]
+  cc: "Антья 6"
+  event: ev-raghunatha-rotten-rice
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "309", to: "325"}
+
+- id: cc-4075
+  source: cc
+  ref: "Антья 6.326–329"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  period: PX
+  order: 995.13
+  title: "Рагхунатха о своём спасении («Чайтанья-става-калпаврикша», 11); колофон Антья 6"
+  summary: "Рагхунатха сам описал: Господь спас его из пожара мирской жизни, поручил Сварупе и подарил дорогие Ему гунджу и камень с Говардханы. Кто слушает о встрече Рагхунатхи с Господом, обретает прибежище у Его стоп. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@raghunatha-dasa", "@mahaprabhu", "@svarupa-damodara"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Чайтанья-става-калпаврикша, 11"]
+  cc: "Антья 6"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "326", to: "329"}
+
+- id: cc-4076
+  source: cc
+  ref: "Антья 7.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: PX
+  order: 995.14
+  title: "Мангалачарана Антья 7; бенгальские преданные снова в Пури"
+  summary: "Поклон преданным Чайтаньи, по милости которых освобождаются даже падшие; слава Чайтанье, Нитьянанде, Адвайте и преданным. На следующий год бенгальцы вновь пришли к Господу."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 7"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "1", to: "3"}
+
+- id: cc-4077
+  source: cc
+  ref: "Антья 7.4–57"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32
+  title: "Валлабха Бхатта приходит к Господу; Господь отвечает, что Сам — санньяси-майявади, а бхакти постиг через Адвайту, Нитьянанду, Сарвабхауму, Рамананду, Сварупу и Харидаса"
+  summary: "Учёный Валлабха Бхатта пришёл в Пури и восхвалил Господа: Ты учишь санкиртане — значит, наделён силой Кришны, ведь лишь Кришна дарует прему. Видя его гордость, Господь ответил: Я лишь санньяси-майявади; бхакти Я понял по милости преданных — Адвайты, равного Богу; Нитьянанды, океана премы; Сарвабхаумы, показавшего предел бхакти-йоги; Рамананды, открывшего, что Кришна — изначальный Бхагаван и что рагануга-бхакти выше айшварья-бхакти; Сварупы, объяснившего мадхура-расу и чистую любовь гопи, у которых Кришна в долгу; Харидаса, открывшего славу имени, и бенгальских вайшнавов. Гордость Валлабхи рассыпалась, и он пожелал встретиться с ними."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@advaita", "@nityananda", "@sarvabhauma", "@ramananda-raya", "@svarupa-damodara", "@haridasa-thakura", "@chandrashekhara-acharya", "@gadadhara-pandita", "@jagadananda-pandita", "@damodara-pandita", "@shankara-pandita", "@vakreshvara", "@kashishvara", "@mukunda-datta", "@vasudeva-datta", "@murari-gupta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 48: «Ачарьяратна» — Чандрашекхара Ачарья; Ачарьянидхи без тега."
+  themes: [teaching, learning]
+  teaching: [prema, vaishnava, bhakti-supremacy]
+  scriptures: ["Бхаг. 1.19.33", "Лагху-бхагаватамрита, 1.5.37", "Бхаг. 10.9.21", "Бхаг. 10.47.60", "Бхаг. 10.12.11", "Бхаг. 10.8.45", "Бхаг. 10.8.46", "Бхаг. 10.31.19", "Бхаг. 10.31.36", "Бхаг. 10.32.22"]
+  cc: "Антья 7"
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "4", to: "57"}
+
+- id: cc-4078
+  source: cc
+  ref: "Антья 7.58–75"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.1
+  title: "Валлабха Бхатта угощает Господа и Его спутников махапрасадом; на Ратха-ятре видит семь групп киртана"
+  summary: "Валлабха пригласил Господа; на другой день Господь представил его вайшнавам, рядом с которыми он чувствовал себя светлячком. Он принёс много махапрасада Джаганнатхи и накормил Господа, санньяси во главе с Парамананда Пури, Адвайту, Нитьянанду и бенгальцев; раздавали Сварупа, Джагадананда, Кашишвара, Шанкара, Рагхава и Дамодара. На Ратха-ятре Господь разделил вайшнавов на семь групп во главе с Адвайтой, Нитьянандой, Харидасом, Вакрешварой, Шривасой, Рагхавой и Гададхарой, по четырнадцать мридангов в каждой, и переходил от группы к группе; Валлабха был поражён."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@paramananda-puri", "@advaita", "@nityananda", "@svarupa-damodara", "@jagadananda-pandita", "@kashishvara", "@shankara-pandita", "@raghava-pandita", "@damodara-pandita", "@haridasa-thakura", "@vakreshvara", "@srivasa", "@gadadhara-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, jagannatha, kirtan]
+  cc: "Антья 7"
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "58", to: "75"}
+
+- id: cc-4079
+  source: cc
+  ref: "Антья 7.76–95"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.2
+  title: "Господь не желает слушать комментарий Валлабхи и его толкования имени «Кришна»: «Кришна — тёмный, сын Яшоды»; Валлабха читает их Гададхаре"
+  summary: "Валлабха попросил выслушать его комментарий к «Бхагавате»; Господь ответил, что не понимает «Бхагаваты» и не успевает даже закончить свою норму имени, а из значений имени «Кришна» знает лишь два: Шьямасундара и сын Яшоды. Огорчённый Валлабха стал ходить к Гададхаре и против его воли читал ему своё толкование имени; Гададхара, не смея прервать знатного брахмана, мысленно молился Кришне, а спутники Господа выражали ему недовольство."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@gadadhara-pandita", "@yashoda"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [learning, teaching]
+  teaching: [holy-name, scripture]
+  scriptures: ["Нама-каумуди"]
+  cc: "Антья 7"
+  event: ev-vallabha-bhatta-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "76", to: "95"}
+
+- id: cc-4080
+  source: cc
+  ref: "Антья 7.96–112"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.5
+  title: "Споры Валлабхи с вайшнавами: «жена не зовёт мужа по имени» — Господь: «если муж велит, верная жена повторяет его имя»; «кто не признаёт Свами — блудница»"
+  summary: "Валлабха каждый день спорил с Адвайтой и вайшнавами и, как утка среди лебедей, терпел поражение. Он спросил Адвайту: джива по природе — женщина, Кришна — её муж, а верная жена не называет мужа по имени, зачем же вы поёте имя Кришны? Адвайта отослал к Господу, и Господь сказал: долг жены — исполнять волю мужа, а муж велит повторять Его имя. Затем Валлабха объявил, что опровергает в своём комментарии Шридхару Свами; Господь ответил: кто не принимает слова «свами» (мужа), ту Я считаю блудницей."
+  persons: ["@vallabha-bhatta", "@advaita", "@mahaprabhu", "@shridhara-svami"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [learning, teaching]
+  teaching: [holy-name, scripture]
+  cc: "Антья 7"
+  event: ev-vallabha-sridhara-svami
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "96", to: "112"}
+
+- id: cc-4081
+  source: cc
+  ref: "Антья 7.113–137"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.6
+  title: "Валлабха понимает, что Господь смиряет его гордость, как Кришна — гордость Индры, и предаётся; Господь велит толковать «Бхагавату», следуя Шридхаре Свами"
+  summary: "Господь знал гордость Валлабхи и пренебрегал им, чтобы сокрушить её, как Кришна — гордость Индры. Дома Валлабха понял: в Праяге Господь был ко мне милостив, а теперь груб ради моего блага. Утром он предался Господу, признал Его Самим Бхагаваном и попросил прощения. Господь сказал: Шридхара Свами — гуру мира, и Я принимаю его учителем; толкуй «Бхагавату» вслед за ним, оставь гордость, повторяй имя без оскорблений — и обретёшь стопы Кришны. Господь принял его приглашение."
+  persons: ["@vallabha-bhatta", "@mahaprabhu", "@shridhara-svami", "@indra", "@krishna"]
+  places: ["#puri", "#prayaga"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching, learning]
+  teaching: [scripture, holy-name]
+  cc: "Антья 7"
+  event: ev-vallabha-sridhara-svami
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "113", to: "137"}
+
+- id: cc-4082
+  source: cc
+  ref: "Антья 7.138–167"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: P14
+  order: 32.8
+  title: "Любовь Гададхары — как у Рукмини, Джагадананды — как у Сатьябхамы; Господь испытывает Гададхару и обнимает его; Валлабха получает посвящение от Гададхары"
+  summary: "Любовь Джагадананды, затевавшего с Господом ссоры, подобна любви Сатьябхамы, а покорная любовь Гададхары — любви Рукмини, пугавшейся шуток Кришны. Валлабха, поклонявшийся Бала-Гопале, в общении с Гададхарой стал поклоняться Кишора-Гопале и просил у него мантру, но Гададхара отказался без позволения Господа. В день пира у Валлабхи Господь послал за Гададхарой; Сварупа спросил, почему тот не отвечал Господу упрёком, и Гададхара сказал, что лишь ждёт Его милости. Он с плачем припал к стопам Господа, и Господь обнял его: «Ты купил Меня своей простотой». Потому Господь зовётся «Гададхара-прананатха», «Гадайра Гауранга». На следующий день у Гададхары Валлабха с позволения Господа получил от него посвящение."
+  persons: ["@gadadhara-pandita", "@mahaprabhu", "@jagadananda-pandita", "@vallabha-bhatta", "@svarupa-damodara", "@govinda-servant", "@rukmini", "@satyabhama"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching]
+  teaching: [associates-tattva, prema]
+  cc: "Антья 7"
+  event: ev-gadadhara-vallabha-initiation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "138", to: "167"}
+
+- id: cc-4083
+  source: cc
+  ref: "Антья 7.168–169"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  period: PX
+  order: 995.15
+  title: "Колофон Антья 7"
+  summary: "Так рассказано о встрече Валлабхи Бхатты с Господом; кто слушает с верой, обретает любовь к Гауранге. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@vallabha-bhatta"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 7"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "168", to: "169"}
+
+- id: cc-4084
+  source: cc
+  ref: "Антья 8.1–4"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: PX
+  order: 995.16
+  title: "Мангалачарана Антья 8: Господь, страшась укоров Рамачандры Пури, стал есть меньше"
+  summary: "Поклон Чайтанье, Который уменьшил свою еду, опасаясь упрёков Рамачандры Пури; слава Господу — нисхождению милости, Которому служат Брахма и Шива, — и преданным во главе с Шривасой."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@ramachandra-puri", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 8"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "1", to: "4"}
+
+- id: cc-4085
+  source: cc
+  ref: "Антья 8.5–15"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37
+  title: "Рамачандра Пури приходит в Пури; у Джагадананды он перекармливает хозяина и упрекает его: «последователи Чайтаньи обжоры»"
+  summary: "Санньяси Рамачандра Пури пришёл встретиться с Господом и Парамананда Пури; Господь поклонился ему. Джагадананда пригласил его и угостил прасадом Джаганнатхи; наевшись, Рамачандра Пури сам стал накладывать Джагадананде, а когда тот поел, упрекнул: я слышал, что последователи Чайтаньи переедают; санньяси, не обуздавший язык, нарушает дхарму. Так он поступал всегда: перекармливал, а потом упрекал."
+  persons: ["@ramachandra-puri", "@mahaprabhu", "@paramananda-puri", "@jagadananda-pandita"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 10 в файле нет (после 9 сразу 11)."
+  themes: [offense, prasada, sannyasa]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "5", to: "15"}
+
+- id: cc-4086
+  source: cc
+  ref: "Антья 8.16–35"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P05
+  order: 3
+  title: "Уход Мадхавендры Пури: он отвергает Рамачандру Пури, советовавшего «помнить Брахман», и благословляет служившего ему Ишвару Пури премой; «айи дина-даярдра натха»"
+  summary: "Умирающий Мадхавендра Пури повторял имя и плакал: «Я так и не достиг Матхуры». Рамачандра Пури без стыда наставил его: ты в блаженстве Брахмана — о чём плакать? Мадхавендра в гневе прогнал его: умирая в твоём присутствии, я не достигну цели. Отвергнутый гуру, Рамачандра Пури наполнился мирскими желаниями: сухое знание Брахмана рождает лишь склонность к хуле. Ишвара Пури же своими руками убирал за учителем, пел ему имя и рассказывал о Кришне, и Мадхавендра благословил его премой. Уходя, Мадхавендра повторял шлоку «айи дина-даярдра натха» о разлуке с Владыкой Матхуры; так он посадил семя премы, ставшее древом — Чайтаньей."
+  persons: ["@madhavendra-puri", "@ramachandra-puri", "@ishvara-puri", "@krishna"]
+  places: ["#mathura"]
+  kind: lila
+  authority: A
+  notes: "Время и место ухода в ЧЧ не названы."
+  themes: [departure, separation, offense]
+  teaching: [prema, bhakti-supremacy]
+  cc: "Антья 8"
+  event: ev-madhavendra-puri-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "16", to: "35"}
+
+- id: cc-4087
+  source: cc
+  ref: "Антья 8.36–68"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37.1
+  title: "Рамачандра Пури выискивает недостатки Господа; из-за муравьёв он обвиняет Его в любви к сладостям, и Господь сокращает еду наполовину"
+  summary: "Рамачандра Пури, незваным являясь к трапезам, следил, кто сколько ест; он выведывал распорядок Господа, но не нашёл изъяна и придрался: санньяси, едящий сладости, не может обуздать чувства. Господь почитал его как гуру. Однажды, увидев муравьёв, он сказал: тут ночью были сладости — санньяси привязан к чувствам. Господь велел Говинде брать Ему лишь четверть горшка прасада и овощей на пять ганд, иначе Он уйдёт; преданные, словно поражённые молнией, стали поститься. Рамачандра Пури пришёл и с улыбкой сказал, что и сухое отречение против дхармы, приводя «Гиту»."
+  persons: ["@ramachandra-puri", "@mahaprabhu", "@govinda-servant", "@kashishvara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 67 в файле нет (после 66 сразу 68)."
+  themes: [offense, prasada, sannyasa]
+  teaching: [sannyasa-teaching]
+  scriptures: ["Бг. 6.16", "Бг. 6.17"]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "36", to: "68"}
+
+- id: cc-4088
+  source: cc
+  ref: "Антья 8.69–93"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37.2
+  title: "Парамананда Пури и преданные просят Господа есть как прежде; Господь защищает Рамачандру Пури, но увеличивает порцию до половины; Господь подвластен желаниям близких спутников"
+  summary: "Парамананда Пури сказал: мой духовный брат по природе хулитель — закармливает и упрекает, нарушает запрет шастр осуждать других; зачем Ты постишься из-за него? Господь ответил: в чём его вина, он говорит о дхарме санньяси — не потакать языку; но по мольбам преданных увеличил порцию до половины прежней. Приглашение стоило теперь две паны каури; приглашения Гададхары, Бхагавана Ачарьи и Сарвабхаумы Он принимал всегда, будучи подвластен желаниям спутников. Господь то служил Рамачандре Пури, то не замечал его, как травинку."
+  persons: ["@paramananda-puri", "@mahaprabhu", "@ramachandra-puri", "@gadadhara-pandita", "@bhagavan-acharya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, sannyasa, teaching]
+  teaching: [sannyasa-teaching, vaishnava]
+  scriptures: ["Бхаг. 11.28.1"]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "69", to: "93"}
+
+- id: cc-4089
+  source: cc
+  ref: "Антья 8.94–101"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  period: P14
+  order: 37.3
+  title: "Рамачандра Пури уходит из Пури, и всё возвращается к прежнему; урок: отвергнутый гуру оскорбляет даже Господа; колофон Антья 8"
+  summary: "Пожив в Пури, Рамачандра Пури ушёл по святым местам, и у спутников словно камень упал с плеч; Господь вновь свободно принимал приглашения. Отвергнутый гуру постепенно оскорбляет всех, даже Самого Господа; Господь не видел греха в его поступках, считая его гуру. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@ramachandra-puri", "@mahaprabhu", "@krishnadasa-kaviraja"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [offense, author]
+  cc: "Антья 8"
+  event: ev-ramachandra-puri-criticism
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "94", to: "101"}
+
+- id: cc-4090
+  source: cc
+  ref: "Антья 9.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: PX
+  order: 995.17
+  title: "Мангалачарана Антья 9"
+  summary: "Слава бесчисленным спутникам Чайтаньи, орошающим потоком премы иссохшие сердца; слава Чайтанье, Нитьянанде, милостивому к падшим, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 9"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "1", to: "3"}
+
+- id: cc-4091
+  source: cc
+  ref: "Антья 9.4–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 100.1
+  title: "Господь в Пури в волнах разлуки; к Нему в облике людей приходят обитатели всех миров — Прахлада, Бали, Вьяса, Шука"
+  summary: "Господь, внутри и снаружи охваченный разлукой с Кришной, днём пел и плясал перед Джаганнатхой, а ночью вкушал расы с Раманандой и Сварупой. Под видом людей к Нему приходили обитатели высших и низших миров, асуры и наги, жители девяти кханд и семи двип; Прахлада, Бали, Вьяса и Шука лишались чувств от премы. Толпы шумели у Его дома, и Он выходил и призывал всех петь имя Кришны."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@prahlada", "@vyasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Общее описание (вступление к главе)."
+  themes: [separation, celestial, kirtan]
+  cc: "Антья 9"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "4", to: "12"}
+
+- id: cc-4092
+  source: cc
+  ref: "Антья 9.13–54"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38
+  title: "Гопинатху Паттанаяка, брата Рамананды, за недоимку царевич хочет сбросить на мечи; Господь отказывается вмешиваться и отсылает преданных к Джаганнатхе; по слову Харичанданы царь отменяет казнь"
+  summary: "Люди сообщили Господу: сын Бхавананды Гопинатха Паттанаяк, сборщик податей Маладжатхья-Дандапата, задолжал казне двести пятьдесят миллионов каури, высмеял царевича, торговавшего его лошадей («мои кони не задирают голову»), и тот велел сбросить его с помоста на мечи; арестован и Ванинатха с семьёй. Господь с недовольством сказал: служащий царю должен сперва отдать долг, а не тратить на танцовщиц; Я санньяси — просить у царя такую милостыню? Ступайте молиться Джаганнатхе. Тем временем Харичандана убедил царя, что казнь бесполезна; царь, не знавший об этом, велел лишь взять лошадей по справедливой цене, и Гопинатху сняли с помоста. Ванинатха же при аресте бесстрашно повторял имя, отмечая счёт на теле, и Господь был доволен."
+  persons: ["@mahaprabhu", "@gopinatha-pattanayaka", "@bhavananda-raya", "@ramananda-raya", "@vaninatha-raya", "@purushottama-jana", "@harichandana", "@prataparudra", "@svarupa-damodara", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, jagannatha]
+  teaching: [holy-name]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "13", to: "54"}
+
+- id: cc-4093
+  source: cc
+  ref: "Антья 9.55–79"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38.1
+  title: "Господь хочет уйти в Алаланатху от мирских тревог; Каши Мишра: чистый преданный служит Тебе ради Твоего счастья, а семья Рамананды прибегла к Тебе, не имея иного прибежища"
+  summary: "Господь сказал Каши Мишре: Я уйду в Алаланатху — семья Бхавананды тратит царские деньги, а потом бежит ко Мне; Я нищий монах, мирские новости тревожат Мой ум. Каши Мишра ответил: кто служит Тебе ради мирского — глупец; ради Тебя Рамананда, Санатана и Рагхунатха всё оставили; Гопинатха не ждёт от Тебя мирского, это друзья его прибежали к Тебе; чистый преданный служит Тебе ради Твоего счастья и, терпя невзгоды, уповает на Твою милость. Останься: Джаганнатха, спасший его сегодня, спасёт и впредь."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@ramananda-raya", "@sanatana-gosvami", "@raghunatha-dasa", "@gopinatha-pattanayaka"]
+  places: ["#puri", "#alalanatha"]
+  kind: lila
+  authority: A
+  themes: [teaching, sannyasa]
+  teaching: [bhakti-supremacy, vaishnava]
+  scriptures: ["Бхаг. 10.14.8"]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "55", to: "79"}
+
+- id: cc-4094
+  source: cc
+  ref: "Антья 9.80–115"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38.2
+  title: "Пратапарудра, растирая стопы Каши Мишры, узнаёт о намерении Господа уйти и прощает Гопинатхе долг, удваивает ему жалованье и дарует шёлковую накидку"
+  summary: "Царь каждый день растирал стопы Каши Мишры и слушал отчёт о службе Джаганнатхе. Узнав, что Господь хочет уйти в Алаланатху, он опечалился: миг общения с Господом дороже миллионов чинтамани — что мне этот долг? Каши Мишра сказал, что Господь не желает прощения долга, но царь всё равно простил Гопинатхе долг из любви к семье Бхавананды, вернул ему сбор податей, удвоил жалованье и сам надел на него шёлковую накидку, велев идти к Господу. Господь не желал преданному мирских благ — лишь просьба спасти его от смерти дала такой плод."
+  persons: ["@prataparudra", "@kashi-mishra", "@mahaprabhu", "@gopinatha-pattanayaka", "@bhavananda-raya", "@purushottama-jana"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "80", to: "115"}
+
+- id: cc-4095
+  source: cc
+  ref: "Антья 9.116–152"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: P14
+  order: 38.3
+  title: "Господь упрекает Каши Мишру, но слышит о смирении царя; Бхавананда с сыновьями благодарит Господа; Гопинатха просит отрешённости, и Господь велит ему не тратить царские деньги"
+  summary: "Господь возмутился: ты вынудил Меня принять помощь царя; Каши Мишра передал слова царя: он прощает долг не ради Господа, а потому что любит сыновей Бхавананды как свою семью и не следил за их тратами — Рамананда в Раджамахендри, Гопинатха тратит до полумиллиарда каури. Господь обрадовался смирению царя. Бхавананда с пятью сыновьями поклонился Господу: Ты защитил нас, как Пандавов. Гопинатха в шёлковой накидке сказал: на эшафоте я помнил Твои стопы, и всё мирское — лишь тень этой милости; дай мне отрешённость, как Рамананде и Ванинатхе. Господь ответил: кто будет содержать семью? вы Мои слуги из жизни в жизнь; лишь сперва отдавай долг царю и не трать деньги на греховное. Так Господь, не прося никого, спас Гопинатху."
+  persons: ["@mahaprabhu", "@kashi-mishra", "@prataparudra", "@bhavananda-raya", "@gopinatha-pattanayaka", "@ramananda-raya", "@vaninatha-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching]
+  teaching: [vaishnava]
+  cc: "Антья 9"
+  event: ev-gopinatha-pattanayaka-pardoned
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "116", to: "152"}
+
+- id: cc-4096
+  source: cc
+  ref: "Антья 9.153"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  period: PX
+  order: 995.18
+  title: "Колофон Антья 9"
+  summary: "Колофон: Кришнадас у стоп Рупы и Рагхунатхи рассказывает «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 9"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "153", to: "153"}
+
+- id: cc-4097
+  source: cc
+  ref: "Антья 10.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: PX
+  order: 995.19
+  title: "Мангалачарана Антья 10"
+  summary: "Поклон Чайтанье, всегда довольному тем, что с верой и любовью подносят Ему преданные; слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 10"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "1", to: "2"}
+
+- id: cc-4098
+  source: cc
+  ref: "Антья 10.3–12"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 5
+  title: "Бенгальцы во главе с Адвайтой снова идут в Пури; Нитьянанда идёт вопреки велению Господа — любовь не признаёт правил"
+  summary: "На следующий год преданные во главе с Адвайтой, Чандрашекхарой, Пундарикой Видьянидхи и Шривасой пошли в Пури; Нитьянанда, хотя Господь велел Ему оставаться в Бенгалии, тоже пошёл из любви: любовь пренебрегает даже велением Господа, как гопи, не ушедшие домой перед расой, и это доставляет Кришне в миллионы раз больше радости. С ними шли Васудева Датта, Мурари, Гангадаса, Шриман Сена, Шриман Пандит, Акинчана Кришнадас, Гаруда Пандит, Буддхиманта Хан, Пурушоттама Санджая, Бхагаван Пандит, Шукламбара, Нрисимхананда, жители Кулинаграмы и Кханды; о всех заботился Шивананда Сен."
+  persons: ["@advaita", "@nityananda", "@chandrashekhara-acharya", "@pundarika-vidyanidhi", "@srivasa", "@vasudeva-datta", "@murari-gupta", "@gangadasa-pandita", "@shriman-sena", "@shriman-pandita", "@akinchana-krishnadasa", "@garuda-pandita", "@buddhimanta-khan", "@purushottama-sanjaya", "@bhagavan-pandita", "@shuklambara", "@nrisimhananda", "@shivananda-sena", "@mahaprabhu"]
+  places: ["#kulinagrama", "#shrikhanda", "#puri"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, festival]
+  teaching: [prema]
+  cc: "Антья 10"
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "3", to: "12"}
+
+- id: cc-4099
+  source: cc
+  ref: "Антья 10.13–40"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 49
+  title: "«Рагхавера джхали»: Дамаянти, сестра Рагхавы Пандита, готовит для Господа на год вперёд сотни приправ и сладостей"
+  summary: "Рагхава вёз мешки угощений, приготовленных его сестрой Дамаянти: кашанди из манго и имбиря, лимон с имбирём, сушёные горькие овощи, которые Господь любил больше панчамриты, — Дамаянти, как о близком, заботилась о Его пищеварении; Господь принимает лишь любовь. Сотни приправ, непортящийся сыр, сладости из сливок, хлопья и шарики из риса шали с камфарой и специями, ароматная глина Ганги — всё в горшочках и двойных мешочках, на трёх носильщиков. Мешки, известные как «рагхавера джхали», охранял Макарадхваджа Кара."
+  persons: ["@raghava-pandita", "@damayanti", "@mahaprabhu", "@makaradhvaja-kara"]
+  places: ["#panihati", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 22–23, 25 в файле нет (после 21 сразу 24, затем 26)."
+  themes: [prasada]
+  scriptures: ["Кирата-арджуния"]
+  cc: "Антья 10"
+  event: ev-raghavera-jhali
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "13", to: "40"}
+
+- id: cc-4100
+  source: cc
+  ref: "Антья 10.41–56"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 6
+  title: "Бенгальцы встречают Господа на озере Нарендра в день водных игр Говинды; Господь играет в воде с преданными"
+  summary: "Преданные достигли Пури в день, когда праздничное Божество Говинда плавало в лодке по Нарендра-сароваре; Господь с преданными пришёл туда и встретил их, они пели имя и плакали от счастья, а затем Господь в ликовании играл с ними в воде — об этом подробно рассказал Вриндаван Дас. Потом Он повёл их к Джаганнатхе, накормил прасадом и поселил на прежних местах; мешки Рагхавы Говинда сложил в углу трапезной."
+  persons: ["@mahaprabhu", "@govinda-deity", "@vrindavana-dasa", "@raghava-pandita", "@govinda-servant"]
+  places: ["#narendra-sarovara", "#puri"]
+  kind: lila
+  authority: A
+  calendar: "Чандана-ятра"
+  themes: [festival, jagannatha, kirtan]
+  cc: "Антья 10"
+  event: ev-narendra-jala-keli
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "41", to: "56"}
+
+- id: cc-4101
+  source: cc
+  ref: "Антья 10.57–102"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 51
+  title: "Киртан семи групп вокруг храма; Господь пляшет под строку песни на ория «да склонится моя голова в джагамохане»; Говинда переступает через спящего Господа, чтобы служить, но не ради себя"
+  summary: "Утром после пробуждения Джаганнатхи Господь устроил вокруг храма киртан семи групп (Адвайта, Нитьянанда, Вакрешвара, Ачьютананда, Шриваса, Сатьяраджа Хан, Нарахари), переходя от одной к другой; смотрели царь и царицы с крыши. Господь велел Сварупе петь строку на ория «пусть моя голова склонится в джагамохане» и плясал в экстазе: падал без чувств, волосы вставали дыбом, с потом сочилась кровь, голос прерывался, зубы шатались. Нитьянанда постепенно остановил киртан. После омовения и прасада Господь лёг в дверях Гамбхиры; Говинда, не сумев войти, накрыл Его накидкой и переступил, растирал Ему стопы, пока Он спал, а потом не ушёл есть тем же путём: ради служения он готов на миллионы оскорблений, но ради себя — ни на тень. Так Господь явил качества вайшнава."
+  persons: ["@mahaprabhu", "@advaita", "@nityananda", "@vakreshvara", "@achyutananda", "@srivasa", "@satyaraja-khan", "@narahari-sarakara", "@prataparudra", "@svarupa-damodara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [kirtan, ecstasy, jagannatha]
+  teaching: [vaishnava]
+  cc: "Антья 10"
+  event: ev-jagamohana-dance-govinda-crosses
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "57", to: "102"}
+
+- id: cc-4102
+  source: cc
+  ref: "Антья 10.103–106"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 51.5
+  title: "Уборка Гундичи, Ратха-ятра, Хера-панчами и чатурмасья с бенгальцами — как прежде"
+  summary: "Как и прежде, Господь с преданными убрал Гундичу, пировал в саду, плясал перед колесницей и видел Хера-панчами; бенгальцы провели в Пури четыре месяца дождей и праздники, в том числе Джанмаштами."
+  persons: ["@mahaprabhu"]
+  places: ["#gundicha", "#puri"]
+  kind: lila
+  authority: A
+  notes: "Упоминание ежегодных праздников."
+  themes: [festival, jagannatha]
+  cc: "Антья 10"
+  event: ev-gauda-devotees-yearly-visit
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "103", to: "106"}
+
+- id: cc-4103
+  source: cc
+  ref: "Антья 10.107–131"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 50
+  title: "Господь за один раз съедает угощения, которые преданные месяц приносили через Говинду, и пробует мешки Рагхавы"
+  summary: "Каждый бенгалец передавал Говинде угощения для Господа, а Господь лишь велел их хранить; угол трапезной заполнился, и преданные спрашивали, понравилось ли Ему, так что Говинде приходилось лгать. Говинда взмолился, и Господь сел и, слушая, кто что принёс (Адвайта, Шриваса, Ачарьяратна, Ачарьянидхи, Васудева, Мурари, Буддхиманта, Шриман Сена, Шриман Пандит, Нандана, жители Кулинаграмы и Кханды), съел всё, хотя иное хранилось больше месяца, — по Его милости всё осталось свежим. На другой день Он в уединении открыл мешки Рагхавы, отведал всего и похвалил; их Сварупа подавал Ему понемногу целый год."
+  persons: ["@mahaprabhu", "@govinda-servant", "@advaita", "@srivasa", "@chandrashekhara-acharya", "@vasudeva-datta", "@murari-gupta", "@buddhimanta-khan", "@shriman-sena", "@shriman-pandita", "@nandana-acharya", "@raghava-pandita", "@svarupa-damodara"]
+  places: ["#puri", "#kulinagrama", "#shrikhanda"]
+  kind: lila
+  authority: A
+  notes: "Ст. 127 в файле нет."
+  themes: [prasada, mercy]
+  cc: "Антья 10"
+  event: ev-month-stored-prasada
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "107", to: "131"}
+
+- id: cc-4104
+  source: cc
+  ref: "Антья 10.132–141"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 51.5
+  title: "Приглашения вайшнавов во время чатурмасьи: брахманы готовят сами, небрахманы покупают прасад Джаганнатхи"
+  summary: "За чатурмасью Господа приглашали Адвайта и другие, готовя рис, овощи, горькую дыню, баклажаны с нимбом, патолу, мунг-дал, с добавлением прасада Джаганнатхи. Брахманы — Ачарьяратна, Ачарьянидхи, Нандана, Рагхава, Шриваса — готовили сами, а небрахманы — Васудева Датта, Гададхара Дас, Мурари, жители Кханды и Кулинаграмы — угощали купленным прасадом."
+  persons: ["@mahaprabhu", "@advaita", "@chandrashekhara-acharya", "@nandana-acharya", "@raghava-pandita", "@srivasa", "@vasudeva-datta", "@gadadhara-dasa", "@murari-gupta"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, festival]
+  teaching: [purity]
+  cc: "Антья 10"
+  event: ev-chaitanya-dasa-feast
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "132", to: "141"}
+
+- id: cc-4105
+  source: cc
+  ref: "Антья 10.142–157"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: P14
+  order: 52
+  title: "Пир Шивананды и пир его сына Чайтаньи Даса: «что за имя?»; Господь переел у отца, а сын угадал Его желание — рис с йогуртом, лимоном и имбирём"
+  summary: "Шивананда подвёл к Господу старшего сына Чайтанью Даса; Господь удивился имени, и Шивананда сказал, что оно пришло изнутри. На пиру у Шивананды Господь из почтения съел всё дорогое угощение и переел; на другой день Чайтанья Дас, поняв Его желание, подал йогурт, лимон, имбирь, соль и лепёшки из дала; Господь был доволен и отдал ему остатки. Приглашений было так много, что не каждому выпадал черёд; в определённые дни Он ел у Гададхары и Сарвабхаумы, а Гопинатха Ачарья, Джагадананда, Кашишвара, Бхагаван, Рамабхадра, Шанкара и Вакрешвара готовили сами; из-за Рамачандры Пури цена приглашения уменьшилась вдвое. Через четыре месяца бенгальцы ушли."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@chaitanya-dasa-shivananda-son", "@gadadhara-pandita", "@sarvabhauma", "@gopinatha-acharya", "@jagadananda-pandita", "@kashishvara", "@bhagavan-acharya", "@shankara-pandita", "@vakreshvara", "@ramachandra-puri"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [prasada, family]
+  cc: "Антья 10"
+  event: ev-chaitanya-dasa-feast
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "142", to: "157"}
+
+- id: cc-4106
+  source: cc
+  ref: "Антья 10.158–162"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  period: PX
+  order: 995.2
+  title: "Итог Антья 10 и колофон"
+  summary: "Так рассказано о приглашениях преданных, мешках Рагхавы и танце в храме; слушающий с верой обретёт любовь к стопам Господа. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 10"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "158", to: "162"}
+
+- id: cc-4107
+  source: cc
+  ref: "Антья 11.1–10"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: PX
+  order: 995.21
+  title: "Мангалачарана Антья 11: поклон Харидасу и Господу, Который плясал, держа его тело"
+  summary: "Поклон Харидасу и его Владыке, Который танцевал, держа на руках его тело; слава Господу — дорогому Адвайте и Нитьянанде, Владыке Шриваса, Харидаса, Гададхары, Сварупы, Каши Мишры, Джагадананды, Рупы, Санатаны и Рагхунатхи; молитвы Нитьянанде, Адвайте, преданным и шести Госвами — хранителям автора."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-thakura", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@svarupa-damodara", "@kashi-mishra", "@jagadananda-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@raghunatha-bhatta", "@gopala-bhatta"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 11"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "1", to: "10"}
+
+- id: cc-4108
+  source: cc
+  ref: "Антья 11.11–15"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 100.2
+  title: "Господь в Нилачале: днём киртан и даршан, ночами с Раманандой и Сварупой — растущие проявления разлуки"
+  summary: "Днём Господь пел, плясал и ходил к Джаганнатхе, а вечером с Раманандой и Сварупой вкушал расы; в разлуке с Кришной в Нем день ото дня усиливались беспокойство, тревога и безумные речи, особенно ночью; Сварупа и Рамананда были с Ним днём и ночью."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  cc: "Антья 11"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "11", to: "15"}
+
+- id: cc-4109
+  source: cc
+  ref: "Антья 11.16–44"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 59
+  title: "Харидас ослаб и не может закончить норму имени; он просит Господа позволить ему оставить тело прежде, чем Господь завершит Свои игры"
+  summary: "Говинда принёс Харидасу махапрасад; тот лежал и медленно повторял имя: сегодня я пощусь, норма не завершена, — но почтил прасад крошкой. Господь спросил о здоровье; Харидас ответил: тело здорово, болен ум — не могу закончить норму. Господь сказал: ты стар и уже обрёл духовное тело, уменьши число. Харидас ответил: я низкорождённый, а Ты поднял меня до Вайкунтхи; я чувствую, что Ты скоро завершишь Свои игры, и не хочу этого видеть — позволь мне уйти при Тебе, прижав Твои стопы к сердцу, глядя на Твоё лицо и повторяя «Шри Кришна Чайтанья». Господь: Кришна исполнит твоё желание, но Моя радость — общение с тобой. Харидас: если умрёт муравей, что потеряет мир? Исполни мою просьбу."
+  persons: ["@haridasa-thakura", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, prasada]
+  teaching: [holy-name, vaishnava]
+  cc: "Антья 11"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "16", to: "44"}
+
+- id: cc-4110
+  source: cc
+  ref: "Антья 11.45–60"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 60
+  title: "Уход Харидаса: при киртане Господа и преданных он, глядя на лицо Господа и повторяя «Шри Кришна Чайтанья», оставляет тело; Господь пляшет с его телом на руках"
+  summary: "На другое утро Господь со всеми преданными пришёл к Харидасу; тот сказал: всё по Твоей воле. Господь начал во дворе маха-санкиртану, плясал Вакрешвара; перед Раманандой, Сарвабхаумой и всеми Господь восхвалял Харидаса, и все склонились к его стопам. Харидас усадил Господа перед собой, устремил глаза-пчёл на Его лицо, прижал Его стопы к сердцу, посыпал голову пылью со стоп преданных и со словами «Шри Кришна Чайтанья» оставил тело по своей воле, как Бхишма. Господь в преме поднял тело и плясал с ним по двору, и все плясали и пели."
+  persons: ["@haridasa-thakura", "@mahaprabhu", "@vakreshvara", "@svarupa-damodara", "@ramananda-raya", "@sarvabhauma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, kirtan, ecstasy]
+  cc: "Антья 11"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "45", to: "60"}
+
+- id: cc-4111
+  source: cc
+  ref: "Антья 11.61–100"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: P14
+  order: 60.1
+  title: "Господь омывает тело Харидаса в океане и сам засыпает его песком; просит прасад у лавочников у Львиных ворот и устраивает праздник ухода Харидаса"
+  summary: "Тело понесли к морю в паланкине с киртаном; Господь омыл его: отныне этот берег — великая тиртха; все выпили воду со стоп Харидаса. Его положили в яму в песке, украсив прасадом Джаганнатхи; Господь с возгласом «Харибол» сам засыпал тело песком, над могилой сделали возвышение с оградой, и Господь плясал вокруг. У Львиных ворот Господь, подставив край одежды, просил у лавочников прасад для праздника; Сварупа отослал Его домой и собрал прасад; прислали ещё Ванинатха и Каши Мишра. Господь сам раздавал, кладя каждому как на пятерых, и ел с Парамананда Пури и Брахмананда Бхарати. Он благословил: кто видел праздник, пел, сыпал песок и ел прасад, скоро обретёт Кришну; Харидас ушёл по своей воле, как Бхишма, мир потерял бриллиант. «Слава Харидасу!» — и Господь лёг отдыхать со смешанным чувством радости и горя."
+  persons: ["@mahaprabhu", "@haridasa-thakura", "@svarupa-damodara", "@vakreshvara", "@vaninatha-raya", "@kashi-mishra", "@jagadananda-pandita", "@kashishvara", "@shankara-pandita", "@paramananda-puri", "@brahmananda-bharati"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, festival, prasada]
+  cc: "Антья 11"
+  event: ev-haridasa-departure
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "61", to: "100"}
+
+- id: cc-4112
+  source: cc
+  ref: "Антья 11.101–108"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  period: PX
+  order: 995.22
+  title: "Итог Антья 11: любовь Господа к преданным в уходе Харидаса; колофон"
+  summary: "Так рассказано о победоносном уходе Харидаса: Господь даровал ему общение при смерти, плясал с его телом, засыпал его песком, просил милостыню и праздновал его уход. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@haridasa-thakura", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 11"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "101", to: "108"}
+
+- id: cc-4113
+  source: cc
+  ref: "Антья 12.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: PX
+  order: 995.23
+  title: "Мангалачарана Антья 12"
+  summary: "Преданные, непрестанно слушайте, пересказывайте и обдумывайте деяния Чайтаньи; слава милостивому Чайтанье, Нитьянанде — океану милости, Адвайте и сострадательным преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 12"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "1", to: "3"}
+
+- id: cc-4114
+  source: cc
+  ref: "Антья 12.4–6"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 100.3
+  title: "«О Кришна, владыка Моей жизни, где Мне найти Тебя?» — Господь днём и ночью в разлуке"
+  summary: "Разлука с Кришной не покидала сердца Господа: «О Кришна, владыка Моей жизни, сын Нанды, играющий на флейте пастушок, куда Мне идти, где найти Тебя?» Особенно тяжело было ночью, и утешение Он находил у Сварупы и Рамананды."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [separation, ecstasy]
+  bhava: [radha]
+  cc: "Антья 12"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "4", to: "6"}
+
+- id: cc-4115
+  source: cc
+  ref: "Антья 12.7–33"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 5.5
+  title: "Нитьянанда, оставшись без ночлега, «проклинает» сыновей Шивананды и пинает его; Шивананда счастлив: «Ты коснулся стопой моего тела»"
+  summary: "Бенгальцы собрались в Навадвипе у Шивананды и Адвайты; Нитьянанда вновь пошёл, хотя Господь велел Ему жить в Бенгалии; шли Шриваса с женой и братьями, Ачарьяратна с женой, жена Шивананды с тремя сыновьями, Рагхава с мешками, Васудева, Мурари, Видьянидхи — сотни преданных, получив позволение Шачи. Шивананда платил пошлины и находил ночлег; когда его задержал сборщик, Нитьянанда, голодный и без крова, в гневе сказал: пусть умрут трое его сыновей! Жена заплакала, а Шивананда ответил: пусть умрут, раз я причинил неудобство Нитьянанде. Нитьянанда пнул его, и он, обрадованный, нашёл Ему ночлег у молочника: под видом наказания Ты даровал мне милость — Ты коснулся стопой моего тела, чего не может Брахма. Нитьянанда обнял его; Его пинок дарует высшее благо."
+  persons: ["@nityananda", "@shivananda-sena", "@advaita", "@srivasa", "@chandrashekhara-acharya", "@raghava-pandita", "@vasudeva-datta", "@murari-gupta", "@pundarika-vidyanidhi", "@shachi"]
+  places: ["#navadvipa", "#kulinagrama", "#shrikhanda"]
+  kind: lila
+  authority: A
+  themes: [mercy, pilgrimage, pranks]
+  cc: "Антья 12"
+  event: ev-nityananda-kicks-shivananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "7", to: "33"}
+
+- id: cc-4116
+  source: cc
+  ref: "Антья 12.34–43"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 5.6
+  title: "Шриканта Сен, оскорбившись за дядю, уходит вперёд к Господу; Господь не позволяет Говинде поправлять его"
+  summary: "Племянник Шивананды Шриканта, возмущённый тем, что Нитьянанда пнул его дядю, один ушёл к Господу и поклонился, не сняв верхней одежды; Говинда поправил его, но Господь сказал: не докучай ему, он пришёл огорчённым. Поняв, что Господь всеведущ, Шриканта промолчал о случившемся. Затем пришли все вайшнавы; женщины видели Господа лишь издали; Господь поселил их на прежних местах и накормил махапрасадом."
+  persons: ["@shrikanta-sena", "@shivananda-sena", "@nityananda", "@mahaprabhu", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy]
+  cc: "Антья 12"
+  event: ev-nityananda-kicks-shivananda
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "34", to: "43"}
+
+- id: cc-4117
+  source: cc
+  ref: "Антья 12.44–53"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 15
+  title: "Господь даёт младшему сыну Шивананды, Парамананде (Пури Дасу), пососать палец Своей стопы и велит каждый день давать семье Шивананды Свои остатки"
+  summary: "Шивананда представил трёх сыновей. Когда-то Господь велел назвать будущего сына Пури Дасом; мальчик родился, когда Шивананда вернулся домой, и получил имя Парамананда Дас, а Господь в шутку звал его Пури Дасом. Господь благословил его, вложив ему в рот палец Своей стопы, и велел Говинде, пока семья Шивананды в Пури, ежедневно давать ей остатки Своей трапезы."
+  persons: ["@mahaprabhu", "@shivananda-sena", "@kavi-karnapura", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "Антья 16 (тот же ребёнок — будущий Кави Карнапура)"
+  themes: [mercy, prasada, family]
+  cc: "Антья 12"
+  event: ev-karnapura-child-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "44", to: "53"}
+
+- id: cc-4118
+  source: cc
+  ref: "Антья 12.54–60"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 6.5
+  title: "Кондитер Парамешвара из Надии: «Я тот самый Парамешвара! Со мной пришла и мать Мукунды» — Господь рад простодушной любви"
+  summary: "С паломниками пришёл кондитер Парамешвара, сосед Шачи, у которого маленький Нимай пил молоко и ел сладости. Он поклонился: «Я тот самый Парамешвара!» — и Господь ласково приветствовал его; тот добавил: «Со всеми пришла и мать Мукунды». Санньяси не подобает слышать о женщинах, и Господь смутился, но из любви промолчал: простодушная любовь не знает формальностей и радует Господа."
+  persons: ["@mahaprabhu", "@parameshvara-modaka"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [mercy, family]
+  cc: "Антья 12"
+  event: ev-parameshvara-modaka
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "54", to: "60"}
+
+- id: cc-4119
+  source: cc
+  ref: "Антья 12.61–85"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 7
+  title: "Чатурмасья с бенгальцами; прощаясь, Господь говорит: «Я ваш должник — отдаю вам Своё тело, хоть продайте его»"
+  summary: "Как прежде, Господь убрал Гундичу и плясал на Ратха-ятре; Малини и другие жёны вайшнавов приглашали Его, бенгальцы угощали любимыми приправами; ночами Он плакал в разлуке с Кришной. Отпуская их, Господь сказал: ради Меня вы оставляете дома и терпите тяготы пути; Нитьянанда нарушил Мой запрет, Адвайта пришёл даровать Мне милость; Я нищий санньяси и не могу отплатить — отдаю вам Своё тело, хоть продайте его. Все плакали и ещё неделю не могли уйти; Адвайта и Нитьянанда сказали: Ты вновь связал всех верёвкой милостивых слов. Нитьянанде Господь сказал: не приходи так часто, ты общаешься со Мной и в Бенгалии."
+  persons: ["@mahaprabhu", "@malini", "@nityananda", "@advaita"]
+  places: ["#puri", "#gundicha"]
+  kind: lila
+  authority: A
+  themes: [separation, festival, mercy]
+  cc: "Антья 12"
+  event: ev-lord-debt-gauda-devotees
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "61", to: "85"}
+
+- id: cc-4120
+  source: cc
+  ref: "Антья 12.86–101"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 69
+  title: "Джагадананда в Навадвипе у Шачи передаёт прасад и слова Господа: «Я прихожу и ем твою пищу»; Шачи: «мне кажется, что это сон»"
+  summary: "За год до того Джагадананда по просьбе Господа пришёл к Шачи с одеждой и прасадом Джаганнатхи и поклонился от Его имени; днём и ночью она слушала о Нём. Он передал: Господь приходит и ест всё, что ты подносишь, и говорит: «мама накормила Меня досыта», — а ты считаешь это сном. Шачи ответила: мне и правда кажется, что Нимай съел всё, а потом думаю, что это сон. Джагадананда встретился с преданными Навадвипы, Адвайтой, Мурари и Васудевой, не отпускавшими его, и в нём все ощущали присутствие Самого Господа."
+  persons: ["@jagadananda-pandita", "@shachi", "@mahaprabhu", "@advaita", "@murari-gupta", "@vasudeva-datta"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: lila
+  authority: A
+  themes: [family, revelation, separation]
+  cc: "Антья 12"
+  event: ev-jagadananda-visits-shachi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "86", to: "101"}
+
+- id: cc-4121
+  source: cc
+  ref: "Антья 12.102–151"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: P14
+  order: 70
+  title: "Сосуд сандалового масла: Господь отказывается — «санньяси не нанимает массажиста», и Джагадананда в гневе разбивает сосуд; через три дня Господь приходит к нему обедать и съедает вдесятеро больше"
+  summary: "У Шивананды приготовили много ароматного сандалового масла от болезни питты и вайу, и Джагадананда принёс его в Пури, попросив Говинду натирать им голову Господа. Господь отказался: санньяси нельзя касаться масла с благовониями — отдайте его на лампады Джаганнатхе; на повторную просьбу Он сказал: нанять ли Мне ещё массажиста? люди решат, что Я дари-санньяси. Джагадананда ответил: кто сказал, что я принёс масло? — и разбил кувшин во дворе, ушёл и три дня лежал за запертой дверью. Господь пришёл: приготовь Мне сегодня обед. Джагадананда сварил рис шали с гхи и множество блюд; Господь хвалил: ты готовишь даже в гневе так вкусно, потому что Сам Кришна готовит твоими руками. Джагадананда всё подкладывал, и Господь, боясь, что тот продолжит поститься, съел вдесятеро больше обычного; уходя, Он оставил Говинду проследить, поел ли Джагадананда, и лишь тогда уснул; остатки Джагадананда раздал Рамаи, Нандаи, Говинде и Рагхунатхе Бхатте."
+  persons: ["@jagadananda-pandita", "@mahaprabhu", "@govinda-servant", "@shivananda-sena", "@ramai-puri", "@nandai", "@raghunatha-bhatta"]
+  places: ["#puri", "#kumarahatta"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, prasada, mercy]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 12"
+  event: ev-jagadananda-sandal-oil
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "102", to: "151"}
+
+- id: cc-4122
+  source: cc
+  ref: "Антья 12.152–155"
+  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  period: PX
+  order: 995.24
+  title: "Любовь Джагадананды — как у Сатьябхамы; «Према-виварта»; колофон Антья 12"
+  summary: "Любовь Господа и Джагадананды подобна любви Кришны и Сатьябхамы; кто слушает о ней или читает «Према-виварту» Джагадананды, поймёт чистую любовь и обретёт прему. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@jagadananda-pandita", "@satyabhama"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 12"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "152", to: "155"}
+
+- id: cc-4123
+  source: cc
+  ref: "Антья 13.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: PX
+  order: 995.25
+  title: "Мангалачарана Антья 13"
+  summary: "Предаюсь стопам Гаурачандры, Чьи ум и тело истощались в разлуке с Кришной и вновь расцветали в преме; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 13"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "1", to: "2"}
+
+- id: cc-4124
+  source: cc
+  ref: "Антья 13.3–20"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: P14
+  order: 71.5
+  title: "Постель для исхудавшего Господа: Господь отвергает подстилку Джагадананды с ватой шимулы, но принимает ложе из банановых волокон, сделанное Сварупой"
+  summary: "Исхудавшему от разлуки Господу больно было лежать на сухой банановой коре. Джагадананда сделал из красной ткани подстилку и подушку с ватой шимулы и попросил Сварупу уговорить Господа; Господь, увидев их, разгневался, а услышав имя Джагадананды, немного испугался, велел убрать и лёг на кору: может, Мне ещё и кровать принести? санньяси спит на полу. Сварупа нащипал ногтями тонких волокон сухих банановых листьев, набил ими две накидки Господа и с трудом уговорил Его принять это ложе; все обрадовались, лишь Джагадананда остался недоволен."
+  persons: ["@mahaprabhu", "@jagadananda-pandita", "@svarupa-damodara", "@govinda-servant"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [sannyasa, separation]
+  teaching: [sannyasa-teaching]
+  cc: "Антья 13"
+  event: ev-jagadananda-bed-banana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "3", to: "20"}
+
+- id: cc-4125
+  source: cc
+  ref: "Антья 13.21–77"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: P14
+  order: 72
+  title: "Джагадананда во Вриндаване: наставления Господа в пути, жизнь с Санатаной, гнев на шафрановую ткань Мукунды Сарасвати; плоды пилу для Господа"
+  summary: "Джагадананда долго просил отпустить его во Вриндаван; Господь думал, что тот уходит в обиде, но по просьбе Сварупы позволил и наставил: до Варанаси иди смело, дальше — с кшатриями, иначе бандиты схватят бенгальца; во Врадже будь всегда с Санатаной, почитай старших вайшнавов, но не сближайся и не подражай им, обойди двенадцать лесов, не задерживайся и не всходи на Говардхану к Гопале; скажи Санатане, что Я приду. В Варанаси он рассказал о Господе Тапане Мишре и Чандрашекхаре; с Санатаной обошёл двенадцать лесов и жил с ним в Гокуле. Когда Санатана пришёл к нему на обед, повязав голову шафрановой тканью санньяси Мукунды Сарасвати, Джагадананда, решив, что это дар Господа, а услышав правду, в гневе схватил горшок, чтобы ударить его: как ты, дорогой Господу, носишь ткань другого санньяси? Санатана сказал, что лишь хотел увидеть силу его веры и что вайшнаву не подобает шафран. Через два месяца, не в силах терпеть разлуку, Джагадананда вернулся с подарками Санатаны — песком с места раса, камнем с Говардханы, плодами пилу и гунджей; Санатана приготовил для Господа жилище у храма на холме Двадашадитья. Плоды пилу Господь раздал, и бенгальцы, жуя острые семена, обожгли языки."
+  persons: ["@jagadananda-pandita", "@mahaprabhu", "@svarupa-damodara", "@sanatana-gosvami", "@tapana-mishra", "@chandrashekhara-vaidya", "@mukunda-sarasvati"]
+  places: ["#puri", "#kashi", "#mathura", "#vrindavana", "#gokula", "#govardhana"]
+  kind: lila
+  authority: A
+  themes: [pilgrimage, teaching, prasada]
+  teaching: [vaishnava, sannyasa-teaching]
+  cc: "Антья 13"
+  event: ev-jagadananda-vrindavana-pilu
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "21", to: "77"}
+
+- id: cc-4126
+  source: cc
+  ref: "Антья 13.78–88"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: P14
+  order: 73
+  title: "Господь бежит сквозь колючки на пение «Гита-говинды» девадаси; Говинда удерживает Его: «Это поёт женщина!»"
+  summary: "По пути в храм Ямешвары Господь услышал, как девадаси Джаганнатхи поёт «Гита-говинду» Джаядевы на мелодию гурджари, и в опьянении, не думая, кто поёт, побежал к ней напрямик сквозь колючие кусты. Говинда догнал и обхватил Его: «Это поёт женщина!» — и Господь пришёл в Себя: ты спас Мне жизнь, касание женщины было бы для Меня смертью; не покидай Меня никогда. Говинда ответил: спас Тебя Джаганнатха. Узнав об этом, Сварупа и другие сильно испугались."
+  persons: ["@mahaprabhu", "@govinda-servant", "@jayadeva", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, sannyasa]
+  bhava: [radha]
+  cc: "Антья 13"
+  event: ev-devadasi-gita-govinda-song
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "78", to: "88"}
+
+- id: cc-4127
+  source: cc
+  ref: "Антья 13.89–117"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: P14
+  order: 74
+  title: "Рагхунатха Бхатта приходит к Господу с Рамадасом Вишвасом, который несёт его поклажу; Господь не милостив к гордому учёностью Рамадасу; через восемь месяцев отпускает Рагхунатху служить родителям, запретив жениться"
+  summary: "Сын Тапаны Мишры Рагхунатха пошёл из Варанаси к Господу через Бенгалию; в пути к нему присоединился царский казначей Рамадас Вишвас, каястха, знаток «Кавья-пракаши» и преданный Рамы, который нёс его поклажу и растирал ему стопы: служение брахману — мой долг. В Пури Господь обнял Рагхунатху, расспросил о Тапане и Чандрашекхаре, поселил его и представил Сварупе; восемь месяцев Рагхунатха готовил для Господа нектарные блюда и ел Его остатки. Рамадасу же, гордившемуся учёностью и жаждавшему освобождения, Господь милости не явил; тот остался учить «Кавья-пракаше» семью Паттанаяков. Отпуская Рагхунатху, Господь запретил ему жениться, велел служить старым родителям и изучать «Бхагавату» у вайшнава и надел на него Свои бусы; четыре года тот исполнял это."
+  persons: ["@raghunatha-bhatta", "@tapana-mishra", "@ramadasa-vishvasa", "@mahaprabhu", "@chandrashekhara-vaidya", "@govinda-servant", "@svarupa-damodara", "@bhavananda-raya"]
+  places: ["#kashi", "#gauda", "#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada, family]
+  cc: "Антья 13"
+  event: ev-raghunatha-bhatta-first-visit-puri
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "89", to: "117"}
+
+- id: cc-4128
+  source: cc
+  ref: "Антья 13.118–135"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: P14
+  order: 75
+  title: "После смерти родителей Рагхунатха Бхатта вновь у Господа; Господь посылает его во Вриндаван к Рупе и Санатане и дарит гирлянду туласи Джаганнатхи; его чтение «Бхагаваты» и служение Говинде"
+  summary: "Когда родители умерли, Рагхунатха вновь пришёл в Пури и провёл с Господом восемь месяцев; Господь велел ему жить во Вриндаване под руководством Рупы и Санатаны, повторять имя и читать «Бхагавату», обнял его и дал ему бетель и гирлянду туласи Джаганнатхи в четырнадцать локтей, которым тот поклонялся. Во Вриндаване он читал «Бхагавату» Рупе и Санатане на три-четыре мелодии, голосом слаще кукушки, и не мог продолжать от слёз и дрожи; он предался Говинде, велел ученикам построить Ему храм и сделал Ему флейту и серьги-макары; не слушал мирского и хулы на вайшнавов, а размышляя о Кришне, надевал гирлянду и прасад, данные Господом."
+  persons: ["@raghunatha-bhatta", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@govinda-deity", "@jagannatha-deity"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [mercy, teaching, deities]
+  teaching: [scripture, vaishnava]
+  cc: "Антья 13"
+  event: ev-raghunatha-bhatta-sent-vrindavana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "118", to: "135"}
+
+- id: cc-4129
+  source: cc
+  ref: "Антья 13.136–139"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  period: PX
+  order: 995.26
+  title: "Три истории Антья 13; колофон"
+  summary: "В главе — поход Джагадананды во Вриндаван, пение девадаси и милость Господа к Рагхунатхе Бхатте; кто слушает, получает прему. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  notes: "Ст. 137 в файле нет."
+  themes: [author]
+  cc: "Антья 13"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "136", to: "139"}
+
+- id: cc-4130
+  source: cc
+  ref: "Антья 14.1–4"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: PX
+  order: 995.27
+  title: "Мангалачарана Антья 14: о деяниях Господа в смятении разлуки"
+  summary: "Автор опишет, что совершал Господь телом, умом и разумом в смятении разлуки с Кришной; слава Чайтанье — Сваям Бхагавану, Нитьянанде, Адвайте, Сварупе, Шривасе и преданным: даруйте силу описать Его игры."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@svarupa-damodara", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 14"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "1", to: "4"}
+
+- id: cc-4131
+  source: cc
+  ref: "Антья 14.5–16"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100
+  title: "Божественное безумие (дивьонмада) Господа: как Радха при виде Уддхавы; источники — записи Сварупы и Рагхунатхи Даса"
+  summary: "Разлука с Кришной делала Господа безумным, и этих чувств не понять даже мудрецам; описать их может лишь наделённый Его силой. Эти игры записали в своих дневниках Сварупа (кратко) и Рагхунатха Дас (подробно) — лишь они жили тогда при Господе; по ним пишет автор. Как гопи скорбели, когда Кришна ушёл в Матхуру, и как Радха плакала при виде Уддхавы, так Господь переживал те же чувства и порой считал Себя Радхой; это состояние похоже на безумие, но рождено высшей любовью (удгхурна, читра-джалпа)."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@raghunatha-dasa", "@radha", "@uddhava", "@krishna"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [ecstasy, separation, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Уджвала-ниламани, 14.190"]
+  cc: "Антья 14"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "5", to: "16"}
+
+- id: cc-4132
+  source: cc
+  ref: "Антья 14.17–21"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.4
+  title: "Господь видит во сне Кришну, танцующего расу с Радхой: «Я обрёл Кришну во Вриндаване!» — и Говинда будит Его"
+  summary: "Господь увидел во сне Кришну, трижды изогнутого, с флейтой, в жёлтых одеждах и лесной гирлянде, чарующего даже Камадеву, в кругу гопи, танцующего с Радхой, и подумал в блаженстве: наконец Я обрёл Кришну во Вриндаване! Говинда разбудил Его, и Господь опечалился, поняв, что это был сон."
+  persons: ["@mahaprabhu", "@krishna", "@radha", "@govinda-servant"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [radha]
+  cc: "Антья 14"
+  event: ev-rasa-dream-separation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "17", to: "21"}
+
+- id: cc-4133
+  source: cc
+  ref: "Антья 14.22–30"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.45
+  title: "Орийская женщина, ставшая на плечо Господа у колонны Гаруды: «Джаганнатха не дал Мне такого стремления, как у неё»"
+  summary: "Господь, как обычно, созерцал Джаганнатху из-за колонны Гаруды; женщина-ория, не видя Божества в толпе, взобралась на колонну, поставив ногу на Его плечо. Говинда стал стаскивать её, но Господь упрекнул его: не мешай ей смотреть. Женщина в испуге спустилась и склонилась к Его стопам, а Господь сказал: Джаганнатха не дал Мне такого стремления, как у неё — она так поглощена Им, что не заметила, куда ступила; как она удачлива, Я молюсь её стопам."
+  persons: ["@mahaprabhu", "@govinda-servant", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  parallels: "ev-garuda-stambha-darshan (обычай Господа)"
+  themes: [jagannatha, mercy]
+  bhava: [devotee]
+  cc: "Антья 14"
+  event: ev-oriya-woman-garuda-pillar
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "22", to: "30"}
+
+- id: cc-4134
+  source: cc
+  ref: "Антья 14.31–56"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.46
+  title: "После сна Господь видит в храме Кришну на Курукшетре и горюет: «Кто похитил Моего Кришну?»; песнь об уме-йоге, ушедшем во Вриндаван; десять состояний разлуки"
+  summary: "Сначала Господь видел в Джаганнатхе лишь сына Нанды, а после сна — только Кришну с флейтой; встретив женщину, Он вернулся к внешнему сознанию и увидел Джаганнатху, Субхадру и Балараму — словно Кришну на Курукшетре: как Я покинул Вриндаван? Как потерявший драгоценность, Он вернулся домой, чертил ногтями по полу, плакал: Я обрёл Кришну и потерял — кто Его похитил? Ночью, обняв Рамананду и Сварупу, Он поведал: Мой ум, потеряв Кришну, стал йогом-капаликой, надел серьгу раса-лилы, взял чашу жажды и суму надежды, накидку беспокойства, браслеты скорби и тюрбан желания, сделал учениками чувства и ушёл во Вриндаван, кормясь остатками нектара, что пьют гопи, и медитируя в роще на Кришну. В Нём проявлялись десять состояний разлуки гопи; Рамананда читал шлоки, Сварупа пел, и Господь отчасти возвращался к внешнему сознанию."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@jagannatha-deity", "@subhadra", "@balarama", "@krishna", "@radha"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha, gopi]
+  scriptures: ["Уджвала-ниламани, 15.167"]
+  cc: "Антья 14"
+  event: ev-rasa-dream-separation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "31", to: "56"}
+
+- id: cc-4135
+  source: cc
+  ref: "Антья 14.57–82"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.5
+  title: "Господь, исчезнув из запертого дома, лежит у Львиных ворот: суставы разошлись, тело удлинилось; при пении имени Он встаёт: «Я видел Кришну, как молнию»"
+  summary: "Рамананда ушёл, Сварупа и Говинда легли у двери; Господь всю ночь громко пел имя, а затем затих. Открыв дверь, Сварупа не нашёл Его, хотя все три двери были заперты; Его нашли у северной стороны Львиных ворот: без дыхания, тело вытянулось почти до трёх метров, суставы разошлись, соединённые лишь кожей, глаза закатились, на губах пена. Преданные долго кричали Ему в уши имя Кришны; наконец Он с возгласом «Харибол!» вскочил, и тело приняло обычный облик. Дома, услышав о случившемся, Он сказал: Я ничего не помню, лишь видел Кришну — как молния, Он явился и исчез. Это описал Рагхунатха в «Чайтанья-става-калпаврикше»; автор верит рассказу Рагхунатхи, бывшего рядом с Господом, хотя таких изменений тела нет даже в шастрах."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@govinda-servant", "@ramananda-raya", "@raghunatha-dasa"]
+  places: ["#puri", "#house-kashi-mishra"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, revelation]
+  bhava: [radha]
+  scriptures: ["Чайтанья-става-калпаврикша, 4"]
+  cc: "Антья 14"
+  event: ev-limbs-elongated-separation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "57", to: "82"}
+
+- id: cc-4136
+  source: cc
+  ref: "Антья 14.83–120"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: P14
+  order: 100.6
+  title: "Чатака-парвата: Господь принимает дюну за Говардхану, бежит к ней и падает в экстазе; очнувшись: «Я видел, как Кришна с Радхой вошли в пещеру, а вы вернули Меня»"
+  summary: "По пути к морю Господь увидел песчаную дюну Чатака-парвату, принял её за Говардхану и, повторяя шлоку «Бхагаваты» о холме — лучшем слуге Хари, побежал быстрее ветра; за Ним — Говинда, Сварупа, Джагадананда, Гададхара, Рамаи, Нандаи, Шанкара, Брахмананда Бхарати, Парамананда Пури и даже хромой Бхагаван Ачарья. Вдруг Он застыл: волосы дыбом, как цветок кадамбы, кровь с потом, клокотание в горле, потоки слёз, бледность и дрожь — все восемь саттвика-бхав — и упал. Преданные долго пели имя и обливали Его водой; Он вскочил с «Харибол» и спросил Сварупу: кто унёс Меня с Говардханы? Я видел Кришну с флейтой среди коров, пришла Радха с подругами, они вошли в пещеру, а гопи попросили Меня собрать цветов — и тут вы вернули Меня. Пришедшим Парамананде Пури и Брахмананде Бхарати Он поклонился и смутился, когда те сказали, что пришли посмотреть на Его танец."
+  persons: ["@mahaprabhu", "@govinda-servant", "@svarupa-damodara", "@jagadananda-pandita", "@gadadhara-pandita", "@ramai-puri", "@nandai", "@shankara-pandita", "@brahmananda-bharati", "@paramananda-puri", "@bhagavan-acharya", "@krishna", "@radha", "@raghunatha-dasa"]
+  places: ["#chataka-parvata", "#puri", "#govardhana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha, gopi]
+  scriptures: ["Бхаг. 10.21.18", "Чайтанья-става-калпаврикша, 8"]
+  cc: "Антья 14"
+  event: ev-chataka-parvata-govardhana
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "83", to: "120"}
+
+- id: cc-4137
+  source: cc
+  ref: "Антья 14.121–123"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  period: PX
+  order: 995.28
+  title: "Колофон Антья 14"
+  summary: "Игры Златого Господа невозможно описать полностью; автор описал их кратко, чтобы читатель ощутил их природу. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 14"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "121", to: "123"}
+
+- id: cc-4138
+  source: cc
+  ref: "Антья 15.1–3"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  period: PX
+  order: 995.29
+  title: "Мангалачарана Антья 15"
+  summary: "Чтобы явить грани безбрежного океана любви к Кришне, Господь всецело погрузился в него; слава Чайтанье, Нитьянанде, Адвайте, Шривасе и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita", "@srivasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 15"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "1", to: "3"}
+
+- id: cc-4139
+  source: cc
+  ref: "Антья 15.4–6"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  period: P14
+  order: 99
+  title: "Три состояния Господа — полное погружение, полувнешнее и внешнее сознание; обязанности Он исполнял, как вращается гончарный круг"
+  summary: "Днём и ночью опьянённый любовью к Кришне, Господь забывал Себя и переходил из полного погружения в чувство к Кришне в полувнешнее и внешнее сознание; омовение, прасад и даршан Джаганнатхи Он исполнял по привычке, как вращается гончарный круг."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [ecstasy, teaching]
+  bhava: [radha]
+  teaching: [prema]
+  cc: "Антья 15"
+  event: ev-last-twelve-years-gambhira
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "4", to: "6"}
+
+- id: cc-4140
+  source: cc
+  ref: "Антья 15.7–27"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  period: P14
+  order: 99.8
+  title: "В храме Господь видит вместо Джаганнатхи Кришну: пять Его качеств тянут пять чувств в разные стороны; толкование шлоки «Говинда-лиламриты» о «лошади ума»"
+  summary: "На даршане Господь увидел вместо Джаганнатхи Самого сына Нанды; пять Его качеств — красота, голос, прикосновение, благоухание и вкус губ — повлекли пять чувств Господа в разные стороны, и Он лишился сознания; после упала-бхоги преданные унесли Его домой. Обняв Сварупу и Рамананду, Он произнёс шлоку Радхи к Вишакхе и объяснил: пять Моих чувств, как разбойники, оседлали лошадь ума и гонят её в пять сторон — она вот-вот умрёт; сердца женщин трёх миров — холмы, а красота Кришны — океан, затопивший их; что Мне делать, где найти Кришну? Сварупа пел, Рамананда читал «Кришна-карнамриту», Видьяпати и «Гита-говинду», и Господь утешался."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@jagannatha-deity", "@krishna", "@radha", "@vishakha"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, jagannatha, separation]
+  bhava: [radha]
+  scriptures: ["Говинда-лиламрита, 8.3"]
+  cc: "Антья 15"
+  event: ev-jagannatha-darshan-gopi-bhava
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "7", to: "27"}
+
+- id: cc-4141
+  source: cc
+  ref: "Антья 15.28–94"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  period: P14
+  order: 100.65
+  title: "Цветочный сад у моря Господь принимает за Вриндаван и, как гопи после исчезновения Кришны с расы, расспрашивает деревья, лианы и ланей; видит Кришну под кадамбой и падает; танец под «Гита-говинду»"
+  summary: "По пути к морю Господь принял цветочный сад за Вриндаван и, как гопи, искавшие Кришну, исчезнувшего с Радхой с расы, обращался к деревьям, туласи, малати и маллике с шлоками «Бхагаваты»: деревья — мужского рода, друзья Кришны, не скажут; лианы — подруги, но служанки Кришны и боятся; лани, оцепенев в разлуке, не слышат; склонённые деревья не отвечают. Наконец Он увидел Кришну с флейтой на берегу Ямуны под кадамбой и упал без чувств; Сварупа и преданные привели Его в сознание: где Кришна, Я только что видел Его! Он говорил шлоки Радхи к Вишакхе о Кришне — туче, у которой глаза-чатаки умирают от жажды, — а на шлоку Рамананды «ка стрй анга те» объяснил, как Кришна ловит гопи, как охотник ланей; Кришна по природе неугомонен и исчезает, пленив сердце. Сварупа пропел «Гита-говинду»: «здесь, на месте расы, вспоминаю Кришну», и Господь плясал во всех восьми саттвика- и тридцати трёх вьябхичари-бхавах, пока Сварупа не перестал петь из-за Его усталости; затем Рамананда обмахивал Его, и Его омыли и увели домой."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna", "@radha", "@vishakha"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  notes: "Ст. 35 в файле нет (после 34 сразу 36)."
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [radha, gopi]
+  scriptures: ["Бхаг. 10.30.9", "Бхаг. 10.30.7", "Бхаг. 10.30.8", "Бхаг. 10.30.11", "Бхаг. 10.30.12", "Говинда-лиламрита, 8.4", "Бхаг. 10.29.39", "Говинда-лиламрита, 8.7", "Бхаг. 10.29.48", "Гита-говинда, 2.3"]
+  cc: "Антья 15"
+  event: ev-flower-garden-vrindavana-search
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "28", to: "94"}
+
+- id: cc-4142
+  source: cc
+  ref: "Антья 15.95–99"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  period: PX
+  order: 995.3
+  title: "Шлока Рупы о Господе в саду у моря («Чайтанья-аштака», 6); колофон Антья 15"
+  summary: "Рупа описал, как Господь, лучший знаток любви, принимал сад у моря за Вриндаван и плясал, восклицая «Кришна!». Игры Господа бесконечны. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@rupa-gosvami", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Става-мала, Чайтанья-аштака, 6"]
+  cc: "Антья 15"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "95", to: "99"}
+
+- id: cc-4143
+  source: cc
+  ref: "Антья 16.1–3"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: PX
+  order: 995.31
+  title: "Мангалачарана Антья 16"
+  summary: "Поклон Чайтанье, Который Сам вкушал нектар любви к Кришне и давал вкусить его преданным; слава Чайтанье, Нитьянанде, Адвайте и преданным. Господь жил в Нилачале, всегда охваченный премой."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 16"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "1", to: "3"}
+
+- id: cc-4144
+  source: cc
+  ref: "Антья 16.4–38"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: P14
+  order: 69.5
+  title: "Калидас, дядя Рагхунатхи, тайно вкушает остатки всех вайшнавов Бенгалии; у Джхаду Тхакура из касты бхуинмали он облизывает выброшенные манговые косточки"
+  summary: "С бенгальцами пришёл Калидас, дядя Рагхунатхи Даса, который даже играя в кости повторял «Харе Кришна» и всю жизнь вкушал остатки пищи вайшнавов Бенгалии — брахманов и шудр: приносил дары, просил их посуду, а если не давали, тайно подбирал выброшенное. Он принёс манго Джхаду Тхакуру из касты бхуинмали, поклонился ему и его жене и просил поставить стопу ему на голову; тот смиренно отказывался, и Калидас привёл шлоки: преданный, даже из собакоедов, выше небхакты-брахмана. Проводив его, Джхаду вернулся; Калидас натёрся пылью его следов, спрятался, а когда жена Джхаду выбросила в яму для отбросов обёртки и косточки манго, которые Джхаду мысленно поднёс Кришне и высосал, Калидас облизал их в экстазе премы."
+  persons: ["@kalidasa", "@raghunatha-dasa", "@jhadu-thakura"]
+  places: ["#gauda"]
+  kind: lila
+  authority: A
+  themes: [prasada, mercy]
+  teaching: [vaishnava, prasada-teaching]
+  scriptures: ["Итихаса-самуччая", "Бхаг. 7.9.10", "Бхаг. 3.33.7"]
+  cc: "Антья 16"
+  event: ev-kalidasa-foot-water
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "4", to: "38"}
+
+- id: cc-4145
+  source: cc
+  ref: "Антья 16.39–64"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: P14
+  order: 70
+  title: "Калидас пьёт воду со стоп Господа у Львиных ворот и получает Его остатки; поклон Нрисимхе у двадцати двух ступеней; слава маха-маха-прасада"
+  summary: "Господь омывал стопы в яме к северу от Львиных ворот под двадцатью двумя ступенями и велел Говинде никому не давать эту воду; Калидас подставил ладони и выпил три пригоршни, и Господь остановил его: Я исполнил твоё желание, — оказав ему за веру в вайшнавов милость, недоступную другим. Наверху ступеней Господь каждый день кланялся Нрисимхе со шлоками «Нрисимха-пураны»; вернувшись после даршана, Он знаком велел Говинде отдать ожидавшему у ворот Калидасу Свои остатки. Остатки Кришны — маха-прасад, остатки преданного — маха-маха-прасад; пыль со стоп преданного, вода с его стоп и его остатки — три силы садханы, дающие прему; свидетель тому — Калидас."
+  persons: ["@kalidasa", "@mahaprabhu", "@govinda-servant", "@nrisimha", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, prasada, deities]
+  teaching: [prasada-teaching, vaishnava]
+  scriptures: ["Нрисимха-пурана"]
+  cc: "Антья 16"
+  event: ev-kalidasa-foot-water
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "39", to: "64"}
+
+- id: cc-4146
+  source: cc
+  ref: "Антья 16.65–77"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: P14
+  order: 15.1
+  title: "Семилетний Пури Дас не произносит имя Кришны, храня мантру; на другой день сочиняет шлоку «шраваса кувалайам»"
+  summary: "Шивананда привёл младшего сына Пури Даса и велел ему поклониться; Господь снова и снова просил: скажи «Кришна!», но мальчик молчал. Господь сказал: Я заставил весь мир, даже деревья и камни, произносить имя, а его не смог; Сварупа ответил: Ты дал ему мантру имени, и он повторяет её про себя, не открывая никому. На следующий день на слова «Пури Дас, читай!» семилетний неучёный ребёнок сочинил шлоку: слава Хари — голубому лотосу в ушах, сурьме глаз и сапфировому ожерелью девушек Враджа; все изумились силе милости Господа."
+  persons: ["@kavi-karnapura", "@shivananda-sena", "@mahaprabhu", "@svarupa-damodara"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [mercy, krishna-lila]
+  teaching: [holy-name]
+  scriptures: ["Арья-шатака, 1"]
+  cc: "Антья 16"
+  event: ev-karnapura-child-mercy
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "65", to: "77"}
+
+- id: cc-4147
+  source: cc
+  ref: "Антья 16.78–87"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: P14
+  order: 100.7
+  title: "«Где Кришна, владыка Моей жизни? Покажи Мне Его!» — Господь берёт за руку привратника у Львиных ворот, и тот ведёт Его к Пурушоттаме"
+  summary: "Когда бенгальцы ушли, Господь вновь всецело погрузился в безумие: облик, благоухание и вкус губ Кришны представали перед Ним, как наяву. У Львиных ворот Он схватил за руку поклонившегося привратника: где Кришна, владыка Моей жизни? покажи Мне Его! Тот ответил: сын царя Враджа здесь, пойдём — и повёл Его в джагамохану: вот Шри Пурушоттама, смотри сколько пожелаешь. Позади колонны Гаруды Господь увидел в Джаганнатхе Кришну с флейтой. Это описал Рагхунатха в «Чайтанья-става-калпаврикше»."
+  persons: ["@mahaprabhu", "@jagannatha-deity", "@raghunatha-dasa", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, jagannatha]
+  bhava: [radha]
+  scriptures: ["Чайтанья-става-калпаврикша, 7"]
+  cc: "Антья 16"
+  event: ev-doorkeeper-show-me-krishna
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "78", to: "87"}
+
+- id: cc-4148
+  source: cc
+  ref: "Антья 16.88–150"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: P14
+  order: 100.75
+  title: "Прасад «гопала-валлабха» со вкусом нектара уст Кришны: «частица фелы, обретаемая благодаря сукрити»; ночью Господь толкует шлоки о нектаре губ Кришны и о флейте"
+  summary: "После утреннего подношения «гопала-валлабха» служители дали Господу прасад; отведав, Он изумился вкусу, превосходящему миллионы нектаров, — волосы встали дыбом, полились слёзы: в него проник нектар уст Кришны; сдерживаясь при служителе, Он повторял: «частица остатков, достижимая благодаря сукрити» — остатки Кришны (фелу) не обретают даже боги, лишь тот, на кого излилась Его милость. Вечером Он раздал этот прасад Парамананде Пури, Брахмананде Бхарати, Рамананде, Сварупе, Сарвабхауме и всем: продукты материальны, но вкус неземной — их коснулись губы Кришны. На шлоки «Бхагаваты» о нектаре губ и «Говинда-лиламриты» Господь в бреду толковал «нрав губ» Кришны: они дарят забвение всех вкусов и чувствующими делают даже сухую флейту, а флейта — дерзкий мужчина — пьёт богатство гопи и уводит их на посмешище; затем гнев сменился томлением; на шлоку «гопьях кимачарад айам» Он спрашивал, какую аскезу совершила флейта, если ей достаётся то, чего жаждут гопи, а реки и деревья ликуют, как родичи вайшнава. Так Он то плясал, то пел, то лишался чувств."
+  persons: ["@mahaprabhu", "@govinda-servant", "@paramananda-puri", "@brahmananda-bharati", "@ramananda-raya", "@sarvabhauma", "@svarupa-damodara", "@krishna", "@radha", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, prasada, krishna-lila]
+  bhava: [radha, gopi]
+  teaching: [prasada-teaching, prema]
+  scriptures: ["Бхаг. 10.31.14", "Говинда-лиламрита, 8.8", "Бхаг. 10.21.9"]
+  cc: "Антья 16"
+  event: ev-krishna-adharamrita-phela
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "88", to: "150"}
+
+- id: cc-4149
+  source: cc
+  ref: "Антья 16.151"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  period: PX
+  order: 995.32
+  title: "Колофон Антья 16"
+  summary: "Возложив на голову стопы Сварупы, Рупы, Санатаны и Рагхунатхи, Кришнадас поёт «Чайтанья-чаритамриту»."
+  persons: ["@krishnadasa-kaviraja", "@svarupa-damodara", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 16"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "151", to: "151"}
+
+- id: cc-4150
+  source: cc
+  ref: "Антья 17.1–2"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  period: PX
+  order: 995.33
+  title: "Мангалачарана Антья 17: со слов очевидцев"
+  summary: "Автор описывает удивительные деяния Гаурачандры в божественном безумии, услышав о них от очевидцев; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 17"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "1", to: "2"}
+
+- id: cc-4151
+  source: cc
+  ref: "Антья 17.3–30"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  period: P14
+  order: 100.8
+  title: "Услышав флейту Кришны, Господь из запертой Гамбхиры оказывается среди телингских коров у Львиных ворот, сжавшись, как черепаха; очнувшись: «Я был во Вриндаване и слышал Кришну с гопи»"
+  summary: "До полуночи Сварупа пел, а Рамананда читал Видьяпати, Чандидаса и «Гита-говинду»; затем они уложили Господа и ушли, а Говинда лёг у двери Гамбхиры. Ночью Господь услышал флейту Кришны и, хотя три двери были заперты, оказался снаружи и упал без чувств среди телингских коров к югу от Львиных ворот. Искавшие с факелами Сварупа и преданные нашли Его там: руки и ноги втянулись в тело, как у черепахи, пена у рта, волосы дыбом, слёзы; внешне недвижим, внутри в блаженстве; коровы не отходили от Него. Дома после долгого пения имени Он очнулся, и тело приняло прежний облик: куда ты Меня принёс? Я пошёл на звук флейты во Вриндаван, видел, как Радха и Кришна шли в беседку, слышал звон Его украшений и шутки с гопи — а вы силой притащили Меня; Мои уши умирают от жажды, прочитай что-нибудь."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@govinda-servant", "@krishna", "@radha"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila, revelation]
+  bhava: [radha, gopi]
+  cc: "Антья 17"
+  event: ev-kurma-form-telinga-cows
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "3", to: "30"}
+
+- id: cc-4152
+  source: cc
+  ref: "Антья 17.31–62"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  period: P14
+  order: 100.81
+  title: "Толкования Господа: «какая женщина в трёх мирах не сойдёт с пути от Твоей флейты?»; четыре нектарных звука Кришны; шлока «Кришна-карнамриты» «ким иха кринумах» — смешение чувств Радхи"
+  summary: "На шлоку «Бхагаваты», прочитанную Сварупой, Господь в настроении гопи на расе упрекал Кришну: флейта, как колдунья-посредница, сводит женщин с пути, а Ты учишь их долгу — на словах одно, на уме другое. Затем со шлокой «Говинда-лиламриты» Он вкушал четыре нектара звука Кришны — голос, звон украшений, речи и флейту: кто их не слышит, у того уши не дороже дырявой каури. Наконец в Нём смешались тревога, уныние, решимость (вспомнились слова Пингалы: оставь надежду), страх и нетерпение — как в шлоке Радхи из «Кришна-карнамриты»: Я хочу забыть Его, но Он лежит в Моём сердце. «О Кришна, сокровище Моей жизни, куда Мне идти?» — Он побежал, но Сварупа обнял Его и усадил; придя в Себя, Он попросил песен Видьяпати и «Гита-говинды» и успокоился."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@radha", "@krishna", "@bilvamangala"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [radha, gopi]
+  scriptures: ["Бхаг. 10.29.40", "Говинда-лиламрита, 8.5", "Кришна-карнамрита, 42"]
+  cc: "Антья 17"
+  event: ev-kurma-form-telinga-cows
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "31", to: "62"}
+
+- id: cc-4153
+  source: cc
+  ref: "Антья 17.63–73"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  period: PX
+  order: 995.34
+  title: "Проявления премы за один день не описал бы и Ананта; щедрость Чайтаньи; шлока Рагхунатхи о «черепахе»; колофон Антья 17"
+  summary: "Даже Ананта не описал бы проявлений премы Господа за один день — автор лишь указывает на луну сквозь ветви. Господь Сам вкусил сладость сокровенной премы и показал её предел; нет столь щедрого дарителя — поклоняйтесь Его стопам. Рагхунатха описал, как Господь, не открыв дверей, преодолел три стены и упал среди калингских коров, сжавшись, как черепаха. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@raghunatha-dasa"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Чайтанья-става-калпаврикша, 5"]
+  cc: "Антья 17"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "63", to: "73"}
+
+- id: cc-4154
+  source: cc
+  ref: "Антья 18.1–2"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  period: PX
+  order: 995.35
+  title: "Мангалачарана Антья 18: сын Шачи, принявший океан за Ямуну"
+  summary: "Увидев океан в свете осенней луны, сын Шачи принял его за Ямуну, погрузился в него, как в океан разлуки с Хари, и всю ночь пробыл в водах без чувств, а утром спутники нашли Его; да защитит Он нас. Слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 18"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "1", to: "2"}
+
+- id: cc-4155
+  source: cc
+  ref: "Антья 18.3–23"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  period: P14
+  order: 101.1
+  title: "Осенние лунные ночи: Господь бродит по садам, изображая раса-лилу и толкуя её шлоки; о непостижимости премы — Кришна принимает настроение преданного, чтобы её вкусить"
+  summary: "Осенней лунной ночью Господь со спутниками бродил из сада в сад, созерцая игры Кришны, пел, плясал, изображал раса-лилу, падал и катался по земле и толковал все шлоки о расе. Все двенадцать лет каждое мгновение было полно таких игр, но их не описать даже Ананте тысячью уст и Ганеше за миллионы юг; любви преданного не постигает до конца и Сам Кришна, поэтому Он принимает настроение преданного, чтобы её вкусить; према заставляет плясать и Кришну, и преданного, и пляшет сама. Знают её лишь Сварупа и близкие спутники; автор касается её капли, чтобы очиститься."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@krishna"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila, teaching]
+  bhava: [radha, gopi]
+  teaching: [prema, gaura-tattva]
+  cc: "Антья 18"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "3", to: "23"}
+
+- id: cc-4156
+  source: cc
+  ref: "Антья 18.24–75"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  period: P14
+  order: 101.2
+  title: "Падение в океан: приняв море у Айтоты за Ямуну, Господь бросается в него, волны уносят Его к Конарку; рыбак вытаскивает Его сетью, принимает за духа и сходит с ума от премы; Сварупа «изгоняет духа» и находит Господа"
+  summary: "Прочитав шлоку о водных играх Кришны с гопи в Ямуне, Господь увидел у Айтоты сверкающее в лунном свете море, принял его за Ямуну и незаметно бросился в него; без чувств, как сухое полено, волны несли Его к Конарку, а Он был погружён в водные игры Кришны. Спутники всю ночь искали Его у храма, у Гундичи, у Нарендры, у Чатака-парваты и решили, что Он сокрылся. На рассвете Сварупа встретил рыбака, который смеялся, плакал и пел «Хари»: в сеть попал мертвец длиной в пять-семь локтей с разошедшимися суставами, коснувшись его, я одержим духом, и даже имя Нрисимхи не помогает. Сварупа, назвавшись знахарем, прочитал мантру и трижды шлёпнул его по голове: дух убежал; это не дух, а Сам Бхагаван Шри Кришна Чайтанья, и от прикосновения к Нему в тебе пробудилась према. Рыбак привёл их; Господь лежал вытянувшийся, побелевший от воды, в песке. Преданные переодели Его и пели имя в уши, пока Он с возгласом не поднялся и кости не встали на место."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@krishna", "@nrisimha"]
+  places: ["#puri", "#aitota", "#konark", "#gundicha", "#narendra-sarovara", "#chataka-parvata"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, mercy, krishna-lila]
+  bhava: [radha, gopi]
+  scriptures: ["Бхаг. 10.33.22", "Абхигьяна-шакунтала, 4"]
+  cc: "Антья 18"
+  event: ev-fall-into-ocean-fisherman
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "24", to: "75"}
+
+- id: cc-4157
+  source: cc
+  ref: "Антья 18.76–120"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  period: P14
+  order: 101.25
+  title: "В полувнешнем сознании Господь описывает водные игры Кришны с Радхой и гопи в Ямуне и лесную трапезу; «зачем вы принесли Меня сюда?»"
+  summary: "Господь всегда пребывал во внутреннем, внешнем или полувнешнем состоянии; в полувнешнем Он говорил, словно к небу: увидев Калинди, Я пошёл во Вриндаван и с подругами смотрел с берега на водные игры Кришны, Радхи и гопи — битву брызгами, руками, лицами и грудью, тысячу рук и уст Кришны, Радху, держащуюся за Его шею, как лотос, сорванный слоном; гопи прячутся среди золотых лотосов, синие лотосы бьются с золотыми, лотосы и кувшинки — из-за чакравак (поэтические украшения «преувеличение» и «противоречие»). Затем — умащение, наряды от Вринды, лесная трапеза из плодов Вриндавана и сладостей Радхи и отдых в драгоценном чертоге — а вы прервали Моё счастье. Придя в Себя, Он услышал от Сварупы о падении в море и рыбаке и сказал: Я во сне видел расу, водные игры и трапезу — и, видно, говорил бессвязно. Сварупа омыл Его и привёл домой."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@krishna", "@radha", "@vrinda-devi"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, krishna-lila]
+  bhava: [radha, gopi]
+  teaching: [prema]
+  cc: "Антья 18"
+  event: ev-fall-into-ocean-fisherman
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "76", to: "120"}
+
+- id: cc-4158
+  source: cc
+  ref: "Антья 18.121"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  period: PX
+  order: 995.36
+  title: "Колофон Антья 18"
+  summary: "Кто слушает о падении Господа в океан, обретает прибежище у Его стоп. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 18"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "121", to: "121"}
+
+- id: cc-4159
+  source: cc
+  ref: "Антья 19.1–3"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: PX
+  order: 995.37
+  title: "Мангалачарана Антья 19: Господь — венец преданных матери; трение лица о стены и игры в весеннем саду"
+  summary: "Поклон Чайтанье, венцу всех, кто предан матери, Который в безумии тёр лицо о стены и играл в весеннем саду; слава Чайтанье, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 19"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "1", to: "3"}
+
+- id: cc-4160
+  source: cc
+  ref: "Антья 19.4–16"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: P14
+  order: 120
+  title: "Каждый год Господь посылает Джагадананду в Надию к Шачи с поклонами, прасадом и одеждой Джаганнатхи: «Я в твоей власти — Я твой сын»"
+  summary: "Господь ежегодно посылал Джагадананду в Надию утешить мать: передай Мои поклоны, скажи — Я каждый день прихожу и кланяюсь твоим стопам, ем всё, что ты подносишь; Я оставил служение тебе и принял санньясу, не держи обиды — Я в твоей власти; Я живу в Нилачале по твоему велению. По совету Парамананды Пури Господь посылал ей одежды Джаганнатхи с праздника пастушеских игр и лучший прасад; даже санньяси, Он служил матери. Джагадананда передал всё Шачи, раздал прасад Адвайте и преданным и через месяц собрался обратно."
+  persons: ["@mahaprabhu", "@jagadananda-pandita", "@shachi", "@paramananda-puri", "@advaita"]
+  places: ["#puri", "#navadvipa"]
+  kind: lila
+  authority: A
+  themes: [family, prasada, separation]
+  cc: "Антья 19"
+  event: ev-jagadananda-visits-shachi
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "4", to: "16"}
+
+- id: cc-4161
+  source: cc
+  ref: "Антья 19.17–30"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: P14
+  order: 95
+  title: "Загадка (тарджа) Адвайты: «Скажи безумцу: на рынке больше не продают рис…»; Господь: «Таково его повеление» — и разлука Господа удваивается"
+  summary: "Адвайта, говоривший загадками, понятными лишь Господу, передал через Джагадананду: скажи безумцу, что все люди обезумели, что на рынке больше не продают рис, что безумный больше не занят мирскими делами, — это сказал безумец. Господь, слегка улыбнувшись, сказал: «Таково его повеление» — и умолк. Сварупа, понимая смысл, всё же спросил; Господь ответил: Ачарья — знаток агам: для поклонения он призывает Божество, а по завершении отпускает Его; смысла загадки Я не знаю. Преданные изумились, Сварупа опечалился, а разлука Господа с того дня стала вдвое сильнее."
+  persons: ["@advaita", "@jagadananda-pandita", "@mahaprabhu", "@svarupa-damodara"]
+  places: ["#shantipura", "#puri"]
+  kind: lila
+  authority: A
+  themes: [departure, separation, teaching]
+  cc: "Антья 19"
+  event: ev-advaita-tarja
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "17", to: "30"}
+
+- id: cc-4162
+  source: cc
+  ref: "Антья 19.31–54"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: P14
+  order: 100.85
+  title: "Удгхурна: Господь, как Радха, переживает уход Кришны в Матхуру — «Где Кришна, луна рода Нанды?»; упрёки Творцу и Кришне"
+  summary: "Охваченный чувствами Радхи, Господь вдруг пережил уход Кришны в Матхуру (удгхурна); обняв Рамананду и считая Сварупу подругой, Он произнёс шлоку «Лалита-мадхавы» и толковал её: где луна рода Нанды с павлиньими перьями и флейтой, сапфирового сияния, танцующий расу, лекарство Моей жизни? Тело Его, раз попав в сердце, не выходит, как колючка сеякулы. Затем со шлокой «Бхагаваты» Он упрекал Творца: ты соединяешь любящих и разлучаешь их, как ребёнок; это ты в облике Акруры похитил Кришну; нет — это Мои деяния и жестокость Кришны, покорного Моей любви. «О Говинда, Дамодара, Мадхава!» — пока Сварупа и Рамананда не вернули Его во внешнее сознание песнями."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@svarupa-damodara", "@radha", "@vishakha", "@krishna", "@brahma"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation, krishna-lila]
+  bhava: [radha]
+  scriptures: ["Лалита-мадхава, 3.25", "Бхаг. 10.39.19"]
+  cc: "Антья 19"
+  event: ev-gambhira-divine-madness
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "31", to: "54"}
+
+- id: cc-4163
+  source: cc
+  ref: "Антья 19.55–77"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: P14
+  order: 100.9
+  title: "Господь, ища выхода из Гамбхиры, трёт лицо о стены до крови; Шанкара Пандит становится «подушкой для стоп Господа»"
+  summary: "Уложенный в Гамбхире, Господь не спал, воспевал имя и в тревоге разлуки тёр лицо о стены, издавая звуки «го-го»; Сварупа и Говинда со светильником увидели Его в ссадинах и крови. Он сказал: Я искал дверь, чтобы выйти, и не нашёл. Преданные упросили Господа, чтобы рядом с Ним спал Шанкара Пандит; Господь клал на него ноги, и его прозвали «подушкой для стоп Господа», как Видуру; Шанкара растирал Ему стопы, засыпал, а Господь укрывал его Своим одеялом; боясь его потревожить, Господь не мог ни выйти, ни тереть лицо о стены. Это описал Рагхунатха в «Чайтанья-става-калпаврикше»."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@govinda-servant", "@ramananda-raya", "@shankara-pandita", "@raghunatha-dasa"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  scriptures: ["Бхаг. 3.13.5", "Чайтанья-става-калпаврикша, 6"]
+  cc: "Антья 19"
+  event: ev-face-rubbing-gambhira
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "55", to: "77"}
+
+- id: cc-4164
+  source: cc
+  ref: "Антья 19.78–102"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: P14
+  order: 100.95
+  title: "Полнолуние вайшакхи в саду Джаганнатха-валлабха: Господь видит Кришну под ашокой, Тот исчезает; толкование шлоки о благоухании тела Кришны"
+  summary: "В полнолуние вайшакхи Господь с преданными вошёл в сад Джаганнатха-валлабха, цветущий, как Вриндаван, в весеннем лунном свете, велел петь «Лалита-лаванга-лату» и плясал. Под деревом ашока Он увидел Кришну и бросился к Нему, но Кришна улыбнулся и исчез; Господь упал без чувств, а сад наполнился благоуханием Кришны. Со шлокой «Говинда-лиламриты» Он толковал: аромат тела Кришны превосходит мускус и лотос, исходит от восьми лотосов Его тела, похищает умы женщин; Мадана-мохан открыл лавку благоуханий, раздаёт их даром и ослепляет покупательниц. Как шмель, Он бегал от дерева к дереву, находя лишь аромат; Сварупа и Рамананда пели до утра и вернули Его в сознание; Он омылся и пошёл к Джаганнатхе. В главе — четыре игры: преданность матери, бессвязные речи, трение лица и танец в аромате Кришны."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@krishna", "@radha"]
+  places: ["#jagannatha-vallabha", "#puri"]
+  kind: lila
+  authority: A
+  calendar: "вайшакха, пурнима"
+  themes: [ecstasy, krishna-lila, festival]
+  bhava: [radha]
+  scriptures: ["Говинда-лиламрита, 8.6"]
+  cc: "Антья 19"
+  event: ev-krishna-ashoka-spring-garden
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "78", to: "102"}
+
+- id: cc-4165
+  source: cc
+  ref: "Антья 19.103–112"
+  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  period: PX
+  order: 995.38
+  title: "Поступки охваченного премой не постигнуть логикой — слушайте с верой (Бхрамара-гита, песни цариц Двараки); колофон Антья 19"
+  summary: "Игры Кришны неземны и недоступны рассуждению; даже учёные не понимают поведения того, в ком пробудилась такая любовь; свидетельство — бессвязные речи Радхи в «Бхрамара-гите» и песни цариц Двараки в «Бхагавате». Поверит лишь благословлённый Господом и Нитьянандой или Их слугами; слушайте с верой. Колофон: Кришнадас у стоп Рупы и Рагхунатхи."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@radha"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  scriptures: ["Бхакти-расамрита-синдху, 1.4.17"]
+  cc: "Антья 19"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "103", to: "112"}
+
+- id: cc-4166
+  source: cc
+  ref: "Антья 20.1–2"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: PX
+  order: 995.39
+  title: "Мангалачарана Антья 20"
+  summary: "Вкусить слова Господа, произнесённые в безумии любви к Кришне и полные ликования, ревности, тревоги, смирения и скорби, могут лишь самые удачливые; слава Гаурачандре, Нитьянанде, Адвайте и преданным."
+  persons: ["@krishnadasa-kaviraja", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 20"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "1", to: "2"}
+
+- id: cc-4167
+  source: cc
+  ref: "Антья 20.3–7"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: P14
+  order: 109
+  title: "Ночи напролёт с Сварупой и Раманандой Господь в противоречивых чувствах вкушает шлоки, в том числе Свои собственные"
+  summary: "Днём и ночью страдая в разлуке, Господь с двумя друзьями — Сварупой и Раманандой — вкушал шлоки и песни о любви к Кришне; в Нём сменялись ликование и скорбь, гнев и смирение, тревога и томление; в трансе Он произносил Свои шлоки и всю ночь вкушал их смысл."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, separation]
+  bhava: [radha]
+  cc: "Антья 20"
+  event: ev-last-twelve-years-gambhira
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "3", to: "7"}
+
+- id: cc-4168
+  source: cc
+  ref: "Антья 20.8–37"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: P14
+  order: 110
+  title: "Шикшаштака 1–6: санкиртана — высший путь века Кали; бесчисленные имена без правил о времени и месте; «тринад апи суничена»; «на дханам»; «Я Твой вечный слуга»; «когда потекут слёзы при имени?»"
+  summary: "В ликовании Господь сказал Сварупе и Рамананде: в Кали высший путь — нама-санкиртана, разумные поклоняются ею Золотому Господу (Бхаг. 11.5.32); имя очищает зеркало сердца, гасит пожар самсары и даёт вкусить океан премы. В скорби и смирении: у Тебя много имён, Ты вложил в них всю Свою силу и не поставил правил времени и места, но Я так несчастлив, что нет влечения к ним. Как воспевать имя, чтобы обрести прему: смиреннее травинки, терпеливее дерева, которое не просит воды, засыхая, и всё отдаёт, почитая всех и не ища почёта. В ещё большем смирении: не желаю богатства, последователей и красивых женщин — лишь беспримесной бхакти из жизни в жизнь; Я Твой вечный слуга, павший в океан рождений, — прими Меня пылинкой у Своих стоп; когда при Твоём имени потекут слёзы, прервётся голос и затрепещет тело? Без премы жизнь бедна — плати Мне этим богатством. Природа премы такова, что обладающий ею чувствует, что лишён её."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy, kirtan]
+  bhava: [devotee]
+  teaching: [holy-name, yuga-dharma, prema, vaishnava]
+  scriptures: ["Бхаг. 11.5.32", "Шикшаштака, 1", "Шикшаштака, 2", "Шикшаштака, 3", "Шикшаштака, 4", "Шикшаштака, 5", "Шикшаштака, 6"]
+  cc: "Антья 20"
+  event: ev-shikshashtaka-recitation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "8", to: "37"}
+
+- id: cc-4169
+  source: cc
+  ref: "Антья 20.38–60"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: P14
+  order: 110.1
+  title: "Шикшаштака 7–8 в бхаве Радхи: «юга — как мгновение в разлуке с Говиндой»; «пусть обнимет или разобьёт сердце — Он Владыка Моей жизни»; служение счастью Кришны"
+  summary: "В разлуке Господь сказал: без Говинды мгновение — как юга, слёзы — как ливень, три мира пусты; Кришна испытывает Меня равнодушием, а подруги советуют забыть Его. В Нём проявились ревность, тревога, смирение, рвение и мольба, свойственные Радхе, и Он, принимая Её облик, произнёс Её слова: Я служанка у Его стоп — пусть Он обнимет Меня или разобьёт сердце, будет со Мной или на Моих глазах с другими, Он навсегда Владыка Моей жизни. Моя цель — лишь Его счастье: если Ему радостно Моё страдание, это Моё счастье; Я приведу к Нему другую, если Он хочет, и буду служить ей; такова верная жена, служившая ради мужа даже блуднице; Кришна зовёт Меня Госпожой сердца, но Я считаю Себя Его служанкой — служение слаще встречи, как у Лакшми у стоп Нараяны."
+  persons: ["@mahaprabhu", "@radha", "@krishna", "@lakshmi", "@narayana"]
+  places: ["#puri"]
+  kind: teaching
+  authority: A
+  themes: [teaching, ecstasy, separation]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Шикшаштака, 7", "Шикшаштака, 8"]
+  cc: "Антья 20"
+  event: ev-shikshashtaka-recitation
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "38", to: "60"}
+
+- id: cc-4170
+  source: cc
+  ref: "Антья 20.61–70"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: P14
+  order: 109.5
+  title: "Восемь шлок Шикшаштаки — наставление миру; двенадцать лет Господь вкушает «Бхагавату», «Гита-говинду», «Джаганнатха-валлабху» и «Кришна-карнамриту» с Сварупой и Раманандой"
+  summary: "Чистая вриндаванская любовь подобна золоту реки Джамбу — в ней нет стремления к своему счастью; чтобы явить её, Господь сложил эти восемь шлок для наставления людей и Сам вкушал их смысл; у читающих и слушающих их бхакти растёт день ото дня. Господь глубже миллионов океанов, но при восходе луны премы Его серьёзность исчезает. Двенадцать лет с Сварупой и Раманандой Он вкушал «Бхагавату», «Гита-говинду», драму Рамананды «Джаганнатха-валлабха» и «Кришна-карнамриту»; этих игр не описать и Ананте."
+  persons: ["@mahaprabhu", "@svarupa-damodara", "@ramananda-raya", "@jayadeva", "@bilvamangala"]
+  places: ["#puri"]
+  kind: lila
+  authority: A
+  themes: [ecstasy, teaching]
+  bhava: [radha]
+  teaching: [prema, scripture]
+  cc: "Антья 20"
+  event: ev-last-twelve-years-gambhira
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "61", to: "70"}
+
+- id: cc-4171
+  source: cc
+  ref: "Антья 20.71–101"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: PX
+  order: 995.4
+  title: "Автор о своём труде: Вриндаван Дас — Вьяса игр Чайтаньи, автор лишь пьёт остатки из его кувшина; старость и немощь; книгу велел написать Мадана-гопала"
+  summary: "Игры Господа бесконечны, автор лишь указал направление, как птица взлетает настолько, насколько хватает сил. Вриндаван Дас по милости Нитьянанды стал Вьясой игр Чайтаньи, наполнив кувшин из молочного океана; автор лишь вкусил остатки и описал то, что тот упомянул кратко, а будущие Вьясы опишут подробнее. «Я написал» — неверно: автор как деревянная кукла, стар, почти слеп и глух, руки дрожат, может умереть в любой миг; пишет лишь по милости Говинды, Чайтаньи, Нитьянанды, Адвайты, Сварупы, Рупы, Санатаны, своего гуру Рагхунатхи Даса, Дживы, преданных и слушателей — и по повелению Самого Мадана-гопалы, о чём он не мог промолчать."
+  persons: ["@krishnadasa-kaviraja", "@vrindavana-dasa", "@nityananda", "@vyasa", "@govinda-deity", "@mahaprabhu", "@advaita", "@svarupa-damodara", "@rupa-gosvami", "@sanatana-gosvami", "@raghunatha-dasa", "@jiva-gosvami", "@madana-mohana-vrindavana"]
+  places: ["#vrindavana"]
+  kind: author
+  authority: A
+  parallels: "Ади 8 (поручение вайшнавов Вриндавана и гирлянда Мадана-мохана)"
+  themes: [author]
+  cc: "Антья 20"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "71", to: "101"}
+
+- id: cc-4172
+  source: cc
+  ref: "Антья 20.102–141"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: PX
+  order: 995.41
+  title: "Перечень глав Антья-лилы"
+  summary: "Автор кратко перечисляет главы Антья-лилы: 1 — вторая встреча с Рупой и собака Шивананды; 2 — наказание Младшего Харидаса и видения Шивананды; 3 — слава Харидаса и упрёк Дамодары; 4 — Санатана; 5 — Прадьюмна Мишра и бенгальский поэт; 6 — Рагхунатха Дас; 7 — Валлабха Бхатта; 8 — Рамачандра Пури; 9 — Гопинатха Паттанаяк; 10 — угощения преданных и мешки Рагхавы; 11 — уход Харидаса; 12 — масло Джагадананды и гнев Нитьянанды на Шивананду; 13 — Джагадананда во Вриндаване, песня девадаси, Рагхунатха Бхатта; 14 — начало безумия, Львиные ворота, Чатака-парвата; 15 — сад-Вриндаван и пять чувств; 16 — Калидас, Пури Дас, привратник, фела; 17 — «черепаха» среди коров; 18 — падение в океан; 19 — трение лица и благоухание Кришны; 20 — Шикшаштака."
+  persons: ["@krishnadasa-kaviraja"]
+  places: []
+  kind: author
+  authority: A
+  themes: [author]
+  cc: "Антья 20"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "102", to: "141"}
+
+- id: cc-4173
+  source: cc
+  ref: "Антья 20.142–158"
+  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  period: PX
+  order: 995.42
+  title: "Колофон «Чайтанья-чаритамриты»: три Божества гаудиев, поклон слушателям; книга поднесена Мадана-гопале, Говинде и стопам Чайтаньи; дата завершения"
+  summary: "Мадана-мохан, Говинда и Гопинатха с Радхой — три Божества, дорогие гаудия-вайшнавам. Желания автора исполнятся, когда его голову коснутся стопы Чайтаньи, Нитьянанды, Адвайты, преданных, Сварупы, Рупы, Санатаны, Дживы и гуру Рагхунатхи Даса; их милость — учитель танца, а его слова — ученики, которые теперь утомились. Поклон стопам читателей и слушателей. Колофон; книга написана ради удовольствия Мадана-гопалы и Говинды и поднесена стопам Чайтаньи; завершена во Вриндаване в 1537 г. Шака, в воскресенье, на пятый день тёмной половины джьяиштхи."
+  persons: ["@krishnadasa-kaviraja", "@madana-mohana-vrindavana", "@govinda-deity", "@gopinatha-vrindavana", "@radha", "@mahaprabhu", "@nityananda", "@advaita", "@svarupa-damodara", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@raghunatha-dasa"]
+  places: ["#vrindavana"]
+  kind: author
+  authority: A
+  notes: "Ст. 157 в файле пуст (только метка). Дата в ст. 158 — 1537 Шака (1615 г.) — по колофону; в ряде рукописей его нет, датировка спорна (ср. ev-kaviraja-ordered-to-write-cc)."
+  calendar: "джьяиштха, кришна-панчами, воскресенье"
+  themes: [author]
+  cc: "Антья 20"
+  verses:
+    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "142", to: "158"}

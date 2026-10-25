@@ -1,0 +1,115 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/raghunatha-bhatta.md и lila-db.
+id: "@raghunatha-bhatta"
+names:
+  ru: "Рагхунатха Бхатта Госвами"
+  en: "Raghunatha Bhatta Gosvami"
+  variants: ["Рагхунатха Бхаттачарья", "Бхатта Рагхунатха", "Бхатта Госвами", "Рага-манджари (во Врадже, ГГД 185)"]
+  facts: [F2, F4, F5]
+kind: acharya
+circle: [puri, vrindavana, goswamis]
+period: [P13, P14, P15]
+period_note: "Лично — мальчиком в Каши, когда Господь жил у Чандрашекхары и ел у Тапаны Мишры (P13); дважды по восемь месяцев в Пури и посылка во Вриндаван (P14); во Вриндаване — чтение «Бхагаваты» в собрании Рупы, храм Говинды, свита Рупы в Матхуре; ушёл до прихода Шринивасы (P15). Встреча Господа с его отцом в Восточной Бенгалии (P05) — до его рождения, только в рассказе."
+life:
+  appearance:
+    date: "1505 (1427 Шака)"
+    tithi: ""
+    place: "#kashi?"
+    conf: "1505 — старая кадача (B), M; T — около 1503; Бхактисиддханта — около 1425 Шака; место рождения книги не называют (семья жила в Каши); в нашем календаре дня явления нет"
+    facts: [F17, F29, F30]
+  disappearance:
+    date: "1579 (1501 Шака)"
+    tithi: "шукла-двадаши месяца Ашвина (по нашему календарю — Гаура-двадаши месяца Падманабха)"
+    place: "#vrindavana"
+    conf: "год — кадача (B), M; T — 1579 или 1580; титхи — навадвипская панджика (B) и наш календарь (общий день с Рагхунатхой Дасом и Кришнадасом Кавираджем, ср. B 504); кадача даёт джьештха шукла-дашами, что Бхактивинода счёл противоречащим альманаху"
+    facts: [F29, F31, F32, F76]
+  samadhi: [{place: "#vrindavana", facts: [F77], note: "T по «Бхакти-ратнакаре»; БР 6.452–457 (по бенгальскому): во Вриндаване, Шриниваса прощается с ним между самадхи Кашишвары и храмом Говинды."}]
+origin:
+  places: ["#east-bengal", "#padmavati", "#kashi"]
+  family: ["@tapana-mishra"]
+  varna: "брахман"
+  facts: [F9, F10, F11, F17, F18]
+  note: "Отец Тапана Мишра — из Рампура на Падме (T; «Према-виласа» — по B), по слову Господа переселился в Каши (с женой — M). Имя матери не названо."
+relations:
+  - {type: father, who: "@tapana-mishra", facts: [F9, F10, F11, F12, F13, F15, F16, F17, F18, F24, F25, F54], events: [ev-tapana-mishra-east-bengal, ev-kashi-tapana-mishra]}
+  - {type: companion, who: "@mahaprabhu", facts: [F19, F22, F23, F24, F36, F39, F42, F43, F47, F48, F49, F56, F57, F58, F59], events: [ev-kashi-tapana-mishra, ev-raghunatha-bhatta-first-visit-puri, ev-raghunatha-bhatta-sent-vrindavana],
+     note: "Мальчиком служил Ему в Каши; дважды по восемь месяцев в Пури; наставления (не жениться, служить родителям, изучать «Бхагавату»), посылка во Вриндаван, «передача силы» (песня Радхаваллабхи), гирлянда и бетель-прасад. Дикша-гуру книги не называют."}
+  - {type: siksha-guru, who: "@rupa-gosvami", facts: [F6, F26, F48, F56, F61, F62, F63, F73, F81], events: [ev-gopala-mathura-vitthaleshvara], note: "Жил под его прибежищем, читал «Бхагавату» в его собрании; в его свите в Матхуре; B: неотличен от Рупы, венец рупануг."}
+  - {type: siksha-guru, who: "@sanatana-gosvami", facts: [F56, F61, F63, F81]}
+  - {type: siksha-disciple, who: "@krishnadasa-kaviraja", facts: [F5, F32, Q14], note: "Один из шести шикша-гуру Кавираджа (ЧЧ Ади 1.36–37)."}
+  - {type: companion, who: "@raghunatha-dasa", facts: [F5, F7, F32, F46, I1], note: "Двое Рагхунатх Госвами; общий день ухода (наш календарь, B 504); B сопоставляет наставления Господа им обоим."}
+  - {type: companion, who: "@gopala-bhatta", facts: [F5, F7, F8, F62, F78], event: ev-vrindavana-two-teachers-rule}
+  - {type: companion, who: "@jiva-gosvami", facts: [F5, F7, F62, F79]}
+  - {type: companion, who: "@svarupa-damodara", facts: [F40, F50], note: "Господь представил его Сварупе; уходя в Каши, взял позволение Сварупы и других (B 502 по скану)."}
+  - {type: companion, who: "@ramadasa-vishvasa", facts: [F34, F35, F41], event: ev-raghunatha-bhatta-first-visit-puri, note: "Спутник в пути в Пури, нёс его поклажу и служил ему."}
+  - {type: served-by, who: "@govinda-servant", facts: [F38, F39, F40], note: "По велению Господа дал ему жильё и прасад."}
+  - {type: co-worker, who: "@jagadananda-pandita", facts: [F45], event: ev-jagadananda-sandal-oil, note: "Помогал ему готовить для Господа (T)."}
+  - {type: deity-served, who: "@govinda-deity", facts: [F67, F68], note: "Стопы Говинды — сокровище его жизни; через ученика построил храм Говинды; украшения — ученик (B) или он сам (T, M)."}
+  - {type: deity-served, who: "@jagannatha-deity", facts: [F39, F58, F71], note: "Гирлянда туласи Джаганнатхи — его иштадева."}
+  - {type: other, who: "@chandrashekhara-vaidya", facts: [F22, F36, F38, F49]}
+  - {type: other, who: "@anupama", facts: [F26]}
+  - {type: other, who: "@vitthalanatha", facts: [F73], event: ev-gopala-mathura-vitthaleshvara}
+  - {type: other, who: "@shrinathji-deity", facts: [F73], note: "Гопала-дева, увиденный в Матхуре со свитой Рупы."}
+  - {type: other, who: "@balabhadra-bhattacharya", facts: [F21], note: "Готовил для Господа в доме Тапаны (M)."}
+  - {type: other, who: "@kashishvara", facts: [F76], event: ev-rupa-sanatana-departure, note: "Скрылись до прихода Шринивасы (вместе с Рупой и Санатаной)."}
+  - {type: other, who: "@srinivasa-acharya", facts: [F76, F77], event: ev-srinivasa-arrives-vrindavana, note: "Пришёл во Врадж уже после его ухода; уходя в Гауду, прощался с его самадхи и славил его (БР 6.452–457; T — славу слышал)."}
+  - {type: other, who: "@narottama-dasa", facts: [F78]}
+  - {type: other, who: "@lokanatha", facts: [F73, F80], event: ev-lokanatha-life-vrindavana}
+  - {type: other, who: "@bhugarbha", facts: [F73, F75, F78]}
+  - {type: other, who: "@murari-gupta", facts: [F9, F19, Q2]}
+  - {type: other, who: "@kavi-karnapura", facts: [F2, F3, Q13]}
+  - {type: other, who: "@bhaktivinoda", facts: [F29, F31], note: "Кадача из его собрания; заметка о дате ухода."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F7, F30], note: "«Анубхашья»: явление около 1425 Шака; шикша-парампара (M)."}
+  - {type: other, who: "@radhavallabha-dasa-poet", facts: [F22, F51, F59, F74, Q15], note: "Песня-«сучака» о нём (B 505–506); отождествление автора с учеником Шринивасы — по @sanatana-gosvami F426."}
+unnamed:
+  - {who: "мать (жена Тапаны Мишры)", type: mother, facts: [F17, F18, F33, F38, F54]}
+  - {who: "богатый ученик, построивший храм Говинды (имя ЧЧ не называет)", type: disciple, facts: [F68, F75]}
+  - {who: "слуга, нёсший его джхали в Пури", type: servant, facts: [F33]}
+  - {who: "учёный вайшнав в Каши, у которого он изучал «Бхагавату»", type: siksha-guru, facts: [F48, F51]}
+identities:
+  - in: krishna-lila
+    as: "Рага-манджари"
+    source: "ГГД 185"
+    level: A
+    facts: [F2, Q13]
+    variants: ["B и T добавляют «живущая в хижине у Радха-кунды»; по нашему переводу ГГД эти слова относятся к Рагхунатхе Дасу (ГГД 185–186)"]
+events:   # по порядку жизни (lila-db: period, order)
+  - ev-tapana-mishra-east-bengal
+  - ev-kashi-tapana-mishra
+  - ev-return-to-puri-from-vrindavana
+  - ev-jagadananda-sandal-oil
+  - ev-raghunatha-bhatta-first-visit-puri
+  - ev-raghunatha-bhatta-sent-vrindavana
+  - ev-lokanatha-life-vrindavana
+  - ev-vrindavana-two-teachers-rule
+  - ev-gopala-mathura-vitthaleshvara
+  - ev-rupa-sanatana-departure
+  - ev-srinivasa-arrives-vrindavana
+events_note: "По T/M/B: встреча Господа с Тапаной в Восточной Бенгалии (до его рождения), Каши (Тапана, Чандрашекхара; мальчик служит Господу), два прихода в Пури, Вриндаван, Матхура со свитой Рупы, уход до прихода Шринивасы. ev-jagadananda-sandal-oil — только T 110 (помогал Джагадананде готовить); Ратха-ятру он видел по M (событие ev-ratha-yatra-gundicha в lila-db — P12, раньше его прихода, не связано). Только по lila-db (F80): ev-return-to-puri-from-vrindavana (проводы из Варанаси), ev-lokanatha-life-vrindavana, ev-vrindavana-two-teachers-rule, а также ev-lokanatha-sent-to-vrindavana (P07, пророчество «Према-виласы»)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#east-bengal", "#padmavati", "#kashi", "#puri", "#vrindavana", "#gomatila", "#mathura"]
+places_facts: [F10, F11, F19, F20, F22, F33, F42, F51, F61, F63, F68, F73, F77]
+character:
+  - {trait: "с детства — служение Господу (посуда, остатки, массаж стоп) и неутолимая жажда прийти к Его стопам", facts: [F23, F24, F28], events: [ev-kashi-tapana-mishra]}
+  - {trait: "искусный повар, кормивший Господа в Пури", facts: [F27, F43, F45], events: [ev-raghunatha-bhatta-first-visit-puri]}
+  - {trait: "чтец «Бхагаваты» со сладким голосом, певший каждый стих на разные раги и терявший сознание от премы", facts: [F52, F63, F64, F65, F66, F74]}
+  - {trait: "предан стопам Говинды; восемь прахар — слушание, пение и памятование Его лил", facts: [F67, F68, F69]}
+  - {trait: "не слушал хулы на вайшнавов и мирских разговоров: «все служат Кришне»", facts: [F69, F70, I5]}
+  - {trait: "почитал дар Господа — гирлянду туласи и бетель-прасад — как иштадеву", facts: [F58, F71]}
+  - {trait: "послушание: не женился, служил родителям-вайшнавам, пошёл во Вриндаван по велению Господа", facts: [F48, F51, F53, F56]}
+significance: {facts: [F1, F5, F6, F75, I1, I2, I3, I4, I5, I6]}
+sources:
+  T: "172–174 (глава); 110, 137, 160–161, 170, 184, 205, 210"
+  M: "146–153 (глава); pdf 19, 111, 217, 311"
+  B: "493–506 (глава); 50, 267–268, 320, 329, 331, 460, 461, 624, 633, 664, 683"
+  other: ["ЧЧ Ади 1.36–37, 10.152–158; Мадхья 17.90–91, 18.49, 22.135; Антья 12, 13.89–135, 19.14", "ЧБ Ади 14.132–147", "Мурари, «Кадача» 4.1.14–17", "ГГД 185", "«Бхакти-ратнакара» 2.404–437, 6.452–457 (по бенгальскому; у T 6.452–457 без номера)", "«Према-виласа» (по B — о Тапане)", "песня Радхаваллабхи (B 505–506)", "кадача из собрания Бхактивиноды (по B)", "«Анубхашья» Бхактисиддханты"]
+article: {ru: "parshadas/ru/raghunatha-bhatta.md", en: "parshadas/en/raghunatha-bhatta.md"}
+open_questions:
+  - "Год явления: 1505 (кадача, M), около 1503 (T), около 1425 Шака (Бхактисиддханта) (F29, F30)."
+  - "Год ухода: 1579 (B, M) или 1579/1580 (T); титхи: ашвина шукла-двадаши (панджика, наш календарь) или джьештха шукла-дашами (кадача) (F29, F31)."
+  - "Сколько Господь был в Каши на обратном пути: два месяца (ЧЧ, B, T) или десять дней (M) (F22)."
+  - "Что Господь надел ему на шею при первом прощании: прасадную гирлянду (B), бусы (T) или гирлянду туласи (M) (F49); и что он носил позже — гирлянду и бетель (B, M) или гирлянду и бусы (T) (F71)."
+  - "Кто сделал украшения Говинде: ученик (B) или он сам (T, M) (F68)."
+  - "ГГД 185: относится ли «хижина у Радха-кунды» к нему (B, T) или к Рагхунатхе Дасу (наш перевод) (F2)."
+  - "Сон Тапаны Мишры: Гаура как Бхагаван (B), брахман (T) или бог (M) (F13)."
