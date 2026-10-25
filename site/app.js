@@ -23,7 +23,7 @@
       tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники', tabLib: 'Писания',
       libToc: 'Оглавление', libAll: '← Все писания', libTitle: 'Писания', libIntro: 'Все наши переводы — целиком, по главам. Выберите писание слева.',
       libChapters: n => `${n} ${plural(n, 'глава', 'главы', 'глав')}`, libEn: '', libNoEn: '', libStart: 'Читать с начала',
-      libRuOnly: '', readChapter: 'Читать главу целиком →', hintLib: 'Выберите писание и главу. Кнопки над текстом включают оригинал, транслитерацию, пословный перевод и примечания.',
+      libRuOnly: '', libAbout: 'О писании', libFacts: 'Кратко', toBio: 'Жизнеописание', toLilas: n => `Лилы · ${n}`, readChapter: 'Читать главу целиком →', hintLib: 'Выберите писание и главу. Кнопки над текстом включают оригинал, транслитерацию, пословный перевод и примечания.',
       article: 'Жизнеописание', loadingArticle: 'Загружаю жизнеописание…', withArticle: 'Только с жизнеописанием',
       appearance: 'Явление', disappearance: 'Уход', hasArticle: 'жизнеописание',
       mapNote: 'Прототип. Координаты мест предварительные (OpenStreetMap) и ещё сверяются по топокартам 1955 г.',
@@ -56,7 +56,7 @@
       tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates', tabLib: 'Scriptures',
       libToc: 'Contents', libAll: '← All scriptures', libTitle: 'Scriptures', libIntro: 'All our translations, complete, chapter by chapter. Choose a scripture on the left.',
       libChapters: n => `${n} chapter${n === 1 ? '' : 's'}`, libEn: 'EN', libNoEn: 'Russian only so far', libStart: 'Start reading',
-      libRuOnly: 'No English translation yet — shown in Russian.', readChapter: 'Read the whole chapter →', hintLib: 'Choose a scripture and a chapter. The buttons above the text turn on the original, transliteration, word-for-word and notes.',
+      libRuOnly: 'No English translation yet — shown in Russian.', libAbout: 'About the scripture', libFacts: 'In brief', toBio: 'Life', toLilas: n => `Pastimes · ${n}`, readChapter: 'Read the whole chapter →', hintLib: 'Choose a scripture and a chapter. The buttons above the text turn on the original, transliteration, word-for-word and notes.',
       article: 'Life', loadingArticle: 'Loading the life…', withArticle: 'Only with a full life',
       appearance: 'Appearance', disappearance: 'Departure', hasArticle: 'life',
       mapNote: 'Prototype. Place coordinates are provisional (OpenStreetMap) and are being checked against 1955 topographic maps.',
@@ -467,8 +467,10 @@
     $('r-lila').textContent = (tt.sections[p.section] || '') + (p.note ? ' · ' + p.note : '');
     $('r-title').textContent = pname(tag);
     $('r-author').textContent = '';
-    $('layers').innerHTML = places.length ? `<button type="button" data-act="person-map">${tt.onMap} · ${places.length}</button>` : '';
-    $('r-body').innerHTML = `<section class="person">${personBody(tag)}${ORN}<h3 class="person__name">${tt.allLilas(evs.length)}</h3>${lilaList(evs.map(e => e.id))}</section>`;
+    $('layers').innerHTML = (p.article ? `<button type="button" data-act="goto-bio">${tt.toBio}</button>` : '') +
+      (evs.length ? `<button type="button" data-act="goto-lilas">${tt.toLilas(evs.length)}</button>` : '') +
+      (places.length ? `<button type="button" data-act="person-map">${tt.onMap} · ${places.length}</button>` : '');
+    $('r-body').innerHTML = `<section class="person"><div id="p-bio">${personBody(tag)}</div>${ORN}<h3 class="person__name" id="p-lilas">${tt.allLilas(evs.length)}</h3>${lilaList(evs.map(e => e.id))}</section>`;
     $('r-ref').textContent = ''; $('r-prev').disabled = $('r-next').disabled = true;
     $('r-prev').dataset.person = $('r-next').dataset.person = '';
   }
@@ -632,6 +634,12 @@
     if (places.length) MAPC.map.flyToBounds(places.map(p => [S.places[p].lat, S.places[p].lon]), { padding: [60, 60], maxZoom: 9, duration: .8 });
   }
   $('layers').addEventListener('click', e => {
+    const jb = e.target.closest('[data-act="goto-lilas"], [data-act="goto-bio"]');
+    if (jb) {
+      const el = $(jb.dataset.act === 'goto-lilas' ? 'p-lilas' : 'p-bio'), body = $('r-body');
+      if (el) body.scrollTo({ top: body.scrollTop + el.getBoundingClientRect().top - body.getBoundingClientRect().top - 8, behavior: reduced() ? 'auto' : 'smooth' });
+      return;
+    }
     const b = e.target.closest('[data-act="person-map"]');
     if (!b) return;
     const tag = S.reader.tag;
@@ -673,12 +681,19 @@
       `<h2 class="lib-h">${esc(L(b, 'title'))}</h2><p class="lib-author">${esc(L(b, 'author'))}</p>` +
       (L(b, 'note') ? `<p class="person__draft">${esc(L(b, 'note'))}</p>` : '') +
       (S.lang === 'en' && lang === 'ru' ? `<p class="passage__noen">${tt.libRuOnly}</p>` : '') +
+      (b.info ? `<p class="lib-about-link"><button type="button" class="link-btn${LIB.ch == null ? ' is-cur' : ''}" data-about="1">${tt.libAbout}</button></p>` : '') +
       `<ol class="lib-toc">` + chs.map((c, i) => `<li><button type="button" class="link-btn${i === LIB.ch ? ' is-cur' : ''}" data-ch="${i}">${esc(c.t)}</button></li>`).join('') + '</ol>';
     const cur = side.querySelector('.is-cur'); if (cur) cur.scrollIntoView({ block: 'center' });
     if (LIB.ch == null) {
       $('lib-bar').hidden = true;
-      $('lib-read').innerHTML = `<div class="lib-cover"><h2>${esc(L(b, 'title'))}</h2><p class="lib-author">${esc(L(b, 'author'))}</p>` +
-        `${ORN}<p>${tt.libChapters(chs.length)}</p><button type="button" class="people-btn lib-start" data-ch="0">${tt.libStart}</button></div>`;
+      const inf = b.info, en = S.lang === 'en';
+      const facts = inf ? (en ? inf.facts_en : inf.facts_ru) : [], about = inf ? (en ? inf.about_en : inf.about_ru) : [];
+      const fact = f => { const i = f.indexOf(': '); return i > 0 && i < 40 ? `<li><b>${f.slice(0, i)}.</b> ${f.slice(i + 2)}</li>` : `<li>${f}</li>`; };
+      $('lib-read').innerHTML = `<div class="lib-cover lib-cover--book"><h2>${esc(L(b, 'title'))}</h2><p class="lib-author">${esc(L(b, 'author'))}</p>` +
+        `${ORN}<p>${tt.libChapters(chs.length)}</p><button type="button" class="people-btn lib-start" data-ch="0">${tt.libStart}</button></div>` +
+        (inf ? `<article class="lib-text lib-about"><h3>${tt.libAbout}</h3>${about.map(x => `<p>${x}</p>`).join('')}` +
+          `<h4>${tt.libFacts}</h4><ul class="lib-facts">${facts.map(fact).join('')}</ul></article>` : '');
+      $('lib-read').scrollTop = 0;
       return;
     }
     $('lib-bar').hidden = false;
@@ -713,6 +728,7 @@
   $('lib-side').addEventListener('click', e => {
     const bk = e.target.closest('[data-book]');
     if (bk) { LIB.book = bk.dataset.book || null; LIB.ch = null; renderLib(); libHash(); return; }
+    if (e.target.closest('[data-about]')) { LIB.ch = null; LIB.toc = false; renderLib(); libHash(); $('view-lib').classList.add('is-reading-book'); return; }
     const ch = e.target.closest('[data-ch]');
     if (ch) { LIB.ch = +ch.dataset.ch; LIB.toc = false; renderLib(); libHash(); }
   });

@@ -519,6 +519,14 @@ body.is-reading .view--sheet { padding-right: calc(var(--rw) + 8px); }
 .lib-read.hide-orig .l-orig, .lib-read.hide-translit .l-translit, .lib-read.hide-wbw .l-wbw,
 .lib-read.hide-text .l-text, .lib-read.hide-notes .l-notes { display: none; }
 .passage__more { margin: 10px 0 0; text-align: right; font: 15px var(--body); }
+.lib-cover--book { padding-top: 4vh; }
+.lib-about { margin-top: 18px; }
+.lib-about h3 { text-align: center; }
+.lib-facts { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; font-size: 16.5px; line-height: 1.5; }
+.lib-facts b { color: #5a3416; }
+.lib-about-link { margin: 6px 0 2px; }
+.lib-about-link .link-btn { font: 600 15.5px/1.3 var(--body); }
+.lib-about-link .link-btn.is-cur { color: #7a3d0e; }
 /* статьи о спутниках в свитке */
 .article { font: 16.5px/1.55 var(--body); color: var(--ink); }
 .article h2, .article h3 { font-size: 19px; margin: 18px 0 8px; }

@@ -1,0 +1,480 @@
+# Справки о писаниях для читалки сайта (страница писания, раздел «О писании»).
+# Поля: facts — короткие строки «Название поля: значение» (RU / EN); about — абзацы (RU / EN).
+# Основа — предисловия наших переводов и lila-db/SOURCES.md. Где датировка или авторство спорны — так и сказано.
+# Ключ — id книги из site/tools/build_library.py.
+
+cc:
+  facts_ru:
+    - "Автор: Кришнадас Кавирадж Госвами (родом из Джхаматпура, Бурдван; жил во Вриндаване, у Радха-кунды)"
+    - "Время: по традиционной датировке завершена в 1615 г. (1537 г. Шака); писал в глубокой старости"
+    - "Язык и форма: бенгальские двустишия-паяры со множеством санскритских шлок; 62 главы в трёх частях — Ади (17), Мадхья (25), Антья (20)"
+    - "Комментарии: «Амрита-праваха-бхашья» Шрилы Бхактивиноды Тхакура, «Анубхашья» Шрилы Бхактисиддханты Сарасвати"
+    - "Место в традиции: главное богословское жизнеописание Шри Чайтаньи; высший авторитет (A)"
+    - "Наш текст: русский перевод Вриндавана Чандры даса (Шри Чайтанья Сарасват Матх); Антья 16–19 — переведены в его стиле. В читалке пока Ади, Мадхья и Антья 16–19"
+  facts_en:
+    - "Author: Krishnadasa Kaviraja Gosvami (from Jhamatpur, Burdwan; lived in Vrindavana, at Radha-kunda)"
+    - "Date: traditionally completed in 1615 (1537 Shaka); written in his extreme old age"
+    - "Language and form: Bengali payar couplets with many Sanskrit verses; 62 chapters in three parts — Adi (17), Madhya (25), Antya (20)"
+    - "Commentaries: Amrita-pravaha-bhashya of Srila Bhaktivinoda Thakura, Anubhashya of Srila Bhaktisiddhanta Sarasvati"
+    - "Place in the tradition: the principal theological life of Sri Chaitanya; highest authority (A)"
+    - "Our text: Russian translation by Vrindavana Chandra Dasa (Sri Chaitanya Saraswat Math); Antya 16–19 translated in his style. The reader has Adi, Madhya and Antya 16–19 so far"
+  about_ru:
+    - "Кришнадас Кавирадж написал книгу по просьбе вайшнавов Вриндавана: Вриндаван Дас Тхакур в «Чайтанья-бхагавате» подробно описал Навадвипу, а последние годы Махапрабху в Пури изложил лишь кратко. Кришнадас опирался на записи Сварупы Дамодары и Мурари Гупты и на рассказы Рагхунатхи Даса Госвами, который шестнадцать лет прожил при Господе."
+    - "Уникальность книги — в соединении жизнеописания и богословия: она раскрывает, кто такой Шри Чайтанья (Радха и Кришна в одном облике), учение о Кришне, о бхакти и о святом имени, наставления Рупе и Санатане Госвами, беседы с Раманандой Раем и Сарвабхаумой, сокровенные переживания Господа в Гамбхире. Шрила Бхактисиддханта Сарасвати издавал её с комментариями — своими и Шрилы Бхактивиноды Тхакура."
+  about_en:
+    - "Krishnadasa Kaviraja wrote the book at the request of the Vaishnavas of Vrindavana: in the Chaitanya-bhagavata Vrindavana Dasa Thakura had described Navadvipa in detail but told the Lord’s last years in Puri only briefly. Krishnadasa drew on the notes of Svarupa Damodara and Murari Gupta and on the accounts of Raghunatha Dasa Gosvami, who lived sixteen years with the Lord."
+    - "Its uniqueness lies in uniting biography and theology: it reveals who Sri Chaitanya is (Radha and Krishna in one form), the teaching on Krishna, bhakti and the holy name, the instructions to Rupa and Sanatana Gosvamis, the talks with Ramananda Raya and Sarvabhauma, and the Lord’s innermost moods in the Gambhira. Srila Bhaktisiddhanta Sarasvati published it with his own commentary and that of Srila Bhaktivinoda Thakura."
+
+cb:
+  facts_ru:
+    - "Автор: Вриндаван Дас Тхакур — сын Нараяни (племянницы Шриваса Пандита), ученик Нитьянанды Прабху; его обитель — Денур (Бурдван)"
+    - "Время: ок. 1540-х гг."
+    - "Язык и форма: бенгальские двустишия-паяры; три части — Ади (17 глав), Мадхья (28), Антья (10)"
+    - "Название: по преданию, книга сначала называлась «Чайтанья-мангала»; название «Чайтанья-бхагавата» дали вайшнавы Вриндавана"
+    - "Комментарий: «Гаудия-бхашья» Шрилы Бхактисиддханты Сарасвати"
+    - "Место в традиции: первое бенгальское жизнеописание; Кришнадас Кавирадж называет автора «Вьясой лил Шри Чайтаньи»; высший авторитет (A)"
+    - "Наш текст: русский перевод, изд. Шри Чайтанья Сарасват Матха (Ади-кханда, 2006); Мадхья и Антья — до окончательной редактуры"
+  facts_en:
+    - "Author: Vrindavana Dasa Thakura, son of Narayani (niece of Srivasa Pandita), disciple of Nityananda Prabhu; his seat was Denur (Burdwan)"
+    - "Date: c. 1540s"
+    - "Language and form: Bengali payar couplets; three parts — Adi (17 chapters), Madhya (28), Antya (10)"
+    - "Title: by tradition the book was first called Chaitanya-mangala; the Vaishnavas of Vrindavana gave it the name Chaitanya-bhagavata"
+    - "Commentary: Gaudiya-bhashya of Srila Bhaktisiddhanta Sarasvati"
+    - "Place in the tradition: the first Bengali life of the Lord; Krishnadasa Kaviraja calls its author “the Vyasa of Sri Chaitanya’s pastimes”; highest authority (A)"
+    - "Our text: Russian translation published by Sri Chaitanya Saraswat Math (Adi-khanda, 2006); Madhya and Antya before final editing"
+  about_ru:
+    - "Вриндаван Дас писал по велению своего гуру Нитьянанды Прабху, и Нитьянанда — второй главный герой книги. Здесь подробнее всего описаны детство и учёба Нимая, его жизнь учителем в Навадвипе, путь в Гаю, ночные киртаны в доме Шриваса, откровения Господа, освобождение Джагая и Мадхая, санньяса и первые годы в Пури."
+    - "Книга написана живым языком для пения и чтения вслух, с горячими обращениями к читателю и обличением тех, кто хулит преданных. Антья-кханда осталась краткой; поздние лилы в Пури позже описал Кришнадас Кавирадж в «Чайтанья-чаритамрите», дополняя «Бхагавату», а не повторяя её."
+  about_en:
+    - "Vrindavana Dasa wrote at the order of his guru Nityananda Prabhu, and Nityananda is the second hero of the book. It describes most fully Nimai’s childhood and studies, his life as a teacher in Navadvipa, the journey to Gaya, the night kirtanas in Srivasa’s house, the Lord’s revelations, the deliverance of Jagai and Madhai, the sannyasa and the first years in Puri."
+    - "The book is written in a lively language for singing and reading aloud, with fervent addresses to the reader and rebukes to those who offend the devotees. Its Antya-khanda remained brief; the later pastimes in Puri were described by Krishnadasa Kaviraja in the Chaitanya-charitamrita, supplementing the Bhagavata rather than repeating it."
+
+murari:
+  facts_ru:
+    - "Автор: Мурари Гупта — врач (вайдья) из Шрихатты, живший в Навадвипе, старший товарищ и спутник Махапрабху; по «Гаура-ганоддеша-дипике» — Хануман"
+    - "Время: ок. 1513 г. — самое раннее жизнеописание"
+    - "Язык и форма: санскритская поэма в четырёх пракрамах (78 сарг); построена как беседа Мурари с Дамодарой Пандитом"
+    - "Название: «Шри Кришна-Чайтанья-чаритамрита», в традиции — «Кадача» («Записи») Мурари Гупты"
+    - "Место в традиции: свидетельство очевидца Навадвипа-лилы; на неё опирались Кави Карнапура, Лочан Дас и Кришнадас Кавирадж; высший авторитет (A)"
+    - "Наш текст: перевод с санскрита по изданиям Харидаса Шастри (Вриндаван) и Харидаса Даса (Калькутта, 1945); с оригиналом, транслитерацией и пословным"
+  facts_en:
+    - "Author: Murari Gupta, a physician (vaidya) from Shrihatta living in Navadvipa, an elder friend and associate of Mahaprabhu; according to the Gaura-ganoddesha-dipika, Hanuman"
+    - "Date: c. 1513 — the earliest life of the Lord"
+    - "Language and form: Sanskrit poem in four prakramas (78 sargas), framed as Murari’s dialogue with Damodara Pandita"
+    - "Title: Sri Krishna-Chaitanya-charitamrita, known in the tradition as Murari Gupta’s Kadacha (“Notes”)"
+    - "Place in the tradition: an eyewitness account of the Navadvipa pastimes; Kavi Karnapura, Lochana Dasa and Krishnadasa Kaviraja relied on it; highest authority (A)"
+    - "Our text: translated from the Sanskrit after the editions of Haridasa Shastri (Vrindavana) and Haridasa Dasa (Calcutta, 1945); with original, transliteration and word-for-word"
+  about_ru:
+    - "Мурари был рядом с Нимаем с его юности: учился вместе с ним, спорил с ним о грамматике, видел его откровения — Господь являл Мурари облик Варахи и Рамачандры. Поэтому его записи — первоисточник о детстве, юности и навадвипских лилах; о Пури и поздних годах он пишет кратко, по рассказам."
+    - "Кришнадас Кавирадж прямо называет «записи Мурари Гупты» одним из своих источников. Книга написана простым и ясным санскритом и сохраняет живые подробности, которых нет у поздних авторов."
+  about_en:
+    - "Murari was near Nimai from his youth: he studied with him, argued with him about grammar and witnessed his revelations — the Lord showed Murari the forms of Varaha and Ramachandra. His notes are therefore the primary source on the childhood, youth and Navadvipa pastimes; of Puri and the later years he writes briefly, from report."
+    - "Krishnadasa Kaviraja names “the notes of Murari Gupta” as one of his sources. The book is written in simple, clear Sanskrit and keeps vivid details absent from later authors."
+
+karnapura-ckm:
+  facts_ru:
+    - "Автор: Кави Карнапура (Парамананда Дас, Пуридас) — младший сын Шивананды Сены; ребёнком получил милость Махапрабху в Пури"
+    - "Время: завершена в 1464 г. Шака (1542) — по указанию в самой поэме (20.49)"
+    - "Язык и форма: санскритская махакавья в 20 саргах (1911–1912 стихов), разными размерами"
+    - "Место в традиции: высокая поэзия; сюжетом во многом следует Мурари Гупте; авторитет (A)"
+    - "Наш текст: перевод по изданию Харидаса Шастри (1983); с оригиналом, транслитерацией, пословным и примечаниями"
+  facts_en:
+    - "Author: Kavi Karnapura (Paramananda Dasa, Puridasa), youngest son of Shivananda Sena; as a child he received Mahaprabhu’s mercy in Puri"
+    - "Date: completed in 1464 Shaka (1542), as stated in the poem itself (20.49)"
+    - "Language and form: Sanskrit mahakavya in 20 sargas (1911–1912 verses) in various metres"
+    - "Place in the tradition: high poetry; in its narrative it largely follows Murari Gupta; authority (A)"
+    - "Our text: translated after the edition of Haridasa Shastri (1983); with original, transliteration, word-for-word and notes"
+  about_ru:
+    - "Это первое из трёх больших сочинений Карнапуры о Господе. Поэт пересказывает жизнь Шри Чайтаньи языком классической санскритской поэзии: с описаниями времён года, ночей и рассвета, с игрой слов и звуков (ямака). Сюжет — от причин нисхождения до лил в Пури."
+  about_en:
+    - "This is the first of Karnapura’s three great works about the Lord. The poet retells Sri Chaitanya’s life in the language of classical Sanskrit poetry, with descriptions of seasons, nights and dawns and with play on words and sounds (yamaka). The story runs from the causes of the descent to the pastimes in Puri."
+
+chaitanya-chandrodaya:
+  facts_ru:
+    - "Автор: Кави Карнапура"
+    - "Время: по колофону — 1494 г. Шака (1572)"
+    - "Язык и форма: санскритская драма (натака) в 10 актах; прозаические реплики и стихи; среди действующих лиц — аллегорические (Кали, Адхарма, Майтри, Бхакти)"
+    - "Издания: Kāvyamālā № 87 (1917) и др."
+    - "Место в традиции: Кришнадас Кавирадж многократно цитирует её в «Чайтанья-чаритамрите»; авторитет (A)"
+    - "Наш текст: перевод с санскрита (по изданиям М. Гухи 1971 и Р. Мишры 1966, сверка по Kāvyamālā)"
+  facts_en:
+    - "Author: Kavi Karnapura"
+    - "Date: according to the colophon, 1494 Shaka (1572)"
+    - "Language and form: Sanskrit drama (nataka) in 10 acts, prose dialogue and verse; among the characters are allegorical ones (Kali, Adharma, Maitri, Bhakti)"
+    - "Editions: Kāvyamālā no. 87 (1917) and others"
+    - "Place in the tradition: Krishnadasa Kaviraja quotes it many times in the Chaitanya-charitamrita; authority (A)"
+    - "Our text: translated from the Sanskrit (after the editions of M. Guha 1971 and R. Mishra 1966, checked against Kāvyamālā)"
+  about_ru:
+    - "Драма разворачивает жизнь Господа от явления до лил в Пури как священное представление. Особенно ценны сцены в Пури: встречи с Сарвабхаумой и Пратапарудрой, Ратха-ятра, беседы о расе. Многие стихи драмы вошли в «Чайтанья-чаритамриту»."
+  about_en:
+    - "The drama unfolds the Lord’s life from his appearance to the Puri pastimes as a sacred performance. The Puri scenes are especially valuable: the meetings with Sarvabhauma and Prataparudra, the Ratha-yatra, the talks on rasa. Many of its verses entered the Chaitanya-charitamrita."
+
+gaura-ganoddesha:
+  facts_ru:
+    - "Автор: Кави Карнапура"
+    - "Время: 1498 г. Шака (1576)"
+    - "Язык и форма: санскритские шлоки (ок. 210)"
+    - "Место в традиции: главный источник отождествлений — кем спутники Махапрабху были в играх Кришны во Врадже, Двараке, у Рамы; авторитет (A)"
+    - "Наш текст: перевод санскритского текста по изданию Gaudiya Vedanta Publications (2008); перевод и комментарий издания не использовались"
+  facts_en:
+    - "Author: Kavi Karnapura"
+    - "Date: 1498 Shaka (1576)"
+    - "Language and form: Sanskrit verses (c. 210)"
+    - "Place in the tradition: the main source of identities — who Mahaprabhu’s associates were in Krishna’s pastimes in Vraja, Dvaraka and with Rama; authority (A)"
+    - "Our text: the Sanskrit text translated after the Gaudiya Vedanta Publications edition (2008); its translation and commentary were not used"
+  about_ru:
+    - "«Светильник, указывающий на спутников Гауры»: Карнапура перечисляет спутников Господа и называет, кем каждый был прежде — Шачи и Джаганнатха Мишра — Яшода и Нанда, Ниламбара Чакраварти — Гарга, Сита Тхакурани — Йогамайя. Книга также излагает преемственность (Мадхва-сампрадаю) и учение о пяти аспектах Господа (панча-таттве). На сайте её стихи приведены в описаниях спутников."
+  about_en:
+    - "“The lamp showing the associates of Gaura”: Karnapura lists the Lord’s associates and names who each was before — Shachi and Jagannatha Mishra were Yashoda and Nanda, Nilambara Chakravarti was Garga, Sita Thakurani is Yogamaya. The book also sets out the succession (the Madhva sampradaya) and the teaching of the five aspects of the Lord (pancha-tattva). On this site its verses are quoted in the descriptions of the associates."
+
+chaitanya-chandramrita:
+  facts_ru:
+    - "Автор: Шрила Прабодхананда Сарасвати — санньяси, по преданию дядя и наставник Гопалы Бхатты Госвами, позднее жил во Вриндаване"
+    - "Время: XVI в."
+    - "Язык и форма: 142 санскритских шлоки-восхваления в 12 разделах"
+    - "Место в традиции: одна из самых любимых книг славословия Шри Чайтанье; её шлоки цитируются ачарьями"
+    - "Наш текст: перевод с санскрита (издание со «Шри Навадвипа-шатакой»), вместе с введением издания"
+  facts_en:
+    - "Author: Srila Prabodhananda Sarasvati, a sannyasi, by tradition the uncle and teacher of Gopala Bhatta Gosvami, who later lived in Vrindavana"
+    - "Date: 16th century"
+    - "Language and form: 142 Sanskrit verses of praise in 12 sections"
+    - "Place in the tradition: one of the most beloved books of praise of Sri Chaitanya; its verses are quoted by the acharyas"
+    - "Our text: translated from the Sanskrit (the edition together with Sri Navadvipa-shataka), with the edition’s introduction"
+  about_ru:
+    - "«Нектар луны Шри Чайтаньи» — не повествование, а восхваление: поэт славит Гаурангу как высшую цель, говорит о величии Его милости, о несчастье тех, кто Его не знает, о служении Его преданным. Это сердечная поэзия рагануга-бхакти в настроении служения Гауре."
+  about_en:
+    - "“The nectar of the moon Sri Chaitanya” is not a narrative but praise: the poet glorifies Gauranga as the highest goal, speaks of the greatness of his mercy, of the misfortune of those who do not know him, of service to his devotees. It is heartfelt poetry of raganuga-bhakti in the mood of service to Gaura."
+
+gaura-krishnodaya:
+  facts_ru:
+    - "Автор: Говинда-дева (Говинда Кави) — ориец из преемственности Вакрешвары Пандита"
+    - "Время: 1758 г."
+    - "Язык и форма: санскритская махакавья в 18 саргах"
+    - "Издание: Шрила Бхактисиддханта Сарасвати, 1913"
+    - "Место в традиции: подлинное, но позднее сочинение; в основном пересказывает «Чайтанья-чаритамриту»; свои добавления — с оговорками (B)"
+    - "Наш текст: перевод с санскрита по изданию 1913 г."
+  facts_en:
+    - "Author: Govinda-deva (Govinda Kavi), an Oriya from the line of Vakreshvara Pandita"
+    - "Date: 1758"
+    - "Language and form: Sanskrit mahakavya in 18 sargas"
+    - "Edition: Srila Bhaktisiddhanta Sarasvati, 1913"
+    - "Place in the tradition: authentic but late; mostly retells the Chaitanya-charitamrita; its own additions are taken with reservations (B)"
+    - "Our text: translated from the Sanskrit after the 1913 edition"
+  about_ru:
+    - "Поэма, изданная Шрилой Бхактисиддхантой Сарасвати, рассказывает всю жизнь Господа в форме классической санскритской поэмы. Ценность её — в поэтическом переложении и в некоторых местных, орийских преданиях."
+  about_en:
+    - "Published by Srila Bhaktisiddhanta Sarasvati, the poem tells the whole life of the Lord in the form of a classical Sanskrit poem. Its value lies in the poetic rendering and in some local, Oriya traditions."
+
+jagannatha-vallabha:
+  facts_ru:
+    - "Автор: Рамананда Рай — правитель при царе Пратапарудре, ближайший спутник Махапрабху в Пури"
+    - "Время: начало XVI в."
+    - "Язык и форма: санскритская музыкальная драма в 5 актах о Радхе и Кришне, со стихами и песнями"
+    - "Издание: Нитьясварупа Брахмачари, Вриндаван, 1901"
+    - "Место в традиции: Махапрабху сам слушал и пел её песни (ЧЧ Мадхья 2; Антья 20); авторитет (A)"
+    - "Наш текст: перевод драмы с санскрита (предисловие и хинди-перевод издателя не переводились)"
+  facts_en:
+    - "Author: Ramananda Raya, a governor under King Prataparudra and Mahaprabhu’s intimate associate in Puri"
+    - "Date: early 16th century"
+    - "Language and form: Sanskrit musical drama in 5 acts about Radha and Krishna, with verses and songs"
+    - "Edition: Nityasvarupa Brahmachari, Vrindavana, 1901"
+    - "Place in the tradition: Mahaprabhu himself heard and sang its songs (CC Madhya 2; Antya 20); authority (A)"
+    - "Our text: the drama translated from the Sanskrit (the editor’s preface and Hindi translation were not translated)"
+  about_ru:
+    - "Рамананда сам обучил храмовых танцовщиц Джаганнатхи исполнять эту драму. В Гамбхире, в разлуке с Кришной, Махапрабху вместе со Сварупой Дамодарой и Раманандой вкушал её песни. Лил самого Махапрабху в ней нет; это окно в те настроения Радхи и Кришны, которые Он переживал."
+  about_en:
+    - "Ramananda himself trained the temple dancers of Jagannatha to perform this drama. In the Gambhira, in separation from Krishna, Mahaprabhu relished its songs with Svarupa Damodara and Ramananda. It contains no pastimes of Mahaprabhu himself; it is a window into the moods of Radha and Krishna that he experienced."
+
+chaitanya-upanishad:
+  facts_ru:
+    - "Происхождение: упанишада, причисляемая к «Атхарва-веде»; 19 коротких разделов"
+    - "Издание: Шрила Бхактивинода Тхакур, 1887, по списку, присланному в 1886 г. из Самбалпура (Орисса) пандитом Мадхусуданой Дасом; с санскритским комментарием Бхактивиноды «Чайтанья-чаранамрита» и бенгальским переложением"
+    - "Место в традиции: ведийское пророчество о явлении Шри Чайтаньи в Навадвипе и о маха-мантре; традиция принимает её как шрути, исследователи считают текст поздним"
+    - "Наш текст: перевод всего издания — мулы, комментария и бенгальского переложения"
+  facts_en:
+    - "Origin: an Upanishad ascribed to the Atharva Veda; 19 short sections"
+    - "Edition: Srila Bhaktivinoda Thakura, 1887, from a manuscript sent to him in 1886 from Sambalpur (Orissa) by Pandit Madhusudana Dasa; with Bhaktivinoda’s Sanskrit commentary Chaitanya-charanamrita and a Bengali rendering"
+    - "Place in the tradition: a Vedic prophecy of Sri Chaitanya’s appearance in Navadvipa and of the maha-mantra; the tradition accepts it as shruti, scholars regard the text as late"
+    - "Our text: the whole edition translated — the mula, the commentary and the Bengali rendering"
+  about_ru:
+    - "Мудрец Пиппалада спрашивает Брахму, как освободятся люди века Кали, и слышит: в Навадвипе на берегу Ганги Сам Говинда явится в золотом облике преданного и будет повторять маха-мантру из шестнадцати имён. Упанишада объясняет имена Хари, Кришна и Рама и называет Пурушоттаму, Который выше тленного мира и живых существ, Чайтаньей."
+  about_en:
+    - "The sage Pippalada asks Brahma how the people of the Kali age will be delivered and hears: in Navadvipa on the bank of the Ganges, Govinda himself will appear in the golden form of a devotee and will chant the maha-mantra of sixteen names. The Upanishad explains the names Hari, Krishna and Rama and calls the Purushottama, who is beyond the perishable world and the living beings, Chaitanya."
+
+lochana:
+  facts_ru:
+    - "Автор: Лочан Дас Тхакур (из Коограма, Бурдван) — ученик Нарахари Саркара Тхакура из Шрикханды"
+    - "Время: 1560-е гг."
+    - "Язык и форма: бенгальская поэма для пения, с указанием раг; четыре части — Сутра-, Ади-, Мадхья- и Шеша-кханда"
+    - "Источник: опирается на «Кадачу» Мурари Гупты"
+    - "Издания: Шрила Бхактисиддханта Сарасвати (Шри Чайтанья Матх, 1922) — основа нашего перевода; места, которые есть только в издании 1983 г., переведены со сноской"
+    - "Место в традиции: принята традицией, с особенностями школы Шрикханды (нагари-бхава) (B)"
+    - "Наш текст: с бенгальским оригиналом, транслитерацией и пословным"
+  facts_en:
+    - "Author: Lochana Dasa Thakura (of Kogram, Burdwan), disciple of Narahari Sarakara Thakura of Shrikhanda"
+    - "Date: 1560s"
+    - "Language and form: Bengali poem for singing, with ragas indicated; four parts — Sutra-, Adi-, Madhya- and Shesha-khanda"
+    - "Source: based on Murari Gupta’s Kadacha"
+    - "Editions: Srila Bhaktisiddhanta Sarasvati (Sri Chaitanya Math, 1922) — the basis of our translation; passages found only in the 1983 edition are translated with a note"
+    - "Place in the tradition: accepted by the tradition, with features of the Shrikhanda school (nagari-bhava) (B)"
+    - "Our text: with the Bengali original, transliteration and word-for-word"
+  about_ru:
+    - "Лочан Дас написал поэму для пения: каждая глава поётся на свою рагу, и до сих пор её исполняют в Бенгалии. Он особенно подробно и нежно описывает детство Нимая, Вишнуприю, разлуку Шачи и Вишнуприи после санньясы, рассказывает и об уходе Господа — о Его вхождении в Джаганнатху."
+  about_en:
+    - "Lochana Dasa wrote the poem for singing: each chapter is sung to its own raga, and it is still performed in Bengal. He describes with special detail and tenderness Nimai’s childhood, Vishnupriya, the separation of Shachi and Vishnupriya after the sannyasa, and also tells of the Lord’s departure — his entering into Jagannatha."
+
+jayananda:
+  facts_ru:
+    - "Автор: Джаянанда Мишра — сын Субуддхи Мишры из Амайпура; по его словам, имя ему дал Сам Махапрабху"
+    - "Время: XVI в."
+    - "Язык и форма: бенгальская поэма «Чайтанья-мангала»"
+    - "Место в традиции: в гаудия-традиции не принята — содержит много расхождений; ценна уникальными подробностями (C)"
+    - "Наш текст: только то, что в общественном достоянии, — фрагменты и цитаты из статей Н. Васу (1897, 1898), Дж. Саркара (1922), позднейших авторов и описаний рукописей. Полное издание 1971 г. не переводилось"
+  facts_en:
+    - "Author: Jayananda Mishra, son of Subuddhi Mishra of Amaipura; by his own account Mahaprabhu himself gave him his name"
+    - "Date: 16th century"
+    - "Language and form: Bengali poem Chaitanya-mangala"
+    - "Place in the tradition: not accepted in the Gaudiya tradition — it has many divergences; valuable for unique details (C)"
+    - "Our text: only what is in the public domain — fragments and quotations from the articles of N. Vasu (1897, 1898), J. Sarkar (1922), later authors and manuscript descriptions. The full 1971 edition was not translated"
+  about_ru:
+    - "Поэма Джаянанды известна прежде всего своим рассказом об уходе Господа, отличным от рассказов других житий, и бытовыми подробностями. Мы приводим её фрагменты для полноты картины; где она расходится с «Чайтанья-бхагаватой» и «Чайтанья-чаритамритой», авторитет за ними."
+  about_en:
+    - "Jayananda’s poem is known above all for its account of the Lord’s departure, different from the other lives, and for everyday details. We give its fragments for completeness; where it diverges from the Chaitanya-bhagavata and Chaitanya-charitamrita, authority belongs to them."
+
+advaita-prakash:
+  facts_ru:
+    - "Автор: Ишана Нагара — по самой книге, слуга Адвайты Ачарьи с детства"
+    - "Время: по указанию в книге — XVI в.; подлинность и датировка оспариваются"
+    - "Язык и форма: бенгальская поэма в 22 главах"
+    - "Место в традиции: подробное предание о жизни Адвайты и его семьи; использовать с осторожностью (D)"
+    - "Наш текст: перевод по хинди-изданию с бенгальским текстом (ред. Лакшминараяна Дас, Радхакунда)"
+  facts_en:
+    - "Author: Ishana Nagara — according to the book itself, Advaita Acharya’s servant from childhood"
+    - "Date: by the book’s own statement, 16th century; authenticity and dating are disputed"
+    - "Language and form: Bengali poem in 22 chapters"
+    - "Place in the tradition: a detailed tradition of the life of Advaita and his family; to be used with caution (D)"
+    - "Our text: translated after the Hindi edition with the Bengali text (ed. Lakshminarayana Dasa, Radhakunda)"
+  about_ru:
+    - "Книга рассказывает о жизни Адвайты Ачарьи: его явлении в Лауде (Шрихатта), учёбе, паломничествах, встрече с Мадхавендрой Пури, о Харидасе Тхакуре, о том, как Адвайта призывал Господа явиться, и о его поклонении младенцу Гауре. Многие её сведения не подтверждаются ранними житиями."
+  about_en:
+    - "The book tells the life of Advaita Acharya: his appearance in Lauda (Shrihatta), his studies, pilgrimages, meeting with Madhavendra Puri, about Haridasa Thakura, how Advaita called the Lord to descend, and his worship of the infant Gaura. Much of its information is not confirmed by the early lives."
+
+govinda-kadacha:
+  facts_ru:
+    - "Автор: приписывается Говинде Дасу — кузнецу из Канчананагара (Бурдван), по книге сопровождавшему Господа по Югу"
+    - "Издания: впервые — 1895 (Джайгопал Госвами, Шантипур); Калькуттский университет, 1926, с предисловием Динешчандры Сена"
+    - "Место в традиции: подлинность оспаривается; многие исследователи и большинство гаудия-вайшнавских авторитетов считают книгу сочинением XIX в. (D)"
+    - "Наш текст: перевод основного текста и предисловия 1926 г. (для знакомства с доводами сторон)"
+  facts_en:
+    - "Author: attributed to Govinda Dasa, a blacksmith from Kanchananagara (Burdwan), who by the book’s account accompanied the Lord through the South"
+    - "Editions: first in 1895 (Jaygopal Gosvami, Shantipur); University of Calcutta, 1926, with a preface by Dinesh Chandra Sen"
+    - "Place in the tradition: authenticity disputed; many scholars and most Gaudiya Vaishnava authorities consider it a 19th-century work (D)"
+    - "Our text: translation of the main text and of the 1926 preface (to acquaint the reader with the arguments of the sides)"
+  about_ru:
+    - "Дневник-рассказ о санньясе Господа и двухлетнем странствии по Югу и Западу Индии — до Каньякумари, Пандхарпура, Сомнатха и Двараки — с подробным маршрутом и встречами, которых нет в ранних житиях. Мы даём перевод для полноты и изучения; как свидетельство о лилах книга сомнительна."
+  about_en:
+    - "A diary-like account of the Lord’s sannyasa and two-year journey through the South and West of India — as far as Kanyakumari, Pandharpur, Somnath and Dvaraka — with a detailed route and encounters absent from the early lives. We give the translation for completeness and study; as testimony of the pastimes the book is doubtful."
+
+prema-vivarta:
+  facts_ru:
+    - "Автор: приписывается Джагадананде Пандиту — ближайшему спутнику Махапрабху в Навадвипе и Пури"
+    - "Язык и форма: бенгальская поэма в 20 главах"
+    - "Издания: Шрила Бхактивинода Тхакур (1905/06); Гаудия Матх; 7-е изд. Шри Чайтанья Матха (ред. Бхакти Вилас Тиртха, 1972) — основа перевода"
+    - "Место в традиции: принята традицией и издана Бхактивинодой; Б. Маджумдар сомневается в авторстве (B)"
+  facts_en:
+    - "Author: attributed to Jagadananda Pandita, Mahaprabhu’s intimate associate in Navadvipa and Puri"
+    - "Language and form: Bengali poem in 20 chapters"
+    - "Editions: Srila Bhaktivinoda Thakura (1905/06); Gaudiya Math; 7th ed. of Sri Chaitanya Math (ed. Bhakti Vilas Tirtha, 1972) — the basis of the translation"
+    - "Place in the tradition: accepted by the tradition and published by Bhaktivinoda; B. Majumdar doubts the authorship (B)"
+  about_ru:
+    - "Поэма соединяет воспоминания о Господе с наставлениями о чистой преданности, о святом имени, о жизни отрёкшегося вайшнава. Голос автора — горячий и прямой, как у Джагадананды «Чайтанья-чаритамриты», который любил Господа в настроении любовного гнева."
+  about_en:
+    - "The poem joins recollections of the Lord with instructions on pure devotion, the holy name and the life of a renounced Vaishnava. The author’s voice is ardent and direct, like that of the Jagadananda of the Chaitanya-charitamrita, who loved the Lord in a mood of loving anger."
+
+prema-vilasa:
+  facts_ru:
+    - "Автор: Нитьянанда Дас, ученик Джахнавы-деви"
+    - "Время: ок. 1600 г.; поздние виласы (особенно 24-я) — вставки"
+    - "Язык и форма: бенгальская поэма в 20 виласах с позднейшими добавлениями"
+    - "Место в традиции: главный источник о Шринивасе Ачарье, Нароттаме Дасе и Шьямананде, об отправке книг Госвами в Бенгалию; используется с оговорками (C)"
+    - "Наш текст: виласы 1–23 и письма, по изданиям 1913 и 1999 гг."
+  facts_en:
+    - "Author: Nityananda Dasa, disciple of Jahnava-devi"
+    - "Date: c. 1600; the late vilasas (especially the 24th) are interpolations"
+    - "Language and form: Bengali poem in 20 vilasas with later additions"
+    - "Place in the tradition: the main source on Srinivasa Acharya, Narottama Dasa and Shyamananda and on the sending of the Gosvamis’ books to Bengal; used with reservations (C)"
+    - "Our text: vilasas 1–23 and the letters, after the editions of 1913 and 1999"
+  about_ru:
+    - "«Игры любви» рассказывают о втором поколении: как Шриниваса, Нароттама и Шьямананда учились у Дживы Госвами во Вриндаване, как везли рукописи Госвами в Бенгалию и как их похитили, о празднике в Кхетури и проповеди в Вишнупуре. О временах Махапрабху — по преданию."
+  about_en:
+    - "The “Pastimes of love” tell of the second generation: how Srinivasa, Narottama and Shyamananda studied under Jiva Gosvami in Vrindavana, how the Gosvamis’ manuscripts were carried to Bengal and stolen, of the festival at Kheturi and the preaching in Vishnupur. Of Mahaprabhu’s time it tells by tradition."
+
+nityananda-vamsha:
+  facts_ru:
+    - "Автор: приписывается Вриндавану Дасу Тхакуру; большинство исследователей считают атрибуцию сомнительной и относят поэму к более позднему времени"
+    - "Язык и форма: бенгальская поэма в 10 главах (2251 двустишие)"
+    - "Издание: Кишори Дас Бабаджи (Халисахар, 2-е изд., 1991) — основа перевода"
+    - "Место в традиции: позднее предание рода Нитьянанды; используется с оговорками (C)"
+  facts_en:
+    - "Author: attributed to Vrindavana Dasa Thakura; most scholars consider the attribution doubtful and date the poem later"
+    - "Language and form: Bengali poem in 10 chapters (2251 couplets)"
+    - "Edition: Kishori Dasa Babaji (Halisahar, 2nd ed., 1991) — the basis of the translation"
+    - "Place in the tradition: a late tradition of Nityananda’s family; used with reservations (C)"
+  about_ru:
+    - "«Распространение рода Нитьянанды» — о женитьбе Нитьянанды на Васудхе и Джахнаве по велению Махапрабху, о рождении Вирачандры, о путешествиях Джахнавы-деви во Вриндаван и о проповеди Вирачандры. На авторство Вриндавана Даса указывает только предание; против него — хронологические несообразности (встречи Вирачандры с лицами, жившими раньше)."
+    - "В поэме Джахнава-деви часто называется «Прабху» — «Владычица», — так её именует и Вирачандра; это слово оригинала (প্রভু). В переводе при этом глаголы даны в женском роде."
+  about_en:
+    - "“The spreading of Nityananda’s family” tells of Nityananda’s marriage to Vasudha and Jahnava at Mahaprabhu’s order, of the birth of Virachandra, of Jahnava-devi’s journeys to Vrindavana and of Virachandra’s preaching. Only tradition points to Vrindavana Dasa as the author; against it are chronological inconsistencies (Virachandra meeting people who lived earlier)."
+    - "In the poem Jahnava-devi is often called “Prabhu” — “the Sovereign”, as Virachandra also addresses her; this is the word of the original (প্রভু)."
+
+bhakti-ratnakara:
+  facts_ru:
+    - "Автор: Нарахари Чакраварти (Гханашьяма Дас) — сын Джаганнатхи Чакраварти, ученика Вишванатхи Чакраварти; служил поваром у Говинды-девы во Вриндаване"
+    - "Время: XVIII в."
+    - "Язык и форма: бенгальская поэма в 15 волнах (тарангах) со множеством санскритских цитат"
+    - "Издания: 1888 (Берхампур), 1912–1913 (Муршидабад) — основа перевода; Гаудия-миссия"
+    - "Место в традиции: поздняя, но широко принятая традицией и Гаудия Матхом история Госвами и их преемников (B)"
+    - "Наш текст: таранги 1–4"
+  facts_en:
+    - "Author: Narahari Chakravarti (Ghanashyama Dasa), son of Jagannatha Chakravarti, a disciple of Vishvanatha Chakravarti; he served as cook of Govinda-deva in Vrindavana"
+    - "Date: 18th century"
+    - "Language and form: Bengali poem in 15 waves (tarangas) with many Sanskrit quotations"
+    - "Editions: 1888 (Berhampur), 1912–1913 (Murshidabad) — the basis of the translation; Gaudiya Mission"
+    - "Place in the tradition: a late but widely accepted (by the tradition and the Gaudiya Math) history of the Gosvamis and their successors (B)"
+    - "Our text: tarangas 1–4"
+  about_ru:
+    - "«Океан сокровищ преданности» — огромная летопись: жизнь шести Госвами, Шринивасы, Нароттамы и Шьямананды, их странствия, описания парикрамы по Враджу и Навадвипе с преданиями каждого места. Шрила Бхактисиддханта Сарасвати опирался на неё, восстанавливая Навадвипа-дхаму."
+  about_en:
+    - "The “Ocean of jewels of devotion” is a vast chronicle: the lives of the six Gosvamis, of Srinivasa, Narottama and Shyamananda, their travels, and descriptions of the parikramas of Vraja and Navadvipa with the traditions of each place. Srila Bhaktisiddhanta Sarasvati relied on it in restoring Navadvipa-dhama."
+
+narottama-vilasa:
+  facts_ru:
+    - "Автор: Нарахари Чакраварти"
+    - "Время: середина XVIII в."
+    - "Язык и форма: бенгальская поэма в 12 виласах"
+    - "Издание: ред. Ракхалдас Кавиратна (2-е изд.) — основа перевода"
+    - "Место в традиции: поздняя, но признанная (B); лилы Махапрабху — по преданию"
+  facts_en:
+    - "Author: Narahari Chakravarti"
+    - "Date: mid-18th century"
+    - "Language and form: Bengali poem in 12 vilasas"
+    - "Edition: ed. Rakhaldas Kaviratna (2nd ed.) — the basis of the translation"
+    - "Place in the tradition: late but recognised (B); Mahaprabhu’s pastimes by tradition"
+  about_ru:
+    - "Жизнь Нароттамы Даса Тхакура: его уход из дома, ученичество у Локанатхи Госвами во Вриндаване, возвращение в Бенгалию и великий праздник в Кхетури, где впервые установили Божества Гаура-Нитай и собрались спутники второго поколения."
+  about_en:
+    - "The life of Narottama Dasa Thakura: his leaving home, his discipleship under Lokanatha Gosvami in Vrindavana, his return to Bengal and the great festival at Kheturi, where the Deities of Gaura-Nitai were first installed and the associates of the second generation gathered."
+
+karnananda:
+  facts_ru:
+    - "Автор: Ядунандана Дас — ученик Хемалаты, дочери Шринивасы Ачарьи"
+    - "Время: по колофону 1607 г.; дата не согласуется с описанными событиями, в тексте есть поздние вставки"
+    - "Язык и форма: бенгальская поэма в 7 частях (нирьясах)"
+    - "Место в традиции: используется с оговорками (C); ценны перечни учеников Шринивасы"
+  facts_en:
+    - "Author: Yadunandana Dasa, disciple of Hemalata, daughter of Srinivasa Acharya"
+    - "Date: 1607 by the colophon; the date does not agree with the events described, and the text has later interpolations"
+    - "Language and form: Bengali poem in 7 parts (niryasas)"
+    - "Place in the tradition: used with reservations (C); its lists of Srinivasa’s disciples are valuable"
+  about_ru:
+    - "«Отрада для слуха» — о Шринивасе Ачарье, его семье и учениках, о ветви, которая распространила учение Госвами в Бенгалии и Вишнупуре; есть отрывки о сокровенном служении (манджари-бхаве)."
+  about_en:
+    - "The “Delight of the ears” tells of Srinivasa Acharya, his family and disciples, the branch that spread the Gosvamis’ teaching in Bengal and Vishnupur; it contains passages on the confidential service (manjari-bhava)."
+
+anuragavalli:
+  facts_ru:
+    - "Автор: Манохара Дас"
+    - "Время: 1696 г."
+    - "Язык и форма: бенгальская поэма в 8 частях (манджари)"
+    - "Издание: 2-е изд., Калькутта, 1912 — основа перевода"
+    - "Место в традиции: поздняя; во многом следует «Према-виласе» и «Карнананде» (C)"
+  facts_en:
+    - "Author: Manohara Dasa"
+    - "Date: 1696"
+    - "Language and form: Bengali poem in 8 parts (manjaris)"
+    - "Edition: 2nd ed., Calcutta, 1912 — the basis of the translation"
+    - "Place in the tradition: late; largely follows the Prema-vilasa and Karnananda (C)"
+  about_ru:
+    - "«Лиана любви» — о Шринивасе Ачарье и его ветви. Автор не был свидетелем событий и пишет по преданию, «услышанному из уст махантов», и по рукописям."
+  about_en:
+    - "The “Creeper of love” is about Srinivasa Acharya and his branch. The author was not a witness of the events and writes from tradition “heard from the lips of the mahantas” and from manuscripts."
+
+padas:
+  facts_ru:
+    - "Авторы: поэты-современники Махапрабху — Васу Гхош, Нарахари Саркар, Мурари Гупта, Парамананда Гупта и др.; атрибуция — по Б. Маджумдару"
+    - "Источники: «Пада-калпатару» (изд. 1915–1931), «Бхакти-ратнакара», «Гаура-пада-тарангини» и др. сборники"
+    - "Язык и форма: бенгальские песни (пады) на раги, о Гауре и его играх"
+    - "Место в традиции: свидетельства очевидцев; авторитетность — по каждой паде (от A до C)"
+    - "Наш текст: с бенгальским оригиналом, транслитерацией, пословным и разночтениями"
+  facts_en:
+    - "Authors: poets contemporary with Mahaprabhu — Vasu Ghosha, Narahari Sarakara, Murari Gupta, Paramananda Gupta and others; attribution after B. Majumdar"
+    - "Sources: Pada-kalpataru (ed. 1915–1931), Bhakti-ratnakara, Gaura-pada-tarangini and other collections"
+    - "Language and form: Bengali songs (padas) set to ragas, about Gaura and his pastimes"
+    - "Place in the tradition: eyewitness testimony; authority is assessed for each pada (from A to C)"
+    - "Our text: with the Bengali original, transliteration, word-for-word and variant readings"
+  about_ru:
+    - "Песни тех, кто видел Господа: явление Гауры, его детство, санньяса, разлука навадвипских преданных, киртан. Многие пады до сих пор поются в киртанах; они — самые ранние свидетельства того, как спутники переживали лилы Махапрабху."
+  about_en:
+    - "Songs of those who saw the Lord: Gaura’s appearance, his childhood, the sannyasa, the separation of the devotees of Navadvipa, kirtana. Many padas are still sung in kirtanas; they are the earliest testimony of how the associates experienced Mahaprabhu’s pastimes."
+
+stotras:
+  facts_ru:
+    - "Авторы: Рагхунатха Дас Госвами («Шачисуну-аштака», «Гауранга-става-калпатару», шлоки «Става-вали»), Рупа Госвами (три «Чайтаньяштаки» из «Става-малы»); «Шикшаштака» Шри Чайтаньи (из «Падьявали»)"
+    - "Язык: санскрит"
+    - "Издания: «Става-мала» — Kāvyamālā № 84 (1903); «Падьявали» — 1911; «Става-вали» — изд. Пуридаса (1947)"
+    - "Место в традиции: сочинения спутников-очевидцев (A)"
+  facts_en:
+    - "Authors: Raghunatha Dasa Gosvami (Shachisunu-ashtaka, Gauranga-stava-kalpataru, verses of the Stava-vali), Rupa Gosvami (three Chaitanyashtakas from the Stava-mala); the Shikshashtaka of Sri Chaitanya (from the Padyavali)"
+    - "Language: Sanskrit"
+    - "Editions: Stava-mala — Kāvyamālā no. 84 (1903); Padyavali — 1911; Stava-vali — ed. Puridasa (1947)"
+    - "Place in the tradition: works of eyewitness associates (A)"
+  about_ru:
+    - "Гимны тех, кто жил рядом с Господом: Рупа Госвами провёл с Ним в Пури около десяти месяцев, Рагхунатха Дас — шестнадцать лет. В гимнах — короткие, но точные упоминания лил Пури, на которые опирается «Чайтанья-чаритамрита». «Шикшаштака» — восемь наставлений Самого Махапрабху."
+  about_en:
+    - "Hymns of those who lived near the Lord: Rupa Gosvami spent about ten months with him in Puri, Raghunatha Dasa sixteen years. The hymns contain brief but precise mentions of the Puri pastimes on which the Chaitanya-charitamrita relies. The Shikshashtaka is Mahaprabhu’s own eight instructions."
+
+vaishnava-vandana:
+  facts_ru:
+    - "Состав: санскритская вандана, приписываемая Дживе Госвами; бенгальская «Вайшнава-вандана» Девакинанданы Даса (XVI в.); «Первая вандана» и вандана «второго» Вриндавана Даса (изд. 1910)"
+    - "Форма: перечни спутников с краткими характеристиками — поклонения вайшнавам"
+    - "Место в традиции: принятые традицией перечни (B)"
+  facts_en:
+    - "Contents: the Sanskrit vandana attributed to Jiva Gosvami; the Bengali Vaishnava-vandana of Devakinandana Dasa (16th c.); the “First vandana” and the vandana of the “second” Vrindavana Dasa (ed. 1910)"
+    - "Form: lists of associates with brief characterisations — salutations to the Vaishnavas"
+    - "Place in the tradition: lists accepted by the tradition (B)"
+  about_ru:
+    - "Ванданы — славословия вайшнавам: поэт поимённо кланяется спутникам Махапрабху и Нитьянанды и в одной-двух строках говорит о каждом. Это ценный источник о том, кого и за что помнила ранняя традиция."
+  about_en:
+    - "Vandanas are salutations to the Vaishnavas: the poet bows by name to the associates of Mahaprabhu and Nityananda and says a line or two about each. They are a valuable source on whom the early tradition remembered and why."
+
+vallabha:
+  facts_ru:
+    - "Состав: варты (рассказы) традиции Валлабхи (XVII в.), «Валлабха-дигвиджая» Ядунатхи (1610), «Бхактамалы» Набхадаса (ок. 1600) и др. с толкованиями"
+    - "Место в традиции: предания других традиций о Шри Чайтанье, с анахронизмами (D)"
+  facts_en:
+    - "Contents: vartas (stories) of the Vallabha tradition (17th c.), Yadunatha’s Vallabha-digvijaya (1610), Nabhadasa’s Bhaktamala (c. 1600) and others with their commentaries"
+    - "Place in the tradition: traditions of other schools about Sri Chaitanya, with anachronisms (D)"
+  about_ru:
+    - "Как видели Шри Чайтанью вне гаудия-традиции: рассказы о встречах с Валлабхачарьей, похвальные строфы «Бхактамал». Собраны для полноты; как источник о лилах — недостоверны."
+  about_en:
+    - "How Sri Chaitanya was seen outside the Gaudiya tradition: stories of meetings with Vallabhacharya and verses of praise in the Bhaktamalas. Collected for completeness; as a source on the pastimes they are unreliable."
+
+vaishnava-lilamrita:
+  facts_ru:
+    - "Автор: Мадхава Паттанаяк — по самому тексту, ученик Гададхары Пандита, живший в Пури при Господе"
+    - "Время: ок. 1535 г."
+    - "Язык: ория"
+    - "Издание: сводное издание Б. Ч. Ачарьи (1986), по поздним пальмолистовым спискам"
+    - "Место в традиции: в гаудия-традиции не цитируется; содержит орийские предания (C)"
+    - "Наш текст: пилотный перевод отрывка (гл. 4, 28–81)"
+  facts_en:
+    - "Author: Madhava Pattanayak — according to the text itself, a disciple of Gadadhara Pandita who lived in Puri in the Lord’s time"
+    - "Date: c. 1535"
+    - "Language: Oriya"
+    - "Edition: the collected edition of B. Ch. Acharya (1986), from late palm-leaf copies"
+    - "Place in the tradition: not quoted in the Gaudiya tradition; contains Oriya traditions (C)"
+    - "Our text: a pilot translation of a passage (ch. 4, 28–81)"
+  about_ru:
+    - "Орийское свидетельство о приходе Шри Чайтаньи в Пури. Перевод пилотный — первая проба работы с орийскими текстами."
+  about_en:
+    - "An Oriya testimony of Sri Chaitanya’s arrival in Puri. The translation is a pilot — a first trial of working with Oriya texts."

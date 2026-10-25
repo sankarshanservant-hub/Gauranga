@@ -169,8 +169,15 @@ def main():
     os.makedirs(OUT)
     index = {'groups': [{'id': g, 'title': r, 'title_en': e} for g, r, e in GROUPS], 'books': [], 'files': {}}
     total = 0
+    import yaml
+    info = yaml.safe_load(open(os.path.join(ROOT, 'site/content/books.yaml'), encoding='utf-8')) or {}
     for b in BOOKS:
         entry = {k: b.get(k, '') for k in ('id', 'group', 'title', 'title_en', 'author', 'author_en', 'note', 'note_en')}
+        inf = info.get(b['id'])
+        if inf:
+            entry['info'] = {k: [mdhtml.inline(x) for x in inf.get(k, [])] for k in ('facts_ru', 'facts_en', 'about_ru', 'about_en')}
+        else:
+            print('нет справки:', b['id'])
         os.makedirs(os.path.join(OUT, b['id']))
         for lang in ('ru', 'en'):
             chs = chapters_of(b, lang)
