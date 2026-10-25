@@ -35,6 +35,7 @@
   <div class="top__nav">
     <nav class="tabs" aria-label="Разделы">
       <button type="button" data-tab="lilas" data-i18n="tabLilas" aria-current="page">Лилы</button>
+      <button type="button" data-tab="lib" data-i18n="tabLib">Писания</button>
       <button type="button" data-tab="map" data-i18n="tabMap">Карта</button>
       <button type="button" data-tab="people" data-i18n="tabPeople">Спутники</button>
     </nav>
@@ -59,6 +60,23 @@
 
 </div>
 
+<div class="view view--sheet" id="view-lib" hidden>
+  <div class="sheet sheet--lib">
+    <aside class="lib-side" id="lib-side" aria-label="Писания и оглавление"></aside>
+    <section class="lib-main" id="lib-main">
+      <div class="lib-bar" id="lib-bar" hidden>
+        <button type="button" class="lib-toc-btn" id="lib-toc-btn" data-i18n="libToc">Оглавление</button>
+        <div class="layers lib-layers" id="lib-layers" role="group"></div>
+        <div class="lib-nav">
+          <button type="button" class="scroll__nav" id="lib-prev" aria-label="Предыдущая глава">←</button>
+          <button type="button" class="scroll__nav" id="lib-next" aria-label="Следующая глава">→</button>
+        </div>
+      </div>
+      <div class="lib-read" id="lib-read" tabindex="0"></div>
+    </section>
+  </div>
+</div>
+
 <div class="view view--sheet" id="view-map" hidden>
   <div class="sheet sheet--map">
     <div id="map" class="map" role="region" aria-label="Карта лил"></div>
@@ -76,6 +94,7 @@
       <h2 class="people-title" data-i18n="peopleTitle">Спутники и участники лил</h2>
       <label class="people-search"><span class="sr" data-i18n="search">Поиск</span>
         <input type="search" id="people-q" autocomplete="off" placeholder="Поиск по имени"></label>
+      <label class="map-toggle people-art"><input type="checkbox" id="people-art"> <span id="people-art-l">Только с жизнеописанием</span></label>
     </div>
     <div class="people-list" id="people-list"></div>
   </div>

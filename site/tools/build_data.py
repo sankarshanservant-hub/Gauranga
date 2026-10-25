@@ -6,6 +6,7 @@ RU и EN. Оригинал и пословный берутся из самог�
 Лочан, пады). Запуск: python3 site/tools/build_data.py  →  site/data/timeline.json (эпизоды, лилы, перечни
 писаний — грузится сразу) и site/data/verses/<эпизод>.json (стихи — подгружаются при чтении).
 """
+import glob
 import json
 import os
 import re
@@ -47,8 +48,23 @@ def episode_of(ev):
     return None
 
 
+# На сайт не идут: «Чайтанья-бхагавата» — изданный современный перевод (Сарасват Матх, 2006), не наш (CLAUDE.md);
+# до подтверждения прав пользователем.
+EXCLUDE_SOURCES = {'cb'}
+
 # Краткие названия писаний для сайта (RU, EN, автор RU, автор EN)
 SOURCES = {
+    'cc': ('Шри Чайтанья-чаритамрита', 'Sri Chaitanya-charitamrita', 'Кришнадас Кавирадж Госвами', 'Krishnadasa Kaviraja Gosvami'),
+    'anuragavalli': ('Анурага-валли', 'Anuraga-valli', 'Манохара Дас', 'Manohara Dasa'),
+    'prema-vivarta': ('Шри Према-виварта', 'Sri Prema-vivarta', 'приписывается Джагадананде Пандиту', 'attributed to Jagadananda Pandita'),
+    'chaitanya-upanishad': ('Шри Чайтанья-упанишад', 'Sri Chaitanya Upanishad', 'Атхарваведа', 'Atharva Veda'),
+    'jagannatha-vallabha': ('Шри Джаганнатха-валлабха-натака', 'Sri Jagannatha-vallabha-nataka', 'Рамананда Рай', 'Ramananda Raya'),
+    'govinda-karcha': ('Кадача Говинды Даса', 'The Kadacha of Govinda Dasa', 'приписывается Говинде Дасу', 'attributed to Govinda Dasa'),
+    'narottama-vilasa': ('Нароттама-виласа', 'Narottama-vilasa', 'Нарахари Чакраварти', 'Narahari Chakravarti'),
+    'karnananda': ('Карнананда', 'Karnananda', 'Ядунандана Дас', 'Yadunandana Dasa'),
+    'bhaktamal': ('Бхактамалы', 'Bhaktamalas', 'Набхадас и др.', 'Nabhadasa and others'),
+    'vallabha-varta': ('Варты Валлабхи', 'Vallabha vartas', 'традиция Валлабхи', 'Vallabha tradition'),
+    'vaishnava-lilamrita': ('Вайшнава-лиламрита', 'Vaishnava-lilamrita', 'Мадхава Паттанаяк', 'Madhava Pattanayak'),
     'murari-kcc': ('Шри Кришна-Чайтанья-чаритамрита', 'Sri Krishna-Chaitanya-charitamrita', 'Мурари Гупта', 'Murari Gupta'),
     'karnapura-ckm': ('Чайтанья-чарита-махакавья', 'Chaitanya-charita-mahakavya', 'Кави Карнапура', 'Kavi Karnapura'),
     'chaitanya-chandrodaya': ('Чайтанья-чандродая', 'Chaitanya-chandrodaya', 'Кави Карнапура', 'Kavi Karnapura'),
@@ -264,8 +280,9 @@ def passage(e):
         if vr.get('file_en') and lines_of(vr['file_en']):
             rng = lines_from_url(vr.get('url_en')) or (vr['line'], vr['line_to'])
             en += build_side(vr['file_en'], rng[0], rng[1], full_for(vr['file_en'], 'en'))
+    vr0 = (e.get('verses_resolved') or [{}])[0]
     p = {'id': e['id'], 'ref': e['ref'], 'title': e['title'], 'summary': e.get('summary', ''),
-         'authority': e.get('authority'), 'verses': ru}
+         'authority': e.get('authority'), 'verses': ru, 'file': vr0.get('file'), 'from': vr0.get('from')}
     if en: p['verses_en'] = en
     if e['source'] == 'padas':
         p['poet'] = e['ref'].split(',')[0]
@@ -361,6 +378,59 @@ def build_places(events_out):
     return out
 
 
+def add_articles(people_out, reg):
+    """Статьи о спутниках (parshadas/ru|en/*.md — сводные жизнеописания) → site/data/parshadas/<тег>-<lang>.json.
+    У спутника со статьёй временный текст-заглушка убирается; ачарьи-преемники, не участвующие в лилах, добавляются
+    в реестр сайта (группа «Ачарьи-преемники»). Даты и места явления и ухода — из parshadas/export/persons.json."""
+    import sys
+    sys.path.insert(0, os.path.dirname(__file__))
+    import mdhtml
+    exp = {p['id']: p for p in json.load(open(os.path.join(ROOT, 'parshadas/export/persons.json'), encoding='utf-8'))}
+    out_dir = os.path.join(DATA, 'parshadas')
+    os.makedirs(out_dir, exist_ok=True)
+    for f in os.listdir(out_dir):
+        os.remove(os.path.join(out_dir, f))
+    def used(tag):
+        return bool(people_out.get(tag, {}).get('_used'))
+    n = 0
+    for lang in ('ru', 'en'):
+        for f in sorted(glob.glob(os.path.join(ROOT, 'parshadas', lang, '*.md'))):
+            md = open(f, encoding='utf-8').read()
+            m = re.search(r'(@[a-z0-9-]+)', md.split('\n', 2)[1] if md.count('\n') > 1 else '')
+            if not m:
+                continue
+            tag = m.group(1)
+            body = re.sub(r'^\*[^\n]*@[a-z0-9-]+\*\s*$', '', md, count=1, flags=re.M)   # строка «имя · @тег»
+            title, h = mdhtml.render(body, lang=lang)
+            json.dump({'title': title, 'html': h}, open(os.path.join(out_dir, f'{tag[1:]}-{lang}.json'), 'w', encoding='utf-8'),
+                      ensure_ascii=False, separators=(',', ':'))
+            n += 1
+            p = people_out.get(tag)
+            if p is None:
+                r = reg.get(tag) or {}
+                e = exp.get(tag, {}).get('names', {})
+                p = people_out[tag] = {'name': r.get('name') or e.get('ru') or title, 'name_en': r.get('name_en') or e.get('en') or title,
+                                       'section': r.get('section', 'Спутники'), 'note': re.sub(r'\s*\{[^}]*\}', '', r.get('note', '')).strip(' ;,·')}
+            p.setdefault('article', [])
+            p['article'].append(lang)
+            p.pop('bio', None); p.pop('bio_en', None)
+            x = exp.get(tag)
+            if x:
+                if x.get('kind') == 'acharya':
+                    p['section'] = 'Ачарьи-преемники' if 'later' in (x.get('circle') or []) else \
+                        ('Ачарьи-предшественники' if p['section'] in ('Аллегорические лица', 'Спутники') and not used(tag) else p['section'])
+                elif p['section'] == 'Аллегорические лица':   # строка дописана в конец PERSONS.md, после этого раздела
+                    p['section'] = 'Спутники'
+                life = {}
+                for k in ('appearance', 'disappearance'):
+                    v = (x.get('life') or {}).get(k) or {}
+                    if v.get('date') or v.get('place'):
+                        life[k] = {'date': v.get('date', ''), 'place': v.get('place', '')}
+                if life:
+                    p['life'] = life
+    print('статей о спутниках:', n)
+
+
 def ggd_verses():
     t = open(os.path.join(ROOT, 'gaura-ganoddesha/Gaura-Ganoddesha-Dipika-ru.md'), encoding='utf-8').read()
     return {m.group(1): md_inline(strip_fn(m.group(2))) for m in re.finditer(r'^\*\*(\d+)\.\*\* (.+)$', t, re.M)}
@@ -374,7 +444,7 @@ def main():
     events.sort(key=lambda e: (pord.index(e['period']) if e['period'] in pord else 99, e.get('order') or 0))
     by_ev = {}
     for e in L:
-        if e.get('event'): by_ev.setdefault(e['event'], []).append(e)
+        if e.get('event') and e['source'] not in EXCLUDE_SOURCES: by_ev.setdefault(e['event'], []).append(e)
     order = list(SOURCES)
     eps = {eid: {'id': eid, 'title': t, 'title_en': te, 'events': []} for eid, t, te, _, _ in EPISODES}
     verses = {eid: {} for eid in eps}
@@ -430,11 +500,16 @@ def main():
     for t in sorted(used_people):
         r = reg[t]
         b = bios.get(t[1:]) or {}
-        d = {'name': r['name'], 'name_en': r['name_en'], 'section': r['section'], 'note': r['note']}
+        d = {'name': r['name'], 'name_en': r['name_en'], 'section': r['section'],
+             'note': re.sub(r'\s*\{[^}]*\}', '', r['note']).strip(' ;,·')}   # служебные пометки {карточка: …} — не для сайта
         if b.get('bio_ru'): d['bio'] = [md_inline(x.strip()) for x in b['bio_ru'].split('\n\n') if x.strip()]
         if b.get('bio_en'): d['bio_en'] = [md_inline(x.strip()) for x in b['bio_en'].split('\n\n') if x.strip()]
         if b.get('ggd'): d['ggd'] = [{'n': str(n), 'text': ggd[str(n)]} for n in b['ggd'] if str(n) in ggd]
+        d['_used'] = True
         people_out[t] = d
+    add_articles(people_out, reg)
+    for d in people_out.values():
+        d.pop('_used', None)
     json.dump(people_out, open(os.path.join(DATA, 'persons.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     pl = build_places([ev for e in out for ev in e['events']])
     tl = os.path.join(DATA, 'timeline.json')

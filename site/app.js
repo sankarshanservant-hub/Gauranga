@@ -20,14 +20,19 @@
       draft: 'Временный текст — будет заменён описанием из выбранных источников.', noBio: 'Описание готовится.',
       ggd: '«Гаура-ганоддеша-дипика» Кави Карнапуры — кем был прежде', ggdOnlyRu: '',
       of: (i, n) => `${i} из ${n}`,
-      tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники',
+      tabLilas: 'Лилы', tabMap: 'Карта', tabPeople: 'Спутники', tabLib: 'Писания',
+      libToc: 'Оглавление', libAll: '← Все писания', libTitle: 'Писания', libIntro: 'Все наши переводы — целиком, по главам. Выберите писание слева.',
+      libChapters: n => `${n} ${plural(n, 'глава', 'главы', 'глав')}`, libEn: '', libNoEn: '', libStart: 'Читать с начала',
+      libRuOnly: '', readChapter: 'Читать главу целиком →', hintLib: 'Выберите писание и главу. Кнопки над текстом включают оригинал, транслитерацию, пословный перевод и примечания.',
+      article: 'Жизнеописание', loadingArticle: 'Загружаю жизнеописание…', withArticle: 'Только с жизнеописанием',
+      appearance: 'Явление', disappearance: 'Уход', hasArticle: 'жизнеописание',
       mapNote: 'Прототип. Координаты мест предварительные (OpenStreetMap) и ещё сверяются по топокартам 1955 г.',
       amsLayer: 'Топокарта 1955 г. (лист «Бурдван»)', peopleTitle: 'Спутники и участники лил', search: 'Поиск',
       searchPh: 'Поиск по имени', place: 'Место лил', allLilas: n => `Лилы · ${n}`, allPlaces: n => `Места · ${n}`,
       onMap: 'Места на карте', openPerson: 'Все лилы и места спутника →', noPlaces: 'Мест с координатами пока нет.',
       geoStatus: { tradition: 'место по традиции', approx: 'приблизительно', unverified: 'координата предварительная, не сверена' },
       within: 'Святые места внутри', focus: n => `Места: ${n}`, clear: 'Показать все места',
-      sections: { 'Семья': 'Семья Господа', 'Спутники': 'Спутники', 'Небожители и мудрецы': 'Небожители и мудрецы', 'Господь и Его формы': 'Божества и формы Господа' },
+      sections: { 'Семья': 'Семья Господа', 'Спутники': 'Спутники', 'Ачарьи-предшественники': 'Ачарьи-предшественники', 'Ачарьи-преемники': 'Ачарьи-преемники', 'Небожители и мудрецы': 'Небожители и мудрецы', 'Господь и Его формы': 'Божества и формы Господа' },
       hintMap: 'Нажмите на место, чтобы увидеть его лилы. Колесо или щипок — масштаб.',
       hintPeople: 'Нажмите на имя, чтобы увидеть лилы спутника и его места на карте.',
     },
@@ -48,14 +53,19 @@
       draft: 'Provisional text — to be replaced with descriptions from the chosen sources.', noBio: 'Description in preparation.',
       ggd: 'Gaura-ganoddesha-dipika of Kavi Karnapura — who they were before', ggdOnlyRu: 'Translated into Russian only so far.',
       of: (i, n) => `${i} of ${n}`,
-      tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates',
+      tabLilas: 'Pastimes', tabMap: 'Map', tabPeople: 'Associates', tabLib: 'Scriptures',
+      libToc: 'Contents', libAll: '← All scriptures', libTitle: 'Scriptures', libIntro: 'All our translations, complete, chapter by chapter. Choose a scripture on the left.',
+      libChapters: n => `${n} chapter${n === 1 ? '' : 's'}`, libEn: 'EN', libNoEn: 'Russian only so far', libStart: 'Start reading',
+      libRuOnly: 'No English translation yet — shown in Russian.', readChapter: 'Read the whole chapter →', hintLib: 'Choose a scripture and a chapter. The buttons above the text turn on the original, transliteration, word-for-word and notes.',
+      article: 'Life', loadingArticle: 'Loading the life…', withArticle: 'Only with a full life',
+      appearance: 'Appearance', disappearance: 'Departure', hasArticle: 'life',
       mapNote: 'Prototype. Place coordinates are provisional (OpenStreetMap) and are being checked against 1955 topographic maps.',
       amsLayer: 'Topographic map, 1955 (sheet “Burdwan”)', peopleTitle: 'Associates and participants of the pastimes', search: 'Search',
       searchPh: 'Search by name', place: 'Place of pastimes', allLilas: n => `Pastimes · ${n}`, allPlaces: n => `Places · ${n}`,
       onMap: 'Places on the map', openPerson: 'All pastimes and places →', noPlaces: 'No places with coordinates yet.',
       geoStatus: { tradition: 'place according to tradition', approx: 'approximate', unverified: 'provisional coordinate, not yet checked' },
       within: 'Holy places within', focus: n => `Places: ${n}`, clear: 'Show all places',
-      sections: { 'Семья': 'The Lord’s family', 'Спутники': 'Associates', 'Небожители и мудрецы': 'Celestials and sages', 'Господь и Его формы': 'Deities and forms of the Lord' },
+      sections: { 'Семья': 'The Lord’s family', 'Спутники': 'Associates', 'Ачарьи-предшественники': 'Earlier acharyas', 'Ачарьи-преемники': 'Acharyas of the succession', 'Небожители и мудрецы': 'Celestials and sages', 'Господь и Его формы': 'Deities and forms of the Lord' },
       hintMap: 'Tap a place to see its pastimes. Wheel or pinch to zoom.',
       hintPeople: 'Tap a name to see the associate’s pastimes and places on the map.',
     },
@@ -314,10 +324,39 @@
     markCurrentBook();
     $('r-close').focus({ preventScroll: true });
   }
+  function lifeLine(p) {
+    const tt = t(), l = p.life;
+    if (!l) return '';
+    const part = (k, lab) => {
+      const v = l[k]; if (!v) return '';
+      const pl = v.place && S.places && S.places[v.place] ? L(S.places[v.place], 'name') : '';
+      return `<span><b>${lab}:</b> ${esc([v.date, pl].filter(Boolean).join(' · '))}</span>`;
+    };
+    return `<p class="person__life">${part('appearance', tt.appearance)}${part('disappearance', tt.disappearance)}</p>`;
+  }
+  const ARTICLES = {};
+  function loadArticle(tag) {
+    const p = (S.persons || {})[tag] || {}, lang = S.lang === 'en' && (p.article || []).includes('en') ? 'en' : 'ru';
+    const key = tag.slice(1) + '-' + lang;
+    if (!ARTICLES[key]) ARTICLES[key] = fetch(`data/parshadas/${key}.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch(err => { delete ARTICLES[key]; throw err; });
+    return ARTICLES[key];
+  }
   function personBody(tag) {
     const tt = t(), p = (S.persons || {})[tag] || {};
+    if (p.article) {
+      const box = `art-${tag.slice(1)}-${Date.now()}`;
+      loadArticle(tag).then(a => { const el = document.getElementById(box); if (el) el.innerHTML = a.html; })
+        .catch(() => { const el = document.getElementById(box); if (el) el.innerHTML = `<p class="person__draft">${tt.failed}</p>`; });
+      let h = lifeLine(p) + `<div class="article" id="${box}"><p class="person__draft">${tt.loadingArticle}</p></div>`;
+      if (p.ggd && p.ggd.length) {
+        h += ORN + `<h4 class="person__src">${tt.ggd}</h4>` + (tt.ggdOnlyRu ? `<p class="passage__noen">${tt.ggdOnlyRu}</p>` : '');
+        h += p.ggd.map(v => `<p class="verse__text"><span class="verse__n">${esc(v.n)}</span>${v.text}</p>`).join('');
+      }
+      return h;
+    }
     const bio = (S.lang === 'en' && p.bio_en) || p.bio;
-    let h = `<h4 class="person__src">${tt.bio}</h4>`;
+    let h = lifeLine(p) + `<h4 class="person__src">${tt.bio}</h4>`;
     h += bio ? bio.map(x => `<p class="verse__text">${x}</p>`).join('') + `<p class="person__draft">${tt.draft}</p>` : `<p class="person__draft">${tt.noBio}</p>`;
     if (p.ggd && p.ggd.length) {
       h += ORN + `<h4 class="person__src">${tt.ggd}</h4>` + (tt.ggdOnlyRu ? `<p class="passage__noen">${tt.ggdOnlyRu}</p>` : '');
@@ -378,7 +417,9 @@
         if (S.layers.notes && v.notes && v.notes.length) h += `<div class="verse__notes">${v.notes.map(n => `<p>${n}</p>`).join('')}</div>`;
         return h ? `<div class="verse">${h}</div>` : '';
       }).filter(Boolean).join(ORN);
-      return `<section class="passage">${head}${note}${body}</section>`;
+      const loc = LIB.index && p.file && LIB.index.files[p.file];
+      const more = loc ? `<p class="passage__more"><button type="button" class="link-btn" data-lib="${loc[0]}|${loc[1]}|${loc[2]}|${esc(p.from || '')}">${tt.readChapter}</button></p>` : '';
+      return `<section class="passage">${head}${note}${body}${more}</section>`;
     }).join(ORN);
     $('r-ref').textContent = passages.length === 1 ? passages[0].ref : tt.passages(passages.length);
   }
@@ -457,6 +498,13 @@
     $('r-ref').textContent = ''; $('r-prev').disabled = $('r-next').disabled = true;
   }
   $('r-body').addEventListener('click', e => {
+    const lb = e.target.closest('[data-lib]');
+    if (lb) {
+      const [book, lang, idx, from] = lb.dataset.lib.split('|');
+      closeReader(); showTab('lib'); openLib(book, +idx, from, lang); return;
+    }
+    const fa = e.target.closest('.article sup.fn a');
+    if (fa) { e.preventDefault(); const el = $('r-body').querySelector('#fn-' + fa.dataset.fn); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
     const g = e.target.closest('[data-goto-lila]');
     if (g) { closeReader(); showTab('lilas'); openLila(g.dataset.gotoLila, true, true); return; }
     const op = e.target.closest('[data-open-person]');
@@ -464,17 +512,19 @@
   });
 
   /* ——— вкладки ——— */
-  const TABS = ['lilas', 'map', 'people'];
+  const TABS = ['lilas', 'lib', 'map', 'people'];
   function showTab(tab, push = true) {
     S.tab = tab;
     TABS.forEach(x => { $('view-' + x).hidden = x !== tab; });
     document.querySelectorAll('.tabs button').forEach(b => b.setAttribute('aria-current', b.dataset.tab === tab ? 'page' : 'false'));
     document.body.dataset.tab = tab;
     const hint = document.querySelector('.foot .hint');
-    hint.textContent = tab === 'map' ? t().hintMap : tab === 'people' ? t().hintPeople : t().hint;
+    hint.textContent = tab === 'map' ? t().hintMap : tab === 'people' ? t().hintPeople : tab === 'lib' ? t().hintLib : t().hint;
     if (tab === 'map') initMap();
     if (tab === 'people') renderPeopleList();
-    if (push && tab !== 'lilas') history.replaceState(null, '', '#' + tab);
+    if (tab === 'lib') renderLib();
+    if (push && tab === 'lib') libHash();
+    else if (push && tab !== 'lilas') history.replaceState(null, '', '#' + tab);
     if (push && tab === 'lilas') history.replaceState(null, '', '#' + (S.open || S.ep || ''));
   }
   document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => {
@@ -484,26 +534,30 @@
   jump.addEventListener('change', () => { if (S.tab !== 'lilas') showTab('lilas'); }, true);
 
   /* ——— спутники ——— */
-  const SECTION_ORDER = ['Семья', 'Спутники', 'Небожители и мудрецы', 'Господь и Его формы'];
+  const SECTION_ORDER = ['Семья', 'Спутники', 'Ачарьи-предшественники', 'Ачарьи-преемники', 'Небожители и мудрецы', 'Господь и Его формы'];
   function renderPeopleList() {
     if (!S.persons || !S.data) return;
     const q = ($('people-q').value || '').trim().toLowerCase();
     $('people-q').placeholder = t().searchPh;
     const count = {};
     S.data.episodes.forEach(ep => ep.events.forEach(e => (e.persons || []).forEach(p => { count[p] = (count[p] || 0) + 1; })));
-    const groups = {};
+    const groups = {}, onlyArt = $('people-art') && $('people-art').checked;
+    if ($('people-art-l')) $('people-art-l').textContent = t().withArticle;
     Object.entries(S.persons).forEach(([tag, p]) => {
       if (q && !(p.name + ' ' + p.name_en + ' ' + (p.note || '')).toLowerCase().includes(q)) return;
+      if (onlyArt && !p.article) return;
       (groups[p.section] = groups[p.section] || []).push(tag);
     });
     $('people-list').innerHTML = SECTION_ORDER.filter(s => groups[s]).map(sec => {
-      const tags = groups[sec].sort((a, b) => (count[b] || 0) - (count[a] || 0) || pname(a).localeCompare(pname(b)));
+      const art = tag => (S.persons[tag].article ? 1 : 0);
+      const tags = groups[sec].sort((a, b) => art(b) - art(a) || (count[b] || 0) - (count[a] || 0) || pname(a).localeCompare(pname(b)));
       return `<section class="people-group"><h3>${t().sections[sec]} <span>· ${tags.length}</span></h3><div class="people-grid">` +
-        tags.map(tag => `<button type="button" class="book person-card" data-person-open="${tag}"><span class="book__t">${esc(pname(tag))}</span><span class="book__author">${t().allLilas(count[tag] || 0)}</span></button>`).join('') +
+        tags.map(tag => `<button type="button" class="book person-card" data-person-open="${tag}"><span class="book__t">${esc(pname(tag))}</span><span class="book__author">${S.persons[tag].article ? `<b class="art-badge">✦ ${t().hasArticle}</b> · ` : ''}${t().allLilas(count[tag] || 0)}</span></button>`).join('') +
         '</div></section>';
     }).join('');
   }
   $('people-q').addEventListener('input', renderPeopleList);
+  if ($('people-art')) $('people-art').addEventListener('change', renderPeopleList);
   $('people-list').addEventListener('click', e => { const b = e.target.closest('[data-person-open]'); if (b) openPerson(b.dataset.personOpen); });
 
   /* ——— карта ——— */
@@ -586,6 +640,100 @@
     go();
   });
 
+  /* ——— читалка: все наши переводы целиком ——— */
+  const LIB = { index: null, book: null, ch: null, cache: {}, toc: false };
+  fetch('data/library/index.json').then(r => r.json()).then(ix => { LIB.index = ix; renderReader(); if (S.tab === 'lib') renderLib(); }).catch(() => {});
+  const libBook = id => LIB.index && LIB.index.books.find(b => b.id === id);
+  function libLang(b) { return S.lang === 'en' && b.en && b.en.length ? 'en' : 'ru'; }
+  function libHash() { history.replaceState(null, '', '#lib' + (LIB.book ? '/' + LIB.book + (LIB.ch != null ? '/' + (LIB.ch + 1) : '') : '')); }
+  function openLib(bookId, idx, from, lang) {
+    LIB.book = bookId; LIB.ch = idx; LIB.anchor = from || null; LIB.toc = false;
+    if (lang === 'en' && S.lang !== 'en') { /* ссылка из английской версии */ }
+    renderLib(); libHash();
+  }
+  function renderLib() {
+    if (!LIB.index) { $('lib-read').innerHTML = `<p class="scroll__msg">${t().loading}</p>`; return; }
+    const tt = t(), side = $('lib-side');
+    const b = LIB.book && libBook(LIB.book);
+    $('view-lib').classList.toggle('is-reading-book', !!(b && LIB.ch != null) && !LIB.toc);
+    if (!b) {
+      side.innerHTML = `<h2 class="lib-h">${tt.libTitle}</h2>` + LIB.index.groups.map(g => {
+        const books = LIB.index.books.filter(x => x.group === g.id);
+        return books.length ? `<h3 class="lib-group">${esc(L(g, 'title'))}</h3>` + books.map(x =>
+          `<button type="button" class="book lib-book" data-book="${x.id}"><span class="book__t">${esc(L(x, 'title'))}</span>` +
+          `<span class="book__author">${esc(L(x, 'author'))}${x.author ? ' · ' : ''}${tt.libChapters(x.ru.length)}${S.lang === 'en' && !x.en.length ? ' · ' + tt.libNoEn : ''}</span></button>`).join('') : '';
+      }).join('');
+      $('lib-bar').hidden = true;
+      $('lib-read').innerHTML = `<div class="lib-cover"><h2>${tt.libTitle}</h2><p>${tt.libIntro}</p>${ORN}</div>`;
+      return;
+    }
+    const lang = libLang(b), chs = b[lang];
+    if (LIB.ch != null) LIB.ch = Math.max(0, Math.min(chs.length - 1, LIB.ch));
+    side.innerHTML = `<button type="button" class="link-btn lib-back" data-book="">${tt.libAll}</button>` +
+      `<h2 class="lib-h">${esc(L(b, 'title'))}</h2><p class="lib-author">${esc(L(b, 'author'))}</p>` +
+      (L(b, 'note') ? `<p class="person__draft">${esc(L(b, 'note'))}</p>` : '') +
+      (S.lang === 'en' && lang === 'ru' ? `<p class="passage__noen">${tt.libRuOnly}</p>` : '') +
+      `<ol class="lib-toc">` + chs.map((c, i) => `<li><button type="button" class="link-btn${i === LIB.ch ? ' is-cur' : ''}" data-ch="${i}">${esc(c.t)}</button></li>`).join('') + '</ol>';
+    const cur = side.querySelector('.is-cur'); if (cur) cur.scrollIntoView({ block: 'center' });
+    if (LIB.ch == null) {
+      $('lib-bar').hidden = true;
+      $('lib-read').innerHTML = `<div class="lib-cover"><h2>${esc(L(b, 'title'))}</h2><p class="lib-author">${esc(L(b, 'author'))}</p>` +
+        `${ORN}<p>${tt.libChapters(chs.length)}</p><button type="button" class="people-btn lib-start" data-ch="0">${tt.libStart}</button></div>`;
+      return;
+    }
+    $('lib-bar').hidden = false;
+    const c = chs[LIB.ch];
+    $('lib-layers').innerHTML = LAYERS.map(k => {
+      const has = k === 'text' || (c.layers || []).includes(k);
+      return `<button type="button" data-layer="${k}" aria-pressed="${has && S.layers[k]}" ${has ? '' : 'disabled'}>${tt.layers[k]}</button>`;
+    }).join('');
+    $('lib-prev').disabled = LIB.ch <= 0; $('lib-next').disabled = LIB.ch >= chs.length - 1;
+    applyLibLayers();
+    const key = `${b.id}/${lang}-${String(LIB.ch + 1).padStart(3, '0')}`, want = key, anchor = LIB.anchor;
+    $('lib-read').innerHTML = `<p class="scroll__msg">${tt.loading}</p>`;
+    if (!LIB.cache[key]) LIB.cache[key] = fetch(`data/library/${key}.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch(err => { delete LIB.cache[key]; throw err; });
+    LIB.cache[key].then(d => {
+      const now = libBook(LIB.book); if (!now || `${now.id}/${libLang(now)}-${String(LIB.ch + 1).padStart(3, '0')}` !== want) return;
+      $('lib-read').innerHTML = `<article class="lib-text"><p class="lib-kicker">${esc(L(b, 'title'))}</p><h2 class="lib-ch">${esc(d.title)}</h2>${d.html}` +
+        `<p class="lib-end">${LIB.ch < chs.length - 1 ? `<button type="button" class="people-btn" data-ch="${LIB.ch + 1}">${esc(chs[LIB.ch + 1].t)} →</button>` : ''}</p></article>`;
+      $('lib-read').scrollTop = 0;
+      if (anchor) {
+        LIB.anchor = null;
+        const el = $('lib-read').querySelector('#v-' + CSS.escape(String(anchor).replace(/^\D+/, '').split(/[^0-9.a-z]/)[0]));
+        if (el) { el.scrollIntoView({ block: 'start' }); $('lib-read').scrollTop -= 60; el.classList.add('is-hl'); }
+      }
+    }).catch(() => { $('lib-read').innerHTML = `<p class="scroll__msg">${tt.failed}</p>`; });
+  }
+  function applyLibLayers() {
+    const box = $('lib-read');
+    LAYERS.forEach(k => box.classList.toggle('hide-' + k, !S.layers[k]));
+    if (!LAYERS.some(k => S.layers[k])) box.classList.remove('hide-text');
+  }
+  $('lib-side').addEventListener('click', e => {
+    const bk = e.target.closest('[data-book]');
+    if (bk) { LIB.book = bk.dataset.book || null; LIB.ch = null; renderLib(); libHash(); return; }
+    const ch = e.target.closest('[data-ch]');
+    if (ch) { LIB.ch = +ch.dataset.ch; LIB.toc = false; renderLib(); libHash(); }
+  });
+  $('lib-read').addEventListener('click', e => {
+    const ch = e.target.closest('[data-ch]');
+    if (ch) { LIB.ch = +ch.dataset.ch; renderLib(); libHash(); return; }
+    const fa = e.target.closest('sup.fn a');
+    if (fa) { e.preventDefault(); const el = $('lib-read').querySelector('#fn-' + fa.dataset.fn); if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+  });
+  $('lib-layers').addEventListener('click', e => {
+    const b = e.target.closest('button[data-layer]');
+    if (!b || b.disabled) return;
+    S.layers[b.dataset.layer] = !S.layers[b.dataset.layer];
+    savePrefs();
+    $('lib-layers').querySelectorAll('button[data-layer]').forEach(x => { if (!x.disabled) x.setAttribute('aria-pressed', S.layers[x.dataset.layer]); });
+    applyLibLayers();
+  });
+  $('lib-prev').addEventListener('click', () => { LIB.ch--; renderLib(); libHash(); });
+  $('lib-next').addEventListener('click', () => { LIB.ch++; renderLib(); libHash(); });
+  $('lib-toc-btn').addEventListener('click', () => { LIB.toc = !LIB.toc; $('view-lib').classList.toggle('is-reading-book', !LIB.toc); });
+
   /* ——— язык ——— */
   function applyLang() {
     document.documentElement.lang = S.lang;
@@ -599,6 +747,7 @@
     renderReader();
     if (S.tab) showTab(S.tab, false);
     if (MAPC.map && S.places) drawPlaces();
+    if (S.tab === 'lib') renderLib();
   }
   document.querySelectorAll('.lang button').forEach(b => b.addEventListener('click', () => { S.lang = b.dataset.lang; savePrefs(); applyLang(); }));
 
@@ -675,7 +824,8 @@
     const h = location.hash.slice(1);
     if (findEp(h)) S.ep = h;
     else { S.open = findEv(h)[0] ? h : 'ev-gaura-appearance'; S.ep = findEv(S.open)[0].id; }
-    S.tab = TABS.includes(h) ? h : 'lilas';
+    S.tab = TABS.includes(h) ? h : h.startsWith('lib/') ? 'lib' : 'lilas';
+    if (h.startsWith('lib/')) { const [, b, n] = h.split('/'); LIB.book = b || null; LIB.ch = n ? +n - 1 : null; }
     applyLang();
     requestAnimationFrame(() => { centerOn(S.open || S.ep, false); updateCenter(); });
   });
