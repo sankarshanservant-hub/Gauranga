@@ -48,13 +48,13 @@ def episode_of(ev):
     return None
 
 
-# На сайт не идут: «Чайтанья-бхагавата» — изданный современный перевод (Сарасват Матх, 2006), не наш (CLAUDE.md);
-# до подтверждения прав пользователем.
-EXCLUDE_SOURCES = {'cb'}
+# Источники, которые не идут на сайт (пока нет). Издания Шри Чайтанья Сарасват Матха — наши (CLAUDE.md).
+EXCLUDE_SOURCES = set()
 
 # Краткие названия писаний для сайта (RU, EN, автор RU, автор EN)
 SOURCES = {
     'cc': ('Шри Чайтанья-чаритамрита', 'Sri Chaitanya-charitamrita', 'Кришнадас Кавирадж Госвами', 'Krishnadasa Kaviraja Gosvami'),
+    'cb': ('Шри Чайтанья-бхагавата', 'Sri Chaitanya-bhagavata', 'Вриндаван Дас Тхакур', 'Vrindavana Dasa Thakura'),
     'anuragavalli': ('Анурага-валли', 'Anuraga-valli', 'Манохара Дас', 'Manohara Dasa'),
     'prema-vivarta': ('Шри Према-виварта', 'Sri Prema-vivarta', 'приписывается Джагадананде Пандиту', 'attributed to Jagadananda Pandita'),
     'chaitanya-upanishad': ('Шри Чайтанья-упанишад', 'Sri Chaitanya Upanishad', 'Атхарваведа', 'Atharva Veda'),

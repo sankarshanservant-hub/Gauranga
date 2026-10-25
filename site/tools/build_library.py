@@ -7,8 +7,7 @@
 и site/data/library/<книга>/<lang>-<NN>.json ({title, html}).
 Запуск: python3 site/tools/build_library.py
 
-НЕ публикуются: «Чайтанья-бхагавата» (chaitanya-bhagavata/ed) — изданный современный перевод
-(Шри Чайтанья Сарасват Матх, 2006), не наш (правило CLAUDE.md); до подтверждения прав пользователем.
+Издания Шри Чайтанья Сарасват Матха — наши (CLAUDE.md): «Чайтанья-бхагавата» (рус. пер.) и ЧЧ публикуются.
 """
 import glob
 import json
@@ -32,6 +31,12 @@ BOOKS = [
          note_en='Russian translation by Vrindavana Chandra Dasa (Adi, Madhya); Antya 16–19 in his style.',
          ru=['chaitanya-charitamrita/ed/vcd/CC_Adi*.md', 'chaitanya-charitamrita/ed/vcd/CC_Madhya*.md',
              'chaitanya-charitamrita/vcd/new/CC_Antya1[6-9].md'], en=[], cc=True),
+    dict(id='cb', group='bng', title='Шри Чайтанья-бхагавата', title_en='Sri Chaitanya-bhagavata',
+         author='Вриндаван Дас Тхакур', author_en='Vrindavana Dasa Thakura',
+         note='Русский перевод — изд. Шри Чайтанья Сарасват Матха (Ади-кханда, 2006); Мадхья и Антья — до окончательной редактуры.',
+         note_en='Russian translation published by Sri Chaitanya Saraswat Math (Adi-khanda, 2006); Madhya and Antya before final editing.',
+         ru=['chaitanya-bhagavata/ed/CB_Adi*.md', 'chaitanya-bhagavata/ed/CB_Madhya*.md', 'chaitanya-bhagavata/ed/CB_Antya*.md'],
+         en=[], cc=True),
     dict(id='murari', group='skt', title='Шри Кришна-Чайтанья-чаритамрита (Кадача)', title_en='Sri Krishna-Chaitanya-charitamrita (Kadacha)',
          author='Мурари Гупта', author_en='Murari Gupta',
          ru_full='murari-gupta/Murari-Gupta-Kadacha-ru-full.md', en_full='murari-gupta/Murari-Gupta-Kadacha-en-full.md', level=2,
@@ -102,6 +107,7 @@ GROUPS = [
     ('other', 'Иные традиции', 'Other traditions'),
 ]
 CC_LILA = {'Adi': ('Ади-лила', 'Adi-lila'), 'Madhya': ('Мадхья-лила', 'Madhya-lila'), 'Antya': ('Антья-лила', 'Antya-lila')}
+CB_KHANDA = {'Adi': ('Ади-кханда', 'Adi-khanda'), 'Madhya': ('Мадхья-кханда', 'Madhya-khanda'), 'Antya': ('Антья-кханда', 'Antya-khanda')}
 SKIP_TITLES = re.compile(r'оглавлени|^contents$|^table of contents', re.I)
 
 
@@ -113,11 +119,11 @@ def files_of(patterns):
 
 
 def cc_title(path, lang):
-    m = re.search(r'CC_(Adi|Madhya|Antya)(\d+)', path)
-    lila, n = m.group(1), int(m.group(2))
+    m = re.search(r'(CC|CB)_(Adi|Madhya|Antya)(\d+)', path)
+    lila, n = m.group(2), int(m.group(3))
     md = open(path, encoding='utf-8').read(800)
     sub = re.search(r'\*\*(.+?)\*\*', md)
-    name = CC_LILA[lila][0 if lang == 'ru' else 1]
+    name = (CC_LILA if m.group(1) == 'CC' else CB_KHANDA)[lila][0 if lang == 'ru' else 1]
     return f"{name}, {'глава' if lang == 'ru' else 'chapter'} {n}" + (f". {sub.group(1)}" if sub else '')
 
 
@@ -171,6 +177,10 @@ def main():
             entry[lang] = []
             for i, (t, md, src) in enumerate(chs):
                 title, h = mdhtml.render(md, lang=lang)
+                # первый заголовок, повторяющий название главы (оно показывается отдельно), — убрать
+                m = re.match(r'\s*(?:<p class="l-text"><i>[^<]*</i></p>\s*)?<h(\d)>(.*?)</h\1>\s*', h, re.S)
+                if m and re.sub('<[^>]+>', '', m.group(2)).strip() == re.sub(r'\*', '', t).strip():
+                    h = h[:m.start(1) - 2] + h[m.end():] if h.lstrip().startswith('<p') else h[m.end():]
                 layers = sorted(set(re.findall(r'class="[^"]*\bl-(orig|translit|wbw|notes)', h)))
                 name = f'{lang}-{i + 1:03d}.json'
                 json.dump({'title': t, 'html': h}, open(os.path.join(OUT, b['id'], name), 'w', encoding='utf-8'),

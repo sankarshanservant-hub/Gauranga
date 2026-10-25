@@ -30,8 +30,15 @@ def inline(s, fnmap=None):
     s = re.sub(r'<!--.*?-->', '', s, flags=re.S)
     s = html.escape(s, quote=False)
     s = re.sub(r'\[([^\]]+)\]\((?:[^()]|\([^)]*\))+\)', r'\1', s)
-    s = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', s)
-    s = re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])', r'<i>\1</i>', s)
+    st, tail = re.match(r'^(.*?)((?:\[\^[^\]]+\])*)$', s.strip(), re.S).groups()   # сноски в конце — отдельно
+    if re.match(r'^\*[^*\s]', st) and re.search(r'[^*\s]\*$', st) and st.replace('**', '').count('*') > 2:
+        # весь абзац курсивом, а внутри — выделенное название (*…*): внутреннее выделение — прямым шрифтом
+        inner = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', st[1:-1], flags=re.S)
+        inner = re.sub(r'\*(.+?)\*', r'</i>\1<i>', inner, flags=re.S)
+        s = re.sub(r'<i></i>', '', '<i>' + inner + '</i>') + tail
+    else:
+        s = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', s, flags=re.S)
+        s = re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])', r'<i>\1</i>', s, flags=re.S)
 
     def fn(m):
         k = m.group(1)
@@ -132,6 +139,12 @@ def render(md, fnmap_out=None, lang='ru'):
             if curi: items.append(' '.join(curi))
             out.append('<ul class="l-text">' + ''.join(f'<li>{inline(i, fnmap)}</li>' for i in items) + '</ul>')
             para = []; return
+        lone = re.match(r'^\*\*([0-9][0-9.:a-z+–-]*?)\.\*\*\s*$', '\n'.join(para).strip())
+        if lone:
+            n = lone.group(1)
+            if n not in seen_v:
+                seen_v.add(n); out.append(f'<span class="v-anchor" id="v-{html.escape(n)}"></span>')
+            para = []; return
         quote = all(x.startswith('>') and not x.startswith('>>') for x in para)
         src = [re.sub(r'^>\s?', '', x) for x in para] if quote else para
         text = join_lines(src)
@@ -151,8 +164,8 @@ def render(md, fnmap_out=None, lang='ru'):
             text = f'\x00{m2.group(1)}\x01' + text[m2.end():]
         h = inline(text, fnmap).replace('\n', '<br>')
         h = re.sub('\x00(.*?)\x01', r'<span class="vn">\1</span>', h)
-        if layer == 'orig':
-            h = h.replace('<i>', '').replace('</i>', '')
+        if layer in ('orig', 'translit'):
+            h = h.replace('<i>', '').replace('</i>', '').replace('*', '')
         tag = 'blockquote' if quote else 'p'
         out.append(f'<{tag} class="l-{layer}"{anchor}>{h}</{tag}>')
         para = []
