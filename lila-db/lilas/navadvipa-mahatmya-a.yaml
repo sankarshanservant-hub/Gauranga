@@ -1,0 +1,340 @@
+# Бхактивинода Тхакур, «Шри Навадвипа-дхама-махатмья» — лилы в порядке изложения, гл. 1–6 (формат — ../README.md).
+# Текст — navadvipa-dhama-mahatmya/ru|en/NN.md (рус. изд. ШЧСМ 2001, англ. изд. ШЧСМ 2015; метки совпадают).
+# Источник B (SOURCES.md); лилы, известные только по этой книге (предания мест о прежних югах, пророчества,
+# видения), — C. Рамка (Нитьянанда ведёт Дживу) — P14: по книге Господь уже принял санньясу и пребывает в Нилачале.
+# Гл. 7–… — файлы navadvipa-mahatmya-b.yaml, -c.yaml. Записи добавлять в конец, по порядку изложения.
+
+# ---------------- Глава 1. Высочайшее положение ----------------
+
+- id: nvm-01-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 1, 1–11"
+  file: "navadvipa-dhama-mahatmya/ru/01.md"
+  period: PX
+  order: 139
+  title: "Мангалачарана; автор берётся описать славу Навадвипы по воле преданных"
+  summary: "Слава Гауре, Нитьянанде, Адвайте, Гададхаре, Шривасе, Навадвипе и её обитателям; славы дхамы не знают ни Брахма, ни Шеша, ни Шива, но воля Чайтаньи сильнее всего, и по велению Его приверженцев автор начинает; Господь заповедал открыть Его обитель и лилы после Его ухода."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/01.md", from: "1", to: "11"}
+
+- id: nvm-01-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 1, 12–21"
+  file: "navadvipa-dhama-mahatmya/ru/01.md"
+  period: PX
+  order: 7
+  title: "Сокровенность Гауры: Майя скрывала истины шастр о Нём и сняла покров по завершении Его лил"
+  summary: "Чайтанья — самая сокровенная аватара; шастры говорят о Нём намёками, и Майя, Его служанка, скрывала их смысл от учёных; по завершении лил, по воле Господа и велению Нитьянанды, она подняла покров, и смысл писаний открылся чистым преданным."
+  persons: ["@mahaprabhu", "@nityananda", "@durga"]
+  places: []
+  kind: teaching
+  authority: B
+  themes: [teaching]
+  teaching: [gaura-tattva, scripture]
+  event: ev-tattva-gaura-scripture-proofs
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/01.md", from: "12", to: "21"}
+
+- id: nvm-01-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 1, 22–38"
+  file: "navadvipa-dhama-mahatmya/ru/01.md"
+  period: PX
+  order: 110
+  title: "Призыв Нитьянанды к душам Кали: «Отбросьте карму и гьяну, воспевайте имя Чайтаньи и танцуйте!»"
+  summary: "Нитьянанда раздаёт милость, воздев руки, зовёт всех принять прему Чайтаньи без забот и риска; счастливые принимают её, гордые логикой и несчастные по прошлым грехам отвергают; отвергнуть милость Нитьянанды — худшее несчастье, а одно призывание имён Нитая и Чайтаньи кладёт конец карме."
+  persons: ["@nityananda", "@mahaprabhu"]
+  places: ["#gauda-mandala"]
+  kind: teaching
+  authority: B
+  notes: "Обобщённый образ проповеди Нитьянанды, не отдельный эпизод."
+  themes: [teaching, mercy, kirtan]
+  teaching: [holy-name, bhakti-supremacy]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/01.md", from: "22", to: "38"}
+
+- id: nvm-01-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 1, 39–52"
+  file: "navadvipa-dhama-mahatmya/ru/01.md"
+  period: PX
+  order: 123
+  title: "Имя Кришны учитывает оскорбления, а поклонение Чайтанье даёт прему и оскорбителю"
+  summary: "Чайтанья и Радха-Кришна по сути одно; можно жизнь за жизнью почитать Кришну и не обрести премы из-за оскорблений, а воскликнувшего «Нитай-Чайтанья!» према ищет сама, и оскорбления быстро уходят; в Кали нет иного пути, кроме имени, поклонения и наставлений Чайтаньи."
+  persons: ["@mahaprabhu", "@nityananda", "@radha", "@krishna"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: B
+  parallels: "ЧЧ Ади 8.22–32"
+  themes: [teaching]
+  teaching: [holy-name, gaura-tattva, prema]
+  event: ev-tattva-gaura-nitai-names-prema
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/01.md", from: "39", to: "52"}
+
+- id: nvm-01-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 1, 53–74"
+  file: "navadvipa-dhama-mahatmya/ru/01.md"
+  period: PX
+  order: 140
+  title: "Навадвипа — венец тиртх: в ней спасаются даже оскорбители; плоды обхода и пребывания"
+  summary: "В других тиртхах и даже во Вриндаване оскорбитель наказан, в Навадвипе же спасается милостью Нитьянанды — как Джагай и Мадхай; обход очищает от грехов и оскорблений, каждый шаг равен миллионам ашвамедх, три ночи в дхаме — десяти годам йоги в иных местах, омовение в Ганге — освобождению; бхукти и мукти служат здесь чистым преданным."
+  persons: ["@nityananda", "@mahaprabhu", "@jagai-madhai", "@bhaktivinoda", "@jahnava"]
+  places: ["#navadvipa", "#gauda-mandala", "#ganga"]
+  kind: teaching
+  authority: B
+  notes: "Джагай и Мадхай — упоминание (ev-jagai-madhai-deliverance)."
+  themes: [teaching, pilgrimage, mercy]
+  teaching: [holy-name, prema, bhakti-supremacy]
+  event: ev-navadvipa-dhama-glory
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/01.md", from: "53", to: "74"}
+
+# ---------------- Глава 2. Истинная природа и размеры Навадвипы ----------------
+
+- id: nvm-02-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 2, 1–24"
+  file: "navadvipa-dhama-mahatmya/ru/02.md"
+  period: PX
+  order: 141
+  title: "Гауда-мандала — столепестковый лотос, Навадвипа — его сердцевина; дхама духовна и видна лишь по милости Нитьянанды"
+  summary: "Окружность Гауда-мандалы — 168 миль, Навадвипы — 32 мили, Антардвипы — 10; в середине — Йога-питха, место явления Господа; дхама — проявление сандхини-шакти, всё в ней сознательно и блаженно; считающий её обычной землёй остаётся в неведении, как облака не скрывают солнца; в ней все священные реки и тиртхи, её обитатели — в четырёхруком облике."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#gauda-mandala", "#navadvipa", "#antardvipa", "#mayapur", "#ganga", "#vaikuntha"]
+  kind: teaching
+  authority: B
+  notes: "Стихи 7–9 в изд. 2001 г. отсутствуют, переведены по англ. изд. 2015 г."
+  themes: [teaching, pilgrimage]
+  teaching: [maya]
+  event: ev-navadvipa-dhama-nature
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/02.md", from: "1", to: "24"}
+
+- id: nvm-02-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 2, 25–45"
+  file: "navadvipa-dhama-mahatmya/ru/02.md"
+  period: PX
+  order: 140
+  title: "Брахма молит родиться травинкой в Навадвипе; аскезой и логикой милости Нитьянанды не купить"
+  summary: "Золотоликие обитатели Навадвипы непрестанно поют имя, им приходят поклоняться боги; Брахма сетует, что Гаура сделал его владыкой вселенной, и молит о рождении травинкой в дхаме; боги, риши и одиннадцать Рудр подвизаются здесь, но, пока считают себя телом, милости не обретут; логика бесполезна — дхама постигается по слову святых и шастр; в Кали лишь Навадвипа сохраняет силу, хотя долго была сокрыта."
+  persons: ["@brahma", "@rudras", "@nityananda", "@mahaprabhu"]
+  places: ["#navadvipa", "#gauda-mandala"]
+  kind: teaching
+  authority: B
+  themes: [teaching, pilgrimage, celestial]
+  teaching: [bhakti-supremacy, vaishnava, holy-name]
+  event: ev-navadvipa-dhama-glory
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/02.md", from: "25", to: "45"}
+
+- id: nvm-02-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 2, 46–59"
+  file: "navadvipa-dhama-mahatmya/ru/02.md"
+  period: P00
+  order: 6.8
+  title: "Господь решает открыть Навадвипу, Своё имя и облик и сломать киртаном ядовитые зубы змея Кали"
+  summary: "Как врач при тяжкой болезни, Господь видит, что без сильного средства души Кали не исцелить, и решает открыть сокрытые дхаму, имя и облик; Он обещает раздавать прему без разбора достойных, собрать спутников и киртаном сломать зубы змея Кали — пока поют Его имя, Кали не победит; так Он является в Гауда-мандале."
+  persons: ["@mahaprabhu"]
+  places: ["#navadvipa", "#gauda-mandala"]
+  kind: pre-advent
+  authority: B
+  parallels: "ЧЧ Ади 3.5–28"
+  notes: "В отличие от ЧЧ, решение явиться связано здесь прежде всего с раскрытием Навадвипа-дхамы."
+  themes: [teaching, kirtan, mercy]
+  teaching: [yuga-dharma, holy-name, gaura-tattva]
+  event: ev-krishna-resolves-to-give-vraja-prema
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/02.md", from: "46", to: "59"}
+
+# ---------------- Глава 3. Паломничество в святую дхаму ----------------
+
+- id: nvm-03-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 3, 1–23"
+  file: "navadvipa-dhama-mahatmya/ru/03.md"
+  period: PX
+  order: 141
+  title: "Шестнадцать рек и девять островов Навадвипы; Майяпур — Махавана; в дхаме — весь духовный мир и семь святых городов"
+  summary: "Четыре острова — к востоку от Ганги, пять — к западу; меж ними текут Ямуна, Сарасвати и другие реки; по воле Господа реки и тиртхи то скрываются, то являются, преданные видят их во сне, в медитации и воочию; Антардвипа — у слияния Ганги и Ямуны, Майяпур неотличен от Махаваны Голоки; Шветадвипа, Вайкунтха, Голока и семь святых городов присутствуют в Навадвипе, как посольства в столице."
+  persons: ["@mahaprabhu", "@nityananda"]
+  places: ["#navadvipa", "#antardvipa", "#mayapur", "#goloka", "#vaikuntha", "#shvetadvipa", "#vrindavana", "#ganga"]
+  kind: teaching
+  authority: B
+  notes: "Стих 8 в изд. 2001 г. отсутствует, переведён по англ. изд. 2015 г."
+  themes: [teaching, pilgrimage]
+  teaching: [scripture]
+  event: ev-navadvipa-dhama-nature
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/03.md", from: "1", to: "22–23"}
+
+- id: nvm-03-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 3, 24–41"
+  file: "navadvipa-dhama-mahatmya/ru/03.md"
+  period: PX
+  order: 142
+  title: "Порядок обхода девяти островов; лучшее время — от Макара-саптами до Гаура-пурнимы"
+  summary: "Майяпура Харидвары присутствует в Майяпуре Навадвипы, и обход её освобождает от майи; порядок: Антардвипа, Симантадвипа, Годрума, Мадхья, затем за Гангой Кола, Риту, Джахну, Модадрума, Рудра и возвращение в Майяпур к храму Джаганнатхи Мишры и Шачи; счастливейшие завершают обход в день явления Господа; обходящий 168 миль Гауда-мандалы обретает прему."
+  persons: ["@mahaprabhu", "@nityananda", "@jahnava", "@bhaktivinoda"]
+  places: ["#mayapur", "#antardvipa", "#simantadvipa", "#godrumadvipa", "#madhyadvipa", "#koladvipa", "#ritudvipa", "#jahnudvipa", "#modadrumadvipa", "#rudradvipa", "#house-jagannatha-mishra", "#gauda-mandala"]
+  kind: teaching
+  authority: B
+  themes: [pilgrimage, teaching, festival]
+  calendar: "от Макара-саптами до пхалгуна-пурнимы"
+  event: ev-navadvipa-parikrama-order
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/03.md", from: "24", to: "41"}
+
+# ---------------- Глава 4. Встреча ----------------
+
+- id: nvm-04-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 1–14"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P14
+  order: 42.04
+  title: "Джива навсегда оставляет Чандрадвипу и с плачем «О Надия!» идёт в Навадвипу"
+  summary: "Юный Джива, отрёкшись от мира, много дней идёт, взывая к Чайтанье и Нитьянанде; увидев издали Навадвипу, простирается и почти теряет сознание, затем в экстазе входит в дхаму."
+  persons: ["@jiva-gosvami"]
+  places: ["#chandradvipa", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "БР 1.739–774"
+  notes: "Ст. 1–6 — вступление автора о правилах паломничества."
+  themes: [pilgrimage, ecstasy]
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 4.47–51)"
+  divergence: "По БР Джива приходит в Навадвипу после ухода Господа (событие — P15); по НДМ Господь ещё в Нилачале. В БР Джива уходит из Фатехабада, здесь — из Чандрадвипы."
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "1", to: "14"}
+
+- id: nvm-04-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 15–37"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P14
+  order: 42.04
+  title: "Встреча Дживы с Нитьянандой: «Ты — Сам Баларама»"
+  summary: "У Баракона-гхаты Джива расспрашивает о Нитьянанде; Тот, ощутив его приближение, громко смеётся и посылает за ним вайшнавов; услышав Его имя, Джива падает без чувств, вайшнавы берут пыль его стоп; увидев Нитьянанду, беседующего о Кришне, Джива вновь лишается чувств; Нитьянанда поднимает его, и Джива славит Его как Балараму, без милости Которого не достичь Чайтаньи."
+  persons: ["@jiva-gosvami", "@nityananda"]
+  places: ["#barakona-ghata", "#house-srivasa"]
+  kind: lila
+  authority: B
+  parallels: "БР 1.739–774; ЧЧ Антья 4.232–235"
+  themes: [mercy, ecstasy]
+  teaching: [associates-tattva]
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 4.47–51)"
+  divergence: "По БР — после ухода Господа."
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "15", to: "37"}
+
+- id: nvm-04-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 38–47"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P13
+  order: 12
+  title: "Воспоминание Дживы: ребёнком в Рамакели он видел Господа и получил наказ учиться и идти в Навадвипу"
+  summary: "Когда Господь в Рамакели принял Рупу и Санатану, маленький Джива со слезами смотрел на Его золотой облик и коснулся Его стоп; Господь велел ему изучать шастры, затем идти в Навадвипу за пылью стоп Нитьянанды, а в «Веданта-сутре» постичь суть — преданность Кришне; изучив в Чандрадвипе комментарии, Джива не нашёл учителя самих сутр и пришёл к Нитьянанде, готовый идти в Пури к Сарвабхауме."
+  persons: ["@jiva-gosvami", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@sarvabhauma"]
+  places: ["#ramakeli", "#chandradvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 1 (Рамакели, без Дживы)"
+  notes: "Наказ Господа ребёнку Дживе — лишь по НДМ."
+  themes: [mercy, learning]
+  teaching: [vedanta]
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "38", to: "47"}
+
+- id: nvm-04-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 48–60"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P14
+  order: 42.04
+  title: "Нитьянанда посылает Дживу не в Пури, а в Каши к Мадхусудане Вачаспати, затем во Вриндаван к Рупе и Санатане"
+  summary: "Господь передал: не ходить в Пури, а изучить Веданту в Варанаси у Мадхусуданы Вачаспати и идти во Вриндаван, служить Радхе и Кришне как последователь Рупы и проповедовать «Бхагавату» как истинный комментарий к сутрам; Сарвабхаума, постигший их смысл по милости Господа, передал услышанное Мадхусудане в Пури, и тот, внешне наставник шанкаритов, постепенно передаёт им учение Господа."
+  persons: ["@nityananda", "@jiva-gosvami", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami", "@madhusudana-vachaspati", "@sarvabhauma"]
+  places: ["#house-srivasa", "#kashi", "#vrindavana", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "БР 1.739–774 (Нитьянанда посылает Дживу во Врадж); ЧЧ Антья 4.232–235"
+  themes: [teaching, learning]
+  teaching: [vedanta, scripture]
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 4.47–51)"
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "48", to: "60"}
+
+- id: nvm-04-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 61–66"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P14
+  order: 42.041
+  title: "Пророчество о «Говинда-бхашье»: Гопинатха Ачарья родится Баладевой Видьябхушаной"
+  summary: "Ныне особый комментарий не нужен — «Бхагавата» естественно толкует «Веданта-сутру»; когда понадобится иное толкование, Гопинатха Ачарья, слушавший с Сарвабхаумой объяснения Господа, по Его воле родится Баладевой Видьябхушаной, победит учёных в Джайпуре и явит «Говинда-бхашью»."
+  persons: ["@nityananda", "@jiva-gosvami", "@gopinatha-acharya", "@baladeva-vidyabhushana", "@sarvabhauma", "@mahaprabhu"]
+  places: ["#house-srivasa", "#jaipur"]
+  kind: prophecy
+  authority: C
+  notes: "Отождествление Гопинатхи Ачарьи с Баладевой Видьябхушаной — лишь по НДМ."
+  themes: [teaching]
+  teaching: [vedanta, scripture]
+  event: ev-govinda-bhashya-prophecy
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "61", to: "66"}
+
+- id: nvm-04-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 67–72"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P14
+  order: 42.04
+  title: "Нитьянанда ставит стопу на голову Дживы; Джива пляшет, Шриваса и вайшнавы поют"
+  summary: "Джива падает без чувств; Нитьянанда кладёт ему на голову Свою стопу и наделяет силой; Джива пляшет с возгласами «Слава Чайтанье! Слава Нитьянанде!», Шриваса и другие подхватывают, и вся округа наполняется киртаном."
+  persons: ["@nityananda", "@jiva-gosvami", "@srivasa"]
+  places: ["#house-srivasa"]
+  kind: lila
+  authority: B
+  parallels: "БР 1.739–774; ЧЧ Антья 4.232–235"
+  themes: [mercy, kirtan, ecstasy]
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале"
+  event: ev-jiva-meets-nityananda-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "67", to: "72"}
+
+- id: nvm-04-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 4, 73–95"
+  file: "navadvipa-dhama-mahatmya/ru/04.md"
+  period: P14
+  order: 42.042
+  title: "Вечером Нитьянанда открывает Дживе тайну дхамы: Навадвипа — аударья, Вриндаван — мадхурья"
+  summary: "Джива, поселённый в Шривас-ангане, на закате приходит к Нитьянанде, поющему славу Чайтаньи, и просит открыть тайны Навадвипы; Нитьянанда велит хранить их до завершения лил: за Вираджей, Брахмалокой, Вайкунтхой и Шветадвипой — Голока; Навадвипа неотлична от Вриндавана, но там сладость сокровенна, здесь щедро раздаётся; дхама вне майи, времени и пространства, видна очищенным милостью преданных глазам."
+  persons: ["@nityananda", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#house-srivasa", "#navadvipa", "#vrindavana", "#goloka", "#vaikuntha", "#shvetadvipa"]
+  kind: teaching
+  authority: B
+  themes: [teaching, pilgrimage]
+  teaching: [prema, gaura-tattva, maya]
+  event: ev-nityananda-reveals-dhama-jiva
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/04.md", from: "73", to: "95"}
