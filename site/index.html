@@ -7,7 +7,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+Bengali:wght@400;500&family=Tiro+Devanagari+Sanskrit&display=swap">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -80,9 +79,22 @@
 <div class="view view--sheet" id="view-map" hidden>
   <div class="sheet sheet--map">
     <div id="map" class="map" role="region" aria-label="Карта лил"></div>
+    <div class="map-top">
+      <div class="map-regions" id="map-regions" role="group" aria-label="Регионы"></div>
+      <label class="map-search"><span class="sr" data-i18n="search">Поиск</span>
+        <input type="search" id="map-q" list="map-places" autocomplete="off"><datalist id="map-places"></datalist></label>
+    </div>
     <div class="map-ui">
-      <p class="map-note" data-i18n="mapNote">Прототип. Координаты мест предварительные (OpenStreetMap) и ещё сверяются по топокартам 1955 г.</p>
-      <label class="map-toggle"><input type="checkbox" id="ams-toggle"> <span data-i18n="amsLayer">Топокарта 1955 г. (лист «Бурдван»)</span></label>
+      <div class="map-base" id="map-base" role="group"></div>
+      <details class="map-layers" id="map-layers">
+        <summary data-i18n="mapLayers">Слои и условные знаки</summary>
+        <label class="map-toggle"><input type="checkbox" id="hs-toggle" checked> <span data-i18n="hsLayer">Святые места сегодня</span></label>
+        <label class="map-toggle"><input type="checkbox" id="ams-toggle"> <span data-i18n="amsLayer">Топокарта 1955 г. (лист «Бурдван»)</span></label>
+        <p class="map-legend"><span class="lg lg--exact"></span><span data-i18n="lgExact">выверено</span>
+          <span class="lg lg--approx"></span><span data-i18n="lgApprox">приблизительно</span>
+          <span class="lg lg--unverified"></span><span data-i18n="lgUnver">не сверено</span></p>
+        <p class="map-note" data-i18n="mapNote"></p>
+      </details>
       <div class="map-focus" id="map-focus" hidden></div>
     </div>
   </div>
@@ -131,7 +143,6 @@
   </article>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

@@ -26,11 +26,16 @@
       libRuOnly: '', libAbout: 'О писании', libFacts: 'Кратко', toBio: 'Жизнеописание', toLilas: n => `Лилы · ${n}`, readChapter: 'Читать главу целиком →', hintLib: 'Выберите писание и главу. Кнопки над текстом включают оригинал, транслитерацию, пословный перевод и примечания.',
       article: 'Жизнеописание', loadingArticle: 'Загружаю жизнеописание…', withArticle: 'Только с жизнеописанием',
       appearance: 'Явление', disappearance: 'Уход', hasArticle: 'жизнеописание',
-      mapNote: 'Прототип. Координаты мест предварительные (OpenStreetMap) и ещё сверяются по топокартам 1955 г.',
+      mapNote: 'Святыни — по таблице раздела «Путешествие» (Holy Spots и исследование миссии); пунктир — точка ещё не сверена.',
+      regions: { india: 'Вся Индия', gauda: 'Бенгалия', navadvipa: 'Навадвипа', kshetra: 'Орисса', puri: 'Пури', vraja: 'Врадж', south: 'Юг' },
+      mapLayers: 'Слои и условные знаки', basePaper: 'Карта', baseSat: 'Спутник', lgExact: 'выверено', lgApprox: 'приблизительно', lgUnver: 'не сверено', mapSearch: 'Найти место…', hsLayer: 'Святые места сегодня',
+      hsNote: 'святое место (раздел «Путешествие»)', hsOpen: 'На сайте «Путешествие»', showOnMap: 'Показать на карте',
+      unverifiedNote: 'Точка взята из OpenStreetMap и ещё не сверена со старыми картами и писаниями — может быть неточной.',
+      mapFail: 'Карта не загрузилась. Проверьте подключение к интернету.',
       amsLayer: 'Топокарта 1955 г. (лист «Бурдван»)', peopleTitle: 'Спутники и участники лил', search: 'Поиск',
       searchPh: 'Поиск по имени', place: 'Место лил', allLilas: n => `Лилы · ${n}`, allPlaces: n => `Места · ${n}`,
       onMap: 'Места на карте', openPerson: 'Все лилы и места спутника →', noPlaces: 'Мест с координатами пока нет.',
-      geoStatus: { tradition: 'место по традиции', approx: 'приблизительно', unverified: 'координата предварительная, не сверена' },
+      geoStatus: { exact: 'точка выверена', tradition: 'место по традиции', approx: 'приблизительно', unverified: 'координата предварительная, не сверена' },
       within: 'Святые места внутри', focus: n => `Места: ${n}`, clear: 'Показать все места',
       sections: { 'Семья': 'Семья Господа', 'Спутники': 'Спутники', 'Ачарьи-предшественники': 'Ачарьи-предшественники', 'Ачарьи-преемники': 'Ачарьи-преемники', 'Небожители и мудрецы': 'Небожители и мудрецы', 'Господь и Его формы': 'Божества и формы Господа' },
       hintMap: 'Нажмите на место, чтобы увидеть его лилы. Колесо или щипок — масштаб.',
@@ -59,11 +64,16 @@
       libRuOnly: 'No English translation yet — shown in Russian.', libAbout: 'About the scripture', libFacts: 'In brief', toBio: 'Life', toLilas: n => `Pastimes · ${n}`, readChapter: 'Read the whole chapter →', hintLib: 'Choose a scripture and a chapter. The buttons above the text turn on the original, transliteration, word-for-word and notes.',
       article: 'Life', loadingArticle: 'Loading the life…', withArticle: 'Only with a full life',
       appearance: 'Appearance', disappearance: 'Departure', hasArticle: 'life',
-      mapNote: 'Prototype. Place coordinates are provisional (OpenStreetMap) and are being checked against 1955 topographic maps.',
+      mapNote: 'Holy places — from the table of the “Travel” section (Holy Spots and the mission’s research); dashed — not yet checked.',
+      regions: { india: 'All India', gauda: 'Bengal', navadvipa: 'Navadvipa', kshetra: 'Orissa', puri: 'Puri', vraja: 'Vraja', south: 'South' },
+      mapLayers: 'Layers and legend', basePaper: 'Map', baseSat: 'Satellite', lgExact: 'verified', lgApprox: 'approximate', lgUnver: 'not checked', mapSearch: 'Find a place…', hsLayer: 'Holy places today',
+      hsNote: 'holy place (“Travel” section)', hsOpen: 'On the “Travel” site', showOnMap: 'Show on the map',
+      unverifiedNote: 'This point comes from OpenStreetMap and has not yet been checked against old maps and the scriptures — it may be inaccurate.',
+      mapFail: 'The map failed to load. Please check your internet connection.',
       amsLayer: 'Topographic map, 1955 (sheet “Burdwan”)', peopleTitle: 'Associates and participants of the pastimes', search: 'Search',
       searchPh: 'Search by name', place: 'Place of pastimes', allLilas: n => `Pastimes · ${n}`, allPlaces: n => `Places · ${n}`,
       onMap: 'Places on the map', openPerson: 'All pastimes and places →', noPlaces: 'No places with coordinates yet.',
-      geoStatus: { tradition: 'place according to tradition', approx: 'approximate', unverified: 'provisional coordinate, not yet checked' },
+      geoStatus: { exact: 'point verified', tradition: 'place according to tradition', approx: 'approximate', unverified: 'provisional coordinate, not yet checked' },
       within: 'Holy places within', focus: n => `Places: ${n}`, clear: 'Show all places',
       sections: { 'Семья': 'The Lord’s family', 'Спутники': 'Associates', 'Ачарьи-предшественники': 'Earlier acharyas', 'Ачарьи-преемники': 'Acharyas of the succession', 'Небожители и мудрецы': 'Celestials and sages', 'Господь и Его формы': 'Deities and forms of the Lord' },
       hintMap: 'Tap a place to see its pastimes. Wheel or pinch to zoom.',
@@ -300,6 +310,7 @@
   function closeReader() {
     const r = S.reader;
     $('reader').hidden = true; document.body.classList.remove('is-reading'); S.reader = null; markCurrentBook();
+    if (r && r.mode === 'place' && S.tab === 'map') { history.replaceState(null, '', '#map'); drawPlaces(); }
     if (r) { const b = document.querySelector(`.book[data-ev="${r.ev}"][data-src="${r.src}"]`); if (b) b.focus({ preventScroll: true }); }
   }
   function markCurrentBook() {
@@ -477,19 +488,27 @@
   function placesOfEvents(evs) {
     const P = S.places || {}, out = [];
     for (const e of evs) for (let tag of e.places || []) {
-      if (P[tag] && P[tag].parent) tag = P[tag].parent;
+      if (P[tag] && P[tag].parent && P[tag].lat == null) tag = P[tag].parent;
       if (P[tag] && P[tag].lat != null && !out.includes(tag)) out.push(tag);
     }
     return out;
   }
-  function openPlace(tag) { openSide({ mode: 'place', tag }); }
+  function openPlace(tag) {
+    openSide({ mode: 'place', tag });
+    if (S.tab === 'map') { history.replaceState(null, '', '#map/' + tag.slice(1)); flyToPlace(tag); drawPlaces(); }
+  }
   function renderPlace() {
     const tt = t(), tag = S.reader.tag, P = S.places || {}, p = P[tag] || {};
     $('r-lila').textContent = tt.place + (p.status ? ' · ' + tt.geoStatus[p.status] : '');
     $('r-title').textContent = plname(tag);
     $('r-author').textContent = p.note || '';
-    $('layers').innerHTML = '';
+    $('layers').innerHTML = p.lat != null ? `<button type="button" data-act="place-fly">${tt.showOnMap}</button>` : '';
     let h = p.geo_note ? `<p class="person__draft">${esc(p.geo_note)}</p>` : '';
+    if (p.lat != null) {
+      h += `<p class="place__geo">${p.lat.toFixed(5)}, ${p.lon.toFixed(5)} · ${extLinks(p.lat, p.lon)}` +
+        (p.url ? ` · <a href="${esc(p.url)}" target="_blank" rel="noopener">${tt.hsOpen}</a>` : '') + '</p>';
+      if (p.status === 'unverified') h += `<p class="place__warn">${tt.unverifiedNote}</p>`;
+    }
     h += `<h3 class="person__name">${tt.allLilas((p.lilas || []).length)}</h3>` + lilaList(p.lilas || []);
     const subs = Object.entries(P).filter(([, v]) => v.parent === tag && (v.lilas || []).length);
     if (subs.length) {
@@ -562,76 +581,281 @@
   if ($('people-art')) $('people-art').addEventListener('change', renderPeopleList);
   $('people-list').addEventListener('click', e => { const b = e.target.closest('[data-person-open]'); if (b) openPerson(b.dataset.personOpen); });
 
-  /* ——— карта ——— */
-  const MAPC = { map: null, markers: {}, focus: null, line: null, ams: null };
+  /* ——— карта (MapLibre GL, подложка OpenFreeMap без ключа; решения — как в разделе «Путешествие» сайта
+     Шрилы Авадхута Махараджа: maps/ref/avadhut-travel) ——— */
+  const MAPC = { map: null, ml: null, markers: {}, focus: null, sat: false, ams: false, hs: true, loading: null, ready: false };
+  const OMT = 'https://tiles.openfreemap.org';
+  const REGIONS = {
+    india: [[68, 8], [93, 31]], gauda: [[86.7, 21.6], [92.6, 26.1]], navadvipa: [[88.3, 23.37], [88.47, 23.47]],
+    kshetra: [[84.6, 19.3], [87.4, 22.3]], puri: [[85.795, 19.785], [85.85, 19.825]], vraja: [[77.3, 27.4], [77.8, 27.76]],
+    south: [[72.5, 7.8], [84.5, 19.6]],
+  };
+  const KIND_ICON = {   // как на сайте «Путешествие»
+    temple: 'M12 3l2 3h-4zM8 9h8l1 3H7zM6 12h12v8H6zM10 20v-4h4v4',
+    kund: 'M3 10c2 1.5 4 1.5 6 0s4-1.5 6 0 4 1.5 6 0M3 15c2 1.5 4 1.5 6 0s4-1.5 6 0 4 1.5 6 0M5 5h14',
+    ghat: 'M3 20h18M5 20v-3h4v-3h4v-3h4V8h2M3 8c1.5 1 3 1 4.5 0',
+    samadhi: 'M12 3c-2 3-2 5 0 7 2-2 2-4 0-7zM6 12h12M8 12v8h8v-8M5 20h14',
+    hill: 'M3 19l6-9 4 5 3-4 5 8z',
+    forest: 'M12 3l5 7h-3l4 5H6l4-5H7zM12 15v6',
+    birthplace: 'M12 3l2.5 5.5 6 .6-4.5 4 1.3 6L12 16l-5.3 3.1 1.3-6-4.5-4 6-.6z',
+    math: 'M4 11l8-6 8 6M6 10v10h12V10M10 20v-5h4v5',
+    river: 'M3 7c3 2 6-2 9 0s6 2 9 0M3 12c3 2 6-2 9 0s6 2 9 0M3 17c3 2 6-2 9 0s6 2 9 0',
+    house: 'M4 11l8-7 8 7M6 10v10h12V10M10 20v-6h4v6',
+    other: 'M12 7a5 5 0 100 10 5 5 0 000-10z',
+  };
+  const kindSvg = k => `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="${KIND_ICON[k] || KIND_ICON.other}"/></svg>`;
+  function siteKind(p) {
+    if (p.kind && p.kind !== 'other') return p.kind;
+    const n = p.name_en.toLowerCase();
+    return /house/.test(n) ? 'house' : /kunda|sarovara|lake/.test(n) ? 'kund' : /temple/.test(n) ? 'temple' :
+      /parvata|hill|tila/.test(n) ? 'hill' : /garden|vata|grove/.test(n) ? 'forest' : 'other';
+  }
+  const labelField = () => S.lang === 'en'
+    ? ['coalesce', ['get', 'name:en'], ['get', 'name:latin'], ['get', 'name']]
+    : ['coalesce', ['get', 'name:ru'], ['get', 'name:en'], ['get', 'name:latin'], ['get', 'name']];
+  const INK = '#5a3a1c', PAPER = '#f1e2bb', WATER = '#9fb8b0', RIVER = '#5f8a8e';
+  function mapStyle() {   // своя «бумажная» подложка поверх векторных плиток OpenMapTiles: без нынешних границ и дорог
+    const lab = (id, minzoom, filter, size, extra = {}) => ({ id, type: 'symbol', source: 'omt', 'source-layer': 'place', minzoom, filter,
+      layout: { 'text-field': labelField(), 'text-font': [extra.bold ? 'Noto Sans Bold' : 'Noto Sans Regular'], 'text-size': size,
+        'text-max-width': 8, 'text-padding': 3, ...(extra.layout || {}) },
+      paint: { 'text-color': extra.color || INK, 'text-halo-color': 'rgba(241,226,187,.9)', 'text-halo-width': 1.4 } });
+    return {
+      version: 8, glyphs: OMT + '/fonts/{fontstack}/{range}.pbf',
+      sources: {
+        omt: { type: 'vector', url: OMT + '/planet', attribution: '© <a href="https://openfreemap.org">OpenFreeMap</a> © OpenMapTiles © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' },
+        relief: { type: 'raster', tiles: [OMT + '/natural_earth/ne2sr/{z}/{x}/{y}.png'], tileSize: 256, maxzoom: 6, attribution: 'Natural Earth' },
+        sat: { type: 'raster', tiles: ['https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'], tileSize: 256, maxzoom: 19, attribution: 'Esri, Maxar, Earthstar Geographics' },
+        ams: { type: 'image', url: 'assets/img/ams-nf-45-03.jpg', coordinates: [[87, 24], [88.5, 24], [88.5, 23], [87, 23]] },
+      },
+      layers: [
+        { id: 'bg', type: 'background', paint: { 'background-color': PAPER } },
+        { id: 'relief', type: 'raster', source: 'relief', maxzoom: 9, paint: { 'raster-opacity': ['interpolate', ['linear'], ['zoom'], 4, .55, 8, 0], 'raster-saturation': -.75, 'raster-hue-rotate': 15, 'raster-contrast': -.15 } },
+        { id: 'wood', type: 'fill', source: 'omt', 'source-layer': 'landcover', minzoom: 9, filter: ['match', ['get', 'class'], ['wood', 'forest'], true, false],
+          paint: { 'fill-color': '#c9c08c', 'fill-opacity': .35 } },
+        { id: 'water', type: 'fill', source: 'omt', 'source-layer': 'water', paint: { 'fill-color': WATER, 'fill-outline-color': RIVER } },
+        { id: 'river', type: 'line', source: 'omt', 'source-layer': 'waterway', filter: ['==', ['get', 'class'], 'river'],
+          paint: { 'line-color': RIVER, 'line-width': ['interpolate', ['exponential', 1.5], ['zoom'], 5, .6, 9, 1.3, 14, 4] } },
+        { id: 'stream', type: 'line', source: 'omt', 'source-layer': 'waterway', minzoom: 11, filter: ['match', ['get', 'class'], ['stream', 'canal'], true, false],
+          paint: { 'line-color': RIVER, 'line-width': .7, 'line-opacity': .7 } },
+        { id: 'roads', type: 'line', source: 'omt', 'source-layer': 'transportation', minzoom: 11.5,
+          filter: ['match', ['get', 'class'], ['primary', 'secondary', 'tertiary', 'minor', 'trunk', 'motorway'], true, false],
+          paint: { 'line-color': 'rgba(122,82,42,.22)', 'line-width': ['interpolate', ['linear'], ['zoom'], 12, .6, 16, 3] } },
+        { id: 'paths', type: 'line', source: 'omt', 'source-layer': 'transportation', minzoom: 14,
+          filter: ['match', ['get', 'class'], ['path', 'track', 'service'], true, false],
+          paint: { 'line-color': 'rgba(122,82,42,.2)', 'line-width': .7, 'line-dasharray': [2, 2] } },
+        { id: 'building', type: 'fill', source: 'omt', 'source-layer': 'building', minzoom: 14.5, paint: { 'fill-color': 'rgba(122,82,42,.13)' } },
+        { id: 'sat', type: 'raster', source: 'sat', layout: { visibility: MAPC.sat ? 'visible' : 'none' } },
+        { id: 'ams', type: 'raster', source: 'ams', layout: { visibility: MAPC.ams ? 'visible' : 'none' }, paint: { 'raster-opacity': .9 } },
+        { id: 'river-name', type: 'symbol', source: 'omt', 'source-layer': 'waterway', minzoom: 8, filter: ['==', ['get', 'class'], 'river'],
+          layout: { 'symbol-placement': 'line', 'text-field': labelField(), 'text-font': ['Noto Sans Italic'], 'text-size': 13, 'symbol-spacing': 420 },
+          paint: { 'text-color': '#2f5a60', 'text-halo-color': 'rgba(241,226,187,.85)', 'text-halo-width': 1.2 } },
+        { id: 'water-name', type: 'symbol', source: 'omt', 'source-layer': 'water_name', filter: ['match', ['geometry-type'], ['Point', 'MultiPoint'], true, false],
+          layout: { 'text-field': labelField(), 'text-font': ['Noto Sans Italic'], 'text-size': 14, 'text-max-width': 9 },
+          paint: { 'text-color': '#2f5a60', 'text-halo-color': 'rgba(241,226,187,.7)', 'text-halo-width': 1 } },
+        lab('hamlet', 13, ['match', ['get', 'class'], ['hamlet', 'isolated_dwelling', 'neighbourhood', 'quarter'], true, false], 11.5, { color: '#6d5136' }),
+        lab('village', 10.5, ['==', ['get', 'class'], 'village'], ['interpolate', ['linear'], ['zoom'], 10.5, 11, 14, 14]),
+        lab('suburb', 12, ['==', ['get', 'class'], 'suburb'], 12, { color: '#6d5136' }),
+        lab('town', 8, ['==', ['get', 'class'], 'town'], ['interpolate', ['linear'], ['zoom'], 8, 11.5, 13, 16]),
+        lab('city', 5, ['==', ['get', 'class'], 'city'], ['interpolate', ['linear'], ['zoom'], 5, 12, 12, 18], { bold: true }),
+      ],
+    };
+  }
+  function satPaint() {   // подписи на спутнике — светлые с тёмным ореолом
+    const m = MAPC.map; if (!m || !m.isStyleLoaded()) return;
+    ['hamlet', 'village', 'suburb', 'town', 'city', 'river-name', 'water-name'].forEach(id => {
+      m.setPaintProperty(id, 'text-color', MAPC.sat ? '#fff7e6' : (id.includes('name') ? '#2f5a60' : INK));
+      m.setPaintProperty(id, 'text-halo-color', MAPC.sat ? 'rgba(20,12,4,.85)' : 'rgba(241,226,187,.9)');
+    });
+    m.setLayoutProperty('sat', 'visibility', MAPC.sat ? 'visible' : 'none');
+    $('view-map').classList.toggle('is-sat', MAPC.sat);
+    document.querySelectorAll('[data-base]').forEach(b => b.setAttribute('aria-pressed', String((b.dataset.base === 'sat') === MAPC.sat)));
+  }
+  function loadMapLib() {
+    if (window.maplibregl) return Promise.resolve(window.maplibregl);
+    if (MAPC.loading) return MAPC.loading;
+    const css = document.createElement('link'); css.rel = 'stylesheet'; css.href = 'vendor/maplibre/maplibre-gl.css'; document.head.appendChild(css);
+    return MAPC.loading = new Promise((ok, no) => {
+      const s = document.createElement('script'); s.src = 'vendor/maplibre/maplibre-gl.js';
+      s.onload = () => ok(window.maplibregl); s.onerror = no; document.head.appendChild(s);
+    });
+  }
   function initMap() {
-    if (MAPC.map) { setTimeout(() => MAPC.map.invalidateSize(), 50); return; }
-    if (!window.L || !window.L.map) return;   // Leaflet не загрузился
-    const Lf = window.L;
-    const BOUNDS = [[0, 60], [37, 101]];   // как у подложки (maps/tools/build_basemap.py)
-    const map = Lf.map('map', { zoomSnap: 0.25, minZoom: 4.5, maxZoom: 13, attributionControl: true, zoomControl: true,
-      maxBounds: BOUNDS, maxBoundsViscosity: 1 });
-    MAPC.map = map;
-    map.createPane('ams').style.zIndex = 450;     // старая топокарта — над подложкой
-    map.createPane('places').style.zIndex = 620;  // места — над всем
-    map.attributionControl.setPrefix('');
-    map.attributionControl.addAttribution('Natural Earth · © OpenStreetMap contributors · AMS U502 (1955)');
-    map.fitBounds([[18.5, 77], [27.8, 92]]);
-    Promise.all([
-      fetch('data/basemap.json').then(r => r.json()),
+    if (MAPC.map) { setTimeout(() => MAPC.map.resize(), 50); return; }
+    if (MAPC.loading) return;
+    Promise.all([loadMapLib(),
       S.places ? Promise.resolve(S.places) : fetch('data/places.json').then(r => r.json()),
-    ]).then(([bm, pl]) => {
-      S.places = pl;
-      Lf.rectangle(BOUNDS, { stroke: false, fillColor: '#5d7a80', fillOpacity: .22, interactive: false }).addTo(map);
-      Lf.geoJSON(bm.land, { interactive: false, style: { color: '#7a5326', weight: 1.1, opacity: .7, fillColor: '#f3e2b8', fillOpacity: .55 } }).addTo(map);
-      Lf.geoJSON(bm.lakes, { interactive: false, style: { stroke: false, fillColor: '#5d7a80', fillOpacity: .35 } }).addTo(map);
-      Lf.geoJSON(bm.rivers, {
-        style: f => ({ color: '#4d727b', weight: f.properties.rank <= 3 ? 2.4 : f.properties.rank <= 6 ? 1.5 : 1, opacity: .8 }),
-        onEachFeature: (f, layer) => layer.bindTooltip(S.lang === 'en' ? f.properties.name_en : f.properties.name, { sticky: true, className: 'map-tip map-tip--river' }),
-      }).addTo(map);
-      MAPC.ams = Lf.imageOverlay('assets/img/ams-nf-45-03.jpg', [[23, 87], [24, 88.5]], { opacity: .92, pane: 'ams' });
-      drawPlaces();
+      fetch('data/holyspots.json').then(r => r.json()).catch(() => [])]).then(([ml, pl, hs]) => {
+      S.places = pl; MAPC.ml = ml; MAPC.spots = hs;
+      const map = MAPC.map = new ml.Map({ container: 'map', style: mapStyle(), bounds: REGIONS.gauda, fitBoundsOptions: { padding: 20 },
+        maxBounds: [[55, -2], [106, 40]], minZoom: 3.5, maxZoom: 18.5, attributionControl: { compact: true }, dragRotate: false,
+        pitchWithRotate: false, cooperativeGestures: false });
+      map.touchZoomRotate.disableRotation();
+      map.addControl(new ml.NavigationControl({ showCompass: false }), 'top-right');
+      map.addControl(new ml.ScaleControl({ unit: 'metric' }), 'bottom-right');
+      map.on('load', () => {
+        addOverlays(); satPaint(); MAPC.ready = true; drawPlaces(); routeMap();
+        const at = $('map').querySelector('.maplibregl-ctrl-attrib'); if (at && window.innerWidth <= 700) at.classList.remove('maplibregl-compact-show');
+      });
+      map.on('zoom', zoomClass); zoomClass(); map.on('moveend', layoutLabels);
+      map.on('error', e => { if (e && e.error && /Failed to fetch|NetworkError|AJAXError/i.test(String(e.error.message || e.error))) $('view-map').classList.add('no-tiles'); });
+      buildMapUi();
+    }).catch(() => { $('map').innerHTML = `<p class="scroll__msg">${t().mapFail}</p>`; });
+  }
+  function zoomClass() {
+    const z = MAPC.map.getZoom(), el = $('map');
+    el.dataset.z = z < 6 ? 'lo' : z < 9 ? 'mid' : z < 12 ? 'hi' : 'max';
+  }
+  function addOverlays() {   // путь спутника и святые места сегодня — слоями карты (поверх подписей подложки)
+    const map = MAPC.map;
+    map.addSource('path', { type: 'geojson', data: { type: 'FeatureCollection', features: [] } });
+    map.addLayer({ id: 'path', type: 'line', source: 'path', paint: { 'line-color': '#7a3d0e', 'line-width': 1.6, 'line-opacity': .7, 'line-dasharray': [2, 3] } });
+    const feats = (MAPC.spots || []).filter(s => !s.t).map(s => ({ type: 'Feature', geometry: { type: 'Point', coordinates: s.c },
+      properties: { id: s.id, n: S.lang === 'en' ? s.ne : s.n, x: s.x } }));
+    map.addSource('hs', { type: 'geojson', data: { type: 'FeatureCollection', features: feats } });
+    map.addLayer({ id: 'hs', type: 'circle', source: 'hs', minzoom: 11.5, layout: { visibility: MAPC.hs ? 'visible' : 'none' },
+      paint: { 'circle-radius': ['interpolate', ['linear'], ['zoom'], 11.5, 2.5, 16, 5], 'circle-color': '#c9962e', 'circle-stroke-color': '#5a3a1c', 'circle-stroke-width': 1,
+        'circle-opacity': ['case', ['==', ['get', 'x'], 1], .95, .6] } });
+    map.addLayer({ id: 'hs-name', type: 'symbol', source: 'hs', minzoom: 14, layout: { visibility: MAPC.hs ? 'visible' : 'none',
+      'text-field': ['get', 'n'], 'text-font': ['Noto Sans Regular'], 'text-size': 12, 'text-offset': [0, .9], 'text-anchor': 'top', 'text-max-width': 9, 'text-optional': true },
+      paint: { 'text-color': '#6b4a1e', 'text-halo-color': 'rgba(241,226,187,.9)', 'text-halo-width': 1.2 } });
+    map.on('click', 'hs', e => {
+      const f = e.features[0], s = MAPC.spots.find(x => x.id === f.properties.id); if (!s) return;
+      new MAPC.ml.Popup({ closeButton: true, maxWidth: '260px', className: 'hs-pop' }).setLngLat(s.c).setHTML(
+        `<b>${esc(S.lang === 'en' ? s.ne : s.n)}</b><br><span class="hs-pop__k">${t().hsNote}${s.x ? '' : ' · ' + t().geoStatus.approx}</span><br>` +
+        `<a href="${esc(s.u)}" target="_blank" rel="noopener">${t().hsOpen}</a> · ${extLinks(s.c[1], s.c[0])}`).addTo(map);
     });
-    $('ams-toggle').addEventListener('change', e => {
-      if (e.target.checked) { MAPC.ams.addTo(map); map.flyToBounds([[23, 87], [24, 88.5]], { duration: .8 }); } else MAPC.ams.remove();
-    });
+    map.on('mouseenter', 'hs', () => { map.getCanvas().style.cursor = 'pointer'; });
+    map.on('mouseleave', 'hs', () => { map.getCanvas().style.cursor = ''; });
+  }
+  const extLinks = (lat, lon) => `<a href="https://www.google.com/maps/search/?api=1&query=${lat},${lon}" target="_blank" rel="noopener">Google</a> · ` +
+    `<a href="https://yandex.ru/maps/?pt=${lon},${lat}&z=16&l=map" target="_blank" rel="noopener">${S.lang === 'en' ? 'Yandex' : 'Яндекс'}</a>`;
+  function lilaCount(tag) {
+    const P = S.places, p = P[tag];
+    return (p.lilas || []).length + Object.values(P).filter(v => v.parent === tag && v.lat == null).reduce((n, v) => n + (v.lilas || []).length, 0);
   }
   function drawPlaces() {
-    const Lf = window.L, map = MAPC.map, P = S.places;
+    if (!MAPC.ready) return;
+    const ml = MAPC.ml, map = MAPC.map, P = S.places, focus = MAPC.focus;
     Object.values(MAPC.markers).forEach(m => m.remove()); MAPC.markers = {};
-    const focus = MAPC.focus;
     Object.entries(P).forEach(([tag, p]) => {
-      if (p.lat == null || p.type !== 'point') return;
-      const subs = Object.values(P).filter(v => v.parent === tag).reduce((n, v) => n + (v.lilas || []).length, 0);
-      const n = (p.lilas || []).length + subs;
+      if (p.lat == null || !(p.type === 'point' || p.type === 'site')) return;
+      const n = lilaCount(tag);
       if (!n) return;
-      const on = !focus || focus.places.includes(tag);
-      const m = Lf.circleMarker([p.lat, p.lon], { pane: 'places',
-        radius: 3.5 + Math.sqrt(n) * 1.1, weight: p.status === 'unverified' ? 1.5 : 2.2,
-        dashArray: p.status === 'unverified' ? '3 2' : null,
-        color: '#4a250b', fillColor: p.status === 'tradition' ? '#b5541b' : '#8a3b12',
-        fillOpacity: on ? .85 : .15, opacity: on ? 1 : .25,
-      }).addTo(map);
-      m.bindTooltip(esc(L(p, 'name')) + (n ? ` · ${n}` : ''), {
-        permanent: on && (focus ? n >= 3 : n >= 30), direction: 'right', offset: [6, 0], className: 'map-tip',
-      });
-      m.on('click', () => openPlace(tag));
-      MAPC.markers[tag] = m;
+      const on = !focus || focus.places.includes(tag) || (p.parent && focus.places.includes(p.parent));
+      const el = document.createElement('button');
+      el.type = 'button';
+      el.className = `pm pm--${p.type} pm--${p.status || 'unverified'}` + (on ? '' : ' is-dim') + (S.reader && S.reader.mode === 'place' && S.reader.tag === tag ? ' is-cur' : '');
+      el.dataset.r = n >= 30 ? 1 : n >= 8 ? 2 : 3; el.dataset.n = n;
+      el.setAttribute('aria-label', L(p, 'name'));
+      if (p.type === 'site') {
+        el.innerHTML = `<span class="pm__pin">${kindSvg(siteKind(p))}</span><span class="pm__l">${esc(L(p, 'name'))}</span>`;
+      } else {
+        el.style.setProperty('--s', Math.round(9 + Math.sqrt(n) * 1.7) + 'px');
+        el.innerHTML = `<span class="pm__dot"></span><span class="pm__l">${esc(L(p, 'name'))} <i>${n}</i></span>`;
+      }
+      el.addEventListener('click', ev => { ev.stopPropagation(); openPlace(tag); });
+      MAPC.markers[tag] = new ml.Marker({ element: el, anchor: p.type === 'site' ? 'bottom' : 'center', offset: p.type === 'site' ? [0, -2] : [0, 0] })
+        .setLngLat([p.lon, p.lat]).addTo(map);
     });
-    if (MAPC.line) { MAPC.line.remove(); MAPC.line = null; }
-    if (focus && focus.places.length > 1) {
-      MAPC.line = Lf.polyline(focus.places.map(t => [P[t].lat, P[t].lon]), { pane: 'places', color: '#7a3d0e', weight: 1.2, dashArray: '4 6', opacity: .55, interactive: false }).addTo(map);
+    // линия пути — только для явных маршрутов (focus.route); места спутника из разных лет линией не соединяем
+    const coords = focus && focus.route && focus.places.length > 1 ? focus.places.map(t => [P[t].lon, P[t].lat]) : [];
+    map.getSource('path').setData({ type: 'FeatureCollection', features: coords.length ? [{ type: 'Feature', geometry: { type: 'LineString', coordinates: coords } }] : [] });
+    layoutLabels();
+  }
+  function layoutLabels() {   // подписи мест: сначала самые «населённые» лилами, без наложений друг на друга
+    if (!MAPC.ready) return;
+    const map = MAPC.map, z = map.getZoom(), placed = [], W = map.getContainer().clientWidth, H = map.getContainer().clientHeight;
+    const hit = r => placed.some(q => r.x < q.x + q.w && q.x < r.x + r.w && r.y < q.y + q.h && q.y < r.y + r.h);
+    const items = Object.entries(MAPC.markers).map(([tag, m]) => ({ tag, m, el: m.getElement(), p: S.places[tag] }))
+      .sort((a, b) => (a.el.classList.contains('is-dim') - b.el.classList.contains('is-dim')) || b.el.dataset.n - a.el.dataset.n);
+    for (const it of items) {   // сначала занимаем места самих точек
+      const pt = map.project([it.p.lon, it.p.lat]), s = it.p.type === 'site' ? 26 : parseFloat(it.el.style.getPropertyValue('--s')) || 12;
+      it.pt = pt; it.s = s;
+      if (it.p.type !== 'site' || z >= 11) placed.push({ x: pt.x - s / 2, y: pt.y - (it.p.type === 'site' ? s + 2 : s / 2), w: s, h: s });
+    }
+    for (const it of items) {
+      const r = +it.el.dataset.r, site = it.p.type === 'site', dim = it.el.classList.contains('is-dim');
+      const want = !dim && (site ? z >= 13.5 : r === 1 || (r === 2 && z >= 6.3) || z >= 8.5);
+      let ok = false;
+      if (want && it.pt.x > -50 && it.pt.x < W + 50 && it.pt.y > -20 && it.pt.y < H + 20) {
+        const w = L(it.p, 'name').length * 7.4 + (site ? 14 : 30), h = 21;
+        const rect = { x: it.pt.x + it.s / 2 + 3, y: (site ? it.pt.y - it.s * .7 : it.pt.y) - h / 2, w, h };
+        if (!hit(rect)) { placed.push(rect); ok = true; }
+      }
+      it.el.classList.toggle('show-l', ok);
     }
   }
+  function flyToPlace(tag) {
+    const p = S.places[tag]; if (!MAPC.map || !p || p.lat == null) return;
+    const z = p.type === 'site' ? 15.5 : p.status === 'exact' || p.status === 'tradition' ? Math.max(MAPC.map.getZoom(), 12.5) : Math.max(MAPC.map.getZoom(), 9.5);
+    MAPC.map.flyTo({ center: [p.lon, p.lat], zoom: z, speed: reduced() ? 3 : 1.1, curve: 1.5, padding: { right: document.body.classList.contains('is-reading') ? 0 : 0 } });
+  }
+  function buildMapUi() {
+    const tt = t();
+    $('map-regions').innerHTML = Object.keys(REGIONS).map(k => `<button type="button" data-region="${k}">${tt.regions[k]}</button>`).join('');
+    $('map-base').innerHTML = `<button type="button" data-base="paper" aria-pressed="${!MAPC.sat}">${tt.basePaper}</button><button type="button" data-base="sat" aria-pressed="${MAPC.sat}">${tt.baseSat}</button>`;
+    const opts = Object.entries(S.places).filter(([, p]) => p.lat != null && (p.lilas || []).length).map(([k, p]) => `<option value="${esc(L(p, 'name'))}"></option>`);
+    $('map-places').innerHTML = opts.join('');
+    $('map-q').placeholder = tt.mapSearch;
+    $('hs-toggle').checked = MAPC.hs;
+    if (!MAPC.uiDone) { MAPC.uiDone = true; $('map-layers').open = window.innerWidth > 700; }
+  }
+  window.addEventListener('hashchange', () => { if (/^#map\/./.test(location.hash)) { if (S.tab !== 'map') showTab('map', false); if (MAPC.ready) routeMap(); } });
+  function routeMap() {   // #map/<место>
+    const m = location.hash.match(/^#map\/(.+)$/);
+    if (m && S.places['#' + decodeURIComponent(m[1])]) { const tag = '#' + decodeURIComponent(m[1]); openPlace(tag); }
+  }
+  $('map-regions').addEventListener('click', e => {
+    const b = e.target.closest('[data-region]'); if (!b || !MAPC.map) return;
+    MAPC.map.fitBounds(REGIONS[b.dataset.region], { padding: 30, duration: reduced() ? 0 : 1200 });
+  });
+  $('map-base').addEventListener('click', e => {
+    const b = e.target.closest('[data-base]'); if (!b) return;
+    MAPC.sat = b.dataset.base === 'sat'; satPaint();
+  });
+  $('map-q').addEventListener('change', e => {
+    const q = e.target.value.trim().toLowerCase(); if (!q) return;
+    const hit = Object.entries(S.places || {}).find(([, p]) => p.lat != null && (L(p, 'name').toLowerCase() === q || p.name.toLowerCase() === q || p.name_en.toLowerCase() === q))
+      || Object.entries(S.places || {}).find(([, p]) => p.lat != null && (p.lilas || []).length && (p.name + ' ' + p.name_en).toLowerCase().includes(q));
+    if (hit) { openPlace(hit[0]); e.target.value = ''; e.target.blur(); }
+  });
+  $('hs-toggle').addEventListener('change', e => {
+    MAPC.hs = e.target.checked;
+    if (MAPC.ready) ['hs', 'hs-name'].forEach(id => MAPC.map.setLayoutProperty(id, 'visibility', MAPC.hs ? 'visible' : 'none'));
+  });
+  $('ams-toggle').addEventListener('change', e => {
+    MAPC.ams = e.target.checked;
+    if (!MAPC.ready) return;
+    MAPC.map.setLayoutProperty('ams', 'visibility', MAPC.ams ? 'visible' : 'none');
+    if (MAPC.ams) MAPC.map.fitBounds([[87, 23], [88.5, 24]], { padding: 20, duration: reduced() ? 0 : 900 });
+  });
+  function mapRelang() {
+    if (!MAPC.map) return;
+    buildMapUi(); focusBox();
+    if (!MAPC.ready) return;
+    ['hamlet', 'village', 'suburb', 'town', 'city', 'river-name', 'water-name'].forEach(id => MAPC.map.setLayoutProperty(id, 'text-field', labelField()));
+    const src = MAPC.map.getSource('hs');
+    if (src) src.setData({ type: 'FeatureCollection', features: (MAPC.spots || []).filter(s => !s.t).map(s => ({ type: 'Feature', geometry: { type: 'Point', coordinates: s.c }, properties: { id: s.id, n: S.lang === 'en' ? s.ne : s.n, x: s.x } })) });
+    drawPlaces();
+  }
   function focusPerson(tag) {
-    const places = placesOfEvents(lilasOfPerson(tag));   // по порядку лил — путь спутника
+    const places = placesOfEvents(lilasOfPerson(tag));   // все места лил спутника
     MAPC.focus = { tag, places };
-    const box = $('map-focus');
+    focusBox();
+    drawPlaces();
+    if (places.length) {
+      const b = new MAPC.ml.LngLatBounds();
+      places.forEach(p => b.extend([S.places[p].lon, S.places[p].lat]));
+      MAPC.map.fitBounds(b, { padding: 70, maxZoom: 10, duration: reduced() ? 0 : 1000 });
+    }
+  }
+  function focusBox() {
+    const box = $('map-focus'), f = MAPC.focus;
+    if (!f) { box.hidden = true; return; }
+    const tag = f.tag;
     box.hidden = false;
     box.innerHTML = `<span>${esc(t().focus(pname(tag)))}</span><button type="button" class="link-btn" id="map-clear">${t().clear}</button>`;
     $('map-clear').onclick = () => { MAPC.focus = null; box.hidden = true; drawPlaces(); };
-    drawPlaces();
-    if (places.length) MAPC.map.flyToBounds(places.map(p => [S.places[p].lat, S.places[p].lon]), { padding: [60, 60], maxZoom: 9, duration: .8 });
   }
   $('layers').addEventListener('click', e => {
     const jb = e.target.closest('[data-act="goto-lilas"], [data-act="goto-bio"]');
@@ -640,11 +864,13 @@
       if (el) body.scrollTo({ top: body.scrollTop + el.getBoundingClientRect().top - body.getBoundingClientRect().top - 8, behavior: reduced() ? 'auto' : 'smooth' });
       return;
     }
+    const pf = e.target.closest('[data-act="place-fly"]');
+    if (pf) { if (S.tab !== 'map') { showTab('map'); const go = () => MAPC.ready ? flyToPlace(S.reader.tag) : setTimeout(go, 120); go(); } else flyToPlace(S.reader.tag); return; }
     const b = e.target.closest('[data-act="person-map"]');
     if (!b) return;
     const tag = S.reader.tag;
     showTab('map');
-    const go = () => (MAPC.map && S.places && MAPC.markers && Object.keys(MAPC.markers).length) ? focusPerson(tag) : setTimeout(go, 120);
+    const go = () => (MAPC.ready && S.places) ? focusPerson(tag) : setTimeout(go, 120);
     go();
   });
 
@@ -762,7 +988,7 @@
     updateCenter();
     renderReader();
     if (S.tab) showTab(S.tab, false);
-    if (MAPC.map && S.places) drawPlaces();
+    mapRelang();
     if (S.tab === 'lib') renderLib();
   }
   document.querySelectorAll('.lang button').forEach(b => b.addEventListener('click', () => { S.lang = b.dataset.lang; savePrefs(); applyLang(); }));
@@ -840,7 +1066,7 @@
     const h = location.hash.slice(1);
     if (findEp(h)) S.ep = h;
     else { S.open = findEv(h)[0] ? h : 'ev-gaura-appearance'; S.ep = findEv(S.open)[0].id; }
-    S.tab = TABS.includes(h) ? h : h.startsWith('lib/') ? 'lib' : 'lilas';
+    S.tab = TABS.includes(h) ? h : h.startsWith('lib/') ? 'lib' : h.startsWith('map/') ? 'map' : 'lilas';
     if (h.startsWith('lib/')) { const [, b, n] = h.split('/'); LIB.book = b || null; LIB.ch = n ? +n - 1 : null; }
     applyLang();
     requestAnimationFrame(() => { centerOn(S.open || S.ep, false); updateCenter(); });

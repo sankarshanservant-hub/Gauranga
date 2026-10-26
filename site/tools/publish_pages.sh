@@ -10,10 +10,11 @@ cp "$ROOT/site/index.html" "$ROOT/site/style.css" "$ROOT/site/app.js" .
 mkdir -p assets data
 cp -r "$ROOT/site/assets/img" "$ROOT/site/assets/audio" assets/
 cp -r "$ROOT/site/data/." data/
+cp -r "$ROOT/site/vendor" .
 # версия в адресах файлов: браузер не смешает закэшированную старую страницу с новыми стилями/скриптами/данными
 V=$(git -C "$ROOT" rev-parse --short HEAD)-$(date +%s)
 sed -i "s#href=\"style.css\"#href=\"style.css?v=$V\"#; s#src=\"app.js\"#src=\"app.js?v=$V\"#" index.html
-sed -i "s#data/timeline.json'#data/timeline.json?v=$V'#; s#data/persons.json'#data/persons.json?v=$V'#; s#data/places.json'#data/places.json?v=$V'#; s#data/basemap.json'#data/basemap.json?v=$V'#; s#data/library/index.json'#data/library/index.json?v=$V'#; s#data/library/\${key}.json\`#data/library/\${key}.json?v=$V\`#; s#data/parshadas/\${key}.json\`#data/parshadas/\${key}.json?v=$V\`#; s#data/verses/\${name}.json\`#data/verses/\${name}.json?v=$V\`#" app.js
+sed -i "s#data/timeline.json'#data/timeline.json?v=$V'#; s#data/persons.json'#data/persons.json?v=$V'#; s#data/places.json'#data/places.json?v=$V'#; s#data/holyspots.json'#data/holyspots.json?v=$V'#; s#data/library/index.json'#data/library/index.json?v=$V'#; s#data/library/\${key}.json\`#data/library/\${key}.json?v=$V\`#; s#data/parshadas/\${key}.json\`#data/parshadas/\${key}.json?v=$V\`#; s#data/verses/\${name}.json\`#data/verses/\${name}.json?v=$V\`#" app.js
 grep -q "style.css?v=" index.html && grep -q "timeline.json?v=" app.js && grep -q "json?v=$V" app.js || { echo "не удалось проставить версию"; exit 1; }
 # страница: просим браузер всегда сверяться с сервером
 sed -i 's#<meta charset="utf-8">#<meta charset="utf-8">\n<meta http-equiv="Cache-Control" content="no-cache">#' index.html
