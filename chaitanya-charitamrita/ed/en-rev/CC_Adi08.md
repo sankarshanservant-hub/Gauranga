@@ -607,6 +607,276 @@ by the chariot of the mind  toward the unreal  running  outward
 
 (58) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But whence can great qualities come to one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^24]
 
+পণ্ডিত-গোসাঞির শিষ্য — অনন্ত আচার্য্য ৷  
+কৃষ্ণপ্রেমময়-তনু, উদার, সর্ব্ব-আর্য্য ॥ ৫৯ ॥
+
+paṇḍita-gosāñira śiṣya — ananta ācārya  
+of Paṇḍita Gosāñi  the disciple  Ananta  Ācārya  
+kṛṣṇa-premamaya-tanu, udāra, sarva-ārya  
+whose body is full of love for Kṛṣṇa  magnanimous  noble in every way
+
+(59) Ananta Ācārya was the disciple of Paṇḍita Gosāñi; his very body was made of love for Kṛṣṇa, and he was generous and noble in every way.[^25]
+
+তাঁহার অনন্ত গুণ কে করু প্রকাশ ৷  
+তাঁর প্রিয় শিষ্য ইঁহ — পণ্ডিত হরিদাস ॥ ৬০ ॥
+
+tām̐hāra ananta guṇa ke karu prakāśa  
+his  endless  qualities  who  can  reveal  
+tām̐ra priya śiṣya im̐ha — paṇḍita haridāsa  
+his  dear  disciple  this one  Paṇḍita  Haridāsa
+
+(60) Who could tell his endless virtues? And this Haridāsa Paṇḍita is his dear disciple.
+
+চৈতন্যে-নিত্যানন্দে তাঁর পরম বিশ্বাস ৷  
+চৈতন্য-চরিতে তাঁর পরম উল্লাস ॥ ৬১ ॥
+
+caitanye-nityānande tām̐ra parama viśvāsa  
+in Caitanya and Nityānanda  his  supreme  faith  
+caitanya-carite tām̐ra parama ullāsa  
+in Caitanya’s deeds  his  supreme  delight
+
+(61) His faith in Caitanya and Nityānanda is boundless, and the deeds of Caitanya fill him with the greatest joy.
+
+বৈষ্ণবের গুণগ্রাহী, না দেখয়ে দোষ ৷  
+কায়মনোবাক্যে করে বৈষ্ণবে সন্তোষ ॥ ৬২ ॥
+
+vaiṣṇavera guṇa-grāhī, nā dekhaye doṣa  
+of the Vaiṣṇavas  who takes the virtues  not  sees  faults  
+kāya-mano-vākye kare vaiṣṇave santoṣa  
+with body, mind and words  he gives  to the Vaiṣṇavas  satisfaction
+
+(62) He takes in the virtues of the Vaiṣṇavas and never sees their faults; with body, mind and words he seeks to please them.
+
+নিরন্তর শুনে তেঁহো ‘চৈতন্যমঙ্গল’ ৷  
+তাঁহার প্রসাদে শুনেন বৈষ্ণবসকল ॥ ৬৩ ॥
+
+nirantara śune tem̐ho ‘caitanya-maṅgala’  
+constantly  hears  he  the Caitanya-maṅgala  
+tām̐hāra prasāde śunena vaiṣṇava-sakala  
+by his  grace  hear  all the Vaiṣṇavas
+
+(63) He listens constantly to the *Caitanya-maṅgala*, and by his grace all the Vaiṣṇavas hear it too.[^26]
+
+কথায় সভা উজ্জ্বল করে যেন পূর্ণচন্দ্র ৷  
+নিজ-গুণামৃতে বাড়ায় বৈষ্ণব-আনন্দ ॥ ৬৪ ॥
+
+kathāya sabhā ujjvala kare yena pūrṇa-candra  
+with his words  the assembly  bright  makes  like  the full moon  
+nija-guṇāmṛte bāḍāya vaiṣṇava-ānanda  
+with the nectar of his own qualities  increases  the bliss of the Vaiṣṇavas
+
+(64) Like the full moon he lights up the assembly with his words, and with the nectar of his virtues he increases the joy of the Vaiṣṇavas.
+
+তেঁহো অতি কৃপা করি’ আজ্ঞা দিলা মোরে ৷  
+গৌরাঙ্গের শেষলীলা বর্ণিবার তরে ॥ ৬৫ ॥
+
+tem̐ho ati kṛpā kari’ ājñā dilā more  
+he  great  mercy  showing  the order  gave  to me  
+gaurāṅgera śeṣa-līlā varṇibāra tare  
+Gaurāṅga’s  final pastimes  to describe  for the sake of
+
+(65) Out of his great mercy he gave me the order to describe Gaurāṅga’s final pastimes.
+
+কাশীশ্বর গোসাঞির শিষ্য — গোবিন্দ গোসাঞি ৷  
+গোবিন্দের প্রিয়সেবক তাঁর সম নাঞি ॥ ৬৬ ॥
+
+kāśīśvara gosāñira śiṣya — govinda gosāñi  
+of Kāśīśvara  Gosāñi  the disciple  Govinda  Gosāñi  
+govindera priya-sevaka tām̐ra sama nāñi  
+of Govinda  dear servant  to him  equal  there is none
+
+(66) Govinda Gosāñi, the disciple of Kāśīśvara Gosāñi, is the dear servant of Govinda, and there is none to equal him.[^27]
+
+যাদবাচার্য্য গোসাঞি শ্রীরূপের সঙ্গী ৷  
+চৈতন্যচরিতে তেঁহো অতি বড় রঙ্গী ॥ ৬৭ ॥
+
+yādavācārya gosāñi śrī-rūpera saṅgī  
+Yādavācārya  Gosāñi  of Śrī Rūpa  the companion  
+caitanya-carite tem̐ho ati baḍa raṅgī  
+in Caitanya’s deeds  he  very  greatly  delighting
+
+(67) Yādavācārya Gosāñi, the companion of Śrī Rūpa, takes the greatest delight in Caitanya’s deeds.
+
+পণ্ডিত-গোসাঞির শিষ্য — ভূগর্ভ গোসাঞি ৷  
+গৌরকথা বিনা তাঁর মুখে অন্য নাই ॥ ৬৮ ॥
+
+paṇḍita-gosāñira śiṣya — bhūgarbha gosāñi  
+of Paṇḍita Gosāñi  the disciple  Bhūgarbha  Gosāñi  
+gaura-kathā vinā tām̐ra mukhe anya nāi  
+talk of Gaura  except  his  in the mouth  other  there is not
+
+(68) Bhūgarbha Gosāñi, the disciple of Paṇḍita Gosāñi, has nothing on his lips but talk of Gaura.
+
+তাঁর শিষ্য — গোবিন্দ পূজক চৈতন্যদাস ৷  
+মুকুন্দানন্দ চক্রবর্ত্তী, প্রেমী কৃষ্ণদাস ॥ ৬৯ ॥
+
+tām̐ra śiṣya — govinda pūjaka caitanya-dāsa  
+his  disciples  of Govinda  the worshipper  Caitanya-dāsa  
+mukundānanda cakravartī, premī kṛṣṇadāsa  
+Mukundānanda  Cakravartī  loving  Kṛṣṇadāsa
+
+(69) His disciples are Caitanya-dāsa, the priest of Govinda, Mukundānanda Cakravartī and Kṛṣṇadāsa, full of love.[^28]
+
+আচার্য্যগোসাঞির শিষ্য — চক্রবর্ত্তী শিবানন্দ ৷  
+নিরবধি তাঁর চিত্তে শ্রীচৈতন্য-নিত্যানন্দ ॥ ৭০ ॥
+
+ācārya-gosāñira śiṣya — cakravartī śivānanda  
+of Ācārya Gosāñi  the disciple  Cakravartī  Śivānanda  
+niravadhi tām̐ra citte śrī-caitanya-nityānanda  
+ever  his  in the heart  Śrī Caitanya and Nityānanda
+
+(70) Śivānanda Cakravartī, the disciple of Ācārya Gosāñi, holds Śrī Caitanya and Nityānanda ever in his heart.[^29]
+
+আর যত বৃন্দাবনে বৈসে ভক্তগণ ৷  
+শেষ-লীলা শুনিতে সবার হৈল মন ॥ ৭১ ॥
+
+āra yata vṛndāvane baise bhakta-gaṇa  
+and  all the  in Vṛndāvana  live  devotees  
+śeṣa-līlā śunite sabāra haila mana  
+the final pastimes  to hear  of all  arose  the wish
+
+(71) And all the other devotees who live in Vṛndāvana wished to hear the final pastimes.
+
+মোরে আজ্ঞা করিলা সবে করুণা করিয়া ৷  
+তাঁ-সবার বোলে লিখি নির্লজ্জ হইয়া ॥ ৭২ ॥
+
+more ājñā karilā sabe karuṇā kariyā  
+me  order  gave  all  compassion  showing  
+tām̐-sabāra bole likhi nirlajja haiyā  
+of them all  at the word  I write  shameless  becoming
+
+(72) In their compassion they all gave me the order, and at their word I write, casting off all shame.
+
+বৈষ্ণবের আজ্ঞা পাঞা চিন্তিত-অন্তরে ৷  
+মদনগোপালে গেলাঙ আজ্ঞা মাগিবারে ॥ ৭৩ ॥
+
+vaiṣṇavera ājñā pāñā cintita-antare  
+of the Vaiṣṇavas  the order  having received  with anxious heart  
+madana-gopāle gelāṅa ājñā māgibāre  
+to Madana-gopāla  I went  the order  to beg
+
+(73) Having received the Vaiṣṇavas’ order, I went with an anxious heart to Madana-gopāla to beg His order too.[^30]
+
+দরশন করি কৈলুঁ চরণ বন্দন ৷  
+গোসাঞিদাস পূজারী করে চরণ-সেবন ॥ ৭৪ ॥
+
+daraśana kari kailum̐ caraṇa vandana  
+darśana  having had  I made  to the feet  obeisance  
+gosāñi-dāsa pūjārī kare caraṇa-sevana  
+Gosāñi-dāsa  the pūjārī  does  service of the feet
+
+(74) When I had seen Him, I bowed at His feet; the pūjārī Gosāñi-dāsa was serving His feet.
+
+প্রভুর চরণে যদি আজ্ঞা মাগিল ৷  
+প্রভুকণ্ঠ হৈতে মালা খসিয়া পড়িল ॥ ৭৫ ॥
+
+prabhura caraṇe yadi ājñā māgila  
+of the Lord  at the feet  when  the order  was begged  
+prabhu-kaṇṭha haite mālā khasiyā paḍila  
+from the Lord’s neck  the garland  slipping  fell
+
+(75) When the order was begged at the Lord’s feet, the garland slipped from the Lord’s neck and fell.[^31]
+
+সব বৈষ্ণবগণ হরিধ্বনি দিল ৷  
+গোসাঞিদাস আনি’ মালা মোর গলে দিল ॥ ৭৬ ॥
+
+saba vaiṣṇava-gaṇa hari-dhvani dila  
+all  the Vaiṣṇavas  the sound of “Hari”  raised  
+gosāñi-dāsa āni’ mālā mora gale dila  
+Gosāñi-dāsa  bringing  the garland  my  on the neck  placed
+
+(76) All the Vaiṣṇavas cried out “Hari!”, and Gosāñi-dāsa brought the garland and placed it around my neck.
+
+আজ্ঞা-মালা পাঞা আমার হইল আনন্দ ৷  
+তাহাই করিনু এই গ্রন্থের আরম্ভ ॥ ৭৭ ॥
+
+ājñā-mālā pāñā āmāra haila ānanda  
+the garland of His order  having received  my  there was  joy  
+tāhāi karinu ei granthera ārambha  
+right there  I made  of this  book  the beginning
+
+(77) Receiving the garland of His order, I was filled with joy, and then and there I began this book.
+
+এই গ্রন্থ লেখায় মোরে ‘মদনমোহন’ ৷  
+আমার লিখন যেন শুকের পঠন ॥ ৭৮ ॥
+
+ei grantha lekhāya more ‘madana-mohana’  
+this  book  makes write  me  Madana-mohana  
+āmāra likhana yena śukera paṭhana  
+my  writing  like  of a parrot  the recitation
+
+(78) It is Madana-mohana who makes me write this book; my writing is like the recitation of a parrot.[^32]
+
+সেই লিখি, মদনগোপাল মোরে যে লেখায় ৷  
+কাষ্ঠের পুত্তলী যেন কুহকে নাচায় ॥ ৭৯ ॥
+
+sei likhi, madana-gopāla more ye lekhāya  
+that  I write  Madana-gopāla  me  what  makes write  
+kāṣṭhera puttalī yena kuhake nācāya  
+of wood  a doll  as  a magician  makes dance
+
+(79) I write what Madana-gopāla makes me write, as a magician makes a wooden doll dance.
+
+কুলাধিদেবতা মোর — মদনমোহন ৷  
+যাঁর সেবক — রঘুনাথ, রূপ, সনাতন ॥ ৮০ ॥
+
+kulādhidevatā mora — madana-mohana  
+the presiding Deity of the family  my  Madana-mohana  
+yām̐ra sevaka — raghunātha, rūpa, sanātana  
+whose  servants  Raghunātha  Rūpa  Sanātana
+
+(80) My family Deity is Madana-mohana, whose servants are Raghunātha, Rūpa and Sanātana.[^33]
+
+বৃন্দাবন-দাসের পাদপদ্ম করি’ ধ্যান ৷  
+তাঁর আজ্ঞা লঞা লিখি যাহাতে কল্যাণ ॥ ৮১ ॥
+
+vṛndāvana-dāsera pāda-padma kari’ dhyāna  
+of Vṛndāvana dāsa  the lotus feet  making  meditation  
+tām̐ra ājñā lañā likhi yāhāte kalyāṇa  
+his  order  taking  I write  in which  is blessing
+
+(81) Meditating on the lotus feet of Vṛndāvana dāsa and taking his permission, I write what brings blessing.[^34]
+
+চৈতন্যলীলাতে ‘ব্যাস’ — বৃন্দাবন-দাস ৷  
+তাঁর কৃপা বিনা অন্যে না হয় প্রকাশ ॥ ৮২ ॥
+
+caitanya-līlāte ‘vyāsa’ — vṛndāvana-dāsa  
+in Caitanya’s pastimes  ‘Vyāsa’  Vṛndāvana dāsa  
+tām̐ra kṛpā vinā anye nā haya prakāśa  
+his  mercy  without  to others  not  becomes  manifest
+
+(82) In the pastimes of Caitanya, Vṛndāvana dāsa is Vyāsa; without his mercy they cannot be revealed by anyone else.
+
+মূর্খ, নীচ, ক্ষুদ্র মুঞি বিষয়-লালস ৷  
+বৈষ্ণবাজ্ঞা-বলে করি এতেক সাহস ॥ ৮৩ ॥
+
+mūrkha, nīca, kṣudra muñi viṣaya-lālasa  
+foolish  low  insignificant  I  greedy for sense objects  
+vaiṣṇavājñā-bale kari eteka sāhasa  
+by the strength of the Vaiṣṇavas’ order  I make  such  bold venture
+
+(83) I am foolish, low and insignificant, greedy for the objects of the senses; it is by the strength of the Vaiṣṇavas’ order that I make so bold.
+
+শ্রীরূপ-রঘুনাথ-চরণের এই বল ৷  
+যাঁর স্মৃতে সিদ্ধ হয় বাঞ্ছিতসকল ॥ ৮৪ ॥
+
+śrī-rūpa-raghunātha-caraṇera ei bala  
+of Śrī Rūpa and Raghunātha  of the feet  this  strength  
+yām̐ra smṛte siddha haya vāñchita-sakala  
+by whose  remembrance  fulfilled  become  desires  all
+
+(84) This is the strength of the feet of Śrī Rūpa and Raghunātha, by remembering whom every desire is fulfilled.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৮৫ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(85) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Amṛta-pravāha-bhāṣya*: by the will of Lord Caitanya-deva I, a fool like a painted puppet, have suddenly begun this dance of writing a book. *Anubhāṣya*: *jaḍaḥ* — “like one without sense”; *lekha-raṅge* — “in the play of composing this book”; *prasabham* — “suddenly”.
@@ -656,3 +926,23 @@ by the chariot of the mind  toward the unreal  running  outward
 [^23]: *Amṛta-pravāha-bhāṣya*: the fifty common qualities of Kṛṣṇa are listed in the *Bhakti-rasāmṛta-sindhu* (Southern Division, First Wave: *ayaṁ netā suramyāṅgaḥ…*).
 
 [^24]: *Anubhāṣya*: Śukadeva speaks these words to Parīkṣit while describing the qualities of the great devotee Prahlāda. *Akiñcanā* — “free of desire”; *samāsate* — “dwell eternally”; *asati* — “in the passing happiness of sense objects”; *mahad-guṇāḥ* — the virtues of the great, such as knowledge and detachment. *Amṛta-pravāha-bhāṣya*: in one who has pure devotion to Kṛṣṇa the gods abide with all their qualities; but the mind of one without devotion to Hari always runs after what is external and unreal, and great qualities are impossible for him.
+
+[^25]: *Amṛta-pravāha-bhāṣya*: *Paṇḍita Gosāñi* is Śrī Gadādhara Paṇḍita. *Anubhāṣya* to 59–60: in Gaura’s pastimes Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 165). From him comes the well-known Gaṅgāmātā Maṭha of Purī; in that line Ananta Ācārya is called Vinoda-mañjarī, and his disciple Haridāsa Paṇḍita (also called Raghu-gopāla) is Rāsa-mañjarī. Haridāsa’s disciple was Lakṣmīpriyā, and hers Gaṅgāmātā, a daughter of the Rājā of Puṭiyā, who brought the Deity of Śrī Rasikarāya from Jaipur and established His service in the house of Sārvabhauma in Purī.
+
+[^26]: Edition heading: “His reading of the *Caitanya-bhāgavata* in the assembly of Vaiṣṇavas.”
+
+[^27]: Edition heading to 66–72: “Who they were — the devotees who gave that same order.” *Anubhāṣya*: Kāśīśvara (Paṇḍita) Gosvāmī was a disciple of Īśvara Purī. He was very strong: each day, when Mahāprabhu went to see Jagannātha, he walked ahead and cleared the way through the crowd, and in Purī he served prasāda to the devotees after kīrtana. In the *Gaura-gaṇoddeśa-dīpikā* he is Kṛṣṇa’s servant Bhṛṅgāra in Vṛndāvana, or Śaśirekhā.
+
+[^28]: *Anubhāṣya*: on Bhūgarbha see Ādi 12.81; on Śivānanda (8.70), Ādi 12.87.
+
+[^29]: *Ācārya Gosāñi* — by the context (8.59–60), Ananta Ācārya; in Ādi 12.87 Śivānanda Cakravartī is counted in the branch of Gadādhara Paṇḍita.
+
+[^30]: Edition heading: “Having received the Vaiṣṇavas’ order, I beg in awe for the order of Śrī Madana-gopāla.”
+
+[^31]: Edition heading to 74–76: “As soon as the pūjārī Gosāñi-dāsa made the request, before all the Vaiṣṇavas the garland fell from Madana-gopāla — His order.”
+
+[^32]: *Amṛta-pravāha-bhāṣya*: what I have written in the *Caitanya-caritāmṛta* was written by the inspiration of Śrī Madana-mohana; so, as with a parrot’s recitation, none of the credit is mine.
+
+[^33]: Edition heading: “Service to Madana-mohana in the author’s line of gurus.”
+
+[^34]: Edition heading to 81–82: “The author, as befits a Vaiṣṇava, honours Ṭhākura Vṛndāvana dāsa as his guru and bows to him.”
