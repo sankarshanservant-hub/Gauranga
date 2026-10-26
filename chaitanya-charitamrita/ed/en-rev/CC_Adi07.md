@@ -320,6 +320,306 @@ them all  to drown  I shall set  some  play
 
 (31–32) Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall set some play in motion.”
 
+এত বলি’ মনে কিছু করিয়া বিচার ৷  
+সন্ন্যাস-আশ্রম প্রভু কৈলা অঙ্গীকার ॥ ৩৩ ॥
+
+eta bali’ mane kichu kariyā vicāra  
+thus  saying  in the mind  some  making  deliberation  
+sannyāsa-āśrama prabhu kailā aṅgīkāra  
+the sannyāsa order  the Lord  made  acceptance
+
+(33) Saying this and deliberating within Himself, the Lord accepted the order of sannyāsa.
+
+চব্বিশ বৎসর ছিলা গৃহস্থ-আশ্রমে ৷  
+পঞ্চবিংশতি বর্ষে কৈল যতিধর্ম্মে ॥ ৩৪ ॥
+
+cabbiśa vatsara chilā gṛhastha-āśrame  
+twenty-four  years  He remained  in the householder order  
+pañca-viṁśati varṣe kaila yati-dharme  
+in the twenty-fifth  year  He took  to the renunciant’s dharma
+
+(34) For twenty-four years He lived as a householder; in His twenty-fifth year He took up the dharma of a renunciant.[^13]
+
+সন্ন্যাস করিয়া প্রভু কৈলা আকর্ষণ ৷  
+যতেক পালাঞাছিল তার্কিকাদি গণ ॥ ৩৫ ॥
+
+sannyāsa kariyā prabhu kailā ākarṣaṇa  
+sannyāsa  having taken  the Lord  made  attraction  
+yateka pālāñāchila tārkikādi gaṇa  
+all who  had fled  the logicians and the rest
+
+(35) Having taken sannyāsa, the Lord drew to Himself all who had fled — the logicians and the rest.
+
+পড়ুয়া, পাষণ্ডী, কর্ম্মী, নিন্দকাদি যত ৷  
+তারা আসি’ প্রভু-পায় হয় অবনত ॥ ৩৬ ॥
+
+paḍuyā, pāṣaṇḍī, karmī, nindakādi yata  
+students  pāṣaṇḍīs  karmīs  blasphemers and others  all  
+tārā āsi’ prabhu-pāya haya avanata  
+they  coming  at the Lord’s feet  become  bowed down
+
+(36) Students, pāṣaṇḍīs, karmīs, blasphemers and all the others came and bowed down at the Lord’s feet.
+
+অপরাধ ক্ষমাইল, ডুবিল প্রেমজলে ৷  
+কেবা এড়াইবে প্রভুর প্রেম-মহাজালে ॥ ৩৭ ॥
+
+aparādha kṣamāila, ḍubila prema-jale  
+offences  He forgave  they sank  in the waters of prema  
+kebā eḍāibe prabhura prema-mahājāle  
+who  will escape  the Lord’s  in the great net of prema
+
+(37) He forgave their offences, and they sank into the waters of prema. Who can escape the Lord’s great net of love?
+
+সবা নিস্তারিতে প্রভু কৃপা-অবতার ৷  
+সবা নিস্তারিতে করে চাতুরী অপার ॥ ৩৮ ॥
+
+sabā nistārite prabhu kṛpā-avatāra  
+all  to deliver  the Lord  the avatāra of mercy  
+sabā nistārite kare cāturī apāra  
+all  to deliver  He uses  stratagems  boundless
+
+(38) The Lord is the avatāra of mercy who came to deliver everyone, and to deliver everyone He uses boundless stratagems.
+
+তবে নিজ ভক্ত কৈল যত ম্লেচ্ছ আদি ৷  
+সবে এড়াইল মাত্র কাশীর মায়াবাদী ॥ ৩৯ ॥
+
+tabe nija bhakta kaila yata mleccha ādi  
+then  His own  devotees  He made  all  mlecchas  and others  
+sabe eḍāila mātra kāśīra māyāvādī  
+all  escaped  only  of Kāśī  the Māyāvādīs
+
+(39) He made His devotees of all — even the mlecchas and others; only the Māyāvādīs of Kāśī escaped.
+
+বৃন্দাবন যাইতে প্রভু রহিলা কাশীতে ৷  
+মায়াবাদিগণ তাঁরে লাগিলা নিন্দিতে ॥ ৪০ ॥
+
+vṛndāvana yāite prabhu rahilā kāśīte  
+to Vṛndāvana  going  the Lord  stayed  in Kāśī  
+māyāvādi-gaṇa tām̐re lāgilā nindite  
+the Māyāvādīs  Him  began  to blaspheme
+
+(40) On His way to Vṛndāvana the Lord stayed in Kāśī, and the Māyāvādīs began to blaspheme Him:
+
+সন্ন্যাসী হইয়া করেন গায়ন, নাচন ৷  
+না করে বেদান্ত শ্রবণ, করে সংকীর্ত্তন ॥ ৪১ ॥
+
+sannyāsī haiyā karena gāyana, nācana  
+a sannyāsī  being  He does  singing  dancing  
+nā kare vedānta śravaṇa, kare saṅkīrtana  
+not  does  of Vedānta  hearing  does  saṅkīrtana
+
+(41) “Though a sannyāsī, He sings and dances. He does not hear Vedānta, but performs saṅkīrtana.[^14]
+
+মূর্খ সন্ন্যাসী নিজ-ধর্ম্ম নাহি জানে ৷  
+ভাবুক হইয়া ফেরে ভাবুকের সনে ॥ ৪২ ॥
+
+mūrkha sannyāsī nija-dharma nāhi jāne  
+a foolish  sannyāsī  his own dharma  not  knows  
+bhāvuka haiyā phere bhāvukera sane  
+sentimental  being  He wanders  with the sentimentalists  together
+
+(42) This foolish sannyāsī does not know His own dharma; a sentimentalist Himself, He wanders about with sentimentalists.”
+
+এ সব শুনিয়া প্রভু হাসে মনে মনে ৷  
+উপেক্ষা করিয়া কারো না কৈল সম্ভাষণে ॥ ৪৩ ॥
+
+e saba śuniyā prabhu hāse mane mane  
+this  all  hearing  the Lord  smiles  in the mind  in the mind  
+upekṣā kariyā kāro nā kaila sambhāṣaṇe  
+disregard  making  to anyone  not  made  conversation
+
+(43) Hearing all this, the Lord smiled within, and, paying no heed, He spoke with none of them.
+
+উপেক্ষা করিয়া কৈল মথুরা গমন ৷  
+মথুরা দেখিয়া পুনঃ কৈল আগমন ॥ ৪৪ ॥
+
+upekṣā kariyā kaila mathurā gamana  
+disregard  making  He made  to Mathurā  going  
+mathurā dekhiyā punaḥ kaila āgamana  
+Mathurā  having seen  again  He made  return
+
+(44) Paying them no heed, He went on to Mathurā, and after seeing Mathurā He came back again.
+
+কাশীতে লেখক শূদ্র-শ্রীচন্দ্রশেখর ৷  
+তাঁর ঘরে রহিলা প্রভু স্বতন্ত্র ঈশ্বর ॥ ৪৫ ॥
+
+kāśīte lekhaka śūdra-śrīcandraśekhara  
+in Kāśī  the scribe  the śūdra  Śrī Candraśekhara  
+tām̐ra ghare rahilā prabhu svatantra īśvara  
+his  in the house  stayed  the Lord  the independent  Īśvara
+
+(45) In Kāśī lived the scribe Śrī Candraśekhara, a śūdra; in his house the Lord stayed, for He is the independent Lord.[^15]
+
+তপন-মিশ্রের ঘরে ভিক্ষা-নির্ব্বাহণ ৷  
+সন্ন্যাসীর সঙ্গে নাহি মানে নিমন্ত্রণ ॥ ৪৬ ॥
+
+tapana-miśrera ghare bhikṣā-nirvāhaṇa  
+of Tapana Miśra  in the house  alms  taking  
+sannyāsīra saṅge nāhi māne nimantraṇa  
+of sannyāsīs  in company  not  accepts  invitation
+
+(46) He took His meals at the house of Tapana Miśra and accepted no invitation in the company of the sannyāsīs.
+
+সনাতন গোসাঞি আসি’ তাঁহাই মিলিলা ৷  
+তাঁর শিক্ষা লাগি’ প্রভু দু-মাস রহিলা ॥ ৪৭ ॥
+
+sanātana gosāñi āsi’ tām̐hāi mililā  
+Sanātana  Gosāñi  coming  there  met  
+tām̐ra śikṣā lāgi’ prabhu du-māsa rahilā  
+his  instruction  for the sake of  the Lord  two months  stayed
+
+(47) Sanātana Gosāñi came and met Him there, and to instruct him the Lord stayed two months.
+
+তাঁরে শিক্ষাইল সব বৈষ্ণবের ধর্ম্ম ৷  
+শ্রীভাগবত-আদি শাস্ত্রের যত গূঢ় মর্ম্ম ॥ ৪৮ ॥
+
+tām̐re śikṣāila saba vaiṣṇavera dharma  
+him  He taught  all  of the Vaiṣṇavas  the dharma  
+śrī bhāgavata-ādi śāstrera yata gūḍha marma  
+Śrī Bhāgavata and other  of the scriptures  all  secret  heart
+
+(48) He taught him the whole dharma of the Vaiṣṇavas and all the hidden heart of the *Bhāgavata* and the other scriptures.
+
+ইতিমধ্যে চন্দ্রশেখর, মিশ্র-তপন ৷  
+দুঃখী হঞা প্রভু-পায় কৈল নিবেদন ॥ ৪৯ ॥
+
+itimadhye candraśekhara, miśra-tapana  
+meanwhile  Candraśekhara  Miśra Tapana  
+duḥkhī hañā prabhu-pāya kaila nivedana  
+grieved  being  at the Lord’s feet  made  petition
+
+(49) Meanwhile Candraśekhara and Tapana Miśra, deeply grieved, came to the Lord’s feet with a petition:
+
+কতেক শুনিব প্রভু তোমার নিন্দন!  
+না পারি সহিতে, এবে ছাড়িব জীবন ॥ ৫০ ॥
+
+kateka śuniba prabhu tomāra nindana!  
+how much  shall we hear  O Lord  of You  the blasphemy  
+nā pāri sahite, ebe chāḍiba jīvana  
+not  we can  bear  now  we shall give up  life
+
+(50) “How much longer must we hear You blasphemed, O Lord? We cannot bear it; we would rather give up our lives.
+
+তোমাকে নিন্দয়ে যত সন্ন্যাসীর গণ ৷  
+শুনিতে না পারি, ফাটে হৃদয়-শ্রবণ ॥ ৫১ ॥
+
+tomāke nindaye yata sannyāsīra gaṇa  
+You  blaspheme  all  of sannyāsīs  the company  
+śunite nā pāri, phāṭe hṛdaya-śravaṇa  
+to hear  not  we can  bursts  heart and ears
+
+(51) All the sannyāsīs revile You, and we cannot listen to it: our hearts and ears are bursting.”
+
+ইহা শুনি’ রহে প্রভু ঈষৎ হাসিয়া ৷  
+সেইকালে এক বিপ্র মিলিল আসিয়া ॥ ৫২ ॥
+
+ihā śuni’ rahe prabhu īṣat hāsiyā  
+this  hearing  remains  the Lord  slightly  smiling  
+sei kāle eka vipra milila āsiyā  
+at that  time  one  brāhmaṇa  met  coming
+
+(52) Hearing this, the Lord only smiled a little. Just then a brāhmaṇa came to meet Him.
+
+আসি’ নিবেদন করে চরণে ধরিয়া ৷  
+এক বস্তু মাগোঁ, দেহ, প্রসন্ন হইয়া ॥ ৫৩ ॥
+
+āsi’ nivedana kare caraṇe dhariyā  
+coming  petition  makes  the feet  clasping  
+eka vastu māgom̐, deha, prasanna haiyā  
+one  thing  I beg  give  pleased  being
+
+(53) He came and, clasping the Lord’s feet, made his petition: “I beg one thing of You; be pleased and grant it.
+
+সকল সন্ন্যাসী মুঞি কৈনু নিমন্ত্রণ ৷  
+তুমি যদি আইস, পূর্ণ হয় মোর মন ॥ ৫৪ ॥
+
+sakala sannyāsī muñi kainu nimantraṇa  
+all  sannyāsīs  I  have made  invitation  
+tumi yadi āisa, pūrṇa haya mora mana  
+You  if  come  fulfilled  becomes  my  heart
+
+(54) I have invited all the sannyāsīs; if You come too, my heart’s desire will be fulfilled.
+
+না যাহ সন্ন্যাসী-গোষ্ঠী, ইহা আমি জানি ৷  
+মোরে অনুগ্রহ কর নিমন্ত্রণ মানি’ ॥ ৫৫ ॥
+
+nā yāha sannyāsī-goṣṭhī, ihā āmi jāni  
+not  You go  sannyāsī-gatherings  this  I  know  
+more anugraha kara nimantraṇa māni’  
+to me  mercy  show  the invitation  accepting
+
+(55) I know that You do not go to gatherings of sannyāsīs; yet be merciful to me and accept my invitation.”
+
+প্রভু হাসি’ নিমন্ত্রণ কৈল অঙ্গীকার ৷  
+সন্ন্যাসীরে কৃপা লাগি’ এ ভঙ্গী তাঁহার ॥ ৫৬ ॥
+
+prabhu hāsi’ nimantraṇa kaila aṅgīkāra  
+the Lord  smiling  the invitation  made  acceptance  
+sannyāsīre kṛpā lāgi’ e bhaṅgī tām̐hāra  
+to the sannyāsīs  mercy  for the sake of  this  gesture  His
+
+(56) Smiling, the Lord accepted the invitation; He made this gesture to show mercy to the sannyāsīs.
+
+সে বিপ্র জানেন, প্রভু না যা’ন কা’র ঘরে ৷  
+তাঁহার প্রেরণায় তাঁরে অত্যাগ্রহ করে ॥ ৫৭ ॥
+
+se vipra jānena, prabhu nā yā’na kā’ra ghare  
+that  brāhmaṇa  knows  the Lord  not  goes  to anyone’s  house  
+tām̐hāra preraṇāya tām̐re atyāgraha kare  
+by His  inspiration  Him  great insistence  makes
+
+(57) The brāhmaṇa knew that the Lord does not go to anyone’s house, but, inspired by the Lord Himself, he pressed Him with great insistence.[^16]
+
+আর দিনে গেলা প্রভু সে বিপ্র-ভবনে ৷  
+দেখিলেন, বসিয়াছেন সন্ন্যাসীর গণে ॥ ৫৮ ॥
+
+āra dine gelā prabhu se vipra-bhavane  
+on the next  day  went  the Lord  that  brāhmaṇa’s  house  
+dekhilena, vasiyāchena sannyāsīra gaṇe  
+He saw  are seated  of sannyāsīs  the company
+
+(58) The next day the Lord went to the brāhmaṇa’s house and saw the sannyāsīs all seated there.
+
+সবা নমস্করি’ গেলা পাদ-প্রক্ষালনে ৷  
+পাদ প্রক্ষালিয়া বসিল সেই স্থানে ॥ ৫৯ ॥
+
+sabā namaskari’ gelā pāda-prakṣālane  
+to all  bowing  He went  to wash the feet  
+pāda prakṣāliyā vasila sei sthāne  
+the feet  having washed  sat  in that  place
+
+(59) Bowing to them all, He went to wash His feet, and when He had washed them He sat down in that very place.
+
+বসিয়া করিলা কিছু ঐশ্বর্য্য প্রকাশ ৷  
+মহাতেজোময় বপু কোটীসূর্য্যাভাস ॥ ৬০ ॥
+
+vasiyā karilā kichu aiśvarya prakāśa  
+sitting  He made  some  of majesty  display  
+mahātejomaya vapu koṭī-sūryābhāsa  
+greatly effulgent  body  of millions of suns  the splendour
+
+(60) As He sat there, He revealed a little of His majesty: His body shone with great effulgence, with the splendour of millions of suns.[^17]
+
+প্রভাবে আকর্ষিল সব সন্ন্যাসীর মন ৷  
+উঠিলা সন্ন্যাসী সব ছাড়িয়া আসন ॥ ৬১ ॥
+
+prabhāve ākarṣila saba sannyāsīra mana  
+by the splendour  He attracted  all  of the sannyāsīs  the minds  
+uṭhilā sannyāsī saba chāḍiyā āsana  
+rose  the sannyāsīs  all  leaving  their seats
+
+(61) That splendour drew the minds of all the sannyāsīs, and they all rose from their seats.
+
+প্রকাশানন্দ-নামে এক সন্ন্যাসী প্রধান ৷  
+প্রভুকে কহিল কিছু করিয়া সম্মান ॥ ৬২ ॥
+
+prakāśānanda-nāme eka sannyāsī pradhāna  
+Prakāśānanda  by name  one  sannyāsī  chief  
+prabhuke kahila kichu kariyā sammāna  
+to the Lord  spoke  something  showing  respect
+
+(62) The chief among the sannyāsīs, Prakāśānanda by name, addressed the Lord with respect:[^18]
+
 ---
 
 [^1]: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
@@ -345,3 +645,15 @@ them all  to drown  I shall set  some  play
 [^11]: *Anubhāṣya*: in the Lord’s *jīva-śakti*, together with the inclination towards Kṛṣṇa, there lies hidden the seed of the desire to enjoy in turning away from Him. As a seed in flooded earth can put forth no shoot, so in the flood of prema the seed of every desire other than service to Kṛṣṇa perished. *Amṛta-pravāha-bhāṣya*: there perished the seed of the bondage of *avidyā* — the soul’s forgetfulness that it is Kṛṣṇa’s servant.
 
 [^12]: *Amṛta-pravāha-bhāṣya*: the Māyāvādīs are the sannyāsīs Prakāśānanda and others; those devoted to karma — Devānanda and other karmīs without bhakti, the *smārtas*, for whom karma and its fruits are the chief goal; the false logicians — Sārvabhauma and other godless logicians; the blasphemers — the one whom the Lord drove away with a stick, Gopāla Cāpāla and others who reviled the Lord and His devotees; the pāṣaṇḍīs — those who place other gods on a level with the Lord; the lowest of students — those for whom learning is only a cause for argument and not a way to God.
+
+[^13]: *Anubhāṣya*: Śrī Mahāprabhu accepted sannyāsa in Śaka 1432, in the month of Māgha, during the bright fortnight, at Katwa, from the *daṇḍi-svāmī* Śrī Keśava Bhāratī of the school of Śrī Śaṅkara (under the Śṛṅgerī Maṭha in the south).
+
+[^14]: *Anubhāṣya*: by the rule of the *smṛti*, a sannyāsī must give up singing, dancing and playing music and always study Vedānta; seeing that Mahāprabhu did not hear Śaṅkara’s Māyāvāda but danced in love, absorbed in singing of Kṛṣṇa, the sannyāsīs of Kāśī took Him to be ignorant of the dharma of sannyāsa.
+
+[^15]: *Amṛta-pravāha-bhāṣya*: Candraśekhara was a *vaidya*, and so by varṇa a śūdra. It is not proper for a sannyāsī to spend the night in a śūdra’s house, but Mahāprabhu stayed with him out of mercy, for He is the independent Lord: before His mercy brāhmaṇa and śūdra are equal.
+
+[^16]: *Amṛta-pravāha-bhāṣya*: wishing to show mercy to the sannyāsīs, the Lord Himself moved the brāhmaṇa’s heart, and so he begged with such insistence.
+
+[^17]: As in the Gauḍīya Maṭha edition: «কোটীসূর্য্যাভাস» (another reading: «কোটিসূর্য্যাভাস»); the sense is the same.
+
+[^18]: *Anubhāṣya* (on 7.149): Prakāśānanda Sarasvatī was then the leader of the sannyāsīs of Śaṅkara’s school in Kāśī. Some mistakenly identify him with Prabodhānanda Sarasvatī, the author of the *Caitanya-candrāmṛta* and the *Rādhā-rasa-sudhā-nidhi*, but they are different persons.
