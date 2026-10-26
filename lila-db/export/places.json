@@ -7844,7 +7844,13 @@
    "ev-kheturi-six-deities",
    "ev-virachandra-pilgrimage",
    "ev-tattva-nityananda-advaita"
-  ]
+  ],
+  "geo": {
+   "lat": 24.0614,
+   "lon": 87.8478,
+   "precision": "примерно",
+   "basis": "Wikipedia «Ekachakra» (24°03′41″ с. ш., 87°50′52″ в. д.: Гарбхаваса, место рождения Нитьянанды, у Нитай-кунды); ≈7,5 км по прямой от Тарапитха (по путеводителям 9–10 км по дороге); в OSM нет"
+  }
  },
  {
   "id": "#amaipura",
@@ -9615,7 +9621,13 @@
   ],
   "events": [
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 24.0614,
+   "lon": 87.8478,
+   "precision": "примерно",
+   "basis": "Бирчандрапур — село, где находится Экачакра-дхам (Wikipedia «Ekachakra», «How to reach»); точка — та же, что #ekachakra; в OSM нет"
+  }
  },
  {
   "id": "#tailanga",
