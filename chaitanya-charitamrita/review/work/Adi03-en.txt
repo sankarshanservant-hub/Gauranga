@@ -1,0 +1,170 @@
+# English translation, Ādi-līlā 3 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Auspicious Invocation of Blessing: The General Cause of Caitanya’s Descent
+
+## 1
+w: Śrī Caitanya  the Lord  I worship
+w: by whose  feet  of the shelter  by the power
+w: gathers  from the mines  from the multitude
+w: the ignorant one  of conclusive truth  precious jewels
+tr: I bow to the Lord Śrī Caitanya. By the power of shelter at His feet even an ignorant man gathers, from the many mines of scripture, the precious jewels of conclusive truth (*siddhānta*).
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: of the third  verse  of the meaning  I have made  the explanation
+w: of the fourth  verse  the meaning  hear  O devotees
+tr: I have explained the meaning of the third verse. Now, O devotees, hear the meaning of the fourth.
+
+## 4
+w: not given before  for a long time  out of mercy  descended  in Kali
+w: to bestow  of the most exalted radiant rasa  devotion to Himself  the treasure
+w: Hari  golden  beautiful  lustre  with a mass  illumined
+w: always  in the cave of the heart  may He shine  your  Śacī’s  son
+tr: “May the Lord Hari, the son of Śacī, illumined by a mass of lustre more beautiful than gold, ever shine in the inmost cave of your hearts. Out of His mercy He has descended in the age of Kali to bestow what had not been given for a very long time — the treasure of devotion to Himself, rich in the most exalted, radiant *ujjvala-rasa*.” (Vidagdha-mādhava, 1.2)
+fn: The same verse as Ādi 1.4. *Anubhāṣya*: with this verse Śrī Rūpa Gosvāmī, blessing the world, opens the drama *Vidagdha-mādhava*, and the author, his follower, follows the guru he holds dear. *Unnatojjvala-rasa* is “the exalted *ujjvala-rasa*, that is, *śṛṅgāra-rasa*”; *sva-bhakti-śrī* is “the beauty of prema for Him”; *sphuratu* — “may He reveal Himself”.
+
+## 5
+w: complete  Bhagavān  Kṛṣṇa  of Vraja’s king  the son
+w: in Goloka  Vraja  together with  eternal  pastimes
+tr: Kṛṣṇa, the son of the king of Vraja, is Bhagavān in all His fullness. Together with all Vraja He enjoys His pastimes eternally in Goloka.
+
+## 6
+w: of Brahmā  in one  day  He  once
+w: descended  having become  performs  manifest  pastimes
+tr: Once in a day of Brahmā He descends and displays those pastimes in this world.
+fn: *Amṛta-pravāha-bhāṣya*: in Goloka, the splendour (*vaibhava*) of Gokula, Kṛṣṇa dwells eternally with everything that makes up the rasa of Vraja; these are His unmanifest (*aprakaṭa*) pastimes. Once in every kalpa, that is, in each day of Brahmā, He descends into the world and displays them as manifest (*prakaṭa*) pastimes.
+
+## 7
+w: Satya,  Tretā,  Dvāpara,  Kali —  four  ages  we know
+w: those  four  ages  divine  one  age  we count
+tr: We know the four ages — Satya, Tretā, Dvāpara and Kali; these four together are counted as one divine age (*divya-yuga*).
+
+## 8
+w: in seventy-one  cycles of four ages  one  manvantara
+w: fourteen  manvantaras  of Brahmā  of the day  within
+tr: Seventy-one such cycles make one manvantara, the reign of a Manu, and fourteen manvantaras make up a day of Brahmā.
+fn: *Anubhāṣya* (after the *Sūrya-siddhānta*): Kali-yuga lasts 432,000 solar years, Dvāpara twice as long, Tretā three times and Satya four times; together they make 4,320,000 years — a *mahā-yuga*, or *divya-yuga*. Seventy-one *mahā-yugas* make a manvantara; fourteen manvantaras, with fifteen junctions (*sandhi*) each as long as a Satya-yuga, make a thousand *yugas* — a day of Brahmā, or kalpa.
+
+## 9
+w: ‘Vaivasvata’  by name  this  seventh  manvantara
+w: twenty-seven  cycles of four ages  when gone  of it  within
+tr: The present, seventh manvantara is called Vaivasvata, and twenty-seven cycles of its ages have already passed.
+
+## 10
+w: in the twenty-eighth  cycle of four ages  of Dvāpara  at the end
+w: Vraja  together with  takes place  of Kṛṣṇa  the manifestation
+tr: At the end of the Dvāpara of the twenty-eighth cycle, Kṛṣṇa appears in this world together with His Vraja.
+fn: As in the Gauḍīya Maṭha edition: «সহিত» (another reading: «সহিতে»). *Anubhāṣya*: when twenty-seven *mahā-yugas* of the Vaivasvata manvantara have passed, in the twenty-eighth, after Satya and Tretā, at the end of Dvāpara, comes the time of Kṛṣṇa’s appearance.
+
+## 11
+w: servitude,  friendship,  parental love,  the love of the beloved —  four  rasas
+w: of the four  moods  devotees  all  Kṛṣṇa  of them  under the sway
+tr: Servitude, friendship, parental affection and the love of the beloved (*śṛṅgāra*) are the four rasas, and Kṛṣṇa is under the sway of all the devotees who have these four moods.
+fn: *Anubhāṣya*: *śānta-rasa* is not named here because, though in the material world it is held highest, in the spiritual world it stands lowest: in it there is no exchange of feeling between Kṛṣṇa and His devotee. In servitude, friendship, parental love and *madhura* the love for Kṛṣṇa rises step by step. *Śṛṅgāra* is the love of the beloved ones of Vraja, not a conjugal relationship (see Ādi 1.4).
+
+## 12
+w: servants  friends  father  mother  beloveds  the company  taking
+w: in Vraja  play  makes  Kṛṣṇa  in love absorbed  becoming
+tr: With His servants and friends, His father and mother and His beloved ones, Kṛṣṇa sports in Vraja, absorbed in love.
+
+## 13
+w: as He wished  having sported  Kṛṣṇa  makes  disappearance
+w: disappearance  having made  in the mind  makes  reflection
+tr: Having sported as He wished, Kṛṣṇa disappears, and after His disappearance He reflects:
+
+## 14
+w: for a long time  not  I make  of loving devotion  the gift
+w: devotion  without  of the world  is not  standing
+tr: “For a long time I have not given the gift of loving devotion (*prema-bhakti*), and without devotion the world has no ground to stand on.
+
+## 15
+w: in all  the world  to Me  they do  devotion by rule
+w: by devotion by rule  of Vraja  the mood  to attain  there is not  the power
+tr: All over the world they worship Me by the rules of scripture (*vidhi-bhakti*), but devotion by rule has no power to reach the love of Vraja.
+
+## 16
+w: of majesty  with the awareness  the whole  world  is mixed
+w: by majesty  slackened  in love  is not  My  pleasure
+tr: The whole world is permeated by the awareness of My majesty, and love slackened by awe gives Me no joy.
+fn: *Amṛta-pravāha-bhāṣya*: in *vidhi-bhakti* the awareness of majesty (*aiśvarya*) prevails; in that mood prema slackens and loses its depth, and such love does not please the Lord.
+
+## 17
+w: of majesty  in the awareness  by rule  worship  performing
+w: to Vaikuṇṭha  they go  of four  kinds  liberation  attaining
+tr: Worshipping by rule in the awareness of My majesty, they go to Vaikuṇṭha and attain the four kinds of liberation.
+
+## 18
+w: equal opulence,  likeness of form,  and  nearness,  residence in the same world
+w: merging  not  accepts  the devotee  in which  with Brahman  oneness
+tr: These are *sārṣṭi* (opulence equal to Mine), *sārūpya* (a form like Mine), *sāmīpya* (nearness to Me) and *sālokya* (residence in My world). But *sāyujya*, in which one becomes one with Brahman, the devotee never accepts.
+fn: *Amṛta-pravāha-bhāṣya*: *sārṣṭi* — opulence equal to Viṣṇu’s; *sārūpya* — a form like Viṣṇu’s, with four arms and so on; *sāmīpya* — dwelling near Him; *sālokya* — residence in His world. The *Anubhāṣya* refers to the *Bhāgavatam* (3.29.13): “Even when offered *sālokya*, *sārṣṭi*, *sārūpya*, *sāmīpya* and oneness, My people do not accept them without My service.”
+
+## 19
+w: of the age  the religion  I shall set going  of the name  congregational chanting
+w: four  moods  devotion  giving  I shall make dance  the world
+tr: I shall inaugurate the religion of the age, the congregational chanting of the holy name (*nāma-saṅkīrtana*), and, giving devotion in the four moods, I shall make the whole world dance.
+
+## 20
+w: Myself  I shall make  of a devotee  the mood  acceptance
+w: Myself  practising  devotion  I shall teach  to all
+tr: I Myself shall take on the mood of a devotee, and by practising devotion Myself I shall teach it to all.
+
+## 21
+w: oneself  not  having done  dharma  to teach  not  is possible
+w: this  indeed  the conclusion  in the Gītā and the Bhāgavata  they sing
+tr: Unless one practises dharma oneself, one cannot teach it. This is the conclusion sung in the *Gītā* and the *Bhāgavatam*.
+
+## 22
+w: when  when  indeed  of dharma
+w: a decline  there is  O descendant of Bharata
+w: a rise  of irreligion
+w: then  Myself  I send forth  I
+tr: “Whenever, O descendant of Bharata, dharma declines and irreligion rises, then I manifest Myself.” (Bhagavad-gītā, 4.7)
+
+## 23
+w: for the deliverance  of the saints
+w: for the destruction  and  of the wicked
+w: of dharma  the establishing  for the sake of
+w: I appear  in age  after age
+tr: “To deliver the saints, to destroy the wicked and to establish dharma, I appear in age after age.” (Bhagavad-gītā, 4.8)
+fn: *Anubhāṣya*: the saints (*sādhu*) are those devoted to serving the Lord, and He delivers them from the obstacles to their service; the wicked (*duṣkṛt*) are the enemies of the devotees whom none but He can slay — Rāvaṇa, Kaṁsa, Keśī and others; dharma is non-envious service to Bhagavān, whose chief mark is saṅkīrtana.
+
+## 24
+w: would perish  these  worlds
+w: not  I should do  action  if  I
+w: of confusion  and  the maker  I would be
+w: I would ruin  these  beings
+tr: “If I did not act, these worlds would perish; I would be the cause of confusion among the classes of men and would ruin all these beings.” (Bhagavad-gītā, 3.24)
+fn: *Anubhāṣya*: the Lord, free from any desire for worldly enjoyment, acts to set an example: if He did not act, people taking Him as their model would fall; *upahanyām* — “I would ruin”, that is, “make them impure”.
+
+## 25
+w: whatever  whatever  does  the best
+w: that  that  indeed  other  people
+w: he  whatever  standard  sets
+w: the world  that  follows
+tr: “Whatever the best of men does, others do the same; whatever standard he sets, the world follows.” (Bhagavad-gītā, 3.21)
+
+## 26
+w: of the age  of the religion  the establishing  happens  a portion  from
+w: Me  without  others  cannot  of Vraja  love  to give
+tr: The religion of the age can be established by My portion (*aṁśa*), but none but Me can give the love of Vraja.
+fn: *Amṛta-pravāha-bhāṣya*: the Lord wishes to appear in order to bring the world two things — the religion of the age, *nāma-saṅkīrtana*, and the love of Vraja. The religion of the age can be established even by a partial avatāra, but the love of Vraja none can give except the complete Bhagavān, Śrī Kṛṣṇa.
+
+## 27
+w: let there be  avatāras  many
+w: of the lotus-naveled One  in every way  auspicious
+w: than Kṛṣṇa  other  who  indeed  to the creepers
+w: even  love  the giver  becomes
+tr: “Let there be many all-auspicious avatāras of the Lord whose navel is a lotus; but who other than Kṛṣṇa gives prema even to the creepers?” (Laghu-bhāgavatāmṛta, 1.5.37)
+fn: In the edition — “the words of Bilvamaṅgala” (*Laghu-bhāgavatāmṛta*, Pūrva-khaṇḍa, 5.37). *Anubhāṣya* and *Amṛta-pravāha-bhāṣya*: the “creepers” (*latā*) are those who have taken shelter of Him.
+
+## 28
+w: therefore  My own  devotees  having made  companions
+w: on earth  having descended  I shall make  various  sports
+tr: Therefore, taking My own devotees with Me, I shall descend to earth and enjoy many kinds of pastimes.”
