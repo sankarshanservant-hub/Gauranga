@@ -932,6 +932,309 @@ the owl  not  sees  as  of the sun  the rays
 
 (85) Yet the non-devotees see without seeing, as the owl does not see the rays of the sun.[^35]
 
+ত্বাং শীলরূপচরিতৈঃ পরমপ্রকৃষ্টৈঃ  
+সত্ত্বেন সাত্ত্বিকতয়া প্রবলৈশ্চ শাস্ত্রৈঃ ৷  
+প্রখ্যাতদৈবপরমার্থবিদাং মতৈশ্চ  
+নৈবাসুরপ্রকৃতয়ঃ প্রভবন্তি বোদ্ধুম্ ॥ ৮৬ ॥
+
+tvāṁ śīla-rūpa-caritaiḥ parama-prakṛṣṭaiḥ  
+You  by nature, forms and deeds  supremely  excellent  
+sattvena sāttvikatayā prabalaiś ca śāstraiḥ  
+by power  by purity  mighty  and  by scriptures  
+prakhyāta-daiva-paramārtha-vidāṁ mataiś ca  
+of the renowned  knowers of the divine supreme truth  by the opinions  and  
+naivāsura-prakṛtayaḥ prabhavanti boddhum  
+never  those of demonic nature  are able  to understand
+
+(86) “Though You are made known by Your supremely excellent nature, forms and deeds, by Your wondrous power and purity, by the mighty scriptures and by the teachings of the renowned knowers of the divine Truth, those of demonic nature can never understand You.” (Stotra-ratna, 15)[^36]
+
+আপনা লুকাইতে কৃষ্ণ নানা যত্ন করে ৷  
+তথাপি তাঁহার ভক্ত জানয়ে তাঁহারে ॥ ৮৭ ॥
+
+āpanā lukāite kṛṣṇa nānā yatna kare  
+Himself  to hide  Kṛṣṇa  various  efforts  makes  
+tathāpi tām̐hāra bhakta jānaye tām̐hāre  
+still  His  devotee  knows  Him
+
+(87) Kṛṣṇa tries in many ways to hide Himself, yet His devotee knows Him.
+
+উল্লঙ্ঘিতত্রিবিধসীমসমাতিশায়ি-  
+সম্ভাবনং তব পরিব্রঢ়িমস্বভাবম্ ৷  
+মায়াবলেন ভবতাপি নিগুহ্যমানং  
+পশ্যন্তি কেচিদনিশং ত্বদনন্যভাবাঃ ॥ ৮৮ ॥
+
+ullaṅghita-trividha-sīma-samātiśāyi-  
+transgressing  three kinds of  limits,  equal and superior  
+sambhāvanaṁ tava parivraḍhima-svabhāvam  
+the possibility (excluding)  Your  of supremacy  the nature  
+māyā-balena bhavatāpi niguhyamānaṁ  
+of māyā  by the power  by You  even  being hidden  
+paśyanti kecid aniśaṁ tvad-ananya-bhāvāḥ  
+see  some  constantly  to You  exclusively devoted
+
+(88) “Your sovereign nature transcends the three kinds of limits and admits of no equal or superior. Though You hide it by the power of Your māyā, some who are devoted to You alone see it constantly.” (Stotra-ratna, 18)[^37]
+
+অসুরস্বভাবে কৃষ্ণে কভু নাহি জানে ৷  
+লুকাইতে নারে কৃষ্ণ ভক্তজন-স্থানে ॥ ৮৯ ॥
+
+asura-svabhāve kṛṣṇe kabhu nāhi jāne  
+of demonic  nature  Kṛṣṇa  ever  not  know  
+lukāite nāre kṛṣṇa bhakta-jana-sthāne  
+to hide  cannot  Kṛṣṇa  of the devotees  of the people  from the place
+
+(89) Those of demonic nature never know Kṛṣṇa, but from His devotees Kṛṣṇa cannot hide.
+
+দ্বৌ ভূতসর্গৌ লোকেঽস্মিন্ দৈব আসুর এব চ ৷  
+বিষ্ণুভক্তঃ স্মৃতো দৈব আসুরস্তদ্বিপর্য্যয়ঃ ॥ ৯০ ॥
+
+dvau bhūta-sargau loke ’smin  
+two  of beings  creations  in world  this  
+daiva āsura eva ca  
+divine  demonic  indeed  and  
+viṣṇu-bhaktaḥ smṛto daiva  
+of Viṣṇu  the devotee  is called  divine  
+āsuras tad-viparyayaḥ  
+demonic  of that  the opposite
+
+(90) “In this world there are two kinds of created beings, the divine and the demonic. The devotee of Viṣṇu is called divine, and his opposite demonic.” (Padma Purāṇa)[^38]
+
+আচার্য্য গোসাঞি প্রভুর ভক্ত-অবতার ৷  
+কৃষ্ণ-অবতার-হেতু যাঁহার হুঙ্কার ॥ ৯১ ॥
+
+ācārya gosāñi prabhura bhakta-avatāra  
+the Ācārya  Gosāñi —  of the Lord  as devotee  avatāra  
+kṛṣṇa-avatāra-hetu yām̐hāra huṅkāra  
+of Kṛṣṇa’s  descent  the cause  whose  roar
+
+(91) Ācārya Gosāñi is the Lord’s avatāra as a devotee, and His roar was the cause of Kṛṣṇa’s descent.
+
+কৃষ্ণ যদি পৃথিবীতে করেন অবতার ৷  
+প্রথমে করেন গুরুবর্গের সঞ্চার ॥ ৯২ ॥
+
+kṛṣṇa yadi pṛthivīte karena avatāra  
+Kṛṣṇa  when  on earth  makes  descent  
+prathame karena guru-vargera sañcāra  
+first  makes  of the elders  the appearance
+
+(92) When Kṛṣṇa descends to earth, He first causes His elders to appear.
+
+পিতা মাতা গুরু আদি যত মান্যগণ ৷  
+প্রথমে করেন সবার পৃথিবীতে জনম ॥ ৯৩ ॥
+
+pitā mātā guru ādi yata mānya-gaṇa  
+father  mother  guru  and others  all  honoured ones  
+prathame karena sabāra pṛthivīte janama  
+first  makes  of all  on earth  the birth
+
+(93) Father, mother, guru and all who are to be honoured — He first has them all take birth on earth.
+
+মাধব-ঈশ্বর-পুরী, শচী, জগন্নাথ ৷  
+অদ্বৈত আচার্য্য প্রকট হৈলা সেই সাথ ॥ ৯৪ ॥
+
+mādhava-īśvara-purī, śacī, jagannātha  
+Mādhava(endra)  Īśvara  Purī,  Śacī,  Jagannātha  
+advaita ācārya prakaṭa hailā sei sātha  
+Advaita  Ācārya  manifest  became  together with them
+
+(94) Mādhavendra Purī, Īśvara Purī, Śacī and Jagannātha appeared, and Advaita Ācārya appeared along with them.
+
+প্রকটিয়া দেখে আচার্য্য সকল সংসার ৷  
+কৃষ্ণভক্তিগন্ধহীন বিষয়-ব্যবহার ॥ ৯৫ ॥
+
+prakaṭiyā dekhe ācārya sakala saṁsāra  
+having appeared  sees  the Ācārya  the whole  world  
+kṛṣṇa-bhakti gandha-hīna viṣaya-vyavahāra  
+of devotion to Kṛṣṇa  the scent  devoid of  worldly  dealings
+
+(95) Having appeared, the Ācārya saw the whole world busy with worldly affairs, without even the scent of devotion to Kṛṣṇa.
+
+কেহ পাপে, কেহ পুণ্যে করে বিষয়-ভোগ ৷  
+ভক্তিগন্ধ নাহি, যাতে যায় ভবরোগ ॥ ৯৬ ॥
+
+keha pāpe, keha puṇye kare viṣaya-bhoga  
+some  by sin,  some  by piety  make  of sense objects  enjoyment  
+bhakti-gandha nāhi, yāte yāya bhava-roga  
+of devotion  the scent  is not,  by which  goes  of worldly existence  the disease
+
+(96) Some through sin, some through piety, all were enjoying the objects of the senses; there was not even a scent of the devotion that cures the disease of worldly existence.
+
+লোকগতি দেখি’ আচার্য্য করুণ-হৃদয় ৷  
+বিচার করেন, লোকের কৈছে হিত হয় ॥ ৯৭ ॥
+
+loka-gati dekhi’ ācārya karuṇa-hṛdaya  
+of the people  the condition  seeing  the Ācārya  compassionate  in heart  
+vicāra karena, lokera kaiche hita haya  
+reflection  makes,  of the people  how  good  may be
+
+(97) Seeing the state of the people, the compassionate Ācārya pondered how they might be helped.
+
+আপনি শ্রীকৃষ্ণ যদি করেন অবতার ৷  
+আপনে আচরি’ ভক্তি করেন প্রচার ॥ ৯৮ ॥
+
+āpani śrī-kṛṣṇa yadi karena avatāra  
+Himself  Śrī Kṛṣṇa  if  makes  descent  
+āpane ācari’ bhakti karena pracāra  
+Himself  practising  devotion  makes  the preaching
+
+(98) He thought: “If Śrī Kṛṣṇa Himself were to descend, He would practise devotion Himself and so spread it.
+
+নাম বিনু কলিকালে ধর্ম্ম নাহি আর ৷  
+কলিকালে কৈছে হবে কৃষ্ণ অবতার ॥ ৯৯ ॥
+
+nāma vinu kali-kāle dharma nāhi āra  
+the name  besides  in the age of Kali  religion  is not  other  
+kali-kāle kaiche habe kṛṣṇa avatāra  
+in the age of Kali  how  will be  Kṛṣṇa’s  descent
+
+(99) In the age of Kali there is no religion but the holy name. Yet how will Kṛṣṇa descend in the age of Kali?
+
+শুদ্ধভাবে করিব কৃষ্ণের আরাধন ৷  
+নিরন্তর সদৈন্যে করিব নিবেদন ॥ ১০০ ॥
+
+śuddha-bhāve kariba kṛṣṇera ārādhana  
+in a pure  mood  I shall do  of Kṛṣṇa  worship  
+nirantara sadainye kariba nivedana  
+unceasingly  with humility  I shall make  petition
+
+(100) With a pure heart I shall worship Kṛṣṇa, and with humility I shall pray to Him unceasingly.
+
+আনিয়া কৃষ্ণেরে করোঁ কীর্ত্তন সঞ্চার ৷  
+তবে সে ‘অদ্বৈত’ নাম সফল আমার ॥ ১০১ ॥
+
+āniyā kṛṣṇere karom̐ kīrtana sañcāra  
+having brought  Kṛṣṇa  I make  of kīrtana  the spreading  
+tabe se ‘advaita’ nāma saphala āmāra  
+then  only  ‘Advaita’  the name  fruitful  My
+
+(101) Only when I have brought Kṛṣṇa here and spread His kīrtana will My name ‘Advaita’ bear fruit.”[^39]
+
+কৃষ্ণ বশ করিবেন কোন্ আরাধনে ৷  
+বিচারিতে এক শ্লোক আইল তাঁর মনে ॥ ১০২ ॥
+
+kṛṣṇa vaśa karibena kon ārādhane  
+Kṛṣṇa  subdued  will make  by what  worship  
+vicārite eka śloka āila tām̐ra mane  
+while reflecting  one  verse  came  His  to mind
+
+(102) As He pondered by what worship Kṛṣṇa could be won over, a verse came to His mind.
+
+তুলসীদলমাত্রেণ জলস্য চুলুকেন বা ৷  
+বিক্রীণীতে স্বমাত্মানং ভক্তেভ্যো ভক্তবৎসলঃ ॥ ১০৩ ॥
+
+tulasī-dala-mātreṇa  
+of tulasī  by a leaf  merely  
+jalasya culukena vā  
+of water  by a palmful  or  
+vikrīṇīte svam ātmānaṁ  
+sells  His own  self  
+bhaktebhyo bhakta-vatsalaḥ  
+to the devotees  affectionate to His devotees
+
+(103) “For merely a leaf of tulasī or a palmful of water, the Lord who loves His devotees sells Himself to them.” (Viṣṇu-dharma; Gautamīya-tantra)[^40]
+
+এই শ্লোকার্থ আচার্য্য করেন বিচারণ ৷  
+কৃষ্ণকে তুলসীজল দেয় যেই জন ॥ ১০৪ ॥
+
+তার ঋণ শোধিতে কৃষ্ণ করেন চিন্তন ৷  
+‘জল-তুলসীর সম কিছু ঘরে নাহি ধন’ ॥ ১০৫ ॥
+
+ei ślokārtha ācārya karena vicāraṇa  
+this  of the verse the meaning  the Ācārya  makes  consideration  
+kṛṣṇake tulasī-jala deya yei jana  
+to Kṛṣṇa  tulasī and water  gives  who  the person  
+tāra ṛṇa śodhite kṛṣṇa karena cintana  
+his  debt  to repay  Kṛṣṇa  makes  reflection  
+‘jala-tulasīra sama kichu ghare nāhi dhana’  
+‘water and tulasī  equal to  anything  in the house  is not  wealth’
+
+(104–105) The Ācārya pondered the meaning of this verse: “Kṛṣṇa is indebted to the person who offers Him tulasī and water. He considers how to repay him, and finds: ‘In all My house there is no wealth equal to water and tulasī.’”[^41]
+
+তবে আত্মা বেচি’ করে ঋণের শোধন ৷  
+এত ভাবি’ আচার্য্য করেন আরাধন ॥ ১০৬ ॥
+
+tabe ātmā veci’ kare ṛṇera śodhana  
+then  Himself  having sold  makes  of the debt  the repayment  
+eta bhāvi’ ācārya karena ārādhana  
+thus  having thought  the Ācārya  makes  worship
+
+(106) So He repays the debt by selling Himself. Thinking thus, the Ācārya began His worship.
+
+গঙ্গাজলে তুলসীমঞ্জরী অনুক্ষণ ৷  
+কৃষ্ণপাদপদ্ম ভাবি’ করে সমর্পণ ॥ ১০৭ ॥
+
+gaṅgā-jale tulasī-mañjarī anukṣaṇa  
+with Gaṅgā water  tulasī  buds  constantly  
+kṛṣṇa-pāda-padma bhāvi’ kare samarpaṇa  
+Kṛṣṇa’s  feet  lotuses  meditating on  makes  offering
+
+(107) Meditating on Kṛṣṇa’s lotus feet, He constantly offered Him tulasī buds (*mañjarī*) with the water of the Gaṅgā.
+
+কৃষ্ণের আহ্বান করে করিয়া হুঙ্কার ৷  
+এমতে কৃষ্ণের করাইল অবতার ॥ ১০৮ ॥
+
+kṛṣṇera āhvāna kare kariyā huṅkāra  
+of Kṛṣṇa  the invocation  makes  making  a roar  
+e-mate kṛṣṇera karāila avatāra  
+in this way  of Kṛṣṇa  He caused  the descent
+
+(108) With a mighty roar He called out to Kṛṣṇa, and in this way He brought about Kṛṣṇa’s descent.[^42]
+
+চৈতন্যের অবতারে এই মুখ্য হেতু ৷  
+ভক্তের ইচ্ছায় অবতরে ধর্ম্মসেতু ॥ ১০৯ ॥
+
+caitanyera avatāre ei mukhya hetu  
+of Caitanya  in the descent  this  the chief  cause  
+bhaktera icchāya avatare dharma-setu  
+of the devotee  by the desire  descends  of dharma  the bridge
+
+(109) This is the chief cause of Caitanya’s descent: the Lord, the bridge of dharma, descends by the desire of His devotee.[^43]
+
+ত্বং ভক্তিযোগপরিভাবিত-হৃৎসরোজ  
+আস্সে শ্রুতেক্ষিতপথো ননু নাথ পুংসাম্ ৷  
+যদ্যদ্ধিয়া ত উরুগায় বিভাবয়ন্তি  
+তত্তদ্বপুঃ প্রণয়সে সদনুগ্রহায় ॥ ১১০ ॥
+
+tvaṁ bhakti-yoga-paribhāvita-hṛt-saroja  
+You  by devotional service  made fit  of the heart  in the lotus  
+āsse śrutekṣita-patho nanu nātha puṁsām  
+You dwell  by hearing  seen  whose path  surely  O Lord  of persons  
+yad yad dhiyā ta urugāya vibhāvayanti  
+whatever  whatever  with the mind  Your  O widely sung One  they contemplate  
+tat tad vapuḥ praṇayase sad-anugrahāya  
+that  that  form  You reveal  to the devotees  out of mercy
+
+(110) “O Lord, the path to You is seen through hearing, and You dwell in the lotus of the heart that devotion has purified. O Urugāya, widely sung One, whatever form of Yours Your devotees contemplate, that very form You reveal to them out of mercy.” (Śrīmad-Bhāgavatam, 3.9.11)[^44]
+
+এই শ্লোকের অর্থ কহি সংক্ষেপের সার ৷  
+ভক্তের ইচ্ছায় কৃষ্ণের সর্ব্ব অবতার ॥ ১১১ ॥
+
+ei ślokera artha kahi saṅkṣepera sāra  
+this  of the verse  the meaning  I tell  of the summary  the essence  
+bhaktera icchāya kṛṣṇera sarva avatāra  
+of the devotee  by the desire  of Kṛṣṇa  all  descents
+
+(111) The meaning of this verse, in brief, is this: all Kṛṣṇa’s descents take place by the desire of His devotees.
+
+চতুর্থ শ্লোকের অর্থ কৈল সুনিশ্চিতে ৷  
+অবতীর্ণ হৈলা গৌর প্রেম প্রকাশিতে ॥ ১১২ ॥
+
+caturtha ślokera artha kaila suniścite  
+of the fourth  verse  the meaning  I have made  well ascertained  
+avatīrṇa hailā gaura prema prakāśite  
+descended  became  Gaura  love  to reveal
+
+(112) Thus I have made the meaning of the fourth verse clear: Gaura descended to reveal divine love.[^45]
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১১৩ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(113) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: The same verse as Ādi 1.4. *Anubhāṣya*: with this verse Śrī Rūpa Gosvāmī, blessing the world, opens the drama *Vidagdha-mādhava*, and the author, his follower, follows the guru he holds dear. *Unnatojjvala-rasa* is “the exalted *ujjvala-rasa*, that is, *śṛṅgāra-rasa*”; *sva-bhakti-śrī* is “the beauty of prema for Him”; *sphuratu* — “may He reveal Himself”.
@@ -1003,3 +1306,23 @@ the owl  not  sees  as  of the sun  the rays
 [^34]: *Amṛta-pravāha-bhāṣya*: in the *Bhāgavatam* — “*kṛṣṇa-varṇaṁ tviṣākṛṣṇam*”, “*āsan varṇās trayaḥ*”, “*channaḥ kalau*” (“hidden in Kali”); in the *Mahābhārata* — “*sambhavāmi yuge yuge*”, “*sannyāsa-kṛc chamaḥ śāntaḥ*”; in the Vedas — “*mahān prabhur vai puruṣaḥ*”, “*yadā paśyaḥ paśyate rukma-varṇam*”; in the tantras that follow the Āgamas — “*māyāpure bhaviṣyāmi śacī-sutaḥ*”; in the Upapurāṇa — “*aham eva…*”: thus it is proved that Caitanya-Kṛṣṇa is the direct descent of the Lord.
 
 [^35]: *Amṛta-pravāha-bhāṣya*: *ulūka* — the owl, blind by day; not seeing the sun’s rays, it cannot admit that the sun exists.
+
+[^36]: The source is given as in the edition: Śrī Yāmunācārya’s (Ālavandār’s) *Stotra-ratna*, verse 15. *Anubhāṣya*: Śrī Yāmunācārya is the guru and grand-guru of Śrī Rāmānujācārya; *sattvena* — by extraordinary power, *sāttvikatayā* — by the predominance of pure goodness; those of demonic nature are the ill-natured, hostile to the devotees. *Amṛta-pravāha-bhāṣya*: Vyāsa and other devotees who know the supreme truth come to know You through the powerful scriptures of goodness.
+
+[^37]: The source is given as in the edition: verse 18. *Amṛta-pravāha-bhāṣya*: everything is bound by three limits — place, time and thought — but Your hidden nature, which has no equal or superior, surpasses them; You cover it by the power of māyā, yet Your exclusive devotees always see You. *Anubhāṣya*: “by the power of māyā” — by the power of His own *yogamāyā*.
+
+[^38]: *Anubhāṣya*: the demonic is one absorbed in the enjoyment of māyā (*māyā-bhoga-nirataḥ*), a man of material nature.
+
+[^39]: In the edition the verse is headed: “Viṣṇu’s descent is brought about through Viṣṇu — hence His name Advaita”: Advaita, Viṣṇu Himself, is non-different from the Lord whom He calls.
+
+[^40]: The source is given as in the edition («বিষ্ণুধর্ম-বচন ও গৌতমীয়-তন্ত্র-বাক্য»). *Anubhāṣya*: “merely a leaf of tulasī” — without sandal paste, mantras and the rest; *vikrīṇīte* (“sells”) — He places Himself under His devotees’ control. *Amṛta-pravāha-bhāṣya*: some copies have here two more verses on the tulasī buds: “As Rādhā is dear to Viṣṇu, so is the *mañjarī* dear to Hari; therefore one should offer it with care, mixed with sandal.”
+
+[^41]: As in the Gauḍīya Maṭha edition: «এই শ্লোকার্থ» (another reading: «এ শ্লোকার্থ»). In the edition 3.104 and 3.105 are numbered separately.
+
+[^42]: As in the Gauḍīya Maṭha edition: «কৃষ্ণের» (another reading: «কৃষ্ণেরে»); the sense is the same.
+
+[^43]: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa, the bridge of dharma, descends by the desire of His devotee; Caitanya appeared at the prayer of the great devotee Advaita Ācārya.
+
+[^44]: Brahmā’s prayer. *Anubhāṣya*: *śrutekṣita-pathaḥ* — “He whose path is seen through hearing the conclusions of scripture”; *paribhāvita* — the heart made worthy by devotion, by love; *urugāya* — “widely sung”. *Amṛta-pravāha-bhāṣya*: You ever move along the paths of Your devotees’ hearing and sight.
+
+[^45]: As in the Gauḍīya Maṭha edition: «কৈল» (“I have made”; another reading: «হৈল», “has become”).
