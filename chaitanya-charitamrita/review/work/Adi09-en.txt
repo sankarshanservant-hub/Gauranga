@@ -1,0 +1,163 @@
+# English translation, Ādi-līlā 9 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Description of the Wish-fulfilling Tree of Bhakti
+
+## 1
+w: Him  glorious  Kṛṣṇa  Caitanya-
+w: the Lord  I worship  the guru of the world
+w: by whose mercy  even a dog
+w: the great ocean  can cross  easily
+tr: I worship the glorious Lord Śrī Kṛṣṇa Caitanya, the guru of the whole world, by whose mercy even a dog can easily swim across the great ocean.
+fn: Heading in the edition: “By Gaura’s mercy the impossible becomes possible.” *Anubhāṣya*: *jagad-guru* — the guru of all the worlds, worthy of everyone’s worship.
+
+## 2
+w: glory  glory  to Śrī  Kṛṣṇa  Caitanya  Gauracandra
+w: glory  glory to Advaita  glory  glory  to Nityānanda
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya Gauracandra! Glory, glory to Advaita, and glory, glory to Nityānanda!
+
+## 3
+w: glory  glory  to Śrīvāsa and the others  Gaura’s devotees
+w: of all desires  fulfilment  the cause  whose  remembrance
+tr: Glory, glory to Śrīvāsa and all the devotees of Gaura, the remembrance of whom fulfils every desire!
+
+## 4
+w: Śrī  Rūpa  Sanātana  Bhaṭṭa  Raghunātha
+w: Śrī  Jīva  Gopāla Bhaṭṭa  Dāsa  Raghunātha
+tr: I remember also Śrī Rūpa, Sanātana, Raghunātha Bhaṭṭa, Śrī Jīva, Gopāla Bhaṭṭa and Raghunātha Dāsa.
+
+## 5
+w: of all these  by the mercy  I write  Caitanya’s  pastimes  qualities
+w: I know  or  not  I know  I do  my own  purification
+tr: By the mercy of them all I write of the pastimes and qualities of Śrī Caitanya. Whether I understand them or not, I write for my own purification.
+
+## 6
+w: the gardener  Himself  Kṛṣṇa-
+w: the immortal tree of love  Himself
+w: the giver  the enjoyer  of its fruits
+w: who  Him  Caitanya  I take shelter of
+tr: I take shelter of Śrī Caitanya, who is Himself the gardener and Himself the immortal tree of love for Kṛṣṇa, and who both gives away its fruits and enjoys them.
+fn: Heading in the edition: “The gardener is Mahāprabhu Himself.” *Anubhāṣya*: *amara-taru* — the unfading, imperishable tree, that is, the wish-fulfilling tree (*kalpa-vṛkṣa*); its fruits are the fruits of love for Kṛṣṇa.
+
+## 7
+w: the Lord  said  I  ‘Viśvambhara’  the name  bear
+w: the name  meaningful  becomes  if  with love  the universe  I fill
+tr: The Lord said to Himself: “I bear the name Viśvambhara, ‘He who fills the universe’. My name will be true if I fill the universe with love.”
+fn: Heading in the edition: “Why He became the gardener: so that His being the Lord of *abhidheya*, the means to the goal, should bear fruit.”
+
+## 8
+w: thus  thinking  took  the Lord  of a gardener  the duty
+w: in Navadvīpa  began  of a fruit garden  the work
+tr: Thinking thus, the Lord took up the work of a gardener and began to lay out an orchard in Navadvīpa.
+
+## 9
+w: Śrī  Caitanya  the gardener  to the earth  bringing
+w: the wish-fulfilling tree of bhakti  planted  watering  with the water of His will
+tr: Bringing it to the earth, the gardener Śrī Caitanya planted the wish-fulfilling tree of bhakti and watered it with the water of His will.
+
+## 10
+w: glory  to Śrī Mādhava Purī  with love for Kṛṣṇa  brimming
+w: of the wish-fulfilling tree of bhakti  he  the first  sprout
+tr: Glory to Śrī Mādhava Purī, brimming with love for Kṛṣṇa! He is the first sprout of the wish-fulfilling tree of bhakti.
+fn: *Amṛta-pravāha-bhāṣya*: Śrī Mādhava Purī is Mādhavendra Purī, a renowned sannyāsī of the sampradāya of Śrī Madhvācārya; Śrī Caitanya is the disciple of his disciple. Before him there was no clear sign of prema-bhakti in the Madhva sampradāya, and his verse *ayi dīna-dayārdra nātha* holds, as a seed, what Mahāprabhu was to teach.
+
+## 11
+w: Śrī Īśvara Purī  in the form of  the sprout  strong  became
+w: Himself  Caitanya the gardener  the trunk  brought forth
+tr: In the form of Śrī Īśvara Purī the sprout grew strong, and then the gardener, Śrī Caitanya Himself, became the trunk of the tree.
+fn: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya*: Śrī Īśvara Purī, the Guru who gave Mahāprabhu His mantra, was born into a brāhmaṇa family in Kumārahaṭṭa (Hālisahar) and was the dearest disciple of Śrī Mādhavendra Purī, whom he served with complete devotion (Antya 8.26–29). Before initiating Mahāprabhu in Gayā he lived for some months in Navadvīpa in the house of Gopīnātha Ācārya and read Him his own *Kṛṣṇa-līlāmṛta* (*Caitanya-bhāgavata*, Ādi 7). When Mahāprabhu came to Kumārahaṭṭa, He took earth from the place of Īśvara Purī’s birth, teaching everyone devotion to the Guru.
+
+## 12
+w: by His own inconceivable power  the gardener  being  the trunk  becomes
+w: of all  the branches  that  trunk  the original support
+tr: By His own inconceivable power the gardener became the trunk, and that trunk is the original support of all the branches.
+
+## 13–15
+w: Paramānanda  Purī  and  Keśava  Bhāratī
+w: Brahmānanda  Purī  and  Brahmānanda  Bhāratī
+w: Viṣṇu Purī  Keśava Purī  Purī  Kṛṣṇānanda
+w: Śrī Nṛsiṁha Tīrtha  and  Purī  Sukhānanda
+w: these  nine  roots  sprang up  at the base of the tree
+w: on these  nine  roots  the tree  made  immovable
+tr: At the base of the tree nine roots sprang up: Paramānanda Purī and Keśava Bhāratī, Brahmānanda Purī and Brahmānanda Bhāratī, Viṣṇu Purī, Keśava Purī, Kṛṣṇānanda Purī, Śrī Nṛsiṁha Tīrtha and Sukhānanda Purī. On these nine roots the tree became immovable.
+fn: Heading in the edition: “Nine sannyāsīs — nine roots.” *Amṛta-pravāha-bhāṣya*: the sannyāsīs named Purī are related by succession to Śrī Īśvara Purī, and those named Bhāratī to Keśava Bhāratī, who gave Mahāprabhu sannyāsa. *Anubhāṣya*: Keśava Bhāratī belonged to the Bhāratī branch of the orders of sannyāsa founded by Śaṅkara; some say he had received a mantra from Śrī Mādhavendra Purī and was a Vaiṣṇava sannyāsī. In Śaka 1432 (1510) he gave sannyāsa to Nimāi Paṇḍita in Kāṭoyā. Brahmānanda Purī sang with Mahāprabhu in the kīrtanas of Navadvīpa and came with Him to Nīlācala. Brahmānanda Bhāratī wore a deerskin; when Mahāprabhu came to him and pretended not to recognise him, he exchanged it for saffron cloth.
+
+## 16
+w: the central root  Paramānanda  Purī  greatly steadfast
+w: on these  nine  roots  the tree  made  firm
+tr: The central root is Paramānanda Purī, a man of great steadfastness, and on these nine roots the tree stands secure.
+fn: The Gauḍīya Maṭha edition reads *ei nava mūle* (“on these nine roots”); some other editions read *aṣṭa dike aṣṭa mūla* (“eight roots in the eight directions”). *Anubhāṣya*: Paramānanda Purī, a brāhmaṇa of Tirhut and a disciple of Śrī Mādhavendra Purī, was especially dear to Mahāprabhu; together with Svarūpa Dāmodara he was always at His side in Nīlācala (*Caitanya-bhāgavata*, Antya 3 and 11). The *Gaura-gaṇoddeśa-dīpikā* names him as Uddhava.
+
+## 17
+w: of the trunk  above  many  branches  sprang out
+w: higher  and higher  branches  countless  became
+tr: From the trunk many branches grew, and as they rose higher and higher, the branches became countless.
+
+## 18
+w: twenty  twenty  branches  making  one  one  circle
+w: great  great  branches  covered  universes  all
+tr: Every twenty branches formed a circle of their own, and these mighty boughs covered all the universes.
+
+## 19
+w: on each  branch  sub-branches  hundreds  hundreds
+w: as many as  sprang up  branches  who  will count  how many
+tr: On every branch there are hundreds of smaller branches. Who can count all the branches that have grown?
+
+## 20
+w: chief  chief  of the branches  of the names  the counting
+w: further on  indeed  I shall do  hear  of the tree  the description
+tr: I shall list the names of the chief branches further on; now hear the description of the tree.
+fn: The Gauḍīya Maṭha edition reads *nāma-gaṇana* (“the counting of the names”); some other editions read *nāma agaṇana* (“the names are countless”). The branches are named in Ādi 10–12.
+
+## 21
+w: of the tree  above  branches  became  two  trunks
+w: one  ‘Advaita’  named  the other  ‘Nityānanda’
+tr: Higher up, the tree branched into two trunks: one is named Advaita, and the other Nityānanda.
+fn: The Gauḍīya Maṭha edition reads *vṛkṣera upare śākhā haila dui skandha* (“above, the branches of the tree became two trunks”); some other editions read *śākhāra upare haila vṛkṣa dui skandha*. Heading in the edition: “On either side of the main trunk, two trunks — Nitāi and Advaita.”
+
+## 22
+w: on those  two trunks  branches  as many as  sprang up
+w: their  sub-branches  the world  covered
+tr: Many branches sprang from those two trunks, and their offshoots covered the world.
+fn: Heading in the edition: “Branches and offshoots — the succession of disciples and their disciples.”
+
+## 23
+w: great  branches  sub-branches  their  sub-branches
+w: the world  pervaded  of them  who  will make  a record
+tr: Great branches, smaller branches and their offshoots filled the world. Who could ever write them all down?
+
+## 24
+w: disciples  grand-disciples  and  later disciples
+w: the world  pervaded  of them  there is no  counting
+tr: Disciples, the disciples of disciples and their followers spread over the world beyond all counting.
+
+## 25
+w: the udumbara tree  as  bears fruit  on all  limbs
+w: in this way  on the tree of bhakti  everywhere  fruit  appears
+tr: As the udumbara fig bears fruit on all its limbs, so the tree of bhakti bears fruit everywhere.
+
+## 26
+w: of the main trunk  on the branches and sub-branches
+w: grew  which  the fruit of love  nectar  surpasses
+tr: On the branches and offshoots of the main trunk grew the fruit of love, sweeter than nectar.
+
+## 27
+w: ripened  which  the fruit of love  nectar-sweet
+w: distributes  Caitanya the gardener  not  takes  price
+tr: When the fruit of love ripened, sweet as nectar, the gardener Caitanya gave it away and asked no price.
+
+## 28
+w: in the three worlds  as much as  there is  wealth  jewels  gems
+w: of one fruit  the price  making  that  not  I count
+tr: All the wealth and jewels of the three worlds I would not count as the price of a single fruit.
+
+## 29
+w: asks  or  not  asks  anyone  worthy  or  unworthy
+w: of this  consideration  not  He knows  He gives  simply
+tr: Whether one asks or not, whether one is worthy or unworthy, He does not consider; He simply gives.
+
+## 30
+w: handful  handful  filling  He throws  in the four directions
+w: the poor  gathering  eat  the gardener  smiles
+tr: Filling His hands again and again, He scatters the fruit in all directions; the poor gather it up and eat, and the gardener smiles.
