@@ -1,0 +1,179 @@
+# English translation, Ādi-līlā 4 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: An Account of the Root Purpose of Caitanya’s Descent
+
+## 1
+w: of Śrī Caitanya  by the grace
+w: of His  form  the ascertainment
+w: a child  even  makes  scripture
+w: having seen  of the Enjoyer in Vraja
+tr: By the grace of Śrī Caitanya even a child, looking into the scriptures, can ascertain the true form of Him who sports in Vraja.
+fn: In the edition the verse is headed “By the grace of Gaura, the nature of Śrī Kṛṣṇa ascertained”. *Anubhāṣya*: “a child” — one who knows nothing; “His form” — the form of Gaura, who is not different from Rādhā and Kṛṣṇa; “the Enjoyer in Vraja” — the son of the king of Vraja; “ascertainment” — pointing out the truth (*tattva*).
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: of the fourth  verse  of the meaning  I have made  the explanation
+w: of the fifth  verse  the meaning  hear  giving  the mind
+tr: I have explained the meaning of the fourth verse. Now hear with attention the meaning of the fifth.
+
+## 4
+w: of the root  verse  the meaning  in order to make  manifest
+w: the meaning  in order to apply  first  I speak  an outline
+tr: To bring out the meaning of the root verse, I shall first give an outline before applying it.
+
+## 5
+w: of the fourth  verse  of the meaning  this  I have made  the essence
+w: love and the name  to spread  this  descent
+tr: The essence of the fourth verse, as I have explained it, is this: the Lord descended to spread divine love and the holy name.
+
+## 6
+w: true  this  reason  but  this indeed  external
+w: another  one  reason  hear  there is  internal
+tr: This reason is true, but it is external. There is another reason, an inner one — hear it.
+fn: As in the Gauḍīya Maṭha edition: «এতো» (another reading: «এহো», “this too”); the sense is the same. *Amṛta-pravāha-bhāṣya*: Gaurāṅga descended to preach bhakti and the name of Kṛṣṇa; that reason is true, but it is external, not the hidden one.
+
+## 7
+w: formerly  so  of the earth  the burden  to remove
+w: Kṛṣṇa  descended  became  in the scriptures  they proclaim
+tr: The scriptures proclaim that in the past Kṛṣṇa descended to remove the burden of the earth.
+fn: As in the Gauḍīya Maṭha edition: «হেন» (“so”); another reading has «যেন» (“as”); the sense is the same.
+
+## 8
+w: of Bhagavān Himself  the work  is not  the removal of the burden
+w: the maintainer  Viṣṇu  does  of the world  the protection
+tr: But removing the burden is not the work of Bhagavān Himself. It is Viṣṇu, the maintainer, who protects the world.
+fn: In the edition the verse is headed: “Viṣṇu’s work is the deliverance of the saints and the destruction of the wicked; it is not the work of Kṛṣṇa Himself.”
+
+## 9
+w: but  of Kṛṣṇa  which  is  of descent  the time
+w: of the removal of the burden  the time  with it  became  mixed
+tr: But the time of Kṛṣṇa’s descent coincided with the time for removing that burden.
+
+## 10
+w: the complete  Bhagavān  descends  at which  time
+w: other  all  avatāras  in Him  coming  meet
+tr: When the complete Bhagavān descends, all the other avatāras come and meet in Him.
+
+## 11–12
+w: Nārāyaṇa,  the Catur-vyūha,  Matsya and the other  avatāras
+w: of the yugas  of the manvantaras  the avatāras  as many as  there are  others
+w: all  coming  in Kṛṣṇa’s  body  become  descended
+w: thus  descends  Kṛṣṇa  Bhagavān  complete
+tr: Nārāyaṇa, the Catur-vyūha, Matsya and the other avatāras, the avatāras of the yugas and the manvantaras, and as many others as there are — all come and descend within the body of Kṛṣṇa. So does Kṛṣṇa, the complete Bhagavān, descend.
+fn: *Amṛta-pravāha-bhāṣya*: the Catur-vyūha are Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; Matsya and the others are partial avatāras (*aṁśāvatāra*). All the avatāras are parts of the complete Bhagavān and take shelter in Him, and so Viṣṇu, the maintainer of the world, was then present within the form of Kṛṣṇa.
+
+## 13
+w: therefore  Viṣṇu  then  of Kṛṣṇa  in the body
+w: through Viṣṇu  Kṛṣṇa  makes  of the demons  the slaying
+tr: Therefore Viṣṇu was then within the body of Kṛṣṇa, and through Viṣṇu Kṛṣṇa slew the demons.
+
+## 14
+w: secondary  work  this  of the demons  the killing
+w: for which  the descent  I tell  that  root  cause
+tr: The killing of the demons is a secondary work. Now I shall tell the root cause for which He descends.
+
+## 15–16
+w: of the rasa of love  the essence  in order to make  tasting
+w: of the path of rāga  devotion  in the world  in order to make  spreading
+w: of the relishers of rasa  the crown  Kṛṣṇa  supremely merciful
+w: these  two  reasons  from  of the desire  the rising
+tr: To taste the very essence of the rasa of love, and to spread in the world devotion on the path of rāga (*rāga-mārga*) — from these two reasons the desire arose in Kṛṣṇa, the crown of all who relish rasa, who is supremely merciful.
+fn: In the edition the verse is headed: “Viṣṇu descends to preach *vidhi-bhakti*; Kṛṣṇa comes as Gaura to preach *rāga-bhakti*.”
+
+## 17
+w: of majesty  with the awareness  the whole  world  is mixed
+w: by majesty  slackened  in love  is not  My  pleasure
+tr: The whole world is permeated by the awareness of My majesty, and love slackened by awe gives Me no joy.
+fn: The same verse as Ādi 3.16 (the *Anubhāṣya* refers to it). *Amṛta-pravāha-bhāṣya*: in love born of the awareness of majesty prema slackens, and Kṛṣṇa takes no pleasure in it; one who thinks himself lowly and Him the Lord loves Him with that awareness, and to such love He is not subject.
+
+## 18
+w: Me  as the Lord  considers  himself  as low
+w: his  by love  subdued  I  not  become  dependent
+tr: One who regards Me as the Lord and himself as lowly — by his love I am not subdued; I do not become dependent on him.
+
+## 19
+w: to Me  indeed  whichever  whichever  devotee  worships  in which  mood
+w: him  in that  in that  mood  I worship  this  My  nature
+tr: In whatever mood a devotee worships Me, in that very mood I reciprocate with him. Such is My nature.
+
+## 20
+w: who  as  to Me  surrender
+w: them  in that same way  I reward  I
+w: My  path  follow
+w: men  O Pārtha  in every way
+tr: “As people surrender to Me, so do I reward them. O Pārtha, all men follow My path in every way.” (Bhagavad-gītā, 4.11)
+fn: *Anubhāṣya*: the Lord speaks this verse about the cause of His manifest pastimes; “I reward” — “I show favour”; “My path” — the path of perfection. *Amṛta-pravāha-bhāṣya*: “O Pārtha, in whatever way one worships Me, in that way I become attainable to him; all men follow the path shown by Me.”
+
+## 21–22
+w: my  son  my  friend  my  of life  lord
+w: in this mood  whoever  to Me  makes  pure devotion
+w: himself  great  considers  Me  equal or lower
+w: in that  mood  become  I  his  dependent
+tr: Whoever renders Me pure devotion in the mood “He is my son, my friend, the lord of my life”, considering himself great and Me equal or lower — in that mood I become subject to him.
+fn: *Amṛta-pravāha-bhāṣya*: pure devotion (*śuddha-bhakti*) is the cultivation of Kṛṣṇa with a favourable intent, free of other desires and uncovered by knowledge and fruitive work. *Anubhāṣya*: devotion mixed with other desires, knowledge, work or yoga is “mixed devotion” (*viddha-bhakti*); devotion by rule (*vaidhī*) assists pure devotion, but the word *śuddha-bhakti* points to the service of the *rāgānugā* path — the devotion of Goloka, full of rāga, while *vaidhī-bhakti*, full of reverence, belongs to Vaikuṇṭha.
+
+## 23
+w: to Me  devotion  indeed  of beings
+w: for immortality  is fit
+w: by good fortune  which  arose  for Me  the love
+w: of you  bringing Me
+tr: “Devotion to Me brings living beings to immortality. And how fortunate it is that you have love for Me — for it brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)
+fn: Kṛṣṇa’s words to the gopīs at Kurukṣetra (Samanta-pañcaka), where, at a solar eclipse, both the Yādavas from Dvārakā and Nanda Mahārāja with all Vraja had come. *Anubhāṣya*: “immortality” — eternal service as the Lord’s associate; their love “brings Me” — grants direct meeting with Him; “by good fortune” — “by My good fortune”.
+
+## 24
+w: mother  Me  in the mood of a son  makes  binding
+w: utterly helpless  thinking  does  fondling  caring
+tr: My mother binds Me in the mood of a son; thinking Me utterly helpless, she fondles and cares for Me.
+
+## 25
+w: a friend  in pure friendship  makes  on the shoulders  climbing
+w: You  what  great  person  You  I  equal
+tr: My friend, in pure friendship, climbs on My shoulders and says, “What great man are You? You and I are equal!”
+
+## 26
+w: the beloved  if  pique  showing  makes  rebuke
+w: of the Vedas  the hymns  than  steals  that  My  mind
+tr: When My beloved, in her pique (*māna*), rebukes Me, that steals My heart more than the hymns of the Vedas.
+fn: *Anubhāṣya*: the rebuke with which the lover (*āśraya*), in pure attachment, chides the Beloved (*viṣaya*) is a sign of utmost, exclusive love; where the Beloved is honoured as worshipful, natural love slackens, and so such rebuke stands higher than the awe-filled praise of the Vedas.
+
+## 27–28
+w: this  pure devotion  taking  I shall make  descent
+w: I shall make  of many kinds  wondrous  pastimes
+w: in Vaikuṇṭha and elsewhere  there is not  which  which  of pastimes  the display
+w: those  those  pastimes  I shall perform  in which  My  wonder
+tr: Taking this pure devotion, I shall descend and perform many kinds of wondrous pastimes. I shall perform pastimes such as are not shown even in Vaikuṇṭha — pastimes that astonish even Me.
+fn: *Amṛta-pravāha-bhāṣya*: the pastimes not found in Vaikuṇṭha and the other worlds Kṛṣṇa will show in this descent, and in them He Himself will be astonished. *Anubhāṣya*: in Vaikuṇṭha and the other realms beyond māyā the Lord’s pastimes do not give Him Himself the ever-new joy of wonder; the excellence of the pastimes of Goloka, where He lives for His own joy, He wishes to show in the world to devotees in whom the sense of majesty prevails.
+
+## 29
+w: toward Me  of the gopīs  in the mood of a paramour (*upapati*)
+w: Yogamāyā  will make  by her own  power
+tr: By her own power Yogamāyā will awaken in the gopīs a love for Me as a lover who is not their husband (*upapati*).
+fn: *Amṛta-pravāha-bhāṣya*: Yogamāyā is Kṛṣṇa’s own potency (*svarūpa-śakti*); by His will and by her inconceivable power she awakens in the hearts of His eternal beloveds, the gopīs, the mood of *upapati* toward Him. *Anubhāṣya*: the tendency to *parakīyā* service, in which the lover, drawn by a sweetness (*mādhurya*) that surpasses majesty, passes beyond all ordained reverence, comes from Yogamāyā; this working of the spiritual (*cinmayī*) māyā is unknown even to the Beloved Himself, and is possible only through Yogamāyā, the embodiment of His grace.
+
+## 30
+w: I too  not  know  that  not  know  the gopīs
+w: of the two  by beauty and qualities  of the two  always  steals  the mind
+tr: Neither I nor the gopīs will know of it, for each of us will ever steal the other’s heart with beauty and virtues.
+fn: *Amṛta-pravāha-bhāṣya*: for the nourishment of rasa My inconceivable potency will cover My omniscience and give rise to a wondrous rasa, and the gopīs, though they are the Lord’s own potency, will not know it either.
+
+## 31
+w: dharma  leaving  in rāga  the two  make  meeting
+w: sometimes  meet  sometimes  not  meet  of destiny  the arrangement
+tr: Leaving dharma behind, the two will meet in love (*rāga*) — sometimes meeting, sometimes not, as destiny arranges.
+
+## 32
+w: these  all  of rasa  essences  I shall make  tasting
+w: by this  means  I shall make  to all  devotees  grace
+tr: I shall taste the essence of all these rasas, and by this means I shall show grace to all My devotees.
+
+## 33
+w: of Vraja  the pure  love  hearing  the devotees
+w: on the path of rāga  worship  so that  leaving  religious duties
+tr: Hearing of the pure love (*rāga*) of Vraja, the devotees will worship Me on the path of rāga, leaving aside their religious duties (*dharma-karma*).
+fn: *Amṛta-pravāha-bhāṣya*: the pure rāga that Kṛṣṇa will show in Vraja is the means by which He gives rasa to all devotees: hearing of it, they will leave *dharma-karma* and worship Him on the path of rāga.
