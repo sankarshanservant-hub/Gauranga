@@ -1607,6 +1607,312 @@ independent  in pastime  suffering  endures  Lakṣmaṇa
 
 (150) All of Rāma’s deeds brought suffering, and in His own free pastime Lakṣmaṇa bore that suffering with Him.
 
+নিষেধ করিতে নারে, যাতে ছোট ভাই ৷  
+মৌন ধরি’ রহে লক্ষ্মণ মনে দুঃখ পাই’ ॥ ১৫১ ॥
+
+niṣedha karite nāre, yāte choṭa bhāi  
+objection  to make  cannot  since  younger  brother  
+mauna dhari’ rahe lakṣmaṇa mane duḥkha pāi’  
+silence  keeping  remains  Lakṣmaṇa  in the mind  sorrow  feeling
+
+(151) Being the younger brother, He could not object; so Lakṣmaṇa kept silent and grieved within.
+
+কৃষ্ণ-অবতারে জ্যেষ্ঠ হৈলা সেবার কারণ ৷  
+কৃষ্ণকে করাইল নানা সুখ আস্বাদন ॥ ১৫২ ॥
+
+kṛṣṇa-avatāre jyeṣṭha hailā sevāra kāraṇa  
+in Kṛṣṇa’s  descent  the elder  He became  of service  for the sake  
+kṛṣṇake karāila nānā sukha āsvādana  
+to Kṛṣṇa  He gave  many  joys  to taste
+
+(152) In Kṛṣṇa’s descent He became the elder brother for the sake of service, and He gave Kṛṣṇa many joys to taste.
+
+রাম-লক্ষ্মণ — কৃষ্ণ-রামের অংশবিশেষ ৷  
+অবতার-কালে দোঁহে দোঁহাতে প্রবেশ ॥ ১৫৩ ॥
+
+rāma-lakṣmaṇa — kṛṣṇa-rāmera aṁśa-viśeṣa  
+Rāma  Lakṣmaṇa  of Kṛṣṇa and Rāma  particular portions  
+avatāra-kāle dom̐he dom̐hāte praveśa  
+of descent  at the time  the two  into the two  entering
+
+(153) Rāma and Lakṣmaṇa are particular portions of Kṛṣṇa and Balarāma, and at the time of Their descent the two enter into the two.[^37]
+
+সেই অংশ লঞা জ্যেষ্ঠ-কনিষ্ঠাভিমান ৷  
+অংশাংশী রূপে শাস্ত্রে করয়ে ব্যাখ্যান ॥ ১৫৪ ॥
+
+sei aṁśa lañā jyeṣṭha-kaniṣṭhābhimāna  
+those  portions  taking  of elder  and younger  the sense  
+aṁśāṁśī rūpe śāstre karaye vyākhyāna  
+part and whole  in the form  in the scriptures  is made  explanation
+
+(154) Together with those portions They take the roles of elder and younger brother, and the scriptures describe Them as the whole and His portion.
+
+রামাদিমূর্ত্তিষু কলানিয়মেন তিষ্ঠন্  
+নানাবতারমকরোদ্ভুবনেষু কিন্তু ৷  
+কৃষ্ণঃ স্বয়ং সমভবৎ পরমঃ পুমান্ যো  
+গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ১৫৫ ॥
+
+rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan  
+in Rāma  and others  forms  by kalās  in order  abiding  
+nānāvatāram akarod bhuvaneṣu kintu  
+many avatāras  made  in the worlds  but  
+kṛṣṇaḥ svayaṁ samabhavat paramaḥ pumān yo  
+as Kṛṣṇa  Himself  appeared  the Supreme  Person  who  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
+
+(155) “I worship Govinda, the original Person, who, abiding through His kalās in Rāma and other forms, brought about many avatāras in the worlds, but who Himself, the Supreme Person, appeared as Kṛṣṇa.” (Brahma-saṁhitā, 5.39)[^38]
+
+শ্রীচৈতন্য — সেই কৃষ্ণ, নিত্যানন্দ — রাম ৷  
+নিত্যানন্দ পূর্ণ করে চৈতন্যের কাম ॥ ১৫৬ ॥
+
+śrī-caitanya — sei kṛṣṇa, nityānanda — rāma  
+Śrī Caitanya  that  Kṛṣṇa  Nityānanda  Rāma  
+nityānanda pūrṇa kare caitanyera kāma  
+Nityānanda  fulfilment  makes  of Caitanya’s  desire
+
+(156) Śrī Caitanya is that Kṛṣṇa, and Nityānanda is Rāma. Nityānanda fulfils all of Caitanya’s desires.
+
+নিত্যানন্দ-মহিমা-সিন্ধু অনন্ত, অপার ৷  
+এক কণা স্পর্শি মাত্র, — সে কৃপা তাঁহার ॥ ১৫৭ ॥
+
+nityānanda-mahimā-sindhu ananta, apāra  
+of Nityānanda’s glory  the ocean  endless  shoreless  
+eka kaṇā sparśi mātra, — se kṛpā tām̐hāra  
+one  drop  I touch  only  that  mercy  His
+
+(157) The ocean of Nityānanda’s glory is endless and shoreless. I touch but a single drop of it — and that only by His mercy.
+
+আর এক শুন তাঁর কৃপার মহিমা ৷  
+অধম জীবেরে চড়াইল ঊর্দ্ধ্ব সীমা ॥ ১৫৮ ॥
+
+āra eka śuna tām̐ra kṛpāra mahimā  
+one more  hear  His  of mercy  the greatness  
+adhama jīvere caḍāila ūrddhva sīmā  
+a fallen  soul  He raised  to the highest  limit
+
+(158) Hear one more glory of His mercy: He raised a fallen soul to the very highest.[^39]
+
+বেদগুহ্য কথা এই অয়োগ্য কহিতে ৷  
+তথাপি কহিয়ে তাঁর কৃপা প্রকাশিতে ॥ ১৫৯ ॥
+
+veda-guhya kathā ei ayogya kahite  
+like the Vedas  secret  story  this  unfit  to tell  
+tathāpi kahiye tām̐ra kṛpā prakāśite  
+still  I tell  His  mercy  to reveal
+
+(159) This story is as secret as the Vedas and not fit to be told; still I tell it to reveal His mercy.
+
+উল্লাস-উপরি লেখোঁ তোমার প্রসাদ ৷  
+নিত্যানন্দ প্রভু, মোর ক্ষম অপরাধ ॥ ১৬০ ॥
+
+ullāsa-upari lekhom̐ tomāra prasāda  
+in overflowing joy  I write  of Your  grace  
+nityānanda prabhu, mora kṣama aparādha  
+Nityānanda  Prabhu  my  forgive  offence
+
+(160) In overflowing joy I write of Your grace. O Nityānanda Prabhu, forgive my offence!
+
+অবধূত গোসাঞির এক ভৃত্য প্রেমধাম ৷  
+মীনকেতন রামদাস হয় তাঁর নাম ॥ ১৬১ ॥
+
+avadhūta gosāñira eka bhṛtya prema-dhāma  
+of the Avadhūta  Gosāñi  one  servant  abode of love  
+mīnaketana rāmadāsa haya tām̐ra nāma  
+Mīnaketana  Rāmadāsa  is  his  name
+
+(161) Avadhūta Gosāñi had a servant who was an abode of love; his name was Mīnaketana Rāmadāsa.[^40]
+
+আমার আলয়ে অহোরাত্র-সঙ্কীর্ত্তন ৷  
+তাহাতে আইলা তিঁহো পাঞা নিমন্ত্রণ ॥ ১৬২ ॥
+
+āmāra ālaye aho-rātra-saṅkīrtana  
+in my  house  day and night  saṅkīrtana  
+tāhāte āilā tim̐ho pāñā nimantraṇa  
+there  came  he  receiving  an invitation
+
+(162) In my house there was saṅkīrtana day and night, and he came there by invitation.
+
+মহাপ্রেমময় তিঁহো বসিলা অঙ্গনে ৷  
+সকল বৈষ্ণব তাঁর বন্দিলা চরণে ॥ ১৬৩ ॥
+
+mahā-prema-maya tim̐ho vasilā aṅgane  
+with great  love  filled  he  sat  in the courtyard  
+sakala vaiṣṇava tām̐ra vandilā caraṇe  
+all  Vaiṣṇavas  his  bowed down  at the feet
+
+(163) Full of great love, he sat down in the courtyard, and all the Vaiṣṇavas bowed at his feet.
+
+নমস্কার করিতে, কা’র উপরেতে চড়ে ৷  
+প্রেমে কা’রে বংশী মারে, কাহাকে চাপড়ে ॥ ১৬৪ ॥
+
+namaskāra karite, kā’ra uparete caḍe  
+as they bowed  on whom  upon  he climbs  
+preme kā’re vaṁśī māre, kāhāke cāpaḍe  
+in love  whom  with the flute  he strikes  whom  he slaps
+
+(164) As they bowed, he would climb on the back of one, and in his love strike another with his flute or slap yet another.
+
+যে নয়ন দেখিতে অশ্রু হয় মনে যার ৷  
+সেই নেত্রে অবিচ্ছিন্ন বহে অশ্রুধার ॥ ১৬৫ ॥
+
+ye nayana dekhite aśru haya mane yāra  
+which  eyes  on seeing  tears  come  in the mind  of whom  
+sei netre avicchinna vahe aśru-dhāra  
+from those  eyes  unbroken  flows  of tears  a stream
+
+(165) From those eyes, the very sight of which brings tears to one’s heart, flowed an unbroken stream of tears.
+
+কভু কোন অঙ্গে দেখি পুলক-কদম্ব ৷  
+এক অঙ্গে জাড়্য তাঁর, আর অঙ্গে কম্প ॥ ১৬৬ ॥
+
+kabhu kona aṅge dekhi pulaka-kadamba  
+sometimes  on some  limb  I see  hairs on end  like kadamba  
+eka aṅge jāḍya tām̐ra, āra aṅge kampa  
+on one  limb  stiffness  his  on another  limb  trembling
+
+(166) At times I saw the hair on some limb stand on end like kadamba blossoms; one limb would stiffen while another trembled.
+
+নিত্যানন্দ বলি’ যবে করেন হুঙ্কার ৷  
+তাহা দেখি’ লোকের হয় মহা-চমৎকার ॥ ১৬৭ ॥
+
+nityānanda bali’ yabe karena huṅkāra  
+Nityānanda  saying  when  makes  a loud cry  
+tāhā dekhi’ lokera haya mahā-camatkāra  
+that  seeing  of the people  is  great  wonder
+
+(167) When he roared out “Nityānanda!”, all who saw it were filled with wonder.
+
+গুণার্ণব মিশ্র নামে এক বিপ্র আর্য্য ৷  
+শ্রীমূর্ত্তি-নিকটে তেঁহো করে সেবা-কার্য্য ॥ ১৬৮ ॥
+
+guṇārṇava miśra nāme eka vipra ārya  
+Guṇārṇava  Miśra  by name  a  brāhmaṇa  respectable  
+śrī-mūrti-nikaṭe tem̐ho kare sevā-kārya  
+the Deity  near  he  does  of service  the work
+
+(168) A respectable brāhmaṇa named Guṇārṇava Miśra was serving the Deity there.
+
+অঙ্গনে বসিয়া তেঁহো না কৈল সম্ভাষ ৷  
+তাহা দেখি’ ক্রুদ্ধ হঞা বলে রামদাস ॥ ১৬৯ ॥
+
+aṅgane vasiyā tem̐ho nā kaila sambhāṣa  
+in the courtyard  sitting (to him)  he  not  made  greeting  
+tāhā dekhi’ kruddha hañā bale rāmadāsa  
+that  seeing  angry  becoming  says  Rāmadāsa
+
+(169) Rāmadāsa sat in the courtyard, but the brāhmaṇa did not greet him; seeing this, Rāmadāsa said angrily:[^41]
+
+এই ত’ দ্বিতীয় সূত রোমহরষণ ৷  
+বলদেব দেখি’ যে না কৈল প্রত্যুদ্গম ॥ ১৭০ ॥
+
+ei ta’ dvitīya sūta romaharaṣaṇa  
+this  indeed  a second  Sūta  Romaharṣaṇa  
+baladeva dekhi’ ye nā kaila pratyudgama  
+Baladeva  seeing  who  not  made  rising to greet
+
+(170) “Here is a second Romaharṣaṇa Sūta, who did not rise to greet Baladeva when he saw Him!”[^42]
+
+এত বলি’ নাচে গায়, করয়ে সন্তোষ ৷  
+কৃষ্ণকার্য্য করে বিপ্র — না করিল রোষ ॥ ১৭১ ॥
+
+eta bali’ nāce gāya, karaye santoṣa  
+so  saying  he dances  sings  makes  rejoicing  
+kṛṣṇa-kārya kare vipra — nā karila roṣa  
+Kṛṣṇa’s work  does  the brāhmaṇa  not  showed  anger
+
+(171) Having said this, he danced and sang and rejoiced; but the brāhmaṇa went on with his service to Kṛṣṇa and showed no anger.
+
+উৎসবান্তে গেলা তিঁহো করিয়া প্রসাদ ৷  
+মোর ভ্রাতা-সনে তাঁর কিছু হৈল বাদ ॥ ১৭২ ॥
+
+utsavānte gelā tim̐ho kariyā prasāda  
+at the festival’s end  went  he  having given  blessings  
+mora bhrātā-sane tām̐ra kichu haila vāda  
+my  brother  with  his  some  arose  dispute
+
+(172) At the end of the festival he was leaving, having given his blessings, when a dispute arose between him and my brother.
+
+চৈতন্য-প্রভুতে তাঁর সুদৃঢ় বিশ্বাস ৷  
+নিত্যানন্দ-প্রতি তাঁর বিশ্বাস-আভাস ॥ ১৭৩ ॥
+
+caitanya-prabhute tām̐ra sudṛḍha viśvāsa  
+in Caitanya Prabhu  his  firm  faith  
+nityānanda-prati tām̐ra viśvāsa-ābhāsa  
+towards Nityānanda  his  of faith  a semblance
+
+(173) My brother had firm faith in Caitanya Prabhu, but towards Nityānanda only a semblance of faith.
+
+ইহা জানি’ রামদাসের দুঃখ হৈল মনে ৷  
+তবে ত’ ভ্রাতারে আমি করিনু ভর্ৎসনে ॥ ১৭৪ ॥
+
+ihā jāni’ rāmadāsera duḥkha haila mane  
+this  knowing  Rāmadāsa’s  sorrow  was  in the mind  
+tabe ta’ bhrātāre āmi karinu bhartsane  
+then  indeed  the brother  I  made  rebuke
+
+(174) Knowing this, Rāmadāsa was grieved at heart, and so I rebuked my brother:
+
+দুই ভাই একতনু — সমান-প্রকাশ ৷  
+নিত্যানন্দ না মান’, তোমার হবে সর্ব্বনাশ ॥ ১৭৫ ॥
+
+dui bhāi eka-tanu — samāna-prakāśa  
+two  brothers  one body  equal manifestation  
+nityānanda nā māna’, tomāra habe sarva-nāśa  
+Nityānanda  not  you accept  your  will be  total  ruin
+
+(175) “The two brothers are one body, equally manifest. If you do not accept Nityānanda, you will be utterly ruined.
+
+একেতে বিশ্বাস, অন্যে না কর সম্মান ৷  
+‘অর্ধকুক্কুটী-ন্যায়’ তোমার প্রমাণ ॥ ১৭৬ ॥
+
+ekete viśvāsa, anye nā kara sammāna  
+in one  faith  to the other  not  you give  respect  
+‘ardha-kukkuṭī-nyāya’ tomāra pramāṇa  
+of half a hen  the logic  your  standard
+
+(176) You have faith in one but show the other no respect: your standard is the logic of half a hen.
+
+কিংবা, দোঁহা না মানিঞা হও ত’ পাষণ্ড ৷  
+একে মানি’ আরে না মানি, — এইমত ভণ্ড ॥ ১৭৭ ॥
+
+kiṁvā, dom̐hā nā māniñā hao ta’ pāṣaṇḍa  
+or else  both  not  accepting  be  then  an atheist  
+eke māni’ āre nā māni, — ei-mata bhaṇḍa  
+one  accepting  the other  not  accepting  this kind of  hypocrite
+
+(177) If you accept neither, you are an atheist; and to accept one and not the other is hypocrisy.”[^43]
+
+ক্রুদ্ধ হৈয়া বংশী ভাঙ্গি’ চলে রামদাস ৷  
+তৎকালে আমার ভ্রাতার হৈল সর্ব্বনাশ ॥ ১৭৮ ॥
+
+kruddha haiyā vaṁśī bhāṅgi’ cale rāmadāsa  
+angry  becoming  the flute  breaking  goes away  Rāmadāsa  
+tat-kāle āmāra bhrātāra haila sarva-nāśa  
+at that moment  my  brother’s  came about  total  ruin
+
+(178) In anger Rāmadāsa broke his flute and went away, and at that very moment my brother was ruined.
+
+এই ত’ কহিল তাঁর সেবক-প্রভাব ৷  
+আর এক কহি তাঁর দয়ার স্বভাব ॥ ১৭৯ ॥
+
+ei ta’ kahila tām̐ra sevaka-prabhāva  
+thus  indeed  I have told  His  servant’s  power  
+āra eka kahi tām̐ra dayāra svabhāva  
+one more  I tell  His  mercy’s  nature
+
+(179) Thus I have told of the power of His servant. Now I tell of something more — the nature of His mercy.
+
+ভাইকে ভর্ৎসিনু মুঞি, লঞা এই গুণ ৷  
+সেই রাত্রে প্রভু মোরে দিলা দরশন ॥ ১৮০ ॥
+
+bhāike bhartsinu muñi, lañā ei guṇa  
+the brother  I rebuked  I  taking  this  as a virtue  
+sei rātre prabhu more dilā daraśana  
+that  night  the Lord  to me  gave  sight
+
+(180) Because I had rebuked my brother — and He counted this as a virtue — that night the Lord appeared to me.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -1680,3 +1986,17 @@ independent  in pastime  suffering  endures  Lakṣmaṇa
 [^35]: *Anubhāṣya*: Mahāprabhu honoured Advaita Ācārya as one of His elders, but Advaita regarded Himself as Śrī Caitanya’s servant. He was a contemporary and friend of Mahāprabhu’s father; Śrī Īśvara Purī and Śrī Advaita were both disciples of Śrī Mādhavendra Purī, and since Mahāprabhu accepted Īśvara Purī as His initiating guru, Advaita was a godbrother of His guru and worthy of respect.
 
 [^36]: *Anubhāṣya*: among the *daṇḍī* sannyāsīs of the ten orders (*daśanāmī*), a brahmacārī receives one of four names — *svarūpa*, *ānanda*, *prakāśa* or *caitanya*. During His pilgrimage Nityānanda Prabhu stayed with a sannyāsī whose title was *tīrtha* or *āśrama*, and so His brahmacārī name was “Nityānanda-svarūpa”.
+
+[^37]: *Anubhāṣya* (after the *Laghu-bhāgavatāmṛta*): Rāma, Lakṣmaṇa, Bharata and Śatrughna are avatāras of Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; the *Padma-purāṇa* calls Rāma Nārāyaṇa, and Lakṣmaṇa, Bharata and Śatrughna Śeṣa, the Disc and the Conch.
+
+[^38]: *Anubhāṣya*: *kalā-niyamena* — “as part and part of a part”; He abides in the forms of Rāma and others, manifesting them as avatāras for particular purposes (*naimittika*), but He Himself appeared as Kṛṣṇa.
+
+[^39]: The Gauḍīya Maṭha edition reads «অধম জীবেরে চড়াইল ঊর্দ্ধ্ব সীমা» (“He raised a fallen soul to the highest limit”), with the heading “The greatness of Nityānanda’s mercy shown by the author’s own story.” Other editions read «যৈছে চড়াইল» (“how He raised…”).
+
+[^40]: *Anubhāṣya*: *avadhūta* — Śrīdhara Svāmī (on *Bhāgavatam*, 3.1.19) explains the word as “one whose body bears no mark of ritual purification”: Nityānanda, eternally perfect and beyond varṇāśrama, bore none of its signs and was absorbed in the mood of Vraja. On Mīnaketana Rāmadāsa see Ādi 11.53.
+
+[^41]: As in the Gauḍīya Maṭha edition: «বসিয়া» (“sitting”; another reading: «আসিয়া», “having come”). *Amṛta-pravāha-bhāṣya*: Guṇārṇava Miśra, the servant of the Deity, did not greet Nityānanda’s servant who was sitting in the courtyard.
+
+[^42]: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya* (*Bhāgavatam*, 10.78.22–28): in Naimiṣāraṇya Romaharṣaṇa, a disciple of Vyāsa, did not rise to greet Baladeva and was slain by Him; Guṇārṇava Miśra, who had no special regard for Nityānanda, acted just as improperly. The devotees do not blame Mīnaketana for this anger.
+
+[^43]: *Amṛta-pravāha-bhāṣya*: “the logic of half a hen” is to take one half of a hen as old and the other as young; so too, by accepting one of the undivided Caitanya and Nityānanda and rejecting the other, you show both unbelief and hypocrisy.
