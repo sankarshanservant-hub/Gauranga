@@ -620,6 +620,377 @@ to the Lord  spoke  something  showing  respect
 
 (62) The chief among the sannyāsīs, Prakāśānanda by name, addressed the Lord with respect:[^18]
 
+ইহাঁ আইস গোসাঞি, শুনহ শ্রীপাদ ৷  
+অপবিত্র স্থানে বৈস, কিবা অবসাদ ॥ ৬৩ ॥
+
+ihām̐ āisa gosāñi, śunaha śrīpāda  
+here  come  Gosāñi  listen  Śrīpāda  
+apavitra sthāne vaisa, kibā avasāda  
+in an impure  place  You sit  what  dejection
+
+(63) “Come here, Gosāñi; listen, Śrīpāda. You are sitting in an impure place — why are You so downcast?”
+
+প্রভু কহে, — আমি হই হীন-সম্প্রদায় ৷  
+তোমা-সবার সম্প্রদায়ে বসিতে না যুয়ায় ॥ ৬৪ ॥
+
+prabhu kahe, — āmi hai hīna-sampradāya  
+the Lord  says  I  am  of a lower sampradāya  
+tomā-sabāra sampradāye vasite nā yuyāya  
+of you all  in the assembly  to sit  not  befits
+
+(64) The Lord replied, “I belong to a lower sampradāya; it is not fitting for Me to sit in your assembly.”[^19]
+
+আপনে প্রকাশানন্দ হাতেতে ধরিয়া ৷  
+বসাইল সভামধ্যে সম্মান করিয়া ॥ ৬৫ ॥
+
+āpane prakāśānanda hātete dhariyā  
+himself  Prakāśānanda  by the hand  taking  
+vasāila sabhā-madhye sammāna kariyā  
+seated  in the midst of the assembly  respect  showing
+
+(65) Then Prakāśānanda himself took Him by the hand and, with respect, seated Him in the midst of the assembly.
+
+পুছিল, তোমার নাম ‘শ্রীকৃষ্ণচৈতন্য’ ৷  
+কেশব-ভারতীর শিষ্য, তাতে তুমি ধন্য ॥ ৬৬ ॥
+
+puchila, tomāra nāma ‘śrī-kṛṣṇa-caitanya’  
+he asked  Your  name  ‘Śrī Kṛṣṇa Caitanya’  
+keśava-bhāratīra śiṣya, tāte tumi dhanya  
+of Keśava Bhāratī  the disciple  therefore  You  are glorious
+
+(66) He asked, “Your name is Śrī Kṛṣṇa Caitanya, is it not? You are a disciple of Keśava Bhāratī, and so You are worthy of glory.
+
+সাম্প্রদায়িক সন্ন্যাসী তুমি, রহ এই গ্রামে ৷  
+কি কারণে আমা-সবার না কর দর্শনে ॥ ৬৭ ॥
+
+sāmpradāyika sannyāsī tumi, raha ei grāme  
+of the sampradāya  a sannyāsī  You  You live  in this  town  
+ki kāraṇe āmā-sabāra nā kara darśane  
+for what  reason  us all  not  You make  seeing
+
+(67) You are a sannyāsī of our own sampradāya and You live in this town; why then do You not come to see us?
+
+সন্ন্যাসী হইয়া কর নর্ত্তন-গায়ন ৷  
+ভাবুক সব সঙ্গে লঞা করহ কীর্ত্তন ॥ ৬৮ ॥
+
+sannyāsī haiyā kara nartana-gāyana  
+a sannyāsī  being  You do  dancing and singing  
+bhāvuka saba saṅge lañā karaha kīrtana  
+sentimentalists  all  with  taking  You do  kīrtana
+
+(68) Though You are a sannyāsī, You dance and sing, and You take all these sentimentalists with You and perform kīrtana.
+
+বেদান্ত-পঠন, ধ্যান, — সন্ন্যাসীর ধর্ম্ম ৷  
+তাহা ছাড়ি’ কর কেনে ভাবুকের কর্ম্ম ॥ ৬৯ ॥
+
+vedānta-paṭhana, dhyāna, — sannyāsīra dharma  
+Vedānta-study  meditation  of a sannyāsī  the dharma  
+tāhā chāḍi’ kara kene bhāvukera karma  
+that  abandoning  You do  why  of sentimentalists  the work
+
+(69) The study of Vedānta and meditation are the dharma of a sannyāsī; why do You abandon them and do the work of sentimentalists?
+
+প্রভাবে দেখিয়ে তোমা সাক্ষাৎ নারায়ণ ৷  
+হীনাচার কর কেনে, ইথে কি কারণ ॥ ৭০ ॥
+
+prabhāve dekhiye tomā sākṣāt nārāyaṇa  
+by Your splendour  we see  You  directly  Nārāyaṇa  
+hīnācāra kara kene, ithe ki kāraṇa  
+low conduct  You do  why  in this  what  reason
+
+(70) From Your splendour we see that You are Nārāyaṇa Himself; why then do You behave so lowly? What is the reason?”
+
+প্রভু কহে, — শুন, শ্রীপাদ, ইহার কারণ ৷  
+গুরু মোরে মূর্খ দেখি’ করিল শাসন ॥ ৭১ ॥
+
+prabhu kahe, — śuna, śrīpāda, ihāra kāraṇa  
+the Lord  says  listen  Śrīpāda  of this  the reason  
+guru more mūrkha dekhi’ karila śāsana  
+the guru  Me  a fool  seeing  made  chastisement
+
+(71) The Lord said, “Listen, Śrīpāda, to the reason for this. My guru saw that I was a fool, and he chastised Me:[^20]
+
+মূর্খ তুমি, তোমার নাহি বেদান্তাধিকার ৷  
+‘কৃষ্ণমন্ত্র’ জপ’ সদা, — এই মন্ত্রসার ॥ ৭২ ॥
+
+mūrkha tumi, tomāra nāhi vedāntādhikāra  
+a fool  You are  Your  there is not  qualification for Vedānta  
+‘kṛṣṇa-mantra’ japa’ sadā, — ei mantra-sāra  
+‘the Kṛṣṇa-mantra’  chant  always  this  of mantras the essence
+
+(72) ‘You are a fool; You are not qualified for Vedānta. Always chant the Kṛṣṇa-mantra — it is the essence of all mantras.
+
+কৃষ্ণমন্ত্র হৈতে হবে সংসার-মোচন ৷  
+কৃষ্ণনাম হৈতে পাবে কৃষ্ণের চরণ ॥ ৭৩ ॥
+
+kṛṣṇa-mantra haite habe saṁsāra-mocana  
+the Kṛṣṇa-mantra  from  will be  from saṁsāra  release  
+kṛṣṇa-nāma haite pābe kṛṣṇera caraṇa  
+Kṛṣṇa’s name  from  You will attain  Kṛṣṇa’s  feet
+
+(73) From the Kṛṣṇa-mantra will come release from saṁsāra, and by Kṛṣṇa’s name You will attain Kṛṣṇa’s feet.[^21]
+
+নাম বিনা কলিকালে নাহি আর ধর্ম্ম ৷  
+সর্ব্বমন্ত্রসার নাম, — এই শাস্ত্রমর্ম্ম ॥ ৭৪ ॥
+
+nāma vinā kali-kāle nāhi āra dharma  
+the name  without  in the age of Kali  there is not  other  dharma  
+sarva-mantra-sāra nāma, — ei śāstra-marma  
+of all mantras the essence  the name  this  of scripture the heart
+
+(74) In the age of Kali there is no dharma other than the name; the name is the essence of all mantras — this is the heart of the scriptures.’
+
+এত বলি’ এক শ্লোক শিখাইল মোরে ৷  
+কণ্ঠে করি’ এই শ্লোক করিহ বিচারে ॥ ৭৫ ॥
+
+eta bali’ eka śloka śikhāila more  
+thus  saying  one  verse  he taught  Me  
+kaṇṭhe kari’ ei śloka kariha vicāre  
+in the throat  keeping  this  verse  make  reflection
+
+(75) Saying this, he taught Me a verse: ‘Keep this verse on your lips and reflect on it.’
+
+হরের্নাম হরের্নাম হরের্নামৈব কেবলম্ ৷  
+কলৌ নাস্ত্যেব নাস্ত্যেব নাস্ত্যেব গতিরন্যথা ॥ ৭৬ ॥
+
+harer nāma harer nāma  
+of Hari  the name  of Hari  the name  
+harer nāmaiva kevalam  
+of Hari  the name  indeed  only  
+kalau nāsty eva nāsty eva  
+in Kali  there is not  indeed  there is not  indeed  
+nāsty eva gatir anyathā  
+there is not  indeed  way  other
+
+(76) “The name of Hari, the name of Hari, the name of Hari alone! In the age of Kali there is no other way, there is no other way, there is no other way.” (Bṛhan-nāradīya Purāṇa, 38.126)[^22]
+
+এই আজ্ঞা পাঞা নাম লই অনুক্ষণ ৷  
+নাম লৈতে লৈতে মোর ভ্রান্ত হৈল মন ॥ ৭৭ ॥
+
+ei ājñā pāñā nāma lai anukṣaṇa  
+this  order  receiving  the name  I take  constantly  
+nāma laite laite mora bhrānta haila mana  
+the name  taking  taking  My  bewildered  became  mind
+
+(77) Receiving this order, I took the name constantly, and as I chanted on and on, My mind grew bewildered.
+
+ধৈর্য্য ধরিতে নারি, হৈলাম উন্মত্ত ৷  
+হাসি, কান্দি, নাচি, গাই, যৈছে মদমত্ত ॥ ৭৮ ॥
+
+dhairya dharite nāri, hailāma unmatta  
+composure  to hold  I cannot  I became  mad  
+hāsi, kāndi, nāci, gāi, yaiche madamatta  
+I laugh  I weep  I dance  I sing  like  one intoxicated
+
+(78) I could no longer keep My composure; I became mad. I laughed and wept, I danced and sang like one intoxicated.
+
+তবে ধৈর্য্য ধরি’ মনে করিলাম বিচার ৷  
+কৃষ্ণনামে জ্ঞানাচ্ছন্ন হইল আমার ॥ ৭৯ ॥
+
+tabe dhairya dhari’ mane karilāma vicāra  
+then  composure  holding  in the mind  I made  consideration  
+kṛṣṇa-nāme jñānācchanna haila āmāra  
+by Kṛṣṇa’s name  knowledge-covered  became  My
+
+(79) Then, gathering My composure, I reflected: “Kṛṣṇa’s name has covered all My knowledge.
+
+পাগল হইলাঙ আমি, ধৈর্য্য নাহি মনে ৷  
+এত চিন্তি’ নিবেদিলাম গুরুর চরণে ॥ ৮০ ॥
+
+pāgala hailāṅa āmi, dhairya nāhi mane  
+mad  have become  I  composure  there is not  in the mind  
+eta cinti’ nivedilāma gurura caraṇe  
+thus  thinking  I submitted  at the guru’s  feet
+
+(80) I have gone mad; there is no composure left in My mind.” Thinking this, I came to the feet of My guru and said:
+
+কিবা মন্ত্র দিলা, গোসাঞি, কিবা তার বল ৷  
+জপিতে জপিতে মন্ত্র করিল পাগল ॥ ৮১ ॥
+
+kibā mantra dilā, gosāñi, kibā tāra bala  
+what  mantra  you gave  Gosāñi  what  its  power  
+japite japite mantra karila pāgala  
+chanting  chanting  the mantra  made  mad
+
+(81) ‘What mantra have you given Me, Gosāñi? What power it has! Chanting and chanting, the mantra has made Me mad.
+
+হাসায়, নাচায়, মোরে করায় ক্রন্দন ৷  
+এত শুনি’ গুরু মোরে বলিলা বচন ॥ ৮২ ॥
+
+hāsāya, nācāya, more karāya krandana  
+it makes laugh  makes dance  Me  makes  weep  
+eta śuni’ guru more balilā vacana  
+this  hearing  the guru  to Me  spoke  words
+
+(82) It makes Me laugh, it makes Me dance, it makes Me weep.’ Hearing this, My guru spoke these words to Me:
+
+কৃষ্ণনাম-মহামন্ত্রের এই ত’ স্বভাব ৷  
+যেই জপে, তার কৃষ্ণে উপজয়ে ভাব ॥ ৮৩ ॥
+
+kṛṣṇa-nāma-mahā-mantrera ei ta’ svabhāva  
+of the great mantra of Kṛṣṇa’s name  this  indeed  the nature  
+yei jape, tāra kṛṣṇe upajaye bhāva  
+whoever  chants  his  for Kṛṣṇa  arises  bhāva
+
+(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: whoever chants it, in him bhāva for Kṛṣṇa awakens.[^23]
+
+কৃষ্ণবিষয়ক প্রেমা — পরম পুরুষার্থ ৷  
+যার আগে তৃণতুল্য চারি পুরুষার্থ ॥ ৮৪ ॥
+
+kṛṣṇa-viṣayaka premā — parama puruṣārtha  
+for Kṛṣṇa  prema  the supreme  goal of life  
+yāra āge tṛṇa-tulya cāri puruṣārtha  
+before which  like straw  the four  goals of life
+
+(84) Prema for Kṛṣṇa is the supreme goal of life; before it the four goals of life are like straw.
+
+পঞ্চম পুরুষার্থ — প্রেমানন্দামৃতসিন্ধু ৷  
+ব্রহ্মাদি আনন্দ যার নহে এক বিন্দু ॥ ৮৫ ॥
+
+pañcama puruṣārtha — premānandāmṛta-sindhu  
+the fifth  goal of life  an ocean of the nectar of the bliss of prema  
+brahmādi ānanda yāra nahe eka bindu  
+of Brahman and the rest  the bliss  of which  is not  one  drop
+
+(85) The fifth goal of life is an ocean of the nectar of the bliss of prema; the bliss of Brahman and all the rest is not equal to a single drop of it.[^24]
+
+কৃষ্ণনামের ফল — ‘প্রেমা’, সর্ব্বশাস্ত্রে কয় ৷  
+ভাগ্যে সেই প্রেমা তোমায় করিল উদয় ॥ ৮৬ ॥
+
+kṛṣṇa-nāmera phala — ‘premā’, sarva-śāstre kaya  
+of Kṛṣṇa’s name  the fruit  ‘prema’  in all scriptures  it is said  
+bhāgye sei premā tomāya karila udaya  
+by good fortune  that  prema  in You  has made  dawning
+
+(86) All the scriptures say that the fruit of Kṛṣṇa’s name is prema, and by good fortune that prema has dawned in You.
+
+প্রেমার স্বভাবে করে চিত্ত-তনু ক্ষোভ ৷  
+কৃষ্ণের চরণ-প্রাপ্ত্যে উপজায় লোভ ॥ ৮৭ ॥
+
+premāra svabhāve kare citta-tanu kṣobha  
+by prema’s  nature  it makes  of mind and body  agitation  
+kṛṣṇera caraṇa-prāptye upajāya lobha  
+of Kṛṣṇa’s  feet  for the attainment  arises  greed
+
+(87) It is the nature of prema to stir both mind and body and to awaken a burning longing to attain Kṛṣṇa’s feet.
+
+প্রেমার স্বভাবে ভক্ত হাসে, কান্দে, গায় ৷  
+উন্মত্ত হইয়া নাচে, ইতি-উতি ধায় ॥ ৮৮ ॥
+
+premāra svabhāve bhakta hāse, kānde, gāya  
+by prema’s  nature  the devotee  laughs  weeps  sings  
+unmatta haiyā nāce, iti-uti dhāya  
+mad  becoming  dances  here and there  runs
+
+(88) By the nature of prema the devotee laughs, weeps and sings; as if mad, he dances and runs here and there.[^25]
+
+স্বেদ, কম্প, রোমাঞ্চাশ্রু, গদ্গদ, বৈবর্ণ্য ৷  
+উন্মাদ, বিষাদ, ধৈর্য্য, গর্ব্ব, হর্ষ, দৈন্য ॥ ৮৯ ॥
+
+এত ভাবে প্রেমা ভক্তগণেরে নাচায় ৷  
+কৃষ্ণের আনন্দামৃতসাগরে ভাসায় ॥ ৯০ ॥
+
+sveda, kampa, romāñcāśru, gadgada, vaivarṇya  
+perspiration  trembling  hair standing on end and tears  faltering voice  pallor  
+unmāda, viṣāda, dhairya, garva, harṣa, dainya  
+madness  despondency  steadiness  pride  joy  humility  
+eta bhāve premā bhakta-gaṇere nācāya  
+with so many  feelings  prema  the devotees  makes dance  
+kṛṣṇera ānandāmṛta-sāgare bhāsāya  
+in Kṛṣṇa’s  ocean of the nectar of bliss  makes float
+
+(89–90) Perspiration, trembling, hair standing on end, tears, a faltering voice and change of colour; madness, despondency, steadiness, pride, joy and humility — with all these feelings prema makes the devotees dance and sets them afloat on the ocean of the nectar of Kṛṣṇa’s bliss.
+
+ভাল হৈল, পাইলে তুমি পরমপুরুষার্থ ৷  
+তোমার প্রেমেতে আমি হৈলাঙ কৃতার্থ ॥ ৯১ ॥
+
+bhāla haila, pāile tumi parama-puruṣārtha  
+good  it is  You have attained  You  the supreme goal of life  
+tomāra premete āmi hailāṅa kṛtārtha  
+by Your  prema  I  have become  fulfilled
+
+(91) It is good that You have attained the supreme goal of life; by Your prema my own life has been fulfilled.
+
+নাচ, গাও, ভক্তসঙ্গে কর সংকীর্ত্তন ৷  
+কৃষ্ণনাম উপদেশি’ তার’ সর্ব্বজন ॥ ৯২ ॥
+
+nāca, gāo, bhakta-saṅge kara saṅkīrtana  
+dance  sing  with the devotees  perform  saṅkīrtana  
+kṛṣṇa-nāma upadeśi’ tāra’ sarva-jana  
+Kṛṣṇa’s name  teaching  deliver  all people
+
+(92) Dance, sing and perform saṅkīrtana with the devotees; teach Kṛṣṇa’s name and deliver all people.’[^26]
+
+এত বলি’ এক শ্লোক শিখাইল মোরে ৷  
+ভাগবতের সার এই বলে বারে বারে ॥ ৯৩ ॥
+
+eta bali’ eka śloka śikhāila more  
+thus  saying  one  verse  he taught  Me  
+bhāgavatera sāra ei bale vāre vāre  
+of the Bhāgavata  the essence  this  he says  again  again
+
+(93) Saying this, he taught Me a verse and told Me again and again: ‘This is the essence of the *Bhāgavata*.’
+
+এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
+জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
+হসত্যথো রোদিতি রৌতি গায়-  
+ত্যুন্মাদবন্নৃত্যতি লোকবাহ্যঃ ॥ ৯৪ ॥
+
+evaṁ-vrataḥ sva-priya-nāma-kīrtyā  
+one with such a vow  by the chanting of the names of his beloved  
+jātānurāgo druta-citta uccaiḥ  
+in whom love has arisen  with melted heart  loudly  
+hasaty atho roditi rauti gāyaty  
+laughs  then  weeps  cries out  sings  
+unmāda-van nṛtyati loka-bāhyaḥ  
+like a madman  dances  beyond the world
+
+(94) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)[^27]
+
+এই তাঁর বাক্যে আমি দৃঢ় বিশ্বাস ধরি’ ৷  
+নিরন্তর কৃষ্ণনাম সংকীর্ত্তন করি ॥ ৯৫ ॥
+
+ei tām̐ra vākye āmi dṛḍha viśvāsa dhari’  
+this  his  in the words  I  firm  faith  holding  
+nirantara kṛṣṇa-nāma saṅkīrtana kari  
+constantly  Kṛṣṇa’s name  saṅkīrtana  I do
+
+(95) With firm faith in these words of his, I constantly perform the saṅkīrtana of Kṛṣṇa’s name.
+
+সেই কৃষ্ণনাম কভু গাওয়ায়, নাচায় ৷  
+গাহি, নাচি নাহি আমি আপন-ইচ্ছায় ॥ ৯৬ ॥
+
+sei kṛṣṇa-nāma kabhu gāoyāya, nācāya  
+that  Kṛṣṇa’s name  at times  makes sing  makes dance  
+gāhi, nāci nāhi āmi āpana-icchāya  
+I sing  I dance  not  I  by My own will
+
+(96) That name of Kṛṣṇa sometimes makes Me sing and dance; I do not sing and dance of My own will.[^28]
+
+কৃষ্ণনামে যে আনন্দসিন্ধু-আস্বাদন ৷  
+ব্রহ্মানন্দ তার আগে খাতোদক-সম ॥ ৯৭ ॥
+
+kṛṣṇa-nāme ye ānanda-sindhu-āsvādana  
+in Kṛṣṇa’s name  which  of the ocean of bliss  the tasting  
+brahmānanda tāra āge khātodaka-sama  
+the bliss of Brahman  of that  before  like water in a ditch
+
+(97) Before the ocean of bliss tasted in Kṛṣṇa’s name, the bliss of Brahman is like water in a ditch.
+
+ত্বৎসাক্ষাৎকরণাহ্লাদ-বিশুদ্ধাব্ধিস্থিতস্য মে ৷  
+সুখানি গোষ্পদায়ন্তে ব্রাহ্মাণ্যপি জগদ্গুরো ॥ ৯৮ ॥
+
+tvat-sākṣāt-karaṇāhlāda-  
+from seeing You face to face  the joy  
+viśuddhābdhi-sthitasya me  
+in the pure ocean  situated  for me  
+sukhāni goṣ-padāyante  
+joys  become like a calf’s hoofprint  
+brāhmāṇy api jagad-guro  
+of Brahman  even  O Guru of the world
+
+(98) “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)
+
 ---
 
 [^1]: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
@@ -657,3 +1028,23 @@ to the Lord  spoke  something  showing  respect
 [^17]: As in the Gauḍīya Maṭha edition: «কোটীসূর্য্যাভাস» (another reading: «কোটিসূর্য্যাভাস»); the sense is the same.
 
 [^18]: *Anubhāṣya* (on 7.149): Prakāśānanda Sarasvatī was then the leader of the sannyāsīs of Śaṅkara’s school in Kāśī. Some mistakenly identify him with Prabodhānanda Sarasvatī, the author of the *Caitanya-candrāmṛta* and the *Rādhā-rasa-sudhā-nidhi*, but they are different persons.
+
+[^19]: *Anubhāṣya*: of the ten names of sannyāsīs instituted by Śaṅkarācārya, “Tīrtha”, “Āśrama” and “Sarasvatī” are held higher than the rest. Mahāprabhu had taken sannyāsa in the “Bhāratī” line and therefore called Prakāśānanda Sarasvatī’s school the higher one. In this way He showed the humility of a Vaiṣṇava sannyāsī, who seeks no honour for himself and gives honour to others.
+
+[^20]: *Anubhāṣya*: Śrī Caitanya, Himself the sole object of the Vedānta, teaches who is fit to study it: one who is humbler than a blade of grass, more tolerant than a tree, who seeks no honour and gives honour to others. In calling Himself a fool, He, the Lord of the fourteen worlds, shows the humility of a disciple; the real fool is one who judges the object of the Vedānta by the mind and senses.
+
+[^21]: *Anubhāṣya* (after the *Bhakti-sandarbha*, 284): the mantras too are names of the Lord, adorned with the word *namaḥ* and the like, and the sages have placed a special power in them; the name alone, depending on nothing else, is able to give the highest goal of life. Initiation is needed to curb the impure tendencies of those whose minds are attached to the body and restless.
+
+[^22]: *Anubhāṣya*: in Satya-yuga the way is meditation, in Tretā sacrifice, in Dvāpara the worship of the Deity; in Kali there is none of these — there is only one way, the name of Hari; all other means are fruitless in Kali.
+
+[^23]: *Anubhāṣya* (on 7.74): “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare — these sixteen names destroy the impurity of Kali; no higher means is to be found in all the Vedas” (*Kali-santaraṇa Upaniṣad*). On 7.83: the mantras of the Pañcarātra are called simply mantras, while the names of the Lord are called the *mahā-mantra*.
+
+[^24]: As in the Gauḍīya Maṭha edition: «ব্রহ্মাদি আনন্দ» (“the bliss of Brahman and the rest”; the heading: “Prema, which puts liberation and the rest to shame, is the fifth goal of life”). *Amṛta-pravāha-bhāṣya*: even the bliss of Brahman, the first stage of liberation, cannot be compared with a single drop of prema. Other editions read «মোক্ষাদি» (“liberation and the rest”).
+
+[^25]: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of bhāva and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
+
+[^26]: *Anubhāṣya*: to those whom Gurudeva sees to be qualified he gives the right to dance, sing and perform saṅkīrtana with like-minded devotees, and they, following in his steps, serve the deliverance of the world; the unqualified should chant Kṛṣṇa’s name in solitude.
+
+[^27]: *Anubhāṣya*: these words were spoken by Kavi, one of the nine Yogendras, to King Nimi. *Evaṁ-vrataḥ* — one whose vow is the service of hearing, chanting and the like; *druta-cittaḥ* — with a heart full of longing; *loka-bāhyaḥ* — indifferent to people’s laughter, blame or praise.
+
+[^28]: *Anubhāṣya*: Śrī Nāma Prabhu Himself, by His own will, moved Śrī Gaurasundara to sing and dance; Gaurasundara did not chant the name as though it were a thing of this world. Those who, driven by restless senses, make the name their plaything and try to lord it over Him, reap only the fruits of karma instead of bhajana.
