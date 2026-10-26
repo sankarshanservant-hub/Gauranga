@@ -18,7 +18,7 @@
   authority: B
   notes: "Рамка обхода Навадвипы."
   themes: [pilgrimage]
-  event: ev-nvm-modadrumadvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-modadrumadvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "2", to: "2"}
 
@@ -94,7 +94,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [pilgrimage, ecstasy, krishna-lila]
-  event: ev-nvm-modadrumadvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-modadrumadvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "45", to: "50"}
 
@@ -113,7 +113,7 @@
   authority: B
   themes: [teaching]
   teaching: [maya]
-  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "2", to: "6"}
 
@@ -206,7 +206,7 @@
   authority: B
   notes: "Рамка обхода. «Ананта» — см. nvm-15-004."
   themes: [pilgrimage, krishna-lila]
-  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "57", to: "63"}
 
@@ -279,7 +279,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [pilgrimage]
-  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "90", to: "93"}
 
@@ -371,7 +371,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [pilgrimage, krishna-lila, ecstasy]
-  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "126", to: "129"}
 
@@ -407,7 +407,7 @@
   authority: B
   themes: [teaching, krishna-lila]
   teaching: [gaura-tattva]
-  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "133", to: "139"}
 
@@ -425,7 +425,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [pilgrimage]
-  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  event: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "140", to: "140"}
 
@@ -444,7 +444,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [pilgrimage]
-  event: ev-nvm-bilvapaksha-return-mayapur
+  event: ev-nityananda-jiva-parikrama-bilvapaksha
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/16.md", from: "4", to: "6"}
 
@@ -572,7 +572,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [pilgrimage]
-  event: ev-nvm-bilvapaksha-return-mayapur
+  event: ev-nityananda-jiva-parikrama-bilvapaksha
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/16.md", from: "62", to: "62"}
 
@@ -608,7 +608,7 @@
   authority: B
   notes: "Рамка обхода."
   themes: [kirtan, prasada, ecstasy]
-  event: ev-nvm-bilvapaksha-return-mayapur
+  event: ev-nityananda-jiva-parikrama-bilvapaksha
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/16.md", from: "70", to: "74"}
 
@@ -627,7 +627,7 @@
   authority: B
   notes: "Рамка: вопросы Дживы."
   themes: [teaching, ecstasy]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/17.md", from: "3", to: "10"}
 
@@ -645,7 +645,7 @@
   authority: B
   themes: [teaching, mercy]
   teaching: [gaura-tattva, prema, holy-name]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/17.md", from: "11", to: "27"}
 
@@ -663,7 +663,7 @@
   authority: B
   themes: [teaching]
   teaching: [prema, gaura-tattva]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/17.md", from: "28", to: "33"}
 
@@ -681,7 +681,7 @@
   authority: B
   notes: "Ответ — в гл. 18 (nvm-18-001…)."
   themes: [teaching, offense]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/17.md", from: "34", to: "38"}
 
@@ -700,7 +700,7 @@
   authority: B
   themes: [teaching, offense]
   teaching: [maya, vaishnava]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "3", to: "19"}
 
@@ -719,7 +719,7 @@
   scriptures: ["Шикшаштака 3"]
   themes: [teaching]
   teaching: [holy-name, vaishnava, gaura-tattva]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "20", to: "28"}
 
@@ -739,7 +739,7 @@
   themes: [teaching]
   bhava: [radha]
   teaching: [gaura-tattva, prema]
-  event: ev-nvm-jiva-questions
+  event: ev-nityananda-jiva-questions
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "29", to: "35"}
 
@@ -756,7 +756,7 @@
   kind: lila
   authority: B
   themes: [mercy, ecstasy, separation]
-  event: ev-nvm-jiva-departs-vrindavana
+  event: ev-jiva-departs-navadvipa-for-vrindavana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "36", to: "42"}
 
@@ -774,7 +774,7 @@
   authority: B
   themes: [separation, mercy, family]
   teaching: [vaishnava]
-  event: ev-nvm-jiva-departs-vrindavana
+  event: ev-jiva-departs-navadvipa-for-vrindavana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "43", to: "52"}
 
@@ -791,7 +791,7 @@
   kind: lila
   authority: B
   themes: [separation, pilgrimage]
-  event: ev-nvm-jiva-departs-vrindavana
+  event: ev-jiva-departs-navadvipa-for-vrindavana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "53", to: "56"}
 
@@ -809,7 +809,7 @@
   authority: C
   notes: "Известно только по НДМ."
   themes: [celestial, mercy]
-  event: ev-nvm-jiva-dream-mathura
+  event: ev-jiva-dream-mathura
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "57", to: "60"}
 
@@ -864,7 +864,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [teaching]
   teaching: [maya, vaishnava, bhakti-supremacy]
-  event: ev-nbt-dhama-darshana
+  event: ev-bhaktivinoda-vision-dhama-darshana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "1", to: "7"}
 
@@ -882,7 +882,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, pilgrimage]
-  event: ev-nbt-dhama-darshana
+  event: ev-bhaktivinoda-vision-dhama-darshana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "8", to: "18"}
 
@@ -990,7 +990,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, krishna-lila]
-  event: ev-nbt-dhama-darshana
+  event: ev-bhaktivinoda-vision-dhama-darshana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "26", to: "29"}
 
@@ -1042,9 +1042,9 @@
   places: ["#suvarna-vihara"]
   kind: vision
   authority: C
-  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Ср. ev-nvm-parikrama-suvarna-vihara (видение Дживы, НДМ 7)."
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Ср. ev-nityananda-jiva-parikrama-suvarna-vihara (видение Дживы, НДМ 7)."
   themes: [kirtan, celestial]
-  event: ev-nbt-dhama-darshana
+  event: ev-bhaktivinoda-vision-dhama-darshana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "33", to: "34"}
 
@@ -1063,7 +1063,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, deities]
   bhava: [nrisimha]
-  event: ev-nbt-nrisimha-blessing
+  event: ev-bhaktivinoda-vision-nrisimha-blessing
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "35", to: "40"}
 
@@ -1079,9 +1079,9 @@
   places: ["#godrumadvipa", "#mahavaranasi"]
   kind: vision
   authority: C
-  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Маркандейя — ср. ev-nvm-markandeya-surabhi."
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Маркандейя — ср. ev-markandeya-surabhi."
   themes: [celestial]
-  event: ev-nvm-indra-surabhi-godruma
+  event: ev-indra-surabhi-godruma
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "41", to: "43"}
 
@@ -1118,7 +1118,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [revelation, celestial]
-  event: ev-nvm-seven-rishis-majida
+  event: ev-seven-rishis-majida
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "51", to: "51"}
 
@@ -1134,10 +1134,10 @@
   places: ["#naimisha-navadvipa", "#hamsa-vahana"]
   kind: vision
   authority: C
-  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Шива на лебеде — ср. ev-nvm-shiva-hamsa-naimisha."
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Шива на лебеде — ср. ev-shiva-hamsa-naimisha."
   calendar: "картика, экадаши"
   themes: [celestial]
-  event: ev-nvm-naimisha-shaunaka-suta
+  event: ev-naimisha-shaunaka-suta
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "52", to: "54"}
 
@@ -1155,7 +1155,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, revelation]
-  event: ev-nvm-diva-dasa-pushkara
+  event: ev-diva-dasa-pushkara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "55", to: "55"}
 
@@ -1173,7 +1173,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, kirtan]
-  event: ev-nvm-devas-uchcha-hatta
+  event: ev-devas-uchcha-hatta
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "56", to: "56"}
 
@@ -1229,7 +1229,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [revelation]
   bhava: [varaha]
-  event: ev-nvm-varaha-vasudeva
+  event: ev-varaha-vasudeva
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "65", to: "65"}
 
@@ -1264,9 +1264,9 @@
   places: ["#samudragarh", "#gangasagara"]
   kind: vision
   authority: C
-  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Океан — ср. ev-nvm-ocean-ganga-samudragarh."
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Океан — ср. ev-ocean-ganga-samudragarh."
   themes: [celestial, revelation]
-  event: ev-nvm-samudra-sena-bhima
+  event: ev-samudra-sena-bhima
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "72", to: "73"}
 
@@ -1284,7 +1284,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [kirtan]
-  event: ev-nbt-dhama-darshana
+  event: ev-bhaktivinoda-vision-dhama-darshana
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "74", to: "75"}
 
@@ -1302,7 +1302,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial]
-  event: ev-nvm-gaura-appears-jayadeva
+  event: ev-gaura-appears-jayadeva
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "76", to: "76"}
 
@@ -1339,7 +1339,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [krishna-lila, ecstasy]
   bhava: [sakha]
-  event: ev-nvm-gaura-kirtan-radha-kunda-ritudvipa
+  event: ev-gaura-kirtan-radha-kunda-ritudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "79", to: "81"}
 
@@ -1357,7 +1357,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [krishna-lila, celestial]
-  event: ev-nbt-krishna-balarama-calves
+  event: ev-bhaktivinoda-vision-krishna-balarama-calves
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "82", to: "84"}
 
@@ -1375,7 +1375,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [learning, celestial]
-  event: ev-nvm-brihaspati-sarvabhauma-vidyanagara
+  event: ev-brihaspati-sarvabhauma-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "85", to: "88"}
 
@@ -1391,7 +1391,7 @@
   places: ["#vidyanagara-bengal"]
   kind: vision
   authority: C
-  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Споры с учителями — ср. ev-nvm-nimai-vidyanagara-debate."
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Споры с учителями — ср. ev-nimai-vidyanagara-debate."
   themes: [offense, learning]
   event: ev-devananda-rebuked
   verses:
@@ -1409,9 +1409,9 @@
   places: ["#jahnudvipa", "#jannagar"]
   kind: vision
   authority: C
-  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Бхишма — ср. ev-nvm-bhishma-jahnu."
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Бхишма — ср. ev-bhishma-jahnu."
   themes: [celestial]
-  event: ev-nvm-jahnu-ganga
+  event: ev-jahnu-ganga
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "94", to: "95"}
 
@@ -1430,7 +1430,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, teaching]
   teaching: [vaishnava, holy-name, maya]
-  event: ev-nbt-bhishma-instruction
+  event: ev-bhaktivinoda-vision-bhishma-instruction
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "96", to: "109"}
 
@@ -1449,7 +1449,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, revelation]
   bhava: [rama]
-  event: ev-nbt-rama-lakshmana-fruit
+  event: ev-bhaktivinoda-vision-rama-lakshmana-fruit
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "109", to: "116"}
 
@@ -1486,7 +1486,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial]
-  event: ev-nbt-surya-arka-tila
+  event: ev-bhaktivinoda-vision-surya-arka-tila
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "120", to: "123"}
 
@@ -1523,7 +1523,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [prasada, celestial]
   teaching: [prasada-teaching]
-  event: ev-nbt-draupadi-prasada
+  event: ev-bhaktivinoda-vision-draupadi-prasada
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "128", to: "131"}
 
@@ -1561,7 +1561,7 @@
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
   themes: [celestial, teaching]
   teaching: [bhakti-supremacy]
-  event: ev-nbt-sayujya-shiva
+  event: ev-bhaktivinoda-vision-sayujya-shiva
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "135", to: "145"}
 
@@ -1579,7 +1579,7 @@
   authority: C
   notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Камала-манджари — сиддха-сварупа Бхактивиноды; Рупа-манджари — Рупа Госвами (НБТ 165); Ананга-манджари — Джахнава (НБТ 167)."
   themes: [krishna-lila, celestial]
-  event: ev-nbt-kamala-manjari
+  event: ev-bhaktivinoda-vision-kamala-manjari
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "146", to: "164"}
 

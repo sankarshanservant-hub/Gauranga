@@ -15,7 +15,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-suvarna-vihara
+  event: ev-nityananda-jiva-parikrama-suvarna-vihara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "2", to: "2"}
 
@@ -34,7 +34,7 @@
   notes: "Рассказ Нитьянанды Дживе."
   themes: [teaching, celestial]
   teaching: [bhakti-supremacy, maya, prema]
-  event: ev-nvm-narada-suvarna-sena
+  event: ev-narada-suvarna-sena
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "3", to: "20"}
 
@@ -49,10 +49,10 @@
   persons: ["@narada", "@suvarna-sena", "@buddhimanta-khan", "@mahaprabhu", "@gadadhara-pandita"]
   places: ["#suvarna-vihara", "#godrumadvipa"]
   kind: prophecy
-  authority: B
+  authority: C
   themes: [celestial, kirtan]
   teaching: [gaura-tattva, holy-name]
-  event: ev-nvm-narada-suvarna-sena
+  event: ev-narada-suvarna-sena
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "21", to: "27"}
 
@@ -67,10 +67,10 @@
   persons: ["@jiva-gosvami", "@srivasa", "@nityananda", "@mahaprabhu", "@advaita"]
   places: ["#suvarna-vihara", "#godrumadvipa"]
   kind: vision
-  authority: B
+  authority: C
   notes: "Шриваса — воплощение Нарады (7.28)."
   themes: [ecstasy, kirtan, revelation]
-  event: ev-nvm-parikrama-suvarna-vihara
+  event: ev-nityananda-jiva-parikrama-suvarna-vihara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "28", to: "31"}
 
@@ -87,7 +87,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage, deities, prasada]
-  event: ev-nvm-parikrama-deva-palli
+  event: ev-nityananda-jiva-parikrama-deva-palli
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "32", to: "33"}
 
@@ -102,9 +102,9 @@
   persons: ["@nrisimha", "@prahlada", "@hiranyakashipu", "@brahma", "@surya", "@ganesha", "@indra", "@vishvakarma"]
   places: ["#deva-palli", "#godrumadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [deities, celestial]
-  event: ev-nvm-nrisimha-rests-deva-palli
+  event: ev-nrisimha-rests-deva-palli
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "33", to: "37"}
 
@@ -119,9 +119,9 @@
   persons: ["@nityananda", "@jiva-gosvami", "@nrisimha"]
   places: ["#deva-palli", "#godrumadvipa"]
   kind: prophecy
-  authority: B
+  authority: C
   themes: [deities]
-  event: ev-nvm-prophecy-nrisimha-temple-deva-palli
+  event: ev-prophecy-nrisimha-temple-deva-palli
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "38", to: "39"}
 
@@ -139,7 +139,7 @@
   kind: lila
   authority: B
   themes: [ecstasy, kirtan, pilgrimage]
-  event: ev-nvm-parikrama-godruma
+  event: ev-nityananda-jiva-parikrama-godruma
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "4", to: "10"}
 
@@ -158,7 +158,7 @@
   notes: "8.14 — пророчество о Божестве у Харихара-кшетры."
   themes: [teaching, celestial]
   teaching: [holy-name, bhakti-supremacy]
-  event: ev-nvm-mahavaranasi-shiva-gaura-name
+  event: ev-mahavaranasi-shiva-gaura-name
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "11", to: "21"}
 
@@ -175,7 +175,7 @@
   kind: miracle
   authority: B
   themes: [celestial, mercy]
-  event: ev-nvm-shiva-parvati-bow-nityananda
+  event: ev-shiva-parvati-bow-nityananda
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "22", to: "24"}
 
@@ -192,7 +192,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-godruma
+  event: ev-nityananda-jiva-parikrama-godruma
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "25", to: "27"}
 
@@ -207,10 +207,10 @@
   persons: ["@indra", "@surabhi", "@krishna", "@mahaprabhu"]
   places: ["#godrumadvipa", "#gadigachha", "#gokula", "#govardhana"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial, revelation, offense]
   teaching: [holy-name, gaura-tattva]
-  event: ev-nvm-indra-surabhi-godruma
+  event: ev-indra-surabhi-godruma
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "28–29", to: "50"}
 
@@ -225,9 +225,9 @@
   persons: ["@markandeya", "@surabhi", "@shiva"]
   places: ["#godrumadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial, mercy]
-  event: ev-nvm-markandeya-surabhi
+  event: ev-markandeya-surabhi
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "51", to: "69"}
 
@@ -245,7 +245,7 @@
   authority: B
   themes: [teaching, celestial]
   teaching: [gaura-tattva, holy-name, bhakti-supremacy]
-  event: ev-nvm-markandeya-surabhi
+  event: ev-markandeya-surabhi
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "70", to: "92"}
 
@@ -262,7 +262,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-godruma
+  event: ev-nityananda-jiva-parikrama-godruma
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "93", to: "94"}
 
@@ -280,7 +280,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-madhyadvipa
+  event: ev-nityananda-jiva-parikrama-madhyadvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "2", to: "3"}
 
@@ -295,11 +295,11 @@
   persons: ["@seven-rishis", "@brahma", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
   places: ["#majida", "#saptarishi-tila", "#madhyadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   notes: "Сатья-юга. О составе семи риши — сноска 09-1 (по англ. изд. ШЧСМ). «Кумара-хатта» (9.17) — по контексту место у Маджиды; с Кумарахаттой (Халисахаром, #kumarahatta) не отождествлено."
   themes: [revelation, celestial]
   teaching: [holy-name, bhakti-supremacy]
-  event: ev-nvm-seven-rishis-majida
+  event: ev-seven-rishis-majida
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "3", to: "19"}
 
@@ -314,11 +314,11 @@
   persons: ["@shaunaka", "@suta-gosvami", "@mahaprabhu"]
   places: ["#naimisha-navadvipa", "#madhyadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   calendar: "картика (празднество чтения Пуран)"
   themes: [celestial]
   teaching: [scripture]
-  event: ev-nvm-naimisha-shaunaka-suta
+  event: ev-naimisha-shaunaka-suta
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "20", to: "22"}
 
@@ -333,9 +333,9 @@
   persons: ["@shiva", "@brahma", "@mahaprabhu"]
   places: ["#hamsa-vahana", "#naimisha-navadvipa", "#madhyadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial, kirtan]
-  event: ev-nvm-shiva-hamsa-naimisha
+  event: ev-shiva-hamsa-naimisha
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "23", to: "24"}
 
@@ -352,7 +352,7 @@
   kind: lila
   authority: B
   themes: [ecstasy, pilgrimage]
-  event: ev-nvm-parikrama-madhyadvipa
+  event: ev-nityananda-jiva-parikrama-madhyadvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "25", to: "26"}
 
@@ -370,7 +370,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-madhyadvipa
+  event: ev-nityananda-jiva-parikrama-madhyadvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "5", to: "7"}
 
@@ -385,10 +385,10 @@
   persons: ["@diva-dasa", "@pushkara-personified"]
   places: ["#brahmana-pushkara", "#madhyadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   notes: "Имя — Дива Дас; в 10.14 изд. 2001 г. — «Дживана дас» (опечатка/разночтение)."
   themes: [celestial, teaching]
-  event: ev-nvm-diva-dasa-pushkara
+  event: ev-diva-dasa-pushkara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "8", to: "24"}
 
@@ -403,10 +403,10 @@
   persons: ["@pushkara-personified", "@diva-dasa", "@mahaprabhu", "@shachi", "@radha", "@krishna"]
   places: ["#brahmana-pushkara", "#uchcha-hatta", "#mayapur", "#house-jagannatha-mishra"]
   kind: prophecy
-  authority: B
+  authority: C
   themes: [celestial, kirtan]
   teaching: [gaura-tattva, holy-name, prema]
-  event: ev-nvm-diva-dasa-pushkara
+  event: ev-diva-dasa-pushkara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "25", to: "39"}
 
@@ -421,9 +421,9 @@
   persons: ["@nityananda", "@jiva-gosvami", "@mahaprabhu"]
   places: ["#uchcha-hatta", "#madhyadvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial]
-  event: ev-nvm-devas-uchcha-hatta
+  event: ev-devas-uchcha-hatta
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "40", to: "46"}
 
@@ -441,7 +441,7 @@
   authority: B
   notes: "Стихи 47–50 в изд. 2001 г. отсутствуют; переведены по англ. изд. ШЧСМ 2015 г. (сноска 10-1)."
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-koladvipa
+  event: ev-nityananda-jiva-parikrama-koladvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "47", to: "50"}
 
@@ -476,7 +476,7 @@
   authority: B
   calendar: "экадаши"
   themes: [kirtan, pilgrimage]
-  event: ev-nvm-gaura-ekadashi-parikrama
+  event: ev-gaura-ekadashi-parikrama
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "54", to: "60"}
 
@@ -494,7 +494,7 @@
   authority: B
   notes: "Стихи 61–63 в изд. 2001 г. отсутствуют; переведены по англ. изд. ШЧСМ 2015 г. (сноска 10-2)."
   themes: [pilgrimage, teaching]
-  event: ev-nvm-parikrama-koladvipa
+  event: ev-nityananda-jiva-parikrama-koladvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "61", to: "67"}
 
@@ -512,7 +512,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-koladvipa
+  event: ev-nityananda-jiva-parikrama-koladvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "3", to: "11"}
 
@@ -527,10 +527,10 @@
   persons: ["@vasudeva-koladvipa", "@varaha", "@hiranyaksha", "@brahma", "@mahaprabhu"]
   places: ["#kulia", "#koladvipa", "#govardhana"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [revelation, deities]
   teaching: [gaura-tattva, scripture]
-  event: ev-nvm-varaha-vasudeva
+  event: ev-varaha-vasudeva
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "12", to: "38"}
 
@@ -547,7 +547,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage, krishna-lila]
-  event: ev-nvm-parikrama-koladvipa
+  event: ev-nityananda-jiva-parikrama-koladvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "39", to: "44"}
 
@@ -562,9 +562,9 @@
   persons: ["@samudra-sena", "@bhima-pandava", "@krishna", "@radha", "@mahaprabhu"]
   places: ["#samudragarh", "#koladvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [revelation, krishna-lila, separation]
-  event: ev-nvm-samudra-sena-bhima
+  event: ev-samudra-sena-bhima
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "45", to: "76"}
 
@@ -579,9 +579,9 @@
   persons: ["@ratnakara", "@ganga-devi", "@mahaprabhu"]
   places: ["#samudragarh", "#koladvipa", "#ganga"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial]
-  event: ev-nvm-ocean-ganga-samudragarh
+  event: ev-ocean-ganga-samudragarh
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "77", to: "83"}
 
@@ -599,7 +599,7 @@
   authority: B
   notes: "«Сын Валлабхи» — Джива (сын Анупамы-Валлабхи)."
   themes: [pilgrimage, krishna-lila]
-  event: ev-nvm-parikrama-champahatti
+  event: ev-nityananda-jiva-parikrama-champahatti
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "84", to: "90"}
 
@@ -614,11 +614,11 @@
   persons: ["@jayadeva", "@padmavati-jayadeva", "@lakshmana-sena", "@govardhana-acharya", "@krishna"]
   places: ["#prithu-kunda", "#champahatti", "#koladvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   date: "XII в."
   themes: [krishna-lila]
   teaching: [vaishnava]
-  event: ev-nvm-jayadeva-lakshmana-sena
+  event: ev-jayadeva-lakshmana-sena
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "91", to: "115"}
 
@@ -633,10 +633,10 @@
   persons: ["@mahaprabhu", "@jayadeva", "@padmavati-jayadeva", "@shachi", "@jagannatha-deity"]
   places: ["#champahatti", "#koladvipa", "#puri"]
   kind: pre-advent
-  authority: B
+  authority: C
   date: "XII в."
   themes: [revelation, separation, jagannatha]
-  event: ev-nvm-gaura-appears-jayadeva
+  event: ev-gaura-appears-jayadeva
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "116", to: "148"}
 
@@ -654,7 +654,7 @@
   authority: B
   notes: "Стих 154 в изд. 2001 г. отсутствует; переведён по англ. изд. ШЧСМ 2015 г. (сноска 11-1)."
   themes: [pilgrimage, ecstasy]
-  event: ev-nvm-parikrama-champahatti
+  event: ev-nityananda-jiva-parikrama-champahatti
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "149", to: "154"}
 
@@ -672,7 +672,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-ritudvipa
+  event: ev-nityananda-jiva-parikrama-ritudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "2", to: "5"}
 
@@ -690,7 +690,7 @@
   authority: B
   themes: [ecstasy, krishna-lila, separation]
   bhava: [balarama]
-  event: ev-nvm-nityananda-balarama-bhava-ritudvipa
+  event: ev-nityananda-balarama-bhava-ritudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "6", to: "12"}
 
@@ -708,7 +708,7 @@
   authority: B
   notes: "Упоминание. Стих 13 в изд. 2001 г. отсутствует; переведён по англ. изд. ШЧСМ 2015 г. (сноска 12-1)."
   themes: [kirtan, krishna-lila]
-  event: ev-nvm-gaura-kirtan-radha-kunda-ritudvipa
+  event: ev-gaura-kirtan-radha-kunda-ritudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "12", to: "15"}
 
@@ -725,7 +725,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage, kirtan]
-  event: ev-nvm-parikrama-ritudvipa
+  event: ev-nityananda-jiva-parikrama-ritudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "16", to: "17"}
 
@@ -741,9 +741,9 @@
   persons: ["@nityananda", "@jiva-gosvami", "@matsya"]
   places: ["#vidyanagara-bengal", "#ritudvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial]
-  event: ev-nvm-matsya-vedas-vidyanagara
+  event: ev-matsya-vedas-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "2", to: "6"}
 
@@ -758,9 +758,9 @@
   persons: ["@brahma", "@sarasvati-devi"]
   places: ["#vidyanagara-bengal", "#ritudvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial]
-  event: ev-nvm-brahma-sarasvati-vidyanagara
+  event: ev-brahma-sarasvati-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "7", to: "10"}
 
@@ -775,10 +775,10 @@
   persons: ["@valmiki", "@narada", "@dhanvantari", "@vishvamitra", "@shaunaka", "@shiva", "@brahma", "@kapila", "@gautama-rishi", "@kanada", "@patanjali", "@jaimini", "@vyasa"]
   places: ["#vidyanagara-bengal", "#ritudvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [learning]
   teaching: [maya, scripture]
-  event: ev-nvm-sciences-vidyanagara
+  event: ev-sciences-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "11", to: "23"}
 
@@ -793,10 +793,10 @@
   persons: ["@upanishads-personified", "@mahaprabhu"]
   places: ["#vidyanagara-bengal", "#ritudvipa"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [revelation, celestial]
   teaching: [vedanta, gaura-tattva]
-  event: ev-nvm-upanishads-vidyanagara
+  event: ev-upanishads-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "24", to: "28"}
 
@@ -814,7 +814,7 @@
   authority: B
   notes: "Отождествление Сарвабхаумы с Брихаспати — ср. ГГД (у Кави-карнапуры); то, что Сарвабхаума уходит из Надии ещё до рождения Господа, — по НДМ."
   themes: [learning]
-  event: ev-nvm-brihaspati-sarvabhauma-vidyanagara
+  event: ev-brihaspati-sarvabhauma-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "30–33", to: "38"}
 
@@ -832,7 +832,7 @@
   authority: B
   themes: [learning]
   bhava: [teacher]
-  event: ev-nvm-nimai-vidyanagara-debate
+  event: ev-nimai-vidyanagara-debate
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "39", to: "42"}
 
@@ -850,7 +850,7 @@
   authority: B
   themes: [teaching]
   teaching: [bhakti-supremacy, scripture]
-  event: ev-nvm-parikrama-vidyanagara
+  event: ev-nityananda-jiva-parikrama-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "43", to: "51"}
 
@@ -869,7 +869,7 @@
   notes: "Маха-майя и Праудха-майя здесь — служащая Господу энергия; Господь не подвластен майе."
   themes: [teaching, offense]
   teaching: [maya, vaishnava]
-  event: ev-nvm-parikrama-vidyanagara
+  event: ev-nityananda-jiva-parikrama-vidyanagara
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "52", to: "58"}
 
@@ -884,9 +884,9 @@
   persons: ["@nityananda", "@jiva-gosvami", "@mahaprabhu"]
   places: ["#vidyanagara-bengal", "#ritudvipa"]
   kind: prophecy
-  authority: B
+  authority: C
   themes: [teaching]
-  event: ev-nvm-nityananda-predicts-jiva-books
+  event: ev-nityananda-predicts-jiva-books
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "59", to: "60"}
 
@@ -903,7 +903,7 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-jahnudvipa
+  event: ev-nityananda-jiva-parikrama-jahnudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "61", to: "62"}
 
@@ -918,9 +918,9 @@
   persons: ["@jahnu", "@mahaprabhu", "@bhagiratha", "@ganga-devi"]
   places: ["#jannagar", "#jahnudvipa", "#ganga"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [celestial, revelation]
-  event: ev-nvm-jahnu-ganga
+  event: ev-jahnu-ganga
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "63", to: "69"}
 
@@ -935,10 +935,10 @@
   persons: ["@bhishma", "@jahnu", "@yudhishthira"]
   places: ["#jannagar", "#jahnudvipa", "#bhishma-tila"]
   kind: pre-advent
-  authority: B
+  authority: C
   themes: [teaching]
   teaching: [bhakti-supremacy, vaishnava]
-  event: ev-nvm-bhishma-jahnu
+  event: ev-bhishma-jahnu
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "70", to: "74"}
 
@@ -955,6 +955,6 @@
   kind: lila
   authority: B
   themes: [pilgrimage]
-  event: ev-nvm-parikrama-jahnudvipa
+  event: ev-nityananda-jiva-parikrama-jahnudvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "75", to: "76"}

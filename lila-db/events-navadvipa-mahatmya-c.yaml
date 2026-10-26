@@ -2,7 +2,7 @@
 # (гл. 19) Бхактивиноды Тхакура (исполнитель «c»; формат — README.md, как events.yaml). Новые события — в конец.
 
 # --- Рамка: обход Навадвипы Нитьянандой и Дживой (гл. 14–18) ---
-- id: ev-nvm-modadrumadvipa-parikrama
+- id: ev-nityananda-jiva-parikrama-modadrumadvipa
   title: "Обход Навадвипы: Модадрумадвипа (Мамгачхи) и ночлег в доме Нараяни"
   title_en: "Navadvipa parikrama: Modadrumadvipa (Mamgachhi) and the night at Narayani's house"
   period: P14
@@ -12,7 +12,7 @@
   themes: [pilgrimage, ecstasy]
   notes: "НДМ 14: Нитьянанда показывает Дживе место хижины Рамы и лес Бхандира; ночлег у Нараяни, матери Вриндавана даса."
 
-- id: ev-nvm-vaikunthapur-rudradvipa-parikrama
+- id: ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa
   title: "Обход Навадвипы: Вайкунтхапура, Махатпура, Рудрадвипа и Шри Пулина"
   title_en: "Navadvipa parikrama: Vaikunthapur, Mahatpur, Rudradvipa and Sri Pulina"
   period: P14
@@ -22,7 +22,7 @@
   themes: [pilgrimage, krishna-lila]
   notes: "НДМ 15: от Вайкунтхапуры мимо дома Валлабхи Ачарьи и дома Ананты к Махатпуре, затем Рудрадвипа, Параданга (раса-мандала, Дхира-самира); ночлег в Рудрадвипе."
 
-- id: ev-nvm-bilvapaksha-return-mayapur
+- id: ev-nityananda-jiva-parikrama-bilvapaksha
   title: "Обход Навадвипы: Билвапакша, Бхарадваджа-тила и возвращение в Майяпур"
   title_en: "Navadvipa parikrama: Bilvapaksha, Bharadvaja Tila and the return to Mayapur"
   period: P14
@@ -32,7 +32,7 @@
   themes: [pilgrimage, kirtan, prasada]
   notes: "НДМ 16: переправа через Гангу в Билвапакшу (Белпукурия), Рама-тиртха вдали, Бхарадваджа-тила; в Майяпуре встречает Ишана, Шачи угощает вайшнавов в доме Джаганнатхи Мишры."
 
-- id: ev-nvm-jiva-questions
+- id: ev-nityananda-jiva-questions
   title: "Вопросы Дживы Нитьянанде в доме Шривасы: Навадвипа и Вриндаван"
   title_en: "Jiva's questions to Nityananda at Srivasa's house: Navadvipa and Vrindavan"
   period: P14
@@ -42,7 +42,7 @@
   themes: [teaching]
   notes: "НДМ 17.3–18.35: зачем идти во Вриндаван, если он неотличен от Навадвипы; почему живущие в Навадвипе совершают оскорбления; покров майи над дхамой; Гаура и Радха-Кришна."
 
-- id: ev-nvm-jiva-departs-vrindavana
+- id: ev-jiva-departs-navadvipa-for-vrindavana
   title: "Джива прощается с преданными и Шачи и уходит во Вриндаван"
   title_en: "Jiva bids farewell to the devotees and Shachi and leaves for Vrindavan"
   period: P14
@@ -52,7 +52,7 @@
   themes: [separation, mercy, pilgrimage]
   notes: "НДМ 18.36–56: Нитьянанда кладёт стопы на голову Дживы; прощание во дворе Шривасы; благословение Шачи; Джива покидает дхаму. Ср. ev-jiva-comes-to-vrindavana."
 
-- id: ev-nvm-jiva-dream-mathura
+- id: ev-jiva-dream-mathura
   title: "Во сне Шри Чайтанья посылает Дживу в Матхуру к Рупе и Санатане"
   title_en: "In a dream Sri Chaitanya sends Jiva to Mathura, to Rupa and Sanatana"
   period: P14
@@ -169,7 +169,7 @@
   notes: "НДМ 15.109–125."
 
 # --- «Навадвипа-бхава-таранга» (гл. 19): видения Бхактивиноды (1899) и лилы, известные только по ней ---
-- id: ev-nbt-dhama-darshana
+- id: ev-bhaktivinoda-vision-dhama-darshana
   title: "«Навадвипа-бхава-таранга»: Бхактивинода молит о видении Навадвипа-дхамы и созерцает её места"
   title_en: "Navadvipa-bhava-taranga: Bhaktivinoda prays for and beholds the holy places of Navadvipa-dhama"
   period: PX
@@ -180,7 +180,7 @@
   themes: [pilgrimage, celestial]
   notes: "НБТ — поэма-обход девяти островов в видениях автора; общее событие для описательных частей и молитв; отдельные видения и лилы — свои события."
 
-- id: ev-nbt-nrisimha-blessing
+- id: ev-bhaktivinoda-vision-nrisimha-blessing
   title: "Бхактивинода молит Нрисимху в Нрисимха-палли об очищении сердца"
   title_en: "Bhaktivinoda prays to Nrisimha at Nrisimha Palli for a purified heart"
   period: PX
@@ -231,7 +231,7 @@
   themes: [kirtan, ecstasy]
   notes: "НБТ 77."
 
-- id: ev-nbt-krishna-balarama-calves
+- id: ev-bhaktivinoda-vision-krishna-balarama-calves
   title: "Видение у Манаса-ганги: Кришна и Баларама с пастушками ищут телят"
   title_en: "Vision at Manasa Ganga: Krishna and Balarama with the cowherd boys search for the calves"
   period: PX
@@ -242,7 +242,7 @@
   themes: [krishna-lila, celestial]
   notes: "НБТ 82–84: близ Радха-кунды Ритудвипы; при звуке флейты Кришны телята бегут к пастушкам; видение исчезает, автор без чувств."
 
-- id: ev-nbt-bhishma-instruction
+- id: ev-bhaktivinoda-vision-bhishma-instruction
   title: "Бхишма является Бхактивиноде на Бхишма-тиле и наставляет его"
   title_en: "Bhishma appears to Bhaktivinoda at Bhishma Tila and instructs him"
   period: PX
@@ -254,7 +254,7 @@
   teaching: [vaishnava, holy-name, maya]
   notes: "НБТ 96–109: Бхишма рассказывает, как на Курукшетре Кришна открыл ему, что за даршан Навадвипы он стал её вечным жителем; учит жить в Навадвипе, служить преданным, повторять имя и поклоняться Радхе-Кришне."
 
-- id: ev-nbt-rama-lakshmana-fruit
+- id: ev-bhaktivinoda-vision-rama-lakshmana-fruit
   title: "Видение Рамы в Модадруме: Лакшмана угощает Бхактивиноду плодом"
   title_en: "Vision of Rama in Modadruma: Lakshmana offers Bhaktivinoda a fruit"
   period: PX
@@ -266,7 +266,7 @@
   bhava: [rama]
   notes: "НБТ 109–116: хижина Рамы в лесу, неотличном от Бхандираваны; ср. ev-rama-modadrumadvipa."
 
-- id: ev-nbt-surya-arka-tila
+- id: ev-bhaktivinoda-vision-surya-arka-tila
   title: "Сурья на Арка-тиле благословляет Бхактивиноду"
   title_en: "Surya blesses Bhaktivinoda at Arka Tila"
   period: PX
@@ -277,7 +277,7 @@
   themes: [celestial]
   notes: "НБТ 120–123: полубоги, правящие миром, служат стопам Гауранги."
 
-- id: ev-nbt-draupadi-prasada
+- id: ev-bhaktivinoda-vision-draupadi-prasada
   title: "Драупади угощает Бхактивиноду прасадом Гауранги в Махатпуре"
   title_en: "Draupadi feeds Bhaktivinoda Gauranga's prasada in Mahatpur"
   period: PX
@@ -289,7 +289,7 @@
   teaching: [prasada-teaching]
   notes: "НБТ 128–131."
 
-- id: ev-nbt-sayujya-shiva
+- id: ev-bhaktivinoda-vision-sayujya-shiva
   title: "Богиня Сайюджья в Рудрадвипе и наставление Шивы Бхактивиноде"
   title_en: "The goddess Sayujya in Rudradvipa and Shiva's instruction to Bhaktivinoda"
   period: PX
@@ -301,7 +301,7 @@
   teaching: [bhakti-supremacy]
   notes: "НБТ 135–146: олицетворённое слияние (сайюджья-мукти) покинуто всеми — место «Нирдая» (Нидая); Шива, танцуя с именем Гауры, учит: бхакти — главное, гьяна, карма, мукти и йога бесполезны."
 
-- id: ev-nbt-kamala-manjari
+- id: ev-bhaktivinoda-vision-kamala-manjari
   title: "На Шри Пулине Бхактивинода видит себя Камала-манджари в служении Радхе и Говинде"
   title_en: "At Sri Pulina Bhaktivinoda sees himself as Kamala Manjari in the service of Radha and Govinda"
   period: PX

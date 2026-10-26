@@ -18,6 +18,7 @@
 ## Кришна решает Сам прийти и дать миру любовь Враджа / Krishna resolves to come Himself and give the world the love of Vraja  `ev-krishna-resolves-to-give-vraja-prema`
 
 - cc (A): Ади 3.5–28 — [5–28](../chaitanya-charitamrita/ed/vcd/CC_Adi03.md?plain=1#L65-L315) · `cc-0032`
+- navadvipa-mahatmya (B): Гл. 2, 46–59 — [46–59](../navadvipa-dhama-mahatmya/ru/02.md?plain=1#L87-L111) · `nvm-02-003`
 
 ## Кришна решает явиться в облике Радхи, чтобы вкусить Её любовь / Krishna resolves to appear in Radha's form to taste Her love  `ev-krishna-resolves-advent-radha-bhava`
 
@@ -130,9 +131,187 @@
 
 ## Брахма похищает телят и по слову Кришны рождается Харидасом / Brahma steals the calves and, by Krishna's word, is born as Haridasa  `ev-brahma-steals-calves-haridasa`
 
+- navadvipa-mahatmya (B): Гл. 5, 123–157 — [123–157](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L239-L307) · `nvm-05-014`
 - advaita-prakasha (D): Гл. 7, 1–72 — [1. Слава, слав–72. Сто раз пр](../advaita-prakash/07.md?plain=1#L5-L76) · `apr-0022`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (854–855) — [854–855](../prema-vilasa/ru/25.md?plain=1#L2634-L2637) · `pvl-0222`
 - prema-vilasa (C): Виласа 24, 290–320 — [290–320](../prema-vilasa/ru/24.md?plain=1#L874-L964) · `pvl-0257`
+
+## Царь Притху находит сияющую землю Навадвипы и устраивает Притху-кунду / King Prithu finds the effulgent land of Navadvipa and digs Prithu-kunda  `ev-prithu-kunda-origin`
+
+- navadvipa-mahatmya (C): Гл. 6, 23–38 — [23–38](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L45-L73) · `nvm-06-004`
+
+## Шива пляшет, воспевая имя Гауры; Парвати в Симантадвипе: Гаура является ей, пыль Его стоп на её проборе / Shiva dances chanting Gaura's name; Parvati at Simantadvipa: Gaura appears to her, the dust of His feet on her parting  `ev-parvati-simantadvipa`
+
+- navadvipa-mahatmya (C): Гл. 6, 39–76 — [39–76](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L75-L149) · `nvm-06-005`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 24 — [24–24](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L49-L49) · `nvm-19-006`
+
+## Бхагиратха ведёт Гангу; Ганга медлит в Навадвипе до Гаура-пурнимы — основание Ганга-нагара / Bhagiratha leads the Ganga; she lingers in Navadvipa until Gaura-purnima — the founding of Ganga-nagara  `ev-bhagiratha-ganga-nagara`
+
+- navadvipa-mahatmya (C): Гл. 6, 5–20 — [5–20](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L11-L39) · `nvm-06-002`
+
+## Баларама в паломничестве убивает Майясуру — Майямари / Balarama on pilgrimage kills Mayasura — Mayamari  `ev-balarama-kills-mayasura`
+
+- navadvipa-mahatmya (C): Гл. 6, 115–121 — [115–121](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L221-L231) · `nvm-06-012`
+
+## Аскеза Ганги ради игр Кришны в её водах; Кришна обещает играть в ней как Гаура / Ganga's austerity to have Krishna play in her waters; Krishna promises to play in her as Gaura  `ev-ganga-austerity-gaura-promise`
+
+- navadvipa-mahatmya (C): Гл. 5, 99–101 — [99–101](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L195-L199) · `nvm-05-011`
+
+## Джаганнатха с шабарами укрывается от Рактабаху в Шараданге / Jagannatha with the Shabaras takes shelter from Raktabahu at Saradanga  `ev-jagannatha-shabaras-saradanga`
+
+- navadvipa-mahatmya (C): Гл. 6, 92–96 — [92–96](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L179-L187) · `nvm-06-007`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 22–23 — [22–23](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L45-L47) · `nvm-19-005`
+
+## Вишвакарма за одну ночь устраивает шестьдесят прудов для будущей санкиртаны Господа / Vishvakarma digs sixty ponds in one night for the Lord's future sankirtana  `ev-vishvakarma-sixty-ponds`
+
+- navadvipa-mahatmya (C): Гл. 6, 107–112 — [107–112](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L209-L215) · `nvm-06-010`
+
+## Нарада наставляет царя Суварну Сена; предсказание о Буддхиманте Хане / Narada instructs King Suvarna Sena; the prophecy of Buddhimanta Khan  `ev-narada-suvarna-sena`
+
+- navadvipa-mahatmya (B): Гл. 7, 3–20 — [3–20](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L7-L41) · `nvm-07-002`
+- navadvipa-mahatmya (C): Гл. 7, 21–27 — [21–27](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L43-L55) · `nvm-07-003`
+
+## Нрисимха отдыхает в Дева-палли; полубоги основывают селение / Nrisimha rests at Deva Palli; the demigods found the village  `ev-nrisimha-rests-deva-palli`
+
+- navadvipa-mahatmya (C): Гл. 7, 33–37 — [33–37](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L67-L75) · `nvm-07-006`
+
+## Индра и Сурабхи поклоняются Гауре в Годруме / Indra and Surabhi worship Gaura at Godruma  `ev-indra-surabhi-godruma`
+
+- navadvipa-mahatmya (C): Гл. 8, 28–50 — [28–29–50](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L53-L93) · `nvm-08-005`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 41–43 — [41–43](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L83-L87) · `nvm-19-013`
+
+## Сурабхи спасает Маркандейю от потопа и наставляет его поклоняться Гауре / Surabhi saves Markandeya from the deluge and instructs him to worship Gaura  `ev-markandeya-surabhi`
+
+- navadvipa-mahatmya (C): Гл. 8, 51–69 — [51–69](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L95-L131) · `nvm-08-006`
+- navadvipa-mahatmya (B): Гл. 8, 70–92 — [70–92](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L133-L177) · `nvm-08-007`
+
+## Семь риши в Маджиде: Гаура является им как Панча-таттва / The seven sages at Majida: Gaura appears to them as the Pancha-tattva  `ev-seven-rishis-majida`
+
+- navadvipa-mahatmya (C): Гл. 9, 3–19 — [3–19](../navadvipa-dhama-mahatmya/ru/09.md?plain=1#L7-L39) · `nvm-09-002`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 51 — [51–51](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L103-L103) · `nvm-19-015`
+
+## Шаунака и риши слушают о Гауре от Суты в Наймише Навадвипы / Shaunaka and the sages hear of Gaura from Suta in the Naimisha of Navadvipa  `ev-naimisha-shaunaka-suta`
+
+- navadvipa-mahatmya (C): Гл. 9, 20–22 — [20–22](../navadvipa-dhama-mahatmya/ru/09.md?plain=1#L41-L45) · `nvm-09-003`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 52–54 — [52–54](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L105-L109) · `nvm-19-016`
+
+## Шива на лебеде Брахмы прибывает в Наймишу и поёт хвалу Гауре / Shiva arrives at Naimisha on Brahma's swan and sings Gaura's glories  `ev-shiva-hamsa-naimisha`
+
+- navadvipa-mahatmya (C): Гл. 9, 23–24 — [23–24](../navadvipa-dhama-mahatmya/ru/09.md?plain=1#L47-L49) · `nvm-09-004`
+
+## Брахман Дива Дас и олицетворённая Пушкара / The brahmana Diva Dasa and Pushkara personified  `ev-diva-dasa-pushkara`
+
+- navadvipa-mahatmya (C): Гл. 10, 8–24 — [8–24](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L17-L49) · `nvm-10-002`
+- navadvipa-mahatmya (C): Гл. 10, 25–39 — [25–39](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L51-L79) · `nvm-10-003`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 55 — [55–55](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L111-L111) · `nvm-19-017`
+
+## Полубоги приносят Курукшетру в Учча-хатту и обсуждают там игры Гауры / The demigods bring Kurukshetra to Uchcha Hatta and discuss Gaura's pastimes there  `ev-devas-uchcha-hatta`
+
+- navadvipa-mahatmya (C): Гл. 10, 40–46 — [40–46](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L81-L93) · `nvm-10-004`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 56 — [56–56](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L113-L113) · `nvm-19-018`
+
+## Вараха является брахману Васудеве в Коладвипе / Varaha appears to the brahmana Vasudeva at Koladvipa  `ev-varaha-vasudeva`
+
+- navadvipa-mahatmya (C): Гл. 11, 12–38 — [12–38](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L25-L73) · `nvm-11-002`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 65 — [65–65](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L131-L131) · `nvm-19-021`
+
+## Царь Самудра Сен и Бхима: Самудра Сен видит Кришну и Гауру / King Samudra Sena and Bhima: Samudra Sena beholds Krishna and Gaura  `ev-samudra-sena-bhima`
+
+- navadvipa-mahatmya (C): Гл. 11, 45–76 — [45–76](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L87-L147) · `nvm-11-004`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 72–73 — [72–73](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L145-L147) · `nvm-19-023`
+
+## Океан ищет прибежища у Ганги и остаётся в Навадвипе служить Гауре / The ocean takes shelter of the Ganga and stays in Navadvipa to serve Gaura  `ev-ocean-ganga-samudragarh`
+
+- navadvipa-mahatmya (C): Гл. 11, 77–83 — [77–83](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L149-L161) · `nvm-11-005`
+
+## Джаядева и царь Лакшман Сен; переселение Джаядевы в Чампахати / Jayadeva and King Lakshmana Sena; Jayadeva moves to Champahatti  `ev-jayadeva-lakshmana-sena`
+
+- navadvipa-mahatmya (C): Гл. 11, 91–115 — [91–115](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L177-L225) · `nvm-11-007`
+
+## Гаура является Джаядеве и Падмавати и посылает их в Пури / Gaura appears to Jayadeva and Padmavati and sends them to Puri  `ev-gaura-appears-jayadeva`
+
+- navadvipa-mahatmya (C): Гл. 11, 116–148 — [116–148](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L227-L291) · `nvm-11-008`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 76 — [76–76](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L153-L153) · `nvm-19-025`
+
+## Навадвипа-лотос в потопе; Матсья приносит Веды в Видьянагару / The lotus of Navadvipa in the deluge; Matsya brings the Vedas to Vidyanagara  `ev-matsya-vedas-vidyanagara`
+
+- navadvipa-mahatmya (C): Гл. 13, 2–6 — [2–6](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L5-L13) · `nvm-13-001`
+
+## Брахма в Видьянагаре: из его уст является Сарасвати / Brahma at Vidyanagara: Sarasvati appears from his mouth  `ev-brahma-sarasvati-vidyanagara`
+
+- navadvipa-mahatmya (C): Гл. 13, 7–10 — [7–10](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L15-L21) · `nvm-13-002`
+
+## Все отрасли знания в Видьянагаре: «Рамаяна», аюрведа, Веды, даршаны, Пураны, Панчаратра / All branches of knowledge at Vidyanagara: the Ramayana, Ayurveda, the Vedas, the darshanas, the Puranas, the Pancharatra  `ev-sciences-vidyanagara`
+
+- navadvipa-mahatmya (C): Гл. 13, 11–23 — [11–23](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L23-L45) · `nvm-13-003`
+
+## Олицетворённые Упанишады поклоняются Гауре в Видьянагаре / The personified Upanishads worship Gaura at Vidyanagara  `ev-upanishads-vidyanagara`
+
+- navadvipa-mahatmya (C): Гл. 13, 24–28 — [24–28](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L47-L53) · `nvm-13-004`
+
+## Джахну Муни выпивает Гангу; Бхагиратха; Гаура посещает Джахну / Jahnu Muni drinks the Ganga; Bhagiratha; Gaura visits Jahnu  `ev-jahnu-ganga`
+
+- navadvipa-mahatmya (C): Гл. 13, 63–69 — [63–69](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L117-L129) · `nvm-13-011`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 94–95 — [94–95](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L189-L191) · `nvm-19-031`
+
+## Бхишма постигает чистую преданность у Джахну Муни / Bhishma learns pure devotion from Jahnu Muni  `ev-bhishma-jahnu`
+
+- navadvipa-mahatmya (C): Гл. 13, 70–74 — [70–74](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L131-L139) · `nvm-13-012`
+
+## Одиннадцать Рудр и Шива воспевают Гауру в Рудрадвипе / The eleven Rudras and Shiva sing Gaura's glories in Rudradvipa  `ev-rudras-rudradvipa`
+
+- navadvipa-mahatmya (C): Гл. 15, 106–108 — [106–108](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L207-L211) · `nvm-15-012`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 132–134 — [132–134](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L265-L269) · `nvm-19-038`
+
+## Рама, Сита и Лакшмана в Модадрумадвипе: Рама открывает Сите тайну явления Гауры / Rama, Sita and Lakshmana in Modadrumadvipa: Rama reveals to Sita the secret of Gaura's advent  `ev-rama-modadrumadvipa`
+
+- navadvipa-mahatmya (C): Гл. 14, 3–32 — [3–4–32](../navadvipa-dhama-mahatmya/ru/14.md?plain=1#L7-L63) · `nvm-14-002`
+
+## Нарада в Вайкунтхапуре видит Нараяну как Шри Чайтанью / Narada in Vaikunthapur sees Narayana as Sri Chaitanya  `ev-narada-vaikunthapur-gaura`
+
+- navadvipa-mahatmya (C): Гл. 15, 7–8 — [7–8](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L15-L17) · `nvm-15-002`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 117–119 — [117–119](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L235-L239) · `nvm-19-034`
+
+## Бхарадваджа Муни поклоняется Гауре в Бхарадваджа-тиле / Bharadvaja Muni worships Gaura at Bharadvaja Tila  `ev-bharadvaja-tila`
+
+- navadvipa-mahatmya (C): Гл. 16, 63–69 — [63–69](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L119-L131) · `nvm-16-009`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 21 — [21–21](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L43-L43) · `nvm-19-004`
+
+## Баларама убивает Коласуру и омывается в Ганге с Ядавами (Рама-тиртха) / Balarama slays Kolasura and bathes in the Ganga with the Yadus (Rama Tirtha)  `ev-balarama-kolasura`
+
+- navadvipa-mahatmya (C): Гл. 16, 59–61 — [59–60–61](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L113-L115) · `nvm-16-007`
+
+## Пандавы в Махатпуре: сон Юдхиштхиры о Навадвипе и Гауре / The Pandavas in Mahatpur: Yudhishthira's dream of Navadvipa and Gaura  `ev-pandavas-mahatpur`
+
+- navadvipa-mahatmya (C): Гл. 15, 64–70 — [64–70](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L127-L139) · `nvm-15-007`
+- navadvipa-mahatmya (C): Гл. 15, 71–79 — [71–79](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L141-L157) · `nvm-15-008`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 124–127 — [124–127](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L249-L255) · `nvm-19-036`
+
+## Шанкарачарья в Рудрадвипе: Гаура велит не проповедовать майявады в Навадвипе / Shankaracharya in Rudradvipa: Gaura forbids preaching Mayavada in Navadvipa  `ev-shankaracharya-rudradvipa`
+
+- navadvipa-mahatmya (C): Гл. 15, 94–105 — [94–105](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L185-L205) · `nvm-15-011`
+
+## Нимбарка в Билвапакше: посвящение у четырёх Кумаров и видение Радхи-Кришны в облике Гауры / Nimbarka in Bilvapaksha: initiation from the four Kumaras and the vision of Radha-Krishna as Gaura  `ev-nimbarka-bilvapaksha`
+
+- navadvipa-mahatmya (C): Гл. 16, 7–13 — [7–8–13](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L15-L25) · `nvm-16-002`
+- navadvipa-mahatmya (C): Гл. 16, 13–34 — [13–34](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L25-L63) · `nvm-16-003`
+- navadvipa-mahatmya (C): Гл. 16, 35–41 — [35–41](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L65-L77) · `nvm-16-004`
+- navadvipa-mahatmya (C): Гл. 16, 51–58 — [51–58](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L97-L111) · `nvm-16-006`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 25 — [25–25](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L51-L51) · `nvm-19-007`
+
+## Рамануджа по велению Джаганнатхи приходит в Навадвипу и видит Гауру в Вайкунтхапуре / At Jagannatha's command Ramanuja comes to Navadvipa and sees Gaura in Vaikunthapur  `ev-ramanuja-navadvipa`
+
+- navadvipa-mahatmya (C): Гл. 15, 9–41 — [9–41](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L19-L83) · `nvm-15-003`
+- navadvipa-mahatmya (C): Гл. 15, 41–55 — [41–55](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L83-L109) · `nvm-15-004`
+
+## Мадхва в Махатпуре: Шри Чайтанья во сне обещает принять посвящение в его линии / Madhva in Mahatpur: in a dream Sri Chaitanya promises to accept initiation in his line  `ev-madhva-mahatpur-dream`
+
+- navadvipa-mahatmya (C): Гл. 15, 80–89 — [80–89](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L159-L175) · `nvm-15-009`
+
+## Вишнусвами в Рудрадвипе: Шива дарует Рудра-сампрадаю, Гаура во сне предрекает рождение Валлабхой Бхаттой / Vishnusvami in Rudradvipa: Shiva grants the Rudra-sampradaya; in a dream Gaura foretells his birth as Vallabha Bhatta  `ev-vishnusvami-rudradvipa`
+
+- navadvipa-mahatmya (C): Гл. 15, 109–119 — [109–119](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L213-L233) · `nvm-15-013`
+- navadvipa-mahatmya (C): Гл. 15, 120–125 — [120–125](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L235-L245) · `nvm-15-014`
 
 ## Шива, побеждённый Сударшаной за Каширадждой, получает от Кришны Экамра-вану / Shiva, defeated by Sudarshana for siding with the King of Kashi, receives Ekamra-vana from Krishna  `ev-shiva-receives-ekamra-kashiraja`
 
@@ -361,6 +540,7 @@
 - cc (A): Ади 4.269–270 — [269–270](../chaitanya-charitamrita/ed/vcd/CC_Adi04.md?plain=1#L2889-L2899) · `cc-0053`
 - cc (A): Ади 13.63–71 — [63–71](../chaitanya-charitamrita/ed/vcd/CC_Adi13.md?plain=1#L637-L717) · `cc-0190`
 - gaura-krishnodaya (B): Сарга 1, 51–57 — [51–57](../gaura-krishnodaya/ru/01.md?plain=1#L115-L127) · `gkd-0006`
+- navadvipa-mahatmya (B): Гл. 5, 62–64 — [62–64](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L121-L125) · `nvm-05-006`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (867–868) — [867–868](../prema-vilasa/ru/25.md?plain=1#L2673-L2676) · `pvl-0224`
 - prema-vilasa (C): Виласа 24, 369–374 — [369–374](../prema-vilasa/ru/24.md?plain=1#L1111-L1126) · `pvl-0260`
 - vaishnava-vandana (B): Вандана Дживы, 31 — [31–31](../vaishnava-vandana/ru/01.md?plain=1#L73-L73) · `vv-0004`
@@ -416,6 +596,11 @@
 ## Гонения владыки Гауды на брахманов Навадвипы и восстановление Надии / The Gauda king persecutes the brahmanas of Navadvipa, and Nadia is restored  `ev-gauda-king-persecutes-navadvipa`
 
 - jayananda-cm (C): Надия-кханда, разд. 4, 17–51 (фрагм. 4); статья Н. Васу 1897 — [3:17–51](../jayananda/ru/01-fragments.md?plain=1#L259-L361); [> Вдруг в Навадвипе настал страх перед ц–> Джаянанда в блаженстве слагает Надия-к](../jayananda/ru/02-vasu-1897.md?plain=1#L430-L537) · `jcm-0016`
+
+## Брихаспати рождается Сарвабхаумой; его школа в Видьянагаре и уход в Пури до явления Господа / Brihaspati takes birth as Sarvabhauma; his school at Vidyanagara and departure for Puri before the Lord's advent  `ev-brihaspati-sarvabhauma-vidyanagara`
+
+- navadvipa-mahatmya (B): Гл. 13, 29–38 — [30–33–38](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L57-L67) · `nvm-13-005`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 85–88 — [85–88](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L171-L177) · `nvm-19-029`
 
 ## Явление Нитьянанды в Экачакре / Nityananda's appearance at Ekachakra  `ev-nityananda-birth`
 
@@ -573,6 +758,10 @@
 ## Первый выход младенца: Шачи с женщинами чтит Гангу и Шаштхи / The infant's first outing: Shachi and the women worship Ganga and Shashthi  `ev-nishkramana-ganga` (1486–1486, возраст 0–0, )
 
 - cb (A): Ади 4, 18–22 — [18–22](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L97-L117) · `cb-0032`
+
+## Садананда Випра видит новорождённого Гауру как Раму / Sadananda Vipra sees the newborn Gaura as Rama  `ev-sadananda-vipra-rama-vision` (1486–1487, возраст 0–1, оценка)
+
+- navadvipa-mahatmya (C): Гл. 14, 33–44 — [33–44](../navadvipa-dhama-mahatmya/ru/14.md?plain=1#L65-L87) · `nvm-14-004`
 
 ## Младенец плачет и затихает, услышав имя Хари / The Infant cries and is stilled on hearing the name of Hari  `ev-crying-stops-at-holy-name` (1486–1487, возраст 0–1, оценка)
 
@@ -811,6 +1000,7 @@
 ## Проказы Нимая на гхатах Ганги и жалобы Джаганнатхе Мишре / Nimai's pranks on the ghats of the Ganga and the complaints to Jagannatha Mishra  `ev-ganga-ghat-pranks` (1491–1496, возраст 5–10, оценка)
 
 - cb (A): Ади 6, 42–139 — [42–139](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L208-L690) · `cb-0048`
+- navadvipa-mahatmya (B): Гл. 5, 97–98 — [97–98](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L191-L193) · `nvm-05-010`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 75 (2.2, № 39) «নিমাইচাঁদের এ চরিত কত কব গো» = «Гаура-чарита-чинтамани», гл. 6, пада 14 — [28.1–28.4](../padas/ru/19.md?plain=1#L746-L755) · `pad-0417`
 
 ## Первое пострижение и прокалывание ушей / First tonsure and ear-piercing  `ev-chudakarana-karnavedha` (1491–1496, возраст 5–10, оценка)
@@ -907,8 +1097,10 @@
 - karnapura-ckm (A): Сарга 3, 1–4 — [1–4](../karnapura-mahakavya/ru/03.md?plain=1#L31-L100) · `kcm-0022`
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 697–710 — [697–710](../lochana/ru/17.md?plain=1#L7-L46) · `lcm-0066`
 - murari-kcc (A): Пракрама 1, сарга 9, шлоки 1–4 — [1–4](../murari-gupta/ru/1.09.md?plain=1#L5-L11) · `mkc-0034`
+- navadvipa-mahatmya (B): Гл. 6, 21–22 — [21–22](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L41-L43) · `nvm-06-003`
 - cb (A): Ади 8, 40–71 — [40–71](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L207-L362) · `cb-0058`
 - cb (A): Ади 8, 183–207 — [183–207](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L916-L1036) · `cb-0063`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 19–20 — [19–20](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L39-L41) · `nvm-19-003`
 
 ## Двадцатилетнее паломничество Нитьянанды по святым местам Индии / Nityananda's twenty-year pilgrimage to the holy places of India  `ev-nityananda-pilgrimage` (1486–1508, возраст 0–22, )
 
@@ -999,6 +1191,7 @@
 - karnapura-ckm (A): Сарга 3, 40–74 — [40–74](../karnapura-mahakavya/ru/03.md?plain=1#L880-L1636) · `kcm-0025`
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 1–33 — [1–33](../lochana/ru/18.md?plain=1#L11-L111) · `lcm-0070`
 - murari-kcc (A): Пракрама 1, сарга 9, шлоки 34–38; сарга 10, шлоки 1–2 — [34–38](../murari-gupta/ru/1.09.md?plain=1#L71-L79); [1–2](../murari-gupta/ru/1.10.md?plain=1#L5-L7) · `mkc-0038`
+- navadvipa-mahatmya (B): Гл. 15, 56 — [56–56](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L111-L111) · `nvm-15-005`
 - vaishnava-vandana (B): Вандана Дживы, 53–55 — [53–55](../vaishnava-vandana/ru/01.md?plain=1#L119-L123) · `vv-0007`
 - vaishnava-vandana (B): Девакинандана, 40 — [40–40](../vaishnava-vandana/ru/02.md?plain=1#L141-L141) · `vv-0037`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 83 (2.3, № 11) «কি আনন্দ নদীয়া-নগরে নিমাইর বিবাহকথা» = БР 12 (изд. 1912, с. 788; изд. 1960, ст. ≈1245–1252) — [18.1–18.8](../padas/ru/20.md?plain=1#L448-L462) · `pad-0435`
@@ -1068,6 +1261,10 @@
 - cb (A): Ади 11, 18–51 — [18–51](../chaitanya-bhagavata/ed/CB_Adi11.md?plain=1#L91-L253) · `cb-0081`
 - cb (A): Ади 12, 1–28 — [1–28](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L12-L148) · `cb-0085`
 
+## Нимай-пандит побеждает в споре учеников Сарвабхаумы в Видьянагаре / Nimai Pandita defeats Sarvabhauma's disciples in debate at Vidyanagara  `ev-nimai-vidyanagara-debate` (1496–1508, возраст 10–22, оценка)
+
+- navadvipa-mahatmya (B): Гл. 13, 39–42 — [39–42](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L69-L75) · `nvm-13-006`
+
 ## Ишвара Пури в Навадвипе: встречи с Адвайтой и Нимаем / Ishvara Puri in Navadvipa: meetings with Advaita and Nimai  `ev-ishvara-puri-navadvipa` (1496–1508, возраст 10–22, оценка)
 
 - advaita-prakasha (D): Гл. 13, 1–18 — [1. Слава, слав–18. Несколько д](../advaita-prakash/13.md?plain=1#L5-L22) · `apr-0061`
@@ -1099,6 +1296,7 @@
 
 ## Победа над дигвиджайи Кешавой Кашмири / Victory over the digvijayi Keshava Kashmiri  `ev-keshava-kashmiri-defeat` (1496–1508, возраст 10–22, оценка)
 
+- navadvipa-mahatmya (C): Гл. 16, 42–50 — [42–50](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L79-L95) · `nvm-16-005`
 - gaura-krishnodaya (B): Сарга 5, 11–27 — [11–27](../gaura-krishnodaya/ru/05.md?plain=1#L27-L61) · `gkd-0042`
 - bhaktamal (D): Приядас, кавитты 333–336 (к чхаппаю 75 о Кешаве Бхатте; изд. 1914, с. 90–91); § 4.2 — [333–336](../vallabha/ru/04.md?plain=1#L64-L87) · `bkm-0010`
 - bhakti-ratnakara (B): Таранга 2, 227–253 — [227–253](../bhakti-ratnakara/ru/02.md?plain=1#L683-L761) · `brt-0050`
@@ -1832,6 +2030,7 @@
 
 - cb (A): Мадхья 21, 1–28 — [1–28](../chaitanya-bhagavata/ed/CB_Madhya21.md?plain=1#L12-L144) · `cb-2033`
 - cb (A): Мадхья 21, 53–82 — [53–82](../chaitanya-bhagavata/ed/CB_Madhya21.md?plain=1#L269-L384) · `cb-2035`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 89–93 — [89–93](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L179-L187) · `nvm-19-030`
 
 ## Махапракаша: абхишека Господа в доме Шривасы / The mahaprakasha: the Lord's abhisheka in Shrivasa's house  `ev-mahaprakasha-abhisheka` (1509–1510, возраст 23–24, оценка)
 
@@ -1980,12 +2179,14 @@
 
 ## Ночное шествие с киртаном по Навадвипе и усмирение Кази / The night kirtana procession through Navadvipa and the subduing of the Kazi  `ev-nagara-kirtana-kazi` (1509–1510, возраст 23–24, оценка)
 
+- navadvipa-mahatmya (B): Гл. 10, 51–53 — [51–52–53](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L103-L105) · `nvm-10-006`
 - cb (A): Мадхья 23, 60–92 — [60–92](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L283-L443) · `cb-2045`
 - cb (A): Мадхья 23, 93–117 — [93–113](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L448-L548) · `cb-2046`
 - bhakti-ratnakara (B): Таранга 2, 296–318 — [296–318](../bhakti-ratnakara/ru/02.md?plain=1#L890-L956) · `brt-0053`
 - cb (A): Мадхья 23, 118–155 — [118–155](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L567-L746) · `cb-2047`
 - cc (A): Ади 17.121–138 — [121–138](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L1233-L1403) · `cc-0271`
 - gaura-krishnodaya (B): Сарга 5, 40–45 — [40–45](../gaura-krishnodaya/ru/05.md?plain=1#L89-L99) · `gkd-0050`
+- navadvipa-mahatmya (B): Гл. 6, 77–91 — [77–91](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L151-L177) · `nvm-06-006`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 269 (№ 68) «আজু গোরা নগরকীর্তনে» = БР 12 (изд. 1912, с. 927; изд. 1960, ст. 3104–3111) — [6.1–6.8](../padas/ru/18.md?plain=1#L162-L183) · `pad-0365`
 - cb (A): Мадхья 23, 156–240 — [156–240](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L751-L1168) · `cb-2048`
 - cb (A): Мадхья 23, 241–298 — [243–298](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L1180-L1495) · `cb-2049`
@@ -1996,6 +2197,16 @@
 - cc (A): Ади 17.175–215 — [175–215](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L1777-L2171) · `cc-0274`
 - cc (A): Ади 17.216–226 — [216–226](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2181-L2281) · `cc-0275`
 - cb (A): Мадхья 23, 495–516 — [495–516](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L2449-L2554) · `cb-2053`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 30 — [30–30](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L61-L61) · `nvm-19-009`
+
+## Обходы девяти островов Господом с санкиртаной в дни экадаши / The Lord's sankirtana circuits of the nine islands on Ekadashi days  `ev-gaura-ekadashi-parikrama` (1509–1510, возраст 23–24, оценка)
+
+- navadvipa-mahatmya (B): Гл. 10, 54–60 — [54–60](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L107-L119) · `nvm-10-007`
+
+## Послеполуденный киртан Гауры у Радха-кунды в Ритудвипе / Gaura's afternoon kirtana at Radha Kunda in Ritudvipa  `ev-gaura-kirtan-radha-kunda-ritudvipa` (1509–1510, возраст 23–24, оценка)
+
+- navadvipa-mahatmya (B): Гл. 12, 12–15 — [12–15](../navadvipa-dhama-mahatmya/ru/12.md?plain=1#L25-L31) · `nvm-12-003`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 79–81 — [79–81](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L159-L163) · `nvm-19-027`
 
 ## Нищий брахман Ванамали с сыном видит в Гауре Кришну / The poor brahmana Vanamali and his son see Krishna in Gaura  `ev-vanamali-brahmana-vision` (1509–1510, возраст 23–24, оценка)
 
@@ -2010,7 +2221,10 @@
 - cb (A): Мадхья 23, 428–494 — [428–494](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L2136-L2444) · `cb-2052`
 - cc (A): Ади 10.67–68 — [67–68](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L683-L693) · `cc-0129`
 - cc (A): Ади 17.70 — [70–70](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L715-L715) · `cc-0260`
+- navadvipa-mahatmya (B): Гл. 6, 97–99 — [97–99](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L189-L193) · `nvm-06-008`
+- navadvipa-mahatmya (B): Гл. 6, 113–114 — [113–114](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L217-L219) · `nvm-06-011`
 - cb (A): Мадхья 9, 189–248 — [189–248](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L937-L1232) · `cb-1067`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 31–32 — [31–32](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L63-L65) · `nvm-19-010`
 
 ## Бхава Нрисимхи в доме Шривасы / The Nrisimha mood at Shrivasa's house  `ev-nrisimha-bhava-shrivasa` (1509–1510, возраст 23–24, оценка)
 
@@ -2520,6 +2734,7 @@
 
 ## Господь являет расу танца раса на берегу Ганги (Навадвипа) / The Lord reveals the rasa of the rasa dance on the Ganga bank (Navadvipa)  `ev-rasa-lila-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- navadvipa-mahatmya (B): Гл. 15, 130–132 — [130–132](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L255-L259) · `nvm-15-016`
 - padas (A): Васу Гхош, ПК 1253 = БР (с. 941) «বৃন্দাবন-লীলা গোরার মনেতে পড়িল» — [8.1–8.5](../padas/ru/05.md?plain=1#L257-L269) · `pad-0086`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 334 (5.1, № 43) «সরস সুরধুনী-পুলিন-বন» = БР 12 (изд. 1912, с. 941; изд. 1960, ст. 3297–3300) — [21.1–21.4](../padas/ru/18.md?plain=1#L627-L636) · `pad-0380`
 - padas (A): Наянананда, ПК 1495 «মধু-ঋতু-যামিনি সুরধুনি-তীর» — [22.1–22.5](../padas/ru/10.md?plain=1#L751-L763) · `pad-0205`
@@ -2539,6 +2754,18 @@
 - padas (A): Васу Гхош, ПК 1425 = БР (с. 942–943) «দেখ দেখ ঋতু-রাজ বসন্ত সময়» — [9.1–9.5](../padas/ru/05.md?plain=1#L290-L302) · `pad-0087`
 - padas (A): Наянананда, ПК 1449 = ГПТ1 с. 343 (№ 70) «কো কহুঁ আজুক আনন্দ-ওর» — [23.1–23.4](../padas/ru/10.md?plain=1#L779-L788) · `pad-0201`
 - padas (C): Кришнадас, ГПТ1 с. 340 (№ 60) «ফাগু খেলত গোরা গদাধর সঙ্গে» — [17.1–17.5](../padas/ru/14.md?plain=1#L461-L473) · `pad-0302`
+
+## Полуденные странствия Гауры по лесам Мадхьядвипы и киртан у Брахма-кунды / Gaura's midday wanderings in the forests of Madhyadvipa and the kirtan at Brahma Kunda  `ev-gaura-madhyadvipa-midday-kirtan` (1509–1510, возраст 23–24, оценка)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 57–61 — [57–61](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L115-L123) · `nvm-19-019`
+
+## Гауранга со спутниками омывается в Панчавени / Gauranga and His associates bathe at Panchaveni  `ev-gaura-panchaveni-bath` (1509–1510, возраст 23–24, оценка)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 62–64 — [62–64](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L125-L129) · `nvm-19-020`
+
+## Праздник нама-санкиртаны Господа в доме Ванинатхи в Чампахати / The Lord's nama-sankirtana festival at Vaninatha's house in Champahatti  `ev-gaura-sankirtana-vaninatha-house` (1509–1510, возраст 23–24, оценка)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 77–78 — [77–78](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L155-L157) · `nvm-19-026`
 
 ## Действо в доме Чандрашекхары / The drama at Chandrashekhara's house  `ev-chandrashekhara-drama` (1509–1510, возраст 23–24, оценка)
 
@@ -4063,6 +4290,7 @@
 - cb (A): Антья 5, 707–717 — [707–717](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L3490-L3540) · `cb-3088`
 - cb (A): Антья 6, 1–7 — [1–7](../chaitanya-bhagavata/ed/CB_Antya06.md?plain=1#L12-L42) · `cb-3090`
 - murari-kcc (A): Пракрама 4, сарга 23, шлоки 19–25 — [19–25](../murari-gupta/ru/4.23.md?plain=1#L41-L53) · `mkc-0251`
+- navadvipa-mahatmya (B): Гл. 1, 22–38 — [22–38](../navadvipa-dhama-mahatmya/ru/01.md?plain=1#L43-L73) · `nvm-01-003`
 
 ## Гададхара Дас заставляет кази произносить имя Хари / Gadadhara Dasa makes the Kazi chant the name of Hari  `ev-gadadhara-dasa-kazi-hari` (1512–1514, возраст 26–28, оценка)
 
@@ -4333,6 +4561,7 @@
 - karnapura-ckm (A): Сарга 20, 26–30 — [26–30](../karnapura-mahakavya/ru/20.md?plain=1#L591-L677) · `kcm-0174`
 - murari-kcc (A): Пракрама 3, сарга 17, шлоки 14–16 — [14–16](../murari-gupta/ru/3.17.md?plain=1#L31-L35) · `mkc-0186`
 - cb (A): Антья 3, 285–342 — [285–342](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1392-L1677) · `cb-3049`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 66–71 — [66–71](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L133-L143) · `nvm-19-022`
 
 ## Кулия: прощение Гопалы Чапалы / Kuliya: Gopala Chapala forgiven  `ev-gopala-chapala-forgiven` (1514–1516, возраст 28–30, оценка)
 
@@ -4378,6 +4607,7 @@
 - jayananda-cm (C): Виджая-кханда: «Дабир Кхас уходят в Нилачалу» (цитаты) — [77:1–77:1](../jayananda/ru/05-quotes.md?plain=1#L1306-L1306) · `jcm-0094`
 - murari-kcc (A): Пракрама 3, сарга 18, шлоки 1–11 — [1–11](../murari-gupta/ru/3.18.md?plain=1#L5-L25) · `mkc-0188`
 - narottama-vilasa (B): Виласа 1, 119–145 — [119–145](../narottama-vilasa/ru/01.md?plain=1#L364-L442) · `nvl-0007`
+- navadvipa-mahatmya (B): Гл. 4, 38–47 — [38–47](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L75-L89) · `nvm-04-003`
 - prema-vilasa (D): Виласа 23, 81–91 — [81–91](../prema-vilasa/ru/23.md?plain=1#L245-L275) · `pvl-0195`
 - cc (A): Мадхья 1.219–226 — [219–226](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2260-L2330) · `cc-0345`
 
@@ -4830,6 +5060,7 @@
 
 ## Господь оставляет Вишнуприи Своё Божество / The Lord leaves His Deity with Vishnupriya  `ev-vishnupriya-deity` (1514–1516, возраст 28–30, оценка)
 
+- navadvipa-mahatmya (C): Гл. 14, 24–27 — [24–27](../navadvipa-dhama-mahatmya/ru/14.md?plain=1#L47-L53) · `nvm-14-003`
 - murari-kcc (A): Пракрама 4, сарга 14, шлока 8 — [8–8](../murari-gupta/ru/4.14.md?plain=1#L19-L19) · `mkc-0227`
 
 ## Божества Гауры и Нитьянанды в доме Гауридаса Пандита / The Deities of Gaura and Nityananda in Gauridasa Pandita's house  `ev-gauridasa-deities` (1514–1516, возраст 28–30, оценка)
@@ -5253,6 +5484,152 @@
 - vallabha-varta (D): Нидж-варта, варта-прасанг 22; § 1.2 — [2:1–1:9](../vallabha/ru/01.md?plain=1#L38-L66) · `vlb-0002`
 - vallabha-varta (D): Аштасакха ки варта, варта 4 (Кришнадас Адхикари), прасанг 2; § 1.13 — [13:1–1:23](../vallabha/ru/01.md?plain=1#L495-L597) · `vlb-0014`
 
+## Нитьянанда предрекает «Говинда-бхашью»: Гопинатха Ачарья родится Баладевой Видьябхушаной / Nityananda foretells the Govinda-bhashya: Gopinatha Acharya will be born as Baladeva Vidyabhushana  `ev-govinda-bhashya-prophecy` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 4, 61–66 — [61–66](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L113-L123) · `nvm-04-005`
+
+## Нитьянанда открывает Дживе тайну Навадвипа-дхамы: аударья и мадхурья / Nityananda reveals to Jiva the secret of Navadvipa-dhama: audarya and madhurya  `ev-nityananda-reveals-dhama-jiva` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 4, 73–95 — [73–95](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L135-L177) · `nvm-04-007`
+- navadvipa-mahatmya (B): Гл. 5, 1–17 — [1–17](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L3-L33) · `nvm-05-001`
+
+## Нитьянанда ведёт Дживу по Майяпуру: дома Господа, Шривасы, Адвайты, Гададхары, гхаты Ганги / Nityananda leads Jiva around Mayapur: the houses of the Lord, Srivasa, Advaita and Gadadhara, the Ganga ghats  `ev-nityananda-jiva-parikrama-mayapur` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 5, 18–26 — [18–26](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L35-L51) · `nvm-05-002`
+- navadvipa-mahatmya (B): Гл. 5, 39–49 — [39–49](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L77-L97) · `nvm-05-004`
+- navadvipa-mahatmya (B): Гл. 5, 65–67 — [65–67](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L127-L131) · `nvm-05-007`
+- navadvipa-mahatmya (B): Гл. 5, 102–110 — [102–110](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L201-L217) · `nvm-05-012`
+
+## Нитьянанда и Джива принимают прасад у Шачи; Вишнуприя готовит, Вамшивадана предлагает Божеству Господа / Nityananda and Jiva take prasada at Shachi's; Vishnupriya cooks, Vamshivadana offers to the Lord's Deity  `ev-jiva-shachi-prasada-mayapur` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 5, 27–38 — [27–38](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L53-L75) · `nvm-05-003`
+
+## Видение Дживы в Шривас-ангане: киртан Господа со спутниками / Jiva's vision at Srivasa-angana: the Lord's kirtan with His associates  `ev-jiva-vision-kirtan-srivasa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 5, 50–61 — [50–61](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L99-L119) · `nvm-05-005`
+
+## Пророчество Нитьянанды: Майяпур скроется под Гангой и вновь явится; удивительный храм; приметы утраченных мест / Nityananda's prophecy: Mayapur will be hidden by the Ganga and reappear; a wonderful temple; the signs of the lost sites  `ev-prophecy-mayapur-reappearance` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 5, 68–75 — [68–75](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L133-L147) · `nvm-05-008`
+- navadvipa-mahatmya (C): Гл. 5, 111–122 — [111–122](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L219-L237) · `nvm-05-013`
+
+## Пророчество Нитьянанды: Божество Гауры, которому служила Вишнуприя, явится в Сат-Тике (Параданге) / Nityananda's prophecy: the Deity of Gaura served by Vishnupriya will appear at Sat Tika (Paradanga)  `ev-prophecy-vishnupriya-deity-paradanga` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 5, 76–96 — [76–96](../navadvipa-dhama-mahatmya/ru/05.md?plain=1#L149-L189) · `nvm-05-009`
+
+## Нитьянанда ведёт Дживу по Симантадвипе; ночлег у Шридхары в Вишрама-стхане / Nityananda leads Jiva through Simantadvipa; night at Shridhara's at Vishrama-sthana  `ev-nityananda-jiva-parikrama-simantadvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 6, 1–4 — [1–4](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L3-L9) · `nvm-06-001`
+- navadvipa-mahatmya (B): Гл. 6, 100–106, 122 — [100–106](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L195-L207); [122–123](../navadvipa-dhama-mahatmya/ru/06.md?plain=1#L233-L235) · `nvm-06-009`
+
+## Нитьянанда приводит Дживу в Суварна-бихар; Джива видит киртан Гауры / Nityananda brings Jiva to Suvarna Vihara; Jiva beholds Gaura's kirtana  `ev-nityananda-jiva-parikrama-suvarna-vihara` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 7, 2 — [2–2](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L5-L5) · `nvm-07-001`
+- navadvipa-mahatmya (C): Гл. 7, 28–31 — [28–31](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L57-L63) · `nvm-07-004`
+
+## Отдых в Дева-палли у Нрисимхадевы / Rest at Deva Palli with Nrisimhadeva  `ev-nityananda-jiva-parikrama-deva-palli` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 7, 32–33 — [32–33](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L65-L67) · `nvm-07-005`
+
+## Пророчество о новом храме Нрисимхи в Дева-палли / Prophecy of a new temple of Nrisimha at Deva Palli  `ev-prophecy-nrisimha-temple-deva-palli` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 7, 38–39 — [38–39](../navadvipa-dhama-mahatmya/ru/07.md?plain=1#L77-L79) · `nvm-07-007`
+
+## Нитьянанда с Дживой в Годрумадвипе: Алакананда, Маха-Варанаси, Гадигачха / Nityananda and Jiva in Godrumadvipa: the Alakananda, Mahavaranasi, Gadigachha  `ev-nityananda-jiva-parikrama-godruma` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 8, 4–10 — [4–10](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L9-L21) · `nvm-08-001`
+- navadvipa-mahatmya (B): Гл. 8, 25–27 — [25–27](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L47-L51) · `nvm-08-004`
+- navadvipa-mahatmya (B): Гл. 8, 93–94 — [93–94](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L179-L181) · `nvm-08-008`
+
+## Маха-Варанаси: Шива поёт имя Гауры и даёт его умирающим / Mahavaranasi: Shiva chants Gaura's name and gives it to the dying  `ev-mahavaranasi-shiva-gaura-name` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 8, 11–21 — [11–21](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L23-L39) · `nvm-08-002`
+
+## Шива и Парвати незримо кланяются Нитьянанде в Маха-Варанаси / Shiva and Parvati invisibly bow to Nityananda at Mahavaranasi  `ev-shiva-parvati-bow-nityananda` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 8, 22–24 — [22–24](../navadvipa-dhama-mahatmya/ru/08.md?plain=1#L41-L45) · `nvm-08-003`
+
+## Нитьянанда с Дживой в Мадхьядвипе: Маджида, Наймиша, Брахмана-пушкара, Учча-хатта / Nityananda and Jiva in Madhyadvipa: Majida, Naimisha, Brahmana Pushkara, Uchcha Hatta  `ev-nityananda-jiva-parikrama-madhyadvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 9, 2–3 — [2–3](../navadvipa-dhama-mahatmya/ru/09.md?plain=1#L5-L7) · `nvm-09-001`
+- navadvipa-mahatmya (B): Гл. 9, 25–26 — [25–26](../navadvipa-dhama-mahatmya/ru/09.md?plain=1#L51-L53) · `nvm-09-005`
+- navadvipa-mahatmya (B): Гл. 10, 5–7 — [5–7](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L11-L15) · `nvm-10-001`
+
+## Переправа в Коладвипу: Кулия-пахада и Самудрагадха; о пути обхода дхамы / Crossing to Koladvipa: Kuliya Pahara and Samudragarh; on the route of the parikrama  `ev-nityananda-jiva-parikrama-koladvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 10, 47–50 — [47–50](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L95-L101) · `nvm-10-005`
+- navadvipa-mahatmya (B): Гл. 10, 61–67 — [61–67](../navadvipa-dhama-mahatmya/ru/10.md?plain=1#L121-L133) · `nvm-10-008`
+- navadvipa-mahatmya (B): Гл. 11, 3–11 — [3–11](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L7-L23) · `nvm-11-001`
+- navadvipa-mahatmya (B): Гл. 11, 39–44 — [39–44](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L75-L85) · `nvm-11-003`
+
+## Чампахати: отдых и ночлег в доме Ванинатхи; место Джаядевы / Champahatti: rest and night in Vaninatha's house; Jayadeva's site  `ev-nityananda-jiva-parikrama-champahatti` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 11, 84–90 — [84–90](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L163-L175) · `nvm-11-006`
+- navadvipa-mahatmya (B): Гл. 11, 149–154 — [149–154](../navadvipa-dhama-mahatmya/ru/11.md?plain=1#L293-L303) · `nvm-11-009`
+
+## Нитьянанда с Дживой в Ритудвипе: Ратупур, Радха-кунда, ночлег / Nityananda and Jiva in Ritudvipa: Ratupur, Radha Kunda, the night  `ev-nityananda-jiva-parikrama-ritudvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 12, 2–5 — [2–5](../navadvipa-dhama-mahatmya/ru/12.md?plain=1#L5-L11) · `nvm-12-001`
+- navadvipa-mahatmya (B): Гл. 12, 16–17 — [16–17](../navadvipa-dhama-mahatmya/ru/12.md?plain=1#L33-L35) · `nvm-12-004`
+
+## Нитьянанда в бхаве Баларамы зовёт Кришну и друзей-пастушков в Ритудвипе / Nityananda in the mood of Balarama calls for Krishna and the cowherd boys in Ritudvipa  `ev-nityananda-balarama-bhava-ritudvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 12, 6–12 — [6–12](../navadvipa-dhama-mahatmya/ru/12.md?plain=1#L13-L25) · `nvm-12-002`
+
+## Видьянагара: Нитьянанда разрешает сомнение Дживы о логике и говорит о Праудха-майе / Vidyanagara: Nityananda resolves Jiva's doubt about logic and speaks of Praudha-maya  `ev-nityananda-jiva-parikrama-vidyanagara` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 13, 43–51 — [43–51](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L77-L93) · `nvm-13-007`
+- navadvipa-mahatmya (B): Гл. 13, 52–58 — [52–58](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L95-L107) · `nvm-13-008`
+
+## Нитьянанда предрекает Дживе, что тот изложит эти истины в писаниях / Nityananda foretells that Jiva will reveal these truths in scriptures  `ev-nityananda-predicts-jiva-books` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 13, 59–60 — [59–60](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L109-L111) · `nvm-13-009`
+
+## Джахнудвипа: ночлег в доме преданного и уход к Модадрумадвипе / Jahnudvipa: the night in a devotee's house and departure for Modadrumadvipa  `ev-nityananda-jiva-parikrama-jahnudvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 13, 61–62 — [61–62](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L113-L115) · `nvm-13-010`
+- navadvipa-mahatmya (B): Гл. 13, 75–76 — [75–76](../navadvipa-dhama-mahatmya/ru/13.md?plain=1#L141-L143) · `nvm-13-013`
+
+## Обход Навадвипы: Модадрумадвипа (Мамгачхи) и ночлег в доме Нараяни / Navadvipa parikrama: Modadrumadvipa (Mamgachhi) and the night at Narayani's house  `ev-nityananda-jiva-parikrama-modadrumadvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 14, 2 — [2–2](../navadvipa-dhama-mahatmya/ru/14.md?plain=1#L5-L5) · `nvm-14-001`
+- navadvipa-mahatmya (B): Гл. 14, 45–50 — [45–50](../navadvipa-dhama-mahatmya/ru/14.md?plain=1#L89-L99) · `nvm-14-005`
+
+## Обход Навадвипы: Вайкунтхапура, Махатпура, Рудрадвипа и Шри Пулина / Navadvipa parikrama: Vaikunthapur, Mahatpur, Rudradvipa and Sri Pulina  `ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 15, 2–6 — [2–6](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L5-L13) · `nvm-15-001`
+- navadvipa-mahatmya (B): Гл. 15, 57–63 — [57–63](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L113-L125) · `nvm-15-006`
+- navadvipa-mahatmya (B): Гл. 15, 90–93 — [90–93](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L177-L183) · `nvm-15-010`
+- navadvipa-mahatmya (B): Гл. 15, 126–129 — [126–129](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L247-L253) · `nvm-15-015`
+- navadvipa-mahatmya (B): Гл. 15, 133–139 — [133–139](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L261-L273) · `nvm-15-017`
+- navadvipa-mahatmya (B): Гл. 15, 140 — [140–140](../navadvipa-dhama-mahatmya/ru/15.md?plain=1#L275-L275) · `nvm-15-018`
+
+## Обход Навадвипы: Билвапакша, Бхарадваджа-тила и возвращение в Майяпур / Navadvipa parikrama: Bilvapaksha, Bharadvaja Tila and the return to Mayapur  `ev-nityananda-jiva-parikrama-bilvapaksha` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 16, 4–6 — [4–6](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L9-L13) · `nvm-16-001`
+- navadvipa-mahatmya (B): Гл. 16, 62 — [62–62](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L117-L117) · `nvm-16-008`
+- navadvipa-mahatmya (B): Гл. 16, 70–74 — [70–74](../navadvipa-dhama-mahatmya/ru/16.md?plain=1#L133-L139) · `nvm-16-010`
+
+## Вопросы Дживы Нитьянанде в доме Шривасы: Навадвипа и Вриндаван / Jiva's questions to Nityananda at Srivasa's house: Navadvipa and Vrindavan  `ev-nityananda-jiva-questions` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 17, 3–10 — [3–10](../navadvipa-dhama-mahatmya/ru/17.md?plain=1#L7-L21) · `nvm-17-001`
+- navadvipa-mahatmya (B): Гл. 17, 11–27 — [11–27](../navadvipa-dhama-mahatmya/ru/17.md?plain=1#L23-L53) · `nvm-17-002`
+- navadvipa-mahatmya (B): Гл. 17, 28–33 — [28–33](../navadvipa-dhama-mahatmya/ru/17.md?plain=1#L55-L65) · `nvm-17-003`
+- navadvipa-mahatmya (B): Гл. 17, 34–38 — [34–38](../navadvipa-dhama-mahatmya/ru/17.md?plain=1#L67-L75) · `nvm-17-004`
+- navadvipa-mahatmya (B): Гл. 18, 3–19 — [3–19](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L7-L37) · `nvm-18-001`
+- navadvipa-mahatmya (B): Гл. 18, 20–28 — [20–28](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L39-L55) · `nvm-18-002`
+- navadvipa-mahatmya (B): Гл. 18, 29–35 — [29–35](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L57-L67) · `nvm-18-003`
+
+## Джива прощается с преданными и Шачи и уходит во Вриндаван / Jiva bids farewell to the devotees and Shachi and leaves for Vrindavan  `ev-jiva-departs-navadvipa-for-vrindavana` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (B): Гл. 18, 36–42 — [36–42](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L69-L81) · `nvm-18-004`
+- navadvipa-mahatmya (B): Гл. 18, 43–52 — [43–52](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L83-L99) · `nvm-18-005`
+- navadvipa-mahatmya (B): Гл. 18, 53–56 — [53–56](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L101-L107) · `nvm-18-006`
+
+## Во сне Шри Чайтанья посылает Дживу в Матхуру к Рупе и Санатане / In a dream Sri Chaitanya sends Jiva to Mathura, to Rupa and Sanatana  `ev-jiva-dream-mathura` (1516–1533, возраст 30–47, оценка)
+
+- navadvipa-mahatmya (C): Гл. 18, 57–60 — [57–60](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L109-L115) · `nvm-18-007`
+
 ## Существа всех миров приходят на даршан; Господь упрекает преданных за киртан о Нём; шутка Шриваса / Beings of all the worlds come for darśana; the Lord rebukes the devotees for singing of Him; Śrīvāsa's jest  `ev-worlds-pilgrims-srivasa-praise` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Мадхья 1.267–282 — [267–282](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L2737-L2887) · `cc-0365`
@@ -5625,6 +6002,10 @@
 
 ## Джива в Навадвипе: встреча с Нитьянандой в доме Шриваса / Jiva in Navadvipa: meeting Nityananda in Srivasa's house  `ev-jiva-meets-nityananda-navadvipa` (1533–1534, возраст 47–48, оценка)
 
+- navadvipa-mahatmya (B): Гл. 4, 1–14 — [1–14](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L3-L27) · `nvm-04-001`
+- navadvipa-mahatmya (B): Гл. 4, 15–37 — [15–37](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L29-L73) · `nvm-04-002`
+- navadvipa-mahatmya (B): Гл. 4, 48–60 — [48–60](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L91-L111) · `nvm-04-004`
+- navadvipa-mahatmya (B): Гл. 4, 67–72 — [67–72](../navadvipa-dhama-mahatmya/ru/04.md?plain=1#L125-L133) · `nvm-04-006`
 - bhakti-ratnakara (B): Таранга 1, 739–774 — [739–774](../bhakti-ratnakara/ru/01.md?plain=1#L2245-L2350) · `brt-0039`
 - cc (A): Антья 4.232–235 — [232–235](../chaitanya-charitamrita/vcd/txt/CC_Antya04.txt?plain=1#L2572-L2605) · `cc-4051`
 
@@ -5633,6 +6014,7 @@
 - bhakti-ratnakara (B): Таранга 1, 684–738 — [684–738](../bhakti-ratnakara/ru/01.md?plain=1#L2080-L2242) · `brt-0038`
 - bhakti-ratnakara (B): Таранга 1, 775–780 — [775–780](../bhakti-ratnakara/ru/01.md?plain=1#L2353-L2368) · `brt-0040`
 - gaura-krishnodaya (C): Сарга 17, 5–10 — [5–10](../gaura-krishnodaya/ru/17.md?plain=1#L15-L25) · `gkd-0164`
+- navadvipa-mahatmya (B): Гл. 18, 60–62 — [60–62](../navadvipa-dhama-mahatmya/ru/18.md?plain=1#L115-L119) · `nvm-18-008`
 - prema-vilasa (D): Виласа 23, 150–170 — [150–170](../prema-vilasa/ru/23.md?plain=1#L455-L515) · `pvl-0198`
 
 ## Рагхунатха Дас после ухода Сварупы приходит во Вриндаван; Рупа и Санатана удерживают его от смерти; подвижничество у Радха-кунды / After Svarupa’s departure Raghunatha Dasa comes to Vrindavana; Rupa and Sanatana keep him from ending his life; his austerities at Radha-kunda  `ev-raghunatha-dasa-radha-kunda` (1534–1534, возраст 48–48, оценка)
@@ -6507,6 +6889,7 @@
 
 ## Свидетельства шастр о сокровенном нисшествии Гауранги / Scriptural evidence of Gauranga's hidden descent  `ev-tattva-gaura-scripture-proofs`
 
+- navadvipa-mahatmya (B): Гл. 1, 12–21 — [12–21](../navadvipa-dhama-mahatmya/ru/01.md?plain=1#L25-L41) · `nvm-01-002`
 - nityananda-vamsha (C): Глава 6, 54–79 — [54–79](../nityananda-vamsha/ru/06.md?plain=1#L181-L271) · `nvv-0044`
 - padas (A): Нарахари (Саркар), ПК 2259 «রসে তনু ঢর ঢর গৌরকিশোর বর» — [26.1–26.4](../padas/ru/01.md?plain=1#L739-L754) · `pad-0026`
 - cb (A): Ади 2, 7–27 — [7–27](../chaitanya-bhagavata/ed/CB_Adi02.md?plain=1#L42-L143) · `cb-0012`
@@ -6656,6 +7039,7 @@
 
 ## Имя Кришны учитывает оскорбления, а имена Чайтаньи и Нитьянанды дают прему без этого / Krishna's name takes offenses into account, but the names of Chaitanya and Nityananda give prema regardless  `ev-tattva-gaura-nitai-names-prema`
 
+- navadvipa-mahatmya (B): Гл. 1, 39–52 — [39–52](../navadvipa-dhama-mahatmya/ru/01.md?plain=1#L75-L101) · `nvm-01-004`
 - cc (A): Ади 8.22–32 — [22–32](../chaitanya-charitamrita/ed/vcd/CC_Adi08.md?plain=1#L239-L342) · `cc-0094`
 
 ## Древо желаний бхакти: Шри Чайтанья — садовник и ствол, Его спутники — корни и ветви, према — плод / The wish-fulfilling tree of bhakti: Sri Chaitanya is the gardener and the trunk, His associates the roots and branches, prema the fruit  `ev-tattva-bhakti-kalpataru`
@@ -6698,7 +7082,65 @@
 
 - anuragavalli (C): Манджари 8, 11–30 — [11–30](../anuragavalli/ru/08.md?plain=1#L41-L105) · `anv-0051`
 
+## Величие Навадвипа-дхамы: очищает даже оскорбителей, дарует прему / The glory of Navadvipa-dhama: it purifies even offenders and bestows prema  `ev-navadvipa-dhama-glory`
+
+- navadvipa-mahatmya (B): Гл. 1, 53–74 — [53–74](../navadvipa-dhama-mahatmya/ru/01.md?plain=1#L103-L145) · `nvm-01-005`
+- navadvipa-mahatmya (B): Гл. 2, 25–45 — [25–45](../navadvipa-dhama-mahatmya/ru/02.md?plain=1#L49-L85) · `nvm-02-002`
+
+## Природа Навадвипа-дхамы: Гауда-мандала — лотос, девять островов, дхама из сандхини-шакти / The nature of Navadvipa-dhama: Gauda-mandala as a lotus, the nine islands, the dhama made of sandhini-shakti  `ev-navadvipa-dhama-nature`
+
+- navadvipa-mahatmya (B): Гл. 2, 1–24 — [1–24](../navadvipa-dhama-mahatmya/ru/02.md?plain=1#L3-L47) · `nvm-02-001`
+- navadvipa-mahatmya (B): Гл. 3, 1–23 — [1–22–23](../navadvipa-dhama-mahatmya/ru/03.md?plain=1#L3-L45) · `nvm-03-001`
+
+## Порядок обхода девяти островов Навадвипы и лучшее время для него / The order of the circumambulation of Navadvipa's nine islands and the best time for it  `ev-navadvipa-parikrama-order`
+
+- navadvipa-mahatmya (B): Гл. 3, 24–41 — [24–41](../navadvipa-dhama-mahatmya/ru/03.md?plain=1#L47-L79) · `nvm-03-002`
+
 ## Нарада и охотник Мригари / Narada and the hunter Mrigari  `ev-narada-mrigari-hunter`
 
 - cc (A): Мадхья 24.223–276 — [223–276](../chaitanya-charitamrita/ed/vcd/CC_Madhya24.md?plain=1#L1983-L2402) · `cc-3109`
+
+## «Навадвипа-бхава-таранга»: Бхактивинода молит о видении Навадвипа-дхамы и созерцает её места / Navadvipa-bhava-taranga: Bhaktivinoda prays for and beholds the holy places of Navadvipa-dhama  `ev-bhaktivinoda-vision-dhama-darshana` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 1–7 — [1–7](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L3-L15) · `nvm-19-001`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 8–18 — [8–18](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L17-L37) · `nvm-19-002`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 26–29 — [26–29](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L53-L59) · `nvm-19-008`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 33–34 — [33–34](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L67-L69) · `nvm-19-011`
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 74–75 — [74–75](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L149-L151) · `nvm-19-024`
+
+## Бхактивинода молит Нрисимху в Нрисимха-палли об очищении сердца / Bhaktivinoda prays to Nrisimha at Nrisimha Palli for a purified heart  `ev-bhaktivinoda-vision-nrisimha-blessing` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 35–40 — [35–40](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L71-L81) · `nvm-19-012`
+
+## Гаура и Нитай пасут коров с пастушками в Годруме / Gaura and Nitai herd cows with the cowherd boys in Godruma  `ev-gaura-cowherds-godruma`
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 44–50 — [44–50](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L89-L101) · `nvm-19-014`
+
+## Видение у Манаса-ганги: Кришна и Баларама с пастушками ищут телят / Vision at Manasa Ganga: Krishna and Balarama with the cowherd boys search for the calves  `ev-bhaktivinoda-vision-krishna-balarama-calves` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 82–84 — [82–84](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L165-L169) · `nvm-19-028`
+
+## Бхишма является Бхактивиноде на Бхишма-тиле и наставляет его / Bhishma appears to Bhaktivinoda at Bhishma Tila and instructs him  `ev-bhaktivinoda-vision-bhishma-instruction` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 96–109 — [96–109](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L193-L219) · `nvm-19-032`
+
+## Видение Рамы в Модадруме: Лакшмана угощает Бхактивиноду плодом / Vision of Rama in Modadruma: Lakshmana offers Bhaktivinoda a fruit  `ev-bhaktivinoda-vision-rama-lakshmana-fruit` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 109–116 — [109–116](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L219-L233) · `nvm-19-033`
+
+## Сурья на Арка-тиле благословляет Бхактивиноду / Surya blesses Bhaktivinoda at Arka Tila  `ev-bhaktivinoda-vision-surya-arka-tila` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 120–123 — [120–123](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L241-L247) · `nvm-19-035`
+
+## Драупади угощает Бхактивиноду прасадом Гауранги в Махатпуре / Draupadi feeds Bhaktivinoda Gauranga's prasada in Mahatpur  `ev-bhaktivinoda-vision-draupadi-prasada` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 128–131 — [128–131](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L257-L263) · `nvm-19-037`
+
+## Богиня Сайюджья в Рудрадвипе и наставление Шивы Бхактивиноде / The goddess Sayujya in Rudradvipa and Shiva's instruction to Bhaktivinoda  `ev-bhaktivinoda-vision-sayujya-shiva` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 135–145 — [135–145](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L271-L291) · `nvm-19-039`
+
+## На Шри Пулине Бхактивинода видит себя Камала-манджари в служении Радхе и Говинде / At Sri Pulina Bhaktivinoda sees himself as Kamala Manjari in the service of Radha and Govinda  `ev-bhaktivinoda-vision-kamala-manjari` (1899–1899, возраст 413–413, вероятно)
+
+- navadvipa-mahatmya (C): Гл. 19 (НБТ), 146–164 — [146–164](../navadvipa-dhama-mahatmya/ru/19.md?plain=1#L293-L329) · `nvm-19-040`
 

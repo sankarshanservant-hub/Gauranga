@@ -7,6 +7,7 @@
   "section": "Господь и Его формы",
   "lilas": [
    "jcm-0009",
+   "nvm-02-003",
    "cc-0004",
    "gkd-0004",
    "cc-0042",
@@ -30,7 +31,40 @@
    "gst-0001",
    "gst-0023",
    "lcm-0028",
+   "nvm-05-014",
    "apr-0022",
+   "nvm-06-005",
+   "nvm-06-002",
+   "nvm-05-011",
+   "nvm-06-010",
+   "nvm-07-003",
+   "nvm-08-005",
+   "nvm-08-007",
+   "nvm-09-002",
+   "nvm-09-003",
+   "nvm-09-004",
+   "nvm-10-003",
+   "nvm-10-004",
+   "nvm-11-002",
+   "nvm-11-004",
+   "nvm-11-005",
+   "nvm-11-008",
+   "nvm-13-004",
+   "nvm-13-011",
+   "nvm-15-012",
+   "nvm-14-002",
+   "nvm-14-003",
+   "nvm-15-002",
+   "nvm-16-009",
+   "nvm-15-008",
+   "nvm-15-011",
+   "nvm-16-004",
+   "nvm-16-005",
+   "nvm-16-006",
+   "nvm-15-003",
+   "nvm-15-004",
+   "nvm-15-009",
+   "nvm-15-014",
    "apr-0012",
    "cc-1027",
    "apr-0025",
@@ -42,6 +76,7 @@
    "pvl-0190",
    "cb-0015",
    "cc-0038",
+   "nvm-05-006",
    "pvl-0224",
    "pvl-0260",
    "vv-0004",
@@ -51,6 +86,7 @@
    "mkc-0012",
    "pvl-0227",
    "cc-0191",
+   "nvm-13-005",
    "cb-0064",
    "cb-1026",
    "pvl-0040",
@@ -130,6 +166,7 @@
    "pad-0405",
    "cb-0031",
    "cb-0032",
+   "nvm-14-004",
    "cb-0030",
    "cc-0182",
    "gkd-0017",
@@ -253,6 +290,7 @@
    "gkd-0028",
    "lcm-0057",
    "cb-0048",
+   "nvm-05-010",
    "pad-0417",
    "jcm-0026",
    "lcm-0058",
@@ -303,6 +341,7 @@
    "kcm-0022",
    "lcm-0066",
    "mkc-0034",
+   "nvm-06-003",
    "cb-0058",
    "cb-0063",
    "cb-0071",
@@ -338,6 +377,7 @@
    "kcm-0025",
    "lcm-0070",
    "mkc-0038",
+   "nvm-15-005",
    "vv-0007",
    "vv-0037",
    "pad-0435",
@@ -380,6 +420,7 @@
    "lcm-0073",
    "cb-0081",
    "cb-0085",
+   "nvm-13-006",
    "apr-0061",
    "lcm-0074",
    "mkc-0041",
@@ -527,6 +568,7 @@
    "lcm-0095",
    "mkc-0061",
    "kcm-0039",
+   "nvm-10-006",
    "cb-1002",
    "apr-0070",
    "brt-0051",
@@ -892,13 +934,16 @@
    "cb-2047",
    "cc-0271",
    "gkd-0050",
+   "nvm-06-006",
    "pad-0365",
    "cb-2048",
    "cb-2049",
    "cc-0272",
+   "nvm-10-007",
    "cb-2050",
    "cb-2051",
    "cc-0273",
+   "nvm-12-003",
    "cc-0274",
    "cc-0275",
    "cb-1066",
@@ -908,6 +953,8 @@
    "kcm-0078",
    "lcm-0141",
    "mkc-0106",
+   "nvm-06-008",
+   "nvm-06-011",
    "cb-1067",
    "cb-2053",
    "cc-0266",
@@ -1322,6 +1369,7 @@
    "pad-0085",
    "pad-0115",
    "pad-0166",
+   "nvm-15-016",
    "pad-0086",
    "pad-0380",
    "pad-0205",
@@ -2314,6 +2362,7 @@
    "jcm-0094",
    "mkc-0188",
    "nvl-0007",
+   "nvm-04-003",
    "pvl-0195",
    "cc-0345",
    "nvl-0008",
@@ -2741,6 +2790,22 @@
    "cc-4095",
    "cc-0364",
    "vlb-0002",
+   "nvm-04-004",
+   "nvm-04-005",
+   "nvm-04-007",
+   "nvm-05-001",
+   "nvm-05-004",
+   "nvm-05-003",
+   "nvm-05-005",
+   "nvm-05-009",
+   "nvm-07-004",
+   "nvm-12-002",
+   "nvm-13-009",
+   "nvm-17-002",
+   "nvm-18-001",
+   "nvm-18-002",
+   "nvm-18-003",
+   "nvm-18-007",
    "cc-0365",
    "cc-0363",
    "pv-0016",
@@ -3065,6 +3130,7 @@
    "lcm-0006",
    "mkc-0013",
    "mkc-0062",
+   "nvm-01-002",
    "nvv-0044",
    "pad-0026",
    "pad-0048",
@@ -3205,6 +3271,7 @@
    "cc-0010",
    "cb-0073",
    "cc-0011",
+   "nvm-01-003",
    "cc-1012",
    "cc-0287",
    "cc-0289",
@@ -3213,11 +3280,18 @@
    "cc-4036",
    "cc-4057",
    "cc-1013",
+   "nvm-01-004",
    "anv-0050",
    "anv-0052",
    "anv-0051",
+   "nvm-01-001",
    "cb-0098",
+   "nvm-01-005",
+   "nvm-02-002",
    "cb-0101",
+   "nvm-02-001",
+   "nvm-03-001",
+   "nvm-03-002",
    "cb-0126",
    "cb-1001",
    "cb-1033",
@@ -3244,6 +3318,7 @@
    "cc-0031",
    "cb-3001",
    "cc-0034",
+   "nvm-18-009",
    "cb-3017",
    "cb-3036",
    "cb-3055",
@@ -3254,6 +3329,41 @@
    "cb-3108",
    "cb-3118",
    "cc-0035",
+   "nvm-19-002",
+   "nvm-19-003",
+   "nvm-19-004",
+   "nvm-19-006",
+   "nvm-19-007",
+   "nvm-19-008",
+   "nvm-19-009",
+   "nvm-19-010",
+   "nvm-19-011",
+   "nvm-19-013",
+   "nvm-19-014",
+   "nvm-19-015",
+   "nvm-19-016",
+   "nvm-19-017",
+   "nvm-19-018",
+   "nvm-19-019",
+   "nvm-19-020",
+   "nvm-19-022",
+   "nvm-19-023",
+   "nvm-19-024",
+   "nvm-19-025",
+   "nvm-19-026",
+   "nvm-19-027",
+   "nvm-19-029",
+   "nvm-19-030",
+   "nvm-19-031",
+   "nvm-19-032",
+   "nvm-19-033",
+   "nvm-19-034",
+   "nvm-19-035",
+   "nvm-19-036",
+   "nvm-19-037",
+   "nvm-19-038",
+   "nvm-19-039",
+   "nvm-19-040",
    "cc-0036",
    "cc-0037",
    "cc-0039",
@@ -3384,6 +3494,7 @@
   ],
   "events": [
    "ev-earth-complains-to-brahma",
+   "ev-krishna-resolves-to-give-vraja-prema",
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-narada-dvaraka-rukmini",
    "ev-parvati-mahaprasada-vow",
@@ -3398,6 +3509,36 @@
    "ev-krishna-resolves-gaura-advent",
    "ev-narada-shvetadvipa-balarama",
    "ev-brahma-steals-calves-haridasa",
+   "ev-parvati-simantadvipa",
+   "ev-bhagiratha-ganga-nagara",
+   "ev-ganga-austerity-gaura-promise",
+   "ev-vishvakarma-sixty-ponds",
+   "ev-narada-suvarna-sena",
+   "ev-indra-surabhi-godruma",
+   "ev-markandeya-surabhi",
+   "ev-seven-rishis-majida",
+   "ev-naimisha-shaunaka-suta",
+   "ev-shiva-hamsa-naimisha",
+   "ev-diva-dasa-pushkara",
+   "ev-devas-uchcha-hatta",
+   "ev-varaha-vasudeva",
+   "ev-samudra-sena-bhima",
+   "ev-ocean-ganga-samudragarh",
+   "ev-gaura-appears-jayadeva",
+   "ev-upanishads-vidyanagara",
+   "ev-jahnu-ganga",
+   "ev-rudras-rudradvipa",
+   "ev-rama-modadrumadvipa",
+   "ev-vishnupriya-deity",
+   "ev-narada-vaikunthapur-gaura",
+   "ev-bharadvaja-tila",
+   "ev-pandavas-mahatpur",
+   "ev-shankaracharya-rudradvipa",
+   "ev-nimbarka-bilvapaksha",
+   "ev-keshava-kashmiri-defeat",
+   "ev-ramanuja-navadvipa",
+   "ev-madhva-mahatpur-dream",
+   "ev-vishnusvami-rudradvipa",
    "ev-advaita-meets-madhavendra",
    "ev-madhavendra-gopala-govardhana",
    "ev-yadunandana-tarka-chudamani",
@@ -3410,6 +3551,7 @@
    "ev-associates-descend",
    "ev-mishra-family-migrates-navadvipa",
    "ev-vishvarupa-birth",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
    "ev-nityananda-birth",
    "ev-nityananda-leaves-home",
    "ev-lord-enters-shachi-womb",
@@ -3432,6 +3574,7 @@
    "ev-infant-with-shachi",
    "ev-gods-alarm-thief-infant",
    "ev-nishkramana-ganga",
+   "ev-sadananda-vipra-rama-vision",
    "ev-crying-stops-at-holy-name",
    "ev-child-dust-broken-pots",
    "ev-footprints-gopala",
@@ -3499,11 +3642,11 @@
    "ev-shachi-flute-moon-visions",
    "ev-achyuta-studies-with-gaura",
    "ev-nimai-challenges-mukunda",
+   "ev-nimai-vidyanagara-debate",
    "ev-ishvara-puri-navadvipa",
    "ev-lakshmi-feast-vaishnavas",
    "ev-evening-strolls-ganga",
    "ev-vayu-vyadhi-prema",
-   "ev-keshava-kashmiri-defeat",
    "ev-ganga-rises-to-lord",
    "ev-east-bengal-tour",
    "ev-shrihatta-grandparents",
@@ -3521,6 +3664,7 @@
    "ev-jagannatha-mishra-accepts-pinda",
    "ev-gaya-ascetic-samadhi",
    "ev-gaya-heavenly-voice-return",
+   "ev-nagara-kirtana-kazi",
    "ev-return-navadvipa-welcome",
    "ev-return-from-gaya-teaching",
    "ev-chhakari-worship",
@@ -3619,7 +3763,8 @@
    "ev-shrivasa-mother-in-law-expelled",
    "ev-advaita-steals-foot-dust",
    "ev-milk-drinking-brahmachari",
-   "ev-nagara-kirtana-kazi",
+   "ev-gaura-ekadashi-parikrama",
+   "ev-gaura-kirtan-radha-kunda-ritudvipa",
    "ev-vanamali-brahmana-vision",
    "ev-nrisimha-bhava-shrivasa",
    "ev-shiva-singer",
@@ -3953,7 +4098,6 @@
    "ev-subuddhi-raya-holy-name",
    "ev-return-to-puri-from-vrindavana",
    "ev-cowherd-buttermilk-jewels",
-   "ev-vishnupriya-deity",
    "ev-gauridasa-deities",
    "ev-shantipura-second-visit",
    "ev-achyutananda-keshava-bharati-dispute",
@@ -4013,6 +4157,18 @@
    "ev-ramachandra-puri-criticism",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-bengali-servants-shrinathji",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-govinda-bhashya-prophecy",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-jiva-vision-kirtan-srivasa",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-nityananda-balarama-bhava-ritudvipa",
+   "ev-nityananda-predicts-jiva-books",
+   "ev-nityananda-jiva-questions",
+   "ev-jiva-dream-mathura",
    "ev-worlds-pilgrims-srivasa-praise",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-raghavera-jhali",
@@ -4153,19 +4309,33 @@
    "ev-tattva-acintya-gaura-gopi-bhava",
    "ev-tattva-three-ways-deliverance",
    "ev-tattva-chaitanya-gives-rare-prema",
+   "ev-tattva-gaura-nitai-names-prema",
    "ev-four-sampradayas",
    "ev-gopala-guru-mahamantra",
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-dhama-nature",
+   "ev-navadvipa-parikrama-order",
    "ev-tattva-chaitanya-nityananda-sun-moon",
    "ev-tattva-kaitava",
    "ev-tattva-two-bhagavatas",
    "ev-narada-mrigari-hunter",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-gaura-cowherds-godruma",
+   "ev-gaura-madhyadvipa-midday-kirtan",
+   "ev-gaura-panchaveni-bath",
+   "ev-gaura-sankirtana-vaninatha-house",
+   "ev-bhaktivinoda-vision-bhishma-instruction",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit",
+   "ev-bhaktivinoda-vision-surya-arka-tila",
+   "ev-bhaktivinoda-vision-draupadi-prasada",
+   "ev-bhaktivinoda-vision-sayujya-shiva",
+   "ev-bhaktivinoda-vision-kamala-manjari",
    "ev-tattva-krishna-advent-reasons",
    "ev-tattva-radha-hladini",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-pancha-tattva-prema-flood",
    "ev-tattva-rejecting-chaitanya-asura",
-   "ev-tattva-gaura-nitai-names-prema",
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
@@ -4360,7 +4530,19 @@
    "pad-0262",
    "gst-0001",
    "gst-0023",
+   "nvm-05-014",
    "apr-0022",
+   "nvm-05-011",
+   "nvm-07-002",
+   "nvm-08-005",
+   "nvm-08-007",
+   "nvm-10-003",
+   "nvm-11-004",
+   "nvm-11-007",
+   "nvm-15-008",
+   "nvm-16-003",
+   "nvm-16-004",
+   "nvm-15-003",
    "cb-3032",
    "cb-3092",
    "apr-0011",
@@ -4438,6 +4620,7 @@
    "pad-0063",
    "pad-0089",
    "pad-0490",
+   "nvm-15-016",
    "cb-2015",
    "ccd-0032",
    "ccd-0033",
@@ -4560,6 +4743,12 @@
    "cc-4070",
    "cc-4073",
    "cc-4081",
+   "nvm-05-012",
+   "nvm-11-006",
+   "nvm-12-002",
+   "nvm-17-002",
+   "nvm-18-002",
+   "nvm-18-003",
    "cc-0300",
    "cc-4140",
    "pad-0029",
@@ -4662,6 +4851,7 @@
    "cc-0290",
    "cc-4036",
    "cc-0013",
+   "nvm-01-004",
    "anv-0051",
    "cc-0015",
    "cc-0016",
@@ -4674,6 +4864,16 @@
    "cc-0028",
    "cc-0029",
    "cc-0034",
+   "nvm-19-008",
+   "nvm-19-011",
+   "nvm-19-012",
+   "nvm-19-023",
+   "nvm-19-026",
+   "nvm-19-028",
+   "nvm-19-032",
+   "nvm-19-033",
+   "nvm-19-034",
+   "nvm-19-040",
    "cc-0037",
    "cc-0040",
    "cc-0041",
@@ -4707,6 +4907,16 @@
    "ev-advaita-advent-cause",
    "ev-krishna-resolves-gaura-advent",
    "ev-brahma-steals-calves-haridasa",
+   "ev-ganga-austerity-gaura-promise",
+   "ev-narada-suvarna-sena",
+   "ev-indra-surabhi-godruma",
+   "ev-markandeya-surabhi",
+   "ev-diva-dasa-pushkara",
+   "ev-samudra-sena-bhima",
+   "ev-jayadeva-lakshmana-sena",
+   "ev-pandavas-mahatpur",
+   "ev-nimbarka-bilvapaksha",
+   "ev-ramanuja-navadvipa",
    "ev-shiva-receives-ekamra-kashiraja",
    "ev-brahmana-doubts-nityananda-conduct",
    "ev-advaita-pilgrimage",
@@ -4755,6 +4965,7 @@
    "ev-sankirtana-yajna-teaching",
    "ev-navadvipa-radha-bhava-gadadhara",
    "ev-gaura-nishanta-navadvipa",
+   "ev-rasa-lila-navadvipa",
    "ev-chandrashekhara-drama",
    "ev-longing-vrindavana-murari",
    "ev-lord-preaches-vanity-of-world",
@@ -4810,6 +5021,10 @@
    "ev-raghunatha-lord-instructions",
    "ev-govardhana-shila-gunja-gift",
    "ev-vallabha-sridhara-svami",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-nityananda-balarama-bhava-ritudvipa",
+   "ev-nityananda-jiva-questions",
    "ev-last-twelve-years-gambhira",
    "ev-jagannatha-darshan-gopi-bhava",
    "ev-gambhira-divine-madness",
@@ -4856,6 +5071,7 @@
    "ev-krishna-four-arms-vanish-before-radha",
    "ev-tattva-acintya-gaura-gopi-bhava",
    "ev-maya-tests-haridasa",
+   "ev-tattva-gaura-nitai-names-prema",
    "ev-gopala-guru-mahamantra",
    "ev-tattva-sadhu-hridaya",
    "ev-tattva-prakasha-vilasa",
@@ -4865,6 +5081,14 @@
    "ev-tattva-krishna-mula-narayana",
    "ev-tattva-krishnas-tu-bhagavan-svayam",
    "ev-tattva-krishna-ashraya",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-bhaktivinoda-vision-nrisimha-blessing",
+   "ev-gaura-sankirtana-vaninatha-house",
+   "ev-bhaktivinoda-vision-krishna-balarama-calves",
+   "ev-bhaktivinoda-vision-bhishma-instruction",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit",
+   "ev-narada-vaikunthapur-gaura",
+   "ev-bhaktivinoda-vision-kamala-manjari",
    "ev-tattva-krishna-advent-reasons",
    "ev-tattva-radha-hladini",
    "ev-tattva-paravyoma-goloka",
@@ -4872,8 +5096,7 @@
    "ev-tattva-dasya-bhakta-bhava",
    "ev-tattva-pancha-tattva",
    "ev-tattva-rejecting-chaitanya-asura",
-   "ev-tattva-chaitanya-gives-rare-prema",
-   "ev-tattva-gaura-nitai-names-prema"
+   "ev-tattva-chaitanya-gives-rare-prema"
   ],
   "related_by": [
    {
@@ -4913,7 +5136,15 @@
    "gst-0001",
    "gst-0023",
    "lcm-0028",
+   "nvm-05-014",
    "apr-0022",
+   "nvm-06-005",
+   "nvm-08-007",
+   "nvm-10-003",
+   "nvm-11-004",
+   "nvm-16-003",
+   "nvm-16-004",
+   "nvm-16-006",
    "apr-0017",
    "apr-0018",
    "apr-0042",
@@ -5038,6 +5269,9 @@
    "pvl-0131",
    "cc-4070",
    "cc-4073",
+   "nvm-11-006",
+   "nvm-17-002",
+   "nvm-18-003",
    "pv-0002",
    "cc-4140",
    "cc-0046",
@@ -5125,7 +5359,14 @@
    "cc-1012",
    "cc-0287",
    "cc-0288",
+   "nvm-01-004",
    "anv-0051",
+   "nvm-19-008",
+   "nvm-19-011",
+   "nvm-19-012",
+   "nvm-19-026",
+   "nvm-19-032",
+   "nvm-19-040",
    "cc-0043",
    "cc-0044",
    "cc-0050",
@@ -5149,6 +5390,11 @@
    "ev-krishna-resolves-gaura-advent",
    "ev-narada-shvetadvipa-balarama",
    "ev-brahma-steals-calves-haridasa",
+   "ev-parvati-simantadvipa",
+   "ev-markandeya-surabhi",
+   "ev-diva-dasa-pushkara",
+   "ev-samudra-sena-bhima",
+   "ev-nimbarka-bilvapaksha",
    "ev-advaita-vishakha-painting",
    "ev-advaita-madhavendra-initiation",
    "ev-gaura-appearance",
@@ -5216,6 +5462,8 @@
    "ev-raghunatha-dasa-joins-lord",
    "ev-raghunatha-lord-instructions",
    "ev-govardhana-shila-gunja-gift",
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-nityananda-jiva-questions",
    "ev-jagadananda-dvaraka-queen-jest",
    "ev-jagannatha-darshan-gopi-bhava",
    "ev-gambhira-divine-madness",
@@ -5260,7 +5508,13 @@
    "ev-tattva-gaura-scripture-proofs",
    "ev-tattva-gopi-prema",
    "ev-krishna-four-arms-vanish-before-radha",
+   "ev-tattva-gaura-nitai-names-prema",
    "ev-gopala-guru-mahamantra",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-bhaktivinoda-vision-nrisimha-blessing",
+   "ev-gaura-sankirtana-vaninatha-house",
+   "ev-bhaktivinoda-vision-bhishma-instruction",
+   "ev-bhaktivinoda-vision-kamala-manjari",
    "ev-tattva-radha-hladini",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-tattva-bhakti-kalpataru"
@@ -5302,6 +5556,8 @@
    "pad-0261",
    "lcm-0028",
    "apr-0022",
+   "nvm-06-012",
+   "nvm-16-007",
    "cb-3092",
    "cb-0013",
    "gkd-0005",
@@ -5400,6 +5656,9 @@
    "cb-1023",
    "cc-0020",
    "cb-2012",
+   "nvm-19-026",
+   "nvm-19-028",
+   "nvm-19-033",
    "cc-0057",
    "cc-0058",
    "cc-0059",
@@ -5413,6 +5672,8 @@
    "ev-krishna-resolves-gaura-advent",
    "ev-narada-shvetadvipa-balarama",
    "ev-brahma-steals-calves-haridasa",
+   "ev-balarama-kills-mayasura",
+   "ev-balarama-kolasura",
    "ev-brahmana-doubts-nityananda-conduct",
    "ev-associates-descend",
    "ev-vishvarupa-birth",
@@ -5465,6 +5726,9 @@
    "ev-tattva-vraja-associates-in-gaura-lila",
    "ev-tattva-prakasha-vilasa",
    "ev-tattva-chaitanya-nityananda-sun-moon",
+   "ev-gaura-sankirtana-vaninatha-house",
+   "ev-bhaktivinoda-vision-krishna-balarama-calves",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit",
    "ev-tattva-paravyoma-goloka",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava"
@@ -5487,10 +5751,13 @@
   "note": "Рагхунатха; лила Рамы",
   "section": "Господь и Его формы",
   "lilas": [
+   "nvm-14-002",
+   "nvm-14-003",
    "apr-0011",
    "apr-0015",
    "apr-0019",
    "cb-0067",
+   "nvm-14-004",
    "mkc-0032",
    "kcm-0021",
    "mkc-0033",
@@ -5532,13 +5799,17 @@
    "mkc-0013",
    "cb-0044",
    "mkc-0256",
+   "nvm-19-033",
    "cc-0063",
    "cc-0072"
   ],
   "events": [
+   "ev-rama-modadrumadvipa",
+   "ev-vishnupriya-deity",
    "ev-advaita-pilgrimage",
    "ev-madhavendra-kshira-chora",
    "ev-nityananda-childhood-dramas",
+   "ev-sadananda-vipra-rama-vision",
    "ev-ekadashi-instruction-shachi",
    "ev-jagannatha-mishra-departure",
    "ev-astrologer-sarvajna",
@@ -5564,6 +5835,7 @@
    "ev-haridasa-sthavara-jangama-deliverance",
    "ev-vibhishana-lanka-gaura",
    "ev-avatara-kinds",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit",
    "ev-tattva-nityananda-advaita",
    "ev-tattva-dasya-bhakta-bhava"
   ]
@@ -5576,6 +5848,9 @@
   "section": "Господь и Его формы",
   "lilas": [
    "lcm-0023",
+   "nvm-06-007",
+   "nvm-11-008",
+   "nvm-15-003",
    "apr-0011",
    "cc-1039",
    "apr-0019",
@@ -5769,11 +6044,15 @@
    "lcm-0004",
    "mkc-0062",
    "pad-0176",
+   "nvm-19-005",
    "cc-0352",
    "cc-2043"
   ],
   "events": [
    "ev-narada-jagannatha-nilachala",
+   "ev-jagannatha-shabaras-saradanga",
+   "ev-gaura-appears-jayadeva",
+   "ev-ramanuja-navadvipa",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
@@ -5905,8 +6184,10 @@
   "note": "аватара Человеко-льва; бхава Нрисимхи у Гауры",
   "section": "Господь и Его формы",
   "lilas": [
+   "nvm-07-006",
    "cb-0090",
    "gkd-0050",
+   "nvm-06-006",
    "cc-0274",
    "cc-0266",
    "lcm-0142",
@@ -5921,12 +6202,16 @@
    "cc-2039",
    "ccd-0075",
    "cc-4019",
+   "nvm-07-005",
+   "nvm-07-007",
    "cc-4145",
    "cc-4156",
    "brt-0074",
-   "mkc-0013"
+   "mkc-0013",
+   "nvm-19-012"
   ],
   "events": [
+   "ev-nrisimha-rests-deva-palli",
    "ev-astrologer-sarvajna",
    "ev-nagara-kirtana-kazi",
    "ev-nrisimha-bhava-shrivasa",
@@ -5938,10 +6223,13 @@
    "ev-gundicha-marjana",
    "ev-gopala-dasa-revived",
    "ev-nrisimhananda-three-offerings",
+   "ev-nityananda-jiva-parikrama-deva-palli",
+   "ev-prophecy-nrisimha-temple-deva-palli",
    "ev-kalidasa-foot-water",
    "ev-fall-into-ocean-fisherman",
    "ev-srinivasa-gadadhara-puri",
-   "ev-avatara-kinds"
+   "ev-avatara-kinds",
+   "ev-bhaktivinoda-vision-nrisimha-blessing"
   ],
   "related_by": [
    {
@@ -5957,6 +6245,7 @@
   "note": "аватара; бхава Варахи у Гауры",
   "section": "Господь и Его формы",
   "lilas": [
+   "nvm-11-002",
    "cb-0090",
    "cb-1025",
    "cc-0251",
@@ -5973,9 +6262,11 @@
    "mkc-0173",
    "cc-1095",
    "gkr-0045",
-   "mkc-0013"
+   "mkc-0013",
+   "nvm-19-021"
   ],
   "events": [
+   "ev-varaha-vasudeva",
    "ev-astrologer-sarvajna",
    "ev-varaha-bhava-murari",
    "ev-flute-request",
@@ -6629,8 +6920,16 @@
   "en": "the Deity of Mahaprabhu served by Vishnupriya",
   "note": "по Мурари 4.14.8 — проявленный облик Господа; после её ухода перенесено Вамшиваданой в Коладвип / Кулию (M 241, B 912)",
   "section": "Господь и Его формы",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-14-003",
+   "nvm-05-003",
+   "nvm-05-009"
+  ],
+  "events": [
+   "ev-vishnupriya-deity",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-prophecy-vishnupriya-deity-paradanga"
+  ],
   "related_by": [
    {
     "from": "@vishnupriya",
@@ -6693,6 +6992,10 @@
    "cc-0004",
    "gkd-0004",
    "lcm-0027",
+   "nvm-10-003",
+   "nvm-11-008",
+   "nvm-14-002",
+   "nvm-14-003",
    "cc-0038",
    "cc-0187",
    "lcm-0029",
@@ -7021,6 +7324,7 @@
    "cc-0249",
    "cb-1085",
    "cb-1087",
+   "nvm-06-011",
    "cb-2053",
    "lcm-0144",
    "ccd-0004",
@@ -7179,6 +7483,9 @@
    "cc-4018",
    "cc-4020",
    "gkd-0182",
+   "nvm-05-003",
+   "nvm-16-010",
+   "nvm-18-005",
    "cc-4120",
    "pv-0012",
    "apr-0142",
@@ -7215,11 +7522,16 @@
    "cc-0287",
    "cc-0289",
    "cb-2037",
+   "nvm-19-002",
    "cc-0293"
   ],
   "events": [
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-gaura-reveals-reasons-advent",
+   "ev-diva-dasa-pushkara",
+   "ev-gaura-appears-jayadeva",
+   "ev-rama-modadrumadvipa",
+   "ev-vishnupriya-deity",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
    "ev-mishra-family-migrates-navadvipa",
@@ -7326,6 +7638,7 @@
    "ev-lord-disappears-with-shrivasa",
    "ev-jagai-madhai-deliverance",
    "ev-gods-receive-prema",
+   "ev-shridhara-kholavecha",
    "ev-nagara-kirtana-kazi",
    "ev-jump-into-ganga",
    "ev-kali-adharma-dismay",
@@ -7388,6 +7701,9 @@
    "ev-shivananda-dog",
    "ev-damodara-sent-navadvipa",
    "ev-avirbhava-four-places",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-nityananda-jiva-parikrama-bilvapaksha",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
    "ev-jagadananda-visits-shachi",
    "ev-jagadananda-vrindavana-pilu",
    "ev-advaita-tarja",
@@ -7400,7 +7716,8 @@
    "ev-tattva-gaura-scripture-proofs",
    "ev-tattva-gaura-external-cause",
    "ev-tattva-gopi-prema",
-   "ev-tattva-vraja-associates-in-gaura-lila"
+   "ev-tattva-vraja-associates-in-gaura-lila",
+   "ev-bhaktivinoda-vision-dhama-darshana"
   ],
   "summary": "в Кришна-лиле — Яшода, царица Враджа (ГГД 37) и др.; гуру — Адвайта Ачарья",
   "card": "parshadas/cards/shachi.yaml",
@@ -7709,6 +8026,7 @@
    "mkc-0009",
    "lcm-0022",
    "lcm-0027",
+   "nvm-14-002",
    "jcm-0013",
    "mkc-0003",
    "cc-0038",
@@ -7768,6 +8086,7 @@
    "jcm-0020",
    "lcm-0037",
    "pad-0389",
+   "nvm-14-004",
    "cb-0030",
    "cb-0034",
    "gkd-0016",
@@ -7874,6 +8193,7 @@
    "cc-1047",
    "cc-1114",
    "cc-2109",
+   "nvm-05-004",
    "mkc-0001",
    "lcm-0003",
    "pad-0125",
@@ -7882,13 +8202,15 @@
    "jcm-0096",
    "jcm-0110",
    "vv-0066",
-   "cc-0289"
+   "cc-0289",
+   "nvm-19-002"
   ],
   "events": [
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-narada-dvaraka-rukmini",
    "ev-gaura-advent-proclaimed",
    "ev-gaura-reveals-reasons-advent",
+   "ev-rama-modadrumadvipa",
    "ev-navadvipa-vaishnavas-before-advent",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
@@ -7909,6 +8231,7 @@
    "ev-birth-festival-nimai-name",
    "ev-annaprashana-vishvambhara-name",
    "ev-infant-with-shachi",
+   "ev-sadananda-vipra-rama-vision",
    "ev-crying-stops-at-holy-name",
    "ev-child-dust-broken-pots",
    "ev-footprints-gopala",
@@ -7954,7 +8277,9 @@
    "ev-sarvabhauma-meeting",
    "ev-ranga-puri-pandharpur",
    "ev-raghunatha-dasa-shantipura",
-   "ev-tattva-vraja-associates-in-gaura-lila"
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-tattva-vraja-associates-in-gaura-lila",
+   "ev-bhaktivinoda-vision-dhama-darshana"
   ],
   "summary": "в Кришна-лиле — Нанда Махараджа, царь Враджа (ГГД 37) и др.; гуру — Адвайта Ачарья; происхождение — Шрихатта (Силхет)",
   "card": "parshadas/cards/jagannatha-mishra.yaml",
@@ -8331,6 +8656,7 @@
    "jcm-0041",
    "kcm-0025",
    "lcm-0070",
+   "nvm-15-005",
    "vv-0007",
    "vv-0037",
    "pad-0436",
@@ -8381,7 +8707,8 @@
    "lcm-0003",
    "pad-0125",
    "cb-0007",
-   "jcm-0096"
+   "jcm-0096",
+   "nvm-19-002"
   ],
   "events": [
    "ev-lakshmipriya-first-meeting",
@@ -8394,7 +8721,8 @@
    "ev-lakshmipriya-departure",
    "ev-return-from-east-bengal",
    "ev-lord-consoles-shachi-before-sannyasa",
-   "ev-sannyasa-katwa"
+   "ev-sannyasa-katwa",
+   "ev-bhaktivinoda-vision-dhama-darshana"
   ],
   "related_by": [
    {
@@ -8414,6 +8742,8 @@
   "note": "вторая супруга",
   "section": "Семья",
   "lilas": [
+   "nvm-14-002",
+   "nvm-14-003",
    "lcm-0029",
    "ccd-0008",
    "jcm-0045",
@@ -8506,6 +8836,8 @@
    "lcm-0246",
    "pad-0078",
    "mkc-0227",
+   "nvm-05-003",
+   "nvm-05-009",
    "apr-0143",
    "gkd-0185",
    "pad-0025",
@@ -8528,9 +8860,12 @@
    "lcm-0004",
    "pad-0125",
    "cb-0007",
-   "jcm-0096"
+   "jcm-0096",
+   "nvm-19-002"
   ],
   "events": [
+   "ev-rama-modadrumadvipa",
+   "ev-vishnupriya-deity",
    "ev-associates-descend",
    "ev-lakshmipriya-departure",
    "ev-return-from-east-bengal",
@@ -8569,7 +8904,8 @@
    "ev-farewell-shantipura",
    "ev-navadvipa-awaits-lord-return",
    "ev-kuliya-shachi-meeting",
-   "ev-vishnupriya-deity",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-prophecy-vishnupriya-deity-paradanga",
    "ev-advaita-tarja",
    "ev-shachi-vishnupriya-passing",
    "ev-jagadananda-visits-shachi",
@@ -8585,7 +8921,8 @@
    "ev-vishnupriya-departure",
    "ev-gadadhara-dasa-narahari-departure",
    "ev-ramachandra-kaviraja-meets-srinivasa",
-   "ev-narottama-shrikhanda-yajigrama-katwa"
+   "ev-narottama-shrikhanda-yajigrama-katwa",
+   "ev-bhaktivinoda-vision-dhama-darshana"
   ],
   "summary": "в Кришна-лиле — Сатьябхама, дочь царя Сатраджита (ГГД 47) и др.; происхождение — Навадвипа; явление — шукла-панчами месяца магха",
   "card": "parshadas/cards/vishnupriya.yaml",
@@ -9170,8 +9507,19 @@
    "lcm-0026",
    "pvl-0240",
    "lcm-0028",
+   "nvm-06-004",
+   "nvm-06-005",
+   "nvm-06-002",
+   "nvm-06-007",
+   "nvm-09-002",
+   "nvm-10-004",
+   "nvm-13-001",
+   "nvm-14-002",
+   "nvm-16-007",
+   "nvm-15-014",
    "cc-1038",
    "gkd-0067",
+   "nvm-05-006",
    "cb-0013",
    "ccd-0006",
    "gkd-0005",
@@ -9196,13 +9544,17 @@
    "apr-0042",
    "cb-0065",
    "pvl-0228",
+   "nvm-05-010",
+   "nvm-06-003",
    "cb-0069",
    "cb-1027",
    "cb-0070",
    "nvv-0037",
    "nvv-0068",
    "cb-0071",
+   "nvm-15-005",
    "cb-0109",
+   "nvm-10-006",
    "brt-0051",
    "pad-0424",
    "pad-0510",
@@ -9322,10 +9674,13 @@
    "cb-2047",
    "cc-0271",
    "gkd-0050",
+   "nvm-06-006",
    "cb-2048",
    "cb-2049",
    "cb-2050",
+   "nvm-12-003",
    "cb-2052",
+   "nvm-06-008",
    "cb-2010",
    "cc-0281",
    "kcm-0081",
@@ -9366,6 +9721,7 @@
    "pad-0377",
    "pad-0378",
    "pad-0083",
+   "nvm-15-016",
    "pad-0524",
    "pad-0381",
    "pad-0383",
@@ -9680,6 +10036,69 @@
    "cc-4077",
    "cc-4078",
    "ccd-0091",
+   "nvm-04-002",
+   "nvm-04-004",
+   "nvm-04-006",
+   "nvm-04-005",
+   "nvm-04-007",
+   "nvm-05-001",
+   "nvm-05-002",
+   "nvm-05-004",
+   "nvm-05-007",
+   "nvm-05-012",
+   "nvm-05-003",
+   "nvm-05-005",
+   "nvm-05-008",
+   "nvm-05-013",
+   "nvm-05-009",
+   "nvm-06-001",
+   "nvm-06-009",
+   "nvm-07-001",
+   "nvm-07-004",
+   "nvm-07-005",
+   "nvm-07-007",
+   "nvm-08-001",
+   "nvm-08-002",
+   "nvm-08-003",
+   "nvm-08-004",
+   "nvm-08-008",
+   "nvm-09-001",
+   "nvm-09-005",
+   "nvm-10-001",
+   "nvm-10-005",
+   "nvm-10-008",
+   "nvm-11-001",
+   "nvm-11-003",
+   "nvm-11-006",
+   "nvm-11-009",
+   "nvm-12-001",
+   "nvm-12-004",
+   "nvm-12-002",
+   "nvm-13-007",
+   "nvm-13-008",
+   "nvm-13-009",
+   "nvm-13-010",
+   "nvm-13-013",
+   "nvm-14-001",
+   "nvm-14-005",
+   "nvm-15-001",
+   "nvm-15-006",
+   "nvm-15-010",
+   "nvm-15-015",
+   "nvm-15-017",
+   "nvm-15-018",
+   "nvm-16-001",
+   "nvm-16-008",
+   "nvm-16-010",
+   "nvm-17-001",
+   "nvm-17-002",
+   "nvm-17-003",
+   "nvm-17-004",
+   "nvm-18-001",
+   "nvm-18-002",
+   "nvm-18-003",
+   "nvm-18-004",
+   "nvm-18-005",
    "jcm-0081",
    "cc-4101",
    "pvl-0002",
@@ -9795,6 +10214,7 @@
    "pad-0526",
    "pad-0527",
    "pad-0545",
+   "nvm-01-002",
    "nvv-0044",
    "pad-0049",
    "pad-0068",
@@ -9891,8 +10311,16 @@
    "cb-0072",
    "cb-0073",
    "cc-0011",
+   "nvm-01-003",
    "cc-0289",
+   "nvm-01-004",
+   "nvm-01-001",
    "cb-0098",
+   "nvm-01-005",
+   "nvm-02-002",
+   "nvm-02-001",
+   "nvm-03-001",
+   "nvm-03-002",
    "cb-0126",
    "cb-1001",
    "cb-1023",
@@ -9913,6 +10341,7 @@
    "cc-0024",
    "cc-0031",
    "cb-3001",
+   "nvm-18-009",
    "cb-3017",
    "cb-3036",
    "cb-3055",
@@ -9924,6 +10353,11 @@
    "cb-3108",
    "cb-3118",
    "cc-0035",
+   "nvm-19-002",
+   "nvm-19-007",
+   "nvm-19-010",
+   "nvm-19-014",
+   "nvm-19-041",
    "cc-0056",
    "cc-0057",
    "cc-0058",
@@ -10011,7 +10445,18 @@
    "ev-narada-goloka-gaura",
    "ev-advaita-advent-cause",
    "ev-narada-shvetadvipa-balarama",
+   "ev-prithu-kunda-origin",
+   "ev-parvati-simantadvipa",
+   "ev-bhagiratha-ganga-nagara",
+   "ev-jagannatha-shabaras-saradanga",
+   "ev-seven-rishis-majida",
+   "ev-devas-uchcha-hatta",
+   "ev-matsya-vedas-vidyanagara",
+   "ev-rama-modadrumadvipa",
+   "ev-balarama-kolasura",
+   "ev-vishnusvami-rudradvipa",
    "ev-sakshi-gopala-two-brahmins",
+   "ev-advaita-calls-lord",
    "ev-associates-descend",
    "ev-vishvarupa-birth",
    "ev-nityananda-birth",
@@ -10020,11 +10465,15 @@
    "ev-gaura-appearance",
    "ev-nityananda-roar-gaura-birth",
    "ev-vishvarupa-sannyasa",
+   "ev-ganga-ghat-pranks",
+   "ev-study-gangadasa",
    "ev-nityananda-pilgrimage",
    "ev-nityananda-meets-madhavendra",
    "ev-nityananda-kundalitala",
    "ev-nityananda-awakens-shridama",
+   "ev-marriage-lakshmipriya",
    "ev-marriage-vishnupriya",
+   "ev-nagara-kirtana-kazi",
    "ev-return-from-gaya-teaching",
    "ev-navadvipa-elders-morning-darshan",
    "ev-gaura-dance-with-devotees",
@@ -10067,7 +10516,7 @@
    "ev-jala-keli-navadvipa",
    "ev-shrivasa-mother-in-law-expelled",
    "ev-milk-drinking-brahmachari",
-   "ev-nagara-kirtana-kazi",
+   "ev-gaura-kirtan-radha-kunda-ritudvipa",
    "ev-shridhara-kholavecha",
    "ev-jump-into-ganga",
    "ev-shachi-receives-prema",
@@ -10085,6 +10534,7 @@
    "ev-nanda-utsava-navadvipa",
    "ev-radhashtami-navadvipa",
    "ev-flower-battle-navadvipa",
+   "ev-rasa-lila-navadvipa",
    "ev-nityananda-balarama-rasa-navadvipa",
    "ev-holi-navadvipa-gadadhara",
    "ev-chandrashekhara-drama",
@@ -10200,6 +10650,34 @@
    "ev-raghunatha-dasa-joins-lord",
    "ev-vallabha-bhatta-puri",
    "ev-sarvabhauma-to-varanasi",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-govinda-bhashya-prophecy",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-jiva-vision-kirtan-srivasa",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-simantadvipa",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-nityananda-jiva-parikrama-deva-palli",
+   "ev-prophecy-nrisimha-temple-deva-palli",
+   "ev-nityananda-jiva-parikrama-godruma",
+   "ev-mahavaranasi-shiva-gaura-name",
+   "ev-shiva-parvati-bow-nityananda",
+   "ev-nityananda-jiva-parikrama-madhyadvipa",
+   "ev-nityananda-jiva-parikrama-koladvipa",
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-nityananda-jiva-parikrama-ritudvipa",
+   "ev-nityananda-balarama-bhava-ritudvipa",
+   "ev-nityananda-jiva-parikrama-vidyanagara",
+   "ev-nityananda-predicts-jiva-books",
+   "ev-nityananda-jiva-parikrama-jahnudvipa",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
+   "ev-nityananda-jiva-parikrama-bilvapaksha",
+   "ev-nityananda-jiva-questions",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
    "ev-lord-prophesies-kali-age",
    "ev-jagamohana-dance-govinda-crosses",
    "ev-advaita-jnana-again",
@@ -10217,7 +10695,6 @@
    "ev-nityananda-returns-to-puri",
    "ev-lord-disappearance",
    "ev-jiva-comes-to-vrindavana",
-   "ev-jiva-meets-nityananda-navadvipa",
    "ev-nityananda-marriage",
    "ev-nityananda-settles-khardaha",
    "ev-ganga-marries-madhava",
@@ -10267,15 +10744,21 @@
    "ev-tattva-holy-name",
    "ev-tattva-pancha-tattva",
    "ev-tattva-vraja-associates-in-gaura-lila",
+   "ev-tattva-gaura-nitai-names-prema",
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-dhama-nature",
+   "ev-navadvipa-parikrama-order",
    "ev-tattva-chaitanya-nityananda-sun-moon",
    "ev-tattva-kaitava",
    "ev-tattva-two-bhagavatas",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-nimbarka-bilvapaksha",
+   "ev-gaura-cowherds-godruma",
    "ev-tattva-paravyoma-goloka",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-pancha-tattva-prema-flood",
    "ev-tattva-rejecting-chaitanya-asura",
-   "ev-tattva-gaura-nitai-names-prema",
    "ev-tattva-bhakti-kalpataru"
   ],
   "summary": "в Кришна-лиле — Баларама, старший брат Кришны (ЧЧ Ади 17.294–295) и др.; гуру — Мадхавендра Пури, Лакшмипати (Тиртха), Ишвара Пури; происхождение — Экачакра (Кхалакпур); явление — маги шукла-трайодаши",
@@ -10955,6 +11438,7 @@
    "apr-0001",
    "pvl-0205",
    "pvl-0240",
+   "nvm-09-002",
    "apr-0003",
    "apr-0004",
    "pvl-0206",
@@ -11029,6 +11513,7 @@
    "cc-0053",
    "cc-0190",
    "gkd-0006",
+   "nvm-05-006",
    "pvl-0224",
    "pvl-0260",
    "vv-0004",
@@ -11447,6 +11932,9 @@
    "cc-4078",
    "cc-4080",
    "ccd-0091",
+   "nvm-05-001",
+   "nvm-05-005",
+   "nvm-07-004",
    "cc-4103",
    "jcm-0081",
    "cc-4101",
@@ -11566,6 +12054,7 @@
    "cc-0009",
    "cc-0011",
    "cc-0289",
+   "nvm-01-001",
    "cb-1001",
    "cb-1075",
    "cb-2043",
@@ -11575,6 +12064,8 @@
    "cc-0031",
    "cb-3095",
    "cc-0035",
+   "nvm-19-002",
+   "nvm-19-010",
    "cc-0056",
    "cc-0063",
    "cc-0067",
@@ -11648,6 +12139,7 @@
   "events": [
    "ev-krishna-resolves-advent-radha-bhava",
    "ev-advaita-advent-cause",
+   "ev-seven-rishis-majida",
    "ev-labha-dream-yama",
    "ev-advaita-birth",
    "ev-advaita-summons-tirthas",
@@ -11848,6 +12340,9 @@
    "ev-raghunatha-dasa-joins-lord",
    "ev-vallabha-bhatta-puri",
    "ev-vallabha-sridhara-svami",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-jiva-vision-kirtan-srivasa",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
    "ev-month-stored-prasada",
    "ev-lord-prophesies-kali-age",
    "ev-jagamohana-dance-govinda-crosses",
@@ -11892,6 +12387,7 @@
    "ev-tattva-nityananda-advaita",
    "ev-tattva-pancha-tattva",
    "ev-tattva-vraja-associates-in-gaura-lila",
+   "ev-bhaktivinoda-vision-dhama-darshana",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-pancha-tattva-prema-flood",
    "ev-tattva-bhakti-kalpataru"
@@ -12453,6 +12949,8 @@
   "section": "Спутники",
   "lilas": [
    "cc-0051",
+   "nvm-07-003",
+   "nvm-09-002",
    "ccd-0006",
    "lcm-0029",
    "pvl-0185",
@@ -12702,6 +13200,9 @@
    "cc-4079",
    "cc-4082",
    "cc-4088",
+   "nvm-05-001",
+   "nvm-05-007",
+   "nvm-05-005",
    "jcm-0081",
    "cc-4105",
    "pv-0011",
@@ -12760,9 +13261,12 @@
    "cc-0007",
    "cc-0011",
    "cc-0289",
+   "nvm-01-001",
    "cb-1001",
    "cb-2054",
    "cb-3095",
+   "nvm-19-002",
+   "nvm-19-010",
    "cc-0070",
    "cc-0075",
    "cc-0076",
@@ -12778,6 +13282,8 @@
   ],
   "events": [
    "ev-krishna-resolves-advent-radha-bhava",
+   "ev-narada-suvarna-sena",
+   "ev-seven-rishis-majida",
    "ev-associates-descend",
    "ev-gadadhara-birth",
    "ev-gadadhara-jagadananda-in-lords-house",
@@ -12904,6 +13410,9 @@
    "ev-vallabha-bhatta-puri",
    "ev-gadadhara-vallabha-initiation",
    "ev-ramachandra-puri-criticism",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-vision-kirtan-srivasa",
    "ev-lord-prophesies-kali-age",
    "ev-chaitanya-dasa-feast",
    "ev-jagadananda-vrindavana-pilu",
@@ -12932,6 +13441,7 @@
    "ev-narottama-pyre-gambhila",
    "ev-tattva-pancha-tattva",
    "ev-tattva-vraja-associates-in-gaura-lila",
+   "ev-bhaktivinoda-vision-dhama-darshana",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-pancha-tattva-prema-flood",
    "ev-tattva-bhakti-kalpataru"
@@ -13456,6 +13966,9 @@
   "section": "Спутники",
   "lilas": [
    "cc-0051",
+   "nvm-06-012",
+   "nvm-06-010",
+   "nvm-09-002",
    "apr-0027",
    "apr-0026",
    "mkc-0003",
@@ -13597,6 +14110,7 @@
    "cb-2048",
    "cb-2050",
    "cb-2052",
+   "nvm-06-011",
    "cc-0266",
    "kcm-0079",
    "lcm-0142",
@@ -13767,6 +14281,14 @@
    "cc-4023",
    "cc-4078",
    "ccd-0091",
+   "nvm-04-006",
+   "nvm-05-001",
+   "nvm-05-007",
+   "nvm-05-005",
+   "nvm-06-001",
+   "nvm-06-009",
+   "nvm-07-004",
+   "nvm-08-001",
    "cc-0365",
    "cc-4103",
    "cc-4101",
@@ -13801,9 +14323,14 @@
    "cc-0007",
    "cc-0011",
    "cc-0289",
+   "nvm-01-001",
    "cb-1001",
    "cb-3095",
    "cc-0035",
+   "nvm-19-002",
+   "nvm-19-010",
+   "nvm-19-019",
+   "nvm-19-030",
    "cc-0063",
    "cc-0069",
    "cc-0070",
@@ -13824,6 +14351,9 @@
   ],
   "events": [
    "ev-krishna-resolves-advent-radha-bhava",
+   "ev-balarama-kills-mayasura",
+   "ev-vishvakarma-sixty-ponds",
+   "ev-seven-rishis-majida",
    "ev-sita-appearance-lotus",
    "ev-advaita-marries-sita",
    "ev-navadvipa-vaishnavas-before-advent",
@@ -13977,6 +14507,13 @@
    "ev-chhota-haridasa-prayaga",
    "ev-vallabha-bhatta-puri",
    "ev-sarvabhauma-to-varanasi",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-vision-kirtan-srivasa",
+   "ev-nityananda-jiva-parikrama-simantadvipa",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-nityananda-jiva-parikrama-godruma",
    "ev-worlds-pilgrims-srivasa-praise",
    "ev-month-stored-prasada",
    "ev-jagamohana-dance-govinda-crosses",
@@ -13984,7 +14521,6 @@
    "ev-last-twelve-years-gambhira",
    "ev-jagadananda-visits-shachi",
    "ev-lord-disappearance",
-   "ev-jiva-meets-nityananda-navadvipa",
    "ev-srinivasa-khardaha-jahnava",
    "ev-narottama-dream-gaura-kheturi",
    "ev-narottama-dream-ratha-kirtan",
@@ -13992,6 +14528,8 @@
    "ev-narottama-pyre-gambhila",
    "ev-tattva-pancha-tattva",
    "ev-tattva-vraja-associates-in-gaura-lila",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-gaura-madhyadvipa-midday-kirtan",
    "ev-tattva-nityananda-advaita",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-pancha-tattva-prema-flood"
@@ -14401,6 +14939,7 @@
   "lilas": [
    "cc-0051",
    "mkc-0011",
+   "nvm-05-014",
    "apr-0022",
    "pvl-0222",
    "pvl-0257",
@@ -14602,6 +15141,7 @@
    "cc-4077",
    "cc-4078",
    "ccd-0091",
+   "nvm-05-005",
    "cc-4028",
    "cc-4029",
    "cc-4109",
@@ -14744,6 +15284,7 @@
    "ev-jagadananda-advises-sanatana",
    "ev-nityananda-ramachandra-khan",
    "ev-vallabha-bhatta-puri",
+   "ev-jiva-vision-kirtan-srivasa",
    "ev-haridasa-namabhasa-yavanas",
    "ev-haridasa-sthavara-jangama-deliverance",
    "ev-haridasa-departure",
@@ -16479,6 +17020,7 @@
    "lcm-0246",
    "cc-4098",
    "vv-0065",
+   "nvm-05-005",
    "nvl-0025",
    "lcm-0004",
    "cb-0008",
@@ -16510,6 +17052,7 @@
    "ev-gauda-devotees-arrive-puri",
    "ev-kuliya-shachi-meeting",
    "ev-gauda-devotees-yearly-visit",
+   "ev-jiva-vision-kirtan-srivasa",
    "ev-narottama-gauda-pilgrimage"
   ],
   "related_by": [
@@ -16880,6 +17423,7 @@
    "kcm-0022",
    "lcm-0066",
    "mkc-0034",
+   "nvm-06-003",
    "cb-0063",
    "cb-0074",
    "apr-0053",
@@ -16917,6 +17461,7 @@
    "cc-4098",
    "vv-0065",
    "jcm-0096",
+   "nvm-19-003",
    "cc-0115"
   ],
   "events": [
@@ -17999,7 +18544,9 @@
   "section": "Спутники",
   "lilas": [
    "jcm-0016",
+   "nvm-13-005",
    "apr-0053",
+   "nvm-13-006",
    "mkc-0146",
    "apr-0088",
    "cb-3035",
@@ -18145,6 +18692,7 @@
    "cc-2104",
    "gkd-0122",
    "brt-0030",
+   "nvm-04-003",
    "cc-2111",
    "gkd-0131",
    "cb-3073",
@@ -18161,6 +18709,8 @@
    "cc-4077",
    "cc-4088",
    "ccd-0091",
+   "nvm-04-004",
+   "nvm-04-005",
    "pv-0016",
    "cc-4105",
    "cc-4110",
@@ -18178,6 +18728,8 @@
    "jcm-0007",
    "cb-0009",
    "jcm-0098",
+   "nvm-19-022",
+   "nvm-19-029",
    "cc-1043",
    "cc-1058",
    "cc-2074",
@@ -18185,7 +18737,9 @@
   ],
   "events": [
    "ev-gauda-king-persecutes-navadvipa",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
    "ev-gaura-studies-with-advaita",
+   "ev-nimai-vidyanagara-debate",
    "ev-farewell-shantipura",
    "ev-sarvabhauma-meeting",
    "ev-departure-for-south",
@@ -18243,6 +18797,8 @@
    "ev-sanatana-puri-sores",
    "ev-vallabha-bhatta-puri",
    "ev-ramachandra-puri-criticism",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-govinda-bhashya-prophecy",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-chaitanya-dasa-feast",
    "ev-haridasa-departure",
@@ -18255,7 +18811,8 @@
    "ev-virachandra-pilgrimage",
    "ev-virachandra-marriage",
    "ev-srinivasa-gadadhara-puri",
-   "ev-narottama-dream-ratha-kirtan"
+   "ev-narottama-dream-ratha-kirtan",
+   "ev-vidya-vachaspati-house"
   ],
   "related_by": [
    {
@@ -19089,6 +19646,7 @@
    "pvl-0052",
    "pv-0001",
    "cb-3095",
+   "nvm-19-041",
    "cc-0043",
    "cc-0050",
    "cc-0066",
@@ -19795,6 +20353,7 @@
    "jcm-0094",
    "mkc-0188",
    "nvl-0007",
+   "nvm-04-003",
    "pvl-0195",
    "cc-0345",
    "bkm-0003",
@@ -19883,6 +20442,10 @@
    "pvl-0131",
    "vlb-0011",
    "cc-3031",
+   "nvm-04-004",
+   "nvm-18-004",
+   "nvm-18-006",
+   "nvm-18-007",
    "gkd-0168",
    "cc-0148",
    "cc-4128",
@@ -20010,6 +20573,8 @@
    "anv-0052",
    "cc-0023",
    "cc-0030",
+   "nvm-19-040",
+   "nvm-19-041",
    "cc-0039",
    "cc-0055",
    "cc-0066",
@@ -20118,6 +20683,9 @@
    "ev-raghunatha-dasa-joins-lord",
    "ev-chaitanya-swoons-vallabha-words",
    "ev-rupa-sanatana-vrindavana-vairagya",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
+   "ev-jiva-dream-mathura",
    "ev-jagadananda-vrindavana-pilu",
    "ev-raghunatha-bhatta-sent-vrindavana",
    "ev-gopala-bhatta-comes-vrindavana",
@@ -20182,7 +20750,8 @@
    "ev-tattva-gaura-external-cause",
    "ev-gosvamis-ancestry",
    "ev-pradyumna-mishra-hears-ramananda",
-   "ev-four-sampradayas"
+   "ev-four-sampradayas",
+   "ev-bhaktivinoda-vision-kamala-manjari"
   ],
   "summary": "в Кришна-лиле — Рупа-манджари, первая среди служанок, следующих… (ГГД 180) и др.; гуру — Шри Чайтанья Махапрабху; происхождение — Карната; уход — Шравана шукла-двадаши; самадхи — Храм Радха-Дамодары (Вриндаван)",
   "card": "parshadas/cards/rupa-gosvami.yaml",
@@ -20768,6 +21337,7 @@
    "jcm-0094",
    "mkc-0188",
    "nvl-0007",
+   "nvm-04-003",
    "pvl-0195",
    "cc-0345",
    "bkm-0003",
@@ -20905,6 +21475,10 @@
    "vlb-0011",
    "cc-4093",
    "cc-3031",
+   "nvm-04-004",
+   "nvm-18-004",
+   "nvm-18-006",
+   "nvm-18-007",
    "cc-4125",
    "pv-0006",
    "cc-4128",
@@ -21068,6 +21642,9 @@
    "ev-chaitanya-swoons-vallabha-words",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-rupa-sanatana-vrindavana-vairagya",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
+   "ev-jiva-dream-mathura",
    "ev-jagadananda-vrindavana-pilu",
    "ev-raghunatha-bhatta-sent-vrindavana",
    "ev-gopala-bhatta-comes-vrindavana",
@@ -21627,6 +22204,7 @@
    "pad-0314",
    "cb-0008",
    "jcm-0097",
+   "nvm-01-005",
    "cb-1088",
    "cc-0066",
    "cc-0093",
@@ -21645,6 +22223,7 @@
    "ev-advaita-jnana-again",
    "ev-katwa-khanda-memorial-festivals",
    "ev-chand-raya-deliverance",
+   "ev-navadvipa-dhama-glory",
    "ev-tattva-chaitanya-gives-rare-prema",
    "ev-tattva-bhakti-kalpataru"
   ],
@@ -22279,6 +22858,7 @@
    "cc-2099",
    "cc-2108",
    "cc-4100",
+   "nvm-14-005",
    "cc-0123",
    "nvv-0012",
    "nvv-0015",
@@ -22396,6 +22976,7 @@
    "ev-pundarika-odana-shashthi-slap",
    "ev-shantipura-after-natashala",
    "ev-narendra-jala-keli",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
    "ev-haridasa-departure",
    "ev-virachandra-birth",
    "ev-advaita-departure",
@@ -22525,6 +23106,7 @@
    "mkc-0251",
    "vv-0067",
    "cc-4065",
+   "nvm-06-001",
    "pvl-0026",
    "pvl-0007",
    "jcm-0100",
@@ -22565,6 +23147,7 @@
    "ev-associates-of-nityananda-wonders",
    "ev-virachandra-secret-counsel",
    "ev-panihati-chida-dadhi",
+   "ev-nityananda-jiva-parikrama-simantadvipa",
    "ev-advaita-jnana-again",
    "ev-lord-sends-seat-gopala-bhatta",
    "ev-lord-disappearance",
@@ -22724,6 +23307,7 @@
    "kcm-0025",
    "lcm-0070",
    "mkc-0038",
+   "nvm-15-005",
    "vv-0007",
    "vv-0037",
    "pad-0436",
@@ -23228,10 +23812,13 @@
    "cb-1069",
    "lcm-0137",
    "cb-2046",
+   "nvm-10-007",
    "cb-1066",
    "cb-2052",
    "cc-0129",
    "cc-0260",
+   "nvm-06-008",
+   "nvm-06-011",
    "cb-1067",
    "pad-0342",
    "gkr-0003",
@@ -23244,9 +23831,12 @@
    "mkc-0235",
    "mkc-0228",
    "vv-0065",
+   "nvm-06-009",
    "cb-0008",
    "jcm-0096",
-   "jcm-0097"
+   "jcm-0097",
+   "nvm-19-009",
+   "nvm-19-010"
   ],
   "events": [
    "ev-childhood-companions",
@@ -23255,6 +23845,7 @@
    "ev-haridasa-scars-mahaprakasha",
    "ev-reasons-advent-told-devotees",
    "ev-nagara-kirtana-kazi",
+   "ev-gaura-ekadashi-parikrama",
    "ev-gaura-arati-navadvipa",
    "ev-govinda-joins-lord",
    "ev-leaving-navadvipa",
@@ -23264,7 +23855,8 @@
    "ev-prataparudra-watches-devotees-roof",
    "ev-gauda-devotees-arrive-puri",
    "ev-kuliya-shachi-meeting",
-   "ev-gauda-devotees-yearly-visit"
+   "ev-gauda-devotees-yearly-visit",
+   "ev-nityananda-jiva-parikrama-simantadvipa"
   ],
   "related_by": [
    {
@@ -25656,6 +26248,7 @@
    "cb-1074",
    "cc-0096",
    "pvl-0192",
+   "nvm-14-005",
    "cb-0008",
    "jcm-0097",
    "cb-3068",
@@ -25665,7 +26258,8 @@
    "ev-srivasa-saved-from-death",
    "ev-shrivasa-sees-chaturbhuja",
    "ev-narayani-remnants",
-   "ev-vrindavana-dasa-birth"
+   "ev-vrindavana-dasa-birth",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa"
   ],
   "related_by": [
    {
@@ -25772,6 +26366,7 @@
    "ccd-0072",
    "ccd-0077",
    "ccd-0078",
+   "nvm-04-005",
    "pv-0016",
    "cc-4105",
    "pvl-0002",
@@ -25805,6 +26400,7 @@
    "ev-prataparudra-mercy",
    "ev-departure-for-gauda",
    "ev-yavana-governor-boat",
+   "ev-govinda-bhashya-prophecy",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-chaitanya-dasa-feast",
    "ev-advaita-jnana-again",
@@ -26308,7 +26904,8 @@
    "cb-3051",
    "brt-0030",
    "cb-0009",
-   "jcm-0098"
+   "jcm-0098",
+   "nvm-19-022"
   ],
   "events": [
    "ev-gauda-king-persecutes-navadvipa",
@@ -26345,7 +26942,8 @@
    "cb-3054",
    "jcm-0086",
    "jcm-0097",
-   "cb-2037"
+   "cb-2037",
+   "nvm-19-030"
   ],
   "events": [
    "ev-srivasa-saved-from-death",
@@ -27954,6 +28552,7 @@
    "cc-0011",
    "cc-0023",
    "cc-0030",
+   "nvm-19-041",
    "cc-0039",
    "cc-0055",
    "cc-0066",
@@ -29015,6 +29614,7 @@
    "cb-0113",
    "cb-0114",
    "jcm-0016",
+   "nvm-06-006",
    "cc-2084",
    "jcm-0082",
    "cb-3057",
@@ -29032,6 +29632,7 @@
   "events": [
    "ev-haridasa-muslim-governor",
    "ev-gauda-king-persecutes-navadvipa",
+   "ev-nagara-kirtana-kazi",
    "ev-mukunda-dasa-peacock",
    "ev-lord-warns-prataparudra-war",
    "ev-gauda-sultan-sees-crowds",
@@ -29733,7 +30334,11 @@
    "nvv-0035",
    "nvv-0034",
    "krn-0035",
-   "vv-0032"
+   "vv-0032",
+   "nvm-01-005",
+   "nvm-03-002",
+   "nvm-18-009",
+   "nvm-19-041"
   ],
   "events": [
    "ev-nityananda-kundalitala",
@@ -29775,7 +30380,9 @@
    "ev-narottama-sacred-thread",
    "ev-virachandra-pilgrimage",
    "ev-virachandra-jiva-vrindavana",
-   "ev-tattva-nityananda-advaita"
+   "ev-tattva-nityananda-advaita",
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-parikrama-order"
   ],
   "summary": "в Кришна-лиле — Ревати (ГГД 65) и др.; происхождение — Салиграм; явление — вайшакха шукла-навами, в один день с явлением Ситы-деви; уход — вайшакха шукла-навами",
   "card": "parshadas/cards/jahnava.yaml",
@@ -31432,15 +32039,100 @@
   "note": "племянник Рупы и Санатаны; один из шести Госвами",
   "section": "Спутники",
   "lilas": [
+   "nvm-06-004",
+   "nvm-06-005",
+   "nvm-06-002",
+   "nvm-06-012",
+   "nvm-06-007",
+   "nvm-06-010",
+   "nvm-10-004",
+   "nvm-13-001",
+   "nvm-14-002",
+   "nvm-16-007",
+   "nvm-15-014",
+   "nvm-05-006",
+   "nvm-05-010",
+   "nvm-06-003",
+   "nvm-15-005",
    "brt-0028",
+   "nvm-06-006",
+   "nvm-06-008",
+   "nvm-06-011",
+   "nvm-15-016",
    "bkm-0006",
    "brt-0031",
+   "nvm-04-003",
    "pvl-0195",
    "brt-0032",
    "vlb-0004",
    "gkd-0163",
    "brt-0041",
    "cc-0135",
+   "nvm-04-001",
+   "nvm-04-002",
+   "nvm-04-004",
+   "nvm-04-006",
+   "nvm-04-005",
+   "nvm-04-007",
+   "nvm-05-001",
+   "nvm-05-002",
+   "nvm-05-004",
+   "nvm-05-007",
+   "nvm-05-012",
+   "nvm-05-003",
+   "nvm-05-005",
+   "nvm-05-008",
+   "nvm-05-013",
+   "nvm-05-009",
+   "nvm-06-001",
+   "nvm-06-009",
+   "nvm-07-001",
+   "nvm-07-004",
+   "nvm-07-005",
+   "nvm-07-007",
+   "nvm-08-001",
+   "nvm-08-002",
+   "nvm-08-003",
+   "nvm-08-004",
+   "nvm-08-008",
+   "nvm-09-001",
+   "nvm-09-005",
+   "nvm-10-001",
+   "nvm-10-005",
+   "nvm-10-008",
+   "nvm-11-001",
+   "nvm-11-003",
+   "nvm-11-006",
+   "nvm-11-009",
+   "nvm-12-001",
+   "nvm-12-004",
+   "nvm-13-007",
+   "nvm-13-008",
+   "nvm-13-009",
+   "nvm-13-010",
+   "nvm-13-013",
+   "nvm-14-001",
+   "nvm-14-005",
+   "nvm-15-001",
+   "nvm-15-006",
+   "nvm-15-010",
+   "nvm-15-015",
+   "nvm-15-017",
+   "nvm-15-018",
+   "nvm-16-001",
+   "nvm-16-008",
+   "nvm-16-010",
+   "nvm-17-001",
+   "nvm-17-002",
+   "nvm-17-003",
+   "nvm-17-004",
+   "nvm-18-001",
+   "nvm-18-002",
+   "nvm-18-003",
+   "nvm-18-004",
+   "nvm-18-005",
+   "nvm-18-006",
+   "nvm-18-007",
    "anv-0006",
    "krn-0002",
    "brt-0038",
@@ -31448,6 +32140,7 @@
    "cc-4051",
    "brt-0040",
    "gkd-0164",
+   "nvm-18-008",
    "pvl-0198",
    "pvl-0199",
    "cc-3006",
@@ -31554,7 +32247,25 @@
    "cc-3131"
   ],
   "events": [
+   "ev-prithu-kunda-origin",
+   "ev-parvati-simantadvipa",
+   "ev-bhagiratha-ganga-nagara",
+   "ev-balarama-kills-mayasura",
+   "ev-jagannatha-shabaras-saradanga",
+   "ev-vishvakarma-sixty-ponds",
+   "ev-devas-uchcha-hatta",
+   "ev-matsya-vedas-vidyanagara",
+   "ev-rama-modadrumadvipa",
+   "ev-balarama-kolasura",
+   "ev-vishnusvami-rudradvipa",
+   "ev-advaita-calls-lord",
+   "ev-ganga-ghat-pranks",
+   "ev-study-gangadasa",
+   "ev-marriage-lakshmipriya",
    "ev-sanatana-dream-bhagavata",
+   "ev-nagara-kirtana-kazi",
+   "ev-shridhara-kholavecha",
+   "ev-rasa-lila-navadvipa",
    "ev-nityananda-preaching-gauda",
    "ev-ramakeli-rupa-sanatana",
    "ev-rupa-sanatana-renunciation",
@@ -31562,10 +32273,37 @@
    "ev-rupa-year-gauda",
    "ev-gopala-milk-rupa-sanatana",
    "ev-gosvamis-reveal-lost-tirthas",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-govinda-bhashya-prophecy",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-jiva-vision-kirtan-srivasa",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-simantadvipa",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-nityananda-jiva-parikrama-deva-palli",
+   "ev-prophecy-nrisimha-temple-deva-palli",
+   "ev-nityananda-jiva-parikrama-godruma",
+   "ev-mahavaranasi-shiva-gaura-name",
+   "ev-shiva-parvati-bow-nityananda",
+   "ev-nityananda-jiva-parikrama-madhyadvipa",
+   "ev-nityananda-jiva-parikrama-koladvipa",
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-nityananda-jiva-parikrama-ritudvipa",
+   "ev-nityananda-jiva-parikrama-vidyanagara",
+   "ev-nityananda-predicts-jiva-books",
+   "ev-nityananda-jiva-parikrama-jahnudvipa",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
+   "ev-nityananda-jiva-parikrama-bilvapaksha",
+   "ev-nityananda-jiva-questions",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
+   "ev-jiva-dream-mathura",
    "ev-gopala-bhatta-comes-vrindavana",
    "ev-prema-for-srinivasa",
    "ev-jiva-comes-to-vrindavana",
-   "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-exiled-by-rupa",
    "ev-gopala-mathura-vitthaleshvara",
    "ev-srinivasa-journey-vrindavana",
@@ -33479,6 +34217,10 @@
    "pad-0012",
    "pad-0300",
    "pad-0017",
+   "nvm-05-004",
+   "nvm-05-007",
+   "nvm-05-003",
+   "nvm-05-005",
    "pvl-0021",
    "nvl-0041",
    "pad-0283",
@@ -33488,6 +34230,9 @@
    "ev-kirtan-festival-advaita-house",
    "ev-goshtha-lila-navadvipa",
    "ev-lament-after-lord-leaves",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-jiva-vision-kirtan-srivasa",
    "ev-srinivasa-vishnupriya-mercy",
    "ev-jahnava-kheturi"
   ],
@@ -33524,6 +34269,9 @@
    "cb-1054",
    "pad-0070",
    "cc-2080",
+   "nvm-05-004",
+   "nvm-05-003",
+   "nvm-16-010",
    "pvl-0021",
    "pvl-0023",
    "pvl-0027",
@@ -33533,6 +34281,9 @@
    "ev-nityananda-meal-shachi",
    "ev-lament-after-lord-leaves",
    "ev-lord-eats-shachi-offering",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-nityananda-jiva-parikrama-bilvapaksha",
    "ev-srinivasa-vishnupriya-mercy",
    "ev-srinivasa-khardaha-jahnava",
    "ev-abhirama-whip-srinivasa"
@@ -37469,8 +38220,10 @@
   "note": "спутник, живший в Навадвипе (ЧЧ Ади 12 — в ветви Адвайты; ЧЧ Ади 8.59 — ученик Гададхары Пандита: одно ли это лицо — не выяснено); по Маджумдару — вероятный автор пады ПК 2285 о санньясе",
   "section": "Спутники",
   "lilas": [
+   "nvm-15-004",
    "pad-0273",
    "pad-0050",
+   "nvm-15-006",
    "cc-0098",
    "pad-0068",
    "pad-0269",
@@ -37478,8 +38231,10 @@
    "cc-0173"
   ],
   "events": [
+   "ev-ramanuja-navadvipa",
    "ev-gaura-dance-with-devotees",
    "ev-sannyasa-katwa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
    "ev-kaviraja-ordered-to-write-cc",
    "ev-tattva-bhakti-kalpataru"
   ],
@@ -37852,6 +38607,7 @@
   "note": "основатель пушти-марги (1479–1531), в вартах — «Шри Ачарьяджи Махапрабху»; ЧЧ Мадхья 19, Антья 7; не путать с @vallabhacharya (отец Лакшмиприи)",
   "section": "Спутники",
   "lilas": [
+   "nvm-15-014",
    "vlb-0005",
    "vlb-0003",
    "vlb-0004",
@@ -37882,6 +38638,7 @@
    "cc-4083"
   ],
   "events": [
+   "ev-vishnusvami-rudradvipa",
    "ev-vallabha-bhatta-adaila",
    "ev-vallabha-kashi-holy-name",
    "ev-jiva-vallabha-dispute",
@@ -38101,6 +38858,7 @@
   "note": "нимбаркит-дигвиджайи, побеждённый Нимаем (ЧЧ Ади 16)",
   "section": "Спутники",
   "lilas": [
+   "nvm-16-005",
    "gkd-0042",
    "bkm-0010",
    "brt-0050",
@@ -38246,8 +39004,93 @@
   "en": "Bhaktivinoda Thakura (Sacchidananda)",
   "note": "ачарья XIX в.; открыл место явления Господа, установил Божества Гауры и Вишнуприи (1894)",
   "section": "Спутники",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-01-001",
+   "nvm-01-005",
+   "nvm-03-002",
+   "nvm-18-009",
+   "nvm-19-001",
+   "nvm-19-002",
+   "nvm-19-003",
+   "nvm-19-004",
+   "nvm-19-005",
+   "nvm-19-006",
+   "nvm-19-007",
+   "nvm-19-008",
+   "nvm-19-009",
+   "nvm-19-010",
+   "nvm-19-011",
+   "nvm-19-012",
+   "nvm-19-013",
+   "nvm-19-014",
+   "nvm-19-015",
+   "nvm-19-016",
+   "nvm-19-017",
+   "nvm-19-018",
+   "nvm-19-019",
+   "nvm-19-020",
+   "nvm-19-021",
+   "nvm-19-022",
+   "nvm-19-023",
+   "nvm-19-024",
+   "nvm-19-025",
+   "nvm-19-026",
+   "nvm-19-027",
+   "nvm-19-028",
+   "nvm-19-029",
+   "nvm-19-030",
+   "nvm-19-031",
+   "nvm-19-032",
+   "nvm-19-033",
+   "nvm-19-034",
+   "nvm-19-035",
+   "nvm-19-036",
+   "nvm-19-037",
+   "nvm-19-038",
+   "nvm-19-039",
+   "nvm-19-040",
+   "nvm-19-041"
+  ],
+  "events": [
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-study-gangadasa",
+   "ev-bharadvaja-tila",
+   "ev-jagannatha-shabaras-saradanga",
+   "ev-parvati-simantadvipa",
+   "ev-nimbarka-bilvapaksha",
+   "ev-nagara-kirtana-kazi",
+   "ev-shridhara-kholavecha",
+   "ev-bhaktivinoda-vision-nrisimha-blessing",
+   "ev-indra-surabhi-godruma",
+   "ev-gaura-cowherds-godruma",
+   "ev-seven-rishis-majida",
+   "ev-naimisha-shaunaka-suta",
+   "ev-diva-dasa-pushkara",
+   "ev-devas-uchcha-hatta",
+   "ev-gaura-madhyadvipa-midday-kirtan",
+   "ev-gaura-panchaveni-bath",
+   "ev-varaha-vasudeva",
+   "ev-vidya-vachaspati-house",
+   "ev-samudra-sena-bhima",
+   "ev-gaura-appears-jayadeva",
+   "ev-gaura-sankirtana-vaninatha-house",
+   "ev-gaura-kirtan-radha-kunda-ritudvipa",
+   "ev-bhaktivinoda-vision-krishna-balarama-calves",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
+   "ev-devananda-rebuked",
+   "ev-jahnu-ganga",
+   "ev-bhaktivinoda-vision-bhishma-instruction",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit",
+   "ev-narada-vaikunthapur-gaura",
+   "ev-bhaktivinoda-vision-surya-arka-tila",
+   "ev-pandavas-mahatpur",
+   "ev-bhaktivinoda-vision-draupadi-prasada",
+   "ev-rudras-rudradvipa",
+   "ev-bhaktivinoda-vision-sayujya-shiva",
+   "ev-bhaktivinoda-vision-kamala-manjari"
+  ],
   "summary": "в Кришна-лиле — Камала-манджари, служанка Рупа-манджари в свите… (его песни…) и др.; происхождение — Ула-Бирнагар; явление — шукла-трайодаши бхадры; уход — амавасья ашадхи, в день ухода Гададхары Пандита — по T и нашему…; самадхи — Радха-кунда и Шьяма-кунда, Гадигачха (Годрума), пруд Горадаха",
   "card": "parshadas/cards/bhaktivinoda.yaml",
   "article": {
@@ -38984,6 +39827,10 @@
    "lcm-0025",
    "lcm-0026",
    "lcm-0028",
+   "nvm-07-002",
+   "nvm-07-003",
+   "nvm-13-003",
+   "nvm-15-002",
    "pvl-0190",
    "gkd-0005",
    "mkc-0010",
@@ -39020,6 +39867,7 @@
    "anv-0054",
    "cc-0018",
    "cc-3109",
+   "nvm-19-034",
    "cc-0070"
   ],
   "events": [
@@ -39036,6 +39884,9 @@
    "ev-narada-vaikuntha",
    "ev-narada-goloka-gaura",
    "ev-narada-shvetadvipa-balarama",
+   "ev-narada-suvarna-sena",
+   "ev-sciences-vidyanagara",
+   "ev-narada-vaikunthapur-gaura",
    "ev-srivasa-saved-from-death",
    "ev-associates-descend",
    "ev-ekadashi-instruction-shachi",
@@ -39083,6 +39934,16 @@
    "apr-0001",
    "pvl-0205",
    "pvl-0240",
+   "nvm-05-014",
+   "nvm-06-005",
+   "nvm-08-006",
+   "nvm-09-004",
+   "nvm-13-003",
+   "nvm-15-012",
+   "nvm-15-011",
+   "nvm-16-002",
+   "nvm-16-003",
+   "nvm-15-013",
    "cb-3032",
    "cb-3117",
    "apr-0011",
@@ -39191,6 +40052,8 @@
    "cc-3070",
    "cc-3111",
    "apr-0131",
+   "nvm-08-002",
+   "nvm-08-003",
    "pv-0017",
    "pad-0170",
    "cb-3097",
@@ -39209,6 +40072,10 @@
    "cc-0017",
    "cb-1033",
    "cb-2024",
+   "nvm-19-016",
+   "nvm-19-029",
+   "nvm-19-038",
+   "nvm-19-039",
    "cc-0060",
    "cc-0070",
    "cc-0071",
@@ -39223,6 +40090,15 @@
    "ev-narada-kailasa-message",
    "ev-narada-brahmaloka",
    "ev-advaita-advent-cause",
+   "ev-brahma-steals-calves-haridasa",
+   "ev-parvati-simantadvipa",
+   "ev-markandeya-surabhi",
+   "ev-shiva-hamsa-naimisha",
+   "ev-sciences-vidyanagara",
+   "ev-rudras-rudradvipa",
+   "ev-shankaracharya-rudradvipa",
+   "ev-nimbarka-bilvapaksha",
+   "ev-vishnusvami-rudradvipa",
    "ev-shiva-receives-ekamra-kashiraja",
    "ev-bhrigu-tests-trimurti",
    "ev-advaita-pilgrimage",
@@ -39291,6 +40167,8 @@
    "ev-sanatana-shiksha-aishvarya-madhurya",
    "ev-atmarama-sixty-one",
    "ev-sanatana-puri-sores",
+   "ev-mahavaranasi-shiva-gaura-name",
+   "ev-shiva-parvati-bow-nityananda",
    "ev-nama-rahasya-patala-haridasa-samadhi",
    "ev-gambhira-divine-madness",
    "ev-nityananda-returns-to-puri",
@@ -39301,6 +40179,9 @@
    "ev-legend-shiva-bhuvaneshvara",
    "ev-tattva-nityananda-advaita",
    "ev-avatara-kinds",
+   "ev-naimisha-shaunaka-suta",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
+   "ev-bhaktivinoda-vision-sayujya-shiva",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava"
   ],
@@ -39336,6 +40217,7 @@
    "lcm-0014",
    "lcm-0015",
    "lcm-0023",
+   "nvm-06-005",
    "cb-3117",
    "lcm-0029",
    "cc-0195",
@@ -39352,7 +40234,9 @@
    "cc-1113",
    "gkr-0068",
    "mkc-0216",
-   "cb-0003"
+   "nvm-08-003",
+   "cb-0003",
+   "nvm-19-006"
   ],
   "events": [
    "ev-narada-dvaraka-rukmini",
@@ -39361,6 +40245,7 @@
    "ev-parvati-mahaprasada-vow",
    "ev-narada-kailasa-message",
    "ev-narada-jagannatha-nilachala",
+   "ev-parvati-simantadvipa",
    "ev-bhrigu-tests-trimurti",
    "ev-associates-descend",
    "ev-goddesses-visit-newborn",
@@ -39374,6 +40259,7 @@
    "ev-udupi-tattvavadis",
    "ev-south-wilderness",
    "ev-vraja-parikrama",
+   "ev-shiva-parvati-bow-nityananda",
    "ev-tattva-nityananda-advaita"
   ]
  },
@@ -39395,9 +40281,17 @@
    "cup-0002",
    "lcm-0021",
    "mkc-0011",
+   "nvm-05-014",
    "apr-0022",
    "pvl-0222",
    "pvl-0257",
+   "nvm-07-006",
+   "nvm-09-002",
+   "nvm-09-004",
+   "nvm-11-002",
+   "nvm-13-002",
+   "nvm-13-003",
+   "nvm-16-003",
    "cb-3092",
    "cb-3117",
    "apr-0023",
@@ -39450,6 +40344,8 @@
    "cc-3067",
    "cc-3070",
    "cc-3120",
+   "nvm-05-001",
+   "nvm-11-001",
    "pad-0170",
    "cc-4162",
    "gkd-0186",
@@ -39467,8 +40363,11 @@
    "jcm-0098",
    "cc-4036",
    "cc-1013",
+   "nvm-02-002",
    "cc-0017",
    "cc-0026",
+   "nvm-19-016",
+   "nvm-19-029",
    "cc-0060",
    "cc-0066",
    "cc-0070",
@@ -39485,6 +40384,13 @@
    "ev-brahma-pippalada-gaura-prophecy",
    "ev-haridasa-previous-birth",
    "ev-brahma-steals-calves-haridasa",
+   "ev-nrisimha-rests-deva-palli",
+   "ev-seven-rishis-majida",
+   "ev-shiva-hamsa-naimisha",
+   "ev-varaha-vasudeva",
+   "ev-brahma-sarasvati-vidyanagara",
+   "ev-sciences-vidyanagara",
+   "ev-nimbarka-bilvapaksha",
    "ev-brahmana-doubts-nityananda-conduct",
    "ev-bhrigu-tests-trimurti",
    "ev-haridasa-comes-to-advaita",
@@ -39523,6 +40429,8 @@
    "ev-govardhana-visit",
    "ev-sanatana-shiksha-aishvarya-madhurya",
    "ev-varanasi-sannyasis",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-koladvipa",
    "ev-gambhira-divine-madness",
    "ev-vision-vraja-before-departure",
    "ev-nityananda-marriage",
@@ -39534,8 +40442,11 @@
    "ev-tattva-gaura-scripture-proofs",
    "ev-maya-tests-haridasa",
    "ev-tattva-chaitanya-gives-rare-prema",
+   "ev-navadvipa-dhama-glory",
    "ev-avatara-kinds",
    "ev-tattva-krishna-mula-narayana",
+   "ev-naimisha-shaunaka-suta",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava"
   ]
@@ -39744,6 +40655,8 @@
    "lcm-0012",
    "lcm-0023",
    "lcm-0024",
+   "nvm-16-003",
+   "nvm-15-004",
    "cb-3117",
    "apr-0013",
    "jcm-0013",
@@ -39787,11 +40700,13 @@
    "cc-3073",
    "cc-3075",
    "cc-3104",
+   "nvm-15-001",
    "ccd-0097",
    "cc-4169",
    "pad-0209",
    "cc-4036",
    "cc-0019",
+   "nvm-19-034",
    "cc-0066",
    "cc-0070",
    "cc-0072"
@@ -39801,6 +40716,8 @@
    "ev-narada-lakshmi-mahaprasada",
    "ev-narada-jagannatha-nilachala",
    "ev-narada-vaikuntha",
+   "ev-nimbarka-bilvapaksha",
+   "ev-ramanuja-navadvipa",
    "ev-bhrigu-tests-trimurti",
    "ev-advaita-pilgrimage",
    "ev-navadvipa-vaishnavas-before-advent",
@@ -39828,9 +40745,11 @@
    "ev-vraja-parikrama",
    "ev-sanatana-shiksha-aishvarya-madhurya",
    "ev-atmarama-sixty-one",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
    "ev-shikshashtaka-recitation",
    "ev-maya-tests-haridasa",
    "ev-tattva-shaktis",
+   "ev-narada-vaikunthapur-gaura",
    "ev-tattva-dasya-bhakta-bhava"
   ]
  },
@@ -39913,6 +40832,9 @@
    "lcm-0017",
    "apr-0022",
    "pvl-0257",
+   "nvm-16-002",
+   "nvm-16-003",
+   "nvm-16-006",
    "lcm-0034",
    "lcm-0050",
    "lcm-0203",
@@ -39923,12 +40845,14 @@
    "pv-0017",
    "cb-0004",
    "cc-4036",
+   "nvm-19-007",
    "cc-0062",
    "cc-0070"
   ],
   "events": [
    "ev-brahma-hamsa-bhagavata-origin",
    "ev-brahma-steals-calves-haridasa",
+   "ev-nimbarka-bilvapaksha",
    "ev-gods-praise-lord-in-womb",
    "ev-puppy-deliverance",
    "ev-toll-collector-binds-mukunda",
@@ -39956,6 +40880,7 @@
   "section": "Небожители и мудрецы",
   "lilas": [
    "lcm-0017",
+   "nvm-13-003",
    "apr-0013",
    "cb-0069",
    "cb-1037",
@@ -39975,6 +40900,8 @@
    "cb-0004",
    "cc-0017",
    "cc-0021",
+   "nvm-19-020",
+   "nvm-19-036",
    "cc-0037",
    "cc-0095",
    "cc-0160",
@@ -39984,6 +40911,7 @@
   ],
   "events": [
    "ev-brahma-hamsa-bhagavata-origin",
+   "ev-sciences-vidyanagara",
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage",
    "ev-six-armed-form-nityananda",
@@ -40000,6 +40928,8 @@
    "ev-tattva-nityananda-advaita",
    "ev-avatara-kinds",
    "ev-tattva-kaitava",
+   "ev-gaura-panchaveni-bath",
+   "ev-pandavas-mahatpur",
    "ev-tattva-gaura-scripture-proofs"
   ],
   "related_by": [
@@ -40025,12 +40955,14 @@
    "lcm-0019",
    "pad-0026",
    "pad-0333",
-   "cc-0034"
+   "cc-0034",
+   "nvm-19-036"
   ],
   "events": [
    "ev-vraja-parikrama",
    "ev-brahma-yuga-avatara-discourse",
-   "ev-tattva-gaura-scripture-proofs"
+   "ev-tattva-gaura-scripture-proofs",
+   "ev-pandavas-mahatpur"
   ]
  },
  {
@@ -40059,6 +40991,10 @@
   "note": "река Ганга как божество; место — #ganga",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "nvm-06-002",
+   "nvm-05-011",
+   "nvm-11-005",
+   "nvm-13-011",
    "apr-0005",
    "apr-0020",
    "mkc-0003",
@@ -40083,9 +41019,14 @@
    "ccd-0046",
    "ccd-0047",
    "cb-3047",
-   "cc-2085"
+   "cc-2085",
+   "nvm-19-031"
   ],
   "events": [
+   "ev-bhagiratha-ganga-nagara",
+   "ev-ganga-austerity-gaura-promise",
+   "ev-ocean-ganga-samudragarh",
+   "ev-jahnu-ganga",
    "ev-advaita-summons-tirthas",
    "ev-advaita-name-digvijayi",
    "ev-navadvipa-vaishnavas-before-advent",
@@ -40118,6 +41059,7 @@
   "note": "Ганешвара, сын Парвати",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "nvm-07-006",
    "apr-0052",
    "lcm-0078",
    "pad-0464",
@@ -40130,6 +41072,7 @@
    "jcm-0060"
   ],
   "events": [
+   "ev-nrisimha-rests-deva-palli",
    "ev-gopala-dasa-birth",
    "ev-ganga-rises-to-lord",
    "ev-marriage-vishnupriya",
@@ -40171,6 +41114,9 @@
   "section": "Небожители и мудрецы",
   "lilas": [
    "gkd-0003",
+   "nvm-05-014",
+   "nvm-07-006",
+   "nvm-08-005",
    "gkd-0005",
    "mkc-0015",
    "mkc-0016",
@@ -40194,10 +41140,14 @@
    "cc-3099",
    "cc-4081",
    "cc-4060",
-   "gkd-0186"
+   "gkd-0186",
+   "nvm-19-013"
   ],
   "events": [
    "ev-brahma-prayer-milk-ocean",
+   "ev-brahma-steals-calves-haridasa",
+   "ev-nrisimha-rests-deva-palli",
+   "ev-indra-surabhi-godruma",
    "ev-associates-descend",
    "ev-gods-praise-lord-in-womb",
    "ev-gaura-appearance",
@@ -40462,6 +41412,7 @@
   "lilas": [
    "cb-0066",
    "cb-1072",
+   "nvm-06-006",
    "apr-0105",
    "mkc-0199",
    "mkc-0200",
@@ -40472,6 +41423,7 @@
   "events": [
    "ev-nityananda-childhood-dramas",
    "ev-mukunda-danda-prasada",
+   "ev-nagara-kirtana-kazi",
    "ev-arrival-mathura",
    "ev-krishnadasa-mathura-guide",
    "ev-mathura-sightseeing",
@@ -40550,6 +41502,8 @@
    "pvl-0108",
    "pvl-0140",
    "nvv-0076",
+   "nvm-19-040",
+   "nvm-19-041",
    "cc-0066",
    "cc-4015"
   ],
@@ -40567,7 +41521,8 @@
    "ev-narottama-initiation",
    "ev-jahnava-vrindavana",
    "ev-chand-raya-elephant",
-   "ev-virachandra-pilgrimage"
+   "ev-virachandra-pilgrimage",
+   "ev-bhaktivinoda-vision-kamala-manjari"
   ],
   "related_by": [
    {
@@ -40584,6 +41539,7 @@
   "section": "Небожители и мудрецы",
   "lilas": [
    "apr-0001",
+   "nvm-06-005",
    "cb-3092",
    "apr-0026",
    "gkd-0005",
@@ -40594,6 +41550,7 @@
   ],
   "events": [
    "ev-advaita-advent-cause",
+   "ev-parvati-simantadvipa",
    "ev-brahmana-doubts-nityananda-conduct",
    "ev-advaita-marries-sita",
    "ev-associates-descend",
@@ -40672,6 +41629,8 @@
   "note": "",
   "section": "Небожители и мудрецы",
   "lilas": [
+   "nvm-13-002",
+   "nvm-16-005",
    "cc-0195",
    "gkd-0012",
    "cb-0080",
@@ -40691,9 +41650,10 @@
    "cc-0227"
   ],
   "events": [
+   "ev-brahma-sarasvati-vidyanagara",
+   "ev-keshava-kashmiri-defeat",
    "ev-goddesses-visit-newborn",
    "ev-nimai-pandit-teaching",
-   "ev-keshava-kashmiri-defeat",
    "ev-jagai-madhai-deliverance",
    "ev-shridhara-kholavecha",
    "ev-sannyasa-katwa",
@@ -40721,6 +41681,7 @@
    "pvl-0137",
    "pvl-0160",
    "pvl-0164",
+   "nvm-01-002",
    "cc-4036"
   ],
   "events": [
@@ -40734,7 +41695,8 @@
    "ev-jahnava-vrindavana",
    "ev-chand-raya-deliverance",
    "ev-narottama-delivers-brahmanas",
-   "ev-narasimha-raya-conversion"
+   "ev-narasimha-raya-conversion",
+   "ev-tattva-gaura-scripture-proofs"
   ]
  },
  {
@@ -40763,11 +41725,14 @@
   "section": "Небожители и мудрецы",
   "lilas": [
    "nvv-0062",
-   "nvv-0076"
+   "nvv-0076",
+   "nvm-19-040",
+   "nvm-19-041"
   ],
   "events": [
    "ev-virachandra-vishnupura",
-   "ev-virachandra-pilgrimage"
+   "ev-virachandra-pilgrimage",
+   "ev-bhaktivinoda-vision-kamala-manjari"
   ]
  },
  {
@@ -40972,6 +41937,7 @@
   "note": "олицетворение океана, супруг Ганги",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-11-005",
    "ccd-0042",
    "ccd-0043",
    "ccd-0044",
@@ -40982,6 +41948,7 @@
    "nvv-0022"
   ],
   "events": [
+   "ev-ocean-ganga-samudragarh",
    "ev-farewell-shantipura",
    "ev-journey-to-puri",
    "ev-remuna-gopala",
@@ -42221,9 +43188,11 @@
   "note": "учитель Дживы Госвами в Каши (БР 1); не путать с @madhusudana-sarasvati",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-04-004",
    "brt-0040"
   ],
   "events": [
+   "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-comes-to-vrindavana"
   ],
   "related_by": [
@@ -42408,6 +43377,7 @@
   "note": "богатый горожанин Навадвипы, устроивший свадьбу Господа с Вишнуприей (ЧБ Ади 15)",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-07-003",
    "cb-0087",
    "cb-0108",
    "cb-0109",
@@ -42420,6 +43390,7 @@
    "cc-0131"
   ],
   "events": [
+   "ev-narada-suvarna-sena",
    "ev-vayu-vyadhi-prema",
    "ev-marriage-vishnupriya",
    "ev-chandrashekhara-drama",
@@ -42995,6 +43966,7 @@
   "note": "в его доме Нимай учил (ЧБ Ади); в ванданах — «Санджая»",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-06-003",
    "cb-0075",
    "cb-0086",
    "cb-0088",
@@ -43005,6 +43977,7 @@
    "cc-1020"
   ],
   "events": [
+   "ev-study-gangadasa",
    "ev-nimai-pandit-teaching",
    "ev-vayu-vyadhi-prema",
    "ev-marriage-vishnupriya",
@@ -43657,19 +44630,26 @@
   "note": "запретил киртан, усмирён Господом",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-10-006",
    "cb-2046",
    "brt-0053",
    "cc-0271",
    "gkd-0050",
+   "nvm-06-006",
    "cc-0272",
+   "nvm-10-007",
    "cb-2051",
    "cc-0273",
    "cc-0274",
    "cc-0275",
-   "cb-0008"
+   "cb-0008",
+   "nvm-19-005",
+   "nvm-19-009"
   ],
   "events": [
-   "ev-nagara-kirtana-kazi"
+   "ev-nagara-kirtana-kazi",
+   "ev-gaura-ekadashi-parikrama",
+   "ev-jagannatha-shabaras-saradanga"
   ],
   "related_by": [
    {
@@ -43915,6 +44895,9 @@
   "note": "основатель таттвавады; обрёл Божество Кришны в Удупи",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-16-003",
+   "nvm-16-006",
+   "nvm-15-009",
    "cc-1087",
    "cc-1112",
    "gkd-0092",
@@ -43922,6 +44905,8 @@
    "anv-0052"
   ],
   "events": [
+   "ev-nimbarka-bilvapaksha",
+   "ev-madhva-mahatpur-dream",
    "ev-south-conversions",
    "ev-udupi-tattvavadis",
    "ev-four-sampradayas"
@@ -44417,14 +45402,16 @@
    "cb-1069",
    "cb-2038",
    "pv-0013",
-   "cc-4066"
+   "cc-4066",
+   "nvm-19-038"
   ],
   "events": [
    "ev-advaita-yoga-vasishtha-beating",
    "ev-haridasa-scars-mahaprakasha",
    "ev-shachi-receives-prema",
    "ev-goradaha-crocodile-deliverance",
-   "ev-panihati-chida-dadhi"
+   "ev-panihati-chida-dadhi",
+   "ev-rudras-rudradvipa"
   ]
  },
  {
@@ -44447,9 +45434,11 @@
   "note": "рассказчик «Шримад-Бхагаватам» в Наймишаранье",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-09-003",
    "cc-0027"
   ],
   "events": [
+   "ev-naimisha-shaunaka-suta",
    "ev-tattva-krishnas-tu-bhagavan-svayam"
   ]
  },
@@ -45129,18 +46118,25 @@
   "note": "поэт, автор «Гита-говинды»; его песни вкушал Господь (ЧЧ Ади 13.42)",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-11-007",
+   "nvm-11-008",
    "cc-0238",
    "cc-1075",
    "cc-2010",
+   "nvm-11-009",
    "cc-4126",
    "cc-1011",
    "cc-0185",
-   "cc-4170"
+   "cc-4170",
+   "nvm-19-025"
   ],
   "events": [
+   "ev-jayadeva-lakshmana-sena",
+   "ev-gaura-appears-jayadeva",
    "ev-keshava-kashmiri-defeat",
    "ev-ramananda-raya-godavari",
    "ev-svarupa-paramananda-arrive",
+   "ev-nityananda-jiva-parikrama-champahatti",
    "ev-devadasi-gita-govinda-song",
    "ev-last-twelve-years-gambhira",
    "ev-gambhira-divine-madness"
@@ -45637,21 +46633,25 @@
   "section": "Аллегорические лица",
   "lilas": [
    "pvl-0257",
+   "nvm-07-006",
    "cb-1069",
    "cc-1070",
    "cb-3116",
    "cc-2087",
    "cc-4091",
-   "cc-4036"
+   "cc-4036",
+   "nvm-19-012"
   ],
   "events": [
    "ev-brahma-steals-calves-haridasa",
+   "ev-nrisimha-rests-deva-palli",
    "ev-haridasa-scars-mahaprakasha",
    "ev-jiyada-nrisimha",
    "ev-srivasa-compares-advaita-to-shuka",
    "ev-vasudeva-datta-prayer",
    "ev-gambhira-divine-madness",
-   "ev-maya-tests-haridasa"
+   "ev-maya-tests-haridasa",
+   "ev-bhaktivinoda-vision-nrisimha-blessing"
   ],
   "related_by": [
    {
@@ -46007,10 +47007,13 @@
   "note": "царь Бенгалии (XII в.), по преданию учредитель кулинства",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-06-004",
    "pvl-0278",
    "pvl-0279"
   ],
-  "events": []
+  "events": [
+   "ev-prithu-kunda-origin"
+  ]
  },
  {
   "id": "@udayana-bhaduri",
@@ -46331,6 +47334,7 @@
   "note": "основоположник майявады (адвайта-веданты); по ЧЧ Мадхья 6.180–182 — воплощение Шивы, учивший по велению Господа",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-15-011",
    "cc-1050",
    "cc-1089",
    "cc-1111",
@@ -46338,6 +47342,7 @@
    "cc-3118"
   ],
   "events": [
+   "ev-shankaracharya-rudradvipa",
    "ev-sarvabhauma-deliverance",
    "ev-south-conversions",
    "ev-shringeri-debate",
@@ -46500,9 +47505,11 @@
   "note": "слуга Рамы; храм Ханумана в Видьянагаре (ЧЧ Мадхья 8.299)",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-14-004",
    "cc-1084"
   ],
   "events": [
+   "ev-sadananda-vipra-rama-vision",
    "ev-ramananda-raya-godavari"
   ]
  },
@@ -46551,11 +47558,19 @@
   "note": "Маха-Лакшми; иллюзорная Сита («Курма-пурана», ЧЧ Мадхья 9.189–212)",
   "section": "Аллегорические лица",
   "lilas": [
+   "nvm-14-002",
+   "nvm-14-003",
+   "nvm-14-004",
    "cc-1105",
-   "cc-1107"
+   "cc-1107",
+   "nvm-19-033"
   ],
   "events": [
-   "ev-maya-sita-kurma-purana"
+   "ev-rama-modadrumadvipa",
+   "ev-vishnupriya-deity",
+   "ev-sadananda-vipra-rama-vision",
+   "ev-maya-sita-kurma-purana",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit"
   ]
  },
  {
@@ -46627,13 +47642,15 @@
    "cb-1089",
    "cb-3116",
    "cc-2119",
-   "cc-3111"
+   "cc-3111",
+   "nvm-19-036"
   ],
   "events": [
    "ev-yamaraja-dance-jagai-madhai",
    "ev-srivasa-compares-advaita-to-shuka",
    "ev-prakashananda-mocks-lord-kashi",
-   "ev-atmarama-sixty-one"
+   "ev-atmarama-sixty-one",
+   "ev-pandavas-mahatpur"
   ]
  },
  {
@@ -47906,8 +48923,12 @@
   "en": "Baladeva Vidyabhushana",
   "note": "автор «Говинда-бхашьи» и «Прамея-ратнавали»; не путать с @baladeva-mahiti",
   "section": "Аллегорические лица",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-04-005"
+  ],
+  "events": [
+   "ev-govinda-bhashya-prophecy"
+  ],
   "related_by": [
    {
     "from": "@gopala-bhatta",
@@ -49121,8 +50142,16 @@
   "en": "Ramanujacharya",
   "note": "Рамануджа, Яти-раджа, Лакшмана (детское имя); ачарья Шри-сампрадаи, вишиштадвайта, «Шри-бхашья» (ок. 1017–1117; M pdf 315–332)",
   "section": "Аллегорические лица",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-16-003",
+   "nvm-16-006",
+   "nvm-15-003",
+   "nvm-15-004"
+  ],
+  "events": [
+   "ev-nimbarka-bilvapaksha",
+   "ev-ramanuja-navadvipa"
+  ],
   "summary": "по таттве — воплощение Ананты (стих в M pdf 315) и др.; гуру — Канчипурна, Ямуначарья (Алавандар), Гоштхипурна; происхождение — Шриперумбудур; явление — Гаура-панчами месяца Вишну — по нашему календарю; уход — Гаура-дашами месяца Мадхавы — по нашему календарю",
   "card": "parshadas/cards/ramanujacharya.yaml",
   "article": {
@@ -50098,6 +51127,800 @@
     "from": "@srinivasa-acharya",
     "type": "other"
    }
+  ]
+ },
+ {
+  "id": "@suvarna-sena",
+  "ru": "Суварна Сен (царь)",
+  "en": "King Suvarna Sena",
+  "note": "царь Навадвипы в Сатья-югу; наставлен Нарадой, по небесному голосу родится Буддхимантой Ханом (НДМ 7.3–27; ср. @buddhimanta-khan)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-07-002",
+   "nvm-07-003",
+   "nvm-19-011"
+  ],
+  "events": [
+   "ev-narada-suvarna-sena",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ]
+ },
+ {
+  "id": "@surabhi",
+  "ru": "Сурабхи (корова)",
+  "en": "Surabhi (the cow)",
+  "note": "исполняющая желания корова Индры; вечно живёт в Годрумадвипе, спасла Маркандейю (НДМ 8.27–92)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-08-005",
+   "nvm-08-006",
+   "nvm-08-007",
+   "nvm-08-004",
+   "nvm-19-013"
+  ],
+  "events": [
+   "ev-indra-surabhi-godruma",
+   "ev-markandeya-surabhi",
+   "ev-nityananda-jiva-parikrama-godruma"
+  ]
+ },
+ {
+  "id": "@markandeya",
+  "ru": "Маркандейя Муни",
+  "en": "Markandeya Muni",
+  "note": "сын Мриканды, долгоживущий мудрец; в потоп спасён Сурабхи в Годруме (НДМ 8.51–92)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-08-006",
+   "nvm-08-007",
+   "nvm-19-013"
+  ],
+  "events": [
+   "ev-markandeya-surabhi",
+   "ev-indra-surabhi-godruma"
+  ]
+ },
+ {
+  "id": "@seven-rishis",
+  "ru": "семь риши (Саптарши)",
+  "en": "the seven sages (Saptarshi)",
+  "note": "сыновья Брахмы; поклонялись Гауре в Маджиде (НДМ 9.3–19)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-09-002",
+   "nvm-19-015",
+   "nvm-19-016"
+  ],
+  "events": [
+   "ev-seven-rishis-majida",
+   "ev-naimisha-shaunaka-suta"
+  ]
+ },
+ {
+  "id": "@shaunaka",
+  "ru": "Шаунака (Риши)",
+  "en": "Shaunaka (Rishi)",
+  "note": "глава мудрецов Наймишараньи, слушавших Суту; ср. @suta-gosvami",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-09-003",
+   "nvm-13-003",
+   "nvm-19-016"
+  ],
+  "events": [
+   "ev-naimisha-shaunaka-suta",
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@diva-dasa",
+  "ru": "Дива Дас (брахман)",
+  "en": "Diva Dasa (a brahmana)",
+  "note": "брахман Сатья-юги, узревший Пушкару в Брахмана-пушкаре (НДМ 10.8–39; в изд. 2001 г. однажды — «Дживана дас»)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-10-002",
+   "nvm-10-003",
+   "nvm-19-017"
+  ],
+  "events": [
+   "ev-diva-dasa-pushkara"
+  ]
+ },
+ {
+  "id": "@pushkara-personified",
+  "ru": "Пушкара (олицетворённая тиртха)",
+  "en": "Pushkara (the holy place personified)",
+  "note": "явилась Диве Дасу в облике брахмана (НДМ 10.14–37)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-10-002",
+   "nvm-10-003"
+  ],
+  "events": [
+   "ev-diva-dasa-pushkara"
+  ]
+ },
+ {
+  "id": "@vasudeva-koladvipa",
+  "ru": "Васудева (брахман, почитатель Варахи)",
+  "en": "Vasudeva (a brahmana, worshipper of Varaha)",
+  "note": "брахман Сатья-юги в Коладвипе, которому явился Вараха (НДМ 11.12–37); не путать с @vasudeva-vipra",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-002",
+   "nvm-19-021"
+  ],
+  "events": [
+   "ev-varaha-vasudeva"
+  ]
+ },
+ {
+  "id": "@samudra-sena",
+  "ru": "Самудра Сен (царь)",
+  "en": "King Samudra Sena",
+  "note": "царь Самудрагадхи, вызвавший Бхиму на бой, чтобы увидеть Кришну (НДМ 11.45–76)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-004",
+   "nvm-19-023"
+  ],
+  "events": [
+   "ev-samudra-sena-bhima"
+  ]
+ },
+ {
+  "id": "@bhima-pandava",
+  "ru": "Бхима (Бхимасена)",
+  "en": "Bhima (Bhimasena)",
+  "note": "второй из Пандавов; не путать с @bhima-gopa",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-004",
+   "nvm-19-023"
+  ],
+  "events": [
+   "ev-samudra-sena-bhima"
+  ]
+ },
+ {
+  "id": "@hiranyakashipu",
+  "ru": "Хираньякашипу",
+  "en": "Hiranyakashipu",
+  "note": "демон, отец Прахлады, убитый Нрисимхой",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-07-006"
+  ],
+  "events": [
+   "ev-nrisimha-rests-deva-palli"
+  ]
+ },
+ {
+  "id": "@hiranyaksha",
+  "ru": "Хираньякша",
+  "en": "Hiranyaksha",
+  "note": "демон, убитый Варахой",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-002"
+  ],
+  "events": [
+   "ev-varaha-vasudeva"
+  ]
+ },
+ {
+  "id": "@surya",
+  "ru": "Сурья (бог солнца)",
+  "en": "Surya (the sun-god)",
+  "note": "не путать с @suryadasa-pandita",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-07-006",
+   "nvm-19-035"
+  ],
+  "events": [
+   "ev-nrisimha-rests-deva-palli",
+   "ev-bhaktivinoda-vision-surya-arka-tila"
+  ]
+ },
+ {
+  "id": "@vishvakarma",
+  "ru": "Вишвакарма",
+  "en": "Vishvakarma",
+  "note": "зодчий богов",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-010",
+   "nvm-07-006",
+   "nvm-05-012"
+  ],
+  "events": [
+   "ev-vishvakarma-sixty-ponds",
+   "ev-nrisimha-rests-deva-palli",
+   "ev-nityananda-jiva-parikrama-mayapur"
+  ]
+ },
+ {
+  "id": "@lakshmana-sena",
+  "ru": "Лакшман Сен (царь Бенгалии)",
+  "en": "Lakshmana Sena (king of Bengal)",
+  "note": "царь Надии (XII в.), покровитель Джаядевы (НДМ 11.91–113)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-004",
+   "nvm-11-007"
+  ],
+  "events": [
+   "ev-prithu-kunda-origin",
+   "ev-jayadeva-lakshmana-sena"
+  ]
+ },
+ {
+  "id": "@govardhana-acharya",
+  "ru": "Говардхана Ачарья",
+  "en": "Govardhana Acharya",
+  "note": "поэт, наставник при дворе Лакшмана Сена (НДМ 11.95)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-007"
+  ],
+  "events": [
+   "ev-jayadeva-lakshmana-sena"
+  ]
+ },
+ {
+  "id": "@padmavati-jayadeva",
+  "ru": "Падмавати (супруга Джаядевы)",
+  "en": "Padmavati (Jayadeva's wife)",
+  "note": "не путать с @padmavati (мать Нитьянанды)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-007",
+   "nvm-11-008",
+   "nvm-11-009"
+  ],
+  "events": [
+   "ev-jayadeva-lakshmana-sena",
+   "ev-gaura-appears-jayadeva",
+   "ev-nityananda-jiva-parikrama-champahatti"
+  ]
+ },
+ {
+  "id": "@vaninatha-champahatti",
+  "ru": "Ванинатха (Двиджа) из Чампахати",
+  "en": "(Dvija) Vaninatha of Champahatti",
+  "note": "принимал Нитьянанду и Дживу (НДМ 11.84, 11.154, 12.3); служил Гауре-Гададхаре (@gaura-gadadhara-champahatti); тот ли это @vaninatha-gadadhara — не сказано",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-006",
+   "nvm-11-009",
+   "nvm-12-001",
+   "nvm-19-026"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-nityananda-jiva-parikrama-ritudvipa",
+   "ev-gaura-sankirtana-vaninatha-house"
+  ]
+ },
+ {
+  "id": "@champakalata",
+  "ru": "Чампакалата",
+  "en": "Champakalata",
+  "note": "сакхи Радхи; собирает цветы чампаки (НДМ 11.87)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-11-006",
+   "nvm-19-026"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-gaura-sankirtana-vaninatha-house"
+  ]
+ },
+ {
+  "id": "@subala",
+  "ru": "Субала",
+  "en": "Subala",
+  "note": "друг-пастушок Кришны",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-12-002",
+   "nvm-19-027"
+  ],
+  "events": [
+   "ev-nityananda-balarama-bhava-ritudvipa",
+   "ev-gaura-kirtan-radha-kunda-ritudvipa"
+  ]
+ },
+ {
+  "id": "@shridama",
+  "ru": "Шридама",
+  "en": "Shridama",
+  "note": "друг-пастушок Кришны",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-12-002",
+   "nvm-19-027"
+  ],
+  "events": [
+   "ev-nityananda-balarama-bhava-ritudvipa",
+   "ev-gaura-kirtan-radha-kunda-ritudvipa"
+  ]
+ },
+ {
+  "id": "@matsya",
+  "ru": "Матсья (Рыба)",
+  "en": "Matsya (the Fish)",
+  "note": "аватара; спасает Веды в потоп",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-001"
+  ],
+  "events": [
+   "ev-matsya-vedas-vidyanagara"
+  ]
+ },
+ {
+  "id": "@valmiki",
+  "ru": "Вальмики",
+  "en": "Valmiki",
+  "note": "мудрец, автор «Рамаяны»",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@dhanvantari",
+  "ru": "Дханвантари",
+  "en": "Dhanvantari",
+  "note": "аватара, основатель аюрведы",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@vishvamitra",
+  "ru": "Вишвамитра",
+  "en": "Vishvamitra",
+  "note": "мудрец",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@kapila",
+  "ru": "Капила",
+  "en": "Kapila",
+  "note": "мудрец, основатель санкхьи",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@gautama-rishi",
+  "ru": "Гаутама (Риши)",
+  "en": "Gautama (Rishi)",
+  "note": "мудрец, основатель ньяи",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@kanada",
+  "ru": "Канада",
+  "en": "Kanada",
+  "note": "мудрец, основатель вайшешики",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@patanjali",
+  "ru": "Патанджали",
+  "en": "Patanjali",
+  "note": "автор «Йога-сутр»",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@jaimini",
+  "ru": "Джаймини",
+  "en": "Jaimini",
+  "note": "автор «Мимамса-сутр»",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-003"
+  ],
+  "events": [
+   "ev-sciences-vidyanagara"
+  ]
+ },
+ {
+  "id": "@upanishads-personified",
+  "ru": "Упанишады (олицетворённые шрути)",
+  "en": "the Upanishads (personified shrutis)",
+  "note": "поклонялись Гауре в Видьянагаре (НДМ 13.24–28)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-004"
+  ],
+  "events": [
+   "ev-upanishads-vidyanagara"
+  ]
+ },
+ {
+  "id": "@brihaspati",
+  "ru": "Брихаспати",
+  "en": "Brihaspati",
+  "note": "гуру полубогов; по НДМ 13.30–33 родился Сарвабхаумой (@sarvabhauma)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-005",
+   "nvm-19-029"
+  ],
+  "events": [
+   "ev-brihaspati-sarvabhauma-vidyanagara"
+  ]
+ },
+ {
+  "id": "@praudha-maya",
+  "ru": "Праудха-майя",
+  "en": "Praudha-maya",
+  "note": "богиня-хранительница Навадвипы, служанка Гауры; с Вриддха Шивой (#vriddha-shiva); НДМ 13.52–55",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-005",
+   "nvm-15-011",
+   "nvm-05-008",
+   "nvm-05-009",
+   "nvm-13-008",
+   "nvm-18-001",
+   "nvm-18-009",
+   "nvm-19-002"
+  ],
+  "events": [
+   "ev-parvati-simantadvipa",
+   "ev-shankaracharya-rudradvipa",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-vidyanagara",
+   "ev-nityananda-jiva-questions",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ]
+ },
+ {
+  "id": "@jahnu",
+  "ru": "Джахну Муни",
+  "en": "Jahnu Muni",
+  "note": "мудрец, выпивший Гангу; Джахнудвипа (НДМ 13.61–71)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-011",
+   "nvm-13-012",
+   "nvm-19-031"
+  ],
+  "events": [
+   "ev-jahnu-ganga",
+   "ev-bhishma-jahnu"
+  ]
+ },
+ {
+  "id": "@bhagiratha",
+  "ru": "Бхагиратха (царь)",
+  "en": "King Bhagiratha",
+  "note": "низвёл Гангу на землю; не путать с @bhagiratha-acharya",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-002",
+   "nvm-13-011"
+  ],
+  "events": [
+   "ev-bhagiratha-ganga-nagara",
+   "ev-jahnu-ganga"
+  ]
+ },
+ {
+  "id": "@bhishma",
+  "ru": "Бхишма",
+  "en": "Bhishma",
+  "note": "сын Ганги; учился у Джахну Муни (НДМ 13.70–73)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-012",
+   "nvm-19-031",
+   "nvm-19-032"
+  ],
+  "events": [
+   "ev-bhishma-jahnu",
+   "ev-jahnu-ganga",
+   "ev-bhaktivinoda-vision-bhishma-instruction"
+  ]
+ },
+ {
+  "id": "@yudhishthira",
+  "ru": "Юдхиштхира",
+  "en": "Yudhishthira",
+  "note": "старший из Пандавов",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-13-012",
+   "nvm-15-007",
+   "nvm-15-008",
+   "nvm-19-036"
+  ],
+  "events": [
+   "ev-bhishma-jahnu",
+   "ev-pandavas-mahatpur"
+  ]
+ },
+ {
+  "id": "@lakshmana",
+  "ru": "Лакшмана",
+  "en": "Lakshmana",
+  "note": "брат Рамы; по НДМ 14.40 — воплощение Ананты; не путать с @lakshmana-sena",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-14-002",
+   "nvm-14-004",
+   "nvm-19-033"
+  ],
+  "events": [
+   "ev-rama-modadrumadvipa",
+   "ev-sadananda-vipra-rama-vision",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit"
+  ]
+ },
+ {
+  "id": "@sadananda-vipra",
+  "ru": "Садананда Випра Бхаттачарья",
+  "en": "Sadananda Vipra Bhattacharya",
+  "note": "брахман из Модадрумадвипы, прежде Гухака, друг Рамы; узрел новорождённого Гауру как Раму, участвовал в санкиртане (НДМ 14.33–44); не путать с @sadananda-puri",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-14-004"
+  ],
+  "events": [
+   "ev-sadananda-vipra-rama-vision"
+  ]
+ },
+ {
+  "id": "@pandavas",
+  "ru": "Пандавы (пять братьев)",
+  "en": "the Pandavas (five brothers)",
+  "note": "когда упомянуты вместе; по отдельности — @yudhishthira, @bhima-pandava, @arjuna; в Махатпуре (НДМ 15.64–79; НБТ 125–126)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-15-007",
+   "nvm-15-008",
+   "nvm-19-036"
+  ],
+  "events": [
+   "ev-pandavas-mahatpur"
+  ]
+ },
+ {
+  "id": "@draupadi",
+  "ru": "Драупади",
+  "en": "Draupadi",
+  "note": "супруга Пандавов; Драупади-кунда в Махатпуре (НДМ 15.69; НБТ 129–130); не путать с @draupadi-ishvari",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-15-007",
+   "nvm-19-036",
+   "nvm-19-037"
+  ],
+  "events": [
+   "ev-pandavas-mahatpur",
+   "ev-bhaktivinoda-vision-draupadi-prasada"
+  ]
+ },
+ {
+  "id": "@vishnusvami",
+  "ru": "Вишнусвами",
+  "en": "Vishnusvami",
+  "note": "ачарья Рудра-сампрадаи (шуддха-адвайта); в Рудрадвипе получил благословение Шивы; по НДМ 15.123 — впоследствии @vallabha-bhatta",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-16-003",
+   "nvm-16-006",
+   "nvm-15-013",
+   "nvm-15-014"
+  ],
+  "events": [
+   "ev-nimbarka-bilvapaksha",
+   "ev-vishnusvami-rudradvipa"
+  ]
+ },
+ {
+  "id": "@nimbarka",
+  "ru": "Нимбарка (Нимбадитья)",
+  "en": "Nimbarka (Nimbaditya)",
+  "note": "ачарья Кумара-сампрадаи (двайта-адвайта), ученик четырёх Кумаров в Билвапакше; по НДМ 16.43–44 — впоследствии @keshava-kashmiri",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-16-002",
+   "nvm-16-003",
+   "nvm-16-004",
+   "nvm-16-005",
+   "nvm-16-006"
+  ],
+  "events": [
+   "ev-nimbarka-bilvapaksha",
+   "ev-keshava-kashmiri-defeat"
+  ]
+ },
+ {
+  "id": "@bharadvaja",
+  "ru": "Бхарадваджа Муни",
+  "en": "Bharadvaja Muni",
+  "note": "мудрец; поклонялся Гауре в Бхарадваджа-тиле, написал там сутры (НДМ 16.63–69; НБТ 21)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-16-009",
+   "nvm-19-004"
+  ],
+  "events": [
+   "ev-bharadvaja-tila"
+  ]
+ },
+ {
+  "id": "@rudras",
+  "ru": "Одиннадцать Рудр",
+  "en": "the eleven Rudras",
+  "note": "формы Шивы; в Рудрадвипе воспевают Гауру и пляшут (НДМ 15.106–108; НБТ 133); ср. @shiva",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-15-012",
+   "nvm-02-002",
+   "nvm-19-038"
+  ],
+  "events": [
+   "ev-rudras-rudradvipa",
+   "ev-navadvipa-dhama-glory"
+  ]
+ },
+ {
+  "id": "@vriddha-shiva",
+  "ru": "Вриддха Шива",
+  "en": "Vriddha Shiva",
+  "note": "Шива — хранитель Навадвипа-дхамы, вместе с @praudha-maya (#vriddha-shiva); ср. @shiva",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-15-011",
+   "nvm-05-008",
+   "nvm-05-009",
+   "nvm-18-009",
+   "nvm-19-002"
+  ],
+  "events": [
+   "ev-shankaracharya-rudradvipa",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ]
+ },
+ {
+  "id": "@dattatreya",
+  "ru": "Даттатрея",
+  "en": "Dattatreya",
+  "note": "мудрец-аватара; в Рудрадвипе отказался от философии единства ради стоп Гауры (НБТ 134, 138)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-19-038",
+   "nvm-19-039"
+  ],
+  "events": [
+   "ev-rudras-rudradvipa",
+   "ev-bhaktivinoda-vision-sayujya-shiva"
+  ]
+ },
+ {
+  "id": "@ashtavakra",
+  "ru": "Аштавакра",
+  "en": "Ashtavakra",
+  "note": "мудрец; в Рудрадвипе отказался от философии единства ради стоп Гауры (НБТ 134)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-19-038"
+  ],
+  "events": [
+   "ev-rudras-rudradvipa"
+  ]
+ },
+ {
+  "id": "@sayujya-personified",
+  "ru": "Сайюджья (Нирвана), олицетворённая",
+  "en": "Sayujya (Nirvana) personified",
+  "note": "одна из пяти видов мукти в облике богини, покинутая всеми в Рудрадвипе (НБТ 136–141)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-19-039"
+  ],
+  "events": [
+   "ev-bhaktivinoda-vision-sayujya-shiva"
+  ]
+ },
+ {
+  "id": "@prithu",
+  "ru": "Притху (царь)",
+  "en": "King Prithu",
+  "note": "шактьявеша-аватара, царь Сатья-юги; выровнял землю, устроил Притху-кунду (НДМ 6.25–30)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-004"
+  ],
+  "events": [
+   "ev-prithu-kunda-origin"
+  ]
+ },
+ {
+  "id": "@mayasura",
+  "ru": "Майясура (демон)",
+  "en": "Mayasura (a demon)",
+  "note": "убит Баларамой в Майямари (НДМ 6.116–120); не путать с Майей-данавой, зодчим асуров",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-012"
+  ],
+  "events": [
+   "ev-balarama-kills-mayasura"
+  ]
+ },
+ {
+  "id": "@raktabahu",
+  "ru": "Рактабаху (демон)",
+  "en": "Raktabahu (a demon)",
+  "note": "от его набегов Джаганнатха укрылся с шабарами (НДМ 6.95)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-007"
+  ],
+  "events": [
+   "ev-jagannatha-shabaras-saradanga"
+  ]
+ },
+ {
+  "id": "@jarasandha",
+  "ru": "Джарасандха",
+  "en": "Jarasandha",
+  "note": "царь Магадхи, противник Кришны; по НДМ 6.83 — прежнее рождение Хусейн-шаха (@gauda-sultan)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "nvm-06-006"
+  ],
+  "events": [
+   "ev-nagara-kirtana-kazi"
   ]
  }
 ]

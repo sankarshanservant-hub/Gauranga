@@ -6,10 +6,13 @@
   "note": "Надия; конкретнее — дома ниже",
   "section": "",
   "lilas": [
+   "nvm-02-003",
    "cup-0001",
    "lcm-0022",
    "lcm-0027",
    "pad-0262",
+   "nvm-14-003",
+   "nvm-15-003",
    "pvl-0223",
    "cb-0014",
    "jcm-0013",
@@ -341,6 +344,7 @@
    "cb-0125",
    "lcm-0095",
    "kcm-0039",
+   "nvm-10-006",
    "cb-1002",
    "apr-0070",
    "brt-0051",
@@ -1153,6 +1157,14 @@
    "cc-4020",
    "gkd-0182",
    "cc-4023",
+   "nvm-04-001",
+   "nvm-04-007",
+   "nvm-05-001",
+   "nvm-17-002",
+   "nvm-17-003",
+   "nvm-18-001",
+   "nvm-18-003",
+   "nvm-18-006",
    "cc-4120",
    "pv-0012",
    "apr-0142",
@@ -1221,8 +1233,16 @@
    "cb-0007",
    "cb-0008",
    "brt-0001",
+   "nvm-01-001",
+   "nvm-01-005",
+   "nvm-02-002",
+   "nvm-02-001",
+   "nvm-03-001",
    "cb-0126",
    "cb-2037",
+   "nvm-18-009",
+   "nvm-19-001",
+   "nvm-19-041",
    "cc-0057",
    "cc-0102",
    "cc-0117",
@@ -1232,10 +1252,13 @@
    "cc-0183"
   ],
   "events": [
+   "ev-krishna-resolves-to-give-vraja-prema",
    "ev-brahma-pippalada-gaura-prophecy",
    "ev-gaura-advent-proclaimed",
    "ev-gaura-reveals-reasons-advent",
    "ev-krishna-resolves-gaura-advent",
+   "ev-vishnupriya-deity",
+   "ev-ramanuja-navadvipa",
    "ev-advaita-marries-sita",
    "ev-navadvipa-vaishnavas-before-advent",
    "ev-haridasa-muslim-governor",
@@ -1327,6 +1350,7 @@
    "ev-departure-for-gaya",
    "ev-gaya-ishvara-puri-initiation",
    "ev-gaya-heavenly-voice-return",
+   "ev-nagara-kirtana-kazi",
    "ev-return-navadvipa-welcome",
    "ev-return-from-gaya-teaching",
    "ev-chhakari-worship",
@@ -1390,7 +1414,6 @@
    "ev-shrivasa-mother-in-law-expelled",
    "ev-advaita-steals-foot-dust",
    "ev-milk-drinking-brahmachari",
-   "ev-nagara-kirtana-kazi",
    "ev-vanamali-brahmana-vision",
    "ev-nrisimha-bhava-shrivasa",
    "ev-shiva-singer",
@@ -1484,19 +1507,21 @@
    "ev-shantipura-after-natashala",
    "ev-return-puri-after-gauda",
    "ev-lokanatha-dream-narottama-prophecy",
-   "ev-vishnupriya-deity",
    "ev-nityananda-kicks-shivananda",
    "ev-parameshvara-modaka",
    "ev-damodara-sent-navadvipa",
    "ev-avirbhava-four-places",
    "ev-chhota-haridasa-prayaga",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-questions",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
    "ev-jagadananda-visits-shachi",
    "ev-jagadananda-vrindavana-pilu",
    "ev-advaita-tarja",
    "ev-srinivasa-birth",
    "ev-nityananda-returns-to-puri",
    "ev-shachi-vishnupriya-passing",
-   "ev-jiva-meets-nityananda-navadvipa",
    "ev-vishnupriya-austerity",
    "ev-srinivasa-dream-nitai-advaita",
    "ev-srinivasa-vishnupriya-mercy",
@@ -1513,6 +1538,9 @@
    "ev-rupa-narayana",
    "ev-virachandra-pilgrimage",
    "ev-tattva-nityananda-advaita",
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-dhama-nature",
+   "ev-bhaktivinoda-vision-dhama-darshana",
    "ev-tattva-bhakti-kalpataru"
   ],
   "geo": {
@@ -1529,6 +1557,7 @@
   "note": "Навадвипа · Йогапитха в Майяпуре (центр Навадвипы); Врадж — Гокула-Махавана; храм Джаганнатхи Мишры, двор туласи, место нима (НДМ 5.27–48, 16.72); примета для отыскания — в 1600 м к юго-западу от уцелевшего края Майяпура (НДМ 5.115–119); НБТ 10",
   "section": "",
   "lilas": [
+   "nvm-10-003",
    "apr-0038",
    "cb-0019",
    "kcm-0006",
@@ -1589,6 +1618,7 @@
    "pad-0405",
    "cb-0031",
    "cb-0032",
+   "nvm-14-004",
    "cb-0030",
    "cc-0182",
    "gkd-0017",
@@ -1903,14 +1933,22 @@
    "mkc-0249",
    "pad-0022",
    "mkc-0227",
+   "nvm-05-004",
+   "nvm-05-003",
+   "nvm-05-013",
+   "nvm-16-010",
+   "nvm-18-005",
    "pad-0025",
    "anv-0014",
    "pvl-0022",
    "pvl-0021",
    "pvl-0023",
-   "anv-0015"
+   "anv-0015",
+   "nvm-03-002",
+   "nvm-19-002"
   ],
   "events": [
+   "ev-diva-dasa-pushkara",
    "ev-advaita-initiates-mishra-shachi",
    "ev-vishvarupa-birth",
    "ev-lord-enters-shachi-womb",
@@ -1928,6 +1966,7 @@
    "ev-infant-with-shachi",
    "ev-gods-alarm-thief-infant",
    "ev-nishkramana-ganga",
+   "ev-sadananda-vipra-rama-vision",
    "ev-crying-stops-at-holy-name",
    "ev-child-dust-broken-pots",
    "ev-footprints-gopala",
@@ -2030,10 +2069,17 @@
    "ev-nityananda-visits-shachi",
    "ev-shachi-dream-nimai",
    "ev-vishnupriya-deity",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-jiva-shachi-prasada-mayapur",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-nityananda-jiva-parikrama-bilvapaksha",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
    "ev-jagadananda-visits-shachi",
    "ev-vishnupriya-austerity",
    "ev-srinivasa-vishnupriya-mercy",
-   "ev-gadadhara-riddle-gadadhara-dasa"
+   "ev-gadadhara-riddle-gadadhara-dasa",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-dhama-darshana"
   ],
   "geo": {
    "lat": 23.4383,
@@ -2207,9 +2253,25 @@
    "ccd-0036",
    "pad-0017",
    "mkc-0144",
+   "nvm-04-002",
+   "nvm-04-004",
+   "nvm-04-006",
+   "nvm-04-005",
+   "nvm-04-007",
+   "nvm-05-005",
+   "nvm-17-001",
+   "nvm-17-002",
+   "nvm-17-003",
+   "nvm-17-004",
+   "nvm-18-001",
+   "nvm-18-002",
+   "nvm-18-003",
+   "nvm-18-004",
+   "nvm-18-005",
    "gkr-0001",
    "pad-0122",
-   "cb-0008"
+   "cb-0008",
+   "nvm-19-022"
   ],
   "events": [
    "ev-srivasa-saved-from-death",
@@ -2275,7 +2337,14 @@
    "ev-last-night-vishnupriya",
    "ev-leaving-navadvipa",
    "ev-lament-after-lord-leaves",
-   "ev-nityananda-brings-navadvipa-to-shantipura"
+   "ev-nityananda-brings-navadvipa-to-shantipura",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-govinda-bhashya-prophecy",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-jiva-vision-kirtan-srivasa",
+   "ev-nityananda-jiva-questions",
+   "ev-jiva-departs-navadvipa-for-vrindavana",
+   "ev-vidya-vachaspati-house"
   ],
   "geo": {
    "lat": 23.4398,
@@ -2292,6 +2361,10 @@
   "section": "",
   "lilas": [
    "cup-0001",
+   "nvm-06-002",
+   "nvm-05-011",
+   "nvm-11-005",
+   "nvm-13-011",
    "apr-0009",
    "apr-0024",
    "apr-0027",
@@ -2337,6 +2410,7 @@
    "mkc-0027",
    "cb-0055",
    "cb-0048",
+   "nvm-05-010",
    "pad-0417",
    "lcm-0059",
    "mkc-0031",
@@ -2427,6 +2501,7 @@
    "lcm-0140",
    "cb-2048",
    "cb-2049",
+   "nvm-10-007",
    "cb-2050",
    "cb-2010",
    "cc-0281",
@@ -2569,6 +2644,11 @@
    "lcm-0246",
    "apr-0137",
    "cc-4065",
+   "nvm-05-001",
+   "nvm-05-007",
+   "nvm-05-008",
+   "nvm-05-013",
+   "nvm-10-005",
    "pv-0012",
    "pvl-0009",
    "pad-0258",
@@ -2589,10 +2669,17 @@
    "lcm-0004",
    "pad-0081",
    "pad-0387",
+   "nvm-01-005",
+   "nvm-02-001",
+   "nvm-03-001",
    "cc-0139"
   ],
   "events": [
    "ev-brahma-pippalada-gaura-prophecy",
+   "ev-bhagiratha-ganga-nagara",
+   "ev-ganga-austerity-gaura-promise",
+   "ev-ocean-ganga-samudragarh",
+   "ev-jahnu-ganga",
    "ev-advaita-lotus-miracle",
    "ev-haridasa-comes-to-advaita",
    "ev-sita-appearance-lotus",
@@ -2661,6 +2748,7 @@
    "ev-madhai-ghat",
    "ev-jala-keli-navadvipa",
    "ev-nagara-kirtana-kazi",
+   "ev-gaura-ekadashi-parikrama",
    "ev-jump-into-ganga",
    "ev-mahaprakasha-abhisheka",
    "ev-leper-shrivasa-offense",
@@ -2720,6 +2808,10 @@
    "ev-varanasi-sannyasis",
    "ev-gauridasa-deities",
    "ev-panihati-chida-dadhi",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-nityananda-jiva-parikrama-koladvipa",
    "ev-jagadananda-vrindavana-pilu",
    "ev-srinivasa-birth",
    "ev-gambhira-divine-madness",
@@ -2734,6 +2826,8 @@
    "ev-shyamananda-initiation-ambika",
    "ev-chand-raya-elephant",
    "ev-rupa-narayana",
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-dhama-nature",
    "ev-tattva-bhakti-kalpataru"
   ]
  },
@@ -3259,6 +3353,11 @@
   "section": "",
   "lilas": [
    "lcm-0023",
+   "nvm-06-007",
+   "nvm-11-008",
+   "nvm-15-008",
+   "nvm-15-003",
+   "nvm-15-014",
    "cb-3032",
    "apr-0011",
    "cc-1039",
@@ -3267,6 +3366,7 @@
    "gkd-0065",
    "cc-1031",
    "jcm-0016",
+   "nvm-13-005",
    "cb-0059",
    "cb-0071",
    "pvl-0269",
@@ -3800,6 +3900,7 @@
    "cc-4095",
    "cc-0364",
    "cc-3031",
+   "nvm-04-004",
    "cc-0365",
    "cc-0363",
    "pv-0016",
@@ -4015,11 +4116,17 @@
   ],
   "events": [
    "ev-narada-jagannatha-nilachala",
+   "ev-jagannatha-shabaras-saradanga",
+   "ev-gaura-appears-jayadeva",
+   "ev-pandavas-mahatpur",
+   "ev-ramanuja-navadvipa",
+   "ev-vishnusvami-rudradvipa",
    "ev-shiva-receives-ekamra-kashiraja",
    "ev-advaita-pilgrimage",
    "ev-sakshi-gopala-two-brahmins",
    "ev-madhavendra-kshira-chora",
    "ev-gauda-king-persecutes-navadvipa",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
    "ev-jagannatha-mishra-dream",
    "ev-nityananda-pilgrimage",
    "ev-false-avataras",
@@ -4190,6 +4297,7 @@
    "ev-ramachandra-puri-criticism",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-rupa-sanatana-vrindavana-vairagya",
+   "ev-jiva-meets-nityananda-navadvipa",
    "ev-worlds-pilgrims-srivasa-praise",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-raghavera-jhali",
@@ -4312,6 +4420,7 @@
    "pad-0193",
    "lcm-0117",
    "apr-0073",
+   "nvm-06-006",
    "lcm-0141",
    "pvl-0155",
    "pvl-0226",
@@ -4431,6 +4540,12 @@
    "cc-4070",
    "cc-4073",
    "cc-3031",
+   "nvm-04-004",
+   "nvm-04-007",
+   "nvm-17-002",
+   "nvm-17-003",
+   "nvm-18-003",
+   "nvm-18-007",
    "cc-4125",
    "gkd-0168",
    "pv-0006",
@@ -4464,6 +4579,7 @@
    "brt-0040",
    "cc-0137",
    "gkd-0164",
+   "nvm-18-008",
    "pvl-0198",
    "pvl-0199",
    "anv-0007",
@@ -4589,10 +4705,14 @@
    "brt-0001",
    "cc-0008",
    "cb-0072",
+   "nvm-01-004",
    "anv-0051",
+   "nvm-03-001",
    "cc-0018",
    "cc-0019",
    "cc-0020",
+   "nvm-19-001",
+   "nvm-19-041",
    "cc-0041",
    "cc-0044",
    "cc-0050",
@@ -4630,6 +4750,7 @@
    "ev-gaura-dance-with-devotees",
    "ev-jnana-path-bhakti-supreme",
    "ev-nityananda-first-meeting",
+   "ev-nagara-kirtana-kazi",
    "ev-vanamali-brahmana-vision",
    "ev-madhava-acharya-krishna-mangala",
    "ev-shrivasa-narrates-vrindavana-lila",
@@ -4688,6 +4809,10 @@
    "ev-raghunatha-lord-instructions",
    "ev-govardhana-shila-gunja-gift",
    "ev-rupa-sanatana-vrindavana-vairagya",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-questions",
+   "ev-jiva-dream-mathura",
    "ev-jagadananda-vrindavana-pilu",
    "ev-raghunatha-bhatta-sent-vrindavana",
    "ev-gopala-bhatta-comes-vrindavana",
@@ -4703,7 +4828,6 @@
    "ev-kaviraja-nityananda-jhamatpur",
    "ev-prema-for-srinivasa",
    "ev-devotees-lament-after-disappearance",
-   "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-comes-to-vrindavana",
    "ev-raghunatha-dasa-radha-kunda",
    "ev-jiva-exiled-by-rupa",
@@ -4757,10 +4881,13 @@
    "ev-jiva-gosvami-writings",
    "ev-anuragavalli-composed",
    "ev-tattva-nityananda-advaita",
+   "ev-tattva-gaura-nitai-names-prema",
    "ev-gopala-guru-mahamantra",
+   "ev-navadvipa-dhama-nature",
    "ev-tattva-prakasha-vilasa",
    "ev-tattva-shaktis",
    "ev-tattva-chaitanya-nityananda-sun-moon",
+   "ev-bhaktivinoda-vision-dhama-darshana",
    "ev-tattva-krishna-advent-reasons",
    "ev-tattva-radha-hladini",
    "ev-tattva-gopi-prema",
@@ -4791,6 +4918,7 @@
    "cc-4086",
    "cb-0071",
    "jcm-0035",
+   "nvm-06-006",
    "mkc-0123",
    "ccd-0076",
    "cc-0349",
@@ -4835,6 +4963,7 @@
    "brt-0037",
    "cc-0135",
    "vlb-0011",
+   "nvm-18-007",
    "cc-4125",
    "gkd-0168",
    "pvl-0134",
@@ -4875,6 +5004,7 @@
    "ev-nityananda-pilgrimage",
    "ev-madhavendra-puri-departure",
    "ev-gaya-heavenly-voice-return",
+   "ev-nagara-kirtana-kazi",
    "ev-longing-vrindavana-murari",
    "ev-departure-for-gauda",
    "ev-departure-for-vrindavana",
@@ -4898,6 +5028,7 @@
    "ev-madana-mohana-chaube",
    "ev-gosvamis-reveal-lost-tirthas",
    "ev-chaitanya-swoons-vallabha-words",
+   "ev-jiva-dream-mathura",
    "ev-jagadananda-vrindavana-pilu",
    "ev-hari-bhakti-vilasa",
    "ev-jiva-comes-to-vrindavana",
@@ -4932,6 +5063,7 @@
   "note": "",
   "section": "",
   "lilas": [
+   "nvm-06-005",
    "cb-3032",
    "pvl-0210",
    "pvl-0245",
@@ -5056,6 +5188,7 @@
    "cc-0084",
    "cc-4021",
    "ccd-0091",
+   "nvm-04-004",
    "jcm-0081",
    "cc-4125",
    "cc-4127",
@@ -5071,6 +5204,7 @@
    "cb-2024"
   ],
   "events": [
+   "ev-parvati-simantadvipa",
    "ev-shiva-receives-ekamra-kashiraja",
    "ev-advaita-meets-madhavendra",
    "ev-advaita-pilgrimage",
@@ -5105,6 +5239,7 @@
    "ev-return-to-puri-from-vrindavana",
    "ev-rupa-gauda-anupama-passing",
    "ev-gopala-bhattacharya-mayavada",
+   "ev-jiva-meets-nityananda-navadvipa",
    "ev-lord-prophesies-kali-age",
    "ev-jagadananda-vrindavana-pilu",
    "ev-raghunatha-bhatta-first-visit-puri",
@@ -5174,6 +5309,7 @@
    "cc-4012",
    "cc-4023",
    "cc-4081",
+   "nvm-11-001",
    "pvl-0031",
    "pvl-0060",
    "nvv-0039",
@@ -5199,6 +5335,7 @@
    "ev-rupa-puri-dramas",
    "ev-chhota-haridasa-prayaga",
    "ev-vallabha-sridhara-svami",
+   "ev-nityananda-jiva-parikrama-koladvipa",
    "ev-srinivasa-journey-vrindavana",
    "ev-narottama-path-vision",
    "ev-jahnava-vrindavana",
@@ -5413,6 +5550,7 @@
    "cc-2052",
    "cc-2069",
    "cc-4007",
+   "nvm-11-003",
    "nvv-0070",
    "cc-0018",
    "cc-0019",
@@ -5432,6 +5570,7 @@
    "ev-ratha-yatra-gundicha",
    "ev-hera-panchami",
    "ev-rupa-puri-dramas",
+   "ev-nityananda-jiva-parikrama-koladvipa",
    "ev-legend-shiva-bhuvaneshvara",
    "ev-tattva-prakasha-vilasa",
    "ev-tattva-shaktis",
@@ -5463,6 +5602,8 @@
    "lcm-0050",
    "ccd-0014",
    "gkd-0150",
+   "nvm-04-007",
+   "nvm-03-001",
    "cc-0043",
    "cc-0058"
   ],
@@ -5476,6 +5617,8 @@
    "ev-puppy-deliverance",
    "ev-mahaprakasha-abhisheka",
    "ev-sanatana-kashi-instruction",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-navadvipa-dhama-nature",
    "ev-tattva-radha-hladini",
    "ev-tattva-paravyoma-goloka"
   ]
@@ -5490,12 +5633,16 @@
    "gkd-0003",
    "lcm-0026",
    "lcm-0028",
+   "nvm-04-007",
+   "nvm-03-001",
    "cc-0061"
   ],
   "events": [
    "ev-brahma-prayer-milk-ocean",
    "ev-narada-goloka-gaura",
    "ev-narada-shvetadvipa-balarama",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-navadvipa-dhama-nature",
    "ev-tattva-purusha-avataras"
   ]
  },
@@ -5510,14 +5657,16 @@
    "lcm-0013",
    "lcm-0014",
    "lcm-0015",
-   "cb-3117"
+   "cb-3117",
+   "nvm-19-038"
   ],
   "events": [
    "ev-narada-lakshmi-mahaprasada",
    "ev-shiva-mahaprasada-dance",
    "ev-parvati-mahaprasada-vow",
    "ev-narada-kailasa-message",
-   "ev-bhrigu-tests-trimurti"
+   "ev-bhrigu-tests-trimurti",
+   "ev-rudras-rudradvipa"
   ],
   "geo": {
    "lat": 31.0678,
@@ -5584,7 +5733,11 @@
    "lcm-0164",
    "cc-2069",
    "gkd-0150",
+   "nvm-04-007",
+   "nvm-15-001",
    "cc-0005",
+   "nvm-02-001",
+   "nvm-03-001",
    "cc-0019",
    "cc-0041",
    "cc-0044",
@@ -5600,7 +5753,10 @@
    "ev-lord-consoles-shachi-before-sannyasa",
    "ev-hera-panchami",
    "ev-sanatana-kashi-instruction",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
    "ev-tattva-nityananda-advaita",
+   "ev-navadvipa-dhama-nature",
    "ev-tattva-shaktis",
    "ev-tattva-krishna-advent-reasons",
    "ev-tattva-radha-hladini",
@@ -6048,6 +6204,8 @@
   "note": "к югу от Ориссы; Вишну в облике Черепахи",
   "section": "",
   "lilas": [
+   "nvm-15-003",
+   "nvm-15-004",
    "cb-0071",
    "kcm-0119",
    "cc-1065",
@@ -6062,6 +6220,7 @@
    "mkc-0062"
   ],
   "events": [
+   "ev-ramanuja-navadvipa",
    "ev-nityananda-pilgrimage",
    "ev-kurma-vasudeva",
    "ev-marwari-brahmana-son"
@@ -6213,6 +6372,7 @@
   "note": "на Кавери; Ранганатха",
   "section": "",
   "lilas": [
+   "nvm-15-003",
    "cb-0069",
    "cb-1027",
    "cc-1099",
@@ -6240,6 +6400,7 @@
    "brt-0005"
   ],
   "events": [
+   "ev-ramanuja-navadvipa",
    "ev-nityananda-pilgrimage",
    "ev-gita-reading-brahmana",
    "ev-srirangam-chaturmasya",
@@ -6428,6 +6589,8 @@
   "note": "на восточном берегу Ямуны напротив Матхуры",
   "section": "",
   "lilas": [
+   "nvm-08-005",
+   "nvm-15-014",
    "cb-0043",
    "cb-0069",
    "pvl-0045",
@@ -6447,6 +6610,8 @@
    "anv-0036"
   ],
   "events": [
+   "ev-indra-surabhi-godruma",
+   "ev-vishnusvami-rudradvipa",
    "ev-tirthika-brahmana",
    "ev-nityananda-pilgrimage",
    "ev-lokanatha-sent-to-vrindavana",
@@ -6474,6 +6639,8 @@
   "note": "холм во Врадже; Манаса-Ганга, кунды, места дана-лилы и наука-лилы",
   "section": "",
   "lilas": [
+   "nvm-08-005",
+   "nvm-11-002",
    "apr-0015",
    "apr-0016",
    "cc-1038",
@@ -6519,6 +6686,8 @@
    "cc-0288"
   ],
   "events": [
+   "ev-indra-surabhi-godruma",
+   "ev-varaha-vasudeva",
    "ev-advaita-pilgrimage",
    "ev-advaita-madana-mohana",
    "ev-sakshi-gopala-two-brahmins",
@@ -6565,6 +6734,7 @@
   "note": "селение на Ганге напротив Навадвипы (Колдвип); здесь Господь принимал жителей Навадвипы · НДМ 10.49, 11.3–42: Кулия-пахада (Коладвипа-парвата) — возвышенность на берегу Ганги; Махапраяга (слияние Ганги с пятью реками), Вараха-кшетра; Врадж — Говардхана; НБТ 65–67",
   "section": "",
   "lilas": [
+   "nvm-11-002",
    "pvl-0258",
    "apr-0031",
    "pvl-0218",
@@ -6590,10 +6760,15 @@
    "mkc-0226",
    "pad-0023",
    "pad-0077",
+   "nvm-10-005",
+   "nvm-11-001",
    "cb-0009",
-   "pvl-0189"
+   "pvl-0189",
+   "nvm-19-021",
+   "nvm-19-022"
   ],
   "events": [
+   "ev-varaha-vasudeva",
    "ev-advaita-marries-sita",
    "ev-haridasa-muslim-governor",
    "ev-shraddha-patra-haridasa",
@@ -6607,7 +6782,8 @@
    "ev-kulia-mass-kirtan",
    "ev-kulia-offender-brahmana-remedy",
    "ev-devananda-mercy",
-   "ev-ramakeli-rupa-sanatana"
+   "ev-ramakeli-rupa-sanatana",
+   "ev-nityananda-jiva-parikrama-koladvipa"
   ],
   "geo": {
    "lat": 23.4087,
@@ -6868,6 +7044,7 @@
    "gkd-0128",
    "mkc-0188",
    "nvl-0007",
+   "nvm-04-003",
    "pvl-0195",
    "cc-0345",
    "nvl-0008",
@@ -7623,6 +7800,7 @@
   "note": "Радха-деша; родина Нитьянанды",
   "section": "",
   "lilas": [
+   "nvm-15-007",
    "cb-0013",
    "jcm-0014",
    "cc-0189",
@@ -7652,6 +7830,7 @@
    "pad-0526"
   ],
   "events": [
+   "ev-pandavas-mahatpur",
    "ev-associates-descend",
    "ev-jagannatha-mishra-marries-shachi",
    "ev-nityananda-birth",
@@ -8522,6 +8701,7 @@
    "cb-0069",
    "pvl-0045",
    "cc-3124",
+   "nvm-14-001",
    "cc-4029"
   ],
   "events": [
@@ -8529,6 +8709,7 @@
    "ev-nityananda-pilgrimage",
    "ev-lokanatha-sent-to-vrindavana",
    "ev-subuddhi-raya-holy-name",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
    "ev-haridasa-sthavara-jangama-deliverance"
   ],
   "geo": {
@@ -9062,13 +9243,26 @@
   "note": "Бенгалия; дом отца Шачи («Према-виласа» 7) · = Билвапакша (Бела-Пукурийя) НДМ 8.11, 16.5–58: Шива и Нимбадитья (Нимбарка), четверо Кумаров; Врадж — Билвавана; НБТ 25",
   "section": "",
   "lilas": [
+   "nvm-16-002",
+   "nvm-16-003",
+   "nvm-16-004",
+   "nvm-16-005",
+   "nvm-16-006",
    "pvl-0227",
    "pvl-0263",
-   "pvl-0038"
+   "pvl-0038",
+   "nvm-08-002",
+   "nvm-16-001",
+   "nvm-16-008",
+   "nvm-19-007"
   ],
   "events": [
+   "ev-nimbarka-bilvapaksha",
+   "ev-keshava-kashmiri-defeat",
    "ev-mishra-family-migrates-navadvipa",
-   "ev-vishvarupa-sannyasa"
+   "ev-vishvarupa-sannyasa",
+   "ev-mahavaranasi-shiva-gaura-name",
+   "ev-nityananda-jiva-parikrama-bilvapaksha"
   ],
   "geo": {
    "lat": 23.4786,
@@ -9604,14 +9798,18 @@
    "gkd-0140",
    "cc-3008",
    "vlb-0004",
+   "nvm-14-005",
    "anv-0036",
-   "vlb-0010"
+   "vlb-0010",
+   "nvm-19-033"
   ],
   "events": [
    "ev-vraja-parikrama",
    "ev-jiva-vallabha-dispute",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
    "ev-srinivasa-narottama-farewell-parikrama",
-   "ev-vyasatirtha-vallabha"
+   "ev-vyasatirtha-vallabha",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit"
   ]
  },
  {
@@ -9621,12 +9819,16 @@
   "note": "устье Ганги",
   "section": "",
   "lilas": [
+   "nvm-16-009",
    "cb-0071",
-   "vlb-0013"
+   "vlb-0013",
+   "nvm-19-023"
   ],
   "events": [
+   "ev-bharadvaja-tila",
    "ev-nityananda-pilgrimage",
-   "ev-vallabha-bhatta-puri"
+   "ev-vallabha-bhatta-puri",
+   "ev-samudra-sena-bhima"
   ],
   "geo": {
    "lat": 21.6597,
@@ -9747,12 +9949,16 @@
   "note": "Восточная Бенгалия (Барисал); родовое селение Кумары-девы",
   "section": "",
   "lilas": [
+   "nvm-04-003",
    "brt-0032",
+   "nvm-04-001",
    "brt-0038",
    "brt-0029"
   ],
   "events": [
+   "ev-ramakeli-rupa-sanatana",
    "ev-rupa-sanatana-renunciation",
+   "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-comes-to-vrindavana",
    "ev-gosvamis-ancestry"
   ],
@@ -10151,12 +10357,20 @@
   "note": "Навадвипа-мандала; селение пастухов, пруд Горадаха («Према-виварта» 15) · НДМ 8.26–27: селение в Годрумадвипе (#godrumadvipa)",
   "section": "",
   "lilas": [
+   "nvm-08-005",
+   "nvm-10-007",
    "cb-2053",
-   "pv-0013"
+   "pv-0013",
+   "nvm-08-004",
+   "nvm-19-014"
   ],
   "events": [
+   "ev-indra-surabhi-godruma",
+   "ev-gaura-ekadashi-parikrama",
    "ev-nagara-kirtana-kazi",
-   "ev-goradaha-crocodile-deliverance"
+   "ev-goradaha-crocodile-deliverance",
+   "ev-nityananda-jiva-parikrama-godruma",
+   "ev-gaura-cowherds-godruma"
   ],
   "geo": {
    "lat": 23.4086,
@@ -10421,8 +10635,22 @@
   "en": "Champahatti",
   "note": "деревня в Ритудвипе (Навадвипа); древние Божества Гаура-Гададхары (B 141) · НДМ 11.84–154: северная часть Коладвипы (НБТ 76); Врадж — Кхадиравана; лес чампаки Чампакалаты; Джаядева и Падмавати; дом Ванинатхи (#house-vaninatha)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-11-007",
+   "nvm-11-008",
+   "nvm-11-006",
+   "nvm-11-009",
+   "nvm-12-001",
+   "nvm-19-025",
+   "nvm-19-026"
+  ],
+  "events": [
+   "ev-jayadeva-lakshmana-sena",
+   "ev-gaura-appears-jayadeva",
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-nityananda-jiva-parikrama-ritudvipa",
+   "ev-gaura-sankirtana-vaninatha-house"
+  ],
   "geo": {
    "lat": 23.3826,
    "lon": 88.3341,
@@ -10580,13 +10808,36 @@
   "note": "селение у Ганги близ Навадвипы; дом Видья-вачаспати (ЧБ Антья 3); не #vidyanagara на Годавари · НДМ 12.17, 13.2–43: в Ритудвипе (#ritudvipa); обитель Вед и Сарасвати; школа Сарвабхаумы (Брихаспати); НБТ 85–93; школа Видья-вачаспати по НБТ 67 — в Коладвипе (Кулия)",
   "section": "",
   "lilas": [
+   "nvm-13-001",
+   "nvm-13-002",
+   "nvm-13-003",
+   "nvm-13-004",
+   "nvm-13-005",
+   "nvm-13-006",
    "cb-3048",
    "cb-3049",
-   "cb-3050"
+   "cb-3050",
+   "nvm-12-004",
+   "nvm-13-007",
+   "nvm-13-008",
+   "nvm-13-009",
+   "nvm-19-022",
+   "nvm-19-029",
+   "nvm-19-030"
   ],
   "events": [
+   "ev-matsya-vedas-vidyanagara",
+   "ev-brahma-sarasvati-vidyanagara",
+   "ev-sciences-vidyanagara",
+   "ev-upanishads-vidyanagara",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
+   "ev-nimai-vidyanagara-debate",
    "ev-vidya-vachaspati-house",
-   "ev-kulia-mass-kirtan"
+   "ev-kulia-mass-kirtan",
+   "ev-nityananda-jiva-parikrama-ritudvipa",
+   "ev-nityananda-jiva-parikrama-vidyanagara",
+   "ev-nityananda-predicts-jiva-books",
+   "ev-devananda-rebuked"
   ],
   "geo": {
    "lat": 23.4045,
@@ -10684,10 +10935,12 @@
   "note": "селение на окраине Надии, близ дома Кази; путь ночного шествия киртана (ЧБ Мадхья 23) · НДМ 6.39–43, 6.69: Симулийя-грама — простонародное имя Симантадвипы (#simantadvipa); почитание богини Симали (Парвати); карта НДМ: Симулиячара",
   "section": "",
   "lilas": [
+   "nvm-10-007",
    "cb-2050",
    "cb-2051"
   ],
   "events": [
+   "ev-gaura-ekadashi-parikrama",
    "ev-nagara-kirtana-kazi"
   ],
   "geo": {
@@ -11173,8 +11426,12 @@
   "en": "Jaipur",
   "note": "Раджастхан; ныне здесь Говинда-дева Рупы (B 327–328; T 161)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-04-005"
+  ],
+  "events": [
+   "ev-govinda-bhashya-prophecy"
+  ],
   "geo": {
    "lat": 26.9155,
    "lon": 75.819,
@@ -11467,8 +11724,47 @@
   "en": "Sri Mayapur (Ishodyan)",
   "note": "Навадвипа-дхама, восточный берег Ганги; матхи Гаудия-миссии XX в., самадхи @bhakti-dayita-madhava (T 287) · НДМ 3.19–26, 5.5–16: в центре Антардвипы (#antardvipa), на восточном берегу Ганги; Врадж — Гокула-Махавана; ср. #ishodyana",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-005",
+   "nvm-08-007",
+   "nvm-10-003",
+   "nvm-16-005",
+   "nvm-14-004",
+   "nvm-10-006",
+   "nvm-05-001",
+   "nvm-05-002",
+   "nvm-05-007",
+   "nvm-05-012",
+   "nvm-05-008",
+   "nvm-05-013",
+   "nvm-05-009",
+   "nvm-10-008",
+   "nvm-16-010",
+   "nvm-02-001",
+   "nvm-03-001",
+   "nvm-03-002",
+   "nvm-19-002",
+   "nvm-19-008",
+   "nvm-19-022"
+  ],
+  "events": [
+   "ev-parvati-simantadvipa",
+   "ev-markandeya-surabhi",
+   "ev-diva-dasa-pushkara",
+   "ev-keshava-kashmiri-defeat",
+   "ev-sadananda-vipra-rama-vision",
+   "ev-nagara-kirtana-kazi",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-koladvipa",
+   "ev-nityananda-jiva-parikrama-bilvapaksha",
+   "ev-navadvipa-dhama-nature",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-vidya-vachaspati-house"
+  ],
   "geo": {
    "lat": 23.4234,
    "lon": 88.3908,
@@ -11650,8 +11946,25 @@
   "en": "Modadrumadvipa (Mamgachi)",
   "note": "остров Навадвипы на Ганге, у станции Пурвастхали; место бхаджана Саранги Тхакура, дом Васудевы Датты, место рождения Вриндавана даса (T 94; M 185; B 681) · НДМ 3.32, 13.76, 14.2–15.89 (дасьям): Мамгачхи (в изд. 2001 — Мамагачи), Вайкунтхапура, Махатпура, Арка-тила; Врадж — Бхандиравана; Рама с Ситой и Лакшманой; НБТ 109–131",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-14-002",
+   "nvm-14-004",
+   "nvm-15-005",
+   "nvm-13-013",
+   "nvm-14-001",
+   "nvm-14-005",
+   "nvm-03-002",
+   "nvm-19-033"
+  ],
+  "events": [
+   "ev-rama-modadrumadvipa",
+   "ev-sadananda-vipra-rama-vision",
+   "ev-marriage-lakshmipriya",
+   "ev-nityananda-jiva-parikrama-jahnudvipa",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit"
+  ],
   "geo": {
    "lat": 23.4157,
    "lon": 88.3228,
@@ -11878,8 +12191,12 @@
   "en": "Advaita-bhavana (Advaita's house in Navadvipa)",
   "note": "Майяпур, недалеко от Шривас-анганы; толь Адвайты; ныне центр Гаудия-матха (T 18–19, 256, 269; M 217) · НДМ 5.62–64: 32 м к северу от Шривас-анганы; карта НДМ: «Homes of Advaita and Gadadhar»",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-006"
+  ],
+  "events": [
+   "ev-advaita-calls-lord"
+  ],
   "geo": {
    "lat": 23.4404,
    "lon": 88.3946,
@@ -11893,8 +12210,13 @@
   "en": "house of Gangadasa Pandita",
   "note": "Ганганагар (Навадвипа), рядом с домом Господа; здесь Нимай учился грамматике (B 745; T 34); по T — на деле в Симантадвипе · НДМ 6.22, НБТ 20: в Ганга Нагаре (#ganga-nagara)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-003",
+   "nvm-19-003"
+  ],
+  "events": [
+   "ev-study-gangadasa"
+  ],
   "geo": {
    "lat": 23.4388,
    "lon": 88.4004,
@@ -11908,8 +12230,15 @@
   "en": "Simantadvipa",
   "note": "один из девяти островов Навадвипы; по T 34 — здесь дом Гангадаса Пандита · НДМ 3.27, 6.40–76: остров к северу от Майяпура (шраванам); Парвати нанесла пыль со стоп Гауры на пробор (симанта); богиня Симантини (Симали-деви); простонародное имя — Симулия (#simulia); по легенде карты — до Рукунапура, на юге Сараданга и Вишрама-стхала",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-005",
+   "nvm-03-002",
+   "nvm-19-006"
+  ],
+  "events": [
+   "ev-parvati-simantadvipa",
+   "ev-navadvipa-parikrama-order"
+  ],
   "geo": {
    "lat": 23.4621,
    "lon": 88.4013,
@@ -12106,8 +12435,29 @@
   "en": "Antardwip",
   "note": "один из девяти островов Навадвипы — сердцевина лотоса (атма-ниведанам), на восточном берегу Ганги; Майяпур (#mayapur), Йогапитха; Врадж — Гокула-Махавана; Брахма получил даршан Гауры (будущий Харидас) (НДМ 3.18, 5.5, 5.107–157; НБТ 8–18)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-014",
+   "nvm-08-007",
+   "nvm-10-007",
+   "nvm-05-001",
+   "nvm-05-012",
+   "nvm-06-001",
+   "nvm-02-001",
+   "nvm-03-001",
+   "nvm-03-002",
+   "nvm-19-002"
+  ],
+  "events": [
+   "ev-brahma-steals-calves-haridasa",
+   "ev-markandeya-surabhi",
+   "ev-gaura-ekadashi-parikrama",
+   "ev-nityananda-reveals-dhama-jiva",
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-nityananda-jiva-parikrama-simantadvipa",
+   "ev-navadvipa-dhama-nature",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ],
   "geo": {
    "lat": 23.4383,
    "lon": 88.393,
@@ -12121,8 +12471,44 @@
   "en": "Godrumadwip",
   "note": "остров (киртанам) к югу от Майяпура; Индра и Сурабхи, Маркандейя у баньяна; Гадигачха (#gadigachha), Суварна Бихар, Дева Полли, Харихара-кшетра, Маха-Варанаси; Врадж — Нандишвара (НБТ 44) (НДМ 3.29, 8.26–92; НБТ 41–50); по традиционному отождествлению — Сварупгандж, у впадения Джаланги в Гангу",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-07-002",
+   "nvm-07-003",
+   "nvm-07-006",
+   "nvm-08-005",
+   "nvm-08-006",
+   "nvm-08-007",
+   "nvm-07-001",
+   "nvm-07-004",
+   "nvm-07-005",
+   "nvm-07-007",
+   "nvm-08-001",
+   "nvm-08-002",
+   "nvm-08-003",
+   "nvm-08-004",
+   "nvm-08-008",
+   "nvm-09-001",
+   "nvm-10-008",
+   "nvm-03-002",
+   "nvm-19-013",
+   "nvm-19-014"
+  ],
+  "events": [
+   "ev-narada-suvarna-sena",
+   "ev-nrisimha-rests-deva-palli",
+   "ev-indra-surabhi-godruma",
+   "ev-markandeya-surabhi",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-nityananda-jiva-parikrama-deva-palli",
+   "ev-prophecy-nrisimha-temple-deva-palli",
+   "ev-nityananda-jiva-parikrama-godruma",
+   "ev-mahavaranasi-shiva-gaura-name",
+   "ev-shiva-parvati-bow-nityananda",
+   "ev-nityananda-jiva-parikrama-madhyadvipa",
+   "ev-nityananda-jiva-parikrama-koladvipa",
+   "ev-navadvipa-parikrama-order",
+   "ev-gaura-cowherds-godruma"
+  ],
   "geo": {
    "lat": 23.4086,
    "lon": 88.4019,
@@ -12136,8 +12522,29 @@
   "en": "Madhyadwip",
   "note": "остров (смаранам) к югу от Годрумы; семь риши, Наймиша на Гомати, Брахмана Пушкара, Учча-хатта (Курукшетра) (НДМ 3.29, 9.3–10.47; НБТ 51–64); по легенде карты НДМ — Маджида, Бхалука, Парнашила, Хатаденга",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-09-002",
+   "nvm-09-003",
+   "nvm-09-004",
+   "nvm-10-002",
+   "nvm-10-004",
+   "nvm-09-001",
+   "nvm-09-005",
+   "nvm-10-001",
+   "nvm-03-002",
+   "nvm-19-015",
+   "nvm-19-019"
+  ],
+  "events": [
+   "ev-seven-rishis-majida",
+   "ev-naimisha-shaunaka-suta",
+   "ev-shiva-hamsa-naimisha",
+   "ev-diva-dasa-pushkara",
+   "ev-devas-uchcha-hatta",
+   "ev-nityananda-jiva-parikrama-madhyadvipa",
+   "ev-navadvipa-parikrama-order",
+   "ev-gaura-madhyadvipa-midday-kirtan"
+  ],
   "geo": {
    "lat": 23.4021,
    "lon": 88.3897,
@@ -12151,8 +12558,33 @@
   "en": "Koladwip",
   "note": "остров (пада-севанам) на западном берегу Ганги; Варахадева явился брахману Васудеве; Врадж — Говардхана, Бахулавана; Кулия-пахада (#kulia), Самудрагадха, Чампахати (НДМ 3.31, 10.48–11.155; НБТ 65–78); ныне — г. Навадвип и окрестности к югу",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-11-002",
+   "nvm-11-004",
+   "nvm-11-005",
+   "nvm-11-007",
+   "nvm-11-008",
+   "nvm-10-005",
+   "nvm-10-008",
+   "nvm-11-001",
+   "nvm-11-003",
+   "nvm-11-006",
+   "nvm-11-009",
+   "nvm-03-002",
+   "nvm-19-021",
+   "nvm-19-024"
+  ],
+  "events": [
+   "ev-varaha-vasudeva",
+   "ev-samudra-sena-bhima",
+   "ev-ocean-ganga-samudragarh",
+   "ev-jayadeva-lakshmana-sena",
+   "ev-gaura-appears-jayadeva",
+   "ev-nityananda-jiva-parikrama-koladvipa",
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ],
   "geo": {
    "lat": 23.4087,
    "lon": 88.3658,
@@ -12166,8 +12598,40 @@
   "en": "Rtudwip",
   "note": "остров (арчанам), где шесть времён года служат Гауре; Радха-кунда (#radha-kunda-navadvipa), Ратупур, Видьянагара (НДМ 3.31, 12.4–13.42; НБТ 79–93)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-13-001",
+   "nvm-13-002",
+   "nvm-13-003",
+   "nvm-13-004",
+   "nvm-13-005",
+   "nvm-13-006",
+   "nvm-12-003",
+   "nvm-12-001",
+   "nvm-12-004",
+   "nvm-12-002",
+   "nvm-13-007",
+   "nvm-13-008",
+   "nvm-13-009",
+   "nvm-03-002",
+   "nvm-19-027",
+   "nvm-19-028",
+   "nvm-19-029"
+  ],
+  "events": [
+   "ev-matsya-vedas-vidyanagara",
+   "ev-brahma-sarasvati-vidyanagara",
+   "ev-sciences-vidyanagara",
+   "ev-upanishads-vidyanagara",
+   "ev-brihaspati-sarvabhauma-vidyanagara",
+   "ev-nimai-vidyanagara-debate",
+   "ev-gaura-kirtan-radha-kunda-ritudvipa",
+   "ev-nityananda-jiva-parikrama-ritudvipa",
+   "ev-nityananda-balarama-bhava-ritudvipa",
+   "ev-nityananda-jiva-parikrama-vidyanagara",
+   "ev-nityananda-predicts-jiva-books",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-krishna-balarama-calves"
+  ],
   "geo": {
    "lat": 23.3775,
    "lon": 88.3319,
@@ -12181,8 +12645,22 @@
   "en": "Jahnudwip",
   "note": "остров (ванданам); обитель Джахну Муни, Бхишма; Врадж — Бхадравана (НДМ 3.32, 13.60–75; НБТ 94–108); Джаннагар (#jannagar)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-13-011",
+   "nvm-13-012",
+   "nvm-13-010",
+   "nvm-13-013",
+   "nvm-03-002",
+   "nvm-19-031",
+   "nvm-19-032"
+  ],
+  "events": [
+   "ev-jahnu-ganga",
+   "ev-bhishma-jahnu",
+   "ev-nityananda-jiva-parikrama-jahnudvipa",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-bhishma-instruction"
+  ],
   "geo": {
    "lat": 23.4109,
    "lon": 88.3421,
@@ -12196,8 +12674,25 @@
   "en": "Rudradwip",
   "note": "остров (сакхьям), разделённый Гангой надвое; одиннадцать Рудр во главе с Нилалохитой, Шанкарачарья, Вишнусвами (Рудра-сампрадая); лес Рудравана, Медхра-стхала, Нидая; по НБТ 132 сравним лишь с Кайласой (НДМ 3.33, 15.90–125, 15.140; НБТ 132–144); по легенде карты НДМ — Рудрапара, Шанкарпур, Пурвастхали, Чупи, Кокшали, Медатала",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-15-012",
+   "nvm-15-011",
+   "nvm-15-013",
+   "nvm-15-014",
+   "nvm-15-010",
+   "nvm-15-018",
+   "nvm-03-002",
+   "nvm-19-038",
+   "nvm-19-039"
+  ],
+  "events": [
+   "ev-rudras-rudradvipa",
+   "ev-shankaracharya-rudradvipa",
+   "ev-vishnusvami-rudradvipa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
+   "ev-navadvipa-parikrama-order",
+   "ev-bhaktivinoda-vision-sayujya-shiva"
+  ],
   "geo": {
    "lat": 23.4389,
    "lon": 88.3336,
@@ -12211,8 +12706,12 @@
   "en": "house of Gadadhar Pandit (Mayapur)",
   "note": "Майяпур, 16 м к востоку от дома Адвайты (НДМ 5.65); карта НДМ: «Homes of Advaita and Gadadhar»",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-007"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-mayapur"
+  ],
   "geo": {
    "lat": 23.4404,
    "lon": 88.3948,
@@ -12226,8 +12725,17 @@
   "en": "Temple of Vriddha Shiva (Vriddha Shiva and Praudha Maya)",
   "note": "Майяпур, на берегу Ганги у внешней границы; хранители дхамы; Праудха-майя — Парвати (во Врадже — Паурнамаси, НДМ 6.74); при сокрытии Майяпура переходят в Чхинна Дангу (НДМ 5.68–75, 5.81–85, 5.119; НБТ 14)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-012",
+   "nvm-05-008",
+   "nvm-05-013",
+   "nvm-19-002"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-mayapur",
+   "ev-prophecy-mayapur-reappearance",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ],
   "geo": {
    "lat": 23.4383,
    "lon": 88.393,
@@ -12241,8 +12749,16 @@
   "en": "Gauranga's ghat",
   "note": "Майяпур, 10 м к северу от гхата Вриддха Шивы; детские игры Гауры с Гангой (НДМ 5.97–101)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-011",
+   "nvm-05-010",
+   "nvm-05-012"
+  ],
+  "events": [
+   "ev-ganga-austerity-gaura-promise",
+   "ev-ganga-ghat-pranks",
+   "ev-nityananda-jiva-parikrama-mayapur"
+  ],
   "geo": {
    "lat": 23.4384,
    "lon": 88.393,
@@ -12256,8 +12772,12 @@
   "en": "Madhai's ghat",
   "note": "Майяпур, 160 м к северу от Гауранга-гхаты (НДМ 5.102)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-012"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-mayapur"
+  ],
   "geo": {
    "lat": 23.4398,
    "lon": 88.393,
@@ -12271,8 +12791,16 @@
   "en": "Barakona Ghat",
   "note": "Майяпур, 16 м к северу от гхата Мадхая; построена Вишвакармой; пять храмов Шивы (НДМ 5.103–106); сюда пришёл Джива (НДМ 4.15); отсюда Господь начинал десятимильный обход (НДМ 10.56)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-10-007",
+   "nvm-04-002",
+   "nvm-05-012"
+  ],
+  "events": [
+   "ev-gaura-ekadashi-parikrama",
+   "ev-jiva-meets-nityananda-navadvipa",
+   "ev-nityananda-jiva-parikrama-mayapur"
+  ],
   "geo": {
    "lat": 23.44,
    "lon": 88.393,
@@ -12286,8 +12814,12 @@
   "en": "Shiva Doba",
   "note": "пруд в Майяпуре на месте прежнего берега Ганги — примета для отыскания сокрытых мест (НДМ 5.120)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-05-013"
+  ],
+  "events": [
+   "ev-prophecy-mayapur-reappearance"
+  ],
   "geo": {
    "lat": 23.4383,
    "lon": 88.393,
@@ -12301,8 +12833,16 @@
   "en": "Paradanga (Sattikara)",
   "note": "песчаная коса на западном берегу Ганги напротив Майяпура, селение брахманов; Врадж — Саттикара; раса-стхали; сюда перенесут Божество Гауранги Вишнуприи (НДМ 5.82–95, 10.59); на карте НДМ — в разделе Рудрадвипы",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-10-007",
+   "nvm-05-009",
+   "nvm-15-015"
+  ],
+  "events": [
+   "ev-gaura-ekadashi-parikrama",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa"
+  ],
   "geo": {
    "lat": 23.4295,
    "lon": 88.3607,
@@ -12316,8 +12856,14 @@
   "en": "Chhinnadanga",
   "note": "берег Ганги к северу от Параданги; сюда на время перейдут Вриддха Шива и Праудха-майя (НДМ 5.84–85, 10.59)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-10-007",
+   "nvm-05-009"
+  ],
+  "events": [
+   "ev-gaura-ekadashi-parikrama",
+   "ev-prophecy-vishnupriya-deity-paradanga"
+  ],
   "geo": {
    "lat": 23.4295,
    "lon": 88.3607,
@@ -12331,8 +12877,21 @@
   "en": "Sri Pulina (Rasa Mandal, Dhira Samira)",
   "note": "берег Ганги к западу от Майяпура — Вриндаван в Навадвипе: Раса-мандала, к западу Дхира-самира, далее Вамши-ват и берег Ямуны; Господь читал здесь стихи о раса-лиле (НДМ 5.86–91, 15.126–139; НБТ 145–152)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-15-016",
+   "nvm-05-009",
+   "nvm-10-008",
+   "nvm-15-015",
+   "nvm-15-017",
+   "nvm-19-040"
+  ],
+  "events": [
+   "ev-rasa-lila-navadvipa",
+   "ev-prophecy-vishnupriya-deity-paradanga",
+   "ev-nityananda-jiva-parikrama-koladvipa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
+   "ev-bhaktivinoda-vision-kamala-manjari"
+  ],
   "geo": {
    "lat": 23.4295,
    "lon": 88.3607,
@@ -12346,8 +12905,15 @@
   "en": "Ganga Nagar",
   "note": "у границы Антардвипы, на берегу Ганги к западу от Притху-кунды; основана Махараджей Бхагиратхой; дома Гангадаса Пандита (#house-gangadasa) и Санджаи (#house-sanjaya) (НДМ 6.5–22; НБТ 20); тождество с #ganganagara (T 70) не установлено",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-002",
+   "nvm-06-003",
+   "nvm-19-003"
+  ],
+  "events": [
+   "ev-bhagiratha-ganga-nagara",
+   "ev-study-gangadasa"
+  ],
   "geo": {
    "lat": 23.4388,
    "lon": 88.4004,
@@ -12361,8 +12927,12 @@
   "en": "house of Sanjay Das",
   "note": "Ганга Нагара (Навадвипа); дом Санджаи даса, спутника Господа (НДМ 6.22)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-003"
+  ],
+  "events": [
+   "ev-study-gangadasa"
+  ],
   "geo": {
    "lat": 23.4388,
    "lon": 88.4004,
@@ -12376,8 +12946,18 @@
   "en": "Prthu Kunda (Ballal Dirghika)",
   "note": "озеро к востоку от Ганга Нагары: выкопано Махараджей Притху, углублено Лакшманом Сеном и названо в честь Баллала Сена; на берегу — первая хижина Джаядевы (НДМ 11.92) (НДМ 6.23–38; НБТ 19, 71); ныне — Баллал-дигхи",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-004",
+   "nvm-11-007",
+   "nvm-10-007",
+   "nvm-19-003"
+  ],
+  "events": [
+   "ev-prithu-kunda-origin",
+   "ev-jayadeva-lakshmana-sena",
+   "ev-gaura-ekadashi-parikrama",
+   "ev-study-gangadasa"
+  ],
   "geo": {
    "lat": 23.4499,
    "lon": 88.4153,
@@ -12391,8 +12971,12 @@
   "en": "hill of Lakshman Sen's house (Ballal Dhipi)",
   "note": "у Притху-кунды; развалины дома Лакшмана Сены, место осквернено царём-яваной (НДМ 6.34–38); ныне — городище Баллал-дхипи",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-004"
+  ],
+  "events": [
+   "ev-prithu-kunda-origin"
+  ],
   "geo": {
    "lat": 23.4499,
    "lon": 88.4153,
@@ -12406,8 +12990,18 @@
   "en": "Kazi Nagar",
   "note": "Симантадвипа; Врадж — Матхура; освобождение Чханд Кази, его самадхи (НДМ 6.77–91; НБТ 22: селение Чханд Кази к северу от Притху-кунды); ныне — Баманпукур, самадхи Чханд Кази",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-010",
+   "nvm-06-006",
+   "nvm-10-007",
+   "nvm-19-005"
+  ],
+  "events": [
+   "ev-vishvakarma-sixty-ponds",
+   "ev-nagara-kirtana-kazi",
+   "ev-gaura-ekadashi-parikrama",
+   "ev-jagannatha-shabaras-saradanga"
+  ],
   "geo": {
    "lat": 23.4464,
    "lon": 88.4052,
@@ -12421,8 +13015,12 @@
   "en": "Shankha Vanik Nagar",
   "note": "селение торговцев раковинами на пути от Кази Нагары к Сараданге (НДМ 6.92)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-007"
+  ],
+  "events": [
+   "ev-jagannatha-shabaras-saradanga"
+  ],
   "geo": {
    "lat": 23.4455,
    "lon": 88.4096,
@@ -12436,8 +13034,13 @@
   "en": "Saradanga (Sabaradanga)",
   "note": "Симантадвипа, южная часть (легенда карты НДМ); Джаганнатха с шабарами, скрывавшимися от Рактабаху; неотлична от Пурушоттама-кшетры (НДМ 6.93–96; НБТ 23)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-007",
+   "nvm-19-005"
+  ],
+  "events": [
+   "ev-jagannatha-shabaras-saradanga"
+  ],
   "geo": {
    "lat": 23.4455,
    "lon": 88.4096,
@@ -12451,8 +13054,12 @@
   "en": "Tantuvaya Gram",
   "note": "«селение ткачей» на пути к хижине Кхолавечи Шридхары (НДМ 6.97)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-008"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
   "geo": {
    "lat": 23.4455,
    "lon": 88.4096,
@@ -12466,8 +13073,22 @@
   "en": "Visram Sthan (cottage of Kholavecha Sridhar)",
   "note": "Симантадвипа, южная часть (легенда карты НДМ); здесь Господь отдыхал после освобождения Кази; банановая роща и пруд Шридхары (НДМ 6.97–114, 10.56–58; НБТ 30–32 — «посреди Мадхуваны»); ныне — Шридхара-ангана",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-10-007",
+   "nvm-06-008",
+   "nvm-06-011",
+   "nvm-06-009",
+   "nvm-07-001",
+   "nvm-19-009",
+   "nvm-19-010"
+  ],
+  "events": [
+   "ev-gaura-ekadashi-parikrama",
+   "ev-shridhara-kholavecha",
+   "ev-nityananda-jiva-parikrama-simantadvipa",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-nagara-kirtana-kazi"
+  ],
   "geo": {
    "lat": 23.4446,
    "lon": 88.4139,
@@ -12481,8 +13102,16 @@
   "en": "Sasthi Tirtha",
   "note": "шестьдесят прудов, выкопанных Вишвакармой за одну ночь вдоль путей санкиртаны, последний — в селении Кази (НДМ 6.107–111); Врадж — Мадхувана (НБТ 22)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-06-010",
+   "nvm-06-011",
+   "nvm-19-005"
+  ],
+  "events": [
+   "ev-vishvakarma-sixty-ponds",
+   "ev-shridhara-kholavecha",
+   "ev-jagannatha-shabaras-saradanga"
+  ]
  },
  {
   "id": "#mayamari",
@@ -12490,8 +13119,12 @@
   "en": "Mayamari",
   "note": "Симантадвипа, близ Вишрама-стханы; Баларама убил демона Маясуру; Врадж — Талавана (НДМ 6.115–121)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-06-012"
+  ],
+  "events": [
+   "ev-balarama-kills-mayasura"
+  ],
   "geo": {
    "lat": 23.4399,
    "lon": 88.4228,
@@ -12505,8 +13138,18 @@
   "en": "Suvarna Bihar",
   "note": "Годрумадвипа; царь Суварна Сен (будущий Буддхиманта Хан) получил наставления Нарады; видение киртана Гауры (НДМ 7.2–31; НБТ 33–34)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-07-002",
+   "nvm-07-003",
+   "nvm-07-001",
+   "nvm-07-004",
+   "nvm-19-011"
+  ],
+  "events": [
+   "ev-narada-suvarna-sena",
+   "ev-nityananda-jiva-parikrama-suvarna-vihara",
+   "ev-bhaktivinoda-vision-dhama-darshana"
+  ],
   "geo": {
    "lat": 23.4291,
    "lon": 88.413,
@@ -12520,8 +13163,18 @@
   "en": "Deva Palli (Nrsimha Ksetra, Nrsimha Palli)",
   "note": "Годрумадвипа, к юго-востоку от Суварна Бихара; храм Нрисимхадевы со времён Сатья-юги, холмы Сурьи, Брахмы, Ганеши и Индры на берегу Мандакини; одна из границ пути обхода (НДМ 7.32–39; НБТ 35–40); на карте НДМ в этом месте — Депара",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-07-006",
+   "nvm-07-005",
+   "nvm-07-007",
+   "nvm-19-012"
+  ],
+  "events": [
+   "ev-nrisimha-rests-deva-palli",
+   "ev-nityananda-jiva-parikrama-deva-palli",
+   "ev-prophecy-nrisimha-temple-deva-palli",
+   "ev-bhaktivinoda-vision-nrisimha-blessing"
+  ],
   "geo": {
    "lat": 23.4004,
    "lon": 88.4151,
@@ -12535,8 +13188,12 @@
   "en": "Harihara Ksetra",
   "note": "Годрумадвипа, на восточном берегу Алакананды у реки Гандака (НДМ 8.10–14; НБТ 41)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-08-002"
+  ],
+  "events": [
+   "ev-mahavaranasi-shiva-gaura-name"
+  ],
   "geo": {
    "lat": 23.4055,
    "lon": 88.4195,
@@ -12550,8 +13207,16 @@
   "en": "Mahavaranasi (Kasi)",
   "note": "Годрумадвипа, к западу от Алакананды; Шива возглашает имя Гауры в уши умирающим (НДМ 8.15–24; НБТ 41)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-08-002",
+   "nvm-08-003",
+   "nvm-19-013"
+  ],
+  "events": [
+   "ev-mahavaranasi-shiva-gaura-name",
+   "ev-shiva-parvati-bow-nityananda",
+   "ev-indra-surabhi-godruma"
+  ]
  },
  {
   "id": "#majida",
@@ -12559,8 +13224,17 @@
   "en": "Majida Gram",
   "note": "Мадхьядвипа; семь риши, сыновья Брахмы, поклонялись Гауре (НДМ 9.3–19); отсюда Господь переправлялся в Парадангу (НДМ 10.59)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-09-002",
+   "nvm-10-007",
+   "nvm-09-001",
+   "nvm-19-015"
+  ],
+  "events": [
+   "ev-seven-rishis-majida",
+   "ev-gaura-ekadashi-parikrama",
+   "ev-nityananda-jiva-parikrama-madhyadvipa"
+  ],
   "geo": {
    "lat": 23.4021,
    "lon": 88.3897,
@@ -12574,8 +13248,12 @@
   "en": "the seven hills of the seven sages",
   "note": "Мадхьядвипа, у Маджиды; расположены как созвездие Семи риши; Гаура велел риши поклоняться Кришне у их гхата в Кумара-хатте (НДМ 9.17–19; ср. #kumarahatta)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-09-002"
+  ],
+  "events": [
+   "ev-seven-rishis-majida"
+  ],
   "geo": {
    "lat": 23.4021,
    "lon": 88.3897,
@@ -12589,8 +13267,17 @@
   "en": "the Naimisa forest on the Gomati",
   "note": "Мадхьядвипа, к югу от семи холмов; Шаунака и риши слушали о Гауре от Суты; чтение Пуран в Картику (НДМ 9.20–24; НБТ 52–54)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-09-003",
+   "nvm-09-004",
+   "nvm-09-005",
+   "nvm-19-016"
+  ],
+  "events": [
+   "ev-naimisha-shaunaka-suta",
+   "ev-shiva-hamsa-naimisha",
+   "ev-nityananda-jiva-parikrama-madhyadvipa"
+  ]
  },
  {
   "id": "#hamsa-vahana",
@@ -12598,8 +13285,14 @@
   "en": "Hamsa Vahana",
   "note": "Мадхьядвипа, в Наймише: Шива прибыл на лебеде Брахмы слушать Пураны о Гауре (НДМ 9.23; на карте НДМ — 9.20; НБТ 52)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-09-004",
+   "nvm-19-016"
+  ],
+  "events": [
+   "ev-shiva-hamsa-naimisha",
+   "ev-naimisha-shaunaka-suta"
+  ]
  },
  {
   "id": "#brahmana-pushkara",
@@ -12607,8 +13300,16 @@
   "en": "Brahman Puskara (Brahmanpur)",
   "note": "Мадхьядвипа, к югу от Наймиши; брахман Дива дас (в изд. 2001 — Дживана дас) узрел Пушкару в пруду (НДМ 10.6–39; НБТ 55)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-10-002",
+   "nvm-10-003",
+   "nvm-10-001",
+   "nvm-19-017"
+  ],
+  "events": [
+   "ev-diva-dasa-pushkara",
+   "ev-nityananda-jiva-parikrama-madhyadvipa"
+  ],
   "geo": {
    "lat": 23.3783,
    "lon": 88.375,
@@ -12622,8 +13323,17 @@
   "en": "Uchcha Hatta (Hattadanga; Kuruksetra)",
   "note": "Мадхьядвипа, к югу от Брахмана Пушкары; Курукшетра и Брахмаварта с реками Сарасвати и Дришадвати; «рынок» полубогов; одна из границ Надии (НДМ 10.25–26, 10.40–47; НБТ 56); на карте НДМ — Хатаденга",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-10-003",
+   "nvm-10-004",
+   "nvm-10-005",
+   "nvm-19-018"
+  ],
+  "events": [
+   "ev-diva-dasa-pushkara",
+   "ev-devas-uchcha-hatta",
+   "ev-nityananda-jiva-parikrama-koladvipa"
+  ],
   "geo": {
    "lat": 23.3544,
    "lon": 88.3602,
@@ -12637,8 +13347,12 @@
   "en": "Panchaveni",
   "note": "у Учча-хатты; слияние Ганги, Сарасвати и Ямуны; омовение Гаурахари со спутниками (НБТ 62–64)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-19-020"
+  ],
+  "events": [
+   "ev-gaura-panchaveni-bath"
+  ],
   "geo": {
    "lat": 23.3544,
    "lon": 88.3602,
@@ -12652,8 +13366,12 @@
   "en": "Brahma Nagar (Brahma Kunda)",
   "note": "Мадхьядвипа; киртан Господа на берегу Брахма-кунды (НБТ 59)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-19-019"
+  ],
+  "events": [
+   "ev-gaura-madhyadvipa-midday-kirtan"
+  ]
  },
  {
   "id": "#samudragarh",
@@ -12661,8 +13379,17 @@
   "en": "Samudragad",
   "note": "Коладвипа, на границе Навадвипы; Дварака и Ганга-сагара; царь Самудра Сен и Бхимасена; океан служит Гауре (НДМ 11.43–83; НБТ 72–73); ныне — Самудрагарх (Пурба-Бардхаман)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-11-004",
+   "nvm-11-005",
+   "nvm-11-003",
+   "nvm-19-023"
+  ],
+  "events": [
+   "ev-samudra-sena-bhima",
+   "ev-ocean-ganga-samudragarh",
+   "ev-nityananda-jiva-parikrama-koladvipa"
+  ],
   "geo": {
    "lat": 23.3494,
    "lon": 88.3256,
@@ -12676,8 +13403,15 @@
   "en": "house of Vaninath (Champahati)",
   "note": "Чампахати (#champahatti); ночлег Нитьянанды и Дживы (НДМ 11.84, 11.154, 12.3); киртан и праздник Гауранги в доме Двиджи Ванинатхи (НБТ 77)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-11-006",
+   "nvm-11-009",
+   "nvm-19-026"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-champahatti",
+   "ev-gaura-sankirtana-vaninatha-house"
+  ],
   "geo": {
    "lat": 23.3826,
    "lon": 88.3341,
@@ -12691,8 +13425,12 @@
   "en": "Ratupur (Rahutapur)",
   "note": "Ритудвипа (НДМ 12.4); на карте НДМ — Рахутапур",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-12-001"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-ritudvipa"
+  ],
   "geo": {
    "lat": 23.3775,
    "lon": 88.3319,
@@ -12706,8 +13444,15 @@
   "en": "Radha Kunda and Syama Kunda (Rtudwip)",
   "note": "Ритудвипа; Врадж — Радха-кунда; послеполуденный киртан Гаурахари, рощи сакхи; Манаса-ганга (НДМ 12.12–15; НБТ 79–82); не путать с #radha-kunda (Врадж)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-12-003",
+   "nvm-19-027",
+   "nvm-19-028"
+  ],
+  "events": [
+   "ev-gaura-kirtan-radha-kunda-ritudvipa",
+   "ev-bhaktivinoda-vision-krishna-balarama-calves"
+  ],
   "geo": {
    "lat": 23.3775,
    "lon": 88.3319,
@@ -12721,8 +13466,17 @@
   "en": "Jan Nagar (hermitage of Jahnu Muni)",
   "note": "Джахнудвипа; Врадж — Бхадравана; Джахну Муни выпил Гангу; Бхишма учился у Джахну (НДМ 13.60–75; НБТ 94–95)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-13-011",
+   "nvm-13-012",
+   "nvm-13-010",
+   "nvm-19-031"
+  ],
+  "events": [
+   "ev-jahnu-ganga",
+   "ev-bhishma-jahnu",
+   "ev-nityananda-jiva-parikrama-jahnudvipa"
+  ],
   "geo": {
    "lat": 23.4109,
    "lon": 88.3421,
@@ -12736,8 +13490,14 @@
   "en": "Bhisma Tila",
   "note": "Джахнудвипа; холм, на котором является Бхишмадева (НБТ 96–108)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-13-012",
+   "nvm-19-032"
+  ],
+  "events": [
+   "ev-bhishma-jahnu",
+   "ev-bhaktivinoda-vision-bhishma-instruction"
+  ],
   "geo": {
    "lat": 23.4109,
    "lon": 88.3421,
@@ -12751,8 +13511,16 @@
   "en": "Rama Vata (site of Rama's cottage)",
   "note": "Модадрумадвипа, Мамгачхи; хижина Рамы, Ситы и Лакшманы под огромным баньяном; Врадж — Бхандиравана (НДМ 14.3–32; НБТ 110–116)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-14-002",
+   "nvm-14-003",
+   "nvm-19-033"
+  ],
+  "events": [
+   "ev-rama-modadrumadvipa",
+   "ev-vishnupriya-deity",
+   "ev-bhaktivinoda-vision-rama-lakshmana-fruit"
+  ],
   "geo": {
    "lat": 23.4157,
    "lon": 88.3228,
@@ -12766,8 +13534,12 @@
   "en": "house of Narayani (Mamgachhi)",
   "note": "Модадрумадвипа; Нараяни, мать Вьясы (Вриндавана даса), принимала Нитьянанду и преданных (НДМ 14.48–49); ср. #modadrumadvipa",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-14-005"
+  ],
+  "events": [
+   "ev-nityananda-jiva-parikrama-modadrumadvipa"
+  ],
   "geo": {
    "lat": 23.4157,
    "lon": 88.3228,
@@ -12781,8 +13553,22 @@
   "en": "Vaikunthapur",
   "note": "Модадрумадвипа; Вайкунтха за рекой Вираджа, лес Нихшреяса; Нарада, Рамануджа (будущий Ананта Ачарья), дом Ананты Ачарьи (НДМ 14.50, 15.2–59; НБТ 117–119)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-15-002",
+   "nvm-15-004",
+   "nvm-14-005",
+   "nvm-15-001",
+   "nvm-15-006",
+   "nvm-19-034",
+   "nvm-19-035"
+  ],
+  "events": [
+   "ev-narada-vaikunthapur-gaura",
+   "ev-ramanuja-navadvipa",
+   "ev-nityananda-jiva-parikrama-modadrumadvipa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
+   "ev-bhaktivinoda-vision-surya-arka-tila"
+  ],
   "geo": {
    "lat": 23.4199,
    "lon": 88.3361,
@@ -12796,8 +13582,12 @@
   "en": "home of Vallabha Acharya (site of Laksmi and Gauranga's marriage)",
   "note": "Модадрумадвипа, между Вайкунтхапурой и Махатпурой (НДМ 15.56)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-15-005"
+  ],
+  "events": [
+   "ev-marriage-lakshmipriya"
+  ],
   "geo": {
    "lat": 23.4199,
    "lon": 88.3361,
@@ -12811,8 +13601,20 @@
   "en": "Mahatpur (Matapur)",
   "note": "Модадрумадвипа; Врадж — Камьявана; Пандавы с Драупади — холм Юдхиштхиры (Юдхиштхира-парвата), Драупади-кунда («Пандава-нивас» легенды карты НДМ); Мадхвачарья (НДМ 15.60–89; НБТ 124–131)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-15-007",
+   "nvm-15-008",
+   "nvm-15-009",
+   "nvm-15-006",
+   "nvm-19-036",
+   "nvm-19-037"
+  ],
+  "events": [
+   "ev-pandavas-mahatpur",
+   "ev-madhva-mahatpur-dream",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa",
+   "ev-bhaktivinoda-vision-draupadi-prasada"
+  ],
   "geo": {
    "lat": 23.424,
    "lon": 88.3494,
@@ -12826,8 +13628,12 @@
   "en": "Arka Tila (Surya Ksetra, Arkadala)",
   "note": "Модадрумадвипа; холм Сурьядевы, за рекой Вираджа и Брахмани Нагарой (НБТ 120–123); легенда карты НДМ",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-19-035"
+  ],
+  "events": [
+   "ev-bhaktivinoda-vision-surya-arka-tila"
+  ],
   "geo": {
    "lat": 23.4316,
    "lon": 88.3423,
@@ -12841,8 +13647,14 @@
   "en": "Sankarpur",
   "note": "Рудрадвипа, на берегу Ганги; Шанкарачарья, получив во сне наставление Гауры, ушёл из Навадвипы (НДМ 15.93–105)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-15-011",
+   "nvm-15-010"
+  ],
+  "events": [
+   "ev-shankaracharya-rudradvipa",
+   "ev-nityananda-jiva-parikrama-vaikunthapur-rudradvipa"
+  ]
  },
  {
   "id": "#medhra-sthala",
@@ -12850,8 +13662,12 @@
   "en": "Medhra Sthal (Medatala)",
   "note": "Рудрадвипа, лес Рудравана; встреча с богиней Саюджьей (НБТ 135–140); легенда карты НДМ — Медатала",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-19-039"
+  ],
+  "events": [
+   "ev-bhaktivinoda-vision-sayujya-shiva"
+  ],
   "geo": {
    "lat": 23.4979,
    "lon": 88.3647,
@@ -12865,8 +13681,12 @@
   "en": "Nidaya",
   "note": "Рудрадвипа (по карте НДМ); место, названное Саюджьей «Немилосердным» (НБТ 140)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-19-039"
+  ],
+  "events": [
+   "ev-bhaktivinoda-vision-sayujya-shiva"
+  ]
  },
  {
   "id": "#bharadvaja-tila",
@@ -12874,8 +13694,15 @@
   "en": "Bharadvaja Tila (Bharuidanga)",
   "note": "Антардвипа (карта НДМ); Бхарадваджа Муни после Ганга-сагары поклонялся Гауре и написал сутры (НДМ 16.62–69; НБТ 21)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-16-009",
+   "nvm-16-008",
+   "nvm-19-004"
+  ],
+  "events": [
+   "ev-bharadvaja-tila",
+   "ev-nityananda-jiva-parikrama-bilvapaksha"
+  ],
   "geo": {
    "lat": 23.4426,
    "lon": 88.3941,
@@ -12889,8 +13716,12 @@
   "en": "Rama Tirtha (Rukmapur)",
   "note": "на одном из концов пути обхода; Баларама убил Коласуру и омылся в Ганге с Ядавами; особо славна в Картику (НДМ 16.59–61); на карте НДМ — Рукунапур (Симантадвипа)",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-16-007"
+  ],
+  "events": [
+   "ev-balarama-kolasura"
+  ],
   "geo": {
    "lat": 23.507,
    "lon": 88.409,
@@ -12904,8 +13735,15 @@
   "en": "Isodyan",
   "note": "сад в южной части Майяпура, на берегу Ганги у слияния с Сарасвати; полуденные игры Господа (НБТ 15, 26–29, 70, 163); ср. #mayapur",
   "section": "",
-  "lilas": [],
-  "events": [],
+  "lilas": [
+   "nvm-19-002",
+   "nvm-19-008",
+   "nvm-19-040"
+  ],
+  "events": [
+   "ev-bhaktivinoda-vision-dhama-darshana",
+   "ev-bhaktivinoda-vision-kamala-manjari"
+  ],
   "geo": {
    "lat": 23.4424,
    "lon": 88.3998,
@@ -12919,8 +13757,21 @@
   "en": "Gauda Mandal",
   "note": "святая земля в 168 миль окружностью (лотос в сто лепестков) с Навадвипой в центре (НДМ 2.3–11, 3.40)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "nvm-02-003",
+   "nvm-01-003",
+   "nvm-01-005",
+   "nvm-02-002",
+   "nvm-02-001",
+   "nvm-03-002"
+  ],
+  "events": [
+   "ev-krishna-resolves-to-give-vraja-prema",
+   "ev-nityananda-preaching-gauda",
+   "ev-navadvipa-dhama-glory",
+   "ev-navadvipa-dhama-nature",
+   "ev-navadvipa-parikrama-order"
+  ]
  },
  {
   "id": "#bhaluka",
