@@ -3,7 +3,7 @@ import json, re, sys, collections, os
 L = [json.loads(l) for l in open(sys.argv[1])]
 OUT = sys.argv[2]; os.makedirs(OUT, exist_ok=True)
 H = '(cid:7)'
-def body(d): return d['f'] == 'JournalC' and d['s'] == 11.5
+def body(d): return d['f'] == 'JournalC' and d['s'] == 11.5 or d['f'] == 'ThamesSanskrit-Italic' and d['s'] == 10.5 and 15 <= d['p'] <= 167
 def foot(d): return d['f'] == 'JournalC' and d['s'] == 10.0 and not re.fullmatch(r'\s*\d+\s*', d['t'])
 vocab = collections.Counter()
 for d in L:

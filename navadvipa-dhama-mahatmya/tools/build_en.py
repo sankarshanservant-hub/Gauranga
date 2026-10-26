@@ -44,6 +44,8 @@ def join_lines(lines):
     out = re.sub(r'\*(\s*)\*', r'\1', out)          # merge adjacent italics
     out = re.sub(r'\*([^*\n]*?\S)\s+\*', r'*\1* ', out)  # "*X *" -> "*X* "
     out = re.sub(r'\*\s+([^*\n]+?)\*', r' *\1*', out)
+    out = re.sub(r'(?<=[A-Za-zāīū])X(?=[a-zāīū])', 'ā̐', out).replace('d3hu', 'dũhu')   # glyph ā̐ in the PDF font
+    out = re.sub(r'(?<=[a-z])0(?=[a-z])', 'ā̐', out)
     out = re.sub(r'[  ]{2,}', ' ', out).replace(' ', ' ').strip()
     return out
 
@@ -130,6 +132,7 @@ def render(blocks, title=None):
         elif b[0] == 'c': out.append(f'> {b[1]}')
     return '\n\n'.join(fix_italics(x) for x in out) + '\n'
 
+MERGE = {'04': [('43', '45'), ('50', '51')], '05': [('7', '8')], '13': [('12', '13'), ('30', '33')], '16': [('72', '73')], '18': [('6', '7')]}
 # chapter page ranges
 chap = [(int(d['p'])) for d in L if kind(d) == 'heading' and d['s'] == 12.0 and d['t'].strip().startswith('chapter')]
 bounds = chap + [385]
@@ -140,6 +143,10 @@ for i, p0 in enumerate(chap):
     hs = [b for b in bl if b[0] == 'h']
     title = re.sub(r'^chapter \w+ ', '', hs[1][1] if len(hs) > 1 else hs[0][1])
     bl = [b for b in bl if b[0] != 'h']
+    for a, b in MERGE.get(f'{i+1:02d}', []):   # merges made when aligning RU (see review/ru-NN.md)
+        k = next(j for j, x in enumerate(bl) if x[0] == 'v' and x[1].split('–')[0] == a)
+        m = next(j for j, x in enumerate(bl) if x[0] == 'v' and x[1].split('–')[-1] == b)
+        bl[k:m + 1] = [('v', f'{a}–{b}', ' '.join(x[2] for x in bl[k:m + 1]), False)]
     labs = [b[1] for b in bl if b[0] == 'v']
     # check continuity
     nums = []
