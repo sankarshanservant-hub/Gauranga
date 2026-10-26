@@ -110,7 +110,7 @@ and Śeṣa  whose  portions and parts  He  Nityā-
 nandākhya-rāmaḥ śaraṇaṁ mamāstu  
 -nanda named  Rāma  refuge  my  may be
 
-(7) Saṅkarṣaṇa, the Lord who lies in the Causal Ocean, the Lord who lies in the Garbha Ocean, the Lord who lies in the Ocean of Milk, and Śeṣa are His portions and the parts of His portions: may that Rāma who is called Nityānanda be my refuge.[^6]
+(7) “Saṅkarṣaṇa, the Lord who lies in the Causal Ocean, the Lord who lies in the Garbha Ocean, the Lord who lies in the Ocean of Milk, and Śeṣa are His portions and the parts of His portions: may that Rāma who is called Nityānanda be my refuge.” (diary of Svarūpa Dāmodara)[^6]
 
 মায়াতীতে ব্যাপিবৈকুণ্ঠলোকে  
 পূর্ণৈশ্বর্য্যে শ্রীচতুর্ব্যূহমধ্যে ৷  
@@ -126,7 +126,7 @@ form  whose  shines forth  Saṅkarṣaṇa  named
 taṁ śrī-nityānanda-rāmaṁ prapadye  
 to Him  Śrī  Nityānanda-Rāma  I surrender
 
-(8) I take refuge in Śrī Nityānanda Rāma, whose form called Saṅkarṣaṇa shines amid the fourfold expansion (catur-vyūha) in the all-pervading world of Vaikuṇṭha, full of every opulence and beyond māyā.
+(8) “I take refuge in Śrī Nityānanda Rāma, whose form called Saṅkarṣaṇa shines amid the fourfold expansion (catur-vyūha) in the all-pervading world of Vaikuṇṭha, full of every opulence and beyond māyā.” (diary of Svarūpa Dāmodara)
 
 মায়াভর্ত্তাজাণ্ডসঙ্ঘাশ্রয়াঙ্গঃ  
 শেতে সাক্ষাৎ কারণাম্ভোধিমধ্যে ৷  
@@ -142,7 +142,7 @@ whose  one part  the Puruṣa  the original  Lord
 taṁ śrī-nityānanda-rāmaṁ prapadye  
 to Him  Śrī  Nityānanda-Rāma  I surrender
 
-(9) I take refuge in Śrī Nityānanda Rāma. A part of Him is the original Lord, the Puruṣa, the master of māyā, who lies in person in the midst of the Causal Ocean, His body the shelter of countless universes.
+(9) “I take refuge in Śrī Nityānanda Rāma. A part of Him is the original Lord, the Puruṣa, the master of māyā, who lies in person in the midst of the Causal Ocean, His body the shelter of countless universes.” (diary of Svarūpa Dāmodara)
 
 যস্যাংশাংশঃ শ্রীল-গর্ভোদশায়ী  
 যন্নাভ্যব্জং লোকসঙ্ঘাতনালম্ ৷  
