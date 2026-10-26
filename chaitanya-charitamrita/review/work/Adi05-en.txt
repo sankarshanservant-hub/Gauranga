@@ -1,0 +1,172 @@
+# English translation, Ādi-līlā 5 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: Determining the Truth of Śrī Nityānanda
+
+## 1
+w: I bow  of endless  wondrous  opulence (possessed)
+w: Śrī Nityānanda  the Lord
+w: by whose  will  His  true nature
+w: by an ignorant one  even  is described
+tr: I bow to the Lord Śrī Nityānanda, whose divine opulence is endless and wondrous. By His will even a fool can come to know and describe His true nature.
+fn: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: in these  six  verses  I have told  of Kṛṣṇa Caitanya  the glory
+w: in five  verses  I tell  of the truth of Nityānanda  the full extent
+tr: In these six verses I have told the glory of Kṛṣṇa Caitanya; in five verses I now tell the whole truth of Nityānanda.
+
+## 4
+w: of all  avatāras the source  Kṛṣṇa  Himself  Bhagavān
+w: His  second  body  Śrī Balarāma
+tr: Kṛṣṇa, the source of all avatāras, is Bhagavān Himself, and Śrī Balarāma is His second body.
+
+## 5
+w: one and the same  nature  of the two  different only  the bodies
+w: the first  bodily expansion  of Kṛṣṇa’s pastimes  the helper
+tr: The two are one in nature; only Their bodies differ. Balarāma is the first expansion of Kṛṣṇa’s body and His helper in His pastimes.
+
+## 6
+w: that  Kṛṣṇa  in Navadvīpa  Śrī Caitanyacandra
+w: that  Balarāma  with Him  Śrī Nityānanda
+tr: That Kṛṣṇa is Śrī Caitanyacandra in Navadvīpa, and that Balarāma is Śrī Nityānanda, who is with Him.
+
+## 7
+w: Saṅkarṣaṇa  Kāraṇodakaśāyī
+w: Garbhodakaśāyī  and  Kṣīrodakaśāyī
+w: and Śeṣa  whose  portions and parts  He  Nityā-
+w: -nanda named  Rāma  refuge  my  may be
+tr: “Saṅkarṣaṇa, the Lord who lies in the Causal Ocean, the Lord who lies in the Garbha Ocean, the Lord who lies in the Ocean of Milk, and Śeṣa are His portions and the parts of His portions: may that Rāma who is called Nityānanda be my refuge.” (diary of Svarūpa Dāmodara)
+fn: *Anubhāṣya*: Saṅkarṣaṇa is Mahā-Saṅkarṣaṇa of the spiritual sky (Paravyoma); Kāraṇodakaśāyī is the original Puruṣa-avatāra; Garbhodakaśāyī is the second Puruṣa, Hiraṇyagarbha, the Viṣṇu of the whole universe (*samaṣṭi*); Kṣīrodakaśāyī is the third Puruṣa, the Viṣṇu of each being (*vyaṣṭi*); Śeṣa is Ananta. The edition ascribes the verse to the diary of Svarūpa Dāmodara. The same verse as Ādi 1.7.
+
+## 8
+w: Śrī Balarāma  Gosāñi  the original  Saṅkarṣaṇa
+w: five  forms  assuming  He performs  Kṛṣṇa’s  service
+tr: Śrī Balarāma Gosāñi is the original Saṅkarṣaṇa. Assuming five forms, He serves Kṛṣṇa.
+
+## 9
+w: Himself  He performs  of Kṛṣṇa’s pastimes  assistance
+w: of the pastime of creation  the work  He does  assuming  four  bodies
+tr: He Himself assists Kṛṣṇa in His pastimes, and in four other bodies He does the work of the pastime of creation.
+
+## 10
+w: creation  and the rest  service  His  order’s  carrying out
+w: Śeṣa  in the form of  He performs  Kṛṣṇa’s  manifold  service
+tr: His service of creation and the rest is the carrying out of Kṛṣṇa’s order; and as Śeṣa He serves Kṛṣṇa in many ways.
+
+## 11
+w: in all  forms  He tastes  of Kṛṣṇa’s service  the bliss
+w: that  Balarāma  Gaura’s companion  Nityānanda
+tr: In all these forms He tastes the bliss of serving Kṛṣṇa. And that same Balarāma is Nityānanda, the companion of Gaura.
+
+## 12
+w: of the seventh  verse  the meaning  I make  in four verses
+w: by which  of Nityānanda  the truth  know  all people
+tr: The meaning of the seventh verse I shall explain in four verses, so that all people may know the truth of Nityānanda.
+fn: *Amṛta-pravāha-bhāṣya*: what is said in the seventh verse is explained in the eighth, ninth, tenth and eleventh verses of the invocation (Ādi 1.8–1.11), which the author now quotes and expounds (5.13, 5.50, 5.93, 5.109).
+
+## 13
+w: beyond māyā  in all-pervading  Vaikuṇṭha  world
+w: full of opulence  amid the fourfold expansion
+w: form  whose  shines forth  Saṅkarṣaṇa  named
+w: to Him  Śrī  Nityānanda-Rāma  I surrender
+tr: “I take refuge in Śrī Nityānanda Rāma, whose form called Saṅkarṣaṇa shines amid the fourfold expansion (catur-vyūha) in the all-pervading world of Vaikuṇṭha, full of every opulence and beyond māyā.” (diary of Svarūpa Dāmodara)
+fn: The same verse as Ādi 1.8.
+
+## 14
+w: material nature’s  beyond  Paravyoma  named  an abode
+w: Kṛṣṇa’s  form  just as  with opulence  and other  qualities endowed
+tr: Beyond material nature lies the abode called Paravyoma. Like Kṛṣṇa’s own form, it is endowed with every opulence and every divine quality.
+
+## 15
+w: all-pervading  endless  Brahman  Vaikuṇṭha  and others  abodes
+w: of Kṛṣṇa  of Kṛṣṇa’s avatāras  there  the dwelling
+tr: There lie endless, all-pervading abodes — Brahman, Vaikuṇṭha and others — and in them Kṛṣṇa and His avatāras dwell.
+fn: The edition’s heading: “Brahman and the worlds above it, the abodes of Kṛṣṇa and His avatāras.” *Amṛta-pravāha-bhāṣya*: in that realm are the all-pervading, endless abode of Brahman and the abodes of Vaikuṇṭha; in all of them dwell Kṛṣṇa Himself and all His avatāras.
+
+## 16
+w: its  in the upper  part  Kṛṣṇaloka  renowned
+w: Dvārakā  Mathurā  Gokula  in three divisions  it abides
+tr: In its highest region is the realm known as Kṛṣṇaloka, which abides in three divisions — Dvārakā, Mathurā and Gokula.
+
+## 17
+w: above all  Śrī Gokula  the abode of the world of Vraja
+w: Śrī Goloka  Śvetadvīpa  Vṛndāvana  named
+tr: Above all is Śrī Gokula, the abode of Vraja, which is also called Śrī Goloka, Śvetadvīpa and Vṛndāvana.
+
+## 18
+w: all-pervading  endless  vast  like Kṛṣṇa’s body
+w: above and below  it pervades  there is no  limit
+tr: Like Kṛṣṇa’s body, it is all-pervading, endless and vast; it extends above and below without any bound.
+fn: As in the Gauḍīya Maṭha edition: «নাহিক নিয়ম» (another reading: «নাহি তাঁর সীমা»).
+
+## 19
+w: in the universe  manifestation  its  by Kṛṣṇa’s  will
+w: one and the same  nature  its  there are not  two  bodies
+tr: By Kṛṣṇa’s will it is manifest within the universe, yet it remains one and the same: it has not two bodies.
+
+## 20
+w: of cintāmaṇi  the land  of wish-fulfilling trees full  forests
+w: with eyes of flesh  one sees  it  the material world  like
+tr: Its land is cintāmaṇi, its forests are full of wish-fulfilling trees; yet eyes of flesh see it as no different from the material world.
+fn: The edition’s heading: “To the eye of enjoyment it looks like the material world, but to the eye of devotion it is the spiritual land of cintāmaṇi, the field of Kṛṣṇa’s pastimes.” *Amṛta-pravāha-bhāṣya*: even in the Vraja manifest on earth the land is cintāmaṇi and the forests are of wish-fulfilling trees.
+
+## 21
+w: with eyes of love  one sees  its  true form’s  manifestation
+w: with the cowherd boys  and girls  together  where  Kṛṣṇa’s  pastimes
+tr: With eyes of love one sees it as it truly is — the place where Kṛṣṇa sports with the cowherd boys and girls.
+
+## 22
+w: of cintāmaṇi gems  of clusters  in abodes  wish-fulfilling trees
+w: by millions  surrounded  the surabhi cows  tending
+w: by Lakṣmīs  thousands  hundreds  with reverence  being served
+w: Govinda  the original  Person  Him  I  worship
+tr: “I worship Govinda, the original Person, who tends the surabhi cows in abodes built of cintāmaṇi gems and surrounded by millions of wish-fulfilling trees, and who is served with reverence by hundreds of thousands of Lakṣmīs.” (Brahma-saṁhitā, 5.29)
+fn: *Anubhāṣya*: the Lakṣmīs here are the gopīs, the beloved cowherd maidens of Vraja (*lakṣmyaḥ gopa-rāmāḥ*); *abhipālayantam* — “tending them in every way, as befits a cowherd”.
+
+## 23
+w: in Mathurā  Dvārakā  His own  form  manifesting
+w: in many  forms  He sports  the catur-vyūha  becoming
+tr: In Mathurā and Dvārakā He manifests His own form and, becoming the fourfold expansion (catur-vyūha), sports in many forms.
+
+## 24
+w: Vāsudeva  Saṅkarṣaṇa  Pradyumna  Aniruddha
+w: of all  catur-vyūhas  the source  transcendent  pure
+tr: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha are the source of every catur-vyūha; They are transcendent (*turīya*) and pure.
+
+## 25
+w: in these  three  abodes  Kṛṣṇa  wholly  of pastimes full
+w: His own  associates  taking  He plays  endless  time
+tr: In these three abodes Kṛṣṇa is wholly given to His pastimes; with His own associates He plays there for endless time.
+
+## 26
+w: of Paravyoma  in the midst  making  of His own form  manifestation
+w: of Nārāyaṇa  in the form  He performs  various  pastimes
+tr: In the midst of Paravyoma He manifests His own form and, as Nārāyaṇa, enjoys pastimes of many kinds.
+
+## 27
+w: own  form  Kṛṣṇa’s  only  two-armed
+w: of Nārāyaṇa  in the form  that  body  four-armed
+tr: Kṛṣṇa’s own form has only two arms; in the form of Nārāyaṇa that same body has four.
+
+## 28
+w: conch  disc  club  lotus  of great majesty full
+w: Śrī  Bhū  Nīlā  potencies  whose  feet  serve
+tr: He holds the conch, disc, club and lotus and is full of supreme majesty; His feet are served by His potencies Śrī, Bhū and Nīlā.
+fn: *Anubhāṣya*: in some Bengali manuscripts “Līlā-śakti” is read in place of “Nīlā”; these three potencies dwell in Vaikuṇṭha beside Nārāyaṇa.
+
+## 29
+w: although  only  His  play  merely  nature
+w: still  to the jīvas  out of mercy  He does  one  work
+tr: Though His nature is simply to play, yet out of mercy to the jīvas He does one work.
+
+## 30
+w: sālokya  sāmīpya  sārṣṭi  sārūpya  kinds
+w: four  liberations  giving  He makes  of the jīvas  deliverance
+tr: Granting the four kinds of liberation — sālokya, sāmīpya, sārṣṭi and sārūpya — He delivers the jīvas.
