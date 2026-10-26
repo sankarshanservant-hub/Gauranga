@@ -160,7 +160,7 @@ a great  branch —  Gadādhara  Paṇḍita  Gosāñi
 tem̐ho lakṣmī-rūpā, tām̐ra sama keha nāi  
 he  Lakṣmī in form,  to him  equal  anyone  there is not
 
-(15) Another great branch is Gadādhara Paṇḍita Gosāñi. He is Lakṣmī Herself in form, and none is his equal.[^8]
+(15) Another great branch is Gadādhara Paṇḍita Gosāñi. He is the very form of Lakṣmī, and none is his equal.[^8]
 
 তাঁর শিষ্য-উপশিষ্য, — তাঁর উপশাখা ৷  
 এইমত সব শাখা-উপশাখার লেখা ॥ ১৬ ॥
@@ -520,7 +520,7 @@ treatment  gives  to whom  being  merciful
 deha-roga, bhava-roga, — dui tāra kṣaya  
 of the body  the disease,  of worldly existence  the disease —  both  his  are destroyed
 
-(51) Whomever he treated with kindness was freed from both diseases — the disease of the body and the disease of worldly existence.
+(51) All whom he treated with kindness were freed from both diseases — the disease of the body and the disease of worldly existence.
 
 শ্রীমান্ সেন প্রভুর সেবক প্রধান ৷  
 চৈতন্য-চরণ বিনু নাহি জানে আন ॥ ৫২ ॥
@@ -570,7 +570,7 @@ to the devotees  mercy  shows  the Lord  in these three  forms
 ‘sākṣāt’, ‘āveśa’ āra ‘āvirbhāva’ rūpe  
 ‘sākṣāt’,  ‘āveśa’  and  ‘āvirbhāva’  in the form
 
-(56) The Lord shows His mercy to the devotees in three ways: by His direct presence (*sākṣāt*), by entering into someone with His power (*āveśa*), and by manifesting Himself where He is not present in person (*āvirbhāva*).
+(56) The Lord shows His mercy to the devotees in three ways — *sākṣāt*, *āveśa* and *āvirbhāva*: He is with them in person, He enters into someone with His power, or He manifests Himself where He is not Himself present.
 
 ‘সাক্ষাতে’ সকল ভক্ত দেখে নির্ব্বিশেষ ৷  
 নকুল ব্রহ্মচারী-দেহে প্রভুর ‘আবেশ’ ॥ ৫৭ ॥
@@ -620,7 +620,7 @@ in detail  I shall tell  later  all this  bliss
 putra-bhṛty-ādi kari’ caitanya-kiṅkara  
 sons  servants and others  taking together  Caitanya’s  servants
 
-(61) The offshoots of Śivānanda are his own people — his sons, his servants and others, all of them servants of Śrī Caitanya.
+(61) The offshoots of Śivānanda are his own people — his sons, his servants and others, all devoted to the service of Śrī Caitanya.
 
 চৈতন্যদাস, রামদাস, আর কর্ণপূর ৷  
 তিন পুত্র শিবানন্দের প্রভুর ভক্তশূর ॥ ৬২ ॥
@@ -710,7 +710,7 @@ Jagadīśa  Paṇḍita,  and  Hiraṇya  Mahāśaya
 yāre kṛpā kaila bālye prabhu dayāmaya  
 to whom  mercy  showed  in childhood  the Lord  merciful
 
-(70) Jagadīśa Paṇḍita and Hiraṇya Mahāśaya were shown mercy by the merciful Lord when He was still a child.
+(70) Jagadīśa Paṇḍita and Hiraṇya Mahāśaya received the compassionate Lord’s mercy when He was still a child.
 
 এই দুই-ঘরে প্রভু একাদশী দিনে ৷  
 বিষ্ণুর নৈবেদ্য মাগি’ খাইল আপনে ॥ ৭১ ॥
@@ -780,7 +780,7 @@ the Bhāgavata reciter  Devānanda  by Vakreśvara’s mercy
 bhāgavatera bhakti-artha pāila prabhu haite  
 of the Bhāgavata  the devotional meaning  received  the Lord  from
 
-(77) Devānanda, the reciter of the *Bhāgavata*, is an offshoot of Vakreśvara’s branch: by Vakreśvara’s mercy he received from the Lord the devotional meaning of the *Bhāgavata*.[^32]
+(77) Devānanda, the reciter of the *Bhāgavata*, is an offshoot of the branch of Vakreśvara, by whose mercy he received from the Lord the devotional meaning of the *Bhāgavata*.[^32]
 
 খণ্ডবাসী মুকুন্দদাস, শ্রীরঘুনন্দন ৷  
 নরহরিদাস, চিরঞ্জীব, সুলোচন ॥ ৭৮ ॥
@@ -1037,7 +1037,7 @@ his  way of practice  to hear  wonderful
 sei rūpa-raghunātha prabhu ye āmāra  
 those  Rūpa and Raghunātha  masters  who  my
 
-(103) Wonderful it is to hear of his way of practice. These Rūpa and Raghunātha are my masters.[^44]
+(103) Wonderful it is to hear of his way of practice. And these two, Rūpa and Raghunātha, are my masters.[^44]
 
 ইঁহা-সবার যৈছে হৈল প্রভুর মিলন ৷  
 আগে বিস্তারিয়া তাহা করিব বর্ণন ॥ ১০৪ ॥
@@ -1057,7 +1057,7 @@ later  in detail  that  I shall make  the description
 rūpa-sanātana-saṅge yām̐ra prema-ālāpana  
 Rūpa and Sanātana  with  whose  loving conversation
 
-(105) Śrī Gopāla Bhaṭṭa is a branch of the very highest, whose talks of love were shared with Rūpa and Sanātana.[^46]
+(105) Śrī Gopāla Bhaṭṭa is a branch of the very highest order; he would converse about love with Rūpa and Sanātana.[^46]
 
 শঙ্করারণ্য — আচার্য্য-বৃক্ষের এক শাখা ৷  
 মুকুন্দ, কাশীনাথ, রুদ্র, — উপশাখা লেখা ॥ ১০৬ ॥
@@ -1398,7 +1398,7 @@ of the guru  through the relation  honour  showed  to both
 tām̐ra ājñā māni’ sevā dilena dom̐hāre  
 his  order  accepting  service  gave  to both
 
-(140) Out of regard for their relation to His Guru the Lord honoured them both, and accepting His Guru’s order, He gave them both His service.[^63]
+(140) Out of regard for their relation to His Guru the Lord honoured them both, and in obedience to his order He gave them both His service.[^63]
 
 অঙ্গসেবা গোবিন্দেরে দিলেন ঈশ্বর ৷  
 জগন্নাথ দেখিতে আগে চলে কাশীশ্বর ॥ ১৪১ ॥
