@@ -16,7 +16,7 @@ gathers  from the mines  from the multitude
 ajñaḥ siddhānta-san-maṇīn  
 the ignorant one  of conclusive truth  precious jewels
 
-(1) I bow to the Lord Śrī Caitanya. By the power of shelter at His feet even an ignorant man gathers, from the many mines of scripture, the precious jewels of conclusive truth (*siddhānta*).
+(1) I bow to the Lord Śrī Caitanya. Through the power of taking shelter at His feet, even an ignorant man gathers the precious jewels of conclusive truth (*siddhānta*) from the many mines of scripture.
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -82,7 +82,7 @@ Satya,  Tretā,  Dvāpara,  Kali —  four  ages  we know
 sei cāri-yuge divya eka-yuga māni  
 those  four  ages  divine  one  age  we count
 
-(7) We know the four ages — Satya, Tretā, Dvāpara and Kali; these four together are counted as one divine age (*divya-yuga*).
+(7) The four ages are Satya, Tretā, Dvāpara and Kali, and together they make up one divine age (*divya-yuga*).
 
 একাত্তর চতুর্যুগে এক মন্বন্তর ৷  
 চৌদ্দ মন্বন্তর ব্রহ্মার দিবস ভিতর ॥ ৮ ॥
@@ -102,7 +102,7 @@ fourteen  manvantaras  of Brahmā  of the day  within
 sātāiśa catur-yuga gele tāhāra antara  
 twenty-seven  cycles of four ages  when gone  of it  within
 
-(9) The present, seventh manvantara is called Vaivasvata, and twenty-seven cycles of its ages have already passed.
+(9) The present, seventh manvantara is called Vaivasvata, and twenty-seven of its cycles have already passed.
 
 অষ্টাবিংশ চতুর্যুগে দ্বাপরের শেষে ৷  
 ব্রজের সহিত হয় কৃষ্ণের প্রকাশে ॥ ১০ ॥
@@ -142,7 +142,7 @@ as He wished  having sported  Kṛṣṇa  makes  disappearance
 antardhāna kari’ mane kare anumāna  
 disappearance  having made  in the mind  makes  reflection
 
-(13) Having sported as He wished, Kṛṣṇa disappears, and after His disappearance He reflects:
+(13) Having sported as He wished, Kṛṣṇa disappears, and afterwards He reflects:
 
 চিরকাল নাহি করি প্রেমভক্তি দান ৷  
 ভক্তি বিনা জগতের নাহি অবস্থান ॥ ১৪ ॥
@@ -212,7 +212,7 @@ Myself  I shall make  of a devotee  the mood  acceptance
 āpani ācari’ bhakti śikhāmu sabāre  
 Myself  practising  devotion  I shall teach  to all
 
-(20) I Myself shall take on the mood of a devotee, and by practising devotion Myself I shall teach it to all.
+(20) I shall take on the mood of a devotee, and by practising devotion Myself I shall teach it to all.
 
 আপনে না কৈলে ধর্ম্ম শিখান না যায় ৷  
 এই ত’ সিদ্ধান্ত গীতা-ভাগবতে গায় ॥ ২১ ॥
@@ -490,7 +490,7 @@ peaceful,  self-controlled,  to devotion to Kṛṣṇa  steadfastly  dedicated
 bhakta-vatsala, suśīla, sarva-bhūte sama  
 to devotees  affectionate,  gentle,  to all  beings  equal
 
-(45) He is peaceful and self-controlled, steadfastly dedicated to devotion to Kṛṣṇa; loving to His devotees, gentle in nature, and equal towards all beings.
+(45) He is peaceful and self-controlled, wholly given to devotion to Kṛṣṇa. He loves His devotees, is gentle by nature and looks on all beings with an equal eye.
 
 চন্দনের অঙ্গদ-বালা, চন্দন-ভূষণ ৷  
 নৃত্যকালে পরি’ করেন কৃষ্ণসংকীর্ত্তন ॥ ৪৬ ॥
@@ -510,7 +510,7 @@ these  all  qualities  taking  the sage  Vaiśampāyana
 sahasra-nāme kaila tām̐ra nāma gaṇana  
 in the Thousand Names  made  His  of names  the enumeration
 
-(47) Taking all these qualities, the sage Vaiśampāyana counted His names in the *Thousand Names* of Viṣṇu.[^17]
+(47) Drawing on all these qualities, the sage Vaiśampāyana included His names in the *Thousand Names* of Viṣṇu.[^17]
 
 দুই লীলা চৈতন্যের — আদি আর শেষ ৷  
 দুই লীলায় চারি চারি নাম বিশেষ ॥ ৪৮ ॥
@@ -534,7 +534,7 @@ sannyāsa  taking  self-restrained  peaceful
 niṣṭhā-śānti-parāyaṇaḥ  
 to steadfastness and peace  devoted
 
-(49) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He takes sannyāsa; He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 95)[^19]
+(49) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 95)[^19]
 
 ব্যক্ত করি’ ভাগবতে কহে বার বার ৷  
 কলিযুগে — কৃষ্ণনামসঙ্কীর্ত্তন সার ॥ ৫০ ॥
@@ -558,7 +558,7 @@ by sacrifices  in which saṅkīrtana  predominates
 yajanti hi su-medhasaḥ  
 they worship  indeed  the intelligent
 
-(51) “The wise worship Him with sacrifices in which congregational chanting predominates — Him who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)[^20]
+(51) “With sacrifices in which congregational chanting predominates, the wise worship the Lord who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)[^20]
 
 শুন, ভাই, এই সব চৈতন্য-মহিমা ৷  
 এই শ্লোকে কহে তাঁর মহিমার সীমা ॥ ৫২ ॥
@@ -634,7 +634,7 @@ visible  His  of molten  gold  the lustre
 yām̐hāra chaṭāya nāśe ajñāna-tamastati  
 by whose  radiance  is destroyed  of ignorance  of the darkness  the expanse
 
-(58) His lustre of molten gold is plain to see, and its radiance destroys the whole expanse of the darkness of ignorance.
+(58) His lustre of molten gold is plain to see, and its radiance dispels all the darkness of ignorance.
 
 জীবের কল্মষ-তমো নাশ করিবারে ৷  
 অঙ্গ-উপাঙ্গ-নাম নানা অস্ত্র ধরে ॥ ৫৯ ॥
@@ -838,11 +838,11 @@ by the sacrifice of saṅkīrtana  Him  worships,  he  blessed
 সর্ব্ব-যজ্ঞ হৈতে কৃষ্ণনামযজ্ঞ সার ॥ ৭৭ ॥
 
 sei ta’ sumedhā, āra kubuddhi saṁsāra  
-he  indeed  intelligent,  but  ill-witted  the world  
+he  indeed  intelligent,  but  foolish  the world  
 sarva-yajña haite kṛṣṇa-nāma-yajña sāra  
 all  sacrifices  than  of Kṛṣṇa’s name  the sacrifice  the essence
 
-(77) He alone is truly intelligent; the rest of the world is ill-witted. Of all sacrifices the sacrifice of Kṛṣṇa’s name is the essence.
+(77) He alone is truly intelligent; the rest of the world is foolish. Of all sacrifices the sacrifice of Kṛṣṇa’s name is the essence.
 
 কোটি অশ্বমেধ এক কৃষ্ণ নাম সম ৷  
 যেই কহে, সে পাষণ্ডী, দণ্ডে তারে যম ॥ ৭৮ ॥
@@ -876,7 +876,7 @@ in Kali  by saṅkīrtana and the like  indeed
 kṛṣṇa-caitanyam āśritāḥ  
 of Kṛṣṇa Caitanya  having taken shelter (we)
 
-(80) “Inwardly He is Kṛṣṇa, outwardly He is golden, and He has displayed the splendour of His *aṅgas* and other associates. In this age of Kali we have taken shelter of Him, Śrī Kṛṣṇa Caitanya, through saṅkīrtana and the other limbs of devotion.” (Tattva-sandarbha, 2)[^32]
+(80) “Inwardly He is Kṛṣṇa, outwardly He is golden, and He has displayed the splendour of His *aṅgas* and other associates. In this age of Kali, through saṅkīrtana and the other limbs of devotion, we have taken shelter of Śrī Kṛṣṇa Caitanya.” (Tattva-sandarbha, 2)[^32]
 
 উপপুরাণেহ শুনি শ্রীকৃষ্ণবচন ৷  
 কৃপা করি’ ব্যাস প্রতি করিয়াছেন কথন ॥ ৮১ ॥
@@ -900,7 +900,7 @@ to Hari  devotion  I make accept
 kalau pāpa-hatān narān  
 in Kali  by sin  struck down  people
 
-(82) “O brāhmaṇa, at some time in the age of Kali I Myself shall take the order of sannyāsa and bring the people struck down by sin to accept devotion to Hari.” (Upapurāṇa)[^33]
+(82) “O brāhmaṇa, at some time in the age of Kali I Myself shall take the order of sannyāsa and lead people stricken by sin to devotion to Hari.” (Upapurāṇa)[^33]
 
 ভাগবত, ভারতশাস্ত্র, আগম, পুরাণ ৷  
 চৈতন্য-কৃষ্ণ-অবতার-প্রকট প্রমাণ ॥ ৮৩ ॥
@@ -920,7 +920,7 @@ directly  see  various  manifest  powers
 alaukika karma, alaukika anubhāva  
 extraordinary  deeds,  extraordinary  signs of ecstasy
 
-(84) See for yourselves His many manifest powers — His extraordinary deeds and the extraordinary signs of His love.
+(84) See for yourselves His many manifest powers — His wondrous deeds and the extraordinary signs of His love.
 
 দেখিয়া না দেখে যত অভক্তের গণ ৷  
 উলূকে না দেখে যেন সূর্য্যের কিরণ ॥ ৮৫ ॥
@@ -982,7 +982,7 @@ of demonic  nature  Kṛṣṇa  ever  not  know
 lukāite nāre kṛṣṇa bhakta-jana-sthāne  
 to hide  cannot  Kṛṣṇa  of the devotees  of the people  from the place
 
-(89) Those of demonic nature never know Kṛṣṇa, but from His devotees Kṛṣṇa cannot hide.
+(89) Those of demonic nature never know Kṛṣṇa, but from His devotees He cannot hide.
 
 দ্বৌ ভূতসর্গৌ লোকেঽস্মিন্ দৈব আসুর এব চ ৷  
 বিষ্ণুভক্তঃ স্মৃতো দৈব আসুরস্তদ্বিপর্য্যয়ঃ ॥ ৯০ ॥
@@ -1185,9 +1185,9 @@ in this way  of Kṛṣṇa  He caused  the descent
 caitanyera avatāre ei mukhya hetu  
 of Caitanya  in the descent  this  the chief  cause  
 bhaktera icchāya avatare dharma-setu  
-of the devotee  by the desire  descends  of dharma  the bridge
+of the devotee  by the desire  descends  of dharma  the bridge (protector)
 
-(109) This is the chief cause of Caitanya’s descent: the Lord, the bridge of dharma, descends by the desire of His devotee.[^43]
+(109) This is the chief cause of Caitanya’s descent: the Lord, the protector of dharma, descends by the desire of His devotee.[^43]
 
 ত্বং ভক্তিযোগপরিভাবিত-হৃৎসরোজ  
 আস্সে শ্রুতেক্ষিতপথো ননু নাথ পুংসাম্ ৷  
@@ -1321,7 +1321,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^42]: As in the Gauḍīya Maṭha edition: «কৃষ্ণের» (another reading: «কৃষ্ণেরে»); the sense is the same.
 
-[^43]: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa, the bridge of dharma, descends by the desire of His devotee; Caitanya appeared at the prayer of the great devotee Advaita Ācārya.
+[^43]: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa, the protector (literally “the bridge”, *setu*) of dharma, descends by the desire of His devotee; Caitanya appeared at the prayer of the great devotee Advaita Ācārya.
 
 [^44]: Brahmā’s prayer. *Anubhāṣya*: *śrutekṣita-pathaḥ* — “He whose path is seen through hearing the conclusions of scripture”; *paribhāvita* — the heart made worthy by devotion, by love; *urugāya* — “widely sung”. *Amṛta-pravāha-bhāṣya*: You ever move along the paths of Your devotees’ hearing and sight.
 
