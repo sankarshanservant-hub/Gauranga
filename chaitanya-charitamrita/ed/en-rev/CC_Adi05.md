@@ -644,6 +644,345 @@ by fire’s  power  iron  as  does  burning
 
 (60) By Kṛṣṇa’s potency prakṛti becomes a secondary cause, just as iron burns by the power of fire.
 
+অতএব কৃষ্ণ মূল-জগৎকারণ ৷  
+প্রকৃতি — কারণ, যৈছে অজাগলস্তন ॥ ৬১ ॥
+
+ataeva kṛṣṇa mūla-jagat-kāraṇa  
+therefore  Kṛṣṇa  the original  of the world  cause  
+prakṛti — kāraṇa, yaiche ajā-gala-stana  
+prakṛti  the cause  as  of a goat  on the neck  the teats
+
+(61) Therefore Kṛṣṇa is the original cause of the world. To call prakṛti the cause is like taking the teats on a goat’s neck for an udder.
+
+মায়া-অংশে কহি তারে নিমিত্ত-কারণ ৷  
+সেহ নহে, যাতে কর্ত্তা-হেতু — নারায়ণ ॥ ৬২ ॥
+
+māyā-aṁśe kahi tāre nimitta-kāraṇa  
+in the māyā  aspect  I call  her  the efficient  cause  
+seha nahe, yāte kartā-hetu — nārāyaṇa  
+even that  is not so  because  the agent  cause  Nārāyaṇa
+
+(62) In her aspect as māyā I call her the efficient cause of the world; but even that is not so, for the true maker and cause is Nārāyaṇa.[^16]
+
+ঘটের নিমিত্ত-হেতু যৈছে কুম্ভকার ৷  
+তৈছে জগতের কর্ত্তা — পুরুষাবতার ॥ ৬৩ ॥
+
+ghaṭera nimitta-hetu yaiche kumbhakāra  
+of the pot  efficient  cause  as  the potter  
+taiche jagatera kartā — puruṣāvatāra  
+so  of the world  the maker  the Puruṣa-avatāra
+
+(63) As the potter is the efficient cause of the pot, so the Puruṣa-avatāra is the maker of the world.
+
+কৃষ্ণ — কর্ত্তা, মায়া তাঁর করেন সহায় ৷  
+ঘটের কারণ — চক্র-দণ্ডাদি উপায় ॥ ৬৪ ॥
+
+kṛṣṇa — kartā, māyā tām̐ra karena sahāya  
+Kṛṣṇa  the maker  māyā  to Him  gives  help  
+ghaṭera kāraṇa — cakra-daṇḍādi upāya  
+of the pot  cause  wheel  stick  and other  instruments
+
+(64) Kṛṣṇa is the maker, and māyā only helps Him, as the wheel, the stick and other tools are causes of the pot.
+
+দূর হৈতে পুরুষ করে মায়াতে অবধান ৷  
+জীবরূপ বীর্য্য তাতে করেন আধান ॥ ৬৫ ॥
+
+dūra haite puruṣa kare māyāte avadhāna  
+from afar  the Puruṣa  makes  on māyā  a glance  
+jīva-rūpa vīrya tāte karena ādhāna  
+in the form of jīvas  the seed  into her  He makes  placing
+
+(65) From afar the Puruṣa glances upon māyā and places in her the seed — the jīvas.
+
+এক অঙ্গাভাসে করে মায়াতে মিলন ৷  
+মায়া হৈতে জন্মে তবে ব্রহ্মাণ্ডের গণ ॥ ৬৬ ॥
+
+eka aṅgābhāse kare māyāte milana  
+by one  semblance of His body  makes  with māyā  union  
+māyā haite janme tabe brahmāṇḍera gaṇa  
+from māyā  are born  then  of universes  the multitudes
+
+(66) By a mere semblance of His body He unites with māyā, and from māyā the hosts of universes are then born.[^17]
+
+অগণ্য, অনন্ত যত অণ্ড-সন্নিবেশ ৷  
+ততরূপে পুরুষ করে সবাতে প্রবেশ ॥ ৬৭ ॥
+
+agaṇya, ananta yata aṇḍa-sanniveśa  
+countless  endless  as many  universes’  arrangements  
+tata-rūpe puruṣa kare sabāte praveśa  
+in so many  forms  the Puruṣa  makes  into all  entrance
+
+(67) Into all those countless, endless universes the Puruṣa enters, taking as many forms.
+
+পুরুষ-নাসাতে যবে বাহিরায় শ্বাস ৷  
+নিশ্বাস সহিতে হয় ব্রহ্মাণ্ড-প্রকাশ ॥ ৬৮ ॥
+
+puruṣa-nāsāte yabe bāhirāya śvāsa  
+the Puruṣa’s  from the nostrils  when  goes out  the breath  
+niśvāsa sahite haya brahmāṇḍa-prakāśa  
+the exhalation  together with  becomes  of universes  the manifestation
+
+(68) When the breath goes out of the Puruṣa’s nostrils, the universes become manifest with His exhalation.
+
+পুনরপি শ্বাস যবে প্রবেশে অন্তরে ৷  
+শ্বাস-সহ ব্রহ্মাণ্ড পৈশে পুরুষ-শরীরে ॥ ৬৯ ॥
+
+punarapi śvāsa yabe praveśe antare  
+again  the breath  when  enters  within  
+śvāsa-saha brahmāṇḍa paiśe puruṣa-śarīre  
+with the breath  the universes  enter  of the Puruṣa  into the body
+
+(69) And when the breath enters again, the universes enter the Puruṣa’s body with it.
+
+গবাক্ষের রন্ধ্রে যেন ত্রসরেণু চলে ৷  
+পুরুষের লোমকূপে ব্রহ্মাণ্ডের জালে ॥ ৭০ ॥
+
+gavākṣera randhre yena trasareṇu cale  
+of a window  through the holes  as  specks of dust  move  
+puruṣera loma-kūpe brahmāṇḍera jāle  
+of the Puruṣa  in the pores  of universes  the multitudes
+
+(70) As specks of dust move through the holes of a lattice window, so hosts of universes move through the pores of the Puruṣa’s skin.
+
+যস্যৈকনিশ্বসিতকালমথাবলম্ব্য  
+জীবন্তি লোমবিলজা জগদণ্ডনাথাঃ ৷  
+বিষ্ণুর্মহান্ স ইহ যস্য কলাবিশেষো  
+গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ৭১ ॥
+
+yasyaika-niśvasita-kālam athāvalambya  
+whose  one  exhalation’s  span  then  depending on  
+jīvanti loma-vila-jā jagad-aṇḍa-nāthāḥ  
+live  from the pores  born  of the universes  the lords  
+viṣṇur mahān sa iha yasya kalā-viśeṣo  
+Viṣṇu  the Great  He  here  whose  kalā  particular  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
+
+(71) “The lords of the universes, born from His pores, abide for the span of one of His breaths. That Mahā-Viṣṇu is a particular kalā of Govinda, the original Person, whom I worship.” (Brahma-saṁhitā, 5.48)[^18]
+
+ক্বাহং তমো-মহদহং-খ-চরাগ্নিবার্ভূ-  
+সংবেষ্টিতাণ্ডঘট-সপ্তবিতস্তিকায়ঃ ৷  
+ক্বেদৃগ্বিধাঽবিগণিতাণ্ডপরাণুচর্য্যা-  
+বাতাধ্বরোমবিবরস্য চ তে মহিত্বম্ ॥ ৭২ ॥
+
+kvāhaṁ tamo-mahad-ahaṁ-kha-carāgni-vār-bhū-  
+where  I  by darkness  the mahat  false ego  ether  air  fire  water  earth  
+saṁveṣṭitāṇḍa-ghaṭa-sapta-vitasti-kāyaḥ  
+enclosed  universe  in the pot  seven  spans  of body  
+kvedṛg-vidhā ’vigaṇitāṇḍa-parāṇu-caryā-  
+where  such  countless  universes  like atoms  moving  
+vātādhva-roma-vivarasya ca te mahitvam  
+through the windows  the pores of the skin  and  Your  greatness
+
+(72) “Where am I, a creature with a body seven spans tall, enclosed in the pot of a universe wrapped in prakṛti, the mahat, false ego, ether, air, fire, water and earth? And where is Your greatness, when countless such universes drift like atoms through the pores of Your skin, as through the openings of a lattice?” (Śrīmad-Bhāgavatam, 10.14.11)[^19]
+
+অংশের অংশ যেই, ‘কলা’ তার নাম ৷  
+গোবিন্দের প্রতিমূর্ত্তি শ্রীবলরাম ॥ ৭৩ ॥
+
+aṁśera aṁśa yei, ‘kalā’ tāra nāma  
+of a part  the part  which  kalā  its  name  
+govindera pratimūrti śrī-balarāma  
+of Govinda  the second body  Śrī Balarāma
+
+(73) A part of a part is called a *kalā*. Śrī Balarāma is Govinda’s second body.[^20]
+
+তাঁর এক স্বরূপ — শ্রীমহাসঙ্কর্ষণ ৷  
+তাঁর অংশ ‘পুরুষ’ হয় কলাতে গণন ॥ ৭৪ ॥
+
+tām̐ra eka svarūpa — śrī-mahā-saṅkarṣaṇa  
+His  one  form  Śrī Mahā-Saṅkarṣaṇa  
+tām̐ra aṁśa ‘puruṣa’ haya kalāte gaṇana  
+His  part  the Puruṣa  is  among the kalās  counted
+
+(74) One of His forms is Śrī Mahā-Saṅkarṣaṇa, and Mahā-Saṅkarṣaṇa’s part, the Puruṣa, is counted as a *kalā*.
+
+যাঁহাকে ত’ কলা কহি, তিঁহো মহাবিষ্ণু ৷  
+মহাপুরুষাবতারী, সেহো সর্ব্বজিষ্ণু ॥ ৭৫ ॥
+
+yām̐hāke ta’ kalā kahi, tim̐ho mahā-viṣṇu  
+whom  indeed  kalā  I call  He  Mahā-Viṣṇu  
+mahā-puruṣāvatārī, seho sarva-jiṣṇu  
+of the Mahā-Puruṣa avatāras the source  He  all-conquering
+
+(75) He whom I call a kalā is Mahā-Viṣṇu. He is the source of the Puruṣa-avatāras, ever victorious.
+
+গর্ভোদ-ক্ষীরোদ-শায়ী দোঁহে ‘পুরুষ’ নাম ৷  
+সেই দুই, যাঁর অংশ, — বিষ্ণু, বিশ্বধাম ॥ ৭৬ ॥
+
+garbhoda-kṣīroda-śāyī dom̐he ‘puruṣa’ nāma  
+in the Garbha  Kṣīra  lying  both  Puruṣa  named  
+sei dui, yām̐ra aṁśa, — viṣṇu, viśvadhāma  
+those  two  whose  parts  Viṣṇu  abode of the universes
+
+(76) The Lords who lie in the Garbha and Kṣīra oceans are both called Puruṣas, and He whose parts They are is Viṣṇu, the abode of all the universes.
+
+বিষ্ণোস্তু ত্রীণি রূপাণি পুরুষাখ্যান্যথো বিদুঃ ৷  
+একন্তুমহতঃ স্রষ্টৃ দ্বিতীয়ং ত্বণ্ডসংস্থিতম্ ৷  
+তৃতীয়ং সর্ব্বভূতস্থং তানি জ্ঞাত্বা বিমুচ্যতে ॥ ৭৭ ॥
+
+viṣṇos tu trīṇi rūpāṇi  
+of Viṣṇu  but  three  forms  
+puruṣākhyāny atho viduḥ  
+called Puruṣas  then  they know  
+ekaṁ tu mahataḥ sraṣṭṛ  
+one  but  of the mahat  the creator  
+dvitīyaṁ tv aṇḍa-saṁsthitam  
+the second  but  in the universe  abiding  
+tṛtīyaṁ sarva-bhūta-sthaṁ  
+the third  in all  beings  abiding  
+tāni jñātvā vimucyate  
+them  knowing  one is liberated
+
+(77) “Viṣṇu has three forms called Puruṣas: the first creates the mahat, the second abides within the universe, and the third dwells in all beings. Knowing Them, one is set free.” (Sātvata-tantra; Laghu-bhāgavatāmṛta, Pūrva-khaṇḍa, 2.9)
+
+যদ্যপি কহিয়ে তাঁরে কৃষ্ণের ‘কলা’ করি ৷  
+মৎস্যকূর্ম্মাদ্যবতারের তিঁহো অবতারী ॥ ৭৮ ॥
+
+yadyapi kahiye tām̐re kṛṣṇera ‘kalā’ kari  
+although  I call  Him  Kṛṣṇa’s  kalā  making  
+matsya-kūrmādy-avatārera tim̐ho avatārī  
+of Matsya  Kūrma  and other  avatāras  He  the source
+
+(78) Though I call Him a kalā of Kṛṣṇa, He is the source of Matsya, Kūrma and the other avatāras.
+
+এতে চাংশকলাঃ পুংসঃ কৃষ্ণস্তু ভগবান্ স্বয়ম্ ৷  
+ইন্দ্রারিব্যাকুলং লোকং মৃড়য়ন্তি যুগে যুগে ॥ ৭৯ ॥
+
+ete cāṁśa-kalāḥ puṁsaḥ  
+these  and  portions  and parts  of the Puruṣa  
+kṛṣṇas tu bhagavān svayam  
+Kṛṣṇa  but  Bhagavān  Himself  
+indrāri-vyākulaṁ lokaṁ  
+by the enemies of Indra  troubled  the world  
+mṛḍayanti yuge yuge  
+make happy  in age  after age
+
+(79) “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)[^21][^22]
+
+সেই পুরুষ সৃষ্টি-স্থিতি-প্রলয়ের কর্ত্তা ৷  
+নানা অবতার করে, জগতের ভর্ত্তা ॥ ৮০ ॥
+
+sei puruṣa sṛṣṭi-sthiti-pralayera kartā  
+that  Puruṣa  of creation  maintenance  dissolution  the doer  
+nānā avatāra kare, jagatera bhartā  
+many  avatāras  makes  of the world  the sustainer
+
+(80) That Puruṣa creates, maintains and dissolves the world; He sends forth many avatāras and sustains the world.
+
+সৃষ্ট্যাদি-নিমিত্তে যেই অংশের অবধান ৷  
+সেই ত’ অংশেরে কহি ‘অবতার’ নাম ॥ ৮১ ॥
+
+sṛṣṭy-ādi-nimitte yei aṁśera avadhāna  
+creation  and the rest  for the sake of  which  part’s  descent  
+sei ta’ aṁśere kahi ‘avatāra’ nāma  
+that  very  part  I call  avatāra  by name
+
+(81) The part that descends for creation and the rest I call by the name *avatāra*.
+
+আদ্যাবতার, মহাপুরুষ, ভগবান্ ৷  
+সর্ব্ব-অবতার-বীজ, সর্ব্বাশ্রয়-ধাম ॥ ৮২ ॥
+
+ādyāvatāra, mahā-puruṣa, bhagavān  
+the first avatāra  the Mahā-Puruṣa  Bhagavān  
+sarva-avatāra-bīja, sarvāśraya-dhāma  
+of all  avatāras  the seed  of all  the shelter  the abode
+
+(82) He is the first avatāra, the Mahā-Puruṣa, Bhagavān — the seed of all avatāras, the abode and shelter of all.
+
+আদ্যোঽবতারঃ পুরুষঃ পরস্য  
+কালঃ স্বভাবঃ সদসন্মনশ্চ ৷  
+দ্রব্যং বিকারো গুণ ইন্দ্রিয়াণি  
+বিরাট্ স্বরাট্ স্থাস্নু চরিষ্ণু ভূম্নঃ ॥ ৮৩ ॥
+
+ādyo ’vatāraḥ puruṣaḥ parasya  
+the first  avatāra  the Puruṣa  of the Supreme  
+kālaḥ svabhāvaḥ sad-asan manaś ca  
+time  nature  cause and effect  the mind  and  
+dravyaṁ vikāro guṇa indriyāṇi  
+the elements  false ego  the guṇas  the senses  
+virāṭ svarāṭ sthāsnu cariṣṇu bhūmnaḥ  
+the universal body  the self-luminous  the unmoving  the moving  of the Great One
+
+(83) “The Puruṣa is the first avatāra of the Supreme. Time, nature, prakṛti as cause and effect, the mind, the elements, false ego, the guṇas, the senses, the universal body (*virāṭ*) and the Vairāja (*svarāṭ*), and all beings, moving and unmoving — all these are the splendour of the Great One.” (Śrīmad-Bhāgavatam, 2.6.42)[^23]
+
+জগৃহে পৌরুষং রূপং ভগবান্মহদাদিভিঃ ৷  
+সম্ভূতং ষোড়শকলমাদৌ লোকসিসৃক্ষয়া ॥ ৮৪ ॥
+
+jagṛhe pauruṣaṁ rūpaṁ  
+accepted  of the Puruṣa  form  
+bhagavān mahad-ādibhiḥ  
+Bhagavān  with the mahat  and the rest  
+sambhūtaṁ ṣoḍaśa-kalam  
+composed  of sixteen  parts  
+ādau loka-sisṛkṣayā  
+in the beginning  the worlds  desiring to create
+
+(84) “In the beginning, desiring to create the worlds, Bhagavān accepted the form of the Puruṣa, joined with the mahat and the other principles and possessed of sixteen potencies (*kalā*).” (Śrīmad-Bhāgavatam, 1.3.1)[^24]
+
+যদ্যপি সর্ব্বাশ্রয় তিঁহো, তাঁহাতে সংসার ৷  
+অন্তরাত্মা-রূপে তিঁহো জগৎ-আধার ॥ ৮৫ ॥
+
+yadyapi sarvāśraya tim̐ho, tām̐hāte saṁsāra  
+although  of all the shelter  He  in Him  the world  
+antarātmā-rūpe tim̐ho jagat-ādhāra  
+the Supersoul  in the form of  He  of the world  the support
+
+(85) He is the shelter of all, and the world rests in Him; as the Supersoul He is the support of the world.
+
+প্রকৃতি-সহিতে তাঁর উভয় সম্বন্ধ ৷  
+তথাপি প্রকৃতি-সহ নাহি স্পর্শগন্ধ ॥ ৮৬ ॥
+
+prakṛti-sahite tām̐ra ubhaya sambandha  
+with prakṛti  His  twofold  relation  
+tathāpi prakṛti-saha nāhi sparśa-gandha  
+yet  with prakṛti  there is not  of touch  a scent
+
+(86) He has a twofold relation with prakṛti, and yet there is not even a trace of contact between Him and prakṛti.
+
+এতদীশনমীশস্য প্রকৃতিস্থোঽপি তদ্গুণৈঃ ৷  
+ন যুজ্যতে সদাত্মস্থৈর্যথা বুদ্ধিস্তদাশ্রয়া ॥ ৮৭ ॥
+
+etad īśanam īśasya  
+this  the lordship  of the Lord  
+prakṛti-stho ’pi tad-guṇaiḥ  
+in material nature  abiding  though  by its qualities  
+na yujyate sadātma-sthair  
+not  is affected  ever  abiding in Him  
+yathā buddhis tad-āśrayā  
+as  the intelligence  sheltered in Him
+
+(87) “This is the lordship of the Lord: though He abides within material nature, He is never affected by its qualities — just as the intelligence of those who have taken shelter of Him is not affected.” (Śrīmad-Bhāgavatam, 1.11.38)[^25]
+
+এইমত গীতাতেহো পুনঃ পুনঃ কয় ৷  
+সর্ব্বদা ঈশ্বর-তত্ত্ব অচিন্ত্যশক্তি হয় ॥ ৮৮ ॥
+
+ei mata gītāteho punaḥ punaḥ kaya  
+in this way  in the Gītā also  again  again  it says  
+sarvadā īśvara-tattva acintya-śakti haya  
+always  of the Lord  the truth  of inconceivable potency  is
+
+(88) So the Gītā too declares again and again that the truth of the Lord is always endowed with inconceivable potency:
+
+আমি ত’ জগতে বসি, জগৎ আমাতে ৷  
+না আমি জগতে বসি, না আমা জগতে ॥ ৮৯ ॥
+
+āmi ta’ jagate vasi, jagat āmāte  
+I  indeed  in the world  abide  the world  in Me  
+nā āmi jagate vasi, nā āmā jagate  
+not  I  in the world  abide  not  in Me  the world
+
+(89) “I abide in the world, and the world is in Me; and yet I do not abide in the world, nor is the world in Me.
+
+অচিন্ত্য ঐশ্বর্য্য এই জানিহ আমার ৷  
+এই ত’ গীতার অর্থ কৈল পরচার ॥ ৯০ ॥
+
+acintya aiśvarya ei jāniha āmāra  
+inconceivable  opulence  this  know  My  
+ei ta’ gītāra artha kaila paracāra  
+this  indeed  of the Gītā  the meaning  is made  proclaimed
+
+(90) Know this to be My inconceivable power.” Such is the meaning the Gītā proclaims.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -675,3 +1014,23 @@ by fire’s  power  iron  as  does  burning
 [^14]: The same verse as Ādi 1.9.
 
 [^15]: *Anubhāṣya* and *Amṛta-pravāha-bhāṣya*: the external potency has two parts. The efficient cause (*nimitta*), the guṇas, is called māyā; the material cause (*upādāna*) is *pradhāna*, which is also called *prakṛti* (the first is spoken of in 5.62).
+
+[^16]: *Amṛta-pravāha-bhāṣya*: Nārāyaṇa is the principal efficient cause of the world, as the potter is of the pot; māyā is a secondary cause, like the potter’s wheel and stick (5.63–5.64).
+
+[^17]: *Amṛta-pravāha-bhāṣya*: *aṅgābhāsa* is only a semblance of bodily contact, not a real union with māyā.
+
+[^18]: *Anubhāṣya*: the lords of the universes are the *samaṣṭi*-Viṣṇus and others; *jīvanti* — “they are manifest, they abide”.
+
+[^19]: *Anubhāṣya*: this is one of the prayers Brahmā offered to Kṛṣṇa after stealing the calves and cowherd boys, to atone for his offence; *tamaḥ* is unmanifest prakṛti.
+
+[^20]: *Anubhāṣya*: *pratimūrti* — “second body” (see 5.4–5.5).
+
+[^21]: *Anubhāṣya*: *ete* — “the avatāras named before”; *aṁśāḥ* — portions of the Puruṣa-avatāra, *kalāḥ* — portions of portions; *mṛḍayanti*, “make happy”, refers to these avatāras. *Amṛta-pravāha-bhāṣya*: “Rāma, Nṛsiṁha and others are portions or parts of the Puruṣa; They protect the world oppressed by demons.”
+
+[^22]: The same verse as Ādi 2.67.
+
+[^23]: *Anubhāṣya*: Brahmā is telling Nārada of the splendour of Kāraṇārṇavaśāyī: *kāla* — that which sets the guṇas in motion; *svabhāva* — their transformation; *sad-asat* — prakṛti as cause and effect; *manaḥ* — the mahat-tattva; *dravya* — the subtle and gross elements; *vikāra* — false ego; *virāṭ* — the collective body of the universe; *svarāṭ* — the Vairāja; *sthāsnu*, *cariṣṇu* — unmoving and moving bodies; all this is His splendour (*vibhūti*).
+
+[^24]: *Anubhāṣya*: Bhagavān here is Mahā-Saṅkarṣaṇa; “the mahat and the rest” are the mahat, false ego, the five great elements, the eleven senses and the five *tanmātras*; the sixteen *kalās* are the fullness of power for creation — in the *Laghu-bhāgavatāmṛta*, Śrī, Bhū, Kīrti, Ilā, Līlā, Kānti, Vidyā and nine potencies headed by Vimalā.
+
+[^25]: The same verse as Ādi 2.55.
