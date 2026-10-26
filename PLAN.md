@@ -30,6 +30,8 @@
     ✓ «Чайтанья-чандрамрита» EN (`chaitanya-chandramrita/en/`, `-en` и `-en-full` с англ. пословным; «Гаудия-бхашья»,
     предисловие и анвайя Бхактисиддханты EN — ✓ готово 2026-10-12: `bss-en/`, `en/00-introduction.md`, в `-en-full`);
     ✓ «Адвайта-пракаша» EN (`advaita-prakash/en/`, 22 гл., `Advaita-Prakash-en.*`); исправления RU — `*/review/en-pass.md`;
+    ✓ «Чайтанья-чандродая» EN — готово 2026-10-26 (`chaitanya-chandrodaya/en/`, 10 актов, 484 стиха + 4 заключительных,
+    те же примечания; `Chaitanya-Chandrodaya-en.*`; `build.py [ru|en]`; исправления RU — `chaitanya-chandrodaya/review/en-pass.md`);
     кандидаты из `sources/south-india/`; оставшиеся позиции `sources/SURVEY-primary-sources.md`.
 
 11. ✓ **«Гаура-кришнодая» — доработка** — готово (2026-10-11): скан скачан, все 18 сарг сверены по изображениям, RU/EN выверены; журналы `gaura-krishnodaya/review/`; книга пересобрана. (решение пользователя): (а) заново скачать полный скан (IA
