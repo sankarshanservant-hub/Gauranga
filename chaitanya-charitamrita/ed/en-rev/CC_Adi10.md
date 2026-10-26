@@ -730,7 +730,7 @@ of the Lord  pupils  two —  Puruṣottama,  Sañjaya
 vyākaraṇe dui śiṣya — dui mahāśaya  
 in grammar  two  students —  two  great souls
 
-(72) Two of the Lord’s pupils were Puruṣottama and Sañjaya, students of His in grammar and two great souls.[^30]
+(72) Puruṣottama and Sañjaya, two great souls, were the Lord’s pupils in grammar.[^30]
 
 বনমালী পণ্ডিত-শাখা বিখ্যাত জগতে ৷  
 সোণার মুষল হল যে দেখিল প্রভুর হাতে ॥ ৭৩ ॥
@@ -740,7 +740,7 @@ Vanamālī  Paṇḍita  a branch  famous  in the world
 soṇāra muṣala hala ye dekhila prabhura hāte  
 golden  club  plough  who  saw  in the Lord’s  hand
 
-(73) The branch Vanamālī Paṇḍita is famous in the world; he saw a golden club and plough in the Lord’s hands.
+(73) Vanamālī Paṇḍita is a branch renowned throughout the world; he saw a golden club and plough in the Lord’s hands.
 
 শ্রীচৈতন্যের অতি প্রিয় বুদ্ধিমন্ত খান্ ৷  
 আজন্ম আজ্ঞাকারী তেঁহো সেবক-প্রধান ॥ ৭৪ ॥
@@ -770,7 +770,7 @@ Gopīnātha  Siṁha —  one  of Caitanya  servant
 akrūra bali’ prabhu yām̐re kailā parihāsa  
 Akrūra  calling  the Lord  with whom  joked
 
-(76) Gopīnātha Siṁha was a servant of Śrī Caitanya, whom the Lord would jokingly call Akrūra.
+(76) Gopīnātha Siṁha was a servant of Śrī Caitanya, and the Lord would jokingly call him Akrūra.
 
 ভাগবতী দেবানন্দ বক্রেশ্বর-কৃপাতে ৷  
 ভাগবতের ভক্তি-অর্থ পাইল প্রভু হৈতে ॥ ৭৭ ॥
@@ -780,7 +780,7 @@ the Bhāgavata reciter  Devānanda  by Vakreśvara’s mercy
 bhāgavatera bhakti-artha pāila prabhu haite  
 of the Bhāgavata  the devotional meaning  received  the Lord  from
 
-(77) Devānanda, the reciter of the *Bhāgavata*, is an offshoot of the branch of Vakreśvara, by whose mercy he received from the Lord the devotional meaning of the *Bhāgavata*.[^32]
+(77) Devānanda, the reciter of the *Bhāgavata*, is an offshoot of Vakreśvara’s branch. By Vakreśvara’s mercy he received from the Lord the devotional meaning of the *Bhāgavata*.[^32]
 
 খণ্ডবাসী মুকুন্দদাস, শ্রীরঘুনন্দন ৷  
 নরহরিদাস, চিরঞ্জীব, সুলোচন ॥ ৭৮ ॥
@@ -927,7 +927,7 @@ the Lord  entrusted  him  of Svarūpa  into the hands
 prabhura gupta-sevā kaila svarūpera sāthe  
 the Lord’s  confidential service  did  Svarūpa  with
 
-(92) The Lord placed him in the hands of Svarūpa, and together with Svarūpa he rendered the Lord confidential service.[^41]
+(92) The Lord placed him in the care of Svarūpa, with whom he rendered the Lord confidential service.[^41]
 
 ষোড়শ বৎসর কৈল অন্তরঙ্গ-সেবন ৷  
 স্বরূপের অন্তর্ধানে আইলা বৃন্দাবন ॥ ৯৩ ॥
@@ -937,7 +937,7 @@ sixteen  years  did  intimate  service
 svarūpera antardhāne āilā vṛndāvana  
 of Svarūpa  at the disappearance  came  to Vṛndāvana
 
-(93) For sixteen years he rendered intimate service, and when Svarūpa passed away, he came to Vṛndāvana.[^42]
+(93) For sixteen years he served the Lord intimately, and when Svarūpa departed from this world, he came to Vṛndāvana.[^42]
 
 বৃন্দাবনে দুই ভাইর চরণ দেখিয়া ৷  
 গোবর্ধনে ত্যজিব দেহ ভৃগুপাত করিয়া ॥ ৯৪ ॥
@@ -1027,7 +1027,7 @@ seven and a half  praharas  makes  of bhakti  in the practice
 cāri daṇḍa nidrā, seha nahe kona-dine  
 four  daṇḍas  sleep,  that  is not  on some days
 
-(102) Seven and a half praharas he spent in the practice of bhakti; he slept four daṇḍas, and on some days not even that.
+(102) He spent seven and a half praharas a day in the practice of bhakti and slept for four daṇḍas — on some days not even that.
 
 তাঁহার সাধনরীতি শুনিতে চমৎকার ৷  
 সেই রূপ-রঘুনাথ প্রভু যে আমার ॥ ১০৩ ॥
@@ -1037,7 +1037,7 @@ his  way of practice  to hear  wonderful
 sei rūpa-raghunātha prabhu ye āmāra  
 those  Rūpa and Raghunātha  masters  who  my
 
-(103) Wonderful it is to hear of his way of practice. And these two, Rūpa and Raghunātha, are my masters.[^44]
+(103) His way of practice is wonderful to hear of. These two, Rūpa and Raghunātha, are my masters.[^44]
 
 ইঁহা-সবার যৈছে হৈল প্রভুর মিলন ৷  
 আগে বিস্তারিয়া তাহা করিব বর্ণন ॥ ১০৪ ॥
@@ -1167,7 +1167,7 @@ Rāmadāsa  Abhirāma —  of fraternal  love  a heap
 ṣolasāṅgera kāṣṭha tuli’ ye karila vām̐śī  
 of sixteen bearers  the log  lifting  who  made  a flute
 
-(116) Rāmadāsa Abhirāma was a mountain of fraternal love; he lifted a log that took sixteen men to carry and made it his flute.[^53]
+(116) Rāmadāsa Abhirāma was a treasury of loving friendship. He lifted a log that it took sixteen men to carry and made a flute of it.[^53]
 
 প্রভুর আজ্ঞায় নিত্যানন্দ গৌড়ে চলিলা ৷  
 তাঁর সঙ্গে তিনজন প্রভু-আজ্ঞায় আইলা ॥ ১১৭ ॥
