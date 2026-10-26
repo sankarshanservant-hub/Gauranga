@@ -593,6 +593,316 @@ in your  God  Kṛṣṇa  may be  my  thought
 
 (57–58) “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, then still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”[^23]
 
+মনসো বৃত্তয়ো নঃ স্যুঃ কৃষ্ণপাদাম্বুজাশ্রয়াঃ ৷  
+বাচোঽভিধায়িনীর্নাম্নাং কায়স্তৎপ্রহ্বণাদিষু ॥ ৫৯ ॥
+
+manaso vṛttayo naḥ syuḥ  
+of the mind  the workings  our  may be  
+kṛṣṇa-pādāmbujāśrayāḥ  
+of Kṛṣṇa’s  lotus feet  taking shelter  
+vāco ’bhidhāyinīr nāmnāṁ  
+our words  uttering  His names  
+kāyas tat-prahvaṇādiṣu  
+the body  in bowing to Him and the like
+
+(59) “May the workings of our minds take shelter at Kṛṣṇa’s lotus feet, may our words utter His names, and may our bodies be given to bowing down to Him and serving Him.” (Śrīmad-Bhāgavatam, 10.47.66)[^24]
+
+কর্ম্মভির্ভ্রাম্যমাণানাং যত্র ক্বাপীশ্বরেচ্ছয়া ৷  
+মঙ্গলাচরিতৈর্দানৈ রতির্নঃ কৃষ্ণ ঈশ্বরে ॥ ৬০ ॥
+
+karmabhir bhrāmyamāṇānāṁ  
+by our karma  being made to wander  
+yatra kvāpīśvarecchayā  
+wherever  by the Lord’s will  
+maṅgalācaritair dānai  
+by auspicious deeds  by gifts  
+ratir naḥ kṛṣṇa īśvare  
+love  our  for Kṛṣṇa  the Lord
+
+(60) “Wherever we may wander, driven by our karma and the Lord’s will, by our good deeds and gifts may we have love for Kṛṣṇa, the Lord.” (Śrīmad-Bhāgavatam, 10.47.67)
+
+শ্রীদামাদি ব্রজে যত সখার নিচয় ৷  
+ঐশ্বর্য্য-জ্ঞান-হীন, কেবল-সখ্যময় ॥ ৬১ ॥
+
+śrīdāmādi vraje yata sakhāra nicaya  
+Śrīdāmā and others  in Vraja  all  of friends  the host  
+aiśvarya-jñāna-hīna, kevala-sakhya-maya  
+of majesty  the knowledge  without  purely  of friendship  made
+
+(61) All the host of Kṛṣṇa’s friends in Vraja, led by Śrīdāmā, know nothing of His majesty; they are made of pure friendship.[^25]
+
+কৃষ্ণসঙ্গে যুদ্ধ করে, স্কন্ধে আরোহণ ৷  
+তাঁরা দাস্যভাবে করে চরণ-সেবন ॥ ৬২ ॥
+
+kṛṣṇa-saṅge yuddha kare, skandhe ārohaṇa  
+with Kṛṣṇa  together  wrestling  they do  on His shoulders  climbing  
+tām̐rā dāsya-bhāve kare caraṇa-sevana  
+they  in the mood of service  do  to His feet  service
+
+(62) They wrestle with Kṛṣṇa and climb on His shoulders, and yet, as servants, they serve His feet.[^26]
+
+পাদসম্বাহনং চক্রুঃ কেচিত্তস্য মহাত্মনঃ ৷  
+অপরে হতপাপ্মানো ব্যজনৈঃ সমবীজয়ন্ ॥ ৬৩ ॥
+
+pāda-saṁvāhanaṁ cakruḥ  
+of the feet  massage  performed  
+kecit tasya mahātmanaḥ  
+some  His  of the great soul  
+apare hata-pāpmāno  
+others  free from sin  
+vyajanaiḥ samavījayan  
+with fans  fanned (Him)
+
+(63) “Some of them massaged the feet of that great soul, while others, their sins destroyed, fanned Him with fans.” (Śrīmad-Bhāgavatam, 10.15.17)[^27]
+
+কৃষ্ণের প্রেয়সী ব্রজে যত গোপীগণ ৷  
+যাঁর পদধূলি করে উদ্ধব প্রার্থন ॥ ৬৪ ॥
+
+যাঁ-সবার উপরে কৃষ্ণের প্রিয় নাহি আন ৷  
+তাঁহারা আপনাকে করে দাসী-অভিমান ॥ ৬৫ ॥
+
+kṛṣṇera preyasī vraje yata gopī-gaṇa  
+Kṛṣṇa’s  beloved  in Vraja  all  the gopīs  
+yām̐ra pada-dhūli kare uddhava prārthana  
+whose  feet’s dust  does  Uddhava  pray for  
+yām̐-sabāra upare kṛṣṇera priya nāhi āna  
+than all of them  more  to Kṛṣṇa  dear  is not  another  
+tām̐hārā āpanāke kare dāsī-abhimāna  
+they  themselves  hold  as maidservants  in self-conception
+
+(64–65) Kṛṣṇa’s beloved gopīs of Vraja, the dust of whose feet Uddhava prays for, and than whom none is dearer to Kṛṣṇa — even they think of themselves as His maidservants.
+
+ব্রজজনার্ত্তিহন্ বীর যোষিতাং  
+নিজ-জনস্ময়ধ্বংসনস্মিত ৷  
+ভজ সখে ভবৎ কিঙ্করীঃ স্ম নো  
+জলরুহাননং চারু দর্শয় ॥ ৬৬ ॥
+
+vraja-janārti-han vīra yoṣitāṁ  
+of Vraja’s  people  the distress  O destroyer  O hero  of women  
+nija-janasmaya-dhvaṁsana-smita  
+of Your own  people  the pride  destroying  whose smile  
+bhaja sakhe bhavat kiṅkarīḥ sma no  
+accept  O friend  Your  maidservants  indeed  us  
+jala-ruhānanaṁ cāru darśaya  
+lotus-like  face  beautiful  show
+
+(66) “O You who take away the distress of the people of Vraja! O Hero, whose smile destroys the pride of Your own! O friend, we are Your maidservants: be kind to us, and show us women Your beautiful lotus face.” (Śrīmad-Bhāgavatam, 10.31.6)[^28]
+
+অপি বত মধুপুর্য্যামার্য্যপুত্রোঽধুনাস্তে  
+স্মরতি স পিতৃগেহান্ সৌম্য বন্ধূংশ্চ গোপান্ ৷  
+ক্বচিদপি স কথাং নঃ কিঙ্করীণাং গৃণীতে  
+ভুজমগুরুসুগন্ধং মূর্দ্ধ্ন্যধাস্যৎ কদা নু ॥ ৬৭ ॥
+
+api bata madhu-puryām ārya-putro ’dhunāste  
+(is it)  alas  in Madhupurī  the noble one’s son  now  dwells  
+smarati sa pitṛ-gehān saumya bandhūṁś ca gopān  
+remembers (does)  He  His father’s house  O gentle one  kinsmen  and  cowherds  
+kvacid api sa kathāṁ naḥ kiṅkarīṇāṁ gṛṇīte  
+ever  (does)  He  talk  of us  maidservants  speak  
+bhujam aguru-sugandhaṁ mūrdhny adhāsyat kadā nu  
+His arm  aguru-fragrant  on the head  will He place  when  indeed
+
+(67) “O gentle one! Alas, the son of the noble one now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (Śrīmad-Bhāgavatam, 10.47.21)[^29]
+
+তাঁ-সবার কথা রহু, — শ্রীমতী রাধিকা ৷  
+সবা হৈতে সকলাংশে পরম-অধিকা ॥ ৬৮ ॥
+
+তেঁহো যাঁর দাসী হৈঞা সেবেন চরণ ৷  
+যাঁর প্রেমগুণে কৃষ্ণ বদ্ধ অনুক্ষণ ॥ ৬৯ ॥
+
+tām̐-sabāra kathā rahu, — śrīmatī rādhikā  
+of all of them  the talk  let be  Śrīmatī  Rādhikā  
+sabā haite sakalāṁśe parama-adhikā  
+than all  in every respect  supremely  greater  
+tem̐ho yām̐ra dāsī haiñā sevena caraṇa  
+She  His  maidservant  becoming  serves  the feet  
+yām̐ra prema-guṇe kṛṣṇa baddha anukṣaṇa  
+by whose  love’s  qualities  Kṛṣṇa  bound  always
+
+(68–69) Let alone them: Śrīmatī Rādhikā, who surpasses them all in every respect and by whose love Kṛṣṇa is bound at every moment — even She has become His maidservant and serves His feet.[^30]
+
+হা নাথ রমণ প্রেষ্ঠ ক্বাসি ক্বাসি মহাভুজ ৷  
+দাস্যাস্তে কৃপণায়া মে সখে দর্শয় সন্নিধিম্ ॥ ৭০ ॥
+
+hā nātha ramaṇa preṣṭha  
+O  Master  Beloved  dearest  
+kvāsi kvāsi mahā-bhuja  
+where are You  where are You  O mighty-armed  
+dāsyās te kṛpaṇāyā me  
+to Your maidservant  wretched  to Me  
+sakhe darśaya sannidhim  
+O friend  show  Your nearness
+
+(70) “O Master, O Beloved, O dearest one! Where are You, where are You, O mighty-armed? O friend, show Yourself to Me, Your wretched maidservant!” (Śrīmad-Bhāgavatam, 10.30.39)[^31]
+
+দ্বারকাতে রুক্মিণ্যাদি যতেক মহিষী ৷  
+তাঁহারাও আপনাকে মানে কৃষ্ণদাসী ॥ ৭১ ॥
+
+dvārakāte rukmiṇyādi yateka mahiṣī  
+in Dvārakā  Rukmiṇī and the other  all  queens  
+tām̐hārāo āpanāke māne kṛṣṇa-dāsī  
+they too  themselves  hold  Kṛṣṇa’s maidservants
+
+(71) In Dvārakā all the queens, led by Rukmiṇī, also think of themselves as Kṛṣṇa’s maidservants.
+
+তপশ্চরন্তীমাজ্ঞায় স্বপাদস্পর্শনাশয়া ৷  
+সখ্যোপেত্যাগ্রহীৎ পাণিং সাহং তদ্গৃহমার্জ্জনী ॥ ৭২ ॥
+
+tapaś carantīm ājñāya  
+austerity  performing  knowing (me)  
+sva-pāda-sparśanāśayā  
+His own  feet  of touching  with the hope  
+sakhyopetyāgrahīt pāṇiṁ  
+with His friend  coming  took  my hand  
+sāhaṁ tad-gṛha-mārjanī  
+that  I  His  house  the sweeper
+
+(72) “Knowing that I was performing austerities in the hope of touching His feet, He came with His friend and took my hand. And so I am the sweeper of His house.” (Śrīmad-Bhāgavatam, 10.83.11)[^32]
+
+আত্মারামস্য তস্যেমা বয়ং বৈ গৃহদাসিকাঃ ৷  
+সর্ব্বসঙ্গনিবৃত্ত্যাদ্ধা তপসা চ বভূবিম ॥ ৭৩ ॥
+
+ātmārāmasya tasyemā  
+of the self-satisfied  of Him  these  
+vayaṁ vai gṛha-dāsikāḥ  
+we  indeed  household  maidservants  
+sarva-saṅga-nivṛttyāddhā  
+from all  attachments  by turning away  directly  
+tapasā ca babhūvima  
+by austerity  and  have become
+
+(73) “By austerity and by turning away from every attachment, we have become the very maidservants in the house of Him who delights in Himself.” (Śrīmad-Bhāgavatam, 10.83.39)[^33]
+
+আনের কি কথা, বলদেব মহাশয় ৷  
+যাঁর ভাব — শুদ্ধসখ্য-বাৎসল্যাদিময় ॥ ৭৪ ॥
+
+ānera ki kathā, baladeva mahāśaya  
+of others  what  to speak  Baladeva  Mahāśaya  
+yām̐ra bhāva — śuddha-sakhya-vātsalyādi-maya  
+whose  mood  of pure  friendship  parental love  and the rest  full
+
+(74) What to speak of others? Consider Baladeva Mahāśaya, whose mood is full of pure friendship, parental love and the rest.[^34]
+
+তেঁহো আপনাকে করেন দাস-ভাবনা ৷  
+কৃষ্ণদাস-ভাব বিনু আছে কোন জনা ॥ ৭৫ ॥
+
+tem̐ho āpanāke karena dāsa-bhāvanā  
+He  Himself  holds  as a servant  in thought  
+kṛṣṇa-dāsa-bhāva vinu āche kona janā  
+of Kṛṣṇa’s servant  the mood  without  is there  any  person
+
+(75) Even He thinks of Himself as a servant. Is there anyone without the mood of a servant of Kṛṣṇa?
+
+সহস্র-বদনে যেঁহো শেষ-সঙ্কর্ষণ ৷  
+দশ দেহ ধরি’ করে কৃষ্ণের সেবন ॥ ৭৬ ॥
+
+sahasra-vadane yem̐ho śeṣa-saṅkarṣaṇa  
+with a thousand  mouths  who  Śeṣa-Saṅkarṣaṇa  
+daśa deha dhari’ kare kṛṣṇera sevana  
+ten  bodies  assuming  does  Kṛṣṇa’s  service
+
+(76) Śeṣa-Saṅkarṣaṇa, with His thousand mouths, assumes ten bodies and serves Kṛṣṇa.[^35]
+
+অনন্ত ব্রহ্মাণ্ডে রুদ্র — সদাশিবের অংশ ৷  
+গুণাবতার তেঁহো, সর্ব্বদেব-অবতংস ॥ ৭৭ ॥
+
+ananta brahmāṇḍe rudra — sadāśivera aṁśa  
+in endless  universes  Rudra  of Sadāśiva  a part  
+guṇāvatāra tem̐ho, sarva-deva-avataṁsa  
+guṇa-avatāra  he  of all  the gods  the crown
+
+(77) In the endless universes Rudra is a part of Sadāśiva; he is a guṇa-avatāra, the crown of all the gods.[^36]
+
+তেঁহো করেন কৃষ্ণের দাস্য-প্রত্যাশ ৷  
+নিরন্তর কহে শিব, ‘মুঞি কৃষ্ণদাস’ ॥ ৭৮ ॥
+
+tem̐ho karena kṛṣṇera dāsya-pratyāśa  
+he  makes  of Kṛṣṇa’s  service  the hope  
+nirantara kahe śiva, ‘muñi kṛṣṇa-dāsa’  
+constantly  says  Śiva  ‘I  Kṛṣṇa’s servant’
+
+(78) He longs for the service of Kṛṣṇa; Śiva says at every moment, “I am Kṛṣṇa’s servant.”
+
+কৃষ্ণপ্রেমে উন্মত্ত, বিহ্বল দিগম্বর ৷  
+কৃষ্ণ-গুণ-লীলা গায়, নাচে নিরন্তর ॥ ৭৯ ॥
+
+kṛṣṇa-preme unmatta, vihvala digambara  
+in Kṛṣṇa-prema  mad  overwhelmed  naked  
+kṛṣṇa-guṇa-līlā gāya, nāce nirantara  
+Kṛṣṇa’s  qualities  pastimes  he sings  dances  constantly
+
+(79) Mad with love for Kṛṣṇa, overwhelmed and naked, he sings of Kṛṣṇa’s qualities and pastimes and dances without end.
+
+পিতা-মাতা-গুরু-সখা-ভাব কেনে নয় ৷  
+কৃষ্ণপ্রেমের স্বভাবে দাস্য-ভাব সে করয় ॥ ৮০ ॥
+
+pitā-mātā-guru-sakhā-bhāva kene naya  
+of father  mother  elder  friend  the mood  whatever  may be  
+kṛṣṇa-premera svabhāve dāsya-bhāva se karaya  
+of Kṛṣṇa-prema  by the nature  the mood of service  it  produces
+
+(80) Whatever the mood — of father, mother, elder or friend — by the very nature of love for Kṛṣṇa it brings forth the mood of service.[^37]
+
+এক কৃষ্ণ — সর্ব্বসেব্য, জগৎ-ঈশ্বর ৷  
+আর যত সব, — তাঁর সেবকানুচর ॥ ৮১ ॥
+
+eka kṛṣṇa — sarva-sevya, jagat-īśvara  
+one  Kṛṣṇa  served by all  of the world  the Lord  
+āra yata saba, — tām̐ra sevakānucara  
+and  as many  all  His  servants and followers
+
+(81) Kṛṣṇa alone is served by all; He is the Lord of the world. All others are His servants and followers.
+
+সেই কৃষ্ণ অবতীর্ণ — চৈতন্য-ঈশ্বর ৷  
+অতএব আর সব, — তাঁহার কিঙ্কর ॥ ৮২ ॥
+
+sei kṛṣṇa avatīrṇa — caitanya-īśvara  
+that  Kṛṣṇa  descended  Caitanya  the Lord  
+ataeva āra saba, — tām̐hāra kiṅkara  
+therefore  the rest  all  His  servants
+
+(82) That Kṛṣṇa has descended as the Lord Caitanya; therefore all others are His servants.
+
+কেহ মানে, কেহ না মানে, সব তাঁর দাস ৷  
+যে না মানে, তার হয় সেই পাপে নাশ ॥ ৮৩ ॥
+
+keha māne, keha nā māne, saba tām̐ra dāsa  
+some  accept  some  not  accept  all  His  servants  
+ye nā māne, tāra haya sei pāpe nāśa  
+who  not  accepts  of him  is  by that  sin  destruction
+
+(83) Some accept Him and some do not, yet all are His servants. One who does not accept Him is destroyed by that very sin.[^38]
+
+চৈতন্যের দাস মুঞি, চৈতন্যের দাস ৷  
+চৈতন্যের দাস মুঞি, তাঁর দাসের দাস ॥ ৮৪ ॥
+
+caitanyera dāsa muñi, caitanyera dāsa  
+Caitanya’s  servant  I  Caitanya’s  servant  
+caitanyera dāsa muñi, tām̐ra dāsera dāsa  
+Caitanya’s  servant  I  His  servants’  servant
+
+(84) “I am Caitanya’s servant, Caitanya’s servant! I am Caitanya’s servant, the servant of His servants!”
+
+এত বলি’ নাচে, গায়, হুঙ্কার গম্ভীর ৷  
+ক্ষণেকে বসিলা আচার্য্য হৈঞা সুস্থির ॥ ৮৫ ॥
+
+eta bali’ nāce, gāya, huṅkāra gambhīra  
+so  saying  He dances  sings  roars  deep  
+kṣaṇeke vasilā ācārya haiñā susthira  
+in a moment  sat down  the Ācārya  becoming  calm
+
+(85) Saying this, He danced and sang with deep roars, and a moment later the Ācārya sat down, grown calm.
+
+ভক্ত-অভিমান মূল শ্রীবলরামে ৷  
+সেই ভাবে অনুগত তাঁর অংশগণে ॥ ৮৬ ॥
+
+bhakta-abhimāna mūla śrī-balarāme  
+the devotee’s  self-conception  the root  in Śrī Balarāma  
+sei bhāve anugata tām̐ra aṁśa-gaṇe  
+that  mood  follow  His  parts
+
+(86) The root of the devotee’s self-conception is in Śrī Balarāma, and all His parts follow Him in that mood.[^39]
+
 ---
 
 [^1]: The same verse as Ādi 1.12. The edition ascribes verses 6.4–6.5 to the diary of Svarūpa Dāmodara («শ্রীস্বরূপগোস্বামি-কড়চায় শ্লোক»; heading: “explanation of the twelfth and thirteenth of the first fourteen verses of the Ādi”). *Anubhāṣya*: Mahā-Viṣṇu, the maker of the world, is the shelter of the efficient cause (*nimitta*), and His avatāra, the Lord Advaita Ācārya, is the shelter of the material cause (*upādāna*).
@@ -640,3 +950,35 @@ in your  God  Kṛṣṇa  may be  my  thought
 [^22]: The edition’s heading: “(5) Even in Nanda Mahārāja’s parental love there is service to Kṛṣṇa.” *Guru* here means “elder” (*Amṛta-pravāha-bhāṣya* on 6.52).
 
 [^23]: *Amṛta-pravāha-bhāṣya* on 6.58: “O Uddhava, even if you think that Kṛṣṇa is God, may my mind rest in that Kṛṣṇa.” Nanda prays for attachment to the Kṛṣṇa whom Uddhava calls God — this is the “semblance of service” (6.55) of which the author speaks.
+
+[^24]: *Anubhāṣya*: Nanda and the other cowherds speak these words to Uddhava with deep love for Kṛṣṇa when, having met the people of Vraja, he is about to set out on his way back.
+
+[^25]: *Amṛta-pravāha-bhāṣya*: friendship is of two kinds — with knowledge of Kṛṣṇa’s majesty, and “pure” (*kevala*), unmixed; Śrīdāmā and the other friends of Vraja have pure friendship: they do not know His majesty.
+
+[^26]: As in the Gauḍīya Maṭha edition: «তাঁরা» (another reading: «তারা»); the sense is the same.
+
+[^27]: *Anubhāṣya*: so the cowherd boys played with Rāma and Kṛṣṇa in Tālavana, before Dhenukāsura was slain. *Amṛta-pravāha-bhāṣya*: the other friends, in the mood of friendship, fanned Him with fans made of leaves.
+
+[^28]: *Anubhāṣya*: this is the song of the gopīs as they searched for Kṛṣṇa when He had vanished during the rāsa dance. *Vraja-janārti-han* — “who destroys the pain of separation of those attached to Kṛṣṇa”; *vīra* — “of magnificent form”; *bhaja* — “be gracious to us”; *yoṣitām* goes with “show us women (the gopīs)”. The *Amṛta-pravāha-bhāṣya* reads it otherwise: “O supreme hero among women.”
+
+[^29]: As in the Gauḍīya Maṭha edition: «কিঙ্করীণাং» (another reading: «কিঙ্করিণাং»). *Anubhāṣya*: this is the *citra-jalpa* of Śrīmatī Rādhikā, addressed to the bee when Uddhava came to Vraja; *ārya-putra* is the son of Nanda; “kinsmen” — Parjanya, Upananda and others, “cowherds” — Subala, Arjuna, Śrīdāmā and others; “maidservants” — Lalitā, Viśākhā and Rādhā’s other friends. The *Amṛta-pravāha-bhāṣya* takes “gentle one” as Uddhava.
+
+[^30]: The edition’s heading: “(8) Even Śrī Rādhā Herself is a maidservant of Kṛṣṇa.”
+
+[^31]: *Anubhāṣya*: so Śrīmatī Rādhikā weeps when, during the rāsa dance, Kṛṣṇa had left the other gopīs and gone away with Her alone, and then, when She, proud of His love, said She could walk no further and asked Him to carry Her, He vanished. *Amṛta-pravāha-bhāṣya*: “O Master, O Beloved, O Dearest, O mighty-armed! I am Your most wretched maidservant — bring Me near You!”
+
+[^32]: *Anubhāṣya*: these are the words of Kālindī, Kṛṣṇa’s queen, to Draupadī, when the women of the Yādavas and the Kauravas met at Samanta-pañcaka; “His friend” is Arjuna.
+
+[^33]: *Anubhāṣya*: in the same place Queen Lakṣmaṇā speaks to Draupadī: having renounced every attachment — to happiness, wealth, children, and even to liberation — we have become maidservants in the house of Kṛṣṇa, who delights in Himself.
+
+[^34]: *Anubhāṣya*: although Baladeva is the elder brother and therefore worthy of worship, He knows Himself as the servant of His younger brother, Kṛṣṇa. The fourfold expansion of Mahā-Vaikuṇṭha is a manifestation of this self-luminous Baladeva, and even so exalted a position abides in service to Kṛṣṇa. As far as a being has turned away from Kṛṣṇa’s service, so far has it invited misfortune.
+
+[^35]: *Amṛta-pravāha-bhāṣya*: the ten bodies are the umbrella, slippers, bed, pillow, garments, ornaments, resting place, dwelling, sacred thread and throne.
+
+[^36]: *Anubhāṣya* (following the *Laghu-bhāgavatāmṛta*): the scriptures speak of Rudra in two ways. Śiva who is the Lord’s own part (*svāṁśa*) is counted among the lords (*īśvara-koṭi*), while Rudra the destroyer is in some kalpas a particular jīva, like Brahmā. Hara, the abode of the Puruṣa, is in essence almost free of the guṇas and only appears changeable through his contact with tamas — as milk turns into curd by contact with a culture and yet is not other than milk (*Brahma-saṁhitā*, 5.45). Sadāśiva, who dwells in Śivaloka within Vaikuṇṭha and is free from tamas, is a vilāsa of Śrī Kṛṣṇa.
+
+[^37]: *Amṛta-pravāha-bhāṣya*: whatever the mood one has, the mood of service within every mood must be acknowledged. The edition’s heading: “(13) Service to Kṛṣṇa runs through all four rasas — mādhurya, vātsalya, sakhya and dāsya.”
+
+[^38]: *Anubhāṣya*: service to Śrī Caitanya is the very nature (*svarūpa-dharma*) of the jīva, an atom of spirit. Forgetting it, the bound soul is drawn to material enjoyment; yet even then, lording it over things, it remains an unworthy servant of Caitanya.
+
+[^39]: The edition’s heading: “Baladeva and all His partial avatāras think of themselves as Kṛṣṇa’s servants.”
