@@ -332,7 +332,7 @@ of the lion Caitanya  in Navadvīpa  the descent
 siṁha-grīva, siṁha-vīrya, siṁhera huṅkāra  
 lion’s  neck,  lion’s  strength,  of a lion  the roar
 
-(30) So the lion Caitanya descended in Navadvīpa — with the neck of a lion, the strength of a lion and the roar of a lion.
+(30) So the lion Caitanya appeared in Navadvīpa — with the neck of a lion, the strength of a lion and the roar of a lion.
 
 সেই সিংহ বসুক্ জীবের হৃদয়-কন্দরে ৷  
 কল্মষ-দ্বিরদ নাশে যাঁহার হুঙ্কারে ॥ ৩১ ॥
@@ -534,7 +534,7 @@ sannyāsa  taking  self-restrained  peaceful
 niṣṭhā-śānti-parāyaṇaḥ  
 to steadfastness and peace  devoted
 
-(49) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He takes sannyāsa; He is self-restrained and peaceful, and wholly devoted to steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 95)[^19]
+(49) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He takes sannyāsa; He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 95)[^19]
 
 ব্যক্ত করি’ ভাগবতে কহে বার বার ৷  
 কলিযুগে — কৃষ্ণনামসঙ্কীর্ত্তন সার ॥ ৫০ ॥
@@ -568,7 +568,7 @@ hear,  brothers,  this  all  of Caitanya  the glory
 ei śloke kahe tām̐ra mahimāra sīmā  
 in this  verse  it tells  His  of glory  the limit
 
-(52) Hear, brothers, of all this glory of Caitanya: this verse tells the very height of His greatness.
+(52) Hear, brothers, of all this glory of Caitanya: this verse speaks of the very height of His greatness.
 
 ‘কৃষ্ণ’ এই দুই বর্ণ সদা যাঁর মুখে ৷  
 অথবা, কৃষ্ণকে তিঁহো বর্ণে নিজ সুখে ॥ ৫৩ ॥
@@ -772,7 +772,7 @@ He  Your  portion,  You  the original  Nārāyaṇa
 māyā-kārya nahe — saba cid-ānanda-maya  
 of māyā  a product  not —  all  of consciousness and bliss  full
 
-(70) By the word *aṅga* a portion (*aṁśa*) is meant, and that portion is real. It is not a product of māyā: all of Them are full of consciousness and bliss.[^26]
+(70) By the word *aṅga* the portions (*aṁśa*) are meant, and They are real. They are not a product of māyā: all of Them are full of consciousness and bliss.[^26]
 
 অদ্বৈত, নিত্যানন্দ — চৈতন্যের দুই অঙ্গ ৷  
 অঙ্গের অবয়বগণ কহিয়ে উপাঙ্গ ॥ ৭১ ॥
@@ -802,7 +802,7 @@ Nityānanda  Gosāñi  directly  the Bearer of the plough
 advaita ācārya gosāñi sākṣāt īśvara  
 Advaita  Ācārya  Gosāñi  directly  the Lord
 
-(73) Nityānanda Gosāñi is Haladhara, the bearer of the plough, Himself, and Advaita Ācārya Gosāñi is the Lord (*Īśvara*) Himself.[^28]
+(73) Nityānanda Gosāñi is Haladhara Himself, the bearer of the plough, and Advaita Ācārya Gosāñi is the Lord (*Īśvara*) Himself.[^28]
 
 শ্রীবাসাদি পারিষদ সৈন্য সঙ্গে লঞা ৷  
 দুই সেনাপতি বুলেন কীর্ত্তন করিয়া ॥ ৭৪ ॥
@@ -1046,7 +1046,7 @@ having appeared  sees  the Ācārya  the whole  world
 kṛṣṇa-bhakti gandha-hīna viṣaya-vyavahāra  
 of devotion to Kṛṣṇa  the scent  devoid of  worldly  dealings
 
-(95) Having appeared, the Ācārya saw the whole world busy with worldly affairs, without even the scent of devotion to Kṛṣṇa.
+(95) Having appeared, the Ācārya saw the whole world busy with worldly affairs, without even a trace of devotion to Kṛṣṇa.
 
 কেহ পাপে, কেহ পুণ্যে করে বিষয়-ভোগ ৷  
 ভক্তিগন্ধ নাহি, যাতে যায় ভবরোগ ॥ ৯৬ ॥
