@@ -991,6 +991,364 @@ of Brahman  even  O Guru of the world
 
 (98) “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)
 
+প্রভুর মিষ্টবাক্য শুনি’ সন্ন্যাসীর গণ ৷  
+চিত্ত ফিরি’ গেল, কহে মধুর বচন ॥ ৯৯ ॥
+
+prabhura miṣṭa-vākya śuni’ sannyāsīra gaṇa  
+the Lord’s  sweet words  hearing  of the sannyāsīs  the company  
+citta phiri’ gela, kahe madhura vacana  
+their hearts  turning  went  they speak  sweet  words
+
+(99) Hearing the Lord’s sweet words, the sannyāsīs had a change of heart, and they spoke to Him sweetly:
+
+যে কিছু কহিলে তুমি, সর্ব্ব সত্য হয় ৷  
+কৃষ্ণপ্রেমা সেই পায়, যার ভাগ্যোদয় ॥ ১০০ ॥
+
+ye kichu kahile tumi, sarva satya haya  
+whatever  You have said  You  all  true  is  
+kṛṣṇa-premā sei pāya, yāra bhāgyodaya  
+love for Kṛṣṇa  he  attains  whose  fortune has dawned
+
+(100) “All that You have said is true: love for Kṛṣṇa is attained only by one whose good fortune has dawned.
+
+কৃষ্ণে ভক্তি কর — ইহায় সবার সন্তোষ ৷  
+বেদান্ত না শুন কেনে, তার কিবা দোষ ॥ ১০১ ॥
+
+kṛṣṇe bhakti kara — ihāya sabāra santoṣa  
+to Kṛṣṇa  devotion  You practise  in this  of all  the satisfaction  
+vedānta nā śuna kene, tāra kibā doṣa  
+Vedānta  not  You hear  why  its  what  fault
+
+(101) You have devotion for Kṛṣṇa, and we are all pleased with that. But why do You not hear Vedānta? What fault is there in it?”[^29]
+
+এত শুনি’ হাসি’ প্রভু বলিলা বচন ৷  
+দুঃখ না মানিহ যদি, করি নিবেদন ॥ ১০২ ॥
+
+eta śuni’ hāsi’ prabhu balilā vacana  
+this  hearing  smiling  the Lord  spoke  words  
+duḥkha nā māniha yadi, kari nivedana  
+offence  not  you take  if  I make  submission
+
+(102) Hearing this, the Lord smiled and said, “If you will not take offence, I shall explain.”
+
+ইহা শুনি’ বলে সর্ব্ব সন্ন্যাসীর গণ ৷  
+তোমাকে দেখিয়ে যৈছে সাক্ষাৎ নারায়ণ ॥ ১০৩ ॥
+
+ihā śuni’ bale sarva sannyāsīra gaṇa  
+this  hearing  say  all  of the sannyāsīs  the company  
+tomāke dekhiye yaiche sākṣāt nārāyaṇa  
+You  we see  as  directly  Nārāyaṇa
+
+(103) At this all the sannyāsīs said, “We see You as Nārāyaṇa Himself.
+
+তোমার বচন শুনি’ জুড়ায় শ্রবণ ৷  
+তোমার মাধুরী দেখি’ জুড়ায় নয়ন ॥ ১০৪ ॥
+
+tomāra vacana śuni’ juḍāya śravaṇa  
+Your  words  hearing  are soothed  the ears  
+tomāra mādhurī dekhi’ juḍāya nayana  
+Your  sweetness  seeing  are soothed  the eyes
+
+(104) Hearing Your words, our ears are soothed; seeing Your sweetness, our eyes are soothed.
+
+তোমার প্রভাবে সবার আনন্দিত মন ৷  
+কভু অসঙ্গত নহে তোমার বচন ॥ ১০৫ ॥
+
+tomāra prabhāve sabāra ānandita mana  
+by Your  influence  of all  joyful  the minds  
+kabhu asaṅgata nahe tomāra vacana  
+ever  unfitting  not are  Your  words
+
+(105) Your presence has filled all our hearts with joy, and Your words are never unfitting.”
+
+প্রভু কহে, বেদান্ত-সূত্র — ঈশ্বর-বচন ৷  
+ব্যাসরূপে কৈল তাহা শ্রীনারায়ণ ॥ ১০৬ ॥
+
+prabhu kahe, vedānta-sūtra — īśvara-vacana  
+the Lord  says  the Vedānta-sūtra  of Īśvara  the words  
+vyāsa-rūpe kaila tāhā śrī-nārāyaṇa  
+in the form of Vyāsa  composed  it  Śrī Nārāyaṇa
+
+(106) The Lord said, “The *Vedānta-sūtra* is the word of the Lord: Śrī Nārāyaṇa Himself composed it in the form of Vyāsa.[^30]
+
+ভ্রম, প্রমাদ, বিপ্রলিপ্সা, করণাপাটব ৷  
+ঈশ্বরের বাক্যে নাহি দোষ এই সব ॥ ১০৭ ॥
+
+bhrama, pramāda, vipralipsā, karaṇāpāṭava  
+error  inattention  the wish to deceive  imperfection of the senses  
+īśvarera vākye nāhi doṣa ei saba  
+of Īśvara  in the words  there are not  faults  these  all
+
+(107) Error, inattention, the wish to deceive and the imperfection of the senses — none of these faults is found in the words of the Lord.
+
+উপনিষৎ-সহিত সূত্র কহে যেই তত্ত্ব ৷  
+মুখ্যবৃত্ত্যে সেই অর্থ পরম মহত্ত্ব ॥ ১০৮ ॥
+
+upaniṣat-sahita sūtra kahe yei tattva  
+the Upaniṣads  together with  the sūtras  speak  which  truth  
+mukhya-vṛttye sei artha parama mahattva  
+by the primary sense  that  meaning  of supreme  greatness
+
+(108) The truth that the sūtras declare together with the Upaniṣads is of supreme greatness when taken in its primary sense.[^31]
+
+গৌণ-বৃত্ত্যে যেবা ভাষ্য করিল আচার্য্য ৷  
+তাহার শ্রবণে নাশ যায় সর্ব্ব কার্য্য ॥ ১০৯ ॥
+
+gauṇa-vṛttye yebā bhāṣya karila ācārya  
+by the secondary sense  the  commentary  made  the Ācārya  
+tāhāra śravaṇe nāśa yāya sarva kārya  
+its  by hearing  ruin  goes  all  work
+
+(109) But to hear the commentary that the Ācārya wrote in the secondary sense is to lose every spiritual gain.
+
+তাঁহার নাহিক দোষ, ঈশ্বর-আজ্ঞা পাঞা ৷  
+গৌণার্থ করিল মুখ্য অর্থ আচ্ছাদিয়া ॥ ১১০ ॥
+
+tām̐hāra nāhika doṣa, īśvara-ājñā pāñā  
+his  there is not  fault  of Īśvara  the order  receiving  
+gauṇārtha karila mukhya artha ācchādiyā  
+the secondary meaning  he made  the primary  meaning  covering
+
+(110) The fault is not his: he received the Lord’s order and so gave the secondary meaning, covering the primary.[^32]
+
+‘ব্রহ্ম’-শব্দে মুখ্য অর্থে কহে — ‘ভগবান্’ ৷  
+চিদৈশ্বর্য্য-পরিপূর্ণ, অনূর্দ্ধ-সমান ॥ ১১১ ॥
+
+‘brahma’-śabde mukhya arthe kahe — ‘bhagavān’  
+‘Brahman’-in the word  in the primary  sense  says  ‘Bhagavān’  
+cid-aiśvarya-paripūrṇa, anūrdhva-samāna  
+with spiritual majesty  full  having none above or equal
+
+(111) In its primary sense the word “Brahman” means Bhagavān, full of spiritual majesty, with none above Him or equal to Him.
+
+তাঁহার বিভূতি, দেহ, — সব চিদাকার ৷  
+চিদ্বিভূতি আচ্ছাদিয়া কহে ‘নিরাকার’ ॥ ১১২ ॥
+
+tām̐hāra vibhūti, deha, — saba cid-ākāra  
+His  opulence  body  all  of spiritual form  
+cid-vibhūti ācchādiyā kahe ‘nirākāra’  
+the spiritual opulence  covering  he calls  ‘formless’
+
+(112) His opulence and His body are all spiritual in form; but, covering His spiritual opulence, the Ācārya calls Him “formless”.
+
+চিদানন্দ — দেহ, তাঁর স্থান, পরিবার ৷  
+তাঁরে কহে — প্রাকৃত-সত্ত্বের বিকার ॥ ১১৩ ॥
+
+cid-ānanda — deha, tām̐ra sthāna, parivāra  
+spiritual bliss  His body  His  abode  retinue  
+tām̐re kahe — prākṛta-sattvera vikāra  
+Him  they call  of material sattva  a transformation
+
+(113) His body, His abode and His retinue are spiritual bliss, yet they say that He is a transformation of material *sattva*.
+
+তাঁর দোষ নাহি, তেঁহো আজ্ঞাকারী দাস ৷  
+আর যেই শুনে, তার হয় সর্ব্বনাশ ॥ ১১৪ ॥
+
+tām̐ra doṣa nāhi, tem̐ho ājñā-kārī dāsa  
+his  fault  there is not  he  order-carrying  servant  
+āra yei śune, tāra haya sarva-nāśa  
+but  whoever  hears  his  is  utter ruin
+
+(114) The fault is not his, for he is a servant who carries out orders; but whoever listens to him meets with utter ruin.
+
+প্রাকৃত করিয়া মানে বিষ্ণু-কলেবর ৷  
+বিষ্ণুনিন্দা আর নাহি ইহার উপর ॥ ১১৫ ॥
+
+prākṛta kariyā māne viṣṇu-kalevara  
+material  taking  he regards  Viṣṇu’s body  
+viṣṇu-nindā āra nāhi ihāra upara  
+Viṣṇu-blasphemy  other  there is not  this  above
+
+(115) One who regards the body of Viṣṇu as material commits the gravest blasphemy against Viṣṇu; there is none greater than this.
+
+ঈশ্বরের তত্ত্ব — যেন জ্বলিত জ্বলন ৷  
+জীবের স্বরূপ যৈছে স্ফুলিঙ্গের কণ ॥ ১১৬ ॥
+
+īśvarera tattva — yena jvalita jvalana  
+of Īśvara  the truth  like  blazing  fire  
+jīvera svarūpa yaiche sphuliṅgera kaṇa  
+of the jīva  the nature  like  of a spark  a particle
+
+(116) The truth of the Lord is like a blazing fire, and the jīva in its true nature is like a particle of a spark.
+
+জীবতত্ত্ব — শক্তি, কৃষ্ণতত্ত্ব — শক্তিমান্ ৷  
+গীতা-বিষ্ণুপুরাণাদি তাহাতে প্রমাণ ॥ ১১৭ ॥
+
+jīva-tattva — śakti, kṛṣṇa-tattva — śaktimān  
+the jīva-truth  potency  the Kṛṣṇa-truth  the possessor of potency  
+gītā-viṣṇupurāṇādi tāhāte pramāṇa  
+Gītā  Viṣṇu Purāṇa and others  in that  the evidence
+
+(117) The jīva is a potency (*śakti*); Kṛṣṇa is the possessor of all potency (*śaktimān*). The *Gītā*, the *Viṣṇu Purāṇa* and other scriptures bear witness to this.
+
+অপরেয়মিতস্ত্বন্যাং প্রকৃতিং বিদ্ধি মে পরাম্ ৷  
+জীবভূতাং মহাবাহো যয়েদং ধার্য্যতে জগৎ ॥ ১১৮ ॥
+
+apareyam itas tv anyāṁ  
+inferior  this  beyond this  but  another  
+prakṛtiṁ viddhi me parām  
+nature  know  My  superior  
+jīva-bhūtāṁ mahā-bāho  
+consisting of jīvas  O mighty-armed  
+yayedaṁ dhāryate jagat  
+by which  this  is taken up  the world
+
+(118) “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, by whom this world is taken up for enjoyment.” (Bhagavad-gītā, 7.5)[^33]
+
+বিষ্ণুশক্তিঃ পরা প্রোক্তা ক্ষেত্রজ্ঞাখ্যা তথাপরা ৷  
+অবিদ্যা-কর্ম্মসংজ্ঞান্যা তৃতীয়া শক্তিরিষ্যতে ॥ ১১৯ ॥
+
+viṣṇu-śaktiḥ parā proktā  
+Viṣṇu’s potency  superior  is declared  
+kṣetrajñākhyā tathā parā  
+called the knower of the field  likewise  superior  
+avidyā-karma-saṁjñānyā  
+called ignorance and karma  another  
+tṛtīyā śaktir iṣyate  
+a third  potency  is held to be
+
+(119) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and a third potency, called ignorance and karma, is held to be different.” (Viṣṇu Purāṇa, 6.7.61)[^34]
+
+হেন জীবতত্ত্ব লঞা লিখি’ পরতত্ত্ব ৷  
+আচ্ছন্ন করিল শ্রেষ্ঠ ঈশ্বর-মহত্ত্ব ॥ ১২০ ॥
+
+hena jīva-tattva lañā likhi’ para-tattva  
+such  the jīva-truth  taking  writing  the supreme truth  
+ācchanna karila śreṣṭha īśvara-mahattva  
+covering  he made  the highest  of Īśvara  greatness
+
+(120) Taking such a jīva and declaring it to be the Supreme Truth, he covered the highest greatness of the Lord.[^35]
+
+ব্যাসের সূত্রেতে কহে ‘পরিণাম’-বাদ ৷  
+ব্যাস ভ্রান্ত — বলি’ তার উঠাইল বিবাদ ॥ ১২১ ॥
+
+vyāsera sūtrete kahe ‘pariṇāma’-vāda  
+of Vyāsa  in the sūtras  is told  ‘transformation’-doctrine  
+vyāsa bhrānta — bali’ tāra uṭhāila vivāda  
+Vyāsa  mistaken  saying  his  raised  dispute
+
+(121) In Vyāsa’s sūtras the doctrine of transformation (*pariṇāma-vāda*) is taught; but Śaṅkara said that Vyāsa was mistaken and raised a dispute.[^36]
+
+পরিণাম-বাদে ঈশ্বর হয়েন বিকারী ৷  
+এত কহি’ ‘বিবর্ত্ত’-বাদ স্থাপনা যে করি ॥ ১২২ ॥
+
+pariṇāma-vāde īśvara hayena vikārī  
+in the transformation-doctrine  Īśvara  becomes  changeable  
+eta kahi’ ‘vivarta’-vāda sthāpanā ye kari  
+thus  saying  ‘appearance’-doctrine  establishment  which  he made
+
+(122) He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established the doctrine of appearance (*vivarta-vāda*), the doctrine of illusion.[^37]
+
+বস্তুতঃ পরিণাম-বাদ — সেই সে প্রমাণ ৷  
+দেহে আত্মবুদ্ধি — হয় বিবর্ত্তের স্থান ॥ ১২৩ ॥
+
+vastutaḥ pariṇāma-vāda — sei se pramāṇa  
+in reality  the transformation-doctrine  that  alone  the authority  
+dehe ātma-buddhi — haya vivartera sthāna  
+in the body  the sense of self  is  of vivarta  the place
+
+(123) In truth the doctrine of transformation alone is authoritative; *vivarta*, illusion, has its place only where one takes the body for the self.[^38]
+
+অবিচিন্ত্য-শক্তিযুক্ত শ্রীভগবান্ ৷  
+ইচ্ছায় জগৎরূপে পায় পরিণাম ॥ ১২৪ ॥
+
+avicintya-śakti-yukta śrī-bhagavān  
+with inconceivable potency  endowed  Śrī Bhagavān  
+icchāya jagat-rūpe pāya pariṇāma  
+by His will  in the form of the world  undergoes  transformation
+
+(124) Śrī Bhagavān, possessed of inconceivable potency, by His will undergoes transformation into the form of the world.[^39]
+
+তথাপি অচিন্ত্যশক্ত্যে হয় অবিকারী ৷  
+প্রাকৃত চিন্তামণি তাহে দৃষ্টান্ত ধরি ॥ ১২৫ ॥
+
+tathāpi acintya-śaktye haya avikārī  
+still  by inconceivable potency  He is  unchanged  
+prākṛta cintāmaṇi tāhe dṛṣṭānta dhari  
+the material  cintāmaṇi  in this  as an example  we hold
+
+(125) Yet by that same inconceivable potency He remains unchanged. We find an example of this even in this world — the *cintāmaṇi* stone.
+
+নানা রত্ন-রাশি হয় চিন্তামণি হৈতে ৷  
+তথাপিহ মণি রহে স্বরূপে অবিকৃতে ॥ ১২৬ ॥
+
+nānā ratna-rāśi haya cintāmaṇi haite  
+various  heaps of jewels  come  from the cintāmaṇi  
+tathāpiha maṇi rahe svarūpe avikṛte  
+yet  the gem  remains  in its own nature  unchanged
+
+(126) Heaps of various jewels come from the *cintāmaṇi*, yet the gem itself remains unchanged in its nature.
+
+প্রাকৃত-বস্তুতে যদি অচিন্ত্যশক্তি হয় ৷  
+ঈশ্বরের অচিন্ত্যশক্তি, — ইথে কি বিস্ময় ॥ ১২৭ ॥
+
+prākṛta-vastute yadi acintya-śakti haya  
+in a material thing  if  inconceivable potency  is  
+īśvarera acintya-śakti, — ithe ki vismaya  
+of Īśvara  inconceivable potency  in this  what  wonder
+
+(127) If even a material thing possesses inconceivable power, what wonder is there in the inconceivable potency of the Lord?
+
+‘প্রণব’ সে মহাবাক্য বেদের নিদান ৷  
+ঈশ্বরস্বরূপ প্রণব — সর্ব্ববিশ্ব-ধাম ॥ ১২৮ ॥
+
+‘praṇava’ se mahāvākya vedera nidāna  
+‘praṇava’  that  great utterance  of the Vedas  the source  
+īśvara-svarūpa praṇava — sarva-viśva-dhāma  
+the Lord’s own form  praṇava  of all universes  the abode
+
+(128) The *praṇava* (oṁ) is the great utterance, the source of the Vedas; the *praṇava* is the Lord Himself in sound, the abode of all the universes.[^40]
+
+সর্ব্বাশ্রয় ঈশ্বরের করি প্রণব উদ্দেশ ৷  
+‘তত্ত্বমসি’ বাক্য হয় বেদের এক দেশ ॥ ১২৯ ॥
+
+sarvāśraya īśvarera kari praṇava uddeśa  
+the shelter of all  of Īśvara  makes  praṇava  indication  
+‘tat tvam asi’ vākya haya vedera eka deśa  
+‘tat tvam asi’  the utterance  is  of the Veda  one  part
+
+(129) The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* concerns only one part of the Veda.[^41]
+
+‘প্রণব’ মহাবাক্য — তাহা করি’ আচ্ছাদন ৷  
+মহাবাক্যে করি’ ‘তত্ত্বমসি’র স্থাপন ॥ ১৩০ ॥
+
+‘praṇava’ mahā-vākya — tāhā kari’ ācchādana  
+‘praṇava’  the great utterance  that  making  covering  
+mahāvākye kari’ ‘tat tvam asi’ra sthāpana  
+as the great utterance  making  of ‘tat tvam asi’  establishment
+
+(130) The *praṇava* is the great utterance; but he covered this and set up *tat tvam asi* as the great utterance instead.
+
+সর্ব্ববেদসূত্রে করে কৃষ্ণের অভিধান ৷  
+মুখ্যবৃত্তি ছাড়ি’ কৈল লক্ষণা-ব্যাখ্যান ॥ ১৩১ ॥
+
+sarva-veda-sūtre kare kṛṣṇera abhidhāna  
+in all the Vedas and sūtras  is made  of Kṛṣṇa  the naming  
+mukhya-vṛtti chāḍi’ kaila lakṣaṇā-vyākhyāna  
+the primary sense  abandoning  he made  secondary  explanation
+
+(131) All the Vedas and sūtras name Kṛṣṇa in their primary sense; but he abandoned the primary sense and explained them by the secondary one (*lakṣaṇā*).[^42]
+
+স্বতঃপ্রমাণ বেদ — প্রমাণ-শিরোমণি ৷  
+লক্ষণা করিলে স্বতঃপ্রমাণতা-হানি ॥ ১৩২ ॥
+
+svataḥ-pramāṇa veda — pramāṇa-śiromaṇi  
+self-evident  the Veda  of proofs  the crest-jewel  
+lakṣaṇā karile svataḥ-pramāṇatā-hāni  
+by lakṣaṇā  if one makes  of self-evidence  the loss
+
+(132) The Veda is self-evident, the crest-jewel of all proofs; interpreted by the secondary sense, it loses that self-evidence.
+
+এইমত প্রতিসূত্রে সহজার্থ ছাড়িয়া ৷  
+গৌণার্থ ব্যাখ্যা করে সব কল্পনা করিয়া ॥ ১৩৩ ॥
+
+ei mata pratisūtre sahajārtha chāḍiyā  
+in this  way  in every sūtra  the natural meaning  abandoning  
+gauṇārtha vyākhyā kare saba kalpanā kariyā  
+the secondary meaning  explanation  he makes  all  imagining
+
+(133) So in every sūtra he abandoned the natural meaning and explained it by a secondary one, imagining everything himself.”
+
 ---
 
 [^1]: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
@@ -1048,3 +1406,31 @@ of Brahman  even  O Guru of the world
 [^27]: *Anubhāṣya*: these words were spoken by Kavi, one of the nine Yogendras, to King Nimi. *Evaṁ-vrataḥ* — one whose vow is the service of hearing, chanting and the like; *druta-cittaḥ* — with a heart full of longing; *loka-bāhyaḥ* — indifferent to people’s laughter, blame or praise.
 
 [^28]: *Anubhāṣya*: Śrī Nāma Prabhu Himself, by His own will, moved Śrī Gaurasundara to sing and dance; Gaurasundara did not chant the name as though it were a thing of this world. Those who, driven by restless senses, make the name their plaything and try to lord it over Him, reap only the fruits of karma instead of bhajana.
+
+[^29]: The edition’s heading to 7.100–101: “Even so — only ordinary regard for bhakti, but firm faith in Māyāvāda.” *Anubhāṣya*: the Māyāvādīs are pleased when Kṛṣṇa is served with body and mind as a temporary practice, for they consider bhakti a kind of karma; and by “Vedānta” they mean the Upaniṣads and the *Brahma-sūtra* as interpreted by Śaṅkara.
+
+[^30]: As in the Gauḍīya Maṭha edition: «তাহা» (“it”; another reading «যাহা», “which”); the sense is the same. *Anubhāṣya*: the Vedas came into the world from the breath of Śrī Nārāyaṇa; Śrī Vyāsa, who composed the sūtras, is His empowered avatāra (*śaktyāveśa*), and so the sūtras too are the word of Nārāyaṇa Himself.
+
+[^31]: The edition’s heading: “In the primary sense (*abhidhā*) the object of the Vedānta is Bhagavān, the Truth endowed with attributes.” *Anubhāṣya*: the primary sense (*mukhya-vṛtti*, *abhidhā*) is what a word means by dictionary and grammar; the secondary sense (*gauṇa-vṛtti*, *lakṣaṇā*) is another meaning connected with it, resorted to out of some need.
+
+[^32]: The edition’s heading to 7.109: “Hearing Śaṅkara’s commentary, composed in the secondary sense to bewilder the asuras, brings ruin.” *Amṛta-pravāha-bhāṣya*: Śaṅkara, an avatāra of Śiva, was carrying out the Lord’s will, and therefore he is not at fault. In the *Padma Purāṇa* Śiva says: “Māyāvāda is a false doctrine, Buddhism in disguise. In the age of Kali I Myself, in the form of a brāhmaṇa, shall set it forth to bewilder the world.”
+
+[^33]: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, *māyā*; the other, superior nature is the jīvas, and *māyā* has no part in forming the jīva — only its seeming material self belongs to *māyā*.
+
+[^34]: *Amṛta-pravāha-bhāṣya*: Viṣṇu’s potency is threefold: the superior (*parā*) is the spiritual potency (*cit-śakti*); the *kṣetrajña* is the jīva potency; that called ignorance and karma is *māyā*.
+
+[^35]: The edition’s heading: “To take the Lord, like the jīva, as subject to ignorance is also Māyāvāda.” *Amṛta-pravāha-bhāṣya*: the jīva is a particular potency of the Lord; if it is established not as a particle of consciousness (*aṇu-caitanya*) but as Brahman, the doctrine is bound to be mistaken.
+
+[^36]: The edition’s heading: “The *Brahma-sūtra* accepts *śakti-pariṇāma-vāda*, the doctrine of the transformation of the potency.”
+
+[^37]: *Amṛta-pravāha-bhāṣya*: Śaṅkara argued that by *pariṇāma-vāda* the Lord would have to be called changeable, and that to accept it would be to call Vyāsa mistaken; so he established *vivarta-vāda* (in his commentary on *Brahma-sūtra* 2.1.14). But in the sūtras the transformation is the work of the Lord’s inconceivable potency, acting by His will alone.
+
+[^38]: *Amṛta-pravāha-bhāṣya*: *vivarta* is taking a thing for what it is not, “like a rope for a snake”. The jīva is a pure particle of spirit, and when, embodied as a human being, it takes this body for its self, that is *vivarta*. To transfer this fault to the world and to the jīva, calling them false, is groundless: both the world and the jīva are real, coming from the real Brahman.
+
+[^39]: The edition’s heading to 7.127: “Though His potency is transformed, He Himself remains unchanged.” *Anubhāṣya* (after Śrī Jīva Gosvāmī’s *Paramātma-sandarbha*, 58): it is not the essence (*svarūpa*) of the Supreme that is transformed but His potency called *dravya*, which is the expansion of His essence; He Himself, by His inconceivable potency, remains unchanged, like the *cintāmaṇi* or the lodestone, which, without changing, produce jewels or move iron. The world therefore is not false: what is false is only the identification of the self with the body.
+
+[^40]: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of the Vedas; it stands at the beginning and at the end of every Vedic mantra and is the Lord Himself in sound: “The sound *a* denotes Kṛṣṇa, the one Lord of all the worlds; *u* denotes Rādhā; and *m* the jīva.”
+
+[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
+
+[^42]: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
