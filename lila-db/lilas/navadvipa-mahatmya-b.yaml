@@ -7,7 +7,7 @@
   ref: "Гл. 7, 2"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P14
-  order: 107.071
+  order: 42.071
   title: "Из Вишрама-стханы в Суварна-бихар"
   summary: "Покинув Вишрама-стхану, Нитьянанда с Дживой и преданными приходит в Суварна-бихар и говорит, что это место, как и вся Навадвипа, вне материального бытия."
   persons: ["@nityananda", "@jiva-gosvami"]
@@ -24,7 +24,7 @@
   ref: "Гл. 7, 3–20"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P00
-  order: 814.1
+  order: 514.1
   title: "Нарада наставляет царя Суварну Сена"
   summary: "В Сатья-югу Нарада посещает погружённого в мирские заботы старого царя Суварну Сена: богатства и родные не принадлежат душе; знание и отречение ведут лишь к безрадостному единству с Брахманом; истинная цель — према к Кришне через самбандху, абхидхею и прайоджану, ступени от шраддхи до премы и девять видов бхакти; житель Навадвипы легко обретёт общество святых."
   persons: ["@narada", "@suvarna-sena", "@krishna"]
@@ -43,7 +43,7 @@
   ref: "Гл. 7, 21–27"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P00
-  order: 814.15
+  order: 514.15
   title: "Пророчество Нарады о Гауре; сон царя и небесный голос: он станет Буддхимантой Ханом"
   summary: "Нарада предрекает, что в Кали-югу Кришна явится здесь Шри Чайтаньей и призывающие Его имя быстро достигнут Кришны без оскорблений; поёт «Гаурахари бол» и уходит; в царе пробуждается према; во сне он видит Гауру с Гададхарой в киртане, а голос с неба возвещает, что он родится спутником Господа — Буддхимантой Ханом."
   persons: ["@narada", "@suvarna-sena", "@buddhimanta-khan", "@mahaprabhu", "@gadadhara-pandita"]
@@ -61,7 +61,7 @@
   ref: "Гл. 7, 28–31"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P14
-  order: 107.0712
+  order: 42.0712
   title: "Шриваса и Джива без чувств; Джива видит киртан Гауры в Суварна-бихаре"
   summary: "Услышав рассказ, Шриваса (воплощение Нарады) и Джива лишаются чувств; придя в себя, Джива взывает к Махапрабху, и ему открывается некогда проходивший здесь киртан: Гаура танцует, Нитьянанда и Адвайта поют; киртан длится до полудня."
   persons: ["@jiva-gosvami", "@srivasa", "@nityananda", "@mahaprabhu", "@advaita"]
@@ -79,7 +79,7 @@
   ref: "Гл. 7, 32–33"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P14
-  order: 107.072
+  order: 42.072
   title: "Отдых в Дева-палли гостями Нрисимхадевы"
   summary: "С воспеванием преданные приходят в Дева-палли, отдыхают и вкушают полуденную трапезу как гости Божества Нрисимхадевы; на закате обходят селение."
   persons: ["@jiva-gosvami", "@nityananda", "@nrisimha"]
@@ -96,7 +96,7 @@
   ref: "Гл. 7, 33–37"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P00
-  order: 814.2
+  order: 514.2
   title: "Нрисимха отдыхает в Дева-палли; полубоги строят дома на берегу Мандакини"
   summary: "Убив Хираньякашипу ради Прахлады, Нрисимхадева пришёл сюда отдохнуть; Брахма и полубоги основали на холме у Мандакини селение для поклонения Ему (Нрисимха-кшетра); дворцы Вишвакармы и жилища Сурьи, Брахмы, Ганеши и Индры исчезли, остались холмы."
   persons: ["@nrisimha", "@prahlada", "@hiranyakashipu", "@brahma", "@surya", "@ganesha", "@indra", "@vishvakarma"]
@@ -113,7 +113,7 @@
   ref: "Гл. 7, 38–39"
   file: "navadvipa-dhama-mahatmya/ru/07.md"
   period: P14
-  order: 107.073
+  order: 42.073
   title: "Пророчество: царь-преданный восстановит храм Нрисимхи; Дева-палли — в пределах дхамы"
   summary: "Нитьянанда предрекает, что в будущем великий царь-преданный по милости Нрисимхадевы возведёт здесь новый храм и восстановит поклонение; хотя Дева-палли на краю пути обхода, она в пределах тридцатидвухмильной дхамы."
   persons: ["@nityananda", "@jiva-gosvami", "@nrisimha"]
@@ -131,7 +131,7 @@
   ref: "Гл. 8, 4–10"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P14
-  order: 107.081
+  order: 42.081
   title: "Экстатический путь к Алакананде: Нитьянанда взывает «Гаура!», Шриваса танцует с Дживой"
   summary: "Преданные идут с воспеванием; Нитьянанда в экстазе, с дрожащим голосом и слезами взывает «О Гаура!»; Шриваса и Джива то кружатся в радости, то плачут в разлуке с Гаурой; так они приходят к Алакананде."
   persons: ["@nityananda", "@jiva-gosvami", "@srivasa"]
@@ -148,7 +148,7 @@
   ref: "Гл. 8, 11–21"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P14
-  order: 107.082
+  order: 42.082
   title: "Харихара-кшетра и Маха-Варанаси: Шива поёт имя Гауры и спасает умирающих"
   summary: "Нитьянанда показывает Мандакини и Алакананду, Харихара-кшетру, где явится прекрасное Божество, и Каши Навадвипы: здесь Шива, не прерывая танца, поёт имя Шри Чайтаньи, призывает своих последователей предаться Ему и в час смерти возглашает это имя в уши умирающим; преданные здесь отвергают освобождение — потому место зовётся Маха-Варанаси."
   persons: ["@nityananda", "@jiva-gosvami", "@shiva"]
@@ -167,7 +167,7 @@
   ref: "Гл. 8, 22–24"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P14
-  order: 107.083
+  order: 42.083
   title: "Нитьянанда дарует Дживе прему; Шива и Парвати незримо кланяются Нитьянанде"
   summary: "Танцуя, Нитьянанда призывает Дживу принять любовь к Гауре; невидимые для других Шива и Парвати выходят вперёд, кланяются стопам Нитьянанды, получают исполнение сокровенных желаний и уходят, воспевая имя Шри Чайтаньи."
   persons: ["@nityananda", "@jiva-gosvami", "@shiva", "@parvati"]
@@ -184,7 +184,7 @@
   ref: "Гл. 8, 25–27"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P14
-  order: 107.0831
+  order: 42.0831
   title: "Приход в Гадигачху — Годрумадвипу, обитель Сурабхи"
   summary: "Нитьянанда с преданными приходит в селение Гадигачха и с улыбкой говорит, что это Годрумадвипа, где вечно живёт Сурабхи, корова Индры."
   persons: ["@nityananda", "@jiva-gosvami", "@surabhi"]
@@ -201,7 +201,7 @@
   ref: "Гл. 8, 28–50"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P00
-  order: 816.1
+  order: 516.1
   title: "Индра и Сурабхи поклоняются Гауре; Господь является им под баньяном"
   summary: "Устрашённый своим оскорблением (ливень над Гокулой и поднятие Говардханы), Индра, хотя и прощённый Кришной, просит совета у Сурабхи; та ведёт его в Навадвипу поклоняться Нимаю-пандиту — Самому Кришне; от повторения имени у них текут слёзы, и Гаура является им, обещая скорое пришествие и служение; Сурабхи остаётся под баньяном — отсюда имя Го-друма."
   persons: ["@indra", "@surabhi", "@krishna", "@mahaprabhu"]
@@ -219,7 +219,7 @@
   ref: "Гл. 8, 51–69"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P00
-  order: 816.2
+  order: 516.2
   title: "Сурабхи спасает Маркандейю в потоп"
   summary: "Маркандейя, благословлённый Шивой жить семь кальп, тонет в водах потопа; буря не касается Навадвипы, и Сурабхи вытаскивает его на остров Годрума; по вещему голосу он находит её под огромным баньяном, пьёт её молоко и просит указать выход из страданий долгой жизни."
   persons: ["@markandeya", "@surabhi", "@shiva"]
@@ -236,7 +236,7 @@
   ref: "Гл. 8, 70–92"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P00
-  order: 816.25
+  order: 516.25
   title: "Наставление Сурабхи Маркандейе: Навадвипа и поклонение Гауре"
   summary: "Сурабхи учит: Навадвипа нематериальна и неразрушима, это восьмилепестковый лотос с Антардвипой в сердцевине и Майяпуром посреди, окружённый Вираджей; прими прибежище у Шри Чайтаньи, отвергнув наслаждение и освобождение, — так достигнешь служения Радхе и Говинде; в поклонении Гауре нет оскорблений, Его имя уничтожает грехи и желание освобождения; Маркандейя в блаженстве начинает новую жизнь."
   persons: ["@surabhi", "@markandeya", "@mahaprabhu", "@radha", "@krishna"]
@@ -254,7 +254,7 @@
   ref: "Гл. 8, 93–94"
   file: "navadvipa-dhama-mahatmya/ru/08.md"
   period: P14
-  order: 107.0832
+  order: 42.0832
   title: "День в Годруме; путь в Мадхьядвипу"
   summary: "Выслушав историю, Джива исполнен счастья; проведя день в Годруме, преданные направляются в Мадхьядвипу."
   persons: ["@jiva-gosvami", "@nityananda"]
@@ -272,7 +272,7 @@
   ref: "Гл. 9, 2–3"
   file: "navadvipa-dhama-mahatmya/ru/09.md"
   period: P14
-  order: 107.091
+  order: 42.091
   title: "Из Годрумы в Мадхьядвипу, в Маджидаграму"
   summary: "На исходе ночи Нитьянанда с преданными покидает Годруму, делясь радостью со встречными, и, придя в Мадхьядвипу, со смехом указывает Маджидаграму — место поклонения семи риши."
   persons: ["@nityananda", "@jiva-gosvami"]
@@ -289,7 +289,7 @@
   ref: "Гл. 9, 3–19"
   file: "navadvipa-dhama-mahatmya/ru/09.md"
   period: P00
-  order: 818.1
+  order: 518.1
   title: "Семь риши в Маджиде: Гаура является им как Панча-таттва"
   summary: "По слову отца, Брахмы, семь риши приходят в Навадвипу и без еды и сна повторяют имя Шри Чайтаньи; в полдень Гаура является им сияющим как сто солнц, в облике Панча-таттвы, велит отбросить желания наслаждения и отречения, хранить тайну и поклоняться Кришне у их гхата в Кумара-хатте, обещая, что они увидят Его игры; семь холмов здесь стоят как звёзды Большой Медведицы."
   persons: ["@seven-rishis", "@brahma", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
@@ -308,7 +308,7 @@
   ref: "Гл. 9, 20–22"
   file: "navadvipa-dhama-mahatmya/ru/09.md"
   period: P00
-  order: 818.2
+  order: 518.2
   title: "Наймиша на Гомати: Шаунака и риши слушают о Гауре от Суты"
   summary: "К югу — река Гомати и лес Наймиша, где в начале Кали Шаунака и мудрецы во время великого жертвоприношения слушали о Шри Чайтанье от Суты Госвами; кто читает здесь Пураны в месяц Картика, достигает Вриндавана."
   persons: ["@shaunaka", "@suta-gosvami", "@mahaprabhu"]
@@ -327,7 +327,7 @@
   ref: "Гл. 9, 23–24"
   file: "navadvipa-dhama-mahatmya/ru/09.md"
   period: P00
-  order: 818.3
+  order: 518.3
   title: "Шива на лебеде Брахмы слушает Пураны в Наймише и поёт хвалу Гауре"
   summary: "Оставив быка, Шива прилетел в Наймишу на лебеде Брахмы послушать Пураны и со своими последователями пел и танцевал, восхваляя Шри Чайтанью и осыпая всё цветами."
   persons: ["@shiva", "@brahma", "@mahaprabhu"]
@@ -344,7 +344,7 @@
   ref: "Гл. 9, 25–26"
   file: "navadvipa-dhama-mahatmya/ru/09.md"
   period: P14
-  order: 107.0911
+  order: 42.0911
   title: "Экстаз Дживы в Наймише; день с Нитьянандой и путь к Пушкаре"
   summary: "Чувствуя силу святой земли, Джива не может сдержать экстаза; следующий день преданные проводят с Нитьянандой и направляются к Пушкаре."
   persons: ["@jiva-gosvami", "@nityananda"]
@@ -355,3 +355,305 @@
   event: ev-nvm-parikrama-madhyadvipa
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "25", to: "26"}
+
+# --- Глава 10. Мадхьядвипа (2) ---
+- id: nvm-10-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 5–7"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P14
+  order: 42.0912
+  title: "Утром — к Брахманапуре (Брахмана-пушкаре)"
+  summary: "Наутро Нитьянанда с Дживой продолжает обход и показывает селение Брахманапура, в писаниях — Брахмана-пушкара, с которым связана тайная история."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#brahmana-pushkara", "#madhyadvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-madhyadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "5", to: "7"}
+
+- id: nvm-10-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 8–24"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P00
+  order: 520.1
+  title: "Брахман Дива Дас видит Пушкару в пруду Навадвипы"
+  summary: "В Сатья-югу отрёкшийся брахман Дива Дас, любивший Пушкару, по голосу во сне остаётся в Навадвипе до старости; когда он плачет, что не увидит Пушкару, тиртха сама является ему в облике брахмана и велит омыться в пруду; омывшись, он видит Пушкару, и тот объясняет: все тиртхи пребывают в Навадвипе, служа ей; оставлять Навадвипу ради других мест — глупость."
+  persons: ["@diva-dasa", "@pushkara-personified"]
+  places: ["#brahmana-pushkara", "#madhyadvipa"]
+  kind: pre-advent
+  authority: B
+  notes: "Имя — Дива Дас; в 10.14 изд. 2001 г. — «Дживана дас» (опечатка/разночтение)."
+  themes: [celestial, teaching]
+  event: ev-nvm-diva-dasa-pushkara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "8", to: "24"}
+
+- id: nvm-10-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 25–39"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P00
+  order: 520.15
+  title: "Пушкара предрекает Диве Дасу явление Гауры; голос с неба"
+  summary: "Пушкара показывает Курукшетру-Брахмаварту между Сарасвати и Дришадвати и открывает тайну: в Майяпуре, в доме Шачи, родится Шри Чайтанья и затопит мир премой санкиртаны; поклоняясь Ему, душа скоро достигает Радхи и Кришны под началом сакхи; голос с неба возвещает, что Дива Дас родится вновь в Кали-югу, и тот остаётся у пруда."
+  persons: ["@pushkara-personified", "@diva-dasa", "@mahaprabhu", "@shachi", "@radha", "@krishna"]
+  places: ["#brahmana-pushkara", "#uchcha-hatta", "#mayapur", "#house-jagannatha-mishra"]
+  kind: prophecy
+  authority: B
+  themes: [celestial, kirtan]
+  teaching: [gaura-tattva, holy-name, prema]
+  event: ev-nvm-diva-dasa-pushkara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "25", to: "39"}
+
+- id: nvm-10-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 40–46"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P00
+  order: 520.2
+  title: "Учча-хатта: полубоги приносят Курукшетру и устраивают собрание о играх Гауры"
+  summary: "Придя в Учча-хатту, Нитьянанда объясняет: сюда сошли полубоги, принеся Курукшетру со всеми тиртхами Брахмаварты и Притхудакой; ночь здесь равна ста годам жизни на Курукшетре; полубоги устроили здесь площадь собраний для бесед о деяниях Шри Чайтаньи — отсюда имя Хатта-данга."
+  persons: ["@nityananda", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#uchcha-hatta", "#madhyadvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial]
+  event: ev-nvm-devas-uchcha-hatta
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "40", to: "46"}
+
+- id: nvm-10-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 47–50"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P14
+  order: 42.101
+  title: "Переправа через Гангу в Коладвипу"
+  summary: "У границы Надии Нитьянанда переправляется через Гангу и к полудню приходит в Коладвипу; по дороге в Кулия-пахарапур говорит Дживе, что это и есть надлежащий путь обхода дхамы."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#uchcha-hatta", "#ganga", "#koladvipa", "#kulia"]
+  kind: lila
+  authority: B
+  notes: "Стихи 47–50 в изд. 2001 г. отсутствуют; переведены по англ. изд. ШЧСМ 2015 г. (сноска 10-1)."
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-koladvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "47", to: "50"}
+
+- id: nvm-10-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 51–53"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P07
+  title: "Шествие к Кази: ночь санкиртаны, ставшая ночью Брахмы"
+  summary: "Нитьянанда вспоминает: идя спасти Кази, Господь вечером вышел из Майяпура с огромным киртаном и четырнадцатью барабанами; от сладости имени та ночь стала ночью Брахмы, и всю ночь Господь странствовал по этим землям."
+  persons: ["@nityananda", "@mahaprabhu", "@chand-kazi"]
+  places: ["#mayapur", "#navadvipa"]
+  kind: lila
+  authority: B
+  notes: "Упоминание. Четырнадцать барабанов и «ночь Брахмы» — подробности НДМ."
+  themes: [kirtan, muslims, mercy]
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "51–52", to: "53"}
+
+- id: nvm-10-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 54–60"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P07
+  order: 122.6
+  title: "Экадаши-обходы Господа: десять миль вокруг Антардвипы и шестнадцать — по девяти островам"
+  summary: "С тех пор в каждый экадаши Господь с санкиртаной обходил острова: от дома к Баракона-гхате, вокруг Баллал-диргхики и дома Шридхары — десять миль по Антардвипе; или шестнадцать миль — от Симулии к дому Кази, к Шридхаре, в Гадигачху и Маджиду, через Гангу к Параданге и Чхинна-данге и снова через Гангу домой."
+  persons: ["@mahaprabhu", "@chand-kazi", "@shridhara"]
+  places: ["#antardvipa", "#barakona-ghata", "#prithu-kunda", "#vishrama-sthana", "#simulia", "#kazi-nagara", "#gadigachha", "#majida", "#paradanga", "#chhinnadanga", "#ganga"]
+  kind: lila
+  authority: B
+  calendar: "экадаши"
+  themes: [kirtan, pilgrimage]
+  event: ev-nvm-gaura-ekadashi-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "54", to: "60"}
+
+- id: nvm-10-008
+  source: navadvipa-mahatmya
+  ref: "Гл. 10, 61–67"
+  file: "navadvipa-dhama-mahatmya/ru/10.md"
+  period: P14
+  order: 42.1011
+  title: "О полном обходе дхамы: тридцать две мили за девять ночей (наваратра-парикрама)"
+  summary: "Нитьянанда объясняет: полный обход — все тридцать две мили дхамы с двенадцатью лесами Вриндавана — совершается за девять ночей; десятимильный — за день, шестнадцатимильный — за три дня с ночлегами в Майяпуре, Годруме и Шри Пулине; Джива не может сдержать любви."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#koladvipa", "#mayapur", "#godrumadvipa", "#shri-pulina"]
+  kind: teaching
+  authority: B
+  notes: "Стихи 61–63 в изд. 2001 г. отсутствуют; переведены по англ. изд. ШЧСМ 2015 г. (сноска 10-2)."
+  themes: [pilgrimage, teaching]
+  event: ev-nvm-parikrama-koladvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/10.md", from: "61", to: "67"}
+
+# --- Глава 11. Коладвипа ---
+- id: nvm-11-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 3–11"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P14
+  order: 42.1012
+  title: "Кулия-пахада: слияние Ганги с притоками — Маха-праяга"
+  summary: "Нитьянанда показывает место, где Ганга сходится с Мандакини, Алаканандой, скрытой Сарасвати, Ямуной, Бхогавати и Манаса-гангой, — Маха-праягу, где Брахма и риши совершали жертвоприношения; оставившие здесь тело достигают Голоки; возвышенность зовётся Кулия-пахада, в писаниях — Коладвипа."
+  persons: ["@nityananda", "@jiva-gosvami", "@brahma"]
+  places: ["#kulia", "#koladvipa", "#prayaga"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-koladvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "3", to: "11"}
+
+- id: nvm-11-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 12–38"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P00
+  order: 522.1
+  title: "Вараха является брахману Васудеве; Кола-парвата"
+  summary: "В Сатья-югу юный брахман Васудева со слезами молит Божество Варахи явиться; Господь предстаёт ему исполинским вепрем, говорит, что Навадвипа — Его излюбленная обитель, где Он убил Хираньякшу после жертвы Брахмы, и обещает, что Васудева родится вновь при явлении Шри Чайтаньи; Васудева разгадывает намёки писаний о Гауре, поёт Его имя и нарекает место Кола-парвата, неотличное от Говардханы."
+  persons: ["@vasudeva-koladvipa", "@varaha", "@hiranyaksha", "@brahma", "@mahaprabhu"]
+  places: ["#kulia", "#koladvipa", "#govardhana"]
+  kind: pre-advent
+  authority: B
+  themes: [revelation, deities]
+  teaching: [gaura-tattva, scripture]
+  event: ev-nvm-varaha-vasudeva
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "12", to: "38"}
+
+- id: nvm-11-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 39–44"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P14
+  order: 42.1013
+  title: "Бахулавана; приход в Самудрагадху — Двараку и Ганга-сагару"
+  summary: "Нитьянанда показывает к северу Бахулавану: двенадцать лесов Вриндавана расположены здесь в обратном порядке по воле Господа; затем преданные приходят в Самудрагадху, неотличную от Двараки и Ганга-сагары."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#koladvipa", "#samudragarh", "#dvaraka"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage, krishna-lila]
+  event: ev-nvm-parikrama-koladvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "39", to: "44"}
+
+- id: nvm-11-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 45–76"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P00
+  order: 522.2
+  title: "Самудра Сен сражается с Бхимой, чтобы увидеть Кришну, и видит Гауру"
+  summary: "Когда Бхима в походе покорения окружил Самудрагадху, царь-преданный Самудра Сен напал на него, зная, что Кришна придёт на помощь Пандаву; Бхима воззвал к Кришне, и Тот явился, видимый лишь царю; по просьбе царя Господь показал ему игры Радхи и Кришны в лесу Кумуда, а затем Себя — Шри Чайтанью в киртане; царь в слезах разлуки прекратил бой и согласился платить Бхиме дань."
+  persons: ["@samudra-sena", "@bhima-pandava", "@krishna", "@radha", "@mahaprabhu"]
+  places: ["#samudragarh", "#koladvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [revelation, krishna-lila, separation]
+  event: ev-nvm-samudra-sena-bhima
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "45", to: "76"}
+
+- id: nvm-11-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 77–83"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P00
+  order: 522.3
+  title: "Океан у Ганги: «Сын Шачи никогда не покинет Навадвипу»"
+  summary: "Океан поднялся до этих мест, ища прибежища у Ганги; Ганга сказала, что Господь ещё остановится на его берегу (в Пури), но океан ответил, что Шри Чайтанья вечно пребывает в Навадвипе, и остался здесь, созерцая вечные игры Гауранги."
+  persons: ["@ratnakara", "@ganga-devi", "@mahaprabhu"]
+  places: ["#samudragarh", "#koladvipa", "#ganga"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial]
+  event: ev-nvm-ocean-ganga-samudragarh
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "77", to: "83"}
+
+- id: nvm-11-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 84–90"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P14
+  order: 42.111
+  title: "Чампахати: отдых в доме Ванинатхи; роща Чампакалаты"
+  summary: "В Чампахати преданные отдыхают в доме Ванинатхи и после полудня обходят селение; Нитьянанда рассказывает «сыну Валлабхи»: здесь была роща чампаки — часть Кхадиравана, где сакхи Чампакалата вечно плетёт гирлянды для Радхи и Кришны; в Кали-югу цветочники устроили здесь рынок — Чампака-хатта."
+  persons: ["@nityananda", "@jiva-gosvami", "@vaninatha-champahatti", "@champakalata", "@radha", "@krishna"]
+  places: ["#champahatti", "#house-vaninatha", "#koladvipa"]
+  kind: lila
+  authority: B
+  notes: "«Сын Валлабхи» — Джива (сын Анупамы-Валлабхи)."
+  themes: [pilgrimage, krishna-lila]
+  event: ev-nvm-parikrama-champahatti
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "84", to: "90"}
+
+- id: nvm-11-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 91–115"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P00
+  order: 522.4
+  title: "Джаядева и Лакшман Сен; Джаядева поселяется в Чампахати"
+  summary: "Джаядева с женой Падмавати живёт в хижине у Баллал-диргхики и пишет «Даша-аватара-стотру»; узнав от Говардханы Ачарьи об авторе, царь Лакшман Сен тайно приходит к нему в одежде вайшнава; отказавшись жить во дворце, Джаядева соглашается поселиться в Чампахати, признав царя бескорыстным преданным; там он поклоняется Кришне путём раги, и Кришна принимает цветы чампаки, приносимые Падмавати."
+  persons: ["@jayadeva", "@padmavati-jayadeva", "@lakshmana-sena", "@govardhana-acharya", "@krishna"]
+  places: ["#prithu-kunda", "#champahatti", "#koladvipa"]
+  kind: pre-advent
+  authority: B
+  date: "XII в."
+  themes: [krishna-lila]
+  teaching: [vaishnava]
+  event: ev-nvm-jayadeva-lakshmana-sena
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "91", to: "115"}
+
+- id: nvm-11-008
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 116–148"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P00
+  order: 522.5
+  title: "Гаура является Джаядеве и Падмавати и посылает их в Пури"
+  summary: "Кришна предстаёт Джаядеве в облике цвета чампаки — Шри Чайтаньей; супруги лишаются чувств; Господь предрекает, что родится у Шачи, примет санньясу в двадцать четыре года, поселится в Пури и будет вкушать «Гита-говинду», и велит им идти в Пури служить Джаганнатхе; в горе они молят оставить их в Навадвипе, но небесный голос утешает их; в слезах они уходят в Пури, и Джаганнатха доволен ими."
+  persons: ["@mahaprabhu", "@jayadeva", "@padmavati-jayadeva", "@shachi", "@jagannatha-deity"]
+  places: ["#champahatti", "#koladvipa", "#puri"]
+  kind: pre-advent
+  authority: B
+  date: "XII в."
+  themes: [revelation, separation, jagannatha]
+  event: ev-nvm-gaura-appears-jayadeva
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "116", to: "148"}
+
+- id: nvm-11-009
+  source: navadvipa-mahatmya
+  ref: "Гл. 11, 149–154"
+  file: "navadvipa-dhama-mahatmya/ru/11.md"
+  period: P14
+  order: 42.1111
+  title: "Джива плачет на месте Джаядевы; ночлег в доме Ванинатхи"
+  summary: "Нитьянанда показывает возвышенность — место Джаядевы; Джива в слезах славит Джаядеву, Падмавати и «Гита-говинду», молит о капле их премы и падает к стопам Нитьянанды; ночь проводят в доме Ванинатхи, который с семьёй служит Нитьянанде."
+  persons: ["@nityananda", "@jiva-gosvami", "@jayadeva", "@padmavati-jayadeva", "@vaninatha-champahatti"]
+  places: ["#champahatti", "#house-vaninatha", "#koladvipa"]
+  kind: lila
+  authority: B
+  notes: "Стих 154 в изд. 2001 г. отсутствует; переведён по англ. изд. ШЧСМ 2015 г. (сноска 11-1)."
+  themes: [pilgrimage, ecstasy]
+  event: ev-nvm-parikrama-champahatti
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "149", to: "154"}
