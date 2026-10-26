@@ -36,7 +36,7 @@ in five  verses  I have told  of Śrī Nityānanda  the truth
 śloka-dvaye kahi advaitācāryera mahattva  
 in two verses  I tell  of Advaita Ācārya  the greatness
 
-(3) In five verses I have told the truth of Śrī Nityānanda; now in two verses I tell the greatness of Advaita Ācārya.
+(3) In five verses I have told the truth of Śrī Nityānanda; now in two verses I speak of the greatness of Advaita Ācārya.
 
 মহাবিষ্ণুর্জগৎকর্ত্তা মায়য়া যঃ সৃজত্যদঃ ৷  
 তস্যাবতার এবায়মদ্বৈতাচার্য্য ঈশ্বরঃ ॥ ৪ ॥
@@ -94,7 +94,7 @@ which  Puruṣa  creation and maintenance  performs  through māyā
 ananta brahmāṇḍa sṛṣṭi karena līlāya  
 endless  universes  creation  performs  in play
 
-(8) That Puruṣa creates and maintains the world through māyā, and in His play He creates endless universes.
+(8) That Puruṣa creates and maintains the world through māyā, and in play He brings forth endless universes.
 
 ইচ্ছায় অনন্ত মূর্ত্তি করেন প্রকাশ ৷  
 এক এক মূর্ত্ত্যে করেন ব্রহ্মাণ্ডে প্রবেশ ॥ ৯ ॥
@@ -214,7 +214,7 @@ Advaita  Ācārya  of millions of universes  the creator
 āra eka eka mūrtye brahmāṇḍera bhartā  
 and  in one  one  form (each)  of the universe  the sustainer
 
-(20) Advaita Ācārya is the creator of millions of universes, and in a form of His within each of them He is its sustainer.[^7]
+(20) Advaita Ācārya is the creator of millions of universes, and, dwelling in each in one of His forms, He is its sustainer.[^7]
 
 সেই নারায়ণের মুখ্য অঙ্গ, — অদ্বৈত ৷  
 ‘অঙ্গ’ শব্দে অংশ করি’ কহে ভাগবত ॥ ২১ ॥
@@ -310,7 +310,7 @@ of the Vaiṣṇavas  the guru  He  of the world  the venerable
 dui-nāma-milane haila ‘advaita-ācārya’  
 two names  by joining  became  ‘Advaita Ācārya’
 
-(29) He is the guru of the Vaiṣṇavas and the venerable one of the whole world. Joined together, these two names became Advaita Ācārya.
+(29) He is the guru of the Vaiṣṇavas, honoured by the whole world. Joined together, these two names became Advaita Ācārya.
 
 কমল-নয়নের তেঁহো, যাতে ‘অঙ্গ’, ‘অংশ’ ৷  
 ‘কমলাক্ষ’ বলি’ ধরে নাম অবতংস ॥ ৩০ ॥
@@ -591,7 +591,7 @@ still  in Him  may remain  my  mind’s workings
 tomāra īśvara-kṛṣṇe hauka mora mati  
 in your  God  Kṛṣṇa  may be  my  thought
 
-(57–58) “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, then still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”[^23]
+(57–58) “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”[^23]
 
 মনসো বৃত্তয়ো নঃ স্যুঃ কৃষ্ণপাদাম্বুজাশ্রয়াঃ ৷  
 বাচোঽভিধায়িনীর্নাম্নাং কায়স্তৎপ্রহ্বণাদিষু ॥ ৫৯ ॥
@@ -639,7 +639,7 @@ with Kṛṣṇa  together  wrestling  they do  on His shoulders  climbing
 tām̐rā dāsya-bhāve kare caraṇa-sevana  
 they  in the mood of service  do  to His feet  service
 
-(62) They wrestle with Kṛṣṇa and climb on His shoulders, and yet, as servants, they serve His feet.[^26]
+(62) They wrestle with Kṛṣṇa and climb on His shoulders, and yet, in the mood of servants, they tend His feet.[^26]
 
 পাদসম্বাহনং চক্রুঃ কেচিত্তস্য মহাত্মনঃ ৷  
 অপরে হতপাপ্মানো ব্যজনৈঃ সমবীজয়ন্ ॥ ৬৩ ॥
@@ -771,7 +771,7 @@ from all  attachments  by turning away  directly
 tapasā ca babhūvima  
 by austerity  and  have become
 
-(73) “By austerity and by turning away from every attachment, we have become the very maidservants in the house of Him who delights in Himself.” (Śrīmad-Bhāgavatam, 10.83.39)[^33]
+(73) “By austerity and by turning away from every attachment, we have become, in truth, maidservants in the house of Him who delights in Himself.” (Śrīmad-Bhāgavatam, 10.83.39)[^33]
 
 আনের কি কথা, বলদেব মহাশয় ৷  
 যাঁর ভাব — শুদ্ধসখ্য-বাৎসল্যাদিময় ॥ ৭৪ ॥
@@ -1011,7 +1011,7 @@ in the elder’s  mood  in the whole  is  the Master’s  awareness
 kaniṣṭha-bhāve āpanāte bhakta-abhimāna  
 in the younger’s  mood  in oneself  the devotee’s  self-conception
 
-(97) In the mood of the elder there is, in the whole, the awareness of being the Master; in the mood of the younger there is, in oneself, the conception of being a devotee.[^43]
+(97) In the mood of the elder, the whole is conscious of being the Master; in the mood of the younger, the part thinks of Himself as a devotee.[^43]
 
 কৃষ্ণের সমতা হৈতে বড় ভক্তপদ ৷  
 আত্মা হৈতে কৃষ্ণের ভক্ত হয় প্রেমাস্পদ ॥ ৯৮ ॥
@@ -1132,7 +1132,7 @@ of the avatāras  in the devotee’s mood  the right
 bhakta-bhāva haite adhika sukha nāhi āra  
 than the devotee’s mood  greater  happiness  is not  other
 
-(109) All the avatāras have a claim to the mood of a devotee; there is no happiness greater than the mood of a devotee.
+(109) All the avatāras have a claim to the mood of a devotee; there is no happiness greater than that of the devotee’s mood.
 
 মূল-ভক্ত-অবতার শ্রীসঙ্কর্ষণ ৷  
 ভক্ত-অবতার তঁহি অদ্বৈতে গণন ॥ ১১০ ॥

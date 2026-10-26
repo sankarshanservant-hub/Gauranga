@@ -19,7 +19,7 @@ tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra
 ## 3
 w: in five  verses  I have told  of Śrī Nityānanda  the truth
 w: in two verses  I tell  of Advaita Ācārya  the greatness
-tr: In five verses I have told the truth of Śrī Nityānanda; now in two verses I tell the greatness of Advaita Ācārya.
+tr: In five verses I have told the truth of Śrī Nityānanda; now in two verses I speak of the greatness of Advaita Ācārya.
 
 ## 4
 w: Mahā-Viṣṇu  of the world  the maker
@@ -50,7 +50,7 @@ tr: Mahā-Viṣṇu performs the creation of the world and its other works, and 
 ## 8
 w: which  Puruṣa  creation and maintenance  performs  through māyā
 w: endless  universes  creation  performs  in play
-tr: That Puruṣa creates and maintains the world through māyā, and in His play He creates endless universes.
+tr: That Puruṣa creates and maintains the world through māyā, and in play He brings forth endless universes.
 
 ## 9
 w: by His will  endless  forms  He makes  manifest
@@ -114,7 +114,7 @@ tr: The Lord infuses His own creative power into pradhāna, and then, by the Lor
 ## 20
 w: Advaita  Ācārya  of millions of universes  the creator
 w: and  in one  one  form (each)  of the universe  the sustainer
-tr: Advaita Ācārya is the creator of millions of universes, and in a form of His within each of them He is its sustainer.
+tr: Advaita Ācārya is the creator of millions of universes, and, dwelling in each in one of His forms, He is its sustainer.
 fn: The edition’s heading: “The two forms of Advaita Prabhu.” The form in which the Puruṣa enters each universe (6.9) is Garbhodakaśāyī Viṣṇu.
 
 ## 21
@@ -167,7 +167,7 @@ fn: *Anubhāṣya* (on 6.26–6.28): although Advaita Prabhu is Viṣṇu-tattva
 ## 29
 w: of the Vaiṣṇavas  the guru  He  of the world  the venerable
 w: two names  by joining  became  ‘Advaita Ācārya’
-tr: He is the guru of the Vaiṣṇavas and the venerable one of the whole world. Joined together, these two names became Advaita Ācārya.
+tr: He is the guru of the Vaiṣṇavas, honoured by the whole world. Joined together, these two names became Advaita Ācārya.
 
 ## 30
 w: of the Lotus-eyed  He  because  ‘aṅga’  ‘aṁśa’
@@ -313,7 +313,7 @@ w: hear  Uddhava  truly  Kṛṣṇa  my  son
 w: He  God  thus  if  your  mind  takes
 w: still  in Him  may remain  my  mind’s workings
 w: in your  God  Kṛṣṇa  may be  my  thought
-tr: “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, then still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”
+tr: “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”
 fn: *Amṛta-pravāha-bhāṣya* on 6.58: “O Uddhava, even if you think that Kṛṣṇa is God, may my mind rest in that Kṛṣṇa.” Nanda prays for attachment to the Kṛṣṇa whom Uddhava calls God — this is the “semblance of service” (6.55) of which the author speaks.
 
 ## 59
@@ -340,7 +340,7 @@ fn: *Amṛta-pravāha-bhāṣya*: friendship is of two kinds — with knowledge 
 ## 62
 w: with Kṛṣṇa  together  wrestling  they do  on His shoulders  climbing
 w: they  in the mood of service  do  to His feet  service
-tr: They wrestle with Kṛṣṇa and climb on His shoulders, and yet, as servants, they serve His feet.
+tr: They wrestle with Kṛṣṇa and climb on His shoulders, and yet, in the mood of servants, they tend His feet.
 fn: As in the Gauḍīya Maṭha edition: «তাঁরা» (another reading: «তারা»); the sense is the same.
 
 ## 63
@@ -408,7 +408,7 @@ w: of the self-satisfied  of Him  these
 w: we  indeed  household  maidservants
 w: from all  attachments  by turning away  directly
 w: by austerity  and  have become
-tr: “By austerity and by turning away from every attachment, we have become the very maidservants in the house of Him who delights in Himself.” (Śrīmad-Bhāgavatam, 10.83.39)
+tr: “By austerity and by turning away from every attachment, we have become, in truth, maidservants in the house of Him who delights in Himself.” (Śrīmad-Bhāgavatam, 10.83.39)
 fn: *Anubhāṣya*: in the same place Queen Lakṣmaṇā speaks to Draupadī: having renounced every attachment — to happiness, wealth, children, and even to liberation — we have become maidservants in the house of Kṛṣṇa, who delights in Himself.
 
 ## 74
@@ -538,7 +538,7 @@ fn: The edition’s heading: “The elder-and-younger conduct of the partial ava
 ## 97
 w: in the elder’s  mood  in the whole  is  the Master’s  awareness
 w: in the younger’s  mood  in oneself  the devotee’s  self-conception
-tr: In the mood of the elder there is, in the whole, the awareness of being the Master; in the mood of the younger there is, in oneself, the conception of being a devotee.
+tr: In the mood of the elder, the whole is conscious of being the Master; in the mood of the younger, the part thinks of Himself as a devotee.
 fn: *Anubhāṣya*: a part is called *aṁśa*, and that of which it is a part, *aṁśī*; the whole is the Master (*prabhu*), the part is the devotee, and their relation is that of elder and younger: the elder is called the Master, the younger the devotee. The whole is Kṛṣṇa; the parts are Baladeva and the manifestations of Mahā-Viṣṇu of the same nature as He. Kṛṣṇa knows Himself as the Master, Baladeva and the others know themselves as devotees. The edition’s heading: “The elder partial avatāra sees the younger whole as his Master, and the younger partial avatāra thinks of himself as the servant of the elder whole” — as Baladeva before Kṛṣṇa, and Lakṣmaṇa before Rāma.
 
 ## 98
@@ -604,7 +604,7 @@ fn: Before — in Ādi 4: on 6.105–6.106 the *Anubhāṣya* refers to Ādi 4.1
 ## 109
 w: of the avatāras  in the devotee’s mood  the right
 w: than the devotee’s mood  greater  happiness  is not  other
-tr: All the avatāras have a claim to the mood of a devotee; there is no happiness greater than the mood of a devotee.
+tr: All the avatāras have a claim to the mood of a devotee; there is no happiness greater than that of the devotee’s mood.
 
 ## 110
 w: the original  devotee-avatāra  Śrī Saṅkarṣaṇa
