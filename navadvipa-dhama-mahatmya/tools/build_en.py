@@ -173,5 +173,6 @@ open(f'{OUT}/19.md', 'w').write('# Śrī Śrī Navadvīpa-bhāva-taraṅga. Wave
 for name, (a, b) in {'00-translators-note': (11, 14), '00-publishers-notes': (15, 18), '00-ahvana': (19, 22),
                      '00-preface': (23, 24), '00-vandana': (25, 28), '20-gaura-krishna-tattva': (453, 456),
                      '21-land-of-sweetness': (457, 480), '22-ten-offences': (481, 482), '23-glossary': (483, 511)}.items():
-    open(f'{OUT}/{name}.md', 'w').write(render(section(a, b)))
+    if not os.path.exists(f'{OUT}/{name}.md'):   # front/back matter was fixed by hand afterwards — never overwrite
+        open(f'{OUT}/{name}.md', 'w').write(render(section(a, b)))
 print('\n'.join(report))
