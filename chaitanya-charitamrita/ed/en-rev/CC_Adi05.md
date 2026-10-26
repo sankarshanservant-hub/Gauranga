@@ -2213,6 +2213,263 @@ like me  to the lowly  He gave  Śrī Rūpa’s  feet
 
 (210) He brought me, the most sinful, to Śrī Vṛndāvana, and to one as low as I He gave the feet of Śrī Rūpa.
 
+শ্রীমদনগোপাল-শ্রীগোবিন্দ-দরশন ৷  
+কহিবার যোগ্য নহে এসব কথন ॥ ২১১ ॥
+
+śrī-madana-gopāla-śrī-govinda-daraśana  
+Śrī Madana-Gopāla’s  Śrī Govinda’s  sight  
+kahibāra yogya nahe esaba kathana  
+to tell  fit  is not  all this  account
+
+(211) The sight of Śrī Madana-Gopāla and Śrī Govinda — all this is not fit to be told.
+
+বৃন্দাবন-পুরন্দর শ্রীমদনগোপাল ৷  
+রাসবিলাসী সাক্ষাৎ ব্রজেন্দ্রকুমার ॥ ২১২ ॥
+
+vṛndāvana-purandara śrī-madana-gopāla  
+of Vṛndāvana  the lord  Śrī Madana-Gopāla  
+rāsa-vilāsī sākṣāt vrajendra-kumāra  
+the enjoyer of the rāsa  directly  of the king of Vraja  the son
+
+(212) Śrī Madana-Gopāla is the lord of Vṛndāvana, the enjoyer of the rāsa dance, the son of the king of Vraja Himself.
+
+শ্রীরাধা-ললিতা-সঙ্গে রাস-বিলাস ৷  
+মন্মথ-মন্মথরূপে যাঁহার প্রকাশ ॥ ২১৩ ॥
+
+śrī-rādhā-lalitā-saṅge rāsa-vilāsa  
+with Śrī Rādhā  Lalitā  together  the rāsa  pastime  
+manmatha-manmatha-rūpe yām̐hāra prakāśa  
+of Cupid  the enchanter  in the form  whose  manifestation
+
+(213) With Śrī Rādhā and Lalitā He enjoys the rāsa dance, appearing in the form that enchants even Cupid.
+
+তাসামাবিরভূচ্ছৌরিঃ স্ময়মানমুখাম্বুজঃ ৷  
+পীতাম্বরধরঃ স্রগ্বী সাক্ষান্মন্মথমন্মথঃ ॥ ২১৪ ॥
+
+tāsām āvirabhūc chauriḥ  
+among them  appeared  Śauri  
+smayamāna-mukhāmbujaḥ  
+smiling  lotus-faced  
+pītāmbara-dharaḥ sragvī  
+yellow garments  wearing  garlanded  
+sākṣān manmatha-manmathaḥ  
+directly  of Cupid  the enchanter
+
+(214) “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)
+
+স্বমাধুর্য্যে লোকের মন করে আকর্ষণ ৷  
+দুই পাশে রাধা-ললিতা করেন সেবন ॥ ২১৫ ॥
+
+sva-mādhurye lokera mana kare ākarṣaṇa  
+by His own  sweetness  of people  the minds  makes  attraction  
+dui pāśe rādhā-lalitā karena sevana  
+on both  sides  Rādhā  Lalitā  render  service
+
+(215) By His own sweetness He draws the minds of all, and on either side Rādhā and Lalitā serve Him.
+
+নিত্যানন্দ-দয়া মোরে তাঁরে দেখাইল ৷  
+শ্রীরাধা-মদনমোহনে প্রভু করি’ দিল ॥ ২১৬ ॥
+
+nityānanda-dayā more tām̐re dekhāila  
+Nityānanda’s  mercy  to me  Him  showed  
+śrī-rādhā-madana-mohane prabhu kari’ dila  
+Śrī Rādhā-Madanamohana  as Lord  making  gave
+
+(216) Nityānanda’s mercy showed Him to me: the Lord gave me Śrī Rādhā and Madanamohana as my Lady and Lord.
+
+মো-অধমে দিল শ্রীগোবিন্দ দরশন ৷  
+কহিবার কথা নহে অকথ্য-কথন ॥ ২১৭ ॥
+
+mo-adhame dila śrī-govinda daraśana  
+to me  the lowly  gave  of Śrī Govinda  the sight  
+kahibāra kathā nahe akathya-kathana  
+to tell  a matter  is not  the indescribable  telling
+
+(217) To me, so lowly, He gave the sight of Śrī Govinda. It is not a thing to be told; it is beyond all telling.
+
+বৃন্দাবনে যোগপীঠে কল্পতরু-বনে ৷  
+রত্নমণ্ডপ, তাহে রত্নসিংহাসনে ॥ ২১৮ ॥
+
+শ্রীগোবিন্দ বসিয়াছেন ব্রজেন্দ্রনন্দন ৷  
+মাধুর্য্য প্রকাশি’ করেন জগৎ মোহন ॥ ২১৯ ॥
+
+vṛndāvane yoga-pīṭhe kalpa-taru-vane  
+in Vṛndāvana  at Yogapīṭha  of wish-fulfilling trees  in the grove  
+ratna-maṇḍapa, tāhe ratna-siṁhāsane  
+a jewelled  pavilion  there  on a jewelled  throne  
+śrī-govinda vasiyāchena vrajendra-nandana  
+Śrī Govinda  is seated  of the king of Vraja  the son  
+mādhurya prakāśi’ karena jagat mohana  
+sweetness  manifesting  makes  of the world  enchantment
+
+(218–219) In Vṛndāvana, at Yogapīṭha, in a grove of wish-fulfilling trees, there is a pavilion of jewels, and there on a jewelled throne sits Śrī Govinda, the son of the king of Vraja. Revealing His sweetness, He enchants the whole world.
+
+বাম-পার্শ্বে শ্রীরাধিকা সখীগণ-সঙ্গে ৷  
+রাসাদিক-লীলা প্রভু করে কত রঙ্গে ॥ ২২০ ॥
+
+vāma-pārśve śrī-rādhikā sakhī-gaṇa-saṅge  
+on the left side  Śrī Rādhikā  with Her friends  together  
+rāsādika-līlā prabhu kare kata raṅge  
+the rāsa  and other  pastimes  the Lord  makes  with how many  joys
+
+(220) On His left is Śrī Rādhikā with Her friends, and with them the Lord delights in the rāsa and so many other pastimes.
+
+যাঁর ধ্যান নিজ-লোকে করে পদ্মাসন ৷  
+অষ্টাদশাক্ষর-মন্ত্রে করে উপাসন ॥ ২২১ ॥
+
+yām̐ra dhyāna nija-loke kare padmāsana  
+on whom  meditation  in his own  world  makes  the lotus-seated  
+aṣṭādaśākṣara-mantre kare upāsana  
+with the eighteen-syllable  mantra  makes  worship
+
+(221) In his own world Brahmā, who sits on the lotus, meditates on Him and worships Him with the eighteen-syllable mantra.[^48]
+
+চৌদ্দভুবনে যাঁর সবে করে ধ্যান ৷  
+বৈকুণ্ঠাদি-পুরে যাঁর লীলাগুণ গান ॥ ২২২ ॥
+
+caudda-bhuvane yām̐ra sabe kare dhyāna  
+in the fourteen  worlds  on whom  all  make  meditation  
+vaikuṇṭhādi-pure yām̐ra līlā-guṇa gāna  
+in Vaikuṇṭha and other  abodes  whose  pastimes  qualities  singing
+
+(222) All the fourteen worlds meditate on Him, and in Vaikuṇṭha and the other abodes they sing of His pastimes and qualities.
+
+যাঁর মাধুরীতে করে লক্ষ্মী আকর্ষণ ৷  
+রূপগোসাঞি করিয়াছেন সে-রূপ বর্ণন ॥ ২২৩ ॥
+
+yām̐ra mādhurīte kare lakṣmī ākarṣaṇa  
+whose  by the sweetness  makes  Lakṣmī  attraction  
+rūpa-gosāñi kariyāchena se-rūpa varṇana  
+Rūpa  Gosāñi  has made  of that form  description
+
+(223) His sweetness attracts even Lakṣmī. Rūpa Gosāñi has described that form:
+
+স্মেরাং ভঙ্গীত্রয়পরিচিতাং সাচিবিস্তীর্ণদৃষ্টিং  
+বংশীন্যস্তাধরকিশলয়ামুজ্জ্বলাং চন্দ্রকেণ ৷  
+গোবিন্দাখ্যাং হরিতনুমিতঃ কেশিতীর্থোপকণ্ঠে  
+মা প্রেক্ষিষ্ঠাস্তব যদি সখে বন্ধুসঙ্গেঽস্তি রঙ্গঃ ॥ ২২৪ ॥
+
+smerāṁ bhaṅgī-traya-paricitāṁ sāci-vistīrṇa-dṛṣṭiṁ  
+smiling  by three bends  marked  sidelong  wide  glance  
+vaṁśī-nyastādhara-kiśalayām ujjvalāṁ candrakeṇa  
+on the flute  placed  lips  tender as shoots  radiant  with a peacock feather  
+govindākhyāṁ hari-tanum itaḥ keśi-tīrthopakaṇṭhe  
+Govinda  named  Hari’s  form  here  Keśī-tīrtha  near  
+mā prekṣiṣṭhās tava yadi sakhe bandhu-saṅge ’sti raṅgaḥ  
+do not  look  of you  if  O friend  for relatives’ company  there is  fondness
+
+(224) “O friend, if you still care for the company of your relatives, do not look at that form of Hari called Govinda, standing here by Keśī-tīrtha: He smiles, His body bends in three places, His wide glance falls sidelong, His lips, tender as new shoots, rest upon the flute, and a peacock feather makes Him radiant.” (Bhakti-rasāmṛta-sindhu, 1.2.239)[^49]
+
+সাক্ষাৎ ব্রজেন্দ্রসুত ইথে নাহি আন ৷  
+যেবা অজ্ঞে করে তাঁরে প্রতিমা-হেন জ্ঞান ॥ ২২৫ ॥
+
+sākṣāt vrajendra-suta ithe nāhi āna  
+directly  of the king of Vraja  the son  in this  there is no  other  
+yebā ajñe kare tām̐re pratimā-hena jñāna  
+whoever  the fool  makes  of Him  like an image  the notion
+
+(225) He is the son of the king of Vraja Himself — of this there is no doubt. The fool who thinks of Him as a mere image[^50]
+
+সেই অপরাধে তার নাহিক নিস্তার ৷  
+ঘোর নরকেতে পড়ে, কি বলিব আর ॥ ২২৬ ॥
+
+sei aparādhe tāra nāhika nistāra  
+for that  offence  his  there is no  deliverance  
+ghora narakete paḍe, ki baliba āra  
+terrible  into hell  falls  what  shall I say  more
+
+(226) has no deliverance for that offence; he falls into a terrible hell. What more can I say?
+
+হেন যে গোবিন্দ প্রভু, পাইনু যাঁহা হৈতে ৷  
+তাঁহার চরণ-কৃপা কে পারে বর্ণিতে ॥ ২২৭ ॥
+
+hena ye govinda prabhu, pāinu yām̐hā haite  
+such  that  Govinda  the Lord  I attained  from whom  
+tām̐hāra caraṇa-kṛpā ke pāre varṇite  
+His  feet’s  mercy  who  can  describe
+
+(227) Who can describe the mercy of the feet of Him through whom I attained such a Lord as Govinda?
+
+বৃন্দাবনে বৈসে যত বৈষ্ণব-মণ্ডল ৷  
+কৃষ্ণনাম-পরায়ণ, পরম-মঙ্গল ॥ ২২৮ ॥
+
+vṛndāvane vaise yata vaiṣṇava-maṇḍala  
+in Vṛndāvana  dwell  all  Vaiṣṇava  circles  
+kṛṣṇa-nāma-parāyaṇa, parama-maṅgala  
+to Kṛṣṇa’s name  devoted  supremely  auspicious
+
+(228) All the circles of Vaiṣṇavas who dwell in Vṛndāvana are devoted to the name of Kṛṣṇa and are supremely auspicious.
+
+যাঁর প্রাণধন — নিত্যানন্দ-শ্রীচৈতন্য ৷  
+রাধাকৃষ্ণ-ভক্তি বিনে নাহি জানে অন্য ॥ ২২৯ ॥
+
+yām̐ra prāṇa-dhana — nityānanda-śrī-caitanya  
+whose  of life  the treasure  Nityānanda-Śrī Caitanya  
+rādhā-kṛṣṇa-bhakti vine nāhi jāne anya  
+to Rādhā-Kṛṣṇa  devotion  except  not  know  anything else
+
+(229) Nityānanda and Śrī Caitanya are the treasure of their lives; they know nothing but devotion to Rādhā and Kṛṣṇa.
+
+সে বৈষ্ণবের পদরেণু, তার পদছায়া ৷  
+অধমেরে দিল প্রভুনিত্যানন্দ-দয়া ॥ ২৩০ ॥
+
+se vaiṣṇavera pada-reṇu, tāra pada-chāyā  
+of those  Vaiṣṇavas  the dust of the feet  their  feet’s shade  
+adhamere dila prabhu-nityānanda-dayā  
+to the lowly one  gave  of Lord Nityānanda  the mercy
+
+(230) The dust of those Vaiṣṇavas’ feet and the shelter of their shade — this the mercy of Lord Nityānanda gave to me, the lowly one.
+
+‘তাঁহা সর্ব্ব লভ্য হয়’ — প্রভুর বচন ৷  
+সেই সূত্র, এই তার কৈল বিবরণ ॥ ২৩১ ॥
+
+‘tām̐hā sarva labhya haya’ — prabhura vacana  
+there  all  attainable  is  the Lord’s  words  
+sei sūtra, ei tāra kaila vivaraṇa  
+that  the sūtra  this  of it  I have made  the explanation
+
+(231) “There everything can be attained” — these words of the Lord are the sūtra, and this is my explanation of it.[^51]
+
+সে সব পাইনু আমি বৃন্দাবনে আয় ৷  
+সেই সব লভ্য এই প্রভুর কৃপায় ॥ ২৩২ ॥
+
+se saba pāinu āmi vṛndāvane āya  
+that  all  attained  I  to Vṛndāvana  coming  
+sei saba labhya ei prabhura kṛpāya  
+that  all  attained  by this  Lord’s  mercy
+
+(232) All this I attained when I came to Vṛndāvana, and all of it I attained by the mercy of this Lord.
+
+আপনার কথা লিখি নির্লজ্জ হইয়া ৷  
+নিত্যানন্দগুণে লেখায় উন্মত্ত করিয়া ॥ ২৩৩ ॥
+
+āpanāra kathā likhi nirlajja haiyā  
+my own  story  I write  shameless  becoming  
+nityānanda-guṇe lekhāya unmatta kariyā  
+Nityānanda’s qualities  make me write  mad  making
+
+(233) Shamelessly I write my own story: Nityānanda’s qualities have made me mad and make me write.
+
+নিত্যানন্দ-প্রভুর গুণ-মহিমা অপার ৷  
+‘সহস্রবদনে’ শেষ নাহি পায় যাঁর ॥ ২৩৪ ॥
+
+nityānanda-prabhura guṇa-mahimā apāra  
+of Nityānanda Prabhu’s  of qualities  the glory  boundless  
+‘sahasra-vadane’ śeṣa nāhi pāya yām̐ra  
+with a thousand mouths  Śeṣa (the end)  not  finds  of which
+
+(234) The glory of Nityānanda Prabhu’s qualities is boundless: even Śeṣa with His thousand mouths cannot reach its end.
+
+শ্রীরূপ-রঘুনাথ-পদে যাঁর আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৩৫ ॥
+
+śrī-rūpa-raghunātha-pade yām̐ra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(235) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -2308,3 +2565,11 @@ like me  to the lowly  He gave  Śrī Rūpa’s  feet
 [^46]: *Amṛta-pravāha-bhāṣya*: *hātasāna* — “a touch of the hand”.
 
 [^47]: *Amṛta-pravāha-bhāṣya*: *bhakti-rasa-prānta* — “only nearness to bhakti-rasa”. *Anubhāṣya*: Śrī Sanātana is the ācārya of the conclusions of bhakti, Śrī Rūpa the ācārya of bhakti-rasa (cf. Antya 4).
+
+[^48]: *Anubhāṣya*: Brahmā, seated on the lotus, together with the inhabitants of Brahmaloka meditates on Govinda, the Deity worshipped with the eighteen-syllable mantra, on whom the dwellers of all fourteen worlds meditate.
+
+[^49]: *Anubhāṣya*: in the guise of a prohibition the verse says that this form, the abode of supreme beauty, must certainly be seen: once its sweetness is tasted, all else seems worthless. *Amṛta-pravāha-bhāṣya*: having seen Śrī Govinda, one loses the taste for everything else.
+
+[^50]: The edition’s heading: “To see the transcendental Deity as earthly stone, wood or metal is a great offence.” *Anubhāṣya* cites the *Bhakti-sandarbha* (286): true worshippers see the Deity as the Supreme Lord Himself, for the idea of a difference destroys bhakti; and the *Padma-purāṇa*: one who sees stone in the Deity of Viṣṇu is called bound for hell.
+
+[^51]: *Anubhāṣya*: Nitāi’s merciful command (5.195) is the main sūtra by which the *Caritāmṛta* was written in Vṛndāvana, the land of the Vaiṣṇavas.
