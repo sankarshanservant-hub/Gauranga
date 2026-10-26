@@ -1,0 +1,176 @@
+# English translation, Ādi-līlā 6 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: Determining the Truth of Śrī Advaita
+
+## 1
+w: I bow  to Him  Śrī Advaita-
+w: Ācārya  wondrous  (whose) deeds
+w: by whose  grace  an ignorant one  even
+w: His  true nature  may describe
+tr: I bow to Śrī Advaita Ācārya, whose deeds are wondrous. By His grace even an ignorant person may describe His true nature.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: in five  verses  I have told  of Śrī Nityānanda  the truth
+w: in two verses  I tell  of Advaita Ācārya  the greatness
+tr: In five verses I have told the truth of Śrī Nityānanda; now in two verses I tell the greatness of Advaita Ācārya.
+
+## 4
+w: Mahā-Viṣṇu  of the world  the maker
+w: by māyā  who  creates  this (world)
+w: His  avatāra  indeed  this
+w: Advaita Ācārya  the Lord
+tr: Mahā-Viṣṇu is the maker of the world, who creates it through māyā; and this Lord Advaita Ācārya is His avatāra.
+fn: The same verse as Ādi 1.12. The edition ascribes verses 6.4–6.5 to the diary of Svarūpa Dāmodara («শ্রীস্বরূপগোস্বামি-কড়চায় শ্লোক»; heading: “explanation of the twelfth and thirteenth of the first fourteen verses of the Ādi”). *Anubhāṣya*: Mahā-Viṣṇu, the maker of the world, is the shelter of the efficient cause (*nimitta*), and His avatāra, the Lord Advaita Ācārya, is the shelter of the material cause (*upādāna*).
+
+## 5
+w: Advaita  from Hari  being non-different
+w: Ācārya  bhakti  from teaching
+w: as a devotee descended  the Lord  Him
+w: Advaita Ācārya  I take shelter of
+tr: He is called Advaita because He is non-different from Hari, and Ācārya because He teaches bhakti. I take shelter of Him, the Lord Advaita Ācārya, who has descended as a devotee.
+fn: The same verse as Ādi 1.13. *Anubhāṣya*: He is Advaita because He is non-different from Hari, from the Viṣṇu-tattva; He is Ācārya because He instructs others in bhajana.
+
+## 6
+w: Advaita  Ācārya  Gosāñi  Himself  the Lord
+w: whose  greatness  not  of the jīva  within the range
+tr: Advaita Ācārya Gosāñi is the Lord Himself; His greatness lies beyond the reach of the jīva.
+
+## 7
+w: Mahā-Viṣṇu  creation  performs  of the world  and other  works
+w: His  avatāra  direct  Advaita  Ācārya
+tr: Mahā-Viṣṇu performs the creation of the world and its other works, and Advaita Ācārya is His direct avatāra.
+
+## 8
+w: which  Puruṣa  creation and maintenance  performs  through māyā
+w: endless  universes  creation  performs  in play
+tr: That Puruṣa creates and maintains the world through māyā, and in His play He creates endless universes.
+
+## 9
+w: by His will  endless  forms  He makes  manifest
+w: in one  one  form (each)  He makes  into a universe  entrance
+tr: By His will He manifests endless forms, and in one form each He enters every universe.
+
+## 10
+w: of that  Puruṣa  a part  Advaita  there is not  any  difference
+w: a particular body  His  there is no  separation
+tr: Advaita is a part (*aṁśa*) of that Puruṣa, and there is no difference between Them at all: He is only another body of the Puruṣa, and the two are never apart.
+fn: *Amṛta-pravāha-bhāṣya*: one and the same māyā is called *pradhāna* as the material cause and *māyā* as the efficient cause. According to these two functions Mahā-Viṣṇu abides in two forms: in one, abiding in prakṛti, He is the efficient cause of the world — the form of Viṣṇu; in the other, abiding in pradhāna, He is Advaita in the form of Rudra. Therefore Advaita is in no way different from the Puruṣa; only Their bodies differ.
+
+## 11
+w: help  He gives  to Him  taking  pradhāna
+w: millions  of universes  He makes  by His will  the fashioning
+tr: Taking pradhāna, the material basis of the world, Advaita assists the Puruṣa, and by His will He fashions millions of universes.
+fn: The edition’s heading: “The Deity who presides over pradhāna, the material cause of the world.”
+
+## 12
+w: of the world  the good  Advaita  of auspicious  qualities  the abode
+w: auspicious  conduct  always  ‘Maṅgala’  whose  name
+tr: Advaita is the good of the whole world and the abode of all auspicious qualities. His conduct is ever auspicious, and His name is Maṅgala, “the Auspicious”.
+fn: *Anubhāṣya*: Śrī Advaita is Mahā-Viṣṇu, and He is the Ācārya; His life, turned towards service, brings good to all; He is no material being and no shelter of the material guṇas. There were people of demoniac nature, bewildered by māyā and devoid of bhakti, who could not understand Him as the non-dual Viṣṇu and, clinging to the doctrine of bare non-duality (*kevalādvaita*), only pretended to follow Him; by His māyā the Ācārya let them feed their pride — and even this punishment of the faithless is nothing but auspicious conduct. Some say that Śrī Advaita’s other name was Maṅgala.
+
+## 13
+w: millions  of parts  millions  of potencies  millions  of avatāras
+w: so many  taking  creates  the Puruṣa  the whole  world
+tr: Taking millions of parts, millions of potencies and millions of avatāras, the Puruṣa creates the whole world.
+
+## 14
+w: māyā  as  two  aspects  efficient  material
+w: māyā  the efficient  cause  the material  pradhāna
+tr: Māyā has two aspects, the efficient cause (*nimitta*) and the material cause (*upādāna*): as the efficient cause it is called māyā, and as the material cause, pradhāna.
+
+## 15
+w: the Puruṣa  the Lord  likewise  two forms  becoming
+w: of the universe  creation  performs  the efficient  the material  taking
+tr: In the same way the Lord, the Puruṣa, assumes two forms and creates the universe with these two causes, the efficient and the material.
+
+## 16
+w: Himself  the Puruṣa  of the world  the efficient  cause
+w: of Advaita  in the form  the material cause  becomes  Nārāyaṇa
+tr: The Puruṣa Himself is the efficient cause of the world, and in the form of Advaita, Nārāyaṇa becomes its material cause.
+
+## 17
+w: in the efficient aspect  performs  He  upon māyā  the glance
+w: as the material cause  Advaita  performs  of the universe  the creation
+tr: As the efficient cause He casts His glance upon māyā; as the material cause, Advaita creates the universe.
+
+## 18
+w: although  Sāṅkhya  holds  pradhāna  the cause
+w: from inert matter  never  is  of the world  the creation
+tr: Although Sāṅkhya holds pradhāna to be the cause, the world can never come into being from inert matter.
+fn: *Anubhāṣya* (on 6.15) examines the Sāṅkhya doctrine at length and, following the *Vedānta-sūtra* (2.2.1–10) and Baladeva Vidyābhūṣaṇa’s *Govinda-bhāṣya*, shows that inert pradhāna can be neither the material nor the efficient cause of the world, for a varied creation is impossible without a conscious principle. It adds that the Kapila who founded the Sāṅkhya opposed to the Vedas is not Lord Kapila, the son of Kardama and avatāra of Vāsudeva, but another — a jīva of the line of Agni, bewildered by māyā. On 6.18–6.19 the *Anubhāṣya* refers to Ādi 5.58–5.66 and Madhya 20.259–261, 271, 276.
+
+## 19
+w: His own  creative power  the Lord  infuses  into pradhāna
+w: of the Lord  by the power  then  takes place  indeed  the fashioning
+tr: The Lord infuses His own creative power into pradhāna, and then, by the Lord’s power, the world is fashioned.
+
+## 20
+w: Advaita  Ācārya  of millions of universes  the creator
+w: and  in one  one  form (each)  of the universe  the sustainer
+tr: Advaita Ācārya is the creator of millions of universes, and in a form of His within each of them He is its sustainer.
+fn: The edition’s heading: “The two forms of Advaita Prabhu.” The form in which the Puruṣa enters each universe (6.9) is Garbhodakaśāyī Viṣṇu.
+
+## 21
+w: of that  Nārāyaṇa  the principal  limb  Advaita
+w: ‘aṅga’  by the word  part  meaning  says  the Bhāgavata
+tr: Advaita is the principal limb (*aṅga*) of Śrī Nārāyaṇa; and in the *Bhāgavatam* the word ‘aṅga’ means ‘aṁśa’, a partial manifestation.
+fn: The *Anubhāṣya* refers to Ādi 3.67 (“‘aṅga’ means ‘aṁśa’”).
+
+## 22
+w: Nārāyaṇa  You  not  indeed  of all  the embodied
+w: the Self  You are  O Lord  of all  worlds  the witness
+w: Nārāyaṇa  (Your) limb  from Nara  born  waters  abode
+w: that  also  true  not  Your  indeed  māyā
+tr: “Are You not Nārāyaṇa? For You are the Self of all embodied beings, O Lord, and the witness of all the worlds. Nārāyaṇa is Your portion — so called because His abode is the waters born of Nara; and that too is true, not Your māyā.” (Śrīmad-Bhāgavatam, 10.14.14)
+fn: The same verse as Ādi 2.30 and 3.68 (*Amṛta-pravāha-bhāṣya*: “see Ādi 2.30”, where the *Anubhāṣya* explains the three meanings of the name Nārāyaṇa). Here the author cites it for the word *aṅgam*, “part”: Nārāyaṇa is Your *aṅga*, that is, Your *aṁśa* (6.21).
+
+## 23
+w: of the Lord  the aṅga  the aṁśa  full of consciousness and bliss
+w: with māyā  connection  there is not  this  verse  says
+tr: This verse says that the Lord’s aṅga, His aṁśa, is full of consciousness and bliss and has no connection with māyā.
+fn: The edition’s heading: “Whether aṅga or aṁśa, beyond māyā.” The *Anubhāṣya* refers to Ādi 3.69–3.70.
+
+## 24
+w: ‘aṁśa’  not  saying  why  do you call  Him  ‘aṅga’
+w: than ‘aṁśa’  ‘aṅga’  because  is  more intimate
+tr: Why call Him ‘aṅga’ and not ‘aṁśa’? Because ‘aṅga’, a limb, is closer and more intimate than ‘aṁśa’, a part.
+
+## 25
+w: of Mahā-Viṣṇu  a part  Advaita  of qualities  the abode
+w: from the Lord  non-different  therefore  ‘Advaita’  full  name
+tr: Advaita, the abode of all good qualities, is a part of Mahā-Viṣṇu. He is non-different from the Lord, and so the name Advaita, “Non-dual”, fits Him in full.
+fn: The edition’s heading: “The meaning of the name ‘Advaita’.” *Pūrṇa nāma* — “a full name”, a name true in every respect.
+
+## 26
+w: before  as  He performed  of the whole  universe  the creation
+w: having descended  He performed  now  of bhakti  the establishment
+tr: As once He created the whole universe, so now, having descended, He has established bhakti.
+
+## 27
+w: the jīvas  He delivered  devotion to Kṛṣṇa  making  a gift
+w: in the Gītā and Bhāgavata  He gave  of bhakti  the explanation
+tr: He delivered the jīvas by giving them devotion to Kṛṣṇa, and He explained the *Gītā* and the *Bhāgavatam* in the light of bhakti.
+
+## 28
+w: bhakti  teaching  except  His  there is no  work
+w: therefore  name  became  ‘Advaita Ācārya’
+tr: He has no work but teaching bhakti; therefore His name became Advaita Ācārya.
+fn: *Anubhāṣya* (on 6.26–6.28): although Advaita Prabhu is Viṣṇu-tattva, the One who is served, He has no work but the good of the souls — awakening in them the desire to serve. Had He shown His pastimes only as the One who is served, the pleasure-seeking people of the world would have imitated Him and become godless adherents of bare non-duality, or worshippers of themselves as God; seeing this, He displayed the pastime of a servant of Viṣṇu, and that is His being the Ācārya. As for the wicked who defile the holy place and dress of the Ācārya and, instead of serving the Lord, dance the dance of sense-pleasure, the Ācārya utterly rejects them.
+
+## 29
+w: of the Vaiṣṇavas  the guru  He  of the world  the venerable
+w: two names  by joining  became  ‘Advaita Ācārya’
+tr: He is the guru of the Vaiṣṇavas and the venerable one of the whole world. Joined together, these two names became Advaita Ācārya.
+
+## 30
+w: of the Lotus-eyed  He  because  ‘aṅga’  ‘aṁśa’
+w: ‘Kamalākṣa’  calling  He bears  the name  as a crown-jewel
+tr: Because He is the limb and the part of the Lotus-eyed Lord, He bears the beautiful name Kamalākṣa, “Lotus-eyed”.
+fn: The edition’s heading: “The meaning of the name ‘Kamalākṣa’.” *Avataṁsa* — “a crown, an ornament”: Kamalākṣa is the loveliest of names.
