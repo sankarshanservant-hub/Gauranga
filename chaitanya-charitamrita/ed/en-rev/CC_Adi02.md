@@ -52,7 +52,7 @@ of the third  verse  the meaning  I make  explanation
 vastu-nirdeśa-rūpa maṅgalācaraṇa  
 the Object  indicating  in the form of  auspicious invocation
 
-(4) Now I shall explain in detail the meaning of the third verse — the auspicious invocation that indicates the Object, the Supreme Truth (*vastu-nirdeśa*).[^3]
+(4) Now I shall explain in detail the meaning of the third verse. It is an auspicious invocation that points to the Supreme Truth (*vastu-nirdeśa*).[^3]
 
 যদদ্বৈতং ব্রহ্মোপনিষদি তদপ্যস্য তনুভা  
 য আত্মান্তর্যামী পুরুষ ইতি সোঽস্যাংশবিভবঃ ৷  
@@ -78,7 +78,7 @@ Brahman,  Paramātmā,  Bhagavān —  subjects  three
 aṅga-prabhā, aṁśa, svarūpa — tina vidheya cihna  
 of the body  effulgence,  portion,  own form —  three  predicates  marks
 
-(6) Brahman, Paramātmā and Bhagavān are the three *anuvādas* — that which is spoken of; the effulgence of the body, the partial manifestation and His own form are the three *vidheyas* — that which is stated about them.[^5]
+(6) Brahman, Paramātmā and Bhagavān are the three *anuvādas* (that which is spoken of); the effulgence of the body, the partial manifestation and His own form are the three *vidheyas* (that which is stated about them).[^5]
 
 অনুবাদ আগে, পাছে বিধেয় স্থাপন ৷  
 সেই অর্থ কহি, শুন শাস্ত্রবিবরণ ॥ ৭ ॥
@@ -108,7 +108,7 @@ full  knowledge  full  bliss  supreme  greatness
 sei kṛṣṇa avatīrṇa caitanya-gosāñi  
 that  Kṛṣṇa  has descended  (as) Caitanya  the Lord
 
-(9) He whom the «Bhāgavatam» glorifies as the son of Nanda — that same Kṛṣṇa has descended as Śrī Caitanya Gosāñi.
+(9) He whom the *Bhāgavatam* glorifies as the son of Nanda — that same Kṛṣṇa has descended as Śrī Caitanya Gosāñi.
 
 প্রকাশবিশেষে তেঁহ ধরে তিন নাম ৷  
 ব্রহ্ম, পরমাত্মা আর স্বয়ং ভগবান্ ॥ ১০ ॥
@@ -142,7 +142,7 @@ His  of the body  pure  of rays  the orb
 upaniṣad kahe tām̐re brahma sunirmala  
 the Upaniṣads  call  that  Brahman  most pure
 
-(12) That which the Upaniṣads call the most pure Brahman is the pure radiance of the rays of His body.
+(12) That which the Upaniṣads call the spotless Brahman is the pure radiance of the rays of His body.
 
 চর্ম্মচক্ষে দেখে যৈছে সূর্য্য নির্ব্বিশেষ ৷  
 জ্ঞানমার্গে লইতে নারে তাঁহার বিশেষ ॥ ১৩ ॥
@@ -168,7 +168,7 @@ that  Brahman  undivided  infinite  all-complete
 govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
 Govinda  the original  Person  Him  I  worship
 
-(14) “I worship Govinda, the original Person. The effulgence of Him, the all-mighty, is Brahman — undivided, infinite and complete, distinct from the opulences of countless universes, their earths and all else.” (Brahma-saṁhitā, 5.40)[^8]
+(14) “I worship Govinda, the original Person. Brahman — undivided, infinite and complete, distinct from all the opulences of countless universes, their earths and all else — is the effulgence of Him, the Almighty.” (Brahma-saṁhitā, 5.40)[^8]
 
 কোটী কোটী ব্রহ্মাণ্ডে যে ব্রহ্মের বিভূতি ৷  
 সেই ব্রহ্ম গোবিন্দের হয় অঙ্গকান্তি ॥ ১৫ ॥
@@ -282,7 +282,7 @@ the Vedas,  the Bhāgavata,  the Upaniṣads,  the Āgamas
 ‘pūrṇa-tattva’ yām̐re kahe, nāhi yām̐ra sama  
 ‘the complete  Truth’  whom  they call,  there is not  to whom  an equal
 
-(24) He whom the Vedas, the «Bhāgavatam», the Upaniṣads and the Āgamas call “the complete Truth”, and who has no equal —
+(24) He whom the Vedas, the *Bhāgavatam*, the Upaniṣads and the Āgamas call “the complete Truth”, and who has no equal —
 
 ভক্তিযোগে ভক্ত পায় যাঁহার দর্শন ৷  
 সূর্য্য যেন সবিগ্রহ দেখে দেবগণ ॥ ২৫ ॥
@@ -568,7 +568,7 @@ of Them  all  in the glance  indeed  there is  of māyā  a trace
 turīya kṛṣṇera nāhi māyāra sambandha  
 of the fourth  Kṛṣṇa  there is not  with māyā  connection
 
-(52) In Their glancing upon māyā there is, as it were, a trace of māyā; but Kṛṣṇa, who abides in the fourth (*turīya*), has no connection with māyā at all.[^22]
+(52) They glance upon māyā, and in this there is, as it were, a trace of māyā; but Kṛṣṇa, who abides in the fourth state (*turīya*), has no connection with māyā at all.[^22]
 
 বিরাট্ হিরণ্যগর্ভশ্চ কারণং চেত্যুপাধয়ঃ ৷  
 ঈশস্য যৎ ত্রিভির্হীনং তুরীয়ং তৎ প্রচক্ষতে ॥ ৫৩ ॥
@@ -646,7 +646,7 @@ this  verse  of the truth  characteristic  of the Bhāgavata  the essence
 paribhāṣā-rūpe ihāra sarvatrādhikāra  
 of a paribhāṣā  in the form  its  everywhere  application
 
-(59) This verse (2.30), which reveals the characteristics of the Truth, is the essence of the «Bhāgavatam»; as a rule of interpretation (*paribhāṣā*) it applies everywhere.[^27]
+(59) This verse (2.30), which reveals the characteristics of the Truth, is the essence of the *Bhāgavatam*; as a rule of interpretation (*paribhāṣā*) it applies everywhere.[^27]
 
 ব্রহ্ম, আত্মা, ভগবান্ — কৃষ্ণের বিহার ৷  
 এ অর্থ না জানি’ মূর্খ অর্থ করে আর ॥ ৬০ ॥
@@ -676,7 +676,7 @@ in this way  various  kinds  make  objections
 tāhāre nirjite bhāgavata-padya dakṣa  
 them  to defeat  of the Bhāgavata  a verse  is expert
 
-(62) In this way they raise various objections, but a verse of the «Bhāgavatam» is expert in defeating them.
+(62) In this way they raise various objections, but a verse of the *Bhāgavatam* skilfully refutes them.
 
 বদন্তি তত্তত্ত্ববিদস্তত্ত্বং যজ্জ্ঞানমদ্বয়ম্ ৷  
 ব্রহ্মেতি পরমাত্মেতি ভগবানিতি শব্দ্যতে ॥ ৬৩ ॥
@@ -720,7 +720,7 @@ of this  verse  by the meaning  you  became  speechless
 āra eka śuna bhāgavatera vacana  
 another  one  hear  of the Bhāgavata  statement
 
-(66) The meaning of this verse has left you speechless. Now hear another statement of the «Bhāgavatam».
+(66) The meaning of this verse has left you speechless. Now hear another statement of the *Bhāgavatam*.
 
 এতে চাংশকলাঃ পুংসঃ কৃষ্ণস্তু ভগবান্ স্বয়ম্ ৷  
 ইন্দ্রারিব্যাকুলং লোকং মৃড়য়ন্তি যুগে যুগে ॥ ৬৭ ॥
@@ -993,7 +993,7 @@ describe  the great souls
 śrutenārthena cāñjasā  
 by what is heard  by meaning  and  directly
 
-(91–92) “In this «Bhāgavatam» there are ten subjects: primary creation (*sarga*), secondary creation (*visarga*), maintenance (*sthāna*), the Lord’s favour to His devotees (*poṣaṇa*), the impulses to action (*ūti*), the reigns of Manu (*manvantara*), the narrations of the Lord (*īśānukathā*), the winding up of the world (*nirodha*), liberation (*mukti*) and the shelter (*āśraya*). To reveal clearly the tenth, the great souls describe here the characteristics of the other nine — sometimes in prayers and narratives, sometimes by direct explanation.” (Śrīmad-Bhāgavatam, 2.10.1–2)[^37]
+(91–92) “In this *Bhāgavatam* there are ten subjects: primary creation (*sarga*), secondary creation (*visarga*), maintenance (*sthāna*), the Lord’s favour to His devotees (*poṣaṇa*), the impulses to action (*ūti*), the reigns of Manu (*manvantara*), the narrations of the Lord (*īśānukathā*), the winding up of the world (*nirodha*), liberation (*mukti*) and the shelter (*āśraya*). To reveal clearly the tenth, the great souls describe here the characteristics of the other nine — sometimes in prayers and narratives, sometimes by direct explanation.” (Śrīmad-Bhāgavatam, 2.10.1–2)[^37]
 
 আশ্রয় জানিতে কহি এ নব পদার্থ ৷  
 এ নবের উৎপত্তি-হেতু সেই আশ্রয়ার্থ ॥ ৯৩ ॥
@@ -1027,7 +1027,7 @@ of the sheltered  the shelter  the embodiment
 jagad-dhāma namāmi tat  
 of the world  the abode  I bow  to That
 
-(95) “In the Tenth Canto the tenth subject is revealed: the embodiment of the shelter of all who take shelter, the supreme abode named Śrī Kṛṣṇa, the abode of the world. To That I bow down.” (Śrīdhara Svāmī, «Bhāvārtha-dīpikā» on Śrīmad-Bhāgavatam, 10.1.1)
+(95) “In the Tenth Canto the tenth subject is revealed: the embodiment of the shelter of all who take shelter, the supreme abode named Śrī Kṛṣṇa, the abode of the world. To That I bow down.” (Śrīdhara Svāmī, *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 10.1.1)
 
 কৃষ্ণের স্বরূপ, আর শক্তিত্রয়-জ্ঞান ৷  
 যাঁর হয়, তাঁর নাহি কৃষ্ণেতে অজ্ঞান ॥ ৯৬ ॥
@@ -1087,7 +1087,7 @@ the spiritual potency,  the personal potency,  internal  by name
 tāhāra vaibhava ananta vaikuṇṭhādi dhāma  
 its  opulence  unlimited  Vaikuṇṭhas and other  abodes
 
-(101) The spiritual potency (*cit-śakti*), called also the personal potency (*svarūpa-śakti*) and the internal potency (*antaraṅgā*): her opulence is the unlimited abodes — the Vaikuṇṭhas and others.[^40]
+(101) The spiritual potency (*cit-śakti*) is also called the personal potency (*svarūpa-śakti*) and the internal potency (*antaraṅgā*); her opulence is the unlimited abodes, such as the Vaikuṇṭhas.[^40]
 
 মায়াশক্তি, বহিরঙ্গা, জগৎকারণ ৷  
 তাহার বৈভব অনন্ত ব্রহ্মাণ্ডের গণ ॥ ১০২ ॥
@@ -1291,92 +1291,92 @@ Himself  Bhagavān  Kṛṣṇa  of the king of Vraja  the son
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the «Caitanya-caritāmṛta».
+(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
-[^1]: «Anubhāṣya»: *bālaḥ* — “an inexperienced child”; the crocodiles are the mutually contending doctrines of Aulūkya, Jina, Buddha, Jaimini, Patañjali, Gautama, Kaṇāda, Kapila, Śaṅkara, Dattātreya and others; by the Lord’s mercy even the inexperienced one sets them aside as straw and comes to know the pure feet of Kṛṣṇa.
+[^1]: *Anubhāṣya*: *bālaḥ* — “an inexperienced child”; the crocodiles are the mutually contending doctrines of Aulūkya, Jina, Buddha, Jaimini, Patañjali, Gautama, Kaṇāda, Kapila, Śaṅkara, Dattātreya and others; by the Lord’s mercy even the inexperienced one sets them aside as straw and comes to know the pure feet of Kṛṣṇa.
 
-[^2]: «Anubhāṣya»: the swans, cakravākas and bees are pure devotees in different moods (*bhāva*), for whom these pastimes are a place of supreme joy; the murmur of the river is the sweet, indistinct sound of the stream of Śrī Hari’s pastimes, sung by His devotees.
+[^2]: *Anubhāṣya*: the swans, cakravākas and bees are pure devotees in different moods (*bhāva*), for whom these pastimes are a place of supreme joy; the murmur of the river is the sweet, indistinct sound of the stream of Śrī Hari’s pastimes, sung by His devotees.
 
 [^3]: Indicating the Object (*vastu-nirdeśa*) is one of the three kinds of auspicious invocation (Ādi 1.22). In the edition the verse is headed: “explanation of the third of the first fourteen verses — indicating the Object”.
 
-[^4]: The same verse as Ādi 1.3. «Anubhāṣya»: Brahman is the radiance of His transcendental body, and the Paramātmā a particular manifestation of His majesty; both are only two aspects of His form, perceived according to the capacity of the seer — not the fullness of the Lord, as Bhagavān is. «Amṛta-pravāha-bhāṣya»: “He whom they call Bhagavān, the shelter and source of Brahman and Paramātmā, is my Lord, Bhagavān Himself.”
+[^4]: The same verse as Ādi 1.3. *Anubhāṣya*: Brahman is the radiance of His transcendental body, and the Paramātmā a particular manifestation of His majesty; both are only two aspects of His form, perceived according to the capacity of the seer — not the fullness of the Lord, as Bhagavān is. *Amṛta-pravāha-bhāṣya*: “He whom they call Bhagavān, the shelter and source of Brahman and Paramātmā, is my Lord, Bhagavān Himself.”
 
-[^5]: «Amṛta-pravāha-bhāṣya»: by the rules of rhetoric one first names the *anuvāda*, the known, and then the *vidheya*, the new. That Brahman, Paramātmā and Bhagavān exist is known from the Vedas; that Brahman is the effulgence of Śrī Kṛṣṇa Caitanya’s body, Paramātmā His portion and Bhagavān He Himself, is not yet known — and this is what is stated.
+[^5]: *Amṛta-pravāha-bhāṣya*: by the rules of rhetoric one first names the *anuvāda*, the known, and then the *vidheya*, the new. That Brahman, Paramātmā and Bhagavān exist is known from the Vedas; that Brahman is the effulgence of Śrī Kṛṣṇa Caitanya’s body, Paramātmā His portion and Bhagavān He Himself, is not yet known — and this is what is stated.
 
-[^6]: «Amṛta-pravāha-bhāṣya»: “The conclusion of the scriptures is this: the supreme truth of *viṣṇu-tattva* is Bhagavān Himself, Kṛṣṇacandra.”
+[^6]: *Amṛta-pravāha-bhāṣya*: “The conclusion of the scriptures is this: the supreme truth of *viṣṇu-tattva* is Bhagavān Himself, Kṛṣṇacandra.”
 
-[^7]: «Amṛta-pravāha-bhāṣya»: the first realization of that non-dual knowledge is Brahman, the second Paramātmā, the third Bhagavān.
+[^7]: *Amṛta-pravāha-bhāṣya*: the first realization of that non-dual knowledge is Brahman, the second Paramātmā, the third Bhagavān.
 
-[^8]: «Amṛta-pravāha-bhāṣya»: “… the Brahman distinct from the unlimited opulences — earths and the rest — in millions upon millions of universes, undivided, infinite and complete, has arisen from the effulgence of that original Person, Govinda.”
+[^8]: *Amṛta-pravāha-bhāṣya*: “… the Brahman distinct from the unlimited opulences — earths and the rest — in millions upon millions of universes, undivided, infinite and complete, has arisen from the effulgence of that original Person, Govinda.”
 
-[^9]: «Anubhāṣya»: with this verse it is shown that attaining Kṛṣṇa’s feet is easy, whereas renunciants who labour hard attain, as the fruit of their practice, only the realm of Brahman; *vāta-vasanāḥ* — naked; *śramaṇāḥ* — mendicants who emaciate the body; *brahmākhyam* — featureless.
+[^9]: *Anubhāṣya*: with this verse it is shown that attaining Kṛṣṇa’s feet is easy, whereas renunciants who labour hard attain, as the fruit of their practice, only the realm of Brahman; *vāta-vasanāḥ* — naked; *śramaṇāḥ* — mendicants who emaciate the body; *brahmākhyam* — featureless.
 
-[^10]: «Anubhāṣya»: the Puruṣa who dwells within is the Paramātmā, “only a manifestation of a portion (*aṁśa-vibhūti*) of Govinda”; the three Puruṣa-avatāras govern the material world, while Bhagavān Himself, abiding in the fourth, *turīya*, is attached to none of its affairs.
+[^10]: *Anubhāṣya*: the Puruṣa who dwells within is the Paramātmā, “only a manifestation of a portion (*aṁśa-vibhūti*) of Govinda”; the three Puruṣa-avatāras govern the material world, while Bhagavān Himself, abiding in the fourth, *turīya*, is attached to none of its affairs.
 
-[^11]: «Anubhāṣya»: the one Śrī Govinda, ever manifest in Goloka-Vṛndāvana, appears in the hearts of countless souls as the Paramātmā, the Person whom the soul is to serve.
+[^11]: *Anubhāṣya*: the one Śrī Govinda, ever manifest in Goloka-Vṛndāvana, appears in the hearts of countless souls as the Paramātmā, the Person whom the soul is to serve.
 
-[^12]: «Amṛta-pravāha-bhāṣya»: “by one portion, as the Paramātmā, I have entered and abide in the whole world.”
+[^12]: *Amṛta-pravāha-bhāṣya*: “by one portion, as the Paramātmā, I have entered and abide in the whole world.”
 
-[^13]: «Anubhāṣya»: *bheda-mohaḥ* — the illusion that the Lord’s forms (*prakāśa*, *vilāsa*) differ in name, form, qualities and pastimes; *ātma-kalpitānām* — “created by Himself”. Reference to the «Bhāgavatam» as in the edition.
+[^13]: *Anubhāṣya*: *bheda-mohaḥ* — the illusion that the Lord’s forms (*prakāśa*, *vilāsa*) differ in name, form, qualities and pastimes; *ātma-kalpitānām* — “created by Himself”. Reference to the *Bhāgavatam* as in the edition.
 
-[^14]: «Amṛta-pravāha-bhāṣya»: by the word *sākṣāt* (“directly, Himself”) the author establishes that Śrī Kṛṣṇa Caitanya is Govinda Himself, not His *prakāśa* or *vilāsa*.
+[^14]: *Amṛta-pravāha-bhāṣya*: by the word *sākṣāt* (“directly, Himself”) the author establishes that Śrī Kṛṣṇa Caitanya is Govinda Himself, not His *prakāśa* or *vilāsa*.
 
-[^15]: «Amṛta-pravāha-bhāṣya»: the eternal form of the Lord cannot be seen by material senses or by the efforts of knowledge; through bhakti, through love, only the devotees become fit to see it — as the gods, whose divine eyes pierce the net of the sun’s rays, see the sun’s own form.
+[^15]: *Amṛta-pravāha-bhāṣya*: the eternal form of the Lord cannot be seen by material senses or by the efforts of knowledge; through bhakti, through love, only the devotees become fit to see it — as the gods, whose divine eyes pierce the net of the sun’s rays, see the sun’s own form.
 
 [^16]: As in the Gauḍīya Maṭha edition: «চারি হাত» (another spelling: «হাথ»).
 
-[^17]: «Anubhāṣya»: the verse gives three meanings of the name Nārāyaṇa, corresponding to the three Puruṣa-avatāras: “the Self of all the embodied” (*nāra* — the aggregate of souls, *ayana* — their shelter) is Kṣīrodakaśāyī; “the witness of all the worlds” (*ayase* — “You know”) is Garbhodakaśāyī; “He whose abode is the waters born of Nara” is Kāraṇodakaśāyī. All of Them are Your portions, and You are the original Nārāyaṇa. “Not māyā” — not transient like what māyā produces: māyā cannot touch Your spiritual body, even in the avatāras.
+[^17]: *Anubhāṣya*: the verse gives three meanings of the name Nārāyaṇa, corresponding to the three Puruṣa-avatāras: “the Self of all the embodied” (*nāra* — the aggregate of souls, *ayana* — their shelter) is Kṣīrodakaśāyī; “the witness of all the worlds” (*ayase* — “You know”) is Garbhodakaśāyī; “He whose abode is the waters born of Nara” is Kāraṇodakaśāyī. All of Them are Your portions, and You are the original Nārāyaṇa. “Not māyā” — not transient like what māyā produces: māyā cannot touch Your spiritual body, even in the avatāras.
 
-[^18]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). «Amṛta-pravāha-bhāṣya»: the material creation lies within māyā (Gītā, 7.4–5).
+[^18]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). *Amṛta-pravāha-bhāṣya*: the material creation lies within māyā (Gītā, 7.4–5).
 
-[^19]: «Amṛta-pravāha-bhāṣya»: “Because They create through māyā, these three Puruṣas are *māyī*, that is, lords in relation to māyā.” Māyā does not touch Them (2.54).
+[^19]: *Amṛta-pravāha-bhāṣya*: “Because They create through māyā, these three Puruṣas are *māyī*, that is, lords in relation to māyā.” Māyā does not touch Them (2.54).
 
-[^20]: «Amṛta-pravāha-bhāṣya»: *ye puruṣa-nāmī* — “They whose name is Puruṣa”. The Self of the universes in this verse is all three of Them: Kāraṇodakaśāyī of all the universes together, Garbhodakaśāyī of the aggregate of beings in a universe, Kṣīrodakaśāyī of each individual being (2.51).
+[^20]: *Amṛta-pravāha-bhāṣya*: *ye puruṣa-nāmī* — “They whose name is Puruṣa”. The Self of the universes in this verse is all three of Them: Kāraṇodakaśāyī of all the universes together, Garbhodakaśāyī of the aggregate of beings in a universe, Kṣīrodakaśāyī of each individual being (2.51).
 
-[^21]: «Amṛta-pravāha-bhāṣya»: Hiraṇyagarbha is the aggregate of beings (*samaṣṭi*); its Indweller is Garbhodakaśāyī; the Indweller of each separate being (*vyaṣṭi*) is Kṣīrodakaśāyī.
+[^21]: *Amṛta-pravāha-bhāṣya*: Hiraṇyagarbha is the aggregate of beings (*samaṣṭi*); its Indweller is Garbhodakaśāyī; the Indweller of each separate being (*vyaṣṭi*) is Kṣīrodakaśāyī.
 
-[^22]: «Amṛta-pravāha-bhāṣya»: beyond the three Puruṣas is the *turīya*, “the fourth”: Nārāyaṇa, Lord of the spiritual sky, the *vilāsa* of Kṛṣṇacandra, utterly free from any trace of māyā; and the Puruṣas, as it says on 2.54, “only cast Their glance upon māyā, but do not touch it”.
+[^22]: *Amṛta-pravāha-bhāṣya*: beyond the three Puruṣas is the *turīya*, “the fourth”: Nārāyaṇa, Lord of the spiritual sky, the *vilāsa* of Kṛṣṇacandra, utterly free from any trace of māyā; and the Puruṣas, as it says on 2.54, “only cast Their glance upon māyā, but do not touch it”.
 
-[^23]: «Anubhāṣya»: Virāṭ is the gross, Hiraṇyagarbha the subtle, Kāraṇa — ignorance or *prakṛti*; these are particular manifestations (*upādhi*) of the Puruṣa-avatāra, the creator of the *mahat*; the *turīya*, free from them, is Vaikuṇṭha, beyond the three Puruṣas. Śrīdhara Svāmī cites this verse to explain the word *turīya*.
+[^23]: *Anubhāṣya*: Virāṭ is the gross, Hiraṇyagarbha the subtle, Kāraṇa — ignorance or *prakṛti*; these are particular manifestations (*upādhi*) of the Puruṣa-avatāra, the creator of the *mahat*; the *turīya*, free from them, is Vaikuṇṭha, beyond the three Puruṣas. Śrīdhara Svāmī cites this verse to explain the word *turīya*.
 
-[^24]: «Amṛta-pravāha-bhāṣya»: Hiraṇyagarbha and the other beings, collective and individual, are under māyā; the three Puruṣas, though dealing with her, are beyond her — They are lords of māyā; They glance at her, but do not touch her.
+[^24]: *Amṛta-pravāha-bhāṣya*: Hiraṇyagarbha and the other beings, collective and individual, are under māyā; the three Puruṣas, though dealing with her, are beyond her — They are lords of māyā; They glance at her, but do not touch her.
 
-[^25]: As in the Gauḍīya Maṭha edition: «তেঁহ তোমার প্রকাশ» — “He is Your manifestation”. «Amṛta-pravāha-bhāṣya»: the Nārāyaṇa of the spiritual sky is the source of the Puruṣa-avatāras; He is “Your secondary manifestation (*gauṇa-prakāśa*) in the form of *vilāsa*”. «Anubhāṣya»: His *vilāsa* is the fourfold form — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — from whom the three Puruṣas appear.
+[^25]: As in the Gauḍīya Maṭha edition: «তেঁহ তোমার প্রকাশ» — “He is Your manifestation”. *Amṛta-pravāha-bhāṣya*: the Nārāyaṇa of the spiritual sky is the source of the Puruṣa-avatāras; He is “Your secondary manifestation (*gauṇa-prakāśa*) in the form of *vilāsa*”. *Anubhāṣya*: His *vilāsa* is the fourfold form — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — from whom the three Puruṣas appear.
 
-[^26]: As in the Gauḍīya Maṭha edition: «তেঁহ কৃষ্ণের প্রকাশ» (another reading: «তেঁহো কৃষ্ণের বিলাস»). In meaning this manifestation is a *vilāsa*: on 2.57 the «Amṛta-pravāha-bhāṣya» calls Nārāyaṇa “a secondary manifestation in the form of *vilāsa*”.
+[^26]: As in the Gauḍīya Maṭha edition: «তেঁহ কৃষ্ণের প্রকাশ» (another reading: «তেঁহো কৃষ্ণের বিলাস»). In meaning this manifestation is a *vilāsa*: on 2.57 the *Amṛta-pravāha-bhāṣya* calls Nārāyaṇa “a secondary manifestation in the form of *vilāsa*”.
 
-[^27]: «Anubhāṣya»: “this verse” is the one quoted above (2.30), “Are You not Nārāyaṇa…”. «Amṛta-pravāha-bhāṣya»: *paribhāṣā* — a governing rule: “this characteristic you will find everywhere in the «Bhāgavatam»”.
+[^27]: *Anubhāṣya*: “this verse” is the one quoted above (2.30), “Are You not Nārāyaṇa…”. *Amṛta-pravāha-bhāṣya*: *paribhāṣā* — a governing rule: “this characteristic you will find everywhere in the *Bhāgavatam*”.
 
-[^28]: «Amṛta-pravāha-bhāṣya»: *vihāra* — a manifestation (*prakāśa*) for His pastimes.
+[^28]: *Amṛta-pravāha-bhāṣya*: *vihāra* — a manifestation (*prakāśa*) for His pastimes.
 
-[^29]: The same verse as 2.11 (so the «Anubhāṣya» also notes).
+[^29]: The same verse as 2.11 (so the *Anubhāṣya* also notes).
 
-[^30]: «Amṛta-pravāha-bhāṣya»: “non-dual knowledge” in this verse is the original Reality, Kṛṣṇa’s own form.
+[^30]: *Amṛta-pravāha-bhāṣya*: “non-dual knowledge” in this verse is the original Reality, Kṛṣṇa’s own form.
 
-[^31]: «Anubhāṣya»: *ete* — “the avatāras named before”; *aṁśāḥ* — portions of the Puruṣa-avatāra, *kalāḥ* — portions of portions; *mṛḍayanti*, “make happy”, refers to these avatāras. «Amṛta-pravāha-bhāṣya»: “Rāma, Nṛsiṁha and others are portions or parts of the Puruṣa; They protect the world oppressed by demons.”
+[^31]: *Anubhāṣya*: *ete* — “the avatāras named before”; *aṁśāḥ* — portions of the Puruṣa-avatāra, *kalāḥ* — portions of portions; *mṛḍayanti*, “make happy”, refers to these avatāras. *Amṛta-pravāha-bhāṣya*: “Rāma, Nṛsiṁha and others are portions or parts of the Puruṣa; They protect the world oppressed by demons.”
 
-[^32]: The reference is as in the edition: “a rule of rhetoric, «Ekādaśī-tattva», 13”.
+[^32]: The reference is as in the edition: “a rule of rhetoric, *Ekādaśī-tattva*, 13”.
 
 [^33]: This refers to verse 2.67 (*ete cāṁśa-kalāḥ puṁsaḥ*).
 
-[^34]: «Amṛta-pravāha-bhāṣya»: *bhrama* — false knowledge; *pramāda* — inattention; *vipralipsā* — the mind straying elsewhere; *karaṇāpāṭava* — the imperfection of the senses.
+[^34]: *Amṛta-pravāha-bhāṣya*: *bhrama* — false knowledge; *pramāda* — inattention; *vipralipsā* — the mind straying elsewhere; *karaṇāpāṭava* — the imperfection of the senses.
 
-[^35]: «Anubhāṣya»: the fault *avimṛṣṭa-vidheyāṁśa* (“an unconsidered predicate”) arises when the unknown is not set forth as the principal statement; it is also called *vidheyāvimarśa*. «Amṛta-pravāha-bhāṣya»: it occurs when the predicate is stated before the subject.
+[^35]: *Anubhāṣya*: the fault *avimṛṣṭa-vidheyāṁśa* (“an unconsidered predicate”) arises when the unknown is not set forth as the principal statement; it is also called *vidheyāvimarśa*. *Amṛta-pravāha-bhāṣya*: it occurs when the predicate is stated before the subject.
 
-[^36]: «Anubhāṣya» cites the «Brahma-saṁhitā», 5.46: a flame passed on to another lamp shines just as the first; so Govinda appears as Viṣṇu. All the forms of Viṣṇu are like lamps, equal in light to the original Nārāyaṇa, yet they shine from the original lamp.
+[^36]: *Anubhāṣya* cites the *Brahma-saṁhitā*, 5.46: a flame passed on to another lamp shines just as the first; so Govinda appears as Viṣṇu. All the forms of Viṣṇu are like lamps, equal in light to the original Nārāyaṇa, yet they shine from the original lamp.
 
-[^37]: According to the «Anubhāṣya»: *ūti* — karmic desires; *manvantara* — the righteous path given by Manu; *īśānukathā* — the accounts of Hari’s avatāras; *nirodha* — the Lord with His potencies lying down in sleep; *mukti* — abiding in one’s pure nature; *āśraya* — the Supreme Brahman, the cause of creation, maintenance and dissolution. «Amṛta-pravāha-bhāṣya»: the nine are described “sometimes through prayers and narratives, sometimes by direct analysis”. In the edition these are two verses (2.91 and 2.92).
+[^37]: According to the *Anubhāṣya*: *ūti* — karmic desires; *manvantara* — the righteous path given by Manu; *īśānukathā* — the accounts of Hari’s avatāras; *nirodha* — the Lord with His potencies lying down in sleep; *mukti* — abiding in one’s pure nature; *āśraya* — the Supreme Brahman, the cause of creation, maintenance and dissolution. *Amṛta-pravāha-bhāṣya*: the nine are described “sometimes through prayers and narratives, sometimes by direct analysis”. In the edition these are two verses (2.91 and 2.92).
 
-[^38]: «Amṛta-pravāha-bhāṣya»: *prābhava* and *vaibhava* are those forms whose eternal form of being, knowledge and bliss is like Hari’s, yet somewhat less than the Supreme; according to the degree of potency, where lordship (*prabhutā*) predominates they are called *prābhava*, and where all-pervading greatness (*vibhutā*) predominates, *vaibhava*.
+[^38]: *Amṛta-pravāha-bhāṣya*: *prābhava* and *vaibhava* are those forms whose eternal form of being, knowledge and bliss is like Hari’s, yet somewhat less than the Supreme; according to the degree of potency, where lordship (*prabhutā*) predominates they are called *prābhava*, and where all-pervading greatness (*vibhutā*) predominates, *vaibhava*.
 
-[^39]: «Amṛta-pravāha-bhāṣya»: the *aṁśa* and *śaktyāveśa* avatāras are described elsewhere; they too are counted among the *prābhava* and *vaibhava*. Kṛṣṇa, who is eternally youthful, has pastimes in both childhood and boyhood (AP on 2.99).
+[^39]: *Amṛta-pravāha-bhāṣya*: the *aṁśa* and *śaktyāveśa* avatāras are described elsewhere; they too are counted among the *prābhava* and *vaibhava*. Kṛṣṇa, who is eternally youthful, has pastimes in both childhood and boyhood (AP on 2.99).
 
-[^40]: «Amṛta-pravāha-bhāṣya»: *cit-śakti* is another name of the *svarūpa-śakti*, the internal potency; from her come the unlimited manifestations of opulence in Vaikuṇṭha and the other abodes; from the marginal *jīva-śakti* — unlimited souls, bound and liberated; from the external māyā — the unlimited opulence of the material universes.
+[^40]: *Amṛta-pravāha-bhāṣya*: *cit-śakti* is another name of the *svarūpa-śakti*, the internal potency; from her come the unlimited manifestations of opulence in Vaikuṇṭha and the other abodes; from the marginal *jīva-śakti* — unlimited souls, bound and liberated; from the external māyā — the unlimited opulence of the material universes.
 
-[^41]: «Amṛta-pravāha-bhāṣya»: *cālāite* — “to cause needless agitation”.
+[^41]: *Amṛta-pravāha-bhāṣya*: *cālāite* — “to cause needless agitation”.
 
-[^42]: «Amṛta-pravāha-bhāṣya»: in some books Śrī Caitanya is called Kṣīrodaśāyī, the Lord of Vaikuṇṭha; that does not describe His glory fully, yet the words of those devotees are not false (2.111): Kṛṣṇa Caitanya, non-different from Kṛṣṇa, is Himself the source of the avatāras, and all the avatāras are present in Him. The «Anubhāṣya» cites the «Caitanya-bhāgavata» (Madhya 6.95): “I was lying in the Milk Ocean; My sleep was broken by Nāḍā’s (Advaita’s) roar.”
+[^42]: *Amṛta-pravāha-bhāṣya*: in some books Śrī Caitanya is called Kṣīrodaśāyī, the Lord of Vaikuṇṭha; that does not describe His glory fully, yet the words of those devotees are not false (2.111): Kṛṣṇa Caitanya, non-different from Kṛṣṇa, is Himself the source of the avatāras, and all the avatāras are present in Him. The *Anubhāṣya* cites the *Caitanya-bhāgavata* (Madhya 6.95): “I was lying in the Milk Ocean; My sleep was broken by Nāḍā’s (Advaita’s) roar.”
 
-[^43]: The «Anubhāṣya» cites the «Pañcarātra»: “Firm affection, greater than all else and joined with knowledge of the Lord’s greatness, is called bhakti”; and: “On the path of rules it is joined with knowledge of His greatness; for those who follow the path of spontaneous love it is mostly pure (affection) alone.”
+[^43]: The *Anubhāṣya* cites the *Pañcarātra*: “Firm affection, greater than all else and joined with knowledge of the Lord’s greatness, is called bhakti”; and: “On the path of rules it is joined with knowledge of His greatness; for those who follow the path of spontaneous love it is mostly pure (affection) alone.”

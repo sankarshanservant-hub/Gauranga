@@ -28,7 +28,7 @@ tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra
 ## 4
 w: of the third  verse  the meaning  I make  explanation
 w: the Object  indicating  in the form of  auspicious invocation
-tr: Now I shall explain in detail the meaning of the third verse — the auspicious invocation that indicates the Object, the Supreme Truth (*vastu-nirdeśa*).
+tr: Now I shall explain in detail the meaning of the third verse. It is an auspicious invocation that points to the Supreme Truth (*vastu-nirdeśa*).
 fn: Indicating the Object (*vastu-nirdeśa*) is one of the three kinds of auspicious invocation (Ādi 1.22). In the edition the verse is headed: “explanation of the third of the first fourteen verses — indicating the Object”.
 
 ## 5
@@ -42,7 +42,7 @@ fn: The same verse as Ādi 1.3. *Anubhāṣya*: Brahman is the radiance of His t
 ## 6
 w: Brahman,  Paramātmā,  Bhagavān —  subjects  three
 w: of the body  effulgence,  portion,  own form —  three  predicates  marks
-tr: Brahman, Paramātmā and Bhagavān are the three *anuvādas* — that which is spoken of; the effulgence of the body, the partial manifestation and His own form are the three *vidheyas* — that which is stated about them.
+tr: Brahman, Paramātmā and Bhagavān are the three *anuvādas* (that which is spoken of); the effulgence of the body, the partial manifestation and His own form are the three *vidheyas* (that which is stated about them).
 fn: *Amṛta-pravāha-bhāṣya*: by the rules of rhetoric one first names the *anuvāda*, the known, and then the *vidheya*, the new. That Brahman, Paramātmā and Bhagavān exist is known from the Vedas; that Brahman is the effulgence of Śrī Kṛṣṇa Caitanya’s body, Paramātmā His portion and Bhagavān He Himself, is not yet known — and this is what is stated.
 
 ## 7
@@ -77,7 +77,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the first realization of that non-dual knowled
 ## 12
 w: His  of the body  pure  of rays  the orb
 w: the Upaniṣads  call  that  Brahman  most pure
-tr: That which the Upaniṣads call the most pure Brahman is the pure radiance of the rays of His body.
+tr: That which the Upaniṣads call the spotless Brahman is the pure radiance of the rays of His body.
 
 ## 13
 w: with fleshly  eyes  one sees  as  the sun  without features
@@ -89,7 +89,7 @@ w: whose  effulgence  of the all-mighty  of universes  of millions
 w: in millions  unlimited  earths and the like  opulences  distinct from
 w: that  Brahman  undivided  infinite  all-complete
 w: Govinda  the original  Person  Him  I  worship
-tr: “I worship Govinda, the original Person. The effulgence of Him, the all-mighty, is Brahman — undivided, infinite and complete, distinct from the opulences of countless universes, their earths and all else.” (Brahma-saṁhitā, 5.40)
+tr: “I worship Govinda, the original Person. Brahman — undivided, infinite and complete, distinct from all the opulences of countless universes, their earths and all else — is the effulgence of Him, the Almighty.” (Brahma-saṁhitā, 5.40)
 fn: *Amṛta-pravāha-bhāṣya*: “… the Brahman distinct from the unlimited opulences — earths and the rest — in millions upon millions of universes, undivided, infinite and complete, has arisen from the effulgence of that original Person, Govinda.”
 
 ## 15
@@ -301,7 +301,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Hiraṇyagarbha is the aggregate of beings (*s
 ## 52
 w: of Them  all  in the glance  indeed  there is  of māyā  a trace
 w: of the fourth  Kṛṣṇa  there is not  with māyā  connection
-tr: In Their glancing upon māyā there is, as it were, a trace of māyā; but Kṛṣṇa, who abides in the fourth (*turīya*), has no connection with māyā at all.
+tr: They glance upon māyā, and in this there is, as it were, a trace of māyā; but Kṛṣṇa, who abides in the fourth state (*turīya*), has no connection with māyā at all.
 fn: *Amṛta-pravāha-bhāṣya*: beyond the three Puruṣas is the *turīya*, “the fourth”: Nārāyaṇa, Lord of the spiritual sky, the *vilāsa* of Kṛṣṇacandra, utterly free from any trace of māyā; and the Puruṣas, as it says on 2.54, “only cast Their glance upon māyā, but do not touch it”.
 
 ## 53
@@ -362,7 +362,7 @@ tr: They say: “Nārāyaṇa is the source of the avatāras, and Kṛṣṇa is
 ## 62
 w: in this way  various  kinds  make  objections
 w: them  to defeat  of the Bhāgavata  a verse  is expert
-tr: In this way they raise various objections, but a verse of the *Bhāgavatam* is expert in defeating them.
+tr: In this way they raise various objections, but a verse of the *Bhāgavatam* skilfully refutes them.
 
 ## 63
 w: they call  that  of truth  the knowers
@@ -577,7 +577,7 @@ tr: Within these six forms there are unlimited varieties; yet in all those unlim
 ## 101
 w: the spiritual potency,  the personal potency,  internal  by name
 w: its  opulence  unlimited  Vaikuṇṭhas and other  abodes
-tr: The spiritual potency (*cit-śakti*), called also the personal potency (*svarūpa-śakti*) and the internal potency (*antaraṅgā*): her opulence is the unlimited abodes — the Vaikuṇṭhas and others.
+tr: The spiritual potency (*cit-śakti*) is also called the personal potency (*svarūpa-śakti*) and the internal potency (*antaraṅgā*); her opulence is the unlimited abodes, such as the Vaikuṇṭhas.
 fn: *Amṛta-pravāha-bhāṣya*: *cit-śakti* is another name of the *svarūpa-śakti*, the internal potency; from her come the unlimited manifestations of opulence in Vaikuṇṭha and the other abodes; from the marginal *jīva-śakti* — unlimited souls, bound and liberated; from the external māyā — the unlimited opulence of the material universes.
 
 ## 102
