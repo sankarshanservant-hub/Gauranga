@@ -1292,6 +1292,321 @@ of the Lord  service  except  not  knows  other
 
 (120) That Ananta Śeṣa is an avatāra in the form of a devotee; He knows nothing but service to the Lord.
 
+সহস্র-বদনে করে কৃষ্ণগুণ গান ৷  
+নিরবধি গুণ গান, অন্ত নাহি পা’ন ॥ ১২১ ॥
+
+sahasra-vadane kare kṛṣṇa-guṇa gāna  
+with a thousand  mouths  makes  of Kṛṣṇa’s qualities  singing  
+niravadhi guṇa gāna, anta nāhi pā’na  
+without end  qualities  He sings  end  not  finds
+
+(121) With His thousand mouths He sings of Kṛṣṇa’s qualities; He sings without cease and never reaches their end.
+
+সনকাদি ভাগবত শুনে যার মুখে ৷  
+ভগবানের গুণ কহে, ভাসে প্রেমসুখে ॥ ১২২ ॥
+
+sanakādi bhāgavata śune yāra mukhe  
+Sanaka and the others  the Bhāgavata  hear  from whose  mouth  
+bhagavānera guṇa kahe, bhāse prema-sukhe  
+of Bhagavān  the qualities  He tells  He floats  in the joy of love
+
+(122) From His mouth Sanaka and the other Kumāras hear the *Bhāgavatam*. He tells of the qualities of Bhagavān and floats in the joy of love.
+
+ছত্র, পাদুকা, শয়্যা, উপাধান, বসন ৷  
+আরাম, আবাস, যজ্ঞসূত্র, সিংহাসন ॥ ১২৩ ॥
+
+chatra, pādukā, śayyā, upādhāna, vasana  
+umbrella  sandals  bed  pillow  garments  
+ārāma, āvāsa, yajña-sūtra, siṁhāsana  
+resting place  dwelling  sacred thread  throne
+
+(123) He becomes umbrella, sandals, bed, pillow, garments, resting place, dwelling, sacred thread and throne.
+
+এত মূর্ত্তি-ভেদ করি’ কৃষ্ণসেবা করে ৷  
+কৃষ্ণের শেষতা পাঞা ‘শেষ’ নাম ধরে ॥ ১২৪ ॥
+
+eta mūrti-bheda kari’ kṛṣṇa-sevā kare  
+so many  forms  different  assuming  Kṛṣṇa’s service  He does  
+kṛṣṇera śeṣatā pāñā ‘śeṣa’ nāma dhare  
+of Kṛṣṇa’s  service  the utmost limit  reaching  Śeṣa  the name  He bears
+
+(124) Assuming all these different forms He serves Kṛṣṇa; and because He has reached the utmost limit of service to Kṛṣṇa, He bears the name Śeṣa.[^30]
+
+সেই ত’ অনন্ত, যাঁর কহি এক কলা ৷  
+হেন প্রভু নিত্যানন্দ, কে জানে তাঁর খেলা ॥ ১২৫ ॥
+
+sei ta’ ananta, yām̐ra kahi eka kalā  
+that  very  Ananta  of whom  I call  one  kalā  
+hena prabhu nityānanda, ke jāne tām̐ra khelā  
+such  Lord  Nityānanda  who  knows  His  play
+
+(125) That Ananta I call but one kalā of Him. Such is Lord Nityānanda — who can know His play?
+
+এসব প্রমাণে জানি নিত্যানন্দতত্ত্বসীমা ৷  
+তাঁহাকে ‘অনন্ত’ কহি, কি তাঁর মহিমা ॥ ১২৬ ॥
+
+esaba pramāṇe jāni nityānanda-tattva-sīmā  
+by all these  proofs  I know  of Nityānanda’s truth  the full extent  
+tām̐hāke ‘ananta’ kahi, ki tām̐ra mahimā  
+Him  Ananta  I call  what  His  glory
+
+(126) By all these proofs I know the full truth of Nityānanda. If I call Him Ananta, what glory is that to Him?
+
+অথবা ভক্তের বাক্য মানি সত্য করি’ ৷  
+সকল সম্ভবে তাঁতে, যাতে অবতারী ॥ ১২৭ ॥
+
+athavā bhaktera vākya māni satya kari’  
+or else  of the devotees  the words  accept  true  considering  
+sakala sambhave tām̐te, yāte avatārī  
+all  is possible  in Him  since  the source of avatāras
+
+(127) Or else, accepting the words of the devotees as true, I say: everything is possible in Him, for He is the source of the avatāras.
+
+অবতার-অবতারী — অভেদ, যে জানে ৷  
+পূর্ব্বে যৈছে কৃষ্ণকে কেহো কাহো করি’ মানে ॥ ১২৮ ॥
+
+avatāra-avatārī — abheda, ye jāne  
+avatāra  the source of avatāras  non-different  who  knows  
+pūrve yaiche kṛṣṇake keho kāho kari’ māne  
+before  as  Kṛṣṇa  someone  as someone  considering  accepted
+
+(128) One who knows that the avatāras and their source are non-different speaks in this way — just as in the past people saw in Kṛṣṇa this or that avatāra:[^31]
+
+কেহো কহে, কৃষ্ণ সাক্ষাৎ নরনারায়ণ ৷  
+কেহো কহে, কৃষ্ণ হয় সাক্ষাৎ বামন ॥ ১২৯ ॥
+
+keho kahe, kṛṣṇa sākṣāt nara-nārāyaṇa  
+someone  says  Kṛṣṇa  directly  Nara-Nārāyaṇa  
+keho kahe, kṛṣṇa haya sākṣāt vāmana  
+someone  says  Kṛṣṇa  is  directly  Vāmana
+
+(129) some said that Kṛṣṇa is Nara-Nārāyaṇa Himself, others that Kṛṣṇa is Vāmana Himself,
+
+কেহো কহে, কৃষ্ণ ক্ষীরোদশায়ী-অবতার ৷  
+অসম্ভব নহে, সত্য বচন সবার ॥ ১৩০ ॥
+
+keho kahe, kṛṣṇa kṣīroda-śāyī-avatāra  
+someone  says  Kṛṣṇa  of Kṣīrodaśāyī  an avatāra  
+asambhava nahe, satya vacana sabāra  
+impossible  it is not  true  the words  of all
+
+(130) and others that Kṛṣṇa is an avatāra of Kṣīrodaśāyī. Nothing of this is impossible: the words of all are true.
+
+কৃষ্ণ যবে অবতরে সর্ব্বাংশ-আশ্রয় ৷  
+সর্ব্বাংশ আসি’ তবে কৃষ্ণেতে মিলয় ॥ ১৩১ ॥
+
+kṛṣṇa yabe avatare sarvāṁśa-āśraya  
+Kṛṣṇa  when  descends  of all portions  the shelter  
+sarvāṁśa āsi’ tabe kṛṣṇete milaya  
+all portions  coming  then  in Kṛṣṇa  unite
+
+(131) When Kṛṣṇa, the shelter of all portions, descends, all His portions come and unite in Him.
+
+যেই যেই রূপে জানে, সেই তাহা কহে ৷  
+সকল সম্ভবে কৃষ্ণে, কিছু মিথ্যা নহে ॥ ১৩২ ॥
+
+yei yei rūpe jāne, sei tāhā kahe  
+in whatever  whatever  form  knows  he  that  says  
+sakala sambhave kṛṣṇe, kichu mithyā nahe  
+all  is possible  in Kṛṣṇa  nothing  false  is
+
+(132) So each speaks of Him in the form in which he knows Him. Everything is possible in Kṛṣṇa; nothing of this is false.
+
+অতএব শ্রীকৃষ্ণচৈতন্য গোসাঞি ৷  
+সর্ব্ব-অবতার-লীলা করি’ সবারে দেখাই ॥ ১৩৩ ॥
+
+ataeva śrī-kṛṣṇa-caitanya gosāñi  
+therefore  Śrī Kṛṣṇa Caitanya  Gosāñi  
+sarva-avatāra-līlā kari’ sabāre dekhāi  
+of all  avatāras  the pastimes  performing  to all  showed
+
+(133) Therefore Śrī Kṛṣṇa Caitanya Gosāñi performed the pastimes of all the avatāras and showed them to everyone.
+
+এইরূপে নিত্যানন্দ ‘অনন্ত’ প্রকাশ ৷  
+সেইভাবে — কহে মুঞি চৈতন্যের দাস ॥ ১৩৪ ॥
+
+ei-rūpe nityānanda ‘ananta’ prakāśa  
+in this way  Nityānanda’s  Ananta  manifestation  
+sei-bhāve — kahe muñi caitanyera dāsa  
+in that mood  says  I  of Caitanya  servant
+
+(134) In this way Nityānanda is manifest as Ananta, and in that same mood He says, “I am Caitanya’s servant.”
+
+কভু গুরু, কভু সখা, কভু ভৃত্য-লীলা ৷  
+পূর্ব্বে যেন তিনভাবে ব্রজে কৈল খেলা ॥ ১৩৫ ॥
+
+kabhu guru, kabhu sakhā, kabhu bhṛtya-līlā  
+sometimes  guru  sometimes  friend  sometimes  servant’s pastime  
+pūrve yena tina-bhāve vraje kaila khelā  
+before  as  in three moods  in Vraja  made  play
+
+(135) Sometimes He plays the guru, sometimes the friend, sometimes the servant — just as He once played in Vraja in these three moods.
+
+বৃষ হঞা কৃষ্ণসনে মাথামাথি রণ ৷  
+কভু কৃষ্ণ করে তাঁর পাদ সম্বাহন ॥ ১৩৬ ॥
+
+vṛṣa hañā kṛṣṇa-sane māthā-māthi raṇa  
+a bull  becoming  with Kṛṣṇa  head to head  fight  
+kabhu kṛṣṇa kare tām̐ra pāda samvāhana  
+sometimes  Kṛṣṇa  makes  His  feet  massaging
+
+(136) Becoming a bull, He would fight with Kṛṣṇa head to head; and sometimes Kṛṣṇa would massage His feet.
+
+আপনাকে ভৃত্য করি’ কৃষ্ণে প্রভু জানে ৷  
+কৃষ্ণের কলার কলা আপনাকে মানে ॥ ১৩৭ ॥
+
+āpanāke bhṛtya kari’ kṛṣṇe prabhu jāne  
+Himself  a servant  considering  Kṛṣṇa  as Master  knows  
+kṛṣṇera kalāra kalā āpanāke māne  
+of Kṛṣṇa’s  kalā  a kalā  Himself  He considers
+
+(137) He thinks of Himself as a servant and knows Kṛṣṇa as His Master; He considers Himself but a kalā of Kṛṣṇa’s kalā.
+
+বৃষায়মাণৌ নর্দ্দন্তৌ যুয়ুধাতে পরস্পরম্ ৷  
+অনুকৃত্য রুতৈর্জন্তূংশ্চেরতুঃ প্রাকৃতৌ যথা ॥ ১৩৮ ॥
+
+vṛṣāyamāṇau nardantau  
+behaving as bulls  bellowing  
+yuyudhāte parasparam  
+they fought  with each other  
+anukṛtya rutair jantūṁś  
+imitating  with cries  animals  
+ceratuḥ prākṛtau yathā  
+they roamed  ordinary (children)  like
+
+(138) “Pretending to be bulls, the two would bellow and fight with each other; imitating the cries of animals, They roamed about like ordinary children.” (Śrīmad-Bhāgavatam, 10.11.40)
+
+ক্বচিৎ ক্রীড়া-পরিশ্রান্তং গোপোৎসঙ্গোপবর্হণম্ ৷  
+স্বয়ং বিশ্রাময়ত্যার্য্যং পাদসম্বাহনাদিভিঃ ॥ ১৩৯ ॥
+
+kvacit krīḍā-pariśrāntaṁ  
+sometimes  by play  wearied  
+gopotsaṅgopabarhaṇam  
+of a cowherd boy  the lap  as His pillow  
+svayaṁ viśrāmayaty āryaṁ  
+Himself  gives rest  to the elder  
+pāda-saṁvāhanādibhiḥ  
+of the feet  by massaging  and so on
+
+(139) “Sometimes, when His elder brother lay tired from play with His head on a cowherd boy’s lap, Kṛṣṇa Himself would give Him rest by massaging His feet and serving Him in other ways.” (Śrīmad-Bhāgavatam, 10.15.14)
+
+কেয়ং বা কুত আয়াতা দৈবী বা নার্য্যুতাসুরী ৷  
+প্রায়ো মায়াস্তু মে ভর্ত্তুর্নান্যা মেঽপি বিমোহিনী ॥ ১৪০ ॥
+
+keyaṁ vā kuta āyātā  
+who is she  or  from where  has come  
+daivī vā nāry utāsurī  
+divine  or  human  or  demonic  
+prāyo māyāstu me bhartur  
+most likely  māyā  it must be  of My  Master  
+nānyā me ’pi vimohinī  
+no other  Me  even  bewilders
+
+(140) (Baladeva said in wonder:) “Who is she, and where has she come from? Is she divine, human or demonic? Most likely she is the māyā of My Master, for no other can bewilder even Me.” (Śrīmad-Bhāgavatam, 10.13.37)[^32]
+
+যস্যাঙ্ঘ্রিপঙ্কজরজোঽখিললোক-পালৈ-  
+র্মৌল্যুত্তমৈর্ধৃতমুপাসিত-তীর্থতীর্থম্ ৷  
+ব্রহ্মা ভবোঽহমপি যস্য কলাঃ কলায়াঃ  
+শ্রীশ্চোদ্বহেম চিরমস্য নৃপাসনং ক্ব ॥ ১৪১ ॥
+
+yasyāṅghri-paṅkaja-rajo ’khila-loka-pālair  
+whose  feet  lotus  the dust  of all  the worlds  by the guardians  
+mauly-uttamair dhṛtam upāsita-tīrtha-tīrtham  
+on heads  best  borne  the worshipped  of holy places  the holy place  
+brahmā bhavo ’ham api yasya kalāḥ kalāyāḥ  
+Brahmā  Śiva  I  also  whose  parts  of a part  
+śrīś codvahema ciram asya nṛpāsanaṁ kva  
+Śrī  and  we bear  ever  His  royal throne  what
+
+(141) (Baladeva said:) “The guardians of all the worlds bear on their crowned heads the dust of His lotus feet, the holiest of holy places; and Brahmā, Śiva, Lakṣmī and I Myself, mere parts of His part, carry it on our heads forever. What then is a king’s throne to Him?” (Śrīmad-Bhāgavatam, 10.68.37)[^33]
+
+একলা ঈশ্বর কৃষ্ণ, আর সব ভৃত্য ৷  
+যারে যৈছে নাচায়, সে তৈছে করে নৃত্য ॥ ১৪২ ॥
+
+ekalā īśvara kṛṣṇa, āra saba bhṛtya  
+alone  the Lord  Kṛṣṇa  the rest  all  servants  
+yāre yaiche nācāya, se taiche kare nṛtya  
+whom  as  He makes dance  he  so  makes  dance
+
+(142) Kṛṣṇa alone is the Lord; all others are His servants. As He makes each one dance, so each one dances.
+
+এই মত চৈতন্যগোসাঞি একলা ঈশ্বর ৷  
+আর সব পারিষদ, কেহ বা কিঙ্কর ॥ ১৪৩ ॥
+
+ei mata caitanyagosāñi ekalā īśvara  
+in this way  Caitanya Gosāñi  alone  the Lord  
+āra saba pāriṣada, keha vā kiṅkara  
+the rest  all  associates  some  or  servants
+
+(143) In the same way Caitanya Gosāñi alone is the Lord; all the rest are His associates or His servants.
+
+গুরুবর্গ, — নিত্যানন্দ, অদ্বৈত আচার্য্য ৷  
+শ্রীবাসাদি, আর যত — লঘু, সম, আর্য্য ॥ ১৪৪ ॥
+
+সবে পারিষদ, সবে লীলার সহায় ৷  
+সবা লঞা নিজ-কার্য্য সাধে গৌর-রায় ॥ ১৪৫ ॥
+
+guru-varga, — nityānanda, advaita ācārya  
+the elders  Nityānanda  Advaita  Ācārya  
+śrīvāsādi, āra yata — laghu, sama, ārya  
+Śrīvāsa and others  and  all  junior  equal  senior  
+sabe pāriṣada, sabe līlāra sahāya  
+all  associates  all  of the pastimes  helpers  
+sabā lañā nija-kārya sādhe gaura-rāya  
+all  taking  His own  work  accomplishes  Gaura-rāya
+
+(144–145) Nityānanda, Advaita Ācārya, Śrīvāsa and others play the part of His elders and gurus, and all the rest are His juniors, equals and seniors. All are His associates and helpers in His pastimes, and with them all Gaura-rāya accomplishes His purpose.
+
+অদ্বৈত আচার্য্য, নিত্যানন্দ, — দুই অঙ্গ ৷  
+দুইজন লঞা প্রভুর যত কিছু রঙ্গ ॥ ১৪৬ ॥
+
+advaita ācārya, nityānanda, — dui aṅga  
+Advaita  Ācārya  Nityānanda  two  limbs  
+dui-jana lañā prabhura yata kichu raṅga  
+the two  taking  of the Lord  all  whatever  pastimes
+
+(146) Advaita Ācārya and Nityānanda are His two limbs (*aṅga*); with these two the Lord performs all His pastimes.[^34]
+
+অদ্বৈত-আচার্য্য-গোসাঞি সাক্ষাৎ ঈশ্বর ৷  
+প্রভু, গুরু করি’ মানে, তিঁহো ত’ কিঙ্কর ॥ ১৪৭ ॥
+
+advaita-ācārya-gosāñi sākṣāt īśvara  
+Advaita  Ācārya  Gosāñi  directly  the Lord  
+prabhu, guru kari’ māne, tim̐ho ta’ kiṅkara  
+the Lord  as guru  considering  honours  He  indeed  a servant
+
+(147) Advaita Ācārya Gosāñi is the Lord Himself. The Lord honours Him as a guru, yet He is His servant.[^35]
+
+আচার্য্য-গোসাঞির তত্ত্ব না যায় কথন ৷  
+কৃষ্ণ অবতারিয়া যেঁহো তারিল ভুবন ॥ ১৪৮ ॥
+
+ācārya-gosāñira tattva nā yāya kathana  
+of the Ācārya Gosāñi  the truth  not  can be  told  
+kṛṣṇa avatāriyā yem̐ho tārila bhuvana  
+Kṛṣṇa  making descend  who  delivered  the world
+
+(148) The truth of Ācārya Gosāñi cannot be told: it was He who brought Kṛṣṇa down and delivered the world.
+
+নিত্যানন্দস্বরূপ পূর্ব্বে হইয়া লক্ষ্মণ ৷  
+লঘুভ্রাতা হৈয়া করে রামের সেবন ॥ ১৪৯ ॥
+
+nityānanda-svarūpa pūrve haiyā lakṣmaṇa  
+Nityānanda-svarūpa  before  becoming  Lakṣmaṇa  
+laghu-bhrātā haiyā kare rāmera sevana  
+younger  brother  becoming  makes  Rāma’s  service
+
+(149) Nityānanda Svarūpa, appearing before as Lakṣmaṇa, served Rāma as His younger brother.[^36]
+
+রামের চরিত্র সব, — দুঃখের কারণ ৷  
+স্বতন্ত্র লীলায় দুঃখ সহেন লক্ষ্মণ ॥ ১৫০ ॥
+
+rāmera caritra saba, — duḥkhera kāraṇa  
+of Rāma  the deeds  all  of suffering  the cause  
+svatantra līlāya duḥkha sahena lakṣmaṇa  
+independent  in pastime  suffering  endures  Lakṣmaṇa
+
+(150) All of Rāma’s deeds brought suffering, and in His own free pastime Lakṣmaṇa bore that suffering with Him.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -1351,3 +1666,17 @@ of the Lord  service  except  not  knows  other
 [^28]: The same verse as Ādi 1.11. *Anubhāṣya*: Ananta, the upholder of the earth, is a *kalā* of Kṣīrodakaśāyī, a part of His part.
 
 [^29]: *Anubhāṣya* (after the *Siddhānta-śiromaṇi*): the seven oceans are of salt water, milk, curd, ghee, sugar-cane juice, wine and fresh water; south of the salt ocean is the Ocean of Milk, where Vāsudeva dwells.
+
+[^30]: *Amṛta-pravāha-bhāṣya*: *śeṣatā* — “the last, utmost limit of service”. *Anubhāṣya* cites the *Bhāgavatam* (10.2.8): “My abode called Śeṣa.”
+
+[^31]: *Amṛta-pravāha-bhāṣya*: as Kṛṣṇa was once equated with Vāmana and others, so those who make no distinction call Nityānanda “Ananta”; since devotees have said so, it is not false: in the highest truth everything is possible.
+
+[^32]: The edition’s heading: “Baladeva’s wonder at the sight of Kṛṣṇa’s yogamāyā.” *Anubhāṣya*: when Brahmā had stolen the calves and the cowherd boys, Kṛṣṇa Himself became them and went on with His pastimes; one day Baladeva, seeing the unusual love of the cows, understood this and was amazed.
+
+[^33]: *Anubhāṣya*: the Kauravas spoke insultingly of Kṛṣṇa and tried to win Baladeva to their side; angered, Baladeva answered them with these words. *Amṛta-pravāha-bhāṣya*: “Brahmā, Śiva, I, Baladeva, and Lakṣmī — some of us are His parts, some parts of His parts.”
+
+[^34]: *Anubhāṣya*: see Ādi 3.71 (Nityānanda and Advaita are the two *aṅgas* of Śrī Caitanya).
+
+[^35]: *Anubhāṣya*: Mahāprabhu honoured Advaita Ācārya as one of His elders, but Advaita regarded Himself as Śrī Caitanya’s servant. He was a contemporary and friend of Mahāprabhu’s father; Śrī Īśvara Purī and Śrī Advaita were both disciples of Śrī Mādhavendra Purī, and since Mahāprabhu accepted Īśvara Purī as His initiating guru, Advaita was a godbrother of His guru and worthy of respect.
+
+[^36]: *Anubhāṣya*: among the *daṇḍī* sannyāsīs of the ten orders (*daśanāmī*), a brahmacārī receives one of four names — *svarūpa*, *ānanda*, *prakāśa* or *caitanya*. During His pilgrimage Nityānanda Prabhu stayed with a sannyāsī whose title was *tīrtha* or *āśrama*, and so His brahmacārī name was “Nityānanda-svarūpa”.
