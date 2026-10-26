@@ -164,7 +164,7 @@ fn: *Anubhāṣya*: in some Bengali manuscripts “Līlā-śakti” is read in p
 ## 29
 w: although  only  His  play  merely  nature
 w: still  to the jīvas  out of mercy  He does  one  work
-tr: Though His nature is simply to play, yet out of mercy to the jīvas He does one work.
+tr: Though His nature is simply to play, yet out of mercy to the jīvas He does one work:
 
 ## 30
 w: sālokya  sāmīpya  sārṣṭi  sārūpya  kinds
@@ -516,7 +516,7 @@ tr: Know this to be My inconceivable power.” Such is the meaning the Gītā pr
 ## 91
 w: that  very  Puruṣa  whose  part  bears  the name
 w: of Caitanya  the companion  that  Nityānanda-Rāma
-tr: He whose part that Puruṣa is called is Nityānanda-Rāma, the companion of Caitanya.
+tr: He of whom that Puruṣa is called a part is Nityānanda-Rāma, the companion of Caitanya.
 
 ## 92
 w: this  indeed  of the ninth  verse  of the meaning  the explanation
@@ -597,7 +597,7 @@ tr: He is Hiraṇyagarbha, the Indweller, the cause of the world; and it is a pa
 ## 107
 w: such  Nārāyaṇa  of whose  part  a part
 w: that  Lord  Nityānanda  of all  the crown
-tr: He of whose part such a Nārāyaṇa is a part is that Lord Nityānanda, the crown of all avatāras.
+tr: Such a Nārāyaṇa is only a part of His part: such is Lord Nityānanda, the crown of all avatāras.
 
 ## 108
 w: of the tenth  verse  the meaning  I made  explanation
@@ -646,7 +646,7 @@ tr: Then He descends and protects the world. His splendour is endless, beyond al
 ## 116
 w: that  Viṣṇu  is  of whose  part of a part  a part
 w: that  Lord  Nityānanda  of all  the crown
-tr: He of whose part’s part that Viṣṇu is a part is that Lord Nityānanda, the crown of all avatāras.
+tr: That Viṣṇu is a part of a part of His part: such is Lord Nityānanda, the crown of all avatāras.
 
 ## 117
 w: that  Viṣṇu  Śeṣa  in the form  holds  the earth
@@ -1028,7 +1028,7 @@ tr: His body was anointed with sandal and graced with a lovely tilaka; His slow,
 ## 188
 w: millions of moons  surpassing  face  bright  in colour
 w: of pomegranate  seeds  like  in the teeth  betel  chewing
-tr: His bright face outshone millions of moons; chewing betel, His teeth were like pomegranate seeds.
+tr: His bright face outshone millions of moons; as He chewed betel, His teeth looked like pomegranate seeds.
 fn: As in the Gauḍīya Maṭha edition: «দন্তে» (“in the teeth”; another reading: «দন্ত»).
 
 ## 189
@@ -1085,7 +1085,7 @@ tr: I reflected on what I had seen and heard: the Lord had ordered me to go to V
 ## 199
 w: at that  moment  to Vṛndāvana  I made  departure
 w: the Lord’s  by mercy  happily  I came  to Vṛndāvana
-tr: At that very moment I set out for Vṛndāvana, and by the Lord’s mercy I reached Vṛndāvana in happiness.
+tr: At that very moment I set out, and by the Lord’s mercy I reached Vṛndāvana in happiness.
 
 ## 200
 w: glory  glory  Nityānanda  Nityānanda-Rāma

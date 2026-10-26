@@ -314,7 +314,7 @@ although  only  His  play  merely  nature
 tathāpi jīvere kṛpāya kare eka karma  
 still  to the jīvas  out of mercy  He does  one  work
 
-(29) Though His nature is simply to play, yet out of mercy to the jīvas He does one work.
+(29) Though His nature is simply to play, yet out of mercy to the jīvas He does one work:
 
 সালোক্য-সামীপ্য-সার্ষ্টি-সারূপ্য-প্রকার ৷  
 চারি মুক্তি দিয়া করে জীবেরে নিস্তার ॥ ৩০ ॥
@@ -991,7 +991,7 @@ that  very  Puruṣa  whose  part  bears  the name
 caitanyera saṅge sei nityānanda-rāma  
 of Caitanya  the companion  that  Nityānanda-Rāma
 
-(91) He whose part that Puruṣa is called is Nityānanda-Rāma, the companion of Caitanya.
+(91) He of whom that Puruṣa is called a part is Nityānanda-Rāma, the companion of Caitanya.
 
 এই ত’ নবম শ্লোকের অর্থ-বিবরণ ৷  
 দশম শ্লোকের অর্থ শুন দিয়া মন ॥ ৯২ ॥
@@ -1154,7 +1154,7 @@ such  Nārāyaṇa  of whose  part  a part
 sei prabhu nityānanda — sarva-avataṁsa  
 that  Lord  Nityānanda  of all  the crown
 
-(107) He of whose part such a Nārāyaṇa is a part is that Lord Nityānanda, the crown of all avatāras.
+(107) Such a Nārāyaṇa is only a part of His part: such is Lord Nityānanda, the crown of all avatāras.
 
 দশম শ্লোকের অর্থ কৈল বিবরণ ৷  
 একাদশ শ্লোকের অর্থ শুন দিয়া মন ॥ ১০৮ ॥
@@ -1250,7 +1250,7 @@ that  Viṣṇu  is  of whose  part of a part  a part
 sei prabhu nityānanda — sarva-avataṁsa  
 that  Lord  Nityānanda  of all  the crown
 
-(116) He of whose part’s part that Viṣṇu is a part is that Lord Nityānanda, the crown of all avatāras.
+(116) That Viṣṇu is a part of a part of His part: such is Lord Nityānanda, the crown of all avatāras.
 
 সেই বিষ্ণু ‘শেষ’ রূপে ধরেন ধরণী ৷  
 কাঁহা আছে মহী, শিরে, হেন নাহি জানি ॥ ১১৭ ॥
@@ -1991,7 +1991,7 @@ millions of moons  surpassing  face  bright  in colour
 dāḍimba-bīja-sama dante tāmbūla-carvaṇa  
 of pomegranate  seeds  like  in the teeth  betel  chewing
 
-(188) His bright face outshone millions of moons; chewing betel, His teeth were like pomegranate seeds.[^45]
+(188) His bright face outshone millions of moons; as He chewed betel, His teeth looked like pomegranate seeds.[^45]
 
 প্রেমে মত্ত অঙ্গ ডাহিনে বামে দোলে ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ বলিয়া গম্ভীর বোল বলে ॥ ১৮৯ ॥
@@ -2101,7 +2101,7 @@ at that  moment  to Vṛndāvana  I made  departure
 prabhura kṛpāte sukhe āinu vṛndāvana  
 the Lord’s  by mercy  happily  I came  to Vṛndāvana
 
-(199) At that very moment I set out for Vṛndāvana, and by the Lord’s mercy I reached Vṛndāvana in happiness.
+(199) At that very moment I set out, and by the Lord’s mercy I reached Vṛndāvana in happiness.
 
 জয় জয় নিত্যানন্দ, নিত্যানন্দ-রাম ৷  
 যাঁহার কৃপাতে পাইনু বৃন্দাবন-ধাম ॥ ২০০ ॥
