@@ -1117,7 +1117,7 @@ in the last pastimes  of the Lord  separation from Kṛṣṇa  madness
 bhrama-maya ceṣṭā, sadā pralāpa-maya-vāda  
 of bewilderment  full  actions  always  of delirium  full  speech
 
-(107) In His last pastimes the Lord was mad with separation from Kṛṣṇa: His actions were full of bewilderment, and His speech was always full of delirium.[^79]
+(107) In His last pastimes the Lord was mad with separation from Kṛṣṇa: all His actions were bewildered, and He spoke always as in delirium.[^79]
 
 রাধিকার ভাব যৈছে উদ্ধবদর্শনে ৷  
 সেই ভাবে মত্ত প্রভু রহে রাত্রি-দিনে ॥ ১০৮ ॥
@@ -1197,7 +1197,7 @@ in the age of youth  Kāma  the world  whole
 rāsādi-līlāya tina karila saphala  
 by the rāsa and other  pastimes  the three  made  fruitful
 
-(115) In His youth, by the *rāsa* dance and other pastimes, He made three things fruitful: His youth, Kāma (the god of love), and the whole world.[^85]
+(115) By the *rāsa* dance and other pastimes He made three things fruitful: His youth, Kāma (the god of love), and the whole world.[^85]
 
 সোঽপি কৈশোরক-বয়ো মানয়ন্মধুসূদনঃ ৷  
 রেমে স্ত্রীরত্নকূটস্থঃ ক্ষপাসু ক্ষপিতাহিতঃ ॥ ১১৬ ॥
@@ -1211,7 +1211,7 @@ sported  of jewel-like women  amid the host  standing
 kṣapāsu kṣapitāhitaḥ  
 at night  the destroyer  of the inauspicious
 
-(116) “And Madhusūdana, honouring His youth, sported on autumn nights amid a host of jewel-like girls — He who destroys all that is inauspicious.” (Viṣṇu Purāṇa, 5.13.59)[^86]
+(116) “Honouring His youth, Madhusūdana, the destroyer of all that is inauspicious, sported on autumn nights amid a host of jewel-like girls.” (Viṣṇu Purāṇa, 5.13.59)[^86]
 
 বাচা সূচিতশর্ব্বরীরতিকলাপ্রাগল্ভ্যয়া রাধিকাং  
 ব্রীড়াকুঞ্চিতলোচনাং বিরচয়ন্নগ্রে সখীনামসৌ ৷  
@@ -1356,7 +1356,7 @@ which  besides  great  thing  there is not  surely
 tathāpi gurura dharma gaurava-varjita  
 still  of the great  the quality  of pride  devoid
 
-(129) Surely there is nothing greater than it, and yet it is free of the pride that belongs to greatness.
+(129) Nothing is greater than this love, and yet it is free of the pride that belongs to greatness.
 
 যাহা বই সুনির্ম্মল দ্বিতীয় নাহি আর ৷  
 তথাপি সর্ব্বদা বাম্য, বক্র ব্যবহার ॥ ১৩০ ॥
@@ -1366,7 +1366,7 @@ which  besides  most pure  second  there is not  other
 tathāpi sarvadā vāmya, vakra vyavahāra  
 still  always  contrariness  crooked  behaviour
 
-(130) There is nothing else so pure as it, and yet it is always contrary and crooked in its ways.
+(130) Nothing is purer than this love, and yet its ways are ever contrary and crooked.
 
 বিভুরপি কলয়ন্ সদাভিবৃদ্ধিং  
 গুরুরপি গৌরবচর্য্যয়া বিহীনঃ ৷  
@@ -1422,7 +1422,7 @@ ever  if  of this  love  I become  the shelter
 tabe ei premānandera anubhava haya  
 then  of this  love’s  bliss  the experience  will be
 
-(135) If ever I become the *āśraya* of this love, then I shall know the bliss of this love.”
+(135) If ever I become the *āśraya* of this love, then I shall know its bliss.”
 
 এত চিন্তি’ রহে কৃষ্ণ পরমকৌতুকী ৷  
 হৃদয়ে বাড়য়ে প্রেম-লোভ ধক্ধকি ॥ ১৩৬ ॥
@@ -1538,7 +1538,7 @@ this  I  even  alas  seeing  which  with greedy heart
 sarabhasam upabhoktuṁ kāmaye rādhikeva  
 eagerly  to enjoy  I desire  like Rādhikā
 
-(146) “What never-before-known, wonder-working flood of My sweetness, surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, like Rādhikā.” (Lalita-mādhava, 8.34)[^105]
+(146) “What wondrous flood of My sweetness, never known before and surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)[^105]
 
 কৃষ্ণমাধুর্য্যের এক স্বাভাবিক বল ৷  
 কৃষ্ণআদি নরনারী করয়ে চঞ্চল ॥ ১৪৭ ॥
@@ -1736,7 +1736,7 @@ therefore  Uddhava and others  even  it
 vāñchanti bhagavat-priyāḥ  
 desire  dear to the Lord
 
-(163) “The love of the cowherd women alone, though it is prema, became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)[^116]
+(163) “It is the prema of the cowherd women that became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)[^116]
 
 কাম, প্রেম, — দোঁহাকার বিভিন্ন লক্ষণ ৷  
 লৌহ আর হেম যৈছে স্বরূপে বিলক্ষণ ॥ ১৬৪ ॥
@@ -1756,7 +1756,7 @@ of one’s own senses  of pleasure  the desire  that  I call  ‘lust’
 kṛṣṇendriya-prīti-icchā dhare ‘prema’ nāma  
 of Kṛṣṇa’s senses  of pleasure  the wish  bears  ‘love’  the name
 
-(165) The desire to please one’s own senses I call lust (*kāma*); the wish to please Kṛṣṇa’s senses bears the name of prema.[^118]
+(165) The desire to please one’s own senses is called lust (*kāma*); the wish to please Kṛṣṇa’s senses bears the name of prema.[^118]
 
 কামের তাৎপর্য্য — নিজ সম্ভোগ কেবল ৷  
 কৃষ্ণসুখ তাৎপর্য্য মাত্র প্রেম ত’ প্রবল ॥ ১৬৬ ॥
@@ -1790,7 +1790,7 @@ of all  renunciation  making  they make  of Kṛṣṇa  worship
 kṛṣṇa-sukha-hetu kare prema-sevana  
 of Kṛṣṇa’s  happiness  for the sake  they make  loving  service
 
-(167–169) Social custom and Vedic religion, the needs of the body and their duties, shame and restraint, bodily pleasure and the very core of their own happiness, the path of the noble (*ārya-patha*), so hard to give up, their own families, and all the beatings and rebukes of their kin — giving up all this, they worship Kṛṣṇa, and render loving service for His happiness alone.[^120]
+(167–169) Social custom and Vedic religion, the needs of the body and their duties, shame and restraint, bodily pleasure and the very core of their own happiness, the path of the noble (*ārya-patha*), so hard to give up, their own families, and all the chastisement and rebukes of their kin — giving up all this, they worship Kṛṣṇa and serve Him with love for His happiness alone.[^120]
 
 ইহাকে কহিয়ে কৃষ্ণে দৃঢ় অনুরাগ ৷  
 স্বচ্ছ ধৌতবস্ত্রে যৈছে নাহি কোন দাগ ॥ ১৭০ ॥
@@ -1872,7 +1872,7 @@ by Me  invisibly  loving  disappeared
 māsūyituṁ mārhatha tat priyaṁ priyāḥ  
 Me  to blame  you should not  that  dear one  O dear ones
 
-(176) “O dear ones, O tender ones! For My sake you have abandoned the laws of society and of the Vedas, and even your kinsmen. I disappeared only that your love for Me might grow still stronger — yet even unseen I went on loving you. So, beloved ones, do not be displeased with Him who is dear to you.” (Śrīmad-Bhāgavatam, 10.32.21)[^125]
+(176) “O tender ones! For My sake you have abandoned the laws of society and of the Vedas, and even your kinsmen. I disappeared only that your love for Me might grow still stronger — yet even unseen I went on loving you. So, beloved ones, do not be displeased with Him who is dear to you.” (Śrīmad-Bhāgavatam, 10.32.21)[^125]
 
 কৃষ্ণের প্রতিজ্ঞা এক আছে পূর্ব্ব হৈতে ৷  
 যে যৈছে ভজে, কৃষ্ণ তারে ভজে তৈছে ॥ ১৭৭ ॥
@@ -1966,7 +1966,7 @@ than them  higher  not  of Me  O Pārtha
 nigūḍha-prema-bhājanam  
 of hidden  love  the vessel
 
-(184) “O Pārtha, the gopīs tend even their own bodies, for they regard them as Mine. No one is so secretly dear to Me as they are.” (Ādi Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 40)[^131]
+(184) “O Pārtha, the gopīs tend even their own bodies, for they regard them as Mine. There is no greater vessel of My secret love than they.” (Ādi Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 40)[^131]
 
 আর এক অদ্ভুত গোপীভাবের স্বভাব ৷  
 বুদ্ধির গোচর নহে যাহার প্রভাব ॥ ১৮৫ ॥
@@ -2076,7 +2076,7 @@ therefore  that  happiness  Kṛṣṇa’s  happiness  nourishes
 ei hetu gopī-preme nāhi kāma-doṣe  
 this  for the reason  in the gopīs’ love  there is not  of lust  fault
 
-(195) Therefore their happiness only nourishes Kṛṣṇa’s happiness, and so in the gopīs’ love there is no fault of lust.[^135]
+(195) Thus their happiness nourishes Kṛṣṇa’s happiness, and for this reason there is no fault of lust in the gopīs’ love.[^135]
 
 উপেত্য পথি সুন্দরীততিভিরাভিরভ্যর্চ্চিতং  
 স্মিতাঙ্কুরকরম্বিতৈর্নটদপাঙ্গভঙ্গীশতৈঃ ৷  
@@ -2210,7 +2210,7 @@ unmotivated  uninterrupted
 yā bhaktiḥ puruṣottame  
 which  devotion  to the Supreme Person
 
-(206) “This is declared the mark of bhakti-yoga beyond the guṇas: devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.12)[^146]
+(206) “Such is the mark of bhakti-yoga beyond the guṇas (*nirguṇa*): devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.12)[^146]
 
 সালোক্য-সার্ষ্টি-সামীপ্য-সারূপ্যৈকত্বমপ্যুত ৷  
 দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ২০৭ ॥
@@ -2224,7 +2224,7 @@ being given  not  accept
 vinā mat-sevanaṁ janāḥ  
 without  My service  the people
 
-(207) “Even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, and even oneness with Me, My people accept nothing but My service.” (Śrīmad-Bhāgavatam, 3.29.13)[^147]
+(207) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)[^147]
 
 মৎসেবয়া প্রতীতং তে সালোক্যাদিচতুষ্টয়ম্ ৷  
 নেচ্ছন্তি সেবয়া পূর্ণাঃ কুতোঽন্যৎ কালবিপ্লুতম্ ॥ ২০৮ ॥
@@ -2238,7 +2238,7 @@ do not desire  by service  fulfilled
 kuto ’nyat kāla-viplutam  
 how much less  anything else  destroyed by time
 
-(208) “Fulfilled by My service, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — though these come to them by serving Me. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)[^148]
+(208) “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)[^148]
 
 কামগন্ধহীন স্বাভাবিক গোপী-প্রেম ৷  
 নির্ম্মল, উজ্জ্বল, শুদ্ধ যেন দগ্ধ হেম ॥ ২০৯ ॥
@@ -2344,7 +2344,7 @@ with Rādhā  play  of rasa  of the increase  the cause
 āra saba gopī-gaṇa rasopakaraṇa  
 the other  all  gopīs  of rasa  the accessories
 
-(217) Play with Rādhā is the cause of the increase of rasa; all the other gopīs only serve that rasa.[^157]
+(217) It is play with Rādhā that makes rasa grow; all the other gopīs only serve that rasa.[^157]
 
 কৃষ্ণের বল্লভা রাধা কৃষ্ণ-প্রাণধন ৷  
 তাঁহা বিনু সুখহেতু নহে গোপীগণ ॥ ২১৮ ॥
@@ -2963,7 +2963,7 @@ the purpose  and  in the descent
 śloka-ṣaṭkair nirūpitam  
 by six verses  described
 
-(276) Thus in six verses the auspicious invocation, the characteristics of the truth of Kṛṣṇa Caitanya, and the purpose of His descent have been set forth.[^195]
+(276) Thus the six verses set forth the auspicious invocation, the characteristic marks of the truth of Kṛṣṇa Caitanya, and the purpose of His descent.[^195]
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৭৭ ॥

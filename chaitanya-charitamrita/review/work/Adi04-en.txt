@@ -622,7 +622,7 @@ fn: In the edition the verse is headed: “Gaurasundara, immersed in Rādhā’s
 ## 107
 w: in the last pastimes  of the Lord  separation from Kṛṣṇa  madness
 w: of bewilderment  full  actions  always  of delirium  full  speech
-tr: In His last pastimes the Lord was mad with separation from Kṛṣṇa: His actions were full of bewilderment, and His speech was always full of delirium.
+tr: In His last pastimes the Lord was mad with separation from Kṛṣṇa: all His actions were bewildered, and He spoke always as in delirium.
 fn: As in the Gauḍīya Maṭha edition: «সদা» (“always”); another reading has «আর» (“and”). *Anubhāṣya*: in the conduct of a perfected soul Śrī Gaurahari displays the supreme height of *vipralambha-rasa*; those who trust only the knowledge of the senses take His experiences for delirium and wandering of mind. The doctrine of the “Nadīyā-nāgarīs”, which distorts the path of following, is only an attempt at sense gratification, not the path shown by Śrī Gaurasundara; its adherents are materialists and therefore enemies of Viṣṇu.
 
 ## 108
@@ -668,7 +668,7 @@ fn: In the edition verse 113 is headed “Different pastimes in the different ag
 ## 115
 w: in the age of youth  Kāma  the world  whole
 w: by the rāsa and other  pastimes  the three  made  fruitful
-tr: In His youth, by the *rāsa* dance and other pastimes, He made three things fruitful: His youth, Kāma (the god of love), and the whole world.
+tr: By the *rāsa* dance and other pastimes He made three things fruitful: His youth, Kāma (the god of love), and the whole world.
 fn: The *Amṛta-pravāha-bhāṣya* reads the verse otherwise: Kāma is Kṛṣṇa Himself, Manmatha in person, who by His own will, performing the *rāsa* dance and other pastimes in His youth, made the whole world and His three ages — childhood, boyhood and youth — fruitful. The translation follows the plain sense of the verse, which 4.116 (youth) and 4.118 (the world and Kāma) explain.
 
 ## 116
@@ -676,7 +676,7 @@ w: He  too  youthful  age
 w: honouring  Madhusūdana
 w: sported  of jewel-like women  amid the host  standing
 w: at night  the destroyer  of the inauspicious
-tr: “And Madhusūdana, honouring His youth, sported on autumn nights amid a host of jewel-like girls — He who destroys all that is inauspicious.” (Viṣṇu Purāṇa, 5.13.59)
+tr: “Honouring His youth, Madhusūdana, the destroyer of all that is inauspicious, sported on autumn nights amid a host of jewel-like girls.” (Viṣṇu Purāṇa, 5.13.59)
 fn: *Anubhāṣya*: *kṣapitāhita* — “He by whom all that is inauspicious is destroyed”; “honouring His youth” — making it fruitful; “jewels among women” — the gopīs; “at night” — on autumn nights. *Amṛta-pravāha-bhāṣya*: amid Rādhā, full of *mahābhāva*, and the gopīs, full of *bhāva*, Śrī Kṛṣṇa, the supreme Consciousness, is the central (*kūṭa-stha*) Truth.
 
 ## 117
@@ -754,12 +754,12 @@ fn: In the edition the verse is headed: “An example of the opposite qualities 
 ## 129
 w: which  besides  great  thing  there is not  surely
 w: still  of the great  the quality  of pride  devoid
-tr: Surely there is nothing greater than it, and yet it is free of the pride that belongs to greatness.
+tr: Nothing is greater than this love, and yet it is free of the pride that belongs to greatness.
 
 ## 130
 w: which  besides  most pure  second  there is not  other
 w: still  always  contrariness  crooked  behaviour
-tr: There is nothing else so pure as it, and yet it is always contrary and crooked in its ways.
+tr: Nothing is purer than this love, and yet its ways are ever contrary and crooked.
 
 ## 131
 w: all-pervading  though  making  constant  growth
@@ -790,7 +790,7 @@ fn: In the edition the verse is headed: “Seeing that the *āśraya*’s happin
 ## 135
 w: ever  if  of this  love  I become  the shelter
 w: then  of this  love’s  bliss  the experience  will be
-tr: If ever I become the *āśraya* of this love, then I shall know the bliss of this love.”
+tr: If ever I become the *āśraya* of this love, then I shall know its bliss.”
 
 ## 136
 w: so  thinking  remains  Kṛṣṇa  supremely eager for wonder
@@ -852,7 +852,7 @@ w: never experienced  before  some  wonder-working
 w: appears  My  greater  this  of sweetness  flood
 w: this  I  even  alas  seeing  which  with greedy heart
 w: eagerly  to enjoy  I desire  like Rādhikā
-tr: “What never-before-known, wonder-working flood of My sweetness, surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, like Rādhikā.” (Lalita-mādhava, 8.34)
+tr: “What wondrous flood of My sweetness, never known before and surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)
 fn: *Anubhāṣya*: in Dvārakā, in Nava-Vṛndāvana, Śrī Kṛṣṇa sees His own beauty in His reflection on a jewelled wall and says: “never before experienced, causing wonder, weightier than all — My indescribable flood of sweetness, a treasure of beauty, appears here; and I, Kṛṣṇa, seeing this reflection, like Rādhikā, with a greedy heart eagerly desire to enjoy it.” The *Amṛta-pravāha-bhāṣya* reads *kaḥ* as a question: “Who is this never-seen, astonishing, wondrously depicted Person? Seeing Him, I, like Rādhikā, long to embrace Him.”
 
 ## 147
@@ -958,7 +958,7 @@ w: love itself  of the cowherd women
 w: as kāma  so  attained  fame
 w: therefore  Uddhava and others  even  it
 w: desire  dear to the Lord
-tr: “The love of the cowherd women alone, though it is prema, became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)
+tr: “It is the prema of the cowherd women that became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)
 fn: In the edition the verse is headed: “In the gopīs, *kāma* and prema are one.” *Amṛta-pravāha-bhāṣya*: it became customary to call the pure prema of the cowherd women *kāma*; devotees of the Lord such as Uddhava thirst for that love. *Anubhāṣya*: “Uddhava and others” — devotees who relish other rasas.
 
 ## 164
@@ -970,7 +970,7 @@ fn: In the edition the verse is headed: “The nature of *kāma* and prema, and 
 ## 165
 w: of one’s own senses  of pleasure  the desire  that  I call  ‘lust’
 w: of Kṛṣṇa’s senses  of pleasure  the wish  bears  ‘love’  the name
-tr: The desire to please one’s own senses I call lust (*kāma*); the wish to please Kṛṣṇa’s senses bears the name of prema.
+tr: The desire to please one’s own senses is called lust (*kāma*); the wish to please Kṛṣṇa’s senses bears the name of prema.
 fn: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): “The bond of feeling between the young pair that is never destroyed, even when causes of destruction arise, is called prema”; the gopīs, as *āśraya*, are firmly bound to Kṛṣṇa by this bond, and, as the ideal of giving up one’s own happiness — which is *kāma* — they are wholly devoted to the service that gives Kṛṣṇa bliss.
 
 ## 166
@@ -986,7 +986,7 @@ w: hard to give up  the path of the noble  own  family
 w: the relatives  make  whatever  beating  rebuke
 w: of all  renunciation  making  they make  of Kṛṣṇa  worship
 w: of Kṛṣṇa’s  happiness  for the sake  they make  loving  service
-tr: Social custom and Vedic religion, the needs of the body and their duties, shame and restraint, bodily pleasure and the very core of their own happiness, the path of the noble (*ārya-patha*), so hard to give up, their own families, and all the beatings and rebukes of their kin — giving up all this, they worship Kṛṣṇa, and render loving service for His happiness alone.
+tr: Social custom and Vedic religion, the needs of the body and their duties, shame and restraint, bodily pleasure and the very core of their own happiness, the path of the noble (*ārya-patha*), so hard to give up, their own families, and all the chastisement and rebukes of their kin — giving up all this, they worship Kṛṣṇa and serve Him with love for His happiness alone.
 fn: As in the Gauḍīya Maṭha edition: «দুস্ত্যজ্য» (another reading: «দুস্ত্যজ»); the sense is the same. In the edition verse 167 is headed: “The marks and nature of love for Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: the Vedas speak of the desire for the world, for sons and for wealth — these are social custom, Vedic religion, bodily needs, work, shame, restraint, bodily happiness, “one’s own happiness” such as liberation, the path of the noble, attachment to one’s family, fear of the beatings and rebukes of relatives; all these are desires to please one’s own senses, that is, *kāma*. Desires that follow the conviction “I am Kṛṣṇa’s servant” can be desires to please Kṛṣṇa, but those born of the conviction “I am the enjoyer of fruits” are *kāma*. The “renunciation of all” (4.169) does not mean giving up the activities of body and mind: if they are moved by the conviction “I am Kṛṣṇa’s servant”, that too is not *kāma*.
 
 ## 170
@@ -1030,7 +1030,7 @@ w: thus  for My sake  having abandoned  social  Vedic (law)
 w: and kinsmen  indeed  of you  to Me  for the attachment  O weak ones
 w: by Me  invisibly  loving  disappeared
 w: Me  to blame  you should not  that  dear one  O dear ones
-tr: “O dear ones, O tender ones! For My sake you have abandoned the laws of society and of the Vedas, and even your kinsmen. I disappeared only that your love for Me might grow still stronger — yet even unseen I went on loving you. So, beloved ones, do not be displeased with Him who is dear to you.” (Śrīmad-Bhāgavatam, 10.32.21)
+tr: “O tender ones! For My sake you have abandoned the laws of society and of the Vedas, and even your kinsmen. I disappeared only that your love for Me might grow still stronger — yet even unseen I went on loving you. So, beloved ones, do not be displeased with Him who is dear to you.” (Śrīmad-Bhāgavatam, 10.32.21)
 fn: In the edition the verse is headed: “Kṛṣṇa, bound by the gopīs’ love, asks forgiveness for disappearing.” *Anubhāṣya*: the words of Kṛṣṇa, who returned to the place of the *rāsa* dance on hearing the gopīs’ words; “the laws of society” — worldly dharma, “of the Vedas” — dharma for the world beyond; “loving invisibly” — doing them good unseen by them.
 
 ## 177
@@ -1082,7 +1082,7 @@ w: own body  even  who  the gopīs
 w: as Mine  so  carefully tend
 w: than them  higher  not  of Me  O Pārtha
 w: of hidden  love  the vessel
-tr: “O Pārtha, the gopīs tend even their own bodies, for they regard them as Mine. No one is so secretly dear to Me as they are.” (Ādi Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 40)
+tr: “O Pārtha, the gopīs tend even their own bodies, for they regard them as Mine. There is no greater vessel of My secret love than they.” (Ādi Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 40)
 fn: In the edition the verse is headed “Even in adorning their bodies the gopīs think only of Kṛṣṇa’s pleasure”, and the source is given as “the words of the *Ādi Purāṇa* from the *Laghu-bhāgavatāmṛta*, Uttara-khaṇḍa, 40”. *Anubhāṣya*: “as Mine” — “this body is given to the Lord, my Beloved”; “tend” — adorn; “no one is so secretly dear” — there is no other vessel of My hidden love.
 
 ## 185
@@ -1141,7 +1141,7 @@ fn: In the edition the verse is headed: “The gopīs’ happiness lies in Kṛ�
 ## 195
 w: therefore  that  happiness  Kṛṣṇa’s  happiness  nourishes
 w: this  for the reason  in the gopīs’ love  there is not  of lust  fault
-tr: Therefore their happiness only nourishes Kṛṣṇa’s happiness, and so in the gopīs’ love there is no fault of lust.
+tr: Thus their happiness nourishes Kṛṣṇa’s happiness, and for this reason there is no fault of lust in the gopīs’ love.
 fn: In the edition the verse is headed: “The gopīs’ love is not *kāma*, for it increases Kṛṣṇa’s happiness.”
 
 ## 196
@@ -1217,7 +1217,7 @@ w: the mark  of bhakti-yoga
 w: beyond the guṇas  indeed  is declared
 w: unmotivated  uninterrupted
 w: which  devotion  to the Supreme Person
-tr: “This is declared the mark of bhakti-yoga beyond the guṇas: devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.12)
+tr: “Such is the mark of bhakti-yoga beyond the guṇas (*nirguṇa*): devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.12)
 fn: *Amṛta-pravāha-bhāṣya*: unmotivated — without cause, self-manifest; uninterrupted — without obstacle and without seeking other fruits. *Anubhāṣya*: unmotivated — free of seeking fruits; uninterrupted — free of obstruction by body, wealth, people, greed, pride and the like; beyond the guṇas — belonging to Bhagavān, who is beyond the three guṇas.
 
 ## 207
@@ -1225,7 +1225,7 @@ w: residence in My world  equal opulence  nearness
 w: likeness of form  oneness  even  and
 w: being given  not  accept
 w: without  My service  the people
-tr: “Even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, and even oneness with Me, My people accept nothing but My service.” (Śrīmad-Bhāgavatam, 3.29.13)
+tr: “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
 fn: *Amṛta-pravāha-bhāṣya*: *sālokya* — residence in Vaikuṇṭha, *sārṣṭi* — opulence, *sāmīpya* — nearness, *sārūpya* — a four-armed form, oneness — *sāyujya*, merging; the devotees do not accept them, for apart from transcendental service to the Lord they have nothing to desire.
 
 ## 208
@@ -1233,7 +1233,7 @@ w: by My service  attained  they
 w: sālokya and the rest  the fourfold
 w: do not desire  by service  fulfilled
 w: how much less  anything else  destroyed by time
-tr: “Fulfilled by My service, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — though these come to them by serving Me. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)
+tr: “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)
 fn: In the edition the verse is headed: “Not to speak of perishable enjoyment, even liberation is not desired by the devotee.” *Anubhāṣya*: the Lord’s words to Durvāsā as He described the qualities of devotees such as Ambarīṣa; “anything else, destroyed by time” — heaven and the like. *Amṛta-pravāha-bhāṣya*: neither worldly enjoyment nor *sāyujya-mukti*, in which the *jīva*’s existence falls into the jaws of time, is lasting.
 
 ## 209
@@ -1295,7 +1295,7 @@ fn: In the edition the verse is headed: “Among places Vṛndāvana is highest,
 ## 217
 w: with Rādhā  play  of rasa  of the increase  the cause
 w: the other  all  gopīs  of rasa  the accessories
-tr: Play with Rādhā is the cause of the increase of rasa; all the other gopīs only serve that rasa.
+tr: It is play with Rādhā that makes rasa grow; all the other gopīs only serve that rasa.
 fn: In the edition the verse is headed: “In *madhura-rasa* the principal pastimes are with Śrī Rādhā; all else serves them.” *Anubhāṣya*: Śrī Rādhikā is everything to Śrī Kṛṣṇa, and the other gopīs only serve the rasa of His play with Rādhā. From the *Ujjvala-nīlamaṇi*: “All the fair-browed ones whose charms attract Mādhava are friends of the Mistress of Vṛndāvana, and they are of five kinds: *sakhī*, *nitya-sakhī*, *prāṇa-sakhī*, *priya-sakhī* and *parama-preṣṭha-sakhī*.”
 
 ## 218
@@ -1633,7 +1633,7 @@ w: the auspicious invocation  Kṛṣṇa
 w: Caitanya’s  truth’s  characteristics
 w: the purpose  and  in the descent
 w: by six verses  described
-tr: Thus in six verses the auspicious invocation, the characteristics of the truth of Kṛṣṇa Caitanya, and the purpose of His descent have been set forth.
+tr: Thus the six verses set forth the auspicious invocation, the characteristic marks of the truth of Kṛṣṇa Caitanya, and the purpose of His descent.
 fn: *Amṛta-pravāha-bhāṣya*: the auspicious invocation, the characteristics of the truth of Kṛṣṇa Caitanya, and the purpose of Caitanya’s descent — these three subjects have been set forth in six verses. *Anubhāṣya*: “the characteristics of the truth” — that which reveals the truth of Gaura; “six verses” — from “*Vande gurūn…*” (Ādi 1.1) to “…*harīnduḥ*” (Ādi 1.6).
 
 ## 277
