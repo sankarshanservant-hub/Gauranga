@@ -22,10 +22,12 @@
   (с. 15–144); кн. 2 — «Навадвипа-бхава-таранга» (с. 145–167). Тот же файл (несжатый) лежит на сайте миссии:
   `https://scsmath.ru/docs/NabadwipDhamMahatmya_and_SriNabadadwipBhavaTaranga-Web2015.pdf` (сверено 2026-10-26:
   текст идентичен).
-- Английское издание ШЧСМ («Sri Nabadwip Dham Mahatmya»; с него сделан русский перевод):
-  `https://www.scsmathinternational.com/library/SrilaBhaktivinodThakur/SriNabadwipDhamMahatmya/SriNabadwipDhamMahatmya.pdf`
-  — **не скачано**: сайт отдаёт страницу проверки браузера (JS-challenge) вместо PDF (2026-10-26); нужен файл от
-  пользователя.
+- `Navadvipa-dhama-mahatmya_SCSM_2015_en.pdf` — англ. изд. ШЧСМ, март 2015 (518 с.; пер. с бенг. изд. 1988:
+  бенгальский текст, транслитерация, пословный, перевод; обе поэмы, вступления, «The Land of Sweetness» по лекциям
+  Шрилы Шридхара Махараджа, десять оскорблений дхамы, глоссарий, карта). Скачано 2026-10-26 с
+  `http://gaudiyadarshan.com/wp-content/uploads/2015/02/Sri-Navadvipa-dhama-mahatmya-Web.pdf` (тот же файл —
+  на scsmathinternational.com, но там проверка браузера). `…_2015_en.txt` — его текстовый слой. Русский перевод 2001 г.
+  сделан с более раннего английского перевода, не с этого.
 - `Navadvipa-dhama-mahatmya_SCSM_2001_ru.txt` — текстовый слой PDF (`pdftotext`; переносы со знаком «-» в PDF
   потеряны: «Навадвипадхама» = «Навадвипа-дхама»).
 
@@ -44,5 +46,5 @@
 
 - Список источников: `sources/SURVEY-primary-sources.md` (11.1), база лил: `lila-db/SOURCES.md` (код
   `navadvipa-mahatmya`, уровень B).
-- Перевода в проекте нет. Русский текст — издание миссии; как его использовать (цитировать готовый перевод или
-  переводить заново с бенгальского) — по решению пользователя.
+- Книга для сайта — `navadvipa-dhama-mahatmya/` (RU изд. 2001 по стихам + EN изд. 2015; решение пользователя
+  2026-10-26: переводы ШЧСМ — наши, заново не переводим). Задание и ход работ — `navadvipa-dhama-mahatmya/TASK.md`.
