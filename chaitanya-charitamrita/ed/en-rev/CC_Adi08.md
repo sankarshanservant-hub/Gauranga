@@ -16,7 +16,7 @@ suddenly  is made to dance  wondrously
 lekha-raṅge jaḍo ’py ayam  
 on the stage of writing  dull  though  this one
 
-(1) I worship Lord Caitanya-deva, by whose will even this dull fool has suddenly been set dancing, wondrously, on the stage of writing.[^1]
+(1) I worship Lord Caitanya-deva, by whose will even this dull fool has suddenly been set to dance so wondrously on the stage of writing.[^1]
 
 জয় জয় শ্রীকৃষ্ণচৈতন্য গৌরচন্দ্র ৷  
 জয় জয় পরমানন্দ জয় নিত্যানন্দ ॥ ২ ॥
@@ -292,7 +292,7 @@ of love  at the rising  there are  of love  the transformations
 sveda-kampa-pulakādi gadgadāśrudhāra  
 sweat  trembling  thrilling of the hairs and the rest  faltering voice  streams of tears
 
-(27) When love dawns, its transformations appear: sweat and trembling, the hairs standing on end, a faltering voice and streams of tears.
+(27) When love dawns, its transformations appear: sweat and trembling, the hairs standing on end, a faltering voice and flowing tears.
 
 অনায়াসে ভবক্ষয়, কৃষ্ণের সেবন ৷  
 এক কৃষ্ণনামের ফলে পাই এত ধন ॥ ২৮ ॥
@@ -549,7 +549,7 @@ a thousand  servants  service  render  constantly
 sahasra-vadane sevā nā yāya varṇana  
 with a thousand mouths  the service  not  can be  described
 
-(53) A thousand servants serve Him constantly; that service could not be described even with a thousand mouths.
+(53) A thousand servants attend Him constantly; that service could not be described even with a thousand mouths.
 
 সেবার অধ্যক্ষ — শ্রীপণ্ডিত হরিদাস ৷  
 তাঁর যশঃ-গুণ সর্ব্বজগতে প্রকাশ ॥ ৫৪ ॥
@@ -775,7 +775,7 @@ of the Lord  at the feet  when  the order  was begged
 prabhu-kaṇṭha haite mālā khasiyā paḍila  
 from the Lord’s neck  the garland  slipping  fell
 
-(75) When the order was begged at the Lord’s feet, the garland slipped from the Lord’s neck and fell.[^31]
+(75) When I begged at the Lord’s feet for His order, the garland slipped from His neck and fell.[^31]
 
 সব বৈষ্ণবগণ হরিধ্বনি দিল ৷  
 গোসাঞিদাস আনি’ মালা মোর গলে দিল ॥ ৭৬ ॥

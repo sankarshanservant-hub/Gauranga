@@ -9,7 +9,7 @@ w: I worship  Caitanya-deva  Him
 w: the Lord  by whose will
 w: suddenly  is made to dance  wondrously
 w: on the stage of writing  dull  though  this one
-tr: I worship Lord Caitanya-deva, by whose will even this dull fool has suddenly been set dancing, wondrously, on the stage of writing.
+tr: I worship Lord Caitanya-deva, by whose will even this dull fool has suddenly been set to dance so wondrously on the stage of writing.
 fn: *Amṛta-pravāha-bhāṣya*: by the will of Lord Caitanya-deva I, a fool like a painted puppet, have suddenly begun this dance of writing a book. *Anubhāṣya*: *jaḍaḥ* — “like one without sense”; *lekha-raṅge* — “in the play of composing this book”; *prasabham* — “suddenly”.
 
 ## 2
@@ -160,7 +160,7 @@ fn: Edition heading: “The self-manifest Lord, the Name, rising on the tongue, 
 ## 27
 w: of love  at the rising  there are  of love  the transformations
 w: sweat  trembling  thrilling of the hairs and the rest  faltering voice  streams of tears
-tr: When love dawns, its transformations appear: sweat and trembling, the hairs standing on end, a faltering voice and streams of tears.
+tr: When love dawns, its transformations appear: sweat and trembling, the hairs standing on end, a faltering voice and flowing tears.
 
 ## 28
 w: effortlessly  the end of worldly existence  of Kṛṣṇa  service
@@ -294,7 +294,7 @@ tr: There He is served like a king in many wonderful ways, with divine offerings
 ## 53
 w: a thousand  servants  service  render  constantly
 w: with a thousand mouths  the service  not  can be  described
-tr: A thousand servants serve Him constantly; that service could not be described even with a thousand mouths.
+tr: A thousand servants attend Him constantly; that service could not be described even with a thousand mouths.
 
 ## 54
 w: of the service  the superintendent  Śrī Paṇḍita  Haridāsa
@@ -414,7 +414,7 @@ tr: When I had seen Him, I bowed at His feet; the pūjārī Gosāñi-dāsa was s
 ## 75
 w: of the Lord  at the feet  when  the order  was begged
 w: from the Lord’s neck  the garland  slipping  fell
-tr: When the order was begged at the Lord’s feet, the garland slipped from the Lord’s neck and fell.
+tr: When I begged at the Lord’s feet for His order, the garland slipped from His neck and fell.
 fn: Edition heading to 74–76: “As soon as the pūjārī Gosāñi-dāsa made the request, before all the Vaiṣṇavas the garland fell from Madana-gopāla — His order.”
 
 ## 76
