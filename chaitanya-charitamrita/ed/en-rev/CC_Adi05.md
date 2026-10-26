@@ -36,7 +36,7 @@ in these  six  verses  I have told  of Kṛṣṇa Caitanya  the glory
 pañca-śloke kahi nityānanda-tattva-sīmā  
 in five  verses  I tell  of the truth of Nityānanda  the full extent
 
-(3) In these six verses I have told the glory of Kṛṣṇa Caitanya; in five verses I now tell the whole truth of Nityānanda.
+(3) In these six verses I have told of the glory of Kṛṣṇa Caitanya; in five verses I now tell the whole truth of Nityānanda.
 
 সর্ব্ব-অবতারী কৃষ্ণ স্বয়ং ভগবান্ ৷  
 তাঁহার দ্বিতীয় দেহ শ্রীবলরাম ॥ ৪ ॥
@@ -102,7 +102,7 @@ Himself  He performs  of Kṛṣṇa’s pastimes  assistance
 sṛṣṭi-līlā-kārya kare dhari’ cāri kāya  
 of the pastime of creation  the work  He does  assuming  four  bodies
 
-(9) He Himself assists Kṛṣṇa in His pastimes, and in four other bodies He does the work of the pastime of creation.
+(9) He Himself assists Kṛṣṇa in His pastimes, and in four other bodies He carries out the work of creation.
 
 সৃষ্ট্যাদিক সেবা, তাঁর আজ্ঞার পালন ৷  
 ‘শেষ’-রূপে করে কৃষ্ণের বিবিধ সেবন ॥ ১০ ॥
@@ -112,7 +112,7 @@ creation  and the rest  service  His  order’s  carrying out
 ‘śeṣa’-rūpe kare kṛṣṇera vividha sevana  
 Śeṣa  in the form of  He performs  Kṛṣṇa’s  manifold  service
 
-(10) His service of creation and the rest is the carrying out of Kṛṣṇa’s order; and as Śeṣa He serves Kṛṣṇa in many ways.
+(10) His work of creation and the rest is service done at Kṛṣṇa’s command; and as Śeṣa He serves Kṛṣṇa in many ways.
 
 সর্ব্বরূপে আস্বাদয়ে কৃষ্ণ-সেবানন্দ ৷  
 সেই বলরাম — গৌরসঙ্গে নিত্যানন্দ ॥ ১১ ॥
@@ -132,7 +132,7 @@ of the seventh  verse  the meaning  I make  in four verses
 yāte nityānanda-tattva jāne sarvaloka  
 by which  of Nityānanda  the truth  know  all people
 
-(12) The meaning of the seventh verse I shall explain in four verses, so that all people may know the truth of Nityānanda.[^3]
+(12) I shall explain the meaning of the seventh verse in four verses, so that all may know the truth of Nityānanda.[^3]
 
 মায়াতীতে ব্যাপিবৈকুণ্ঠলোকে  
 পূর্ণৈশ্বর্য্যে শ্রীচতুর্ব্যূহমধ্যে ৷  
@@ -208,7 +208,7 @@ in the universe  manifestation  its  by Kṛṣṇa’s  will
 eka-i svarūpa tām̐ra, nāhi dui kāya  
 one and the same  nature  its  there are not  two  bodies
 
-(19) By Kṛṣṇa’s will it is manifest within the universe, yet it remains one and the same: it has not two bodies.
+(19) By Kṛṣṇa’s will it is manifest within the universe, yet it remains one and the same: it does not have two bodies.
 
 চিন্তামণি-ভূমি, কল্পবৃক্ষময় বন ৷  
 চর্ম্মচক্ষে দেখে তাঁরে প্রপঞ্চের সম ॥ ২০ ॥
@@ -274,7 +274,7 @@ in these  three  abodes  Kṛṣṇa  wholly  of pastimes full
 nija-gaṇa lañā khele ananta samaya  
 His own  associates  taking  He plays  endless  time
 
-(25) In these three abodes Kṛṣṇa is wholly given to His pastimes; with His own associates He plays there for endless time.
+(25) In these three abodes Kṛṣṇa is wholly given to His pastimes; there He plays with His own associates without end.
 
 পরব্যোম-মধ্যে করি’ স্বরূপপ্রকাশ ৷  
 নারায়ণরূপে করেন বিবিধ বিলাস ॥ ২৬ ॥
@@ -314,7 +314,7 @@ although  only  His  play  merely  nature
 tathāpi jīvere kṛpāya kare eka karma  
 still  to the jīvas  out of mercy  He does  one  work
 
-(29) Though His nature is simply to play, yet out of mercy to the jīvas He does one work:
+(29) Though His nature is simply to play, out of mercy to the jīvas He does one work:
 
 সালোক্য-সামীপ্য-সার্ষ্টি-সারূপ্য-প্রকার ৷  
 চারি মুক্তি দিয়া করে জীবেরে নিস্তার ॥ ৩০ ॥
@@ -334,7 +334,7 @@ in Brahman  by merging  of the liberated  there  there is no  access
 vaikuṇṭha-bāhire haya tā-sabāra sthiti  
 Vaikuṇṭha  outside  is  of them all  the dwelling
 
-(31) Those liberated by merging into Brahman have no access there; they all dwell outside Vaikuṇṭha.
+(31) Those liberated by merging into Brahman have no access there; they all remain outside it.
 
 বৈকুণ্ঠ-বাহিরে এক জ্যোতির্ম্ময় মণ্ডল ৷  
 কৃষ্ণের অঙ্গের প্রভা, পরম উজ্জ্বল ॥ ৩২ ॥
@@ -378,7 +378,7 @@ fixing  that  sin  casting off
 bahavas tad gatiṁ gatāḥ  
 many  His  destination  have attained
 
-(35) “Many have fixed their minds on the Lord — some by devotion, others by desire (*kāma*), enmity, fear or affection — and, casting off the sin in those feelings, have attained Him.” (Śrīmad-Bhāgavatam, 7.1.29)[^10]
+(35) “Many have fixed their minds on the Lord — some by devotion, others by loving desire (*kāma*), enmity, fear or affection — and, casting off the sin in those feelings, have attained Him.” (Śrīmad-Bhāgavatam, 7.1.29)[^10]
 
 যদরীণাং প্রিয়াণাঞ্চ প্রাপ্যমেকমিবোদিতম্ ৷  
 তদ্ব্রহ্মকৃষ্ণয়োরৈক্যাৎ কিরণার্কোপমা-জুষোঃ ॥ ৩৬ ॥
@@ -392,7 +392,7 @@ that  of Brahman and Kṛṣṇa  from the oneness
 kiraṇārkopamā-juṣoḥ  
 like the rays and the sun  of those two
 
-(36) “That the goal of the Lord’s enemies and of His beloved ones is spoken of as if it were one is because Brahman and Kṛṣṇa are one, as the rays are one with the sun.” (Bhakti-rasāmṛta-sindhu, 1.2.278)[^11]
+(36) “The goal of the Lord’s enemies and that of His beloved ones are sometimes spoken of as one, because Brahman and Kṛṣṇa are one, as the rays are one with the sun.” (Bhakti-rasāmṛta-sindhu, 1.2.278)[^11]
 
 তৈছে পরব্যোমে নানা চিচ্ছক্তিবিলাস ৷  
 নির্ব্বিশেষ জ্যোতির্বিম্ব বাহিরে প্রকাশ ॥ ৩৭ ॥
@@ -592,7 +592,7 @@ in that  very  Causal Ocean  that  Saṅkarṣaṇa
 āpanāra eka aṁśe karena śayana  
 His own  in one  part  He makes  lying down
 
-(55) In that Causal Ocean the same Saṅkarṣaṇa lies in one part of Himself.
+(55) In that Causal Ocean the same Saṅkarṣaṇa lies in the form of one of His parts.
 
 মহৎস্রষ্টা পুরুষ, তিঁহো জগৎ-কারণ ৷  
 আদ্য-অবতার করে মায়ার দরশন ॥ ৫৬ ॥
@@ -1094,7 +1094,7 @@ a thousand  feet  hands  a thousand  eyes
 sarva-avatāra-bīja, jagat-kāraṇa  
 of all  avatāras  the seed  of the world  the cause
 
-(100–101) There He lay on Ananta as His bed. He has a thousand heads and a thousand faces, a thousand feet and hands and a thousand eyes. He is the seed of all avatāras and the cause of the world.[^27]
+(100–101) There He lay on Ananta as His bed. He has a thousand heads and a thousand faces, a thousand hands and feet and a thousand eyes. He is the seed of all avatāras and the cause of the world.[^27]
 
 তাঁর নাভিপদ্ম হৈতে উঠিল এক পদ্ম ৷  
 সেই পদ্মে হৈল ব্রহ্মার জন্ম-সদ্ম ॥ ১০২ ॥
@@ -1154,7 +1154,7 @@ such  Nārāyaṇa  of whose  part  a part
 sei prabhu nityānanda — sarva-avataṁsa  
 that  Lord  Nityānanda  of all  the crown
 
-(107) Such a Nārāyaṇa is only a part of His part: such is Lord Nityānanda, the crown of all avatāras.
+(107) Great as Nārāyaṇa is, He is only a part of a part of Lord Nityānanda, the crown of all avatāras.
 
 দশম শ্লোকের অর্থ কৈল বিবরণ ৷  
 একাদশ শ্লোকের অর্থ শুন দিয়া মন ॥ ১০৮ ॥
@@ -1250,7 +1250,7 @@ that  Viṣṇu  is  of whose  part of a part  a part
 sei prabhu nityānanda — sarva-avataṁsa  
 that  Lord  Nityānanda  of all  the crown
 
-(116) That Viṣṇu is a part of a part of His part: such is Lord Nityānanda, the crown of all avatāras.
+(116) And that Viṣṇu is a part of a part of a part of Lord Nityānanda, the crown of all avatāras.
 
 সেই বিষ্ণু ‘শেষ’ রূপে ধরেন ধরণী ৷  
 কাঁহা আছে মহী, শিরে, হেন নাহি জানি ॥ ১১৭ ॥
@@ -1310,7 +1310,7 @@ Sanaka and the others  the Bhāgavata  hear  from whose  mouth
 bhagavānera guṇa kahe, bhāse prema-sukhe  
 of Bhagavān  the qualities  He tells  He floats  in the joy of love
 
-(122) From His mouth Sanaka and the other Kumāras hear the *Bhāgavatam*. He tells of the qualities of Bhagavān and floats in the joy of love.
+(122) From His mouth Sanaka and the other Kumāras hear the *Bhāgavatam*, while He, awash in the joy of love, tells of the qualities of Bhagavān.
 
 ছত্র, পাদুকা, শয়্যা, উপাধান, বসন ৷  
 আরাম, আবাস, যজ্ঞসূত্র, সিংহাসন ॥ ১২৩ ॥
@@ -1380,7 +1380,7 @@ someone  says  Kṛṣṇa  directly  Nara-Nārāyaṇa
 keho kahe, kṛṣṇa haya sākṣāt vāmana  
 someone  says  Kṛṣṇa  is  directly  Vāmana
 
-(129) some said that Kṛṣṇa is Nara-Nārāyaṇa Himself, others that Kṛṣṇa is Vāmana Himself,
+(129) some said that Kṛṣṇa was Nara-Nārāyaṇa Himself, others that He was Vāmana Himself,
 
 কেহো কহে, কৃষ্ণ ক্ষীরোদশায়ী-অবতার ৷  
 অসম্ভব নহে, সত্য বচন সবার ॥ ১৩০ ॥
@@ -1390,7 +1390,7 @@ someone  says  Kṛṣṇa  of Kṣīrodaśāyī  an avatāra
 asambhava nahe, satya vacana sabāra  
 impossible  it is not  true  the words  of all
 
-(130) and others that Kṛṣṇa is an avatāra of Kṣīrodaśāyī. Nothing of this is impossible: the words of all are true.
+(130) and still others that He was an avatāra of Kṣīrodaśāyī. None of this is impossible: the words of all are true.
 
 কৃষ্ণ যবে অবতরে সর্ব্বাংশ-আশ্রয় ৷  
 সর্ব্বাংশ আসি’ তবে কৃষ্ণেতে মিলয় ॥ ১৩১ ॥
@@ -1410,7 +1410,7 @@ in whatever  whatever  form  knows  he  that  says
 sakala sambhave kṛṣṇe, kichu mithyā nahe  
 all  is possible  in Kṛṣṇa  nothing  false  is
 
-(132) So each speaks of Him in the form in which he knows Him. Everything is possible in Kṛṣṇa; nothing of this is false.
+(132) So each speaks of Him in the form in which he knows Him. Everything is possible in Kṛṣṇa; none of it is false.
 
 অতএব শ্রীকৃষ্ণচৈতন্য গোসাঞি ৷  
 সর্ব্ব-অবতার-লীলা করি’ সবারে দেখাই ॥ ১৩৩ ॥
@@ -1605,7 +1605,7 @@ of Rāma  the deeds  all  of suffering  the cause
 svatantra līlāya duḥkha sahena lakṣmaṇa  
 independent  in pastime  suffering  endures  Lakṣmaṇa
 
-(150) All of Rāma’s deeds brought suffering, and in His own free pastime Lakṣmaṇa bore that suffering with Him.
+(150) Everything Rāma did brought Him suffering, and Lakṣmaṇa, of His own free will, bore that suffering with Him.
 
 নিষেধ করিতে নারে, যাতে ছোট ভাই ৷  
 মৌন ধরি’ রহে লক্ষ্মণ মনে দুঃখ পাই’ ॥ ১৫১ ॥
@@ -1635,7 +1635,7 @@ Rāma  Lakṣmaṇa  of Kṛṣṇa and Rāma  particular portions
 avatāra-kāle dom̐he dom̐hāte praveśa  
 of descent  at the time  the two  into the two  entering
 
-(153) Rāma and Lakṣmaṇa are particular portions of Kṛṣṇa and Balarāma, and at the time of Their descent the two enter into the two.[^37]
+(153) Rāma and Lakṣmaṇa are particular portions of Kṛṣṇa and Balarāma, and when Kṛṣṇa and Balarāma descend, Rāma and Lakṣmaṇa enter into Them.[^37]
 
 সেই অংশ লঞা জ্যেষ্ঠ-কনিষ্ঠাভিমান ৷  
 অংশাংশী রূপে শাস্ত্রে করয়ে ব্যাখ্যান ॥ ১৫৪ ॥
@@ -1661,7 +1661,7 @@ as Kṛṣṇa  Himself  appeared  the Supreme  Person  who
 govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
 Govinda  the original  Person  Him  I  worship
 
-(155) “I worship Govinda, the original Person, who, abiding through His kalās in Rāma and other forms, brought about many avatāras in the worlds, but who Himself, the Supreme Person, appeared as Kṛṣṇa.” (Brahma-saṁhitā, 5.39)[^38]
+(155) “I worship Govinda, the original Person, who, abiding through His kalās in Rāma and other forms, manifested many avatāras in the worlds, but who Himself, the Supreme Person, appeared as Kṛṣṇa.” (Brahma-saṁhitā, 5.39)[^38]
 
 শ্রীচৈতন্য — সেই কৃষ্ণ, নিত্যানন্দ — রাম ৷  
 নিত্যানন্দ পূর্ণ করে চৈতন্যের কাম ॥ ১৫৬ ॥
@@ -1801,7 +1801,7 @@ in the courtyard  sitting (to him)  he  not  made  greeting
 tāhā dekhi’ kruddha hañā bale rāmadāsa  
 that  seeing  angry  becoming  says  Rāmadāsa
 
-(169) Rāmadāsa sat in the courtyard, but the brāhmaṇa did not greet him; seeing this, Rāmadāsa said angrily:[^41]
+(169) Rāmadāsa sat in the courtyard, but the brāhmaṇa did not greet him; seeing this, Mīnaketana said angrily:[^41]
 
 এই ত’ দ্বিতীয় সূত রোমহরষণ ৷  
 বলদেব দেখি’ যে না কৈল প্রত্যুদ্গম ॥ ১৭০ ॥
@@ -1951,7 +1951,7 @@ dark  glossy  lustre  huge  body
 sākṣāt kandarpa, yaiche mahā-malla-vīra  
 very  Kandarpa  like  a great wrestler  hero
 
-(184) His huge body had a glossy dark lustre. He was as beautiful as Kandarpa, the god of love, in person, and stood like a mighty wrestler-hero.
+(184) His huge body had a glossy dark lustre. He was as beautiful as Kandarpa, the god of love, in person, and had the bearing of a great champion wrestler.
 
 সুবলিত হস্ত, পদ, কমল-লোচন ৷  
 পট্টবস্ত্র শিরে, পট্টবস্ত্র পরিধান ॥ ১৮৫ ॥
@@ -2241,7 +2241,7 @@ with Śrī Rādhā  Lalitā  together  the rāsa  pastime
 manmatha-manmatha-rūpe yām̐hāra prakāśa  
 of Cupid  the enchanter  in the form  whose  manifestation
 
-(213) With Śrī Rādhā and Lalitā He enjoys the rāsa dance, appearing in the form that enchants even Cupid.
+(213) With Śrī Rādhā and Lalitā He dances the rāsa, appearing in a form that enchants even Cupid.
 
 তাসামাবিরভূচ্ছৌরিঃ স্ময়মানমুখাম্বুজঃ ৷  
 পীতাম্বরধরঃ স্রগ্বী সাক্ষান্মন্মথমন্মথঃ ॥ ২১৪ ॥
@@ -2275,7 +2275,7 @@ Nityānanda’s  mercy  to me  Him  showed
 śrī-rādhā-madana-mohane prabhu kari’ dila  
 Śrī Rādhā-Madanamohana  as Lord  making  gave
 
-(216) Nityānanda’s mercy showed Him to me: the Lord gave me Śrī Rādhā and Madanamohana as my Lady and Lord.
+(216) Nityānanda’s mercy showed Him to me and gave me Śrī Rādhā and Madanamohana as my Lady and Lord.
 
 মো-অধমে দিল শ্রীগোবিন্দ দরশন ৷  
 কহিবার কথা নহে অকথ্য-কথন ॥ ২১৭ ॥
@@ -2388,7 +2388,7 @@ such  that  Govinda  the Lord  I attained  from whom
 tām̐hāra caraṇa-kṛpā ke pāre varṇite  
 His  feet’s  mercy  who  can  describe
 
-(227) Who can describe the mercy of the feet of Him through whom I attained such a Lord as Govinda?
+(227) Through Him I attained such a Lord as Govinda — who can describe the mercy of His feet?
 
 বৃন্দাবনে বৈসে যত বৈষ্ণব-মণ্ডল ৷  
 কৃষ্ণনাম-পরায়ণ, পরম-মঙ্গল ॥ ২২৮ ॥
