@@ -610,6 +610,328 @@ by ‘not dark in colour’  His  it tells  yellow  colour
 
 (56) By the lustre of His body He is not dark; and by the words “not dark” the verse tells of His yellow colour.[^21]
 
+কলৌ যং বিদ্বাংসঃ স্ফুটমভিযজন্তে দ্যুতিভরা-  
+দকৃষ্ণাঙ্গং কৃষ্ণং মখবিধিভিরুৎকীর্ত্তনময়ৈঃ ৷  
+উপাস্যঞ্চ প্রাহুর্যমখিলচতুর্থাশ্রমজুষাং  
+স দেবশ্চৈতন্যাকৃতিরতিতরাং নঃ কৃপয়তু ॥ ৫৭ ॥
+
+kalau yaṁ vidvāṁsaḥ sphuṭam abhiyajante dyuti-bharād  
+in Kali  whom  the learned  clearly  worship  from the abundance of lustre  
+akṛṣṇāṅgaṁ kṛṣṇaṁ makha-vidhibhir utkīrtana-mayaiḥ  
+not dark in body  Kṛṣṇa  with rites of sacrifice  consisting of loud chanting  
+upāsyaṁ ca prāhur yam akhila-caturthāśrama-juṣāṁ  
+the worshipable  and  they declare  whom  of all  those in the fourth āśrama  
+sa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu  
+that  Lord  in the form of Caitanya  exceedingly  to us  may He be merciful
+
+(57) “May that Lord who has appeared in the form of Caitanya be ever merciful to us! In the age of Kali the learned openly worship Him with sacrifices of loud congregational chanting. He is Kṛṣṇa, yet from the abundance of His lustre His body is not dark, and they declare Him the object of worship for all who have entered the fourth āśrama.” (Stava-mālā, Second Caitanyāṣṭaka, 1)[^22]
+
+প্রত্যক্ষ তাঁহার তপ্তকাঞ্চনের দ্যুতি ৷  
+যাঁহার ছটায় নাশে অজ্ঞান-তমস্ততি ॥ ৫৮ ॥
+
+pratyakṣa tām̐hāra tapta-kāñcanera dyuti  
+visible  His  of molten  gold  the lustre  
+yām̐hāra chaṭāya nāśe ajñāna-tamastati  
+by whose  radiance  is destroyed  of ignorance  of the darkness  the expanse
+
+(58) His lustre of molten gold is plain to see, and its radiance destroys the whole expanse of the darkness of ignorance.
+
+জীবের কল্মষ-তমো নাশ করিবারে ৷  
+অঙ্গ-উপাঙ্গ-নাম নানা অস্ত্র ধরে ॥ ৫৯ ॥
+
+jīvera kalmaṣa-tamo nāśa karibāre  
+of the living beings  of sin  the darkness  destruction  in order to make  
+aṅga-upāṅga-nāma nānā astra dhare  
+aṅga,  upāṅga,  the name —  various  weapons  He holds
+
+(59) To destroy the darkness of the living beings’ sins, He bears many weapons — His intimate companions (*aṅga*), His devotees (*upāṅga*) and the holy name.
+
+ভক্তির বিরোধী কর্ম্ম, ধর্ম্ম বা অধর্ম্ম ৷  
+তাহার ‘কল্মষ’ নাম, সেই মহাতমঃ ॥ ৬০ ॥
+
+bhaktira virodhī karma, dharma vā adharma  
+to devotion  opposed  action,  dharma  or  adharma  
+tāhāra ‘kalmaṣa’ nāma, sei mahā-tamaḥ  
+its  ‘sin’  the name,  that  the great darkness
+
+(60) Any action opposed to devotion, be it righteous or unrighteous, is called ‘sin’ (*kalmaṣa*). That is the great darkness.
+
+বাহু তুলি’ হরি বলি’ প্রেমদৃষ্ট্যে চায় ৷  
+করিয়া কল্মষ নাশ প্রেমেতে ভাসায় ॥ ৬১ ॥
+
+bāhu tuli’ hari bali’ prema-dṛṣṭye cāya  
+arms  raising,  ‘Hari’  saying,  with a loving glance  He looks  
+kariyā kalmaṣa nāśa premete bhāsāya  
+making  of sin  destruction  in love  He floods
+
+(61) Raising His arms and calling “Hari!”, He casts His loving glance on all; He destroys their sins and floods them with love.
+
+স্মিতালোকঃ শোকং হরতি জগতাং যস্য পরিতো  
+গিরান্তু প্রারম্ভঃ কুশলপটলীং পল্লবয়তি ৷  
+পদালম্ভঃ কং বা প্রণয়তি ন হি প্রেমনিবহং  
+স দেবশ্চৈতন্যাকৃতিরতিতরাং নঃ কৃপয়তু ॥ ৬২ ॥
+
+smitālokaḥ śokaṁ harati jagatāṁ yasya parito  
+the smiling glance  sorrow  removes  of the worlds  whose  entirely  
+girāṁ tu prārambhaḥ kuśala-paṭalīṁ pallavayati  
+of words  but  the beginning  of blessings  the row  makes burst into leaf  
+padālambhaḥ kaṁ vā praṇayati na hi prema-nivahaṁ  
+of the feet  the touch  what  indeed  brings  not  indeed  of love  the flood  
+sa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu  
+that  Lord  in the form of Caitanya  exceedingly  to us  may He be merciful
+
+(62) “His smiling glance wholly takes away the sorrow of the worlds; His very first words make a whole row of blessings burst into leaf; and what flood of love does the touch of His feet not bring? May that Lord who has appeared in the form of Caitanya be ever merciful to us!” (Stava-mālā, Second Caitanyāṣṭaka, 8)
+
+শ্রীঅঙ্গ, শ্রীমুখ যেই করে দরশন ৷  
+তার পাপক্ষয় হয়, পায় প্রেমধন ॥ ৬৩ ॥
+
+śrī-aṅga, śrī-mukha yei kare daraśana  
+beautiful  body,  beautiful  face  whoever  makes  the seeing  
+tāra pāpa-kṣaya haya, pāya prema-dhana  
+his  of sins  destruction  happens,  he attains  of love  the treasure
+
+(63) Whoever sees His beautiful form and face is freed from sin and attains the treasure of love.
+
+অন্য অবতারে সব সৈন্য-শস্ত্র সঙ্গে ৷  
+চৈতন্য-কৃষ্ণের সৈন্য অঙ্গ-উপাঙ্গে ॥ ৬৪ ॥
+
+anya avatāre saba sainya-śastra saṅge  
+in other  avatāras  all  armies  weapons  with  
+caitanya-kṛṣṇera sainya aṅga-upāṅge  
+of Caitanya-Kṛṣṇa  the army —  aṅgas  and upāṅgas
+
+(64) In other avatāras the Lord came with armies and weapons, but the army of Caitanya-Kṛṣṇa is His intimate companions and devotees (*aṅga* and *upāṅga*).
+
+সদোপাস্যঃ শ্রীমান্ ধৃতমনুজকায়ৈঃ প্রণয়িতাং  
+বহদ্ভির্গীর্বাণৈর্গিরিশপরমেষ্ঠিপ্রভৃতিভিঃ ৷  
+স্বভক্তেভ্যঃ শুদ্ধাং নিজভজনমুদ্রামুপদিশন্  
+স চৈতন্যঃ কিং মে পুনরপি দৃশোর্যাস্যতি পদম্ ॥ ৬৫ ॥
+
+sadopāsyaḥ śrīmān dhṛta-manuja-kāyaiḥ praṇayitāṁ  
+always  worshipped  the beautiful one  by those who have taken  human  bodies  love  
+vahadbhir gīr-vāṇair giriśa-parameṣṭhi-prabhṛtibhiḥ  
+bearing  by the gods  Śiva  Brahmā  headed by  
+sva-bhaktebhyaḥ śuddhāṁ nija-bhajana-mudrām upadiśan  
+to His own devotees  pure  His own  worship  the way  teaching  
+sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam  
+that  Caitanya  will  my  again  even  of the eyes  come  to the path
+
+(65) “He is ever worshipped by the gods headed by Śiva and Brahmā, who, full of love for Him, have taken human bodies; and He teaches His own devotees the pure way of worshipping Him. Will that beautiful Caitanya come once again before my eyes?” (Stava-mālā, First Caitanyāṣṭaka, 1)[^23]
+
+আঙ্গোপাঙ্গ অস্ত্র করে স্বকার্য্যসাধন ৷  
+‘অঙ্গ’ শব্দের অর্থ আর শুন দিয়া মন ॥ ৬৬ ॥
+
+āṅgopāṅga astra kare sva-kārya-sādhana  
+aṅgas and upāṅgas —  weapons —  make  of His own  work  the accomplishment  
+‘aṅga’ śabdera artha āra śuna diyā mana  
+‘aṅga’  of the word  the meaning  another  hear  giving  the mind
+
+(66) These weapons, His intimate companions and devotees, accomplish His work. Now hear with attention another meaning of the word *aṅga*.
+
+‘অঙ্গ’ শব্দে অংশ কহে শাস্ত্র-পরমাণ ৷  
+অঙ্গের অবয়ব ‘উপাঙ্গ’ ব্যাখ্যান ॥ ৬৭ ॥
+
+‘aṅga’ śabde aṁśa kahe śāstra-paramāṇa  
+‘aṅga’  by the word  a portion  says  of scripture  the evidence  
+aṅgera avayava ‘upāṅga’ vyākhyāna  
+of the aṅga  a part  ‘upāṅga’  is explained
+
+(67) The evidence of scripture says that the word *aṅga* means a portion (*aṁśa*), and a part of that portion is called *upāṅga*.
+
+নারায়ণস্ত্বং ন হি সর্ব্বদেহিনা-  
+মাত্মাস্যধীশাখিললোকসাক্ষী ৷  
+নারায়ণোঽঙ্গং নরভূ-জলায়না-  
+ত্তচ্চাপি সত্যং ন তবৈব মায়া ॥ ৬৮ ॥
+
+nārāyaṇas tvaṁ na hi sarva-dehinām  
+Nārāyaṇa  You  not  indeed  of all  the embodied  
+ātmāsy adhīśākhila-loka-sākṣī  
+the Self  You are  O Lord  of all  worlds  the witness  
+nārāyaṇo ’ṅgaṁ nara-bhū-jalāyanāt  
+Nārāyaṇa  (Your) limb  from Nara  born  waters  abode  
+tac cāpi satyaṁ na tavaiva māyā  
+that  also  true  not  Your  indeed  māyā
+
+(68) “Are You not Nārāyaṇa? For You are the Self of all embodied beings, O Lord, and the witness of all the worlds. Nārāyaṇa is Your portion — so called because His abode is the waters born of Nara; and that too is true, not Your māyā.” (Śrīmad-Bhāgavatam, 10.14.14)[^24]
+
+জলশায়ী অন্তর্য্যামী যেই নারায়ণ ৷  
+সেহো তোমার অংশ, তুমি মূল নারায়ণ ॥ ৬৯ ॥
+
+jala-śāyī antar-yāmī yei nārāyaṇa  
+on the waters  lying  the Indweller  who  Nārāyaṇa  
+seho tomāra aṁśa, tumi mūla nārāyaṇa  
+He  Your  portion,  You  the original  Nārāyaṇa
+
+(69) The Nārāyaṇa who lies on the waters and dwells within every heart is Your portion (*aṁśa*); You are the original Nārāyaṇa.[^25]
+
+‘অঙ্গ’-শব্দে অংশ কহে, সেহো সত্য হয় ৷  
+মায়াকার্য্য নহে — সব চিদানন্দময় ॥ ৭০ ॥
+
+‘aṅga’-śabde aṁśa kahe, seho satya haya  
+‘aṅga’  by the word  a portion  it says,  that  real  is  
+māyā-kārya nahe — saba cid-ānanda-maya  
+of māyā  a product  not —  all  of consciousness and bliss  full
+
+(70) By the word *aṅga* a portion (*aṁśa*) is meant, and that portion is real. It is not a product of māyā: all of Them are full of consciousness and bliss.[^26]
+
+অদ্বৈত, নিত্যানন্দ — চৈতন্যের দুই অঙ্গ ৷  
+অঙ্গের অবয়বগণ কহিয়ে উপাঙ্গ ॥ ৭১ ॥
+
+advaita, nityānanda — caitanyera dui aṅga  
+Advaita,  Nityānanda —  of Caitanya  two  aṅgas  
+aṅgera avayava-gaṇa kahiye upāṅga  
+of the aṅgas  the parts  all  I call  upāṅgas
+
+(71) Advaita and Nityānanda are the two *aṅgas* of Caitanya, and the parts of these *aṅgas* I call *upāṅgas*.
+
+অঙ্গোপাঙ্গ তীক্ষ্ণ অস্ত্র প্রভুর সহিতে ৷  
+সেই সব অস্ত্র হয় পাষণ্ড দলিতে ॥ ৭২ ॥
+
+aṅgopāṅga tīkṣṇa astra prabhura sahite  
+aṅgas and upāṅgas  sharp  weapons  the Lord  with  
+sei saba astra haya pāṣaṇḍa dalite  
+those  all  weapons  are  the unbelievers  to crush
+
+(72) These *aṅgas* and *upāṅgas*, ever with the Lord, are His sharp weapons for crushing the unbelievers.[^27]
+
+নিত্যানন্দ গোসাঞি সাক্ষাৎ হলধর ৷  
+অদ্বৈত আচার্য্য গোসাঞি সাক্ষাৎ ঈশ্বর ॥ ৭৩ ॥
+
+nityānanda gosāñi sākṣāt haladhara  
+Nityānanda  Gosāñi  directly  the Bearer of the plough  
+advaita ācārya gosāñi sākṣāt īśvara  
+Advaita  Ācārya  Gosāñi  directly  the Lord
+
+(73) Nityānanda Gosāñi is Haladhara, the bearer of the plough, Himself, and Advaita Ācārya Gosāñi is the Lord (*Īśvara*) Himself.[^28]
+
+শ্রীবাসাদি পারিষদ সৈন্য সঙ্গে লঞা ৷  
+দুই সেনাপতি বুলেন কীর্ত্তন করিয়া ॥ ৭৪ ॥
+
+śrīvāsādi pāriṣada sainya saṅge lañā  
+Śrīvāsa and others  of the associates  the army  with  taking  
+dui senā-pati bulena kīrtana kariyā  
+two  generals  wander  kīrtana  performing
+
+(74) Taking with them the army of associates headed by Śrīvāsa, the two generals go everywhere performing kīrtana.
+
+পাষণ্ডদলনবানা নিত্যানন্দ রায় ৷  
+আচার্য্য-হুঙ্কারে পাপ-পাষণ্ডী পলায় ॥ ৭৫ ॥
+
+pāṣaṇḍa-dalana-vānā nityānanda rāya  
+of the unbelievers  of the crushing  the banner (bearing)  Nityānanda  Rāya  
+ācārya-huṅkāre pāpa-pāṣaṇḍī palāya  
+at the Ācārya’s  roar  sins  unbelievers  flee
+
+(75) Nityānanda Rāya bears the banner of the crusher of unbelievers, and at the roar of the Ācārya sins and unbelievers flee.[^29]
+
+সঙ্কীর্ত্তন-প্রবর্ত্তক শ্রীকৃষ্ণচৈতন্য ৷  
+সঙ্কীর্ত্তন-যজ্ঞে তাঁরে ভজে, সেই ধন্য ॥ ৭৬ ॥
+
+saṅkīrtana-pravartaka śrī-kṛṣṇa-caitanya  
+of saṅkīrtana  the founder  Śrī Kṛṣṇa Caitanya  
+saṅkīrtana-yajñe tām̐re bhaje, sei dhanya  
+by the sacrifice of saṅkīrtana  Him  worships,  he  blessed
+
+(76) Śrī Kṛṣṇa Caitanya is the founder of saṅkīrtana, and blessed is he who worships Him by the sacrifice of saṅkīrtana.
+
+সেই ত’ সুমেধা, আর কুবুদ্ধি সংসার ৷  
+সর্ব্ব-যজ্ঞ হৈতে কৃষ্ণনামযজ্ঞ সার ॥ ৭৭ ॥
+
+sei ta’ sumedhā, āra kubuddhi saṁsāra  
+he  indeed  intelligent,  but  ill-witted  the world  
+sarva-yajña haite kṛṣṇa-nāma-yajña sāra  
+all  sacrifices  than  of Kṛṣṇa’s name  the sacrifice  the essence
+
+(77) He alone is truly intelligent; the rest of the world is ill-witted. Of all sacrifices the sacrifice of Kṛṣṇa’s name is the essence.
+
+কোটি অশ্বমেধ এক কৃষ্ণ নাম সম ৷  
+যেই কহে, সে পাষণ্ডী, দণ্ডে তারে যম ॥ ৭৮ ॥
+
+koṭi aśvamedha eka kṛṣṇa nāma sama  
+ten million  aśvamedhas  to one  Kṛṣṇa’s  name  equal  
+yei kahe, se pāṣaṇḍī, daṇḍe tāre yama  
+whoever  says,  he  an unbeliever,  punishes  him  Yama
+
+(78) Whoever says that ten million horse sacrifices (*aśvamedha*) equal one name of Kṛṣṇa is an unbeliever, and Yama punishes him.[^30]
+
+‘ভাগবতসন্দর্ভ’-গ্রন্থের মঙ্গলাচরণে ৷  
+এ-শ্লোক জীবগোসাঞি করিয়াছেন ব্যাখ্যানে ॥ ৭৯ ॥
+
+‘bhāgavata-sandarbha’-granthera maṅgalācaraṇe  
+‘Bhāgavata-sandarbha’  of the book  in the auspicious invocation  
+e-śloka jīva-gosāñi kariyāchena vyākhyāne  
+this  verse  Jīva  Gosāñi  has made  in the explanation
+
+(79) Śrī Jīva Gosāñi has explained this verse of the *Bhāgavatam* (3.51) in the auspicious invocation of his book *Bhāgavata-sandarbha*.[^31]
+
+অন্তঃকৃষ্ণং বহির্গৌরং দর্শিতাঙ্গাদিবৈভবম্ ৷  
+কলৌ সঙ্কীর্ত্তনাদ্যৈঃ স্ম কৃষ্ণচৈতন্যমাশ্রিতাঃ ॥ ৮০ ॥
+
+antaḥ kṛṣṇaṁ bahir gauraṁ  
+inwardly  Kṛṣṇa  outwardly  golden  
+darśitāṅgādi-vaibhavam  
+who has displayed  of the aṅgas and the rest  the splendour  
+kalau saṅkīrtanādyaiḥ sma  
+in Kali  by saṅkīrtana and the like  indeed  
+kṛṣṇa-caitanyam āśritāḥ  
+of Kṛṣṇa Caitanya  having taken shelter (we)
+
+(80) “Inwardly He is Kṛṣṇa, outwardly He is golden, and He has displayed the splendour of His *aṅgas* and other associates. In this age of Kali we have taken shelter of Him, Śrī Kṛṣṇa Caitanya, through saṅkīrtana and the other limbs of devotion.” (Tattva-sandarbha, 2)[^32]
+
+উপপুরাণেহ শুনি শ্রীকৃষ্ণবচন ৷  
+কৃপা করি’ ব্যাস প্রতি করিয়াছেন কথন ॥ ৮১ ॥
+
+upa-purāṇeha śuni śrī-kṛṣṇa-vacana  
+in the Upapurāṇas  also  we hear  Śrī Kṛṣṇa’s  words  
+kṛpā kari’ vyāsa prati kariyāchena kathana  
+mercy  showing  Vyāsa  to  He has made  the speech
+
+(81) In the Upapurāṇas too we hear the words of Śrī Kṛṣṇa, which He mercifully spoke to Vyāsa:
+
+অহমেব ক্বচিদ্ব্রহ্মন্ সন্ন্যাসাশ্রমমাশ্রিতঃ ৷  
+হরিভক্তিং গ্রাহয়ামি কলৌ পাপহতান্নরান্ ॥ ৮২ ॥
+
+aham eva kvacid brahman  
+I  alone  at some time  O brāhmaṇa  
+sannyāsāśramam āśritaḥ  
+of sannyāsa  the order  having taken  
+hari-bhaktiṁ grāhayāmi  
+to Hari  devotion  I make accept  
+kalau pāpa-hatān narān  
+in Kali  by sin  struck down  people
+
+(82) “O brāhmaṇa, at some time in the age of Kali I Myself shall take the order of sannyāsa and bring the people struck down by sin to accept devotion to Hari.” (Upapurāṇa)[^33]
+
+ভাগবত, ভারতশাস্ত্র, আগম, পুরাণ ৷  
+চৈতন্য-কৃষ্ণ-অবতার-প্রকট প্রমাণ ॥ ৮৩ ॥
+
+bhāgavata, bhārata-śāstra, āgama, purāṇa  
+the Bhāgavata,  the Bhārata scripture,  the Āgamas,  the Purāṇas  
+caitanya-kṛṣṇa-avatāra-prakaṭa pramāṇa  
+of Caitanya-Kṛṣṇa’s  descent  manifest  proof
+
+(83) The *Bhāgavatam*, the *Mahābhārata*, the Āgamas and the Purāṇas give clear proof of the descent of Caitanya-Kṛṣṇa.[^34]
+
+প্রত্যক্ষে দেখহ নানা প্রকট প্রভাব ৷  
+অলৌকিক কর্ম্ম, অলৌকিক অনুভাব ॥ ৮৪ ॥
+
+pratyakṣe dekhaha nānā prakaṭa prabhāva  
+directly  see  various  manifest  powers  
+alaukika karma, alaukika anubhāva  
+extraordinary  deeds,  extraordinary  signs of ecstasy
+
+(84) See for yourselves His many manifest powers — His extraordinary deeds and the extraordinary signs of His love.
+
+দেখিয়া না দেখে যত অভক্তের গণ ৷  
+উলূকে না দেখে যেন সূর্য্যের কিরণ ॥ ৮৫ ॥
+
+dekhiyā nā dekhe yata abhaktera gaṇa  
+seeing  not  see  all  of the non-devotees  the crowd  
+ulūke nā dekhe yena sūryera kiraṇa  
+the owl  not  sees  as  of the sun  the rays
+
+(85) Yet the non-devotees see without seeing, as the owl does not see the rays of the sun.[^35]
+
 ---
 
 [^1]: The same verse as Ādi 1.4. *Anubhāṣya*: with this verse Śrī Rūpa Gosvāmī, blessing the world, opens the drama *Vidagdha-mādhava*, and the author, his follower, follows the guru he holds dear. *Unnatojjvala-rasa* is “the exalted *ujjvala-rasa*, that is, *śṛṅgāra-rasa*”; *sva-bhakti-śrī* is “the beauty of prema for Him”; *sphuratu* — “may He reveal Himself”.
@@ -653,3 +975,31 @@ by ‘not dark in colour’  His  it tells  yellow  colour
 [^20]: *Anubhāṣya*: *kṛṣṇa-varṇam* — “who sings of Kṛṣṇa”, or “in whom are the two syllables ‘Kṛṣ-ṇa’” (3.53); *tviṣākṛṣṇam* — not dark by lustre, that is, golden: of the white, red and yellow (3.36) the third remains; the *aṅgas* are Nityānanda and Advaita, the *upāṅgas* Śrīvāsa and the other devotees, the weapons the holy name and the like, the associates Gadādhara, Svarūpa Dāmodara and others; *saṅkīrtana* is many people singing together the names of Hari and His glories. That He is Kṛṣṇa Himself the author shows below (3.79–80).
 
 [^21]: As in the Gauḍīya Maṭha edition: «অকৃষ্ণবরণে তাঁর কহে» (in other copies «তাঁর» is missing).
+
+[^22]: *Amṛta-pravāha-bhāṣya*: through the overwhelming lustre of Śrī Rādhikā’s heart, Śrī Kṛṣṇa has become not dark but golden; He alone is worshipped by the *paramahaṁsas* — those who have entered the fourth āśrama, sannyāsa.
+
+[^23]: *Anubhāṣya*: the gods headed by Śiva and Brahmā took human bodies to nourish their love for Him; “His own devotees” are Svarūpa, Rāmānanda and His other intimates; the “pure way of worship” is free from other desires and uncovered by karma and jñāna.
+
+[^24]: The same verse as Ādi 2.30 (see the note there on the three meanings of the name Nārāyaṇa). Here the author cites it for the word *aṅgam*, “part”: Nārāyaṇa is Your *aṅga*, that is, Your *aṁśa* (3.67, 3.69).
+
+[^25]: In the edition the verse is introduced by the words «অস্যার্থঃ» — “its meaning (of verse 3.68) is this”.
+
+[^26]: *Amṛta-pravāha-bhāṣya*: *aṅga* here means the portions (*aṁśa*), the three Puruṣas headed by Kāraṇodakaśāyī; They are full of consciousness and bliss, the true Īśvaras, not anything made by māyā; and so Advaita and Nityānanda are the Lord’s two *aṅgas*. *Anubhāṣya*: in the realm of māyā a thing divided by māyā becomes a part; but Viṣṇu-tattva is not subject to māyā, and Viṣṇu, though a portion, is not divided in substance — like a lamp lit from a lamp. All the Viṣṇu forms are masters of māyā, and she has no power over Them; it is otherwise with separated parts such as Brahmā and Śiva, who are capable of transformation, as milk is of turning into curd.
+
+[^27]: *Anubhāṣya*: the unbelievers (*pāṣaṇḍa*) are those who imagine Viṣṇu, the master of māyā, to be equal to Śiva and others who are subject to māyā, and who, not realising the eternity of the Lord’s pastimes, take eternal devotion to be mere transient activity; to dispel their folly Viṣṇu and His own people labour.
+
+[^28]: *Amṛta-pravāha-bhāṣya*: that is, Advaita is directly the avatāra of Mahā-Viṣṇu.
+
+[^29]: *Amṛta-pravāha-bhāṣya*: *vānā* — a sign, a banner: an instrument like trumpets and drums by which the crushing of the unbelievers is proclaimed.
+
+[^30]: *Anubhāṣya*: to consider the name equal to pious rites — vows, renunciation, fire sacrifices — is the eighth offence against the holy name, to be avoided in every way. “The gift of ten million cows at an eclipse, a whole kalpa’s dwelling at Prayāga on the Gaṅgā, ten thousand sacrifices, a gift of gold as great as Mount Meru — none of these equals a hundredth part of the glorification of Govinda.”
+
+[^31]: *Anubhāṣya*: the verse “*antaḥ kṛṣṇam…*” (3.80) is the second verse of the invocation of the *Ṣaṭ-sandarbha* (*Bhāgavata-sandarbha*) and is simply an explanation of Karabhājana’s verse (3.51); its meaning is unfolded at the beginning of the *Sarva-saṁvādinī*.
+
+[^32]: *Anubhāṣya*: *antaḥ kṛṣṇam* — within, in His heart, He is Kṛṣṇa, but the mood of His heart, the heart of the Nāgara, is covered by the mood of Rādhā’s heart; *bahir gauram* — outwardly, by the radiance of His body, He is golden; *darśitāṅgādi-vaibhavam* — who has displayed the splendour of His *aṅgas*, *upāṅgas*, weapons and associates. The source is given as in the edition: *Tattva-sandarbha*, the first of the six *Sandarbhas*, verse 2.
+
+[^33]: *Anubhāṣya*: “at some time” (*kvacit*) — in the first *sandhyā* of the Kali-yuga of the twenty-eighth *catur-yuga* of the Vaivasvata manvantara; sannyāsa is the fourth āśrama.
+
+[^34]: *Amṛta-pravāha-bhāṣya*: in the *Bhāgavatam* — “*kṛṣṇa-varṇaṁ tviṣākṛṣṇam*”, “*āsan varṇās trayaḥ*”, “*channaḥ kalau*” (“hidden in Kali”); in the *Mahābhārata* — “*sambhavāmi yuge yuge*”, “*sannyāsa-kṛc chamaḥ śāntaḥ*”; in the Vedas — “*mahān prabhur vai puruṣaḥ*”, “*yadā paśyaḥ paśyate rukma-varṇam*”; in the tantras that follow the Āgamas — “*māyāpure bhaviṣyāmi śacī-sutaḥ*”; in the Upapurāṇa — “*aham eva…*”: thus it is proved that Caitanya-Kṛṣṇa is the direct descent of the Lord.
+
+[^35]: *Amṛta-pravāha-bhāṣya*: *ulūka* — the owl, blind by day; not seeing the sun’s rays, it cannot admit that the sun exists.
