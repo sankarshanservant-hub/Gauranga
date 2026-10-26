@@ -55,6 +55,7 @@
   kind: prophecy
   authority: C
   notes: "Часть речи Рамы (nvm-14-002). 14.27 — по англ. изд. ШЧСМ 2015 г."
+  divergence: "По НДМ 14.27 Вишнуприя сама делает золотое Божество Господа; по Мурари 4.14.8 Господь оставляет ей Своё Божество."
   themes: [separation, deities]
   event: ev-vishnupriya-deity
   verses:
