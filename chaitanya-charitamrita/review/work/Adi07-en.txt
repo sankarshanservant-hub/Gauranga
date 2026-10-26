@@ -66,13 +66,13 @@ fn: The edition’s heading: “Though He is the Lord of all, Śrī Kṛṣṇa 
 ## 11
 w: of Kṛṣṇa’s sweetness  one  wondrous  property
 w: Himself  to taste  Kṛṣṇa  takes on  a devotee’s sentiment
-tr: Kṛṣṇa’s sweetness has one wondrous property: to taste Himself, Kṛṣṇa takes on the sentiment of His own devotee.
+tr: Kṛṣṇa’s sweetness has one wondrous property: to taste Himself, He takes on the sentiment of His own devotee.
 fn: The edition’s heading: “To taste His own sweetness, Kṛṣṇa descends as Gaura — ‘in the form of a devotee’.” *Anubhāṣya*: Kṛṣṇa, the abode of all sweetness, though He is Himself the object of love (*viṣaya*), takes on the sentiment of its subject (*āśraya*) and tastes the joy of serving Himself; yet Śrī Caitanya is not merely a form of the *āśraya*: He is the original Lord Himself (*svayaṁ-rūpa*).
 
 ## 12
 w: therefore  a devotee’s sentiment  takes  Caitanya  Gosāñi
 w: ‘devotee in essence’  His  Nityānanda  the brother
-tr: Therefore Caitanya Gosāñi takes on the sentiment of a devotee, and His brother Nityānanda is the devotee in essence (*bhakta-svarūpa*).
+tr: That is why Caitanya Gosāñi appears in the mood of a devotee, and His brother Nityānanda is the devotee in essence (*bhakta-svarūpa*).
 
 ## 13
 w: ‘the devotee-avatāra’  His  the Ācārya  Gosāñi
@@ -130,7 +130,7 @@ tr: They make no distinction between the fit and the unfit, nor between a proper
 ## 24
 w: plundering  eating  giving  the storehouse  they empty
 w: wondrous  storehouse  prema  a hundredfold  grows
-tr: Plundering, tasting and giving, they empty the storehouse — yet this storehouse is wondrous: the prema in it grows a hundredfold.
+tr: Plundering, tasting and giving, they empty the storehouse; yet so wondrous is this storehouse that the prema in it grows a hundredfold.
 
 ## 25
 w: surged  of prema the flood  on all sides  spreads
@@ -140,7 +140,7 @@ tr: The flood of prema surged and spread on every side, drowning everyone — wo
 ## 26
 w: the good  the wicked  the lame  the dull  the blind
 w: in the flood of prema  drowned  of the world  the people
-tr: The good and the wicked, the lame, the dull and the blind — the flood of prema drowned all the people of the world.
+tr: The good and the wicked, the lame, the dull and the blind — the flood of prema engulfed all the people of the world.
 
 ## 27
 w: the world  drowned  of the jīvas  became  the seed  destroyed
@@ -197,7 +197,7 @@ tr: He forgave their offences, and they sank into the waters of prema. Who can e
 ## 38
 w: all  to deliver  the Lord  the avatāra of mercy
 w: all  to deliver  He uses  stratagems  boundless
-tr: The Lord is the avatāra of mercy who came to deliver everyone, and to deliver everyone He uses boundless stratagems.
+tr: The Lord is the avatāra of mercy who came to deliver everyone, and to that end He devises countless stratagems.
 
 ## 39
 w: then  His own  devotees  He made  all  mlecchas  and others
@@ -228,12 +228,12 @@ tr: Hearing all this, the Lord smiled within, and, paying no heed, He spoke with
 ## 44
 w: disregard  making  He made  to Mathurā  going
 w: Mathurā  having seen  again  He made  return
-tr: Leaving them unheeded, He went on to Mathurā, and after seeing Mathurā He came back again.
+tr: Disregarding them, He went on to Mathurā, and after seeing it He came back again.
 
 ## 45
 w: in Kāśī  the scribe  the śūdra  Śrī Candraśekhara
 w: his  in the house  stayed  the Lord  the independent  Īśvara
-tr: In Kāśī lived the scribe Śrī Candraśekhara, a śūdra; in his house the Lord stayed, for He is the independent Lord.
+tr: In Kāśī lived the scribe Śrī Candraśekhara, a śūdra, and the Lord, supremely independent, stayed in his house.
 fn: *Amṛta-pravāha-bhāṣya*: Candraśekhara was a *vaidya*, and so by varṇa a śūdra. It is not proper for a sannyāsī to spend the night in a śūdra’s house, but Mahāprabhu stayed with him out of mercy, for He is the independent Lord: before His mercy brāhmaṇa and śūdra are equal.
 
 ## 46
@@ -390,7 +390,7 @@ tr: In the age of Kali there is no dharma other than the name; the name is the e
 ## 75
 w: thus  saying  one  verse  he taught  Me
 w: in the throat  keeping  this  verse  make  reflection
-tr: Saying this, he taught Me a verse: ‘Keep this verse on your lips and reflect on it.’
+tr: Saying this, he taught Me a verse: ‘Keep this verse on Your lips and reflect on it.’
 
 ## 76
 w: of Hari  the name  of Hari  the name
@@ -423,7 +423,7 @@ tr: I have gone mad; there is no composure left in My mind.’ Thinking this, I 
 ## 81
 w: what  mantra  you gave  Gosāñi  what  its  power
 w: chanting  chanting  the mantra  made  mad
-tr: ‘What mantra have you given Me, Gosāñi? What power it has! Chanting and chanting, the mantra has made Me mad.
+tr: ‘What mantra have you given Me, Gosāñi? What power it has! Chanting it again and again, I have gone mad.
 
 ## 82
 w: it makes laugh  makes dance  Me  makes  weep
@@ -433,13 +433,13 @@ tr: It makes Me laugh, it makes Me dance, it makes Me weep.’ Hearing this, My 
 ## 83
 w: of the great mantra of Kṛṣṇa’s name  this  indeed  the nature
 w: whoever  chants  his  for Kṛṣṇa  arises  bhāva
-tr: ‘Such is the nature of the great mantra, Kṛṣṇa’s name: whoever chants it, in him bhāva for Kṛṣṇa awakens.
+tr: ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens bhāva for Kṛṣṇa in whoever chants it.
 fn: *Anubhāṣya* (on 7.74): “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare — these sixteen names destroy the impurity of Kali; no higher means is to be found in all the Vedas” (*Kali-santaraṇa Upaniṣad*). On 7.83: the mantras of the Pañcarātra are called simply mantras, while the names of the Lord are called the *mahā-mantra*.
 
 ## 84
 w: for Kṛṣṇa  prema  the supreme  goal of life
 w: before which  like straw  the four  goals of life
-tr: Prema for Kṛṣṇa is the supreme goal of life; before it the four goals of life are like straw.
+tr: Prema for Kṛṣṇa is the supreme aim of human life; before it the four other goals are like straw.
 
 ## 85
 w: the fifth  goal of life  an ocean of the nectar of the bliss of prema
@@ -460,7 +460,7 @@ tr: It is the nature of prema to stir both mind and body and to awaken a burning
 ## 88
 w: by prema’s  nature  the devotee  laughs  weeps  sings
 w: mad  becoming  dances  here and there  runs
-tr: By the nature of prema the devotee laughs, weeps and sings; as if mad, he dances and runs here and there.
+tr: Moved by prema, the devotee laughs, weeps and sings; as if mad, he dances and runs here and there.
 fn: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of bhāva and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
 
 ## 89–90
@@ -520,7 +520,7 @@ tr: “O Guru of the world, now that I am immersed in the pure ocean of joy that
 ## 99
 w: the Lord’s  sweet words  hearing  of the sannyāsīs  the company
 w: their hearts  turning  went  they speak  sweet  words
-tr: Hearing the Lord’s sweet words, the sannyāsīs had a change of heart, and they spoke to Him sweetly:
+tr: Hearing the Lord’s sweet words, the sannyāsīs had a change of heart, and they answered Him with gentle words:
 
 ## 100
 w: whatever  You have said  You  all  true  is
@@ -546,7 +546,7 @@ tr: At this all the sannyāsīs said, “We see You as Nārāyaṇa Himself.
 ## 104
 w: Your  words  hearing  are soothed  the ears
 w: Your  sweetness  seeing  are soothed  the eyes
-tr: Hearing Your words, our ears are soothed; seeing Your sweetness, our eyes are soothed.
+tr: Your words soothe our ears, and the sight of Your sweetness soothes our eyes.
 
 ## 105
 w: by Your  influence  of all  joyful  the minds
@@ -635,7 +635,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Viṣṇu’s potency is threefold: the superi
 ## 120
 w: such  the jīva-truth  taking  writing  the supreme truth
 w: covering  he made  the highest  of Īśvara  greatness
-tr: Taking such a jīva and declaring it to be the Supreme Truth, he covered the highest greatness of the Lord.
+tr: Yet the Ācārya took such a jīva and declared it to be the Supreme Truth, and so he hid the supreme greatness of the Lord.
 fn: The edition’s heading: “To take the Lord, like the jīva, as subject to ignorance is also Māyāvāda.” *Amṛta-pravāha-bhāṣya*: the jīva is a particular potency of the Lord; if it is established not as a particle of consciousness (*aṇu-caitanya*) but as Brahman, the doctrine is bound to be mistaken.
 
 ## 121
@@ -647,19 +647,19 @@ fn: The edition’s heading: “The *Brahma-sūtra* accepts *śakti-pariṇāma-
 ## 122
 w: in the transformation-doctrine  Īśvara  becomes  changeable
 w: thus  saying  ‘appearance’-doctrine  establishment  which  he made
-tr: He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.
+tr: He argued that under the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.
 fn: *Amṛta-pravāha-bhāṣya*: Śaṅkara argued that by *pariṇāma-vāda* the Lord would have to be called changeable, and that to accept it would be to call Vyāsa mistaken; so he established *vivarta-vāda* (in his commentary on *Brahma-sūtra* 2.1.14). But in the sūtras the transformation is the work of the Lord’s inconceivable potency, acting by His will alone.
 
 ## 123
 w: in reality  the transformation-doctrine  that  alone  the authority
 w: in the body  the sense of self  is  of vivarta  the place
-tr: In truth the doctrine of transformation alone is authoritative; *vivarta*, illusion, has its place only where one takes the body for the self.
+tr: In truth the doctrine of transformation alone is authoritative; illusion lies in taking the body for the self.
 fn: *Amṛta-pravāha-bhāṣya*: *vivarta* is taking a thing for what it is not, “like a rope for a snake”. The jīva is a pure particle of spirit, and when, embodied as a human being, it takes this body for its self, that is *vivarta*. To transfer this fault to the world and to the jīva, calling them false, is groundless: both the world and the jīva are real, coming from the real Brahman.
 
 ## 124
 w: with inconceivable potency  endowed  Śrī Bhagavān
 w: by His will  in the form of the world  undergoes  transformation
-tr: Śrī Bhagavān, possessed of inconceivable potency, by His will undergoes transformation into the form of the world.
+tr: Śrī Bhagavān possesses inconceivable potency, and by His own will He is transformed into the world.
 fn: The edition’s heading to 7.127: “Though His potency is transformed, He Himself remains unchanged.” *Anubhāṣya* (after Śrī Jīva Gosvāmī’s *Paramātma-sandarbha*, 58): it is not the essence (*svarūpa*) of the Supreme that is transformed but His potency called *dravya*, which is the expansion of His essence; He Himself, by His inconceivable potency, remains unchanged, like the *cintāmaṇi* or the lodestone, which, without changing, produce jewels or move iron. The world therefore is not false: what is false is only the identification of the self with the body.
 
 ## 125
@@ -686,7 +686,7 @@ fn: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of
 ## 129
 w: the shelter of all  of Īśvara  makes  praṇava  indication
 w: ‘tat tvam asi’  the utterance  is  of the Veda  one  part
-tr: The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* concerns only one part of the Veda.
+tr: The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* is one particular statement of the Veda.
 fn: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
 
 ## 130
@@ -708,7 +708,7 @@ tr: The Veda is self-evident, the crest-jewel of all proofs; interpreted by the 
 ## 133
 w: in this  way  in every sūtra  the natural meaning  abandoning
 w: the secondary meaning  explanation  he makes  all  imagining
-tr: So in every sūtra he abandoned the natural meaning and explained it by a secondary one, imagining everything himself.”
+tr: So in every sūtra he abandoned the natural meaning and explained it by a secondary one, inventing it all himself.”
 
 ## 134
 w: in this  way  in every sūtra  He makes  fault-finding
@@ -724,7 +724,7 @@ fn: *Amṛta-pravāha-bhāṣya*: “O Śrī Kṛṣṇa Caitanya, the reasoning
 ## 136
 w: by the Ācārya imagined  the meaning  this  all  we know
 w: of the sampradāya  out of deference  the truth  this  we accept
-tr: We all know that the meaning is the Ācārya’s own invention; we accept it only out of loyalty to our sampradāya.
+tr: We all know that the meaning is the Ācārya’s own invention; yet out of deference to our sampradāya we accept it as the truth.
 
 ## 137
 w: the primary meaning  explanation  make  let us see  Your  power
@@ -789,7 +789,7 @@ tr: Hearing all the sūtras explained in this way, all the sannyāsīs humbly sa
 ## 148
 w: made of the Vedas  the form  You  directly  Nārāyaṇa
 w: forgive  the offence  before  which  we made  blasphemy
-tr: “You are the Vedas embodied — Nārāyaṇa Himself. Forgive the offence of our blasphemy before.”
+tr: “You are the Vedas embodied — Nārāyaṇa Himself. Forgive us for having blasphemed You before.”
 
 ## 149
 w: that  from  of the sannyāsīs  turned  went  the minds
@@ -799,7 +799,7 @@ tr: From that time the sannyāsīs’ hearts were changed, and they always took 
 ## 150
 w: in this  way  of them all  forgiving  the offences
 w: to all  Kṛṣṇa’s name  He made  grace
-tr: So, forgiving all their offences, He blessed them all with Kṛṣṇa’s name.
+tr: So He forgave their offences and graced them all with Kṛṣṇa’s name.
 
 ## 151
 w: then  all  sannyāsīs  Mahāprabhu  taking
@@ -824,7 +824,7 @@ tr: All the sannyāsīs came to see the Lord, and all Vārāṇasī sang His pra
 ## 155
 w: to the city of Vārāṇasī  came  Śrī Kṛṣṇa Caitanya
 w: with the city  all the people  became  greatly blessed
-tr: Śrī Kṛṣṇa Caitanya had come to the city of Vārāṇasī, and the city and all its people were greatly blessed.
+tr: Śrī Kṛṣṇa Caitanya had come to Vārāṇasī, and the city and all its people were greatly blessed.
 
 ## 156
 w: hundreds of thousands  of people  come  the Lord  to see
@@ -865,7 +865,7 @@ fn: *Amṛta-pravāha-bhāṣya*: “later” — see *Madhya-līlā*, chapter 2
 ## 163
 w: in this  form of the Pañca-tattva  Śrī Kṛṣṇa Caitanya
 w: Kṛṣṇa’s name and prema  giving  the world  made  blessed
-tr: Thus, in the form of the Pañca-tattva, Śrī Kṛṣṇa Caitanya gave Kṛṣṇa’s name and love for Him and blessed the whole world.
+tr: Thus, in the form of the Pañca-tattva, Śrī Kṛṣṇa Caitanya blessed the whole world, giving everyone Kṛṣṇa’s name and love for Him.
 
 ## 164
 w: to Mathurā  He sent  Rūpa and Sanātana

@@ -120,7 +120,7 @@ of Kṛṣṇa’s sweetness  one  wondrous  property
 āpanā āsvādite kṛṣṇa kare bhakta-bhāva  
 Himself  to taste  Kṛṣṇa  takes on  a devotee’s sentiment
 
-(11) Kṛṣṇa’s sweetness has one wondrous property: to taste Himself, Kṛṣṇa takes on the sentiment of His own devotee.[^6]
+(11) Kṛṣṇa’s sweetness has one wondrous property: to taste Himself, He takes on the sentiment of His own devotee.[^6]
 
 ইথে ভক্তভাব ধরে চৈতন্য গোসাঞি ৷  
 ‘ভক্তস্বরূপ’ তাঁর নিত্যানন্দ-ভাই ॥ ১২ ॥
@@ -130,7 +130,7 @@ therefore  a devotee’s sentiment  takes  Caitanya  Gosāñi
 ‘bhakta-svarūpa’ tām̐ra nityānanda-bhāi  
 ‘devotee in essence’  His  Nityānanda  the brother
 
-(12) Therefore Caitanya Gosāñi takes on the sentiment of a devotee, and His brother Nityānanda is the devotee in essence (*bhakta-svarūpa*).
+(12) That is why Caitanya Gosāñi appears in the mood of a devotee, and His brother Nityānanda is the devotee in essence (*bhakta-svarūpa*).
 
 ‘ভক্ত-অবতার’ তাঁর আচার্য্য-গোসাঞি ৷  
 এই তিন তত্ত্ব সবে প্রভু করি’ গাই ॥ ১৩ ॥
@@ -244,7 +244,7 @@ plundering  eating  giving  the storehouse  they empty
 āścarya bhāṇḍāra, prema śata-guṇa bāḍe  
 wondrous  storehouse  prema  a hundredfold  grows
 
-(24) Plundering, tasting and giving, they empty the storehouse — yet this storehouse is wondrous: the prema in it grows a hundredfold.
+(24) Plundering, tasting and giving, they empty the storehouse; yet so wondrous is this storehouse that the prema in it grows a hundredfold.
 
 উছলিল প্রেমবন্যা চৌদিকে বেড়ায় ৷  
 স্ত্রী, বৃদ্ধ, বালক, যুবা, সবারে ডুবায় ॥ ২৫ ॥
@@ -264,7 +264,7 @@ the good  the wicked  the lame  the dull  the blind
 prema-vanyāya ḍubāila jagatera jana  
 in the flood of prema  drowned  of the world  the people
 
-(26) The good and the wicked, the lame, the dull and the blind — the flood of prema drowned all the people of the world.
+(26) The good and the wicked, the lame, the dull and the blind — the flood of prema engulfed all the people of the world.
 
 জগৎ ডুবিল, জীবের হইল বীজ নাশ ৷  
 তাহা দেখি’ পাঁচ জনের পরম উল্লাস ॥ ২৭ ॥
@@ -378,7 +378,7 @@ all  to deliver  the Lord  the avatāra of mercy
 sabā nistārite kare cāturī apāra  
 all  to deliver  He uses  stratagems  boundless
 
-(38) The Lord is the avatāra of mercy who came to deliver everyone, and to deliver everyone He uses boundless stratagems.
+(38) The Lord is the avatāra of mercy who came to deliver everyone, and to that end He devises countless stratagems.
 
 তবে নিজ ভক্ত কৈল যত ম্লেচ্ছ আদি ৷  
 সবে এড়াইল মাত্র কাশীর মায়াবাদী ॥ ৩৯ ॥
@@ -438,7 +438,7 @@ disregard  making  He made  to Mathurā  going
 mathurā dekhiyā punaḥ kaila āgamana  
 Mathurā  having seen  again  He made  return
 
-(44) Leaving them unheeded, He went on to Mathurā, and after seeing Mathurā He came back again.
+(44) Disregarding them, He went on to Mathurā, and after seeing it He came back again.
 
 কাশীতে লেখক শূদ্র-শ্রীচন্দ্রশেখর ৷  
 তাঁর ঘরে রহিলা প্রভু স্বতন্ত্র ঈশ্বর ॥ ৪৫ ॥
@@ -448,7 +448,7 @@ in Kāśī  the scribe  the śūdra  Śrī Candraśekhara
 tām̐ra ghare rahilā prabhu svatantra īśvara  
 his  in the house  stayed  the Lord  the independent  Īśvara
 
-(45) In Kāśī lived the scribe Śrī Candraśekhara, a śūdra; in his house the Lord stayed, for He is the independent Lord.[^15]
+(45) In Kāśī lived the scribe Śrī Candraśekhara, a śūdra, and the Lord, supremely independent, stayed in his house.[^15]
 
 তপন-মিশ্রের ঘরে ভিক্ষা-নির্ব্বাহণ ৷  
 সন্ন্যাসীর সঙ্গে নাহি মানে নিমন্ত্রণ ॥ ৪৬ ॥
@@ -748,7 +748,7 @@ thus  saying  one  verse  he taught  Me
 kaṇṭhe kari’ ei śloka kariha vicāre  
 in the throat  keeping  this  verse  make  reflection
 
-(75) Saying this, he taught Me a verse: ‘Keep this verse on your lips and reflect on it.’
+(75) Saying this, he taught Me a verse: ‘Keep this verse on Your lips and reflect on it.’
 
 হরের্নাম হরের্নাম হরের্নামৈব কেবলম্ ৷  
 কলৌ নাস্ত্যেব নাস্ত্যেব নাস্ত্যেব গতিরন্যথা ॥ ৭৬ ॥
@@ -812,7 +812,7 @@ what  mantra  you gave  Gosāñi  what  its  power
 japite japite mantra karila pāgala  
 chanting  chanting  the mantra  made  mad
 
-(81) ‘What mantra have you given Me, Gosāñi? What power it has! Chanting and chanting, the mantra has made Me mad.
+(81) ‘What mantra have you given Me, Gosāñi? What power it has! Chanting it again and again, I have gone mad.
 
 হাসায়, নাচায়, মোরে করায় ক্রন্দন ৷  
 এত শুনি’ গুরু মোরে বলিলা বচন ॥ ৮২ ॥
@@ -832,7 +832,7 @@ of the great mantra of Kṛṣṇa’s name  this  indeed  the nature
 yei jape, tāra kṛṣṇe upajaye bhāva  
 whoever  chants  his  for Kṛṣṇa  arises  bhāva
 
-(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: whoever chants it, in him bhāva for Kṛṣṇa awakens.[^23]
+(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens bhāva for Kṛṣṇa in whoever chants it.[^23]
 
 কৃষ্ণবিষয়ক প্রেমা — পরম পুরুষার্থ ৷  
 যার আগে তৃণতুল্য চারি পুরুষার্থ ॥ ৮৪ ॥
@@ -842,7 +842,7 @@ for Kṛṣṇa  prema  the supreme  goal of life
 yāra āge tṛṇa-tulya cāri puruṣārtha  
 before which  like straw  the four  goals of life
 
-(84) Prema for Kṛṣṇa is the supreme goal of life; before it the four goals of life are like straw.
+(84) Prema for Kṛṣṇa is the supreme aim of human life; before it the four other goals are like straw.
 
 পঞ্চম পুরুষার্থ — প্রেমানন্দামৃতসিন্ধু ৷  
 ব্রহ্মাদি আনন্দ যার নহে এক বিন্দু ॥ ৮৫ ॥
@@ -882,7 +882,7 @@ by prema’s  nature  the devotee  laughs  weeps  sings
 unmatta haiyā nāce, iti-uti dhāya  
 mad  becoming  dances  here and there  runs
 
-(88) By the nature of prema the devotee laughs, weeps and sings; as if mad, he dances and runs here and there.[^25]
+(88) Moved by prema, the devotee laughs, weeps and sings; as if mad, he dances and runs here and there.[^25]
 
 স্বেদ, কম্প, রোমাঞ্চাশ্রু, গদ্গদ, বৈবর্ণ্য ৷  
 উন্মাদ, বিষাদ, ধৈর্য্য, গর্ব্ব, হর্ষ, দৈন্য ॥ ৮৯ ॥
@@ -999,7 +999,7 @@ the Lord’s  sweet words  hearing  of the sannyāsīs  the company
 citta phiri’ gela, kahe madhura vacana  
 their hearts  turning  went  they speak  sweet  words
 
-(99) Hearing the Lord’s sweet words, the sannyāsīs had a change of heart, and they spoke to Him sweetly:
+(99) Hearing the Lord’s sweet words, the sannyāsīs had a change of heart, and they answered Him with gentle words:
 
 যে কিছু কহিলে তুমি, সর্ব্ব সত্য হয় ৷  
 কৃষ্ণপ্রেমা সেই পায়, যার ভাগ্যোদয় ॥ ১০০ ॥
@@ -1049,7 +1049,7 @@ Your  words  hearing  are soothed  the ears
 tomāra mādhurī dekhi’ juḍāya nayana  
 Your  sweetness  seeing  are soothed  the eyes
 
-(104) Hearing Your words, our ears are soothed; seeing Your sweetness, our eyes are soothed.
+(104) Your words soothe our ears, and the sight of Your sweetness soothes our eyes.
 
 তোমার প্রভাবে সবার আনন্দিত মন ৷  
 কভু অসঙ্গত নহে তোমার বচন ॥ ১০৫ ॥
@@ -1217,7 +1217,7 @@ such  the jīva-truth  taking  writing  the supreme truth
 ācchanna karila śreṣṭha īśvara-mahattva  
 covering  he made  the highest  of Īśvara  greatness
 
-(120) Taking such a jīva and declaring it to be the Supreme Truth, he covered the highest greatness of the Lord.[^35]
+(120) Yet the Ācārya took such a jīva and declared it to be the Supreme Truth, and so he hid the supreme greatness of the Lord.[^35]
 
 ব্যাসের সূত্রেতে কহে ‘পরিণাম’-বাদ ৷  
 ব্যাস ভ্রান্ত — বলি’ তার উঠাইল বিবাদ ॥ ১২১ ॥
@@ -1237,7 +1237,7 @@ in the transformation-doctrine  Īśvara  becomes  changeable
 eta kahi’ ‘vivarta’-vāda sthāpanā ye kari  
 thus  saying  ‘appearance’-doctrine  establishment  which  he made
 
-(122) He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.[^37]
+(122) He argued that under the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.[^37]
 
 বস্তুতঃ পরিণাম-বাদ — সেই সে প্রমাণ ৷  
 দেহে আত্মবুদ্ধি — হয় বিবর্ত্তের স্থান ॥ ১২৩ ॥
@@ -1247,7 +1247,7 @@ in reality  the transformation-doctrine  that  alone  the authority
 dehe ātma-buddhi — haya vivartera sthāna  
 in the body  the sense of self  is  of vivarta  the place
 
-(123) In truth the doctrine of transformation alone is authoritative; *vivarta*, illusion, has its place only where one takes the body for the self.[^38]
+(123) In truth the doctrine of transformation alone is authoritative; illusion lies in taking the body for the self.[^38]
 
 অবিচিন্ত্য-শক্তিযুক্ত শ্রীভগবান্ ৷  
 ইচ্ছায় জগৎরূপে পায় পরিণাম ॥ ১২৪ ॥
@@ -1257,7 +1257,7 @@ with inconceivable potency  endowed  Śrī Bhagavān
 icchāya jagat-rūpe pāya pariṇāma  
 by His will  in the form of the world  undergoes  transformation
 
-(124) Śrī Bhagavān, possessed of inconceivable potency, by His will undergoes transformation into the form of the world.[^39]
+(124) Śrī Bhagavān possesses inconceivable potency, and by His own will He is transformed into the world.[^39]
 
 তথাপি অচিন্ত্যশক্ত্যে হয় অবিকারী ৷  
 প্রাকৃত চিন্তামণি তাহে দৃষ্টান্ত ধরি ॥ ১২৫ ॥
@@ -1307,7 +1307,7 @@ the shelter of all  of Īśvara  makes  praṇava  indication
 ‘tat tvam asi’ vākya haya vedera eka deśa  
 ‘tat tvam asi’  the utterance  is  of the Veda  one  part
 
-(129) The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* concerns only one part of the Veda.[^41]
+(129) The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* is one particular statement of the Veda.[^41]
 
 ‘প্রণব’ মহাবাক্য — তাহা করি’ আচ্ছাদন ৷  
 মহাবাক্যে করি’ ‘তত্ত্বমসি’র স্থাপন ॥ ১৩০ ॥
@@ -1347,7 +1347,7 @@ in this  way  in every sūtra  the natural meaning  abandoning
 gauṇārtha vyākhyā kare saba kalpanā kariyā  
 the secondary meaning  explanation  he makes  all  imagining
 
-(133) So in every sūtra he abandoned the natural meaning and explained it by a secondary one, imagining everything himself.”
+(133) So in every sūtra he abandoned the natural meaning and explained it by a secondary one, inventing it all himself.”
 
 এইমতে প্রতিসূত্রে করেন দূষণ ৷  
 শুনি’ চমৎকার হৈল সন্ন্যাসীর গণ ॥ ১৩৪ ॥
@@ -1377,7 +1377,7 @@ by the Ācārya imagined  the meaning  this  all  we know
 sampradāya-anurodhe tattva ihā māni  
 of the sampradāya  out of deference  the truth  this  we accept
 
-(136) We all know that the meaning is the Ācārya’s own invention; we accept it only out of loyalty to our sampradāya.
+(136) We all know that the meaning is the Ācārya’s own invention; yet out of deference to our sampradāya we accept it as the truth.
 
 মুখ্যার্থ ব্যাখ্যা কর, দেখি তোমার বল ৷’  
 মুখ্যার্থে লাগা’ল প্রভু সূত্রসকল ॥ ১৩৭ ॥
@@ -1497,7 +1497,7 @@ made of the Vedas  the form  You  directly  Nārāyaṇa
 kṣama aparādha, — pūrve ye kailum̐ nindana  
 forgive  the offence  before  which  we made  blasphemy
 
-(148) “You are the Vedas embodied — Nārāyaṇa Himself. Forgive the offence of our blasphemy before.”
+(148) “You are the Vedas embodied — Nārāyaṇa Himself. Forgive us for having blasphemed You before.”
 
 সেই হৈতে সন্ন্যাসীর ফিরে গেল মন ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ নাম সদা করয়ে গ্রহণ ॥ ১৪৯ ॥
@@ -1517,7 +1517,7 @@ in this  way  of them all  forgiving  the offences
 sabākāre kṛṣṇa-nāma karila prasāda  
 to all  Kṛṣṇa’s name  He made  grace
 
-(150) So, forgiving all their offences, He blessed them all with Kṛṣṇa’s name.
+(150) So He forgave their offences and graced them all with Kṛṣṇa’s name.
 
 তবে সকল সন্ন্যাসী মহাপ্রভুকে লৈয়া ৷  
 ভিক্ষা করিলেন সবে, মধ্যে বসাইয়া ॥ ১৫১ ॥
@@ -1567,7 +1567,7 @@ to the city of Vārāṇasī  came  Śrī Kṛṣṇa Caitanya
 purī-saha sarva-loka haila mahā-dhanya  
 with the city  all the people  became  greatly blessed
 
-(155) Śrī Kṛṣṇa Caitanya had come to the city of Vārāṇasī, and the city and all its people were greatly blessed.
+(155) Śrī Kṛṣṇa Caitanya had come to Vārāṇasī, and the city and all its people were greatly blessed.
 
 লক্ষ লক্ষ লোক আইসে প্রভুকে দেখিতে ৷  
 মহাভিড় হৈল দ্বারে, নারে প্রবেশিতে ॥ ১৫৬ ॥
@@ -1647,7 +1647,7 @@ in this  form of the Pañca-tattva  Śrī Kṛṣṇa Caitanya
 kṛṣṇa-nāma-prema diyā viśva kaila dhanya  
 Kṛṣṇa’s name and prema  giving  the world  made  blessed
 
-(163) Thus, in the form of the Pañca-tattva, Śrī Kṛṣṇa Caitanya gave Kṛṣṇa’s name and love for Him and blessed the whole world.
+(163) Thus, in the form of the Pañca-tattva, Śrī Kṛṣṇa Caitanya blessed the whole world, giving everyone Kṛṣṇa’s name and love for Him.
 
 মথুরাতে পাঠাইল রূপ-সনাতন ৷  
 দুই সেনাপতি কৈল ভক্তি প্রচারণ ॥ ১৬৪ ॥
