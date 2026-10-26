@@ -657,3 +657,304 @@
   event: ev-nvm-parikrama-champahatti
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/11.md", from: "149", to: "154"}
+
+# --- Глава 12. Ритудвипа ---
+- id: nvm-12-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 12, 2–5"
+  file: "navadvipa-dhama-mahatmya/ru/12.md"
+  period: P14
+  order: 42.121
+  title: "Из Чампахати в Ратупур и Ритудвипу; мечта Ванинатхи о Майяпуре"
+  summary: "Наутро преданные с именами Гауры и Нитьянанды покидают Чампахати; Ванинатха идёт рядом с Нитьянандой, мечтая когда-нибудь вместе с Ним прийти к дому Шри Чайтаньи в Майяпуре; в Ритудвипе Нитьянанда указывает на склоняющиеся деревья, ветер, цветы и пчёл."
+  persons: ["@nityananda", "@jiva-gosvami", "@vaninatha-champahatti"]
+  places: ["#champahatti", "#ratupur", "#ritudvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-ritudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "2", to: "5"}
+
+- id: nvm-12-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 12, 6–12"
+  file: "navadvipa-dhama-mahatmya/ru/12.md"
+  period: P14
+  order: 42.122
+  title: "Нитьянанда в бхаве Баларамы: «Где Кришна, Субала и Шридама?» — обморок от разлуки"
+  summary: "Охваченный бхавой Баларамы, Нитьянанда требует пастуший рог, ищет Кришну и друзей; когда преданные напоминают, что Чайтанья принял санньясу и ушёл в Нилачалу, Он падает с криком «О Канай, брат Мой!» и лишается чувств; полтора часа не приходит в Себя от имени Кришны и пробуждается лишь от имён Гауранги."
+  persons: ["@nityananda", "@krishna", "@subala", "@shridama", "@mahaprabhu"]
+  places: ["#ritudvipa"]
+  kind: lila
+  authority: B
+  themes: [ecstasy, krishna-lila, separation]
+  bhava: [balarama]
+  event: ev-nvm-nityananda-balarama-bhava-ritudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "6", to: "12"}
+
+- id: nvm-12-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 12, 12–15"
+  file: "navadvipa-dhama-mahatmya/ru/12.md"
+  period: P07
+  order: 122.7
+  title: "Радха-кунда Ритудвипы: здесь Гаура вёл послеполуденный киртан"
+  summary: "Очнувшись, Нитьянанда восклицает: это Радха-кунда, где после полудня Шри Чайтанья проводил киртан с друзьями; шесть времён года сходятся здесь, служа киртану; Шьяма-кунда, рощи сакхи; здесь Господь дарил каждому любовь к Богу, и живущий здесь достигнет премы."
+  persons: ["@nityananda", "@mahaprabhu"]
+  places: ["#radha-kunda-navadvipa", "#ritudvipa"]
+  kind: lila
+  authority: B
+  notes: "Упоминание. Стих 13 в изд. 2001 г. отсутствует; переведён по англ. изд. ШЧСМ 2015 г. (сноска 12-1)."
+  themes: [kirtan, krishna-lila]
+  event: ev-nvm-gaura-kirtan-radha-kunda-ritudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "12", to: "15"}
+
+- id: nvm-12-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 12, 16–17"
+  file: "navadvipa-dhama-mahatmya/ru/12.md"
+  period: P14
+  order: 42.1211
+  title: "Ночь в Ритудвипе; с пляской — к Видьянагаре"
+  summary: "Преданные проводят ночь в Ритудвипе, воспевая имя Гауранги, а наутро Нитьянанда, пускаясь в пляс, ведёт их к Видьянагаре."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#ritudvipa", "#vidyanagara-bengal"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage, kirtan]
+  event: ev-nvm-parikrama-ritudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/12.md", from: "16", to: "17"}
+
+# --- Глава 13. Ритудвипа и Джахнудвипа ---
+- id: nvm-13-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 2–6"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P00
+  order: 526.1
+  title: "Навадвипа-лотос в потопе; Матсья приносит Веды в Видьянагару"
+  summary: "В Видьянагаре Нитьянанда объясняет: при гибели вселенной Навадвипа, приняв форму восьмилепесткового лотоса, плавает на водах, и в ней находят убежище аватары и их спутники; Матсья-аватара, спасая Веды, принесёт их в Видьянагару — отсюда имя «город знания»."
+  persons: ["@nityananda", "@jiva-gosvami", "@matsya"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial]
+  event: ev-nvm-matsya-vedas-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "2", to: "6"}
+
+- id: nvm-13-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 7–10"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P00
+  order: 526.2
+  title: "Брахма в Видьянагаре: из его уст рождается Сарасвати"
+  summary: "Здесь Господь явил милость Брахме: устрашённый пустым космосом, Брахма начал славить Господа, и с его языка родилась богиня Сарасвати, с помощью которой он прекрасно восславил Господа."
+  persons: ["@brahma", "@sarasvati-devi"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial]
+  event: ev-nvm-brahma-sarasvati-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "7", to: "10"}
+
+- id: nvm-13-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 11–23"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P00
+  order: 526.3
+  title: "Все знания в Видьянагаре: Вальмики, Дханвантари, Капила, Вьяса, Панчаратра"
+  summary: "Майя у Вираджи набрасывает сеть трёх гун, и мудрецы с трудом побеждают её, изучая шестьдесят четыре отрасли знания; все они вечно пребывают в Видьянагаре: здесь Вальмики по милости Нарады получил «Рамаяну», Дханвантари — аюрведу, Вишвамитра — дханурведу; Шаунака декламировал мантры, Шива толковал тантру, из уст Брахмы явились Веды; Капила, Гаутама, Канада, Патанджали и Джаймини создали свои даршаны, Вьяса — Пураны, пятеро риши во главе с Нарадой — Панчаратру."
+  persons: ["@valmiki", "@narada", "@dhanvantari", "@vishvamitra", "@shaunaka", "@shiva", "@brahma", "@kapila", "@gautama-rishi", "@kanada", "@patanjali", "@jaimini", "@vyasa"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [learning]
+  teaching: [maya, scripture]
+  event: ev-nvm-sciences-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "11", to: "23"}
+
+- id: nvm-13-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 24–28"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P00
+  order: 526.4
+  title: "Олицетворённые Упанишады поклоняются Гауре; обещание родиться Его спутниками"
+  summary: "Издревле олицетворённые Упанишады поклоняются здесь Шри Чайтанье; невидимый, Он говорит им: вы осквернены учением о бесформенном Абсолюте и как шрути не признаёте Меня, но, родившись Моими спутниками, увидите Мои игры и станете воспевать Господа с качествами и образом; ошеломлённые, они скрываются здесь до Его прихода."
+  persons: ["@upanishads-personified", "@mahaprabhu"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [revelation, celestial]
+  teaching: [vedanta, gaura-tattva]
+  event: ev-nvm-upanishads-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "24", to: "28"}
+
+- id: nvm-13-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 29–38"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P01
+  order: 26
+  title: "Брихаспати рождается Сарвабхаумой; школа в Видьянагаре и уход в Пури"
+  summary: "Прослышав о грядущих подвигах учёности Гауры, Брихаспати, гуру полубогов, рождается Васудевой Сарвабхаумой и открывает в Видьянагаре школу; боясь увязнуть в сухом знании и забыть Шри Чайтанью, ещё до Его рождения оставляет учеников и Надию, надеясь, что Господь Сам приведёт его к Себе, и в Пури становится влиятельным наставником безличностной школы."
+  persons: ["@brihaspati", "@sarvabhauma", "@mahaprabhu"]
+  places: ["#vidyanagara-bengal", "#ritudvipa", "#puri"]
+  kind: lila
+  authority: B
+  notes: "Отождествление Сарвабхаумы с Брихаспати — ср. ГГД (у Кави-карнапуры); то, что Сарвабхаума уходит из Надии ещё до рождения Господа, — по НДМ."
+  themes: [learning]
+  event: ev-nvm-brihaspati-sarvabhauma-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "30–33", to: "38"}
+
+- id: nvm-13-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 39–42"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P05
+  order: 44.5
+  title: "Нимай-пандит побеждает учеников Сарвабхаумы в Видьянагаре"
+  summary: "Под маской логика Нимай-пандит побеждал всех философов Навадвипы; придя в Видьянагару совсем юным учеником, Он вызвал на спор последователей Сарвабхаумы и победил их логикой и доводами, так что они бежали; слушающий об этом избавляется от неведения."
+  persons: ["@mahaprabhu", "@sarvabhauma"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: lila
+  authority: B
+  themes: [learning]
+  bhava: [teacher]
+  event: ev-nvm-nimai-vidyanagara-debate
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "39", to: "42"}
+
+- id: nvm-13-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 43–51"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P14
+  order: 42.131
+  title: "Сомнение Дживы: зачем в дхаме логика? — Логика и знание здесь служат бхакти"
+  summary: "Джива в экстазе спрашивает, как неблагоприятные логика и анализ оказались в обители Господа; Нитьянанда, обняв его, отвечает: здесь они лишены независимости и служат бхакти, которая здесь богиня, а карма и гьяна — её слуги; лишь злонравные искажают писания, а чистые преданные видят в них повсюду наставление о чистой преданности Кришне."
+  persons: ["@jiva-gosvami", "@nityananda"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: teaching
+  authority: B
+  themes: [teaching]
+  teaching: [bhakti-supremacy, scripture]
+  event: ev-nvm-parikrama-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "43", to: "51"}
+
+- id: nvm-13-008
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 52–58"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P14
+  order: 42.1311
+  title: "Праудха-майя, служанка Чайтаньи: ослепляет оскорбителей вайшнавов, очищает предавшихся"
+  summary: "Правящее божество Видьянагары — Праудха-майя, вечная служанка Чайтаньи; как Маха-майя она ввергает ненавистников вайшнавов в страдания кармы, а как Праудха-майя смывает грехи предавшихся; завистливый к преданным, изучающий здесь мирское знание, не получит премы — его знание лишь тень истинного."
+  persons: ["@nityananda", "@jiva-gosvami", "@praudha-maya"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: teaching
+  authority: B
+  notes: "Маха-майя и Праудха-майя здесь — служащая Господу энергия; Господь не подвластен майе."
+  themes: [teaching, offense]
+  teaching: [maya, vaishnava]
+  event: ev-nvm-parikrama-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "52", to: "58"}
+
+- id: nvm-13-009
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 59–60"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P14
+  order: 42.132
+  title: "Нитьянанда предрекает Дживе его писания"
+  summary: "Нитьянанда говорит: по милости Шри Чайтаньи Джива откроет людям все эти истины в форме священных писаний; затем ведёт его к обители Джахну."
+  persons: ["@nityananda", "@jiva-gosvami", "@mahaprabhu"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: prophecy
+  authority: B
+  themes: [teaching]
+  event: ev-nvm-nityananda-predicts-jiva-books
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "59", to: "60"}
+
+- id: nvm-13-010
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 61–62"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P14
+  order: 42.133
+  title: "Приход в Джахнудвипу — Бхадравану"
+  summary: "Придя в уединённую обитель Джахну Муни, Нитьянанда говорит Дживе, что это Джахнудвипа, иначе — Бхадравана."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#jahnudvipa", "#jannagar"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-jahnudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "61", to: "62"}
+
+- id: nvm-13-011
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 63–69"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P00
+  order: 526.5
+  title: "Джахну Муни выпивает Гангу; Бхагиратха; Шри Чайтанья посещает Джахну"
+  summary: "Подвижнику Джахну Муни здесь явился Шри Чайтанья; когда его медный сосуд унесла Ганга, Джахну выпил её с ладони; царь Бхагиратха, низводивший Гангу ради предков, несколько дней умилостивлял мудреца, и тот выпустил реку — отсюда имя Джахнави."
+  persons: ["@jahnu", "@mahaprabhu", "@bhagiratha", "@ganga-devi"]
+  places: ["#jannagar", "#jahnudvipa", "#ganga"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial, revelation]
+  event: ev-nvm-jahnu-ganga
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "63", to: "69"}
+
+- id: nvm-13-012
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 70–74"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P00
+  order: 526.6
+  title: "Бхишма у Джахну Муни постигает чистую преданность"
+  summary: "Бхишма, сын Ганги, долго гостит у Джахну Муни и здесь постигает высшее знание, которое затем передаёт Юдхиштхире на Курукшетре; благодаря жизни в Навадвипе он постиг чистое преданное служение и признан одним из величайших вайшнавов."
+  persons: ["@bhishma", "@jahnu", "@yudhishthira"]
+  places: ["#jannagar", "#jahnudvipa", "#bhishma-tila"]
+  kind: pre-advent
+  authority: B
+  themes: [teaching]
+  teaching: [bhakti-supremacy, vaishnava]
+  event: ev-nvm-bhishma-jahnu
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "70", to: "74"}
+
+- id: nvm-13-013
+  source: navadvipa-mahatmya
+  ref: "Гл. 13, 75–76"
+  file: "navadvipa-dhama-mahatmya/ru/13.md"
+  period: P14
+  order: 42.1331
+  title: "Ночлег в доме преданного; утром — к Модадрумадвипе"
+  summary: "Нитьянанда со спутниками ночует в доме преданного и ранним утром направляется к Модадрумадвипе."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#jahnudvipa", "#modadrumadvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-jahnudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/13.md", from: "75", to: "76"}
