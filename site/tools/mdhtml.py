@@ -17,7 +17,7 @@ IAST = re.compile('[āīūṛṝḷṣśṇṅñṭḍḥṁṃẏ]')
 CYR_DIACR = re.compile('[̀-ͯ]|[ӣӯ]')
 FN_REF = re.compile(r'\[\^([^\]]+)\]')
 FN_DEF = re.compile(r'^\[\^([^\]]+)\]:\s?(.*)$')
-NUM = re.compile(r'^(?:>\s*)?\*\*([0-9][0-9.:a-z+–-]*?)\.\*\*\s*')
+NUM = re.compile(r'^(?:>\s*)?\*\*([0-9][0-9.:a-zа-я+–-]*?)\.\*\*\s*')
 HEAD = re.compile(r'^(#{1,6})\s+(.*)$')
 LABELS_WBW = ('**Пословно:**', '*Пословно:*', '**Word-for-word:**', '*Word for word:*', '*Word-for-word:*',
               '**Word for word:**', '*Word-for-word*:', '*Пословно*:')
@@ -139,7 +139,7 @@ def render(md, fnmap_out=None, lang='ru'):
             if curi: items.append(' '.join(curi))
             out.append('<ul class="l-text">' + ''.join(f'<li>{inline(i, fnmap)}</li>' for i in items) + '</ul>')
             para = []; return
-        lone = re.match(r'^\*\*([0-9][0-9.:a-z+–-]*?)\.\*\*\s*$', '\n'.join(para).strip())
+        lone = re.match(r'^\*\*([0-9][0-9.:a-zа-я+–-]*?)\.\*\*\s*$', '\n'.join(para).strip())
         if lone:
             n = lone.group(1)
             if n not in seen_v:

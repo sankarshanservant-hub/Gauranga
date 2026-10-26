@@ -87,7 +87,7 @@ FULL = {
     'padas': 'Padas-{}-full.md',
 }
 
-NUM_RE = re.compile(r'^(?:>\s*)?\*\*([0-9][0-9.:a-z+]*?)\.\*\*\s*(.*)$')
+NUM_RE = re.compile(r'^(?:>\s*)?\*\*([0-9][0-9.:a-zа-я+]*?)\.\*\*\s*(.*)$')   # «51а» — и кириллицей
 PLAIN_NUM_RE = re.compile(r'^(\d+[a-z]?)\.\s+(.*)$')
 FN_REF = re.compile(r'\[\^([^\]]+)\]')
 FN_DEF = re.compile(r'^\[\^([^\]]+)\]:\s?(.*)$')
@@ -285,7 +285,7 @@ def para_starts(rel):
                 break
             if ln.strip() and not prev.strip():
                 m = NUM_RE.match(ln)
-                out.append((i + 1, m.group(1) if m else None))
+                out.append((i + 1, m.group(1).replace('а', 'a') if m else None))   # 51а (кир.) = 51a (лат.)
             prev = ln
         _cache[key] = out
     return _cache[key]
