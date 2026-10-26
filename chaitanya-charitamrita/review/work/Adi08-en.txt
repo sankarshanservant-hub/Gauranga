@@ -1,0 +1,176 @@
+# English translation, Ādi-līlā 8 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: An Account of the Vaiṣṇavas’ Command to Compose the Book
+
+## 1
+w: I worship  Caitanya-deva  Him
+w: the Lord  by whose will
+w: suddenly  is made to dance  wondrously
+w: on the stage of writing  dull  though  this one
+tr: I worship Lord Caitanya-deva, by whose will even this dull fool has suddenly been set dancing, wondrously, on the stage of writing.
+fn: *Amṛta-pravāha-bhāṣya*: by the will of Lord Caitanya-deva I, a fool like a painted puppet, have suddenly begun this dance of writing a book. *Anubhāṣya*: *jaḍaḥ* — “like one without sense”; *lekha-raṅge* — “in the play of composing this book”; *prasabham* — “suddenly”.
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  Gauracandra
+w: glory  glory  to the supremely blissful  glory  to Nityānanda
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya Gauracandra! Glory, glory to Nityānanda, full of the highest bliss!
+
+## 3
+w: glory  glory  to Advaita Ācārya  glory  to the all-merciful
+w: glory  glory  to Gadādhara  Paṇḍita  the noble-hearted
+tr: Glory, glory to Advaita Ācārya, glory to the all-merciful! Glory, glory to the noble-hearted Gadādhara Paṇḍita!
+
+## 4
+w: glory  glory  to Śrīvāsa and the rest  all  the devotees
+w: bowed down  being  I worship  of all  the feet
+tr: Glory, glory to Śrīvāsa and to all the devotees! Bowing low, I worship the feet of them all.
+
+## 5
+w: the mute  poetry  makes  of whom all  by remembrance
+w: the lame  mountains  crosses  the blind  sees  the stars
+tr: By remembering them the mute become poets, the lame cross mountains and the blind see the stars.
+
+## 6
+w: all this  not  accept  who  scholars  all
+w: of them all  the study of learning  the croaking of frogs
+tr: Scholars who do not accept all this — their learning is the croaking of frogs.
+
+## 7
+w: all this  not  accepts  whoever  practises  devotion to Kṛṣṇa
+w: Kṛṣṇa’s mercy  is not  on him  there is not  his  goal
+tr: Whoever practises devotion to Kṛṣṇa yet does not accept all this receives no mercy from Kṛṣṇa and reaches no goal.
+fn: Edition heading to 6–8: “To worship Gaura or Kṛṣṇa without accepting the glory of the Pañca-tattva, with a mind that separates Them, is a grave offence.” *Amṛta-pravāha-bhāṣya*: *ei saba* — “this Pañca-tattva”; those who practise devotion to Kṛṣṇa without accepting it receive no mercy from Kṛṣṇa.
+
+## 8
+w: formerly  as  Jarāsandha and other  kings
+w: Vedic dharma  performing  do  of Viṣṇu  worship
+tr: Long ago Jarāsandha and other kings followed the Vedic dharma and worshipped Viṣṇu.
+
+## 9
+w: Kṛṣṇa  not  they accepted  therefore  as demons  we regard
+w: Caitanya  not  accepting  likewise  a demon  him  we know
+tr: But they did not accept Kṛṣṇa, and so we regard them as demons; and whoever does not accept Caitanya we know to be a demon in the same way.
+fn: Edition heading: “Devotion to Gaura without devotion to Kṛṣṇa, and devotion to Kṛṣṇa without devotion to Gaura, is not devotion.” *Anubhāṣya*: Jarāsandha and the others worshipped Viṣṇu with Vedic mantras, but because they rejected Kṛṣṇa, the original Lord Himself, out of enmity or indifference, their worship ended in the dharma of the asuras. So too, when a jīva tries to worship Viṣṇu while forgetting his eternal service to Śrī Caitanya, that is only the same dharma of the asuras, not Vaiṣṇavism.
+
+## 10
+w: Me  not  accepting  all  people  will be  lost
+w: for this  reason  melting with mercy  the Lord  accepted  sannyāsa
+tr: “If they do not accept Me, all people will be lost.” For this reason the Lord, His heart melting with mercy, accepted sannyāsa.
+
+## 11
+w: thinking Me a sannyāsī  to Me  they will make  obeisance
+w: even so  will be cut  misery  they will attain  deliverance
+tr: “Even if they bow to Me thinking Me an ordinary sannyāsī, their misery will be cut away and they will find deliverance.”
+fn: *Anubhāṣya* to 10–11: Śrī Caitanya-candra is non-different from Śrī Rādhā-Kṛṣṇa. Seeing that people in their ignorance judged His pastimes by their own worldly attachments and could not understand Him, Śrī Gaurahari took the vow of renunciation for their sake before the eyes of the world, and so showed mercy to the unwise.
+
+## 12
+w: such  merciful  Caitanya  not  worships  who  a person
+w: the highest of all  even being  him  among the asuras  is counted
+tr: Whoever does not worship Caitanya, so full of mercy, is counted among the asuras, though he be the greatest of men.
+fn: Edition heading: “Not to be devoted to the magnanimous Gaura is the nature of an asura.” *Anubhāṣya*: whoever cannot grasp even this mercy of Śrī Caitanya — His call to the jīvas, “Worship Kṛṣṇa” — is an asura, not a Vaiṣṇava, however much the world may honour him. Worship of Caitanya that rejects the worship of Kṛṣṇa lacks His mercy and is an invention of the age of Kali; it is just as asuric to revere one of the six truths while slighting another, or to see Śrī Kṛṣṇa Caitanya as merely the best of mortals, different from Kṛṣṇa.
+
+## 13
+w: therefore  again  I say  upraised  arms  with
+w: Caitanya and Nityānanda  worship  false argument  giving up
+tr: Therefore, with arms upraised, I say again: give up false argument and worship Caitanya and Nityānanda!
+
+## 14
+w: if  or  a logician  says  logic  that  is the proof
+w: in the science of logic  established  whatever  that  is to be worshipped
+tr: But a logician may say: “Logic is the proof. Whatever the science of logic establishes is what deserves worship.”
+
+## 15
+w: Śrī Kṛṣṇa Caitanya’s  mercy  make  consideration
+w: consideration  having made  in the heart  you will find  wonder
+tr: Then weigh the mercy of Śrī Kṛṣṇa Caitanya; weigh it well, and your heart will be struck with wonder.
+fn: Edition heading: “Gaura’s mercy is more wonderful than any other mercy.” *Anubhāṣya* to 14–15: logic rests on the worldly senses, which are weak and unfit to grasp the Lord, and so it often passes falsehood off as proven truth. Yet even one who relies only on perception and inference, if he compares every kind of mercy, will find that the mercy of Śrī Gaurahari is found in nothing created, nor in the Creator, nor in the avatāras, nor even in the Source of the avatāras, Kṛṣṇa.
+
+## 16
+w: many  births  does  if  hearing  chanting
+w: still  indeed  not  obtains  at Kṛṣṇa’s feet  the treasure of love
+tr: One may hear and chant for many births, and still not obtain the treasure of love for Kṛṣṇa’s feet.
+fn: Edition heading: “While offences remain, countless hearing and chanting are fruitless.” *Amṛta-pravāha-bhāṣya*: this is said of one who commits the ten offences against the holy name (see 8.24). *Anubhāṣya*: whoever hears and chants without taking shelter at Śrī Caitanya’s feet will not attain love for Kṛṣṇa even in many births; but whoever, following His teaching, is humbler than grass and more tolerant than a tree, seeks no honour and gives honour to others, is freed from the ten offences, chants the name constantly and attains prema.
+
+## 17
+w: through knowledge  easily obtained  liberation
+w: enjoyment  through the merit of sacrifice and the like
+w: this very  by thousands of practices
+w: devotion to Hari  very hard to attain
+tr: “Liberation is easily won through knowledge, and enjoyment through the merit of sacrifices and other pious works; but devotion to Hari is hard to attain even by thousands of spiritual practices.” (Tantra; also Bhakti-rasāmṛta-sindhu, 1.1.36)
+fn: *Amṛta-pravāha-bhāṣya*: liberation comes easily through knowledge, and the pleasures of heaven through pious works, but devotion to Hari is not easily attained even by thousands of practices: something more is needed — service to a pure devotee and knowledge of one’s relationship with the Supreme Truth (*sambandha-jñāna*). The reference is confirmed by the edition.
+
+## 18
+w: Kṛṣṇa  if  slips away  to the devotee  enjoyment  liberation  giving
+w: ever  devotion  not  He gives  He keeps  hiding
+tr: Kṛṣṇa may slip away from a devotee by giving him enjoyment or liberation, but devotion He never gives: He keeps it hidden.
+fn: Edition heading: “Until bhāva (rati) has awakened in the jīva, Kṛṣṇa grants liberation; when He sees rati, He grants loving devotion.” *Amṛta-pravāha-bhāṣya*: if devotees hope for enjoyment and liberation, Kṛṣṇa hides pure devotion from them, grants them these and leaves them (*chuṭe* — “goes away, leaving them”).
+
+## 19
+w: O king  master  guru  indeed  of you  of the Yadus
+w: worshipped Deity  dear one  head of the family  sometimes  and  servant  of you
+w: let it be  so  dear one  the Lord  to those who worship  Mukunda
+w: liberation  gives  at any time  indeed  not  bhakti-yoga
+tr: (Śukadeva said:) “O King, Mukunda is the master and guru of you and of the Yadus, your worshipped Deity, your dearest friend and the head of your family — and at times He even becomes your servant. So it is, dear one; yet to those who worship Him the Lord gives liberation, but never bhakti-yoga.” (Śrīmad-Bhāgavatam, 5.6.18)
+fn: *Anubhāṣya*: these are Śukadeva’s words to Parīkṣit in the account of Ṛṣabhadeva. *Daivam* — “the Deity you worship”; *priyaḥ* — “your very self”; *kva ca* — “sometimes, as when He acted as a messenger”; *bhajatām* — “to those who worship Him with desires (*sakāma-bhaktas*)”: to them He grants liberation, but He never gives bhakti-yoga. Edition heading: “Without a relationship of rasa with Kṛṣṇa one gains only liberation.” The edition misprints *kulavatiḥ*; the *Anubhāṣya* explains *kula-patiḥ*.
+
+## 20
+w: such  love  Śrī Caitanya  gave  here and there
+w: Jagāi  Mādhāi  even to  of others  what  talk
+tr: Such love Śrī Caitanya gave everywhere, even to Jagāi and Mādhāi — what then of others?
+fn: *Anubhāṣya*: even sinners and wrongdoers like Jagāi and Mādhāi, once they receive Gaura’s mercy, give up their sins and one day attain love for Kṛṣṇa.
+
+## 21
+w: the independent Lord  love  a hidden  storehouse
+w: gave away  to whomever  to anyone  not  He made  discrimination
+tr: The independent Lord gave away prema, that hidden storehouse, to anyone at all, and made no distinctions.
+
+## 22
+w: even today  see  Caitanya’s name  whoever  takes
+w: in love for Kṛṣṇa  with thrills and tears  overwhelmed  he  becomes
+tr: See it even today: whoever takes the name of Caitanya is overwhelmed with love for Kṛṣṇa, his body thrilling and his eyes streaming with tears.
+fn: Edition heading to 22–23: “Love for Kṛṣṇa awakens through service to Gaura and Nitāi.” *Amṛta-pravāha-bhāṣya* to 21–22: the wonder of Śrī Caitanya’s descent is that to anyone who comes near Him He, the independent Lord, gives the hidden storehouse of prema without asking whether he is worthy or not. Offender or not, whoever surrenders and calls on Him — “O Gaurāṅga! O Kṛṣṇa Caitanya!” — is overwhelmed with the thrills and tears of love for Kṛṣṇa.
+
+## 23
+w: ‘Nityānanda’  on saying  there is  the rising of love for Kṛṣṇa
+w: are thrown into turmoil  all  the limbs  a Ganges of tears  flows
+tr: At the name “Nityānanda” love for Kṛṣṇa awakens; every limb is shaken, and a Ganges of tears flows.
+
+## 24
+w: the name of Kṛṣṇa  makes  of offences  consideration
+w: ‘Kṛṣṇa’  on saying  of the offender  not  there is  transformation
+tr: The name of Kṛṣṇa takes account of offences: when an offender says “Kṛṣṇa”, no transformation of love takes place in him.
+fn: The *Amṛta-pravāha-bhāṣya* lists, after the *Padma Purāṇa*, the ten offences against the holy name: (1) blaspheming the saints; (2) thinking the names of Śiva and other gods independent of Viṣṇu; (3) disregarding the guru; (4) reviling the śruti and the scriptures that follow it; (5) thinking the glory of the name an exaggeration; (6) interpreting the name in one’s own way, as a fancy; (7) sinning on the strength of the name; (8) equating the name with other pious acts; (9) instructing the faithless and the averse in the name; (10) having no love for the name even after hearing its glory. While these offences remain, Kṛṣṇa shows no mercy, and the offender has no true transformations of love. The *Anubhāṣya* explains each of them.
+
+## 25
+w: that  hard as stone  heart  alas  this
+w: which  being taken  by the names of Hari
+w: is not  changed  but  when  there is transformation
+w: in the eyes  water  in the hairs of the body  joy
+tr: “Alas, that heart is hard as stone which does not change when the names of Hari are chanted; for when the heart is changed, tears fill the eyes and the hairs of the body stand on end in joy.” (Śrīmad-Bhāgavatam, 2.3.24)
+fn: *Anubhāṣya*: these are Śaunaka’s words to Sūta. *Aśma-sāram* — a heart as hard as stone because of offences against the holy name. Yet the heart of a deep mahā-bhāgavata may melt at the name with no outward tears or thrills, while those who imitate for the sake of honour may show false tears and thrills without a trace of feeling; so a show of melting in beginners inclined to enjoyment, even when they chant the name abundantly, is itself a sign of offence. Edition heading: “Without the desire to please Kṛṣṇa, the feelings in an offender’s stony heart are not pure; they are only an imitation.”
+
+## 26
+w: ‘one’  by the name of Kṛṣṇa  is made  of all sins  destruction
+w: of love  the cause  devotion  He makes  manifest
+tr: A single name of Kṛṣṇa destroys all sins and reveals devotion, from which love is born.
+fn: Edition heading: “The self-manifest Lord, the Name, rising on the tongue, bestows love for Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: the devotion that awakens prema is *sādhana-bhakti*; it is this that the holy name reveals.
+
+## 27
+w: of love  at the rising  there are  of love  the transformations
+w: sweat  trembling  thrilling of the hairs and the rest  faltering voice  streams of tears
+tr: When love dawns, its transformations appear: sweat and trembling, the hairs standing on end, a faltering voice and streams of tears.
+
+## 28
+w: effortlessly  the end of worldly existence  of Kṛṣṇa  service
+w: of one  name of Kṛṣṇa  as the fruit  one gains  such  wealth
+tr: Worldly existence ends without effort, and one is given the service of Kṛṣṇa: such is the wealth that a single name of Kṛṣṇa brings.
+
+## 29–30
+w: such  the name of Kṛṣṇa  if  one takes  many  times
+w: still  if  love  is not  are not  streams of tears
+w: then  I know  offences  in him  abundant
+w: the seed of the name of Kṛṣṇa  there  not  makes  a sprout
+tr: If one takes such a name of Kṛṣṇa again and again, and still love does not come, nor streams of tears, then I know that his offences are many: the seed of the name of Kṛṣṇa does not sprout in him.
+fn: Edition heading to 29: “The countless hearing and chanting of one who offends the holy name are fruitless.”
