@@ -1,0 +1,178 @@
+# События, заведённые при разборе «Навадвипа-дхама-махатмьи» Бхактивиноды Тхакура, гл. 1–6
+# (записи — lilas/navadvipa-mahatmya-a.yaml). Формат — README.md.
+# Рамка книги (Нитьянанда ведёт Дживу по Навадвипе) — P14, порядок 42.NN… (NN — глава НДМ), чтобы обход шёл
+# по главам и у других исполнителей (гл. 7–19 → 42.07…42.19). Предания мест о прежних югах — P00, порядок 40.x.
+# Наставления о дхаме — PX, 140–142.
+
+# --- Наставления о дхаме (PX) ---
+
+- id: ev-navadvipa-dhama-glory
+  title: "Величие Навадвипа-дхамы: очищает даже оскорбителей, дарует прему"
+  title_en: "The glory of Navadvipa-dhama: it purifies even offenders and bestows prema"
+  period: PX
+  order: 140
+  themes: [teaching, pilgrimage, mercy]
+  teaching: [holy-name, prema]
+  notes: "Богословская тема, не эпизод: Навадвипа — венец всех тиртх; в иных местах, и даже во Вриндаване, оскорбитель несёт наказание, в Навадвипе же спасается милостью Нитьянанды (пример — Джагай и Мадхай); плоды обхода, проживания, одной ночи в дхаме."
+
+- id: ev-navadvipa-dhama-nature
+  title: "Природа Навадвипа-дхамы: Гауда-мандала — лотос, девять островов, дхама из сандхини-шакти"
+  title_en: "The nature of Navadvipa-dhama: Gauda-mandala as a lotus, the nine islands, the dhama made of sandhini-shakti"
+  period: PX
+  order: 141
+  themes: [teaching, pilgrimage]
+  teaching: [maya, scripture]
+  notes: "Богословская тема: размеры Гауда-мандалы и Навадвипы (168 и 32 мили), девять островов-лепестков с Антардвипой в середине, Йога-питха; дхама вечна, духовна, проявлена сандхини и лишь кажется мирской покрытым майей глазам; в ней все реки, семь святых городов и духовный мир; по воле Господа то скрывается, то является."
+
+- id: ev-navadvipa-parikrama-order
+  title: "Порядок обхода девяти островов Навадвипы и лучшее время для него"
+  title_en: "The order of the circumambulation of Navadvipa's nine islands and the best time for it"
+  period: PX
+  order: 142
+  calendar: "от Макара-саптами до пхалгуна-пурнимы (Гаура-пурнимы)"
+  themes: [teaching, pilgrimage, festival]
+  notes: "Майяпур (Антардвипа) → Симантадвипа → Годрума → Мадхья → через Гангу: Кола, Риту, Джахну, Модадрума, Рудра → обратно в Майяпур, к храму Джаганнатхи Мишры и Шачи; лучше всего завершить в день явления Господа."
+
+# --- Предания мест о прежних югах (P00) ---
+
+- id: ev-prithu-kunda-origin
+  title: "Царь Притху находит сияющую землю Навадвипы и устраивает Притху-кунду"
+  title_en: "King Prithu finds the effulgent land of Navadvipa and digs Prithu-kunda"
+  period: P00
+  order: 40.1
+  themes: [pilgrimage, celestial]
+  notes: "Сатья-юга. Позднее пруд углубил Лакшман Сен и назвал в честь отца — Баллал-диргхика; дом Лакшмана Сена на холме разрушен, место осквернено царями-яванами, оскорбления Божеству. Известно лишь по НДМ."
+
+- id: ev-parvati-simantadvipa
+  title: "Шива пляшет, воспевая имя Гауры; Парвати в Симантадвипе: Гаура является ей, пыль Его стоп на её проборе"
+  title_en: "Shiva dances chanting Gaura's name; Parvati at Simantadvipa: Gaura appears to her, the dust of His feet on her parting"
+  period: P00
+  order: 40.2
+  themes: [celestial, revelation]
+  teaching: [gaura-tattva, maya]
+  notes: "Сатья-юга. Шива возвещает Парвати явление Господа в бхаве Радхи; Гаура открывает ей, что она — внешнее распространение Радхи, во Врадже — Паурнамаси, в Навадвипе — Праудха-майя при Шиве, хранителе дхамы. Отсюда имя «Симантадвипа» (простонародное «Симулия»). Известно лишь по НДМ."
+
+- id: ev-bhagiratha-ganga-nagara
+  title: "Бхагиратха ведёт Гангу; Ганга медлит в Навадвипе до Гаура-пурнимы — основание Ганга-нагара"
+  title_en: "Bhagiratha leads the Ganga; she lingers in Navadvipa until Gaura-purnima — the founding of Ganga-nagara"
+  period: P00
+  order: 40.3
+  calendar: "магха — пхалгуна-пурнима"
+  themes: [celestial, pilgrimage, festival]
+  notes: "Ганга останавливается в Навадвипе, ожидая исполнения своих желаний в обители Господа; Бхагиратха совершает аскезу, Ганга-деви обещает тронуться после пхалгуна-пурнимы. Пост и омовение здесь в этот день освобождают с тысячей предков. Известно лишь по НДМ."
+
+- id: ev-balarama-kills-mayasura
+  title: "Баларама в паломничестве убивает Майясуру — Майямари"
+  title_en: "Balarama on pilgrimage kills Mayasura — Mayamari"
+  period: P00
+  order: 40.4
+  themes: [krishna-lila, pilgrimage]
+  notes: "По словам Шривасы — «по Пуранам»; место неотлично от Талаваны Враджа. Известно лишь по НДМ."
+
+- id: ev-ganga-austerity-gaura-promise
+  title: "Аскеза Ганги ради игр Кришны в её водах; Кришна обещает играть в ней как Гаура"
+  title_en: "Ganga's austerity to have Krishna play in her waters; Krishna promises to play in her as Gaura"
+  period: P00
+  order: 40.5
+  themes: [celestial, krishna-lila]
+  notes: "Ганга завидует Ямуне, в которой играл Кришна; обещание исполнилось в детских играх Нимая у Гауранга-гхаты. Известно лишь по НДМ."
+
+- id: ev-jagannatha-shabaras-saradanga
+  title: "Джаганнатха с шабарами укрывается от Рактабаху в Шараданге"
+  title_en: "Jagannatha with the Shabaras takes shelter from Raktabahu at Saradanga"
+  period: P00
+  order: 40.6
+  themes: [jagannatha, pilgrimage]
+  notes: "Место неотлично от Пурушоттама-кшетры. Известно лишь по НДМ (ср. предания Пури о сокрытии Джаганнатхи от Рактабаху)."
+
+- id: ev-vishvakarma-sixty-ponds
+  title: "Вишвакарма за одну ночь устраивает шестьдесят прудов для будущей санкиртаны Господа"
+  title_en: "Vishvakarma digs sixty ponds in one night for the Lord's future sankirtana"
+  period: P00
+  order: 40.7
+  themes: [celestial, kirtan]
+  notes: "Узнав о грядущем явлении Гауры, зодчий богов позаботился о воде для преданных; последний пруд — Шаштхи-тиртха в Казиграме у банановой рощи Шридхары. Известно лишь по НДМ."
+
+# --- Рамка: Джива с Нитьянандой в Навадвипе (P14) ---
+
+- id: ev-govinda-bhashya-prophecy
+  title: "Нитьянанда предрекает «Говинда-бхашью»: Гопинатха Ачарья родится Баладевой Видьябхушаной"
+  title_en: "Nityananda foretells the Govinda-bhashya: Gopinatha Acharya will be born as Baladeva Vidyabhushana"
+  period: P14
+  order: 42.041
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 4.47–58, 5.13)"
+  themes: [teaching]
+  teaching: [vedanta, scripture]
+  notes: "«Бхагавата» — естественный комментарий к «Веданта-сутре»; когда понадобится иное толкование, Гопинатха Ачарья, слушавший с Сарвабхаумой объяснения Господа, родится Баладевой Видьябхушаной, победит учёных в Джайпуре и явит «Говинда-бхашью». Известно лишь по НДМ."
+
+- id: ev-nityananda-reveals-dhama-jiva
+  title: "Нитьянанда открывает Дживе тайну Навадвипа-дхамы: аударья и мадхурья"
+  title_en: "Nityananda reveals to Jiva the secret of Navadvipa-dhama: audarya and madhurya"
+  period: P14
+  order: 42.042
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 4.47–58, 5.13)"
+  themes: [teaching, pilgrimage]
+  teaching: [prema, gaura-tattva, maya]
+  notes: "Вечером в день прихода Дживы: Навадвипа неотлична от Вриндавана, но там царит сладость (мадхурья), здесь — её щедрая раздача (аударья); дхама — вне майи, видна очищенным милостью преданных глазам. Наутро — о Майяпуре и Йога-питхе, Панча-таттве; Господь вечно пребывает в Майяпуре, хотя кажется ушедшим. Тайна до завершения лил."
+
+- id: ev-nityananda-jiva-parikrama-mayapur
+  title: "Нитьянанда ведёт Дживу по Майяпуру: дома Господа, Шривасы, Адвайты, Гададхары, гхаты Ганги"
+  title_en: "Nityananda leads Jiva around Mayapur: the houses of the Lord, Srivasa, Advaita and Gadadhara, the Ganga ghats"
+  period: P14
+  order: 42.05
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 5.13)"
+  themes: [pilgrimage, separation]
+  notes: "Первый день обхода; ночлег в Майяпуре."
+
+- id: ev-jiva-shachi-prasada-mayapur
+  title: "Нитьянанда и Джива принимают прасад у Шачи; Вишнуприя готовит, Вамшивадана предлагает Божеству Господа"
+  title_en: "Nityananda and Jiva take prasada at Shachi's; Vishnupriya cooks, Vamshivadana offers to the Lord's Deity"
+  period: P14
+  order: 42.051
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 5.13)"
+  themes: [prasada, family, separation]
+  notes: "Шачи: «Нимай, невидимый Тобой, уже поел»; Ишана подаёт прасад; Нитьянанда называет Вамшивадану флейтой Кришны."
+
+- id: ev-jiva-vision-kirtan-srivasa
+  title: "Видение Дживы в Шривас-ангане: киртан Господа со спутниками"
+  title_en: "Jiva's vision at Srivasa-angana: the Lord's kirtan with His associates"
+  period: P14
+  order: 42.052
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 5.13)"
+  themes: [kirtan, ecstasy, celestial]
+  notes: "Джива видит пляску Гауры с Адвайтой, Нитьянандой, Гададхарой, Харидасом и Шукламбарой и скорбит, что родился поздно. Известно лишь по НДМ."
+
+- id: ev-prophecy-mayapur-reappearance
+  title: "Пророчество Нитьянанды: Майяпур скроется под Гангой и вновь явится; удивительный храм; приметы утраченных мест"
+  title_en: "Nityananda's prophecy: Mayapur will be hidden by the Ganga and reappear; a wonderful temple; the signs of the lost sites"
+  period: P14
+  order: 42.053
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 5.13)"
+  themes: [pilgrimage, revelation]
+  notes: "После ухода Господа Ганга на сто лет скроет Майяпур, затем там поселятся люди, преданные построят храмы и удивительный храм вечного служения Гауре; Вриддха Шива и Праудха-майя явят дхаму. Приметы: холм дома Джаганнатхи Мишры, храм Вриддха Шивы, пруд Шива-доба; через четыре столетия начнут искать утраченные места. Традиция видит исполнение в открытии Йога-питхи Бхактивинодой (1887–1888). Известно лишь по НДМ."
+
+- id: ev-prophecy-vishnupriya-deity-paradanga
+  title: "Пророчество Нитьянанды: Божество Гауры, которому служила Вишнуприя, явится в Сат-Тике (Параданге)"
+  title_en: "Nityananda's prophecy: the Deity of Gaura served by Vishnupriya will appear at Sat Tika (Paradanga)"
+  period: P14
+  order: 42.054
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 5.13)"
+  themes: [deities, pilgrimage]
+  notes: "Ему будут служить брахманы из рода Джаганнатхи Мишры; через четыре века после явления Господа служение вернётся к прежней высоте. На время сокрытия Майяпура Шива и Праудха-майя поселятся в Чхинна-данге; Параданга — Сат-Тика, раса-стхали Враджа. Известно лишь по НДМ."
+
+- id: ev-nityananda-jiva-parikrama-simantadvipa
+  title: "Нитьянанда ведёт Дживу по Симантадвипе; ночлег у Шридхары в Вишрама-стхане"
+  title_en: "Nityananda leads Jiva through Simantadvipa; night at Shridhara's at Vishrama-sthana"
+  period: P14
+  order: 42.06
+  date_conf: оценка
+  date_basis: "рамка НДМ: Господь уже принял санньясу и пребывает в Нилачале (НДМ 5.13)"
+  themes: [pilgrimage, kirtan, prasada]
+  notes: "Второй день обхода: с Шривасой, Рамадасом и другими, с киртаном — Ганга-нагар, Притху-кунда, Симулия, Кази-нагар, Шанкхаваник-нагар, Тантувая-грама; Шридхара принимает Нитьянанду, Шривасу и Дживу."
