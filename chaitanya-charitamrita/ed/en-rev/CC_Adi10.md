@@ -909,6 +909,336 @@ in Vṛndāvana  made  of Deity worship  the spreading
 
 (90) Guided by the scriptures they recovered the lost holy places, and in Vṛndāvana they spread the worship of the Deities.[^39]
 
+মহাপ্রভুর প্রিয় ভৃত্য — রঘুনাথদাস ৷  
+সর্ব্বত্যজি’ কৈল প্রভুর পদতলে বাস ॥ ৯১ ॥
+
+mahāprabhura priya bhṛtya — raghunātha-dāsa  
+Mahāprabhu’s  dear  servant —  Raghunātha dāsa  
+sarva tyaji’ kaila prabhura pada-tale vāsa  
+everything  giving up  made  at the Lord’s  soles of the feet  dwelling
+
+(91) Raghunātha dāsa was a dear servant of Mahāprabhu; giving up everything, he made his home at the Lord’s feet.[^40]
+
+প্রভুসমর্পিল তাঁরে স্বরূপের হাতে ৷  
+প্রভুর গুপ্তসেবা কৈল স্বরূপের সাথে ॥ ৯২ ॥
+
+prabhu samarpila tām̐re svarūpera hāte  
+the Lord  entrusted  him  of Svarūpa  into the hands  
+prabhura gupta-sevā kaila svarūpera sāthe  
+the Lord’s  confidential service  did  Svarūpa  with
+
+(92) The Lord placed him in the hands of Svarūpa, and together with Svarūpa he rendered the Lord confidential service.[^41]
+
+ষোড়শ বৎসর কৈল অন্তরঙ্গ-সেবন ৷  
+স্বরূপের অন্তর্ধানে আইলা বৃন্দাবন ॥ ৯৩ ॥
+
+ṣoḍaśa vatsara kaila antaraṅga-sevana  
+sixteen  years  did  intimate  service  
+svarūpera antardhāne āilā vṛndāvana  
+of Svarūpa  at the disappearance  came  to Vṛndāvana
+
+(93) For sixteen years he rendered intimate service, and when Svarūpa passed away, he came to Vṛndāvana.[^42]
+
+বৃন্দাবনে দুই ভাইর চরণ দেখিয়া ৷  
+গোবর্ধনে ত্যজিব দেহ ভৃগুপাত করিয়া ॥ ৯৪ ॥
+
+vṛndāvane dui bhāira caraṇa dekhiyā  
+in Vṛndāvana  of the two  brothers  the feet  having seen  
+govardhane tyajiba deha bhṛgupāta kariyā  
+at Govardhana  I shall give up  the body  a leap from the cliff  making
+
+(94) He thought, “In Vṛndāvana I shall see the feet of the two brothers, and then at Govardhana I shall give up my body by throwing myself from the hill.”
+
+এই ত’ নিশ্চয় করি’ আইল বৃন্দাবনে ৷  
+আসি’ রূপ-সনাতনের বন্দিল চরণে ॥ ৯৫ ॥
+
+ei ta’ niścaya kari’ āila vṛndāvane  
+this  indeed  resolution  making  came  to Vṛndāvana  
+āsi’ rūpa-sanātanera vandila caraṇe  
+having come  of Rūpa and Sanātana  worshipped  the feet
+
+(95) With this resolve he came to Vṛndāvana and bowed down at the feet of Rūpa and Sanātana.
+
+তবে দুই ভাই তাঁরে মরিতে না দিল ৷  
+নিজ তৃতীয় ভাই করি’ নিকটে রাখিল ॥ ৯৬ ॥
+
+tabe dui bhāi tām̐re marite nā dila  
+then  the two  brothers  him  to die  not  allowed  
+nija tṛtīya bhāi kari’ nikaṭe rākhila  
+their own  third  brother  making  near  kept
+
+(96) But the two brothers would not let him die; they kept him close by as their own third brother.
+
+মহাপ্রভুর লীলা যত বাহির-অন্তর ৷  
+দুই ভাই তাঁর মুখে শুনে নিরন্তর ॥ ৯৭ ॥
+
+mahāprabhura līlā yata bāhira-antara  
+of Mahāprabhu  the pastimes  all  outer and inner  
+dui bhāi tām̐ra mukhe śune nirantara  
+the two  brothers  from his  mouth  hear  constantly
+
+(97) From his lips the two brothers constantly heard all the pastimes of Mahāprabhu, both outer and inner.
+
+অন্ন-জল ত্যাগ কৈল অন্য-কথন ৷  
+পল দুই-তিন মাঠা করেন ভক্ষণ ॥ ৯৮ ॥
+
+anna-jala tyāga kaila anya-kathana  
+food and water  giving up  made  what to speak of other things  
+pala dui-tina māṭhā karena bhakṣaṇa  
+palas  two or three  of buttermilk  makes  eating
+
+(98) He gave up food and water, to say nothing of anything else, taking only two or three palas of buttermilk.
+
+সহস্র দণ্ডবৎ করে, লয় লক্ষ নাম ৷  
+দুই সহস্র বৈষ্ণবেরে নিত্য পরণাম ॥ ৯৯ ॥
+
+sahasra daṇḍavat kare, laya lakṣa nāma  
+a thousand  prostrations  makes,  takes  a hundred thousand  names  
+dui sahasra vaiṣṇavere nitya paraṇāma  
+two  thousand  to Vaiṣṇavas  daily  obeisances
+
+(99) Every day he offered a thousand prostrations, chanted a hundred thousand names and bowed down to two thousand Vaiṣṇavas.
+
+রাত্রি-দিনে রাধাকৃষ্ণের মানস সেবন ৷  
+প্রহরেক মহাপ্রভুর চরিত্র-কথন ॥ ১০০ ॥
+
+rātri-dine rādhā-kṛṣṇera mānasa sevana  
+night and day  to Rādhā and Kṛṣṇa  in the mind  service  
+prahareka mahāprabhura caritra-kathana  
+for a prahara  Mahāprabhu’s  of the character  narration
+
+(100) Night and day he served Rādhā and Kṛṣṇa within his mind, and for one prahara he spoke of the life of Mahāprabhu.[^43]
+
+তিন সন্ধ্যা রাধা-কুণ্ডে অপতিত স্নান ৷  
+ব্রজবাসী বৈষ্ণবেরে আলিঙ্গন দান ॥ ১০১ ॥
+
+tina sandhyā rādhā-kuṇḍe apatita snāna  
+at the three  junctures of the day  in Rādhā-kuṇḍa  unfailing  bath  
+vraja-vāsī vaiṣṇavere āliṅgana dāna  
+to the residents of Vraja  Vaiṣṇavas  embrace  gives
+
+(101) At dawn, noon and evening he bathed in Rādhā-kuṇḍa without fail, and he embraced the Vaiṣṇavas of Vraja.
+
+সার্ধ সপ্তপ্রহর করে ভক্তির সাধনে ৷  
+চারি দণ্ড নিদ্রা, সেহ নহে কোনদিনে ॥ ১০২ ॥
+
+sārdha sapta-prahara kare bhaktira sādhane  
+seven and a half  praharas  makes  of bhakti  in the practice  
+cāri daṇḍa nidrā, seha nahe kona-dine  
+four  daṇḍas  sleep,  that  is not  on some days
+
+(102) Seven and a half praharas he spent in the practice of bhakti; he slept four daṇḍas, and on some days not even that.
+
+তাঁহার সাধনরীতি শুনিতে চমৎকার ৷  
+সেই রূপ-রঘুনাথ প্রভু যে আমার ॥ ১০৩ ॥
+
+tām̐hāra sādhana-rīti śunite camatkāra  
+his  way of practice  to hear  wonderful  
+sei rūpa-raghunātha prabhu ye āmāra  
+those  Rūpa and Raghunātha  masters  who  my
+
+(103) Wonderful it is to hear of his way of practice. These Rūpa and Raghunātha are my masters.[^44]
+
+ইঁহা-সবার যৈছে হৈল প্রভুর মিলন ৷  
+আগে বিস্তারিয়া তাহা করিব বর্ণন ॥ ১০৪ ॥
+
+im̐hā-sabāra yaiche haila prabhura milana  
+of them  all  how  was  with the Lord  the meeting  
+āge vistāriyā tāhā kariba varṇana  
+later  in detail  that  I shall make  the description
+
+(104) How each of them met the Lord I shall describe in detail later.[^45]
+
+শ্রীগোপাল ভট্ট — এক শাখা সর্ব্বোত্তম ৷  
+রূপ-সনাতন-সঙ্গে যাঁর প্রেম-আলাপন ॥ ১০৫ ॥
+
+śrī-gopāla bhaṭṭa — eka śākhā sarvottama  
+Śrī  Gopāla  Bhaṭṭa —  one  branch  the very best  
+rūpa-sanātana-saṅge yām̐ra prema-ālāpana  
+Rūpa and Sanātana  with  whose  loving conversation
+
+(105) Śrī Gopāla Bhaṭṭa is a branch of the very highest, whose talks of love were shared with Rūpa and Sanātana.[^46]
+
+শঙ্করারণ্য — আচার্য্য-বৃক্ষের এক শাখা ৷  
+মুকুন্দ, কাশীনাথ, রুদ্র, — উপশাখা লেখা ॥ ১০৬ ॥
+
+śaṅkarāraṇya — ācārya-vṛkṣera eka śākhā  
+Śaṅkarāraṇya —  of the Ācārya’s  tree  one  branch  
+mukunda, kāśīnātha, rudra, — upaśākhā lekhā  
+Mukunda,  Kāśīnātha,  Rudra —  as offshoots  are written
+
+(106) Śaṅkarāraṇya is one branch of the Ācārya’s tree, and Mukunda, Kāśīnātha and Rudra are recorded as its offshoots.[^47]
+
+শ্রীনাথ পণ্ডিত — প্রভুর কৃপার ভাজন ৷  
+যাঁর কৃষ্ণসেবা দেখি’ বশ ত্রিভুবন ॥ ১০৭ ॥
+
+śrīnātha paṇḍita — prabhura kṛpāra bhājana  
+Śrīnātha  Paṇḍita —  of the Lord’s  mercy  the recipient  
+yām̐ra kṛṣṇa-sevā dekhi’ vaśa tri-bhuvana  
+whose  service to Kṛṣṇa  seeing  captivated  the three worlds
+
+(107) Śrīnātha Paṇḍita received the Lord’s mercy; seeing his service to Kṛṣṇa, the three worlds were captivated.[^48]
+
+জগন্নাথ আচার্য্য প্রভুর প্রিয় দাস ৷  
+প্রভুর আজ্ঞাতে তেঁহো কৈল গঙ্গাবাস ॥ ১০৮ ॥
+
+jagannātha ācārya prabhura priya dāsa  
+Jagannātha  Ācārya  of the Lord  dear  servant  
+prabhura ājñāte tem̐ho kaila gaṅgā-vāsa  
+by the Lord’s  order  he  made  a dwelling by the Gaṅgā
+
+(108) Jagannātha Ācārya was a dear servant of the Lord; at the Lord’s command he made his home by the Gaṅgā.[^49]
+
+কৃষ্ণদাস বৈদ্য, আর পণ্ডিত-শেখর ৷  
+কবিচন্দ্র, আর কীর্ত্তনীয়া ষষ্ঠীবর ॥ ১০৯ ॥
+
+kṛṣṇadāsa vaidya, āra paṇḍita-śekhara  
+Kṛṣṇadāsa  Vaidya,  and  Paṇḍita  Śekhara  
+kavicandra, āra kīrtanīyā ṣaṣṭhīvara  
+Kavicandra,  and  the kīrtana singer  Ṣaṣṭhīvara
+
+(109) Other branches are Kṛṣṇadāsa Vaidya, Paṇḍita Śekhara, Kavicandra and the kīrtana singer Ṣaṣṭhīvara;
+
+শ্রীনাথ মিশ্র, শুভানন্দ, শ্রীরাম, ঈশান ৷  
+শ্রীনিধি, শ্রীগোপীকান্ত, মিশ্র ভগবান্ ॥ ১১০ ॥
+
+śrīnātha miśra, śubhānanda, śrīrāma, īśāna  
+Śrīnātha  Miśra,  Śubhānanda,  Śrīrāma,  Īśāna  
+śrīnidhi, śrīgopīkānta, miśra bhagavān  
+Śrīnidhi,  Śrī Gopīkānta,  Miśra  Bhagavān
+
+(110) Śrīnātha Miśra, Śubhānanda, Śrīrāma, Īśāna, Śrīnidhi, Śrī Gopīkānta, Bhagavān Miśra;
+
+সুবুদ্ধি মিশ্র, হৃদয়ানন্দ, কমলনয়ন ৷  
+মহেশ পণ্ডিত, শ্রীকর, শ্রীমধুসূদন ॥ ১১১ ॥
+
+subuddhi miśra, hṛdayānanda, kamala-nayana  
+Subuddhi  Miśra,  Hṛdayānanda,  Kamala-nayana  
+maheśa paṇḍita, śrīkara, śrī-madhusūdana  
+Maheśa  Paṇḍita,  Śrīkara,  Śrī  Madhusūdana
+
+(111) Subuddhi Miśra, Hṛdayānanda, Kamala-nayana, Maheśa Paṇḍita, Śrīkara, Śrī Madhusūdana;
+
+পুরুষোত্তম, শ্রীগালীম, জগন্নাথদাস ৷  
+শ্রীচন্দ্রশেখর বৈদ্য, দ্বিজ হরিদাস ॥ ১১২ ॥
+
+puruṣottama, śrī-gālīma, jagannātha-dāsa  
+Puruṣottama,  Śrī  Gālīma,  Jagannātha dāsa  
+śrī-candraśekhara vaidya, dvija haridāsa  
+Śrī  Candraśekhara  Vaidya,  Dvija  Haridāsa
+
+(112) Puruṣottama, Śrī Gālīma, Jagannātha dāsa, Śrī Candraśekhara Vaidya, Dvija Haridāsa;[^50]
+
+রামদাস, কবিদত্ত, শ্রীগোপালদাস ৷  
+ভাগবতাচার্য্য, ঠাকুর সারঙ্গদাস ॥ ১১৩ ॥
+
+rāmadāsa, kavidatta, śrī-gopāladāsa  
+Rāmadāsa,  Kavidatta,  Śrī  Gopāla dāsa  
+bhāgavatācārya, ṭhākura sāraṅgadāsa  
+Bhāgavatācārya,  Ṭhākura  Sāraṅga dāsa
+
+(113) Rāmadāsa, Kavidatta, Śrī Gopāla dāsa, Bhāgavatācārya, Ṭhākura Sāraṅga dāsa;[^51]
+
+জগন্নাথ তীর্থ, বিপ্র শ্রীজানকীনাথ ৷  
+গোপাল আচার্য্য, আর বিপ্র বাণীনাথ ॥ ১১৪ ॥
+
+jagannātha tīrtha, vipra śrī-jānakīnātha  
+Jagannātha  Tīrtha,  the brāhmaṇa  Śrī  Jānakīnātha  
+gopāla ācārya, āra vipra vāṇīnātha  
+Gopāla  Ācārya,  and  the brāhmaṇa  Vāṇīnātha
+
+(114) Jagannātha Tīrtha, the brāhmaṇa Śrī Jānakīnātha, Gopāla Ācārya and the brāhmaṇa Vāṇīnātha.
+
+গোবিন্দ, মাধব, বাসুদেব, — তিন ভাই ৷  
+যাঁ-সবার কীর্ত্তনে নাচে চৈতন্য-নিতাই ॥ ১১৫ ॥
+
+govinda, mādhava, vāsudeva, — tina bhāi  
+Govinda,  Mādhava,  Vāsudeva —  three  brothers  
+yām̐-sabāra kīrtane nāce caitanya-nitāi  
+of them all  in the kīrtana  dance  Caitanya and Nitāi
+
+(115) Govinda, Mādhava and Vāsudeva were three brothers, and when they sang kīrtana, Caitanya and Nitāi danced.[^52]
+
+রামদাস অভিরাম — সখ্য-প্রেমরাশি ৷  
+ষোলসাঙ্গের কাষ্ঠ তুলি’ যে করিল বাঁশী ॥ ১১৬ ॥
+
+rāmadāsa abhirāma — sakhya-premarāśi  
+Rāmadāsa  Abhirāma —  of fraternal  love  a heap  
+ṣolasāṅgera kāṣṭha tuli’ ye karila vām̐śī  
+of sixteen bearers  the log  lifting  who  made  a flute
+
+(116) Rāmadāsa Abhirāma was a mountain of fraternal love; he lifted a log that took sixteen men to carry and made it his flute.[^53]
+
+প্রভুর আজ্ঞায় নিত্যানন্দ গৌড়ে চলিলা ৷  
+তাঁর সঙ্গে তিনজন প্রভু-আজ্ঞায় আইলা ॥ ১১৭ ॥
+
+prabhura ājñāya nityānanda gauḍe calilā  
+by the Lord’s  order  Nityānanda  to Gauḍa  went  
+tām̐ra saṅge tina-jana prabhu-ājñāya āilā  
+with Him  three persons  by the Lord’s order  came
+
+(117) At the Lord’s command Nityānanda went to Gauḍa, and by the Lord’s command three devotees went with Him:
+
+শ্রীরামদাস, মাধব, আর বাসুদেব ঘোষ ৷  
+প্রভু-সঙ্গে রহে গোবিন্দ পাইয়া সন্তোষ ॥ ১১৮ ॥
+
+śrī rāmadāsa, mādhava, āra vāsudeva ghoṣa  
+Śrī  Rāmadāsa,  Mādhava,  and  Vāsudeva  Ghoṣa  
+prabhu-saṅge rahe govinda pāiyā santoṣa  
+the Lord  with  stayed  Govinda  getting  joy
+
+(118) Śrī Rāmadāsa, Mādhava and Vāsudeva Ghoṣa. Govinda stayed with the Lord, and was overjoyed to do so.[^54]
+
+ভাগবতাচার্য্য, চিরঞ্জীব শ্রীরঘুনন্দন ৷  
+শ্রীমাধবাচার্য্য, কমলাকান্ত, শ্রীযদুনন্দন ॥ ১১৯ ॥
+
+bhāgavatācārya, cirañjīva śrī-raghunandana  
+Bhāgavatācārya,  Ciranjīva  Śrī  Raghunandana  
+śrī-mādhavācārya, kamalākānta, śrī-yadunandana  
+Śrī Mādhavācārya,  Kamalākānta,  Śrī  Yadunandana
+
+(119) Other branches are Bhāgavatācārya, Ciranjīva, Śrī Raghunandana, Śrī Mādhavācārya, Kamalākānta and Śrī Yadunandana.[^55]
+
+মহা-কৃপাপাত্র প্রভুর জগাই, মাধাই ৷  
+‘পতিতপাবন’ নামের সাক্ষী দুই ভাই ॥ ১২০ ॥
+
+mahā-kṛpā-pātra prabhura jagāi, mādhāi  
+of great  mercy  recipients  of the Lord  Jagāi,  Mādhāi  
+‘patita-pāvana’ nāmera sākṣī dui bhāi  
+‘deliverer of the fallen’  of the name  witnesses  the two  brothers
+
+(120) Jagāi and Mādhāi received the Lord’s great mercy; these two brothers bear witness to His name “Deliverer of the Fallen.”[^56]
+
+গৌড়দেশ-ভক্তের কৈল সংক্ষেপ কথন ৷  
+অনন্ত চৈতন্যভক্ত না যায় গণন ॥ ১২১ ॥
+
+gauḍa-deśa-bhaktera kaila saṅkṣepa kathana  
+of the devotees of Gauḍa  made  brief  account  
+ananta caitanya-bhakta nā yāya gaṇana  
+endless  Caitanya’s devotees  cannot  be  counted
+
+(121) I have given a brief account of the devotees of Gauḍa; Śrī Caitanya’s devotees are endless and cannot be counted.
+
+নীলাচলে এই সব ভক্ত প্রভুসঙ্গে ৷  
+দুই স্থানে প্রভু-সেবা কৈল নানা-রঙ্গে ॥ ১২২ ॥
+
+nīlācale ei saba bhakta prabhu-saṅge  
+in Nīlācala  these  all  devotees  with the Lord  
+dui sthāne prabhu-sevā kaila nānā-raṅge  
+in two  places  service to the Lord  did  in various ways
+
+(122) All these devotees were also with the Lord in Nīlācala, and in both places they served Him in many ways.[^57]
+
+কেবল নীলাচলে প্রভুর যে যে ভক্তগণ ৷  
+সংক্ষেপে করিয়ে কিছু সে সব কথন ॥ ১২৩ ॥
+
+kevala nīlācale prabhura ye ye bhakta-gaṇa  
+only  in Nīlācala  of the Lord  who  who  devotees  
+saṅkṣepe kariye kichu se saba kathana  
+briefly  I make  something  about them  all  an account
+
+(123) Now I shall speak briefly of the Lord’s devotees who were with Him only in Nīlācala.
+
 ---
 
 [^1]: *Anubhāṣya*: the “dog” is one absorbed in enjoyment and without faith in the Lord’s devotees; to “share in the fragrance” of the feet is to receive devotion to Gaura.
@@ -988,3 +1318,39 @@ in Vṛndāvana  made  of Deity worship  the spreading
 [^38]: Headings in the edition to 10.89–90: “(1) establishing the conduct of bhakti,” “(2) recovering the lost holy places and (3) preaching the worship of the Deities.” *Amṛta-pravāha-bhāṣya*: through contact with the Muslims the people of the western regions had lost proper conduct; by the mercy of Rūpa and Sanātana they turned to righteous ways.
 
 [^39]: *Amṛta-pravāha-bhāṣya*: the lost holy places are Rādhā-kuṇḍa and others; the Deities are Śrī Madana-mohana, Śrī Govinda, Śrī Gopīnātha and others — seven in all.
+
+[^40]: *Anubhāṣya*: Raghunātha dāsa was born about Śaka 1416 in the village of Kṛṣṇapura near Saptagrāma, in the house of Govardhana, the younger brother of Hiraṇya Majumadāra, in a Kāyastha family. According to the *Gaura-gaṇoddeśa-dīpikā* he is Rasa-mañjarī (others say Rati-mañjarī or Bhānumatī).
+
+[^41]: *Amṛta-pravāha-bhāṣya*: confidential service is that to which outsiders have no access — all that the Lord needs at the time of His bath, His meals, His rest and His kīrtana; in 10.93 it is called intimate service (*antaraṅga-sevā*).
+
+[^42]: Heading in the edition: “After the departure of Śrī Gaura and Svarūpa — to Vṛndāvana.”
+
+[^43]: *Amṛta-pravāha-bhāṣya*: service in the mind — meditation on the service of the eight periods of the day (*aṣṭa-kālīya*), together with chanting the holy name.
+
+[^44]: Heading in the edition: “The author regards himself as the eternal servant of Rūpa and Raghunātha.” *Anubhāṣya*: Kṛṣṇadāsa Kavirāja Gosvāmī called Śrī Raghunātha dāsa and Śrī Rūpa “my master” (*prabhu*), and that is why at the end of every chapter he writes, “Hoping for the feet of Śrī Rūpa and Raghunātha…”; the opinion that Raghunātha Bhaṭṭa is meant here and was Kavirāja’s guru has no evidence.
+
+[^45]: Raghunātha’s meeting with the Lord is told in Antya 6 (*Amṛta-pravāha-bhāṣya*).
+
+[^46]: *Anubhāṣya*: Gopāla Bhaṭṭa, a brāhmaṇa from the south, was a friend of Śrī Rūpa and Sanātana; in his name Sanātana compiled the *Hari-bhakti-vilāsa*; he made the first draft of the *Ṣaṭ-sandarbha*, which Śrī Jīva later put in order, and he installed the Deity of Śrī Rādhā-ramaṇa. His disciples were Śrīnivāsa Ācārya and Gopīnātha Pūjārī. He forbade Kavirāja Gosvāmī to write about him in this book, and so only his name is given here.
+
+[^47]: *Anubhāṣya*: Śaṅkarāraṇya is Viśvarūpa, the elder brother of Mahāprabhu (according to the *Gaura-gaṇoddeśa-dīpikā*, Saṅkarṣaṇa); he took sannyāsa and left this world in Śaka 1432 at Pāṇḍarapura (Madhya 9.299–300). Mukunda is Mukunda Sañjaya, in whose house Viśvambhara taught; Kāśīnātha is the brāhmaṇa who arranged the Lord’s marriage with Viṣṇupriyā; Rudra is Rudra Paṇḍita.
+
+[^48]: *Anubhāṣya*: Śrīnātha Paṇḍita lived in Kāñcaḍāpāḍā and installed the Deity Śrī Kṛṣṇa-rāya there; he was the guru of Kavi Karṇapūra.
+
+[^49]: *Amṛta-pravāha-bhāṣya*: on the bank of the Alakanandā within Navadvīpa he founded a village called Gaṅgā-vāsa.
+
+[^50]: *Anubhāṣya*: Candraśekhara Vaidya, a scribe by profession, is the one in whose house the Lord stayed in Kāśī (10.152–154).
+
+[^51]: *Amṛta-pravāha-bhāṣya*: Bhāgavatācārya lived in Varāhanagara, where his hermitage is still called “Bhāgavatācārya’s seat”; Ṭhākura Sāraṅga dāsa was from Māmagāchi. The heading in the edition has “Śārṅga Ṭhākura.” *Anubhāṣya*: Bhāgavatācārya’s name was Raghunātha; the Lord gave him that title on hearing him recite the *Bhāgavatam* (*Caitanya-bhāgavata*, Antya 5).
+
+[^52]: *Anubhāṣya*: the Ghoṣa brothers — Govinda, Mādhava and Vāsudeva — came of a Kāyastha family of northern Rāḍha; Mādhava Ghoṣa was a matchless kīrtana singer, very dear to Nityānanda. *Amṛta-pravāha-bhāṣya*: Govinda installed the Deity of Gopīnātha at Agradvīpa.
+
+[^53]: In the edition the heading is “(84) Ṭhākura Abhirāma.” *Amṛta-pravāha-bhāṣya*: Abhirāma lived at Khānākula-Kṛṣṇanagara.
+
+[^54]: Heading in the edition to 10.117: “Abhirāma, Mādhava and Vāsu Ghoṣa preach the holy name in Gauḍa with Nitāi.”
+
+[^55]: In the edition’s heading Bhāgavatācārya, Ciranjīva and Raghunandana are marked with their earlier numbers (75, 41, 39a) — they are the same persons named above; the new branches are (85) Mādhavācārya, (86) Kamalākānta and (87) Yadunandana. *Anubhāṣya*: Kamalākānta is Kamalākānta Viśvāsa of Advaita’s party; Yadunandana Ācārya belongs to Advaita’s branch (Antya 6.160–169).
+
+[^56]: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Jagāi and Mādhāi are Jaya and Vijaya, the gatekeepers of Vaikuṇṭha, born of their own will in Navadvīpa. Brāhmaṇas by birth, they lived as robbers and were steeped in every sin, but by the mercy of Mahāprabhu and Nityānanda they received the holy name and became great devotees.
+
+[^57]: Heading in the edition: “Their service to Gaura both in Gauḍa and in Oḍra.”
