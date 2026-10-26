@@ -16,7 +16,7 @@ to Śrī Caitanya  is written  His
 prema-bhakti-vadānyatā  
 in giving prema-bhakti  magnanimity
 
-(1) Bowing to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good, I write of the magnanimity with which He bestows love and devotion for Kṛṣṇa.[^1]
+(1) I bow to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good. Now I write of the magnanimity with which He bestows love and devotion for Kṛṣṇa.[^1]
 
 জয় জয় মহাপ্রভু শ্রীকৃষ্ণচৈতন্য ৷  
 তাঁহার চরণাশ্রিত সেই বড় ধন্য ॥ ২ ॥
@@ -183,14 +183,14 @@ Gadādhara Paṇḍita and others  the Lord’s  ‘potency’-avatāras
 (17) Gadādhara Paṇḍita and others are incarnations of the Lord’s potency (*śakti*); they are counted as His intimate devotees.[^8]
 
 যাঁ-সবা লঞা প্রভুর নিত্য বিহার ৷  
-যাঁ-সবা লঞা প্রভুর কীর্ত্তন প্রচার ॥ ১৮ ॥
+যাঁ-সবা লঞা প্রভুর কীর্ত্তন-প্রচার ॥ ১৮ ॥
 
 যাঁ-সবা লঞা করেন প্রেম আস্বাদন ৷  
 যাঁ-সবা লঞা দান করে প্রেমধন ॥ ১৯ ॥
 
 yām̐-sabā lañā prabhura nitya vihāra  
 with whom all  taking  the Lord’s  eternal  pastimes  
-yām̐-sabā lañā prabhura kīrtana pracāra  
+yām̐-sabā lañā prabhura kīrtana-pracāra  
 with whom all  taking  the Lord’s  of kīrtana  spreading  
 yām̐-sabā lañā karena prema āsvādana  
 with whom all  taking  He does  of prema  tasting  
@@ -318,7 +318,7 @@ some  some  escaped  the vow  became  broken
 tā-sabā ḍubāite pātiba kichu raṅga  
 them all  to drown  I shall set  some  play
 
-(31–32) Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall set some play in motion.”
+(31–32) Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall devise a playful ruse.”
 
 এত বলি’ মনে কিছু করিয়া বিচার ৷  
 সন্ন্যাস-আশ্রম প্রভু কৈলা অঙ্গীকার ॥ ৩৩ ॥
@@ -438,7 +438,7 @@ disregard  making  He made  to Mathurā  going
 mathurā dekhiyā punaḥ kaila āgamana  
 Mathurā  having seen  again  He made  return
 
-(44) Paying them no heed, He went on to Mathurā, and after seeing Mathurā He came back again.
+(44) Leaving them unheeded, He went on to Mathurā, and after seeing Mathurā He came back again.
 
 কাশীতে লেখক শূদ্র-শ্রীচন্দ্রশেখর ৷  
 তাঁর ঘরে রহিলা প্রভু স্বতন্ত্র ঈশ্বর ॥ ৪৫ ॥
@@ -792,7 +792,7 @@ then  composure  holding  in the mind  I made  consideration
 kṛṣṇa-nāme jñānācchanna haila āmāra  
 by Kṛṣṇa’s name  knowledge-covered  became  My
 
-(79) Then, gathering My composure, I reflected: “Kṛṣṇa’s name has covered all My knowledge.
+(79) Then, gathering My composure, I reflected: ‘Kṛṣṇa’s name has covered all My knowledge.
 
 পাগল হইলাঙ আমি, ধৈর্য্য নাহি মনে ৷  
 এত চিন্তি’ নিবেদিলাম গুরুর চরণে ॥ ৮০ ॥
@@ -802,7 +802,7 @@ mad  have become  I  composure  there is not  in the mind
 eta cinti’ nivedilāma gurura caraṇe  
 thus  thinking  I submitted  at the guru’s  feet
 
-(80) I have gone mad; there is no composure left in My mind.” Thinking this, I came to the feet of My guru and said:
+(80) I have gone mad; there is no composure left in My mind.’ Thinking this, I came to the feet of My guru and said:
 
 কিবা মন্ত্র দিলা, গোসাঞি, কিবা তার বল ৷  
 জপিতে জপিতে মন্ত্র করিল পাগল ॥ ৮১ ॥
@@ -852,7 +852,7 @@ the fifth  goal of life  an ocean of the nectar of the bliss of prema
 brahmādi ānanda yāra nahe eka bindu  
 of Brahman and the rest  the bliss  of which  is not  one  drop
 
-(85) The fifth goal of life is an ocean of the nectar of the bliss of prema; the bliss of Brahman and all the rest is not equal to a single drop of it.[^24]
+(85) The fifth goal of life is prema, a boundless ocean of nectarean bliss; the bliss of Brahman and all the rest is not equal to a single drop of it.[^24]
 
 কৃষ্ণনামের ফল — ‘প্রেমা’, সর্ব্বশাস্ত্রে কয় ৷  
 ভাগ্যে সেই প্রেমা তোমায় করিল উদয় ॥ ৮৬ ॥
@@ -1193,7 +1193,7 @@ consisting of jīvas  O mighty-armed
 yayedaṁ dhāryate jagat  
 by which  this  is taken up  the world
 
-(118) “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, by whom this world is taken up for enjoyment.” (Bhagavad-gītā, 7.5)[^33]
+(118) “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, who take up this world for their own enjoyment.” (Bhagavad-gītā, 7.5)[^33]
 
 বিষ্ণুশক্তিঃ পরা প্রোক্তা ক্ষেত্রজ্ঞাখ্যা তথাপরা ৷  
 অবিদ্যা-কর্ম্মসংজ্ঞান্যা তৃতীয়া শক্তিরিষ্যতে ॥ ১১৯ ॥
@@ -1207,7 +1207,7 @@ called ignorance and karma  another
 tṛtīyā śaktir iṣyate  
 a third  potency  is held to be
 
-(119) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and a third potency, called ignorance and karma, is held to be different.” (Viṣṇu Purāṇa, 6.7.61)[^34]
+(119) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)[^34]
 
 হেন জীবতত্ত্ব লঞা লিখি’ পরতত্ত্ব ৷  
 আচ্ছন্ন করিল শ্রেষ্ঠ ঈশ্বর-মহত্ত্ব ॥ ১২০ ॥
@@ -1237,7 +1237,7 @@ in the transformation-doctrine  Īśvara  becomes  changeable
 eta kahi’ ‘vivarta’-vāda sthāpanā ye kari  
 thus  saying  ‘appearance’-doctrine  establishment  which  he made
 
-(122) He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established the doctrine of appearance (*vivarta-vāda*), the doctrine of illusion.[^37]
+(122) He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.[^37]
 
 বস্তুতঃ পরিণাম-বাদ — সেই সে প্রমাণ ৷  
 দেহে আত্মবুদ্ধি — হয় বিবর্ত্তের স্থান ॥ ১২৩ ॥

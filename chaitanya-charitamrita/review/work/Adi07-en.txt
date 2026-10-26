@@ -9,7 +9,7 @@ w: of the shelterless  the only shelter  having bowed
 w: to the deprived  the highest  who grants
 w: to Śrī Caitanya  is written  His
 w: in giving prema-bhakti  magnanimity
-tr: Bowing to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good, I write of the magnanimity with which He bestows love and devotion for Kṛṣṇa.
+tr: I bow to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good. Now I write of the magnanimity with which He bestows love and devotion for Kṛṣṇa.
 fn: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
 
 ## 2
@@ -166,7 +166,7 @@ w: that  seeing  Mahāprabhu  makes  reflection
 w: the world  to drown  I  made  effort
 w: some  some  escaped  the vow  became  broken
 w: them all  to drown  I shall set  some  play
-tr: Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall set some play in motion.”
+tr: Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall devise a playful ruse.”
 
 ## 33
 w: thus  saying  in the mind  some  making  deliberation
@@ -228,7 +228,7 @@ tr: Hearing all this, the Lord smiled within, and, paying no heed, He spoke with
 ## 44
 w: disregard  making  He made  to Mathurā  going
 w: Mathurā  having seen  again  He made  return
-tr: Paying them no heed, He went on to Mathurā, and after seeing Mathurā He came back again.
+tr: Leaving them unheeded, He went on to Mathurā, and after seeing Mathurā He came back again.
 
 ## 45
 w: in Kāśī  the scribe  the śūdra  Śrī Candraśekhara
@@ -413,12 +413,12 @@ tr: I could no longer keep My composure; I became mad. I laughed and wept, I dan
 ## 79
 w: then  composure  holding  in the mind  I made  consideration
 w: by Kṛṣṇa’s name  knowledge-covered  became  My
-tr: Then, gathering My composure, I reflected: “Kṛṣṇa’s name has covered all My knowledge.
+tr: Then, gathering My composure, I reflected: ‘Kṛṣṇa’s name has covered all My knowledge.
 
 ## 80
 w: mad  have become  I  composure  there is not  in the mind
 w: thus  thinking  I submitted  at the guru’s  feet
-tr: I have gone mad; there is no composure left in My mind.” Thinking this, I came to the feet of My guru and said:
+tr: I have gone mad; there is no composure left in My mind.’ Thinking this, I came to the feet of My guru and said:
 
 ## 81
 w: what  mantra  you gave  Gosāñi  what  its  power
@@ -444,7 +444,7 @@ tr: Prema for Kṛṣṇa is the supreme goal of life; before it the four goals 
 ## 85
 w: the fifth  goal of life  an ocean of the nectar of the bliss of prema
 w: of Brahman and the rest  the bliss  of which  is not  one  drop
-tr: The fifth goal of life is an ocean of the nectar of the bliss of prema; the bliss of Brahman and all the rest is not equal to a single drop of it.
+tr: The fifth goal of life is prema, a boundless ocean of nectarean bliss; the bliss of Brahman and all the rest is not equal to a single drop of it.
 fn: As in the Gauḍīya Maṭha edition: «ব্রহ্মাদি আনন্দ» (“the bliss of Brahman and the rest”; the heading: “Prema, which puts liberation and the rest to shame, is the fifth goal of life”). *Amṛta-pravāha-bhāṣya*: even the bliss of Brahman, the first stage of liberation, cannot be compared with a single drop of prema. Other editions read «মোক্ষাদি» (“liberation and the rest”).
 
 ## 86
@@ -621,7 +621,7 @@ w: inferior  this  beyond this  but  another
 w: nature  know  My  superior
 w: consisting of jīvas  O mighty-armed
 w: by which  this  is taken up  the world
-tr: “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, by whom this world is taken up for enjoyment.” (Bhagavad-gītā, 7.5)
+tr: “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, who take up this world for their own enjoyment.” (Bhagavad-gītā, 7.5)
 fn: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, *māyā*; the other, superior nature is the jīvas, and *māyā* has no part in forming the jīva — only its seeming material self belongs to *māyā*.
 
 ## 119
@@ -629,7 +629,7 @@ w: Viṣṇu’s potency  superior  is declared
 w: called the knower of the field  likewise  superior
 w: called ignorance and karma  another
 w: a third  potency  is held to be
-tr: “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and a third potency, called ignorance and karma, is held to be different.” (Viṣṇu Purāṇa, 6.7.61)
+tr: “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
 fn: *Amṛta-pravāha-bhāṣya*: Viṣṇu’s potency is threefold: the superior (*parā*) is the spiritual potency (*cit-śakti*); the *kṣetrajña* is the jīva potency; that called ignorance and karma is *māyā*.
 
 ## 120
@@ -647,7 +647,7 @@ fn: The edition’s heading: “The *Brahma-sūtra* accepts *śakti-pariṇāma-
 ## 122
 w: in the transformation-doctrine  Īśvara  becomes  changeable
 w: thus  saying  ‘appearance’-doctrine  establishment  which  he made
-tr: He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established the doctrine of appearance (*vivarta-vāda*), the doctrine of illusion.
+tr: He argued that by the doctrine of transformation the Lord would be subject to change, and on that ground he established *vivarta-vāda*, the doctrine of illusion.
 fn: *Amṛta-pravāha-bhāṣya*: Śaṅkara argued that by *pariṇāma-vāda* the Lord would have to be called changeable, and that to accept it would be to call Vyāsa mistaken; so he established *vivarta-vāda* (in his commentary on *Brahma-sūtra* 2.1.14). But in the sūtras the transformation is the work of the Lord’s inconceivable potency, acting by His will alone.
 
 ## 123
