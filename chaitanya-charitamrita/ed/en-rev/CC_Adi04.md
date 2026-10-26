@@ -160,7 +160,7 @@ of the relishers of rasa  the crown  Kṛṣṇa  supremely merciful
 ei dui hetu haite icchāra udgama  
 these  two  reasons  from  of the desire  the rising
 
-(15–16) To taste the very essence of the rasa of love, and to spread in the world devotion on the path of rāga (*rāga-mārga*) — from these two reasons the desire arose in Kṛṣṇa, the crown of all who relish rasa, who is supremely merciful.[^6]
+(15–16) To taste the very essence of the rasa of love, and to spread in the world devotion on the path of rāga (*rāga-mārga*) — for these two reasons the desire to descend arose in Kṛṣṇa, the crown of all who relish rasa, the supremely merciful.[^6]
 
 ঐশ্বর্য্য-জ্ঞানেতে সব জগৎ মিশ্রিত ৷  
 ঐশ্বর্য্য-শিথিল-প্রেমে নাহি মোর প্রীত ॥ ১৭ ॥
@@ -235,7 +235,7 @@ by good fortune  which  arose  for Me  the love
 bhavatīnāṁ mad-āpanaḥ  
 of you  bringing Me
 
-(23) “Devotion to Me brings living beings to immortality. And how fortunate it is that you have love for Me — for it brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^10]
+(23) “Devotion to Me brings living beings to immortality. And it is your good fortune that you have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^10]
 
 মাতা মোরে পুত্ত্রভাবে করেন বন্ধন ৷  
 অতিহীন-জ্ঞানে করে লালন পালন ॥ ২৪ ॥
@@ -282,7 +282,7 @@ in Vaikuṇṭha and elsewhere  there is not  which  which  of pastimes  the dis
 se se līlā kariba, yāte mora camatkāra  
 those  those  pastimes  I shall perform  in which  My  wonder
 
-(27–28) Taking this pure devotion, I shall descend and perform many kinds of wondrous pastimes. I shall perform pastimes such as are not shown even in Vaikuṇṭha — pastimes that astonish even Me.[^12]
+(27–28) Taking this pure devotion, I shall descend and perform many kinds of wondrous pastimes — pastimes not shown even in Vaikuṇṭha, pastimes that astonish even Me.[^12]
 
 মো-বিষয়ে গোপীগণের উপপতি-ভাবে ৷  
 যোগমায়া করিবেক আপনপ্রভাবে ॥ ২৯ ॥
@@ -595,7 +595,7 @@ those  two  one  now  Caitanya  Gosāñi
 bhāva āsvādite dom̐he hailā eka-ṭhāñi  
 the mood  to taste  the Two  became  in one place
 
-(57) Now those Two have become one — Caitanya Gosāñi; to taste that mood (*bhāva*) the Two have come together in one.[^34]
+(57) Now those Two are one — Caitanya Gosāñi; to taste that mood (*bhāva*), They have come together in one form.[^34]
 
 ইথি লাগি’ আগে করি তার বিবরণ ৷  
 যাহা হৈতে হয় গৌরের মহিমা-কথন ॥ ৫৮ ॥
@@ -1432,7 +1432,7 @@ so  thinking  remains  Kṛṣṇa  supremely eager for wonder
 hṛdaye bāḍaye prema-lobha dhakdhaki  
 in the heart  grows  for love  the greed  blazing
 
-(136) Thinking thus, Kṛṣṇa, ever eager for wonder, remains; and in His heart the longing for that love blazes ever higher.
+(136) So Kṛṣṇa reflects, ever eager for wonder, and in His heart the longing for that love blazes ever higher.
 
 এই এক, শুন আর লোভের প্রকার ৷  
 স্বমাধুর্য্য দেখি’ কৃষ্ণ করেন বিচার ॥ ১৩৭ ॥
@@ -1604,7 +1604,7 @@ by the eyes  placed in the heart  fully  embracing  all
 tad-bhāvam āpur api nitya-yujāṁ durāpam  
 that state  attained  even  of those ever-united  hard to attain
 
-(152) “Having at last, after long separation, obtained their beloved Kṛṣṇa — at whom they gazed cursing the maker of eyelids — the gopīs through their eyes placed Him in their hearts and embraced Him there to their fill. So they all attained a state that even perfected yogīs can hardly reach.” (Śrīmad-Bhāgavatam, 10.82.39)[^108]
+(152) “At last, after long separation, the gopīs found their beloved Kṛṣṇa. Gazing at Him, they cursed the maker of their eyelids; then through their eyes they took Him into their hearts and embraced Him there to their fill. So they all attained a state that even perfected yogīs can hardly reach.” (Śrīmad-Bhāgavatam, 10.82.39)[^108]
 
 অটতি যদ্ভবানহ্নি কাননং  
 ত্রুটির্যুগায়তে ত্বামপশ্যতাম্ ৷  
@@ -1942,7 +1942,7 @@ this  body  have made  I  to Kṛṣṇa  offering
 tām̐ra dhana tām̐ra ei sambhoga-kāraṇa  
 His  property  His  this  of enjoyment  the means
 
-(182) “This body I have offered to Kṛṣṇa. It is His property, the means of His enjoyment.
+(182) “This body I have offered to Kṛṣṇa. It is His property, meant for His delight.
 
 এদেহ-দর্শন-স্পর্শে কৃষ্ণ-সন্তোষণ ৷  
 এই লাগি’ করে অঙ্গের মার্জ্জন-ভূষণ ॥ ১৮৩ ॥
@@ -2614,7 +2614,7 @@ by My  beauty  satisfied  makes  the three worlds
 rādhāra darśane mora juḍāya nayana  
 Rādhā’s  by the sight  My  are refreshed  eyes
 
-(242–243) Though My beauty surpasses ten million Cupids, though My sweetness is unequalled and unsurpassed, and though My beauty satisfies the three worlds — My eyes find their refreshment in seeing Rādhā.
+(242–243) Though My beauty surpasses ten million Cupids, though My sweetness is unequalled and unsurpassed, and though My form satisfies the three worlds — My eyes find their refreshment in seeing Rādhā.
 
 মোর বংশী-গীত আকর্ষয়ে ত্রিভুবন ৷  
 রাধার বচনে হরে আমার শ্রবণ ॥ ২৪৪ ॥
@@ -2634,7 +2634,7 @@ although  by My  fragrance  the world  is fragrant
 mora citta-prāṇa hare rādhā-aṅga-gandha  
 My  heart  life  steals  of Rādhā’s  body  the fragrance
 
-(245) Though the world is fragrant with My fragrance, the fragrance of Rādhā’s body steals My heart and My life.[^175]
+(245) Though My fragrance perfumes the whole world, the scent of Rādhā’s body steals My heart and My life.[^175]
 
 যদ্যপি আমার রসে জগৎ সুরস ৷  
 রাধার অধর-রসে আমা করে বশ ॥ ২৪৬ ॥
