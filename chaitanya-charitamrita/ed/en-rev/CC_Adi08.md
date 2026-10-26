@@ -321,6 +321,292 @@ the seed of the name of Kṛṣṇa  there  not  makes  a sprout
 
 (29–30) If one takes such a name of Kṛṣṇa again and again, and still love does not come, nor streams of tears, then I know that his offences are many: the seed of the name of Kṛṣṇa does not sprout in him.[^16]
 
+চৈতন্য-নিত্যানন্দে নাহি এসব বিচার ৷  
+নাম লৈতে প্রেম দেন, বহে অশ্রুধার ॥ ৩১ ॥
+
+caitanya-nityānande nāhi esaba vicāra  
+in Caitanya and Nityānanda  there is not  all such  consideration  
+nāma laite prema dena, vahe aśrudhāra  
+the name  on taking  love  They give  flow  streams of tears
+
+(31) With Caitanya and Nityānanda there is no such weighing of offences: as soon as one takes Their names They give love, and streams of tears flow.[^17]
+
+স্বতন্ত্র ঈশ্বর প্রভু অত্যন্ত উদার ৷  
+তাঁরে না ভজিলে কভু না হয় নিস্তার ॥ ৩২ ॥
+
+svatantra īśvara prabhu atyanta udāra  
+independent  the Lord  the Master  exceedingly  magnanimous  
+tām̐re nā bhajile kabhu nā haya nistāra  
+Him  not  worshipping  ever  not  there is  deliverance
+
+(32) The Lord is independent and supremely magnanimous; without worshipping Him there is never any deliverance.[^18]
+
+ওরে মূঢ় লোক, শুন চৈতন্যমঙ্গল ৷  
+চৈতন্য-মহিমা যাতে জানিবে সকল ॥ ৩৩ ॥
+
+ore mūḍha loka, śuna caitanya-maṅgala  
+O  foolish  people  hear  the Caitanya-maṅgala  
+caitanya-mahimā yāte jānibe sakala  
+Caitanya’s glory  in which  you will know  all
+
+(33) O foolish people, hear the *Caitanya-maṅgala*, and from it you will know all the glory of Caitanya![^19]
+
+কৃষ্ণলীলা ভাগবতে কহে বেদব্যাস ৷  
+চৈতন্য-লীলার ব্যাস — বৃন্দাবন দাস ॥ ৩৪ ॥
+
+kṛṣṇa-līlā bhāgavate kahe veda-vyāsa  
+Kṛṣṇa’s pastimes  in the Bhāgavata  tells  Veda-vyāsa  
+caitanya-līlāra vyāsa — vṛndāvana dāsa  
+of Caitanya’s pastimes  the Vyāsa  Vṛndāvana dāsa
+
+(34) Veda-vyāsa told the pastimes of Kṛṣṇa in the *Bhāgavata*; the Vyāsa of Caitanya’s pastimes is Vṛndāvana dāsa.
+
+বৃন্দাবন দাস কৈল ‘চৈতন্যমঙ্গল’ ৷  
+যাঁহার শ্রবণে নাশে সর্ব্ব অমঙ্গল ॥ ৩৫ ॥
+
+vṛndāvana dāsa kaila ‘caitanya-maṅgala’  
+Vṛndāvana  dāsa  composed  the Caitanya-maṅgala  
+yām̐hāra śravaṇe nāśe sarva amaṅgala  
+of which  by hearing  is destroyed  all  inauspiciousness
+
+(35) Vṛndāvana dāsa composed the *Caitanya-maṅgala*, and by hearing it all that is inauspicious is destroyed.
+
+চৈতন্য-নিতাইর যাতে জানিয়ে মহিমা ৷  
+যাতে জানি কৃষ্ণভক্তিসিদ্ধান্তের সীমা ॥ ৩৬ ॥
+
+caitanya-nitāira yāte jāniye mahimā  
+of Caitanya and Nitāi  in which  one knows  the glory  
+yāte jāni kṛṣṇa-bhakti-siddhāntera sīmā  
+in which  I know  of the conclusions of devotion to Kṛṣṇa  the utmost limit
+
+(36) In it one comes to know the glory of Caitanya and Nitāi, and in it I find the utmost reach of the conclusions of devotion to Kṛṣṇa.[^20]
+
+ভাগবতে যত ভক্তিসিদ্ধান্তের সার ৷  
+লিখিয়াছেন ইঁহা জানি’ করিয়া উদ্ধার ॥ ৩৭ ॥
+
+bhāgavate yata bhakti-siddhāntera sāra  
+in the Bhāgavata  all  of the conclusions of devotion  the essence  
+likhiyāchena im̐hā jāni’ kariyā uddhāra  
+he has written  this  knowing  making  extraction
+
+(37) Knowing all the essence of the conclusions of devotion in the *Bhāgavata*, he drew it out and set it down in writing.
+
+‘চৈতন্যমঙ্গল’ শুনে যদি পাষণ্ডী, যবন ৷  
+সেহ মহা-বৈষ্ণব হয় ততক্ষণ ॥ ৩৮ ॥
+
+‘caitanya-maṅgala’ śune yadi pāṣaṇḍī, yavana  
+the Caitanya-maṅgala  hears  if  an unbeliever  a yavana  
+seha mahā-vaiṣṇava haya tata-kṣaṇa  
+he too  a great Vaiṣṇava  becomes  at that moment
+
+(38) If even an unbeliever or a yavana hears the *Caitanya-maṅgala*, he becomes a great Vaiṣṇava at that very moment.
+
+মনুষ্যে রচিতে নারে ঐছে গ্রন্থ ধন্য ৷  
+বৃন্দাবনদাস-মুখে বক্তা শ্রীচৈতন্য ॥ ৩৯ ॥
+
+manuṣye racite nāre aiche grantha dhanya  
+a human being  to compose  cannot  such  a book  blessed  
+vṛndāvana-dāsa-mukhe vaktā śrī-caitanya  
+through the mouth of Vṛndāvana dāsa  the speaker  Śrī Caitanya
+
+(39) No human being could compose so blessed a book: it is Śrī Caitanya who speaks through the mouth of Vṛndāvana dāsa.
+
+বৃন্দাবনদাস-পদে কোটি নমস্কার ৷  
+ঐছে গ্রন্থ করি’ তেঁহো তারিলা সংসার ॥ ৪০ ॥
+
+vṛndāvana-dāsa-pade koṭi namaskāra  
+at the feet of Vṛndāvana dāsa  millions  of obeisances  
+aiche grantha kari’ tem̐ho tārilā saṁsāra  
+such  a book  making  he  delivered  the world
+
+(40) Millions of obeisances at the feet of Vṛndāvana dāsa! By writing such a book he delivered the world.
+
+নারায়ণী — চৈতন্যের উচ্ছিষ্ট-ভাজন ৷  
+তাঁর গর্ভে জন্মিলা শ্রীদাস-বৃন্দাবন ॥ ৪১ ॥
+
+nārāyaṇī — caitanyera ucchiṣṭa-bhājana  
+Nārāyaṇī  of Caitanya  the remnants  partaker  
+tām̐ra garbhe janmilā śrī-dāsa-vṛndāvana  
+her  in the womb  was born  Śrī Vṛndāvana dāsa
+
+(41) Nārāyaṇī partook of Caitanya’s remnants, and from her womb Śrī Vṛndāvana dāsa was born.[^21]
+
+তাঁর কি অদ্ভুত চৈতন্যচরিত-বর্ণন ৷  
+যাহার শ্রবণে শুদ্ধ কৈল ত্রিভুবন ॥ ৪২ ॥
+
+tām̐ra ki adbhuta caitanya-carita-varṇana  
+his  what  wonderful  of Caitanya’s deeds  description  
+yāhāra śravaṇe śuddha kaila tri-bhuvana  
+of which  by the hearing  pure  were made  the three worlds
+
+(42) How wonderful is his description of Caitanya’s deeds! By hearing it the three worlds were purified.
+
+অতএব ভজ, লোক, চৈতন্য-নিত্যানন্দ ৷  
+খণ্ডিবে সংসার-দুঃখ, পাবে প্রেমানন্দ ॥ ৪৩ ॥
+
+ataeva bhaja, loka, caitanya-nityānanda  
+therefore  worship  O people  Caitanya and Nityānanda  
+khaṇḍibe saṁsāra-duḥkha, pābe premānanda  
+will be cut  the misery of worldly life  you will attain  the bliss of love
+
+(43) Therefore, O people, worship Caitanya and Nityānanda! The misery of worldly life will be cut away, and you will attain the bliss of love.
+
+বৃন্দাবন-দাস কৈল ‘চৈতন্য-মঙ্গল’ ৷  
+তাহাতে চৈতন্য-লীলা বর্ণিল সকল ॥ ৪৪ ॥
+
+vṛndāvana-dāsa kaila ‘caitanya-maṅgala’  
+Vṛndāvana dāsa  composed  the Caitanya-maṅgala  
+tāhāte caitanya-līlā varṇila sakala  
+in it  Caitanya’s pastimes  he described  all
+
+(44) Vṛndāvana dāsa composed the *Caitanya-maṅgala*, and in it he told all the pastimes of Caitanya.
+
+সূত্র করি’ সব লীলা করিল গ্রন্থন ৷  
+পাছে বিস্তারিয়া তাহার কৈল বিবরণ ॥ ৪৫ ॥
+
+sūtra kari’ saba līlā karila granthana  
+as a summary  making  all  the pastimes  he composed  
+pāche vistāriyā tāhāra kaila vivaraṇa  
+afterwards  expanding  of them  he made  the description
+
+(45) First he set down all the pastimes in brief, as a summary, and afterwards described them at length.
+
+চৈতন্যচন্দ্রের লীলা অনন্ত অপার ৷  
+বর্ণিতে বর্ণিতে গ্রন্থ হইল বিস্তার ॥ ৪৬ ॥
+
+caitanya-candrera līlā ananta apāra  
+of Caitanya-candra  the pastimes  endless  boundless  
+varṇite varṇite grantha haila vistāra  
+describing  describing  the book  became  large
+
+(46) The pastimes of Caitanya-candra are endless and boundless, and as he went on describing them the book grew long.
+
+বিস্তার দেখিয়া কিছু সঙ্কোচ হৈল মন ৷  
+সূত্রধৃত কোন লীলা না কৈল বর্ণন ॥ ৪৭ ॥
+
+vistāra dekhiyā kichu saṅkoca haila mana  
+the length  seeing  somewhat  hesitant  became  his mind  
+sūtra-dhṛta kona līlā nā kaila varṇana  
+held in the summary  some  pastimes  not  he made  description
+
+(47) Seeing its length, he grew somewhat hesitant, and some of the pastimes held in the summary he did not describe.[^22]
+
+নিত্যানন্দ-লীলা-বর্ণনে হইল আবেশ ৷  
+চৈতন্যের শেষ-লীলা রহিল অবশেষ ॥ ৪৮ ॥
+
+nityānanda-līlā-varṇane haila āveśa  
+in describing Nityānanda’s pastimes  there was  absorption  
+caitanyera śeṣa-līlā rahila avaśeṣa  
+of Caitanya  the final pastimes  remained  left over
+
+(48) He became absorbed in describing the pastimes of Nityānanda, and Caitanya’s final pastimes were left untold.
+
+সেই সব লীলার শুনিতে বিবরণ ৷  
+বৃন্দাবনবাসী ভক্তের উৎকণ্ঠিত মন ॥ ৪৯ ॥
+
+sei saba līlāra śunite vivaraṇa  
+of those  all  pastimes  to hear  the description  
+vṛndāvana-vāsī bhaktera utkaṇṭhita mana  
+the residents of Vṛndāvana  of the devotees  eager  the hearts
+
+(49) The devotees of Vṛndāvana longed to hear the account of all those pastimes.
+
+বৃন্দাবনে কল্প-দ্রুমে সুবর্ণ-সদন ৷  
+মহা-যোগপীঠ তাহাঁ, রত্ন-সিংহাসন ॥ ৫০ ॥
+
+vṛndāvane kalpa-drume suvarṇa-sadana  
+in Vṛndāvana  at a wish-fulfilling tree  a golden  dwelling  
+mahā-yogapīṭha tāhām̐, ratna-siṁhāsana  
+the great  Yogapīṭha  there  a jewelled throne
+
+(50) In Vṛndāvana, beneath a wish-fulfilling tree, stands a golden temple; there is the great Yogapīṭha, and in it a jewelled throne.
+
+তাতে বসি’ আছে সদা ব্রজেন্দ্রনন্দন ৷  
+‘শ্রীগোবিন্দ-দেব’ নাম সাক্ষাৎ মদন ॥ ৫১ ॥
+
+tāte vasi’ āche sadā vrajendra-nandana  
+on it  seated  is  always  the son of the king of Vraja  
+‘śrī-govinda-deva’ nāma sākṣāt madana  
+Śrī Govinda-deva  by name  in person  Madana
+
+(51) On it the son of the king of Vraja is ever seated: His name is Śrī Govinda-deva, the very god of love.
+
+রাজ-সেবা হয় তাঁহা বিচিত্র প্রকার ৷  
+দিব্য সামগ্রী, দিব্য বস্ত্র-অলঙ্কার ॥ ৫২ ॥
+
+rāja-sevā haya tām̐hā vicitra prakāra  
+royal service  is  there  of many  kinds  
+divya sāmagrī, divya vastra-alaṅkāra  
+divine  articles  divine  clothes and ornaments
+
+(52) There He is served like a king in many wonderful ways, with divine offerings, divine garments and ornaments.
+
+সহস্র সেবক সেবা করে অনুক্ষণ ৷  
+সহস্র-বদনে সেবা না যায় বর্ণন ॥ ৫৩ ॥
+
+sahasra sevaka sevā kare anukṣaṇa  
+a thousand  servants  service  render  constantly  
+sahasra-vadane sevā nā yāya varṇana  
+with a thousand mouths  the service  not  can be  described
+
+(53) A thousand servants serve Him constantly; that service could not be described even with a thousand mouths.
+
+সেবার অধ্যক্ষ — শ্রীপণ্ডিত হরিদাস ৷  
+তাঁর যশঃ-গুণ সর্ব্বজগতে প্রকাশ ॥ ৫৪ ॥
+
+sevāra adhyakṣa — śrī-paṇḍita haridāsa  
+of the service  the superintendent  Śrī Paṇḍita  Haridāsa  
+tām̐ra yaśaḥ-guṇa sarva-jagate prakāśa  
+his  fame and virtues  in all the world  are known
+
+(54) The superintendent of that service is Śrī Haridāsa Paṇḍita, whose fame and virtues are known throughout the world.
+
+সুশীল, সহিষ্ণু, শান্ত, বদান্য, গম্ভীর ৷  
+মধুর-বচন, মধুর-চেষ্টা, মহাধীর ॥ ৫৫ ॥
+
+suśīla, sahiṣṇu, śānta, vadānya, gambhīra  
+good-natured  tolerant  peaceful  generous  grave  
+madhura-vacana, madhura-ceṣṭā, mahā-dhīra  
+sweet in speech  sweet in conduct  supremely steady
+
+(55) He is gentle, patient, serene, generous and grave, sweet in speech and sweet in conduct, and steady beyond measure.
+
+সবার সম্মান-কর্ত্তা, করেন সবার হিত ৷  
+কৌটিল্য-মাৎসর্য্য-হিংসা শূন্য তাঁর চিত ॥ ৫৬ ॥
+
+sabāra sammāna-kartā, karena sabāra hita  
+to all  giving respect  he does  of all  the good  
+kauṭilya-mātsarya-hiṁsā śūnya tām̐ra cita  
+crookedness  envy  malice  empty of  his  heart
+
+(56) He honours everyone and works for the good of all; his heart is free of crookedness, envy and malice.
+
+কৃষ্ণের যে সাধারণ সদ্গুণ পঞ্চাশ ৷  
+সে সব গুণের তাঁর শরীরে নিবাস ॥ ৫৭ ॥
+
+kṛṣṇera ye sādhāraṇa sad-guṇa pañcāśa  
+of Kṛṣṇa  which  common  good qualities  fifty  
+se saba guṇera tām̐ra śarīre nivāsa  
+those  all  of qualities  his  in the body  is the dwelling
+
+(57) The fifty good qualities of Kṛṣṇa that are shared in part by others all dwell in his person.[^23]
+
+যস্যাস্তি ভক্তির্ভগবত্যকিঞ্চনা  
+সর্ব্বৈর্গুণৈস্তত্র সমাসতে সুরাঃ ৷  
+হরাবভক্তস্য কুতো মহদ্-গুণা  
+মনোরথেনাসতি ধাবতো বহিঃ ॥ ৫৮ ॥
+
+yasyāsti bhaktir bhagavaty akiñcanā  
+in whom  there is  devotion  to the Lord  free of desire  
+sarvair guṇais tatra samāsate surāḥ  
+with all  qualities  there  dwell  the gods  
+harāv abhaktasya kuto mahad-guṇā  
+to Hari  of one not devoted  whence  great qualities  
+mano-rathenāsati dhāvato bahiḥ  
+by the chariot of the mind  toward the unreal  running  outward
+
+(58) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But whence can great qualities come to one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^24]
+
 ---
 
 [^1]: *Amṛta-pravāha-bhāṣya*: by the will of Lord Caitanya-deva I, a fool like a painted puppet, have suddenly begun this dance of writing a book. *Anubhāṣya*: *jaḍaḥ* — “like one without sense”; *lekha-raṅge* — “in the play of composing this book”; *prasabham* — “suddenly”.
@@ -354,3 +640,19 @@ the seed of the name of Kṛṣṇa  there  not  makes  a sprout
 [^15]: Edition heading: “The self-manifest Lord, the Name, rising on the tongue, bestows love for Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: the devotion that awakens prema is *sādhana-bhakti*; it is this that the holy name reveals.
 
 [^16]: Edition heading to 29: “The countless hearing and chanting of one who offends the holy name are fruitless.”
+
+[^17]: Edition heading: “With Gaura and Nitāi, and with Their names, offences are not weighed.” *Amṛta-pravāha-bhāṣya*: whoever takes shelter of Caitanya and Nityānanda with faith has his past offences washed away in a moment, and They give prema as soon as the name of Kṛṣṇa begins to rise on his lips. *Anubhāṣya*: an offender who chants the name of Kṛṣṇa does not obtain the fruit of the name, prema; but one who chants the names of Gaura and Nityānanda, even while still an offender, is freed from offences in the very act of chanting and obtains that fruit. The name of Kṛṣṇa and the name of Gaura are equally non-different from the One they name; but Kṛṣṇa’s magnanimity is shown to the liberated, while that of Gaura and Nityānanda reaches even those who still have *anarthas*.
+
+[^18]: Edition heading: “There is no other way than to worship the magnanimous Gaura.” *Anubhāṣya*: “worshipping Śrī Caitanya” does not mean worshipping Gaura while leaving aside Rādhā-Kṛṣṇa; those who bypass Svarūpa, Rūpa, Raghunātha and the other ācāryas closest to Śrī Caitanya and invent their own worship of Gaura are never delivered.
+
+[^19]: *Amṛta-pravāha-bhāṣya*: the *Caitanya-maṅgala* is the *Caitanya-bhāgavata* of Śrī Vṛndāvana dāsa Ṭhākura of the village of Denuḍ (Bardhamān district). The book was first called *Caitanya-maṅgala*; it is said that when Locana dāsa Ṭhākura began to sing his own *Caitanya-maṅgala*, Vṛndāvana dāsa renamed his book. Edition heading to 33–35: “The highest good of the jīva lies in hearing the *Caitanya-bhāgavata* of Ṭhākura Vṛndāvana dāsa, the incarnation of Vyāsa.”
+
+[^20]: *Anubhāṣya*: the *Śrīmad-Bhāgavatam* is the treasury of the conclusions of bhakti, but it is so vast that many cannot take in its essence; that essence Śrī Vṛndāvana dāsa Ṭhākura set down in his *Śrī Caitanya-bhāgavata*. Only those who know the conclusions of devotion can truly understand the glory of Nitāi-Gaura, for without right understanding (*siddhānta*) the goddess of Devotion cannot be served.
+
+[^21]: *Amṛta-pravāha-bhāṣya*: Nārāyaṇī was the daughter of Śrīvāsa Paṇḍita’s brother; as a child she received the remnants of Mahāprabhu’s meal after kīrtana. *Anubhāṣya*: in the *Gaura-gaṇoddeśa-dīpikā* Kavi-karṇapūra writes that Nārāyaṇī is Kilimbikā, the sister of Kṛṣṇa’s nurse Ambikā, who ate Kṛṣṇa’s remnants. Ṭhākura Vṛndāvana is known through his mother, who received Śrī Gaurasundara’s remnants and mercy; his ancestry on his father’s side is not given, for a Vaiṣṇava needs no introduction through his forefathers.
+
+[^22]: Edition heading: “But for fear of enlarging the book he did not wish to expand the summary.”
+
+[^23]: *Amṛta-pravāha-bhāṣya*: the fifty common qualities of Kṛṣṇa are listed in the *Bhakti-rasāmṛta-sindhu* (Southern Division, First Wave: *ayaṁ netā suramyāṅgaḥ…*).
+
+[^24]: *Anubhāṣya*: Śukadeva speaks these words to Parīkṣit while describing the qualities of the great devotee Prahlāda. *Akiñcanā* — “free of desire”; *samāsate* — “dwell eternally”; *asati* — “in the passing happiness of sense objects”; *mahad-guṇāḥ* — the virtues of the great, such as knowledge and detachment. *Amṛta-pravāha-bhāṣya*: in one who has pure devotion to Kṛṣṇa the gods abide with all their qualities; but the mind of one without devotion to Hari always runs after what is external and unreal, and great qualities are impossible for him.
