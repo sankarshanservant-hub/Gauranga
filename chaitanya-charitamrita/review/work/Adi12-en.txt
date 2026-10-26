@@ -305,7 +305,7 @@ tr: There is much to consider in this episode, but I cannot write of it for fear
 ## 56
 w: Śrī  Yadunandana Ācārya  —  Advaita’s  branch
 w: his  of branches  and offshoots  the host  there is no  record
-tr: Śrī Yadunandana Ācārya is a branch of Advaita. His branches and offshoots are past all writing.
+tr: Śrī Yadunandana Ācārya is a branch of Advaita; his own branches and offshoots are past all writing.
 
 ## 57
 w: of Vāsudeva  Datta  he  of the mercy  recipient
@@ -380,7 +380,7 @@ tr: In its anger the trunk let no water pass to them, and for want of water the 
 ## 70
 w: without consciousness  the body  —  dry  wood  like
 w: while living  dead  he,  when he dies  punishes  Yama
-tr: A body without consciousness is like dry wood. So too, one without Caitanya is dead while still alive, and when he dies, Yama punishes him.
+tr: A body without consciousness (*caitanya*) is like dry wood. So too, one without Caitanya is dead while still alive, and when he dies, Yama punishes him.
 fn: A play on words: *caitanya-rahita* means both “without consciousness” and “without Caitanya”. Heading in the edition: “The devotee of Gaura-Kṛṣṇa is a guru to Yama; one who turns from Gaura-Kṛṣṇa is subject to Yama’s punishment.” The *Anubhāṣya* quotes Yama’s words to his messengers (Śrīmad-Bhāgavatam, 6.3.29): “Bring me those wicked ones whose tongue does not speak the names and qualities of the Lord, whose heart does not remember His lotus feet, whose head has not bowed even once to Kṛṣṇa — those who have not done their duty to Viṣṇu.”
 
 ## 71
@@ -423,7 +423,7 @@ tr: The offshoots of these branches are past counting; I have told only a little
 ## 78
 w: of Śrī  Gadādhara  Paṇḍita  the offshoots  most excellent
 w: his  offshoots  some  I make  indeed  a count
-tr: Most excellent are the offshoots of Śrī Gadādhara Paṇḍita, and some of them I shall now name.
+tr: The offshoots of Śrī Gadādhara Paṇḍita are most excellent, and I shall now name some of them.
 fn: Gadādhara Paṇḍita himself is a great branch of the main trunk (Ādi 10.15). Heading in the edition: “Śrī Gadādhara’s disciples, or offshoots.” Other editions read here *paṇḍita śākhāte mahottama*, “Paṇḍita is the most excellent among the branches”.
 
 ## 79
@@ -474,7 +474,7 @@ tr: Amogha Paṇḍita, Hastigopāla, Caitanya-vallabha, Yadu Gāṅguli and Ma�
 ## 87
 w: Cakravartī  Śivānanda  among the branches  unbounded
 w: of Madana-gopāla  at the feet  whose  rest
-tr: Among the branches Śivānanda Cakravartī stood out in his ardour; he found his rest at the feet of Madana-gopāla.
+tr: Among the branches Śivānanda Cakravartī stood out in his ardour; his heart found its rest at the feet of Madana-gopāla.
 fn: *Anubhāṣya*: Śivānanda Cakravartī is a manifestation of Lavaṅga-mañjarī (*GGD* 183); he lived in Vṛndāvana (see Ādi 8.70).
 
 ## 88
@@ -502,7 +502,7 @@ tr: By remembering them one attains the feet of Śrī Caitanya; by remembering t
 ## 92
 w: therefore  of them all  I worship  the feet
 w: of Caitanya the gardener  I tell  of the pastimes  the sequence
-tr: Therefore I bow down at the feet of them all, and now I shall tell in their order the pastimes of Caitanya the gardener.
+tr: Therefore I bow down at the feet of them all, and now I shall tell, in due order, the pastimes of Caitanya the gardener.
 
 ## 93
 w: of Gaura’s pastimes  the nectar ocean  —  shoreless,  fathomless

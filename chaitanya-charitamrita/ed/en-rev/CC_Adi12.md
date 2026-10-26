@@ -570,7 +570,7 @@ of the book  the lengthening  for fear  I cannot  write
 tām̐ra śākhā-upaśākhā-gaṇera nāhi lekhā  
 his  of branches  and offshoots  the host  there is no  record
 
-(56) Śrī Yadunandana Ācārya is a branch of Advaita. His branches and offshoots are past all writing.
+(56) Śrī Yadunandana Ācārya is a branch of Advaita; his own branches and offshoots are past all writing.
 
 বাসুদেব দত্তের তেঁহো কৃপার ভাজন ৷  
 সর্ব্বভাবে আশ্রিয়াছে চৈতন্য-চরণ ॥ ৫৭ ॥
@@ -710,7 +710,7 @@ without consciousness  the body  —  dry  wood  like
 jīvitei mṛta sei, maile daṇḍe yama  
 while living  dead  he,  when he dies  punishes  Yama
 
-(70) A body without consciousness is like dry wood. So too, one without Caitanya is dead while still alive, and when he dies, Yama punishes him.[^25]
+(70) A body without consciousness (*caitanya*) is like dry wood. So too, one without Caitanya is dead while still alive, and when he dies, Yama punishes him.[^25]
 
 কেবল এ গণ-প্রতি নহে এই দণ্ড ৷  
 চৈতন্য-বিমুখ যেই, সেই ত’ পাষণ্ড ॥ ৭১ ॥
@@ -790,7 +790,7 @@ of Śrī  Gadādhara  Paṇḍita  the offshoots  most excellent
 tām̐ra upaśākhā kichu kari ye gaṇana  
 his  offshoots  some  I make  indeed  a count
 
-(78) Most excellent are the offshoots of Śrī Gadādhara Paṇḍita, and some of them I shall now name.[^28]
+(78) The offshoots of Śrī Gadādhara Paṇḍita are most excellent, and I shall now name some of them.[^28]
 
 শাখা-শ্রেষ্ঠ ধ্রুবানন্দ, শ্রীধর ব্রহ্মচারী ৷  
 ভাগবতাচার্য্য, হরিদাস ব্রহ্মচারী ॥ ৭৯ ॥
@@ -880,7 +880,7 @@ Cakravartī  Śivānanda  among the branches  unbounded
 madana-gopāla pāye yām̐hāra viśrāma  
 of Madana-gopāla  at the feet  whose  rest
 
-(87) Among the branches Śivānanda Cakravartī stood out in his ardour; he found his rest at the feet of Madana-gopāla.[^34]
+(87) Among the branches Śivānanda Cakravartī stood out in his ardour; his heart found its rest at the feet of Madana-gopāla.[^34]
 
 এই ত’ সংক্ষেপে কহিলাঙ পণ্ডিতের গণ ৷  
 ঐছে আর শাখা-উপশাখার গণন ॥ ৮৮ ॥
@@ -930,7 +930,7 @@ therefore  of them all  I worship  the feet
 caitanya-mālīra kahi līlā-anukrama  
 of Caitanya the gardener  I tell  of the pastimes  the sequence
 
-(92) Therefore I bow down at the feet of them all, and now I shall tell in their order the pastimes of Caitanya the gardener.
+(92) Therefore I bow down at the feet of them all, and now I shall tell, in due order, the pastimes of Caitanya the gardener.
 
 গৌরলীলামৃতসিন্ধু — অপার, অগাধ ৷  
 কে করিতে পারে তাঁহা অবগাহ-সাধ ॥ ৯৩ ॥
