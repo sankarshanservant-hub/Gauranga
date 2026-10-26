@@ -210,13 +210,13 @@ Advaita Ācārya  I take shelter of
 pañca-tattvātmakaṁ kṛṣṇaṁ  
 of five truths  composed  Kṛṣṇa  
 bhakta-rūpa-svarūpakam  
-in the form of a devotee  in the guise of a devotee  
+devotee in form  devotee in essence  
 bhaktāvatāraṁ bhaktākhyaṁ  
 the devotee-avatāra  called a devotee  
 namāmi bhakta-śaktikam  
 I bow to  the devotional potency
 
-(14) “I bow to Kṛṣṇa, who is manifest as five truths — the Pañca-tattva: in the form of a devotee, in the guise of a devotee, as the incarnation of a devotee, as the devotee, and as the potency of devotion.” (Śrī Rūpa Gosvāmī)[^10]
+(14) “I bow to Kṛṣṇa, who is manifest as five truths — the Pañca-tattva: as a devotee in form and a devotee in essence, as the incarnation of a devotee, as the one called a devotee, and as the potency of devotion.” (Śrī Rūpa Gosvāmī)[^10]
 
 জয়তাং সুরতৌ পঙ্গোর্মম মন্দমতের্গতী ৷  
 মৎসর্ব্বস্বপদাম্ভোজৌ রাধামদনমোহনৌ ॥ ১৫ ॥
@@ -340,7 +340,7 @@ in the fourth  verse  I give  to the world  blessing
 sarvatra māgiye kṛṣṇa-caitanya-prasāda  
 everywhere  I beg for  Kṛṣṇa Caitanya’s  grace
 
-(25) In the fourth verse I bless the world, begging everywhere for the grace of Śrī Kṛṣṇa Caitanya.
+(25) In the fourth verse I bless the world, praying that the grace of Śrī Kṛṣṇa Caitanya may reach all.
 
 সেই শ্লোকে কহি বাহ্যাবতার-কারণ ৷  
 পঞ্চ ষষ্ঠ শ্লোকে কহি মূল-প্রয়োজন ॥ ২৬ ॥
@@ -598,7 +598,7 @@ I give  understanding  that
 yena mām upayānti te  
 by which  to Me  come  they
 
-(49) “To those who always long for Me and worship Me with love, I give the understanding by which they come to Me.” (Bhagavad-gītā, 10.10)[^23]
+(49) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^23]
 
 যথা ভগবান্ ব্রহ্মণে স্বয়মুপদিশ্যানুভাবিতবান্ ॥ ৫০ ॥
 
@@ -621,7 +621,7 @@ with its secret  and its  limb  also
 gṛhāṇa gaditaṁ mayā  
 receive  spoken  by Me
 
-(51) “Receive from Me, as I speak it, the supremely confidential knowledge of Myself, endowed with realisation, together with its secret and its limb.” (Śrīmad-Bhāgavatam, 2.9.31)[^24]
+(51) “Receive from Me, as I speak it, the supremely confidential knowledge of Myself, endowed with realisation, together with its secret and that secret’s integral part.” (Śrīmad-Bhāgavatam, 2.9.31)[^24]
 
 যাবানহং যথাভাবো যদ্রূপগুণকর্ম্মকঃ ৷  
 তথৈব তত্ত্ববিজ্ঞানমস্তু তে মদনুগ্রহাৎ ॥ ৫২ ॥
@@ -747,7 +747,7 @@ by relishing them  quickly  on the path of liberation
 śraddhā ratir bhaktir anukramiṣyati  
 faith,  attraction,  love  will follow in turn
 
-(60) (Lord Kapila to His mother Devahūti:) “In the company of the saints there are talks revealing My power, delightful to the heart and to the ear. By relishing them one quickly comes, on the path of liberation — in Me — first to faith, then to attraction (*rati*), and then to love (*prema-bhakti*).” (Śrīmad-Bhāgavatam, 3.25.25)[^30]
+(60) (Lord Kapila to His mother Devahūti:) “In the company of the saints there are talks revealing My power, delightful to the heart and to the ear. By relishing them one quickly comes to faith in Me, the path of liberation, and after it to attraction (*rati*) and love (*prema-bhakti*).” (Śrīmad-Bhāgavatam, 3.25.25)[^30]
 
 ঈশ্বরস্বরূপ ভক্ত তাঁর অধিষ্ঠান ৷  
 ভক্তের হৃদয়ে কৃষ্ণের সতত বিশ্রাম ॥ ৬১ ॥
@@ -849,7 +849,7 @@ at the queens’ marriage,  as  as  He did  the rāsa
 ihāke kahiye kṛṣṇera mukhya ‘prakāśa’  
 this  is called  Kṛṣṇa’s  chief  prakāśa
 
-(69–70) When one and the same Person becomes many forms with no difference in appearance — one identity — as at the marriage of the queens or in the rāsa dance, this is called Kṛṣṇa’s chief *prakāśa*.
+(69–70) When one Person appears in many forms, alike in appearance and one in identity — as at the marriage of the queens or in the rāsa dance — this is called Kṛṣṇa’s chief *prakāśa*.
 
 চিত্রং বতৈতদেকেন বপুষা যুগপৎ পৃথক্ ৷  
 গৃহেষু দ্ব্যষ্টসাহস্রং স্ত্রিয় এক উদাবহৎ ॥ ৭১ ॥
@@ -1081,7 +1081,7 @@ in the beautiful Bhāgavata  by the great sage  composed  what  by others?  the 
 sadyo hṛdy avarudhyate ‘tra kṛtibhiḥ śuśrūṣubhis tat-kṣaṇāt  
 at once  in the heart  is captured  here  by the pious  who wish to hear  that very moment
 
-(91) “In this beautiful «Bhāgavatam», composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)[^40]
+(91) “In this beautiful *Bhāgavatam*, composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)[^40]
 
 তার মধ্যে মোক্ষবাঞ্ছা কৈতব-প্রধান ৷  
 যাহা হৈতে কৃষ্ণভক্তি হয় অন্তর্দ্ধান ॥ ৯২ ॥
@@ -1108,7 +1108,7 @@ to Kṛṣṇa-bhakti  obstacles —  all  good and bad  deeds
 sei eka jīvera ajñāna-tamo-dharma  
 that  one  of the soul  of ignorance  darkness’  nature
 
-(94) All good and bad deeds that obstruct devotion to Kṛṣṇa are also the nature of the soul’s darkness of ignorance.
+(94) All good and bad deeds that obstruct devotion to Kṛṣṇa also belong to the soul’s darkness of ignorance.
 
 যাঁহার প্রসাদে এই তমো হয় নাশ ৷  
 তমো নাশ করি’ করে তত্ত্বের প্রকাশ ॥ ৯৫ ॥
@@ -1128,7 +1128,7 @@ the Truth —  Kṛṣṇa,  Kṛṣṇa-bhakti  in the form of love
 nāma-saṅkīrtana — sarva ānanda-svarūpa  
 the Name’s congregational chanting —  all  bliss  embodiment
 
-(96) The Truth is Kṛṣṇa, devotion to Kṛṣṇa in the form of pure love (prema), and the congregational chanting of the Holy Name — the embodiment of all bliss.
+(96) The Truth is Kṛṣṇa, devotion to Kṛṣṇa in the form of pure love (prema), and the congregational chanting of the Holy Name, the embodiment of all bliss.
 
 সূর্য্য চন্দ্র বাহিরের তমঃ সে বিনাশে ৷  
 বহির্ব্বস্তু ঘট পট আদি সে প্রকাশে ॥ ৯৭ ॥
@@ -1158,7 +1158,7 @@ one  bhāgavata  great —  the Bhāgavata  scripture
 āra bhāgavata — bhakta bhakti-rasa-pātra  
 another  bhāgavata —  the devotee  of devotion’s  rasa  the vessel
 
-(99) One *bhāgavata* is the great scripture «Bhāgavatam»; the other *bhāgavata* is the devotee, the vessel of the rasa of devotion.
+(99) One *bhāgavata* is the great scripture *Bhāgavatam*; the other *bhāgavata* is the devotee, the vessel of the rasa of devotion.
 
 দুই ভাগবত দ্বারা দিয়া ভক্তিরস ৷  
 তাঁহার হৃদয়ে তাঁর প্রেমে হয় বশ ॥ ১০০ ॥
@@ -1168,7 +1168,7 @@ two  bhāgavatas  through  giving  devotion’s rasa
 tām̐hāra hṛdaye tām̐ra preme haya vaśa  
 his  in the heart  by his  love  is  subdued
 
-(100) Through the two *bhāgavatas* They give the rasa of devotion, and then the Lord, in the devotee’s heart, becomes subdued by his love.[^42]
+(100) Through these two *bhāgavatas* They give the rasa of devotion, and the Lord, dwelling in the devotee’s heart, is held captive by his love.[^42]
 
 এক অদ্ভুত — সমকালে দোঁহার প্রকাশ ৷  
 আর অদ্ভুত — চিত্তগুহার তমঃ করে নাশ ॥ ১০১ ॥
@@ -1262,92 +1262,92 @@ by hearing  will know  all  of the Truth  the essence
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(110) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the «Caitanya-caritāmṛta».
+(110) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
-[^1]: According to the «Anubhāṣya» (on 1.34): the gurus are Śrī Nityānanda, Śrī Raghunātha, Śrī Rūpa and others; the devotees — Śrīvāsa and others; the avatāras — Śrī Advaita and others; the manifestations — Śrī Nityānanda and others; the potencies — Śrī Gadādhara, Svarūpa Dāmodara, Jagadānanda and others. “Known as Kṛṣṇa Caitanya” qualifies the Lord Himself (*īśam*). The verse is explained in 1.32–1.82.
+[^1]: According to the *Anubhāṣya* (on 1.34): the gurus are Śrī Nityānanda, Śrī Raghunātha, Śrī Rūpa and others; the devotees — Śrīvāsa and others; the avatāras — Śrī Advaita and others; the manifestations — Śrī Nityānanda and others; the potencies — Śrī Gadādhara, Svarūpa Dāmodara, Jagadānanda and others. “Known as Kṛṣṇa Caitanya” qualifies the Lord Himself (*īśam*). The verse is explained in 1.32–1.82.
 
-[^2]: «Anubhāṣya» (on Ādi 2.5): Brahman is the radiance of His transcendental body, and the Paramātmā a particular manifestation of His majesty; both are only two aspects of His form, perceived according to the capacity of the seer — not the fullness of the Lord, as Bhagavān is.
+[^2]: *Anubhāṣya* (on Ādi 2.5): Brahman is the radiance of His transcendental body, and the Paramātmā a particular manifestation of His majesty; both are only two aspects of His form, perceived according to the capacity of the seer — not the fullness of the Lord, as Bhagavān is.
 
-[^3]: «Anubhāṣya» (on Ādi 3.4): *unnatojjvala-rasa* is “the exalted *ujjvala-rasa*, that is, *śṛṅgāra-rasa*” — the amorous love of Vraja, which in the gopīs is *parakīyā*; hence not “conjugal”. *Sva-bhakti-śrī* is “the beauty of prema for Him”. Why this gift was withheld for so long is explained by Kavirāja Gosvāmī in Ādi 3.
+[^3]: *Anubhāṣya* (on Ādi 3.4): *unnatojjvala-rasa* is “the exalted *ujjvala-rasa*, that is, *śṛṅgāra-rasa*” — the amorous love of Vraja, which in the gopīs is *parakīyā*; hence not “conjugal”. *Sva-bhakti-śrī* is “the beauty of prema for Him”. Why this gift was withheld for so long is explained by Kavirāja Gosvāmī in Ādi 3.
 
-[^4]: «Anubhāṣya» (on Ādi 4.55): Rādhā is “the transformation of Kṛṣṇa’s love — the *hlādinī-śakti* in the form of the play of prema”; the Two are “of one Self”; Their two forms are the *viṣaya* and the *āśraya* of love, “from beginningless time” (*purā*); in Śrī Caitanya — “Kṛṣṇa within, Gaura without”.
+[^4]: *Anubhāṣya* (on Ādi 4.55): Rādhā is “the transformation of Kṛṣṇa’s love — the *hlādinī-śakti* in the form of the play of prema”; the Two are “of one Self”; Their two forms are the *viṣaya* and the *āśraya* of love, “from beginningless time” (*purā*); in Śrī Caitanya — “Kṛṣṇa within, Gaura without”.
 
-[^5]: «Anubhāṣya» (on Ādi 4.230): *mad-anubhavataḥ* — “from experiencing Me”: Rādhā’s happiness comes from relishing Kṛṣṇa’s sweetness.
+[^5]: *Anubhāṣya* (on Ādi 4.230): *mad-anubhavataḥ* — “from experiencing Me”: Rādhā’s happiness comes from relishing Kṛṣṇa’s sweetness.
 
-[^6]: «Anubhāṣya» (on Ādi 5.7): Saṅkarṣaṇa is Mahā-Saṅkarṣaṇa of the spiritual sky; then the three Puruṣa-avatāras; Śeṣa is Ananta. Ascribed in the edition to the diary of Svarūpa Dāmodara.
+[^6]: *Anubhāṣya* (on Ādi 5.7): Saṅkarṣaṇa is Mahā-Saṅkarṣaṇa of the spiritual sky; then the three Puruṣa-avatāras; Śeṣa is Ananta. Ascribed in the edition to the diary of Svarūpa Dāmodara.
 
-[^7]: «Anubhāṣya» (on Ādi 5.7, 5.93): Garbhodakaśāyī is the second Puruṣa, Hiraṇyagarbha, the Viṣṇu of the whole universe (*samaṣṭi*); the stem is the fourteen worlds.
+[^7]: *Anubhāṣya* (on Ādi 5.7, 5.93): Garbhodakaśāyī is the second Puruṣa, Hiraṇyagarbha, the Viṣṇu of the whole universe (*samaṣṭi*); the stem is the fourteen worlds.
 
-[^8]: «Anubhāṣya» (on Ādi 5.109): Ananta, upholder of the earth, is a *kalā* of Kṣīrodakaśāyī.
+[^8]: *Anubhāṣya* (on Ādi 5.109): Ananta, upholder of the earth, is a *kalā* of Kṣīrodakaśāyī.
 
-[^9]: «Amṛta-pravāha-bhāṣya» (on Ādi 6.10): one and the same māyā is the material cause as *pradhāna* and the efficient cause as *māyā*; Mahā-Viṣṇu creates through both.
+[^9]: *Amṛta-pravāha-bhāṣya* (on Ādi 6.10): one and the same māyā is the material cause as *pradhāna* and the efficient cause as *māyā*; Mahā-Viṣṇu creates through both.
 
-[^10]: According to the «Anubhāṣya» (on Ādi 7.6): the form of a devotee is Śrī Gaurāṅga, who tastes His own sweetness; the guise of a devotee (as His brother) is Śrī Nityānanda; the devotee-avatāra is Śrī Advaita; the devotee is Śrīvāsa and others; the potency is Gadādhara, Svarūpa Dāmodara, Rāmānanda and others. Ascribed in the edition to Śrī Rūpa Gosvāmī.
+[^10]: According to the *Anubhāṣya* (on Ādi 7.6): the devotee in form is Śrī Gaurāṅga, who tastes His own sweetness; the devotee in essence (in the form of His brother) is Śrī Nityānanda; the devotee-avatāra is Śrī Advaita; the devotee is Śrīvāsa and others; the potency is Gadādhara, Svarūpa Dāmodara, Rāmānanda and others. Ascribed in the edition to Śrī Rūpa Gosvāmī.
 
-[^11]: «Anubhāṣya»: *manda-mati* — “a mind absorbed in the world, feeble, unable to follow other paths such as karma or jñāna”; *suratau* — “merciful”, or “deeply attached to each other”.
+[^11]: *Anubhāṣya*: *manda-mati* — “a mind absorbed in the world, feeble, unable to follow other paths such as karma or jñāna”; *suratau* — “merciful”, or “deeply attached to each other”.
 
-[^12]: «Anubhāṣya»: *preṣṭhālī* — Lalitā and the other *priya-narma-sakhīs*, attended by Śrī Rūpa-mañjarī and others.
+[^12]: *Anubhāṣya*: *preṣṭhālī* — Lalitā and the other *priya-narma-sakhīs*, attended by Śrī Rūpa-mañjarī and others.
 
-[^13]: «Anubhāṣya»: the flute “loosens every desire in the gopīs other than for Kṛṣṇa and draws them from their homes with the rope of prema”; *śriye* — “for the wealth of prema”.
+[^13]: *Anubhāṣya*: the flute “loosens every desire in the gopīs other than for Kṛṣṇa and draws them from their homes with the rope of prema”; *śriye* — “for the wealth of prema”.
 
-[^14]: «Anubhāṣya»: Madana-mohana, Govinda and Gopīnātha are the presiding Deities of *sambandha*, *abhidheya* and *prayojana* taught by Śrī Caitanya.
+[^14]: *Anubhāṣya*: Madana-mohana, Govinda and Gopīnātha are the presiding Deities of *sambandha*, *abhidheya* and *prayojana* taught by Śrī Caitanya.
 
 [^15]: Bengali text as in the Gauḍīya Maṭha edition: «শাস্ত্র যে মত নিরূপণ».
 
-[^16]: «Anubhāṣya»: *guru-dvaya* — the initiating (*dīkṣā*) and the instructing (*śikṣā*) guru; both are one guru-tattva and equally worshipful for the disciple.
+[^16]: *Anubhāṣya*: *guru-dvaya* — the initiating (*dīkṣā*) and the instructing (*śikṣā*) guru; both are one guru-tattva and equally worshipful for the disciple.
 
-[^17]: «Amṛta-pravāha-bhāṣya»: the singular «তাঁহার» is used because both kinds of guru are one tattva; another reading has «তা-সবার» (“of all of them”).
+[^17]: *Amṛta-pravāha-bhāṣya*: the singular «তাঁহার» is used because both kinds of guru are one tattva; another reading has «তা-সবার» (“of all of them”).
 
-[^18]: «Amṛta-pravāha-bhāṣya»: *āvaraṇa* — “the devotees surrounding the Lord on all sides”.
+[^18]: *Amṛta-pravāha-bhāṣya*: *āvaraṇa* — “the devotees surrounding the Lord on all sides”.
 
-[^19]: «Anubhāṣya»: all except Mahāprabhu are His servants; the guru is the *āśraya-vigraha*, the abode of service, and is the Lord’s manifestation as His servant, never to be regarded as the *viṣaya* (the object of worship).
+[^19]: *Anubhāṣya*: all except Mahāprabhu are His servants; the guru is the *āśraya-vigraha*, the abode of service, and is the Lord’s manifestation as His servant, never to be regarded as the *viṣaya* (the object of worship).
 
-[^20]: «Anubhāṣya»: *mām* — “My dearest one”; *martya-buddhyā* — “with a mind bounded by time, place and circumstance”.
+[^20]: *Anubhāṣya*: *mām* — “My dearest one”; *martya-buddhyā* — “with a mind bounded by time, place and circumstance”.
 
-[^21]: «Anubhāṣya»: the instructing guru is twofold — the *caitya-guru*, who gives discrimination from within, and the *mahānta-guru*, the great devotee.
+[^21]: *Anubhāṣya*: the instructing guru is twofold — the *caitya-guru*, who gives discrimination from within, and the *mahānta-guru*, the great devotee.
 
-[^22]: «Anubhāṣya»: *apaciti* — “a return of the favour, repayment”; *aśubha* — “absorption in what is not Kṛṣṇa”; *sva-gati* — “the way to Him, the position of His associate”.
+[^22]: *Anubhāṣya*: *apaciti* — “a return of the favour, repayment”; *aśubha* — “absorption in what is not Kṛṣṇa”; *sva-gati* — “the way to Him, the position of His associate”.
 
-[^23]: «Anubhāṣya»: this understanding (*buddhi-yoga*) cannot be gained by oneself or from anyone else — the Lord alone gives it.
+[^23]: *Anubhāṣya*: this understanding (*buddhi-yoga*) cannot be gained by oneself or from anyone else — the Lord alone gives it.
 
-[^24]: According to the «Anubhāṣya»: the knowledge is *sambandha*; the secret (*rahasya*) is prema-bhakti; its limb (*aṅga*) is sādhana-bhakti — hearing and the rest; all this the Lord speaks out of mercy, though Brahmā did not ask.
+[^24]: According to the *Anubhāṣya*: the knowledge is *sambandha*; the secret (*rahasya*) is prema-bhakti; its limb (*aṅga*) is sādhana-bhakti — hearing and the rest; all this the Lord speaks out of mercy, though Brahmā did not ask.
 
-[^25]: «Amṛta-pravāha-bhāṣya»: “neither *sat*, nor *asat*, nor even the indescribable impersonal Brahman existed apart from Me.” «Anubhāṣya»: “I” is the Lord’s personal form, not the impersonal Brahman; the world is “not other than Me”.
+[^25]: *Amṛta-pravāha-bhāṣya*: “neither *sat*, nor *asat*, nor even the indescribable impersonal Brahman existed apart from Me.” *Anubhāṣya*: “I” is the Lord’s personal form, not the impersonal Brahman; the world is “not other than Me”.
 
-[^26]: «Amṛta-pravāha-bhāṣya»: the reflection (*ābhāsa*) is the likeness of the spiritual world; darkness is what lies far from it. «Anubhāṣya»: the māyā meant here is twofold — *jīva-māyā* and *guṇa-māyā*.
+[^26]: *Amṛta-pravāha-bhāṣya*: the reflection (*ābhāsa*) is the likeness of the spiritual world; darkness is what lies far from it. *Anubhāṣya*: the māyā meant here is twofold — *jīva-māyā* and *guṇa-māyā*.
 
-[^27]: «Amṛta-pravāha-bhāṣya»: “I enter everything as the Paramātmā, yet remain eternally apart as Bhagavān, the only object of the devotees’ love.” The «Anubhāṣya» also reads *na teṣu* as *nateṣu* — “in those who bow to Me”: within their hearts and before their eyes He reveals His beauty.
+[^27]: *Amṛta-pravāha-bhāṣya*: “I enter everything as the Paramātmā, yet remain eternally apart as Bhagavān, the only object of the devotees’ love.” The *Anubhāṣya* also reads *na teṣu* as *nateṣu* — “in those who bow to Me”: within their hearts and before their eyes He reveals His beauty.
 
-[^28]: «Anubhāṣya»: *anvaya-vyatireka* — injunctions and prohibitions; also union and separation.
+[^28]: *Anubhāṣya*: *anvaya-vyatireka* — injunctions and prohibitions; also union and separation.
 
-[^29]: According to the «Anubhāṣya»: Cintāmaṇi is the guru who showed the path (*śravaṇa-guru*), Somagiri the mantra-guru, and Kṛṣṇa the *caitya-śikṣā-guru*; *jayaśrī* is Vṛndāvaneśvarī; *līlā-svayaṁvara-rasa* — the joy of choosing Him out of deep love. The «Amṛta-pravāha-bhāṣya» takes “cintāmaṇi” as an epithet of Somagiri.
+[^29]: According to the *Anubhāṣya*: Cintāmaṇi is the guru who showed the path (*śravaṇa-guru*), Somagiri the mantra-guru, and Kṛṣṇa the *caitya-śikṣā-guru*; *jayaśrī* is Vṛndāvaneśvarī; *līlā-svayaṁvara-rasa* — the joy of choosing Him out of deep love. The *Amṛta-pravāha-bhāṣya* takes “cintāmaṇi” as an epithet of Somagiri.
 
-[^30]: «Anubhāṣya»: *apavarga-vartmani* — “in Hari, in whom ignorance ceases”; *rati* is bhāva, *bhakti* is prema.
+[^30]: *Anubhāṣya*: *apavarga-vartmani* — “in Hari, in whom ignorance ceases”; *rati* is bhāva, *bhakti* is prema.
 
-[^31]: «Anubhāṣya»: the devotee belongs to the category of potency (*śakti*), not of the possessor of potency; Kṛṣṇa abides in him as in His dwelling.
+[^31]: *Anubhāṣya*: the devotee belongs to the category of potency (*śakti*), not of the possessor of potency; Kṛṣṇa abides in him as in His dwelling.
 
-[^32]: «Amṛta-pravāha-bhāṣya»: they purify the places of pilgrimage defiled by the sins of those who visit them.
+[^32]: *Amṛta-pravāha-bhāṣya*: they purify the places of pilgrimage defiled by the sins of those who visit them.
 
-[^33]: The Bengali reading of 1.74 follows the Gauḍīya Maṭha edition, «অত্যৌৎসুক্যভৃতাত্মনাম্», which the «Anubhāṣya» glosses: “their minds greatly agitated by the eagerness to see”.
+[^33]: The Bengali reading of 1.74 follows the Gauḍīya Maṭha edition, «অত্যৌৎসুক্যভৃতাত্মনাম্», which the *Anubhāṣya* glosses: “their minds greatly agitated by the eagerness to see”.
 
-[^34]: «Anubhāṣya»: *anyākāram* — “with a different arrangement of the limbs”; *prāyeṇātma-samam* — “equal to the original form, but with some difference in qualities”.
+[^34]: *Anubhāṣya*: *anyākāram* — “with a different arrangement of the limbs”; *prāyeṇātma-samam* — “equal to the original form, but with some difference in qualities”.
 
-[^35]: «Anubhāṣya»: Baladeva is *svayaṁ-prakāśa*, Nārāyaṇa a *prābhava-vilāsa*.
+[^35]: *Anubhāṣya*: Baladeva is *svayaṁ-prakāśa*, Nārāyaṇa a *prābhava-vilāsa*.
 
-[^36]: «Amṛta-pravāha-bhāṣya»: “His companions in Vraja are the *svarūpa-śakti* itself.”
+[^36]: *Amṛta-pravāha-bhāṣya*: “His companions in Vraja are the *svarūpa-śakti* itself.”
 
-[^37]: «Amṛta-pravāha-bhāṣya»: *kāya-vyūha* — “the expansion of His own body”; the entourage and the One it surrounds are one when seen through *acintya-bhedābheda*, and so the six truths of 1.32 are one.
+[^37]: *Amṛta-pravāha-bhāṣya*: *kāya-vyūha* — “the expansion of His own body”; the entourage and the One it surrounds are one when seen through *acintya-bhedābheda*, and so the six truths of 1.32 are one.
 
-[^38]: «Amṛta-pravāha-bhāṣya»: *nija-dhāma* — “Their effulgence”; *pūrva-śaile* — “in Gauḍa as the eastern mountain of sunrise, on the eastern bank of the Ganges”.
+[^38]: *Amṛta-pravāha-bhāṣya*: *nija-dhāma* — “Their effulgence”; *pūrva-śaile* — “in Gauḍa as the eastern mountain of sunrise, on the eastern bank of the Ganges”.
 
-[^39]: The Gauḍīya Maṭha edition reads «…বাঞ্ছা আদি এই সব» (“and so on”). «Amṛta-pravāha-bhāṣya» (on 1.91): *kaitava* is the desire for *dharma*, *artha*, *kāma* and *mokṣa*; the chief of them is the desire for liberation (1.92).
+[^39]: The Gauḍīya Maṭha edition reads «…বাঞ্ছা আদি এই সব» (“and so on”). *Amṛta-pravāha-bhāṣya* (on 1.91): *kaitava* is the desire for *dharma*, *artha*, *kāma* and *mokṣa*; the chief of them is the desire for liberation (1.92).
 
-[^40]: The verse says only «শ্রীমদ্ভাগবতে মহামুনিকৃতে» (*śrīmad-bhāgavate mahā-muni-kṛte*), “in the beautiful «Bhāgavata» composed by the great sage”; the sage is not named. The «Anubhāṣya» explains: *śrī-nārāyaṇa-mahā-muni-racite* — “composed by the great sage Śrī Nārāyaṇa”; the «Amṛta-pravāha-bhāṣya»: the «Bhāgavatam» was first composed by Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). The translation therefore names no one, as the verse does not. *Projjhita-kaitava* — free from the desire for the fruits of dharma, artha, kāma and mokṣa.
+[^40]: The verse says only «শ্রীমদ্ভাগবতে মহামুনিকৃতে» (*śrīmad-bhāgavate mahā-muni-kṛte*), “in the beautiful *Bhāgavata* composed by the great sage”; the sage is not named. The *Anubhāṣya* explains: *śrī-nārāyaṇa-mahā-muni-racite* — “composed by the great sage Śrī Nārāyaṇa”; the *Amṛta-pravāha-bhāṣya*: the *Bhāgavatam* was first composed by Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). The translation therefore names no one, as the verse does not. *Projjhita-kaitava* — free from the desire for the fruits of dharma, artha, kāma and mokṣa.
 
 [^41]: Śrīdhara Svāmī’s comment on Śrīmad-Bhāgavatam 1.1.2 (heading in the edition).
 
-[^42]: «Amṛta-pravāha-bhāṣya»: “They have become subject to the love of the soul.”
+[^42]: *Amṛta-pravāha-bhāṣya*: “They have become subject to the love of the soul.”
 
-[^43]: «Amṛta-pravāha-bhāṣya»: in place of «কৃষ্ণে গাঢ় প্রেম হবে» another reading has «সর্ব্বতত্ত্ব জ্ঞান হইবে» (“one will know all truths”).
+[^43]: *Amṛta-pravāha-bhāṣya*: in place of «কৃষ্ণে গাঢ় প্রেম হবে» another reading has «সর্ব্বতত্ত্ব জ্ঞান হইবে» (“one will know all truths”).
