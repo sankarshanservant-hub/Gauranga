@@ -56,7 +56,7 @@ of all these  by the mercy  I write  Caitanya’s  pastimes  qualities
 jāni vā nā jāni, kari āpana-śodhana  
 I know  or  not  I know  I do  my own  purification
 
-(5) By the mercy of them all I write of the pastimes and qualities of Śrī Caitanya. Whether I understand them or not, I write for my own purification.
+(5) By the mercy of them all I write of the pastimes and qualities of Śrī Caitanya. Whether I understand them or not, I do it for my own purification.
 
 মালাকারঃ স্বয়ং কৃষ্ণ-প্রেমামরতরুঃ স্বয়ম্ ৷  
 দাতা ভোক্তা তৎফলানাং যস্তং চৈতন্যমাশ্রয়ে ॥ ৬ ॥
@@ -154,7 +154,7 @@ these  nine  roots  sprang up  at the base of the tree
 ei nava mūle vṛkṣa karila niścale  
 on these  nine  roots  the tree  made  immovable
 
-(13–15) At the base of the tree nine roots sprang up: Paramānanda Purī and Keśava Bhāratī, Brahmānanda Purī and Brahmānanda Bhāratī, Viṣṇu Purī, Keśava Purī, Kṛṣṇānanda Purī, Śrī Nṛsiṁha Tīrtha and Sukhānanda Purī. On these nine roots the tree became immovable.[^6]
+(13–15) At the base of the tree nine roots sprang up: Paramānanda Purī and Keśava Bhāratī, Brahmānanda Purī and Brahmānanda Bhāratī, Viṣṇu Purī, Keśava Purī, Kṛṣṇānanda Purī, Śrī Nṛsiṁha Tīrtha and Sukhānanda Purī. On them the tree stood immovable.[^6]
 
 মধ্যমূল পরমানন্দ পুরী মহাধীর ৷  
 এই নব মূলে বৃক্ষ করিল সুস্থির ॥ ১৬ ॥
@@ -164,7 +164,7 @@ the central root  Paramānanda  Purī  greatly steadfast
 ei nava mūle vṛkṣa karila susthira  
 on these  nine  roots  the tree  made  firm
 
-(16) The central root is Paramānanda Purī, a man of great steadfastness, and on these nine roots the tree stands secure.[^7]
+(16) The central root is Paramānanda Purī, a man of great steadfastness, and on these nine roots the tree stood secure.[^7]
 
 স্কন্ধের উপরে বহু শাখা নিকসিল ৷  
 উপরি উপরি শাখা অসংখ্য হইল ॥ ১৭ ॥
@@ -174,7 +174,7 @@ of the trunk  above  many  branches  sprang out
 upari upari śākhā asaṅkhya haila  
 higher  and higher  branches  countless  became
 
-(17) From the trunk many branches grew, and as they rose higher and higher, the branches became countless.
+(17) From the trunk many branches grew, and as they rose higher and higher, they became countless.
 
 বিশ বিশ শাখা করি’ এক এক মণ্ডল ৷  
 মহা-মহা-শাখা ছাইল ব্রহ্মাণ্ড সকল ॥ ১৮ ॥
