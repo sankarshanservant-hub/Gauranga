@@ -1,0 +1,169 @@
+# События, заведённые при внесении в базу «Навадвипа-дхама-махатмьи» (гл. 14–18) и «Навадвипа-бхава-таранги»
+# (гл. 19) Бхактивиноды Тхакура (исполнитель «c»; формат — README.md, как events.yaml). Новые события — в конец.
+
+# --- Рамка: обход Навадвипы Нитьянандой и Дживой (гл. 14–18) ---
+- id: ev-nvm-modadrumadvipa-parikrama
+  title: "Обход Навадвипы: Модадрумадвипа (Мамгачхи) и ночлег в доме Нараяни"
+  title_en: "Navadvipa parikrama: Modadrumadvipa (Mamgachhi) and the night at Narayani's house"
+  period: P14
+  order: 160.14
+  date_conf: оценка
+  date_basis: "по НДМ обход совершается при жизни Господа (17.12, 18.41) и Шачи (16.72, 18.51); точнее не датируется"
+  themes: [pilgrimage, ecstasy]
+  notes: "НДМ 14: Нитьянанда показывает Дживе место хижины Рамы и лес Бхандира; ночлег у Нараяни, матери Вриндавана даса."
+
+- id: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  title: "Обход Навадвипы: Вайкунтхапура, Махатпура, Рудрадвипа и Шри Пулина"
+  title_en: "Navadvipa parikrama: Vaikunthapur, Mahatpur, Rudradvipa and Sri Pulina"
+  period: P14
+  order: 160.15
+  date_conf: оценка
+  date_basis: "по НДМ обход совершается при жизни Господа и Шачи; точнее не датируется"
+  themes: [pilgrimage, krishna-lila]
+  notes: "НДМ 15: от Вайкунтхапуры мимо дома Валлабхи Ачарьи и дома Ананты к Махатпуре, затем Рудрадвипа, Параданга (раса-мандала, Дхира-самира); ночлег в Рудрадвипе."
+
+- id: ev-nvm-bilvapaksha-return-mayapur
+  title: "Обход Навадвипы: Билвапакша, Бхарадваджа-тила и возвращение в Майяпур"
+  title_en: "Navadvipa parikrama: Bilvapaksha, Bharadvaja Tila and the return to Mayapur"
+  period: P14
+  order: 160.16
+  date_conf: оценка
+  date_basis: "по НДМ обход совершается при жизни Господа и Шачи; точнее не датируется"
+  themes: [pilgrimage, kirtan, prasada]
+  notes: "НДМ 16: переправа через Гангу в Билвапакшу (Белпукурия), Рама-тиртха вдали, Бхарадваджа-тила; в Майяпуре встречает Ишана, Шачи угощает вайшнавов в доме Джаганнатхи Мишры."
+
+- id: ev-nvm-jiva-questions
+  title: "Вопросы Дживы Нитьянанде в доме Шривасы: Навадвипа и Вриндаван"
+  title_en: "Jiva's questions to Nityananda at Srivasa's house: Navadvipa and Vrindavan"
+  period: P14
+  order: 160.17
+  date_conf: оценка
+  date_basis: "после обхода Навадвипы, перед уходом Дживы во Вриндаван (НДМ 17–18)"
+  themes: [teaching]
+  notes: "НДМ 17.3–18.35: зачем идти во Вриндаван, если он неотличен от Навадвипы; почему живущие в Навадвипе совершают оскорбления; покров майи над дхамой; Гаура и Радха-Кришна."
+
+- id: ev-nvm-jiva-departs-vrindavana
+  title: "Джива прощается с преданными и Шачи и уходит во Вриндаван"
+  title_en: "Jiva bids farewell to the devotees and Shachi and leaves for Vrindavan"
+  period: P14
+  order: 160.18
+  date_conf: оценка
+  date_basis: "по НДМ — при жизни Господа и Шачи (18.41, 18.51)"
+  themes: [separation, mercy, pilgrimage]
+  notes: "НДМ 18.36–56: Нитьянанда кладёт стопы на голову Дживы; прощание во дворе Шривасы; благословение Шачи; Джива покидает дхаму. Ср. ev-jiva-comes-to-vrindavana."
+
+- id: ev-nvm-jiva-dream-mathura
+  title: "Во сне Шри Чайтанья посылает Дживу в Матхуру к Рупе и Санатане"
+  title_en: "In a dream Sri Chaitanya sends Jiva to Mathura, to Rupa and Sanatana"
+  period: P14
+  order: 160.185
+  date_conf: оценка
+  date_basis: "на пути из Навадвипы во Вриндаван (НДМ 18.57–60)"
+  themes: [celestial, mercy]
+  notes: "НДМ 18.57–60."
+
+# --- Лилы, вспоминаемые на местах ---
+- id: ev-sadananda-vipra-rama-vision
+  title: "Садананда Випра видит новорождённого Гауру как Раму"
+  title_en: "Sadananda Vipra sees the newborn Gaura as Rama"
+  period: P02
+  order: 11.5
+  date_conf: оценка
+  date_basis: "вскоре после явления Господа (НДМ 14.35–42)"
+  themes: [revelation, celestial]
+  bhava: [rama]
+  notes: "НДМ 14.33–44: Гухака, друг Рамы, родился в Модадрумадвипе брахманом Саданандой; увидев, как полубоги приходят к новорождённому, он в медитации узрел Гауру на троне, а затем — Рамой с Лакшманой, Ситой и Хануманом. Ср. ev-gods-alarm-thief-infant."
+
+# --- Игры прежних юг и прежних ачарьев (P00) ---
+- id: ev-rudras-rudradvipa
+  title: "Одиннадцать Рудр и Шива воспевают Гауру в Рудрадвипе"
+  title_en: "The eleven Rudras and Shiva sing Gaura's glories in Rudradvipa"
+  period: P00
+  order: 605
+  themes: [celestial, kirtan]
+  notes: "НДМ 15.106–108; НБТ 132–134 (там же Дурваса, Аштавакра, Даттатрея оставляют йогу и философию единства)."
+
+- id: ev-rama-modadrumadvipa
+  title: "Рама, Сита и Лакшмана в Модадрумадвипе: Рама открывает Сите тайну явления Гауры"
+  title_en: "Rama, Sita and Lakshmana in Modadrumadvipa: Rama reveals to Sita the secret of Gaura's advent"
+  period: P00
+  order: 610
+  themes: [revelation, separation]
+  bhava: [rama]
+  notes: "НДМ 14.3–32: в изгнании Рама живёт в хижине под баньяном (Рама-вата); Сите — о самбхоге и випраламбхе; Каушалья станет Шачи, Сита — Вишнуприей. НБТ 110–116 (видение Бхактивиноды)."
+
+- id: ev-narada-vaikunthapur-gaura
+  title: "Нарада в Вайкунтхапуре видит Нараяну как Шри Чайтанью"
+  title_en: "Narada in Vaikunthapur sees Narayana as Sri Chaitanya"
+  period: P00
+  order: 615
+  themes: [revelation, celestial]
+  notes: "НДМ 15.7–8; НБТ 119. Не путать с ev-narada-vaikuntha (Нарада у Владыки Вайкунтхи в духовном мире)."
+
+- id: ev-bharadvaja-tila
+  title: "Бхарадваджа Муни поклоняется Гауре в Бхарадваджа-тиле"
+  title_en: "Bharadvaja Muni worships Gaura at Bharadvaja Tila"
+  period: P00
+  order: 620
+  themes: [revelation, celestial]
+  notes: "НДМ 16.63–69: после Ганга-сагары; Гаура обещает, что мудрец снова увидит Его при Его явлении. НБТ 21: здесь Бхарадваджа обрёл прему и написал сутры."
+
+- id: ev-balarama-kolasura
+  title: "Баларама убивает Коласуру и омывается в Ганге с Ядавами (Рама-тиртха)"
+  title_en: "Balarama slays Kolasura and bathes in the Ganga with the Yadus (Rama Tirtha)"
+  period: P00
+  order: 625
+  themes: [krishna-lila]
+  notes: "НДМ 16.59–61: Рама-тиртха, ныне Рукмапура; особо прекрасна в картику."
+
+- id: ev-pandavas-mahatpur
+  title: "Пандавы в Махатпуре: сон Юдхиштхиры о Навадвипе и Гауре"
+  title_en: "The Pandavas in Mahatpur: Yudhishthira's dream of Navadvipa and Gaura"
+  period: P00
+  order: 630
+  themes: [celestial, revelation, pilgrimage]
+  notes: "НДМ 15.64–79: из Экачакры Пандавы с Драупади приходят в Махатпуру (холм Юдхиштхиры, Драупади-кунда); Гаура во сне велит им идти в Ориссу. НБТ 124–131: Пандавы слушают от Вьясы «Гауранга-пурану»; Драупади угощает Бхактивиноду прасадом."
+
+- id: ev-shankaracharya-rudradvipa
+  title: "Шанкарачарья в Рудрадвипе: Гаура велит не проповедовать майявады в Навадвипе"
+  title_en: "Shankaracharya in Rudradvipa: Gaura forbids preaching Mayavada in Navadvipa"
+  period: P00
+  order: 650
+  themes: [revelation, teaching]
+  teaching: [bhakti-supremacy]
+  notes: "НДМ 15.93–105: Шанкарапура; Шанкара — часть Шивы, внешне проповедующая имперсонализм по воле Господа."
+
+- id: ev-nimbarka-bilvapaksha
+  title: "Нимбарка в Билвапакше: посвящение у четырёх Кумаров и видение Радхи-Кришны в облике Гауры"
+  title_en: "Nimbarka in Bilvapaksha: initiation from the four Kumaras and the vision of Radha-Krishna as Gaura"
+  period: P00
+  order: 660
+  themes: [revelation, teaching]
+  teaching: [gaura-tattva, prema]
+  notes: "НДМ 16.7–58: Шива посылает Нимбарку к Кумарам; «Санат-кумара-самхита»; Радха и Кришна соединяются в облике Шри Чайтаньи; Махапрабху возьмёт по два принципа у четырёх ачарьев. Ср. ev-four-sampradayas."
+
+- id: ev-ramanuja-navadvipa
+  title: "Рамануджа по велению Джаганнатхи приходит в Навадвипу и видит Гауру в Вайкунтхапуре"
+  title_en: "At Jagannatha's command Ramanuja comes to Navadvipa and sees Gaura in Vaikunthapur"
+  period: P00
+  order: 670
+  themes: [revelation, jagannatha, pilgrimage]
+  teaching: [gaura-tattva]
+  notes: "НДМ 15.9–55: в Пури Джаганнатха открывает Раманудже тайну Шри Чайтаньи и Навадвипы; в Вайкунтхапуре Нараяна является ему как Гаура; Рамануджа родится в Навадвипе преданным Анантой."
+
+- id: ev-madhva-mahatpur-dream
+  title: "Мадхва в Махатпуре: Шри Чайтанья во сне обещает принять посвящение в его линии"
+  title_en: "Madhva in Mahatpur: in a dream Sri Chaitanya promises to accept initiation in his line"
+  period: P00
+  order: 680
+  themes: [celestial, revelation]
+  teaching: [bhakti-supremacy]
+  notes: "НДМ 15.80–89; небесный голос: «Поклоняйся Мне втайне»."
+
+- id: ev-vishnusvami-rudradvipa
+  title: "Вишнусвами в Рудрадвипе: Шива дарует Рудра-сампрадаю, Гаура во сне предрекает рождение Валлабхой Бхаттой"
+  title_en: "Vishnusvami in Rudradvipa: Shiva grants the Rudra-sampradaya; in a dream Gaura foretells his birth as Vallabha Bhatta"
+  period: P00
+  order: 690
+  themes: [celestial, revelation]
+  notes: "НДМ 15.109–125."

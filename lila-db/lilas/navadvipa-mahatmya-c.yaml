@@ -1,0 +1,429 @@
+# «Шри Навадвипа-дхама-махатмья», гл. 14–18, и «Шри Навадвипа-бхава-таранга» (гл. 19) Бхактивиноды Тхакура —
+# записи в порядке изложения (исполнитель «c»). Рус. текст — изд. ШЧСМ (navadvipa-dhama-mahatmya/ru/NN.md).
+# Авторитетность: B — рамка обхода, наставления и лилы, известные и по другим источникам; C — лилы, известные только
+# по этой книге (прошлые и будущие лилы мест, видения «Бхава-таранги»), как предписано в SOURCES.md.
+
+# ===== Глава 14. Модадрумадвипа (часть первая) =====
+- id: nvm-14-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 14, 2"
+  file: "navadvipa-dhama-mahatmya/ru/14.md"
+  period: P14
+  order: 160.14
+  title: "Нитьянанда и Джива приходят в Мамгачхи (Модадрумадвипа)"
+  summary: "В селении Мамгачхи Нитьянанда говорит Дживе, что на острове Модадрума скрыто пребывает Айодхья."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#modadrumadvipa", "#ayodhya"]
+  kind: lila
+  authority: B
+  notes: "Рамка обхода Навадвипы."
+  themes: [pilgrimage]
+  event: ev-nvm-modadrumadvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "2", to: "2"}
+
+- id: nvm-14-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 14, 3–32"
+  file: "navadvipa-dhama-mahatmya/ru/14.md"
+  period: P00
+  order: 610
+  title: "Рама у баньяна в Модадрумадвипе открывает Сите тайну явления Гауры"
+  summary: "Изгнанный Рама с Лакшманой и Ситой живёт в хижине под баньяном; на вопрос Ситы, чему Он смеётся, Рама открывает, что в Кали-югу явится в Навадвипе в золотом облике, примет санньясу и подарит преданным випраламбху — разлуку, которая сильнее радости встречи; Каушалья станет Шачи, Сита — Вишнуприей; баньян в Кали-югу станет незрим."
+  persons: ["@rama", "@sita-devi", "@lakshmana", "@mahaprabhu", "@shachi", "@vishnupriya", "@jagannatha-mishra", "@nityananda", "@jiva-gosvami"]
+  places: ["#rama-vata", "#modadrumadvipa"]
+  kind: pre-advent
+  authority: C
+  notes: "Рассказ Нитьянанды; лила известна только по НДМ (C по SOURCES.md). 14.27 в изд. 2001 г. нет — переведён по англ. изд. ШЧСМ 2015 г. Пророчество о Вишнуприи и Божестве — отдельной записью nvm-14-003."
+  themes: [revelation, separation]
+  bhava: [rama]
+  teaching: [prema, gaura-tattva]
+  event: ev-rama-modadrumadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "3–4", to: "32"}
+
+- id: nvm-14-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 14, 24–27"
+  file: "navadvipa-dhama-mahatmya/ru/14.md"
+  period: P00
+  order: 610.5
+  title: "Пророчество Рамы: Сита станет Вишнуприей и будет поклоняться золотому Божеству Гауранги"
+  summary: "Рама предрекает: как Он в Айодхье, покинутый Ситой, будет поклоняться её золотому образу, так она, став Вишнуприей, в разлуке сделает Его золотое Божество и будет поклоняться Ему в Надии, возвещая Его имя."
+  persons: ["@rama", "@sita-devi", "@vishnupriya", "@mahaprabhu", "@gaura-deity-vishnupriya", "@shachi"]
+  places: ["#rama-vata", "#navadvipa"]
+  kind: prophecy
+  authority: C
+  notes: "Часть речи Рамы (nvm-14-002). 14.27 — по англ. изд. ШЧСМ 2015 г."
+  themes: [separation, deities]
+  event: ev-vishnupriya-deity
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "24", to: "27"}
+
+- id: nvm-14-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 14, 33–44"
+  file: "navadvipa-dhama-mahatmya/ru/14.md"
+  period: P02
+  order: 11.5
+  title: "Садананда Випра (Гухака) видит новорождённого Гауру как Раму"
+  summary: "Гухака, друг Рамы, родился в Модадрумадвипе брахманом Саданандой Бхаттачарьей; увидев, как полубоги сходят посмотреть на новорождённого в доме Джаганнатхи Мишры, он в медитации узрел Шри Чайтанью на престоле среди полубогов, а затем — Рамой с Лакшманой, Ситой и Хануманом; незримый, он любовался Младенцем в Майяпуре, а позже участвовал в санкиртане."
+  persons: ["@sadananda-vipra", "@mahaprabhu", "@rama", "@lakshmana", "@sita-devi", "@hanuman", "@jagannatha-mishra"]
+  places: ["#modadrumadvipa", "#house-jagannatha-mishra", "#mayapur"]
+  kind: vision
+  authority: C
+  notes: "Рассказ Нитьянанды; известно только по НДМ."
+  themes: [revelation, celestial]
+  bhava: [rama, aishvarya]
+  event: ev-sadananda-vipra-rama-vision
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "33", to: "44"}
+
+- id: nvm-14-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 14, 45–50"
+  file: "navadvipa-dhama-mahatmya/ru/14.md"
+  period: P14
+  order: 160.141
+  title: "Лес Бхандира в Модадруме; танец паломников; ночлег в доме Нараяни"
+  summary: "Нитьянанда показывает лес, где чистые преданные видят Бхандираван; паломники танцуют, Джива в экстазе зовёт Гаурангу; ночь проводят в доме Нараяни, матери Вриндавана даса, а утром идут к Вайкунтхапуре."
+  persons: ["@nityananda", "@jiva-gosvami", "@narayani", "@vrindavana-dasa"]
+  places: ["#modadrumadvipa", "#bhandiravana", "#house-narayani", "#vaikunthapur"]
+  kind: lila
+  authority: B
+  notes: "Рамка обхода."
+  themes: [pilgrimage, ecstasy, krishna-lila]
+  event: ev-nvm-modadrumadvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/14.md", from: "45", to: "50"}
+
+# ===== Глава 15. Модадрумадвипа и Рудрадвипа =====
+- id: nvm-15-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 2–6"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P14
+  order: 160.15
+  title: "Вайкунтхапура неотлична от Вайкунтхи за Вираджей"
+  summary: "Нитьянанда объясняет Дживе: Вайкунтхапура, лепесток лотоса Навадвипы, неотлична от обители Нараяны вне майи, где Ему служат Шри, Бху и Лила; эта земля — чистое сознание, но физическое зрение видит её материальной."
+  persons: ["@nityananda", "@jiva-gosvami", "@lakshmi"]
+  places: ["#vaikunthapur", "#vaikuntha"]
+  kind: teaching
+  authority: B
+  themes: [teaching]
+  teaching: [maya]
+  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "2", to: "6"}
+
+- id: nvm-15-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 7–8"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 615
+  title: "Нарада в Вайкунтхапуре видит Нараяну, а затем Шри Чайтанью"
+  summary: "На этом месте Нарада, созерцая великолепие духовной обители, увидел Нараяну, а затем — Шри Чайтанью Махапрабху."
+  persons: ["@narada", "@mahaprabhu"]
+  places: ["#vaikunthapur"]
+  kind: pre-advent
+  authority: C
+  notes: "Кратко, со слов Нитьянанды; ср. НБТ 119."
+  themes: [revelation, celestial]
+  bhava: [aishvarya]
+  event: ev-narada-vaikunthapur-gaura
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "7", to: "8"}
+
+- id: nvm-15-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 9–41"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 670
+  title: "Джаганнатха открывает Раманудже тайну Шри Чайтаньи и посылает его в Навадвипу"
+  summary: "Довольный молитвами Рамануджи в Пури, Джаганнатха велит ему одному посетить Навадвипу, где Он скоро явится сыном Джаганнатхи Мишры: Шри Чайтанья неотличен от Кришны, Навадвипа — от Вриндавана, дхама нисходит в мир, оставаясь вне майи, и постигается лишь по милости; до поры Рамануджа должен хранить тайну и проповедовать дасья-расу, а в сердце поклоняться Шри Чайтанье."
+  persons: ["@ramanujacharya", "@jagannatha-deity", "@mahaprabhu", "@krishna"]
+  places: ["#puri", "#navadvipa", "#ranga-kshetra", "#kurma-kshetra"]
+  kind: pre-advent
+  authority: C
+  notes: "Рассказ Нитьянанды; известно только по НДМ. Шри Рангам, Венкатачала и Ядавачала — в одной части Навадвипы (15.17)."
+  themes: [jagannatha, revelation, teaching]
+  teaching: [gaura-tattva, maya]
+  event: ev-ramanuja-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "9", to: "41"}
+
+- id: nvm-15-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 41–55"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 670.5
+  title: "Рамануджа в Вайкунтхапуре: Нараяна является ему как Гаура; обещание родиться в Навадвипе"
+  summary: "Тайно придя в Навадвипу, Рамануджа в Вайкунтхапуре видит Нараяну с Шри, Бху и Лилой, а затем на Его месте — Шри Чайтанью, который кладёт стопу ему на голову; Рамануджа просит остаться, и Господь обещает, что он родится здесь при Его лилах; Рамануджа уходит в Курмастхану, всю жизнь проповедует дасью, а в следующей жизни рождается в Навадвипе преданным Анантой."
+  persons: ["@ramanujacharya", "@mahaprabhu", "@lakshmi", "@ananta-acharya"]
+  places: ["#vaikunthapur", "#kurma-kshetra"]
+  kind: pre-advent
+  authority: C
+  notes: "Отождествление «преданного Ананты» (15.55) с @ananta-acharya — по описанию #vaikunthapur в PLACES.md; в тексте только «Ананта»."
+  themes: [revelation, mercy]
+  bhava: [aishvarya]
+  event: ev-ramanuja-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "41", to: "55"}
+
+- id: nvm-15-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 56"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P05
+  order: 25
+  title: "Место свадьбы Лакшмиприи и Шри Чайтаньи — дом Валлабхи Ачарьи"
+  summary: "Паломники подходят к дому Валлабхи Ачарьи и видят место свадьбы Лакшми и Шри Чайтаньи."
+  persons: ["@mahaprabhu", "@lakshmipriya", "@vallabhacharya", "@nityananda", "@jiva-gosvami"]
+  places: ["#house-vallabha-acharya", "#modadrumadvipa"]
+  kind: lila
+  authority: B
+  notes: "Упоминание при обходе."
+  themes: [family]
+  event: ev-marriage-lakshmipriya
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "56", to: "56"}
+
+- id: nvm-15-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 57–63"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P14
+  order: 160.151
+  title: "Дом Ананты, лес Нихшреяса на Вирадже; Махатпура — Камьявана"
+  summary: "Нитьянанда показывает дом Ананты, где собирались последователи Нараяны и где древние цари начали Ему поклоняться; паломники видят лес Нихшреяса на берегу Вираджи и приходят в Махатпуру (Матапур), неотличную от Камьяваны, где прежде стояли пять баньянов."
+  persons: ["@nityananda", "@jiva-gosvami", "@ananta-acharya"]
+  places: ["#vaikunthapur", "#mahatpur"]
+  kind: lila
+  authority: B
+  notes: "Рамка обхода. «Ананта» — см. nvm-15-004."
+  themes: [pilgrimage, krishna-lila]
+  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "57", to: "63"}
+
+- id: nvm-15-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 64–70"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 630
+  title: "Пандавы в Махатпуре: сон Юдхиштхиры о славе Навадвипы"
+  summary: "В изгнании Пандавы с Драупади остановились в Экачакре; во сне Юдхиштхире открылась слава Навадвипы, и братья пришли сюда; здесь холм Юдхиштхиры и Драупади-кунда."
+  persons: ["@pandavas", "@yudhishthira", "@draupadi"]
+  places: ["#mahatpur", "#ekachakra"]
+  kind: pre-advent
+  authority: C
+  notes: "Рассказ Нитьянанды; известно только по НДМ."
+  themes: [pilgrimage, celestial]
+  event: ev-pandavas-mahatpur
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "64", to: "70"}
+
+- id: nvm-15-008
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 71–79"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 630.5
+  title: "Гаура во сне Юдхиштхире: «Я — Кришна»; Пандавы уходят в Ориссу"
+  summary: "Шри Чайтанья в сиянии является Юдхиштхире во сне: Он — Кришна, сын Нанды; скоро откроет Навадвипу, Пандавы родятся вновь и будут с Ним в Пурушоттама-кшетре; Он велит им идти очищать Ориссу, и они с сожалением покидают Навадвипу."
+  persons: ["@mahaprabhu", "@yudhishthira", "@pandavas", "@krishna"]
+  places: ["#mahatpur", "#puri"]
+  kind: prophecy
+  authority: C
+  themes: [celestial, revelation]
+  bhava: [krishna]
+  event: ev-pandavas-mahatpur
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "71", to: "79"}
+
+- id: nvm-15-009
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 80–89"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 680
+  title: "Мадхва в Махатпуре: Шри Чайтанья во сне обещает принять посвящение в его линии"
+  summary: "Во сне Шри Чайтанья говорит Мадхве, что примет посвящение в его преемственности, велит искоренять имперсонализм и славить поклонение Божеству; проснувшись, Мадхва не может говорить, а небесный голос велит поклоняться втайне."
+  persons: ["@madhvacharya", "@mahaprabhu"]
+  places: ["#mahatpur"]
+  kind: prophecy
+  authority: C
+  notes: "Рассказ Нитьянанды; известно только по НДМ."
+  themes: [celestial, revelation]
+  teaching: [bhakti-supremacy]
+  event: ev-madhva-mahatpur-dream
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "80", to: "89"}
+
+- id: nvm-15-010
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 90–93"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P14
+  order: 160.152
+  title: "Приход в Рудрадвипу; Шанкарапура на берегу Ганги"
+  summary: "Паломники достигают Рудрадвипы, разделённой Гангой надвое; издали видна Шанкарапура."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#rudradvipa", "#shankarpur"]
+  kind: lila
+  authority: B
+  notes: "Рамка обхода."
+  themes: [pilgrimage]
+  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "90", to: "93"}
+
+- id: nvm-15-011
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 94–105"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 650
+  title: "Шанкарачарья в Рудрадвипе: Гаура велит не проповедовать майявады в Навадвипе"
+  summary: "Шанкарачарья, в сердце вайшнав и часть Шивы, по воле Господа проповедующий скрытый буддизм, приходит к Навадвипе; Шри Чайтанья, явив ему Свой облик, говорит: Навадвипа — для преданных, майявада здесь не нужна, Вриддха Шива и Праудха-майя распространяют ложные толкования лишь для завистников; Шанкара уходит в другие края."
+  persons: ["@shankaracharya", "@mahaprabhu", "@shiva", "@vriddha-shiva", "@praudha-maya"]
+  places: ["#shankarpur", "#rudradvipa"]
+  kind: pre-advent
+  authority: C
+  notes: "Рассказ Нитьянанды; известно только по НДМ. Шанкара как часть Шивы, проповедующая скрытый буддизм по воле Господа, — в согласии с «Падма-пураной» (ЧЧ Ади 7)."
+  themes: [revelation, teaching]
+  teaching: [bhakti-supremacy, maya]
+  event: ev-shankaracharya-rudradvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "94", to: "105"}
+
+- id: nvm-15-012
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 106–108"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 605
+  title: "Одиннадцать Рудр и Шива пляшут в Рудрадвипе, воспевая Гауру"
+  summary: "В Рудрадвипе живут одиннадцать Рудр, постоянно славящие Шри Чайтанью; Шива с приверженцами пляшет в экстазе, а полубоги осыпают их цветами."
+  persons: ["@rudras", "@shiva", "@mahaprabhu"]
+  places: ["#rudradvipa"]
+  kind: pre-advent
+  authority: C
+  notes: "Вечная лила места, по словам Нитьянанды."
+  themes: [celestial, kirtan]
+  event: ev-rudras-rudradvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "106", to: "108"}
+
+- id: nvm-15-013
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 109–119"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 690
+  title: "Вишнусвами в Рудрадвипе: Шива дарует сампрадае своё имя"
+  summary: "Вишнусвами со спутниками ночует в Рудрадвипе, ученики поют имена, а он толкует шрути и смрити; довольный беседой о бхакти Шива является и предлагает дар; Вишнусвами просит преемственность чистой преданности, и Шива нарекает её своим именем — Рудра-сампрадая."
+  persons: ["@vishnusvami", "@shiva"]
+  places: ["#rudradvipa"]
+  kind: pre-advent
+  authority: C
+  notes: "Рассказ Нитьянанды; известно только по НДМ."
+  themes: [celestial, kirtan]
+  teaching: [vaishnava]
+  event: ev-vishnusvami-rudradvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "109", to: "119"}
+
+- id: nvm-15-014
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 120–125"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P00
+  order: 690.5
+  title: "Гаура во сне Вишнусвами: «Ты родишься Валлабхой Бхаттой»"
+  summary: "Вишнусвами поклоняется в Рудрадвипе Шри Чайтанье; Господь во сне велит ему проповедовать шуддха-адвайту и предрекает, что при Его явлении он родится Валлабхой Бхаттой, встретит Его в Пури и утвердит свою линию во Вриндаване; Нитьянанда добавляет, что Валлабха ныне живёт в Гокуле."
+  persons: ["@vishnusvami", "@mahaprabhu", "@vallabha-bhatta", "@nityananda", "@jiva-gosvami"]
+  places: ["#rudradvipa", "#puri", "#gokula"]
+  kind: prophecy
+  authority: C
+  notes: "15.125: Валлабха Бхатта жив и живёт в Гокуле во время обхода Дживы."
+  themes: [celestial]
+  event: ev-vishnusvami-rudradvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "120", to: "125"}
+
+- id: nvm-15-015
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 126–129"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P14
+  order: 160.153
+  title: "Параданга: Нитьянанда показывает Дживе раса-мандалу и Дхира-самиру"
+  summary: "Нитьянанда идёт на юг к Параданге на берегу Ганги, показывает места раса-мандалы и Дхира-самиры и говорит: здесь Вриндаван; Джива при этом слове трепещет и плачет."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#paradanga", "#shri-pulina"]
+  kind: lila
+  authority: B
+  notes: "Рамка обхода."
+  themes: [pilgrimage, krishna-lila, ecstasy]
+  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "126", to: "129"}
+
+- id: nvm-15-016
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 130–132"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P07
+  order: 134.88
+  title: "Киртан Господа с преданными на Шри Пулине: беседа о раса-лиле"
+  summary: "Здесь Шри Чайтанья с преданными пели киртан, обсуждая раса-лилу Кришны; счастливцы видят, что Господь с гопи вечно пребывает здесь, на берегу Ганги."
+  persons: ["@mahaprabhu", "@krishna", "@nityananda", "@jiva-gosvami"]
+  places: ["#shri-pulina"]
+  kind: lila
+  authority: B
+  notes: "Упоминание, со слов Нитьянанды."
+  themes: [kirtan, krishna-lila]
+  event: ev-rasa-lila-navadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "130", to: "132"}
+
+- id: nvm-15-017
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 133–139"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P14
+  order: 160.154
+  title: "Дхира-самира на берегу Ямуны: не различать Вриндаван и Навадвипу, Кришну и Чайтанью"
+  summary: "Нитьянанда показывает Дхира-самиру: это берег не Ганги, а Ямуны, текущей западнее; здесь видны все места игр Кришны, и не следует делать различия между Вриндаваном и Навадвипой, Шри Чайтаньей и Шри Кришной."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#shri-pulina"]
+  kind: teaching
+  authority: B
+  themes: [teaching, krishna-lila]
+  teaching: [gaura-tattva]
+  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "133", to: "139"}
+
+- id: nvm-15-018
+  source: navadvipa-mahatmya
+  ref: "Гл. 15, 140"
+  file: "navadvipa-dhama-mahatmya/ru/15.md"
+  period: P14
+  order: 160.155
+  title: "Ночлег в Рудрадвипе"
+  summary: "Пройдя к северу, паломники останавливаются на ночлег в Рудрадвипе."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#rudradvipa"]
+  kind: lila
+  authority: B
+  notes: "Рамка обхода."
+  themes: [pilgrimage]
+  event: ev-nvm-vaikunthapur-rudradvipa-parikrama
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/15.md", from: "140", to: "140"}
