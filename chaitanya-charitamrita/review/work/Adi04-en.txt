@@ -53,7 +53,7 @@ fn: In the edition the verse is headed: “Viṣṇu’s work is the deliverance
 ## 9
 w: but  of Kṛṣṇa  which  is  of descent  the time
 w: of the removal of the burden  the time  with it  became  mixed
-tr: But the time of Kṛṣṇa’s descent coincided with the time for removing that burden.
+tr: Yet the time of Kṛṣṇa’s descent coincided with the time for removing that burden.
 
 ## 10
 w: the complete  Bhagavān  descends  at which  time
@@ -123,7 +123,7 @@ w: to Me  devotion  indeed  of beings
 w: for immortality  is fit
 w: by good fortune  which  arose  for Me  the love
 w: of you  bringing Me
-tr: “Devotion to Me brings living beings to immortality. And it is your good fortune that you have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)
+tr: “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)
 fn: Kṛṣṇa’s words to the gopīs at Kurukṣetra (Samanta-pañcaka), where, at a solar eclipse, both the Yādavas from Dvārakā and Nanda Mahārāja with all Vraja had come. *Anubhāṣya*: “immortality” — eternal service as the Lord’s associate; their love “brings Me” — grants direct meeting with Him; “by good fortune” — “by My good fortune”.
 
 ## 24
@@ -139,7 +139,7 @@ tr: My friend, in pure friendship, climbs on My shoulders and says, “What grea
 ## 26
 w: the beloved  if  pique  showing  makes  rebuke
 w: of the Vedas  the hymns  than  steals  that  My  mind
-tr: When My beloved, in her pique (*māna*), rebukes Me, that steals My heart more than the hymns of the Vedas.
+tr: When My beloved, in her pique (*māna*), rebukes Me, her reproaches steal My heart more than the hymns of the Vedas.
 fn: *Anubhāṣya*: the rebuke with which the lover (*āśraya*), in pure attachment, chides the Beloved (*viṣaya*) is a sign of utmost, exclusive love; where the Beloved is honoured as worshipful, natural love slackens, and so such rebuke stands higher than the awe-filled praise of the Vedas.
 
 ## 27–28
@@ -147,7 +147,7 @@ w: this  pure devotion  taking  I shall make  descent
 w: I shall make  of many kinds  wondrous  pastimes
 w: in Vaikuṇṭha and elsewhere  there is not  which  which  of pastimes  the display
 w: those  those  pastimes  I shall perform  in which  My  wonder
-tr: Taking this pure devotion, I shall descend and perform many kinds of wondrous pastimes — pastimes not shown even in Vaikuṇṭha, pastimes that astonish even Me.
+tr: Taking this pure devotion with Me, I shall descend and perform many kinds of wondrous pastimes, such as are not shown even in Vaikuṇṭha — pastimes that astonish even Me.
 fn: *Amṛta-pravāha-bhāṣya*: the pastimes not found in Vaikuṇṭha and the other worlds Kṛṣṇa will show in this descent, and in them He Himself will be astonished. *Anubhāṣya*: in Vaikuṇṭha and the other realms beyond māyā the Lord’s pastimes do not give Him Himself the ever-new joy of wonder; the excellence of the pastimes of Goloka, where He lives for His own joy, He wishes to show in the world to devotees in whom the sense of majesty prevails.
 
 ## 29
@@ -236,7 +236,7 @@ tr: Each considers his own mood the best, and in that mood he tastes happiness w
 ## 44
 w: impartial  becoming  in the heart  consideration  if  I make
 w: all  rasas  than  in śṛṅgāra  greater  sweetness
-tr: But if one considers it in one’s heart without partiality, the sweetness of *śṛṅgāra*, the love of the beloved, surpasses that of all the other rasas.
+tr: But if one considers it in one’s heart without partiality, the sweetness of *śṛṅgāra* surpasses that of all the other rasas.
 fn: *Amṛta-pravāha-bhāṣya*: to each of the four kinds of devotees his own rasa seems best, but seen impartially the sweetness of *madhura*, that is, of *śṛṅgāra-rasa*, surpasses the other three. The edition’s heading: on impartial consideration the transcendental *madhura-rasa* includes all the other rasas, and so the effort to please Kṛṣṇa is greatest in it.
 
 ## 45
@@ -244,19 +244,19 @@ w: in ascending order  this
 w: of special taste  full of delight  although
 w: love  by inclination  sweet
 w: appears  some one  to someone
-tr: “Although love (*rati*), rising from one kind to the next, grows ever sweeter and more joyful, by the inclination of the heart a particular one appears sweetest to a particular devotee.” (Bhakti-rasāmṛta-sindhu, 2.5.38)
+tr: “Although love (*rati*), rising from one kind to the next, is ever richer in delight, by the inclination of the heart one particular kind seems sweetest to a particular devotee.” (Bhakti-rasāmṛta-sindhu, 2.5.38)
 fn: *Anubhāṣya*: “in ascending order” — rising step by step; “by inclination” — by the difference of inclinations. *Amṛta-pravāha-bhāṣya*: *rati*, full of delight, reveals itself in ever new tastes and, according to inclination, shows in the best hearts the highest taste — *madhura-rasa*.
 
 ## 46
 w: therefore  madhura  rasa  I call  its  name
 w: svakīyā  parakīyā  in the form  twofold  existence
-tr: Therefore I call it *madhura-rasa*, the sweet rasa. It exists in two forms: *svakīyā*, conjugal love, and *parakīyā*, love that is not conjugal.
+tr: Therefore I call it *madhura-rasa*, the sweet rasa. It exists in two forms: *svakīyā*, conjugal love, and *parakīyā*, love not bound by marriage.
 fn: *Amṛta-pravāha-bhāṣya*: when *madhura-rasa* awakens toward Kṛṣṇa as one’s husband, it is *svakīyā*; when toward Him as a lover who is not one’s husband (*upapati*), it is *parakīyā*. The *Anubhāṣya*, after the *Ujjvala-nīlamaṇi*: *svakīyā* are the beloveds who became His wives by the law of scripture and are faithful to Him as husband (the queens of Dvārakā); *parakīyā* are those who out of rāga alone have given themselves to Kṛṣṇa, regarding neither this world nor the next, though dharma does not recognise them as His wives.
 
 ## 47
 w: in the parakīyā mood  greatest  of rasa  the delight
 w: Vraja  except  of it  elsewhere  is not  the abode
-tr: In the mood of *parakīyā* rasa rejoices most of all, and nowhere but in Vraja does it dwell.
+tr: In *parakīyā* rasa rises to its highest delight, and nowhere but in Vraja does it dwell.
 fn: In the edition the verse is headed: “Of these, Kṛṣṇa’s pleasure is greatest in the *parakīyā* mood, and its only abode is Vraja.” *Amṛta-pravāha-bhāṣya*: the knowers of *madhura-rasa* have unanimously concluded that in the *parakīyā* mood the delight of rasa is greatest and that outside Vraja it does not exist. Some think that Kṛṣṇa, who sports eternally in Goloka, only for a short time appeared in Vraja in this mood; but that is not the view of the Gosvāmīs: the pastimes of Vraja too are eternal, and Vraja is the innermost chamber of eternal Goloka.
 
 ## 48
@@ -290,7 +290,7 @@ w: boundless  of a certain  of loving  persons  of the host  eager for delight
 w: of rasa  the mass  having stolen  sweet  to relish  indescribable  who
 w: lustre  His own  covered  radiance  here  Hers  revealing
 w: that  Lord  in the form of Caitanya  exceedingly  to us  may He be merciful
-tr: “The Lord, eager for delight, stole from one among the host of His beloveds (Śrī Rādhā) Her boundless, indescribably sweet wealth of rasa, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May that Lord, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)
+tr: “Eager for delight, the Lord stole from one among the host of His beloveds (Śrī Rādhā) Her boundless wealth of rasa, indescribably sweet, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May He, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)
 fn: *Anubhāṣya*: “eager for delight” (*kutukī*) — He who rejoices in tasting the moods; “to relish” — to taste it Himself by accepting Her mood; “His own lustre” — His form, dark as a rain-cloud; “Her radiance” — the beauty of her who embodies love for Him; the Lord is the Beloved of the gopīs. The same verse recurs as 4.275.
 
 ## 53
@@ -432,7 +432,7 @@ w: of Kṛṣṇa  beloveds  the host  we see  of three  kinds
 w: first  the Lakṣmīs  in the city  the queens  and
 w: of the Vraja girls  the form  and  of beloveds  the essence
 w: from Śrī Rādhikā  of the beloveds  the expansion
-tr: Kṛṣṇa’s beloveds are of three kinds: the Lakṣmīs, the queens in His city, and the girls of Vraja, who are the essence of all beloveds. All of them expand from Śrī Rādhikā.
+tr: Kṛṣṇa’s beloveds are of three kinds: the Lakṣmīs, the queens in His city, and the girls of Vraja, the essence of them all. All of them expand from Śrī Rādhikā.
 fn: In the edition verse 74 is headed: “In *madhura-rati*, by the mood of majesty or of sweetness, three kinds of Kṛṣṇa’s beloveds.” *Amṛta-pravāha-bhāṣya*: “the third kind” — the girls of Vraja, the essence, that is, the best of all beloveds.
 
 ## 76
@@ -543,7 +543,7 @@ tr: In Her dwells the splendour of all beauty, and from Her comes the beauty of 
 ## 93
 w: or  ‘kānti’  by the word  Kṛṣṇa’s  all  desires  they mean
 w: Kṛṣṇa’s  all  desires  in Rādhā alone  abide
-tr: Or the word *kānti* may mean all of Kṛṣṇa’s desires, and all of Kṛṣṇa’s desires abide in Rādhā alone.
+tr: Or the word *kānti* may mean all of Kṛṣṇa’s desires, and all of them abide in Rādhā alone.
 fn: In the edition verse 92 is headed “The original source of all beauty”, and verse 93 “The fulfilment of Kṛṣṇa’s desires in person”.
 
 ## 94
@@ -1625,7 +1625,7 @@ w: boundless  of a certain  of loving  persons  of the host  eager for delight
 w: of rasa  the mass  having stolen  sweet  to relish  indescribable  who
 w: lustre  His own  covered  radiance  here  Hers  revealing
 w: that  Lord  in the form of Caitanya  exceedingly  to us  may He be merciful
-tr: “The Lord, eager for delight, stole from one among the host of His beloveds (Śrī Rādhā) Her boundless, indescribably sweet wealth of rasa, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May that Lord, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)
+tr: “Eager for delight, the Lord stole from one among the host of His beloveds (Śrī Rādhā) Her boundless wealth of rasa, indescribably sweet, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May He, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)
 fn: The same verse as 4.52 (the *Anubhāṣya* refers to it); the translation is the same.
 
 ## 276

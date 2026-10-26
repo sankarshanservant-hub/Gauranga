@@ -96,7 +96,7 @@ but  of Kṛṣṇa  which  is  of descent  the time
 bhāra-haraṇa-kāla tāte haila miśāla  
 of the removal of the burden  the time  with it  became  mixed
 
-(9) But the time of Kṛṣṇa’s descent coincided with the time for removing that burden.
+(9) Yet the time of Kṛṣṇa’s descent coincided with the time for removing that burden.
 
 পূর্ণ ভগবান্ অবতরে যেই কালে ৷  
 আর সব অবতার তাঁতে আসি’ মিলে ॥ ১০ ॥
@@ -235,7 +235,7 @@ by good fortune  which  arose  for Me  the love
 bhavatīnāṁ mad-āpanaḥ  
 of you  bringing Me
 
-(23) “Devotion to Me brings living beings to immortality. And it is your good fortune that you have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^10]
+(23) “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^10]
 
 মাতা মোরে পুত্ত্রভাবে করেন বন্ধন ৷  
 অতিহীন-জ্ঞানে করে লালন পালন ॥ ২৪ ॥
@@ -265,7 +265,7 @@ the beloved  if  pique  showing  makes  rebuke
 veda stuti haite hare sei mora mana  
 of the Vedas  the hymns  than  steals  that  My  mind
 
-(26) When My beloved, in her pique (*māna*), rebukes Me, that steals My heart more than the hymns of the Vedas.[^11]
+(26) When My beloved, in her pique (*māna*), rebukes Me, her reproaches steal My heart more than the hymns of the Vedas.[^11]
 
 এই শুদ্ধাভক্তি লঞা করিমু অবতার ৷  
 করিব বিবিধবিধ অদ্ভুত বিহার ॥ ২৭ ॥
@@ -282,7 +282,7 @@ in Vaikuṇṭha and elsewhere  there is not  which  which  of pastimes  the dis
 se se līlā kariba, yāte mora camatkāra  
 those  those  pastimes  I shall perform  in which  My  wonder
 
-(27–28) Taking this pure devotion, I shall descend and perform many kinds of wondrous pastimes — pastimes not shown even in Vaikuṇṭha, pastimes that astonish even Me.[^12]
+(27–28) Taking this pure devotion with Me, I shall descend and perform many kinds of wondrous pastimes, such as are not shown even in Vaikuṇṭha — pastimes that astonish even Me.[^12]
 
 মো-বিষয়ে গোপীগণের উপপতি-ভাবে ৷  
 যোগমায়া করিবেক আপনপ্রভাবে ॥ ২৯ ॥
@@ -443,7 +443,7 @@ impartial  becoming  in the heart  consideration  if  I make
 saba rasa haite śṛṅgāre adhika mādhurī  
 all  rasas  than  in śṛṅgāra  greater  sweetness
 
-(44) But if one considers it in one’s heart without partiality, the sweetness of *śṛṅgāra*, the love of the beloved, surpasses that of all the other rasas.[^22]
+(44) But if one considers it in one’s heart without partiality, the sweetness of *śṛṅgāra* surpasses that of all the other rasas.[^22]
 
 যথোত্তরমসৌ স্বাদুবিশেষোল্লাসময়্যপি ৷  
 রতির্বাসনয়া স্বাদ্বী ভাসতে কাপি কস্যচিৎ ॥ ৪৫ ॥
@@ -457,7 +457,7 @@ love  by inclination  sweet
 bhāsate kāpi kasyacit  
 appears  some one  to someone
 
-(45) “Although love (*rati*), rising from one kind to the next, grows ever sweeter and more joyful, by the inclination of the heart a particular one appears sweetest to a particular devotee.” (Bhakti-rasāmṛta-sindhu, 2.5.38)[^23]
+(45) “Although love (*rati*), rising from one kind to the next, is ever richer in delight, by the inclination of the heart one particular kind seems sweetest to a particular devotee.” (Bhakti-rasāmṛta-sindhu, 2.5.38)[^23]
 
 অতএব মধুর রস কহি তার নাম ৷  
 স্বকীয়া-পরকীয়া-রূপে দ্বিবিধ সংস্থান ॥ ৪৬ ॥
@@ -467,7 +467,7 @@ therefore  madhura  rasa  I call  its  name
 svakīyā-parakīyā-rūpe dvi-vidha saṁsthāna  
 svakīyā  parakīyā  in the form  twofold  existence
 
-(46) Therefore I call it *madhura-rasa*, the sweet rasa. It exists in two forms: *svakīyā*, conjugal love, and *parakīyā*, love that is not conjugal.[^24]
+(46) Therefore I call it *madhura-rasa*, the sweet rasa. It exists in two forms: *svakīyā*, conjugal love, and *parakīyā*, love not bound by marriage.[^24]
 
 পরকীয়া-ভাবে অতি রসের উল্লাস ৷  
 ব্রজ বিনা ইহার অন্যত্র নাহি বাস ॥ ৪৭ ॥
@@ -477,7 +477,7 @@ in the parakīyā mood  greatest  of rasa  the delight
 vraja vinā ihāra anyatra nāhi vāsa  
 Vraja  except  of it  elsewhere  is not  the abode
 
-(47) In the mood of *parakīyā* rasa rejoices most of all, and nowhere but in Vraja does it dwell.[^25]
+(47) In *parakīyā* rasa rises to its highest delight, and nowhere but in Vraja does it dwell.[^25]
 
 ব্রজবধূগণের এই ভাব নিরবধি ৷  
 তার মধ্যে শ্রীরাধার ভাবের অবধি ॥ ৪৮ ॥
@@ -539,7 +539,7 @@ lustre  His own  covered  radiance  here  Hers  revealing
 sa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu  
 that  Lord  in the form of Caitanya  exceedingly  to us  may He be merciful
 
-(52) “The Lord, eager for delight, stole from one among the host of His beloveds (Śrī Rādhā) Her boundless, indescribably sweet wealth of rasa, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May that Lord, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)[^30]
+(52) “Eager for delight, the Lord stole from one among the host of His beloveds (Śrī Rādhā) Her boundless wealth of rasa, indescribably sweet, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May He, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)[^30]
 
 ভাবগ্রহণের হেতু করিল ধর্ম্ম স্থাপন ৷  
 তার মুখ্য হেতু কহি, শুন সর্ব্বজন ॥ ৫৩ ॥
@@ -792,7 +792,7 @@ of the Vraja girls  the form  and  of beloveds  the essence
 śrī-rādhikā haite kāntā-gaṇera vistāra  
 from Śrī Rādhikā  of the beloveds  the expansion
 
-(74–75) Kṛṣṇa’s beloveds are of three kinds: the Lakṣmīs, the queens in His city, and the girls of Vraja, who are the essence of all beloveds. All of them expand from Śrī Rādhikā.[^50]
+(74–75) Kṛṣṇa’s beloveds are of three kinds: the Lakṣmīs, the queens in His city, and the girls of Vraja, the essence of them all. All of them expand from Śrī Rādhikā.[^50]
 
 অবতারী কৃষ্ণ যৈছে করে অবতার ৷  
 অংশিনী রাধা হৈতে তিন গণের বিস্তার ॥ ৭৬ ॥
@@ -980,7 +980,7 @@ or  ‘kānti’  by the word  Kṛṣṇa’s  all  desires  they mean
 kṛṣṇera sakala vāñchā rādhātei rahe  
 Kṛṣṇa’s  all  desires  in Rādhā alone  abide
 
-(93) Or the word *kānti* may mean all of Kṛṣṇa’s desires, and all of Kṛṣṇa’s desires abide in Rādhā alone.[^67]
+(93) Or the word *kānti* may mean all of Kṛṣṇa’s desires, and all of them abide in Rādhā alone.[^67]
 
 রাধিকা করেন কৃষ্ণের বাঞ্ছিত পূরণ ৷  
 ‘সর্ব্বকান্তি’ শব্দের এই অর্থ বিবরণ ॥ ৯৪ ॥
@@ -2949,7 +2949,7 @@ lustre  His own  covered  radiance  here  Hers  revealing
 sa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu  
 that  Lord  in the form of Caitanya  exceedingly  to us  may He be merciful
 
-(275) “The Lord, eager for delight, stole from one among the host of His beloveds (Śrī Rādhā) Her boundless, indescribably sweet wealth of rasa, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May that Lord, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)[^194]
+(275) “Eager for delight, the Lord stole from one among the host of His beloveds (Śrī Rādhā) Her boundless wealth of rasa, indescribably sweet, that He might relish it Himself. For this He covered His own lustre and revealed here Her radiance. May He, in the form of Caitanya, be boundlessly merciful to us!” (Stava-mālā, the second Caitanyāṣṭaka, 3)[^194]
 
 মঙ্গলাচরণং কৃষ্ণচৈতন্যতত্ত্বলক্ষণম্ ৷  
 প্রয়োজনঞ্চাবতারে শ্লোকষট্কৈর্নিরূপিতম্ ॥ ২৭৬ ॥
