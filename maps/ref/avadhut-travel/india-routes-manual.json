@@ -1,0 +1,63 @@
+{
+ "_note": "Маршруты-схемы по местам из книг (нет GPS-трека). path — места вдоль пути по порядку (линия по их координатам), stops — все места маршрута по главам книги, включая боковые заходы. Читает src/lib/travel.ts.",
+ "routes": [
+  {
+   "id": "govardhan-parikrama",
+   "city": "govardhan",
+   "name": "Говардхан-парикрама",
+   "source": "глав книги Дина-Бандху даса «Враджа-лила. Часть 3: Гирираджа — царь гор» (2024)",
+   "summary": "Обход холма Говардхан (около 21 км): от Кусум-саровара через Манаси-Гангу и Дан-гхати, вокруг южной части холма — Чандра-саровар, Аньор, Говинда-кунда, Пунчари, Джатипура — и обратно через Говардхан к Уддхава-кунде и Радха-кунде. Порядок мест — как в книге; Пайтхо и Мукхараи — боковые заходы.",
+   "path": [
+    "govardhan/kusum-sarovar",
+    "radha-kund/narada-kunda-naradavana",
+    "radha-kund/ratna-simhasana",
+    "govardhan/gvala-pokhara",
+    "govardhan/manasi-ganga",
+    "govardhan/harideva",
+    "govardhan/dan-ghati",
+    "govardhan/iskcon",
+    "govardhan/dana-nirvartana-kunda",
+    "govardhan/chandra-sarovar",
+    "govardhan/anyor",
+    "govardhan/sankarsana-kunda",
+    "govardhan/govinda-kund",
+    "govardhan/doka-dauji-balarama-sthali",
+    "govardhan/puchhari-ka-lautha",
+    "govardhan/surabhi-kunda",
+    "govardhan/mukharavinda-jetipura",
+    "govardhan/vilachu-kunda",
+    "govardhan/dan-ghati",
+    "govardhan/manasi-ganga",
+    "govardhan/uddhava-kund",
+    "radha-kund/shiva-khari",
+    "radha-kund/malyahari-kunda",
+    "radha-kund/radha-kund"
+   ],
+   "stops": [
+    "govardhan/kusum-sarovar",
+    "radha-kund/narada-kunda-naradavana",
+    "radha-kund/ratna-simhasana",
+    "govardhan/gvala-pokhara",
+    "govardhan/manasi-ganga",
+    "govardhan/harideva",
+    "govardhan/dan-ghati",
+    "govardhan/iskcon",
+    "govardhan/dana-nirvartana-kunda",
+    "govardhan/chandra-sarovar",
+    "govardhan/gauri-kunda-gauri-tirtha",
+    "govardhan/paitho",
+    "govardhan/anyor",
+    "govardhan/govinda-kund",
+    "govardhan/doka-dauji-balarama-sthali",
+    "govardhan/puchhari-ka-lautha",
+    "govardhan/surabhi-kunda",
+    "govardhan/mukharavinda-jetipura",
+    "govardhan/uddhava-kund",
+    "radha-kund/shiva-khari",
+    "radha-kund/malyahari-kunda",
+    "radha-kund/radha-kund",
+    "radha-kund/mukharai"
+   ]
+  }
+ ]
+}

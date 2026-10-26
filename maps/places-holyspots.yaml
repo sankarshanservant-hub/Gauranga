@@ -1,0 +1,55 @@
+# Наши места лил → точки святых мест из таблицы раздела «Путешествие» сайта Шрилы Авадхута Махараджа
+# (maps/src/holy-spots-avadhut.csv; координаты по Holy Spots и исследованию миссии; «точно» / «приблизительно»).
+# Ключ — тег места без «#»; значение — id строки таблицы или {spot: id, status: …, note: …}.
+# Где таблица даёт центр города (не святыню) — city: id города из maps/ref/avadhut-travel/india-places.json.
+# Приоритет при сборке: places-overrides.yaml > этот файл > places-candidates.json (OSM, предварительно).
+
+# Навадвипа (Шридхам Маяпур — по Шриле Бхактивиноде Тхакуру и Шриле Бхактисиддханте Сарасвати)
+navadvipa: {city: mayapur, status: tradition}
+house-jagannatha-mishra: {spot: mayapur/yogapith, status: tradition}
+house-srivasa: mayapur/srivas-angan
+house-nandana-acharya: mayapur/nandan-acharya-bhavan
+kulia: {spot: navadvip/koladvip, status: approx, note: "Кулия (Коладвипа) — нынешний город Набадвип; точка — Порама-тала"}
+vidyanagara-bengal: navadvip/vidyanagar
+shantipura: shantipur/advaita-bhavan
+ambika-kalna: ambika-kalna/gauridas-pandit
+ekachakra: ekachakra/birthplace
+
+# Кшетра-мандала
+puri: puri/jagannath-mandir
+house-kashi-mishra: puri/gambhira
+narendra-sarovara: puri/narendra-sarovar
+gundicha: puri/gundicha
+tota: puri/tota-gopinath
+chataka-parvata: puri/chatak-parvat
+indradyumna-sarovara: puri/indradyumna-sarovar
+jagannatha-vallabha: puri/jagannatha-vallabha
+atharanala: puri/atharnala-setu-bridge
+alalanatha: alarnath/alarnath-temple
+remuna: remuna/kshira-chora-gopinath
+jajpur: jajpur/viraja-temple
+
+# Юг и запад
+ranga-kshetra: srirangam/ranganatha
+setubandha: rameshvaram/ramanathaswamy
+dvaraka: dwarka/dwarkadhish
+girnar: raivata/girnar-mountain-raivata-or-raivataka
+
+# Север
+prayaga: prayag/triveni-sangam
+jaipur: jaipur/govindaji
+
+# Врадж
+vrindavana: {city: vrindavan}
+vamshivata: vrindavan/vamshivat
+brahma-kunda: vrindavan/brahma-kund
+gomatila: {spot: vrindavan/govindaji, status: tradition, note: "Гомаитила — холм, где стоит древний храм Говиндаджи Рупы Госвами"}
+akrura-tirtha: vrindavan/akhura-ghata
+mathura: {city: mathura}
+gokula: {city: gokul}
+govardhana: {city: govardhan}
+govinda-kunda: govardhan/govinda-kund
+kusuma-sarovara: govardhan/kusum-sarovar
+radha-kunda: radha-kund/radha-kund
+nandagrama: nandagram/nanda-bhavan
+varshana: barsana/shriji-temple

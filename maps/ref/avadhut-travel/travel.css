@@ -1,0 +1,175 @@
+/* Раздел «Путешествие» (/travel/, /travel/india/). Отдельный файл (а не стиль страницы) —
+   его подключает <link> внутри <main>, поэтому он подгружается и при «мягкой навигации»,
+   которая подменяет только <main>. Разметку панели и маркеров строит public/travel/map.js. */
+.tv-root{
+  --saffron:#C2701D; --gold:#B8862B; --spot:#7A1F1F;
+  position:relative;border-bottom:1px solid var(--rule);
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .tv-root{ --saffron:#E39B4C; --gold:#D9AE5C; --spot:#C98A86; } }
+:root[data-theme="dark"] .tv-root{ --saffron:#E39B4C; --gold:#D9AE5C; --spot:#C98A86; }
+
+.tv-hero{padding:2.4rem 0 1.6rem}
+.tv-hero h1{font-size:clamp(2.2rem,6vw,3.4rem)}
+.tv-stats{display:flex;flex-wrap:wrap;gap:.4rem 1.4rem;margin-top:1.2rem}
+.tv-hero-india h1{background:linear-gradient(90deg,var(--ink),var(--saffron, #C2701D));-webkit-background-clip:text;background-clip:text;color:transparent}
+
+/* сцена: карта + панель справа; на телефоне — панель под картой */
+.tv-stage{display:grid;grid-template-columns:minmax(0,1fr) 380px;height:calc(100vh - 4.5rem);max-height:860px;min-height:460px}
+.tv-map{position:relative;background:var(--faint);overflow:hidden}
+.tv-loading{position:absolute;inset:0;display:grid;place-items:center}
+.tv-root.is-ready .tv-loading{display:none}
+.tv-root.no-tiles .tv-map::after{content:"Подложка карты недоступна — точки и списки работают";position:absolute;left:.8rem;bottom:.8rem;
+  font:.62rem "IBM Plex Mono",monospace;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);background:var(--paper);padding:.3rem .5rem;border:1px solid var(--rule)}
+.tv-panel{border-left:1px solid var(--rule);overflow-y:auto;padding:1.4rem 1.4rem 2.5rem;background:var(--paper);overscroll-behavior:contain}
+@media (max-width:860px){
+  .tv-stage{grid-template-columns:1fr;height:auto;min-height:0}
+  .tv-map{height:62vh;min-height:360px}
+  .tv-panel{border-left:none;border-top:1px solid var(--rule);max-height:none;padding:1.2rem 16px 2rem}
+}
+
+.tv-sat-switch{position:absolute;left:.8rem;top:.8rem;z-index:3;display:flex;border:1px solid var(--rule);background:var(--paper);border-radius:2px}
+.tv-sat-switch button{font:.62rem "IBM Plex Mono",monospace;letter-spacing:.12em;text-transform:uppercase;padding:.45rem .7rem;border:none;background:none;color:var(--muted);cursor:pointer}
+.tv-sat-switch button+button{border-left:1px solid var(--rule)}
+.tv-sat-switch button[aria-pressed="true"]{color:var(--paper);background:var(--ink)}
+.tv-sat-switch button:hover{color:var(--ink)}
+.tv-sat-switch button[aria-pressed="true"]:hover{color:var(--paper)}
+
+/* панель */
+.tv-crumbs a{color:var(--muted)} .tv-crumbs a:hover{color:var(--ink)}
+.tv-h{font-size:1.7rem;line-height:1.15;margin:.5rem 0 .3rem}
+.tv-sub{margin-bottom:.6rem}
+.tv-p{color:var(--ink);font-size:.95rem;line-height:1.65;margin:.8rem 0}
+.tv-h3{margin:1.6rem 0 .6rem;padding-top:.9rem;border-top:1px solid var(--rule)}
+.tv-panel > .tv-h3:first-child,.tv-panel > .tv-region:first-child .tv-h3,.tv-india-card + .tv-h3{border-top:none;padding-top:0}
+.tv-year{margin:.9rem 0 .3rem;color:var(--ink)}
+.tv-lects{list-style:none;padding:0;margin:0}
+.tv-lects li a{display:block;padding:.45rem 0;border-bottom:1px solid var(--rule)}
+.tv-lects li a:hover .tv-lt{border-bottom-color:var(--ink)}
+.tv-lt{display:block;font-size:.93rem;line-height:1.35;border-bottom:1px solid transparent}
+.tv-ld{display:block;margin-top:.15rem;font-size:.56rem}
+.tv-lects li:has(.tv-where) > a{border-bottom:none;padding-bottom:.1rem}
+.tv-where{display:block;padding:0 0 .45rem;border-bottom:1px solid var(--rule);color:var(--accent);font-size:.56rem}
+.tv-where:hover{color:var(--ink)}
+.tv-note{color:var(--muted);font-size:.85rem;margin-top:1rem}
+.tv-q{margin:1.1rem 0;padding:.2rem 0 .2rem 1rem;border-left:2px solid var(--saffron);font-style:italic;font-size:.98rem;line-height:1.6}
+.tv-q a{display:block;font-style:normal;margin-top:.4rem;color:var(--muted)}
+.tv-kind{display:flex;align-items:center;gap:.5rem;margin-top:.9rem}
+.tv-ext{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1.4rem}
+.tv-ext .sbtn{font-size:.8rem;padding:.45rem .8rem}
+.tv-cta{display:block;margin:1rem 0;padding:.8rem 1rem;border:1px solid var(--saffron);color:var(--saffron);font-size:.95rem}
+.tv-cta:hover{background:var(--faint)}
+
+.tv-places,.tv-cities,.tv-trips,.tv-spots{list-style:none;padding:0;margin:0}
+.tv-places a,.tv-cities a,.tv-trips a{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;padding:.42rem 0;border-bottom:1px solid var(--rule);font-size:.95rem}
+.tv-places a:hover span:first-child,.tv-cities a:hover span:first-child,.tv-trips a:hover .tv-tt{color:var(--accent)}
+.tv-places a.is-india span:first-child::after{content:" ✦";color:var(--saffron);font-size:.7em}
+.tv-cities a:not(.has-l) span:first-child{color:var(--muted)}
+.tv-trips .tv-tt{font-size:.93rem;line-height:1.35}
+.tv-trips .mono{white-space:nowrap}
+.tv-srow{display:flex;align-items:center;gap:.6rem;padding:.38rem 0;border-bottom:1px solid var(--rule);font-size:.93rem}
+.tv-srow .tv-sn{flex:1}
+.tv-srow:not(.has-l) .tv-sn{color:var(--muted)}
+.tv-srow:hover .tv-sn{color:var(--accent)}
+
+.tv-india-card{display:block;padding:1.2rem 1.2rem 1.1rem;margin-bottom:1.6rem;color:var(--ink);
+  background:linear-gradient(135deg,color-mix(in srgb,var(--saffron) 16%,var(--paper)),var(--paper) 70%);border:1px solid color-mix(in srgb,var(--saffron) 45%,var(--rule))}
+.tv-india-card strong{display:block;font-size:1.6rem;margin:.3rem 0 .4rem;font-weight:400}
+.tv-india-card > span:not(.mono){display:block;font-size:.9rem;line-height:1.55;color:var(--muted)}
+.tv-india-card .tv-go{display:block;margin-top:.8rem;color:var(--saffron)}
+.tv-india-card:hover .tv-go{text-decoration:underline}
+
+/* указатель под картой */
+.tv-index{padding:3rem 0 4rem}
+.tv-index h2{font-size:1.6rem;margin-bottom:1.2rem}
+.tv-country{break-inside:avoid;margin-bottom:1.4rem}
+.tv-index{columns:3 16rem;column-gap:2.5rem}
+.tv-index h2{column-span:all}
+.tv-country h3{margin-bottom:.4rem}
+.tv-country ul{list-style:none;padding:0;margin:0}
+.tv-country li{padding:.18rem 0;font-size:.92rem}
+.tv-country li a:hover{color:var(--accent)}
+
+/* ── маркеры: мир ── */
+.tv-wp{position:relative;width:var(--s);height:var(--s);padding:0;border:none;background:none;cursor:pointer}
+.tv-wp-dot{position:absolute;inset:0;border-radius:50%;background:color-mix(in srgb,var(--spot) 75%,transparent);border:2px solid var(--paper);
+  box-shadow:0 1px 6px rgba(0,0,0,.25);transition:transform .2s}
+.tv-wp.is-india .tv-wp-dot{background:color-mix(in srgb,var(--saffron) 85%,transparent)}
+.tv-wp:hover .tv-wp-dot,.tv-wp.is-active .tv-wp-dot{transform:scale(1.18)}
+.tv-wp.is-active .tv-wp-dot{box-shadow:0 0 0 3px var(--ink)}
+.tv-wp-l{position:absolute;left:calc(100% + 4px);top:50%;transform:translateY(-50%);white-space:nowrap;font-size:.74rem;
+  background:color-mix(in srgb,var(--paper) 88%,transparent);padding:.05rem .3rem;border-radius:2px;color:var(--ink);pointer-events:none}
+.tv-wp-l b{font-weight:600;color:var(--muted)}
+
+/* ── маркеры: Индия ── */
+/* Маркер = сама точка (к координате привязан её центр); подпись — вне потока, справа */
+.tv-city{display:block;width:14px;height:14px;padding:0;border:none;background:none;cursor:pointer}
+.tv-city-dot{display:block;width:14px;height:14px;border-radius:50%;background:var(--paper);border:2px solid var(--muted);flex:none;transition:transform .2s}
+.tv-city.has-l .tv-city-dot{background:var(--saffron);border-color:var(--paper);box-shadow:0 0 0 4px color-mix(in srgb,var(--saffron) 25%,transparent),0 1px 6px rgba(0,0,0,.3)}
+.tv-city-l{position:absolute;left:calc(100% + 6px);top:50%;transform:translateY(-50%);font-size:.8rem;white-space:nowrap;background:color-mix(in srgb,var(--paper) 90%,transparent);padding:.08rem .35rem;border-radius:2px;color:var(--ink)}
+.tv-city-l b{font-weight:600;color:var(--saffron)}
+.tv-city:hover .tv-city-dot,.tv-city.is-active .tv-city-dot{transform:scale(1.25)}
+.tv-city.is-trip .tv-city-dot{box-shadow:0 0 0 5px color-mix(in srgb,var(--accent) 40%,transparent)}
+.tv-city.is-trip .tv-city-l{color:var(--accent)}
+.tv-root.z-spots .tv-city{visibility:hidden}
+
+/* видимость — через visibility: opacity маркера MapLibre выставляет сам */
+.tv-spot{display:block;width:30px;height:30px;padding:0;border:none;background:none;cursor:pointer;visibility:hidden}
+.tv-root.z-spots .tv-spot{visibility:visible}
+.tv-pin{position:relative;display:grid;place-items:center;width:30px;height:30px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);
+  background:var(--paper);border:1.5px solid var(--muted);box-shadow:0 2px 8px rgba(0,0,0,.25);transition:transform .2s}
+.tv-pin svg{width:17px;height:17px;transform:rotate(45deg);fill:none;stroke:var(--muted);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.tv-pin i{position:absolute;top:-7px;right:-9px;transform:rotate(45deg);min-width:17px;height:17px;padding:0 4px;border-radius:9px;
+  background:var(--ink);color:var(--paper);font:600 .6rem/17px "IBM Plex Mono",monospace;font-style:normal;text-align:center}
+.tv-spot.has-l .tv-pin{background:var(--saffron);border-color:var(--paper)}
+.tv-spot.has-l .tv-pin svg{stroke:#fff}
+/* без scale: увеличение сдвигало бы остриё с координаты */
+.tv-spot:hover .tv-pin,.tv-spot.is-active .tv-pin{box-shadow:0 0 0 3px color-mix(in srgb,var(--saffron) 45%,transparent),0 2px 8px rgba(0,0,0,.3)}
+.tv-spot.is-active .tv-pin{background:var(--accent);border-color:var(--paper)}
+.tv-spot.is-active .tv-pin svg{stroke:#fff}
+.tv-spot-l{position:absolute;top:calc(100% + 10px);left:50%;transform:translateX(-50%);width:max-content;font-size:.72rem;line-height:1.2;max-width:9rem;text-align:center;color:var(--ink);
+  background:color-mix(in srgb,var(--paper) 90%,transparent);padding:.05rem .3rem;border-radius:2px;display:none}
+.tv-root.z-labels .tv-spot.has-l .tv-spot-l,.tv-root.z-labels-all .tv-spot-l,.tv-spot:hover .tv-spot-l,.tv-spot.is-active .tv-spot-l{display:block}
+.tv-spot.is-active{z-index:5}
+.tv-root.is-sat .tv-spot-l,.tv-root.is-sat .tv-city-l,.tv-root.is-sat .tv-wp-l{background:rgba(20,18,15,.78);color:#F2EFEA}
+
+/* иконки в списках панели */
+.tv-pin.sm{width:22px;height:22px;flex:none}
+.tv-pin.sm svg{width:13px;height:13px}
+.tv-srow.has-l .tv-pin.sm{background:var(--saffron);border-color:var(--paper)}
+.tv-srow.has-l .tv-pin.sm svg{stroke:#fff}
+.tv-sc{min-width:1.4rem;text-align:right}
+
+/* подложка MapLibre — в тон сайту */
+.tv-root .maplibregl-ctrl-group{background:var(--paper);border:1px solid var(--rule);box-shadow:none;border-radius:2px}
+.tv-root .maplibregl-ctrl-group button+button{border-top:1px solid var(--rule)}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .tv-root .maplibregl-ctrl-icon{filter:invert(1)} }
+:root[data-theme="dark"] .tv-root .maplibregl-ctrl-icon{filter:invert(1)}
+.tv-root .maplibregl-ctrl-attrib{font-size:10px}
+.tv-hero > p{margin-top:1rem;max-width:52ch;font-size:1.02rem;line-height:1.65}
+.tv-hero > .tv-dev{display:inline-block;margin-top:1.1rem;font-size:.62rem;line-height:1.5;padding:.4rem .7rem;border:1px dashed var(--accent);color:var(--accent)}
+
+/* фото и подробности места (Holy Spots) */
+.tv-photo{margin:1rem 0 .4rem;aspect-ratio:4/3;background:var(--faint);overflow:hidden}
+.tv-photo img{width:100%;height:100%;object-fit:cover;display:block}
+.tv-thumbs{display:flex;gap:.35rem;overflow-x:auto;padding-bottom:.3rem;margin-bottom:.4rem;scrollbar-width:thin}
+.tv-thumbs button{flex:none;width:56px;height:42px;padding:0;border:2px solid transparent;background:var(--faint);cursor:pointer;opacity:.75}
+.tv-thumbs button[aria-pressed="true"]{border-color:var(--saffron);opacity:1}
+.tv-thumbs img{width:100%;height:100%;object-fit:cover;display:block}
+.tv-details{margin:.6rem 0}
+.tv-details summary{cursor:pointer;color:var(--accent);list-style:none}
+.tv-details summary::-webkit-details-marker{display:none}
+.tv-details summary::before{content:"+ "}
+.tv-details[open] summary::before{content:"− "}
+.tv-details p{font-size:.92rem;line-height:1.65;margin:.7rem 0}
+.tv-src{margin-top:.6rem;font-size:.56rem}
+.tv-src a{color:var(--muted);border-bottom:1px solid var(--rule)}
+
+/* парикрамы */
+.tv-routes{list-style:none;padding:0;margin:0}
+.tv-routes a{display:flex;align-items:center;gap:.6rem;padding:.42rem 0;border-bottom:1px solid var(--rule);font-size:.93rem}
+.tv-routes a:hover .tv-sn{color:var(--accent)}
+.tv-rl{flex:none;width:22px;height:0;border-top:3px solid var(--saffron);border-radius:2px}
+.tv-rl.is-scheme{border-top-style:dashed}
+.tv-stops{counter-reset:st}
+.tv-stops li{counter-increment:st}
+.tv-stops .tv-srow::before{content:counter(st);flex:none;width:1.1rem;font:.56rem "IBM Plex Mono",monospace;color:var(--muted)}

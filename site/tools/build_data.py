@@ -401,31 +401,70 @@ def places_registry():
     return reg
 
 
+def holy_spots():
+    """Таблица святых мест раздела «Путешествие» сайта Шрилы Авадхута Махараджа (maps/src/holy-spots-avadhut.csv)
+    → {id: {...}}; центры городов — из maps/ref/avadhut-travel/india-places.json."""
+    import csv
+    spots = {}
+    for x in csv.DictReader(open(os.path.join(ROOT, 'maps/src/holy-spots-avadhut.csv'), encoding='utf-8-sig')):
+        spots[x['id']] = {'name': x['Название'], 'name_en': x['Name (EN)'], 'kind': x['Тип'], 'city': x['Город'],
+                          'lat': float(x['Широта']), 'lon': float(x['Долгота']),
+                          'exact': x['Точность'] == 'точно', 'src': x['Источник координат'], 'url': x['На карте сайта']}
+    cities = {c['id']: c for c in json.load(open(os.path.join(ROOT, 'maps/ref/avadhut-travel/india-places.json'), encoding='utf-8'))['cities']}
+    return spots, cities
+
+
+KIND = {'Храм': 'temple', 'Кунда': 'kund', 'Самадхи': 'samadhi', 'Гхат': 'ghat', 'Лес, роща': 'forest', 'Холм': 'hill',
+        'Место явления': 'birthplace', 'Матх': 'math', 'Река': 'river'}
+
+
 def build_places(events_out):
-    """site/data/places.json: имена (PLACES.md) + координаты (maps/places-candidates.json — предварительные,
-    поправки maps/places-overrides.yaml) + лилы места."""
+    """site/data/places.json: имена (PLACES.md) + координаты + лилы места. Координаты по приоритету:
+    maps/places-overrides.yaml > maps/places-holyspots.yaml (святые места по таблице миссии) >
+    maps/places-candidates.json (OSM, предварительно). Все святые места таблицы — site/data/holyspots.json."""
     import yaml
     reg = places_registry()
     cand = json.load(open(os.path.join(ROOT, 'maps/places-candidates.json'), encoding='utf-8'))
     over = yaml.safe_load(open(os.path.join(ROOT, 'maps/places-overrides.yaml'), encoding='utf-8')) or {}
+    hsmap = yaml.safe_load(open(os.path.join(ROOT, 'maps/places-holyspots.yaml'), encoding='utf-8')) or {}
+    spots, cities = holy_spots()
     lilas = {}
     for ev in events_out:
         for p in ev['places']:
             lilas.setdefault(p, []).append(ev['id'])
-    out = {}
+    out, used = {}, {}
     for tag, r in reg.items():
         c = cand.get(tag, {}); o = over.get(tag[1:]) or {}
+        h = hsmap.get(tag[1:]); h = {'spot': h} if isinstance(h, str) else (h or {})
         d = {'name': r['name'], 'name_en': r['name_en'], 'note': r['note'], 'type': c.get('type', 'point')}
         if c.get('parent') or o.get('parent'): d['parent'] = '#' + (o.get('parent') or c['parent'].lstrip('#'))
-        status = o.get('status') or ('unverified' if 'lat' in c else None)
-        if status != 'hidden':
-            lat, lon = o.get('lat', c.get('lat')), o.get('lon', c.get('lon'))
-            if lat is not None and d['type'] == 'point':
-                d.update(lat=lat, lon=lon, status=status)
-        if o.get('note'): d['geo_note'] = o['note']
+        geo = None
+        if 'lat' in o:
+            geo = {'lat': o['lat'], 'lon': o['lon'], 'status': o.get('status', 'approx')}
+        elif o.get('status') == 'hidden':
+            geo = None
+        elif h.get('spot'):
+            s = spots[h['spot']]
+            geo = {'lat': s['lat'], 'lon': s['lon'], 'status': h.get('status') or ('exact' if s['exact'] else 'approx'),
+                   'spot': h['spot'], 'url': s['url'], 'kind': KIND.get(s['kind'], 'other')}
+            used[h['spot']] = tag
+        elif h.get('city'):
+            cc = cities[h['city']]
+            geo = {'lat': cc['center'][1], 'lon': cc['center'][0], 'status': h.get('status', 'approx'),
+                   'url': 'https://avadhutmaharaj.com/travel/india/#' + h['city']}
+        elif 'lat' in c:
+            geo = {'lat': c['lat'], 'lon': c['lon'], 'status': 'unverified'}
+        if geo:
+            d.update(geo)
+        note = o.get('note') or h.get('note')
+        if note: d['geo_note'] = note
         d['lilas'] = lilas.get(tag, [])
         out[tag] = d
     json.dump(out, open(os.path.join(DATA, 'places.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    # святые места сегодня (слой «Святые места») — кроме тех, что уже стоят как места лил
+    hs = [{'id': k, 'n': s['name'], 'ne': s['name_en'], 'k': KIND.get(s['kind'], 'other'), 'c': [s['lon'], s['lat']],
+           'x': int(s['exact']), 'u': s['url'], **({'t': used[k]} if k in used else {})} for k, s in spots.items()]
+    json.dump(hs, open(os.path.join(DATA, 'holyspots.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     return out
 
 
