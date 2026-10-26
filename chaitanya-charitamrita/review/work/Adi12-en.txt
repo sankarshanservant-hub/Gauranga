@@ -32,13 +32,13 @@ tr: The second trunk of the tree is Ācārya Gosāñi. So many branches grew fro
 ## 5
 w: of Caitanya the gardener  of the water of mercy  by the sprinkling
 w: by that  water  nourished  the trunk  grows  day by day
-tr: Caitanya the gardener sprinkles it with the water of His mercy, and, nourished by that water, the trunk grows day by day.
+tr: Caitanya the gardener waters this trunk with His mercy, and, nourished by that water, it grows day by day.
 fn: Heading in the edition: “By Gaura’s mercy only those servants of Advaita who take the essence flourish.”
 
 ## 6
 w: on that  trunk  as many  fruits of love  grew
 w: with those  fruits of love for Kṛṣṇa  the world  was filled
-tr: So many fruits of love ripened on that trunk that the whole world was filled with the fruits of love for Kṛṣṇa.
+tr: So many fruits of love for Kṛṣṇa ripened on that trunk that they filled the whole world.
 
 ## 7
 w: that  water  through the trunk  makes  into the branches  passage
@@ -70,7 +70,7 @@ tr: There is no need here to name the empty ones; I count them all together so t
 ## 12
 w: a heap of paddy  one measures  just as  chaff  together with
 w: afterwards  the chaff  blowing away  cleaning  to do
-tr: Just so, one first measures a heap of paddy along with its chaff, and afterwards winnows the chaff away to clean the grain.
+tr: It is like a heap of paddy: one first measures it along with its chaff, and afterwards winnows the chaff away to clean the grain.
 fn: Heading in the edition to 11–12: “Why the non-devotees who fancy themselves servants of Advaita are mentioned, and an example.” *Amṛta-pravāha-bhāṣya*: we have no concern with the names of the *asāra*; yet, to keep the Vaiṣṇavas who take the essence apart from the empty, I name them together, as chaff is winnowed from the grain. Chaff (*pātanā*) is the empty paddy that holds no rice.
 
 ## 13
@@ -87,7 +87,7 @@ tr: When he heard his father say that Keśava Bhāratī was the guru of Caitanya
 ## 15
 w: about the guru of the world  You  give  such  instruction
 w: Your  this  by instruction  ruined  is  the land
-tr: “How can You teach such a thing about the guru of the world? This teaching of Yours will bring ruin on the whole land.
+tr: “How can You teach such a thing about the guru of the world?” he said. “This teaching of Yours will bring ruin on the whole land.
 
 ## 16
 w: of the fourteen  worlds  the guru  —  Caitanya Gosāñi
@@ -109,7 +109,7 @@ fn: *Anubhāṣya* (after the *Advaita-carita*): of Advaita’s six sons, three 
 ## 19
 w: Śrī  Gopāla  by name  another  the Ācārya’s  son
 w: his  story,  hear,  most  wonderful
-tr: Another son of the Ācārya was named Śrī Gopāla. Listen to his story, for it is most wonderful.
+tr: Śrī Gopāla was yet another son of the Ācārya. Listen to his story, for it is most wonderful.
 
 ## 20
 w: in the Guṇḍicā  temple  Mahāprabhu’s  before
@@ -136,7 +136,7 @@ tr: The Ācārya was grieved. Taking His son on His lap, He recited the mantra o
 ## 24
 w: many  mantras  recites  the Ācārya,  not  comes  consciousness
 w: at the Ācārya’s  grief  the Vaiṣṇavas  do  weeping
-tr: The Ācārya recited mantra after mantra, but the boy did not come to, and the Vaiṣṇavas wept to see the Ācārya’s grief.
+tr: He recited mantra after mantra, but the boy did not come to, and the Vaiṣṇavas wept to see the Ācārya’s grief.
 
 ## 25
 w: then  Mahāprabhu  his  on the chest  hand  placing
@@ -157,7 +157,7 @@ fn: *Anubhāṣya*: Balarāma, Svarūpa and Jagadīśa turned away from Gaura; t
 ## 28
 w: ‘Kamalākānta  Viśvāsa’  by name  the Ācārya’s  servant
 w: the Ācārya’s  dealings  all  —  to him  known
-tr: The Ācārya had a servant named Kamalākānta Viśvāsa, to whom all the Ācārya’s affairs were known.
+tr: The Ācārya had a servant named Kamalākānta Viśvāsa, who knew all His affairs.
 fn: The *Anubhāṣya* distinguishes Kamalākānta Viśvāsa, Advaita’s servant, from the brāhmaṇa Kamalākānta of Navadvīpa, whom Paramānanda Purī brought with him to Nīlācala (Madhya 10.94).
 
 ## 29
@@ -183,7 +183,7 @@ tr: “But by fate He has fallen into some debt, and to pay it off I ask for thr
 ## 33
 w: the letter  reading  the Lord’s  in mind  arose  sorrow
 w: outwardly  smiling  something  says  the moon-faced
-tr: Reading the letter, the Lord was pained at heart, but outwardly the moon-faced Lord smiled and said:
+tr: The Lord read the letter and was pained at heart; yet, smiling outwardly, the moon-faced One said:
 
 ## 34
 w: the Ācārya  he has established  making  God
@@ -226,12 +226,12 @@ fn: *Amṛta-pravāha-bhāṣya*: while explaining the *Yoga-vāsiṣṭha*, Adv
 ## 41
 w: punishment  receiving  came  My  supreme  joy
 w: which  punishment  received  fortunate  Śrī Mukunda
-tr: Being punished brought Me the greatest joy. Fortunate Śrī Mukunda received the same punishment,
+tr: Being punished brought Me the greatest joy; fortunate Śrī Mukunda received the same punishment.
 
 ## 42
 w: which  punishment  received  Śrī  Śacī  the fortunate
 w: that  punishment-mercy  other  people  will get  where
-tr: and so did the fortunate Śrī Śacī. Where else could anyone find such mercy in the guise of punishment?”
+tr: So did the fortunate Śrī Śacī. Where else could anyone find such mercy in the guise of punishment?”
 fn: *Anubhāṣya*: for Advaita’s punishment see *Caitanya-bhāgavata*, Madhya 19; for Mukunda’s, Madhya 10; for Mother Śacī’s, Madhya 22.
 
 ## 43
@@ -290,7 +290,7 @@ fn: *Amṛta-pravāha-bhāṣya* to 49–53: though the Ācārya is Īśvara, Hi
 ## 53
 w: this  teaching  for everyone,  all  in mind  took
 w: Ācārya Gosāñi  in mind  joy  felt
-tr: This teaching was meant for everyone, and everyone took it to heart; and Ācārya Gosāñi rejoiced within.
+tr: This teaching was meant for everyone, and everyone took it to heart, while Ācārya Gosāñi rejoiced within.
 
 ## 54
 w: the Ācārya’s  intention  the Lord  alone  understands
@@ -358,13 +358,13 @@ fn: *Anubhāṣya*: Śrī Rāma Paṇḍita is the younger brother of Śrīvāsa
 ## 66
 w: by the gardener  given  water  the Advaita  trunk  supplies
 w: by that  water  live  the branches  —  flowers and fruit  they gain
-tr: The water of mercy that Caitanya the gardener gives sustains the Advaita trunk, and by that water its branches live and bear flowers and fruit.
+tr: The water of mercy the gardener gives sustains the Advaita trunk, and by it the branches live and bear flowers and fruit.
 fn: Heading in the edition: “By the power of Gaura’s mercy the servants of Advaita who take the essence flourish.”
 
 ## 67
 w: of these  among  after the gardener  some  branches
 w: do not  accept  Caitanya  the gardener  misfortune  by reason of
-tr: But when Caitanya the gardener had concluded His manifest pastimes, some of these branches, to their misfortune, refused to accept Him.
+tr: But when Caitanya the gardener had concluded His manifest pastimes, some of these branches, to their misfortune, turned their backs on Him.
 fn: Heading in the edition to 67–69: “Only the unfortunate empty ones, who fancy themselves servants of Advaita, oppose Gaura, and, bereft of His mercy, perish.” *Amṛta-pravāha-bhāṣya* to 67–73: Advaita is a trunk of the wish-fulfilling tree of bhakti; Śrī Caitanya, as the gardener, waters and nourishes that trunk and its branches. But some branches, by misfortune, behind the gardener’s back refused to accept Him and declared the trunk alone to be the cause of the tree. Ungratefully they rejected Mahāprabhu, who created and sustains the Advaita trunk; no more water reached those sinful branches, and, for want of water, they withered, dried up and died.
 
 ## 68
@@ -429,7 +429,7 @@ fn: Gadādhara Paṇḍita himself is a great branch of the main trunk (Ādi 10.
 ## 79
 w: of the branches  the best  Dhruvānanda,  Śrīdhara  Brahmacārī
 w: Bhāgavatācārya,  Haridāsa  Brahmacārī
-tr: The best of these branches is Dhruvānanda; after him come Śrīdhara Brahmacārī, Bhāgavatācārya and Haridāsa Brahmacārī.
+tr: The finest of them is Dhruvānanda; after him come Śrīdhara Brahmacārī, Bhāgavatācārya and Haridāsa Brahmacārī.
 fn: *Anubhāṣya*: Dhruvānanda Brahmacārī is, according to the *Gaura-gaṇoddeśa-dīpikā* (152), Lalitā, one of her manifestations; the *Śākhā-nirṇayāmṛta* says that Śrī Gadādhara in his mercy bestowed his own nature on him. Śrīdhara Brahmacārī is Candralatikā (*GGD* 194, 199). Haridāsa Brahmacārī is counted among the followers both of Advaita (12.62) and of Gadādhara. The edition’s heading names Bhāgavatācārya “Raghunātha Bhāgavatācārya”.
 
 ## 80
@@ -491,7 +491,7 @@ tr: All the Paṇḍita’s followers are blessed devotees, and Śrī Kṛṣṇ
 ## 90
 w: of these  three  trunks  I made  of the branches  the count
 w: by remembering them all  of worldly bondage  release
-tr: Thus I have counted the branches of these three trunks. Whoever remembers them is freed from the bondage of worldly existence.
+tr: I have now counted the branches of these three trunks. Whoever remembers them is freed from the bondage of worldly existence.
 fn: Heading in the edition to 90–91: “The glory of remembering the followers of Nitāi, Advaita and Gadādhara.”
 
 ## 91

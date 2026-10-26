@@ -60,7 +60,7 @@ of Caitanya the gardener  of the water of mercy  by the sprinkling
 sei jale puṣṭa skandha bāḍe dine dine  
 by that  water  nourished  the trunk  grows  day by day
 
-(5) Caitanya the gardener sprinkles it with the water of His mercy, and, nourished by that water, the trunk grows day by day.[^2]
+(5) Caitanya the gardener waters this trunk with His mercy, and, nourished by that water, it grows day by day.[^2]
 
 সেই স্কন্ধে যত প্রেমফল উপজিল ৷  
 সেই কৃষ্ণপ্রেমফলে জগৎ ভরিল ॥ ৬ ॥
@@ -70,7 +70,7 @@ on that  trunk  as many  fruits of love  grew
 sei kṛṣṇa-prema-phale jagat bharila  
 with those  fruits of love for Kṛṣṇa  the world  was filled
 
-(6) So many fruits of love ripened on that trunk that the whole world was filled with the fruits of love for Kṛṣṇa.
+(6) So many fruits of love for Kṛṣṇa ripened on that trunk that they filled the whole world.
 
 সেই জল স্কন্ধে করে শাখাতে সঞ্চার ৷  
 ফলে-ফুলে বাড়ে, — শাখা হইল বিস্তার ॥ ৭ ॥
@@ -130,7 +130,7 @@ a heap of paddy  one measures  just as  chaff  together with
 paścāte pātanā uḍāñā saṁskāra karite  
 afterwards  the chaff  blowing away  cleaning  to do
 
-(12) Just so, one first measures a heap of paddy along with its chaff, and afterwards winnows the chaff away to clean the grain.[^5]
+(12) It is like a heap of paddy: one first measures it along with its chaff, and afterwards winnows the chaff away to clean the grain.[^5]
 
 অচ্যুতানন্দ — বড় শাখা, আচার্য্য-নন্দন ৷  
 আজন্ম সেবিলা তিঁহো চৈতন্যচরণ ॥ ১৩ ॥
@@ -160,7 +160,7 @@ about the guru of the world  You  give  such  instruction
 tomāra ei upadeśe naṣṭa haila deśa  
 Your  this  by instruction  ruined  is  the land
 
-(15) “How can You teach such a thing about the guru of the world? This teaching of Yours will bring ruin on the whole land.
+(15) “How can You teach such a thing about the guru of the world?” he said. “This teaching of Yours will bring ruin on the whole land.
 
 চৌদ্দ ভুবনের গুরু — চৈতন্য-গোসাঞি ৷  
 তাঁর গুরু — অন্য, এই কোন শাস্ত্রে নাই ॥ ১৬ ॥
@@ -200,7 +200,7 @@ Caitanya Gosāñi  dwells  in whose  heart
 tām̐hāra caritra, śuna, atyanta adbhuta  
 his  story,  hear,  most  wonderful
 
-(19) Another son of the Ācārya was named Śrī Gopāla. Listen to his story, for it is most wonderful.
+(19) Śrī Gopāla was yet another son of the Ācārya. Listen to his story, for it is most wonderful.
 
 গুণ্ডিচা-মন্দিরে মহাপ্রভুর সম্মুখে ৷  
 কীর্ত্তনে নর্ত্তন করে বড় প্রেম-সুখে ॥ ২০ ॥
@@ -250,7 +250,7 @@ many  mantras  recites  the Ācārya,  not  comes  consciousness
 ācāryera duḥkhe vaiṣṇava karena krandana  
 at the Ācārya’s  grief  the Vaiṣṇavas  do  weeping
 
-(24) The Ācārya recited mantra after mantra, but the boy did not come to, and the Vaiṣṇavas wept to see the Ācārya’s grief.
+(24) He recited mantra after mantra, but the boy did not come to, and the Vaiṣṇavas wept to see the Ācārya’s grief.
 
 তবে মহাপ্রভু তাঁর হৃদে হস্ত ধরি’ ৷  
 ‘উঠহ, গোপাল’ — বল বল ‘হরি’ ‘হরি’ ॥ ২৫ ॥
@@ -290,7 +290,7 @@ other  son  —  ‘Svarūpa’  a branch,  ‘Jagadīśa’  by name
 ācārya-vyavahāra saba — tām̐hāra gocara  
 the Ācārya’s  dealings  all  —  to him  known
 
-(28) The Ācārya had a servant named Kamalākānta Viśvāsa, to whom all the Ācārya’s affairs were known.[^12]
+(28) The Ācārya had a servant named Kamalākānta Viśvāsa, who knew all His affairs.[^12]
 
 নীলাচলে তিঁহো এক পত্রিকা লিখিয়া ৷  
 প্রতাপরুদ্রের স্থানে দিল পাঠাইয়া ॥ ২৯ ॥
@@ -340,7 +340,7 @@ the letter  reading  the Lord’s  in mind  arose  sorrow
 bāhire hāsiyā kichu bale cām̐da-mukha  
 outwardly  smiling  something  says  the moon-faced
 
-(33) Reading the letter, the Lord was pained at heart, but outwardly the moon-faced Lord smiled and said:
+(33) The Lord read the letter and was pained at heart; yet, smiling outwardly, the moon-faced One said:
 
 আচার্য্যেরে স্থাপিয়াছে করিয়া ঈশ্বর ৷  
 ইথে দোষ নাহি, আচার্য্য — দৈবত ঈশ্বর ॥ ৩৪ ॥
@@ -420,7 +420,7 @@ punishment  receiving  came  My  supreme  joy
 ye daṇḍa pāila bhāgyavān śrī-mukunda  
 which  punishment  received  fortunate  Śrī Mukunda
 
-(41) Being punished brought Me the greatest joy. Fortunate Śrī Mukunda received the same punishment,
+(41) Being punished brought Me the greatest joy; fortunate Śrī Mukunda received the same punishment.
 
 যে দণ্ড পাইল শ্রীশচী ভাগ্যবতী ৷  
 সে দণ্ড-প্রসাদ আর লোক পাবে কতি ॥ ৪২ ॥
@@ -430,7 +430,7 @@ which  punishment  received  Śrī  Śacī  the fortunate
 se daṇḍa-prasāda āra loka pābe kati  
 that  punishment-mercy  other  people  will get  where
 
-(42) and so did the fortunate Śrī Śacī. Where else could anyone find such mercy in the guise of punishment?”[^16]
+(42) So did the fortunate Śrī Śacī. Where else could anyone find such mercy in the guise of punishment?”[^16]
 
 এত কহি’ আচার্য্য তাঁরে করিয়া আশ্বাস ৷  
 আনন্দিত হইয়া আইল মহাপ্রভু-পাশ ॥ ৪৩ ॥
@@ -540,7 +540,7 @@ this  teaching  for everyone,  all  in mind  took
 ācārya-gosāñi mane ānanda pāila  
 Ācārya Gosāñi  in mind  joy  felt
 
-(53) This teaching was meant for everyone, and everyone took it to heart; and Ācārya Gosāñi rejoiced within.
+(53) This teaching was meant for everyone, and everyone took it to heart, while Ācārya Gosāñi rejoiced within.
 
 আচার্য্যের অভিপ্রায় প্রভুমাত্র বুঝে ৷  
 প্রভুর গম্ভীর বাক্য আচার্য্য সমুঝে ॥ ৫৪ ॥
@@ -670,7 +670,7 @@ by the gardener  given  water  the Advaita  trunk  supplies
 sei jale jīye śākhā, — phula-phala pāya  
 by that  water  live  the branches  —  flowers and fruit  they gain
 
-(66) The water of mercy that Caitanya the gardener gives sustains the Advaita trunk, and by that water its branches live and bear flowers and fruit.[^23]
+(66) The water of mercy the gardener gives sustains the Advaita trunk, and by it the branches live and bear flowers and fruit.[^23]
 
 ইহার মধ্যে মালি-পাছে কোন শাখাগণ ৷  
 না মানে চৈতন্য-মালী দুর্দ্দৈব কারণ ॥ ৬৭ ॥
@@ -680,7 +680,7 @@ of these  among  after the gardener  some  branches
 nā māne caitanya-mālī durdaiva kāraṇa  
 do not  accept  Caitanya  the gardener  misfortune  by reason of
 
-(67) But when Caitanya the gardener had concluded His manifest pastimes, some of these branches, to their misfortune, refused to accept Him.[^24]
+(67) But when Caitanya the gardener had concluded His manifest pastimes, some of these branches, to their misfortune, turned their backs on Him.[^24]
 
 সৃজাইল, জীয়াইল, তাঁরে না মানিল ৷  
 কৃতঘ্ন হইলা, তারে স্কন্ধ ক্রুদ্ধ হৈল ॥ ৬৮ ॥
@@ -800,7 +800,7 @@ of the branches  the best  Dhruvānanda,  Śrīdhara  Brahmacārī
 bhāgavatācārya, haridāsa brahmacārī  
 Bhāgavatācārya,  Haridāsa  Brahmacārī
 
-(79) The best of these branches is Dhruvānanda; after him come Śrīdhara Brahmacārī, Bhāgavatācārya and Haridāsa Brahmacārī.[^29]
+(79) The finest of them is Dhruvānanda; after him come Śrīdhara Brahmacārī, Bhāgavatācārya and Haridāsa Brahmacārī.[^29]
 
 অনন্ত আচার্য্য, কবিদত্ত, মিশ্র নয়ন ৷  
 গঙ্গামন্ত্রী, মামু ঠাকুর, কণ্ঠাভরণ ॥ ৮০ ॥
@@ -910,7 +910,7 @@ of these  three  trunks  I made  of the branches  the count
 yām̐-sabā-smaraṇe bhava-bandha-vimocana  
 by remembering them all  of worldly bondage  release
 
-(90) Thus I have counted the branches of these three trunks. Whoever remembers them is freed from the bondage of worldly existence.[^36]
+(90) I have now counted the branches of these three trunks. Whoever remembers them is freed from the bondage of worldly existence.[^36]
 
 যাঁ-সবা-স্মরণে পাই চৈতন্যচরণ ৷  
 যাঁ-সবা-স্মরণে হয় বাঞ্ছিত পূরণ ॥ ৯১ ॥
