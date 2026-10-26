@@ -167,3 +167,147 @@
   order: 690
   themes: [celestial, revelation]
   notes: "НДМ 15.109–125."
+
+# --- «Навадвипа-бхава-таранга» (гл. 19): видения Бхактивиноды (1899) и лилы, известные только по ней ---
+- id: ev-nbt-dhama-darshana
+  title: "«Навадвипа-бхава-таранга»: Бхактивинода молит о видении Навадвипа-дхамы и созерцает её места"
+  title_en: "Navadvipa-bhava-taranga: Bhaktivinoda prays for and beholds the holy places of Navadvipa-dhama"
+  period: PX
+  order: 310
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "год написания «Навадвипа-бхава-таранги» (SOURCES.md)"
+  themes: [pilgrimage, celestial]
+  notes: "НБТ — поэма-обход девяти островов в видениях автора; общее событие для описательных частей и молитв; отдельные видения и лилы — свои события."
+
+- id: ev-nbt-nrisimha-blessing
+  title: "Бхактивинода молит Нрисимху в Нрисимха-палли об очищении сердца"
+  title_en: "Bhaktivinoda prays to Nrisimha at Nrisimha Palli for a purified heart"
+  period: PX
+  order: 310.035
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [celestial, deities]
+  notes: "НБТ 35–40: Нрисимха велит жить в Гаура-дхаме, поклоняться Радхе и Кришне и взращивать любовь к святому имени."
+
+- id: ev-gaura-cowherds-godruma
+  title: "Гаура и Нитай пасут коров с пастушками в Годруме"
+  title_en: "Gaura and Nitai herd cows with the cowherd boys in Godruma"
+  period: PX
+  order: 310.044
+  themes: [krishna-lila, pranks]
+  bhava: [sakha]
+  notes: "НБТ 44–50: Годрума — Нандишвара; пастушки угощают Нимая молочным и зовут Его Гопалом; в настоящем времени — вечная лила, созерцаемая автором; в других источниках не описана, поэтому вне шкалы."
+
+- id: ev-gaura-madhyadvipa-midday-kirtan
+  title: "Полуденные странствия Гауры по лесам Мадхьядвипы и киртан у Брахма-кунды"
+  title_en: "Gaura's midday wanderings in the forests of Madhyadvipa and the kirtan at Brahma Kunda"
+  period: P07
+  order: 134.95
+  date_conf: оценка
+  date_basis: "навадвипские лилы Господа до санньясы; по НБТ точнее не датируется"
+  themes: [kirtan, ecstasy]
+  bhava: [radha]
+  notes: "НБТ 57–61: при упоминании игр Кришны Гауранга поёт и танцует в бхаве Радхи; в Брахманагаре на берегу Брахма-кунды взывает: «Все пойте святое имя!»"
+
+- id: ev-gaura-panchaveni-bath
+  title: "Гауранга со спутниками омывается в Панчавени"
+  title_en: "Gauranga and His associates bathe at Panchaveni"
+  period: P07
+  order: 134.96
+  date_conf: оценка
+  date_basis: "навадвипские лилы Господа до санньясы; по НБТ точнее не датируется"
+  themes: [pilgrimage]
+  notes: "НБТ 62–64: омовением Господь очистил тиртху от скверны грешников Кали."
+
+- id: ev-gaura-sankirtana-vaninatha-house
+  title: "Праздник нама-санкиртаны Господа в доме Ванинатхи в Чампахати"
+  title_en: "The Lord's nama-sankirtana festival at Vaninatha's house in Champahatti"
+  period: P07
+  order: 134.97
+  date_conf: оценка
+  date_basis: "навадвипские лилы Господа до санньясы; по НБТ точнее не датируется"
+  themes: [kirtan, ecstasy]
+  notes: "НБТ 77."
+
+- id: ev-nbt-krishna-balarama-calves
+  title: "Видение у Манаса-ганги: Кришна и Баларама с пастушками ищут телят"
+  title_en: "Vision at Manasa Ganga: Krishna and Balarama with the cowherd boys search for the calves"
+  period: PX
+  order: 310.082
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [krishna-lila, celestial]
+  notes: "НБТ 82–84: близ Радха-кунды Ритудвипы; при звуке флейты Кришны телята бегут к пастушкам; видение исчезает, автор без чувств."
+
+- id: ev-nbt-bhishma-instruction
+  title: "Бхишма является Бхактивиноде на Бхишма-тиле и наставляет его"
+  title_en: "Bhishma appears to Bhaktivinoda at Bhishma Tila and instructs him"
+  period: PX
+  order: 310.096
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [celestial, teaching]
+  teaching: [vaishnava, holy-name, maya]
+  notes: "НБТ 96–109: Бхишма рассказывает, как на Курукшетре Кришна открыл ему, что за даршан Навадвипы он стал её вечным жителем; учит жить в Навадвипе, служить преданным, повторять имя и поклоняться Радхе-Кришне."
+
+- id: ev-nbt-rama-lakshmana-fruit
+  title: "Видение Рамы в Модадруме: Лакшмана угощает Бхактивиноду плодом"
+  title_en: "Vision of Rama in Modadruma: Lakshmana offers Bhaktivinoda a fruit"
+  period: PX
+  order: 310.109
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [celestial, revelation]
+  bhava: [rama]
+  notes: "НБТ 109–116: хижина Рамы в лесу, неотличном от Бхандираваны; ср. ev-rama-modadrumadvipa."
+
+- id: ev-nbt-surya-arka-tila
+  title: "Сурья на Арка-тиле благословляет Бхактивиноду"
+  title_en: "Surya blesses Bhaktivinoda at Arka Tila"
+  period: PX
+  order: 310.12
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [celestial]
+  notes: "НБТ 120–123: полубоги, правящие миром, служат стопам Гауранги."
+
+- id: ev-nbt-draupadi-prasada
+  title: "Драупади угощает Бхактивиноду прасадом Гауранги в Махатпуре"
+  title_en: "Draupadi feeds Bhaktivinoda Gauranga's prasada in Mahatpur"
+  period: PX
+  order: 310.128
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [prasada, celestial]
+  teaching: [prasada-teaching]
+  notes: "НБТ 128–131."
+
+- id: ev-nbt-sayujya-shiva
+  title: "Богиня Сайюджья в Рудрадвипе и наставление Шивы Бхактивиноде"
+  title_en: "The goddess Sayujya in Rudradvipa and Shiva's instruction to Bhaktivinoda"
+  period: PX
+  order: 310.135
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [celestial, teaching]
+  teaching: [bhakti-supremacy]
+  notes: "НБТ 135–146: олицетворённое слияние (сайюджья-мукти) покинуто всеми — место «Нирдая» (Нидая); Шива, танцуя с именем Гауры, учит: бхакти — главное, гьяна, карма, мукти и йога бесполезны."
+
+- id: ev-nbt-kamala-manjari
+  title: "На Шри Пулине Бхактивинода видит себя Камала-манджари в служении Радхе и Говинде"
+  title_en: "At Sri Pulina Bhaktivinoda sees himself as Kamala Manjari in the service of Radha and Govinda"
+  period: PX
+  order: 310.146
+  years: [1899, 1899]
+  date_conf: вероятно
+  date_basis: "НБТ (1899)"
+  themes: [krishna-lila, celestial]
+  notes: "НБТ 146–164: в самадхи — Ананга-манджари, Рупа-манджари, Лалита; служение камфарой Радхе и Говинде; раса-мандала; сон прерывается, автор возвращается в Ишодьяну."
