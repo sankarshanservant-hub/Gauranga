@@ -19,7 +19,7 @@ tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra
 ## 3
 w: in five  verses  I have told  of Śrī Nityānanda  the truth
 w: in two verses  I tell  of Advaita Ācārya  the greatness
-tr: In five verses I have told the truth of Śrī Nityānanda; now in two verses I speak of the greatness of Advaita Ācārya.
+tr: In five verses I have set out the truth of Śrī Nityānanda; now in two I speak of the greatness of Advaita Ācārya.
 
 ## 4
 w: Mahā-Viṣṇu  of the world  the maker
@@ -45,7 +45,7 @@ tr: Advaita Ācārya Gosāñi is the Lord Himself; His greatness lies beyond the
 ## 7
 w: Mahā-Viṣṇu  creation  performs  of the world  and other  works
 w: His  avatāra  direct  Advaita  Ācārya
-tr: Mahā-Viṣṇu performs the creation of the world and its other works, and Advaita Ācārya is His direct avatāra.
+tr: Mahā-Viṣṇu carries out the creation of the world and all that goes with it, and Advaita Ācārya is His direct avatāra.
 
 ## 8
 w: which  Puruṣa  creation and maintenance  performs  through māyā
@@ -55,12 +55,12 @@ tr: That Puruṣa creates and maintains the world through māyā, and in play He
 ## 9
 w: by His will  endless  forms  He makes  manifest
 w: in one  one  form (each)  He makes  into a universe  entrance
-tr: By His will He manifests endless forms, and in one form each He enters every universe.
+tr: By His will He manifests endless forms, and in one of them He enters each universe.
 
 ## 10
 w: of that  Puruṣa  a part  Advaita  there is not  any  difference
 w: a particular body  His  there is no  separation
-tr: Advaita is a part (*aṁśa*) of that Puruṣa, and there is no difference between Them at all: He is only another body of the Puruṣa, and the two are never apart.
+tr: Advaita is a part (*aṁśa*) of that Puruṣa, and there is no difference between Them at all: He is a particular body of the Puruṣa, and the two are never apart.
 fn: *Amṛta-pravāha-bhāṣya*: one and the same māyā is called *pradhāna* as the material cause and *māyā* as the efficient cause. According to these two functions Mahā-Viṣṇu abides in two forms: in one, abiding in prakṛti, He is the efficient cause of the world — the form of Viṣṇu; in the other, abiding in pradhāna, He is Advaita in the form of Rudra. Therefore Advaita is in no way different from the Puruṣa; only Their bodies differ.
 
 ## 11
@@ -109,12 +109,12 @@ fn: *Anubhāṣya* (on 6.15) examines the Sāṅkhya doctrine at length and, fol
 ## 19
 w: His own  creative power  the Lord  infuses  into pradhāna
 w: of the Lord  by the power  then  takes place  indeed  the fashioning
-tr: The Lord infuses His own creative power into pradhāna, and then, by the Lord’s power, the world is fashioned.
+tr: The Lord infuses His own creative power into pradhāna, and by that power the world is fashioned.
 
 ## 20
 w: Advaita  Ācārya  of millions of universes  the creator
 w: and  in one  one  form (each)  of the universe  the sustainer
-tr: Advaita Ācārya is the creator of millions of universes, and, dwelling in each in one of His forms, He is its sustainer.
+tr: Advaita Ācārya creates millions of universes, and in each of them He dwells in one of His forms as its sustainer.
 fn: The edition’s heading: “The two forms of Advaita Prabhu.” The form in which the Puruṣa enters each universe (6.9) is Garbhodakaśāyī Viṣṇu.
 
 ## 21
@@ -188,7 +188,7 @@ tr: Advaita Ācārya is the foremost part of the Lord; His truth, His name and H
 ## 33
 w: by whose  tulasī  leaves  by whose  roar
 w: His associates  together with  Caitanya’s  descent
-tr: By His offering of tulasī leaves and by His roar, Caitanya descended together with His associates.
+tr: It was His offering of tulasī leaves and His roar that brought Caitanya into the world together with His associates.
 fn: As in the Gauḍīya Maṭha edition: «তুলসীদলে» (“with tulasī leaves”; another reading: «তুলসীজলে», “with tulasī and water”). The edition’s heading: “Advaita Prabhu calls Mahāprabhu down.” On 6.33–6.34 the *Anubhāṣya* refers to Ādi 3.91 and 3.95–3.108, where Advaita worships Kṛṣṇa with tulasī leaves and Ganges water.
 
 ## 34
@@ -253,7 +253,7 @@ tr: “I and Nityānanda are servants of Caitanya. Nowhere is there bliss equal 
 ## 45
 w: supreme  beloved  Lakṣmī  on His heart  dwells
 w: she  of service  the happiness  begs  making  entreaty
-tr: Lakṣmī, His dearest beloved, dwells upon His heart, yet she too begs with humble entreaty for the happiness of service.
+tr: Lakṣmī, His dearest beloved, dwells upon His heart, yet she too humbly begs for the happiness of service.
 
 ## 46
 w: in the mood of service  rejoice  the associates
@@ -293,7 +293,7 @@ fn: *Amṛta-pravāha-bhāṣya*: “elders” are those related to Kṛṣṇa 
 ## 53
 w: of this  the proof  hear  of the scriptures  the explanation
 w: of great souls  the experience  in which  firm  proof
-tr: Hear the proof of this from the scriptures, in which the experience of great souls is firm evidence.
+tr: Hear the proof of this in the explanations of scripture, firmly confirmed by the experience of great souls.
 
 ## 54–55
 w: of others  what  to speak  in Vraja  Nanda  Mahāśaya
@@ -334,7 +334,7 @@ tr: “Wherever we may wander, driven by our karma and the Lord’s will, by our
 ## 61
 w: Śrīdāmā and others  in Vraja  all  of friends  the host
 w: of majesty  the knowledge  without  purely  of friendship  made
-tr: All the host of Kṛṣṇa’s friends in Vraja, led by Śrīdāmā, know nothing of His majesty; they are made of pure friendship.
+tr: All the host of Kṛṣṇa’s friends in Vraja, led by Śrīdāmā, know nothing of His majesty: their love is pure friendship.
 fn: *Amṛta-pravāha-bhāṣya*: friendship is of two kinds — with knowledge of Kṛṣṇa’s majesty, and “pure” (*kevala*), unmixed; Śrīdāmā and the other friends of Vraja have pure friendship: they do not know His majesty.
 
 ## 62
@@ -356,7 +356,7 @@ w: Kṛṣṇa’s  beloved  in Vraja  all  the gopīs
 w: whose  feet’s dust  does  Uddhava  pray for
 w: than all of them  more  to Kṛṣṇa  dear  is not  another
 w: they  themselves  hold  as maidservants  in self-conception
-tr: Kṛṣṇa’s beloved gopīs of Vraja, the dust of whose feet Uddhava prays for, and than whom none is dearer to Kṛṣṇa — even they think of themselves as His maidservants.
+tr: Even the beloved gopīs of Vraja, dearer to Kṛṣṇa than anyone else, whose foot-dust Uddhava prays for, think of themselves as His maidservants.
 
 ## 66
 w: of Vraja’s  people  the distress  O destroyer  O hero  of women
@@ -371,7 +371,7 @@ w: (is it)  alas  in Madhupurī  the noble one’s son  now  dwells
 w: remembers (does)  He  His father’s house  O gentle one  kinsmen  and  cowherds
 w: ever  (does)  He  talk  of us  maidservants  speak
 w: His arm  aguru-fragrant  on the head  will He place  when  indeed
-tr: “O gentle one! Alas, the son of the noble one now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (Śrīmad-Bhāgavatam, 10.47.21)
+tr: “O gentle one! Alas, Nanda’s son now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (Śrīmad-Bhāgavatam, 10.47.21)
 fn: As in the Gauḍīya Maṭha edition: «কিঙ্করীণাং» (another reading: «কিঙ্করিণাং»). *Anubhāṣya*: this is the *citra-jalpa* of Śrīmatī Rādhikā, addressed to the bee when Uddhava came to Vraja; *ārya-putra* is the son of Nanda; “kinsmen” — Parjanya, Upananda and others, “cowherds” — Subala, Arjuna, Śrīdāmā and others; “maidservants” — Lalitā, Viśākhā and Rādhā’s other friends. The *Amṛta-pravāha-bhāṣya* takes “gentle one” as Uddhava.
 
 ## 68–69
@@ -479,7 +479,7 @@ tr: Saying this, He danced and sang with deep roars, and a moment later the Āc�
 ## 86
 w: the devotee’s  self-conception  the root  in Śrī Balarāma
 w: that  mood  follow  His  parts
-tr: The root of the devotee’s self-conception is in Śrī Balarāma, and all His parts follow Him in that mood.
+tr: The conception of oneself as a devotee has its root in Śrī Balarāma, and all His parts follow Him in that mood.
 fn: The edition’s heading: “Baladeva and all His partial avatāras think of themselves as Kṛṣṇa’s servants.”
 
 ## 87

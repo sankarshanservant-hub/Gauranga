@@ -36,7 +36,7 @@ in five  verses  I have told  of Śrī Nityānanda  the truth
 śloka-dvaye kahi advaitācāryera mahattva  
 in two verses  I tell  of Advaita Ācārya  the greatness
 
-(3) In five verses I have told the truth of Śrī Nityānanda; now in two verses I speak of the greatness of Advaita Ācārya.
+(3) In five verses I have set out the truth of Śrī Nityānanda; now in two I speak of the greatness of Advaita Ācārya.
 
 মহাবিষ্ণুর্জগৎকর্ত্তা মায়য়া যঃ সৃজত্যদঃ ৷  
 তস্যাবতার এবায়মদ্বৈতাচার্য্য ঈশ্বরঃ ॥ ৪ ॥
@@ -84,7 +84,7 @@ Mahā-Viṣṇu  creation  performs  of the world  and other  works
 tām̐ra avatāra sākṣāt advaita ācārya  
 His  avatāra  direct  Advaita  Ācārya
 
-(7) Mahā-Viṣṇu performs the creation of the world and its other works, and Advaita Ācārya is His direct avatāra.
+(7) Mahā-Viṣṇu carries out the creation of the world and all that goes with it, and Advaita Ācārya is His direct avatāra.
 
 যে পুরুষ সৃষ্টি-স্থিতি করেন মায়ায় ৷  
 অনন্ত ব্রহ্মাণ্ড সৃষ্টি করেন লীলায় ॥ ৮ ॥
@@ -104,7 +104,7 @@ by His will  endless  forms  He makes  manifest
 eka eka mūrtye karena brahmāṇḍe praveśa  
 in one  one  form (each)  He makes  into a universe  entrance
 
-(9) By His will He manifests endless forms, and in one form each He enters every universe.
+(9) By His will He manifests endless forms, and in one of them He enters each universe.
 
 সে পুরুষের অংশ — অদ্বৈত, নাহি কিছু ভেদ ৷  
 শরীর-বিশেষ তাঁর — নাহিক বিচ্ছেদ ॥ ১০ ॥
@@ -114,7 +114,7 @@ of that  Puruṣa  a part  Advaita  there is not  any  difference
 śarīra-viśeṣa tām̐ra — nāhika viccheda  
 a particular body  His  there is no  separation
 
-(10) Advaita is a part (*aṁśa*) of that Puruṣa, and there is no difference between Them at all: He is only another body of the Puruṣa, and the two are never apart.[^3]
+(10) Advaita is a part (*aṁśa*) of that Puruṣa, and there is no difference between Them at all: He is a particular body of the Puruṣa, and the two are never apart.[^3]
 
 সহায় করেন তাঁর লইয়া ‘প্রধান’ ৷  
 কোটি ব্রহ্মাণ্ড করেন ইচ্ছায় নির্ম্মাণ ॥ ১১ ॥
@@ -204,7 +204,7 @@ His own  creative power  the Lord  infuses  into pradhāna
 īśvarera śaktye tabe haye ta’ nirmāṇe  
 of the Lord  by the power  then  takes place  indeed  the fashioning
 
-(19) The Lord infuses His own creative power into pradhāna, and then, by the Lord’s power, the world is fashioned.
+(19) The Lord infuses His own creative power into pradhāna, and by that power the world is fashioned.
 
 অদ্বৈত-আচার্য্য — কোটিব্রহ্মাণ্ডের কর্ত্তা ৷  
 আর এক এক মূর্ত্ত্যে ব্রহ্মাণ্ডের ভর্ত্তা ॥ ২০ ॥
@@ -214,7 +214,7 @@ Advaita  Ācārya  of millions of universes  the creator
 āra eka eka mūrtye brahmāṇḍera bhartā  
 and  in one  one  form (each)  of the universe  the sustainer
 
-(20) Advaita Ācārya is the creator of millions of universes, and, dwelling in each in one of His forms, He is its sustainer.[^7]
+(20) Advaita Ācārya creates millions of universes, and in each of them He dwells in one of His forms as its sustainer.[^7]
 
 সেই নারায়ণের মুখ্য অঙ্গ, — অদ্বৈত ৷  
 ‘অঙ্গ’ শব্দে অংশ করি’ কহে ভাগবত ॥ ২১ ॥
@@ -350,7 +350,7 @@ by whose  tulasī  leaves  by whose  roar
 sva-gaṇa sahite caitanyera avatāre  
 His associates  together with  Caitanya’s  descent
 
-(33) By His offering of tulasī leaves and by His roar, Caitanya descended together with His associates.[^14]
+(33) It was His offering of tulasī leaves and His roar that brought Caitanya into the world together with His associates.[^14]
 
 যাঁর দ্বারা কৈল প্রভু কীর্ত্তন প্রচার ৷  
 যাঁর দ্বারা কৈল প্রভু জগৎ নিস্তার ॥ ৩৪ ॥
@@ -470,7 +470,7 @@ supreme  beloved  Lakṣmī  on His heart  dwells
 tem̐ho dāsya-sukha māge kariyā minati  
 she  of service  the happiness  begs  making  entreaty
 
-(45) Lakṣmī, His dearest beloved, dwells upon His heart, yet she too begs with humble entreaty for the happiness of service.
+(45) Lakṣmī, His dearest beloved, dwells upon His heart, yet she too humbly begs for the happiness of service.
 
 দাস্য-ভাবে আনন্দিত পারিষদগণ ৷  
 বিধি-ভব-নারদাদি-শুক-সনাতন ॥ ৪৬ ॥
@@ -547,7 +547,7 @@ of this  the proof  hear  of the scriptures  the explanation
 mahad-anubhava yāte sudṛḍha pramāṇa  
 of great souls  the experience  in which  firm  proof
 
-(53) Hear the proof of this from the scriptures, in which the experience of great souls is firm evidence.
+(53) Hear the proof of this in the explanations of scripture, firmly confirmed by the experience of great souls.
 
 অন্যের কা কথা, ব্রজে নন্দ মহাশয় ৷  
 তাঁর সম ‘গুরু’ কৃষ্ণের আর কেহ নয় ॥ ৫৪ ॥
@@ -629,7 +629,7 @@ love  our  for Kṛṣṇa  the Lord
 aiśvarya-jñāna-hīna, kevala-sakhya-maya  
 of majesty  the knowledge  without  purely  of friendship  made
 
-(61) All the host of Kṛṣṇa’s friends in Vraja, led by Śrīdāmā, know nothing of His majesty; they are made of pure friendship.[^25]
+(61) All the host of Kṛṣṇa’s friends in Vraja, led by Śrīdāmā, know nothing of His majesty: their love is pure friendship.[^25]
 
 কৃষ্ণসঙ্গে যুদ্ধ করে, স্কন্ধে আরোহণ ৷  
 তাঁরা দাস্যভাবে করে চরণ-সেবন ॥ ৬২ ॥
@@ -670,7 +670,7 @@ than all of them  more  to Kṛṣṇa  dear  is not  another
 tām̐hārā āpanāke kare dāsī-abhimāna  
 they  themselves  hold  as maidservants  in self-conception
 
-(64–65) Kṛṣṇa’s beloved gopīs of Vraja, the dust of whose feet Uddhava prays for, and than whom none is dearer to Kṛṣṇa — even they think of themselves as His maidservants.
+(64–65) Even the beloved gopīs of Vraja, dearer to Kṛṣṇa than anyone else, whose foot-dust Uddhava prays for, think of themselves as His maidservants.
 
 ব্রজজনার্ত্তিহন্ বীর যোষিতাং  
 নিজ-জনস্ময়ধ্বংসনস্মিত ৷  
@@ -702,7 +702,7 @@ ever  (does)  He  talk  of us  maidservants  speak
 bhujam aguru-sugandhaṁ mūrdhny adhāsyat kadā nu  
 His arm  aguru-fragrant  on the head  will He place  when  indeed
 
-(67) “O gentle one! Alas, the son of the noble one now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (Śrīmad-Bhāgavatam, 10.47.21)[^29]
+(67) “O gentle one! Alas, Nanda’s son now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (Śrīmad-Bhāgavatam, 10.47.21)[^29]
 
 তাঁ-সবার কথা রহু, — শ্রীমতী রাধিকা ৷  
 সবা হৈতে সকলাংশে পরম-অধিকা ॥ ৬৮ ॥
@@ -901,7 +901,7 @@ the devotee’s  self-conception  the root  in Śrī Balarāma
 sei bhāve anugata tām̐ra aṁśa-gaṇe  
 that  mood  follow  His  parts
 
-(86) The root of the devotee’s self-conception is in Śrī Balarāma, and all His parts follow Him in that mood.[^39]
+(86) The conception of oneself as a devotee has its root in Śrī Balarāma, and all His parts follow Him in that mood.[^39]
 
 তাঁর অবতার এক শ্রীসঙ্কর্ষণ ৷  
 ভক্ত বলি’ অভিমান করে সর্ব্বক্ষণ ॥ ৮৭ ॥
