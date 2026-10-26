@@ -1913,6 +1913,306 @@ that  night  the Lord  to me  gave  sight
 
 (180) Because I had rebuked my brother — and He counted this as a virtue — that night the Lord appeared to me.
 
+নৈহাটি-নিকটে ‘ঝামটপুর’ নামে গ্রাম ৷  
+তাঁহা স্বপ্নে দেখা দিলা নিত্যানন্দ-রাম ॥ ১৮১ ॥
+
+naihāṭi-nikaṭe ‘jhāmaṭapura’ nāme grāma  
+Naihāṭi  near  Jhāmaṭapura  named  a village  
+tām̐hā svapne dekhā dilā nityānanda-rāma  
+there  in a dream  showed Himself  Nityānanda-Rāma
+
+(181) In a village called Jhāmaṭapura, near Naihāṭi, Nityānanda-Rāma appeared to me in a dream.[^44]
+
+দণ্ডবৎ হৈয়া আমি পড়িনু পায়েতে ৷  
+নিজপাদপদ্ম প্রভু দিলা মোর মাথে ॥ ১৮২ ॥
+
+daṇḍavat haiyā āmi paḍinu pāyete  
+like a rod  becoming  I  fell  at the feet  
+nija-pāda-padma prabhu dilā mora māthe  
+His own  lotus foot  the Lord  placed  my  on the head
+
+(182) I fell flat like a rod at His feet, and the Lord placed His lotus foot upon my head.
+
+‘উঠ’, ‘উঠ’ বলি’ মোরে বলে বার বার ৷  
+উঠি’ তাঁর রূপ দেখি’ হৈনু চমৎকার ॥ ১৮৩ ॥
+
+‘uṭha’, ‘uṭha’ bali’ more bale bāra bāra  
+rise  rise  saying  to me  He says  again  again  
+uṭhi’ tām̐ra rūpa dekhi’ hainu camatkāra  
+rising  His  form  seeing  I became  astonished
+
+(183) Again and again He said to me, “Rise, rise!” I rose, and seeing His form I was struck with wonder.
+
+শ্যাম-চিক্কণ কান্তি, প্রকাণ্ড শরীর ৷  
+সাক্ষাৎ কন্দর্প, যৈছে মহামল্ল-বীর ॥ ১৮৪ ॥
+
+śyāma-cikkaṇa kānti, prakāṇḍa śarīra  
+dark  glossy  lustre  huge  body  
+sākṣāt kandarpa, yaiche mahā-malla-vīra  
+very  Kandarpa  like  a great wrestler  hero
+
+(184) His huge body had a glossy dark lustre. He was as beautiful as Kandarpa, the god of love, in person, and stood like a mighty wrestler-hero.
+
+সুবলিত হস্ত, পদ, কমল-লোচন ৷  
+পট্টবস্ত্র শিরে, পট্টবস্ত্র পরিধান ॥ ১৮৫ ॥
+
+suvalita hasta, pada, kamala-locana  
+shapely  hands  feet  lotus  eyes  
+paṭṭa-vastra śire, paṭṭa-vastra paridhāna  
+silk  cloth  on the head  silk  cloth  garment
+
+(185) His hands and feet were finely shaped, His eyes like lotuses; He wore silk on His head and silk as His garment.
+
+সুবর্ণ-কুণ্ডল কর্ণে, স্বর্ণাঙ্গদ-বালা ৷  
+পায়েতে নূপুর বাজে, কণ্ঠে পুষ্পমালা ॥ ১৮৬ ॥
+
+suvarṇa-kuṇḍala karṇe, svarṇāṅgada-vālā  
+golden  earrings  in the ears  golden armlets  bracelets  
+pāyete nūpura bāje, kaṇṭhe puṣpa-mālā  
+on the feet  ankle-bells  ring  on the neck  a flower garland
+
+(186) Golden earrings hung in His ears, golden armlets and bracelets adorned His arms; ankle-bells rang on His feet, and a garland of flowers lay on His neck.
+
+চন্দন লেপিত অঙ্গ, তিলক সুঠাম ৷  
+মত্ত-গজ জিনি’ মদ-মন্থর পয়ান ॥ ১৮৭ ॥
+
+candana lepita aṅga, tilaka suṭhāma  
+with sandal  anointed  the body  tilaka  graceful  
+matta-gaja jini’ mada-manthara payāna  
+a mad  elephant  surpassing  with intoxication  slow  gait
+
+(187) His body was anointed with sandal and graced with a lovely tilaka; His slow, intoxicated gait surpassed that of a maddened elephant.
+
+কোটিচন্দ্র-জিনি’ মুখ উজ্জ্বল-বরণ ৷  
+দাড়িম্ব-বীজ-সম দন্তে তাম্বূল-চর্ব্বণ ॥ ১৮৮ ॥
+
+koṭi-candra-jini’ mukha ujjvala-varaṇa  
+millions of moons  surpassing  face  bright  in colour  
+dāḍimba-bīja-sama dante tāmbūla-carvaṇa  
+of pomegranate  seeds  like  in the teeth  betel  chewing
+
+(188) His bright face outshone millions of moons; chewing betel, His teeth were like pomegranate seeds.[^45]
+
+প্রেমে মত্ত অঙ্গ ডাহিনে বামে দোলে ৷  
+‘কৃষ্ণ’ ‘কৃষ্ণ’ বলিয়া গম্ভীর বোল বলে ॥ ১৮৯ ॥
+
+preme matta aṅga ḍāhine vāme dole  
+with love  intoxicated  body  to the right  to the left  sways  
+‘kṛṣṇa’ ‘kṛṣṇa’ baliyā gambhīra bola bale  
+Kṛṣṇa  Kṛṣṇa  saying  deep  words  speaks
+
+(189) Intoxicated with love, His body swayed to right and left, and in a deep voice He called, “Kṛṣṇa! Kṛṣṇa!”
+
+রাঙ্গা-যষ্টি-হস্তে দোলে যেন মত্ত সিংহ ৷  
+চারি পাশে বেড়ি আছে চরণেতে ভৃঙ্গ ॥ ১৯০ ॥
+
+rāṅgā-yaṣṭi-haste dole yena matta siṁha  
+red  staff  in the hand  sways  like  a mad  lion  
+cāri pāśe veḍi āche caraṇete bhṛṅga  
+four  sides  surrounding  are  at the feet  bees
+
+(190) With a red staff in His hand He swayed like a maddened lion, and bees hovered all around His feet.
+
+পারিষদগণে দেখি’ সব গোপ-বেশে ৷  
+‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে সবে সপ্রেম আবেশে ॥ ১৯১ ॥
+
+pāriṣada-gaṇe dekhi’ saba gopa-veśe  
+the associates  I see  all  in cowherd  dress  
+‘kṛṣṇa’ ‘kṛṣṇa’ kahe sabe saprema āveśe  
+Kṛṣṇa  Kṛṣṇa  say  all  with love  in rapture
+
+(191) I saw His associates, all dressed as cowherds, all calling “Kṛṣṇa! Kṛṣṇa!” in loving rapture.
+
+শিঙ্গা বাঁশী বাজায় কেহ, কেহ নাচে গায় ৷  
+সেবক যোগায় তাম্বূল, চামর ঢুলায় ॥ ১৯২ ॥
+
+śiṅgā vām̐śī bājāya keha, keha nāce gāya  
+horns  flutes  plays  someone  someone  dances  sings  
+sevaka yogāya tāmbūla, cāmara ḍhulāya  
+a servant  offers  betel  a cāmara  waves
+
+(192) Some played horns and flutes, some danced and sang; one servant offered betel, another waved a cāmara.
+
+নিত্যানন্দ-স্বরূপের দেখিয়া বৈভব ৷  
+কিবা রূপ, গুণ, লীলা — অলৌকিক সব ॥ ১৯৩ ॥
+
+nityānanda-svarūpera dekhiyā vaibhava  
+of Nityānanda-svarūpa  seeing  the splendour  
+kibā rūpa, guṇa, līlā — alaukika saba  
+what  form  qualities  pastimes  unearthly  all
+
+(193) I beheld the splendour of Nityānanda Svarūpa — what form, what qualities, what pastimes, all beyond this world!
+
+আনন্দে বিহ্বল আমি, কিছু নাহি জানি ৷  
+তবে হাসি’ প্রভু মোরে কহিলেন বাণী ॥ ১৯৪ ॥
+
+ānande vihvala āmi, kichu nāhi jāni  
+with bliss  overwhelmed  I  anything  not  know  
+tabe hāsi’ prabhu more kahilena vāṇī  
+then  smiling  the Lord  to me  spoke  words
+
+(194) Overwhelmed with bliss, I knew nothing at all. Then, smiling, the Lord spoke to me:
+
+আরে আরে কৃষ্ণদাস, না করহ ভয় ৷  
+বৃন্দাবনে যাহ, — তাঁহা সর্ব্ব লভ্য হয় ॥ ১৯৫ ॥
+
+āre āre kṛṣṇadāsa, nā karaha bhaya  
+O  O  Kṛṣṇadāsa  not  make  fear  
+vṛndāvane yāha, — tām̐hā sarva labhya haya  
+to Vṛndāvana  go  there  all  attainable  is
+
+(195) “O Kṛṣṇadāsa, Kṛṣṇadāsa, do not be afraid! Go to Vṛndāvana: there everything can be attained.”
+
+এত বলি’ প্রেরিলা মোরে হাতসান দিয়া ৷  
+অন্তর্দ্ধান কৈল প্রভু নিজগণ লঞা ॥ ১৯৬ ॥
+
+eta bali’ prerilā more hātasāna diyā  
+so  saying  He sent  me  a touch of the hand  giving  
+antardhāna kaila prabhu nija-gaṇa lañā  
+disappearance  made  the Lord  His own  associates  taking
+
+(196) Saying this, He touched me with His hand and sent me forth; and the Lord disappeared with His associates.[^46]
+
+মূর্চ্ছিত হইয়া মুঞি পড়িনু ভূমিতে ৷  
+স্বপ্নভঙ্গ হৈল, দেখি, হঞাছে প্রভাতে ॥ ১৯৭ ॥
+
+mūrcchita haiyā muñi paḍinu bhūmite  
+unconscious  becoming  I  fell  on the ground  
+svapna-bhaṅga haila, dekhi, hañāche prabhāte  
+of the dream  breaking  came  I see  it has become  morning
+
+(197) I fell senseless to the ground; my dream broke, and I saw that morning had come.
+
+কি দেখিনু কি শুনিনু, করিয়ে বিচার ৷  
+প্রভু-আজ্ঞা হৈল বৃন্দাবন যাইবার ॥ ১৯৮ ॥
+
+ki dekhinu ki śuninu, kariye vicāra  
+what  I saw  what  I heard  I make  reflection  
+prabhu-ājñā haila vṛndāvana yāibāra  
+the Lord’s  order  was  to Vṛndāvana  to go
+
+(198) I reflected on what I had seen and heard: the Lord had ordered me to go to Vṛndāvana.
+
+সেইক্ষণে বৃন্দাবনে করিনু গমন ৷  
+প্রভুর কৃপাতে সুখে আইনু বৃন্দাবন ॥ ১৯৯ ॥
+
+sei kṣaṇe vṛndāvane karinu gamana  
+at that  moment  to Vṛndāvana  I made  departure  
+prabhura kṛpāte sukhe āinu vṛndāvana  
+the Lord’s  by mercy  happily  I came  to Vṛndāvana
+
+(199) At that very moment I set out for Vṛndāvana, and by the Lord’s mercy I reached Vṛndāvana in happiness.
+
+জয় জয় নিত্যানন্দ, নিত্যানন্দ-রাম ৷  
+যাঁহার কৃপাতে পাইনু বৃন্দাবন-ধাম ॥ ২০০ ॥
+
+jaya jaya nityānanda, nityānanda-rāma  
+glory  glory  Nityānanda  Nityānanda-Rāma  
+yām̐hāra kṛpāte pāinu vṛndāvana-dhāma  
+whose  by mercy  I attained  the abode of Vṛndāvana
+
+(200) Glory, glory to Nityānanda, to Nityānanda-Rāma, by whose mercy I attained the abode of Vṛndāvana!
+
+জয় জয় নিত্যানন্দ, জয় কৃপাময় ৷  
+যাঁহা হৈতে পাইনু রূপ-সনাতনাশ্রয় ॥ ২০১ ॥
+
+jaya jaya nityānanda, jaya kṛpā-maya  
+glory  glory  Nityānanda  glory  full of mercy  
+yām̐hā haite pāinu rūpa-sanātanāśraya  
+from whom  I attained  Rūpa  Sanātana  the shelter
+
+(201) Glory, glory to Nityānanda! Glory to Him who is full of mercy, through whom I attained the shelter of Rūpa and Sanātana!
+
+যাঁহা হৈতে পাইনু রঘুনাথ-মহাশয় ৷  
+যাঁহা হৈতে পাইনু শ্রীস্বরূপ-আশ্রয় ॥ ২০২ ॥
+
+yām̐hā haite pāinu raghunātha-mahāśaya  
+from whom  I attained  Raghunātha  the great soul  
+yām̐hā haite pāinu śrī-svarūpa-āśraya  
+from whom  I attained  Śrī Svarūpa’s  shelter
+
+(202) Through Him I attained the great soul Raghunātha; through Him I attained the shelter of Śrī Svarūpa.
+
+সনাতন-কৃপায় পাইনু ভক্তির সিদ্ধান্ত ৷  
+শ্রীরূপ-কৃপায় পাইনু ভক্তিরসপ্রান্ত ॥ ২০৩ ॥
+
+sanātana-kṛpāya pāinu bhaktira siddhānta  
+by Sanātana’s  mercy  I attained  of bhakti  the conclusions  
+śrī-rūpa-kṛpāya pāinu bhakti-rasa-prānta  
+by Śrī Rūpa’s  mercy  I attained  of bhakti-rasa  the nearness
+
+(203) By Sanātana’s mercy I came to know the conclusions of bhakti; by Śrī Rūpa’s mercy I came near to bhakti-rasa.[^47]
+
+জয় জয় নিত্যানন্দ-চরণারবিন্দ ৷  
+যাঁহা হৈতে পাইনু শ্রীরাধাগোবিন্দ ॥ ২০৪ ॥
+
+jaya jaya nityānanda-caraṇāravinda  
+glory  glory  of Nityānanda  to the lotus feet  
+yām̐hā haite pāinu śrī-rādhā-govinda  
+from which  I attained  Śrī Rādhā-Govinda
+
+(204) Glory, glory to the lotus feet of Nityānanda, through which I attained Śrī Rādhā-Govinda!
+
+জগাই মাধাই হৈতে মুঞি সে পাপিষ্ঠ ৷  
+পুরীষের কীট হৈতে মুঞি সে লঘিষ্ঠ ॥ ২০৫ ॥
+
+jagāi mādhāi haite muñi se pāpiṣṭha  
+Jagāi  Mādhāi  than  I  am  more sinful  
+purīṣera kīṭa haite muñi se laghiṣṭha  
+of excrement  the worm  than  I  am  lower
+
+(205) I am more sinful than Jagāi and Mādhāi, lower than a worm in excrement.
+
+মোর নাম শুনে যেই তার পুণ্য ক্ষয় ৷  
+মোর নাম লয় যেই তার পাপ হয় ॥ ২০৬ ॥
+
+mora nāma śune yei tāra puṇya kṣaya  
+my  name  hears  whoever  his  piety  is destroyed  
+mora nāma laya yei tāra pāpa haya  
+my  name  takes  whoever  his  sin  there is
+
+(206) Whoever hears my name loses his piety; whoever utters my name commits sin.
+
+এমন নির্ঘৃণ মোরে কেবা কৃপা করে ৷  
+এক-নিত্যানন্দ বিনু জগৎ ভিতরে ॥ ২০৭ ॥
+
+emana nirghṛṇa more kebā kṛpā kare  
+such  despicable  me  who  mercy  shows  
+eka-nityānanda vinu jagat bhitare  
+one  Nityānanda  except  of the world  within
+
+(207) Who in all the world but Nityānanda alone would show mercy to one as despicable as I?
+
+প্রেমে মত্ত নিত্যানন্দ কৃপা-অবতার ৷  
+উত্তম, অধম, কিছু না করে বিচার ॥ ২০৮ ॥
+
+preme matta nityānanda kṛpā-avatāra  
+with love  intoxicated  Nityānanda  of mercy  the avatāra  
+uttama, adhama, kichu nā kare vicāra  
+high  low  any  not  makes  distinction
+
+(208) Intoxicated with love, Nityānanda is the avatāra of mercy; He makes no distinction between the high and the low.
+
+যে আগে পড়য়ে, তারে করয়ে নিস্তার ৷  
+অতএব নিস্তারিলা মো-হেন দুরাচার ॥ ২০৯ ॥
+
+ye āge paḍaye, tāre karaye nistāra  
+who  before (Him)  falls  him  He makes  deliverance  
+ataeva nistārilā mo-hena durācāra  
+therefore  He delivered  like me  a sinner
+
+(209) He delivers whoever falls before Him; and so He delivered even a sinner like me.
+
+মো-পাপিষ্ঠে আনিলেন শ্রীবৃন্দাবন ৷  
+মো-হেন অধমে দিলা শ্রীরূপচরণ ॥ ২১০ ॥
+
+mo-pāpiṣṭhe ānilena śrī-vṛndāvana  
+me most sinful  He brought  to Śrī Vṛndāvana  
+mo-hena adhame dilā śrī-rūpa-caraṇa  
+like me  to the lowly  He gave  Śrī Rūpa’s  feet
+
+(210) He brought me, the most sinful, to Śrī Vṛndāvana, and to one as low as I He gave the feet of Śrī Rūpa.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -2000,3 +2300,11 @@ that  night  the Lord  to me  gave  sight
 [^42]: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya* (*Bhāgavatam*, 10.78.22–28): in Naimiṣāraṇya Romaharṣaṇa, a disciple of Vyāsa, did not rise to greet Baladeva and was slain by Him; Guṇārṇava Miśra, who had no special regard for Nityānanda, acted just as improperly. The devotees do not blame Mīnaketana for this anger.
 
 [^43]: *Amṛta-pravāha-bhāṣya*: “the logic of half a hen” is to take one half of a hen as old and the other as young; so too, by accepting one of the undivided Caitanya and Nityānanda and rejecting the other, you show both unbelief and hypocrisy.
+
+[^44]: *Amṛta-pravāha-bhāṣya*: Jhāmaṭapura is a village near Naihāṭi, two krośas north of Kāṭoyā; Kavirāja Gosvāmī lived there, and a Deity of Mahāprabhu is now worshipped there.
+
+[^45]: As in the Gauḍīya Maṭha edition: «দন্তে» (“in the teeth”; another reading: «দন্ত»).
+
+[^46]: *Amṛta-pravāha-bhāṣya*: *hātasāna* — “a touch of the hand”.
+
+[^47]: *Amṛta-pravāha-bhāṣya*: *bhakti-rasa-prānta* — “only nearness to bhakti-rasa”. *Anubhāṣya*: Śrī Sanātana is the ācārya of the conclusions of bhakti, Śrī Rūpa the ācārya of bhakti-rasa (cf. Antya 4).
