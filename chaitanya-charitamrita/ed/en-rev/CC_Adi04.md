@@ -645,7 +645,7 @@ in the aspect of bliss  hlādinī  in the aspect of being  sandhinī
 cid-aṁśe samvit — yāre jñāna kari’ māni  
 in the aspect of consciousness  samvit  which  as knowledge  making  we regard
 
-(62) In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we know as knowledge.
+(62) In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we know as knowledge.[^39]
 
 হ্লাদিনী সন্ধিনী সম্বিৎ ত্বয়্যেকা সর্ব্বসংস্থিতৌ ৷  
 হ্লাদতাপকরী মিশ্রা ত্বয়ি নো গুণবর্জ্জিতে ॥ ৬৩ ॥
@@ -659,7 +659,278 @@ of joy  of pain  causing  mixed
 tvayi no guṇa-varjite  
 in You  not  of the guṇas  devoid
 
-(63) “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)[^39]
+(63) “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)[^40]
+
+সন্ধিনীর সার অংশ — ‘শুদ্ধসত্ত্ব’ নাম ৷  
+ভগবানের সত্তা হয় যাহাতে বিশ্রাম ॥ ৬৪ ॥
+
+sandhinīra sāra aṁśa — ‘śuddha-sattva’ nāma  
+of sandhinī  the essential  part  ‘pure being’  name  
+bhagavānera sattā haya yāhāte viśrāma  
+of Bhagavān  the existence  has  in which  rest
+
+(64) The essential part of Sandhinī is called *śuddha-sattva*, pure being; in it the existence of Bhagavān rests.[^41]
+
+মাতা, পিতা, স্থান, গৃহ, শয়্যাসন আর ৷  
+এ সব কৃষ্ণের শুদ্ধসত্ত্বের বিকার ॥ ৬৫ ॥
+
+mātā, pitā, sthāna, gṛha, śayyāsana āra  
+mother  father  abode  house  bed and seat  and others  
+e saba kṛṣṇera śuddha-sattvera vikāra  
+these  all  of Kṛṣṇa  of pure being  transformations
+
+(65) His mother and father, His abode, His house, His bed and seat and all else — all these are transformations of Kṛṣṇa’s *śuddha-sattva*, pure transcendental being.[^42]
+
+সত্ত্বং বিশুদ্ধং বসুদেবশব্দিতং  
+যদীয়তে তত্র পুমানপাবৃতঃ ৷  
+সত্ত্বে চ তস্মিন্ ভগবান্ বাসুদেবো  
+হ্যধোক্ষজো মে মনসা বিধীয়তে ॥ ৬৬ ॥
+
+sattvaṁ viśuddhaṁ vasudeva-śabditaṁ  
+being  pure  by the name Vasudeva  called  
+yad īyate tatra pumān apāvṛtaḥ  
+because  is revealed  there  the Person  unveiled  
+sattve ca tasmin bhagavān vāsudevo  
+in being  and  that  Bhagavān  Vāsudeva  
+hy adhokṣajo me manasā vidhīyate  
+indeed  beyond the senses  by me  with the mind  is worshipped
+
+(66) “Pure being (*viśuddha-sattva*) is called *vasudeva*, for in it the Supreme Person is revealed unveiled. And in that being I worship with my mind Lord Vāsudeva, who is beyond the senses (Adhokṣaja).” (Śrīmad-Bhāgavatam, 4.3.23)[^43]
+
+কৃষ্ণে ভগবত্তা-জ্ঞান — সংবিতের সার ৷  
+ব্রহ্মজ্ঞানাদিক সব তার পরিবার ॥ ৬৭ ॥
+
+kṛṣṇe bhagavattā-jñāna — saṁvitera sāra  
+in Kṛṣṇa  of Godhood  the knowledge  of samvit  the essence  
+brahma-jñānādika saba tāra parivāra  
+of Brahman  knowledge and the rest  all  its  retinue
+
+(67) The knowledge that Kṛṣṇa is Bhagavān is the essence of Samvit; the knowledge of Brahman and all the rest are only its retinue.[^44]
+
+হ্লাদিনীর সার ‘প্রেম’, প্রেমসার ‘ভাব’ ৷  
+ভাবের পরমকাষ্ঠা, নাম ‘মহাভাব’ ॥ ৬৮ ॥
+
+hlādinīra sāra ‘prema’, prema-sāra ‘bhāva’  
+of hlādinī  the essence  ‘prema’  of prema the essence  ‘bhāva’  
+bhāvera parama-kāṣṭhā, nāma ‘mahā-bhāva’  
+of bhāva  the highest limit  name  ‘mahābhāva’
+
+(68) The essence of Hlādinī is prema, divine love; the essence of prema is *bhāva*; and the highest limit of *bhāva* is called *mahābhāva*.[^45]
+
+মহাভাবস্বরূপা শ্রীরাধা-ঠাকুরাণী ৷  
+সর্ব্বগুণখনি কৃষ্ণকান্তাশিরোমণি ॥ ৬৯ ॥
+
+mahābhāva-svarūpā śrī-rādhā-ṭhākurāṇī  
+of mahābhāva  the embodiment  Śrī Rādhā  Ṭhākurāṇī  
+sarva-guṇa-khani kṛṣṇa-kāntā-śiromaṇi  
+of all  virtues  the mine  of Kṛṣṇa’s  beloveds  the crest-jewel
+
+(69) Śrī Rādhā Ṭhākurāṇī is the embodiment of *mahābhāva*. She is a mine of all virtues and the crest-jewel of Kṛṣṇa’s beloveds.[^46]
+
+তয়োরপ্যুভয়োর্মধ্যে রাধিকা সর্ব্বথাধিকা ৷  
+মহাভাবস্বরূপেয়ং গুণৈরতিবরীয়সী ॥ ৭০ ॥
+
+tayor apy ubhayor madhye  
+of these two  even  both  among  
+rādhikā sarvathādhikā  
+Rādhikā  in every way  superior  
+mahābhāva-svarūpeyaṁ  
+of mahābhāva  the embodiment  She  
+guṇair ativarīyasī  
+in virtues  far surpassing
+
+(70) “Of the two, Rādhikā is superior in every way. She is the embodiment of *mahābhāva*, and in virtues She surpasses all.” (Ujjvala-nīlamaṇi, the chapter on Śrī Rādhā, 2)[^47]
+
+কৃষ্ণপ্রেমভাবিত যাঁর চিত্তেন্দ্রিয়-কায় ৷  
+কৃষ্ণ-নিজশক্তি রাধা ক্রীড়ার সহায় ॥ ৭১ ॥
+
+kṛṣṇa-prema-bhāvita yām̐ra cittendriya-kāya  
+by love for Kṛṣṇa  steeped  whose  mind  senses  body  
+kṛṣṇa-nija-śakti rādhā krīḍāra sahāya  
+Kṛṣṇa’s  own potency  Rādhā  of the play  the helper
+
+(71) Her mind, senses and body are steeped in love for Kṛṣṇa; Rādhā is Kṛṣṇa’s own potency, the helper in His play.[^48]
+
+আনন্দচিন্ময়রসপ্রতিভাবিতাভি-  
+স্তাভির্য এব নিজরূপতয়া কলাভিঃ ৷  
+গোলোক এব নিবসত্যখিলাত্মভূতো  
+গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ৭২ ॥
+
+ānanda-cinmaya-rasa-pratibhāvitābhis  
+with blissful  spiritual  rasa  imbued  
+tābhir ya eva nija-rūpatayā kalābhiḥ  
+with them  who  indeed  as His own form  with the portions (of potency)  
+goloka eva nivasaty akhilātma-bhūto  
+in Goloka  indeed  dwells  of all  the soul  being  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
+
+(72) “I worship Govinda, the original Person, the Soul of all. He dwells eternally in Goloka with the gopīs, His potencies (*kalās*), who are one with Him in nature and imbued with blissful spiritual rasa.” (Brahma-saṁhitā, 5.37)[^49]
+
+কৃষ্ণেরে করায় যৈছে রস আস্বাদন ৷  
+ক্রীড়ার সহায় যৈছে, শুন বিবরণ ॥ ৭৩ ॥
+
+kṛṣṇere karāya yaiche rasa āsvādana  
+Kṛṣṇa  makes  how  rasa  taste  
+krīḍāra sahāya yaiche, śuna vivaraṇa  
+of the play  the helper  how  hear  the description
+
+(73) Now hear how She makes Kṛṣṇa taste rasa and how She helps Him in His play.
+
+কৃষ্ণকান্তাগণ দেখি ত্রিবিধ প্রকার ৷  
+এক লক্ষ্মীগণ, পুরে মহিষীগণ আর ॥ ৭৪ ॥
+
+ব্রজাঙ্গনা-রূপ, আর কান্তাগণ-সার ৷  
+শ্রীরাধিকা হৈতে কান্তাগণের বিস্তার ॥ ৭৫ ॥
+
+kṛṣṇa-kāntā-gaṇa dekhi tri-vidha prakāra  
+of Kṛṣṇa  beloveds  the host  we see  of three  kinds  
+eka lakṣmī-gaṇa, pure mahiṣī-gaṇa āra  
+first  the Lakṣmīs  in the city  the queens  and  
+vrajāṅganā-rūpa, āra kāntā-gaṇa-sāra  
+of the Vraja girls  the form  and  of beloveds  the essence  
+śrī-rādhikā haite kāntā-gaṇera vistāra  
+from Śrī Rādhikā  of the beloveds  the expansion
+
+(74–75) Kṛṣṇa’s beloveds are of three kinds: the Lakṣmīs, the queens in His city, and the girls of Vraja, who are the essence of all beloveds. All of them expand from Śrī Rādhikā.[^50]
+
+অবতারী কৃষ্ণ যৈছে করে অবতার ৷  
+অংশিনী রাধা হৈতে তিন গণের বিস্তার ॥ ৭৬ ॥
+
+avatārī kṛṣṇa yaiche kare avatāra  
+the source of avatāras  Kṛṣṇa  as  makes  avatāras  
+aṁśinī rādhā haite tina gaṇera vistāra  
+the source of parts  Rādhā  from  of three  groups  the expansion
+
+(76) As Kṛṣṇa, the source of all avatāras, manifests the avatāras, so the three groups expand from Rādhā, the source of all parts.[^51]
+
+বৈভবগণ যেন তাঁর অঙ্গ-বিভূতি ৷  
+বিম্ব-প্রতিবিম্ব-রূপ মহিষীর ততি ॥ ৭৭ ॥
+
+vaibhava-gaṇa yena tām̐ra aṅga-vibhūti  
+the vaibhavas  as it were  Her  of the body  splendour  
+bimba-pratibimba-rūpa mahiṣīra tati  
+original  reflection  in the form  of the queens  the host
+
+(77) The Lakṣmīs are, as it were, the splendour of Her body, and the queens are Her reflections (*bimba-pratibimba*).[^52]
+
+লক্ষ্মীগণ তাঁর বৈভব-বিলাসাংশরূপ ৷  
+মহিষীগণ প্রাভব-প্রকাশস্বরূপ ॥ ৭৮ ॥
+
+lakṣmī-gaṇa tām̐ra vaibhava-vilāsāṁśa-rūpa  
+the Lakṣmīs  Her  of the vaibhava-vilāsa  parts  the form  
+mahiṣī-gaṇa prābhava-prakāśa-svarūpa  
+the queens  of the prābhava-prakāśa  the nature
+
+(78) The Lakṣmīs are partial manifestations (*aṁśas*) of Her *vaibhava-vilāsa*, and the queens are Her *prābhava-prakāśas*.[^53]
+
+আকার-স্বরূপ-ভেদে ব্রজদেবীগণ ৷  
+কায়ব্যূহরূপ তাঁর রসের কারণ ॥ ৭৯ ॥
+
+ākāra-svarūpa-bhede vraja-devī-gaṇa  
+of form  of nature  by difference  of Vraja  the goddesses  
+kāya-vyūha-rūpa tām̐ra rasera kāraṇa  
+of the body  expansion  the form  Her  of rasa  for the sake
+
+(79) The goddesses of Vraja, differing in form and nature, are expansions of Her own body (*kāya-vyūha*), for the sake of rasa.[^54]
+
+বহু কান্তা বিনা নহে রসের উল্লাস ৷  
+লীলার সহায় লাগি’ বহু ত’ প্রকাশ ॥ ৮০ ॥
+
+bahu kāntā vinā nahe rasera ullāsa  
+many  beloveds  without  is not  of rasa  the delight  
+līlāra sahāya lāgi’ bahu ta’ prakāśa  
+of the play  the help  for the sake  many  indeed  manifestations
+
+(80) Without many beloveds rasa does not rejoice; therefore, to help in the play, She has many manifestations.[^55]
+
+তার মধ্যে ব্রজে নানা ভাব-রস-ভেদে ৷  
+কৃষ্ণকে করায় রাসাদিক-লীলাস্বাদে ॥ ৮১ ॥
+
+tāra madhye vraje nānā bhāva-rasa-bhede  
+of them  among  in Vraja  various  of moods  of rasas  by the differences  
+kṛṣṇake karāya rāsādika-līlāsvāde  
+Kṛṣṇa  make  the rāsa and other  pastimes  taste
+
+(81) Among them the girls of Vraja, differing in moods and rasas, make Kṛṣṇa taste the *rāsa* dance and His other pastimes.[^56]
+
+গোবিন্দানন্দিনী, রাধা, গোবিন্দমোহিনী ৷  
+গোবিন্দসর্ব্বস্ব, সর্ব্বকান্তা-শিরোমণি ॥ ৮২ ॥
+
+govindānandinī, rādhā, govinda-mohinī  
+Govinda’s delight  Rādhā  Govinda’s enchantress  
+govinda-sarvasva, sarva-kāntā-śiromaṇi  
+Govinda’s all-in-all  of all  beloveds  the crest-jewel
+
+(82) Rādhā is the delight of Govinda and the enchantress of Govinda; She is Govinda’s all-in-all and the crest-jewel of all His beloveds.[^57]
+
+দেবী কৃষ্ণময়ী প্রোক্তা রাধিকা পরদেবতা ৷  
+সর্ব্বলক্ষ্মীময়ী সর্ব্বকান্তিঃ সম্মোহিনী পরা ॥ ৮৩ ॥
+
+devī kṛṣṇa-mayī proktā  
+the goddess  full of Kṛṣṇa  is declared  
+rādhikā para-devatā  
+Rādhikā  the supreme  deity  
+sarva-lakṣmī-mayī sarva-  
+all  Lakṣmīs  containing  all  
+kāntiḥ sammohinī parā  
+splendour  the enchantress  supreme
+
+(83) “The goddess (*devī*) Rādhikā is declared to be full of Kṛṣṇa (*kṛṣṇa-mayī*). She is the supreme deity; all the Lakṣmīs are within Her; She is the whole of splendour (*sarva-kānti*) and the supreme enchantress.” (Bṛhad-gautamīya-tantra)[^58]
+
+‘দেবী’ কহি দ্যোতমানা, পরমা সুন্দরী ৷  
+কিংবা, কৃষ্ণপূজা-ক্রীড়ার বসতি নগরী ॥ ৮৪ ॥
+
+‘devī’ kahi dyotamānā, paramā sundarī  
+‘devī’  means  shining  supremely  beautiful  
+kiṁvā, kṛṣṇa-pūjā-krīḍāra vasati nagarī  
+or  of Kṛṣṇa’s  worship  of the play  the dwelling  city
+
+(84) *Devī* means “shining and supremely beautiful”, or else “the city where Kṛṣṇa’s worship and play abide”.[^59]
+
+কৃষ্ণময়ী — কৃষ্ণ যাঁর ভিতরে বাহিরে ৷  
+যাঁহা যাঁহা নেত্র পড়ে, তাঁহা কৃষ্ণ স্ফুরে ॥ ৮৫ ॥
+
+kṛṣṇa-mayī — kṛṣṇa yām̐ra bhitare bāhire  
+full of Kṛṣṇa  Kṛṣṇa  whose  within  without  
+yām̐hā yām̐hā netra paḍe, tām̐hā kṛṣṇa sphure  
+wherever  wherever  the eyes  fall  there  Kṛṣṇa  appears
+
+(85) *Kṛṣṇa-mayī* — Kṛṣṇa is within Her and without; wherever Her eyes fall, there Kṛṣṇa appears.[^60]
+
+কিম্বা, প্রেমরসময় কৃষ্ণের স্বরূপ ৷  
+তাঁর শক্তি তাঁর সহ হয় একরূপ ॥ ৮৬ ॥
+
+kimbā, prema-rasa-maya kṛṣṇera svarūpa  
+or  full of the rasa of love  of Kṛṣṇa  the nature  
+tām̐ra śakti tām̐ra saha haya eka-rūpa  
+His  potency  with Him  is  one
+
+(86) Or else: Kṛṣṇa’s very nature is full of the rasa of love, and His potency is one with Him.[^61]
+
+কৃষ্ণবাঞ্ছা-পূর্ত্তিরূপ করে আরাধনে ৷  
+অতএব ‘রাধিকা’ নাম পুরাণে বাখানে ॥ ৮৭ ॥
+
+kṛṣṇa-vāñchā-pūrti-rūpa kare ārādhane  
+of Kṛṣṇa’s  desires  of the fulfilment  in the form  makes  worship  
+ataeva ‘rādhikā’ nāma purāṇe vākhāne  
+therefore  ‘Rādhikā’  name  in the Purāṇas  they explain
+
+(87) Her worship of Kṛṣṇa consists in fulfilling His desires; therefore the Purāṇas explain Her name as Rādhikā.[^62]
+
+অনয়ারাধিতো নূনং ভগবান্ হরিরীশ্বরঃ ৷  
+যন্নো বিহায় গোবিন্দঃ প্রীতো যামনয়দ্রহঃ ॥ ৮৮ ॥
+
+anayārādhito nūnaṁ  
+by Her  worshipped  surely  
+bhagavān harir īśvaraḥ  
+Bhagavān  Hari  the Lord  
+yan no vihāya govindaḥ  
+since  us  leaving  Govinda  
+prīto yām anayad rahaḥ  
+pleased  whom  led  to a secret place
+
+(88) “Surely the Lord, Bhagavān Hari, has been worshipped by Her, for Govinda, pleased, has left us and led Her away to a secluded place.” (Śrīmad-Bhāgavatam, 10.30.28)[^63]
 
 ---
 
@@ -739,4 +1010,52 @@ in You  not  of the guṇas  devoid
 
 [^38]: In the edition the verse is headed: “The one potency of the one Possessor of potency in three forms: (1) giving bliss, the taste of rasa; (2) acting and enjoying; (3) manifesting existence.” *Amṛta-pravāha-bhāṣya*: Kṛṣṇa, the complete Truth and possessor of potency, is eternity, knowledge and bliss. His one spiritual potency in the aspect of being is Sandhinī, which extends existence; in the aspect of knowledge Samvit, complete knowledge, the very nature of Kṛṣṇa; in the aspect of bliss Hlādinī, who gives joy to Him Himself.
 
-[^39]: In the edition, “the words of Dhruva”. *Amṛta-pravāha-bhāṣya*: in You, the shelter of all and beyond the guṇas, the three workings of the potency — Hlādinī, Sandhinī and Samvit — are wholly spiritual; only the *jīva*, a tiny spark subject to māyā, dwelling in the three guṇas, knows this potency as giving joy (*hlādakarī*), pain (*tāpakarī*) or both (*miśrā*); in You it is pure and one. *Anubhāṣya* (after Śrī Jīva’s *Prīti-sandarbha*, 65): the potency by which the Lord delights in His bliss is not the worldly bliss of *sattva*, as the Sāṅkhyas hold, for māyā has no power over the Lord; nor the bliss of His impersonal essence, as those who hold Him to be without attributes say; nor the bliss of the *jīva*, for the *jīva* is tiny. It is His own potency Hlādinī: through it He tastes a special bliss, and through it He gives that bliss to His devotees; and so the conclusion of the impersonalists must be rejected.
+[^39]: *Anubhāṣya* (after Śrī Jīva’s *Bhagavat-sandarbha*, 102): Sandhinī is the potency by which the Lord upholds His own being and that of all, and manifests time, place and all else; Samvit is that by which He knows and makes others know; Hlādinī is that by which He Himself tastes bliss and makes others taste it. The self-luminous working of this one supreme potency is called *viśuddha-sattva*: in it there is no touch of māyā, and from it the abode of Vaikuṇṭha is manifest.
+
+[^40]: In the edition, “the words of Dhruva”. *Amṛta-pravāha-bhāṣya*: in You, the shelter of all and beyond the guṇas, the three workings of the potency — Hlādinī, Sandhinī and Samvit — are wholly spiritual; only the *jīva*, a tiny spark subject to māyā, dwelling in the three guṇas, knows this potency as giving joy (*hlādakarī*), pain (*tāpakarī*) or both (*miśrā*); in You it is pure and one. *Anubhāṣya* (after Śrī Jīva’s *Prīti-sandarbha*, 65): the potency by which the Lord delights in His bliss is not the worldly bliss of *sattva*, as the Sāṅkhyas hold, for māyā has no power over the Lord; nor the bliss of His impersonal essence, as those who hold Him to be without attributes say; nor the bliss of the *jīva*, for the *jīva* is tiny. It is His own potency Hlādinī: through it He tastes a special bliss, and through it He gives that bliss to His devotees; and so the conclusion of the impersonalists must be rejected.
+
+[^41]: In the edition the verse is headed: “The service of Sandhinī — to make Bhagavān manifest.” *Amṛta-pravāha-bhāṣya*: the essence of Sandhinī, the potency that extends being, is called *śuddha-sattva*. *Sattva* is of two kinds, mixed (*miśra*) and pure (*śuddha*); *sattva* is the name of being itself, and without the working of Sandhinī there is no being at all; the manifestation of Bhagavān’s being is also her work.
+
+[^42]: In the edition the verse is headed: “Though Kṛṣṇa is the Lord of Sandhinī, all that He enjoys is her transformation.” *Amṛta-pravāha-bhāṣya*: the Sandhinī of the spiritual world manifests the being of all that is spiritual — Bhagavān’s form, His servants and maidservants, His companions, His father and mother; Sandhinī in māyā extends the being of the material world, and in the *jīva* potency, the being of the *jīva*, a spiritual spark. *Anubhāṣya*: *śuddha-sattva* is not worldly *sattva* (goodness): the guṇas belong to the *jīvas*, not to the Lord.
+
+[^43]: The words of Śiva to Satī when she was about to go to the sacrifice of her father Dakṣa, who was hostile to Viṣṇu (*Anubhāṣya*). *Amṛta-pravāha-bhāṣya*: the eternal truth in the form of *śuddha-sattva*, born of the working of Sandhinī in the Lord’s own potency, is called *vasudeva*; in that *śuddha-sattva* Bhagavān, conscious by nature, is eternally manifest, and His name is Vāsudeva; He is beyond all material senses, and to Him, with a heart purified by bhakti, Śiva offers obeisance.
+
+[^44]: In the edition the verse is headed: “Through Samvit are known His mastery of experience and His enjoyment of bliss, and, within non-dual knowledge, the knowledge of Bhagavān.” *Amṛta-pravāha-bhāṣya*: the working of Samvit is called knowledge. When the spiritual Samvit, joined with Hlādinī, shows mercy to the *jīva*, the knowledge that Kṛṣṇa is Bhagavān awakens in him — this is the essence of Samvit; the knowledge of Brahman and the knowledge of the world are its “retinue”, that is, only coverings at different stages.
+
+[^45]: *Amṛta-pravāha-bhāṣya*: the working of Hlādinī is called prema. Prema is pure or mixed: when Hlādinī in Kṛṣṇa, giving Him bliss, together with pure Samvit shows mercy to the *jīva*, love for Kṛṣṇa is born in the *jīva*; but when the transformation of Hlādinī in the *jīva* draws him, through māyā, toward the world, the *jīva*, intoxicated with worldly love, loses love for Kṛṣṇa and falls under the sway of joy and sorrow. The ideal of love for the *jīvas* is the gopīs of Vraja, and highest among them is Śrī Rādhā.
+
+[^46]: In the edition verse 68 is headed “The divisions of Hlādinī”, and verse 69 “Śrī Rādhikā — the summit of love for Kṛṣṇa in person”.
+
+[^47]: *Anubhāṣya*: the two are Śrī Rādhā and Candrāvalī; “the embodiment of *mahābhāva*” — She in whom is the *mahābhāva* called *madana*, whose form unites the eight *bhāvas*; “in virtues” — in Her twenty-five qualities. The reference follows the edition.
+
+[^48]: In the edition the verse is headed: “Within and without, in every part of Her form, love for Kṛṣṇa is manifest.” *Amṛta-pravāha-bhāṣya*: Śrīmatī Rādhikā is wholly spiritual: unlike the conditioned *jīva* She has no material senses, body or subtle mind — Her mind, senses and body are spiritual and steeped in love for Kṛṣṇa. She is Kṛṣṇa’s own potency and therefore the only helper in His play: Kṛṣṇa, the possessor of potency, cannot play apart from His potency.
+
+[^49]: In the edition the verse is headed: “Govinda in Goloka eternally sports in rasa with the gopīs.” *Anubhāṣya*: “the Soul of all” — the beloved of all the dwellers of Gokula; “imbued with rasa” — steeped at every moment in blissful spiritual rasa; “one with Him in nature” — known as His own essence; the *kalās* are forms of the Hlādinī potency, that is, the beauties of Vraja.
+
+[^50]: In the edition verse 74 is headed: “In *madhura-rati*, by the mood of majesty or of sweetness, three kinds of Kṛṣṇa’s beloveds.” *Amṛta-pravāha-bhāṣya*: “the third kind” — the girls of Vraja, the essence, that is, the best of all beloveds.
+
+[^51]: In the edition the verse is headed: “All Kṛṣṇa’s beloveds are parts of Rādhā, the source of parts.” *Amṛta-pravāha-bhāṣya*: as Kṛṣṇa, the Source of all avatāras, manifests the Puruṣa and the other avatāras, so Śrīmatī Rādhikā is the source (*aṁśinī*) of all beloveds: from Her parts come the Lakṣmīs, the queens and the girls of Vraja.
+
+[^52]: *Amṛta-pravāha-bhāṣya*: the beloveds who come from Her are counted as Her *vaibhava*, the splendour of Her body; in the form of reflections (*bimba-pratibimba*) the queens expand from Her. *Anubhāṣya*: some readings have, instead of “the *vaibhavas* are, as it were, the splendour of Her body”, “the Lakṣmīs are the splendour of Her parts”.
+
+[^53]: As in the Gauḍīya Maṭha edition: «প্রাভব» (another reading: «বৈভব»); so too the *Amṛta-pravāha-bhāṣya*: “the Lakṣmīs are parts of Her *vaibhava-vilāsa*, and the queens are Her *prābhava-prakāśa*”. In the edition the verse is headed: “The queens in Dvārakā, and the Lakṣmīs of Nārāyaṇa, Vāsudeva and others.”
+
+[^54]: In the edition the verse is headed: “Lalitā and the other girls of Vraja — expansions of Her form (*kāya-vyūha*).”
+
+[^55]: In the edition the verse is headed: “For the increase of rasa and its wonder — many manifestations of the one Hlādinī.”
+
+[^56]: In the edition the verse is headed: “Among them, the pastimes of Vraja are the highest wonder of love for Kṛṣṇa.”
+
+[^57]: In the edition the verse is headed: “The five names of Śrī Rādhikā”: Govindānandinī (“she who delights Govinda”), Rādhā, Govinda-mohinī (“she who enchants Govinda”), Govinda-sarvasva (“Govinda’s all-in-all”), Sarva-kāntā-śiromaṇi (“the crest-jewel of all beloveds”).
+
+[^58]: The author explains the words of this verse in what follows: *devī* — 4.84; *kṛṣṇa-mayī* — 4.85–86; *Rādhikā* — 4.87–88; “the supreme deity” — 4.89; *sarva-lakṣmī* — 4.90–91; *sarva-kānti* — 4.92–94; “the enchantress” — 4.95.
+
+[^59]: In the edition the verse is headed: “The meaning of the verse: (1) the abode of beauty or of play.”
+
+[^60]: In the edition the verse is headed: “(2) Complete absorption in Kṛṣṇa.”
+
+[^61]: In the edition the verse is headed: “Non-difference from Kṛṣṇa.”
+
+[^62]: In the edition the verse is headed: “(3) The name ‘Rādhā’ — because She worships Kṛṣṇa by fulfilling His desires.”
+
+[^63]: In the edition the verse is headed: “A hint of Rādhā’s name in the *Bhāgavatam*.” The words of the gopīs searching for Kṛṣṇa on the night of the *rāsa* dance: *anayārādhitaḥ*, “worshipped by Her”, holds within it the name of Rādhā.
