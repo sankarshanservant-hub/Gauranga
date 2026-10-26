@@ -458,7 +458,7 @@ Therefore now all of you glorify Him so that, out of love for His devotees, He m
 
 > **51a.** If the bliss were natural, He could not give it up;
 > so, swollen with inner intoxication, out of great cunning He regards the universe as a straw.
-> And if He has no attachment to His own, why then, ah, does He heed their words?
+> And if He has no delusion (*moha*) about His own, why then, ah, does He heed their words?
 
 **Kali.** Out of tender affection.
 
