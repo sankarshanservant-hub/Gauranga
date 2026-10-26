@@ -1349,6 +1349,386 @@ the secondary meaning  explanation  he makes  all  imagining
 
 (133) So in every sūtra he abandoned the natural meaning and explained it by a secondary one, imagining everything himself.”
 
+এইমতে প্রতিসূত্রে করেন দূষণ ৷  
+শুনি’ চমৎকার হৈল সন্ন্যাসীর গণ ॥ ১৩৪ ॥
+
+ei mate pratisūtre karena dūṣaṇa  
+in this  way  in every sūtra  He makes  fault-finding  
+śuni’ camatkāra haila sannyāsīra gaṇa  
+hearing  astonished  became  of the sannyāsīs  the company
+
+(134) In this way He showed the faults in the commentary on every sūtra, and the sannyāsīs were astonished to hear it.
+
+সকল সন্ন্যাসী কহে, — ‘শুনহ শ্রীপাদ ৷  
+তুমি যে খণ্ডিলে অর্থ, এ নহে বিবাদ ॥ ১৩৫ ॥
+
+sakala sannyāsī kahe, — ‘śunaha śrīpāda  
+all  the sannyāsīs  say  listen  Śrīpāda  
+tumi ye khaṇḍile artha, e nahe vivāda  
+You  which  have refuted  the meaning  this  is not  a matter of dispute
+
+(135) All the sannyāsīs said, “Listen, Śrīpāda: the meaning You have refuted is beyond dispute.[^43]
+
+আচার্য্য-কল্পিত অর্থ, — ইহা সবে জানি ৷  
+সম্প্রদায়-অনুরোধে তত্ত্ব ইহা মানি ॥ ১৩৬ ॥
+
+ācārya-kalpita artha, — ihā sabe jāni  
+by the Ācārya imagined  the meaning  this  all  we know  
+sampradāya-anurodhe tattva ihā māni  
+of the sampradāya  out of deference  the truth  this  we accept
+
+(136) We all know that the meaning is the Ācārya’s own invention; we accept it only out of loyalty to our sampradāya.
+
+মুখ্যার্থ ব্যাখ্যা কর, দেখি তোমার বল ৷’  
+মুখ্যার্থে লাগা’ল প্রভু সূত্রসকল ॥ ১৩৭ ॥
+
+mukhyārtha vyākhyā kara, dekhi tomāra bala’  
+the primary meaning  explanation  make  let us see  Your  power  
+mukhyārthe lāgā’la prabhu sūtra-sakala  
+in the primary meaning  set  the Lord  the sūtras  all
+
+(137) Explain the primary meaning; let us see Your power.” And the Lord set about explaining all the sūtras in their primary meaning:
+
+বৃহদ্বস্তু ‘ব্রহ্ম’ কহি — ‘শ্রীভগবান্’ ৷  
+ষড়্বিধৈশ্বর্য্যপূর্ণ, পরতত্ত্বধাম ॥ ১৩৮ ॥
+
+bṛhad-vastu ‘brahma’ kahi — ‘śrī-bhagavān’  
+the great reality  ‘Brahman’  we call  ‘Śrī Bhagavān’  
+ṣaḍ-vidhaiśvarya-pūrṇa, para-tattva-dhāma  
+with six kinds of majesty  full  of the Supreme Truth  the abode
+
+(138) “The great reality called Brahman is Śrī Bhagavān, full of the six kinds of majesty, the abode of the Supreme Truth.[^44]
+
+স্বরূপ-ঐশ্বর্য্যে তাঁর নাহি মায়াগন্ধ ৷  
+সকল বেদের হয় ভগবান্ সে ‘সম্বন্ধ’ ॥ ১৩৯ ॥
+
+svarūpa-aiśvarye tām̐ra nāhi māyā-gandha  
+in His own form and majesty  His  there is not  of māyā  a trace  
+sakala vedera haya bhagavān se ‘sambandha’  
+of all  the Vedas  is  Bhagavān  that  ‘sambandha’
+
+(139) In His own form and majesty there is not a trace of *māyā*; in all the Vedas Bhagavān is the *sambandha* — the One to whom everything is related.
+
+তাঁরে ‘নির্ব্বিশেষ’ কহি, চিচ্ছক্তি না মানি’ ৷  
+অর্দ্ধ স্বরূপ না মানিলে পূর্ণতা হয় হানি ॥ ১৪০ ॥
+
+tām̐re ‘nirviśeṣa’ kahi, cic-chakti nā māni’  
+Him  ‘featureless’  we call  the spiritual potency  not  accepting  
+ardha svarūpa nā mānile pūrṇatā haya hāni  
+half  of His being  not  if one accepts  fullness  is  harmed
+
+(140) To call Him featureless (*nirviśeṣa*) is to deny His spiritual potency; and one who does not accept half of His being diminishes His fullness.[^45]
+
+ভগবান্-প্রাপ্তিহেতু যে করি উপায় ৷  
+শ্রবণাদি ভক্তি — কৃষ্ণপ্রাপ্ত্যের সহায় ॥ ১৪১ ॥
+
+bhagavān-prāpti-hetu ye kari upāya  
+Bhagavān-attainment for  which  I make  means  
+śravaṇādi bhakti — kṛṣṇa-prāptyera sahāya  
+hearing and the rest  devotion  of Kṛṣṇa’s attainment  the help
+
+(141) The means by which one attains Bhagavān is devotion beginning with hearing; it is what brings one to Kṛṣṇa.
+
+সেই সর্ব্ববেদের ‘অভিধেয়’ নাম ৷  
+সাধনভক্তি হৈতে হয় প্রেমের উদ্গম ॥ ১৪২ ॥
+
+sei sarva-vedera ‘abhidheya’ nāma  
+that  of all the Vedas  ‘abhidheya’  the name  
+sādhana-bhakti haite haya premera udgama  
+from sādhana-bhakti  is  of prema  the sprouting
+
+(142) All the Vedas call this the *abhidheya*, the means to be practised; from devotion in practice (*sādhana-bhakti*) prema springs up.[^46]
+
+কৃষ্ণের চরণে হয় যদি অনুরাগ ৷  
+কৃষ্ণ বিনু অন্যত্র তার নাহি রহে রাগ ॥ ১৪৩ ॥
+
+kṛṣṇera caraṇe haya yadi anurāga  
+Kṛṣṇa’s  for the feet  is  if  deep attachment  
+kṛṣṇa vinu anyatra tāra nāhi rahe rāga  
+Kṛṣṇa  except  elsewhere  his  not  remains  attachment
+
+(143) When deep attachment for Kṛṣṇa’s feet arises, no attachment to anything other than Kṛṣṇa remains.
+
+পঞ্চম পুরুষার্থ সেই প্রেম-মহাধন ৷  
+কৃষ্ণের মাধুর্য্য-রস করায় আস্বাদন ॥ ১৪৪ ॥
+
+pañcama puruṣārtha sei prema-mahādhana  
+the fifth  goal of life  that  great treasure of prema  
+kṛṣṇera mādhurya-rasa karāya āsvādana  
+Kṛṣṇa’s  sweetness-rasa  makes  taste
+
+(144) That great treasure of prema is the fifth goal of life; it lets one taste the rasa of Kṛṣṇa’s sweetness.[^47]
+
+প্রেমা হৈতে কৃষ্ণ হয় নিজভক্তবশ ৷  
+প্রেমা হৈতে পায় কৃষ্ণের সেবা-সুখরস ॥ ১৪৫ ॥
+
+premā haite kṛṣṇa haya nija bhakta-vaśa  
+prema  from  Kṛṣṇa  becomes  to His own  devotee subject  
+premā haite pāya kṛṣṇera sevā-sukha-rasa  
+prema  from  one gains  Kṛṣṇa’s  the joy-rasa of service
+
+(145) By prema Kṛṣṇa comes under the control of His devotee, and by prema one tastes the joy of serving Kṛṣṇa.
+
+সম্বন্ধ, অভিধেয়, প্রয়োজন-নাম ৷  
+এই তিন অর্থ সর্ব্বসূত্রে পর্য্যবসান ॥ ১৪৬ ॥
+
+sambandha, abhidheya, prayojana-nāma  
+sambandha  abhidheya  prayojana  by name  
+ei tina artha sarva-sūtre paryavasāna  
+these  three  meanings  in all the sūtras  the conclusion
+
+(146) *Sambandha*, *abhidheya* and *prayojana* — relationship, means and goal: in these three meanings all the sūtras find their conclusion.”[^48]
+
+এইমত সর্ব্বসূত্রের ব্যাখ্যান শুনিয়া ৷  
+সকল সন্ন্যাসী কহে বিনয় করিয়া ॥ ১৪৭ ॥
+
+ei-mata sarva-sūtrera vyākhyāna śuniyā  
+in this  way  of all the sūtras  the explanation  hearing  
+sakala sannyāsī kahe vinaya kariyā  
+all  the sannyāsīs  say  humility  showing
+
+(147) Hearing all the sūtras explained in this way, all the sannyāsīs humbly said:
+
+বেদময়-মূর্ত্তি তুমি, — সাক্ষাৎ নারায়ণ ৷  
+ক্ষম অপরাধ, — পূর্ব্বে যে কৈলুঁ নিন্দন ॥ ১৪৮ ॥
+
+vedamaya-mūrti tumi, — sākṣāt nārāyaṇa  
+made of the Vedas  the form  You  directly  Nārāyaṇa  
+kṣama aparādha, — pūrve ye kailum̐ nindana  
+forgive  the offence  before  which  we made  blasphemy
+
+(148) “You are the Vedas embodied — Nārāyaṇa Himself. Forgive the offence of our blasphemy before.”
+
+সেই হৈতে সন্ন্যাসীর ফিরে গেল মন ৷  
+‘কৃষ্ণ’ ‘কৃষ্ণ’ নাম সদা করয়ে গ্রহণ ॥ ১৪৯ ॥
+
+sei haite sannyāsīra phire gela mana  
+that  from  of the sannyāsīs  turned  went  the minds  
+‘kṛṣṇa’ ‘kṛṣṇa’ nāma sadā karaye grahaṇa  
+‘Kṛṣṇa’  ‘Kṛṣṇa’  the name  always  they make  taking
+
+(149) From that time the sannyāsīs’ hearts were changed, and they always took the name “Kṛṣṇa, Kṛṣṇa”.
+
+এইমতে তাঁ-সবার ক্ষমি’ অপরাধ ৷  
+সবাকারে কৃষ্ণনাম করিল প্রসাদ ॥ ১৫০ ॥
+
+ei-mate tām̐-sabāra kṣami’ aparādha  
+in this  way  of them all  forgiving  the offences  
+sabākāre kṛṣṇa-nāma karila prasāda  
+to all  Kṛṣṇa’s name  He made  grace
+
+(150) So, forgiving all their offences, He blessed them all with Kṛṣṇa’s name.
+
+তবে সকল সন্ন্যাসী মহাপ্রভুকে লৈয়া ৷  
+ভিক্ষা করিলেন সবে, মধ্যে বসাইয়া ॥ ১৫১ ॥
+
+tabe sakala sannyāsī mahāprabhuke laiyā  
+then  all  sannyāsīs  Mahāprabhu  taking  
+bhikṣā karilena sabe, madhye vasāiyā  
+alms  took  all  in the middle  seating
+
+(151) Then all the sannyāsīs took their meal together with Mahāprabhu, seating Him in their midst.
+
+ভিক্ষা করি’ মহাপ্রভু আইলা বাসাঘর ৷  
+হেন চিত্র লীলা করে গৌরাঙ্গ-সুন্দর ॥ ১৫২ ॥
+
+bhikṣā kari’ mahāprabhu āilā vāsāghara  
+alms  having taken  Mahāprabhu  came  to His lodging  
+hena citra līlā kare gaurāṅga-sundara  
+such  wonderful  pastime  performs  the beautiful Gaurāṅga
+
+(152) After the meal Mahāprabhu returned to His lodging. Such are the wonderful pastimes of the beautiful Gaurāṅga.
+
+চন্দ্রশেখর, তপন মিশ্র, আর সনাতন ৷  
+শুনি’ দেখি’ আনন্দিত সবাকার মন ॥ ১৫৩ ॥
+
+candraśekhara, tapana miśra, āra sanātana  
+Candraśekhara  Tapana  Miśra  and  Sanātana  
+śuni’ dekhi’ ānandita sabākāra mana  
+hearing  seeing  joyful  of all  the minds
+
+(153) Candraśekhara, Tapana Miśra and Sanātana rejoiced at heart to hear and see all this.
+
+প্রভুকে দেখিতে আইসে সকল সন্ন্যাসী ৷  
+প্রভুর প্রশংসা করে সব বারাণসী ॥ ১৫৪ ॥
+
+prabhuke dekhite āise sakala sannyāsī  
+the Lord  to see  come  all  sannyāsīs  
+prabhura praśaṁsā kare saba vārāṇasī  
+the Lord’s  praise  makes  all  Vārāṇasī
+
+(154) All the sannyāsīs came to see the Lord, and all Vārāṇasī sang His praises.
+
+বারাণসীপুরী আইলা শ্রীকৃষ্ণচৈতন্য ৷  
+পুরীসহ সর্ব্বলোক হৈল মহাধন্য ॥ ১৫৫ ॥
+
+vārāṇasī-purī āilā śrī-kṛṣṇa-caitanya  
+to the city of Vārāṇasī  came  Śrī Kṛṣṇa Caitanya  
+purī-saha sarva-loka haila mahā-dhanya  
+with the city  all the people  became  greatly blessed
+
+(155) Śrī Kṛṣṇa Caitanya had come to the city of Vārāṇasī, and the city and all its people were greatly blessed.
+
+লক্ষ লক্ষ লোক আইসে প্রভুকে দেখিতে ৷  
+মহাভিড় হৈল দ্বারে, নারে প্রবেশিতে ॥ ১৫৬ ॥
+
+lakṣa lakṣa loka āise prabhuke dekhite  
+hundreds of thousands  of people  come  the Lord  to see  
+mahā-bhiḍa haila dvāre, nāre praveśite  
+a great crowd  formed  at the door  they cannot  enter
+
+(156) People came in their hundreds of thousands to see the Lord; there was such a crowd at the door that no one could get in.
+
+প্রভু যবে যা’ন বিশ্বেশ্বর-দরশনে ৷  
+লক্ষ লক্ষ লোক আসি’ মিলে সেই স্থানে ॥ ১৫৭ ॥
+
+prabhu yabe yā’na viśveśvara-daraśane  
+the Lord  when  goes  to see Viśveśvara  
+lakṣa lakṣa loka āsi’ mile sei sthāne  
+hundreds of thousands  of people  coming  gather  at that  place
+
+(157) Whenever the Lord went to see Viśveśvara, hundreds of thousands of people gathered there.
+
+স্নান করিতে যবে যা’ন গঙ্গাতীরে ৷  
+তাহাঞি সকল লোক হয় মহাভিড়ে ॥ ১৫৮ ॥
+
+snāna karite yabe yā’na gaṅgā-tīre  
+bath  to take  when  He goes  to the bank of the Gaṅgā  
+tāhāñi sakala loka haya mahā-bhiḍe  
+there  all  the people  make  a great crowd
+
+(158) When He went to bathe on the bank of the Gaṅgā, there too all the people thronged in a great crowd.
+
+বাহু তুলি’ প্রভু বলে, — বল হরি হরি ৷  
+হরিধ্বনি করে লোক স্বর্গমর্ত্ত্য ভরি’ ॥ ১৫৯ ॥
+
+bāhu tuli’ prabhu bale, — bala hari hari  
+arms  raising  the Lord  says  say  Hari  Hari  
+hari-dhvani kare loka svarga-martya bhari’  
+the sound of Hari  make  the people  heaven and earth  filling
+
+(159) Raising His arms, the Lord would say, “Chant ‘Hari! Hari!’”, and the people’s cry of “Hari!” filled heaven and earth.
+
+লোক নিস্তারিয়া প্রভুর চলিতে হৈল মন ৷  
+বৃন্দাবনে পাঠাইলা শ্রীসনাতন ॥ ১৬০ ॥
+
+loka nistāriyā prabhura calite haila mana  
+the people  having delivered  the Lord’s  to depart  came  the mind  
+vṛndāvane pāṭhāilā śrī-sanātana  
+to Vṛndāvana  He sent  Śrī Sanātana
+
+(160) Having delivered the people, the Lord decided to leave, and He sent Śrī Sanātana to Vṛndāvana.
+
+রাত্রি-দিবসে লোকের শুনি’ কোলাহল ৷  
+বারাণসী ছাড়ি’ প্রভু আইলা নীলাচল ॥ ১৬১ ॥
+
+rātri-divase lokera śuni’ kolāhala  
+night and day  of the people  hearing  the clamour  
+vārāṇasī chāḍi’ prabhu āilā nīlācala  
+Vārāṇasī  leaving  the Lord  came  to Nīlācala
+
+(161) Hearing the clamour of the crowds night and day, the Lord left Vārāṇasī and returned to Nīlācala.
+
+এই লীলা কহিব আগে বিস্তার করিয়া ৷  
+সংক্ষেপে কহিলাঙ ইহাঁ প্রসঙ্গ পাইয়া ॥ ১৬২ ॥
+
+ei līlā kahiba āge vistāra kariyā  
+this  pastime  I shall tell  later  in detail  making  
+saṅkṣepe kahilāṅa ihām̐ prasaṅga pāiyā  
+briefly  I have told  here  the occasion  finding
+
+(162) I shall tell these pastimes in detail later; here I have told them briefly, as the occasion arose.[^49]
+
+এই পঞ্চতত্ত্বরূপে শ্রীকৃষ্ণচৈতন্য ৷  
+কৃষ্ণ-নাম-প্রেম দিয়া বিশ্ব কৈল ধন্য ॥ ১৬৩ ॥
+
+ei pañca-tattva-rūpe śrī-kṛṣṇa-caitanya  
+in this  form of the Pañca-tattva  Śrī Kṛṣṇa Caitanya  
+kṛṣṇa-nāma-prema diyā viśva kaila dhanya  
+Kṛṣṇa’s name and prema  giving  the world  made  blessed
+
+(163) Thus, in the form of the Pañca-tattva, Śrī Kṛṣṇa Caitanya gave Kṛṣṇa’s name and love for Him and blessed the whole world.
+
+মথুরাতে পাঠাইল রূপ-সনাতন ৷  
+দুই সেনাপতি কৈল ভক্তি প্রচারণ ॥ ১৬৪ ॥
+
+mathurāte pāṭhāila rūpa-sanātana  
+to Mathurā  He sent  Rūpa and Sanātana  
+dui senā-pati kaila bhakti pracāraṇa  
+the two  generals  made  of bhakti  spreading
+
+(164) He sent Rūpa and Sanātana to Mathurā, and these two commanders spread bhakti there.
+
+নিত্যানন্দ-গোসাঞে পাঠাইলা গৌড়দেশে ৷  
+তেঁহো ভক্তি প্রচারিলা অশেষ-বিশেষে ॥ ১৬৫ ॥
+
+nityānanda-gosāñe pāṭhāilā gauḍa-deśe  
+Nityānanda Gosāñi  He sent  to the land of Gauḍa  
+tem̐ho bhakti pracārilā aśeṣa-viśeṣe  
+He  bhakti  preached  in every possible way
+
+(165) He sent Nityānanda Gosāñi to the land of Gauḍa, and there He preached bhakti in every possible way.
+
+আপনে দক্ষিণ দেশ করিলা গমন ৷  
+গ্রামে গ্রামে কৈলা কৃষ্ণনাম প্রচারণ ॥ ১৬৬ ॥
+
+āpane dakṣiṇa deśa karilā gamana  
+Himself  to the southern  country  made  going  
+grāme grāme kailā kṛṣṇa-nāma pracāraṇa  
+in village  in village  He made  of Kṛṣṇa’s name  spreading
+
+(166) He Himself went to the south and spread Kṛṣṇa’s name from village to village.
+
+সেতুবন্ধ পর্য্যন্ত কৈল ভক্তির প্রচার ৷  
+কৃষ্ণপ্রেম দিয়া কৈল সবার নিস্তার ॥ ১৬৭ ॥
+
+setubandha paryanta kaila bhaktira pracāra  
+Setubandha  as far as  He made  of bhakti  preaching  
+kṛṣṇa-prema diyā kaila sabāra nistāra  
+Kṛṣṇa-prema  giving  He made  of all  deliverance
+
+(167) As far as Setubandha He preached bhakti, and, giving Kṛṣṇa-prema, He delivered everyone.
+
+এই ত’ কহিল পঞ্চতত্ত্বের ব্যাখ্যান ৷  
+ইহার শ্রবণে হয় চৈতন্যতত্ত্ব-জ্ঞান ॥ ১৬৮ ॥
+
+ei ta’ kahila pañca-tattvera vyākhyāna  
+thus  indeed  I have told  of the Pañca-tattva  the explanation  
+ihāra śravaṇe haya caitanya-tattva-jñāna  
+of this  by hearing  comes  of Caitanya’s truth  knowledge
+
+(168) Thus I have given the explanation of the Pañca-tattva; by hearing it one comes to know the truth of Caitanya.
+
+শ্রীচৈতন্য, নিত্যানন্দ, অদ্বৈত, — তিন জন ৷  
+শ্রীবাস-গদাধর-আদি যত ভক্তগণ ॥ ১৬৯ ॥
+
+śrī-caitanya, nityānanda, advaita, — tina jana  
+Śrī Caitanya  Nityānanda  Advaita  three  persons  
+śrīvāsa-gadādhara-ādi yata bhakta-gaṇa  
+Śrīvāsa  Gadādhara  and others  all  devotees
+
+(169) Śrī Caitanya, Nityānanda and Advaita — the three; Śrīvāsa, Gadādhara and all the other devotees —
+
+সবাকার পাদপদ্মে কোটি নমস্কার ৷  
+যৈছে তৈছে কহি কিছু চৈতন্য-বিহার ॥ ১৭০ ॥
+
+sabākāra pādapadme koṭi namaskāra  
+of all  at the lotus feet  millions of  obeisances  
+yaiche taiche kahi kichu caitanya-vihāra  
+somehow  I tell  something  of Caitanya’s pastimes
+
+(170) at the lotus feet of all of them I bow millions of times, and as best I can I tell something of Caitanya’s pastimes.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৭১ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(171) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
@@ -1434,3 +1814,17 @@ the secondary meaning  explanation  he makes  all  imagining
 [^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
 
 [^42]: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
+
+[^43]: *Amṛta-pravāha-bhāṣya*: “O Śrī Kṛṣṇa Caitanya, the reasoning by which You have refuted Śaṅkara’s meaning is no idle quarrel: a fortunate person accepts it as the truth.”
+
+[^44]: The edition’s heading: “The Lord’s explanation: (1) Bhagavān Kṛṣṇa is the *sambandha*.” *Amṛta-pravāha-bhāṣya*: in the *Bṛhad-āraṇyaka Upaniṣad* (*pūrṇam adaḥ…*, 5.1) the Supreme Truth, full of the six opulences, is called “the great reality”; the Purāṇas describe the same marks by the word “Bhagavān”. So wherever the Vedas say “Brahman”, the word fulfils its meaning when it is understood as Śrī Bhagavān.
+
+[^45]: *Amṛta-pravāha-bhāṣya*: Bhagavān, embracing the featureless aspect within Himself, is eternally endowed with attributes; to call Him featureless is not to accept His *cit-śakti*. Brahman possesses spiritual potency and is therefore personal; one who does not accept half of His being diminishes His fullness.
+
+[^46]: The edition’s heading to 7.141: “(2) *Sādhana-bhakti*, beginning with hearing, is the means — the *abhidheya*.” *Amṛta-pravāha-bhāṣya*: to attain the shelter of Bhagavān’s feet, all the Vedas prescribe *sādhana-bhakti*; from its nine forms, beginning with hearing, Kṛṣṇa-prema springs up.
+
+[^47]: The edition’s heading to 7.143: “(3) Kṛṣṇa-prema is the goal (*prayojana*), the fifth aim of life.”
+
+[^48]: *Amṛta-pravāha-bhāṣya*: knowledge of *sambandha* is the answer to the questions: who am I, what is this world, who is Bhagavān and what is our relationship; *abhidheya* is what one must do, having learned this; *prayojana* is the fruit of that endeavour. *Anubhāṣya* (on 7.106): the first two chapters of the *Vedānta-sūtra* speak of *sambandha*, the third of *abhidheya*, *sādhana-bhakti*, the fourth of *prayojana*, love for Bhagavān; the natural commentary on the sūtras, written by Vyāsa himself, is the *Śrīmad-Bhāgavatam*.
+
+[^49]: *Amṛta-pravāha-bhāṣya*: “later” — see *Madhya-līlā*, chapter 25.
