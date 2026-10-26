@@ -903,6 +903,327 @@ that  mood  follow  His  parts
 
 (86) The root of the devotee’s self-conception is in Śrī Balarāma, and all His parts follow Him in that mood.[^39]
 
+তাঁর অবতার এক শ্রীসঙ্কর্ষণ ৷  
+ভক্ত বলি’ অভিমান করে সর্ব্বক্ষণ ॥ ৮৭ ॥
+
+tām̐ra avatāra eka śrī-saṅkarṣaṇa  
+His  avatāra  one  Śrī Saṅkarṣaṇa  
+bhakta bali’ abhimāna kare sarva-kṣaṇa  
+a devotee  as  self-conception  holds  at every moment
+
+(87) One avatāra of His is Śrī Saṅkarṣaṇa, who at every moment thinks of Himself as a devotee.
+
+তাঁর অবতার আন শ্রীযুত লক্ষ্মণ ৷  
+শ্রীরামের দাস্য তিঁহো কৈল অনুক্ষণ ॥ ৮৮ ॥
+
+tām̐ra avatāra āna śrī-yuta lakṣmaṇa  
+His  avatāra  another  the glorious  Lakṣmaṇa  
+śrī-rāmera dāsya tim̐ho kaila anukṣaṇa  
+Śrī Rāma’s  service  he  did  constantly
+
+(88) Another avatāra of His is the glorious Lakṣmaṇa, who served Śrī Rāma at every moment.
+
+সঙ্কর্ষণ-অবতার কারণাব্ধিশায়ী ৷  
+তাঁহার হৃদয়ে ভক্ত-ভাব অনুয়ায়ী ॥ ৮৯ ॥
+
+saṅkarṣaṇa-avatāra kāraṇābdhi-śāyī  
+of Saṅkarṣaṇa  the avatāra  in the Causal Ocean  lying  
+tām̐hāra hṛdaye bhakta-bhāva anuyāyī  
+His  in the heart  the devotee’s  mood  accordingly
+
+(89) The avatāra of Saṅkarṣaṇa who lies in the Causal Ocean likewise bears the mood of a devotee in His heart.
+
+তাঁহার প্রকাশ-ভেদ, অদ্বৈত-আচার্য্য ৷  
+কায়মনোবাক্যে তাঁর ভক্তি সদা কার্য্য ॥ ৯০ ॥
+
+tām̐hāra prakāśa-bheda, advaita-ācārya  
+His  manifestation  distinct  Advaita  Ācārya  
+kāya-mano-vākye tām̐ra bhakti sadā kārya  
+in body  mind  speech  His  devotion  always  the work
+
+(90) A distinct manifestation of His is Advaita Ācārya, whose work at every moment is devotion to the Lord in body, mind and speech.
+
+বাক্যে কহে, মুঞি চৈতন্যের অনুচর ৷  
+মুঞি তাঁর ভক্ত — মনে ভাবে নিরন্তর ॥ ৯১ ॥
+
+vākye kahe, muñi caitanyera anucara  
+in words  He says  I  Caitanya’s  attendant  
+muñi tām̐ra bhakta — mane bhāve nirantara  
+I  His  devotee  in His mind  He thinks  constantly
+
+(91) In words He says, “I am Caitanya’s attendant,” and in His mind He thinks at every moment, “I am His devotee.”
+
+জল-তুলসী দিয়া করে কায়াতে সেবন ৷  
+ভক্তি প্রচারিয়া সব তারিলা ভুবন ॥ ৯২ ॥
+
+jala-tulasī diyā kare kāyāte sevana  
+water  tulasī  offering  He does  with the body  service  
+bhakti pracāriyā saba tārilā bhuvana  
+bhakti  spreading  all  He delivered  the world
+
+(92) With His body He serves, offering water and tulasī, and by spreading bhakti He has delivered the whole world.
+
+পৃথিবী ধরেন যেই শেষ-সঙ্কর্ষণ ৷  
+কায়ব্যূহ করি’ করেন কৃষ্ণের সেবন ॥ ৯৩ ॥
+
+pṛthivī dharena yei śeṣa-saṅkarṣaṇa  
+the earth  holds  who  Śeṣa-Saṅkarṣaṇa  
+kāya-vyūha kari’ karena kṛṣṇera sevana  
+bodily expansions  making  does  Kṛṣṇa’s  service
+
+(93) Śeṣa-Saṅkarṣaṇa, who holds up the earth, expands Himself into many bodies to serve Kṛṣṇa.[^40]
+
+এই সব হয় শ্রীকৃষ্ণের অবতার ৷  
+নিরন্তর দেখি সবার ভক্তির আচার ॥ ৯৪ ॥
+
+ei saba haya śrī-kṛṣṇera avatāra  
+these  all  are  Śrī Kṛṣṇa’s  avatāras  
+nirantara dekhi sabāra bhaktira ācāra  
+constantly  we see  of all  devotion’s  conduct
+
+(94) All these are avatāras of Śrī Kṛṣṇa, yet we always see Them conduct Themselves as devotees.
+
+এ সবাকে শাস্ত্রে কহে ‘ভক্ত-অবতার’ ৷  
+‘ভক্ত-অবতার’ পদ উপরি সবার ॥ ৯৫ ॥
+
+e sabāke śāstre kahe ‘bhakta-avatāra’  
+these all  the scriptures  call  devotee-avatāras  
+‘bhakta-avatāra’ pada upari sabāra  
+the devotee-avatāra’s  position  above  all
+
+(95) The scriptures call all of Them devotee-avatāras, and the position of a devotee-avatāra is above all others.[^41]
+
+একমাত্র ‘অংশী’ — কৃষ্ণ, ‘অংশ’ — অবতার ৷  
+অংশী-অংশে দেখি জ্যেষ্ঠ-কনিষ্ঠ-আচার ॥ ৯৬ ॥
+
+eka-mātra ‘aṁśī’ — kṛṣṇa, ‘aṁśa’ — avatāra  
+the one and only  whole  Kṛṣṇa  parts  the avatāras  
+aṁśī-aṁśe dekhi jyeṣṭha-kaniṣṭha-ācāra  
+in whole and part  we see  of elder  younger  the conduct
+
+(96) Kṛṣṇa alone is the whole (*aṁśī*); the avatāras are His parts (*aṁśa*). And between the whole and the part we see the conduct of elder and younger.[^42]
+
+জ্যেষ্ঠ-ভাবে অংশীতে হয় প্রভু-জ্ঞান ৷  
+কনিষ্ঠ-ভাবে আপনাতে ভক্ত-অভিমান ॥ ৯৭ ॥
+
+jyeṣṭha-bhāve aṁśīte haya prabhu-jñāna  
+in the elder’s  mood  in the whole  is  the Master’s  awareness  
+kaniṣṭha-bhāve āpanāte bhakta-abhimāna  
+in the younger’s  mood  in oneself  the devotee’s  self-conception
+
+(97) In the mood of the elder there is, in the whole, the awareness of being the Master; in the mood of the younger there is, in oneself, the conception of being a devotee.[^43]
+
+কৃষ্ণের সমতা হৈতে বড় ভক্তপদ ৷  
+আত্মা হৈতে কৃষ্ণের ভক্ত হয় প্রেমাস্পদ ॥ ৯৮ ॥
+
+kṛṣṇera samatā haite baḍa bhakta-pada  
+than equality with Kṛṣṇa  greater  the devotee’s position  
+ātmā haite kṛṣṇera bhakta haya premāspada  
+than His own self  more  Kṛṣṇa’s  devotee  is  beloved
+
+(98) Greater than equality with Kṛṣṇa is the position of a devotee, for Kṛṣṇa’s devotee is dearer to Him than His own self.[^44]
+
+আত্মা হৈতে কৃষ্ণ ভক্তে বড় করি’ মানে ৷  
+ইহাতে বহুত শাস্ত্র-বচন প্রমাণে ॥ ৯৯ ॥
+
+ātmā haite kṛṣṇa bhakte baḍa kari’ māne  
+than Himself  Kṛṣṇa  the devotee  greater  as  regards  
+ihāte bahuta śāstra-vacana pramāṇe  
+of this  many  scriptures’  words  are the proof
+
+(99) Kṛṣṇa regards His devotee as greater than Himself, and many words of scripture prove it.
+
+ন তথা মে প্রিয়তম আত্ম-যোনির্ন শঙ্করঃ ৷  
+ন চ সঙ্কর্ষণো ন শ্রীর্নৈবাত্মা চ যথা ভবান্ ॥ ১০০ ॥
+
+na tathā me priya-tama  
+not  so  to Me  dear  
+ātma-yonir na śaṅkaraḥ  
+Brahmā  not  Śaṅkara  
+na ca saṅkarṣaṇo na śrīr  
+not  and  Saṅkarṣaṇa  not  Śrī  
+naivātmā ca yathā bhavān  
+not even  My own self  and  as  you
+
+(100) “Neither Brahmā, born of Me, nor Śaṅkara, nor Saṅkarṣaṇa, nor Śrī, nor even My own self is as dear to Me as you are.” (Śrīmad-Bhāgavatam, 11.14.15)[^45]
+
+কৃষ্ণসাম্যে নহে তাঁর মাধুর্য্যাস্বাদন ৷  
+ভক্তভাবে করে তাঁর মাধুর্য্য চর্ব্বণ ॥ ১০১ ॥
+
+kṛṣṇa-sāmye nahe tām̐ra mādhuryāsvādana  
+in equality with Kṛṣṇa  is not  His  sweetness’  tasting  
+bhakta-bhāve kare tām̐ra mādhurya carvaṇa  
+in the devotee’s mood  does  His  sweetness  relishing
+
+(101) In equality with Kṛṣṇa there is no tasting of His sweetness; it is in the mood of a devotee that one relishes it.[^46]
+
+শাস্ত্রের সিদ্ধান্ত এই, — বিজ্ঞের অনুভব ৷  
+মূঢ়লোক নাহি জানে ভাবের বৈভব ॥ ১০২ ॥
+
+śāstrera siddhānta ei, — vijñera anubhava  
+of the scriptures  the conclusion  this  of the wise  the experience  
+mūḍha-loka nāhi jāne bhāvera vaibhava  
+foolish  people  not  know  of the mood  the glory
+
+(102) This is the conclusion of the scriptures and the experience of the wise; foolish people do not know the glory of this mood.
+
+ভক্তভাব অঙ্গীকরি’ বলরাম, লক্ষ্মণ ৷  
+অদ্বৈত, নিত্যানন্দ, শেষ, সঙ্কর্ষণ ॥ ১০৩ ॥
+
+কৃষ্ণের মাধুর্য্যরসামৃত করে পান ৷  
+সেই সুখে মত্ত, কিছু নাহি জানে আন ॥ ১০৪ ॥
+
+bhakta-bhāva aṅgīkari’ balarāma, lakṣmaṇa  
+the devotee’s  mood  accepting  Balarāma  Lakṣmaṇa  
+advaita, nityānanda, śeṣa, saṅkarṣaṇa  
+Advaita  Nityānanda  Śeṣa  Saṅkarṣaṇa  
+kṛṣṇera mādhurya-rasāmṛta kare pāna  
+Kṛṣṇa’s  sweetness’  nectar of rasa  they  drink  
+sei sukhe matta, kichu nāhi jāne āna  
+in that  happiness  intoxicated  anything  not  know  else
+
+(103–104) Accepting the mood of devotees, Balarāma, Lakṣmaṇa, Advaita, Nityānanda, Śeṣa and Saṅkarṣaṇa drink the nectar of Kṛṣṇa’s sweetness; intoxicated with that happiness, They know nothing else.[^47]
+
+অন্যের আছুক্ কার্য্য, আপনে শ্রীকৃষ্ণ ৷  
+আপন-মাধুর্য্য-পানে হইলা সতৃষ্ণ ॥ ১০৫ ॥
+
+anyera āchuk kārya, āpane śrī-kṛṣṇa  
+of others  let it be  the matter  Himself  Śrī Kṛṣṇa  
+āpana-mādhurya-pāne hailā satṛṣṇa  
+His own  sweetness  to drink  became  thirsty
+
+(105) Let alone others: Śrī Kṛṣṇa Himself became thirsty to drink His own sweetness.
+
+স্বমাধুর্য্য আস্বাদিতে করেন যতন ৷  
+ভক্তভাব বিনু নহে তাহা আস্বাদন ॥ ১০৬ ॥
+
+svamādhurya āsvādite karena yatana  
+His own sweetness  to taste  He makes  effort  
+bhakta-bhāva vinu nahe tāhā āsvādana  
+the devotee’s  mood  without  is not  its  tasting
+
+(106) He strives to taste His own sweetness, but without the mood of a devotee it cannot be tasted.
+
+ভক্তভাব অঙ্গীকরি’ হৈলা অবতীর্ণ ৷  
+শ্রীকৃষ্ণচৈতন্যরূপে সর্ব্বভাবে পূর্ণ ॥ ১০৭ ॥
+
+bhakta-bhāva aṅgīkari’ hailā avatīrṇa  
+the devotee’s  mood  accepting  He became  descended  
+śrī-kṛṣṇa-caitanya-rūpe sarva-bhāve pūrṇa  
+in the form of Śrī Kṛṣṇa Caitanya  in all  moods  full
+
+(107) So, accepting the mood of a devotee, He descended in the form of Śrī Kṛṣṇa Caitanya, full of every mood (*bhāva*).[^48]
+
+নানা-ভক্তভাবে করেন স্বমাধুর্য্য পান ৷  
+পূর্ব্বে করিয়াছি এই সিদ্ধান্ত ব্যাখ্যান ॥ ১০৮ ॥
+
+nānā-bhakta-bhāve karena sva-mādhurya pāna  
+in various  devotees’  moods  He makes  of His own  sweetness  drinking  
+pūrve kariyāchi ei siddhānta vyākhyāna  
+before  I have made  of this  conclusion  the explanation
+
+(108) In the moods of various devotees He drinks His own sweetness. I have explained this conclusion before.[^49]
+
+অবতারগণের ভক্তভাবে অধিকার ৷  
+ভক্তভাব হৈতে অধিক সুখ নাহি আর ॥ ১০৯ ॥
+
+avatāra-gaṇera bhakta-bhāve adhikāra  
+of the avatāras  in the devotee’s mood  the right  
+bhakta-bhāva haite adhika sukha nāhi āra  
+than the devotee’s mood  greater  happiness  is not  other
+
+(109) All the avatāras have a claim to the mood of a devotee; there is no happiness greater than the mood of a devotee.
+
+মূল-ভক্ত-অবতার শ্রীসঙ্কর্ষণ ৷  
+ভক্ত-অবতার তঁহি অদ্বৈতে গণন ॥ ১১০ ॥
+
+mūla-bhakta-avatāra śrī-saṅkarṣaṇa  
+the original  devotee-avatāra  Śrī Saṅkarṣaṇa  
+bhakta-avatāra tam̐hi advaite gaṇana  
+devotee-avatāra  among them  Advaita  is counted
+
+(110) The original devotee-avatāra is Śrī Saṅkarṣaṇa, and among the devotee-avatāras Advaita too is counted.[^50]
+
+অদ্বৈত-আচার্য্য গোসাঞির মহিমা অপার ৷  
+যাঁহার হুঙ্কারে কৈল চৈতন্যাবতার ॥ ১১১ ॥
+
+advaita-ācārya gosāñira mahimā apāra  
+Advaita  Ācārya  Gosāñi’s  glory  boundless  
+yām̐hāra huṅkāre kaila caitanyāvatāra  
+by whose  roar  was made  Caitanya’s descent
+
+(111) The glory of Advaita Ācārya Gosāñi is boundless: it was by His roar that Caitanya descended.
+
+সঙ্কীর্ত্তন প্রচারিয়া সব জগৎ তারিল ৷  
+অদ্বৈত-প্রসাদে লোক প্রেমধন পাইল ॥ ১১২ ॥
+
+saṅkīrtana pracāriyā saba jagat tārila  
+saṅkīrtana  spreading  all  the world  He delivered  
+advaita-prasāde loka prema-dhana pāila  
+by Advaita’s  grace  people  the treasure of prema  obtained
+
+(112) By spreading saṅkīrtana He delivered the whole world; by Advaita’s grace people obtained the treasure of prema.
+
+অদ্বৈত-মহিমা অনন্ত কে পারে কহিতে ৷  
+সেই লিখি, যেই শুনি মহাজন হৈতে ॥ ১১৩ ॥
+
+advaita-mahimā ananta ke pāre kahite  
+Advaita’s  glory  endless  who  can  tell  
+sei likhi, yei śuni mahājana haite  
+that  I write  which  I have heard  great souls  from
+
+(113) Who can tell the endless glory of Advaita? I write only what I have heard from great souls.
+
+আচার্য্য-চরণে মোর কোটি নমস্কার ৷  
+ইথে কিছু অপরাধ না লবে আমার ॥ ১১৪ ॥
+
+ācārya-caraṇe mora koṭi namaskāra  
+at the Ācārya’s  feet  my  millions of  obeisances  
+ithe kichu aparādha nā labe āmāra  
+in this  any  offence  not  may He take  mine
+
+(114) Millions of times I bow at the Ācārya’s feet. May He not count any offence of mine in this.
+
+তোমার মহিমা — কোটিসমুদ্র অগাধ ৷  
+তাহার ইয়ত্তা কহি — এ বড় অপরাধ ॥ ১১৫ ॥
+
+tomāra mahimā — koṭi-samudra agādha  
+Your  glory  (like) millions of oceans  fathomless  
+tāhāra iyattā kahi — e baḍa aparādha  
+its  measure  I tell  this  great  offence
+
+(115) Your glory is as fathomless as millions of oceans; to speak of its measure is a great offence.
+
+জয় জয় জয় শ্রীঅদ্বৈত আচার্য্য ৷  
+জয় জয় শ্রীচৈতন্য, নিত্যানন্দ আর্য্য ॥ ১১৬ ॥
+
+jaya jaya jaya śrī-advaita ācārya  
+glory  glory  glory  to Śrī Advaita  Ācārya  
+jaya jaya śrī-caitanya, nityānanda ārya  
+glory  glory  to Śrī Caitanya  to Nityānanda  the venerable
+
+(116) Glory, glory, glory to Śrī Advaita Ācārya! Glory, glory to Śrī Caitanya and to the venerable Nityānanda!
+
+দুই শ্লোকে কহিল অদ্বৈত-তত্ত্বনিরূপণ ৷  
+পঞ্চতত্ত্বের বিচার কিছু শুন, ভক্তগণ ॥ ১১৭ ॥
+
+dui śloke kahila advaita-tattva-nirūpaṇa  
+in two  verses  I have told  of Advaita’s  truth  the determination  
+pañca-tattvera vicāra kichu śuna, bhakta-gaṇa  
+of the Pañca-tattva  the consideration  a little  hear  O devotees
+
+(117) In two verses I have set out the truth of Advaita. Now, O devotees, hear something of the Pañca-tattva.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১১৮ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(118) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: The same verse as Ādi 1.12. The edition ascribes verses 6.4–6.5 to the diary of Svarūpa Dāmodara («শ্রীস্বরূপগোস্বামি-কড়চায় শ্লোক»; heading: “explanation of the twelfth and thirteenth of the first fourteen verses of the Ādi”). *Anubhāṣya*: Mahā-Viṣṇu, the maker of the world, is the shelter of the efficient cause (*nimitta*), and His avatāra, the Lord Advaita Ācārya, is the shelter of the material cause (*upādāna*).
@@ -982,3 +1303,25 @@ that  mood  follow  His  parts
 [^38]: *Anubhāṣya*: service to Śrī Caitanya is the very nature (*svarūpa-dharma*) of the jīva, an atom of spirit. Forgetting it, the bound soul is drawn to material enjoyment; yet even then, lording it over things, it remains an unworthy servant of Caitanya.
 
 [^39]: The edition’s heading: “Baladeva and all His partial avatāras think of themselves as Kṛṣṇa’s servants.”
+
+[^40]: *Anubhāṣya*: *kāya-vyūha* — the ten bodies (see 6.76).
+
+[^41]: *Anubhāṣya*: when the Lord descends into the world to display His majesty, the image of the devotee-avatāra is the most precious and needful for the good of the souls and for awakening bhajana in them. Looking with worldly eyes at avatāras in whom majesty predominates, souls often come to grief: many fools call themselves “Vāsudeva” and the like and after death are born as jackals. Pride, intoxicating the bound soul with a longing for divine majesty, turns it into a Māyāvādī.
+
+[^42]: The edition’s heading: “The elder-and-younger conduct of the partial avatāras towards Kṛṣṇa, the whole.”
+
+[^43]: *Anubhāṣya*: a part is called *aṁśa*, and that of which it is a part, *aṁśī*; the whole is the Master (*prabhu*), the part is the devotee, and their relation is that of elder and younger: the elder is called the Master, the younger the devotee. The whole is Kṛṣṇa; the parts are Baladeva and the manifestations of Mahā-Viṣṇu of the same nature as He. Kṛṣṇa knows Himself as the Master, Baladeva and the others know themselves as devotees. The edition’s heading: “The elder partial avatāra sees the younger whole as his Master, and the younger partial avatāra thinks of himself as the servant of the elder whole” — as Baladeva before Kṛṣṇa, and Lakṣmaṇa before Rāma.
+
+[^44]: *Anubhāṣya*: the devotee’s position — service to Kṛṣṇa — is higher than any claim to equality with Him, for Kṛṣṇa loves His servants more than He loves Himself. The best witness to this is the *Bhāgavatam* (9.4.68): “The saints are My heart, and I am the heart of the saints. They know no one but Me, and I know no one but them.”
+
+[^45]: *Anubhāṣya*: Kṛṣṇa speaks to Uddhava, the best of His devotees; *ātmā* — “I Myself, even My own form”.
+
+[^46]: *Anubhāṣya* (on 6.101–6.102): in the liberations of *sārūpya* and the rest, as in the position of Viṣṇu-tattva, equality with Kṛṣṇa keeps the sweetness of His service from being tasted as it is in the devotee’s mood; the devotee claims no equality with Kṛṣṇa as an enjoyer, and therefore he fully realises His sweetness, as if savouring it. Ordinary people, out of folly and greed for mastery, are by nature unable to feel the summit of service; only the experienced, deeply immersed in the scriptures, understand this subtle truth.
+
+[^47]: The edition’s heading: “Nityānanda, Rāma and the other forms of Viṣṇu taste Kṛṣṇa’s sweetness by accepting the devotee’s mood.”
+
+[^48]: *Anubhāṣya* (on 6.107–6.108): to taste the five rasas — śānta, dāsya, sakhya, vātsalya and mādhurya — Śrī Gaurahari accepted the moods of devotees, and so He is full of every bhāva; taking up the moods of devotees of different kinds, Gauracandra drinks His own sweetness. On 6.106: to know how His devotees taste His sweetness, He Himself became a devotee.
+
+[^49]: Before — in Ādi 4: on 6.105–6.106 the *Anubhāṣya* refers to Ādi 4.137–4.158.
+
+[^50]: *Anubhāṣya*: Advaita Prabhu, though He is Viṣṇu-tattva, displayed the pastime of a servant befitting an associate of Śrī Caitanya; that the Viṣṇu-tattva thinks of Himself as a servant is what makes Him a devotee-avatāra. Śrī Saṅkarṣaṇa, who abides in Mahā-Vaikuṇṭha as the Lord of the fourfold expansion, is the original devotee-avatāra; from Him comes Mahā-Viṣṇu in the waters of the Causal Ocean, and Śrī Advaita Ācārya is the avatāra of that Mahā-Viṣṇu. All the manifestations of Saṅkarṣaṇa are engaged in the service of Kṛṣṇa, the original form, and therefore Advaita Prabhu is the servant of Gaura-Kṛṣṇa, a devotee-avatāra.
