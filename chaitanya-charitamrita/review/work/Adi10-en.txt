@@ -1,0 +1,171 @@
+# English translation, Ādi-līlā 10 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Description of the Branches of the Main Trunk
+
+## 1
+w: of Śrī Caitanya’s  lotus feet
+w: to the bees  obeisance  obeisance
+w: in any way  by taking shelter  of whom
+w: even a dog  of that fragrance  a partaker  may become
+tr: Again and again I bow to the bees that drink the honey of Śrī Caitanya’s lotus feet. Whoever takes shelter of them in any way at all, even one as low as a dog, comes to share in the fragrance of those feet.
+fn: *Anubhāṣya*: the “dog” is one absorbed in enjoyment and without faith in the Lord’s devotees; to “share in the fragrance” of the feet is to receive devotion to Gaura.
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  to Nityānanda
+w: glory to Advaitacandra  glory  to the host of Gaura’s devotees
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya and Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: of this gardener — of this tree  inexpressible  the account
+w: now  hear  of the main branches  of the names  the account
+tr: This gardener, this tree, is beyond all telling. Now hear the names of its principal branches.
+
+## 4
+w: of Caitanya Gosāñi  as many  associates  the host
+w: lesser or greater  status  their  not  is  determinable
+tr: Of all the host of Caitanya Gosāñi’s associates, none can determine who is greater and who is lesser.
+fn: Heading in the edition: “Among Gaura’s devotees there is no division into higher and lower.”
+
+## 5
+w: as many  as many  great souls  made  of them all  an enumeration
+w: anyone  to make  is not able  of senior and junior  the order
+tr: Many great souls have listed them all, yet none has been able to rank them as senior and junior.
+
+## 6
+w: therefore  to them all  having made  obeisance
+w: names  only  I give  fault  do not take  my
+tr: Therefore, bowing down to them all, I shall simply name them. Please do not count this as a fault in me.
+
+## 7
+w: I worship  of Śrī Kṛṣṇa Caitanya,
+w: the immortal tree of love,  the dear ones
+w: in the form of branches  the devotees
+w: of love for Kṛṣṇa  the fruit  who give
+tr: Śrī Kṛṣṇa Caitanya is the immortal tree of love. I worship His dear devotees, who are the branches of that tree and give everyone the fruit of love for Kṛṣṇa.
+fn: *Amṛta-pravāha-bhāṣya*: the wish-fulfilling tree of love is Śrī Kṛṣṇa Caitanya Himself, and His dear devotees are its branches, which give the fruit of love for Kṛṣṇa.
+
+## 8
+w: Śrīvāsa  Paṇḍita  and  Śrī  Rāma  Paṇḍita
+w: two  brothers —  two  branches  in the world  renowned
+tr: Śrīvāsa Paṇḍita and Śrī Rāma Paṇḍita — two brothers, two branches — are renowned throughout the world.
+fn: In the Gauḍīya Maṭha edition the branches are listed under numbered headings: (1 — a, b, c, d) Śrīvāsa, Śrī Rāma and their two brothers; (2) Candraśekhara; (3) Puṇḍarīka Vidyānidhi, and so on; the offshoots of a branch are marked with letters (20a — Satyarāja, an offshoot of Haridāsa’s branch). The ordinal numbers of the branches in the translation follow these headings. *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Śrīvāsa was Nārada Muni, and Śrī Rāma the sage Parvata, Nārada’s friend; Śrīvāsa’s wife Mālinī was Ambikā, Kṛṣṇa’s nurse; Śrīvāsa’s niece Nārāyaṇī was the mother of Ṭhākura Vṛndāvana dāsa. After Mahāprabhu took sannyāsa, Śrīvāsa left Navadvīpa and settled in Kumārahaṭṭa.
+
+## 9
+w: Śrīpati,  Śrīnidhi —  their  two  brothers
+w: of the four  brothers  menservants and maidservants,  household
+tr: Śrīpati and Śrīnidhi are their two brothers, and the four brothers had menservants, maidservants and a whole household.
+
+## 10
+w: of the two  branches  among the offshoots  of them all  the counting
+w: in whose  house  Mahāprabhu’s  constant  saṅkīrtana
+tr: All of them are counted among the offshoots of these two branches. In their house Mahāprabhu held saṅkīrtana constantly.
+fn: Heading in the edition: “Their undivided devotion to Gaura.”
+
+## 11
+w: with their family  render  who  Caitanya  service
+w: Gauracandra  besides  not  know  goddess or god
+tr: With their whole family they served Śrī Caitanya, and apart from Gauracandra they knew no god or goddess.
+
+## 12
+w: ‘Ācāryaratna’  the name  bears  big  one  branch
+w: his  associates  his  branches and offshoots
+tr: Another great branch bears the name Ācāryaratna; his associates are its branches and offshoots.
+
+## 13
+w: of Ācāryaratna  the name  ‘Śrī Candraśekhara’
+w: in whose  house  in the mood of the Goddess  danced  the Lord
+tr: The name of Ācāryaratna is Śrī Candraśekhara. In his house the Lord danced in the form of the Goddess, the Ādi-śakti.
+fn: *Anubhāṣya*: in Candraśekhara’s house a sacred drama was performed in which Mahāprabhu danced as the Goddess (*Caitanya-bhāgavata*, Madhya 18); the place is now known as Vraja-pattana. Candraśekhara was with Mahāprabhu in Kāṭoyā at His sannyāsa and, returning to Navadvīpa, told everyone of it. *Amṛta-pravāha-bhāṣya*: according to some books, Candraśekhara was the husband of the sister of Mahāprabhu’s mother.
+
+## 14
+w: Puṇḍarīka  Vidyānidhi —  a great  branch  I know
+w: whose  name  uttering  the Lord  wept  Himself
+tr: Puṇḍarīka Vidyānidhi is a great branch; the Lord Himself would weep as He spoke his name.
+fn: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Puṇḍarīka Vidyānidhi was Vṛṣabhānu, the father of Śrī Rādhā; Mahāprabhu called him “Father” and gave him the name Premanidhi. A disciple of Śrī Mādhavendra Purī, he was the guru of Gadādhara Paṇḍita and the friend of Svarūpa Dāmodara; his home was in Cāṭigrām.
+
+## 15
+w: a great  branch —  Gadādhara  Paṇḍita  Gosāñi
+w: he  Lakṣmī in form,  to him  equal  anyone  there is not
+tr: Another great branch is Gadādhara Paṇḍita Gosāñi. He is Lakṣmī Herself in form, and none is his equal.
+fn: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Gadādhara Paṇḍita is Śrī Rādhā, the queen of Vṛndāvana; Svarūpa Dāmodara saw in him the Lakṣmī of Vraja. His branch is described at the end of Ādi 12.
+
+## 16
+w: his  disciples and their disciples —  his  offshoots
+w: in this way  of all  the branches and offshoots  the account
+tr: His disciples and their disciples are the offshoots of this branch, and so it is with all the other branches and offshoots.
+
+## 17
+w: Vakreśvara  Paṇḍita —  of the Lord  a very  dear  servant
+w: in one ecstasy  twenty-four  praharas  whose  dance
+tr: Vakreśvara Paṇḍita was a servant very dear to the Lord. In a single unbroken ecstasy he could dance for twenty-four praharas — three days and nights.
+
+## 18
+w: Himself  Mahāprabhu  sings  whose  at the time of dancing
+w: the Lord’s  feet  clasping  Vakreśvara  says
+tr: While he danced, Mahāprabhu Himself would sing, and once Vakreśvara clasped the Lord’s feet and said:
+
+## 19
+w: ten  thousand  Gandharvas  to me  give,  O moon-faced One
+w: they  sing,  I  dance —  then  my  happiness
+tr: “O moon-faced Lord, give me ten thousand Gandharvas! Let them sing while I dance — that would be my joy.”
+
+## 20
+w: the Lord  says —  you  My  wing  one  side
+w: in the sky  flying  I would go,  if I got  another  wing
+tr: The Lord replied, “You are one of My wings. If I had another like you, I would fly up into the sky.”
+
+## 21
+w: Paṇḍita  Jagadānanda  of the Lord  the very life
+w: among people  famed  who  of Satyabhāmā  the manifestation
+tr: Paṇḍita Jagadānanda is the Lord’s very life. He is renowned as a manifestation of Satyabhāmā.
+fn: *Anubhāṣya*: in Navadvīpa he joined the Lord’s kīrtanas at Śrīvāsa’s house and in the home of Candraśekhara; after the Lord’s sannyāsa, on the way to Orissa, he carried His staff and begged alms for Him.
+
+## 22
+w: out of love  to do  wants  for the Lord  care and nurture
+w: for renunciation  people  fearing  the Lord  not  accepts  ever
+tr: Out of love he longed to surround the Lord with care and comfort, but the Lord, guarding His renunciation and wary of what people would say, never accepted it.
+
+## 23
+w: the two  little squabbles  start  quarrels
+w: of his  love  the account  later  I shall tell  all
+tr: So the two of them would fall into little quarrels. I shall tell the whole story of his love later on.
+
+## 24
+w: Rāghava  Paṇḍita —  of the Lord  an early  follower
+w: his  branch  main  one —  Makaradhvaja  Kara
+tr: Rāghava Paṇḍita was one of the Lord’s first followers, and his chief branch is Makaradhvaja Kara.
+fn: *Anubhāṣya*: Rāghava Paṇḍita’s home was in Pānihāṭi on the bank of the Gaṅgā; his samādhi is there, and the Deity Śrī Madana-mohana is still served nearby. Makaradhvaja Kara also lived in Pānihāṭi.
+
+## 25
+w: his  sister  Damayantī  of the Lord  dear  maidservant
+w: of the Lord  the provisions  who  makes  all year round
+tr: His sister Damayantī, a dear maidservant of the Lord, prepared provisions for Him all year round.
+
+## 26
+w: those  all  provisions  as many  in bags  filling
+w: Rāghava  taking  goes  secretly  keeping
+tr: Filling bags with all those provisions, Rāghava would carry them secretly to the Lord.
+
+## 27
+w: all the year  them  the Lord  accepts
+w: ‘Rāghava’s bags’  calling  the fame  of which
+tr: All year round the Lord accepted them, and they became famous as “Rāghava’s bags.”
+fn: The bags are described in Antya 10.
+
+## 28
+w: those  all  provisions  later  I shall make  in detail
+w: of which  in the hearing  of devotees  flow  streams of tears
+tr: I shall describe those provisions in detail later. Hearing of them, the devotees shed streams of tears.
+
+## 29
+w: of the Lord  extremely  dear —  Paṇḍita  Gaṅgādāsa
+w: by whose  remembrance  there is  of all  bonds  destruction
+tr: Paṇḍita Gaṅgādāsa was extremely dear to the Lord. By remembering him all bondage is destroyed.
+
+## 30
+w: Caitanya’s  associate —  Śrī  Ācārya  Purandara
+w: father  calling  whom  addresses  Gaurāṅgasundara
+tr: Śrī Purandara Ācārya was an associate of Śrī Caitanya; Gaurāṅgasundara called him Father.
+fn: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pānihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
