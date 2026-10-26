@@ -932,6 +932,366 @@ pleased  whom  led  to a secret place
 
 (88) “Surely the Lord, Bhagavān Hari, has been worshipped by Her, for Govinda, pleased, has left us and led Her away to a secluded place.” (Śrīmad-Bhāgavatam, 10.30.28)[^63]
 
+অতএব সর্ব্বপূজ্যা, পরম-দেবতা ৷  
+সর্ব্বপালিকা, সর্ব্ব-জগতের মাতা ॥ ৮৯ ॥
+
+ataeva sarva-pūjyā, parama-devatā  
+therefore  worshipped by all  the supreme  deity  
+sarva-pālikā, sarva-jagatera mātā  
+the protectress of all  of all  the world  the mother
+
+(89) Therefore She is worshipped by all; She is the supreme deity, the protectress of all and the mother of the whole world.[^64]
+
+‘সর্ব্বলক্ষ্মী’ শব্দ পূর্ব্বে করিয়াছি ব্যাখ্যান ৷  
+সর্ব্বলক্ষ্মীগণের তিঁহো হন অধিষ্ঠান ॥ ৯০ ॥
+
+‘sarva-lakṣmī’ śabda pūrve kariyāchi vyākhyāna  
+‘all Lakṣmīs’  the word  before  I have made  the explanation  
+sarva-lakṣmī-gaṇera tim̐ho hana adhiṣṭhāna  
+of all  the Lakṣmīs  She  is  the abode
+
+(90) I have already explained the word *sarva-lakṣmī*: She is the abode of all the Lakṣmīs.[^65]
+
+কিম্বা, ‘সর্ব্বলক্ষ্মী’ — কৃষ্ণের ষড়্বিধ ঐশ্বর্য্য ৷  
+তাঁর অধিষ্ঠাত্রী শক্তি — সর্ব্বশক্তিবর্য্য ॥ ৯১ ॥
+
+kimbā, ‘sarva-lakṣmī’ — kṛṣṇera ṣaḍ-vidha aiśvarya  
+or  ‘all Lakṣmīs’  Kṛṣṇa’s  sixfold  opulence  
+tām̐ra adhiṣṭhātrī śakti — sarva-śakti-varya  
+its  presiding  potency  of all  potencies  the best
+
+(91) Or *sarva-lakṣmī* means Kṛṣṇa’s six kinds of opulence, and She is the potency that presides over them, the best of all His potencies.[^66]
+
+সর্ব্ব-সৌন্দর্য্য-কান্তি বৈসয়ে যাঁহাতে ৷  
+সর্ব্বলক্ষ্মীগণের শোভা হয় যাঁহা হৈতে ॥ ৯২ ॥
+
+sarva-saundarya-kānti vaisaye yām̐hāte  
+of all  beauty  the splendour  dwells  in whom  
+sarva-lakṣmī-gaṇera śobhā haya yām̐hā haite  
+of all  the Lakṣmīs  the beauty  comes  from whom
+
+(92) In Her dwells the splendour of all beauty, and from Her comes the beauty of all the Lakṣmīs.
+
+কিংবা ‘কান্তি’ শব্দে কৃষ্ণের সব ইচ্ছা কহে ৷  
+কৃষ্ণের সকল বাঞ্ছা রাধাতেই রহে ॥ ৯৩ ॥
+
+kiṁvā ‘kānti’ śabde kṛṣṇera saba icchā kahe  
+or  ‘kānti’  by the word  Kṛṣṇa’s  all  desires  they mean  
+kṛṣṇera sakala vāñchā rādhātei rahe  
+Kṛṣṇa’s  all  desires  in Rādhā alone  abide
+
+(93) Or the word *kānti* may mean all of Kṛṣṇa’s desires, and all of Kṛṣṇa’s desires abide in Rādhā alone.[^67]
+
+রাধিকা করেন কৃষ্ণের বাঞ্ছিত পূরণ ৷  
+‘সর্ব্বকান্তি’ শব্দের এই অর্থ বিবরণ ॥ ৯৪ ॥
+
+rādhikā karena kṛṣṇera vāñchita pūraṇa  
+Rādhikā  makes  of Kṛṣṇa  of the desired  the fulfilment  
+‘sarva-kānti’ śabdera ei artha vivaraṇa  
+‘all splendour’  of the word  this  of the meaning  the explanation
+
+(94) Rādhikā fulfils whatever Kṛṣṇa desires. This is the meaning of the word *sarva-kānti*.
+
+জগৎমোহন কৃষ্ণ, তাঁহার মোহিনী ৷  
+অতএব সমস্তের পরা ঠাকুরাণী ॥ ৯৫ ॥
+
+jagat-mohana kṛṣṇa, tām̐hāra mohinī  
+the enchanter of the world  Kṛṣṇa  His  enchantress  
+ataeva samastera parā ṭhākurāṇī  
+therefore  of all  the supreme  Mistress
+
+(95) Kṛṣṇa enchants the world, and She enchants Him; therefore She is the supreme Mistress of all.[^68]
+
+রাধা — পূর্ণশক্তি, কৃষ্ণ — পূর্ণশক্তিমান্ ৷  
+দুই বস্তু ভেদ নাই, শাস্ত্র-পরমাণ ॥ ৯৬ ॥
+
+rādhā — pūrṇa-śakti, kṛṣṇa — pūrṇa-śaktimān  
+Rādhā  the full potency  Kṛṣṇa  the full possessor of potency  
+dui vastu bheda nāi, śāstra-paramāṇa  
+two  realities  difference  there is not  of scripture  the evidence
+
+(96) Rādhā is the full potency, and Kṛṣṇa the full possessor of potency. The scriptures bear witness that there is no difference between the two.[^69]
+
+মৃগমদ, তার গন্ধ — যৈছে অবিচ্ছেদ ৷  
+অগ্নি, জ্বালাতে — যৈছে কভু নাহি ভেদ ॥ ৯৭ ॥
+
+mṛgamada, tāra gandha — yaiche aviccheda  
+musk  its  fragrance  as  inseparable  
+agni, jvālāte — yaiche kabhu nāhi bheda  
+fire  and its heat  as  ever  there is not  difference
+
+(97) As musk and its fragrance are inseparable, as fire and its heat are never different,[^70]
+
+রাধাকৃষ্ণ ঐছে সদা একই স্বরূপ ৷  
+লীলারস আস্বাদিতে ধরে দুইরূপ ॥ ৯৮ ॥
+
+rādhā-kṛṣṇa aiche sadā ekai svarūpa  
+Rādhā-Kṛṣṇa  so  always  one  essence  
+līlā-rasa āsvādite dhare dui-rūpa  
+of the pastimes  the rasa  to taste  assume  two forms
+
+(98) so Rādhā and Kṛṣṇa are always one essence; to taste the rasa of Their pastimes They assume two forms.[^71]
+
+প্রেমভক্তি শিখাইতে আপনে অবতরি’ ৷  
+রাধা-ভাব-কান্তি দুই অঙ্গীকার করি’ ॥ ৯৯ ॥
+
+শ্রীকৃষ্ণচৈতন্যরূপে কৈল অবতার ৷  
+এই ত’ পঞ্চম শ্লোকের অর্থ পরচার ॥ ১০০ ॥
+
+prema-bhakti śikhāite āpane avatari’  
+loving devotion  to teach  Himself  descending  
+rādhā-bhāva-kānti dui aṅgīkāra kari’  
+Rādhā’s  mood  lustre  both  acceptance  making  
+śrī-kṛṣṇa-caitanya-rūpe kaila avatāra  
+in the form of Śrī Kṛṣṇa Caitanya  made  descent  
+ei ta’ pañcama ślokera artha paracāra  
+this  indeed  of the fifth  verse  of the meaning  the explanation
+
+(99–100) To teach loving devotion, He Himself descended, accepting both the mood and the lustre of Rādhā, and appeared in the form of Śrī Kṛṣṇa Caitanya. This is the explanation of the meaning of the fifth verse.[^72]
+
+ষষ্ঠ শ্লোকের অর্থ করিতে প্রকাশ ৷  
+প্রথমে কহিয়ে সেই শ্লোকের আভাস ॥ ১০১ ॥
+
+ṣaṣṭha ślokera artha karite prakāśa  
+of the sixth  verse  the meaning  in order to make  manifest  
+prathame kahiye sei ślokera ābhāsa  
+first  I speak  that  of the verse  an outline
+
+(101) To bring out the meaning of the sixth verse, I shall first give an outline of it.[^73]
+
+অবতরি’ প্রভু প্রচারিল সঙ্কীর্ত্তন ৷  
+এহো বাহ্য হেতু, পূর্ব্বে করিয়াছি সূচন ॥ ১০২ ॥
+
+avatari’ prabhu pracārila saṅkīrtana  
+descending  the Lord  preached  saṅkīrtana  
+eho bāhya hetu, pūrve kariyāchi sūcana  
+this  external  reason  before  I have made  indication
+
+(102) The Lord descended and preached *saṅkīrtana*; but that, as I have indicated before, is an external reason.[^74]
+
+অবতারের আর এক আছে মুখ্যবীজ ৷  
+রসিকশেখর কৃষ্ণের সেই কার্য্য নিজ ॥ ১০৩ ॥
+
+avatārera āra eka āche mukhya-bīja  
+of the descent  yet  one  there is  the chief seed  
+rasika-śekhara kṛṣṇera sei kārya nija  
+of the crown of rasikas  Kṛṣṇa’s  that  work  own
+
+(103) There is another, chief seed of the descent: it is the very own work of Kṛṣṇa, the crown of all who relish rasa.[^75]
+
+অতি গূঢ় হেতু সেই ত্রিবিধ প্রকার ৷  
+দামোদর-স্বরূপ হৈতে যাহার প্রচার ॥ ১০৪ ॥
+
+ati gūḍha hetu sei tri-vidha prakāra  
+very  hidden  reason  that  of three  kinds  
+dāmodara-svarūpa haite yāhāra pracāra  
+from Dāmodara-svarūpa  of which  the making known
+
+(104) That most hidden reason is threefold, and it was made known by Svarūpa Dāmodara.[^76]
+
+স্বরূপ-গোসাঞি — প্রভুর অতি অন্তরঙ্গ ৷  
+তাহাতে জানেন প্রভুর এসব প্রসঙ্গ ॥ ১০৫ ॥
+
+svarūpa-gosāñi — prabhura ati antaraṅga  
+Svarūpa  Gosāñi  of the Lord  very  intimate  
+tāhāte jānena prabhura esaba prasaṅga  
+therefore  knows  of the Lord  these  matters
+
+(105) Svarūpa Gosāñi is the Lord’s most intimate associate, and so he knows all these matters of the Lord.[^77]
+
+রাধিকার ভাব-মূর্ত্তি প্রভুর অন্তর ৷  
+সেইভাবে সুখ-দুঃখ উঠে নিরন্তর ॥ ১০৬ ॥
+
+rādhikāra bhāva-mūrti prabhura antara  
+of Rādhikā  of the mood  the embodiment  of the Lord  the heart  
+sei-bhāve sukha-duḥkha uṭhe nirantara  
+in that mood  joy  sorrow  arise  incessantly
+
+(106) The Lord’s heart is the very embodiment of Rādhikā’s mood, and in that mood joy and sorrow arise in Him incessantly.[^78]
+
+শেষলীলায় প্রভুর কৃষ্ণবিরহ-উন্মাদ ৷  
+ভ্রমময় চেষ্টা, সদা প্রলাপময়-বাদ ॥ ১০৭ ॥
+
+śeṣa-līlāya prabhura kṛṣṇa-viraha-unmāda  
+in the last pastimes  of the Lord  separation from Kṛṣṇa  madness  
+bhrama-maya ceṣṭā, sadā pralāpa-maya-vāda  
+of bewilderment  full  actions  always  of delirium  full  speech
+
+(107) In His last pastimes the Lord was mad with separation from Kṛṣṇa: His actions were full of bewilderment, and His speech was always full of delirium.[^79]
+
+রাধিকার ভাব যৈছে উদ্ধবদর্শনে ৷  
+সেই ভাবে মত্ত প্রভু রহে রাত্রি-দিনে ॥ ১০৮ ॥
+
+rādhikāra bhāva yaiche uddhava-darśane  
+of Rādhikā  the mood  as  on seeing Uddhava  
+sei bhāve matta prabhu rahe rātri-dine  
+in that  mood  intoxicated  the Lord  remains  night and day
+
+(108) As Rādhikā felt on seeing Uddhava, so the Lord remained, intoxicated with that mood, day and night.[^80]
+
+রাত্রে প্রলাপ করে স্বরূপের কণ্ঠ ধরি’ ৷  
+আবেশে আপন ভাব কহয়ে উঘাড়ি’ ॥ ১০৯ ॥
+
+rātre pralāpa kare svarūpera kaṇṭha dhari’  
+at night  delirium  makes  of Svarūpa  the neck  holding  
+āveśe āpana bhāva kahaye ughāḍi’  
+in absorption  His own  moods  speaks  laying bare
+
+(109) At night, holding Svarūpa by the neck, He spoke in delirium, and in His absorption He laid bare His own feelings.[^81]
+
+যবে যেই ভাব উঠে প্রভুর অন্তর ৷  
+সেই গীত-শ্লোকে সুখ দেন দামোদর ॥ ১১০ ॥
+
+yabe yei bhāva uṭhe prabhura antara  
+when  which  mood  arises  of the Lord  in the heart  
+sei gīta-śloke sukha dena dāmodara  
+with that  song  verse  joy  gives  Dāmodara
+
+(110) Whatever mood arose in the Lord’s heart, Dāmodara gave Him joy with a song or a verse that suited it.
+
+এবে কার্য্য নাহি কিছু এসব বিচারে ৷  
+আগে ইহা বিবরিব করিয়া বিস্তারে ॥ ১১১ ॥
+
+ebe kārya nāhi kichu esaba vicāre  
+now  need  there is not  any  of these  in the consideration  
+āge ihā vivariba kariyā vistāre  
+later  this  I shall describe  making  in detail
+
+(111) There is no need to consider all this now; later I shall describe it in detail.[^82]
+
+পূর্ব্বে ব্রজে কৃষ্ণের ত্রিবিধ বয়োধর্ম্ম ৷  
+কৌমার, পৌগণ্ড, আর কৈশোর অতিমর্ম্ম ॥ ১১২ ॥
+
+pūrve vraje kṛṣṇera tri-vidha vayo-dharma  
+formerly  in Vraja  of Kṛṣṇa  threefold  of age  characteristic  
+kaumāra, paugaṇḍa, āra kaiśora atimarma  
+childhood  boyhood  and  youth  most essential
+
+(112) Formerly in Vraja Kṛṣṇa had three ages — childhood, boyhood and youth — and youth was the most essential of them.[^83]
+
+বাৎসল্য-আবেশে কৈল কৌমার সফল ৷  
+পৌগণ্ড সফল কৈল লঞা সখাবল ॥ ১১৩ ॥
+
+vātsalya-āveśe kaila kaumāra saphala  
+of parental love  in the absorption  made  childhood  fruitful  
+paugaṇḍa saphala kaila lañā sakhāvala  
+boyhood  fruitful  made  taking  the host of friends
+
+(113) In the absorption of parental love He made His childhood fruitful, and with the host of His friends He made His boyhood fruitful.
+
+রাধিকাদি লঞা কৈল রাসাদি-বিলাস ৷  
+বাঞ্ছা ভরি’ আস্বাদিল রসের নির্য্যাস ॥ ১১৪ ॥
+
+rādhikādi lañā kaila rāsādi-vilāsa  
+Rādhikā and others  taking  made  the rāsa and other  pastimes  
+vāñchā bhari’ āsvādila rasera niryāsa  
+the desire  filling  tasted  of rasa  the essence
+
+(114) And with Rādhikā and the other gopīs He performed the *rāsa* dance and other pastimes, and tasted the very essence of rasa to His heart’s content.[^84]
+
+কৈশোর-বয়সে কাম, জগৎসকল ৷  
+রাসাদি-লীলায় তিন করিল সফল ॥ ১১৫ ॥
+
+kaiśora-vayase kāma, jagat-sakala  
+in the age of youth  Kāma  the world  whole  
+rāsādi-līlāya tina karila saphala  
+by the rāsa and other  pastimes  the three  made  fruitful
+
+(115) In His youth, by the *rāsa* dance and other pastimes, He made three things fruitful: His youth, Kāma (the god of love), and the whole world.[^85]
+
+সোঽপি কৈশোরক-বয়ো মানয়ন্মধুসূদনঃ ৷  
+রেমে স্ত্রীরত্নকূটস্থঃ ক্ষপাসু ক্ষপিতাহিতঃ ॥ ১১৬ ॥
+
+so ’pi kaiśoraka-vayo  
+He  too  youthful  age  
+mānayan madhusūdanaḥ  
+honouring  Madhusūdana  
+reme strī-ratna-kūṭa-sthaḥ  
+sported  of jewel-like women  amid the host  standing  
+kṣapāsu kṣapitāhitaḥ  
+at night  the destroyer  of the inauspicious
+
+(116) “And Madhusūdana, honouring His youth, sported on autumn nights amid a host of jewel-like girls — He who destroys all that is inauspicious.” (Viṣṇu Purāṇa, 5.13.59)[^86]
+
+বাচা সূচিতশর্ব্বরীরতিকলাপ্রাগল্ভ্যয়া রাধিকাং  
+ব্রীড়াকুঞ্চিতলোচনাং বিরচয়ন্নগ্রে সখীনামসৌ ৷  
+তদ্বক্ষোরুহচিত্রকেলিমকরীপাণ্ডিত্যপারং গতঃ  
+কৈশোরং সফলীকরোতি কলয়ন্কুঞ্জে বিহারং হরিঃ ॥ ১১৭ ॥
+
+vācā sūcita-śarvarī-rati-kalā-prāgalbhyayā rādhikāṁ  
+by speech  hinting  of the night’s  love  arts  at the boldness  Rādhikā  
+vrīḍā-kuñcita-locanāṁ viracayann agre sakhīnām asau  
+with shyness  closed  eyes  making  before  the friends  He  
+tad-vakṣo-ruha-citra-keli-makarī-pāṇḍitya-pāraṁ gataḥ  
+on Her  breasts  of the picture  of playful  makarīs  of the skill  the limit  having reached  
+kaiśoraṁ saphalī-karoti kalayan kuñje vihāraṁ hariḥ  
+youth  fruitful  makes  performing  in the bower  pastimes  Hari
+
+(117) “By words that hinted boldly at the arts of love of the night before, He made Rādhikā close Her eyes in shyness before Her friends; then, drawing playful *makarīs* on Her breasts, He showed the utmost skill. So Hari, sporting in the bowers, makes His youth fruitful.” (Bhakti-rasāmṛta-sindhu, 2.1.231)[^87]
+
+হরিরেষ ন চেদবাতরিষ্যম্  
+মথুরায়াং মধুরাক্ষি রাধিকা চ ৷  
+অভবিষ্যদিয়ং বৃথা বিসৃষ্টি-  
+র্মকরাঙ্কস্তু বিশেষতস্তদাত্র ॥ ১১৮ ॥
+
+harir eṣa na ced avātariṣyam  
+Hari  this  not  if  had descended  
+mathurāyāṁ madhurākṣi rādhikā ca  
+in Mathurā  O sweet-eyed one  Rādhikā  and  
+abhaviṣyad iyaṁ vṛthā visṛṣṭir  
+would have been  this  in vain  creation  
+makarāṅkas tu viśeṣatas tadātra  
+Kāma  but  especially  then  here
+
+(118) “O sweet-eyed one, had this Hari and Rādhikā not descended in Mathurā, all creation would have been in vain — and above all the god of love.” (Vidagdha-mādhava, 7.3)[^88]
+
+এইমত পূর্ব্বে কৃষ্ণ রসের সদন ৷  
+যদ্যপি করিল রস-নির্য্যাস-চর্ব্বণ ॥ ১১৯ ॥
+
+তথাপি নহিল তিন বাঞ্ছিত পূরণ ৷  
+তাহা আস্বাদিতে যদি করিল যতন ॥ ১২০ ॥
+
+ei mata pūrve kṛṣṇa rasera sadana  
+in this way  formerly  Kṛṣṇa  of rasa  the abode  
+yadyapi karila rasa-niryāsa-carvaṇa  
+although  made  of rasa  of the essence  the relishing  
+tathāpi nahila tina vāñchita pūraṇa  
+still  was not  three  of desires  the fulfilment  
+tāhā āsvādite yadi karila yatana  
+them  to taste  though  made  effort
+
+(119–120) Thus formerly Kṛṣṇa, the abode of rasa, relished the very essence of rasa; yet three of His desires remained unfulfilled, though He tried to taste them.[^89]
+
+তাঁহার প্রথম বাঞ্ছা করিয়ে ব্যাখ্যান ৷  
+কৃষ্ণ কহে, — আমি হই রসের নিদান ॥ ১২১ ॥
+
+tām̐hāra prathama vāñchā kariye vyākhyāna  
+His  first  desire  I make  explanation  
+kṛṣṇa kahe, — āmi hai rasera nidāna  
+Kṛṣṇa  says  I  am  of rasa  the source
+
+(121) I shall explain His first desire. Kṛṣṇa says: “I am the source of rasa.[^90]
+
+পূর্ণানন্দময় আমি চিন্ময় পূর্ণতত্ত্ব ৷  
+রাধিকার প্রেমে আমা করায় উন্মত্ত ॥ ১২২ ॥
+
+pūrṇānanda-maya āmi cin-maya pūrṇa-tattva  
+full of complete bliss  I  spiritual  the complete truth  
+rādhikāra preme āmā karāya unmatta  
+Rādhikā’s  by the love  Me  makes  mad
+
+(122) I am full of complete bliss, the spiritual and complete Truth; yet the love of Rādhikā makes Me mad.[^91]
+
+না জানি রাধার প্রেমে আছে কত বল ৷  
+যে বলে আমারে করে সর্ব্বদা বিহ্বল ॥ ১২৩ ॥
+
+nā jāni rādhāra preme āche kata bala  
+not  I know  Rādhā’s  in the love  there is  how much  strength  
+ye bale āmāre kare sarvadā vihvala  
+by which  strength  Me  makes  always  overwhelmed
+
+(123) I do not know how much strength there is in Rādhā’s love, by which She ever overwhelms Me.
+
 ---
 
 [^1]: In the edition the verse is headed “By the grace of Gaura, the nature of Śrī Kṛṣṇa ascertained”. *Anubhāṣya*: “a child” — one who knows nothing; “His form” — the form of Gaura, who is not different from Rādhā and Kṛṣṇa; “the Enjoyer in Vraja” — the son of the king of Vraja; “ascertainment” — pointing out the truth (*tattva*).
@@ -1059,3 +1419,59 @@ pleased  whom  led  to a secret place
 [^62]: In the edition the verse is headed: “(3) The name ‘Rādhā’ — because She worships Kṛṣṇa by fulfilling His desires.”
 
 [^63]: In the edition the verse is headed: “A hint of Rādhā’s name in the *Bhāgavatam*.” The words of the gopīs searching for Kṛṣṇa on the night of the *rāsa* dance: *anayārādhitaḥ*, “worshipped by Her”, holds within it the name of Rādhā.
+
+[^64]: In the edition the verse is headed: “(4) As the one who attracts Kṛṣṇa She is highest of all; She nourishes all devotees and all devotion and is their original source.”
+
+[^65]: In the edition the verse is headed: “(5) The source (*aṁśinī*) of all Kṛṣṇa’s beloveds.”
+
+[^66]: In the edition the verse is headed: “The original shelter of all the potencies of Kṛṣṇa’s majesty.” *Amṛta-pravāha-bhāṣya*: Rādhikā is the shelter of all the Lakṣmīs; or *sarva-lakṣmī* means Kṛṣṇa’s sixfold opulence, and She is His potency that presides over it.
+
+[^67]: In the edition verse 92 is headed “The original source of all beauty”, and verse 93 “The fulfilment of Kṛṣṇa’s desires in person”.
+
+[^68]: In the edition the verse is headed: “(6) The enchantress of Him who enchants the world.” *Amṛta-pravāha-bhāṣya*: with this verse the explanation of each word of the verse “*Devī kṛṣṇa-mayī…*” (4.83) is complete.
+
+[^69]: In the edition the verse is headed: “The full-moon night of Kṛṣṇa, the full moon.”
+
+[^70]: In the edition the verse is headed: “Like musk and its scent, or fire and its flame, Rādhā and Kṛṣṇa are inseparable.” *Amṛta-pravāha-bhāṣya*: musk and its scent are two things, yet inseparable; so too fire and its flame; and so Rādhā and Kṛṣṇa, eternally distinct in order to taste the rasa of pastimes, are one essence.
+
+[^71]: In the edition the verse is headed: “Though one essence, two bodies — as the One who tastes and the One who is tasted.”
+
+[^72]: In the edition verse 99 is headed: “To distribute Śrī Rādhā’s love for Kṛṣṇa, Kṛṣṇa comes as Gaura, taking Rādhā’s mood and form”; *Amṛta-pravāha-bhāṣya*: “lustre” (*kānti*) — the beauty of Rādhikā’s complexion.
+
+[^73]: In the edition the verse is headed: “The beginning of the explanation of the sixth of the fourteen opening verses.”
+
+[^74]: In the edition the verse is headed: “A preamble: inaugurating *nāma-saṅkīrtana* is the external reason for Gaura’s descent.”
+
+[^75]: In the edition the verse is headed: “The chief and hidden reason — the work of Kṛṣṇa Himself; it was known only to Gaura’s second self, Śrī Dāmodara-svarūpa.”
+
+[^76]: *Amṛta-pravāha-bhāṣya*: the chief reason for Gaura’s descent is very hidden, and it is of three kinds; it is told later in the root verse “*Śrī-rādhāyāḥ praṇaya-mahimā…*” (4.230).
+
+[^77]: *Anubhāṣya*: Śrī Puruṣottama Bhaṭṭācārya lived in Navadvīpa. Even before Mahāprabhu’s *sannyāsa*, wishing to take *sannyāsa*, he went to Vārāṇasī and became a *brahmacārī* among the Daśanāmī *daṇḍīs*; then he was named Śrī Dāmodara-svarūpa. Without waiting for full *sannyāsa*, he lived for the rest of his life at Mahāprabhu’s lotus feet in Nīlācala, always beside Him, and by singing what He asked for gave Him the highest joy at every moment; by his grace the devotees came to know the hidden moods of the Lord’s heart. In the pastimes of Vraja he is Lalitā-devī, Rādhikā’s second self; according to Kavi Karṇapūra’s *Gaura-gaṇoddeśa-dīpikā*, Viśākhā-devī: “She who in Vraja taught Rādhā the arts, Viśākhā, is now Svarūpa Gosvāmī, who delights in those moods.”
+
+[^78]: In the edition the verse is headed: “Gaurasundara, immersed in Rādhā’s *mahābhāva*.” *Anubhāṣya*: the heart of Śrī Gaurasundara is filled with a form woven of the moods of Śrī Rādhikā; people of gross mind, busy gratifying the senses, cannot understand what “the embodiment of a mood” means. Rādhikā’s mood is the highest and complete stage of *mādhurya*; it is *rūḍha* or *adhirūḍha*, and here the *adhirūḍha-mahābhāva* of Śrī Gaurasundara is meant.
+
+[^79]: As in the Gauḍīya Maṭha edition: «সদা» (“always”); another reading has «আর» (“and”). *Anubhāṣya*: in the conduct of a perfected soul Śrī Gaurahari displays the supreme height of *vipralambha-rasa*; those who trust only the knowledge of the senses take His experiences for delirium and wandering of mind. The doctrine of the “Nadīyā-nāgarīs”, which distorts the path of following, is only an attempt at sense gratification, not the path shown by Śrī Gaurasundara; its adherents are materialists and therefore enemies of Viṣṇu.
+
+[^80]: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa sent Uddhava from Mathurā to the gopīs with news of Himself, and on seeing Uddhava Śrīmatī Rādhikā showed wondrous moods. *Anubhāṣya*: on seeing Uddhava, Kṛṣṇa’s friend, Rādhikā voiced in many kinds of speech a hidden anger full of feeling and of utmost longing — this is *citra-jalpa* (*Ujjvala-nīlamaṇi*: “speech full of many moods at the sight of the Beloved’s friend, in which hidden anger shows through, and the utmost longing”); in that “Mathurā” mood Śrī Gaurasundara, one with Śrī Rādhā, was intoxicated day and night.
+
+[^81]: In the edition the verse is headed: “The Lord reveals the moods of His heart, and Svarūpa gives Him joy.”
+
+[^82]: *Amṛta-pravāha-bhāṣya*: “later” — in the Antya-līlā.
+
+[^83]: In the edition the verse is headed: “The three ages in Vraja.” *Amṛta-pravāha-bhāṣya*: *kaumāra* lasts up to five years, *paugaṇḍa* up to ten, *kaiśora* from eleven to sixteen, and then *yauvana*; in *kaumāra* there is *vātsalya*, in *paugaṇḍa* *sakhya*, and in *kaiśora* *śṛṅgāra-rasa*.
+
+[^84]: In the edition verse 113 is headed “Different pastimes in the different ages of Kṛṣṇa”, and verse 114 “In the pastimes of youth — the fulfilment of the purpose of all”.
+
+[^85]: The *Amṛta-pravāha-bhāṣya* reads the verse otherwise: Kāma is Kṛṣṇa Himself, Manmatha in person, who by His own will, performing the *rāsa* dance and other pastimes in His youth, made the whole world and His three ages — childhood, boyhood and youth — fruitful. The translation follows the plain sense of the verse, which 4.116 (youth) and 4.118 (the world and Kāma) explain.
+
+[^86]: *Anubhāṣya*: *kṣapitāhita* — “He by whom all that is inauspicious is destroyed”; “honouring His youth” — making it fruitful; “jewels among women” — the gopīs; “at night” — on autumn nights. *Amṛta-pravāha-bhāṣya*: amid Rādhā, full of *mahābhāva*, and the gopīs, full of *bhāva*, Śrī Kṛṣṇa, the supreme Consciousness, is the central (*kūṭa-stha*) Truth.
+
+[^87]: The reference follows the edition (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, first *laharī*, verse 231). *Anubhāṣya*: here Kṛṣṇa is shown as the *dhīra-lalita* hero, carefree and skilled in play and jest; “the utmost skill” is said in jest: as He drew, His hand trembled, the picture went crooked, and He corrected it again and again. *Makarīs* are wondrous sea creatures, a design used to adorn the body.
+
+[^88]: *Anubhāṣya*: the words of Śrī Vṛndā-devī to Paurṇamāsī; “Mathurā” — the district of Mathurā, which includes Vraja.
+
+[^89]: In the edition verse 119 is headed: “In Kṛṣṇa’s pastimes three desires remained unfulfilled.”
+
+[^90]: In the edition the verse is headed: “(1) The first desire.” *Amṛta-pravāha-bhāṣya*: “the source of rasa” (*rasera nidāna*); some readings have *rasera nidhāna*, “the treasury of rasa”.
+
+[^91]: In the edition the verse is headed: “A consideration of the power and depth of Rādhā’s love.”
