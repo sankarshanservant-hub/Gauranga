@@ -1,0 +1,170 @@
+# English translation, Ādi-līlā 7 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: Setting Forth the Account of the Pañca-tattva
+
+## 1
+w: of the shelterless  the only shelter  having bowed
+w: to the deprived  the highest  who grants
+w: to Śrī Caitanya  is written  His
+w: in giving prema-bhakti  magnanimity
+tr: Bowing to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good, I write of the magnanimity with which He bestows love and devotion for Kṛṣṇa.
+fn: *Anubhāṣya*: *agaty-eka-gati* — “the one refuge of those who have no other shelter”; *hīnārthādhika-sādhaka* — “He who grants to those deprived of the supreme good (*paramārtha*) something greater still — the fifth goal of life, love for Kṛṣṇa”.
+
+## 2
+w: glory  glory  to Mahāprabhu  Śrī  Kṛṣṇa  Caitanya
+w: His  at the feet sheltered  he  greatly  blessed
+tr: Glory, glory to Mahāprabhu Śrī Kṛṣṇa Caitanya! Whoever takes shelter at His feet is truly blessed.
+
+## 3
+w: earlier  the guru and the rest  six  to the truths  I made  obeisance
+w: the truth of the guru  I have told  now  of the five  the consideration
+tr: At the beginning I offered obeisance to the six truths, headed by the guru. I have spoken of the truth of the guru; now I shall consider the other five.
+fn: *Amṛta-pravāha-bhāṣya*: in the first chapter the truth of the guru was described — as the initiating and the instructing guru; the six truths are those of the verse *vande gurūn īśa-bhaktān* (Ādi 1.1), and now the remaining five are examined.
+
+## 4
+w: the five truths  descended  Caitanya  with
+w: the five truths  taking  He performs  of saṅkīrtana  in the joy
+tr: The five truths descended together with Śrī Caitanya, and with them He delights in saṅkīrtana.
+
+## 5
+w: the five truths  one substance  there is not  any  difference
+w: rasa  to taste  the truth  manifold  distinctions
+tr: The five truths are one substance; there is no difference between them at all. Yet to taste rasa, the one truth appears in different forms.
+fn: *Anubhāṣya*: in substance the five truths are one, without duality, but for the sake of the pastimes and the tasting of rasa the one truth is fivefold. The devotee in form, the devotee in essence and the incarnation of a devotee are the Lord Himself, His *prakāśa* and His *aṁśa* (*viṣṇu-tattva*); the potency of devotion and the pure devotee are potencies non-different from Him, who serve Him. Without either the worshipped or the worshipper there would be no pastime of tasting rasa.
+
+## 6
+w: of five truths  composed  Kṛṣṇa
+w: devotee in form  devotee in essence
+w: the devotee-avatāra  called a devotee
+w: I bow to  the devotional potency
+tr: “I bow to Kṛṣṇa, who is manifest as five truths — the Pañca-tattva: as a devotee in form and a devotee in essence, as the incarnation of a devotee, as the one called a devotee, and as the potency of devotion.” (Śrī Rūpa Gosvāmī)
+fn: According to the *Anubhāṣya*: the devotee in form is Śrī Gaurāṅga, who tastes His own sweetness; the devotee in essence (in the form of His brother) is Śrī Nityānanda; the devotee-avatāra is Śrī Advaita; the one called a devotee is Śrīvāsa and others, established in *śānta*, *dāsya* and the other rasas; the potency is Gadādhara, Svarūpa Dāmodara, Rāmānanda and others. The same verse as Ādi 1.14; ascribed in the edition to Śrī Rūpa Gosvāmī.
+
+## 7
+w: Himself  Bhagavān  Kṛṣṇa  the one  Lord
+w: without a second  Nanda’s son  of rasikas  the crown
+tr: Kṛṣṇa is Bhagavān Himself, the one Lord of all. He has no equal; He is the son of Nanda and the crown of all who relish rasa.
+
+## 8
+w: of the rāsa and other pastimes the enjoyer  of the maidens of Vraja  the lover
+w: others  as many  all  you see  His  associates
+tr: He enjoys the rāsa dance and His other pastimes and is the beloved of the maidens of Vraja; all the others you see are His associates.
+
+## 9
+w: that  Kṛṣṇa  has descended  as Śrī Kṛṣṇa Caitanya
+w: those  associates  with Him  all  blessed
+tr: That same Kṛṣṇa has descended as Śrī Kṛṣṇa Caitanya, and with Him have come all those associates, every one of them blessed.
+
+## 10
+w: alone  the Lord-truth  Caitanya  the Lord
+w: of a devotee’s sentiment full  His  pure  body
+tr: Lord Caitanya alone is the Supreme Lord, yet His pure, spiritual body is filled with the sentiment of a devotee.
+fn: The edition’s heading: “Though He is the Lord of all, Śrī Kṛṣṇa Caitanya is full of the mood of one who is subordinate.” *Anubhāṣya*: Śrī Caitanya is the one Supreme Lord of all conscious beings (*nityo nityānām…*); though non-different from the son of the king of Vraja, He takes a form full of the mood of serving Kṛṣṇa. That form must not be thought of as a body for worldly enjoyment or counted among the jīvas of this world: it is manifest in pure *sattva* (*viśuddha-sattva*) and is revealed to a heart illumined by it.
+
+## 11
+w: of Kṛṣṇa’s sweetness  one  wondrous  property
+w: Himself  to taste  Kṛṣṇa  takes on  a devotee’s sentiment
+tr: Kṛṣṇa’s sweetness has one wondrous property: to taste Himself, Kṛṣṇa takes on the sentiment of His own devotee.
+fn: The edition’s heading: “To taste His own sweetness, Kṛṣṇa descends as Gaura — ‘in the form of a devotee’.” *Anubhāṣya*: Kṛṣṇa, the abode of all sweetness, though He is Himself the object of love (*viṣaya*), takes on the sentiment of its subject (*āśraya*) and tastes the joy of serving Himself; yet Śrī Caitanya is not merely a form of the *āśraya*: He is the original Lord Himself (*svayaṁ-rūpa*).
+
+## 12
+w: therefore  a devotee’s sentiment  takes  Caitanya  Gosāñi
+w: ‘devotee in essence’  His  Nityānanda  the brother
+tr: Therefore Caitanya Gosāñi takes on the sentiment of a devotee, and His brother Nityānanda is the devotee in essence (*bhakta-svarūpa*).
+
+## 13
+w: ‘the devotee-avatāra’  His  the Ācārya  Gosāñi
+w: these  three  truths  all  as Lord  holding  we sing
+tr: Advaita Ācārya is His incarnation as a devotee (*bhakta-avatāra*). These three truths we all glorify as the Lord — as Prabhu.
+
+## 14
+w: one  Mahāprabhu  and  Prabhus  two
+w: the two  Prabhus  serve  Mahāprabhu’s  feet
+tr: One is Mahāprabhu, and the other two are Prabhus; the two Prabhus serve the feet of Mahāprabhu.
+
+## 15
+w: these  three  truths  ‘worshipable by all’  as  we accept
+w: the fourth  which  the devotee-truth  ‘worshipper’  as  we know
+tr: These three truths we accept as worshipable by all; the fourth, the truth of the devotee, we know as the worshipper.
+fn: *Anubhāṣya*: Śrī Mahāprabhu is the highest Truth, above all, while Śrī Nityānanda and Śrī Advaita are *īśvara-tattvas* subordinate to Him; all three are worshipable by everyone else. The fourth truth is the pure devotees, the fifth the intimate (*antaraṅga*) devotees; both are worshippers. The two worshipable truths, though the last two worship them, are themselves engaged in the service of Śrī Gaurāṅga.
+
+## 16
+w: Śrīvāsa and others  all  millions  millions  devotees
+w: ‘pure devotee’-truth  within  of them all  the counting
+tr: The countless millions of devotees headed by Śrīvāsa are all counted among the pure devotees (*śuddha-bhakta*).
+
+## 17
+w: Gadādhara Paṇḍita and others  the Lord’s  ‘potency’-avatāras
+w: ‘intimate devotees’  as  counting  of whom
+tr: Gadādhara Paṇḍita and others are incarnations of the Lord’s potency (*śakti*); they are counted as His intimate devotees.
+fn: *Anubhāṣya*: the truths of *śakti* — the intimate devotees — abide in *madhura-rasa*, which includes *vātsalya*, *sakhya* and *dāsya*; the servants of Śrī Nityānanda and Śrī Advaita, the pure devotees, usually abide in *vātsalya*, *sakhya*, *dāsya* and *śānta*. When their love for Śrī Gaurasundara grows intense, they take shelter of *madhura-rasa* under the guidance of the intimate devotees. Pure devotees are those who, free from other desires, do not cover their service to Kṛṣṇa with *karma* or *jñāna*; the intimate devotees are those wholly given to *madhura-rasa* alone.
+
+## 18–19
+w: with whom all  taking  the Lord’s  eternal  pastimes
+w: with whom all  taking  the Lord’s  of kīrtana  spreading
+w: with whom all  taking  He does  of prema  tasting
+w: with whom all  taking  giving  He makes  prema’s treasure
+tr: With them the Lord enjoys His eternal pastimes, with them He spreads the kīrtana, with them He tastes prema, and with them He gives away the treasure of prema.
+fn: *Anubhāṣya*: “with them” — with all four: with His *prakāśa* (Śrī Nityānanda), with the avatāra of the Puruṣa (Śrī Advaita), with the intimate devotees and with the pure devotees. The edition’s heading: “With the four truths — the Lord’s pastimes, preaching, tasting and giving.”
+
+## 20–21
+w: those  five truths  together  to the earth  coming
+w: of the ancient storehouse of prema  the seal  breaking open
+w: the five  together  plunder  prema  do  tasting
+w: as much  as much  they drink  thirst  grows  every moment
+tr: Coming to earth together, the five truths broke the seal of the ancient storehouse of prema. Together they plunder that love and taste it, and the more they drink, the more their thirst grows at every moment.
+fn: *Amṛta-pravāha-bhāṣya*: the storehouse of prema is the pastimes of Śrī Kṛṣṇa. It had come into the world before, but it was locked and sealed; in the descent of Śrī Caitanya the Pañca-tattva broke the seal, threw open the doors and tasted prema, plundering it.
+
+## 22
+w: again  again  giving to drink  become  greatly maddened
+w: they dance  weep  laugh  sing  like  the intoxicated
+tr: Again and again they give it to others to drink and grow wild with love; they dance, weep, laugh and sing as though intoxicated.
+
+## 23
+w: fit and unfit  consideration  there is not  there is not  proper place and improper
+w: whoever  wherever  is found  there  they make  of prema  the gift
+tr: They make no distinction between the fit and the unfit, nor between a proper place and an improper one: wherever they find anyone, there they give prema.
+
+## 24
+w: plundering  eating  giving  the storehouse  they empty
+w: wondrous  storehouse  prema  a hundredfold  grows
+tr: Plundering, tasting and giving, they empty the storehouse — yet this storehouse is wondrous: the prema in it grows a hundredfold.
+
+## 25
+w: surged  of prema the flood  on all sides  spreads
+w: women  old men  boys  youths  all  it drowns
+tr: The flood of prema surged and spread on every side, drowning everyone — women and old men, boys and youths.
+
+## 26
+w: the good  the wicked  the lame  the dull  the blind
+w: in the flood of prema  drowned  of the world  the people
+tr: The good and the wicked, the lame, the dull and the blind — the flood of prema drowned all the people of the world.
+
+## 27
+w: the world  drowned  of the jīvas  became  the seed  destroyed
+w: that  seeing  of the five  persons  supreme  joy
+tr: The world was drowned, and the seed of the jīvas’ bondage was destroyed. Seeing this, the five felt the highest joy.
+fn: *Anubhāṣya*: in the Lord’s *jīva-śakti*, together with the inclination towards Kṛṣṇa, there lies hidden the seed of the desire to enjoy in turning away from Him. As a seed in flooded earth can put forth no shoot, so in the flood of prema the seed of every desire other than service to Kṛṣṇa perished. *Amṛta-pravāha-bhāṣya*: there perished the seed of the bondage of *avidyā* — the soul’s forgetfulness that it is Kṛṣṇa’s servant.
+
+## 28
+w: as much  as much  rain of prema  make  the five persons
+w: so much  so much  rises  the water  pervades  the three worlds
+tr: The more the five pour down the rain of prema, the higher the waters rise, until they fill the three worlds.
+
+## 29–30
+w: Māyāvādīs  those devoted to karma  the false logicians
+w: blasphemers  pāṣaṇḍīs  all  students  the lowest
+w: they  all  very clever  running  fled
+w: that  flood  them all  to touch  could not
+tr: But the Māyāvādīs, those devoted to fruitive work, the false logicians, the blasphemers, the pāṣaṇḍīs and the lowest of students — all these, being very clever, ran away, and the flood could not touch them.
+fn: *Amṛta-pravāha-bhāṣya*: the Māyāvādīs are the sannyāsīs Prakāśānanda and others; those devoted to karma — Devānanda and other karmīs without bhakti, the *smārtas*, for whom karma and its fruits are the chief goal; the false logicians — Sārvabhauma and other godless logicians; the blasphemers — the one whom the Lord drove away with a stick, Gopāla Cāpāla and others who reviled the Lord and His devotees; the pāṣaṇḍīs — those who place other gods on a level with the Lord; the lowest of students — those for whom learning is only a cause for argument and not a way to God.
+
+## 31–32
+w: that  seeing  Mahāprabhu  makes  reflection
+w: the world  to drown  I  made  effort
+w: some  some  escaped  the vow  became  broken
+w: them all  to drown  I shall set  some  play
+tr: Seeing this, Mahāprabhu reflected: “I tried to drown the whole world, but some have escaped, and My vow has been broken. To drown them too, I shall set some play in motion.”
+
