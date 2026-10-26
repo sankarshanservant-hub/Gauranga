@@ -322,6 +322,277 @@ of the Lotus-eyed  He  because  ‘aṅga’  ‘aṁśa’
 
 (30) Because He is the limb and the part of the Lotus-eyed Lord, He bears the beautiful name Kamalākṣa, “Lotus-eyed”.[^13]
 
+ঈশ্বরসারূপ্য পায় পারিষদগণ ৷  
+চতুর্ভুজ, পীতবাস, যৈছে নারায়ণ ॥ ৩১ ॥
+
+īśvara-sārūpya pāya pāriṣada-gaṇa  
+with the Lord  sameness of form  attain  the associates  
+catur-bhuja, pīta-vāsa, yaiche nārāyaṇa  
+four-armed  yellow-clad  just as  Nārāyaṇa
+
+(31) The Lord’s associates attain a form like His (*sārūpya*): like Nārāyaṇa, they are four-armed and clad in yellow.
+
+অদ্বৈত-আচার্য্য — ঈশ্বরের অংশবর্য্য ৷  
+তাঁর তত্ত্ব-নাম-গুণ, সকলি আশ্চর্য্য ॥ ৩২ ॥
+
+advaita-ācārya — īśvarera aṁśa-varya  
+Advaita  Ācārya  of the Lord  part  the foremost  
+tām̐ra tattva-nāma-guṇa, sakali āścarya  
+His  truth  name  qualities  all  wondrous
+
+(32) Advaita Ācārya is the foremost part of the Lord; His truth, His name and His qualities are all wondrous.
+
+যাঁহার তুলসীদলে, যাঁহার হুঙ্কারে ৷  
+স্বগণ সহিতে চৈতন্যের অবতারে ॥ ৩৩ ॥
+
+yām̐hāra tulasī-dale, yām̐hāra huṅkāre  
+by whose  tulasī  leaves  by whose  roar  
+sva-gaṇa sahite caitanyera avatāre  
+His associates  together with  Caitanya’s  descent
+
+(33) By His offering of tulasī leaves and by His roar, Caitanya descended together with His associates.[^14]
+
+যাঁর দ্বারা কৈল প্রভু কীর্ত্তন প্রচার ৷  
+যাঁর দ্বারা কৈল প্রভু জগৎ নিস্তার ॥ ৩৪ ॥
+
+yām̐ra dvārā kaila prabhu kīrtana pracāra  
+through whom  made  the Lord  of kīrtana  the spreading  
+yām̐ra dvārā kaila prabhu jagat nistāra  
+through whom  made  the Lord  of the world  the deliverance
+
+(34) Through Him the Lord spread the kīrtana, and through Him the Lord delivered the world.
+
+আচার্য্য গোসাঞির গুণ-মহিমা অপার ৷  
+জীবকীট কোথায় পাইবেক তার পার ॥ ৩৫ ॥
+
+ācārya gosāñira guṇa-mahimā apāra  
+of Ācārya  Gosāñi  of the qualities  the glory  boundless  
+jīva-kīṭa kothāya pāibeka tāra pāra  
+the worm-like jīva  where  will find  of it  the end
+
+(35) The glory of Ācārya Gosāñi’s qualities is boundless. Where can the jīva, a mere worm, find its end?
+
+আচার্য্য গোসাঞি চৈতন্যের মুখ্য অঙ্গ ৷  
+আর এক অঙ্গ তাঁর প্রভু নিত্যানন্দ ॥ ৩৬ ॥
+
+ācārya gosāñi caitanyera mukhya aṅga  
+Ācārya  Gosāñi  Caitanya’s  principal  limb  
+āra eka aṅga tām̐ra prabhu nityānanda  
+another  one  limb  His  Prabhu  Nityānanda
+
+(36) Ācārya Gosāñi is the principal limb (*aṅga*) of Caitanya, and His other limb is Nityānanda Prabhu.[^15]
+
+প্রভুর উপাঙ্গ — শ্রীবাসাদি ভক্তগণ ৷  
+হস্তমুখনেত্র-অঙ্গ চক্রাদ্যস্ত্র-সম ॥ ৩৭ ॥
+
+prabhura upāṅga — śrīvāsādi bhakta-gaṇa  
+the Lord’s  lesser limbs  Śrīvāsa and the other  devotees  
+hasta-mukha-netra-aṅga cakrādy-astra-sama  
+hands  face  eyes  limbs  disc and other  weapons  like
+
+(37) The Lord’s lesser limbs (*upāṅga*) are Śrīvāsa and the other devotees; they are like His hands, face and eyes, and like His disc and other weapons.
+
+এসব লইয়া চৈতন্যপ্রভুর বিহার ৷  
+এসব লইয়া করেন বাঞ্ছিত-প্রচার ॥ ৩৮ ॥
+
+esaba laiyā caitanya-prabhura vihāra  
+with all these  taking  Caitanya Prabhu’s  pastimes  
+esaba laiyā karena vāñchita-pracāra  
+with all these  taking  He makes  of His desire  the spreading
+
+(38) With them Caitanya Prabhu performs His pastimes, and with them He spreads what He desires.
+
+মাধবেন্দ্রপুরীর ইঁহো শিষ্য, এই জ্ঞানে ৷  
+আচার্য্য-গোসাঞিরে প্রভু গুরু করি’ মানে ॥ ৩৯ ॥
+
+mādhavendrapurīra im̐ho śiṣya, ei jñāne  
+of Mādhavendra Purī  He  the disciple  with this  understanding  
+ācārya-gosāñire prabhu guru kari’ māne  
+Ācārya Gosāñi  the Lord  as guru  regards
+
+(39) Knowing that He is a disciple of Mādhavendra Purī, the Lord regards Ācārya Gosāñi as His guru.[^16]
+
+লৌকিক-লীলাতে ধর্ম্মমর্য্যাদা-রক্ষণ ৷  
+স্তুতি-ভক্ত্যে করে তাঁর চরণ-বন্দন ॥ ৪০ ॥
+
+laukika-līlāte dharma-maryādā-rakṣaṇa  
+in worldly  pastimes  of dharma’s  bounds  the keeping  
+stuti-bhaktye kare tām̐ra caraṇa-vandana  
+with praise and devotion  He makes  His  to the feet  obeisance
+
+(40) In His worldly pastimes the Lord keeps the bounds of dharma: with praise and devotion He bows at the Ācārya’s feet.
+
+চৈতন্য-গোসাঞিকে আচার্য্য করে ‘প্রভু’ জ্ঞান ৷  
+আপনাকে করেন তাঁর ‘দাস’ অভিমান ॥ ৪১ ॥
+
+caitanya-gosāñike ācārya kare ‘prabhu’ jñāna  
+Caitanya Gosāñi  the Ācārya  holds as  ‘Master’  
+āpanāke karena tām̐ra ‘dāsa’ abhimāna  
+Himself  He holds  His  ‘servant’  in self-conception
+
+(41) The Ācārya knows Caitanya Gosāñi as His Master, and He thinks of Himself as His servant.
+
+সেই অভিমান-সুখে আপনা পাসরে ৷  
+‘কৃষ্ণদাস’ হও — জীবে উপদেশ করে ॥ ৪২ ॥
+
+sei abhimāna-sukhe āpanā pāsare  
+in that  self-conception’s  happiness  Himself  He forgets  
+‘kṛṣṇa-dāsa’ hao — jīve upadeśa kare  
+‘Kṛṣṇa’s servant’  become  to the jīvas  instruction  He gives
+
+(42) In the happiness of that feeling He forgets Himself, and He teaches the jīvas, “Become servants of Kṛṣṇa!”[^17]
+
+কৃষ্ণদাস-অভিমানে যে আনন্দসিন্ধু ৷  
+কোটি-ব্রহ্মসুখ নহে তার এক বিন্দু ॥ ৪৩ ॥
+
+kṛṣṇa-dāsa-abhimāne ye ānanda-sindhu  
+of Kṛṣṇa’s servant  in the self-conception  which  of bliss  the ocean  
+koṭi-brahma-sukha nahe tāra eka bindu  
+millions of times  Brahman’s  happiness  is not  of it  one  drop
+
+(43) Such is the ocean of bliss in feeling oneself Kṛṣṇa’s servant that the happiness of Brahman, multiplied ten million times, is not equal to a single drop of it.[^18]
+
+মুঞি যে চৈতন্যদাস, আর নিত্যানন্দ ৷  
+দাস-ভাব-সম নহে অন্যত্র আনন্দ ॥ ৪৪ ॥
+
+muñi ye caitanya-dāsa, āra nityānanda  
+I  indeed  Caitanya’s servant  and  Nityānanda  
+dāsa-bhāva-sama nahe anyatra ānanda  
+of the servant’s mood  equal  there is not  elsewhere  bliss
+
+(44) “I and Nityānanda are servants of Caitanya. Nowhere is there bliss equal to the mood of a servant.”
+
+পরমপ্রেয়সী লক্ষ্মী হৃদয়ে বসতি ৷  
+তেঁহো দাস্য-সুখ মাগে করিয়া মিনতি ॥ ৪৫ ॥
+
+parama-preyasī lakṣmī hṛdaye vasati  
+supreme  beloved  Lakṣmī  on His heart  dwells  
+tem̐ho dāsya-sukha māge kariyā minati  
+she  of service  the happiness  begs  making  entreaty
+
+(45) Lakṣmī, His dearest beloved, dwells upon His heart, yet she too begs with humble entreaty for the happiness of service.
+
+দাস্য-ভাবে আনন্দিত পারিষদগণ ৷  
+বিধি-ভব-নারদাদি-শুক-সনাতন ॥ ৪৬ ॥
+
+dāsya-bhāve ānandita pāriṣada-gaṇa  
+in the mood of service  rejoice  the associates  
+vidhi-bhava-nāradādi-śuka-sanātana  
+Brahmā  Śiva  Nārada and others  Śuka  Sanātana (and the other Kumāras)
+
+(46) In the mood of service His associates rejoice — Brahmā, Śiva, Nārada and others, Śuka, and Sanātana with his brothers.[^19]
+
+নিত্যানন্দ অবধূত সবাতে আগল ৷  
+চৈতন্যের দাস্য-প্রেমে হইল পাগল ॥ ৪৭ ॥
+
+nityānanda avadhūta sabāte āgala  
+Nityānanda  Avadhūta  among all  the foremost  
+caitanyera dāsya-preme haila pāgala  
+Caitanya’s  in the love of service  became  mad
+
+(47) Nityānanda Avadhūta is the foremost of all; in His love of serving Caitanya He became mad.[^20]
+
+শ্রীবাস, হরিদাস, রামদাস, গদাধর ৷  
+মুরারি, মুকুন্দ, চন্দ্রশেখর, বক্রেশ্বর ॥ ৪৮ ॥
+
+এসব পণ্ডিতলোক পরম-মহত্ত্ব ৷  
+চৈতন্যের দাস্যে সবায় করয়ে উন্মত্ত ॥ ৪৯ ॥
+
+śrīvāsa, haridāsa, rāmadāsa, gadādhara  
+Śrīvāsa  Haridāsa  Rāmadāsa  Gadādhara  
+murāri, mukunda, candraśekhara, vakreśvara  
+Murāri  Mukunda  Candraśekhara  Vakreśvara  
+esaba paṇḍita-loka parama-mahattva  
+all these  learned  men  of supreme  greatness  
+caitanyera dāsye sabāya karaye unmatta  
+Caitanya’s  service  all of them  makes  mad
+
+(48–49) Śrīvāsa, Haridāsa, Rāmadāsa, Gadādhara, Murāri, Mukunda, Candraśekhara and Vakreśvara — all these are learned men of the highest greatness, and service to Caitanya makes every one of them mad.
+
+এইমত গায়, নাচে, করে অট্টহাস ৷  
+লোকে উপদেশে, — ‘হও চৈতন্যের দাস’ ॥ ৫০ ॥
+
+ei mata gāya, nāce, kare aṭṭahāsa  
+in this way  they sing  dance  make  loud laughter  
+loke upadeśe, — ‘hao caitanyera dāsa’  
+people  they teach  ‘become  Caitanya’s  servants’
+
+(50) So they sing, dance and laugh aloud, and they teach everyone: “Become servants of Caitanya!”
+
+চৈতন্যগোসাঞি মোরে করে গুরু-জ্ঞান ৷  
+তথাপিহ মোর হয় ‘দাস’ অভিমান ॥ ৫১ ॥
+
+caitanyagosāñi more kare guru-jñāna  
+Caitanya Gosāñi  Me  holds  as guru  
+tathāpiha mora haya ‘dāsa’ abhimāna  
+still  My  is  ‘servant’  self-conception
+
+(51) “Caitanya Gosāñi regards Me as His guru, yet I feel Myself His servant.”
+
+কৃষ্ণপ্রেমের এই এক অপূর্ব্ব প্রভাব ৷  
+গুরু-সম-লঘুকে করায় দাস্যভাব ॥ ৫২ ॥
+
+kṛṣṇa-premera ei eka apūrva prabhāva  
+of Kṛṣṇa-prema  this  one  unprecedented  power  
+guru-sama-laghuke karāya dāsya-bhāva  
+elders  equals  juniors  makes feel  the mood of service
+
+(52) This is one wondrous power of love for Kṛṣṇa: it gives elders, equals and juniors alike the mood of a servant.[^21]
+
+ইহার প্রমাণ শুন শাস্ত্রের ব্যাখ্যান ৷  
+মহদনুভব যাতে সুদৃঢ় প্রমাণ ॥ ৫৩ ॥
+
+ihāra pramāṇa śuna śāstrera vyākhyāna  
+of this  the proof  hear  of the scriptures  the explanation  
+mahad-anubhava yāte sudṛḍha pramāṇa  
+of great souls  the experience  in which  firm  proof
+
+(53) Hear the proof of this from the scriptures, in which the experience of great souls is firm evidence.
+
+অন্যের কা কথা, ব্রজে নন্দ মহাশয় ৷  
+তাঁর সম ‘গুরু’ কৃষ্ণের আর কেহ নয় ॥ ৫৪ ॥
+
+শুদ্ধবাৎসল্যে ঈশ্বর-জ্ঞান নাহি তাঁর ৷  
+তাঁহাকেই প্রেমে করায় দাস্য-অনুকার ॥ ৫৫ ॥
+
+anyera kā kathā, vraje nanda mahāśaya  
+of others  what  to speak  in Vraja  Nanda  Mahāśaya  
+tām̐ra sama ‘guru’ kṛṣṇera āra keha naya  
+his  equal  elder  of Kṛṣṇa  other  anyone  is not  
+śuddha-vātsalye īśvara-jñāna nāhi tām̐ra  
+in pure  parental love  of God  the knowledge  is not  his  
+tām̐hākei preme karāya dāsya-anukāra  
+him  even  love  makes feel  of service  a semblance
+
+(54–55) What to speak of others? In Vraja Kṛṣṇa has no elder equal to Nanda Mahāśaya. In his pure parental love he has no thought that Kṛṣṇa is God; yet love makes even him feel something like a servant.[^22]
+
+তেঁহো রতি-মতি মাগে কৃষ্ণের চরণে ৷  
+তাহার শ্রীমুখবাণী তাহাতে প্রমাণে ॥ ৫৬ ॥
+
+tem̐ho rati-mati māge kṛṣṇera caraṇe  
+he  attraction  devotion  begs  at Kṛṣṇa’s  feet  
+tāhāra śrī-mukha-vāṇī tāhāte pramāṇe  
+his  holy  lips’  words  of that  the proof
+
+(56) He too begs at Kṛṣṇa’s feet for attachment and devotion; his own words are the proof of it.
+
+শুন উদ্ধব, সত্য, কৃষ্ণ, — আমার তনয় ৷  
+তেঁহো ঈশ্বর — হেন যদি তোমার মনে লয় ॥ ৫৭ ॥
+
+তথাপি তাঁহাতে রহু মোর মনোবৃত্তি ৷  
+তোমার ঈশ্বর-কৃষ্ণে হউক মোর মতি ॥ ৫৮ ॥
+
+śuna uddhava, satya, kṛṣṇa, — āmāra tanaya  
+hear  Uddhava  truly  Kṛṣṇa  my  son  
+tem̐ho īśvara — hena yadi tomāra mane laya  
+He  God  thus  if  your  mind  takes  
+tathāpi tām̐hāte rahu mora mano-vṛtti  
+still  in Him  may remain  my  mind’s workings  
+tomāra īśvara-kṛṣṇe hauka mora mati  
+in your  God  Kṛṣṇa  may be  my  thought
+
+(57–58) “Listen, Uddhava: Kṛṣṇa is truly my son. But if it seems to you that He is God, then still let all the workings of my mind rest in Him; let my thoughts be fixed on your God, Kṛṣṇa.”[^23]
+
 ---
 
 [^1]: The same verse as Ādi 1.12. The edition ascribes verses 6.4–6.5 to the diary of Svarūpa Dāmodara («শ্রীস্বরূপগোস্বামি-কড়চায় শ্লোক»; heading: “explanation of the twelfth and thirteenth of the first fourteen verses of the Ādi”). *Anubhāṣya*: Mahā-Viṣṇu, the maker of the world, is the shelter of the efficient cause (*nimitta*), and His avatāra, the Lord Advaita Ācārya, is the shelter of the material cause (*upādāna*).
@@ -349,3 +620,23 @@ of the Lotus-eyed  He  because  ‘aṅga’  ‘aṁśa’
 [^12]: *Anubhāṣya* (on 6.26–6.28): although Advaita Prabhu is Viṣṇu-tattva, the One who is served, He has no work but the good of the souls — awakening in them the desire to serve. Had He shown His pastimes only as the One who is served, the pleasure-seeking people of the world would have imitated Him and become godless adherents of bare non-duality, or worshippers of themselves as God; seeing this, He displayed the pastime of a servant of Viṣṇu, and that is His being the Ācārya. As for the wicked who defile the holy place and dress of the Ācārya and, instead of serving the Lord, dance the dance of sense-pleasure, the Ācārya utterly rejects them.
 
 [^13]: The edition’s heading: “The meaning of the name ‘Kamalākṣa’.” *Avataṁsa* — “a crown, an ornament”: Kamalākṣa is the loveliest of names.
+
+[^14]: As in the Gauḍīya Maṭha edition: «তুলসীদলে» (“with tulasī leaves”; another reading: «তুলসীজলে», “with tulasī and water”). The edition’s heading: “Advaita Prabhu calls Mahāprabhu down.” On 6.33–6.34 the *Anubhāṣya* refers to Ādi 3.91 and 3.95–3.108, where Advaita worships Kṛṣṇa with tulasī leaves and Ganges water.
+
+[^15]: The edition’s heading: “One limb of Gaura is Advaita, the other is Nitāi.” On 6.36–6.38 the *Anubhāṣya* refers to Ādi 3.71–3.74.
+
+[^16]: *Amṛta-pravāha-bhāṣya*: Advaita Prabhu is a disciple of Mādhavendra Purī, and His godbrother Īśvara Purī is Mahāprabhu’s guru; that is why Mahāprabhu honours the Ācārya as a guru. In truth Śrī Caitanya is the Lord of all and Advaita is His servant. *Anubhāṣya*: Mādhavendra Purī is one of the gurus of the sampradāya of Śrī Madhvācārya, and his disciples are Īśvara Purī and Śrī Advaita; the line of succession is cited from the *Gaura-gaṇoddeśa-dīpikā*.
+
+[^17]: *Anubhāṣya*: accepting the mood of a devotee, Mahā-Viṣṇu sets aside the sense of His own majesty and finds bliss in serving the Lord as His duty; in that bliss of service His sense of being the enjoyer recedes. By His own example He moves the souls to serve Kṛṣṇa at every moment.
+
+[^18]: *Amṛta-pravāha-bhāṣya*: the happiness of Brahman is the happiness of the notion of non-difference, “I am Brahman.” The *Anubhāṣya* cites the *Bhakti-rasāmṛta-sindhu* (1.1.38): “Even if the bliss of Brahman were multiplied a parārdha times, it would not equal an atom of the ocean of the happiness of bhakti.”
+
+[^19]: As in the Gauḍīya Maṭha edition: «নারদাদি» (“Nārada and others”; another reading: «নারদার»). The edition’s heading: “(2) The associates of Viṣṇu, and Brahmā, Śiva, the four Sanas, Nārada, Śuka and others too, are servants of Kṛṣṇa.”
+
+[^20]: As in the Gauḍīya Maṭha edition: «হইল» (another reading: «হইলা»); the sense is the same. *Amṛta-pravāha-bhāṣya*: *āgala* — “the foremost”.
+
+[^21]: *Amṛta-pravāha-bhāṣya*: “elders” are those related to Kṛṣṇa in parental love, “equals” — the friends, “juniors” — those beneath them; love for Kṛṣṇa gives all three the mood of service. So the elders, equals and juniors of Kṛṣṇa Caitanya are all His servants.
+
+[^22]: The edition’s heading: “(5) Even in Nanda Mahārāja’s parental love there is service to Kṛṣṇa.” *Guru* here means “elder” (*Amṛta-pravāha-bhāṣya* on 6.52).
+
+[^23]: *Amṛta-pravāha-bhāṣya* on 6.58: “O Uddhava, even if you think that Kṛṣṇa is God, may my mind rest in that Kṛṣṇa.” Nanda prays for attachment to the Kṛṣṇa whom Uddhava calls God — this is the “semblance of service” (6.55) of which the author speaks.
