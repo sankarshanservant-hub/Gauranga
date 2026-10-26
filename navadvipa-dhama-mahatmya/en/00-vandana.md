@@ -1,12 +1,8 @@
-## Śrīman Navadvīpa- dhāma-vandanā
+## Śrīman Navadvīpa-dhāma-vandanā
 
-A summary of
+A summary of *Śrī Navadvīpa-dhāma-māhātmya* in twenty Sanskrit verses
 
-*Śrī Navadvīpa-dhāma-māhātmya*
-
-in twenty Sanskrit verses
-
-Śrīla Bhakti Vinod Ṭhākur
+**Śrīla Bhakti Vinod Ṭhākur**
 
 **1.** The śruti known as *Chhāndogya* calls it ‘the city of the Supreme Absolute’. The smṛti calls it ‘Vaikuṇṭha’, the abode of Lord Viṣṇu. Others know it as ‘the white island’. The rare relishers of rasa call it ‘the forest of Vraja’. I bow here to Nabadwīp, the abode of supreme joy.
 
@@ -34,5 +30,16 @@ in twenty Sanskrit verses
 
 **13.** In one of its regions, Rudra, lost in divine love, gently dances with his associates, enlivened by the sound of ḍamarus. Oh! How he continuously sings about Viśvambhar in this place! I bow here to Nabadwīp, the abode of supreme joy.
 
-> *yathā sthāne sthāne jala-parivṛtās tīrtha-nikarāḥ*  
-> *virājante śaśvat sakala-muni-sevyā hy agha-harāḥ*
+**14.** An abundance of holy places, surrounded by water, shine eternally throughout this land. Attended by Śiva, Brahmā, and all the other gods, these places destroy all sin and are worshippable to all the sages. I bow here to Nabadwīp, the abode of supreme joy.
+
+**15.** Here, Prauḍhā Māyā, the Lord’s warden, along with her husband, deceives the enemies of the Vaiṣṇavas by giving them material happiness and bewilders those who are blinded by pride in their futile study of the scriptures. I bow here to Nabadwīp, the abode of supreme joy.
+
+**16.** Here, Kālī, the wife of Śambhu and destroyer of the demons, sincerely protects the devotees of the Lord out of affection for them. Lost in divine love, she eternally worships Gaura in ecstasy. I bow here to Nabadwīp, the abode of supreme joy.
+
+**17.** Saraswatī, the goddess of speech, whose heart is given to the service of the Lord’s feet, eternally resides on the bank of the Gaṅgā in this land and personally bestows upon the brāhmaṇs knowledge of all the scriptures on conduct and other subjects. I bow here to Nabadwīp, the abode of supreme joy.
+
+**18.** Adorned with the lustre of Śrī Rādhā, the Lord appeared here from the womb of Śrī Śachī. Intent on purging the filth of Kali, He engaged in supremely purifying chanting of the Name, accompanied by His associates. I bow here to Nabadwīp, the abode of supreme joy.
+
+**19.** Oh! Here, some devotees, expert in the service of the Lord, directly see with their own eyes Śrī Gaurāṅga dancing amidst His associates and their wives in this supremely beautiful city! I bow here to Nabadwīp, the abode of supreme joy.
+
+**20.** One who resides in Nabadwīp without duplicity and recites this prayer with devotion at the time of worshipping the Lord, genuinely attains the supremely delightful joy of love for the Lord, the embodiment of spiritual ecstasy—the son of Śachī, who is Kṛṣṇa Himself.

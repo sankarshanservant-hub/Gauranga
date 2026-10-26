@@ -1,7 +1,7 @@
 ## Preface
 
-*A translation of the preface to the original publication of*  
-*Śrī Navadvīpa-dhāma-māhātmya* *written by*  
+A translation of the preface to the original publication of  
+*Śrī Navadvīpa-dhāma-māhātmya* written by  
 **Śrīla Bhakti Vinod Ṭhākur**
 
 “As there are books about the glory of other Dhāms, so there should be a book about the glory of Śrī Nabadwīp Dhām”—long ago this desire arose in the hearts of the sādhus. But because such a book cannot be published until Śrīman Nityānanda Prabhu desires it, it has remained unpublished. Now that a suitable time has arrived by the inspiration of Śrīman Nityānanda Prabhu, and with the sanction of the Vaiṣṇava sādhus, I have published this book.

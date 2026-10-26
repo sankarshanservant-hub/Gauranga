@@ -1,6 +1,6 @@
 ## Śrī Navadvīpa-dhāma-parikramāya Āhvāna
 
-*An invitation to Śrī Nabadwīp Dhām Parikramā*
+An invitation to Śrī Nabadwīp Dhām Parikramā
 
 **Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj**
 
