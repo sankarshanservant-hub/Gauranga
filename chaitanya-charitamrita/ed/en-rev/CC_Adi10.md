@@ -16,7 +16,7 @@ in any way  by taking shelter  of whom
 śvāpi tad-gandha-bhāg bhavet  
 even a dog  of that fragrance  a partaker  may become
 
-(1) Again and again I bow to the bees that drink the honey of Śrī Caitanya’s lotus feet. Whoever takes shelter of them in any way at all, even one as low as a dog, comes to share in the fragrance of those feet.[^1]
+(1) Again and again I bow to the devotees who, like bees, drink the honey of Śrī Caitanya’s lotus feet. Even one as low as a dog, if he takes shelter of them in any way at all, comes to share in the fragrance of those feet.[^1]
 
 জয় জয় শ্রীকৃষ্ণচৈতন্য-নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -46,7 +46,7 @@ of Caitanya Gosāñi  as many  associates  the host
 laghu-guru-bhāva tām̐ra nā haya niścaya  
 lesser or greater  status  their  not  is  determinable
 
-(4) Of all the host of Caitanya Gosāñi’s associates, none can determine who is greater and who is lesser.[^2]
+(4) Caitanya Gosāñi’s associates are a vast host, and no one can determine who among them is greater and who is lesser.[^2]
 
 যত যত মহান্ত কৈলা তাঁ-সবার গণন ৷  
 কেহ করিবারে নারে জ্যেষ্ঠ-লঘু-ক্রম ॥ ৫ ॥
@@ -56,7 +56,7 @@ as many  as many  great souls  made  of them all  an enumeration
 keha karibāre nāre jyeṣṭha-laghu-krama  
 anyone  to make  is not able  of senior and junior  the order
 
-(5) Many great souls have listed them all, yet none has been able to rank them as senior and junior.
+(5) Many great souls have listed them all, yet none has been able to set them in order of seniority.
 
 অতএব তাঁ-সবারে করি’ নমস্কার ৷  
 নাম-মাত্র করি, দোষ না লবে আমার ॥ ৬ ॥
@@ -140,7 +140,7 @@ of Ācāryaratna  the name  ‘Śrī Candraśekhara’
 yām̐ra ghare devī-bhāve nācilā īśvara  
 in whose  house  in the mood of the Goddess  danced  the Lord
 
-(13) The name of Ācāryaratna is Śrī Candraśekhara. In his house the Lord danced in the form of the Goddess, the Ādi-śakti.[^6]
+(13) Ācāryaratna’s own name is Śrī Candraśekhara. In his house the Lord danced in the form of the Goddess, the Ādi-śakti.[^6]
 
 পুণ্ডরীক বিদ্যানিধি — বড়শাখা জানি ৷  
 যাঁর নাম লঞা প্রভু কান্দিলা আপনি ॥ ১৪ ॥
@@ -300,7 +300,7 @@ of the Lord  extremely  dear —  Paṇḍita  Gaṅgādāsa
 yām̐hāra smaraṇe haya sarva-bandha-nāśa  
 by whose  remembrance  there is  of all  bonds  destruction
 
-(29) Paṇḍita Gaṅgādāsa was extremely dear to the Lord. By remembering him all bondage is destroyed.
+(29) Paṇḍita Gaṅgādāsa was extremely dear to the Lord. Simply to remember him destroys all bondage.
 
 চৈতন্য-পার্ষদ — শ্রীআচার্য্য পুরন্দর ৷  
 পিতা করি’ যাঁরে বলে গৌরাঙ্গসুন্দর ॥ ৩০ ॥
@@ -320,7 +320,7 @@ Dāmodara  Paṇḍita  the branch  in love  fierce
 prabhura upare yem̐ho kaila vākya-daṇḍa  
 of the Lord  toward  who  made  a chastisement in words
 
-(31) The branch Dāmodara Paṇḍita was fierce in his love; he even rebuked the Lord in words.
+(31) Dāmodara Paṇḍita, another branch, was so fierce in his love that he even rebuked the Lord.
 
 দণ্ড-কথা কহিব আগে বিস্তার করিয়া ৷  
 দণ্ডে তুষ্ট প্রভু তাঁরে পাঠাইলা নদীয়া ॥ ৩২ ॥
@@ -380,7 +380,7 @@ of Caitanya  the feet  besides  not  knows  anything else
 deuṭi dharena, yabe prabhu karena nṛtya  
 the torch  holds  when  the Lord  dances
 
-(37) The branch Śrīmān Paṇḍita was the Lord’s personal servant; whenever the Lord danced, he held the torch.
+(37) Śrīmān Paṇḍita, a branch and the Lord’s personal servant, held the torch whenever the Lord danced.
 
 শুক্লাম্বর-ব্রহ্মচারী বড় ভাগ্যবান্ ৷  
 যাঁর অন্ন মাগি’ কাড়ি’ খাইলা ভগবান্ ॥ ৩৮ ॥
@@ -400,7 +400,7 @@ Nandana  Ācārya  a branch  in the world  famed
 lukāiyā dui prabhura yām̐ra ghare sthita  
 hiding  the two  Lords  in whose  house  stayed
 
-(39) The branch Nandana Ācārya is famed in the world, for the two Lords hid in his house.
+(39) Nandana Ācārya is a branch renowned throughout the world, for the two Lords hid in his house.
 
 শ্রীমুকুন্দ-দত্ত-শাখা — প্রভুর সমাধ্যায়ী ৷  
 যাঁহার কীর্ত্তনে নাচে চৈতন্য-গোসাঞি ॥ ৪০ ॥
@@ -410,7 +410,7 @@ hiding  the two  Lords  in whose  house  stayed
 yām̐hāra kīrtane nāce caitanya-gosāñi  
 in whose  kīrtana  dances  Caitanya Gosāñi
 
-(40) The branch Śrī Mukunda Datta was the Lord’s fellow student; when he sang kīrtana, Caitanya Gosāñi danced.
+(40) Śrī Mukunda Datta, another branch, was the Lord’s fellow student; when he sang kīrtana, Caitanya Gosāñi danced.
 
 বাসুদেব দত্ত — প্রভুর ভৃত্য মহাশয় ৷  
 সহস্র-মুখে যাঁর গুণ কহিলে না হয় ॥ ৪১ ॥
@@ -440,7 +440,7 @@ of the branch Haridāsa Ṭhākura  wonderful  the character
 tina lakṣa nāma tem̐ho layena apatita  
 three  hundred thousand  names  he  takes  without fail
 
-(43) Wonderful is the life of the branch Haridāsa Ṭhākura: without fail he chanted three hundred thousand names every day.
+(43) Haridāsa Ṭhākura, another branch, lived a wondrous life: without fail he chanted three hundred thousand names every day.
 
 তাঁহার অনন্ত গুণ — কহি দিঙ্মাত্র ৷  
 আচার্য্য-গোসাঞি যাঁরে ভুঞ্জায় শ্রাদ্ধপাত্র ॥ ৪৪ ॥
@@ -450,7 +450,7 @@ his  endless  virtues —  I tell  only a glimpse
 ācārya-gosāñi yām̐re bhuñjāya śrāddha-pātra  
 Ācārya Gosāñi  whom  fed  the śrāddha plate
 
-(44) His virtues are endless; I can give only a glimpse of them. Advaita Ācārya fed him the plate of the śrāddha offering.[^16]
+(44) His virtues are endless; I can give only a glimpse of them. It was he whom Advaita Ācārya fed from the plate of the memorial offering, the *śrāddha-pātra*.[^16]
 
 প্রহ্লাদ-সমান তাঁর গুণের তরঙ্গ ৷  
 যবন-তাড়নেও যাঁর নাহিক ভ্রূভঙ্গ ॥ ৪৫ ॥
@@ -500,7 +500,7 @@ Satyarāja and others —  of his  mercy  the recipients
 prabhura hṛdaya drave śuni’ dainya yām̐ra  
 of the Lord  the heart  melts  hearing  the humility  whose
 
-(49) The branch Śrī Murāri Gupta is a storehouse of love; hearing his humility, the Lord’s heart would melt.[^18]
+(49) Śrī Murāri Gupta is a branch, a storehouse of love; whenever the Lord heard his humble words, His heart would melt.[^18]
 
 প্রতিগ্রহ নাহি করে, না লয় কার ধন ৷  
 আত্মবৃত্তি করি’ করে কুটুম্ব ভরণ ॥ ৫০ ॥
@@ -540,7 +540,7 @@ of Caitanya  the feet  besides  not  knows  anything else
 kājī-gaṇera mukhe yem̐ha bolāila hari  
 of the Kazis  in the mouths  who  made utter  ‘Hari’
 
-(53) The branch Śrī Gadādhara dāsa stands above all; he made even the Kazis utter the name of Hari.[^20]
+(53) Śrī Gadādhara dāsa is a branch above all others; he made even the Kazis utter the name of Hari.[^20]
 
 শিবানন্দ সেন — প্রভুর ভৃত্য অন্তরঙ্গ ৷  
 প্রভু-স্থানে যাইতে সবে লয়েন যাঁর সঙ্গ ॥ ৫৪ ॥
@@ -570,7 +570,7 @@ to the devotees  mercy  shows  the Lord  in these three  forms
 ‘sākṣāt’, ‘āveśa’ āra ‘āvirbhāva’ rūpe  
 ‘sākṣāt’,  ‘āveśa’  and  ‘āvirbhāva’  in the form
 
-(56) The Lord shows His mercy to the devotees in three ways — *sākṣāt*, *āveśa* and *āvirbhāva*: He is with them in person, He enters into someone with His power, or He manifests Himself where He is not Himself present.
+(56) The Lord shows His mercy to the devotees in three ways: by being with them in person (*sākṣāt*), by entering someone with His power (*āveśa*), and by appearing where He is not present in person (*āvirbhāva*).
 
 ‘সাক্ষাতে’ সকল ভক্ত দেখে নির্ব্বিশেষ ৷  
 নকুল ব্রহ্মচারী-দেহে প্রভুর ‘আবেশ’ ॥ ৫৭ ॥
