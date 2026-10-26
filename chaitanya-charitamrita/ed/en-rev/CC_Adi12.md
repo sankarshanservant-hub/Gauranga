@@ -612,6 +612,356 @@ Hṛdayānanda  Sena,  and  dāsa  Bholānātha
 
 (60) Jagannātha Kara, Bhavanātha Kara, Hṛdayānanda Sena and Bholānātha dāsa.
 
+যাদবদাস, বিজয়দাস, জনার্দ্দন ৷  
+অনন্তদাস, কানুপণ্ডিত, দাস নারায়ণ ॥ ৬১ ॥
+
+yādava-dāsa, vijaya-dāsa, janārdana  
+Yādava dāsa,  Vijaya dāsa,  Janārdana  
+ananta-dāsa, kānu-paṇḍita, dāsa nārāyaṇa  
+Ananta dāsa,  Kānu Paṇḍita,  dāsa  Nārāyaṇa
+
+(61) Yādava dāsa, Vijaya dāsa, Janārdana, Ananta dāsa, Kānu Paṇḍita and Nārāyaṇa dāsa.
+
+শ্রীবৎস পণ্ডিত, ব্রহ্মচারী হরিদাস ৷  
+পুরুষোত্তম ব্রহ্মচারী আর কৃষ্ণদাস ॥ ৬২ ॥
+
+śrīvatsa paṇḍita, brahmacārī haridāsa  
+Śrīvatsa  Paṇḍita,  Brahmacārī  Haridāsa  
+puruṣottama brahmacārī āra kṛṣṇadāsa  
+Puruṣottama  Brahmacārī  and  Kṛṣṇadāsa
+
+(62) Śrīvatsa Paṇḍita, Haridāsa Brahmacārī, Puruṣottama Brahmacārī and Kṛṣṇadāsa.
+
+পুরুষোত্তম পণ্ডিত, আর রঘুনাথ ৷  
+বনমালী কবিচন্দ্র, আর বৈদ্যনাথ ॥ ৬৩ ॥
+
+puruṣottama paṇḍita, āra raghunātha  
+Puruṣottama  Paṇḍita,  and  Raghunātha  
+vanamālī kavicandra, āra vaidyanātha  
+Vanamālī  Kavicandra,  and  Vaidyanātha
+
+(63) Puruṣottama Paṇḍita, Raghunātha, Vanamālī Kavicandra and Vaidyanātha.
+
+লোকনাথ পণ্ডিত, আর মুরারি পণ্ডিত ৷  
+শ্রীহরিচরণ, আর মাধব পণ্ডিত ॥ ৬৪ ॥
+
+lokanātha paṇḍita, āra murāri paṇḍita  
+Lokanātha  Paṇḍita,  and  Murāri  Paṇḍita  
+śrī-haricaraṇa, āra mādhava paṇḍita  
+Śrī  Haricaraṇa,  and  Mādhava  Paṇḍita
+
+(64) Lokanātha Paṇḍita, Murāri Paṇḍita, Śrī Haricaraṇa and Mādhava Paṇḍita.
+
+বিজয় পণ্ডিত, আর পণ্ডিত শ্রীরাম ৷  
+অসংখ্য অদ্বৈত-শাখা কত লইব নাম ॥ ৬৫ ॥
+
+vijaya paṇḍita, āra paṇḍita śrīrāma  
+Vijaya  Paṇḍita,  and  Paṇḍita  Śrī Rāma  
+asaṅkhya advaita-śākhā kata laiba nāma  
+countless  Advaita’s branches  how many  shall I take  names
+
+(65) Vijaya Paṇḍita and Śrī Rāma Paṇḍita. The branches of Advaita are countless, so how many names can I give?[^22]
+
+মালি-দত্ত জল অদ্বৈত-স্কন্ধ যোগায় ৷  
+সেই জলে জীয়ে শাখা, — ফুল-ফল পায় ॥ ৬৬ ॥
+
+māli-datta jala advaita-skandha yogāya  
+by the gardener  given  water  the Advaita  trunk  supplies  
+sei jale jīye śākhā, — phula-phala pāya  
+by that  water  live  the branches  —  flowers and fruit  they gain
+
+(66) The water of mercy that Caitanya the gardener gives sustains the Advaita trunk, and by that water its branches live and bear flowers and fruit.[^23]
+
+ইহার মধ্যে মালি-পাছে কোন শাখাগণ ৷  
+না মানে চৈতন্য-মালী দুর্দ্দৈব কারণ ॥ ৬৭ ॥
+
+ihāra madhye māli-pāche kona śākhā-gaṇa  
+of these  among  after the gardener  some  branches  
+nā māne caitanya-mālī durdaiva kāraṇa  
+do not  accept  Caitanya  the gardener  misfortune  by reason of
+
+(67) But when Caitanya the gardener had concluded His manifest pastimes, some of these branches, to their misfortune, refused to accept Him.[^24]
+
+সৃজাইল, জীয়াইল, তাঁরে না মানিল ৷  
+কৃতঘ্ন হইলা, তারে স্কন্ধ ক্রুদ্ধ হৈল ॥ ৬৮ ॥
+
+sṛjāila, jīyāila, tām̐re nā mānila  
+He created them,  He kept them alive,  Him  they did not  accept  
+kṛtaghna hailā, tāre skandha kruddha haila  
+ungrateful  they became,  with them  the trunk  angry  became
+
+(68) He had brought them forth and kept them alive, yet they would not accept Him. They proved ungrateful, and the trunk grew angry with them.
+
+ক্রুদ্ধ হঞা স্কন্ধ তারে জল না সঞ্চারে ৷  
+জলাভাবে কৃশ শাখা শুকাইয়া মরে ॥ ৬৯ ॥
+
+kruddha hañā skandha tāre jala nā sañcāre  
+angry  becoming  the trunk  to them  water  does not  pass  
+jalābhāve kṛśa śākhā śukāiyā mare  
+for want of water  withered  branches  drying up  die
+
+(69) In its anger the trunk let no water pass to them, and for want of water the branches withered, dried up and died.
+
+চৈতন্য-রহিত দেহ — শুষ্ককাষ্ঠ-সম ৷  
+জীবিতেই মৃত সেই, মৈলে দণ্ডে যম ॥ ৭০ ॥
+
+caitanya-rahita deha — śuṣka-kāṣṭha-sama  
+without consciousness  the body  —  dry  wood  like  
+jīvitei mṛta sei, maile daṇḍe yama  
+while living  dead  he,  when he dies  punishes  Yama
+
+(70) A body without consciousness is like dry wood. So too, one without Caitanya is dead while still alive, and when he dies, Yama punishes him.[^25]
+
+কেবল এ গণ-প্রতি নহে এই দণ্ড ৷  
+চৈতন্য-বিমুখ যেই, সেই ত’ পাষণ্ড ॥ ৭১ ॥
+
+kevala e gaṇa-prati nahe ei daṇḍa  
+only  these  followers  toward  is not  this  punishment  
+caitanya-vimukha yei sei ta’ pāṣaṇḍa  
+from Caitanya  turned away  whoever,  he  indeed  a pāṣaṇḍa
+
+(71) This punishment is not for these alone: whoever turns away from Caitanya is a *pāṣaṇḍa*, a godless man.
+
+কি পণ্ডিত, কি তপস্বী, কিবা গৃহী, যতি ৷  
+চৈতন্য-বিমুখ যেই, তার এই গতি ॥ ৭২ ॥
+
+ki paṇḍita, ki tapasvī, kibā gṛhī, yati  
+whether  a scholar,  or  an ascetic,  or  a householder,  a sannyāsī  
+caitanya-vimukha yei, tāra ei gati  
+from Caitanya  turned away  whoever,  his  this  fate
+
+(72) Scholar or ascetic, householder or sannyāsī — whoever turns away from Caitanya meets this fate.
+
+যে যে লৈল শ্রীঅচ্যুতানন্দের মত ৷  
+সেই আচার্য্যের গণ — ‘মহাভাগবত’ ॥ ৭৩ ॥
+
+ye ye laila śrī-acyutānandera mata  
+whoever  took  of Śrī  Acyutānanda  the view  
+sei ācāryera gaṇa — ‘mahā-bhāgavata’  
+those  the Ācārya’s  followers  —  great devotees
+
+(73) Those followers of the Ācārya who accepted the view of Śrī Acyutānanda are *mahā-bhāgavatas*, great devotees.
+
+সেই সেই, — আচার্য্যের কৃপার ভাজন ৷  
+অনায়াসে পাইল সেই চৈতন্য-চরণ ॥ ৭৪ ॥
+
+sei sei, — ācāryera kṛpāra bhājana  
+those very ones  —  of the Ācārya’s  mercy  recipients  
+anāyāse pāila sei caitanya-caraṇa  
+without effort  attained  they  Caitanya’s  feet
+
+(74) It is they who received the Ācārya’s mercy, and without effort they attained the feet of Caitanya.[^26]
+
+সেই আচার্য্যগণে মোর কোটী নমস্কার ৷  
+অচ্যুতানন্দ প্রায়, চৈতন্য — জীবন যাঁহার ॥ ৭৫ ॥
+
+sei ācārya-gaṇe mora koṭī namaskāra  
+to those  followers of the Ācārya  my  millions of  obeisances  
+acyutānanda prāya, caitanya — jīvana yām̐hāra  
+Acyutānanda  like,  Caitanya  —  the life  whose
+
+(75) To those followers of the Ācārya who are like Acyutānanda, whose very life is Caitanya, I offer obeisances millions of times.
+
+এই ত’ কহিলাঙ আচার্য্য-গোসাঞির গণ ৷  
+তিন স্কন্ধের কৈল শাখার সংক্ষেপ গণন ॥ ৭৬ ॥
+
+ei ta’ kahilāṅa ācārya-gosāñira gaṇa  
+thus  indeed  I have told  of Ācārya Gosāñi  the followers  
+tina skandhera kaila śākhāra saṁkṣepa gaṇana  
+of the three  trunks  I made  of the branches  a brief  count
+
+(76) Thus I have told of the followers of Ācārya Gosāñi, and have briefly counted the branches of the three trunks.[^27]
+
+শাখার উপশাখা, তার নাহিক গণন ৷  
+কিছুমাত্র কহি’ করি দিগ্দরশন ॥ ৭৭ ॥
+
+śākhāra upaśākhā, tāra nāhika gaṇana  
+of the branches  the offshoots,  of them  there is no  count  
+kichu-mātra kahi’ kari dig-daraśana  
+only a little  telling  I give  a glimpse
+
+(77) The offshoots of these branches are past counting; I have told only a little, to give a glimpse of them.
+
+শ্রীগদাধর পণ্ডিত-উপশাখা মহোত্তম ৷  
+তাঁর উপশাখা কিছু করি যে গণন ॥ ৭৮ ॥
+
+śrī-gadādhara paṇḍita-upaśākhā mahottama  
+of Śrī  Gadādhara  Paṇḍita  the offshoots  most excellent  
+tām̐ra upaśākhā kichu kari ye gaṇana  
+his  offshoots  some  I make  indeed  a count
+
+(78) Most excellent are the offshoots of Śrī Gadādhara Paṇḍita, and some of them I shall now name.[^28]
+
+শাখা-শ্রেষ্ঠ ধ্রুবানন্দ, শ্রীধর ব্রহ্মচারী ৷  
+ভাগবতাচার্য্য, হরিদাস ব্রহ্মচারী ॥ ৭৯ ॥
+
+śākhā-śreṣṭha dhruvānanda, śrīdhara brahmacārī  
+of the branches  the best  Dhruvānanda,  Śrīdhara  Brahmacārī  
+bhāgavatācārya, haridāsa brahmacārī  
+Bhāgavatācārya,  Haridāsa  Brahmacārī
+
+(79) The best of these branches is Dhruvānanda; after him come Śrīdhara Brahmacārī, Bhāgavatācārya and Haridāsa Brahmacārī.[^29]
+
+অনন্ত আচার্য্য, কবিদত্ত, মিশ্র নয়ন ৷  
+গঙ্গামন্ত্রী, মামু ঠাকুর, কণ্ঠাভরণ ॥ ৮০ ॥
+
+ananta ācārya, kavidatta, miśra-nayana  
+Ananta  Ācārya,  Kavidatta,  Miśra Nayana  
+gaṅgāmantrī, māmu ṭhākura, kaṇṭhābharaṇa  
+Gaṅgāmantrī,  Māmu  Ṭhākura,  Kaṇṭhābharaṇa
+
+(80) Ananta Ācārya, Kavidatta, Nayana Miśra, Gaṅgāmantrī, Māmu Ṭhākura and Kaṇṭhābharaṇa.[^30]
+
+ভূগর্ভ গোসাঞি, আর ভাগবত দাস ৷  
+যেই দুই আসি’ কৈল বৃন্দাবনে বাস ॥ ৮১ ॥
+
+bhūgarbha gosāñi, āra bhāgavata dāsa  
+Bhūgarbha  Gosāñi,  and  Bhāgavata  dāsa  
+yei dui āsi’ kaila vṛndāvane vāsa  
+who  both  coming  made  in Vṛndāvana  their dwelling
+
+(81) Bhūgarbha Gosāñi and Bhāgavata dāsa both came to Vṛndāvana and made their home there.[^31]
+
+বাণীনাথ ব্রহ্মচারী — বড় মহাশয় ৷  
+বল্লভচৈতন্যদাস — কৃষ্ণপ্রেমময় ॥ ৮২ ॥
+
+vāṇīnātha brahmacārī — baḍa mahāśaya  
+Vāṇīnātha  Brahmacārī  —  a great  soul  
+vallabha-caitanya-dāsa — kṛṣṇa-premamaya  
+Vallabha  Caitanya dāsa  —  with love for Kṛṣṇa  filled
+
+(82) Vāṇīnātha Brahmacārī was a great soul, and Vallabha-caitanya dāsa was full of love for Kṛṣṇa.
+
+শ্রীনাথ চক্রবর্ত্তী, আর উদ্ধব দাস ৷  
+জিতামিত্র, কাষ্ঠকাটা জগন্নাথদাস ॥ ৮৩ ॥
+
+śrīnātha cakravartī, āra uddhava dāsa  
+Śrīnātha  Cakravartī,  and  Uddhava  dāsa  
+jitāmitra, kāṣṭhakāṭā jagannātha-dāsa  
+Jitāmitra,  of Kāṣṭhakāṭā  Jagannātha dāsa
+
+(83) Śrīnātha Cakravartī, Uddhava dāsa, Jitāmitra and Jagannātha dāsa of Kāṣṭhakāṭā.[^32]
+
+শ্রীহরি আচার্য্য, দাস পুরিয়াগোপাল ৷  
+কৃষ্ণদাস ব্রহ্মচারী, পুষ্পগোপাল ॥ ৮৪ ॥
+
+śrī-hari ācārya, dāsa puriyā-gopāla  
+Śrī  Hari  Ācārya,  dāsa  Puriyā Gopāla  
+kṛṣṇadāsa brahmacārī, puṣpa-gopāla  
+Kṛṣṇadāsa  Brahmacārī,  Puṣpagopāla
+
+(84) Śrī Hari Ācārya, Puriyā Gopāla dāsa, Kṛṣṇadāsa Brahmacārī and Puṣpagopāla.[^33]
+
+শ্রীহর্ষ, রঘুমিশ্র, পণ্ডিত লক্ষ্মীনাথ ৷  
+বঙ্গবাটী-চৈতন্যদাস, শ্রীরঘুনাথ ॥ ৮৫ ॥
+
+śrīharṣa, raghu-miśra, paṇḍita lakṣmīnātha  
+Śrīharṣa,  Raghu Miśra,  Paṇḍita  Lakṣmīnātha  
+baṅgavāṭī-caitanya-dāsa, śrī-raghunātha  
+of Baṅgavāṭī  Caitanya dāsa,  Śrī  Raghunātha
+
+(85) Śrīharṣa, Raghu Miśra, Lakṣmīnātha Paṇḍita, Caitanya dāsa of Baṅgavāṭī and Śrī Raghunātha.
+
+অমোঘ পণ্ডিত, হস্তিগোপাল, চৈতন্যবল্লভ ৷  
+যদু গাঙ্গুলি আর মঙ্গল বৈষ্ণব ॥ ৮৬ ॥
+
+amogha paṇḍita, hasti-gopāla, caitanya-vallabha  
+Amogha  Paṇḍita,  Hastigopāla,  Caitanya-vallabha  
+yadu gāṅguli āra maṅgala vaiṣṇava  
+Yadu  Gāṅguli  and  Maṅgala  Vaiṣṇava
+
+(86) Amogha Paṇḍita, Hastigopāla, Caitanya-vallabha, Yadu Gāṅguli and Maṅgala Vaiṣṇava.
+
+চক্রবর্ত্তী শিবানন্দ শাখাতে উদ্দাম ৷  
+মদনগোপাল পায়ে যাঁহার বিশ্রাম ॥ ৮৭ ॥
+
+cakravartī śivānanda śākhāte uddāma  
+Cakravartī  Śivānanda  among the branches  unbounded  
+madana-gopāla pāye yām̐hāra viśrāma  
+of Madana-gopāla  at the feet  whose  rest
+
+(87) Among the branches Śivānanda Cakravartī stood out in his ardour; he found his rest at the feet of Madana-gopāla.[^34]
+
+এই ত’ সংক্ষেপে কহিলাঙ পণ্ডিতের গণ ৷  
+ঐছে আর শাখা-উপশাখার গণন ॥ ৮৮ ॥
+
+ei ta’ saṁkṣepe kahilāṅa paṇḍitera gaṇa  
+thus  indeed  briefly  I have told  of the Paṇḍita  the followers  
+aiche āra śākhā-upaśākhāra gaṇana  
+likewise  other  of branches and offshoots  the count
+
+(88) Thus I have briefly told of the Paṇḍita’s followers; in the same way one could count many other branches and offshoots.[^35]
+
+পণ্ডিতের গণ সব, — ভাগবত ধন্য ৷  
+প্রাণবল্লভ — সবার শ্রীকৃষ্ণচৈতন্য ॥ ৮৯ ॥
+
+paṇḍitera gaṇa saba, — bhāgavata dhanya  
+of the Paṇḍita  the followers  all  —  devotees  blessed  
+prāṇa-vallabha — sabāra śrī-kṛṣṇa-caitanya  
+the beloved of their life  —  of all  Śrī  Kṛṣṇa  Caitanya
+
+(89) All the Paṇḍita’s followers are blessed devotees, and Śrī Kṛṣṇa Caitanya is the beloved of their lives.
+
+এই তিন স্কন্ধের কৈলুঁ শাখার গণন ৷  
+যাঁ-সবা-স্মরণে ভববন্ধ-বিমোচন ॥ ৯০ ॥
+
+ei tina skandhera kailum̐ śākhāra gaṇana  
+of these  three  trunks  I made  of the branches  the count  
+yām̐-sabā-smaraṇe bhava-bandha-vimocana  
+by remembering them all  of worldly bondage  release
+
+(90) Thus I have counted the branches of these three trunks. Whoever remembers them is freed from the bondage of worldly existence.[^36]
+
+যাঁ-সবা-স্মরণে পাই চৈতন্যচরণ ৷  
+যাঁ-সবা-স্মরণে হয় বাঞ্ছিত পূরণ ॥ ৯১ ॥
+
+yām̐-sabā-smaraṇe pāi caitanya-caraṇa  
+by remembering them all  I attain  Caitanya’s  feet  
+yām̐-sabā-smaraṇe haya vāñchita pūraṇa  
+by remembering them all  there is  of desires  fulfilment
+
+(91) By remembering them one attains the feet of Śrī Caitanya; by remembering them every desire is fulfilled.
+
+অতএব তাঁ-সবার বন্দিয়ে চরণ ৷  
+চৈতন্য-মালীর কহি লীলা-অনুক্রম ॥ ৯২ ॥
+
+ataeva tām̐-sabāra vandiye caraṇa  
+therefore  of them all  I worship  the feet  
+caitanya-mālīra kahi līlā-anukrama  
+of Caitanya the gardener  I tell  of the pastimes  the sequence
+
+(92) Therefore I bow down at the feet of them all, and now I shall tell in their order the pastimes of Caitanya the gardener.
+
+গৌরলীলামৃতসিন্ধু — অপার, অগাধ ৷  
+কে করিতে পারে তাঁহা অবগাহ-সাধ ॥ ৯৩ ॥
+
+gaura-līlāmṛta-sindhu — apāra, agādha  
+of Gaura’s pastimes  the nectar ocean  —  shoreless,  fathomless  
+ke karite pāre tām̐hā avagāha-sādha  
+who  to make  can  in it  of plunging  the wish
+
+(93) The nectar ocean of Gaura’s pastimes is shoreless and fathomless. Who could even dream of plunging into it?[^37]
+
+তাহার মাধুরী-গন্ধে লুব্ধ হয় মন ৷  
+অতএব তটে রহি’ চাকি এক কণ ॥ ৯৪ ॥
+
+tāhāra mādhurī-gandhe lubdha haya mana  
+its  by the fragrance of sweetness  enticed  becomes  the mind  
+ataeva taṭe rahi’ cāki eka kaṇa  
+therefore  on the shore  standing  I taste  one  drop
+
+(94) Yet the fragrance of its sweetness entices my heart, and so, standing on the shore, I taste a single drop.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৯৫ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(95) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: “The servants of Advaita are of two kinds: those who take the essence (*sāra-grāhī*) and the empty.” *Anubhāṣya*: *sāra*, the essence, are the people of Gaurahari who follow Advaita; *asāra*, the empty, are those who merely fancy themselves His followers but have turned away from Gaurahari — Māyāvādīs devoid of pure devotion; those who hold the essence are the *bhāgavatas*, whose life is Gaura. According to the edition’s *Kathāsāra*, the author calls *sāra-grāhī* the Vaiṣṇavas who follow the view of Śrī Acyutānanda (12.73), and all the rest *asāra*.
@@ -655,3 +1005,35 @@ Hṛdayānanda  Sena,  and  dāsa  Bholānātha
 [^20]: *Anubhāṣya*: Yadunandana Ācārya was the initiating guru of Śrī Raghunātha dāsa Gosvāmī (Antya 6.160–169). Vāsudeva Datta is Madhuvrata, a singer of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 140; see Ādi 10.41).
 
 [^21]: *Anubhāṣya*: Bhāgavata Ācārya was first among Advaita’s followers and later among Gadādhara’s; he wrote the *Prema-taraṅgiṇī* (*Śākhā-nirṇayāmṛta*, 6). Viṣṇudāsa Ācārya went with Acyutānanda to the festival at Kheturi. Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja; later he too joined the branch of Gadādhara (see 12.80).
+
+[^22]: *Anubhāṣya*: Śrī Rāma Paṇḍita is the younger brother of Śrīvāsa Paṇḍita (see Ādi 10.8); in the *Gaura-gaṇoddeśa-dīpikā* (91) he is the sage Parvata, Nārada’s friend.
+
+[^23]: Heading in the edition: “By the power of Gaura’s mercy the servants of Advaita who take the essence flourish.”
+
+[^24]: Heading in the edition to 67–69: “Only the unfortunate empty ones, who fancy themselves servants of Advaita, oppose Gaura, and, bereft of His mercy, perish.” *Amṛta-pravāha-bhāṣya* to 67–73: Advaita is a trunk of the wish-fulfilling tree of bhakti; Śrī Caitanya, as the gardener, waters and nourishes that trunk and its branches. But some branches, by misfortune, behind the gardener’s back refused to accept Him and declared the trunk alone to be the cause of the tree. Ungratefully they rejected Mahāprabhu, who created and sustains the Advaita trunk; no more water reached those sinful branches, and, for want of water, they withered, dried up and died.
+
+[^25]: A play on words: *caitanya-rahita* means both “without consciousness” and “without Caitanya”. Heading in the edition: “The devotee of Gaura-Kṛṣṇa is a guru to Yama; one who turns from Gaura-Kṛṣṇa is subject to Yama’s punishment.” The *Anubhāṣya* quotes Yama’s words to his messengers (Śrīmad-Bhāgavatam, 6.3.29): “Bring me those wicked ones whose tongue does not speak the names and qualities of the Lord, whose heart does not remember His lotus feet, whose head has not bowed even once to Kṛṣṇa — those who have not done their duty to Viṣṇu.”
+
+[^26]: Heading in the edition to 73–74: “Only Acyuta’s followers take the essence: they are devotees of Gaura who have received Advaita’s mercy.” Some editions add a verse here: “অচ্যুতের যেই মত, সেই মত সার / আর যত মত সব হইল ছারখার” (“The view of Acyuta is the essence; all other views have crumbled to dust”). It is not in the Gauḍīya Maṭha edition, and the numbering follows the edition.
+
+[^27]: The three trunks are the main trunk, Śrī Caitanya Himself (Ādi 9.12; Ādi 10), and the trunks of Śrī Nityānanda (Ādi 11) and Śrī Advaita; the followers of Gadādhara Paṇḍita the author goes on to call offshoots (12.78).
+
+[^28]: Gadādhara Paṇḍita himself is a great branch of the main trunk (Ādi 10.15). Heading in the edition: “Śrī Gadādhara’s disciples, or offshoots.” Other editions read here *paṇḍita śākhāte mahottama*, “Paṇḍita is the most excellent among the branches”.
+
+[^29]: *Anubhāṣya*: Dhruvānanda Brahmacārī is, according to the *Gaura-gaṇoddeśa-dīpikā* (152), Lalitā, one of her manifestations; the *Śākhā-nirṇayāmṛta* says that Śrī Gadādhara in his mercy bestowed his own nature on him. Śrīdhara Brahmacārī is Candralatikā (*GGD* 194, 199). Haridāsa Brahmacārī is counted among the followers both of Advaita (12.62) and of Gadādhara. The edition’s heading names Bhāgavatācārya “Raghunātha Bhāgavatācārya”.
+
+[^30]: *Anubhāṣya*: Mahāprabhu called Māmu Ṭhākura *māmā*, “uncle” (mother’s brother), and so he came to be known; his real name was Jagannātha Cakravartī, and he was a nephew of Nīlāmbara Cakravartī. After Gadādhara’s departure he took charge of the service of Śrī Ṭoṭā-gopīnātha in Purī. Kaṇṭhābharaṇa is Ananta Caṭṭarāja (*GGD* 196, 206).
+
+[^31]: *Anubhāṣya*: Bhūgarbha Gosvāmī is Prema-mañjarī (*GGD* 187), the bosom friend of Śrī Lokanātha Gosvāmī; he served Śrī Govindadeva in Vṛndāvana. Bhāgavata dāsa was his companion (*Śākhā-nirṇayāmṛta*, 31).
+
+[^32]: *Anubhāṣya*: Kāṣṭhakāṭā (Kāṭhādiyā) was Jagannātha dāsa’s village in Vikramapura, in the district of Dhaka; the *Śākhā-nirṇayāmṛta* (48) says that he brought the blessing of the holy name to Tripura.
+
+[^33]: *Anubhāṣya*, after the *Śākhā-nirṇayāmṛta* (38): Gopāla dāsa of Sādipura preached the holy name in Vikramapura. Kṛṣṇadāsa Brahmacārī is Indulekhā, one of the eight sakhīs (*GGD* 164); he lived in Vṛndāvana.
+
+[^34]: *Anubhāṣya*: Śivānanda Cakravartī is a manifestation of Lavaṅga-mañjarī (*GGD* 183); he lived in Vṛndāvana (see Ādi 8.70).
+
+[^35]: *Anubhāṣya*: in the *Śākhā-nirṇaya* Yadunandana dāsa names twenty-three more branches of Gadādhara, among them Vallabha Bhaṭṭa (after whom the Vallabha sampradāya, the path of *puṣṭi*, is known), Madhu Paṇḍita (who established the service of Śrī Gopīnātha in Vṛndāvana) and Lokanātha Bhaṭṭa (the guru of Ṭhākura Narottama).
+
+[^36]: Heading in the edition to 90–91: “The glory of remembering the followers of Nitāi, Advaita and Gadādhara.”
+
+[^37]: Heading in the edition to 93–94: “The author’s humility.”
