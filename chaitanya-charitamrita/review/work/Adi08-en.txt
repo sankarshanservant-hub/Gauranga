@@ -35,7 +35,7 @@ tr: By remembering them the mute become poets, the lame cross mountains and the 
 ## 6
 w: all this  not  accept  who  scholars  all
 w: of them all  the study of learning  the croaking of frogs
-tr: Scholars who do not accept all this — their learning is the croaking of frogs.
+tr: The learning of scholars who do not accept all this is no more than the croaking of frogs.
 
 ## 7
 w: all this  not  accepts  whoever  practises  devotion to Kṛṣṇa
@@ -51,7 +51,7 @@ tr: Long ago Jarāsandha and other kings followed the Vedic dharma and worshippe
 ## 9
 w: Kṛṣṇa  not  they accepted  therefore  as demons  we regard
 w: Caitanya  not  accepting  likewise  a demon  him  we know
-tr: But they did not accept Kṛṣṇa, and so we regard them as demons; and whoever does not accept Caitanya we know to be a demon in the same way.
+tr: But they did not accept Kṛṣṇa, and so we regard them as demons; and whoever does not accept Caitanya, we know, is a demon just the same.
 fn: Edition heading: “Devotion to Gaura without devotion to Kṛṣṇa, and devotion to Kṛṣṇa without devotion to Gaura, is not devotion.” *Anubhāṣya*: Jarāsandha and the others worshipped Viṣṇu with Vedic mantras, but because they rejected Kṛṣṇa, the original Lord Himself, out of enmity or indifference, their worship ended in the dharma of the asuras. So too, when a jīva tries to worship Viṣṇu while forgetting his eternal service to Śrī Caitanya, that is only the same dharma of the asuras, not Vaiṣṇavism.
 
 ## 10
@@ -68,7 +68,7 @@ fn: *Anubhāṣya* to 10–11: Śrī Caitanya-candra is non-different from Śrī
 ## 12
 w: such  merciful  Caitanya  not  worships  who  a person
 w: the highest of all  even being  him  among the asuras  is counted
-tr: Whoever does not worship Caitanya, so full of mercy, is counted among the asuras, though he be the greatest of men.
+tr: Whoever does not worship Caitanya, so full of mercy, is counted among the asuras, even if he is the greatest of men.
 fn: Edition heading: “Not to be devoted to the magnanimous Gaura is the nature of an asura.” *Anubhāṣya*: whoever cannot grasp even this mercy of Śrī Caitanya — His call to the jīvas, “Worship Kṛṣṇa” — is an asura, not a Vaiṣṇava, however much the world may honour him. Worship of Caitanya that rejects the worship of Kṛṣṇa lacks His mercy and is an invention of the age of Kali; it is just as asuric to revere one of the six truths while slighting another, or to see Śrī Kṛṣṇa Caitanya as merely the best of mortals, different from Kṛṣṇa.
 
 ## 13
@@ -112,7 +112,7 @@ w: O king  master  guru  indeed  of you  of the Yadus
 w: worshipped Deity  dear one  head of the family  sometimes  and  servant  of you
 w: let it be  so  dear one  the Lord  to those who worship  Mukunda
 w: liberation  gives  at any time  indeed  not  bhakti-yoga
-tr: (Śukadeva said:) “O King, Mukunda is the master and guru of you and of the Yadus, your worshipped Deity, your dearest friend and the head of your family — and at times He even becomes your servant. So it is, dear one; yet to those who worship Him the Lord gives liberation, but never bhakti-yoga.” (Śrīmad-Bhāgavatam, 5.6.18)
+tr: (Śukadeva said:) “O King, Mukunda is the master and guru of you Pāṇḍavas and of the Yadus; He is your worshipped Deity, your dearest friend and the head of your family, and at times He even becomes your servant. So it is, dear one; yet to those who worship Him the Lord gives liberation, but bhakti-yoga He never gives.” (Śrīmad-Bhāgavatam, 5.6.18)
 fn: *Anubhāṣya*: these are Śukadeva’s words to Parīkṣit in the account of Ṛṣabhadeva. *Daivam* — “the Deity you worship”; *priyaḥ* — “your very self”; *kva ca* — “sometimes, as when He acted as a messenger”; *bhajatām* — “to those who worship Him with desires (*sakāma-bhaktas*)”: to them He grants liberation, but He never gives bhakti-yoga. Edition heading: “Without a relationship of rasa with Kṛṣṇa one gains only liberation.” The edition misprints *kulavatiḥ*; the *Anubhāṣya* explains *kula-patiḥ*.
 
 ## 20
@@ -140,7 +140,7 @@ tr: At the name “Nityānanda” love for Kṛṣṇa awakens; every limb is sh
 ## 24
 w: the name of Kṛṣṇa  makes  of offences  consideration
 w: ‘Kṛṣṇa’  on saying  of the offender  not  there is  transformation
-tr: The name of Kṛṣṇa takes account of offences: when an offender says “Kṛṣṇa”, no transformation of love takes place in him.
+tr: The name of Kṛṣṇa takes account of offences: an offender may say “Kṛṣṇa”, but love works no change in him.
 fn: The *Amṛta-pravāha-bhāṣya* lists, after the *Padma Purāṇa*, the ten offences against the holy name: (1) blaspheming the saints; (2) thinking the names of Śiva and other gods independent of Viṣṇu; (3) disregarding the guru; (4) reviling the śruti and the scriptures that follow it; (5) thinking the glory of the name an exaggeration; (6) interpreting the name in one’s own way, as a fancy; (7) sinning on the strength of the name; (8) equating the name with other pious acts; (9) instructing the faithless and the averse in the name; (10) having no love for the name even after hearing its glory. While these offences remain, Kṛṣṇa shows no mercy, and the offender has no true transformations of love. The *Anubhāṣya* explains each of them.
 
 ## 25
@@ -172,13 +172,13 @@ w: such  the name of Kṛṣṇa  if  one takes  many  times
 w: still  if  love  is not  are not  streams of tears
 w: then  I know  offences  in him  abundant
 w: the seed of the name of Kṛṣṇa  there  not  makes  a sprout
-tr: If one takes such a name of Kṛṣṇa again and again, and still love does not come, nor streams of tears, then I know that his offences are many: the seed of the name of Kṛṣṇa does not sprout in him.
+tr: If one takes such a name of Kṛṣṇa again and again, and still no love comes and no tears flow, then I know that his offences are many: the seed of Kṛṣṇa’s name does not sprout in him.
 fn: Edition heading to 29: “The countless hearing and chanting of one who offends the holy name are fruitless.”
 
 ## 31
 w: in Caitanya and Nityānanda  there is not  all such  consideration
 w: the name  on taking  love  They give  flow  streams of tears
-tr: With Caitanya and Nityānanda there is no such weighing of offences: as soon as one takes Their names They give love, and streams of tears flow.
+tr: With Caitanya and Nityānanda there is no such reckoning of offences: as soon as one takes Their names They give love, and streams of tears flow.
 fn: Edition heading: “With Gaura and Nitāi, and with Their names, offences are not weighed.” *Amṛta-pravāha-bhāṣya*: whoever takes shelter of Caitanya and Nityānanda with faith has his past offences washed away in a moment, and They give prema as soon as the name of Kṛṣṇa begins to rise on his lips. *Anubhāṣya*: an offender who chants the name of Kṛṣṇa does not obtain the fruit of the name, prema; but one who chants the names of Gaura and Nityānanda, even while still an offender, is freed from offences in the very act of chanting and obtains that fruit. The name of Kṛṣṇa and the name of Gaura are equally non-different from the One they name; but Kṛṣṇa’s magnanimity is shown to the liberated, while that of Gaura and Nityānanda reaches even those who still have *anarthas*.
 
 ## 32
@@ -206,13 +206,13 @@ tr: Vṛndāvana dāsa composed the *Caitanya-maṅgala*, and by hearing it all 
 ## 36
 w: of Caitanya and Nitāi  in which  one knows  the glory
 w: in which  I know  of the conclusions of devotion to Kṛṣṇa  the utmost limit
-tr: In it one comes to know the glory of Caitanya and Nitāi, and in it I find the utmost reach of the conclusions of devotion to Kṛṣṇa.
+tr: In it one comes to know the glory of Caitanya and Nitāi, and in it I come to know the conclusions of devotion to Kṛṣṇa to their farthest limit.
 fn: *Anubhāṣya*: the *Śrīmad-Bhāgavatam* is the treasury of the conclusions of bhakti, but it is so vast that many cannot take in its essence; that essence Śrī Vṛndāvana dāsa Ṭhākura set down in his *Śrī Caitanya-bhāgavata*. Only those who know the conclusions of devotion can truly understand the glory of Nitāi-Gaura, for without right understanding (*siddhānta*) the goddess of Devotion cannot be served.
 
 ## 37
 w: in the Bhāgavata  all  of the conclusions of devotion  the essence
 w: he has written  this  knowing  making  extraction
-tr: Knowing all the essence of the conclusions of devotion in the *Bhāgavata*, he drew it out and set it down in writing.
+tr: He understood the essence of all the conclusions of devotion in the *Bhāgavata*, drew it out and set it down in his book.
 
 ## 38
 w: the Caitanya-maṅgala  hears  if  an unbeliever  a yavana
@@ -253,7 +253,7 @@ tr: Vṛndāvana dāsa composed the *Caitanya-maṅgala*, and in it he told all 
 ## 45
 w: as a summary  making  all  the pastimes  he composed
 w: afterwards  expanding  of them  he made  the description
-tr: First he set down all the pastimes in brief, as a summary, and afterwards described them at length.
+tr: First he set down all the pastimes in a brief summary, and afterwards described them at length.
 
 ## 46
 w: of Caitanya-candra  the pastimes  endless  boundless
@@ -284,7 +284,7 @@ tr: In Vṛndāvana, beneath a wish-fulfilling tree, stands a golden temple; the
 ## 51
 w: on it  seated  is  always  the son of the king of Vraja
 w: Śrī Govinda-deva  by name  in person  Madana
-tr: On it the son of the king of Vraja is ever seated: His name is Śrī Govinda-deva, the very god of love.
+tr: On it the son of the king of Vraja is ever seated: His name is Śrī Govinda-deva, the very God of love.
 
 ## 52
 w: royal service  is  there  of many  kinds
@@ -322,7 +322,7 @@ w: in whom  there is  devotion  to the Lord  free of desire
 w: with all  qualities  there  dwell  the gods
 w: to Hari  of one not devoted  whence  great qualities
 w: by the chariot of the mind  toward the unreal  running  outward
-tr: “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But whence can great qualities come to one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)
+tr: “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)
 fn: *Anubhāṣya*: Śukadeva speaks these words to Parīkṣit while describing the qualities of the great devotee Prahlāda. *Akiñcanā* — “free of desire”; *samāsate* — “dwell eternally”; *asati* — “in the passing happiness of sense objects”; *mahad-guṇāḥ* — the virtues of the great, such as knowledge and detachment. *Amṛta-pravāha-bhāṣya*: in one who has pure devotion to Kṛṣṇa the gods abide with all their qualities; but the mind of one without devotion to Hari always runs after what is external and unreal, and great qualities are impossible for him.
 
 ## 59
@@ -334,7 +334,7 @@ fn: *Amṛta-pravāha-bhāṣya*: *Paṇḍita Gosāñi* is Śrī Gadādhara Pa�
 ## 60
 w: his  endless  qualities  who  can  reveal
 w: his  dear  disciple  this one  Paṇḍita  Haridāsa
-tr: Who could tell his endless virtues? And this Haridāsa Paṇḍita is his dear disciple.
+tr: Who could recount his endless virtues? And this Haridāsa Paṇḍita is his dear disciple.
 
 ## 61
 w: in Caitanya and Nityānanda  his  supreme  faith
@@ -403,7 +403,7 @@ tr: In their compassion they all gave me the order, and at their word I write, c
 ## 73
 w: of the Vaiṣṇavas  the order  having received  with anxious heart
 w: to Madana-gopāla  I went  the order  to beg
-tr: Having received the Vaiṣṇavas’ order, I went with an anxious heart to Madana-gopāla to beg His order too.
+tr: Having received the Vaiṣṇavas’ order, I went with an anxious heart to Madana-gopāla to beg for His order too.
 fn: Edition heading: “Having received the Vaiṣṇavas’ order, I beg in awe for the order of Śrī Madana-gopāla.”
 
 ## 74
@@ -453,7 +453,7 @@ fn: Edition heading to 81–82: “The author, as befits a Vaiṣṇava, honours
 ## 82
 w: in Caitanya’s pastimes  ‘Vyāsa’  Vṛndāvana dāsa
 w: his  mercy  without  to others  not  becomes  manifest
-tr: In the pastimes of Caitanya, Vṛndāvana dāsa is Vyāsa; without his mercy they cannot be revealed by anyone else.
+tr: In the pastimes of Caitanya, Vṛndāvana dāsa is Vyāsa; without his mercy no one else can reveal them.
 
 ## 83
 w: foolish  low  insignificant  I  greedy for sense objects

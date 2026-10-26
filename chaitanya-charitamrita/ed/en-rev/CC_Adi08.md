@@ -66,7 +66,7 @@ all this  not  accept  who  scholars  all
 tā-sabāra vidyā-pāṭha bheka-kolāhala  
 of them all  the study of learning  the croaking of frogs
 
-(6) Scholars who do not accept all this — their learning is the croaking of frogs.
+(6) The learning of scholars who do not accept all this is no more than the croaking of frogs.
 
 এই সব না মানে যেবা, করে কৃষ্ণভক্তি ৷  
 কৃষ্ণ-কৃপা নাহি তারে, নাহি তার গতি ॥ ৭ ॥
@@ -96,7 +96,7 @@ Kṛṣṇa  not  they accepted  therefore  as demons  we regard
 caitanya nā mānile taiche daitya tāre jāni  
 Caitanya  not  accepting  likewise  a demon  him  we know
 
-(9) But they did not accept Kṛṣṇa, and so we regard them as demons; and whoever does not accept Caitanya we know to be a demon in the same way.[^3]
+(9) But they did not accept Kṛṣṇa, and so we regard them as demons; and whoever does not accept Caitanya, we know, is a demon just the same.[^3]
 
 মোরে না মানিলে সব লোক হবে নাশ ৷  
 ইথে লাগি’ কৃপার্দ্র প্রভু করিল সন্ন্যাস ॥ ১০ ॥
@@ -126,7 +126,7 @@ such  merciful  Caitanya  not  worships  who  a person
 sarvottama haileo tāre asure gaṇana  
 the highest of all  even being  him  among the asuras  is counted
 
-(12) Whoever does not worship Caitanya, so full of mercy, is counted among the asuras, though he be the greatest of men.[^5]
+(12) Whoever does not worship Caitanya, so full of mercy, is counted among the asuras, even if he is the greatest of men.[^5]
 
 অতএব পুনঃ কহোঁ ঊর্ধ্ব বাহু হঞা ৷  
 চৈতন্য-নিত্যানন্দ ভজ কুতর্ক ছাড়িয়া ॥ ১৩ ॥
@@ -206,7 +206,7 @@ let it be  so  dear one  the Lord  to those who worship  Mukunda
 muktiṁ dadāti karhicit sma na bhakti-yogam  
 liberation  gives  at any time  indeed  not  bhakti-yoga
 
-(19) (Śukadeva said:) “O King, Mukunda is the master and guru of you and of the Yadus, your worshipped Deity, your dearest friend and the head of your family — and at times He even becomes your servant. So it is, dear one; yet to those who worship Him the Lord gives liberation, but never bhakti-yoga.” (Śrīmad-Bhāgavatam, 5.6.18)[^10]
+(19) (Śukadeva said:) “O King, Mukunda is the master and guru of you Pāṇḍavas and of the Yadus; He is your worshipped Deity, your dearest friend and the head of your family, and at times He even becomes your servant. So it is, dear one; yet to those who worship Him the Lord gives liberation, but bhakti-yoga He never gives.” (Śrīmad-Bhāgavatam, 5.6.18)[^10]
 
 হেন প্রেম শ্রীচৈতন্য দিলা যথা তথা ৷  
 জগাই মাধাই পর্য্যন্ত — অন্যের কা কথা ॥ ২০ ॥
@@ -256,7 +256,7 @@ the name of Kṛṣṇa  makes  of offences  consideration
 kṛṣṇa balile aparādhīra nā haya vikāra  
 ‘Kṛṣṇa’  on saying  of the offender  not  there is  transformation
 
-(24) The name of Kṛṣṇa takes account of offences: when an offender says “Kṛṣṇa”, no transformation of love takes place in him.[^13]
+(24) The name of Kṛṣṇa takes account of offences: an offender may say “Kṛṣṇa”, but love works no change in him.[^13]
 
 তদশ্মসারং হৃদয়ং বতেদং  
 যদ্গৃহ্যমাণৈর্হরিনামধেয়ৈঃ ৷  
@@ -319,7 +319,7 @@ then  I know  offences  in him  abundant
 kṛṣṇa-nāma-bīja tāhe nā kare aṅkura  
 the seed of the name of Kṛṣṇa  there  not  makes  a sprout
 
-(29–30) If one takes such a name of Kṛṣṇa again and again, and still love does not come, nor streams of tears, then I know that his offences are many: the seed of the name of Kṛṣṇa does not sprout in him.[^16]
+(29–30) If one takes such a name of Kṛṣṇa again and again, and still no love comes and no tears flow, then I know that his offences are many: the seed of Kṛṣṇa’s name does not sprout in him.[^16]
 
 চৈতন্য-নিত্যানন্দে নাহি এসব বিচার ৷  
 নাম লৈতে প্রেম দেন, বহে অশ্রুধার ॥ ৩১ ॥
@@ -329,7 +329,7 @@ in Caitanya and Nityānanda  there is not  all such  consideration
 nāma laite prema dena, vahe aśrudhāra  
 the name  on taking  love  They give  flow  streams of tears
 
-(31) With Caitanya and Nityānanda there is no such weighing of offences: as soon as one takes Their names They give love, and streams of tears flow.[^17]
+(31) With Caitanya and Nityānanda there is no such reckoning of offences: as soon as one takes Their names They give love, and streams of tears flow.[^17]
 
 স্বতন্ত্র ঈশ্বর প্রভু অত্যন্ত উদার ৷  
 তাঁরে না ভজিলে কভু না হয় নিস্তার ॥ ৩২ ॥
@@ -379,7 +379,7 @@ of Caitanya and Nitāi  in which  one knows  the glory
 yāte jāni kṛṣṇa-bhakti-siddhāntera sīmā  
 in which  I know  of the conclusions of devotion to Kṛṣṇa  the utmost limit
 
-(36) In it one comes to know the glory of Caitanya and Nitāi, and in it I find the utmost reach of the conclusions of devotion to Kṛṣṇa.[^20]
+(36) In it one comes to know the glory of Caitanya and Nitāi, and in it I come to know the conclusions of devotion to Kṛṣṇa to their farthest limit.[^20]
 
 ভাগবতে যত ভক্তিসিদ্ধান্তের সার ৷  
 লিখিয়াছেন ইঁহা জানি’ করিয়া উদ্ধার ॥ ৩৭ ॥
@@ -389,7 +389,7 @@ in the Bhāgavata  all  of the conclusions of devotion  the essence
 likhiyāchena im̐hā jāni’ kariyā uddhāra  
 he has written  this  knowing  making  extraction
 
-(37) Knowing all the essence of the conclusions of devotion in the *Bhāgavata*, he drew it out and set it down in writing.
+(37) He understood the essence of all the conclusions of devotion in the *Bhāgavata*, drew it out and set it down in his book.
 
 ‘চৈতন্যমঙ্গল’ শুনে যদি পাষণ্ডী, যবন ৷  
 সেহ মহা-বৈষ্ণব হয় ততক্ষণ ॥ ৩৮ ॥
@@ -469,7 +469,7 @@ as a summary  making  all  the pastimes  he composed
 pāche vistāriyā tāhāra kaila vivaraṇa  
 afterwards  expanding  of them  he made  the description
 
-(45) First he set down all the pastimes in brief, as a summary, and afterwards described them at length.
+(45) First he set down all the pastimes in a brief summary, and afterwards described them at length.
 
 চৈতন্যচন্দ্রের লীলা অনন্ত অপার ৷  
 বর্ণিতে বর্ণিতে গ্রন্থ হইল বিস্তার ॥ ৪৬ ॥
@@ -529,7 +529,7 @@ on it  seated  is  always  the son of the king of Vraja
 ‘śrī-govinda-deva’ nāma sākṣāt madana  
 Śrī Govinda-deva  by name  in person  Madana
 
-(51) On it the son of the king of Vraja is ever seated: His name is Śrī Govinda-deva, the very god of love.
+(51) On it the son of the king of Vraja is ever seated: His name is Śrī Govinda-deva, the very God of love.
 
 রাজ-সেবা হয় তাঁহা বিচিত্র প্রকার ৷  
 দিব্য সামগ্রী, দিব্য বস্ত্র-অলঙ্কার ॥ ৫২ ॥
@@ -605,7 +605,7 @@ to Hari  of one not devoted  whence  great qualities
 mano-rathenāsati dhāvato bahiḥ  
 by the chariot of the mind  toward the unreal  running  outward
 
-(58) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But whence can great qualities come to one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^24]
+(58) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^24]
 
 পণ্ডিত-গোসাঞির শিষ্য — অনন্ত আচার্য্য ৷  
 কৃষ্ণপ্রেমময়-তনু, উদার, সর্ব্ব-আর্য্য ॥ ৫৯ ॥
@@ -625,7 +625,7 @@ his  endless  qualities  who  can  reveal
 tām̐ra priya śiṣya im̐ha — paṇḍita haridāsa  
 his  dear  disciple  this one  Paṇḍita  Haridāsa
 
-(60) Who could tell his endless virtues? And this Haridāsa Paṇḍita is his dear disciple.
+(60) Who could recount his endless virtues? And this Haridāsa Paṇḍita is his dear disciple.
 
 চৈতন্যে-নিত্যানন্দে তাঁর পরম বিশ্বাস ৷  
 চৈতন্য-চরিতে তাঁর পরম উল্লাস ॥ ৬১ ॥
@@ -755,7 +755,7 @@ of the Vaiṣṇavas  the order  having received  with anxious heart
 madana-gopāle gelāṅa ājñā māgibāre  
 to Madana-gopāla  I went  the order  to beg
 
-(73) Having received the Vaiṣṇavas’ order, I went with an anxious heart to Madana-gopāla to beg His order too.[^30]
+(73) Having received the Vaiṣṇavas’ order, I went with an anxious heart to Madana-gopāla to beg for His order too.[^30]
 
 দরশন করি কৈলুঁ চরণ বন্দন ৷  
 গোসাঞিদাস পূজারী করে চরণ-সেবন ॥ ৭৪ ॥
@@ -845,7 +845,7 @@ in Caitanya’s pastimes  ‘Vyāsa’  Vṛndāvana dāsa
 tām̐ra kṛpā vinā anye nā haya prakāśa  
 his  mercy  without  to others  not  becomes  manifest
 
-(82) In the pastimes of Caitanya, Vṛndāvana dāsa is Vyāsa; without his mercy they cannot be revealed by anyone else.
+(82) In the pastimes of Caitanya, Vṛndāvana dāsa is Vyāsa; without his mercy no one else can reveal them.
 
 মূর্খ, নীচ, ক্ষুদ্র মুঞি বিষয়-লালস ৷  
 বৈষ্ণবাজ্ঞা-বলে করি এতেক সাহস ॥ ৮৩ ॥
