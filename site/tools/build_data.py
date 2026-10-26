@@ -273,6 +273,53 @@ def full_for(rel, lang):
     return None
 
 
+def para_starts(rel):
+    """Номера строк (1-based), с которых начинаются абзацы основного текста (до сносок), и для каждого абзаца —
+    номер стиха **N.**, если абзац им начинается."""
+    key = ('paras', rel)
+    if key not in _cache:
+        L = lines_of(rel) or []
+        out, prev = [], ''
+        for i, ln in enumerate(L):
+            if FN_DEF.match(ln):
+                break
+            if ln.strip() and not prev.strip():
+                m = NUM_RE.match(ln)
+                out.append((i + 1, m.group(1) if m else None))
+            prev = ln
+        _cache[key] = out
+    return _cache[key]
+
+
+def align_en(ru_rel, a, b):
+    """Отрезок строк a..b русского файла без нумерации (драма, проза) → отрезок английского файла.
+    Опора — номера стихов: от ближайшего предшествующего стиха считается столько же абзацев в английском.
+    Если строение файлов между опорами расходится — None."""
+    en_rel = ru_rel.replace('/ru/', '/en/')
+    if en_rel == ru_rel or not lines_of(en_rel):
+        return None
+    R, E = para_starts(ru_rel), para_starts(en_rel)
+    en_lab = {}
+    for k, (ln, n) in enumerate(E):
+        if n and n not in en_lab: en_lab[n] = k
+
+    def idx(line, end=False):
+        k = max((i for i, (ln, _) in enumerate(R) if ln <= line), default=0)
+        base = max((i for i in range(k + 1) if R[i][1] and R[i][1] in en_lab), default=None)
+        if base is None:
+            ke = k                                   # до первого стиха — по счёту абзацев от начала
+        else:
+            ke = en_lab[R[base][1]] + (k - base)
+            nxt = next((i for i in range(base + 1, len(R)) if R[i][1] and R[i][1] in en_lab), None)
+            if nxt is not None and en_lab[R[nxt][1]] - en_lab[R[base][1]] != nxt - base:
+                return None                          # между опорами разное число абзацев
+        if ke >= len(E): return None
+        if not end: return E[ke][0]
+        return (E[ke + 1][0] - 1) if ke + 1 < len(E) else len(lines_of(en_rel))
+    ea, eb = idx(a), idx(b, True)
+    return (en_rel, ea, eb) if ea and eb and eb >= ea else None
+
+
 def passage(e):
     ru, en = [], []
     for vr in e.get('verses_resolved') or []:
@@ -280,6 +327,10 @@ def passage(e):
         if vr.get('file_en') and lines_of(vr['file_en']):
             rng = lines_from_url(vr.get('url_en')) or (vr['line'], vr['line_to'])
             en += build_side(vr['file_en'], rng[0], rng[1], full_for(vr['file_en'], 'en'))
+        elif vr.get('count') is None and '/ru/' in vr['file']:     # отрезок по фрагментам строк
+            al = align_en(vr['file'], vr['line'], vr['line_to'])
+            if al:
+                en += build_side(al[0], al[1], al[2], full_for(al[0], 'en'))
     vr0 = (e.get('verses_resolved') or [{}])[0]
     p = {'id': e['id'], 'ref': e['ref'], 'title': e['title'], 'summary': e.get('summary', ''),
          'authority': e.get('authority'), 'verses': ru, 'file': vr0.get('file'), 'from': vr0.get('from')}

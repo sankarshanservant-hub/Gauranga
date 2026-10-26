@@ -44,7 +44,7 @@ BOOKS = [
     dict(id='karnapura-ckm', group='skt', title='Шри Чайтанья-чарита-махакавья', title_en='Sri Chaitanya-charita-mahakavya',
          author='Кави Карнапура', author_en='Kavi Karnapura', ru=['karnapura-mahakavya/ru/*.md'], en=[]),
     dict(id='chaitanya-chandrodaya', group='skt', title='Чайтанья-чандродая', title_en='Chaitanya-chandrodaya',
-         author='Кави Карнапура', author_en='Kavi Karnapura', ru=['chaitanya-chandrodaya/ru/*.md'], en=[]),
+         author='Кави Карнапура', author_en='Kavi Karnapura', ru=['chaitanya-chandrodaya/ru/*.md'], en=['chaitanya-chandrodaya/en/*.md']),
     dict(id='gaura-ganoddesha', group='skt', title='Гаура-ганоддеша-дипика', title_en='Gaura-ganoddesha-dipika',
          author='Кави Карнапура', author_en='Kavi Karnapura', ru=['gaura-ganoddesha/ru/*.md'], en=[]),
     dict(id='chaitanya-chandramrita', group='skt', title='Шри Чайтанья-чандрамрита', title_en='Sri Chaitanya-chandramrita',
@@ -190,9 +190,10 @@ def main():
                     h = h[:m.start(1) - 2] + h[m.end():] if h.lstrip().startswith('<p') else h[m.end():]
                 layers = sorted(set(re.findall(r'class="[^"]*\bl-(orig|translit|wbw|notes)', h)))
                 name = f'{lang}-{i + 1:03d}.json'
-                json.dump({'title': t, 'html': h}, open(os.path.join(OUT, b['id'], name), 'w', encoding='utf-8'),
+                json.dump({'title': re.sub(r'\[\^[^\]]+\]', '', t).strip(), 'html': h}, open(os.path.join(OUT, b['id'], name), 'w', encoding='utf-8'),
                           ensure_ascii=False, separators=(',', ':'))
                 total += os.path.getsize(os.path.join(OUT, b['id'], name))
+                t = re.sub(r'\[\^[^\]]+\]', '', t).strip()          # знаки сносок в названии главы — не нужны
                 entry[lang].append({'t': t, 'layers': layers})
                 if src:
                     index['files'][src] = [b['id'], lang, i]
@@ -201,7 +202,7 @@ def main():
             for lang in ('ru', 'en'):
                 titles = [c['t'] for c in entry[lang]]
                 for f in sorted(glob.glob(os.path.join(ROOT, b['chapters'].format(lang=lang)))):
-                    h = first_heading(open(f, encoding='utf-8').read())
+                    h = re.sub(r'\[\^[^\]]+\]', '', first_heading(open(f, encoding='utf-8').read()) or '').strip()
                     if h in titles:
                         index['files'][os.path.relpath(f, ROOT)] = [b['id'], lang, titles.index(h)]
         index['books'].append(entry)
