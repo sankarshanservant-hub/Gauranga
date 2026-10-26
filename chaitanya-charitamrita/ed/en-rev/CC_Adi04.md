@@ -1292,6 +1292,428 @@ by which  strength  Me  makes  always  overwhelmed
 
 (123) I do not know how much strength there is in Rādhā’s love, by which She ever overwhelms Me.
 
+রাধিকা প্রেমগুরু, আমি শিষ্য নট ৷  
+সদা আমা নানা নৃত্যে নাচায় উদ্ভট ॥ ১২৪ ॥
+
+rādhikā prema-guru, āmi śiṣya naṭa  
+Rādhikā  the teacher of love  I  the disciple  a dancer  
+sadā āmā nānā nṛtye nācāya udbhaṭa  
+always  Me  various  in dances  makes dance  unprecedented
+
+(124) Rādhikā is My teacher in love, and I am Her disciple, a dancer: She always makes Me dance new and unheard-of dances.”
+
+কস্মাদ্বৃন্দে প্রিয়সখি হরেঃ পাদমূলাৎ কুতোঽসৌ  
+কুণ্ডারণ্যে কিমিহ কুরুতে নৃত্যশিক্ষাং গুরুঃ কঃ ৷  
+তং ত্বন্মূর্ত্তিঃ প্রতিতরুলতং দিগ্বিদিক্ষু স্ফুরন্তী  
+শৈলূষীব ভ্রমতি পরিতো নর্ত্তয়ন্তী স্বপশ্চাৎ ॥ ১২৫ ॥
+
+kasmād vṛnde priya-sakhi hareḥ pāda-mūlāt kuto ’sau  
+from where  O Vṛndā  dear friend  of Hari  from the feet  where  He  
+kuṇḍāraṇye kim iha kurute nṛtya-śikṣāṁ guruḥ kaḥ  
+in the forest by the kuṇḍa  what  here  does  of dance  the learning  the teacher  who  
+taṁ tvan-mūrtiḥ prati-taru-latāṁ dig-vidikṣu sphurantī  
+Him  Your  image  in every  tree  creeper  in the quarters and between  appearing  
+śailūṣīva bhramati parito nartayantī sva-paścāt  
+like a dancer  wanders  all around  making dance  behind itself
+
+(125) “ ‘Where have you come from, Vṛndā, dear friend?’ ‘From the feet of Hari.’ ‘And where is He?’ ‘In the forest by Rādhā-kuṇḍa.’ ‘What is He doing there?’ ‘Learning to dance.’ ‘And who is His teacher?’ ‘Your own image, Rādhā: appearing in every tree and creeper, in every quarter of the sky, it wanders all around like a skilled dancer and makes Kṛṣṇa dance behind it.’ ” (Govinda-līlāmṛta, 8.77)[^92]
+
+নিজ-প্রেমাস্বাদে মোর হয় যে আহ্লাদ ৷  
+তাহা হইতে কোটিগুণ রাধা-প্রেমাস্বাদ ॥ ১২৬ ॥
+
+nija-premāsvāde mora haya ye āhlāda  
+in tasting His own love  My  is  which  joy  
+tāhā haite koṭi-guṇa rādhā-premāsvāda  
+that  than  ten million times  Rādhā’s  tasting of love
+
+(126) “The joy I feel in tasting My own love is great, but Rādhā’s joy in tasting Her love is ten million times greater.[^93]
+
+আমি যৈছে পরস্পর বিরুদ্ধধর্ম্মাশ্রয় ৷  
+রাধাপ্রেম তৈছে সদা বিরুদ্ধধর্ম্মময় ॥ ১২৭ ॥
+
+āmi yaiche paraspara viruddha-dharmāśraya  
+I  as  mutually  of opposite qualities  the shelter  
+rādhā-prema taiche sadā viruddha-dharma-maya  
+Rādhā’s  love  so  always  of opposite qualities  full
+
+(127) As I am the shelter of mutually opposite qualities, so Rādhā’s love is always full of opposite qualities.[^94]
+
+রাধা-প্রেমা বিভু — যার বাড়িতে নাহি ঠাঞি ৷  
+তথাপি সে ক্ষণে ক্ষণে বাড়য়ে সদাই ॥ ১২৮ ॥
+
+rādhā-premā vibhu — yāra bāḍite nāhi ṭhāñi  
+Rādhā’s  love  all-pervading  for which  to grow  there is not  room  
+tathāpi se kṣaṇe kṣaṇe bāḍaye sadāi  
+still  it  moment  by moment  grows  always
+
+(128) Rādhā’s love is all-pervading, with no room left to grow; yet it grows at every moment.[^95]
+
+যাহা বই গুরুবস্তু নাহি সুনিশ্চিত ৷  
+তথাপি গুরুর ধর্ম্ম গৌরব-বর্জ্জিত ॥ ১২৯ ॥
+
+yāhā vai guru vastu nāhi suniścita  
+which  besides  great  thing  there is not  surely  
+tathāpi gurura dharma gaurava-varjita  
+still  of the great  the quality  of pride  devoid
+
+(129) Surely there is nothing greater than it, and yet it is free of the pride that belongs to greatness.
+
+যাহা বই সুনির্ম্মল দ্বিতীয় নাহি আর ৷  
+তথাপি সর্ব্বদা বাম্য, বক্র ব্যবহার ॥ ১৩০ ॥
+
+yāhā bai sunirmala dvitīya nāhi āra  
+which  besides  most pure  second  there is not  other  
+tathāpi sarvadā vāmya, vakra vyavahāra  
+still  always  contrariness  crooked  behaviour
+
+(130) There is nothing else so pure as it, and yet it is always contrary and crooked in its ways.
+
+বিভুরপি কলয়ন্ সদাভিবৃদ্ধিং  
+গুরুরপি গৌরবচর্য্যয়া বিহীনঃ ৷  
+মুহুরুপচিতবক্রিমাপি শুদ্ধো  
+জয়তি মুরদ্বিষি রাধিকানুরাগঃ ॥ ১৩১ ॥
+
+vibhur api kalayan sadābhivṛddhiṁ  
+all-pervading  though  making  constant  growth  
+gurur api gaurava-caryayā vihīnaḥ  
+great  though  of pride  of conduct  devoid  
+muhur upacita-vakrimāpi śuddho  
+again and again  increased  crookedness  though  pure  
+jayati mura-dviṣi rādhikānurāgaḥ  
+glory be  for the enemy of Mura  of Rādhikā  the love
+
+(131) “All glory to Rādhikā’s love for Kṛṣṇa, the enemy of Mura! All-pervading, it grows at every moment; great, it is free of pride; again and again it grows more crooked, and yet it is pure.” (Dāna-keli-kaumudī, 2)[^96]
+
+সেই প্রেমার রাধিকা পরম ‘আশ্রয়’ ৷  
+সেই প্রেমার আমি হই কেবল ‘বিষয়’ ॥ ১৩২ ॥
+
+sei premāra rādhikā parama ‘āśraya’  
+of that  love  Rādhikā  the supreme  ‘shelter’  
+sei premāra āmi hai kevala ‘viṣaya’  
+of that  love  I  am  only  ‘object’
+
+(132) Rādhikā is the supreme *āśraya* of that love — the one in whom it dwells; and I am only its *viṣaya* — the One toward whom it flows.[^97]
+
+বিষয়জাতীয় সুখ আমার আস্বাদ ৷  
+আমা হৈতে কোটিগুণ আশ্রয়ের আহ্লাদ ॥ ১৩৩ ॥
+
+viṣaya-jātīya sukha āmāra āsvāda  
+of the object’s  kind  happiness  My  tasting  
+āmā haite koṭi-guṇa āśrayera āhlāda  
+Me  than  ten million times  of the shelter  the joy
+
+(133) The happiness I taste is that of the *viṣaya*; the joy of the *āśraya* is ten million times greater than Mine.[^98]
+
+আশ্রয়জাতীয় সুখ পাইতে মন ধায় ৷  
+যত্নে আস্বাদিতে নারি, কি করি উপায় ॥ ১৩৪ ॥
+
+āśraya-jātīya sukha pāite mana dhāya  
+of the shelter’s  kind  happiness  to obtain  the mind  runs  
+yatne āsvādite nāri, ki kari upāya  
+by effort  to taste  I cannot  what  shall I do  means
+
+(134) My mind runs after the happiness of the *āśraya*, but try as I may, I cannot taste it. What means can I find?[^99]
+
+কভু যদি এই প্রেমার হইয়ে আশ্রয় ৷  
+তবে এই প্রেমানন্দের অনুভব হয় ॥ ১৩৫ ॥
+
+kabhu yadi ei premāra haiye āśraya  
+ever  if  of this  love  I become  the shelter  
+tabe ei premānandera anubhava haya  
+then  of this  love’s  bliss  the experience  will be
+
+(135) If ever I become the *āśraya* of this love, then I shall know the bliss of this love.”
+
+এত চিন্তি’ রহে কৃষ্ণ পরমকৌতুকী ৷  
+হৃদয়ে বাড়য়ে প্রেম-লোভ ধক্ধকি ॥ ১৩৬ ॥
+
+eta cinti’ rahe kṛṣṇa parama-kautukī  
+so  thinking  remains  Kṛṣṇa  supremely eager for wonder  
+hṛdaye bāḍaye prema-lobha dhakdhaki  
+in the heart  grows  for love  the greed  blazing
+
+(136) Thinking thus, Kṛṣṇa, ever eager for wonder, remains; and in His heart the longing for that love blazes ever higher.
+
+এই এক, শুন আর লোভের প্রকার ৷  
+স্বমাধুর্য্য দেখি’ কৃষ্ণ করেন বিচার ॥ ১৩৭ ॥
+
+ei eka, śuna āra lobhera prakāra  
+this  one  hear  another  of greed  kind  
+sva-mādhurya dekhi’ kṛṣṇa karena vicāra  
+His own  sweetness  seeing  Kṛṣṇa  makes  reflection
+
+(137) That is one. Now hear of another kind of longing. Seeing His own sweetness, Kṛṣṇa reflects:[^100]
+
+অদ্ভুত, অনন্ত, পূর্ণ মোর মধুরিমা ৷  
+ত্রিজগতে ইহার কেহ নাহি পায় সীমা ॥ ১৩৮ ॥
+
+adbhuta, ananta, pūrṇa mora madhurimā  
+wondrous  endless  complete  My  sweetness  
+tri-jagate ihāra keha nāhi pāya sīmā  
+in the three worlds  of it  anyone  not  finds  the limit
+
+(138) “Wondrous, endless and complete is My sweetness; in the three worlds no one finds its limit.[^101]
+
+এই প্রেমদ্বারে নিত্য রাধিকা একলি ৷  
+আমার মাধুর্য্যামৃত আস্বাদে সকলি ॥ ১৩৯ ॥
+
+ei prema-dvāre nitya rādhikā ekali  
+this  love  through  always  Rādhikā  alone  
+āmāra mādhuryāmṛta āsvāde sakali  
+My  of sweetness  the nectar  tastes  all
+
+(139) Through this love Rādhikā alone ever tastes all the nectar of My sweetness.
+
+যদ্যপি নির্ম্মল রাধার সৎপ্রেমদর্পণ ৷  
+তথাপি স্বচ্ছতা তার বাঢ়ে ক্ষণে ক্ষণ ॥ ১৪০ ॥
+
+yadyapi nirmala rādhāra sat-prema-darpaṇa  
+although  pure  Rādhā’s  of true  love  the mirror  
+tathāpi svacchatā tāra bāḍhe kṣaṇe kṣaṇa  
+still  clearness  its  grows  moment  by moment
+
+(140) Though the mirror of Rādhā’s true love is spotless, its clearness grows at every moment.[^102]
+
+আমার মাধুর্য্য নাহি বাঢ়িতে অবকাশে ৷  
+এ-দর্পণের আগে নব নব রূপে ভাসে ॥ ১৪১ ॥
+
+āmāra mādhurya nāhi bāḍhite avakāśe  
+My  sweetness  there is not  to grow  room  
+e-darpaṇera āge nava nava rūpe bhāse  
+this mirror  before  new  new  in forms  shines
+
+(141) My sweetness has no room to grow, and yet before this mirror it shines in ever new forms.
+
+মন্মাধুর্য্য রাধার প্রেম — দোঁহে হোড় করি’ ৷  
+ক্ষণে ক্ষণে বাড়ে দোঁহে, কেহ নাহি হারি ॥ ১৪২ ॥
+
+man-mādhurya rādhāra prema — dom̐he hoḍa kari’  
+My sweetness  Rādhā’s  love  the two  competition  making  
+kṣaṇe kṣaṇe bāḍe dom̐he, keha nāhi hāri  
+moment  by moment  grow  the two  either  not  loses
+
+(142) My sweetness and Rādhā’s love vie with each other; at every moment both grow, and neither is defeated.[^103]
+
+আমার মাধুর্য্য নিত্য নব নব হয় ৷  
+স্ব-স্ব-প্রেম-অনুরূপ ভক্তে আস্বাদয় ॥ ১৪৩ ॥
+
+āmāra mādhurya nitya nava nava haya  
+My  sweetness  always  new  new  is  
+sva-sva-prema-anurūpa bhakte āsvādaya  
+own  own  love  according to  devotees  taste
+
+(143) My sweetness is ever new, and devotees taste it each according to his own love.
+
+দর্পণাদ্যে দেখি’ যদি আপন মাধুরী ৷  
+আস্বাদিতে হয় লোভ, আস্বাদিতে নারি ॥ ১৪৪ ॥
+
+darpaṇādye dekhi’ yadi āpana mādhurī  
+in a mirror and the like  seeing  if  My own  sweetness  
+āsvādite haya lobha, āsvādite nāri  
+to taste  arises  greed  to taste  I cannot
+
+(144) When I see My own sweetness in a mirror or the like, a longing to taste it arises, but I cannot taste it.
+
+বিচার করিয়ে যদি আস্বাদ-উপায় ৷  
+রাধিকাস্বরূপ হইতে তবে মন ধায় ॥ ১৪৫ ॥
+
+vicāra kariye yadi āsvāda-upāya  
+consideration  I make  if  of tasting  the means  
+rādhikā-svarūpa haite tabe mana dhāya  
+Rādhikā in nature  to become  then  the mind  runs
+
+(145) And when I consider how I might taste it, My mind runs to become Rādhikā Herself.”[^104]
+
+অপরিকলিতপূর্ব্বঃ কশ্চমৎকারকারী  
+স্ফুরতি মম গরীয়ানেষ মাধুর্য্যপূরঃ ৷  
+অয়মহমপি হন্ত প্রেক্ষ্য যং লুব্ধচেতাঃ  
+সরভসমুপভোক্তুং কাময়ে রাধিকেব ॥ ১৪৬ ॥
+
+aparikalita-pūrvaḥ kaś camatkāra-kārī  
+never experienced  before  some  wonder-working  
+sphurati mama garīyān eṣa mādhurya-pūraḥ  
+appears  My  greater  this  of sweetness  flood  
+ayam aham api hanta prekṣya yaṁ lubdha-cetāḥ  
+this  I  even  alas  seeing  which  with greedy heart  
+sarabhasam upabhoktuṁ kāmaye rādhikeva  
+eagerly  to enjoy  I desire  like Rādhikā
+
+(146) “What never-before-known, wonder-working flood of My sweetness, surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, like Rādhikā.” (Lalita-mādhava, 8.34)[^105]
+
+কৃষ্ণমাধুর্য্যের এক স্বাভাবিক বল ৷  
+কৃষ্ণআদি নরনারী করয়ে চঞ্চল ॥ ১৪৭ ॥
+
+kṛṣṇa-mādhuryera eka svābhāvika bala  
+of Kṛṣṇa’s sweetness  one  natural  power  
+kṛṣṇa-ādi nara-nārī karaye cañcala  
+Kṛṣṇa and others  men  women  makes  restless
+
+(147) Kṛṣṇa’s sweetness has a natural power: it makes all men and women restless, beginning with Kṛṣṇa Himself.[^106]
+
+শ্রবণে, দর্শনে আকর্ষয়ে সর্ব্বমন ৷  
+আপনা আস্বাদিতে কৃষ্ণ করেন যতন ॥ ১৪৮ ॥
+
+śravaṇe, darśane ākarṣaye sarva-mana  
+by hearing  by seeing  attracts  all  minds  
+āpanā āsvādite kṛṣṇa karena yatana  
+Himself  to taste  Kṛṣṇa  makes  effort
+
+(148) Heard of or seen, it draws every heart, and Kṛṣṇa Himself strives to taste it.
+
+এ মাধুর্য্যামৃত সদা যেই পান করে ৷  
+তৃষ্ণাশান্তি নহে, তৃষ্ণা বাঢ়ে নিরন্তরে ॥ ১৪৯ ॥
+
+e mādhuryāmṛta sadā yei pāna kare  
+this  of sweetness  the nectar  always  whoever  drinking  makes  
+tṛṣṇā-śānti nahe, tṛṣṇā bāḍhe nirantare  
+of thirst  the quenching  is not  the thirst  grows  incessantly
+
+(149) Whoever drinks this nectar of sweetness finds his thirst never quenched; the thirst only grows without end.[^107]
+
+অতৃপ্ত হইয়া করে বিধিরে নিন্দন ৷  
+অবিদগ্ধ বিধি ভাল না জানে সৃজন ॥ ১৫০ ॥
+
+atṛpta haiyā kare vidhire nindana  
+unsatisfied  becoming  makes  of the Creator  blame  
+avidagdha vidhi bhāla nā jāne sṛjana  
+unskilled  the Creator  well  not  knows  creation
+
+(150) Unsatisfied, he blames the Creator: “The unskilled Creator does not know how to create well!
+
+কোটি নেত্র নাহি দিল, সবে দিল দুই ৷  
+তাহাতে নিমেষ, — কৃষ্ণ কি দেখিব মুঞি ॥ ১৫১ ॥
+
+koṭi netra nāhi dila, sabe dila dui  
+ten million  eyes  not  gave  only  gave  two  
+tāhāte nimeṣa, — kṛṣṇa ki dekhiba muñi  
+in them  blinking  Kṛṣṇa  how  shall see  I
+
+(151) He did not give me ten million eyes — he gave only two, and even those blink. How shall I see Kṛṣṇa?”
+
+গোপ্যশ্চ কৃষ্ণমুপলভ্য চিরাদভীষ্টং  
+যৎপ্রেক্ষণে দৃশিষু পক্ষ্মকৃতং শপন্তি ৷  
+দৃগ্ভির্হৃদীকৃতমলং পরিরভ্য সর্ব্বা-  
+স্তদ্ভাবমাপুরপি নিত্যযুজাং দুরাপম্ ॥ ১৫২ ॥
+
+gopyaś ca kṛṣṇam upalabhya cirād abhīṣṭaṁ  
+the gopīs  and  Kṛṣṇa  having obtained  after long  the desired  
+yat-prekṣaṇe dṛśiṣu pakṣma-kṛtaṁ śapanti  
+in seeing whom  in the eyes  the maker of the eyelids  they curse  
+dṛgbhir hṛdī-kṛtam alaṁ parirabhya sarvās  
+by the eyes  placed in the heart  fully  embracing  all  
+tad-bhāvam āpur api nitya-yujāṁ durāpam  
+that state  attained  even  of those ever-united  hard to attain
+
+(152) “Having at last, after long separation, obtained their beloved Kṛṣṇa — at whom they gazed cursing the maker of eyelids — the gopīs through their eyes placed Him in their hearts and embraced Him there to their fill. So they all attained a state that even perfected yogīs can hardly reach.” (Śrīmad-Bhāgavatam, 10.82.39)[^108]
+
+অটতি যদ্ভবানহ্নি কাননং  
+ত্রুটির্যুগায়তে ত্বামপশ্যতাম্ ৷  
+কুটিলকুন্তলং শ্রীমুখঞ্চ তে  
+জড় উদীক্ষতাং পক্ষ্মকৃদ্দৃশাম্ ॥ ১৫৩ ॥
+
+aṭati yad bhavān ahni kānanaṁ  
+wander  when  You  by day  the forest  
+truṭir yugāyate tvām apaśyatām  
+a moment  becomes a yuga  You  for those not seeing  
+kuṭila-kuntalaṁ śrī-mukhaṁ ca te  
+with curling  locks  beautiful face  and  Your  
+jaḍa udīkṣatāṁ pakṣma-kṛd dṛśām  
+a fool  for those gazing  the maker of eyelids  of the eyes
+
+(153) “When by day You wander in the forest, a moment without You becomes an age for us. And as we gaze upon Your beautiful face framed in curling locks, we see what a fool was the maker of our eyelids.” (Śrīmad-Bhāgavatam, 10.31.15)[^109]
+
+কৃষ্ণাবলোকন বিনা নেত্রে ফল নাহি আন ৷  
+যেই জন কৃষ্ণ দেখে, সেই ভাগ্যবান্ ॥ ১৫৪ ॥
+
+kṛṣṇāvalokana vinā netre phala nāhi āna  
+of Kṛṣṇa  the seeing  without  for the eyes  fruit  there is not  other  
+yei jana kṛṣṇa dekhe, sei bhāgyavān  
+which  person  Kṛṣṇa  sees  that one  fortunate
+
+(154) Without seeing Kṛṣṇa the eyes have no other fruit; whoever sees Kṛṣṇa is fortunate indeed.[^110]
+
+অক্ষণ্বতাং ফলমিদং ন পরং বিদামঃ  
+সখ্যঃ পশূননুবিবেশয়তোর্বয়স্যৈঃ ৷  
+বক্ত্রং ব্রজেশসুতয়োরনুবেণুজুষ্টং  
+যৈর্বা নিপীতমনুরক্ত কটাক্ষমোক্ষম্ ॥ ১৫৫ ॥
+
+akṣaṇvatāṁ phalam idaṁ na paraṁ vidāmaḥ  
+of those with eyes  the fruit  this  not  other  we know  
+sakhyaḥ paśūn anuviveśayator vayasyaiḥ  
+O friends  the cattle  driving into the forest  with companions  
+vaktraṁ vrajeśa-sutayor anuveṇu-juṣṭaṁ  
+the faces  of the two sons of Vraja’s lord  with the flute  graced  
+yair vā nipītam anurakta kaṭākṣa-mokṣam  
+by whom  or  drunk  loving  glances  casting
+
+(155) “O friends, we know no other fruit for the eyes than this: to drink in the faces of the two sons of Vraja’s lord as They drive the cows into the forest with Their friends, playing Their flutes and casting loving glances.” (Śrīmad-Bhāgavatam, 10.21.7)[^111]
+
+গোপ্যস্তপঃ কিমচরন্ যদমুষ্য রূপং  
+লাবণ্যসারমসমোর্ধ্বমনন্যসিদ্ধম্ ৷  
+দৃগ্ভিঃ পিবন্ত্যনুসবাভিনবং দুরাপ-  
+মেকান্তধাম যশসঃ শ্রিয় ঐশ্বরস্য ॥ ১৫৬ ॥
+
+gopyas tapaḥ kim acaran yad amuṣya rūpaṁ  
+the gopīs  austerity  what  performed  since  His  form  
+lāvaṇya-sāram asamordhvam ananya-siddham  
+of loveliness  the essence  unequalled and unsurpassed  not perfected by anything else  
+dṛgbhiḥ pibanty anusavābhinavaṁ durāpam  
+with the eyes  drink  at every moment new  hard to attain  
+ekānta-dhāma yaśasaḥ śriya aiśvarasya  
+the sole abode  of fame  of beauty  of majesty
+
+(156) “What austerities did the gopīs perform, that with their eyes they drink His form — the essence of loveliness, unequalled and unsurpassed, perfect in itself, new at every moment, hard to attain, the sole abode of fame, beauty and majesty?” (Śrīmad-Bhāgavatam, 10.44.14)[^112]
+
+অপূর্ব্ব মাধুরী কৃষ্ণের, অপূর্ব্ব তার বল ৷  
+যাহার শ্রবণে মন হয় টলমল ॥ ১৫৭ ॥
+
+apūrva mādhurī kṛṣṇera, apūrva tāra bala  
+unprecedented  sweetness  of Kṛṣṇa  unprecedented  its  power  
+yāhāra śravaṇe mana haya ṭalamala  
+of which  on hearing  the mind  becomes  unsteady
+
+(157) Unprecedented is Kṛṣṇa’s sweetness, and unprecedented its power: merely hearing of it, the mind trembles.
+
+কৃষ্ণের মাধুর্য্যে কৃষ্ণে উপজয় লোভ ৷  
+সম্যক্ আস্বাদিতে নারে, মনে রহে ক্ষোভ ॥ ১৫৮ ॥
+
+kṛṣṇera mādhurye kṛṣṇe upajaya lobha  
+of Kṛṣṇa  by the sweetness  in Kṛṣṇa  arises  greed  
+samyak āsvādite nāre, mane rahe kṣobha  
+fully  to taste  He cannot  in the mind  remains  regret
+
+(158) Kṛṣṇa’s sweetness awakens longing in Kṛṣṇa Himself; He cannot taste it fully, and sorrow remains in His heart.
+
+এই ত’ দ্বিতীয় হেতুর কহিল বিবরণ ৷  
+তৃতীয় হেতুর এবে শুনহ লক্ষণ ॥ ১৫৯ ॥
+
+ei ta’ dvitīya hetura kahila vivaraṇa  
+this  indeed  of the second  reason  I have told  the description  
+tṛtīya hetura ebe śunaha lakṣaṇa  
+of the third  reason  now  hear  the characteristics
+
+(159) So I have described the second reason. Now hear the nature of the third.[^113]
+
+অত্যন্তনিগূঢ় এই রসের সিদ্ধান্ত ৷  
+স্বরূপ-গোসাঞি মাত্র জানেন একান্ত ॥ ১৬০ ॥
+
+atyanta-nigūḍha ei rasera siddhānta  
+extremely  hidden  this  of rasa  the conclusion  
+svarūpa-gosāñi mātra jānena ekānta  
+Svarūpa  Gosāñi  only  knows  fully
+
+(160) This conclusion about rasa is most deeply hidden; Svarūpa Gosāñi alone knows it fully.[^114]
+
+যেবা কেহ অন্য জানে, সেহো তাঁহা হৈতে ৷  
+চৈতন্য-গোসাঞির তেঁহ অত্যন্ত মর্ম্ম যাতে ॥ ১৬১ ॥
+
+yebā keha anya jāne, seho tām̐hā haite  
+if  anyone  other  knows  that too  from him  
+caitanya-gosāñira tem̐ha atyanta marma yāte  
+of Caitanya Gosāñi  he  the very  heart  since
+
+(161) If anyone else knows it, he knows it from him, for he is the very heart of Caitanya Gosāñi.
+
 ---
 
 [^1]: In the edition the verse is headed “By the grace of Gaura, the nature of Śrī Kṛṣṇa ascertained”. *Anubhāṣya*: “a child” — one who knows nothing; “His form” — the form of Gaura, who is not different from Rādhā and Kṛṣṇa; “the Enjoyer in Vraja” — the son of the king of Vraja; “ascertainment” — pointing out the truth (*tattva*).
@@ -1475,3 +1897,49 @@ by which  strength  Me  makes  always  overwhelmed
 [^90]: In the edition the verse is headed: “(1) The first desire.” *Amṛta-pravāha-bhāṣya*: “the source of rasa” (*rasera nidāna*); some readings have *rasera nidhāna*, “the treasury of rasa”.
 
 [^91]: In the edition the verse is headed: “A consideration of the power and depth of Rādhā’s love.”
+
+[^92]: As in the Gauḍīya Maṭha edition: «প্রতিতরুলতাং»; so too the *Anubhāṣya* (another reading: «প্রতিতরুলতং»). The edition’s root text here also has the misprints «নিত্যশিক্ষাং» and «ত্বং»; the *Anubhāṣya* reads «নৃত্যশিক্ষাম্» (“the learning of dance”) and «তং (কৃষ্ণং)» (“Him, Kṛṣṇa”). *Anubhāṣya*: a conversation between Śrī Rādhā and Vṛndā within the midday pastimes of Rādhā and Kṛṣṇa; *śailūṣī* — a skilled dancer.
+
+[^93]: In the edition the verse is headed: “A comparison of the mutual love of Kṛṣṇa and Rādhā, and its special nature.”
+
+[^94]: In the edition the verse is headed: “An explanation of the mutual love of Rādhā and Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: as Kṛṣṇa is the shelter of opposite qualities — changeless yet acting by His own will, all-pervading yet having a beautiful form, dependent on none yet partial to His devotees, self-satisfied yet longing for His devotees’ love — so Rādhā’s love is full of opposite qualities: it is the ultimate *mahābhāva* and yet ever growing, full of greatness and yet free of pride, pure and yet full of contrariness.
+
+[^95]: In the edition the verse is headed: “An example of the opposite qualities in Rādhā’s love.”
+
+[^96]: *Anubhāṣya*: “all-pervading” — omnipresent; “free of pride” — free of service out of mere courtesy, for it is born of a honeyed affection (*madhu-sneha*) full of the sense “He is mine”; “crookedness” — contrariness (*vāmya*); “pure” — unmotivated. *Amṛta-pravāha-bhāṣya*: Rādhikā’s love, though it has reached its limit, ever grows; though weighty, it does not act with importance; though pure, it again and again takes a crooked path. Glory to such love of Rādhikā for Kṛṣṇa!
+
+[^97]: In the edition the verse is headed: “The *viṣaya* of that love is Kṛṣṇa, the *āśraya* Rādhikā.” *Amṛta-pravāha-bhāṣya*: the one who loves is the *āśraya* of love, the one who is loved its *viṣaya*. In the science of rasa there are four ingredients: *vibhāva*, *anubhāva*, *sāttvika* and *vyabhicārī*; *vibhāva* is *ālambana* and *uddīpana*; *ālambana* is *viṣaya* and *āśraya*. The *āśraya* of Rādhā’s love is Rādhikā, its only *viṣaya* Kṛṣṇa. The happiness Kṛṣṇa tastes is the happiness of the *viṣaya*; the bliss of the *āśraya* is ten million times greater, and only by becoming the *āśraya* of that love can He taste it — this longing is His first desire.
+
+[^98]: In the edition the verse is headed: “A comparison of the happiness of the *viṣaya* and of the *āśraya*.”
+
+[^99]: In the edition the verse is headed: “Seeing that the *āśraya*’s happiness is greater, the *viṣaya* longs to become the *āśraya*.”
+
+[^100]: In the edition the verse is headed: “(2) The second desire.”
+
+[^101]: In the edition the verse is headed: “Kṛṣṇa’s sweetness astonishes and attracts even Himself.”
+
+[^102]: In the edition the verse is headed: “Śrī Rādhā’s love is full and yet grows at every moment.” *Amṛta-pravāha-bhāṣya*: the second desire is this: Kṛṣṇa’s sweetness is wondrous, endless and boundless, and Rādhikā alone tastes it, with the love of the *āśraya*. The mirror of Her pure love is perfectly clear, yet its clearness grows at every moment; Kṛṣṇa’s sweetness, boundless and so unable to grow, grows and shines ever new before that mirror; so His sweetness and Rādhā’s love vie with each other, and neither will yield.
+
+[^103]: *Anubhāṣya*: *hoḍa kari’* — “vying”.
+
+[^104]: In the edition the verse is headed: “To taste His own sweetness He longs to take the form of Her who tastes it.”
+
+[^105]: *Anubhāṣya*: in Dvārakā, in Nava-Vṛndāvana, Śrī Kṛṣṇa sees His own beauty in His reflection on a jewelled wall and says: “never before experienced, causing wonder, weightier than all — My indescribable flood of sweetness, a treasure of beauty, appears here; and I, Kṛṣṇa, seeing this reflection, like Rādhikā, with a greedy heart eagerly desire to enjoy it.” The *Amṛta-pravāha-bhāṣya* reads *kaḥ* as a question: “Who is this never-seen, astonishing, wondrously depicted Person? Seeing Him, I, like Rādhikā, long to embrace Him.”
+
+[^106]: In the edition the verse is headed: “The power of Kṛṣṇa’s sweetness, and His effort to taste it.” *Anubhāṣya*: beginning with Kṛṣṇa Himself — the gopīs, Baladeva, Nārāyaṇa, Lakṣmī and all other beings — Kṛṣṇa’s sweetness by its nature is able to stir them all.
+
+[^107]: In the edition the verse is headed: “Kṛṣṇa’s sweetness brings no worldly satiety — only the longing grows.”
+
+[^108]: *Anubhāṣya*: Śukadeva describes the gopīs’ feelings for Kṛṣṇa after the meeting of the cowherds with the Vṛṣṇis at Kurukṣetra: gazing at Kṛṣṇa, they rebuked the Creator who made the eyelids that hinder sight; “the ever-united” — yogīs who have reached perfection; “that state” — dense supreme bliss. *Amṛta-pravāha-bhāṣya*: that state is unattainable even for yogīs who meditate on Brahman.
+
+[^109]: *Anubhāṣya*: the song of the gopīs’ lament when Kṛṣṇa vanished during the *rāsa* dance; “a moment” (*truṭi*) — even half an instant becomes for them a *yuga*; “the maker of eyelids” — the Creator who made blinking — is a fool.
+
+[^110]: In the edition the verse is headed: “For a fortunate *jīva*, the purpose of the eyes is to see Kṛṣṇa’s form.”
+
+[^111]: *Anubhāṣya*: the song of the gopīs about Kṛṣṇa at the coming of autumn; the two sons of the lord of Vraja are Rāma and Kṛṣṇa, who drive the cows from forest to forest playing the flute; “loving glances” — tender glances, drunk by those who serve Them with their eyes.
+
+[^112]: In the edition the verse is headed: “The women of Mathurā marvel at the gopīs’ good fortune.” *Anubhāṣya*: the words of the women gathered in Kaṁsa’s arena at Mathurā, when they saw Rāma and Kṛṣṇa wrestling with Muṣṭika and Cāṇūra; Kṛṣṇa’s form is “not perfected by anything else” — it is perfect in itself, not through ornaments; “new at every moment”.
+
+[^113]: In the edition the verse is headed: “(3) The third desire.” *Amṛta-pravāha-bhāṣya*: though Kṛṣṇa longs to taste His sweetness fully with the love of the *āśraya*, He cannot, and is troubled; this is the second hidden reason why He accepts Rādhikā’s mood.
+
+[^114]: In the edition the verse is headed: “Dāmodara-svarūpa alone is the original *mahājana* of the nectar of *bhakti-rasa*.”
