@@ -1239,6 +1239,404 @@ briefly  I make  something  about them  all  an account
 
 (123) Now I shall speak briefly of the Lord’s devotees who were with Him only in Nīlācala.
 
+নীলাচলে প্রভুসঙ্গে সব ভক্তগণ ৷  
+সবার অধ্যক্ষ প্রভুর মর্ম্ম দুইজন ॥ ১২৪ ॥
+
+পরমানন্দপুরী, আর স্বরূপ-দামোদর ৷  
+গদাধর, জগদানন্দ, শঙ্কর, বক্রেশ্বর ॥ ১২৫ ॥
+
+দামোদর পণ্ডিত, ঠাকুর হরিদাস ৷  
+রঘুনাথ বৈদ্য, আর রঘুনাথ দাস ॥ ১২৬ ॥
+
+nīlācale prabhu-saṅge saba bhakta-gaṇa  
+in Nīlācala  with the Lord  all  devotees  
+sabāra adhyakṣa prabhura marma dui-jana  
+of all  the chief  of the Lord  the heart  two persons  
+paramānanda-purī, āra svarūpa-dāmodara  
+Paramānanda  Purī,  and  Svarūpa  Dāmodara  
+gadādhara, jagadānanda, śaṅkara, vakreśvara  
+Gadādhara,  Jagadānanda,  Śaṅkara,  Vakreśvara  
+dāmodara paṇḍita, ṭhākura haridāsa  
+Dāmodara  Paṇḍita,  Ṭhākura  Haridāsa  
+raghunātha vaidya, āra raghunātha dāsa  
+Raghunātha  Vaidya,  and  Raghunātha  dāsa
+
+(124–126) Of all the devotees who lived with the Lord in Nīlācala, two were foremost, the Lord’s very heart: Paramānanda Purī and Svarūpa Dāmodara. With them were Gadādhara, Jagadānanda, Śaṅkara, Vakreśvara, Dāmodara Paṇḍita, Ṭhākura Haridāsa, Raghunātha Vaidya and Raghunātha dāsa.[^58]
+
+ইত্যাদিক পূর্ব্বসঙ্গী বড় ভক্তগণ ৷  
+নীলাচলে রহি’ প্রভুর করেন সেবন ॥ ১২৭ ॥
+
+ityādika pūrva-saṅgī baḍa bhakta-gaṇa  
+these and others  former companions  great  devotees  
+nīlācale rahi’ prabhura karena sevana  
+in Nīlācala  staying  the Lord’s  render  service
+
+(127) These and other great devotees, His companions from before, stayed in Nīlācala and served the Lord there.
+
+আর যত ভক্তগণ গৌড়দেশবাসী ৷  
+প্রত্যব্দে প্রভুরে দেখে নীলাচলে আসি’ ॥ ১২৮ ॥
+
+āra yata bhakta-gaṇa gauḍa-deśa-vāsī  
+and  as many  devotees  residents of Gauḍa  
+pratyabde prabhure dekhe nīlācale āsi’  
+every year  the Lord  see  to Nīlācala  coming
+
+(128) And all the devotees who lived in Gauḍa came every year to Nīlācala to see the Lord.
+
+নীলাচলে প্রভুসহ প্রথম মিলন ৷  
+সেই ভক্তগণের এবে করিয়ে গণন ॥ ১২৯ ॥
+
+nīlācale prabhu-saha prathama milana  
+in Nīlācala  with the Lord  first  meeting  
+sei bhakta-gaṇera ebe kariye gaṇana  
+of those  devotees  now  I make  the counting
+
+(129) Now I shall list the devotees who first met the Lord in Nīlācala.
+
+বড়শাখা এক, — সার্ব্বভৌম ভট্টাচার্য্য ৷  
+তাঁর ভগ্নীপতি শ্রীগোপীনাথাচার্য্য ॥ ১৩০ ॥
+
+baḍa-śākhā eka, — sārvabhauma bhaṭṭācārya  
+a great branch  one —  Sārvabhauma  Bhaṭṭācārya  
+tām̐ra bhagnī-pati śrī-gopīnāthācārya  
+his  sister’s husband  Śrī Gopīnāthācārya
+
+(130) One great branch is Sārvabhauma Bhaṭṭācārya, and another is his sister’s husband, Śrī Gopīnātha Ācārya.[^59]
+
+কাশীমিশ্র, প্রদ্যুম্নমিশ্র, রায় ভবানন্দ ৷  
+যাঁহার মিলনে প্রভু পাইলা আনন্দ ॥ ১৩১ ॥
+
+kāśī-miśra, pradyumna-miśra, rāya bhavānanda  
+Kāśī  Miśra,  Pradyumna  Miśra,  Rāya  Bhavānanda  
+yām̐hāra milane prabhu pāilā ānanda  
+whom  meeting  the Lord  felt  joy
+
+(131) Then come Kāśī Miśra, Pradyumna Miśra and Bhavānanda Rāya, whose company gave the Lord great joy.[^60]
+
+আলিঙ্গন করি’ তাঁরে বলিল বচন ৷  
+তুমি পাণ্ডু, পঞ্চপাণ্ডব — তোমার নন্দন ॥ ১৩২ ॥
+
+āliṅgana kari’ tām̐re balila vacana  
+embracing  him  spoke  words  
+tumi pāṇḍu, pañca-pāṇḍava — tomāra nandana  
+you  Pāṇḍu,  the five Pāṇḍavas —  your  sons
+
+(132) Embracing him, the Lord said, “You are Pāṇḍu, and your sons are the five Pāṇḍavas:
+
+রামানন্দ রায়, পট্টনায়ক গোপীনাথ ৷  
+কলানিধি, সুধানিধি, নায়ক বাণীনাথ ॥ ১৩৩ ॥
+
+rāmānanda rāya, paṭṭanāyaka gopīnātha  
+Rāmānanda  Rāya,  Paṭṭanāyaka  Gopīnātha  
+kalānidhi, sudhānidhi, nāyaka vāṇīnātha  
+Kalānidhi,  Sudhānidhi,  Nāyaka  Vāṇīnātha
+
+(133) “Rāmānanda Rāya, Gopīnātha Paṭṭanāyaka, Kalānidhi, Sudhānidhi and Vāṇīnātha Nāyaka.
+
+এই পঞ্চ পুত্র তোমার — মোর প্রিয়পাত্র ৷  
+রামানন্দ সহ মোর দেহ-ভেদ মাত্র ॥ ১৩৪ ॥
+
+ei pañca putra tomāra mora priyapātra  
+these  five  sons  your —  to Me  dear ones  
+rāmānanda saha mora deha-bheda mātra  
+Rāmānanda  with  My  difference of body  only
+
+(134) “These five sons of yours are dear to Me, and between Rāmānanda and Me the only difference is of body.”
+
+প্রতাপরুদ্র রাজা, আর ওঢ়্র কৃষ্ণানন্দ ৷  
+পরমানন্দ মহাপাত্র, ওঢ়্র শিবানন্দ ॥ ১৩৫ ॥
+
+ভগবান্ আচার্য্য, ব্রহ্মানন্দাখ্য ভারতী ৷  
+শ্রীশিখি মাহিতি, আর মুরারি মাহিতি ॥ ১৩৬ ॥
+
+pratāparudra rājā, āra oḍhra kṛṣṇānanda  
+Pratāparudra  the king,  and  the Oriya  Kṛṣṇānanda  
+paramānanda mahāpātra, oḍhra śivānanda  
+Paramānanda  Mahāpātra,  the Oriya  Śivānanda  
+bhagavān ācārya, brahmānandākhya bhāratī  
+Bhagavān  Ācārya,  called Brahmānanda  Bhāratī  
+śrī-śikhi māhiti, āra murāri māhiti  
+Śrī  Śikhi  Māhiti,  and  Murāri  Māhiti
+
+(135–136) Other branches are King Pratāparudra, Kṛṣṇānanda of Orissa, Paramānanda Mahāpātra, Śivānanda of Orissa, Bhagavān Ācārya, Brahmānanda Bhāratī, Śrī Śikhi Māhiti and Murāri Māhiti.
+
+মাধবী-দেবী — শিখি-মাহিতির ভগিনী ৷  
+শ্রীরাধার দাসীমধ্যে যাঁর নাম গণি ॥ ১৩৭ ॥
+
+mādhavī-devī — śikhi-māhitira bhaginī  
+Mādhavī  Devī —  of Śikhi Māhiti  the sister  
+śrī-rādhāra dāsī-madhye yām̐ra nāma gaṇi  
+of Śrī Rādhā  maidservants  among  whose  name  is counted
+
+(137) Mādhavī Devī, the sister of Śikhi Māhiti, is counted among the maidservants of Śrī Rādhā.[^61]
+
+ঈশ্বরপুরীর শিষ্য — ব্রহ্মচারী কাশীশ্বর ৷  
+শ্রীগোবিন্দ নাম তাঁর প্রিয় অনুচর ॥ ১৩৮ ॥
+
+īśvara-purīra śiṣya — brahmacārī kāśīśvara  
+of Īśvara  Purī  a disciple —  Brahmacārī  Kāśīśvara  
+śrī-govinda nāma tām̐ra priya anucara  
+Śrī Govinda  by name  his  dear  follower
+
+(138) Brahmacārī Kāśīśvara was a disciple of Īśvara Purī, and Śrī Govinda was his dear follower.[^62]
+
+তাঁর সিদ্ধিকালে দোঁহে তাঁর আজ্ঞা পাঞা ৷  
+নীলাচলে প্রভু-স্থানে মিলিলা আসিয়া ॥ ১৩৯ ॥
+
+tām̐ra siddhi-kāle dom̐he tām̐ra ājñā pāñā  
+at his  departure  both  his  order  receiving  
+nīlācale prabhu-sthāne mililā āsiyā  
+in Nīlācala  at the Lord’s place  met  having come
+
+(139) At the time of his departure both received his order, came to Nīlācala and met the Lord.
+
+গুরুর সম্বন্ধে মান্য কৈল দুঁহাকারে ৷  
+তাঁর আজ্ঞা মানি’ সেবা দিলেন দোঁহারে ॥ ১৪০ ॥
+
+gurura sambandhe mānya kaila dum̐hākāre  
+of the guru  through the relation  honour  showed  to both  
+tām̐ra ājñā māni’ sevā dilena dom̐hāre  
+his  order  accepting  service  gave  to both
+
+(140) Out of regard for their relation to His Guru the Lord honoured them both, and accepting His Guru’s order, He gave them both His service.[^63]
+
+অঙ্গসেবা গোবিন্দেরে দিলেন ঈশ্বর ৷  
+জগন্নাথ দেখিতে আগে চলে কাশীশ্বর ॥ ১৪১ ॥
+
+aṅga-sevā govindere dilena īśvara  
+personal service  to Govinda  gave  the Lord  
+jagannātha dekhite āge cale kāśīśvara  
+Jagannātha  to see  ahead  goes  Kāśīśvara
+
+(141) The Lord gave Govinda the service of His person, and when He went to see Jagannātha, Kāśīśvara walked ahead of Him.
+
+অপরশ যায় গোসাঞি মনুষ্য-গহনে ৷  
+মনুষ্য ঠেলি’ পথ করে কাশী বলবানে ॥ ১৪২ ॥
+
+aparaśa yāya gosāñi manuṣya-gahane  
+untouched  goes  Gosāñi  in the press of people  
+manuṣya ṭheli’ patha kare kāśī balavāne  
+the people  pushing aside  a path  makes  Kāśī  the strong
+
+(142) Through the dense crowd the Lord passed untouched, for the mighty Kāśīśvara pushed the people aside and cleared the way.
+
+রামাই-নন্দাই — দোঁহে প্রভুর কিঙ্কর ৷  
+গোবিন্দের সঙ্গে সেবা করে নিরন্তর ॥ ১৪৩ ॥
+
+rāmāi-nandāi — dom̐he prabhura kiṅkara  
+Rāmāi  Nandāi —  both  of the Lord  servants  
+govindera saṅge sevā kare nirantara  
+Govinda  with  service  render  constantly
+
+(143) Rāmāi and Nandāi, both servants of the Lord, served constantly alongside Govinda.[^64]
+
+বাইশ ঘড়া জল দিনে ভরেন রামাই ৷  
+গোবিন্দের আজ্ঞায় সেবা করেন নন্দাই ॥ ১৪৪ ॥
+
+bāiśa ghaḍā jala dine bharena rāmāi  
+twenty-two  jars  of water  daily  fills  Rāmāi  
+govindera ājñāya sevā karena nandāi  
+by Govinda’s  order  service  renders  Nandāi
+
+(144) Every day Rāmāi filled twenty-two jars of water, and Nandāi served as Govinda directed.
+
+কৃষ্ণদাস নাম শুদ্ধ কুলীন ব্রাহ্মণ ৷  
+যারে সঙ্গে লৈঞা কৈল দক্ষিণ গমন ॥ ১৪৫ ॥
+
+kṛṣṇadāsa nāma śuddha kulīna brāhmaṇa  
+Kṛṣṇadāsa  by name  a pure  Kulīna  brāhmaṇa  
+yāre saṅge laiñā kaila dakṣiṇa gamana  
+whom  with  taking  made  to the south  the journey
+
+(145) A pure Kulīna brāhmaṇa named Kṛṣṇadāsa went with the Lord on His journey to the south.[^65]
+
+বলভদ্র ভট্টাচার্য্য — ভক্তি অধিকারী ৷  
+মথুরা-গমনে প্রভুর যিঁহো ব্রহ্মচারী ॥ ১৪৬ ॥
+
+balabhadra bhaṭṭācārya — bhakti adhikārī  
+Balabhadra  Bhaṭṭācārya —  for bhakti  qualified  
+mathurā-gamane prabhura yim̐ho brahmacārī  
+on the journey to Mathurā  of the Lord  who  the brahmacārī
+
+(146) Balabhadra Bhaṭṭācārya, a true devotee, served the Lord as His brahmacārī on the journey to Mathurā.
+
+বড় হরিদাস, আর ছোট হরিদাস ৷  
+দুই কীর্ত্তনীয়া রহে মহাপ্রভুর পাশ ॥ ১৪৭ ॥
+
+baḍa haridāsa, āra choṭa haridāsa  
+Baḍa  Haridāsa,  and  Choṭa  Haridāsa  
+dui kīrtanīyā rahe mahāprabhura pāśa  
+two  kīrtana singers  stay  of Mahāprabhu  at the side
+
+(147) Baḍa Haridāsa and Choṭa Haridāsa, two kīrtana singers, stayed by Mahāprabhu’s side.
+
+রামভদ্রাচার্য্য, আর ওঢ়্র সিংহেশ্বর ৷  
+তপন আচার্য্য, আর রঘু, নীলাম্বর ॥ ১৪৮ ॥
+
+rāmabhadrācārya, āra oḍhra siṁheśvara  
+Rāmabhadrācārya,  and  the Oriya  Siṁheśvara  
+tapana ācārya, āra raghu, nīlāmbara  
+Tapana  Ācārya,  and  Raghu,  Nīlāmbara
+
+(148) There were also Rāmabhadra Ācārya, Siṁheśvara of Orissa, Tapana Ācārya, Raghu and Nīlāmbara;
+
+সিঙ্গাভট্ট, কামাভট্ট, দন্তুর শিবানন্দ ৷  
+গৌড়ে পূর্ব্বে ভৃত্য প্রভুর প্রিয় কমলানন্দ ॥ ১৪৯ ॥
+
+siṅgābhaṭṭa, kāmābhaṭṭa, dantura śivānanda  
+Siṅgābhaṭṭa,  Kāmābhaṭṭa,  Dantura  Śivānanda  
+gauḍe pūrve bhṛtya prabhura priya kamalānanda  
+in Gauḍa  formerly  servant  of the Lord  dear  Kamalānanda
+
+(149) Siṅgābhaṭṭa, Kāmābhaṭṭa, Dantura Śivānanda, and Kamalānanda, who had been a dear servant of the Lord in Gauḍa.
+
+অচ্যুতানন্দ — অদ্বৈত-আচার্য্য-তনয় ৷  
+নীলাচলে রহে প্রভুর চরণ আশ্রয় ॥ ১৫০ ॥
+
+acyutānanda — advaita-ācārya-tanaya  
+Acyutānanda —  of Advaita Ācārya  the son  
+nīlācale rahe prabhura caraṇa āśraya  
+in Nīlācala  stays  of the Lord’s  feet  in the shelter
+
+(150) Acyutānanda, the son of Advaita Ācārya, stayed in Nīlācala in the shelter of the Lord’s feet.
+
+নির্ল্লোম গঙ্গাদাস, আর বিষ্ণুদাস ৷  
+এই সবের প্রভুসঙ্গে নীলাচলে বাস ॥ ১৫১ ॥
+
+nirloma gaṅgādāsa, āra viṣṇudāsa  
+Nirloma  Gaṅgādāsa,  and  Viṣṇudāsa  
+ei sabera prabhu-saṅge nīlācale vāsa  
+of these all  with the Lord  in Nīlācala  dwelling
+
+(151) Nirloma Gaṅgādāsa and Viṣṇudāsa also lived with the Lord in Nīlācala.
+
+বারাণসী-মধ্যে প্রভু-ভক্ত তিন জন ৷  
+চন্দ্রশেখর বৈদ্য, আর মিশ্র তপন ॥ ১৫২ ॥
+
+রঘুনাথ ভট্টাচার্য্য — মিশ্রের নন্দন ৷  
+প্রভু যবে কাশী আইলা দেখি’ বৃন্দাবন ॥ ১৫৩ ॥
+
+vārāṇasī-madhye prabhu-bhakta tina jana  
+in Vārāṇasī  of the Lord  devotees  three  persons  
+candraśekhara vaidya, āra miśra tapana  
+Candraśekhara  Vaidya,  and  Miśra  Tapana  
+raghunātha bhaṭṭācārya — miśrera nandana  
+Raghunātha  Bhaṭṭācārya —  of the Miśra  the son  
+prabhu yabe kāśī āilā dekhi’ vṛndāvana  
+the Lord  when  to Kāśī  came  having seen  Vṛndāvana
+
+(152–153) In Vārāṇasī the Lord had three devotees: Candraśekhara the physician, Tapana Miśra and his son Raghunātha Bhaṭṭācārya. When the Lord came to Kāśī after seeing Vṛndāvana,
+
+চন্দ্রশেখর-গৃহে কৈল দুই মাস বাস ৷  
+তপন-মিশ্রের ঘরে ভিক্ষা দুই মাস ॥ ১৫৪ ॥
+
+candraśekhara-gṛhe kaila dui māsa vāsa  
+in Candraśekhara’s house  made  two  months  stay  
+tapana-miśrera ghare bhikṣā dui māsa  
+in Tapana Miśra’s  house  meals  two  months
+
+(154) He stayed for two months in Candraśekhara’s house and for two months took His meals in the house of Tapana Miśra.
+
+রঘুনাথ বাল্যে কৈল প্রভুর সেবন ৷  
+উচ্ছিষ্ট-মার্জ্জন আর পাদ-সংবাহন ॥ ১৫৫ ॥
+
+raghunātha bālye kaila prabhura sevana  
+Raghunātha  in childhood  did  of the Lord  service  
+ucchiṣṭa-mārjana āra pāda-saṁvāhana  
+of the remnants  cleaning  and  of the feet  massage
+
+(155) As a boy Raghunātha served the Lord, cleaning up after His meals and massaging His feet.
+
+বড় হৈলে নীলাচলে গেলা প্রভুর স্থানে ৷  
+অষ্টমাস রহিল ভিক্ষা দেন কোন দিনে ॥ ১৫৬ ॥
+
+baḍa haile nīlācale gelā prabhura sthāne  
+grown up  to Nīlācala  went  of the Lord  to the place  
+aṣṭa-māsa rahila bhikṣā dena kona dine  
+eight months  stayed  meals  gives  on some  days
+
+(156) When he grew up he went to the Lord in Nīlācala and stayed for eight months, on some days cooking for Him.
+
+প্রভুর আজ্ঞা পাঞা বৃন্দাবনেরে আইলা ৷  
+আসিয়া শ্রীরূপ-গোসাঞির নিকটে রহিলা ॥ ১৫৭ ॥
+
+prabhura ājñā pāñā vṛndāvanere āilā  
+the Lord’s  order  receiving  to Vṛndāvana  came  
+āsiyā śrī-rūpa-gosāñira nikaṭe rahilā  
+having come  Śrī  Rūpa  Gosāñi’s  near  stayed
+
+(157) Then, at the Lord’s command, he went to Vṛndāvana and stayed near Śrī Rūpa Gosvāmī.
+
+তাঁর স্থানে রূপ-গোসাঞি শুনেন ভাগবত ৷  
+প্রভুর কৃপায় তিঁহো কৃষ্ণপ্রেমে মত্ত ॥ ১৫৮ ॥
+
+tām̐ra sthāne rūpa-gosāñi śunena bhāgavata  
+in his  place  Rūpa  Gosāñi  hears  the Bhāgavata  
+prabhura kṛpāya tim̐ho kṛṣṇa-preme matta  
+by the Lord’s  mercy  he  with love for Kṛṣṇa  mad
+
+(158) Rūpa Gosvāmī heard the *Bhāgavatam* from him, and by the Lord’s mercy he was mad with love for Kṛṣṇa.[^66]
+
+এইমত সংখ্যাতীত চৈতন্য-ভক্তগণ ৷  
+দিঙ্মাত্র লিখি, সম্যক্ না যায় কথন ॥ ১৫৯ ॥
+
+ei-mata saṅkhyātīta caitanya-bhakta-gaṇa  
+in this way  countless  Caitanya’s  devotees  
+diṅmātra likhi, samyak nā yāya kathana  
+only a glimpse  I write,  fully  cannot  be  told
+
+(159) Thus Śrī Caitanya’s devotees are countless; I write of only a few, for they cannot be fully told.[^67]
+
+একৈক-শাখাতে লাগে কোটি কোটি ডাল ৷  
+তার শিষ্য-উপশিষ্য, তার উপডাল ॥ ১৬০ ॥
+
+ekaika-śākhāte lāge koṭi koṭi ḍāla  
+on each  branch  grow  millions  millions  of twigs  
+tāra śiṣya-upaśiṣya, tāra upaḍāla  
+its  disciples and their disciples,  its  smaller twigs
+
+(160) On every branch grow millions upon millions of twigs: its disciples and the disciples of its disciples are its smaller twigs.
+
+সকল ভরিয়া আছে প্রেমফুল-ফলে ৷  
+ভাসাইল ত্রিজগৎ কৃষ্ণপ্রেম-জলে ॥ ১৬১ ॥
+
+sakala bhariyā āche prema-phula-phale  
+all  filled  are  with flowers and fruits of love  
+bhāsāila tri-jagat kṛṣṇa-prema-jale  
+flooded  the three worlds  in the waters of love for Kṛṣṇa
+
+(161) All of them are laden with the flowers and fruits of love, and they have flooded the three worlds with the waters of love for Kṛṣṇa.
+
+এক এক শাখার শক্তি অনন্ত মহিমা ৷  
+‘সহস্র বদনে’ যার দিতে নারে সীমা ॥ ১৬২ ॥
+
+eka eka śākhāra śakti ananta mahimā  
+of each  branch  the power  endless  the glory  
+‘sahasra vadane’ yāra dite nāre sīmā  
+‘with a thousand mouths’  of which  to set  cannot  a limit
+
+(162) The power and glory of each branch are endless; even He who has a thousand mouths cannot find their limit.
+
+সংক্ষেপে কহিল মহাপ্রভুর ভক্তগণ ৷  
+সমগ্র বলিতে নারে ‘সহস্র বদন’ ॥ ১৬৩ ॥
+
+saṅkṣepe kahila mahāprabhura bhakta-gaṇa  
+briefly  have told  Mahāprabhu’s  devotees  
+samagra balite nāre ‘sahasra vadana’  
+all  to tell  cannot  ‘the Thousand-mouthed One’
+
+(163) I have told of Mahāprabhu’s devotees only briefly; even the Thousand-mouthed One could not tell of them all.
+
+শ্রীরূপ-রঘুনাথ-পদে যাঁর আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৬৪ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(164) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: the “dog” is one absorbed in enjoyment and without faith in the Lord’s devotees; to “share in the fragrance” of the feet is to receive devotion to Gaura.
@@ -1354,3 +1752,23 @@ briefly  I make  something  about them  all  an account
 [^56]: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Jagāi and Mādhāi are Jaya and Vijaya, the gatekeepers of Vaikuṇṭha, born of their own will in Navadvīpa. Brāhmaṇas by birth, they lived as robbers and were steeped in every sin, but by the mercy of Mahāprabhu and Nityānanda they received the holy name and became great devotees.
 
 [^57]: Heading in the edition: “Their service to Gaura both in Gauḍa and in Oḍra.”
+
+[^58]: Heading in the edition: “The most eminent — (1) Śrī Paramānanda and (2) Śrī Svarūpa.” For the devotees of Nīlācala the numbering of the branches in the headings starts afresh. *Anubhāṣya*: Raghunātha Vaidya (Upādhyāya) came to Nityānanda at Pānihāṭi and in His company showed the mood of Revatī; later he lived in Purī by the sea (*Caitanya-bhāgavata*, Antya 5).
+
+[^59]: *Anubhāṣya*: Sārvabhauma Bhaṭṭācārya, whose name was Vāsudeva, came from Vidyānagara and taught Vedānta in Nīlācala. At first he expounded Vedānta to Mahāprabhu according to Śaṅkara, but then learned its true meaning from Him and saw His six-armed form (Madhya 6); his *Caitanya-śataka* is full of devotion to Gaura. Gopīnātha Ācārya was a brāhmaṇa of Navadvīpa and a companion of the Lord.
+
+[^60]: *Anubhāṣya*: Kāśī Miśra was the king’s priest, and in his house the Lord lived in Nīlācala. Pradyumna Miśra, an Oriya and a great devotee, was sent by the Lord to hear Kṛṣṇa-kathā from Rāmānanda Rāya (Antya 5). Bhavānanda Rāya, the father of Rāmānanda Rāya, lived near Ālālanātha; before, he was King Pāṇḍu.
+
+[^61]: *Anubhāṣya*: the Lord counted her among Rādhikā’s associates (Antya 2.104–106); in the world, He said, there are three and a half worthy souls — Svarūpa Gosāñi, Rāmānanda Rāya and Śikhi Māhiti, and his sister is the “half.”
+
+[^62]: *Amṛta-pravāha-bhāṣya*: Govinda and Kāśīśvara were disciples of Īśvara Purī; when he left this world, they came to Mahāprabhu in Nīlācala at his order. *Anubhāṣya*: in the *Gaura-gaṇoddeśa-dīpikā* they are Bhṛṅgāra and Bhaṅgura, servants in Vṛndāvana. For the Lord’s service Govinda did not hesitate to step over His body, though for his own sake he would never have done so (Madhya 10).
+
+[^63]: Heading in the edition: “Honouring the relation to the Guru, and by the rule ‘the Guru’s order is not to be questioned,’ He accepted their service.”
+
+[^64]: *Anubhāṣya*: in the *Gaura-gaṇoddeśa-dīpikā* they are Payoda and Vārida, who looked after the water in Vraja; they served the Lord under Govinda’s guidance.
+
+[^65]: In the edition’s heading he is “Kālā Kṛṣṇadāsa, the brāhmaṇa”; he is described in Madhya 7 and 9.
+
+[^66]: *Anubhāṣya* (after Antya 13): when sending him away, the Lord embraced him and gave him Jagannātha’s long tulasī garland and betel. In Śrī Rūpa’s assembly he recited the *Bhāgavatam* in a voice as sweet as the cuckoo’s, singing each verse in three or four rāgas; through his disciple he had the temple of Govinda built. He neither heard nor spoke of worldly matters and spent all eight praharas of the day in talks of Kṛṣṇa and worship. According to the *Gaura-gaṇoddeśa-dīpikā* (185) he is Rāga-mañjarī, who dwells in a hut by Rādhā-kuṇḍa.
+
+[^67]: Heading in the edition: “Branch by branch and offshoot by offshoot, the countless devotees of Gaura deliver the three worlds.”
