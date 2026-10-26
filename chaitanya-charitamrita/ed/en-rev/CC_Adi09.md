@@ -306,6 +306,268 @@ the poor  gathering  eat  the gardener  smiles
 
 (30) Filling His hands again and again, He scatters the fruit in all directions; the poor gather it up and eat, and the gardener smiles.
 
+মালাকার কহে, — শুন, বৃক্ষ-পরিবার ৷  
+মূলশাখা-উপশাখা যতেক প্রকার ॥ ৩১ ॥
+
+mālākāra kahe, — śuna, vṛkṣa-parivāra  
+the gardener  says  listen  of the tree  family  
+mūlaśākhā-upaśākhā yateka prakāra  
+main branches  sub-branches  as many  kinds
+
+(31) The gardener said: “Listen, O family of the tree, all you main branches and offshoots of every kind!
+
+অলৌকিক বৃক্ষ করে সর্ব্বেন্দ্রিয়-কর্ম্ম ৷  
+স্থাবর হইয়া ধরে জঙ্গমের ধর্ম্ম ॥ ৩২ ॥
+
+alaukika vṛkṣa kare sarvendriya-karma  
+supramundane  tree  performs  of all the senses  the work  
+sthāvara haiyā dhare jaṅgamera dharma  
+immovable  being  holds  of the moving  the nature
+
+(32) This wondrous tree is wholly spiritual and performs the work of all the senses. Though it is a tree and cannot move, it acts as a living, moving being.[^11]
+
+এ বৃক্ষের অঙ্গ হয় সব সচেতন ৷  
+বাড়িয়া ব্যাপিল সবে সকল ভুবন ॥ ৩৩ ॥
+
+e vṛkṣera aṅga haya saba sa-cetana  
+of this  tree  limbs  are  all  conscious  
+bāḍiyā vyāpila sabe sakala bhuvana  
+growing  pervaded  all  all  the worlds
+
+(33) All the limbs of this tree are conscious, and as they grow, they spread through all the worlds.
+
+একলা মালাকার আমি কাহাঁ কাহাঁ যাব ৷  
+একলা বা কত ফল পাড়িয়া বিলাব ॥ ৩৪ ॥
+
+ekalā mālākāra āmi kāhām̐ kāhām̐ yāba  
+alone  gardener  I  where  where  shall go  
+ekalā vā kata phala pāḍiyā vilāba  
+alone  or  how many  fruits  picking  shall distribute
+
+(34) I am a lone gardener. How many places can I go to? How many fruits can I pick and give away by Myself?
+
+একলা উঠাঞা দিতে হয় পরিশ্রম ৷  
+কেহ পায়, কেহ না পায়, রহে মনে ভ্রম ॥ ৩৫ ॥
+
+ekalā uṭhāñā dite haya pariśrama  
+alone  picking up  to give  is  labour  
+keha pāya, keha nā pāya, rahe mane bhrama  
+someone  gets  someone  not  gets  remains  in the mind  doubt
+
+(35) It is hard labour to pick them and give them alone, and I fear that some will receive them and some will not.
+
+অতএব আমি আজ্ঞা দিলুঁ সবাকারে ৷  
+যাঁহা তাঁহা প্রেমফল দেহ’ যারে তারে ॥ ৩৬ ॥
+
+ataeva āmi ājñā dilum̐ sabākāre  
+therefore  I  order  have given  to all  
+yām̐hā tām̐hā prema-phala deha’ yāre tāre  
+anywhere  the fruit of love  give  to anyone
+
+(36) Therefore I give this order to all of you: wherever you are, give the fruit of love to anyone and everyone.[^12]
+
+একলা মালাকার আমি কত ফল খাব ৷  
+না দিয়া বা এই ফল আর কি করিব ॥ ৩৭ ॥
+
+ekalā mālākāra āmi kata phala khāba  
+alone  gardener  I  how many  fruits  shall eat  
+nā diyā vā ei phala āra ki kariba  
+not  giving  or  this  fruit  else  what  shall I do
+
+(37) I am a lone gardener. How many fruits can I eat? And if I do not give this fruit away, what else shall I do with it?
+
+আত্ম-ইচ্ছামৃতে বৃক্ষ সিঞ্চি নিরন্তর ৷  
+তাহাতে অসংখ্য ফল বৃক্ষের উপর ॥ ৩৮ ॥
+
+ātma-icchāmṛte vṛkṣa siñci nirantara  
+of My own desire  with the nectar  the tree  I water  constantly  
+tāhāte asaṅkhya phala vṛkṣera upara  
+by that  countless  fruits  of the tree  upon
+
+(38) I water the tree unceasingly with the nectar of My own desire, and so it bears countless fruits.
+
+অতএব সব ফল দেহ’ যারে তারে ৷  
+খাইয়া হউক্ লোক অজর অমরে ॥ ৩৯ ॥
+
+ataeva saba phala deha’ yāre tāre  
+therefore  all  fruits  give  to anyone  
+khāiyā hauk loka ajara amare  
+eating  may become  people  ageless  immortal
+
+(39) Therefore give all the fruits to anyone and everyone. Let people eat them and be free from old age and death.
+
+জগৎ ব্যাপিয়া মোর হবে পুণ্য খ্যাতি ৷  
+সুখী হইয়া লোক মোর গাহিবেক কীর্ত্তি ॥ ৪০ ॥
+
+jagat vyāpiyā mora habe puṇya khyāti  
+the world  pervading  My  will be  holy  fame  
+sukhī haiyā loka mora gāhibeka kīrti  
+happy  becoming  people  My  will sing  glory
+
+(40) My holy fame will spread through the world, and people, made happy, will sing My praises.
+
+ভারত-ভূমিতে হৈল মনুষ্য-জন্ম যার ৷  
+জন্ম সার্থক করি’ কর পর-উপকার ॥ ৪১ ॥
+
+bhārata-bhūmite haila manuṣya-janma yāra  
+of Bhārata  in the land  has been  human  birth  whose  
+janma sārthaka kari’ kara para-upakāra  
+birth  fruitful  making  do  others’  welfare
+
+(41) Let everyone who has taken human birth in the land of Bhārata make that birth fruitful by working for the good of others.[^13]
+
+এতাবজ্জন্মসাফল্যং দেহিনামিহ দেহিষু ৷  
+প্রাণৈরর্থৈর্ধিয়া বাচা শ্রেয় আচরণং সদা ॥ ৪২ ॥
+
+etāvaj janma-sāphalyaṁ  
+this much  of birth  the success  
+dehinām iha dehiṣu  
+of the embodied  here  towards the embodied  
+prāṇair arthair dhiyā vācā  
+with life  with wealth  with intelligence  with words  
+śreya ācaraṇaṁ sadā  
+the good  doing  always
+
+(42) ‘This alone is the true success of birth for embodied beings in this world: always to do good to others with one’s life, wealth, intelligence and words.’ (Śrīmad-Bhāgavatam, 10.22.35)[^14]
+
+প্রাণিনামুপকারায় যদেবেহ পরত্র চ ৷  
+কর্ম্মণা মনসা বাচা তদেব মতিমান্ ভজেৎ ॥ ৪৩ ॥
+
+prāṇinām upakārāya  
+of living beings  for the benefit  
+yad eveha paratra ca  
+whatever  indeed  here  in the next  and  
+karmaṇā manasā vācā  
+by deeds  by mind  by words  
+tad eva mati-mān bhajet  
+that  alone  the wise  should practise
+
+(43) ‘By deeds, thoughts and words the wise should do only that which brings good to living beings, in this world and the next.’ (Viṣṇu Purāṇa, 3.12.45)[^15]
+
+মালী মনুষ্য আমার নাহি রাজ্য-ধন ৷  
+ফল-ফুল দিয়া করি’ পুণ্য উপার্জ্জন ॥ ৪৪ ॥
+
+mālī manuṣya āmāra nāhi rājya-dhana  
+a gardener  a man  My  not  kingdom  wealth  
+phala-phula diyā kari’ puṇya upārjana  
+fruits  flowers  giving  doing  merit  earning
+
+(44) I am a gardener, a man with no kingdom and no riches. By giving away fruits and flowers I earn merit.
+
+মালী হঞা বৃক্ষ হইলাঙ এই ত’ ইচ্ছাতে ৷  
+সর্ব্বপ্রাণীর উপকার হয় বৃক্ষ হৈতে ॥ ৪৫ ॥
+
+mālī hañā vṛkṣa hailāṅa ei ta’ icchāte  
+a gardener  being  the tree  I became  this  indeed  by the wish  
+sarva-prāṇīra upakāra haya vṛkṣa haite  
+of all living beings  benefit  is  the tree  from
+
+(45) I am the gardener, and yet I have become the tree, for that was My wish: a tree benefits every living being.[^16]
+
+অহো এষাং বরং জন্ম সর্ব্বপ্রাণ্যুপজীবনম্ ৷  
+সুজনস্যেব যেষাং বৈ বিমুখা যান্তি নার্থিনঃ ॥ ৪৬ ॥
+
+aho eṣāṁ varaṁ janma  
+ah  of these  excellent  birth  
+sarva-prāṇy-upajīvanam  
+of all living beings  the sustenance  
+su-janasyeva yeṣāṁ vai  
+of a good man  as  from whom  indeed  
+vimukhā yānti nārthinaḥ  
+disappointed  go away  not  petitioners
+
+(46) ‘Ah, how excellent is the birth of these trees, which sustains all living beings! Like a good man, they never let one who asks of them go away disappointed.’” (Śrīmad-Bhāgavatam, 10.22.33)[^17]
+
+এই আজ্ঞা কৈল যদি চৈতন্য-মালাকার ৷  
+পরম আনন্দ পাইল বৃক্ষ-পরিবার ॥ ৪৭ ॥
+
+ei ājñā kaila yadi caitanya-mālākāra  
+this  order  gave  when  Caitanya  the gardener  
+parama ānanda pāila vṛkṣa-parivāra  
+supreme  joy  attained  of the tree  the family
+
+(47) When the gardener Caitanya gave this order, the whole family of the tree was filled with joy.
+
+যে যাঁহা তাঁহা দান করে প্রেমফল ৷  
+ফলাস্বাদে মত্ত লোক হইল সকল ॥ ৪৮ ॥
+
+ye yām̐hā tām̐hā dāna kare prema-phala  
+whoever  wherever  there  gift  makes  the fruit of love  
+phalāsvāde matta loka haila sakala  
+by tasting the fruit  intoxicated  people  became  all
+
+(48) Each branch, wherever it was, began to give away the fruit of love, and all the people who tasted it became intoxicated.[^18]
+
+মহা-মাদক প্রেমফল পেট ভরি’ খায় ৷  
+মাতিল সকল লোক — হাসে, নাচে, গায় ॥ ৪৯ ॥
+
+mahā-mādaka prema-phala peṭa bhari’ khāya  
+greatly  intoxicating  the fruit of love  belly  filling  they eat  
+mātila sakala loka — hāse, nāce, gāya  
+maddened  all  people  laugh  dance  sing
+
+(49) People ate their fill of this most intoxicating fruit of love, and, maddened by it, they all laughed, danced and sang.
+
+কেহ গড়াগড়ি যায়, কেহ ত’ হুঙ্কার ৷  
+দেখি’ আনন্দিত হঞা হাসে মালাকার ॥ ৫০ ॥
+
+keha gaḍāgaḍi yāya, keha ta’ huṅkāra  
+someone  rolling  goes  someone  indeed  roaring  
+dekhi’ ānandita hañā hāse mālākāra  
+seeing  delighted  becoming  smiles  the gardener
+
+(50) Some rolled on the ground, some roared, and seeing this, the gardener smiled with delight.
+
+এই মালাকার খায় এই প্রেমফল ৷  
+নিরবধি মত্ত রহে, বিবশ-বিহ্বল ॥ ৫১ ॥
+
+ei mālākāra khāya ei prema-phala  
+this  gardener  eats  this  fruit of love  
+niravadhi matta rahe, vivaśa-vihvala  
+ever  intoxicated  remains  helpless  overwhelmed
+
+(51) The gardener Himself eats this fruit of love and remains ever intoxicated, helpless and overwhelmed.[^19]
+
+সর্ব্বলোকে মত্ত কৈলা আপন-সমান ৷  
+প্রেমে মত্ত লোক বিনা নাহি দেখি আন ॥ ৫২ ॥
+
+sarva-loke matta kailā āpana-samāna  
+all people  intoxicated  made  His own  equal  
+preme matta loka vinā nāhi dekhi āna  
+with love  intoxicated  people  except  not  I see  other
+
+(52) He made all people as intoxicated as Himself; I see no one who is not mad with love.
+
+যে যে পূর্ব্বে নিন্দা কৈল, বলি’ মাতোয়াল ৷  
+সেই ফল খায়, নাচে, বলে — ভাল ভাল ॥ ৫৩ ॥
+
+ye ye pūrve nindā kaila, bali’ mātoyāla  
+who  who  before  blame  made  saying  drunkard  
+sei phala khāya, nāce, bale — bhāla bhāla  
+that  fruit  eat  dance  say  good  good
+
+(53) Even those who once reviled Him, calling Him a drunkard, ate that fruit and danced, crying, “Wonderful, wonderful!”[^20]
+
+এই ত’ কহিলুঁ প্রেমফল-বিতরণ ৷  
+এবে শুন, ফলদাতা যে যে শাখাগণ ॥ ৫৪ ॥
+
+ei ta’ kahilum̐ prema-phala-vitaraṇa  
+this  indeed  I have told  of the fruit of love  the distribution  
+ebe śuna, phala-dātā ye ye śākhā-gaṇa  
+now  hear  the givers of fruit  which  which  branches
+
+(54) Thus I have told of the distribution of the fruit of love. Now hear of the branches that give the fruit.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৫৫ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(55) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: “By Gaura’s mercy the impossible becomes possible.” *Anubhāṣya*: *jagad-guru* — the guru of all the worlds, worthy of everyone’s worship.
@@ -327,3 +589,23 @@ the poor  gathering  eat  the gardener  smiles
 [^9]: The Gauḍīya Maṭha edition reads *vṛkṣera upare śākhā haila dui skandha* (“above, the branches of the tree became two trunks”); some other editions read *śākhāra upare haila vṛkṣa dui skandha*. Heading in the edition: “On either side of the main trunk, two trunks — Nitāi and Advaita.”
 
 [^10]: Heading in the edition: “Branches and offshoots — the succession of disciples and their disciples.”
+
+[^11]: Heading in the edition: “Every part of the Caitanya-tree is full of consciousness, and by tasting its conscious fruit the insentient jīva awakens to consciousness.”
+
+[^12]: Heading in the edition (to 34–38): “Seeing that spreading the Name and prema alone is impossible, He orders everyone to give them without discrimination.”
+
+[^13]: Heading in the edition: “Everyone born as a human being in the land of Bhārata is duty-bound to show people eternal mercy — to turn them towards Kṛṣṇa.” *Anubhāṣya*: to be born as a human being in holy Bhāratavarṣa, the best of lands, is to receive a body for the true and eternal good of the world; in this lies the success of such a birth.
+
+[^14]: *Anubhāṣya*: Śrī Kṛṣṇa spoke these words to His cowherd friends when, after stealing the gopīs’ garments, He had gone far with them and, resting beneath the trees, saw the trees’ patience and readiness to serve others. The good (*śreyas*) here is eternal good: to free the jīva from aversion to the Lord and turn him towards Him; this is the highest expression of eternal mercy. Heading in the edition: “The highest mercy and the highest good is to turn the jīva towards devotion to Kṛṣṇa by deeds, thoughts and words.”
+
+[^15]: *Anubhāṣya*: the benefit (*upakāra*) is eternal good; what one should do is awaken in living beings the pious merit (*sukṛti*) that turns them towards devotion to the Lord.
+
+[^16]: Heading in the edition: “Seeing the causeless mercy of the tree, He wished to become the original wish-fulfilling tree Himself.”
+
+[^17]: The Gauḍīya Maṭha edition reads *sarva-prāṇy-upajīvanam* (“a birth that sustains all living beings”); some other editions read *upajīvinām*. *Amṛta-pravāha-bhāṣya*: Kṛṣṇa says this addressing the trees: they are the sustenance of all beings and their birth is fruitful; no petitioner leaves them empty-handed — the trees behave like good people.
+
+[^18]: Heading in the edition: “The fruit of prema is given regardless of qualification (*adhikāra*).”
+
+[^19]: Heading in the edition (to 51–52): “By giving the jīvas love for Kṛṣṇa like His own, He makes them mahā-bhāgavatas.”
+
+[^20]: Heading in the edition: “Even the lowly blasphemers are delivered by receiving the fruit of love for Kṛṣṇa.”
