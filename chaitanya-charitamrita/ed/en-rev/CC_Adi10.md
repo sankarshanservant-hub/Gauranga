@@ -612,6 +612,303 @@ in detail  I shall tell  later  all this  bliss
 
 (60) Śivānanda Sena tasted all these rasas; I shall describe this bliss in detail later.[^23]
 
+শিবানন্দের উপশাখা — তাঁর পরিকর ৷  
+পুত্র-ভৃত্য-আদি করি’ চৈতন্য-কিঙ্কর ॥ ৬১ ॥
+
+śivānandera upaśākhā — tām̐ra parikara  
+Śivānanda’s  offshoots —  his  associates  
+putra-bhṛty-ādi kari’ caitanya-kiṅkara  
+sons  servants and others  taking together  Caitanya’s  servants
+
+(61) The offshoots of Śivānanda are his own people — his sons, his servants and others, all of them servants of Śrī Caitanya.
+
+চৈতন্যদাস, রামদাস, আর কর্ণপূর ৷  
+তিন পুত্র শিবানন্দের প্রভুর ভক্তশূর ॥ ৬২ ॥
+
+caitanya-dāsa, rāmadāsa, āra karṇapūra  
+Caitanya dāsa,  Rāmadāsa,  and  Karṇapūra  
+tina putra śivānandera prabhura bhakta-śūra  
+three  sons  of Śivānanda,  of the Lord  heroic devotees
+
+(62) Caitanya dāsa, Rāmadāsa and Karṇapūra, the three sons of Śivānanda, were heroic devotees of the Lord.[^24]
+
+শ্রীবল্লভ সেন, আর সেন শ্রীকান্ত ৷  
+শিবানন্দ-সম্বন্ধে প্রভুর ভক্ত একান্ত ॥ ৬৩ ॥
+
+śrī-vallabha sena, āra sena śrīkānta  
+Śrī Vallabha  Sena,  and  Sena  Śrīkānta  
+śivānanda-sambandhe prabhura bhakta ekānta  
+through relation with Śivānanda  of the Lord  devotees  exclusive
+
+(63) Śrī Vallabha Sena and Śrīkānta Sena, related to Śivānanda, were wholly devoted to the Lord.[^25]
+
+প্রভুপ্রিয় গোবিন্দানন্দ — মহাভাগবত ৷  
+প্রভুর কীর্ত্তনীয়া আদি — শ্রীগোবিন্দ দত্ত ॥ ৬৪ ॥
+
+prabhu-priya govindānanda — mahābhāgavata  
+dear to the Lord  Govindānanda —  a great devotee  
+prabhura kīrtanīyā ādi — śrī-govinda datta  
+of the Lord  the kīrtana singer  first —  Śrī  Govinda  Datta
+
+(64) Govindānanda, dear to the Lord, was a great devotee, and Śrī Govinda Datta was the leading singer in the Lord’s kīrtana.[^26]
+
+শ্রীবিজয়দাস-নাম প্রভুর আখরিয়া ৷  
+প্রভুরে অনেক গ্রন্থ দিয়াছে লিখিয়া ॥ ৬৫ ॥
+
+śrī-vijaya-dāsa-nāma prabhura ākhariyā  
+Śrī  Vijaya  dāsa  by name  of the Lord  the copyist  
+prabhure aneka grantha diyāche likhiyā  
+to the Lord  many  books  gave  having written out
+
+(65) Śrī Vijaya dāsa was the Lord’s copyist; he wrote out many books for Him.[^27]
+
+‘রত্নবাহু’ বলি’ প্রভু থুইল তাঁর নাম ৷  
+অকিঞ্চন প্রভুর প্রিয় কৃষ্ণদাস-নাম ॥ ৬৬ ॥
+
+‘ratnabāhu’ bali’ prabhu thuila tām̐ra nāma  
+‘Ratnabāhu’  calling  the Lord  kept  his  name  
+akiñcana prabhura priya kṛṣṇadāsa-nāma  
+the renunciant  of the Lord  dear  Kṛṣṇadāsa  by name
+
+(66) The Lord named him Ratnabāhu, “Jewel-armed.” Akiñcana Kṛṣṇadāsa, too, was dear to the Lord.
+
+খোলা-বেচা শ্রীধর প্রভুর প্রিয়দাস ৷  
+যাঁহা-সনে প্রভু করে নিত্য পরিহাস ॥ ৬৭ ॥
+
+kholā-vecā śrīdhara prabhura priya-dāsa  
+the seller of banana-leaf cups  Śrīdhara  of the Lord  a dear servant  
+yām̐hā-sane prabhu kare nitya parihāsa  
+with whom  the Lord  makes  constantly  jokes
+
+(67) Śrīdhara, who sold cups of banana bark, was a dear servant of the Lord, and the Lord was always joking with him.[^28]
+
+প্রভু যাঁর নিত্য লয় থোড়-মোচা-ফল ৷  
+যাঁর ফুটা-লৌহপাত্রে প্রভু পিলা জল ॥ ৬৮ ॥
+
+prabhu yām̐ra nitya laya thoḍa-mocā-phala  
+the Lord  from whom  daily  takes  banana pith  banana flowers  fruit  
+yām̐ra phuṭā-lauhapātre prabhu pilā jala  
+whose  broken  iron pot  from  the Lord  drank  water
+
+(68) Every day the Lord took banana pith, banana flowers and fruit from him, and once He drank water from his broken iron pot.
+
+প্রভুর অতিপ্রিয় দাস ভগবান্ পণ্ডিত ৷  
+যাঁর দেহে কৃষ্ণ পূর্ব্বে হৈল অধিষ্ঠিত ॥ ৬৯ ॥
+
+prabhura atipriya dāsa bhagavān paṇḍita  
+of the Lord  very dear  servant  Bhagavān  Paṇḍita  
+yām̐ra dehe kṛṣṇa pūrve haila adhiṣṭhita  
+in whose  body  Kṛṣṇa  formerly  was  seated
+
+(69) Bhagavān Paṇḍita was a servant very dear to the Lord; once Kṛṣṇa had dwelt within his body.
+
+জগদীশ পণ্ডিত, আর হিরণ্য মহাশয় ৷  
+যারে কৃপা কৈল বাল্যে প্রভু দয়াময় ॥ ৭০ ॥
+
+jagadīśa paṇḍita, āra hiraṇya mahāśaya  
+Jagadīśa  Paṇḍita,  and  Hiraṇya  Mahāśaya  
+yāre kṛpā kaila bālye prabhu dayāmaya  
+to whom  mercy  showed  in childhood  the Lord  merciful
+
+(70) Jagadīśa Paṇḍita and Hiraṇya Mahāśaya were shown mercy by the merciful Lord when He was still a child.
+
+এই দুই-ঘরে প্রভু একাদশী দিনে ৷  
+বিষ্ণুর নৈবেদ্য মাগি’ খাইল আপনে ॥ ৭১ ॥
+
+ei dui-ghare prabhu ekādaśī dine  
+in these  two houses  the Lord  on Ekādaśī  day  
+viṣṇura naivedya māgi’ khāila āpane  
+Viṣṇu’s  offering  begging  ate  Himself
+
+(71) In these two houses, on the day of Ekādaśī, the Lord begged for the food offered to Viṣṇu and ate it Himself.[^29]
+
+প্রভুর পড়ুয়া দুই, — পুরুষোত্তম, সঞ্জয় ৷  
+ব্যাকরণে দুই শিষ্য — দুই মহাশয় ॥ ৭২ ॥
+
+prabhura paḍuyā dui, — puruṣottama, sañjaya  
+of the Lord  pupils  two —  Puruṣottama,  Sañjaya  
+vyākaraṇe dui śiṣya — dui mahāśaya  
+in grammar  two  students —  two  great souls
+
+(72) Two of the Lord’s pupils were Puruṣottama and Sañjaya, students of His in grammar and two great souls.[^30]
+
+বনমালী পণ্ডিত-শাখা বিখ্যাত জগতে ৷  
+সোণার মুষল হল যে দেখিল প্রভুর হাতে ॥ ৭৩ ॥
+
+vanamālī paṇḍita-śākhā vikhyāta jagate  
+Vanamālī  Paṇḍita  a branch  famous  in the world  
+soṇāra muṣala hala ye dekhila prabhura hāte  
+golden  club  plough  who  saw  in the Lord’s  hand
+
+(73) The branch Vanamālī Paṇḍita is famous in the world; he saw a golden club and plough in the Lord’s hands.
+
+শ্রীচৈতন্যের অতি প্রিয় বুদ্ধিমন্ত খান্ ৷  
+আজন্ম আজ্ঞাকারী তেঁহো সেবক-প্রধান ॥ ৭৪ ॥
+
+śrī-caitanyera ati priya buddhimanta khān  
+of Śrī Caitanya  very  dear  Buddhimanta  Khān  
+ājanma ājñākārī tem̐ho sevaka-pradhāna  
+from birth  obedient  he  a servant  chief
+
+(74) Buddhimanta Khān was very dear to Śrī Caitanya; obedient to Him all his life, he was among His chief servants.[^31]
+
+গরুড় পণ্ডিত লয় শ্রীনাম-মঙ্গল ৷  
+নাম-বলে বিষ যাঁরে না করিল বল ॥ ৭৫ ॥
+
+garuḍa paṇḍita laya śrīnāma-maṅgala  
+Garuḍa  Paṇḍita  takes  the auspicious holy name  
+nāma-bale viṣa yām̐re nā karila bala  
+by the power of the name  poison  whom  not  overpowered
+
+(75) Garuḍa Paṇḍita constantly chanted the auspicious holy name, and by the power of the name even a snake’s poison could not harm him.
+
+গোপীনাথ সিংহ — এক চৈতন্যের দাস ৷  
+অক্রূর বলি’ প্রভু যাঁরে কৈলা পরিহাস ॥ ৭৬ ॥
+
+gopīnātha siṁha — eka caitanyera dāsa  
+Gopīnātha  Siṁha —  one  of Caitanya  servant  
+akrūra bali’ prabhu yām̐re kailā parihāsa  
+Akrūra  calling  the Lord  with whom  joked
+
+(76) Gopīnātha Siṁha was a servant of Śrī Caitanya, whom the Lord would jokingly call Akrūra.
+
+ভাগবতী দেবানন্দ বক্রেশ্বর-কৃপাতে ৷  
+ভাগবতের ভক্তি-অর্থ পাইল প্রভু হৈতে ॥ ৭৭ ॥
+
+bhāgavatī devānanda vakreśvara-kṛpāte  
+the Bhāgavata reciter  Devānanda  by Vakreśvara’s mercy  
+bhāgavatera bhakti-artha pāila prabhu haite  
+of the Bhāgavata  the devotional meaning  received  the Lord  from
+
+(77) Devānanda, the reciter of the *Bhāgavata*, is an offshoot of Vakreśvara’s branch: by Vakreśvara’s mercy he received from the Lord the devotional meaning of the *Bhāgavata*.[^32]
+
+খণ্ডবাসী মুকুন্দদাস, শ্রীরঘুনন্দন ৷  
+নরহরিদাস, চিরঞ্জীব, সুলোচন ॥ ৭৮ ॥
+
+এই সব মহাশাখা — চৈতন্য-কৃপাধাম ৷  
+প্রেম-ফল-ফুল করে যাহাঁ তাহাঁ দান ॥ ৭৯ ॥
+
+khaṇḍavāsī mukunda-dāsa, śrī-raghunandana  
+of Khaṇḍa  the residents  Mukunda dāsa,  Śrī  Raghunandana  
+narahari-dāsa, cirañjīva, sulocana  
+Narahari dāsa,  Ciranjīva,  Sulocana  
+ei saba mahāśākhā — caitanya-kṛpādhāma  
+these  all  great branches —  of Caitanya’s  mercy  abodes  
+prema-phala-phula kare yāhām̐ tāhām̐ dāna  
+of love  fruits  flowers  make  everywhere  gift
+
+(78–79) Mukunda dāsa, Śrī Raghunandana, Narahari dāsa, Ciranjīva and Sulocana, all of Śrīkhaṇḍa, are great branches, abodes of Śrī Caitanya’s mercy. Everywhere they give away the fruits and flowers of love.[^33]
+
+কুলীনগ্রামবাসী সত্যরাজ, রামানন্দ ৷  
+যদুনাথ, পুরুষোত্তম, শঙ্কর, বিদ্যানন্দ ॥ ৮০ ॥
+
+kulīnagrāma-vāsī satyarāja, rāmānanda  
+of Kulīna-grāma  the residents  Satyarāja,  Rāmānanda  
+yadunātha, puruṣottama, śaṅkara, vidyānanda  
+Yadunātha,  Puruṣottama,  Śaṅkara,  Vidyānanda
+
+(80) From Kulīna-grāma came Satyarāja, Rāmānanda, Yadunātha, Puruṣottama, Śaṅkara and Vidyānanda.[^34]
+
+বাণীনাথ বসু আদি যত গ্রামী জন ৷  
+সবেই চৈতন্যভৃত্য, — চৈতন্য-প্রাণধন ॥ ৮১ ॥
+
+vāṇīnātha vasu ādi yata grāmī jana  
+Vāṇīnātha  Vasu  and others  all  of the village  people  
+sabei caitanya-bhṛtya, — caitanya-prāṇadhana  
+all  Caitanya’s servants —  Caitanya  the treasure of their life
+
+(81) Vāṇīnātha Vasu and all the other villagers were servants of Śrī Caitanya, and He was the treasure of their lives.
+
+প্রভু কহে, কুলীনগ্রামের যে হয় কুক্কুর ৷  
+সেই মোর প্রিয়, অন্যজন রহু দূর ॥ ৮২ ॥
+
+prabhu kahe, kulīnagrāmera ye haya kukkura  
+the Lord  says,  of Kulīna-grāma  who  is  a dog  
+sei mora priya, anya jana rahu dūra  
+he  to Me  dear,  other  people  let alone
+
+(82) The Lord said, “Even a dog of Kulīna-grāma is dear to Me — what to speak of its people!
+
+কুলীনগ্রামীর ভাগ্য কহনে না যায় ৷  
+শূকর চরায় ডোম, সেহ কৃষ্ণ গায় ॥ ৮৩ ॥
+
+kulīnagrāmīra bhāgya kahane nā yāya  
+of the people of Kulīna-grāma  the fortune  to describe  is not possible  
+śūkara carāya ḍoma, seha kṛṣṇa gāya  
+pigs  herds  the Ḍoma,  he too  of Kṛṣṇa  sings
+
+(83) “The good fortune of the people of Kulīna-grāma is beyond words: even the Ḍoma who herds the pigs there sings of Kṛṣṇa.”
+
+অনুপম-বল্লভ, শ্রীরূপ-সনাতন ৷  
+এই তিন শাখা বৃক্ষের পশ্চিমে গণন ॥ ৮৪ ॥
+
+anupama-vallabha, śrī-rūpa-sanātana  
+Anupama  Vallabha,  Śrī  Rūpa  Sanātana  
+ei tina śākhā vṛkṣera paścime gaṇana  
+these  three  branches  of the tree  on the west  are counted
+
+(84) Anupama Vallabha, Śrī Rūpa and Sanātana are counted as the three branches on the western side of the tree.[^35]
+
+তাঁর মধ্যে রূপ-সনাতন — বড় শাখা ৷  
+অনুপম, জীব, রাজেন্দ্রাদি — উপশাখা ॥ ৮৫ ॥
+
+tām̐ra madhye rūpa-sanātana — baḍa śākhā  
+of them  among  Rūpa  Sanātana —  the great branch  
+anupama, jīva, rājendrādi — upaśākhā  
+Anupama,  Jīva,  Rājendra and others —  offshoots
+
+(85) Among them Rūpa and Sanātana are the great branch, and Anupama, Jīva, Rājendra and others are its offshoots.[^36]
+
+মালীর ইচ্ছায় শাখা বহুত বাড়িল ৷  
+বাড়িয়া পশ্চিম দেশ সব আচ্ছাদিল ॥ ৮৬ ॥
+
+mālīra icchāya śākhā bahuta bāḍila  
+of the gardener  by the wish  the branches  greatly  grew  
+bāḍiyā paścima deśa saba ācchādila  
+growing  the western  lands  all  covered
+
+(86) By the gardener’s wish these branches grew so vast that they covered all the western lands.
+
+আ-সিন্ধুনদী-তীর আর হিমালয় ৷  
+বৃন্দাবন-মথুরাদি যত তীর্থ হয় ॥ ৮৭ ॥
+
+ā-sindhunadī-tīra āra himālaya  
+up to the banks of the river Sindhu  and  the Himālaya  
+vṛndāvana-mathurādi yata tīrtha haya  
+Vṛndāvana  Mathurā and others  as many  holy places  there are
+
+(87) They spread as far as the banks of the Sindhu and the Himālaya, over Vṛndāvana, Mathurā and every holy place.[^37]
+
+দুই শাখার প্রেমফলে সকল ভাসিল ৷  
+প্রেমফলাস্বাদে লোক উন্মত্ত হইল ॥ ৮৮ ॥
+
+dui śākhāra prema-phale sakala bhāsila  
+of the two  branches  with the fruit of love  everything  was flooded  
+prema-phalāsvāde loka unmatta haila  
+the fruit of love  tasting  the people  maddened  became
+
+(88) The fruits of love from these two branches flooded everything, and tasting them the people grew mad with love.
+
+পশ্চিমের লোক সব মূঢ় অনাচার ৷  
+তাহাঁ প্রচারিল দুঁহে ভক্তি-সদাচার ॥ ৮৯ ॥
+
+paścimera loka saba mūḍha anācāra  
+of the west  the people  all  foolish  of bad conduct  
+tāhām̐ pracārila dum̐he bhakti-sadācāra  
+there  preached  the two  devotional  good conduct
+
+(89) The people of the west were all foolish and of degraded conduct; there the two brothers taught the good conduct of bhakti.[^38]
+
+শাস্ত্রদৃষ্ট্যে কৈল লুপ্ততীর্থের উদ্ধার ৷  
+বৃন্দাবনে কৈল শ্রীমূর্ত্তি-পূজার প্রচার ॥ ৯০ ॥
+
+śāstra-dṛṣṭye kaila lupta-tīrthera uddhāra  
+by the scriptures’ sight  made  of the lost holy places  recovery  
+vṛndāvane kaila śrīmūrti-pūjāra pracāra  
+in Vṛndāvana  made  of Deity worship  the spreading
+
+(90) Guided by the scriptures they recovered the lost holy places, and in Vṛndāvana they spread the worship of the Deities.[^39]
+
 ---
 
 [^1]: *Anubhāṣya*: the “dog” is one absorbed in enjoyment and without faith in the Lord’s devotees; to “share in the fragrance” of the feet is to receive devotion to Gaura.
@@ -659,3 +956,35 @@ in detail  I shall tell  later  all this  bliss
 [^22]: *Anubhāṣya*: according to the *Gaura-gaṇoddeśa-dīpikā* (74) it is the other way round: the Lord’s *āvirbhāva* was in Nakula Brahmacārī and His *āveśa* in Pradyumna Miśra. The Lord always manifests Himself (*āvirbhāva*) in four places: in Śacī’s house, in Nityānanda’s dancing, in Śrīvāsa’s kīrtana and in Rāghava’s house (Antya 2.34–35).
 
 [^23]: *Anubhāṣya*: Śivānanda Sena experienced and tasted all three kinds of the Lord’s mercy — *sākṣāt*, *āveśa* and *āvirbhāva* (Antya 2).
+
+[^24]: *Anubhāṣya*: Caitanya dāsa, the eldest, wrote a commentary on the *Kṛṣṇa-karṇāmṛta*. Karṇapūra, also called Paramānanda dāsa or Purī dāsa, a disciple of Śrīnātha Paṇḍita, wrote the *Ānanda-vṛndāvana-campū*, the *Alaṅkāra-kaustubha*, the drama *Śrī Caitanya-candrodaya*, the *Gaura-gaṇoddeśa-dīpikā* and other works.
+
+[^25]: *Anubhāṣya*: Śrīvallabha and Śrīkānta were the sons of Śivānanda’s sister. When on the way to Purī Nityānanda scolded Śivānanda and pushed him with His foot, Śrīkānta took offence, left the party and reached the Lord first; the all-knowing Lord consoled him and told Govinda to give him His remnants while he stayed in Nīlācala (Antya 12). At the Ratha-yātrā both brothers sang in Mukunda’s party (Madhya 13).
+
+[^26]: *Anubhāṣya*: in the kīrtanas of Navadvīpa Govinda Datta was the lead singer (*mūla-gāyaka*); his home was at Sukhacara near Khaḍadaha.
+
+[^27]: *Anubhāṣya*: Vijaya dāsa, a scribe of Navadvīpa, was one of the *nava-nidhi* (nine treasures); in Śuklāmbara’s house the Lord showed him special mercy (*Caitanya-bhāgavata*, Madhya 25).
+
+[^28]: *Anubhāṣya*: Śrīdhara was a poor brāhmaṇa of Navadvīpa who lived by his banana grove; the Lord bargained and quarrelled with him playfully over his goods, showed him mercy during the *sāta-prahariyā* manifestation, drank water from his old leaking iron pot at the time of the Kazi’s subjugation, and on the night before His sannyāsa ate the gourd Śrīdhara had brought. According to Karṇapūra he is Kusumāsava, one of the twelve cowherd boys.
+
+[^29]: *Anubhāṣya*: the story is told in the *Caitanya-bhāgavata*, Ādi 4. According to the *Gaura-gaṇoddeśa-dīpikā*, in Kṛṣṇa’s pastimes they were the wives of the sacrificing brāhmaṇas (*yajña-patnīs*), and now the Lord begged for their food and ate it on Ekādaśī.
+
+[^30]: *Anubhāṣya*: from the *Caitanya-bhāgavata* one might take “Puruṣottama Sañjaya” for one person, the son of Mukunda Sañjaya, in whose house Nimāi taught His pupils; by calling Puruṣottama and Sañjaya two students and two great souls, Kavirāja Gosvāmī corrects that understanding.
+
+[^31]: *Anubhāṣya*: Buddhimanta Khān, a wealthy devotee of Navadvīpa, bore all the expenses of the Lord’s second marriage, to Viṣṇupriyā, the daughter of Sanātana Miśra, and gathered the clothes and ornaments for the drama in Candraśekhara’s house.
+
+[^32]: In the edition the heading is “(5a) the branch of Devānanda Paṇḍita,” that is, an offshoot of Vakreśvara’s branch (5). *Anubhāṣya*: Devānanda, who sought liberation, used to recite the *Bhāgavata*; once his students drove out Śrīvāsa, who was weeping at the reading, and Mahāprabhu sternly rebuked Devānanda for his disrespect to a Vaiṣṇava. Later Vakreśvara Paṇḍita stayed in his house and sang of Kṛṣṇa; by his mercy Devānanda came to understand the Lord’s glory, and the Lord told him to explain the *Bhāgavata* in the light of bhakti (Madhya 1: the mercy at Kuliyā). In Kṛṣṇa’s pastimes he is Bhāguri Muni, the paṇḍita of Nanda’s court.
+
+[^33]: *Anubhāṣya*: Mukunda dāsa was the elder brother of Narahari Sarakāra Ṭhākura, and Raghunandana was Mukunda’s son; Raghunandana’s descendants still live in Śrīkhaṇḍa, four miles west of Kāṭoyā. Narahari’s disciple was Locana dāsa Ṭhākura, the author of the *Caitanya-maṅgala*. The sons of Ciranjīva were Rāmacandra Kavirāja, a disciple of Śrīnivāsa Ācārya, and the poet Govinda dāsa Kavirāja. Mukunda’s wonderful love for Kṛṣṇa is described in Madhya 15.113–131.
+
+[^34]: In the edition they are offshoots of Haridāsa’s branch (20a–20e), like all the people of Kulīna-grāma (10.48). *Anubhāṣya*: all of them belonged to the Vasu family, devotees of Kṛṣṇa skilled in enacting His pastimes and followers of Haridāsa Ṭhākura; in the *Gaura-gaṇoddeśa-dīpikā* Rāmānanda Vasu and Satyarāja are Kalakaṇṭhī and Sukaṇṭhī.
+
+[^35]: *Anubhāṣya*: Anupama was the younger brother of Śrī Sanātana and Śrī Rūpa and the father of Śrī Jīva; his earlier name was Vallabha, and Mahāprabhu gave him the name Anupama. He worshipped Śrī Rāma and saw Mahāprabhu as Śrī Rāmacandra Himself. In Śaka 1436, on the way to Nīlācala, he left his body on the bank of the Gaṅgā.
+
+[^36]: *Anubhāṣya*: Śrī Jīva, the son of Śrī Vallabha, studied all the scriptures in Kāśī under Madhusūdana Vācaspati and then took shelter of Śrī Rūpa and Sanātana in Vṛndāvana; after their departure he was the foremost ācārya of the Gauḍīya Vaiṣṇavas and sent Śrīnivāsa, Narottama and Śyāmānanda to Gauḍa with the books of the Gosvāmīs.
+
+[^37]: Heading in the edition: “The deliverance of all Bhārata.”
+
+[^38]: Headings in the edition to 10.89–90: “(1) establishing the conduct of bhakti,” “(2) recovering the lost holy places and (3) preaching the worship of the Deities.” *Amṛta-pravāha-bhāṣya*: through contact with the Muslims the people of the western regions had lost proper conduct; by the mercy of Rūpa and Sanātana they turned to righteous ways.
+
+[^39]: *Amṛta-pravāha-bhāṣya*: the lost holy places are Rādhā-kuṇḍa and others; the Deities are Śrī Madana-mohana, Śrī Govinda, Śrī Gopīnātha and others — seven in all.
