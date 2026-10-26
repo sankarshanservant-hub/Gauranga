@@ -186,7 +186,30 @@ def table_rows(path, ch):
     return rows
 
 
-def export_people(full, evout):
+GEO_PREC = {'точно', 'примерно', 'условно'}
+
+
+def load_geo(errors):
+    """places-geo.yaml: координаты мест для карты {"#тег": {lat, lon, precision, basis}}."""
+    f = os.path.join(HERE, 'places-geo.yaml')
+    if not os.path.exists(f): return {}
+    data = yaml.safe_load(read('places-geo.yaml')) or {}
+    out = {}
+    for tag, g in data.items():
+        where = f'places-geo.yaml:{tag}'
+        if tag not in PLACES: errors.append(f'{where}: тег не в PLACES.md'); continue
+        if not isinstance(g, dict): errors.append(f'{where}: ожидается {{lat, lon, precision, basis}}'); continue
+        lat, lon = g.get('lat'), g.get('lon')
+        if not (isinstance(lat, (int, float)) and -90 <= lat <= 90 and isinstance(lon, (int, float)) and -180 <= lon <= 180):
+            errors.append(f'{where}: lat/lon — числа в градусах'); continue
+        if g.get('precision') not in GEO_PREC: errors.append(f'{where}: precision — точно/примерно/условно')
+        if not g.get('basis'): errors.append(f'{where}: нет basis')
+        if set(g) - {'lat', 'lon', 'precision', 'basis'}: errors.append(f'{where}: лишние поля {sorted(set(g) - {"lat", "lon", "precision", "basis"})}')
+        out[tag] = {k: g.get(k) for k in ('lat', 'lon', 'precision', 'basis')}
+    return out
+
+
+def export_people(full, evout, geo=None):
     """export/persons.json и places.json для сайта: реестр тегов + карточки паршад (parshadas/) + где встречается."""
     pdir = os.path.join(HERE, '..', 'parshadas')
     def pj(name):
@@ -232,6 +255,8 @@ def export_people(full, evout):
         if back.get(p['id']): p['related_by'] = back[p['id']]
     places = [{'id': t, 'ru': ru, 'en': en, 'note': note, 'section': s, 'lilas': lil.get(t, []), 'events': evs.get(t, [])}
               for t, ru, en, note, s in table_rows('PLACES.md', '#')]
+    for p in places:  # координаты для карты (places-geo.yaml)
+        if (geo or {}).get(p['id']): p['geo'] = geo[p['id']]
     for name, data in (('persons', persons), ('places', places)):
         json.dump(data, open(os.path.join(HERE, 'export', f'{name}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
@@ -240,6 +265,7 @@ def build():
     errors = []
     events = load_events(errors)
     entries = load(errors, events)
+    geo = load_geo(errors)
     for x in errors: print('ОШИБКА', x)
     order = list(PERIODS)
     key = lambda e: (order.index(e['period']) if e.get('period') in order else 99, e.get('order') or 0, e.get('source', ''), e['id'])
@@ -264,7 +290,7 @@ def build():
     meta = {'periods': PERIODS, 'period_years': PERIOD_YEARS, 'sources': SOURCES, 'themes': sorted(THEMES),
             'bhava': sorted(BHAVAS), 'teaching': sorted(TEACHINGS), 'persons': sorted(PERSONS), 'places': sorted(PLACES)}
     json.dump(meta, open(os.path.join(HERE, 'export', 'meta.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    export_people(full, evout)
+    export_people(full, evout, geo)
 
     out = ['# Временная шкала лил Шри Чайтаньи (сводка)', '',
            '*Собрано автоматически из `lilas/*.yaml` и `events.yaml` скриптом `build.py`; не править вручную.*', '',

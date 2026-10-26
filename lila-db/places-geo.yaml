@@ -1,0 +1,94 @@
+# Координаты мест для карты (WGS 84): "#тег": {lat, lon, precision, basis}
+# precision: точно — точка по OSM или общеизвестная; примерно — селение/область в целом или отождествление не
+#   вполне надёжно; условно — место лишь указано относительно соседних (по тексту или по карте Навадвипа-мандалы
+#   1888 г. в «Навадвипа-дхама-махатмье», изд. ШЧСМ 2015, с. 517; карта схематична, ошибка до 2–4 км).
+# basis: на чём основано. «карта НДМ 1888» — положение надписи на карте, пересчитанное по опорным точкам OSM
+#   (Йогапитха, Навадвип, Самудрагарх, Чампахати, Пурбастхали, Белпукур, Дхубулия, Амгхата, Бхалука, самадхи Кази,
+#   слияние Джаланги с Гангой) с поправкой по ближайшим опорам.
+# Духовные и мифические места (Голока, Вайкунтха, небеса …), реки и обширные области — без координат.
+# Проверка: python3 lila-db/build.py (неизвестный тег — ошибка); координаты попадают в export/places.json (geo).
+
+# --- Навадвипа-мандала: Антардвипа, Майяпур ---
+"#navadvipa": {lat: 23.4383, lon: 88.3930, precision: примерно, basis: "центр Навадвипа-дхамы — Йогапитха (НДМ 2.10); OSM: Yogapith, Mayapur"}
+"#mayapur": {lat: 23.4234, lon: 88.3908, precision: примерно, basis: "OSM: Mayapur (town), Nabadwip, Nadia"}
+"#antardvipa": {lat: 23.4383, lon: 88.3930, precision: примерно, basis: "центр острова — Йогапитха (НДМ 5.5); OSM: Yogapith"}
+"#house-jagannatha-mishra": {lat: 23.4383, lon: 88.3930, precision: точно, basis: "OSM: Yogapith (Main Temple), Mayapur"}
+"#house-srivasa": {lat: 23.4398, lon: 88.3943, precision: точно, basis: "OSM: Srivas Angan (Шривас-ангам), Mayapur"}
+"#advaita-bhavana": {lat: 23.4404, lon: 88.3946, precision: точно, basis: "OSM: Advaita Bhavan, Mayapur"}
+"#house-gadadhara": {lat: 23.4404, lon: 88.3948, precision: условно, basis: "НДМ 5.65: 16 м к востоку от дома Адвайты (OSM: Advaita Bhavan)"}
+"#vriddha-shiva": {lat: 23.4383, lon: 88.3930, precision: условно, basis: "НДМ 5.119: в 16 м от дома Джаганнатхи Мишры (OSM: Yogapith)"}
+"#gauranga-ghata": {lat: 23.4384, lon: 88.3930, precision: условно, basis: "НДМ 5.97: 10 м к северу от гхата Вриддха Шивы (от Йогапитхи, OSM)"}
+"#madhai-ghata": {lat: 23.4398, lon: 88.3930, precision: условно, basis: "НДМ 5.102: 160 м к северу от Гауранга-гхаты (от Йогапитхи, OSM)"}
+"#barakona-ghata": {lat: 23.4400, lon: 88.3930, precision: условно, basis: "НДМ 5.103: 16 м к северу от гхата Мадхая (от Йогапитхи, OSM)"}
+"#shiva-doba": {lat: 23.4383, lon: 88.3930, precision: условно, basis: "НДМ 5.120: пруд у бывшего берега Ганги в Майяпуре; точка Йогапитхи (OSM)"}
+"#ishodyana": {lat: 23.4424, lon: 88.3998, precision: примерно, basis: "OSM: Chaitanya Math, Mayapur (Шри Чайтанья Матх в Ишодьяне)"}
+"#house-pundarika": {lat: 23.4234, lon: 88.3908, precision: условно, basis: "в Майяпуре у Ганги (ЧБ Мадхья 7.30); точное место не установлено — точка Майяпура (OSM)"}
+"#house-nandana-acharya": {lat: 23.4234, lon: 88.3908, precision: условно, basis: "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"}
+"#house-chandrashekhara": {lat: 23.4234, lon: 88.3908, precision: условно, basis: "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"}
+"#house-murari": {lat: 23.4234, lon: 88.3908, precision: условно, basis: "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"}
+"#house-sanatana-mishra": {lat: 23.4234, lon: 88.3908, precision: условно, basis: "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"}
+"#ganga-nagara": {lat: 23.4388, lon: 88.4004, precision: условно, basis: "карта НДМ 1888: Gaṅgā Nagar"}
+"#house-gangadasa": {lat: 23.4388, lon: 88.4004, precision: условно, basis: "в Ганга Нагаре (НДМ 6.22); карта НДМ 1888: Gaṅgā Nagar"}
+"#house-sanjaya": {lat: 23.4388, lon: 88.4004, precision: условно, basis: "в Ганга Нагаре (НДМ 6.22); карта НДМ 1888: Gaṅgā Nagar"}
+"#bharadvaja-tila": {lat: 23.4426, lon: 88.3941, precision: условно, basis: "карта НДМ 1888: Bhāruiḍāṅgā"}
+"#prithu-kunda": {lat: 23.4499, lon: 88.4153, precision: условно, basis: "карта НДМ 1888: Ballāl Dighi"}
+"#ballala-dhipi": {lat: 23.4499, lon: 88.4153, precision: условно, basis: "у Притху-кунды (НДМ 6.34); карта НДМ 1888: Ballāl Dighi"}
+"#paradanga": {lat: 23.4295, lon: 88.3607, precision: условно, basis: "западный берег Ганги напротив Майяпура (НДМ 5.82–84); по карте НДМ 1888"}
+"#chhinnadanga": {lat: 23.4295, lon: 88.3607, precision: условно, basis: "к северу от Параданги на западном берегу (НДМ 5.84); по карте НДМ 1888"}
+"#shri-pulina": {lat: 23.4295, lon: 88.3607, precision: условно, basis: "западный берег Ганги против Майяпура, к северу от Параданги (НДМ 5.86–90, 15.126); по карте НДМ 1888"}
+
+# --- Симантадвипа ---
+"#simantadvipa": {lat: 23.4621, lon: 88.4013, precision: условно, basis: "карта НДМ 1888: Simūliyāchara"}
+"#simulia": {lat: 23.4621, lon: 88.4013, precision: условно, basis: "карта НДМ 1888: Simūliyāchara"}
+"#kazi-nagara": {lat: 23.4464, lon: 88.4052, precision: точно, basis: "OSM: Kazi's Samadhi, Mayapur"}
+"#shankhavanik-nagara": {lat: 23.4455, lon: 88.4096, precision: условно, basis: "НДМ 6.92: на пути от Кази Нагары к хижине Шридхары (между OSM: Kazi's Samadhi и Sridhara-angam)"}
+"#saradanga": {lat: 23.4455, lon: 88.4096, precision: условно, basis: "НДМ 6.92–97: на пути от Кази Нагары к хижине Шридхары (между OSM: Kazi's Samadhi и Sridhara-angam)"}
+"#tantuvaya-grama": {lat: 23.4455, lon: 88.4096, precision: условно, basis: "НДМ 6.97: на пути к хижине Шридхары (между OSM: Kazi's Samadhi и Sridhara-angam)"}
+"#vishrama-sthana": {lat: 23.4446, lon: 88.4139, precision: примерно, basis: "OSM: Sridhara-angam (Шридхара-ангана), Mayapur"}
+"#mayamari": {lat: 23.4399, lon: 88.4228, precision: примерно, basis: "OSM: Mayamari, Gaurnagar, Nabadwip"}
+"#rama-tirtha": {lat: 23.5070, lon: 88.4090, precision: условно, basis: "карта НДМ 1888: Rukuṇapur"}
+"#belpukhuria": {lat: 23.4786, lon: 88.4098, precision: точно, basis: "OSM: Belpukur, Krishnagar-II, Nadia (= Билвапакша, НДМ 16.5)"}
+
+# --- Годрумадвипа ---
+"#godrumadvipa": {lat: 23.4086, lon: 88.4019, precision: условно, basis: "карта НДМ 1888: Gādigāchhā"}
+"#gadigachha": {lat: 23.4086, lon: 88.4019, precision: условно, basis: "карта НДМ 1888: Gādigāchhā"}
+"#suvarna-vihara": {lat: 23.4291, lon: 88.4130, precision: условно, basis: "карта НДМ 1888: Suvarṇa Bihār"}
+"#deva-palli": {lat: 23.4004, lon: 88.4151, precision: условно, basis: "карта НДМ 1888: Depāḍā (к юго-востоку от Суварна Бихара, НБТ 35)"}
+"#harihara-kshetra": {lat: 23.4055, lon: 88.4195, precision: примерно, basis: "OSM: Harihara Khsetra, Krishnanagar-I, Nadia"}
+
+# --- Мадхьядвипа ---
+"#madhyadvipa": {lat: 23.4021, lon: 88.3897, precision: условно, basis: "карта НДМ 1888: Mājidā"}
+"#majida": {lat: 23.4021, lon: 88.3897, precision: условно, basis: "карта НДМ 1888: Mājidā"}
+"#saptarishi-tila": {lat: 23.4021, lon: 88.3897, precision: условно, basis: "у Маджиды (НДМ 9.18); карта НДМ 1888: Mājidā"}
+"#uchcha-hatta": {lat: 23.3544, lon: 88.3602, precision: условно, basis: "карта НДМ 1888: Hāṭadeṅgā"}
+"#panchaveni": {lat: 23.3544, lon: 88.3602, precision: условно, basis: "близ Учча-хатты (НБТ 62); карта НДМ 1888: Hāṭadeṅgā"}
+"#bhaluka": {lat: 23.3547, lon: 88.3983, precision: примерно, basis: "OSM: Bhaluka bil, Krishnagar-I, Nadia"}
+"#parnashila": {lat: 23.3723, lon: 88.3983, precision: условно, basis: "карта НДМ 1888: Parṇaśilā"}
+
+# --- Коладвипа, Ритудвипа, Джахнудвипа ---
+"#koladvipa": {lat: 23.4087, lon: 88.3658, precision: примерно, basis: "OSM: Nabadwip (город — Кулия-пахада, Коладвипа)"}
+"#kulia": {lat: 23.4087, lon: 88.3658, precision: примерно, basis: "OSM: Nabadwip (город; Кулия-пахада — Коладвипа, НДМ 11.10)"}
+"#samudragarh": {lat: 23.3494, lon: 88.3256, precision: точно, basis: "OSM: Samudragarh, Purbasthali-I, Purba Bardhaman"}
+"#champahatti": {lat: 23.3826, lon: 88.3341, precision: точно, basis: "OSM: Champahati, Purbasthali-I, Purba Bardhaman"}
+"#house-vaninatha": {lat: 23.3826, lon: 88.3341, precision: условно, basis: "в Чампахати (НДМ 11.84); OSM: Champahati"}
+"#ritudvipa": {lat: 23.3775, lon: 88.3319, precision: условно, basis: "карта НДМ 1888: Rahutapur"}
+"#ratupur": {lat: 23.3775, lon: 88.3319, precision: условно, basis: "карта НДМ 1888: Rahutapur"}
+"#radha-kunda-navadvipa": {lat: 23.3775, lon: 88.3319, precision: условно, basis: "в Ритудвипе у Ратупура (НДМ 12.4–12); карта НДМ 1888: Rahutapur"}
+"#vidyanagara-bengal": {lat: 23.4045, lon: 88.3448, precision: условно, basis: "карта НДМ 1888: Vidyā Nagar"}
+"#jahnudvipa": {lat: 23.4109, lon: 88.3421, precision: условно, basis: "карта НДМ 1888: Jān Nagar"}
+"#jannagar": {lat: 23.4109, lon: 88.3421, precision: условно, basis: "карта НДМ 1888: Jān Nagar"}
+"#bhishma-tila": {lat: 23.4109, lon: 88.3421, precision: условно, basis: "в Джахнудвипе (НБТ 96); карта НДМ 1888: Jān Nagar"}
+
+# --- Модадрумадвипа, Рудрадвипа ---
+"#modadrumadvipa": {lat: 23.4157, lon: 88.3228, precision: условно, basis: "карта НДМ 1888: Māmagāchhi"}
+"#rama-vata": {lat: 23.4157, lon: 88.3228, precision: условно, basis: "в Мамгачхи (НДМ 14.2–32); карта НДМ 1888: Māmagāchhi"}
+"#house-narayani": {lat: 23.4157, lon: 88.3228, precision: условно, basis: "в Мамгачхи (НДМ 14.48); карта НДМ 1888: Māmagāchhi"}
+"#mahatpur": {lat: 23.4240, lon: 88.3494, precision: условно, basis: "карта НДМ 1888: Mahatpur"}
+"#arka-tila": {lat: 23.4316, lon: 88.3423, precision: условно, basis: "карта НДМ 1888: Arkaḍālā"}
+"#rudradvipa": {lat: 23.4389, lon: 88.3336, precision: условно, basis: "карта НДМ 1888: Rudrapāḍā"}
+"#rudrapara": {lat: 23.4389, lon: 88.3336, precision: условно, basis: "карта НДМ 1888: Rudrapāḍā"}
+"#purvasthali": {lat: 23.4526, lon: 88.3249, precision: точно, basis: "OSM: Purbasthali, Purba Bardhaman"}
+"#chupi": {lat: 23.4591, lon: 88.3247, precision: условно, basis: "карта НДМ 1888: Chupī"}
+"#koksali": {lat: 23.4698, lon: 88.3425, precision: условно, basis: "карта НДМ 1888: Kokaśiyālī"}
+"#medhra-sthala": {lat: 23.4979, lon: 88.3647, precision: условно, basis: "карта НДМ 1888: Meḍatalā"}
+"#no-such-tag": {lat: 1, lon: 2, precision: точно, basis: "x"}
