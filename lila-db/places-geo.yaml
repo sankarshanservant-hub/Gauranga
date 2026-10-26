@@ -91,4 +91,3 @@
 "#chupi": {lat: 23.4591, lon: 88.3247, precision: условно, basis: "карта НДМ 1888: Chupī"}
 "#koksali": {lat: 23.4698, lon: 88.3425, precision: условно, basis: "карта НДМ 1888: Kokaśiyālī"}
 "#medhra-sthala": {lat: 23.4979, lon: 88.3647, precision: условно, basis: "карта НДМ 1888: Meḍatalā"}
-"#no-such-tag": {lat: 1, lon: 2, precision: точно, basis: "x"}
