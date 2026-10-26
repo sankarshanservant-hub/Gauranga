@@ -80,7 +80,7 @@ that  water  through the trunk  makes  into the branches  passage
 phale-phule bāḍe, — śākhā haila vistāra  
 with fruit and flower  they grow  —  the branches  became  wide-spreading
 
-(7) Through the trunk that water rises into the branches, and, laden with fruit and flowers, they spread far and wide.
+(7) Through the trunk that water rises into the branches, and they spread far and wide, laden with flowers and fruit.
 
 প্রথমে ত’ একমত আচার্য্যের গণ ৷  
 পাছে দুইমত হৈল দৈবের কারণ ॥ ৮ ॥
@@ -100,7 +100,7 @@ some  indeed  by the Ācārya’s  order,  some  indeed  independent
 sva-mata kalpanā kare daiva-paratantra  
 their own views  invent  to fate  subject
 
-(9) Some kept to the Ācārya’s order, while others went their own way: in the grip of fate, they invented views of their own.[^3]
+(9) Some kept to the Ācārya’s order; others, in the grip of fate, grew self-willed and invented doctrines of their own.[^3]
 
 আচার্য্যের মত যেই, সেই মত সার ৷  
 তাঁর আজ্ঞা লঙ্ঘি’ চলে, সেই ত’ অসার ॥ ১০ ॥
@@ -120,7 +120,7 @@ of the empty  in naming  here  there is no  need
 bheda jānibāre kari ekatra gaṇana  
 the difference  to know  I make  together  the count
 
-(11) There is no need here to name the empty ones; I count them all together so that the difference may be known.
+(11) There is no need here to name the empty ones; I list them together only to make the difference plain.
 
 ধান্যরাশি মাপে যৈছে পাতনা সহিতে ৷  
 পশ্চাতে পাতনা উড়াঞা সংস্কার করিতে ॥ ১২ ॥
@@ -190,7 +190,7 @@ Kṛṣṇa  Miśra  by name  another  the Ācārya’s son
 caitanya-gosāñi baise yām̐hāra hṛdaya  
 Caitanya Gosāñi  dwells  in whose  heart
 
-(18) Another of the Ācārya’s sons was named Kṛṣṇa Miśra; in his heart Caitanya Gosāñi dwelt.[^8]
+(18) Another of the Ācārya’s sons was named Kṛṣṇa Miśra, and Caitanya Gosāñi dwelt in his heart.[^8]
 
 শ্রীগোপাল-নামে আর আচার্য্যের সুত ৷  
 তাঁহার চরিত্র, শুন, অত্যন্ত অদ্ভুত ॥ ১৯ ॥
@@ -320,7 +320,7 @@ in that  letter  written  is  —  this  indeed  the writing
 īśvaratve ācāryere ka’reche sthāpana  
 as God  the Ācārya  he has  established
 
-(31) This is what the letter said: he had proclaimed the Ācārya to be God Himself.
+(31) In that letter he had proclaimed the Ācārya to be God Himself.
 
 কিন্তু তাঁর দৈবে কিছু হইয়াছে ঋণ ৷  
 ঋণ শোধিবারে চাহি মুদ্রা শত-তিন ॥ ৩২ ॥
@@ -330,7 +330,7 @@ but  His  by fate  some  has come about  debt
 ṛṇa śodhibāre cāhi mudrā śata-tina  
 the debt  to pay off  I ask  coins  three hundred
 
-(32) “But by fate He has fallen into some debt, and to pay it off I ask for three hundred coins.”
+(32) “But by fate,” it went on, “He has fallen into some debt, and to pay it off I ask for three hundred coins.”
 
 পত্র পড়িয়া প্রভুর মনে হৈল দুঃখ ৷  
 বাহিরে হাসিয়া কিছু বলে চাঁদমুখ ॥ ৩৩ ॥
@@ -380,7 +380,7 @@ of the punishment  hearing  ‘Viśvāsa’  became  most  unhappy
 śuniyā prabhura daṇḍa ācārya harṣita  
 hearing  of the Lord’s  punishment  the Ācārya  delighted
 
-(37) Hearing of his punishment, Viśvāsa was deeply distressed; but when the Ācārya heard of the Lord’s punishment, He was delighted.
+(37) Viśvāsa was deeply distressed to hear of his punishment, but when the Ācārya heard of it, He was delighted.
 
 বিশ্বাসেরে কহে, — তুমি বড় ভাগ্যবান্ ৷  
 তোমারে করিল দণ্ড প্রভু ভগবান্ ॥ ৩৮ ॥

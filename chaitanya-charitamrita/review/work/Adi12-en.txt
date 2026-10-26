@@ -43,7 +43,7 @@ tr: So many fruits of love for Kṛṣṇa ripened on that trunk that they fille
 ## 7
 w: that  water  through the trunk  makes  into the branches  passage
 w: with fruit and flower  they grow  —  the branches  became  wide-spreading
-tr: Through the trunk that water rises into the branches, and, laden with fruit and flowers, they spread far and wide.
+tr: Through the trunk that water rises into the branches, and they spread far and wide, laden with flowers and fruit.
 
 ## 8
 w: at first  indeed  of one mind  the Ācārya’s  followers
@@ -53,7 +53,7 @@ tr: At first the Ācārya’s followers were all of one mind; but later, as fate
 ## 9
 w: some  indeed  by the Ācārya’s  order,  some  indeed  independent
 w: their own views  invent  to fate  subject
-tr: Some kept to the Ācārya’s order, while others went their own way: in the grip of fate, they invented views of their own.
+tr: Some kept to the Ācārya’s order; others, in the grip of fate, grew self-willed and invented doctrines of their own.
 fn: Heading in the edition: “Those who take the essence serve Gaura in loyalty to Advaita; the empty, going their own way, oppose Gaura.”
 
 ## 10
@@ -65,7 +65,7 @@ fn: Heading in the edition: “Loyalty to the Ācārya is the essence; anything 
 ## 11
 w: of the empty  in naming  here  there is no  need
 w: the difference  to know  I make  together  the count
-tr: There is no need here to name the empty ones; I count them all together so that the difference may be known.
+tr: There is no need here to name the empty ones; I list them together only to make the difference plain.
 
 ## 12
 w: a heap of paddy  one measures  just as  chaff  together with
@@ -103,7 +103,7 @@ fn: *Anubhāṣya*: in the year Mahāprabhu set His heart on going from Nīlāca
 ## 18
 w: Kṛṣṇa  Miśra  by name  another  the Ācārya’s son
 w: Caitanya Gosāñi  dwells  in whose  heart
-tr: Another of the Ācārya’s sons was named Kṛṣṇa Miśra; in his heart Caitanya Gosāñi dwelt.
+tr: Another of the Ācārya’s sons was named Kṛṣṇa Miśra, and Caitanya Gosāñi dwelt in his heart.
 fn: *Anubhāṣya* (after the *Advaita-carita*): of Advaita’s six sons, three — Acyuta, Kṛṣṇa Miśra and Gopāla — served Śrī Gaurāṅga; they are called the three jewels born from the ocean of Sītā’s womb.
 
 ## 19
@@ -173,12 +173,12 @@ tr: The Ācārya knew nothing about the letter, and somehow it found its way to 
 ## 31
 w: in that  letter  written  is  —  this  indeed  the writing
 w: as God  the Ācārya  he has  established
-tr: This is what the letter said: he had proclaimed the Ācārya to be God Himself.
+tr: In that letter he had proclaimed the Ācārya to be God Himself.
 
 ## 32
 w: but  His  by fate  some  has come about  debt
 w: the debt  to pay off  I ask  coins  three hundred
-tr: “But by fate He has fallen into some debt, and to pay it off I ask for three hundred coins.”
+tr: “But by fate,” it went on, “He has fallen into some debt, and to pay it off I ask for three hundred coins.”
 
 ## 33
 w: the letter  reading  the Lord’s  in mind  arose  sorrow
@@ -205,7 +205,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Kamalākānta Viśvāsa was called “the madc
 ## 37
 w: of the punishment  hearing  ‘Viśvāsa’  became  most  unhappy
 w: hearing  of the Lord’s  punishment  the Ācārya  delighted
-tr: Hearing of his punishment, Viśvāsa was deeply distressed; but when the Ācārya heard of the Lord’s punishment, He was delighted.
+tr: Viśvāsa was deeply distressed to hear of his punishment, but when the Ācārya heard of it, He was delighted.
 
 ## 38
 w: to Viśvāsa  He says  —  you  very  fortunate
