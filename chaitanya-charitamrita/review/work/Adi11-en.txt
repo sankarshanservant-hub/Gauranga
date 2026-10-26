@@ -1,0 +1,179 @@
+# English translation, Ādi-līlā 11 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Description of the Branches of the Nityānanda Trunk
+
+## 1
+w: of Nityānanda  of the feet  lotus-
+w: the bees  by the honey of love  maddened
+w: having bowed to  all  among them  the chief
+w: are written of  a few  by me
+tr: Bowing to all the bees at the lotus feet of Nityānanda, maddened by the honey of love, I shall write of a few, the foremost among them.
+
+## 2
+w: glory  glory  Mahāprabhu  Śrī  Kṛṣṇa  Caitanya
+w: His  sheltered at the feet  whoever,  he  is blessed
+tr: Glory, glory to Mahāprabhu Śrī Kṛṣṇa Caitanya! Whoever has taken shelter at His feet is truly blessed.
+
+## 3
+w: glory  glory  to Śrī Advaita,  glory  to Nityānanda
+w: glory  glory  of Mahāprabhu  to all the devotees
+tr: Glory, glory to Śrī Advaita! Glory to Nityānanda! Glory, glory to all the devotees of Mahāprabhu!
+
+## 4
+w: of that  Śrī  Kṛṣṇa  Caitanya-
+w: eternal love  undying  tree
+w: the high  trunk  the Avadhūta  moon
+w: as branches  the devotees  we bow to
+tr: Śrī Kṛṣṇa Caitanya is the undying tree of eternal love, and its tall trunk is the Avadhūta, Śrī Nityānanda, beautiful as the moon. I bow to His devotees, the branches of that trunk.
+fn: Heading in the edition: “The description of the branches of the Nityānanda trunk.” *Anubhāṣya*: the eternal, imperishable tree of love is Śrī Kṛṣṇa Caitanya Himself, who bears the name Gaura; the tall trunk of that tree is Nityānanda Prabhu, the moon; His associates are the branches of that trunk.
+
+## 5
+w: Śrī  Nityānanda  of the tree  trunk  mighty
+w: on it  grew  branches  offshoots  in abundance
+tr: Śrī Nityānanda is the mighty trunk of the tree, and on it grew branches and offshoots in great number.
+fn: Heading in the edition: “By Mahāprabhu’s will the branches of Nityānanda grow and become pre-eminent.”
+
+## 6
+w: the gardener’s  by the water of will  grow  the branches
+w: with flowers and fruits of love  filled  covered  the world
+tr: The gardener waters them with His will, and the branches grow. Laden with the flowers and fruits of love, they have covered the world.
+fn: *Amṛta-pravāha-bhāṣya*: the gardener is Śrī Mahāprabhu.
+
+## 7
+w: countless  endless  devotees  who  can  count
+w: myself  to purify  I tell  the chief  chief  persons
+tr: These devotees are countless, without end — who could ever count them? For my own purification I shall name the foremost among them.
+
+## 8
+w: Śrī  Vīrabhadra  Gosāñi  of the trunk  the great branch
+w: His  offshoots  as many,  countless  their  record
+tr: Śrī Vīrabhadra Gosāñi is the great branch of the trunk, and the offshoots that spring from Him are beyond counting.
+fn: Heading in the edition: “The branch of Śrī Vīracandra Gosāñi.” *Anubhāṣya*: Vīrabhadra was the son of Śrī Nityānanda and Vasudhā and the disciple of Jāhnavā Mātā. According to the *Gaura-gaṇoddeśa-dīpikā* (67), the vyūha of Saṅkarṣaṇa who lies on the ocean of milk appeared as Vīracandra, non-different from Śrī Caitanya.
+
+## 9
+w: the Lord  being  has Himself called  a great devotee
+w: beyond Vedic dharma  being  in Vedic dharma  engaged
+tr: Though He is the Lord, He calls Himself a great devotee; though He is beyond the dharma of the Vedas, He keeps faithfully to it.
+fn: Heading in the edition: “His glory: though Viṣṇu Himself, He acts as a Vaiṣṇava.” *Amṛta-pravāha-bhāṣya*: Vīracandra Prabhu is the vyūha of Śrī Saṅkarṣaṇa who lies on the ocean of milk; though He is the Lord Himself, He regarded Himself as a Vaiṣṇava.
+
+## 10
+w: within  the Lord’s  conduct,  outwardly  without pride
+w: of devotion to Caitanya  in the hall  He  the main pillar
+tr: Within, He acts as the Lord; outwardly, He shows no pride. He is the main pillar in the hall of devotion to Śrī Caitanya.
+
+## 11
+w: even today  whose  of mercy  by the glory
+w: Caitanya-Nityānanda  sings  the whole  world
+tr: Even today, through the glory of His mercy, the whole world sings of Caitanya and Nityānanda.
+
+## 12
+w: that  Vīrabhadra  Gosāñi’s  feet  —  my shelter
+w: whose  by the grace  comes  desires’  fulfilment
+tr: The feet of that Vīrabhadra Gosāñi are my shelter, for by His grace every desire is fulfilled.
+
+## 13
+w: Śrī  Rāmadāsa  and  Gadādhara  dāsa
+w: of Caitanya Gosāñi  devotees  stayed  his  at the side
+tr: Śrī Rāmadāsa and Gadādhara dāsa, devotees of Caitanya Gosāñi, stayed at Nityānanda’s side.
+fn: “His side” is Nityānanda’s: by verse 14, Mahāprabhu sent these two to Gauḍa with Him; so too the edition’s heading to verse 14: “Together with Nitāi both preach in Gauḍa.” Heading in the edition: “Ṭhākura Abhirāma (the first of the twelve gopālas) and Dāsa Gadādhara.” *Amṛta-pravāha-bhāṣya*: Rāmadāsa is Abhirāma dāsa. *Anubhāṣya*: Abhirāma, whose very life was Nityānanda, is Śrīdāma of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 126); at Nityānanda’s command he became an ācārya and preacher of bhakti, and love for Kṛṣṇa awoke in anyone he struck with his whip “Jayamaṅgala”. On Gadādhara dāsa see Ādi 10.53.
+
+## 14
+w: to Nityānanda  the order  gave  when  to Gauḍa  to go
+w: Mahāprabhu  these  two  gave  Him  with
+tr: When Mahāprabhu told Nityānanda to go to Gauḍa, He sent these two with Him.
+
+## 15
+w: therefore  in both groups  of both  the counting
+w: of Mādhava  Vāsudeva  Ghoṣa  the same  account
+tr: Therefore they are counted in both groups, and so it is with Mādhava and Vāsudeva Ghoṣa.
+fn: Heading in the edition: “Mādhava and Vāsu Ghoṣa Ṭhākura.” *Amṛta-pravāha-bhāṣya* (on 14–15): when Mahāprabhu sent Nityānanda to Gauḍa, He gave Him Rāmadāsa and Gadādhara dāsa as companions; that is why they are named both among Mahāprabhu’s devotees and among Nityānanda’s. The same is true of Mādhava and Vāsu Ghoṣa.
+
+## 16
+w: Rāmadāsa  —  a chief branch,  of friendly love  a treasure
+w: of sixteen bearers  the log  which  lifting  made  a flute
+tr: Rāmadāsa is a chief branch, a treasure of the love of friendship. He lifted a log that it takes sixteen men to carry and made a flute of it.
+fn: The *Gaura-gaṇoddeśa-dīpikā* (126), quoted in the *Anubhāṣya* on 11.13, speaks of a log that only thirty-two men could carry. Heading in the edition: “The pastime of Abhirāma.”
+
+## 17
+w: Gadādhara  dāsa  in the mood of a gopī  full of bliss
+w: whose  in the house  the toll pastime  performed  Nityānanda
+tr: Gadādhara dāsa was full of bliss in the mood of a gopī, and in his house Nityānanda performed the *dāna-keli*.
+fn: *Dāna-keli*, “the toll pastime”: Kṛṣṇa and His friends block the gopīs’ way and demand a “toll” from them. Heading in the edition: “The wondrous deeds of Dāsa Gadādhara.”
+
+## 18
+w: Śrī  Mādhava  Ghoṣa  —  foremost  among kīrtana singers
+w: Nityānanda Prabhu  dance  does  whose  to the singing
+tr: Śrī Mādhava Ghoṣa was foremost among the kīrtana singers, and Nityānanda Prabhu would dance to his singing.
+
+## 19
+w: Vāsudeva  in songs  makes  of the Lord  description
+w: wood  stone  melt  whose  on hearing
+tr: Vāsudeva sang of the Lord in his songs, and on hearing them even wood and stone would melt.
+fn: *Anubhāṣya* (on 15): into the collections of Vāsu Ghoṣa’s songs the *prākṛta-sahajiyās* have inserted many songs of “Gaura the lover of the women of Nadia” (*gaura-nāgarī*), pleasing to their senses. Vāsu Ghoṣa, who tasted the rasa of separation, never wrote such songs and never could have; the sādhaka should reject them.
+
+## 20
+w: of Murāri-caitanya dāsa  wondrous  pastimes
+w: the tiger  on the cheek  slap  strikes,  with snakes  play
+tr: Wondrous were the pastimes of Murāri-caitanya dāsa: he would slap a tiger on the cheek and play with snakes.
+fn: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 5): oblivious of his body, Caitanya dāsa would chase tigers through the forest and ride on them, take a huge python into his lap, and stay under water for two or three days. *Amṛta-pravāha-bhāṣya*: he was born at Sar-Vṛndāvanapura (Bardhamān district), and on coming to Modadruma (Māmgāchi) in Navadvīpa he received the name Śārṅga Murāri-caitanya dāsa.
+
+## 21
+w: of Nityānanda  the associates  as many  —  all  friends of Vraja
+w: horn  staff  cowherd dress,  on the head  peacock feather
+tr: All of Nityānanda’s associates are cowherd friends from Vraja. Each carries a horn and a staff, they wear the dress of cowherds, and peacock feathers adorn their heads.
+fn: Heading in the edition: “Nitāi’s associates are pure devotees, the friends of Vraja.” *Anubhāṣya*: all who took shelter of Nityānanda Prabhu belong to the sakhya-rasa of Vraja and wear the dress of cowherd boys. His consort, Īśvarī Jāhnavā Mātā, is Anaṅga-mañjarī, the younger sister of Śrīmatī Rādhikā (*Gaura-gaṇoddeśa-dīpikā*, 66), and the devotees who took shelter of her are also counted among Nityānanda’s associates.
+
+## 22
+w: Raghunātha  Vaidya  Upādhyāya  a great soul
+w: whose  at the sight  love and devotion for Kṛṣṇa  arises
+tr: Raghunātha Vaidya Upādhyāya was a great soul: the very sight of him awakened loving devotion to Kṛṣṇa.
+
+## 23
+w: Sundarānanda  —  Nityānanda’s  branch,  servant  intimate
+w: whom  with  Nityānanda  enjoys  the playful pastimes of Vraja
+tr: Sundarānanda, a branch of Nityānanda, was His intimate servant, and with him Nityānanda enjoyed the playful pastimes of Vraja.
+fn: By the heading in the edition, the second of the twelve gopālas. *Anubhāṣya*: in Vraja he is Sudāma (*Gaura-gaṇoddeśa-dīpikā*, 127); the *Caitanya-bhāgavata* (Antya 6) calls him “an ocean of the rasa of love, the chief of Nityānanda’s companions”.
+
+## 24
+w: Kamalākara  Pippalāi  —  extraordinary  ways
+w: extraordinary  love  his  in the world  known
+tr: Kamalākara Pippalāi was extraordinary in his ways, and his extraordinary love is known throughout the world.
+fn: By the heading in the edition, the third of the twelve gopālas. *Anubhāṣya*: in Vraja he is Mahābala (*Gaura-gaṇoddeśa-dīpikā*, 128); he installed the Deity of Jagannātha at Māhesh, and his descendants serve Him.
+
+## 25
+w: Sūryadāsa  Sarakhela,  his  brother  Kṛṣṇadāsa
+w: in Nityānanda  firm  faith,  of love  the abode
+tr: Sūryadāsa Sarakhela and his brother Kṛṣṇadāsa had firm faith in Nityānanda and were abodes of love.
+fn: *Anubhāṣya*: Sūryadāsa Sarakhela lived at Śāligrāma near Navadvīpa; he received the title “Sarakhela” in the service of the Muslim ruler of Gauḍa. His daughters Vasudhā and Jāhnavā are the consorts of Śrī Nityānanda (*Gaura-gaṇoddeśa-dīpikā*, 65). Kṛṣṇadāsa Sarakhela was the younger brother of Sūryadāsa and of Gaurīdāsa Paṇḍita.
+
+## 26
+w: Śrī  Gaurīdāsa  in Paṇḍita  devotion of soaring love
+w: love for Kṛṣṇa  to give,  to take,  holds  great power
+tr: In Śrī Gaurīdāsa Paṇḍita was a devotion of soaring love; he had great power both to give love for Kṛṣṇa and to receive it.
+fn: By the heading in the edition, the fourth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subala (*Gaura-gaṇoddeśa-dīpikā*, 128); the brother of Sūryadāsa Sarakhela, he moved from Śāligrāma to Ambikā-Kālnā on the bank of the Gaṅgā.
+
+## 27
+w: to Nityānanda  surrendered  caste  family  place at the common meal
+w: Śrī  Caitanya-Nityānanda  making  the Lords of his life
+tr: Gaurīdāsa surrendered to Nityānanda his caste, his family and his place in society, and made Śrī Caitanya and Nityānanda the Lords of his life.
+fn: *Amṛta-pravāha-bhāṣya*: *pā̐ti* is the common meal (*paṅkti-bhojana*), the right to sit and eat in one row with one’s caste. Heading in the edition: “Gaurīdāsa Paṇḍita, whose life is Gaura and Nitāi.”
+
+## 28
+w: of Nityānanda  Prabhu  dear  —  Paṇḍita  Purandara
+w: the ocean of love  within  moves  like  Mandara
+tr: Purandara Paṇḍita was dear to Nityānanda Prabhu; he moved through the ocean of love like Mount Mandara.
+fn: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 5): at Khaḍadaha, at the home of Purandara Paṇḍita, Nityānanda danced tirelessly, and Purandara, frenzied with love, climbed a tree, roared like a lion and leapt down crying, “I am Aṅgada!”
+
+## 29
+w: Parameśvara dāsa  —  Nityānanda  his sole shelter
+w: devotion to Kṛṣṇa  attains,  him  who  does  remember
+tr: Parameśvara dāsa took shelter in Nityānanda alone; whoever remembers him attains devotion to Kṛṣṇa.
+fn: By the heading in the edition, the fifth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Arjuna (*Gaura-gaṇoddeśa-dīpikā*, 132); he accompanied Jāhnavā Mātā to the festival at Kheturi and at her command installed the Deities of Śrī Rādhā-Gopīnātha at Āṭpur. The *Vaiṣṇava-vandanā* says that he made even jackals utter the holy name.
+
+## 30
+w: Śrī  Jagadīśa  Paṇḍita  is  of the world  the purifier
+w: the nectar of love for Kṛṣṇa  rains,  like  rain  heavy
+tr: Śrī Jagadīśa Paṇḍita purifies the whole world; like a heavy monsoon rain, he pours down the nectar of love for Kṛṣṇa.
+fn: *Anubhāṣya*: his śrīpāṭa is Yaśaḍā near Cākdaha; at Mahāprabhu’s command he preached the holy name in Nīlācala, and from there he brought a Deity of Jagannātha, whom he installed at Yaśaḍā.
