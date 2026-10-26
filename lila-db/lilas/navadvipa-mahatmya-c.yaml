@@ -846,3 +846,754 @@
   themes: [author]
   verses:
     - {file: "navadvipa-dhama-mahatmya/ru/18.md", from: "63", to: "78"}
+
+# ===== Глава 19. «Навадвипа-бхава-таранга» (1899): видения автора =====
+- id: nvm-19-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 1–7"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.001
+  title: "Молитва о видении Навадвипа-дхамы: дхама открывается лишь очищенным чувствам"
+  summary: "Бхактивинода молит увидеть Навадвипу — главное проявление сандхини, неотличное от Вриндавана: обе дхамы Господь по милости привнёс в мир; материальные чувства высмеивают её как кусок земли, а совершенство приходит лишь по милости Кришны через общество чистых преданных, не путями гьяны и кармы."
+  persons: ["@bhaktivinoda"]
+  places: ["#navadvipa", "#vrindavana"]
+  kind: teaching
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [teaching]
+  teaching: [maya, vaishnava, bhakti-supremacy]
+  event: ev-nbt-dhama-darshana
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "1", to: "7"}
+
+- id: nvm-19-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 8–18"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.008
+  title: "Видение Майяпура: вечный дом Джаганнатхи Мишры и обитель спутников"
+  summary: "Девять островов — лотос, в сердцевине Антардвипа и Майяпур, неотличный от Брахмапуры и Махаваны Голоки; если Майядеви поднимет покров, взору откроется вечный дом Джаганнатхи Мишры, где Гауранге служат мать, отец, Лакшмиприя и Вишнуприя, дома Нитьянанды, Адвайты, Гададхары, Шривасы; на Ганге — Праудха-майя и Вриддха Шива, на Сарасвати — Ишодьяна; Майя скрыла дхаму от материалистов разливами Ганги."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@shachi", "@jagannatha-mishra", "@lakshmipriya", "@vishnupriya", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@praudha-maya", "@vriddha-shiva"]
+  places: ["#antardvipa", "#mayapur", "#house-jagannatha-mishra", "#vriddha-shiva", "#ishodyana"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, pilgrimage]
+  event: ev-nbt-dhama-darshana
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "8", to: "18"}
+
+- id: nvm-19-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 19–20"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.019
+  title: "Притху-кунда и Ганга Нагара: Господь с друзьями учится в доме Гангадаса"
+  summary: "Рощи, озеро Притху и пастбища; к западу на Ганге — Ганга Нагара, куда Господь с друзьями-брахманами приходил учиться в дом Гангадаса."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@gangadasa-pandita"]
+  places: ["#prithu-kunda", "#ganga-nagara", "#house-gangadasa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Упоминание; Притху-кунда — ср. ev-prithu-kunda-origin."
+  themes: [learning]
+  event: ev-study-gangadasa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "19", to: "20"}
+
+- id: nvm-19-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 21"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.021
+  title: "Бхарадваджа-тила: здесь Бхарадваджа обрёл прему и написал сутры"
+  summary: "В Бхарадваджа-тиле великий муни Бхарадваджа, поклонявшийся Гауранге, обрёл прему и написал сутры, чтобы поднять людей до преданного служения."
+  persons: ["@bhaktivinoda", "@bharadvaja", "@mahaprabhu"]
+  places: ["#bharadvaja-tila"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial]
+  event: ev-bharadvaja-tila
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "21", to: "21"}
+
+- id: nvm-19-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 22–23"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.022
+  title: "Селение Чханд Кази — Матхура; Сараданга: Джаганнатха с шабарами"
+  summary: "К северу от Притху-кунды — селение Чханд Кази, Матхура кришна-лилы, Шаштхи-тиртха и Мадхувана; далее Сараданга, где с Джаганнатхой скрываются шабары, убоявшиеся демона Рактабаху."
+  persons: ["@bhaktivinoda", "@chand-kazi", "@jagannatha-deity"]
+  places: ["#kazi-nagara", "#shashthi-tirtha", "#saradanga"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [jagannatha, pilgrimage]
+  event: ev-jagannatha-shabaras-saradanga
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "22", to: "23"}
+
+- id: nvm-19-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 24"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.024
+  title: "Симантадвипа: Парвати кладёт на голову пыль со стоп Гауранги"
+  summary: "К северо-западу от Матхуры — Симантадвипа, где некогда Парвати в печали возложила себе на голову пыль лотосных стоп Гауранги."
+  persons: ["@bhaktivinoda", "@parvati", "@mahaprabhu"]
+  places: ["#simantadvipa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial]
+  event: ev-parvati-simantadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "24", to: "24"}
+
+- id: nvm-19-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 25"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.025
+  title: "Билвапакша: Кумары в медитации на Гаурангу; Санкаршана-кшетра"
+  summary: "Вдали — лес Билвапакша, где четверо Кумаров погружены в медитацию на Гаурангу, а за ним — Санкаршана-кшетра, край игр Нитьянанды."
+  persons: ["@bhaktivinoda", "@sanaka-kumaras", "@mahaprabhu", "@nityananda"]
+  places: ["#belpukhuria"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial]
+  event: ev-nimbarka-bilvapaksha
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "25", to: "25"}
+
+- id: nvm-19-008
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 26–29"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.026
+  title: "Ишодьяна: полуденные игры Шачинанданы; золотой храм"
+  summary: "В южной части Майяпура, у слияния Ганги с Сарасвати, — роща Ишодьяна, где Шачинандана со спутниками проводил полуденные игры; там птицы поют славу Гауранге, озеро и золотой храм в драгоценностях, а материалисты видят лишь колючие заросли, заливаемые Гангой."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#ishodyana", "#mayapur"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, krishna-lila]
+  event: ev-nbt-dhama-darshana
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "26", to: "29"}
+
+- id: nvm-19-009
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 30"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.030
+  title: "Вишрама-стхана: Господь отдыхает у Шридхары после освобождения Кази"
+  summary: "Посреди Мадхуваны — Вишрама-стхана с водоёмом и жилищем Кхолавечи Шридхары: сюда, очистив сердце Кази, пришёл отдохнуть Гаурангадева со спутниками."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@shridhara", "@chand-kazi"]
+  places: ["#vishrama-sthana"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [kirtan, muslims]
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "30", to: "30"}
+
+- id: nvm-19-010
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 31–32"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.031
+  title: "Гаурасундара пьёт из старого кувшина Шридхары; киртан в доме Шридхары"
+  summary: "Автор жаждет увидеть, как Гаурасундара пьёт воду из старого металлического кувшина Шридхары и как в доме Шридхары юный сын Шачи с Нитьянандой, Адвайтой, Гададхарой и Шривасой поёт, танцует и молит о любви к Господу."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@shridhara", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
+  places: ["#vishrama-sthana"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [kirtan, mercy]
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "31", to: "32"}
+
+- id: nvm-19-011
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 33–34"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.033
+  title: "Суварна Бихар: здесь танцевал Гауранга"
+  summary: "Суварна Бихар — место дворца царя Суварна Сена, где Гауранга в золотом облике танцевал со Своими спутниками; автор молит там о служении Радхе и Кришне и прибежище у стоп Радхарани."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@suvarna-sena", "@radha", "@krishna"]
+  places: ["#suvarna-vihara"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Ср. ev-nvm-parikrama-suvarna-vihara (видение Дживы, НДМ 7)."
+  themes: [kirtan, celestial]
+  event: ev-nbt-dhama-darshana
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "33", to: "34"}
+
+- id: nvm-19-012
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 35–40"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.035
+  title: "Нрисимха-палли: молитва Нрисимхадеве и Его благословение"
+  summary: "Автор молит Нрисимхадеву, страшного для зла и милостивого к Прахладе, очистить его сердце от вожделения и лицемерия; Нрисимха велит ему счастливо жить в Гаура-дхаме, поклоняться Радхе и Кришне, взращивать любовь к имени — и кладёт стопы ему на голову."
+  persons: ["@bhaktivinoda", "@nrisimha", "@prahlada", "@radha", "@krishna"]
+  places: ["#deva-palli"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, deities]
+  bhava: [nrisimha]
+  event: ev-nbt-nrisimha-blessing
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "35", to: "40"}
+
+- id: nvm-19-013
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 41–43"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.041
+  title: "Годрума: Сурабхи и Маркандейя"
+  summary: "В Годруме, за Алакананды и Каши-кшетрой, у реки Гандаки, поклонялась Господу корова Сурабхи; у берега Сарасвати мудрец Маркандейя воспринял любовь Господа; поклонение рощам Годрумы открывает игры Гауранги, а через них — игры Радхи и Кришны."
+  persons: ["@bhaktivinoda", "@surabhi", "@indra", "@markandeya", "@mahaprabhu"]
+  places: ["#godrumadvipa", "#mahavaranasi"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Маркандейя — ср. ev-nvm-markandeya-surabhi."
+  themes: [celestial]
+  event: ev-nvm-indra-surabhi-godruma
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "41", to: "43"}
+
+- id: nvm-19-014
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 44–50"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.044
+  title: "Годрума — Нандаграма: Нимай и Нитай пасут коров с пастушками"
+  summary: "Годрума — обитель пастухов: Нимай берёт с Собой молочное и пасёт коров с юными пастушками; те зовут Его Гопалом, хотят нести на плечах, угощают сыром и сгущённым молоком, даже коровы мычат при виде Его; каждый день Нимай и Нитай играют с ними, а Нимай перед уходом купается в Ганге; автор мечтает жить в хижине на Годруме в чувствах пастушка."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@nityananda"]
+  places: ["#godrumadvipa", "#gadigachha"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [krishna-lila, prasada]
+  bhava: [sakha]
+  event: ev-gaura-cowherds-godruma
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "44", to: "50"}
+
+- id: nvm-19-015
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 51"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.051
+  title: "Мадхьядвипа: Гауранга со спутниками даёт даршан семи риши"
+  summary: "Южнее Годрумы — Мадхьядвипа, где в полдень Гауранга со спутниками явился семи риши."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@seven-rishis"]
+  places: ["#madhyadvipa", "#majida"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [revelation, celestial]
+  event: ev-nvm-seven-rishis-majida
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "51", to: "51"}
+
+- id: nvm-19-016
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 52–54"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.052
+  title: "Наймиша на Гомати: риши слушают о Гауранге; Шива на лебеде Брахмы"
+  summary: "В лесу Наймиша на Гомати риши жадно внимают повествованию о Гауранге, и даже Шива с полубогами спешат туда на лебеде Брахмы; автор мечтает в картику, в экадаши, слушать там о Шри Чайтанье и получить пыль со стоп слушателей Шаунаки."
+  persons: ["@bhaktivinoda", "@seven-rishis", "@shaunaka", "@shiva", "@brahma", "@mahaprabhu"]
+  places: ["#naimisha-navadvipa", "#hamsa-vahana"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Шива на лебеде — ср. ev-nvm-shiva-hamsa-naimisha."
+  calendar: "картика, экадаши"
+  themes: [celestial]
+  event: ev-nvm-naimisha-shaunaka-suta
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "52", to: "54"}
+
+- id: nvm-19-017
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 55"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.055
+  title: "Брахмана Пушкара: Дива дас видит золотой образ Гауранги"
+  summary: "К югу — Брахмана Пушкара, неотличная от Пушкары, где брахман Дива дас поклонялся Гауранге и узрел Его золотой образ."
+  persons: ["@bhaktivinoda", "@diva-dasa", "@mahaprabhu"]
+  places: ["#brahmana-pushkara"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, revelation]
+  event: ev-nvm-diva-dasa-pushkara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "55", to: "55"}
+
+- id: nvm-19-018
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 56"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.056
+  title: "Учча-хатта — Курукшетра: полубоги поют гаура-киртан"
+  summary: "Далее к югу — Учча-хатта, неотличная от Курукшетры; там пребывают полубоги, поющие гаура-киртан, и порой жители слышат эту музыку."
+  persons: ["@bhaktivinoda", "@mahaprabhu"]
+  places: ["#uchcha-hatta"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, kirtan]
+  event: ev-nvm-devas-uchcha-hatta
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "56", to: "56"}
+
+- id: nvm-19-019
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 57–61"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.057
+  title: "Полуденный лес Мадхьядвипы: Гауранга в бхаве Радхи; киртан у Брахма-кунды"
+  summary: "В полдень Гауранга со спутниками проходил по этим лесам и, едва преданные упоминали игры Кришны, пел и танцевал в чувствах Радхи; автор мечтает увидеть Его великий киртан в Брахманагаре у Брахма-кунды, как Он, с длинными руками и гирляндой лесных цветов, взывает: «Все пойте святое имя!», а Шриваса и преданные начинают санкиртану."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@srivasa"]
+  places: ["#madhyadvipa", "#brahma-nagara"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [kirtan, ecstasy]
+  bhava: [radha]
+  event: ev-gaura-madhyadvipa-midday-kirtan
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "57", to: "61"}
+
+- id: nvm-19-020
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 62–64"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.062
+  title: "Панчавени: Гауранга со спутниками омывается в слиянии рек"
+  summary: "Близ Учча-хатты — Панчавени, где сходятся три рукава Ганги, Ямуна и Сарасвати, чтобы служить Гауранге; Гауранга со спутниками омылся здесь и очистил тиртху; автор мечтает пить эту воду, омывавшую Его стопы."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@vyasa"]
+  places: ["#panchaveni"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [pilgrimage]
+  event: ev-gaura-panchaveni-bath
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "62", to: "64"}
+
+- id: nvm-19-021
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 65"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.065
+  title: "Коладвипа — Вараха-кшетра"
+  summary: "Напротив, за Гангой, — Коладвипа, где Господь явился преданным в облике вепря; писания зовут её Вараха-кшетрой."
+  persons: ["@bhaktivinoda", "@varaha", "@vasudeva-koladvipa"]
+  places: ["#koladvipa", "#kulia"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [revelation]
+  bhava: [varaha]
+  event: ev-nvm-varaha-vasudeva
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "65", to: "65"}
+
+- id: nvm-19-022
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 66–71"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.066
+  title: "Кулия: Господь-санньяси в доме Видья-вачаспати; тоска по юному Гауре Майяпура"
+  summary: "Кулия-пахада — высочайшее место гаура-лилы: приняв санньясу, Господь под предлогом пути во Вриндаван посетил Надию; здесь школа Видья-вачаспати, брата Сарвабхаумы, чья преданность привлекла Господа; автор мечтает увидеть царя санньяси на крыше дома Вачаспати и, как гопи, увидевшие Кришну царём в Двараке, жаждет вернуть Господа юношей в Майяпур, к Притху-кунде и Шривасангану."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@vidya-vachaspati", "@sarvabhauma"]
+  places: ["#kulia", "#vidyanagara-bengal", "#mayapur", "#house-srivasa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Ср. ev-kulia-mass-kirtan. Школа Видья-вачаспати по НБТ 67 — в Коладвипе (Кулия)."
+  themes: [separation, sannyasa]
+  bhava: [sannyasi]
+  event: ev-vidya-vachaspati-house
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "66", to: "71"}
+
+- id: nvm-19-023
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 72–73"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.072
+  title: "Самудрагадха: Самудра Сен и Бхима; океан у Ганги"
+  summary: "Далее — Самудрагадха, где царь Самудра Сен сражался с Бхимой и удостоился даршана Господа; сюда же океан, найдя прибежище у Ганги, пришёл смотреть на игры в Навадвипе — так в Навадвипе пребывает Ганга-сагара."
+  persons: ["@bhaktivinoda", "@samudra-sena", "@bhima-pandava", "@krishna", "@mahaprabhu"]
+  places: ["#samudragarh", "#gangasagara"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Океан — ср. ev-nvm-ocean-ganga-samudragarh."
+  themes: [celestial, revelation]
+  event: ev-nvm-samudra-sena-bhima
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "72", to: "73"}
+
+- id: nvm-19-024
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 74–75"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.074
+  title: "Бахулавана: киртаны Гауранги; молитва Коладвипе"
+  summary: "В Коладвипе — Бахулавана, куда много раз приходили танцевать в киртане Гауранга и Его спутники; автор молит Коладвипу дать ему жить среди преданных Навадвипы."
+  persons: ["@bhaktivinoda", "@mahaprabhu"]
+  places: ["#koladvipa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [kirtan]
+  event: ev-nbt-dhama-darshana
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "74", to: "75"}
+
+- id: nvm-19-025
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 76"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.076
+  title: "Чампака-хатта: Джаядева поклоняется Гауранге"
+  summary: "В северной части Коладвипы — Чампака-хатта, великая тиртха, где Гауранге поклонялся Джаядева."
+  persons: ["@bhaktivinoda", "@jayadeva", "@mahaprabhu"]
+  places: ["#champahatti"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial]
+  event: ev-nvm-gaura-appears-jayadeva
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "76", to: "76"}
+
+- id: nvm-19-026
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 77–78"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.077
+  title: "Дом Ванинатхи: праздник нама-санкиртаны; лес чампаки Чампакалаты"
+  summary: "В Чампахати стоял дом Ванинатхи, где Господь проводил великое празднество нама-санкиртаны, являя глубину премы; там же лес чампаки, где Чампакалата собирала цветы для гирлянд Радхе и Кришне, — неотличный от Кхадираваны Враджа."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@vaninatha-champahatti", "@champakalata", "@radha", "@krishna", "@balarama"]
+  places: ["#champahatti", "#house-vaninatha"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-sankirtana-vaninatha-house
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "77", to: "78"}
+
+- id: nvm-19-027
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 79–81"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.079
+  title: "Ритудвипа: Гауранга зовёт коров и друзей-пастушков"
+  summary: "В Ритудвипе времена года служат Господу и пребывает Радха-кунда Враджа; порой Гауранга, вспоминая игры юного пастушка, выкликал имена коров «Шьямали! Дхубали!» и в слезах звал Субалу и Шридаму."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@subala", "@shridama"]
+  places: ["#ritudvipa", "#radha-kunda-navadvipa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [krishna-lila, ecstasy]
+  bhava: [sakha]
+  event: ev-nvm-gaura-kirtan-radha-kunda-ritudvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "79", to: "81"}
+
+- id: nvm-19-028
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 82–84"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.082
+  title: "Видение у Манаса-ганги: Кришна и Баларама с телятами"
+  summary: "У Манаса-ганги близ Радха-кунды Кришна и Баларама с Дамой, Балой и Махабалой уходят с коровами и телятами в лес; потеряв телят, пастушки тревожатся, но телята бегут на звук флейты Кришны; видение исчезает, и автор падает без чувств."
+  persons: ["@bhaktivinoda", "@krishna", "@balarama"]
+  places: ["#ritudvipa", "#radha-kunda-navadvipa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [krishna-lila, celestial]
+  event: ev-nbt-krishna-balarama-calves
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "82", to: "84"}
+
+- id: nvm-19-029
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 85–88"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.085
+  title: "Видьянагара: Брихаспати приходит Сарвабхаумой учить"
+  summary: "В слезах автор приходит в Видьянагару — Сарасвати-питху, обитель Вед и шестидесяти четырёх искусств; узнав, что здесь Господь совершит подвиги учёности, Брихаспати пришёл сюда в облике Васудевы Сарвабхаумы и учил последователей."
+  persons: ["@bhaktivinoda", "@brihaspati", "@sarvabhauma", "@brahma", "@shiva", "@mahaprabhu"]
+  places: ["#vidyanagara-bengal", "#ritudvipa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [learning, celestial]
+  event: ev-nvm-brihaspati-sarvabhauma-vidyanagara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "85", to: "88"}
+
+- id: nvm-19-030
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 89–93"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.089
+  title: "Видьянагара: Гаурасундара идёт учиться; Девананда оскорбил Шривасу"
+  summary: "Автор мечтает увидеть Гаурасундару, идущего в Видьянагару за знанием; здесь Девананда Пандит оскорбил Шривасу и был наказан Господом; деяния Господа — побеждать наставников в споре, наказывать критикующих — непостижимы, но несут блаженство; автор молит, чтобы майя не скрывала от него личность Гауранги."
+  persons: ["@bhaktivinoda", "@mahaprabhu", "@devananda-pandita", "@srivasa"]
+  places: ["#vidyanagara-bengal"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Споры с учителями — ср. ev-nvm-nimai-vidyanagara-debate."
+  themes: [offense, learning]
+  event: ev-devananda-rebuked
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "89", to: "93"}
+
+- id: nvm-19-031
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 94–95"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.094
+  title: "Джахнудвипа: обитель Джахну Муни; Бхишма учился там бхагавата-дхарме"
+  summary: "Севернее Видьянагары — Джахнудвипа: здесь Джахну вобрал в себя Гангу, и она вновь явилась как Джахнави; здесь Бхишма постигал бхагавата-дхарму, а Джахну поклонялся Господу и достиг стоп Шри Чайтаньи."
+  persons: ["@bhaktivinoda", "@jahnu", "@ganga-devi", "@bhishma", "@mahaprabhu"]
+  places: ["#jahnudvipa", "#jannagar"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Бхишма — ср. ev-nvm-bhishma-jahnu."
+  themes: [celestial]
+  event: ev-nvm-jahnu-ganga
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "94", to: "95"}
+
+- id: nvm-19-032
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 96–109"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.096
+  title: "Бхишма является Бхактивиноде на Бхишма-тиле и наставляет его"
+  summary: "На Бхишма-тиле вечером является Бхишма — тёмный, как Кришна, с туласи-малой и тилакой, повторяющий имя; он рассказывает, как Кришна на Курукшетре открыл ему, что за даршан Навадвипы он стал её вечным жителем, и учит: жить в Навадвипе, поклоняться Гаурахари, соблюдать правила бхакти, служить преданным, повторять имя и поклоняться Радхе-Кришне; затем скрывается."
+  persons: ["@bhaktivinoda", "@bhishma", "@krishna", "@mahaprabhu", "@radha"]
+  places: ["#bhishma-tila", "#jahnudvipa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, teaching]
+  teaching: [vaishnava, holy-name, maya]
+  event: ev-nbt-bhishma-instruction
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "96", to: "109"}
+
+- id: nvm-19-033
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 109–116"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.109
+  title: "Модадрума — Бхандиравана: видение Рамы; Лакшмана угощает автора плодом"
+  summary: "В лесу Модадрумы, неотличном от Бхандираваны, где кукушки поют славу Гауранги, Ситы и Рамы, автор видит хижину и зелёного Раму в одеянии брахмачари с Лакшманой и Ситой; Лакшмана ставит ему стопу на голову и угощает плодом; видение исчезает, автор в слезах вкушает плод. Здесь и Кришна с Баларамой пасли коров, и Гауранга упивался киртаном с друзьями."
+  persons: ["@bhaktivinoda", "@rama", "@lakshmana", "@sita-devi", "@krishna", "@balarama", "@mahaprabhu"]
+  places: ["#modadrumadvipa", "#rama-vata", "#bhandiravana"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, revelation]
+  bhava: [rama]
+  event: ev-nbt-rama-lakshmana-fruit
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "109", to: "116"}
+
+- id: nvm-19-034
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 117–119"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.117
+  title: "Вайкунтхапура: Владыка Вайкунтхи является Нараде как Гауранга"
+  summary: "В лесу Нихшреяса, в Вайкунтхапуре, пребывает Господь духовного неба с Лилой, Бху и Шри; Кришна скрывает Своё величие от преданных; некогда Владыка Вайкунтхи, скрыв богатства, предстал Нараде в образе Гауранги — увидев этот образ, автор пустится в пляс."
+  persons: ["@bhaktivinoda", "@narada", "@mahaprabhu", "@lakshmi", "@krishna"]
+  places: ["#vaikunthapur"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [revelation, celestial]
+  bhava: [aishvarya]
+  event: ev-narada-vaikunthapur-gaura
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "117", to: "119"}
+
+- id: nvm-19-035
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 120–123"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.120
+  title: "Арка-тила: Сурья благословляет автора"
+  summary: "За Вираджей и Брахмани-нагарой автор поднимается на Арка-тилу, поклоняется Гаурахари и видит Сурью — рыже-красного, с туласи-малой и именем Гаурахари на устах; Сурья говорит, что полубоги служат стопам Гауранги, благословляет автора на кришна-бхакти и жизнь в дхаме и просит приходить сюда всегда."
+  persons: ["@bhaktivinoda", "@surya", "@mahaprabhu"]
+  places: ["#arka-tila", "#vaikunthapur"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial]
+  event: ev-nbt-surya-arka-tila
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "120", to: "123"}
+
+- id: nvm-19-036
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 124–127"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.124
+  title: "Махатпура: Пандавы слушают «Гауранга-пурану» от Вьясы"
+  summary: "Махатпура неотлична от Камьяваны; здесь жили Юдхиштхира с братьями и Драупади, слушали от Вьясадевы «Гауранга-пурану» и поклонялись Гауранге; и ныне преданные видят под деревом собрание Юдхиштхиры с Шукадевой, Чьяваной, Девалой, Гаргой и Бхаумой, плачущих при рассказе о Гауранге."
+  persons: ["@bhaktivinoda", "@pandavas", "@yudhishthira", "@draupadi", "@vyasa", "@shukadeva", "@garga-muni", "@mahaprabhu"]
+  places: ["#mahatpur"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Чьявана, Девала и Бхаума — без тегов."
+  themes: [celestial]
+  event: ev-pandavas-mahatpur
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "124", to: "127"}
+
+- id: nvm-19-037
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 128–131"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.128
+  title: "Драупади угощает автора прасадом Гауранги"
+  summary: "Когда собрание расходится и голодный автор собирает плоды, к нему подходит Драупади и подносит рис и овощи, предложенные Гауранге; вкусив прасад, он чувствует исполнение всех желаний."
+  persons: ["@bhaktivinoda", "@draupadi", "@mahaprabhu"]
+  places: ["#mahatpur"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [prasada, celestial]
+  teaching: [prasada-teaching]
+  event: ev-nbt-draupadi-prasada
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "128", to: "131"}
+
+- id: nvm-19-038
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 132–134"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.132
+  title: "Рудрадвипа — Кайласа: Рудры пляшут; Дурваса, Аштавакра и Даттатрея оставляют философию единства"
+  summary: "Рудрадвипа неотлична от Кайласы: здесь пляшут и падают от любви одиннадцать Рудр; отшельник Дурваса оставил йогу ради стоп Гауранги, а Аштавакра и Даттатрея с Шивой и другими йогами отказались от философии единства ради сосредоточения на стопах Гауранги."
+  persons: ["@bhaktivinoda", "@rudras", "@shiva", "@durvasa", "@ashtavakra", "@dattatreya", "@mahaprabhu"]
+  places: ["#rudradvipa", "#kailasa"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, kirtan]
+  teaching: [bhakti-supremacy]
+  event: ev-rudras-rudradvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "132", to: "134"}
+
+- id: nvm-19-039
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 135–145"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.135
+  title: "Богиня Сайюджья в Рудрадвипе; Шива наставляет автора"
+  summary: "У Шива-линги автор встречает плачущую богиню: она — Сайюджья (Нирвана), её сёстры Салокья, Сарупья, Самипья и Саршти ушли в Вайкунтху, Даттатрея и другие её оставили, Гауранга спас всех, кроме неё, — и место будет зваться «Нирдая»; в страхе от слова «сайюджья» автор падает, а Шива, танцуя и взывая к Гауранге, кладёт ему стопу на голову и учит: бхакти Кришне — главное, гьяна, карма, мукти и йога бесполезны; к югу — Шри Пулина, Вриндаван в Навадвипе."
+  persons: ["@bhaktivinoda", "@sayujya-personified", "@shiva", "@dattatreya", "@mahaprabhu"]
+  places: ["#rudradvipa", "#medhra-sthala", "#nidaya"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»)."
+  themes: [celestial, teaching]
+  teaching: [bhakti-supremacy]
+  event: ev-nbt-sayujya-shiva
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "135", to: "145"}
+
+- id: nvm-19-040
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 146–164"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.146
+  title: "Шри Пулина: автор видит себя Камала-манджари в служении Радхе и Говинде"
+  summary: "Увидев Шри Пулину, автор в самадхи узнаёт себя Камала-манджари, помощницей Ананги-манджари; ему поручают готовить камфару для Радхи и Говинды; на раса-мандале Кришна танцует с Радхой и миллионами гопи; Ананга-манджари представляет его Рупа-манджари и ведёт к Лалите, которая принимает его в служение; сон прерывается, и автор, переправившись через Гангу, поклоняется в Ишодьяне Гауранге, неотличному от Радхи и Кришны."
+  persons: ["@bhaktivinoda", "@ananga-manjari", "@rupa-gosvami", "@lalita", "@radha", "@krishna", "@mahaprabhu"]
+  places: ["#shri-pulina", "#ishodyana"]
+  kind: vision
+  authority: C
+  notes: "Видение автора, 1899 («Навадвипа-бхава-таранга»). Камала-манджари — сиддха-сварупа Бхактивиноды; Рупа-манджари — Рупа Госвами (НБТ 165); Ананга-манджари — Джахнава (НБТ 167)."
+  themes: [krishna-lila, celestial]
+  event: ev-nbt-kamala-manjari
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "146", to: "164"}
+
+- id: nvm-19-041
+  source: navadvipa-mahatmya
+  ref: "Гл. 19 (НБТ), 165–168"
+  file: "navadvipa-dhama-mahatmya/ru/19.md"
+  period: PX
+  order: 310.165
+  title: "Заключение «Бхава-таранги»: молитва о месте в дхаме"
+  summary: "Бхактивинода просит Рупу и Рагхунатху Госвами (Рупа- и Рати-манджари) о совершенстве духовного тела и служения, обитателей Навадвипы и Вриндавана — ввести его в круг служителей; книга написана по наставлению Джахнавы (Ананги-манджари) и Нитьянанды; читающему её с верой Сварупа Дамодара (Лалита) дарует тень своих стоп."
+  persons: ["@bhaktivinoda", "@rupa-gosvami", "@raghunatha-dasa", "@jahnava", "@ananga-manjari", "@nityananda", "@svarupa-damodara", "@lalita"]
+  places: ["#navadvipa", "#vrindavana"]
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/19.md", from: "165", to: "168"}
