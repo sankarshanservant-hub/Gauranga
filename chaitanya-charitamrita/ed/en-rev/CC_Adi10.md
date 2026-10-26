@@ -312,6 +312,306 @@ father  calling  whom  addresses  Gaurāṅgasundara
 
 (30) Śrī Purandara Ācārya was an associate of Śrī Caitanya; Gaurāṅgasundara called him Father.[^12]
 
+দামোদরপণ্ডিত শাখা প্রেমেতে প্রচণ্ড ৷  
+প্রভুর উপরে যেঁহো কৈল বাক্যদণ্ড ॥ ৩১ ॥
+
+dāmodara-paṇḍita śākhā premete pracaṇḍa  
+Dāmodara  Paṇḍita  the branch  in love  fierce  
+prabhura upare yem̐ho kaila vākya-daṇḍa  
+of the Lord  toward  who  made  a chastisement in words
+
+(31) The branch Dāmodara Paṇḍita was fierce in his love; he even rebuked the Lord in words.
+
+দণ্ড-কথা কহিব আগে বিস্তার করিয়া ৷  
+দণ্ডে তুষ্ট প্রভু তাঁরে পাঠাইলা নদীয়া ॥ ৩২ ॥
+
+daṇḍa-kathā kahiba āge vistāra kariyā  
+of the rebuke  the story  I shall tell  later  in detail  making  
+daṇḍe tuṣṭa prabhu tām̐re pāṭhāilā nadīyā  
+with the rebuke  pleased  the Lord  him  sent  to Nadīyā
+
+(32) I shall tell the story of that rebuke in detail later. Pleased with it, the Lord sent him to Nadīyā.[^13]
+
+তাঁহার অনুজ শাখা — শঙ্করপণ্ডিত ৷  
+‘প্রভু-পাদোপাধান’ যাঁর নাম বিদিত ॥ ৩৩ ॥
+
+tām̐hāra anuja śākhā — śaṅkara-paṇḍita  
+his  younger brother  a branch —  Śaṅkara  Paṇḍita  
+‘prabhu-pādopādhāna’ yām̐ra nāma vidita  
+‘the Lord’s footrest’  whose  name  is known
+
+(33) His younger brother, Śaṅkara Paṇḍita, is a branch known by the name “the Lord’s footrest.”
+
+সদাশিবপণ্ডিত যাঁর প্রভুপদে আশ ৷  
+প্রথমেই নিত্যানন্দের যাঁর ঘরে বাস ॥ ৩৪ ॥
+
+sadāśiva-paṇḍita yām̐ra prabhu-pade āśa  
+Sadāśiva  Paṇḍita  whose  at the Lord’s feet  hope  
+prathamei nityānandera yām̐ra ghare vāsa  
+at the very first  Nityānanda’s  in whose  house  dwelling
+
+(34) Sadāśiva Paṇḍita set all his hope on the Lord’s feet, and at first Nityānanda lived in his house.
+
+শ্রীনৃসিংহ-উপাসক — প্রদ্যুম্ন ব্রহ্মচারী ৷  
+প্রভু তাঁর নাম কৈলা ‘নৃসিংহানন্দ’ করি’ ॥ ৩৫ ॥
+
+śrī-nṛsiṁha-upāsaka — pradyumna brahmacārī  
+of Śrī Nṛsiṁha  a worshipper —  Pradyumna  Brahmacārī  
+prabhu tām̐ra nāma kailā ‘nṛsiṁhānanda’ kari’  
+the Lord  his  name  made  ‘Nṛsiṁhānanda’  making
+
+(35) Pradyumna Brahmacārī was a worshipper of Śrī Nṛsiṁha, and the Lord gave him the name Nṛsiṁhānanda.
+
+নারায়ণ-পণ্ডিত এক বড়ই উদার ৷  
+চৈতন্য-চরণ বিনু নাহি জানে আর ॥ ৩৬ ॥
+
+nārāyaṇa-paṇḍita eka baḍai udāra  
+Nārāyaṇa  Paṇḍita  one  most  generous  
+caitanya-caraṇa vinu nāhi jāne āra  
+of Caitanya  the feet  besides  not  knows  anything else
+
+(36) Nārāyaṇa Paṇḍita was a most generous soul who knew nothing but the feet of Śrī Caitanya.
+
+শ্রীমান্পণ্ডিত শাখা — প্রভুর নিজ ভৃত্য ৷  
+দেউটি ধরেন, যবে প্রভু করেন নৃত্য ॥ ৩৭ ॥
+
+śrīmān-paṇḍita śākhā — prabhura nija bhṛtya  
+Śrīmān  Paṇḍita  a branch —  of the Lord  own  servant  
+deuṭi dharena, yabe prabhu karena nṛtya  
+the torch  holds  when  the Lord  dances
+
+(37) The branch Śrīmān Paṇḍita was the Lord’s personal servant; whenever the Lord danced, he held the torch.
+
+শুক্লাম্বর-ব্রহ্মচারী বড় ভাগ্যবান্ ৷  
+যাঁর অন্ন মাগি’ কাড়ি’ খাইলা ভগবান্ ॥ ৩৮ ॥
+
+śuklāmbara-brahmacārī baḍa bhāgyavān  
+Śuklāmbara  Brahmacārī  very  fortunate  
+yām̐ra anna māgi’ kāḍi’ khāilā bhagavān  
+whose  rice  begging  snatching  ate  the Lord
+
+(38) Śuklāmbara Brahmacārī was most fortunate: the Lord Himself would beg his rice, or snatch it from him, and eat it.[^14]
+
+নন্দন-আচার্য্য-শাখা জগতে বিদিত ৷  
+লুকাইয়া দুই প্রভুর যাঁর ঘরে স্থিত ॥ ৩৯ ॥
+
+nandana-ācārya-śākhā jagate vidita  
+Nandana  Ācārya  a branch  in the world  famed  
+lukāiyā dui prabhura yām̐ra ghare sthita  
+hiding  the two  Lords  in whose  house  stayed
+
+(39) The branch Nandana Ācārya is famed in the world, for the two Lords hid in his house.
+
+শ্রীমুকুন্দ-দত্ত-শাখা — প্রভুর সমাধ্যায়ী ৷  
+যাঁহার কীর্ত্তনে নাচে চৈতন্য-গোসাঞি ॥ ৪০ ॥
+
+śrī-mukunda-datta-śākhā — prabhura samādhyāyī  
+Śrī  Mukunda  Datta  a branch —  of the Lord  a fellow student  
+yām̐hāra kīrtane nāce caitanya-gosāñi  
+in whose  kīrtana  dances  Caitanya Gosāñi
+
+(40) The branch Śrī Mukunda Datta was the Lord’s fellow student; when he sang kīrtana, Caitanya Gosāñi danced.
+
+বাসুদেব দত্ত — প্রভুর ভৃত্য মহাশয় ৷  
+সহস্র-মুখে যাঁর গুণ কহিলে না হয় ॥ ৪১ ॥
+
+vāsudeva datta — prabhura bhṛtya mahāśaya  
+Vāsudeva  Datta —  of the Lord  a servant  great-souled  
+sahasra-mukhe yām̐ra guṇa kahile nā haya  
+with a thousand mouths  whose  qualities  telling  cannot be done
+
+(41) Vāsudeva Datta was the Lord’s great-souled servant; even with a thousand mouths one could not tell his virtues.
+
+জগতে যতেক জীব, তার পাপ লঞা ৷  
+নরক ভুঞ্জিতে চাহে জীব ছাড়াইয়া ॥ ৪২ ॥
+
+jagate yateka jīva, tāra pāpa lañā  
+in the world  as many  beings,  their  sins  taking  
+naraka bhuñjite cāhe jīva chāḍāiyā  
+hell  to suffer  wants  the beings  setting free
+
+(42) He wished to take upon himself the sins of every living being in the world and suffer in hell himself, if only they could be set free.[^15]
+
+হরিদাসঠাকুর-শাখার অদ্ভুত চরিত ৷  
+তিন লক্ষ নাম তেঁহো লয়েন অপতিত ॥ ৪৩ ॥
+
+haridāsa-ṭhākura-śākhāra adbhuta carita  
+of the branch Haridāsa Ṭhākura  wonderful  the character  
+tina lakṣa nāma tem̐ho layena apatita  
+three  hundred thousand  names  he  takes  without fail
+
+(43) Wonderful is the life of the branch Haridāsa Ṭhākura: without fail he chanted three hundred thousand names every day.
+
+তাঁহার অনন্ত গুণ — কহি দিঙ্মাত্র ৷  
+আচার্য্য-গোসাঞি যাঁরে ভুঞ্জায় শ্রাদ্ধপাত্র ॥ ৪৪ ॥
+
+tām̐hāra ananta guṇa — kahi diṅmātra  
+his  endless  virtues —  I tell  only a glimpse  
+ācārya-gosāñi yām̐re bhuñjāya śrāddha-pātra  
+Ācārya Gosāñi  whom  fed  the śrāddha plate
+
+(44) His virtues are endless; I can give only a glimpse of them. Advaita Ācārya fed him the plate of the śrāddha offering.[^16]
+
+প্রহ্লাদ-সমান তাঁর গুণের তরঙ্গ ৷  
+যবন-তাড়নেও যাঁর নাহিক ভ্রূভঙ্গ ॥ ৪৫ ॥
+
+prahlāda-samāna tām̐ra guṇera taraṅga  
+like Prahlāda  his  of virtues  the waves  
+yavana-tāḍaneo yām̐ra nāhika bhrū-bhaṅga  
+even when beaten by the Yavanas  whose  not  a frown
+
+(45) The waves of his virtues were like Prahlāda’s: even when the Yavanas beat him, he did not so much as frown.
+
+তেঁহো সিদ্ধি পাইলে তাঁর দেহ লঞা কোলে ৷  
+নাচিল চৈতন্যপ্রভু মহাকুতুহলে ॥ ৪৬ ॥
+
+tem̐ho siddhi pāile tām̐ra deha lañā kole  
+he  perfection  attained when  his  body  taking  on His lap  
+nācila caitanya-prabhu mahā-kutuhale  
+danced  Caitanya Prabhu  in great  joy
+
+(46) When he attained perfection, Caitanya Prabhu took his body in His arms and danced in great joy.
+
+তাঁর লীলা বর্ণিয়াছেন বৃন্দাবন দাস ৷  
+যেবা অবশিষ্ট, আগে করিব প্রকাশ ॥ ৪৭ ॥
+
+tām̐ra līlā varṇiyāchena vṛndāvana dāsa  
+his  pastimes  has described  Vṛndāvana dāsa  
+yebā avaśiṣṭa, āge kariba prakāśa  
+whatever  remains,  later  I shall make  known
+
+(47) Vṛndāvana dāsa has described his pastimes; what remains I shall tell later.
+
+তাঁর উপশাখা, — যত কুলীনগ্রামী জন ৷  
+সত্যরাজ-আদি — তাঁর কৃপার ভাজন ॥ ৪৮ ॥
+
+tām̐ra upaśākhā, — yata kulīna-grāmī jana  
+his  offshoots —  all the  of Kulīna-grāma  people  
+satyarāja-ādi — tām̐ra kṛpāra bhājana  
+Satyarāja and others —  of his  mercy  the recipients
+
+(48) All the people of Kulīna-grāma are his offshoots; Satyarāja and others received his mercy.[^17]
+
+শ্রীমুরারি গুপ্ত-শাখা — প্রেমের ভাণ্ডার ৷  
+প্রভুর হৃদয় দ্রবে শুনি’ দৈন্য যাঁর ॥ ৪৯ ॥
+
+śrī-murāri gupta-śākhā — premera bhāṇḍāra  
+Śrī  Murāri  Gupta  a branch —  of love  a storehouse  
+prabhura hṛdaya drave śuni’ dainya yām̐ra  
+of the Lord  the heart  melts  hearing  the humility  whose
+
+(49) The branch Śrī Murāri Gupta is a storehouse of love; hearing his humility, the Lord’s heart would melt.[^18]
+
+প্রতিগ্রহ নাহি করে, না লয় কার ধন ৷  
+আত্মবৃত্তি করি’ করে কুটুম্ব ভরণ ॥ ৫০ ॥
+
+pratigraha nāhi kare, nā laya kāra dhana  
+gifts  not  accepts,  not  takes  anyone’s  wealth  
+ātma-vṛtti kari’ kare kuṭumba bharaṇa  
+his own calling  following  makes  of the family  support
+
+(50) He accepted no gifts and took no one’s money, but supported his family by his own calling.[^19]
+
+চিকিৎসা করেন যারে হইয়া সদয় ৷  
+দেহরোগ, ভবরোগ, — দুই তার ক্ষয় ॥ ৫১ ॥
+
+cikitsā karena yāre haiyā sadaya  
+treatment  gives  to whom  being  merciful  
+deha-roga, bhava-roga, — dui tāra kṣaya  
+of the body  the disease,  of worldly existence  the disease —  both  his  are destroyed
+
+(51) Whomever he treated with kindness was freed from both diseases — the disease of the body and the disease of worldly existence.
+
+শ্রীমান্ সেন প্রভুর সেবক প্রধান ৷  
+চৈতন্য-চরণ বিনু নাহি জানে আন ॥ ৫২ ॥
+
+śrīmān sena prabhura sevaka pradhāna  
+Śrīmān  Sena  of the Lord  a servant  foremost  
+caitanya-caraṇa vinu nāhi jāne āna  
+of Caitanya  the feet  besides  not  knows  anything else
+
+(52) Śrīmān Sena was a foremost servant of the Lord and knew nothing but the feet of Śrī Caitanya.
+
+শ্রীগদাধর দাস-শাখা সর্ব্বোপরি ৷  
+কাজীগণের মুখে যেঁহ বোলাইল হরি ॥ ৫৩ ॥
+
+śrī-gadādhara dāsa-śākhā sarvopari  
+Śrī  Gadādhara  dāsa  a branch  above all  
+kājī-gaṇera mukhe yem̐ha bolāila hari  
+of the Kazis  in the mouths  who  made utter  ‘Hari’
+
+(53) The branch Śrī Gadādhara dāsa stands above all; he made even the Kazis utter the name of Hari.[^20]
+
+শিবানন্দ সেন — প্রভুর ভৃত্য অন্তরঙ্গ ৷  
+প্রভু-স্থানে যাইতে সবে লয়েন যাঁর সঙ্গ ॥ ৫৪ ॥
+
+śivānanda sena — prabhura bhṛtya antaraṅga  
+Śivānanda  Sena —  of the Lord  a servant  intimate  
+prabhu-sthāne yāite sabe layena yām̐ra saṅga  
+to the Lord’s place  going  all  take  whose  company
+
+(54) Śivānanda Sena was an intimate servant of the Lord; all who went to see the Lord went in his company.
+
+প্রতিবর্ষে প্রভুগণ সঙ্গেতে লইয়া ৷  
+নীলাচলে চলেন পথে পালন করিয়া ॥ ৫৫ ॥
+
+prativarṣe prabhu-gaṇa saṅgete laiyā  
+every year  the Lord’s devotees  with him  taking  
+nīlācale calena pathe pālana kariyā  
+to Nīlācala  goes  on the way  care  taking
+
+(55) Every year he took the Lord’s devotees with him to Nīlācala, caring for them all along the way.[^21]
+
+ভক্তে কৃপা করেন প্রভু এ-তিন স্বরূপে ৷  
+‘সাক্ষাৎ’, ‘আবেশ’ আর ‘আবির্ভাব’ রূপে ॥ ৫৬ ॥
+
+bhakte kṛpā karena prabhu e-tina svarūpe  
+to the devotees  mercy  shows  the Lord  in these three  forms  
+‘sākṣāt’, ‘āveśa’ āra ‘āvirbhāva’ rūpe  
+‘sākṣāt’,  ‘āveśa’  and  ‘āvirbhāva’  in the form
+
+(56) The Lord shows His mercy to the devotees in three ways: by His direct presence (*sākṣāt*), by entering into someone with His power (*āveśa*), and by manifesting Himself where He is not present in person (*āvirbhāva*).
+
+‘সাক্ষাতে’ সকল ভক্ত দেখে নির্ব্বিশেষ ৷  
+নকুল ব্রহ্মচারী-দেহে প্রভুর ‘আবেশ’ ॥ ৫৭ ॥
+
+‘sākṣāte’ sakala bhakta dekhe nirviśeṣa  
+in ‘sākṣāt’  all  the devotees  see  without distinction  
+nakula brahmacārī-dehe prabhura ‘āveśa’  
+Nakula  Brahmacārī’s  in the body  the Lord’s  ‘āveśa’
+
+(57) In His direct presence all the devotees see Him alike; in the body of Nakula Brahmacārī there was the Lord’s *āveśa*.[^22]
+
+‘প্রদ্যুম্ন ব্রহ্মচারী’ তাঁর আগে নাম ছিল ৷  
+‘নৃসিংহানন্দ’ নাম প্রভু পাছে ত’ রাখিল ॥ ৫৮ ॥
+
+‘pradyumna brahmacārī’ tām̐ra āge nāma chila  
+‘Pradyumna  Brahmacārī’  his  earlier  name  was  
+‘nṛsiṁhānanda’ nāma prabhu pāche ta’ rākhila  
+‘Nṛsiṁhānanda’  the name  the Lord  afterwards  indeed  gave
+
+(58) His earlier name was Pradyumna Brahmacārī; afterwards the Lord gave him the name Nṛsiṁhānanda.
+
+তাঁহাতে হইল চৈতন্যের ‘আবির্ভাব’ ৷  
+অলৌকিক ঐছে প্রভুর অনেক স্বভাব ॥ ৫৯ ॥
+
+tām̐hāte haila caitanyera ‘āvirbhāva’  
+in him  there was  Caitanya’s  ‘āvirbhāva’  
+alaukika aiche prabhura aneka svabhāva  
+extraordinary  such  of the Lord  many  ways
+
+(59) In him Śrī Caitanya manifested Himself (*āvirbhāva*). The Lord has many such wonderful, unearthly ways.
+
+আস্বাদিল এ সব রস সেন শিবানন্দ ৷  
+বিস্তারি’ কহিব আগে এসব আনন্দ ॥ ৬০ ॥
+
+āsvādila e saba rasa sena śivānanda  
+tasted  these  all  rasas  Sena  Śivānanda  
+vistāri’ kahiba āge esaba ānanda  
+in detail  I shall tell  later  all this  bliss
+
+(60) Śivānanda Sena tasted all these rasas; I shall describe this bliss in detail later.[^23]
+
 ---
 
 [^1]: *Anubhāṣya*: the “dog” is one absorbed in enjoyment and without faith in the Lord’s devotees; to “share in the fragrance” of the feet is to receive devotion to Gaura.
@@ -337,3 +637,25 @@ father  calling  whom  addresses  Gaurāṅgasundara
 [^11]: The bags are described in Antya 10.
 
 [^12]: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pānihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
+
+[^13]: *Amṛta-pravāha-bhāṣya*: the rebuke is described in Antya 3. *Anubhāṣya*: at the Lord’s wish Dāmodara Paṇḍita went to Gauḍa to be with Mother Śacī, and for the Ratha-yātrā he would come to Purī again with the devotees (*Caitanya-bhāgavata*, Antya 9).
+
+[^14]: *Anubhāṣya*: in Navadvīpa Mahāprabhu would joyfully snatch and eat the rice that Śuklāmbara had gathered by begging (*Caitanya-bhāgavata*, Madhya 16 and 25).
+
+[^15]: His prayer is described in Madhya 15.159–180 (*Anubhāṣya*).
+
+[^16]: The *śrāddha-pātra* is offered to the most worthy brāhmaṇa; Advaita Ācārya offered it to Haridāsa, who was born in a Muslim family (Antya 3).
+
+[^17]: *Anubhāṣya*: Satyarāja Khān was the son of Guṇarāja Khān of Kulīna-grāma and the father of Rāmānanda Vasu. Haridāsa Ṭhākura spent a cāturmāsya in Kulīna-grāma and blessed the whole Vasu family. Mahāprabhu asked Satyarāja to bring silk ropes for Jagannātha every year and explained to him who is a Vaiṣṇava, a better Vaiṣṇava and the best of Vaiṣṇavas (Madhya 15–16).
+
+[^18]: *Anubhāṣya*: Murāri Gupta, the author of the *Śrī Caitanya-carita*, was born of a physician family of Śrīhaṭṭa and later lived in Navadvīpa; he was older than Mahāprabhu. In his house the Lord showed His form as Varāha, and to him He revealed Himself as Śrī Rāma.
+
+[^19]: *Amṛta-pravāha-bhāṣya*: *ātma-vṛtti* — the calling proper to one’s own class: Murāri Gupta was a physician (kavirāja).
+
+[^20]: *Anubhāṣya*: Gadādhara dāsa lived at Eṛiyādaha on the Gaṅgā and was one of Nityānanda’s chief helpers in preaching in Gauḍa. The local Kazi opposed the kīrtana; one night Gadādhara came to him singing and asked him to say the name of Hari. The Kazi replied, “I will say ‘Hari’ tomorrow,” and Gadādhara, full of love, cried out, “Why tomorrow? You have just said ‘Hari’!” He is the radiance of Śrī Rādhā and is counted among the associates of both Gaura and Nityānanda.
+
+[^21]: *Anubhāṣya*: Śivānanda Sena lived in Kumārahaṭṭa (Hālisahar); every year he guided the devotees of Gauḍa to Nīlācala and bore all the costs of the journey (Madhya 16.19–26).
+
+[^22]: *Anubhāṣya*: according to the *Gaura-gaṇoddeśa-dīpikā* (74) it is the other way round: the Lord’s *āvirbhāva* was in Nakula Brahmacārī and His *āveśa* in Pradyumna Miśra. The Lord always manifests Himself (*āvirbhāva*) in four places: in Śacī’s house, in Nityānanda’s dancing, in Śrīvāsa’s kīrtana and in Rāghava’s house (Antya 2.34–35).
+
+[^23]: *Anubhāṣya*: Śivānanda Sena experienced and tasted all three kinds of the Lord’s mercy — *sākṣāt*, *āveśa* and *āvirbhāva* (Antya 2).
