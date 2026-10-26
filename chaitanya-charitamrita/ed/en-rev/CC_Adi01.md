@@ -78,7 +78,7 @@ Caitanya named  manifest  now  that  pair  and oneness  attained
 rādhā-bhāva-dyuti-suvalitaṁ naumi kṛṣṇa-svarūpam  
 with Rādhā’s  sentiment  and lustre  adorned  I bow to  Kṛṣṇa  Himself
 
-(5) Śrī Rādhā is the transformation of Kṛṣṇa’s love, His pleasure potency, *hlādinī-śakti*. Therefore, though Rādhā and Kṛṣṇa are one in Self, from time without beginning They have appeared in the world in two different forms. Now these Two have become one and are manifest as Śrī Caitanya. I bow to Him, Kṛṣṇa Himself, adorned with the sentiment and the lustre of Śrī Rādhā.[^4]
+(5) “Śrī Rādhā is the transformation of Kṛṣṇa’s love, His pleasure potency, *hlādinī-śakti*. Therefore, though Rādhā and Kṛṣṇa are one in Self, from time without beginning They have appeared in the world in two different forms. Now these Two have become one and are manifest as Śrī Caitanya. I bow to Him, Kṛṣṇa Himself, adorned with the sentiment and the lustre of Śrī Rādhā.” (diary of Svarūpa Dāmodara)[^4]
 
 শ্রীরাধায়াঃ প্রণয়মহিমা কীদৃশো বানয়ৈবা-  
 স্বাদ্যো যেনাদ্ভুতমধুরিমা কীদৃশো বা মদীয়ঃ ৷  
@@ -94,7 +94,7 @@ happiness  and Her  from experiencing Me  of what kind  or thus  out of longing
 tad-bhāvāḍhyaḥ samajani śacī-garbha-sindhau harīnduḥ  
 with Her sentiment rich  was born  in Śacī’s womb  ocean  the moon Hari
 
-(6) “What is the greatness of Śrī Rādhā’s love? What is My own wondrous sweetness, which She alone tastes through that love? And what is the happiness She feels in experiencing Me?” Longing to know this, the moon Hari, rich with Her sentiment, was born from the ocean of Śacī’s womb.[^5]
+(6) “What is the greatness of Śrī Rādhā’s love? What is My own wondrous sweetness, which She alone tastes through that love? And what is the happiness She feels in experiencing Me?” Longing to know this, the moon Hari, rich with Her sentiment, was born from the ocean of Śacī’s womb. (diary of Svarūpa Dāmodara)[^5]
 
 সঙ্কর্ষণঃ কারণতোয়শায়ী  
 গর্ভোদশায়ী চ পয়োঽব্ধিশায়ী ৷  

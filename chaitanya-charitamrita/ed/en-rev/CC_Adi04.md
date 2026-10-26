@@ -575,7 +575,7 @@ Caitanya named  manifest  now  that  pair  and oneness  attained
 rādhā-bhāva-dyuti-suvalitaṁ naumi kṛṣṇa-svarūpam  
 with Rādhā’s  sentiment  and lustre  adorned  I bow to  Kṛṣṇa  Himself
 
-(55) “Śrī Rādhā is the transformation of Kṛṣṇa’s love, His pleasure potency, *hlādinī-śakti*. Therefore, though Rādhā and Kṛṣṇa are one in Self, from time without beginning They have appeared in the world in two different forms. Now these Two have become one and are manifest as Śrī Caitanya. I bow to Him, Kṛṣṇa Himself, adorned with the sentiment and the lustre of Śrī Rādhā.” (from the notes, *kaḍacā*, of Svarūpa Dāmodara)[^32]
+(55) “Śrī Rādhā is the transformation of Kṛṣṇa’s love, His pleasure potency, *hlādinī-śakti*. Therefore, though Rādhā and Kṛṣṇa are one in Self, from time without beginning They have appeared in the world in two different forms. Now these Two have become one and are manifest as Śrī Caitanya. I bow to Him, Kṛṣṇa Himself, adorned with the sentiment and the lustre of Śrī Rādhā.” (diary of Svarūpa Dāmodara)[^32]
 
 রাধাকৃষ্ণ এক আত্মা, দুই দেহ ধরি’ ৷  
 অন্যোন্যে বিলসে রস আস্বাদন করি’ ॥ ৫৬ ॥
@@ -2487,7 +2487,7 @@ happiness  and Her  from experiencing Me  of what kind  or thus  out of longing
 tad-bhāvāḍhyaḥ samajani śacī-garbha-sindhau harīnduḥ  
 with Her sentiment rich  was born  in Śacī’s womb  ocean  the moon Hari
 
-(230) “ ‘What is the greatness of Śrī Rādhā’s love? What is My own wondrous sweetness, which She alone tastes through that love? And what is the happiness She feels in experiencing Me?’ Longing to know this, the moon Hari, rich with Her sentiment, was born from the ocean of Śacī’s womb.” (from the notes, *kaḍacā*, of Svarūpa Dāmodara)[^168]
+(230) “ ‘What is the greatness of Śrī Rādhā’s love? What is My own wondrous sweetness, which She alone tastes through that love? And what is the happiness She feels in experiencing Me?’ Longing to know this, the moon Hari, rich with Her sentiment, was born from the ocean of Śacī’s womb.” (diary of Svarūpa Dāmodara)[^168]
 
 এ সব সিদ্ধান্ত গূঢ়, — কহিতে না যুয়ায় ৷  
 না কহিলে, কেহ ইহার অন্ত নাহি পায় ॥ ২৩১ ॥
