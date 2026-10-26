@@ -1,12 +1,11 @@
 ## Śrī Navadvīpa-dhāma-parikramāya Āhvāna
 
-An invitation to Śrī Nabadwīp Dhām Parikramā
+*An invitation to Śrī Nabadwīp Dhām Parikramā*
 
-Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+**Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj**
 
-Originally published in *Śrī Gauḍīya Darśan*:
-
-Volume 1 , Issue 8 , Sunday, 11 March 1956
+Originally published in *Śrī Gauḍīya Darśan*:  
+Volume 1, Issue 8, Sunday, 11 March 1956
 
 **1.** You do not have to wander any longer in this vile world, riding along the path of death in the chariot of this temporary body within the forest of material existence, which is filled with ferocious tigers. You do not have to wander any longer in this vile world.
 
@@ -24,4 +23,12 @@ Volume 1 , Issue 8 , Sunday, 11 March 1956
 
 **8.** “Circumambulate the divine abode and your wandering throughout this universe for innumerable births will end, the disease of material existence will go away, all your suffering will be dispelled, and you will experience Goloka on this earth.” So call the devotees of Gaura.
 
-**9.** You do not have to wander any longer in this vile world. Śrīla Śrīdhar Mahārāj: Those days have gone by, when I guided the parikramā, singing and dancing in the front. I was mad when I guided the parikramā: I became almost mad to sing and dance in the Name of Gaurāṅga. I would do so almost without any fatigue. Those days have gone by. Now I cannot go. Devotee: We can get a palanquin. Then you can come with us. Śrīla Śrīdhar Mahārāj: Gauraharibol, Gauraharibol, Gauraharibol … I am pleased to think that so many of you will dance somewhere in Gaura Maṇḍal taking the Name. That makes me more proud. We feel more proud to think that so many souls are adding to the glorious opulence of Gaura Dhām, as foretold by Śrīla Bhakti Vinod Ṭhākur: “The day is not far off when the devotees from the Western countries will mix with the Eastern devotees, and they will chant and dance together in the Name of Gaurasundar and Nityānanda.” The map referred to here can be found at the back of the book.*
+**9.** You do not have to wander any longer in this vile world.
+
+---
+
+**Śrīla Śrīdhar Mahārāj:** Those days have gone by, when I guided the parikramā, singing and dancing in the front. I was mad when I guided the parikramā: I became almost mad to sing and dance in the Name of Gaurāṅga. I would do so almost without any fatigue. Those days have gone by. Now I cannot go.
+
+**Devotee:** We can get a palanquin. Then you can come with us.
+
+**Śrīla Śrīdhar Mahārāj:** Gauraharibol, Gauraharibol, Gauraharibol … I am pleased to think that so many of you will dance somewhere in Gaura Maṇḍal taking the Name. That makes me more proud. We feel more proud to think that so many souls are adding to the glorious opulence of Gaura Dhām, as foretold by Śrīla Bhakti Vinod Ṭhākur: “The day is not far off when the devotees from the Western countries will mix with the Eastern devotees, and they will chant and dance together in the Name of Gaurasundar and Nityānanda.”
