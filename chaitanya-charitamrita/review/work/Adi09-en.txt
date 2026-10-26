@@ -20,7 +20,7 @@ tr: Glory, glory to Śrī Kṛṣṇa Caitanya Gauracandra! Glory, glory to Adva
 ## 3
 w: glory  glory  to Śrīvāsa and the others  Gaura’s devotees
 w: of all desires  fulfilment  the cause  whose  remembrance
-tr: Glory, glory to Śrīvāsa and all the devotees of Gaura, the remembrance of whom fulfils every desire!
+tr: Glory, glory to Śrīvāsa and all the devotees of Gaura, whose remembrance fulfils every desire!
 
 ## 4
 w: Śrī  Rūpa  Sanātana  Bhaṭṭa  Raghunātha
@@ -71,7 +71,7 @@ fn: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya*: Śrī Īśvara Purī, the G
 ## 12
 w: by His own inconceivable power  the gardener  being  the trunk  becomes
 w: of all  the branches  that  trunk  the original support
-tr: By His own inconceivable power the gardener became the trunk, and that trunk is the original support of all the branches.
+tr: By His own inconceivable power the gardener became the trunk, the original support of all the branches.
 
 ## 13–15
 w: Paramānanda  Purī  and  Keśava  Bhāratī
@@ -97,12 +97,12 @@ tr: From the trunk many branches grew, and as they rose higher and higher, they 
 ## 18
 w: twenty  twenty  branches  making  one  one  circle
 w: great  great  branches  covered  universes  all
-tr: Every twenty branches formed a circle of their own, and these mighty boughs covered all the universes.
+tr: The branches grew in circles of twenty, and the mighty boughs covered all the universes.
 
 ## 19
 w: on each  branch  sub-branches  hundreds  hundreds
 w: as many as  sprang up  branches  who  will count  how many
-tr: On every branch there are hundreds of smaller branches. Who can count all the branches that have grown?
+tr: Each branch put out hundreds of smaller ones. Who can count how many sprang up?
 
 ## 20
 w: chief  chief  of the branches  of the names  the counting
@@ -170,7 +170,7 @@ tr: The gardener said: “Listen, O family of the tree, all you main branches an
 ## 32
 w: supramundane  tree  performs  of all the senses  the work
 w: immovable  being  holds  of the moving  the nature
-tr: This wondrous tree is wholly spiritual and performs the work of all the senses. Though it is a tree and cannot move, it acts as a living, moving being.
+tr: This wondrous tree is wholly spiritual and does the work of all the senses. Though rooted like any tree, it moves and acts like a living creature.
 fn: Heading in the edition: “Every part of the Caitanya-tree is full of consciousness, and by tasting its conscious fruit the insentient jīva awakens to consciousness.”
 
 ## 33
@@ -186,7 +186,7 @@ tr: I am a lone gardener. How many places can I go to? How many fruits can I pic
 ## 35
 w: alone  picking up  to give  is  labour
 w: someone  gets  someone  not  gets  remains  in the mind  doubt
-tr: It is hard labour to pick them and give them alone, and I fear that some will receive them and some will not.
+tr: It is hard work to pick them and give them out alone, and I am left in doubt: some will receive them, and some will not.
 
 ## 36
 w: therefore  I  order  have given  to all
@@ -207,12 +207,12 @@ tr: I water the tree unceasingly with the nectar of My own desire, and so it bea
 ## 39
 w: therefore  all  fruits  give  to anyone
 w: eating  may become  people  ageless  immortal
-tr: Therefore give all the fruits to anyone and everyone. Let people eat them and be free from old age and death.
+tr: Therefore give all these fruits away to anyone, and let people eat them and be free from old age and death.
 
 ## 40
 w: the world  pervading  My  will be  holy  fame
 w: happy  becoming  people  My  will sing  glory
-tr: My holy fame will spread through the world, and people, made happy, will sing My praises.
+tr: My holy fame will spread through the world, and people will sing My glory with joy.
 
 ## 41
 w: of Bhārata  in the land  has been  human  birth  whose
@@ -263,7 +263,7 @@ tr: When the gardener Caitanya gave this order, the whole family of the tree was
 ## 48
 w: whoever  wherever  there  gift  makes  the fruit of love
 w: by tasting the fruit  intoxicated  people  became  all
-tr: Each branch, wherever it was, began to give away the fruit of love, and all the people who tasted it became intoxicated.
+tr: Each branch began to give away the fruit of love everywhere, and all the people who tasted it became intoxicated.
 fn: Heading in the edition: “The fruit of prema is given regardless of qualification (*adhikāra*).”
 
 ## 49

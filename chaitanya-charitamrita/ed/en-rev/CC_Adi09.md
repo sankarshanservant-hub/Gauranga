@@ -36,7 +36,7 @@ glory  glory  to Śrīvāsa and the others  Gaura’s devotees
 sarvābhīṣṭa-pūrti-hetu yām̐hāra smaraṇa  
 of all desires  fulfilment  the cause  whose  remembrance
 
-(3) Glory, glory to Śrīvāsa and all the devotees of Gaura, the remembrance of whom fulfils every desire!
+(3) Glory, glory to Śrīvāsa and all the devotees of Gaura, whose remembrance fulfils every desire!
 
 শ্রীরূপ, সনাতন, ভট্ট রঘুনাথ ৷  
 শ্রীজীব, গোপালভট্ট, দাস রঘুনাথ ॥ ৪ ॥
@@ -130,7 +130,7 @@ by His own inconceivable power  the gardener  being  the trunk  becomes
 sakala śākhāra sei skandha mūlāśraya  
 of all  the branches  that  trunk  the original support
 
-(12) By His own inconceivable power the gardener became the trunk, and that trunk is the original support of all the branches.
+(12) By His own inconceivable power the gardener became the trunk, the original support of all the branches.
 
 পরমানন্দ পুরী, আর কেশব ভারতী ৷  
 ব্রহ্মানন্দ পুরী, আর ব্রহ্মানন্দ ভারতী ॥ ১৩ ॥
@@ -184,7 +184,7 @@ twenty  twenty  branches  making  one  one  circle
 mahā-mahā-śākhā chāila brahmāṇḍa sakala  
 great  great  branches  covered  universes  all
 
-(18) Every twenty branches formed a circle of their own, and these mighty boughs covered all the universes.
+(18) The branches grew in circles of twenty, and the mighty boughs covered all the universes.
 
 একৈক শাখাতে উপশাখা শত শত ৷  
 যত উপজিল শাখা কে গণিবে কত ॥ ১৯ ॥
@@ -194,7 +194,7 @@ on each  branch  sub-branches  hundreds  hundreds
 yata upajila śākhā ke gaṇibe kata  
 as many as  sprang up  branches  who  will count  how many
 
-(19) On every branch there are hundreds of smaller branches. Who can count all the branches that have grown?
+(19) Each branch put out hundreds of smaller ones. Who can count how many sprang up?
 
 মুখ্য মুখ্য শাখাগণের নাম-গণন ৷  
 আগে ত’ করিব, শুন বৃক্ষের বর্ণন ॥ ২০ ॥
@@ -324,7 +324,7 @@ supramundane  tree  performs  of all the senses  the work
 sthāvara haiyā dhare jaṅgamera dharma  
 immovable  being  holds  of the moving  the nature
 
-(32) This wondrous tree is wholly spiritual and performs the work of all the senses. Though it is a tree and cannot move, it acts as a living, moving being.[^11]
+(32) This wondrous tree is wholly spiritual and does the work of all the senses. Though rooted like any tree, it moves and acts like a living creature.[^11]
 
 এ বৃক্ষের অঙ্গ হয় সব সচেতন ৷  
 বাড়িয়া ব্যাপিল সবে সকল ভুবন ॥ ৩৩ ॥
@@ -354,7 +354,7 @@ alone  picking up  to give  is  labour
 keha pāya, keha nā pāya, rahe mane bhrama  
 someone  gets  someone  not  gets  remains  in the mind  doubt
 
-(35) It is hard labour to pick them and give them alone, and I fear that some will receive them and some will not.
+(35) It is hard work to pick them and give them out alone, and I am left in doubt: some will receive them, and some will not.
 
 অতএব আমি আজ্ঞা দিলুঁ সবাকারে ৷  
 যাঁহা তাঁহা প্রেমফল দেহ’ যারে তারে ॥ ৩৬ ॥
@@ -394,7 +394,7 @@ therefore  all  fruits  give  to anyone
 khāiyā hauk loka ajara amare  
 eating  may become  people  ageless  immortal
 
-(39) Therefore give all the fruits to anyone and everyone. Let people eat them and be free from old age and death.
+(39) Therefore give all these fruits away to anyone, and let people eat them and be free from old age and death.
 
 জগৎ ব্যাপিয়া মোর হবে পুণ্য খ্যাতি ৷  
 সুখী হইয়া লোক মোর গাহিবেক কীর্ত্তি ॥ ৪০ ॥
@@ -404,7 +404,7 @@ the world  pervading  My  will be  holy  fame
 sukhī haiyā loka mora gāhibeka kīrti  
 happy  becoming  people  My  will sing  glory
 
-(40) My holy fame will spread through the world, and people, made happy, will sing My praises.
+(40) My holy fame will spread through the world, and people will sing My glory with joy.
 
 ভারত-ভূমিতে হৈল মনুষ্য-জন্ম যার ৷  
 জন্ম সার্থক করি’ কর পর-উপকার ॥ ৪১ ॥
@@ -496,7 +496,7 @@ whoever  wherever  there  gift  makes  the fruit of love
 phalāsvāde matta loka haila sakala  
 by tasting the fruit  intoxicated  people  became  all
 
-(48) Each branch, wherever it was, began to give away the fruit of love, and all the people who tasted it became intoxicated.[^18]
+(48) Each branch began to give away the fruit of love everywhere, and all the people who tasted it became intoxicated.[^18]
 
 মহা-মাদক প্রেমফল পেট ভরি’ খায় ৷  
 মাতিল সকল লোক — হাসে, নাচে, গায় ॥ ৪৯ ॥
