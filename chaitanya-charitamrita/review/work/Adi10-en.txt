@@ -727,7 +727,7 @@ tr: “Rāmānanda Rāya, Gopīnātha Paṭṭanāyaka, Kalānidhi, Sudhānidhi 
 ## 134
 w: these  five  sons  your —  to Me  dear ones
 w: Rāmānanda  with  My  difference of body  only
-tr: “These five sons of yours are dear to Me, and between Rāmānanda and Me the only difference is of body.”
+tr: “These five sons of yours are dear to Me, and between Rāmānanda and Me there is a difference of body alone.”
 
 ## 135–136
 w: Pratāparudra  the king,  and  the Oriya  Kṛṣṇānanda
@@ -756,7 +756,7 @@ tr: At the time of his departure both received his order, came to Nīlācala and
 ## 140
 w: of the guru  through the relation  honour  showed  to both
 w: his  order  accepting  service  gave  to both
-tr: Out of regard for their relation to His Guru the Lord honoured them both, and in obedience to his order He gave them both His service.
+tr: Out of regard for their connection with His Guru, the Lord honoured them both, yet in obedience to the Guru’s order He gave them His service.
 fn: Heading in the edition: “Honouring the relation to the Guru, and by the rule ‘the Guru’s order is not to be questioned,’ He accepted their service.”
 
 ## 141
@@ -858,7 +858,7 @@ fn: Heading in the edition: “Branch by branch and offshoot by offshoot, the co
 ## 160
 w: on each  branch  grow  millions  millions  of twigs
 w: its  disciples and their disciples,  its  smaller twigs
-tr: On every branch grow millions upon millions of twigs: its disciples and the disciples of its disciples are its smaller twigs.
+tr: Millions upon millions of twigs grow on every branch; its disciples and their disciples are its smaller twigs.
 
 ## 161
 w: all  filled  are  with flowers and fruits of love

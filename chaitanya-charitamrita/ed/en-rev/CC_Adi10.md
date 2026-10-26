@@ -1341,7 +1341,7 @@ these  five  sons  your —  to Me  dear ones
 rāmānanda saha mora deha-bheda mātra  
 Rāmānanda  with  My  difference of body  only
 
-(134) “These five sons of yours are dear to Me, and between Rāmānanda and Me the only difference is of body.”
+(134) “These five sons of yours are dear to Me, and between Rāmānanda and Me there is a difference of body alone.”
 
 প্রতাপরুদ্র রাজা, আর ওঢ়্র কৃষ্ণানন্দ ৷  
 পরমানন্দ মহাপাত্র, ওঢ়্র শিবানন্দ ॥ ১৩৫ ॥
@@ -1398,7 +1398,7 @@ of the guru  through the relation  honour  showed  to both
 tām̐ra ājñā māni’ sevā dilena dom̐hāre  
 his  order  accepting  service  gave  to both
 
-(140) Out of regard for their relation to His Guru the Lord honoured them both, and in obedience to his order He gave them both His service.[^63]
+(140) Out of regard for their connection with His Guru, the Lord honoured them both, yet in obedience to the Guru’s order He gave them His service.[^63]
 
 অঙ্গসেবা গোবিন্দেরে দিলেন ঈশ্বর ৷  
 জগন্নাথ দেখিতে আগে চলে কাশীশ্বর ॥ ১৪১ ॥
@@ -1595,7 +1595,7 @@ on each  branch  grow  millions  millions  of twigs
 tāra śiṣya-upaśiṣya, tāra upaḍāla  
 its  disciples and their disciples,  its  smaller twigs
 
-(160) On every branch grow millions upon millions of twigs: its disciples and the disciples of its disciples are its smaller twigs.
+(160) Millions upon millions of twigs grow on every branch; its disciples and their disciples are its smaller twigs.
 
 সকল ভরিয়া আছে প্রেমফুল-ফলে ৷  
 ভাসাইল ত্রিজগৎ কৃষ্ণপ্রেম-জলে ॥ ১৬১ ॥
