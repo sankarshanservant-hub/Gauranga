@@ -983,6 +983,315 @@ this  indeed  of the Gītā  the meaning  is made  proclaimed
 
 (90) Know this to be My inconceivable power.” Such is the meaning the Gītā proclaims.
 
+সেই ত’ পুরুষ যাঁর ‘অংশ’ ধরে নাম ৷  
+চৈতন্যের সঙ্গে সেই নিত্যানন্দ-রাম ॥ ৯১ ॥
+
+sei ta’ puruṣa yām̐ra ‘aṁśa’ dhare nāma  
+that  very  Puruṣa  whose  part  bears  the name  
+caitanyera saṅge sei nityānanda-rāma  
+of Caitanya  the companion  that  Nityānanda-Rāma
+
+(91) He whose part that Puruṣa is called is Nityānanda-Rāma, the companion of Caitanya.
+
+এই ত’ নবম শ্লোকের অর্থ-বিবরণ ৷  
+দশম শ্লোকের অর্থ শুন দিয়া মন ॥ ৯২ ॥
+
+ei ta’ navama ślokera artha-vivaraṇa  
+this  indeed  of the ninth  verse  of the meaning  the explanation  
+daśama ślokera artha śuna diyā mana  
+of the tenth  verse  the meaning  hear  giving  the mind
+
+(92) Such is the explanation of the ninth verse. Now hear attentively the meaning of the tenth.
+
+যস্যাংশাংশঃ শ্রীল-গর্ভোদশায়ী  
+যন্নাভ্যব্জং লোকসঙ্ঘাতনালম্ ৷  
+লোকস্রষ্টুঃ সূতিকাধামধাতু-  
+স্তং শ্রীনিত্যানন্দরামং প্রপদ্যে ॥ ৯৩ ॥
+
+yasyāṁśāṁśaḥ śrīla-garbhoda-śāyī  
+whose  part of a part  the blessed  Garbhodakaśāyī  
+yan-nābhy-abjaṁ loka-saṅghāta-nālam  
+whose  navel-lotus  of the worlds  totality  as its stem  
+loka-sraṣṭuḥ sūtikā-dhāma dhātus  
+of the creator of the worlds  of birth  the place  of Brahmā  
+taṁ śrī-nityānanda-rāmaṁ prapadye  
+to Him  Śrī  Nityānanda-Rāma  I surrender
+
+(93) “I take refuge in Śrī Nityānanda Rāma. A part of His part is the blessed Garbhodakaśāyī, whose navel-lotus, with all the worlds as its stem, is the birthplace of Brahmā, the creator of the worlds.” (diary of Svarūpa Dāmodara)[^26]
+
+সেই ত’ পুরুষ অনন্তব্রহ্মাণ্ড সৃজিয়া ৷  
+সব অণ্ডে প্রবেশিলা বহু-মূর্ত্তি হঞা ॥ ৯৪ ॥
+
+sei ta’ puruṣa ananta-brahmāṇḍa sṛjiyā  
+that  very  Puruṣa  endless universes  having created  
+saba aṇḍe praveśilā bahu-mūrti hañā  
+into all  universes  entered  many  forms  becoming
+
+(94) Having created endless universes, that Puruṣa entered them all, becoming many forms.
+
+ভিতরে প্রবেশি’ দেখে সব অন্ধকার ৷  
+রহিতে নাহিক স্থান করিল বিচার ॥ ৯৫ ॥
+
+bhitare praveśi’ dekhe saba andhakāra  
+within  having entered  sees  all  darkness  
+rahite nāhika sthāna karila vicāra  
+to stay  there is no  place  made  reflection
+
+(95) Entering, He saw only darkness everywhere, and finding no place to stay, He reflected.
+
+নিজাঙ্গ-স্বেদজল করিল সৃজন ৷  
+সেই জলে কৈল অর্দ্ধ-ব্রহ্মাণ্ড ভরণ ॥ ৯৬ ॥
+
+nijāṅga-sveda-jala karila sṛjana  
+of His own body  the sweat-water  made  creation  
+sei jale kaila ardha-brahmāṇḍa bharaṇa  
+with that  water  made  half the universe  filling
+
+(96) From the perspiration of His own body He created water and with it filled half the universe.
+
+ব্রহ্মাণ্ড-প্রমাণ পঞ্চাশৎকোটি-যোজন ৷  
+আয়াম, বিস্তার, দুই হয় এক সম ॥ ৯৭ ॥
+
+brahmāṇḍa-pramāṇa pañcāśat-koṭi-yojana  
+of the universe  the measure  fifty  crores  of yojanas  
+āyāma, vistāra, dui haya eka sama  
+length  breadth  the two  are  one  equal
+
+(97) The universe measures fifty crores of yojanas, equal in length and breadth.
+
+জলে ভরি’ অর্দ্ধ তাঁহা কৈল নিজ-বাস ৷  
+আর অর্দ্ধে কৈল চৌদ্দভুবন প্রকাশ ॥ ৯৮ ॥
+
+jale bhari’ ardha tām̐hā kaila nija-vāsa  
+with water  filling  half  there  made  His own  dwelling  
+āra ardhe kaila caudda-bhuvana prakāśa  
+the other  in the half  made  of the fourteen worlds  manifestation
+
+(98) Filling half with water, He made His dwelling there; in the other half He manifested the fourteen worlds.
+
+তাঁহাই প্রকট কৈল বৈকুণ্ঠ নিজ-ধাম ৷  
+শেষ-শয়ন-জলে করিল বিশ্রাম ॥ ৯৯ ॥
+
+tām̐hāi prakaṭa kaila vaikuṇṭha nija-dhāma  
+there  manifest  made  Vaikuṇṭha  His own  abode  
+śeṣa-śayana-jale karila viśrāma  
+Śeṣa  as bed  on the water  made  rest
+
+(99) There He manifested Vaikuṇṭha, His own abode, and rested on the water with Śeṣa as His bed.
+
+অনন্তশয়্যাতে তাঁহা করিল শয়ন ৷  
+সহস্র মস্তক তাঁর সহস্র বদন ॥ ১০০ ॥
+
+সহস্র-চরণ-হস্ত, সহস্র-নয়ন ৷  
+সর্ব্ব-অবতার-বীজ, জগৎ-কারণ ॥ ১০১ ॥
+
+ananta-śayyāte tām̐hā karila śayana  
+on Ananta  the bed  there  made  lying down  
+sahasra mastaka tām̐ra sahasra vadana  
+a thousand  heads  His  a thousand  faces  
+sahasra-caraṇa-hasta, sahasra-nayana  
+a thousand  feet  hands  a thousand  eyes  
+sarva-avatāra-bīja, jagat-kāraṇa  
+of all  avatāras  the seed  of the world  the cause
+
+(100–101) There He lay on Ananta as His bed. He has a thousand heads and a thousand faces, a thousand feet and hands and a thousand eyes. He is the seed of all avatāras and the cause of the world.[^27]
+
+তাঁর নাভিপদ্ম হৈতে উঠিল এক পদ্ম ৷  
+সেই পদ্মে হৈল ব্রহ্মার জন্ম-সদ্ম ॥ ১০২ ॥
+
+tām̐ra nābhi-padma haite uṭhila eka padma  
+His  from the navel-lotus  arose  one  lotus  
+sei padme haila brahmāra janma-sadma  
+that  lotus  became  of Brahmā  birth  the abode
+
+(102) From His navel-lotus a lotus arose, and that lotus became the birthplace of Brahmā.
+
+সেই পদ্মনালে হৈল চৌদ্দভুবন ৷  
+তেঁহো ব্রহ্মা হঞা সৃষ্টি করিল সৃজন ॥ ১০৩ ॥
+
+sei padma-nāle haila caudda-bhuvana  
+in that  lotus  stem  came to be  the fourteen  worlds  
+tem̐ho brahmā hañā sṛṣṭi karila sṛjana  
+He  Brahmā  becoming  creation  made  bringing forth
+
+(103) In the stem of that lotus the fourteen worlds came to be, and He, becoming Brahmā, brought forth the creation.
+
+বিষ্ণুরূপ হঞা করে জগৎ পালনে ৷  
+গুণাতীত-বিষ্ণু স্পর্শ নাহি মায়া-গুণে ॥ ১০৪ ॥
+
+viṣṇu-rūpa hañā kare jagat pālane  
+Viṣṇu’s  form  taking  makes  of the world  maintenance  
+guṇātīta-viṣṇu sparśa nāhi māyā-guṇe  
+beyond the guṇas  Viṣṇu  touch  there is no  of māyā  with the guṇas
+
+(104) Taking the form of Viṣṇu, He maintains the world. Viṣṇu is beyond the guṇas; the guṇas of māyā never touch Him.
+
+রুদ্ররূপ ধরি’ করে জগৎ সংহার ৷  
+সৃষ্টি-স্থিতি-প্রলয় — ইচ্ছায় যাঁহার ॥ ১০৫ ॥
+
+rudra-rūpa dhari’ kare jagat saṁhāra  
+Rudra’s  form  assuming  makes  of the world  destruction  
+sṛṣṭi-sthiti-pralaya — icchāya yām̐hāra  
+creation  maintenance  dissolution  by the will  of whom
+
+(105) Assuming the form of Rudra, He destroys the world. Creation, maintenance and dissolution all take place by His will.
+
+হিরণ্যগর্ভ, অন্তর্য্যামী, জগৎ-কারণ ৷  
+যাঁর অংশে করি’ করে বিরাট-কল্পন ॥ ১০৬ ॥
+
+hiraṇya-garbha, antaryāmī, jagat-kāraṇa  
+Hiraṇyagarbha  the Indweller  of the world  the cause  
+yām̐ra aṁśe kari’ kare virāṭa-kalpana  
+whom  as a part  considering  make  of the universal form  the conception
+
+(106) He is Hiraṇyagarbha, the Indweller, the cause of the world; and it is a part of Him that is conceived as the universal form (*virāṭ*).
+
+হেন নারায়ণ, — যাঁর অংশের অংশ ৷  
+সেই প্রভু নিত্যানন্দ — সর্ব্ব-অবতংস ॥ ১০৭ ॥
+
+hena nārāyaṇa, — yām̐ra aṁśera aṁśa  
+such  Nārāyaṇa  of whose  part  a part  
+sei prabhu nityānanda — sarva-avataṁsa  
+that  Lord  Nityānanda  of all  the crown
+
+(107) He of whose part such a Nārāyaṇa is a part is that Lord Nityānanda, the crown of all avatāras.
+
+দশম শ্লোকের অর্থ কৈল বিবরণ ৷  
+একাদশ শ্লোকের অর্থ শুন দিয়া মন ॥ ১০৮ ॥
+
+daśama ślokera artha kaila vivaraṇa  
+of the tenth  verse  the meaning  I made  explanation  
+ekādaśa ślokera artha śuna diyā mana  
+of the eleventh  verse  the meaning  hear  giving  the mind
+
+(108) I have explained the meaning of the tenth verse; now hear attentively the meaning of the eleventh.
+
+যস্যাংশাংশাংশঃ পরাত্মাখিলানাং  
+পোষ্টা বিষ্ণুর্ভাতি দুগ্ধাব্ধিশায়ী ৷  
+ক্ষৌণীভর্ত্তা যৎকলা সোঽপ্যনন্ত-  
+স্তং শ্রীনিত্যানন্দরামং প্রপদ্যে ॥ ১০৯ ॥
+
+yasyāṁśāṁśāṁśaḥ parātmākhilānāṁ  
+whose  part of a part of a part  the Supersoul  of all  
+poṣṭā viṣṇur bhāti dugdhābdhi-śāyī  
+the maintainer  Viṣṇu  appears  lying on the Ocean of Milk  
+kṣauṇī-bhartā yat-kalā so ’py anantas  
+of the earth  the upholder  whose part  He  also  Ananta  
+taṁ śrī-nityānanda-rāmaṁ prapadye  
+to Him  Śrī  Nityānanda-Rāma  I surrender
+
+(109) “I take refuge in Śrī Nityānanda Rāma. A part of a part of His part is Viṣṇu who lies on the Ocean of Milk, the Supersoul and maintainer of all beings; and Ananta, who upholds the earth, is a portion of that Viṣṇu.” (diary of Svarūpa Dāmodara)[^28]
+
+নারায়ণের নাভিনাল-মধ্যেতে ধরণী ৷  
+ধরণীর মধ্যে সপ্ত সমুদ্র যে গণি ॥ ১১০ ॥
+
+nārāyaṇera nābhi-nāla-madhyete dharaṇī  
+of Nārāyaṇa  navel  stem  within  the earth  
+dharaṇīra madhye sapta samudra ye gaṇi  
+of the earth  within  seven  oceans  which  are counted
+
+(110) Within the stem of Nārāyaṇa’s navel-lotus is the earth, and within the earth are counted seven oceans.[^29]
+
+তাঁহা ক্ষীরোদধি-মধ্যে ‘শ্বেতদ্বীপ’ নাম ৷  
+পালয়িতা বিষ্ণু, — তাঁর সেই নিজ ধাম ॥ ১১১ ॥
+
+tām̐hā kṣīrodadhi-madhye ‘śvetadvīpa’ nāma  
+there  of the Milk Ocean  in the midst  Śvetadvīpa  named  
+pālayitā viṣṇu, — tām̐ra sei nija dhāma  
+the maintainer  Viṣṇu  His  that  own  abode
+
+(111) There, in the midst of the Ocean of Milk, is the island called Śvetadvīpa, the abode of Viṣṇu the maintainer.
+
+সকল জীবের তিঁহো হয়ে অন্তর্য্যামী ৷  
+জগৎ-পালক তিঁহো জগতের স্বামী ॥ ১১২ ॥
+
+sakala jīvera tim̐ho haye antaryāmī  
+of all  beings  He  is  the Indweller  
+jagat-pālaka tim̐ho jagatera svāmī  
+of the world  the maintainer  He  of the world  the master
+
+(112) He is the Indweller of all beings, the maintainer of the world and its master.
+
+যুগ-মন্বন্তরে ধরি’ নানা অবতার ৷  
+ধর্ম্ম সংস্থাপন করে, অধর্ম্ম সংহার ॥ ১১৩ ॥
+
+yuga-manvantare dhari’ nānā avatāra  
+in the yugas  manvantaras  taking  many  avatāras  
+dharma saṁsthāpana kare, adharma saṁhāra  
+of dharma  establishing  makes  of adharma  destruction
+
+(113) In each yuga and manvantara He takes many avatāras, establishing dharma and destroying adharma.
+
+দেবগণে না পায় যাঁহার দরশন ৷  
+ক্ষীরোদকতীরে যাই’ করেন স্তবন ॥ ১১৪ ॥
+
+deva-gaṇe nā pāya yām̐hāra daraśana  
+the gods  not  obtain  whose  sight  
+kṣīrodaka-tīre yāi’ karena stavana  
+of the Milk Ocean  to the shore  going  make  praise
+
+(114) Even the gods cannot see Him; they go to the shore of the Ocean of Milk and offer Him prayers.
+
+তবে অবতরি’ করে জগৎ পালন ৷  
+অনন্ত বৈভব তাঁর নাহিক গণন ॥ ১১৫ ॥
+
+tabe avatari’ kare jagat pālana  
+then  descending  makes  of the world  protection  
+ananta vaibhava tām̐ra nāhika gaṇana  
+endless  splendour  His  there is no  counting
+
+(115) Then He descends and protects the world. His splendour is endless, beyond all counting.
+
+সেই বিষ্ণু হয় যাঁর অংশাংশের অংশ ৷  
+সেই প্রভু নিত্যানন্দ — সর্ব্ব-অবতংস ॥ ১১৬ ॥
+
+sei viṣṇu haya yām̐ra aṁśāṁśera aṁśa  
+that  Viṣṇu  is  of whose  part of a part  a part  
+sei prabhu nityānanda — sarva-avataṁsa  
+that  Lord  Nityānanda  of all  the crown
+
+(116) He of whose part’s part that Viṣṇu is a part is that Lord Nityānanda, the crown of all avatāras.
+
+সেই বিষ্ণু ‘শেষ’ রূপে ধরেন ধরণী ৷  
+কাঁহা আছে মহী, শিরে, হেন নাহি জানি ॥ ১১৭ ॥
+
+sei viṣṇu ‘śeṣa’ rūpe dharena dharaṇī  
+that  Viṣṇu  Śeṣa  in the form  holds  the earth  
+kām̐hā āche mahī, śire, hena nāhi jāni  
+where  is  the earth  on the head  this  not  knows
+
+(117) That Viṣṇu, in the form of Śeṣa, holds the earth, and does not even know where on His heads it lies.
+
+সহস্র বিস্তীর্ণ যাঁর ফণার মণ্ডল ৷  
+সূর্য্য জিনি’ মণিগণ করে ঝলমল ॥ ১১৮ ॥
+
+sahasra vistīrṇa yām̐ra phaṇāra maṇḍala  
+a thousand  broad  whose  of hoods  the circle  
+sūrya jini’ maṇi-gaṇa kare jhala-mala  
+the sun  surpassing  gems  multitude  make  glittering
+
+(118) On the circle of His thousand broad hoods hosts of gems glitter, outshining the sun.
+
+পঞ্চাশৎকোটি-যোজন পৃথিবী বিস্তার ৷  
+যাঁর একফণে রহে সর্ষপ-আকার ॥ ১১৯ ॥
+
+pañcāśat-koṭi-yojana pṛthivī vistāra  
+fifty  crores  of yojanas  the earth’s  extent  
+yām̐ra eka-phaṇe rahe sarṣapa-ākāra  
+whose  on one hood  remains  of a mustard seed  the size
+
+(119) The earth, fifty crores of yojanas wide, rests on one of His hoods like a mustard seed.
+
+সেই ত’ ‘অনন্ত’ ‘শেষ’ — ভক্ত-অবতার ৷  
+ঈশ্বরের সেবা বিনা নাহি জানে আর ॥ ১২০ ॥
+
+sei ta’ ‘ananta’ ‘śeṣa’ — bhakta-avatāra  
+that  very  Ananta  Śeṣa  devotee  avatāra  
+īśvarera sevā vinā nāhi jāne āra  
+of the Lord  service  except  not  knows  other
+
+(120) That Ananta Śeṣa is an avatāra in the form of a devotee; He knows nothing but service to the Lord.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -1034,3 +1343,11 @@ this  indeed  of the Gītā  the meaning  is made  proclaimed
 [^24]: *Anubhāṣya*: Bhagavān here is Mahā-Saṅkarṣaṇa; “the mahat and the rest” are the mahat, false ego, the five great elements, the eleven senses and the five *tanmātras*; the sixteen *kalās* are the fullness of power for creation — in the *Laghu-bhāgavatāmṛta*, Śrī, Bhū, Kīrti, Ilā, Līlā, Kānti, Vidyā and nine potencies headed by Vimalā.
 
 [^25]: The same verse as Ādi 2.55.
+
+[^26]: The same verse as Ādi 1.10. *Anubhāṣya*: Garbhodakaśāyī is the second Puruṣa; the stem of the lotus is the support of the fourteen worlds; the lotus is the birthplace of Brahmā.
+
+[^27]: *Anubhāṣya* cites the *Bhāgavatam* (1.3.4) and the Puruṣa-sūkta (“The Puruṣa has a thousand heads, a thousand eyes, a thousand feet”): the thousand-headed one is Garbhodakaśāyī Himself, not Ananta on whom He lies. The edition’s heading to 5.101: “He who is praised in the Puruṣa-sūkta of the Ṛg-veda.”
+
+[^28]: The same verse as Ādi 1.11. *Anubhāṣya*: Ananta, the upholder of the earth, is a *kalā* of Kṣīrodakaśāyī, a part of His part.
+
+[^29]: *Anubhāṣya* (after the *Siddhānta-śiromaṇi*): the seven oceans are of salt water, milk, curd, ghee, sugar-cane juice, wine and fresh water; south of the salt ocean is the Ocean of Milk, where Vāsudeva dwells.
