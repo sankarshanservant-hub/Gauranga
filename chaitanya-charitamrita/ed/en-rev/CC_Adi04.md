@@ -1304,7 +1304,7 @@ always  Me  various  in dances  makes dance  unprecedented
 
 কস্মাদ্বৃন্দে প্রিয়সখি হরেঃ পাদমূলাৎ কুতোঽসৌ  
 কুণ্ডারণ্যে কিমিহ কুরুতে নৃত্যশিক্ষাং গুরুঃ কঃ ৷  
-তং ত্বন্মূর্ত্তিঃ প্রতিতরুলতং দিগ্বিদিক্ষু স্ফুরন্তী  
+তং ত্বন্মূর্ত্তিঃ প্রতিতরুলতাং দিগ্বিদিক্ষু স্ফুরন্তী  
 শৈলূষীব ভ্রমতি পরিতো নর্ত্তয়ন্তী স্বপশ্চাৎ ॥ ১২৫ ॥
 
 kasmād vṛnde priya-sakhi hareḥ pāda-mūlāt kuto ’sau  
@@ -1714,6 +1714,452 @@ of Caitanya Gosāñi  he  the very  heart  since
 
 (161) If anyone else knows it, he knows it from him, for he is the very heart of Caitanya Gosāñi.
 
+গোপীগণের প্রেমের ‘রূঢ়ভাব’ নাম ৷  
+বিশুদ্ধ নির্ম্মল প্রেম, কভু নহে কাম ॥ ১৬২ ॥
+
+gopī-gaṇera premera ‘rūḍha-bhāva’ nāma  
+of the gopīs  of the love  ‘rūḍha-bhāva’  the name  
+viśuddha nirmala prema, kabhu nahe kāma  
+most pure  spotless  love  ever  is not  lust
+
+(162) The love of the gopīs is called *rūḍha-bhāva*. It is pure and spotless prema, never lust (*kāma*).[^115]
+
+প্রেমৈব গোপরামানাং কাম ইত্যগমৎ প্রথাম্ ৷  
+ইত্যুদ্ধবাদয়োঽপ্যেতং বাঞ্ছন্তি ভগবৎপ্রিয়াঃ ॥ ১৬৩ ॥
+
+premaiva gopa-rāmānāṁ  
+love itself  of the cowherd women  
+kāma ity agamat prathām  
+as kāma  so  attained  fame  
+ity uddhavādayo ’py etaṁ  
+therefore  Uddhava and others  even  it  
+vāñchanti bhagavat-priyāḥ  
+desire  dear to the Lord
+
+(163) “The love of the cowherd women alone, though it is prema, became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)[^116]
+
+কাম, প্রেম, — দোঁহাকার বিভিন্ন লক্ষণ ৷  
+লৌহ আর হেম যৈছে স্বরূপে বিলক্ষণ ॥ ১৬৪ ॥
+
+kāma, prema, — dom̐hākāra vibhinna lakṣaṇa  
+lust  love  of the two  different  characteristics  
+lauha āra hema yaiche svarūpe vilakṣaṇa  
+iron  and  gold  as  in nature  distinct
+
+(164) Lust and love have different characteristics, as iron and gold differ in their very nature.[^117]
+
+আত্মেন্দ্রিয়প্রীতি-বাঞ্ছা — তারে বলি ‘কাম’ ৷  
+কৃষ্ণেন্দ্রিয়প্রীতি-ইচ্ছা ধরে ‘প্রেম’ নাম ॥ ১৬৫ ॥
+
+ātmendriya-prīti-vāñchā — tāre bali ‘kāma’  
+of one’s own senses  of pleasure  the desire  that  I call  ‘lust’  
+kṛṣṇendriya-prīti-icchā dhare ‘prema’ nāma  
+of Kṛṣṇa’s senses  of pleasure  the wish  bears  ‘love’  the name
+
+(165) The desire to please one’s own senses I call lust (*kāma*); the wish to please Kṛṣṇa’s senses bears the name of prema.[^118]
+
+কামের তাৎপর্য্য — নিজ সম্ভোগ কেবল ৷  
+কৃষ্ণসুখ তাৎপর্য্য মাত্র প্রেম ত’ প্রবল ॥ ১৬৬ ॥
+
+kāmera tātparya — nija sambhoga kevala  
+of lust  the aim  one’s own  enjoyment  only  
+kṛṣṇa-sukha tātparya mātra prema ta’ prabala  
+Kṛṣṇa’s  happiness  the aim  only  love  indeed  mighty
+
+(166) The aim of lust is only one’s own enjoyment; the aim of love is only Kṛṣṇa’s happiness, and so love is mighty.[^119]
+
+লোকধর্ম্ম, বেদধর্ম্ম, দেহধর্ম্ম, কর্ম্ম ৷  
+লজ্জা, ধৈর্য্য, দেহসুখ, আত্মসুখ-মর্ম্ম ॥ ১৬৭ ॥
+
+দুস্ত্যজ্য আর্য্যপথ, নিজ পরিজন ৷  
+স্বজনে করয়ে যত তাড়ন-ভর্ৎসন ॥ ১৬৮ ॥
+
+সর্ব্বত্যাগ করি’ করে কৃষ্ণের ভজন ৷  
+কৃষ্ণসুখহেতু করে প্রেম-সেবন ॥ ১৬৯ ॥
+
+loka-dharma, veda-dharma, deha-dharma, karma  
+social custom  Vedic dharma  bodily needs  work  
+lajjā, dhairya, deha-sukha, ātma-sukha-marma  
+shame  patience  bodily pleasure  of self-happiness  the essence  
+dustyajya ārya-patha, nija parijana  
+hard to give up  the path of the noble  own  family  
+sva-jane karaye yata tāḍana-bhartsana  
+the relatives  make  whatever  beating  rebuke  
+sarva-tyāga kari’ kare kṛṣṇera bhajana  
+of all  renunciation  making  they make  of Kṛṣṇa  worship  
+kṛṣṇa-sukha-hetu kare prema-sevana  
+of Kṛṣṇa’s  happiness  for the sake  they make  loving  service
+
+(167–169) Social custom and Vedic religion, the needs of the body and their duties, shame and restraint, bodily pleasure and the very core of their own happiness, the path of the noble (*ārya-patha*), so hard to give up, their own families, and all the beatings and rebukes of their kin — giving up all this, they worship Kṛṣṇa, and render loving service for His happiness alone.[^120]
+
+ইহাকে কহিয়ে কৃষ্ণে দৃঢ় অনুরাগ ৷  
+স্বচ্ছ ধৌতবস্ত্রে যৈছে নাহি কোন দাগ ॥ ১৭০ ॥
+
+ihāke kahiye kṛṣṇe dṛḍha anurāga  
+this  they call  for Kṛṣṇa  firm  attachment  
+svaccha dhauta-vastre yaiche nāhi kona dāga  
+clean  washed  on cloth  as  there is not  any  stain
+
+(170) This is called firm attachment (*anurāga*) to Kṛṣṇa: it is as clean as washed cloth without a single stain.
+
+অতএব কাম-প্রেমে বহুত অন্তর ৷  
+কাম — অন্ধতমঃ, প্রেম — নির্ম্মল ভাস্কর ॥ ১৭১ ॥
+
+ataeva kāma-preme bahuta antara  
+therefore  between lust and love  great  difference  
+kāma — andha-tamaḥ, prema — nirmala bhāskara  
+lust  blind darkness  love  the spotless  sun
+
+(171) Therefore there is a vast difference between lust and love: lust is blind darkness, and love the spotless sun.[^121]
+
+অতএব গোপীগণের নাহি কামগন্ধ ৷  
+কৃষ্ণসুখ লাগি মাত্র, কৃষ্ণ সে সম্বন্ধ ॥ ১৭২ ॥
+
+ataeva gopī-gaṇera nāhi kāma-gandha  
+therefore  of the gopīs  there is not  of lust  the scent  
+kṛṣṇa-sukha lāgi mātra, kṛṣṇa se sambandha  
+of Kṛṣṇa’s  happiness  for the sake  only  with Kṛṣṇa  that  relation
+
+(172) Therefore in the gopīs there is not even a trace of lust; their bond with Kṛṣṇa is for His happiness alone.[^122]
+
+যত্তে সুজাতচরণাম্বুরুহং স্তনেষু  
+ভীতাঃ শনৈঃ প্রিয় দধীমহি কর্ক্কশেষু ৷  
+তেনাটবীমটসি তদ্ব্যথতে ন কিংস্বিৎ  
+কূর্পাদিভির্ভ্রমতি ধীর্ভবদায়ুষাং নঃ ॥ ১৭৩ ॥
+
+yat te sujāta-caraṇāmburuhaṁ staneṣu  
+which  Your  tender  lotus feet  on the breasts  
+bhītāḥ śanaiḥ priya dadhīmahi karkaśeṣu  
+fearful  gently  O dear  we place  hard  
+tenāṭavīm aṭasi tad vyathate na kiṁ svit  
+with them  the forest  You wander  they  are pained  not  whether  
+kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ  
+by fine stones and such  whirls  the mind  of whom You are the life  our
+
+(173) “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam, 10.31.19)[^123]
+
+আত্ম-সুখ-দুঃখে গোপীর নাহিক বিচার ৷  
+কৃষ্ণসুখহেতু করে সব ব্যবহার ॥ ১৭৪ ॥
+
+ātma-sukha-duḥkhe gopīra nāhika vicāra  
+of one’s own  happiness  sorrow  of the gopīs  there is not  consideration  
+kṛṣṇa-sukha-hetu kare saba vyavahāra  
+of Kṛṣṇa’s  happiness  for the sake  they do  all  actions
+
+(174) The gopīs give no thought to their own happiness or sorrow; all they do is for Kṛṣṇa’s happiness.[^124]
+
+কৃষ্ণলাগি’ আর সব করি’ পরিত্যাগ ৷  
+কৃষ্ণসুখহেতু করে শুদ্ধ অনুরাগ ॥ ১৭৫ ॥
+
+kṛṣṇa-lāgi’ āra saba kari’ parityāga  
+for Kṛṣṇa  the rest  all  making  renunciation  
+kṛṣṇa-sukha-hetu kare śuddha anurāga  
+of Kṛṣṇa’s  happiness  for the sake  they make  pure  attachment
+
+(175) For Kṛṣṇa they have given up everything else, and their pure attachment is for His happiness alone.
+
+এবং মদর্থোজ্ঝিতলোকবেদ-  
+স্বানাং হি বো ময়্যনুবৃত্তয়েঽবলাঃ ৷  
+ময়া পরোক্ষং ভজতা তিরোহিতং  
+মাসূয়িতুং মার্হথ তৎ প্রিয়ং প্রিয়াঃ ॥ ১৭৬ ॥
+
+evaṁ mad-arthojjhita-loka-veda-  
+thus  for My sake  having abandoned  social  Vedic (law)  
+svānāṁ hi vo mayy anuvṛttaye ’balāḥ  
+and kinsmen  indeed  of you  to Me  for the attachment  O weak ones  
+mayā parokṣaṁ bhajatā tirohitaṁ  
+by Me  invisibly  loving  disappeared  
+māsūyituṁ mārhatha tat priyaṁ priyāḥ  
+Me  to blame  you should not  that  dear one  O dear ones
+
+(176) “O dear ones, O tender ones! For My sake you have abandoned the laws of society and of the Vedas, and even your kinsmen. I disappeared only that your love for Me might grow still stronger — yet even unseen I went on loving you. So, beloved ones, do not be displeased with Him who is dear to you.” (Śrīmad-Bhāgavatam, 10.32.21)[^125]
+
+কৃষ্ণের প্রতিজ্ঞা এক আছে পূর্ব্ব হৈতে ৷  
+যে যৈছে ভজে, কৃষ্ণ তারে ভজে তৈছে ॥ ১৭৭ ॥
+
+kṛṣṇera pratijñā eka āche pūrva haite  
+Kṛṣṇa’s  promise  one  there is  from before  
+ye yaiche bhaje, kṛṣṇa tāre bhaje taiche  
+who  as  worships  Kṛṣṇa  him  worships  so
+
+(177) Kṛṣṇa has a promise from of old: as one worships Him, so does He reciprocate.[^126]
+
+যে যথা মাং প্রপদ্যন্তে তাংস্তথৈব ভজাম্যহম্ ৷  
+মম বর্ত্মানুবর্ত্তন্তে মনুষ্যাঃ পার্থ সর্ব্বশঃ ॥ ১৭৮ ॥
+
+ye yathā māṁ prapadyante  
+who  as  to Me  surrender  
+tāṁs tathaiva bhajāmy aham  
+them  in that same way  I reward  I  
+mama vartmānuvartante  
+My  path  follow  
+manuṣyāḥ pārtha sarvaśaḥ  
+men  O Pārtha  in every way
+
+(178) “As people surrender to Me, so do I reward them. O Pārtha, all men follow My path in every way.” (Bhagavad-gītā, 4.11)[^127]
+
+সে প্রতিজ্ঞা ভঙ্গ হৈল গোপীর ভজনে ৷  
+তাহাতে প্রমাণ কৃষ্ণ-শ্রীমুখবচনে ॥ ১৭৯ ॥
+
+se pratijñā bhaṅga haila gopīra bhajane  
+that  promise  broken  was  by the gopīs’  worship  
+tāhāte pramāṇa kṛṣṇa-śrī-mukha-vacane  
+of that  the proof  in Kṛṣṇa’s  holy mouth’s  words
+
+(179) That promise was broken by the gopīs’ worship, and the proof is in Kṛṣṇa’s own words:[^128]
+
+ন পারয়েঽহং নিরবদ্যসংয়ুজাং  
+স্বসাধুকৃত্যং বিবুধায়ুষাপি বঃ ৷  
+যা মাভজন্ দুর্জ্জয়গেহশৃঙ্খলাঃ  
+সংবৃশ্চ্য তদ্বঃ প্রতিযাতু সাধুনা ॥ ১৮০ ॥
+
+na pāraye ’haṁ niravadya-saṁyujāṁ  
+not  am able  I  of the faultlessly united  
+sva-sādhu-kṛtyaṁ vibudhāyuṣāpi vaḥ  
+own good deed  in a god’s lifetime  even  to you  
+yā mābhajan durjaya-geha-śṛṅkhalāḥ  
+who  Me  worshipped  hard to conquer  of home  the fetters  
+saṁvṛścya tad vaḥ pratiyātu sādhunā  
+completely cutting  that  your  let it be requited  by the good deed
+
+(180) “O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.” (Śrīmad-Bhāgavatam, 10.32.22)[^129]
+
+তবে যে দেখিয়ে গোপীর নিজদেহে প্রীত ৷  
+সেহো ত’ কৃষ্ণের লাগি, জানিহ নিশ্চিত ॥ ১৮১ ॥
+
+tabe ye dekhiye gopīra nija-dehe prīta  
+then  that  we see  of the gopīs  for their own body  love  
+seho ta’ kṛṣṇera lāgi, jāniha niścita  
+that  indeed  of Kṛṣṇa  for the sake  know  certainly
+
+(181) And if we see that the gopīs care for their own bodies, know for certain that this too is for Kṛṣṇa.[^130]
+
+এই দেহ কৈলুঁ আমি কৃষ্ণে সমর্পণ ৷  
+তাঁর ধন তাঁর এই সম্ভোগ-কারণ ॥ ১৮২ ॥
+
+ei deha kailum̐ āmi kṛṣṇe samarpaṇa  
+this  body  have made  I  to Kṛṣṇa  offering  
+tām̐ra dhana tām̐ra ei sambhoga-kāraṇa  
+His  property  His  this  of enjoyment  the means
+
+(182) “This body I have offered to Kṛṣṇa. It is His property, the means of His enjoyment.
+
+এদেহ-দর্শন-স্পর্শে কৃষ্ণ-সন্তোষণ ৷  
+এই লাগি’ করে অঙ্গের মার্জ্জন-ভূষণ ॥ ১৮৩ ॥
+
+edeha-darśana-sparśe kṛṣṇa-santoṣaṇa  
+of this body  by seeing  touching  Kṛṣṇa’s  pleasure  
+ei lāgi’ kare aṅgera mārjana-bhūṣaṇa  
+for this  sake  they make  of the body  cleansing  adorning
+
+(183) Seeing and touching this body gives Kṛṣṇa pleasure.” For this reason they cleanse and adorn their bodies.
+
+নিজাঙ্গমপি যা গোপ্যো মমেতি সমুপাসতে ৷  
+তাভ্যঃ পরং ন মে পার্থ নিগূঢ়প্রেমভাজনম্ ॥ ১৮৪ ॥
+
+nijāṅgam api yā gopyo  
+own body  even  who  the gopīs  
+mameti samupāsate  
+as Mine  so  carefully tend  
+tābhyaḥ paraṁ na me pārtha  
+than them  higher  not  of Me  O Pārtha  
+nigūḍha-prema-bhājanam  
+of hidden  love  the vessel
+
+(184) “O Pārtha, the gopīs tend even their own bodies, for they regard them as Mine. No one is so secretly dear to Me as they are.” (Ādi Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 40)[^131]
+
+আর এক অদ্ভুত গোপীভাবের স্বভাব ৷  
+বুদ্ধির গোচর নহে যাহার প্রভাব ॥ ১৮৫ ॥
+
+āra eka adbhuta gopī-bhāvera svabhāva  
+yet  one  wondrous  of the gopīs’ mood  the nature  
+buddhira gocara nahe yāhāra prabhāva  
+of the intellect  in the range  is not  of which  the power
+
+(185) There is another wondrous trait of the gopīs’ love, whose power lies beyond the reach of the intellect.[^132]
+
+গোপীগণ করেন যবে কৃষ্ণ দরশন ৷  
+সুখবাঞ্ছা নাহি, সুখ হয় কোটিগুণ ॥ ১৮৬ ॥
+
+gopī-gaṇa karena yabe kṛṣṇa daraśana  
+the gopīs  make  when  of Kṛṣṇa  the sight  
+sukha-vāñchā nāhi, sukha haya koṭi-guṇa  
+of happiness  the desire  there is not  happiness  becomes  ten million times
+
+(186) When the gopīs see Kṛṣṇa, they have no desire for happiness, and yet their happiness grows ten million times.
+
+গোপিকা-দর্শনে কৃষ্ণের যে আনন্দ হয় ৷  
+তাহা হৈতে কোটিগুণ গোপী আস্বাদয় ॥ ১৮৭ ॥
+
+gopikā-darśane kṛṣṇera ye ānanda haya  
+on seeing the gopīs  of Kṛṣṇa  which  joy  is  
+tāhā haite koṭi-guṇa gopī āsvādaya  
+that  than  ten million times  the gopīs  taste
+
+(187) The joy Kṛṣṇa feels on seeing the gopīs — the gopīs taste ten million times more.
+
+তাঁ-সবার নাহি নিজসুখ-অনুরোধ ৷  
+তথাপি বাঢ়য়ে সুখ, পড়িল বিরোধ ॥ ১৮৮ ॥
+
+tām̐-sabāra nāhi nija-sukha-anurodha  
+of them all  there is not  own happiness  the concern  
+tathāpi bāḍhaye sukha, paḍila virodha  
+still  grows  happiness  arose  a contradiction
+
+(188) They have no concern for their own happiness, and still their happiness grows — here is a contradiction.
+
+এ বিরোধের এক মাত্র দেখি সমাধান ৷  
+গোপিকার সুখে কৃষ্ণসুখ-পর্য্যবসান ॥ ১৮৯ ॥
+
+e virodhera eka mātra dekhi samādhāna  
+of this  contradiction  one  only  I see  solution  
+gopikāra sukhe kṛṣṇa-sukha-paryavasāna  
+of the gopīs  in the happiness  in Kṛṣṇa’s happiness  the culmination
+
+(189) I see only one solution to this contradiction: the gopīs’ happiness finds its fulfilment in Kṛṣṇa’s happiness.[^133]
+
+গোপিকা-দর্শনে কৃষ্ণের বাঢ়ে প্রফুল্লতা ৷  
+সে মাধুর্য্য বাঢ়ে যার নাহিক সমতা ॥ ১৯০ ॥
+
+gopikā-darśane kṛṣṇera bāḍhe praphullatā  
+on seeing the gopīs  of Kṛṣṇa  grows  delight  
+se mādhurya bāḍhe yāra nāhika samatā  
+that  sweetness  grows  of which  there is not  equal
+
+(190) On seeing the gopīs Kṛṣṇa’s delight grows, and His sweetness, which has no equal, grows too.
+
+আমার দর্শনে কৃষ্ণ পাইল এত সুখ ৷  
+এই সুখে গোপীর প্রফুল্ল অঙ্গমুখ ॥ ১৯১ ॥
+
+āmāra darśane kṛṣṇa pāila eta sukha  
+me  on seeing  Kṛṣṇa  received  so much  happiness  
+ei sukhe gopīra praphulla aṅga-mukha  
+by this  happiness  of the gopīs  blossom  bodies  faces
+
+(191) “On seeing me Kṛṣṇa felt such happiness!” — with this happiness the gopīs’ faces and bodies blossom.
+
+গোপী-শোভা দেখি’ কৃষ্ণের শোভা বাঢ়ে যত ৷  
+কৃষ্ণ-শোভা দেখি’ গোপীর শোভা বাঢ়ে তত ॥ ১৯২ ॥
+
+gopī-śobhā dekhi’ kṛṣṇera śobhā bāḍhe yata  
+the gopīs’ beauty  seeing  of Kṛṣṇa  the beauty  grows  as much  
+kṛṣṇa-śobhā dekhi’ gopīra śobhā bāḍhe tata  
+Kṛṣṇa’s beauty  seeing  of the gopīs  the beauty  grows  so much
+
+(192) The more Kṛṣṇa’s beauty grows on seeing the gopīs’ beauty, the more the gopīs’ beauty grows on seeing His.
+
+এইমত পরস্পর পড়ে হুড়াহুড়ি ৷  
+পরস্পর বাঢ়ে, কেহ মুখ নাহি মুড়ি ॥ ১৯৩ ॥
+
+ei-mata paraspara paḍe huḍāhuḍi  
+in this way  mutually  arises  a contest  
+paraspara bāḍhe, keha mukha nāhi muḍi  
+mutually  grow  neither  the face  not  turns away
+
+(193) So a contest arises between them; both grow together, and neither turns away.
+
+কিন্তু কৃষ্ণের সুখ হয় গোপী-রূপ-গুণে ৷  
+তাঁর সুখে সুখবৃদ্ধি হয়ে গোপীগণে ॥ ১৯৪ ॥
+
+kintu kṛṣṇera sukha haya gopī-rūpa-guṇe  
+but  of Kṛṣṇa  the happiness  is  by the gopīs’ beauty and virtues  
+tām̐ra sukhe sukha-vṛddhi haye gopī-gaṇe  
+by His  happiness  of happiness  the increase  is  in the gopīs
+
+(194) But Kṛṣṇa’s happiness comes from the gopīs’ beauty and virtues, and the gopīs’ happiness grows by His happiness.[^134]
+
+অতএব সেই সুখ কৃষ্ণ-সুখ পোষে ৷  
+এই হেতু গোপী-প্রেমে নাহি কাম-দোষে ॥ ১৯৫ ॥
+
+ataeva sei sukha kṛṣṇa-sukha poṣe  
+therefore  that  happiness  Kṛṣṇa’s  happiness  nourishes  
+ei hetu gopī-preme nāhi kāma-doṣe  
+this  for the reason  in the gopīs’ love  there is not  of lust  fault
+
+(195) Therefore their happiness only nourishes Kṛṣṇa’s happiness, and so in the gopīs’ love there is no fault of lust.[^135]
+
+উপেত্য পথি সুন্দরীততিভিরাভিরভ্যর্চ্চিতং  
+স্মিতাঙ্কুরকরম্বিতৈর্নটদপাঙ্গভঙ্গীশতৈঃ ৷  
+স্তনস্তবকসঞ্চরন্নয়নচঞ্চরীকাঞ্চলং  
+ব্রজে বিজয়িনং ভজে বিপিনদেশতঃ কেশবম্ ॥ ১৯৬ ॥
+
+upetya pathi sundarī-tatibhir ābhir abhyarcitaṁ  
+approaching  on the road  of beauties  by the rows  by these  worshipped  
+smitāṅkura-karambitair naṭad-apāṅga-bhaṅgī-śataiḥ  
+with buds of smiles  mingled  by the dancing  side-glances  in hundreds of turns  
+stana-stavaka-sañcaran-nayana-cañcarīkāñcalaṁ  
+on the clusters of the breasts  moving  of the eyes  bee-like  corners  
+vraje vijayinaṁ bhaje vipina-deśataḥ keśavam  
+to Vraja  returning victorious  I worship  from the forest  Keśava
+
+(196) “I worship Keśava, returning victorious from the forest to Vraja. Rows of beautiful girls come out on the road to worship Him with hundreds of dancing side-glances mingled with budding smiles, and the corners of His eyes, like bees, wander over the flower-clusters of their breasts.” (Stava-mālā, Keśavāṣṭaka, 8)[^136]
+
+আর এক গোপীপ্রেমের স্বাভাবিক চিহ্ন ৷  
+যে প্রকারে হয় প্রেম কামগন্ধহীন ॥ ১৯৭ ॥
+
+āra eka gopī-premera svābhāvika cihna  
+yet  one  of the gopīs’ love  natural  sign  
+ye prakāre haya prema kāma-gandha-hīna  
+by which  way  is  love  of lust’s scent  devoid
+
+(197) There is another natural sign of the gopīs’ love, which shows that it has no trace of lust.[^137]
+
+গোপীপ্রেমে করে কৃষ্ণমাধুর্য্যের পুষ্টি ৷  
+মাধুর্য্য বাঢ়ায় প্রেম হঞা মহাতুষ্টি ॥ ১৯৮ ॥
+
+gopī-preme kare kṛṣṇa-mādhuryera puṣṭi  
+the gopīs’ love  makes  of Kṛṣṇa’s sweetness  the nourishment  
+mādhurya bāḍhāya prema hañā mahā-tuṣṭi  
+the sweetness  increases  love  becoming  great satisfaction
+
+(198) The gopīs’ love nourishes Kṛṣṇa’s sweetness, and that sweetness in turn makes their love grow, to their great delight.[^138]
+
+প্রীতিবিষয়ানন্দে তদাশ্রয়ানন্দ ৷  
+তাঁহা নাহি নিজসুখবাঞ্ছার সম্বন্ধ ॥ ১৯৯ ॥
+
+prīti-viṣayānande tad-āśrayānanda  
+of love  of the object  in the bliss  its  of the shelter  the bliss  
+tām̐hā nāhi nija-sukha-vāñchāra sambandha  
+there  there is not  own happiness  of the desire  connection
+
+(199) The bliss of the *āśraya* of love lies in the bliss of its *viṣaya*; there is no connection with the desire for one’s own happiness.[^139]
+
+নিরুপাধি প্রেম যাঁহা, তাঁহা এই রীতি ৷  
+প্রীতিবিষয়সুখে আশ্রয়ের প্রীতি ॥ ২০০ ॥
+
+nirupādhi prema yām̐hā, tām̐hā ei rīti  
+unconditional  love  where  there  this  law  
+prīti-viṣaya-sukhe āśrayera prīti  
+of love  of the object  in the happiness  of the shelter  the love
+
+(200) Wherever love is unconditional, this is the law: the joy of the *āśraya* lies in the happiness of the *viṣaya*.[^140]
+
+নিজ-প্রেমানন্দে কৃষ্ণ-সেবানন্দ বাধে ৷  
+সে আনন্দের প্রতি ভক্তের হয় মহাক্রোধে ॥ ২০১ ॥
+
+nija-premānande kṛṣṇa-sevānanda bādhe  
+by own  love’s bliss  of Kṛṣṇa’s  service’s bliss  is hindered  
+se ānandera prati bhaktera haya mahā-krodhe  
+that  bliss  toward  of the devotee  is  great anger
+
+(201) If the bliss of one’s own love hinders the bliss of serving Kṛṣṇa, the devotee is filled with great anger at that bliss.[^141]
+
+অঙ্গস্তম্ভারম্ভমুত্তুঙ্গয়ন্তং  
+প্রেমানন্দং দারুকো নাভ্যনন্দৎ ৷  
+কংসারাতের্বীজনে যেন সাক্ষা-  
+দক্ষোদীয়ানন্তরায়ো ব্যধায়ি ॥ ২০২ ॥
+
+aṅga-stambhārambham uttuṅgayantaṁ  
+of the body  stupor  the onset  intensifying  
+premānandaṁ dāruko nābhyanandat  
+the bliss of love  Dāruka  not  welcomed  
+kaṁsārāter vījane yena sākṣād  
+of the enemy of Kaṁsa  in the fanning  by which  directly  
+akṣodīyān antarāyo vyadhāyi  
+no small  obstacle  was created
+
+(202) “Dāruka did not welcome the bliss of love that brought on a stupor of his body, for it put no small obstacle in the way of his fanning Kṛṣṇa, the enemy of Kaṁsa.” (Bhakti-rasāmṛta-sindhu, 3.2.62)[^142]
+
 ---
 
 [^1]: In the edition the verse is headed “By the grace of Gaura, the nature of Śrī Kṛṣṇa ascertained”. *Anubhāṣya*: “a child” — one who knows nothing; “His form” — the form of Gaura, who is not different from Rādhā and Kṛṣṇa; “the Enjoyer in Vraja” — the son of the king of Vraja; “ascertainment” — pointing out the truth (*tattva*).
@@ -1943,3 +2389,59 @@ of Caitanya Gosāñi  he  the very  heart  since
 [^113]: In the edition the verse is headed: “(3) The third desire.” *Amṛta-pravāha-bhāṣya*: though Kṛṣṇa longs to taste His sweetness fully with the love of the *āśraya*, He cannot, and is troubled; this is the second hidden reason why He accepts Rādhikā’s mood.
 
 [^114]: In the edition the verse is headed: “Dāmodara-svarūpa alone is the original *mahājana* of the nectar of *bhakti-rasa*.”
+
+[^115]: In the edition the verse is headed: “The name of the gopīs’ love.” *Amṛta-pravāha-bhāṣya*: the name of this love is *rūḍha-bhāva*; pure prema cannot in truth be expressed by the word *kāma*. *Anubhāṣya*: in the gopīs’ *mahābhāva* the *sāttvika-bhāvas* blaze, and so their love is called *rūḍha-bhāva* (“where the *sāttvika-bhāvas* blaze, that *bhāva* is called *rūḍha*”); their love is wholly directed to Kṛṣṇa’s happiness and is therefore pure — the contemptible word *kāma*, which means enjoyment of anything other than Kṛṣṇa, cannot apply to it.
+
+[^116]: In the edition the verse is headed: “In the gopīs, *kāma* and prema are one.” *Amṛta-pravāha-bhāṣya*: it became customary to call the pure prema of the cowherd women *kāma*; devotees of the Lord such as Uddhava thirst for that love. *Anubhāṣya*: “Uddhava and others” — devotees who relish other rasas.
+
+[^117]: In the edition the verse is headed: “The nature of *kāma* and prema, and their difference.” *Amṛta-pravāha-bhāṣya*: as iron and gold differ in nature, so *kāma* and prema, though they seem almost one, differ in their marks.
+
+[^118]: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): “The bond of feeling between the young pair that is never destroyed, even when causes of destruction arise, is called prema”; the gopīs, as *āśraya*, are firmly bound to Kṛṣṇa by this bond, and, as the ideal of giving up one’s own happiness — which is *kāma* — they are wholly devoted to the service that gives Kṛṣṇa bliss.
+
+[^119]: In the edition the verse is headed: “The aim of *kāma* and the aim of prema.”
+
+[^120]: As in the Gauḍīya Maṭha edition: «দুস্ত্যজ্য» (another reading: «দুস্ত্যজ»); the sense is the same. In the edition verse 167 is headed: “The marks and nature of love for Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: the Vedas speak of the desire for the world, for sons and for wealth — these are social custom, Vedic religion, bodily needs, work, shame, restraint, bodily happiness, “one’s own happiness” such as liberation, the path of the noble, attachment to one’s family, fear of the beatings and rebukes of relatives; all these are desires to please one’s own senses, that is, *kāma*. Desires that follow the conviction “I am Kṛṣṇa’s servant” can be desires to please Kṛṣṇa, but those born of the conviction “I am the enjoyer of fruits” are *kāma*. The “renunciation of all” (4.169) does not mean giving up the activities of body and mind: if they are moved by the conviction “I am Kṛṣṇa’s servant”, that too is not *kāma*.
+
+[^121]: In the edition the verse is headed: “The difference between *kāma* and prema.”
+
+[^122]: In the edition the verse is headed: “*Kāma* and the gopīs’ love for Kṛṣṇa.”
+
+[^123]: In the edition the verse is headed: “The depth of the gopīs’ love for Kṛṣṇa.” *Anubhāṣya*: the song of the gopīs’ lament when Kṛṣṇa vanished during the *rāsa* dance; “afraid” — fearing that the touch might hurt; “pebbles” — small sharp stones.
+
+[^124]: In the edition the verse is headed: “The gopīs’ pure love for Kṛṣṇa.”
+
+[^125]: In the edition the verse is headed: “Kṛṣṇa, bound by the gopīs’ love, asks forgiveness for disappearing.” *Anubhāṣya*: the words of Kṛṣṇa, who returned to the place of the *rāsa* dance on hearing the gopīs’ words; “the laws of society” — worldly dharma, “of the Vedas” — dharma for the world beyond; “loving invisibly” — doing them good unseen by them.
+
+[^126]: In the edition the verse is headed: “The degree to which Kṛṣṇa is attained according to the kind of pure bhakti.”
+
+[^127]: The same verse as 4.20 (the *Anubhāṣya* refers to it); the translation is the same.
+
+[^128]: In the edition the verse is headed: “Kṛṣṇa’s unpayable debt to the gopīs’ love.”
+
+[^129]: *Anubhāṣya*: hearing the gopīs’ song of lament, Kṛṣṇa appeared and consoled them with these words; *niravadya-saṁyujām* — “of those whose union is faultless, guileless”; “a lifetime of the gods” — the span of the heavenly beings’ life; “let it be requited by the good deed” — let your good deed itself be its own reward. *Amṛta-pravāha-bhāṣya*: “you cut the heavy fetters of the world and sought Me; I am unable to pay you My debt.”
+
+[^130]: In the edition the verse is headed: “Even when the gopīs see to their own happiness, their aim is Kṛṣṇa’s happiness.”
+
+[^131]: In the edition the verse is headed “Even in adorning their bodies the gopīs think only of Kṛṣṇa’s pleasure”, and the source is given as “the words of the *Ādi Purāṇa* from the *Laghu-bhāgavatāmṛta*, Uttara-khaṇḍa, 40”. *Anubhāṣya*: “as Mine” — “this body is given to the Lord, my Beloved”; “tend” — adorn; “no one is so secretly dear” — there is no other vessel of My hidden love.
+
+[^132]: In the edition the verse is headed: “The gopīs’ happiness in service is ten million times greater than Kṛṣṇa’s happiness.” *Amṛta-pravāha-bhāṣya*: the gopīs have no desire for happiness, and yet when they see Kṛṣṇa they taste a happiness ten million times greater than Kṛṣṇa’s happiness in seeing them.
+
+[^133]: As in the Gauḍīya Maṭha edition: «সুখে কৃষ্ণসুখ» (another reading: «সুখ কৃষ্ণসুখে»); the sense is the same.
+
+[^134]: In the edition the verse is headed: “The gopīs’ happiness lies in Kṛṣṇa’s happiness.” *Amṛta-pravāha-bhāṣya*: though some may call the gopīs’ happiness at seeing Kṛṣṇa *kāma*, the gopīs think, “If Kṛṣṇa sees that we are happy in meeting Him, His joy will grow still more”; so the final cause of their happiness is the desire to please Kṛṣṇa’s senses, and in it there is no fault of *kāma*.
+
+[^135]: In the edition the verse is headed: “The gopīs’ love is not *kāma*, for it increases Kṛṣṇa’s happiness.”
+
+[^136]: As in the Gauḍīya Maṭha edition: «ততিভিরাভির» (another reading: «ততিভিরভির»). *Anubhāṣya*: the beauties of Vraja have climbed onto the roofs of their houses; Keśava returns victorious to Vraja, to Nandīśvara, from the afternoon pasturing of the cows.
+
+[^137]: In the edition the verse is headed: “A natural mark of the gopīs’ love.”
+
+[^138]: In the edition the verse is headed: “Through the gopīs’ love Kṛṣṇa’s sweetness grows.”
+
+[^139]: In the edition the verse is headed: “The pure love of the serving *āśraya* lies in the love of the served *viṣaya*.” *Amṛta-pravāha-bhāṣya*: in the bliss of Kṛṣṇa, the *viṣaya* of love, lies the bliss of the gopīs, its *āśraya*; in such abundance of bliss the gopīs have no connection with the desire for their own happiness. Where love is unconditional, this is the law: the happiness of the *āśraya* lies in the happiness of the *viṣaya*. Yet one may say: where there is a bliss of one’s own love, it will surely hinder the bliss of serving Kṛṣṇa — and so, where a bliss arises that hinders service, the devotee is filled with great anger.
+
+[^140]: In the edition the verse is headed: “A devotee’s love lies in the love of the Lord; it is pure and spotless.”
+
+[^141]: In the edition the verse is headed: “During Kṛṣṇa’s service the desire for one’s own pleasure is contemptible, to be driven far away.”
+
+[^142]: *Amṛta-pravāha-bhāṣya*: while fanning Kṛṣṇa with a whisk, Dāruka did not welcome the stupor of his body born of the bliss of love, because it hindered his service.
