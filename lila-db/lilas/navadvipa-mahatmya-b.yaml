@@ -1,0 +1,357 @@
+# «Шри Навадвипа-дхама-махатмья» Бхактивиноды Тхакура, гл. 7–13 (Годрумадвипа — Джахнудвипа), в порядке изложения.
+# Текст — navadvipa-dhama-mahatmya/ru/NN.md (изд. ШЧСМ). События — events-navadvipa-mahatmya-b.yaml и общие.
+
+# --- Глава 7. Годрумадвипа (1) ---
+- id: nvm-07-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 2"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P14
+  order: 107.071
+  title: "Из Вишрама-стханы в Суварна-бихар"
+  summary: "Покинув Вишрама-стхану, Нитьянанда с Дживой и преданными приходит в Суварна-бихар и говорит, что это место, как и вся Навадвипа, вне материального бытия."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#vishrama-sthana", "#suvarna-vihara", "#godrumadvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-suvarna-vihara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "2", to: "2"}
+
+- id: nvm-07-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 3–20"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P00
+  order: 814.1
+  title: "Нарада наставляет царя Суварну Сена"
+  summary: "В Сатья-югу Нарада посещает погружённого в мирские заботы старого царя Суварну Сена: богатства и родные не принадлежат душе; знание и отречение ведут лишь к безрадостному единству с Брахманом; истинная цель — према к Кришне через самбандху, абхидхею и прайоджану, ступени от шраддхи до премы и девять видов бхакти; житель Навадвипы легко обретёт общество святых."
+  persons: ["@narada", "@suvarna-sena", "@krishna"]
+  places: ["#suvarna-vihara", "#godrumadvipa"]
+  kind: teaching
+  authority: B
+  notes: "Рассказ Нитьянанды Дживе."
+  themes: [teaching, celestial]
+  teaching: [bhakti-supremacy, maya, prema]
+  event: ev-nvm-narada-suvarna-sena
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "3", to: "20"}
+
+- id: nvm-07-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 21–27"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P00
+  order: 814.15
+  title: "Пророчество Нарады о Гауре; сон царя и небесный голос: он станет Буддхимантой Ханом"
+  summary: "Нарада предрекает, что в Кали-югу Кришна явится здесь Шри Чайтаньей и призывающие Его имя быстро достигнут Кришны без оскорблений; поёт «Гаурахари бол» и уходит; в царе пробуждается према; во сне он видит Гауру с Гададхарой в киртане, а голос с неба возвещает, что он родится спутником Господа — Буддхимантой Ханом."
+  persons: ["@narada", "@suvarna-sena", "@buddhimanta-khan", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#suvarna-vihara", "#godrumadvipa"]
+  kind: prophecy
+  authority: B
+  themes: [celestial, kirtan]
+  teaching: [gaura-tattva, holy-name]
+  event: ev-nvm-narada-suvarna-sena
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "21", to: "27"}
+
+- id: nvm-07-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 28–31"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P14
+  order: 107.0712
+  title: "Шриваса и Джива без чувств; Джива видит киртан Гауры в Суварна-бихаре"
+  summary: "Услышав рассказ, Шриваса (воплощение Нарады) и Джива лишаются чувств; придя в себя, Джива взывает к Махапрабху, и ему открывается некогда проходивший здесь киртан: Гаура танцует, Нитьянанда и Адвайта поют; киртан длится до полудня."
+  persons: ["@jiva-gosvami", "@srivasa", "@nityananda", "@mahaprabhu", "@advaita"]
+  places: ["#suvarna-vihara", "#godrumadvipa"]
+  kind: vision
+  authority: B
+  notes: "Шриваса — воплощение Нарады (7.28)."
+  themes: [ecstasy, kirtan, revelation]
+  event: ev-nvm-parikrama-suvarna-vihara
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "28", to: "31"}
+
+- id: nvm-07-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 32–33"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P14
+  order: 107.072
+  title: "Отдых в Дева-палли гостями Нрисимхадевы"
+  summary: "С воспеванием преданные приходят в Дева-палли, отдыхают и вкушают полуденную трапезу как гости Божества Нрисимхадевы; на закате обходят селение."
+  persons: ["@jiva-gosvami", "@nityananda", "@nrisimha"]
+  places: ["#deva-palli", "#godrumadvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage, deities, prasada]
+  event: ev-nvm-parikrama-deva-palli
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "32", to: "33"}
+
+- id: nvm-07-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 33–37"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P00
+  order: 814.2
+  title: "Нрисимха отдыхает в Дева-палли; полубоги строят дома на берегу Мандакини"
+  summary: "Убив Хираньякашипу ради Прахлады, Нрисимхадева пришёл сюда отдохнуть; Брахма и полубоги основали на холме у Мандакини селение для поклонения Ему (Нрисимха-кшетра); дворцы Вишвакармы и жилища Сурьи, Брахмы, Ганеши и Индры исчезли, остались холмы."
+  persons: ["@nrisimha", "@prahlada", "@hiranyakashipu", "@brahma", "@surya", "@ganesha", "@indra", "@vishvakarma"]
+  places: ["#deva-palli", "#godrumadvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [deities, celestial]
+  event: ev-nvm-nrisimha-rests-deva-palli
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "33", to: "37"}
+
+- id: nvm-07-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 7, 38–39"
+  file: "navadvipa-dhama-mahatmya/ru/07.md"
+  period: P14
+  order: 107.073
+  title: "Пророчество: царь-преданный восстановит храм Нрисимхи; Дева-палли — в пределах дхамы"
+  summary: "Нитьянанда предрекает, что в будущем великий царь-преданный по милости Нрисимхадевы возведёт здесь новый храм и восстановит поклонение; хотя Дева-палли на краю пути обхода, она в пределах тридцатидвухмильной дхамы."
+  persons: ["@nityananda", "@jiva-gosvami", "@nrisimha"]
+  places: ["#deva-palli", "#godrumadvipa"]
+  kind: prophecy
+  authority: B
+  themes: [deities]
+  event: ev-nvm-prophecy-nrisimha-temple-deva-palli
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/07.md", from: "38", to: "39"}
+
+# --- Глава 8. Годрумадвипа (2) ---
+- id: nvm-08-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 4–10"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P14
+  order: 107.081
+  title: "Экстатический путь к Алакананде: Нитьянанда взывает «Гаура!», Шриваса танцует с Дживой"
+  summary: "Преданные идут с воспеванием; Нитьянанда в экстазе, с дрожащим голосом и слезами взывает «О Гаура!»; Шриваса и Джива то кружатся в радости, то плачут в разлуке с Гаурой; так они приходят к Алакананде."
+  persons: ["@nityananda", "@jiva-gosvami", "@srivasa"]
+  places: ["#godrumadvipa"]
+  kind: lila
+  authority: B
+  themes: [ecstasy, kirtan, pilgrimage]
+  event: ev-nvm-parikrama-godruma
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "4", to: "10"}
+
+- id: nvm-08-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 11–21"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P14
+  order: 107.082
+  title: "Харихара-кшетра и Маха-Варанаси: Шива поёт имя Гауры и спасает умирающих"
+  summary: "Нитьянанда показывает Мандакини и Алакананду, Харихара-кшетру, где явится прекрасное Божество, и Каши Навадвипы: здесь Шива, не прерывая танца, поёт имя Шри Чайтаньи, призывает своих последователей предаться Ему и в час смерти возглашает это имя в уши умирающим; преданные здесь отвергают освобождение — потому место зовётся Маха-Варанаси."
+  persons: ["@nityananda", "@jiva-gosvami", "@shiva"]
+  places: ["#belpukhuria", "#harihara-kshetra", "#mahavaranasi", "#godrumadvipa"]
+  kind: teaching
+  authority: B
+  notes: "8.14 — пророчество о Божестве у Харихара-кшетры."
+  themes: [teaching, celestial]
+  teaching: [holy-name, bhakti-supremacy]
+  event: ev-nvm-mahavaranasi-shiva-gaura-name
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "11", to: "21"}
+
+- id: nvm-08-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 22–24"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P14
+  order: 107.083
+  title: "Нитьянанда дарует Дживе прему; Шива и Парвати незримо кланяются Нитьянанде"
+  summary: "Танцуя, Нитьянанда призывает Дживу принять любовь к Гауре; невидимые для других Шива и Парвати выходят вперёд, кланяются стопам Нитьянанды, получают исполнение сокровенных желаний и уходят, воспевая имя Шри Чайтаньи."
+  persons: ["@nityananda", "@jiva-gosvami", "@shiva", "@parvati"]
+  places: ["#mahavaranasi", "#godrumadvipa"]
+  kind: miracle
+  authority: B
+  themes: [celestial, mercy]
+  event: ev-nvm-shiva-parvati-bow-nityananda
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "22", to: "24"}
+
+- id: nvm-08-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 25–27"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P14
+  order: 107.0831
+  title: "Приход в Гадигачху — Годрумадвипу, обитель Сурабхи"
+  summary: "Нитьянанда с преданными приходит в селение Гадигачха и с улыбкой говорит, что это Годрумадвипа, где вечно живёт Сурабхи, корова Индры."
+  persons: ["@nityananda", "@jiva-gosvami", "@surabhi"]
+  places: ["#gadigachha", "#godrumadvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-godruma
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "25", to: "27"}
+
+- id: nvm-08-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 28–50"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P00
+  order: 816.1
+  title: "Индра и Сурабхи поклоняются Гауре; Господь является им под баньяном"
+  summary: "Устрашённый своим оскорблением (ливень над Гокулой и поднятие Говардханы), Индра, хотя и прощённый Кришной, просит совета у Сурабхи; та ведёт его в Навадвипу поклоняться Нимаю-пандиту — Самому Кришне; от повторения имени у них текут слёзы, и Гаура является им, обещая скорое пришествие и служение; Сурабхи остаётся под баньяном — отсюда имя Го-друма."
+  persons: ["@indra", "@surabhi", "@krishna", "@mahaprabhu"]
+  places: ["#godrumadvipa", "#gadigachha", "#gokula", "#govardhana"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial, revelation, offense]
+  teaching: [holy-name, gaura-tattva]
+  event: ev-nvm-indra-surabhi-godruma
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "28–29", to: "50"}
+
+- id: nvm-08-006
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 51–69"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P00
+  order: 816.2
+  title: "Сурабхи спасает Маркандейю в потоп"
+  summary: "Маркандейя, благословлённый Шивой жить семь кальп, тонет в водах потопа; буря не касается Навадвипы, и Сурабхи вытаскивает его на остров Годрума; по вещему голосу он находит её под огромным баньяном, пьёт её молоко и просит указать выход из страданий долгой жизни."
+  persons: ["@markandeya", "@surabhi", "@shiva"]
+  places: ["#godrumadvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial, mercy]
+  event: ev-nvm-markandeya-surabhi
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "51", to: "69"}
+
+- id: nvm-08-007
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 70–92"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P00
+  order: 816.25
+  title: "Наставление Сурабхи Маркандейе: Навадвипа и поклонение Гауре"
+  summary: "Сурабхи учит: Навадвипа нематериальна и неразрушима, это восьмилепестковый лотос с Антардвипой в сердцевине и Майяпуром посреди, окружённый Вираджей; прими прибежище у Шри Чайтаньи, отвергнув наслаждение и освобождение, — так достигнешь служения Радхе и Говинде; в поклонении Гауре нет оскорблений, Его имя уничтожает грехи и желание освобождения; Маркандейя в блаженстве начинает новую жизнь."
+  persons: ["@surabhi", "@markandeya", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#godrumadvipa", "#antardvipa", "#mayapur"]
+  kind: teaching
+  authority: B
+  themes: [teaching, celestial]
+  teaching: [gaura-tattva, holy-name, bhakti-supremacy]
+  event: ev-nvm-markandeya-surabhi
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "70", to: "92"}
+
+- id: nvm-08-008
+  source: navadvipa-mahatmya
+  ref: "Гл. 8, 93–94"
+  file: "navadvipa-dhama-mahatmya/ru/08.md"
+  period: P14
+  order: 107.0832
+  title: "День в Годруме; путь в Мадхьядвипу"
+  summary: "Выслушав историю, Джива исполнен счастья; проведя день в Годруме, преданные направляются в Мадхьядвипу."
+  persons: ["@jiva-gosvami", "@nityananda"]
+  places: ["#godrumadvipa"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-godruma
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/08.md", from: "93", to: "94"}
+
+# --- Глава 9. Мадхьядвипа (1) ---
+- id: nvm-09-001
+  source: navadvipa-mahatmya
+  ref: "Гл. 9, 2–3"
+  file: "navadvipa-dhama-mahatmya/ru/09.md"
+  period: P14
+  order: 107.091
+  title: "Из Годрумы в Мадхьядвипу, в Маджидаграму"
+  summary: "На исходе ночи Нитьянанда с преданными покидает Годруму, делясь радостью со встречными, и, придя в Мадхьядвипу, со смехом указывает Маджидаграму — место поклонения семи риши."
+  persons: ["@nityananda", "@jiva-gosvami"]
+  places: ["#godrumadvipa", "#madhyadvipa", "#majida"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage]
+  event: ev-nvm-parikrama-madhyadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "2", to: "3"}
+
+- id: nvm-09-002
+  source: navadvipa-mahatmya
+  ref: "Гл. 9, 3–19"
+  file: "navadvipa-dhama-mahatmya/ru/09.md"
+  period: P00
+  order: 818.1
+  title: "Семь риши в Маджиде: Гаура является им как Панча-таттва"
+  summary: "По слову отца, Брахмы, семь риши приходят в Навадвипу и без еды и сна повторяют имя Шри Чайтаньи; в полдень Гаура является им сияющим как сто солнц, в облике Панча-таттвы, велит отбросить желания наслаждения и отречения, хранить тайну и поклоняться Кришне у их гхата в Кумара-хатте, обещая, что они увидят Его игры; семь холмов здесь стоят как звёзды Большой Медведицы."
+  persons: ["@seven-rishis", "@brahma", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
+  places: ["#majida", "#saptarishi-tila", "#madhyadvipa"]
+  kind: pre-advent
+  authority: B
+  notes: "Сатья-юга. О составе семи риши — сноска 09-1 (по англ. изд. ШЧСМ). «Кумара-хатта» (9.17) — по контексту место у Маджиды; с Кумарахаттой (Халисахаром, #kumarahatta) не отождествлено."
+  themes: [revelation, celestial]
+  teaching: [holy-name, bhakti-supremacy]
+  event: ev-nvm-seven-rishis-majida
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "3", to: "19"}
+
+- id: nvm-09-003
+  source: navadvipa-mahatmya
+  ref: "Гл. 9, 20–22"
+  file: "navadvipa-dhama-mahatmya/ru/09.md"
+  period: P00
+  order: 818.2
+  title: "Наймиша на Гомати: Шаунака и риши слушают о Гауре от Суты"
+  summary: "К югу — река Гомати и лес Наймиша, где в начале Кали Шаунака и мудрецы во время великого жертвоприношения слушали о Шри Чайтанье от Суты Госвами; кто читает здесь Пураны в месяц Картика, достигает Вриндавана."
+  persons: ["@shaunaka", "@suta-gosvami", "@mahaprabhu"]
+  places: ["#naimisha-navadvipa", "#madhyadvipa"]
+  kind: pre-advent
+  authority: B
+  calendar: "картика (празднество чтения Пуран)"
+  themes: [celestial]
+  teaching: [scripture]
+  event: ev-nvm-naimisha-shaunaka-suta
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "20", to: "22"}
+
+- id: nvm-09-004
+  source: navadvipa-mahatmya
+  ref: "Гл. 9, 23–24"
+  file: "navadvipa-dhama-mahatmya/ru/09.md"
+  period: P00
+  order: 818.3
+  title: "Шива на лебеде Брахмы слушает Пураны в Наймише и поёт хвалу Гауре"
+  summary: "Оставив быка, Шива прилетел в Наймишу на лебеде Брахмы послушать Пураны и со своими последователями пел и танцевал, восхваляя Шри Чайтанью и осыпая всё цветами."
+  persons: ["@shiva", "@brahma", "@mahaprabhu"]
+  places: ["#hamsa-vahana", "#naimisha-navadvipa", "#madhyadvipa"]
+  kind: pre-advent
+  authority: B
+  themes: [celestial, kirtan]
+  event: ev-nvm-shiva-hamsa-naimisha
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "23", to: "24"}
+
+- id: nvm-09-005
+  source: navadvipa-mahatmya
+  ref: "Гл. 9, 25–26"
+  file: "navadvipa-dhama-mahatmya/ru/09.md"
+  period: P14
+  order: 107.0911
+  title: "Экстаз Дживы в Наймише; день с Нитьянандой и путь к Пушкаре"
+  summary: "Чувствуя силу святой земли, Джива не может сдержать экстаза; следующий день преданные проводят с Нитьянандой и направляются к Пушкаре."
+  persons: ["@jiva-gosvami", "@nityananda"]
+  places: ["#naimisha-navadvipa", "#madhyadvipa"]
+  kind: lila
+  authority: B
+  themes: [ecstasy, pilgrimage]
+  event: ev-nvm-parikrama-madhyadvipa
+  verses:
+    - {file: "navadvipa-dhama-mahatmya/ru/09.md", from: "25", to: "26"}
