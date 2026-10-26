@@ -220,7 +220,7 @@ of Nityānanda  the associates  as many  —  all  friends of Vraja
 śṛṅga-vetra-gopaveśa, śire śikhi-pākhā  
 horn  staff  cowherd dress,  on the head  peacock feather
 
-(21) All of Nityānanda’s associates are cowherd friends from Vraja. Each carries a horn and a staff, they wear the dress of cowherds, and peacock feathers adorn their heads.[^12]
+(21) All of Nityānanda’s associates are cowherd friends from Vraja. Each carries a horn and a staff and wears the dress of a cowherd, with a peacock feather on his head.[^12]
 
 রঘুনাথ বৈদ্য উপাধ্যায় মহাশয় ৷  
 যাঁহার দর্শনে কৃষ্ণপ্রেমভক্তি হয় ॥ ২২ ॥
@@ -270,7 +270,7 @@ in Nityānanda  firm  faith,  of love  the abode
 kṛṣṇa-premā dite, nite, dhare mahāśakti  
 love for Kṛṣṇa  to give,  to take,  holds  great power
 
-(26) In Śrī Gaurīdāsa Paṇḍita was a devotion of soaring love; he had great power both to give love for Kṛṣṇa and to receive it.[^16]
+(26) Śrī Gaurīdāsa Paṇḍita’s devotion was ablaze with prema; he had great power both to give and to receive love for Kṛṣṇa.[^16]
 
 নিত্যানন্দে সমর্পিল জাতি-কুল-পাঁতি ৷  
 শ্রীচৈতন্য-নিত্যানন্দে করি’ প্রাণপতি ॥ ২৭ ॥
@@ -311,6 +311,316 @@ kṛṣṇa-premāmṛta varṣe, yena varṣā ghana
 the nectar of love for Kṛṣṇa  rains,  like  rain  heavy
 
 (30) Śrī Jagadīśa Paṇḍita purifies the whole world; like a heavy monsoon rain, he pours down the nectar of love for Kṛṣṇa.[^20]
+
+নিত্যানন্দ-প্রিয়ভৃত্য পণ্ডিত ধনঞ্জয় ৷  
+অত্যন্ত বিরক্ত, সদা কৃষ্ণপ্রেমময় ॥ ৩১ ॥
+
+nityānanda-priya-bhṛtya paṇḍita dhanañjaya  
+of Nityānanda  dear  servant  Paṇḍita  Dhanañjaya  
+atyanta virakta, sadā kṛṣṇa-premamaya  
+extremely  detached,  always  full of love for Kṛṣṇa
+
+(31) Dhanañjaya Paṇḍita, a dear servant of Nityānanda, was utterly detached and always full of love for Kṛṣṇa.[^21]
+
+মহেশ পণ্ডিত — ব্রজের উদার গোপাল ৷  
+ঢক্কাবাদ্যে নৃত্য করে প্রেমে মাতোয়াল ॥ ৩২ ॥
+
+maheśa paṇḍita — vrajera udāra gopāla  
+Maheśa  Paṇḍita  —  of Vraja  the generous  cowherd boy  
+ḍhakkā-vādye nṛtya kare preme mātoyāla  
+to the kettledrum  dance  does  in love  intoxicated
+
+(32) Maheśa Paṇḍita is a generous cowherd boy of Vraja; to the beat of the kettledrum he would dance, drunk with love.[^22]
+
+নবদ্বীপে পুরুষোত্তম পণ্ডিত মহাশয় ৷  
+নিত্যানন্দ-নামে যাঁর মহোন্মাদ হয় ॥ ৩৩ ॥
+
+navadvīpe puruṣottama paṇḍita mahāśaya  
+in Navadvīpa  Puruṣottama  Paṇḍita  a great soul  
+nityānanda-nāme yām̐ra mahonmāda haya  
+at Nityānanda’s name  whose  great madness  comes
+
+(33) Puruṣottama Paṇḍita of Navadvīpa was a great soul; at the very name of Nityānanda he was seized by the great madness of love.[^23]
+
+বলরাম দাস — কৃষ্ণপ্রেমরসাস্বাদী ৷  
+নিত্যানন্দ-নামে হয় পরম উন্মাদী ॥ ৩৪ ॥
+
+balarāma dāsa — kṛṣṇa-prema-rasāsvādī  
+Balarāma  dāsa  —  the rasa of love for Kṛṣṇa  tasting  
+nityānanda-nāme haya parama unmādī  
+at Nityānanda’s name  becomes  supremely  mad
+
+(34) Balarāma dāsa tasted the rasa of love for Kṛṣṇa, and at the name of Nityānanda he was utterly beside himself.[^24]
+
+মহাভাগবত যদুনাথ কবিচন্দ্র ৷  
+যাঁহার হৃদয়ে নৃত্য করে নিত্যানন্দ ॥ ৩৫ ॥
+
+mahā-bhāgavata yadunātha kavicandra  
+the great devotee  Yadunātha  Kavicandra  
+yām̐hāra hṛdaye nṛtya kare nityānanda  
+whose  in the heart  dance  does  Nityānanda
+
+(35) Yadunātha Kavicandra was a great devotee, and Nityānanda dances in his heart.[^25]
+
+রাঢ়ে যাঁর জন্ম কৃষ্ণদাস দ্বিজবর ৷  
+শ্রীনিত্যানন্দের তিঁহো পরম কিঙ্কর ॥ ৩৬ ॥
+
+rāḍhe yām̐ra janma kṛṣṇadāsa dvija-vara  
+in Rāḍha  whose  birth  Kṛṣṇadāsa  the best of brāhmaṇas  
+śrī-nityānandera tim̐ho parama kiṅkara  
+of Śrī Nityānanda  he  the foremost  servant
+
+(36) Kṛṣṇadāsa, an excellent brāhmaṇa born in Rāḍha, was a foremost servant of Śrī Nityānanda.
+
+কালা-কৃষ্ণদাস বড় বৈষ্ণবপ্রধান ৷  
+নিত্যানন্দ-চন্দ্র বিনা নাহি জানে আন ॥ ৩৭ ॥
+
+kālā-kṛṣṇadāsa baḍa vaiṣṇava-pradhāna  
+Kālā  Kṛṣṇadāsa  great  among Vaiṣṇavas  foremost  
+nityānanda-candra vinā nāhi jāne āna  
+Nityānanda  the moon  but  not  knows  another
+
+(37) Kālā Kṛṣṇadāsa was great, foremost among Vaiṣṇavas; he knew no one but Nityānanda, the moon.[^26]
+
+শ্রীসদাশিব কবিরাজ — বড় মহাশয় ৷  
+শ্রীপুরুষোত্তমদাস — তাঁহার তনয় ॥ ৩৮ ॥
+
+śrī-sadāśiva kavirāja — baḍa mahāśaya  
+Śrī  Sadāśiva  Kavirāja  —  great  soul  
+śrī-puruṣottama-dāsa — tām̐hāra tanaya  
+Śrī  Puruṣottama  dāsa  —  his  son
+
+(38) Śrī Sadāśiva Kavirāja was a great soul, and Śrī Puruṣottama dāsa was his son.[^27]
+
+আজন্ম নিমগ্ন নিত্যানন্দের চরণে ৷  
+নিরন্তর বাল্য-লীলা করে কৃষ্ণ-সনে ॥ ৩৯ ॥
+
+ājanma nimagna nityānandera caraṇe  
+from birth  immersed  in Nityānanda’s  feet  
+nirantara bālya-līlā kare kṛṣṇa-sane  
+constantly  childhood pastimes  does  Kṛṣṇa  with
+
+(39) From his birth he was absorbed in the feet of Nityānanda, and he played the games of childhood with Kṛṣṇa without cease.[^28]
+
+তাঁর পুত্র — মহাশয় শ্রীকানু ঠাকুর ৷  
+যাঁর দেহে রহে কৃষ্ণ-প্রেমামৃতপূর ॥ ৪০ ॥
+
+tām̐ra putra — mahāśaya śrī-kānu ṭhākura  
+his  son  —  the great soul  Śrī  Kānu  Ṭhākura  
+yām̐ra dehe rahe kṛṣṇa-premāmṛta-pūra  
+whose  in the body  dwells  of the nectar of love for Kṛṣṇa  a flood
+
+(40) His son was the great soul Śrī Kānu Ṭhākura, in whose body dwelt a full flood of the nectar of love for Kṛṣṇa.[^29]
+
+মহাভাগবত-শ্রেষ্ঠ দত্ত উদ্ধারণ ৷  
+সর্ব্বভাবে সেবে নিত্যানন্দের চরণ ॥ ৪১ ॥
+
+mahā-bhāgavata-śreṣṭha datta uddhāraṇa  
+of great devotees  the best  Datta  Uddhāraṇa  
+sarva-bhāve seve nityānandera caraṇa  
+in every way  serves  Nityānanda’s  feet
+
+(41) Uddhāraṇa Datta, the best of great devotees, served the feet of Nityānanda in every way.[^30]
+
+আচার্য্য বৈষ্ণবানন্দ ভক্তি-অধিকারী ৷  
+পূর্ব্বে নাম ছিল যাঁর ‘রঘুনাথ পুরী’ ॥ ৪২ ॥
+
+ācārya vaiṣṇavānanda bhakti-adhikārī  
+Ācārya  Vaiṣṇavānanda  of devotion  the possessor  
+pūrve nāma chila yām̐ra ‘raghunātha purī’  
+formerly  name  was  whose  ‘Raghunātha  Purī’
+
+(42) Ācārya Vaiṣṇavānanda was rich in devotion; his former name was Raghunātha Purī.[^31]
+
+বিষ্ণুদাস, নন্দন, গঙ্গাদাস — তিন ভাই ৷  
+পূর্ব্বে যাঁর ঘরে ছিল ঠাকুর নিতাই ॥ ৪৩ ॥
+
+viṣṇudāsa, nandana, gaṅgādāsa — tina bhāi  
+Viṣṇudāsa,  Nandana,  Gaṅgādāsa  —  three  brothers  
+pūrve yām̐ra ghare chila ṭhākura nitāi  
+formerly  whose  in the house  stayed  Ṭhākura  Nitāi
+
+(43) Viṣṇudāsa, Nandana and Gaṅgādāsa were three brothers, in whose house Ṭhākura Nitāi once stayed.[^32]
+
+নিত্যানন্দভৃত্য — পরমানন্দ উপাধ্যায় ৷  
+শ্রীজীব পণ্ডিত নিত্যানন্দ গুণ গায় ॥ ৪৪ ॥
+
+nityānanda-bhṛtya — paramānanda upādhyāya  
+Nityānanda’s servant  —  Paramānanda  Upādhyāya  
+śrī-jīva paṇḍita nityānanda guṇa gāya  
+Śrī  Jīva  Paṇḍita  Nityānanda’s  qualities  sings
+
+(44) Paramānanda Upādhyāya was a servant of Nityānanda, and Śrī Jīva Paṇḍita sang of Nityānanda’s virtues.[^33]
+
+পরমানন্দ গুপ্ত — কৃষ্ণভক্ত মহামতি ৷  
+পূর্ব্বে যাঁর ঘরে নিত্যানন্দের বসতি ॥ ৪৫ ॥
+
+paramānanda gupta — kṛṣṇa-bhakta mahāmati  
+Paramānanda  Gupta  —  Kṛṣṇa’s devotee  great-minded  
+pūrve yām̐ra ghare nityānandera vasati  
+formerly  whose  in the house  Nityānanda’s  dwelling
+
+(45) Paramānanda Gupta was a great-minded devotee of Kṛṣṇa; Nityānanda once lived in his house.[^34]
+
+নারায়ণ, কৃষ্ণদাস, আর মনোহর ৷  
+দেবানন্দ — চারি ভাই নিতাই-কিঙ্কর ॥ ৪৬ ॥
+
+nārāyaṇa, kṛṣṇadāsa, āra manohara  
+Nārāyaṇa,  Kṛṣṇadāsa,  and  Manohara  
+devānanda — cāri bhāi nitāi-kiṅkara  
+Devānanda  —  four  brothers  Nitāi’s servants
+
+(46) Nārāyaṇa, Kṛṣṇadāsa, Manohara and Devānanda — these four brothers were servants of Nitāi.
+
+হোড় কৃষ্ণদাস — নিত্যানন্দপ্রভু-প্রাণ ৷  
+শ্রীনিত্যানন্দ-পদ বিনা নাহি জানে আন ॥ ৪৭ ॥
+
+hoḍa kṛṣṇadāsa — nityānanda-prabhu-prāṇa  
+Hoḍa  Kṛṣṇadāsa  —  Nityānanda Prabhu  his life  
+śrī-nityānanda-pada vinā nāhi jāne āna  
+Śrī  Nityānanda’s  feet  but  not  knows  another
+
+(47) To Hoḍa Kṛṣṇadāsa, Nityānanda Prabhu was life itself; he knew nothing but the feet of Śrī Nityānanda.[^35]
+
+নকড়ি, মুকুন্দ, সূর্য্য, মাধব, শ্রীধর ৷  
+রামানন্দ বসু, জগন্নাথ, মহীধর ॥ ৪৮ ॥
+
+nakaḍi, mukunda, sūrya, mādhava, śrīdhara  
+Nakaḍi,  Mukunda,  Sūrya,  Mādhava,  Śrīdhara  
+rāmānanda vasu, jagannātha, mahīdhara  
+Rāmānanda  Vasu,  Jagannātha,  Mahīdhara
+
+(48) Among Nityānanda’s devotees were also Nakaḍi, Mukunda, Sūrya, Mādhava, Śrīdhara, Rāmānanda Vasu, Jagannātha and Mahīdhara;[^36]
+
+শ্রীমন্ত, গোকুলদাস, হরিহরানন্দ ৷  
+শিবাই, নন্দাই, অবধূত পরমানন্দ ॥ ৪৯ ॥
+
+śrīmanta, gokula-dāsa, hariharānanda  
+Śrīmanta,  Gokuladāsa,  Hariharānanda  
+śivāi, nandāi, avadhūta paramānanda  
+Śivāi,  Nandāi,  the Avadhūta  Paramānanda
+
+(49) Śrīmanta, Gokuladāsa, Hariharānanda, Śivāi, Nandāi and Paramānanda the Avadhūta;
+
+বসন্ত, নবনী হোড়, গোপাল, সনাতন ৷  
+বিষ্ণাই হাজরা, কৃষ্ণানন্দ, সুলোচন ॥ ৫০ ॥
+
+vasanta, navanī hoḍa, gopāla, sanātana  
+Vasanta,  Navanī  Hoḍa,  Gopāla,  Sanātana  
+viṣṇāi hājarā, kṛṣṇānanda, sulocana  
+Viṣṇāi  Hājarā,  Kṛṣṇānanda,  Sulocana
+
+(50) Vasanta, Navanī Hoḍa, Gopāla, Sanātana, Viṣṇāi Hājarā, Kṛṣṇānanda and Sulocana;[^37]
+
+কংসারি সেন, রামসেন, রামচন্দ্র কবিরাজ ৷  
+গোবিন্দ, শ্রীরঙ্গ, মুকুন্দ, তিন কবিরাজ ॥ ৫১ ॥
+
+kaṁsāri sena, rāmasena, rāmacandra kavirāja  
+Kaṁsāri  Sena,  Rāmasena,  Rāmacandra  Kavirāja  
+govinda, śrīraṅga, mukunda, tina kavirāja  
+Govinda,  Śrīraṅga,  Mukunda,  three  kavirājas
+
+(51) Kaṁsāri Sena, Rāmasena and Rāmacandra Kavirāja, and the three physicians — Govinda, Śrīraṅga and Mukunda;[^38]
+
+পীতাম্বর, মাধবাচার্য্য, দাস দামোদর ৷  
+শঙ্কর, মুকুন্দ, জ্ঞানদাস, মনোহর ॥ ৫২ ॥
+
+pītāmbara, mādhavācārya, dāsa dāmodara  
+Pītāmbara,  Mādhavācārya,  Dāsa  Dāmodara  
+śaṅkara, mukunda, jñāna-dāsa, manohara  
+Śaṅkara,  Mukunda,  Jñānadāsa,  Manohara
+
+(52) Pītāmbara, Mādhavācārya, Dāmodara dāsa, Śaṅkara, Mukunda, Jñānadāsa and Manohara;
+
+নর্ত্তক গোপাল, রামভদ্র, গৌরাঙ্গদাস ৷  
+নৃসিংহচৈতন্য, মীনকেতন রামদাস ॥ ৫৩ ॥
+
+nartaka gopāla, rāmabhadra, gaurāṅga-dāsa  
+the dancer  Gopāla,  Rāmabhadra,  Gaurāṅgadāsa  
+nṛsiṁha-caitanya, mīnaketana rāmadāsa  
+Nṛsiṁha-caitanya,  Mīnaketana  Rāmadāsa
+
+(53) Gopāla the dancer, Rāmabhadra, Gaurāṅgadāsa, Nṛsiṁha-caitanya and Mīnaketana Rāmadāsa.
+
+বৃন্দাবনদাস — নারায়ণীর নন্দন ৷  
+‘চৈতন্য-মঙ্গল’ যেঁহো করিল রচন ॥ ৫৪ ॥
+
+vṛndāvana-dāsa — nārāyaṇīra nandana  
+Vṛndāvana  dāsa  —  Nārāyaṇī’s  son  
+‘caitanya-maṅgala’ yem̐ho karila racana  
+‘Caitanya-maṅgala’  who  composed
+
+(54) Vṛndāvana dāsa, the son of Nārāyaṇī, composed the *Caitanya-maṅgala*.[^39]
+
+ভাগবতে কৃষ্ণলীলা বর্ণিলা বেদব্যাস ৷  
+চৈতন্য-লীলাতে ব্যাস — বৃন্দাবন দাস ॥ ৫৫ ॥
+
+bhāgavate kṛṣṇalīlā varṇilā vedavyāsa  
+in the Bhāgavata  Kṛṣṇa’s pastimes  described  Vedavyāsa  
+caitanya-līlāte vyāsa — vṛndāvana dāsa  
+in Caitanya’s pastimes  the Vyāsa  —  Vṛndāvana  dāsa
+
+(55) Vedavyāsa described the pastimes of Kṛṣṇa in the *Bhāgavata*; the Vyāsa of Caitanya’s pastimes is Vṛndāvana dāsa.
+
+সর্ব্বশাখা-শ্রেষ্ঠ বীরভদ্র গোসাঞি ৷  
+তাঁর উপশাখা যত, তার অন্ত নাই ॥ ৫৬ ॥
+
+sarvaśākhā-śreṣṭha vīrabhadra gosāñi  
+of all branches  the best  Vīrabhadra  Gosāñi  
+tām̐ra upaśākhā yata, tāra anta nāi  
+His  offshoots  as many,  of them  end  there is not
+
+(56) Vīrabhadra Gosāñi is the best of all the branches, and His offshoots are without end.
+
+অনন্ত নিত্যানন্দগণ — কে করু গণন ৷  
+আত্মপবিত্রতা-হেতু লিখিলাঙ কত জন ॥ ৫৭ ॥
+
+ananta nityānanda-gaṇa — ke karu gaṇana  
+endless  Nityānanda’s devotees  —  who  can  count  
+ātma-pavitratā-hetu likhilāṅa kata jana  
+self-purification  for the sake of  I have written of  some  persons
+
+(57) Nityānanda’s devotees are endless — who could count them? I have written of some of them for my own purification.
+
+এই সর্ব্বশাখা পূর্ণ — পক্ব-প্রেমফলে ৷  
+যারে দেখে, তারে দিয়া ভাসাইল সকলে ॥ ৫৮ ॥
+
+ei sarva-śākhā pūrṇa — pakva-prema-phale  
+these  all  branches  full  —  with ripe fruits of love  
+yāre dekhe, tāre diyā bhāsāila sakale  
+whom  they see,  to him  giving  flooded  everyone
+
+(58) All these branches are laden with the ripe fruits of love. They gave them to whomever they met and flooded all with love.[^40]
+
+অনর্গল প্রেম সবার, চেষ্টা অনর্গল ৷  
+প্রেম দিতে, কৃষ্ণ দিতে (সবে) ধরে মহাবল ॥ ৫৯ ॥
+
+anargala prema sabāra, ceṣṭā anargala  
+unbounded  love  of all,  endeavour  unbounded  
+prema dite, kṛṣṇa dite (sabe) dhare mahābala  
+love  to give,  Kṛṣṇa  to give  (all)  hold  great power
+
+(59) Boundless is the love of them all, and boundless their striving; all of them have great power to give love and to give Kṛṣṇa Himself.
+
+সংক্ষেপে কহিলাঙ এই নিত্যানন্দ-গণ ৷  
+যাঁহার অবধি না পায় ‘সহস্র-বদন’ ॥ ৬০ ॥
+
+saṅkṣepe kahilāṅ ei nityānanda-gaṇa  
+in brief  I have told  these  Nityānanda’s devotees  
+yām̐hāra avadhi nā pāya ‘sahasra-vadana’  
+whose  limit  not  reaches  ‘the thousand-mouthed’
+
+(60) Thus I have told in brief of Nityānanda’s devotees, whose limit even the thousand-mouthed Ananta cannot reach.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৬১ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(61) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
@@ -353,3 +663,43 @@ the nectar of love for Kṛṣṇa  rains,  like  rain  heavy
 [^19]: By the heading in the edition, the fifth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Arjuna (*Gaura-gaṇoddeśa-dīpikā*, 132); he accompanied Jāhnavā Mātā to the festival at Kheturi and at her command installed the Deities of Śrī Rādhā-Gopīnātha at Āṭpur. The *Vaiṣṇava-vandanā* says that he made even jackals utter the holy name.
 
 [^20]: *Anubhāṣya*: his śrīpāṭa is Yaśaḍā near Cākdaha; at Mahāprabhu’s command he preached the holy name in Nīlācala, and from there he brought a Deity of Jagannātha, whom he installed at Yaśaḍā.
+
+[^21]: By the heading in the edition, the sixth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Vasudāma (*Gaura-gaṇoddeśa-dīpikā*, 127); the *Caitanya-bhāgavata* (Antya 6) calls him “a wonderful mahānta, in whose heart Nityānanda ever dwells”. His chief śrīpāṭa is Śītalagrāma near Kāṭoyā.
+
+[^22]: By the heading in the edition, the seventh of the twelve gopālas. *Anubhāṣya*: in Vraja he is Mahābāhu (*Gaura-gaṇoddeśa-dīpikā*, 129); he was with Nityānanda at the festival in Pānihāṭi and then went with Him to Saptagrāma.
+
+[^23]: By the heading in the edition, the eighth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Stoka-kṛṣṇa (*Gaura-gaṇoddeśa-dīpikā*, 130); the *Caitanya-bhāgavata* (Antya 6) says he was “born in Navadvīpa, the intimate great servant of Nityānanda”.
+
+[^24]: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 6): “Balarāma dāsa, drunk with the rasa of love — even a breeze from him destroys all sins.”
+
+[^25]: *Anubhāṣya* (from the *Caitanya-bhāgavata*): Yadunātha Kavicandra was the son of Ratnagarbha Ācārya, a friend of Nityānanda’s father from the same village; his brothers were Kṛṣṇānanda and Jīva (11.44, 11.50).
+
+[^26]: By the heading in the edition, the ninth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Lavaṅga (*Gaura-gaṇoddeśa-dīpikā*, 132); the *Caitanya-bhāgavata* (Antya 6): “Kāliyā Kṛṣṇadāsa is famed in the three worlds; whoever remembers him attains Gauracandra.” His śrīpāṭa is Ākāihāṭ near Kāṭoyā.
+
+[^27]: By the heading in the edition, Puruṣottama is the tenth of the twelve gopālas. *Anubhāṣya*: Sadāśiva Kavirāja was formerly, in Vraja, Candrāvalī, Kṛṣṇa’s beloved (*Gaura-gaṇoddeśa-dīpikā*, 156); his son is “Nāgara” Puruṣottama, the cowherd boy Dāma of Vraja (ibid., 131); Sadāśiva’s father was Kaṁsāri Sena (11.51). Rarely does one find, as in this family, four generations of perfected devotees of Gaura: Kaṁsāri Sena, Sadāśiva, Puruṣottama and Kānu Ṭhākura.
+
+[^28]: Heading in the edition: “‘Nāgara’ Puruṣottama.”
+
+[^29]: *Anubhāṣya*: some count Kānu Ṭhākura among the twelve gopālas. According to his family tradition, his mother left the world soon after his birth, and Nityānanda Prabhu took the infant to Khaḍadaha and named him Śiśu Kṛṣṇadāsa; in Vṛndāvana, Śrī Jīva Gosvāmī and the people of Vraja gave him the name Ṭhākura Kānāi. His śrīpāṭa is Bodhkhānā (Yaśohar district).
+
+[^30]: By the heading in the edition, the eleventh of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subāhu (*Gaura-gaṇoddeśa-dīpikā*, 129). According to the *Caitanya-bhāgavata* (Antya 5), Nityānanda stayed in his house at Saptagrāma on the bank of the Triveṇī, and through Uddhāraṇa the whole community of merchants (*vaṇiks*) was purified.
+
+[^31]: *Anubhāṣya*: the *Gaura-gaṇoddeśa-dīpikā* (97) names Raghunātha Purī among the eight Purīs who embody the eight mystic perfections (*aṇimā* and the rest).
+
+[^32]: *Anubhāṣya*: the three brothers were brāhmaṇas of Navadvīpa; Viṣṇudāsa and Gaṅgādāsa lived for some time with Mahāprabhu in Nīlācala (Ādi 10.151). In the house of Nandana Ācārya, Mahāprabhu and Advaita once hid, and Nityānanda, on coming to Navadvīpa, stayed there for some time.
+
+[^33]: *Anubhāṣya*: Jīva Paṇḍita was the middle son of Ratnagarbha Ācārya (11.35); in Vraja he is Indirā (*Gaura-gaṇoddeśa-dīpikā*, 169).
+
+[^34]: *Anubhāṣya*: in Vraja he is Mañjumedhā (*Gaura-gaṇoddeśa-dīpikā*, 194, 199); he composed a garland of hymns to Kṛṣṇa.
+
+[^35]: *Anubhāṣya*: Hoḍa Kṛṣṇadāsa is Rājā Kṛṣṇadāsa of Baḍagāchi, the son of Hari Hoḍa; at his initiative Śrī Nityānanda’s wedding took place in nearby Śāligrāma. The *Caitanya-bhāgavata* (Antya 6): “the pious Kṛṣṇadāsa of Baḍagāchi, in whose house Nityānanda showed His pastimes”.
+
+[^36]: By the heading in the edition, Śrīdhara is the twelfth of the twelve gopālas.
+
+[^37]: *Anubhāṣya*: Navanī Hoḍa is the son of Hoḍa Kṛṣṇadāsa (11.47); Kṛṣṇānanda is the brother of Yadunātha Kavicandra (11.35).
+
+[^38]: *Anubhāṣya*: Kaṁsāri Sena is the father of Sadāśiva Kavirāja (11.38), in Vraja Ratnāvalī (*Gaura-gaṇoddeśa-dīpikā*, 194, 200). Rāmacandra Kavirāja was the son of Cirañjīva and Sunandā of Śrīkhaṇḍa, a disciple of Śrīnivāsa Ācārya and the dear friend of Narottama Ṭhākura, who prayed for his company birth after birth. Govinda Kavirāja was his younger brother, also a disciple of Śrīnivāsa Ācārya, the author of the play *Saṅgīta-mādhava* and of the *Gītāmṛta*; both received the title “Kavirāja” from Śrī Jīva Gosvāmī.
+
+[^39]: *Caitanya-maṅgala* was the first name of the *Caitanya-bhāgavata* (see Ādi 8.33–35). *Anubhāṣya*: according to the *Gaura-gaṇoddeśa-dīpikā* (109), Vṛndāvana dāsa was formerly Vedavyāsa, and Kṛṣṇa’s friend Kusumāpīḍa also dwells in him. He was the son of Nārāyaṇī, the niece of Śrīvāsa, and the author of the *Caitanya-bhāgavata*.
+
+[^40]: Heading in the edition: “By giving love for Kṛṣṇa they deliver the world.”
