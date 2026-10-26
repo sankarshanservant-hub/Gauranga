@@ -1514,13 +1514,19 @@
    "ev-virachandra-pilgrimage",
    "ev-tattva-nityananda-advaita",
    "ev-tattva-bhakti-kalpataru"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4383,
+   "lon": 88.393,
+   "precision": "примерно",
+   "basis": "центр Навадвипа-дхамы — Йогапитха (НДМ 2.10); OSM: Yogapith, Mayapur"
+  }
  },
  {
   "id": "#house-jagannatha-mishra",
   "ru": "дом Джаганнатхи Мишры",
   "en": "house of Jagannatha Mishra",
-  "note": "Навадвипа",
+  "note": "Навадвипа · Йогапитха в Майяпуре (центр Навадвипы); Врадж — Гокула-Махавана; храм Джаганнатхи Мишры, двор туласи, место нима (НДМ 5.27–48, 16.72); примета для отыскания — в 1600 м к юго-западу от уцелевшего края Майяпура (НДМ 5.115–119); НБТ 10",
   "section": "",
   "lilas": [
    "apr-0038",
@@ -2028,13 +2034,19 @@
    "ev-vishnupriya-austerity",
    "ev-srinivasa-vishnupriya-mercy",
    "ev-gadadhara-riddle-gadadhara-dasa"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4383,
+   "lon": 88.393,
+   "precision": "точно",
+   "basis": "OSM: Yogapith (Main Temple), Mayapur"
+  }
  },
  {
   "id": "#house-srivasa",
   "ru": "дом Шривасы (Шривас-ангана)",
   "en": "house of Srivasa",
-  "note": "Навадвипа",
+  "note": "Навадвипа · Майяпур, 320 м к северу от дома Джаганнатхи Мишры (НДМ 5.51–56); здесь жил Джива (НДМ 4.73, 17.3)",
   "section": "",
   "lilas": [
    "ccd-0015",
@@ -2264,7 +2276,13 @@
    "ev-leaving-navadvipa",
    "ev-lament-after-lord-leaves",
    "ev-nityananda-brings-navadvipa-to-shantipura"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4398,
+   "lon": 88.3943,
+   "precision": "точно",
+   "basis": "OSM: Srivas Angan (Шривас-ангам), Mayapur"
+  }
  },
  {
   "id": "#ganga",
@@ -3050,7 +3068,13 @@
    "ev-kheturi-six-deities",
    "ev-virachandra-pilgrimage",
    "ev-tattva-nityananda-advaita"
-  ]
+  ],
+  "geo": {
+   "lat": 23.2598,
+   "lon": 88.4372,
+   "precision": "примерно",
+   "basis": "OSM: Santipur, Nadia"
+  }
  },
  {
   "id": "#katwa",
@@ -3153,7 +3177,13 @@
    "ev-kheturi-six-deities",
    "ev-jahnava-kheturi",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 23.6443,
+   "lon": 88.1287,
+   "precision": "примерно",
+   "basis": "OSM: Katwa, Purba Bardhaman"
+  }
  },
  {
   "id": "#gaya",
@@ -3213,7 +3243,13 @@
    "ev-gaya-heavenly-voice-return",
    "ev-jahnava-vrindavana",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 24.7964,
+   "lon": 85.008,
+   "precision": "примерно",
+   "basis": "OSM: Gaya, Bihar"
+  }
  },
  {
   "id": "#puri",
@@ -4227,7 +4263,13 @@
    "ev-tattva-three-ways-deliverance",
    "ev-gopala-guru-mahamantra",
    "ev-tattva-bhakti-kalpataru"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8048,
+   "lon": 85.8181,
+   "precision": "точно",
+   "basis": "OSM: Jagannath Temple, Puri"
+  }
  },
  {
   "id": "#vrindavana",
@@ -4724,7 +4766,13 @@
    "ev-tattva-gopi-prema",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-tattva-bhakti-kalpataru"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5754,
+   "lon": 77.6938,
+   "precision": "примерно",
+   "basis": "OSM: Vrindavan, Mathura"
+  }
  },
  {
   "id": "#mathura",
@@ -4869,7 +4917,13 @@
    "ev-virachandra-pilgrimage",
    "ev-srinivasa-disciples",
    "ev-tattva-paravyoma-goloka"
-  ]
+  ],
+  "geo": {
+   "lat": 27.4956,
+   "lon": 77.6856,
+   "precision": "примерно",
+   "basis": "OSM: Mathura"
+  }
  },
  {
   "id": "#kashi",
@@ -5062,7 +5116,13 @@
    "ev-jahnava-vrindavana",
    "ev-virachandra-pilgrimage",
    "ev-legend-shiva-bhuvaneshvara"
-  ]
+  ],
+  "geo": {
+   "lat": 25.3356,
+   "lon": 83.0076,
+   "precision": "примерно",
+   "basis": "OSM: Varanasi"
+  }
  },
  {
   "id": "#prayaga",
@@ -5144,7 +5204,13 @@
    "ev-jahnava-vrindavana",
    "ev-virachandra-pilgrimage",
    "ev-narada-mrigari-hunter"
-  ]
+  ],
+  "geo": {
+   "lat": 25.4381,
+   "lon": 81.8338,
+   "precision": "примерно",
+   "basis": "OSM: Prayagraj (Allahabad)"
+  }
  },
  {
   "id": "#shrikhanda",
@@ -5234,7 +5300,13 @@
    "ev-kheturi-six-deities",
    "ev-virachandra-pilgrimage",
    "ev-tattva-bhakti-kalpataru"
-  ]
+  ],
+  "geo": {
+   "lat": 23.5972,
+   "lon": 88.0764,
+   "precision": "примерно",
+   "basis": "OSM: Srikhanda (Katwa-I, Purba Bardhaman)"
+  }
  },
  {
   "id": "#shrihatta",
@@ -5267,7 +5339,13 @@
    "ev-shrihatta-grandparents",
    "ev-nimai-pandit-teaching",
    "ev-jajpur-viraja"
-  ]
+  ],
+  "geo": {
+   "lat": 24.8905,
+   "lon": 91.8703,
+   "precision": "примерно",
+   "basis": "OSM: Sylhet (city)"
+  }
  },
  {
   "id": "#east-bengal",
@@ -5360,7 +5438,13 @@
    "ev-tattva-radha-hladini",
    "ev-tattva-paravyoma-goloka",
    "ev-tattva-dasya-bhakta-bhava"
-  ]
+  ],
+  "geo": {
+   "lat": 22.2378,
+   "lon": 68.9675,
+   "precision": "точно",
+   "basis": "OSM: Dwarkadhish Temple, Dwarka"
+  }
  },
  {
   "id": "#goloka",
@@ -5434,7 +5518,13 @@
    "ev-parvati-mahaprasada-vow",
    "ev-narada-kailasa-message",
    "ev-bhrigu-tests-trimurti"
-  ]
+  ],
+  "geo": {
+   "lat": 31.0678,
+   "lon": 81.3119,
+   "precision": "точно",
+   "basis": "OSM: Mount Kailash"
+  }
  },
  {
   "id": "#naimisharanya",
@@ -5453,7 +5543,13 @@
    "ev-brahma-hamsa-bhagavata-origin",
    "ev-nityananda-pilgrimage",
    "ev-subuddhi-raya-holy-name"
-  ]
+  ],
+  "geo": {
+   "lat": 27.3512,
+   "lon": 80.4852,
+   "precision": "примерно",
+   "basis": "OSM: Naimisharanya, Sitapur"
+  }
  },
  {
   "id": "#svarga",
@@ -5598,7 +5694,13 @@
   "events": [
    "ev-departure-for-gaya",
    "ev-mandara-fever-brahmana-water"
-  ]
+  ],
+  "geo": {
+   "lat": 24.8061,
+   "lon": 87.0263,
+   "precision": "точно",
+   "basis": "OSM: Mandar Hill, Banka, Bihar"
+  }
  },
  {
   "id": "#house-nandana-acharya",
@@ -5626,7 +5728,13 @@
    "ev-nityananda-first-meeting",
    "ev-jump-into-ganga",
    "ev-tattva-bhakti-kalpataru"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4234,
+   "lon": 88.3908,
+   "precision": "условно",
+   "basis": "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"
+  }
  },
  {
   "id": "#house-chandrashekhara",
@@ -5664,7 +5772,13 @@
    "ev-closed-door-kirtan-scoffers",
    "ev-leper-shrivasa-offense",
    "ev-chandrashekhara-drama"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4234,
+   "lon": 88.3908,
+   "precision": "условно",
+   "basis": "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"
+  }
  },
  {
   "id": "#madhuvana",
@@ -5686,7 +5800,13 @@
    "ev-krishnadasa-mathura-guide",
    "ev-parrots-vrindavana",
    "ev-srinivasa-narottama-farewell-parikrama"
-  ]
+  ],
+  "geo": {
+   "lat": 27.4956,
+   "lon": 77.6856,
+   "precision": "условно",
+   "basis": "лес во Врадже у Матхуры; точка — OSM: Mathura"
+  }
  },
  {
   "id": "#radha-desha",
@@ -5770,7 +5890,13 @@
    "ev-journey-to-puri",
    "ev-remuna-gopala",
    "ev-shantipura-second-visit"
-  ]
+  ],
+  "geo": {
+   "lat": 22.2897,
+   "lon": 87.9256,
+   "precision": "примерно",
+   "basis": "OSM: Tamluk, Purba Medinipur"
+  }
  },
  {
   "id": "#remuna",
@@ -5819,7 +5945,13 @@
    "ev-ramananda-farewell-remuna",
    "ev-jayananda-named",
    "ev-shivananda-toll-arrest"
-  ]
+  ],
+  "geo": {
+   "lat": 21.5427,
+   "lon": 86.8552,
+   "precision": "примерно",
+   "basis": "OSM: Remuna, Baleshwar"
+  }
  },
  {
   "id": "#jajpur",
@@ -5861,7 +5993,13 @@
    "ev-gadadhara-departure",
    "ev-srinivasa-dream-nitai-advaita",
    "ev-narottama-shyamananda-nrisimhapura"
-  ]
+  ],
+  "geo": {
+   "lat": 20.8747,
+   "lon": 86.1215,
+   "precision": "примерно",
+   "basis": "OSM: Jajpur, Odisha"
+  }
  },
  {
   "id": "#bhubaneshvara",
@@ -5895,7 +6033,13 @@
    "ev-departure-for-gauda",
    "ev-prataparudra-farewell-six-armed",
    "ev-legend-shiva-bhuvaneshvara"
-  ]
+  ],
+  "geo": {
+   "lat": 20.2382,
+   "lon": 85.8338,
+   "precision": "точно",
+   "basis": "общеизвестно: храм Лингараджи, Бхубанешвар"
+  }
  },
  {
   "id": "#kurma-kshetra",
@@ -5921,7 +6065,13 @@
    "ev-nityananda-pilgrimage",
    "ev-kurma-vasudeva",
    "ev-marwari-brahmana-son"
-  ]
+  ],
+  "geo": {
+   "lat": 18.271,
+   "lon": 84.0048,
+   "precision": "точно",
+   "basis": "OSM: Sri Kurmam, Srikakulam"
+  }
  },
  {
   "id": "#simhachala",
@@ -5944,7 +6094,13 @@
   "events": [
    "ev-nityananda-pilgrimage",
    "ev-jiyada-nrisimha"
-  ]
+  ],
+  "geo": {
+   "lat": 17.7453,
+   "lon": 83.2208,
+   "precision": "точно",
+   "basis": "OSM: Simhachalam, Visakhapatnam"
+  }
  },
  {
   "id": "#kanchi",
@@ -5964,7 +6120,13 @@
    "ev-ramananda-raya-godavari",
    "ev-vishnu-kanchi",
    "ev-amrita-linga-gosamaja"
-  ]
+  ],
+  "geo": {
+   "lat": 12.9647,
+   "lon": 79.984,
+   "precision": "примерно",
+   "basis": "OSM: Kanchipuram"
+  }
  },
  {
   "id": "#godavari",
@@ -6036,7 +6198,13 @@
   "events": [
    "ev-panchavati-rama-bhava",
    "ev-gita-reading-brahmana"
-  ]
+  ],
+  "geo": {
+   "lat": 20.0067,
+   "lon": 73.7936,
+   "precision": "примерно",
+   "basis": "OSM: Panchavati, Nashik"
+  }
  },
  {
   "id": "#ranga-kshetra",
@@ -6077,7 +6245,13 @@
    "ev-srirangam-chaturmasya",
    "ev-gopala-bhatta-dream-vision",
    "ev-hari-bhakti-vilasa"
-  ]
+  ],
+  "geo": {
+   "lat": 10.8573,
+   "lon": 78.6931,
+   "precision": "примерно",
+   "basis": "OSM: Srirangam, Tiruchirappalli"
+  }
  },
  {
   "id": "#setubandha",
@@ -6117,7 +6291,13 @@
    "ev-maya-sita-kurma-purana",
    "ev-setubandha-rameshvara",
    "ev-rupa-prayaga"
-  ]
+  ],
+  "geo": {
+   "lat": 9.2845,
+   "lon": 79.3126,
+   "precision": "примерно",
+   "basis": "OSM: Rameswaram"
+  }
  },
  {
   "id": "#alalanatha",
@@ -6155,7 +6335,13 @@
    "ev-snana-yatra-anavasara-alalanatha",
    "ev-chhota-haridasa-punished",
    "ev-gopinatha-pattanayaka-pardoned"
-  ]
+  ],
+  "geo": {
+   "lat": 19.7879,
+   "lon": 85.6405,
+   "precision": "примерно",
+   "basis": "OSM: Brahmagiri, Puri"
+  }
  },
  {
   "id": "#kanai-natashala",
@@ -6187,7 +6373,13 @@
    "ev-ramakeli-rupa-sanatana",
    "ev-lord-calls-narottama-ramakeli",
    "ev-shantipura-after-natashala"
-  ]
+  ],
+  "geo": {
+   "lat": 25.0531,
+   "lon": 87.8305,
+   "precision": "условно",
+   "basis": "у Раджмахала (PLACES.md); точка — OSM: Rajmahal"
+  }
  },
  {
   "id": "#jharikhanda",
@@ -6267,7 +6459,13 @@
    "ev-jagadananda-vrindavana-pilu",
    "ev-rupa-sanatana-departure",
    "ev-srinivasa-narottama-farewell-parikrama"
-  ]
+  ],
+  "geo": {
+   "lat": 27.4391,
+   "lon": 77.7204,
+   "precision": "примерно",
+   "basis": "OSM: Gokul, Mahavan, Mathura"
+  }
  },
  {
   "id": "#govardhana",
@@ -6352,13 +6550,19 @@
    "ev-jahnava-vrindavana",
    "ev-virachandra-pilgrimage",
    "ev-krishna-four-arms-vanish-before-radha"
-  ]
+  ],
+  "geo": {
+   "lat": 27.4973,
+   "lon": 77.4612,
+   "precision": "примерно",
+   "basis": "OSM: Govardhan, Mathura"
+  }
  },
  {
   "id": "#kulia",
   "ru": "Кулия",
   "en": "Kulia",
-  "note": "селение на Ганге напротив Навадвипы (Колдвип); здесь Господь принимал жителей Навадвипы",
+  "note": "селение на Ганге напротив Навадвипы (Колдвип); здесь Господь принимал жителей Навадвипы · НДМ 10.49, 11.3–42: Кулия-пахада (Коладвипа-парвата) — возвышенность на берегу Ганги; Махапраяга (слияние Ганги с пятью реками), Вараха-кшетра; Врадж — Говардхана; НБТ 65–67",
   "section": "",
   "lilas": [
    "pvl-0258",
@@ -6404,7 +6608,13 @@
    "ev-kulia-offender-brahmana-remedy",
    "ev-devananda-mercy",
    "ev-ramakeli-rupa-sanatana"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4087,
+   "lon": 88.3658,
+   "precision": "примерно",
+   "basis": "OSM: Nabadwip (город; Кулия-пахада — Коладвипа, НДМ 11.10)"
+  }
  },
  {
   "id": "#dravida",
@@ -6452,7 +6662,13 @@
   "events": [
    "ev-mandara-fever-brahmana-water",
    "ev-gaya-ishvara-puri-initiation"
-  ]
+  ],
+  "geo": {
+   "lat": 25.03,
+   "lon": 85.4207,
+   "precision": "примерно",
+   "basis": "OSM: Rajgir, Nalanda"
+  }
  },
  {
   "id": "#punahpuna",
@@ -6501,7 +6717,13 @@
    "ev-balarama-bhava",
    "ev-nagari-bhava-padas",
    "ev-murari-serve-advaita"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4234,
+   "lon": 88.3908,
+   "precision": "условно",
+   "basis": "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"
+  }
  },
  {
   "id": "#phulia",
@@ -6541,7 +6763,13 @@
    "ev-shantipura-reunion",
    "ev-nityananda-preaching-gauda",
    "ev-virachandra-marriage"
-  ]
+  ],
+  "geo": {
+   "lat": 23.23,
+   "lon": 88.4974,
+   "precision": "примерно",
+   "basis": "OSM: Phulia, Santipur, Nadia"
+  }
  },
  {
   "id": "#house-kashi-mishra",
@@ -6609,7 +6837,13 @@
    "ev-limbs-elongated-separation",
    "ev-gambhira-divine-madness",
    "ev-face-rubbing-gambhira"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8004,
+   "lon": 85.8189,
+   "precision": "точно",
+   "basis": "OSM: Sri Gambhira (Radha-Kanta math), Puri"
+  }
  },
  {
   "id": "#ramakeli",
@@ -6654,7 +6888,13 @@
    "ev-shantipura-after-natashala",
    "ev-natashala-kanai-return",
    "ev-virachandra-maldah"
-  ]
+  ],
+  "geo": {
+   "lat": 24.8829,
+   "lon": 88.1281,
+   "precision": "условно",
+   "basis": "близ Гауды (PLACES.md); точка — руины Гаура (OSM: Baro Sona Masjid)"
+  }
  },
  {
   "id": "#kulinagrama",
@@ -6722,7 +6962,13 @@
    "ev-srinivasa-vraja-pilgrimage",
    "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana"
-  ]
+  ],
+  "geo": {
+   "lat": 27.711,
+   "lon": 77.3857,
+   "precision": "примерно",
+   "basis": "OSM: Nandgaon, Mathura"
+  }
  },
  {
   "id": "#varshana",
@@ -6745,7 +6991,13 @@
    "ev-narottama-initiation",
    "ev-srinivasa-vraja-pilgrimage",
    "ev-srinivasa-narottama-farewell-parikrama"
-  ]
+  ],
+  "geo": {
+   "lat": 27.6481,
+   "lon": 77.3765,
+   "precision": "примерно",
+   "basis": "OSM: Barsana, Mathura"
+  }
  },
  {
   "id": "#ambika-kalna",
@@ -6796,7 +7048,13 @@
    "ev-kheturi-six-deities",
    "ev-jahnava-kheturi",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 23.2211,
+   "lon": 88.3592,
+   "precision": "примерно",
+   "basis": "OSM: Kalna, Purba Bardhaman"
+  }
  },
  {
   "id": "#narendra-sarovara",
@@ -6838,7 +7096,13 @@
    "ev-lord-disappearance",
    "ev-srinivasa-gadadhara-puri",
    "ev-narottama-puri"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8137,
+   "lon": 85.825,
+   "precision": "точно",
+   "basis": "OSM: Narendra Pokhari, Puri"
+  }
  },
  {
   "id": "#gundicha",
@@ -6896,7 +7160,13 @@
    "ev-raghunatha-dasa-joins-lord",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-fall-into-ocean-fisherman"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8166,
+   "lon": 85.8397,
+   "precision": "точно",
+   "basis": "OSM: Gundicha Temple, Puri"
+  }
  },
  {
   "id": "#panihati",
@@ -6949,7 +7219,13 @@
    "ev-avirbhava-four-places",
    "ev-panihati-chida-dadhi",
    "ev-raghavera-jhali"
-  ]
+  ],
+  "geo": {
+   "lat": 22.695,
+   "lon": 88.4074,
+   "precision": "примерно",
+   "basis": "OSM: Panihati, North 24 Parganas"
+  }
  },
  {
   "id": "#saptagrama",
@@ -6983,7 +7259,13 @@
    "ev-panihati-chida-dadhi",
    "ev-raghunatha-dasa-escape",
    "ev-raghunatha-dasa-joins-lord"
-  ]
+  ],
+  "geo": {
+   "lat": 22.9614,
+   "lon": 88.3801,
+   "precision": "примерно",
+   "basis": "OSM: Saptagram, Hooghly"
+  }
  },
  {
   "id": "#badagachhi",
@@ -7044,7 +7326,13 @@
    "ev-prataparudra-farewell-six-armed",
    "ev-gadadhara-leaves-kshetra-sannyasa",
    "ev-gauda-devotees-yearly-visit"
-  ]
+  ],
+  "geo": {
+   "lat": 20.4686,
+   "lon": 85.8792,
+   "precision": "примерно",
+   "basis": "OSM: Cuttack"
+  }
  },
  {
   "id": "#kamalapura",
@@ -7089,7 +7377,13 @@
    "ev-journey-to-puri",
    "ev-departure-for-gauda",
    "ev-jayananda-named"
-  ]
+  ],
+  "geo": {
+   "lat": 20.9854,
+   "lon": 86.5934,
+   "precision": "примерно",
+   "basis": "OSM: Bhadrak"
+  }
  },
  {
   "id": "#kumarahatta",
@@ -7135,7 +7429,13 @@
    "ev-srivasa-test-sannyasa",
    "ev-raghunatha-dasa-joins-lord",
    "ev-jagadananda-sandal-oil"
-  ]
+  ],
+  "geo": {
+   "lat": 22.9322,
+   "lon": 88.4249,
+   "precision": "примерно",
+   "basis": "OSM: Halisahar, North 24 Parganas"
+  }
  },
  {
   "id": "#gauda",
@@ -7295,7 +7595,13 @@
    "ev-tattva-chaitanya-nityananda-sun-moon",
    "ev-tattva-two-bhagavatas",
    "ev-tattva-bhakti-kalpataru"
-  ]
+  ],
+  "geo": {
+   "lat": 24.8829,
+   "lon": 88.1281,
+   "precision": "примерно",
+   "basis": "OSM: Baro Sona Masjid (руины Гаура), Maldah"
+  }
  },
  {
   "id": "#jayapura-shrihatta",
@@ -7401,7 +7707,13 @@
    "ev-lord-disappearance",
    "ev-srinivasa-gadadhara-puri",
    "ev-narottama-puri"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8048,
+   "lon": 85.8181,
+   "precision": "условно",
+   "basis": "в Пури у моря; точное место не установлено — OSM: Jagannath Temple"
+  }
  },
  {
   "id": "#burdwan",
@@ -7417,7 +7729,13 @@
   "events": [
    "ev-govinda-wife-burdwan",
    "ev-kashi-mitra-jagannatha-bhoga"
-  ]
+  ],
+  "geo": {
+   "lat": 23.2496,
+   "lon": 87.8682,
+   "precision": "примерно",
+   "basis": "OSM: Bardhaman"
+  }
  },
  {
   "id": "#medinipur",
@@ -7430,7 +7748,13 @@
   ],
   "events": [
    "ev-keshava-samanta-medinipur"
-  ]
+  ],
+  "geo": {
+   "lat": 22.4207,
+   "lon": 87.327,
+   "precision": "примерно",
+   "basis": "OSM: Medinipur"
+  }
  },
  {
   "id": "#narayangarh",
@@ -7444,7 +7768,13 @@
   ],
   "events": [
    "ev-narayangarh-dhaleshvara"
-  ]
+  ],
+  "geo": {
+   "lat": 22.1144,
+   "lon": 87.4061,
+   "precision": "примерно",
+   "basis": "OSM: Narayangarh, Paschim Medinipur"
+  }
  },
  {
   "id": "#jaleshvara",
@@ -7459,7 +7789,13 @@
   "events": [
    "ev-journey-to-puri",
    "ev-jaleshvara-shiva-dance"
-  ]
+  ],
+  "geo": {
+   "lat": 21.7976,
+   "lon": 87.2201,
+   "precision": "примерно",
+   "basis": "OSM: Jaleswar, Baleshwar"
+  }
  },
  {
   "id": "#suvarnarekha",
@@ -7536,7 +7872,13 @@
   "events": [
    "ev-tripadi-ramats",
    "ev-amrita-linga-gosamaja"
-  ]
+  ],
+  "geo": {
+   "lat": 13.6316,
+   "lon": 79.4232,
+   "precision": "примерно",
+   "basis": "OSM: Tirupati"
+  }
  },
  {
   "id": "#mangalagiri",
@@ -7550,7 +7892,13 @@
   ],
   "events": [
    "ev-pana-nrisimha"
-  ]
+  ],
+  "geo": {
+   "lat": 16.4318,
+   "lon": 80.5688,
+   "precision": "примерно",
+   "basis": "OSM: Mangalagiri, Guntur"
+  }
  },
  {
   "id": "#vishnu-kanchi",
@@ -7568,7 +7916,13 @@
    "ev-nityananda-pilgrimage",
    "ev-vishnu-kanchi",
    "ev-amrita-linga-gosamaja"
-  ]
+  ],
+  "geo": {
+   "lat": 12.8197,
+   "lon": 79.7256,
+   "precision": "точно",
+   "basis": "OSM: Kanchi Varadharaja Perumal Temple"
+  }
  },
  {
   "id": "#pakshitirtha",
@@ -7582,7 +7936,13 @@
   ],
   "events": [
    "ev-pakshitirtha-tiger"
-  ]
+  ],
+  "geo": {
+   "lat": 12.6464,
+   "lon": 79.9716,
+   "precision": "примерно",
+   "basis": "OSM: Thirukalukundram (дорога), Chengalpattu"
+  }
  },
  {
   "id": "#kaveri",
@@ -7626,7 +7986,13 @@
   ],
   "events": [
    "ev-tanjore-dhaleshvara"
-  ]
+  ],
+  "geo": {
+   "lat": 10.659,
+   "lon": 79.2014,
+   "precision": "примерно",
+   "basis": "OSM: Thanjavur"
+  }
  },
  {
   "id": "#padmakot",
@@ -7714,7 +8080,13 @@
   "events": [
    "ev-nityananda-pilgrimage",
    "ev-tamraparni-kanyakumari"
-  ]
+  ],
+  "geo": {
+   "lat": 8.0793,
+   "lon": 77.5499,
+   "precision": "примерно",
+   "basis": "OSM: Kanyakumari"
+  }
  },
  {
   "id": "#travancore",
@@ -7731,7 +8103,13 @@
   "events": [
    "ev-setubandha-rameshvara",
    "ev-rudrapati-travancore"
-  ]
+  ],
+  "geo": {
+   "lat": 8.4882,
+   "lon": 76.9476,
+   "precision": "примерно",
+   "basis": "OSM: Thiruvananthapuram (столица Траванкора)"
+  }
  },
  {
   "id": "#shringeri",
@@ -7746,7 +8124,13 @@
   ],
   "events": [
    "ev-shringeri-debate"
-  ]
+  ],
+  "geo": {
+   "lat": 13.4262,
+   "lon": 75.2554,
+   "precision": "примерно",
+   "basis": "OSM: Sringeri"
+  }
  },
  {
   "id": "#chandapur-kaveri",
@@ -7774,7 +8158,13 @@
   "events": [
    "ev-pune-krishna-in-pond",
    "ev-rupa-narayana"
-  ]
+  ],
+  "geo": {
+   "lat": 18.5214,
+   "lon": 73.8545,
+   "precision": "примерно",
+   "basis": "OSM: Pune"
+  }
  },
  {
   "id": "#jejuri",
@@ -7787,7 +8177,13 @@
   ],
   "events": [
    "ev-khandoba-murari"
-  ]
+  ],
+  "geo": {
+   "lat": 18.2769,
+   "lon": 74.1602,
+   "precision": "примерно",
+   "basis": "OSM: Jejuri, Pune"
+  }
  },
  {
   "id": "#chorananda",
@@ -7816,7 +8212,13 @@
   "events": [
    "ev-advaita-pilgrimage",
    "ev-panchavati-rama-bhava"
-  ]
+  ],
+  "geo": {
+   "lat": 19.9354,
+   "lon": 73.5302,
+   "precision": "примерно",
+   "basis": "OSM: Trimbak, Nashik"
+  }
  },
  {
   "id": "#baroda",
@@ -7832,7 +8234,13 @@
   "events": [
    "ev-baroda-naroji-death",
    "ev-return-journey-central-india"
-  ]
+  ],
+  "geo": {
+   "lat": 22.2973,
+   "lon": 73.1943,
+   "precision": "примерно",
+   "basis": "OSM: Vadodara"
+  }
  },
  {
   "id": "#ahmadabad",
@@ -7845,7 +8253,13 @@
   ],
   "events": [
    "ev-south-conversions"
-  ]
+  ],
+  "geo": {
+   "lat": 23.0215,
+   "lon": 72.5801,
+   "precision": "примерно",
+   "basis": "OSM: Ahmedabad"
+  }
  },
  {
   "id": "#gogha",
@@ -7859,7 +8273,13 @@
   ],
   "events": [
    "ev-gogha-barmukhi"
-  ]
+  ],
+  "geo": {
+   "lat": 21.6874,
+   "lon": 72.2762,
+   "precision": "примерно",
+   "basis": "OSM: Ghogha, Bhavnagar"
+  }
  },
  {
   "id": "#somnatha",
@@ -7872,7 +8292,13 @@
   ],
   "events": [
    "ev-somnatha-ruins"
-  ]
+  ],
+  "geo": {
+   "lat": 20.8957,
+   "lon": 70.408,
+   "precision": "примерно",
+   "basis": "OSM: Somnath, Gir Somnath"
+  }
  },
  {
   "id": "#girnar",
@@ -7886,7 +8312,13 @@
   ],
   "events": [
    "ev-girnar-footprints"
-  ]
+  ],
+  "geo": {
+   "lat": 21.527,
+   "lon": 70.5231,
+   "precision": "примерно",
+   "basis": "OSM: Girnar (Junagadh)"
+  }
  },
  {
   "id": "#prabhasa",
@@ -7903,7 +8335,13 @@
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage",
    "ev-prabhasa"
-  ]
+  ],
+  "geo": {
+   "lat": 20.8905,
+   "lon": 70.402,
+   "precision": "примерно",
+   "basis": "OSM: Prabhas Patan, Somnath"
+  }
  },
  {
   "id": "#kukshi",
@@ -7916,7 +8354,13 @@
   ],
   "events": [
    "ev-kukshi-vaishya-dream"
-  ]
+  ],
+  "geo": {
+   "lat": 22.2125,
+   "lon": 74.7599,
+   "precision": "примерно",
+   "basis": "OSM: Kukshi, Dhar"
+  }
  },
  {
   "id": "#devghar",
@@ -7963,7 +8407,13 @@
    "ev-return-visit-ramananda",
    "ev-return-from-south",
    "ev-pradyumna-mishra-hears-ramananda"
-  ]
+  ],
+  "geo": {
+   "lat": 17.005,
+   "lon": 81.7805,
+   "precision": "условно",
+   "basis": "на Годавари (ЧЧ); точка — OSM: Rajamahendravaram (традиционно — окрестности Раджамандри)"
+  }
  },
  {
   "id": "#rasalkunda",
@@ -7976,7 +8426,13 @@
   ],
   "events": [
    "ev-marwari-brahmana-son"
-  ]
+  ],
+  "geo": {
+   "lat": 20.0209,
+   "lon": 84.4864,
+   "precision": "примерно",
+   "basis": "OSM: Bhanjanagar (прежде Расселконда), Ganjam"
+  }
  },
  {
   "id": "#lauda",
@@ -8047,7 +8503,13 @@
    "ev-advaita-vidyapati",
    "ev-associates-descend",
    "ev-purushottama-acharya-sannyasa"
-  ]
+  ],
+  "geo": {
+   "lat": 26.7285,
+   "lon": 85.9249,
+   "precision": "примерно",
+   "basis": "OSM: Janakpur (Непал) — столица Митхилы по преданию"
+  }
  },
  {
   "id": "#ayodhya",
@@ -8068,7 +8530,13 @@
    "ev-lokanatha-sent-to-vrindavana",
    "ev-subuddhi-raya-holy-name",
    "ev-haridasa-sthavara-jangama-deliverance"
-  ]
+  ],
+  "geo": {
+   "lat": 26.7991,
+   "lon": 82.2052,
+   "precision": "примерно",
+   "basis": "OSM: Ayodhya"
+  }
  },
  {
   "id": "#badrikashrama",
@@ -8083,7 +8551,13 @@
   "events": [
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 30.7423,
+   "lon": 79.493,
+   "precision": "примерно",
+   "basis": "OSM: Badrinath, Chamoli"
+  }
  },
  {
   "id": "#narayanapura",
@@ -8119,7 +8593,13 @@
    "ev-haridasa-phulia-benapole",
    "ev-haridasa-prostitute",
    "ev-nityananda-ramachandra-khan"
-  ]
+  ],
+  "geo": {
+   "lat": 23.0446,
+   "lon": 88.9041,
+   "precision": "примерно",
+   "basis": "OSM: Benapole, Jessore"
+  }
  },
  {
   "id": "#kharadaha",
@@ -8194,7 +8674,13 @@
    "ev-kheturi-six-deities",
    "ev-jahnava-kheturi",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 22.7157,
+   "lon": 88.3816,
+   "precision": "примерно",
+   "basis": "OSM: Khardaha, North 24 Parganas"
+  }
  },
  {
   "id": "#radha-kunda",
@@ -8258,7 +8744,13 @@
    "ev-srinivasa-disciples",
    "ev-narottama-branches",
    "ev-tattva-gopi-prema"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5245,
+   "lon": 77.4906,
+   "precision": "примерно",
+   "basis": "OSM: Radha Kund, Mathura"
+  }
  },
  {
   "id": "#chakhandi",
@@ -8376,7 +8868,13 @@
    "ev-srinivasa-ramachandra-disappearance",
    "ev-hemalata-radha-ramana",
    "ev-srinivasa-disciples"
-  ]
+  ],
+  "geo": {
+   "lat": 23.6291,
+   "lon": 88.1035,
+   "precision": "примерно",
+   "basis": "OSM: Jajigram, Katwa-I, Purba Bardhaman"
+  }
  },
  {
   "id": "#kheturi",
@@ -8527,7 +9025,13 @@
    "ev-narottama-pyre-gambhila",
    "ev-narottama-disappearance",
    "ev-narottama-branches"
-  ]
+  ],
+  "geo": {
+   "lat": 24.3955,
+   "lon": 88.4077,
+   "precision": "примерно",
+   "basis": "OSM: Premtali (Godagari, Rajshahi) — Кхетури"
+  }
  },
  {
   "id": "#khanakul",
@@ -8543,13 +9047,19 @@
   "events": [
    "ev-abhirama-whip-srinivasa",
    "ev-shyamananda-initiation-ambika"
-  ]
+  ],
+  "geo": {
+   "lat": 22.7126,
+   "lon": 87.8525,
+   "precision": "примерно",
+   "basis": "OSM: Khanakul, Hooghly"
+  }
  },
  {
   "id": "#belpukhuria",
   "ru": "Белпукхурия",
   "en": "Belpukhuria",
-  "note": "Бенгалия; дом отца Шачи («Према-виласа» 7)",
+  "note": "Бенгалия; дом отца Шачи («Према-виласа» 7) · = Билвапакша (Бела-Пукурийя) НДМ 8.11, 16.5–58: Шива и Нимбадитья (Нимбарка), четверо Кумаров; Врадж — Билвавана; НБТ 25",
   "section": "",
   "lilas": [
    "pvl-0227",
@@ -8559,7 +9069,13 @@
   "events": [
    "ev-mishra-family-migrates-navadvipa",
    "ev-vishvarupa-sannyasa"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4786,
+   "lon": 88.4098,
+   "precision": "точно",
+   "basis": "OSM: Belpukur, Krishnagar-II, Nadia (= Билвапакша, НДМ 16.5)"
+  }
  },
  {
   "id": "#talagadi",
@@ -8596,7 +9112,13 @@
    "ev-narottama-initiation",
    "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana"
-  ]
+  ],
+  "geo": {
+   "lat": 27.711,
+   "lon": 77.3857,
+   "precision": "условно",
+   "basis": "селение во Врадже близ Нандаграма; точка — OSM: Nandgaon"
+  }
  },
  {
   "id": "#sanketa",
@@ -8617,7 +9139,13 @@
    "ev-narottama-initiation",
    "ev-srinivasa-vraja-pilgrimage",
    "ev-jahnava-vrindavana"
-  ]
+  ],
+  "geo": {
+   "lat": 27.6797,
+   "lon": 77.3821,
+   "precision": "примерно",
+   "basis": "OSM: Sanket, Chhata, Mathura"
+  }
  },
  {
   "id": "#vana-vishnupura",
@@ -8688,7 +9216,13 @@
    "ev-virachandra-vishnupura",
    "ev-jiva-srinivasa-letters",
    "ev-srinivasa-disciples"
-  ]
+  ],
+  "geo": {
+   "lat": 23.0757,
+   "lon": 87.3146,
+   "precision": "примерно",
+   "basis": "OSM: Bishnupur, Bankura"
+  }
  },
  {
   "id": "#teliya-budhari",
@@ -8753,7 +9287,13 @@
   "events": [
    "ev-shyamananda-utkala",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 22.2092,
+   "lon": 86.8974,
+   "precision": "примерно",
+   "basis": "OSM: Gopiballabhpur, Jhargram"
+  }
  },
  {
   "id": "#dharenda",
@@ -8784,7 +9324,13 @@
   ],
   "events": [
    "ev-narayani-from-ocean"
-  ]
+  ],
+  "geo": {
+   "lat": 22.7368,
+   "lon": 88.3509,
+   "precision": "примерно",
+   "basis": "OSM: Mahesh (Serampore), Hooghly"
+  }
  },
  {
   "id": "#chilka",
@@ -8797,7 +9343,13 @@
   ],
   "events": [
    "ev-virachandra-marriage"
-  ]
+  ],
+  "geo": {
+   "lat": 19.6853,
+   "lon": 85.2504,
+   "precision": "примерно",
+   "basis": "OSM: Chilika Lake"
+  }
  },
  {
   "id": "#mangalkot",
@@ -8811,7 +9363,13 @@
   ],
   "events": [
    "ev-chandana-mandala-chariot"
-  ]
+  ],
+  "geo": {
+   "lat": 23.5493,
+   "lon": 87.9854,
+   "precision": "примерно",
+   "basis": "OSM: Mangolkote, Purba Bardhaman"
+  }
  },
  {
   "id": "#dhaka",
@@ -8824,7 +9382,13 @@
   ],
   "events": [
    "ev-virachandra-dhaka-governor"
-  ]
+  ],
+  "geo": {
+   "lat": 23.7644,
+   "lon": 90.389,
+   "precision": "примерно",
+   "basis": "OSM: Dhaka"
+  }
  },
  {
   "id": "#maldah",
@@ -8838,7 +9402,13 @@
   ],
   "events": [
    "ev-virachandra-maldah"
-  ]
+  ],
+  "geo": {
+   "lat": 25.0057,
+   "lon": 88.1398,
+   "precision": "примерно",
+   "basis": "OSM: Malda (English Bazar)"
+  }
  },
  {
   "id": "#virachandrapura",
@@ -8882,7 +9452,13 @@
   "events": [
    "ev-gopinatha-madhu-pandita",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5754,
+   "lon": 77.6938,
+   "precision": "условно",
+   "basis": "во Вриндаване у Ямуны; точка — OSM: Vrindavan"
+  }
  },
  {
   "id": "#kusuma-sarovara",
@@ -8895,7 +9471,13 @@
   ],
   "events": [
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 27.512,
+   "lon": 77.4784,
+   "precision": "точно",
+   "basis": "OSM: Kusum Sarovar, Govardhan"
+  }
  },
  {
   "id": "#bahulavana",
@@ -8914,7 +9496,13 @@
    "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana",
    "ev-virachandra-pilgrimage"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5385,
+   "lon": 77.6027,
+   "precision": "примерно",
+   "basis": "OSM: Bati (Бахулавана), Mathura"
+  }
  },
  {
   "id": "#saligrama",
@@ -8945,7 +9533,13 @@
    "ev-nityananda-preaching-gauda",
    "ev-dana-khanda-gadadhara-dasa",
    "ev-gadadhara-dasa-kazi-hari"
-  ]
+  ],
+  "geo": {
+   "lat": 22.6674,
+   "lon": 88.3672,
+   "precision": "примерно",
+   "basis": "OSM: Ariadaha, North 24 Parganas"
+  }
  },
  {
   "id": "#boraquli",
@@ -8967,7 +9561,13 @@
   ],
   "events": [
    "ev-kheturi-festival"
-  ]
+  ],
+  "geo": {
+   "lat": 23.7329,
+   "lon": 87.9719,
+   "precision": "примерно",
+   "basis": "OSM: Kandra, Ketugram-I, Purba Bardhaman"
+  }
  },
  {
   "id": "#adaila",
@@ -8986,7 +9586,13 @@
    "ev-vallabha-bhatta-adaila",
    "ev-raghupati-upadhyaya",
    "ev-bengali-servants-shrinathji"
-  ]
+  ],
+  "geo": {
+   "lat": 25.4188,
+   "lon": 81.8809,
+   "precision": "примерно",
+   "basis": "OSM: Arail, Naini, Prayagraj"
+  }
  },
  {
   "id": "#bhandiravana",
@@ -9021,7 +9627,13 @@
   "events": [
    "ev-nityananda-pilgrimage",
    "ev-vallabha-bhatta-puri"
-  ]
+  ],
+  "geo": {
+   "lat": 21.6597,
+   "lon": 88.0779,
+   "precision": "примерно",
+   "basis": "OSM: Gangasagar, Sagar, South 24 Parganas"
+  }
  },
  {
   "id": "#kumaranagara",
@@ -9086,7 +9698,13 @@
    "ev-gambhira-divine-madness",
    "ev-chataka-parvata-govardhana",
    "ev-fall-into-ocean-fisherman"
-  ]
+  ],
+  "geo": {
+   "lat": 19.7969,
+   "lon": 85.8134,
+   "precision": "точно",
+   "basis": "OSM: Chataka parvata, Puri"
+  }
  },
  {
   "id": "#nrisimhapura",
@@ -9114,7 +9732,13 @@
   "events": [
    "ev-kaviraja-nityananda-jhamatpur",
    "ev-gosvamis-ancestry"
-  ]
+  ],
+  "geo": {
+   "lat": 22.8866,
+   "lon": 88.4242,
+   "precision": "примерно",
+   "basis": "OSM: Naihati, North 24 Parganas"
+  }
  },
  {
   "id": "#chandradvipa",
@@ -9131,7 +9755,13 @@
    "ev-rupa-sanatana-renunciation",
    "ev-jiva-comes-to-vrindavana",
    "ev-gosvamis-ancestry"
-  ]
+  ],
+  "geo": {
+   "lat": 22.701,
+   "lon": 90.3535,
+   "precision": "примерно",
+   "basis": "общеизвестно: г. Барисал (Бакла-Чандрадвипа)"
+  }
  },
  {
   "id": "#fatehabad",
@@ -9150,7 +9780,13 @@
    "ev-jiva-comes-to-vrindavana",
    "ev-jiva-meets-nityananda-navadvipa",
    "ev-gosvamis-ancestry"
-  ]
+  ],
+  "geo": {
+   "lat": 23.1665,
+   "lon": 89.2094,
+   "precision": "условно",
+   "basis": "край Яшохара (PLACES.md); точка — OSM: Jessore"
+  }
  },
  {
   "id": "#karnata",
@@ -9215,7 +9851,13 @@
   ],
   "events": [
    "ev-santosha-datta-sangita-madhava"
-  ]
+  ],
+  "geo": {
+   "lat": 24.2073,
+   "lon": 88.9907,
+   "precision": "примерно",
+   "basis": "OSM: Gopalpur (Lalpur, Natore) на Падме — отождествление вероятное"
+  }
  },
  {
   "id": "#gomatila",
@@ -9231,7 +9873,13 @@
   "events": [
    "ev-govinda-deva-appearance",
    "ev-kaviraja-ordered-to-write-cc"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5814,
+   "lon": 77.6994,
+   "precision": "точно",
+   "basis": "OSM: Govind Dev Temple, Vrindavan"
+  }
  },
  {
   "id": "#brahma-kunda",
@@ -9244,7 +9892,13 @@
   ],
   "events": [
    "ev-vrinda-devi-rupa"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5814,
+   "lon": 77.6994,
+   "precision": "условно",
+   "basis": "у храма Говинды (PLACES.md); OSM: Govind Dev Temple, Vrindavan"
+  }
  },
  {
   "id": "#gambhila",
@@ -9305,7 +9959,13 @@
   ],
   "events": [
    "ev-udupi-tattvavadis"
-  ]
+  ],
+  "geo": {
+   "lat": 13.527,
+   "lon": 74.8732,
+   "precision": "примерно",
+   "basis": "OSM: Udupi"
+  }
  },
  {
   "id": "#pandharpur",
@@ -9320,7 +9980,13 @@
   ],
   "events": [
    "ev-ranga-puri-pandharpur"
-  ]
+  ],
+  "geo": {
+   "lat": 17.7256,
+   "lon": 75.3002,
+   "precision": "примерно",
+   "basis": "OSM: Pandharpur, Solapur"
+  }
  },
  {
   "id": "#madurai",
@@ -9338,7 +10004,13 @@
   "events": [
    "ev-nityananda-pilgrimage",
    "ev-maya-sita-kurma-purana"
-  ]
+  ],
+  "geo": {
+   "lat": 9.9261,
+   "lon": 78.1141,
+   "precision": "примерно",
+   "basis": "OSM: Madurai"
+  }
  },
  {
   "id": "#lanka",
@@ -9366,7 +10038,13 @@
   "events": [
    "ev-madhavendra-gopala-govardhana",
    "ev-gopala-ganthuli"
-  ]
+  ],
+  "geo": {
+   "lat": 27.4973,
+   "lon": 77.4612,
+   "precision": "условно",
+   "basis": "у Говардханы, к югу от Анйора; точка — OSM: Govardhan"
+  }
  },
  {
   "id": "#anyor",
@@ -9375,7 +10053,13 @@
   "note": "деревня у Говардханы; аннакута Гопалы",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.4973,
+   "lon": 77.4612,
+   "precision": "условно",
+   "basis": "у Говардханы; точка — OSM: Govardhan"
+  }
  },
  {
   "id": "#jatipura",
@@ -9384,7 +10068,13 @@
   "note": "у Говардханы, к западу от Анйора; место явления Гопалы Мадхавендре; не путать с #gopalapura",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.4745,
+   "lon": 77.4419,
+   "precision": "примерно",
+   "basis": "OSM: Jatipura, Mathura"
+  }
  },
  {
   "id": "#ganthuli",
@@ -9398,7 +10088,13 @@
   ],
   "events": [
    "ev-gopala-ganthuli"
-  ]
+  ],
+  "geo": {
+   "lat": 27.4973,
+   "lon": 77.4612,
+   "precision": "условно",
+   "basis": "у Говардханы; точка — OSM: Govardhan"
+  }
  },
  {
   "id": "#nathdvara",
@@ -9407,7 +10103,13 @@
   "note": "Мевар (Раджастхан); сюда Шринатхаджи увезён от гонений Аурангзеба (1668 и позже); ныне пребывает здесь",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 24.9122,
+   "lon": 73.9137,
+   "precision": "примерно",
+   "basis": "OSM: Nathdwara, Rajsamand"
+  }
  },
  {
   "id": "#sarayu",
@@ -9434,13 +10136,19 @@
   "note": "Навадвипа; свадьба Господа с Вишнуприей",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4234,
+   "lon": 88.3908,
+   "precision": "условно",
+   "basis": "в Навадвипе (Майяпур); точное место не установлено — точка Майяпура (OSM)"
+  }
  },
  {
   "id": "#gadigachha",
   "ru": "Гадигачха (Годрума), пруд Горадаха",
   "en": "Gadigachha (Godruma), Goradaha pond",
-  "note": "Навадвипа-мандала; селение пастухов, пруд Горадаха («Према-виварта» 15)",
+  "note": "Навадвипа-мандала; селение пастухов, пруд Горадаха («Према-виварта» 15) · НДМ 8.26–27: селение в Годрумадвипе (#godrumadvipa)",
   "section": "",
   "lilas": [
    "cb-2053",
@@ -9449,7 +10157,13 @@
   "events": [
    "ev-nagara-kirtana-kazi",
    "ev-goradaha-crocodile-deliverance"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4086,
+   "lon": 88.4019,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Gādigāchhā"
+  }
  },
  {
   "id": "#jagannatha-vallabha",
@@ -9466,7 +10180,13 @@
    "ev-gundicha-nine-days-lilas",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-krishna-ashoka-spring-garden"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8096,
+   "lon": 85.824,
+   "precision": "точно",
+   "basis": "OSM: Jagannath Ballav Mutt, Puri"
+  }
  },
  {
   "id": "#jhamatpur",
@@ -9498,7 +10218,13 @@
    "ev-associates-descend",
    "ev-nimai-challenges-mukunda",
    "ev-gadadhara-initiation-pundarika"
-  ]
+  ],
+  "geo": {
+   "lat": 22.3338,
+   "lon": 91.8344,
+   "precision": "примерно",
+   "basis": "OSM: Chittagong"
+  }
  },
  {
   "id": "#budhana",
@@ -9530,7 +10256,13 @@
   "events": [
    "ev-nityananda-pilgrimage",
    "ev-shri-shaila-shiva-durga"
-  ]
+  ],
+  "geo": {
+   "lat": 16.075,
+   "lon": 78.8726,
+   "precision": "примерно",
+   "basis": "OSM: Srisailam"
+  }
  },
  {
   "id": "#harinadi",
@@ -9556,7 +10288,13 @@
   ],
   "events": [
    "ev-books-leave-vrindavana"
-  ]
+  ],
+  "geo": {
+   "lat": 27.1753,
+   "lon": 78.0098,
+   "precision": "примерно",
+   "basis": "OSM: Agra"
+  }
  },
  {
   "id": "#kamyavana",
@@ -9571,7 +10309,13 @@
   "events": [
    "ev-vraja-parikrama",
    "ev-srinivasa-narottama-farewell-parikrama"
-  ]
+  ],
+  "geo": {
+   "lat": 27.6412,
+   "lon": 77.2783,
+   "precision": "примерно",
+   "basis": "OSM: Kaman, Bharatpur"
+  }
  },
  {
   "id": "#bhitadia",
@@ -9636,7 +10380,13 @@
   "note": "город, откуда по преданию пришли пятеро брахманов к Адишуре",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.9987,
+   "lon": 79.6928,
+   "precision": "примерно",
+   "basis": "OSM: Kannauj"
+  }
  },
  {
   "id": "#varendra",
@@ -9669,10 +10419,16 @@
   "id": "#champahatti",
   "ru": "Чампахатти (Чампахатта)",
   "en": "Champahatti",
-  "note": "деревня в Ритудвипе (Навадвипа); древние Божества Гаура-Гададхары (B 141)",
+  "note": "деревня в Ритудвипе (Навадвипа); древние Божества Гаура-Гададхары (B 141) · НДМ 11.84–154: северная часть Коладвипы (НБТ 76); Врадж — Кхадиравана; лес чампаки Чампакалаты; Джаядева и Падмавати; дом Ванинатхи (#house-vaninatha)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.3826,
+   "lon": 88.3341,
+   "precision": "точно",
+   "basis": "OSM: Champahati, Purbasthali-I, Purba Bardhaman"
+  }
  },
  {
   "id": "#chhatrabhoga",
@@ -9690,7 +10446,13 @@
    "ev-journey-to-puri",
    "ev-chhatrabhoga-ramachandra-khan",
    "ev-raghunatha-dasa-escape"
-  ]
+  ],
+  "geo": {
+   "lat": 22.1204,
+   "lon": 88.4235,
+   "precision": "примерно",
+   "basis": "OSM: Chhatrabhog, Mathurapur-I, South 24 Parganas"
+  }
  },
  {
   "id": "#atisara",
@@ -9725,7 +10487,13 @@
    "ev-krishnadasa-rajput",
    "ev-vraja-residents-see-krishna",
    "ev-akrura-ghata-fall"
-  ]
+  ],
+  "geo": {
+   "lat": 27.5355,
+   "lon": 77.6897,
+   "precision": "условно",
+   "basis": "между Матхурой и Вриндаваном (PLACES.md); середина между OSM: Mathura и Vrindavan"
+  }
  },
  {
   "id": "#soro",
@@ -9738,7 +10506,13 @@
   ],
   "events": [
    "ev-soro-to-prayaga"
-  ]
+  ],
+  "geo": {
+   "lat": 27.8898,
+   "lon": 78.7464,
+   "precision": "примерно",
+   "basis": "OSM: Soron, Kasganj"
+  }
  },
  {
   "id": "#lalitapura",
@@ -9768,7 +10542,13 @@
    "ev-danda-broken",
    "ev-gauda-devotees-come-with-wives",
    "ev-return-to-puri-from-vrindavana"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8194,
+   "lon": 85.832,
+   "precision": "точно",
+   "basis": "OSM: Atharanala bridge, Puri"
+  }
  },
  {
   "id": "#balagandi",
@@ -9785,13 +10565,19 @@
   "events": [
    "ev-ratha-yatra-gundicha",
    "ev-prataparudra-mercy"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8107,
+   "lon": 85.8289,
+   "precision": "условно",
+   "basis": "на пути Ратха-ятры между храмом и Гундичей; середина между OSM: Jagannath Temple и Gundicha Temple"
+  }
  },
  {
   "id": "#vidyanagara-bengal",
   "ru": "Видьянагара (Бенгалия)",
   "en": "Vidyanagara (Bengal)",
-  "note": "селение у Ганги близ Навадвипы; дом Видья-вачаспати (ЧБ Антья 3); не #vidyanagara на Годавари",
+  "note": "селение у Ганги близ Навадвипы; дом Видья-вачаспати (ЧБ Антья 3); не #vidyanagara на Годавари · НДМ 12.17, 13.2–43: в Ритудвипе (#ritudvipa); обитель Вед и Сарасвати; школа Сарвабхаумы (Брихаспати); НБТ 85–93; школа Видья-вачаспати по НБТ 67 — в Коладвипе (Кулия)",
   "section": "",
   "lilas": [
    "cb-3048",
@@ -9801,7 +10587,13 @@
   "events": [
    "ev-vidya-vachaspati-house",
    "ev-kulia-mass-kirtan"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4045,
+   "lon": 88.3448,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Vidyā Nagar"
+  }
  },
  {
   "id": "#chandapur-saptagrama",
@@ -9814,7 +10606,13 @@
   ],
   "events": [
    "ev-haridasa-gopala-chakravarti"
-  ]
+  ],
+  "geo": {
+   "lat": 22.9614,
+   "lon": 88.3801,
+   "precision": "условно",
+   "basis": "близ Саптаграмы (PLACES.md); точка — OSM: Saptagram"
+  }
  },
  {
   "id": "#hajipur",
@@ -9827,7 +10625,13 @@
   ],
   "events": [
    "ev-sanatana-escape-kashi"
-  ]
+  ],
+  "geo": {
+   "lat": 25.6906,
+   "lon": 85.209,
+   "precision": "примерно",
+   "basis": "OSM: Hajipur, Vaishali"
+  }
  },
  {
   "id": "#indradyumna-sarovara",
@@ -9840,7 +10644,13 @@
   ],
   "events": [
    "ev-indradyumna-jala-keli"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8207,
+   "lon": 85.8425,
+   "precision": "точно",
+   "basis": "OSM: Indradyumna-sarovara, Puri"
+  }
  },
  {
   "id": "#aitota",
@@ -9859,13 +10669,19 @@
    "ev-indradyumna-jala-keli",
    "ev-rupa-arrives-haridasa-puri",
    "ev-fall-into-ocean-fisherman"
-  ]
+  ],
+  "geo": {
+   "lat": 19.8166,
+   "lon": 85.8397,
+   "precision": "условно",
+   "basis": "у храма Гундичи (PLACES.md); OSM: Gundicha Temple"
+  }
  },
  {
   "id": "#simulia",
   "ru": "Симулия",
   "en": "Simulia",
-  "note": "селение на окраине Надии, близ дома Кази; путь ночного шествия киртана (ЧБ Мадхья 23)",
+  "note": "селение на окраине Надии, близ дома Кази; путь ночного шествия киртана (ЧБ Мадхья 23) · НДМ 6.39–43, 6.69: Симулийя-грама — простонародное имя Симантадвипы (#simantadvipa); почитание богини Симали (Парвати); карта НДМ: Симулиячара",
   "section": "",
   "lilas": [
    "cb-2050",
@@ -9873,7 +10689,13 @@
   ],
   "events": [
    "ev-nagara-kirtana-kazi"
-  ]
+  ],
+  "geo": {
+   "lat": 23.4621,
+   "lon": 88.4013,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Simūliyāchara"
+  }
  },
  {
   "id": "#chaturdvara",
@@ -9886,7 +10708,13 @@
   ],
   "events": [
    "ev-prataparudra-farewell-six-armed"
-  ]
+  ],
+  "geo": {
+   "lat": 20.6008,
+   "lon": 85.8912,
+   "precision": "примерно",
+   "basis": "OSM: Choudwar, Cuttack"
+  }
  },
  {
   "id": "#pichhalda",
@@ -9912,7 +10740,13 @@
   ],
   "events": [
    "ev-bhagavatacharya-varahanagara"
-  ]
+  ],
+  "geo": {
+   "lat": 22.6531,
+   "lon": 88.3806,
+   "precision": "примерно",
+   "basis": "OSM: Baranagar, North 24 Parganas"
+  }
  },
  {
   "id": "#siddhavata",
@@ -9925,7 +10759,13 @@
   ],
   "events": [
    "ev-rama-name-to-krishna-name"
-  ]
+  ],
+  "geo": {
+   "lat": 14.4683,
+   "lon": 78.9635,
+   "precision": "примерно",
+   "basis": "OSM: Siddavatam, YSR Kadapa"
+  }
  },
  {
   "id": "#konark",
@@ -9938,7 +10778,13 @@
   ],
   "events": [
    "ev-fall-into-ocean-fisherman"
-  ]
+  ],
+  "geo": {
+   "lat": 19.9074,
+   "lon": 86.142,
+   "precision": "примерно",
+   "basis": "OSM: Konark"
+  }
  },
  {
   "id": "#antpur",
@@ -9947,7 +10793,13 @@
   "note": "селение в Бенгалии (Хугли); Парамешвари дас по велению Джахнавы установил здесь Радху-Гопинатху (T 89, 200; B 920)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.7744,
+   "lon": 88.0545,
+   "precision": "примерно",
+   "basis": "OSM: Antpur, Jangipara, Hooghly"
+  }
  },
  {
   "id": "#chandure",
@@ -9965,7 +10817,13 @@
   "note": "селение близ Джхаматпура (округ Бардхаман); родина Лочана Даса",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.5493,
+   "lon": 87.9854,
+   "precision": "условно",
+   "basis": "близ Мангалкота и Джхаматпура (Бардхаман); точка — OSM: Mangolkote"
+  }
  },
  {
   "id": "#madhu-pushkarini",
@@ -9974,7 +10832,13 @@
   "note": "пруд у дома Нарахари Саркара в Шрикханде (предание о мёде, T 70, 72)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.5972,
+   "lon": 88.0764,
+   "precision": "условно",
+   "basis": "у дома Нарахари в Шрикханде; точка — OSM: Srikhanda"
+  }
  },
  {
   "id": "#ganganagara",
@@ -9992,7 +10856,13 @@
   "note": "округ Бардхаман, тхана Мангалкот, близ станции Кайчар; главный шрипат и самадхи Дхананджаи Пандита (B 194–195)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.5368,
+   "lon": 88.0116,
+   "precision": "условно",
+   "basis": "близ ст. Кайчар, тхана Мангалкот (PLACES.md); OSM: Kaichar"
+  }
  },
  {
   "id": "#sanchra-panchra",
@@ -10019,7 +10889,13 @@
   "note": "близ Болпура (Бирбхум); шрипат Рамаканаи Тхакура (B 195); по «Гауранга-мадхури» — родина Дхананджаи Пандита (T 95)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.6544,
+   "lon": 87.7202,
+   "precision": "примерно",
+   "basis": "OSM: Muluk (Bolpur), Birbhum"
+  }
  },
  {
   "id": "#jaragrama",
@@ -10037,7 +10913,13 @@
   "note": "близ Тривени на Ганге; по M — место рождения Вакрешвары Пандита (M 236)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.1969,
+   "lon": 88.4182,
+   "precision": "примерно",
+   "basis": "OSM: Guptipara, Hooghly"
+  }
  },
  {
   "id": "#bentpur",
@@ -10046,7 +10928,13 @@
   "note": "в миле от Алаланатхи; по преданию местных жителей (через B) — место явления Рамананды Рая в доме Бхавананды; потомки — «Чаудхури Паттанаяк» (B 232)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 19.7879,
+   "lon": 85.6405,
+   "precision": "условно",
+   "basis": "в миле от Алаланатхи (PLACES.md); точка — OSM: Brahmagiri"
+  }
  },
  {
   "id": "#kovvur",
@@ -10055,7 +10943,13 @@
   "note": "западный берег Годавари против Раджамахендри; место встречи Господа с Раманандой Раем (B 235; T 123); Рамананда-Гаудия-матх (T 256–257, 273; B 1135, 1145)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 17.0075,
+   "lon": 81.7277,
+   "precision": "примерно",
+   "basis": "OSM: Kovvur, East Godavari"
+  }
  },
  {
   "id": "#chira-ghata",
@@ -10064,7 +10958,13 @@
   "note": "гхат на Ямуне во Вриндаване (место похищения одежд гопи); по B — здесь, в кундже кадамб, бакул и тамалов, по указанию Господа жили всю жизнь Локанатха и Бхугарбха (B 1073–1074)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.5754,
+   "lon": 77.6938,
+   "precision": "условно",
+   "basis": "во Вриндаване у Ямуны; точка — OSM: Vrindavan"
+  }
  },
  {
   "id": "#rajmahal",
@@ -10073,7 +10973,13 @@
   "note": "на Ганге, на западной границе Бенгалии; путь Локанатхи и Бхугарбхи во Врадж (B 1073; T 150)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.0531,
+   "lon": 87.8305,
+   "precision": "примерно",
+   "basis": "OSM: Rajmahal, Sahibganj"
+  }
  },
  {
   "id": "#purnia",
@@ -10082,7 +10988,13 @@
   "note": "город в Бихаре; путь Локанатхи и Бхугарбхи во Врадж (B 1073; T 150)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.7759,
+   "lon": 87.4088,
+   "precision": "примерно",
+   "basis": "OSM: Purnia"
+  }
  },
  {
   "id": "#lucknow",
@@ -10091,7 +11003,13 @@
   "note": "город в Авадхе; путь Локанатхи и Бхугарбхи во Врадж (B 1073; T 150)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.8381,
+   "lon": 80.9346,
+   "precision": "примерно",
+   "basis": "OSM: Lucknow"
+  }
  },
  {
   "id": "#maheshpur",
@@ -10100,7 +11018,13 @@
   "note": "Яшохар (Джессор), прежде Надия; место явления Сундарананды Тхакура, его шрипат (B 272; T 96)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.3565,
+   "lon": 88.918,
+   "precision": "примерно",
+   "basis": "OSM: Maheshpur, Jhenaidah"
+  }
  },
  {
   "id": "#majdiya",
@@ -10118,7 +11042,13 @@
   "note": "Джессор; путь в Махешпур — 6 миль лодкой, 9 пешком (B 272)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4589,
+   "lon": 89.0071,
+   "precision": "примерно",
+   "basis": "OSM: Kotchandpur, Jhenaidah"
+  }
  },
  {
   "id": "#mangaldihi",
@@ -10145,7 +11075,13 @@
   "note": "Пури, берег моря; место сожжения тел; по преданию — костёр Гопалы Гуру (T 203)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 19.8003,
+   "lon": 85.8186,
+   "precision": "примерно",
+   "basis": "OSM: Swargadwar, Puri"
+  }
  },
  {
   "id": "#akai-hat",
@@ -10208,7 +11144,13 @@
   "note": "близ Нандаграма; место бхаджана Рупы Госвами (T 161)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.7197,
+   "lon": 77.3994,
+   "precision": "точно",
+   "basis": "OSM: Ter Kadamb, Nandgaon"
+  }
  },
  {
   "id": "#radha-damodara-temple",
@@ -10217,7 +11159,13 @@
   "note": "храм Божества Дживы; во дворе — самадхи и место бхаджана Рупы Госвами (T 161, 212)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.5754,
+   "lon": 77.6938,
+   "precision": "условно",
+   "basis": "храм во Вриндаване; точка — OSM: Vrindavan"
+  }
  },
  {
   "id": "#jaipur",
@@ -10226,7 +11174,13 @@
   "note": "Раджастхан; ныне здесь Говинда-дева Рупы (B 327–328; T 161)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.9155,
+   "lon": 75.819,
+   "precision": "примерно",
+   "basis": "OSM: Jaipur"
+  }
  },
  {
   "id": "#galta",
@@ -10235,7 +11189,13 @@
   "note": "близ Амбера, обитель рамананди; по B — храм Говинда-девы Рупы при Джай Сингхе (B 989, 994)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.9171,
+   "lon": 75.8582,
+   "precision": "примерно",
+   "basis": "OSM: Galtaji, Jaipur"
+  }
  },
  {
   "id": "#patra-hills",
@@ -10253,7 +11213,13 @@
   "note": "на Ямуне, на пути из Прайяги в Матхуру; храм, где чтят одеяло, будто бы отданное Господом бедняку (B 421, сноска)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.7156,
+   "lon": 79.0917,
+   "precision": "примерно",
+   "basis": "OSM: Etawah"
+  }
  },
  {
   "id": "#siddha-bakula",
@@ -10262,7 +11228,13 @@
   "note": "Пури; жилище Харидаса Тхакура, где жил и Санатана (T 168–169)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 19.7999,
+   "lon": 85.8202,
+   "precision": "точно",
+   "basis": "OSM: Siddha-bakula, Puri"
+  }
  },
  {
   "id": "#yameshvara-tota",
@@ -10271,7 +11243,13 @@
   "note": "Пури; сад у храма Шивы Ямешвары, куда Господь позвал Санатану в полдень (ЧЧ Антья 4; B 451; T 169)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 19.8048,
+   "lon": 85.8181,
+   "precision": "условно",
+   "basis": "в Пури; точное место не установлено — OSM: Jagannath Temple"
+  }
  },
  {
   "id": "#chakra-tirtha-govardhana",
@@ -10280,7 +11258,13 @@
   "note": "на северном берегу Манаси-ганги; храм Чакрешвары Шивы; бхаджан-кутир Санатаны (T 171–172)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.499,
+   "lon": 77.4628,
+   "precision": "условно",
+   "basis": "на северном берегу Манаси-ганги; точка — OSM: Manasi Ganga"
+  }
  },
  {
   "id": "#pavana-sarovara",
@@ -10289,7 +11273,13 @@
   "note": "пруд близ Нандаграма; хижина Санатаны, молоко от Кришны (B 473; T 172; M 181)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.711,
+   "lon": 77.3857,
+   "precision": "условно",
+   "basis": "близ Нандаграма; точка — OSM: Nandgaon"
+  }
  },
  {
   "id": "#dvadashaditya-tila",
@@ -10298,7 +11288,13 @@
   "note": "Вриндаван, высокий холм у Ямуны; старый храм Мадана-мохана и самадхи Санатаны (B 460, 472; T 171)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.5803,
+   "lon": 77.6877,
+   "precision": "точно",
+   "basis": "OSM: Madan Mohan Temple, Vrindavan"
+  }
  },
  {
   "id": "#karauli",
@@ -10307,7 +11303,13 @@
   "note": "Раджастхан; ныне здесь Мадана-мохан Санатаны, в храме, построенном раджей Караули (B 472)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.5158,
+   "lon": 77.0566,
+   "precision": "примерно",
+   "basis": "OSM: Karauli"
+  }
  },
  {
   "id": "#deoband",
@@ -10316,7 +11318,13 @@
   "note": "округ Сахаранпур близ Харидвара; родина Гопинатхи Пуджари (B 600; M 47; T 176)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 29.7227,
+   "lon": 77.6712,
+   "precision": "примерно",
+   "basis": "OSM: Deoband, Saharanpur"
+  }
  },
  {
   "id": "#gandaki",
@@ -10334,7 +11342,13 @@
   "note": "округ Хугли, к югу от ст. Ади-Саптаграм; место явления Рагхунатхи Даса (B 628; T 180)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.9614,
+   "lon": 88.3801,
+   "precision": "условно",
+   "basis": "к югу от ст. Ади-Саптаграм (PLACES.md); точка — OSM: Saptagram"
+  }
  },
  {
   "id": "#arita",
@@ -10343,7 +11357,13 @@
   "note": "Врадж, деревня у Радха- и Шьяма-кунды (T 187)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.5245,
+   "lon": 77.4906,
+   "precision": "условно",
+   "basis": "деревня у Радха-кунды; точка — OSM: Radha Kund"
+  }
  },
  {
   "id": "#manasa-ganga",
@@ -10352,7 +11372,13 @@
   "note": "пруд у Говардханы; хижина Гопалы Бхатты, тигр у Рагхунатхи Даса (T 187; ⚠ по БР 5.554–562 — Манаса-павана-гхат у Радха-кунды, жилище Гопалы Бхатты)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.499,
+   "lon": 77.4628,
+   "precision": "точно",
+   "basis": "OSM: Manasi Ganga, Govardhan"
+  }
  },
  {
   "id": "#sakhisthali",
@@ -10379,7 +11405,13 @@
   "note": "на Суварнарекхе (ныне Джаркханд); встреча Расикананды со Шьяманандой (T 215–216; B 1106)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.665,
+   "lon": 86.507,
+   "precision": "примерно",
+   "basis": "OSM: Ghatshila, East Singhbhum"
+  }
  },
  {
   "id": "#barajita",
@@ -10406,7 +11438,13 @@
   "note": "Мединипур; Ганапати (Гаджапати), ученик Расикананды (T 216; M 159)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.0268,
+   "lon": 87.547,
+   "precision": "примерно",
+   "basis": "OSM: Patashpur, Purba Medinipur"
+  }
  },
  {
   "id": "#mayurbhanja",
@@ -10415,16 +11453,28 @@
   "note": "княжество в Ориссе; раджа Вайдьянатх Бхандж (T 216; M 159)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 21.9342,
+   "lon": 86.7309,
+   "precision": "примерно",
+   "basis": "OSM: Baripada (столица Маюрбханджа)"
+  }
  },
  {
   "id": "#mayapur",
   "ru": "Шри Майяпур (Ишодьян)",
   "en": "Sri Mayapur (Ishodyan)",
-  "note": "Навадвипа-дхама, восточный берег Ганги; матхи Гаудия-миссии XX в., самадхи @bhakti-dayita-madhava (T 287)",
+  "note": "Навадвипа-дхама, восточный берег Ганги; матхи Гаудия-миссии XX в., самадхи @bhakti-dayita-madhava (T 287) · НДМ 3.19–26, 5.5–16: в центре Антардвипы (#antardvipa), на восточном берегу Ганги; Врадж — Гокула-Махавана; ср. #ishodyana",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4234,
+   "lon": 88.3908,
+   "precision": "примерно",
+   "basis": "OSM: Mayapur (town), Nabadwip, Nadia"
+  }
  },
  {
   "id": "#kolkata",
@@ -10433,7 +11483,13 @@
   "note": "матхи Гаудия-миссии XX в. (Ултаданга, Багбазар, Сатиш Мукерджи-роуд)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.5726,
+   "lon": 88.3639,
+   "precision": "примерно",
+   "basis": "OSM: Kolkata"
+  }
  },
  {
   "id": "#kanchanpara",
@@ -10451,7 +11507,13 @@
   "note": "у выхода Ганги из Гималаев (T 272)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 29.9384,
+   "lon": 78.1453,
+   "precision": "примерно",
+   "basis": "OSM: Haridwar"
+  }
  },
  {
   "id": "#madras",
@@ -10460,7 +11522,13 @@
   "note": "Мадрас-Гаудия-матх (T 273, 284)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 13.0801,
+   "lon": 80.2808,
+   "precision": "примерно",
+   "basis": "OSM: Chennai"
+  }
  },
  {
   "id": "#sarbhog",
@@ -10478,7 +11546,13 @@
   "note": "Ассам, на Брахмапутре (T 279–280, 287)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 26.0492,
+   "lon": 90.6002,
+   "precision": "примерно",
+   "basis": "OSM: Goalpara, Assam"
+  }
  },
  {
   "id": "#jashra",
@@ -10487,7 +11561,13 @@
   "note": "Надия; шрипат Джагадиши Пандита, Божества Джаганнатхи и Гаура-Гопалы (T 16, 287)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.0743,
+   "lon": 88.5213,
+   "precision": "примерно",
+   "basis": "OSM: Jashra (Chakdaha, Nadia)"
+  }
  },
  {
   "id": "#hapaniya",
@@ -10496,7 +11576,13 @@
   "note": "Западная Бенгалия; место явления Шрилы Б. Р. Шридхара Махараджа (T 290)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.5379,
+   "lon": 88.2274,
+   "precision": "примерно",
+   "basis": "OSM: Hapania, Purbasthali-II, Purba Bardhaman"
+  }
  },
  {
   "id": "#ganganandapur",
@@ -10505,7 +11591,13 @@
   "note": "округ Джессор (ныне Бангладеш); место явления Бхакти Промода Пури (T 293)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.1669,
+   "lon": 89.0332,
+   "precision": "примерно",
+   "basis": "OSM: Ganganandapur (Chaugachha, Jessore)"
+  }
  },
  {
   "id": "#badarikashrama",
@@ -10514,7 +11606,13 @@
   "note": "Гималаи; обитель Вьясы, где Мадхва встретил его; Ананта-матх (M pdf 334–336)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 30.7423,
+   "lon": 79.493,
+   "precision": "примерно",
+   "basis": "OSM: Badrinath, Chamoli"
+  }
  },
  {
   "id": "#shriperumbudur",
@@ -10523,7 +11621,13 @@
   "note": "близ Мадраса; место рождения Рамануджи (M pdf 320)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 12.9666,
+   "lon": 79.9458,
+   "precision": "примерно",
+   "basis": "OSM: Sriperumbudur"
+  }
  },
  {
   "id": "#tirunarayanapuram",
@@ -10532,16 +11636,28 @@
   "note": "Карнатака; место уединённого бхаджана Рамануджи (T 249)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 12.6624,
+   "lon": 76.6496,
+   "precision": "примерно",
+   "basis": "OSM: Melukote, Mandya"
+  }
  },
  {
   "id": "#modadrumadvipa",
   "ru": "Модадрума-двипа (Мамгачхи)",
   "en": "Modadrumadvipa (Mamgachi)",
-  "note": "остров Навадвипы на Ганге, у станции Пурвастхали; место бхаджана Саранги Тхакура, дом Васудевы Датты, место рождения Вриндавана даса (T 94; M 185; B 681)",
+  "note": "остров Навадвипы на Ганге, у станции Пурвастхали; место бхаджана Саранги Тхакура, дом Васудевы Датты, место рождения Вриндавана даса (T 94; M 185; B 681) · НДМ 3.32, 13.76, 14.2–15.89 (дасьям): Мамгачхи (в изд. 2001 — Мамагачи), Вайкунтхапура, Махатпура, Арка-тила; Врадж — Бхандиравана; Рама с Ситой и Лакшманой; НБТ 109–131",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4157,
+   "lon": 88.3228,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Māmagāchhi"
+  }
  },
  {
   "id": "#bagayan",
@@ -10559,7 +11675,13 @@
   "note": "округ Надия; дом деда по матери, место явления Бхактивиноды (T 228–229)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.2367,
+   "lon": 88.5552,
+   "precision": "примерно",
+   "basis": "OSM: Birnagar, Nadia"
+  }
  },
  {
   "id": "#ranaghat",
@@ -10568,7 +11690,13 @@
   "note": "округ Надия; служба Бхактивиноды (T 230–232)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.1738,
+   "lon": 88.5637,
+   "precision": "примерно",
+   "basis": "OSM: Ranaghat, Nadia"
+  }
  },
  {
   "id": "#krishnanagar",
@@ -10577,7 +11705,13 @@
   "note": "центр округа Надия; колледж, служба и собрания Бхактивиноды (T 230, 233–234)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4058,
+   "lon": 88.4959,
+   "precision": "примерно",
+   "basis": "OSM: Krishnanagar, Nadia"
+  }
  },
  {
   "id": "#dinajpur",
@@ -10586,7 +11720,13 @@
   "note": "Северная Бенгалия; служба Бхактивиноды (1868, 1891) (T 231, 233)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.6261,
+   "lon": 88.6346,
+   "precision": "примерно",
+   "basis": "OSM: Dinajpur (Бангладеш)"
+  }
  },
  {
   "id": "#tarakeshvara",
@@ -10595,7 +11735,13 @@
   "note": "Хугли; шива-линга, сон Бхактивиноды (1887) (T 233)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.8546,
+   "lon": 88.0162,
+   "precision": "примерно",
+   "basis": "OSM: Tarakeswar, Hooghly"
+  }
  },
  {
   "id": "#amlajora",
@@ -10604,7 +11750,13 @@
   "note": "округ Бурдван; «Прапанна-ашрам» Бхактивиноды, встреча с Джаганнатхой Дасом Бабаджи (T 222, 233; M 60; B 1113)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4659,
+   "lon": 87.3849,
+   "precision": "примерно",
+   "basis": "OSM: Amlajora, Kanksa, Paschim Bardhaman"
+  }
  },
  {
   "id": "#chhapra",
@@ -10613,7 +11765,13 @@
   "note": "Бихар; служба Бхактивиноды (T 231)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.7733,
+   "lon": 84.785,
+   "precision": "примерно",
+   "basis": "OSM: Chapra, Saran"
+  }
  },
  {
   "id": "#majidpur",
@@ -10631,7 +11789,13 @@
   "note": "Западная Бенгалия, округ Мединипур; Вамшидас Бабаджи под баньяном у вокзала (B 694; T 245)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.3431,
+   "lon": 87.3013,
+   "precision": "примерно",
+   "basis": "OSM: Kharagpur"
+  }
  },
  {
   "id": "#patna",
@@ -10640,7 +11804,13 @@
   "note": "Бихар, на Ганге; Вамшидас Бабаджи у гхата Инженерного колледжа (B 700–704; T 245)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.6093,
+   "lon": 85.1235,
+   "precision": "примерно",
+   "basis": "OSM: Patna"
+  }
  },
  {
   "id": "#munger",
@@ -10649,7 +11819,13 @@
   "note": "Бихар, на Ганге; Чанди-гхат, Вамшидас Бабаджи (B 700, 704; T 245)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.2203,
+   "lon": 86.5161,
+   "precision": "примерно",
+   "basis": "OSM: Munger"
+  }
  },
  {
   "id": "#bhagalpur",
@@ -10658,7 +11834,13 @@
   "note": "Бихар, на Ганге; Маяганджа-гхат, Вамшидас Бабаджи под вамши-ватой (B 700, 705–709; T 245)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 25.2861,
+   "lon": 87.1304,
+   "precision": "примерно",
+   "basis": "OSM: Bhagalpur"
+  }
  },
  {
   "id": "#chaitanya-doba",
@@ -10667,7 +11849,13 @@
   "note": "Кумарахатта (Халисахар), квартал Мукхопадхьяя-пара; пруд, образовавшийся там, где Господь и паломники брали землю; напротив — храм «Девалая», жилище Шривасы (B 722, 779; T 9, 73)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.9322,
+   "lon": 88.4249,
+   "precision": "условно",
+   "basis": "в Кумарахатте (Халисахар); точка — OSM: Halisahar"
+  }
  },
  {
   "id": "#advaita-vata",
@@ -10676,34 +11864,58 @@
   "note": "баньян во Вриндаване, у которого долго жил Адвайта Ачарья (B 724; «Адвайта-пракаша» — у Двадаша-Адитья-тиртхи)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 27.5754,
+   "lon": 77.6938,
+   "precision": "условно",
+   "basis": "во Вриндаване; точное место не установлено — OSM: Vrindavan"
+  }
  },
  {
   "id": "#advaita-bhavana",
   "ru": "Адвайта-бхаван (дом Адвайты в Навадвипе)",
   "en": "Advaita-bhavana (Advaita's house in Navadvipa)",
-  "note": "Майяпур, недалеко от Шривас-анганы; толь Адвайты; ныне центр Гаудия-матха (T 18–19, 256, 269; M 217)",
+  "note": "Майяпур, недалеко от Шривас-анганы; толь Адвайты; ныне центр Гаудия-матха (T 18–19, 256, 269; M 217) · НДМ 5.62–64: 32 м к северу от Шривас-анганы; карта НДМ: «Homes of Advaita and Gadadhar»",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4404,
+   "lon": 88.3946,
+   "precision": "точно",
+   "basis": "OSM: Advaita Bhavan, Mayapur"
+  }
  },
  {
   "id": "#house-gangadasa",
   "ru": "дом Гангадаса Пандита",
   "en": "house of Gangadasa Pandita",
-  "note": "Ганганагар (Навадвипа), рядом с домом Господа; здесь Нимай учился грамматике (B 745; T 34); по T — на деле в Симантадвипе",
+  "note": "Ганганагар (Навадвипа), рядом с домом Господа; здесь Нимай учился грамматике (B 745; T 34); по T — на деле в Симантадвипе · НДМ 6.22, НБТ 20: в Ганга Нагаре (#ganga-nagara)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4388,
+   "lon": 88.4004,
+   "precision": "условно",
+   "basis": "в Ганга Нагаре (НДМ 6.22); карта НДМ 1888: Gaṅgā Nagar"
+  }
  },
  {
   "id": "#simantadvipa",
   "ru": "Симантадвипа",
   "en": "Simantadvipa",
-  "note": "один из девяти островов Навадвипы; по T 34 — здесь дом Гангадаса Пандита",
+  "note": "один из девяти островов Навадвипы; по T 34 — здесь дом Гангадаса Пандита · НДМ 3.27, 6.40–76: остров к северу от Майяпура (шраванам); Парвати нанесла пыль со стоп Гауры на пробор (симанта); богиня Симантини (Симали-деви); простонародное имя — Симулия (#simulia); по легенде карты — до Рукунапура, на юге Сараданга и Вишрама-стхала",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4621,
+   "lon": 88.4013,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Simūliyāchara"
+  }
  },
  {
   "id": "#meghala",
@@ -10712,7 +11924,13 @@
   "note": "деревня в участке Хатхазари округа Чаттаграм, к северу от города; шрипат Пундарики Видьянидхи; в 10 крошах от Чханхары, родины Васудевы Датты (B 69, 748, 853; T 43, 52)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.4991,
+   "lon": 91.8078,
+   "precision": "примерно",
+   "basis": "OSM: Mekhal (Hathazari, Chattogram)"
+  }
  },
  {
   "id": "#chakrashala",
@@ -10721,7 +11939,13 @@
   "note": "местность в Чаттаграме; по T — место рождения и поместье (заминдари) Пундарики Видьянидхи (T 52; «Према-виласа» 22); по ПВ — родина рода Мукунды и Васудевы Датты (B 853)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.2796,
+   "lon": 92.0032,
+   "precision": "примерно",
+   "basis": "OSM: Chakrashala (Patiya, Chattogram)"
+  }
  },
  {
   "id": "#house-pundarika",
@@ -10730,7 +11954,13 @@
   "note": "его дом у Ганги в Шри Майяпуре (Навадвипа) (ЧБ Мадхья 7.30; B 748; T 53); по БР 12 (у T) здесь Господь праздновал Радхаштами",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 23.4234,
+   "lon": 88.3908,
+   "precision": "условно",
+   "basis": "в Майяпуре у Ганги (ЧБ Мадхья 7.30); точное место не установлено — точка Майяпура (OSM)"
+  }
  },
  {
   "id": "#bahirkhanda",
@@ -10748,7 +11978,13 @@
   "note": "XX в.: храм Гаудия Матха (открыт при участии @bhaktivedanta-svami и @shridhara-maharaja); один из трёх больших храмов ИСККОН в Индии (N II.1)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 19.055,
+   "lon": 72.8692,
+   "precision": "примерно",
+   "basis": "OSM: Mumbai"
+  }
  },
  {
   "id": "#new-york",
@@ -10757,7 +11993,13 @@
   "note": "XX в.: с сентября 1965 г. проповедь @bhaktivedanta-svami, Нижний Ист-Сайд, Вторая авеню, 26 — первый центр ИСККОН (1966) (N II.1)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 40.7127,
+   "lon": -74.006,
+   "precision": "примерно",
+   "basis": "OSM: New York City"
+  }
  },
  {
   "id": "#bamunpara",
@@ -10784,7 +12026,13 @@
   "note": "XX–XXI вв.: храм Шри Чайтанья Сарасват Матха (эскиз @govinda-maharaja; Божества Шри Шри Гуру Гауранга Радха-Мадхава-Сундарджиу, 2000) (N II.3, III)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 59.9386,
+   "lon": 30.3141,
+   "precision": "примерно",
+   "basis": "общеизвестно: центр Санкт-Петербурга"
+  }
  },
  {
   "id": "#moscow",
@@ -10793,7 +12041,13 @@
   "note": "XX–XXI вв.: культурный центр Шри Чайтанья Сарасват Матха (N II.3); визит @bhaktivedanta-svami в июне 1971 г. (N II.1)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 55.7558,
+   "lon": 37.6173,
+   "precision": "примерно",
+   "basis": "общеизвестно: центр Москвы"
+  }
  },
  {
   "id": "#mallabhumi",
@@ -10820,7 +12074,13 @@
   "note": "на пути из Гхантшилы к Пури; дом йогина Дамодары, его посвящение Шьяманандой при Расикананде («Расика-мангала» Д1)",
   "section": "",
   "lilas": [],
-  "events": []
+  "events": [],
+  "geo": {
+   "lat": 22.4728,
+   "lon": 86.6763,
+   "precision": "примерно",
+   "basis": "OSM: Chakulia, East Singhbhum"
+  }
  },
  {
   "id": "#barakola",
@@ -10839,5 +12099,917 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#antardvipa",
+  "ru": "Антардвипа",
+  "en": "Antardwip",
+  "note": "один из девяти островов Навадвипы — сердцевина лотоса (атма-ниведанам), на восточном берегу Ганги; Майяпур (#mayapur), Йогапитха; Врадж — Гокула-Махавана; Брахма получил даршан Гауры (будущий Харидас) (НДМ 3.18, 5.5, 5.107–157; НБТ 8–18)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4383,
+   "lon": 88.393,
+   "precision": "примерно",
+   "basis": "центр острова — Йогапитха (НДМ 5.5); OSM: Yogapith"
+  }
+ },
+ {
+  "id": "#godrumadvipa",
+  "ru": "Годрумадвипа",
+  "en": "Godrumadwip",
+  "note": "остров (киртанам) к югу от Майяпура; Индра и Сурабхи, Маркандейя у баньяна; Гадигачха (#gadigachha), Суварна Бихар, Дева Полли, Харихара-кшетра, Маха-Варанаси; Врадж — Нандишвара (НБТ 44) (НДМ 3.29, 8.26–92; НБТ 41–50); по традиционному отождествлению — Сварупгандж, у впадения Джаланги в Гангу",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4086,
+   "lon": 88.4019,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Gādigāchhā"
+  }
+ },
+ {
+  "id": "#madhyadvipa",
+  "ru": "Мадхьядвипа",
+  "en": "Madhyadwip",
+  "note": "остров (смаранам) к югу от Годрумы; семь риши, Наймиша на Гомати, Брахмана Пушкара, Учча-хатта (Курукшетра) (НДМ 3.29, 9.3–10.47; НБТ 51–64); по легенде карты НДМ — Маджида, Бхалука, Парнашила, Хатаденга",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4021,
+   "lon": 88.3897,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Mājidā"
+  }
+ },
+ {
+  "id": "#koladvipa",
+  "ru": "Коладвипа",
+  "en": "Koladwip",
+  "note": "остров (пада-севанам) на западном берегу Ганги; Варахадева явился брахману Васудеве; Врадж — Говардхана, Бахулавана; Кулия-пахада (#kulia), Самудрагадха, Чампахати (НДМ 3.31, 10.48–11.155; НБТ 65–78); ныне — г. Навадвип и окрестности к югу",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4087,
+   "lon": 88.3658,
+   "precision": "примерно",
+   "basis": "OSM: Nabadwip (город — Кулия-пахада, Коладвипа)"
+  }
+ },
+ {
+  "id": "#ritudvipa",
+  "ru": "Ритудвипа",
+  "en": "Rtudwip",
+  "note": "остров (арчанам), где шесть времён года служат Гауре; Радха-кунда (#radha-kunda-navadvipa), Ратупур, Видьянагара (НДМ 3.31, 12.4–13.42; НБТ 79–93)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3775,
+   "lon": 88.3319,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Rahutapur"
+  }
+ },
+ {
+  "id": "#jahnudvipa",
+  "ru": "Джахнудвипа",
+  "en": "Jahnudwip",
+  "note": "остров (ванданам); обитель Джахну Муни, Бхишма; Врадж — Бхадравана (НДМ 3.32, 13.60–75; НБТ 94–108); Джаннагар (#jannagar)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4109,
+   "lon": 88.3421,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Jān Nagar"
+  }
+ },
+ {
+  "id": "#rudradvipa",
+  "ru": "Рудрадвипа",
+  "en": "Rudradwip",
+  "note": "остров (сакхьям), разделённый Гангой надвое; одиннадцать Рудр во главе с Нилалохитой, Шанкарачарья, Вишнусвами (Рудра-сампрадая); лес Рудравана, Медхра-стхала, Нидая; по НБТ 132 сравним лишь с Кайласой (НДМ 3.33, 15.90–125, 15.140; НБТ 132–144); по легенде карты НДМ — Рудрапара, Шанкарпур, Пурвастхали, Чупи, Кокшали, Медатала",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4389,
+   "lon": 88.3336,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Rudrapāḍā"
+  }
+ },
+ {
+  "id": "#house-gadadhara",
+  "ru": "дом Гададхары Пандита (Майяпур)",
+  "en": "house of Gadadhar Pandit (Mayapur)",
+  "note": "Майяпур, 16 м к востоку от дома Адвайты (НДМ 5.65); карта НДМ: «Homes of Advaita and Gadadhar»",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4404,
+   "lon": 88.3948,
+   "precision": "условно",
+   "basis": "НДМ 5.65: 16 м к востоку от дома Адвайты (OSM: Advaita Bhavan)"
+  }
+ },
+ {
+  "id": "#vriddha-shiva",
+  "ru": "храм Вриддха Шивы (Вриддха Шива и Праудха-майя)",
+  "en": "Temple of Vriddha Shiva (Vriddha Shiva and Praudha Maya)",
+  "note": "Майяпур, на берегу Ганги у внешней границы; хранители дхамы; Праудха-майя — Парвати (во Врадже — Паурнамаси, НДМ 6.74); при сокрытии Майяпура переходят в Чхинна Дангу (НДМ 5.68–75, 5.81–85, 5.119; НБТ 14)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4383,
+   "lon": 88.393,
+   "precision": "условно",
+   "basis": "НДМ 5.119: в 16 м от дома Джаганнатхи Мишры (OSM: Yogapith)"
+  }
+ },
+ {
+  "id": "#gauranga-ghata",
+  "ru": "Гауранга Гхата",
+  "en": "Gauranga's ghat",
+  "note": "Майяпур, 10 м к северу от гхата Вриддха Шивы; детские игры Гауры с Гангой (НДМ 5.97–101)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4384,
+   "lon": 88.393,
+   "precision": "условно",
+   "basis": "НДМ 5.97: 10 м к северу от гхата Вриддха Шивы (от Йогапитхи, OSM)"
+  }
+ },
+ {
+  "id": "#madhai-ghata",
+  "ru": "Гхата Мадхай",
+  "en": "Madhai's ghat",
+  "note": "Майяпур, 160 м к северу от Гауранга-гхаты (НДМ 5.102)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4398,
+   "lon": 88.393,
+   "precision": "условно",
+   "basis": "НДМ 5.102: 160 м к северу от Гауранга-гхаты (от Йогапитхи, OSM)"
+  }
+ },
+ {
+  "id": "#barakona-ghata",
+  "ru": "Баракона Гхата",
+  "en": "Barakona Ghat",
+  "note": "Майяпур, 16 м к северу от гхата Мадхая; построена Вишвакармой; пять храмов Шивы (НДМ 5.103–106); сюда пришёл Джива (НДМ 4.15); отсюда Господь начинал десятимильный обход (НДМ 10.56)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.44,
+   "lon": 88.393,
+   "precision": "условно",
+   "basis": "НДМ 5.103: 16 м к северу от гхата Мадхая (от Йогапитхи, OSM)"
+  }
+ },
+ {
+  "id": "#shiva-doba",
+  "ru": "Шива Доба",
+  "en": "Shiva Doba",
+  "note": "пруд в Майяпуре на месте прежнего берега Ганги — примета для отыскания сокрытых мест (НДМ 5.120)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4383,
+   "lon": 88.393,
+   "precision": "условно",
+   "basis": "НДМ 5.120: пруд у бывшего берега Ганги в Майяпуре; точка Йогапитхи (OSM)"
+  }
+ },
+ {
+  "id": "#paradanga",
+  "ru": "Параданга (Сат Тика)",
+  "en": "Paradanga (Sattikara)",
+  "note": "песчаная коса на западном берегу Ганги напротив Майяпура, селение брахманов; Врадж — Саттикара; раса-стхали; сюда перенесут Божество Гауранги Вишнуприи (НДМ 5.82–95, 10.59); на карте НДМ — в разделе Рудрадвипы",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4295,
+   "lon": 88.3607,
+   "precision": "условно",
+   "basis": "западный берег Ганги напротив Майяпура (НДМ 5.82–84); по карте НДМ 1888"
+  }
+ },
+ {
+  "id": "#chhinnadanga",
+  "ru": "Чхинна Данга",
+  "en": "Chhinnadanga",
+  "note": "берег Ганги к северу от Параданги; сюда на время перейдут Вриддха Шива и Праудха-майя (НДМ 5.84–85, 10.59)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4295,
+   "lon": 88.3607,
+   "precision": "условно",
+   "basis": "к северу от Параданги на западном берегу (НДМ 5.84); по карте НДМ 1888"
+  }
+ },
+ {
+  "id": "#shri-pulina",
+  "ru": "Шри Пулина (Раса-мандала, Дхира-самира)",
+  "en": "Sri Pulina (Rasa Mandal, Dhira Samira)",
+  "note": "берег Ганги к западу от Майяпура — Вриндаван в Навадвипе: Раса-мандала, к западу Дхира-самира, далее Вамши-ват и берег Ямуны; Господь читал здесь стихи о раса-лиле (НДМ 5.86–91, 15.126–139; НБТ 145–152)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4295,
+   "lon": 88.3607,
+   "precision": "условно",
+   "basis": "западный берег Ганги против Майяпура, к северу от Параданги (НДМ 5.86–90, 15.126); по карте НДМ 1888"
+  }
+ },
+ {
+  "id": "#ganga-nagara",
+  "ru": "Ганга Нагара (Ганганагар)",
+  "en": "Ganga Nagar",
+  "note": "у границы Антардвипы, на берегу Ганги к западу от Притху-кунды; основана Махараджей Бхагиратхой; дома Гангадаса Пандита (#house-gangadasa) и Санджаи (#house-sanjaya) (НДМ 6.5–22; НБТ 20); тождество с #ganganagara (T 70) не установлено",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4388,
+   "lon": 88.4004,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Gaṅgā Nagar"
+  }
+ },
+ {
+  "id": "#house-sanjaya",
+  "ru": "дом Санджаи",
+  "en": "house of Sanjay Das",
+  "note": "Ганга Нагара (Навадвипа); дом Санджаи даса, спутника Господа (НДМ 6.22)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4388,
+   "lon": 88.4004,
+   "precision": "условно",
+   "basis": "в Ганга Нагаре (НДМ 6.22); карта НДМ 1888: Gaṅgā Nagar"
+  }
+ },
+ {
+  "id": "#prithu-kunda",
+  "ru": "Притху-кунда (Баллал Диргхика)",
+  "en": "Prthu Kunda (Ballal Dirghika)",
+  "note": "озеро к востоку от Ганга Нагары: выкопано Махараджей Притху, углублено Лакшманом Сеном и названо в честь Баллала Сена; на берегу — первая хижина Джаядевы (НДМ 11.92) (НДМ 6.23–38; НБТ 19, 71); ныне — Баллал-дигхи",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4499,
+   "lon": 88.4153,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Ballāl Dighi"
+  }
+ },
+ {
+  "id": "#ballala-dhipi",
+  "ru": "холм дома Лакшмана Сены (Баллал-дхипи)",
+  "en": "hill of Lakshman Sen's house (Ballal Dhipi)",
+  "note": "у Притху-кунды; развалины дома Лакшмана Сены, место осквернено царём-яваной (НДМ 6.34–38); ныне — городище Баллал-дхипи",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4499,
+   "lon": 88.4153,
+   "precision": "условно",
+   "basis": "у Притху-кунды (НДМ 6.34); карта НДМ 1888: Ballāl Dighi"
+  }
+ },
+ {
+  "id": "#kazi-nagara",
+  "ru": "Кази Нагара (Казиграма)",
+  "en": "Kazi Nagar",
+  "note": "Симантадвипа; Врадж — Матхура; освобождение Чханд Кази, его самадхи (НДМ 6.77–91; НБТ 22: селение Чханд Кази к северу от Притху-кунды); ныне — Баманпукур, самадхи Чханд Кази",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4464,
+   "lon": 88.4052,
+   "precision": "точно",
+   "basis": "OSM: Kazi's Samadhi, Mayapur"
+  }
+ },
+ {
+  "id": "#shankhavanik-nagara",
+  "ru": "Шанкхаваник Нагара",
+  "en": "Shankha Vanik Nagar",
+  "note": "селение торговцев раковинами на пути от Кази Нагары к Сараданге (НДМ 6.92)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4455,
+   "lon": 88.4096,
+   "precision": "условно",
+   "basis": "НДМ 6.92: на пути от Кази Нагары к хижине Шридхары (между OSM: Kazi's Samadhi и Sridhara-angam)"
+  }
+ },
+ {
+  "id": "#saradanga",
+  "ru": "Сараданга (Шабараданга)",
+  "en": "Saradanga (Sabaradanga)",
+  "note": "Симантадвипа, южная часть (легенда карты НДМ); Джаганнатха с шабарами, скрывавшимися от Рактабаху; неотлична от Пурушоттама-кшетры (НДМ 6.93–96; НБТ 23)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4455,
+   "lon": 88.4096,
+   "precision": "условно",
+   "basis": "НДМ 6.92–97: на пути от Кази Нагары к хижине Шридхары (между OSM: Kazi's Samadhi и Sridhara-angam)"
+  }
+ },
+ {
+  "id": "#tantuvaya-grama",
+  "ru": "Тантувая-грама",
+  "en": "Tantuvaya Gram",
+  "note": "«селение ткачей» на пути к хижине Кхолавечи Шридхары (НДМ 6.97)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4455,
+   "lon": 88.4096,
+   "precision": "условно",
+   "basis": "НДМ 6.97: на пути к хижине Шридхары (между OSM: Kazi's Samadhi и Sridhara-angam)"
+  }
+ },
+ {
+  "id": "#vishrama-sthana",
+  "ru": "Вишрама Стхана (хижина Кхолавечи Шридхары)",
+  "en": "Visram Sthan (cottage of Kholavecha Sridhar)",
+  "note": "Симантадвипа, южная часть (легенда карты НДМ); здесь Господь отдыхал после освобождения Кази; банановая роща и пруд Шридхары (НДМ 6.97–114, 10.56–58; НБТ 30–32 — «посреди Мадхуваны»); ныне — Шридхара-ангана",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4446,
+   "lon": 88.4139,
+   "precision": "примерно",
+   "basis": "OSM: Sridhara-angam (Шридхара-ангана), Mayapur"
+  }
+ },
+ {
+  "id": "#shashthi-tirtha",
+  "ru": "Шаштхи Тиртха",
+  "en": "Sasthi Tirtha",
+  "note": "шестьдесят прудов, выкопанных Вишвакармой за одну ночь вдоль путей санкиртаны, последний — в селении Кази (НДМ 6.107–111); Врадж — Мадхувана (НБТ 22)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#mayamari",
+  "ru": "Майямари",
+  "en": "Mayamari",
+  "note": "Симантадвипа, близ Вишрама-стханы; Баларама убил демона Маясуру; Врадж — Талавана (НДМ 6.115–121)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4399,
+   "lon": 88.4228,
+   "precision": "примерно",
+   "basis": "OSM: Mayamari, Gaurnagar, Nabadwip"
+  }
+ },
+ {
+  "id": "#suvarna-vihara",
+  "ru": "Суварна Бихар",
+  "en": "Suvarna Bihar",
+  "note": "Годрумадвипа; царь Суварна Сен (будущий Буддхиманта Хан) получил наставления Нарады; видение киртана Гауры (НДМ 7.2–31; НБТ 33–34)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4291,
+   "lon": 88.413,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Suvarṇa Bihār"
+  }
+ },
+ {
+  "id": "#deva-palli",
+  "ru": "Дева Полли (Нрисимха-кшетра, Нрисимха-палли)",
+  "en": "Deva Palli (Nrsimha Ksetra, Nrsimha Palli)",
+  "note": "Годрумадвипа, к юго-востоку от Суварна Бихара; храм Нрисимхадевы со времён Сатья-юги, холмы Сурьи, Брахмы, Ганеши и Индры на берегу Мандакини; одна из границ пути обхода (НДМ 7.32–39; НБТ 35–40); на карте НДМ в этом месте — Депара",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4004,
+   "lon": 88.4151,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Depāḍā (к юго-востоку от Суварна Бихара, НБТ 35)"
+  }
+ },
+ {
+  "id": "#harihara-kshetra",
+  "ru": "Харихара-кшетра",
+  "en": "Harihara Ksetra",
+  "note": "Годрумадвипа, на восточном берегу Алакананды у реки Гандака (НДМ 8.10–14; НБТ 41)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4055,
+   "lon": 88.4195,
+   "precision": "примерно",
+   "basis": "OSM: Harihara Khsetra, Krishnanagar-I, Nadia"
+  }
+ },
+ {
+  "id": "#mahavaranasi",
+  "ru": "Маха-Варанаси (Каши Навадвипы)",
+  "en": "Mahavaranasi (Kasi)",
+  "note": "Годрумадвипа, к западу от Алакананды; Шива возглашает имя Гауры в уши умирающим (НДМ 8.15–24; НБТ 41)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#majida",
+  "ru": "Маджидаграма (Маджида)",
+  "en": "Majida Gram",
+  "note": "Мадхьядвипа; семь риши, сыновья Брахмы, поклонялись Гауре (НДМ 9.3–19); отсюда Господь переправлялся в Парадангу (НДМ 10.59)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4021,
+   "lon": 88.3897,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Mājidā"
+  }
+ },
+ {
+  "id": "#saptarishi-tila",
+  "ru": "семь холмов семи риши",
+  "en": "the seven hills of the seven sages",
+  "note": "Мадхьядвипа, у Маджиды; расположены как созвездие Семи риши; Гаура велел риши поклоняться Кришне у их гхата в Кумара-хатте (НДМ 9.17–19; ср. #kumarahatta)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4021,
+   "lon": 88.3897,
+   "precision": "условно",
+   "basis": "у Маджиды (НДМ 9.18); карта НДМ 1888: Mājidā"
+  }
+ },
+ {
+  "id": "#naimisha-navadvipa",
+  "ru": "Наймиша (Наймишаранья) на Гомати",
+  "en": "the Naimisa forest on the Gomati",
+  "note": "Мадхьядвипа, к югу от семи холмов; Шаунака и риши слушали о Гауре от Суты; чтение Пуран в Картику (НДМ 9.20–24; НБТ 52–54)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#hamsa-vahana",
+  "ru": "Хамса-вахана",
+  "en": "Hamsa Vahana",
+  "note": "Мадхьядвипа, в Наймише: Шива прибыл на лебеде Брахмы слушать Пураны о Гауре (НДМ 9.23; на карте НДМ — 9.20; НБТ 52)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#brahmana-pushkara",
+  "ru": "Брахмана Пушкара (Брахманпур)",
+  "en": "Brahman Puskara (Brahmanpur)",
+  "note": "Мадхьядвипа, к югу от Наймиши; брахман Дива дас (в изд. 2001 — Дживана дас) узрел Пушкару в пруду (НДМ 10.6–39; НБТ 55)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3783,
+   "lon": 88.375,
+   "precision": "условно",
+   "basis": "НДМ 9–10, НБТ 51–56: между Маджидой (семь риши, Наймиша) и Учча-хаттой; середина между точками карты НДМ 1888"
+  }
+ },
+ {
+  "id": "#uchcha-hatta",
+  "ru": "Учча-хатта (Хатта Данга; Курукшетра)",
+  "en": "Uchcha Hatta (Hattadanga; Kuruksetra)",
+  "note": "Мадхьядвипа, к югу от Брахмана Пушкары; Курукшетра и Брахмаварта с реками Сарасвати и Дришадвати; «рынок» полубогов; одна из границ Надии (НДМ 10.25–26, 10.40–47; НБТ 56); на карте НДМ — Хатаденга",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3544,
+   "lon": 88.3602,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Hāṭadeṅgā"
+  }
+ },
+ {
+  "id": "#panchaveni",
+  "ru": "Панчавени",
+  "en": "Panchaveni",
+  "note": "у Учча-хатты; слияние Ганги, Сарасвати и Ямуны; омовение Гаурахари со спутниками (НБТ 62–64)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3544,
+   "lon": 88.3602,
+   "precision": "условно",
+   "basis": "близ Учча-хатты (НБТ 62); карта НДМ 1888: Hāṭadeṅgā"
+  }
+ },
+ {
+  "id": "#brahma-nagara",
+  "ru": "Брахманагара (Брахма-кунда)",
+  "en": "Brahma Nagar (Brahma Kunda)",
+  "note": "Мадхьядвипа; киртан Господа на берегу Брахма-кунды (НБТ 59)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#samudragarh",
+  "ru": "Самудрагадха",
+  "en": "Samudragad",
+  "note": "Коладвипа, на границе Навадвипы; Дварака и Ганга-сагара; царь Самудра Сен и Бхимасена; океан служит Гауре (НДМ 11.43–83; НБТ 72–73); ныне — Самудрагарх (Пурба-Бардхаман)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3494,
+   "lon": 88.3256,
+   "precision": "точно",
+   "basis": "OSM: Samudragarh, Purbasthali-I, Purba Bardhaman"
+  }
+ },
+ {
+  "id": "#house-vaninatha",
+  "ru": "дом Ванинатхи (Чампахати)",
+  "en": "house of Vaninath (Champahati)",
+  "note": "Чампахати (#champahatti); ночлег Нитьянанды и Дживы (НДМ 11.84, 11.154, 12.3); киртан и праздник Гауранги в доме Двиджи Ванинатхи (НБТ 77)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3826,
+   "lon": 88.3341,
+   "precision": "условно",
+   "basis": "в Чампахати (НДМ 11.84); OSM: Champahati"
+  }
+ },
+ {
+  "id": "#ratupur",
+  "ru": "Ратупур (Рахутапур)",
+  "en": "Ratupur (Rahutapur)",
+  "note": "Ритудвипа (НДМ 12.4); на карте НДМ — Рахутапур",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3775,
+   "lon": 88.3319,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Rahutapur"
+  }
+ },
+ {
+  "id": "#radha-kunda-navadvipa",
+  "ru": "Радха-кунда и Шьяма-кунда (Ритудвипа)",
+  "en": "Radha Kunda and Syama Kunda (Rtudwip)",
+  "note": "Ритудвипа; Врадж — Радха-кунда; послеполуденный киртан Гаурахари, рощи сакхи; Манаса-ганга (НДМ 12.12–15; НБТ 79–82); не путать с #radha-kunda (Врадж)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3775,
+   "lon": 88.3319,
+   "precision": "условно",
+   "basis": "в Ритудвипе у Ратупура (НДМ 12.4–12); карта НДМ 1888: Rahutapur"
+  }
+ },
+ {
+  "id": "#jannagar",
+  "ru": "Джаннагар (обитель Джахну Муни)",
+  "en": "Jan Nagar (hermitage of Jahnu Muni)",
+  "note": "Джахнудвипа; Врадж — Бхадравана; Джахну Муни выпил Гангу; Бхишма учился у Джахну (НДМ 13.60–75; НБТ 94–95)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4109,
+   "lon": 88.3421,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Jān Nagar"
+  }
+ },
+ {
+  "id": "#bhishma-tila",
+  "ru": "Бхишма-тила",
+  "en": "Bhisma Tila",
+  "note": "Джахнудвипа; холм, на котором является Бхишмадева (НБТ 96–108)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4109,
+   "lon": 88.3421,
+   "precision": "условно",
+   "basis": "в Джахнудвипе (НБТ 96); карта НДМ 1888: Jān Nagar"
+  }
+ },
+ {
+  "id": "#rama-vata",
+  "ru": "Рама-вата (место хижины Рамы)",
+  "en": "Rama Vata (site of Rama's cottage)",
+  "note": "Модадрумадвипа, Мамгачхи; хижина Рамы, Ситы и Лакшманы под огромным баньяном; Врадж — Бхандиравана (НДМ 14.3–32; НБТ 110–116)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4157,
+   "lon": 88.3228,
+   "precision": "условно",
+   "basis": "в Мамгачхи (НДМ 14.2–32); карта НДМ 1888: Māmagāchhi"
+  }
+ },
+ {
+  "id": "#house-narayani",
+  "ru": "дом Нараяни (Мамгачхи)",
+  "en": "house of Narayani (Mamgachhi)",
+  "note": "Модадрумадвипа; Нараяни, мать Вьясы (Вриндавана даса), принимала Нитьянанду и преданных (НДМ 14.48–49); ср. #modadrumadvipa",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4157,
+   "lon": 88.3228,
+   "precision": "условно",
+   "basis": "в Мамгачхи (НДМ 14.48); карта НДМ 1888: Māmagāchhi"
+  }
+ },
+ {
+  "id": "#vaikunthapur",
+  "ru": "Вайкунтхапура",
+  "en": "Vaikunthapur",
+  "note": "Модадрумадвипа; Вайкунтха за рекой Вираджа, лес Нихшреяса; Нарада, Рамануджа (будущий Ананта Ачарья), дом Ананты Ачарьи (НДМ 14.50, 15.2–59; НБТ 117–119)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4199,
+   "lon": 88.3361,
+   "precision": "условно",
+   "basis": "НДМ 14.50–15.60: на пути из Мамгачхи в Махатпуру; середина между точками карты НДМ 1888"
+  }
+ },
+ {
+  "id": "#house-vallabha-acharya",
+  "ru": "дом Валлабхи Ачарьи (место свадьбы Лакшмиприи и Гауранги)",
+  "en": "home of Vallabha Acharya (site of Laksmi and Gauranga's marriage)",
+  "note": "Модадрумадвипа, между Вайкунтхапурой и Махатпурой (НДМ 15.56)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4199,
+   "lon": 88.3361,
+   "precision": "условно",
+   "basis": "НДМ 15.56: между Вайкунтхапурой и Махатпурой; по карте НДМ 1888"
+  }
+ },
+ {
+  "id": "#mahatpur",
+  "ru": "Махатпура (Матапур)",
+  "en": "Mahatpur (Matapur)",
+  "note": "Модадрумадвипа; Врадж — Камьявана; Пандавы с Драупади — холм Юдхиштхиры (Юдхиштхира-парвата), Драупади-кунда («Пандава-нивас» легенды карты НДМ); Мадхвачарья (НДМ 15.60–89; НБТ 124–131)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.424,
+   "lon": 88.3494,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Mahatpur"
+  }
+ },
+ {
+  "id": "#arka-tila",
+  "ru": "Арка Тила (Сурья-кшетра, Аркадала)",
+  "en": "Arka Tila (Surya Ksetra, Arkadala)",
+  "note": "Модадрумадвипа; холм Сурьядевы, за рекой Вираджа и Брахмани Нагарой (НБТ 120–123); легенда карты НДМ",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4316,
+   "lon": 88.3423,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Arkaḍālā"
+  }
+ },
+ {
+  "id": "#shankarpur",
+  "ru": "Шанкарапура",
+  "en": "Sankarpur",
+  "note": "Рудрадвипа, на берегу Ганги; Шанкарачарья, получив во сне наставление Гауры, ушёл из Навадвипы (НДМ 15.93–105)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#medhra-sthala",
+  "ru": "Медхра-стхала (Медатала)",
+  "en": "Medhra Sthal (Medatala)",
+  "note": "Рудрадвипа, лес Рудравана; встреча с богиней Саюджьей (НБТ 135–140); легенда карты НДМ — Медатала",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4979,
+   "lon": 88.3647,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Meḍatalā"
+  }
+ },
+ {
+  "id": "#nidaya",
+  "ru": "Нидая",
+  "en": "Nidaya",
+  "note": "Рудрадвипа (по карте НДМ); место, названное Саюджьей «Немилосердным» (НБТ 140)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#bharadvaja-tila",
+  "ru": "Бхарадваджа Тила (Бхаруиданга)",
+  "en": "Bharadvaja Tila (Bharuidanga)",
+  "note": "Антардвипа (карта НДМ); Бхарадваджа Муни после Ганга-сагары поклонялся Гауре и написал сутры (НДМ 16.62–69; НБТ 21)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4426,
+   "lon": 88.3941,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Bhāruiḍāṅgā"
+  }
+ },
+ {
+  "id": "#rama-tirtha",
+  "ru": "Рама Тиртха (Рукмапура)",
+  "en": "Rama Tirtha (Rukmapur)",
+  "note": "на одном из концов пути обхода; Баларама убил Коласуру и омылся в Ганге с Ядавами; особо славна в Картику (НДМ 16.59–61); на карте НДМ — Рукунапур (Симантадвипа)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.507,
+   "lon": 88.409,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Rukuṇapur"
+  }
+ },
+ {
+  "id": "#ishodyana",
+  "ru": "Ишодьяна",
+  "en": "Isodyan",
+  "note": "сад в южной части Майяпура, на берегу Ганги у слияния с Сарасвати; полуденные игры Господа (НБТ 15, 26–29, 70, 163); ср. #mayapur",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4424,
+   "lon": 88.3998,
+   "precision": "примерно",
+   "basis": "OSM: Chaitanya Math, Mayapur (Шри Чайтанья Матх в Ишодьяне)"
+  }
+ },
+ {
+  "id": "#gauda-mandala",
+  "ru": "Гауда-мандала",
+  "en": "Gauda Mandal",
+  "note": "святая земля в 168 миль окружностью (лотос в сто лепестков) с Навадвипой в центре (НДМ 2.3–11, 3.40)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#bhaluka",
+  "ru": "Бхалука",
+  "en": "Bhaluka",
+  "note": "Мадхьядвипа, южная часть (легенда карты НДМ)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3547,
+   "lon": 88.3983,
+   "precision": "примерно",
+   "basis": "OSM: Bhaluka bil, Krishnagar-I, Nadia"
+  }
+ },
+ {
+  "id": "#parnashila",
+  "ru": "Парнашила",
+  "en": "Parnasila",
+  "note": "Мадхьядвипа, южная часть (легенда карты НДМ)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.3723,
+   "lon": 88.3983,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Parṇaśilā"
+  }
+ },
+ {
+  "id": "#rudrapara",
+  "ru": "Рудрапара",
+  "en": "Rudrapada",
+  "note": "Рудрадвипа (легенда карты НДМ)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4389,
+   "lon": 88.3336,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Rudrapāḍā"
+  }
+ },
+ {
+  "id": "#purvasthali",
+  "ru": "Пурвастхали",
+  "en": "Purvasthali",
+  "note": "Рудрадвипа (легенда карты НДМ); ныне Пурбастхали (Пурба-Бардхаман)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4526,
+   "lon": 88.3249,
+   "precision": "точно",
+   "basis": "OSM: Purbasthali, Purba Bardhaman"
+  }
+ },
+ {
+  "id": "#chupi",
+  "ru": "Чупи",
+  "en": "Chupi",
+  "note": "Рудрадвипа (легенда карты НДМ)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4591,
+   "lon": 88.3247,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Chupī"
+  }
+ },
+ {
+  "id": "#koksali",
+  "ru": "Кокшали (Кокашияли)",
+  "en": "Koksasali (Kokasiyali)",
+  "note": "Рудрадвипа (легенда карты НДМ)",
+  "section": "",
+  "lilas": [],
+  "events": [],
+  "geo": {
+   "lat": 23.4698,
+   "lon": 88.3425,
+   "precision": "условно",
+   "basis": "карта НДМ 1888: Kokaśiyālī"
+  }
  }
 ]
