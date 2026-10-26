@@ -9,7 +9,7 @@ w: of Nityānanda  of the feet  lotus-
 w: the bees  by the honey of love  maddened
 w: having bowed to  all  among them  the chief
 w: are written of  a few  by me
-tr: Bowing to all the bees at the lotus feet of Nityānanda, maddened by the honey of love, I shall write of a few, the foremost among them.
+tr: I bow to all the devotees who, like bees at the lotus feet of Nityānanda, are maddened by the honey of love, and I shall write of a few, the foremost among them.
 
 ## 2
 w: glory  glory  Mahāprabhu  Śrī  Kṛṣṇa  Caitanya
@@ -38,13 +38,13 @@ fn: Heading in the edition: “By Mahāprabhu’s will the branches of Nityānan
 ## 6
 w: the gardener’s  by the water of will  grow  the branches
 w: with flowers and fruits of love  filled  covered  the world
-tr: The gardener waters them with His will, and the branches grow. Laden with the flowers and fruits of love, they have covered the world.
+tr: The branches grow by the water of the gardener’s will. Laden with the flowers and fruits of love, they have covered the world.
 fn: *Amṛta-pravāha-bhāṣya*: the gardener is Śrī Mahāprabhu.
 
 ## 7
 w: countless  endless  devotees  who  can  count
 w: myself  to purify  I tell  the chief  chief  persons
-tr: These devotees are countless, without end — who could ever count them? For my own purification I shall name the foremost among them.
+tr: The devotees are numberless, without end — who could count them all? For my own purification I shall name only the foremost.
 
 ## 8
 w: Śrī  Vīrabhadra  Gosāñi  of the trunk  the great branch
@@ -93,13 +93,13 @@ fn: Heading in the edition: “Mādhava and Vāsu Ghoṣa Ṭhākura.” *Amṛt
 ## 16
 w: Rāmadāsa  —  a chief branch,  of friendly love  a treasure
 w: of sixteen bearers  the log  which  lifting  made  a flute
-tr: Rāmadāsa is a chief branch, a treasure of the love of friendship. He lifted a log that it takes sixteen men to carry and made a flute of it.
+tr: Rāmadāsa, a chief branch, was a treasury of loving friendship. He lifted a log that it took sixteen men to carry and made a flute of it.
 fn: The *Gaura-gaṇoddeśa-dīpikā* (126), quoted in the *Anubhāṣya* on 11.13, speaks of a log that only thirty-two men could carry. Heading in the edition: “The pastime of Abhirāma.”
 
 ## 17
 w: Gadādhara  dāsa  in the mood of a gopī  full of bliss
 w: whose  in the house  the toll pastime  performed  Nityānanda
-tr: Gadādhara dāsa was full of bliss in the mood of a gopī, and in his house Nityānanda performed the *dāna-keli*.
+tr: Gadādhara dāsa was full of bliss in the mood of a gopī, and in his house Nityānanda revealed the *dāna-keli* pastime.
 fn: *Dāna-keli*, “the toll pastime”: Kṛṣṇa and His friends block the gopīs’ way and demand a “toll” from them. Heading in the edition: “The wondrous deeds of Dāsa Gadādhara.”
 
 ## 18
@@ -110,7 +110,7 @@ tr: Śrī Mādhava Ghoṣa was foremost among the kīrtana singers, and Nityāna
 ## 19
 w: Vāsudeva  in songs  makes  of the Lord  description
 w: wood  stone  melt  whose  on hearing
-tr: Vāsudeva sang of the Lord in his songs, and on hearing them even wood and stone would melt.
+tr: When Vāsudeva sang of the Lord, even wood and stone would melt to hear him.
 fn: *Anubhāṣya* (on 15): into the collections of Vāsu Ghoṣa’s songs the *prākṛta-sahajiyās* have inserted many songs of “Gaura the lover of the women of Nadia” (*gaura-nāgarī*), pleasing to their senses. Vāsu Ghoṣa, who tasted the rasa of separation, never wrote such songs and never could have; the sādhaka should reject them.
 
 ## 20
@@ -151,13 +151,13 @@ fn: *Anubhāṣya*: Sūryadāsa Sarakhela lived at Śāligrāma near Navadvīpa;
 ## 26
 w: Śrī  Gaurīdāsa  in Paṇḍita  devotion of soaring love
 w: love for Kṛṣṇa  to give,  to take,  holds  great power
-tr: Śrī Gaurīdāsa Paṇḍita’s devotion was ablaze with prema; he had great power both to give and to receive love for Kṛṣṇa.
+tr: Śrī Gaurīdāsa Paṇḍita’s devotion soared with prema; he had great power both to give and to receive love for Kṛṣṇa.
 fn: By the heading in the edition, the fourth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subala (*Gaura-gaṇoddeśa-dīpikā*, 128); the brother of Sūryadāsa Sarakhela, he moved from Śāligrāma to Ambikā-Kālnā on the bank of the Gaṅgā.
 
 ## 27
 w: to Nityānanda  surrendered  caste  family  place at the common meal
 w: Śrī  Caitanya-Nityānanda  making  the Lords of his life
-tr: Gaurīdāsa surrendered to Nityānanda his caste, his family and his place in society, and made Śrī Caitanya and Nityānanda the Lords of his life.
+tr: Gaurīdāsa surrendered to Nityānanda his caste, his family and his place in his community, and made Śrī Caitanya and Nityānanda the Lords of his life.
 fn: *Amṛta-pravāha-bhāṣya*: *pā̐ti* is the common meal (*paṅkti-bhojana*), the right to sit and eat in one row with one’s caste. Heading in the edition: “Gaurīdāsa Paṇḍita, whose life is Gaura and Nitāi.”
 
 ## 28
@@ -205,7 +205,7 @@ fn: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 6): “Balarāma d�
 ## 35
 w: the great devotee  Yadunātha  Kavicandra
 w: whose  in the heart  dance  does  Nityānanda
-tr: Yadunātha Kavicandra was a great devotee, and Nityānanda dances in his heart.
+tr: Yadunātha Kavicandra was a great devotee, in whose heart Nityānanda dances.
 fn: *Anubhāṣya* (from the *Caitanya-bhāgavata*): Yadunātha Kavicandra was the son of Ratnagarbha Ācārya, a friend of Nityānanda’s father from the same village; his brothers were Kṛṣṇānanda and Jīva (11.44, 11.50).
 
 ## 36
@@ -216,7 +216,7 @@ tr: Kṛṣṇadāsa, an excellent brāhmaṇa born in Rāḍha, was a foremost 
 ## 37
 w: Kālā  Kṛṣṇadāsa  great  among Vaiṣṇavas  foremost
 w: Nityānanda  the moon  but  not  knows  another
-tr: Kālā Kṛṣṇadāsa was great, foremost among Vaiṣṇavas; he knew no one but Nityānanda, the moon.
+tr: Kālā Kṛṣṇadāsa was a great Vaiṣṇava, among the foremost; he knew no one but the moonlike Nityānanda.
 fn: By the heading in the edition, the ninth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Lavaṅga (*Gaura-gaṇoddeśa-dīpikā*, 132); the *Caitanya-bhāgavata* (Antya 6): “Kāliyā Kṛṣṇadāsa is famed in the three worlds; whoever remembers him attains Gauracandra.” His śrīpāṭa is Ākāihāṭ near Kāṭoyā.
 
 ## 38
@@ -228,13 +228,13 @@ fn: By the heading in the edition, Puruṣottama is the tenth of the twelve gop�
 ## 39
 w: from birth  immersed  in Nityānanda’s  feet
 w: constantly  childhood pastimes  does  Kṛṣṇa  with
-tr: From his birth he was absorbed in the feet of Nityānanda, and he played the games of childhood with Kṛṣṇa without cease.
+tr: From his birth he was absorbed in the feet of Nityānanda, and he ceaselessly played childhood games with Kṛṣṇa.
 fn: Heading in the edition: “‘Nāgara’ Puruṣottama.”
 
 ## 40
 w: his  son  —  the great soul  Śrī  Kānu  Ṭhākura
 w: whose  in the body  dwells  of the nectar of love for Kṛṣṇa  a flood
-tr: His son was the great soul Śrī Kānu Ṭhākura, in whose body dwelt a full flood of the nectar of love for Kṛṣṇa.
+tr: His son was the great soul Śrī Kānu Ṭhākura, whose body overflowed with the nectar of love for Kṛṣṇa.
 fn: *Anubhāṣya*: some count Kānu Ṭhākura among the twelve gopālas. According to his family tradition, his mother left the world soon after his birth, and Nityānanda Prabhu took the infant to Khaḍadaha and named him Śiśu Kṛṣṇadāsa; in Vṛndāvana, Śrī Jīva Gosvāmī and the people of Vraja gave him the name Ṭhākura Kānāi. His śrīpāṭa is Bodhkhānā (Yaśohar district).
 
 ## 41
@@ -264,7 +264,7 @@ fn: *Anubhāṣya*: Jīva Paṇḍita was the middle son of Ratnagarbha Ācārya
 ## 45
 w: Paramānanda  Gupta  —  Kṛṣṇa’s devotee  great-minded
 w: formerly  whose  in the house  Nityānanda’s  dwelling
-tr: Paramānanda Gupta was a great-minded devotee of Kṛṣṇa; Nityānanda once lived in his house.
+tr: Paramānanda Gupta was a devotee of Kṛṣṇa, great in wisdom; Nityānanda once lived in his house.
 fn: *Anubhāṣya*: in Vraja he is Mañjumedhā (*Gaura-gaṇoddeśa-dīpikā*, 194, 199); he composed a garland of hymns to Kṛṣṇa.
 
 ## 46
@@ -320,7 +320,7 @@ fn: *Caitanya-maṅgala* was the first name of the *Caitanya-bhāgavata* (see Ā
 ## 55
 w: in the Bhāgavata  Kṛṣṇa’s pastimes  described  Vedavyāsa
 w: in Caitanya’s pastimes  the Vyāsa  —  Vṛndāvana  dāsa
-tr: Vedavyāsa described the pastimes of Kṛṣṇa in the *Bhāgavata*; the Vyāsa of Caitanya’s pastimes is Vṛndāvana dāsa.
+tr: Veda-vyāsa described the pastimes of Kṛṣṇa in the *Bhāgavata*; the Vyāsa of Caitanya’s pastimes is Vṛndāvana dāsa.
 
 ## 56
 w: of all branches  the best  Vīrabhadra  Gosāñi
@@ -341,7 +341,7 @@ fn: Heading in the edition: “By giving love for Kṛṣṇa they deliver the w
 ## 59
 w: unbounded  love  of all,  endeavour  unbounded
 w: love  to give,  Kṛṣṇa  to give  (all)  hold  great power
-tr: Boundless is the love of them all, and boundless their striving; all of them have great power to give love and to give Kṛṣṇa Himself.
+tr: Their love knows no bounds, nor does their striving; each of them has great power to give love and to give Kṛṣṇa Himself.
 
 ## 60
 w: in brief  I have told  these  Nityānanda’s devotees

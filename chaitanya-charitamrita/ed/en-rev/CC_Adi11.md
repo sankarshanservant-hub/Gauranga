@@ -16,7 +16,7 @@ having bowed to  all  among them  the chief
 likhyante katicin mayā  
 are written of  a few  by me
 
-(1) Bowing to all the bees at the lotus feet of Nityānanda, maddened by the honey of love, I shall write of a few, the foremost among them.
+(1) I bow to all the devotees who, like bees at the lotus feet of Nityānanda, are maddened by the honey of love, and I shall write of a few, the foremost among them.
 
 জয় জয় মহাপ্রভু শ্রীকৃষ্ণচৈতন্য ৷  
 তাঁহার চরণাশ্রিত যেই, সেই ধন্য ॥ ২ ॥
@@ -70,7 +70,7 @@ the gardener’s  by the water of will  grow  the branches
 prema-phula-phale bhari’ chāila bhuvana  
 with flowers and fruits of love  filled  covered  the world
 
-(6) The gardener waters them with His will, and the branches grow. Laden with the flowers and fruits of love, they have covered the world.[^3]
+(6) The branches grow by the water of the gardener’s will. Laden with the flowers and fruits of love, they have covered the world.[^3]
 
 অসংখ্য অনন্ত গণ কে করু গণন ৷  
 আপনা শোধিতে কহি মুখ্য মুখ্য জন ॥ ৭ ॥
@@ -80,7 +80,7 @@ countless  endless  devotees  who  can  count
 āpanā śodhite kahi mukhya mukhya jana  
 myself  to purify  I tell  the chief  chief  persons
 
-(7) These devotees are countless, without end — who could ever count them? For my own purification I shall name the foremost among them.
+(7) The devotees are numberless, without end — who could count them all? For my own purification I shall name only the foremost.
 
 শ্রীবীরভদ্র গোসাঞি — স্কন্ধ-মহাশাখা ৷  
 তাঁর উপশাখা যত, অসংখ্য তার লেখা ॥ ৮ ॥
@@ -170,7 +170,7 @@ Rāmadāsa  —  a chief branch,  of friendly love  a treasure
 ṣolasāṅgera kāṣṭha yei tuli’ kaila bām̐śī  
 of sixteen bearers  the log  which  lifting  made  a flute
 
-(16) Rāmadāsa is a chief branch, a treasure of the love of friendship. He lifted a log that it takes sixteen men to carry and made a flute of it.[^8]
+(16) Rāmadāsa, a chief branch, was a treasury of loving friendship. He lifted a log that it took sixteen men to carry and made a flute of it.[^8]
 
 গদাধর দাস গোপীভাবে পূর্ণানন্দ ৷  
 যাঁর ঘরে দানকেলি কৈল নিত্যানন্দ ॥ ১৭ ॥
@@ -180,7 +180,7 @@ Gadādhara  dāsa  in the mood of a gopī  full of bliss
 yām̐ra ghare dānakeli kaila nityānanda  
 whose  in the house  the toll pastime  performed  Nityānanda
 
-(17) Gadādhara dāsa was full of bliss in the mood of a gopī, and in his house Nityānanda performed the *dāna-keli*.[^9]
+(17) Gadādhara dāsa was full of bliss in the mood of a gopī, and in his house Nityānanda revealed the *dāna-keli* pastime.[^9]
 
 শ্রীমাধব ঘোষ — মুখ্য কীর্ত্তনীয়াগণে ৷  
 নিত্যানন্দপ্রভু নৃত্য করে যাঁর গানে ॥ ১৮ ॥
@@ -200,7 +200,7 @@ Vāsudeva  in songs  makes  of the Lord  description
 kāṣṭha-pāṣāṇa-drave yāhāra śravaṇe  
 wood  stone  melt  whose  on hearing
 
-(19) Vāsudeva sang of the Lord in his songs, and on hearing them even wood and stone would melt.[^10]
+(19) When Vāsudeva sang of the Lord, even wood and stone would melt to hear him.[^10]
 
 মুরারি-চৈতন্যদাসের অলৌকিক লীলা ৷  
 ব্যাঘ্র-গালে চড় মারে, সর্প-সনে খেলা ॥ ২০ ॥
@@ -270,7 +270,7 @@ in Nityānanda  firm  faith,  of love  the abode
 kṛṣṇa-premā dite, nite, dhare mahāśakti  
 love for Kṛṣṇa  to give,  to take,  holds  great power
 
-(26) Śrī Gaurīdāsa Paṇḍita’s devotion was ablaze with prema; he had great power both to give and to receive love for Kṛṣṇa.[^16]
+(26) Śrī Gaurīdāsa Paṇḍita’s devotion soared with prema; he had great power both to give and to receive love for Kṛṣṇa.[^16]
 
 নিত্যানন্দে সমর্পিল জাতি-কুল-পাঁতি ৷  
 শ্রীচৈতন্য-নিত্যানন্দে করি’ প্রাণপতি ॥ ২৭ ॥
@@ -280,7 +280,7 @@ to Nityānanda  surrendered  caste  family  place at the common meal
 śrī-caitanya-nityānande kari’ prāṇapati  
 Śrī  Caitanya-Nityānanda  making  the Lords of his life
 
-(27) Gaurīdāsa surrendered to Nityānanda his caste, his family and his place in society, and made Śrī Caitanya and Nityānanda the Lords of his life.[^17]
+(27) Gaurīdāsa surrendered to Nityānanda his caste, his family and his place in his community, and made Śrī Caitanya and Nityānanda the Lords of his life.[^17]
 
 নিত্যানন্দ প্রভুর প্রিয় — পণ্ডিত পুরন্দর ৷  
 প্রেমার্ণব-মধ্যে ফিরে যৈছন মন্দর ॥ ২৮ ॥
@@ -360,7 +360,7 @@ the great devotee  Yadunātha  Kavicandra
 yām̐hāra hṛdaye nṛtya kare nityānanda  
 whose  in the heart  dance  does  Nityānanda
 
-(35) Yadunātha Kavicandra was a great devotee, and Nityānanda dances in his heart.[^25]
+(35) Yadunātha Kavicandra was a great devotee, in whose heart Nityānanda dances.[^25]
 
 রাঢ়ে যাঁর জন্ম কৃষ্ণদাস দ্বিজবর ৷  
 শ্রীনিত্যানন্দের তিঁহো পরম কিঙ্কর ॥ ৩৬ ॥
@@ -380,7 +380,7 @@ Kālā  Kṛṣṇadāsa  great  among Vaiṣṇavas  foremost
 nityānanda-candra vinā nāhi jāne āna  
 Nityānanda  the moon  but  not  knows  another
 
-(37) Kālā Kṛṣṇadāsa was great, foremost among Vaiṣṇavas; he knew no one but Nityānanda, the moon.[^26]
+(37) Kālā Kṛṣṇadāsa was a great Vaiṣṇava, among the foremost; he knew no one but the moonlike Nityānanda.[^26]
 
 শ্রীসদাশিব কবিরাজ — বড় মহাশয় ৷  
 শ্রীপুরুষোত্তমদাস — তাঁহার তনয় ॥ ৩৮ ॥
@@ -400,7 +400,7 @@ from birth  immersed  in Nityānanda’s  feet
 nirantara bālya-līlā kare kṛṣṇa-sane  
 constantly  childhood pastimes  does  Kṛṣṇa  with
 
-(39) From his birth he was absorbed in the feet of Nityānanda, and he played the games of childhood with Kṛṣṇa without cease.[^28]
+(39) From his birth he was absorbed in the feet of Nityānanda, and he ceaselessly played childhood games with Kṛṣṇa.[^28]
 
 তাঁর পুত্র — মহাশয় শ্রীকানু ঠাকুর ৷  
 যাঁর দেহে রহে কৃষ্ণ-প্রেমামৃতপূর ॥ ৪০ ॥
@@ -410,7 +410,7 @@ his  son  —  the great soul  Śrī  Kānu  Ṭhākura
 yām̐ra dehe rahe kṛṣṇa-premāmṛta-pūra  
 whose  in the body  dwells  of the nectar of love for Kṛṣṇa  a flood
 
-(40) His son was the great soul Śrī Kānu Ṭhākura, in whose body dwelt a full flood of the nectar of love for Kṛṣṇa.[^29]
+(40) His son was the great soul Śrī Kānu Ṭhākura, whose body overflowed with the nectar of love for Kṛṣṇa.[^29]
 
 মহাভাগবত-শ্রেষ্ঠ দত্ত উদ্ধারণ ৷  
 সর্ব্বভাবে সেবে নিত্যানন্দের চরণ ॥ ৪১ ॥
@@ -460,7 +460,7 @@ Paramānanda  Gupta  —  Kṛṣṇa’s devotee  great-minded
 pūrve yām̐ra ghare nityānandera vasati  
 formerly  whose  in the house  Nityānanda’s  dwelling
 
-(45) Paramānanda Gupta was a great-minded devotee of Kṛṣṇa; Nityānanda once lived in his house.[^34]
+(45) Paramānanda Gupta was a devotee of Kṛṣṇa, great in wisdom; Nityānanda once lived in his house.[^34]
 
 নারায়ণ, কৃষ্ণদাস, আর মনোহর ৷  
 দেবানন্দ — চারি ভাই নিতাই-কিঙ্কর ॥ ৪৬ ॥
@@ -560,7 +560,7 @@ in the Bhāgavata  Kṛṣṇa’s pastimes  described  Vedavyāsa
 caitanya-līlāte vyāsa — vṛndāvana dāsa  
 in Caitanya’s pastimes  the Vyāsa  —  Vṛndāvana  dāsa
 
-(55) Vedavyāsa described the pastimes of Kṛṣṇa in the *Bhāgavata*; the Vyāsa of Caitanya’s pastimes is Vṛndāvana dāsa.
+(55) Veda-vyāsa described the pastimes of Kṛṣṇa in the *Bhāgavata*; the Vyāsa of Caitanya’s pastimes is Vṛndāvana dāsa.
 
 সর্ব্বশাখা-শ্রেষ্ঠ বীরভদ্র গোসাঞি ৷  
 তাঁর উপশাখা যত, তার অন্ত নাই ॥ ৫৬ ॥
@@ -600,7 +600,7 @@ unbounded  love  of all,  endeavour  unbounded
 prema dite, kṛṣṇa dite (sabe) dhare mahābala  
 love  to give,  Kṛṣṇa  to give  (all)  hold  great power
 
-(59) Boundless is the love of them all, and boundless their striving; all of them have great power to give love and to give Kṛṣṇa Himself.
+(59) Their love knows no bounds, nor does their striving; each of them has great power to give love and to give Kṛṣṇa Himself.
 
 সংক্ষেপে কহিলাঙ এই নিত্যানন্দ-গণ ৷  
 যাঁহার অবধি না পায় ‘সহস্র-বদন’ ॥ ৬০ ॥
