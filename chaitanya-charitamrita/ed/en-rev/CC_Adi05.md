@@ -326,6 +326,324 @@ four  liberations  giving  He makes  of the jīvas  deliverance
 
 (30) Granting the four kinds of liberation — sālokya, sāmīpya, sārṣṭi and sārūpya — He delivers the jīvas.
 
+ব্রহ্মসাযুজ্য-মুক্তের তাঁহা নাহি গতি ৷  
+বৈকুণ্ঠ-বাহিরে হয় তা-সবার স্থিতি ॥ ৩১ ॥
+
+brahma-sāyujya-muktera tām̐hā nāhi gati  
+in Brahman  by merging  of the liberated  there  there is no  access  
+vaikuṇṭha-bāhire haya tā-sabāra sthiti  
+Vaikuṇṭha  outside  is  of them all  the dwelling
+
+(31) Those liberated by merging into Brahman have no access there; they all dwell outside Vaikuṇṭha.
+
+বৈকুণ্ঠ-বাহিরে এক জ্যোতির্ম্ময় মণ্ডল ৷  
+কৃষ্ণের অঙ্গের প্রভা, পরম উজ্জ্বল ॥ ৩২ ॥
+
+vaikuṇṭha-bāhire eka jyotir-maya maṇḍala  
+Vaikuṇṭha  outside  one  luminous  sphere  
+kṛṣṇera aṅgera prabhā, parama ujjvala  
+of Kṛṣṇa’s  body  the radiance  supremely  bright
+
+(32) Outside Vaikuṇṭha lies a sphere of light — the radiance of Kṛṣṇa’s body, supremely bright.
+
+‘সিদ্ধলোক’ নাম তার প্রকৃতির পার ৷  
+চিৎস্বরূপ, তাঁহা নাহি চিচ্ছক্তি-বিকার ॥ ৩৩ ॥
+
+‘siddha-loka’ nāma tāra prakṛtira pāra  
+Siddhaloka  name  its  material nature  beyond  
+cit-svarūpa, tām̐hā nāhi cic-chakti-vikāra  
+spiritual  in nature  there  there are not  of the spiritual potency  transformations
+
+(33) It is called Siddhaloka and lies beyond material nature. It is spiritual, yet the spiritual potency displays no variety there.
+
+সূর্য্যমণ্ডল যেন বাহিরে নির্ব্বিশেষ ৷  
+ভিতরে সূর্য্যের রথ-আদি সবিশেষ ॥ ৩৪ ॥
+
+sūrya-maṇḍala yena bāhire nirviśeṣa  
+the sun’s  disc  as  outside  without variety  
+bhitare sūryera ratha-ādi saviśeṣa  
+within  the sun’s  chariot  and the rest  full of variety
+
+(34) It is like the disc of the sun: from outside it is a featureless glow, but within are the sun’s chariot and all its variety.
+
+কামাদ্দ্বেষাৎ ভয়াৎ স্নেহাৎ যথা ভক্ত্যেশ্বরে মনঃ ৷  
+আবেশ্য তদঘং হিত্বা বহবস্তদ্গতিং গতাঃ ॥ ৩৫ ॥
+
+kāmād dveṣāt bhayāt snehāt  
+from desire  from enmity  from fear  from affection  
+yathā bhaktyeśvare manaḥ  
+as  by devotion  on the Lord  the mind  
+āveśya tad aghaṁ hitvā  
+fixing  that  sin  casting off  
+bahavas tad gatiṁ gatāḥ  
+many  His  destination  have attained
+
+(35) “Many have fixed their minds on the Lord — some by devotion, others by desire (*kāma*), enmity, fear or affection — and, casting off the sin in those feelings, have attained Him.” (Śrīmad-Bhāgavatam, 7.1.29)[^10]
+
+যদরীণাং প্রিয়াণাঞ্চ প্রাপ্যমেকমিবোদিতম্ ৷  
+তদ্ব্রহ্মকৃষ্ণয়োরৈক্যাৎ কিরণার্কোপমা-জুষোঃ ॥ ৩৬ ॥
+
+yad arīṇāṁ priyāṇāṁ ca  
+which  of the enemies  of the beloved  and  
+prāpyam ekam ivoditam  
+the attainment  one  as if  is spoken of  
+tad brahma-kṛṣṇayor aikyāt  
+that  of Brahman and Kṛṣṇa  from the oneness  
+kiraṇārkopamā-juṣoḥ  
+like the rays and the sun  of those two
+
+(36) “That the goal of the Lord’s enemies and of His beloved ones is spoken of as if it were one is because Brahman and Kṛṣṇa are one, as the rays are one with the sun.” (Bhakti-rasāmṛta-sindhu, 1.2.278)[^11]
+
+তৈছে পরব্যোমে নানা চিচ্ছক্তিবিলাস ৷  
+নির্ব্বিশেষ জ্যোতির্বিম্ব বাহিরে প্রকাশ ॥ ৩৭ ॥
+
+taiche para-vyome nānā cic-chakti-vilāsa  
+so  in Paravyoma  manifold  of the spiritual potency  pastimes  
+nirviśeṣa jyotir-bimba bāhire prakāśa  
+featureless  of light  a sphere  outside  is manifest
+
+(37) So in Paravyoma there are manifold pastimes of the spiritual potency, while outside it a featureless sphere of light is manifest.
+
+নির্ব্বিশেষ-ব্রহ্ম সেই কেবল জ্যোতির্ম্ময় ৷  
+সায়ুজ্যের অধিকারী তাঁহা পায় লয় ॥ ৩৮ ॥
+
+nirviśeṣa-brahma sei kevala jyotir-maya  
+featureless  Brahman  that  only  luminous  
+sāyujyera adhikārī tām̐hā pāya laya  
+for sāyujya  the qualified  there  attain  absorption
+
+(38) That featureless Brahman is light alone, and those who are fit for *sāyujya* are absorbed in it.
+
+সিদ্ধলোকস্তু তমসঃ পারে যত্র বসন্তি হি ৷  
+সিদ্ধা ব্রহ্মসুখে মগ্না দৈত্যাশ্চ হরিণা হতাঃ ॥ ৩৯ ॥
+
+siddha-lokas tu tamasaḥ  
+Siddhaloka  but  darkness  
+pāre yatra vasanti hi  
+beyond  where  dwell  indeed  
+siddhā brahma-sukhe magnā  
+the siddhas  in the bliss of Brahman  immersed  
+daityāś ca hariṇā hatāḥ  
+the demons  and  by Hari  slain
+
+(39) “Beyond darkness lies Siddhaloka, where dwell the siddhas, immersed in the bliss of Brahman, and the demons slain by Hari.” (Brahmāṇḍa-purāṇa; Bhakti-rasāmṛta-sindhu, 1.2.280)[^12]
+
+সেই পরব্যোমে নারায়ণের চারি পাশে ৷  
+দ্বারকায় চতুর্ব্যূহ দ্বিতীয় প্রকাশে ॥ ৪০ ॥
+
+sei para-vyome nārāyaṇera cāri pāśe  
+in that  Paravyoma  of Nārāyaṇa  on four  sides  
+dvārakāya catur-vyūha dvitīya prakāśe  
+of Dvārakā  the catur-vyūha  in a second  manifestation
+
+(40) In that Paravyoma, on the four sides of Nārāyaṇa, the catur-vyūha of Dvārakā is present in a second manifestation.
+
+বাসুদেব-সঙ্কর্ষণ-প্রদ্যুম্নানিরুদ্ধ ৷  
+‘দ্বিতীয় চতুর্ব্যূহ’ এই — তুরীয়, বিশুদ্ধ ॥ ৪১ ॥
+
+vāsudeva-saṅkarṣaṇa-pradyumnāniruddha  
+Vāsudeva  Saṅkarṣaṇa  Pradyumna  Aniruddha  
+‘dvitīya catur-vyūha’ ei — turīya, viśuddha  
+the second  catur-vyūha  this  transcendent  pure
+
+(41) Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — this is the second catur-vyūha, transcendent and pure.
+
+তাঁহা যে রামের রূপ — মহাসঙ্কর্ষণ ৷  
+চিচ্ছক্তি-আশ্রয় তিঁহো, কারণের কারণ ॥ ৪২ ॥
+
+tām̐hā ye rāmera rūpa — mahā-saṅkarṣaṇa  
+there  which  of Rāma  form  Mahā-Saṅkarṣaṇa  
+cic-chakti-āśraya tim̐ho, kāraṇera kāraṇa  
+of the spiritual potency  the shelter  He  of causes  the cause
+
+(42) There the form of Rāma is Mahā-Saṅkarṣaṇa. He is the shelter of the spiritual potency, the cause of all causes.
+
+চিচ্ছক্তিবিলাস এক — ‘শুদ্ধসত্ত্ব’-নাম ৷  
+শুদ্ধসত্ত্বময় যত বৈকুণ্ঠাদি-ধাম ॥ ৪৩ ॥
+
+cic-chakti-vilāsa eka — ‘śuddha-sattva’-nāma  
+of the spiritual potency  a manifestation  one  śuddha-sattva  named  
+śuddha-sattva-maya yata vaikuṇṭhādi-dhāma  
+of śuddha-sattva made  all  Vaikuṇṭha and other  abodes
+
+(43) One manifestation of the spiritual potency is called *śuddha-sattva*, pure spiritual existence, and of it all the abodes of Vaikuṇṭha are made.
+
+ষড়্বিধৈশ্বর্য্য তাঁহা সকল চিন্ময় ৷  
+সঙ্কর্ষণের বিভূতি সব, জানিহ নিশ্চয় ॥ ৪৪ ॥
+
+ṣaḍ-vidhaiśvarya tām̐hā sakala cinmaya  
+of six kinds  opulence  there  all  spiritual  
+saṅkarṣaṇera vibhūti saba, jāniha niścaya  
+of Saṅkarṣaṇa  the splendour  all  know  for certain
+
+(44) The six kinds of opulence there are all spiritual; know for certain that all of them are the splendour of Saṅkarṣaṇa.
+
+‘জীব’ নাম তটস্থাখ্য এক শক্তি হয় ৷  
+মহাসঙ্কর্ষণ — সব জীবের আশ্রয় ॥ ৪৫ ॥
+
+‘jīva’ nāma taṭasthākhya eka śakti haya  
+jīva  named  marginal called  one  potency  there is  
+mahā-saṅkarṣaṇa — saba jīvera āśraya  
+Mahā-Saṅkarṣaṇa  of all  jīvas  the shelter
+
+(45) There is a potency called *jīva*, known as the marginal (*taṭasthā*) potency; and Mahā-Saṅkarṣaṇa is the shelter of all jīvas.
+
+যাঁহা হৈতে বিশ্বোৎপত্তি, যাঁহাতে প্রলয় ৷  
+সেই পুরুষের সঙ্কর্ষণ সমাশ্রয় ॥ ৪৬ ॥
+
+yām̐hā haite viśvotpatti, yām̐hāte pralaya  
+from whom  of the universe  the origin  in whom  the dissolution  
+sei puruṣera saṅkarṣaṇa samāśraya  
+of that  Puruṣa  Saṅkarṣaṇa  the shelter
+
+(46) Saṅkarṣaṇa is the shelter of the Puruṣa from whom the universe arises and into whom it dissolves.
+
+সর্ব্বাশ্রয়, সর্ব্বাদ্ভুত, ঐশ্বর্য্য অপার ৷  
+‘অনন্ত’ কহিতে নারে মহিমা যাঁহার ॥ ৪৭ ॥
+
+sarvāśraya, sarvādbhuta, aiśvarya apāra  
+of all  the shelter  all-wondrous  opulence  boundless  
+‘ananta’ kahite nāre mahimā yām̐hāra  
+Ananta  to describe  cannot  the glory  whose
+
+(47) He is the shelter of all, wondrous in every way, His opulence boundless; even Ananta cannot describe His glory.
+
+তুরীয়, বিশুদ্ধসত্ত্ব, ‘সঙ্কর্ষণ’ নাম ৷  
+তিঁহো যাঁর অংশ, সেই নিত্যানন্দ-রাম ॥ ৪৮ ॥
+
+turīya, viśuddha-sattva, ‘saṅkarṣaṇa’ nāma  
+transcendent  pure sattva  Saṅkarṣaṇa  named  
+tim̐ho yām̐ra aṁśa, sei nityānanda-rāma  
+He  whose  part  that  Nityānanda-Rāma
+
+(48) The transcendent Saṅkarṣaṇa, pure spiritual existence (*viśuddha-sattva*), is a part of Nityānanda-Rāma.[^13]
+
+অষ্টম শ্লোকের কৈল সংক্ষেপ বিবরণ ৷  
+নবম শ্লোকের অর্থ শুন দিয়া মন ॥ ৪৯ ॥
+
+aṣṭama ślokera kaila saṅkṣepa vivaraṇa  
+of the eighth  verse  I gave  a brief  explanation  
+navama ślokera artha śuna diyā mana  
+of the ninth  verse  the meaning  hear  giving  the mind
+
+(49) Thus I have briefly explained the eighth verse. Now hear attentively the meaning of the ninth.
+
+মায়াভর্ত্তাজাণ্ডসঙ্ঘাশ্রয়াঙ্গঃ  
+শেতে সাক্ষাৎ কারণাম্ভোধিমধ্যে ৷  
+যস্যৈকাংশঃ শ্রীপুমানাদিদেব-  
+স্তং শ্রীনিত্যানন্দরামং প্রপদ্যে ॥ ৫০ ॥
+
+māyā-bhartājāṇḍa-saṅghāśrayāṅgaḥ  
+māyā’s  master  of universes  multitudes  shelter  whose body  
+śete sākṣāt kāraṇāmbhodhi-madhye  
+lies  in person  of the Causal  Ocean  in the midst  
+yasyaikāṁśaḥ śrī-pumān ādi-devas  
+whose  one part  the Puruṣa  the original  Lord  
+taṁ śrī-nityānanda-rāmaṁ prapadye  
+to Him  Śrī  Nityānanda-Rāma  I surrender
+
+(50) “I take refuge in Śrī Nityānanda Rāma. A part of Him is the original Lord, the Puruṣa, the master of māyā, who lies in person in the midst of the Causal Ocean, His body the shelter of countless universes.” (diary of Svarūpa Dāmodara)[^14]
+
+বৈকুণ্ঠ-বাহিরে যেই জ্যোতির্ময় ধাম ৷  
+তাহার বাহিরে ‘কারণার্ণব’ নাম ॥ ৫১ ॥
+
+vaikuṇṭha-bāhire yei jyotir-maya dhāma  
+Vaikuṇṭha  outside  which  luminous  abode  
+tāhāra bāhire ‘kāraṇārṇava’ nāma  
+of it  outside  Kāraṇārṇava  named
+
+(51) Outside Vaikuṇṭha is the luminous abode, and beyond it lies what is called the Kāraṇārṇava, the Causal Ocean.
+
+বৈকুণ্ঠ বেড়িয়া এক আছে জলনিধি ৷  
+অনন্ত, অপার — তার নাহিক অবধি ॥ ৫২ ॥
+
+vaikuṇṭha beḍiyā eka āche jala-nidhi  
+Vaikuṇṭha  encircling  one  there is  an ocean  
+ananta, apāra — tāra nāhika avadhi  
+endless  shoreless  its  there is no  limit
+
+(52) Encircling Vaikuṇṭha is an ocean, endless and shoreless; it has no bound.
+
+বৈকুণ্ঠের পৃথিব্যাদি সকল চিন্ময় ৷  
+মায়িক ভূতের তথি জন্ম নাহি হয় ॥ ৫৩ ॥
+
+vaikuṇṭhera pṛthivy-ādi sakala cinmaya  
+of Vaikuṇṭha  earth  and the rest  all  spiritual  
+māyika bhūtera tathi janma nāhi haya  
+material  of the elements  there  birth  not  is
+
+(53) In Vaikuṇṭha earth and all the elements are spiritual; material elements never arise there.
+
+চিন্ময়-জল সেই পরম-কারণ ৷  
+যার এক কণা গঙ্গা পতিতপাবন ॥ ৫৪ ॥
+
+cinmaya-jala sei parama-kāraṇa  
+spiritual  water  that  the supreme  cause  
+yāra eka kaṇā gaṅgā patita-pāvana  
+of which  one  drop  the Gaṅgā  of the fallen  the purifier
+
+(54) That spiritual water is the supreme cause; a single drop of it is the Gaṅgā, purifier of the fallen.
+
+সেই ত’ কারণার্ণবে সেই সঙ্কর্ষণ ৷  
+আপনার এক অংশে করেন শয়ন ॥ ৫৫ ॥
+
+sei ta’ kāraṇārṇave sei saṅkarṣaṇa  
+in that  very  Causal Ocean  that  Saṅkarṣaṇa  
+āpanāra eka aṁśe karena śayana  
+His own  in one  part  He makes  lying down
+
+(55) In that Causal Ocean the same Saṅkarṣaṇa lies in one part of Himself.
+
+মহৎস্রষ্টা পুরুষ, তিঁহো জগৎ-কারণ ৷  
+আদ্য-অবতার করে মায়ার দরশন ॥ ৫৬ ॥
+
+mahat-sraṣṭā puruṣa, tim̐ho jagat-kāraṇa  
+of the mahat  the creator  Puruṣa  He  of the world  the cause  
+ādya-avatāra kare māyāra daraśana  
+the first  avatāra  makes  of māyā  the glance
+
+(56) He is the Puruṣa, creator of the *mahat-tattva*, the cause of the world. This first avatāra casts His glance upon māyā.
+
+মায়াশক্তি রহে কারণাব্ধির বাহিরে ৷  
+কারণ-সমুদ্র মায়া পরশিতে নারে ॥ ৫৭ ॥
+
+māyā-śakti rahe kāraṇābdhira bāhire  
+māyā  potency  remains  the Causal Ocean  outside  
+kāraṇa-samudra māyā paraśite nāre  
+the Causal  Ocean  māyā  to touch  cannot
+
+(57) The potency māyā stays outside the Causal Ocean; māyā cannot touch its waters.
+
+সেই ত’ মায়ার দুই-বিধ অবস্থিতি ৷  
+জগতের উপাদান ‘প্রধান’, ‘প্রকৃতি’ ॥ ৫৮ ॥
+
+sei ta’ māyāra dui-vidha avasthiti  
+of that  very  māyā  twofold  state  
+jagatera upādāna ‘pradhāna’, ‘prakṛti’  
+of the world  the material cause  pradhāna  prakṛti
+
+(58) That māyā exists in two ways; as the material cause of the world it is called *pradhāna* or *prakṛti*.[^15]
+
+জগৎকারণ নহে প্রকৃতি জড়রূপা ৷  
+শক্তি সঞ্চারিয়া তারে কৃষ্ণ করে কৃপা ॥ ৫৯ ॥
+
+jagat-kāraṇa nahe prakṛti jaḍa-rūpā  
+of the world  the cause  is not  prakṛti  inert  in nature  
+śakti sañcāriyā tāre kṛṣṇa kare kṛpā  
+potency  infusing  into her  Kṛṣṇa  shows  mercy
+
+(59) Inert prakṛti is not the cause of the world; Kṛṣṇa shows her mercy by infusing her with His potency.
+
+কৃষ্ণশক্ত্যে প্রকৃতি হয় গৌণ কারণ ৷  
+অগ্নিশক্ত্যে লৌহ যৈছে করয়ে জারণ ॥ ৬০ ॥
+
+kṛṣṇa-śaktye prakṛti haya gauṇa kāraṇa  
+by Kṛṣṇa’s  potency  prakṛti  becomes  the secondary  cause  
+agni-śaktye lauha yaiche karaye jāraṇa  
+by fire’s  power  iron  as  does  burning
+
+(60) By Kṛṣṇa’s potency prakṛti becomes a secondary cause, just as iron burns by the power of fire.
+
 ---
 
 [^1]: *Anubhāṣya*: *ajñena* — “by one who does not know the scriptures”, that is, by the author himself; *nirūpyate* — “is described”: by Nityānanda’s mercy even such a person can describe the truth about Him.
@@ -345,3 +663,15 @@ four  liberations  giving  He makes  of the jīvas  deliverance
 [^8]: *Anubhāṣya*: the Lakṣmīs here are the gopīs, the beloved cowherd maidens of Vraja (*lakṣmyaḥ gopa-rāmāḥ*); *abhipālayantam* — “tending them in every way, as befits a cowherd”.
 
 [^9]: *Anubhāṣya*: in some Bengali manuscripts “Līlā-śakti” is read in place of “Nīlā”; these three potencies dwell in Vaikuṇṭha beside Nārāyaṇa.
+
+[^10]: *Anubhāṣya*: this is Nārada’s answer to Yudhiṣṭhira’s question how Śiśupāla, who hated Kṛṣṇa, attained *sāyujya*: by *kāma* — the gopīs; by enmity — Dantavakra and Śiśupāla; by fear — Kaṁsa; by affection — the Pāṇḍavas. *Tad agham* is the sin born of desire and the other feelings; *tad-gatim* — the various kinds of liberation. The gopīs’ *kāma* Śrī Rūpa Gosvāmī calls prema: “The pure love of the gopīs came to be called *kāma*” (*Bhakti-rasāmṛta-sindhu*).
+
+[^11]: *Amṛta-pravāha-bhāṣya*: where the scriptures say that the Lord’s enemies and His beloved ones attain the same, they speak only of the oneness of Brahman, which is like the rays, and Kṛṣṇa, who is like the sun. In truth His beloved ones attain the variety of Vaikuṇṭha, and His enemies Siddhaloka, where there are no pastimes.
+
+[^12]: *Anubhāṣya*: *tamasaḥ pāre* — beyond the three guṇas; the siddhas are those perfected in the knowledge of featureless Brahman and in *kaivalya-yoga*. *Amṛta-pravāha-bhāṣya*: there dwell the Māyāvādīs, immersed in the bliss of Brahman, and asuras such as Kaṁsa, slain by the Lord; the yogīs of Patañjali’s school who attain *kaivalya* also reach that world.
+
+[^13]: *Anubhāṣya*: the text reads *aṁśa* (“part”), the *Amṛta-pravāha-bhāṣya* *aṅga*; both readings mean the same. *Amṛta-pravāha-bhāṣya*: Mahā-Saṅkarṣaṇa is spiritual *viśuddha-sattva*; He is the *aṅga*, that is, the *prakāśa*, of Nityānanda-Rāma.
+
+[^14]: The same verse as Ādi 1.9.
+
+[^15]: *Anubhāṣya* and *Amṛta-pravāha-bhāṣya*: the external potency has two parts. The efficient cause (*nimitta*), the guṇas, is called māyā; the material cause (*upādāna*) is *pradhāna*, which is also called *prakṛti* (the first is spoken of in 5.62).
