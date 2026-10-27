@@ -1746,6 +1746,283 @@ truly  you shall speak  by trickery  not  shall deceive  Me
 
 (172) “Let Me ask you one more question, uncle. Answer truly, and do not deceive Me with tricks.
 
+তোমার নগরে হয় সদা সংকীর্ত্তন ৷  
+বাদ্যগীত-কোলাহল, সঙ্গীত, নর্ত্তন ॥ ১৭৩ ॥
+
+tomāra nagare haya sadā saṁkīrtana  
+your  in the town  there is  always  saṅkīrtana  
+vādya-gīta-kolāhala, saṅgīta, nartana  
+the din of instruments and songs  singing  dancing
+
+(173) In your town there is saṅkīrtana all the time — the din of drums and songs, singing and dancing.
+
+তুমি কাজী, — হিন্দু-ধর্ম্ম-বিরোধে অধিকারী ৷  
+এবে যে না কর মানা বুঝিতে না পারি ॥ ১৭৪ ॥
+
+tumi kājī, — hindu-dharma-virodhe adhikārī  
+you  the Kazi  to oppose the Hindu religion  empowered  
+ebe ye nā kara mānā bujhite nā pāri  
+now  that  not  you do  forbid  to understand  not  I can
+
+(174) You are the Kazi, with authority to oppose the Hindu religion; why you do not forbid it now, I cannot understand.”
+
+কাজী বলে, — সবে তোমায় বলে ‘গৌরহরি’ ৷  
+সেই নামে আমি তোমায় সম্বোধন করি ॥ ১৭৫ ॥
+
+kājī bale, — sabe tomāya bale ‘gaurahari’  
+the Kazi  says  all  You  call  Gaurahari  
+sei nāme āmi tomāya sambodhana kari  
+by that  name  I  You  address  do
+
+(175) The Kazi said, “Everyone calls You Gaurahari, and by that name I too shall address You.
+
+শুন, গৌরহরি, এই প্রশ্নের কারণ ৷  
+নিভৃত হও যদি, তবে করি নিবেদন ॥ ১৭৬ ॥
+
+śuna, gaurahari, ei praśnera kāraṇa  
+listen  Gaurahari  of this  question  the reason  
+nibhṛta hao yadi, tabe kari nivedana  
+in private  You are  if  then  I make  submission
+
+(176) Listen, Gaurahari: if we can speak in private, I shall tell You the reason.”
+
+প্রভু বলে, — এ লোক আমার অন্তরঙ্গ হয় ৷  
+স্ফুট করি’ কহ তুমি, না করিহ ভয় ॥ ১৭৭ ॥
+
+prabhu bale, — e loka āmāra antaraṅga haya  
+the Lord  says  these  people  My  intimates  are  
+sphuṭa kari’ kaha tumi, nā kariha bhaya  
+plainly  making  speak  you  not  have  fear
+
+(177) The Lord said, “These people are My intimates. Speak plainly and have no fear.”
+
+কাজী কহে, — যবে আমি হিন্দুর ঘরে গিয়া ৷  
+কীর্ত্তন করিলুঁ মানা মৃদঙ্গ ভাঙ্গিয়া ॥ ১৭৮ ॥
+
+সেই রাত্রে এক সিংহ মহা ভয়ঙ্কর ৷  
+নরদেহ, সিংহমুখ, গর্জ্জয়ে বিস্তর ॥ ১৭৯ ॥
+
+kājī kahe, — yabe āmi hindura ghare giyā  
+the Kazi  says  when  I  of a Hindu  to the house  going  
+kīrtana karilum̐ mānā mṛdaṅga bhāṅgiyā  
+kīrtana  I made  forbidden  the mṛdaṅga  breaking  
+sei rātre eka siṁha mahā bhayaṅkara  
+that  night  a  lion  very  terrible  
+nara-deha, siṁha-mukha, garjaye vistara  
+man’s body  lion’s face  roars  loudly
+
+(178–179) The Kazi said, “When I went to a Hindu’s house, broke the mṛdaṅga and forbade the kīrtana, that very night there came a most terrible lion, with the body of a man and the face of a lion, roaring mightily.[^48]
+
+শয়নে আমার উপর লাফ দিয়া চড়ি’ ৷  
+অট্ট অট্ট হাসে, করে দন্ত-কড়মড়ি ॥ ১৮০ ॥
+
+śayane āmāra upara lāpha diyā caḍi’  
+as I lay  me  upon  a leap  giving  climbing  
+aṭṭa aṭṭa hāse, kare danta-kaḍamaḍi  
+loud  loud  laughs  makes  gnashing of teeth
+
+(180) As I lay asleep, he leapt up onto me, laughing a terrible laugh and gnashing his teeth.
+
+মোর বুকে নখ দিয়া ঘোর-স্বরে বলে ৷  
+ফাড়িমু তোমার বুক মৃদঙ্গ বদলে ॥ ১৮১ ॥
+
+mora buke nakha diyā ghora-svare bale  
+my  on the chest  claws  placing  in a dreadful voice  says  
+phāḍimu tomāra buka mṛdaṅga badale  
+I will tear open  your  chest  the mṛdaṅga  in return for
+
+(181) Pressing his claws into my chest, he said in a dreadful voice, ‘I will tear your chest open in return for the mṛdaṅga!
+
+মোর কীর্ত্তন মানা করিস্, করিমু তোর ক্ষয় ৷  
+আঁখি মুদি’ কাঁপি আমি পাঞা বড় ভয় ॥ ১৮২ ॥
+
+mora kīrtana mānā karis, karimu tora kṣaya  
+My  kīrtana  forbidden  you make  I will make  your  destruction  
+ām̐khi mudi’ kām̐pi āmi pāñā baḍa bhaya  
+eyes  closing  tremble  I  getting  great  fear
+
+(182) You forbid My kīrtana — I will destroy you!’ Terrified, I shut my eyes and trembled.
+
+ভীত দেখি’ সিংহ বলে হইয়া সদয় ৷  
+তোরে শিক্ষা দিতে কৈলু তোর পরাজয় ॥ ১৮৩ ॥
+
+bhīta dekhi’ siṁha bale haiyā sadaya  
+frightened  seeing  the lion  says  becoming  kind  
+tore śikṣā dite kailu tora parājaya  
+you  a lesson  to give  I made  your  defeat
+
+(183) Seeing my fear, the lion grew kind and said, ‘I have humbled you only to teach you a lesson.
+
+সে দিন বহুত নাহি কৈলি উৎপাত ৷  
+তেঞি ক্ষমা করি’ না করিনু প্রাণাঘাত ॥ ১৮৪ ॥
+
+se dina bahuta nāhi kaili utpāta  
+that  day  much  not  you did  mischief  
+teñi kṣamā kari’ nā karinu prāṇāghāta  
+therefore  forgiving  not  I did  taking of life
+
+(184) That day you did no great harm, so I have forgiven you and spared your life.
+
+ঐছে যদি পুনঃ কর, তবে না সহিমু ৷  
+সবংশে তোমারে আর যবন নাশিমু ॥ ১৮৫ ॥
+
+aiche yadi punaḥ kara, tabe nā sahimu  
+such  if  again  you do  then  not  I will bear  
+savaṁśe tomāre āra yavana nāśimu  
+with your whole family  you  and  the yavanas  I will destroy
+
+(185) But if you do such a thing again, I will not bear it: I will destroy you with your whole family, and the yavanas too.’
+
+এত কহি’ সিংহ গেল, আমার হৈল ভয় ৷  
+এই দেখ, নখচিহ্ন আমার হৃদয় ॥ ১৮৬ ॥
+
+eta kahi’ siṁha gela, āmāra haila bhaya  
+this  saying  the lion  went  my  was  fear  
+ei dekha, nakha-cihna āmāra hṛdaya  
+here  look  claw-marks  my  chest
+
+(186) With these words the lion went away, but I was filled with fear. Look — here are the marks of his claws on my chest!”
+
+এত বলি’ কাজী নিজ-বুক দেখাইল ৷  
+শুনি’ দেখি’ সর্ব্বলোক আশ্চর্য্য মানিল ॥ ১৮৭ ॥
+
+eta bali’ kājī nija-buka dekhāila  
+this  saying  the Kazi  his own chest  showed  
+śuni’ dekhi’ sarva-loka āścarya mānila  
+hearing  seeing  all the people  wonder  felt
+
+(187) So saying, the Kazi bared his chest, and all who heard and saw were amazed.
+
+কাজী কহে, — ইহা আমি কারে না কহিল ৷  
+সেই দিন এক আমার পিয়াদা আইল ॥ ১৮৮ ॥
+
+kājī kahe, — ihā āmi kāre nā kahila  
+the Kazi  says  this  I  to anyone  not  told  
+sei dina eka āmāra piyādā āila  
+that  day  one  my  peon  came
+
+(188) The Kazi went on: “I have told this to no one. That same day one of my peons came to me[^49]
+
+আসি’ কহে, — গেলুঁ মুঞি কীর্ত্তন নিষেধিতে ৷  
+অগ্নি উল্কা মোর মুখে লাগে আচম্বিতে ॥ ১৮৯ ॥
+
+āsi’ kahe, — gelum̐ muñi kīrtana niṣedhite  
+coming  says  went  I  kīrtana  to stop  
+agni ulkā mora mukhe lāge ācambite  
+of fire  a flame  my  on the face  struck  suddenly
+
+(189) and said, ‘I went to stop the kīrtana, and suddenly a tongue of fire struck my face.
+
+পুড়িল সকল দাড়ি, মুখে হৈল ব্রণ ৷  
+যেই পেয়াদা যায়, তার এই বিবরণ ॥ ১৯০ ॥
+
+puḍila sakala dāḍi, mukhe haila vraṇa  
+was burnt  all  beard  on the face  were  blisters  
+yei peyādā yāya, tāra ei vivaraṇa  
+whichever  peon  goes  his  this  account
+
+(190) My whole beard was burnt and my face was blistered.’ Every peon who went there told the same story.
+
+তাহা দেখি’ রহিনু মুঞি মহাভয় পাঞা ৷  
+কীর্ত্তন না বর্জ্জিয়া ঘরে রহোঁ ত’ বসিয়া ॥ ১৯১ ॥
+
+tāhā dekhi’ rahinu muñi mahā-bhaya pāñā  
+that  seeing  remained  I  great fear  getting  
+kīrtana nā varjiyā ghare rahom̐ ta’ vasiyā  
+kīrtana  not  forbidding  at home  I stay  indeed  sitting
+
+(191) Seeing all this, I was seized with great fear; now I stay at home and do not forbid the kīrtana.
+
+তবে ত’ নগরে হইবে স্বচ্ছন্দে কীর্ত্তন ৷  
+শুনি’ সব ম্লেচ্ছ আসি’ কৈল নিবেদন ॥ ১৯২ ॥
+
+tabe ta’ nagare haibe svacchande kīrtana  
+then  indeed  in the town  will be  freely  kīrtana  
+śuni’ saba mleccha āsi’ kaila nivedana  
+hearing  all  the mlecchas  coming  made  complaint
+
+(192) So kīrtana would now go on freely in the town. Hearing of it, all the Muslims came to me with a complaint:[^50]
+
+নগরে হিন্দুর ধর্ম্ম বাড়িল অপার ৷  
+‘হরি’ ‘হরি’ ধ্বনি বই নাহি শুনি আর ॥ ১৯৩ ॥
+
+nagare hindura dharma bāḍila apāra  
+in the town  of the Hindus  religion  has grown  boundlessly  
+‘hari’ ‘hari’ dhvani bai nāhi śuni āra  
+Hari  Hari  the sound  except  not  we hear  anything else
+
+(193) ‘The Hindu religion has grown beyond all bounds in the town; we hear nothing but “Hari! Hari!”’
+
+আর ম্লেচ্ছ কহে, — হিন্দু ‘কৃষ্ণ’ ‘কৃষ্ণ’ বলি’ ৷  
+হাসে, কান্দে, নাচে, গায়, গড়ি’ যায় ধূলি ॥ ১৯৪ ॥
+
+āra mleccha kahe, — hindu ‘kṛṣṇa’ ‘kṛṣṇa’ bali’  
+another  mleccha  says  the Hindus  Kṛṣṇa  Kṛṣṇa  saying  
+hāse, kānde, nāce, gāya, gaḍi’ yāya dhūli  
+laugh  weep  dance  sing  rolling  go  in the dust
+
+(194) Another said, ‘The Hindus cry “Kṛṣṇa! Kṛṣṇa!”; they laugh and weep, dance and sing, and roll in the dust.
+
+‘হরি’ ‘হরি’ করি’ হিন্দু করে কোলাহল ৷  
+পাতসাহ শুনিলে তোমার করিবেক ফল ॥ ১৯৫ ॥
+
+‘hari’ ‘hari’ kari’ hindu kare kolāhala  
+Hari  Hari  making  the Hindus  make  an uproar  
+pātasāha śunile tomāra karibeka phala  
+the Pādśāh  if he hears  your  will make  the consequence
+
+(195) They raise an uproar with “Hari! Hari!” If the Pādśāh hears of it, you will pay for it.’[^51]
+
+তবে সেই যবনেরে আমি ত’ পুছিল ৷  
+হিন্দু ‘হরি’ বলে, তার স্বভাব জানিল ॥ ১৯৬ ॥
+
+tabe sei yavanere āmi ta’ puchila  
+then  those  yavanas  I  indeed  asked  
+hindu ‘hari’ bale, tāra svabhāva jānila  
+the Hindu  Hari  says  his  nature  I know
+
+(196) Then I asked those Muslims, ‘That the Hindus say “Hari” is their nature — that I understand.
+
+তুমি ত’ যবন হঞা কেনে অনুক্ষণ ৷  
+হিন্দুর দেবতার নাম লহ কি কারণ ॥ ১৯৭ ॥
+
+tumi ta’ yavana hañā kene anukṣaṇa  
+you  indeed  a yavana  being  why  constantly  
+hindura devatāra nāma laha ki kāraṇa  
+of the Hindus’  God  the name  you take  what  reason
+
+(197) But you are Muslims: why do you take the name of the Hindus’ God all the time?’
+
+ম্লেচ্ছ কহে, — হিন্দুরে আমি করি পরিহাস ৷  
+কেহ কেহ — কৃষ্ণদাস, কেহ — রামদাস ॥ ১৯৮ ॥
+
+mleccha kahe, — hindure āmi kari parihāsa  
+the mleccha  says  at the Hindus  I  make  mockery  
+keha keha — kṛṣṇadāsa, keha — rāmadāsa  
+some  some  Kṛṣṇadāsa  some  Rāmadāsa
+
+(198) One of them said, ‘I make fun of the Hindus. Some of them are Kṛṣṇadāsa, some Rāmadāsa,
+
+কেহ — হরিদাস, সদা বলে ‘হরি’ ‘হরি’ ৷  
+জানি কার ঘরে ধন করিবেক চুরি ॥ ১৯৯ ॥
+
+keha — haridāsa, sadā bale ‘hari’ ‘hari’  
+some  Haridāsa  always  say  Hari  Hari  
+jāni kāra ghare dhana karibeka curi  
+I think  someone’s  in the house  wealth  they will  steal
+
+(199) some Haridāsa, and they are forever saying “Hari! Hari!” — I suppose they mean to steal someone’s wealth.[^52]
+
+সেই হৈতে জিহ্বা মোর বলে ‘হরি’ ‘হরি’ ৷  
+ইচ্ছা নাহি, তবু বলে, — কি উপায় করি ॥ ২০০ ॥
+
+sei haite jihvā mora bale ‘hari’ ‘hari’  
+from then  tongue  my  says  Hari  Hari  
+icchā nāhi, tabu bale, — ki upāya kari  
+desire  not  still  says  what  remedy  shall I make
+
+(200) Ever since then my tongue keeps saying “Hari! Hari!” I do not want it to, yet it says it — what can I do?’
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -1841,3 +2118,13 @@ truly  you shall speak  by trickery  not  shall deceive  Me
 [^46]: *Anubhāṣya*: “invented” — born of the mind, and therefore not eternal truth; “community” (*jāti*) — belonging to one’s own community and loyalty to it.
 
 [^47]: *Anubhāṣya*: unsound reasoning — such as can easily be refuted by argument.
+
+[^48]: *Anubhāṣya*: the man’s body with a lion’s face is Śrī Nṛsiṁhadeva, who destroys enmity towards the devotees, towards bhakti and towards the Lord — and those who bear it. The edition’s heading: “Terror from Nṛsiṁhadeva in a dream”.
+
+[^49]: *Anubhāṣya*: *piyādā* — a servant of the lowest rank, a messenger; in common speech, a *chaprasi*.
+
+[^50]: *Anubhāṣya* gives the definition: “One who eats beef, says much that is contrary to the Vedas and is devoid of all good conduct is called a *mleccha*.”
+
+[^51]: *Amṛta-pravāha-bhāṣya*: though the Pādśāh is your kinsman, he can still punish you; the Pādśāh is Husain Shah, the ruler of Gauḍa. *Anubhāṣya*: Ala-ud-din Saiyad Husain Shah, at that time the independent ruler of Bengal.
+
+[^52]: *Amṛta-pravāha-bhāṣya*: the Muslim mocked them thus: “Some of you are Kṛṣṇadāsas, some Rāmadāsas and Haridāsas, and you keep saying ‘Hari! Hari!’ — but *hari* also means ‘I steal’, so you must be planning to rob someone.” From the day he made this jest, his tongue has been saying “Hari! Hari!” against his will.
