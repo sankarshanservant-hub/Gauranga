@@ -2926,6 +2926,316 @@ that  four-armed  form  wishes  to keep
 
 (290) Seeing Rādhā, Kṛṣṇa wanted to keep that four-armed form, to play a jest on Her.
 
+লুকাইলা দুই ভুজ রাধার অগ্রেতে ৷  
+বহু যত্ন কৈলা কৃষ্ণ, নারিল রাখিতে ॥ ২৯১ ॥
+
+lukāilā dui bhuja rādhāra agrete  
+hid  two  arms  of Rādhā  before  
+bahu yatna kailā kṛṣṇa, nārila rākhite  
+much  effort  made  Kṛṣṇa  could not  keep
+
+(291) But before Rādhā two of His arms vanished; try as He might, Kṛṣṇa could not keep them.
+
+রাধার বিশুদ্ধ-ভাবের অচিন্ত্য প্রভাব ৷  
+যে কৃষ্ণেরে করাইলা দ্বিভুজ স্বভাব ॥ ২৯২ ॥
+
+rādhāra viśuddha-bhāvera acintya prabhāva  
+of Rādhā’s  pure love  inconceivable  power  
+ye kṛṣṇere karāilā dvi-bhuja svabhāva  
+which  Kṛṣṇa  made  two-armed  His own nature
+
+(292) Such is the inconceivable power of Rādhā’s pure love, which brought Kṛṣṇa back to His own two-armed nature.
+
+রাসারম্ভবিধৌ নিলীয়বসতা কুঞ্জে মৃগাক্ষিগণৈ-  
+র্দৃষ্টং গোপয়িতুং স্বমুদ্ধুরধিয়া যা সুষ্ঠু সন্দর্শিতা ৷  
+রাধায়াঃ প্রণয়স্য হন্ত মহিমা যস্য শ্রিয়া রক্ষিতুং  
+সা শক্যা প্রভবিষ্ণুনাপি হরিণা নাসীচ্চতুর্ব্বাহুতা ॥ ২৯৩ ॥
+
+rāsārambha-vidhau nilīya vasatā kuñje mṛgākṣi-gaṇair  
+at the start of the rāsa  hiding  staying  in a bower  by the doe-eyed ones  
+dṛṣṭaṁ gopayituṁ svam uddhura-dhiyā yā suṣṭhu sandarśitā  
+seen  to conceal  Himself  with a bold mind  which  skilfully  was shown  
+rādhāyāḥ praṇayasya hanta mahimā yasya śriyā rakṣituṁ  
+of Rādhā  of the love  ah  the greatness  of which  by the splendour  to keep  
+sā śakyā prabhaviṣṇunāpi hariṇā nāsīc catur-bāhutā  
+it  possible  by the all-powerful even  by Hari  not was  four-armedness
+
+(293) “At the start of the rāsa dance Kṛṣṇa hid in a bower, but the doe-eyed gopīs saw Him; to conceal Himself, He cleverly showed them a four-armed form. Yet before the splendour of Rādhā’s love even the all-powerful Hari could not keep that four-armed form. Ah, such is the greatness of Rādhā’s love!” (Ujjvala-nīlamaṇi)[^75]
+
+সেই ব্রজেশ্বর — ইঁহ জগন্নাথ পিতা ৷  
+সেই ব্রজেশ্বরী — ইঁহ শচীদেবী মাতা ॥ ২৯৪ ॥
+
+sei vrajeśvara — im̐ha jagannātha pitā  
+that  king of Vraja  here  Jagannātha  father  
+sei vrajeśvarī — im̐ha śacīdevī mātā  
+that  queen of Vraja  here  Śacīdevī  mother
+
+(294) He who was the king of Vraja is here Jagannātha, the father; she who was the queen of Vraja is here Śacīdevī, the mother.
+
+সেই নন্দসুত — ইঁহ চৈতন্য-গোসাঞি ৷  
+সেই বলদেব — ইঁহ নিত্যানন্দ-ভাই ॥ ২৯৫ ॥
+
+sei nanda-suta — im̐ha caitanya-gosāñi  
+that  son of Nanda  here  Caitanya Gosāñi  
+sei baladeva — im̐ha nityānanda-bhāi  
+that  Baladeva  here  Nityānanda  the brother
+
+(295) He who was Nanda’s son is here Caitanya Gosāñi; He who was Baladeva is here Nityānanda, His brother.
+
+বাৎসল্য, দাস্য, সখ্য — তিন ভাবময় ৷  
+সেই নিত্যানন্দ — কৃষ্ণচৈতন্য-সহায় ॥ ২৯৬ ॥
+
+vātsalya, dāsya, sakhya — tina bhāvamaya  
+parental love  servitude  friendship  three  moods  full of  
+sei nityānanda — kṛṣṇa-caitanya-sahāya  
+that  Nityānanda  Kṛṣṇa Caitanya’s  helper
+
+(296) Full of three moods — parental love, servitude and friendship — that Nityānanda is the helper of Kṛṣṇa Caitanya.[^76]
+
+প্রেম ভক্তি দিয়া তেঁহো ভাসাল জগতে ৷  
+তাঁর চরিত্র-চিত্র লোকে না পারে বুঝিতে ॥ ২৯৭ ॥
+
+prema bhakti diyā tem̐ho bhāsāla jagate  
+love  devotion  giving  He  flooded  the world  
+tām̐ra caritra-citra loke nā pāre bujhite  
+His  wondrous character  people  not  can  understand
+
+(297) Giving prema-bhakti, He flooded the world; people cannot understand His wondrous ways.
+
+অদ্বৈত-আচার্য্য-গোসাঞি ভক্ত-অবতার ৷  
+কৃষ্ণ অবতারিয়া কৈলা ভক্তির প্রচার ॥ ২৯৮ ॥
+
+advaita-ācārya-gosāñi bhakta-avatāra  
+Advaita Ācārya Gosāñi  incarnation as a devotee  
+kṛṣṇa avatāriyā kailā bhaktira pracāra  
+Kṛṣṇa  bringing down  made  of devotion  the preaching
+
+(298) Advaita Ācārya Gosāñi is the incarnation as a devotee (*bhakta-avatāra*); He brought Kṛṣṇa down and preached devotion.[^77]
+
+সখ্য, দাস্য, — দুই ভাব সহজ তাঁহার ৷  
+কভু প্রভু করেন তাঁরে গুরু-ব্যবহার ॥ ২৯৯ ॥
+
+sakhya, dāsya, — dui bhāva sahaja tām̐hāra  
+friendship  servitude  two  moods  natural  His  
+kabhu prabhu karena tām̐re guru-vyavahāra  
+sometimes  the Lord  makes  toward Him  guru-like  dealing
+
+(299) Friendship and servitude are His two natural moods, and at times the Lord treats Him as His guru.
+
+শ্রীবাসাদি যত মহাপ্রভুর ভক্তগণ ৷  
+নিজ নিজ ভাবে করেন চৈতন্য-সেবন ॥ ৩০০ ॥
+
+śrīvāsādi yata mahāprabhura bhakta-gaṇa  
+Śrīvāsa and others  all  of Mahāprabhu  the devotees  
+nija nija bhāve karena caitanya-sevana  
+in their own  own  mood  make  Caitanya’s  service
+
+(300) Śrīvāsa and all the other devotees of Mahāprabhu serve Caitanya, each in his own mood.
+
+পণ্ডিত গোসাঞি আদি যাঁর যেই রস ৷  
+সেই সেই রসে প্রভু হন তাঁর বশ ॥ ৩০১ ॥
+
+paṇḍita gosāñi ādi yām̐ra yei rasa  
+Paṇḍita Gosāñi  and others  whose  whatever  rasa  
+sei sei rase prabhu hana tām̐ra vaśa  
+in that  that  rasa  the Lord  is  their  in the power of
+
+(301) Paṇḍita Gosāñi and the others — whatever each one’s rasa, in that very rasa the Lord comes under his control.[^78]
+
+তিঁহ শ্যাম, — বংশীমুখ, গোপবিলাসী ৷  
+ইঁহ গৌর — কভু দ্বিজ, কভু ত’ সন্ন্যাসী ॥ ৩০২ ॥
+
+tim̐ha śyāma, — vaṁśī-mukha, gopa-vilāsī  
+He  Śyāma  flute at the mouth  sporting as a cowherd  
+im̐ha gaura — kabhu dvija, kabhu ta’ sannyāsī  
+here  Gaura  sometimes  a brāhmaṇa  sometimes  indeed  a sannyāsī
+
+(302) There He is Śyāma, the flute at His lips, sporting as a cowherd boy; here He is Gaura — at times a brāhmaṇa, at times a sannyāsī.
+
+অতএব আপনে প্রভু গোপীভাব ধরি’ ৷  
+ব্রজেন্দ্রনন্দনে কহে ‘প্রাণনাথ’ করি’ ॥ ৩০৩ ॥
+
+ataeva āpane prabhu gopī-bhāva dhari’  
+therefore  Himself  the Lord  the gopīs’ mood  taking  
+vrajendra-nandane kahe ‘prāṇa-nātha’ kari’  
+the son of Vraja’s king  calls  Lord of life  making
+
+(303) Therefore the Lord Himself, taking on the mood of the gopīs, calls the son of Vraja’s king “Lord of My life”.[^79]
+
+সেই কৃষ্ণ, সেই গোপী, — পরম বিরোধ ৷  
+অচিন্ত্য চরিত্র প্রভুর অতি সুদুর্ব্বোধ ॥ ৩০৪ ॥
+
+sei kṛṣṇa, sei gopī, — parama virodha  
+that  Kṛṣṇa  that  gopī  supreme  contradiction  
+acintya caritra prabhura ati sudurbodha  
+inconceivable  the character  of the Lord  very  hard to understand
+
+(304) He is Kṛṣṇa, and He is a gopī — a supreme contradiction! The Lord’s inconceivable ways are very hard to understand.[^80]
+
+ইথে তর্ক করি’ কেহ না কর সংশয় ৷  
+কৃষ্ণের অচিন্ত্য শক্তি এই মত হয় ॥ ৩০৫ ॥
+
+ithe tarka kari’ keha nā kara saṁśaya  
+in this  argument  making  anyone  not  make  doubt  
+kṛṣṇera acintya śakti ei mata haya  
+Kṛṣṇa’s  inconceivable  potency  this  way  is
+
+(305) Let no one raise doubts about this by argument: such is Kṛṣṇa’s inconceivable potency.
+
+অচিন্ত্য, অদ্ভুত কৃষ্ণচৈতন্য-বিহার ৷  
+চিত্র ভাব, চিত্র গুণ, চিত্র ব্যবহার ॥ ৩০৬ ॥
+
+acintya, adbhuta kṛṣṇa-caitanya-vihāra  
+inconceivable  wondrous  Kṛṣṇa Caitanya’s  pastimes  
+citra bhāva, citra guṇa, citra vyavahāra  
+wondrous  moods  wondrous  qualities  wondrous  conduct
+
+(306) Inconceivable and wondrous are the pastimes of Kṛṣṇa Caitanya — wondrous His moods, wondrous His qualities, wondrous His ways.
+
+তর্কে ইহা নাহি মানে যেই দুরাচার ৷  
+কুম্ভীপাকে পচে সেই, নাহিক নিস্তার ॥ ৩০৭ ॥
+
+tarke ihā nāhi māne yei durācāra  
+by argument  this  not  accepts  who  the wicked man  
+kumbhīpāke pace sei, nāhika nistāra  
+in Kumbhīpāka  rots  he  there is not  deliverance
+
+(307) The wicked man who rejects this by argument rots in Kumbhīpāka, with no way out.[^81]
+
+অচিন্ত্যাঃ খলু যে ভাবা ন তাংস্তর্কেণ যোজয়েৎ ৷  
+প্রকৃতিভ্যঃ পরং যচ্চ তদচিন্ত্যস্য লক্ষণম্ ॥ ৩০৮ ॥
+
+acintyāḥ khalu ye bhāvā  
+inconceivable  indeed  which  states  
+na tāṁs tarkeṇa yojayet  
+not  them  by argument  one should test  
+prakṛtibhyaḥ paraṁ yac ca  
+material nature  beyond  what  and  
+tad acintyasya lakṣaṇam  
+that  of the inconceivable  the mark
+
+(308) “What is inconceivable should not be put to the test of argument. And what lies beyond material nature — that is the mark of the inconceivable.” (Bhakti-rasāmṛta-sindhu, 2.5.93)[^82]
+
+অদ্ভুত চৈতন্যলীলায় যাহার বিশ্বাস ৷  
+সেই জন যায় চৈতন্যের পদ-পাশ ॥ ৩০৯ ॥
+
+adbhuta caitanya-līlāya yāhāra viśvāsa  
+wondrous  in Caitanya’s pastimes  whose  faith  
+sei jana yāya caitanyera pada-pāśa  
+that  person  goes  Caitanya’s  feet  near
+
+(309) Whoever has faith in Caitanya’s wondrous pastimes comes to the feet of Caitanya.
+
+প্রসঙ্গে কহিল এই সিদ্ধান্তের সার ৷  
+ইহা যেই শুনে, শুদ্ধভক্তি হয় তার ॥ ৩১০ ॥
+
+prasaṅge kahila ei siddhāntera sāra  
+in the course  I have told  this  of the conclusion  the essence  
+ihā yei śune, śuddha-bhakti haya tāra  
+this  whoever  hears  pure devotion  is  his
+
+(310) In the course of the story I have told the essence of this conclusion; whoever hears it attains pure devotion.
+
+লিখিত গ্রন্থের যদি করি অনুবাদ ৷  
+তবে সে গ্রন্থের অর্থ পাইবে আস্বাদ ॥ ৩১১ ॥
+
+likhita granthera yadi kari anuvāda  
+written  of the book  if  I make  restatement  
+tabe se granthera artha pāibe āsvāda  
+then  that  of the book  the meaning  will get  taste
+
+(311) If I restate what has been written in the book, then the reader will taste its meaning.
+
+অতএব ভাগবতে ব্যাসের আচার ৷  
+কথা কহি’ অনুবাদ করে বার বার ॥ ৩১২ ॥
+
+ataeva bhāgavate vyāsera ācāra  
+therefore  in the Bhāgavata  Vyāsa’s  practice  
+kathā kahi’ anuvāda kare vāra vāra  
+the story  telling  restatement  makes  again and again
+
+(312) So it is Vyāsa’s way in the Bhāgavatam: as he tells the story, he restates it again and again.[^83]
+
+তাতে আদি-লীলার করি পরিচ্ছেদ গণন ৷  
+প্রথম পরিচ্ছেদে কৈল ‘মঙ্গলাচরণ’ ॥ ৩১৩ ॥
+
+tāte ādi-līlāra kari pariccheda gaṇana  
+therefore  of the Ādi-līlā  I make  of the chapters  counting  
+prathama paricchede kaila ‘maṅgalācaraṇa’  
+in the first  chapter  I made  the auspicious invocation
+
+(313) So now I shall count the chapters of the Ādi-līlā. In the first chapter I made the “auspicious invocation”;
+
+দ্বিতীয় পরিচ্ছেদে ‘চৈতন্যতত্ত্ব-নিরূপণ’ ৷  
+স্বয়ং ভগবান্ যেই ব্রজেন্দ্রনন্দন ॥ ৩১৪ ॥
+
+dvitīya paricchede ‘caitanya-tattva-nirūpaṇa’  
+in the second  chapter  determining the truth of Caitanya  
+svayaṁ bhagavān yei vrajendra-nandana  
+Svayam Bhagavān  who  the son of Vraja’s king
+
+(314) the second chapter is the “determining of the truth of Caitanya”: He who is Svayam Bhagavān, the son of Vraja’s king,
+
+তিঁহ ত’ চৈতন্য-কৃষ্ণ — শচীর নন্দন ৷  
+তৃতীয় পরিচ্ছেদে জন্মের ‘সামান্য’ কারণ ॥ ৩১৫ ॥
+
+tim̐ha ta’ caitanya-kṛṣṇa — śacīra nandana  
+He  indeed  Caitanya-Kṛṣṇa  of Śacī  the son  
+tṛtīya paricchede janmera ‘sāmānya’ kāraṇa  
+in the third  chapter  of the birth  the general  cause
+
+(315) is Caitanya-Kṛṣṇa, the son of Śacī. The third chapter gives the “general” cause of His birth,
+
+তহিঁ মধ্যে প্রেমদান — ‘বিশেষ’ কারণ ৷  
+যুগধর্ম্ম — কৃষ্ণনাম-প্রেম-প্রচারণ ॥ ৩১৬ ॥
+
+tahim̐ madhye prema-dāna — ‘viśeṣa’ kāraṇa  
+of it  within  the gift of prema  the special  cause  
+yuga-dharma — kṛṣṇa-nāma-prema-pracāraṇa  
+the religion of the age  the preaching of Kṛṣṇa’s name and of prema
+
+(316) and within it the “special” cause, the gift of prema; the religion of the age is the preaching of Kṛṣṇa’s name and of prema.
+
+চতুর্থে কহিল জন্মের ‘মূল’ কারণ ৷  
+স্বমাধুর্য্য-প্রেমানন্দরস-আস্বাদন ॥ ৩১৭ ॥
+
+caturthe kahila janmera ‘mūla’ kāraṇa  
+in the fourth  I told  of the birth  the root  cause  
+sva-mādhurya-premānanda-rasa-āsvādana  
+the tasting of the rasa of the bliss of love for His own sweetness
+
+(317) In the fourth I told the “root” cause of His birth: to taste the rasa of the bliss of love for His own sweetness.
+
+পঞ্চমে ‘শ্রীনিত্যানন্দ’-তত্ত্ব নিরূপণ ৷  
+নিত্যানন্দ হৈলা রাম রোহিণীনন্দন ॥ ৩১৮ ॥
+
+pañcame ‘śrī-nityānanda’-tattva nirūpaṇa  
+in the fifth  of Śrī Nityānanda  the truth  determining  
+nityānanda hailā rāma rohiṇī-nandana  
+Nityānanda  was  Rāma  Rohiṇī’s son
+
+(318) The fifth determines the truth of Śrī Nityānanda: Nityānanda was Rāma, the son of Rohiṇī.
+
+ষষ্ঠ পরিচ্ছেদে ‘অদ্বৈত-তত্ত্বে’র বিচার ৷  
+অদ্বৈত-আচার্য্য — মহাবিষ্ণু-অবতার ॥ ৩১৯ ॥
+
+ṣaṣṭha paricchede ‘advaita-tattve’ra vicāra  
+in the sixth  chapter  of the truth of Advaita  the consideration  
+advaita-ācārya — mahā-viṣṇu-avatāra  
+Advaita Ācārya  of Mahā-Viṣṇu  the avatāra
+
+(319) The sixth chapter considers the truth of Advaita: Advaita Ācārya is the avatāra of Mahā-Viṣṇu.
+
+সপ্তম পরিচ্ছেদে ‘পঞ্চতত্ত্বে’র আখ্যান ৷  
+পঞ্চতত্ত্ব মিলি’ যৈছে কৈল প্রেমদান ॥ ৩২০ ॥
+
+saptama paricchede ‘pañca-tattve’ra ākhyāna  
+in the seventh  chapter  of the Pañca-tattva  the account  
+pañca-tattva mili’ yaiche kaila prema-dāna  
+the Pañca-tattva  joining  how  made  the gift of prema
+
+(320) The seventh chapter gives the account of the Pañca-tattva — how the five truths together gave away prema.
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -3075,3 +3385,21 @@ that  four-armed  form  wishes  to keep
 [^73]: *Anubhāṣya* on 276–278: Śrī Gaurasundara is Kṛṣṇa clothed in the mood and the radiance of Śrī Rādhā. Therefore He never abandoned the heart’s mood of the gopīs headed by Rādhikā, who serve Kṛṣṇa (*āśraya*), to act like Kṛṣṇa the enjoyer (*viṣaya*): never did He show the ways of a *nāgara* who seeks other men’s wives. The *prākṛta-sahajiyās*, who lay their own lust on Gaurasundara, only offend Svarūpa Dāmodara and Vṛndāvana dāsa Ṭhākura. The *Caitanya-bhāgavata* (Ādi 15) says that in this avatāra the Lord would not even hear the word “woman”, and that is why the great devotees never praise Him as “Gaurāṅga-nāgara”. Thus these verses refute the invented doctrine of *gaura-nāgarī*.
 
 [^74]: *Amṛta-pravāha-bhāṣya*: once Kṛṣṇa playfully revealed the wondrous four-armed form of Nārāyaṇa, and the gopīs’ love withdrew; what wise man can understand the moods of the gopīs, who walk the hard path of *parakīya* and serve the son of Nanda alone? *Anubhāṣya*: these are the words of Viśākhā to Savarṇā, the wife of Sūrya; *jiṣṇubhiḥ* — “victorious”; *kuñcati* — “does not blossom”.
+
+[^75]: *Amṛta-pravāha-bhāṣya*: at the start of the rāsa Kṛṣṇa playfully hid in a bower; seeing the gopīs approach, He anxiously showed His charming four-armed form, and the ordinary gopīs said, “This is not Kṛṣṇa, our beloved.” But how wonderful is the greatness of Rādhā’s love: the moment She came, Kṛṣṇa, try as He might, could not keep that form. *Anubhāṣya*: this took place in spring by Govardhana, at the site of the rāsa called Parāsaulī; the gopīs had surrounded the bower, and there was no slipping away unseen. Though the Lord is subject to love, one cannot say that His majesty vanishes before love: it is eternal — it is only concealed. The edition’s heading gives *Ujjvala-nīlamaṇi*, seventh *aṅka*, words of Śrī Rūpa Gosvāmī.
+
+[^76]: *Anubhāṣya* on 296–301: these verses show how varied are the wondrous moods of service to Gaura in Nityānanda, Advaita and the others. It quotes the *Gaura-gaṇoddeśa-dīpikā* (11–16): Gauracandra is the son of Nanda in the form of a devotee; Nityānanda is Halāyudha (Balarāma) in the guise of a devotee; Advaita is Sadāśiva, the incarnation as a devotee; Śrīvāsa and the others are devotees; Gadādhara is the devotee-potency (cf. Ādi 7.6).
+
+[^77]: “Bringing Kṛṣṇa down”: by His call Advaita brought Kṛṣṇa into this world (cf. Ādi 3).
+
+[^78]: Paṇḍita Gosāñi is Gadādhara Paṇḍita. The edition’s heading: “The *śaktis* — Gadādhara, Svarūpa, Rāmānanda, Śrī Rūpa and others — serve Gaura-Kṛṣṇa in *madhura-rasa*.”
+
+[^79]: *Anubhāṣya* on 303–304: see 17.276–278.
+
+[^80]: The edition’s heading: “Without following the *rūpānugas* one cannot fathom Gaura’s rasa of separation (*vipralambha*).”
+
+[^81]: *Anubhāṣya*: Kumbhīpāka is a hell where sinners are cooked in a pot (*kumbhī*); there goes one who cooks animals and birds alive (Bhāg. 5.26.13). The edition’s heading: “The fate of the arguer — ‘the doubter perishes’” (Bhagavad-gītā, 4.40).
+
+[^82]: *Amṛta-pravāha-bhāṣya*: the mark of the inconceivable is that it lies beyond material nature; argument is material and cannot touch that truth, and so it is not to be applied to what is inconceivable. *Anubhāṣya*: in the *Mahābhārata* this is Sañjaya’s reply to Dhṛtarāṣṭra, who wished to hear of the rivers, mountains and forests of the earth; “inconceivable” means beyond the reach of the worldly, pleasure-seeking mind.
+
+[^83]: *Anubhāṣya*: in the twelfth chapter of the last, twelfth canto of the *Śrīmad-Bhāgavatam*, Vyāsa sums up the whole book from beginning to end in 52 verses; following the path of this *mahājana*, the author likewise recapitulates the Ādi-līlā.
