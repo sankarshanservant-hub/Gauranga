@@ -2023,6 +2023,303 @@ desire  not  still  says  what  remedy  shall I make
 
 (200) Ever since then my tongue keeps saying “Hari! Hari!” I do not want it to, yet it says it — what can I do?’
 
+আর ম্লেচ্ছ কহে, — শুন — আমি ত’ এইমতে ৷  
+হিন্দুকে পরিহাস কৈনু সে দিন হইতে ॥ ২০১ ॥
+
+জিহ্বা কৃষ্ণনাম করে, না মানে বর্জ্জন ৷  
+না জানি কি মন্ত্রৌষধি জানে হিন্দুগণ ॥ ২০২ ॥
+
+āra mleccha kahe, — śuna — āmi ta’ ei-mate  
+another  mleccha  says  listen  I  too  in this way  
+hinduke parihāsa kainu se dina haite  
+the Hindus  mockery  made  that  day  since  
+jihvā kṛṣṇa-nāma kare, nā māne varjana  
+tongue  Kṛṣṇa’s name  makes  not  heeds  restraint  
+nā jāni ki mantrauṣadhi jāne hindu-gaṇa  
+not  I know  what  spells and herbs  know  the Hindus
+
+(201–202) Another said, ‘Listen — I too mocked the Hindus in this way, and since that day my tongue repeats the name of Kṛṣṇa and will not be stopped. I do not know what spells and herbs these Hindus know!’[^53]
+
+এত শুনি’ তা’-সবারে ঘরে পাঠাইল ৷  
+হেনকালে পাষণ্ডী হিন্দু পাঁচ-সাত আইল ॥ ২০৩ ॥
+
+eta śuni’ tā’-sabāre ghare pāṭhāila  
+this  hearing  them  all  home  I sent  
+hena-kāle pāṣaṇḍī hindu pām̐ca-sāta āila  
+just then  unbelieving  Hindus  five or seven  came
+
+(203) When I had heard this, I sent them all home. Just then five or seven Hindu unbelievers came to me.[^54]
+
+আসি’ কহে, — হিন্দুর ধর্ম্ম ভাঙ্গিল নিমাঞি ৷  
+যে কীর্ত্তন প্রবর্ত্তাইল, কভু শুনি নাই ॥ ২০৪ ॥
+
+āsi’ kahe, — hindura dharma bhāṅgila nimāñi  
+coming  they say  of the Hindus  religion  has broken  Nimāi  
+ye kīrtana pravartāila, kabhu śuni nāi  
+which  kīrtana  He has started  ever  we heard  not
+
+(204) They said, ‘Nimāi has broken the Hindu religion. He has started a kīrtana the like of which we never heard.
+
+মঙ্গলচণ্ডী, বিষহরি করি জাগরণ ৷  
+তা’তে নৃত্য, গীত, বাদ্য, — যোগ্য আচরণ ॥ ২০৫ ॥
+
+maṅgalacaṇḍī, viṣahari kari jāgaraṇa  
+Maṅgala-caṇḍī  Viṣahari  doing  night vigil  
+tā’te nṛtya, gīta, vādya, — yogya ācaraṇa  
+then  dancing  singing  instruments  proper  conduct
+
+(205) When we keep the night vigil for Maṅgala-caṇḍī or Viṣahari, then dancing, singing and music are proper.
+
+পূর্ব্বে ভাল ছিল এই নিমাঞি পণ্ডিত ৷  
+গয়া হৈতে আসিয়া চালায় বিপরীত ॥ ২০৬ ॥
+
+pūrve bhāla chila ei nimāñi paṇḍita  
+before  good  was  this  Nimāi  Paṇḍita  
+gayā haite āsiyā cālāya viparīta  
+Gayā  from  coming back  behaves  contrary
+
+(206) This Nimāi Paṇḍita used to be a good young man, but since He came back from Gayā He does everything the wrong way.
+
+উচ্চ করি’ গায় গীত, দেয় করতালি ৷  
+মৃদঙ্গ-করতাল-শব্দে কর্ণে লাগে তালি ॥ ২০৭ ॥
+
+ucca kari’ gāya gīta, deya karatāli  
+loudly  making  sings  songs  gives  clapping  
+mṛdaṅga-karatāla-śabde karṇe lāge tāli  
+mṛdaṅga  karatāla  by the sound  in the ears  strikes  deafening
+
+(207) He sings at the top of His voice and claps His hands, and the sound of mṛdaṅgas and karatālas deafens our ears.
+
+না জানি, কি খাঞা মত্ত হঞা নাচে, গায় ৷  
+হাসে, কান্দে, পড়ে, উঠে, গড়াগড়ি যায় ॥ ২০৮ ॥
+
+nā jāni, ki khāñā matta hañā nāce, gāya  
+not  we know  what  having eaten  mad  becoming  dances  sings  
+hāse, kānde, paḍe, uṭhe, gaḍāgaḍi yāya  
+laughs  weeps  falls  rises  rolling  goes
+
+(208) Who knows what He has eaten to go mad like this? He dances and sings, laughs and weeps, falls down, gets up and rolls on the ground.
+
+নগরিয়া পাগল কৈল সদা সংকীর্ত্তন ৷  
+রাত্রে নিদ্রা নাহি যাই, করি জাগরণ ॥ ২০৯ ॥
+
+nagariyā pāgala kaila sadā saṁkīrtana  
+the townspeople  mad  has made  constant  saṅkīrtana  
+rātre nidrā nāhi yāi, kari jāgaraṇa  
+at night  sleep  not  we get  we keep  vigil
+
+(209) His constant saṅkīrtana has driven the townspeople mad. At night we cannot sleep; we lie awake.
+
+‘নিমাঞি’ নাম ছাড়ি’ এবে বোলায় ‘গৌরহরি’ ৷  
+হিন্দুর ধর্ম্ম নষ্ট কৈল পাষণ্ড সঞ্চারি’ ॥ ২১০ ॥
+
+‘nimāñi’ nāma chāḍi’ ebe bolāya ‘gaurahari’  
+Nimāi  name  giving up  now  has Himself called  Gaurahari  
+hindura dharma naṣṭa kaila pāṣaṇḍa sañcāri’  
+of the Hindus  religion  ruined  made  heresy  spreading
+
+(210) He has given up the name Nimāi and now has Himself called Gaurahari. He has ruined the Hindu religion by spreading heresy.
+
+কৃষ্ণের কীর্ত্তন করে নীচ বাড় বাড় ৷  
+এই পাপে নবদ্বীপ হইবে উজাড় ॥ ২১১ ॥
+
+kṛṣṇera kīrtana kare nīca bāḍa bāḍa  
+Kṛṣṇa’s  kīrtana  do  the low  grow  and grow  
+ei pāpe navadvīpa haibe ujāḍa  
+by this  sin  Navadvīpa  will become  desolate
+
+(211) The low-born chant Kṛṣṇa’s name and rise higher and higher. For this sin Navadvīpa will be laid waste.[^55]
+
+হিন্দুশাস্ত্রে ‘ঈশ্বর’ নাম — মহামন্ত্র জানি ৷  
+সর্ব্বলোক শুনিলে মন্ত্রের বীর্য্য হয় হানি ॥ ২১২ ॥
+
+hindu-śāstre ‘īśvara’ nāma — mahā-mantra jāni  
+in the Hindu scriptures  Īśvara  name  great mantra  we know  
+sarva-loka śunile mantrera vīrya haya hāni  
+all people  if they hear  of the mantra  potency  becomes  lost
+
+(212) In the Hindu scriptures, we know, the name of Īśvara is a great mantra; if everyone hears it, the mantra loses its power.[^56]
+
+গ্রামের ঠাকুর তুমি, সব তোমার জন ৷  
+নিমাই বোলাইয়া তারে করহ বর্জ্জন ॥ ২১৩ ॥
+
+grāmera ṭhākura tumi, saba tomāra jana  
+of the village  lord  you  all  your  people  
+nimāi bolāiyā tāre karaha varjana  
+Nimāi  having summoned  Him  make  banishment
+
+(213) You are the lord of this place, and all its people are yours. Summon Nimāi and drive Him out.’
+
+তবে আমি প্রীতিবাক্য কহিল সবারে ৷  
+সবে ঘরে যাহ, আমি নিষেধিব তারে ॥ ২১৪ ॥
+
+tabe āmi prīti-vākya kahila sabāre  
+then  I  kind words  spoke  to all  
+sabe ghare yāha, āmi niṣedhiba tāre  
+all  home  go  I  will forbid  Him
+
+(214) Then I spoke kindly to them all: ‘Go home, all of you. I will stop Him.’
+
+হিন্দুর ঈশ্বর বড় সেই নারায়ণ ৷  
+সেই তুমি হও, — হেন লয় মোর মন ॥ ২১৫ ॥
+
+hindura īśvara baḍa sei nārāyaṇa  
+of the Hindus  God  great  that  Nārāyaṇa  
+sei tumi hao, — hena laya mora mana  
+He  You  are  so  takes  my  mind
+
+(215) The great God of the Hindus is Nārāyaṇa — and my heart tells me that You are He.”
+
+এত শুনি’ মহাপ্রভু হাসিয়া হাসিয়া ৷  
+কহিতে লাগিলা কিছু কাজিরে ছুঁইয়া ॥ ২১৬ ॥
+
+eta śuni’ mahāprabhu hāsiyā hāsiyā  
+this  hearing  Mahāprabhu  smiling  smiling  
+kahite lāgilā kichu kājire chum̐iyā  
+to speak  began  something  the Kazi  touching
+
+(216) Hearing this, Mahāprabhu smiled and, touching the Kazi, began to speak:
+
+তোমার মুখে কৃষ্ণনাম, — এ বড় বিচিত্র ৷  
+পাপক্ষয় গেল, হৈলা পরম পবিত্র ॥ ২১৭ ॥
+
+tomāra mukhe kṛṣṇa-nāma, — e baḍa vicitra  
+your  in the mouth  Kṛṣṇa’s name  this  very  wonderful  
+pāpa-kṣaya gela, hailā parama pavitra  
+destruction of sin  has come  you have become  supremely  pure
+
+(217) “Kṛṣṇa’s name in your mouth — this is most wonderful! Your sins are destroyed, and you have become supremely pure.[^57]
+
+‘হরি’ ‘কৃষ্ণ’ ‘নারায়ণ’ — লৈলে তিন নাম ৷  
+বড় ভাগ্যবান্ তুমি, বড় পুণ্যবান্ ॥ ২১৮ ॥
+
+‘hari’ ‘kṛṣṇa’ ‘nārāyaṇa’ — laile tina nāma  
+Hari  Kṛṣṇa  Nārāyaṇa  you have taken  three  names  
+baḍa bhāgyavān tumi, baḍa puṇyavān  
+very  fortunate  you  very  pious
+
+(218) You have spoken three names — Hari, Kṛṣṇa and Nārāyaṇa. You are most fortunate and most pious.”
+
+এত শুনি’ কাজীর দুই চক্ষে পড়ে পানি ৷  
+প্রভুর চরণ ছুঁই’ বলে প্রিয়বাণী ॥ ২১৯ ॥
+
+eta śuni’ kājīra dui cakṣe paḍe pāni  
+this  hearing  the Kazi’s  two  from the eyes  fall  tears  
+prabhura caraṇa chum̐i’ bale priya-vāṇī  
+of the Lord  the feet  touching  says  loving words
+
+(219) When he heard this, tears fell from the Kazi’s eyes. Touching the Lord’s feet, he said with deep feeling:
+
+তোমার প্রসাদে মোর ঘুচিল কুমতি ৷  
+এই কৃপা কর, যেন তোমাতে রহু ভক্তি ॥ ২২০ ॥
+
+tomāra prasāde mora ghucila kumati  
+Your  by grace  my  is gone  evil mind  
+ei kṛpā kara, yena tomāte rahu bhakti  
+this  mercy  do  that  in You  may remain  devotion
+
+(220) “By Your grace my evil mind is gone. Be merciful to me, so that devotion to You may abide in me.”
+
+প্রভু কহে, — এক দান মাগিয়ে তোমায় ৷  
+সংকীর্ত্তন বাদ যৈছে নহে নদীয়ায় ॥ ২২১ ॥
+
+prabhu kahe, — eka dāna māgiye tomāya  
+the Lord  says  one  gift  I beg  from you  
+saṁkīrtana vāda yaiche nahe nadīyāya  
+saṅkīrtana  obstruction  so that  not be  in Nadia
+
+(221) The Lord said, “I beg one gift of you: let there be no obstruction to the saṅkīrtana in Nadia.”
+
+কাজী কহে, — মোর বংশে যত উপজিবে ৷  
+তাহাকে ‘তালাক’ দিব, কীর্ত্তন না বাধিবে ॥ ২২২ ॥
+
+kājī kahe, — mora vaṁśe yata upajibe  
+the Kazi  says  my  in the line  as many as  will be born  
+tāhāke ‘tālāka’ diba, kīrtana nā bādhibe  
+to them  a solemn charge  I will give  kīrtana  not  they will obstruct
+
+(222) The Kazi said, “On all who are born in my line I shall lay a solemn charge (*talāk*): they shall never obstruct the kīrtana.”[^58]
+
+শুনি’ প্রভু ‘হরি’ বলি’ উঠিলা আপনি ৷  
+উঠিল বৈষ্ণব সব করি’ হরি-ধ্বনি ॥ ২২৩ ॥
+
+śuni’ prabhu ‘hari’ bali’ uṭhilā āpani  
+hearing  the Lord  Hari  saying  rose  Himself  
+uṭhila vaiṣṇava saba kari’ hari-dhvani  
+rose  the Vaiṣṇavas  all  making  the sound of Hari
+
+(223) Hearing this, the Lord rose, crying “Hari!”, and all the Vaiṣṇavas rose with Him, raising the sound of Hari’s name.
+
+কীর্ত্তন করিতে প্রভু করিলা গমন ৷  
+সঙ্গে চলি’ আইসে কাজী উল্লসিত মন ॥ ২২৪ ॥
+
+kīrtana karite prabhu karilā gamana  
+kīrtana  to do  the Lord  made  setting out  
+saṅge cali’ āise kājī ullasita mana  
+with Him  walking  comes  the Kazi  joyful  mind
+
+(224) The Lord set off to go on with the kīrtana, and the Kazi walked along with Him, his heart full of joy.
+
+কাজীরে বিদায় দিল শচীর নন্দন ৷  
+নাচিতে নাচিতে আইলা আপন ভবন ॥ ২২৫ ॥
+
+kājīre vidāya dila śacīra nandana  
+to the Kazi  farewell  gave  of Śacī  the son  
+nācite nācite āilā āpana bhavana  
+dancing  dancing  came  His own  home
+
+(225) Then the son of Śacī bade the Kazi farewell and came back to His own home, dancing all the way.
+
+এই মতে কাজীরে প্রভু করিলা প্রসাদ ৷  
+ইহা যেই শুনে তার খণ্ডে অপরাধ ॥ ২২৬ ॥
+
+ei mate kājīre prabhu karilā prasāda  
+in this way  to the Kazi  the Lord  showed  grace  
+ihā yei śune tāra khaṇḍe aparādha  
+this  whoever  hears  his  are destroyed  offences
+
+(226) Thus the Lord showed His grace to the Kazi. Whoever hears of it is freed from his offences.
+
+এক দিন শ্রীবাসের মন্দিরে গোসাঞি ৷  
+নিত্যানন্দ-সঙ্গে নৃত্য করে দুই ভাই ॥ ২২৭ ॥
+
+eka dina śrīvāsera mandire gosāñi  
+one  day  of Śrīvāsa  in the house  Gosāñi  
+nityānanda-saṅge nṛtya kare dui bhāi  
+with Nityānanda  dancing  do  the two  brothers
+
+(227) One day the Lord was dancing with Nityānanda in Śrīvāsa’s house — the two brothers together.
+
+শ্রীবাস-পুত্রের তাহাঁ হৈল পরলোক ৷  
+তবু শ্রীবাসের চিত্তে না জন্মিল শোক ॥ ২২৮ ॥
+
+śrīvāsa-putrera tāhām̐ haila paraloka  
+of Śrīvāsa’s son  there  took place  passing to the next world  
+tabu śrīvāsera citte nā janmila śoka  
+yet  in Śrīvāsa’s  heart  not  arose  grief
+
+(228) Just then Śrīvāsa’s son passed away, yet no grief arose in Śrīvāsa’s heart.
+
+মৃতপুত্র-মুখে কৈল জ্ঞানের কথন ৷  
+আপনে দুই ভাই হৈলা শ্রীবাস-নন্দন ॥ ২২৯ ॥
+
+mṛta-putra-mukhe kaila jñānera kathana  
+of the dead son  in the mouth  He made  of knowledge  the telling  
+āpane dui bhāi hailā śrīvāsa-nandana  
+Themselves  the two  brothers  became  Śrīvāsa’s  sons
+
+(229) The Lord made the dead son speak words of divine knowledge, and the two brothers Themselves became Śrīvāsa’s sons.[^59]
+
+তবে ত’ করিলা সব ভক্তে বর দান ৷  
+উচ্ছিষ্ট দিয়া নারায়ণীর করিল সম্মান ॥ ২৩০ ॥
+
+tabe ta’ karilā saba bhakte vara dāna  
+then  indeed  He made  all  to the devotees  boons  gift  
+ucchiṣṭa diyā nārāyaṇīra karila sammāna  
+remnants  giving  of Nārāyaṇī  made  honour
+
+(230) Then He gave boons to all the devotees, and He honoured Nārāyaṇī by giving her His remnants.[^60]
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -2128,3 +2425,19 @@ desire  not  still  says  what  remedy  shall I make
 [^51]: *Amṛta-pravāha-bhāṣya*: though the Pādśāh is your kinsman, he can still punish you; the Pādśāh is Husain Shah, the ruler of Gauḍa. *Anubhāṣya*: Ala-ud-din Saiyad Husain Shah, at that time the independent ruler of Bengal.
 
 [^52]: *Amṛta-pravāha-bhāṣya*: the Muslim mocked them thus: “Some of you are Kṛṣṇadāsas, some Rāmadāsas and Haridāsas, and you keep saying ‘Hari! Hari!’ — but *hari* also means ‘I steal’, so you must be planning to rob someone.” From the day he made this jest, his tongue has been saying “Hari! Hari!” against his will.
+
+[^53]: *Anubhāṣya*: mockery (*parihāsa*) is one of the four kinds of *nāmābhāsa*: “The name of Vaikuṇṭha, uttered to indicate something else, in jest, to fill out a song, or with contempt, destroys all sins” (Bhāg. 6.2.14). *Nāmābhāsa* is not the mere sounding of letters: it points to the eternal Reality and awakens the remembrance of Viṣṇu; it destroys worldly desire, and then the liberated soul, turned towards service, gains the right to chant the pure name.
+
+[^54]: *Anubhāṣya*: the *pāṣaṇḍīs* are those sunk in ritual (*karma-jaḍa*), worshippers of many gods, hostile to Viṣṇu and the Vaiṣṇavas, idolaters.
+
+[^55]: *Amṛta-pravāha-bhāṣya*: “the low rise” — He chants Kṛṣṇa’s name with many people of low caste, and so the low castes are rising.
+
+[^56]: *Anubhāṣya*: these worshippers of many gods saw the Lord and His name as no more than a part of ritual. Not knowing the boundless generosity of Kṛṣṇa’s name, and dazzled by worldly rank and birth, they thought it a sin for the low-born to take the name of Kṛṣṇa, and they ranked the great mantra of the name, which is to be sung at all times, with mantras for silent repetition — as if, once heard by all, it would lose its power; whereas, when it comes upon the tongue and into the ear, it reveals its matchless majesty and delivers all, from Brahmā down to a blade of grass.
+
+[^57]: *Anubhāṣya* on 217–218: *nāmābhāsa* had arisen in the Kazi’s mouth (the edition’s heading: “*Nāmābhāsa* destroys sin”).
+
+[^58]: *Amṛta-pravāha-bhāṣya*: *talāk* — a solemn oath. *Anubhāṣya*: to this day the Kazi’s descendants join in the saṅkīrtana of Kṛṣṇa and raise no objection to it.
+
+[^59]: *Amṛta-pravāha-bhāṣya*: one night, while Mahāprabhu was holding kīrtana in Śrīvāsa’s courtyard, Śrīvāsa’s son died. So as not to break the joy of the kīrtana, Śrīvāsa forbade his household to mourn, and Mahāprabhu danced until late in the night. When He learnt of the death, the Lord was grieved that He had not been told at once, and He asked the dead child why he was leaving Śrīvāsa. The boy answered: “I have lived in Śrīvāsa’s house for as many days as were ordained; now, by Your will, I go elsewhere. I am Your eternally dependent soul and can do nothing beyond Your will.” Hearing this, Śrīvāsa’s family received divine knowledge, and their grief was gone. The Lord said to Śrīvāsa: “The son you had has left you, but Nityānanda and I are your eternal sons; We shall never leave you.” *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 25.
+
+[^60]: *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 10. According to the edition’s heading, Nārāyaṇī was the daughter of Śrīvāsa’s brother.
