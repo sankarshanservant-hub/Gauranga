@@ -1,0 +1,165 @@
+# English translation, Ādi-līlā 13 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: The Description of the Great Festival of the Lord’s Appearance
+
+## 1
+w: He  may be gracious  Caitanya-
+w: deva  whose  by the grace
+w: in describing His pastimes  fit
+w: at once  may become  fallen  even  this one
+tr: May Śrī Caitanyadeva be gracious to me, for by His grace even one as fallen as I at once becomes fit to describe His pastimes.
+
+## 2
+w: glory  glory  Śrī Kṛṣṇa Caitanya  Gauracandra
+w: glory to Advaitacandra  glory  glory  Nityānanda
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya Gauracandra! Glory to Advaitacandra, and glory, glory to Nityānanda!
+
+## 3
+w: glory  glory  Gadādhara  glory  Śrīnivāsa
+w: glory  Mukunda  Vāsudeva  glory  Haridāsa
+tr: Glory, glory to Gadādhara, and glory to Śrīvāsa! Glory to Mukunda and Vāsudeva, and glory to Haridāsa!
+
+## 4
+w: glory  Dāmodara-svarūpa  glory  Murāri  Gupta
+w: these  all  by the moons’ rising  darkness  made  vanish
+tr: Glory to Svarūpa Dāmodara, and glory to Murāri Gupta! These moons have risen and driven all darkness away.
+
+## 5
+w: glory  of Śrī  Caitanyacandra  the devotees  full moons
+w: of all  by the moonlight of love  bright  the three worlds
+tr: Glory to the devotees of Śrī Caitanyacandra, who are full moons! The moonlight of their love makes the three worlds shine.
+fn: Heading in the edition: “The rays of *hari-bhajana* shining from the devotee-moons destroy the darkness of the living beings’ ignorance.”
+
+## 6
+w: this  indeed  I have told  at the book’s beginning  the preface
+w: now  I tell  of Caitanya’s pastimes  the sequence  in order
+tr: Thus I have given the preface at the beginning of the book. Now I shall tell the pastimes of Śrī Caitanya in their proper order.
+
+## 7
+w: first  indeed  in the form of sūtras  I make  the count
+w: afterwards  that  expanding  I shall make  the description
+tr: First I shall list them briefly, as in sūtras; afterwards I shall describe them in detail.
+
+## 8
+w: Śrī Kṛṣṇa Caitanya  in Navadvīpa  descending
+w: forty-eight  years  manifest  sporting
+tr: Śrī Kṛṣṇa Caitanya descended in Navadvīpa, and for forty-eight years He enjoyed His pastimes before the eyes of the world.
+
+## 9
+w: fourteen hundred  seven  in the Śaka year  of birth  the record
+w: in fourteen hundred  fifty-five  took place  the disappearance
+tr: His appearance is recorded in Śaka 1407 (1486), and He disappeared from the world in 1455 (1533).
+
+## 10
+w: twenty-four  years  the Lord  made  household life
+w: constantly  made  there  the delight of kīrtana
+tr: For twenty-four years the Lord lived as a householder, and all that time He delighted in kīrtana.
+
+## 11
+w: of the twenty-fourth  year  at the end  accepting  sannyāsa
+w: another  twenty-four  years  made  in Nīlācala  residence
+tr: At the end of His twenty-fourth year He accepted sannyāsa, and for another twenty-four years He lived in Nīlācala.
+
+## 12
+w: of them  within  six  years  —  going and coming
+w: sometimes  the south,  sometimes  Gauḍa,  sometimes  Vṛndāvana
+tr: Six of those years He spent journeying — now to the south, now to Gauḍa, now to Vṛndāvana.
+
+## 13
+w: eighteen  years  remained  in Nīlācala
+w: in the nectar of the pastimes of love for Kṛṣṇa  flooded  everyone
+tr: For eighteen years He stayed in Nīlācala, flooding everyone with the nectar of His pastimes of love for Kṛṣṇa.
+
+## 14
+w: in household life  the Lord’s  pastimes  —  ‘ādi’-līlā  is the name
+w: ‘madhya’  ‘antya’  by name  —  of the later pastimes  two  names
+tr: The Lord’s pastimes as a householder are called the Ādi-līlā, and His later pastimes bear two names, Madhya and Antya.
+
+## 15
+w: the Ādi-līlā  within  the Lord’s  all  deeds
+w: in the form of sūtras  Murāri Gupta  made  strung together
+tr: Murāri Gupta strung together, in the form of sūtras, all the Lord’s deeds in the Ādi-līlā.
+
+## 16
+w: the Lord’s  which  later pastimes  Svarūpa-dāmodara
+w: sūtras  making  strung  the book  within
+tr: Svarūpa Dāmodara set down the Lord’s later pastimes in brief notes, and gathered them in his book.
+fn: Heading in the edition to 15–16: Murāri Gupta strung together the Ādi-līlā in his *Caitanya-carita*, and Svarūpa Dāmodara the later pastimes in his *Kaḍacā* (diary).
+
+## 17
+w: these  two  persons’  sūtras  seeing  hearing
+w: description  make  the Vaiṣṇavas  the sequence  which  keeping
+tr: Reading and hearing the notes of these two, the Vaiṣṇavas describe the Lord’s pastimes in their order.
+fn: *Amṛta-pravāha-bhāṣya*: Śrī Murāri Gupta’s notes on the Ādi-līlā still survive; the Vaiṣṇavas read them, and they heard the notes of Śrī Svarūpa Gosvāmī’s diary from the lips of Śrī Raghunātha Dāsa Gosvāmī — and so they describe the Lord’s pastimes.
+
+## 18
+w: childhood,  boyhood,  early youth,  youth,  —  four  divisions
+w: therefore  in the first part  the pastimes  four  divisions
+tr: Childhood (*bālya*), boyhood (*paugaṇḍa*), early youth (*kaiśora*) and youth (*yauvana*) — these are the four ages, and so the pastimes of the first part fall into four divisions.
+
+## 19
+w: with all  good  qualities  full  that
+w: I bow to  the Phālguna  full moon
+w: on which  Śrī  Kṛṣṇa  Caitanya
+w: descended  with the names of Kṛṣṇa
+tr: I bow to that full moon of Phālguna, rich in every good quality, on which Śrī Kṛṣṇa Caitanya descended together with the names of Kṛṣṇa.
+fn: *Anubhāṣya*: on this full moon Śrī Kṛṣṇa Caitanya — the Lord of Goloka, the original source of all avatāras, in whom Rādhā and Kṛṣṇa are one — descended together with the names of Kṛṣṇa from His own abode, the Gaura-prakoṣṭha, into the earthly Navadvīpa; and the full moon itself is no worldly day but a transcendental goddess of the lunar day (*tithi*), who descended into time to serve Him. The *Amṛta-pravāha-bhāṣya* cites a verse: “In the twenty-eighth age of Vaivasvata Manu, in the year fourteen hundred and seven, on the lovely bank of the Bhāgīrathī, from the great ocean of Śacī’s womb, on a full moon seized by Rāhu, Gaurāṅga appeared.”
+
+## 20
+w: on the Phālguna full moon  in the evening  the Lord’s  birth  arose
+w: at that  time  by providence  of the moon  eclipse  takes place
+tr: The Lord appeared on the evening of the Phālguna full moon, and at that very hour, as providence would have it, the moon was eclipsed.
+
+## 21
+w: ‘Hari’  ‘Hari’  say  the people  joyful  becoming
+w: was born  Caitanya Prabhu  the Name  causing to be born
+tr: The people were joyfully calling out, “Hari! Hari!” — and Caitanya Prabhu took birth, having first brought the Name to birth.
+
+## 22
+w: at birth,  in childhood,  boyhood,  early youth,  youth
+w: the name of Hari  made take  the Lord  by various  pretexts
+tr: At His birth, in childhood, boyhood, early youth and youth, the Lord found one pretext or another to make people take the name of Hari.
+
+## 23
+w: of a child’s mood  on the pretext  the Lord  does  crying
+w: ‘Kṛṣṇa’  ‘Hari’  the names  hearing  stops  weeping
+tr: On the pretext of being a baby the Lord would cry, and the moment He heard the names “Kṛṣṇa” and “Hari”, He stopped weeping.
+fn: Heading in the edition: “Crying on the pretext of making people chant the name — and quieting at the name alone.”
+
+## 24
+w: therefore  ‘Hari’  ‘Hari’  say  the women
+w: to see  come  who  all  friends and kin
+tr: So all the women among His friends and kin who came to see Him would chant, “Hari! Hari!”
+
+## 25
+w: ‘Gaurahari’  calling  Him  laugh  all  the women
+w: therefore  became  His  name  ‘Gaurahari’
+tr: Laughing, the women all called Him “Gaurahari”, and so Gaurahari became His name.
+
+## 26
+w: childhood  age  —  until  in His hand  chalk  was given
+w: boyhood  age  —  until  marriage  not  was made
+tr: His childhood lasted until the chalk was put in His hand for His first lesson; His boyhood, until He married.
+
+## 27
+w: marriage  having made  began  fresh  youth
+w: everywhere  made take  the Lord  the saṅkīrtana of the name
+tr: With His marriage began the bloom of youth, and everywhere the Lord led people to chant the name together.
+
+## 28
+w: in boyhood  age  He studies,  teaches  the pupils
+w: everywhere  makes  of Kṛṣṇa’s name  the explanation
+tr: In His boyhood He studied and also taught pupils, and everywhere He explained the name of Kṛṣṇa.
+
+## 29
+w: in sūtra,  gloss,  commentary  of Kṛṣṇa’s name  the purport
+w: to the pupils  clear  becomes,  —  to all  a wonder
+tr: He showed that the purport of every sūtra, gloss and commentary was the name of Kṛṣṇa, and His pupils came to see it plainly — a wonder to all.
+fn: *Amṛta-pravāha-bhāṣya*: while teaching His pupils the sūtras of grammar with their *vṛtti* and *ṭīkā*, the Lord taught them the purport of Kṛṣṇa’s name; following that teaching, the Gosvāmīs (Śrī Jīva) later composed two grammars, the *Laghu-* and the *Bṛhad-Harināmāmṛta-vyākaraṇa*, through which one gains both a knowledge of words and devotion to Kṛṣṇa.
+
+## 30
+w: whom  He sees,  to him  says  —  say  Kṛṣṇa’s name
+w: with Kṛṣṇa’s name  flooded  Navadvīpa  town
+tr: Whomever He met He would tell, “Chant the name of Kṛṣṇa!” — and He flooded the town of Navadvīpa with Kṛṣṇa’s name.
