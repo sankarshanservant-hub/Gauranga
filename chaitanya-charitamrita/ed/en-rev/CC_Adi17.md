@@ -180,7 +180,7 @@ then  Śacī  saw  Rāma and Kṛṣṇa  two  brothers
 tabe nistārila prabhu jagāi-mādhāi  
 then  delivered  the Lord  Jagāi and Mādhāi
 
-(17) Then Śacī saw the two brothers as Rāma and Kṛṣṇa, and then the Lord delivered Jagāi and Mādhāi.[^9]
+(17) Then Śacī saw the two brothers as Rāma and Kṛṣṇa, and after that the Lord delivered Jagāi and Mādhāi.[^9]
 
 তবে সপ্তপ্রহর ছিলা প্রভু ভাবাবেশে ৷  
 যথা তথা ভক্তগণ দেখিল বিশেষে ॥ ১৮ ॥
@@ -200,7 +200,7 @@ of Varāha  absorption  He had  in Murāri’s  house
 tām̐ra skandhe caḍi’ prabhu nācilā aṅgane  
 his  on the shoulders  climbing  the Lord  danced  in the courtyard
 
-(19) In Murāri’s house He became absorbed in the mood of Varāha, and the Lord climbed onto Murāri’s shoulders and danced in the courtyard.[^11]
+(19) In Murāri’s house the Lord became absorbed in the mood of Varāha, and climbing onto Murāri’s shoulders, He danced in the courtyard.[^11]
 
 তবে শুক্লাম্বরের কৈল তণ্ডুল ভক্ষণ ৷  
 ‘হরের্নাম’ শ্লোকের কৈল অর্থ বিবরণ ॥ ২০ ॥
@@ -395,7 +395,7 @@ for Bhavānī’s worship  all  the articles  taking
 rātre śrīvāsera dvāre sthāna lepāiyā  
 at night  at Śrīvāsa’s  door  the place  smearing
 
-(37–38) There was a brāhmaṇa named Gopāla Cāpāla, a foul-mouthed babbler and the chief of the unbelievers. One night he took all the articles for the worship of Bhavānī and smeared the ground at Śrīvāsa’s door, as if for worship.[^16]
+(37–38) There was a brāhmaṇa named Gopāla Cāpāla, a foul-mouthed babbler and the chief of the unbelievers. One night he took all the articles for the worship of Bhavānī and smeared the ground at Śrīvāsa’s door to prepare a place for the rite.[^16]
 
 কলার পাত উপরে থুইল ওড়ফুল ৷  
 হরিদ্রা, সিন্দূর আর রক্তচন্দন, তণ্ডুল ॥ ৩৯ ॥
@@ -810,7 +810,7 @@ one  day  the Lord  all  the devotees  taking
 saṁkīrtana kari’ vaise śrama-yukta hañā  
 saṅkīrtana  doing  sits  tired  becoming
 
-(79) One day, after saṅkīrtana with all the devotees, the Lord sat down to rest, tired.[^30]
+(79) One day, tired after saṅkīrtana with all the devotees, the Lord sat down to rest.[^30]
 
 এক আম্রবীজ প্রভু অঙ্গনে রোপিল ৷  
 তৎক্ষণে জন্মিয়া বৃক্ষ বাড়িতে লাগিল ॥ ৮০ ॥
@@ -1180,7 +1180,7 @@ Nityānanda Gosāñi  of the Lord  the mood  understood
 gaṅgā-jala-pātra āni’ sammukhe dharila  
 Ganges water  a pot of  bringing  before Him  held
 
-(116) Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before Him.
+(116) Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before the Lord.
 
 জল পান করিয়া নাচে হঞা বিহ্বল ৷  
 যমুনাকর্ষণ-লীলা দেখয়ে সকল ॥ ১১৭ ॥
@@ -1300,7 +1300,7 @@ again  if  kīrtana  doing  I find
 sarvasva daṇḍiyā tāra jāti ye laimu  
 all property  fining  his  caste  indeed  I shall take
 
-(128) But if I find anyone holding kīrtana again, I will take everything he owns and take away his caste.”
+(128) But if I find anyone holding kīrtana again, I will fine him all he owns and take away his caste.”
 
 এত বলি’ কাজী গেল, — নগরিয়া লোক ৷  
 প্রভু-স্থানে নিবেদিল পাঞা বড় শোক ॥ ১২৯ ॥

@@ -100,7 +100,7 @@ fn: *Amṛta-pravāha-bhāṣya*: on the night before the Vyāsa-pūjā, during 
 ## 17
 w: then  Śacī  saw  Rāma and Kṛṣṇa  two  brothers
 w: then  delivered  the Lord  Jagāi and Mādhāi
-tr: Then Śacī saw the two brothers as Rāma and Kṛṣṇa, and then the Lord delivered Jagāi and Mādhāi.
+tr: Then Śacī saw the two brothers as Rāma and Kṛṣṇa, and after that the Lord delivered Jagāi and Mādhāi.
 fn: *Amṛta-pravāha-bhāṣya*: Śacī saw this in a dream: Kṛṣṇa and Balarāma, the two Deities of her house, were snatching the offerings with Gaurāṅga and Nityānanda. The next day, as Viśvambhara and Nityānanda were eating in her house, she saw before her eyes that they were Kṛṣṇa and Balarāma.
 
 ## 18
@@ -112,7 +112,7 @@ fn: *Amṛta-pravāha-bhāṣya*: on that day Mahāprabhu sat on the couch of Vi
 ## 19
 w: of Varāha  absorption  He had  in Murāri’s  house
 w: his  on the shoulders  climbing  the Lord  danced  in the courtyard
-tr: In Murāri’s house He became absorbed in the mood of Varāha, and the Lord climbed onto Murāri’s shoulders and danced in the courtyard.
+tr: In Murāri’s house the Lord became absorbed in the mood of Varāha, and climbing onto Murāri’s shoulders, He danced in the courtyard.
 fn: *Amṛta-pravāha-bhāṣya*: crying “Boar! Boar!”, the Lord entered Murāri Gupta’s house in the form of Varāha, lifted a water pot with His teeth, as Varāha lifted the earth, and drank. On another day He climbed onto Murāri’s shoulders and danced for a long time.
 
 ## 20
@@ -213,7 +213,7 @@ w: one day  a brāhmaṇa  by name  Gopāla Cāpāla
 w: of the unbelievers  the chief  that  foul-mouthed  babbler
 w: for Bhavānī’s worship  all  the articles  taking
 w: at night  at Śrīvāsa’s  door  the place  smearing
-tr: There was a brāhmaṇa named Gopāla Cāpāla, a foul-mouthed babbler and the chief of the unbelievers. One night he took all the articles for the worship of Bhavānī and smeared the ground at Śrīvāsa’s door, as if for worship.
+tr: There was a brāhmaṇa named Gopāla Cāpāla, a foul-mouthed babbler and the chief of the unbelievers. One night he took all the articles for the worship of Bhavānī and smeared the ground at Śrīvāsa’s door to prepare a place for the rite.
 fn: *Anubhāṣya*: the story of Gopāla Cāpāla is not found in the *Caitanya-bhāgavata*.
 
 ## 39
@@ -433,7 +433,7 @@ fn: The edition’s heading gives *Śrīmad-Bhāgavatam* 10.81.14 (a different n
 ## 79
 w: one  day  the Lord  all  the devotees  taking
 w: saṅkīrtana  doing  sits  tired  becoming
-tr: One day, after saṅkīrtana with all the devotees, the Lord sat down to rest, tired.
+tr: One day, tired after saṅkīrtana with all the devotees, the Lord sat down to rest.
 fn: *Amṛta-pravāha-bhāṣya*: one day, tired during the city kīrtana, the Lord came to the courtyard of a devotee and planted a mango seed there; at once the fruit ripened, and a mango festival began. The place is now known as Āmraghaṭṭa (Āmghāṭā). *Anubhāṣya*: this event is not in the *Caitanya-bhāgavata*.
 
 ## 80
@@ -621,7 +621,7 @@ tr: One day, sitting in the hall of Viṣṇu, the Lord called out, “Bring hon
 ## 116
 w: Nityānanda Gosāñi  of the Lord  the mood  understood
 w: Ganges water  a pot of  bringing  before Him  held
-tr: Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before Him.
+tr: Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before the Lord.
 
 ## 117
 w: the water  drinking  dances  becoming  overwhelmed
@@ -688,7 +688,7 @@ tr: Let no one hold kīrtana anywhere in the town. Today I forgive you and go ho
 ## 128
 w: again  if  kīrtana  doing  I find
 w: all property  fining  his  caste  indeed  I shall take
-tr: But if I find anyone holding kīrtana again, I will take everything he owns and take away his caste.”
+tr: But if I find anyone holding kīrtana again, I will fine him all he owns and take away his caste.”
 
 ## 129
 w: this  saying  the Kazi  went  the townspeople
