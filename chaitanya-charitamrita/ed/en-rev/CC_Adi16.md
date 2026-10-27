@@ -40,7 +40,7 @@ by Lakṣmī  worshipped  then  by the goddess of speech
 diśāṁ jayi-jaya-cchalāt  
 of the directions  of the conqueror  of the conquest  under the pretext
 
-(3) Glory to Caitanya in His youth! When He entered household life, Lakṣmī herself served Him in visible form; and then the goddess of speech, Sarasvatī, worshipped Him too, making His victory over the conqueror of all directions the occasion of her worship.[^2]
+(3) Glory to Caitanya in His youth! When He entered household life, Lakṣmī herself served Him in visible form; and then Sarasvatī, the goddess of speech, worshipped Him as well, taking His victory over the conqueror of all directions as her occasion.[^2]
 
 এই ত’ কৈশোর-লীলা-সূত্র-অনুবন্ধ ৷  
 শিষ্যগণ পড়াইতে করিলা আরম্ভ ॥ ৪ ॥
@@ -230,7 +230,7 @@ within  knew  the Lord,  since  the Indweller
 deśere āilā prabhu śacī-duḥkha jāni’  
 to His homeland  came  the Lord  of Śacī  the grief  knowing
 
-(22) The Lord knew of it within, for He dwells in every heart; and knowing Śacī’s grief, He returned home.
+(22) Dwelling in every heart, the Lord knew of it; and, aware of Śacī’s grief, He returned home.
 
 ঘরে আইলা প্রভু বহু লঞা ধন-জন ৷  
 তত্ত্ব কহি’ কৈল শচীর দুঃখ-বিমোচন ॥ ২৩ ॥
@@ -280,7 +280,7 @@ that  part  I tell,  to him  making  obeisance
 yā śuni’ digvijayī kaila āpanā dhik-kāra  
 which  hearing  the *digvijayī*  made  of himself  reproach
 
-(27) Bowing to him, I shall tell that part, on hearing which the *digvijayī* cursed himself.
+(27) Bowing to him, I shall tell of that analysis; hearing it, the *digvijayī* cursed himself.
 
 জ্যোৎস্নাবতী রাত্রি, প্রভু শিষ্যগণ সঙ্গে ৷  
 বসিয়াছেন গঙ্গাতীরে বিদ্যার প্রসঙ্গে ॥ ২৮ ॥
@@ -426,7 +426,7 @@ a second  Śrī Lakṣmī  like  by gods and men  worshipped  whose feet
 bhavānī-bhartur yā śirasi vibhavaty adbhuta-guṇā  
 of Bhavānī’s  husband  who  on the head  reigns  wondrous in qualities
 
-(41) “This greatness of the Gaṅgā ever shines beyond compare, for she is blessed by her birth from the lotus feet of Śrī Viṣṇu. She is like a second Śrī Lakṣmī, whose feet gods and men worship; and, endowed with wondrous qualities, she reigns upon the head of Bhavānī’s husband.”[^15]
+(41) “This greatness of the Gaṅgā ever shines beyond compare, for she is blessed by her birth from the lotus feet of Śrī Viṣṇu. Like a second Śrī Lakṣmī, she receives the worship of gods and men; and upon the head of Bhavānī’s husband she reigns, endowed with wondrous qualities.”[^15]
 
 এই শ্লোকের অর্থ কর — প্রভু যদি কহিল ৷  
 বিস্মিত হঞা দিগ্বিজয়ী প্রভুকে পুছিল ॥ ৪২ ॥
@@ -456,7 +456,7 @@ the Lord  says,  of a god  by the boon  you —  ‘the best of poets’
 aiche devera vare keha haya — ‘śruti-dhara’  
 so  of a god  by the boon  someone  becomes —  ‘one who holds all he hears’
 
-(44) The Lord said, “By the boon of a deity you are the best of poets; and by the boon of a deity, too, someone may become a *śruti-dhara*, one who holds all that he hears.”
+(44) The Lord said, “By the boon of a deity you are the best of poets; and by the boon of a deity another may become a *śruti-dhara*, one who holds all that he hears.”
 
 শ্লোকের অর্থ কৈল বিপ্র পাইয়া সন্তোষ ৷  
 প্রভু কহে, — কহ শ্লোকের কিবা গুণ-দোষ ॥ ৪৫ ॥
