@@ -312,6 +312,316 @@ the *digvijayī*  speaks  in his mind  disdain  holding
 
 (30) The Lord received him with respect and gave him a seat, but the *digvijayī* spoke with disdain in his heart:
 
+ব্যাকরণ পড়াহ, নিমাঞি পণ্ডিত — তোমার নাম ৷  
+বাল্যশাস্ত্রে লোকে তোমার কহে গুণগ্রাম ॥ ৩১ ॥
+
+vyākaraṇa paḍāha, nimāñi paṇḍita — tomāra nāma  
+grammar  You teach,  Nimāi  Paṇḍita —  Your  name  
+bālya-śāstre loke tomāra kahe guṇa-grāma  
+in the children’s science  people  Your  speak of  merits
+
+(31) “You teach grammar, and Your name is Nimāi Paṇḍita. People praise Your skill in the science that children learn.[^12]
+
+ব্যাকরণ-মধ্যে, জানি, পড়াহ কলাপ ৷  
+শুনিলুঁ ফাঁকিতে তোমার শিষ্যের সংলাপ ॥ ৩২ ॥
+
+vyākaraṇa-madhye, jāni, paḍāha kalāpa  
+among grammars,  I know,  You teach  the Kalāpa  
+śunilum̐ phām̐kite tomāra śiṣyera saṁlāpa  
+I have heard  on the tricky points  Your  students’  discussions
+
+(32) Of the grammars, I know, You teach the *Kalāpa*, and I have heard of Your students’ debates on its tricky points.”[^13]
+
+প্রভু কহে, ব্যাকরণ পড়াই — অভিমান করি ৷  
+শিষ্যেতে না বুঝে, আমি বুঝাইতে নারি ॥ ৩৩ ॥
+
+prabhu kahe, vyākaraṇa paḍāi — abhimāna kari  
+the Lord  says,  grammar  I teach —  so I fancy  
+śiṣyete nā bujhe, āmi bujhāite nāri  
+the students  not  understand,  I  to explain  cannot
+
+(33) The Lord said, “Yes, I teach grammar — or so I like to think. But My students do not understand, and I cannot explain it to them.
+
+কাঁহা তুমি সর্ব্বশাস্ত্রে কবিত্বে প্রবীণ ৷  
+কাঁহা আমি সবে শিশু — পড়ুয়া নবীন ॥ ৩৪ ॥
+
+kām̐hā tumi sarva-śāstre kavitve pravīṇa  
+where  you,  in all the śāstras  in poetry  expert  
+kām̐hā āmi sabe śiśu — paḍuyā navīna  
+where  I,  merely  a child —  a student  new
+
+(34) “How far above Me you are! You are expert in every śāstra and in poetry, while I am only a child, a new student.
+
+তোমার কবিত্ব কিছু শুনিতে হয় মন ৷  
+কৃপা করি’ কর যদি গঙ্গার বর্ণন ॥ ৩৫ ॥
+
+tomāra kavitva kichu śunite haya mana  
+your  poetry  some  to hear  is  My mind  
+kṛpā kari’ kara yadi gaṅgāra varṇana  
+mercy  showing  make  if  of the Gaṅgā  a description
+
+(35) “I should like to hear some of your poetry. Be kind enough, if you will, to describe the Gaṅgā.”
+
+শুনিয়া ব্রাহ্মণ গর্ব্বে বর্ণিতে লাগিলা ৷  
+ঘটী একে শত শ্লোক গঙ্গার বর্ণিলা ॥ ৩৬ ॥
+
+śuniyā brāhmaṇa garve varṇite lāgilā  
+hearing this  the brāhmaṇa  with pride  to describe  began  
+ghaṭī eke śata śloka gaṅgāra varṇilā  
+in a ghaṭī  one  a hundred  verses  the Gaṅgā  he described
+
+(36) Hearing this, the brāhmaṇa proudly began, and within one *ghaṭī* he described the Gaṅgā in a hundred verses.[^14]
+
+শুনিয়া করিল প্রভু বহুত সৎকার ৷  
+তোমা সম পৃথিবীতে কবি নাহি আর ॥ ৩৭ ॥
+
+śuniyā karila prabhu bahuta satkāra  
+hearing  made  the Lord  great  honour  
+tomā sama pṛthivīte kavi nāhi āra  
+you  like  in the world  poet  not is  another
+
+(37) When He had heard them, the Lord honoured him highly: “There is no other poet in the world like you!
+
+তোমার কবিতা-শ্লোক বুঝিতে কার শক্তি ৷  
+তুমি ভাল জান অর্থ, কিংবা সরস্বতী ॥ ৩৮ ॥
+
+tomāra kavitā-śloka bujhite kāra śakti  
+your  poetry  the verses  to understand  whose  power  
+tumi bhāla jāna artha, kiṁvā sarasvatī  
+you  well  know  the meaning,  or  Sarasvatī
+
+(38) “Who has the power to understand your verses? You alone know their meaning well — you, or Sarasvatī.
+
+এক শ্লোকের অর্থ যদি কর নিজ-মুখে ৷  
+শুনি’ সব লোক তবে পায় বড়সুখে ॥ ৩৯ ॥
+
+eka ślokera artha yadi kara nija-mukhe  
+of one  verse  the meaning  if  you make  with your own mouth  
+śuni’ saba loka tabe pāya baḍa-sukhe  
+hearing  all  people  then  obtain  with great joy
+
+(39) “If you would explain the meaning of one verse yourself, everyone here would be delighted to hear it.”
+
+তবে দিগ্বিজয়ী ব্যাখ্যার শ্লোক পুছিল ৷  
+শত-শ্লোকের এক শ্লোক প্রভু ত’ পড়িল ॥ ৪০ ॥
+
+tabe digvijayī vyākhyāra śloka puchila  
+then  the *digvijayī*  for explanation  the verse  asked  
+śata-ślokera eka śloka prabhu ta’ paḍila  
+of the hundred verses  one  verse  the Lord  indeed  recited
+
+(40) The *digvijayī* asked which verse he should explain, and the Lord recited one of the hundred.
+
+মহত্ত্বং গঙ্গায়াঃ সততমিদমাভাতি নিতরাং  
+যদেষা শ্রীবিষ্ণোশ্চরণকমলোৎপত্তিসুভগা ৷  
+দ্বিতীয়-শ্রীলক্ষ্মীরিব সুরনরৈরর্চ্চ্যচরণা  
+ভবানীভর্ত্তুর্যা শিরসি বিভবত্যদ্ভুতগুণা ॥ ৪১ ॥
+
+mahattvaṁ gaṅgāyāḥ satatam idam ābhāti nitarāṁ  
+the greatness  of the Gaṅgā  ever  this  shines  beyond compare  
+yad eṣā śrī-viṣṇoś caraṇa-kamalotpatti-subhagā  
+since  she  of Śrī Viṣṇu  by birth from the lotus feet  blessed  
+dvitīya-śrī-lakṣmīr iva sura-narair arcya-caraṇā  
+a second  Śrī Lakṣmī  like  by gods and men  worshipped  whose feet  
+bhavānī-bhartur yā śirasi vibhavaty adbhuta-guṇā  
+of Bhavānī’s  husband  who  on the head  reigns  wondrous in qualities
+
+(41) “This greatness of the Gaṅgā ever shines beyond compare, for she is blessed by her birth from the lotus feet of Śrī Viṣṇu. She is like a second Śrī Lakṣmī, whose feet gods and men worship; and, endowed with wondrous qualities, she reigns upon the head of Bhavānī’s husband.”[^15]
+
+এই শ্লোকের অর্থ কর — প্রভু যদি কহিল ৷  
+বিস্মিত হঞা দিগ্বিজয়ী প্রভুকে পুছিল ॥ ৪২ ॥
+
+ei ślokera artha kara — prabhu yadi kahila  
+of this  verse  the meaning  make —  the Lord  when  said  
+vismita hañā digvijayī prabhuke puchila  
+astonished  becoming  the *digvijayī*  the Lord  asked
+
+(42) When the Lord said, “Explain this verse,” the *digvijayī* asked Him in astonishment:
+
+ঝঞ্ঝাবাত-প্রায় আমি শ্লোক পড়িল ৷  
+তার মধ্যে শ্লোক তুমি কৈছে কণ্ঠে কৈল ॥ ৪৩ ॥
+
+jhañjhāvāta-prāya āmi śloka paḍila  
+a storm wind  like  I  the verses  recited  
+tāra madhye śloka tumi kaiche kaṇṭhe kaila  
+of them  among  a verse  You  how  by heart  learned
+
+(43) “I recited those verses like a storm wind. How could You learn one of them by heart?”
+
+প্রভু কহে, দেবের বরে তুমি — ‘কবিবর’ ৷  
+ঐছে দেবের বরে কেহ হয় — ‘শ্রুতিধর’ ॥ ৪৪ ॥
+
+prabhu kahe, devera vare tumi — ‘kavi-vara’  
+the Lord  says,  of a god  by the boon  you —  ‘the best of poets’  
+aiche devera vare keha haya — ‘śruti-dhara’  
+so  of a god  by the boon  someone  becomes —  ‘one who holds all he hears’
+
+(44) The Lord said, “By the boon of a deity you are the best of poets; and by the boon of a deity, too, someone may become a *śruti-dhara*, one who holds all that he hears.”
+
+শ্লোকের অর্থ কৈল বিপ্র পাইয়া সন্তোষ ৷  
+প্রভু কহে, — কহ শ্লোকের কিবা গুণ-দোষ ॥ ৪৫ ॥
+
+ślokera artha kaila vipra pāiyā santoṣa  
+of the verse  the meaning  made  the brāhmaṇa  obtaining  satisfaction  
+prabhu kahe, — kaha ślokera kibā guṇa-doṣa  
+the Lord  says —  tell  of the verse  what  merits and faults
+
+(45) Well pleased, the brāhmaṇa explained the verse. Then the Lord said, “Tell Me, what are the merits and faults of this verse?”
+
+বিপ্র কহে, শ্লোকে নাহি দোষের প্রকাশ ৷  
+উপমালঙ্কার-গুণ, কিছু অনুপ্রাস ॥ ৪৬ ॥
+
+vipra kahe, śloke nāhi doṣera prakāśa  
+the brāhmaṇa  says,  in the verse  not  of fault  appearance  
+upamālaṅkāra-guṇa, kichu anuprāsa  
+of the ornament of simile  the merit,  some  alliteration
+
+(46) The brāhmaṇa said, “No fault appears in it. Its merits are the ornament of simile and some alliteration.”[^16]
+
+প্রভু কহেন, — কহি, যদি না করহ রোষ ৷  
+কহ তোমার এই শ্লোকে কিবা আছে দোষ ॥ ৪৭ ॥
+
+prabhu kahena, — kahi, yadi nā karaha roṣa  
+the Lord  says —  I shall speak,  if  not  you become  angry  
+kaha tomāra ei śloke kibā āche doṣa  
+tell  your  in this  verse  what  there is  fault
+
+(47) The Lord said, “May I say something, if you will not be angry? Tell Me what faults there are in this verse of yours.
+
+প্রতিভার বাক্য তোমার দেবতা সন্তোষে ৷  
+ভালমতে বিচারিলে জানি’ গুণ-দোষে ॥ ৪৮ ॥
+
+pratibhāra vākya tomāra devatā santoṣe  
+of genius  the words  your  the gods  please  
+bhāla-mate vicārile jāni’ guṇa-doṣe  
+well  if examined  are known  merits and faults
+
+(48) “Your words, full of genius, please even the gods; yet if they are examined well, both merits and faults come to light.[^17]
+
+তাতে ভাল করি’ শ্লোক করহ বিচার ৷  
+কবি কহে, — যে কহিলে সেই বেদসার ॥ ৪৯ ॥
+
+tāte bhāla kari’ śloka karaha vicāra  
+therefore  well  doing  the verse  make  examination  
+kavi kahe, — ye kahile sei veda-sāra  
+the poet  says —  what  You recited  that  the essence of the Veda
+
+(49) “So let us examine the verse carefully.” The poet replied, “The verse You have recited is the very essence of the Vedas.
+
+বৈয়াকরণ তুমি, নাহি পড় অলঙ্কার ৷  
+তুমি কি জানিবে এই কবিত্বের সার ॥ ৫০ ॥
+
+vaiyākaraṇa tumi, nāhi paḍa alaṅkāra  
+a grammarian  You,  not  have studied  poetics  
+tumi ki jānibe ei kavitvera sāra  
+You  what  will know  of this  poetry  the essence
+
+(50) “You are only a grammarian; You have not studied poetics. What can You know of the essence of this poetry?”[^18]
+
+প্রভু কহেন, — অতএব পুছিয়ে তোমারে ৷  
+বিচারিয়া গুণ-দোষ বুঝাহ আমারে ॥ ৫১ ॥
+
+prabhu kahena, — ataeva puchiye tomāre  
+the Lord  says —  therefore  I ask  you  
+vicāriyā guṇa-doṣa bujhāha āmāre  
+examining  the merits and faults  explain  to Me
+
+(51) The Lord said, “That is just why I ask you. Examine its merits and faults and explain them to Me.
+
+নাহি পড়ি অলঙ্কার, করিয়াছি শ্রবণ ৷  
+তাতে এই শ্লোকে দেখি বহু দোষ-গুণ ॥ ৫২ ॥
+
+nāhi paḍi alaṅkāra, kariyāchi śravaṇa  
+not  I have studied  poetics,  I have done  hearing  
+tāte ei śloke dekhi bahu doṣa-guṇa  
+thereby  in this  verse  I see  many  faults and merits
+
+(52) “I have not studied poetics, but I have heard it taught, and so I see many faults and merits in this verse.”
+
+কবি কহে, — কহ দেখি, কোন্ গুণ-দোষ ৷  
+প্রভু কহেন, — কহি, শুন, না করিহ রোষ ॥ ৫৩ ॥
+
+kavi kahe, — kaha dekhi, kon guṇa-doṣa  
+the poet  says —  tell,  let us see,  which  merits and faults  
+prabhu kahena, — kahi, śuna, nā kariha roṣa  
+the Lord  says —  I tell,  listen,  not  become  angry
+
+(53) “Come, then,” said the poet, “tell me — what merits and faults?” The Lord replied, “I shall tell you; listen, and do not be angry.
+
+পঞ্চ দোষ এই শ্লোকে পঞ্চ অলঙ্কার ৷  
+ক্রমে আমি কহি, শুন, করহ বিচার ॥ ৫৪ ॥
+
+pañca doṣa ei śloke pañca alaṅkāra  
+five  faults  in this  verse,  five  ornaments  
+krame āmi kahi, śuna, karaha vicāra  
+in order  I  tell,  listen,  make  judgement
+
+(54) “In this verse there are five faults and five ornaments. I shall name them in order; listen, and judge for yourself.
+
+‘অবিমৃষ্ট-বিধেয়াংশ’ — দুই ঠাঞি চিহ্ন ৷  
+‘বিরুদ্ধমতি’, ভগ্নক্রম’, ‘পুনরাত্ত’, দোষ তিন ॥ ৫৫ ॥
+
+‘avimṛṣṭa-vidheyāṁśa’ — dui ṭhāñi cihna  
+‘the predicate ill placed’ —  in two  places  the mark  
+‘viruddha-mati’, bhagna-krama’, ‘punar-ātta’, doṣa tina  
+‘the contradictory sense’,  ‘the broken order’,  ‘the resumed sentence’,  faults  three
+
+(55) “In two places the predicate is badly placed, and there are three more faults: a contradictory sense, a broken order, and a return to a finished sentence.[^19]
+
+‘গঙ্গার মহত্ত্ব’ — শ্লোকে মূল ‘বিধেয়’ ৷  
+ইদং শব্দে ‘অনুবাদ’ — পাছে অভিধেয় ॥ ৫৬ ॥
+
+‘gaṅgāra mahattva’ — śloke mūla ‘vidheya’  
+‘of the Gaṅgā  the greatness’ —  in the verse  the main  ‘predicate’  
+idaṁ śabde ‘anuvāda’ — pāche abhidheya  
+by the word ‘idam’  the ‘subject’ —  afterwards  is expressed
+
+(56) “In this verse the main predicate is ‘the greatness of the Gaṅgā’, while the subject, expressed by the word *idam*, ‘this’, comes after it.[^20]
+
+‘বিধেয়’ আগে কহি’ পাছে কহিলা ‘অনুবাদ’ ৷  
+এই লাগি’ শ্লোকের অর্থ করিয়াছে বাদ ॥ ৫৭ ॥
+
+‘vidheya’ āge kahi’ pāche kahilā ‘anuvāda’  
+the ‘predicate’  first  having said,  afterwards  you said  the ‘subject’  
+ei lāgi’ ślokera artha kariyāche vāda  
+for this  reason  of the verse  the meaning  has become  lost
+
+(57) “You stated the predicate first and the subject afterwards, and so the meaning of the verse has suffered.[^21]
+
+অনুবাদমনুক্ত্বৈব ন বিধেয়মুদীরয়েৎ ৷  
+ন হ্যলব্ধাস্পদং কিঞ্চিৎ কুত্রচিৎ প্রতিতিষ্ঠতি ॥ ৫৮ ॥
+
+anuvādam anuktvaiva  
+the subject  not having stated  indeed  
+na vidheyam udīrayet  
+not  the predicate  one should utter  
+na hy alabdhāspadaṁ kiñcit  
+not  indeed  without a footing  anything  
+kutracit pratitiṣṭhati  
+anywhere  stands
+
+(58) ‘One should not state the predicate without first stating the subject; for nothing that has not found its footing can stand anywhere.’ (Ekādaśī-tattva, 13)[^22]
+
+‘দ্বিতীয়-শ্রীলক্ষ্মী’ — ইঁহা ‘দ্বিতীয়ত্ব’ বিধেয় ৷  
+সমাসে গৌণ হৈল, শব্দার্থ গেল ক্ষয় ॥ ৫৯ ॥
+
+‘dvitīya-śrī-lakṣmī’ — im̐hā ‘dvitīyatva’ vidheya  
+‘a second  Śrī Lakṣmī’ —  here  ‘being second’  the predicate  
+samāse gauṇa haila, śabdārtha gela kṣaya  
+in the compound  subordinate  it became,  the word’s meaning  went  to ruin
+
+(59) “In *dvitīya-śrī-lakṣmī*, ‘a second Śrī Lakṣmī’, the predicate is ‘being second’; but in the compound it has become subordinate, and the meaning of the word is lost.[^23]
+
+‘দ্বিতীয়’ শব্দ — বিধেয়, তাহা পড়িল সমাসে ৷  
+‘লক্ষ্মীর সমতা’ অর্থ করিল বিনাশে ॥ ৬০ ॥
+
+‘dvitīya’ śabda — vidheya, tāhā paḍila samāse  
+‘second’  the word —  the predicate,  it  fell  into the compound  
+‘lakṣmīra samatā’ artha karila vināśe  
+‘equality with Lakṣmī’  the meaning  it made  destroyed
+
+(60) “The word *dvitīya* is the predicate, but it has fallen into a compound, and so the point — that the Gaṅgā is equal to Lakṣmī — is destroyed.
+
 ---
 
 [^1]: A play on words: *nīca-gā* means both “flowing downward” and “going to the lowly”. *Anubhāṣya*: the Lord’s mercy is always turned towards the humble and destitute, who have neither wealth nor greatness.
@@ -335,3 +645,27 @@ the *digvijayī*  speaks  in his mind  disdain  holding
 [^10]: *Amṛta-pravāha-bhāṣya*: there is a reading “with the net of truth” (*tattva-jāle*): “Who is whose husband, who is whose son, who is whose wife?” — casting such a net of true knowledge, the Lord relieved Śacī’s grief.
 
 [^11]: Heading in the edition: “Marriage to Śrī Viṣṇupriyā, daughter of the royal paṇḍita Sanātana, and the defeat of Keśava Kāśmīrī.” *Anubhāṣya*: the *digvijayī* was the paṇḍita Keśava of Kashmir. He travelled through India conquering scholars by his genius and was defeated in Navadvīpa by Śrī Gaurasundara. Having learned the truth about Mahāprabhu, he entered the Nimbārka sampradāya for the sake of devotion and wrote the *Kaustubha-prabhā*, a gloss on Śrīnivāsācārya’s *Vedānta-kaustubha*, the commentary on Nimbārka’s *Pārijāta-bhāṣya*.
+
+[^12]: *Anubhāṣya*: “the children’s science” is grammar, for before studying any śāstra one customarily learns grammar in order to know the language.
+
+[^13]: *Amṛta-pravāha-bhāṣya*: the Lord teaches the *Kalāpa* grammar, and His students hold discussions on its *phāṅki* — its intricate and puzzling questions.
+
+[^14]: A *ghaṭī* (*ghaṭikā*) is a measure of time of twenty-four minutes.
+
+[^15]: Heading in the edition: “Keśava Kāśmīrī’s verse on the greatness of the Gaṅgā.” *Anubhāṣya*: *subhagā* — possessed of a splendid fortune, since she was born from the Lord’s lotus feet; *dvitīya-śrī-lakṣmīr iva* — like a second Kamalā (Lakṣmī), full of beauty; *bhavānī-bhartuḥ* — of the husband of Bhavānī, that is, of Śiva; therefore the Gaṅgā is endowed with wondrous qualities.
+
+[^16]: *Amṛta-pravāha-bhāṣya*: simile (*upamā*) is a poetic ornament (*alaṅkāra*); alliteration (*anuprāsa*) is the verbal art shown by setting many *bha*s close together in the last line.
+
+[^17]: *Amṛta-pravāha-bhāṣya*: *pratibhā*, genius, is the power of mind that arranges words in ever new ways; in this verse you have shown it and pleased even the gods, but on careful examination both merits and faults appear.
+
+[^18]: *Amṛta-pravāha-bhāṣya*: a grammarian is versed only in the elementary science and cannot judge poetics (*alaṅkāra-śāstra*) and other śāstras.
+
+[^19]: The names of the faults (*doṣa*) in the original: *avimṛṣṭa-vidheyāṁśa*, “the predicate not duly considered”, that is, what is asserted about the subject is badly placed (vv. 56–61); *viruddha-mati-kṛt*, “that which suggests a contradictory sense” (vv. 62–65); *punar-ātta*, “taken up again”: a return to a sentence already completed by its verb (v. 66); *bhagna-krama*, “broken order” (v. 67).
+
+[^20]: *Vidheya*, the predicate, is what is asserted about a thing, the new matter for the hearer; *anuvāda*, the subject, is the thing itself, already known. *Amṛta-pravāha-bhāṣya*: in the verse the main predicate is the greatness of the Gaṅgā and the subject is the word *idam*; to write “the greatness of the Gaṅgā” first and *idam* after it is against the rule.
+
+[^21]: *Amṛta-pravāha-bhāṣya*: if the subject is not stated first, the meaning is impaired.
+
+[^22]: Heading in the edition: “Thus a maxim cited in the *Ekādaśī-tattva*.” The same verse is quoted in Ādi 2.74 (there *anuktvā tu*, here *anuktvaiva*, with the same meaning).
+
+[^23]: *Amṛta-pravāha-bhāṣya*: the purpose of these words is to show that the Gaṅgā is equal to Lakṣmī; but “second”, the predicate, was put into a compound (*samāsa*), became secondary, and that meaning perished.
