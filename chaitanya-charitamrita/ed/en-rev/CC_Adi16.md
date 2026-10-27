@@ -610,7 +610,7 @@ anywhere  stands
 samāse gauṇa haila, śabdārtha gela kṣaya  
 in the compound  subordinate  it became,  the word’s meaning  went  to ruin
 
-(59) “In *dvitīya-śrī-lakṣmī*, ‘a second Śrī Lakṣmī’, the predicate is ‘being second’; but in the compound it has become subordinate, and the meaning of the word is lost.[^23]
+(59) “In *dvitīya-śrī-lakṣmī*, ‘a second Śrī Lakṣmī’, the predicate is ‘being second’; but in the compound it has become secondary, and the meaning of the word is lost.[^23]
 
 ‘দ্বিতীয়’ শব্দ — বিধেয়, তাহা পড়িল সমাসে ৷  
 ‘লক্ষ্মীর সমতা’ অর্থ করিল বিনাশে ॥ ৬০ ॥
@@ -650,7 +650,7 @@ by the word Bhavānī  is meant  of Mahādeva  the wife
 tām̐ra bhartā kahilā dvitīya bhartā jāni’  
 her  husband  you named —  a second  husband  is understood
 
-(63) “The word *Bhavānī* means the wife of Mahādeva. When you name her husband, one understands that she has a second husband.
+(63) “The word *Bhavānī* means the wife of Mahādeva. When you name her husband, it sounds as if she had another husband.
 
 ‘শিবপত্নীর ভর্ত্তা — ইহা শুনিতে বিরুদ্ধ ৷  
 ‘বিরুদ্ধমতিকৃৎ’-শব্দ শাস্ত্রে নহে শুদ্ধ ॥ ৬৪ ॥
@@ -754,7 +754,7 @@ verbal ornament —  in three lines  there is  alliteration
 ‘śrī-lakṣmī’ śabde ‘punar-uktavad-ābhāsa’  
 in the words ‘śrī-lakṣmī’  ‘the seeming repetition’
 
-(73) “The verbal ornaments are the alliteration in three lines and the seeming repetition (*punar-uktavad-ābhāsa*) in the words *śrī-lakṣmī*.
+(73) “The first verbal ornament is the alliteration in three lines; the second is the seeming repetition (*punar-uktavad-ābhāsa*) in the words *śrī-lakṣmī*.
 
 প্রথম-চরণে পঞ্চ ‘ত’-কারের পাঁতি ৷  
 তৃতীয়-চরণে হয় পঞ্চ ‘রেফ’-স্থিতি ॥ ৭৪ ॥
@@ -794,7 +794,7 @@ a repetition  almost  it seems,  is not  a repetition
 punar-uktavad-ābhāsa, śabdālaṅkāra-bheda  
 seeming repetition,  of verbal ornament  a kind
 
-(77) “Taken as ‘Lakṣmī endowed with beauty (*śrī*)’, the two words differ in meaning. This seeming repetition is a kind of verbal ornament.
+(77) “For if *śrī-lakṣmī* is taken as ‘Lakṣmī endowed with beauty (*śrī*)’, the two words differ in meaning; and this seeming repetition is a kind of verbal ornament.
 
 ‘লক্ষ্মীরিব’ অর্থালঙ্কার — উপমা-প্রকাশ ৷  
 আর অর্থালঙ্কার আছে, নাম — ‘বিরোধাভাস’ ॥ ৭৮ ॥
@@ -968,7 +968,7 @@ of the śāstras  the analysis  good or bad  not  I know
 sarasvatī ye balāya, sei bali vāṇī  
 Sarasvatī  what  makes Me say,  those  I speak  words
 
-(94) “I do not know whether My analysis of the śāstras is good or bad. I only speak the words that Sarasvatī makes Me speak.”
+(94) “Whether My analysis of the śāstras is good or bad, I Myself do not know. I only speak the words that Sarasvatī makes Me speak.”
 
 ইহা শুনি’ দিগ্বিজয়ী করিল নিশ্চয় ৷  
 শিশুদ্বারে দেবী মোরে কৈল পরাজয় ॥ ৯৫ ॥
@@ -1128,7 +1128,7 @@ of Caitanya Gosāñi  the pastimes —  of nectar  a stream
 sarvendriya tṛpti haya śravaṇe yāhāra  
 of all the senses  satisfaction  comes  in hearing  of which
 
-(110) The pastimes of Caitanya Gosāñi are a stream of nectar; hearing them brings satisfaction to all the senses.
+(110) The pastimes of Caitanya Gosāñi are a stream of nectar: whoever hears them finds every sense fully satisfied.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১১১ ॥

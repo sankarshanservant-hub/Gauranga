@@ -327,7 +327,7 @@ fn: Heading in the edition: “Thus a maxim cited in the *Ekādaśī-tattva*.”
 ## 59
 w: ‘a second  Śrī Lakṣmī’ —  here  ‘being second’  the predicate
 w: in the compound  subordinate  it became,  the word’s meaning  went  to ruin
-tr: “In *dvitīya-śrī-lakṣmī*, ‘a second Śrī Lakṣmī’, the predicate is ‘being second’; but in the compound it has become subordinate, and the meaning of the word is lost.
+tr: “In *dvitīya-śrī-lakṣmī*, ‘a second Śrī Lakṣmī’, the predicate is ‘being second’; but in the compound it has become secondary, and the meaning of the word is lost.
 fn: *Amṛta-pravāha-bhāṣya*: the purpose of these words is to show that the Gaṅgā is equal to Lakṣmī; but “second”, the predicate, was put into a compound (*samāsa*), became secondary, and that meaning perished.
 
 ## 60
@@ -348,7 +348,7 @@ tr: “With great satisfaction you used the words *bhavānī-bhartuḥ*, ‘of B
 ## 63
 w: by the word Bhavānī  is meant  of Mahādeva  the wife
 w: her  husband  you named —  a second  husband  is understood
-tr: “The word *Bhavānī* means the wife of Mahādeva. When you name her husband, one understands that she has a second husband.
+tr: “The word *Bhavānī* means the wife of Mahādeva. When you name her husband, it sounds as if she had another husband.
 
 ## 64
 w: ‘of Śiva’s wife  the husband’ —  this  to hear  contradictory
@@ -402,7 +402,7 @@ tr: “Now hear the analysis of the five ornaments: two are verbal ornaments and
 ## 73
 w: verbal ornament —  in three lines  there is  alliteration
 w: in the words ‘śrī-lakṣmī’  ‘the seeming repetition’
-tr: “The verbal ornaments are the alliteration in three lines and the seeming repetition (*punar-uktavad-ābhāsa*) in the words *śrī-lakṣmī*.
+tr: “The first verbal ornament is the alliteration in three lines; the second is the seeming repetition (*punar-uktavad-ābhāsa*) in the words *śrī-lakṣmī*.
 
 ## 74
 w: in the first  line  five  ‘ta’-sounds  a row
@@ -422,7 +422,7 @@ tr: “The words *śrī* and *lakṣmī* name one and the same thing; it seems a
 ## 77
 w: ‘Lakṣmī  endowed with śrī’  in the sense  of the meanings  a difference
 w: seeming repetition,  of verbal ornament  a kind
-tr: “Taken as ‘Lakṣmī endowed with beauty (*śrī*)’, the two words differ in meaning. This seeming repetition is a kind of verbal ornament.
+tr: “For if *śrī-lakṣmī* is taken as ‘Lakṣmī endowed with beauty (*śrī*)’, the two words differ in meaning; and this seeming repetition is a kind of verbal ornament.
 
 ## 78
 w: ‘lakṣmīr iva’  ornament of meaning —  of simile  the appearance
@@ -512,7 +512,7 @@ tr: Hearing this, Mahāprabhu, who dearly loved a jest, read his heart and answe
 ## 94
 w: of the śāstras  the analysis  good or bad  not  I know
 w: Sarasvatī  what  makes Me say,  those  I speak  words
-tr: “I do not know whether My analysis of the śāstras is good or bad. I only speak the words that Sarasvatī makes Me speak.”
+tr: “Whether My analysis of the śāstras is good or bad, I Myself do not know. I only speak the words that Sarasvatī makes Me speak.”
 
 ## 95
 w: this  hearing  the *digvijayī*  made  conclusion
@@ -594,7 +594,7 @@ tr: Vṛndāvana dāsa has described all these pastimes; what little I have done
 ## 110
 w: of Caitanya Gosāñi  the pastimes —  of nectar  a stream
 w: of all the senses  satisfaction  comes  in hearing  of which
-tr: The pastimes of Caitanya Gosāñi are a stream of nectar; hearing them brings satisfaction to all the senses.
+tr: The pastimes of Caitanya Gosāñi are a stream of nectar: whoever hears them finds every sense fully satisfied.
 
 ## 111
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
