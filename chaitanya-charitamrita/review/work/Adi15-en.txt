@@ -1,0 +1,102 @@
+# English translation, Ādi-līlā 15 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: A Brief Description of the Boyhood Pastimes
+
+## 1
+w: one of evil mind  goodness of mind  surely
+w: attains  at whose  lotus feet
+w: of flowers  by the offering  merely
+w: to that  Caitanya Prabhu  I worship
+tr: “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even one whose mind is evil gains a good mind.” (Hari-bhakti-vilāsa, 7.1)
+fn: A play on words: *sumanas* means both “flower” and “good mind”. Heading in the edition: “By the worship of Gaura even the evil-minded gain a good mind.” *Anubhāṣya*: an evil mind is one absorbed in anything other than Kṛṣṇa; a good mind is free of other desires, uncovered by knowledge and karma, and wholly given to the service of Kṛṣṇa.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: of the boyhood  pastimes  an outline  I make  enumeration
+w: in the boyhood  years  the Lord’s  chief (pastime)  study
+tr: Now I shall give a brief account of the Lord’s boyhood pastimes. In those years His chief occupation was study.
+fn: *Anubhāṣya* (on 15.4): *paugaṇḍa*, boyhood, is the period from the fifth year of life to the tenth. Heading in the edition: “Among the boyhood pastimes, study is the chief.”
+
+## 4
+w: the boyhood  pastimes  of Caitanya-
+w: Kṛṣṇa  very extensive
+w: with the beginning of learning  as their start  hand-
+w: taking (marriage)  as their end  enchanting
+tr: “The boyhood pastimes of Caitanya-Kṛṣṇa are vast and enchanting. They begin with His first lessons and end with His marriage.”
+fn: *Anubhāṣya*: Caitanya-Kṛṣṇa is Viśvambhara, the Lord whose form is one with Rādhā and Kṛṣṇa.
+
+## 5
+w: Gaṅgādāsa  Paṇḍita’s  at the place  He studies  grammar
+w: by hearing  merely  in His throat  He held  the sūtras and commentaries  all
+tr: He studied grammar with Gaṅgādāsa Paṇḍita, and as soon as He heard the sūtras and their commentaries, He knew them all by heart.
+fn: *Amṛta-pravāha-bhāṣya*: the Lord first received His elementary schooling from Viṣṇu and Sudarśana, and then studied grammar with Gaṅgādāsa Paṇḍita.
+
+## 6
+w: in a short time  He became  in the Pañjī-ṭīkā  expert
+w: of long standing  the students  He defeats  being  new
+tr: Within a short time He mastered the *Pañjī-ṭīkā*, and, young as He was, He defeated students who had studied for years.
+fn: *Amṛta-pravāha-bhāṣya*: the *Pañjī-ṭīkā* was a well-known commentary on grammar, and Mahāprabhu wrote His own notes (*ṭippanī*) on it.
+
+## 7
+w: of study  the pastimes  of the Lord  Vṛndāvana dāsa
+w: in the ‘Caitanya-maṅgala’  made  detailed  description
+tr: Vṛndāvana dāsa has described the Lord’s pastimes of study in detail in the *Caitanya-maṅgala*.
+fn: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). *Anubhāṣya*: see *Caitanya-bhāgavata*, Ādi 4 and 6–10.
+
+## 8
+w: one  day  at His mother’s  feet  making  obeisance
+w: the Lord  says  —  Mother,  to Me  give  one  gift
+tr: One day the Lord bowed at His mother’s feet and said, “Mother, grant Me one gift.”
+
+## 9
+w: the mother  says  —  that  I will give  whatever  You  will ask
+w: the Lord  says  —  on Ekādaśī  grain  not  you will eat
+tr: His mother said, “I will give You whatever You ask.” And the Lord said, “Do not eat grain on Ekādaśī.”
+fn: *Anubhāṣya*: in the *Bhakti-sandarbha* (299) Śrī Jīva Gosvāmī cites the *Skanda Purāṇa* and the *Agni Purāṇa*: to eat on Ekādaśī is a grave sin, and the fast on that day is the great vow of the Vaiṣṇavas, binding even on those who are not Vaiṣṇavas. Vaiṣṇavas never eat anything but *mahā-prasāda*, and so for them the Ekādaśī fast means giving up grains, even as *mahā-prasāda*.
+
+## 10
+w: Śacī  says  —  not  I will eat,  well indeed  You have spoken
+w: from then on  Ekādaśī  to observe  she began
+tr: Śacī said, “I will not eat it. You have spoken well.” And from that day on she observed Ekādaśī.
+
+## 11
+w: then  Miśra  of Viśvarūpa  seeing  the youth
+w: a bride  seeking,  marriage  to give  made  up his mind
+tr: Then Miśra, seeing that Viśvarūpa had come of age, resolved to find Him a bride and see Him married.
+
+## 12
+w: Viśvarūpa  hearing,  home  leaving  fled
+w: sannyāsa  taking,  pilgrimage  to make  He went
+tr: When Viśvarūpa heard of this, He left home and fled. He took sannyāsa and set out on pilgrimage to the holy places.
+
+## 13
+w: hearing,  of Śacī and Miśra  sorrowful  became  the hearts
+w: then  the Lord  mother and father  made  consolation
+tr: The news filled the hearts of Śacī and Miśra with sorrow, and the Lord set about consoling His mother and father.
+
+## 14
+w: good  it is  —  Viśvarūpa  sannyāsa  has taken
+w: the father’s line,  the mother’s line  —  both  He has delivered
+tr: “It is well that Viśvarūpa has taken sannyāsa: He has delivered both His father’s line and His mother’s.
+fn: Heading in the edition: “When a son takes sannyāsa for the worship of Kṛṣṇa, the lines of his mother and father are delivered.”
+
+## 15
+w: I  indeed  will do  of you  both  service
+w: hearing  content  became  of the father and mother  the hearts
+tr: “And I Myself will serve you both.” Hearing this, His father and mother were content at heart.
+
+## 16
+w: one day  offered  betel  having eaten
+w: to the ground  fell  the Lord  unconscious  becoming
+tr: One day, after chewing betel that had been offered to the Deity, the Lord fell to the ground unconscious.
+
+## 17
+w: in haste  father and mother  on His face  put  water
+w: recovering  tells  the Lord  a wondrous  tale
+tr: His father and mother hastily sprinkled water on His face, and when He came to Himself, the Lord told them a wondrous tale.
