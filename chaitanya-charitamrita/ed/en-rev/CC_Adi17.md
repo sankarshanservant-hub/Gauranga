@@ -36,7 +36,7 @@ of the youthful  pastimes  an outline  I have made  count
 yauvana-līlāra sūtra kari anukrama  
 of young manhood  of the pastimes  an outline  I make  in order
 
-(3) I have given an outline of the pastimes of His youth; now I shall outline, in order, the pastimes of His young manhood.
+(3) I have summed up the pastimes of His youth; now I shall outline, in order, those of His young manhood.
 
 বিদ্যা-সৌন্দর্য্য-সদ্বেশ-সম্ভোগ-নৃত্যকীর্ত্তনৈঃ ৷  
 প্রেমনামপ্রদানৈশ্চ গৌরো দীব্যতি যৌবনে ॥ ৪ ॥
@@ -50,7 +50,7 @@ love and the Name  by giving  and
 gauro dīvyati yauvane  
 Gaura  plays  in young manhood
 
-(4) “In His young manhood Gaura shone in His play: in learning, beauty and fine attire and their enjoyment, in dancing and kīrtana, and in giving away love and the holy name.”[^2]
+(4) “In His young manhood Gaura shone in His play — in learning and beauty, in fine attire and its enjoyments, in dance and kīrtana, and in the gift of love and the holy name.”[^2]
 
 যৌবন প্রবেশে অঙ্গের অঙ্গ বিভূষণ ৷  
 দিব্য বস্ত্র, দিব্য বেশ, মাল্য-চন্দন ॥ ৫ ॥
@@ -60,7 +60,7 @@ of young manhood  on the entry  of the body  the limbs  adorned
 divya vastra, divya veśa, mālya-candana  
 splendid  garments  splendid  dress  garlands and sandal
 
-(5) As He entered young manhood, ornaments graced every limb of His body, and He wore splendid garments and attire, garlands and sandal paste.
+(5) As He entered young manhood, ornaments graced every limb of His body, and He wore splendid clothes and finery, garlands and sandal paste.
 
 বিদ্যার ঔদ্ধত্যে কাঁহো না করে গণন ৷  
 সকল পণ্ডিত জিনি’ করে অধ্যাপন ॥ ৬ ॥
@@ -244,7 +244,7 @@ firmness  for the sake of  ‘harer nāma’  the words  three times
 jaḍa loka bujhāite punaḥ ‘eva’-kāra  
 dull  people  to make understand  again  the word ‘eva’
 
-(23) For firmness the words *harer nāma* are said three times, and the word *eva* is added again to make dull people understand.
+(23) For emphasis the words *harer nāma* are said three times, and the word *eva* is added again to make dull people understand.
 
 ‘কেবল’ শব্দে পুনরপি নিশ্চয়-করণ ৷  
 জ্ঞান-যোগ-তপ আদি কর্ম্ম নিবারণ ॥ ২৪ ॥
@@ -495,7 +495,7 @@ by village  relation  I  Your  maternal uncle
 bhāginā, mui kuṣṭha-vyādhite hañāchi vyākula  
 nephew  I  by leprosy  have become  tormented
 
-(48) “By village kinship I am Your maternal uncle. Nephew, I am tormented by leprosy.
+(48) “By village kinship I am Your maternal uncle. See, nephew, how leprosy torments me.
 
 লোক সব উদ্ধারিতে তোমার অবতার ৷  
 মুঞি বড় দুঃখী, মোরে করহ উদ্ধার ॥ ৪৯ ॥
@@ -515,7 +515,7 @@ this  hearing  of Mahāprabhu  became  angry  the mind
 krodhāveśe bale tāre tarjana-vacana  
 in a fit of anger  says  to him  threatening  words
 
-(50) Hearing this, Mahāprabhu grew angry, and in His anger He spoke threatening words to him:
+(50) Hearing this, Mahāprabhu grew angry and spoke threatening words to him:
 
 আরে পাপি, ভক্তদ্বেষি, তোরে না উদ্ধারিমু ৷  
 কোটিজন্ম এই মতে কীড়ায় খাওয়াইমু ॥ ৫১ ॥
@@ -682,7 +682,7 @@ a pretence  making  the path of knowledge  made  explanation
 krodhāveśe prabhu tāre kaila avajñāna  
 in anger  the Lord  to Him  showed  disregard
 
-(67) So, as a ploy, He began to expound the path of knowledge, and the Lord in anger treated Him without respect.
+(67) So the Ācārya, by design, began to expound the path of knowledge, and the Lord in anger treated Him with disrespect.
 
 তবে আচার্য্য-গোসাঞির আনন্দ হইল ৷  
 লজ্জিত হইয়া প্রভু প্রসাদ করিল ॥ ৬৮ ॥
@@ -776,7 +776,7 @@ not  Vedic study  austerity  renunciation
 yathā bhaktir mamorjitā  
 as  devotion  to Me  intense
 
-(76) (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation hold sway over Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)[^27]
+(76) (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation can win Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)[^27]
 
 মুরারিকে কহে প্রভু কৃষ্ণবশ কৈলা ৷  
 শুনিয়া মুরারি শ্লোক কহিতে লাগিলা ॥ ৭৭ ॥
@@ -840,7 +840,7 @@ hundred  two  fruits  the Lord  quickly  had picked
 prakṣālana kari’ kṛṣṇe bhoga lāgāila  
 washing  making  to Kṛṣṇa  offering  made
 
-(82) The Lord quickly had two hundred mangoes picked, washed them and offered them to Kṛṣṇa.
+(82) The Lord quickly picked two hundred mangoes, washed them and offered them to Kṛṣṇa.
 
 রক্ত-পীতবর্ণ, নাহি অষ্ঠি-বল্কল ৷  
 একজনের পেট ভরে খাইলে এক ফল ॥ ৮৩ ॥
@@ -930,7 +930,7 @@ reading  came  in the hymn  of Nṛsiṁha  the name
 śuniyā āviṣṭa hailā prabhu guṇadhāma  
 hearing  absorbed  became  the Lord  abode of virtues
 
-(91) As he read, the name of Nṛsiṁha came in the hymn, and hearing it, the Lord, the abode of all virtues, became absorbed in His mood.
+(91) As he read, the hymn came to the name of Nṛsiṁha, and hearing it, the Lord, the abode of all virtues, became absorbed in His mood.
 
 নৃসিংহ-আবেশে প্রভু হাতে গদা লঞা ৷  
 পাষণ্ডী মারিতে যায় নগরে ধাইয়া ॥ ৯২ ॥
@@ -1300,7 +1300,7 @@ again  if  kīrtana  doing  I find
 sarvasva daṇḍiyā tāra jāti ye laimu  
 all property  fining  his  caste  indeed  I shall take
 
-(128) But if I find anyone holding kīrtana again, I will fine him all he owns and take away his caste.”
+(128) But if I find anyone holding kīrtana again, I will take all he owns and strip him of his caste.”
 
 এত বলি’ কাজী গেল, — নগরিয়া লোক ৷  
 প্রভু-স্থানে নিবেদিল পাঞা বড় শোক ॥ ১২৯ ॥
@@ -1460,7 +1460,7 @@ from afar  came  the Kazi  his head  bowing
 kājīre vasāilā prabhu sammāna kariyā  
 the Kazi  seated  the Lord  honour  showing
 
-(144) The Kazi came with his head bowed from a distance, and the Lord received him with honour and gave him a seat.
+(144) The Kazi approached from a distance, his head bowed, and the Lord received him with honour and gave him a seat.
 
 প্রভু বলেন, — আমি তোমার আইলাম অভ্যাগত ৷  
 আমা দেখি’ লুকাইলা, — এ-ধর্ম্ম কেমত ॥ ১৪৫ ॥
@@ -1600,7 +1600,7 @@ Your  in the Vedas  there are  of cow-killing  statements
 ataeva go-vadha kare baḍa baḍa muni  
 therefore  cow-killing  did  great  great  sages
 
-(158) Your Vedas too speak of the killing of cows, and so the great sages killed cows.”
+(158) Your Vedas too speak of the killing of cows, and great sages did kill them.”
 
 প্রভু কহে, — বেদে কহে গোবধ নিষেধ ৷  
 অতএব হিন্দুমাত্র না করে গোবধ ॥ ১৫৯ ॥
@@ -1724,7 +1724,7 @@ invented  our  scripture  I  all  know
 jāti-anurodhe tabu sei śāstra māni  
 for my community’s sake  still  that  scripture  I accept
 
-(170) Our scripture is invented — I know it all; yet out of loyalty to my community I still accept it.”[^46]
+(170) Our scripture is invented — I know that well; yet out of loyalty to my community I still accept it.”[^46]
 
 সহজে যবন শাস্ত্রে অদৃঢ় বিচার ৷  
 হাসি’ তাহে মহাপ্রভু পুছেন আর বার ॥ ১৭১ ॥
@@ -1734,7 +1734,7 @@ naturally  in Yavana  scriptures  unsound  reasoning
 hāsi’ tāhe mahāprabhu puchena āra vāra  
 smiling  at that  Mahāprabhu  asks  once  again
 
-(171) Reasoning in the scriptures of the yavanas is by nature unsound. Smiling at this, Mahāprabhu asked him once more:[^47]
+(171) The reasoning of the yavanas’ scriptures is by nature unsound. Smiling, Mahāprabhu questioned him once more:[^47]
 
 আর এক প্রশ্ন করি, শুন, তুমি মামা ৷  
 যথার্থ কহিবে, ছলে না বঞ্চিবে আমা’ ॥ ১৭২ ॥
@@ -1764,7 +1764,7 @@ you  the Kazi  to oppose the Hindu religion  empowered
 ebe ye nā kara mānā bujhite nā pāri  
 now  that  not  you do  forbid  to understand  not  I can
 
-(174) You are the Kazi, with authority to oppose the Hindu religion; why you do not forbid it now, I cannot understand.”
+(174) You are the Kazi, with authority to oppose the Hindu religion; I cannot understand why you do not forbid it now.”
 
 কাজী বলে, — সবে তোমায় বলে ‘গৌরহরি’ ৷  
 সেই নামে আমি তোমায় সম্বোধন করি ॥ ১৭৫ ॥
@@ -1901,7 +1901,7 @@ the Kazi  says  this  I  to anyone  not  told
 sei dina eka āmāra piyādā āila  
 that  day  one  my  peon  came
 
-(188) The Kazi went on: “I have told this to no one. That same day one of my peons came to me[^49]
+(188) The Kazi went on: “I have told this to no one. That same day one of my men came to me[^49]
 
 আসি’ কহে, — গেলুঁ মুঞি কীর্ত্তন নিষেধিতে ৷  
 অগ্নি উল্কা মোর মুখে লাগে আচম্বিতে ॥ ১৮৯ ॥
@@ -1921,7 +1921,7 @@ was burnt  all  beard  on the face  were  blisters
 yei peyādā yāya, tāra ei vivaraṇa  
 whichever  peon  goes  his  this  account
 
-(190) My whole beard was burnt and my face was blistered.’ Every peon who went there told the same story.
+(190) My whole beard was burnt and my face was blistered.’ Every one of my men who went there told the same story.
 
 তাহা দেখি’ রহিনু মুঞি মহাভয় পাঞা ৷  
 কীর্ত্তন না বর্জ্জিয়া ঘরে রহোঁ ত’ বসিয়া ॥ ১৯১ ॥
@@ -1941,7 +1941,7 @@ then  indeed  in the town  will be  freely  kīrtana
 śuni’ saba mleccha āsi’ kaila nivedana  
 hearing  all  the mlecchas  coming  made  complaint
 
-(192) So kīrtana would now go on freely in the town. Hearing of it, all the Muslims came to me with a complaint:[^50]
+(192) So the kīrtana went on in the town unhindered; and hearing of it, all the Muslims came to me with a complaint:[^50]
 
 নগরে হিন্দুর ধর্ম্ম বাড়িল অপার ৷  
 ‘হরি’ ‘হরি’ ধ্বনি বই নাহি শুনি আর ॥ ১৯৩ ॥
@@ -2001,7 +2001,7 @@ the mleccha  says  at the Hindus  I  make  mockery
 keha keha — kṛṣṇadāsa, keha — rāmadāsa  
 some  some  Kṛṣṇadāsa  some  Rāmadāsa
 
-(198) One of them said, ‘I make fun of the Hindus. Some of them are Kṛṣṇadāsa, some Rāmadāsa,
+(198) One of them said, ‘I used to make fun of the Hindus. Some of them are called Kṛṣṇadāsa, some Rāmadāsa,
 
 কেহ — হরিদাস, সদা বলে ‘হরি’ ‘হরি’ ৷  
 জানি কার ঘরে ধন করিবেক চুরি ॥ ১৯৯ ॥
@@ -2011,7 +2011,7 @@ some  Haridāsa  always  say  Hari  Hari
 jāni kāra ghare dhana karibeka curi  
 I think  someone’s  in the house  wealth  they will  steal
 
-(199) some Haridāsa, and they are forever saying “Hari! Hari!” — I suppose they mean to steal someone’s wealth.[^52]
+(199) some Haridāsa, and they were forever saying “Hari! Hari!” — I thought they meant to steal someone’s wealth.[^52]
 
 সেই হৈতে জিহ্বা মোর বলে ‘হরি’ ‘হরি’ ৷  
 ইচ্ছা নাহি, তবু বলে, — কি উপায় করি ॥ ২০০ ॥
@@ -2058,7 +2058,7 @@ coming  they say  of the Hindus  religion  has broken  Nimāi
 ye kīrtana pravartāila, kabhu śuni nāi  
 which  kīrtana  He has started  ever  we heard  not
 
-(204) They said, ‘Nimāi has broken the Hindu religion. He has started a kīrtana the like of which we never heard.
+(204) They said, ‘Nimāi has broken the Hindu religion. He has started a kīrtana the like of which we have never heard.
 
 মঙ্গলচণ্ডী, বিষহরি করি জাগরণ ৷  
 তা’তে নৃত্য, গীত, বাদ্য, — যোগ্য আচরণ ॥ ২০৫ ॥
@@ -2158,7 +2158,7 @@ then  I  kind words  spoke  to all
 sabe ghare yāha, āmi niṣedhiba tāre  
 all  home  go  I  will forbid  Him
 
-(214) Then I spoke kindly to them all: ‘Go home, all of you. I will stop Him.’
+(214) Then I soothed them: ‘Go home, all of you. I will stop Him.’
 
 হিন্দুর ঈশ্বর বড় সেই নারায়ণ ৷  
 সেই তুমি হও, — হেন লয় মোর মন ॥ ২১৫ ॥
@@ -2388,7 +2388,7 @@ by the playing of the flute  of the gopīs  to the forest  drawing
 tām̐-sabāra saṅge yaiche vana-viharaṇa  
 with them all  how  roaming in the forest
 
-(237) how the sound of the flute drew the gopīs to the forest, and how Kṛṣṇa wandered through the forest with them all;
+(237) how the sound of the flute drew the gopīs to the forest, and how Kṛṣṇa wandered there with them all;
 
 তাহি মধ্যে ছয়-ঋতু লীলার বর্ণন ৷  
 মধুপান, রাসোৎসব, জলকেলি কথন ॥ ২৩৮ ॥
@@ -2508,7 +2508,7 @@ Kṛṣṇa’s name  not  You take  why  Kṛṣṇa’s name  blessed
 ‘gopī’ ‘gopī’ balile vā kibā haya puṇya  
 gopī  gopī  if one says  or  what  is  merit
 
-(249) “Why don’t You chant the name of Kṛṣṇa? Kṛṣṇa’s name is blessed. What merit is there in saying ‘Gopī! Gopī!’?”
+(249) “Why do You not chant the name of Kṛṣṇa? Kṛṣṇa’s name is blessed. What merit is there in saying ‘Gopī! Gopī!’?”
 
 শুনি’ প্রভু ক্রোধে কৈল কৃষ্ণে দোষোদ্গার ৷  
 ঠেঙ্গা লঞা উঠিলা প্রভু পড়ুয়া মারিবার ॥ ২৫০ ॥
@@ -2618,7 +2618,7 @@ all  the teachers  and  their  disciples
 dharmī, karmī, tapo-niṣṭha, nindaka, durjana  
 the dutiful  the workers for gain  the ascetics  the blasphemers  the wicked
 
-(260) “All these teachers and their disciples are men of ritual duty, of fruitive work and of austerity — blasphemers and wicked men.
+(260) “All these teachers and their disciples are given to ritual duty, fruitive work and austerity — yet they are blasphemers and wicked men.
 
 এই সব মোর নিন্দা-অপরাধ হৈতে ৷  
 আমি না লওয়াইলে ভক্তি, না পারে লইতে ॥ ২৬১ ॥
@@ -2788,7 +2788,7 @@ the gopīs’ mood  in which  the Lord  has taken  wholly
 vrajendra-nandane māne āpanāra kānta  
 the son of Vraja’s king  regards  one’s own  beloved
 
-(277) The Lord has wholly taken on the mood of the gopīs, in which the son of Vraja’s king is regarded as one’s own beloved.
+(277) The Lord has wholly taken on the gopīs’ mood, in which they hold the son of Vraja’s king as their own beloved.
 
 গোপিকা-ভাবের এই সুদৃঢ় নিশ্চয় ৷  
 ব্রজেন্দ্রনন্দন বিনা অন্যত্র না হয় ॥ ২৭৮ ॥
@@ -2924,7 +2924,7 @@ Rādhā  seeing  Kṛṣṇa  Her  a jest  to make
 sei catur-bhuja mūrti cāhena rākhite  
 that  four-armed  form  wishes  to keep
 
-(290) Seeing Rādhā, Kṛṣṇa wanted to keep that four-armed form, to play a jest on Her.
+(290) Seeing Rādhā, Kṛṣṇa wanted to keep that four-armed form, to tease Her as well.
 
 লুকাইলা দুই ভুজ রাধার অগ্রেতে ৷  
 বহু যত্ন কৈলা কৃষ্ণ, নারিল রাখিতে ॥ ২৯১ ॥
@@ -2990,7 +2990,7 @@ parental love  servitude  friendship  three  moods  full of
 sei nityānanda — kṛṣṇa-caitanya-sahāya  
 that  Nityānanda  Kṛṣṇa Caitanya’s  helper
 
-(296) Full of three moods — parental love, servitude and friendship — that Nityānanda is the helper of Kṛṣṇa Caitanya.[^76]
+(296) Filled with three moods — parental love, servitude and friendship — Nityānanda is the helper of Kṛṣṇa Caitanya.[^76]
 
 প্রেম ভক্তি দিয়া তেঁহো ভাসাল জগতে ৷  
 তাঁর চরিত্র-চিত্র লোকে না পারে বুঝিতে ॥ ২৯৭ ॥
@@ -3124,7 +3124,7 @@ wondrous  in Caitanya’s pastimes  whose  faith
 sei jana yāya caitanyera pada-pāśa  
 that  person  goes  Caitanya’s  feet  near
 
-(309) Whoever has faith in Caitanya’s wondrous pastimes comes to the feet of Caitanya.
+(309) Whoever has faith in Caitanya’s wondrous pastimes comes to His feet.
 
 প্রসঙ্গে কহিল এই সিদ্ধান্তের সার ৷  
 ইহা যেই শুনে, শুদ্ধভক্তি হয় তার ॥ ৩১০ ॥
@@ -3144,7 +3144,7 @@ written  of the book  if  I make  restatement
 tabe se granthera artha pāibe āsvāda  
 then  that  of the book  the meaning  will get  taste
 
-(311) If I restate what has been written in the book, then the reader will taste its meaning.
+(311) When I restate what the book has already told, the reader comes to taste its meaning.
 
 অতএব ভাগবতে ব্যাসের আচার ৷  
 কথা কহি’ অনুবাদ করে বার বার ॥ ৩১২ ॥

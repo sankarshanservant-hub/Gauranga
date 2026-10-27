@@ -21,20 +21,20 @@ tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra
 ## 3
 w: of the youthful  pastimes  an outline  I have made  count
 w: of young manhood  of the pastimes  an outline  I make  in order
-tr: I have given an outline of the pastimes of His youth; now I shall outline, in order, the pastimes of His young manhood.
+tr: I have summed up the pastimes of His youth; now I shall outline, in order, those of His young manhood.
 
 ## 4
 w: with learning  beauty  fine attire
 w: enjoyment  dancing and kīrtana
 w: love and the Name  by giving  and
 w: Gaura  plays  in young manhood
-tr: “In His young manhood Gaura shone in His play: in learning, beauty and fine attire and their enjoyment, in dancing and kīrtana, and in giving away love and the holy name.”
+tr: “In His young manhood Gaura shone in His play — in learning and beauty, in fine attire and its enjoyments, in dance and kīrtana, and in the gift of love and the holy name.”
 fn: *Anubhāṣya*: young manhood — once the fifteenth year was past; learning — knowledge of the supreme truth; enjoyment — of garments, garlands, sandal paste and the like; the Lord gave the name of Kṛṣṇa together with love (prema).
 
 ## 5
 w: of young manhood  on the entry  of the body  the limbs  adorned
 w: splendid  garments  splendid  dress  garlands and sandal
-tr: As He entered young manhood, ornaments graced every limb of His body, and He wore splendid garments and attire, garlands and sandal paste.
+tr: As He entered young manhood, ornaments graced every limb of His body, and He wore splendid clothes and finery, garlands and sandal paste.
 
 ## 6
 w: of learning  in the pride  anyone  not  does  regard
@@ -137,7 +137,7 @@ tr: In the age of Kali, Kṛṣṇa descends in the form of the holy name, and t
 ## 23
 w: firmness  for the sake of  ‘harer nāma’  the words  three times
 w: dull  people  to make understand  again  the word ‘eva’
-tr: For firmness the words *harer nāma* are said three times, and the word *eva* is added again to make dull people understand.
+tr: For emphasis the words *harer nāma* are said three times, and the word *eva* is added again to make dull people understand.
 
 ## 24
 w: ‘kevala’  by the word  once again  certainty  is made
@@ -264,7 +264,7 @@ tr: He sat under a tree at a ghāṭa on the Ganges, and one day, seeing the Lor
 ## 48
 w: by village  relation  I  Your  maternal uncle
 w: nephew  I  by leprosy  have become  tormented
-tr: “By village kinship I am Your maternal uncle. Nephew, I am tormented by leprosy.
+tr: “By village kinship I am Your maternal uncle. See, nephew, how leprosy torments me.
 
 ## 49
 w: people  all  to deliver  Your  descent
@@ -274,7 +274,7 @@ tr: You have descended to deliver all people, and I am in great misery. Deliver 
 ## 50
 w: this  hearing  of Mahāprabhu  became  angry  the mind
 w: in a fit of anger  says  to him  threatening  words
-tr: Hearing this, Mahāprabhu grew angry, and in His anger He spoke threatening words to him:
+tr: Hearing this, Mahāprabhu grew angry and spoke threatening words to him:
 
 ## 51
 w: O  sinner  hater of devotees  you  not  I shall deliver
@@ -361,7 +361,7 @@ tr: The Lord honoured Ācārya Gosāñi as His guru, and this made the Ācārya 
 ## 67
 w: a pretence  making  the path of knowledge  made  explanation
 w: in anger  the Lord  to Him  showed  disregard
-tr: So, as a ploy, He began to expound the path of knowledge, and the Lord in anger treated Him without respect.
+tr: So the Ācārya, by design, began to expound the path of knowledge, and the Lord in anger treated Him with disrespect.
 
 ## 68
 w: then  of Ācārya Gosāñi  joy  arose
@@ -413,7 +413,7 @@ w: not  wins  Me  yoga
 w: not  sāṅkhya  dharma  O Uddhava
 w: not  Vedic study  austerity  renunciation
 w: as  devotion  to Me  intense
-tr: (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation hold sway over Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)
+tr: (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation can win Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)
 fn: *Anubhāṣya*: yoga — restraint, observances, posture, breath control and the rest; sāṅkhya — the enumeration of the elements of existence taught by Kapila (*Amṛta-pravāha-bhāṣya*: knowledge that identifies the self with Brahman); dharma — varṇāśrama-dharma; renunciation — sannyāsa.
 
 ## 77
@@ -449,7 +449,7 @@ tr: As they watched, the tree began to bear fruit, and many mangoes ripened, to 
 ## 82
 w: hundred  two  fruits  the Lord  quickly  had picked
 w: washing  making  to Kṛṣṇa  offering  made
-tr: The Lord quickly had two hundred mangoes picked, washed them and offered them to Kṛṣṇa.
+tr: The Lord quickly picked two hundred mangoes, washed them and offered them to Kṛṣṇa.
 
 ## 83
 w: red and yellow  in colour  no  stone or skin
@@ -495,7 +495,7 @@ tr: One day the Lord told Śrīvāsa, “Read the great Thousand Names; I wish t
 ## 91
 w: reading  came  in the hymn  of Nṛsiṁha  the name
 w: hearing  absorbed  became  the Lord  abode of virtues
-tr: As he read, the name of Nṛsiṁha came in the hymn, and hearing it, the Lord, the abode of all virtues, became absorbed in His mood.
+tr: As he read, the hymn came to the name of Nṛsiṁha, and hearing it, the Lord, the abode of all virtues, became absorbed in His mood.
 
 ## 92
 w: in Nṛsiṁha’s mood  the Lord  in His hand  a club  taking
@@ -688,7 +688,7 @@ tr: Let no one hold kīrtana anywhere in the town. Today I forgive you and go ho
 ## 128
 w: again  if  kīrtana  doing  I find
 w: all property  fining  his  caste  indeed  I shall take
-tr: But if I find anyone holding kīrtana again, I will fine him all he owns and take away his caste.”
+tr: But if I find anyone holding kīrtana again, I will take all he owns and strip him of his caste.”
 
 ## 129
 w: this  saying  the Kazi  went  the townspeople
@@ -769,7 +769,7 @@ tr: Then Mahāprabhu sat down at his door and sent respectable men to call the K
 ## 144
 w: from afar  came  the Kazi  his head  bowing
 w: the Kazi  seated  the Lord  honour  showing
-tr: The Kazi came with his head bowed from a distance, and the Lord received him with honour and gave him a seat.
+tr: The Kazi approached from a distance, his head bowed, and the Lord received him with honour and gave him a seat.
 
 ## 145
 w: the Lord  says  I  your  have come  guest
@@ -841,7 +841,7 @@ tr: On the path of worldly engagement there is an injunction to kill cows, and i
 ## 158
 w: Your  in the Vedas  there are  of cow-killing  statements
 w: therefore  cow-killing  did  great  great  sages
-tr: Your Vedas too speak of the killing of cows, and so the great sages killed cows.”
+tr: Your Vedas too speak of the killing of cows, and great sages did kill them.”
 
 ## 159
 w: the Lord  says  in the Vedas  is said  cow-killing  forbidden
@@ -906,13 +906,13 @@ fn: *Anubhāṣya*: “recent” — new, arisen in time, not of divine origin l
 ## 170
 w: invented  our  scripture  I  all  know
 w: for my community’s sake  still  that  scripture  I accept
-tr: Our scripture is invented — I know it all; yet out of loyalty to my community I still accept it.”
+tr: Our scripture is invented — I know that well; yet out of loyalty to my community I still accept it.”
 fn: *Anubhāṣya*: “invented” — born of the mind, and therefore not eternal truth; “community” (*jāti*) — belonging to one’s own community and loyalty to it.
 
 ## 171
 w: naturally  in Yavana  scriptures  unsound  reasoning
 w: smiling  at that  Mahāprabhu  asks  once  again
-tr: Reasoning in the scriptures of the yavanas is by nature unsound. Smiling at this, Mahāprabhu asked him once more:
+tr: The reasoning of the yavanas’ scriptures is by nature unsound. Smiling, Mahāprabhu questioned him once more:
 fn: *Anubhāṣya*: unsound reasoning — such as can easily be refuted by argument.
 
 ## 172
@@ -929,7 +929,7 @@ tr: In your town there is saṅkīrtana all the time — the din of drums and so
 ## 174
 w: you  the Kazi  to oppose the Hindu religion  empowered
 w: now  that  not  you do  forbid  to understand  not  I can
-tr: You are the Kazi, with authority to oppose the Hindu religion; why you do not forbid it now, I cannot understand.”
+tr: You are the Kazi, with authority to oppose the Hindu religion; I cannot understand why you do not forbid it now.”
 
 ## 175
 w: the Kazi  says  all  You  call  Gaurahari
@@ -997,7 +997,7 @@ tr: So saying, the Kazi bared his chest, and all who heard and saw were amazed.
 ## 188
 w: the Kazi  says  this  I  to anyone  not  told
 w: that  day  one  my  peon  came
-tr: The Kazi went on: “I have told this to no one. That same day one of my peons came to me
+tr: The Kazi went on: “I have told this to no one. That same day one of my men came to me
 fn: *Anubhāṣya*: *piyādā* — a servant of the lowest rank, a messenger; in common speech, a *chaprasi*.
 
 ## 189
@@ -1008,7 +1008,7 @@ tr: and said, ‘I went to stop the kīrtana, and suddenly a tongue of fire stru
 ## 190
 w: was burnt  all  beard  on the face  were  blisters
 w: whichever  peon  goes  his  this  account
-tr: My whole beard was burnt and my face was blistered.’ Every peon who went there told the same story.
+tr: My whole beard was burnt and my face was blistered.’ Every one of my men who went there told the same story.
 
 ## 191
 w: that  seeing  remained  I  great fear  getting
@@ -1018,7 +1018,7 @@ tr: Seeing all this, I was seized with great fear; now I stay at home and do not
 ## 192
 w: then  indeed  in the town  will be  freely  kīrtana
 w: hearing  all  the mlecchas  coming  made  complaint
-tr: So kīrtana would now go on freely in the town. Hearing of it, all the Muslims came to me with a complaint:
+tr: So the kīrtana went on in the town unhindered; and hearing of it, all the Muslims came to me with a complaint:
 fn: *Anubhāṣya* gives the definition: “One who eats beef, says much that is contrary to the Vedas and is devoid of all good conduct is called a *mleccha*.”
 
 ## 193
@@ -1050,12 +1050,12 @@ tr: But you are Muslims: why do you take the name of the Hindus’ God all the t
 ## 198
 w: the mleccha  says  at the Hindus  I  make  mockery
 w: some  some  Kṛṣṇadāsa  some  Rāmadāsa
-tr: One of them said, ‘I make fun of the Hindus. Some of them are Kṛṣṇadāsa, some Rāmadāsa,
+tr: One of them said, ‘I used to make fun of the Hindus. Some of them are called Kṛṣṇadāsa, some Rāmadāsa,
 
 ## 199
 w: some  Haridāsa  always  say  Hari  Hari
 w: I think  someone’s  in the house  wealth  they will  steal
-tr: some Haridāsa, and they are forever saying “Hari! Hari!” — I suppose they mean to steal someone’s wealth.
+tr: some Haridāsa, and they were forever saying “Hari! Hari!” — I thought they meant to steal someone’s wealth.
 fn: *Amṛta-pravāha-bhāṣya*: the Muslim mocked them thus: “Some of you are Kṛṣṇadāsas, some Rāmadāsas and Haridāsas, and you keep saying ‘Hari! Hari!’ — but *hari* also means ‘I steal’, so you must be planning to rob someone.” From the day he made this jest, his tongue has been saying “Hari! Hari!” against his will.
 
 ## 200
@@ -1080,7 +1080,7 @@ fn: *Anubhāṣya*: the *pāṣaṇḍīs* are those sunk in ritual (*karma-ja�
 ## 204
 w: coming  they say  of the Hindus  religion  has broken  Nimāi
 w: which  kīrtana  He has started  ever  we heard  not
-tr: They said, ‘Nimāi has broken the Hindu religion. He has started a kīrtana the like of which we never heard.
+tr: They said, ‘Nimāi has broken the Hindu religion. He has started a kīrtana the like of which we have never heard.
 
 ## 205
 w: Maṅgala-caṇḍī  Viṣahari  doing  night vigil
@@ -1132,7 +1132,7 @@ tr: You are the lord of this place, and all its people are yours. Summon Nimāi 
 ## 214
 w: then  I  kind words  spoke  to all
 w: all  home  go  I  will forbid  Him
-tr: Then I spoke kindly to them all: ‘Go home, all of you. I will stop Him.’
+tr: Then I soothed them: ‘Go home, all of you. I will stop Him.’
 
 ## 215
 w: of the Hindus  God  great  that  Nārāyaṇa
@@ -1252,7 +1252,7 @@ tr: Again and again the Lord said, “Tell Me! Tell Me!”, and again and again 
 ## 237
 w: by the playing of the flute  of the gopīs  to the forest  drawing
 w: with them all  how  roaming in the forest
-tr: how the sound of the flute drew the gopīs to the forest, and how Kṛṣṇa wandered through the forest with them all;
+tr: how the sound of the flute drew the gopīs to the forest, and how Kṛṣṇa wandered there with them all;
 
 ## 238
 w: of that  within  of the six seasons  the pastimes  description
@@ -1316,7 +1316,7 @@ tr: A student came to see the Lord and, hearing Him call “Gopī! Gopī!”, be
 ## 249
 w: Kṛṣṇa’s name  not  You take  why  Kṛṣṇa’s name  blessed
 w: gopī  gopī  if one says  or  what  is  merit
-tr: “Why don’t You chant the name of Kṛṣṇa? Kṛṣṇa’s name is blessed. What merit is there in saying ‘Gopī! Gopī!’?”
+tr: “Why do You not chant the name of Kṛṣṇa? Kṛṣṇa’s name is blessed. What merit is there in saying ‘Gopī! Gopī!’?”
 
 ## 250
 w: hearing  the Lord  in anger  made  against Kṛṣṇa  reproaches
@@ -1373,7 +1373,7 @@ tr: The all-knowing Lord knew their plight, and sitting at home He pondered how 
 ## 260
 w: all  the teachers  and  their  disciples
 w: the dutiful  the workers for gain  the ascetics  the blasphemers  the wicked
-tr: “All these teachers and their disciples are men of ritual duty, of fruitive work and of austerity — blasphemers and wicked men.
+tr: “All these teachers and their disciples are given to ritual duty, fruitive work and austerity — yet they are blasphemers and wicked men.
 
 ## 261
 w: these  all  My  blasphemy-offence  because of
@@ -1464,7 +1464,7 @@ fn: *Anubhāṣya* on 276–278: Śrī Gaurasundara is Kṛṣṇa clothed in th
 ## 277
 w: the gopīs’ mood  in which  the Lord  has taken  wholly
 w: the son of Vraja’s king  regards  one’s own  beloved
-tr: The Lord has wholly taken on the mood of the gopīs, in which the son of Vraja’s king is regarded as one’s own beloved.
+tr: The Lord has wholly taken on the gopīs’ mood, in which they hold the son of Vraja’s king as their own beloved.
 
 ## 278
 w: of the gopīs’ mood  this  very firm  certainty
@@ -1532,7 +1532,7 @@ tr: With these words they bowed and went away, and just then Rādhā came into v
 ## 290
 w: Rādhā  seeing  Kṛṣṇa  Her  a jest  to make
 w: that  four-armed  form  wishes  to keep
-tr: Seeing Rādhā, Kṛṣṇa wanted to keep that four-armed form, to play a jest on Her.
+tr: Seeing Rādhā, Kṛṣṇa wanted to keep that four-armed form, to tease Her as well.
 
 ## 291
 w: hid  two  arms  of Rādhā  before
@@ -1565,7 +1565,7 @@ tr: He who was Nanda’s son is here Caitanya Gosāñi; He who was Baladeva is h
 ## 296
 w: parental love  servitude  friendship  three  moods  full of
 w: that  Nityānanda  Kṛṣṇa Caitanya’s  helper
-tr: Full of three moods — parental love, servitude and friendship — that Nityānanda is the helper of Kṛṣṇa Caitanya.
+tr: Filled with three moods — parental love, servitude and friendship — Nityānanda is the helper of Kṛṣṇa Caitanya.
 fn: *Anubhāṣya* on 296–301: these verses show how varied are the wondrous moods of service to Gaura in Nityānanda, Advaita and the others. It quotes the *Gaura-gaṇoddeśa-dīpikā* (11–16): Gauracandra is the son of Nanda in the form of a devotee; Nityānanda is Halāyudha (Balarāma) in the guise of a devotee; Advaita is Sadāśiva, the incarnation as a devotee; Śrīvāsa and the others are devotees; Gadādhara is the devotee-potency (cf. Ādi 7.6).
 
 ## 297
@@ -1639,7 +1639,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the mark of the inconceivable is that it lies 
 ## 309
 w: wondrous  in Caitanya’s pastimes  whose  faith
 w: that  person  goes  Caitanya’s  feet  near
-tr: Whoever has faith in Caitanya’s wondrous pastimes comes to the feet of Caitanya.
+tr: Whoever has faith in Caitanya’s wondrous pastimes comes to His feet.
 
 ## 310
 w: in the course  I have told  this  of the conclusion  the essence
@@ -1649,7 +1649,7 @@ tr: In the course of the story I have told the essence of this conclusion; whoev
 ## 311
 w: written  of the book  if  I make  restatement
 w: then  that  of the book  the meaning  will get  taste
-tr: If I restate what has been written in the book, then the reader will taste its meaning.
+tr: When I restate what the book has already told, the reader comes to taste its meaning.
 
 ## 312
 w: therefore  in the Bhāgavata  Vyāsa’s  practice
