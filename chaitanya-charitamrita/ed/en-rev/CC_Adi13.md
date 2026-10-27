@@ -606,6 +606,360 @@ whose  father  Nīlāmbara  by name  Cakravartī
 
 (60) His wife, named Śacī, was chaste and wholly devoted to her husband; her father was Nīlāmbara Cakravartī.[^13]
 
+রাঢ়দেশে জন্মিলা ঠাকুর নিত্যানন্দ ৷  
+গঙ্গাদাস পণ্ডিত, গুপ্ত মুরারি, মুকুন্দ ॥ ৬১ ॥
+
+rāḍhadeśe janmilā ṭhākura nityānanda  
+in the Rāḍha country  were born  Ṭhākura  Nityānanda  
+gaṅgādāsa paṇḍita, gupta murāri, mukunda  
+Gaṅgādāsa  Paṇḍita,  Gupta  Murāri,  Mukunda
+
+(61) In the land of Rāḍha were born Ṭhākura Nityānanda, Gaṅgādāsa Paṇḍita, Murāri Gupta and Mukunda.
+
+অসংখ্য ভক্তের করাইলা অবতার ৷  
+শেষে অবতীর্ণ হৈলা ব্রজেন্দ্রকুমার ॥ ৬২ ॥
+
+asaṁkhya bhaktera karāilā avatāra  
+countless  devotees’  caused  descent  
+śeṣe avatīrṇa hailā vrajendra-kumāra  
+at last  descended  became  the son of the king of Vraja
+
+(62) He caused countless devotees to descend, and last of all the son of the king of Vraja descended Himself.
+
+প্রভুর আবির্ভাবপূর্ব্বে যত বৈষ্ণবগণ ৷  
+অদ্বৈত-আচার্য্যের স্থানে করেন গমন ॥ ৬৩ ॥
+
+prabhura āvirbhāva-pūrve yata vaiṣṇava-gaṇa  
+the Lord’s  appearance  before  all  the Vaiṣṇavas  
+advaita-ācāryera sthāne karena gamana  
+of Advaita  Ācārya  to the place  make  going
+
+(63) Before the Lord appeared, all the Vaiṣṇavas would gather at the home of Advaita Ācārya.
+
+গীতা-ভাগবত কহে আচার্য্য-গোসাঞি ৷  
+জ্ঞান-কর্ম্ম নিন্দি’ করে ভক্তির বড়াই ॥ ৬৪ ॥
+
+gītā-bhāgavata kahe ācārya-gosāñi  
+the Gītā  the Bhāgavata  speaks  Ācārya  Gosāñi  
+jñāna-karma nindi’ kare bhaktira baḍāi  
+knowledge  work  decrying  makes  of bhakti  the glory
+
+(64) There Ācārya Gosāñi expounded the *Gītā* and the *Bhāgavata*, decrying the paths of knowledge and fruitive work and extolling bhakti.
+
+সর্ব্বশাস্ত্রে কহে কৃষ্ণভক্তির ব্যাখ্যান ৷  
+জ্ঞান, যোগ, তপো-ধর্ম্ম নাহি মানে আন ॥ ৬৫ ॥
+
+sarva-śāstre kahe kṛṣṇa-bhaktira vyākhyāna  
+in all scriptures  speaks  of devotion to Kṛṣṇa  the explanation  
+jñāna, yoga, tapo-dharma nāhi māne āna  
+knowledge,  yoga,  austerity,  dharma  not  accepts  other
+
+(65) He showed that all the scriptures speak of devotion to Kṛṣṇa, and would accept no other path — not knowledge, yoga, austerity or ritual dharma.[^14]
+
+তাঁর সঙ্গে আনন্দ করে বৈষ্ণবের গণ ৷  
+কৃষ্ণকথা, কৃষ্ণপূজা, নামসংকীর্ত্তন ॥ ৬৬ ॥
+
+tām̐ra saṅge ānanda kare vaiṣṇavera gaṇa  
+His  company  in  joy  make  the Vaiṣṇavas’  host  
+kṛṣṇa-kathā, kṛṣṇa-pūjā, nāma-saṁkīrtana  
+talk of Kṛṣṇa,  worship of Kṛṣṇa,  the saṅkīrtana of the name
+
+(66) In His company the Vaiṣṇavas delighted in talks of Kṛṣṇa, worship of Kṛṣṇa and the saṅkīrtana of the holy name.
+
+কিন্তু সর্ব্বলোক দেখি’ কৃষ্ণবহির্ম্মুখ ৷  
+বিষয়ে নিমগ্ন লোক দেখি’ পায় দুঃখ ॥ ৬৭ ॥
+
+kintu sarva-loka dekhi’ kṛṣṇa-bahirmukha  
+but  all people  seeing  turned away from Kṛṣṇa  
+viṣaye nimagna loka dekhi’ pāya duḥkha  
+in sense objects  sunk  people  seeing  gets  sorrow
+
+(67) But when He saw that all people had turned away from Kṛṣṇa and were sunk in worldly things, He grieved.
+
+লোকের নিস্তার-হেতু করেন চিন্তন ৷  
+কেমতে এ সর্ব্বলোকের হইবে তারণ ॥ ৬৮ ॥
+
+lokera nistāra-hetu karena cintana  
+of the people  deliverance  for  makes  thinking  
+kemate e sarva-lokera haibe tāraṇa  
+how  these  all people’s  will be  deliverance
+
+(68) He pondered how they might be delivered: how could all these people be saved?
+
+কৃষ্ণ অবতরি’ করেন ভক্তির বিস্তার ৷  
+তবে ত’ সকল লোকের হইবে নিস্তার ॥ ৬৯ ॥
+
+kṛṣṇa avatari’ karena bhaktira vistāra  
+Kṛṣṇa  descending  makes  of bhakti  the spreading  
+tabe ta’ sakala lokera haibe nistāra  
+then  indeed  all  people’s  will be  deliverance
+
+(69) “If Kṛṣṇa descends and spreads bhakti, then indeed all people will be delivered.”
+
+কৃষ্ণ অবতারিতে আচার্য্য প্রতিজ্ঞা করিয়া ৷  
+কৃষ্ণপূজা করে তুলসী-গঙ্গাজল দিয়া ॥ ৭০ ॥
+
+kṛṣṇa avatārite ācārya pratijñā kariyā  
+Kṛṣṇa  to bring down  the Ācārya  a vow  making  
+kṛṣṇa-pūjā kare tulasī-gaṅgājala diyā  
+worship of Kṛṣṇa  does  tulasī  Gaṅgā water  offering
+
+(70) Vowing to bring Kṛṣṇa down, the Ācārya worshipped Him with tulasī and Gaṅgā water.
+
+কৃষ্ণের আহ্বান করে সঘন হুঙ্কার ৷  
+হুঙ্কারে আকৃষ্ট হৈলা ব্রজেন্দ্রকুমার ॥ ৭১ ॥
+
+kṛṣṇera āhvāna kare saghana huṅkāra  
+Kṛṣṇa’s  calling  does  with repeated  roars  
+huṅkāre ākṛṣṭa hailā vrajendra-kumāra  
+by the roars  attracted  became  the son of the king of Vraja
+
+(71) He called to Kṛṣṇa with roar upon roar, and those roars drew the son of the king of Vraja.[^15]
+
+জগন্নাথমিশ্র-পত্নী শচীর উদরে ৷  
+অষ্ট কন্যা ক্রমে হৈল, জন্মি’ জন্মি’ মরে ॥ ৭২ ॥
+
+jagannātha-miśra-patnī śacīra udare  
+Jagannātha Miśra’s  wife  Śacī’s  in the womb  
+aṣṭa kanyā krame haila, janmi’ janmi’ mare  
+eight  daughters  one after another  came,  being born  being born  die
+
+(72) Eight daughters were born one after another to Śacī, the wife of Jagannātha Miśra, and each died soon after her birth.
+
+অপত্য-বিরহে মিশ্রের দুঃখী হৈল মন ৷  
+পুত্র লাগি’ আরাধিল বিষ্ণুর চরণ ॥ ৭৩ ॥
+
+apatya-virahe miśrera duḥkhī haila mana  
+children’s  loss  in  Miśra’s  sorrowful  became  mind  
+putra lāgi’ ārādhila viṣṇura caraṇa  
+a son  for  worshipped  Viṣṇu’s  feet
+
+(73) Grieving at the loss of his children, Miśra worshipped the feet of Viṣṇu, praying for a son.
+
+তবে পুত্র জনমিল ‘বিশ্বরূপ’ নাম ৷  
+মহা-গুণবান্ তেঁহ — ‘বলদেব’-ধাম ॥ ৭৪ ॥
+
+tabe putra janamila ‘viśvarūpa’ nāma  
+then  a son  was born  ‘Viśvarūpa’  by name  
+mahā-guṇavān tem̐ha — ‘baladeva’-dhāma  
+greatly  virtuous  He  —  the abode of ‘Baladeva’
+
+(74) Then a son was born, named Viśvarūpa. He was rich in great virtues, a manifestation of Baladeva.
+
+বলদেব-প্রকাশ — পরব্যোমে ‘সঙ্কর্ষণ’ ৷  
+তেঁহ — বিশ্বের উপাদান-নিমিত্ত-কারণ ॥ ৭৫ ॥
+
+baladeva-prakāśa — para-vyome ‘saṅkarṣaṇa’  
+Baladeva’s  manifestation  —  in the spiritual sky  ‘Saṅkarṣaṇa’  
+tem̐ha — viśvera upādāna-nimitta-kāraṇa  
+He  —  of the universe  the material  efficient  cause
+
+(75) Baladeva’s manifestation in the spiritual sky is Saṅkarṣaṇa, and He is both the material and the efficient cause of the universe.[^16]
+
+তাঁহা বই বিশ্বে কিছু নাহি দেখি আর ৷  
+অতএব ‘বিশ্বরূপ’ নাম যে তাঁহার ॥ ৭৬ ॥
+
+tām̐hā bai viśve kichu nāhi dekhi āra  
+Him  apart from  in the universe  anything  not  I see  else  
+ataeva ‘viśvarūpa’ nāma ye tām̐hāra  
+therefore  ‘Viśvarūpa’  the name  indeed  His
+
+(76) Apart from Him I see nothing in the universe, and so He is called Viśvarūpa, “He whose form is the universe”.
+
+নৈতচ্চিত্রং ভগবতি হ্যনন্তে জগদীশ্বরে ৷  
+ওতং প্রোতমিদং যস্মিন্ তন্তুষ্বঙ্গ যথা পটঃ ॥ ৭৭ ॥
+
+naitac citraṁ bhagavati  
+not  this  wonderful  in Bhagavān  
+hy anante jagad-īśvare  
+indeed  in the unlimited  in the Lord of the universe  
+otaṁ protam idaṁ yasmin  
+woven lengthwise  crosswise  this  in whom  
+tantuṣv aṅga yathā paṭaḥ  
+on threads  O dear one  as  cloth
+
+(77) “O King, this is no wonder in Bhagavān, the unlimited Lord of the universe, in whom this whole world is woven, warp and weft, like cloth upon its threads.” (Śrīmad-Bhāgavatam, 10.15.35)[^17]
+
+অতএব প্রভু তাঁরে বলে, ‘বড় ভাই’ ৷  
+কৃষ্ণ, বলরাম দুই — চৈতন্য, নিতাই ॥ ৭৮ ॥
+
+ataeva prabhu tām̐re bale, ‘baḍa bhāi’  
+therefore  the Lord  Him  calls  ‘elder  brother’  
+kṛṣṇa, balarāma dui — caitanya, nitāi  
+Kṛṣṇa,  Balarāma  the two  —  Caitanya,  Nitāi
+
+(78) That is why the Lord called Him His elder brother. Kṛṣṇa and Balarāma — these two are Caitanya and Nitāi.[^18]
+
+পুত্র পাঞা দম্পতি হৈলা আনন্দিত মন ৷  
+বিশেষে সেবন করে গোবিন্দচরণ ॥ ৭৯ ॥
+
+putra pāñā dampati hailā ānandita mana  
+a son  obtaining  the couple  became  joyful  at heart  
+viśeṣe sevana kare govinda-caraṇa  
+especially  service  do  of Govinda’s  feet
+
+(79) Blessed with a son, the couple rejoiced and served the feet of Govinda with still greater devotion.
+
+চৌদ্দশত ছয় শকে শেষ মাঘ-মাসে ৷  
+জগন্নাথ-শচীর দেহে কৃষ্ণের প্রবেশে ॥ ৮০ ॥
+
+caudda-śata chaya śake śeṣa māgha-māse  
+fourteen hundred  six  in the Śaka year  at the end  in the month of Māgha  
+jagannātha-śacīra dehe kṛṣṇera praveśe  
+of Jagannātha  Śacī  into the bodies  of Kṛṣṇa  the entering
+
+(80) At the end of the month of Māgha in Śaka 1406, Kṛṣṇa entered the bodies of Jagannātha and Śacī.[^19]
+
+মিশ্র কহে শচী-স্থানে, — দেখি অন্য রীত ৷  
+জ্যোতির্ম্ময় দেহ, গেহ লক্ষ্মী-অধিষ্ঠিত ॥ ৮১ ॥
+
+miśra kahe śacī-sthāne, — dekhi anya rīta  
+Miśra  says  to Śacī  —  I see  a different  way  
+jyotirmaya deha, geha lakṣmī-adhiṣṭhita  
+effulgent  the body,  the house  by Lakṣmī  presided over
+
+(81) Miśra said to Śacī, “I see something strange. Your body is radiant, and our house has become the abode of Lakṣmī.
+
+যাঁহা তাঁহা সর্ব্বলোক করয়ে সম্মান ৷  
+ঘরে পাঠাইয়া দেয় ধন, বস্ত্র, ধান ॥ ৮২ ॥
+
+yām̐hā tām̐hā sarva-loka karaye sammāna  
+wherever  wherever  all people  do  honour  
+ghare pāṭhāiyā deya dhana, vastra, dhāna  
+to the house  sending  give  wealth,  cloth,  rice
+
+(82) Wherever I go, people honour me, and they send wealth, clothes and rice to our house.”
+
+শচী কহে, — মুঞি দেখোঁ আকাশ-উপরে ৷  
+দিব্যমূর্ত্তি লোক আসি’ স্তুতি হেন করে ॥ ৮৩ ॥
+
+śacī kahe, — muñi dekhom̐ ākāśa-upare  
+Śacī  says  —  I  see  in the sky  above  
+divya-mūrti loka āsi’ stuti hena kare  
+of divine forms  beings  coming  praises  thus  make
+
+(83) Śacī replied, “And I see beings of divine form appear in the sky above and offer prayers.”
+
+জগন্নাথ মিশ্র কহে, — স্বপ্ন যে দেখিল ৷  
+জ্যোতির্ম্ময়-ধাম মোর হৃদয়ে পশিল ॥ ৮৪ ॥
+
+jagannātha miśra kahe, — svapna ye dekhila  
+Jagannātha  Miśra  says  —  a dream  which  I saw  
+jyotirmaya-dhāma mora hṛdaye paśila  
+an effulgent  abode  my  into the heart  entered
+
+(84) Jagannātha Miśra said, “I had a dream: a radiant abode entered my heart.
+
+আমার হৃদয় হৈতে তোমার হৃদয়ে ৷  
+হেন বুঝি, জন্মিবেন কোন মহাশয়ে ॥ ৮৫ ॥
+
+āmāra hṛdaya haite tomāra hṛdaye  
+my  heart  from  into your  heart  
+hena bujhi, janmibena kona mahāśaye  
+so  I understand,  will be born  some  great soul
+
+(85) From my heart it passed into yours. So I understand that some great soul is to be born.”
+
+এত বলি’ দুঁহে রহে হরষিত হঞা ৷  
+শালগ্রাম সেবা করে বিশেষ করিয়া ॥ ৮৬ ॥
+
+eta bali’ dum̐he rahe haraṣita hañā  
+thus  saying  the two  remain  joyful  becoming  
+śālagrāma sevā kare viśeṣa kariyā  
+the śālagrāma  service  do  special  making
+
+(86) Speaking thus, the two were filled with joy, and they served the śālagrāma with special care.
+
+হৈতে হৈতে হৈল গর্ভ ত্রয়োদশ মাস ৷  
+তথাপি ভূমিষ্ঠ নহে, — মিশ্রের হৈল ত্রাস ॥ ৮৭ ॥
+
+haite haite haila garbha trayodaśa māsa  
+going on  going on  became  the pregnancy  thirteen  months  
+tathāpi bhūmiṣṭha nahe, — miśrera haila trāsa  
+even so  born  not  —  Miśra’s  became  fear
+
+(87) Month followed month until the pregnancy reached its thirteenth month; still the child was not born, and Miśra grew afraid.
+
+নীলাম্বর চক্রবর্ত্তী কহিল গণিয়া ৷  
+এই মাসে পুত্র হবে শুভক্ষণ পাঞা ॥ ৮৮ ॥
+
+nīlāmbara cakravartī kahila gaṇiyā  
+Nīlāmbara  Cakravartī  said  calculating  
+ei māse putra habe śubha-kṣaṇa pāñā  
+in this  month  a son  will be  an auspicious moment  obtaining
+
+(88) Nīlāmbara Cakravartī made his calculations and said, “A son will be born this month, at an auspicious moment.”
+
+চৌদ্দশত সাত শকে মাস যে ফাল্গুন ৷  
+পৌর্ণমাসীর সন্ধ্যাকালে হৈলে শুভক্ষণ ॥ ৮৯ ॥
+
+caudda-śata sāta śake māsa ye phālguna  
+fourteen hundred  seven  in the Śaka year  the month  which  Phālguna  
+paurṇamāsīra sandhyā-kāle haile śubha-kṣaṇa  
+of the full moon  at evening time  came  the auspicious moment
+
+(89) In Śaka 1407, in the month of Phālguna, the auspicious moment came on the evening of the full moon.
+
+সিংহ-রাশি, সিংহ-লগ্ন, উচ্চ গ্রহগণ ৷  
+ষড়্বর্গ, অষ্টবর্গ, সর্ব্ব সুলক্ষণ ॥ ৯০ ॥
+
+siṁha-rāśi, siṁha-lagna, ucca graha-gaṇa  
+Leo  the sign,  Leo  the ascendant,  exalted  the planets  
+ṣaḍ-varga, aṣṭa-varga, sarva sulakṣaṇa  
+the six divisions,  the eight divisions,  all  auspicious signs
+
+(90) The moon was in Leo, Leo was rising and the planets were exalted; the six divisions and the eight divisions all showed auspicious signs.[^20]
+
+অ-কলঙ্ক গৌরচন্দ্র দিলা দরশন ৷  
+স-কলঙ্ক চন্দ্রে আর কোন্ প্রয়োজন ॥ ৯১ ॥
+
+a-kalaṅka gauracandra dilā daraśana  
+spotless  Gauracandra  gave  sight of Himself  
+sa-kalaṅka candre āra kon prayojana  
+spotted  in the moon  further  what  need
+
+(91) Once the spotless moon Gauracandra had shown Himself, what further need was there of the spotted moon?
+
+এত জানি’ চন্দ্রে রাহু করিলা গ্রহণ ৷  
+‘কৃষ্ণ’ ‘কৃষ্ণ’ ‘হরি’নামে ভাসে ত্রিভুবন ॥ ৯২ ॥
+
+eta jāni’ candre rāhu karilā grahaṇa  
+this  knowing  the moon  Rāhu  made  seizing  
+‘kṛṣṇa’ ‘kṛṣṇa’ ‘hari’nāme bhāse tri-bhuvana  
+‘Kṛṣṇa’  ‘Kṛṣṇa’  ‘Hari’  with the names  floats  the three worlds
+
+(92) Knowing this, Rāhu seized the moon, and the three worlds were flooded with the names “Kṛṣṇa! Kṛṣṇa! Hari!”
+
+জয় জয় ধ্বনি হৈল সকল ভুবন ৷  
+চমৎকার হৈয়া লোক ভাবে মনে মন ॥ ৯৩ ॥
+
+jaya jaya dhvani haila sakala bhuvana  
+‘glory  glory’  the sound  became  in all  the worlds  
+camatkāra haiyā loka bhāve mane mana  
+amazed  becoming  the people  think  within  their minds
+
+(93) Cries of “Jaya! Jaya!” rang through all the worlds, and the people, amazed, wondered within themselves.
+
+জগৎ ভরিয়া লোক বলে — ‘হরি’ ‘হরি’ ৷  
+সেইক্ষণে গৌরকৃষ্ণ ভূমে অবতরি ॥ ৯৪ ॥
+
+jagat bhariyā loka bale — ‘hari’ ‘hari’  
+the world  filling  the people  say  —  ‘Hari’  ‘Hari’  
+sei-kṣaṇe gaurakṛṣṇa bhūme avatari  
+at that moment  Gaura-Kṛṣṇa  on the earth  descended
+
+(94) The whole world was filled with people crying, “Hari! Hari!” — and at that very moment Gaura-Kṛṣṇa descended to the earth.
+
+প্রসন্ন হইল সব জগতের মন ৷  
+‘হরি’ বলি’ হিন্দুকে হাস্য করয়ে যবন ॥ ৯৫ ॥
+
+prasanna haila saba jagatera mana  
+glad  became  all  of the world  the mind  
+‘hari’ bali’ hinduke hāsya karaye yavana  
+‘Hari’  saying  at the Hindus  mockery  makes  the Muslim
+
+(95) The whole world was glad at heart; even the Muslims, mocking the Hindus, cried out, “Hari!”[^21]
+
 ---
 
 [^1]: Heading in the edition: “The rays of *hari-bhajana* shining from the devotee-moons destroy the darkness of the living beings’ ignorance.”
@@ -633,3 +987,19 @@ whose  father  Nīlāmbara  by name  Cakravartī
 [^12]: Heading in the edition: “Who Jagannātha was in the avatāra of Kṛṣṇa.”
 
 [^13]: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*, 104): Nīlāmbara Cakravartī is the sage Garga, for, like Garga with Kṛṣṇa, he foretold in an assembly the coming appearance of Gaura; and as Śacī’s father he is the cowherd Sumukha.
+
+[^14]: Heading in the edition: “The teaching that devotion to Kṛṣṇa alone is the means (*abhidheya*).”
+
+[^15]: *Anubhāṣya* to 67–71: see Ādi 3.95–109 and the *Caitanya-bhāgavata*, Ādi 2.
+
+[^16]: Heading in the edition: “Viśvarūpa is Mahā-saṅkarṣaṇa of Vaikuṇṭha.” *Amṛta-pravāha-bhāṣya*: Viśvarūpa is the avatāra of Mahā-saṅkarṣaṇa of the spiritual sky. *Anubhāṣya*: Viśvarūpa, the elder brother of Śrī Gaurahari, took sannyāsa before marriage, receiving the name Śaṅkarāraṇya, and in Śaka 1431 passed from view at Pandharpur; He is both the material and the efficient cause of the universe. According to the *Gaura-gaṇoddeśa-dīpikā* (58–59), Viśvarūpa is the *vyūha* Saṅkarṣaṇa, while Nityānanda Avadhūta is Baladeva Himself, the Balarāma of Vraja.
+
+[^17]: *Anubhāṣya*: Śukadeva says this to Parīkṣit about Baladeva’s slaying of the demon Dhenuka.
+
+[^18]: *Amṛta-pravāha-bhāṣya*: Mahā-saṅkarṣaṇa, the material and the efficient cause, pervades the universe through and through, and therefore Mahāprabhu calls Viśvarūpa His elder brother; but the Kṛṣṇa and Balarāma of Kṛṣṇa’s own abode are Caitanya and Nitāi, and so Nityānanda Prabhu is the original Saṅkarṣaṇa, Baladeva Himself.
+
+[^19]: *Anubhāṣya* to 80–86: Jagannātha and Śacī are the Lord’s eternal associates (*nitya-siddha*); their hearts and bodies are made of pure goodness (*śuddha-sattva*) and are not like those of ordinary living beings. Pure goodness is called *vasudeva*, and in it Vāsudeva, who eternally enjoys His spiritual pastimes, becomes manifest. The union of Jagannātha and Śacī and the conception in Śacī’s womb were not like the carnal union and pregnancy of worldly people; even to think so is an offence. According to the *Bhāgavatam* (10.2.16–18, with the comments of Śrīdhara Svāmī and Baladeva Vidyābhūṣaṇa) and the *Laghu-bhāgavatāmṛta*, Kṛṣṇa first became manifest in the heart of Vasudeva, and from his heart in the heart of Devakī; so too Śrī Gaurasundara appeared in the hearts of Miśra and Śacī, wholly absorbed as they were in serving the feet of Govinda (13.79).
+
+[^20]: *Anubhāṣya*: the *ṣaḍ-varga* are the six divisions of a sign — *kṣetra*, *horā*, *drekkāṇa*, *navāṁśa*, *dvādaśāṁśa* and *triṁśāṁśa*; by them Cakravartī determined the auspicious signs. The *aṣṭa-varga* is reckoned from the positions of the planets, as taught in the *Bṛhaj-jātaka* and other books; by this reckoning too he found Mahāprabhu’s signs auspicious.
+
+[^21]: Heading in the edition: “Then even the Muslims took the name of Hari, on the pretext of mockery.”
