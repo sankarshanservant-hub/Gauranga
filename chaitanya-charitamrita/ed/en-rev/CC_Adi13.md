@@ -960,6 +960,458 @@ glad  became  all  of the world  the mind
 
 (95) The whole world was glad at heart; even the Muslims, mocking the Hindus, cried out, “Hari!”[^21]
 
+‘হরি’ বলি’ নারীগণ দেই হুলাহুলি ৷  
+স্বর্গে বাদ্য-নৃত্য করে দেব কুতূহলী ॥ ৯৬ ॥
+
+‘hari’ bali’ nārīgaṇa dei hulāhuli  
+‘Hari’  saying  the women  give  ululation  
+svarge vādya-nṛtya kare deva kutūhalī  
+in heaven  music and dance  make  the gods  eager
+
+(96) Calling “Hari!”, the women raised their joyful ululation, while in heaven the gods, full of eager delight, played music and danced.
+
+প্রসন্ন হৈল দশ দিক্, প্রসন্ন নদীজল ৷  
+স্থাবর-জঙ্গম হৈল আনন্দে বিহ্বল ॥ ৯৭ ॥
+
+prasanna haila daśa dik, prasanna nadījala  
+bright  became  the ten  directions,  clear  the river water  
+sthāvara-jaṅgama haila ānande vihvala  
+the unmoving  and the moving  became  with bliss  overwhelmed
+
+(97) The ten directions grew bright, the waters of the rivers grew clear, and all beings, moving and unmoving, were overwhelmed with bliss.
+
+নদীয়া-উদয়গিরি,  পূর্ণচন্দ্র গৌরহরি,  
+কৃপা করি’ হইল উদয় ৷  
+পাপ-তমো হৈল নাশ,  ত্রিজগতের উল্লাস,  
+জগভরি’ হরিধ্বনি হয় ॥ ৯৮ ॥
+
+nadīyā-udayagiri, pūrṇacandra gaurahari,  
+Nadīyā  the eastern mountain,  the full moon  Gaurahari  
+kṛpā kari’ haila udaya  
+mercy  showing  has  risen  
+pāpa-tamo haila nāśa, tri-jagatera ullāsa,  
+of sin  the darkness  became  destroyed,  of the three worlds  the joy  
+jagabhari’ hari-dhvani haya  
+the world filling  the sound of ‘Hari’  is
+
+(98) Over Nadīyā, the eastern mountain, the full moon Gaurahari has risen in His mercy. The darkness of sin is destroyed, the three worlds rejoice, and the sound of “Hari!” fills the world.
+
+সেইকালে নিজালয়,  উঠিয়া অদ্বৈত রায়,  
+নৃত্য করে আনন্দিত-মনে ৷  
+হরিদাসে লঞা সঙ্গে,  হুঙ্কার-কীর্ত্তন-রঙ্গে  
+কেনে নাচে, কেহ নাহি জানে ॥ ৯৯ ॥
+
+sei-kāle nijālaya, uṭhiyā advaita rāya,  
+at that time  in His own home,  rising  Advaita  Rāya  
+nṛtya kare ānandita-mane  
+dance  does  joyful  at heart  
+haridāse lañā saṅge, huṅkāra-kīrtana-raṅge  
+Haridāsa  taking  with Him,  in the delight of roaring kīrtana  
+kene nāce, keha nāhi jāne  
+why  He dances,  anyone  not  knows
+
+(99) At that very time, in His own home, Advaita Rāya rose and began to dance, joyful at heart. With Haridāsa beside Him He roared and sang kīrtana in delight — and no one knew why He was dancing.[^22]
+
+দেখি’ উপরাগ হাসি’,  শীঘ্র গঙ্গাঘাটে আসি’,  
+আনন্দে করিল গঙ্গাস্নান ৷  
+পাঞা উপরাগ-ছলে,  আপনার মনোবলে,  
+ব্রাহ্মণেরে দিল নানা দান ॥ ১০০ ॥
+
+dekhi’ uparāga hāsi’, śīghra gaṅgā-ghāṭe āsi’,  
+seeing  the eclipse  laughing,  quickly  to the Gaṅgā’s bathing place  coming  
+ānande karila gaṅgā-snāna  
+in joy  made  bath in the Gaṅgā  
+pāñā uparāga-chale, āpanāra mano-bale,  
+taking  the eclipse  as pretext,  His own  by the power of mind  
+brāhmaṇere dila nānā dāna  
+to the brāhmaṇas  gave  various  gifts
+
+(100) Seeing the eclipse, He laughed, hurried to the bathing place on the Gaṅgā and bathed there joyfully. Then, on the pretext of the eclipse, He gave the brāhmaṇas many gifts in His mind.[^23]
+
+জগৎ আনন্দময়,  দেখি’ মনে সবিস্ময়,  
+ঠারেঠোরে কহে হরিদাস ৷  
+তোমার ঐছন রঙ্গ,  মোর মন পরসন্ন,  
+দেখি — কিছু কার্য্যে আছে ভাস ॥ ১০১ ॥
+
+jagat ānandamaya, dekhi’ mane sa-vismaya,  
+the world  full of bliss,  seeing  in mind  astonished  
+ṭhāreṭhore kahe haridāsa  
+by hints  says  Haridāsa  
+tomāra aichana raṅga, mora mana parasanna,  
+Your  such  delight,  my  mind  is pleased  
+dekhi — kichu kārye āche bhāsa  
+I see  —  some  in the deed  there is  a hint
+
+(101) Seeing the whole world full of bliss, Haridāsa was astonished and said, hinting, “This joyful play of Yours delights my heart. I see that something lies behind it.”
+
+আচার্যরত্ন, শ্রীবাস,  হৈল মনে সুখোল্লাস,  
+যাই’ স্নান কৈল গঙ্গা-জলে ৷  
+আনন্দে বিহ্বল মন,  করে হরিসংকীর্ত্তন,  
+নানা দান কৈল মনোবলে ॥ ১০২ ॥
+
+ācāryaratna, śrīvāsa, haila mane sukhollāsa  
+Ācāryaratna,  Śrīvāsa,  became  in mind  joyful  
+yāi’ snāna kaila gaṅgā-jale  
+going  bath  made  in the Gaṅgā’s water  
+ānande vihvala mana, kare hari-saṁkīrtana  
+with bliss  overwhelmed  mind,  do  saṅkīrtana of Hari  
+nānā dāna kaila mano-bale  
+various  gifts  made  by the power of mind
+
+(102) Ācāryaratna and Śrīvāsa were filled with joy. They went and bathed in the Gaṅgā, and, overwhelmed with bliss, sang the saṅkīrtana of Hari and gave many gifts in their minds.
+
+এই মত ভক্তযতি,  যাঁর যেই দেশে স্থিতি,  
+তাঁহা তাঁহা পাঞা মনোবলে ৷  
+নাচে, করে সংকীর্ত্তন,  আনন্দে বিহ্বল মন,  
+দান করে গ্রহণের ছলে ॥ ১০৩ ॥
+
+ei mata bhakta-yati, yām̐ra yei deśe sthiti,  
+in this  way  the devotees  all,  whose  in whatever  land  dwelling  
+tām̐hā tām̐hā pāñā mano-bale  
+there  there  using  power of mind  
+nāce, kare saṁkīrtana, ānande vihvala mana,  
+dance,  do  saṅkīrtana,  with bliss  overwhelmed  the mind  
+dāna kare grahaṇera chale  
+gifts  give  on the pretext of the eclipse
+
+(103) So too all the devotees, in whatever land they dwelt, danced and sang saṅkīrtana there, overwhelmed with bliss, and on the pretext of the eclipse gave gifts in their minds.
+
+ব্রাহ্মণ-সজ্জন-নারী,  নানা-দ্রব্যে পাত্র ভরি’  
+আইলা সবে যৌতুক লইয়া ৷  
+যেন কাঁচা-সোণা-দ্যুতি,  দেখি, বালকের মূর্ত্তি,  
+আশীর্ব্বাদ করে সুখ পাঞা ॥ ১০৪ ॥
+
+brāhmaṇa-sajjana-nārī, nānā-dravye pātra bhari’  
+brāhmaṇas,  good men,  women,  with various  things  plates  filling  
+āilā sabe yautuka laiyā  
+came  all  gifts  taking  
+yena kām̐cā-soṇā-dyuti, dekhi, bālakera mūrti,  
+like  molten gold  the radiance,  seeing  the child’s  form  
+āśīrvāda kare sukha pāñā  
+blessings  give  joy  obtaining
+
+(104) Brāhmaṇas, good men and women all came with plates heaped with gifts, and when they saw the child, radiant as molten gold, they blessed Him with delight.
+
+সাবিত্রী, গৌরী, সরস্বতী,  শচী, রম্ভা, অরুন্ধতী,  
+আর যত দেব-নারীগণ ৷  
+নানা-দ্রব্যে পাত্র ভরি’,  ব্রাহ্মণীর বেশ ধরি’,  
+আসি’ সবে করেন দরশন ॥ ১০৫ ॥
+
+sāvitrī, gaurī, sarasvatī, śacī, rambhā, arundhatī,  
+Sāvitrī,  Gaurī,  Sarasvatī,  Śacī,  Rambhā,  Arundhatī  
+āra yata deva-nārīgaṇa  
+and  all  the wives of the gods  
+nānā-dravye pātra bhari’, brāhmaṇīra veśa dhari’,  
+with various  things  plates  filling,  of brāhmaṇa women  the dress  assuming  
+āsi’ sabe karena daraśana  
+coming  all  do  seeing
+
+(105) Sāvitrī, Gaurī, Sarasvatī, Śacī, Rambhā, Arundhatī and all the other goddesses came dressed as brāhmaṇa ladies, with plates heaped with gifts, to see Him.[^24]
+
+অন্তরীক্ষে দেবগণ,  সিদ্ধ, গন্ধর্ব্ব, চারণ,  
+স্তুতি-নৃত্য করে বাদ্য-গীত ৷  
+নর্ত্তক, বাদক, ভাট,  নবদ্বীপে যার নাট,  
+সবে আসি’ নাচে পাঞা প্রীত ॥ ১০৬ ॥
+
+antarīkṣe deva-gaṇa, siddha, gandharva, cāraṇa,  
+in the sky  the gods,  siddhas,  gandharvas,  cāraṇas  
+stuti-nṛtya kare vādya-gīta  
+praises  dance  make,  music  song  
+nartaka, vādaka, bhāṭa, navadvīpe yāra nāṭa,  
+dancers,  musicians,  bards,  in Navadvīpa  whose  stage  
+sabe āsi’ nāce pāñā prīta  
+all  coming  dance  delight  obtaining
+
+(106) In the sky the gods, siddhas, gandharvas and cāraṇas offered praises, danced, played and sang; and the dancers, musicians and bards who performed in Navadvīpa all came and danced with delight.
+
+কেবা আসে কেবা যায়,  কেবা নাচে কেবা গায়,  
+সম্ভালিতে নারে কার বোল ৷  
+খণ্ডিলেক দুঃখ-শোক,  প্রমোদপূরিত লোক,  
+মিশ্র হৈলা আনন্দে বিহ্বল ॥ ১০৭ ॥
+
+kebā āse kebā yāya, kebā nāce kebā gāya,  
+who  comes,  who  goes,  who  dances,  who  sings  
+sambhālite nāre kāra bola  
+to make out  cannot  anyone’s  words  
+khaṇḍileka duḥkha-śoka, pramoda-pūrita loka,  
+was cut off  sorrow  grief,  with gladness  filled  the people  
+miśra hailā ānande vihvala  
+Miśra  became  with bliss  overwhelmed
+
+(107) Who was coming, who going, who dancing, who singing — no one could make out anyone’s words. Sorrow and grief were cut away, the people were filled with gladness, and Miśra was overwhelmed with bliss.[^25]
+
+আচার্য্যরত্ন, শ্রীনিবাস,  জগন্নাথমিশ্র-পাশ,  
+আসি’ তাঁরে করে সাবধান ৷  
+করাইল জাতকর্ম্ম,  যে আছিল বিধি-ধর্ম্ম,  
+তবে মিশ্র করে নানা দান ॥ ১০৮ ॥
+
+ācāryaratna, śrīnivāsa, jagannātha-miśra-pāśa,  
+Ācāryaratna,  Śrīnivāsa,  Jagannātha Miśra’s  side  
+āsi’ tām̐re kare sāvadhāna  
+coming  him  make  attentive  
+karāila jātakarma, ye āchila vidhi-dharma,  
+had performed  the birth rite,  which  was  the rule of dharma  
+tabe miśra kare nānā dāna  
+then  Miśra  makes  various  gifts
+
+(108) Ācāryaratna and Śrīvāsa came to Jagannātha Miśra and recalled him to his duty. They had the birth rite performed as the scriptures prescribe, and then Miśra gave many gifts.
+
+যৌতুক পাইল যত,  ঘরে বা আছিল কত,  
+সব ধন বিপ্রে দিল দান ৷  
+যত নর্ত্তক, গায়ন,  ভাট, অকিঞ্চন জন,  
+ধন দিয়া কৈল সবার মান ॥ ১০৯ ॥
+
+yautuka pāila yata, ghare vā āchila kata,  
+gifts  received  as many,  in the house  or  was  whatever  
+saba dhana vipre dila dāna  
+all  wealth  to the brāhmaṇas  gave  in charity  
+yata nartaka, gāyana, bhāṭa, akiñcana jana,  
+all  dancers,  singers,  bards,  destitute  people  
+dhana diyā kaila sabāra māna  
+wealth  giving  made  of all  the honour
+
+(109) All the gifts he had received and whatever else was in the house, he gave away to the brāhmaṇas; and all the dancers, singers, bards and the poor he honoured with gifts of wealth.
+
+শ্রীবাসের ব্রাহ্মণী,  নাম তাঁর ‘মালিনী’,  
+আচার্য্যরত্নের পত্নী-সঙ্গে ৷  
+সিন্দূর, হরিদ্রা, তৈল,  খই, কলা, নানা ফল,  
+দিয়া পূজে নারীগণ রঙ্গে ॥ ১১০ ॥
+
+śrīvāsera brāhmaṇī, nāma tām̐ra ‘mālinī’,  
+Śrīvāsa’s  wife,  name  her  ‘Mālinī’  
+ācāryaratnera patnī-saṅge  
+of Ācāryaratna  the wife  with  
+sindūra, haridrā, taila, khai, kalā, nānā phala,  
+vermilion,  turmeric,  oil,  puffed rice,  bananas,  various  fruits  
+diyā pūje nārīgaṇa raṅge  
+giving  worship  the women  in delight
+
+(110) Śrīvāsa’s wife, whose name was Mālinī, came with the wife of Ācāryaratna, and the women joyfully worshipped the child with vermilion, turmeric, oil, puffed rice, bananas and many kinds of fruit.[^26]
+
+অদ্বৈত-আচার্য্য-ভার্য্যা,  জগৎপূজিতা আর্য্যা,  
+নাম তাঁর ‘সীতা ঠাকুরাণী’ ৷  
+আচার্য্যের আজ্ঞা পাঞা,  গেলা উপহার লঞা,  
+দেখিতে বালক-শিরোমণি ॥ ১১১ ॥
+
+advaita-ācārya-bhāryā, jagat-pūjitā āryā,  
+Advaita Ācārya’s  wife,  by the world  revered  noble lady  
+nāma tām̐ra ‘sītā ṭhākurāṇī’  
+name  her  ‘Sītā  Ṭhākurāṇī’  
+ācāryera ājñā pāñā, gelā upahāra lañā,  
+the Ācārya’s  order  receiving,  went  gifts  taking  
+dekhite bālaka-śiromaṇi  
+to see  of children  the crown jewel
+
+(111) Advaita Ācārya’s wife, the noble lady revered by all the world, was named Sītā Ṭhākurāṇī. With the Ācārya’s leave she set out with gifts to see that jewel among children.
+
+সুবর্ণের কড়ি-বউলি,  রজতমুদ্রা-পাশুলি,  
+সুবর্ণের অঙ্গদ, কঙ্কণ ৷  
+দু-বাহুতে দিব্য শঙ্খ,  রজতের মলবঙ্ক,  
+স্বর্ণমুদ্রার নানা হারগণ ॥ ১১২ ॥
+
+suvarṇera kaḍi-ba-uli, rajatamudrā-pāśuli,  
+of gold  the waist-chain,  of silver coins  anklets  
+suvarṇera aṅgada, kaṅkaṇa  
+of gold  armlets,  bracelets  
+du-bāhute divya śaṅkha, rajatera malabaṅka,  
+on both arms  fine  conch bangles,  of silver  ankle-rings  
+svarṇa-mudrāra nānā hāragaṇa  
+of gold coins  various  necklaces
+
+(112) She brought a little golden waist-chain and anklets of silver coins, golden armlets and bracelets, fine conch-shell bangles for both arms, silver ankle-rings and necklaces of gold coins.
+
+ব্যাঘ্রনখ হেমজড়ি,  কটি-পট্টসূত্র-ডোরী,  
+হস্ত-পদের যত আভরণ ৷  
+চিত্রবর্ণ পট্টসাড়ী,  বুনি ফোতো পট্টপাড়ী,  
+স্বর্ণ-রৌপ্য-মুদ্রা বহুধন ॥ ১১৩ ॥
+
+vyāghra-nakha hema-jaḍi, kaṭi-paṭṭasūtra-ḍorī,  
+tiger’s claw  set in gold,  for the waist  silk  cord  
+hasta-padera yata ābharaṇa  
+of hands  and feet  all  ornaments  
+citra-varṇa paṭṭa-sāḍī, buni photo paṭṭapāḍī,  
+many-coloured  silk saris,  woven  little shirt  with silk border  
+svarṇa-raupya-mudrā bahu-dhana  
+gold  silver  coins  much wealth
+
+(113) She brought a tiger’s claw set in gold, a silken waist-cord, every kind of ornament for hands and feet, many-coloured silk saris, a little shirt woven with a silk border, and a wealth of gold and silver coins.[^27]
+
+দুর্ব্বা, ধান্য, গোরোচন,  হরিদ্রা, কুঙ্কুম, চন্দন,  
+মঙ্গল-দ্রব্য পাত্র ভরিয়া ৷  
+বস্ত্র-গুপ্ত দোলা চড়ি’,  সঙ্গে লঞা দাসী-চেড়ী,  
+বস্ত্রালঙ্কার পেটারি ভরিয়া ॥ ১১৪ ॥
+
+durvā, dhānya, gorocana, haridrā, kuṅkuma, candana,  
+dūrvā grass,  paddy,  gorocanā,  turmeric,  saffron,  sandal  
+maṅgala-dravya pātra bhariyā  
+with auspicious  things  plates  filling  
+vastra-gupta dolā caḍi’, saṅge lañā dāsī-ceḍī,  
+with cloth  covered  palanquin  riding,  with her  taking  maidservants  
+vastrālaṅkāra peṭāri bhariyā  
+clothes and ornaments  baskets  filling
+
+(114) Riding in a curtained palanquin with her maidservants, she brought baskets full of clothes and ornaments, and plates heaped with auspicious things — dūrvā grass, paddy, gorocanā, turmeric, saffron and sandal.[^28]
+
+ভক্ষ্য, ভোজ্য উপহার,  সঙ্গে লইল বহু ভার,  
+শচীগৃহে হৈল উপনীত ৷  
+দেখিয়া বালক-ঠাম,  সাক্ষাৎ গোকুল-কান,  
+বর্ণমাত্র দেখি বিপরীত ॥ ১১৫ ॥
+
+bhakṣya, bhojya upahāra, saṅge laila bahu bhāra,  
+food to chew,  food to eat,  gifts,  with her  took  many  loads  
+śacī-gṛhe haila upanīta  
+to Śacī’s house  became  arrived  
+dekhiyā bālaka-ṭhāma, sākṣāt gokula-kāna,  
+seeing  the child’s  form,  very  Kāna of Gokula  
+varṇamātra dekhi viparīta  
+the colour  only  seeing  the opposite
+
+(115) Bringing many loads of sweets and other foods, she arrived at Śacī’s house. When she saw the child, He was Kāna of Gokula Himself — only His colour was the opposite.[^29]
+
+সর্ব্ব অঙ্গ — সুনির্ম্মাণ,  সুবর্ণ-প্রতিমা-ভান,  
+সর্ব্ব অঙ্গ — সুলক্ষণময় ৷  
+বালকের দিব্য জ্যোতি,  দেখি’ পাইল বহু প্রীতি,  
+বাৎসল্যেতে দ্রবিল হৃদয় ॥ ১১৬ ॥
+
+sarva aṅga — sunirmāṇa, suvarṇa-pratimā-bhāna,  
+every  limb  —  finely formed,  a golden  image  seeming  
+sarva aṅga — sulakṣaṇamaya  
+every  limb  —  with auspicious marks  full  
+bālakera divya jyoti, dekhi’ pāila bahu prīti,  
+of the child  the divine  radiance,  seeing  she got  much  delight  
+vātsalyete dravila hṛdaya  
+with parental love  melted  her heart
+
+(116) Every limb was finely formed, He seemed an image of gold, and every limb bore auspicious marks. Seeing the child’s divine radiance, she was filled with delight, and her heart melted with a mother’s love.
+
+দুর্ব্বা ধান্য দিল শীর্ষে,  কৈল বহু আশীষে,  
+চিরজীবী হও দুই ভাই ৷  
+ডাকিনী-শাঁখিনী হৈতে,  শঙ্কা উপজিল চিতে,  
+ডরে নাম থুইল ‘নিমাই’ ॥ ১১৭ ॥
+
+durvā dhānya dila śīrṣe, kaila bahu āśīṣe,  
+dūrvā  paddy  placed  on His head,  made  many  blessings  
+cirajīvī hao dui bhāi  
+long-lived  be  the two  brothers  
+ḍākinī-śām̐khinī haite, śaṅkā upajila cite,  
+of ḍākinīs  and śākhinīs  from,  fear  arose  in her heart  
+ḍare nāma thuila ‘nimāi’  
+out of fear  the name  gave  ‘Nimāi’
+
+(117) She placed dūrvā grass and paddy on His head and blessed Him again and again: “May the two brothers live long!” Fearing the witches and evil spirits, she gave Him the name Nimāi.[^30]
+
+পুত্রমাতা-স্নানদিনে,  দিল বস্ত্র বিভূষণে,  
+পুত্র-সহ মিশ্রেরে সম্মানি’ ৷  
+শচী-মিশ্রের পূজা লঞা,  মনেতে হরিষ হঞা,  
+ঘরে আইলা সীতা-ঠাকুরাণী ॥ ১১৮ ॥
+
+putramātā-snānadine, dila vastra vibhūṣaṇe,  
+the son and mother’s  bathing day,  gave  clothes  ornaments  
+putra-saha miśrere sammāni’  
+with the son  Miśra  honouring  
+śacī-miśrera pūjā lañā, manete hariṣa hañā,  
+Śacī and Miśra’s  honour  receiving,  in mind  glad  becoming  
+ghare āilā sītā-ṭhākurāṇī  
+home  returned  Sītā Ṭhākurāṇī
+
+(118) On the day the mother and child were bathed, she gave them clothes and ornaments and honoured Miśra together with his son. Then, honoured in turn by Śacī and Miśra, Sītā Ṭhākurāṇī returned home glad at heart.[^31]
+
+ঐছে শচী-জগন্নাথ,  পুত্র পাঞা লক্ষ্মীনাথ,  
+পূর্ণ হইল সকল বাঞ্ছিত ৷  
+ধন-ধান্যে ভরে ঘর,  লোকমান্য-কলেবর,  
+দিনে দিনে হয় আনন্দিত ॥ ১১৯ ॥
+
+aiche śacī-jagannātha, putra pāñā lakṣmīnātha,  
+thus  Śacī and Jagannātha,  a son  obtaining,  the Lord of Lakṣmī  
+pūrṇa haila sakala vāñchita  
+fulfilled  became  all  desires  
+dhana-dhānye bhare ghara, lokamānya-kalevara,  
+with wealth and grain  is filled  the house,  honoured by all  the body  
+dine dine haya ānandita  
+day  by day  become  joyful
+
+(119) So Śacī and Jagannātha had gained a son who was the Lord of Lakṣmī, and all their desires were fulfilled. Their house was filled with wealth and grain; everyone honoured their child, and day by day their joy grew.
+
+মিশ্র — বৈষ্ণব, শান্ত,  অলম্পট, শুদ্ধ, দান্ত,  
+ধনভোগে নাহি অভিমান ৷  
+পুত্রের প্রভাবে যত,  ধন আসি’ মিলে তত,  
+বিষ্ণুপ্রীতে দ্বিজে দেন দান ॥ ১২০ ॥
+
+miśra — vaiṣṇava, śānta, alampaṭa, śuddha, dānta,  
+Miśra  —  a Vaiṣṇava,  peaceful,  free from lust,  pure,  self-controlled  
+dhana-bhoge nāhi abhimāna  
+in enjoying wealth  not  conceit  
+putrera prabhāve yata, dhana āsi’ mile tata,  
+by the son’s  power  as much  wealth  coming  is gained  so much  
+viṣṇu-prīte dvije dena dāna  
+for Viṣṇu’s pleasure  to brāhmaṇas  gives  in charity
+
+(120) Miśra was a Vaiṣṇava — peaceful, free from lust, pure and self-controlled — with no thought of enjoying wealth. Whatever wealth came to him through his son’s power, he gave to the brāhmaṇas for the pleasure of Viṣṇu.[^32]
+
+লগ্ন গণি’ হর্ষমতি,  নীলাম্বর চক্রবর্ত্তী,  
+গুপ্তে কিছু কহিল মিশ্রেরে ৷  
+মহাপুরুষের চিহ্ন,  লগ্নে অঙ্গে ভিন্ন ভিন্ন,  
+দেখি, — এই তারিবে সংসারে ॥ ১২১ ॥
+
+lagna gaṇi’ harṣamati, nīlāmbara cakravartī,  
+the ascendant  calculating  joyful at heart,  Nīlāmbara  Cakravartī  
+gupte kichu kahila miśrere  
+in secret  something  said  to Miśra  
+mahāpuruṣera cihna, lagne aṅge bhinna bhinna,  
+of a great person  the marks,  in the horoscope  on the body  various  
+dekhi, — ei tāribe saṁsāre  
+I see  —  this one  will deliver  the world
+
+(121) Nīlāmbara Cakravartī cast the horoscope with joy in his heart and told Miśra in secret, “I see many marks of a great person (*mahāpuruṣa*), both in the horoscope and on His body. This child will deliver the world.”[^33]
+
+ঐছে প্রভু শচী-ঘরে,  কৃপায় কৈল অবতারে,  
+যেই ইহা করয়ে শ্রবণ ৷  
+গৌরপ্রভু দয়াময়,  তাঁরে হয়েন সদয়,  
+সেই পায় তাঁহার চরণ ॥ ১২২ ॥
+
+aiche prabhu śacī-ghare, kṛpāya kaila avatāre,  
+thus  the Lord  in Śacī’s house  in mercy  made  descent  
+yei ihā karaye śravaṇa  
+whoever  this  does  hearing  
+gaura-prabhu dayāmaya, tām̐re hayena sadaya,  
+Gaura Prabhu  merciful,  to him  becomes  kind  
+sei pāya tām̐hāra caraṇa  
+he  attains  His  feet
+
+(122) Thus the Lord in His mercy descended in Śacī’s house. Whoever hears of this receives the kindness of merciful Gaura Prabhu and attains His feet.
+
+পাইয়া মানুষ-জন্ম,  যে না শুনে গৌরগুণ,  
+হেন জন্ম তার ব্যর্থ হৈল ৷  
+পাইয়া অমৃতধুনী,  পিয়ে বিষগর্ত্ত-পানি,  
+জন্মিয়া সে কেনে নাহি মৈল ॥ ১২৩ ॥
+
+pāiyā mānuṣa-janma, ye nā śune gaura-guṇa,  
+having obtained  human birth,  who  not  hears  Gaura’s qualities  
+hena janma tāra vyartha haila  
+such  birth  his  wasted  became  
+pāiyā amṛtadhunī, piye viṣa-garta-pāni,  
+having found  the river of nectar,  drinks  from a poison pit  water  
+janmiyā se kene nāhi maila  
+being born  he  why  not  died
+
+(123) One who has gained a human birth yet will not hear of Gaura’s qualities has wasted that birth. He has found the river of nectar, yet drinks water from a poisoned pit. Why did he not die as soon as he was born?[^34]
+
+শ্রীচৈতন্য-নিত্যানন্দ,  আচার্য্য অদ্বৈতচন্দ্র,  
+স্বরূপ-রূপ-রঘুনাথদাস ৷  
+ইঁহা-সবার শ্রীচরণ,  শিরে বন্দি নিজধন,  
+জন্মলীলা গাইল কৃষ্ণদাস ॥ ১২৪ ॥
+
+śrī-caitanya-nityānanda, ācārya advaitacandra,  
+Śrī Caitanya  Nityānanda,  Ācārya  Advaitacandra  
+svarūpa-rūpa-raghunāthadāsa  
+Svarūpa  Rūpa  Raghunātha Dāsa  
+im̐hā-sabāra śrī-caraṇa, śire vandi nija-dhana,  
+of all of them  the holy feet,  on my head  honouring  as my own wealth  
+janma-līlā gāila kṛṣṇadāsa  
+the pastime of birth  sang  Kṛṣṇadāsa
+
+(124) Honouring upon my head, as my own treasure, the holy feet of Śrī Caitanya and Nityānanda, Ācārya Advaitacandra, Svarūpa, Rūpa and Raghunātha Dāsa, I, Kṛṣṇadāsa, have sung the pastime of His birth.
+
 ---
 
 [^1]: Heading in the edition: “The rays of *hari-bhajana* shining from the devotee-moons destroy the darkness of the living beings’ ignorance.”
@@ -1003,3 +1455,29 @@ glad  became  all  of the world  the mind
 [^20]: *Anubhāṣya*: the *ṣaḍ-varga* are the six divisions of a sign — *kṣetra*, *horā*, *drekkāṇa*, *navāṁśa*, *dvādaśāṁśa* and *triṁśāṁśa*; by them Cakravartī determined the auspicious signs. The *aṣṭa-varga* is reckoned from the positions of the planets, as taught in the *Bṛhaj-jātaka* and other books; by this reckoning too he found Mahāprabhu’s signs auspicious.
 
 [^21]: Heading in the edition: “Then even the Muslims took the name of Hari, on the pretext of mockery.”
+
+[^22]: *Anubhāṣya*: His own home — in Śāntipura; on the day of the Lord’s appearance Haridāsa Ṭhākura was in Śāntipura.
+
+[^23]: *Anubhāṣya*: *mano-bale* — “with eagerness of heart”, or “in the mind”. So too Vasudeva, seeing Hari born as his son, in the joy of Kṛṣṇa’s birth festival gave the brāhmaṇas ten thousand cows in his mind (Śrīmad-Bhāgavatam, 10.3.11).
+
+[^24]: *Anubhāṣya*: Sāvitrī is the consort of Brahmā, Gaurī of Śiva, Sarasvatī of Nṛsiṁha (after the verse quoted by Śrīdhara Svāmī: “in whose mouth dwells the Goddess of speech and on whose breast Lakṣmī…”), Śacī of Indra; Rambhā is a dancer of heaven, and Arundhatī the wife of Vasiṣṭha.
+
+[^25]: *Anubhāṣya*: *sambhālite* — “to understand”; gods, men, siddhas and the rest belong to different orders of beings, and so could not understand one another’s speech.
+
+[^26]: Heading in the edition: “The auspicious rites of Mālinī Ṭhākurāṇī and the Lord’s aunt”: the wife of Candraśekhara (Ācāryaratna) was Śacī’s sister.
+
+[^27]: *Anubhāṣya* to 112–113: *kaḍi-bauli* — a golden waist-chain; *pāśuli* — a silver foot ornament; *aṅgada*, *kaṅkaṇa* — golden bracelets; *divya śaṅkha* — bangles of conch shell; *malabaṅka* — a curved ankle-ring; *hema-jaḍi* — a jewel set in gold with a tiger’s claw; *kaṭi-paṭṭasūtra-ḍorī* — a waist-cord; *citra-varṇa paṭṭa-sāḍī* — many-coloured silk cloth; *buni photo paṭṭa-pāḍī* — a child’s little shirt (*phatuyā*) with a woven silk border.
+
+[^28]: *Anubhāṣya*: *gorocanā* — a bright yellow auspicious substance found in a cow’s head; *kuṅkuma* — the fragrant saffron of Kashmir.
+
+[^29]: *Anubhāṣya*: Kāna, Kānu — Kṛṣṇa; Kṛṣṇa’s colour is the deep blue of a rain-cloud or a sapphire, while Viśvambhara’s is the opposite, golden.
+
+[^30]: *Anubhāṣya*: the two brothers — Viśvarūpa and Viśvambhara; *ḍākinī* and *śākhinī* — evil spirits in the train of Pārvatī and Maheśa; they cannot approach the sacred nimba tree or anything connected with it — hence the name Nimāi.
+
+[^31]: *Anubhāṣya*: the bathing day is the day when mother and child are first brought out of the house (*niṣkramaṇa*); the *Amṛta-pravāha-bhāṣya* names the fifth and the ninth day after the birth. By Bengali custom a relative who has visited a household is honoured with clothes on taking leave; so Jagannātha Miśra and Śacī honoured Sītā Ṭhākurāṇī, and she returned to Śāntipura.
+
+[^32]: *Anubhāṣya*: worldly people, thinking of wife and children, are busy only with enjoying their wealth; the pure devotee Jagannātha Miśra was not like that: he offered everything to the Lord, gave the remnants to brāhmaṇas and other worthy persons, and took nothing for his own enjoyment.
+
+[^33]: *Amṛta-pravāha-bhāṣya*: the marks are in the horoscope and on the body (by *sāmudrika*, the science of bodily signs).
+
+[^34]: *Anubhāṣya*: one who turns from the river of nectar — devotion to Kṛṣṇa — to drink from the poisoned well of sense pleasure, so harmful to the soul, is utterly foolish, and his life is not worth sustaining. The *Anubhāṣya* cites the *Caitanya-candrāmṛta* of Śrīla Prabodhānanda Sarasvatī: if the world does not worship Śrī Caitanya, the Lord whom the best of the immortals worship, it is lifeless and death awaits it on every side; and now that the moon of Caitanya has risen and the ocean of the nectar of great love has spread far and wide, whoever remains poor is poor indeed.
