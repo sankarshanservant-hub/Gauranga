@@ -930,6 +930,216 @@ in Nimāi’s mouth  dwelling  speaks  herself  Sarasvatī
 
 (90) “No human being could give such an explanation. Sarasvatī herself must be speaking through Nimāi’s mouth.”
 
+এত ভাবি’ কহে — শুন, নিমাঞি পণ্ডিত ৷  
+তব ব্যাখ্যা শুনি’ আমি হইলাঙ বিস্মিত ॥ ৯১ ॥
+
+eta bhāvi’ kahe — śuna, nimāñi paṇḍita  
+so much  thinking  he says —  listen,  Nimāi  Paṇḍita  
+tava vyākhyā śuni’ āmi hailāṅa vismita  
+Your  explanation  hearing  I  have become  astonished
+
+(91) Thinking thus, he said, “Listen, Nimāi Paṇḍita: Your explanation has astonished me.
+
+অলঙ্কার নাহি পড়, নাহি শাস্ত্রাভ্যাস ৷  
+কেমনে এ সব অর্থ করিলে প্রকাশ ॥ ৯২ ॥
+
+alaṅkāra nāhi paḍa, nāhi śāstrābhyāsa  
+poetics  not  You have studied,  no  practice in the śāstras  
+kemane e saba artha karile prakāśa  
+how  these  all  meanings  have You  brought out
+
+(92) “You have not studied poetics, and You have no training in the śāstras. How could You bring out all these meanings?”
+
+ইহা শুনি’ মহাপ্রভু অতি বড় রঙ্গী ৷  
+তাঁহার হৃদয় জানি’ কহে, করি’ ভঙ্গী ॥ ৯৩ ॥
+
+ihā śuni’ mahāprabhu ati baḍa raṅgī  
+this  hearing  Mahāprabhu,  very  great  lover of fun  
+tām̐hāra hṛdaya jāni’ kahe, kari’ bhaṅgī  
+his  heart  knowing  says,  making  a playful turn
+
+(93) Hearing this, Mahāprabhu, who dearly loved a jest, read his heart and answered playfully:
+
+শাস্ত্রের বিচার ভাল-মন্দ নাহি জানি ৷  
+সরস্বতী যে বলায়, সেই বলি বাণী ॥ ৯৪ ॥
+
+śāstrera vicāra bhāla-manda nāhi jāni  
+of the śāstras  the analysis  good or bad  not  I know  
+sarasvatī ye balāya, sei bali vāṇī  
+Sarasvatī  what  makes Me say,  those  I speak  words
+
+(94) “I do not know whether My analysis of the śāstras is good or bad. I only speak the words that Sarasvatī makes Me speak.”
+
+ইহা শুনি’ দিগ্বিজয়ী করিল নিশ্চয় ৷  
+শিশুদ্বারে দেবী মোরে কৈল পরাজয় ॥ ৯৫ ॥
+
+ihā śuni’ digvijayī karila niścaya  
+this  hearing  the *digvijayī*  made  conclusion  
+śiśu-dvāre devī more kaila parājaya  
+through a child  the goddess  on me  inflicted  defeat
+
+(95) Hearing this, the *digvijayī* concluded, “The goddess has defeated me through a child.
+
+আজি তাঁরে নিবেদিব, করি’ জপ-ধ্যান ৷  
+শিশুদ্বারে কৈল মোরে এত অপমান ॥ ৯৬ ॥
+
+āji tām̐re nivediba, kari’ japa-dhyāna  
+today  to her  I shall submit,  doing  japa and meditation  
+śiśudvāre kaila more eta apamāna  
+through a child  she inflicted  on me  such  humiliation
+
+(96) “Today, with japa and meditation, I shall lay this before her: through a child she has humiliated me so!”
+
+বস্তুতঃ সরস্বতী অশুদ্ধ শ্লোক করাইল ৷  
+বিচার-সময় তাঁর বুদ্ধি আচ্ছাদিল ॥ ৯৭ ॥
+
+vastutaḥ sarasvatī aśuddha śloka karāila  
+in truth  Sarasvatī  a faulty  verse  had him make  
+vicāra-samaya tām̐ra buddhi ācchādila  
+at the time of examination  his  intelligence  covered
+
+(97) In truth, it was Sarasvatī who had him compose a faulty verse, and when it was examined she clouded his intelligence.
+
+তবে শিষ্যগণ সব হাসিতে লাগিল ৷  
+তা’-সবা নিষেধি’ প্রভু কবিকে কহিল ॥ ৯৮ ॥
+
+tabe śiṣya-gaṇa saba hāsite lāgila  
+then  the students  all  to laugh  began  
+tā’-sabā niṣedhi’ prabhu kavike kahila  
+them  all  forbidding  the Lord  to the poet  spoke
+
+(98) Then all the students began to laugh, but the Lord checked them and said to the poet:
+
+তুমি মহাপণ্ডিত হও, কবি-শিরোমণি ৷  
+যাঁর মুখে বাহিরায় ঐছে কাব্যবাণী ॥ ৯৯ ॥
+
+tumi mahāpaṇḍita hao, kavi-śiromaṇi  
+you  a great paṇḍita  are,  the crest-jewel of poets  
+yām̐ra mukhe bāhirāya aiche kāvya-vāṇī  
+from whose  mouth  comes forth  such  poetic speech
+
+(99) “You are a great paṇḍita, the crest-jewel of poets, for such poetry flows from your lips.
+
+তোমার কবিত্ব যেন গঙ্গাজল-ধার ৷  
+তোমা-সম কবি কোথা নাহি দেখি আর ॥ ১০০ ॥
+
+tomāra kavitva yena gaṅgā-jala-dhāra  
+your  poetry  like  of the Gaṅgā’s water  the stream  
+tomā-sama kavi kothā nāhi dekhi āra  
+you  like  a poet  anywhere  not  I see  another
+
+(100) “Your poetry is like the stream of the Gaṅgā’s waters; nowhere do I see another poet like you.
+
+ভবভূতি, জয়দেব, আর কালিদাস ৷  
+তাঁ-সবার কবিত্বে হয় দোষের প্রকাশ ॥ ১০১ ॥
+
+bhavabhūti, jayadeva, āra kālidāsa  
+Bhavabhūti,  Jayadeva,  and  Kālidāsa  
+tām̐-sabāra kavitve haya doṣera prakāśa  
+of them all  in the poetry  there is  of faults  appearance
+
+(101) “Even in the poetry of Bhavabhūti, Jayadeva and Kālidāsa faults appear.[^29]
+
+দোষ-গুণ-বিচারে এই অল্প করি’ মানি ৷  
+কবিত্ব-করণে শক্তি তাঁহা সে বাখানি ॥ ১০২ ॥
+
+doṣa-guṇa-vicāre ei alpa kari’ māni  
+in the analysis of faults and merits  this  little  making  I consider  
+kavitva-karaṇe śakti tām̐hā se vākhāni  
+in making poetry  the power  of theirs  that  I praise
+
+(102) “I count such analysis of faults and merits a small thing; what I praise is their power to compose poetry.
+
+শৈশব-চাপল্য কিছু না লবে আমার ৷  
+শিষ্যের সমান মুঞি না হঙ তোমার ॥ ১০৩ ॥
+
+śaiśava-cāpalya kichu nā labe āmāra  
+childish  restlessness  any  not  you take  of Mine  
+śiṣyera samāna muñi nā haṅa tomāra  
+of a student  equal  I  not  am  of yours
+
+(103) “Do not take My childish pranks to heart. I am not even fit to be your student.
+
+আজি’ বাসা যাহ, কালি মিলন আবার ৷  
+শুনিব তোমার মুখে শাস্ত্রের বিচার ॥ ১০৪ ॥
+
+āji’ vāsā yāha, kāli milana ābāra  
+today  to your lodging  go,  tomorrow  meeting  again  
+śuniba tomāra mukhe śāstrera vicāra  
+I shall hear  from your  mouth  of the śāstras  the exposition
+
+(104) “Go to your lodging today; tomorrow we shall meet again, and I shall hear you expound the śāstras.”
+
+এইমতে নিজ-ঘরে গেলা দুই জন ৷  
+কবি রাত্রে কৈল সরস্বতী-আরাধন ॥ ১০৫ ॥
+
+eimate nija-ghare gelā dui jana  
+in this way  to their own  homes  went  the two  persons  
+kavi rātre kaila sarasvatī-ārādhana  
+the poet  at night  made  of Sarasvatī  worship
+
+(105) So the two went home, and that night the poet worshipped Sarasvatī.
+
+সরস্বতী রাত্রে তাঁরে উপদেশ কৈল ৷  
+সাক্ষাৎ ঈশ্বর করি’ প্রভুরে জানিল ॥ ১০৬ ॥
+
+sarasvatī rātre tām̐re upadeśa kaila  
+Sarasvatī  at night  him  instruction  gave  
+sākṣāt īśvara kari’ prabhure jānila  
+directly  the Lord  as  the Lord  he knew
+
+(106) In the night Sarasvatī instructed him, and he came to know that Nimāi was the Lord Himself.
+
+প্রাতে আসি, প্রভুপদে লইল শরণ ৷  
+প্রভু কৃপা কৈল, তাঁর খণ্ডিল বন্ধন ॥ ১০৭ ॥
+
+prāte āsi, prabhu-pade laila śaraṇa  
+in the morning  coming,  at the Lord’s feet  took  shelter  
+prabhu kṛpā kaila, tām̐ra khaṇḍila bandhana  
+the Lord  mercy  showed,  his  cut  bondage
+
+(107) In the morning he came and took shelter at the Lord’s feet, and the Lord showed him mercy and cut his bonds.[^30]
+
+ভাগ্যবন্ত দিগ্বিজয়ী সফল-জীবন ৷  
+বিদ্যা-বলে পাইল মহাপ্রভুর চরণ ॥ ১০৮ ॥
+
+bhāgyavanta digvijayī saphala-jīvana  
+fortunate  the *digvijayī*  fruitful  life  
+vidyā-bale pāila mahāprabhura caraṇa  
+by the power of learning  obtained  of Mahāprabhu  the feet
+
+(108) The *digvijayī* was fortunate, and his life bore fruit: through his learning he attained the feet of Mahāprabhu.
+
+এসব লীলা বর্ণিয়াছেন বৃন্দাবনদাস ৷  
+যে কিছু করিল ইঁহা, বিশেষ প্রকাশ ॥ ১০৯ ॥
+
+esaba līlā varṇiyāchena vṛndāvanadāsa  
+all these  pastimes  has described  Vṛndāvana-dāsa  
+ye kichu karila im̐hā, viśeṣa prakāśa  
+what  little  I have done  here,  a fuller  presentation
+
+(109) Vṛndāvana dāsa has described all these pastimes; what little I have done here is to set out certain points more fully.
+
+চৈতন্য-গোসাঞির লীলা — অমৃতের ধার ৷  
+সর্ব্বেন্দ্রিয়তৃপ্তি হয় শ্রবণে যাহার ॥ ১১০ ॥
+
+caitanya-gosāñira līlā — amṛtera dhāra  
+of Caitanya Gosāñi  the pastimes —  of nectar  a stream  
+sarvendriya tṛpti haya śravaṇe yāhāra  
+of all the senses  satisfaction  comes  in hearing  of which
+
+(110) The pastimes of Caitanya Gosāñi are a stream of nectar; hearing them brings satisfaction to all the senses.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১১১ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(111) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: A play on words: *nīca-gā* means both “flowing downward” and “going to the lowly”. *Anubhāṣya*: the Lord’s mercy is always turned towards the humble and destitute, who have neither wealth nor greatness.
@@ -987,3 +1197,7 @@ in Nimāi’s mouth  dwelling  speaks  herself  Sarasvatī
 [^27]: *Amṛta-pravāha-bhāṣya*: the words about her birth from Viṣṇu’s feet prove what was to be proved — the greatness of the Gaṅgā; this is the ornament of inference (*anumāna*).
 
 [^28]: *Anubhāṣya*: if poetry is not examined, its faults are not easily seen.
+
+[^29]: *Anubhāṣya*: Bhavabhūti, or Śrīkaṇṭha, wrote the Sanskrit dramas *Mālatī-mādhava*, *Uttara-rāma-carita*, *Vīra-carita* and others; he lived in the reign of King Bhoja and was the son of Nīlakaṇṭha and grandson of Bhaṭṭa Gopāla, a brāhmaṇa of Padmanagara. Kālidāsa was the great poet, one of the “nine jewels” at the court of Vikramāditya, author of the *Raghuvaṁśa*, *Kumāra-sambhava*, *Abhijñāna-śakuntala*, *Megha-dūta* and some thirty or forty other poems, dramas and works. On Jayadeva, see Ādi 13.42.
+
+[^30]: *Amṛta-pravāha-bhāṣya*: his bondage was the bondage of māyā in the form of pride in his learning.
