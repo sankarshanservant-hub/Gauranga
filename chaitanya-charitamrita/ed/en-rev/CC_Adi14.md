@@ -16,7 +16,7 @@ being forgotten  the reverse  becomes
 śrī-caitanyam amuṁ bhaje  
 Śrī Caitanya  Him  I worship
 
-(1) I worship Śrī Caitanya. Remember Him in any way at all, and the difficult becomes easy; forget Him, and the easy becomes difficult. (Hari-bhakti-vilāsa, 20.1)
+(1) “I worship Śrī Caitanya. Remember Him in any way at all, and the difficult becomes easy; forget Him, and the easy becomes difficult.” (Hari-bhakti-vilāsa, 20.1)
 
 জয় জয় শ্রীচৈতন্য, জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র, জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -46,7 +46,7 @@ in brief  I have told  of the birth-pastimes  the sequence
 ebe kahi bālyalīlā-sūtrera gaṇana  
 now  I tell  of the childhood pastimes’  outline  the account
 
-(4) I have told the events of His birth in brief and in order; now I shall list, one by one, the main events of His childhood pastimes.
+(4) I have told the pastimes of His birth briefly and in order; now I shall name, one by one, the chief events of His childhood.
 
 বন্দে চৈতন্যকৃষ্ণস্য বাল্যলীলাং মনোহরাম্ ৷  
 লৌকিকীমপি তামীশ-চেষ্টয়া বলিতান্তরাম্ ॥ ৫ ॥
@@ -60,7 +60,7 @@ worldly  though  them  by the Lord’s
 ceṣṭayā valitāntarām  
 acts  inwardly imbued
 
-(5) I worship the enchanting childhood pastimes of Kṛṣṇa, who came as Caitanya. Though they seem the doings of an ordinary human child, within they are filled with the acts of the Lord Himself.[^1]
+(5) I worship the enchanting childhood pastimes of Kṛṣṇa, who came as Caitanya. Though they seem like the doings of an ordinary human child, within they are interwoven with the acts of the Lord Himself.[^1]
 
 বাল্যলীলায় আগে প্রভুর উত্তান শয়ন ৷  
 পিতা-মাতায় দেখাইল চিহ্ন চরণ ॥ ৬ ॥
@@ -100,7 +100,7 @@ Miśra  says  —  the child Gopāla  is  with the śilā
 tim̐ho mūrti-hañā khele, jāni, ghare raṅge  
 He  taking a form  plays,  I think,  in the house  for His delight
 
-(9) Miśra said, “The child Gopāla dwells with our *śālagrāma-śilā*. I think He takes on a form and plays about the house for His own delight.”
+(9) Miśra said, “The child Gopāla is present in our *śālagrāma-śilā*. I think He takes on a form and plays about the house for His own delight.”
 
 সেই ক্ষণে জাগি’ নিমাই করয়ে ক্রন্দন ৷  
 অঙ্কে লঞা শচী তাঁরে পিয়াইল স্তন ॥ ১০ ॥
@@ -274,7 +274,7 @@ seeing  Śacī  running  came  crying  ‘alas!’  ‘alas!’
 māṭi kāḍi’ lañā bale māṭi kene khāya  
 the earth  snatching  taking  says  earth  why  He eats
 
-(26) When Śacī saw it, she came running, crying, “Oh dear, oh dear!” She snatched the earth away and said, “Why are You eating earth?”
+(26) When Śacī saw it, she came running and cried out, “Oh dear, oh dear!” She snatched the earth away and said, “Why are You eating earth?”
 
 কান্দিয়া বলেন শিশু — কেনে কর রোষ ৷  
 তুমি মাটি খাইতে দিলে মোর কিবা দোষ ॥ ২৭ ॥
@@ -324,7 +324,7 @@ of earth  the transformation  food  if eaten  of the body  nourishment  is
 māṭi khāile roga haya, deha yāya kṣaya  
 earth  if eaten  disease  comes,  the body  goes  to decay
 
-(31) Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in, and the body wastes away.
+(31) Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in and the body wastes away.
 
 মাটির বিকার ঘটে পানি ভরি’ আনি ৷  
 মাটি-পিণ্ডে ধরি যবে, শোষি’ যায় পানি ॥ ৩২ ॥
@@ -384,7 +384,7 @@ of a guest  brāhmaṇa’s  food  He ate  three times
 pāche gupte sei vipre karila nistāra  
 afterwards  in secret  that  brāhmaṇa  He made  delivered
 
-(37) Three times He ate the food of a brāhmaṇa guest, and afterwards, in secret, He delivered that brāhmaṇa.[^10]
+(37) Three times He ate the food a brāhmaṇa guest had cooked, and afterwards, in secret, He delivered him.[^10]
 
 চোরে লঞা গেল প্রভুকে বাহিরে পাইয়া ৷  
 তার স্কন্ধে চড়ি’ আইলা তারে ভুলাইয়া ॥ ৩৮ ॥
@@ -604,7 +604,7 @@ this  hearing  of them all  in the minds  arose  fear
 kona kichu jāne, kibā devāviṣṭa haya  
 something  some  He knows,  or  by a god possessed  He is
 
-(59) Hearing this, they all grew frightened: “Perhaps He knows something, or perhaps some god has entered Him.”
+(59) The girls grew frightened at these words: “Perhaps He knows something, or perhaps some god has entered Him.”
 
 আনিয়া নৈবেদ্য তারা সম্মুখে ধরিল ৷  
 খাইয়া নৈবেদ্য তারে ইষ্টবর দিল ॥ ৬০ ॥
@@ -748,7 +748,7 @@ in the refuse pit  of the discarded  pots  on top
 basiyāchena sukhe prabhu deva-viśvambhara  
 is seated  happily  the Lord  divine  Viśvambhara
 
-(73) And there, on the pots thrown into the refuse pit, sat the Lord Viśvambhara, who upholds the universe, quite content.[^19]
+(73) Then the Lord Viśvambhara, upholder of the universe, sat down contentedly on the cast-off pots in the refuse pit.[^19]
 
 শচী আসি’ কহে, — কেনে অশুচি ছুঁইলা ৷  
 গঙ্গাস্নান কর যাই’ — অপবিত্র হইলা ॥ ৭৪ ॥
@@ -768,7 +768,7 @@ this  hearing  to His mother  He spoke  knowledge of Brahman
 vismitā haiyā mātā karāila snāna  
 astonished  becoming  the mother  made Him  bathe
 
-(75) Hearing this, He spoke to His mother of *brahma-jñāna*, spiritual knowledge. She was astonished, but still she made Him bathe.[^20]
+(75) In reply He spoke to His mother of *brahma-jñāna*, spiritual knowledge. She was astonished, but still she made Him bathe.[^20]
 
 কভু পুত্রসঙ্গে শচী করিলা শয়ন ৷  
 দেখে, দিব্যলোক আসি’ ভরিল ভবন ॥ ৭৬ ॥
@@ -938,7 +938,7 @@ of friends and kinsmen  in the presence  the dream  he told
 śuniyā sakala loka vismita haila  
 hearing  all  the people  astonished  became
 
-(92) He told the dream to his friends and kinsmen, and all who heard it were astonished.
+(92) He told the dream to his friends and kinsmen, and all who heard it marvelled.
 
 এইমত শিশুলীলা করে গৌরচন্দ্র ৷  
 দিনে দিনে পিতা-মাতার বাড়িল আনন্দ ॥ ৯৩ ॥
@@ -958,7 +958,7 @@ some  days later  Miśra  his son’s  in the hand  chalk  placed
 alpa dine dvādaśa-phalā akṣara śikhila  
 in a few  days  with the twelve phalās  the letters  He learnt
 
-(94) Some days later Miśra placed the chalk in his son’s hand, and within a few days He had learnt all the letters with their twelve *phalās*.[^23]
+(94) Some days later Miśra placed chalk in his son’s hand, and within a few days He had learnt all the letters with their twelve *phalās*.[^23]
 
 বাল্যলীলা-সূত্র এই কহিল অনুক্রম ৷  
 ইহা বিস্তারিয়াছেন দাস-বৃন্দাবন ॥ ৯৫ ॥

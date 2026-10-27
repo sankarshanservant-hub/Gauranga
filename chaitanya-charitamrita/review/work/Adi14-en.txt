@@ -9,7 +9,7 @@ w: in any way  being remembered  whom
 w: the difficult  easy  becomes
 w: being forgotten  the reverse  becomes
 w: Śrī Caitanya  Him  I worship
-tr: I worship Śrī Caitanya. Remember Him in any way at all, and the difficult becomes easy; forget Him, and the easy becomes difficult. (Hari-bhakti-vilāsa, 20.1)
+tr: “I worship Śrī Caitanya. Remember Him in any way at all, and the difficult becomes easy; forget Him, and the easy becomes difficult.” (Hari-bhakti-vilāsa, 20.1)
 
 ## 2
 w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
@@ -24,14 +24,14 @@ tr: Thus I have given an outline of the Lord’s birth, telling how the son of Y
 ## 4
 w: in brief  I have told  of the birth-pastimes  the sequence
 w: now  I tell  of the childhood pastimes’  outline  the account
-tr: I have told the events of His birth in brief and in order; now I shall list, one by one, the main events of His childhood pastimes.
+tr: I have told the pastimes of His birth briefly and in order; now I shall name, one by one, the chief events of His childhood.
 
 ## 5
 w: I worship  of Caitanya-Kṛṣṇa
 w: the childhood pastimes  enchanting
 w: worldly  though  them  by the Lord’s
 w: acts  inwardly imbued
-tr: I worship the enchanting childhood pastimes of Kṛṣṇa, who came as Caitanya. Though they seem the doings of an ordinary human child, within they are filled with the acts of the Lord Himself.
+tr: I worship the enchanting childhood pastimes of Kṛṣṇa, who came as Caitanya. Though they seem like the doings of an ordinary human child, within they are interwoven with the acts of the Lord Himself.
 fn: Heading in the edition: “Though Gaura’s pastimes look human, they are not of this world (*aprākṛta*).” *Anubhāṣya*: *laukikīm api* — though they resemble the doings of people in this world; *īśa-ceṣṭayā valitāntarām* — “inwardly joined with the acts of the Lord”, with His supernatural endeavours. *Amṛta-pravāha-bhāṣya*: the childhood pastimes look worldly, yet the acts of God are woven into them.
 
 ## 6
@@ -53,7 +53,7 @@ tr: At the sight both were filled with wonder, unable to tell whose footprints t
 ## 9
 w: Miśra  says  —  the child Gopāla  is  with the śilā
 w: He  taking a form  plays,  I think,  in the house  for His delight
-tr: Miśra said, “The child Gopāla dwells with our *śālagrāma-śilā*. I think He takes on a form and plays about the house for His own delight.”
+tr: Miśra said, “The child Gopāla is present in our *śālagrāma-śilā*. I think He takes on a form and plays about the house for His own delight.”
 
 ## 10
 w: at that  moment  waking  Nimāi  begins  crying
@@ -146,7 +146,7 @@ fn: *Anubhāṣya*: this episode is one of those that Vṛndāvana dāsa left ou
 ## 26
 w: seeing  Śacī  running  came  crying  ‘alas!’  ‘alas!’
 w: the earth  snatching  taking  says  earth  why  He eats
-tr: When Śacī saw it, she came running, crying, “Oh dear, oh dear!” She snatched the earth away and said, “Why are You eating earth?”
+tr: When Śacī saw it, she came running and cried out, “Oh dear, oh dear!” She snatched the earth away and said, “Why are You eating earth?”
 
 ## 27
 w: weeping  says  the child  —  why  you make  anger
@@ -172,7 +172,7 @@ tr: Inwardly astonished, Śacī said to Him, “Who taught You such *jñāna-yog
 ## 31
 w: of earth  the transformation  food  if eaten  of the body  nourishment  is
 w: earth  if eaten  disease  comes,  the body  goes  to decay
-tr: Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in, and the body wastes away.
+tr: Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in and the body wastes away.
 
 ## 32
 w: of earth  the transformation  in a pot  water  filling  I bring
@@ -202,7 +202,7 @@ tr: Thus, on one pretext or another, He would show His majesty, and afterwards, 
 ## 37
 w: of a guest  brāhmaṇa’s  food  He ate  three times
 w: afterwards  in secret  that  brāhmaṇa  He made  delivered
-tr: Three times He ate the food of a brāhmaṇa guest, and afterwards, in secret, He delivered that brāhmaṇa.
+tr: Three times He ate the food a brāhmaṇa guest had cooked, and afterwards, in secret, He delivered him.
 fn: *Amṛta-pravāha-bhāṣya*: a wandering brāhmaṇa came as a guest to the house of Śrī Jagannātha Miśra. Miśra gave him all he needed for cooking, and he prepared a meal; but as soon as he offered it in meditation to Gopāla, Nimāi came and began to eat it. The brāhmaṇa cooked again, and the same thing happened. The third time he cooked when everyone in the house was asleep, and again Nimāi came and began to eat. The brāhmaṇa cried out in despair, and then Nimāi said, “O brāhmaṇa, when I was Yaśodā’s darling in Vraja, this happened to you before. Now too, drawn by your devotion, I have shown Myself to you out of mercy.” Seeing his worshipful Lord, the brāhmaṇa, enraptured with great love, honoured the remnants of the prasāda, and the Lord forbade him to reveal this hidden pastime. *Anubhāṣya*: see the *Caitanya-bhāgavata*, Ādi 3.
 
 ## 38
@@ -318,7 +318,7 @@ tr: “If you are stingy and will not give Me your offering, you will get an old
 ## 59
 w: this  hearing  of them all  in the minds  arose  fear
 w: something  some  He knows,  or  by a god possessed  He is
-tr: Hearing this, they all grew frightened: “Perhaps He knows something, or perhaps some god has entered Him.”
+tr: The girls grew frightened at these words: “Perhaps He knows something, or perhaps some god has entered Him.”
 
 ## 60
 w: bringing  the offering  they  before Him  held
@@ -393,7 +393,7 @@ tr: One day Śacī-devī scolded her son and went to catch Him, but He ran away.
 ## 73
 w: in the refuse pit  of the discarded  pots  on top
 w: is seated  happily  the Lord  divine  Viśvambhara
-tr: And there, on the pots thrown into the refuse pit, sat the Lord Viśvambhara, who upholds the universe, quite content.
+tr: Then the Lord Viśvambhara, upholder of the universe, sat down contentedly on the cast-off pots in the refuse pit.
 fn: Heading in the edition: “Nimāi sits on the discarded pots.” The *Anubhāṣya* cites the *Caitanya-bhāgavata* (Ādi 7): “The Lord sat Himself down, as if on a throne, on the pots thrown away after the offering to Viṣṇu. His mother came, saw Him and cried, ‘Oh dear, my child, You must not sit here!’ But the Lord said, ‘Everywhere I see one, without a second. There is no defilement at all in these pots. Pots in which food is cooked for Viṣṇu are never impure; their touch makes any other place pure.’”
 
 ## 74
@@ -404,7 +404,7 @@ tr: Śacī came and said, “Why have You touched these unclean things? Go and b
 ## 75
 w: this  hearing  to His mother  He spoke  knowledge of Brahman
 w: astonished  becoming  the mother  made Him  bathe
-tr: Hearing this, He spoke to His mother of *brahma-jñāna*, spiritual knowledge. She was astonished, but still she made Him bathe.
+tr: In reply He spoke to His mother of *brahma-jñāna*, spiritual knowledge. She was astonished, but still she made Him bathe.
 fn: Heading in the edition: “The son instructs His mother in the knowledge of Brahman (*brahma-jñāna*).” *Amṛta-pravāha-bhāṣya*: the Lord said, “Mother, ‘defiled’ and ‘undefiled’ are only human notions; there is no truth in them. In these pots you cooked for Viṣṇu and offered the food to Him — how can they ever be defiled? And the soul is eternally pure — how can ‘defiled’ and ‘pure’ apply to it?” Hearing such teaching, His mother was astonished and made Him bathe.
 
 ## 76
@@ -492,7 +492,7 @@ tr: At this the brāhmaṇa went away well pleased, and Miśra awoke in utter as
 ## 92
 w: of friends and kinsmen  in the presence  the dream  he told
 w: hearing  all  the people  astonished  became
-tr: He told the dream to his friends and kinsmen, and all who heard it were astonished.
+tr: He told the dream to his friends and kinsmen, and all who heard it marvelled.
 
 ## 93
 w: in this way  childhood pastimes  does  Gauracandra
@@ -502,7 +502,7 @@ tr: Thus Gauracandra played His childhood pastimes, and day by day His parents�
 ## 94
 w: some  days later  Miśra  his son’s  in the hand  chalk  placed
 w: in a few  days  with the twelve phalās  the letters  He learnt
-tr: Some days later Miśra placed the chalk in his son’s hand, and within a few days He had learnt all the letters with their twelve *phalās*.
+tr: Some days later Miśra placed chalk in his son’s hand, and within a few days He had learnt all the letters with their twelve *phalās*.
 fn: Heading in the edition: “Chalk is placed in Nimāi’s hand.” *Anubhāṣya*: the twelve *phalās* are the signs by which other sounds are joined to a Bengali letter: *repha*, *ṇa*, *na*, *ma*, *ya*, *ra*, *la*, *va*, *ṛ*, *ṝ*, *ḷ* and *ḹ*.
 
 ## 95
