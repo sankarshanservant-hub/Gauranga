@@ -24,7 +24,7 @@ tr: Thus I have given an outline of the Lord’s birth, telling how the son of Y
 ## 4
 w: in brief  I have told  of the birth-pastimes  the sequence
 w: now  I tell  of the childhood pastimes’  outline  the account
-tr: I have told the events of His birth in brief and in order; now I shall give, point by point, the outline of His childhood pastimes.
+tr: I have told the events of His birth in brief and in order; now I shall list, one by one, the main events of His childhood pastimes.
 
 ## 5
 w: I worship  of Caitanya-Kṛṣṇa
@@ -130,7 +130,7 @@ fn: Heading in the edition: “At the name of Hari His crying stops.” *Anubhā
 ## 23
 w: then  some  days later  He did  on the feet  walking
 w: with the children  joining  He did  various  games
-tr: Some days later He began to walk, and He played all sorts of games with the other children.
+tr: Later still He began to walk, and He played all sorts of games with the other children.
 
 ## 24
 w: one day  Śacī  puffed rice and sweets  bringing
@@ -172,7 +172,7 @@ tr: Inwardly astonished, Śacī said to Him, “Who taught You such *jñāna-yog
 ## 31
 w: of earth  the transformation  food  if eaten  of the body  nourishment  is
 w: earth  if eaten  disease  comes,  the body  goes  to decay
-tr: Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in and the body wastes away.
+tr: Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in, and the body wastes away.
 
 ## 32
 w: of earth  the transformation  in a pot  water  filling  I bring
@@ -328,7 +328,7 @@ tr: So they brought their offerings and held them out before Him, and when He ha
 ## 61
 w: in this way  naughtiness  to all  people  He shows
 w: sorrow  anyone’s  in the mind  is not,  all  happiness  get
-tr: So He showed His mischief to everyone, yet no one was ever unhappy; it brought them all joy.
+tr: In this way He showed His mischief to everyone, yet no one was ever unhappy; it brought them all joy.
 
 ## 62
 w: one day  Vallabhācārya’s daughter  ‘Lakṣmī’  by name
@@ -379,3 +379,144 @@ fn: *Anubhāṣya*: these are Śrī Kṛṣṇa’s words to the gopīs who had 
 w: in this way  pastime  the two  having played  went  home
 w: deep  Caitanya’s pastimes  who  to understand  is able
 tr: After this pastime the two of them went home. Who can fathom the deep pastimes of Caitanya?
+
+## 71
+w: Caitanya’s  naughtiness  seeing  out of love  all  people
+w: Śacī and Jagannātha  meeting  give  complaints
+tr: Seeing Caitanya’s mischief, everyone, out of love for Him, would come to Śacī and Jagannātha with complaints.
+
+## 72
+w: one day  Śacī-devī  her son  having scolded
+w: to catch  went  her son,  He went  running away
+tr: One day Śacī-devī scolded her son and went to catch Him, but He ran away.
+
+## 73
+w: in the refuse pit  of the discarded  pots  on top
+w: is seated  happily  the Lord  divine  Viśvambhara
+tr: And there, on the pots thrown into the refuse pit, sat the Lord Viśvambhara, who upholds the universe, quite content.
+fn: Heading in the edition: “Nimāi sits on the discarded pots.” The *Anubhāṣya* cites the *Caitanya-bhāgavata* (Ādi 7): “The Lord sat Himself down, as if on a throne, on the pots thrown away after the offering to Viṣṇu. His mother came, saw Him and cried, ‘Oh dear, my child, You must not sit here!’ But the Lord said, ‘Everywhere I see one, without a second. There is no defilement at all in these pots. Pots in which food is cooked for Viṣṇu are never impure; their touch makes any other place pure.’”
+
+## 74
+w: Śacī  coming  says  —  why  the impure  You touched
+w: bath in the Ganges  take  going  —  unclean  You have become
+tr: Śacī came and said, “Why have You touched these unclean things? Go and bathe in the Ganges — You have made Yourself impure.”
+
+## 75
+w: this  hearing  to His mother  He spoke  knowledge of Brahman
+w: astonished  becoming  the mother  made Him  bathe
+tr: Hearing this, He spoke to His mother of *brahma-jñāna*, spiritual knowledge. She was astonished, but still she made Him bathe.
+fn: Heading in the edition: “The son instructs His mother in the knowledge of Brahman (*brahma-jñāna*).” *Amṛta-pravāha-bhāṣya*: the Lord said, “Mother, ‘defiled’ and ‘undefiled’ are only human notions; there is no truth in them. In these pots you cooked for Viṣṇu and offered the food to Him — how can they ever be defiled? And the soul is eternally pure — how can ‘defiled’ and ‘pure’ apply to it?” Hearing such teaching, His mother was astonished and made Him bathe.
+
+## 76
+w: once  with her son  Śacī  lay down  to rest
+w: she sees  divine beings  coming  filled  the house
+tr: Once, as Śacī lay resting with her son, she saw that divine beings had come and filled the house.
+
+## 77
+w: Śacī  says  —  go,  son,  call  Your father
+w: the mother’s  order  receiving  the Lord  went  outside
+tr: Śacī said, “Go, my son, and call Your father.” At His mother’s bidding the Lord went outside.
+
+## 78
+w: as He walked  on the feet  anklets  ring  jhan-jhan
+w: hearing  startled  became  of father and mother  the minds
+tr: As He walked, anklets jingled on His feet, and His father and mother were startled to hear them.
+
+## 79
+w: Miśra  says  —  this  very  wonderful  happening
+w: of the child  on bare feet  why  of anklets  the sound
+tr: Miśra said, “This is a great wonder! Why do we hear anklets on the child’s bare feet?”
+
+## 80
+w: Śacī  says  —  another  one  wonder  I saw
+w: divine  divine  beings  coming  the courtyard  filled
+tr: Śacī said, “I saw another wonder too: radiant divine beings came and filled the courtyard.
+
+## 81
+w: what  clamour  they make,  to understand  not  I can
+w: whom  or  praises  they offer,  a guess  I make
+tr: They raised such a clamour that I could not make out what they said; whom they were praising I can only guess.”
+
+## 82
+w: Miśra  says  —  whatever  may be,  worry  any  there is not
+w: Viśvambhara’s  welfare  may be  —  this  only  I want
+tr: Miśra said, “Whatever it may be, there is nothing to worry about. All I want is for Viśvambhara to be well.”
+
+## 83
+w: one day  Miśra  his son’s  naughtiness  seeing
+w: instruction in dharma  gave  much  scolding  doing
+tr: One day, seeing his son’s mischief, Miśra scolded Him severely and taught Him what dharma requires.
+
+## 84
+w: at night  a dream  he sees  —  one  coming  brāhmaṇa
+w: to Miśra  speaks  some  angry  words
+tr: At night he dreamt that a brāhmaṇa came and spoke to him angrily:
+
+## 85
+w: Miśra,  you  of your son  the truth  at all  not  know
+w: scolding and beating  you do  —  a son  considering  regarding
+tr: “Miśra, you know nothing of who your son truly is. You scold and beat Him because you think of Him as merely your son.”
+
+## 86
+w: Miśra  says  —  a god,  a perfected one,  a sage  why  not
+w: whoever  great  may He be,  now  my  son
+tr: Miśra said, “Be He a god, a perfected being or a sage — however great He may be, now He is my son.
+
+## 87
+w: of a son  the upbringing and teaching  —  of a father  the own dharma
+w: I  not  if teach,  how  will He know  of dharma  the heart
+tr: To raise and teach his son is a father’s own dharma. If I do not teach Him, how will He come to know the heart of dharma?”
+
+## 88
+w: the brāhmaṇa  says  —  He  if  divinely perfect  is
+w: self-perfect knowledge,  then  teaching  useless  is
+tr: The brāhmaṇa said, “If He is divine and perfect by nature, His knowledge is complete in itself, and teaching Him is in vain.”
+fn: Heading in the edition to 88–89: “The brāhmaṇa’s words and Miśra’s reply.” *Anubhāṣya*: seeing that Miśra took Nimāi for an untaught child and wished to teach Him so as to awaken knowledge in Him, the brāhmaṇa said: “Your son is an eternally perfect divinity, yet you mistake His eternal, natural knowledge for a child’s folly and set about teaching Him. That is in vain, and it is not proper for you.” Here the *Anubhāṣya* also refers to Antya 4.174–176 and cites the *Śrīmad-Bhāgavatam* (11.28.4; 11.19.45; 11.21.3): in the transcendent there is no distinction of “good” and “bad” — such distinctions belong to the duality of the mind; “pure” and “impure” are prescribed among things of one nature only for the sake of dharma, worldly dealings and the upkeep of life.
+
+## 89
+w: Miśra  says  —  my son  why  not be  Nārāyaṇa
+w: even so  a father’s  dharma  —  his son’s  teaching
+tr: Miśra said, “My son may well be Nārāyaṇa; even so, it is a father’s dharma to teach his son.”
+
+## 90
+w: in this way  the two  do  of dharma  discussion
+w: pure parental love  Miśra’s,  not  he knows  anything else
+tr: So the two of them discussed dharma. Miśra’s parental love was pure; he knew nothing else.
+fn: Heading in the edition: “Miśra’s pure parental love for the Lord.” *Anubhāṣya*: *Bhakti-rasāmṛta-sindhu* (Western Division, Fourth Wave): the abiding sentiment (*sthāyi-bhāva*) of parental affection, nourished by *vibhāva* and the other elements, is called *vatsala-rasa*. And the *Śrīmad-Bhāgavatam* (10.8.45): Yaśodā looked upon as her own son Hari, whose glory is sung by the three Vedas, the Upaniṣads, Sāṅkhya, Yoga and the Sātvata scriptures.
+
+## 91
+w: so  hearing  the brāhmaṇa  went away  becoming  pleased
+w: Miśra  waking  became  supremely  astonished
+tr: At this the brāhmaṇa went away well pleased, and Miśra awoke in utter astonishment.
+
+## 92
+w: of friends and kinsmen  in the presence  the dream  he told
+w: hearing  all  the people  astonished  became
+tr: He told the dream to his friends and kinsmen, and all who heard it were astonished.
+
+## 93
+w: in this way  childhood pastimes  does  Gauracandra
+w: day by day  of father and mother  grew  the joy
+tr: Thus Gauracandra played His childhood pastimes, and day by day His parents’ joy grew.
+
+## 94
+w: some  days later  Miśra  his son’s  in the hand  chalk  placed
+w: in a few  days  with the twelve phalās  the letters  He learnt
+tr: Some days later Miśra placed the chalk in his son’s hand, and within a few days He had learnt all the letters with their twelve *phalās*.
+fn: Heading in the edition: “Chalk is placed in Nimāi’s hand.” *Anubhāṣya*: the twelve *phalās* are the signs by which other sounds are joined to a Bengali letter: *repha*, *ṇa*, *na*, *ma*, *ya*, *ra*, *la*, *va*, *ṛ*, *ṝ*, *ḷ* and *ḹ*.
+
+## 95
+w: of the childhood pastimes  outline  this  I have told  in order
+w: this  has elaborated  dāsa  Vṛndāvana
+tr: This, in order, is the outline of His childhood pastimes; Vṛndāvana dāsa has described them at length.
+fn: Heading in the edition: “These chief events of the childhood pastimes are described in the *Caitanya-bhāgavata*.”
+
+## 96
+w: therefore  the childhood pastimes  in brief  outline  I made
+w: of repetition  for fear  at length  not  I told
+tr: Therefore I have outlined the childhood pastimes briefly and, for fear of repeating him, have not told them in detail.
+
+## 97
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

@@ -46,7 +46,7 @@ in brief  I have told  of the birth-pastimes  the sequence
 ebe kahi bālyalīlā-sūtrera gaṇana  
 now  I tell  of the childhood pastimes’  outline  the account
 
-(4) I have told the events of His birth in brief and in order; now I shall give, point by point, the outline of His childhood pastimes.
+(4) I have told the events of His birth in brief and in order; now I shall list, one by one, the main events of His childhood pastimes.
 
 বন্দে চৈতন্যকৃষ্ণস্য বাল্যলীলাং মনোহরাম্ ৷  
 লৌকিকীমপি তামীশ-চেষ্টয়া বলিতান্তরাম্ ॥ ৫ ॥
@@ -244,7 +244,7 @@ then  some  days later  He did  on the feet  walking
 śiśu-gaṇe mili’ kaila vividha khelana  
 with the children  joining  He did  various  games
 
-(23) Some days later He began to walk, and He played all sorts of games with the other children.
+(23) Later still He began to walk, and He played all sorts of games with the other children.
 
 একদিন শচী খই-সন্দেশ আনিয়া ৷  
 বাটা ভরি’ দিয়া বলে — খাও ত’ বসিয়া ॥ ২৪ ॥
@@ -324,7 +324,7 @@ of earth  the transformation  food  if eaten  of the body  nourishment  is
 māṭi khāile roga haya, deha yāya kṣaya  
 earth  if eaten  disease  comes,  the body  goes  to decay
 
-(31) Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in and the body wastes away.
+(31) Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in, and the body wastes away.
 
 মাটির বিকার ঘটে পানি ভরি’ আনি ৷  
 মাটি-পিণ্ডে ধরি যবে, শোষি’ যায় পানি ॥ ৩২ ॥
@@ -624,7 +624,7 @@ in this way  naughtiness  to all  people  He shows
 duḥkha kāro mane nahe, sabe sukha pāya  
 sorrow  anyone’s  in the mind  is not,  all  happiness  get
 
-(61) So He showed His mischief to everyone, yet no one was ever unhappy; it brought them all joy.
+(61) In this way He showed His mischief to everyone, yet no one was ever unhappy; it brought them all joy.
 
 একদিন বল্লভাচার্য্য-কন্যা ‘লক্ষ্মী’ নাম ৷  
 দেবতা পূজিতে আইল করি’ গঙ্গাস্নান ॥ ৬২ ॥
@@ -720,6 +720,276 @@ deep  Caitanya’s pastimes  who  to understand  is able
 
 (70) After this pastime the two of them went home. Who can fathom the deep pastimes of Caitanya?
 
+চৈতন্য চাপল্য দেখি’ প্রেমে সর্ব্ব জন ৷  
+শচী-জগন্নাথে দেখি’ দেন ওলাহন ॥ ৭১ ॥
+
+caitanya cāpalya dekhi’ preme sarva jana  
+Caitanya’s  naughtiness  seeing  out of love  all  people  
+śacī-jagannāthe dekhi’ dena olāhana  
+Śacī and Jagannātha  meeting  give  complaints
+
+(71) Seeing Caitanya’s mischief, everyone, out of love for Him, would come to Śacī and Jagannātha with complaints.
+
+একদিন শচী-দেবী পুত্রেরে ভর্ৎসিয়া ৷  
+ধরিবারে গেলা পুত্রে, গেলা পলাইয়া ॥ ৭২ ॥
+
+ekadina śacī-devī putrere bhartsiyā  
+one day  Śacī-devī  her son  having scolded  
+dharibāre gelā putra, gelā palāiyā  
+to catch  went  her son,  He went  running away
+
+(72) One day Śacī-devī scolded her son and went to catch Him, but He ran away.
+
+উচ্ছিষ্ট-গর্ত্তে ত্যক্ত-হাণ্ডীর উপর ৷  
+বসিয়াছেন সুখে প্রভু দেব-বিশ্বম্ভর ॥ ৭৩ ॥
+
+ucchiṣṭa-garte tyakta-hāṇḍīra upara  
+in the refuse pit  of the discarded  pots  on top  
+basiyāchena sukhe prabhu deva-viśvambhara  
+is seated  happily  the Lord  divine  Viśvambhara
+
+(73) And there, on the pots thrown into the refuse pit, sat the Lord Viśvambhara, who upholds the universe, quite content.[^19]
+
+শচী আসি’ কহে, — কেনে অশুচি ছুঁইলা ৷  
+গঙ্গাস্নান কর যাই’ — অপবিত্র হইলা ॥ ৭৪ ॥
+
+śacī āsi’ kahe, — kene aśuci chum̐ilā  
+Śacī  coming  says  —  why  the impure  You touched  
+gaṅgā-snāna kara yāi’ — apavitra hailā  
+bath in the Ganges  take  going  —  unclean  You have become
+
+(74) Śacī came and said, “Why have You touched these unclean things? Go and bathe in the Ganges — You have made Yourself impure.”
+
+ইহা শুনি’ মাতাকে কহিল ব্রহ্মজ্ঞান ৷  
+বিস্মিতা হইয়া মাতা করাইল স্নান ॥ ৭৫ ॥
+
+ihā śuni’ mātāke kahila brahma-jñāna  
+this  hearing  to His mother  He spoke  knowledge of Brahman  
+vismitā haiyā mātā karāila snāna  
+astonished  becoming  the mother  made Him  bathe
+
+(75) Hearing this, He spoke to His mother of *brahma-jñāna*, spiritual knowledge. She was astonished, but still she made Him bathe.[^20]
+
+কভু পুত্রসঙ্গে শচী করিলা শয়ন ৷  
+দেখে, দিব্যলোক আসি’ ভরিল ভবন ॥ ৭৬ ॥
+
+kabhu putrasaṅge śacī karilā śayana  
+once  with her son  Śacī  lay down  to rest  
+dekhe, divyaloka āsi’ bharila bhavana  
+she sees  divine beings  coming  filled  the house
+
+(76) Once, as Śacī lay resting with her son, she saw that divine beings had come and filled the house.
+
+শচী বলে, — যাহ, পুত্র, বোলাহ বাপেরে ৷  
+মাতৃ-আজ্ঞা পাইয়া প্রভু চলিলা বাহিরে ॥ ৭৭ ॥
+
+śacī bale, — yāha, putra, bolāha bāpere  
+Śacī  says  —  go,  son,  call  Your father  
+mātṛ-ājñā pāiyā prabhu calilā bāhire  
+the mother’s  order  receiving  the Lord  went  outside
+
+(77) Śacī said, “Go, my son, and call Your father.” At His mother’s bidding the Lord went outside.
+
+চলিতে চরণে নূপুর বাজে ঝন্ঝন্ ৷  
+শুনি’ চমকিত হৈল পিতামাতার মন ॥ ৭৮ ॥
+
+calite caraṇe nūpura bāje jhanjhan  
+as He walked  on the feet  anklets  ring  jhan-jhan  
+śuni’ camakita haila pitāmātāra mana  
+hearing  startled  became  of father and mother  the minds
+
+(78) As He walked, anklets jingled on His feet, and His father and mother were startled to hear them.
+
+মিশ্র কহে, — এই বড় অদ্ভুত কাহিনী ৷  
+শিশুর শূন্যপদে কেনে নূপুরের ধ্বনি ॥ ৭৯ ॥
+
+miśra kahe, — ei baḍa adbhuta kāhinī  
+Miśra  says  —  this  very  wonderful  happening  
+śiśura śūnya-pade kene nūpurera dhvani  
+of the child  on bare feet  why  of anklets  the sound
+
+(79) Miśra said, “This is a great wonder! Why do we hear anklets on the child’s bare feet?”
+
+শচী কহে, — আর এক অদ্ভুত দেখিল ৷  
+দিব্য দিব্য লোক আসি’ অঙ্গন ভরিল ॥ ৮০ ॥
+
+śacī kahe, — āra eka adbhuta dekhila  
+Śacī  says  —  another  one  wonder  I saw  
+divya divya loka āsi’ aṅgana bharila  
+divine  divine  beings  coming  the courtyard  filled
+
+(80) Śacī said, “I saw another wonder too: radiant divine beings came and filled the courtyard.
+
+কিবা কোলাহল করে, বুঝিতে না পারি ৷  
+কাহাকে বা স্তুতি করে, অনুমান করি ॥ ৮১ ॥
+
+kibā kolāhala kare, bujhite nā pāri  
+what  clamour  they make,  to understand  not  I can  
+kāhāke vā stuti kare, anumāna kari  
+whom  or  praises  they offer,  a guess  I make
+
+(81) They raised such a clamour that I could not make out what they said; whom they were praising I can only guess.”
+
+মিশ্র বলে, — কিছু হউক, চিন্তা কিছু নাই ৷  
+বিশ্বম্ভরের কুশল হউক, — এই মাত্র চাই ॥ ৮২ ॥
+
+miśra bale, — kichu hauka, cintā kichu nāi  
+Miśra  says  —  whatever  may be,  worry  any  there is not  
+viśvambharera kuśala hauka, — ei mātra cāi  
+Viśvambhara’s  welfare  may be  —  this  only  I want
+
+(82) Miśra said, “Whatever it may be, there is nothing to worry about. All I want is for Viśvambhara to be well.”
+
+একদিন মিশ্র পুত্রের চাপল্য দেখিয়া ৷  
+ধর্ম্ম-শিক্ষা দিল বহু ভর্ৎসনা করিয়া ॥ ৮৩ ॥
+
+ekadina miśra putrera cāpalya dekhiyā  
+one day  Miśra  his son’s  naughtiness  seeing  
+dharma-śikṣā dila bahu bhartsanā kariyā  
+instruction in dharma  gave  much  scolding  doing
+
+(83) One day, seeing his son’s mischief, Miśra scolded Him severely and taught Him what dharma requires.
+
+রাত্রে স্বপ্ন দেখে, — এক আসি’ ব্রাহ্মণ ৷  
+মিশ্রেরে কহয়ে কিছু সরোষ বচন ॥ ৮৪ ॥
+
+rātre svapna dekhe, — eka āsi’ brāhmaṇa  
+at night  a dream  he sees  —  one  coming  brāhmaṇa  
+miśrere kahaye kichu sa-roṣa vacana  
+to Miśra  speaks  some  angry  words
+
+(84) At night he dreamt that a brāhmaṇa came and spoke to him angrily:
+
+মিশ্র, তুমি পুত্রের তত্ত্ব কিছুই না জান ৷  
+ভর্ৎসন-তাড়ন কর, — পুত্র করি’ মান ॥ ৮৫ ॥
+
+miśra, tumi putrera tattva kichui nā jāna  
+Miśra,  you  of your son  the truth  at all  not  know  
+bhartsana-tāḍana kara, — putra kari’ māna  
+scolding and beating  you do  —  a son  considering  regarding
+
+(85) “Miśra, you know nothing of who your son truly is. You scold and beat Him because you think of Him as merely your son.”
+
+মিশ্র কহে, — দেব, সিদ্ধ, মুনি কেনে নয় ৷  
+যে সে বড় হউক, এবে আমার তনয় ॥ ৮৬ ॥
+
+miśra kahe, — deva, siddha, muni kene naya  
+Miśra  says  —  a god,  a perfected one,  a sage  why  not  
+ye se baḍa hauka, ebe āmāra tanaya  
+whoever  great  may He be,  now  my  son
+
+(86) Miśra said, “Be He a god, a perfected being or a sage — however great He may be, now He is my son.
+
+পুত্রের লালন-শিক্ষা — পিতার স্বধর্ম্ম ৷  
+আমি না শিখালে, কৈছে জানিবে ধর্ম্ম-মর্ম্ম ॥ ৮৭ ॥
+
+putrera lālana-śikṣā — pitāra sva-dharma  
+of a son  the upbringing and teaching  —  of a father  the own dharma  
+āmi nā śikhāle kaiche jānibe dharma-marma  
+I  not  if teach,  how  will He know  of dharma  the heart
+
+(87) To raise and teach his son is a father’s own dharma. If I do not teach Him, how will He come to know the heart of dharma?”
+
+বিপ্র কহে, — এই যদি দৈব-সিদ্ধ হয় ৷  
+স্বতঃসিদ্ধজ্ঞান তবে শিক্ষা ব্যর্থ হয় ॥ ৮৮ ॥
+
+vipra kahe, — ei yadi daiva-siddha haya  
+the brāhmaṇa  says  —  He  if  divinely perfect  is  
+svataḥ-siddha-jñāna tabe śikṣā vyartha haya  
+self-perfect knowledge,  then  teaching  useless  is
+
+(88) The brāhmaṇa said, “If He is divine and perfect by nature, His knowledge is complete in itself, and teaching Him is in vain.”[^21]
+
+মিশ্র কহে, — পুত্র কেনে নহে নারায়ণ ৷  
+তথাপিহ পিতার ধর্ম্ম — পুত্রকে শিক্ষণ ॥ ৮৯ ॥
+
+miśra kahe, — putra kene nahe nārāyaṇa  
+Miśra  says  —  my son  why  not be  Nārāyaṇa  
+tathāpiha pitāra dharma — putrake śikṣaṇa  
+even so  a father’s  dharma  —  his son’s  teaching
+
+(89) Miśra said, “My son may well be Nārāyaṇa; even so, it is a father’s dharma to teach his son.”
+
+এইমতে দুঁহে করেন ধর্ম্মের বিচার ৷  
+শুদ্ধবাৎসল্য মিশ্রের, নাহি জানে আর ॥ ৯০ ॥
+
+ei-mate dum̐he karena dharmera vicāra  
+in this way  the two  do  of dharma  discussion  
+śuddha-vātsalya miśrera, nāhi jāne āra  
+pure parental love  Miśra’s,  not  he knows  anything else
+
+(90) So the two of them discussed dharma. Miśra’s parental love was pure; he knew nothing else.[^22]
+
+এত শুনি’ দ্বিজ গেলা হঞা আনন্দিত ৷  
+মিশ্র জাগিয়া হইলা পরম বিস্মিত ॥ ৯১ ॥
+
+eta śuni’ dvija gelā hañā ānandita  
+so  hearing  the brāhmaṇa  went away  becoming  pleased  
+miśra jāgiyā hailā parama vismita  
+Miśra  waking  became  supremely  astonished
+
+(91) At this the brāhmaṇa went away well pleased, and Miśra awoke in utter astonishment.
+
+বন্ধু-বান্ধব-স্থানে স্বপ্ন কহিল ৷  
+শুনিয়া সকল লোক বিস্মিত হইল ॥ ৯২ ॥
+
+bandhu-bāndhava-sthāne svapna kahila  
+of friends and kinsmen  in the presence  the dream  he told  
+śuniyā sakala loka vismita haila  
+hearing  all  the people  astonished  became
+
+(92) He told the dream to his friends and kinsmen, and all who heard it were astonished.
+
+এইমত শিশুলীলা করে গৌরচন্দ্র ৷  
+দিনে দিনে পিতা-মাতার বাড়িল আনন্দ ॥ ৯৩ ॥
+
+ei mata śiśu-līlā kare gauracandra  
+in this way  childhood pastimes  does  Gauracandra  
+dine dine pitā-mātāra bāḍila ānanda  
+day by day  of father and mother  grew  the joy
+
+(93) Thus Gauracandra played His childhood pastimes, and day by day His parents’ joy grew.
+
+কত দিনে মিশ্র পুত্রের হাতে খড়ি দিল ৷  
+অল্প দিনে দ্বাদশ-ফলা অক্ষর শিখিল ॥ ৯৪ ॥
+
+kata dine miśra putrera hāte khaḍi dila  
+some  days later  Miśra  his son’s  in the hand  chalk  placed  
+alpa dine dvādaśa-phalā akṣara śikhila  
+in a few  days  with the twelve phalās  the letters  He learnt
+
+(94) Some days later Miśra placed the chalk in his son’s hand, and within a few days He had learnt all the letters with their twelve *phalās*.[^23]
+
+বাল্যলীলা-সূত্র এই কহিল অনুক্রম ৷  
+ইহা বিস্তারিয়াছেন দাস-বৃন্দাবন ॥ ৯৫ ॥
+
+bālya-līlā-sūtra ei kahila anukrama  
+of the childhood pastimes  outline  this  I have told  in order  
+ihā vistāriyāchena dāsa-vṛndāvana  
+this  has elaborated  dāsa  Vṛndāvana
+
+(95) This, in order, is the outline of His childhood pastimes; Vṛndāvana dāsa has described them at length.[^24]
+
+অতএব বাল্যলীলা সংক্ষেপে সূত্র কৈল ৷  
+পুনরুক্তি-ভয়ে বিস্তারিয়া না কহিল ॥ ৯৬ ॥
+
+ataeva bālya-līlā saṅkṣepe sūtra kaila  
+therefore  the childhood pastimes  in brief  outline  I made  
+punar-ukti-bhaye vistāriyā nā kahila  
+of repetition  for fear  at length  not  I told
+
+(96) Therefore I have outlined the childhood pastimes briefly and, for fear of repeating him, have not told them in detail.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৯৭ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(97) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: “Though Gaura’s pastimes look human, they are not of this world (*aprākṛta*).” *Anubhāṣya*: *laukikīm api* — though they resemble the doings of people in this world; *īśa-ceṣṭayā valitāntarām* — “inwardly joined with the acts of the Lord”, with His supernatural endeavours. *Amṛta-pravāha-bhāṣya*: the childhood pastimes look worldly, yet the acts of God are woven into them.
@@ -757,3 +1027,15 @@ deep  Caitanya’s pastimes  who  to understand  is able
 [^17]: Heading in the edition: “The eternal, natural love of the two, and their delight.” *Amṛta-pravāha-bhāṣya*: Lakṣmī is the Lord’s eternal consort, and the Lord is Lakṣmī’s eternal husband; their eternal love is therefore *sāhajika*, inborn, and here it appeared veiled by the mood of childhood.
 
 [^18]: *Anubhāṣya*: these are Śrī Kṛṣṇa’s words to the gopīs who had kept the vow to Kātyāyanī longing to attain Him; after returning their garments, He saw their desire. *Mad-arcanam* is worship meant to attain Me; *saṅkalpa*, the heart’s cherished wish, which out of shyness they had left unspoken; *anumodita*, “accepted”. *Amṛta-pravāha-bhāṣya*: “O chaste ones, I have understood the purpose of your worship, and it gives Me great joy; your wish deserves to be fulfilled.”
+
+[^19]: Heading in the edition: “Nimāi sits on the discarded pots.” The *Anubhāṣya* cites the *Caitanya-bhāgavata* (Ādi 7): “The Lord sat Himself down, as if on a throne, on the pots thrown away after the offering to Viṣṇu. His mother came, saw Him and cried, ‘Oh dear, my child, You must not sit here!’ But the Lord said, ‘Everywhere I see one, without a second. There is no defilement at all in these pots. Pots in which food is cooked for Viṣṇu are never impure; their touch makes any other place pure.’”
+
+[^20]: Heading in the edition: “The son instructs His mother in the knowledge of Brahman (*brahma-jñāna*).” *Amṛta-pravāha-bhāṣya*: the Lord said, “Mother, ‘defiled’ and ‘undefiled’ are only human notions; there is no truth in them. In these pots you cooked for Viṣṇu and offered the food to Him — how can they ever be defiled? And the soul is eternally pure — how can ‘defiled’ and ‘pure’ apply to it?” Hearing such teaching, His mother was astonished and made Him bathe.
+
+[^21]: Heading in the edition to 88–89: “The brāhmaṇa’s words and Miśra’s reply.” *Anubhāṣya*: seeing that Miśra took Nimāi for an untaught child and wished to teach Him so as to awaken knowledge in Him, the brāhmaṇa said: “Your son is an eternally perfect divinity, yet you mistake His eternal, natural knowledge for a child’s folly and set about teaching Him. That is in vain, and it is not proper for you.” Here the *Anubhāṣya* also refers to Antya 4.174–176 and cites the *Śrīmad-Bhāgavatam* (11.28.4; 11.19.45; 11.21.3): in the transcendent there is no distinction of “good” and “bad” — such distinctions belong to the duality of the mind; “pure” and “impure” are prescribed among things of one nature only for the sake of dharma, worldly dealings and the upkeep of life.
+
+[^22]: Heading in the edition: “Miśra’s pure parental love for the Lord.” *Anubhāṣya*: *Bhakti-rasāmṛta-sindhu* (Western Division, Fourth Wave): the abiding sentiment (*sthāyi-bhāva*) of parental affection, nourished by *vibhāva* and the other elements, is called *vatsala-rasa*. And the *Śrīmad-Bhāgavatam* (10.8.45): Yaśodā looked upon as her own son Hari, whose glory is sung by the three Vedas, the Upaniṣads, Sāṅkhya, Yoga and the Sātvata scriptures.
+
+[^23]: Heading in the edition: “Chalk is placed in Nimāi’s hand.” *Anubhāṣya*: the twelve *phalās* are the signs by which other sounds are joined to a Bengali letter: *repha*, *ṇa*, *na*, *ma*, *ya*, *ra*, *la*, *va*, *ṛ*, *ṝ*, *ḷ* and *ḹ*.
+
+[^24]: Heading in the edition: “These chief events of the childhood pastimes are described in the *Caitanya-bhāgavata*.”
