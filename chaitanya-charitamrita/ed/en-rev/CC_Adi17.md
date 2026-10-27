@@ -2620,6 +2620,312 @@ the dutiful  the workers for gain  the ascetics  the blasphemers  the wicked
 
 (260) “All these teachers and their disciples are men of ritual duty, of fruitive work and of austerity — blasphemers and wicked men.
 
+এই সব মোর নিন্দা-অপরাধ হৈতে ৷  
+আমি না লওয়াইলে ভক্তি, না পারে লইতে ॥ ২৬১ ॥
+
+ei saba mora nindā-aparādha haite  
+these  all  My  blasphemy-offence  because of  
+āmi nā laoyāile bhakti, nā pāre laite  
+I  not  if I make take  devotion  not  can  take
+
+(261) Because of their offence of blaspheming Me, they cannot take up devotion unless I Myself lead them to it.
+
+নিস্তারিতে আইলাম আমি, হৈল বিপরীত ৷  
+এসব দুর্জ্জনের কৈছে হইবেক হিত ॥ ২৬২ ॥
+
+nistārite āilāma āmi, haila viparīta  
+to deliver  came  I  it became  the opposite  
+esaba durjanera kaiche haibeka hita  
+these  of the wicked  how  will be  good
+
+(262) I came to deliver them, and the very opposite has happened. How can any good come to these wicked men?[^68]
+
+আমাকে প্রণতি করে, হয় পাপক্ষয় ৷  
+তবে সে ইহারে ভক্তি লওয়াইলে লয় ॥ ২৬৩ ॥
+
+āmāke praṇati kare, haya pāpa-kṣaya  
+to Me  obeisance  they make  there is  destruction of sins  
+tabe se ihāre bhakti laoyāile laya  
+then  they  to them  devotion  if I make take  they take
+
+(263) If they bow down to Me, their sins will be destroyed, and then, if I lead them to devotion, they will take it up.
+
+মোরে নিন্দা করে যে, না করে নমস্কার ৷  
+এসব জীবেরে অবশ্য করিব উদ্ধার ॥ ২৬৪ ॥
+
+more nindā kare ye, nā kare namaskāra  
+Me  blasphemy  makes  who  not  makes  obeisance  
+esaba jīvere avaśya kariba uddhāra  
+these  souls  surely  I will make  deliverance
+
+(264) Those who blaspheme Me and will not bow to Me — all these souls I must surely deliver.
+
+অতএব অবশ্য আমি সন্ন্যাস করিব ৷  
+সন্ন্যাসি-বুদ্ধ্যে মোরে প্রণত হইব ॥ ২৬৫ ॥
+
+ataeva avaśya āmi sannyāsa kariba  
+therefore  surely  I  sannyāsa  will take  
+sannyāsi-buddhye more praṇata haiba  
+thinking Me a sannyāsī  to Me  bowed down  they will be
+
+(265) So I shall certainly take sannyāsa; then, taking Me for a sannyāsī, they will bow down to Me.[^69]
+
+প্রণতিতে হ’বে ইহার অপরাধ ক্ষয় ৷  
+নির্ম্মল হৃদয়ে ভক্তি করাইব উদয় ॥ ২৬৬ ॥
+
+praṇatite ha’be ihāra aparādha kṣaya  
+by bowing  will be  their  offences  destruction  
+nirmala hṛdaye bhakti karāiba udaya  
+in a pure  heart  devotion  I will make  arise
+
+(266) By bowing down they will be freed from their offences, and in their purified hearts I shall make devotion arise.
+
+এসব পাষণ্ডীর তবে হইবে নিস্তার ৷  
+আর কোন উপায় নাহি, এই যুক্তি সার ॥ ২৬৭ ॥
+
+esaba pāṣaṇḍīra tabe haibe nistāra  
+these  of the unbelievers  then  will be  deliverance  
+āra kona upāya nāhi, ei yukti sāra  
+other  any  means  there is not  this  plan  the best
+
+(267) Then these unbelievers will be delivered. There is no other way — this is the best plan.”
+
+এই দৃঢ় যুক্তি করি’ প্রভু আছে ঘরে ৷  
+কেশব ভারতী আইলা নদীয়া-নগরে ॥ ২৬৮ ॥
+
+ei dṛḍha yukti kari’ prabhu āche ghare  
+this  firm  resolve  making  the Lord  is  at home  
+keśava bhāratī āilā nadīyā-nagare  
+Keśava  Bhāratī  came  to the town of Nadia
+
+(268) Having made this firm resolve, the Lord remained at home. Then Keśava Bhāratī came to the town of Nadia.
+
+প্রভু তাঁরে নমস্করি’ কৈল নিমন্ত্রণ ৷  
+ভিক্ষা করাইয়া তাঁরে কৈল নিবেদন ॥ ২৬৯ ॥
+
+prabhu tām̐re namaskari’ kaila nimantraṇa  
+the Lord  to him  bowing  made  invitation  
+bhikṣā karāiyā tām̐re kaila nivedana  
+alms  having him take  to him  made  request
+
+(269) The Lord bowed to him and invited him, and when He had fed him, He made His request:
+
+তুমি ত’ ঈশ্বর বট, — সাক্ষাৎ নারায়ণ ৷  
+কৃপা করি’ কর মোর সংসার মোচন ॥ ২৭০ ॥
+
+tumi ta’ īśvara baṭa, — sākṣāt nārāyaṇa  
+you  indeed  Īśvara  are  Nārāyaṇa  Himself  
+kṛpā kari’ kara mora saṁsāra mocana  
+mercy  making  make  My  from saṁsāra  release
+
+(270) “You are Īśvara indeed — Nārāyaṇa Himself. Be merciful and set Me free from saṁsāra.”
+
+ভারতী কহেন, — তুমি ঈশ্বর, অন্তর্য্যামী ৷  
+যে কহ, সে করিব, — স্বতন্ত্র নহি আমি ॥ ২৭১ ॥
+
+bhāratī kahena, — tumi īśvara, antaryāmī  
+Bhāratī  says  You  Īśvara  the indwelling Lord  
+ye kaha, se kariba, — svatantra nahi āmi  
+what  You say  that  I will do  independent  not am  I
+
+(271) Bhāratī said, “You are Īśvara, the Lord who dwells within all hearts. Whatever You say I shall do; I am not my own master.”
+
+এত বলি’ ভারতী গোসাঞি কাটোয়াতে গেলা ৷  
+মহাপ্রভু তাহা যাই’ সন্ন্যাস করিলা ॥ ২৭২ ॥
+
+eta bali’ bhāratī gosāñi kāṭoyāte gelā  
+this  saying  Bhāratī  Gosāñi  to Kāṭoyā  went  
+mahāprabhu tāhā yāi’ sannyāsa karilā  
+Mahāprabhu  there  going  sannyāsa  took
+
+(272) With these words Bhāratī Gosāñi went to Kāṭoyā, and Mahāprabhu went there and took sannyāsa.[^70]
+
+সঙ্গে নিত্যানন্দ, চন্দ্রশেখর আচার্য্য ৷  
+মুকুন্দদত্ত, — এই তিন কৈল সর্ব্ব কার্য্য ॥ ২৭৩ ॥
+
+saṅge nityānanda, candraśekhara ācārya  
+with Him  Nityānanda  Candraśekhara  Ācārya  
+mukunda-datta, — ei tina kaila sarva kārya  
+Mukunda Datta  these  three  did  all  the work
+
+(273) With Him were Nityānanda, Candraśekhara Ācārya and Mukunda Datta, and these three performed all the rites.
+
+এই আদি-লীলার কৈল সূত্র গণন ৷  
+বিস্তারি বর্ণিলা ইহা দাস বৃন্দাবন ॥ ২৭৪ ॥
+
+ei ādi-līlāra kaila sūtra gaṇana  
+this  of the Ādi-līlā  made  of the outline  counting  
+vistāri varṇilā ihā dāsa vṛndāvana  
+in detail  described  this  dāsa  Vṛndāvana
+
+(274) Thus I have given an outline of the Ādi-līlā; Vṛndāvana dāsa has described it in detail.[^71]
+
+যশোদানন্দন হৈলা শচীর নন্দন ৷  
+চতুর্ব্বিধ ভক্তভাব করে আস্বাদন ॥ ২৭৫ ॥
+
+yaśodā-nandana hailā śacīra nandana  
+Yaśodā’s son  became  Śacī’s  son  
+caturvidha bhakta-bhāva kare āsvādana  
+four kinds of  devotees’ moods  makes  tasting
+
+(275) The son of Yaśodā has become the son of Śacī, and He tastes the four kinds of His devotees’ moods.[^72]
+
+স্বমাধুর্য্য রাধা-প্রেমরস আস্বাদিতে ৷  
+রাধাভাব অঙ্গী করিয়াছে ভালমতে ॥ ২৭৬ ॥
+
+sva-mādhurya rādhā-prema-rasa āsvādite  
+His own sweetness  of Rādhā’s love  the rasa  to taste  
+rādhā-bhāva aṅgī kariyāche bhāla-mate  
+Rādhā’s mood  made His own  has  fully
+
+(276) To taste His own sweetness and the rasa of Rādhā’s love, He has wholly made Rādhā’s mood His own.[^73]
+
+গোপী-ভাব যাতে প্রভু ধরিয়াছে একান্ত ৷  
+ব্রজেন্দ্রনন্দনে মানে আপনার কান্ত ॥ ২৭৭ ॥
+
+gopī-bhāva yāte prabhu dhariyāche ekānta  
+the gopīs’ mood  in which  the Lord  has taken  wholly  
+vrajendra-nandane māne āpanāra kānta  
+the son of Vraja’s king  regards  one’s own  beloved
+
+(277) The Lord has wholly taken on the mood of the gopīs, in which the son of Vraja’s king is regarded as one’s own beloved.
+
+গোপিকা-ভাবের এই সুদৃঢ় নিশ্চয় ৷  
+ব্রজেন্দ্রনন্দন বিনা অন্যত্র না হয় ॥ ২৭৮ ॥
+
+gopikā-bhāvera ei sudṛḍha niścaya  
+of the gopīs’ mood  this  very firm  certainty  
+vrajendra-nandana vinā anyatra nā haya  
+the son of Vraja’s king  apart from  elsewhere  not  it is
+
+(278) And this is the firm certainty of the gopīs’ love: it does not arise for anyone but the son of the king of Vraja —
+
+শ্যামসুন্দর, শিখিপিচ্ছ-গুঞ্জা-বিভূষণ ৷  
+গোপ-বেশ, ত্রিভঙ্গিম, মুরলী-বদন ॥ ২৭৯ ॥
+
+śyāmasundara, śikhi-piccha-guñjā-vibhūṣaṇa  
+Śyāmasundara  peacock feather  guñjā  adorned  
+gopa-veśa, tri-bhaṅgima, muralī-vadana  
+cowherd’s dress  thrice-bent  flute at the mouth
+
+(279) Śyāmasundara, adorned with a peacock feather and guñjā beads, in a cowherd’s dress, His body bent in three places, the flute at His lips.
+
+ইহা ছাড়ি’ কৃষ্ণ যদি হয় অন্যাকার ৷  
+গোপিকার ভাব নাহি যায় নিকট তাহার ॥ ২৮০ ॥
+
+ihā chāḍi’ kṛṣṇa yadi haya anyākāra  
+this  leaving  Kṛṣṇa  if  is  of another form  
+gopikāra bhāva nāhi yāya nikaṭa tāhāra  
+of the gopīs  love  not  goes  near  Him
+
+(280) If Kṛṣṇa leaves this form and takes another, the gopīs’ love does not come near Him.
+
+গোপীনাং পশুপেন্দ্রনন্দনজুষো ভাবস্য কস্তাং কৃতী  
+বিজ্ঞাতুং ক্ষমতে দুরূহপদবীসঞ্চারিণঃ প্রক্রিয়াম্ ৷  
+আবিষ্কুর্ব্বতি বৈষ্ণবীমপি তনুং তস্মিন্ ভুজৈর্জিষ্ণুভি-  
+র্যাসাং হন্ত চতুর্ভিরদ্ভুতরুচিং রাগোদয়ঃ কুঞ্চতি ॥ ২৮১ ॥
+
+gopīnāṁ paśupendra-nandana-juṣo bhāvasya kas tāṁ kṛtī  
+of the gopīs  serving the son of the king of herdsmen  of the love  what  that  wise man  
+vijñātuṁ kṣamate durūha-padavī-sañcāriṇaḥ prakriyām  
+to understand  is able  moving on an unfathomable path  the working  
+āviṣkurvati vaiṣṇavīm api tanuṁ tasmin bhujair jiṣṇubhir  
+when He reveals  of Viṣṇu  even  a form  in Him  with arms  victorious  
+yāsāṁ hanta caturbhir adbhuta-ruciṁ rāgodayaḥ kuñcati  
+whose  alas  four  of wondrous splendour  the rise of love  shrinks
+
+(281) “What wise man can understand the workings of the love of the gopīs who serve the son of the king of the cowherds — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)[^74]
+
+বসন্তকালে রাসলীলা করে গোবর্দ্ধনে ৷  
+অন্তর্দ্ধান কৈলা সঙ্কেত করি’ রাধা সনে ॥ ২৮২ ॥
+
+vasanta-kāle rāsa-līlā kare govardhane  
+in spring  the rāsa-līlā  does  at Govardhana  
+antarddhāna kailā saṅketa kari’ rādhā sane  
+disappearance  made  a sign  making  with Rādhā
+
+(282) In spring, as Kṛṣṇa was dancing the rāsa by Govardhana, He made a sign to Rādhā and disappeared.
+
+নিভৃতনিকুঞ্জে বসি’ দেখে রাধার বাট ৷  
+অন্বেষিতে আইলা তাহাঁ গোপিকার ঠাট ॥ ২৮৩ ॥
+
+nibhṛta-nikuñje vasi’ dekhe rādhāra bāṭa  
+in a secluded bower  sitting  watches  for Rādhā  the path  
+anveṣite āilā tāhām̐ gopikāra ṭhāṭa  
+searching  came  there  of gopīs  a troop
+
+(283) He sat in a secluded bower watching the path for Rādhā, and a troop of gopīs came there searching for Him.
+
+দূর হৈতে কৃষ্ণ দেখি’ বলে গোপীগণ ৷  
+“এই দেখ কুঞ্জ-ভিতর ব্রজেন্দ্রনন্দন” ॥ ২৮৪ ॥
+
+dūra haite kṛṣṇa dekhi’ bale gopī-gaṇa  
+from afar  Kṛṣṇa  seeing  say  the gopīs  
+“ei dekha kuñja-bhitara vrajendra-nandana”  
+here  look  in the bower  the son of Vraja’s king
+
+(284) Seeing Kṛṣṇa from afar, the gopīs cried, “Look, there in the bower is the son of Vraja’s king!”
+
+গোপীগণ দেখি’ কৃষ্ণের হইল সাধ্বস ৷  
+লুকাইতে নারিল, ভয়ে হৈলা বিবশ ॥ ২৮৫ ॥
+
+gopī-gaṇa dekhi’ kṛṣṇera haila sādhvasa  
+the gopīs  seeing  Kṛṣṇa’s  was  alarm  
+lukāite nārila, bhaye hailā vibaśa  
+to hide  He could not  in fear  became  helpless
+
+(285) Seeing the gopīs, Kṛṣṇa was alarmed; He could not hide, and fear overcame Him.
+
+চতুর্ভুজ মূর্ত্তি ধরি’ আছেন বসিয়া ৷  
+কৃষ্ণ দেখি’ গোপী কহে নিকটে আসিয়া ॥ ২৮৬ ॥
+
+catur-bhuja mūrti dhari’ āchena vasiyā  
+four-armed  form  assuming  is  sitting  
+kṛṣṇa dekhi’ gopī kahe nikaṭe āsiyā  
+Kṛṣṇa  seeing  the gopīs  say  near  coming
+
+(286) So He took a four-armed form and sat there, and seeing Kṛṣṇa thus, the gopīs came near and said,
+
+‘ইহোঁ কৃষ্ণ নহে, ইহোঁ নারায়ণ-মূর্ত্তি ৷’  
+এত বলি’ সবে তাঁরে করে নতি-স্তুতি ॥ ২৮৭ ॥
+
+‘ihom̐ kṛṣṇa nahe, ihom̐ nārāyaṇa-mūrti’  
+this  Kṛṣṇa  is not  this  Nārāyaṇa’s form  
+eta bali’ sabe tām̐re kare nati-stuti  
+this  saying  all  to Him  make  obeisance and praise
+
+(287) “This is not Kṛṣṇa; this is a form of Nārāyaṇa.” So saying, they all bowed to Him and offered praise:
+
+‘নমো নারায়ণ’, দেব করহ প্রসাদ ৷  
+কৃষ্ণসঙ্গ দেহ মোরে, ঘুচাহ বিষাদ ॥ ২৮৮ ॥
+
+‘namo nārāyaṇa’, deva karaha prasāda  
+obeisance to Nārāyaṇa  O Lord  make  grace  
+kṛṣṇa-saṅga deha more, ghucāha viṣāda  
+Kṛṣṇa’s company  give  to us  remove  sorrow
+
+(288) “Obeisance to Nārāyaṇa! O Lord, be gracious: grant us Kṛṣṇa’s company and take away our sorrow.”
+
+এত বলি নমস্করি’ গেলা গোপীগণ ৷  
+হেনকালে রাধা আসি’ দিলা দরশন ॥ ২৮৯ ॥
+
+eta bali namaskari’ gelā gopī-gaṇa  
+this  saying  bowing  went  the gopīs  
+hena-kāle rādhā āsi’ dilā daraśana  
+just then  Rādhā  coming  gave  sight
+
+(289) With these words they bowed and went away, and just then Rādhā came into view.
+
+রাধা দেখি’ কৃষ্ণ তাঁরে হাস্য করিতে ৷  
+সেই চতুর্ভুজ মূর্ত্তি চাহেন রাখিতে ॥ ২৯০ ॥
+
+rādhā dekhi’ kṛṣṇa tām̐re hāsya karite  
+Rādhā  seeing  Kṛṣṇa  Her  a jest  to make  
+sei catur-bhuja mūrti cāhena rākhite  
+that  four-armed  form  wishes  to keep
+
+(290) Seeing Rādhā, Kṛṣṇa wanted to keep that four-armed form, to play a jest on Her.
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -2755,3 +3061,17 @@ the dutiful  the workers for gain  the ascetics  the blasphemers  the wicked
 [^66]: *Amṛta-pravāha-bhāṣya*: *doṣodgāra* — reproach mixed with mockery. *Anubhāṣya* on 247–263: the Lord’s anger at Kṛṣṇa and His reproaches in the mood of a gopī are not of this world. Failing to understand this, a student, a smārta sunk in ritual, argued with Him, and the Lord, filled with the gopīs’ mood, took him for a partisan of Kṛṣṇa and chased him in anger. The student fled; and brāhmaṇas by birth, sunk in ritual and turned away from Hari, conspired in their delusion to beat the Lord. To free them from this calamity the Lord resolved to accept the fourth āśrama, which is honoured even by those proud of their birth and caste. See *Caitanya-bhāgavata*, Madhya 25.
 
 [^67]: *Anubhāṣya*: the true meaning of the śruti is revealed only to one who has supreme devotion to God and the same devotion to the guru (Śvetāśvatara Upaniṣad, 6.23). Prahlāda says that the best learning is when a person first offers himself to Viṣṇu and then serves Him (Bhāg. 7.5.24, with Śrīdhara Svāmī’s comment). But one who, proud of worldly learning, disregards Viṣṇu finds that knowledge does not dawn in him: a master of the Vedas who is not devoted to the Supreme labours in vain (Bhāg. 11.11.18).
+
+[^68]: *Anubhāṣya* quotes the Lord’s words from the *Caitanya-bhāgavata* (Madhya 25): “I gave pippali to cure the phlegm, but the phlegm in the body only grew worse.”
+
+[^69]: *Amṛta-pravāha-bhāṣya*: when a brāhmaṇa takes sannyāsa according to the śāstra, everyone — householders and brāhmaṇas alike — bows to him, knowing that a sannyāsī is worthy of homage: “When I take sannyāsa, the blaspheming brāhmaṇas will surely bow to Me and receive a good understanding from Me.” *Anubhāṣya* on 265–266: in those days even brāhmaṇas by birth of godless nature bowed before a Vaiṣṇava sannyāsī — such was good custom; and by the śāstra, one who sees the Deity or a Vaiṣṇava *tridaṇḍī* and does not bow must perform atonement or purify himself by fasting.
+
+[^70]: *Amṛta-pravāha-bhāṣya*: at the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, on the day of the saṅkrānti, before dawn, Mahāprabhu left Navadvīpa, swam across the Ganges at the Nidayā ghāṭa and reached Kāṭoyā (Kaṇṭaka-nagara), where He accepted the (single) daṇḍa from Keśava Bhāratī. At the Lord’s wish Candraśekhara Ācāryaratna performed the rites of sannyāsa; kīrtana went on all day, and only towards evening was the Lord’s head shaved. The next morning Śrī Kṛṣṇa Caitanya, staff in hand, set out to wander through Rāḍha-deśa, and Keśava Bhāratī went some way with Him.
+
+[^71]: *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 26.
+
+[^72]: *Amṛta-pravāha-bhāṣya*: the four kinds of devotees’ moods are *dāsya*, *sakhya*, *vātsalya* and *madhura* (the edition’s heading: “apart from *śānta*”).
+
+[^73]: *Anubhāṣya* on 276–278: Śrī Gaurasundara is Kṛṣṇa clothed in the mood and the radiance of Śrī Rādhā. Therefore He never abandoned the heart’s mood of the gopīs headed by Rādhikā, who serve Kṛṣṇa (*āśraya*), to act like Kṛṣṇa the enjoyer (*viṣaya*): never did He show the ways of a *nāgara* who seeks other men’s wives. The *prākṛta-sahajiyās*, who lay their own lust on Gaurasundara, only offend Svarūpa Dāmodara and Vṛndāvana dāsa Ṭhākura. The *Caitanya-bhāgavata* (Ādi 15) says that in this avatāra the Lord would not even hear the word “woman”, and that is why the great devotees never praise Him as “Gaurāṅga-nāgara”. Thus these verses refute the invented doctrine of *gaura-nāgarī*.
+
+[^74]: *Amṛta-pravāha-bhāṣya*: once Kṛṣṇa playfully revealed the wondrous four-armed form of Nārāyaṇa, and the gopīs’ love withdrew; what wise man can understand the moods of the gopīs, who walk the hard path of *parakīya* and serve the son of Nanda alone? *Anubhāṣya*: these are the words of Viśākhā to Savarṇā, the wife of Sūrya; *jiṣṇubhiḥ* — “victorious”; *kuñcati* — “does not blossom”.
