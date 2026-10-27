@@ -3236,6 +3236,163 @@ the Pañca-tattva  joining  how  made  the gift of prema
 
 (320) The seventh chapter gives the account of the Pañca-tattva — how the five truths together gave away prema.
 
+অষ্টমে ‘চৈতন্যলীলা-বর্ণন’-কারণ ৷  
+এক কৃষ্ণনামের মহা-মহিমা-কথন ॥ ৩২১ ॥
+
+aṣṭame ‘caitanya-līlā-varṇana’-kāraṇa  
+in the eighth  the reason for describing Caitanya’s pastimes  
+eka kṛṣṇa-nāmera mahā-mahimā-kathana  
+one  of Kṛṣṇa’s name  the great glory  telling
+
+(321) The eighth gives the reason for describing Caitanya’s pastimes and tells the great glory of a single name of Kṛṣṇa.
+
+নবমেতে ‘ভক্তিকল্পবৃক্ষের বর্ণন’ ৷  
+শ্রীচৈতন্য-মালী কৈল বৃক্ষ আরোপণ ॥ ৩২২ ॥
+
+navamete ‘bhakti-kalpa-vṛkṣera varṇana’  
+in the ninth  the description of the wish-fulfilling tree of devotion  
+śrī-caitanya-mālī kaila vṛkṣa āropaṇa  
+Śrī Caitanya  the gardener  made  of the tree  the planting
+
+(322) The ninth describes the wish-fulfilling tree of devotion, which Śrī Caitanya, the gardener, planted.
+
+দশমেতে মূল-স্কন্ধের ‘শাখাদি-গণন’ ৷  
+সর্ব্বশাখাগণের যৈছে ফল-বিতরণ ॥ ৩২৩ ॥
+
+daśamete mūla-skandhera ‘śākhādi-gaṇana’  
+in the tenth  of the main trunk  the counting of the branches  
+sarva-śākhā-gaṇera yaiche phala-vitaraṇa  
+of all the branches  how  the distribution of fruit
+
+(323) The tenth counts the branches of the main trunk and tells how all the branches gave out the fruit.
+
+একাদশে ‘নিত্যানন্দশাখা-বিবরণ’ ৷  
+দ্বাদশে ‘অদ্বৈতস্কন্ধ শাখার বর্ণন’ ॥ ৩২৪ ॥
+
+ekādaśe ‘nityānanda-śākhā-vivaraṇa’  
+in the eleventh  the account of Nityānanda’s branches  
+dvādaśe ‘advaita-skandha śākhāra varṇana’  
+in the twelfth  the description of the branches of Advaita’s trunk
+
+(324) The eleventh gives the account of Nityānanda’s branches, and the twelfth describes the branches of Advaita’s trunk.
+
+ত্রয়োদশে মহাপ্রভুর ‘জন্ম-বিবরণ’ ৷  
+কৃষ্ণনাম সহ যৈছে প্রভুর জনম ॥ ৩২৫ ॥
+
+trayodaśe mahāprabhura ‘janma-vivaraṇa’  
+in the thirteenth  of Mahāprabhu  the account of the birth  
+kṛṣṇa-nāma saha yaiche prabhura janama  
+Kṛṣṇa’s name  with  how  of the Lord  the birth
+
+(325) The thirteenth gives the account of Mahāprabhu’s birth — how the Lord was born amid the chanting of Kṛṣṇa’s name.
+
+চতুর্দ্দশে ‘বাল্যলীলা’র কিছু বিবরণ ৷  
+পঞ্চদশে ‘পৌগণ্ডলীলা’র সংক্ষেপে কথন ॥ ৩২৬ ॥
+
+caturdaśe ‘bālya-līlā’ra kichu vivaraṇa  
+in the fourteenth  of the childhood pastimes  some  account  
+pañcadaśe ‘paugaṇḍa-līlā’ra saṅkṣepe kathana  
+in the fifteenth  of the boyhood pastimes  in brief  telling
+
+(326) The fourteenth gives some account of the childhood pastimes, and the fifteenth tells of the boyhood pastimes in brief.
+
+ষোড়শে কহিল ‘কৈশোরলীলা’র উদ্দেশ ৷  
+সপ্তদশে ‘যৌবনলীলা’ কহিল বিশেষ ॥ ৩২৭ ॥
+
+ṣoḍaśe kahila ‘kaiśora-līlā’ra uddeśa  
+in the sixteenth  I told  of the pastimes of youth  an outline  
+saptadaśe ‘yauvana-līlā’ kahila viśeṣa  
+in the seventeenth  the pastimes of young manhood  I told  especially
+
+(327) In the sixteenth I gave an outline of the pastimes of youth, and in the seventeenth I told especially of the pastimes of young manhood.
+
+এই সপ্তদশ প্রকার ‘আদি-লীলা’র প্রবন্ধ ৷  
+দ্বাদশ প্রবন্ধ তাতে গ্রন্থ মুখবন্ধ ॥ ৩২৮ ॥
+
+ei saptadaśa prakāra ‘ādi-līlā’ra prabandha  
+these  seventeen  kinds  of the Ādi-līlā  chapters  
+dvādaśa prabandha tāte grantha mukhabandha  
+twelve  chapters  of them  of the book  the preface
+
+(328) These are the seventeen chapters of the Ādi-līlā; twelve of them form the preface to the book.
+
+পঞ্চপ্রবন্ধে পঞ্চবয়স চরিত ৷  
+সংক্ষেপে কহিল অতি, — না কৈল বিস্তৃত ॥ ৩২৯ ॥
+
+pañca-prabandhe pañca-vayasa carita  
+in five chapters  of the five ages  the deeds  
+saṅkṣepe kahila ati, — nā kaila vistṛta  
+in brief  I told  very  not  I made  extensive
+
+(329) In five chapters I have told the deeds of the five ages, very briefly, without going into detail.[^84]
+
+বৃন্দাবনদাস ইহা ‘চৈতন্যমঙ্গলে’ ৷  
+বিস্তারি’ বর্ণিলা নিত্যানন্দ-আজ্ঞা-বলে ॥ ৩৩০ ॥
+
+vṛndāvanadāsa ihā ‘caitanya-maṅgale’  
+Vṛndāvana dāsa  this  in the Caitanya-maṅgala  
+vistāri’ varṇilā nityānanda-ājñā-bale  
+in detail  described  by the strength of Nityānanda’s order
+
+(330) Vṛndāvana dāsa has described all this in detail in the *Caitanya-maṅgala*, by the strength of Nityānanda’s order.[^85]
+
+শ্রীকৃষ্ণচৈতন্যলীলা — অদ্ভুত, অনন্ত ৷  
+ব্রহ্মা-শিব-শেষ যাঁর নাহি পায় অন্ত ॥ ৩৩১ ॥
+
+śrī-kṛṣṇa-caitanya-līlā — adbhuta, ananta  
+Śrī Kṛṣṇa Caitanya’s pastimes  wondrous  endless  
+brahmā-śiva-śeṣa yām̐ra nāhi pāya anta  
+Brahmā  Śiva  Śeṣa  whose  not  reach  the end
+
+(331) The pastimes of Śrī Kṛṣṇa Caitanya are wondrous and endless; even Brahmā, Śiva and Śeṣa cannot reach their end.[^86]
+
+যে যেই অংশ কহে, শুনে সেই ধন্য ৷  
+অচিরে মিলিবে তারে শ্রীকৃষ্ণচৈতন্য ॥ ৩৩২ ॥
+
+ye yei aṁśa kahe, śune sei dhanya  
+who  whatever  part  tells  hears  he  blessed  
+acire milibe tāre śrī-kṛṣṇa-caitanya  
+soon  will meet  him  Śrī Kṛṣṇa Caitanya
+
+(332) Whoever tells or hears any part of them is blessed; soon Śrī Kṛṣṇa Caitanya will meet him —
+
+শ্রীকৃষ্ণচৈতন্য, অদ্বৈত, নিত্যানন্দ ৷  
+শ্রীবাস-গদাধরাদি যত ভক্তবৃন্দ ॥ ৩৩৩ ॥
+
+śrī-kṛṣṇa-caitanya, advaita, nityānanda  
+Śrī Kṛṣṇa Caitanya  Advaita  Nityānanda  
+śrīvāsa-gadādharādi yata bhakta-vṛnda  
+Śrīvāsa  Gadādhara and the others  all  the host of devotees
+
+(333) Śrī Kṛṣṇa Caitanya, Advaita and Nityānanda, Śrīvāsa, Gadādhara and the whole host of devotees.
+
+যত যত ভক্তগণ বৈসে বৃন্দাবনে ৷  
+নম্র হঞা শিরে ধরোঁ সবার চরণে ॥ ৩৩৪ ॥
+
+yata yata bhakta-gaṇa vaise vṛndāvane  
+as many  as many  devotees  dwell  in Vṛndāvana  
+namra hañā śire dharom̐ sabāra caraṇe  
+humble  becoming  on my head  I hold  of all  the feet
+
+(334) All the devotees who dwell in Vṛndāvana — humbly I place the feet of them all upon my head.
+
+শ্রীস্বরূপ-শ্রীরূপ-শ্রীসনাতন ৷  
+শ্রীরঘুনাথদাস, আর শ্রীজীব-চরণ ॥ ৩৩৫ ॥
+
+শিরে ধরি বন্দোঁ, নিত্য করোঁ তাঁর আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩৩৬ ॥
+
+śrī-svarūpa-śrī-rūpa-śrī-sanātana  
+Śrī Svarūpa  Śrī Rūpa  Śrī Sanātana  
+śrī-raghunātha-dāsa, āra śrī-jīva-caraṇa  
+Śrī Raghunātha dāsa  and  Śrī Jīva’s  feet  
+śire dhari vandom̐, nitya karom̐ tām̐ra āśa  
+on my head  holding  I worship  always  I make  their  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
+
+(335–336) Placing on my head the feet of Śrī Svarūpa, Śrī Rūpa, Śrī Sanātana, Śrī Raghunātha dāsa and Śrī Jīva, I bow to them, and ever hoping for their mercy, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^87]
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -3403,3 +3560,11 @@ the Pañca-tattva  joining  how  made  the gift of prema
 [^82]: *Amṛta-pravāha-bhāṣya*: the mark of the inconceivable is that it lies beyond material nature; argument is material and cannot touch that truth, and so it is not to be applied to what is inconceivable. *Anubhāṣya*: in the *Mahābhārata* this is Sañjaya’s reply to Dhṛtarāṣṭra, who wished to hear of the rivers, mountains and forests of the earth; “inconceivable” means beyond the reach of the worldly, pleasure-seeking mind.
 
 [^83]: *Anubhāṣya*: in the twelfth chapter of the last, twelfth canto of the *Śrīmad-Bhāgavatam*, Vyāsa sums up the whole book from beginning to end in 52 verses; following the path of this *mahājana*, the author likewise recapitulates the Ādi-līlā.
+
+[^84]: *Anubhāṣya*: of the seventeen chapters of the Ādi-līlā, the first twelve are only the preface (*upakramaṇikā*) to the book; chapters thirteen to seventeen tell of the five ages — birth, childhood (*bālya*), boyhood (*paugaṇḍa*), youth (*kaiśora*) and young manhood (*yuvā*).
+
+[^85]: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35).
+
+[^86]: *Anubhāṣya*: cf. Madhya 21.10, 12; Bhāg. 2.7.41, 10.14.7.
+
+[^87]: *Anubhāṣya*: Svarūpa is Śrī Dāmodara Svarūpa (see Madhya 10.102–127). Here the edition has the colophon — “Thus, in the *Śrī Caitanya-caritāmṛta*, in the Ādi-khaṇḍa, ends the seventeenth chapter, called ‘A Brief Description of the Pastimes of Young Manhood’” — and the words “Thus ends the Ādi-līlā”.
