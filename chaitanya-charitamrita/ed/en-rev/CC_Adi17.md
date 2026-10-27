@@ -1811,7 +1811,7 @@ that  night  a  lion  very  terrible
 nara-deha, siṁha-mukha, garjaye vistara  
 man’s body  lion’s face  roars  loudly
 
-(178–179) The Kazi said, “When I went to a Hindu’s house, broke the mṛdaṅga and forbade the kīrtana, that very night there came a most terrible lion, with the body of a man and the face of a lion, roaring mightily.[^48]
+(178–179) The Kazi began: “When I went to a Hindu’s house, broke the mṛdaṅga and forbade the kīrtana, that very night there came a most terrible lion, with the body of a man and the face of a lion, roaring mightily.[^48]
 
 শয়নে আমার উপর লাফ দিয়া চড়ি’ ৷  
 অট্ট অট্ট হাসে, করে দন্ত-কড়মড়ি ॥ ১৮০ ॥
@@ -2208,7 +2208,7 @@ this  hearing  the Kazi’s  two  from the eyes  fall  tears
 prabhura caraṇa chum̐i’ bale priya-vāṇī  
 of the Lord  the feet  touching  says  loving words
 
-(219) When he heard this, tears fell from the Kazi’s eyes. Touching the Lord’s feet, he said with deep feeling:
+(219) At these words tears fell from the Kazi’s eyes, and touching the Lord’s feet, he said with deep feeling:
 
 তোমার প্রসাদে মোর ঘুচিল কুমতি ৷  
 এই কৃপা কর, যেন তোমাতে রহু ভক্তি ॥ ২২০ ॥
@@ -2248,7 +2248,7 @@ hearing  the Lord  Hari  saying  rose  Himself
 uṭhila vaiṣṇava saba kari’ hari-dhvani  
 rose  the Vaiṣṇavas  all  making  the sound of Hari
 
-(223) Hearing this, the Lord rose, crying “Hari!”, and all the Vaiṣṇavas rose with Him, raising the sound of Hari’s name.
+(223) Thereupon the Lord rose, crying “Hari!”, and all the Vaiṣṇavas rose with Him, raising the sound of Hari’s name.
 
 কীর্ত্তন করিতে প্রভু করিলা গমন ৷  
 সঙ্গে চলি’ আইসে কাজী উল্লসিত মন ॥ ২২৪ ॥
@@ -2548,7 +2548,7 @@ students  a thousand  where  study  in one place
 prabhura vṛttānta dvija kahe tāhām̐ yāi  
 the Lord’s  account  the brāhmaṇa  tells  there  going
 
-(253) Going to the place where a thousand students studied together, that brāhmaṇa told them what had happened with the Lord.
+(253) Going to the place where a thousand students studied together, the young brāhmaṇa told them what had happened with the Lord.
 
 শুনি’ ক্রোধ কৈল সব পড়ুয়ার গণ ৷  
 সবে মেলি’ করে তবে প্রভুর নিন্দন ॥ ২৫৪ ॥
@@ -2558,7 +2558,7 @@ hearing  anger  made  all  of the students  the crowd
 sabe meli’ kare tabe prabhura nindana  
 all  together  make  then  the Lord’s  reviling
 
-(254) Hearing it, the whole crowd of students grew angry, and together they all began to revile the Lord:
+(254) At this the whole crowd of students grew angry, and together they all began to revile the Lord:
 
 সব দেশ ভ্রষ্ট কৈল একলা নিমাঞি ৷  
 ব্রাহ্মণ মারিতে চাহে, ধর্ম্মভয় নাই ॥ ২৫৫ ॥
@@ -2778,7 +2778,7 @@ His own sweetness  of Rādhā’s love  the rasa  to taste
 rādhā-bhāva aṅgī kariyāche bhāla-mate  
 Rādhā’s mood  made His own  has  fully
 
-(276) To taste His own sweetness and the rasa of Rādhā’s love, He has wholly made Rādhā’s mood His own.[^73]
+(276) To taste His own sweetness and the rasa of Rādhā’s love, He has fully made Rādhā’s mood His own.[^73]
 
 গোপী-ভাব যাতে প্রভু ধরিয়াছে একান্ত ৷  
 ব্রজেন্দ্রনন্দনে মানে আপনার কান্ত ॥ ২৭৭ ॥
@@ -2834,7 +2834,7 @@ when He reveals  of Viṣṇu  even  a form  in Him  with arms  victorious
 yāsāṁ hanta caturbhir adbhuta-ruciṁ rāgodayaḥ kuñcati  
 whose  alas  four  of wondrous splendour  the rise of love  shrinks
 
-(281) “What wise man can understand the workings of the love of the gopīs who serve the son of the king of the cowherds — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)[^74]
+(281) “What wise man can fathom the ways of the gopīs’ love for the son of the cowherd king — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)[^74]
 
 বসন্তকালে রাসলীলা করে গোবর্দ্ধনে ৷  
 অন্তর্দ্ধান কৈলা সঙ্কেত করি’ রাধা সনে ॥ ২৮২ ॥
@@ -2960,7 +2960,7 @@ of Rādhā  of the love  ah  the greatness  of which  by the splendour  to keep
 sā śakyā prabhaviṣṇunāpi hariṇā nāsīc catur-bāhutā  
 it  possible  by the all-powerful even  by Hari  not was  four-armedness
 
-(293) “At the start of the rāsa dance Kṛṣṇa hid in a bower, but the doe-eyed gopīs saw Him; to conceal Himself, He cleverly showed them a four-armed form. Yet before the splendour of Rādhā’s love even the all-powerful Hari could not keep that four-armed form. Ah, such is the greatness of Rādhā’s love!” (Ujjvala-nīlamaṇi)[^75]
+(293) “At the start of the rāsa dance Kṛṣṇa hid in a bower, but the doe-eyed gopīs saw Him; to conceal Himself, He cleverly showed them a four-armed form. Yet before the splendour of Rādhā’s love even the all-powerful Hari could not keep it. Ah, how great is Her love!” (Ujjvala-nīlamaṇi)[^75]
 
 সেই ব্রজেশ্বর — ইঁহ জগন্নাথ পিতা ৷  
 সেই ব্রজেশ্বরী — ইঁহ শচীদেবী মাতা ॥ ২৯৪ ॥
@@ -3204,7 +3204,7 @@ in the fourth  I told  of the birth  the root  cause
 sva-mādhurya-premānanda-rasa-āsvādana  
 the tasting of the rasa of the bliss of love for His own sweetness
 
-(317) In the fourth I told the “root” cause of His birth: to taste the rasa of the bliss of love for His own sweetness.
+(317) In the fourth I told the “root” cause of His birth: to taste the blissful rasa of love for His own sweetness.
 
 পঞ্চমে ‘শ্রীনিত্যানন্দ’-তত্ত্ব নিরূপণ ৷  
 নিত্যানন্দ হৈলা রাম রোহিণীনন্দন ॥ ৩১৮ ॥

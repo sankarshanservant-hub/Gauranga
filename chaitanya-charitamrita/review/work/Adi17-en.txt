@@ -951,7 +951,7 @@ w: the Kazi  says  when  I  of a Hindu  to the house  going
 w: kīrtana  I made  forbidden  the mṛdaṅga  breaking
 w: that  night  a  lion  very  terrible
 w: man’s body  lion’s face  roars  loudly
-tr: The Kazi said, “When I went to a Hindu’s house, broke the mṛdaṅga and forbade the kīrtana, that very night there came a most terrible lion, with the body of a man and the face of a lion, roaring mightily.
+tr: The Kazi began: “When I went to a Hindu’s house, broke the mṛdaṅga and forbade the kīrtana, that very night there came a most terrible lion, with the body of a man and the face of a lion, roaring mightily.
 fn: *Anubhāṣya*: the man’s body with a lion’s face is Śrī Nṛsiṁhadeva, who destroys enmity towards the devotees, towards bhakti and towards the Lord — and those who bear it. The edition’s heading: “Terror from Nṛsiṁhadeva in a dream”.
 
 ## 180
@@ -1158,7 +1158,7 @@ tr: You have spoken three names — Hari, Kṛṣṇa and Nārāyaṇa. You are 
 ## 219
 w: this  hearing  the Kazi’s  two  from the eyes  fall  tears
 w: of the Lord  the feet  touching  says  loving words
-tr: When he heard this, tears fell from the Kazi’s eyes. Touching the Lord’s feet, he said with deep feeling:
+tr: At these words tears fell from the Kazi’s eyes, and touching the Lord’s feet, he said with deep feeling:
 
 ## 220
 w: Your  by grace  my  is gone  evil mind
@@ -1179,7 +1179,7 @@ fn: *Amṛta-pravāha-bhāṣya*: *talāk* — a solemn oath. *Anubhāṣya*: to
 ## 223
 w: hearing  the Lord  Hari  saying  rose  Himself
 w: rose  the Vaiṣṇavas  all  making  the sound of Hari
-tr: Hearing this, the Lord rose, crying “Hari!”, and all the Vaiṣṇavas rose with Him, raising the sound of Hari’s name.
+tr: Thereupon the Lord rose, crying “Hari!”, and all the Vaiṣṇavas rose with Him, raising the sound of Hari’s name.
 
 ## 224
 w: kīrtana  to do  the Lord  made  setting out
@@ -1337,12 +1337,12 @@ tr: They calmed Him and brought Him back to His house, while the student ran off
 ## 253
 w: students  a thousand  where  study  in one place
 w: the Lord’s  account  the brāhmaṇa  tells  there  going
-tr: Going to the place where a thousand students studied together, that brāhmaṇa told them what had happened with the Lord.
+tr: Going to the place where a thousand students studied together, the young brāhmaṇa told them what had happened with the Lord.
 
 ## 254
 w: hearing  anger  made  all  of the students  the crowd
 w: all  together  make  then  the Lord’s  reviling
-tr: Hearing it, the whole crowd of students grew angry, and together they all began to revile the Lord:
+tr: At this the whole crowd of students grew angry, and together they all began to revile the Lord:
 
 ## 255
 w: all  the land  corrupted  has made  alone  Nimāi
@@ -1458,7 +1458,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the four kinds of devotees’ moods are *dāsy
 ## 276
 w: His own sweetness  of Rādhā’s love  the rasa  to taste
 w: Rādhā’s mood  made His own  has  fully
-tr: To taste His own sweetness and the rasa of Rādhā’s love, He has wholly made Rādhā’s mood His own.
+tr: To taste His own sweetness and the rasa of Rādhā’s love, He has fully made Rādhā’s mood His own.
 fn: *Anubhāṣya* on 276–278: Śrī Gaurasundara is Kṛṣṇa clothed in the mood and the radiance of Śrī Rādhā. Therefore He never abandoned the heart’s mood of the gopīs headed by Rādhikā, who serve Kṛṣṇa (*āśraya*), to act like Kṛṣṇa the enjoyer (*viṣaya*): never did He show the ways of a *nāgara* who seeks other men’s wives. The *prākṛta-sahajiyās*, who lay their own lust on Gaurasundara, only offend Svarūpa Dāmodara and Vṛndāvana dāsa Ṭhākura. The *Caitanya-bhāgavata* (Ādi 15) says that in this avatāra the Lord would not even hear the word “woman”, and that is why the great devotees never praise Him as “Gaurāṅga-nāgara”. Thus these verses refute the invented doctrine of *gaura-nāgarī*.
 
 ## 277
@@ -1486,7 +1486,7 @@ w: of the gopīs  serving the son of the king of herdsmen  of the love  what  th
 w: to understand  is able  moving on an unfathomable path  the working
 w: when He reveals  of Viṣṇu  even  a form  in Him  with arms  victorious
 w: whose  alas  four  of wondrous splendour  the rise of love  shrinks
-tr: “What wise man can understand the workings of the love of the gopīs who serve the son of the king of the cowherds — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)
+tr: “What wise man can fathom the ways of the gopīs’ love for the son of the cowherd king — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)
 fn: *Amṛta-pravāha-bhāṣya*: once Kṛṣṇa playfully revealed the wondrous four-armed form of Nārāyaṇa, and the gopīs’ love withdrew; what wise man can understand the moods of the gopīs, who walk the hard path of *parakīya* and serve the son of Nanda alone? *Anubhāṣya*: these are the words of Viśākhā to Savarṇā, the wife of Sūrya; *jiṣṇubhiḥ* — “victorious”; *kuñcati* — “does not blossom”.
 
 ## 282
@@ -1549,7 +1549,7 @@ w: at the start of the rāsa  hiding  staying  in a bower  by the doe-eyed ones
 w: seen  to conceal  Himself  with a bold mind  which  skilfully  was shown
 w: of Rādhā  of the love  ah  the greatness  of which  by the splendour  to keep
 w: it  possible  by the all-powerful even  by Hari  not was  four-armedness
-tr: “At the start of the rāsa dance Kṛṣṇa hid in a bower, but the doe-eyed gopīs saw Him; to conceal Himself, He cleverly showed them a four-armed form. Yet before the splendour of Rādhā’s love even the all-powerful Hari could not keep that four-armed form. Ah, such is the greatness of Rādhā’s love!” (Ujjvala-nīlamaṇi)
+tr: “At the start of the rāsa dance Kṛṣṇa hid in a bower, but the doe-eyed gopīs saw Him; to conceal Himself, He cleverly showed them a four-armed form. Yet before the splendour of Rādhā’s love even the all-powerful Hari could not keep it. Ah, how great is Her love!” (Ujjvala-nīlamaṇi)
 fn: *Amṛta-pravāha-bhāṣya*: at the start of the rāsa Kṛṣṇa playfully hid in a bower; seeing the gopīs approach, He anxiously showed His charming four-armed form, and the ordinary gopīs said, “This is not Kṛṣṇa, our beloved.” But how wonderful is the greatness of Rādhā’s love: the moment She came, Kṛṣṇa, try as He might, could not keep that form. *Anubhāṣya*: this took place in spring by Govardhana, at the site of the rāsa called Parāsaulī; the gopīs had surrounded the bower, and there was no slipping away unseen. Though the Lord is subject to love, one cannot say that His majesty vanishes before love: it is eternal — it is only concealed. The edition’s heading gives *Ujjvala-nīlamaṇi*, seventh *aṅka*, words of Śrī Rūpa Gosvāmī.
 
 ## 294
@@ -1680,7 +1680,7 @@ tr: and within it the “special” cause, the gift of prema; the religion of th
 ## 317
 w: in the fourth  I told  of the birth  the root  cause
 w: the tasting of the rasa of the bliss of love for His own sweetness
-tr: In the fourth I told the “root” cause of His birth: to taste the rasa of the bliss of love for His own sweetness.
+tr: In the fourth I told the “root” cause of His birth: to taste the blissful rasa of love for His own sweetness.
 
 ## 318
 w: in the fifth  of Śrī Nityānanda  the truth  determining
