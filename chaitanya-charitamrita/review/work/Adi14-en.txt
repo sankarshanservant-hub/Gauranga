@@ -1,0 +1,195 @@
+# English translation, Ādi-līlā 14 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: A Brief Description of the Childhood Pastimes
+
+## 1
+w: in any way  being remembered  whom
+w: the difficult  easy  becomes
+w: being forgotten  the reverse  becomes
+w: Śrī Caitanya  Him  I worship
+tr: I worship Śrī Caitanya. Remember Him in any way at all, and the difficult becomes easy; forget Him, and the easy becomes difficult. (Hari-bhakti-vilāsa, 20.1)
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: of the Lord  I have told  this  of the birth-pastime  the outline
+w: of Yaśodā  the son  how  became  Śacī’s son
+tr: Thus I have given an outline of the Lord’s birth, telling how the son of Yaśodā became the son of Śacī.
+
+## 4
+w: in brief  I have told  of the birth-pastimes  the sequence
+w: now  I tell  of the childhood pastimes’  outline  the account
+tr: I have told the events of His birth in brief and in order; now I shall give, point by point, the outline of His childhood pastimes.
+
+## 5
+w: I worship  of Caitanya-Kṛṣṇa
+w: the childhood pastimes  enchanting
+w: worldly  though  them  by the Lord’s
+w: acts  inwardly imbued
+tr: I worship the enchanting childhood pastimes of Kṛṣṇa, who came as Caitanya. Though they seem the doings of an ordinary human child, within they are filled with the acts of the Lord Himself.
+fn: Heading in the edition: “Though Gaura’s pastimes look human, they are not of this world (*aprākṛta*).” *Anubhāṣya*: *laukikīm api* — though they resemble the doings of people in this world; *īśa-ceṣṭayā valitāntarām* — “inwardly joined with the acts of the Lord”, with His supernatural endeavours. *Amṛta-pravāha-bhāṣya*: the childhood pastimes look worldly, yet the acts of God are woven into them.
+
+## 6
+w: in the childhood pastimes  first  the Lord’s  face-up  lying
+w: to father and mother  He showed  the marks  of the feet
+tr: At the very start of His childhood pastimes, as Śrī Caitanya lay on His back, He showed His father and mother the divine marks on His feet.
+fn: Heading in the edition to 6–7: “The marks of the conch, disc, flag, thunderbolt and fish on His soles.” *Anubhāṣya*: *uttāna* means lying face upwards, on one’s back; another reading is *utthāna*, “rising”: the baby tried to stand on His feet and, not yet used to it, tumbled down like any child.
+
+## 7
+w: in the house  the two  seeing  of small feet  the prints
+w: in them indeed  flag,  thunderbolt,  conch,  disc,  fish
+tr: In the house the two of them saw the prints of tiny feet, and in them a flag, a thunderbolt, a conch, a disc and a fish.
+
+## 8
+w: seeing  of both  in the hearts  arose  wonder
+w: whose  footprints  in the house  not  they find  certainty
+tr: At the sight both were filled with wonder, unable to tell whose footprints these could be.
+
+## 9
+w: Miśra  says  —  the child Gopāla  is  with the śilā
+w: He  taking a form  plays,  I think,  in the house  for His delight
+tr: Miśra said, “The child Gopāla dwells with our *śālagrāma-śilā*. I think He takes on a form and plays about the house for His own delight.”
+
+## 10
+w: at that  moment  waking  Nimāi  begins  crying
+w: on her lap  taking  Śacī  to Him  gave to drink  the breast
+tr: At that moment Nimāi woke and began to cry. Śacī took Him on her lap and nursed Him.
+
+## 11
+w: the breast  while giving  of her son  the feet  she saw
+w: those  marks  on His feet  seeing  —  Miśra  she called
+tr: As she nursed Him, she looked at her son’s feet, and when she saw those same marks on them, she called Miśra.
+
+## 12
+w: seeing  Miśra’s  became  joyful  mind
+w: secretly  he called  Nīlāmbara  Cakravartī
+tr: The sight filled Miśra’s heart with joy, and he quietly sent for Nīlāmbara Cakravartī.
+
+## 13
+w: the marks  seeing  Cakravartī  says  smiling
+w: the birth-chart  reckoning  earlier  I  have kept  written down
+tr: Seeing the marks, Cakravartī smiled and said, “When I cast His birth chart, I foresaw this and wrote it down.
+
+## 14
+w: thirty-two  marks  —  of a great personality  the ornaments
+w: on this  child’s body  I see  those  all  marks
+tr: Thirty-two marks adorn a great personality, and I see every one of them on this child’s body.
+
+## 15
+w: five long  five fine
+w: seven red  six raised
+w: three short, broad, deep
+w: thirty-two-marked  great
+tr: “A great personality bears thirty-two marks: five parts of his body are long, five fine, seven reddish and six raised; three are short, three broad and three deep.” (Sāmudrika, 3)
+fn: Heading in the edition: “The thirty-two marks of a great personality”; the source is the *Sāmudrika*, verse 3. *Amṛta-pravāha-bhāṣya*: the long are the nose, arms, jaw, eyes and knees; the fine — skin, hair, finger joints, teeth and body hair; the reddish — the corners of the eyes, the soles, palms, palate, lower and upper lip, and nails; the raised — chest, shoulders, nails, nose, waist and face; the short — neck, shanks and generative organ; the broad — waist, forehead and chest; the deep — navel, voice and character (*sattva*). One who bears these thirty-two marks is a *mahāpuruṣa*, a great personality.
+
+## 16
+w: of Nārāyaṇa  bearing the marks  His holy  hands and feet
+w: this  child  all  people  will  deliver
+tr: His hands and feet bear the marks of Nārāyaṇa. This child will deliver all people.
+
+## 17
+w: this one  indeed  will make  of Vaiṣṇava  dharma  the spreading
+w: from Him  will be  of the two  families  the deliverance
+tr: He will spread the Vaiṣṇava dharma far and wide, and through Him both His families will be delivered.
+fn: *Amṛta-pravāha-bhāṣya*: the two families are His father’s and His mother’s.
+
+## 18
+w: a great festival  hold,  all  call  the brāhmaṇas
+w: today  the day  is good  —  I shall perform  the naming
+tr: Hold a great festival and invite all the brāhmaṇas. Today is an auspicious day; I shall perform the naming ceremony.
+
+## 19
+w: all  people  will  this one  uphold,  nourish
+w: ‘Viśvambhara’  the name  His  —  this  indeed  the reason
+tr: He will uphold and nourish all people, and that is why His name is Viśvambhara.”
+fn: The *Anubhāṣya* cites the *Caitanya-bhāgavata* (Ādi 3): “At His birth the whole world grew well again, as when Nārāyaṇa once upheld the earth. Therefore His name is Śrī Viśvambhara.” The name Viśvambhara also occurs in the *Atharva-veda* (book 2, *anuvāka* 3, *prapāṭhaka* 3, mantra 16.5): “O Viśvambhara, uphold and protect me with all that sustains the world, *svāhā*.”
+
+## 20
+w: hearing  of Śacī and Miśra  in the minds  joy  grew
+w: brāhmaṇas and their wives  bringing  a great festival  they held
+tr: Hearing this, Śacī and Miśra rejoiced all the more. They invited the brāhmaṇas and their wives and held a great festival.
+
+## 21
+w: then  some  days later  the Lord’s  on the knees  moving
+w: various  wonders  there  He made  to be seen
+tr: Some days later the Lord began to crawl on His knees, and He showed many wonders.
+fn: Heading in the edition: “Supernatural acts displayed.” *Anubhāṣya* (after the *Caitanya-bhāgavata*, Ādi 3): the beautiful Lord crawled about on His knees, and little bells tinkled at His waist. One day a snake was gliding through the courtyard, and the Lord, at play like a child, caught hold of it. The snake coiled itself up, and He lay down on top of it; then the snake left Him and slipped away.
+
+## 22
+w: of crying  on the pretext  He made say  the name of Hari
+w: the women  all  ‘Hari’  say  —  laughs  the golden One
+tr: On the pretext of crying He made everyone chant the name of Hari: all the women would call out “Hari!”, and the golden Lord would laugh.
+fn: Heading in the edition: “At the name of Hari His crying stops.” *Anubhāṣya* (after the *Caitanya-bhāgavata*, Ādi 3): the lotus-eyed Lord would cry until He heard the name of Hari. Everyone understood the sign, and as soon as He began to cry they would clap their hands and sing “Hari!” — and so, just as He wished, He made them all chant the holy name without cease.
+
+## 23
+w: then  some  days later  He did  on the feet  walking
+w: with the children  joining  He did  various  games
+tr: Some days later He began to walk, and He played all sorts of games with the other children.
+
+## 24
+w: one day  Śacī  puffed rice and sweets  bringing
+w: a dish  filling  giving  says  —  eat  now  sitting down
+tr: One day Śacī brought puffed rice and sweets, filled a dish, and gave it to Him, saying, “Sit down and eat.”
+
+## 25
+w: so  saying  went  Śacī  into the house  work  to do
+w: hiding  began  the child  earth  to eat
+tr: With that, Śacī went into the house to do her work, and the child began to eat earth on the sly.
+fn: *Anubhāṣya*: this episode is one of those that Vṛndāvana dāsa left out of the *Caitanya-bhāgavata* and that the author, as he promised in Ādi 13.49, now supplies.
+
+## 26
+w: seeing  Śacī  running  came  crying  ‘alas!’  ‘alas!’
+w: the earth  snatching  taking  says  earth  why  He eats
+tr: When Śacī saw it, she came running, crying, “Oh dear, oh dear!” She snatched the earth away and said, “Why are You eating earth?”
+
+## 27
+w: weeping  says  the child  —  why  you make  anger
+w: you  earth  to eat  gave,  My  what  fault
+tr: The child wept and said, “Why are you angry? You gave Me earth to eat — how is that My fault?
+
+## 28
+w: puffed rice, sweets, food,  all that  —  of earth  transformations
+w: this  earth,  that  earth,  what  of difference  consideration
+tr: Puffed rice, sweets and all food are only earth in another form. This is earth and that is earth; why make any distinction?
+fn: Headings in the edition: “Nimāi’s philosophical reply” (v. 27), “All is a transformation of clay” (v. 28), “The difference between a substance and its transformations, or between the favourable and the unfavourable” (v. 31). *Anubhāṣya* on 27–33: to take things for enjoyment is an activity of inert (*acit*) nature, and there is no service of Hari in it. The followers of the impersonal (*nirviśeṣa*) doctrine mistakenly hold that what is favourable to Kṛṣṇa’s service is of one kind with what is unfavourable. That such a notion is a crude, unripe error of worldly thought — that this “earthen” impersonal reasoning is barren — Mahāprabhu showed through His mother’s words, by the simple example of clay and the pot.
+
+## 29
+w: earth  —  the body,  earth  —  food,  look  considering
+w: without consideration  you give  blame,  what  to say  can I
+tr: The body is earth, and food is earth — think it over and see. You blame Me without thinking; what can I say?”
+
+## 30
+w: inwardly  astonished  Śacī  said  to Him
+w: earth  for eating  this jñāna-yoga  who  taught  You
+tr: Inwardly astonished, Śacī said to Him, “Who taught You such *jñāna-yoga*, just so You could eat earth?
+
+## 31
+w: of earth  the transformation  food  if eaten  of the body  nourishment  is
+w: earth  if eaten  disease  comes,  the body  goes  to decay
+tr: Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in and the body wastes away.
+
+## 32
+w: of earth  the transformation  in a pot  water  filling  I bring
+w: in a lump of earth  I hold  when,  soaking  goes  the water
+tr: In a pot, which is earth transformed, I fetch water; but try to hold it in a lump of earth, and the water soaks away.”
+
+## 33
+w: Himself  to hide  the Lord  said  to her
+w: before  why  this  mother  not  taught  Me
+tr: To keep Himself hidden, the Lord said to her, “Mother, why did you not teach Me this before?
+
+## 34
+w: now  indeed  I know,  any more  earth  not  I will eat
+w: hunger  comes  when,  then  your  breast  I will drink
+tr: Now that I know, I will not eat earth any more. When I am hungry, I will drink at your breast.”
+
+## 35
+w: so  saying  of the mother  onto the lap  climbing
+w: the breast  drinking  does  the Lord  slightly  smiling
+tr: Saying this, the Lord climbed onto His mother’s lap and, with a little smile, began to nurse.
