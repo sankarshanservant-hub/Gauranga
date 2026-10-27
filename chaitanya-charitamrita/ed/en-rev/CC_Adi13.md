@@ -96,7 +96,7 @@ fourteen hundred  seven  in the Śaka year  of birth  the record
 caudda-śata pañcānne haila antarddhāna  
 in fourteen hundred  fifty-five  took place  the disappearance
 
-(9) His appearance is recorded in Śaka 1407 (1486), and He disappeared from the world in 1455 (1533).
+(9) His appearance is recorded in Śaka 1407 (1486), and He disappeared from the world in Śaka 1455 (1533).
 
 চব্বিশ বৎসর প্রভু কৈল গৃহবাস ৷  
 নিরন্তর কৈল তাহে কীর্ত্তন-বিলাস ॥ ১০ ॥
@@ -186,7 +186,7 @@ childhood,  boyhood,  early youth,  youth,  —  four  divisions
 ataeva ādi-khaṇḍe līlā cāri bheda  
 therefore  in the first part  the pastimes  four  divisions
 
-(18) Childhood (*bālya*), boyhood (*paugaṇḍa*), early youth (*kaiśora*) and youth (*yauvana*) — these are the four ages, and so the pastimes of the first part fall into four divisions.
+(18) Childhood (*bālya*), boyhood (*paugaṇḍa*), early youth (*kaiśora*) and youth (*yauvana*) — these are the four ages, and so the Ādi-līlā falls into four divisions.
 
 সর্ব্বসদ্গুণপূর্ণাং তাং বন্দে ফাল্গুনপূর্ণিমাম্ ৷  
 যস্যাং শ্রীকৃষ্ণচৈতন্যোঽবতীর্ণঃ কৃষ্ণনামভিঃ ॥ ১৯ ॥
@@ -240,7 +240,7 @@ of a child’s mood  on the pretext  the Lord  does  crying
 ‘kṛṣṇa’ ‘hari’ nāma śuni’ rahaye rodana  
 ‘Kṛṣṇa’  ‘Hari’  the names  hearing  stops  weeping
 
-(23) On the pretext of being a baby the Lord would cry, and the moment He heard the names “Kṛṣṇa” and “Hari”, He stopped weeping.[^5]
+(23) In the guise of an ordinary infant the Lord would cry, but the moment He heard the names “Kṛṣṇa” and “Hari”, He would fall silent.[^5]
 
 অতএব ‘হরি’ ‘হরি’ বলে নারীগণ ৷  
 দেখিতে আইসে যেবা সর্ব্ব-বন্ধুজন ॥ ২৪ ॥
@@ -478,19 +478,19 @@ the chief and foremost  pastimes  in sūtras  have written  after weighing
 sei anusāre likhi līlā-sūtragaṇa  
 that  following  I write  the sūtras of the pastimes  
 vistāri’ varṇiyāchena tāhā dāsa-vṛndāvana  
-in detail  has described  them  Dāsa-Vṛndāvana
+in detail  has described  them  dāsa-Vṛndāvana
 
-(47) Following them, I write these pastimes in brief, and Vṛndāvana Dāsa has described them in detail.[^10]
+(47) Following them, I write these pastimes in brief, and Vṛndāvana dāsa has described them in detail.[^10]
 
 চৈতন্য-লীলার ব্যাস, — দাস বৃন্দাবন ৷  
 মধুর করিয়া লীলা করিলা রচন ॥ ৪৮ ॥
 
 caitanya-līlāra vyāsa, — dāsa vṛndāvana  
-of Caitanya’s pastimes  the Vyāsa  —  Dāsa  Vṛndāvana  
+of Caitanya’s pastimes  the Vyāsa  —  dāsa  Vṛndāvana  
 madhura kariyā līlā karilā racana  
 sweet  making  the pastimes  made  composition
 
-(48) Vṛndāvana Dāsa is the Vyāsa of Śrī Caitanya’s pastimes, and he set them down with great sweetness.
+(48) Vṛndāvana dāsa is the Vyāsa of Śrī Caitanya’s pastimes, and he set them down with great sweetness.
 
 গ্রন্থ-বিস্তার-ভয়ে ছাড়িলা যে যে স্থানে ৷  
 সেই সেই স্থানে কিছু করিব ব্যাখানে ॥ ৪৯ ॥
@@ -510,7 +510,7 @@ the Lord’s  nectar of pastimes  he  made  tasting
 tām̐ra bhukta-śeṣa kichu kariye carvaṇa  
 his  food’s remnants  some  I make  chewing
 
-(50) He has tasted the nectar of the Lord’s pastimes; I only chew a little of what he has left.
+(50) He has tasted the nectar of the Lord’s pastimes; I only savour a few morsels of what he has left.
 
 আদিলীলা-সূত্র লিখি, শুন, ভক্তগণ ৷  
 সংক্ষেপে লিখিয়ে সম্যক্ না যায় লিখন ॥ ৫১ ॥
@@ -778,7 +778,7 @@ woven lengthwise  crosswise  this  in whom
 tantuṣv aṅga yathā paṭaḥ  
 on threads  O dear one  as  cloth
 
-(77) “O King, this is no wonder in Bhagavān, the unlimited Lord of the universe, in whom this whole world is woven, warp and weft, like cloth upon its threads.” (Śrīmad-Bhāgavatam, 10.15.35)[^17]
+(77) “O King, this is no wonder for Bhagavān, the unlimited Lord of the universe, in whom this whole world is woven, warp and weft, like cloth upon its threads.” (Śrīmad-Bhāgavatam, 10.15.35)[^17]
 
 অতএব প্রভু তাঁরে বলে, ‘বড় ভাই’ ৷  
 কৃষ্ণ, বলরাম দুই — চৈতন্য, নিতাই ॥ ৭৮ ॥
@@ -818,7 +818,7 @@ Miśra  says  to Śacī  —  I see  a different  way
 jyotirmaya deha, geha lakṣmī-adhiṣṭhita  
 effulgent  the body,  the house  by Lakṣmī  presided over
 
-(81) Miśra said to Śacī, “I see something strange. Your body is radiant, and our house has become the abode of Lakṣmī.
+(81) Miśra said to Śacī, “I see something wonderful. Your body is radiant, and our house has become the abode of Lakṣmī.
 
 যাঁহা তাঁহা সর্ব্বলোক করয়ে সম্মান ৷  
 ঘরে পাঠাইয়া দেয় ধন, বস্ত্র, ধান ॥ ৮২ ॥
@@ -878,7 +878,7 @@ going on  going on  became  the pregnancy  thirteen  months
 tathāpi bhūmiṣṭha nahe, — miśrera haila trāsa  
 even so  born  not  —  Miśra’s  became  fear
 
-(87) Month followed month until the pregnancy reached its thirteenth month; still the child was not born, and Miśra grew afraid.
+(87) The months went by until the thirteenth had come, yet still the child was not born, and Miśra grew afraid.
 
 নীলাম্বর চক্রবর্ত্তী কহিল গণিয়া ৷  
 এই মাসে পুত্র হবে শুভক্ষণ পাঞা ॥ ৮৮ ॥
@@ -1026,7 +1026,7 @@ taking  the eclipse  as pretext,  His own  by the power of mind
 brāhmaṇere dila nānā dāna  
 to the brāhmaṇas  gave  various  gifts
 
-(100) Seeing the eclipse, He laughed, hurried to the bathing place on the Gaṅgā and bathed there joyfully. Then, on the pretext of the eclipse, He gave the brāhmaṇas many gifts in His mind.[^23]
+(100) Seeing the eclipse, He laughed, hurried to the bathing place on the Gaṅgā and bathed there joyfully. Then, as though for the eclipse, He gave the brāhmaṇas many gifts in His mind.[^23]
 
 জগৎ আনন্দময়,  দেখি’ মনে সবিস্ময়,  
 ঠারেঠোরে কহে হরিদাস ৷  
@@ -1074,7 +1074,7 @@ dance,  do  saṅkīrtana,  with bliss  overwhelmed  the mind
 dāna kare grahaṇera chale  
 gifts  give  on the pretext of the eclipse
 
-(103) So too all the devotees, in whatever land they dwelt, danced and sang saṅkīrtana there, overwhelmed with bliss, and on the pretext of the eclipse gave gifts in their minds.
+(103) So too all the devotees, in whatever land they dwelt, danced and sang saṅkīrtana there, overwhelmed with bliss, and, as though for the eclipse, gave gifts in their minds.
 
 ব্রাহ্মণ-সজ্জন-নারী,  নানা-দ্রব্যে পাত্র ভরি’  
 আইলা সবে যৌতুক লইয়া ৷  
@@ -1106,7 +1106,7 @@ with various  things  plates  filling,  of brāhmaṇa women  the dress  assumin
 āsi’ sabe karena daraśana  
 coming  all  do  seeing
 
-(105) Sāvitrī, Gaurī, Sarasvatī, Śacī, Rambhā, Arundhatī and all the other goddesses came dressed as brāhmaṇa ladies, with plates heaped with gifts, to see Him.[^24]
+(105) Sāvitrī, Gaurī, Sarasvatī, Śacī, Rambhā, Arundhatī and all the other goddesses came dressed as brāhmaṇa ladies, bearing trays laden with gifts, to see Him.[^24]
 
 অন্তরীক্ষে দেবগণ,  সিদ্ধ, গন্ধর্ব্ব, চারণ,  
 স্তুতি-নৃত্য করে বাদ্য-গীত ৷  
@@ -1404,13 +1404,13 @@ being born  he  why  not  died
 śrī-caitanya-nityānanda, ācārya advaitacandra,  
 Śrī Caitanya  Nityānanda,  Ācārya  Advaitacandra  
 svarūpa-rūpa-raghunāthadāsa  
-Svarūpa  Rūpa  Raghunātha Dāsa  
+Svarūpa  Rūpa  Raghunātha dāsa  
 im̐hā-sabāra śrī-caraṇa, śire vandi nija-dhana,  
 of all of them  the holy feet,  on my head  honouring  as my own wealth  
 janma-līlā gāila kṛṣṇadāsa  
 the pastime of birth  sang  Kṛṣṇadāsa
 
-(124) Honouring upon my head, as my own treasure, the holy feet of Śrī Caitanya and Nityānanda, Ācārya Advaitacandra, Svarūpa, Rūpa and Raghunātha Dāsa, I, Kṛṣṇadāsa, have sung the pastime of His birth.
+(124) Honouring upon my head, as my own treasure, the holy feet of Śrī Caitanya and Nityānanda, Ācārya Advaitacandra, Svarūpa, Rūpa and Raghunātha dāsa, I, Kṛṣṇadāsa, have sung the pastime of His birth.
 
 ---
 
@@ -1418,7 +1418,7 @@ the pastime of birth  sang  Kṛṣṇadāsa
 
 [^2]: Heading in the edition to 15–16: Murāri Gupta strung together the Ādi-līlā in his *Caitanya-carita*, and Svarūpa Dāmodara the later pastimes in his *Kaḍacā* (diary).
 
-[^3]: *Amṛta-pravāha-bhāṣya*: Śrī Murāri Gupta’s notes on the Ādi-līlā still survive; the Vaiṣṇavas read them, and they heard the notes of Śrī Svarūpa Gosvāmī’s diary from the lips of Śrī Raghunātha Dāsa Gosvāmī — and so they describe the Lord’s pastimes.
+[^3]: *Amṛta-pravāha-bhāṣya*: Śrī Murāri Gupta’s notes on the Ādi-līlā still survive; the Vaiṣṇavas read them, and they heard the notes of Śrī Svarūpa Gosvāmī’s diary from the lips of Śrī Raghunātha dāsa Gosvāmī — and so they describe the Lord’s pastimes.
 
 [^4]: *Anubhāṣya*: on this full moon Śrī Kṛṣṇa Caitanya — the Lord of Goloka, the original source of all avatāras, in whom Rādhā and Kṛṣṇa are one — descended together with the names of Kṛṣṇa from His own abode, the Gaura-prakoṣṭha, into the earthly Navadvīpa; and the full moon itself is no worldly day but a transcendental goddess of the lunar day (*tithi*), who descended into time to serve Him. The *Amṛta-pravāha-bhāṣya* cites a verse: “In the twenty-eighth age of Vaivasvata Manu, in the year fourteen hundred and seven, on the lovely bank of the Bhāgīrathī, from the great ocean of Śacī’s womb, on a full moon seized by Rāhu, Gaurāṅga appeared.”
 
@@ -1432,7 +1432,7 @@ the pastime of birth  sang  Kṛṣṇadāsa
 
 [^9]: *Anubhāṣya*: Vidyāpati, Jayadeva and Caṇḍīdāsa sang of the transcendental rasa of separation, and the Lord, absorbed in the heart of Śrī Rādhā, relished their songs with His two most intimate devotees, Svarūpa Dāmodara and Rāmānanda Rāya. But for those who identify with the body, who look in these songs for worldly poetry, or who, like the *prākṛta-sahajiyās*, claim to follow *rāgānugā* in order to please their senses, any discussion of the pastimes of Rādhā and Kṛṣṇa is strictly forbidden: they would take those transcendental pastimes for worldly love and ruin themselves.
 
-[^10]: Heading in the edition: “On the basis of those notes Ṭhākura Vṛndāvana Dāsa described the pastimes of Gaura.”
+[^10]: Heading in the edition: “On the basis of those notes Ṭhākura Vṛndāvana dāsa described the pastimes of Gaura.”
 
 [^11]: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*, 35): the cowherd Parjanya, Kṛṣṇa’s grandfather, appeared in Śrīhaṭṭa as Upendra Miśra, the father of seven sons; he lived in the village of Ḍhākā-dakṣiṇa.
 

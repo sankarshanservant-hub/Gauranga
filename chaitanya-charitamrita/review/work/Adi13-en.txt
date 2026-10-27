@@ -50,7 +50,7 @@ tr: Śrī Kṛṣṇa Caitanya descended in Navadvīpa, and for forty-eight year
 ## 9
 w: fourteen hundred  seven  in the Śaka year  of birth  the record
 w: in fourteen hundred  fifty-five  took place  the disappearance
-tr: His appearance is recorded in Śaka 1407 (1486), and He disappeared from the world in 1455 (1533).
+tr: His appearance is recorded in Śaka 1407 (1486), and He disappeared from the world in Śaka 1455 (1533).
 
 ## 10
 w: twenty-four  years  the Lord  made  household life
@@ -92,12 +92,12 @@ fn: Heading in the edition to 15–16: Murāri Gupta strung together the Ādi-l�
 w: these  two  persons’  sūtras  seeing  hearing
 w: description  make  the Vaiṣṇavas  the sequence  which  keeping
 tr: Reading and hearing the notes of these two, the Vaiṣṇavas describe the Lord’s pastimes in their order.
-fn: *Amṛta-pravāha-bhāṣya*: Śrī Murāri Gupta’s notes on the Ādi-līlā still survive; the Vaiṣṇavas read them, and they heard the notes of Śrī Svarūpa Gosvāmī’s diary from the lips of Śrī Raghunātha Dāsa Gosvāmī — and so they describe the Lord’s pastimes.
+fn: *Amṛta-pravāha-bhāṣya*: Śrī Murāri Gupta’s notes on the Ādi-līlā still survive; the Vaiṣṇavas read them, and they heard the notes of Śrī Svarūpa Gosvāmī’s diary from the lips of Śrī Raghunātha dāsa Gosvāmī — and so they describe the Lord’s pastimes.
 
 ## 18
 w: childhood,  boyhood,  early youth,  youth,  —  four  divisions
 w: therefore  in the first part  the pastimes  four  divisions
-tr: Childhood (*bālya*), boyhood (*paugaṇḍa*), early youth (*kaiśora*) and youth (*yauvana*) — these are the four ages, and so the pastimes of the first part fall into four divisions.
+tr: Childhood (*bālya*), boyhood (*paugaṇḍa*), early youth (*kaiśora*) and youth (*yauvana*) — these are the four ages, and so the Ādi-līlā falls into four divisions.
 
 ## 19
 w: with all  good  qualities  full  that
@@ -125,7 +125,7 @@ tr: At His birth, in childhood, boyhood, early youth and youth, the Lord found o
 ## 23
 w: of a child’s mood  on the pretext  the Lord  does  crying
 w: ‘Kṛṣṇa’  ‘Hari’  the names  hearing  stops  weeping
-tr: On the pretext of being a baby the Lord would cry, and the moment He heard the names “Kṛṣṇa” and “Hari”, He stopped weeping.
+tr: In the guise of an ordinary infant the Lord would cry, but the moment He heard the names “Kṛṣṇa” and “Hari”, He would fall silent.
 fn: Heading in the edition: “Crying on the pretext of making people chant the name — and quieting at the name alone.”
 
 ## 24
@@ -249,14 +249,14 @@ tr: Svarūpa Dāmodara and Murāri Gupta weighed them carefully and wrote down t
 
 ## 47
 w: that  following  I write  the sūtras of the pastimes
-w: in detail  has described  them  Dāsa-Vṛndāvana
-tr: Following them, I write these pastimes in brief, and Vṛndāvana Dāsa has described them in detail.
-fn: Heading in the edition: “On the basis of those notes Ṭhākura Vṛndāvana Dāsa described the pastimes of Gaura.”
+w: in detail  has described  them  dāsa-Vṛndāvana
+tr: Following them, I write these pastimes in brief, and Vṛndāvana dāsa has described them in detail.
+fn: Heading in the edition: “On the basis of those notes Ṭhākura Vṛndāvana dāsa described the pastimes of Gaura.”
 
 ## 48
-w: of Caitanya’s pastimes  the Vyāsa  —  Dāsa  Vṛndāvana
+w: of Caitanya’s pastimes  the Vyāsa  —  dāsa  Vṛndāvana
 w: sweet  making  the pastimes  made  composition
-tr: Vṛndāvana Dāsa is the Vyāsa of Śrī Caitanya’s pastimes, and he set them down with great sweetness.
+tr: Vṛndāvana dāsa is the Vyāsa of Śrī Caitanya’s pastimes, and he set them down with great sweetness.
 
 ## 49
 w: of the book  the expansion  fearing  left out  which  which  places
@@ -266,7 +266,7 @@ tr: Fearing that his book would grow too long, he left out certain parts, and of
 ## 50
 w: the Lord’s  nectar of pastimes  he  made  tasting
 w: his  food’s remnants  some  I make  chewing
-tr: He has tasted the nectar of the Lord’s pastimes; I only chew a little of what he has left.
+tr: He has tasted the nectar of the Lord’s pastimes; I only savour a few morsels of what he has left.
 
 ## 51
 w: the Ādi-līlā sūtras  I write,  hear,  devotees
@@ -403,7 +403,7 @@ w: not  this  wonderful  in Bhagavān
 w: indeed  in the unlimited  in the Lord of the universe
 w: woven lengthwise  crosswise  this  in whom
 w: on threads  O dear one  as  cloth
-tr: “O King, this is no wonder in Bhagavān, the unlimited Lord of the universe, in whom this whole world is woven, warp and weft, like cloth upon its threads.” (Śrīmad-Bhāgavatam, 10.15.35)
+tr: “O King, this is no wonder for Bhagavān, the unlimited Lord of the universe, in whom this whole world is woven, warp and weft, like cloth upon its threads.” (Śrīmad-Bhāgavatam, 10.15.35)
 fn: *Anubhāṣya*: Śukadeva says this to Parīkṣit about Baladeva’s slaying of the demon Dhenuka.
 
 ## 78
@@ -426,7 +426,7 @@ fn: *Anubhāṣya* to 80–86: Jagannātha and Śacī are the Lord’s eternal a
 ## 81
 w: Miśra  says  to Śacī  —  I see  a different  way
 w: effulgent  the body,  the house  by Lakṣmī  presided over
-tr: Miśra said to Śacī, “I see something strange. Your body is radiant, and our house has become the abode of Lakṣmī.
+tr: Miśra said to Śacī, “I see something wonderful. Your body is radiant, and our house has become the abode of Lakṣmī.
 
 ## 82
 w: wherever  wherever  all people  do  honour
@@ -456,7 +456,7 @@ tr: Speaking thus, the two were filled with joy, and they served the śālagrām
 ## 87
 w: going on  going on  became  the pregnancy  thirteen  months
 w: even so  born  not  —  Miśra’s  became  fear
-tr: Month followed month until the pregnancy reached its thirteenth month; still the child was not born, and Miśra grew afraid.
+tr: The months went by until the thirteenth had come, yet still the child was not born, and Miśra grew afraid.
 
 ## 88
 w: Nīlāmbara  Cakravartī  said  calculating
@@ -530,7 +530,7 @@ w: seeing  the eclipse  laughing,  quickly  to the Gaṅgā’s bathing place  c
 w: in joy  made  bath in the Gaṅgā
 w: taking  the eclipse  as pretext,  His own  by the power of mind
 w: to the brāhmaṇas  gave  various  gifts
-tr: Seeing the eclipse, He laughed, hurried to the bathing place on the Gaṅgā and bathed there joyfully. Then, on the pretext of the eclipse, He gave the brāhmaṇas many gifts in His mind.
+tr: Seeing the eclipse, He laughed, hurried to the bathing place on the Gaṅgā and bathed there joyfully. Then, as though for the eclipse, He gave the brāhmaṇas many gifts in His mind.
 fn: *Anubhāṣya*: *mano-bale* — “with eagerness of heart”, or “in the mind”. So too Vasudeva, seeing Hari born as his son, in the joy of Kṛṣṇa’s birth festival gave the brāhmaṇas ten thousand cows in his mind (Śrīmad-Bhāgavatam, 10.3.11).
 
 ## 101
@@ -552,7 +552,7 @@ w: in this  way  the devotees  all,  whose  in whatever  land  dwelling
 w: there  there  using  power of mind
 w: dance,  do  saṅkīrtana,  with bliss  overwhelmed  the mind
 w: gifts  give  on the pretext of the eclipse
-tr: So too all the devotees, in whatever land they dwelt, danced and sang saṅkīrtana there, overwhelmed with bliss, and on the pretext of the eclipse gave gifts in their minds.
+tr: So too all the devotees, in whatever land they dwelt, danced and sang saṅkīrtana there, overwhelmed with bliss, and, as though for the eclipse, gave gifts in their minds.
 
 ## 104
 w: brāhmaṇas,  good men,  women,  with various  things  plates  filling
@@ -566,7 +566,7 @@ w: Sāvitrī,  Gaurī,  Sarasvatī,  Śacī,  Rambhā,  Arundhatī
 w: and  all  the wives of the gods
 w: with various  things  plates  filling,  of brāhmaṇa women  the dress  assuming
 w: coming  all  do  seeing
-tr: Sāvitrī, Gaurī, Sarasvatī, Śacī, Rambhā, Arundhatī and all the other goddesses came dressed as brāhmaṇa ladies, with plates heaped with gifts, to see Him.
+tr: Sāvitrī, Gaurī, Sarasvatī, Śacī, Rambhā, Arundhatī and all the other goddesses came dressed as brāhmaṇa ladies, bearing trays laden with gifts, to see Him.
 fn: *Anubhāṣya*: Sāvitrī is the consort of Brahmā, Gaurī of Śiva, Sarasvatī of Nṛsiṁha (after the verse quoted by Śrīdhara Svāmī: “in whose mouth dwells the Goddess of speech and on whose breast Lakṣmī…”), Śacī of Indra; Rambhā is a dancer of heaven, and Arundhatī the wife of Vasiṣṭha.
 
 ## 106
@@ -707,7 +707,7 @@ fn: *Anubhāṣya*: one who turns from the river of nectar — devotion to Kṛ�
 
 ## 124
 w: Śrī Caitanya  Nityānanda,  Ācārya  Advaitacandra
-w: Svarūpa  Rūpa  Raghunātha Dāsa
+w: Svarūpa  Rūpa  Raghunātha dāsa
 w: of all of them  the holy feet,  on my head  honouring  as my own wealth
 w: the pastime of birth  sang  Kṛṣṇadāsa
-tr: Honouring upon my head, as my own treasure, the holy feet of Śrī Caitanya and Nityānanda, Ācārya Advaitacandra, Svarūpa, Rūpa and Raghunātha Dāsa, I, Kṛṣṇadāsa, have sung the pastime of His birth.
+tr: Honouring upon my head, as my own treasure, the holy feet of Śrī Caitanya and Nityānanda, Ācārya Advaitacandra, Svarūpa, Rūpa and Raghunātha dāsa, I, Kṛṣṇadāsa, have sung the pastime of His birth.
