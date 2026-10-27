@@ -802,6 +802,950 @@ with both arms  was embraced
 
 (78) “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet because I was born a brāhmaṇa, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)[^29]
 
+একদিন প্রভু সব ভক্তগণ লঞা ৷  
+সংকীর্ত্তন করি’ বৈসে শ্রমযুক্ত হঞা ॥ ৭৯ ॥
+
+ekadina prabhu saba bhakta-gaṇa lañā  
+one  day  the Lord  all  the devotees  taking  
+saṁkīrtana kari’ vaise śrama-yukta hañā  
+saṅkīrtana  doing  sits  tired  becoming
+
+(79) One day, after saṅkīrtana with all the devotees, the Lord sat down to rest, tired.[^30]
+
+এক আম্রবীজ প্রভু অঙ্গনে রোপিল ৷  
+তৎক্ষণে জন্মিয়া বৃক্ষ বাড়িতে লাগিল ॥ ৮০ ॥
+
+eka āmra-bīja prabhu aṅgane ropila  
+one  mango seed  the Lord  in the courtyard  planted  
+tat-kṣaṇe janmiyā vṛkṣa bāḍite lāgila  
+at that moment  springing up  the tree  to grow  began
+
+(80) He planted a mango seed in the courtyard, and at once a tree sprang up and began to grow.
+
+দেখিতে দেখিতে বৃক্ষ লাগিল ফলিতে ৷  
+পাকিল অনেক ফল, সবেই বিস্মিতে ॥ ৮১ ॥
+
+dekhite dekhite vṛkṣa lāgila phalite  
+as they watched  the tree  began  to bear fruit  
+pākila aneka phala, sabei vismite  
+ripened  many  fruits  all  in wonder
+
+(81) As they watched, the tree began to bear fruit, and many mangoes ripened, to everyone’s wonder.
+
+শত দুই ফল প্রভু শীঘ্র পাড়াইল ৷  
+প্রক্ষালন করি’ কৃষ্ণে ভোগ লাগাইল ॥ ৮২ ॥
+
+śata dui phala prabhu śīghra pāḍāila  
+hundred  two  fruits  the Lord  quickly  had picked  
+prakṣālana kari’ kṛṣṇe bhoga lāgāila  
+washing  making  to Kṛṣṇa  offering  made
+
+(82) The Lord quickly had two hundred mangoes picked, washed them and offered them to Kṛṣṇa.
+
+রক্ত-পীতবর্ণ, নাহি অষ্ঠি-বল্কল ৷  
+একজনের পেট ভরে খাইলে এক ফল ॥ ৮৩ ॥
+
+rakta-pīta-varṇa, nāhi aṣṭhi-valkala  
+red and yellow  in colour  no  stone or skin  
+ekajanera peṭa bhare khāile eka phala  
+of one person  the stomach  fills  on eating  one  fruit
+
+(83) They were red and yellow, without stone or skin, and a single fruit was enough to satisfy a man.
+
+দেখিয়া সন্তুষ্ট হৈলা শচীর নন্দন ৷  
+সবাকে খাওয়াল আগে করিয়া ভক্ষণ ॥ ৮৪ ॥
+
+dekhiyā santuṣṭa hailā śacīra nandana  
+seeing  pleased  became  Śacī’s  son  
+sabāke khāoyāla āge kariyā bhakṣaṇa  
+everyone  He fed  first  making  eating
+
+(84) The son of Śacī was pleased to see them; He tasted them first and then fed everyone.
+
+অষ্ঠি-বল্কল নাহি, — অমৃত-রসময় ৷  
+এক ফল খাইলে রসে উদর পূরয় ॥ ৮৫ ॥
+
+aṣṭhi-valkala nāhi, — amṛta-rasamaya  
+stone or skin  none  full of nectarean juice  
+eka phala khāile rase udara pūraya  
+one  fruit  on eating  with its juice  the stomach  fills
+
+(85) Without stone or skin, they were full of nectarean juice, and one fruit was a meal in itself.
+
+এইমত প্রতিদিন ফলে বারমাস ৷  
+বৈষ্ণব খায়েন ফল, — প্রভুর উল্লাস ॥ ৮৬ ॥
+
+ei-mata pratidina phale bāra māsa  
+in this way  every day  bore fruit  for twelve months  
+vaiṣṇava khāyena phala, — prabhura ullāsa  
+the Vaiṣṇavas  eat  the fruit  the Lord’s  delight
+
+(86) So the tree bore fruit every day for twelve months, and the Vaiṣṇavas ate it, to the Lord’s delight.
+
+এই সব লীলা করে শচীর নন্দন ৷  
+অন্য লোক নাহি জানে বিনা ভক্তগণ ॥ ৮৭ ॥
+
+ei saba līlā kare śacīra nandana  
+these  all  pastimes  performs  Śacī’s  son  
+anya loka nāhi jāne vinā bhakta-gaṇa  
+other  people  not  know  except  the devotees
+
+(87) Such were the pastimes of Śacī’s son, and no one but the devotees knew of them.
+
+এই মত বারমাস কীর্ত্তন অবসানে ৷  
+আম্রমহোৎসব প্রভু করে দিনে দিনে ॥ ৮৮ ॥
+
+ei mata bāra-māsa kīrtana avasāne  
+in this way  for twelve months  of the kīrtana  at the end  
+āmra-mahotsava prabhu kare dine dine  
+a mango festival  the Lord  holds  day after day
+
+(88) Thus for twelve months, when the kīrtana ended, the Lord held a mango festival day after day.
+
+কীর্ত্তন করিতে প্রভু আইলা মেঘগণ ৷  
+আপন-ইচ্ছায় কৈল মেঘ নিবারণ ॥ ৮৯ ॥
+
+kīrtana karite prabhu āilā megha-gaṇa  
+kīrtana  as He was doing  the Lord  came  clouds  
+āpana-icchāya kaila megha nivāraṇa  
+by His own  will  made  the clouds  withdraw
+
+(89) Once, while the Lord was holding kīrtana, clouds gathered, and by His own will He sent them away.[^31]
+
+একদিন প্রভু শ্রীবাসে আজ্ঞা দিল ৷  
+‘বৃহৎ সহস্র নাম’ পড়, শুনিতে মন হৈল ॥ ৯০ ॥
+
+ekadina prabhu śrīvāse ājñā dila  
+one day  the Lord  to Śrīvāsa  order  gave  
+‘bṛhat sahasra nāma’ paḍa, śunite mana haila  
+‘the great  thousand  names’  read  to hear  the mind  became
+
+(90) One day the Lord told Śrīvāsa, “Read the great Thousand Names; I wish to hear them.”
+
+পড়িতে আইলা স্তবে নৃসিংহের নাম ৷  
+শুনিয়া আবিষ্ট হৈলা প্রভু গুণধাম ॥ ৯১ ॥
+
+paḍite āilā stave nṛsiṁhera nāma  
+reading  came  in the hymn  of Nṛsiṁha  the name  
+śuniyā āviṣṭa hailā prabhu guṇadhāma  
+hearing  absorbed  became  the Lord  abode of virtues
+
+(91) As he read, the name of Nṛsiṁha came in the hymn, and hearing it, the Lord, the abode of all virtues, became absorbed in His mood.
+
+নৃসিংহ-আবেশে প্রভু হাতে গদা লঞা ৷  
+পাষণ্ডী মারিতে যায় নগরে ধাইয়া ॥ ৯২ ॥
+
+nṛsiṁha-āveśe prabhu hāte gadā lañā  
+in Nṛsiṁha’s mood  the Lord  in His hand  a club  taking  
+pāṣaṇḍī mārite yāya nagare dhāiyā  
+the unbelievers  to kill  goes  into the town  running
+
+(92) In the mood of Nṛsiṁha, the Lord took a club in His hand and ran into the town to kill the unbelievers.
+
+নৃসিংহ-আবেশ দেখি’ মহাতেজোময় ৷  
+পথ ছাড়ি’ ভাগে লোক পাঞা বড় ভয় ॥ ৯৩ ॥
+
+nṛsiṁha-āveśa dekhi’ mahā-tejomaya  
+Nṛsiṁha’s mood  seeing  blazing with power  
+patha chāḍi’ bhāge loka pāñā baḍa bhaya  
+the road  leaving  flee  the people  feeling  great  fear
+
+(93) Seeing Him in the mood of Nṛsiṁha, blazing with power, the people left the road and fled in terror.
+
+লোক-ভয় দেখি’ প্রভুর বাহ্য হইল ৷  
+শ্রীবাস-গৃহেতে গিয়া গদা ফেলাইল ॥ ৯৪ ॥
+
+loka-bhaya dekhi’ prabhura bāhya haila  
+the people’s fear  seeing  of the Lord  outer awareness  came  
+śrīvāsa-gṛhete giyā gadā phelāila  
+to Śrīvāsa’s house  going  the club  He threw down
+
+(94) Seeing their fear, the Lord came back to outer awareness; He went to Śrīvāsa’s house and threw down the club.
+
+শ্রীবাসে কহেন প্রভু করিয়া বিষাদ ৷  
+লোক ভয় পায়, — মোর হয় অপরাধ ॥ ৯৫ ॥
+
+śrīvāse kahena prabhu kariyā viṣāda  
+to Śrīvāsa  says  the Lord  becoming  dejected  
+loka bhaya pāya, — mora haya aparādha  
+people  fear  feel  Mine  is  the offence
+
+(95) Dejected, the Lord said to Śrīvāsa, “I have frightened the people. The offence is Mine.”
+
+শ্রীবাস বলেন, — যে তোমার নাম লয় ৷  
+তার কোটি অপরাধ, সব হয় ক্ষয় ॥ ৯৬ ॥
+
+śrīvāsa balena, — ye tomāra nāma laya  
+Śrīvāsa  says  whoever  Your  name  takes  
+tāra koṭi aparādha, saba haya kṣaya  
+his  ten million  offences  all  are  destroyed
+
+(96) Śrīvāsa said, “Whoever takes Your name is freed from millions of offences.
+
+অপরাধ নাহি, কৈলে লোকের নিস্তার ৷  
+যে তোমা’ দেখিল, তার ছুটিল সংসার ॥ ৯৭ ॥
+
+aparādha nāhi, kaile lokera nistāra  
+offence  there is none  You did  of the people  deliverance  
+ye tomā’ dekhila, tāra chuṭila saṁsāra  
+who  You  saw  his  ended  saṁsāra
+
+(97) There was no offence: You delivered the people. Whoever has seen You is free from the cycle of birth and death.”
+
+এত বলি’ শ্রীবাস করিল সেবন ৷  
+তুষ্ট হঞা প্রভু আইলা আপন-ভবন ॥ ৯৮ ॥
+
+eta bali’ śrīvāsa karila sevana  
+this  saying  Śrīvāsa  did  service  
+tuṣṭa hañā prabhu āilā āpana-bhavana  
+pleased  becoming  the Lord  came  to His own  house
+
+(98) With these words Śrīvāsa served Him, and the Lord, pleased, returned home.
+
+আর দিন শিবভক্ত শিবগুণ গায় ৷  
+প্রভুর অঙ্গনে নাচে, ডম্বুরু বাজায় ॥ ৯৯ ॥
+
+āra dina śiva-bhakta śiva-guṇa gāya  
+another  day  a devotee of Śiva  Śiva’s  qualities  sings  
+prabhura aṅgane nāce, ḍamburu bājāya  
+the Lord’s  in the courtyard  dances  the ḍamaru  plays
+
+(99) Another day a devotee of Śiva came singing Śiva’s glories; he danced in the Lord’s courtyard, playing the ḍamaru drum.
+
+মহেশ-আবেশ হৈলা শচীর নন্দন ৷  
+তার স্কন্ধে চড়ি’ নৃত্য কৈল বহুক্ষণ ॥ ১০০ ॥
+
+maheśa-āveśa hailā śacīra nandana  
+in the mood of Maheśa  became  Śacī’s  son  
+tāra skandhe caḍi’ nṛtya kaila bahu-kṣaṇa  
+his  on the shoulders  climbing  dance  made  for a long time
+
+(100) Śacī’s son was absorbed in the mood of Maheśa, and climbing onto the man’s shoulders He danced for a long time.
+
+আর দিন এক ভিক্ষুক আইলা মাগিতে ৷  
+প্রভুর নৃত্য দেখি’ নৃত্য লাগিলা করিতে ॥ ১০১ ॥
+
+āra dina eka bhikṣuka āilā māgite  
+another  day  one  beggar  came  to beg  
+prabhura nṛtya dekhi’ nṛtya lāgilā karite  
+the Lord’s  dance  seeing  to dance  began
+
+(101) Another day a beggar came for alms, and seeing the Lord dance, he began to dance too.
+
+প্রভু-সঙ্গে নৃত্য করে পরম উল্লাসে ৷  
+প্রভু তারে প্রেম দিল, প্রেমরসে ভাসে ॥ ১০২ ॥
+
+prabhu-saṅge nṛtya kare parama ullāse  
+with the Lord  dance  does  in supreme  joy  
+prabhu tāre prema dila, prema-rase bhāse  
+the Lord  to him  love  gave  in the rasa of love  floats
+
+(102) He danced with the Lord in great joy, and the Lord gave him love, so that he floated in its rasa.
+
+আর দিনে জ্যোতিষ এক সর্ব্বজ্ঞ আইল ৷  
+তাহারে সম্মান করি’ প্রভু প্রশ্ন কৈল ॥ ১০৩ ॥
+
+āra dine jyotiṣa eka sarva-jña āila  
+another  day  an astrologer  one  all-knowing  came  
+tāhāre sammāna kari’ prabhu praśna kaila  
+him  honour  showing  the Lord  a question  asked
+
+(103) Another day an all-knowing astrologer came, and the Lord, receiving him with honour, asked him a question:
+
+কে আছিলুঁ পূর্ব্বজন্মে আমি, কহ গণি’ ৷  
+গণিতে লাগিলা সর্ব্বজ্ঞ প্রভুবাক্য শুনি’ ॥ ১০৪ ॥
+
+ke āchilum̐ pūrvajanme āmi, kaha gaṇi’  
+who  was  in a previous birth  I  tell  calculating  
+gaṇite lāgilā sarvajña prabhuvākya śuni’  
+to calculate  began  the all-knowing one  the Lord’s words  hearing
+
+(104) “Calculate and tell Me who I was in My previous birth.” Hearing the Lord’s words, the astrologer began his calculations.
+
+গণি’ ধ্যানে দেখে সর্ব্বজ্ঞ, — মহাজ্যোতির্ম্ময় ৷  
+অনন্ত বৈকুণ্ঠ-ব্রহ্মাণ্ড — সবার আশ্রয় ॥ ১০৫ ॥
+
+gaṇi’ dhyāne dekhe sarva-jña, — mahā-jyotirmaya  
+calculating  in meditation  sees  the all-knowing one  a great effulgence  
+ananta vaikuṇṭha-brahmāṇḍa — sabāra āśraya  
+of endless  Vaikuṇṭhas and universes  of all  the shelter
+
+(105) Having calculated, he saw in meditation a great effulgence, the shelter of all, of endless Vaikuṇṭhas and universes.
+
+পরমতত্ত্ব, পরব্রহ্ম, পরম-ঈশ্বর ৷  
+দেখি’ প্রভুর মূর্ত্তি সর্ব্বজ্ঞ হইল ফাঁফর ॥ ১০৬ ॥
+
+parama-tattva, para-brahma, parama-īśvara  
+the Supreme Truth  the Supreme Brahman  the Supreme Lord  
+dekhi’ prabhura mūrti sarva-jña haila phām̐phara  
+seeing  the Lord’s  form  the all-knowing one  became  bewildered
+
+(106) Seeing the Lord’s form as the Supreme Truth, the Supreme Brahman, the Supreme Lord, the astrologer was bewildered.
+
+বলিতে না পারে কিছু, মৌন হইল ৷  
+প্রভু পুনঃ প্রশ্ন কৈল, কহিতে লাগিল ॥ ১০৭ ॥
+
+balite nā pāre kichu, mauna haila  
+to say  not  could  anything  silent  became  
+prabhu punaḥ praśna kaila, kahite lāgila  
+the Lord  again  question  made  to speak  he began
+
+(107) He could say nothing and fell silent; but when the Lord asked again, he began to speak:
+
+পূর্ব্বজন্মে ছিলা তুমি পরম-আশ্রয় ৷  
+পরিপূর্ণ ভগবান্ — সর্ব্বৈশ্বর্য্যময় ॥ ১০৮ ॥
+
+pūrva janme chilā tumi parama-āśraya  
+in a previous birth  were  You  the supreme shelter  
+paripūrṇa bhagavān — sarvaiśvaryamaya  
+the complete  Bhagavān  full of all majesty
+
+(108) “In Your previous birth You were the supreme shelter, the complete Bhagavān, full of all majesty.
+
+পূর্ব্বে যৈছে ছিলা তুমি এবেহ সেরূপ ৷  
+দুর্ব্বিজ্ঞেয় নিত্যানন্দ — তোমার স্বরূপ ॥ ১০৯ ॥
+
+pūrve yaiche chilā tumi ebeha se-rūpa  
+before  as  were  You  now too  the same  
+durvijñeya nityānanda — tomāra svarūpa  
+hard to know  eternal bliss  Your  own nature
+
+(109) As You were then, so You are now; Your own nature is eternal bliss, hard to fathom.”
+
+প্রভু হাসি’ কৈলা, — তুমি কিছু না জানিলা ৷  
+পূর্ব্বে আমি আছিলাম জাতিতে গোয়ালা ॥ ১১০ ॥
+
+prabhu hāsi’ kailā, — tumi kichu nā jānilā  
+the Lord  smiling  said  you  anything  not  have understood  
+pūrve āmi āchilāma jātite goyālā  
+before  I  was  by caste  a cowherd
+
+(110) The Lord smiled and said, “You have understood nothing. Before, I was a cowherd by caste.[^32]
+
+গোপগৃহে জন্ম ছিল, গাভীর রাখাল ৷  
+সেই পুণ্যে হৈলাঙ আমি ব্রাহ্মণ-ছাওয়াল ॥ ১১১ ॥
+
+gopa-gṛhe janma chila, gābhīra rākhāla  
+in a cowherd’s home  birth  was  of the cows  herdsman  
+sei puṇye hailāṅa āmi brāhmaṇa-chāoyāla  
+by that  merit  became  I  a brāhmaṇa’s  son
+
+(111) I was born in a cowherd’s home and tended the cows, and by that merit I have now become the son of a brāhmaṇa.”
+
+সর্ব্বজ্ঞ কহে, আমি তাহা ধ্যানে দেখিলাঙ ৷  
+তাহাতে ঐশ্বর্য্য দেখি’ ফাঁফর হইলাঙ ॥ ১১২ ॥
+
+sarva-jña kahe, āmi tāhā dhyāne dekhilāṅa  
+the all-knowing one  says  I  that  in meditation  saw  
+tāhāte aiśvarya dekhi’ phām̐phara hailāṅa  
+in that  majesty  seeing  bewildered  I became
+
+(112) The astrologer said, “I saw that in my meditation, but I saw majesty in it and was bewildered.
+
+সেইরূপে এইরূপে দেখি একাকার ৷  
+কভু ভেদ দেখি, এই মায়ায় তোমার ॥ ১১৩ ॥
+
+sei-rūpe ei-rūpe dekhi ekākāra  
+in that form  in this form  I see  one  
+kabhu bheda dekhi, ei māyāya tomāra  
+sometimes  difference  I see  this  by māyā  Your
+
+(113) That form and this one I see as one; if at times I see a difference, that is Your māyā.
+
+যে হও, সে হও তুমি, তোমাকে নমস্কার ৷  
+প্রভু তারে প্রেম দিয়া কৈল পুরস্কার ॥ ১১৪ ॥
+
+ye hao, se hao tumi, tomāke namaskāra  
+whoever  You are  so  be  You  to You  obeisance  
+prabhu tāre prema diyā kaila puraskāra  
+the Lord  to him  love  giving  made  reward
+
+(114) Whoever You may be, I bow to You.” And the Lord rewarded him with love.
+
+এক দিন প্রভু বিষ্ণুমণ্ডপে বসিয়া ৷  
+‘মধু আন’, ‘মধু আন’ বলেন ডাকিয়া ॥ ১১৫ ॥
+
+eka dina prabhu viṣṇu-maṇḍape vasiyā  
+one  day  the Lord  in the hall of Viṣṇu  sitting  
+‘madhu āna’, ‘madhu āna’ balena ḍākiyā  
+‘bring honey’  ‘bring honey’  says  calling out
+
+(115) One day, sitting in the hall of Viṣṇu, the Lord called out, “Bring honey! Bring honey!”
+
+নিত্যানন্দ-গোসাঞি প্রভুর আবেশ জানিল ৷  
+গঙ্গাজল-পাত্র আনি’ সম্মুখে ধরিল ॥ ১১৬ ॥
+
+nityānanda-gosāñi prabhura āveśa jānila  
+Nityānanda Gosāñi  of the Lord  the mood  understood  
+gaṅgā-jala-pātra āni’ sammukhe dharila  
+Ganges water  a pot of  bringing  before Him  held
+
+(116) Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before Him.
+
+জল পান করিয়া নাচে হঞা বিহ্বল ৷  
+যমুনাকর্ষণ-লীলা দেখয়ে সকল ॥ ১১৭ ॥
+
+jala pāna kariyā nāce hañā vihvala  
+the water  drinking  dances  becoming  overwhelmed  
+yamunākarṣaṇa-līlā dekhaye sakala  
+the pastime of drawing the Yamunā  see  all
+
+(117) Drinking the water, the Lord danced, overwhelmed, and everyone saw the pastime in which Balarāma drew the Yamunā to Himself.[^33]
+
+মদমত্ত-গতি বলদেব-অনুকার ৷  
+আচার্য্য শেখর তাঁরে দেখে রামাকার ॥ ১১৮ ॥
+
+mada-matta-gati baladeva-anukāra  
+intoxicated  gait  of Baladeva  imitation  
+ācārya śekhara tām̐re dekhe rāmākāra  
+Ācārya  Śekhara  Him  sees  in the form of Rāma
+
+(118) He moved with the reeling gait of Baladeva, and Ācārya Śekhara saw Him in the form of Rāma.[^34]
+
+বনমালী আচার্য্য দেখে সোনার লাঙ্গল ৷  
+সবে মিলি’ নৃত্য করে আনন্দে বিহ্বল ॥ ১১৯ ॥
+
+vanamālī ācārya dekhe sonāra lāṅgala  
+Vanamālī  Ācārya  sees  a golden  plough  
+sabe mili’ nṛtya kare ānande vihvala  
+all  together  dance  in bliss  overwhelmed
+
+(119) Vanamālī Ācārya saw a golden plough, and all danced together, overwhelmed with bliss.[^35]
+
+এইমত নৃত্য হইল চারি প্রহর ৷  
+সন্ধ্যায় গঙ্গাস্নান করি’ সবে গেলা ঘর ॥ ১২০ ॥
+
+ei-mata nṛtya haila cāri prahara  
+in this way  the dancing  went on  four  praharas  
+sandhyāya gaṅgā-snāna kari’ sabe gelā ghara  
+in the evening  bath in the Ganges  taking  all  went  home
+
+(120) So the dancing went on for four praharas; in the evening they all bathed in the Ganges and went home.
+
+নগরিয়া লোকে প্রভু যবে আজ্ঞা দিলা ৷  
+ঘরে ঘরে সংকীর্ত্তন করিতে লাগিলা ॥ ১২১ ॥
+
+nagariyā loke prabhu yabe ājñā dilā  
+of the town  to the people  the Lord  when  order  gave  
+ghare ghare saṁkīrtana karite lāgilā  
+in house after house  saṅkīrtana  to perform  they began
+
+(121) When the Lord gave His order to the townspeople, they began to hold saṅkīrtana in every house:[^36]
+
+‘হরি হরয়ে নমঃ, কৃষ্ণ যাদবায় নমঃ ৷  
+গোপাল গোবিন্দ রাম শ্রীমধুসূদন’ ॥ ১২২ ॥
+
+‘hari haraye namaḥ, kṛṣṇa yādavāya namaḥ  
+Hari  to Hari  obeisance  Kṛṣṇa  to Yādava  obeisance  
+gopāla govinda rāma śrī-madhusūdana’  
+Gopāla  Govinda  Rāma  Śrī Madhusūdana
+
+(122) “*Hari haraye namaḥ, kṛṣṇa yādavāya namaḥ, gopāla govinda rāma śrī-madhusūdana*.”
+
+মৃদঙ্গ-করতাল সংকীর্ত্তন-মহাধ্বনি ৷  
+‘হরি’ ‘হরি’-ধ্বনি বিনা অন্য নাহি শুনি ॥ ১২৩ ॥
+
+mṛdaṅga-karatāla saṁkīrtana-mahādhvani  
+mṛdaṅga and karatāla  of saṅkīrtana  the great sound  
+‘hari’ ‘hari’-dhvani vinā anya nāhi śuni  
+‘Hari’ ‘Hari’ the sound  except  other  not  is heard
+
+(123) The great sound of saṅkīrtana rose with mṛdaṅgas and karatālas, and nothing could be heard but “Hari! Hari!”
+
+শুনিয়া যে ক্রুদ্ধ হৈল সকল যবন ৷  
+কাজী পাশে আসি’ সব কৈল নিবেদন ॥ ১২৪ ॥
+
+śuniyā ye kruddha haila sakala yavana  
+hearing  this  angry  became  all  the Muslims  
+kājī pāśe āsi’ saba kaila nivedana  
+the Kazi  to  coming  all  made  complaint
+
+(124) Hearing it, the Muslims grew angry and all came to the Kazi to complain.[^37]
+
+ক্রোধে সন্ধ্যাকালে কাজী এক ঘরে আইল ৷  
+মৃদঙ্গ ভাঙ্গিয়া লোকে কহিতে লাগিল ॥ ১২৫ ॥
+
+krodhe sandhyā-kāle kājī eka ghare āila  
+in anger  in the evening  the Kazi  one  house  came to  
+mṛdaṅga bhāṅgiyā loke kahite lāgila  
+the mṛdaṅga  breaking  to the people  to speak  began
+
+(125) In the evening the Kazi came angrily to one house, broke the mṛdaṅga and said to the people:[^38]
+
+এতকাল প্রকটে কেহ না কৈল হিন্দুয়ানি ৷  
+এবে যে উদ্যম চালাও, কার বল জানি’ ॥ ১২৬ ॥
+
+eta-kāla prakaṭe keha nā kaila hinduyāni  
+all this time  openly  anyone  not  practised  Hindu ways  
+ebe ye udyama cālāo, kāra bala jāni’  
+now  this  zeal  you carry on  on whose  strength  I would know
+
+(126) “All this time no one here has dared to follow Hindu ways openly. Now you carry on with such zeal — on whose strength, I would like to know?[^39]
+
+কেহ কীর্ত্তন না করিহ সকল নগরে ৷  
+আজি আমি ক্ষমা করি’ যাইতেছোঁ ঘরে ॥ ১২৭ ॥
+
+keha kīrtana nā kariha sakala nagare  
+anyone  kīrtana  not  shall do  in all  the town  
+āji āmi kṣamā kari’ yāitechom̐ ghare  
+today  I  forgiving  am going  home
+
+(127) Let no one hold kīrtana anywhere in the town. Today I forgive you and go home.
+
+আর যদি কীর্ত্তন করিতে লাগ পাইমু ৷  
+সর্ব্বস্ব দণ্ডিয়া তার জাতি যে লইমু ॥ ১২৮ ॥
+
+āra yadi kīrtana karite lāga pāimu  
+again  if  kīrtana  doing  I find  
+sarvasva daṇḍiyā tāra jāti ye laimu  
+all property  fining  his  caste  indeed  I shall take
+
+(128) But if I find anyone holding kīrtana again, I will take everything he owns and take away his caste.”
+
+এত বলি’ কাজী গেল, — নগরিয়া লোক ৷  
+প্রভু-স্থানে নিবেদিল পাঞা বড় শোক ॥ ১২৯ ॥
+
+eta bali’ kājī gela, — nagariyā loka  
+this  saying  the Kazi  went  the townspeople  
+prabhu-sthāne nivedila pāñā baḍa śoka  
+the Lord  before  told  feeling  great  grief
+
+(129) With these words the Kazi went away, and the townspeople, in great distress, told the Lord what had happened.
+
+প্রভু আজ্ঞা দিল — যাই’ করহ কীর্ত্তন ৷  
+মুঞি সংহারিমু আজি সকল যবন ॥ ১৩০ ॥
+
+prabhu ājñā dila — yāi’ karaha kīrtana  
+the Lord  order  gave  go  do  kīrtana  
+muñi saṁhārimu āji sakala yavana  
+I  shall destroy  today  all  the Muslims
+
+(130) The Lord ordered, “Go and hold kīrtana! Today I shall destroy all the Muslims.”
+
+ঘরে গিয়া সব লোক করয়ে কীর্ত্তন ৷  
+কাজীর ভয়ে স্বচ্ছন্দ নহে, চমকিত মন ॥ ১৩১ ॥
+
+ghare giyā saba loka karaye kīrtana  
+home  going  all  the people  do  kīrtana  
+kājīra bhaye svacchanda nahe, camakita mana  
+of the Kazi  in fear  at ease  not  startled  mind
+
+(131) They all went home and held kīrtana, but in fear of the Kazi they were not at ease, and their hearts trembled.
+
+তা-সবার অন্তরে ভয় প্রভু মনে জানি’ ৷  
+কহিতে লাগিলা লোকে শীঘ্র ডাকি’ আনি’ ॥ ১৩২ ॥
+
+tā-sabāra antare bhaya prabhu mane jāni’  
+their  in hearts  fear  the Lord  in His mind  knowing  
+kahite lāgilā loke śīghra ḍāki’ āni’  
+to speak  began  to the people  quickly  calling  bringing
+
+(132) Knowing the fear in their hearts, the Lord quickly called the people together and said:
+
+নগরে নগরে আজি করিমু কীর্ত্তন ৷  
+সন্ধ্যাকালে কর সভে নগর-মণ্ডন ॥ ১৩৩ ॥
+
+nagare nagare āji karimu kīrtana  
+in town after town  today  I shall do  kīrtana  
+sandhyā-kāle kara sabhe nagara-maṇḍana  
+in the evening  make  all of you  of the town  decoration
+
+(133) “Today I shall hold kīrtana throughout the town. By evening, all of you, decorate the town.
+
+সন্ধ্যাতে দেউটি সবে জ্বাল ঘরে ঘরে ৷  
+দেখ, কোন্ কাজী আসি’ মোরে মানা করে ॥ ১৩৪ ॥
+
+sandhyāte deuṭi sabe jvāla ghare ghare  
+in the evening  lamps  all  light  in every house  
+dekha, kon kājī āsi’ more mānā kare  
+see  which  Kazi  coming  Me  forbids
+
+(134) In the evening light lamps in every house, and we shall see what Kazi comes to stop Me!”
+
+এত কহি’ সন্ধ্যাকালে চলে গৌররায় ৷  
+কীর্ত্তনের কৈল প্রভু তিন সম্প্রদায় ॥ ১৩৫ ॥
+
+eta kahi’ sandhyākāle cale gaurarāya  
+this  saying  in the evening  goes forth  Gaurarāya  
+kīrtanera kaila prabhu tina sampradāya  
+of the kīrtana  made  the Lord  three  groups
+
+(135) Having said this, Gaurarāya set out in the evening, and He formed the kīrtana into three groups.
+
+আগে সম্প্রদায়ে নৃত্য করে হরিদাস ৷  
+মধ্যে নাচে আচার্য্য-গোসাঞি পরম উল্লাস ॥ ১৩৬ ॥
+
+āge sampradāye nṛtya kare haridāsa  
+in the front  group  dance  does  Haridāsa  
+madhye nāce ācārya-gosāñi parama ullāsa  
+in the middle  dances  Ācārya Gosāñi  in supreme  joy
+
+(136) Haridāsa danced in the first group, and in the middle one Ācārya Gosāñi danced in great joy.
+
+পাছে সম্প্রদায়ে নৃত্য করে গৌরচন্দ্র ৷  
+তাঁর সঙ্গে নাচি’ বুলে প্রভু নিত্যানন্দ ॥ ১৩৭ ॥
+
+pāche sampradāye nṛtya kare gauracandra  
+in the rear  group  dance  does  Gauracandra  
+tām̐ra saṅge nāci’ bule prabhu nityānanda  
+with Him  dancing  moves about  Prabhu Nityānanda
+
+(137) In the last group danced Gauracandra, and Nityānanda Prabhu danced along with Him.
+
+বৃন্দাবন দাস ইহা ‘চৈতন্যমঙ্গলে’ ৷  
+বিস্তারি’ বর্ণিয়াছেন চৈতন্য-কৃপাবলে ॥ ১৩৮ ॥
+
+vṛndāvana dāsa ihā ‘caitanya-maṅgale’  
+Vṛndāvana dāsa  this  in the ‘Caitanya-maṅgala’  
+vistāri’ varṇiyāchena caitanya-kṛpā-bale  
+at length  has described  by the power of Caitanya’s mercy
+
+(138) By the power of Caitanya’s mercy, Vṛndāvana dāsa has described this at length in the *Caitanya-maṅgala*.[^40]
+
+এই মত কীর্ত্তন করি’ নগরে ভ্রমিলা ৷  
+ভ্রমিতে ভ্রমিতে প্রভু কাজীদ্বারে গেলা ॥ ১৩৯ ॥
+
+ei mata kīrtana kari’ nagare bhramilā  
+in this way  kīrtana  doing  through the town  He wandered  
+bhramite bhramite prabhu kājī-dvāre gelā  
+wandering  wandering  the Lord  to the Kazi’s door  went
+
+(139) So, holding kīrtana, He wandered through the town, and in His wandering He came to the Kazi’s door.
+
+তর্জ্জ-গর্জ্জ করে লোক, করে কোলাহল ৷  
+গৌরচন্দ্র-বলে লোক প্রশ্রয়-পাগল ॥ ১৪০ ॥
+
+tarja-garja kare loka, kare kolāhala  
+threats and roars  make  the people  make  uproar  
+gauracandra-bale loka praśraya-pāgala  
+by Gauracandra’s strength  the people  emboldened  mad
+
+(140) The people shouted threats and made a great uproar: under Gauracandra’s protection they had grown wild with boldness.
+
+কীর্ত্তনের ধ্বনিতে কাজী লুকাইল ঘরে ৷  
+তর্জ্জন গর্জ্জন শুনি’ না হয় বাহিরে ॥ ১৪১ ॥
+
+kīrtanera dhvanite kājī lukāila ghare  
+of the kīrtana  at the sound  the Kazi  hid  in the house  
+tarjana garjana śuni’ nā haya bāhire  
+threats  roars  hearing  not  comes  outside
+
+(141) At the sound of the kīrtana the Kazi hid in his house, and hearing the threats and roars, he would not come out.
+
+উদ্ধত লোক ভাঙ্গে কাজীর ঘর-পুষ্পবন ৷  
+বিস্তারি’ বর্ণিলা ইহা দাস-বৃন্দাবন ॥ ১৪২ ॥
+
+uddhata loka bhāṅge kājīra ghara-puṣpavana  
+unruly  people  break  the Kazi’s  house  flower garden  
+vistāri’ varṇilā ihā dāsa-vṛndāvana  
+at length  described  this  Dāsa Vṛndāvana
+
+(142) Unruly people broke into the Kazi’s house and flower garden; Vṛndāvana dāsa has described this at length.
+
+তবে মহাপ্রভু তার দ্বারেতে বসিলা ৷  
+ভব্যলোক পাঠাইয়া কাজীরে বোলাইলা ॥ ১৪৩ ॥
+
+tabe mahāprabhu tāra dvārete vasilā  
+then  Mahāprabhu  his  at the door  sat  
+bhavya-loka pāṭhāiyā kājīre bolāilā  
+gentlemen  sending  the Kazi  had called
+
+(143) Then Mahāprabhu sat down at his door and sent respectable men to call the Kazi.
+
+দূর হইতে আইলা কাজী মাথা নোঙাইয়া ৷  
+কাজীরে বসাইলা প্রভু সম্মান করিয়া ॥ ১৪৪ ॥
+
+dūra haite āilā kājī māthā noṅāiyā  
+from afar  came  the Kazi  his head  bowing  
+kājīre vasāilā prabhu sammāna kariyā  
+the Kazi  seated  the Lord  honour  showing
+
+(144) The Kazi came with his head bowed from a distance, and the Lord received him with honour and gave him a seat.
+
+প্রভু বলেন, — আমি তোমার আইলাম অভ্যাগত ৷  
+আমা দেখি’ লুকাইলা, — এ-ধর্ম্ম কেমত ॥ ১৪৫ ॥
+
+prabhu balena, — āmi tomāra āilāma abhyāgata  
+the Lord  says  I  your  have come  guest  
+āmā dekhi’ lukāilā, — e-dharma kemata  
+Me  seeing  you hid  this conduct  what kind
+
+(145) The Lord said, “I have come to you as a guest, yet when you saw Me you hid. What kind of conduct is this?”
+
+কাজী কহে, — তুমি আইস ক্রুদ্ধ হইয়া ৷  
+তোমা শান্ত করাইতে রহিনু লুকাইয়া ॥ ১৪৬ ॥
+
+kājī kahe, — tumi āisa kruddha haiyā  
+the Kazi  says  You  came  angry  being  
+tomā śānta karāite rahinu lukāiyā  
+You  calm  to make  I stayed  hidden
+
+(146) The Kazi said, “You came in anger, so I stayed hidden to let You grow calm.
+
+এবে তুমি শান্ত হৈলে, আসি’ মিলিলাঙ্ ৷  
+ভাগ্য মোর, — তুমি-হেন অতিথি পাইলাঙ ॥ ১৪৭ ॥
+
+ebe tumi śānta haile, āsi’ mililāṅ  
+now  You  calm  having become  coming  I have met You  
+bhāgya mora, — tumi-hena atithi pāilāṅ  
+fortune  mine  such as You  a guest  I have received
+
+(147) Now that You are calm, I have come to meet You. How fortunate I am to receive a guest like You!
+
+গ্রামসম্বন্ধে ‘চক্রবর্ত্তী’ হয় মোর চাচা ৷  
+দেহ-সম্বন্ধ হৈতে গ্রাম-সম্বন্ধ সাঁচা ॥ ১৪৮ ॥
+
+grāma-sambandhe ‘cakravartī’ haya mora cācā  
+by village relation  ‘Cakravartī’  is  my  uncle  
+deha-sambandha haite grāma-sambandha sām̐cā  
+bodily relation  than  village relation  truer
+
+(148) By village kinship Cakravartī is my uncle, and village kinship is truer than kinship of the body.[^41]
+
+নীলাম্বর চক্রবর্ত্তী হয় তোমার নানা ৷  
+সে সম্বন্ধে হও তুমি আমার ভাগিনা ॥ ১৪৯ ॥
+
+nīlāmbara cakravartī haya tomāra nānā  
+Nīlāmbara  Cakravartī  is  Your  maternal grandfather  
+se sambandhe hao tumi āmāra bhāginā  
+by that  relation  are  You  my  nephew
+
+(149) Nīlāmbara Cakravartī is Your maternal grandfather, so by that relation You are my nephew.
+
+ভাগিনার ক্রোধ মামা অবশ্য সহয় ৷  
+মাতুলের অপরাধ ভাগিনা না লয় ॥ ১৫০ ॥
+
+bhāgināra krodha māmā avaśya sahaya  
+a nephew’s  anger  the uncle  surely  bears  
+mātulera aparādha bhāginā nā laya  
+of the uncle  offence  the nephew  not  takes
+
+(150) An uncle will bear his nephew’s anger, and a nephew does not hold his uncle’s offences against him.”
+
+এই মত দুঁহার কথা হয় ঠারে-ঠোরে ৷  
+ভিতরের অর্থ কেহ বুঝিতে না পারে ॥ ১৫১ ॥
+
+ei mata dum̐hāra kathā haya ṭhāre-ṭhore  
+in this way  of the two  talk  goes on  in hints  
+bhitarera artha keha bujhite nā pāre  
+the inner  meaning  anyone  to understand  not  could
+
+(151) So the two spoke in hints, and no one could grasp the inner meaning.
+
+প্রভু কহে, — প্রশ্ন লাগি’ আইলাম তোমার স্থানে ৷  
+কাজী কহে, — আজ্ঞা কর, যে তোমার মনে ॥ ১৫২ ॥
+
+prabhu kahe, — praśna lāgi’ āilāma tomāra sthāne  
+the Lord  says  a question  for  I have come  to your  place  
+kājī kahe, — ājñā kara, ye tomāra mane  
+the Kazi  says  command  what  Your  in mind
+
+(152) The Lord said, “I have come to ask you a question,” and the Kazi replied, “Ask whatever is on Your mind.”
+
+প্রভু কহে, — গোদুগ্ধ খাও, গাভী তোমার মাতা ৷  
+বৃষ অন্ন উপজায়, তাতে তেঁহো পিতা ॥ ১৫৩ ॥
+
+prabhu kahe, — go-dugdha khāo, gābhī tomāra mātā  
+the Lord  says  cow’s milk  you drink  the cow  your  mother  
+vṛṣa anna upajāya, tāte tem̐ho pitā  
+the bull  grain  produces  therefore  he  father
+
+(153) The Lord said, “You drink cow’s milk, so the cow is your mother; the bull produces grain, so he is your father.
+
+পিতা-মাতা মারি’ খাও — এবা কোন্ ধর্ম্ম ৷  
+কোন্ বলে কর তুমি এমত বিকর্ম্ম ॥ ১৫৪ ॥
+
+pitā-mātā māri’ khāo — ebā kon dharma  
+father and mother  killing  you eat  this  what  religion  
+kon bale kara tumi e-mata vikarma  
+by what  strength  do  you  such  wrongdoing
+
+(154) You kill your father and mother and eat them — what religion is this? On what authority do you commit such a sin?”
+
+কাজী কহে, — তোমার যৈছে বেদ-পুরাণ ৷  
+তৈছে আমার শাস্ত্র — কেতাব ‘কোরাণ’ ॥ ১৫৫ ॥
+
+kājī kahe, — tomāra yaiche veda-purāṇa  
+the Kazi  says  Your  as  Vedas and Purāṇas  
+taiche āmāra śāstra — ketāva ‘korāṇa’  
+so  our  scripture  the book  the Koran
+
+(155) The Kazi said, “As You have the Vedas and Purāṇas, so we have our scripture, the book of the Koran.
+
+সেই শাস্ত্রে কহে, — প্রবৃত্তি-নিবৃত্তি-মার্গ-ভেদ ৷  
+নিবৃত্তি-মার্গে জীবমাত্র-বধের নিষেধ ॥ ১৫৬ ॥
+
+sei śāstre kahe, — pravṛtti-nivṛtti-mārga-bheda  
+in that  scripture  it says  of the paths of engagement and withdrawal  distinction  
+nivṛtti-mārge jīva-mātra-vadhera niṣedha  
+on the path of withdrawal  of all living beings  killing  prohibition
+
+(156) That scripture distinguishes two paths, the path of worldly engagement and the path of renunciation, and on the path of renunciation the killing of any living being is forbidden.[^42]
+
+প্রবৃত্তি-মার্গে গোবধ করিতে বিধি হয় ৷  
+শাস্ত্র-আজ্ঞায় বধ কৈলে নাহি পাপ-ভয় ॥ ১৫৭ ॥
+
+pravṛtti-mārge go-vadha karite vidhi haya  
+on the path of engagement  cow-killing  to do  injunction  there is  
+śāstra-ājñāya vadha kaile nāhi pāpa-bhaya  
+by scripture’s order  killing  if done  there is no  fear of sin
+
+(157) On the path of worldly engagement there is an injunction to kill cows, and if one kills by the order of scripture, there is no fear of sin.
+
+তোমার বেদেতে আছে গোবধের বাণী ৷  
+অতএব গোবধ করে বড় বড় মুনি ॥ ১৫৮ ॥
+
+tomāra vedete āche go-vadhera vāṇī  
+Your  in the Vedas  there are  of cow-killing  statements  
+ataeva go-vadha kare baḍa baḍa muni  
+therefore  cow-killing  did  great  great  sages
+
+(158) Your Vedas too speak of the killing of cows, and so the great sages killed cows.”
+
+প্রভু কহে, — বেদে কহে গোবধ নিষেধ ৷  
+অতএব হিন্দুমাত্র না করে গোবধ ॥ ১৫৯ ॥
+
+prabhu kahe, — vede kahe go-vadha niṣedha  
+the Lord  says  in the Vedas  is said  cow-killing  forbidden  
+ataeva hindu-mātra nā kare go-vadha  
+therefore  every Hindu  not  does  cow-killing
+
+(159) The Lord said, “The Vedas forbid the killing of cows, and therefore no Hindu kills a cow.
+
+জিয়াইতে পারে যদি, তবে মারে প্রাণী ৷  
+বেদ-পুরাণে আছে হেন আজ্ঞা-বাণী ॥ ১৬০ ॥
+
+jiyāite pāre yadi, tabe māre prāṇī  
+to revive  can  if  then  may kill  a living being  
+veda-purāṇe āche hena ājñā-vāṇī  
+in the Vedas and Purāṇas  there is  such  a command
+
+(160) The Vedas and Purāṇas command that one may kill a living being only if one can bring it back to life.
+
+অতএব ‘জরদ্গব’ মারে মুনিগণ ৷  
+বেদমন্ত্রে সিদ্ধ করে তাহার জীবন ॥ ১৬১ ॥
+
+ataeva ‘jarad-gava’ māre muni-gaṇa  
+therefore  ‘jaradgava’  killed  the sages  
+veda-mantre siddha kare tāhāra jīvana  
+by Vedic mantras  perfected  made  its  life
+
+(161) So the sages would kill a worn-out old animal (*jaradgava*) and restore its life by Vedic mantras.
+
+জরদ্গব হঞা যুবা হয় আর বার ৷  
+তাতে তার বধ নহে, হয় উপকার ॥ ১৬২ ॥
+
+jarad-gava hañā yuvā haya āra vāra  
+the old animal  becoming  young  becomes  once again  
+tāte tāra vadha nahe, haya upakāra  
+so  its  killing  is not  is  benefit
+
+(162) The old animal became young once more, so this was not killing but a kindness.
+
+কলিকালে তৈছে শক্তি নাহিক ব্রাহ্মণে ৷  
+অতএব গোবধ কেহ না করে এখনে ॥ ১৬৩ ॥
+
+kali-kāle taiche śakti nāhika brāhmaṇe  
+in the age of Kali  such  power  there is not  in brāhmaṇas  
+ataeva go-vadha keha nā kare ekhane  
+therefore  cow-killing  anyone  not  does  now
+
+(163) In the age of Kali the brāhmaṇas have no such power, and so now no one kills cows.
+
+অশ্বমেধং গবালম্ভং সন্ন্যাসং পলপৈতৃকম্ ৷  
+দেবরেণ সুতোৎপত্তিং কলৌ পঞ্চ বিবর্জ্জয়েৎ ॥ ১৬৪ ॥
+
+aśvamedhaṁ gavālambhaṁ  
+the horse sacrifice  the cow sacrifice  
+sannyāsaṁ pala-paitṛkam  
+sannyāsa  the offering of flesh to the forefathers  
+devareṇa sutotpattiṁ  
+by the husband’s brother  the begetting of a son  
+kalau pañca vivarjayet  
+in Kali  five  one should give up
+
+(164) “In the age of Kali one should give up five things: the horse sacrifice, the cow sacrifice, sannyāsa, the offering of flesh to the forefathers, and the begetting of a son by the husband’s brother.” (Brahma-vaivarta Purāṇa, Kṛṣṇa-janma-khaṇḍa, 185.180)[^43]
+
+তোমরা জীয়াইতে নার, — বধমাত্র সার ৷  
+নরক হইতে তোমার নাহিক নিস্তার ॥ ১৬৫ ॥
+
+tomarā jīyāite nāra, — vadha-mātra sāra  
+you  to revive  cannot  killing only  the essence  
+naraka haite tomāra nāhika nistāra  
+hell  from  your  there is no  deliverance
+
+(165) You cannot bring them back to life; all you do is kill. For you there is no escape from hell.
+
+গো-অঙ্গে যত লোম, তত সহস্র বৎসর ৷  
+গোবধী রৌরব-মধ্যে পচে নিরন্তর ॥ ১৬৬ ॥
+
+go-aṅge yata loma, tata sahasra vatsara  
+on the cow’s body  as many  hairs  so many  thousand  years  
+go-vadhī raurava-madhye pace nirantara  
+the cow-killer  in Raurava  rots  without end
+
+(166) For as many thousands of years as there are hairs on a cow’s body, the killer of a cow rots in the hell of Raurava.
+
+তোমা-সবার শাস্ত্রকর্ত্তা — সেহ ভ্রান্ত হৈল ৷  
+না জানি’ শাস্ত্রের মর্ম্ম ঐছে আজ্ঞা দিল ॥ ১৬৭ ॥
+
+tomā-sabāra śāstrakartā — seha bhrānta haila  
+of all of you  the maker of scripture  he too  mistaken  was  
+nā jāni’ śāstrera marma aiche ājñā dila  
+not  knowing  of scripture  the essence  such  order  gave
+
+(167) The one who gave you your scripture was himself mistaken; not knowing the essence of scripture, he gave such an order.”[^44]
+
+শুনি’ স্তব্ধ হৈল কাজী, নাহি স্ফুরে বাণী ৷  
+বিচারিয়া কহে কাজী পরাভব মানি’ ॥ ১৬৮ ॥
+
+śuni’ stabdha haila kājī, nāhi sphure vāṇī  
+hearing  dumbstruck  became  the Kazi  not  came  words  
+vicāriyā kahe kājī parābhava māni’  
+reflecting  says  the Kazi  defeat  accepting
+
+(168) Hearing this, the Kazi was dumbstruck and could find no words. After some thought he admitted defeat and said:
+
+তুমি যে কহিলে, পণ্ডিত, সেই সত্য হয় ৷  
+আধুনিক আমার শাস্ত্র, বিচার-সহ নয় ॥ ১৬৯ ॥
+
+tumi ye kahile, paṇḍita, sei satya haya  
+You  what  have said  Paṇḍita  that  true  is  
+ādhunika āmāra śāstra, vicāra-saha naya  
+recent  our  scripture  reasoning  withstanding  is not
+
+(169) “What You have said, Paṇḍita, is true. Our scriptures are recent and cannot stand up to reasoning.[^45]
+
+কল্পিত আমার শাস্ত্র, — আমি সব জানি ৷  
+জাতি-অনুরোধে তবু সেই শাস্ত্র মানি ॥ ১৭০ ॥
+
+kalpita āmāra śāstra, — āmi saba jāni  
+invented  our  scripture  I  all  know  
+jāti-anurodhe tabu sei śāstra māni  
+for my community’s sake  still  that  scripture  I accept
+
+(170) Our scripture is invented — I know it all; yet out of loyalty to my community I still accept it.”[^46]
+
+সহজে যবন শাস্ত্রে অদৃঢ় বিচার ৷  
+হাসি’ তাহে মহাপ্রভু পুছেন আর বার ॥ ১৭১ ॥
+
+sahaje yavana śāstre adṛḍha vicāra  
+naturally  in Yavana  scriptures  unsound  reasoning  
+hāsi’ tāhe mahāprabhu puchena āra vāra  
+smiling  at that  Mahāprabhu  asks  once  again
+
+(171) Reasoning in the scriptures of the yavanas is by nature unsound. Smiling at this, Mahāprabhu asked him once more:[^47]
+
+আর এক প্রশ্ন করি, শুন, তুমি মামা ৷  
+যথার্থ কহিবে, ছলে না বঞ্চিবে আমা’ ॥ ১৭২ ॥
+
+āra eka praśna kari, śuna, tumi māmā  
+another  one  question  I ask  listen  you  uncle  
+yathārtha kahibe, chale nā vañcibe āmā’  
+truly  you shall speak  by trickery  not  shall deceive  Me
+
+(172) “Let Me ask you one more question, uncle. Answer truly, and do not deceive Me with tricks.
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -861,3 +1805,39 @@ with both arms  was embraced
 [^28]: *Anubhāṣya*: Mahāprabhu told Murāri, “By your loving devotion you have brought Kṛṣṇa under your control,” and Murāri replied with the verse of the brāhmaṇa Sudāmā. His humble meaning was: “I have no power to control Kṛṣṇa; it is Kṛṣṇa who, out of love for His devotees, makes an unworthy servant fortunate.”
 
 [^29]: The edition’s heading gives *Śrīmad-Bhāgavatam* 10.81.14 (a different numbering of the chapter’s verses). *Anubhāṣya* (after the *Vaiṣṇava-toṣaṇī*): Sudāmā marvels that Kṛṣṇa embraced him only because he was born a brāhmaṇa, not out of friendship, of which he thought himself unworthy; thus the Lord’s reverence for brāhmaṇas is glorified.
+
+[^30]: *Amṛta-pravāha-bhāṣya*: one day, tired during the city kīrtana, the Lord came to the courtyard of a devotee and planted a mango seed there; at once the fruit ripened, and a mango festival began. The place is now known as Āmraghaṭṭa (Āmghāṭā). *Anubhāṣya*: this event is not in the *Caitanya-bhāgavata*.
+
+[^31]: *Amṛta-pravāha-bhāṣya*: one day Mahāprabhu was holding saṅkīrtana far from home when great storm clouds gathered. The Lord willed them to go, and they scattered at once. That sandbank of the Ganges was therefore called Megher Car, “the Sandbank of the Clouds”; since the river has changed its course, it now lies by the village of Belpukhuriyā.
+
+[^32]: The edition’s heading: “The Lord reveals that He is a cowherd.” *Anubhāṣya*: these are the Lord’s confidential words; the story of the astrologer is not in the *Caitanya-bhāgavata*.
+
+[^33]: *Amṛta-pravāha-bhāṣya*: once Baladeva, angry with the Yamunā, dragged her to Himself with His plough. When Mahāprabhu, in the mood of Baladeva, cried “Bring honey!”, everyone saw that pastime. The *Anubhāṣya* cites the account of the *Śrīmad-Bhāgavatam* (10.65.25–33): having drunk *vāruṇī*, Balarāma called the Yamunā to play in her waters, and when she did not come, He dragged her with His plough in anger, until she fell trembling at His feet.
+
+[^34]: The edition’s heading names him Candraśekhara Ācāryaratna.
+
+[^35]: *Anubhāṣya*: according to the *Caitanya-maṅgala*, Vanamālī was a brāhmaṇa from East Bengal who saw the Lord in the form of Balarāma, plough in hand. Vanamālī Paṇḍita (Ādi 10.73) also saw a golden plough and club in the Lord’s hands; whether they are the same person is unclear.
+
+[^36]: *Amṛta-pravāha-bhāṣya*: when He began to preach the name in the town, the Lord first told the people living near Śrīvāsa’s courtyard to chant the name of Hari, clapping their hands; then mṛdaṅgas and karatālas began to sound, and from that time the saṅkīrtana spread from door to door.
+
+[^37]: *Anubhāṣya*: the Kazi was the *faujdār* (district magistrate), Chand Kazi. In those days the zamindars collected the land revenue, while justice and government were in the hands of the kazis; both were under the *subādār* of Bengal. Chand Kazi is said to have been the teacher of Husain Shah, the Nawab of Bengal; by some accounts his name was Maulana Sirajuddin, by others Habibur Rahman. His descendants still live at the same place, and his tomb is there.
+
+[^38]: *Anubhāṣya*: the place, in Śrī Māyāpura, is still called Khol-bhāṅgār Ḍāṅgā, “the place where the drum was broken”.
+
+[^39]: *Amṛta-pravāha-bhāṣya*: from the coming of Bakhtiyar Khilji until Chand Kazi, Hindu ways had been greatly suppressed in Navadvīpa; those who truly believed would say “Hari, Hari” once in secret and fall silent.
+
+[^40]: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 23.
+
+[^41]: *Amṛta-pravāha-bhāṣya*: the old house of the kazis still stands in one part of the village of Brāhmaṇa-puṣkariṇī; adjoining its other part is Tāraṇavāsa, formerly Bilva-puṣkariṇī. Since this was one village, Chand Kazi and Mahāprabhu were reckoned kin. *Anubhāṣya*: “Cakravartī” is Nīlāmbara Cakravartī; *cācā* means a paternal uncle.
+
+[^42]: *Anubhāṣya*: the three paths of Islam — *sharia*, *tariqa* and *marifa*.
+
+[^43]: The verse is quoted in the *Malamāsa-tattva* (so the edition’s heading). *Anubhāṣya*: the horse sacrifice is a particular sacrifice in which a horse is slain; the cow sacrifice is the *gomedha*; sannyāsa is entering the fourth āśrama; the husband’s brother is his younger brother.
+
+[^44]: *Anubhāṣya*: “mistaken” — approving needless violence to living beings; absorbed in the “second”, in what is apart from the Lord, his understanding was clouded.
+
+[^45]: *Anubhāṣya*: “recent” — new, arisen in time, not of divine origin like the Vedas; “cannot stand up to reasoning” — they do not establish eternal truth and are easily refuted. *Amṛta-pravāha-bhāṣya*: all these books have a beginning; none is beginningless like the word of the Vedas, and so their arguments, lacking a firm root, are open to doubt.
+
+[^46]: *Anubhāṣya*: “invented” — born of the mind, and therefore not eternal truth; “community” (*jāti*) — belonging to one’s own community and loyalty to it.
+
+[^47]: *Anubhāṣya*: unsound reasoning — such as can easily be refuted by argument.
