@@ -622,6 +622,314 @@ in the compound  subordinate  it became,  the word’s meaning  went  to ruin
 
 (60) “The word *dvitīya* is the predicate, but it has fallen into a compound, and so the point — that the Gaṅgā is equal to Lakṣmī — is destroyed.
 
+‘অবিমৃষ্ট-বিধেয়াংশ’ — এই দোষ নাম ৷  
+আর এক দোষ আগে, শুন সাবধান ॥ ৬১ ॥
+
+‘avimṛṣṭa-vidheyāṁśa’ — ei doṣa nāma  
+‘avimṛṣṭa-vidheyāṁśa’ —  this  fault’s  name  
+āra eka doṣa āge, śuna sāvadhāna  
+another  one  fault  next,  listen  attentively
+
+(61) “This fault is called *avimṛṣṭa-vidheyāṁśa*. Now listen attentively to another.
+
+‘ভবানীভর্ত্তুঃ’ শব্দ দিলে পাইয়া সন্তোষ ৷  
+‘বিরুদ্ধমতি’-কৃৎ নাম এই মহা দোষ ॥ ৬২ ॥
+
+‘bhavānī-bhartuḥ’ śabda dile pāiyā santoṣa  
+‘of Bhavānī’s husband’  the word  you placed  gaining  satisfaction  
+‘viruddha-mati’-kṛt nāma ei mahā doṣa  
+‘viruddha-mati-kṛt’  the name  of this  great  fault
+
+(62) “With great satisfaction you used the words *bhavānī-bhartuḥ*, ‘of Bhavānī’s husband’. But this is a grave fault, called *viruddha-mati-kṛt*: such words suggest a contradictory sense.
+
+ভবানী-শব্দে কহে মহাদেবের গৃহিণী ৷  
+তাঁর ভর্ত্তা কহিলা দ্বিতীয় ভর্ত্তা জানি’ ॥ ৬৩ ॥
+
+bhavānī-śabde kahe mahādevera gṛhiṇī  
+by the word Bhavānī  is meant  of Mahādeva  the wife  
+tām̐ra bhartā kahilā dvitīya bhartā jāni’  
+her  husband  you named —  a second  husband  is understood
+
+(63) “The word *Bhavānī* means the wife of Mahādeva. When you name her husband, one understands that she has a second husband.
+
+‘শিবপত্নীর ভর্ত্তা — ইহা শুনিতে বিরুদ্ধ ৷  
+‘বিরুদ্ধমতিকৃৎ’-শব্দ শাস্ত্রে নহে শুদ্ধ ॥ ৬৪ ॥
+
+‘śiva-patnīra bhartā — ihā śunite viruddha  
+‘of Śiva’s wife  the husband’ —  this  to hear  contradictory  
+‘viruddha-mati-kṛt’-śabda śāstre nahe śuddha  
+a ‘viruddha-mati-kṛt’  word  in the śāstra  is not  correct
+
+(64) “‘The husband of Śiva’s wife’ sounds absurd; by the rules of the śāstra, words that suggest a contradictory sense are faulty.
+
+‘ব্রাহ্মণ-পত্নীর ভর্ত্তা-হস্তে দেহ দান’ ৷  
+শব্দ শুনিতেই হয় দ্বিতীয়ভর্ত্তা জ্ঞান ॥ ৬৫ ॥
+
+‘brāhmaṇa-patnīra bhartā-haste deha dāna’  
+‘of the brāhmaṇa’s wife  into the husband’s hand  give  the gift’  
+śabda śunitei haya dvitīya-bhartā jñāna  
+the words  on hearing  arises  of a second husband  the idea
+
+(65) “If one says, ‘Give the gift into the hand of the brāhmaṇa’s wife’s husband,’ the very words make one think of a second husband.
+
+‘বিভবতি’ ক্রিয়ায় বাক্য — সাঙ্গ, পুনঃ বিশেষণ ৷  
+‘অদ্ভুতগুণা’ — এই পুনরাত্ত দূষণ ॥ ৬৬ ॥
+
+‘vibhavati’ kriyāya vākya — sāṅga, punaḥ viśeṣaṇa  
+with the verb ‘vibhavati’  the sentence —  complete,  again  an epithet  
+‘adbhuta-guṇā’ — ei punar-ātta dūṣaṇa  
+‘adbhuta-guṇā’ —  this  the fault of resuming
+
+(66) “The sentence is complete with the verb *vibhavati*, ‘reigns’, and then you add another epithet, *adbhuta-guṇā*, ‘endowed with wondrous qualities’. This return to a finished sentence is the fault called *punar-ātta*.
+
+তিন পাদে অনুপ্রাস দেখি অনুপম ৷  
+এক পাদে নাহি, এই দোষ ‘ভগ্নক্রম’ ॥ ৬৭ ॥
+
+tina pāde anuprāsa dekhi anupama  
+in three  lines  alliteration  I see  matchless  
+eka pāde nāhi, ei doṣa ‘bhagna-krama’  
+in one  line  not,  this  fault  ‘bhagna-krama’
+
+(67) “In three lines I see matchless alliteration, but in one line there is none; this fault is called *bhagna-krama*.[^24]
+
+যদ্যপি এই শ্লোকে আছে পঞ্চ অলঙ্কার ৷  
+এই পঞ্চদোষে শ্লোক কৈল ছারখার ॥ ৬৮ ॥
+
+yadyapi ei śloke āche pañca alaṅkāra  
+although  in this  verse  there are  five  ornaments  
+ei pañca-doṣe śloka kaila chārakhāra  
+by these  five faults  the verse  is made  ruined
+
+(68) “Though the verse has five ornaments, these five faults have ruined it.
+
+দশ অলঙ্কারে যদি এক শ্লোক হয় ৷  
+এক দোষে সব অলঙ্কার হয় ক্ষয় ॥ ৬৯ ॥
+
+daśa alaṅkāre yadi eka śloka haya  
+ten  with ornaments  if  one  verse  is  
+eka doṣe saba alaṅkāra haya kṣaya  
+by one  fault  all  the ornaments  become  lost
+
+(69) “Even if a verse had ten ornaments, a single fault would bring them all to nothing.
+
+সুন্দর শরীর যৈছে ভূষণে ভূষিত ৷  
+এক শ্বেতকুষ্ঠে যৈছে করয়ে বিগীত ॥ ৭০ ॥
+
+sundara śarīra yaiche bhūṣaṇe bhūṣita  
+a beautiful  body  as  with jewels  adorned  
+eka śveta-kuṣṭhe yaiche karaye vigīta  
+one  spot of white leprosy  as  makes  disgraced
+
+(70) “It is like a beautiful body adorned with jewels: one spot of white leprosy disgraces it.
+
+রসালঙ্কারবৎ কাব্যং দোষযুক্ চেদ্বিভূষিতম্ ৷  
+স্যাদ্বপুঃ সুন্দরমপি শ্বিত্রেণৈকেন দুর্ভগম্ ॥ ৭১ ॥
+
+rasālaṅkāra-vat kāvyaṁ  
+with rasa and ornaments  poetry  
+doṣa-yuk ced vibhūṣitam  
+with a fault  if,  adorned  
+syād vapuḥ sundaram api  
+becomes  a body  beautiful  though  
+śvitreṇaikena durbhagam  
+by white leprosy  by one  unsightly
+
+(71) ‘As a body, though beautiful and adorned, is made unsightly by a single spot of white leprosy, so poetry rich in rasa and ornaments loses all its charm if it has a fault.’ (Bharata Muni)[^25]
+
+পঞ্চ অলঙ্কারের এবে শুনহ বিচার ৷  
+দুই শব্দালঙ্কার, তিন অর্থ-অলঙ্কার ॥ ৭২ ॥
+
+pañca alaṅkārera ebe śunaha vicāra  
+of the five  ornaments  now  hear  the analysis  
+dui śabdālaṅkāra, tina artha-alaṅkāra  
+two  verbal ornaments,  three  ornaments of meaning
+
+(72) “Now hear the analysis of the five ornaments: two are verbal ornaments and three are ornaments of meaning.
+
+শব্দালঙ্কার — তিনপাদে আছে অনুপ্রাস ৷  
+‘শ্রীলক্ষ্মী’ শব্দে ‘পুনরুক্তবদাভাস’ ॥ ৭৩ ॥
+
+śabdālaṅkāra — tina-pāde āche anuprāsa  
+verbal ornament —  in three lines  there is  alliteration  
+‘śrī-lakṣmī’ śabde ‘punar-uktavad-ābhāsa’  
+in the words ‘śrī-lakṣmī’  ‘the seeming repetition’
+
+(73) “The verbal ornaments are the alliteration in three lines and the seeming repetition (*punar-uktavad-ābhāsa*) in the words *śrī-lakṣmī*.
+
+প্রথম-চরণে পঞ্চ ‘ত’-কারের পাঁতি ৷  
+তৃতীয়-চরণে হয় পঞ্চ ‘রেফ’-স্থিতি ॥ ৭৪ ॥
+
+prathama-caraṇe pañca ‘ta’-kārera pām̐ti  
+in the first  line  five  ‘ta’-sounds  a row  
+tṛtīya-caraṇe haya pañca ‘repha’-sthiti  
+in the third  line  are  five  ‘ra’-sounds  placed
+
+(74) “In the first line there is a row of five *ta*s, and in the third, five *ra*s.
+
+চতুর্থ-চরণে চারি ‘ভ’-কার-প্রকাশ ৷  
+অতএব শব্দালঙ্কার অনুপ্রাস ॥ ৭৫ ॥
+
+caturtha-caraṇe cāri ‘bha’-kāra-prakāśa  
+in the fourth  line  four  ‘bha’-sounds  appear  
+ataeva śabdālaṅkāra anuprāsa  
+therefore  the verbal ornament  alliteration
+
+(75) “In the fourth line four *bha*s appear; this is the verbal ornament of alliteration.
+
+‘শ্রী’-শব্দে, ‘লক্ষ্মী’-শব্দে — এক বস্তু উক্ত ৷  
+পুনরুক্তপ্রায় ভাসে, নহে পুনরুক্ত ॥ ৭৬ ॥
+
+‘śrī’-śabde, ‘lakṣmī’-śabde — eka vastu ukta  
+by the word ‘śrī’,  by the word ‘lakṣmī’ —  one  thing  is said  
+punar-ukta-prāya bhāse, nahe punar-ukta  
+a repetition  almost  it seems,  is not  a repetition
+
+(76) “The words *śrī* and *lakṣmī* name one and the same thing; it seems almost a repetition, yet it is not one.
+
+‘শ্রীযুক্ত লক্ষ্মী’ অর্থে অর্থের বিভেদ ৷  
+পুনরুক্তবদাভাস, শব্দালঙ্কার-ভেদ ॥ ৭৭ ॥
+
+‘śrī-yukta lakṣmī’ arthe arthera vibheda  
+‘Lakṣmī  endowed with śrī’  in the sense  of the meanings  a difference  
+punar-uktavad-ābhāsa, śabdālaṅkāra-bheda  
+seeming repetition,  of verbal ornament  a kind
+
+(77) “Taken as ‘Lakṣmī endowed with beauty (*śrī*)’, the two words differ in meaning. This seeming repetition is a kind of verbal ornament.
+
+‘লক্ষ্মীরিব’ অর্থালঙ্কার — উপমা-প্রকাশ ৷  
+আর অর্থালঙ্কার আছে, নাম — ‘বিরোধাভাস’ ॥ ৭৮ ॥
+
+‘lakṣmīr iva’ arthālaṅkāra — upamā-prakāśa  
+‘lakṣmīr iva’  ornament of meaning —  of simile  the appearance  
+āra arthālaṅkāra āche, nāma — ‘virodhābhāsa’  
+another  ornament of meaning  there is,  its name —  ‘virodhābhāsa’
+
+(78) “The words *lakṣmīr iva*, ‘like Lakṣmī’, are an ornament of meaning: a simile. There is another ornament of meaning, called *virodhābhāsa*, apparent contradiction.
+
+‘গঙ্গাতে কমল জন্মে’ — সবার সুবোধ ৷  
+‘কমলে গঙ্গার জন্ম’ — অত্যন্ত বিরোধ ॥ ৭৯ ॥
+
+‘gaṅgāte kamala janme’ — sabāra subodha  
+‘in the Gaṅgā  the lotus  is born’ —  everyone’s  ready understanding  
+‘kamale gaṅgāra janma’ — atyanta virodha  
+‘in the lotus  of the Gaṅgā  the birth’ —  utter  contradiction
+
+(79) “Everyone knows that lotuses are born in the Gaṅgā; but to say that the Gaṅgā is born in a lotus is a flat contradiction.
+
+‘ইঁহা বিষ্ণুপাদপদ্মে গঙ্গার উৎপত্তি’ ৷  
+বিরোধালঙ্কার ইহার মহা-চমৎকৃতি ॥ ৮০ ॥
+
+‘im̐hā viṣṇu-pāda-padme gaṅgāra utpatti’  
+‘here  in Viṣṇu’s lotus feet  of the Gaṅgā  the origin’  
+virodhālaṅkāra ihāra mahā-camatkṛti  
+the ornament of contradiction  of this  great  wonder
+
+(80) “Yet here the Gaṅgā has her origin in the lotus feet of Viṣṇu, and this ornament of contradiction is wonderful indeed.
+
+ঈশ্বর-অচিন্ত্যশক্ত্যে গঙ্গার প্রকাশ ৷  
+ইহাতে বিরোধ নাহি, বিরোধ-আভাস ॥ ৮১ ॥
+
+īśvara-acintya-śaktye gaṅgāra prakāśa  
+by the Lord’s inconceivable potency  of the Gaṅgā  the appearance  
+ihāte virodha nāhi, virodha-ābhāsa  
+in this  contradiction  not,  of contradiction  the semblance
+
+(81) “The Gaṅgā appears by the inconceivable potency of the Lord, so there is no contradiction here — only the semblance of one.
+
+অম্বুজমম্বুনি জাতং ক্বচিদপি ন জাতমম্বুজাদম্বু ৷  
+মুরভিদি তদ্বিপরীতং পাদাম্ভোজান্মহানদী জাতা ॥ ৮২ ॥
+
+ambujam ambuni jātaṁ kvacid  
+the lotus  in water  born  anywhere  
+api na jātam ambujād ambu  
+even  not  born  from a lotus  water  
+mura-bhidi tad-viparītaṁ  
+in the slayer of Mura  the reverse  
+pādāmbhojān mahā-nadī jātā  
+from His lotus feet  the great river  was born
+
+(82) ‘The lotus is born in water; nowhere is water born from a lotus. But with the slayer of Mura it is the reverse: from His lotus feet the great river was born.’[^26]
+
+গঙ্গার মহত্ত্ব — সাধ্য, সাধন তাহার ৷  
+বিষ্ণুপাদোৎপত্তি — ‘অনুমান’ অলঙ্কার ॥ ৮৩ ॥
+
+gaṅgāra mahattva — sādhya, sādhana tāhāra  
+of the Gaṅgā  the greatness —  what is to be proved,  the proof  of it  
+viṣṇu-pādotpatti — ‘anumāna’ alaṅkāra  
+the birth from Viṣṇu’s feet —  ‘anumāna’  ornament
+
+(83) “The greatness of the Gaṅgā is what is to be proved, and the proof of it is her birth from the feet of Viṣṇu; this is the ornament called *anumāna*, inference.[^27]
+
+স্থূল এই পঞ্চ দোষ, পঞ্চ অলঙ্কার ৷  
+সূক্ষ্ম বিচারিয়ে যদি আছয়ে অপার ॥ ৮৪ ॥
+
+sthūla ei pañca doṣa, pañca alaṅkāra  
+obvious  these  five  faults,  five  ornaments  
+sūkṣma vicāriye yadi āchaye apāra  
+finely  if I examine  there are  countless
+
+(84) “These are the five obvious faults and the five ornaments; examined more finely, they would be countless.
+
+প্রতিভা, কবিত্ব তোমার দেবতা-প্রসাদে ৷  
+অবিচার কাব্যে অবশ্য পড়ে দোষ-বাধে ॥ ৮৫ ॥
+
+pratibhā, kavitva tomāra devatā-prasāde  
+genius,  poetic gift  your  by a deity’s  grace  
+avicāra kāvye avaśya paḍe doṣa-bādhe  
+in poetry without reflection  surely  fall  faults as obstacles
+
+(85) “Your genius and your poetic gift come by the grace of a deity; but into poetry composed without reflection faults are bound to creep.[^28]
+
+বিচার করিলে কবিত্ব হয় সুনির্ম্মল ৷  
+সালঙ্কার হৈলে অর্থ করে ঝলমল ॥ ৮৬ ॥
+
+vicāra karile kavitva haya sunirmala  
+reflection  if one makes,  poetry  becomes  spotless  
+sālaṅkāra haile artha kare jhalamala  
+with ornaments  if it is,  the meaning  makes  a glitter
+
+(86) “With reflection, poetry becomes flawless, and when it is adorned with ornaments, its meaning sparkles.”
+
+শুনিয়া প্রভুর বাক্য দিগ্বিজয়ী বিস্মিত ৷  
+মুখে না নিঃসরে বাক্য, প্রতিভা — স্তম্ভিত ॥ ৮৭ ॥
+
+śuniyā prabhura vākya digvijayī vismita  
+hearing  of the Lord  the words  the *digvijayī*  astonished  
+mukhe nā niḥsare vākya, pratibhā — stambhita  
+from his mouth  not  came forth  a word,  his genius —  stunned
+
+(87) Hearing the Lord’s words, the *digvijayī* was astonished. No word came from his mouth; his genius was struck dumb.
+
+কহিতে চাহয়ে কিছু, না আইসে উত্তর ৷  
+তবে বিচারয়ে মনে হইয়া ফাঁপর ॥ ৮৮ ॥
+
+kahite cāhaye kichu, nā āise uttara  
+to say  he wishes  something,  not  comes  an answer  
+tabe vicāraye mane haiyā phām̐para  
+then  he reflects  in his mind  becoming  perplexed
+
+(88) He wanted to say something, but no answer would come, and in his perplexity he thought:
+
+পড়ুয়া বালক কৈল মোর বুদ্ধি-লোপ ৷  
+জানি, সরস্বতী মোরে করিয়াছেন কোপ ॥ ৮৯ ॥
+
+paḍuyā bālaka kaila mora buddhi-lopa  
+a student  boy  made  my  intelligence  lost  
+jāni, sarasvatī more kariyāchena kopa  
+I know,  Sarasvatī  with me  has become  angry
+
+(89) “A schoolboy has robbed me of my wits! Surely Sarasvatī is angry with me.
+
+যে ব্যাখ্যা করিল, সে মনুষ্যের নহে শক্তি ৷  
+নিমাঞি-মুখে রহি’ বলে আপনে সরস্বতী ॥ ৯০ ॥
+
+ye vyākhyā karila, se manuṣyera nahe śakti  
+what  explanation  He made,  that  of a man  is not  the power  
+nimāñi-mukhe rahi’ bale āpane sarasvatī  
+in Nimāi’s mouth  dwelling  speaks  herself  Sarasvatī
+
+(90) “No human being could give such an explanation. Sarasvatī herself must be speaking through Nimāi’s mouth.”
+
 ---
 
 [^1]: A play on words: *nīca-gā* means both “flowing downward” and “going to the lowly”. *Anubhāṣya*: the Lord’s mercy is always turned towards the humble and destitute, who have neither wealth nor greatness.
@@ -669,3 +977,13 @@ in the compound  subordinate  it became,  the word’s meaning  went  to ruin
 [^22]: Heading in the edition: “Thus a maxim cited in the *Ekādaśī-tattva*.” The same verse is quoted in Ādi 2.74 (there *anuktvā tu*, here *anuktvaiva*, with the same meaning).
 
 [^23]: *Amṛta-pravāha-bhāṣya*: the purpose of these words is to show that the Gaṅgā is equal to Lakṣmī; but “second”, the predicate, was put into a compound (*samāsa*), became secondary, and that meaning perished.
+
+[^24]: *Amṛta-pravāha-bhāṣya*: the first, third and fourth lines alliterate on *ta*, *ra* and *bha*; the second has no alliteration.
+
+[^25]: Heading in the edition: “Thus say the words of Bharata Muni.” *Anubhāṣya*: rasa means *śṛṅgāra* and the others; ornaments are alliteration, simile and the like; *durbhaga* means bereft of beauty (*śrī*), dimmed.
+
+[^26]: Headings in the edition: “The inconceivable potency of Kṛṣṇa” and “A verse spoken by the Lord, Śrī Kṛṣṇa Caitanya Himself.” *Anubhāṣya*: in Kṛṣṇa cause and effect are reversed — from His lotus feet flowed the great river, the Gaṅgā.
+
+[^27]: *Amṛta-pravāha-bhāṣya*: the words about her birth from Viṣṇu’s feet prove what was to be proved — the greatness of the Gaṅgā; this is the ornament of inference (*anumāna*).
+
+[^28]: *Anubhāṣya*: if poetry is not examined, its faults are not easily seen.
