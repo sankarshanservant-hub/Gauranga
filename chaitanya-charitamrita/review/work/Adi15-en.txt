@@ -9,7 +9,7 @@ w: one of evil mind  goodness of mind  surely
 w: attains  at whose  lotus feet
 w: of flowers  by the offering  merely
 w: to that  Caitanya Prabhu  I worship
-tr: “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even an evil mind becomes a good one.” (Hari-bhakti-vilāsa, 7.1)
+tr: “I worship Caitanya Prabhu. The mere offering of flowers at His lotus feet turns even an evil mind into a good one.” (Hari-bhakti-vilāsa, 7.1)
 fn: A play on words: *sumanas* means both “flower” and “good mind”. Heading in the edition: “By the worship of Gaura even the evil-minded gain a good mind.” *Anubhāṣya*: an evil mind is one absorbed in anything other than Kṛṣṇa; a good mind is free of other desires, uncovered by knowledge and karma, and wholly given to the service of Kṛṣṇa.
 
 ## 2
@@ -46,7 +46,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the *Pañjī-ṭīkā* was a well-known commen
 ## 7
 w: of study  the pastimes  of the Lord  Vṛndāvana dāsa
 w: in the ‘Caitanya-maṅgala’  made  detailed  description
-tr: Vṛndāvana dāsa has described the Lord’s pastimes of study in detail in the *Caitanya-maṅgala*.
+tr: In the *Caitanya-maṅgala* Vṛndāvana dāsa has described in detail the Lord’s pastimes as a student.
 fn: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). *Anubhāṣya*: see *Caitanya-bhāgavata*, Ādi 4 and 6–10.
 
 ## 8
@@ -73,7 +73,7 @@ tr: Then Miśra, seeing that Viśvarūpa had come of age, resolved to find Him a
 ## 12
 w: Viśvarūpa  hearing,  home  leaving  fled
 w: sannyāsa  taking,  pilgrimage  to make  He went
-tr: When Viśvarūpa heard of this, He left home and fled. He took sannyāsa and set out on pilgrimage to the holy places.
+tr: When Viśvarūpa heard of this, He fled from home. He took sannyāsa and set out on pilgrimage to the holy places.
 
 ## 13
 w: hearing,  of Śacī and Miśra  sorrowful  became  the hearts
@@ -129,7 +129,7 @@ tr: Thus Gaurahari revels in many pastimes, and why He does so, I cannot underst
 ## 23
 w: some  days  remaining,  Miśra  went  to the next world
 w: mother and son  of both  grew  in the heart  grief
-tr: Some time later Miśra departed for the next world, and grief welled up in the hearts of mother and son.
+tr: Some time later Miśra left this world, and grief welled up in the hearts of mother and son.
 fn: Heading in the edition: “Miśra’s disappearance from the world of men.” The *Anubhāṣya* cites the *Caitanya-bhāgavata* (Ādi 8): Miśra’s eternally perfect body passed from sight; the Lord wept bitterly for him, as Śrī Rāma wept at the passing of Daśaratha; to tell of this at length is painful, and so the author tells it briefly.
 
 ## 24

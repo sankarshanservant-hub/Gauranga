@@ -16,7 +16,7 @@ of flowers  by the offering  merely
 taṁ caitanya-prabhuṁ bhaje  
 to that  Caitanya Prabhu  I worship
 
-(1) “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even an evil mind becomes a good one.” (Hari-bhakti-vilāsa, 7.1)[^1]
+(1) “I worship Caitanya Prabhu. The mere offering of flowers at His lotus feet turns even an evil mind into a good one.” (Hari-bhakti-vilāsa, 7.1)[^1]
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র, জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -80,7 +80,7 @@ of study  the pastimes  of the Lord  Vṛndāvana dāsa
 ‘caitanya-maṅgale’ kaila vistārita varṇana  
 in the ‘Caitanya-maṅgala’  made  detailed  description
 
-(7) Vṛndāvana dāsa has described the Lord’s pastimes of study in detail in the *Caitanya-maṅgala*.[^6]
+(7) In the *Caitanya-maṅgala* Vṛndāvana dāsa has described in detail the Lord’s pastimes as a student.[^6]
 
 এক দিন মাতার পদে করিয়া প্রণাম ৷  
 প্রভু কহে, — মাতা, মোরে দেহ এক দান ॥ ৮ ॥
@@ -130,7 +130,7 @@ Viśvarūpa  hearing,  home  leaving  fled
 sannyāsa kariyā tīrtha karibāre gelā  
 sannyāsa  taking,  pilgrimage  to make  He went
 
-(12) When Viśvarūpa heard of this, He left home and fled. He took sannyāsa and set out on pilgrimage to the holy places.
+(12) When Viśvarūpa heard of this, He fled from home. He took sannyāsa and set out on pilgrimage to the holy places.
 
 শুনি’ শচী-মিশ্রের দুঃখী হৈল মন ৷  
 তবে প্রভু মাতা-পিতার কৈল আশ্বাসন ॥ ১৩ ॥
@@ -240,7 +240,7 @@ some  days  remaining,  Miśra  went  to the next world
 mātā-putra dum̐hāra bāḍila hṛdi śoka  
 mother and son  of both  grew  in the heart  grief
 
-(23) Some time later Miśra departed for the next world, and grief welled up in the hearts of mother and son.[^9]
+(23) Some time later Miśra left this world, and grief welled up in the hearts of mother and son.[^9]
 
 বন্ধু-বান্ধব আসি’ দুঁহা প্রবোধিল ৷  
 পিতৃক্রিয়া বিধিমতে ঈশ্বর করিল ॥ ২৪ ॥
