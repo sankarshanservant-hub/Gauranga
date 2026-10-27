@@ -2320,6 +2320,306 @@ remnants  giving  of Nārāyaṇī  made  honour
 
 (230) Then He gave boons to all the devotees, and He honoured Nārāyaṇī by giving her His remnants.[^60]
 
+শ্রীবাসের বস্ত্র সিয়ে দরজী যবন ৷  
+প্রভু তারে করাইল নিজরূপ দর্শন ॥ ২৩১ ॥
+
+śrīvāsera vastra siye darajī yavana  
+of Śrīvāsa  clothes  sewed  a tailor  a yavana  
+prabhu tāre karāila nija-rūpa darśana  
+the Lord  to him  made  His own form  seeing
+
+(231) A Muslim tailor used to sew Śrīvāsa’s clothes, and the Lord let him see His own form.[^61]
+
+দেখিনু দেখিনু বলি’ হইল পাগল ৷  
+প্রেমে নৃত্য করে হৈল বৈষ্ণব আগল ॥ ২৩২ ॥
+
+dekhinu dekhinu bali’ haila pāgala  
+I have seen  I have seen  saying  became  mad  
+preme nṛtya kare haila vaiṣṇava āgala  
+in love  dancing  does  became  Vaiṣṇava  foremost
+
+(232) Crying, “I have seen! I have seen!”, he went mad with love and began to dance, and he became foremost among Vaiṣṇavas.
+
+আবেশেতে শ্রীবাসে প্রভু বংশী ত’ মাগিল ৷  
+শ্রীবাস কহে, বংশী তোমার গোপী হরি’ নিল ॥ ২৩৩ ॥
+
+āveśete śrīvāse prabhu vaṁśī ta’ māgila  
+in ecstasy  from Śrīvāsa  the Lord  the flute  indeed  asked  
+śrīvāsa kahe, vaṁśī tomāra gopī hari’ nila  
+Śrīvāsa  says  flute  Your  the gopīs  stealing  have taken
+
+(233) Absorbed in ecstasy, the Lord asked Śrīvāsa for His flute, and Śrīvāsa said, “The gopīs have stolen Your flute.”
+
+শুনি’ প্রভু ‘বল’ ‘বল’ বলেন আবেশে ৷  
+শ্রীবাস বর্ণেন বৃন্দাবন-লীলারসে ॥ ২৩৪ ॥
+
+śuni’ prabhu ‘bala’ ‘bala’ balena āveśe  
+hearing  the Lord  tell  tell  says  in ecstasy  
+śrīvāsa varṇena vṛndāvana-līlā-rase  
+Śrīvāsa  describes  of the pastimes of Vṛndāvana  the rasa
+
+(234) At this the Lord cried in ecstasy, “Tell Me! Tell Me!”, and Śrīvāsa began to describe the rasa of the pastimes of Vṛndāvana.
+
+প্রথমেতে বৃন্দাবন-মাধুর্য্য বর্ণিল ৷  
+শুনিয়া প্রভুর চিত্তে আনন্দ বাড়িল ॥ ২৩৫ ॥
+
+prathamete vṛndāvana-mādhurya varṇila  
+first  of Vṛndāvana  the sweetness  he described  
+śuniyā prabhura citte ānanda bāḍila  
+hearing  in the Lord’s  heart  joy  grew
+
+(235) First he described the sweetness of Vṛndāvana, and as the Lord listened, the joy in His heart grew.
+
+তবে ‘বল’ ‘বল’ প্রভু বলে বারবার ৷  
+পুনঃ পুনঃ কহে শ্রীবাস করিয়া বিস্তার ॥ ২৩৬ ॥
+
+tabe ‘bala’ ‘bala’ prabhu bale vāravāra  
+then  tell  tell  the Lord  says  again and again  
+punaḥ punaḥ kahe śrīvāsa kariyā vistāra  
+again  again  tells  Śrīvāsa  making  expansion
+
+(236) Again and again the Lord said, “Tell Me! Tell Me!”, and again and again Śrīvāsa told it, at ever greater length:
+
+বংশীবাদ্যে গোপীগণের বনে আকর্ষণ ৷  
+তাঁ-সবার সঙ্গে যৈছে বন-বিহরণ ॥ ২৩৭ ॥
+
+vaṁśī-vādye gopī-gaṇera vane ākarṣaṇa  
+by the playing of the flute  of the gopīs  to the forest  drawing  
+tām̐-sabāra saṅge yaiche vana-viharaṇa  
+with them all  how  roaming in the forest
+
+(237) how the sound of the flute drew the gopīs to the forest, and how Kṛṣṇa wandered through the forest with them all;
+
+তাহি মধ্যে ছয়-ঋতু লীলার বর্ণন ৷  
+মধুপান, রাসোৎসব, জলকেলি কথন ॥ ২৩৮ ॥
+
+tāhi madhye chaya-ṛtu līlāra varṇana  
+of that  within  of the six seasons  the pastimes  description  
+madhu-pāna, rāsotsava, jala-keli kathana  
+the drinking of madhu  the rāsa festival  the water-play  telling
+
+(238) and within that he described the pastimes of the six seasons, and told of the drinking of madhu, the festival of the rāsa dance and the play in the water.
+
+‘বল’ ‘বল’ বলে প্রভু শুনিতে উল্লাস ৷  
+শ্রীবাস কহেন তবে রাসরসের বিলাস ॥ ২৩৯ ॥
+
+‘bala’ ‘bala’ bale prabhu śunite ullāsa  
+tell  tell  says  the Lord  in hearing  delight  
+śrīvāsa kahena tabe rāsa rasera vilāsa  
+Śrīvāsa  tells  then  of the rāsa  of the rasa  the play
+
+(239) “Tell Me! Tell Me!” said the Lord, delighting in all He heard, and then Śrīvāsa told of the rāsa dance and its play of rasa.[^62]
+
+কহিতে, শুনিতে ঐছে প্রাতঃকাল হৈল ৷  
+প্রভু শ্রীবাসেরে তোষি’ আলিঙ্গন কৈল ॥ ২৪০ ॥
+
+kahite, śunite aiche prātaḥ-kāla haila  
+telling  hearing  thus  morning  came  
+prabhu śrīvāsere toṣi’ āliṅgana kaila  
+the Lord  Śrīvāsa  pleasing  embrace  made
+
+(240) So, telling and hearing, they passed the night until morning came, and the Lord embraced Śrīvāsa and filled him with joy.
+
+তবে আচার্য্যের ঘরে কৈল কৃষ্ণলীলা ৷  
+রুক্মিণ্যাদি-রূপ প্রভু আপনে হইলা ॥ ২৪১ ॥
+
+tabe ācāryera ghare kaila kṛṣṇa-līlā  
+then  in the Ācārya’s  house  made  Kṛṣṇa’s pastimes  
+rukmiṇyādi-rūpa prabhu āpane hailā  
+the forms of Rukmiṇī and others  the Lord  Himself  became
+
+(241) Then, in the house of Ācārya Candraśekhara, He enacted Kṛṣṇa’s pastimes, and the Lord Himself took the forms of Rukmiṇī and others.[^63]
+
+কভু দুর্গা, লক্ষ্মী হয়, কভু বা চিচ্ছক্তি ৷  
+খাটে বসি’ ভক্তগণে দিলা প্রেমভক্তি ॥ ২৪২ ॥
+
+kabhu durgā, lakṣmī haya, kabhu vā cic-chakti  
+sometimes  Durgā  Lakṣmī  is  sometimes  or  the spiritual potency  
+khāṭe vasi’ bhakta-gaṇe dilā prema-bhakti  
+on the couch  sitting  to the devotees  gave  prema-bhakti
+
+(242) At times He became Durgā or Lakṣmī, at times the spiritual potency (*cit-śakti*) herself; and seated on the couch, He gave the devotees loving devotion.[^64]
+
+একদিন মহাপ্রভুর নৃত্য-অবসানে ৷  
+এক ব্রাহ্মণী আসি’ ধরিল চরণে ॥ ২৪৩ ॥
+
+ekadina mahāprabhura nṛtya-avasāne  
+one day  of Mahāprabhu  at the end of the dancing  
+eka brāhmaṇī āsi’ dharila caraṇe  
+one  brāhmaṇa woman  coming  caught hold of  the feet
+
+(243) One day, when Mahāprabhu’s dancing had ended, a brāhmaṇa woman came and clasped His feet.[^65]
+
+চরণের ধূলি সেই লয় বার বার ৷  
+দেখিয়া প্রভুর দুঃখ হইল অপার ॥ ২৪৪ ॥
+
+caraṇera dhūli sei laya vāra vāra  
+of the feet  the dust  she  takes  again  and again  
+dekhiyā prabhura duḥkha haila apāra  
+seeing  the Lord’s  sorrow  was  boundless
+
+(244) Again and again she took the dust of His feet, and seeing this, the Lord was overcome with sorrow.
+
+সেইক্ষণে ধাঞা প্রভু গঙ্গাতে পড়িল ৷  
+নিত্যানন্দ হরিদাস ধরি’ উঠাইল ॥ ২৪৫ ॥
+
+sei-kṣaṇe dhāñā prabhu gaṅgāte paḍila  
+at that very moment  running  the Lord  into the Ganges  fell  
+nityānanda haridāsa dhari’ uṭhāila  
+Nityānanda  Haridāsa  catching hold  lifted out
+
+(245) At once the Lord ran and threw Himself into the Ganges; Nityānanda and Haridāsa caught hold of Him and brought Him out.
+
+বিজয় আচার্য্যের ঘরে সে রাত্রে রহিলা ৷  
+প্রাতঃকালে ভক্ত সবে ঘরে লঞা গেলা ॥ ২৪৬ ॥
+
+vijaya ācāryera ghare se rātre rahilā  
+of Vijaya Ācārya  in the house  that  night  He stayed  
+prātaḥ-kāle bhakta sabe ghare lañā gelā  
+in the morning  the devotees  all  home  taking  went
+
+(246) That night He stayed in the house of Vijaya Ācārya, and in the morning the devotees all took Him home.
+
+একদিন গোপীভাবে গৃহেতে বসিয়া ৷  
+‘গোপী’ ‘গোপী’ নাম লয় বিষণ্ণ হইয়া ॥ ২৪৭ ॥
+
+ekadina gopī-bhāve gṛhete vasiyā  
+one day  in the mood of a gopī  at home  sitting  
+‘gopī’ ‘gopī’ nāma laya viṣaṇṇa haiyā  
+gopī  gopī  the name  takes  dejected  being
+
+(247) One day, sitting at home in the mood of a gopī, the Lord was calling “Gopī! Gopī!”, sunk in sorrow.
+
+এক পড়ুয়া আইল প্রভুকে দেখিতে ৷  
+‘গোপী’ ‘গোপী’ নাম শুনি’ লাগিল বলিতে ॥ ২৪৮ ॥
+
+eka paḍuyā āila prabhuke dekhite  
+one  student  came  the Lord  to see  
+‘gopī’ ‘gopī’ nāma śuni’ lāgila balite  
+gopī  gopī  the name  hearing  began  to say
+
+(248) A student came to see the Lord and, hearing Him call “Gopī! Gopī!”, began to say:
+
+কৃষ্ণনাম না লও কেনে, কৃষ্ণনাম — ধন্য ৷  
+‘গোপী’ ‘গোপী’ বলিলে বা কিবা হয় পুণ্য ॥ ২৪৯ ॥
+
+kṛṣṇa-nāma nā lao kene, kṛṣṇa-nāma — dhanya  
+Kṛṣṇa’s name  not  You take  why  Kṛṣṇa’s name  blessed  
+‘gopī’ ‘gopī’ balile vā kibā haya puṇya  
+gopī  gopī  if one says  or  what  is  merit
+
+(249) “Why don’t You chant the name of Kṛṣṇa? Kṛṣṇa’s name is blessed. What merit is there in saying ‘Gopī! Gopī!’?”
+
+শুনি’ প্রভু ক্রোধে কৈল কৃষ্ণে দোষোদ্গার ৷  
+ঠেঙ্গা লঞা উঠিলা প্রভু পড়ুয়া মারিবার ॥ ২৫০ ॥
+
+śuni’ prabhu krodhe kaila kṛṣṇe doṣodgāra  
+hearing  the Lord  in anger  made  against Kṛṣṇa  reproaches  
+ṭheṅgā lañā uṭhilā prabhu paḍuyā māribāra  
+a stick  taking  rose  the Lord  the student  to beat
+
+(250) Hearing this, the Lord in anger heaped reproaches on Kṛṣṇa, and He took up a stick and rose to beat the student.[^66]
+
+ভয়ে পলায় পড়ুয়া, প্রভু পাছে পাছে ধায় ৷  
+আস্তে ব্যস্তে ভক্তগণ প্রভুরে রহায় ॥ ২৫১ ॥
+
+bhaye palāya paḍuyā, prabhu pāche pāche dhāya  
+in fear  flees  the student  the Lord  behind  behind  runs  
+āste vyaste bhakta-gaṇa prabhure rahāya  
+in haste and hurry  the devotees  the Lord  stop
+
+(251) The student fled in terror with the Lord running after him, until in great haste the devotees held the Lord back.
+
+প্রভুরে শান্ত করি’ আনিল নিজ-ঘরে ৷  
+পড়ুয়া পলায়া গেল পড়ুয়া-সভারে ॥ ২৫২ ॥
+
+prabhure śānta kari’ ānila nija-ghare  
+the Lord  calm  making  they brought  to His own house  
+paḍuyā palāyā gela paḍuyā-sabhāre  
+the student  fleeing  went  to the students’ gathering
+
+(252) They calmed Him and brought Him back to His house, while the student ran off to the gathering of the students.
+
+পড়ুয়া সহস্র যাহাঁ পড়ে একঠাঞি ৷  
+প্রভুর বৃত্তান্ত দ্বিজ কহে তাহাঁ যাই ॥ ২৫৩ ॥
+
+paḍuyā sahasra yāhām̐ paḍe eka-ṭhāñi  
+students  a thousand  where  study  in one place  
+prabhura vṛttānta dvija kahe tāhām̐ yāi  
+the Lord’s  account  the brāhmaṇa  tells  there  going
+
+(253) Going to the place where a thousand students studied together, that brāhmaṇa told them what had happened with the Lord.
+
+শুনি’ ক্রোধ কৈল সব পড়ুয়ার গণ ৷  
+সবে মেলি’ করে তবে প্রভুর নিন্দন ॥ ২৫৪ ॥
+
+śuni’ krodha kaila saba paḍuyāra gaṇa  
+hearing  anger  made  all  of the students  the crowd  
+sabe meli’ kare tabe prabhura nindana  
+all  together  make  then  the Lord’s  reviling
+
+(254) Hearing it, the whole crowd of students grew angry, and together they all began to revile the Lord:
+
+সব দেশ ভ্রষ্ট কৈল একলা নিমাঞি ৷  
+ব্রাহ্মণ মারিতে চাহে, ধর্ম্মভয় নাই ॥ ২৫৫ ॥
+
+saba deśa bhraṣṭa kaila ekalā nimāñi  
+all  the land  corrupted  has made  alone  Nimāi  
+brāhmaṇa mārite cāhe, dharma-bhaya nāi  
+a brāhmaṇa  to beat  He wants  fear of dharma  there is not
+
+(255) “Nimāi alone has corrupted the whole land. He wants to beat a brāhmaṇa — He has no fear of dharma!
+
+পুনঃ যদি ঐছে করে মারিব তাহারে ৷  
+কোন্ বা মানুষ হয়, কি করিতে পারে ॥ ২৫৬ ॥
+
+punaḥ yadi aiche kare māriba tāhāre  
+again  if  such  He does  we will beat  Him  
+kon vā mānuṣa haya, ki karite pāre  
+what sort of  or  man  is  what  to do  can He
+
+(256) If He does such a thing again, we shall beat Him. Who is He, after all? What can He do?”
+
+প্রভুর নিন্দায় সবার বুদ্ধি হৈল নাশ ৷  
+সুপঠিত বিদ্যা কারও না হয় প্রকাশ ॥ ২৫৭ ॥
+
+prabhura nindāya sabāra buddhi haila nāśa  
+the Lord’s  by blaspheming  of all  intelligence  became  destroyed  
+supaṭhita vidyā kārao nā haya prakāśa  
+well-studied  learning  of anyone  not  becomes  manifest
+
+(257) By blaspheming the Lord they all lost their intelligence, and the learning they had studied so well no longer shone in any of them.[^67]
+
+তথাপি দাম্ভিক পড়ুয়া নম্র নাহি হয় ৷  
+যাহাঁ তাহাঁ প্রভুর নিন্দা হাসি’ সে করয় ॥ ২৫৮ ॥
+
+tathāpi dāmbhika paḍuyā namra nāhi haya  
+even so  proud  students  humble  not  become  
+yāhām̐ tāhām̐ prabhura nindā hāsi’ se karaya  
+wherever  the Lord’s  blasphemy  laughing  they  do
+
+(258) Even so, the proud students did not become humble; wherever they went they laughed and spoke ill of the Lord.
+
+সর্ব্বজ্ঞ গোসাঞি জানি’ সবার দুর্গতি ৷  
+ঘরে বসি’ চিন্তেন তা’-সবার অব্যাহতি ॥ ২৫৯ ॥
+
+sarva-jña gosāñi jāni’ sabāra durgati  
+all-knowing  Gosāñi  knowing  of all  the plight  
+ghare vasi’ cintena tā’-sabāra avyāhati  
+at home  sitting  ponders  of them all  the deliverance
+
+(259) The all-knowing Lord knew their plight, and sitting at home He pondered how they might be delivered:
+
+যত অধ্যাপক, আর তাঁর শিষ্যগণ ৷  
+ধর্ম্মী, কর্ম্মী, তপোনিষ্ঠ, নিন্দক, দুর্জ্জন ॥ ২৬০ ॥
+
+yata adhyāpaka, āra tām̐ra śiṣya-gaṇa  
+all  the teachers  and  their  disciples  
+dharmī, karmī, tapo-niṣṭha, nindaka, durjana  
+the dutiful  the workers for gain  the ascetics  the blasphemers  the wicked
+
+(260) “All these teachers and their disciples are men of ritual duty, of fruitive work and of austerity — blasphemers and wicked men.
+
 ---
 
 [^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
@@ -2441,3 +2741,17 @@ remnants  giving  of Nārāyaṇī  made  honour
 [^59]: *Amṛta-pravāha-bhāṣya*: one night, while Mahāprabhu was holding kīrtana in Śrīvāsa’s courtyard, Śrīvāsa’s son died. So as not to break the joy of the kīrtana, Śrīvāsa forbade his household to mourn, and Mahāprabhu danced until late in the night. When He learnt of the death, the Lord was grieved that He had not been told at once, and He asked the dead child why he was leaving Śrīvāsa. The boy answered: “I have lived in Śrīvāsa’s house for as many days as were ordained; now, by Your will, I go elsewhere. I am Your eternally dependent soul and can do nothing beyond Your will.” Hearing this, Śrīvāsa’s family received divine knowledge, and their grief was gone. The Lord said to Śrīvāsa: “The son you had has left you, but Nityānanda and I are your eternal sons; We shall never leave you.” *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 25.
 
 [^60]: *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 10. According to the edition’s heading, Nārāyaṇī was the daughter of Śrīvāsa’s brother.
+
+[^61]: *Amṛta-pravāha-bhāṣya*: the Muslim tailor lived nearby and sewed Śrīvāsa’s clothes. One day he watched Mahāprabhu’s dancing with faith and was enchanted, and the Lord revealed to him the spiritual nature of His form. *Āgala* (232) means “first, foremost”.
+
+[^62]: *Anubhāṣya* on 235–239: it is especially worth noting that Śrīvāsa described Kṛṣṇa’s *madhura* (*śṛṅgāra*) rasa with the gopīs of Vraja.
+
+[^63]: *Amṛta-pravāha-bhāṣya*: one night, in the house of Candraśekhara Ācāryaratna, the Lord took the forms of Rukmiṇī and others and enacted a play of Kṛṣṇa’s pastimes; Advaita, Haridāsa and many others also appeared in various costumes. *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 18.
+
+[^64]: *Anubhāṣya*: the Lord appeared in the guise of Ādyā-śakti (see *Caitanya-bhāgavata*, Madhya 18).
+
+[^65]: *Anubhāṣya* on 243–246: this incident is not found in the *Caitanya-bhāgavata*.
+
+[^66]: *Amṛta-pravāha-bhāṣya*: *doṣodgāra* — reproach mixed with mockery. *Anubhāṣya* on 247–263: the Lord’s anger at Kṛṣṇa and His reproaches in the mood of a gopī are not of this world. Failing to understand this, a student, a smārta sunk in ritual, argued with Him, and the Lord, filled with the gopīs’ mood, took him for a partisan of Kṛṣṇa and chased him in anger. The student fled; and brāhmaṇas by birth, sunk in ritual and turned away from Hari, conspired in their delusion to beat the Lord. To free them from this calamity the Lord resolved to accept the fourth āśrama, which is honoured even by those proud of their birth and caste. See *Caitanya-bhāgavata*, Madhya 25.
+
+[^67]: *Anubhāṣya*: the true meaning of the śruti is revealed only to one who has supreme devotion to God and the same devotion to the guru (Śvetāśvatara Upaniṣad, 6.23). Prahlāda says that the best learning is when a person first offers himself to Viṣṇu and then serves Him (Bhāg. 7.5.24, with Śrīdhara Svāmī’s comment). But one who, proud of worldly learning, disregards Viṣṇu finds that knowledge does not dawn in him: a master of the Vedas who is not devoted to the Supreme labours in vain (Bhāg. 11.11.18).
