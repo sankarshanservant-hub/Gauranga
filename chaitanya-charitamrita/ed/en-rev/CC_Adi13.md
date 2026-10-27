@@ -156,7 +156,7 @@ the Ādi-līlā  within  the Lord’s  all  deeds
 sūtra-rūpe murāri gupta karilā grathita  
 in the form of sūtras  Murāri Gupta  made  strung together
 
-(15) Murāri Gupta strung together, in the form of sūtras, all the Lord’s deeds in the Ādi-līlā.
+(15) Murāri Gupta recorded in sūtras all the Lord’s deeds in the Ādi-līlā.
 
 প্রভুর যে-শেষ-লীলা স্বরূপ-দামোদর ৷  
 সূত্র করি’ গ্রন্থিলেন গ্রন্থের ভিতর ॥ ১৬ ॥
@@ -166,7 +166,7 @@ the Lord’s  which  later pastimes  Svarūpa-dāmodara
 sūtra kari’ granthilena granthera bhitara  
 sūtras  making  strung  the book  within
 
-(16) Svarūpa Dāmodara set down the Lord’s later pastimes in brief notes, and gathered them in his book.[^2]
+(16) Svarūpa Dāmodara set down the Lord’s later pastimes in brief notes and gathered them in his book.[^2]
 
 এই দুই জনের সূত্র দেখিয়া শুনিয়া ৷  
 বর্ণনা করেন বৈষ্ণব ক্রম যে করিয়া ॥ ১৭ ॥
@@ -360,7 +360,7 @@ of them  within  in Nīlācala  six  years
 nṛtya, gīta, premabhakti-dāna nirantara  
 dancing,  singing,  the gift of loving devotion  unceasing
 
-(35) Of those years in Nīlācala, six He spent in ceaseless dancing and singing, giving away loving devotion.[^7]
+(35) Of those years in Nīlācala, He spent six in ceaseless dancing and singing, giving away loving devotion.[^7]
 
 সেতুবন্ধ, আর গৌড়-ব্যাপি বৃন্দাবন ৷  
 প্রেম-নাম প্রচারিয়া করিলা ভ্রমণ ॥ ৩৬ ॥
@@ -380,7 +380,7 @@ this  ‘madhya-līlā’  by name  —  of the pastimes  the chief abode
 śeṣa aṣṭādaśa varṣa — ‘antya-līlā’ nāma  
 the last  eighteen  years  —  ‘antya-līlā’  by name
 
-(37) These years are called the Madhya-līlā, the very heart of His pastimes; the last eighteen years are called the Antya-līlā.
+(37) These six years are called the Madhya-līlā, the very heart of His pastimes; the last eighteen years are called the Antya-līlā.
 
 তার মধ্যে ছয় বৎসর ভক্তগণ-সঙ্গে ৷  
 প্রেমভক্তি লওয়াইল নৃত্যগীত-রঙ্গে ॥ ৩৮ ॥
@@ -624,7 +624,7 @@ countless  devotees’  caused  descent
 śeṣe avatīrṇa hailā vrajendra-kumāra  
 at last  descended  became  the son of the king of Vraja
 
-(62) He caused countless devotees to descend, and last of all the son of the king of Vraja descended Himself.
+(62) He sent countless devotees down before Him, and last of all the son of the king of Vraja descended Himself.
 
 প্রভুর আবির্ভাবপূর্ব্বে যত বৈষ্ণবগণ ৷  
 অদ্বৈত-আচার্য্যের স্থানে করেন গমন ॥ ৬৩ ॥
@@ -958,7 +958,7 @@ glad  became  all  of the world  the mind
 ‘hari’ bali’ hinduke hāsya karaye yavana  
 ‘Hari’  saying  at the Hindus  mockery  makes  the Muslim
 
-(95) The whole world was glad at heart; even the Muslims, mocking the Hindus, cried out, “Hari!”[^21]
+(95) Every heart in the world was glad; even the Muslims, mocking the Hindus, cried out, “Hari!”[^21]
 
 ‘হরি’ বলি’ নারীগণ দেই হুলাহুলি ৷  
 স্বর্গে বাদ্য-নৃত্য করে দেব কুতূহলী ॥ ৯৬ ॥
@@ -1042,7 +1042,7 @@ Your  such  delight,  my  mind  is pleased
 dekhi — kichu kārye āche bhāsa  
 I see  —  some  in the deed  there is  a hint
 
-(101) Seeing the whole world full of bliss, Haridāsa was astonished and said, hinting, “This joyful play of Yours delights my heart. I see that something lies behind it.”
+(101) Seeing the whole world full of bliss, Haridāsa was astonished and spoke in hints: “This joyful play of Yours delights my heart. I see that something lies behind it.”
 
 আচার্যরত্ন, শ্রীবাস,  হৈল মনে সুখোল্লাস,  
 যাই’ স্নান কৈল গঙ্গা-জলে ৷  
@@ -1170,7 +1170,7 @@ all  dancers,  singers,  bards,  destitute  people
 dhana diyā kaila sabāra māna  
 wealth  giving  made  of all  the honour
 
-(109) All the gifts he had received and whatever else was in the house, he gave away to the brāhmaṇas; and all the dancers, singers, bards and the poor he honoured with gifts of wealth.
+(109) He gave away to the brāhmaṇas all the gifts he had received and whatever else was in the house, and he honoured all the dancers, singers, bards and the poor with gifts of wealth.
 
 শ্রীবাসের ব্রাহ্মণী,  নাম তাঁর ‘মালিনী’,  
 আচার্য্যরত্নের পত্নী-সঙ্গে ৷  
@@ -1234,7 +1234,7 @@ many-coloured  silk saris,  woven  little shirt  with silk border
 svarṇa-raupya-mudrā bahu-dhana  
 gold  silver  coins  much wealth
 
-(113) She brought a tiger’s claw set in gold, a silken waist-cord, every kind of ornament for hands and feet, many-coloured silk saris, a little shirt woven with a silk border, and a wealth of gold and silver coins.[^27]
+(113) There was also a tiger’s claw set in gold, a silken waist-cord, every kind of ornament for hands and feet, many-coloured silk saris, a little shirt woven with a silk border, and a wealth of gold and silver coins.[^27]
 
 দুর্ব্বা, ধান্য, গোরোচন,  হরিদ্রা, কুঙ্কুম, চন্দন,  
 মঙ্গল-দ্রব্য পাত্র ভরিয়া ৷  
@@ -1250,7 +1250,7 @@ with cloth  covered  palanquin  riding,  with her  taking  maidservants
 vastrālaṅkāra peṭāri bhariyā  
 clothes and ornaments  baskets  filling
 
-(114) Riding in a curtained palanquin with her maidservants, she brought baskets full of clothes and ornaments, and plates heaped with auspicious things — dūrvā grass, paddy, gorocanā, turmeric, saffron and sandal.[^28]
+(114) Riding in a curtained palanquin with her maidservants, she came with baskets full of clothes and ornaments, and plates heaped with auspicious things — dūrvā grass, paddy, gorocanā, turmeric, saffron and sandal.[^28]
 
 ভক্ষ্য, ভোজ্য উপহার,  সঙ্গে লইল বহু ভার,  
 শচীগৃহে হৈল উপনীত ৷  
