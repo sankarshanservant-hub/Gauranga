@@ -16,7 +16,7 @@ of flowers  by the offering  merely
 taṁ caitanya-prabhuṁ bhaje  
 to that  Caitanya Prabhu  I worship
 
-(1) “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even one whose mind is evil gains a good mind.” (Hari-bhakti-vilāsa, 7.1)[^1]
+(1) “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even an evil mind becomes a good one.” (Hari-bhakti-vilāsa, 7.1)[^1]
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র, জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -100,7 +100,7 @@ the mother  says  —  that  I will give  whatever  You  will ask
 prabhu kahe, — ekādaśīte anna nā khāibe  
 the Lord  says  —  on Ekādaśī  grain  not  you will eat
 
-(9) His mother said, “I will give You whatever You ask.” And the Lord said, “Do not eat grain on Ekādaśī.”[^7]
+(9) “I will give You whatever You ask,” said His mother, and the Lord replied, “Do not eat grain on Ekādaśī.”[^7]
 
 শচী কহে, — না খাইব, ভালই কহিলা ৷  
 সেই হৈতে একাদশী করিতে লাগিলা ॥ ১০ ॥
@@ -220,7 +220,7 @@ then  Viśvarūpa  here  sent  Me
 mātāke kahilā koṭi koṭi namaskāre  
 to Mother  He sent word  millions  upon millions  of obeisances
 
-(21) “Then Viśvarūpa sent Me back here and bade Me convey His obeisances to Mother, millions upon millions of them.”
+(21) “Then Viśvarūpa sent Me back here and asked Me to convey His obeisances to Mother, millions upon millions of them.”
 
 এইমত নানা লীলা করে গৌরহরি ৷  
 কি কারণে লীলা, — ইহা বুঝিতে না পারি ॥ ২২ ॥
@@ -304,7 +304,7 @@ perfect from of old  the feelings  of both  arising  made
 daive vanamālī ghaṭaka śacī-sthāne āilā  
 by providence  Vanamālī  the matchmaker  to Śacī’s house  came
 
-(29) The love that had been theirs from of old awoke in them both, and, as Providence would have it, Vanamālī the matchmaker came to Śacī’s house.[^11]
+(29) The love that had been theirs from of old awoke in them both, and, as providence would have it, Vanamālī the matchmaker came to Śacī’s house.[^11]
 
 শচীর ইঙ্গিতে সম্বন্ধ করিল ঘটন ৷  
 লক্ষ্মীকে বিবাহ কৈল শচীর নন্দন ॥ ৩০ ॥
@@ -314,7 +314,7 @@ at Śacī’s  sign  the match  made  arrangement
 lakṣmīke vivāha kaila śacīra nandana  
 Lakṣmī  married  did  Śacī’s  son
 
-(30) At Śacī’s bidding he arranged the match, and the son of Śacī married Lakṣmī.
+(30) At a sign from Śacī he arranged the match, and her son married Lakṣmī.
 
 বিস্তারিয়া বর্ণিলা তাহা বৃন্দাবন-দাস ৷  
 এই ত’ পৌগণ্ড-লীলার সূত্র প্রকাশ ॥ ৩১ ॥

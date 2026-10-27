@@ -9,7 +9,7 @@ w: one of evil mind  goodness of mind  surely
 w: attains  at whose  lotus feet
 w: of flowers  by the offering  merely
 w: to that  Caitanya Prabhu  I worship
-tr: “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even one whose mind is evil gains a good mind.” (Hari-bhakti-vilāsa, 7.1)
+tr: “I worship Caitanya Prabhu. Merely by offering flowers at His lotus feet, even an evil mind becomes a good one.” (Hari-bhakti-vilāsa, 7.1)
 fn: A play on words: *sumanas* means both “flower” and “good mind”. Heading in the edition: “By the worship of Gaura even the evil-minded gain a good mind.” *Anubhāṣya*: an evil mind is one absorbed in anything other than Kṛṣṇa; a good mind is free of other desires, uncovered by knowledge and karma, and wholly given to the service of Kṛṣṇa.
 
 ## 2
@@ -57,7 +57,7 @@ tr: One day the Lord bowed at His mother’s feet and said, “Mother, grant Me 
 ## 9
 w: the mother  says  —  that  I will give  whatever  You  will ask
 w: the Lord  says  —  on Ekādaśī  grain  not  you will eat
-tr: His mother said, “I will give You whatever You ask.” And the Lord said, “Do not eat grain on Ekādaśī.”
+tr: “I will give You whatever You ask,” said His mother, and the Lord replied, “Do not eat grain on Ekādaśī.”
 fn: *Anubhāṣya*: in the *Bhakti-sandarbha* (299) Śrī Jīva Gosvāmī cites the *Skanda Purāṇa* and the *Agni Purāṇa*: to eat on Ekādaśī is a grave sin, and the fast on that day is the great vow of the Vaiṣṇavas, binding even on those who are not Vaiṣṇavas. Vaiṣṇavas never eat anything but *mahā-prasāda*, and so for them the Ekādaśī fast means giving up grains, even as *mahā-prasāda*.
 
 ## 10
@@ -119,7 +119,7 @@ tr: “ ‘As a householder I shall serve My father and mother, and this will pl
 ## 21
 w: then  Viśvarūpa  here  sent  Me
 w: to Mother  He sent word  millions  upon millions  of obeisances
-tr: “Then Viśvarūpa sent Me back here and bade Me convey His obeisances to Mother, millions upon millions of them.”
+tr: “Then Viśvarūpa sent Me back here and asked Me to convey His obeisances to Mother, millions upon millions of them.”
 
 ## 22
 w: in this way  various  pastimes  does  Gaurahari
@@ -163,13 +163,13 @@ tr: One day, by providence, as the Lord was coming home from His studies, He saw
 ## 29
 w: perfect from of old  the feelings  of both  arising  made
 w: by providence  Vanamālī  the matchmaker  to Śacī’s house  came
-tr: The love that had been theirs from of old awoke in them both, and, as Providence would have it, Vanamālī the matchmaker came to Śacī’s house.
+tr: The love that had been theirs from of old awoke in them both, and, as providence would have it, Vanamālī the matchmaker came to Śacī’s house.
 fn: *Anubhāṣya*: Vanamālī the matchmaker was a brāhmaṇa of Navadvīpa who arranged the Lord’s marriage. *Gaura-gaṇoddeśa-dīpikā* (49): Viśvāmitra, the matchmaker at Śrī Rāma’s wedding, and the brāhmaṇa whom Rukmiṇī sent to Śrī Kṛṣṇa are both now Vanamālī, who for this service came to be called Ācārya.
 
 ## 30
 w: at Śacī’s  sign  the match  made  arrangement
 w: Lakṣmī  married  did  Śacī’s  son
-tr: At Śacī’s bidding he arranged the match, and the son of Śacī married Lakṣmī.
+tr: At a sign from Śacī he arranged the match, and her son married Lakṣmī.
 
 ## 31
 w: in detail  described  that  Vṛndāvana dāsa
