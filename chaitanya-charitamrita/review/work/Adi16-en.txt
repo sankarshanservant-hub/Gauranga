@@ -1,0 +1,170 @@
+# English translation, Ādi-līlā 16 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+
+## 0
+tr: A Brief Description of the Youthful Pastimes
+
+## 1
+w: of mercy  nectar  the river  whose
+w: the universe  flooding  although
+w: flowing downward  always  shines
+w: that  Caitanya Prabhu  I worship
+tr: I worship Caitanya Prabhu. The river of His nectarean mercy floods the whole universe, and yet, like every river, it always flows downward — to the lowly.
+fn: A play on words: *nīca-gā* means both “flowing downward” and “going to the lowly”. *Anubhāṣya*: the Lord’s mercy is always turned towards the humble and destitute, who have neither wealth nor greatness.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: may He be victorious  in His youth  Caitanya
+w: embodied  on entering household life
+w: by Lakṣmī  worshipped  then  by the goddess of speech
+w: of the directions  of the conqueror  of the conquest  under the pretext
+tr: Glory to Caitanya in His youth! When He entered household life, Lakṣmī herself served Him in visible form; and then the goddess of speech, Sarasvatī, worshipped Him too, making His victory over the conqueror of all directions the occasion of her worship.
+fn: *Anubhāṣya*: Lakṣmī, having taken a body, served the Lord when He entered household life; Sarasvatī, the goddess of speech, honoured Him when He defeated the *digvijayī* — the scholar Keśava Kāśmīrī, “conqueror of the directions”. Heading in the edition: “Gaurahari, worshipped by Lakṣmī and Sarasvatī.”
+
+## 4
+w: thus  of youth  of the pastimes  of the outline  the sequence
+w: the students  to teach  He made  beginning
+tr: Here, in outline, are the pastimes of His youth. He began to teach students of His own.
+fn: *Anubhāṣya*: *kaiśora*, youth, is the period from the eleventh year of life to the fifteenth.
+
+## 5
+w: hundreds  hundreds  students  with  always  teaching
+w: the explanations  hearing  of all  people  astonished  minds
+tr: He taught constantly, with hundreds of students around Him, and all who heard His explanations were amazed.
+
+## 6
+w: in all the śāstras  all  paṇḍitas  meet  defeat
+w: by His courteous manner  anyone’s  pain  not  arises
+tr: In every branch of learning every paṇḍita met defeat at His hands, yet His manner was so courteous that no one was hurt.
+
+## 7
+w: various  pranks  He plays  the students  with
+w: in the Jāhnavī  water sports  He has  with many  delights
+tr: With His students He played all kinds of pranks, and they sported merrily in the waters of the Gaṅgā.
+
+## 8
+w: after some  days  made  the Lord  to Baṅga  journey
+w: wherever  He went,  there  He made them take up  of the holy name  the chanting
+tr: After some time the Lord went to East Bengal, and wherever He went He had the people take up the chanting of the holy name.
+fn: *Amṛta-pravāha-bhāṣya* (introduction to the chapter): the Lord went to East Bengal to gather funds; there He held learned discussions and spread the chanting of the holy name.
+
+## 9
+w: of learning  the power  seeing  wonder  in heart
+w: hundreds  hundreds  students  coming  began  to study
+tr: Seeing the power of His learning, hundreds of students came in wonder to study with Him.
+
+## 10
+w: in that  land  a brāhmaṇa,  named —  Miśra  Tapana
+w: to settle  could not  the goal and the means
+tr: In that land lived a brāhmaṇa named Tapana Miśra, who could not settle what the goal of life is and how it is reached.
+fn: *Amṛta-pravāha-bhāṣya*: *sādhya* is what is attained; *sādhana* is the means by which it is attained.
+
+## 11
+w: in many scriptures  in many statements  in mind  confusion  arises
+w: the goal and the means  best  not  is  certain
+tr: Many scriptures and many opinions had confused his mind, and he could not decide which goal is highest and which means is best.
+fn: *Anubhāṣya*: one who seeks the highest good should not study many books or live by expounding scripture (*Śrīmad-Bhāgavatam* 7.13.8); the flowery words of scriptures that nourish karma and knowledge lead the inexperienced away from pure devotion (11.21.30, 36). Through Tapana Miśra’s doubts the Lord teaches those who follow many scriptures and many teachers. Later, in Vārāṇasī, Tapana Miśra heard the Lord’s answers to Śrī Sanātana’s questions on the goal and the means, and his doubts were resolved.
+
+## 12
+w: in a dream  a  brāhmaṇa  says —  listen,  Tapana
+w: of Nimāi Paṇḍita  to the place  make  going
+tr: In a dream a brāhmaṇa said to him, “Listen, Tapana. Go to Nimāi Paṇḍita.
+
+## 13
+w: He  your  goal and means  will make  certain
+w: directly  the Lord  He is —  there is no  doubt
+tr: He will settle for you the goal and the means. He is the Lord Himself — have no doubt of it.”
+
+## 14
+w: the dream  seeing  Miśra  coming  of the Lord  at the feet
+w: of the dream  the account  all  made  submission
+tr: After this dream Miśra came to the Lord’s feet and told Him all that he had dreamt.
+
+## 15
+w: the Lord  pleased  becoming  the goal and the means  told
+w: of the holy name  the chanting  do —  instruction  gave
+tr: Pleased with him, the Lord explained the goal and the means, and instructed him: “Chant the holy name.”
+fn: *Amṛta-pravāha-bhāṣya*: the Lord said that neither knowledge of the non-dual Brahman nor the pleasures of heaven is the goal of the soul; its only goal is love for Kṛṣṇa. Karma and knowledge are not the means to it; the only means is pure devotion that takes shelter of the name of Kṛṣṇa.
+
+## 16
+w: his  wish —  with the Lord  in Navadvīpa  to live
+w: the Lord  order  gave —  you  go  to Vārāṇasī
+tr: He wished to live with the Lord in Navadvīpa, but the Lord told him, “Go to Vārāṇasī.
+
+## 17
+w: there  with Me  your  will be  meeting
+w: the order  receiving  Miśra  made  to Kāśī  going
+tr: There we shall meet again.” Receiving this order, Miśra went to Kāśī.
+
+## 18
+w: of the Lord  endless  pastimes  to understand  not  I can
+w: from His own company  sending away  why  He sends  to Kāśī
+tr: The Lord’s pastimes are endless and beyond my understanding. Why did He send Miśra away from His company to Kāśī?
+
+## 19
+w: in this  way  of Baṅga  to the people  did  to all  good
+w: the name  giving  devotees  He made,  teaching  paṇḍitas
+tr: In this way the Lord did good to all the people of East Bengal: giving them the holy name He made them devotees, and teaching them He made them paṇḍitas.
+fn: *Amṛta-pravāha-bhāṣya*: the Lord gave the people of Bengal the name of Kṛṣṇa — “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare” — and so made them devotees, and by teaching them the śāstras He made many of them scholars.
+
+## 20
+w: in this  way  in Baṅga  the Lord  enjoys  various  pastimes
+w: here  in Navadvīpa  Lakṣmī  in separation  sorrowful  became
+tr: While the Lord enjoyed these many pastimes in East Bengal, here in Navadvīpa Lakṣmī grieved in separation from Him.
+
+## 21
+w: of the Lord  the snake of separation  Lakṣmī  bit
+w: of the snake of separation  by the poison  her  passing to the other world  came about
+tr: The snake of separation from the Lord bit Lakṣmī, and by its poison she passed from this world.
+fn: *Amṛta-pravāha-bhāṣya*: the pain of separation from the Lord took the form of a snake and bit Lakṣmī, and she went to “the other world” — her own abode, Vaikuṇṭha, the highest of all.
+
+## 22
+w: within  knew  the Lord,  since  the Indweller
+w: to His homeland  came  the Lord  of Śacī  the grief  knowing
+tr: The Lord knew of it within, for He dwells in every heart; and knowing Śacī’s grief, He returned home.
+
+## 23
+w: home  came  the Lord  much  bringing  wealth and people
+w: the truth  speaking  made  of Śacī  of grief  the removal
+tr: He came home with much wealth and many followers, and by speaking of the truth He freed Śacī from her grief.
+fn: *Amṛta-pravāha-bhāṣya*: there is a reading “with the net of truth” (*tattva-jāle*): “Who is whose husband, who is whose son, who is whose wife?” — casting such a net of true knowledge, the Lord relieved Śacī’s grief.
+
+## 24
+w: the students  gathering  again  of learning  the play
+w: by the power of learning  all  conquering  pride  displaying
+tr: Again He gathered His students and delighted in the play of learning; by the power of His knowledge He conquered everyone and showed a proud spirit.
+
+## 25
+w: then  of Viṣṇupriyā  Ṭhākurāṇī  the marriage
+w: then  indeed  made  the Lord  over the conqueror of the directions  victory
+tr: Then came His marriage to Viṣṇupriyā Ṭhākurāṇī, and after that the Lord’s victory over the *digvijayī*, the conqueror of all directions.
+fn: Heading in the edition: “Marriage to Śrī Viṣṇupriyā, daughter of the royal paṇḍita Sanātana, and the defeat of Keśava Kāśmīrī.” *Anubhāṣya*: the *digvijayī* was the paṇḍita Keśava of Kashmir. He travelled through India conquering scholars by his genius and was defeated in Navadvīpa by Śrī Gaurasundara. Having learned the truth about Mahāprabhu, he entered the Nimbārka sampradāya for the sake of devotion and wrote the *Kaustubha-prabhā*, a gloss on Śrīnivāsācārya’s *Vedānta-kaustubha*, the commentary on Nimbārka’s *Pārijāta-bhāṣya*.
+
+## 26
+w: Vṛndāvana-dāsa  this  has made  elaboration
+w: clearly  not  makes  of faults and merits  analysis
+tr: Vṛndāvana dāsa has described all this at length, but he did not set out clearly the merits and faults of the *digvijayī*’s verse.
+
+## 27
+w: that  part  I tell,  to him  making  obeisance
+w: which  hearing  the *digvijayī*  made  of himself  reproach
+tr: Bowing to him, I shall tell that part, on hearing which the *digvijayī* cursed himself.
+
+## 28
+w: moonlit  night,  the Lord  the students  with
+w: was sitting  on the bank of the Gaṅgā  in discussion of learning
+tr: One moonlit night the Lord sat with His students on the bank of the Gaṅgā, discussing points of learning.
+
+## 29
+w: at that time  the *digvijayī*  just there  came
+w: to the Gaṅgā  homage  having made  the Lord  he met
+tr: Just then the *digvijayī* came there and, after offering his prayers to the Gaṅgā, met the Lord.
+
+## 30
+w: seated  him  the Lord  respect  showing
+w: the *digvijayī*  speaks  in his mind  disdain  holding
+tr: The Lord received him with respect and gave him a seat, but the *digvijayī* spoke with disdain in his heart:
