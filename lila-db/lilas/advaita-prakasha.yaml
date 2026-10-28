@@ -825,15 +825,34 @@
   verses:
     - {file: "advaita-prakash/10.md", from_text: "59. Однажды Го", to_text: "70. Услышав эт"}
 
+- id: apr-0042a
+  source: advaita-prakasha
+  ref: "Гл. 10, 71–76"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 69
+  title: "Тринадцать месяцев в лоне; Ниламбара Чакраварти предсказывает срок явления"
+  summary: "Прошло десять, затем двенадцать месяцев, а Кришначандра всё не являлся; Джаганнатха Мишра и другие в страхе; отец Шачи Ниламбара Чакраварти, второй Гарга в астрологии, объявляет в собрании, что в лоне — Великая Личность и на тринадцатый месяц наступит благой миг явления."
+  persons: ["@shachi", "@jagannatha-mishra", "@nilambara-chakravarti", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: prophecy
+  authority: D
+  parallels: ""
+  notes: "Тринадцать месяцев — ср. ЧЧ Ади 13."
+  themes: [family]
+  event: ev-thirteen-months-in-womb
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "71. И вот у Ша", to_text: "76. Услышав эт"}
+
 - id: apr-0042
   source: advaita-prakasha
-  ref: "Гл. 10, 71–95"
+  ref: "Гл. 10, 77–93"
   file: "advaita-prakash/10.md"
   period: P01
   order: 70
-  title: "Тринадцать месяцев; явление Гауранги в пхалгуна-пурниму 1407 г. Шака при затмении"
-  summary: "Проходит двенадцать месяцев, и Ниламбара Чакраварти предсказывает явление на тринадцатом; Нанданандана, затаив три желания и приняв чувства и сияние Радхи, является в облике Гауры в полнолуние пхалгуны 1407 г. Шака, под знаком Льва, при лунном затмении и празднике качелей; все поют имя Хари, Нитьянанда в Радха-деше рокочет от любви; Шачи без чувств, Джаганнатха славит Вишну, но Гаура покрывает их родительским чувством; Адвайта и Харидас ликуют."
-  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@nilambara-chakravarti", "@nityananda", "@advaita", "@haridasa-thakura", "@radha"]
+  title: "Явление Гауранги в пхалгуна-пурниму 1407 г. Шака при затмении"
+  summary: "Нанданандана, затаив три желания и приняв чувства и сияние Радхи, является в облике Гауры в полнолуние пхалгуны 1407 г. Шака, под знаком Льва, при лунном затмении и празднике качелей; все поют имя Хари, Нитьянанда в Радха-деше рокочет от любви; Шачи без чувств, Джаганнатха славит Вишну, но Гаура покрывает их родительским чувством."
+  persons: ["@mahaprabhu", "@shachi", "@jagannatha-mishra", "@nityananda", "@radha"]
   places: ["#navadvipa", "#house-jagannatha-mishra", "#radha-desha"]
   kind: lila
   authority: D
@@ -845,7 +864,26 @@
   date_basis: "АП 10.83: пхалгуна-пурнима 1407 г. Шака (1486)"
   event: ev-gaura-appearance
   verses:
-    - {file: "advaita-prakash/10.md", from_text: "71. И вот у Ша", to_text: "95. Харидас и д"}
+    - {file: "advaita-prakash/10.md", from_text: "77. У Самого Б", to_text: "93. При явлени"}
+
+- id: apr-0042b
+  source: advaita-prakasha
+  ref: "Гл. 10, 94–95"
+  file: "advaita-prakash/10.md"
+  period: P01
+  order: 71
+  title: "Адвайта, зная о нисхождении Кришны как Чайтаньи, рычит; Харидас и другие поют санкиртану"
+  summary: "Шри Адвайта, зная, что Кришна нисшёл как Чайтанья, рычит и считает Себя благословенным; Харидас и другие поют имя, пляшут от любви и лишаются чувств."
+  persons: ["@advaita", "@haridasa-thakura", "@mahaprabhu"]
+  places: []
+  kind: lila
+  authority: D
+  parallels: "Пады: pad-0317 (Кану Дас), pad-0281 (Баларама Дас)"
+  notes: ""
+  themes: [kirtan, ecstasy]
+  event: ev-advaita-proclaims-advent
+  verses:
+    - {file: "advaita-prakash/10.md", from_text: "94. Шри Адвайт", to_text: "95. Харидас и д"}
 
 - id: apr-0043
   source: advaita-prakasha
