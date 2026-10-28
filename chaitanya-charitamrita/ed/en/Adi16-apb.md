@@ -74,7 +74,7 @@ The glory of this Gaṅgā-devī always shines, because she is supremely blessed
 
 ## 48
 
-The mental power to arrange speech in ever new ways is called *pratibhā*, poetic genius. By showing such a mind in this verse you have pleased even the gods[^48-1]; that is, your genius is richly displayed in these words. But if the verse is examined well, both its merits and its faults will come to light.
+The mental power to arrange speech in ever new ways is called *pratibhā*, poetic genius. By showing such a mind in this verse you have pleased even the gods; that is, your genius is richly displayed in these words. But if the verse is examined well, both its merits and its faults will come to light.
 
 ## 50
 
@@ -112,7 +112,7 @@ A lotus is born only in water; water is never born from a lotus. But here is the
 
 ## 107
 
-***Bandhana***, bondage: the bondage of *māyā*, that is, pride in learning[^107-1].
+***Bandhana***, bondage: the bondage of *māyā*, that is, pride in learning.
 
 *Thus ends the sixteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
@@ -120,6 +120,4 @@ A lotus is born only in water; water is never born from a lotus. But here is the
 
 [^36-1]: A *ghaṭikā* is twenty-four minutes.
 
-[^48-1]: The verse translation reads otherwise: “is surely pleasing to God.”
 
-[^107-1]: The verse translation reads otherwise: “freed him from the bondage of *karma*.”

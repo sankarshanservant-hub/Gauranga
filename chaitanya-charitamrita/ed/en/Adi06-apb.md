@@ -30,7 +30,7 @@ Advaita Prabhu was a disciple of Mādhavendra Purī, and His godbrother Īśvara
 
 ## 43
 
-*Brahma-sukha* (the happiness of Brahman) is the happiness that comes with the thought of nondifference: “I am Brahman.”[^43-1]
+*Brahma-sukha* (the happiness of Brahman) is the happiness that comes with the thought of nondifference: “I am Brahman.”
 
 ## 47
 
@@ -96,5 +96,4 @@ One who regards himself as Kṛṣṇa's equal does not taste His sweetness.
 
 ---
 
-[^43-1]: The verse translation reads differently: “the happiness of abiding in the effulgence of Brahman.”
 [^66-1]: The edition reads *nija-jana-sandoha (garva)* (“of the multitude of His own people (pride)”); the verse has *smaya* (pride). Translated according to the verse.

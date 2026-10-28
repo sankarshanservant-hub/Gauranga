@@ -40,4 +40,4 @@ Advaita Prabhu is one of the trunks of the wish-fulfilling tree of devotion. Śr
 
 ---
 
-[^34-1]: The verse translation reads differently: “the Ācārya is indeed the divine Lord.”
+[^34-1]: The verse translation reads differently: “the Ācārya truly is God.”

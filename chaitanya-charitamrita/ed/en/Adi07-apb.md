@@ -110,7 +110,7 @@ The root statement of the Vedas is the *praṇava*; therefore it alone is the gr
 
 ## 135
 
-O Śrī Kṛṣṇa Caitanya! You presented these arguments and refuted Śaṅkara's interpretation; this is no empty dispute (*vivāda*) — that is, a fortunate person accepts it as “the truth.”[^135-1]
+O Śrī Kṛṣṇa Caitanya! You presented these arguments and refuted Śaṅkara's interpretation; this is no empty dispute (*vivāda*) — that is, a fortunate person accepts it as “the truth.”
 
 ## 138–140
 
@@ -133,4 +133,3 @@ To attain shelter at the feet of that Bhagavat-*tattva*, all the Vedas have dete
 ---
 
 [^128-1]: From these words on, the edition prints the heading *Anubhāṣya* above the continuation — apparently a typesetting error, since the text continues the sentence of the *Amṛta-pravāha-bhāṣya*.
-[^135-1]: The verse translation reads differently: “in this there is no disagreement between us.”

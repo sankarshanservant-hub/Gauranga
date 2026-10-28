@@ -326,4 +326,4 @@ If poetry is not examined, its faults are certainly not easy to see[^85-1].
 
 [^67-1]: The edition has “পঞ্চ দোষের” (“of the five faults”), apparently for “পঞ্চম দোষের” (“of the fifth fault”).
 
-[^85-1]: The verse translation reads otherwise: “if one does not reflect on each verse, faults may creep in.”
+[^85-1]: The verse translation reads otherwise: “into poetry composed without reflection faults are bound to creep.”

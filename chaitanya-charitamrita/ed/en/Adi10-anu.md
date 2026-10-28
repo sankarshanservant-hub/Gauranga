@@ -786,7 +786,7 @@ Raghunātha Bhaṭṭācārya was one of the six Gosvāmīs and the son of Tapan
 
 [^48-1]: The edition reads “Madhya, Chapter 10, 100–101”; these words of the Lord are in Madhya 15.100–101.
 
-[^57-1]: The verse translation reads it differently: “all the devotees saw Him alike” (Bengali *nirviśeṣa*, “without distinction”).
+[^57-1]: The verse translation reads it differently: “all the devotees see Him alike” (Bengali *nirviśeṣa*, “without distinction”).
 
 [^78-1]: An unclear place in the scan: the middle digit of the verse number is damaged; probably 177.
 
