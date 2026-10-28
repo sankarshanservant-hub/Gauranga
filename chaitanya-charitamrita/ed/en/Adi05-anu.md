@@ -910,7 +910,7 @@ Brahmā, who sits on the lotus, together with the residents of his own world, Br
 
 ## 223
 
-Ādi 4.147: “Kṛṣṇa's sweetness has a natural power: it stirs all men and women, and Kṛṣṇa Himself first among them.”
+Ādi 4.147: “Kṛṣṇa’s sweetness has a natural power: it makes all men and women restless, beginning with Kṛṣṇa Himself.”
 
 In Śrī Rūpa Prabhu's *Laghu-bhāgavatāmṛta*, where the supremacy of Kṛṣṇa's sweetness is described (sections 351–352), a story from the *Padma Purāṇa* is retold: “Lakṣmī-devī saw the sweetness of Śrī Kṛṣṇa, longed for it, and began to perform austerities. Śrī Kṛṣṇa asked her, ‘Why are you performing austerities?’ Lakṣmī replied, ‘I wish to enjoy pastimes with You in Vṛndāvana in the form of a *gopī*.’ Śrī Kṛṣṇa said, ‘That is very hard to attain.’ Lakṣmī spoke again: ‘O Lord, then I wish to stay on Your chest like a golden line.’ And Śrī Kṛṣṇa said, ‘So be it.’ Since then Lakṣmī has remained on Kṛṣṇa's chest as a golden line.” In the *Śrīmad-Bhāgavatam* (10.16.36) the wives of the serpent say: “Lakṣmī is the most beautiful of all, and yet she longed for the dust of Your feet. For its sake she gave up all desires, took vows, and performed austerities for a long time.”
 

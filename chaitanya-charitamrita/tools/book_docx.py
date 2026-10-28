@@ -9,7 +9,7 @@ from docx.shared import Pt, Mm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml.ns import qn
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from md2pdf import load_comm, SUB, has_bn, is_tl, TXT
+from md2pdf import verse_md, load_comm, SUB, has_bn, is_tl, TXT
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 name, lang, chaps = sys.argv[1], sys.argv[2], sys.argv[3:]
@@ -78,7 +78,7 @@ def comm(text, notes, chap, label):
             runs(p, it, notes, chap, size=10)
 
 for ci, chap in enumerate(chaps):
-    md = open(os.path.join(ROOT, 'ed', 'vcd' if lang == 'ru' else 'en', 'CC_%s.md' % chap), encoding='utf-8').read()
+    md = verse_md(chap, lang)
     body, _, foot = md.partition('\n---\n')
     apb, fa = load_comm(chap, 'apb', lang); anu, fn = load_comm(chap, 'anu', lang)
     foot = foot + '\n' + fa + '\n' + fn

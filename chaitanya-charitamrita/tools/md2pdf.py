@@ -1,4 +1,4 @@
-# Глава ed/vcd/CC_<Глава>.md -> PDF (через HTML и Chromium). Три редакции:
+# Глава ed/vcd-rev (выверенная; если нет — ed/vcd)/CC_<Глава>.md -> PDF (через HTML и Chromium). Три редакции:
 #   full — бенгальский, транслитерация, пословный, перевод, оба комментария (полное издание);
 #   comm — перевод шлок и оба комментария, без бенгальского и пословного;
 #   text — только перевод (лёгкое издание).
@@ -53,12 +53,27 @@ def inline(t, notes):
                % (m.group(1), m.group(1), notes.index(m.group(1)) + 1 if m.group(1) in notes else 0), t)
     return t
 
+def verse_md(chap, lang='ru', with_comm=True):
+    """Текст главы со стихами: выверенная редакция (ed/vcd-rev, ed/en-rev), если глава выверена, иначе ed/vcd, ed/en.
+    В изданиях с комментариями из сносок выверки убирается пересказ комментариев и заголовков издания (tools/fullnotes.py)."""
+    rev = os.path.join(ROOT, 'ed', 'vcd-rev' if lang == 'ru' else 'en-rev', 'CC_%s.md' % chap)
+    if os.path.exists(rev):
+        md = open(rev, encoding='utf-8').read()
+        if with_comm:
+            from fullnotes import apply
+            md = apply(md)
+        return md
+    return open(os.path.join(ROOT, 'ed', 'vcd' if lang == 'ru' else 'en', 'CC_%s.md' % chap), encoding='utf-8').read()
+
 def load_comm(chap, kind, lang='ru'):
     """ed/ru/<Глава>-<kind>.md -> ({ключ раздела: текст}, сноски) ; ключ '0', '5' или '5–6'"""
     f = os.path.join(ROOT, 'ed', lang, '%s-%s.md' % (chap, kind))
     if not os.path.exists(f): return {}, ''
     t = open(f, encoding='utf-8').read()
     body, _, foot = t.partition('\n---\n')
+    defs = re.findall(r'^\[\^[\w-]+\]:.*$', body, re.M)      # сноски, записанные без черты «---» (в конце раздела)
+    if defs:
+        body = re.sub(r'^\[\^[\w-]+\]:.*\n?', '', body, flags=re.M); foot = '\n'.join(defs) + '\n' + foot
     sec = {}
     for m in re.finditer(r'^## +([\d–-]+)\s*\n(.*?)(?=^## |\Z)', body, re.M | re.S):
         sec[m.group(1).replace('-', '–')] = m.group(2).strip()
@@ -84,7 +99,7 @@ def subheading(text):
 
 def build(chap, ed='full', size='a5', lang='ru', ret=False):
     T = TXT[lang]
-    md = open(os.path.join(ROOT, 'ed', 'vcd' if lang == 'ru' else 'en', 'CC_%s.md' % chap), encoding='utf-8').read()
+    md = verse_md(chap, lang, ed in ('full', 'comm'))
     body, _, foot = md.partition('\n---\n')
     apb, fa = load_comm(chap, 'apb', lang) if ed in ('full', 'comm') else ({}, '')
     anu, fn = load_comm(chap, 'anu', lang) if ed in ('full', 'comm') else ({}, '')

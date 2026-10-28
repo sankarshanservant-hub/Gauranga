@@ -337,7 +337,7 @@ On the same subject, here is a rendering of the sense of verses 160–165 from t
 
 “Then, as the east reveals the rising moon, so Devakī, made of pure goodness, having received from Śūrasena (Vasudeva) initiation into Kṛṣṇa's *mantra*, held in her heart Śrī Acyuta — the auspiciousness of the world, the Soul of all and the Supreme Soul.” From these words of the *Bhāgavatam* it is known that Svayaṁ Bhagavān became manifest from the heart of Ānakadundubhi (Vasudeva) in the heart of Devakī. Although “in Devakī's heart” is said here, it must be understood to mean that He was in Devakī's womb, for in the *Bhāgavatam* there is the gods' prayer: “O mother, the Supreme Person resides in your womb.” And in the section on the Lord's birth these words of the *Bhāgavatam* should be especially noted: “As the full moon rises in the east, so Viṣṇu, who dwells in everyone's heart, appeared in Devakī's heart.”
 
-Here, by the words “with special care they served Govinda's feet” (Ādi 13.79), it should be understood that Śrī Gaurasundara appeared in the very hearts of Miśra and Śacī, which were always immersed in the service of Govinda's feet.
+Here, by the words “served the feet of Govinda with still greater devotion” (Ādi 13.79), it should be understood that Śrī Gaurasundara appeared in the very hearts of Miśra and Śacī, which were always immersed in the service of Govinda's feet.
 
 ## 87
 
