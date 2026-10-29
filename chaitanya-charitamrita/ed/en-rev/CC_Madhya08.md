@@ -1618,7 +1618,7 @@ for which  longing  Śrī  the best of women  performed  austerity
 vihāya kāmān su-ciraṁ dhṛta-vratā  
 giving up  desires  for a very long time  holding vows
 
-(146) “O Lord, we do not know by what merit he has earned the right to touch the dust of Your feet — that dust for which Śrī, the best of women, longing for it, gave up all desires and practised austerities for so long, keeping her vows.” (Śrīmad-Bhāgavatam, 10.16.36)[^43][^44]
+(146) “O Lord, we do not know by what merit this one has gained the right to touch the dust of Your feet. Longing for it, Śrī, the best of women, renounced all desires and practised austerities, keeping her vows for a very long time.” (Śrīmad-Bhāgavatam, 10.16.36)[^43][^44]
 
 আপন-মাধুর্য্যে হরে আপনার মন ৷  
 আপনা আপনি চাহে করিতে আলিঙ্গন ॥ ১৪৭ ॥
@@ -2483,7 +2483,7 @@ the women  of the king of serpents  like the coils  to the arms  attached  in mi
 vayam api te samāḥ sama-dṛśo ’ṅghri-saroja-sudhāḥ  
 we  also  Your  like them  sharing their mood  of the lotus feet  the nectar
 
-(223) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)[^61][^62]
+(223) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them and following their mood, taste that nectar.” (Śrīmad-Bhāgavatam, 10.87.23)[^61][^62]
 
 ‘সমদৃশঃ’-শব্দে কহে ‘সেই ভাবে অনুগতি’ ৷  
 ‘সমাঃ’-শব্দে কহে শ্রুতির গোপীদেহ-প্রাপ্তি ॥ ২২৪ ॥
