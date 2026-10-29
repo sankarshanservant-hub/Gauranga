@@ -95,7 +95,7 @@ therefore  at his  feet  I make  obeisance
 tām̐ra pāya aparādha nā hauk āmāra  
 at his  feet  offence  not  may there be  my
 
-(9) Therefore I bow down at his feet, praying that I may commit no offence at his feet.
+(9) Therefore I bow down at his feet, praying that I may commit no offence against them.
 
 এইমত মহাপ্রভু চলিলা নীলাচলে ৷  
 চারিভক্ত সঙ্গে কৃষ্ণকীর্ত্তন কুতূহলে ॥ ১০ ॥
@@ -175,7 +175,7 @@ in many ways  with love  did  the Lord’s  service
 sei rātri tām̐hā prabhu karilā vañcana  
 that  night  there  the Lord  spent
 
-(17) Lovingly they served the Lord in many ways, and that night the Lord stayed there.
+(17) Lovingly they served the Lord in many ways, and the Lord spent that night there.
 
 মহাপ্রসাদ-ক্ষীর-লোভে রহিলা প্রভু তথা ৷  
 পূর্ব্বে ঈশ্বরপুরী তাঁরে কহিয়াছেন কথা ॥ ১৮ ॥
@@ -645,7 +645,7 @@ incense  lamp  offering  various  foods  offered
 dadhi-dugdha-sandeśādi yata kichu āila  
 yogurt, milk, sandeśa and the rest  whatever  all  had come
 
-(64) After offering incense and a lamp, he offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
+(64) He presented incense and a lamp, and then offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
 
 সুবাসিত জল নবপাত্রে সমর্পিল ৷  
 আচমন দিয়া সে তাম্বূল নিবেদিল ॥ ৬৫ ॥
@@ -655,7 +655,7 @@ fragrant  water  in new vessels  offered
 ācamana diyā se tāmbūla nivedila  
 ācamana  giving  then  tāmbūla  offered
 
-(65) He offered fragrant water in new vessels, and after giving water to rinse the mouth (*ācamana*), he offered betel (*tāmbūla*).
+(65) He set out fragrant water in new vessels, and after giving water to rinse the mouth (*ācamana*), he offered betel (*tāmbūla*).
 
 আরাত্রিক করি’ কৈল বহুত স্তবন ৷  
 দণ্ডবৎ করি’ কৈল আত্ম-সমর্পণ ॥ ৬৬ ॥
@@ -665,7 +665,7 @@ fragrant  water  in new vessels  offered
 daṇḍavat kari’ kaila ātma-samarpaṇa  
 prostration  making  made  self-surrender
 
-(66) After the *ārati* he offered many prayers, and falling flat like a rod, he surrendered himself.
+(66) After the *ārati* he recited many prayers, and, falling prostrate like a rod, he surrendered himself to Him.
 
 গ্রামের যতেক তণ্ডুল, দালি, গোধূম-চূর্ণ ৷  
 সকল আনিয়া দিল পর্ব্বত হৈল পূর্ণ ॥ ৬৭ ॥
@@ -675,7 +675,7 @@ of the village  all the  rice  dāl  wheat flour
 sakala āniyā dila parvata haila pūrṇa  
 all  bringing  they gave  the hill  became  full
 
-(67) All the rice, *dāl* and wheat flour in the village was brought and given, until the hilltop was full.
+(67) The villagers brought all the rice, *dāl* and wheat flour in the village, until the hilltop was full.
 
 কুম্ভকার ঘরে ছিল যে মৃদ্ভাজন ৷  
 সব আনাইল প্রাতে চড়িল রন্ধন ॥ ৬৮ ॥
@@ -745,7 +745,7 @@ its  beside  yogurt  milk  buttermilk  śikhariṇī
 pāyasa, mathani, sara pāśe dhari’ āni’  
 sweet rice  fresh butter  cream  beside  placing  having brought
 
-(74) Beside them they brought and set out yogurt, milk, buttermilk, *śikhariṇī*, sweet rice, fresh butter and cream.[^25]
+(74) Next to these they set out yogurt, milk, buttermilk, *śikhariṇī*, sweet rice, fresh butter and cream.[^25]
 
 হেনমতে অন্নকূট করিল সাজন ৷  
 পুরী-গোসাঞি গোপালেরে কৈল সমর্পণ ॥ ৭৫ ॥
@@ -807,10 +807,10 @@ by Gopāla’s power  it happens  others  not  knew
 
 (80) After giving water to rinse the mouth, he offered a store of betel rolls; then he performed *ārati*, and the people cried, “Jaya! Jaya!”[^29]
 
-শয্যা করাইল, নুতন খাট আনাঞা ৷  
+শয্যা করাইল, নূতন খাট আনাঞা ৷  
 নববস্ত্র আনি’ তার উপরে পাতিয়া ॥ ৮১ ॥
 
-śayyā karāila, nutana khāṭa ānāñā  
+śayyā karāila, nūtana khāṭa ānāñā  
 a bed  had made  new  cot  having brought  
 nava vastra āni’ tāra upare pātiyā  
 new  cloth  bringing  on it  on top  spreading
@@ -1065,7 +1065,7 @@ Gopāla  says  Purī  My  heat  not  goes away
 malayaja-candana lepa’, tabe se juḍāya  
 Malaya sandalwood  smear  then  it  will cool
 
-(106) Gopāla said, “Purī, My heat does not go away. Smear Me with sandalwood from the Malaya hills, and then it will be cooled.[^36]
+(106) Gopāla said, “Purī, My heat does not go away. Anoint Me with sandal paste from the Malaya hills, and then it will cool.[^36]
 
 ---
 

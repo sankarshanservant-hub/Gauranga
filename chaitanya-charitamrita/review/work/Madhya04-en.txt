@@ -52,7 +52,7 @@ tr: As best I can, I shall tell those pastimes he mentioned in his summary but d
 ## 9
 w: therefore  at his  feet  I make  obeisance
 w: at his  feet  offence  not  may there be  my
-tr: Therefore I bow down at his feet, praying that I may commit no offence at his feet.
+tr: Therefore I bow down at his feet, praying that I may commit no offence against them.
 
 ## 10
 w: in this way  Mahāprabhu  went  to Nīlācala
@@ -94,7 +94,7 @@ tr: Seeing the Lord’s majesty, His love, His beauty and His qualities, the ser
 ## 17
 w: in many ways  with love  did  the Lord’s  service
 w: that  night  there  the Lord  spent
-tr: Lovingly they served the Lord in many ways, and that night the Lord stayed there.
+tr: Lovingly they served the Lord in many ways, and the Lord spent that night there.
 
 ## 18
 w: for the mahā-prasāda sweet rice  out of eagerness  stayed  the Lord  there
@@ -346,22 +346,22 @@ tr: Wiping the holy body dry, he dressed Him and adorned His body with sandal pa
 ## 64
 w: incense  lamp  offering  various  foods  offered
 w: yogurt, milk, sandeśa and the rest  whatever  all  had come
-tr: After offering incense and a lamp, he offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
+tr: He presented incense and a lamp, and then offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
 
 ## 65
 w: fragrant  water  in new vessels  offered
 w: ācamana  giving  then  tāmbūla  offered
-tr: He offered fragrant water in new vessels, and after giving water to rinse the mouth (*ācamana*), he offered betel (*tāmbūla*).
+tr: He set out fragrant water in new vessels, and after giving water to rinse the mouth (*ācamana*), he offered betel (*tāmbūla*).
 
 ## 66
 w: ārati  performing  made  many  prayers
 w: prostration  making  made  self-surrender
-tr: After the *ārati* he offered many prayers, and falling flat like a rod, he surrendered himself.
+tr: After the *ārati* he recited many prayers, and, falling prostrate like a rod, he surrendered himself to Him.
 
 ## 67
 w: of the village  all the  rice  dāl  wheat flour
 w: all  bringing  they gave  the hill  became  full
-tr: All the rice, *dāl* and wheat flour in the village was brought and given, until the hilltop was full.
+tr: The villagers brought all the rice, *dāl* and wheat flour in the village, until the hilltop was full.
 
 ## 68
 w: of the potters  in the houses  were  which  earthen pots
@@ -397,7 +397,7 @@ tr: Beside it rose a mountain of flatbreads, and pots of soup and vegetables wer
 ## 74
 w: its  beside  yogurt  milk  buttermilk  śikhariṇī
 w: sweet rice  fresh butter  cream  beside  placing  having brought
-tr: Beside them they brought and set out yogurt, milk, buttermilk, *śikhariṇī*, sweet rice, fresh butter and cream.
+tr: Next to these they set out yogurt, milk, buttermilk, *śikhariṇī*, sweet rice, fresh butter and cream.
 fn: *Amṛta-pravāha-bhāṣya*: *māṭhā* — buttermilk; *śikhariṇī* is made by mixing yogurt, milk, sugar, camphor and pepper; *mathani* — fresh butter (*navanīta* and *haiyaṅgava*).
 
 ## 75
@@ -568,5 +568,5 @@ tr: In this way he served for two years. Then one day Purī Gosāñi had a dream
 ## 106
 w: Gopāla  says  Purī  My  heat  not  goes away
 w: Malaya sandalwood  smear  then  it  will cool
-tr: Gopāla said, “Purī, My heat does not go away. Smear Me with sandalwood from the Malaya hills, and then it will be cooled.
+tr: Gopāla said, “Purī, My heat does not go away. Anoint Me with sandal paste from the Malaya hills, and then it will cool.
 fn: *Anubhāṣya*: *malayaja* — born in the land of Malaya (Malabar, the southern part of the Western Ghats, also called Candana-giri, “the sandal mountain”); the word *malayaja* also means sandalwood itself. Heading in the edition: “In a dream Gopāla tells Purī that He wants sandal”.
