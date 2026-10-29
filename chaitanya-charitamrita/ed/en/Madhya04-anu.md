@@ -144,7 +144,7 @@
 
 ## 59
 
-“Then let him perform the *abhiṣeka* with a conch to the sound of bells and other instruments, chanting the *mūla-mantra* or the eight-syllable mantra and offering incense from time to time.” (*Hari-bhakti-vilāsa*, *vilāsa* 6, verse 30)
+“Then let him perform the *abhiṣeka* with a conch to the sound of bells and other instruments, chanting the *mūla-mantra*, the eight-syllable mantra, and offering incense from time to time.” (*Hari-bhakti-vilāsa*, *vilāsa* 6, verse 30)
 
 ## 60
 
