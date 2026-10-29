@@ -360,6 +360,54 @@ A song by Vidyāpati: “What shall I say, friend — there is no limit to my jo
 
 ***Bhāṇḍiyā*** — deceiving, tricking.
 
+## 119
+
+> Subheading: The Lord's separation from Kṛṣṇa —
+
+## 121
+
+> Subheading: Mukunda sings a song suited to the moment —
+
+## 123
+
+> Subheading: The eight *sāttvika-vikāras* in the Lord —
+
+## 124
+
+In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣṇa with Him, fully manifested the *rasa* of separation (*vipralambha*). Seeing this, Mukunda began a song to match, and Advaita Prabhu stopped dancing. (A similar song of Vidyāpati: “What shall I do, where shall I go? I find no relief. For my beloved's sake, to what land shall I go?”)
+
+## 127
+
+> Subheading: The Lord's emotions —
+
+***Harṣa*** — (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave): “Gladness of heart born of seeing or obtaining what one desires is called *harṣa*. With it come hair standing on end, perspiration, tears, a radiant face, and also agitation (*āvega*), madness (*unmāda*), stupor (*jaḍatā*), fainting (*moha*) and the like.” The gladness of heart when one gets to see what one desires is *harṣa*. With *harṣa* the hair stands on end, perspiration and tears appear, the face blossoms; there is agitation, madness, stupor, fainting and so on.
+
+***Garva*** — (ibid.): “Disregard for others because of one's good fortune, beauty, youth, qualities, the best of shelters, or the attainment of what one desires is called *garva*. With it come *solluṇṭha* speech (censure in the guise of praise), not answering out of playfulness, gazing at one's own limbs, concealment, not listening to others' words and the like.” On attaining what one desires, one relies on one's good fortune, beauty and youth, qualities, the best of shelters and so on, and disregards others — that is *garva*. In it there are such acts as words of praise, not answering, gazing at one's own limbs, hiding one's intentions and not listening to what others say.
+
+## 131
+
+> Subheading: Nityānanda stays watchful beside the Lord —
+
+## 132
+
+> Subheading: Many varied emotions in the Lord —
+
+## 133
+
+> Subheading: After His fast the Lord tires from the wild dancing —
+
+## 134
+
+> Subheading: In His love for Kṛṣṇa the Lord feels no fatigue, yet His fatigue is relieved —
+
+## 136
+
+> Subheading: Ten days in Śāntipura —
+
+## 137
+
+> Subheading: Śacīmātā arrives in a palanquin with the devotees of Navadvīpa —
+
 ---
 
 [^1-1]: The edition prints «ত্বং গৌরং» (“to You, Gaura”) at the end of the glosses; the verse itself reads «তং» (“to that”).
