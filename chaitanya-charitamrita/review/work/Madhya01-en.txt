@@ -847,7 +847,7 @@ tr: A cool breeze blew, bearing many fragrances. Thus he paved the road as far a
 ## 160
 w: further  the mind  not  goes  not  can  pave
 w: the road-  -paving  not  goes on  Nṛsiṁha  became  astonished
-tr: Beyond that his mind would not move on, and he could pave no further. The road would go no further, and Nṛsiṁhānanda was astonished.
+tr: Beyond that point his mind could not go, nor could he pave any further; the road came to a halt, and Nṛsiṁhānanda was astonished.
 
 ## 161
 w: certainty  making  I say  hear  O devotees
@@ -878,7 +878,7 @@ tr: Wherever the Lord’s feet touched the ground as He walked, people took away
 ## 166
 w: thus  walking  came  the Lord  Rāmakeli  village
 w: of Gauḍa  near  a village  very  incomparable
-tr: Walking on in this way, the Lord came to the village of Rāmakeli, a village of incomparable beauty near Gauḍa.
+tr: Walking on in this way, the Lord came to Rāmakeli, a village of incomparable beauty near Gauḍa.
 fn: *Amṛta-pravāha-bhāṣya*: Rāmakeli lies near Gauḍa on the bank of the Gaṅgā; Śrī Rūpa and Sanātana lived there at that time.
 
 ## 167
@@ -1154,7 +1154,7 @@ tr: Birth after birth you two are My servants. Very soon Kṛṣṇa will delive
 ## 216
 w: thus  saying  of both  on the heads  He placed  two  hands
 w: the two  brothers  taking  the Lord’s  feet  placed  on their heads
-tr: Saying this, He placed His two hands on their heads, and the two brothers took the Lord’s feet and placed them on their heads.
+tr: Saying this, He placed His two hands on their heads, and the two brothers took the Lord’s feet and set them on their heads.
 
 ## 217
 w: both  embracing  the Lord  said  to the devotees
@@ -1195,7 +1195,7 @@ tr: he is still a Muslim by birth — do not trust him. And such a crowd is not 
 ## 224
 w: with whom  together  go  these  people  in hundreds of thousands
 w: to Vṛndāvana  for going  this  is not  the proper manner
-tr: To go to Vṛndāvana with hundreds of thousands of people following is not the proper manner.”
+tr: To travel to Vṛndāvana with hundreds of thousands of people in tow is not fitting.”
 
 ## 225
 w: although  in truth  of the Lord  any  there is no  fear
@@ -1393,7 +1393,7 @@ tr: Pleased with him, the Lord sent him to Vṛndāvana. Then came the Lord’s 
 ## 262
 w: with Nityānanda  counsel  taking  in private
 w: Him  He sent  to Gauḍa  prema  to preach
-tr: After consulting Nityānanda in private, He sent Him to Gauḍa to preach *prema*.
+tr: After consulting Nityānanda in private, He sent Him to Gauḍa to preach prema.
 
 ## 263
 w: then  indeed  Vallabha  Bhaṭṭa  the Lord  met
@@ -1409,7 +1409,7 @@ fn: Edition heading: “Rāya Rāmānanda, a Vaiṣṇava ācārya though not a 
 ## 265
 w: Gopīnātha  Paṭṭanāyaka  Rāmānanda’s brother
 w: the king  was about to kill  the Lord  became  the savior
-tr: Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, was about to be put to death by the king, and the Lord became his savior.
+tr: Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, was about to be put to death by the king, and the Lord became his saviour.
 
 ## 266
 w: for fear of Rāmacandra Purī  His food  He reduced
@@ -1430,7 +1430,7 @@ tr: All of them took human form and came to Nīlācala in the guise of pilgrims 
 ## 269
 w: one  day  Śrīvāsa and others  all  the devotees
 w: of Mahāprabhu  the qualities  singing  perform  kīrtana
-tr: One day Śrīvāsa and all the other devotees held *kīrtana*, singing of Mahāprabhu’s qualities.
+tr: One day Śrīvāsa and all the other devotees held kīrtana, singing of Mahāprabhu’s qualities.
 
 ## 270
 w: hearing  to the devotees  He says  angry  in words
@@ -1519,7 +1519,7 @@ tr: He made Brahmānanda Bhāratī give up his garment of skin. In this way He e
 ## 286
 w: this  indeed  I have told  of the Madhya-līlā  the sūtras
 w: of the last  twelve  years  hear  the account
-tr: Thus I have told the *sūtras* of the Madhya-līlā. Now hear the account of the last twelve years.
+tr: Thus I have told the sūtras of the Madhya-līlā. Now hear the account of the last twelve years.
 fn: Edition heading: “Of the eighteen years, leaving aside six, the pastimes of the last twelve years will be described in sūtras later”. *Anubhāṣya*: the author gives the sūtras of the last twelve years in the second chapter, and then describes the Madhya- and Antya-līlā step by step in detail (cf. Antya 1.10–11).
 
 ## 287

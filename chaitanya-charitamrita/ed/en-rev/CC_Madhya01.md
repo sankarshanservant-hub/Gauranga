@@ -1648,7 +1648,7 @@ further  the mind  not  goes  not  can  pave
 patha-bāndhā nā yāya, nṛsiṁha hailā vismite  
 the road-  -paving  not  goes on  Nṛsiṁha  became  astonished
 
-(160) Beyond that his mind would not move on, and he could pave no further. The road would go no further, and Nṛsiṁhānanda was astonished.
+(160) Beyond that point his mind could not go, nor could he pave any further; the road came to a halt, and Nṛsiṁhānanda was astonished.
 
 নিশ্চয় করিয়া কহি, শুন, ভক্তগণ ৷  
 এবার না যাবেন প্রভু শ্রীবৃন্দাবন ॥ ১৬১ ॥
@@ -1708,7 +1708,7 @@ thus  walking  came  the Lord  Rāmakeli  village
 gauḍera nikaṭa grāma ati anupama  
 of Gauḍa  near  a village  very  incomparable
 
-(166) Walking on in this way, the Lord came to the village of Rāmakeli, a village of incomparable beauty near Gauḍa.[^26]
+(166) Walking on in this way, the Lord came to Rāmakeli, a village of incomparable beauty near Gauḍa.[^26]
 
 তাঁহা নৃত্য করে প্রভু প্রেমে অচেতন ৷  
 কোটি কোটী লোক আইসে দেখিতে চরণ ॥ ১৬৭ ॥
@@ -2226,7 +2226,7 @@ thus  saying  of both  on the heads  He placed  two  hands
 dui bhāi dhari’ prabhura pada nila māthe  
 the two  brothers  taking  the Lord’s  feet  placed  on their heads
 
-(216) Saying this, He placed His two hands on their heads, and the two brothers took the Lord’s feet and placed them on their heads.
+(216) Saying this, He placed His two hands on their heads, and the two brothers took the Lord’s feet and set them on their heads.
 
 দোঁহা আলিঙ্গিয়া প্রভু বলিল ভক্তগণে ৷  
 সবে কৃপা করি’ উদ্ধার’ এই দুই জনে ॥ ২১৭ ॥
@@ -2306,7 +2306,7 @@ with whom  together  go  these  people  in hundreds of thousands
 vṛndāvana yāivāra e nahe paripāṭī  
 to Vṛndāvana  for going  this  is not  the proper manner
 
-(224) To go to Vṛndāvana with hundreds of thousands of people following is not the proper manner.”
+(224) To travel to Vṛndāvana with hundreds of thousands of people in tow is not fitting.”
 
 যদ্যপি বস্তুতঃ প্রভুর কিছু নাহি ভয় ৷  
 তথাপি লৌকিকলীলা, লোক-চেষ্টাময় ॥ ২২৫ ॥
@@ -2683,7 +2683,7 @@ with Nityānanda  counsel  taking  in private
 tām̐re pāṭhāilā gauḍe prema pracārite  
 Him  He sent  to Gauḍa  prema  to preach
 
-(262) After consulting Nityānanda in private, He sent Him to Gauḍa to preach *prema*.
+(262) After consulting Nityānanda in private, He sent Him to Gauḍa to preach prema.
 
 তবে ত’ বল্লভ ভট্ট প্রভুরে মিলিলা ৷  
 কৃষ্ণনামের অর্থ প্রভু তাঁহারে কহিলা ॥ ২৬৩ ॥
@@ -2713,7 +2713,7 @@ Gopīnātha  Paṭṭanāyaka  Rāmānanda’s brother
 rājā māritechila, prabhu haila trātā  
 the king  was about to kill  the Lord  became  the savior
 
-(265) Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, was about to be put to death by the king, and the Lord became his savior.
+(265) Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, was about to be put to death by the king, and the Lord became his saviour.
 
 রামচন্দ্রপুরী-ভয়ে ভিক্ষা ঘাটাইল ৷  
 বৈষ্ণবের দুঃখ দেখি’ অর্দ্ধেক রাখিল ॥ ২৬৬ ॥
@@ -2753,7 +2753,7 @@ one  day  Śrīvāsa and others  all  the devotees
 mahāprabhura guṇa gāñā karena kīrtana  
 of Mahāprabhu  the qualities  singing  perform  kīrtana
 
-(269) One day Śrīvāsa and all the other devotees held *kīrtana*, singing of Mahāprabhu’s qualities.
+(269) One day Śrīvāsa and all the other devotees held kīrtana, singing of Mahāprabhu’s qualities.
 
 শুনি’ ভক্তগণে কহে সক্রোধ বচনে ৷  
 “কৃষ্ণ-নাম-গুণ ছাড়ি’ কি কর কীর্ত্তনে ॥ ২৭০ ॥
@@ -2923,7 +2923,7 @@ this  indeed  I have told  of the Madhya-līlā  the sūtras
 śeṣa dvādaśa vatsarera śuna vivaraṇa  
 of the last  twelve  years  hear  the account
 
-(286) Thus I have told the *sūtras* of the Madhya-līlā. Now hear the account of the last twelve years.[^62]
+(286) Thus I have told the sūtras of the Madhya-līlā. Now hear the account of the last twelve years.[^62]
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৮৭ ॥
