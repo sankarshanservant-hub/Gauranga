@@ -1237,7 +1237,7 @@ the rāsa  not  obtained  Lakṣmī  in the scriptures  this  I hear
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ১২১ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not  this  of Śrī  O  indeed  wholly attached  favor  
+not  this  of Śrī  on the chest  indeed  wholly attached  favor  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
 of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
@@ -3194,11 +3194,11 @@ he  knows  who  the ‘Karṇāmṛta’  reads  constantly
 মহা যত্ন করি’ পুঁথি আইলা লঞা ॥ ৩০৯ ॥
 
 ‘brahma-saṁhitā’, ‘karṇāmṛta’ dui pum̐thi pāñā  
-the ‘Brahma-saṁhitā’  the ‘Karṇāmṛta’  two  manuscripts  finding  
+the Brahma-saṁhitā  the Karṇāmṛta  two  manuscripts  finding  
 mahā yatna kari’ pum̐thi āilā lañā  
 great  care  taking  the manuscripts  He came  bringing
 
-(309) Having obtained the two manuscripts, the *Brahma-saṁhitā* and the *Karṇāmṛta*, He brought them back with great care.
+(309) He found two manuscripts, the *Brahma-saṁhitā* and the *Karṇāmṛta*, and brought them back with great care.[^43]
 
 তাপী স্নান করি’ আইলা মাহিষ্মতীপুরে ৷  
 নানা তীর্থ দেখি তাঁহা নর্ম্মদার তীরে ॥ ৩১০ ॥
@@ -3238,7 +3238,7 @@ the seven palms  seeing  the Lord  an embrace  made
 saśarīre saptatāla antarddhāna haila  
 in their bodies  the seven palms  disappearance  underwent
 
-(313) Seeing the seven palms, the Lord embraced them, and the seven palms vanished, bodies and all.
+(313) Seeing the seven palms, the Lord embraced them, and they vanished in their very bodies.
 
 শূন্যস্থল দেখি’ লোকের হৈল চমৎকার ৷  
 লোকে কহে, এ সন্ন্যাসী — রাম-অবতার ॥ ৩১৪ ॥
@@ -3468,7 +3468,7 @@ by which  road  before  the Lord  had made  His coming
 sei pathe calilā dekhi’ sarva vaiṣṇava-gaṇa  
 by that  road  He went  seeing  all  the Vaiṣṇavas
 
-(336) The Lord went back by the same road by which He had come, seeing all the Vaiṣṇavas along the way.
+(336) The Lord went back by the same road by which He had come, seeing all the Vaiṣṇavas along the way.[^44]
 
 যাঁহা যায়, লোক উঠে হরিধ্বনি করি’ ৷  
 দেখি’ আনন্দিত-মন হৈলা গৌরহরি ॥ ৩৩৭ ॥
@@ -3558,7 +3558,7 @@ in ecstatic love  Sārvabhauma  did  weeping
 sabā-saṅge āilā prabhu īśvara-daraśane  
 with everyone  came  the Lord  for darśana of the Lord
 
-(345) Sārvabhauma wept in ecstatic love, and the Lord went with them all to see the Lord, Jagannātha.
+(345) Sārvabhauma wept in ecstatic love, and the Lord went with them all to see Jagannātha.
 
 জগন্নাথ-দরশন প্রেমাবেশে কৈল ৷  
 কম্প-স্বেদ-পুলকাশ্রুতে শরীর ভাসিল ॥ ৩৪৬ ॥
@@ -3578,7 +3578,7 @@ much  dancing and singing  He did  absorbed in love  being
 pāṇḍā-pāla āila sabe mālā-prasāda lañā  
 the pāṇḍās and pālas  came  all  garlands and prasāda  bringing
 
-(347) Absorbed in love, He danced and sang at length, and all the temple servants, the *pāṇḍās* and *pālas*, came bringing garlands and *prasāda*.
+(347) Absorbed in love, He danced and sang at length, and all the temple servants, the *pāṇḍās* and *pālas*, came bringing garlands and *prasāda*.[^45]
 
 মালা-প্রসাদ পাঞা প্রভু সুস্থির হইলা ৷  
 জগন্নাথের সেবক সব আনন্দে মিলিলা ॥ ৩৪৮ ॥
@@ -3698,7 +3698,7 @@ endless  the pastimes of Caitanya  to tell  not  I know how
 lobhe lajjā khāñā, tāra kari ṭānāṭāni  
 out of greed  shame  swallowing  at them  I make  tugging
 
-(359) I do not know how to describe Caitanya’s endless pastimes; out of greed I have swallowed my shame and tugged at them.
+(359) I do not know how to describe Caitanya’s endless pastimes; yet out of greed I have cast off all shame and reach out for them.
 
 প্রভুর তীর্থযাত্রা-কথা শুনে যেই জন ৷  
 চৈতন্যচরণে পায় গাঢ় প্রেমধন ॥ ৩৬০ ॥
@@ -3728,7 +3728,7 @@ in this  Kali age  other  there is not  any  dharma
 vaiṣṇava, vaiṣṇava-śāstra, ei kahe marma  
 the Vaiṣṇavas  the Vaiṣṇava scriptures  this  declare  the heart of the matter
 
-(362) In this age of Kali there is no other *dharma*: this is the heart of the matter, as the Vaiṣṇavas and the Vaiṣṇava scriptures declare.
+(362) In this age of Kali there is no other *dharma*: this is the heart of the matter, as the Vaiṣṇavas and the Vaiṣṇava scriptures declare.[^46][^47]
 
 চৈতন্যচন্দ্রের লীলা — অগাধ, গম্ভীর ৷  
 প্রবেশ করিতে নারি, — স্পর্শি রহি’ তীর ॥ ৩৬৩ ॥
@@ -3845,3 +3845,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^41]: *Anubhāṣya*: only from Śrīla Mādhavendra Purī did love for Kṛṣṇa in the mood of separation (*vipralambha*), rooted in exclusive service to Śrī Rādhā, descend into the world: he is “the first sprout of the wish-fulfilling tree of devotion” (Ādi 9.10). Only one bound to him by ties dear to him has a claim to this love.
 
 [^42]: *Amṛta-pravāha-bhāṣya*: Śaṅkarāraṇya Svāmī was Mahāprabhu’s elder brother, Śrīmad Viśvarūpa; in his wanderings he attained perfection (*siddhi*) at Pāṇḍarapura, that is, he entered the spiritual abode.
+
+[^43]: The first line is the same as Madhya 1.120.
+
+[^44]: Heading in the edition: to show mercy to the devotees who had become Vaiṣṇavas, the Lord goes back by the same road.
+
+[^45]: *Amṛta-pravāha-bhāṣya*: the *pāṇḍās* perform the worship of Śrī Jagannātha, and the “*paśupālas*” render other services; from the two words together comes “*pāṇḍāpāla*”.
+
+[^46]: *Anubhāṣya*: the essence the Vaiṣṇavas and all the Vaiṣṇava scriptures convey is this: for a pure *jīva*, free from envy, the one eternal *dharma* in the age of Kali is to take shelter at Śrī Gaura’s feet and chant the holy name. The Vaiṣṇava is the experience of the wise (*vidvad-anubhava*), the Vaiṣṇava scripture is the evidence of revelation (*śabda-pramāṇa*); to follow both is to walk the path of *śrauta*.
+
+[^47]: *Amṛta-pravāha-bhāṣya*: apart from this there is no other *dharma* in the age of Kali; to serve the pure Vaiṣṇavas and read the scriptures of the pure Vaiṣṇavas is the one *dharma* of the *jīva*.

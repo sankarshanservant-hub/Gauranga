@@ -631,7 +631,7 @@ w: the rāsa  not  obtained  Lakṣmī  in the scriptures  this  I hear
 tr: The Lord said, “I know there is no fault in it. But I hear from the scriptures that Lakṣmī did not attain the rāsa dance.
 
 ## 121
-w: not  this  of Śrī  O  indeed  wholly attached  favor
+w: not  this  of Śrī  on the chest  indeed  wholly attached  favor
 w: of the celestial women  of lotuses  the fragrance  having the luster  how then  others
 w: at the festival of rāsa  His  by the arms  embraced  around the neck
 w: who obtained their desire  which  arose  of Vraja  the beautiful women
@@ -1633,9 +1633,10 @@ w: he  knows  who  the ‘Karṇāmṛta’  reads  constantly
 tr: Only one who constantly reads the *Karṇāmṛta* knows the furthest limit of Kṛṣṇa’s beauty, sweetness and pastimes.
 
 ## 309
-w: the ‘Brahma-saṁhitā’  the ‘Karṇāmṛta’  two  manuscripts  finding
+w: the Brahma-saṁhitā  the Karṇāmṛta  two  manuscripts  finding
 w: great  care  taking  the manuscripts  He came  bringing
-tr: Having obtained the two manuscripts, the *Brahma-saṁhitā* and the *Karṇāmṛta*, He brought them back with great care.
+tr: He found two manuscripts, the *Brahma-saṁhitā* and the *Karṇāmṛta*, and brought them back with great care.
+fn: The first line is the same as Madhya 1.120.
 
 ## 310
 w: in the Tāpī  a bath  taking  He came  to Māhiṣmatīpura
@@ -1655,7 +1656,7 @@ tr: In the forest He saw the “seven palm trees” — very old, very thick and
 ## 313
 w: the seven palms  seeing  the Lord  an embrace  made
 w: in their bodies  the seven palms  disappearance  underwent
-tr: Seeing the seven palms, the Lord embraced them, and the seven palms vanished, bodies and all.
+tr: Seeing the seven palms, the Lord embraced them, and they vanished in their very bodies.
 
 ## 314
 w: the empty place  seeing  of the people  arose  amazement
@@ -1771,6 +1772,7 @@ tr: Then Mahāprabhu told him to come later, and the Lord set out joyfully for N
 w: by which  road  before  the Lord  had made  His coming
 w: by that  road  He went  seeing  all  the Vaiṣṇavas
 tr: The Lord went back by the same road by which He had come, seeing all the Vaiṣṇavas along the way.
+fn: Heading in the edition: to show mercy to the devotees who had become Vaiṣṇavas, the Lord goes back by the same road.
 
 ## 337
 w: wherever  He goes  the people  rise  the sound of ‘Hari’  making
@@ -1815,7 +1817,7 @@ tr: Sārvabhauma fell at Mahāprabhu’s feet, and the Lord raised him and embra
 ## 345
 w: in ecstatic love  Sārvabhauma  did  weeping
 w: with everyone  came  the Lord  for darśana of the Lord
-tr: Sārvabhauma wept in ecstatic love, and the Lord went with them all to see the Lord, Jagannātha.
+tr: Sārvabhauma wept in ecstatic love, and the Lord went with them all to see Jagannātha.
 
 ## 346
 w: Jagannātha’s darśana  in ecstatic love  He had
@@ -1826,6 +1828,7 @@ tr: In ecstatic love He had *darśana* of Jagannātha, and His body was flooded 
 w: much  dancing and singing  He did  absorbed in love  being
 w: the pāṇḍās and pālas  came  all  garlands and prasāda  bringing
 tr: Absorbed in love, He danced and sang at length, and all the temple servants, the *pāṇḍās* and *pālas*, came bringing garlands and *prasāda*.
+fn: *Amṛta-pravāha-bhāṣya*: the *pāṇḍās* perform the worship of Śrī Jagannātha, and the “*paśupālas*” render other services; from the two words together comes “*pāṇḍāpāla*”.
 
 ## 348
 w: garlands and prasāda  receiving  the Lord  composed  became
@@ -1885,7 +1888,7 @@ tr: Thus I conclude the story of the pilgrimage. I have told it in brief; it can
 ## 359
 w: endless  the pastimes of Caitanya  to tell  not  I know how
 w: out of greed  shame  swallowing  at them  I make  tugging
-tr: I do not know how to describe Caitanya’s endless pastimes; out of greed I have swallowed my shame and tugged at them.
+tr: I do not know how to describe Caitanya’s endless pastimes; yet out of greed I have cast off all shame and reach out for them.
 
 ## 360
 w: the Lord’s  story of the pilgrimage  hears  who  person
@@ -1901,6 +1904,8 @@ tr: Hear the deeds of Caitanya with faith and devotion; give up envy and say wit
 w: in this  Kali age  other  there is not  any  dharma
 w: the Vaiṣṇavas  the Vaiṣṇava scriptures  this  declare  the heart of the matter
 tr: In this age of Kali there is no other *dharma*: this is the heart of the matter, as the Vaiṣṇavas and the Vaiṣṇava scriptures declare.
+fn: *Anubhāṣya*: the essence the Vaiṣṇavas and all the Vaiṣṇava scriptures convey is this: for a pure *jīva*, free from envy, the one eternal *dharma* in the age of Kali is to take shelter at Śrī Gaura’s feet and chant the holy name. The Vaiṣṇava is the experience of the wise (*vidvad-anubhava*), the Vaiṣṇava scripture is the evidence of revelation (*śabda-pramāṇa*); to follow both is to walk the path of *śrauta*.
+fn: *Amṛta-pravāha-bhāṣya*: apart from this there is no other *dharma* in the age of Kali; to serve the pure Vaiṣṇavas and read the scriptures of the pure Vaiṣṇavas is the one *dharma* of the *jīva*.
 
 ## 363
 w: of Caitanya-candra  the pastimes  fathomless  deep
