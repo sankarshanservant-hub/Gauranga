@@ -68,6 +68,18 @@ In the Dvāpara-yuga the cowherds of Vraja used to worship Indra. Śrī Kṛṣ�
 
 ***Kṣīra*** — *paramānna*.
 
+## 146
+
+The fame created by the Creator (*vidhātā*) comes precisely to one who does good without desiring fame. But one who does good deeds in the hope of fame does not attain fame — this is the secret of fame.
+
+## 151–152
+
+***Karpūra*** — *śrī-karpūra*, with which *ārātrika* is performed for Śrī Jagannāthadeva. The servants of Jagannātha obtained this *śrī-karpūra* and *malayaja* sandalwood from the king's officers. They sent one brāhmaṇa and one servant with Purī Gosāñi, and gave them money for the journey.
+
+## 153
+
+***Ghāṭī*** — the *ghāṭoyāls*, who collect the road tolls. ***Dānī*** — those who take the fare for crossing a river. So that all of these would let him pass — that is, so that Purī Gosāñi could go on without paying them — a royal letter (*rāja-lekhā*), that is, a *paravānā*, was placed in his hand through the king's officer.
+
 ---
 
 [^0-1]: So in the edition: Mādhava Purī is the same person as Mādhavendra Purī.

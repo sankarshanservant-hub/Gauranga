@@ -284,7 +284,7 @@ See Ādi 3.86–89.
 
 ## 109
 
-> Subheading: On his way to Purī, Purī comes to Gauḍa —
+> Subheading: On the way to Purī, Purī Gosāñi comes to Gauḍa —
 
 ## 110
 
@@ -349,6 +349,108 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 ## 125
 
 > Subheading: Solitary *kīrtana* in seclusion —
+
+## 126
+
+> Subheading: In a dream Gopīnātha orders the priest to give Purī the stolen *kṣīra* —
+
+## 127
+
+***Kāraṇa*** — for the sake of.
+
+## 128
+
+***Dhaḍā*** — cloth. ***Eka*** — one full pot.
+
+## 130
+
+> Subheading: The priest wakes up and finds the *kṣīra* stolen by Gopīnātha —
+
+## 132
+
+> Subheading: *Kṣīra* in hand, the priest searches for Mādhavendra —
+
+***Bule*** — wanders about, goes around.
+
+## 135
+
+> Subheading: Purī makes himself known, and the priest bows to him with reverence —
+
+***Daṇḍavat*** — fallen flat like a rod.
+
+## 136
+
+> Subheading: Hearing from the priest of Gopīnātha's theft, Purī is filled with love —
+
+## 137
+
+> Subheading: The priest understands that Purī is a devotee who has conquered Kṛṣṇa —
+
+***Yathocita*** — fitting, deserved.
+
+## 138
+
+> Subheading: Purī honors the *kṣīra-prasāda* not to gratify his own senses —
+
+## 139
+
+***Ṭhikāri*** — potsherds, fragments.
+
+## 141
+
+> Subheading: Purī fears fame —
+
+## 142
+
+> Subheading: Purī sets out for Purī-dhāma —
+
+## 143
+
+> Subheading: Purī's love on seeing Jagannātha in Purī-dhāma —
+
+## 145
+
+> Subheading: News of Purī's arrival spreads everywhere —
+
+## 146
+
+> Subheading: Though Purī did not want fame, fame came to him —
+
+## 146–147
+
+Many conditioned souls are envious (*matsara*) by nature. Against anyone who gains a good name, the envious are by nature inclined to act. Therefore one who craves fame (*pratiṣṭhā*) usually meets with ill will from spiteful people instead of fame. But those who out of humility do not desire fame are encouraged by the society of the envious, who think them quite incapable and wretched (*dīna*) and pity them — and so bring them fame. Vaiṣṇavas in the material world do not beg for such fame. So as not to gain worldly fame, Śrī Mādhavendra, the king of Vaiṣṇavas, tried to hide from people's eyes the incident that showed how dear he was to Bhagavān. But seeing his other displays of love for Kṛṣṇa, all the people of the world say that it is a sign of Śrī Bhagavān's eagerness and care for His own devotee (*tadīya-bhakta*). In truth the highest fame rightly belongs to Śrī Purīpāda. But some imitate him: they hide behind the walls of his mood, put on a false humility, and pretend that they have nothing to do with fame. It is impossible for them to become established in the humility that befits a Vaiṣṇava.
+
+## 148
+
+> Subheading: Though unwilling to stay where he is honored, Purī remains for the sake of the Lord's service —
+
+Śrī Mādhavendra Purī, wishing to escape the grip of fame, began to look for a way to flee from Purī. Yet the service of Gopāla — gathering sandalwood — became the cause of his bondage and kept him in Nīlācala, beset with fame.
+
+## 149
+
+> Subheading: Purī tells the servants of Jagannātha what Gopāla desires —
+
+## 150
+
+> Subheading: The devotees make every effort to gather sandalwood —
+
+## 152
+
+> Subheading: Purī is sent off with the sandalwood and helpers —
+
+***Sambala*** — money for the journey.
+
+## 153
+
+> Subheading: He is given a pass so that he can travel without hindrance —
+
+## 154
+
+> Subheading: Purī arrives in Remuṇā, has *darśana* of Gopīnātha, dances and sings —
+
+## 157
+
+> Subheading: In a dream Gopāla tells Purī to smear the body of Gopīnātha with sandalwood —
 
 ---
 
