@@ -494,7 +494,7 @@ tr: The qualities of each preceding *rasa* are present in the one that follows; 
 ## 86
 w: with more qualities  more taste  grows  in each rasa
 w: of śānta  dāsya  sakhya  vātsalya  the qualities  in mādhurya  dwell
-tr: As the qualities increase, the taste increases in each *rasa*; and the qualities of *śānta*, *dāsya*, *sakhya* and *vātsalya* all dwell in *mādhurya*.
+tr: As the qualities increase, the taste increases in each *rasa*; and the qualities of *śānta*, *dāsya*, *sakhya* and *vātsalya* all dwell in *madhura*.
 
 ## 87
 w: of ether and the rest  the qualities  as  in each following  element
@@ -504,7 +504,7 @@ tr: It is as with the qualities of ether and the other elements: in each followi
 ## 88
 w: complete  of Kṛṣṇa  attainment  from this  prema
 w: of this  prema  under the control  Kṛṣṇa  says  in the Bhāgavata
-tr: Kṛṣṇa is attained completely through this *prema*. Kṛṣṇa is under the control of this *prema* — so the Bhāgavata says:
+tr: Kṛṣṇa is attained completely through this *prema*. Kṛṣṇa is under the control of this *prema*, as the *Bhāgavata* says:
 
 ## 89
 w: to Me  devotion  indeed  of beings
@@ -512,16 +512,18 @@ w: for immortality  is fit
 w: by good fortune  which  arose  for Me  the love
 w: of you  bringing Me
 tr: “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)
+fn: The same verse as Ādi 4.23; translation as there. Kṛṣṇa’s words to the gopīs at Kurukṣetra.
 
 ## 90
 w: Kṛṣṇa’s  promise  firm  at all times  is
 w: who  as  worships  Kṛṣṇa  him  reciprocates  so
 tr: Kṛṣṇa has a firm promise that holds for all time: as one worships Him, so does He reciprocate.
+fn: Compare Ādi 4.177 (the second line is the same).
 
 ## 91
 w: this  of prema  in equal measure  not  He can  reciprocate
 w: therefore  a debtor  He becomes  says  the Bhāgavata
-tr: But He cannot reciprocate this *prema* in equal measure, and so He becomes a debtor — so the Bhāgavata says:
+tr: But He cannot reciprocate this *prema* in equal measure, and so He becomes a debtor, as the *Bhāgavata* says:
 
 ## 92
 w: not  am able  I  of the faultlessly united
@@ -529,6 +531,7 @@ w: own good deed  in a god’s lifetime  even  to you
 w: who  Me  worshipped  hard to conquer  of home  the fetters
 w: completely cutting  that  your  let it be requited  by the good deed
 tr: “O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.” (Śrīmad-Bhāgavatam, 10.32.22)
+fn: The same verse as Ādi 4.180; translation as there.
 
 ## 93
 w: although  Kṛṣṇa’s  beauty  of sweetness  the summit
@@ -555,7 +558,7 @@ tr: Rāya said, “Until now I did not know that there was anyone in the world w
 ## 97
 w: among these  Rādhā’s  love  the crest-jewel of goals
 w: whose  glory  in all the scriptures  is praised
-tr: Among these (forms of love), Rādhā’s love is the crest-jewel of all goals; its glory is proclaimed in all the scriptures.
+tr: Among them all, Rādhā’s love is the crest-jewel of all goals; its glory is proclaimed in all the scriptures.
 
 ## 98
 w: as  Rādhā  dear  to Viṣṇu
@@ -563,6 +566,7 @@ w: Her  pond  dear  so
 w: among all gopīs  She alone
 w: of Viṣṇu  most  beloved
 tr: “As Rādhā is dear to Viṣṇu, so is Her pond dear to Him; among all the gopīs She alone is His most beloved.” (Padma Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 45)
+fn: The same verse as Ādi 4.215; translation as there. The edition gives the source as *Laghu-bhāgavatāmṛta* (2.45), the words of the *Padma Purāṇa*.
 
 ## 99
 w: by Her  worshipped  surely
@@ -570,6 +574,7 @@ w: Bhagavān  Hari  the Lord
 w: since  us  leaving  Govinda
 w: pleased  whom  led  to a secret place
 tr: “Surely the Lord, Bhagavān Hari, has been worshipped by Her, for Govinda, pleased, has left us and led Her away to a secluded place.” (Śrīmad-Bhāgavatam, 10.30.28)
+fn: The same verse as Ādi 4.88; translation as there. *Anubhāṣya*: here the *Bhāgavata* hints at the name of Śrī Rādhā.
 
 ## 100
 w: the Lord  said  further  speak  hearing  I obtain  joy
@@ -602,6 +607,7 @@ w: by the desire  bound  the chain
 w: Rādhā  placing  in the heart
 w: left  of Vraja  the beauties
 tr: “Placing Rādhā in His heart — the chain that bound His desire for the very essence of the *rāsa* — Kṛṣṇa, the enemy of Kaṁsa, left the other beauties of Vraja.” (Gīta-govinda, 3.1)
+fn: The same verse as Ādi 4.219; translation as there.
 
 ## 106
 w: here  there  Her  searching for  Rādhikā
@@ -609,6 +615,7 @@ w: of Ananga  by the arrows  by the wounds  wearied  in mind
 w: filled with remorse  He  of Kalinda’s daughter (the Yamunā)
 w: on the edge of the bank  in a grove  sank in despair  Mādhava
 tr: “Searching here and there for Rādhikā, His mind wearied by the wounds of Ananga’s arrows and filled with remorse, Mādhava sank down in despair in a grove on the edge of the Yamunā’s bank.” (Gīta-govinda, 3.2)
+fn: *Anubhāṣya*: Mādhava’s mind was wounded by the arrows of Kāma, and He grieved over what He had done — His neglect of Rādhikā; searching for Her everywhere, He sank into despair in a grove at the edge of the Yamunā’s bank.
 
 ## 107
 w: of these  two verses  the meaning  if one considers  we know
@@ -624,6 +631,7 @@ tr: In the *rāsa* pastime with hundreds of millions of gopīs, He stays at Rād
 w: in ordinary  love  we see  everywhere  equality
 w: in Rādhā’s  crooked  love  arose  contrariness
 tr: In ordinary love one sees equality everywhere; but in Rādhā’s crooked love there arose contrariness (*vāmatā*).
+fn: *Amṛta-pravāha-bhāṣya*: in the circle of the *rāsa* there was one form of Kṛṣṇa between every two gopīs, and one form of Kṛṣṇa beside Rādhikā; in this Rādhikā showed the contrariness (*vāmatā*) of Her crooked love.
 
 ## 110
 w: of a snake  like  the movement  of love
@@ -666,6 +674,7 @@ tr: The Lord said, “All the truths for which I came to you have now become kno
 w: now  I have known  of the One to be served  of the means  the determination
 w: further  more  there is  something  to hear  the desire  is
 tr: Now I know who is to be served and by what means. Yet there is something more beyond, and I wish to hear it.
+fn: Variant reading: the Gauḍīya Maṭha edition reads *sevya-sādhana-nirṇaya* (“the ascertainment of the One to be served and of the means”); another reading, noted by the *Anubhāṣya*, is *sādhya-sādhana-nirṇaya* (“of the goal and the means”).
 
 ## 118
 w: Kṛṣṇa’s  nature  tell  Rādhā’s  nature
@@ -731,6 +740,7 @@ tr: Rāya was full of *prema*, a great devotee; Kṛṣṇa’s *māyā* could n
 w: still  of the Lord  the will  supremely  powerful
 w: though he knew  Rāya’s  mind  became  unsteady
 tr: Yet the Lord’s will is supremely powerful, and, though he knew the truth, Rāya’s mind began to waver.
+fn: Heading of the edition: the servant moves by the power of the Lord’s will, and this is not bondage to māyā — it shows the sway of the Lord’s will and Rāmānanda’s surrender.
 
 ## 131
 w: Rāya  said  I  a dancer  You  the puppeteer
@@ -763,11 +773,13 @@ w: of being  knowledge  bliss  whose form
 w: without beginning  the beginning  Govinda
 w: of all  causes  the cause
 tr: “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)
+fn: The same verse as Ādi 2.107; translation as there.
 
 ## 137
 w: in Vṛndāvana  transcendental  ever-new  Madana (Cupid)
 w: by the Kāma-gāyatrī  with the Kāma-bīja  whose  worship
 tr: In Vṛndāvana He is the transcendental, ever-new Madana, worshipped with the Kāma-gāyatrī and the Kāma-bīja.
+fn: *Anubhāṣya*: kāma exists both in the material world and in the spiritual. Material kāma is subject to time: it flares for a moment, then fades and dies. But the transcendental Madana, served by spiritual senses, is Kṛṣṇacandra, Manmatha-manmatha (the enchanter of the god of love Himself): He is ever new. The Kāma-gāyatrī and the Kāma-bīja are transcendental, and so is the worship offered with them.
 
 ## 138
 w: men  women  or  the unmoving and the moving
@@ -780,6 +792,7 @@ w: smiling  lotus-faced
 w: yellow garments  wearing  garlanded
 w: directly  of Cupid  the enchanter
 tr: “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)
+fn: The same verse as Ādi 5.214 (= 81); translation as there.
 
 ## 140
 w: of various  devotees  the nectar of rasa  of various kinds  is
@@ -792,6 +805,7 @@ w: by His spreading  radiance  who has subdued  Tārakā  Pāli
 w: who has made His own  Śyāmā  Lalitā
 w: to Rādhā  most dear  the moon  may He be glorious
 tr: “Glory to the Moon, the embodiment of the nectar of all *rasas*, who with His spreading radiance has subdued Tārakā and Pāli, who has won Śyāmā and Lalitā, and who is dearest to Rādhā!” (Bhakti-rasāmṛta-sindhu, 1.1.1)
+fn: *Anubhāṣya*: His form is the nectar that holds all *rasas*, the five principal and the seven secondary; with His spreading radiance He subdued the friends Tārakā and Pāli, won Śyāmā and Lalitā as His own, and is dearest of all to Rādhā. The verse calls Kṛṣṇa the moon (*vidhu*), which outshines the stars (*tārakā*).
 
 ## 142
 w: of śṛṅgāra  the king of rasas  made of  a form  bearing
@@ -804,6 +818,7 @@ w: a row  dark  tender  bringing  with His limbs  a festival of Ananga
 w: freely  by the Vraja beauties  all around  limb by limb  embraced
 w: śṛṅgāra  O friend  embodied  as it were  in spring  enchanted  Hari  sports
 tr: “O friend, see how Hari sports in spring! Delighting all and giving them bliss, with limbs dark and tender as a row of blue lotuses He brings a festival to the god of love; freely embraced on every side by the beauties of Vraja, He is, as it were, *śṛṅgāra* embodied, enchanted Himself.” (Gīta-govinda, 1.11)
+fn: The same verse as Ādi 4.224; translation as there.
 
 ## 144
 w: of Lakṣmī’s Lord and other  avatāras  He steals  the mind
@@ -815,7 +830,8 @@ w: the brāhmaṇa’s sons  by Me  you two  wishing to see
 w: by Me  were brought  on earth  of dharma  for the protection
 w: with My portions descended  of the earth  the burden  the asuras
 w: having slain  here  again  hurry back  near  Me
-tr: “I brought the brāhmaṇa’s sons here because I wished to see you two, who have descended to earth as My portions for the protection of *dharma*. When you have slain the *asuras*, the burden of the earth, hurry back to Me here.” (Śrīmad-Bhāgavatam, 10.89.58)
+tr: “I brought the brāhmaṇa’s sons here because I wished to see you two, who have descended to earth with all your potencies for the protection of *dharma*. When you have slain the *asuras*, the burden of the earth, hurry back to Me here.” (Śrīmad-Bhāgavatam, 10.89.58)
+fn: *Anubhāṣya*: Arjuna had vowed to save a brāhmaṇa’s son from untimely death, but failed. Then Śrī Kṛṣṇa took him along, passed with the Sudarśana disc through the darkness beyond the universe, and in Mahākālapura, amid the great waters, they saw Śeṣaśāyī reclining on Ananta. He spoke these words to them; “descended with all portions” — with all potencies.
 
 ## 146
 w: of what  merit  his  not  O Lord  we know
@@ -823,6 +839,7 @@ w: of Your  feet  of the dust  of the touch  the right
 w: for which  longing  Śrī  the best of women  performed  austerity
 w: giving up  desires  for a very long time  holding vows
 tr: “O Lord, we do not know by what merit he has earned the right to touch the dust of Your feet — that dust for which Śrī, the best of women, longing for it, gave up all desires and practised austerities for so long, keeping her vows.” (Śrīmad-Bhāgavatam, 10.16.36)
+fn: *Anubhāṣya*: the words of the wives of the serpent Kāliya, when Kṛṣṇa, breaking his hoods with the blows of His feet, had left him senseless.
 
 ## 147
 w: by His own  sweetness  He steals  His own  mind
@@ -835,6 +852,7 @@ w: appears  My  greater  this  of sweetness  flood
 w: this  I  even  alas  seeing  which  with greedy heart
 w: eagerly  to enjoy  I desire  like Rādhikā
 tr: “What wondrous flood of My sweetness, never known before and surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)
+fn: The same verse as Ādi 4.146; translation as there.
 
 ## 149
 w: thus  indeed  in brief  I have told  Kṛṣṇa’s  nature
@@ -853,10 +871,11 @@ tr: They are called the internal, the external and the marginal; the internal, H
 
 ## 152
 w: Viṣṇu’s potency  superior  is declared
-w: called the knower of the field  likewise  superior
+w: called the knower of the field  likewise superior
 w: called ignorance and karma  another
 w: a third  potency  is held to be
 tr: “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
+fn: The same verse as Ādi 7.119 and Madhya 6.154; translation as there.
 
 ## 153
 w: of being  knowledge  bliss  made  Kṛṣṇa’s  nature
@@ -867,13 +886,15 @@ tr: Kṛṣṇa’s nature is made of eternal being, knowledge and bliss; theref
 w: in the aspect of bliss  hlādinī  in the aspect of being  sandhinī
 w: in the aspect of consciousness  samvit  which  as knowledge  making  we regard
 tr: In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we know as knowledge.
+fn: The same verse as Ādi 4.62; translation as there.
 
 ## 155
 w: hlādinī  sandhinī  samvit
 w: in You  one  of all  the shelter
 w: of joy  of pain  causing  mixed
 w: in You  not  of the guṇas  devoid
-tr: “O Lord, You are the shelter of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the *guṇas*.” (Viṣṇu Purāṇa, 1.12.69)
+tr: “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)
+fn: The same verse as Madhya 6.157 (Ādi 4.63 with the reading *sarva-saṁśraye*, “the shelter of all”; Ādi 4.63 reads *sarva-saṁsthitau*, “the basis of all”; the sense is the same); translation as there.
 
 ## 156
 w: Kṛṣṇa  she gladdens  therefore  the name  hlādinī
