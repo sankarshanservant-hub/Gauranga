@@ -43,3 +43,16 @@
 | sevya-sādhana-nirṇaya | who is to be served and by what means | 8.117 (GM reading; VCD followed *sādhya-sādhana*) |
 | svarūpa | true nature | 8.118 |
 | śuka-pāṭha | a parrot reciting its lesson | 8.121 |
+| guru (8.127) | a guru | 8.127: “whoever knows the truth of Kṛṣṇa is a guru” — as quoted in the EN *Anubhāṣya* to Madhya 4.111; *Anubhāṣya*: both *dīkṣā-* and *śikṣā-guru* |
+| sūtra-dhāra (here) | the master of the stage | 8.131 (*naṭa* — dancer) |
+| sarva-kāraṇa-pradhāna | the foremost cause of all causes | 8.133 |
+| aprākṛta navīna madana | the transcendental, ever-new Madana | 8.137 (APB: not the mundane *kāma*) |
+| Kāma-gāyatrī, Kāma-bīja | the Kāma-gāyatrī and the Kāma-bīja | 8.137 |
+| manmatha-madana / manmatha-manmatha | the very enchanter of Cupid | 8.138–139 |
+| viṣaya, āśraya (of rasa) | the object (*viṣaya*), the abode (*āśraya*) | 8.140 (APB: Kṛṣṇa — *viṣaya*, devotee — *āśraya*) |
+| akhila-rasāmṛta-mūrti | the embodiment of the nectar of all *rasas* | 8.141 |
+| śṛṅgāra-rasarāja | *śṛṅgāra*, the king of *rasas* | 8.142 |
+| Lakṣmīkānta | the Lord of Lakṣmī | 8.144 |
+| cit-śakti, māyā-śakti, jīva-śakti | the spiritual potency (*cit-śakti*), the potency of *māyā*, the potency of the *jīvas* | 8.150 |
+| antaraṅgā, bahiraṅgā, taṭasthā | internal, external, marginal | 8.151 |
+| svarūpa-śakti | His own potency (*svarūpa-śakti*) | 8.151, 8.153 |
