@@ -2081,6 +2081,484 @@ a great offence  I committed  proud  being
 
 (200) “He is Kṛṣṇa Himself, and I, not knowing it, have committed a great offence in my pride.”
 
+আত্মনিন্দা করি’ লৈল প্রভুর শরণ ৷  
+কৃপা করিবারে তবে প্রভুর হৈল মন ॥ ২০১ ॥
+
+ātma-nindā kari’ laila prabhura śaraṇa  
+self-reproach  making  he took  of the Lord  shelter  
+kṛpā karibāre tabe prabhura haila mana  
+mercy  to show  then  of the Lord  arose  the mind
+
+(201) Reproaching himself, he took shelter of the Lord, and the Lord then resolved to show him mercy.
+
+নিজ-রূপ প্রভু তাঁরে করাইল দর্শন ৷  
+চতুর্ভুজ-রূপ প্রভু হইলা তখন ॥ ২০২ ॥
+
+nija-rūpa prabhu tām̐re karāila darśana  
+His own form  the Lord  to him  caused  to see  
+catur-bhuja-rūpa prabhu hailā takhana  
+four-armed in form  the Lord  became  then
+
+(202) The Lord showed him His own form: He became four-armed.
+
+দেখাইল তাঁরে আগে চতুর্ভুজ-রূপ ৷  
+পাছে শ্যাম-বংশীমুখ স্বকীয় স্বরূপ ॥ ২০৩ ॥
+
+dekhāila tām̐re āge catur-bhuja-rūpa  
+He showed  to him  first  the four-armed form  
+pāche śyāma-vaṁśī-mukha svakīya svarūpa  
+then  dark  with the flute at the lips  His very own  form
+
+(203) First He showed him the four-armed form, and then His very own form — dark, with the flute at His lips.[^80]
+
+দেখি’ সার্ব্বভৌম দণ্ডবৎ করি’ পড়ি’ ৷  
+পুনঃ উঠি’ স্তুতি করে দুই কর যুড়ি’ ॥ ২০৪ ॥
+
+dekhi’ sārvabhauma daṇḍavat kari’ paḍi’  
+seeing  Sārvabhauma  obeisance  making  falling down  
+punaḥ uṭhi’ stuti kare dui kara yuḍi’  
+again  rising  prayers  he offers  two  hands  joining
+
+(204) Seeing this, Sārvabhauma fell down flat in obeisance; then he rose and, with folded hands, offered prayers.
+
+প্রভুর কৃপায় তাঁর স্ফুরিল সব তত্ত্ব ৷  
+নাম-প্রেমদান-আদি বর্ণেন মহত্ত্ব ॥ ২০৫ ॥
+
+prabhura kṛpāya tām̐ra sphurila saba tattva  
+by the Lord’s  mercy  to him  were revealed  all  truths  
+nāma-prema-dāna-ādi varṇena mahattva  
+of the holy name  of love  the giving  and so on  he describes  the greatness
+
+(205) By the Lord’s mercy all truths were revealed to him, and he described the greatness of the holy name, of the gift of love and the rest.
+
+শত শ্লোক কৈল এক দণ্ড না যাইতে ৷  
+বৃহস্পতি তৈছে শ্লোক না পারে করিতে ॥ ২০৬ ॥
+
+śata śloka kaila eka daṇḍa nā yāite  
+a hundred  verses  he composed  one  daṇḍa  not  passing  
+bṛhaspati taiche śloka nā pāre karite  
+Bṛhaspati  such  verses  not  can  compose
+
+(206) Within a single *daṇḍa* (twenty-four minutes) he composed a hundred verses — verses such as even Bṛhaspati could not compose.[^81]
+
+শুনি’ সুখে প্রভু তাঁরে কৈল আলিঙ্গন ৷  
+ভট্টাচার্য্য প্রেমাবেশে হৈল অচেতন ॥ ২০৭ ॥
+
+śuni’ sukhe prabhu tām̐re kaila āliṅgana  
+hearing  with joy  the Lord  him  made  an embrace  
+bhaṭṭācārya premāveśe haila acetana  
+the Bhaṭṭācārya  in the rapture of love  became  unconscious
+
+(207) Hearing them, the Lord joyfully embraced him, and the Bhaṭṭācārya, overwhelmed by love, lost consciousness.
+
+অশ্রু, স্তম্ভ, পুলক, স্বেদ, কম্প থরহরি ৷  
+নাচে, গায়, কান্দে, পড়ে প্রভু-পদ ধরি’ ॥ ২০৮ ॥
+
+aśru, stambha, pulaka, sveda, kampa tharahari  
+tears  stupor  thrill  sweat  trembling  violent  
+nāce, gāya, kānde, paḍe prabhu-pada dhari’  
+he dances  sings  weeps  falls  the Lord’s feet  clasping
+
+(208) Tears, stupor, thrill, sweat and violent trembling came over him. He danced, sang and wept, and fell down clasping the Lord’s feet.
+
+দেখি’ গোপীনাথাচার্য্য হরষিত-মন ৷  
+ভট্টাচার্য্যের নৃত্য দেখি’ হাসে প্রভুর গণ ॥ ২০৯ ॥
+
+dekhi’ gopīnāthācārya haraṣita-mana  
+seeing  Gopīnāthācārya  delighted at heart  
+bhaṭṭācāryera nṛtya dekhi’ hāse prabhura gaṇa  
+the Bhaṭṭācārya’s  dance  seeing  laugh  the Lord’s  companions
+
+(209) Seeing this, Gopīnāthācārya was delighted at heart, and the Lord’s companions laughed to see the Bhaṭṭācārya dance.
+
+গোপীনাথাচার্য্য কহে মহাপ্রভুর প্রতি ৷  
+সেই ভট্টাচার্য্যের তুমি কৈলে এই গতি ॥ ২১০ ॥
+
+gopīnāthācārya kahe mahāprabhura prati  
+Gopīnāthācārya  says  Mahāprabhu  to  
+sei bhaṭṭācāryera tumi kaile ei gati  
+that very  Bhaṭṭācārya’s  You  have made  this  state
+
+(210) Gopīnāthācārya said to Mahāprabhu, “It is that very Bhaṭṭācārya whom You have brought to such a state!”
+
+প্রভু কহে, — তুমি ভক্ত, তোমার সঙ্গ হৈতে ৷  
+জগন্নাথ ইঁহারে কৃপা কৈল ভালমতে ॥ ২১১ ॥
+
+prabhu kahe, — tumi bhakta, tomāra saṅga haite  
+the Lord  says  you  a devotee  your  association  from  
+jagannātha im̐hāre kṛpā kaila bhāla-mate  
+Jagannātha  to him  mercy  showed  fully
+
+(211) The Lord said, “You are a devotee, and through association with you Jagannātha has shown him full mercy.”
+
+তবে ভট্টাচার্য্যে প্রভু সুস্থির করিল ৷  
+স্থির হঞা ভট্টাচার্য্য বহু স্তুতি কৈল ॥ ২১২ ॥
+
+tabe bhaṭṭācārye prabhu susthira karila  
+then  the Bhaṭṭācārya  the Lord  calm  made  
+sthira hañā bhaṭṭācārya bahu stuti kaila  
+calm  becoming  the Bhaṭṭācārya  many  prayers  made
+
+(212) Then the Lord calmed the Bhaṭṭācārya, and once composed, he offered many prayers.
+
+জগৎ নিস্তারিলে তুমি, — সেহ অল্পকার্য্য ৷  
+আমা উদ্ধারিলে তুমি, — এ শক্তি আশ্চর্য্য ॥ ২১৩ ॥
+
+jagat nistārile tumi, — seha alpa-kārya  
+the world  have delivered  You  that  a small deed  
+āmā uddhārile tumi, — e śakti āścarya  
+me  have delivered  You  this  power  wonderful
+
+(213) “That You have delivered the world is a small deed; that You have delivered me — that is a wondrous power!
+
+তর্ক-শাস্ত্রে জড় আমি, যৈছে লৌহপিণ্ড ৷  
+আমা দ্রবাইলে তুমি, প্রতাপ প্রচণ্ড ॥ ২১৪ ॥
+
+tarka-śāstre jaḍa āmi, yaiche lauha-piṇḍa  
+by logic  dulled  I  like  a lump of iron  
+āmā dravāile tumi, pratāpa pracaṇḍa  
+me  have melted  You  power  mighty
+
+(214) Logic had made me as hard and dull as a lump of iron, yet You have melted me — mighty is Your power!”
+
+স্তুতি শুনি’ মহাপ্রভু নিজ-বাসা আইলা ৷  
+ভট্টাচার্য্য আচার্য্য-দ্বারে ভিক্ষা করাইলা ॥ ২১৫ ॥
+
+stuti śuni’ mahāprabhu nija-vāsā āilā  
+the prayers  hearing  Mahāprabhu  to His own lodging  came  
+bhaṭṭācārya ācārya-dvāre bhikṣā karāilā  
+the Bhaṭṭācārya  through the Ācārya  a meal  arranged
+
+(215) Having heard these prayers, Mahāprabhu returned to His lodging, and the Bhaṭṭācārya had a meal served to Him through Gopīnāthācārya.
+
+আর দিন প্রভু গেলা জগন্নাথ-দরশনে ৷  
+দর্শন করিলা জগন্নাথ-শয্যোত্থানে ॥ ২১৬ ॥
+
+āra dina prabhu gelā jagannātha-daraśane  
+the next  day  the Lord  went  to see Jagannātha  
+darśana karilā jagannātha-śayyotthāne  
+darśana  He had  at Jagannātha’s rising from bed
+
+(216) The next day the Lord went to see Jagannātha and had *darśana* of Him as He rose from His bed.
+
+পূজারী আনিয়া মালা-প্রসাদান্ন দিলা ৷  
+প্রসাদান্ন-মালা পাঞা প্রভু হর্ষ হৈলা ॥ ২১৭ ॥
+
+pūjārī āniyā mālā-prasādānna dilā  
+the pūjārī  bringing  garland and prasāda  gave  
+prasādānna-mālā pāñā prabhu harṣa hailā  
+the prasāda and garland  receiving  the Lord  joyful  became
+
+(217) The pūjārī brought Him a garland and prasāda, and receiving them, the Lord was delighted.
+
+সেই প্রসাদান্ন-মালা অঞ্চলে বান্ধিয়া ৷  
+ভট্টাচার্য্যের ঘরে আইলা ত্বরাযুক্ত হঞা ॥ ২১৮ ॥
+
+sei prasādānna-mālā añcale bāndhiyā  
+that  prasāda and garland  in the end of His cloth  tying  
+bhaṭṭācāryera ghare āilā tvarāyukta hañā  
+the Bhaṭṭācārya’s  to the house  He came  in haste  being
+
+(218) Tying the prasāda and garland in the end of His cloth, He hurried to the Bhaṭṭācārya’s house.
+
+অরুণোদয়-কালে হৈল প্রভুর আগমন ৷  
+সেইকালে ভট্টাচার্য্যের হৈল জাগরণ ॥ ২১৯ ॥
+
+aruṇodaya-kāle haila prabhura āgamana  
+at dawn  there was  the Lord’s  arrival  
+sei-kāle bhaṭṭācāryera haila jāgaraṇa  
+at that time  the Bhaṭṭācārya’s  there was  waking
+
+(219) The Lord arrived at dawn, just as the Bhaṭṭācārya was waking.[^82]
+
+‘কৃষ্ণ’ ‘কৃষ্ণ’ স্ফুট কহি’ ভট্টাচার্য্য জাগিলা ৷  
+কৃষ্ণনাম শুনি’ প্রভুর আনন্দ বাড়িলা ॥ ২২০ ॥
+
+‘kṛṣṇa’ ‘kṛṣṇa’ sphuṭa kahi’ bhaṭṭācārya jāgilā  
+“Kṛṣṇa”  “Kṛṣṇa”  clearly  saying  the Bhaṭṭācārya  awoke  
+kṛṣṇa-nāma śuni’ prabhura ānanda bāḍilā  
+Kṛṣṇa’s name  hearing  the Lord’s  joy  increased
+
+(220) The Bhaṭṭācārya awoke clearly saying “Kṛṣṇa! Kṛṣṇa!”, and when the Lord heard the name of Kṛṣṇa, His joy grew.
+
+বাহিরে প্রভুর তেঁহো পাইল দরশন ৷  
+আস্তে-ব্যস্তে আসি’ কৈল চরণ বন্দন ॥ ২২১ ॥
+
+bāhire prabhura tem̐ho pāila daraśana  
+outside  of the Lord  he  obtained  sight  
+āste-vyaste āsi’ kaila caraṇa vandana  
+hurriedly  coming  he made  to the feet  obeisance
+
+(221) He saw the Lord outside, and hurrying out, he bowed at His feet.
+
+বসিতে আসন দিয়া দুঁহেতে বসিলা ৷  
+প্রসাদান্ন খুলি’ প্রভু তাঁর হাতে দিলা ॥ ২২২ ॥
+
+vasite āsana diyā dum̐hete vasilā  
+to sit  a seat  giving  both  sat down  
+prasādānna khuli’ prabhu tām̐ra hāte dilā  
+the prasāda  untying  the Lord  his  in the hand  gave
+
+(222) He offered the Lord a seat, and the two sat down together. Untying the prasāda, the Lord placed it in his hand.
+
+প্রসাদান্ন পাঞা ভট্টাচার্য্যের আনন্দ হৈল ৷  
+স্নান, সন্ধ্যা, দন্তধাবন যদ্যপি না কৈল ॥ ২২৩ ॥
+
+prasādānna pāñā bhaṭṭācāryera ānanda haila  
+the prasāda  receiving  the Bhaṭṭācārya’s  joy  there was  
+snāna, sandhyā, danta-dhāvana yadyapi nā kaila  
+bath  morning prayers  cleaning the teeth  although  not  he had done
+
+(223) The Bhaṭṭācārya was overjoyed to receive the prasāda, though he had not yet bathed, said his morning prayers or even cleaned his teeth.
+
+চৈতন্য-প্রসাদে মনের সব জাড্য গেল ৷  
+এই শ্লোক পড়ি’ অন্ন ভক্ষণ করিল ॥ ২২৪ ॥
+
+caitanya-prasāde manera saba jādya gela  
+by Caitanya’s grace  of the mind  all  dullness  went  
+ei śloka paḍi’ anna bhakṣaṇa karila  
+this  verse  reciting  the food  he ate
+
+(224) By Caitanya’s grace all the dullness of his mind was gone. Reciting these verses, he ate the prasāda:
+
+শুষ্কং পর্য্যুষিতং বাপি নীতং বা দূরদেশতঃ ৷  
+প্রাপ্তিমাত্রেণ ভোক্তব্যং নাত্র কালবিচারণা ॥ ২২৫ ॥
+
+śuṣkaṁ paryuṣitaṁ vāpi  
+dried up  stale  or even  
+nītaṁ vā dūra-deśataḥ  
+brought  or  from a distant land  
+prāpti-mātreṇa bhoktavyaṁ  
+as soon as received  should be eaten  
+nātra kāla-vicāraṇā  
+not here  of time  consideration
+
+(225) “Even if it is dry, stale or brought from a distant land, it should be eaten as soon as it is received. Here there is no consideration of time.” (Padma Purāṇa)[^83]
+
+ন দেশনিয়মস্তত্র ন কালনিয়মস্তথা ৷  
+প্রাপ্তমন্নং দ্রুতং শিষ্টৈর্ভোক্তব্যং হরিরব্রবীৎ ॥ ২২৬ ॥
+
+na deśa-niyamas tatra  
+no  of place  rule  in this  
+na kāla-niyamas tathā  
+no  of time  rule  likewise  
+prāptam annaṁ drutaṁ śiṣṭair  
+received  food  quickly  by the cultured  
+bhoktavyaṁ harir abravīt  
+should be eaten  Hari  said
+
+(226) “For this there is no rule of place and no rule of time. The cultured should eat such food as soon as it is received — so Hari has said.” (Padma Purāṇa)[^84]
+
+দেখিয়া আনন্দ হৈল মহাপ্রভুর মন ৷  
+প্রেমাবিষ্ট হঞা প্রভু কৈলা আলিঙ্গন ॥ ২২৭ ॥
+
+dekhiyā ānanda haila mahāprabhura mana  
+seeing  joyful  became  Mahāprabhu’s  mind  
+premāviṣṭa hañā prabhu kailā āliṅgana  
+absorbed in love  becoming  the Lord  made  an embrace
+
+(227) Mahāprabhu’s heart filled with joy at the sight, and overwhelmed with love, He embraced him.
+
+দুইজনে ধরি’ দুঁহে করেন নর্ত্তন ৷  
+প্রভু-ভৃত্য দুঁহা স্পর্শে, দোঁহার ফুলে মন ॥ ২২৮ ॥
+
+dui-jane dhari’ dum̐he karena nartana  
+the two  holding  each other  perform  dancing  
+prabhu-bhṛtya dum̐hā sparśe, dom̐hāra phule mana  
+the Lord and the servant  both  by the touch  of both  blossom  hearts
+
+(228) Holding each other, the two danced. Lord and servant touched each other, and the hearts of both blossomed.
+
+স্বেদ-কম্প-অশ্রু দুঁহে আনন্দে ভাসিলা ৷  
+প্রেমাবিষ্ট হঞা প্রভু কহিতে লাগিলা ॥ ২২৯ ॥
+
+sveda-kampa-aśru dum̐he ānande bhāsilā  
+sweat  trembling  tears  both  in bliss  floated  
+premāviṣṭa hañā prabhu kahite lāgilā  
+absorbed in love  becoming  the Lord  to speak  began
+
+(229) Bathed in sweat, trembling and in tears, both floated in bliss. Overwhelmed by love, the Lord began to speak:
+
+আজি মুঞি অনায়াসে জিনিনু ত্রিভুবন ৷  
+আজি মুঞি করিনু বৈকুণ্ঠ আরোহণ ॥ ২৩০ ॥
+
+āji muñi anāyāse jininu tribhuvana  
+today  I  without effort  have conquered  the three worlds  
+āji muñi karinu vaikuṇṭha ārohaṇa  
+today  I  have made  to Vaikuṇṭha  the ascent
+
+(230) “Today I have conquered the three worlds without effort. Today I have ascended to Vaikuṇṭha.
+
+আজি মোর পূর্ণ হৈল সর্ব্ব অভিলাষ ৷  
+সার্ব্বভৌমের হৈল মহাপ্রসাদে বিশ্বাস ॥ ২৩১ ॥
+
+āji mora pūrṇa haila sarva abhilāṣa  
+today  My  fulfilled  were  all  desires  
+sārvabhaumera haila mahā-prasāde viśvāsa  
+Sārvabhauma’s  there has come  in mahā-prasāda  faith
+
+(231) Today all My desires are fulfilled, for Sārvabhauma has come to have faith in mahā-prasāda.
+
+আজি তুমি নিষ্কপটে হৈলা কৃষ্ণাশ্রয় ৷  
+কৃষ্ণ আজি নিষ্কপটে তোমা হইয়া সদয় ॥ ২৩২ ॥
+
+āji tumi niṣkapaṭe hailā kṛṣṇāśraya  
+today  you  sincerely  have become  sheltered in Kṛṣṇa  
+kṛṣṇa āji niṣkapaṭe tomā haiyā sadaya  
+Kṛṣṇa  today  sincerely  to you  having become  kind
+
+(232) Today you have taken shelter of Kṛṣṇa without guile, and today Kṛṣṇa has shown you His mercy without reserve.
+
+আজি সে খণ্ডিল তোমার দেহাদি-বন্ধন ৷  
+আজি তুমি ছিন্ন কৈলে মায়ার বন্ধন ॥ ২৩৩ ॥
+
+āji se khaṇḍila tomāra dehādi-bandhana  
+today  that  has been cut  your  bondage to the body and the rest  
+āji tumi chinna kaile māyāra bandhana  
+today  you  cut  have made  of māyā  the bonds
+
+(233) Today your bondage to the body and all that goes with it has been cut away; today you have cut the bonds of māyā.
+
+আজি কৃষ্ণপ্রাপ্তি-যোগ্য হৈল তোমার মন ৷  
+বেদ-ধর্ম্ম লঙ্ঘি’ কৈলে প্রসাদ ভক্ষণ ॥ ২৩৪ ॥
+
+āji kṛṣṇa-prāpti-yogya haila tomāra mana  
+today  fit to attain Kṛṣṇa  has become  your  mind  
+veda-dharma laṅghi’ kaile prasāda bhakṣaṇa  
+the Vedic rules  overstepping  you have done  of prasāda  eating
+
+(234) Today your mind has become fit to attain Kṛṣṇa, for you have eaten prasāda, setting aside the Vedic rules.”
+
+যেষাং স এষ ভগবান্ দয়য়েদনন্তঃ  
+সর্ব্বাত্মনাশ্রিতপদো যদি নির্ব্যলীকম্ ৷  
+তে দুস্তরামতিতরন্তি চ দেবমায়াং  
+নৈষাং মমাহমিতিধীঃ শ্বশৃগালভক্ষ্যে ॥ ২৩৫ ॥
+
+yeṣāṁ sa eṣa bhagavān dayayed anantaḥ  
+to whom  He  this  the Lord  may show mercy  the Unlimited  
+sarvātmanāśrita-pado yadi nirvyalīkam  
+with all their being  who have taken shelter of His feet  if  without deceit  
+te dustarām atitaranti ca deva-māyāṁ  
+they  insurmountable  cross over  and  the divine māyā  
+naiṣāṁ mamāham iti dhīḥ śva-śṛgāla-bhakṣye  
+not of them  “mine”, “I”  thus  the notion  in what is food for dogs and jackals
+
+(235) “Those to whom the unlimited Lord shows His mercy — who have taken shelter of His feet with all their being and without deceit — cross over the insurmountable divine māyā, and they no longer think of the body, food for dogs and jackals, as ‘I’ and ‘mine’.” (Śrīmad-Bhāgavatam, 2.7.42)[^85]
+
+এত কহি’ মহাপ্রভু আইলা নিজ-স্থানে ৷  
+সেই হৈতে ভট্টাচার্য্যের খণ্ডিল অভিমানে ॥ ২৩৬ ॥
+
+eta kahi’ mahāprabhu āilā nija-sthāne  
+so much  saying  Mahāprabhu  came  to His own place  
+sei haite bhaṭṭācāryera khaṇḍila abhimāne  
+from that  time  the Bhaṭṭācārya’s  was broken  pride
+
+(236) Having said this, Mahāprabhu returned to His own place, and from that time the Bhaṭṭācārya’s pride was broken.
+
+চৈতন্য-চরণ বিনা নাহি জানে আন ৷  
+ভক্তি বিনা শাস্ত্রের অন্য না করে ব্যাখ্যান ॥ ২৩৭ ॥
+
+caitanya-caraṇa vinā nāhi jāne āna  
+Caitanya’s feet  except  not  he knows  anything else  
+bhakti vinā śāstrera anya nā kare vyākhyāna  
+bhakti  except  of scripture  other  not  he makes  explanation
+
+(237) He knew nothing but Caitanya’s feet, and he explained scripture as teaching nothing but bhakti.
+
+গোপীনাথাচার্য্য তাঁর বৈষ্ণবতা দেখিয়া ৷  
+‘হরি’ ‘হরি’ বলি’ নাচে হাতে তালি দিয়া ॥ ২৩৮ ॥
+
+gopīnāthācārya tām̐ra vaiṣṇavatā dekhiyā  
+Gopīnāthācārya  his  Vaiṣṇava devotion  seeing  
+‘hari’ ‘hari’ bali’ nāce hāte tāli diyā  
+“Hari”  “Hari”  calling  dances  hands  clapping
+
+(238) Seeing his devotion as a Vaiṣṇava, Gopīnāthācārya danced, clapping his hands and calling, “Hari! Hari!”
+
+আর দিন ভট্টাচার্য্য আইলা দর্শনে ৷  
+জগন্নাথ না দেখি’ আইলা প্রভু-স্থানে ॥ ২৩৯ ॥
+
+āra dina bhaṭṭācārya āilā darśane  
+the next  day  the Bhaṭṭācārya  came  for darśana  
+jagannātha nā dekhi’ āilā prabhu-sthāne  
+Jagannātha  not  seeing  came  to the Lord’s place
+
+(239) The next day the Bhaṭṭācārya came for darśana, but before seeing Jagannātha he came to the Lord.[^86]
+
+দণ্ডবৎ করি’ কৈল বহুবিধ স্তুতি ৷  
+দৈন্য করি’ কহে নিজ-পূর্ব্ব দুর্ম্মতি ॥ ২৪০ ॥
+
+daṇḍavat kari’ kaila bahu-vidha stuti  
+obeisance  making  he offered  many kinds of  prayers  
+dainya kari’ kahe nija-pūrva durmati  
+humility  showing  he tells  his own former  perversity
+
+(240) Falling flat in obeisance, he offered many prayers, and in humility he spoke of his former perverse thinking.
+
+ভক্তিসাধন-শ্রেষ্ঠ শুনিতে হৈল মন ৷  
+প্রভু উপদেশ কৈল নাম-সংকীর্ত্তন ॥ ২৪১ ॥
+
+bhakti-sādhana-śreṣṭha śunite haila mana  
+of bhakti  of practice  the best  to hear  arose  desire  
+prabhu upadeśa kaila nāma-saṁkīrtana  
+the Lord  instruction  gave  the congregational chanting of the name
+
+(241) He wished to hear which is the best practice of bhakti, and the Lord taught him the chanting of the holy name (*nāma-saṅkīrtana*):[^87]
+
+হরের্নাম হরের্নাম হরের্নামৈব কেবলম্ ৷  
+কলৌ নাস্ত্যেব নাস্ত্যেব নাস্ত্যেব গতিরন্যথা ॥ ২৪২ ॥
+
+harer nāma harer nāma  
+of Hari  the name  of Hari  the name  
+harer nāmaiva kevalam  
+of Hari  the name  indeed  only  
+kalau nāsty eva nāsty eva  
+in Kali  there is not  indeed  there is not  indeed  
+nāsty eva gatir anyathā  
+there is not  indeed  way  other
+
+(242) “The name of Hari, the name of Hari, the name of Hari alone! In the age of Kali there is no other way, there is no other way, there is no other way.” (Bṛhan-nāradīya Purāṇa, 38.126)[^88]
+
+এই শ্লোকের অর্থ শুনাইল করিয়া বিস্তার ৷  
+শুনি’ ভট্টাচার্য্য-মনে হৈল চমৎকার ॥ ২৪৩ ॥
+
+ei ślokera artha śunāila kariyā vistāra  
+of this  verse  the meaning  He told  making  at length  
+śuni’ bhaṭṭācārya-mane haila camatkāra  
+hearing  in the Bhaṭṭācārya’s mind  there was  wonder
+
+(243) The Lord explained the meaning of this verse at length, and hearing it, the Bhaṭṭācārya was filled with wonder.
+
+গোপীনাথাচার্য্য বলে, — ‘আমি পূর্ব্বে যে কহিল ৷  
+শুন, ভট্টাচার্য্য, তোমার সেই ত’ হইল’ ॥ ২৪৪ ॥
+
+gopīnāthācārya bale, — ‘āmi pūrve ye kahila  
+Gopīnāthācārya  says  I  before  what  said  
+śuna, bhaṭṭācārya, tomāra sei ta’ haila’  
+listen  Bhaṭṭācārya  to you  that  indeed  has happened
+
+(244) Gopīnāthācārya said, “Listen, Bhaṭṭācārya: what I told you before has now happened to you.”
+
+ভট্টাচার্য্য কহে তাঁরে করি’ নমস্কারে ৷  
+তোমার সম্বন্ধে প্রভু কৃপা কৈল মোরে ॥ ২৪৫ ॥
+
+bhaṭṭācārya kahe tām̐re kari’ namaskāre  
+the Bhaṭṭācārya  says  to him  making  obeisance  
+tomāra sambandhe prabhu kṛpā kaila more  
+your  through the connection  the Lord  mercy  showed  to me
+
+(245) Bowing to him, the Bhaṭṭācārya said, “It is through my connection with you that the Lord has shown me mercy.
+
+তুমি — মহা-ভাগবত, আমি — তর্ক-অন্ধে ৷  
+প্রভু কৃপা কৈল মোরে তোমার সম্বন্ধে ॥ ২৪৬ ॥
+
+tumi — mahābhāgavata, āmi — tarka-andhe  
+you  a great devotee  I  blinded by logic  
+prabhu kṛpā kaila more tomāra sambandhe  
+the Lord  mercy  showed  to me  your  through the connection
+
+(246) You are a great devotee (*mahā-bhāgavata*), and I am blinded by logic; the Lord has shown me mercy through my connection with you.”
+
 ---
 
 [^1]: Heading in the edition: “Obeisance to Gaura, who conquered Sārvabhauma”. *Anubhāṣya*: *sarva-bhūmā* — He whose greatness surpasses all that is not Kṛṣṇa, the Supreme Paramātmā Gauracandra; *kutarka* — false arguments, misconceptions about the nature of the jīva and its activity; *bhakti-bhūmānam ācarat* — He made him a vessel full of pure bhakti, that is, a servant of His feet. The verse plays on the words *sārvabhauma* (“lord of all the earth”), *sarva-bhūmā* and *bhakti-bhūmā*.
@@ -2240,3 +2718,21 @@ a great offence  I committed  proud  being
 [^78]: *Anubhāṣya*: eclipsing all the relationships and means invented by jñānīs, karmīs and those with other desires, these three realities — Bhagavān of inconceivable power, His potency and His qualities — steal the minds of both sādhakas and siddhas.
 
 [^79]: *Anubhāṣya*: so Kṛṣṇa attracted the liberated sages, Sanaka and the others, and Śukadeva; see Madhya 24.112–116, 17.139 and *Śrīmad-Bhāgavatam*, 3.15.43.
+
+[^80]: Heading in the edition (for 202–203): “The Lord shows first the four-armed form, then the two-armed form”.
+
+[^81]: *Anubhāṣya*: this is Śrīla Sārvabhauma Bhaṭṭācārya’s book *Suśloka-śataka*.
+
+[^82]: *Anubhāṣya*: *aruṇodaya* is the period of four daṇḍas (about an hour and a half) before sunrise.
+
+[^83]: The source follows the heading in the edition above verse 225. *Anubhāṣya*: *śuṣkam* — without juice, *paryuṣitam* — cooked several days before; Kṛṣṇa’s prasāda is to be honoured as soon as it is received.
+
+[^84]: *Anubhāṣya*: *śiṣṭaiḥ* — by the Vaiṣṇavas; in honouring prasāda one takes no account of place, time or interruption.
+
+[^85]: The last line follows the *Anubhāṣya*: *eṣām* — those who have surrendered have no thought of “I” and “mine” for the body, fit only to be eaten by animals. The *Amṛta-pravāha-bhāṣya* reads it otherwise: to those who think “I” and “mine” of the body Bhagavān does not show mercy. *Anubhāṣya*: these are Brahmā’s words to Nārada on the Lord’s māyā and the glory of the devotees; *sarvātmanā* — with one’s whole being, not with a part of it.
+
+[^86]: Heading in the edition: “The Bhaṭṭācārya’s love for the Lord surpasses even his love for Jagannātha”.
+
+[^87]: *Amṛta-pravāha-bhāṣya*: Sārvabhauma asked which of the sixty-four limbs of sādhana-bhakti is the best, and Mahāprabhu answered, “Best of all is *nāma-saṅkīrtana* alone.”
+
+[^88]: The verse is Ādi 7.76 and 17.21; the translation follows it.
