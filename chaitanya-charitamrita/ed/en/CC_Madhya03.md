@@ -326,241 +326,301 @@ came  new  kaupīna and outer cloth  bringing
 আচার্য্য দেখি’ বলে প্রভু মনে সংশয় করি’ ॥ ৩১ ॥
 
 āge ācārya āsi’ rahilā namaskāra kari’  
-ācārya dekhi’ bale prabhu mane saṁśaya kari’
+in front  the Ācārya  coming  stood  obeisance  having made  
+ācārya dekhi’ bale prabhu mane saṁśaya kari’  
+the Ācārya  seeing  says  the Lord  in mind  doubt  feeling
 
-(31) [not yet translated]
+(31) The Ācārya came before Him and stood after offering obeisance. Seeing the Ācārya, the Lord spoke, puzzled at heart:
 
 তুমি ত’ আচার্য্য-গোসাঞি, এথা কেনে আইলা ৷  
 আমি বৃন্দাবনে, তুমি কেমতে জানিলা ॥ ৩২ ॥
 
 tumi ta’ ācārya-gosāñi, ethā kene āilā  
-āmi vṛndāvane, tumi ke-mate jānilā
+You  surely  Ācārya Gosāñi  here  why  have come  
+āmi vṛndāvane, tumi ke-mate jānilā  
+I  in Vṛndāvana  You  how  knew
 
-(32) [not yet translated]
+(32) “You are Ācārya Gosāñi, aren’t You? Why have You come here? How did You know that I was in Vṛndāvana?”
 
 আচার্য্য কহে, — তুমি যাঁহা, সেই বৃন্দাবন ৷  
 মোর ভাগ্যে গঙ্গাতীরে তোমার আগমন ॥ ৩৩ ॥
 
 ācārya kahe, — tumi yāṅhā, sei vṛndāvana  
-mora bhāgye gaṅgā-tīre tomāra āgamana
+the Ācārya  says  You  wherever  that  is Vṛndāvana  
+mora bhāgye gaṅgā-tīre tomāra āgamana  
+by My  fortune  to the Ganges’ bank  Your  coming
 
-(33) [not yet translated]
+(33) The Ācārya said, “Wherever You are, that is Vṛndāvana. It is My good fortune that You have come to the bank of the Ganges.”
 
 প্রভু কহে, — নিত্যানন্দ আমারে বঞ্চিলা ৷  
 গঙ্গাকে আনিয়া মোরে যমুনা কহিলা ॥ ৩৪ ॥
 
 prabhu kahe, — nityānanda āmāre vañcilā  
-gaṅgāke āniyā more yamunā kahilā
+the Lord  says  Nityānanda  Me  has deceived  
+gaṅgāke āniyā more yamunā kahilā  
+to the Ganges  bringing  to Me  the Yamunā  called it
 
-(34) [not yet translated]
+(34) The Lord said, “Nityānanda has deceived Me! He brought Me to the Ganges and told Me it was the Yamunā.”
 
 আচার্য্য কহে, মিথ্যা নহে শ্রীপাদ-বচন ৷  
 যমুনাতে স্নান তুমি করিলা এখন ॥ ৩৫ ॥
 
 ācārya kahe, mithyā nahe śrīpāda-vacana  
-yamunāte snāna tumi karilā ekhana
+the Ācārya  says  false  is not  Śrīpāda’s words  
+yamunāte snāna tumi karilā ekhana  
+in the Yamunā  bath  You  took  just now
 
-(35) [not yet translated]
+(35) The Ācārya said, “Śrīpāda’s words are not false. Just now You did bathe in the Yamunā.
 
 গঙ্গায় যমুনা বহে হঞা একধার ৷  
 পশ্চিমে যমুনা বহে, পূর্ব্বে গঙ্গাধার ॥ ৩৬ ॥
 
 gaṅgāya yamunā vahe hañā eka-dhāra  
-paścime yamunā vahe, pūrve gaṅgā-dhāra
+in the Ganges  the Yamunā  flows  becoming  one stream  
+paścime yamunā vahe, pūrve gaṅgā-dhāra  
+on the west  the Yamunā  flows  on the east  the Ganges’ stream
 
-(36) [not yet translated]
+(36) Here the Yamunā flows within the Ganges as one stream: on the west flows the Yamunā, on the east the stream of the Ganges.
 
 পশ্চিমধারে যমুনা বহে, তাঁহা কৈলে স্নান ৷  
 আর্দ্র কৌপীন ছাড়ি’ শুষ্ক কর পরিধান ॥ ৩৭ ॥
 
 paścima-dhāre yamunā vahe, tāṅhā kaile snāna  
-ārdra kaupīna chāḍi’ śuṣka kara paridhāna
+in the western stream  the Yamunā  flows  there  You took  bath  
+ārdra kaupīna chāḍi’ śuṣka kara paridhāna  
+wet  kaupīna  giving up  dry  make  wearing
 
-(37) [not yet translated]
+(37) The Yamunā flows in the western stream, and that is where You bathed. Now take off Your wet *kaupīna* and put on a dry one.
 
 প্রেমাবেশে তিন দিন আছ উপবাস ৷  
 আজি মোর ঘরে ভিক্ষা, চল মোর বাস ॥ ৩৮ ॥
 
 premāveśe tina dina ācha upavāsa  
-āji mora ghare bhikṣā, cala mora vāsa
+in ecstatic love  three  days  You have been  fasting  
+āji mora ghare bhikṣā, cala mora vāsa  
+today  in My  house  alms  come  to My  dwelling
 
-(38) [not yet translated]
+(38) Absorbed in love, You have been fasting for three days. Today accept alms at My house—come to My home.
 
 এক মুষ্টি অন্ন মুঞি করিয়াছোঁ পাক ৷  
 শুখারুখা ব্যঞ্জন কৈলুঁ, সূপ আর শাক ॥ ৩৯ ॥
 
 eka muṣṭi anna muñi kariyāchoṅ pāka  
-śukhārukhā vyañjana kailuṅ, sūpa āra śāka
+one  handful  of rice  I  have done  cooking  
+śukhārukhā vyañjana kailuṅ, sūpa āra śāka  
+plain  vegetables  I made  dāl  and  greens
 
-(39) [not yet translated]
+(39) I have cooked a handful of rice and made some plain vegetables, *dāl* and greens.”
 
 এত বলি’ নৌকায় চড়াঞা নিল নিজ-ঘর ৷  
 পাদপ্রক্ষালন কৈল আনন্দ-অন্তর ॥ ৪০ ॥
 
 eta bali’ naukāya caḍāñā nila nija-ghara  
-pāda-prakṣālana kaila ānanda-antara
+thus  saying  in the boat  seating  took  to His own house  
+pāda-prakṣālana kaila ānanda-antara  
+of the feet  washing  did  joyful at heart
 
-(40) [not yet translated]
+(40) Saying this, He seated the Lord in the boat and took Him to His own house, where, joyful at heart, He washed the Lord’s feet.
 
 প্রথমে পাক করিয়াছেন আচার্য্যাণী ৷  
 বিষ্ণু-সমর্পণ কৈল আচার্য্য আপনি ॥ ৪১ ॥
 
 prathame pāka kariyāchena ācāryāṇī  
-viṣṇu-samarpaṇa kaila ācārya āpani
+first  the cooking  had done  the Ācārya’s wife  
+viṣṇu-samarpaṇa kaila ācārya āpani  
+to Viṣṇu  offering  did  the Ācārya  Himself
 
-(41) [not yet translated]
+(41) The Ācārya’s wife had done the cooking beforehand, and the Ācārya Himself offered the food to Viṣṇu.
 
 তিন ঠাঞি ভোগ বাড়াইল সম করি’ ৷  
 কৃষ্ণের ভোগ বাড়াইল ধাতু-পাত্রোপরি ॥ ৪২ ॥
 
 tina ṭhāñi bhoga bāḍāila sama kari’  
-kṛṣṇera bhoga bāḍāila dhātu-pātropari
+in three  places  the food  served  equal  making  
+kṛṣṇera bhoga bāḍāila dhātu-pātropari  
+Kṛṣṇa’s  offering  served  on a metal plate
 
-(42) [not yet translated]
+(42) The food was served in three equal portions. Kṛṣṇa’s offering was served on a metal plate,
 
 বত্তিশা-আঠিয়া-কলার আঙ্গটিয়া পাতে ৷  
 দুই ঠাঞি ভোগ বাড়াইল ভালমতে ॥ ৪৩ ॥
 
 battiśā-āṭhiyā-kalāra āṅgaṭiyā pāte  
-dui ṭhāñi bhoga bāḍāila bhāla mate
+of the battiśā-āṭhiyā  banana  whole  on leaves  
+dui ṭhāñi bhoga bāḍāila bhāla mate  
+in two  places  the food  served  in a fine  manner
 
-(43) [not yet translated]
+(43) and the other two portions were served nicely on whole, uncut leaves of the *battiśā-āṭhiyā* banana tree.
 
 মধ্যে পীত-ঘৃতসিক্ত শাল্যন্নের স্তূপ ৷  
 চারিদিকে ব্যঞ্জন-ডোঙ্গা, আর মুদ্গসূপ ॥ ৪৪ ॥
 
 madhye pīta-ghṛta-sikta śāly-annera stūpa  
-cāri-dike vyañjana-ḍoṅgā, āra mudga-sūpa
+in the middle  with yellow ghee soaked  of fine rice  a heap  
+cāri-dike vyañjana-ḍoṅgā, āra mudga-sūpa  
+on four sides  vegetable cups  and  mung dāl
 
-(44) [not yet translated]
+(44) In the middle of each was a heap of fine rice soaked in yellow *ghee*, and all around it were leaf cups of vegetables and *mung dāl*.
 
 সার্দ্দ্রক, বাস্তুক-শাক বিবিধ প্রকার ৷  
 পটোল, কুষ্মাণ্ড-বড়ি, মানকচু আর ॥ ৪৫ ॥
 
 sārdraka, vāstuka-śāka vividha prakāra  
-paṭola, kuṣmāṇḍa-baḍi, mānakacu āra
+sārdraka  vāstuka greens  various  kinds  
+paṭola, kuṣmāṇḍa-baḍi, mānakacu āra  
+paṭola  pumpkin with baḍi  mānakacu  and
 
-(45) [not yet translated]
+(45) There was *sārdraka*, various kinds of *vāstuka* greens, *paṭola*, pumpkin with *baḍi*, and *mānakacu*.
 
 চই-মরিচ-সুখ্ত দিয়া সব ফল-মূলে ৷  
 অমৃতনিন্দক পঞ্চবিধ তিক্ত-ঝালে ॥ ৪৬ ॥
 
 ca-i-marica-sukhta diyā saba phala-mūle  
-amṛta-nindaka pañca-vidha tikta-jhāle
+cai and pepper sukhta  adding  to all  fruits and roots  
+amṛta-nindaka pañca-vidha tikta-jhāle  
+nectar-defeating  five kinds  bitter and pungent
 
-(46) [not yet translated]
+(46) There were five kinds of bitter and pungent dishes, putting nectar to shame, with *sukhta* of *cai* and black pepper added to all the fruits and roots.
 
 কোমল নিম্বপত্র সহ ভাজা বার্ত্তাকী ৷  
 পটোল-ফুলবড়ি-ভাজা, কুষ্মাণ্ড-মানচাকি ॥ ৪৭ ॥
 
 komala nimba-patra saha bhājā vārtākī  
-paṭola-phula-baḍi-bhājā, kuṣmāṇḍa-mānacāki
+tender  nim leaves  with  fried  eggplant  
+paṭola-phula-baḍi-bhājā, kuṣmāṇḍa-mānacāki  
+paṭola with phula-baḍi fried  pumpkin mānacāki
 
-(47) [not yet translated]
+(47) There was eggplant fried with tender *nim* leaves, *paṭola* fried with *phula-baḍi*, and pumpkin *mānacāki*.
 
 নারিকেল-শস্য, ছানা, শর্করা মধুর ৷  
 মোচাঘণ্ট, দুগ্ধকুষ্মাণ্ড, সকল প্রচুর ॥ ৪৮ ॥
 
 nārikela-śasya, chānā, śarkarā madhura  
-mocā-ghaṇṭa, dugdha-kuṣmāṇḍa, sakala pracura
+coconut pulp  curd  with sugar  sweet  
+mocā-ghaṇṭa, dugdha-kuṣmāṇḍa, sakala pracura  
+banana-flower ghaṇṭa  pumpkin in milk  all  in abundance
 
-(48) [not yet translated]
+(48) There was coconut pulp, curd sweetened with sugar, a *ghaṇṭa* of banana flowers and pumpkin cooked in milk—all in abundance.
 
 মধুরাম্লবড়া, অম্লাদি পাঁচ-ছয় ৷  
 সকল ব্যঞ্জন কৈল লোকে যত হয় ॥ ৪৯ ॥
 
 madhurāmla-baḍā, amlādi pāṅca-chaya  
-sakala vyañjana kaila loke yata haya
+sweet-and-sour baḍās  sour dishes and others  five or six  
+sakala vyañjana kaila loke yata haya  
+all  vegetables  made  among people  as many as  exist
 
-(49) [not yet translated]
+(49) There were sweet-and-sour *baḍās* and five or six sour dishes. Every vegetable dish known among people was prepared.
 
 মুদ্গবড়া, মাষবড়া কলাবড়া মিষ্ট ৷  
 ক্ষীরপুলী, নারিকেল, যত পীঠা ইষ্ট ॥ ৫০ ॥
 
 mudgabaḍā, māṣabaḍā kalābaḍā miṣṭa  
-kṣīrapulī, nārikela, yata pīṭhā iṣṭa
+mung baḍās  urad baḍās  banana baḍās  sweet  
+kṣīrapulī, nārikela, yata pīṭhā iṣṭa  
+kṣīrapulī  coconut  all  cakes  favourite
 
-(50) [not yet translated]
+(50) There were *baḍās* of *mung* and of *urad*, sweet banana *baḍās*, *kṣīrapulī*, coconut, and every favourite kind of cake.
 
 বত্তিশা-আঠিয়া-কলার ডোঙ্গা বড় বড় ৷  
 চলে হালে নাহি, — ডোঙ্গা অতি বড় দড় ॥ ৫১ ॥
 
 battiśā-āṭhiyā-kalāra ḍoṅgā baḍa baḍa  
-cale hāle nāhi, — ḍoṅgā ati baḍa daḍa
+of the battiśā-āṭhiyā  banana  the cups  large  large  
+cale hāle nāhi, — ḍoṅgā ati baḍa daḍa  
+move  shake  not  cups  very  large  strong
 
-(51) [not yet translated]
+(51) The cups made of *battiśā-āṭhiyā* banana leaves were very large and strong, so that they did not tip or wobble.
 
 পঞ্চাশ পঞ্চাশ ডোঙ্গা ব্যঞ্জনে পূড়িঞা ৷  
 তিন ভোগের আসে পাসে রাখিল ধরিঞা ॥ ৫২ ॥
 
 pañcāśa pañcāśa ḍoṅgā vyañjane pūḍiñā  
-tina bhogera āse pāse rākhila dhariñā
+fifty  fifty  cups  with vegetables  filling  
+tina bhogera āse pāse rākhila dhariñā  
+of the three  offerings  around  on the sides  placed  arranging
 
-(52) [not yet translated]
+(52) Fifty such cups each, filled with vegetables, were set all around the three offerings.
 
 সঘৃত-পায়স নব মৃৎকুণ্ডিকা ভরিঞা ৷  
 তিন পাত্রে ঘনাবর্ত্ত-দুগ্ধ রাখে ত’ ধরিঞা ॥ ৫৩ ॥
 
 saghṛta-pāyasa nava mṛt-kuṇḍikā bhariñā  
-tina pātre ghanāvarta-dugdha rākhe ta’ dhariñā
+with ghee sweet rice  new  earthen pots  filling  
+tina pātre ghanāvarta-dugdha rākhe ta’ dhariñā  
+in three  vessels  thickened milk  they place  indeed  arranging
 
-(53) [not yet translated]
+(53) Sweet rice with *ghee* filled new earthen pots, and thickened milk was set out in three vessels.
 
 দুগ্ধ-চিড়া-কলা আর দুগ্ধ-লক্লকী ৷  
 যতেক করিল, তাহা কহিতে না শকি ॥ ৫৪ ॥
 
 dugdha-ciḍā-kalā āra dugdha-laklakī  
-yateka karila, tāhā kahite nā śaki
+milk with flat rice and banana  and  milk laklakī  
+yateka karila, tāhā kahite nā śaki  
+however much  they made  that  to describe  not  I am able
 
-(54) [not yet translated]
+(54) There was flat rice with banana in milk, and milk *laklakī*. I cannot describe all that they made.
 
 দুই পাশে ধরিল সব মৃৎকুণ্ডিকা ভরি’ ৷  
 চাঁপাকলা-দধি-সন্দেশ কহিতে না পারি ॥ ৫৫ ॥
 
 dui pāśe dharila saba mṛt-kuṇḍikā bhari’  
-cāṅpākalā-dadhi-sandeśa kahite nā pāri
+on two  sides  placed  all  earthen pots  filling  
+cāṅpākalā-dadhi-sandeśa kahite nā pāri  
+campaka bananas, yogurt, sandeśa  to describe  not  I can
 
-(55) [not yet translated]
+(55) On both sides were placed earthen pots filled with *campaka* bananas, yogurt and *sandeśa*—I cannot describe it all.
 
 অন্ন-ব্যঞ্জন-উপরি দিল তুলসীমঞ্জরী ৷  
 তিন জলপাত্রে সুবাসিত জল ভরি’ ॥ ৫৬ ॥
 
 anna-vyañjana-upari dila tulasī-mañjarī  
-tina jala-pātre suvāsita jala bhari’
+over the rice and vegetables  placed  tulasī buds  
+tina jala-pātre suvāsita jala bhari’  
+three  water pots  with scented  water  filling
 
-(56) [not yet translated]
+(56) On top of the rice and vegetables they placed *tulasī* buds, and three water pots were filled with scented water.
 
 তিন শুভ্রপীঠ, তার উপরি বসন ৷  
 কৃষ্ণের ভোগ সাক্ষাৎ কৃষ্ণে করাইল ভোজন ॥ ৫৭ ॥
 
 tina śubhra-pīṭha, tāra upari vasana  
-kṛṣṇera bhoga sākṣāt kṛṣṇe karāila bhojana
+three  white seats  them  upon  cloth  
+kṛṣṇera bhoga sākṣāt kṛṣṇe karāila bhojana  
+Kṛṣṇa’s  food  directly  to Kṛṣṇa  made to eat
 
-(57) [not yet translated]
+(57) There were three white seats covered with cloth. The food prepared for Kṛṣṇa was offered to Kṛṣṇa Himself, and He ate it.
 
 আরতির কালে দুই প্রভু বোলাইল ৷  
 প্রভু-সঙ্গে সবে আসি’ আরতি দেখিল ॥ ৫৮ ॥
 
 āratira kāle dui prabhu bolāila  
-prabhu-saṅge sabe āsi’ ārati dekhila
+of the ārati  at the time  the two  Lords  called  
+prabhu-saṅge sabe āsi’ ārati dekhila  
+with the Lords  all  coming  the ārati  saw
 
-(58) [not yet translated]
+(58) At the time of *ārati* the Ācārya called the two Lords, and everyone came with Them to see the *ārati*.
 
 আরতি করিয়া কৃষ্ণে করা’ল শয়ন ৷  
 আচার্য্য আসি’ প্রভুরে তবে কৈলা নিবেদন ॥ ৫৯ ॥
 
 ārati kariyā kṛṣṇe karā’la śayana  
-ācārya āsi’ prabhure tabe kailā nivedana
+ārati  having done  Kṛṣṇa  made to lie down  
+ācārya āsi’ prabhure tabe kailā nivedana  
+the Ācārya  coming  to the Lord  then  made  a request
 
-(59) [not yet translated]
+(59) After the *ārati*, Kṛṣṇa was laid down to rest, and then the Ācārya came and made a request to the Lord:
 
 গৃহের ভিতরে প্রভু করুন গমন ৷  
 দুই ভাই আইলা তবে করিতে ভোজন ॥ ৬০ ॥
 
 gṛhera bhitare prabhu karuna gamana  
-dui bhāi āilā tabe karite bhojana
+of the house  inside  the Lord  may make  going  
+dui bhāi āilā tabe karite bhojana  
+the two  brothers  came  then  to take  the meal
 
-(60) [not yet translated]
+(60) “May the Lord come inside the house.” Then the two brothers came in to take Their meal.
 
 মুকুন্দ, হরিদাস, — দুই প্রভু বোলাইল ৷  
 যোড়হাতে দুইজন কহিতে লাগিল ॥ ৬১ ॥
@@ -966,25 +1026,31 @@ aruṇa-vastra-kānti tāhe kare jhala-mala
 লোকের সঙ্ঘট্টে দিন হইল অবসান ॥ ১১১ ॥
 
 āise yāya loka saba, nāhi samādhāna  
-lokera saṅghaṭṭe dina haila avasāna
+come  go  people  all  there is no  end  
+lokera saṅghaṭṭe dina haila avasāna  
+of people  in the throng  the day  came  to its close
 
-(111) [not yet translated]
+(111) People kept coming and going without end, and in that throng the day came to its close.
 
 সন্ধ্যাতে আচার্য্য আরম্ভিল সঙ্কীর্ত্তন ৷  
 আচার্য্য নাচেন, প্রভু করেন দর্শন ॥ ১১২ ॥
 
 sandhyāte ācārya ārambhila saṅkīrtana  
-ācārya nācena, prabhu karena darśana
+in the evening  the Ācārya  began  saṅkīrtana  
+ācārya nācena, prabhu karena darśana  
+the Ācārya  dances  the Lord  does  watching
 
-(112) [not yet translated]
+(112) In the evening the Ācārya began *saṅkīrtana*. The Ācārya danced, and the Lord watched.
 
 নিত্যানন্দ-গোসাঞি বুলে আচার্য্য ধরিঞা ৷  
 হরিদাস পাছে নাচে হরষিত হঞা ॥ ১১৩ ॥
 
 nityānanda-gosāñi bule ācārya dhariñā  
-haridāsa pāche nāce haraṣita hañā
+Nityānanda Gosāñi  moves about  the Ācārya  holding  
+haridāsa pāche nāce haraṣita hañā  
+Haridāsa  behind  dances  joyful  becoming
 
-(113) [not yet translated]
+(113) Nityānanda Gosāñi moved about in the dance, holding the Ācārya, and behind them Haridāsa danced with joy.
 
 কি কহব রে সখি আজুক আনন্দ ওর ৷  
 চিরদিন মাধব মন্দিরে মোর ॥ ১১৪ ॥ধ্রু॥
@@ -998,209 +1064,261 @@ cira-dina mādhava mandire mora
 স্বেদ-কম্প-পুলকাশ্রু-হুঙ্কার-গর্জ্জন ॥ ১১৫ ॥
 
 ei pada gāoyāiyā harṣe karena nartana  
-sveda-kampa-pulakāśru-huṅkāra-garjana
+this  song  having (others) sing  in joy  does  dancing  
+sveda-kampa-pulakāśru-huṅkāra-garjana  
+sweat  trembling  hair standing on end and tears  cries of “huṁ”  roaring
 
-(115) [not yet translated]
+(115) Having others sing this song, He danced in joy, with sweat and trembling, hair standing on end, tears, cries of “huṁ” and roars.
 
 ফিরি’ ফিরি’ কভু প্রভুর ধরেন চরণ ৷  
 চরণ ধরিয়া প্রভুরে বলেন বচন ॥ ১১৬ ॥
 
 phiri’ phiri’ kabhu prabhura dharena caraṇa  
-caraṇa dhariyā prabhure balena vacana
+turning  turning  at times  the Lord's  He clasps  feet  
+caraṇa dhariyā prabhure balena vacana  
+the feet  clasping  to the Lord  He speaks  words
 
-(116) [not yet translated]
+(116) Whirling round and round, now and then He would clasp the Lord's feet, and clasping them, He spoke to the Lord:
 
 অনেক দিন তুমি মোরে বেড়াইলে ভাণ্ডিয়া ৷  
 ঘরেতে পাঞাছি, এবে রাখিব বান্ধিয়া ॥ ১১৭ ॥
 
 aneka dina tumi more beḍāile bhāṇḍiyā  
-gharete pāñāchi, ebe rākhiba bāndhiyā
+many  days  You  Me  led about  deceiving  
+gharete pāñāchi, ebe rākhiba bāndhiyā  
+in the house  I have caught (You)  now  I shall keep  binding
 
-(117) [not yet translated]
+(117) “For many days You eluded Me and led Me about with Your tricks. Now I have caught You in My house, and I shall bind You and keep You here.”
 
 এত বলি’ আচার্য্য আনন্দে করেন নর্ত্তন ৷  
 প্রহরেক-রাত্রি আচার্য্য কৈল সংকীর্ত্তন ॥ ১১৮ ॥
 
 eta bali’ ācārya ānande karena nartana  
-prahareka-rātri ācārya kaila saṁkīrtana
+thus  saying  the Ācārya  in bliss  does  dancing  
+prahareka-rātri ācārya kaila saṁkīrtana  
+for a prahara of the night  the Ācārya  did  saṅkīrtana
 
-(118) [not yet translated]
+(118) Saying this, the Ācārya danced in bliss, and for a whole *prahara* of the night He held *saṅkīrtana*.
 
 প্রেমের উৎকণ্ঠা, — প্রভুর নাহি কৃষ্ণ-সঙ্গ ৷  
 বিরহে বাড়িল, প্রেমজ্বালার তরঙ্গ ॥ ১১৯ ॥
 
 premera utkaṇṭhā, — prabhura nāhi kṛṣṇa-saṅga  
-virahe bāḍila, prema-jvālāra taraṅga
+of love  the longing  of the Lord  there is no  Kṛṣṇa's company  
+virahe bāḍila, prema-jvālāra taraṅga  
+in separation  rose  of love's burning  the waves
 
-(119) [not yet translated]
+(119) Love's longing seized the Lord, for Kṛṣṇa was not with Him, and in separation the waves of love's burning rose higher.
 
 ব্যাকুল হঞা প্রভু ভূমেতে পড়িলা ৷  
 গোসাঞি দেখিয়া আচার্য্য নৃত্য সম্বরিলা ॥ ১২০ ॥
 
 vyākula hañā prabhu bhūmete paḍilā  
-gosāñi dekhiyā ācārya nṛtya sambarilā
+distressed  becoming  the Lord  on the ground  fell  
+gosāñi dekhiyā ācārya nṛtya sambarilā  
+the Gosāñi  seeing  the Ācārya  dancing  stopped
 
-(120) [not yet translated]
+(120) Overwhelmed, the Lord fell to the ground. Seeing Him, the Ācārya stopped His dance.
 
 প্রভুর অন্তর মুকুন্দ জানে ভাল মতে ৷  
 ভাবের সদৃশ পদ লাগিলা গাইতে ॥ ১২১ ॥
 
 prabhura antara mukunda jāne bhāla mate  
-bhāvera sadṛśa pada lāgilā gāite
+the Lord's  heart  Mukunda  knows  in a good  way  
+bhāvera sadṛśa pada lāgilā gāite  
+to the mood  suited  a song  he began  to sing
 
-(121) [not yet translated]
+(121) Mukunda knew the Lord's heart well, and he began to sing a song suited to His mood.
 
 আচার্য্য উঠাইল প্রভুকে করিতে নর্ত্তন ৷  
 পদ শুনি’ প্রভুর অঙ্গ না যায় ধারণ ॥ ১২২ ॥
 
 ācārya uṭhāila prabhuke karite nartana  
-pada śuni’ prabhura aṅga nā yāya dhāraṇa
+the Ācārya  raised  the Lord  to do  dancing  
+pada śuni’ prabhura aṅga nā yāya dhāraṇa  
+the song  hearing  the Lord's  body  not  could be  held steady
 
-(122) [not yet translated]
+(122) The Ācārya raised the Lord up to dance, but on hearing the song the Lord could not hold His body steady.
 
 অশ্রু, কম্প, পুলক, স্বেদ, গদ্গদ বচন ৷  
 ক্ষণে উঠে, ক্ষণে পড়ে, ক্ষণেক রোদন ॥ ১২৩ ॥
 
 aśru, kampa, pulaka, sveda, gadgada vacana  
-kṣaṇe uṭhe, kṣaṇe paḍe, kṣaṇeka rodana
+tears  trembling  hair on end  sweat  faltering  speech  
+kṣaṇe uṭhe, kṣaṇe paḍe, kṣaṇeka rodana  
+at one moment  He rises  at another  He falls  at another  weeping
 
-(123) [not yet translated]
+(123) Tears, trembling, hair standing on end, sweat and a faltering voice appeared in Him. One moment He rose, the next He fell, and at times He wept.
 
 হাহা প্রাণপ্রিয়সখি, কি না হৈল মোরে ৷  
 কানুপ্রেমবিষে মোর তনু-মন জরে ॥ ১২৪ ॥ধ্রু॥
 
 hāhā prāṇa-priya-sakhi, ki nā haila more  
-kānu-prema-viṣe mora tanu-mana jare
+alas  of My life  dear  friend  what  not  has befallen  Me  
+kānu-prema-viṣe mora tanu-mana jare  
+for Kānu  love's  by the poison  My  body and mind  are consumed
 
-(124) [not yet translated]
+(124) “Alas, My friend, dear to Me as life! What has not befallen Me? The poison of love for Kānu consumes My body and mind.
 
 রাত্রি-দিনে পোড়ে মন সোয়াস্তি না পাঙ ৷  
 যাঁহা গেলে কানু পাঙ, তাঁহা উড়ি’ যাঙ ॥ ১২৫ ॥
 
 rātri-dine poḍe mana soyāsti nā pāṅa  
-yāṅhā gele kānu pāṅa, tāṅhā uḍi’ yāṅa
+night and day  burns  My heart  relief  not  I find  
+yāṅhā gele kānu pāṅa, tāṅhā uḍi’ yāṅa  
+where  going  Kānu  I would find  there  flying  I would go
 
-(125) [not yet translated]
+(125) Night and day My heart burns, and I find no relief. Wherever I could find Kānu, there I would fly.”
 
 এই পদ গায় মুকুন্দ মধুর সুস্বরে ৷  
 শুনিয়া প্রভুর চিত্ত হইল কাতরে ॥ ১২৬ ॥
 
 ei pada gāya mukunda madhura susvare  
-śuniyā prabhura citta haila kātare
+this  song  sings  Mukunda  sweet  in a fine voice  
+śuniyā prabhura citta haila kātare  
+hearing  the Lord's  heart  became  stricken
 
-(126) [not yet translated]
+(126) Mukunda sang this song in a sweet, fine voice, and as He heard it, the Lord's heart was stricken.
 
 নির্ব্বেদ, বিষাদ, হর্ষ, চাপল, গর্ব্ব, দৈন্য ৷  
 প্রভুর সহিত যুদ্ধ করে ভাব-সৈন্য ॥ ১২৭ ॥
 
 nirveda, viṣāda, harṣa, cāpala, garva, dainya  
-prabhura sahita yuddha kare bhāva-sainya
+despondency  dejection  joy  restlessness  pride  humility  
+prabhura sahita yuddha kare bhāva-sainya  
+the Lord  with  battle  does  of feelings  the army
 
-(127) [not yet translated]
+(127) Despondency, dejection, joy, restlessness, pride and humility — an army of feelings went to battle with the Lord.
 
 জর-জর হৈল প্রভু ভাবের প্রহারে ৷  
 ভূমিতে পড়িল, শ্বাস নাহিক শরীরে ॥ ১২৮ ॥
 
 jara-jara haila prabhu bhāvera prahāre  
-bhūmite paḍila, śvāsa nāhika śarīre
+battered  became  the Lord  of the feelings  by the blows  
+bhūmite paḍila, śvāsa nāhika śarīre  
+on the ground  He fell  breath  there was not  in the body
 
-(128) [not yet translated]
+(128) Battered by the blows of these feelings, the Lord fell to the ground, and there was no breath in His body.
 
 দেখিয়া চিন্তিত হৈলা যত ভক্তগণ ৷  
 আচম্বিতে উঠে প্রভু করিয়া গর্জ্জন ॥ ১২৯ ॥
 
 dekhiyā cintita hailā yata bhakta-gaṇa  
-ācambite uṭhe prabhu kariyā garjana
+seeing  anxious  became  all  the devotees  
+ācambite uṭhe prabhu kariyā garjana  
+suddenly  rises  the Lord  making  a roar
 
-(129) [not yet translated]
+(129) Seeing this, all the devotees grew anxious. Then suddenly the Lord rose with a roar.
 
 ‘বল’ ‘বল’ বলে, নাচে, আনন্দে বিহ্বল ৷  
 বুঝন না যায়, ভাব-তরঙ্গপ্রবল ॥ ১৩০ ॥
 
 ‘bala’ ‘bala’ bale, nāce, ānande vihvala  
-bujhana nā yāya, bhāva-taraṅgaprabala
+“Chant!”  “Chant!”  He says  He dances  in bliss  overwhelmed  
+bujhana nā yāya, bhāva-taraṅgaprabala  
+to understand  not  is possible  of feelings  the mighty waves
 
-(130) [not yet translated]
+(130) “Chant! Chant!” He cried, and danced, overwhelmed with bliss. The mighty waves of His feelings were beyond understanding.
 
 নিত্যানন্দ সঙ্গে বুলে প্রভুকে ধরিঞা ৷  
 আচার্য্য, হরিদাস বুলে পাছে ত’ নাচিঞা ॥ ১৩১ ॥
 
 nityānanda saṅge bule prabhuke dhariñā  
-ācārya, haridāsa bule pāche ta’ nāciñā
+Nityānanda  beside  moves  the Lord  holding  
+ācārya, haridāsa bule pāche ta’ nāciñā  
+the Ācārya  Haridāsa  move  behind  indeed  dancing
 
-(131) [not yet translated]
+(131) Nityānanda moved beside the Lord, holding Him, while the Ācārya and Haridāsa followed behind, dancing.
 
 এই মত প্রহরেক নাচে প্রভু রঙ্গে ৷  
 কভু হর্ষ, কভু বিষাদ, ভাবের তরঙ্গে ॥ ১৩২ ॥
 
 ei mata prahareka nāce prabhu raṅge  
-kabhu harṣa, kabhu viṣāda, bhāvera taraṅge
+in this way  for a prahara  dances  the Lord  in delight  
+kabhu harṣa, kabhu viṣāda, bhāvera taraṅge  
+sometimes  joy  sometimes  dejection  of feelings  in the waves
 
-(132) [not yet translated]
+(132) In this way the Lord danced in delight for a *prahara*, now in joy, now in dejection, carried on the waves of His feelings.
 
 তিন দিন উপবাসে করিয়া ভোজন ৷  
 উদ্দণ্ড-নৃত্যেতে প্রভুর হৈল পরিশ্রম ॥ ১৩৩ ॥
 
 tina dina upavāse kariyā bhojana  
-uddaṇḍa-nṛtyete prabhura haila pariśrama
+three  days  after fasting  having done  eating  
+uddaṇḍa-nṛtyete prabhura haila pariśrama  
+by the wild dancing  the Lord's  there was  weariness
 
-(133) [not yet translated]
+(133) He had eaten after fasting three days, and the wild, leaping dance wearied the Lord.
 
 তবু ত’ না জানে শ্রম প্রেমাবিষ্ট হঞা ৷  
 নিত্যানন্দ মহাপ্রভুকে রাখিল ধরিঞা ॥ ১৩৪ ॥
 
 tabu ta’ nā jāne śrama premāviṣṭa hañā  
-nityānanda mahāprabhuke rākhila dhariñā
+yet  indeed  not  He knows  weariness  absorbed in love  being  
+nityānanda mahāprabhuke rākhila dhariñā  
+Nityānanda  Mahāprabhu  stopped  holding (Him)
 
-(134) [not yet translated]
+(134) Yet, absorbed in love, He did not feel His weariness. Then Nityānanda took hold of Mahāprabhu and stopped Him.
 
 আচার্য্য-গোসাঞি তবে রাখিল কীর্ত্তন ৷  
 নানা সেবা করি’ প্রভুকে করাইল শয়ন ॥ ১৩৫ ॥
 
 ācārya-gosāñi tabe rākhila kīrtana  
-nānā sevā kari’ prabhuke karāila śayana
+Ācārya Gosāñi  then  stopped  the kīrtana  
+nānā sevā kari’ prabhuke karāila śayana  
+various  services  having done  the Lord  made  lie down
 
-(135) [not yet translated]
+(135) Then Ācārya Gosāñi brought the *kīrtana* to a close, and after serving the Lord in many ways, He had Him lie down to rest.
 
 এইমত দশদিন ভোজন-কীর্ত্তন ৷  
 একরূপে করি’ করে প্রভুর সেবন ॥ ১৩৬ ॥
 
 ei-mata daśadina bhojana-kīrtana  
-eka-rūpe kari’ kare prabhura sevana
+in this way  for ten days  feasting and kīrtana  
+eka-rūpe kari’ kare prabhura sevana  
+in one way  doing  He does  the Lord's  service
 
-(136) [not yet translated]
+(136) In this way, for ten days, He served the Lord, holding feasts and *kīrtana* day after day without change.
 
 প্রভাতে আচার্য্য রত্ন দোলায় চড়াঞা ৷  
 ভক্তগণ-সঙ্গে আইলা শচীমাতা লঞা ॥ ১৩৭ ॥
 
 prabhāte ācārya ratna dolāya caḍāñā  
-bhakta-gaṇa-saṅge āilā śacīmātā lañā
+in the morning  Ācārya-  -ratna  in a palanquin  having seated  
+bhakta-gaṇa-saṅge āilā śacīmātā lañā  
+with the devotees  came  Śacīmātā  bringing
 
-(137) [not yet translated]
+(137) In the morning Ācāryaratna came with the devotees, bringing Śacīmātā in a palanquin.
 
 নদীয়া-নগরের লোক — স্ত্রী-বালক-বৃদ্ধ ৷  
 সব লোক আইল, হৈল সংঘট্ট সমৃদ্ধ ॥ ১৩৮ ॥
 
 nadīyā-nagarera loka — strī-bālaka-vṛddha  
-saba loka āila, haila saṅghaṭṭa samṛddha
+of the town of Nadīyā  the people  women  children  old men  
+saba loka āila, haila saṅghaṭṭa samṛddha  
+all  the people  came  became  the throng  vast
 
-(138) [not yet translated]
+(138) All the people of the town of Nadīyā came — women, children and old men — and the crowd grew vast.
 
 প্রাতঃকৃত্য করি’ করে নাম-সংকীর্ত্তন ৷  
 শচীমাতা লঞা আইলা অদ্বৈত-ভবন ॥ ১৩৯ ॥
 
 prātaḥ-kṛtya kari’ kare nāma-saṁkīrtana  
-śacīmātā lañā āilā advaita-bhavana
+the morning duties  having done  He does  of the name  saṅkīrtana  
+śacīmātā lañā āilā advaita-bhavana  
+Śacīmātā  bringing  they came  to Advaita's house
 
-(139) [not yet translated]
+(139) When the Lord had finished His morning duties and was singing the holy name in *saṅkīrtana*, they arrived at Advaita's house with Śacīmātā.
 
 শচী-আগে পড়িলা প্রভু দণ্ডবৎ হঞা ৷  
 কান্দিতে লাগিলা শচী কোলে উঠাইঞা ॥ ১৪০ ॥
 
 śacī-āge paḍilā prabhu daṇḍavat hañā  
-kāndite lāgilā śacī kole uṭhāiñā
+before Śacī  fell  the Lord  like a rod  becoming  
+kāndite lāgilā śacī kole uṭhāiñā  
+to weep  began  Śacī  on her lap  lifting (Him)
 
-(140) [not yet translated]
+(140) The Lord fell flat before Śacī like a rod, and Śacī lifted Him onto her lap and began to weep.
 
 দোঁহার দর্শনে দুঁহে হইলা বিহ্বল ৷  
 কেশ না দেখিয়া শচী হইলা বিকল ॥ ১৪১ ॥

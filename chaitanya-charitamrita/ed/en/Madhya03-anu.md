@@ -576,7 +576,7 @@ This verse is a beautiful explanation of the service of Kṛṣṇa's servant: s
 
 ## 193
 
-> Subheading: Haridāsa's humility and entreaty —
+> Subheading: Haridāsa's humility and freedom from all possessiveness (*ākiñcanya*) —
 
 ## 194
 
