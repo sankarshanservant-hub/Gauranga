@@ -1072,19 +1072,21 @@ w: clever  ever fresh in youth
 w: in jesting  expert
 w: free from care  dhīra-lalita
 w: is  generally  by His beloveds  controlled
-tr: “Clever, ever fresh in youth, expert in jesting and free from care, and generally controlled by His beloveds — such is the *dhīra-lalita* hero.” (Bhakti-rasāmṛta-sindhu, 2.1.230)
+tr: “Clever, ever youthful, expert in jesting, free from care and generally controlled by His beloveds — such is the *dhīra-lalita* hero.” (Bhakti-rasāmṛta-sindhu, 2.1.230)
+fn: *Anubhāṣya*: *vidagdha* — a *rasika*, a connoisseur of rasa; “controlled by His beloveds” — according to the measure of their love. In the edition the reference is *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, Vibhāva-laharī, 115 (another numbering).
 
 ## 188
 w: night  and day  in the bowers  play  He does  with Rādhā
 w: of youth  the age  fruitful  He made  in joyful play
-tr: Day and night He plays with Rādhā in the bowers, and in that joyful play He made His youth fruitful.
+tr: Day and night He sports with Rādhā in the bowers, and in that joyful play He has made His youth fruitful.
 
 ## 189
 w: by speech  hinting  of the night’s  love  arts  at the boldness  Rādhikā
 w: with shyness  closed  eyes  making  before  the friends  He
 w: on Her  breasts  of the picture  of playful  makarīs  of the skill  the limit  having reached
 w: youth  fruitful  makes  performing  in the bower  pastimes  Hari
-tr: “By words that hinted boldly at the arts of love of the night before, He made Rādhikā close Her eyes in shyness before Her friends; then, drawing playful *makarīs* on Her breasts, He showed the utmost skill. So Hari, sporting in the bowers, makes His youth fruitful.” (Bhakti-rasāmṛta-sindhu, 2.1.231)”
+tr: “By words that hinted boldly at the arts of love of the night before, He made Rādhikā close Her eyes in shyness before Her friends; then, drawing playful *makarīs* on Her breasts, He showed the utmost skill. So Hari, sporting in the bowers, makes His youth fruitful.” (Bhakti-rasāmṛta-sindhu, 2.1.231)
+fn: The same verse as Ādi 4.117; translation as there.
 
 ## 190
 w: the Lord  said  this too  is so  further  speak  more
@@ -1095,6 +1097,7 @@ tr: The Lord said, “This is so, but go further and tell Me more.” Rāya said
 w: what  prema-vilāsa-vivarta  one  there is
 w: that  hearing  Your  happiness  will be  or  not  will be
 tr: There is one thing more, called *prema-vilāsa-vivarta*. Will hearing of it make You happy, or not?”
+fn: *Amṛta-pravāha-bhāṣya*: prema-vilāsa has two sides, meeting (*sambhoga*) and separation (*vipralambha*), and without separation meeting is not nourished; the *vivarta* of prema-vilāsa is when, in separation, by the power of *adhirūḍha-bhāva*, meeting appears even without meeting. *Anubhāṣya*: this is the highest state of the eternal spiritual pastimes of service, not absorption in the featureless (*kevala-advaita*).
 
 ## 192
 w: so  saying  of his own composing  a song  one  he sang
@@ -1113,13 +1116,15 @@ w: of the two  at the meeting  in between  the five arrows
 w: now  that very  virāga  you  have become  the messenger
 w: of a fine hero  of the love  such  the way
 tr: “From the very first, love (*rāga*) arose from the play of our eyes. Day by day it grew and knew no bound. He was not the lover, nor was I the beloved: Manobhava, the god of love, ground our two hearts into one. O friend, if you find that He has forgotten, tell Kānu all these stories of our love. We sought no messenger and asked no one else: when we met, the five arrows were our go-between. Now that very *rāga* has become *virāga*, the pain of separation, and you have become the messenger. Such is the way of love for an excellent hero.”
+fn: *Anubhāṣya*: “He was not the lover, nor was I the beloved” — we had no thought of being separate; Manobhava is Kandarpa, the god of love; the five arrows are those born of form, taste, smell, sound and touch; *virāga* is *adhirūḍha-mahābhāva* in separation.
 
 ## 194
 w: of Rādhā  of You  and  the lac of the hearts  with the sweat  melting  gradually
 w: joining  of the hill  of the bowers  of the elephants  O lord  with removed  of difference  the illusion
 w: for wonder  himself  colored  here  of the universe  of the palace  within
 w: with abundant  of new  rāga  of vermilion  masses  of śṛṅgāra  the skilled artist
-tr: “O lord of elephants who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that the illusion of difference vanished. Then, here within the palace of the universe, he himself colored them, for wonder, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi, 14.155)
+tr: “O lord of elephants, You who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that the illusion of difference vanished. Then, here within the palace of the universe, he himself coloured them, to the wonder of all, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi, 14.155)
+fn: *Anubhāṣya*: the artist skilled in *śṛṅgāra* is the subject, distinct from Kṛṣṇa, who is addressed: he melted and joined the hearts of Rādhā and Kṛṣṇa and coloured them “for wonder” (*citrāya*), to increase the world’s astonishment.
 
 ## 195
 w: the Lord  said  of the goal  the limit  this  is
@@ -1173,7 +1178,7 @@ w: boundless  though  happiness  in form  self-manifest  though  the bhāva
 w: a moment  even  not  indeed  of Rādhā and Kṛṣṇa  whom  without  Their own
 w: carries  of rasa  the fullness  spiritual opulences  as  the Lord
 w: takes shelter  not  at the feet  of these  who  of the sakhīs  a knower of rasa
-tr: “Though the love (*bhāva*) of Rādhā and Kṛṣṇa is boundless, happiness itself and self-manifest, without Their own *sakhīs* it never for a moment carries the fullness of *rasa*, just as the Lord does not without His spiritual opulences. What knower of *rasa*, then, would not take shelter at the feet of these *sakhīs*?” (Govinda-līlāmṛta, 10.17)
+tr: “Though the love (*bhāva*) of Rādhā and Kṛṣṇa is boundless, happiness itself and self-manifest, without Their own *sakhīs* it never for a moment carries the fullness of rasa, just as the Lord does not without His spiritual opulences. What knower of rasa, then, would not take shelter at the feet of these *sakhīs*?” (Govinda-līlāmṛta, 10.17)
 
 ## 206
 w: of the sakhīs  the nature  one  indescribable
@@ -1200,7 +1205,7 @@ w: the sakhīs  of Śrī Rādhikā  of Vraja  of the lilies  of the moon  hlādi
 w: of the essence  of prema  of the creeper  shoots  leaves  flowers and so on  like  equal to Her
 w: when watered  of Kṛṣṇa’s  pastimes  of the nectar  of rasa  with floods  rejoicing  She
 w: filled with joy  than from their own watering  a hundredfold  more  they become  that  this  not  a wonder
-tr: “The *sakhīs* of Śrī Rādhikā are equal to Her. Rādhikā is *hlādinī*, the potency of Kṛṣṇa, the moon who delights the lilies of Vraja, and the *sakhīs* are like the shoots, leaves and flowers of Her creeper of *prema*, the essence of that potency. When She is watered with floods of the nectarean *rasa* of Kṛṣṇa’s pastimes and rejoices, they become a hundred times more joyful than if they themselves were watered — and in this there is nothing to wonder at.” (Govinda-līlāmṛta, 10.16)
+tr: “The *sakhīs* of Śrī Rādhikā are equal to Her. Rādhikā is Hlādinī, the potency of Kṛṣṇa, the moon who delights the lilies of Vraja, and the *sakhīs* are like the shoots, leaves and flowers of Her creeper of prema, the essence of that potency. When She is watered with floods of the nectarean rasa of Kṛṣṇa’s pastimes and rejoices, they become a hundred times more joyful than if they themselves were watered — and in this there is nothing to wonder at.” (Govinda-līlāmṛta, 10.16)
 
 ## 211
 w: although  of the sakhīs  for meeting with Kṛṣṇa  there is not  the mind
@@ -1215,7 +1220,7 @@ tr: Under various pretexts She sends them to Kṛṣṇa and arranges their meet
 ## 213
 w: one another  with pure  love  they make  the rasa  nourished
 w: of them all  the love  seeing  Kṛṣṇa  becomes  pleased
-tr: With pure love for one another they nourish the *rasa*, and Kṛṣṇa is delighted to see their love.
+tr: With pure love for one another they nourish the rasa, and Kṛṣṇa is delighted to see their love.
 
 ## 214
 w: natural  of the gopīs  the love  is not  worldly  kāma
@@ -1228,6 +1233,7 @@ w: as kāma  so  attained  fame
 w: therefore  Uddhava and others  even  it
 w: desire  dear to the Lord
 tr: “It is the prema of the cowherd women that became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)
+fn: The same verse as Ādi 4.163; translation as there. In the edition, the words of the *Gautamīya-tantra*.
 
 ## 216
 w: of one’s own senses  of the pleasure  for the sake  of kāma  the aim
@@ -1245,6 +1251,7 @@ w: fearful  gently  O dear  we place  hard
 w: with them  the forest  You wander  they  are pained  not  whether
 w: by fine stones and such  whirls  the mind  of whom You are the life  our
 tr: “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam, 10.31.19)
+fn: The same verse as Ādi 4.173; translation as there.
 
 ## 219
 w: for that  of the gopīs  nectar of the mood  whose  greed  is
