@@ -48,6 +48,98 @@ The “Sakhī-bhekī,” the “Gaura-nāgarī” and other groups of *prākṛt
 
 To yield to a mind bent on enjoyment and imagine oneself a *sakhī* in an imagined *siddha* body is also nothing but *ahaṅgrahopāsanā* (worshipping oneself as God); as a result the one who imagines this stays on in Devī-dhāma. Śrīla Jīva Gosvāmī Prabhu warned the conditioned *jīvas* about this too. Thus in the *Bhakti-rasāmṛta-sindhu* (Eastern Division, second wave) his commentary *Durgama-saṅgamanī* on the verse *pūrvair vatsala-sakhyādau…* says: “The meaning is: but not with the self-identification of being the king of Vraja and so on. The conception of being [His] father and so on can arise in two ways: as an independent [identity], and by imagining oneself identical with His father and others. Of these the latter is improper, just as worshipping oneself as identical with Bhagavān is improper: for their eternity will be established just like that of Bhagavān Himself, and so [such identification] is improper; and also because by such a particular conception about His associates one falls into offense.” That is why Śrīla Rūpa Gosvāmī Prabhu said (ibid.): “Remembering Kṛṣṇa and His dear associate whom one longs to serve, and delighting in talks about them, one should always live in Vraja. Longing for that *bhāva*, one should serve both in the *sādhaka* form and in the *siddha* form, following the people of Vraja.” (Commentary: “The people of Vraja here are those dear to Kṛṣṇa and those who follow them; following them.”) See Madhya 22.153, 155 and 157.
 
+## 205
+
+> Subheading: *Śṛṅgāra-rasa* is nourished by the *sakhīs* —
+
+**rādhā-kṛṣṇayoḥ** (of the youthful couple of Vraja) **bhāvaḥ** (spiritual play), **vibhuḥ** (supremely great) **api**, **sukha-rūpaḥ** (full of eternity, knowledge and bliss), **sva-prakāśaḥ** (self-manifest) **api**, **svāḥ** (Their own — the *sakhīs* who belong to Them and are *kāya-vyūhas*) **ṛte** (without) **rasa-puṣṭiṁ na hi pravahati**, **yathā īśaḥ** (the Lord) **cid-vibhūtīḥ iva** (that is: just as the Lord, full of eternity, knowledge and bliss, does not attain fullness without His eternal spiritual opulences and so on, so here too); (for this reason) **kaḥ rasa-jñaḥ** (an expert knower of the truth of Kṛṣṇa) **āsāṁ sakhīnāṁ padaṁ na śrayati** (would not take shelter? All expert devotees who know *madhura-rasa* take shelter at the feet of the *sakhīs*). (The Īśvara of the *kevalādvaita-vādīs* is a form stamped with imagination, the deity presiding over aggregate ignorance. Though he is endowed with opulences — the *jīvas* and the rest, which are called transformations of impure *sattva* presiding over individual ignorance — he is, like a eunuch, devoid of eternal, real play. The Īśvara worshiped by the *viśiṣṭādvaita-vādīs* is an eternal form of eternity, knowledge and bliss, eternally full of spirit and bliss; by His eternal particular opulences — internal, homogeneous and heterogeneous — He nourishes two and a half *rasas*: *śānta*, *dāsya* and half of *sakhya*. In the same way, the wholly complete and blissful Śrī Vārṣabhānavī and Vrajendranandana, though self-manifest, eternally nourish *rasa* together with the *sakhīs* — that is the idea.)
+
+## 206
+
+> Subheading: The *sakhīs'* love for Śrī Rādhā —
+
+## 208
+
+> Subheading: The bond of love between Rādhā and the *sakhīs* —
+
+## 210
+
+**vraja-kumuda-vidhoḥ** (of Kṛṣṇacandra, who delights the people of Vraja as the moon delights the night-lilies) **hlādinī-nāma-śakteḥ** (of the potency called *hlādinī*) **rādhikāyāḥ** **sārāṁśa-prema-vallyāḥ** (the *prema* that is the essence of that potency is itself the creeper; [the shoots] of that creeper) **kiśalaya-dala-puṣpādi-tulyāḥ** (like young leaves, flowers and so on), and therefore **sva-tulyāḥ** (equal to Her) **sakhyaḥ** (Lalitā and the other *priya-narma-sakhīs*) — when **amuṣyāṁ** (She, Rādhā) **kṛṣṇa-līlāmṛta-rasa-nicayaiḥ** **siktāyām** (is watered) and **ullasantyām** (rejoices), those *sakhīs* **sva-sekāt** (than from their own watering) **śata-guṇam adhikaṁ** **jātollāsāḥ** (filled with joy) **santi** — **yat**, **tat na citram** (that is not astonishing).
+
+## 211
+
+> Subheading: Śrī Rādhikā's love for the *sakhīs* —
+
+## 213
+
+> Subheading: Kṛṣṇa's happiness in the mutual love of Śrī Rādhā and the *sakhīs* —
+
+***Anyonye*** — with one another. Śrī Rādhikā and Her *sakhīs* make no effort at all for their own happiness: each moves the other to serve Kṛṣṇa and so nourishes *prema*. Seeing this, Kṛṣṇa is pleased.
+
+## 214–217
+
+*Kāma* is not a disposition devoted to the service of Śrī Kṛṣṇa, the embodiment of *saṁvit*: its aim is the happiness of something other than Śrī Kṛṣṇa. *Prema* aims solely at Śrī Kṛṣṇa's happiness and consists entirely of service to Kṛṣṇa. The *kāma* of the gopīs is really *prema*, for the gopīs do not seek the pleasure of their own senses. Only for Kṛṣṇa's happiness do they move *sakhīs* of their own circle to serve Him, and they themselves, moved by such *sakhīs*, serve Kṛṣṇa — they merely accept *kāma* directed to Kṛṣṇa (*kṛṣṇa-kāma*). See Ādi 4.162–166.
+
+## 218
+
+See Ādi 4.173.
+
+## 219
+
+> Subheading: What *rāgānugā-bhakti* is, and how the Śrutis attained Kṛṣṇa —
+
+## 222
+
+> Subheading: How the Śrutis attained Kṛṣṇa —
+
+## 220–222
+
+***Rāgānugā-mārga.*** See Ādi 4.167–169, 175 and Madhya 22.145–162.
+
+## 223
+
+> Subheading: By following the gopīs the Śrutis attain service to Kṛṣṇa in *madhura-rasa* —
+
+In Janaloka, at the *brahma-satra* sacrifice, Sanandana recounts to the assembled listening sages the Śrutis' prayer to Bhagavān:
+
+**nibhṛta-marun-mano-'kṣa-dṛḍha-yoga-yujaḥ** (*marut* — the vital airs — the mind and the *akṣas* — the senses — are *nibhṛta*, restrained, by them; that is, they have restrained breath, heart and senses; they unite themselves in firm *yoga* — *dṛḍha-yoga-yujaḥ*; such are they — unwavering, devoted to the Supreme) **munayaḥ** **yat** (that truth) **hṛdi upāsate** (experience in the heart), **tat** **arayaḥ** (those who hate Kṛṣṇa) **api** (of You) **smaraṇāt** (by thinking with enmity) **yayuḥ** (attained — reached the impersonal state); **urag-endra-bhoga-bhuja-daṇḍa-viṣakta-dhiyaḥ** (*bhoga* — the body — of the king of serpents, *uragendra*; those whose minds clung to arms like that) **striyaḥ**, **vayam api** **samāḥ** (as *kāya-vyūhas* of the gopīs, like them in form), **sama-dṛśaḥ** (full of a feeling that follows their feeling), **te** (Your) **aṅghri-saroja-sudhāḥ** (holding fast the lotus feet) — **tat** (that truth, Your form; “we attained” is to be supplied).
+
+## 224
+
+> Subheading: The meaning of the words of the verse —
+
+## 223–225
+
+See Madhya 9.133–134.
+
+## 226
+
+> Subheading: The glory of the *rāgātmikā* devotees —
+
+Seeing Yaśodā's power to bring Kṛṣṇa under her control, Śrī Śukadeva describes to Parīkṣit the glory of the transcendental, natural (*sahaja*) *rāgātmikā-bhakti* of the girls of Vraja:
+
+**ayam** (the son of the gopī, Yaśodā's son) **bhagavān** **iha** **yathā bhakti-matām** (for those who worship on the path of *rāga*) **sukhāpaḥ** (attained without difficulty), **dehinām** (for those who identify with the body), **ātma-bhūtānām** (the *ātmārāmas*, detached from matter and devoted to austerities and vows) **jñāninām ca** **tathā na** (“attained without difficulty” is to be supplied).
+
+## 227
+
+> Subheading: How a devotee freed from *anarthas* performs *rāgānugā-bhajana* —
+
+## 228
+
+***Siddha-deha*** — a spiritual body fit for the service of Rādhā and Kṛṣṇa, other than the present material body and the subtle body of the mind. By the fruits of material *karma* the *jīva* obtains a material body; in time that body changes, and through the desire for gross enjoyment he again obtains a material body. Through the desire for subtle material enjoyment he takes on a subtle mental body (*liṅga-deha*), enjoys material objects with the mind, and again obtains a similarly changed subtle body. In the same way the pure *jīva*-soul — instead of being born, by the force of the desire for enjoyment, in Devī-dhāma, where matter is enjoyed, and accepting two bodies, gross and subtle, agitated by time — eternally obtains two spiritual bodies in the spiritual Goloka or in Vaikuṇṭha. In them, intent on Kṛṣṇa's happiness, he renders transcendental service to Rādhā and Kṛṣṇa. The material and subtle bodies cannot think of what lies beyond matter, beyond one's own enjoyment. Therefore the devotee who has passed beyond the three *guṇas*, drawn by Kṛṣṇa's transcendental qualities, thinks of the transcendental with the help of the transcendental senses of his own *siddha* body, which is fit for this; rendering transcendental service, he follows the transcendental mood of the *sakhīs* and attains the transcendental feet of Rādhā and Kṛṣṇa. See Madhya 22.152–156, 160.
+
+## 229
+
+> Subheading: Without following the gopīs, attaining Kṛṣṇa is impossible —
+
+In the mood of majesty (*aiśvarya*), on the path of rules (*vidhi-mārga*), one cannot serve Vrajendranandana. Kṛṣṇa is attained only when one is drawn by His sweetness (*mādhurya*) and serves Him following the gopīs. See Ādi 4.176 and Madhya 9.130–135, 137.
+
+## 230
+
+> Subheading: Having refused to follow the gopīs, Lakṣmī proved unfit for the *rāsa* pastimes —
+
+See Madhya 9.111–155 and 14.122–123.
+
 ---
 
 [^193-1]: *Ujjvala-nīlamaṇi* (the definition of *pūrva-rāga*).
