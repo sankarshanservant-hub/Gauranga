@@ -40,6 +40,8 @@ def check(chap):
         # строка транслитерации — с диакритикой (макрон, точка снизу и т. п.), пословный — без
         L = [x.strip() for x in v['tl']]
         T = [any(c in '\u0301\u0303\u0304\u0307\u0310\u0323' for c in x) for x in L]
+        if not any(T):   # транслитерация без диакритики бывает законно (Мадхья 6.122: все гласные краткие) — тогда пословный: строки с двумя пробелами
+            T = [('  ' not in x) for x in L]
         ww_missing = sum(1 for i, t in enumerate(T) if t and (i + 1 == len(T) or T[i + 1]))
         if not any(T): errs.append('%s: нет транслитерации' % lab)
         if ww_missing: warn.append('%s: нет пословного к %d строке(ам) транслитерации' % (lab, ww_missing))

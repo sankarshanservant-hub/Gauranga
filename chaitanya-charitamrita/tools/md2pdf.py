@@ -132,8 +132,10 @@ def build(chap, ed='full', size='a5', lang='ru', ret=False):
             H.append('<section class="v">%s%s</section>' % (('<h3 class="sub">%s</h3>' % inline(sh, notes)) if sh else '', ''.join(blk))); blk = []
         elif ed == 'full':
             rows = []
-            for k, l in enumerate(x.strip() for x in lines):
-                if (is_tl(l) if lang == 'ru' else k % 2 == 0): rows.append('<div class="tl">%s</div>' % html.escape(l))
+            ls = [x.strip() for x in lines]
+            nodia = lang == 'ru' and not any(is_tl(x) for x in ls)   # транслитерация без диакритики (Мадхья 6.122): пословный — с двумя пробелами
+            for k, l in enumerate(ls):
+                if (('  ' not in l) if nodia else is_tl(l) if lang == 'ru' else k % 2 == 0): rows.append('<div class="tl">%s</div>' % html.escape(l))
                 else: rows.append('<div class="ww">%s</div>' % html.escape(l).replace('  ', '&ensp;&ensp;'))
             blk.append('<div class="tlww">%s</div>' % ''.join(rows))
     if notes:

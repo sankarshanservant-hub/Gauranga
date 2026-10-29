@@ -54,10 +54,12 @@ def bn_par(lines):
         if i < len(lines) - 1: r.add_break()
 
 def tlww_par(lines):
-    for k, l in enumerate(x.strip() for x in lines if x.strip()):
+    ls = [x.strip() for x in lines if x.strip()]
+    nodia = lang == 'ru' and not any(is_tl(x) for x in ls)   # транслитерация без диакритики (Мадхья 6.122)
+    for k, l in enumerate(ls):
         p = doc.add_paragraph(); p.paragraph_format.keep_with_next = True
         p.paragraph_format.left_indent = Mm(4)
-        tl = is_tl(l) if lang == 'ru' else k % 2 == 0
+        tl = ('  ' not in l) if nodia else is_tl(l) if lang == 'ru' else k % 2 == 0
         p.paragraph_format.space_after = Pt(0 if tl else 2)
         r = p.add_run(l if tl else l.replace('  ', '\u2002\u2002'))
         r.font.name = FONT
