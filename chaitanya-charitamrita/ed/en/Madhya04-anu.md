@@ -618,9 +618,10 @@ The love of the Lord and of the devotee for each other is incomparable.
 
 [^34-1]: The verse translation reads differently: he “dozed off a little” toward morning.
 
+[^46-1]: The subheadings above verses 46 and 47 appear to be transposed in the edition: by content, “Purī weeps with love” belongs to 46 and “Purī strives to bring Giridhārī to light” to 47. They are given as printed.
+
 [^111-1]: Caitanya-caritāmṛta, Madhya 8.127 (in the numbering of our translation).
 
 [^186-1]: *Śrīmad-Bhāgavatam* 10.14.8.
 
 [^186-2]: *Śikṣāṣṭaka* 8 (*Caitanya-caritāmṛta*, Antya 20.47).
-[^46-1]: The subheadings above verses 46 and 47 appear to be transposed in the edition: by content, “Purī weeps with love” belongs to 46 and “Purī strives to bring Giridhārī to light” to 47. They are given as printed.
