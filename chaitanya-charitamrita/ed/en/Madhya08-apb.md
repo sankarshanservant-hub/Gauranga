@@ -76,7 +76,7 @@ Hearing this, the Lord said, “This too is external. Tell Me what lies beyond i
 
 ## 67
 
-In the *Bhāgavata* Brahmā said to Bhagavān: “O Bhagavān! There are devotees who have completely given up the endeavor of knowledge, the contemplation of undifferentiated Brahman. They hear the narrations about You that flow from the lips of *sādhus*, and they live abiding on the path of the *sādhus* with body, mind and words.[^67-1] In all the three worlds You are hard to attain, yet to them You become easily attainable.”
+In the *Bhāgavata* Brahmā said to Bhagavān: “O Bhagavān! There are devotees who have completely given up the endeavor of knowledge, the contemplation of undifferentiated Brahman. They hear the narrations about You that flow from the lips of *sādhus*, and they live abiding on the path of the *sādhus* with body, mind and words. In all the three worlds You are hard to attain, yet to them You become easily attainable.”
 
 ## 68
 
@@ -98,7 +98,7 @@ Having heard this much, the Lord said, “That is so. But tell Me what lies beyo
 
 ## 72
 
-The *Śrī Bhāgavata* says: “Simply by hearing the name of Bhagavān a *jīva* becomes pure. What then is left to attain for those who are servants of that Bhagavān, whose feet are holy places?”[^72-1]
+The *Śrī Bhāgavata* says: “Simply by hearing the name of Bhagavān a *jīva* becomes pure. What then is left to attain for those who are servants of that Bhagavān, whose feet are holy places?”
 
 ## 74
 
@@ -106,7 +106,7 @@ Hearing this, the Lord said, “If you can go a little further, you will find th
 
 ## 75
 
-The *Śrī Bhāgavata* says: “On the path of knowledge He is manifest as the experience of the bliss of Brahman, to the devotees in *dāsya-rasa* as the Supreme Deity, and to those who take shelter of *māyā* as a human boy.[^75-1] With this Bhagavān, Śrī Kṛṣṇa, the cowherd boys of Vraja, by the fruit of great pious merit, sported in *sakhya-rasa*.”
+The *Śrī Bhāgavata* says: “On the path of knowledge He is manifest as the experience of the bliss of Brahman, to the devotees in *dāsya-rasa* as the Supreme Deity, and to those who take shelter of *māyā* as a human boy. With this Bhagavān, Śrī Kṛṣṇa, the cowherd boys of Vraja, by the fruit of great pious merit, sported in *sakhya-rasa*.”
 
 ## 76
 
@@ -160,7 +160,7 @@ Of the love for Śrī Kṛṣṇa that all the gopīs share, Śrī Rādhā's lov
 
 ## 101–102
 
-In the *rāsa-līlā* Śrī Kṛṣṇa saw that while Rādhikā was together with all the other gopīs, His love for Her could not be independent (*nirapekṣa*)[^101-1]. Because of regard for the others, the depth of love did not unfold. Therefore Śrī Kṛṣṇa, wary of the gopīs, stole Rādhikā away from the place of the *rāsa* dance and went off, apart from the other gopīs. The verse *kaṁsārir api* (verse 105) is the example here.
+In the *rāsa-līlā* Śrī Kṛṣṇa saw that while Rādhikā was together with all the other gopīs, His love for Her could not be independent (*nirapekṣa*). Because of regard for the others, the depth of love did not unfold. Therefore Śrī Kṛṣṇa, wary of the gopīs, stole Rādhikā away from the place of the *rāsa* dance and went off, apart from the other gopīs. The verse *kaṁsārir api* (verse 105) is the example here.
 
 ## 104
 
@@ -248,13 +248,13 @@ The hero who is clever, freshly youthful, expert in jesting, free from anxiety a
 
 ## 193
 
-“Ah, in the time of *pūrva-rāga*, before We had met, when We looked at each other a feeling arose that is called *rāga*. That *rāga* grew and grew and reached no ‘limit’ (*avadhi*), no measure. That *rāga* is born of the very nature of Us both. It is not that Kṛṣṇa, the enjoyer (*ramaṇa*), is its cause, nor that I, the enjoyed one (*ramaṇī*), am its cause.[^193-1] The *rāga* that arose when We saw each other became Manobhava, that is, Madana; it ground Our hearts together and made them one. Now it is the time of separation. O friend, if you see that Kṛṣṇa has forgotten all those stories of Our love, tell Him this: when We met, We sought no messenger (*dūtī*) and asked no one else for anything — the five arrows of Anaṅga were the go-between of Our meeting. And now, in separation, that *rāga* has become *virāga*, that is, a special *rāga* — the *rāga* of separation, *adhirūḍha-bhāva* — and you, friend, are acting as the messenger! In the love of a noble hero you will see this custom everywhere.”
+“Ah, in the time of *pūrva-rāga*, before We had met, when We looked at each other a feeling arose that is called *rāga*. That *rāga* grew and grew and reached no ‘limit’ (*avadhi*), no measure. That *rāga* is born of the very nature of Us both. It is not that Kṛṣṇa, the enjoyer (*ramaṇa*), is its cause, nor that I, the enjoyed one (*ramaṇī*), am its cause. The *rāga* that arose when We saw each other became Manobhava, that is, Madana; it ground Our hearts together and made them one. Now it is the time of separation. O friend, if you see that Kṛṣṇa has forgotten all those stories of Our love, tell Him this: when We met, We sought no messenger (*dūtī*) and asked no one else for anything — the five arrows of Anaṅga were the go-between of Our meeting. And now, in separation, that *rāga* has become *virāga*, that is, a special *rāga* — the *rāga* of separation, *adhirūḍha-bhāva* — and you, friend, are acting as the messenger! In the love of a noble hero you will see this custom everywhere.”
 
 The meaning is this. In the time of *sambhoga*, *rāga* is a go-between, as it were, in the form of Anaṅga. In the time of *vipralambha* it likewise becomes a messenger filled with *adhirūḍha-bhāva*, and serves as the messenger in *prema-vilāsa-vivarta*, that is, in the appearance of *sambhoga* in the midst of *vipralambha*; and so Śrīmatī addresses it as “friend” (*sakhī*) and speaks these words. The essential meaning is this: in the *sambhoga* of *prema-vilāsa* there is joy, and in *vipralambha* there is the same joy. More than that, in *vipralambha* (because at the summit of service She is absorbed in Kṛṣṇa) — just as one takes a snake for a rope[^193-2] — a special kind of *sambhoga* arises: *adhirūḍha-mahābhāva* overcome by *vivarta*, in which She takes a *tamāla* tree and other things for Kṛṣṇa.
 
 ## 194
 
-O king of elephants[^194-1] who dwell in the groves of Govardhana Hill! The Creator, expert in the art of *śṛṅgāra*, melted the lac of Your heart and Rādhikā's heart by the power of the *sāttvika-vikāras* and dispelled the illusion of difference. Then, in the palace of the universe, to increase the wonder of the world, He Himself richly dyed those two hearts with the vermilion of new *rāga*.[^194-2]
+O king of elephants[^194-1] who dwell in the groves of Govardhana Hill! The Creator, expert in the art of *śṛṅgāra*, melted the lac of Your heart and Rādhikā's heart by the power of the *sāttvika-vikāras* and dispelled the illusion of difference. Then, in the palace of the universe, to increase the wonder of the world, He Himself richly dyed those two hearts with the vermilion of new *rāga*.
 
 ## 202–204
 
@@ -270,7 +270,7 @@ The *bhāva* of Rādhā and Kṛṣṇa is self-manifest; by nature it is happin
 
 ## 210
 
-The *sakhīs* of Vraja are equal to Śrī Rādhā. Śrī Rādhikā is the potency called *hlādinī* of Kṛṣṇa, the moon for the night-lilies of Vraja, and the *sakhīs* are like the young leaves, shoots, flowers and so on of the creeper of Her *prema*, the essence of that potency. When Rādhikā, full of the highest joy, is watered with the many nectarean *rasas* of Kṛṣṇa's pastimes, the *sakhīs* become a hundred times more joyful than from being watered themselves — and there is nothing surprising in this.[^210-1]
+The *sakhīs* of Vraja are equal to Śrī Rādhā. Śrī Rādhikā is the potency called *hlādinī* of Kṛṣṇa, the moon for the night-lilies of Vraja, and the *sakhīs* are like the young leaves, shoots, flowers and so on of the creeper of Her *prema*, the essence of that potency. When Rādhikā, full of the highest joy, is watered with the many nectarean *rasas* of Kṛṣṇa's pastimes, the *sakhīs* become a hundred times more joyful than from being watered themselves — and there is nothing surprising in this.
 
 ## 219–220
 
@@ -282,7 +282,7 @@ In Vraja, Kṛṣṇa's servants — Raktaka, Patraka and others; Kṛṣṇa's 
 
 ## 223
 
-The sages, restraining the breath by *prāṇāyāma* and firmly joining mind and senses in *yoga*, worshiped Brahman in the heart, and the enemies of Bhagavān, by the power of constant thought of Him, also entered that Brahman. The women of Vraja, their minds overcome by the strong poison — the beauty of Śrī Kṛṣṇa's arms, like the body of a serpent — attained the nectar of His lotus feet. We too, having obtained those bodies of gopīs, drank the nectar of His lotus feet in the mood of the gopīs.[^223-1]
+The sages, restraining the breath by *prāṇāyāma* and firmly joining mind and senses in *yoga*, worshiped Brahman in the heart, and the enemies of Bhagavān, by the power of constant thought of Him, also entered that Brahman. The women of Vraja, their minds overcome by the strong poison — the beauty of Śrī Kṛṣṇa's arms, like the body of a serpent — attained the nectar of His lotus feet. We too, having obtained those bodies of gopīs, drank the nectar of His lotus feet in the mood of the gopīs.
 
 ## 224–225
 
@@ -298,11 +298,11 @@ From the verse beginning “*prabhu kahe, — ‘kon vidyā…*’” up to the 
 
 ## 265
 
-We meditate on Śrī Kṛṣṇa, the supreme Truth, who by His own potency is eternally free of all deception. It is known for certain that from this Truth come the birth, maintenance and dissolution of the universe. When one reasons by *anvaya-vyatireka*, He is found in all things, or affairs, to be the one supreme *jña-tattva*, the knowing Truth, that is, the *svarūpa-tattva*. In the visible world He alone is *svarāṭ*, that is, the independent King. As the indwelling Lord He taught the truth of Brahman to Brahmā, the first poet. In Him intelligent scholars are bewildered again and again. In Him is the interchange, that is, the separate existence, of the many elements — fire, water, earth and the rest. In Him the three kinds of creation exist as real: creation as the rising of spirit, creation as the manifestation of the *jīvas*, and creation as the universes of *māyā*.[^265-1]
+We meditate on Śrī Kṛṣṇa, the supreme Truth, who by His own potency is eternally free of all deception. It is known for certain that from this Truth come the birth, maintenance and dissolution of the universe. When one reasons by *anvaya-vyatireka*, He is found in all things, or affairs, to be the one supreme *jña-tattva*, the knowing Truth, that is, the *svarūpa-tattva*. In the visible world He alone is *svarāṭ*, that is, the independent King. As the indwelling Lord He taught the truth of Brahman to Brahmā, the first poet. In Him intelligent scholars are bewildered again and again. In Him is the interchange, that is, the separate existence, of the many elements — fire, water, earth and the rest. In Him the three kinds of creation exist as real: creation as the rising of spirit, creation as the manifestation of the *jīvas*, and creation as the universes of *māyā*.
 
 ## 267–273
 
-“Lord, at first I saw You as a *sannyāsī*, and now I see You as a dark cowherd boy. And before You I also see a golden doll.[^267-1] That doll has covered Your whole body with its golden radiance, and yet Your own color seems to show plainly; and Your lovely eyes tremble with many feelings. Lord, tell me frankly the cause of this wonderful state of Yours.” The Lord said, “Those who have deep love for Kṛṣṇa are the best of *bhāgavatas* (*bhāgavatottama*). The nature of their love is this: whatever they see, moving or nonmoving, they do not see its form, but everywhere see only the presence of Śrī Kṛṣṇa — the manifestation of their worshipable Lord (*iṣṭadeva*).”
+“Lord, at first I saw You as a *sannyāsī*, and now I see You as a dark cowherd boy. And before You I also see a golden doll. That doll has covered Your whole body with its golden radiance, and yet Your own color seems to show plainly; and Your lovely eyes tremble with many feelings. Lord, tell me frankly the cause of this wonderful state of Yours.” The Lord said, “Those who have deep love for Kṛṣṇa are the best of *bhāgavatas* (*bhāgavatottama*). The nature of their love is this: whatever they see, moving or nonmoving, they do not see its form, but everywhere see only the presence of Śrī Kṛṣṇa — the manifestation of their worshipable Lord (*iṣṭadeva*).”
 
 ## 274
 
@@ -338,28 +338,9 @@ To Śrī Mahāprabhu's questions Śrī Rāmānanda Rāya first gave five answers
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”
 
-[^67-1]: Our verse translation of 8.67 reads differently: it takes *sthāne sthitāḥ* as remaining in one's outward situation, without changing the course of one's life.
-
-[^72-1]: Our verse translation of 8.72 reads differently: nothing is impossible for His faithful servants.
-
-[^75-1]: Our verse translation of 8.75 reads differently: it makes the impersonalists, the servants, and those under *māyā* the subjects who fail to understand the cowherd boys' good fortune, rather than three ways in which Kṛṣṇa appears.
-
-[^101-1]: The verse translation reads differently: it speaks of Rādhā's love, which could not show itself fully in the presence of the other gopīs. Bhaktivinoda (and the *Anubhāṣya* subheading) speak of Kṛṣṇa's love for Rādhā.
-
-[^193-1]: The verse translation reads differently: “it is not that Kṛṣṇa is a youth eager for enjoyment and I a maiden who gives it.”
-
 [^193-2]: So in the edition: সর্পে রজ্জু-ভ্রমের ন্যায় (literally “like the rope-delusion in a snake”); the usual example is the reverse: a rope is mistaken for a snake.
 
 [^194-1]: The edition reads কবিরাজ (“king of poets”); from the sense of the verse (*kuñjara-pati*, “king of elephants”) this is apparently a misprint for করিরাজ (king of elephants).
 
-[^194-2]: The verse translation reads differently: there the artist who colors the universe is Kṛṣṇa Himself. For Bhaktivinoda (and in the *Anubhāṣya*) the one “expert in the art of *śṛṅgāra*” is the one who melted and dyed the hearts of Rādhā and Kṛṣṇa.
-
-[^210-1]: The verse translation reads differently: “but the true wonder of wonders is not this at all.”
-
-[^223-1]: The verse translation reads differently: the Śrutis attain the same nectar of His feet as His beloveds, “because You regard us and Your beloveds equally”; for Bhaktivinoda (and in the *Anubhāṣya*) the Śrutis obtained the bodies of gopīs and follow their feeling (cf. verse 224).
-
 [^226-1]: The verse translation reads differently: He “cannot be attained by those who identify with the body…”; Bhaktivinoda connects the word *dehinām* (“embodied”) with the devotees.
 
-[^265-1]: The verse translation reads differently: the material universes “seem real, though in fact they have nothing in common with true reality”; for Bhaktivinoda the three kinds of creation exist in Him as real (cf. the *Anubhāṣya*: *amṛṣā*, “truly”).
-
-[^267-1]: The verse translation reads differently: “You look like a golden deity enveloped in golden radiance”; for Bhaktivinoda Rāya sees before the Lord a golden doll (*kāñcana-pañcālikā*) whose golden radiance covers His body.

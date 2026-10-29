@@ -826,7 +826,7 @@ In mature (*prauḍhā*) *samarthā-rati* there are ten states: intense longing 
 
 > Subheading: The state in which the illusion of difference between Them is dispelled —
 
-**he adri-nikuñja-kuñjara-pate** (O king of elephants in the forest groves of Govardhana Hill, O You who sport in the groves of Govardhana) **śṛṅgāra-kārukṛtī** (one very skilled in the craft of *śṛṅgāra*) **rādhāyāḥ** **bhavataś ca** **citta-jatunī** (the hearts, which are themselves lac) **svedaiḥ** (by transformations — inner and outer melting — or by the heat of fire) **kramāt** (little by little) **vilāpya** (having melted) **nirdhūta-bheda-bhramam** (difference itself is the illusion; having shaken it off and removed it) **yuñjan** (making [them]) **iha** **brahmāṇḍa-harmyodare** (the universe is a palace; within it) **citrāya** (for a marvel, to increase astonishment) **bhūyobhiḥ** (with manifold) **nava-rāga-hiṅgula-bharaiḥ** (dyes of vermilion — of new *anurāga*) **svayam anvarañjayat** (Himself dyed).[^194-1]
+**he adri-nikuñja-kuñjara-pate** (O king of elephants in the forest groves of Govardhana Hill, O You who sport in the groves of Govardhana) **śṛṅgāra-kārukṛtī** (one very skilled in the craft of *śṛṅgāra*) **rādhāyāḥ** **bhavataś ca** **citta-jatunī** (the hearts, which are themselves lac) **svedaiḥ** (by transformations — inner and outer melting — or by the heat of fire) **kramāt** (little by little) **vilāpya** (having melted) **nirdhūta-bheda-bhramam** (difference itself is the illusion; having shaken it off and removed it) **yuñjan** (making [them]) **iha** **brahmāṇḍa-harmyodare** (the universe is a palace; within it) **citrāya** (for a marvel, to increase astonishment) **bhūyobhiḥ** (with manifold) **nava-rāga-hiṅgula-bharaiḥ** (dyes of vermilion — of new *anurāga*) **svayam anvarañjayat** (Himself dyed).
 
 
 
@@ -1517,8 +1517,6 @@ At the end of almost every chapter the author in this way, by the path of *śrut
 [^191-3]: In the verse of the *Caitanya-caritāmṛta* (Madhya 8.290) the word is *bātula* (“madman”); in the *Anubhāṣya* it is *bāula* (“*bāul*”).
 
 [^193-1]: *Ujjvala-nīlamaṇi* (the definition of *pūrva-rāga*).
-
-[^194-1]: The verse translation reads differently: there the artist is Kṛṣṇa Himself; in the *Anubhāṣya*'s *anvaya* “the one skilled in the craft of *śṛṅgāra*” (*śṛṅgāra-kārukṛtī*) is the subject, distinct from Kṛṣṇa, who is addressed.
 
 [^245-1]: The edition prints নাহং নিশবশ্চ শেষশ্চ…; the word নিশবশ্চ is apparently a corruption of শিবশ্চ (“and Śiva”), and is translated so.
 
