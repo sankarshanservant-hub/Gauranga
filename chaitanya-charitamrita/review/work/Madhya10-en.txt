@@ -11,11 +11,13 @@ w: His own  who  by the nectar of the sight
 w: by the drought of separation  withered
 w: the crops of the devotees  brought back to life
 tr: I worship that raincloud, Gaura, who by the nectar of His own sight brought back to life the crops of His devotees, withered by the drought of separation.
+fn: Heading in the edition: “Obeisance to Gaura, the treasure of the devotees’ life.”
 
 ## 2
 w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
 w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
 tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
 
 ## 3
 w: earlier  when  Mahāprabhu  went  south
@@ -56,6 +58,7 @@ tr: Still, I would have found some way to arrange for you to see Him; but just n
 w: the king  says  Jagannātha  leaving  why  did He go
 w: the Bhaṭṭa  says  of a great soul  this  one  pastime
 tr: The king asked, “Why did He leave Jagannātha and go away?” The Bhaṭṭācārya replied, “That is a pastime of great souls.
+fn: *Anubhāṣya*: on verses 10–11 it refers to Madhya 8.39 and *Śrīmad-Bhāgavatam* 4.30.37 — devotees travel to purify the holy places.
 
 ## 11
 w: the holy places  pure  to make  He makes  a pilgrimage
@@ -68,11 +71,13 @@ w: become holy places  yourselves  O lord
 w: make holy  the holy places
 w: by Him within  who bears the club
 tr: “Devotees such as you are themselves holy places, my lord. By the Lord who dwells within your hearts, you make even the holy places holy.” (Śrīmad-Bhāgavatam, 1.13.10)
+fn: The same verse as Ādi 1.63; translation as there. Here the edition reads «তীর্থীভূতাঃ» (in Ādi 1.63, «তীর্থভূতাঃ»).
 
 ## 13
 w: of a Vaiṣṇava  this  is  one  nature  unchanging
 w: He  a jīva  is not  He is  the independent  Lord
 tr: That is the unchanging nature of a Vaiṣṇava. But He is no jīva: He is the independent Lord Himself.”
+fn: *Anubhāṣya*: pure devotees purify the holy places by their coming and deliver the worldly people who live there — such is their eternal nature, for they suffer at the suffering of others; but Śrī Mahāprabhu, though He plays the part of a devotee, is the independent Supreme Lord Himself.
 
 ## 14
 w: the king  says  Him  you  to go  why  did you let
@@ -107,12 +112,13 @@ tr: The Bhaṭṭācārya said, “He will come back soon. I would like a seclud
 ## 20
 w: of the Lord (Jagannātha)  near  and  it should be  in solitude
 w: such  a decision  making  give  a  place
-tr: It should be near the Lord Jagannātha and also quiet. Please choose and give such a place.”
+tr: It should be close to Jagannātha and yet secluded. Please decide on such a place and grant it.”
 
 ## 21
 w: the king  says  such  of Kāśī Miśra  the house
 w: of the Lord  near  it is  very  secluded
 tr: The king said, “Kāśī Miśra’s house is just such a place. It is near the Lord and very secluded.”
+fn: *Anubhāṣya*: Kāśī Miśra’s house is the present Śrī Rādhākānta Maṭha in the Bālisāhi quarter, a little south of the temple; in those days the place was secluded.
 
 ## 22
 w: so  saying  the king  remains  eager  being
@@ -123,6 +129,7 @@ tr: Having said this, the king waited eagerly, and the Bhaṭṭācārya went an
 w: Kāśī Miśra  says  I  very  fortunate
 w: in my  house  of Prabhupāda  will be  the stay
 tr: Kāśī Miśra said, “I am most fortunate: Prabhupāda will stay in my house!”
+fn: *Anubhāṣya*: Mahāprabhu, Nityānanda and Advaita are called “Prabhupāda” because They are *viṣṇu-tattva*, the eternal Lord of the *jīva*; the Gurudeva is called “Oṁ Viṣṇupāda”, and a pure Vaiṣṇava “Śrīpāda”.
 
 ## 24
 w: in this way  of Puruṣottama the residents  all  people
@@ -132,7 +139,8 @@ tr: In this way all the people of Puruṣottama were eager to meet the Lord.
 ## 25
 w: of all people  the eagerness  when  extremely  increased
 w: Mahāprabhu  the south  from  quickly  came
-tr: When everyone’s longing had grown intense, Mahāprabhu came back quickly from the south.
+tr: When everyone’s longing had grown intense, Mahāprabhu hastened back from the south.
+fn: Heading in the edition: “The longing to serve is the thread that binds the devotee and Bhagavān.”
 
 ## 26
 w: hearing  joyful  became  of all  the minds
@@ -160,14 +168,15 @@ w: Mahāprabhu  all of them  gave  embrace
 tr: There the servants of the Deity met Him and gave Him *mahā-prasāda*, and Mahāprabhu embraced them all.
 
 ## 31
-w: the sight  having had  Mahāprabhu  went  outside
+w: the sight  having had  the Lord  went  outside
 w: the Bhaṭṭācārya  brought  Him  to Kāśī Miśra’s house
-tr: After seeing the Lord, Mahāprabhu came out, and the Bhaṭṭācārya brought Him to Kāśī Miśra’s house.
+tr: Having seen Jagannātha, the Lord came out, and the Bhaṭṭācārya brought Him to Kāśī Miśra’s house.
+fn: The edition reads «দরশন করি’ প্রভু» (the earlier text had «মহাপ্রভু»); the Bengali and the transliteration follow the edition (scan, p. 501).
 
 ## 32
 w: Kāśī Miśra  coming  fell  of the Lord  at the feet
 w: the house  together with  himself  to Him  made  offering
-tr: Kāśī Miśra came and fell at the Lord’s feet, offering Him himself together with his house.
+tr: Kāśī Miśra came and fell at the Lord’s feet, and offered Him his house and his very self.
 
 ## 33
 w: the Lord  four-armed form  to him  showed
@@ -187,7 +196,7 @@ tr: The Lord was pleased to see how the residence was arranged: it held everythi
 ## 36
 w: Sārvabhauma  says  Lord  suitable  Your  residence
 w: You  acceptance  make  of Kāśī Miśra  the hope
-tr: Sārvabhauma said, “Lord, this residence is fit for You. Please accept it — that is Kāśī Miśra’s hope.”
+tr: Sārvabhauma said, “Lord, this residence is worthy of You. Kāśī Miśra hopes that You will accept it.”
 
 ## 37
 w: the Lord  says  this  body  of you all
@@ -207,22 +216,25 @@ tr: “Lord, all these people live in Nīlācala. They have all been longing to 
 ## 40
 w: thirsty  cātaka birds  as  make  cries of distress
 w: so  these  all  all  make  acceptance
-tr: As thirsty *cātaka* birds cry out in distress, so have all of them. Please accept them all.
+tr: Just as thirsty *cātaka* birds cry out in distress, so do all these people. Please accept them all.
 
 ## 41
 w: of Jagannātha a servant  this  name  Janārdana
 w: during the anavasara  does  of the Lord  service to the divine body
 tr: This is Janārdana, a servant of Jagannātha. During the *anavasara* he serves the Lord’s divine body.
+fn: *Amṛta-pravāha-bhāṣya*: the *anavasara* is the period after the Snāna-yātrā until the darśana of “Nava-yauvana”.
 
 ## 42
 w: Kṛṣṇadāsa  name  this  golden  staff-bearer
 w: Śikhi Māhiti by name  this  the scribe
 tr: This is Kṛṣṇadāsa, who bears the golden staff, and this is Śikhi Māhiti, the scribe.
+fn: *Amṛta-pravāha-bhāṣya*: the *likhana-adhikārī* is the official holding the post of *deula-karaṇa*, who keeps the temple chronicle (the “Mādalā-pāñji”). *Anubhāṣya*: on Śikhi Māhiti see Antya 2.104–106.
 
 ## 43
 w: Pradyumna Miśra  this  of Vaiṣṇavas  the chief
-w: of Jagannātha  the great sevitor  he  Dāsa  by name
-tr: This is Pradyumna Miśra, the foremost of the Vaiṣṇavas; he is a great sevitor of Jagannātha, known by the name “Dāsa.”
+w: of Jagannātha  the chief cook  he  Dāsa  by name
+tr: This is Pradyumna Miśra, foremost among the Vaiṣṇavas. He is Jagannātha’s chief cook and is known by the name Dāsa.
+fn: *Amṛta-pravāha-bhāṣya*: *mahā-soyāra* means *mahā-sūpakāra*, the chief cook, the superintendent of the kitchen. *Anubhāṣya*: adding “dāsa” to a brāhmaṇa’s name, as a sign that he is a servant of Viṣṇu, is sanctioned also by Culli Bhaṭṭa.
 
 ## 44
 w: Murāri Māhiti  this  of Śikhi Māhiti  the brother
@@ -232,12 +244,13 @@ tr: This is Murāri Māhiti, Śikhi Māhiti’s brother. He has no refuge but Yo
 ## 45
 w: Candaneśvara  Siṁheśvara  Murāri  the brāhmaṇa
 w: Viṣṇudāsa  these  meditate on  Your  feet
-tr: Candaneśvara, Siṁheśvara, Murāri the brāhmaṇa and Viṣṇudāsa — they all meditate on Your feet.
+tr: These are Candaneśvara, Siṁheśvara, Murāri the brāhmaṇa and Viṣṇudāsa; they all meditate on Your feet.
 
 ## 46
-w: the Praharāja  Mahāpātra  this  of great wisdom
+w: the Prahararāja  Mahāpātra  this  of great wisdom
 w: Paramānanda  Mahāpātra  his  (name) joined (to the title)
-tr: This is the Praharāja Mahāpātra, a man of great wisdom; his name is Paramānanda Mahāpātra.
+tr: This is the Prahararāja Mahāpātra, a man of great wisdom; his name is Paramānanda Mahāpātra.
+fn: *Anubhāṣya*: *prahararāja* is a hereditary title of a family of royal priests in Utkala: when the king dies, one of them sits on the throne holding the royal sceptre for one *prahara*, until the heir is anointed, so that the throne is never left empty. In the edition this is one person: “(10) Paramānanda”.
 
 ## 47
 w: all these  Vaiṣṇavas  of this  holy place  the ornaments
