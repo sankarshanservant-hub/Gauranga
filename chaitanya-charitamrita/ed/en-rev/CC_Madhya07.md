@@ -76,7 +76,7 @@ His own associates  bringing  He speaks  humility  showing
 āliṅgana kari’ sabāya śrī-haste dhariyā  
 embrace  making  all  with His divine hands  holding
 
-(7) He called His associates together, embraced them all, took them by the hand and humbly spoke to them.
+(7) He called His associates together, embraced them all, took them by the hand and spoke to them humbly:
 
 তোমা-সবা জানি আমি প্রাণাধিক করি’ ৷  
 প্রাণ ছাড়া যায়, তোমা-সবা ছাড়িতে না পারি ॥ ৮ ॥
@@ -106,7 +106,7 @@ now  from all  I  beg  one  gift
 sabe meli’ ājñā deha, yāiba dakṣiṇe  
 all  together  permission  give  I shall go  south
 
-(10) Now I beg one gift from all of you: give Me your permission together, and I shall go south.
+(10) Now I beg one gift of you all: with one accord give Me leave, and I shall go to the south.
 
 বিশ্বরূপ-উদ্দেশে অবশ্য আমি যাব ৷  
 একাকী যাইব, কাহো সঙ্গে না লইব ॥ ১১ ॥
@@ -136,7 +136,7 @@ Viśvarūpa’s  perfection  attainment  He knows  all
 dakṣiṇa-deśa uddhārite karena ei chala  
 the southern  country  to deliver  He makes  this  pretext
 
-(13) The all-knowing Lord knew that Viśvarūpa had already attained perfection; He made this pretext only to deliver the southern country.[^4]
+(13) The all-knowing Lord knew that Viśvarūpa had already attained perfection; He used the search only as a pretext to deliver the southern country.[^4]
 
 শুনিয়া সবার মনে হৈল মহাদুঃখ ৷  
 নিঃশব্দ হইলা সবে, শুকাইল মুখ ॥ ১৪ ॥
@@ -166,7 +166,7 @@ one or two  with (You)  let go  not  fall  into the hands of rogues
 yāre kaha, sei-dui caluk tomāra saṅge  
 whom  You say  those two  let go  You  with
 
-(16) Let one or two go with You, so that You do not fall into the hands of rogues — any two You choose.[^5]
+(16) Let one or two of us go with You, so that You do not fall into the hands of rogues. Name any two, and let them go with You.[^5]
 
 দক্ষিণের তীর্থপথ আমি সব জানি ৷  
 আমি সঙ্গে যাই, প্রভু, আজ্ঞা দেহ তুমি ॥ ১৭ ॥
@@ -296,7 +296,7 @@ of these all  controlled  the Lord  becomes  by which  qualities
 doṣāropa-chale kare guṇa āsvādane  
 of fault-finding  under the pretext  He does  of qualities  relishing
 
-(29) The Lord is controlled by the very qualities of these devotees, and under the pretext of finding fault with them He relished their virtues.[^8]
+(29) The Lord is controlled by the very qualities of these devotees, and in the guise of finding fault with them He relished their virtues.[^8]
 
 চৈতন্যের ভক্ত-বাৎসল্য — অকথ্য-কথন ৷  
 আপনে বৈরাগ্য-দুঃখ করেন সহন ॥ ৩০ ॥
@@ -326,7 +326,7 @@ virtues  speaking of faults  under the pretext  all  forbidding
 ekākī bhramibena tīrtha vairāgya kariyā  
 alone  He will wander  holy places  renunciation  practising
 
-(32) So, under the pretext of declaring their virtues to be faults, He forbade them all, intending to wander alone to the holy places in strict renunciation.
+(32) So, calling their virtues faults, He held them all back, for He meant to wander the holy places alone in strict renunciation.
 
 তবে চারিজন বহু মিনতি করিল ৷  
 স্বতন্ত্র ঈশ্বর প্রভু কভু না মানিল ॥ ৩৩ ॥
@@ -366,7 +366,7 @@ kaupīna  outer cloth  and  water pot
 āra kichu nāhi yābe, sabe ei mātra  
 other  anything  not  will go  all  this  only
 
-(36) A kaupīna, an outer cloth and a water pot — nothing else will go with You; that is all.
+(36) A kaupīna, an outer cloth and a water pot: that is all You will take with You, and nothing more.
 
 তোমার দুই হস্ত বদ্ধ নাম-গণনে ৷  
 জলপাত্র বহির্ব্বাস বহিবে কেমনে ॥ ৩৭ ॥
@@ -576,7 +576,7 @@ permission and garland receiving  joyfully  obeisance  making
 ānande dakṣiṇadeśe cale gaurahari  
 in bliss  to the southern land  goes  Gaurahari
 
-(57) Receiving the permission and the garland, Gaurahari joyfully bowed down and set out in bliss for the south.
+(57) Receiving this garland of permission, Gaurahari bowed down in delight and set out joyfully for the south.
 
 ভট্টাচার্য্য সঙ্গে আর যত নিজ জন ৷  
 জগন্নাথ প্রদক্ষিণ করি, করিলা গমন ॥ ৫৮ ॥
@@ -726,7 +726,7 @@ of great souls  of the heart  the nature  this  is
 puṣpa-sama komala, kaṭhina vajra-maya  
 like a flower  soft  hard  like a thunderbolt
 
-(72) Such is the nature of the hearts of great souls: they are soft as a flower, and hard as a thunderbolt.
+(72) Such is the nature of the hearts of great souls: they are soft as a flower and hard as a thunderbolt.
 
 বজ্রাদপি কঠোরাণি মৃদূনি কুসুমাদপি ৷  
 লোকোত্তরাণাং চেতাংসি কো নু বিজ্ঞাতুমীশ্বরঃ ॥ ৭৩ ॥
@@ -900,7 +900,7 @@ in this way  evening  until  people  come  go
 ‘vaiṣṇava’ haila loka, sabe nāce, gāya  
 Vaiṣṇavas  became  the people  all  dance  sing
 
-(89) In this way people came and went until evening. They all became Vaiṣṇavas, and they all danced and sang.
+(89) In this way people came and went until evening. Dancing and singing, they all became Vaiṣṇavas.
 
 এইরূপে সেই ঠাঞি ভক্তগণ-সঙ্গে ৷  
 সেই রাত্রি গোঙাইলা কৃষ্ণকথা-রঙ্গে ॥ ৯০ ॥
@@ -1032,7 +1032,7 @@ whom  he sees  to him  says  say  Kṛṣṇa’s name
 ei-mata ‘vaiṣṇava’ kaila saba nija-grāma  
 in this way  Vaiṣṇava  made  all  his own village
 
-(101) Whomever he saw, he told, “Say the name of Kṛṣṇa!” In this way he made his whole village Vaiṣṇava.
+(101) Whomever he met he would tell, “Chant the name of Kṛṣṇa!” — and in this way he made his whole village Vaiṣṇava.
 
 গ্রামান্তর হৈতে দেখিতে আইল যত জন ৷  
 তাঁর দর্শন-কৃপায় হয় তাঁর সম ॥ ১০২ ॥
@@ -1042,7 +1042,7 @@ from other villages  to see  came  as many as  people
 tām̐ra darśana-kṛpāya haya tām̐ra sama  
 his  by the mercy of darśana  become  his  equal
 
-(102) All who came from other villages to see him became like him by the mercy of seeing him.
+(102) All who came from other villages to see him were blessed by the sight of him and became like him.
 
 সেই যাই’ গ্রামের লোক বৈষ্ণব করয় ৷  
 অন্যগ্রামী আসি’ তাঁরে দেখি’ বৈষ্ণব হয় ॥ ১০৩ ॥
@@ -1112,7 +1112,7 @@ in Navadvīpa  which  power  not  He made  manifest
 sei śakti prakāśi’ nistārila dakṣiṇa-deśe  
 that  power  manifesting  He delivered  the southern country
 
-(109) The power He had not manifested in Navadvīpa He now manifested to deliver the southern country.[^21]
+(109) The power He had not shown in Navadvīpa He now revealed to deliver the southern country.[^21]
 
 প্রভুকে যে ভজে, তারে তাঁর কৃপা হয় ৷  
 সেই সে এ-সব লীলা সত্য করি’ লয় ॥ ১১০ ॥
@@ -1339,7 +1339,7 @@ with Kūrma  as  the custom  so  He did  everywhere
 nīlācale punaḥ yāvat nā āilā gosāñi  
 to Nīlācala  again  until  not  came  Gosāñi
 
-(131–132) On the way, in whatever village He stayed at the temple, He would take His meal in someone’s house, and with that great soul, His host, He dealt as He had with Kūrma. So He did everywhere, until Gosāñi returned to Nīlācala.[^25]
+(131–132) On the way, whenever He stayed at a village temple, He would take His meal in someone’s house; and with each such great soul, His host, He dealt just as He had with Kūrma. So He did everywhere, until the Gosāñi returned to Nīlācala.[^25]
 
 অতএব ইঁহা কহিলাঙ করিয়া বিস্তার ৷  
 এইমত জানিবে প্রভুর সর্ব্বত্র ব্যবহার ॥ ১৩৩ ॥
