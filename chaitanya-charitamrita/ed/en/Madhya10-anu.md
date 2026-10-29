@@ -22,13 +22,13 @@
 
 > Subheading: The king asks why the Lord left Puruṣottama —
 
-## 10–11
-
-See Madhya 8.39 and the *Śrīmad-Bhāgavatam* (4.30.37): “Your devotees wander on foot, desiring to purify the holy places. Who among those who fear [the cycle of birth] would not welcome their association?”
-
 ## 11
 
 > Subheading: The Bhaṭṭācārya's wise reply —
+
+## 10–11
+
+See Madhya 8.39 and the *Śrīmad-Bhāgavatam* (4.30.37): “Your devotees wander on foot, desiring to purify the holy places. Who among those who fear [the cycle of birth] would not welcome their association?”
 
 ## 12
 
@@ -76,7 +76,7 @@ The king's welfare and the awakening of his devotion lie in his faith in the wor
 
 > Subheading: The Bhaṭṭācārya conveys the king's order to Kāśī Miśra; Miśra's joy —
 
-All *jīvas* who regard themselves as His servants call Bhagavān Himself, Śrīman Mahāprabhu, “Prabhupāda.” Śrīman Nityānanda Prabhu and Śrīmad Advaita Prabhu are likewise called “Prabhupāda,” for all of Them are the *viṣaya-vigraha*, *viṣṇu-tattva*, and Viṣṇu alone is the eternal master (*prabhu*) of the *jīva*. Further, Śrī Śrī Gurudeva, the *āśraya-vigraha* who knows the truth of Kṛṣṇa, is for his junior, the disciple, “Kṛṣṇa-Caitanya” Himself, the very form of “Hari”; therefore he is called “Oṁ Viṣṇupāda.” Besides him, every other pure devotee, every pure Vaiṣṇava, is called “Śrīpāda” by all *jīvas* who stand in the position of disciples. But the guru, the Vaiṣṇavas, and the disciples they have accepted are all, each to the other, “*prabhu*,” a word that denotes one worthy of worship. This true conclusion is widely applied in authoritative books such as the *Bhāgavatam*, the *Caritāmṛta*, and the *Caitanya-bhāgavata*, and in the *sampradāya* of pure devotees. Some cheats who are *gosvāmīs* in name only (*gosvāmi-bruvas*), *prākṛta-sahajiyās* and non-Vaiṣṇavas, along with their foolish, cheated disciples, call themselves “servant of the servants of the Vaiṣṇavas” or “a mere semblance of a Vaiṣṇava's servant” and so make a show of humility. Yet this is only deceit and hypocrisy. In truth, deep in their hearts, out of hostility to Viṣṇu, they consider the word “Prabhupāda” to be tied to lineage by birth (*śaukra*) and to be their own possession. Therefore they regard the true guru or Vaiṣṇava who knows the truth of Kṛṣṇa as a mortal, and caste pride is strong in them. All this is only a sign of their misfortune and an aid on their journey to hell.
+All *jīvas* who regard themselves as His servants call Bhagavān Himself, Śrīman Mahāprabhu, “Prabhupāda.” Śrīman Nityānanda Prabhu and Śrīmad Advaita Prabhu are likewise called “Prabhupāda,” for all of Them are the *viṣaya-vigraha*, *viṣṇu-tattva*, and Viṣṇu alone is the eternal master (*prabhu*) of the *jīva*. Further, Śrī Śrī Gurudeva, the *āśraya-vigraha* who knows the truth of Kṛṣṇa, is for the disciple, who stands below him, “Kṛṣṇa-Caitanya” Himself, the very form of “Hari”; therefore he is called “Oṁ Viṣṇupāda.” Besides him, every other pure devotee, every pure Vaiṣṇava, is called “Śrīpāda” by all *jīvas* who stand in the position of disciples. But the guru, the Vaiṣṇavas, and the disciples they have accepted are all, each to the other, “*prabhu*,” a word that denotes one worthy of worship. This true conclusion is widely applied in authoritative books such as the *Bhāgavatam*, the *Caritāmṛta*, and the *Caitanya-bhāgavata*, and in the *sampradāya* of pure devotees. Some cheats who are *gosvāmīs* in name only (*gosvāmi-bruvas*), *prākṛta-sahajiyās* and non-Vaiṣṇavas, along with their foolish, cheated disciples, call themselves “servant of the servants of the Vaiṣṇavas” or “a mere semblance of a Vaiṣṇava's servant” and so make a show of humility. Yet this is only deceit and hypocrisy. In truth, deep in their hearts, out of hostility to Viṣṇu, they consider the word “Prabhupāda” to be tied to lineage by birth (*śaukra*) and to be their own possession. Therefore they regard the true guru or Vaiṣṇava who knows the truth of Kṛṣṇa as a mortal, and caste pride is strong in them. All this is only a sign of their misfortune and an aid on their journey to hell.
 
 ## 24
 
@@ -218,6 +218,10 @@ All *jīvas* who regard themselves as His servants call Bhagavān Himself, Śrī
 
 > Subheading: The Lord accepts Vāṇīnātha —
 
+## 62
+
+**Kālā Kṛṣṇadāsa** — see Ādi 10.145 and the *Anubhāṣya* on Madhya 7.39.
+
 ## 63
 
 > Subheading: The Lord tells of Kṛṣṇadāsa's earlier conduct —
@@ -233,10 +237,6 @@ All *jīvas* who regard themselves as His servants call Bhagavān Himself, Śrī
 ## 67
 
 > Subheading: Nityānanda and the others resolve to send Kṛṣṇadāsa to Navadvīpa —
-
-## 62
-
-**Kālā Kṛṣṇadāsa** — see Ādi 10.145 and the *Anubhāṣya* on Madhya 7.39.
 
 ## 70
 
@@ -572,14 +572,138 @@ Your conduct is only meant to teach people. If I do not keep to the proper condu
 
 > Subheading: Bhāratī realizes the truth: he sees that the Lord and Jagannātha are not different —
 
+**Śrī Jagannātha-vigraha** is the unmoving Brahman, and You, Śrī Caitanya Mahāprabhu, are the moving Brahman. You both, the masters of *māyā*, are now present in Śrī Puruṣottama as the Reality, the moving and the unmoving Brahman.
+
+## 165
+
+> Subheading: The Lord's reply —
+
+## 167
+
+> Subheading: Sārvabhauma mediates in the debate between the Lord and Bhāratī —
+
+## 168
+
+> Subheading: Bhāratī's reasoning on the *jīva* and Brahman —[^168-1]
+
+## 169
+
+> Subheading: The Lord moved Bhāratī by His own will; so the Lord, the ruler of the power of will, is the Vibhu (the all-pervading), Viṣṇu, Brahman, and Bhāratī is the *jīva* —
+
+## 170
+
+See Ādi 3.49.
+
+## 171
+
+> Subheading: The meaning of that verse lies in the Lord Himself —
+
+## 172
+
+> Subheading: Sārvabhauma's verdict: Bhāratī wins, and the Lord accepts defeat —
+
+## 173
+
+> Subheading: The Lord, in the position of a disciple, is defeated by Bhāratī, who is like a guru —
+
+## 174
+
+> Subheading: Bhāratī's rejoinder: Bhagavān is defeated by His devotee —
+
+## 175
+
+> Subheading: Bhāratī describes the Lord's transcendent glory: his reasoning about the featureless culminates in spiritual play (*cid-vilāsa*) —
+
+## 176
+
+> Subheading: By the Lord's mercy Bhāratī attains devotion to Kṛṣṇa —
+
+## 177
+
+> Subheading: The comparison with Bilvamaṅgala —
+
+## 175–177
+
+Even when the disciple's words are true, the guru's words prevail over the disciple's. At all times the guru's words deserve more respect than the disciple's. Mahāprabhu said that by this rule Brahmānanda Bhāratī was the guru, and Mahāprabhu Śrī Kṛṣṇa Caitanya considered Himself his disciple; therefore Brahmānanda's words had won. But Brahmānanda did not accept that the cause of Mahāprabhu's defeat was the rule of “guru and disciple” He had cited. He said there was another cause. Bhagavān accepts defeat before His devotee; such is the nature of Godhood. So says Bhīṣma (*Śrīmad-Bhāgavatam* 1.9.34[^175-1]): “To keep my promise true, He broke His own. He leapt down from the chariot, seized a wheel and rushed at me — the earth trembling under Him, His upper cloth falling away — like a lion rushing to kill an elephant.”
+
+“All my life I was devoted to meditation on the formless Brahman. But when I saw You, the transcendental form of Śrī Kṛṣṇa arose before me. Kṛṣṇa's name appears in my mouth and in my mind, and my eyes see Kṛṣṇa. And seeing Kṛṣṇa's form in You, my heart has been filled with longing. In his earlier life Ṭhākura Bilvamaṅgala was an *advaita-vādī* devoted to meditation on the formless Brahman; later he became a devotee of Kṛṣṇa and told his own story. Today the very same thing has happened to me.”
+
+The *Śrī Caitanya-candrāmṛta*: “For those touched by the glory of His merciful glance, *kaivalya* becomes like hell… — that Gaura alone we praise”; “…and they scorn the knowers of Brahman and of *yoga* — to that Gauracandra we bow”; “Talk of Brahman and the path of liberation fail to become bitter, the order of the world and of the Vedas remains unshaken, and the scholars of the *śāstras* keep up their noisy quarrels over various external paths — only until one sees a dear servant of Śrī Caitanya's lotus feet”; “A certain Gaura, a thief of irresistible power, has stolen everything I had.”
+
+## 178
+
+> Subheading: Kṛṣṇa's mere wish suffices to destroy one's devotion to *karma* and *jñāna* —
+
+**advaita-vīthī-pathikaiḥ** (by the travelers on the path of *advaita*: *advaita*, that which is free of internal, homogeneous and heterogeneous distinctions, is itself the path, and the travelers on it are the *kevalādvaita-vādīs*, who teach the formless Brahman) **upāsyāḥ** (worshiped) **svānanda-siṁhāsana-labdha-dīkṣāḥ** (initiated on the throne of one's own bliss: the bliss of the self is the throne, the high seat; those like the followers of the path of *yoga* receive initiation on it) **vayam** (we, that is, I; the plural is one of respect) **kena api** **śaṭhena** (by some cheat) **gopa-vadhū-viṭena** (by a rogue enamored of the cowherd wives, the son of Nanda) **haṭhena** (by force) **dāsī-kṛtāḥ** (made a maidservant, engaged in his service; to be understood in the singular).
+
+## 179
+
+> Subheading: The Lord praises Bhāratī, calling him a *mahā-bhāgavata* —
+
+## 180
+
+> Subheading: Sārvabhauma explains the greatness of Kṛṣṇa's mercy —
+
+## 181
+
+> Subheading: The devotee's loving service and the Lord's mercy are what unite them, the thread of their meeting —
+
+## 179–181
+
+Śrī Mahāprabhu said: “You, Brahmānanda Bhāratī, are a *mahā-bhāgavata* full of *prema*; therefore you will see Kṛṣṇa everywhere. What doubt is there?” The Bhaṭṭācārya, acting as mediator between them, said: “Mahāprabhu says that the *mahā-bhāgavata* Brahmānanda Bhāratī has seen Kṛṣṇa, and this too is true. For Kṛṣṇa reveals Himself directly before a *mahā-bhāgavata*. But without an abundance of *prema* in the devotee such a vision is impossible.” The first *iṅhāra* means “by Śrī Mahāprabhu's mercy”; the second *iṅhāra* means “of Brahmānanda Bhāratī”: he had *darśana*, that is, he saw Kṛṣṇa.[^180-1] “With eyes of devotion anointed with the salve of *prema*, the saints always see Him, even within their hearts.” (*Brahma-saṁhitā*, Chapter 5[^181-1])
+
+## 182
+
+> Subheading: Outwardly regarding Himself as a *jīva*, the Lord dismisses Sārvabhauma's words —
+
+Sārvabhauma's words embarrassed Mahāprabhu. He uttered, “Viṣṇu! Viṣṇu!” and said that to praise someone excessively is in fact to censure him.
+
+## 183
+
+> Subheading: The Lord returns to His residence together with Bhāratī —
+
+## 184
+
+> Subheading: The Lord's wholehearted (*aikāntika*) devotees: (1) Rāmabhadra and (2) Bhagavān —
+
+## 185
+
+> Subheading: Kāśīśvara arrives —
+
+## 184–185
+
+**Rāmabhadrācārya** — see Ādi 10.148. **Bhagavān Ācārya** — see Ādi 10.136. **Kāśīśvara** — see the *Anubhāṣya* on Ādi 8.66. Murāri's diary: “Then all the devotees who lived in Gauḍa wished to go to Nīlācala to see Gaurāṅga: Śrī Kāśīśvara Gosvāmī…” and so on.
+
+## 186
+
+> Subheading: The strong Kāśīśvara puts his strength to good use in the Lord's service —
+
+## 187
+
+> Subheading: A comparison: all the devotees meet the Lord —
+
+## 189
+
+> Subheading: The conclusion of the account of the Lord's meeting with the devotees —
+
+*Thus ends the tenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^42-1]: In our edition the note on Śikhi Māhiti is in the *Anubhāṣya* on Ādi 10.136; section 137 speaks of his sister Mādhavī-devī (and there too Antya 2.104–106 is cited).
+
+[^43-1]: So in the edition (চুল্লিভট্ট); perhaps Kullūka Bhaṭṭa, the commentator on the *Manu-saṁhitā*, is meant (his commentary is cited in the *Anubhāṣya* on verse 154).
 
 [^60-1]: Our translation of the verse reads differently: the Lord “blessed his sons by touching their heads with His foot.” According to the *Anubhāṣya*, the sons themselves placed the Lord's feet on their heads.
 
 [^106-1]: An unclear passage: «তচ্ছীচকারৈনমহো», apparently *tac chīc-cakāra enam* (“brushed it aside,” literally “made a ‘śīt’ at it”); the translation is tentative.
 
-[^43-1]: So in the edition (চুল্লিভট্ট); perhaps Kullūka Bhaṭṭa, the commentator on the *Manu-saṁhitā*, is meant (his commentary is cited in the *Anubhāṣya* on verse 154).
-
 [^154-1]: *Manu-saṁhitā* 6.4, 6.6 (the first quotation) and 6.67 (the second).
+
+[^168-1]: In the edition the number of verse 168 is missing: the subheading stands above the second couplet after verse 167.
+
+[^175-1]: In the usual numbering, *Śrīmad-Bhāgavatam* 1.9.37. By its content, the section headed “১৭৫-১৭৭” begins with a discussion of verses 172–174.
+
+[^180-1]: Our translation of verse 180 reads differently: “the primary thing is Kṛṣṇa's own wish to grant His *darśana*.” The *Anubhāṣya* takes *āge* as “before [the *mahā-bhāgavata*]”: Kṛṣṇa reveals Himself directly before him.
+
+[^181-1]: *Brahma-saṁhitā* 5.38.
