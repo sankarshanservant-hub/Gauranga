@@ -412,323 +412,405 @@ whatever  Your  wish  do  anything  not  he will say
 তাহা-সবা লঞা গেলা সার্ব্বভৌম-ঘরে ॥ ৪১ ॥
 
 tabe tāṅra vākya prabhu kari’ aṅgīkāre  
-tāhā-sabā lañā gelā sārvabhauma-ghare
+then  His  words  the Lord  making  acceptance  
+tāhā-sabā lañā gelā sārvabhauma-ghare  
+them all  taking  went  to Sārvabhauma’s house
 
-(41) [not yet translated]
+(41) The Lord then accepted His words and, taking them all along, went to Sārvabhauma’s house.
 
 নমস্করি’ সার্ব্বভৌম আসন নিবেদিল ৷  
 সবাকারে মিলি’ তবে আসনে বসিল ॥ ৪২ ॥
 
 namaskari’ sārvabhauma āsana nivedila  
-sabākāre mili’ tabe āsane vasila
+bowing  Sārvabhauma  seats  offered  
+sabākāre mili’ tabe āsane vasila  
+all  meeting  then  on a seat  sat
 
-(42) [not yet translated]
+(42) Sārvabhauma bowed down and offered them seats; then, after greeting everyone, he sat down.
 
 নানা কৃষ্ণবার্ত্তা প্রভু কহিল তাঁহারে ৷  
 তোমার ঠাঞি আইলাঙ আজ্ঞা মাগিবারে ॥ ৪৩ ॥
 
 nānā kṛṣṇa-vārtā prabhu kahila tāṅhāre  
-tomāra ṭhāñi āilāṅa ājñā māgibāre
+various  talks of Kṛṣṇa  the Lord  spoke  to him  
+tomāra ṭhāñi āilāṅa ājñā māgibāre  
+to you  I have come  permission  to ask
 
-(43) [not yet translated]
+(43) The Lord spoke with him of Kṛṣṇa in many ways and then said, “I have come to you to ask your permission.
 
 সন্ন্যাস করি’ বিশ্বরূপ গিয়াছে দক্ষিণে ৷  
 অবশ্য করিব আমি তাঁর অন্বেষণে ॥ ৪৪ ॥
 
 sannyāsa kari’ viśvarūpa giyāche dakṣiṇe  
-avaśya kariba āmi tāṅra anveṣaṇe
+sannyāsa  having taken  Viśvarūpa  has gone  south  
+avaśya kariba āmi tāṅra anveṣaṇe  
+certainly  I shall make  I  his  search
 
-(44) [not yet translated]
+(44) Viśvarūpa took sannyāsa and went to the south, and I must go in search of him.
 
 আজ্ঞা দেহ, অবশ্য আমি দক্ষিণে চলিব ৷  
 তোমার আজ্ঞাতে শুভে লেউটি’ আসিব ॥ ৪৫ ॥
 
 ājñā deha, avaśya āmi dakṣiṇe caliba  
-tomāra ājñāte śubhe leuṭi’ āsiba
+permission  give  certainly  I  south  shall go  
+tomāra ājñāte śubhe leuṭi’ āsiba  
+by your  permission  safely  turning back  I shall come
 
-(45) [not yet translated]
+(45) Give Me permission, for I must go to the south. With your permission I shall come back safely.”
 
 শুনি’ সার্ব্বভৌম হৈলা অত্যন্ত কাতর ৷  
 চরণে ধরিয়া কহে বিষাদ-উত্তর ॥ ৪৬ ॥
 
 śuni’ sārvabhauma hailā atyanta kātara  
-caraṇe dhariyā kahe viṣāda-uttara
+hearing  Sārvabhauma  became  extremely  distressed  
+caraṇe dhariyā kahe viṣāda-uttara  
+the feet  clasping  he speaks  a sorrowful reply
 
-(46) [not yet translated]
+(46) Hearing this, Sārvabhauma was deeply distressed. Clasping the Lord’s feet, he replied sorrowfully,
 
 বহুজন্মের পুণ্যফলে পাইনু তোমার সঙ্গ ৷  
 হেন-সঙ্গ বিধি মোর করিলেক ভঙ্গ ॥ ৪৭ ॥
 
 bahu-janmera puṇya-phale pāinu tomāra saṅga  
-hena-saṅga vidhi mora karileka bhaṅga
+of many births  by the fruit of piety  I obtained  Your  company  
+hena-saṅga vidhi mora karileka bhaṅga  
+such company  Providence  my  has made  broken
 
-(47) [not yet translated]
+(47) “By the piety of many births I obtained Your company, and now Providence is breaking it off.
 
 শিরে বজ্র পড়ে যদি, পুত্র মরি’ যায় ৷  
 তাহা সহি, তোমার বিচ্ছেদ সহন না যায় ॥ ৪৮ ॥
 
 śire vajra paḍe yadi, putra mari’ yāya  
-tāhā sahi, tomāra viccheda sahana nā yāya
+on the head  a thunderbolt  falls  if  a son  dying  goes  
+tāhā sahi, tomāra viccheda sahana nā yāya  
+that  I bear  Your  separation  to bear  not  is possible
 
-(48) [not yet translated]
+(48) If a thunderbolt struck my head or my son died, I could bear it; but separation from You I cannot bear.
 
 স্বতন্ত্র-ঈশ্বর তুমি করিবে গমন ৷  
 দিন-কথো রহ, দেখি তোমার চরণ ॥ ৪৯ ॥
 
 svatantra-īśvara tumi karibe gamana  
-dina-katho raha, dekhi tomāra caraṇa
+the independent Lord  You  will make  departure  
+dina-katho raha, dekhi tomāra caraṇa  
+a few days  stay  let me see  Your  feet
 
-(49) [not yet translated]
+(49) You are the independent Lord, and You will go. But stay a few days, so that I may see Your feet.”
 
 তাহার বিনয়ে প্রভুর শিথিল হৈল মন ৷  
 রহিল দিবস-কথো, না কৈল গমন ॥ ৫০ ॥
 
 tāhāra vinaye prabhura śithila haila mana  
-rahila divasa-katho, nā kaila gamana
+his  by humility  of the Lord  softened  became  the heart  
+rahila divasa-katho, nā kaila gamana  
+He stayed  a few days  not  made  departure
 
-(50) [not yet translated]
+(50) His humble plea softened the Lord’s heart, and He stayed on a few days instead of leaving.
 
 ভট্টাচার্য্য আগ্রহ করি’ করেন নিমন্ত্রণ ৷  
 গৃহে পাক করি’ প্রভুকে করা’ন ভোজন ॥ ৫১ ॥
 
 bhaṭṭācārya āgraha kari’ karena nimantraṇa  
-gṛhe pāka kari’ prabhuke karā’na bhojana
+the Bhaṭṭācārya  insistence  making  makes  invitation  
+gṛhe pāka kari’ prabhuke karā’na bhojana  
+at home  cooking  doing  the Lord  makes take  the meal
 
-(51) [not yet translated]
+(51) The Bhaṭṭācārya insistently invited Him, had food cooked at home and fed the Lord.
 
 তাঁহার ব্রাহ্মণী, তাঁর নাম — ‘ষাঠীর মাতা’ ৷  
 রান্ধি’ ভিক্ষা দেন তিঁহো, আশ্চর্য্য তাঁর কথা ॥ ৫২ ॥
 
 tāṅhāra brāhmaṇī, tāṅra nāma — ‘ṣāṭhīra mātā’  
-rāndhi’ bhikṣā dena tiṅho, āścarya tāṅra kathā
+his  brāhmaṇa wife  her  name  ‘Ṣāṭhī’s mother’  
+rāndhi’ bhikṣā dena tiṅho, āścarya tāṅra kathā  
+having cooked  alms  gives  she  wonderful  her  story
 
-(52) [not yet translated]
+(52) His wife, known as “Ṣāṭhī’s mother”, cooked and served the Lord His meals. Her story is a wonderful one.
 
 আগে ত’ কহিব তাহা করিয়া বিস্তার ৷  
 এবে কহি প্রভুর দক্ষিণ-যাত্রা সমাচার ॥ ৫৩ ॥
 
 āge ta’ kahiba tāhā kariyā vistāra  
-ebe kahi prabhura dakṣiṇa-yātrā samācāra
+later  indeed  I shall tell  that  making  in detail  
+ebe kahi prabhura dakṣiṇa-yātrā samācāra  
+now  I tell  the Lord’s  southern journey  the account
 
-(53) [not yet translated]
+(53) I shall tell it in detail later on; now I tell the account of the Lord’s journey to the south.
 
 দিন পাঁচ রহি’ প্রভু ভট্টাচার্য্য-স্থানে ৷  
 চলিবার লাগি’ আজ্ঞা মাগিলা আপনে ॥ ৫৪ ॥
 
 dina pāṅca rahi’ prabhu bhaṭṭācārya-sthāne  
-calibāra lāgi’ ājñā māgilā āpane
+days  five  staying  the Lord  at the Bhaṭṭācārya’s place  
+calibāra lāgi’ ājñā māgilā āpane  
+for going  permission  asked  Himself
 
-(54) [not yet translated]
+(54) After staying five days with the Bhaṭṭācārya, the Lord Himself asked permission to set out.
 
 প্রভুর আগ্রহে ভট্ট সম্মত হইলা ৷  
 প্রভু তাঁরে লঞা জগন্নাথ-মন্দিরে গেলা ॥ ৫৫ ॥
 
 prabhura āgrahe bhaṭṭa sammata hailā  
-prabhu tāṅre lañā jagannātha-mandire gelā
+by the Lord’s  insistence  the Bhaṭṭa  consenting  became  
+prabhu tāṅre lañā jagannātha-mandire gelā  
+the Lord  him  taking  to the temple of Jagannātha  went
 
-(55) [not yet translated]
+(55) At the Lord’s insistence the Bhaṭṭācārya consented, and the Lord took him to the temple of Jagannātha.
 
 দর্শন করি’ ঠাকুর-পাশ আজ্ঞা মাগিলা ৷  
 পূজারী প্রভুরে মালা-প্রসাদ আনি’ দিলা ॥ ৫৬ ॥
 
 darśana kari’ ṭhākura-pāśa ājñā māgilā  
-pūjārī prabhure mālā-prasāda āni’ dilā
+darśana  having had  from the Deity  permission  He asked  
+pūjārī prabhure mālā-prasāda āni’ dilā  
+the priest  to the Lord  the garland-prasāda  bringing  gave
 
-(56) [not yet translated]
+(56) After seeing Jagannātha, He asked the Deity for permission, and the priest brought the Lord a garland from the Deity as prasāda.
 
 আজ্ঞা-মালা-পাঞা হর্ষে নমস্কার করি’ ৷  
 আনন্দে দক্ষিণদেশে চলে গৌরহরি ॥ ৫৭ ॥
 
 ājñā-mālā-pāñā harṣe namaskāra kari’  
-ānande dakṣiṇadeśe cale gaurahari
+permission and garland receiving  joyfully  obeisance  making  
+ānande dakṣiṇadeśe cale gaurahari  
+in bliss  to the southern land  goes  Gaurahari
 
-(57) [not yet translated]
+(57) Receiving the permission and the garland, Gaurahari joyfully bowed down and set out in bliss for the south.
 
 ভট্টাচার্য্য সঙ্গে আর যত নিজ জন ৷  
 জগন্নাথ প্রদক্ষিণ করি, করিলা গমন ॥ ৫৮ ॥
 
 bhaṭṭācārya saṅge āra yata nija jana  
-jagannātha pradakṣiṇa kari, karilā gamana
+the Bhaṭṭācārya  with  and  all  His own  people  
+jagannātha pradakṣiṇa kari, karilā gamana  
+Jagannātha  circumambulation  making  He made  departure
 
-(58) [not yet translated]
+(58) With the Bhaṭṭācārya and all His own people He walked around Jagannātha’s temple and then departed.
 
 সমুদ্র-তীরে-তীরে আলালনাথ-পথে ৷  
 সার্ব্বভৌম কহিলেন আচার্য্য-গোপীনাথে ॥ ৫৯ ॥
 
 samudra-tīre-tīre ālālanātha-pathe  
-sārvabhauma kahilena ācārya-gopīnāthe
+along the seashore  on the road to Ālālanātha  
+sārvabhauma kahilena ācārya-gopīnāthe  
+Sārvabhauma  said  to Gopīnātha Ācārya
 
-(59) [not yet translated]
+(59) On the road to Ālālanātha along the seashore, Sārvabhauma said to Gopīnātha Ācārya,
 
 চারি কৌপীন-বহির্ব্বাস রাখিয়াছি ঘরে ৷  
 তাহা, প্রসাদান্ন, লঞা আইস বিপ্রদ্বারে ॥ ৬০ ॥
 
 cāri kaupīna-bahirvāsa rākhiyāchi ghare  
-tāhā, prasādānna, lañā āisa vipra-dvāre
+four  kaupīnas and outer cloths  I have kept  at home  
+tāhā, prasādānna, lañā āisa vipra-dvāre  
+them  prasāda  taking  come  by a brāhmaṇa
 
-(60) [not yet translated]
+(60) “I have kept four sets of kaupīnas and outer cloths at home. Have them brought by a brāhmaṇa, together with prasāda.”
 
 তবে সার্ব্বভৌম কহে প্রভুর চরণে ৷  
 অবশ্য পালিবে, প্রভু, মোর নিবেদনে ॥ ৬১ ॥
 
 tabe sārvabhauma kahe prabhura caraṇe  
-avaśya pālibe, prabhu, mora nivedane
+then  Sārvabhauma  says  at the Lord’s  feet  
+avaśya pālibe, prabhu, mora nivedane  
+certainly  You will fulfil  Prabhu  my  request
 
-(61) [not yet translated]
+(61) Then Sārvabhauma said at the Lord’s feet, “Prabhu, please fulfil my request.
 
 ‘রামানন্দ রায়’ আছে গোদাবরী-তীরে ৷  
 অধিকারী হয়েন তিঁহো বিদ্যানগরে ॥ ৬২ ॥
 
 ‘rāmānanda rāya’ āche godāvarī-tīre  
-adhikārī hayena tiṅho vidyānagare
+Rāmānanda Rāya  is  on the bank of the Godāvarī  
+adhikārī hayena tiṅho vidyānagare  
+governor  is  he  in Vidyānagara
 
-(62) [not yet translated]
+(62) Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor in Vidyānagara.
 
 শূদ্র বিষয়ী-জ্ঞানে উপেক্ষা না করিবে ৷  
 আমার বচনে তাঁরে অবশ্য মিলিবে ॥ ৬৩ ॥
 
 śūdra viṣayī-jñāne upekṣā nā karibe  
-āmāra vacane tāṅre avaśya milibe
+as a śūdra and a worldly man  regarding  neglect  not  You will do  
+āmāra vacane tāṅre avaśya milibe  
+by my  word  him  certainly  You will meet
 
-(63) [not yet translated]
+(63) Do not neglect him, thinking him a śūdra and a worldly man (*viṣayī*). At my request, be sure to meet him.
 
 তোমার সঙ্গের যোগ্য তিঁহো একজন ৷  
 পৃথিবীতে রসিক ভক্ত নাহি তাঁর সম ॥ ৬৪ ॥
 
 tomāra saṅgera yogya tiṅho eka jana  
-pṛthivīte rasika bhakta nāhi tāṅra sama
+of Your  company  worthy  he  the one  person  
+pṛthivīte rasika bhakta nāhi tāṅra sama  
+on earth  rasika  devotee  there is no  his  equal
 
-(64) [not yet translated]
+(64) He is the one person worthy of Your company. On earth there is no devotee who knows the taste of rasa (*rasika*) to equal him.
 
 পাণ্ডিত্য আর ভক্তিরস, — দুঁহের তিঁহো সীমা ৷  
 সম্ভাষিলে জানিবে তুমি তাঁহার মহিমা ॥ ৬৫ ॥
 
 pāṇḍitya āra bhakti-rasa, — duṅhera tiṅho sīmā  
-sambhāṣile jānibe tumi tāṅhāra mahimā
+learning  and  the rasa of bhakti  of both  he  the limit  
+sambhāṣile jānibe tumi tāṅhāra mahimā  
+speaking with him  will know  You  his  greatness
 
-(65) [not yet translated]
+(65) In learning and in the rasa of devotion he has reached the limit of both. When You speak with him, You will know his greatness.
 
 অলৌকিক বাক্য চেষ্টা তাঁর না বুঝিয়া ৷  
 পরিহাস করিয়াছি তাঁরে ‘বৈষ্ণব’ জানিয়া ॥ ৬৬ ॥
 
 alaukika vākya ceṣṭā tāṅra nā bujhiyā  
-parihāsa kariyāchi tāṅre ‘vaiṣṇava’ jāniyā
+extraordinary  words  actions  his  not  understanding  
+parihāsa kariyāchi tāṅre ‘vaiṣṇava’ jāniyā  
+mockery  I have made  him  a ‘Vaiṣṇava’  knowing
 
-(66) [not yet translated]
+(66) Not understanding his extraordinary words and actions, I used to mock him, knowing him to be a Vaiṣṇava.
 
 তোমার প্রসাদে এবে জানিনু তাঁর তত্ত্ব ৷  
 সম্ভাষিলে জানিবে তাঁর যেমন মহত্ত্ব ॥ ৬৭ ॥
 
 tomāra prasāde ebe jāninu tāṅra tattva  
-sambhāṣile jānibe tāṅra yemana mahattva
+by Your  grace  now  I know  his  truth  
+sambhāṣile jānibe tāṅra yemana mahattva  
+speaking with him  You will know  his  how  great
 
-(67) [not yet translated]
+(67) By Your grace I now understand who he truly is. Speak with him, and You will see how great he is.”
 
 অঙ্গীকার করি’ প্রভু তাঁহার বচন ৷  
 তাঁরে বিদায় দিতে তাঁরে কৈল আলিঙ্গন ॥ ৬৮ ॥
 
 aṅgīkāra kari’ prabhu tāṅhāra vacana  
-tāṅre vidāya dite tāṅre kaila āliṅgana
+acceptance  making  the Lord  his  words  
+tāṅre vidāya dite tāṅre kaila āliṅgana  
+him  farewell  to give  him  made  an embrace
 
-(68) [not yet translated]
+(68) The Lord accepted his words and, bidding him farewell, embraced him,
 
 ঘরে কৃষ্ণ ভজি’ মোরে করিহ আশীর্ব্বাদে ৷  
 নীলাচলে আসি’ যেন তোমার প্রসাদে ॥ ৬৯ ॥
 
 ghare kṛṣṇa bhaji’ more kariha āśīrvāde  
-nīlācale āsi’ yena tomāra prasāde
+at home  Kṛṣṇa  worshipping  Me  make  blessings  
+nīlācale āsi’ yena tomāra prasāde  
+to Nīlācala  I may come  so that  by your  grace
 
-(69) [not yet translated]
+(69) saying, “Worship Kṛṣṇa at home and bless Me, so that by your grace I may return to Nīlācala.”
 
 এত বলি’ মহাপ্রভু করিলা গমন ৷  
 মূর্চ্ছিত হঞা তাঁহা পড়িলা সার্ব্বভৌম ॥ ৭০ ॥
 
 eta bali’ mahāprabhu karilā gamana  
-mūrcchita hañā tāṅhā paḍilā sārvabhauma
+so  saying  Mahāprabhu  made  departure  
+mūrcchita hañā tāṅhā paḍilā sārvabhauma  
+unconscious  becoming  there  fell  Sārvabhauma
 
-(70) [not yet translated]
+(70) With these words Mahāprabhu departed, and Sārvabhauma fell unconscious on the spot.
 
 তাঁরে উপেক্ষিয়া কৈল শীঘ্র গমন ৷  
 কে বুঝিতে পারে মহাপ্রভুর চিত্ত-মন ॥ ৭১ ॥
 
 tāṅre upekṣiyā kaila śīghra gamana  
-ke bujhite pāre mahāprabhura citta-mana
+him  disregarding  He made  swift  departure  
+ke bujhite pāre mahāprabhura citta-mana  
+who  to understand  can  of Mahāprabhu  the heart and mind
 
-(71) [not yet translated]
+(71) Paying no heed to him, the Lord went quickly on His way. Who can understand the heart and mind of Mahāprabhu?
 
 মহানুভাবের চিত্তের স্বভাব এই হয় ৷  
 পুষ্প-সম কোমল, কঠিন বজ্রময় ॥ ৭২ ॥
 
 mahānubhāvera cittera svabhāva ei haya  
-puṣpa-sama komala, kaṭhina vajra-maya
+of great souls  of the heart  the nature  this  is  
+puṣpa-sama komala, kaṭhina vajra-maya  
+like a flower  soft  hard  like a thunderbolt
 
-(72) [not yet translated]
+(72) Such is the nature of the hearts of great souls: they are soft as a flower, and hard as a thunderbolt.
 
 বজ্রাদপি কঠোরাণি মৃদূনি কুসুমাদপি ৷  
 লোকোত্তরাণাং চেতাংসি কো নু বিজ্ঞাতুমীশ্বরঃ ॥ ৭৩ ॥
 
 vajrād api kaṭhorāṇi  
+than a thunderbolt  even  harder  
 mṛdūni kusumād api  
+softer  than a flower  even  
 lokottarāṇāṁ cetāṁsi  
-ko nu vijñātum īśvaraḥ
+of those beyond this world  the hearts  
+ko nu vijñātum īśvaraḥ  
+who  indeed  to understand  is able
 
-(73) [not yet translated]
+(73) “Harder than a thunderbolt and softer than a flower are the hearts of those who are beyond this world. Who can understand them?”
 
 নিত্যানন্দপ্রভু ভট্টাচার্য্যে উঠাইল ৷  
 তাঁর লোকসঙ্গে তাঁরে ঘরে পাঠাইল ॥ ৭৪ ॥
 
 nityānandaprabhu bhaṭṭācārye uṭhāila  
-tāṅra loka-saṅge tāṅre ghare pāṭhāila
+Nityānanda Prabhu  the Bhaṭṭācārya  raised  
+tāṅra loka-saṅge tāṅre ghare pāṭhāila  
+his  with people  him  home  sent
 
-(74) [not yet translated]
+(74) Nityānanda Prabhu lifted the Bhaṭṭācārya up and sent him home with his men.
 
 ভক্তগণ শীঘ্র আসি’ লৈল প্রভুর সাথ ৷  
 বস্ত্র-প্রসাদ লঞা তবে আইলা গোপীনাথ ॥ ৭৫ ॥
 
 bhakta-gaṇa śīghra āsi’ laila prabhura sātha  
-vastra-prasāda lañā tabe āilā gopīnātha
+the devotees  quickly  coming  took  the Lord’s  company  
+vastra-prasāda lañā tabe āilā gopīnātha  
+cloth and prasāda  bringing  then  came  Gopīnātha
 
-(75) [not yet translated]
+(75) The devotees quickly came and joined the Lord, and then Gopīnātha arrived with the cloth and the prasāda.
 
 সবা-সঙ্গে প্রভু তবে আলালনাথ আইলা ৷  
 নমস্কার করি’ তারে বহুস্তুতি কৈলা ॥ ৭৬ ॥
 
 sabā-saṅge prabhu tabe ālālanātha āilā  
-namaskāra kari’ tāre bahu-stuti kailā
+with all  the Lord  then  to Ālālanātha  came  
+namaskāra kari’ tāre bahu-stuti kailā  
+obeisance  making  to Him  many prayers  offered
 
-(76) [not yet translated]
+(76) Then the Lord came with them all to Ālālanātha, bowed down to Him and offered Him many prayers.
 
 প্রেমাবেশে নৃত্যগীত কৈল কতক্ষণ ৷  
 দেখিতে আইলা তাঁহা বৈসে যত জন ॥ ৭৭ ॥
 
 premāveśe nṛtya-gīta kaila kata-kṣaṇa  
-dekhite āilā tāṅhā vaise yata jana
+absorbed in love  dancing and singing  He did  for some time  
+dekhite āilā tāṅhā vaise yata jana  
+to see  came  there  dwell  as many as  people
 
-(77) [not yet translated]
+(77) For some time He danced and sang, absorbed in love, and all the people who lived there came to see Him.
 
 চৌদিকেতে সব লোক বলে ‘হরি’ ‘হরি’ ৷  
 প্রেমাবেশে মধ্যে নৃত্য করে গৌরহরি ॥ ৭৮ ॥
 
 caudikete saba loka bale ‘hari’ ‘hari’  
-premāveśe madhye nṛtya kare gaurahari
+on all sides  all  the people  say  Hari  Hari  
+premāveśe madhye nṛtya kare gaurahari  
+absorbed in love  in the middle  dance  does  Gaurahari
 
-(78) [not yet translated]
+(78) All around Him the people called out, “Hari! Hari!” and in their midst Gaurahari danced, absorbed in love.
 
 কাঞ্চন-সদৃশ দেহ, অরুণ বসন ৷  
 পুলকাশ্রু-কম্প-স্বেদ তাহাতে ভূষণ ॥ ৭৯ ॥
 
 kāñcana-sadṛśa deha, aruṇa vasana  
-pulakāśru-kampa-sveda tāhāte bhūṣaṇa
+like gold  body  reddish  garment  
+pulakāśru-kampa-sveda tāhāte bhūṣaṇa  
+horripilation, tears, trembling and perspiration  on it  the ornaments
 
-(79) [not yet translated]
+(79) His body was like gold, His garment the colour of dawn, and horripilation, tears, trembling and perspiration adorned Him.
 
 দেখিয়া লোকের মনে হৈল চমৎকার ৷  
 যত লোক আইসে, কেহ নাহি যায় ঘর ॥ ৮০ ॥
 
 dekhiyā lokera mane haila camatkāra  
-yata loka āise, keha nāhi yāya ghara
+seeing  of the people  in the minds  arose  wonder  
+yata loka āise, keha nāhi yāya ghara  
+as many  people  come  anyone  not  goes  home
 
-(80) [not yet translated]
+(80) The sight filled the people with wonder. Of all who came, no one went home.
 
 কেহ নাচে, কেহ গায় ‘শ্রীকৃষ্ণ’ ‘গোপাল’ ৷  
 প্রেমেতে ভাসিল লোক, — স্ত্রী-বৃদ্ধ-আবাল ॥ ৮১ ॥
