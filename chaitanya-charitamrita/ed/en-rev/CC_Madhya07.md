@@ -1152,7 +1152,7 @@ in this way  going  going  He went  to Kūrma-sthāna
 kūrma dekhi’ kaila tāre stavana-praṇāme  
 Kūrma  seeing  He made  to Him  prayers and obeisances
 
-(113) Travelling on in this way, He came to Kūrma-sthāna. Seeing the Deity of Kūrma, He offered Him prayers and obeisances.
+(113) Travelling on in this way, He came to Kūrma-sthāna. Seeing the Deity of Kūrma, He offered Him prayers and obeisances.[^22]
 
 প্রেমাবেশে হাসি’ কান্দি’ নৃত্য-গীত কৈল ৷  
 দেখি’ সর্ব্ব লোকের চিত্তে চমৎকার হৈল ॥ ১১৪ ॥
@@ -1202,7 +1202,7 @@ in this way  by succession  the land  Vaiṣṇava  became
 kṛṣṇa-nāmāmṛta-vanyāya deśa bhāsāila  
 by the flood of the nectar of Kṛṣṇa’s name  the land  He flooded
 
-(118) In this way, one from another, the whole land became Vaiṣṇava: He flooded the country with the nectar of Kṛṣṇa’s name.
+(118) In this way, one from another, the whole land became Vaiṣṇava, and a flood of the nectar of Kṛṣṇa’s name swept over the country.
 
 কতক্ষণে প্রভু যদি বাহ্য প্রকাশিলা ৷  
 কূর্ম্মের সেবক বহু সম্মান করিলা ॥ ১১৯ ॥
@@ -1292,7 +1292,7 @@ the Lord  says  such  talk  ever  not  you should say
 gṛhe rahi’ kṛṣṇa-nāma nirantara laibā  
 at home  staying  Kṛṣṇa’s name  constantly  you should take
 
-(127) The Lord said, “Never speak like that. Stay at home and chant the name of Kṛṣṇa constantly.
+(127) The Lord said, “Never speak like that. Stay at home and chant the name of Kṛṣṇa constantly.[^23]
 
 যারে দেখ, তারে কহ ‘কৃষ্ণ’-উপদেশ ৷  
 আমার আজ্ঞায় গুরু হঞা তার’ এই দেশ ॥ ১২৮ ॥
@@ -1322,7 +1322,7 @@ in this way  in whose  house  takes  the Lord  alms
 sei aiche kahe, tām̐re karāya ei śikṣā  
 he  likewise  speaks  to him  He gives  this  teaching
 
-(130) In whatever house the Lord took His meal, the host spoke in the same way, and the Lord gave him this same teaching.
+(130) In whatever house the Lord took His meal, the host spoke in the same way, and the Lord gave him this same teaching.[^24]
 
 পথে যাইতে দেবালয়ে রহে যেই গ্রামে ৷  
 যাঁর ঘরে ভিক্ষা করে, সেই মহাজনে ॥ ১৩১ ॥
@@ -1339,7 +1339,7 @@ with Kūrma  as  the custom  so  He did  everywhere
 nīlācale punaḥ yāvat nā āilā gosāñi  
 to Nīlācala  again  until  not  came  Gosāñi
 
-(131–132) On His way, in whatever village He stayed at a temple, and with whatever great soul in whose house He took His meal, He did as He had done with Kūrma. So He did everywhere, until Gosāñi came back to Nīlācala.
+(131–132) On the way, in whatever village He stayed at the temple, He would take His meal in someone’s house, and with that great soul, His host, He dealt as He had with Kūrma. So He did everywhere, until Gosāñi returned to Nīlācala.[^25]
 
 অতএব ইঁহা কহিলাঙ করিয়া বিস্তার ৷  
 এইমত জানিবে প্রভুর সর্ব্বত্র ব্যবহার ॥ ১৩৩ ॥
@@ -1453,7 +1453,7 @@ a brāhmaṇa by birth only  thus  indeed  I
 bāhubhyāṁ parirambhitaḥ  
 with both arms  was embraced
 
-(143) “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet because I was born a brāhmaṇa, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)
+(143) “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet because I was born a brāhmaṇa, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)[^26]
 
 বহু স্তুতি করি’ কহে, — শুন, দয়াময় ৷  
 জীবে এই গুণ নাহি, তোমাতে এই হয় ॥ ১৪৪ ॥
@@ -1523,7 +1523,7 @@ two  brāhmaṇas  embracing  weep  for the Lord’s  qualities
 ‘vāsudevāmṛta-prada’ haila prabhura nāma  
 ‘the Giver of nectar to Vāsudeva’  became  the Lord’s  name
 
-(150) Thus I have told the story of Vāsudeva’s deliverance, through which the Lord received the name Vāsudevāmṛta-prada, “the Giver of nectar to Vāsudeva”.
+(150) Thus I have told the story of Vāsudeva’s deliverance, through which the Lord received the name Vāsudevāmṛta-prada, “the Giver of nectar to Vāsudeva”.[^27]
 
 এই ত’ কহিল প্রভুর প্রথম গমন ৷  
 কূর্ম্ম-দরশন, বাসুদেব-বিমোচন ॥ ১৫১ ॥
@@ -1533,7 +1533,7 @@ this  indeed  I have told  the Lord’s  first  journey
 kūrma-daraśana, vāsudeva-vimocana  
 the sight of Kūrma  Vāsudeva’s deliverance
 
-(151) Thus I have told of the beginning of the Lord’s journey: His visit to Kūrma and the deliverance of Vāsudeva.
+(151) So I have described the beginning of the Lord’s journey: His visit to Kūrma and the deliverance of Vāsudeva.
 
 শ্রদ্ধা করি’ এই লীলা যে করে শ্রবণ ৷  
 অচিরাতে মিলয়ে তারে চৈতন্য-চরণ ॥ ১৫২ ॥
@@ -1543,7 +1543,7 @@ faith  having  this  pastime  who  makes  hearing
 acirāte milaye tāre caitanya-caraṇa  
 soon  obtains  he  Caitanya’s feet
 
-(152) Whoever hears this pastime with faith soon attains the feet of Caitanya.
+(152) Whoever hears this pastime with faith soon attains the feet of Caitanya.[^28]
 
 চৈতন্যলীলার আদি-অন্ত নাহি জানি ৷  
 সেই লিখি, যেই মহান্তের মুখে শুনি ॥ ১৫৩ ॥
@@ -1618,3 +1618,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^20]: *Amṛta-pravāha-bhāṣya*: the essence of the *hlādinī* potency and the essence of the *saṁvit* potency together form *bhakti-śakti*, the power of devotion; whoever receives it by the mercy of Kṛṣṇa or His devotee becomes a supreme devotee. On whomever Mahāprabhu bestowed His mercy, He invested this power and entrusted him with preaching the Vaiṣṇava dharma.
 
 [^21]: *Amṛta-pravāha-bhāṣya*: although Navadvīpa is a *dhāma*, the *nyāya* and *smṛti* śāstras were then especially strong there, and among their teachers many had turned away from the Lord; to deliver them the Lord showed no special power.
+
+[^22]: *Anubhāṣya*: Kūrma-sthāna is Kūrmācala, or Śrīkūrmam, in Ganjam district, eight miles east of Chicacole Road station, where the Deity of Kūrma resides. According to the *Prapannāmṛta*, Jagannātha once carried Rāmānuja there in a single night; at first Rāmānuja took the Deity for a Śiva-liṅga, but then he opened the worship of Kūrmadeva.
+
+[^23]: Heading in the edition: the Lord orders everyone to preach the name of Kṛṣṇa and bhakti as ācāryas.
+
+[^24]: *Anubhāṣya*: to those who wish to give up everything and serve Mahāprabhu, the Lord says, “Stay at home” — that is, give up the pride of being “wholly given to bhajana”; with a householder’s humility chant the name of Kṛṣṇa constantly and preach the pure name, and then the waves of worldliness, the craving for fame, will not overwhelm you. Śrī Rūpa, Sanātana, Jīva, Raghunātha dāsa, Narottama, Madhva and Rāmānuja accepted disciples and wrote books; to regard this as an obstacle to bhakti is an offence. So Śrī Gaurāṅga, the guru of the world, orders everyone to become an ācārya.
+
+[^25]: Heading in the edition: until He returned to Purī, the Lord ordered everyone to preach bhakti as ācāryas.
+
+[^26]: The same verse as Ādi 17.78 (see the *Anubhāṣya* summary there); translation as there.
+
+[^27]: *Amṛta-pravāha-bhāṣya*: this name is among the “hundred names of Śrī Caitanya” composed by Śrī Sārvabhauma.
+
+[^28]: *Anubhāṣya*: Śrī Kṛṣṇa Caitanya awakens consciousness (*caitanya*) in jīvas devoid of it; having gained consciousness and turned to the service of Kṛṣṇa, they in turn as ācāryas awaken it in others — so Śrī Gaurasundara increases the family of Acyuta, spreading the path of *śrauta*.
