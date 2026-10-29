@@ -678,7 +678,7 @@ Rāya  said  mixed with knowledge  devotion  of the goal  the essence
 সমঃ সর্ব্বেষু ভূতেষু মদ্ভক্তিং লভতে পরাম্ ॥ ৬৫ ॥
 
 brahma-bhūtaḥ prasannātmā  
-one who has realized Brahman  serene in self  
+one who has realised Brahman  serene in self  
 na śocati na kāṅkṣati  
 not  grieves  not  desires  
 samaḥ sarveṣu bhūteṣu  
@@ -686,7 +686,7 @@ equal  to all  beings
 mad-bhaktiṁ labhate parām  
 for Me  devotion  attains  supreme
 
-(65) “One who has realized Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)
+(65) “One who has realised Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)
 
 প্রভু কহে, — এহো বাহ্য, আগে কহ আর ৷  
 রায় কহে, জ্ঞানশূন্যা ভক্তি — সাধ্যসার ॥ ৬৬ ॥
@@ -820,7 +820,7 @@ for those under māyā  a human boy
 sārdhaṁ vijahruḥ kṛta-puṇya-puñjāḥ  
 with (Him)  played  who had amassed  of pious deeds  heaps
 
-(75) “Thus with Him — to the sages the experience of the bliss of Brahman, to those who have taken up His service the Supreme Deity, and to those under the spell of *māyā* a human boy — the cowherd boys played, for they had amassed heaps of pious deeds.” (Śrīmad-Bhāgavatam, 10.12.11)
+(75) “Thus the cowherd boys, who had amassed heaps of pious deeds, played with Him who is to the sages the experience of Brahman’s bliss, to those who have taken up His service the Supreme Deity, and to those under the spell of *māyā* a human child.” (Śrīmad-Bhāgavatam, 10.12.11)
 
 প্রভু কহে, — এহো উত্তম, আগে কহ আর ৷  
 রায় কহে, বাৎসল্য-প্রেম — সর্ব্বসাধ্যসার ॥ ৭৬ ॥
@@ -868,7 +868,7 @@ the Lord  said  this  excellent  further  say  more
 rāya kahe, kānta-bhāva — prema-sādhya-sāra  
 Rāya  said  the mood of the beloved  of love’s goal  the essence
 
-(79) The Lord said, “This is excellent, but go further.” Rāya said, “The love of the beloved for her Lover (*kānta-bhāva*) is the essence of the goal that is *prema*.[^21]
+(79) The Lord said, “This is excellent, but go further.” Rāya said, “Love for the Lord as one’s Beloved (*kānta-bhāva*) is the very essence of the goals of *prema*.[^21]
 
 নায়ং শ্রিয়োঽঙ্গ উ নিতান্তরতেঃ প্রসাদঃ  
 স্বর্যোষিতাং নলিনগন্ধরুচাং কুতোঽন্যাঃ ৷  
@@ -876,15 +876,15 @@ Rāya  said  the mood of the beloved  of love’s goal  the essence
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ৮০ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not  this  of Śrī  on the chest  indeed  wholly attached  favor  
+not  this  of Śrī  on the chest  indeed  wholly attached  favour  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
-of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
+of the celestial women  of lotuses  the fragrance  having the lustre  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
 at the festival of rāsa  His  by the arms  embraced  around the neck  
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
 who obtained their desire  which  arose  of Vraja  the beautiful women
 
-(80) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^22][^23]
+(80) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favour was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^22][^23]
 
 তাসামাবিরভূচ্ছৌরিঃ স্ময়মানমুখাম্বুজঃ ৷  
 পীতাম্বরধরঃ স্রগ্বী সাক্ষান্মন্মথমন্মথঃ ॥ ৮১ ॥
@@ -1194,7 +1194,7 @@ of these  two verses  the meaning  if one considers  we know
 vicārite uṭhe yena amṛtera khani  
 in considering  rises  as if  of nectar  a mine
 
-(107) If one considers the meaning of these two verses, one understands; as one considers them, it is as if a mine of nectar opens up.
+(107) Reflect on the meaning of these two verses and it becomes clear; as one reflects, a mine of nectar seems to open up.
 
 শতকোটি গোপী-সঙ্গে-রাসবিলাস ৷  
 তার মধ্যে এক-মূর্ত্ত্যে রহে রাধা-পাশ ॥ ১০৮ ॥
@@ -1212,9 +1212,9 @@ among them  in one form  He stays  at Rādhā’s side
 sādhāraṇa-preme dekhi sarvatra ‘samatā’  
 in ordinary  love  we see  everywhere  equality  
 rādhāra kuṭila-preme haila ‘vāmatā’  
-in Rādhā’s  crooked  love  arose  contrariness
+in Rādhā’s  winding  love  arose  contrariness
 
-(109) In ordinary love one sees equality everywhere; but in Rādhā’s crooked love there arose contrariness (*vāmatā*).[^33]
+(109) In ordinary love one sees equality everywhere; but in Rādhā’s winding love there arose contrariness (*vāmatā*).[^33]
 
 অহেরিব গতিঃ প্রেম্ণঃ স্বভাবকুটিলা ভবেৎ ৷  
 অতো হেতোরহেতোশ্চ যূনোর্মান উদঞ্চতি ॥ ১১০ ॥
@@ -1222,13 +1222,13 @@ in Rādhā’s  crooked  love  arose  contrariness
 aher iva gatiḥ premṇaḥ  
 of a snake  like  the movement  of love  
 svabhāva-kuṭilā bhavet  
-by nature  crooked  is  
+by nature  winding  is  
 ato hetor ahetoś ca  
 therefore  with cause  without cause  and  
 yūnor māna udañcati  
 of the young pair  pique  arises
 
-(110) “Like the movement of a snake, the course of love is crooked by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)
+(110) “Like the movement of a snake, the course of love is winding by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)
 
 ক্রোধ করি’ রাস ছাড়ি’ গেলা মান করি’ ৷  
 তাঁরে না দেখিয়া ব্যাকুল হৈল শ্রীহরি ॥ ১১১ ॥
@@ -1248,7 +1248,7 @@ the complete  desire  of Kṛṣṇa  the wish  the rāsa-līlā
 rāsa-līlā-vāsanāte rādhikā śṛṅkhalā  
 in the desire for the rāsa-līlā  Rādhikā  the chain
 
-(112) Kṛṣṇa’s complete desire is the *rāsa-līlā*, and in that desire for the *rāsa-līlā* Rādhikā is the chain that binds it.
+(112) Kṛṣṇa’s whole desire is set on the *rāsa-līlā*, and in that desire Rādhikā is the chain that holds it all together.
 
 তাঁহা বিনা রাসলীলা নাহি ভায় চিত্তে ৷  
 মণ্ডলী ছাড়িয়া গেলা রাধা অন্বেষিতে ॥ ১১৩ ॥
@@ -1870,7 +1870,7 @@ of praṇaya  of māna  by the bodice  of the breast  the covering
 saundarya — kuṅkuma, sakhī-praṇaya — candana  
 beauty  kuṅkuma  of the sakhīs  the love  sandal paste  
 smitakānti — karpūra, tina — aṅge vilepana  
-the luster of Her smile  camphor  these three  on the limbs  the ointment
+the lustre of Her smile  camphor  these three  on the limbs  the ointment
 
 (169) Her beauty is *kuṅkuma*, the love of Her *sakhīs* is sandal paste, and the lustre of Her smile is camphor; these three anoint Her limbs.
 
@@ -1900,9 +1900,9 @@ of dhīrādhīrā  the quality  on the body  the silk wrap
 rāga-tāmbūla-rāge adhara ujjvala  
 of rāga  of betel  with the red  the lips  shine  
 prema-kauṭilya — netra-yugale kajjala  
-of prema  the crookedness  on the two eyes  kohl
+of prema  the winding ways  on the two eyes  kohl
 
-(172) Her lips shine with the red of the betel of *rāga*, and the crookedness of *prema* is the kohl on Her eyes.
+(172) Her lips shine with the red of the betel of *rāga*, and the winding ways of *prema* are the kohl on Her eyes.
 
 ‘সূদ্দীপ্ত-সাত্ত্বিক’ ভাব, হর্ষাদি ‘সঞ্চারী’ ৷  
 এই সব ভাব-ভূষণ সব-অঙ্গে ভরি’ ॥ ১৭৩ ॥
@@ -2152,7 +2152,7 @@ now  that very  virāga  you  have become  the messenger
 su-purukha-premaki aichana rīti  
 of a fine hero  of the love  such  the way
 
-(193) “From the very first, love (*rāga*) arose from the play of our eyes. Day by day it grew and knew no bound. He was not the lover, nor was I the beloved: Manobhava, the god of love, ground our two hearts into one. O friend, if you find that He has forgotten, tell Kānu all these stories of our love. We sought no messenger and asked no one else: when we met, the five arrows were our go-between. Now that very *rāga* has become *virāga*, the pain of separation, and you have become the messenger. Such is the way of love for an excellent hero.”[^57]
+(193) “From the very first, love (*rāga*) arose from the play of our eyes. Day by day it grew and knew no bound. He was not the lover, nor was I the beloved: Manobhava, the god of love, blended our two hearts into one. O friend, if you find that He has forgotten, tell Kānu the whole story of our love. We sought no messenger and asked no one else: when we met, the five arrows were our go-between. Now that very *rāga* has become *virāga*, the pain of separation, and you have become the messenger. Such is the way of love for an excellent hero.”[^57]
 
 রাধায়া ভবতশ্চ চিত্তজতুনী স্বেদৈর্বিলাপ্য ক্রমাদ্-  
 যুঞ্জন্নদ্রি-নিকুঞ্জ-কুঞ্জরপতে নির্ধূত-ভেদভ্রমম্ ৷  
@@ -2168,7 +2168,7 @@ for wonder  himself  colored  here  of the universe  of the palace  within
 bhūyobhir nava-rāga-hiṅgula-bharaiḥ śṛṅgāra-kārukṛtī  
 with abundant  of new  rāga  of vermilion  masses  of śṛṅgāra  the skilled artist
 
-(194) “O lord of elephants, You who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that the illusion of difference vanished. Then, here within the palace of the universe, he himself coloured them, to the wonder of all, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi, 14.155)[^58]
+(194) “O lord of elephants, You who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that all thought of difference vanished. Then, here within the palace of the universe, he himself coloured them, to the wonder of all, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi, 14.155)[^58]
 
 প্রভু কহে, — ‘সাধ্যবস্তুর অবধি’ এই হয় ৷  
 তোমার প্রসাদে ইহা জানিলুঁ নিশ্চয় ॥ ১৯৫ ॥
@@ -2465,9 +2465,9 @@ to the mood  suited  a body  receiving  Kṛṣṇa  attains  in Vraja
 tāhāte dṛṣṭānta — upaniṣad śruti-gaṇa  
 of this  the example  of the Upaniṣads  the Śrutis  
 rāga-mārge bhaji’ pāila vrajendra-nandana  
-on the path of rāga  worshiping  they attained  the son of the king of Vraja
+on the path of rāga  worshipping  they attained  the son of the king of Vraja
 
-(222) The example of this is the Śrutis of the Upaniṣads: worshiping on the path of *rāga*, they attained the son of the king of Vraja.
+(222) The example of this is the Śrutis of the Upaniṣads: worshipping on the path of *rāga*, they attained the son of the king of Vraja.
 
 নিভৃতমরুন্মনোঽক্ষদৃঢ়যোগযুজো হৃদি য-  
 ন্মুনয় উপাসতে তদরয়োঽপি যযুঃ স্মরণাৎ ৷  
@@ -2545,7 +2545,7 @@ in the mood of a sakhī  one attains  of Rādhā and Kṛṣṇa  the feet
 gopī-ānugatya vinā aiśvarya-jñāne  
 the gopīs  following  without  in awareness of majesty  
 bhajileha nāhi pāya vrajendra-nandane  
-even worshiping  not  one attains  the son of the king of Vraja
+even worshipping  not  one attains  the son of the king of Vraja
 
 (229) Without following the gopīs, one who worships with awareness of His majesty (*aiśvarya*) does not attain the son of the king of Vraja.
 
@@ -2565,15 +2565,15 @@ still  not  she attained  in Vraja  the son of the king of Vraja
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ২৩১ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not  this  of Śrī  on the chest  indeed  wholly attached  favor  
+not  this  of Śrī  on the chest  indeed  wholly attached  favour  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
-of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
+of the celestial women  of lotuses  the fragrance  having the lustre  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
 at the festival of rāsa  His  by the arms  embraced  around the neck  
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
 who obtained their desire  which  arose  of Vraja  the beautiful women
 
-(231) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^64]
+(231) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favour was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^64]
 
 এত শুনি’ প্রভু তাঁরে কৈল আলিঙ্গন ৷  
 দুইজনে গলাগলি করেন ক্রন্দন ॥ ২৩২ ॥
@@ -2823,7 +2823,7 @@ liberation  enjoyment  desires  who  where  of the two  the destination
 sthāvara-deha, deva-deha, yaiche avasthiti  
 an immobile body  a body of a god  so  the condition
 
-(256) “Those who desire liberation and those who desire enjoyment — where do the two of them go?” “They end up in an immobile body and in the body of a god.
+(256) “Those who desire liberation and those who desire enjoyment — where do the two of them go?” “The one attains an immobile body, the other the body of a god.
 
 অরসজ্ঞ কাক চুষে জ্ঞান-নিম্বফলে ৷  
 রসজ্ঞ কোকিল খায় প্রেমাম্র-মুকুলে ॥ ২৫৭ ॥
@@ -2833,7 +2833,7 @@ ignorant of taste  the crow  sucks  of knowledge  of the nimba  the fruit
 rasa-jña kokila khāya premāmra-mukule  
 knowing taste  the cuckoo  eats  of love  of the mango  the buds
 
-(257) The crow that knows no taste sucks the bitter nimba fruit of *jñāna*, while the cuckoo that knows rasa eats the mango buds of prema.
+(257) The crow, knowing nothing of rasa, sucks the bitter nimba fruit of knowledge (*jñāna*), while the cuckoo, who knows rasa, feasts on the mango buds of prema.
 
 অভাগিয়া জ্ঞানী আস্বাদয়ে শুষ্ক জ্ঞান ৷  
 কৃষ্ণ-প্রেমামৃত পান করে ভাগ্যবান্ ॥ ২৫৮ ॥
@@ -2919,7 +2919,7 @@ of fire  water  earth  as  the interchange  in whom  the threefold creation  rea
 dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi  
 by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 
-(265) “Let us meditate on the Supreme Truth, from whom the birth and so on of this universe proceed, directly and indirectly; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)[^66]
+(265) “Let us meditate on the Supreme Truth, from whom, directly and indirectly, this universe arises, endures and dissolves; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)[^66]
 
 এক সংশয় মোর আছয়ে হৃদয়ে ৷  
 কৃপা করি’ কহ মোরে তাহার নিশ্চয়ে ॥ ২৬৬ ॥
@@ -2947,9 +2947,9 @@ now  You  see  I  dark  cowherd  in the form
 tomāra sammukhe dekhi kāñcana-pañcālikā  
 of You  in front  I see  a golden  doll  
 tām̐ra gaura-kāntye tomāra sarva aṅga ḍhākā  
-her  by the golden luster  Your  whole  body  covered
+her  by the golden lustre  Your  whole  body  covered
 
-(268) Before You I see a golden doll, and her golden luster covers Your whole body.
+(268) Before You I see a golden doll, and her golden lustre covers Your whole body.
 
 তাহাতে প্রকট দেখি স-বংশী বদন ৷  
 নানা-ভাবে চঞ্চল তাহে কমল-নয়ন ॥ ২৬৯ ॥
@@ -3055,7 +3055,7 @@ before me  Your own form  not  do  theft
 নিজরস আস্বাদিতে করিয়াছ অবতার ॥ ২৭৮ ॥
 
 rādhikāra bhāva-kānti kari’ aṅgīkāra  
-Rādhikā’s  mood  luster  making  acceptance  
+Rādhikā’s  mood  lustre  making  acceptance  
 nija-rasa āsvādite kariyācha avatāra  
 Your own rasa  to taste  You have made  descent
 
@@ -3129,7 +3129,7 @@ My  truth  pastimes  rasa  to you  within reach of perception
 ataeva ei-rūpa dekhāilum̐ tomāre  
 therefore  this form  I have shown  to you
 
-(285) The truth of Me, My pastimes and My rasa are within your perception; therefore I have shown you this form.
+(285) You know the truth of Me, of My pastimes and My rasa; therefore I have shown you this form.
 
 গৌর অঙ্গ নহে, মোর — রাধাঙ্গস্পর্শন ৷  
 গোপেন্দ্র সুত বিনা তেঁহো না স্পর্শে অন্যজন ॥ ২৮৬ ॥
@@ -3167,9 +3167,9 @@ if I hide  by the power of love  you know  all  the secrets
 gupte rākhiha, kām̐hā nā kariha prakāśa  
 in secret  keep it  anywhere  not  make  disclosure  
 āmāra bātula-ceṣṭā loke upahāsa  
-My  mad  behavior  people  will ridicule
+My  mad  behaviour  people  will ridicule
 
-(289) Keep it secret and reveal it to no one. People would laugh at My mad behavior.
+(289) Keep it secret and reveal it to no one. People would laugh at My mad behaviour.
 
 আমি — এক বাতুল, তুমি — দ্বিতীয় বাতুল ৷  
 অতএব তোমায়-আমায় হই সম-তুল ॥ ২৯০ ॥
@@ -3467,7 +3467,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: *Anubhāṣya*: Mādhava’s mind was wounded by the arrows of Kāma, and He grieved over what He had done — His neglect of Rādhikā; searching for Her everywhere, He sank into despair in a grove at the edge of the Yamunā’s bank.
 
-[^33]: *Amṛta-pravāha-bhāṣya*: in the circle of the *rāsa* there was one form of Kṛṣṇa between every two gopīs, and one form of Kṛṣṇa beside Rādhikā; in this Rādhikā showed the contrariness (*vāmatā*) of Her crooked love.
+[^33]: *Amṛta-pravāha-bhāṣya*: in the circle of the *rāsa* there was one form of Kṛṣṇa between every two gopīs, and one form of Kṛṣṇa beside Rādhikā; in this Rādhikā showed the contrariness (*vāmatā*) of Her winding love.
 
 [^34]: Variant reading: the Gauḍīya Maṭha edition reads *sevya-sādhana-nirṇaya* (“the ascertainment of the One to be served and of the means”); another reading, noted by the *Anubhāṣya*, is *sādhya-sādhana-nirṇaya* (“of the goal and the means”).
 
