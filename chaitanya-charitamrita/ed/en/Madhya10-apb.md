@@ -76,6 +76,38 @@ O Śrī Caitanya, ocean of mercy! Your mercy drives away all distress with ease.
 
 **Kāśīśvara and Govinda** were both with Śrī Īśvara Purī. Kāśīśvara would come to Mahāprabhu later, after visiting other holy places. Govinda, however, took shelter at the Lord's feet immediately after Śrī Īśvara Purī attained perfection (*siddhi*) and departed.
 
+## 139
+
+Śrī Kṛṣṇa's mercy depends on nothing but service with affection. Service is of two kinds: service with affection (*sneha-sevā*) and service with formal respect (*maryādā-sevā*). Kṛṣṇa's mercy comes only where there is service with affection. Where there is service with formal respect, Kṛṣṇa's mercy is not easily obtained. Mercy makes no distinction of caste or family.
+
+## 142–143
+
+The guru's servant is worthy of respect in any case; one should not let him serve oneself.
+
+## 145
+
+Lakṣmaṇa heard that Paraśurāma, by his father's command, had killed his own mother (Reṇukā) as if she were an enemy. And so he accepted the order of his elder brother, Śrī Rāmacandra, for the orders of one's elders (*guru-varga*) are not to be debated.[^145-1]
+
+## 146
+
+The order of my great-souled gurudeva must be carried out by me without deliberation. In this lies good for you, and especially for me.
+
+## 148
+
+***Samādhāna*** — service.
+
+## 155
+
+***Chadma*** — a pretense, a feint.
+
+## 158
+
+***Nā bhāya*** — does not befit him (does not look good on him).
+
+## 163
+
+***Sāmpratika*** — now: at present, in this Puruṣottama, I see two Brahmans, the “moving” and the “unmoving.”
+
 ---
 
 [^42-1]: The chronicle of the Jagannātha temple (usually called the *Mādalā-pāñji*).
@@ -85,3 +117,5 @@ O Śrī Caitanya, ocean of mercy! Your mercy drives away all distress with ease.
 [^108-1]: Our translation of the verse reads differently: “he did not accept saffron robes, but only changed his name to ‘Svarūpa.’” According to the commentaries, he did not receive the *yogapaṭṭa* (the rite at which the *sannyāsa* name is given), and so the *brahmacārī* name “Svarūpa” remained with him.
 
 [^111-1]: Our translation of the verse reads differently: “Sometimes he was called a manifestation of the spiritual nature of Mahāprabhu Himself.”
+
+[^145-1]: Our translation of the verse reads differently: “this story inspired Lakṣmaṇa to dedicate His life to carrying out the instructions of Śrī Rāmacandra.” According to the commentaries, Lakṣmaṇa accepted a particular order of his elder brother, to take Sītā to the forest (the *Anubhāṣya*: “the order to banish Sītā to the forest”).

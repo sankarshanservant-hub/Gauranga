@@ -152,7 +152,7 @@ All *jīvas* who regard themselves as His servants call Bhagavān Himself, Śrī
 
 > Subheading: (4) Pradyumna Miśra —
 
-**Pradyumna Miśra** — see Antya, Chapter 5. Adding the word *dāsa* after a brāhmaṇa's name, to show that he is a servant of Viṣṇu, is approved by Culli Bhaṭṭa as well.
+**Pradyumna Miśra** — see Antya, Chapter 5. Adding the word *dāsa* after a brāhmaṇa's name, to show that he is a servant of Viṣṇu, is approved by Culli Bhaṭṭa as well.[^43-1]
 
 ## 44
 
@@ -410,7 +410,7 @@ All conclusions that hinder the worship of Kṛṣṇa are contrary to devotion 
 
 > Subheading: In the *Śrī Caitanya-candrodaya-nāṭaka*, Dāmodara-Svarūpa enters during the conversation of the Lord and Sārvabhauma and offers a prayer (8.14) —
 
-**he dayā-nidhe śrī-caitanya**, **helod-dhūlita-khedayā** (by which, playfully, without effort, distress, the anguish of the mind, has been scattered and removed) **viśadayā** (pure, illuminating all) **pronmīlad-āmodayā** (in which *āmoda*, the highest bliss, is fully unfolding and manifest) **śāmyac-chāstra-vivādayā** (in which the disputes of the *śāstras*, argument and counterargument, subside) **rasa-dayā** (*rasa-dā*, bestowing *mādhurya* and the other *rasas*) **cittārpitonmādayā** (by which *unmāda* is placed in the heart: indifference to the body and the like; or the bewilderment of the heart born of great bliss, calamity, separation and so on, that is, *divyonmāda*) **śaśvad-bhakti-vinodayā** (which by its very nature ceaselessly impels one to devotion) **sa-madayā** (with *mada*, the exultation born of an abundance of the love-transformations caused by Anaṅga, which takes away discrimination; with the reading *śama-dayā*, free from thirst for anything but Kṛṣṇa) **mādhurya-maryādayā** (in which is the limit, the summit of sweetness; the instrumental case of a qualifier) **tava** **amandodayā** (*manda* is constraint; *amanda*, free from it, is the highest good; in which it rises) **dayā** ([upon me]) **bhūyāt** (may it be).
+**he dayā-nidhe śrī-caitanya**, **helod-dhūlita-khedayā** (by which, playfully, without effort, distress, the anguish of the mind, has been scattered and removed) **viśadayā** (pure, illuminating all) **pronmīlad-āmodayā** (in which *āmoda*, the highest bliss, is fully unfolding and manifest) **śāmyac-chāstra-vivādayā** (in which the disputes of the *śāstras*, argument and counterargument, subside) **rasa-dayā** (*rasa-dā*, bestowing *mādhurya* and the other *rasas*) **cittārpitonmādayā** (by which *unmāda* is placed in the heart: indifference to the body and the like; or the bewilderment of the heart born of great bliss, calamity, separation and so on, that is, *divyonmāda*) **śaśvad-bhakti-vinodayā** (which by its very nature ceaselessly impels one to devotion) **sa-madayā** (with *mada*, the exultation born of an abundance of the love-transformations caused by Anaṅga, which takes away discrimination; with the reading *śama-dayā*, free from thirst for anything but Kṛṣṇa) **mādhurya-maryādayā** (in which is the limit, the summit of sweetness; the instrumental case of a qualifier) **tava** **amandodayā** (*manda* is constraint; *amanda*, free from it, is the highest good; in which it rises) **dayā** (upon me) **bhūyāt** (may it be).
 
 Bhagavān Caitanyacandra, magnanimous, the embodiment of *prema*, distributes His compassion in three ways to *jīvas* who possess *sukṛti*. The *jīva*, dejected by material wants, tries by all sorts of means to drive away his suffering, but does not succeed. The Lord's mercy cannot be won by the *jīva's* own effort. By the Lord's mercy the fragrance of Kṛṣṇa's lotus feet unfolds in the *jīva's* heart. Then the dust of the mind's distress blows away without effort, and the heart becomes pure. Then the highest bliss, born of service to Kṛṣṇa, becomes manifest in the heart. Because of the different interpretations of the *śāstras*, disputes arise in the mind and give rise to many arguments and counterarguments. But as soon as the *jīva* obtains the Lord's mercy, the heart that has received that mercy becomes intoxicated with the Lord's *rasa*. And the intoxication that bestows *kṛṣṇa-rasa* also arises only by the power of the Lord's mercy; therefore the disputes over the *śāstras* subside. The limit of sweetness (*mādhurya-maryādā*) keeps the *jīva* always at Kṛṣṇa's feet, and the fortunate *jīva* then finds joy in *prema-bhakti* alone. Kṛṣṇa's mercy is pure, bestows *rasa*, and is full of *mada*.
 
@@ -470,6 +470,108 @@ At first the *jīva* is turned away from the Lord and wearied by worldly objects
 
 > Subheading: Sārvabhauma's question about Govinda —
 
+## 137
+
+> Subheading: The Lord's wise reply: such is the conduct of the Lord, that is, of one who is powerful; the distinction between love and mercy and formal respect (*maryādā*) —
+
+**Śrī Īśvara Purī** was a *sannyāsī* of the Vaiṣṇavas of Śrī Madhva. How could he make Govinda, a brāhmaṇa by initiation (*daikṣa-brāhmaṇa*) born in a *śūdra* family, his disciple as a “servant”? This was the reason for Sārvabhauma's question. According to the *smṛti*, if a brāhmaṇa accepts someone of another *varṇa* as a disciple or servant, the brāhmaṇa guru becomes fallen. How then could Īśvara Purī, a man of impeccable conduct, transgress what the *smṛti* prescribes? In answer Mahāprabhu said: “My gurudeva is an ‘*īśvara*,’ that is, a master of the world; therefore he is not subject to the *smṛti*, which governs ordinary *jīvas*. The mercy of the gurudeva, who is an *īśvara*, that is, one who is powerful, is never subject to Vedic rule.”
+
+## 138
+
+The Supreme Lord Kṛṣṇa, the guru of the world, silenced worldly considerations of caste and family and ate in the house of Vidura. In the same way My master mercifully set aside considerations of Govinda's birth in a *śūdra* family and the like. Knowing that a Vaiṣṇava is worthy of brāhmaṇa status by initiation (*daikṣa-vipratva*), he gave him initiation and accepted him as his “servant.”
+
+## 141
+
+> Subheading: The Lord embraces Govinda, and Govinda bows at the Lord's feet —
+
+## 142
+
+> Subheading: The Lord asks the Bhaṭṭācārya whether it is proper to accept service from His godbrother —
+
+## 142–143
+
+Every servant of the guru is worthy of respect from all the other disciples. It is not proper to engage him in one's own service. But consider how this service can be accepted in order to carry out the guru's order.
+
+## 144
+
+> Subheading: Sārvabhauma's answer: the guru's order must certainly be obeyed —
+
+## 145
+
+> Subheading: An example from ancient lore of obeying the order of one's guru —
+
+**bhārgaveṇa** (by Jāmadagnya, the son of Jamadagni) **pitur niyogāt** (by Jamadagni's command) **mātari** (upon Reṇukā) **dviṣad-vat** (as on an enemy) **prahṛtam** (a blow was struck, she was killed) **iti** **saḥ** (Lakṣmaṇa) **śuśruvān** (heard); **tat** **agraja-śāsanam** (the order of his elder brother Śrī Rāmacandra, to banish Sītā to the forest) **pratyagṛhīt** (accepted, carried out); **hi** (because) **gurūṇām** **ājñā** **avicāraṇīyā** (is not to be weighed as to whether it is fitting or unfitting, and so on).
+
+## 146
+
+> Subheading: Only by obeying the guru's order does the *jīva* attain the highest good —
+
+**mayā** **mahātmanaḥ** **guroḥ** (of my father, Daśaratha) **ājñā** **nirvicāram** **kāryā** (must be carried out). **bhavatyāḥ ca** **evam** **hi** **viśeṣataḥ** **mama ca** **śreyaḥ** **eva**.
+
+## 147
+
+> Subheading: The Lord accepts Govinda as His servant —
+
+## 148
+
+> Subheading: Govinda is dear to all the Vaiṣṇavas —
+
+## 149
+
+> Subheading: With him, the younger and the elder Haridāsa, and Rāmāi and Nandāi —
+
+## 150
+
+> Subheading: Govinda's good fortune in serving the Lord —
+
+## 151
+
+> Subheading: Brahmānanda Bhāratī arrives —
+
+## 152
+
+> Subheading: The Lord observes due respect (*maryādā*) —
+
+## 153
+
+> Subheading: The meeting with Bhāratī —
+
+## 154
+
+> Subheading: The Lord is pained to see Bhāratī dressed in deerskin —
+
+Brahmānanda Bhāratī was one of the *sannyāsīs* of the ten names (*daśanāmī*) of Śaṅkara's school. Deerskin, or clothing of grass, bark and the like, is worn only by one who has left home. The *Manu-saṁhitā* (Chapter 6): “Having left the village and gone to the forest, let him live with his senses controlled… let him wear a skin or rags.” The commentary of Kullūka Bhaṭṭa: “let him cover himself with the skin of a deer or another animal, or with a piece of cloth.”
+
+But to put on clothing of skin for the sake of *loka-saṅgraha* (attracting people), under the sway of pride, does not deliver one from worldly existence. The *Manu-saṁhitā* (Chapter 6): “Although the fruit of the *kataka* tree clears water, the water does not become clear merely by pronouncing its name.”[^154-1] Kullūka: “The fruit of the *kataka* tree makes muddy water clear. Yet the water is cleared not by uttering its name, but by throwing the fruit into it. Likewise the mere wearing of outward marks (*liṅga*) is not the cause of *dharma*.”
+
+## 155
+
+> Subheading: The Lord sees Bhāratī but pretends not to see him —
+
+## 158
+
+> Subheading: The Lord's behavior awakens good sense in Bhāratī —
+
+## 159
+
+> Subheading: Outward marks alone do not free one from worldly existence —
+
+## 160
+
+> Subheading: Bhāratī puts on an outer cloth, and the Lord bows to him —
+
+***Bahirvāsa*** — the piece of cloth worn over the *kaupīna*.
+
+## 162
+
+> Subheading: Bhāratī objects to the Lord's bowing to him —
+
+Your conduct is only meant to teach people. If I do not keep to the proper conduct You expect of me, You Yourself will no longer bow to me and will disregard me. That is what I fear.
+
+## 163
+
+> Subheading: Bhāratī realizes the truth: he sees that the Lord and Jagannātha are not different —
+
 ---
 
 [^42-1]: In our edition the note on Śikhi Māhiti is in the *Anubhāṣya* on Ādi 10.136; section 137 speaks of his sister Mādhavī-devī (and there too Antya 2.104–106 is cited).
@@ -477,3 +579,7 @@ At first the *jīva* is turned away from the Lord and wearied by worldly objects
 [^60-1]: Our translation of the verse reads differently: the Lord “blessed his sons by touching their heads with His foot.” According to the *Anubhāṣya*, the sons themselves placed the Lord's feet on their heads.
 
 [^106-1]: An unclear passage: «তচ্ছীচকারৈনমহো», apparently *tac chīc-cakāra enam* (“brushed it aside,” literally “made a ‘śīt’ at it”); the translation is tentative.
+
+[^43-1]: So in the edition (চুল্লিভট্ট); perhaps Kullūka Bhaṭṭa, the commentator on the *Manu-saṁhitā*, is meant (his commentary is cited in the *Anubhāṣya* on verse 154).
+
+[^154-1]: *Manu-saṁhitā* 6.4, 6.6 (the first quotation) and 6.67 (the second).
