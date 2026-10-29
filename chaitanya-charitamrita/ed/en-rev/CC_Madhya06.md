@@ -1799,10 +1799,10 @@ the world  but  false  is not  perishable  only  is
 
 (173) What is false is the jīva’s sense of self in the body. The world is not false — it is only perishable.
 
-‘প্রণব’ যে মহা-বাক্য — ঈশ্বরের মূর্ত্তি ৷  
+‘প্রণব’ যে মহাবাক্য — ঈশ্বরের মূর্ত্তি ৷  
 প্রণব হৈতে সর্ব্ববেদ, জগতে উৎপত্তি ॥ ১৭৪ ॥
 
-‘praṇava’ ye mahā-vākya — īśvarera mūrti  
+‘praṇava’ ye mahāvākya — īśvarera mūrti  
 praṇava  which  the great statement  of the Lord  the form  
 praṇava haite sarva-veda, jagate utpatti  
 from praṇava  all the Vedas  to the world  origin
@@ -1951,11 +1951,11 @@ of this  verse  the meaning  to hear  desire  there is
 
 (187) Hearing this, the Bhaṭṭācārya said, “Listen, my dear sir (*mahāśaya*): I wish to hear the meaning of this verse.”
 
-প্রভু কহে, — তুমি কি অর্থ কর, তাহা আগে শুনি ৷  
+প্রভু কহে, — তুমি কি অর্থ কর, তাহা শুনি ৷  
 পাছে আমি করিব অর্থ, যেবা কিছু জানি ॥ ১৮৮ ॥
 
-prabhu kahe, — tumi ki artha kara, tāhā āge śuni  
-the Lord  says  you  what  meaning  make  that  first  I will hear  
+prabhu kahe, — tumi ki artha kara, tāhā śuni  
+the Lord  says  you  what  meaning  make  that  I will hear  
 pāche āmi kariba artha, yebā kichu jāni  
 afterwards  I  will make  meaning  whatever  little  I know
 
