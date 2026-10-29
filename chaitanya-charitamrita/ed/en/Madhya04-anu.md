@@ -142,6 +142,100 @@
 
 > Subheading: The *naivedya* and the articles of worship —
 
+## 59
+
+“Then let him perform the *abhiṣeka* with a conch to the sound of bells and other instruments, chanting the *mūla-mantra* or the eight-syllable mantra and offering incense from time to time.” (*Hari-bhakti-vilāsa*, *vilāsa* 6, verse 30)
+
+## 60
+
+Cleansing (*sammārjana*) is done with powdered barley, wheat flour, *lodhra*, *kuṅkuma*, lentils (*masūra*) or *māṣa* beans. Dirt is removed from the body by rubbing with a paste (*udvartana*, or *ābāṭā*) of *kalāya* peas and ground flour, and with brushes (*kūrcas*) made of *uśīra* and the like, brushes made of the hair of a cow's tail, and so on. The same *Hari-bhakti-vilāsa* says: “There, first of all, let him with devotion gently anoint Śrī Hari (perform *abhyaṅga*) with divine fragrant substances such as oils.” The substances for *abhyaṅga*: “People who with devotion take *mālatī* and *yūthī*, or other fragrant flowers, or flowers of other kinds… He who anoints Viṣṇu with flower oil mixed with divine herbs, adding *kuṅkuma* to it… Scented oils, divine, fragrant and pure.”
+
+## 61
+
+The same *Hari-bhakti-vilāsa* (*vilāsa* 6): “Then let him bathe [the Lord] in order with milk poured from a conch, and with yogurt, ghee, honey and sugar, each separately.”
+
+***Mahā-snāna.*** In the same sixth *vilāsa*: “And for the *mahā-snāna* the measure is two thousand *palas*.” The Deity (*pratimā*) is bathed with ghee. For the *mahā-snāna* both the ghee and the bathing water amount to two thousand *palas* each. If a *pala* equals four *tolās*, the *mahā-snāna* will require two and a half maunds of water.
+
+## 62
+
+The same *Hari-bhakti-vilāsa* (*vilāsa* 6, verse 50): “Then, having bathed [the Lord] with warm, purified, fragrant water, let him bathe Him again with cool water from a conch. When he has the means, the knower of mantras should always bathe Him with water scented with sandalwood, *uśīra*, camphor, *kuṅkuma* and *aguru*.” On the measure of water: “For the bath let him give a hundred *palas*, for *abhyaṅga* twenty-five; and two thousand *palas* is called the *mahā-snāna*.”
+
+## 64
+
+> Subheading: *Bhoga* and *ārātrika* —
+
+## 67
+
+> Subheading: The offering of cooked food — Annakūṭa —
+
+## 69
+
+> Subheading: A variety of dishes —
+
+## 75
+
+> Subheading: Purī Gosāñi offers the *bhoga* himself —
+
+***Annakūṭa*** — a mountain of rice (*anna*). ***Kūṭa*** — a fortress, a stronghold, a mountain.
+
+## 69–75
+
+Here too the author, Śrīla Kavirāja Gosvāmī Prabhu, shows his skill in all kinds of cooking.
+
+## 77
+
+> Subheading: Though Gopāla ate all the *naivedya*, by the touch of His hand everything became full again —
+
+## 78
+
+> Subheading: The pastimes of Bhagavān are perceived by the devotee alone —
+
+See Ādi 3.86–89.
+
+## 80
+
+> Subheading: The *ārātrika* of Gopāla —
+
+## 81
+
+> Subheading: A bed for the Ṭhākura and the arrangements for His rest —
+
+## 83
+
+> Subheading: Everyone honors the *mahā-prasāda* of the Annakūṭa —
+
+## 85
+
+> Subheading: All who merely came to see honored the *prasāda* —
+
+## 86
+
+> Subheading: Purī's power astonishes everyone, and the Annakūṭa recalls the festival of Nanda —
+
+***The Annakūṭa of old.*** At the end of the Dvāpara-yuga, on Śrī Kṛṣṇa's advice, the cowherds gave up the worship of Indra and worshipped the cows, the brāhmaṇas and Govardhana Hill. Śrī Kṛṣṇa assumed another form, said, “I am the hill,” and ate the abundant offerings. (*Śrīmad-Bhāgavatam* 10.24.26, 31–33): “Let various dishes be cooked, from *pāyasa* to soup; let *saṁyāva*, *āpūpas* and *śaṣkulīs* be made, and let all the milk be collected. Hearing these words, Nanda and the other cowherds accepted them as good and did everything as Madhusūdana had said. Having had [the brāhmaṇas] recite blessings (*svastyayana*), with those provisions they respectfully presented offerings to the hill and to the twice-born, and gave grass to the cows.”
+
+## 87
+
+> Subheading: By Purī's mercy the brāhmaṇas became Vaiṣṇavas —
+
+## 88
+
+> Subheading: At the close of the day the Ṭhākura is awakened and offered *śītala-bhoga* —
+
+## 89
+
+> Subheading: Word of Gopāla's appearance spreads everywhere, and *annakūṭa* is offered to Him —
+
+## 91
+
+> Subheading: Purī Gosāñi's evening meal —
+
+***Gavya*** — milk.
+
+## 92
+
+> Subheading: The next morning too, the same service as the day before —
+
 ---
 
 [^34-1]: The verse translation reads differently: he “dozed off a little” toward morning.

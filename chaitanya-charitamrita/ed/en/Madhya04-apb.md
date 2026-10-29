@@ -44,6 +44,22 @@ To give him *kṣīra*, Śrī Gopīnātha stole a pot of *kṣīra* and received
 
 ***Pañca-gavya*** — milk, yogurt, ghee, cow's urine and cow dung; ***pañcāmṛta*** — yogurt, milk, ghee, honey and sugar.
 
+## 62
+
+***Śaṅkha-gandhodaka.*** *Śaṅkhodaka* is water kept in a conch; *gandhodaka* is water made fragrant with flowers and sandalwood.
+
+## 74
+
+***Māṭhā*** — buttermilk (*ghola*). ***Śikhariṇī*** is prepared by mixing five ingredients: yogurt, milk, sugar, camphor and black pepper. ***Mathani*** — fresh butter (*navanīta*) and *haiyaṅgava*.
+
+## 80
+
+***Viḍaka*** — rolls of betel (*pān*); ***sañcaya*** — a store.
+
+## 86
+
+In the Dvāpara-yuga the cowherds of Vraja used to worship Indra. Śrī Kṛṣṇa stopped that worship and arranged instead for Govardhana Hill to be worshipped and fed (Girirāja) with an *annakūṭa*. Enraged, Indra poured rain for seven days, trying to destroy Gokula. Śrī Kṛṣṇa held Govardhana Hill on His little finger like an umbrella against the rain and so protected Gokula. Mādhavendra Purī held an *annakūṭa* as great as the one held at that worship of Govardhana.
+
 ---
 
 [^0-1]: So in the edition: Mādhava Purī is the same person as Mādhavendra Purī.
