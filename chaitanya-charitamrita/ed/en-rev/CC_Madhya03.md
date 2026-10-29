@@ -274,7 +274,7 @@ thus  saying  brought  Him  to the Ganges’  vicinity
 āveśe prabhura haila gaṅgāre yamunā-jñāne  
 in ecstasy  the Lord’s  arose  the Ganges  as the Yamunā perceiving
 
-(26) Saying this, He led the Lord to the Gaṅgā, and in His rapture the Gaṅgā appeared to the Lord as the Yamunā.[^11]
+(26) With these words He brought Mahāprabhu to the Gaṅgā, and in His rapture the Lord saw the Gaṅgā as the Yamunā.[^11]
 
 অহো ভাগ্য, যমুনারে পাইলুঁ দরশন ৷  
 এত বলি’ যমুনার করেন স্তবন ॥ ২৭ ॥
@@ -572,6 +572,556 @@ campaka bananas, yogurt, sandeśa  to describe  not  I can
 
 (55) On both sides stood earthen pots filled with *cā̃pā* bananas, yogurt and *sandeśa* — I cannot describe it all.
 
+অন্ন-ব্যঞ্জন-উপরি দিল তুলসীমঞ্জরী ৷  
+তিন জলপাত্রে সুবাসিত জল ভরি’ ॥ ৫৬ ॥
+
+anna-vyañjana-upari dila tulasī-mañjarī  
+over the rice and vegetables  placed  tulasī buds  
+tina jala-pātre suvāsita jala bhari’  
+three  water pots  with scented  water  filling
+
+(56) On top of the rice and vegetables they placed tulasī buds, and three water pots were filled with scented water.[^24]
+
+তিন শুভ্রপীঠ, তার উপরি বসন ৷  
+কৃষ্ণের ভোগ সাক্ষাৎ কৃষ্ণে করাইল ভোজন ॥ ৫৭ ॥
+
+tina śubhra-pīṭha, tāra upari vasana  
+three  white seats  them  upon  cloth  
+kṛṣṇera bhoga sākṣāt kṛṣṇe karāila bhojana  
+Kṛṣṇa’s  food  directly  to Kṛṣṇa  made to eat
+
+(57) There were three white seats covered with cloth. The Ācārya fed Kṛṣṇa’s portion to Kṛṣṇa Himself.[^25]
+
+আরতির কালে দুই প্রভু বোলাইল ৷  
+প্রভু-সঙ্গে সবে আসি’ আরতি দেখিল ॥ ৫৮ ॥
+
+āratira kāle dui prabhu bolāila  
+of the ārati  at the time  the two  Lords  called  
+prabhu-saṅge sabe āsi’ ārati dekhila  
+with the Lords  all  coming  the ārati  saw
+
+(58) At the time of ārati the Ācārya called the two Lords, and everyone came with Them to see the ārati.
+
+আরতি করিয়া কৃষ্ণে করা’ল শয়ন ৷  
+আচার্য্য আসি’ প্রভুরে তবে কৈলা নিবেদন ॥ ৫৯ ॥
+
+ārati kariyā kṛṣṇe karā’la śayana  
+ārati  having done  Kṛṣṇa  made to lie down  
+ācārya āsi’ prabhure tabe kailā nivedana  
+the Ācārya  coming  to the Lord  then  made  a request
+
+(59) After the ārati, Kṛṣṇa was laid down to rest, and then the Ācārya came and made a request to the Lord:
+
+গৃহের ভিতরে প্রভু করুন গমন ৷  
+দুই ভাই আইলা তবে করিতে ভোজন ॥ ৬০ ॥
+
+gṛhera bhitare prabhu karuna gamana  
+of the house  inside  the Lord  may make  going  
+dui bhāi āilā tabe karite bhojana  
+the two  brothers  came  then  to take  the meal
+
+(60) “May the Lord come inside the house.” Then the two Brothers went in to take Their meal.
+
+মুকুন্দ, হরিদাস, — দুই প্রভু বোলাইল ৷  
+যোড়হাতে দুইজন কহিতে লাগিল ॥ ৬১ ॥
+
+mukunda, haridāsa, — dui prabhu bolāila  
+Mukunda  Haridāsa  the two  Lords  called  
+yoḍa-hāte dui-jana kahite lāgila  
+with joined palms  the two  to speak  began
+
+(61) The two Lords called Mukunda and Haridāsa, but the two of them, with joined palms, began to speak.
+
+মুকুন্দ বলে, মোর কিছু কৃত্য নাহি সরে ৷  
+পাছে মুঞি প্রসাদ পামু, তুমি যাহ ঘরে ॥ ৬২ ॥
+
+mukunda bale, mora kichu kṛtya nāhi sare  
+Mukunda  says  my  some  duty  not  is finished  
+pāche muñi prasāda pāmu, tumi yāha ghare  
+later  I  prasāda  shall take  You  go  into the house
+
+(62) Mukunda said, “Some of my duties are not yet finished. I shall take prasāda later; You go inside.”
+
+হরিদাস বলে, মুঞি পাপিষ্ঠ অধম ৷  
+বাহিরে একমুষ্টি পাছে করিমু ভোজন ॥ ৬৩ ॥
+
+haridāsa bale, muñi pāpiṣṭha adhama  
+Haridāsa  says  I  most sinful  lowly  
+bāhire eka muṣṭi pāche karimu bhojana  
+outside  one  handful  later  shall make  meal
+
+(63) Haridāsa said, “I am most sinful and lowly. Later I shall eat a handful outside.”
+
+দুই প্রভুরে লঞা আচার্য্য গেলা ভিতর-ঘরে ৷  
+প্রসাদ দেখিয়া প্রভুর আনন্দ অন্তরে ॥ ৬৪ ॥
+
+dui prabhure lañā ācārya gelā bhitara-ghare  
+the two  Lords  taking  the Ācārya  went  to the inner room  
+prasāda dekhiyā prabhura ānanda antare  
+the prasāda  seeing  of the Lord  joy  in the heart
+
+(64) The Ācārya took the two Lords into the inner room. Seeing the prasāda, the Lord felt joy in His heart.
+
+ঐছে অন্ন যে কৃষ্ণকে করায় ভোজন ৷  
+জন্মে জন্মে শিরে ধরোঁ তাঁহার চরণ ॥ ৬৫ ॥
+
+aiche anna ye kṛṣṇake karāya bhojana  
+such  food  who  to Kṛṣṇa  makes  eat  
+janme janme śire dharom̐ tām̐hāra caraṇa  
+birth  after birth  on My head  I hold  his  feet
+
+(65) “Whoever feeds Kṛṣṇa such food — birth after birth I would hold his feet upon My head.”
+
+প্রভু জানে, তিন ভোগ — কৃষ্ণের নৈবেদ্য ৷  
+আচার্য্যের মনঃ-কথা নহে প্রভুর বেদ্য ॥ ৬৬ ॥
+
+prabhu jāne, tina bhoga — kṛṣṇera naivedya  
+the Lord  knows  three  offerings  Kṛṣṇa’s  naivedya  
+ācāryera manaḥ-kathā nahe prabhura vedya  
+of the Ācārya  the mind’s  intention  not  to the Lord  known
+
+(66) The Lord took all three portions to be food already offered to Kṛṣṇa, for He did not know what the Ācārya had in mind.[^26]
+
+প্রভু বলে, বৈস তুমি করিতে ভোজন ৷  
+আচার্য্য কহে, আমি করিব পরিবেশন ॥ ৬৭ ॥
+
+prabhu bale, vaisa tumi karite bhojana  
+the Lord  says  sit  You  to take  the meal  
+ācārya kahe, āmi kariba pariveśana  
+the Ācārya  says  I  shall do  serving
+
+(67) “You too sit down and eat,” said the Lord. “I shall serve,” replied the Ācārya.[^27]
+
+কোন্ স্থানে বসিব, আর আন দুই পাত ৷  
+অল্প করি’ তাহে আনি’ দেহ ব্যঞ্জন-ভাত ॥ ৬৮ ॥
+
+kon sthāne vasiba, āra āna dui pāta  
+in which  place  shall I sit  another  bring  two  leaves  
+alpa kari’ tāhe āni’ deha vyañjana-bhāta  
+little  making  on them  bringing  give  vegetables and rice
+
+(68) The Lord said, “Where shall I sit? Bring two more leaves, and put just a little rice and vegetables on them.”[^28]
+
+আচার্য্য কহে, বৈস দোঁহে পিণ্ডার উপরে ৷  
+এত বলি হাতে ধরি’ বসাইল দুঁহারে ॥ ৬৯ ॥
+
+ācārya kahe, vaisa dom̐he piṇḍāra upare  
+the Ācārya  says  sit  both  the seats  upon  
+eta bali hāte dhari’ vasāila dum̐hāre  
+thus  saying  by the hands  taking  seated  both
+
+(69) The Ācārya said, “Both of You, sit on these seats,” and saying this, He took Them by the hand and seated Them.
+
+প্রভু কহে, সন্ন্যাসীর ভক্ষ্য নহে উপকরণ ৷  
+ইহা খাইলে কৈছে হবে ইন্দ্রিয়-বারণ ॥ ৭০ ॥
+
+prabhu kahe, sannyāsīra bhakṣya nahe upakaraṇa  
+the Lord  says  of a sannyāsī  food  is not  such fare  
+ihā khāile kaiche habe indriya-vāraṇa  
+this  eating  how  will be  of the senses  restraint
+
+(70) The Lord said, “Such fare is not fit food for a sannyāsī. If he eats this, how will he restrain his senses?”[^29]
+
+আচার্য্য কহে, ছাড় তুমি আপনার চুরি ৷  
+আমি জানি তোমার সন্ন্যাসের ভারিভুরি ॥ ৭১ ॥
+
+ācārya kahe, chāḍa tumi āpanāra curi  
+the Ācārya  says  give up  You  Your own  concealment  
+āmi jāni tomāra sannyāsera bhāri-bhuri  
+I  know  of Your  sannyāsa  the pretence
+
+(71) The Ācārya said, “Stop hiding who You are. I know the secret of Your sannyāsa.[^30]
+
+ভোজন করহ, ছাড় বচন-চাতুরী ৷  
+প্রভু কহে, এত অন্ন খাইতে না পারি ॥ ৭২ ॥
+
+bhojana karaha, chāḍa vacana-cāturī  
+the meal  take  give up  of words  cleverness  
+prabhu kahe, eta anna khāite nā pāri  
+the Lord  says  so much  food  to eat  not  I can
+
+(72) Eat, and stop Your clever talk.” “I cannot eat so much,” said the Lord.
+
+আচার্য্য বলে, অকপটে করহ আহার ৷  
+যদি খাইতে না পার, রহিবেক আর ॥ ৭৩ ॥
+
+ācārya bale, akapaṭe karaha āhāra  
+the Ācārya  says  without pretence  take  food  
+yadi khāite nā pāra, rahibeka āra  
+if  to eat  not  You can  will remain  the rest
+
+(73) The Ācārya said, “Eat without pretence. If You cannot eat it all, the rest can stay.”[^31]
+
+প্রভু বলে, এত অন্ন নারিব খাইতে ৷  
+সন্ন্যাসীর ধর্ম্ম নহে উচ্ছিষ্ট রাখিতে ॥ ৭৪ ॥
+
+prabhu bale, eta anna nāriba khāite  
+the Lord  says  so much  food  I shall not be able  to eat  
+sannyāsīra dharma nahe ucchiṣṭa rākhite  
+of a sannyāsī  the duty  is not  remnants  to leave
+
+(74) The Lord said, “I shall not be able to eat so much, and it is not a sannyāsī’s dharma to leave remnants.”[^32]
+
+আচার্য্য বলে, নীলাচলে খাও চৌয়ান্নবার ৷  
+একবারে অন্ন খাও শত শত ভার ॥ ৭৫ ॥
+
+ācārya bale, nīlācale khāo cauyānna-bāra  
+the Ācārya  says  in Nīlācala  You eat  fifty-four times  
+eka-bāre anna khāo śata śata bhāra  
+at one time  food  You eat  hundreds  hundreds  loads
+
+(75) The Ācārya said, “In Nīlācala You eat fifty-four times, and each time You eat hundreds and hundreds of loads of food.
+
+তিন জনার ভক্ষ্যপিণ্ড — তোমার একগ্রাস ৷  
+তার লেখায় এই অন্ন নহে পঞ্চগ্রাস ॥ ৭৬ ॥
+
+tina janāra bhakṣya-piṇḍa — tomāra eka grāsa  
+of three  persons  the food portion  Your  one  mouthful  
+tāra lekhāya ei anna nahe pañca-grāsa  
+by that  reckoning  this  food  is not  five mouthfuls
+
+(76) What three people eat is a single mouthful for You. By that reckoning this food is not even five mouthfuls.
+
+মোর ভাগ্যে, মোর ঘরে, তোমার আগমন ৷  
+ছাড়হ চাতুরী, প্রভু, করহ ভোজন ॥ ৭৭ ॥
+
+mora bhāgye, mora ghare, tomāra āgamana  
+by My  fortune  to My  house  Your  coming  
+chāḍaha cāturī, prabhu, karaha bhojana  
+give up  cleverness  Lord  take  the meal
+
+(77) By My good fortune You have come to My house. Give up Your cleverness, Lord, and eat.”
+
+এত বলি, জল দিল দুই গোসাঞির হাতে ৷  
+হাসিয়া লাগিলা দুঁহে ভোজন করিতে ॥ ৭৮ ॥
+
+eta bali, jala dila dui gosāñira hāte  
+thus  saying  water  gave  of the two  Gosāñis  on the hands  
+hāsiyā lāgilā dum̐he bhojana karite  
+smiling  began  both  meal  to take
+
+(78) Saying this, He poured water on the hands of the two Gosāñis, and with a smile the two of Them began to eat.
+
+নিত্যানন্দ কহে, কৈলুঁ তিন উপবাস ৷  
+আজি পারণা করিতে বড় ছিল আশ ॥ ৭৯ ॥
+
+nityānanda kahe, kailum̐ tina upavāsa  
+Nityānanda  says  I did  three  fasts  
+āji pāraṇā karite baḍa chila āśa  
+today  breaking the fast  to do  great  was  hope
+
+(79) Nityānanda said, “I have fasted for three days, and I had great hope of breaking My fast today.
+
+আজি উপবাস হৈল আচার্য্য-নিমন্ত্রণে ৷  
+অর্দ্ধপেট না ভরিল এই গ্রাসেক অন্নে ॥ ৮০ ॥
+
+āji upavāsa haila ācārya-nimantraṇe  
+today  fasting  has come  by the Ācārya’s invitation  
+ardha-peṭa nā bharila ei grāseka anne  
+half the belly  not  has filled  this  mouthful of  food
+
+(80) But today, by the Ācārya’s invitation, it has turned into a fast: this mouthful of food has not filled even half My belly.”
+
+আচার্য্য কহে, তুমি তৈথিক সন্ন্যাসী ৷  
+কভু ফল-মূল খাও, কভু উপবাসী ॥ ৮১ ॥
+
+ācārya kahe, tumi taithika sannyāsī  
+the Ācārya  says  You  a pilgrim  sannyāsī  
+kabhu phala-mūla khāo, kabhu upavāsī  
+sometimes  fruits and roots  You eat  sometimes  fasting
+
+(81) The Ācārya said, “You are a pilgrim sannyāsī: sometimes You eat fruits and roots, sometimes You fast.[^33]
+
+দরিদ্রব্রাহ্মণ ঘরে যে পাইলা মুষ্ট্যেক অন্ন ৷  
+ইহাতে সন্তুষ্ট হও, ছাড় লোভ-মন ॥ ৮২ ॥
+
+daridrabrāhmaṇa ghare ye pāilā muṣṭy-eka anna  
+in a poor brāhmaṇa’s  house  what  You have got  a handful of  food  
+ihāte santuṣṭa hao, chāḍa lobha-mana  
+with this  satisfied  be  give up  a greedy mind
+
+(82) Be satisfied with the handful of food You have received in a poor brāhmaṇa’s house, and give up Your greed.”
+
+নিত্যানন্দ বলে, যবে কৈলে নিমন্ত্রণ ৷  
+তত দিতে চাহ, যত করিয়ে ভোজন ॥ ৮৩ ॥
+
+nityānanda bale, yabe kaile nimantraṇa  
+Nityānanda  says  since  You made  an invitation  
+tata dite cāha, yata kariye bhojana  
+so much  to give  You must  as much as  I eat
+
+(83) Nityānanda said, “Since You invited Me, You must give Me as much as I eat.”
+
+শুনি, নিত্যানন্দের কথা ঠাকুর অদ্বৈত ৷  
+কহেন তাঁহারে কিছু পাইয়া পিরীত ॥ ৮৪ ॥
+
+śuni, nityānandera kathā ṭhākura advaita  
+hearing  Nityānanda’s  words  Ṭhākura  Advaita  
+kahena tām̐hāre kichu pāiyā pirīta  
+speaks  to Him  some  feeling  affection
+
+(84) Hearing Nityānanda’s words, Ṭhākura Advaita answered Him fondly:
+
+ভ্রষ্ট অবধূত তুমি, উদর ভরিতে ৷  
+সন্ন্যাস লইয়াছ, বুঝি, ব্রাহ্মণ দণ্ডিতে ॥ ৮৫ ॥
+
+bhraṣṭa avadhūta tumi, udara bharite  
+fallen  avadhūta  You  the belly  to fill  
+sannyāsa laiyācha, bujhi, brāhmaṇa daṇḍite  
+sannyāsa  You have taken  I think  brāhmaṇas  to punish
+
+(85) “You are a fallen avadhūta! You took sannyāsa just to fill Your belly — to punish brāhmaṇas, I think.[^34]
+
+তুমি খেতে পার দশ-বিশ মানের অন্ন ৷  
+আমি তাহা কাঁহা পাব, দরিদ্র ব্রাহ্মণ ॥ ৮৬ ॥
+
+tumi khete pāra daśa-viśa mānera anna  
+You  to eat  can  ten or twenty  māns of  food  
+āmi tāhā kām̐hā pāba, daridra brāhmaṇa  
+I  that  where  shall get  a poor  brāhmaṇa
+
+(86) You can eat ten or twenty *māns* of rice. Where shall I, a poor brāhmaṇa, get that much?[^35]
+
+যে পাঞাছ মুষ্ট্যেক অন্ন, তাহা খাঞা উঠ ৷  
+পাগলামি না করিহ, না ছড়াইও ঝুট ॥ ৮৭ ॥
+
+ye pāñācha muṣṭy-eka anna, tāhā khāñā uṭha  
+what  You have got  a handful of  food  that  eating  get up  
+pāgalāmi nā kariha, nā chaḍāio jhuṭa  
+madness  not  do  not  scatter  leftovers
+
+(87) Eat the handful of food You have been given and get up. Don’t act like a madman, and don’t scatter Your leftovers about!”
+
+এই মত হাস্যরসে করেন ভোজন ৷  
+অর্দ্ধ-অর্দ্ধ খাঞা প্রভু ছাড়েন ব্যঞ্জন ॥ ৮৮ ॥
+
+ei mata hāsya-rase karena bhojana  
+in this  way  in a joking mood  They take  the meal  
+ardha-ardha khāñā prabhu chāḍena vyañjana  
+half  half  eating  the Lord  leaves  the vegetables
+
+(88) In this way They ate, joking and laughing. The Lord would eat half of each vegetable dish and leave the rest.
+
+সেই ব্যঞ্জন আচার্য্য পুনঃ করেন পূরণ ৷  
+এই মত পুনঃ পুনঃ পরিবেশে ব্যঞ্জন ॥ ৮৯ ॥
+
+sei vyañjana ācārya punaḥ karena pūraṇa  
+those  vegetables  the Ācārya  again  makes  filling  
+ei mata punaḥ punaḥ pariveśe vyañjana  
+in this  way  again  again  serves  the vegetables
+
+(89) The Ācārya would fill that dish again, and so He served the vegetables again and again.
+
+দোনা ব্যঞ্জনে ভরি’ করেন প্রার্থন ৷  
+প্রভু বলেন, আর কত করিব ভোজন ॥ ৯০ ॥
+
+donā vyañjane bhari’ karena prārthana  
+cup  with vegetables  filling  makes  entreaty  
+prabhu balena, āra kata kariba bhojana  
+the Lord  says  more  how much  shall I make  eating
+
+(90) Filling the cup with vegetables, He would entreat the Lord to eat. The Lord said, “How much more am I to eat?”
+
+আচার্য্য কহে, যে দিয়াছি, তাহা না ছাড়িবা ৷  
+এখন যে দিয়ে, তার অর্দ্ধেক খাইবা ॥ ৯১ ॥
+
+ācārya kahe, ye diyāchi, tāhā nā chāḍibā  
+the Ācārya  says  what  I have given  that  not  leave  
+ekhana ye diye, tāra ardheka khāibā  
+now  what  I give  of that  half  eat
+
+(91) The Ācārya said, “Do not leave what I have already given You. Of what I give You now, eat half.”
+
+নানা যত্ন-দৈন্যে প্রভুর করাইল ভোজন ৷  
+আচার্য্যের ইচ্ছা প্রভু করিল পূরণ ॥ ৯২ ॥
+
+nānā yatna-dainye prabhura karāila bhojana  
+with various  efforts and humility  the Lord  made  eat  
+ācāryera icchā prabhu karila pūraṇa  
+the Ācārya’s  desire  the Lord  made  fulfilled
+
+(92) With many efforts and humble pleas the Ācārya fed the Lord, and the Lord fulfilled His wish.
+
+নিত্যানন্দ কহে, আমার পেট না ভরিল ৷  
+লঞা যাহ, তোর অন্ন কিছু না খাইল ॥ ৯৩ ॥
+
+nityānanda kahe — āmāra peṭa nā bharila  
+Nityānanda  says  My  belly  not  is filled  
+lañā yāha, tora anna kichu nā khāila  
+taking  go away  your  food  any  not  I have eaten
+
+(93) Nityānanda said, “My belly is not full! Take it away — I have not eaten any of Your food.”
+
+এত বলি’ একগ্রাস অন্ন হাতে লঞা ৷  
+উঝালি’ ফেলিল আগে যেন ক্রুদ্ধ হঞা ॥ ৯৪ ॥
+
+eta bali’ ekagrāsa anna hāte lañā  
+thus  saying  a mouthful of  rice  in His hand  taking  
+ujhāli’ phelila āge yena kruddha hañā  
+tossing  threw  in front  as if  angry  becoming
+
+(94) Saying this, He took up a handful of rice and flung it down before Him, as if in anger.
+
+ভাত দুই-চারি লাগে আচার্য্যের অঙ্গে ৷  
+ভাত গায়ে লঞা আচার্য্য নাচে বহুরঙ্গে ॥ ৯৫ ॥
+
+bhāta dui-cāri lāge ācāryera aṅge  
+grains of rice  two or four  touched  the Ācārya’s  body  
+bhāta gāye lañā ācārya nāce bahuraṅge  
+the rice  on His body  bearing  the Ācārya  dances  in many ways
+
+(95) A few grains of rice struck the Ācārya’s body, and with the rice still on Him He danced about in delight.[^36]
+
+অবধূতের ঝুটা লাগিল মোর অঙ্গে ৷  
+পরম পবিত্র মোরে কৈল এই ঢঙ্গে ॥ ৯৬ ॥
+
+avadhūtera jhuṭā lāgila mora aṅge  
+of the avadhūta  the leftovers  have touched  My  body  
+parama pavitra more kaila ei ḍhaṅge  
+supremely  pure  Me  has made  in this  way
+
+(96) “The leftovers of the avadhūta have touched My body! In this way He has made Me supremely pure.[^37]
+
+তোরে নিমন্ত্রণ করি’ পাইনু তার ফল ৷  
+তোর জাতি-কুল নাহি, সহজে পাগল ॥ ৯৭ ॥
+
+tore nimantraṇa kari’ pāinu tāra phala  
+you  invitation  having made  I have got  its  fruit  
+tora jāti-kula nāhi, sahaje pāgala  
+your  caste and family  none  by nature  a madman
+
+(97) I invited You, and I have reaped the fruit of it! You have no caste or family — You are a madman by nature.[^38]
+
+আপনার সম মোরে করিবার তরে ৷  
+ঝুটা দিলে, বিপ্র বলি’ ভয় না করিলে ॥ ৯৮ ॥
+
+āpanāra sama more karibāra tare  
+Your own  equal  Me  to make  for the sake of  
+jhuṭā dile, vipra bali’ bhaya nā karile  
+leftovers  you gave  a brāhmaṇa  considering  fear  not  you felt
+
+(98) To make Me just like You, You threw Your leftovers at Me, without any fear that I am a brāhmaṇa.”[^39]
+
+নিত্যানন্দ বলে, — এই কৃষ্ণের প্রসাদ ৷  
+ইহাকে ‘ঝুটা’ কহিলে, কৈলে অপরাধ ॥ ৯৯ ॥
+
+nityānanda bale, — ei kṛṣṇera prasāda  
+Nityānanda  says  this  Kṛṣṇa’s  prasāda  
+ihāke ‘jhuṭā’ kahile, kaile aparādha  
+it  ‘leftovers’  having called  You committed  an offence
+
+(99) Nityānanda said, “This is Kṛṣṇa’s prasāda! By calling it ‘leftovers’ You have committed an offence.[^40]
+
+শতেক সন্ন্যাসী যদি করাহ ভোজন ৷  
+তবে এই অপরাধ হইবে খণ্ডন ॥ ১০০ ॥
+
+śateka sannyāsī yadi karāha bhojana  
+a hundred  sannyāsīs  if  You feed  
+tabe ei aparādha haibe khaṇḍana  
+then  this  offence  will be  cancelled
+
+(100) If You feed a hundred sannyāsīs, then this offence will be cancelled.”
+
+আচার্য্য কহে, না করিব সন্ন্যাসী-নিমন্ত্রণ ৷  
+সন্ন্যাসী নাশিল মোর সব স্মৃতি-ধর্ম্ম ॥ ১০১ ॥
+
+ācārya kahe, nā kariba sannyāsī-nimantraṇa  
+the Ācārya  says  not  I shall make  sannyāsī invitation  
+sannyāsī nāśila mora saba smṛti-dharma  
+a sannyāsī  has destroyed  My  all  smṛti-dharma
+
+(101) The Ācārya said, “I shall never again invite a sannyāsī! A sannyāsī has ruined all My *smṛti-dharma*.”[^41]
+
+এত বলি’ দুই জনে করাইল আচমন ৷  
+উত্তম শয্যাতে লইয়া করাইল শয়ন ॥ ১০২ ॥
+
+eta bali’ dui jane karāila ācamana  
+thus  saying  the two  persons  made to rinse  
+uttama śayyāte la-iyā karāila śayana  
+on an excellent  bed  taking  made to lie down
+
+(102) Saying this, He had the two Lords rinse Their hands and mouths, and then laid Them down to rest on a fine bed.
+
+লবঙ্গ এলাচী-বীজ — উত্তম রসবাস ৷  
+তুলসী-মঞ্জরী সহ দিল মুখবাস ॥ ১০৩ ॥
+
+lavaṅga elācī-bīja — uttama rasa-vāsa  
+cloves  cardamom seeds  excellent  fragrance  
+tulasī-mañjarī saha dila mukha-vāsa  
+tulasī buds  with  gave  mouth-freshener
+
+(103) He gave Them cloves and cardamom seeds with tulasī buds as a fragrant mouth-freshener.
+
+সুগন্ধি চন্দনে লিপ্ত কৈল কলেবর ৷  
+সুগন্ধি পুষ্পমালা আনি’ দিল হৃদয়-উপর ॥ ১০৪ ॥
+
+sugandhi candane lipta kaila kalevara  
+fragrant  with sandalwood  anointed  made  the bodies  
+sugandhi puṣpa-mālā āni’ dila hṛdaya-upara  
+fragrant  flower garlands  bringing  placed  on the chest
+
+(104) He anointed Their bodies with fragrant sandalwood paste, and brought garlands of sweet-scented flowers and placed them on Their chests.
+
+আচার্য্য করিতে চাহে পাদ-সম্বাহন ৷  
+সঙ্কুচিত হঞা প্রভু বলেন বচন ॥ ১০৫ ॥
+
+ācārya karite cāhe pāda-samvāhana  
+the Ācārya  to do  wishes  feet  massaging  
+saṅkucita hañā prabhu balena vacana  
+embarrassed  becoming  the Lord  speaks  words
+
+(105) The Ācārya wished to massage the Lord’s feet, but the Lord, abashed, said:
+
+বহুত নাচাইলে তুমি, ছাড় নাচান ৷  
+মুকুন্দ-হরিদাস লইয়া করহ ভোজন ॥ ১০৬ ॥
+
+bahuta nācāile tumi, chāḍa nācāna  
+much  You have made Me dance  You  give up  making Me dance  
+mukunda-haridāsa laiyā karaha bhojana  
+Mukunda and Haridāsa  taking  take  Your meal
+
+(106) “You have made Me dance a great deal; now stop making Me dance. Go and eat with Mukunda and Haridāsa.”[^42]
+
+তবে ত’ আচার্য্য সঙ্গে লঞা দুই জনে ৷  
+করিল ভোজন, ইচ্ছা যে আছিল মনে ॥ ১০৭ ॥
+
+tabe ta’ ācārya saṅge lañā dui jane  
+then  indeed  the Ācārya  with Him  taking  the two  persons  
+karila bhojana, icchā ye āchila mane  
+did  meal  the desire  which  was  in the mind
+
+(107) Then the Ācārya took the two of them with Him and ate, as He had wished in His heart.
+
+শান্তিপুরের লোক শুনি’ প্রভুর আগমন ৷  
+দেখিতে আইলা লোক প্রভুর চরণ ॥ ১০৮ ॥
+
+śāntipurera loka śuni’ prabhura āgamana  
+of Śāntipura  the people  hearing  of the Lord  the arrival  
+dekhite āilā loka prabhura caraṇa  
+to see  came  the people  the Lord’s  feet
+
+(108) Hearing that the Lord had come, the people of Śāntipura came to see His feet.
+
+‘হরি’ ‘হরি’ বলে লোক আনন্দিত হঞা ৷  
+চমৎকার পাইল প্রভুর সৌন্দর্য্য দেখিঞা ॥ ১০৯ ॥
+
+‘hari’ ‘hari’ bale loka ānandita hañā  
+“Hari”  “Hari”  say  the people  joyful  becoming  
+camatkāra pāila prabhura saundarya dekhiñā  
+wonder  felt  the Lord’s  beauty  seeing
+
+(109) The people joyfully called out “Hari! Hari!”, and seeing the Lord’s beauty, they were struck with wonder.
+
+গৌর-দেহ-কান্তি সূর্য্য জিনিয়া উজ্জ্বল ৷  
+অরুণ-বস্ত্রকান্তি তাহে করে ঝলমল ॥ ১১০ ॥
+
+gaura-deha-kānti sūrya jiniyā ujjvala  
+of the golden body  the radiance  the sun  surpassing  bright  
+aruṇa-vastra-kānti tāhe kare jhala-mala  
+of the saffron cloth  the radiance  on it  makes  glitter
+
+(110) The radiance of His golden body outshone the sun, and over it shimmered the glow of His cloth, red as the dawn.
+
 ---
 
 [^1]: *Anubhāṣya*: *bhramāt* — the Lord shows bewilderment to worldly eyes, revealing that Kṛṣṇa’s abode, seen only by eyes of bhakti anointed with the salve of prema, cannot be reached by worldly effort. Heading in the edition: “Obeisance to Gaura, who wandered just after taking sannyāsa”.
@@ -619,3 +1169,41 @@ campaka bananas, yogurt, sandeśa  to describe  not  I can
 [^22]: *Anubhāṣya*: *iṣṭa* — needed, desired.
 
 [^23]: *Anubhāṣya*: in verses 45–55 the author shows his fine knowledge of the art of cooking.
+
+[^24]: Heading in the edition: tulasī on the offering, and with it water for *ācamana*.
+
+[^25]: *Anubhāṣya*: “to Kṛṣṇa Himself” (*sākṣāt kṛṣṇe*) — that is, to Śrīman Mahāprabhu. The two portions on banana leaves had not been offered (*Anubhāṣya* to verse 66).
+
+[^26]: *Anubhāṣya*: Advaita Himself offered to Kṛṣṇa only the portion on the metal plate; the two portions on banana leaves, meant for Mahāprabhu and Nityānanda, remained unoffered. The Ācārya kept this in mind and did not reveal it to Mahāprabhu.
+
+[^27]: The edition reads *vaisa tumi karite bhojana* (“You sit down and eat”); another reading is *tine kariye bhojana* (“let the three of us eat”).
+
+[^28]: *Anubhāṣya*: seeing how much food there was, the Lord asked for two more plates with only a little rice and vegetables on them.
+
+[^29]: *Anubhāṣya*: *upakaraṇa* — dāl, vegetables and the like, which make rice easy to eat. A sannyāsī has no right to such tasty dishes: enjoying what pleases the senses strengthens the urge to enjoy. So the Lord told Raghunātha dāsa, “Do not eat fine food and do not wear fine clothes” (Antya 6.236).
+
+[^30]: *Amṛta-pravāha-bhāṣya*: *bhāribhuri* — a secret.
+
+[^31]: The edition reads *rahibeka āra* (“the rest will remain”); another reading is *pāte rahibeka* (“will remain on the leaf”).
+
+[^32]: *Anubhāṣya*: a sannyāsī may not leave remnants on his plate — Śrīmad-Bhāgavatam 11.18.19: “…and let him eat all that remains, leaving nothing.”
+
+[^33]: The edition reads *taithika* (so also the *Anubhāṣya*); another reading is *tairthika*. *Anubhāṣya*: Nityānanda, though Himself an *avadhūta*, plays the part of a *bahūdaka* sannyāsī who wanders to the holy places.
+
+[^34]: *Anubhāṣya*: *bhraṣṭa* — “fallen” in the eyes of the worldly society of the smārtas, that is, beyond rules and prohibitions: praise in the guise of blame. All these words of Advaita are a joke. The highest stage of sannyāsa is that of the *paramahaṁsa*, also called *avadhūta*.
+
+[^35]: *Amṛta-pravāha-bhāṣya*: a *mān* is a measure of four *sers*.
+
+[^36]: Heading in the edition: the remnants thrown by Nitāi touched Advaita’s body, and Advaita danced, overflowing with love.
+
+[^37]: *Anubhāṣya*: by the rules of the smārtas Advaita should have become impure at the touch of these remnants, but in truth He became supremely pure: the remnants of a Vaiṣṇava, a *paramahaṁsa*, are *mahā-mahā-prasāda*. *Avadhūta* — one who does not care for his body.
+
+[^38]: Heading in the edition: “In the guise of blame Advaita glorifies Nityānanda”. *Anubhāṣya*: “mad by nature” — devoted to the dharma of the *paramahaṁsas*, which is natural to the soul, and every moment intoxicated with serving Kṛṣṇa with all the senses.
+
+[^39]: *Anubhāṣya*: “like You” — a perfected Vaiṣṇava, a *paramahaṁsa* beyond rules and prohibitions; such souls are never ruled by fear of the worldly smārta society.
+
+[^40]: *Anubhāṣya*: to see *mahā-prasāda* as ordinary rice and dāl is an offence (*Bṛhad-viṣṇu-purāṇa*).
+
+[^41]: Heading in the edition: “A Vaiṣṇava’s sannyāsa sets aside the rules of the smārtas”. *Amṛta-pravāha-bhāṣya*: *smṛti-dharma* — the dharma of the smārtas.
+
+[^42]: *Anubhāṣya*: the Lord, a sannyāsī, saw that He was given a fine bed, cloves, cardamom, sandalwood paste and a garland, and that Advaita even wished to massage His feet; so He said, “You have made Me dance a great deal.”
