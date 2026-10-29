@@ -173,7 +173,7 @@ Nṛsiṁha  seeing  to Him  He made  obeisances and prayers
 siddhavaṭa gelā yām̐hā mūrti sītāpati  
 to Siddhavaṭa  He went  where  the Deity  of Sītā’s Lord
 
-(17) Seeing Nṛsiṁha, He offered Him obeisances and prayers. Then He went to Siddhavaṭa, where the Deity of Sītā’s Lord is.
+(17) Seeing Nṛsiṁha, He offered Him obeisances and prayers. Then He went to Siddhavaṭa, where Sītā’s Lord abides in His Deity form.
 
 রঘুনাথ দেখি’ কৈল প্রণতি স্তবন ৷  
 তাঁহা এক বিপ্র প্রভুর কৈল নিমন্ত্রণ ॥ ১৮ ॥
@@ -489,7 +489,7 @@ a Buddhist ācārya  great  scholar  in his own  nine  principles
 prabhura āgete udgrāha kari lāgilā balite  
 of the Lord  before  insistence  showing  began  to speak
 
-(47) A Buddhist ācārya, a great scholar in his own nine principles, began to argue them insistently before the Lord.
+(47) A Buddhist ācārya, a great scholar of his own nine principles, began to argue for them insistently before the Lord.
 
 যদ্যপি অসম্ভাষ্য বৌদ্ধ অযুক্ত দেখিতে ৷  
 তথাপি বলিলা প্রভু গর্ব্ব খণ্ডাইতে ॥ ৪৮ ॥
@@ -569,7 +569,7 @@ of the Buddhists  upon  the food  falls  impure  being
 bauddhācāryera māthāya thāli paḍila bājiyā  
 of the Buddhist ācārya  on the head  the plate  fell  with a clang
 
-(55) The impure food fell upon the Buddhists, and the plate fell with a clang on the head of the Buddhist ācārya.
+(55) The impure food rained down on the Buddhists, and the plate came down with a clang on the head of the Buddhist ācārya.
 
 তেরছে পড়িল থালি, — মাথা কাটি’ গেল ৷  
 মূর্চ্ছিত হঞা আচার্য্য ভূমিতে পড়িল ॥ ৫৬ ॥
@@ -579,7 +579,7 @@ edgewise  fell  the plate  the head  it cut
 mūrcchita hañā ācārya bhūmite paḍila  
 unconscious  becoming  the ācārya  to the ground  fell
 
-(56) The plate fell edgewise and cut his head, and the ācārya fell to the ground unconscious.
+(56) The plate struck edgewise and gashed his head, and the ācārya fell to the ground unconscious.
 
 হাহাকার করি’ কান্দে সব শিষ্যগণ ৷  
 সবে আসি’ প্রভু-পদে লইল শরণ ॥ ৫৭ ॥
@@ -659,7 +659,7 @@ Mahāprabhu  setting out  came  to Tripati-Trimalla
 catur-bhuja mūrti dekhi’ vyeṅkaṭādrye cale  
 four-armed  Deity  seeing  to Veṅkaṭādri  goes
 
-(64) Mahāprabhu went on and came to Tripati and Trimalla. Seeing the four-armed Deity, He went on to Veṅkaṭādri.
+(64) Mahāprabhu journeyed on to Tripati and Trimalla. After seeing the four-armed Deity, He went on to Veṅkaṭādri.
 
 ত্রিপতি আসিয়া কৈল শ্রীরাম দরশন ৷  
 রঘুনাথ-আগে কৈল প্রণাম স্তবন ॥ ৬৫ ॥
@@ -859,7 +859,7 @@ meal  having given  something  he made  request
 cāturmāsya āsi’ prabhu, haila upasanna  
 Cāturmāsya  coming  O Lord  has become  near
 
-(84) After serving Him a meal, he made a request: “O Lord, Cāturmāsya has come and is at hand.
+(84) After serving Him a meal, he made a request: “O Lord, the Cāturmāsya is at hand.
 
 চাতুর্ম্মাস্যে কৃপা করি’ রহ মোর ঘরে ৷  
 কৃষ্ণকথা কহি’ কৃপায় উদ্ধার’ আমারে ॥ ৮৫ ॥
@@ -1019,7 +1019,7 @@ to Arjuna  He spoke  beneficial  instructions
 tām̐re dekhi’ haya mora ānanda-āveśa  
 Him  seeing  comes  my  by bliss  being overwhelmed
 
-(100) He spoke beneficial instructions to Arjuna. Seeing Him, I am overwhelmed with bliss.
+(100) He gives Arjuna counsel for his good, and as I see Him, I am overwhelmed with bliss.
 
 যাবৎ পড়োঁ, তাবৎ পাঙ তাঁর দরশন ৷  
 এই লাগি’ গীতা-পাঠ না ছাড়ে মোর মন ॥ ১০১ ॥
@@ -1109,7 +1109,7 @@ a Śrī Vaiṣṇava  the Bhaṭṭa  serves  Lakṣmī-Nārāyaṇa
 tām̐ra bhakti dekhi’ prabhura tuṣṭa haila mana  
 his  devotion  seeing  of the Lord  pleased  became  the mind
 
-(109) Being a Śrī Vaiṣṇava, the Bhaṭṭa served Lakṣmī-Nārāyaṇa. Seeing his devotion, the Lord was pleased at heart.
+(109) The Bhaṭṭa, a Śrī Vaiṣṇava, served Lakṣmī-Nārāyaṇa, and seeing his devotion, the Lord was pleased at heart.
 
 নিরন্তর তাঁর সঙ্গে হৈল সখ্যভাব ৷  
 হাস্য-পরিহাসে দুঁহে সখ্যের স্বভাব ॥ ১১০ ॥
@@ -1149,7 +1149,7 @@ for this  reason  enjoyment of happiness  giving up  for a long time
 vrata-niyama kari’ tapa karila apāra  
 vows and rules  observing  austerities  she performed  boundless
 
-(113) For this she gave up the enjoyment of happiness and for a long time kept vows and rules and performed boundless austerities.
+(113) For this she gave up her pleasures, and for a long time she kept vows and rules and performed boundless austerities.
 
 কস্যানুভাবোঽস্য ন দেব বিদ্মহে  
 তবাঙ্ঘ্রিরেণুস্পর্শাধিকারঃ ৷  
@@ -1165,7 +1165,7 @@ desiring which  Śrī  the best of women  performed  austerity
 vihāya kāmān su-ciraṁ dhṛta-vratā  
 giving up  desires  for a very long time  holding vows
 
-(114) “O Lord, we do not know by what merit this one has gained the right to touch the dust of Your feet. Desiring it, Śrī, the best of women, gave up all desires, kept vows and performed austerities for a very long time.” (Śrīmad-Bhāgavatam, 10.16.36)
+(114) “O Lord, we do not know by what merit this one has gained the right to touch the dust of Your feet. Longing for it, Śrī, the best of women, renounced all desires and practised austerities, keeping her vows for a very long time.” (Śrīmad-Bhāgavatam, 10.16.36)
 
 ভট্ট কহে, কৃষ্ণ-নারায়ণ — একই স্বরূপ ৷  
 কৃষ্ণেতে অধিক লীলা-বৈদগ্ধ্যাদিরূপ ॥ ১১৫ ॥
@@ -1199,7 +1199,7 @@ by rasa  excels  of Kṛṣṇa
 rūpam eṣā rasa-sthitiḥ  
 the form  such  of rasa  the nature
 
-(117) “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^13]
+(117) “By the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are not different in Their essential form. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^13]
 
 কৃষ্ণসঙ্গে পতিব্রতা-ধর্ম্ম নহে নাশ ৷  
 অধিক লাভ পাইয়ে, আর রাস-বিলাস ॥ ১১৮ ॥
@@ -1209,7 +1209,7 @@ in Kṛṣṇa’s company  the duty of chastity  is not  destroyed
 adhika lābha pāiye, āra rāsa-vilāsa  
 greater  gain  she obtains  moreover  enjoyment of the rāsa dance
 
-(118) In Kṛṣṇa’s company the duty of chastity is not destroyed; rather she gains more — the enjoyment of the rāsa dance.
+(118) In Kṛṣṇa’s company her vow of chastity is not broken; rather she gains something more — the rāsa dance.
 
 বিনোদিনী লক্ষ্মীর হয় কৃষ্ণে অভিলাষ ৷  
 ইহাতে কি দোষ, কেনে কর পরিহাস ॥ ১১৯ ॥
@@ -1513,7 +1513,7 @@ by rasa  excels  of Kṛṣṇa
 rūpam eṣā rasa-sthitiḥ  
 the form  such  of rasa  the nature
 
-(146) “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^16]
+(146) “By the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are not different in Their essential form. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^16]
 
 ‘স্বয়ং ভগবান্ কৃষ্ণ’ হরে লক্ষ্মীর মন ৷  
 গোপীকার মন হরিতে নারে ‘নারায়ণ’ ॥ ১৪৭ ॥
