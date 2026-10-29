@@ -386,11 +386,15 @@ Kṛṣṇa  without  all  fruitless
 তার জন্ম হৈল অকারণে ॥ ৩১ ॥
 
 kṛṣṇera madhura vāṇī, amṛtera taraṅgiṇī,  
+Kṛṣṇa’s  sweet  words  of nectar  a river  
 tāra praveśa nāhi ye śravaṇe  
+their  entry  is not  into which  ears  
 kāṇākaḍi-chidra sama, jāniha se śravaṇa,  
-tāra janma haila akāraṇe
+of a holed cowrie shell  a hole  like  know  those  ears  
+tāra janma haila akāraṇe  
+their  birth  was  in vain
 
-(31) [not yet translated]
+(31) Kṛṣṇa’s sweet words are a river of nectar. Know that the ears they do not enter are like the hole in a broken cowrie shell: their birth was in vain.
 
 কৃষ্ণের অধরামৃত, কৃষ্ণ-গুণ-চরিত,  
 সুধাসার-স্বাদু-বিনিন্দন ৷  
@@ -398,11 +402,15 @@ tāra janma haila akāraṇe
 সে রসনা ভেক-জিহ্বা সম ॥ ৩২ ॥
 
 kṛṣṇera adharāmṛta, kṛṣṇa-guṇa-carita,  
+of Kṛṣṇa  the nectar of the lips  Kṛṣṇa’s  qualities  and deeds  
 sudhā-sāra-svādu-vinindana  
+of the essence of nectar  the taste  surpassing  
 tāra svāda ye nā jāne, janmiyā nā maila kene,  
-se rasanā bheka-jihvā sama
+their  taste  who  not  knows  being born  not  died  why  
+se rasanā bheka-jihvā sama  
+that  tongue  a frog’s tongue  like
 
-(32) [not yet translated]
+(32) The nectar of Kṛṣṇa’s lips, and Kṛṣṇa’s qualities and deeds, surpass in taste the very essence of nectar. Why did one who does not know their taste not die at birth? That tongue is like a frog’s tongue.
 
 মৃগমদ-নীলোৎপল, মিলনে যে পরিমল,  
 যেই হরে তার গর্ব্ব-মান ৷  
@@ -410,11 +418,15 @@ se rasanā bheka-jihvā sama
 সেই নাসা ভস্ত্রার সমান ॥ ৩৩ ॥
 
 mṛga-mada nīlotpala, milane ye parimala,  
+of musk  and the blue lotus  in mingling  which  fragrance  
 yei hare tāra garva-māna  
+that  steals  its  pride  
 hena kṛṣṇa-aṅga-gandha, yāra nāhi se sambandha,  
-sei nāsā bhastrāra samāna
+such  Kṛṣṇa’s  body’s  fragrance  whose  not  that  connection  
+sei nāsā bhastrāra samāna  
+that  nose  a bellows  like
 
-(33) [not yet translated]
+(33) The fragrance of Kṛṣṇa’s body steals the pride even of the scent born from mingling musk and the blue lotus. The nose that has no connection with that fragrance is like a bellows.
 
 কৃষ্ণ-কর-পদতল, কোটিচন্দ্র-সুশীতল,  
 তার স্পর্শ যেন স্পর্শমণি ৷  
@@ -422,11 +434,15 @@ sei nāsā bhastrāra samāna
 সেই বপু লৌহ-সম জানি ॥ ৩৪ ॥
 
 kṛṣṇa-kara-pada-tala, koṭi-candra-suśītala,  
+Kṛṣṇa’s  hands  and feet  the palms and soles  than millions of moons  cooler  
 tāra sparśa yena sparśa-maṇi  
+their  touch  like  a touchstone  
 tāra sparśa nāhi yāra, se yāuk chārakhāra,  
-sei vapu lauha-sama jāni
+their  touch  not  whose  he  let go  to ruin  
+sei vapu lauha-sama jāni  
+that  body  like iron  I know
 
-(34) [not yet translated]
+(34) The palms of Kṛṣṇa’s hands and the soles of His feet are cooler than millions of moons, and their touch is like a touchstone. Let one who has not known that touch go to ruin: I know his body is like iron.”
 
 করি’ এত বিলাপন, প্রভু শ্রীশচীনন্দন,  
 উঘাড়িয়া হৃদয়ের শোক ৷  
@@ -434,11 +450,15 @@ sei vapu lauha-sama jāni
 পুনরপি পড়ে এক শ্লোক ॥ ৩৫ ॥
 
 kari’ eta vilāpana, prabhu śrīśacīnandana,  
+making  so much  lament  the Lord  Śrī Śacīnandana  
 ughāḍiyā hṛdayera śoka  
+opening  of the heart  the grief  
 dainya-nirveda-viṣāde, hṛdayera avasāde,  
-punarapi paḍe eka śloka
+in humility  despondency  dejection  of the heart  in exhaustion  
+punarapi paḍe eka śloka  
+again  recites  one  verse
 
-(35) [not yet translated]
+(35) Lamenting so much, the Lord, Śrī Śacīnandana, laid open the grief of His heart. In humility, despondency and dejection, His heart exhausted, He recited another verse:
 
 যদা যাতো দৈবান্মধুরিপুরসৌ লোচনপথং  
 তদাস্মাকং চেতো মদনহতকেনাহৃতমভূৎ ৷  
@@ -446,11 +466,15 @@ punarapi paḍe eka śloka
 বিধাস্যামস্তস্মিন্নখিলঘটিকা রত্নখচিতাঃ ॥ ৩৬ ॥
 
 yadā yāto daivān madhu-ripur asau locana-pathaṁ  
+when  came  by fortune  the enemy of Madhu  this  of the eyes  on the path  
 tadāsmākaṁ ceto madana-hatakenāhṛtam abhūt  
+then  our  mind  by wretched Madana  stolen  was  
 punar yasminn eṣa kṣaṇam api dṛśor eti padavīṁ  
-vidhāsyāmas tasminn akhila-ghaṭikā ratna-khacitāḥ
+again  in which  He  a moment  even  of the eyes  comes  on the path  
+vidhāsyāmas tasminn akhila-ghaṭikā ratna-khacitāḥ  
+we shall make  in it  all the ghaṭikās  with jewels  studded
 
-(36) [not yet translated]
+(36) “When by good fortune Madhu’s enemy came within our sight, our mind was stolen by that wretched Madana. When He comes again into our sight even for a moment, we shall stud all the *ghaṭikās* of that time with jewels.” (Jagannātha-vallabha-nāṭaka 3.11)
 
 যে কালে বা স্বপনে, দেখিনু বংশীবদনে,  
 সেই কালে আইলা দুই বৈরী ৷  
@@ -458,11 +482,15 @@ vidhāsyāmas tasminn akhila-ghaṭikā ratna-khacitāḥ
 দেখিতে না পাইলুঁ নেত্র ভরি’ ॥ ৩৭ ॥
 
 ye kāle vā svapane, dekhinu vaṁśī-vadane,  
+at the time  or  as in a dream  I saw  the one with the flute at His lips  
 sei kāle āilā dui vairī  
+at that  time  came  two  enemies  
 ‘ānanda’ āra ‘madana’, hari’ nila mora mana,  
-dekhite nā pāiluṅ netra bhari’
+bliss  and  Madana  stealing  took  My  mind  
+dekhite nā pāiluṅ netra bhari’  
+to see  not  I could  eyes  filling
 
-(37) [not yet translated]
+(37) “At the very time I saw Him with the flute at His lips, as if in a dream, two enemies came — Bliss and Madana. They stole My mind, and I could not see Him to My eyes’ content.
 
 পুনঃ যদি কোন ক্ষণ, করায় কৃষ্ণ দরশন,  
 তবে সেই ঘটী-ক্ষণ-পল ৷  
@@ -470,11 +498,15 @@ dekhite nā pāiluṅ netra bhari’
 অলঙ্কৃত করিমু সকল ॥ ৩৮ ॥
 
 punaḥ yadi kona kṣaṇa, karāya kṛṣṇa daraśana  
+again  if  some  moment  grants  Kṛṣṇa’s  sight  
 tabe sei ghaṭī-kṣaṇa-pala  
+then  those  ghaṭīs  kṣaṇas  and palas  
 diyā mālya-candana, nānā ratna-ābharaṇa,  
-alaṅkṛta karimu sakala
+giving  garlands  and sandal  various  jewelled  ornaments  
+alaṅkṛta karimu sakala  
+adorned  I shall make  all
 
-(38) [not yet translated]
+(38) If some moment ever again grants Me the sight of Kṛṣṇa, then I shall adorn all those *ghaṭīs*, *kṣaṇas* and *palas* with garlands and sandal paste and many jewelled ornaments.”
 
 ক্ষণে বাহ্য হৈল মন, আগে দেখে দুই জন,  
 তাঁরে পুছে, — আমি না চৈতন্য ?  
@@ -482,21 +514,28 @@ alaṅkṛta karimu sakala
 তোমরা কিছু শুনিয়াছ দৈন্য ? ॥ ৩৯ ॥
 
 kṣaṇe bāhya haila mana, āge dekhe dui jana,  
+in a moment  external  became  the mind  before  sees  two  persons  
 tāṅre puche, — āmi nā caitanya?  
+to them  asks  I  not  Caitanya (conscious)  
 svapna-prāya ki dekhinu, kibā āmi pralāpinu,  
-tomarā kichu śuniyācha dainya?
+like a dream  what  I saw  what  I  raved  
+tomarā kichu śuniyācha dainya?  
+you  anything  heard  of humble words
 
-(39) [not yet translated]
+(39) In a moment His mind came to external consciousness, and seeing two persons before Him, He asked them: “Am I not Caitanya? What did I see, as though in a dream? What did I say in My raving? Did you hear any words of misery?
 
 শুন, মোর প্রাণের বান্ধব ৷  
 নাহি কৃষ্ণ-প্রেমধন, দরিদ্র মোর জীবন,  
 দেহেন্দ্রিয় বৃথা মোর সব ॥ ৪০ ॥
 
 śuna, mora prāṇera bāndhava  
+hear  My  of life  friend  
 nāhi kṛṣṇa-prema-dhana, daridra mora jīvana,  
-dehendriya vṛthā mora saba
+not  for Kṛṣṇa  love’s wealth  poor  My  life  
+dehendriya vṛthā mora saba  
+body and senses  useless  My  all
 
-(40) [not yet translated]
+(40) Hear Me, friend of My life: I have no wealth of love for Kṛṣṇa. My life is poor, and My body and senses are all useless.”
 
 পুনঃ কহে, — হায় হায়, শুন, স্বরূপ-রামরায়,  
 এই মোর হৃদয় নিশ্চয় ৷  
@@ -504,19 +543,25 @@ dehendriya vṛthā mora saba
 এত বলি’ শ্লোক উচ্চারয় ॥ ৪১ ॥
 
 punaḥ kahe, — hāya hāya, śuna, svarūpa-rāmarāya,  
+again  says  alas  alas  hear  Svarūpa and Rāmarāya  
 ei mora hṛdaya niścaya  
+this  My  heart’s  conviction  
 śuni, karaha vicāra, haya, naya — kaha sāra,  
-eta bali’ śloka uccāraya
+having heard  consider  is  is not  tell  the truth  
+eta bali’ śloka uccāraya  
+so  saying  a verse  utters
 
-(41) [not yet translated]
+(41) Again He said: “Alas, alas! Hear, Svarūpa and Rāmarāya, what My heart is sure of. Having heard it, consider and tell Me truly whether it is so or not.” Saying this, He uttered a verse:
 
 কইঅবরহিঅং পেম্মং ণ হি হোই মাণুসে লোএ ৷  
 জই হোই কস্স বিরহো বিরহে হোন্তম্মি কো জীঅই ॥ ৪২ ॥
 
 ka-i-avarahi-aṁ pemmaṁ ṇa hi hoi māṇuse loe  
-ja-i hoi kassa viraho virahe hontammi ko jīa-i
+free of deceit  love  not  indeed  is  in the human  world  
+ja-i hoi kassa viraho virahe hontammi ko jīa-i  
+if  it is  whose  separation  in separation  occurring  who  lives
 
-(42) [not yet translated]
+(42) “Love free of deceit does not exist in the human world. If it exists, how can anyone be separated? And if separation comes, who can live?”
 
 অকৈতব কৃষ্ণপ্রেম, যেন জাম্বূনদ-হেম,  
 সেই প্রেমা নৃলোকে না হয় ৷  
@@ -524,11 +569,15 @@ ja-i hoi kassa viraho virahe hontammi ko jīa-i
 বিয়োগ হৈলে কেহ না জীয়য় ॥ ৪৩ ॥
 
 akaitava kṛṣṇa-prema, yena jāmbūnada-hema,  
+without deceit  love for Kṛṣṇa  like  of the Jāmbū river  gold  
 sei premā nṛloke nā haya  
+that  love  in the human world  not  exists  
 yadi haya tāra yoga, nā haya tabe viyoga,  
-viyoga haile keha nā jīyaya
+if  is  with it  union  not  is  then  separation  
+viyoga haile keha nā jīyaya  
+separation  occurring  anyone  not  lives
 
-(43) [not yet translated]
+(43) “Love for Kṛṣṇa without deceit is like the gold of the Jāmbū river: such love does not exist in the human world. If one is joined with it, there is no separation; and if separation comes, no one lives.”
 
 এত কহি’ শচীসুত, শ্লোক পড়ে অদ্ভুত,  
 শুনে দুঁহে এক-মন হঞা ৷  
@@ -536,11 +585,15 @@ viyoga haile keha nā jīyaya
 তবু কহি লাজবীজ খাঞা ॥ ৪৪ ॥
 
 eta kahi’ śacī-suta, śloka paḍe adbhuta,  
+so  saying  the son of Śacī  a verse  recites  wondrous  
 śune duṅhe eka-mana hañā  
+hear  both  of one  mind  becoming  
 āpana-hṛdaya-kāja, kahite vāsiye lāja,  
-tabu kahi lāja-bīja khāñā
+of My own  heart’s  affairs  to tell  I feel  shame  
+tabu kahi lāja-bīja khāñā  
+still  I tell  shame’s seed  eating
 
-(44) [not yet translated]
+(44) Having said this, the son of Śacī recited a wondrous verse, and the two listened with one mind: “I feel ashamed to tell what is in My heart, yet I speak, having swallowed the seed of shame.
 
 ন প্রেমগন্ধোঽস্তি দরাপি মে হরৌ  
 ক্রন্দামি সৌভাগ্যভরং প্রকাশিতুম্ ৷  
@@ -548,11 +601,15 @@ tabu kahi lāja-bīja khāñā
 বিভর্ম্মি যৎ প্রাণপতঙ্গকান্ বৃথা ॥ ৪৫ ॥
 
 na prema-gandho ’sti darāpi me harau  
+not  of love a trace  is  even slightly  in Me  for Hari  
 krandāmi saubhāgya-bharaṁ prakāśitum  
+I weep  of good fortune  the greatness  to display  
 vaṁśī-vilāsy-ānana-lokanaṁ vinā  
-bibharmi yat prāṇa-pataṅgakān vṛthā
+of Him who plays the flute  of the face  without seeing  
+bibharmi yat prāṇa-pataṅgakān vṛthā  
+I sustain  that  the insects of My life  in vain
 
-(45) [not yet translated]
+(45) “There is not even a slight trace of love for Hari in Me. I weep only to display how great My good fortune is. Without seeing the face of Him who plays the flute, I sustain in vain this insect-like life of Mine.”
 
 দূরে শুদ্ধপ্রেমগন্ধ, কপট প্রেমের বন্ধ,  
 সেহ মোর নাহি কৃষ্ণ-পায় ৷  
@@ -560,11 +617,15 @@ bibharmi yat prāṇa-pataṅgakān vṛthā
 করি, ইহা জানিহ নিশ্চয় ॥ ৪৬ ॥
 
 dūre śuddha-prema-gandha, kapaṭa premera bandha,  
+far  of pure love  the scent  of feigned  love  the bond  
 seha mora nāhi kṛṣṇa-pāya  
+even that  of Mine  is not  at Kṛṣṇa’s feet  
 tabe ye kari krandana, sva-saubhāgya prakhyāpana,  
-kari, ihā jāniha niścaya
+yet  that  I make  weeping  my good fortune’s  display  
+kari, ihā jāniha niścaya  
+I make  this  know  for certain
 
-(46) [not yet translated]
+(46) Far from Me is even the scent of pure love; I do not have even a bond of feigned love at Kṛṣṇa’s feet. If I weep, I do it to display My good fortune — know this for certain.
 
 যাতে বংশীধ্বনি-সুখ, না দেখি’ সে চাঁদ মুখ,  
 যদ্যপি নাহিক ‘আলম্বন’ ৷  
@@ -572,11 +633,15 @@ kari, ihā jāniha niścaya
 প্রাণ-কীটেরে করিয়ে ধারণ ॥ ৪৭ ॥
 
 yāte vaṁśī-dhvani-sukha, nā dekhi’ se cāṅda mukha,  
+in which  the flute sound’s  joy  not  seeing  that  moon-like  face  
 yadyapi nāhika ‘ālambana’  
+although  there is not  support (ālambana)  
 nija-dehe kari prīti, kevala kāmera rīti,  
-prāṇa-kīṭere kariye dhāraṇa
+My own body  I make  love  only  of kāma  the way  
+prāṇa-kīṭere kariye dhāraṇa  
+the insect of life  I make  maintenance
 
-(47) [not yet translated]
+(47) Without seeing that moon-like face, in which lies the joy of the flute’s sound, I have no support (*ālambana*) for My life; still I love My own body. This is simply the way of *kāma*, desire for oneself: I maintain this insect of a life.
 
 কৃষ্ণপ্রেমা সুনির্ম্মল, যেন শুদ্ধগঙ্গাজল,  
 সেই প্রেমা — অমৃতের সিন্ধু ৷  
@@ -584,11 +649,15 @@ prāṇa-kīṭere kariye dhāraṇa
 শুক্লবস্ত্রে যৈছে মসীবিন্দু ॥ ৪৮ ॥
 
 kṛṣṇa-premā sunirmala, yena śuddha-gaṅgā-jala,  
+love for Kṛṣṇa  spotless  like  pure  Ganges  water  
 sei premā — amṛtera sindhu  
+that  love  of nectar  an ocean  
 nirmala se anurāge, nā lukāya anya dāge,  
-śukla-vastre yaiche masī-bindu
+spotless  in that  attachment (anurāga)  not  hides  another  stain  
+śukla-vastre yaiche masī-bindu  
+on white cloth  like  an ink  drop
 
-(48) [not yet translated]
+(48) Love for Kṛṣṇa is spotless, like the pure water of the Ganges; that love is an ocean of nectar. In that spotless attachment (*anurāga*) no other stain can hide, just as a drop of ink cannot hide on white cloth.
 
 শুদ্ধপ্রেম-সুখসিন্ধু, পাই তার এক বিন্দু,  
 সেই বিন্দু জগৎ ডুবায় ৷  
@@ -596,11 +665,15 @@ nirmala se anurāge, nā lukāya anya dāge,
 কহিলে বা কেবা পাতিয়ায় ॥ ৪৯ ॥
 
 śuddha-prema-sukha-sindhu, pāi tāra eka bindu,  
+pure love’s  happiness  ocean  if I get  its  one  drop  
 sei bindu jagat ḍubāya  
+that  drop  the world  drowns  
 kahibāra yogya naya, tathāpi bāule kaya,  
-kahile vā kebā pātiyāya
+to tell  fit  not  yet  the madman  speaks  
+kahile vā kebā pātiyāya  
+when told  even  who  believes
 
-(49) [not yet translated]
+(49) Pure love is an ocean of joy; if one gets a single drop of it, that drop drowns the world. It is not fit to be told, yet the madman speaks — and when it is told, who believes it?”
 
 এইমত দিনে-দিনে, স্বরূপ-রামানন্দ-সনে,  
 নিজ-ভাব করেন বিদিত ৷  
@@ -608,11 +681,15 @@ kahile vā kebā pātiyāya
 কৃষ্ণপ্রেমা অদ্ভুত চরিত ॥ ৫০ ॥
 
 ei mata dine-dine, svarūpa-rāmānanda-sane,  
+in this way  day after day  Svarūpa and Rāmānanda  with  
 nija-bhāva karena vidita  
+His own  feelings  makes  known  
 bāhye viṣa-jvālā haya, bhitare ānanda-maya,  
-kṛṣṇa-premā adbhuta carita
+outwardly  poison’s burning  is  within  blissful  
+kṛṣṇa-premā adbhuta carita  
+love for Kṛṣṇa  wondrous  nature
 
-(50) [not yet translated]
+(50) In this way, day after day, He revealed His feelings to Svarūpa and Rāmānanda. Outwardly there was the burning of poison, but within was bliss: such is the wondrous nature of love for Kṛṣṇa.
 
 এই প্রেমা-আস্বাদন, তপ্ত-ইক্ষু-চর্ব্বণ,  
 মুখ জ্বলে, না যায় ত্যজন ৷  
@@ -620,11 +697,15 @@ kṛṣṇa-premā adbhuta carita
 বিষামৃতে একত্র মিলন ॥ ৫১ ॥
 
 ei premā-āsvādana, tapta-ikṣu-carvaṇa,  
+this  love’s  tasting  hot  sugarcane  chewing  
 mukha jvale, nā yāya tyajana  
+the mouth  burns  not  can be  given up  
 sei premā yāṅra mane, tāra vikrama sei jāne,  
-viṣāmṛte ekatra milana
+that  love  in whose  heart  its  power  he alone  knows  
+viṣāmṛte ekatra milana  
+of poison and nectar  in one  meeting
 
-(51) [not yet translated]
+(51) Tasting this love is like chewing hot sugarcane: the mouth burns, yet one cannot give it up. Only he in whose heart that love lives knows its power — poison and nectar meeting in one.
 
 পীড়াভির্নবকালকূট-কটুতাগর্ব্বস্য নির্ব্বাসনো  
 নিঃস্যন্দেন মুদাং সুধা-মধুরিমাহঙ্কারসঙ্কোচনঃ ৷  
@@ -632,11 +713,15 @@ viṣāmṛte ekatra milana
 জ্ঞায়ন্তে স্ফুটমস্য বক্রমধুরাস্তেনৈব বিক্রান্তয়ঃ ॥ ৫২ ॥
 
 pīḍābhir nava-kāla-kūṭa-kaṭutā-garvasya nirvāsano  
+by its pains  of fresh  kālakūṭa poison  pungency’s  pride  banishing  
 niḥsyandena mudāṁ sudhā-madhurimāhaṅkāra-saṅkocanaḥ  
+by the outpouring  of joys  of nectar  sweetness’s  conceit  humbling  
 premā sundari nanda-nandana-paro jāgarti yasyāntare  
-jñāyante sphuṭam asya vakra-madhurās tenaiva vikrāntayaḥ
+love  O beautiful one  for Nanda’s son  directed  awakens  in whose  heart  
+jñāyante sphuṭam asya vakra-madhurās tenaiva vikrāntayaḥ  
+are known  clearly  its  crooked and sweet  by him  alone  powers
 
-(52) [not yet translated]
+(52) “O beautiful one, the love for Nanda’s son that awakens in someone’s heart banishes by its pains the pride of the fresh *kālakūṭa* poison in its pungency, and by its outpouring of joys humbles the conceit of nectar in its sweetness. Its crooked and sweet powers are clearly known by that person alone.” (Vidagdha-mādhava 2.18)
 
 যে কালে দেখে জগন্নাথ, শ্রীরাম-সুভদ্রা-সাথ,  
 তবে জানে — আইলাম কুরুক্ষেত্র ৷  
@@ -644,11 +729,15 @@ jñāyante sphuṭam asya vakra-madhurās tenaiva vikrāntayaḥ
 জুড়াইল তনু-মন-নেত্র ॥ ৫৩ ॥
 
 ye kāle dekhe jagannātha, śrīrāma-subhadrā-sātha,  
+when  sees  Jagannātha  with Śrī Rāma and Subhadrā  
 tabe jāne — āilāma kurukṣetra  
+then  thinks  I have come  to Kurukṣetra  
 saphala haila jīvana, dekhiluṅ padma-locana,  
-juḍāila tanu-mana-netra
+fruitful  has become  life  I have seen  the lotus-eyed One  
+juḍāila tanu-mana-netra  
+are soothed  body  mind  eyes
 
-(53) [not yet translated]
+(53) When He saw Jagannātha with Śrī Balarāma and Subhadrā, He thought: “I have come to Kurukṣetra! My life has borne fruit: I have seen the lotus-eyed One, and My body, mind and eyes are soothed.”
 
 গরুড়ের সন্নিধানে, রহি’ করে দরশনে,  
 সে আনন্দের কি কহিব ব’লে ৷  
@@ -656,11 +745,15 @@ juḍāila tanu-mana-netra
 সে খাল ভরিল অশ্রুজলে ॥ ৫৪ ॥
 
 garuḍera sannidhāne, rahi’ kare daraśane,  
+of Garuḍa  in the presence  staying  takes  darśana  
 se ānandera ki kahiba ba’le  
+that  bliss  what  shall I tell  in words  
 garuḍa-stambhera tale, āche eka nimna khāle,  
-se khāla bharila aśru-jale
+of the Garuḍa pillar  at the base  is  a  low  channel  
+se khāla bharila aśru-jale  
+that  channel  filled  with tears
 
-(54) [not yet translated]
+(54) Standing near Garuḍa, He took darśana of the Lord. What can I say of that bliss? At the base of the Garuḍa pillar there was a low channel in the floor, and it filled with His tears.
 
 তাঁহা হৈতে ঘরে আসি’, মাটীর উপরে বসি’,  
 নখে করে পৃথিবী লিখন ৷  
@@ -668,11 +761,15 @@ se khāla bharila aśru-jale
 কাঁহা সেই বংশীবদন ॥ ৫৫ ॥
 
 tāṅhā haite ghare āsi’, māṭīra upare vasi’,  
+from there  home  coming  the ground  on  sitting  
 nakhe kare pṛthivī likhana  
+with His nails  makes  on the earth  writing  
 hā-hā kāṅhā vṛndāvana, kāṅhā gopendra-nandana,  
-kāṅhā sei vaṁśī-vadana
+alas  where  is Vṛndāvana  where  the son of the king of cowherds  
+kāṅhā sei vaṁśī-vadana  
+where  that  one with the flute at His lips
 
-(55) [not yet translated]
+(55) Returning home from there, He would sit on the ground and write on the earth with His nails: “Alas, where is Vṛndāvana? Where is the son of the king of the cowherds? Where is He with the flute at His lips?
 
 কাঁহা সে ত্রিভঙ্গঠাম, কাঁহা সেই বেণুগান,  
 কাঁহা সেই যমুনা-পুলিন ৷  
@@ -680,11 +777,15 @@ kāṅhā sei vaṁśī-vadana
 কাঁহা প্রভু মদনমোহন ॥ ৫৬ ॥
 
 kāṅhā se tri-bhaṅga-ṭhāma, kāṅhā sei veṇu-gāna,  
+where  that  threefold-bending  stance  where  that  flute  song  
 kāṅhā sei yamunā-pulina  
+where  that  Yamunā’s  bank  
 kāṅhā se rāsa-vilāsa, kāṅhā nṛtya-gīta-hāsa,  
-kāṅhā prabhu madana-mohana
+where  that  rāsa  play  where  dancing  singing  laughter  
+kāṅhā prabhu madana-mohana  
+where  the Lord  Madana-mohana
 
-(56) [not yet translated]
+(56) Where is that stance, bending in three places? Where is that song of the flute? Where is that bank of the Yamunā? Where is that play of the rāsa? Where are the dancing, the singing and the laughter? Where is My Lord, Madana-mohana?”
 
 উঠিল নানা ভাবোদ্বেগ, মনে হৈল উদ্বেগ,  
 ক্ষণমাত্র নারে গোঙাইতে ৷  
@@ -692,11 +793,15 @@ kāṅhā prabhu madana-mohana
 নানা শ্লোক লাগিলা পড়িতে ॥ ৫৭ ॥
 
 uṭhila nānā bhāvodvega, mane haila udvega,  
+arose  various  ecstasies’ agitation  in the mind  was  anxiety  
 kṣaṇa-mātra nāre goṅāite  
+for a moment  only  cannot  pass time  
 prabala virahānale, dhairya haila ṭalamale,  
-nānā śloka lāgilā paḍite
+in the strong  fire of separation  composure  became  shaken  
+nānā śloka lāgilā paḍite  
+various  verses  began  to recite
 
-(57) [not yet translated]
+(57) Many surging ecstasies arose, and His mind grew anxious; He could not pass even a moment. In the strong fire of separation His composure was shaken, and He began to recite various verses:
 
 অমূন্যধন্যানি দিনান্তরাণি  
 হরে ত্বদালোকনমন্তরেণ ৷  
@@ -704,11 +809,15 @@ nānā śloka lāgilā paḍite
 হা হন্ত হা হন্ত কথং নয়ামি ॥ ৫৮ ॥
 
 amūny adhanyāni dināntarāṇi  
+these  unfortunate  days and nights  
 hare tvad-ālokanam antareṇa  
+O Hari  Your sight  without  
 anātha-bandho karuṇaika-sindho  
-hā hanta hā hanta kathaṁ nayāmi
+O friend of the helpless  of compassion the sole ocean  
+hā hanta hā hanta kathaṁ nayāmi  
+alas  alas  alas  alas  how  shall I pass
 
-(58) [not yet translated]
+(58) “O Hari, O friend of the helpless, O sole ocean of compassion! Alas, alas, how shall I pass these unfortunate days and nights without seeing You?” (Kṛṣṇa-karṇāmṛta 41)
 
 তোমার দর্শন-বিনে, অধন্য এ রাত্রি-দিনে,  
 এই কাল না যায় কাটন ৷  
@@ -716,11 +825,15 @@ hā hanta hā hanta kathaṁ nayāmi
 কৃপা করি’ দেহ দরশন ॥ ৫৯ ॥
 
 tomāra darśana-vine, adhanya e rātri-dine,  
+Your  sight  without  unfortunate  these  nights and days  
 ei kāla nā yāya kāṭana  
+this  time  not  can  pass  
 tumi anāthera bandhu, apāra karuṇā-sindhu,  
-kṛpā kari’ deha daraśana
+You  of the helpless  the friend  boundless  of compassion ocean  
+kṛpā kari’ deha daraśana  
+mercy  showing  give  sight
 
-(59) [not yet translated]
+(59) “Without seeing You, these nights and days are unfortunate; this time will not pass. You are the friend of the helpless, a boundless ocean of compassion: be merciful and let Me see You.”
 
 উঠিল ভাব-চাপল, মন হইল চঞ্চল,  
 ভাবের গতি বুঝন না যায় ৷  
@@ -728,11 +841,15 @@ kṛpā kari’ deha daraśana
 কৃষ্ণ-ঠাঞি পুছেন উপায় ॥ ৬০ ॥
 
 uṭhila bhāva-cāpala, mana haila cañcala,  
+arose  ecstasy’s  restlessness  the mind  became  unsteady  
 bhāvera gati bujhana nā yāya  
+of ecstasy  the course  to understand  not  is possible  
 adarśane poḍe mana, kemane pāba daraśana,  
-kṛṣṇa-ṭhāñi puchena upāya
+without seeing  burns  the mind  how  shall I get  sight  
+kṛṣṇa-ṭhāñi puchena upāya  
+of Kṛṣṇa  He asks  the means
 
-(60) [not yet translated]
+(60) Restless ecstasy arose and His mind grew unsteady; the course of ecstasy cannot be understood. His mind burned from not seeing Kṛṣṇa, and He asked Kṛṣṇa Himself the means of seeing Him:
 
 ত্বচ্ছৈশবং ত্রিভুবনাদ্ভুতমিত্যবেহি  
 মচ্চাপলঞ্চ তব বা মম বাধিগম্যম্ ৷  
