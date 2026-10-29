@@ -290,6 +290,162 @@ Here the places the Lord visited are described almost exactly.
 
 > Subheading: *Darśana* of Kātyāyanī in the form of Śiyālī-bhairavī —
 
+**Śiyālī** lies in the Tanjore district, 48 miles northeast of the town of Tanjore: it is the chief village of the taluk of the same name. Here there is a famous Śiva temple and a huge lake. The temple is dedicated to a Śaiva named “Tirujñān Sambandhar.” Tradition says that when this devotee of Śiva came to the temple as a child, Bhairavī suckled him (*Tanjore Gazetteer*). (See the *Anubhāṣya* on verse 358 of this chapter.) From there the Lord came to the Trichinopoly district, to the Coleroon, that is, to the bank of the river Kāverī.
+
+**Kāverī**: “*kāverī ca mahā-puṇyā*” (“and the most holy Kāverī”) (*Śrīmad-Bhāgavatam* 11.5.40).
+
+## 75
+
+> Subheading: *Darśana* of Śambhu on the bank of the Kāverī —
+
+**Go-samāja** is a holy place of the Śaivas. **Vedāvana** lies in the southeastern corner of the Tiruturaipundi taluk of the Tanjore district, 5 miles north of Point Calimere. In the opinion of the local brāhmaṇas, as a holy place it ranks next after Rāmeśvara (*Tanjore Gazetteer*).
+
+## 76
+
+> Subheading: By the Lord's mercy the Śaivas become Vaiṣṇavas —
+
+## 77
+
+> Subheading: *Darśana* of Viṣṇu at Devasthāna and talks with the Śrī Vaiṣṇavas —
+
+## 78
+
+> Subheading: *Darśana* of the lake at Kumbhakonam and of Śiva at Śiva-kṣetra —
+
+**Kumbhakarṇa-kapāla**: *kapāla* means skull. This is the present town of Kumbhakonam in the Tanjore district, 20 miles northeast of the town of Tanjore. Here there are 12 Śiva temples, 4 Viṣṇu temples, and one temple of Brahmā (*Tanjore Gazetteer*).
+
+**Śiva-kṣetra**: in the town of Tanjore there is a lake called Śiva-gaṅgā. The great local Śiva temple of Bṛhatīśvara may also be understood by this name.
+
+## 79
+
+> Subheading: After seeing Viṣṇu at Pāpanāśana, the Lord goes to Śrīraṅgam —
+
+**Pāpanāśana** lies 8 miles southwest of Kumbhakonam (*Tanjore Gazetteer*). In the Tinnevelly district, 29 miles west of the town of Palamcottah, there is a town called Pāpanāśana. It is here, by a temple, that the river Tāmraparṇī comes down from the hills onto the plain (*Tinnevelly Manual*).
+
+**Śrī Raṅga-kṣetra.** Śrīraṅgam stands near Trichinopoly on the river Kāverī, or Coleroon, in the Tanjore district, 45 *krośas*[^79-1] west of Kumbhakonam. The temple of Śrī Raṅganātha is larger than any other temple in India; it has seven enclosures. The ancient names of the seven streets of Śrīraṅgam are: (1) the road of Dharma, (2) the road of Rājamahendra, (3) the road of Kulaśekhara, (4) the road of Ālināḍan, (5) the road of Tiruvikrama, (6) the Tiruviḍi road of “Māḍamāḍi Gāisa,” and (7) the road of Aḍaiyāvalandān. Before the Cola king Ādikulottuṅga, Rājamahendra ruled; before him, Dharmavarmā; and earlier still Śrīraṅgam was founded. Kulaśekhara and several others, as well as Ālavandāru, lived in the temple of Śrī Raṅga. Yāmunācārya, Śrī Rāmānuja, Sudarśanācārya, and others were the chief superintendents of the service of Śrī Raṅganātha. The incarnation of Lakṣmī “Godādevī,” one of the twelve perfected *divya-sūris*, was married to Śrī Raṅganātha and entered the body of Bhagavān. Tirumaṅgai, the incarnation of the bow, used wealth gained by robbery to build the fourth enclosure, or wall, of Śrī Raṅganātha and other buildings.
+
+It is said that Toṇḍaraḍippoḍi Ālvār was born in the year 289 of the Kali era. While engaged in *bhakti-yajña*, he fell to the lure of a courtesan. Seeing His servant's plight, Śrī Raṅganātha wanted to save him and sent His golden vessel to that woman's house by one of the temple servants. Finding no golden vessel in the temple, people searched long and found it in the Ālvār's house. Seeing Raṅganātha's mercy, the devotee was freed from his delusion. Even before the appearance of Tirumaṅgai, he had laid out a *tulasī* garden in the third enclosure of Raṅganātha.
+
+Śrī Rāmānuja's disciple was Kureśa; his younger son, Śrī Rāmapillāi; his son, Vāgvijaya Bhaṭṭa; and his son, Vedavyāsa Bhaṭṭa, or Śrī Sudarśanācārya. When this great soul was old, the Muslims attacked the temple of Raṅganātha and killed twelve thousand Śrī Vaiṣṇavas. Śrī Raṅganāthadeva was taken to Tirupati. The governor of Giṅgi under the kingdom of Vijayanagara, the Śrī Vaiṣṇava brāhmaṇa “Kampanna Udeyar,” or “Goppaṇārya,” at the request of the Śrī Vaiṣṇavas brought Śrī Raṅganāthadeva from “Tirupati” to “Siṁhabrahma” and kept Him there for three years. Then, in Śaka 1293, he reinstalled Him in Śrī Raṅga-kṣetra. On the eastern wall of the enclosure of Śrī Raṅganātha's temple this verse composed by Śrīla Vedānta-deśika is carved:
+
+“Goppaṇārya, the mirror of fame, brought Raṅganātha from Añjana hill, whose blue peaks delight the world with their luster, and worshiped Him for some time at Ceñji.[^79-2] Then, having slain the Tuluṣkas with their raised bows, he installed Raṅganātha with Lakṣmī and Bhū in His own city and again performed the finest worship.” “Goppaṇa, a god on earth, slew with his own strength the arrogant army of the Tuluṣkas. He brought Raṅgarāja, the Lord of the universe, from the slope of Vṛṣabha hill to his capital. Then, making the land of Śrī Raṅga like the Satya-yuga, he installed Him there with Lakṣmī and Mahī, and like the lotus-born [Brahmā] he offers Him worthy worship.”
+
+## 80
+
+> Subheading: After bathing, the Lord sees Raṅganātha and dances and sings —
+
+On the devotion to Bhagavān that comes from drinking the water of the Kāverī, see *Śrīmad-Bhāgavatam* 11.5.40.
+
+## 82
+
+> Subheading: Veṅkaṭa Bhaṭṭa, living in Raṅga-kṣetra, invites the Lord —
+
+**Śrī Veṅkaṭa Bhaṭṭa** was a brāhmaṇa of the Śrī-sampradāya who had settled in Śrī Raṅga-kṣetra. Śrī Raṅga is in the Tamil country, and so names like “Veṅkaṭa” and “Tirumalaya” are not found among the people there in our time. This family had probably been living in Śrīraṅgam for a short time. Veṅkaṭa Bhaṭṭa was a Rāmānujīya Vaiṣṇava of the “Baḍa-galai” branch. One of his brothers was the *tridaṇḍi-svāmī* of the Rāmānujīya ācāryas, Śrīpāda Prabodhānanda Sarasvatī. Veṅkaṭa's son was Śrī Gopāla Bhaṭṭa Gosvāmī; see Ādi 10.105 and the *Bhakti-ratnākara*, first wave.
+
+## 83
+
+> Subheading: Veṅkaṭa Bhaṭṭa serves the Lord and asks Him to spend Cāturmāsya in his house —
+
+## 86
+
+> Subheading: The Lord spends Cāturmāsya in Veṅkaṭa Bhaṭṭa's house —
+
+## 87
+
+> Subheading: Every day the Lord sees Raṅganātha —
+
+## 88
+
+> Subheading: Seeing the Lord, people are freed from grief and fear and obtain nectar —
+
+## 89
+
+> Subheading: Seeing the Lord, countless people obtain devotion to Kṛṣṇa —
+
+## 91
+
+> Subheading: Each day the Lord takes His meal at the house of one Vaiṣṇava brāhmaṇa —
+
+## 93
+
+> Subheading: A surrendered brāhmaṇa, eager to serve, recites the Gītā —
+
+## 94
+
+> Subheading: In pure *bhakti-yoga* there is no mundane learning, no pride of scholarship, and no artificial semblance of *bhāva* —
+
+## 96
+
+> Subheading: The *sāttvika* feelings of a person freed from *anarthas* who has gained consciousness —
+
+## 94–96
+
+(*Śrīmad-Bhāgavatam* 1.5.11): “Words in which every verse, even if imperfectly composed, contains the names of the Unlimited marked with His glories destroy the sins of the people; the sādhus hear them, sing them, and accept them.” See also *Śrīmad-Bhāgavatam* 4.31.32, 7.8.43–44, 11.12.5–9, 12.3.41, and other verses, and especially the *Sārārtha-darśinī* commentary of Viśvanātha Cakravartī Ṭhākura on the verse *Śrīmad-Bhāgavatam* 2.3.24, “*tad aśma-sāram*.”
+
+## 97
+
+> Subheading: Seeing his feelings, the Lord asks the cause —
+
+## 98
+
+> Subheading: The brāhmaṇa, who believes in the real Truth, answers simply —
+
+## 102
+
+> Subheading: The Lord praises the pure-hearted, exclusively devoted *bhakta* —
+
+See *Śrīmad-Bhāgavatam* 7.5.23,[^102-1] as well as “*bhaktyā bhāgavataṁ grāhyaṁ na buddhyā na ca ṭīkayā*” (“The *Bhāgavatam* is grasped by devotion, not by intellect or by commentaries”); “One who has studied the Gītā with a heart full of devotion has studied all the Vedas, scriptures, and Purāṇas”; and other such sayings; and (*Śvetāśvatara Upaniṣad* 6.23): “To the great soul who has supreme devotion to God, and to the guru as to God, the meanings of what has been taught are revealed,” and so on.
+
+## 103
+
+> Subheading: The Lord embraces the brāhmaṇa —
+
+## 104
+
+> Subheading: The brāhmaṇa recognizes the Lord as Kṛṣṇa —
+
+## 105
+
+> Subheading: Vṛndāvana is the pure, guileless mind free of the desires of *karma*, *jñāna*, and the like; Kṛṣṇa, the embodiment of *saṁvit*, abides in that alone —
+
+## 106
+
+> Subheading: The Lord's prohibition against making Him known accords with worldly custom, but it also deceives the demons —
+
+## 107
+
+> Subheading: The brāhmaṇa becomes the Lord's devotee —
+
+## 108
+
+> Subheading: Lord Gauracandra in Veṅkaṭa Bhaṭṭa's house —
+
+## 109
+
+> Subheading: The Bhaṭṭa of the Śrī-sampradāya, a servant of Lakṣmī-Nārāyaṇa —
+
+## 110
+
+> Subheading: His friendly feeling toward the Lord —
+
+## 111
+
+> Subheading: The Lord wishes to give him service to Kṛṣṇa; the conversation of the Lord and the Bhaṭṭa; the Lord's playful question: how Lakṣmī's service to Kṛṣṇa differs from the gopīs' —
+
+## 112
+
+> Subheading: Although sheltered by Nārāyaṇa, Lakṣmī is drawn by Kṛṣṇa's sweetness and longs for His company —
+
+## 113
+
+> Subheading: For this Lakṣmī performs severe austerities —
+
 ---
 
 [^11-1]: Unclear expression (“śrī-rāmāyaṇa-guru-karaṇa-panthā”); the translation is tentative.
+
+[^79-1]: The scan reads “৪ ৫ ক্রোশ” (with a space); possibly “4–5 *krośas*.”
+
+[^79-2]: Unclear in the scan: “…শ্রেণ্যাম্ (?) আরাধ্য…”; from the context (the governor of Giṅgi is mentioned above), probably *ceñjyām*, “at Ceñji,” that is, Giṅgi; the translation is tentative.
+
+[^102-1]: The edition numbers this section “২০২,” an obvious misprint for 102: it stands between sections 94–96 and 105 and in content belongs to verse 102.

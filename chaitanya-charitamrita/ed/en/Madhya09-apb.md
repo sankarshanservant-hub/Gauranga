@@ -79,3 +79,11 @@ The Buddhist doctrine has two paths, the *hīnayāna* and the *mahāyāna*. The 
 ## 78
 
 **At Kumbhakarṇa-kapāla**: seeing the lake that had formed in Kumbhakarṇa's skull.
+
+## 82
+
+Veṅkaṭa Bhaṭṭa, his brother Trimalla Bhaṭṭa, and Prabodhānanda Sarasvatī had formerly been ācāryas in the Śrī-sampradāya. Veṅkaṭa Bhaṭṭa's son is none other than Śrī Gopāla Bhaṭṭa Gosvāmī.
+
+## 93
+
+**A Vaiṣṇava brāhmaṇa**: in “Govinda's *Kaḍacā*” (?) this brāhmaṇa is called “Yudhiṣṭhira.”
