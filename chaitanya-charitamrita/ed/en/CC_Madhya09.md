@@ -3164,241 +3164,301 @@ the Vaiṣṇavas  all  read  the ‘Kṛṣṇa-karṇāmṛta’
 আগ্রহ করিয়া পুঁথি লেখাঞা লৈল ॥ ৩০৬ ॥
 
 kṛṣṇa-karṇāmṛta śuni’ prabhura ānanda haila  
-āgraha kariyā puṅthi lekhāñā laila
+the Kṛṣṇa-karṇāmṛta  hearing  the Lord’s  joy  arose  
+āgraha kariyā puṅthi lekhāñā laila  
+eagerness  showing  the manuscript  having it copied  He took
 
-(306) [not yet translated]
+(306) Hearing the *Kṛṣṇa-karṇāmṛta*, the Lord was overjoyed, and He eagerly had the manuscript copied and took it with Him.
 
 ‘কর্ণামৃত’-সম বস্তু নাহি ত্রিভুবনে ৷  
 যাহা হৈতে হয় কৃষ্ণে শুদ্ধপ্রেমজ্ঞানে ॥ ৩০৭ ॥
 
 ‘karṇāmṛta’-sama vastu nāhi tribhuvane  
-yāhā haite haya kṛṣṇe śuddha-prema-jñāne
+to the ‘Karṇāmṛta’ equal  a thing  there is none  in the three worlds  
+yāhā haite haya kṛṣṇe śuddha-prema-jñāne  
+from which  arises  for Kṛṣṇa  knowledge of pure love
 
-(307) [not yet translated]
+(307) Nothing in the three worlds equals the *Karṇāmṛta*, for from it comes the knowledge of pure love for Kṛṣṇa.
 
 সৌন্দর্য্য-মাধুর্য্য-কৃষ্ণলীলার অবধি ৷  
 সেই জানে, যে ‘কর্ণামৃত’ পড়ে নিরবধি ॥ ৩০৮ ॥
 
 saundarya-mādhurya-kṛṣṇa-līlāra avadhi  
-sei jāne, ye ‘karṇāmṛta’ paḍe niravadhi
+of the beauty, sweetness and pastimes of Kṛṣṇa  the furthest limit  
+sei jāne, ye ‘karṇāmṛta’ paḍe niravadhi  
+he  knows  who  the ‘Karṇāmṛta’  reads  constantly
 
-(308) [not yet translated]
+(308) Only one who constantly reads the *Karṇāmṛta* knows the furthest limit of Kṛṣṇa’s beauty, sweetness and pastimes.
 
 ‘ব্রহ্মসংহিতা’, ‘কর্ণামৃত’ দুই পুঁথি পাঞা ৷  
 মহা যত্ন করি’ পুঁথি আইলা লঞা ॥ ৩০৯ ॥
 
 ‘brahma-saṁhitā’, ‘karṇāmṛta’ dui puṅthi pāñā  
-mahā yatna kari’ puṅthi āilā lañā
+the ‘Brahma-saṁhitā’  the ‘Karṇāmṛta’  two  manuscripts  finding  
+mahā yatna kari’ puṅthi āilā lañā  
+great  care  taking  the manuscripts  He came  bringing
 
-(309) [not yet translated]
+(309) Having obtained the two manuscripts, the *Brahma-saṁhitā* and the *Karṇāmṛta*, He brought them back with great care.
 
 তাপী স্নান করি’ আইলা মাহিষ্মতীপুরে ৷  
 নানা তীর্থ দেখি তাঁহা নর্ম্মদার তীরে ॥ ৩১০ ॥
 
 tāpī snāna kari’ āilā māhiṣmatī-pure  
-nānā tīrtha dekhi tāṅhā narmadāra tīre
+in the Tāpī  a bath  taking  He came  to Māhiṣmatīpura  
+nānā tīrtha dekhi tāṅhā narmadāra tīre  
+various  holy places  seeing  there  of the Narmadā  on the bank
 
-(310) [not yet translated]
+(310) After bathing in the Tāpī He came to Māhiṣmatīpura, and there He saw many holy places on the bank of the Narmadā.
 
 ধনুস্তীর্থ দেখি’ করিলা নির্ব্বিন্ধ্যে স্নানে ৷  
 ঋষ্যমূক-গিরি আইলা দণ্ডকারণ্যে ॥ ৩১১ ॥
 
 dhanus-tīrtha dekhi’ karilā nirvindhye snāne  
-ṛṣyamūka-giri āilā daṇḍakāraṇye
+Dhanus-tīrtha  seeing  He took  in the Nirvindhyā  a bath  
+ṛṣyamūka-giri āilā daṇḍakāraṇye  
+to the Ṛṣyamūka hill  He came  to Daṇḍakāraṇya
 
-(311) [not yet translated]
+(311) He saw Dhanus-tīrtha and bathed in the Nirvindhyā; then He came to the Ṛṣyamūka hill and the Daṇḍakāraṇya forest.
 
 ‘সপ্ততাল-বৃক্ষ’ দেখে কানন-ভিতর ৷  
 অতি বৃদ্ধ, অতি স্থূল, অতি উচ্চতর ॥ ৩১২ ॥
 
 ‘saptatāla-vṛkṣa’ dekhe kānana-bhitara  
-ati vṛddha, ati sthūla, ati uccatara
+the ‘seven palm trees’  He sees  within the forest  
+ati vṛddha, ati sthūla, ati uccatara  
+very  old  very  thick  very  tall
 
-(312) [not yet translated]
+(312) In the forest He saw the “seven palm trees” — very old, very thick and very tall.
 
 সপ্ততাল দেখি’ প্রভু আলিঙ্গন কৈল ৷  
 সশরীরে সপ্ততাল অন্তর্দ্ধান হৈল ॥ ৩১৩ ॥
 
 saptatāla dekhi’ prabhu āliṅgana kaila  
-saśarīre saptatāla antardhāna haila
+the seven palms  seeing  the Lord  an embrace  made  
+saśarīre saptatāla antarddhāna haila  
+in their bodies  the seven palms  disappearance  underwent
 
-(313) [not yet translated]
+(313) Seeing the seven palms, the Lord embraced them, and the seven palms vanished, bodies and all.
 
 শূন্যস্থল দেখি’ লোকের হৈল চমৎকার ৷  
 লোকে কহে, এ সন্ন্যাসী — রাম-অবতার ॥ ৩১৪ ॥
 
 śūnya-sthala dekhi’ lokera haila camatkāra  
-loke kahe, e sannyāsī — rāma-avatāra
+the empty place  seeing  of the people  arose  amazement  
+loke kahe, e sannyāsī — rāma-avatāra  
+the people  say  this  sannyāsī  an incarnation of Rāma
 
-(314) [not yet translated]
+(314) Seeing the empty place, the people were amazed and said, “This sannyāsī is an incarnation of Rāma.
 
 সশরীরে তাল গেল শ্রীবৈকুণ্ঠ-ধাম ৷  
 ঐছে শক্তি কার হয়, বিনা এক রাম ? ॥ ৩১৫ ॥
 
 saśarīre tāla gela śrī-vaikuṇṭha-dhāma  
-aiche śakti kāra haya, vinā eka rāma?
+in their bodies  the palms  went  to the abode of Śrī Vaikuṇṭha  
+aiche śakti kāra haya, vinā eka rāma?  
+such  power  whose  is  except  one  Rāma
 
-(315) [not yet translated]
+(315) The palms have gone in their very bodies to the abode of Śrī Vaikuṇṭha. Who but Rāma alone has such power?”
 
 প্রভু আসি’ কৈল পম্পা-সরোবরে স্নান ৷  
 পঞ্চবটী আসি’ তাঁহা করিল বিশ্রাম ॥ ৩১৬ ॥
 
 prabhu āsi’ kaila pampā-sarovare snāna  
-pañcavaṭī āsi’ tāṅhā karila viśrāma
+the Lord  coming  took  in Lake Pampā  a bath  
+pañcavaṭī āsi’ tāṅhā karila viśrāma  
+to Pañcavaṭī  coming  there  He took  rest
 
-(316) [not yet translated]
+(316) The Lord came and bathed in Lake Pampā; then He came to Pañcavaṭī and rested there.
 
 নাসিকে ত্র্যম্বক দেখি’ গেলা ব্রহ্মগিরি ৷  
 কুশাবর্ত্তে আইলা যাঁহা জন্মিলা গোদাবরী ॥ ৩১৭ ॥
 
 nāsike tryambaka dekhi’ gelā brahmagiri  
-kuśāvarte āilā yāṅhā janmilā godāvarī
+in Nāsika  Tryambaka  seeing  He went  to Brahmagiri  
+kuśāvarte āilā yāṅhā janmilā godāvarī  
+to Kuśāvarta  He came  where  was born  the Godāvarī
 
-(317) [not yet translated]
+(317) In Nāsika He saw Tryambaka and went on to Brahmagiri; then He came to Kuśāvarta, where the Godāvarī has its source.
 
 সপ্ত গোদাবরী আইলা করি’ তীর্থ বহুতর ৷  
 পুনরপি আইলা প্রভু বিদ্যানগর ॥ ৩১৮ ॥
 
 sapta godāvarī āilā kari’ tīrtha bahutara  
-punarapi āilā prabhu vidyānagara
+to Sapta  Godāvarī  He came  visiting  holy places  very many  
+punarapi āilā prabhu vidyānagara  
+once again  came  the Lord  to Vidyānagara
 
-(318) [not yet translated]
+(318) Visiting a great many holy places, He came to Sapta-godāvarī, and from there the Lord came once again to Vidyānagara.
 
 রামানন্দ রায় শুনি’ প্রভুর আগমন ৷  
 আনন্দে আসিয়া কৈল প্রভুসহ মিলন ॥ ৩১৯ ॥
 
 rāmānanda rāya śuni’ prabhura āgamana  
-ānande āsiyā kaila prabhu-saha milana
+Rāmānanda  Rāya  hearing of  the Lord’s  arrival  
+ānande āsiyā kaila prabhu-saha milana  
+in joy  coming  he had  with the Lord  a meeting
 
-(319) [not yet translated]
+(319) Hearing of the Lord’s arrival, Rāmānanda Rāya came joyfully and met Him.
 
 দণ্ডবৎ হঞা পড়ে চরণে ধরিয়া ৷  
 আলিঙ্গন কৈল প্রভু তাঁরে উঠাঞা ॥ ৩২০ ॥
 
 daṇḍavat hañā paḍe caraṇe dhariyā  
-āliṅgana kaila prabhu tāṅre uṭhāñā
+like a rod  becoming  he falls  the feet  clasping  
+āliṅgana kaila prabhu tāṅre uṭhāñā  
+an embrace  made  the Lord  him  raising
 
-(320) [not yet translated]
+(320) He fell flat like a rod, clasping the Lord’s feet, and the Lord raised him and embraced him.
 
 দুই জনে প্রেমাবেশে করেন ক্রন্দন ৷  
 প্রেমানন্দে শিথিল হৈল দুঁহাকার মন ॥ ৩২১ ॥
 
 dui jane premāveśe karena krandana  
-premānande śithila haila duṅhākāra mana
+the two  persons  in ecstatic love  make  weeping  
+premānande śithila haila duṅhākāra mana  
+in the bliss of love  overpowered  became  of both  the minds
 
-(321) [not yet translated]
+(321) The two of them wept in ecstatic love, and in the bliss of love their hearts were overpowered.
 
 কতক্ষণে দুই জনা সুস্থির হঞা ৷  
 নানা ইষ্টগোষ্ঠী করে একত্রে বসিয়া ॥ ৩২২ ॥
 
 kata-kṣaṇe dui janā susthira hañā  
-nānā iṣṭa-goṣṭhī kare ekatre vasiyā
+after a while  the two  persons  composed  becoming  
+nānā iṣṭa-goṣṭhī kare ekatre vasiyā  
+many  talks of the Beloved  they hold  together  sitting
 
-(322) [not yet translated]
+(322) After a while the two grew calm, and sitting together, they talked at length of their Beloved.
 
 তীর্থযাত্রা-কথা প্রভু সকল কহিলা ৷  
 কর্ণামৃত, ব্রহ্মসংহিতা, — দুই পুঁথি দিলা ॥ ৩২৩ ॥
 
 tīrtha-yātrā-kathā prabhu sakala kahilā  
-karṇāmṛta, brahma-saṁhitā, — dui puṅthi dilā
+of the pilgrimage  the story  the Lord  all  told  
+karṇāmṛta, brahma-saṁhitā, — dui puṅthi dilā  
+the Karṇāmṛta  the Brahma-saṁhitā  two  manuscripts  He gave
 
-(323) [not yet translated]
+(323) The Lord told him the whole story of His pilgrimage and gave him the two manuscripts, the *Karṇāmṛta* and the *Brahma-saṁhitā*.
 
 প্রভু কহে, — তুমি যে ‘প্রেম-সিদ্ধান্ত’ কহিলে ৷  
 এই দুই পুস্তকে সেই রসের সাক্ষী দিলে ॥ ৩২৪ ॥
 
 prabhu kahe, — tumi ye ‘prema-siddhānta’ kahile  
-ei dui pustake sei rasera sākṣī dile
+the Lord  said  you  that  ‘conclusion about love’  spoke  
+ei dui pustake sei rasera sākṣī dile  
+these  two  books  of that  rasa  witness  have given
 
-(324) [not yet translated]
+(324) The Lord said, “These two books bear witness to that very *rasa* — the conclusions about love (*prema-siddhānta*) that you spoke to Me.”
 
 রায়ের আনন্দ হৈল পুস্তক পাইয়া ৷  
 প্রভু-সহ আস্বাদিল, রাখিল লিখিয়া ॥ ৩২৫ ॥
 
 rāyera ānanda haila pustaka pāiyā  
-prabhu-saha āsvādila, rākhila likhiyā
+Rāya’s  joy  arose  the books  receiving  
+prabhu-saha āsvādila, rākhila likhiyā  
+with the Lord  he relished them  he kept them  having copied them
 
-(325) [not yet translated]
+(325) Rāya was overjoyed to receive the books. He relished them together with the Lord and had copies made to keep.
 
 ‘গোসাঞি’ আইলা, গ্রামে হৈল কোলাহল ৷  
 প্রভুকে দেখিতে লোক আইল সকল ॥ ৩২৬ ॥
 
 ‘gosāñi’ āilā, grāme haila kolāhala  
-prabhuke dekhite loka āila sakala
+‘the Gosāñi’  has come  in the village  arose  a clamour  
+prabhuke dekhite loka āila sakala  
+the Lord  to see  the people  came  all
 
-(326) [not yet translated]
+(326) “The Gosāñi has come!” — a clamour rose in the village, and all the people came to see the Lord.
 
 লোক দেখি’ রামানন্দ গেলা নিজ-ঘরে ৷  
 মধ্যাহ্নে উঠিলা প্রভু ভিক্ষা করিবারে ॥ ৩২৭ ॥
 
 loka dekhi’ rāmānanda gelā nija-ghare  
-madhyāhne uṭhilā prabhu bhikṣā karibāre
+the people  seeing  Rāmānanda  went  to his own house  
+madhyāhne uṭhilā prabhu bhikṣā karibāre  
+at midday  rose  the Lord  a meal  to take
 
-(327) [not yet translated]
+(327) Seeing the crowd, Rāmānanda went home, and at midday the Lord rose to take His meal.
 
 রাত্রিকালে রায় পুনঃ কৈল আগমন ৷  
 দুই জনে কৃষ্ণকথায় কৈল জাগরণ ॥ ৩২৮ ॥
 
 rātri-kāle rāya punaḥ kaila āgamana  
-dui jane kṛṣṇa-kathāya kaila jāgaraṇa
+at night  Rāya  again  made  his coming  
+dui jane kṛṣṇa-kathāya kaila jāgaraṇa  
+the two  persons  in talks about Kṛṣṇa  kept  vigil
 
-(328) [not yet translated]
+(328) At night Rāya came again, and the two stayed awake all night talking about Kṛṣṇa.
 
 দুই জনে কৃষ্ণকথা কহে রাত্রি-দিনে ৷  
 পরম-আনন্দে গেল পাঁচ-সাত দিনে ॥ ৩২৯ ॥
 
 dui jane kṛṣṇa-kathā kahe rātri-dine  
-parama-ānande gela pāṅca-sāta dine
+the two  persons  talks about Kṛṣṇa  speak  night and day  
+parama-ānande gela pāṅca-sāta dine  
+in supreme bliss  passed  five or seven  days
 
-(329) [not yet translated]
+(329) Night and day the two spoke about Kṛṣṇa, and five or seven days passed in supreme bliss.
 
 রামানন্দ কহে, — প্রভু, তোমার আজ্ঞা পাঞা ৷  
 রাজাকে লিখিলুঁ আমি বিনয় করিয়া ॥ ৩৩০ ॥
 
 rāmānanda kahe, — prabhu, tomāra ājñā pāñā  
-rājāke likhiluṅ āmi vinaya kariyā
+Rāmānanda  said  O Lord  Your  permission  obtaining  
+rājāke likhiluṅ āmi vinaya kariyā  
+to the king  wrote  I  humility  showing
 
-(330) [not yet translated]
+(330) Rāmānanda said, “O Lord, with Your permission I have written humbly to the king.
 
 রাজা মোরে আজ্ঞা দিল নীলাচলে যাইতে ৷  
 চলিবার উদ্যোগ আমি লাগিয়াছি করিতে ॥ ৩৩১ ॥
 
 rājā more ājñā dila nīlācale yāite  
-calibāra udyoga āmi lāgiyāchi karite
+the king  to me  an order  gave  to Nīlācala  to go  
+calibāra udyoga āmi lāgiyāchi karite  
+for the departure  preparations  I  have begun  to make
 
-(331) [not yet translated]
+(331) The king has ordered me to go to Nīlācala, and I have begun to prepare for the journey.”
 
 প্রভু কহে, — এথা মোর এ-নিমিত্তে আগমন ৷  
 তোমা লঞা নীলাচলে করিব গমন ॥ ৩৩২ ॥
 
 prabhu kahe, — ethā mora e-nimitte āgamana  
-tomā lañā nīlācale kariba gamana
+the Lord  said  here  My  for this purpose  coming  
+tomā lañā nīlācale kariba gamana  
+you  taking  to Nīlācala  I shall make  the journey
 
-(332) [not yet translated]
+(332) The Lord said, “It is for this very reason that I have come here: I shall take you with Me to Nīlācala.”
 
 রায় কহে, — প্রভু, আগে চল নীলাচলে ৷  
 মোর সঙ্গে হাতী-ঘোড়া, সৈন্য-কোলাহলে ॥ ৩৩৩ ॥
 
 rāya kahe, — prabhu, āge cala nīlācale  
-mora saṅge hātī-ghoḍā, sainya-kolāhale
+Rāya  said  O Lord  ahead  go  to Nīlācala  
+mora saṅge hātī-ghoḍā, sainya-kolāhale  
+with me  elephants and horses  the clamour of soldiers
 
-(333) [not yet translated]
+(333) Rāya said, “O Lord, please go ahead to Nīlācala; with me there are elephants and horses and the clamour of soldiers.
 
 দিন দশে ইহা-সবার করি’ সমাধান ৷  
 তোমার পাছে পাছে আমি করিব প্রয়াণ ॥ ৩৩৪ ॥
 
 dina daśe ihā-sabāra kari’ samādhāna  
-tomāra pāche pāche āmi kariba prayāṇa
+in ten days  of all this  making  the arrangement  
+tomāra pāche pāche āmi kariba prayāṇa  
+Your  behind  behind  I  shall make  my departure
 
-(334) [not yet translated]
+(334) In ten days or so I shall settle all this, and then I shall follow close behind You.”
 
 তবে মহাপ্রভু তাঁরে আসিতে আজ্ঞা দিয়া ৷  
 নীলাচলে চলিলা প্রভু আনন্দিত হঞা ॥ ৩৩৫ ॥
 
 tabe mahāprabhu tāṅre āsite ājñā diyā  
-nīlācale calilā prabhu ānandita hañā
+then  Mahāprabhu  to him  to come  an order  giving  
+nīlācale calilā prabhu ānandita hañā  
+to Nīlācala  set out  the Lord  joyful  becoming
 
-(335) [not yet translated]
+(335) Then Mahāprabhu told him to come later, and the Lord set out joyfully for Nīlācala.
 
 যেই পথে পূর্ব্বে প্রভু কৈলা আগমন ৷  
 সেই পথে চলিলা দেখি’ সর্ব্ব বৈষ্ণবগণ ॥ ৩৩৬ ॥
