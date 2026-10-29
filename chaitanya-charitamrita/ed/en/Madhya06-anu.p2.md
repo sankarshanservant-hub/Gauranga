@@ -294,6 +294,126 @@ See Madhya 24.3–308.[^193-1]
 
 > Subheading: By the mercy of Kṛṣṇa Caitanya dullness is destroyed —
 
+## 225
+
+> Subheading: In honoring transcendental *prasāda* there is no consideration of proper and improper time —
+
+**śuṣkam** (without juice) **paryuṣitam** (cooked several days before) **dūra-deśataḥ** (from a very distant foreign land) **nītam** (brought) **vā** **kṛṣṇa-prasādānnam** **prāpti-mātreṇa** (as soon as it is received) **bhoktavyam** (should be respectfully accepted and honored) **atra** (in accepting *prasāda*) **kāla-vicāraṇā na** (there is no).
+
+## 226
+
+**tatra** (in accepting *prasāda*) **deśa-niyamaḥ na**, **tathā kāla-niyamaḥ na**; **prāptam annam** (Kṛṣṇa's *prasāda*) **drutam** (at once) **śiṣṭaiḥ** (by the Vaiṣṇavas) **bhoktavyam** (in honoring *prasāda* one should take no account of place, time, intervals and the like) — **iti hariḥ abravīt**.
+
+## 227
+
+> Subheading: Seeing Sārvabhauma honor *prasāda*, the Lord is filled with supreme bliss, and both dance, overwhelmed with love —
+
+## 230
+
+> Subheading: The Lord takes pride in having delivered Sārvabhauma —
+
+## 232
+
+> Subheading: The Lord's blessing to Sārvabhauma —
+
+## 235
+
+> Subheading: Only a devotee who has surrendered to Kṛṣṇa without guile is freed from *māyā* —
+
+Having described to Śrī Nārada the deeds, purposes and opulences of Bhagavān's *līlā-avatāras*, Brahmā speaks of Bhagavān's *māyā* and of the greatness of the devotees:
+
+**sa eṣa anantaḥ bhagavān** **yeṣām** (to those wholly surrendered) **dayayet** (shows mercy) — **te** **yadi** **nirvyalīkam** (without guile) **sarvātmanā** (with their whole being, not with a part of it) **āśrita-padāḥ** (surrendered to Kṛṣṇa's feet alone) **bhavanti**, **tarhi** **dustarām** (impossible to cross) **deva-māyām** **atitaranti**. **eṣām** (in the surrendered) **śva-śṛgāla-bhakṣye** (toward the body fit only to be eaten by animals) **ahaṁ-mama iti-dhīḥ** (the notion of “I” and “mine”) **na** (there is no).
+
+## 236
+
+> Subheading: The Bhaṭṭācārya gives up material conceit —
+
+## 237
+
+> Subheading: With his whole being Sārvabhauma takes shelter of the path of devotion —
+
+## 238
+
+> Subheading: Gopīnātha dances with joy —
+
+## 239
+
+> Subheading: The Bhaṭṭācārya's love for the Lord exceeds even his love for Jagannātha —
+
+## 240
+
+> Subheading: Sārvabhauma's humility —
+
+## 241
+
+> Subheading: Asked which *sādhana* is the best, the Lord proclaims the glory of *nāma-kīrtana* —
+
+## 242
+
+See Ādi 7.76.
+
+## 243
+
+> Subheading: Hearing the Lord explain the verse, the Bhaṭṭācārya is amazed —
+
+## 244
+
+> Subheading: Gopīnātha's prediction comes true —
+
+## 245
+
+> Subheading: Through his connection with Gopīnātha, Sārvabhauma receives the Lord's mercy —
+
+## 247
+
+> Subheading: The Lord permits the Bhaṭṭācārya to go for *darśana* of Jagannātha —
+
+## 248
+
+> Subheading: Returning home, the Bhaṭṭācārya sends *prasāda* and verses proclaiming the Lord's glory —
+
+## 251
+
+> Subheading: Before the leaf reaches the Lord, Mukunda keeps a copy of the two verses —
+
+## 252
+
+> Subheading: Jagadānanda gives the Lord the letter with the Bhaṭṭācārya's verses —
+
+## 254
+
+> Subheading: Obeisance to Gaura, who distributes knowledge, renunciation and devotion —
+
+**vairāgya-vidyā-nija-bhakti-yoga-śikṣārtham** (to give instruction leading to detachment from all but Kṛṣṇa, to realization of the Supreme Lord, and to service of His own name, form, qualities and pastimes) **ekaḥ** (one without a second) **purāṇaḥ** (primeval) **kṛpāmbudhiḥ** (an ocean of mercy: even to people attached to matter He gives the *prema* of Vraja, fit only for the highest liberated souls) **puruṣaḥ** **śrī-kṛṣṇa-caitanya-śarīra-dhārī** (whose nature is to bear the body that is Śrī Kṛṣṇa Caitanya Himself); **ahaṁ** **tam** **prapadye** (take shelter).
+
+## 255
+
+> Subheading: Steadfastness in Gaura, who revealed hidden devotion —
+
+**kālāt** (by the law of time — because other desires, karma, *jñāna* and attachment to matter prevailed) **naṣṭam** (lost) **nijam** (full of Kṛṣṇa's name, form, qualities and pastimes) **bhakti-yogam** **prāduṣkartum** (to manifest again) **kṛṣṇa-caitanya-nāmā** (being) **yaḥ** **āvirbhūtaḥ** (appeared); **tasya** **pādāravinde** (at the lotus feet) **citta-bhṛṅgaḥ** (the restless bee of the mind) **gāḍhaṁ gāḍhaṁ līyatām** (may it be absorbed).
+
+## 256
+
+> Subheading: These two verses spread Sārvabhauma's glory —
+
+## 257
+
+> Subheading: Sārvabhauma, whose very life is Gaura —
+
+## 259
+
+> Subheading: Before the Lord, Sārvabhauma recites a verse from Brahmā's prayers with a changed reading —
+
+## 261
+
+After Śrī Kṛṣṇa had crushed Brahmā's pride, Brahmā, wholly surrendered, offers prayers to Śrī Kṛṣṇa:
+
+**tat** (therefore) **te** **anukampām** (mercy) **su-samīkṣamāṇaḥ** (rightly understanding) **ātma-kṛtam** (done by himself) **vipākam** (the fruits of deeds) **bhuñjānaḥ eva** **hṛd-vāg-vapurbhiḥ** (with mind, speech and body) **te** (to You) **namaḥ vidadhat** (giving up material conceit and surrendering himself) **yaḥ jīveta**, **saḥ** **bhakti-pade** **dāya-bhāk** (a fit recipient) **bhavati**.
+
+## 262
+
+> Subheading: The Lord upholds and preserves the reading of the *Bhāgavatam* —
+
 ---
 
 [^155-1]: The verse translation reads differently: *sarva-gā* is taken as “all souls are free to choose their own paths.”
