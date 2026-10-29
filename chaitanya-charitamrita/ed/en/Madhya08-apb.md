@@ -124,6 +124,10 @@ The mercy that the *gopī* Yaśodā received from Śrī Kṛṣṇa, the giver o
 
 The Lord said, “Step by step this has become ever higher. Yet beyond it there is one more *rasa*, and that you may call ‘the essence of the goal.’” Rāya answered, “*Kānta-bhāva*, the mood of the beloved, toward Śrī Kṛṣṇa is the essence of all goals, the highest limit (*parākāṣṭhā*) of *prema*.” The purport is this. In general *prema* there is no *mamatā*; in *dāsya-rasa* there is no *viśrambha*, “confidence”; in *sakhya-rasa* there is no “abundance of affection” (*snehādhikya*); and in *vātsalya-rasa* there is no “freedom from all reserve” (*niḥsaṅkoca-bhāva*). Therefore in none of these *rasas* does *prema*, the goal, reach its fullness. When *kānta-bhāva* toward Kṛṣṇa arises, then one finds a single, undivided truth of *prema*, free from all these lacks, the essence of all goals.
 
+## 80
+
+In Vṛndāvana, at the *rāsa* festival, Śrī Kṛṣṇa held the beautiful girls of Vraja by the neck with His mighty arms. The mercy that dawned upon them was not attained even by the wholly devoted potencies of Paravyoma, such as Lakṣmī, who rests on His chest. Nor was it the lot of the celestial women, who have the fragrance and luster of lotuses. What then to speak of other women?
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”

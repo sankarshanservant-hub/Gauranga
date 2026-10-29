@@ -274,6 +274,42 @@ See Madhya 1.206.
 
 Hearing Rāmānanda determine “*sakhya-prema*” as the goal, Mahāprabhu called it “higher” than “*dāsya-prema*” and asked him to go further. Then Rāmānanda named “*vātsalya-prema*” as the goal.
 
+## 77
+
+> Subheading: The glory of Nanda's and Yaśodā's parental love —
+
+The words of Parīkṣit, amazed at Śukadeva's description of Yaśodā's parental love for Kṛṣṇa:
+
+**brahman** (O brāhmaṇa), **nandaḥ** **evam** **mahodayam** (so great an elevation, an unprecedented fruit) **kim** **śreyaḥ** (auspicious act) **akarot**, **mahā-bhāgā** (supremely fortunate) **yaśodā** **vā** **kim** **akarot**, [that] **hariḥ** **yasyāḥ** (Yaśodā's) **stanaṁ** **papau**?
+
+## 78
+
+> Subheading: The song of Yaśodā's glory —
+
+His mother wanted to bind Kṛṣṇa with a rope, and Kṛṣṇa, seeing that she could not and was exhausted, let Himself be bound. Seeing this quality of Yaśodā's, her power over Kṛṣṇa, Śukadeva says to Parīkṣit:
+
+**gopī** (Yaśodā) **vimukti-dāt** (from the nearness of Śrī Hari) **yat** **prasādaṁ** **prāpa**, **tat** **imaṁ** **prasādaṁ** **viriñcaḥ** (even Brahmā, [His] son,) **na**, **bhavaḥ** (Śambhu, equal to Himself,) **na**, **aṅga-saṁśrayā** (His consort) **śrīḥ** (Lakṣmī) **api** **na** **lebhire**.
+
+## 79
+
+> Subheading: (4) “*Kānta-bhāva*” is the highest of all forms of *prema-bhakti* —
+
+“*Vātsalya-prema*” is higher than *sakhya-prema*. But the Lord told Rāya to go further still, and then Rāmānanda named “*kānta-bhāva*” as that in which *prema* is the goal.
+
+## 80
+
+> Subheading: The greatness of the *gopīs* of Vraja —
+
+Uddhava came to Vraja and stayed there several months. He gave joy to all by chanting narrations about Kṛṣṇa, yet he saw the agitation of the *gopīs*, whose hearts, burning in separation, were given to Kṛṣṇa alone. Then he praises their supreme good fortune:
+
+**rāsotsave** (at the time of the *rāsa* pastime) **asya** (of Śrī Kṛṣṇa) **bhuja-daṇḍa-gṛhīta-kaṇṭha-labdhāśiṣām** (of the *gopīs* whose auspicious desires were fulfilled when He embraced their necks with His mighty arms) **vraja-sundarīṇām** (of the cowherd maidens) **yaḥ** **ayam** (mercy) **āvirbabhūva** (so in the edition), **nalina-gandha-rucām** (of those whose fragrance and luster are like the lotus) **svar-yoṣitām** (of the celestial women) **na** **abhūt**; **u** (oh!) **aṅge** (on the chest) **nitānta-rateḥ** (who takes shelter wholly and only in Him) **śriyaḥ** (of Lakṣmī) **api** **ayaṁ** **prasādaḥ** **na** **abhūt**; **anyāḥ** **striyaḥ** **tu** **kutaḥ** (thus objects of Kṛṣṇa's grace) **bhavanti**?
+
+## 81
+
+> Subheading: Only the *gopīs* of Vraja are fit to see the form of Madana-mohana —
+
+See Ādi 5.214.
+
 ---
 
 [^63-1]: *Manaḥ-śikṣā* 2.
