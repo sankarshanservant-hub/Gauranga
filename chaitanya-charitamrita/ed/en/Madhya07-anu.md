@@ -164,7 +164,7 @@ This *brāhmaṇa*, Kālā Kṛṣṇadāsa, and the Kālā Kṛṣṇadāsa of 
 
 ## 63
 
-***Śūdra.*** In the society of Utkala the Karaṇa caste is known as “*śaukra-śūdras*” (*śūdras* by birth). Śrī Rāmānanda was born in the Karaṇa caste. Therefore in the world's eyes he was a *śaukra-śūdra*, but in truth he was a *brāhmaṇa* — or rather a Vaiṣṇava *paramahaṁsa*, the guru of *brāhmaṇas*.
+***Śūdra*** — in the society of Utkala the Karaṇa caste is known as “*śaukra-śūdras*” (*śūdras* by birth). Śrī Rāmānanda was born in the Karaṇa caste. Therefore in the world's eyes he was a *śaukra-śūdra*, but in truth he was a *brāhmaṇa* — or rather a Vaiṣṇava *paramahaṁsa*, the guru of *brāhmaṇas*.
 
 ***Viṣayī*** — one absorbed in talk of wife, sons and the like, or one who engages the knowledge-acquiring senses with their objects — external forms, tastes, smells, sounds and touch — and is intoxicated by them. Outwardly Śrī Rāmānanda was not a *sannyāsī* wearing a *kaupīna*. Therefore in the world's eyes he was a king's servant, a *viṣayī*; in truth he was a *sannyāsī* — a *vidvat-* or *narottama-sannyāsī*.
 
@@ -183,3 +183,125 @@ The *jñānīs* and *karmīs* who are averse to Caitanya — the *prakṛti-vād
 ## 67
 
 > Subheading: Later, by Caitanya's mercy, the Bhaṭṭa realized the glory of a spiritual Vaiṣṇava —
+
+## 68
+
+> Subheading: The Lord agrees to do as he asks —
+
+## 69
+
+> Subheading: The Lord honors a Vaiṣṇava householder —
+
+Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda's *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya's feet is worthy of obeisance even from a *sannyāsī* and is his guru. The Lord showed this by begging Sārvabhauma's blessing, to teach the *jīvas* who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).
+
+## 70
+
+> Subheading: The Lord departs; Sārvabhauma faints —
+
+## 71
+
+> Subheading: The independent Lord —
+
+## 71–72
+
+The Lord's independence — see Madhya, Chapter 3, 212.
+
+## 73
+
+> Subheading: Just as contradictory qualities meet in Bhagavān, so Bhagavān's devotee too is both soft and hard —
+
+**vajrāt api** (than a thunderbolt) **kaṭhorāṇi** (harder), **kusumāt** (than a flower) **api** **mṛdūni** (softer); **lokottarāṇāṁ** (of uncommon, extraordinary persons) **cetāṁsi** (the hearts) **vijñātum** (to understand) **kaḥ nu** **īśvaraḥ** (is able)?
+
+## 74
+
+> Subheading: Nitāi sends Sārvabhauma home —
+
+## 75
+
+> Subheading: With the devotees, to Ālālanātha —
+
+***Sātha*** — company (*saṅga*).
+
+## 77
+
+> Subheading: On seeing Ālālanātha Nārāyaṇa, the Lord offers prayers, dances and sings —
+
+## 78
+
+> Subheading: Many people come to see the Lord; *hari-saṅkīrtana* —
+
+## 81
+
+See Ādi, Chapter 7, 25.
+
+## 83
+
+> Subheading: Seeing that the people do not want to let the Lord go, He is led away on the pretext of honoring *prasāda* —
+
+***Atikāla*** — because much time had passed.
+
+## 85
+
+> Subheading: The devotees enter the temple —
+
+## 86
+
+> Subheading: Gopīnātha feeds the Lord; the devotees receive His remnants —
+
+## 87
+
+> Subheading: Many people gather outside the temple to see the Lord —
+
+## 88
+
+> Subheading: The temple doors are opened, and everyone sees the Lord —
+
+## 89
+
+> Subheading: All day long people see the Lord and thereby become Vaiṣṇavas —
+
+## 90
+
+> Subheading: A night with the devotees at Ālālanātha —
+
+## 91
+
+> Subheading: In the morning the Lord sets out again —
+
+## 92
+
+> Subheading: The Lord's independence —
+
+See the *Anubhāṣya* on Madhya 3.212.
+
+## 93
+
+> Subheading: Kṛṣṇadāsa follows the Lord, carrying the waterpot and the rest —
+
+## 94
+
+> Subheading: That day the devotees fast, and then they return to Purī —
+
+## 96
+
+> Subheading: The verse sung by the Lord Himself —
+
+## 97
+
+> Subheading: The Lord gives people the name of Hari —
+
+## 98
+
+> Subheading: Hearing the name from the Lord's lips, people take up the name of Hari —
+
+## 99
+
+> Subheading: By the power the Lord infused, that Vaiṣṇava makes everyone in his village Vaiṣṇava —
+
+## 102
+
+> Subheading: The people of other villages too become Vaiṣṇavas by the mercy of seeing that Vaiṣṇava —
+
+## 103
+
+> Subheading: Thus all the people of the South were delivered and became Vaiṣṇavas —

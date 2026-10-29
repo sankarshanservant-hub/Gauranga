@@ -27,3 +27,19 @@ The road south runs along the seashore. Six *krośas* from Purī lies the villag
 ## 62
 
 ***Adhikārī*** — the king's chief officer. Vidyānagara is nowadays called “Porabandara.”
+
+## 73
+
+The hearts of extraordinary persons are harder than a thunderbolt and at the same time softer than a flower; others are not able to understand this.[^73-1]
+
+## 96
+
+***Rakṣa mām*** — protect me; ***pāhi mām*** — sustain me.
+
+## 99
+
+***Śakti sañcāriyā*** (“infusing power”). The essence of the *hlādinī* potency and the essence of the *saṁvit* potency together constitute “*bhakti-śakti*,” the power of devotion. Anyone into whom Kṛṣṇa or a devotee, out of mercy, infuses this power becomes a “*parama-bhakta*,” a supreme devotee. Whomever Mahāprabhu favored, He infused with such power and entrusted with preaching Vaiṣṇava *dharma*.
+
+---
+
+[^73-1]: The paragraph number is unclear in the scan (৭১ or ৭৩); by its content it paraphrases verse 73.
