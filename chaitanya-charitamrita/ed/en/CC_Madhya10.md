@@ -1197,7 +1197,7 @@ ever  with devotion  delighting  full of rapture  of sweetness  the very limit
 śrī-caitanya dayā-nidhe, tava dayā bhūyād amandodayā  
 O Śrī Caitanya  of mercy  ocean  Your  mercy  may it be  rising in fullness
 
-(119) “O Śrī Caitanya, ocean of mercy! May Your mercy rise in all its fullness — the mercy that effortlessly shakes off the dust of distress and makes the heart pure, that unfolds a fragrant joy, that stills the quarrels over scripture, that bestows *rasa* and fills the heart with divine madness, that ever delights in devotion, that is full of rapture and is the very limit of sweetness.” (Caitanya-candrodaya-nāṭaka, 8.10)
+(119) “O Śrī Caitanya, ocean of mercy! May Your mercy rise in all its fullness — the mercy that effortlessly shakes off the dust of distress and makes the heart pure, that unfolds a fragrant joy, that stills the quarrels over scripture, that bestows *rasa* and fills the heart with divine madness, that ever delights in devotion, that is full of rapture and is the very limit of sweetness.” (Caitanya-candrodaya-nāṭaka, 8.14)
 
 উঠাঞা মহাপ্রভু কৈল আলিঙ্গন ৷  
 দুইজনে প্রেমাবেশে হৈল অচেতন ॥ ১২০ ॥
@@ -1263,423 +1263,533 @@ of mercy  the rope  around the neck  binding  to Your feet  You brought
 নিত্যানন্দপ্রভু কৈল প্রেম-আলিঙ্গন ॥ ১২৬ ॥
 
 tabe svarūpa kaila nitāira caraṇa vandana  
-nityānanda-prabhu kaila prema-āliṅgana
+then  Svarūpa  made  of Nitāi  the feet  worship  
+nityānanda-prabhu kaila prema-āliṅgana  
+Nityānanda Prabhu  made  a loving embrace
 
-(126) [not yet translated]
+(126) Then Svarūpa bowed at the feet of Nitāi, and Nityānanda Prabhu embraced him with love.
 
 জগদানন্দ, মুকুন্দ, শঙ্কর, সার্ব্বভৌম ৷  
 সবা-সঙ্গে যথাযোগ্য করিল মিলন ॥ ১২৭ ॥
 
 jagadānanda, mukunda, śaṅkara, sārvabhauma  
-sabā-saṅge yathā-yogya karila milana
+Jagadānanda  Mukunda  Śaṅkara  Sārvabhauma  
+sabā-saṅge yathā-yogya karila milana  
+with all  as befitting  he made  meeting
 
-(127) [not yet translated]
+(127) He met Jagadānanda, Mukunda, Śaṅkara and Sārvabhauma, greeting each as was fitting.
 
 পরমানন্দ পুরীর কৈল চরণ বন্দন ৷  
 পুরী-গোসাঞি তাঁরে কৈল প্রেম আলিঙ্গন ॥ ১২৮ ॥
 
 paramānanda purīra kaila caraṇa vandana  
-purī-gosāñi tāṅre kaila prema āliṅgana
+of Paramānanda  Purī  he made  the feet  worship  
+purī-gosāñi tāṅre kaila prema āliṅgana  
+Purī Gosāñi  him  made  loving  embrace
 
-(128) [not yet translated]
+(128) He bowed at the feet of Paramānanda Purī, and Purī Gosāñi embraced him with love.
 
 মহাপ্রভু দিল তাঁরে নিভৃতে বাসাঘর ৷  
 জলাদি-পরিচর্য্যা লাগি’ দিল এক কিঙ্কর ॥ ১২৯ ॥
 
 mahāprabhu dila tāṅre nibhṛte vāsā-ghara  
-jalādi-paricaryā lāgi’ dila eka kiṅkara
+Mahāprabhu  gave  to him  secluded  a dwelling  
+jalādi-paricaryā lāgi’ dila eka kiṅkara  
+for water and other  services  He gave  one  servant
 
-(129) [not yet translated]
+(129) Mahāprabhu gave him a secluded dwelling and a servant to bring him water and see to his other needs.
 
 আর দিন সার্ব্বভৌম-আদি ভক্ত-সঙ্গে ৷  
 বসিয়া আছেন মহাপ্রভু কৃষ্ণকথা-রঙ্গে ॥ ১৩০ ॥
 
 āra dina sārvabhauma-ādi bhakta-saṅge  
-vasiyā āchena mahāprabhu kṛṣṇa-kathā-raṅge
+the next  day  with Sārvabhauma  and other  devotees  
+vasiyā āchena mahāprabhu kṛṣṇa-kathā-raṅge  
+sitting  is  Mahāprabhu  in the joy of talks about Kṛṣṇa
 
-(130) [not yet translated]
+(130) The next day Mahāprabhu was sitting with Sārvabhauma and other devotees, joyfully speaking of Kṛṣṇa.
 
 হেনকালে গোবিন্দের হৈল আগমন ৷  
 দণ্ডবৎ করি’ কহে বিনয়-বচন ॥ ১৩১ ॥
 
 hena-kāle govindera haila āgamana  
-daṇḍavat kari’ kahe vinaya-vacana
+at that time  of Govinda  there was  the arrival  
+daṇḍavat kari’ kahe vinaya-vacana  
+obeisance  making  he speaks  humble words
 
-(131) [not yet translated]
+(131) At that moment Govinda arrived; bowing down, he humbly said:
 
 ঈশ্বর-পুরীর-ভৃত্য, — ‘গোবিন্দ’ মোর নাম ৷  
 পুরী-গোসাঞির আজ্ঞায় আইনু তোমার স্থান ॥ ১৩২ ॥
 
 īśvara-purīra-bhṛtya, — ‘govinda’ mora nāma  
-purī-gosāñira ājñāya āinu tomāra sthāna
+of Īśvara Purī  the servant  “Govinda”  my  name  
+purī-gosāñira ājñāya āinu tomāra sthāna  
+of Purī Gosāñi  by the order  I have come  to Your  place
 
-(132) [not yet translated]
+(132) “I am the servant of Īśvara Purī, and my name is Govinda. On Purī Gosāñi’s order I have come to You.
 
 সিদ্ধিপ্রাপ্তিকালে গোসাঞি আজ্ঞা কৈল মোরে ৷  
 কৃষ্ণচৈতন্য-নিকটে যাই’ সেবিহ তাঁহারে ॥ ১৩৩ ॥
 
 siddhi-prāpti-kāle gosāñi ājñā kaila more  
-kṛṣṇa-caitanya-nikaṭe yāi’ seviha tāṅhāre
+at the time of attaining perfection  Gosāñi  order  gave  to me  
+kṛṣṇa-caitanya-nikaṭe yāi’ seviha tāṅhāre  
+to Kṛṣṇa Caitanya  going  serve  Him
 
-(133) [not yet translated]
+(133) When he was attaining perfection, Gosāñi ordered me, ‘Go to Kṛṣṇa Caitanya and serve Him.’
 
 কাশীশ্বর আসিবেন সব তীর্থ দেখিয়া ৷  
 প্রভু আজ্ঞায় মুঞি আইনু তোমা-পদে ধাঞা ॥ ১৩৪ ॥
 
 kāśīśvara āsibena saba tīrtha dekhiyā  
-prabhu ājñāya muñi āinu tomā-pade dhāñā
+Kāśīśvara  will come  all  holy places  having seen  
+prabhu ājñāya muñi āinu tomā-pade dhāñā  
+of my master  by the order  I  have come  to Your feet  hastening
 
-(134) [not yet translated]
+(134) Kāśīśvara will come after visiting all the holy places, but on my master’s order I have hurried to Your feet.”
 
 গোসাঞি কহিল, ‘পুরীশ্বর’ বাৎসল্য করে মোরে ৷  
 কৃপা করি’ মোর ঠাঞি পাঠাইলা তোমারে ॥ ১৩৫ ॥
 
 gosāñi kahila, ‘purīśvara’ vātsalya kare more  
-kṛpā kari’ mora ṭhāñi pāṭhāilā tomāre
+the Lord  said  Purīśvara  parental affection  shows  to Me  
+kṛpā kari’ mora ṭhāñi pāṭhāilā tomāre  
+mercy  showing  to Me  he has sent  you
 
-(135) [not yet translated]
+(135) The Lord said, “Purīśvara has always had a father’s affection for Me; out of mercy he has sent you to Me.”
 
 এত শুনি’ সার্ব্বভৌম প্রভুরে পুছিল ৷  
 পুরী-গোসাঞি শূদ্র-সেবক কাঁহে ত’ রাখিল ॥ ১৩৬ ॥
 
 eta śuni’ sārvabhauma prabhure puchila  
-purī-gosāñi śūdra-sevaka kāṅhe ta’ rākhila
+this  hearing  Sārvabhauma  the Lord  asked  
+purī-gosāñi śūdra-sevaka kāṅhe ta’ rākhila  
+Purī Gosāñi  a śūdra servant  why  then  kept
 
-(136) [not yet translated]
+(136) Hearing this, Sārvabhauma asked the Lord, “Why did Purī Gosāñi keep a servant of *śūdra* birth?”
 
 প্রভু কহে, — ঈশ্বর হয় পরম স্বতন্ত্র ৷  
 ঈশ্বরের কৃপা নহে বেদ-পরতন্ত্র ॥ ১৩৭ ॥
 
 prabhu kahe, — īśvara haya parama svatantra  
-īśvarera kṛpā nahe veda-paratantra
+the Lord  says  Īśvara  is  supremely  independent  
+īśvarera kṛpā nahe veda-paratantra  
+of Īśvara  the mercy  is not  subject to the Vedas
 
-(137) [not yet translated]
+(137) The Lord said, “Īśvara — the Lord, and so too Īśvara Purī — is supremely independent; the mercy of Īśvara is not subject to the rules of the Vedas.
 
 ঈশ্বরের কৃপা জাতি-কুল নাহি মানে ৷  
 বিদুরের ঘরে কৃষ্ণ করিলা ভোজনে ॥ ১৩৮ ॥
 
 īśvarera kṛpā jāti-kula nāhi māne  
-vidurera ghare kṛṣṇa karilā bhojane
+of Īśvara  the mercy  caste and family  does not  regard  
+vidurera ghare kṛṣṇa karilā bhojane  
+in Vidura’s  house  Kṛṣṇa  took  a meal
 
-(138) [not yet translated]
+(138) The mercy of Īśvara takes no account of caste or family: Kṛṣṇa ate in the house of Vidura.
 
 স্নেহ-সেবাপেক্ষা মাত্র শ্রীকৃষ্ণ-কৃপার ৷  
 স্নেহবশ হঞা করে স্বতন্ত্র আচার ॥ ১৩৯ ॥
 
 sneha-sevāpekṣā mātra śrī-kṛṣṇa-kṛpāra  
-sneha-vaśa hañā kare svatantra ācāra
+loving  service  waits for  only  of Śrī Kṛṣṇa  the mercy  
+sneha-vaśa hañā kare svatantra ācāra  
+by love  controlled  becoming  He does  independent  conduct
 
-(139) [not yet translated]
+(139) Śrī Kṛṣṇa’s mercy waits only for loving service; controlled by love, He acts free of all rules.
 
 মর্য্যাদা হৈতে কোটী সুখ স্নেহ আচরণে ৷  
 পরমানন্দ হয় যার নাম-শ্রবণে ॥ ১৪০ ॥
 
 maryādā haite koṭī sukha sneha ācaraṇe  
-paramānanda haya yāra nāma-śravaṇe
+than reverence  millions of times  happiness  in loving  dealings  
+paramānanda haya yāra nāma-śravaṇe  
+supreme bliss  there is  whose  name  on hearing
 
-(140) [not yet translated]
+(140) For Him whose very name brings supreme bliss to those who hear it, loving dealings give millions of times more joy than reverential formality.”
 
 এত বলি’ গোবিন্দেরে কৈল আলিঙ্গন ৷  
 গোবিন্দ করিল প্রভুর চরণ বন্দন ॥ ১৪১ ॥
 
 eta bali’ govindere kaila āliṅgana  
-govinda karila prabhura caraṇa vandana
+this  saying  Govinda  He made  an embrace  
+govinda karila prabhura caraṇa vandana  
+Govinda  made  of the Lord  the feet  worship
 
-(141) [not yet translated]
+(141) Saying this, the Lord embraced Govinda, and Govinda bowed at the Lord’s feet.
 
 প্রভু কহে, — ভট্টাচার্য্য, করহ বিচার ৷  
 গুরুর কিঙ্কর হয় মান্য আপনার ॥ ১৪২ ॥
 
 prabhu kahe, — bhaṭṭācārya, karaha vicāra  
-gurura kiṅkara haya mānya āpanāra
+the Lord  says  Bhaṭṭācārya  make  consideration  
+gurura kiṅkara haya mānya āpanāra  
+of the guru  the servant  is  worthy of honour  for Me
 
-(142) [not yet translated]
+(142) The Lord said, “Bhaṭṭācārya, consider this: My guru’s servant is worthy of My respect.
 
 তাঁহারে আপন-সেবা করাইতে না যুয়ায় ৷  
 গুরু আজ্ঞা দিয়াছেন, কি করি উপায় ॥ ১৪৩ ॥
 
 tāṅhāre āpana-sevā karāite nā yuyāya  
-guru ājñā diyāchena, ki kari upāya
+him  service to Myself  to have him do  not  is proper  
+guru ājñā diyāchena, ki kari upāya  
+the guru  the order  has given  what  can I do  remedy
 
-(143) [not yet translated]
+(143) It is not proper for Me to have him serve Me, yet My guru has ordered it. What am I to do?”
 
 ভট্ট কহে, — গুরুর আজ্ঞা হয় বলবান্ ৷  
 গুরু-আজ্ঞা না লঙ্ঘিয়ে, শাস্ত্র — প্রমাণ ॥ ১৪৪ ॥
 
 bhaṭṭa kahe, — gurura ājñā haya balavān  
-guru-ājñā nā laṅghiye, śāstra — pramāṇa
+Bhaṭṭa  says  of the guru  the order  is  powerful  
+guru-ājñā nā laṅghiye, śāstra — pramāṇa  
+the guru’s order  not  one transgresses  scripture  the evidence
 
-(144) [not yet translated]
+(144) The Bhaṭṭa said, “The guru’s order is powerful, and one does not transgress it — scripture is the proof:
 
 স শুশ্রুবান্মাতরি ভার্গবেণ পিতুর্নিয়োগাৎ প্রহৃতং দ্বিষদ্বৎ ৷  
 প্রত্যগৃহীদগ্রজশাসনং তদাজ্ঞা গুরূণাং হ্যবিচারণীয়া ॥ ১৪৫ ॥
 
 sa śuśruvān mātari bhārgaveṇa  
+he  having heard  on his mother  by Bhārgava  
 pitur niyogāt prahṛtaṁ dviṣad-vat  
+of the father  by the order  a blow struck  as on an enemy  
 pratyagṛhīd agraja-śāsanaṁ tad  
-ājñā gurūṇāṁ hy avicāraṇīyā
+accepted  of the elder brother  the command  that  
+ājñā gurūṇāṁ hy avicāraṇīyā  
+the order  of elders  indeed  not to be deliberated
 
-(145) [not yet translated]
+(145) “Having heard that Bhārgava (Paraśurāma), on his father’s order, struck down his own mother as though she were an enemy, he (Lakṣmaṇa) accepted that command of his elder brother. The orders of one’s elders are not to be questioned.” (Raghu-vaṁśa, 14.46)
 
 নির্ব্বিচারং গুরোরাজ্ঞা ময়া কার্য্যা মহাত্মনঃ ৷  
 শ্রেয়ো হ্যেবং ভবত্যাশ্চ মম চৈব বিশেষতঃ ॥ ১৪৬ ॥
 
 nirvicāraṁ guror ājñā  
+without deliberation  of the guru  the order  
 mayā kāryā mahātmanaḥ  
+by me  must be carried out  of the great soul  
 śreyo hy evaṁ bhavatyāś ca  
-mama caiva viśeṣataḥ
+the good  indeed  thus  for you  and  
+mama caiva viśeṣataḥ  
+for me  and also  especially
 
-(146) [not yet translated]
+(146) “The order of my guru, that great soul, must be carried out by me without deliberation; in this lies your good, and especially mine.” (Rāmāyaṇa, Ayodhyā-kāṇḍa, 22.9)
 
 তবে মহাপ্রভু তাঁরে কৈল অঙ্গীকার ৷  
 আপন-শ্রীঅঙ্গ-সেবায় দিল অধিকার ॥ ১৪৭ ॥
 
 tabe mahāprabhu tāṅre kaila aṅgīkāra  
-āpana-śrī-aṅga-sevāya dila adhikāra
+then  Mahāprabhu  him  made  acceptance  
+āpana-śrī-aṅga-sevāya dila adhikāra  
+of His own  sacred  body  for the service  He gave  the right
 
-(147) [not yet translated]
+(147) Then Mahāprabhu accepted him and gave him the right to serve His own sacred person.
 
 প্রভুর প্রিয় ভৃত্য করি’ সবে করে মান ৷  
 সকল বৈষ্ণবের গোবিন্দ করে সমাধান ॥ ১৪৮ ॥
 
 prabhura priya bhṛtya kari’ sabe kare māna  
-sakala vaiṣṇavera govinda kare samādhāna
+of the Lord  dear  servant  as  all  give  honour  
+sakala vaiṣṇavera govinda kare samādhāna  
+all  of the Vaiṣṇavas  Govinda  does  care
 
-(148) [not yet translated]
+(148) Everyone honoured Govinda as the Lord’s dear servant, and Govinda looked after all the Vaiṣṇavas.
 
 ছোট বড়-কীর্ত্তনীয়া — দুই হরিদাস ৷  
 রামাই, নন্দাই রহে গোবিন্দের পাশ ॥ ১৪৯ ॥
 
 choṭa baḍa-kīrtanīyā — dui haridāsa  
-rāmāi, nandāi rahe govindera pāśa
+junior  senior kīrtana singer  two  Haridāsas  
+rāmāi, nandāi rahe govindera pāśa  
+Rāmāi  Nandāi  stay  of Govinda  by the side
 
-(149) [not yet translated]
+(149) The two Haridāsas, the junior and the senior, both *kīrtana* singers, and Rāmāi and Nandāi stayed with Govinda.
 
 গোবিন্দের সঙ্গে করে প্রভুর সেবন ৷  
 গোবিন্দের ভাগ্যসীমা না যায় বর্ণন ॥ ১৫০ ॥
 
 govindera saṅge kare prabhura sevana  
-govindera bhāgya-sīmā nā yāya varṇana
+with Govinda  together  they do  of the Lord  service  
+govindera bhāgya-sīmā nā yāya varṇana  
+of Govinda  of the fortune  the limit  not  can be  described
 
-(150) [not yet translated]
+(150) Together with Govinda they served the Lord. The limit of Govinda’s good fortune cannot be described.
 
 আর দিনে মুকুন্দদত্ত কহে প্রভুর স্থানে ৷  
 ব্রহ্মানন্দ-ভারতী আইলা তোমার দরশনে ॥ ১৫১ ॥
 
 āra dine mukunda-datta kahe prabhura sthāne  
-brahmānanda-bhāratī āilā tomāra daraśane
+the next  day  Mukunda Datta  says  to the Lord  at His place  
+brahmānanda-bhāratī āilā tomāra daraśane  
+Brahmānanda Bhāratī  has come  for Your  sight
 
-(151) [not yet translated]
+(151) The next day Mukunda Datta came to the Lord and said, “Brahmānanda Bhāratī has come to see You.
 
 আজ্ঞা দেহ’ যদি তাঁরে আনিয়ে এথাই ৷  
 প্রভু কহে, — গুরু তেঁহ, যাব তাঁর ঠাঞি ॥ ১৫২ ॥
 
 ājñā deha’ yadi tāṅre āniye ethāi  
-prabhu kahe, — guru teṅha, yāba tāṅra ṭhāñi
+permission  give  if  him  shall I bring  here  
+prabhu kahe, — guru teṅha, yāba tāṅra ṭhāñi  
+the Lord  says  guru  he  I shall go  his  to the presence
 
-(152) [not yet translated]
+(152) If You permit, shall I bring him here?” The Lord said, “He is My guru; I shall go to him Myself.”
 
 এত বলি’ মহাপ্রভু ভক্তগণ-সঙ্গে ৷  
 চলি’ আইলা ব্রহ্মানন্দ-ভারতীর আগে ॥ ১৫৩ ॥
 
 eta bali’ mahāprabhu bhakta-gaṇa-saṅge  
-cali’ āilā brahmānanda-bhāratīra āge
+this  saying  Mahāprabhu  with the devotees  
+cali’ āilā brahmānanda-bhāratīra āge  
+setting out  came  of Brahmānanda Bhāratī  before
 
-(153) [not yet translated]
+(153) Saying this, Mahāprabhu set out with the devotees and came before Brahmānanda Bhāratī.
 
 ব্রহ্মানন্দ পরিয়াছে মৃগচর্ম্মাম্বর ৷  
 তাহা দেখি’ প্রভু দুঃখ পাইলা অন্তর ॥ ১৫৪ ॥
 
 brahmānanda pariyāche mṛga-carmāmbara  
-tāhā dekhi’ prabhu duḥkha pāilā antara
+Brahmānanda  had put on  of deerskin  a garment  
+tāhā dekhi’ prabhu duḥkha pāilā antara  
+that  seeing  the Lord  pain  felt  at heart
 
-(154) [not yet translated]
+(154) Brahmānanda was wearing a deerskin, and when the Lord saw it He was pained at heart.
 
 দেখিয়া ত’ ছদ্ম কৈল যেন দেখে নাঞি ৷  
 মুকুন্দেরে পুছে, — কাঁহা ভারতী-গোসাঞি ॥ ১৫৫ ॥
 
 dekhiyā ta’ chadma kaila yena dekhe nāñi  
-mukundere puche, — kāṅhā bhāratī-gosāñi
+seeing  indeed  pretence  He made  as if  He sees  not  
+mukundere puche, — kāṅhā bhāratī-gosāñi  
+Mukunda  He asks  where  Bhāratī Gosāñi
 
-(155) [not yet translated]
+(155) Though He saw him, He pretended not to, and asked Mukunda, “Where is Bhāratī Gosāñi?”
 
 মুকুন্দ কহে, — এই আগে দেখ বিদ্যমান ৷  
 প্রভু কহে, — তেঁহ নহেন, তুমি অগেয়ান ॥ ১৫৬ ॥
 
 mukunda kahe, — ei āge dekha vidyamāna  
-prabhu kahe, — teṅha nahena, tumi ageyāna
+Mukunda  says  here  in front  see  present  
+prabhu kahe, — teṅha nahena, tumi ageyāna  
+the Lord  says  he  is not  you  are ignorant
 
-(156) [not yet translated]
+(156) Mukunda said, “Here he is, right before You.” The Lord said, “That is not he. You are mistaken.
 
 অন্যেরে অন্য কহ, নাহি তোমার জ্ঞান ৷  
 ভারতী-গোসাঞি কেনে পরিবেন চাম ॥ ১৫৭ ॥
 
 anyere anya kaha, nāhi tomāra jñāna  
-bhāratī-gosāñi kene paribena cāma
+one  as another  you call  there is not  your  knowledge  
+bhāratī-gosāñi kene paribena cāma  
+Bhāratī Gosāñi  why  would wear  a hide
 
-(157) [not yet translated]
+(157) You are taking someone else for him — you do not know. Why would Bhāratī Gosāñi wear a hide?”
 
 শুনি’ ব্রহ্মানন্দ করে হৃদয়ে বিচারে ৷  
 মোর চর্ম্মাম্বর এই, না ভায় ইঁহারে ॥ ১৫৮ ॥
 
 śuni’ brahmānanda kare hṛdaye vicāre  
-mora carmāmbara ei, nā bhāya iṅhāre
+hearing  Brahmānanda  makes  in his heart  reflection  
+mora carmāmbara ei, nā bhāya iṅhāre  
+my  skin garment  this  not  pleases  Him
 
-(158) [not yet translated]
+(158) Hearing this, Brahmānanda reflected in his heart: “He does not like this skin garment of mine.
 
 ভাল কহেন, — চর্ম্মাম্বর দম্ভ লাগি’ পরি ৷  
 চর্ম্মাম্বর-পরিধানে সংসার না তরি ॥ ১৫৯ ॥
 
 bhāla kahena, — carmāmbara dambha lāgi’ pari  
-carmāmbara-paridhāne saṁsāra nā tari
+rightly  He speaks  the skin garment  pride  for the sake of  I wear  
+carmāmbara-paridhāne saṁsāra nā tari  
+by wearing a skin garment  saṁsāra  not  I cross
 
-(159) [not yet translated]
+(159) He is right: I wear this skin only out of pride. Wearing a skin will not carry me across *saṁsāra*.
 
 আজি হৈতে না পরিব এই চর্ম্মাম্বর ৷  
 প্রভু বহির্ব্বাস আনাইলা জানিয়া অন্তর ॥ ১৬০ ॥
 
 āji haite nā pariba ei carmāmbara  
-prabhu bahirvāsa ānāilā jāniyā antara
+today  from  not  I shall wear  this  skin garment  
+prabhu bahirvāsa ānāilā jāniyā antara  
+the Lord  the outer cloth  had brought  knowing  his heart
 
-(160) [not yet translated]
+(160) From today I shall not wear this skin.” Knowing his heart, the Lord had a *sannyāsī*’s outer cloth brought for him.
 
 চর্ম্মাম্বর ছাড়ি’ ব্রহ্মানন্দ পরিল বসন ৷  
 প্রভু আসি’ কৈল তাঁর চরণ বন্দন ॥ ১৬১ ॥
 
 carmāmbara chāḍi’ brahmānanda parila vasana  
-prabhu āsi’ kaila tāṅra caraṇa vandana
+the skin garment  casting off  Brahmānanda  put on  cloth  
+prabhu āsi’ kaila tāṅra caraṇa vandana  
+the Lord  coming  made  his  feet  worship
 
-(161) [not yet translated]
+(161) When Brahmānanda had cast off the skin and put on cloth, the Lord came and bowed at his feet.
 
 ভারতী কহে, — তোমার আচার লোক শিখাইতে ৷  
 পুনঃ না করিবে নতি, ভয় পাঙ চিত্তে ॥ ১৬২ ॥
 
 bhāratī kahe, — tomāra ācāra loka śikhāite  
-punaḥ nā karibe nati, bhaya pāṅa citte
+Bhāratī  says  Your  conduct  people  to teach  
+punaḥ nā karibe nati, bhaya pāṅa citte  
+again  not  You will make  obeisance  fear  I feel  in my heart
 
-(162) [not yet translated]
+(162) Bhāratī said, “Your conduct is meant to teach people. I am afraid in my heart that You will not bow to me again.
 
 সাম্প্রতিক ‘দুই ব্রহ্ম’ ইঁহা ‘চলাচল’ ৷  
 জগন্নাথ — অচল, তুমি — ব্রহ্ম সচল ॥ ১৬৩ ॥
 
 sāmpratika ‘dui brahma’ iṅhā ‘calācala’  
-jagannātha — acala, tumi — brahma sacala
+at present  “two Brahmans”  here  “moving and unmoving”  
+jagannātha — acala, tumi — brahma sacala  
+Jagannātha  unmoving  You  Brahman  moving
 
-(163) [not yet translated]
+(163) Now there are two Brahmans here, the moving and the unmoving: Jagannātha is the unmoving Brahman, and You are the moving Brahman.
 
 তুমি — গৌরবর্ণ, তেঁহ — শ্যামলবরণ ৷  
 দুই ব্রহ্মে কৈল সব জগৎ-তারণ ॥ ১৬৪ ॥
 
 tumi — gaura-varṇa, teṅha — śyāmala-varaṇa  
-dui brahme kaila saba jagat-tāraṇa
+You  golden-coloured  He  dark-coloured  
+dui brahme kaila saba jagat-tāraṇa  
+the two  Brahmans  have made  of the whole  world  deliverance
 
-(164) [not yet translated]
+(164) You are golden in colour and He is dark; these two Brahmans are delivering the whole world.”
 
 প্রভু কহে, — সত্য কহি, তোমার আগমনে ৷  
 দুই ব্রহ্ম প্রকটিল শ্রীপুরুষোত্তমে ॥ ১৬৫ ॥
 
 prabhu kahe, — satya kahi, tomāra āgamane  
-dui brahma prakaṭila śrī-puruṣottame
+the Lord  says  the truth  I speak  by your  arrival  
+dui brahma prakaṭila śrī-puruṣottame  
+two  Brahmans  have appeared  in Śrī Puruṣottama
 
-(165) [not yet translated]
+(165) The Lord said, “I tell you the truth: with your arrival two Brahmans have become manifest in Śrī Puruṣottama.
 
 ‘ব্রহ্মানন্দ’ নাম তুমি — গৌর-ব্রহ্ম ‘চল’ ৷  
 শ্যামবর্ণ জগন্নাথ বসিয়াছেন ‘অচল’ ॥ ১৬৬ ॥
 
 ‘brahmānanda’ nāma tumi — gaura-brahma ‘cala’  
-śyāma-varṇa jagannātha vasiyāchena ‘acala’
+“Brahmānanda”  named  you  the golden Brahman  “moving”  
+śyāma-varṇa jagannātha vasiyāchena ‘acala’  
+dark-coloured  Jagannātha  is seated  “unmoving”
 
-(166) [not yet translated]
+(166) You, whose name is Brahmānanda, are the golden Brahman, the moving one, while dark Jagannātha sits there unmoving.”
 
 ভারতী কহে, — সার্ব্বভৌম, মধ্যস্থ হঞা ৷  
 ইঁহার সনে আমার ‘ন্যায়’ বুঝ’ মন দিয়া ॥ ১৬৭ ॥
 
 bhāratī kahe, — sārvabhauma, madhyastha hañā  
-iṅhāra sane āmāra ‘nyāya’ bujha’ mana diyā
+Bhāratī  says  Sārvabhauma  arbiter  becoming  
+iṅhāra sane āmāra ‘nyāya’ bujha’ mana diyā  
+Him  with  my  “argument”  judge  attention  giving
 
-(167) [not yet translated]
+(167) Bhāratī said, “Sārvabhauma, be the arbiter and consider carefully this argument between Him and me.
 
 ‘ব্যাপ্য’ ‘ব্যাপক’-ভাবে ‘জীব’-‘ব্রহ্মে’ জানি ৷  
 জীব — ব্যাপ্য, ব্রহ্ম — ব্যাপক, শাস্ত্রেতে বাখানি ॥ ১৬৮ ॥
 
 ‘vyāpya’ ‘vyāpaka’-bhāve ‘jīva’-‘brahme’ jāni  
-jīva — vyāpya, brahma — vyāpaka, śāstrete vākhāni
+“pervaded”  “pervader”  in the relation  the jīva  Brahman  I know  
+jīva — vyāpya, brahma — vyāpaka, śāstrete vākhāni  
+the jīva  pervaded  Brahman  the pervader  in scripture  it is explained
 
-(168) [not yet translated]
+(168) I understand the *jīva* and Brahman as the pervaded (*vyāpya*) and the pervader (*vyāpaka*): the *jīva* is pervaded and Brahman is the pervader — so scripture explains.
 
 চর্ম্ম ঘুচাঞা কৈল আমারে শোধন ৷  
 দোঁহার ব্যাপ্য-ব্যাপকত্বে, এই ত’ কারণ ॥ ১৬৯ ॥
 
 carma ghucāñā kaila āmāre śodhana  
-doṅhāra vyāpya-vyāpakatve, ei ta’ kāraṇa
+the skin  removing  He made  of me  purification  
+doṅhāra vyāpya-vyāpakatve, ei ta’ kāraṇa  
+of us two  in the relation of pervaded and pervader  this  indeed  the reason
 
-(169) [not yet translated]
+(169) By removing my skin He has purified me, and the reason is just this relation between us two — of the pervaded and the pervader.
 
 সুবর্ণবর্ণো হেমাঙ্গো বরাঙ্গশ্চন্দনাঙ্গদী ৷  
 সন্ন্যাসকৃচ্ছমঃ শান্তো নিষ্ঠা-শান্তি-পরায়ণঃ ॥ ১৭০ ॥
 
 suvarṇa-varṇo hemāṅgo  
+of golden  colour  with limbs of gold  
 varāṅgaś candanāṅgadī  
+with beautiful limbs  wearing sandal armlets  
 sannyāsa-kṛc chamaḥ śānto  
-niṣṭhā-śānti-parāyaṇaḥ
+sannyāsa  taking  self-restrained  peaceful  
+niṣṭhā-śānti-parāyaṇaḥ  
+to steadfastness and peace  devoted
 
-(170) [not yet translated]
+(170) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 75)
 
 এই সব নামের ইঁহ হয় নিজাস্পদ ৷  
 চন্দনাক্ত প্রসাদ-ডোর — দ্বিভুজে অঙ্গদ ॥ ১৭১ ॥
 
 ei saba nāmera iṅha haya nijāspada  
-candanākta prasāda-ḍora — dvi-bhuje aṅgada
+these  all  of the names  He  is  the very abode  
+candanākta prasāda-ḍora — dvi-bhuje aṅgada  
+anointed with sandal  the prasāda cords  on both arms  armlets
 
-(171) [not yet translated]
+(171) He is the very abode of all these names: the sandal-anointed cords of *prasāda* on His two arms are His armlets.”
 
 ভট্টাচার্য্য কহে, — ভারতী, দেখি তোমার জয় ৷  
 প্রভু কহে, — যেই কহ, সেই সত্য হয় ॥ ১৭২ ॥
 
 bhaṭṭācārya kahe, — bhāratī, dekhi tomāra jaya  
-prabhu kahe, — yei kaha, sei satya haya
+Bhaṭṭācārya  says  Bhāratī  I see  your  victory  
+prabhu kahe, — yei kaha, sei satya haya  
+the Lord  says  whatever  you say  that  true  is
 
-(172) [not yet translated]
+(172) Bhaṭṭācārya said, “Bhāratī, I see that the victory is yours.” The Lord said, “Whatever you say is true.
 
 গুরু-শিষ্য ন্যায়ে শিষ্যের সত্য পরাজয় ৷  
 ভারতী কহে, — এ নহে, অন্য হেতু হয় ॥ ১৭৩ ॥
 
 guru-śiṣya nyāye śiṣyera satya parājaya  
-bhāratī kahe, — e nahe, anya hetu haya
+of guru and disciple  in a dispute  of the disciple  certain  defeat  
+bhāratī kahe, — e nahe, anya hetu haya  
+Bhāratī  says  this  is not  another  reason  there is
 
-(173) [not yet translated]
+(173) In a dispute between guru and disciple, the disciple’s defeat is certain.” Bhāratī said, “That is not so; there is another reason.
 
 ভক্ত-ঠাঞি হার’ তুমি, — এ তোমার স্বভাব ৷  
 আর এক শুন তুমি আপন প্রভাব ॥ ১৭৪ ॥
 
 bhakta-ṭhāñi hāra’ tumi, — e tomāra svabhāva  
-āra eka śuna tumi āpana prabhāva
+before the devotees  You lose  You  this  Your  nature  
+āra eka śuna tumi āpana prabhāva  
+another  one  hear  You  Your own  glory
 
-(174) [not yet translated]
+(174) It is Your nature to be defeated by Your devotees. Now hear one thing more — about Your own power.
 
 আজন্ম করিনু মুঞি ‘নিরাকার’-ধ্যান ৷  
 তোমা দেখি’ ‘কৃষ্ণ’ হৈল মোর বিদ্যমান ॥ ১৭৫ ॥
 
 ājanma karinu muñi ‘nirākāra’-dhyāna  
-tomā dekhi’ ‘kṛṣṇa’ haila mora vidyamāna
+since birth  practised  I  “formless” meditation  
+tomā dekhi’ ‘kṛṣṇa’ haila mora vidyamāna  
+You  seeing  Kṛṣṇa  became  to me  manifest
 
-(175) [not yet translated]
+(175) All my life I meditated on the formless, but on seeing You, Kṛṣṇa has become manifest to me.
 
 কৃষ্ণনাম স্ফুরে মুখে, মনে-নেত্রে কৃষ্ণ ৷  
 তোমাকে তদ্রূপ দেখি’ হৃদয় — সতৃষ্ণ ॥ ১৭৬ ॥
 
 kṛṣṇa-nāma sphure mukhe, mane-netre kṛṣṇa  
-tomāke tad-rūpa dekhi’ hṛdaya — satṛṣṇa
+Kṛṣṇa’s name  springs up  on my lips  in mind and eyes  Kṛṣṇa  
+tomāke tad-rūpa dekhi’ hṛdaya — satṛṣṇa  
+You  as that form  seeing  my heart  thirsting
 
-(176) [not yet translated]
+(176) The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. Seeing You as that very form, my heart is filled with longing.
 
 বিল্বমঙ্গল কৈল যৈছে দশা আপনার ৷  
 ইঁহ দেখি’ সেই দশা হইল আমার ॥ ১৭৭ ॥
 
 bilvamaṅgala kaila yaiche daśā āpanāra  
-iṅha dekhi’ sei daśā haila āmāra
+Bilvamaṅgala  underwent  just as  the state  his own  
+iṅha dekhi’ sei daśā haila āmāra  
+Him  seeing  that  state  has become  mine
 
-(177) [not yet translated]
+(177) The very change that Bilvamaṅgala underwent has come over me on seeing Him:
 
 অদ্বৈতবীথীপথিকৈরুপাস্যাঃ  
 স্বানন্দসিংহাসন-লব্ধদীক্ষাঃ ৷  
@@ -1687,104 +1797,132 @@ iṅha dekhi’ sei daśā haila āmāra
 দাসীকৃতা গোপবধূবিটেন ॥ ১৭৮ ॥
 
 advaita-vīthī-pathikair upāsyāḥ  
+of nondualism  the path  by travellers  worshipped  
 svānanda-siṁhāsana-labdha-dīkṣāḥ  
+on the throne of self-bliss  having received initiation  
 śaṭhena kenāpi vayaṁ haṭhena  
-dāsī-kṛtā gopa-vadhū-viṭena
+by a cunning  certain  we  by force  
+dāsī-kṛtā gopa-vadhū-viṭena  
+maidservants  made  of the cowherd wives  by the lover
 
-(178) [not yet translated]
+(178) “Though we were worshipped by those who travel the path of nondualism and were initiated onto the throne of self-contained bliss, we have been forcibly made maidservants by a certain cunning youth, the lover of the gopīs.”
 
 প্রভু কহে, — কৃষ্ণে তোমার গাঢ় প্রেমা হয় ৷  
 যাঁহা নেত্র পড়ে, তাঁহা কৃষ্ণস্ফূর্ত্তি হয় ॥ ১৭৯ ॥
 
 prabhu kahe, — kṛṣṇe tomāra gāḍha premā haya  
-yāṅhā netra paḍe, tāṅhā kṛṣṇa-sphūrti haya
+the Lord  says  for Kṛṣṇa  your  deep  love  is  
+yāṅhā netra paḍe, tāṅhā kṛṣṇa-sphūrti haya  
+wherever  the eyes  fall  there  Kṛṣṇa’s manifestation  is
 
-(179) [not yet translated]
+(179) The Lord said, “You have deep love for Kṛṣṇa; wherever your eyes fall, Kṛṣṇa manifests to you.”
 
 ভট্টাচার্য্য কহে, — তোমার হয় সত্য বচন ৷  
 আগে যদি কৃষ্ণ দেন সাক্ষাৎ দরশন ॥ ১৮০ ॥
 
 bhaṭṭācārya kahe, — tomāra haya satya vacana  
-āge yadi kṛṣṇa dena sākṣāt daraśana
+Bhaṭṭācārya  says  Your  is  true  word  
+āge yadi kṛṣṇa dena sākṣāt daraśana  
+first  if  Kṛṣṇa  gives  direct  sight
 
-(180) [not yet translated]
+(180) Bhaṭṭācārya said, “Your words are true — if Kṛṣṇa first grants His direct sight.
 
 প্রেম বিনা কভু নহে তাঁর সাক্ষাৎকার ৷  
 ইঁহার কৃপাতে হয় দরশন ইঁহার ॥ ১৮১ ॥
 
 prema vinā kabhu nahe tāṅra sākṣātkāra  
-iṅhāra kṛpāte haya daraśana iṅhāra
+love  without  ever  is not  His  direct vision  
+iṅhāra kṛpāte haya daraśana iṅhāra  
+His  by the mercy  there is  sight  his
 
-(181) [not yet translated]
+(181) Without love there is never any direct vision of Him; it is by the mercy of this One that this one has had His sight.”
 
 প্রভু কহে, — ‘বিষ্ণু’ ‘বিষ্ণু’, কি কহ সার্ব্বভৌম ৷  
 ‘অতিস্তুতি’ হয় এই নিন্দার লক্ষণ ॥ ১৮২ ॥
 
 prabhu kahe, — ‘viṣṇu’ ‘viṣṇu’, ki kaha sārvabhauma  
-‘ati-stuti’ haya ei nindāra lakṣaṇa
+the Lord  says  “Viṣṇu”  “Viṣṇu”  what  you say  Sārvabhauma  
+‘ati-stuti’ haya ei nindāra lakṣaṇa  
+“excessive praise”  is  this  of censure  the mark
 
-(182) [not yet translated]
+(182) The Lord said, “Viṣṇu! Viṣṇu! What are you saying, Sārvabhauma? Such excessive praise is a mark of censure.”
 
 এত বলি’ ভারতীরে লঞা নিজ-বাসা আইলা ৷  
 ভারতী-গোসাঞি প্রভুর নিকটে রহিলা ॥ ১৮৩ ॥
 
 eta bali’ bhāratīre lañā nija-vāsā āilā  
-bhāratī-gosāñi prabhura nikaṭe rahilā
+this  saying  Bhāratī  taking  to His own residence  He came  
+bhāratī-gosāñi prabhura nikaṭe rahilā  
+Bhāratī Gosāñi  of the Lord  near  stayed
 
-(183) [not yet translated]
+(183) Saying this, the Lord brought Bhāratī to His own residence, and Bhāratī Gosāñi stayed near the Lord.
 
 রামভদ্রাচার্য্য, আর ভগবান্ আচার্য্য ৷  
 প্রভু-পদে রহিলা দুঁহে ছাড়ি’ সর্ব্ব কার্য্য ॥ ১৮৪ ॥
 
 rāmabhadrācārya, āra bhagavān ācārya  
-prabhu-pade rahilā duṅhe chāḍi’ sarva kārya
+Rāmabhadrācārya  and  Bhagavān  Ācārya  
+prabhu-pade rahilā duṅhe chāḍi’ sarva kārya  
+at the Lord’s feet  stayed  both  leaving  all  affairs
 
-(184) [not yet translated]
+(184) Rāmabhadrācārya and Bhagavān Ācārya also stayed at the Lord’s feet, setting aside all other affairs.
 
 কাশীশ্বর গোসাঞি আইলা আর দিনে ৷  
 সম্মান করিয়া প্রভু রাখিলা নিজ স্থানে ॥ ১৮৫ ॥
 
 kāśīśvara gosāñi āilā āra dine  
-sammāna kariyā prabhu rākhilā nija sthāne
+Kāśīśvara  Gosāñi  came  the next  day  
+sammāna kariyā prabhu rākhilā nija sthāne  
+honour  showing  the Lord  kept  His own  place
 
-(185) [not yet translated]
+(185) The next day Kāśīśvara Gosāñi came, and the Lord received him with honour and kept him with Himself.
 
 প্রভুকে লঞা করা’ন ঈশ্বর দরশন ৷  
 লোক-ভিড় আগে সব করি’ নিবারণ ॥ ১৮৬ ॥
 
 prabhuke lañā karā’na īśvara daraśana  
-loka-bhiḍa āge saba kari’ nivāraṇa
+the Lord  taking  he gives  of the Lord  the sight  
+loka-bhiḍa āge saba kari’ nivāraṇa  
+of people  the crowd  ahead  all  making  keeping back
 
-(186) [not yet translated]
+(186) He would take the Lord for the *darśana* of Jagannātha, walking ahead and keeping back the crowds.
 
 যত নদ নদী যৈছে সমুদ্রে মিলয় ৷  
 ঐছে মহাপ্রভুর ভক্ত যাঁহা তাঁহা হয় ॥ ১৮৭ ॥
 
 yata nada nadī yaiche samudre milaya  
-aiche mahāprabhura bhakta yāṅhā tāṅhā haya
+all  rivers  streams  as  in the ocean  merge  
+aiche mahāprabhura bhakta yāṅhā tāṅhā haya  
+so  of Mahāprabhu  the devotees  wherever  they  were
 
-(187) [not yet translated]
+(187) As all rivers and streams flow into the ocean, so Mahāprabhu’s devotees, wherever they were,
 
 সবে আসি’ মিলিলা প্রভুর শ্রীচরণে ৷  
 প্রভু কৃপা করি’ সবায় রাখিল নিজ-স্থানে ॥ ১৮৮ ॥
 
 sabe āsi’ mililā prabhura śrī-caraṇe  
-prabhu kṛpā kari’ sabāya rākhila nija-sthāne
+all  coming  met  of the Lord  at the holy feet  
+prabhu kṛpā kari’ sabāya rākhila nija-sthāne  
+the Lord  mercy  showing  all  kept  with Himself
 
-(188) [not yet translated]
+(188) all came and met at the Lord’s holy feet, and the Lord mercifully kept them all with Him.
 
 এই ত’ কহিল প্রভুর বৈষ্ণব-মিলন ৷  
 ইহা যেই শুনে, পায় চৈতন্য চরণ ॥ ১৮৯ ॥
 
 ei ta’ kahila prabhura vaiṣṇava-milana  
-ihā yei śune, pāya caitanya caraṇa
+thus  indeed  I have told  of the Lord  with the Vaiṣṇavas  meeting  
+ihā yei śune, pāya caitanya caraṇa  
+this  whoever  hears  attains  Caitanya’s  feet
 
-(189) [not yet translated]
+(189) Thus I have described the Lord’s meeting with the Vaiṣṇavas. Whoever hears this attains the feet of Caitanya.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৯০ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(190) [not yet translated]
+(190) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
