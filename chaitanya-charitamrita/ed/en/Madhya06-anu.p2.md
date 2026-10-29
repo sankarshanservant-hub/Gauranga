@@ -142,8 +142,98 @@ See the *Anubhāṣya* on Ādi 7.121–133.
 
 > Subheading: The Lord establishes the true conclusion of the Vedas —
 
+## 179
+
+> Subheading: Apart from this indication of *sambandha*, *abhidheya* and *prayojana*, all doctrines are imaginary —
+
+Only the pure *jīva*, who has passed beyond the state of bondage to *māyā*, is a devotee of Bhagavān. His *sambandha* is Bhagavān, his *abhidheya* is devotion, and his *prayojana* is *premā*: this is what the Vedic scriptures declare. But in certain doctrines one finds otherwise: the *jīva*'s *sambandha* is Brahman without potency, his *abhidheya* is knowledge and renunciation, and his *prayojana* is liberation. This is merely the imagination of the conditioned *jīva*. The Vedas are themselves the evidence; to interpret them by *lakṣaṇā* is to invent.
+
+## 180
+
+> Subheading: By Īśvara's order Śaṅkara bewilders the *asuras* —
+
+The words of Śrī Bhagavān in the *Kūrma Purāṇa*, *Pūrva-bhāga* 16.115–117: “Therefore, O Vṛṣadhvaja, to guard [the world] against the sinners who reject the Vedas and to bewilder them, you will compose scriptures. Thus urged by Mādhava, the enemy of the *asuras*, Rudra composed bewildering scriptures; and Keśava too, abiding in Śiva, [did the same]: the *Kāpāla*, the *Nākula*, the *Vāma*, the *Bhairava*, the *Pūrva* and the *Paścima*, the *Pāñcarātra*, the *Pāśupata* and thousands of others.”
+
+## 181
+
+O Śiva, **tvaṁ** **kalpitaiḥ** (fallen from the truth, falsely fabricated) **svāgamaiḥ** (by your own *tantras* and other writings) **janān** (people attached to material objects) **mad-vimukhān** (averse to the servants of Hari, devoted to karma and *jñāna*) **kuru**; **māṁ gopaya ca**, **yena** (by this work of concealing Bhagavān) **uttarottarā** **eṣā sṛṣṭiḥ** (the tendency toward worldly existence) **syāt**.
+
+## 182
+
+Here mere judgment by birth (*śaukra*), rooted in identifying the self with the body, prevails; therefore pure devotion remains hidden from those inclined to enjoy worldly existence.
+
+**māyāvādam** (the doctrine that the three natures — of Īśvara, of the *jīva* and of the world — are merely false transformations fabricated by *māyā*, other than Brahman) **asac-chāstram** (a book full of teachings about the temporary, devoted to karma and *jñāna*, which turn one forever away from Bhagavān) **pracchannam** (hypocritically engaged in discussing the Vedas, opposed to the path of *śruti*) **bauddham** (following the doctrine of the atheistic Buddhists) **ucyate**. **devi** (O goddess), **mayā brāhmaṇa-mūrtinā** (by the body named Śaṅkara, born in the land of Malabar) **kalau** (at the beginning of the age of quarrel — the doctrine of Māyāvāda itself) **vihitam** (was established).
+
+The doctrine of “pure spirit” devoid of pastimes and the doctrine of the absence of spirit both arise from material reasoning; they are mental religion (*mano-dharma*).
+
+## 183
+
+> Subheading: Hearing the Lord's explanation, the Bhaṭṭācārya is astonished —
+
+## 184
+
+> Subheading: Devotion to Kṛṣṇa is the *jīva*'s supreme goal of life (*parama-puruṣārtha*) —
+
+## 185
+
+> Subheading: Even divine sages (*divya-sūris*) are drawn to Kṛṣṇa's feet —
+
+## 186
+
+Why did Śrī Śukadeva, a *paramahaṁsa* by nature absorbed in the bliss of Brahman, study *Śrīmad-Bhāgavatam*, which is full of narrations of Kṛṣṇa's name, form, qualities and pastimes? Answering this question of the sages headed by Śaunaka, Śrī Sūta says:
+
+**ātmārāmāḥ** (those who delight in the self — in Bhagavān; whose nature is to play with Kṛṣṇa) **munayaḥ** (free from material objects that seek enjoyment) **nirgranthāḥ** (free from the knot of desires born in the heart — situated on the level of Brahman) **api** **urukrame** (to the unconquerable Kṛṣṇa) **ahaitukīm** (free from other desires, not covered by karma, *jñāna* and the like, pure, consisting in serving Kṛṣṇa) **bhaktim** (service) **kurvanti**. **hariḥ** **itthambhūta-guṇaḥ** (is endowed with the property of attracting *jīvas* in every condition, liberated or not).[^186-1] [Hari, the reservoir of extraordinary qualities, mercifully frees people devoted to Māyāvāda from their doctrines and gives them His own feet.]
+
+## 187
+
+> Subheading: Sārvabhauma wishes to hear the explanation of the verse —
+
+## 188
+
+> Subheading: At the Lord's request Sārvabhauma displays his erudition in explaining the verse —
+
+## 190
+
+> Subheading: Sārvabhauma gives nine explanations, as far as his ability goes —
+
+## 191
+
+> Subheading: The Lord's *mānada-dharma* — He praises Sārvabhauma —
+
+## 193
+
+> Subheading: At the Bhaṭṭācārya's request the Lord gives His own, independent explanation —
+
+## 194
+
+> Subheading: The Lord's eighteen explanations —
+
+The eleven words: 1) **ātmārāmāḥ**, 2) **ca**, 3) **munayaḥ**, 4) **nirgranthāḥ**, 5) **api**, 6) **urukrame**, 7) **kurvanti**, 8) **ahaitukīm**, 9) **bhaktim**, 10) **itthambhūta-guṇaḥ**, 11) **hariḥ**.
+
+## 196
+
+> Subheading: Bhagavān's qualities and potencies are inconceivable and attract the *ātmārāmas* —
+
+## 197
+
+In the circles of the *jñānīs*, the *karmīs* or the *anyābhilāṣīs* (those with other desires), all kinds of *sambandha* and *abhidheya* are invented. Eclipsing them all, these three realities — Bhagavān, endowed with inconceivable power, His potency and His qualities — steal the minds of both *sādhaka-jīvas* and *siddhas*.
+
+## 198
+
+An example of this is how Kṛṣṇa attracted liberated sages such as Sanaka and the others and Śukadeva. Madhya 24.112–116:[^198-1] “Even the liberated, assuming a form of their own will, worship Bhagavān.” “From birth Śuka and Sanaka and the others were absorbed in Brahman, yet, attracted by Kṛṣṇa's qualities, they worship Kṛṣṇa. By Kṛṣṇa's mercy the fragrance [of His feet] captured the minds of Sanaka and the others; attracted by His qualities, they worship Him purely. By Vyāsa's mercy Śukadeva came to remember the pastimes and so on; attracted by Kṛṣṇa's qualities, he worships Him.” Madhya 17.139: “Kṛṣṇa's qualities are full bliss, greater than the bliss of Brahman; therefore they attract the minds of the *ātmārāmas*.” In this connection see *Śrīmad-Bhāgavatam* 3.15.43.
+
+## 193–198
+
+See Madhya 24.3–308.[^193-1]
+
 ---
 
 [^155-1]: The verse translation reads differently: *sarva-gā* is taken as “all souls are free to choose their own paths.”
 
 [^174-1]: The edition has *ādi-mahākāvya* (“the primeval great poem”) — apparently a misprint for *mahā-vākya*, as in verse 174 (checked against the scan).
+
+[^186-1]: The verse translation reads differently: *ātmārāma* is taken as sages “immersed in the spiritual bliss of the soul.”
+
+[^198-1]: In the edition's numbering; in our translation, Madhya 24.107–111.
+
+[^193-1]: In the edition's numbering; in our verse translation the numbering of Madhya 24 is shifted in places (cf. the note to section 198).
