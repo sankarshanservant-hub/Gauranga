@@ -306,6 +306,84 @@ See Ādi 4.87 and 94.
 
 > Subheading: The eight *sakhīs* are expansions of Her body (*kāya-vyūha*), not different from Her —
 
+See Ādi 4.79 and Ādi 5.213, 215.
+
+## 165
+
+> Subheading: The description of Śrī Rādhikā, the embodiment of love (*praṇaya*) for Kṛṣṇa —
+
+**Fragrant unguent (*udvartana*)** — a scented paste (*ābāṭā*) with which the body is cleansed. Kṛṣṇa's *sneha* is that paste; because the body is anointed with it, it is full of fragrance and radiant.
+
+## 166
+
+> Subheading: Śrī Rādhā bathes in three streams —
+
+## 167
+
+> Subheading: The description of Śrī Rādhā's form —
+
+## 166–170
+
+The *svarūpa* of Śrīmatī Rādhikā is the *cintāmaṇi* of *mahābhāva* that fulfills Kṛṣṇa's desires. Lalitā and the other *sakhīs* are like expansions of Her body (*kāya-vyūha*), that is, Her manifestations. (1) Anointed with the paste of Kṛṣṇa's *sneha*, She takes the first, morning bath; its water is the nectar of compassion, that is, new youth full of compassion at the beginning of *kaiśora*, when *paugaṇḍa* has passed. (2) The water of the second, midday bath is the nectar of youth, that is, manifest youth. (3) The water of the next, afternoon bath is the nectar of loveliness, that is, full youth. In other words, the bodily qualities — age, form and loveliness — are the water of the three baths.
+
+Her garments are of two kinds: (1) the lower garment and (2) the upper. (1) The lower garment is modesty: a blue *sāṛī* woven of dark silk threads. The second garment is red: it is *anurāga* for Kṛṣṇa. Śrī Rādhā's breast is covered by a bodice, the *māna* of *praṇaya* for Kṛṣṇa. The *kuṅkuma* is beauty, a bodily quality of Śrī Rādhā; the sandal is Her comeliness (*abhirūpatā*), that is, the love (*praṇaya*) of the *sakhīs*; the camphor is Her sweetness (*mādhurya*), that is, the luster of Her smile. These three anoint Her body, that is, Her body is adorned with beauty, comeliness and sweetness. The musk (*mṛgamada*) is Kṛṣṇa's *ujjvala-rasa*; this is Her bodily quality of softness (*mārdava*).
+
+## 171
+
+**Hidden *māna*** — though full of crookedness within, She shows compliance (*dākṣiṇya*) outwardly. ***Vāmya*** — contrariness, the absence of straightforwardness; see the *Anubhāṣya* on Madhya 14.161. ***Dhammilla*** — hair tied in a knot (*khõpā*).
+
+**The quality of being *dhīrādhīrā*.** The *Ujjvala-nīlamaṇi* says: “The *dhīrādhīrā* speaks to her Beloved with crooked words and with tears; one endowed with the qualities of the *dhīrā* and the *adhīrā* is called *dhīrādhīrā*.” The heroine who speaks to her Beloved with crooked words, as is the way of the *dhīrā*, and speaks with tear-filled eyes, as is the way of the *adhīrā*, is the “*dhīrādhīrā*.” See Madhya 14.143–153. The qualities of the “*dhīrādhīrā madhyā*” are also found in the *dhīrādhīrā pragalbhā*. Of the three — the *pragalbhā*, the *madhyā* and the *mugdhā* — the *pragalbhā*, greatly angered, is ready to strike; the *madhyā*, possessed by incomplete anger, speaks harsh words; and the *mugdhā*, only slightly angered, weeps. This quality shows itself especially in the state of the *khaṇḍitā*.
+
+***Paṭṭavāsa*** — a head covering (*pāgaḍī*), a silken upper cloth of a single piece. A variant reading is *paṭavāsa*: a tent, fragrant powder, rice paste (*piṭāli*), a *sāṛī*.
+
+## 172
+
+The color of the betel is *rāga* for Kṛṣṇa; it makes Her lips shine. The black on Her eyes is the crookedness of love.
+
+## 173
+
+**The *sūddīpta sāttvika-bhāvas*** — see Madhya 6.12. **The thirty-three *sañcārī-bhāvas* beginning with *harṣa*** — see Madhya 3.127 and the *Amṛta-pravāha-bhāṣya* on Madhya 14.167–168.
+
+## 174
+
+**The *bhāvas* beginning with *kila-kiñcita*** — see Madhya 14.168. **The flower garland of qualities** — see Madhya 23.82–86.
+
+The twenty-five qualities described in the *Ujjvala-nīlamaṇi*: “Why say much? Her qualities, like Hari's, are beyond count. Here four kinds of qualities of the Queen of Vṛndāvana are named: those residing in the body, in speech, in the mind, and those connected with others.” What more can be said? Like Śrī Hari, Śrī Rādhikā eternally possesses countless qualities. They fall into four groups: (a) those residing in the body (*aṅgastha*), (b) those residing in speech (*uktistha*), (c) those residing in the mind (*manastha*), and (d) those connected with others (*para-sambandhaga*).
+
+(a) The qualities residing in the body are six: 1) *madhurā* — charming; 2) *nava-vayāḥ* — youthful (*kiśorī*); 3) *calāpāṅgā* — with restless sidelong glances; 4) *ujjvala-smitā* — with a radiant smile; 5) *cāru-saubhāgya-rekhā-yuktā* — marked with beautiful lines of good fortune, the signs of the moon on Her feet and elsewhere; 6) *gandhonmādita-mādhavā* — who maddens Mādhava with Her fragrance.
+
+(b) The qualities residing in speech are three: 1) *saṅgīta-prasarābhijñā* — expert in the art of song; 2) *ramya-vāk* — whose speech is charming; 3) *narma-paṇḍitā* — skilled in jesting.
+
+(c) The qualities residing in the mind are ten: 1) *vinītā* — modest; 2) *karuṇā-pūrṇā* — full of compassion; 3) *vidagdhā* — clever and refined; 4) *pāṭavānvitā* — adroit; 5) *lajjā-śīlā* — shy, which comes from noble birth, good character and the like; 6) [endowed with] *maryādā* — never straying from the path of the virtuous; 7) *dhairya-śālinī* — steady, that is, patient in suffering; 8) *gāmbhīrya-śālinī* — deep; 9) *suvilāsā* — graceful in play; 10) *mahābhāva-paramotkarṣa-tarṣiṇī* — who longs for the highest summit of *mahābhāva*.
+
+(d) The qualities connected with others are six: 1) *gokula-prema-vasati* — the abode of Gokula's love; 2) *jagac-chreṇī-lasad-yaśāḥ* — whose fame shines through all the worlds; 3) *gurv-arpita-guru-snehā* — on whom the elders bestow great affection; 4) *sakhī-praṇayitā-vaśā* — subject to the love of Her friends; 5) *kṛṣṇa-priyāvalī-mukhyā* — foremost among Kṛṣṇa's beloveds; 6) *santatāśrava-keśavā* — to whom Keśava is always obedient.
+
+## 175
+
+***Prema-vaicittya***: “The pain that, by the very nature of love at its height, arises from the thought of separation even in the Beloved's presence is called *prema-vaicittya*.” By the nature of love at its height, even when She is near the Beloved, anguish (*ārti*) arises from fear of separation from Him: this is “*prema-vaicittya*,” and it is a jewel. ***Tarala*** — the gem in the middle of a necklace, a pendant (*dhukdhuki*).
+
+## 176
+
+Laying Her hand on a friend's shoulder is the very mood of a *kiśorī* in the middle of youth; and the friends near Her are Her thoughts of Kṛṣṇa's pastimes.
+
+## 177
+
+In the chamber of fragrance, Her own body; on the couch, or bed, of pride.
+
+## 178–179
+
+***Avataṁsa*** — a particular ear ornament. Kṛṣṇa's name, qualities and fame are the ornament of Her ears. The stream of words about Kṛṣṇa's name, qualities and fame is the flow of the honey of *śyāma-rasa*; that is what Śrīmatī gives Kṛṣṇa to drink.
+
+## 165–179
+
+The author shows in detail that Śrī Rādhā is the transformation (*vikāra*) of love (*praṇaya*) for Kṛṣṇa, that is, love for Kṛṣṇa embodied. Her feelings within, all the limbs of Her body, Her dress and the rest — every one of them is an adornment, a beauty, of love for Kṛṣṇa.
+
+## 180
+
+> Subheading: Śrī Rādhikā is the embodied ocean of love for Kṛṣṇa —
+
+Śrīmatī Rādhikā is the mine of the jewel of pure love for Kṛṣṇa, that is, the embodied ocean of love for Kṛṣṇa; and Śrī Rādhikā's body is full of incomparable qualities. See Madhya 23.81–86.
+
 ---
 
 [^127-1]: In a number of editions of the *Śrīmad-Bhāgavatam*, 7.11.35.

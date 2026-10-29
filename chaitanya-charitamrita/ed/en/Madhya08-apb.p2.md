@@ -64,6 +64,28 @@ The Bhūmā-puruṣa said, “O Kṛṣṇa and Arjuna, I brought the brāhmaṇ
 
 If one studies the fourth chapter of the Ādi-līlā here, all these points will be well understood.
 
+## 174
+
+“The *bhāvas* beginning with *kila-kiñcita*” — there are twenty of them. The twenty *bhāvas* are: (1) those born of the body (*aṅgaja*) — *bhāva*, *hāva*, *helā*; (2) those born of the self (*ātmaja*) — *śobhā*, *kānti*, *dīpti*, *mādhurya*, *pragalbhatā*, *audārya* and *dhairya*; (3) those born of nature (*svabhāvaja*) — *kila-kiñcita*, *līlā*, *vilāsa*, *vicchitti*, *vibhrama*, *moṭṭāyita*, *kuṭṭamita*, *bibboka*, *lalita* and *vikṛta*.
+
+“The flower garland of qualities.” Śrīmatī's qualities are of three kinds: mental, verbal and bodily. Gratitude, forbearance, compassion and the like are mental; speech that delights the ear and the like are verbal; and excellences, age, form, loveliness, beauty and the like are bodily qualities.
+
+## 176
+
+“The *sakhīs* are Her thoughts of Kṛṣṇa's pastimes.” The eight states of mind of Śrīmatī, who is the very bliss of Kṛṣṇa's pastimes, are the eight *sakhīs*, and the states that follow them are all the other *mañjarīs*.
+
+## 179
+
+*Śyāma-rasa* is the *madhura-rasa*.
+
+## 164–180
+
+In describing Śrī Rādhikā's qualities, Kavirāja Gosvāmī relies on the prayer of Śrī Raghunātha dāsa Gosvāmī called *Premāmbhoja-makaranda*:
+
+“[You,] whose form is manifested by the radiant *cintāmaṇi* of *mahābhāva*, who shine anointed with the finest fragrant unguent — the love (*praṇaya*) of Your friends; who are bathed in the waves of the nectar of compassion, the stream of the nectar of youth and the floods of the nectar of loveliness, and who make Indirā fade; whose limbs are covered by the silken garment of modesty, who are adorned with the saffron of beauty, whose body is painted with radiant dark musk; trembling, tears, hair standing on end, stupor, perspiration, faltering voice, flushing, madness and numbness — You who are adorned with ornaments of these nine finest jewels and wear a garland of flowers, the series of Your qualities, who are perfumed with the fragrant powder of the fine quality of being *dhīrā-adhīrā*; whose braided hair is hidden *māna*, who shine with the *tilaka* of good fortune, whose ears glitter with the earrings of hearing Kṛṣṇa's name and fame; whose lips are red with the betel of *rāga*, whose eye-black is the crookedness of love, who are scented with the camphor of the smile that flows from playful words; who sit playfully on the couch of pride in the inner chamber of fragrance and are marked with the trembling pendant of *prema-vaicittya*; whose breasts are hidden by the fine bodice tied with the anger of *praṇaya*, whose *kacchapī vīṇā* sounds with the fame and beauty that dry up the faces and hearts of Your rivals; who have playfully laid Your lotus hand on the shoulder of Your friend, youth (*madhyatā*), who are Śyāmā and serve the honey drink of the joy of love for Śyāma — bowing to You, this person, holding a straw between his teeth, begs: revive this miserable one by sprinkling him with the nectar of service to You! The merciful one does not abandon one who has come for shelter, even if he is wicked; therefore, O Gāndharvikā, alas, alas, do not abandon this one either, such as he is! Whoever recites this king of prayers called *Premāmbhoja-makaranda*, the cause of Śrī Rādhikā's mercy, will attain service to Her.”
+
+[The meaning of the prayer:] Her form is manifested by the radiant *cintāmaṇi* of *mahābhāva*; the love (*praṇaya*) of the *sakhīs* for Kṛṣṇa is the fragrant *kuṅkuma* and the rest, from which She has gained a beautiful luster (1). In the morning Her form is bathed in the nectar of compassion, at midday in the nectar of youth, and in the evening in the nectar of loveliness (2). She wears the silken garment of modesty, is adorned with the *kuṅkuma* of beauty, and Her body is painted with dark musk, the *rasa* of *śṛṅgāra* (3). She is adorned with nine finest jewels: trembling, tears, hair standing on end, stupor, perspiration, faltering voice, flushing, madness and numbness (4). Her qualities — beauty, sweetness and the rest — rest on Her body as a garland of flowers. She has perfumed Her moods of being *dhīrā* and *adhīrā* with fragrant powder, that is, with camphor and the like (5). Her braided hair, that is, Her hair tied in a knot (*khõpā*), is *māna* hidden within; Her forehead shines with the *tilaka* of good fortune; the ornament of Her ears is hearing Kṛṣṇa's name and fame (6). Her lips are colored red with the betel of *anurāga*; She wears the crookedness of love as eye-black; She is scented with the camphor of the gentle smile that jokes (*narma*) bring (7). When She reclines on the couch of pride in the inner chamber of fragrance, the necklace of *vipralambha* swings on Her as a pendant, *prema-vaicittya* (8). Her breasts are covered by a bodice, the anger of *praṇaya*; Her *kacchapī vīṇā* is the fame and beauty that dry up the faces and hearts of Her rivals (9). She has laid Her lotus hand, Her play, on the shoulder of Her friend, youth; though She has many qualities, She serves the honey that delights Kṛṣṇa, the Kandarpa (10). Holding a straw between my teeth I pray to such a Śrī Rādhā: revive this miserable one by giving him the nectar of service to You (11). O Gāndharvikā, as merciful Kṛṣṇa does not abandon those who surrender to Him, so You too do not abandon one who takes shelter of You (12).
+
 ---
 
 [^101-1]: The verse translation reads differently: it speaks of Rādhā's love, which could not show itself fully in the presence of the other gopīs. Bhaktivinoda (and the *Anubhāṣya* subheading) speak of Kṛṣṇa's love for Rādhā.
