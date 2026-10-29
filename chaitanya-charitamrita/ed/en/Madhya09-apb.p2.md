@@ -50,3 +50,7 @@ Mahārāja Bharata did not desire property, sons, relatives, wealth, or wife, so
 
 The devotees of Nārāyaṇa, who see heaven, liberation, and hell as of equal worth, fear nothing at all.
 
+## 271
+
+O *ācārya* of Tattvavāda! All pure devotees give up these two, “*mukti*” and “*karma*.” How sad that you have established that very *mukti* as the “*sādhya*” and *karma* as the “*sādhana*”!
+

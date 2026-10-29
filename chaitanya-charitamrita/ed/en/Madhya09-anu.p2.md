@@ -321,6 +321,41 @@ See Ādi 4.207.
 > Subheading: For the pure devotee even liberation is insignificant —
 
 Śrī Śukadeva glorifies before Mahārāja Parīkṣit the virtues of the *mahā-bhāgavata* Bharata — his pure service to Bhagavān: **yaḥ** **nṛpaḥ** (the royal sage Bharata) **dustyajān** (hard to give up) **kṣiti-suta-svajanārtha-dārān** (land, sons, relatives, wealth, wife, and the rest), **sura-varaiḥ** (even by the best of the demigods) **prārthyāṁ** (desired) **śriyaṁ** (Lakṣmī) **sadayāvalokām** (she whose glance is such that it awakens Bharata's kindness; or else
+ she whose glance is full of kindness: “Let Bharata not accept the bodily hardship born of renunciation; let him stay at home, cherished by me”), **na aicchat** (did not desire) — that he did not desire her (his indifference to Śrī) — **ucitam** (was indeed fitting), (for) **madhu-dviṭ-sevānurakta-manasām** (of those whose minds are attached to the service of the Enemy of Madhu) **mahatām** **abhavaḥ** (freedom from rebirth, liberation) **api** **phalguḥ** (is indeed worthless).
+
+## 270
+
+> Subheading: To the pure Vaiṣṇava all is the same — hell, the fruit of bad *karma*; heaven, the fruit of good *karma* or *svadharma*; and liberation, the fruit of knowledge —
+
+Citraketu showed disrespect to the *paramahaṁsa* Śambhu, and Pārvatī cursed him: “Be born as the *asura* Vṛtra.” The sādhu Citraketu accepted it with bowed head, pleased them both, and went to his own place. Seeing this, the great Vaiṣṇava Śambhu describes to Pārvatī the conduct and nature of the devotees of Viṣṇu: **sarve** **nārāyaṇa-parāḥ** (the devotees of Viṣṇu) **kutaścana** **na** **bibhyati** (that is, they fear nothing), (for they) **svargāpavarga-narakeṣu** (in heaven and liberation, the abodes of happiness, and in hell and the other abodes of suffering) **api** **tulyārtha-darśinaḥ** (those whose nature is to see “the purpose is the same,” that is, who see an equal result).
+
+The “fear” mentioned in this verse in the words *kutaścana na bibhyati*, that is, *akutobhaya* (fearing nothing), arises from absorption in a second thing (*dvitīyābhiniveśa*). The “second” is *māyā*, perceived as something other than Kṛṣṇa, the nondual Knowledge, or other than the conscious Reality who is to be served; absorption in it is enjoyment pleasing to the senses (*Śrīmad-Bhāgavatam* 11.2.37; *Bṛhad-āraṇyaka Upaniṣad* 1.4.2). That enjoyment is “*kāma*,” the desire to please one's own senses, whose mark is selfish intent. Endeavor made of it is “*matsaratā*” (envy), or “*hiṁsā*” (violence). Only one wholly devoted to Nārāyaṇa — the pure devotee — having gained “fearlessness,” can say, “I see nothing here worth enjoying.” (*Chāndogya Upaniṣad* 8.9.1) Therefore heaven, hell, or liberation — all of these are for him a “second thing,” something foreign to the self, and so unwelcome.
+
+## 271
+
+> Subheading: *Karma* and *jñāna* are opposed to pure devotion and so are neither “*sādhana*” nor “*sādhya*” —
+
+In the hymn *Mukunda-mālā* of Śrī Kulaśekhara: “Not for freedom from duality do I worship Your lotus feet, O Hari, not to escape the heavy hell of Kumbhīpāka, and not to delight in the garden of Nandana with lovely women whose bodies are soft as creepers. I pray only that in every birth I may contemplate You in the chamber of my heart.” “I have no regard for *dharma*, nor for heaps of wealth, nor for sensual enjoyment. O Bhagavān, let whatever must be come to pass according to my past *karma*. This one thing I pray for, this I hold most dear: even birth after birth may I have unwavering devotion fixed on Your lotus feet.”
+
+## 272
+
+> Subheading: The Lord, who gives honor to others, reproaches the Tattvavāda *ācārya* for his error —
+
+## 273
+
+> Subheading: The Tattvavāda *ācārya* is ashamed and realizes the Lord's greatness —
+
+**The Tattva *ācārya*.** From the succession of gurus of the Uttararāḍhī Maṭha (see the *Anubhāṣya* to number 247[^273-1]) it is known that in Śrī Mahāprabhu's time the Madhvācārya there was Śrī Raghuvīrya Tīrtha.[^273-2]
+
+## 274
+
+> Subheading: The Tattvavāda *ācārya* accepts the Lord's view —
+
+## 275
+
+> Subheading: By Ānandatīrtha's order, devotion mixed with *karma* is practiced in the Tattvavāda *sampradāya* —
+
+The *Sadācāra-smṛti* says: “
 
 ---
 
@@ -337,4 +372,8 @@ See Ādi 4.207.
 [^261-1]: Madhya 22.104 in Vṛndāvana Candra Dāsa's translation.
 
 [^263-1]: So in the edition (“কাম”); in view of the verse, perhaps *karma* (কর্ম্ম) is meant.
+
+[^273-1]: The succession list appears in the *Anubhāṣya* to verse 245 (in the edition that section is marked “২৪৫”).
+
+[^273-2]: So in the edition (“রঘুবীর্য্যতীর্থ”); in the succession list and in the subheading to verse 254, “Raghuvarya.”
 
