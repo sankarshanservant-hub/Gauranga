@@ -692,7 +692,7 @@ tr: “I am the servant of Īśvara Purī, and my name is Govinda. On Purī Gos�
 ## 133
 w: at the time of attaining perfection  Gosāñi  order  gave  to me
 w: to Kṛṣṇa Caitanya  going  serve  Him
-tr: When he was attaining perfection, Gosāñi ordered me, ‘Go to Kṛṣṇa Caitanya and serve Him.’
+tr: At the time of his passing, Gosāñi ordered me, ‘Go to Kṛṣṇa Caitanya and serve Him.’
 
 ## 134
 w: Kāśīśvara  will come  all  holy places  having seen
@@ -707,22 +707,25 @@ tr: The Lord said, “Purīśvara has always had a father’s affection for Me; 
 ## 136
 w: this  hearing  Sārvabhauma  the Lord  asked
 w: Purī Gosāñi  a śūdra servant  why  then  kept
-tr: Hearing this, Sārvabhauma asked the Lord, “Why did Purī Gosāñi keep a servant of *śūdra* birth?”
+tr: Hearing this, Sārvabhauma asked the Lord, “Why did Purī Gosāñi keep a servant of śūdra birth?”
 
 ## 137
 w: the Lord  says  Īśvara  is  supremely  independent
 w: of Īśvara  the mercy  is not  subject to the Vedas
-tr: The Lord said, “Īśvara — the Lord, and so too Īśvara Purī — is supremely independent; the mercy of Īśvara is not subject to the rules of the Vedas.
+tr: The Lord said, “Īśvara is supremely independent, and Īśvara’s mercy is not subject to the injunctions of the Vedas.
+fn: *Anubhāṣya*: according to smṛti, a brāhmaṇa who accepts a man of another varṇa as his disciple or servant becomes fallen — hence Sārvabhauma’s question. Mahāprabhu answers: “My gurudeva is ‘Īśvara,’ a lord of the world; the smṛti that governs ordinary jīvas has no hold on him, and the mercy of such a powerful one is never bound by Vedic injunctions.” The Lord plays on the name of Īśvara Purī.
 
 ## 138
 w: of Īśvara  the mercy  caste and family  does not  regard
 w: in Vidura’s  house  Kṛṣṇa  took  a meal
 tr: The mercy of Īśvara takes no account of caste or family: Kṛṣṇa ate in the house of Vidura.
+fn: *Anubhāṣya*: as Kṛṣṇa, the guru of the world, set aside worldly considerations of caste and family and ate in Vidura’s house, so Īśvara Purī mercifully disregarded Govinda’s birth in a śūdra family: knowing that a Vaiṣṇava is worthy of brāhmaṇa status through initiation, he initiated him and accepted him as his servant.
 
 ## 139
-w: loving  service  waits for  only  of Śrī Kṛṣṇa  the mercy
+w: loving  service  depends on  only  of Śrī Kṛṣṇa  the mercy
 w: by love  controlled  becoming  He does  independent  conduct
-tr: Śrī Kṛṣṇa’s mercy waits only for loving service; controlled by love, He acts free of all rules.
+tr: Śrī Kṛṣṇa’s mercy depends on nothing but loving service; won over by love, He acts with complete freedom.
+fn: The edition reads *sneha-sevāpekṣā* (“depends on loving service”); another reading is *sneha-leśāpekṣā* (“waits for a mere trace of love”). *Amṛta-pravāha-bhāṣya*: service is of two kinds, service in love (*sneha-sevā*) and service in reverence (*maryādā-sevā*); Kṛṣṇa’s mercy comes where there is service in love.
 
 ## 140
 w: than reverence  millions of times  happiness  in loving  dealings
@@ -732,7 +735,7 @@ tr: For Him whose very name brings supreme bliss to those who hear it, loving de
 ## 141
 w: this  saying  Govinda  He made  an embrace
 w: Govinda  made  of the Lord  the feet  worship
-tr: Saying this, the Lord embraced Govinda, and Govinda bowed at the Lord’s feet.
+tr: Saying this, the Lord embraced Govinda, and Govinda bowed at His feet.
 
 ## 142
 w: the Lord  says  Bhaṭṭācārya  make  consideration
@@ -747,21 +750,23 @@ tr: It is not proper for Me to have him serve Me, yet My guru has ordered it. Wh
 ## 144
 w: Bhaṭṭa  says  of the guru  the order  is  powerful
 w: the guru’s order  not  one transgresses  scripture  the evidence
-tr: The Bhaṭṭa said, “The guru’s order is powerful, and one does not transgress it — scripture is the proof:
+tr: The Bhaṭṭa said, “The guru’s order is mighty, and one must not transgress it. Scripture bears witness to this:
 
 ## 145
 w: he  having heard  on his mother  by Bhārgava
 w: of the father  by the order  a blow struck  as on an enemy
 w: accepted  of the elder brother  the command  that
 w: the order  of elders  indeed  not to be deliberated
-tr: “Having heard that Bhārgava (Paraśurāma), on his father’s order, struck down his own mother as though she were an enemy, he (Lakṣmaṇa) accepted that command of his elder brother. The orders of one’s elders are not to be questioned.” (Raghu-vaṁśa, 14.46)
+tr: “Lakṣmaṇa had heard how Paraśurāma, on his father’s order, struck down even his own mother as though she were an enemy; and so he accepted his elder brother’s command, for the orders of one’s elders are not to be questioned.” (Raghuvaṁśa, 14.46)
+fn: *Anubhāṣya*: the command of Śrī Rāmacandra was to take Sītā to the forest. The source is given as in the edition (*Raghuvaṁśa*, canto 14, verse 46).
 
 ## 146
 w: without deliberation  of the guru  the order
 w: by me  must be carried out  of the great soul
 w: the good  indeed  thus  for you  and
 w: for me  and also  especially
-tr: “The order of my guru, that great soul, must be carried out by me without deliberation; in this lies your good, and especially mine.” (Rāmāyaṇa, Ayodhyā-kāṇḍa, 22.9)
+tr: “I must carry out the order of my guru, that great soul, without deliberation; in this lies your good, and mine above all.” (Rāmāyaṇa, Ayodhyā-kāṇḍa, 22.9)
+fn: *Anubhāṣya*: the guru here is Rāma’s father, Daśaratha.
 
 ## 147
 w: then  Mahāprabhu  him  made  acceptance
@@ -776,7 +781,7 @@ tr: Everyone honoured Govinda as the Lord’s dear servant, and Govinda looked a
 ## 149
 w: junior  senior kīrtana singer  two  Haridāsas
 w: Rāmāi  Nandāi  stay  of Govinda  by the side
-tr: The two Haridāsas, the junior and the senior, both *kīrtana* singers, and Rāmāi and Nandāi stayed with Govinda.
+tr: The two Haridāsas, the junior and the senior, both kīrtana singers, and Rāmāi and Nandāi stayed with Govinda.
 
 ## 150
 w: with Govinda  together  they do  of the Lord  service
@@ -791,7 +796,8 @@ tr: The next day Mukunda Datta came to the Lord and said, “Brahmānanda Bhāra
 ## 152
 w: permission  give  if  him  shall I bring  here
 w: the Lord  says  guru  he  I shall go  his  to the presence
-tr: If You permit, shall I bring him here?” The Lord said, “He is My guru; I shall go to him Myself.”
+tr: If You permit, shall I bring him here?” The Lord said, “He is a guru to Me; I shall go to him Myself.”
+fn: *Anubhāṣya* (heading): the Lord keeps to propriety (*maryādā*); at 173 Brahmānanda Bhāratī is called “equal to a guru.” *Amṛta-pravāha-bhāṣya*: Brahmānanda Bhāratī was worthy of the Lord’s respect through his relation to Keśava Bhāratī.
 
 ## 153
 w: this  saying  Mahāprabhu  with the devotees
@@ -816,7 +822,7 @@ tr: Mukunda said, “Here he is, right before You.” The Lord said, “That is 
 ## 157
 w: one  as another  you call  there is not  your  knowledge
 w: Bhāratī Gosāñi  why  would wear  a hide
-tr: You are taking someone else for him — you do not know. Why would Bhāratī Gosāñi wear a hide?”
+tr: You are taking someone else for him; you simply do not know. Why would Bhāratī Gosāñi wear a hide?”
 
 ## 158
 w: hearing  Brahmānanda  makes  in his heart  reflection

@@ -1337,7 +1337,7 @@ at the time of attaining perfection  Gosāñi  order  gave  to me
 kṛṣṇa-caitanya-nikaṭe yāi’ seviha tām̐hāre  
 to Kṛṣṇa Caitanya  going  serve  Him
 
-(133) When he was attaining perfection, Gosāñi ordered me, ‘Go to Kṛṣṇa Caitanya and serve Him.’
+(133) At the time of his passing, Gosāñi ordered me, ‘Go to Kṛṣṇa Caitanya and serve Him.’
 
 কাশীশ্বর আসিবেন সব তীর্থ দেখিয়া ৷  
 প্রভু আজ্ঞায় মুঞি আইনু তোমা-পদে ধাঞা ॥ ১৩৪ ॥
@@ -1367,7 +1367,7 @@ this  hearing  Sārvabhauma  the Lord  asked
 purī-gosāñi śūdra-sevaka kām̐he ta’ rākhila  
 Purī Gosāñi  a śūdra servant  why  then  kept
 
-(136) Hearing this, Sārvabhauma asked the Lord, “Why did Purī Gosāñi keep a servant of *śūdra* birth?”
+(136) Hearing this, Sārvabhauma asked the Lord, “Why did Purī Gosāñi keep a servant of śūdra birth?”
 
 প্রভু কহে, — ঈশ্বর হয় পরম স্বতন্ত্র ৷  
 ঈশ্বরের কৃপা নহে বেদ-পরতন্ত্র ॥ ১৩৭ ॥
@@ -1377,7 +1377,7 @@ the Lord  says  Īśvara  is  supremely  independent
 īśvarera kṛpā nahe veda-paratantra  
 of Īśvara  the mercy  is not  subject to the Vedas
 
-(137) The Lord said, “Īśvara — the Lord, and so too Īśvara Purī — is supremely independent; the mercy of Īśvara is not subject to the rules of the Vedas.
+(137) The Lord said, “Īśvara is supremely independent, and Īśvara’s mercy is not subject to the injunctions of the Vedas.[^27]
 
 ঈশ্বরের কৃপা জাতি-কুল নাহি মানে ৷  
 বিদুরের ঘরে কৃষ্ণ করিলা ভোজনে ॥ ১৩৮ ॥
@@ -1387,17 +1387,17 @@ of Īśvara  the mercy  caste and family  does not  regard
 vidurera ghare kṛṣṇa karilā bhojane  
 in Vidura’s  house  Kṛṣṇa  took  a meal
 
-(138) The mercy of Īśvara takes no account of caste or family: Kṛṣṇa ate in the house of Vidura.
+(138) The mercy of Īśvara takes no account of caste or family: Kṛṣṇa ate in the house of Vidura.[^28]
 
 স্নেহ-সেবাপেক্ষা মাত্র শ্রীকৃষ্ণ-কৃপার ৷  
 স্নেহবশ হঞা করে স্বতন্ত্র আচার ॥ ১৩৯ ॥
 
 sneha-sevāpekṣā mātra śrī-kṛṣṇa-kṛpāra  
-loving  service  waits for  only  of Śrī Kṛṣṇa  the mercy  
+loving  service  depends on  only  of Śrī Kṛṣṇa  the mercy  
 sneha-vaśa hañā kare svatantra ācāra  
 by love  controlled  becoming  He does  independent  conduct
 
-(139) Śrī Kṛṣṇa’s mercy waits only for loving service; controlled by love, He acts free of all rules.
+(139) Śrī Kṛṣṇa’s mercy depends on nothing but loving service; won over by love, He acts with complete freedom.[^29]
 
 মর্য্যাদা হৈতে কোটী সুখ স্নেহ আচরণে ৷  
 পরমানন্দ হয় যার নাম-শ্রবণে ॥ ১৪০ ॥
@@ -1417,7 +1417,7 @@ this  saying  Govinda  He made  an embrace
 govinda karila prabhura caraṇa vandana  
 Govinda  made  of the Lord  the feet  worship
 
-(141) Saying this, the Lord embraced Govinda, and Govinda bowed at the Lord’s feet.
+(141) Saying this, the Lord embraced Govinda, and Govinda bowed at His feet.
 
 প্রভু কহে, — ভট্টাচার্য্য, করহ বিচার ৷  
 গুরুর কিঙ্কর হয় মান্য আপনার ॥ ১৪২ ॥
@@ -1447,7 +1447,7 @@ Bhaṭṭa  says  of the guru  the order  is  powerful
 guru-ājñā nā laṅghiye, śāstra — pramāṇa  
 the guru’s order  not  one transgresses  scripture  the evidence
 
-(144) The Bhaṭṭa said, “The guru’s order is powerful, and one does not transgress it — scripture is the proof:
+(144) The Bhaṭṭa said, “The guru’s order is mighty, and one must not transgress it. Scripture bears witness to this:
 
 স শুশ্রুবান্মাতরি ভার্গবেণ পিতুর্নিয়োগাৎ প্রহৃতং দ্বিষদ্বৎ ৷  
 প্রত্যগৃহীদগ্রজশাসনং তদাজ্ঞা গুরূণাং হ্যবিচারণীয়া ॥ ১৪৫ ॥
@@ -1461,7 +1461,7 @@ accepted  of the elder brother  the command  that
 ājñā gurūṇāṁ hy avicāraṇīyā  
 the order  of elders  indeed  not to be deliberated
 
-(145) “Having heard that Bhārgava (Paraśurāma), on his father’s order, struck down his own mother as though she were an enemy, he (Lakṣmaṇa) accepted that command of his elder brother. The orders of one’s elders are not to be questioned.” (Raghu-vaṁśa, 14.46)
+(145) “Lakṣmaṇa had heard how Paraśurāma, on his father’s order, struck down even his own mother as though she were an enemy; and so he accepted his elder brother’s command, for the orders of one’s elders are not to be questioned.” (Raghuvaṁśa, 14.46)[^30]
 
 নির্ব্বিচারং গুরোরাজ্ঞা ময়া কার্য্যা মহাত্মনঃ ৷  
 শ্রেয়ো হ্যেবং ভবত্যাশ্চ মম চৈব বিশেষতঃ ॥ ১৪৬ ॥
@@ -1475,7 +1475,7 @@ the good  indeed  thus  for you  and
 mama caiva viśeṣataḥ  
 for me  and also  especially
 
-(146) “The order of my guru, that great soul, must be carried out by me without deliberation; in this lies your good, and especially mine.” (Rāmāyaṇa, Ayodhyā-kāṇḍa, 22.9)
+(146) “I must carry out the order of my guru, that great soul, without deliberation; in this lies your good, and mine above all.” (Rāmāyaṇa, Ayodhyā-kāṇḍa, 22.9)[^31]
 
 তবে মহাপ্রভু তাঁরে কৈল অঙ্গীকার ৷  
 আপন-শ্রীঅঙ্গ-সেবায় দিল অধিকার ॥ ১৪৭ ॥
@@ -1505,7 +1505,7 @@ junior  senior kīrtana singer  two  Haridāsas
 rāmāi, nandāi rahe govindera pāśa  
 Rāmāi  Nandāi  stay  of Govinda  by the side
 
-(149) The two Haridāsas, the junior and the senior, both *kīrtana* singers, and Rāmāi and Nandāi stayed with Govinda.
+(149) The two Haridāsas, the junior and the senior, both kīrtana singers, and Rāmāi and Nandāi stayed with Govinda.
 
 গোবিন্দের সঙ্গে করে প্রভুর সেবন ৷  
 গোবিন্দের ভাগ্যসীমা না যায় বর্ণন ॥ ১৫০ ॥
@@ -1535,7 +1535,7 @@ permission  give  if  him  shall I bring  here
 prabhu kahe, — guru tem̐ha, yāba tām̐ra ṭhāñi  
 the Lord  says  guru  he  I shall go  his  to the presence
 
-(152) If You permit, shall I bring him here?” The Lord said, “He is My guru; I shall go to him Myself.”
+(152) If You permit, shall I bring him here?” The Lord said, “He is a guru to Me; I shall go to him Myself.”[^32]
 
 এত বলি’ মহাপ্রভু ভক্তগণ-সঙ্গে ৷  
 চলি’ আইলা ব্রহ্মানন্দ-ভারতীর আগে ॥ ১৫৩ ॥
@@ -1585,7 +1585,7 @@ one  as another  you call  there is not  your  knowledge
 bhāratī-gosāñi kene paribena cāma  
 Bhāratī Gosāñi  why  would wear  a hide
 
-(157) You are taking someone else for him — you do not know. Why would Bhāratī Gosāñi wear a hide?”
+(157) You are taking someone else for him; you simply do not know. Why would Bhāratī Gosāñi wear a hide?”
 
 শুনি’ ব্রহ্মানন্দ করে হৃদয়ে বিচারে ৷  
 মোর চর্ম্মাম্বর এই, না ভায় ইঁহারে ॥ ১৫৮ ॥
@@ -1980,3 +1980,15 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^25]: The edition reads *caraṇe dhariyā* (“clasping His feet”); another reading is *paḍiyā* (“falling at His feet”).
 
 [^26]: *Anubhāṣya*: the Lord’s mercy first ends the *anarthas* and purifies the heart, so that the bliss of serving Kṛṣṇa is revealed; then it gives the conclusions of bhakti, and through them rasa and the madness of love; and at last attachment to bhakti and the summit of sweetness. *Sa-madayā* — full of rapture (*mada*); with the reading *śama-dayā*, “bestowing peace.” Heading in the edition: “In the *Caitanya-candrodaya-nāṭaka* Dāmodara-Svarūpa enters while the Lord is speaking with Sārvabhauma, and offers this prayer.”
+
+[^27]: *Anubhāṣya*: according to smṛti, a brāhmaṇa who accepts a man of another varṇa as his disciple or servant becomes fallen — hence Sārvabhauma’s question. Mahāprabhu answers: “My gurudeva is ‘Īśvara,’ a lord of the world; the smṛti that governs ordinary jīvas has no hold on him, and the mercy of such a powerful one is never bound by Vedic injunctions.” The Lord plays on the name of Īśvara Purī.
+
+[^28]: *Anubhāṣya*: as Kṛṣṇa, the guru of the world, set aside worldly considerations of caste and family and ate in Vidura’s house, so Īśvara Purī mercifully disregarded Govinda’s birth in a śūdra family: knowing that a Vaiṣṇava is worthy of brāhmaṇa status through initiation, he initiated him and accepted him as his servant.
+
+[^29]: The edition reads *sneha-sevāpekṣā* (“depends on loving service”); another reading is *sneha-leśāpekṣā* (“waits for a mere trace of love”). *Amṛta-pravāha-bhāṣya*: service is of two kinds, service in love (*sneha-sevā*) and service in reverence (*maryādā-sevā*); Kṛṣṇa’s mercy comes where there is service in love.
+
+[^30]: *Anubhāṣya*: the command of Śrī Rāmacandra was to take Sītā to the forest. The source is given as in the edition (*Raghuvaṁśa*, canto 14, verse 46).
+
+[^31]: *Anubhāṣya*: the guru here is Rāma’s father, Daśaratha.
+
+[^32]: *Anubhāṣya* (heading): the Lord keeps to propriety (*maryādā*); at 173 Brahmānanda Bhāratī is called “equal to a guru.” *Amṛta-pravāha-bhāṣya*: Brahmānanda Bhāratī was worthy of the Lord’s respect through his relation to Keśava Bhāratī.
