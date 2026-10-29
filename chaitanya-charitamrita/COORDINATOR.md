@@ -174,6 +174,9 @@ bash tools/coord/finish.sh Adi16 [Adi17]   # prep/check/EN/PDF ×4 + разме�
   места, расход токенов (сумма `subagent_tokens` из уведомлений), следующая глава — «Продолжать?».
 
 ## 4.5. База лил и основная ветка
+**С Мадхьи 2 (решение пользователя 2026-10-15, `lila-db/TASK-cc-cb-rest.md`) записи лил ЧЧ Мадхья 2–25 и Антья ведёт
+основной чат** (`lila-db/lilas/cc-madhya-*.yaml`, `cc-antya.yaml`); наш конвейер их не заводит (шаблон `stageA.md`, § 2 снят).
+Наши `cc.yaml`/`events-cc.yaml` — Ади 1–17 и Мадхья 1 (cc-0001…0369). Ошибочные дубли Мадхьи 2–3 (cc-0370…0386) удалены 2026-10-29.
 Записи ЧЧ (`lila-db/lilas/cc.yaml`, `events-cc.yaml`) ведёт только этот конвейер; основной чат (ветка
 `claude/book-translation-tesseract-bengali-yaygag`) забирает их сам вместе с `chaitanya-charitamrita/ed/vcd`.
 Справочники `PERSONS.md`, `PLACES.md`, `SOURCES.md` общие: перед каждым этапом А — `bash tools/coord/sync_lila.sh`

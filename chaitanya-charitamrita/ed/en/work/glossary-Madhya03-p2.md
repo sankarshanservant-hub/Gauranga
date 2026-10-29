@@ -26,3 +26,18 @@
 | vātsalya | motherly love | 3.167 |
 | bhikṣā dite | to invite to a meal (lit. to give alms) | 3.168, 3.171 |
 | minati | entreaty | 3.169 |
+| dui dharma | both duties (dharmas) | 3.178 (of a *sannyāsī* and of a son) |
+| jagan-mātā | the mother of the world | 3.180 |
+| Nīlācala; Nīlādri; Śrī Puruṣottama | Nīlācala; Nīlādri; Śrī Puruṣottama | 3.182–197, 3.208, 3.216–217 (Purī) |
+| dui ghara | two homes (of one family) | 3.183 |
+| veda-ājñā | a command of the Vedas | 3.186 |
+| bhikṣā māgõ | I beg this alms | 3.189 |
+| kṛṣṇa-saṅkīrtana; kṛṣṇa-kathā; kṛṣṇa-ārādhana | *saṅkīrtana* of Kṛṣṇa; talks of Kṛṣṇa; worship of Kṛṣṇa | 3.190, 3.207 |
+| dainya-saṁvaraṇa | restrain your humility | 3.196 |
+| mahā-mahotsava | a grand festival | 3.200–201 |
+| saphala | bore their fruit | 3.203 (Gauḍīya Maṭha reading *āgamane*) |
+| pradakṣiṇa | walked around her in reverence | 3.211 |
+| nirapekṣa | free of all dependence | 3.212 (*Anubhāṣya*: independent of matter, fixed in service) |
+| svacchanda gamana | went on His way unhindered | 3.215 |
+| Chatrabhoga | Chatrabhoga | 3.216 |
+| Caitanya-maṅgala | the *Caitanya-maṅgala* (the *Caitanya-bhāgavata*) | 3.217 (as in `glossary-Adi08.md`) |

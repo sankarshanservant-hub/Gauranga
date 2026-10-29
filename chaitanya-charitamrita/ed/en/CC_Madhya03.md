@@ -1776,350 +1776,438 @@ still  you all  from  I shall not be  indifferent
 মাতারে তাবৎ আমি ছাড়িতে নারিব ॥ ১৭৬ ॥
 
 tomā-saba nā chāḍiba, yāvat āmi jība’  
-mātāre tāvat āmi chāḍite nāriba
+you all  not  I shall leave  as long as  I  live  
+mātāre tāvat āmi chāḍite nāriba  
+My mother  that long  I  to leave  shall not be able
 
-(176) [not yet translated]
+(176) As long as I live, I shall not leave you, and so long I shall not be able to leave My mother either.
 
 সন্ন্যাসীর ধর্ম্ম, — নহে সন্ন্যাস করিঞা ৷  
 নিজ জন্মস্থানে রহে কুটুম্ব লঞা ॥ ১৭৭ ॥
 
 sannyāsīra dharma, — nahe sannyāsa kariñā  
-nija janma-sthāne rahe kuṭumba lañā
+of a sannyāsī  the dharma  is not  sannyāsa  having taken  
+nija janma-sthāne rahe kuṭumba lañā  
+in his own  birthplace  to stay  his family  keeping with him
 
-(177) [not yet translated]
+(177) But it is not a *sannyāsī's* dharma, once he has taken *sannyāsa*, to stay at his birthplace with his family.
 
 কেহ যেন এই বলি’ না করে নিন্দন ৷  
 সেই যুক্তি কহ, যাতে রহে দুই ধর্ম্ম ॥ ১৭৮ ॥
 
 keha yena ei bali’ nā kare nindana  
-sei yukti kaha, yāte rahe dui dharma
+anyone  so that  this  saying  not  does  blame  
+sei yukti kaha, yāte rahe dui dharma  
+that  plan  tell  by which  remain  both  dharmas
 
-(178) [not yet translated]
+(178) So tell Me a plan by which both duties may be kept, and no one may blame Me for this.”
 
 শুনিয়া প্রভুর এই মধুর বচন ৷  
 শচীপাশ আচার্য্যাদি করিল গমন ॥ ১৭৯ ॥
 
 śuniyā prabhura ei madhura vacana  
-śacī-pāśa ācāryādi karila gamana
+hearing  the Lord's  these  sweet  words  
+śacī-pāśa ācāryādi karila gamana  
+to Śacī's side  the Ācārya and others  made  going
 
-(179) [not yet translated]
+(179) Hearing these sweet words of the Lord, the Ācārya and the others went to Śacī.
 
 প্রভুর নিবেদন তাঁরে সকল কহিল ৷  
 শুনি’ শচী জগন্মাতা কহিতে লাগিল ॥ ১৮০ ॥
 
 prabhura nivedana tāṅre sakala kahila  
-śuni’ śacī jagan-mātā kahite lāgila
+the Lord's  request  to her  all  they told  
+śuni’ śacī jagan-mātā kahite lāgila  
+hearing  Śacī  the mother of the world  to speak  began
 
-(180) [not yet translated]
+(180) They told her all that the Lord had asked, and hearing it, Śacī, the mother of the world, said:
 
 তেঁহো যদি ইঁহা রহে, তবে মোর সুখ ৷  
 তাঁর নিন্দা হয় যদি, তবে মোর দুঃখ ॥ ১৮১ ॥
 
 teṅho yadi iṅhā rahe, tabe mora sukha  
-tāṅra nindā haya yadi, tabe mora duḥkha
+He  if  here  stays  then  my  happiness  
+tāṅra nindā haya yadi, tabe mora duḥkha  
+His  blame  is  if  then  my  sorrow
 
-(181) [not yet translated]
+(181) “If He stays here, I shall be happy; but if He is blamed, I shall be sorrowful.
 
 তাতে এই যুক্তি ভাল, মোর মনে লয় ৷  
 নীলাচলে রহে যদি দুই কার্য্য হয় ॥ ১৮২ ॥
 
 tāte ei yukti bhāla, mora mane laya  
-nīlācale rahe yadi dui kārya haya
+therefore  this  plan  good  my  in mind  it seems  
+nīlācale rahe yadi dui kārya haya  
+in Nīlācala  He stays  if  both  aims  are achieved
 
-(182) [not yet translated]
+(182) So this plan seems good to me: if He stays in Nīlācala, both aims will be served.
 
 নীলাচলে-নবদ্বীপে যেন দুই ঘর ৷  
 লোক-গতাগতি-বার্ত্তা পাব নিরন্তর ॥ ১৮৩ ॥
 
 nīlācale-navadvīpe yena dui ghara  
-loka-gatāgati-vārtā pāba nirantara
+Nīlācala and Navadvīpa  as if  two  homes  
+loka-gatāgati-vārtā pāba nirantara  
+of people's coming and going  the news  I shall get  constantly
 
-(183) [not yet translated]
+(183) Nīlācala and Navadvīpa are like two homes of one family. People are always going back and forth, and I shall constantly have news of Him.
 
 তুমি সব করিতে পার গমনাগমন ৷  
 গঙ্গাস্নানে কভু হবে তাঁর আগমন ॥ ১৮৪ ॥
 
 tumi saba karite pāra gamanāgamana  
-gaṅgāsnāne kabhu habe tāṅra āgamana
+you  all  to make  can  going and coming  
+gaṅgāsnāne kabhu habe tāṅra āgamana  
+for bathing in the Gaṅgā  sometimes  will be  His  coming
 
-(184) [not yet translated]
+(184) All of you can go there and come back, and at times He will come to bathe in the Gaṅgā.
 
 আপনার দুঃখ-সুখ তাহা নাহি গণি ৷  
 তাঁর যেই সুখ, তাহা নিজ-সুখ মানি ॥ ১৮৫ ॥
 
 āpanāra duḥkha-sukha tāhā nāhi gaṇi  
-tāṅra yei sukha, tāhā nija-sukha māni
+my own  sorrow and happiness  that  not  I count  
+tāṅra yei sukha, tāhā nija-sukha māni  
+His  whatever  happiness  that  my own happiness  I consider
 
-(185) [not yet translated]
+(185) I do not count my own sorrow or happiness. Whatever makes Him happy, that I take as my own happiness.”
 
 শুনি’ ভক্তগণ তাঁরে করিল স্তবন ৷  
 বেদ-আজ্ঞা যৈছে, মাতা, তোমার বচন ॥ ১৮৬ ॥
 
 śuni’ bhakta-gaṇa tāṅre karila stavana  
-veda-ājñā yaiche, mātā, tomāra vacana
+hearing  the devotees  her  did  praise  
+veda-ājñā yaiche, mātā, tomāra vacana  
+the Vedas' command  like  mother  your  words
 
-(186) [not yet translated]
+(186) Hearing this, the devotees praised her: “Mother, your words are like a command of the Vedas.”
 
 প্রভু-আগে ভক্তগণ কহিতে লাগিল ৷  
 শুনিয়া প্রভুর মনে আনন্দ হইল ॥ ১৮৭ ॥
 
 prabhu-āge bhakta-gaṇa kahite lāgila  
-śuniyā prabhura mane ānanda haila
+before the Lord  the devotees  to speak  began  
+śuniyā prabhura mane ānanda haila  
+hearing  the Lord's  in the mind  joy  arose
 
-(187) [not yet translated]
+(187) The devotees told this to the Lord, and hearing it, He rejoiced at heart.
 
 নবদ্বীপ-বাসী আদি যত ভক্তগণ ৷  
 সবারে সম্মান করি’ বলিলা বচন ॥ ১৮৮ ॥
 
 navadvīpa-vāsī ādi yata bhakta-gaṇa  
-sabāre sammāna kari’ balilā vacana
+the residents of Navadvīpa  and others  all  the devotees  
+sabāre sammāna kari’ balilā vacana  
+to everyone  honour  having shown  He spoke  words
 
-(188) [not yet translated]
+(188) Showing honour to all the devotees, the residents of Navadvīpa and all the rest, He spoke to them:
 
 তুমি-সব লোক — মোর পরম বান্ধব ৷  
 এই ভিক্ষা মাগোঁ — মোরে দেহ তুমি-সব ॥ ১৮৯ ॥
 
 tumi-saba loka — mora parama bāndhava  
-ei bhikṣā māgoṅ — more deha tumi-saba
+you all  people  My  supreme  friends  
+ei bhikṣā māgoṅ — more deha tumi-saba  
+this  alms  I beg  to Me  give  you all
 
-(189) [not yet translated]
+(189) “All of you are My dearest friends. I beg this alms from you; all of you, grant it to Me.
 
 ঘরে যাঞা কর সদা কৃষ্ণসংকীর্ত্তন ৷  
 কৃষ্ণনাম, কৃষ্ণকথা, কৃষ্ণ-আরাধন ॥ ১৯০ ॥
 
 ghare yāñā kara sadā kṛṣṇa-saṁkīrtana  
-kṛṣṇa-nāma, kṛṣṇa-kathā, kṛṣṇa-ārādhana
+home  going  do  always  Kṛṣṇa-saṅkīrtana  
+kṛṣṇa-nāma, kṛṣṇa-kathā, kṛṣṇa-ārādhana  
+Kṛṣṇa's name  talks of Kṛṣṇa  worship of Kṛṣṇa
 
-(190) [not yet translated]
+(190) Go home and always perform *saṅkīrtana* of Kṛṣṇa — chant Kṛṣṇa's name, speak of Kṛṣṇa and worship Kṛṣṇa.
 
 আজ্ঞা দেহ নীলাচলে করিয়ে গমন ৷  
 মধ্যে মধ্যে আসি’ তোমায় দিব দরশন ॥ ১৯১ ॥
 
 ājñā deha nīlācale kariye gamana  
-madhye madhye āsi’ tomāya diba daraśana
+permission  give  to Nīlācala  let Me make  going  
+madhye madhye āsi’ tomāya diba daraśana  
+from time  to time  coming  to you  I shall give  sight (of Myself)
 
-(191) [not yet translated]
+(191) Give Me leave to go to Nīlācala. From time to time I shall come back and let you see Me.”
 
 এত বলি’ সবাকারে ঈষৎ হাসিঞা ৷  
 বিদায় করিল প্রভু সম্মান করিঞা ॥ ১৯২ ॥
 
 eta bali’ sabākāre īṣat hāsiñā  
-vidāya karila prabhu sammāna kariñā
+thus  saying  to everyone  slightly  smiling  
+vidāya karila prabhu sammāna kariñā  
+farewell  made  the Lord  honour  showing
 
-(192) [not yet translated]
+(192) Saying this, the Lord smiled gently at everyone and bade them farewell with due honour.
 
 সবা বিদায় দিয়া প্রভু চলিতে হৈল মন ৷  
 হরিদাস কান্দি’ কহে করুণ বচন ॥ ১৯৩ ॥
 
 sabā vidāya diyā prabhu calite haila mana  
-haridāsa kāndi’ kahe karuṇa vacana
+all  leave  having given  the Lord  to depart  became  the mind  
+haridāsa kāndi’ kahe karuṇa vacana  
+Haridāsa  weeping  says  piteous  words
 
-(193) [not yet translated]
+(193) When He had bidden them all farewell, the Lord made up His mind to set out. Then Haridāsa, weeping, spoke piteously:
 
 নীলাচলে যাবে তুমি, মোর কোন্ গতি ৷  
 নীলাচলে যাইতে মোর নাহিক শকতি ॥ ১৯৪ ॥
 
 nīlācale yābe tumi, mora kon gati  
-nīlācale yāite mora nāhika śakati
+to Nīlācala  will go  You  my  what  destination  
+nīlācale yāite mora nāhika śakati  
+to Nīlācala  to go  my  there is no  power
 
-(194) [not yet translated]
+(194) “You will go to Nīlācala — but what will become of me? I have no power to go to Nīlācala.
 
 মুঞি অধম তোমার না পাব দরশন ৷  
 কেমতে ধরিব এই পাপিষ্ঠ জীবন ॥ ১৯৫ ॥
 
 muñi adhama tomāra nā pāba daraśana  
-kemate dhariba ei pāpiṣṭha jīvana
+I  lowly  Your  not  shall get  sight  
+kemate dhariba ei pāpiṣṭha jīvana  
+how  shall I sustain  this  sinful  life
 
-(195) [not yet translated]
+(195) Lowly as I am, I shall not be able to see You. How shall I keep this sinful life?”
 
 প্রভু কহে, — কর তুমি দৈন্য সম্বরণ ৷  
 তোমার দৈন্যেতে মোর ব্যাকুল হয় মন ॥ ১৯৬ ॥
 
 prabhu kahe, — kara tumi dainya samvaraṇa  
-tomāra dainyete mora vyākula haya mana
+the Lord  says  do  you  of humility  restraint  
+tomāra dainyete mora vyākula haya mana  
+your  by humility  My  troubled  becomes  mind
 
-(196) [not yet translated]
+(196) The Lord said, “Restrain your humility; it troubles My heart.
 
 তোমার লাগি’ জগন্নাথে করিব নিবেদন ৷  
 তোমা লঞা যাব আমি শ্রীপুরুষোত্তম ॥ ১৯৭ ॥
 
 tomāra lāgi’ jagannāthe kariba nivedana  
-tomā lañā yāba āmi śrī-puruṣottama
+you  for the sake of  to Jagannātha  I shall make  a petition  
+tomā lañā yāba āmi śrī-puruṣottama  
+you  taking  shall go  I  to Śrī Puruṣottama
 
-(197) [not yet translated]
+(197) For your sake I shall make a petition to Jagannātha, and I shall take you with Me to Śrī Puruṣottama.”
 
 তবে ত’ আচার্য্য কহে বিনয় করিঞা ৷  
 দিন দুই-চারি রহ কৃপা ত’ করিঞা ॥ ১৯৮ ॥
 
 tabe ta’ ācārya kahe vinaya kariñā  
-dina dui-cāri raha kṛpā ta’ kariñā
+then  indeed  the Ācārya  says  humility  showing  
+dina dui-cāri raha kṛpā ta’ kariñā  
+days  two or four  stay  mercy  indeed  showing
 
-(198) [not yet translated]
+(198) Then the Ācārya said humbly, “Be merciful and stay a few more days.”
 
 আচার্য্যের বাক্য প্রভু না করে লঙ্ঘন ৷  
 রহিলা অদ্বৈত-গৃহে, না কৈল গমন ॥ ১৯৯ ॥
 
 ācāryera vākya prabhu nā kare laṅghana  
-rahilā advaita-gṛhe, nā kaila gamana
+the Ācārya's  words  the Lord  not  does  transgression  
+rahilā advaita-gṛhe, nā kaila gamana  
+He stayed  in Advaita's house  not  did  going
 
-(199) [not yet translated]
+(199) The Lord would not go against the Ācārya's words. He stayed on in Advaita's house and did not leave.
 
 আনন্দিত হৈল আচার্য্য, শচী, ভক্ত, সব ৷  
 প্রতিদিন করে আচার্য্য মহা-মহোৎসব ॥ ২০০ ॥
 
 ānandita haila ācārya, śacī, bhakta, saba  
-prati-dina kare ācārya mahā-mahotsava
+delighted  became  the Ācārya  Śacī  the devotees  all  
+prati-dina kare ācārya mahā-mahotsava  
+every day  holds  the Ācārya  a great festival
 
-(200) [not yet translated]
+(200) The Ācārya, Śacī and all the devotees were delighted, and every day the Ācārya held a grand festival.
 
 দিনে কৃষ্ণ-কথা-রস ভক্তগণ-সঙ্গে ৷  
 রাত্রে মহা-মহোৎসব সংকীর্ত্তন-রঙ্গে ॥ ২০১ ॥
 
 dine kṛṣṇa-kathā-rasa bhakta-gaṇa-saṅge  
-rātre mahā-mahotsava saṁkīrtana-raṅge
+by day  of Kṛṣṇa  talks'  relish  with the devotees  
+rātre mahā-mahotsava saṁkīrtana-raṅge  
+at night  a great festival  of saṅkīrtana  in the joy
 
-(201) [not yet translated]
+(201) By day there was the relish of talks about Kṛṣṇa with the devotees, and at night a grand festival in the joy of *saṅkīrtana*.
 
 আনন্দিত হঞা শচী করেন রন্ধন ৷  
 সুখে ভোজন করে প্রভু লঞা ভক্তগণ ॥ ২০২ ॥
 
 ānandita hañā śacī karena randhana  
-sukhe bhojana kare prabhu lañā bhakta-gaṇa
+delighted  becoming  Śacī  does  cooking  
+sukhe bhojana kare prabhu lañā bhakta-gaṇa  
+happily  eating  does  the Lord  taking  the devotees
 
-(202) [not yet translated]
+(202) Śacī cooked with delight, and the Lord ate happily with the devotees.
 
 আচার্য্যের শ্রদ্ধা-ভক্তি, গৃহ-সম্পদ্-ধনে ৷  
 সকল সফল হৈল প্রভুর আগমনে ॥ ২০৩ ॥
 
 ācāryera śraddhā-bhakti, gṛha-sampad-dhane  
-sakala saphala haila prabhura āgamane
+the Ācārya's  faith and devotion  house  property  wealth  
+sakala saphala haila prabhura āgamane  
+all  fruitful  became  of the Lord  by the coming
 
-(203) [not yet translated]
+(203) With the Lord's coming, the Ācārya's faith and devotion, His house, His property and His wealth all bore their fruit.
 
 শচীর আনন্দ বাড়ে দেখি’ পুত্রমুখ ৷  
 ভোজন করাঞা পূর্ণ কৈল নিজসুখ ॥ ২০৪ ॥
 
 śacīra ānanda bāḍe dekhi’ putra-mukha  
-bhojana karāñā pūrṇa kaila nija-sukha
+Śacī's  bliss  grows  seeing  her son's face  
+bhojana karāñā pūrṇa kaila nija-sukha  
+eating  making (Him)  full  she made  her own happiness
 
-(204) [not yet translated]
+(204) Śacī's bliss grew as she saw her son's face, and by feeding Him she made her own happiness complete.
 
 এইমত অদ্বৈত-গৃহে ভক্তগণ মিলে’ ৷  
 বঞ্চিলা কতদিন মহা-কুতূহলে ॥ ২০৫ ॥
 
 ei-mata advaita-gṛhe bhakta-gaṇa mile’  
-vañcilā kata dina mahā-kutūhale
+in this way  in Advaita's house  the devotees  gathering  
+vañcilā kata dina mahā-kutūhale  
+they spent  some  days  in great festivity
 
-(205) [not yet translated]
+(205) In this way the devotees, gathered in Advaita's house, spent several days in great festivity.
 
 আর দিন প্রভু কহে সব ভক্তগণে ৷  
 নিজ-নিজ-গৃহে সবে করহ গমনে ॥ ২০৬ ॥
 
 āra dina prabhu kahe saba bhakta-gaṇe  
-nija-nija-gṛhe sabe karaha gamane
+another  day  the Lord  says  all  to the devotees  
+nija-nija-gṛhe sabe karaha gamane  
+to their own homes  all  make  going
 
-(206) [not yet translated]
+(206) Then one day the Lord said to all the devotees, “All of you, go back to your homes.
 
 ঘরে গিয়া কর সবে কৃষ্ণসংকীর্ত্তন ৷  
 পুনরপি আমা-সঙ্গে হইবে মিলন ॥ ২০৭ ॥
 
 ghare giyā kara sabe kṛṣṇa-saṁkīrtana  
-punarapi āmā-saṅge ha-ibe milana
+home  going  do  all  Kṛṣṇa-saṅkīrtana  
+punarapi āmā-saṅge ha-ibe milana  
+again  with Me  there will be  meeting
 
-(207) [not yet translated]
+(207) Go home and all perform *saṅkīrtana* of Kṛṣṇa. You will meet Me again.
 
 কভু বা তোমরা করিবে নীলাদ্রি গমন ৷  
 কভু বা আসিব আমি করিতে গঙ্গাস্নান ॥ ২০৮ ॥
 
 kabhu vā tomarā karibe nīlādri gamana  
-kabhu vā āsiba āmi karite gaṅgā-snāna
+sometimes  either  you  will make  to Nīlādri  journey  
+kabhu vā āsiba āmi karite gaṅgā-snāna  
+sometimes  or  shall come  I  to make  bathing in the Gaṅgā
 
-(208) [not yet translated]
+(208) Sometimes you will come to Nīlādri, and sometimes I shall come to bathe in the Gaṅgā.”
 
 নিত্যানন্দ-গোসাঞি, পণ্ডিত জগদানন্দ ৷  
 দামোদর পণ্ডিত আর দত্ত মুকুন্দ ॥ ২০৯ ॥
 
 nityānanda-gosāñi, paṇḍita jagadānanda  
-dāmodara paṇḍita āra datta mukunda
+Nityānanda Gosāñi  Paṇḍita  Jagadānanda  
+dāmodara paṇḍita āra datta mukunda  
+Dāmodara  Paṇḍita  and  Datta  Mukunda
 
-(209) [not yet translated]
+(209) Nityānanda Gosāñi, Jagadānanda Paṇḍita, Dāmodara Paṇḍita and Mukunda Datta —
 
 এই চারিজন, আচার্য্য দিল প্রভু সনে ৷  
 জননী প্রবোধ করি’ বন্দিল চরণে ॥ ২১০ ॥
 
 ei cārijana, ācārya dila prabhu sane  
-jananī prabodha kari’ vandila caraṇe
+these  four persons  the Ācārya  gave  the Lord  with  
+jananī prabodha kari’ vandila caraṇe  
+the mother  consoling  having done  He bowed  at the feet
 
-(210) [not yet translated]
+(210) these four the Ācārya sent with the Lord. The Lord consoled His mother and bowed at her feet.
 
 তাঁরে প্রদক্ষিণ করি’ করিল গমন ৷  
 এথা আচার্য্যের ঘরে উঠিল ক্রন্দন ॥ ২১১ ॥
 
 tāṅre pradakṣiṇa kari’ karila gamana  
-ethā ācāryera ghare uṭhila krandana
+her  circumambulation  having done  He made  departure  
+ethā ācāryera ghare uṭhila krandana  
+here  in the Ācārya's  house  arose  weeping
 
-(211) [not yet translated]
+(211) He walked around her in reverence and departed, and in the Ācārya's house a cry of weeping arose.
 
 নিরপেক্ষ হঞা প্রভু শীঘ্র চলিলা ৷  
 কান্দিতে কান্দিতে আচার্য্য পশ্চাৎ চলিলা ॥ ২১২ ॥
 
 nirapekṣa hañā prabhu śīghra calilā  
-kāndite kāndite ācārya paścāt calilā
+independent  becoming  the Lord  swiftly  went  
+kāndite kāndite ācārya paścāt calilā  
+weeping  weeping  the Ācārya  behind  went
 
-(212) [not yet translated]
+(212) Free of all dependence, the Lord walked swiftly away, and the Ācārya followed behind, weeping and weeping.
 
 কতদূর গিয়া প্রভু করি’ যোড়হাত ৷  
 আচার্য্যে প্রবোধি’ কহে কিছু মিষ্ট বাত ॥ ২১৩ ॥
 
 kata dūra giyā prabhu kari’ yoḍa hāta  
-ācārye prabodhi’ kahe kichu miṣṭa bāta
+some  distance  having gone  the Lord  making  joined  hands  
+ācārye prabodhi’ kahe kichu miṣṭa bāta  
+the Ācārya  consoling  says  some  sweet  words
 
-(213) [not yet translated]
+(213) After going some distance, the Lord joined His palms and consoled the Ācārya with a few sweet words:
 
 জননী প্রবোধি’, কর ভক্ত-সমাধান ৷  
 তুমি ব্যগ্র হৈলে কারো না রহিবে প্রাণ ॥ ২১৪ ॥
 
 jananī prabodhi’, kara bhakta-samādhāna  
-tumi vyagra haile kāro nā rahibe prāṇa
+the mother  consoling  do  of the devotees  comforting  
+tumi vyagra haile kāro nā rahibe prāṇa  
+You  distressed  if You become  of anyone  not  will remain  life
 
-(214) [not yet translated]
+(214) “Console My mother and comfort the devotees. If You lose heart, no one will survive.”
 
 এত বলি’ প্রভু তাঁরে করি’ আলিঙ্গন ৷  
 নিবৃত্ত করিয়া কৈল স্বচ্ছন্দ গমন ॥ ২১৫ ॥
 
 eta bali’ prabhu tāṅre kari’ āliṅgana  
-nivṛtta kariyā kaila svacchanda gamana
+thus  saying  the Lord  Him  having made  embrace  
+nivṛtta kariyā kaila svacchanda gamana  
+turned back  having made  He made  unhindered  going
 
-(215) [not yet translated]
+(215) Saying this, the Lord embraced Him, made Him turn back, and went on His way unhindered.
 
 গঙ্গাতীরে-তীরে প্রভু চারিজন-সাথে ৷  
 নীলাদ্রি চলিলা প্রভু ছত্রভোগ-পথে ॥ ২১৬ ॥
 
 gaṅgā-tīre-tīre prabhu cāri-jana-sāthe  
-nīlādri calilā prabhu chatrabhoga-pathe
+along the bank of the Gaṅgā  the Lord  with the four  
+nīlādri calilā prabhu chatrabhoga-pathe  
+to Nīlādri  set out  the Lord  by the Chatrabhoga road
 
-(216) [not yet translated]
+(216) With the four, the Lord set out for Nīlādri along the bank of the Gaṅgā, by the road through Chatrabhoga.
 
 ‘চৈতন্যমঙ্গলে’ প্রভুর নীলাদ্রি-গমন ৷  
 বিস্তারি’ বর্ণিয়াছেন দাস-বৃন্দাবন ॥ ২১৭ ॥
 
 ‘caitanya-maṅgale’ prabhura nīlādri-gamana  
-vistāri’ varṇiyāchena dāsa-vṛndāvana
+in the Caitanya-maṅgala  the Lord's  journey to Nīlādri  
+vistāri’ varṇiyāchena dāsa-vṛndāvana  
+in detail  has described  Vṛndāvana dāsa
 
-(217) [not yet translated]
+(217) Vṛndāvana dāsa has described the Lord's journey to Nīlādri in detail in the *Caitanya-maṅgala*.
 
 অদ্বৈত-গৃহে প্রভুর বিলাস শুনে যেই জন ৷  
 অচিরে মিলয়ে তাঁরে কৃষ্ণপ্রেম-ধন ॥ ২১৮ ॥
 
 advaita-gṛhe prabhura vilāsa śune yei jana  
-acire milaye tāṅre kṛṣṇa-prema-dhana
+in Advaita's house  the Lord's  pastimes  hears  whatever  person  
+acire milaye tāṅre kṛṣṇa-prema-dhana  
+soon  attains  he  the wealth of love for Kṛṣṇa
 
-(218) [not yet translated]
+(218) Whoever hears of the Lord's pastimes in Advaita's house soon attains the treasure of love for Kṛṣṇa.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২১৯ ॥
 
 śrī rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(219) [not yet translated]
+(219) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
