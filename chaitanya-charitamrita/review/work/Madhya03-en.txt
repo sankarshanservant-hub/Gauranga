@@ -251,10 +251,10 @@ w: on four sides  vegetable cups  and  mung dāl
 tr: In the middle of each was a heap of fine *śāli* rice soaked in yellow ghee, and all around it stood leaf cups of vegetables and mung dāl.
 
 ## 45
-w: sādraka  vāstuka greens  various  kinds
+w: sārdraka  vāstuka greens  various  kinds
 w: paṭola  pumpkin with baḍi  mānakacu  and
-tr: There was *sādraka*, various kinds of *vāstuka* greens, *paṭola*, pumpkin with *baḍi*, and *mānakacu*.
-fn: The edition reads *sādraka*; another reading is *sārdraka*.
+tr: There was *sārdraka*, various kinds of *vāstuka* greens, *paṭola*, pumpkin with *baḍi*, and *mānakacu*.
+fn: The Gauḍīya Maṭha edition prints *sādraka* — a dropped *repha* (a printing defect); the reading *sārdraka* is kept.
 
 ## 46
 w: cai and pepper sukhta  adding  to all  fruits and roots

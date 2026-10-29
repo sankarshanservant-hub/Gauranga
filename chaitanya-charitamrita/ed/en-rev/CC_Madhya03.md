@@ -462,15 +462,15 @@ on four sides  vegetable cups  and  mung dāl
 
 (44) In the middle of each was a heap of fine *śāli* rice soaked in yellow ghee, and all around it stood leaf cups of vegetables and mung dāl.
 
-সাদ্রক, বাস্তুক-শাক বিবিধ প্রকার ৷  
+সার্দ্দ্রক, বাস্তুক-শাক বিবিধ প্রকার ৷  
 পটোল, কুষ্মাণ্ড-বড়ি, মানকচু আর ॥ ৪৫ ॥
 
-sādraka, vāstuka-śāka vividha prakāra  
-sādraka  vāstuka greens  various  kinds  
+sārdraka, vāstuka-śāka vividha prakāra  
+sārdraka  vāstuka greens  various  kinds  
 paṭola, kuṣmāṇḍa-baḍi, mānakacu āra  
 paṭola  pumpkin with baḍi  mānakacu  and
 
-(45) There was *sādraka*, various kinds of *vāstuka* greens, *paṭola*, pumpkin with *baḍi*, and *mānakacu*.[^19]
+(45) There was *sārdraka*, various kinds of *vāstuka* greens, *paṭola*, pumpkin with *baḍi*, and *mānakacu*.[^19]
 
 চই-মরিচ-সুখ্ত দিয়া সব ফল-মূলে ৷  
 অমৃতনিন্দক পঞ্চবিধ তিক্ত-ঝালে ॥ ৪৬ ॥
@@ -1160,7 +1160,7 @@ of the saffron cloth  the radiance  on it  makes  glitter
 
 [^18]: *Amṛta-pravāha-bhāṣya*: *āṭhiyā* is a kind of banana tree that bears a bunch of thirty-two clusters; *āṅgaṭiyā* — a whole, untorn banana leaf.
 
-[^19]: The edition reads *sādraka*; another reading is *sārdraka*.
+[^19]: The Gauḍīya Maṭha edition prints *sādraka* — a dropped *repha* (a printing defect); the reading *sārdraka* is kept.
 
 [^20]: *Cai* — the pungent stems of a pepper vine; *sukhta* — a bitter Bengali vegetable dish.
 
