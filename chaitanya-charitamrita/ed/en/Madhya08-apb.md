@@ -134,6 +134,14 @@ In Vṛndāvana, at the *rāsa* festival, Śrī Kṛṣṇa held the beautiful g
 
 When one is absorbed in the *rāga* that awakens for a *rasa*, one sees no difference of degree among the four *rasas*. But viewed from outside, that is, impartially, these *rasas* do differ in degree. The five *rasas*, *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*, rise by degrees one after another. In *śānta-rasa* there is one quality, fidelity to Kṛṣṇa alone; in *dāsya-rasa* *mamatā* joins it, and it becomes richer. In *sakhya-rasa* fidelity to Kṛṣṇa alone and *mamatā* are joined by *viśrambha*, confidence, and blossom still more. In *vātsalya-rasa* the three qualities of *śānta*, *dāsya* and *sakhya* appear joined with an abundance of affection. In *madhura-rasa*, that is, in *kānta-bhāva*, these four qualities become free of all reserve and attain the highest sweetness. Here, as the qualities increase, the sweetness of taste increases. Therefore, judged impartially, *madhura-rasa* is the best of all.
 
+## 87–88
+
+To explain the difference of degree among the *rasas*, a material example is given. There are five great elements: “ether,” “air,” “fire,” “water” and “earth.” Ether has one quality, “sound.” Air has two qualities, “sound” and “touch.” Fire has three, “sound,” “touch” and “form.” Water has four, “sound,” “touch,” “form” and “taste.” Earth has five, “sound,” “touch,” “form,” “taste” and “smell.” Now see: from ether onward, the number of qualities grows step by step in each successive element, and in earth all five are found. In the same way, in *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura* the qualities increase step by step, and in *madhura-rasa* all five qualities are found in fullness. Therefore the full attainment of Kṛṣṇa is found only in *prema* in the form of *madhura*, or *śṛṅgāra-rasa*. The *Bhāgavata* says that Kṛṣṇa is wholly conquered by *prema* that has blossomed in *madhura-rasa*.
+
+## 90–91
+
+Kṛṣṇa's general promise is that as one worships Him, so Kṛṣṇa reciprocates. In the other *rasas* Kṛṣṇa is able to reciprocate in the measure of the devotee's worship. But in *prema* that has blossomed in *madhura-rasa*, Kṛṣṇa found no reciprocation equal to their worship, and He said, “O beautiful girls of Vraja, I have not been able to repay My debt to you.”
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”

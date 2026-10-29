@@ -322,6 +322,52 @@ These words should not be taken to mean that any notion or whim of anyone's mind
 
 Kavirāja Gosvāmī introduced these words in connection with the five perfected *bhāvas* (*siddha-bhāvas*). The *rasikas* of these five *rasas* serve in five *bhāvas*: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. After the *anarthas* have ceased, whichever of these perfected *bhāvas* awakens in someone according to the nature of his eternally perfect *svarūpa* is indeed the highest for one qualified for that *rasa*. For the object of them all is Śrī Kṛṣṇa, not material demigods and others who are not Śrī Kṛṣṇa. Yet when one judges from outside, that is, impartially, a difference of degree is felt in the relishing of *rasa* in these five *bhāvas*. Thus in *dāsya-rasa* both *śānta-rasa* and *dāsya-rasa* are present at once, and so it is higher than *śānta-rasa*. In *sakhya-rasa* *śānta* and *dāsya* are present, and so it is higher still than *śānta* and *dāsya*. *Vātsalya-rasa* includes *śānta*, *dāsya* and *sakhya*, and so it holds more wonder than those three earlier *rasas*. And in *madhura-rasa* all four earlier *rasas* are present, and so its wonder and sweetness are the highest of all. The Vaiṣṇava *mahājanas*, expert in *bhakti-siddhānta*, have examined in this graded order the subtlest truths of realizing the *svarūpa*. Unfortunately, people bewildered by the divine *māyā* and expert in false *siddhānta* cannot grasp any of these *siddhāntas* and so find fault with pure Vaiṣṇava *siddhānta*. This only shows the misfortune of all these childish talkers.
 
+## 84
+
+See Ādi 4.45.
+
+## 85
+
+> Subheading: *Śānta* and the other three *rasas* find their culmination in *madhura-rasa* —
+
+## 87
+
+> Subheading: A material example: the other four elements culminate in the fifth great element, “earth” —
+
+## 88
+
+> Subheading: Kṛṣṇa is conquered by *prema* marked by *śṛṅgāra-rasa* —
+
+## 89
+
+> Subheading: Only *prema-bhakti* for Kṛṣṇa gives Kṛṣṇa —
+
+See Ādi 4.23.
+
+## 90
+
+> Subheading: The deeper a devotee's worship, the more devotion to Kṛṣṇa he attains —
+
+Worldly people reason like this: “In whatever mood one worships, one attains Bhagavān. By whatever means one worships Bhagavān, by *karma*, knowledge, *yoga* or austerity, it makes no difference. Just as different roads lead to one place, so different paths lead to Bhagavān. By whatever name one calls Bhagavān, Kālī, Durgā, Śiva, Gaṇeśa, Rāma, Hari or Brahman, it is all the same. Or, just as one man has different names and answers to any of them, so it is with Bhagavān.”
+
+All these words please people of a childish mental *dharma*, but those who take the essence (*sāragrāhīs*) consider them full of false conclusions. When someone desires heaven and the like and worships an administrative demigod, the *māyā-śakti*, which is turned away from Bhagavān, gives him as his fruit faith in those administrative demigods. So she deprives him of the fruit of the ultimate good and makes him wander on the wheel of *karma*, along the chain of births and deaths, now in heaven, now in the world of mortals. But to those who pray for eternal service to Bhagavān, Bhagavān gives His eternal service. It is therefore true that however one worships, one gets a fruit according to one's worship. But it must be specially noted that not all fruits are equal. The fruit of one who desires *dharma*, *artha*, *kāma* and *mokṣa* and the fruit of one who prays for eternal, causeless service to Kṛṣṇa are not the same. The fruit of *dharma*, *artha* and the rest is a perishable heaven and the like; the fruit of *mokṣa* in the form of *sāyujya* and the like is self-annihilation and the like; the highest fruit of causeless service to Hari is ever-fresh service to Hari, that is, love for Bhagavān. Therefore between the fruits of one who desires *dharma*, *artha* and *kāma*, one who desires featureless liberation, and one devoted to Hari's service, the difference is as between heaven and the netherworld. Of this there is no doubt.
+
+Mahāmāyā, the mother of the world, who presides over the material world, and the other administrative demigods are the external potency of Śrī Bhagavān and a distorted display of His majesty (*virūpa-vaibhava*). By Bhagavān's order they manage the various parts of the work of creation. The creation of the world is no concern of Bhagavān's internal potency. All that takes place in the spiritual abode is the work of the internal potency, and it is accomplished by *yogamāyā*. *Yogamāyā* is Bhagavān's internal potency, or *cit-śakti*. Those who pray for service to Bhagavān in the spiritual abode receive the sincere mercy of *yogamāyā*, which turns them toward the service of Kṛṣṇa. But those who in the material universe desire other things, *dharma*, *artha*, *kāma* and the like, for the sake of worldly prosperity (*abhyudaya*), or who wish for a featureless destiny turned away from Bhagavān's service, worship Mahāmāyā or demigods such as Rudra. That is why we see the damsels of Vraja worshiping the *cit-śakti*, *yogamāyā*, to obtain the son of the cowherd Nanda as their husband, that is, to obtain eternal service to Him in the spiritual abode. And in the *Saptaśatī* we see that King Suratha and a vaiśya named Samādhi considered themselves needy *jīvas* within *varṇāśrama* and so devoted themselves to the worship of Mahāmāyā, who presides over matter. Therefore wherever a “doctrine of synthesis” (*samanvaya-vāda*) is preached that makes “*yogamāyā*” and “material *māyā*” one, like trying to sell “puffed rice and rock candy” at the same price, one must recognize ignorance, foolishness, and a failure to realize Bhagavān's true nature.
+
+Secondly, in this world one sees “a blind boy named Padmalocana” (“lotus-eyed”), but with Bhagavān it is not so. There is no difference between Bhagavān's name and Bhagavān Himself: no name of Bhagavān is meaningless or different from His real being. Śrī Bhagavān has many names: Paramātmā, Brahman, the Creator, Nārāyaṇa, Rukmiṇī-ramaṇa, Gopīnātha, Kṛṣṇa and others. But one who calls Bhagavān “the Creator” will not be able to relish the *rasa* of Nārāyaṇa. For names such as “the Creator” were given by sense-born knowledge, the knowledge of the *jīvas* of this world who are turned away from Viṣṇu. The word “Creator” does not give a realization of Bhagavān's full being: creation is not the work of His *svarūpa-śakti*; it points only to His outward-turned potency. The word “Brahman” does not reveal Bhagavān's six kinds of majesty either: His featureless aspect is called “Brahman,” and so this name does not point to His complete form of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*). The word “Paramātmā” does not give full knowledge of Bhagavān either: “Paramātmā” is the name of only a partial manifestation of Him, as the indwelling Lord in the heart of each individual *jīva*. Again, even one who worships Nārāyaṇa cannot realize Kṛṣṇa's sweetness (*mādhurya*). And a devotee of Kṛṣṇa sees in Kṛṣṇa alone the whole of the supreme wonder, in which Nārāyaṇa's majesty is covered by sweetness, and so he has no desire to worship Nārāyaṇa. The *gopīs* never address Śrī Kṛṣṇa as “Rukmiṇī-ramaṇa.” In worldly dictionaries “Rukmiṇī-ramaṇa” and “Śrī Kṛṣṇa” are synonyms, words of one class, yet one cannot be used in place of the other. If someone does so out of foolishness, the fault of *rasābhāsa* arises. Those who have realized Bhagavān's true nature do not commit such *rasābhāsa* or go against *siddhānta*, as ignorant society does. And yet, through the strength of Kali, fools proclaim unruly false conclusions as broad-mindedness, a “great doctrine of synthesis,” and brand true *siddhānta* as bigotry and narrowness.
+
+## 91
+
+> Subheading: Kṛṣṇa cannot give Himself in return for the *gopīs'* service in *madhura-rasa*, and so He is in their debt —
+
+## 92
+
+> Subheading: Kṛṣṇa's debt for the *gopīs'* *prema* can never be repaid —
+
+## 90–92
+
+See Ādi 4.177–180.
+
 ---
 
 [^63-1]: *Manaḥ-śikṣā* 2.
