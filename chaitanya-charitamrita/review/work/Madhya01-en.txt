@@ -1332,3 +1332,197 @@ fn: Edition heading: “After the six years, the remaining eighteen years — li
 w: every year  come  there  of Gauḍa  the devotees
 w: four  months  last  with the Lord  together  the meeting
 tr: Every year the devotees of Gauḍa came there and stayed four months in the Lord’s company.
+
+## 251
+w: constantly  dancing and singing  pastimes of kīrtana
+w: down to the caṇḍāla  loving devotion  He made  manifest
+tr: Constantly He sang and danced in the joy of kīrtana, and revealed loving devotion (prema-bhakti) to all, even to the caṇḍālas.
+
+## 252
+w: the Paṇḍita Gosāñi  made  in Nīlācala  residence
+w: Vakreśvara  Dāmodara  Śaṅkara  Haridāsa
+tr: Gadādhara Paṇḍita Gosāñi lived in Nīlācala, as did Vakreśvara, Dāmodara, Śaṅkara and Haridāsa.
+fn: Edition heading: “Śrī Gadādhara’s vow to stay in the Kṣetra (*kṣetra-sannyāsa*), and the devotees who lived in Purī”.
+
+## 253
+w: Jagadānanda  Bhavānanda  Govinda  Kāśīśvara
+w: Paramānanda Purī  and  Svarūpa Dāmodara
+tr: Jagadānanda, Bhavānanda, Govinda, Kāśīśvara, Paramānanda Purī and Svarūpa Dāmodara lived there too.
+fn: The second line is the same as Ādi 10.125. The Gauḍīya Maṭha edition reads *bhavānanda*: Bhavānanda Rāya, the father of Rāmānanda Rāya.
+
+## 254
+w: residents of the Kṣetra  Rāmānanda  Rāya  and others
+w: with the Lord  these  all  made  constant  stay
+tr: Rāmānanda Rāya and the other residents of the Kṣetra all remained constantly with the Lord.
+
+## 255–256
+w: Advaita  Nityānanda  Mukunda  Śrīvāsa
+w: Vidyānidhi  Vāsudeva  Murāri  all the servants
+w: every year  come  together  stay  four months
+w: them all  taking  the Lord’s  various  pastimes
+tr: Advaita, Nityānanda, Mukunda, Śrīvāsa, Vidyānidhi, Vāsudeva, Murāri and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.
+
+## 257
+w: of Haridāsa  the attainment of perfection  wonderful  that  all
+w: Himself  Mahāprabhu  whose  held  great festival
+tr: Haridāsa’s attainment of perfection — all of it was wonderful; Mahāprabhu Himself held a great festival in his honour.
+fn: *Anubhāṣya*: on the passing of Ṭhākura Haridāsa, see Antya, ch. 11.
+
+## 258
+w: then  of Rūpa Gosāñi  the return
+w: his  in the heart  made  the Lord  the infusion of power
+tr: Then Rūpa Gosāñi came again, and the Lord infused His power into his heart.
+fn: *Anubhāṣya*: this is the infusion of the *cit-śakti*, the transcendental potency; without it, or when the *māyā-śakti* is infused, only the inclination to enjoy grows (see Antya, ch. 1).
+
+## 259
+w: then  Choṭa Haridāsa  the Lord  gave  punishment
+w: Dāmodara Paṇḍita  gave  to the Lord  punishment by words
+tr: Then the Lord punished Choṭa Haridāsa, and Dāmodara Paṇḍita “punished” the Lord with words.
+fn: *Anubhāṣya*: Dāmodara warned the Lord that the ignorant, not understanding Him, would criticise Him — this is the “punishment by words”; in the devotees’ judgement these are only words that look like punishment (see Antya, chs. 2–3).
+
+## 260
+w: then  of Sanātana Gosāñi  the return
+w: in the month of Jyaiṣṭha  the Lord  him  made  a test
+tr: Then Sanātana Gosāñi came again, and in the month of Jyaiṣṭha the Lord tested him.
+
+## 261
+w: pleased  being  the Lord  him  sent  to Vṛndāvana
+w: from Advaita’s  hand  the Lord’s  wonderful  meal
+tr: Pleased with him, the Lord sent him to Vṛndāvana. Then came the Lord’s wonderful meal from Advaita’s own hand.
+
+## 262
+w: with Nityānanda  counsel  taking  in private
+w: Him  He sent  to Gauḍa  prema  to preach
+tr: After consulting Nityānanda in private, He sent Him to Gauḍa to preach *prema*.
+
+## 263
+w: then  indeed  Vallabha  Bhaṭṭa  the Lord  met
+w: of Kṛṣṇa’s name  the meaning  the Lord  to him  told
+tr: Then Vallabha Bhaṭṭa met the Lord, and the Lord explained to him the meaning of Kṛṣṇa’s name.
+
+## 264
+w: Pradyumna  Miśra  the Lord  at Rāmānanda’s place
+w: Kṛṣṇa-kathā  made him hear  telling  his  qualities
+tr: Telling Pradyumna Miśra of Rāmānanda’s qualities, the Lord had him hear talks about Kṛṣṇa from Rāmānanda.
+fn: Edition heading: “Rāya Rāmānanda, a Vaiṣṇava ācārya though not a brāhmaṇa by birth, is accepted as guru by Pradyumna Miśra, a brāhmaṇa by birth” (see Antya, ch. 5).
+
+## 265
+w: Gopīnātha  Paṭṭanāyaka  Rāmānanda’s brother
+w: the king  was about to kill  the Lord  became  the savior
+tr: Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, was about to be put to death by the king, and the Lord became his savior.
+
+## 266
+w: for fear of Rāmacandra Purī  His food  He reduced
+w: of the Vaiṣṇavas  the sorrow  seeing  half  He kept
+tr: For fear of Rāmacandra Purī He cut down His meals, but seeing the Vaiṣṇavas’ sorrow He kept to half His former portion.
+
+## 267
+w: of the universe  within  are  fourteen  worlds
+w: in the fourteen worlds  dwell  all  living beings
+tr: Within the universe are fourteen worlds, and in them dwell countless living beings.
+fn: Edition heading: “The deliverance of countless living beings of the universe through the sight of the Lord”.
+
+## 268
+w: human  form  assuming  of pilgrims  in the guise
+w: the Lord’s  sight  have  coming  to Nīlācala
+tr: All of them took human form and came to Nīlācala in the guise of pilgrims to see the Lord.
+
+## 269
+w: one  day  Śrīvāsa and others  all  the devotees
+w: of Mahāprabhu  the qualities  singing  perform  kīrtana
+tr: One day Śrīvāsa and all the other devotees held *kīrtana*, singing of Mahāprabhu’s qualities.
+
+## 270
+w: hearing  to the devotees  He says  angry  in words
+w: Kṛṣṇa’s name and qualities  leaving aside  what  do you do  in kīrtana
+tr: Hearing this, the Lord spoke to the devotees in angry words: “Leaving aside Kṛṣṇa’s names and qualities, what are you singing in your kīrtana?
+fn: Edition heading (to 269): “The Lord’s reproach and show of anger because Śrīvāsa and the other devotees sing of Gaura, and His order to sing of Kṛṣṇa”.
+
+## 271
+w: insolence  to do  has become  of all  the mind
+w: independent  becoming  all  you will ruin  the world
+tr: All of you have set your minds on insolence; acting independently, you will ruin the world!”
+
+## 272
+w: in the ten directions  millions  upon millions  people  at that  time
+w: glory to Kṛṣṇa Caitanya  saying  make  a tumult
+tr: At that very time millions upon millions of people on all sides raised a tumult, crying, “Glory to Kṛṣṇa Caitanya!
+
+## 273
+w: glory  glory  to Mahāprabhu  the son of the king of Vraja
+w: the world  to deliver  O Lord  Your  descent
+tr: Glory, glory to Mahāprabhu, the son of the king of Vraja! O Lord, You have descended to deliver the world.
+
+## 274
+w: from far away  from  we have come  being  very  distressed
+w: sight  giving  O Lord  make  us fulfilled
+tr: We have come from very far away in great distress. O Lord, grant us Your sight and fulfil our lives!”
+
+## 275
+w: hearing  of the people  the humility  melted  His heart
+w: outside  coming  sight  gave  the merciful Lord
+tr: Hearing the people’s humble plea, the merciful Lord’s heart melted; He came outside and let them see Him.
+
+## 276
+w: arms  raising  says  the Lord  say  Hari  Hari
+w: arose  the sound of Śrī Hari  the four directions  filling
+tr: Raising His arms, the Lord said, “Say ‘Hari! Hari!’” — and the sound of Śrī Hari’s name arose, filling all four directions.
+
+## 277
+w: the Lord  seeing  in love  the people  joyful  at heart
+w: the Lord  God  calling  they offer  praise
+tr: Seeing the Lord, the people were filled with love and joy; calling Him God, they offered Him praise.
+
+## 278
+w: the praise  hearing  to the Lord  says  Śrīnivāsa
+w: at home  hidden  You are  why  outside  revealed
+tr: Hearing their praise, Śrīnivāsa said to the Lord: “At home You stay hidden — why reveal Yourself outside?
+
+## 279
+w: who  taught  these  people  they say  what  words
+w: of all these  the mouths  cover  giving  Your own  hand
+tr: Who taught these people? What are they saying? Cover all their mouths with Your own hand!
+
+## 280
+w: the sun  as if  rising  having done  wishes  to hide
+w: to understand  not  we can  Your  such  conduct
+tr: It is as if the sun, having risen, wished to hide. We cannot understand such behaviour of Yours.”
+
+## 281
+w: the Lord  says  Śrīnivāsa  give up  mockery
+w: all  together  you make  Me  how much  humiliation
+tr: The Lord said: “Śrīnivāsa, stop this mockery. All of you together heap humiliation on Me.”
+fn: Edition heading: “The Lord’s embarrassment and His feigned reproach of Śrīvāsa”. *Amṛta-pravāha-bhāṣya*: some manuscripts read instead, “You do all that pains Me.”
+
+## 282
+w: thus  saying  to the people  making  of an auspicious glance  the gift
+w: inside  He went  of the people  fulfilled  became  the desire
+tr: Saying this, He bestowed His auspicious glance on the people and went inside, and the people’s desire was fulfilled.
+
+## 283
+w: Raghunātha Dāsa  to Nityānanda  went
+w: the festival of flat rice and yogurt  right there  held
+tr: Raghunātha dāsa went to Nityānanda and there held the festival of flat rice and yogurt.
+fn: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His associates at Pānihāṭi”.
+
+## 284
+w: His  permission  taking  went  to the Lord’s  feet
+w: the Lord  him  entrusted  of Svarūpa  to the care
+tr: With Nityānanda’s permission he went to the Lord’s feet, and the Lord entrusted him to Svarūpa’s care.
+fn: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali*, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
+
+## 285
+w: of Brahmānanda Bhāratī  He removed  the garment of skin
+w: in this  way  pastimes  He did  six  years
+tr: He made Brahmānanda Bhāratī give up his garment of skin. In this way He enjoyed His pastimes for six years.
+
+## 286
+w: this  indeed  I have told  of the Madhya-līlā  the sūtras
+w: of the last  twelve  years  hear  the account
+tr: Thus I have told the *sūtras* of the Madhya-līlā. Now hear the account of the last twelve years.
+fn: Edition heading: “Of the eighteen years, leaving aside six, the pastimes of the last twelve years will be described in sūtras later”. *Anubhāṣya*: the author gives the sūtras of the last twelve years in the second chapter, and then describes the Madhya- and Antya-līlā step by step in detail (cf. Antya 1.10–11).
+
+## 287
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

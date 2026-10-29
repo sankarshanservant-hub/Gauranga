@@ -2568,6 +2568,373 @@ four  months  last  with the Lord  together  the meeting
 
 (250) Every year the devotees of Gauḍa came there and stayed four months in the Lord’s company.
 
+নিরন্তর নৃত্যগীত কীর্ত্তন-বিলাস ৷  
+আ-চণ্ডালে প্রেমভক্তি করিলা প্রকাশ ॥ ২৫১ ॥
+
+nirantara nṛtya-gīta kīrtana-vilāsa  
+constantly  dancing and singing  pastimes of kīrtana  
+ā-caṇḍāle prema-bhakti karilā prakāśa  
+down to the caṇḍāla  loving devotion  He made  manifest
+
+(251) Constantly He sang and danced in the joy of kīrtana, and revealed loving devotion (prema-bhakti) to all, even to the caṇḍālas.
+
+পণ্ডিত-গোসাঞি কৈল নীলাচলে বাস ৷  
+বক্রেশ্বর, দামোদর, শঙ্কর, হরিদাস ॥ ২৫২ ॥
+
+paṇḍita-gosāñi kaila nīlācale vāsa  
+the Paṇḍita Gosāñi  made  in Nīlācala  residence  
+vakreśvara, dāmodara, śaṅkara, haridāsa  
+Vakreśvara  Dāmodara  Śaṅkara  Haridāsa
+
+(252) Gadādhara Paṇḍita Gosāñi lived in Nīlācala, as did Vakreśvara, Dāmodara, Śaṅkara and Haridāsa.[^51]
+
+জগদানন্দ, ভবানন্দ, গোবিন্দ, কাশীশ্বর ৷  
+পরমানন্দপুরী, আর স্বরূপ-দামোদর ॥ ২৫৩ ॥
+
+jagadānanda, bhavānanda, govinda, kāśīśvara  
+Jagadānanda  Bhavānanda  Govinda  Kāśīśvara  
+paramānanda-purī, āra svarūpa-dāmodara  
+Paramānanda Purī  and  Svarūpa Dāmodara
+
+(253) Jagadānanda, Bhavānanda, Govinda, Kāśīśvara, Paramānanda Purī and Svarūpa Dāmodara lived there too.[^52]
+
+ক্ষেত্রবাসী রামানন্দ রায় প্রভৃতি ৷  
+প্রভুসঙ্গে এই সব কৈল নিত্য স্থিতি ॥ ২৫৪ ॥
+
+kṣetra-vāsī rāmānanda rāya prabhṛti  
+residents of the Kṣetra  Rāmānanda  Rāya  and others  
+prabhu-saṅge ei saba kaila nitya sthiti  
+with the Lord  these  all  made  constant  stay
+
+(254) Rāmānanda Rāya and the other residents of the Kṣetra all remained constantly with the Lord.
+
+অদ্বৈত, নিত্যানন্দ, মুকুন্দ, শ্রীবাস ৷  
+বিদ্যানিধি, বাসুদেব, মুরারি, — যত দাস ॥ ২৫৫ ॥
+
+প্রতিবর্ষে আইসে সঙ্গে, রহে চারিমাস ৷  
+তাঁ-সবা লঞা প্রভুর বিবিধ বিলাস ॥ ২৫৬ ॥
+
+advaita, nityānanda, mukunda, śrīvāsa  
+Advaita  Nityānanda  Mukunda  Śrīvāsa  
+vidyānidhi, vāsudeva, murāri, — yata dāsa  
+Vidyānidhi  Vāsudeva  Murāri  all the servants  
+prativarṣe āise saṅge, rahe cāri-māsa  
+every year  come  together  stay  four months  
+tām̐-sabā lañā prabhura vividha vilāsa  
+them all  taking  the Lord’s  various  pastimes
+
+(255–256) Advaita, Nityānanda, Mukunda, Śrīvāsa, Vidyānidhi, Vāsudeva, Murāri and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.
+
+হরিদাসের সিদ্ধিপ্রাপ্তি, — অদ্ভুত সে সব ৷  
+আপনি মহাপ্রভু যাঁর কৈল মহোৎসব ॥ ২৫৭ ॥
+
+haridāsera siddhi-prāpti, — adbhuta se saba  
+of Haridāsa  the attainment of perfection  wonderful  that  all  
+āpani mahāprabhu yām̐ra kaila mahotsava  
+Himself  Mahāprabhu  whose  held  great festival
+
+(257) Haridāsa’s attainment of perfection — all of it was wonderful; Mahāprabhu Himself held a great festival in his honour.[^53]
+
+তবে রূপ-গোসাঞির পুনরাগমন ৷  
+তাঁহার হৃদয়ে কৈল প্রভু শক্তি-সঞ্চারণ ॥ ২৫৮ ॥
+
+tabe rūpa-gosāñira punar-āgamana  
+then  of Rūpa Gosāñi  the return  
+tām̐hāra hṛdaye kaila prabhu śakti-sañcāraṇa  
+his  in the heart  made  the Lord  the infusion of power
+
+(258) Then Rūpa Gosāñi came again, and the Lord infused His power into his heart.[^54]
+
+তবে ছোট হরিদাসে প্রভু কৈল দণ্ড ৷  
+দামোদর-পণ্ডিত কৈল প্রভুকে বাক্য-দণ্ড ॥ ২৫৯ ॥
+
+tabe choṭa haridāse prabhu kaila daṇḍa  
+then  Choṭa Haridāsa  the Lord  gave  punishment  
+dāmodara-paṇḍita kaila prabhuke vākya-daṇḍa  
+Dāmodara Paṇḍita  gave  to the Lord  punishment by words
+
+(259) Then the Lord punished Choṭa Haridāsa, and Dāmodara Paṇḍita “punished” the Lord with words.[^55]
+
+তবে সনাতন-গোসাঞির পুনরাগমন ৷  
+জ্যৈষ্ঠমাসে প্রভু তাঁরে কৈল পরীক্ষণ ॥ ২৬০ ॥
+
+tabe sanātana-gosāñira punar-āgamana  
+then  of Sanātana Gosāñi  the return  
+jyaiṣṭha-māse prabhu tām̐re kaila parīkṣaṇa  
+in the month of Jyaiṣṭha  the Lord  him  made  a test
+
+(260) Then Sanātana Gosāñi came again, and in the month of Jyaiṣṭha the Lord tested him.
+
+তুষ্ট হঞা প্রভু তাঁরে পাঠাইলা বৃন্দাবন ৷  
+অদ্বৈতের হস্তে প্রভুর অদ্ভুত ভোজন ॥ ২৬১ ॥
+
+tuṣṭa hañā prabhu tām̐re pāṭhāilā vṛndāvana  
+pleased  being  the Lord  him  sent  to Vṛndāvana  
+advaitera haste prabhura adbhuta bhojana  
+from Advaita’s  hand  the Lord’s  wonderful  meal
+
+(261) Pleased with him, the Lord sent him to Vṛndāvana. Then came the Lord’s wonderful meal from Advaita’s own hand.
+
+নিত্যানন্দ-সঙ্গে যুক্তি করিয়া নিভৃতে ৷  
+তাঁরে পাঠাইলা গৌড়ে প্রেম প্রচারিতে ॥ ২৬২ ॥
+
+nityānanda-saṅge yukti kariyā nibhṛte  
+with Nityānanda  counsel  taking  in private  
+tām̐re pāṭhāilā gauḍe prema pracārite  
+Him  He sent  to Gauḍa  prema  to preach
+
+(262) After consulting Nityānanda in private, He sent Him to Gauḍa to preach *prema*.
+
+তবে ত’ বল্লভ ভট্ট প্রভুরে মিলিলা ৷  
+কৃষ্ণনামের অর্থ প্রভু তাঁহারে কহিলা ॥ ২৬৩ ॥
+
+tabe ta’ vallabha bhaṭṭa prabhure mililā  
+then  indeed  Vallabha  Bhaṭṭa  the Lord  met  
+kṛṣṇa-nāmera artha prabhu tām̐hāre kahilā  
+of Kṛṣṇa’s name  the meaning  the Lord  to him  told
+
+(263) Then Vallabha Bhaṭṭa met the Lord, and the Lord explained to him the meaning of Kṛṣṇa’s name.
+
+প্রদ্যুম্ন মিশ্রেরে প্রভু রামানন্দ-স্থানে ৷  
+কৃষ্ণকথা শুনাইল কহি’ তাঁর গুণে ॥ ২৬৪ ॥
+
+pradyumna miśrere prabhu rāmānanda-sthāne  
+Pradyumna  Miśra  the Lord  at Rāmānanda’s place  
+kṛṣṇa-kathā śunāila kahi’ tām̐ra guṇe  
+Kṛṣṇa-kathā  made him hear  telling  his  qualities
+
+(264) Telling Pradyumna Miśra of Rāmānanda’s qualities, the Lord had him hear talks about Kṛṣṇa from Rāmānanda.[^56]
+
+গোপীনাথ পট্টনায়ক — রামানন্দ-ভ্রাতা ৷  
+রাজা মারিতেছিল, প্রভু হৈল ত্রাতা ॥ ২৬৫ ॥
+
+gopīnātha paṭṭanāyaka — rāmānanda-bhrātā  
+Gopīnātha  Paṭṭanāyaka  Rāmānanda’s brother  
+rājā māritechila, prabhu haila trātā  
+the king  was about to kill  the Lord  became  the savior
+
+(265) Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, was about to be put to death by the king, and the Lord became his savior.
+
+রামচন্দ্রপুরী-ভয়ে ভিক্ষা ঘাটাইল ৷  
+বৈষ্ণবের দুঃখ দেখি’ অর্দ্ধেক রাখিল ॥ ২৬৬ ॥
+
+rāmacandra-purī-bhaye bhikṣā ghāṭāila  
+for fear of Rāmacandra Purī  His food  He reduced  
+vaiṣṇavera duḥkha dekhi’ ardheka rākhila  
+of the Vaiṣṇavas  the sorrow  seeing  half  He kept
+
+(266) For fear of Rāmacandra Purī He cut down His meals, but seeing the Vaiṣṇavas’ sorrow He kept to half His former portion.
+
+ব্রহ্মাণ্ড-ভিতরে হয় চৌদ্দ ভুবন ৷  
+চৌদ্দভুবনে বৈসে যত জীবগণ ॥ ২৬৭ ॥
+
+brahmāṇḍa-bhitare haya caudda bhuvana  
+of the universe  within  are  fourteen  worlds  
+caudda-bhuvane vaise yata jīva-gaṇa  
+in the fourteen worlds  dwell  all  living beings
+
+(267) Within the universe are fourteen worlds, and in them dwell countless living beings.[^57]
+
+মনুষ্যের বেশ ধরি’ যাত্রিকের ছলে ৷  
+প্রভুর দর্শন করে আসি’ নীলাচলে ॥ ২৬৮ ॥
+
+manuṣyera veśa dhari’ yātrikera chale  
+human  form  assuming  of pilgrims  in the guise  
+prabhura darśana kare āsi’ nīlācale  
+the Lord’s  sight  have  coming  to Nīlācala
+
+(268) All of them took human form and came to Nīlācala in the guise of pilgrims to see the Lord.
+
+একদিন শ্রীবাসাদি যত ভক্তগণ ৷  
+মহাপ্রভুর গুণ গাঞা করেন কীর্ত্তন ॥ ২৬৯ ॥
+
+eka dina śrīvāsādi yata bhakta-gaṇa  
+one  day  Śrīvāsa and others  all  the devotees  
+mahāprabhura guṇa gāñā karena kīrtana  
+of Mahāprabhu  the qualities  singing  perform  kīrtana
+
+(269) One day Śrīvāsa and all the other devotees held *kīrtana*, singing of Mahāprabhu’s qualities.
+
+শুনি’ ভক্তগণে কহে সক্রোধ বচনে ৷  
+“কৃষ্ণ-নাম-গুণ ছাড়ি’ কি কর কীর্ত্তনে ॥ ২৭০ ॥
+
+śuni’ bhakta-gaṇe kahe sa-krodha vacane  
+hearing  to the devotees  He says  angry  in words  
+kṛṣṇa-nāma-guṇa chāḍi’ ki kara kīrtane  
+Kṛṣṇa’s name and qualities  leaving aside  what  do you do  in kīrtana
+
+(270) Hearing this, the Lord spoke to the devotees in angry words: “Leaving aside Kṛṣṇa’s names and qualities, what are you singing in your kīrtana?[^58]
+
+ঔদ্ধত্য করিতে হৈল সবাকার মন ৷  
+স্বতন্ত্র হইয়া সবে নাশা’বে ভুবন ॥” ॥ ২৭১ ॥
+
+auddhatya karite haila sabākāra mana  
+insolence  to do  has become  of all  the mind  
+svatantra ha-iyā sabe nāśā’be bhuvana  
+independent  becoming  all  you will ruin  the world
+
+(271) All of you have set your minds on insolence; acting independently, you will ruin the world!”
+
+দশদিকে কোটি কোটি লোক হেন কালে ৷  
+‘জয় কৃষ্ণচৈতন্য’ বলি’ করে কোলাহলে ॥ ২৭২ ॥
+
+daśa-dike koṭi koṭi loka hena kāle  
+in the ten directions  millions  upon millions  people  at that  time  
+‘jaya kṛṣṇa-caitanya’ bali’ kare kolāhale  
+glory to Kṛṣṇa Caitanya  saying  make  a tumult
+
+(272) At that very time millions upon millions of people on all sides raised a tumult, crying, “Glory to Kṛṣṇa Caitanya!
+
+জয় জয় মহাপ্রভু — ব্রজেন্দ্রকুমার ৷  
+জগৎ তারিতে প্রভু, তোমার অবতার ॥ ২৭৩ ॥
+
+jaya jaya mahāprabhu — vrajendra-kumāra  
+glory  glory  to Mahāprabhu  the son of the king of Vraja  
+jagat tārite prabhu, tomāra avatāra  
+the world  to deliver  O Lord  Your  descent
+
+(273) Glory, glory to Mahāprabhu, the son of the king of Vraja! O Lord, You have descended to deliver the world.
+
+বহুদূর হৈতে আইনু হঞা বড় আর্ত্ত ৷  
+দরশন দিয়া প্রভু করহ কৃতার্থ ॥ ২৭৪ ॥
+
+bahu-dūra haite āinu hañā baḍa ārta  
+from far away  from  we have come  being  very  distressed  
+daraśana diyā prabhu karaha kṛtārtha  
+sight  giving  O Lord  make  us fulfilled
+
+(274) We have come from very far away in great distress. O Lord, grant us Your sight and fulfil our lives!”
+
+শুনিয়া লোকের দৈন্য দ্রবিলা হৃদয় ৷  
+বাহিরে আসি’ দরশন দিলা দয়াময় ॥ ২৭৫ ॥
+
+śuniyā lokera dainya dravilā hṛdaya  
+hearing  of the people  the humility  melted  His heart  
+bāhire āsi’ daraśana dilā dayā-maya  
+outside  coming  sight  gave  the merciful Lord
+
+(275) Hearing the people’s humble plea, the merciful Lord’s heart melted; He came outside and let them see Him.
+
+বাহু তুলি’ বলে প্রভু, — বল, ‘হরি’ ‘হরি’ ৷  
+উঠিল শ্রীহরিধ্বনি চতুর্দ্দিক্ ভরি’ ॥ ২৭৬ ॥
+
+bāhu tuli’ bale prabhu, — bala, ‘hari’ ‘hari’  
+arms  raising  says  the Lord  say  Hari  Hari  
+uṭhila śrī-hari-dhvani catur-dik bhari’  
+arose  the sound of Śrī Hari  the four directions  filling
+
+(276) Raising His arms, the Lord said, “Say ‘Hari! Hari!’” — and the sound of Śrī Hari’s name arose, filling all four directions.
+
+প্রভু দেখি’ প্রেমে লোক আনন্দিত মন ৷  
+প্রভুকে ঈশ্বর বলি’ করয়ে স্তবন ॥ ২৭৭ ॥
+
+prabhu dekhi’ preme loka ānandita mana  
+the Lord  seeing  in love  the people  joyful  at heart  
+prabhuke īśvara bali’ karaye stavana  
+the Lord  God  calling  they offer  praise
+
+(277) Seeing the Lord, the people were filled with love and joy; calling Him God, they offered Him praise.
+
+স্তব শুনি’ প্রভুকে কহেন শ্রীনিবাস ৷  
+“ঘরে গুপ্ত হও, কেনে বাহিরে প্রকাশ ॥ ২৭৮ ॥
+
+stava śuni’ prabhuke kahena śrīnivāsa  
+the praise  hearing  to the Lord  says  Śrīnivāsa  
+ghare gupta hao, kene bāhire prakāśa  
+at home  hidden  You are  why  outside  revealed
+
+(278) Hearing their praise, Śrīnivāsa said to the Lord: “At home You stay hidden — why reveal Yourself outside?
+
+কে শিখাল এই লোকে, কহে কোন্ বাত ৷  
+ইহা-সবার মুখ ঢাক দিয়া নিজ হাত ॥ ২৭৯ ॥
+
+ke śikhāla ei loke, kahe kon bāta  
+who  taught  these  people  they say  what  words  
+ihā-sabāra mukha ḍhāka diyā nija hāta  
+of all these  the mouths  cover  giving  Your own  hand
+
+(279) Who taught these people? What are they saying? Cover all their mouths with Your own hand!
+
+সূর্য্য যেন উদয় করি’ চাহে লুকাইতে ৷  
+বুঝিতে না পারি তোমার ঐছন চরিতে” ॥ ২৮০ ॥
+
+sūrya yena udaya kari’ cāhe lukāite  
+the sun  as if  rising  having done  wishes  to hide  
+bujhite nā pāri tomāra aichana carite  
+to understand  not  we can  Your  such  conduct
+
+(280) It is as if the sun, having risen, wished to hide. We cannot understand such behaviour of Yours.”
+
+প্রভু কহেন, — শ্রীনিবাস, ছাড় বিড়ম্বনা ৷  
+সবে মেলি’ কর মোরে কতেক লাঞ্ছনা ॥ ২৮১ ॥
+
+prabhu kahena, — śrīnivāsa, chāḍa viḍambanā  
+the Lord  says  Śrīnivāsa  give up  mockery  
+sabe meli’ kara more kateka lāñchanā  
+all  together  you make  Me  how much  humiliation
+
+(281) The Lord said: “Śrīnivāsa, stop this mockery. All of you together heap humiliation on Me.”[^59]
+
+এত বলি’ লোকে করি’ শুভদৃষ্টি দান ৷  
+অভ্যন্তরে গেলা, লোকের পূর্ণ হৈল কাম ॥ ২৮২ ॥
+
+eta bali’ loke kari’ śubha-dṛṣṭi dāna  
+thus  saying  to the people  making  of an auspicious glance  the gift  
+abhyantare gelā, lokera pūrṇa haila kāma  
+inside  He went  of the people  fulfilled  became  the desire
+
+(282) Saying this, He bestowed His auspicious glance on the people and went inside, and the people’s desire was fulfilled.
+
+রঘুনাথ-দাস নিত্যানন্দ-পাশে গেলা ৷  
+চিড়া-দধি-মহোৎসব তাঁহাই করিলা ॥ ২৮৩ ॥
+
+raghunātha-dāsa nityānanda-pāśe gelā  
+Raghunātha Dāsa  to Nityānanda  went  
+ciḍā-dadhi-mahotsava tām̐hāi karilā  
+the festival of flat rice and yogurt  right there  held
+
+(283) Raghunātha dāsa went to Nityānanda and there held the festival of flat rice and yogurt.[^60]
+
+তাঁর আজ্ঞা লঞা গেলা প্রভুর চরণে ৷  
+প্রভু তাঁরে সমর্পিলা স্বরূপের স্থানে ॥ ২৮৪ ॥
+
+tām̐ra ājñā lañā gelā prabhura caraṇe  
+His  permission  taking  went  to the Lord’s  feet  
+prabhu tām̐re samarpilā svarūpera sthāne  
+the Lord  him  entrusted  of Svarūpa  to the care
+
+(284) With Nityānanda’s permission he went to the Lord’s feet, and the Lord entrusted him to Svarūpa’s care.[^61]
+
+ব্রহ্মানন্দ-ভারতীর ঘুচাইল চর্ম্মাম্বর ৷  
+এই মত লীলা কৈল ছয় বৎসর ॥ ২৮৫ ॥
+
+brahmānanda-bhāratīra ghucāila carmāmbara  
+of Brahmānanda Bhāratī  He removed  the garment of skin  
+ei mata līlā kaila chaya vatsara  
+in this  way  pastimes  He did  six  years
+
+(285) He made Brahmānanda Bhāratī give up his garment of skin. In this way He enjoyed His pastimes for six years.
+
+এই ত’ কহিল মধ্যলীলার সূত্রগণ ৷  
+শেষ দ্বাদশ বৎসরের শুন বিবরণ ॥ ২৮৬ ॥
+
+ei ta’ kahila madhya-līlāra sūtra-gaṇa  
+this  indeed  I have told  of the Madhya-līlā  the sūtras  
+śeṣa dvādaśa vatsarera śuna vivaraṇa  
+of the last  twelve  years  hear  the account
+
+(286) Thus I have told the *sūtras* of the Madhya-līlā. Now hear the account of the last twelve years.[^62]
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৮৭ ॥
+
+śrī rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(287) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: The same verse as Ādi 1.2 and 1.84; translation as there.
@@ -2669,3 +3036,27 @@ four  months  last  with the Lord  together  the meeting
 [^49]: Edition heading: “The Lord sends Sanātana to the Mathurā region and delivers Prakāśānanda”.
 
 [^50]: Edition heading: “After the six years, the remaining eighteen years — living in Purī alone”.
+
+[^51]: Edition heading: “Śrī Gadādhara’s vow to stay in the Kṣetra (*kṣetra-sannyāsa*), and the devotees who lived in Purī”.
+
+[^52]: The second line is the same as Ādi 10.125. The Gauḍīya Maṭha edition reads *bhavānanda*: Bhavānanda Rāya, the father of Rāmānanda Rāya.
+
+[^53]: *Anubhāṣya*: on the passing of Ṭhākura Haridāsa, see Antya, ch. 11.
+
+[^54]: *Anubhāṣya*: this is the infusion of the *cit-śakti*, the transcendental potency; without it, or when the *māyā-śakti* is infused, only the inclination to enjoy grows (see Antya, ch. 1).
+
+[^55]: *Anubhāṣya*: Dāmodara warned the Lord that the ignorant, not understanding Him, would criticise Him — this is the “punishment by words”; in the devotees’ judgement these are only words that look like punishment (see Antya, chs. 2–3).
+
+[^56]: Edition heading: “Rāya Rāmānanda, a Vaiṣṇava ācārya though not a brāhmaṇa by birth, is accepted as guru by Pradyumna Miśra, a brāhmaṇa by birth” (see Antya, ch. 5).
+
+[^57]: Edition heading: “The deliverance of countless living beings of the universe through the sight of the Lord”.
+
+[^58]: Edition heading (to 269): “The Lord’s reproach and show of anger because Śrīvāsa and the other devotees sing of Gaura, and His order to sing of Kṛṣṇa”.
+
+[^59]: Edition heading: “The Lord’s embarrassment and His feigned reproach of Śrīvāsa”. *Amṛta-pravāha-bhāṣya*: some manuscripts read instead, “You do all that pains Me.”
+
+[^60]: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His associates at Pānihāṭi”.
+
+[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali*, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
+
+[^62]: Edition heading: “Of the eighteen years, leaving aside six, the pastimes of the last twelve years will be described in sūtras later”. *Anubhāṣya*: the author gives the sūtras of the last twelve years in the second chapter, and then describes the Madhya- and Antya-līlā step by step in detail (cf. Antya 1.10–11).
