@@ -190,6 +190,32 @@ The words of Śrī Bhagavān answering Uddhava, who wished to know the marks of 
 
 Śrī Raghunātha dāsa Gosvāmī Prabhu says in his own *Manaḥ-śikṣā*: “Do not perform either the *dharma* or the *adharma* that the *śrutis* describe; here in Vraja render abundant service to Rādhā and Kṛṣṇa…”[^63-1] “When Bhagavān, on whom one meditates within, shows someone His mercy, that person gives up a mind fixed on worldly and Vedic ways.” (*Śrīmad-Bhāgavatam* 4.29.46) In this connection see *Bhāg.* 1.5.17.
 
+## 64
+
+> Subheading: (4) Devotion mixed with knowledge is not pure devotion —
+
+In the realization of a *jīva* who has risen above *karma*, his “I” (*asmitā*) abides in the river Virajā beyond the universe. There the three *guṇas* do not predominate: there is only equilibrium, the unmanifest state. Between Vaikuṇṭha, manifested by the internal potency, and the universe, manifested by the external potency, lie Brahmaloka and the river Virajā. These two places are the shelter of the realization of *jīvas* who are detached from matter and know only material featurelessness. They are not Vaikuṇṭha and lie outside it, and so they are external. A *sādhaka* within the universe who has given up all *dharmas* has no experience of Vaikuṇṭha or Goloka. Therefore such an inclination toward the goal, though it has given up material enjoyment, establishes only the featurelessness of the nonconscious (*acit-nirviśeṣatva*), and so it too is external. Rāmānanda then understood this mood to be an external conception of the goal and cited the evidence that the goal higher than it is devotion mixed with knowledge.
+
+## 65
+
+> Subheading: Only a brāhmaṇa who has gained knowledge of his relationship with the Lord (*sambandha-jñāna*) becomes a Vaiṣṇava by serving Kṛṣṇa —
+
+The words of Śrī Bhagavān to Arjuna:
+
+**brahma-bhūtaḥ** (freed from an awareness confined to the universe and intent on featureless experience) **prasannātmā** (free from the quality of want) **na** **śocati** (does not grieve over material lack), **na** **kāṅkṣati** (does not long for material enjoyment), **sarveṣu** **bhūteṣu** (knowing that all beings are connected with service to Me) **samaḥ** **san**, **parām** (supreme, pure) **mad-bhaktiṁ** **labhate**.
+
+## 66
+
+> Subheading: (5) Only devotion free from knowledge deserves the name of pure devotion —
+
+Even in this state the *asmitā* and its function do not abide in pure Vaikuṇṭha and are not directed toward Vaikuṇṭha, and so this too is external. As long as there is only freedom from subjection to matter, or only an inclination toward pure experience beyond matter, there is no independent and personal realization of the real, true Object. Hence one's own experience and one's own mental disposition face outward. In truth, this is not the goal of the pure *jīva* either. When one imagines featurelessness, all the particulars of *sac-cid-ānanda* lie dormant. And before that, all the reasonings born of imagination have as their purport only meditation on the featureless. Therefore such an imagined state of liberation, intent on the featureless and devoid of the inclination to serve Bhagavān, is also external.
+
+## 67
+
+> Subheading: Only one who has completely surrendered to Kṛṣṇa is a pure devotee, who brings Kṛṣṇa under his control —
+
+Brahmā stole the calves and so on, and for this Śrī Kṛṣṇa crushed his pride. Then Brahmā, taking exclusive shelter of Śrī Kṛṣṇa, offers Him prayers:
+
 ---
 
 [^63-1]: *Manaḥ-śikṣā* 2.

@@ -70,6 +70,16 @@ Hearing this answer, the Lord called it too external and told him to speak of so
 
 It is said in the *Gītā*: “He who, by cultivating knowledge in the form of the doctrine of the nondifferent Brahman, himself becomes serene, free from grief and desire, and equal toward all beings, and who attains the state of Brahman, then obtains supreme devotion to Me.” The purport is this: devotion mixed with *karma* (*karma-miśrā bhakti*) was spoken of earlier, and higher than it is devotion mixed with knowledge.
 
+## 66
+
+Hearing this, the Lord said, “This too is external. Tell Me what lies beyond it.” Rāya said that devotion free from knowledge (*jñāna-śūnyā bhakti*) is the essence of all goals.
+
+## 67
+
+In the *Bhāgavata* Brahmā said to Bhagavān: “O Bhagavān! There are devotees who have completely given up the endeavor of knowledge, the contemplation of undifferentiated Brahman. They hear the narrations about You that flow from the lips of *sādhus*, and they live abiding on the path of the *sādhus* with body, mind and words.[^67-1] In all the three worlds You are hard to attain, yet to them You become easily attainable.”
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”
+
+[^67-1]: The verse is understood differently in its translation: “without changing the outward course of their lives.”
