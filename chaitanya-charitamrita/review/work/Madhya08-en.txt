@@ -1,0 +1,881 @@
+# English translation, Madhya-līlā 8 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya08.txt, .p2.txt), revised against the Bengali and the «Anubhāṣya».
+# Shift 1: verses 1–156; shift 2: 157–312.
+
+## 0
+tr: The Festival of Association with Rāmānanda Rāya
+
+## 1
+w: having infused  named Rāma  of the devotee  into the cloud
+w: of His own  devotion  of the conclusions  of the hosts  the nectars
+w: the ocean Gaura  by these  by him  poured out
+w: of knowing them  the abode of jewels  the state  attains
+tr: Into the cloud that was His devotee named Rāma, the ocean Gaura infused the nectar of the many conclusions on devotion to Himself; and when the cloud poured that nectar out, the ocean itself became a treasury of jewels — the knowledge of those truths.
+fn: *Anubhāṣya*: Śrī Gaurāṅga is Himself the ocean of the nectar of siddhānta. Having filled Rāmānanda, as one fills a cloud, with the nectar of the conclusions on devotion to Himself, He becomes, through that nectar so richly poured out by Rāmānanda, the ocean of the knowledge of these truths.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
+
+## 3
+w: as before  the Lord  onward  journey  made
+w: at the holy place of Jiyaḍa-Nṛsiṁha  after some days  He arrived
+tr: As before, the Lord journeyed on, and after some days He came to the holy place of Jiyaḍa-Nṛsiṁha.
+fn: *Anubhāṣya*: Jiyaḍa-Nṛsiṁha is Siṁhācalam, five miles north of Vizagapatam; the temple of Śrī Nṛsiṁhadeva stands high on the hill.
+
+## 4
+w: Nṛsiṁha  seeing  He made  prostrate  obeisance
+w: absorbed in love  He offered  much  dancing  singing  praise
+tr: Seeing Nṛsiṁha, He fell prostrate before Him, and, absorbed in love, He danced, sang and offered many prayers.
+
+## 5
+w: Śrī Nṛsiṁha  glory  to Nṛsiṁha  glory  glory  to Nṛsiṁha
+w: to the Lord of Prahlāda  glory  of Padmā  of the face  of the lotus  to the bee
+tr: “Śrī Nṛsiṁha! Glory to Nṛsiṁha! Glory, glory to Nṛsiṁha! Glory to the Lord of Prahlāda, the bee at the lotus of Padmā’s face!”
+
+## 6
+w: fierce  though  not fierce  indeed  this
+w: to His own  devotees  the man-lion
+w: like a lion  to its own  cubs
+w: to others  fierce  in might
+tr: “Fierce though He is, this Man-lion is not fierce to His own devotees — like a lion, gentle to its own cubs and fierce in its might to others.” (Śrīdhara Svāmī’s commentary on Śrīmad-Bhāgavatam, 7.9.1)
+fn: Heading of the edition: a verse of the Āgama quoted by Śrīdhara Svāmī in his commentary on *Bhāgavatam* 7.9.1. *Anubhāṣya*: a lion is fierce to others — to elephants and tigers — but gentle to its own cubs; so too Nṛsiṁhadeva, terrible in His might, is tender to His own devotees.
+
+## 7
+w: in this way  various  verses  reciting  praise  He offered
+w: of Nṛsiṁha  the servant  garland  prasāda  bringing  gave
+tr: Reciting many such verses, He offered His praise. Then a servant of Nṛsiṁha brought Him the Deity’s garland and prasāda.
+
+## 8
+w: as before  some  brāhmaṇa  made  an invitation
+w: that  night  there  staying  He made  departure
+tr: As before, a certain brāhmaṇa invited Him. He stayed there that night and then went on.
+
+## 9
+w: in the morning  rising  the Lord  went on  absorbed in love
+w: of directions  of the intermediate directions  no  awareness  night and day
+tr: Rising in the morning, the Lord walked on, absorbed in love; night and day He had no sense of direction.
+
+## 10
+w: as before  Vaiṣṇavas  making  all  the people
+w: on the bank of the Godāvarī  the Lord  arrived  after some days
+tr: As before, He made Vaiṣṇavas of all the people, and after some days the Lord came to the bank of the Godāvarī.
+
+## 11
+w: the Godāvarī  seeing  arose  of the Yamunā  remembrance
+w: on the bank  the forest  seeing  remembrance  arose  of Vṛndāvana
+tr: Seeing the Godāvarī, He remembered the Yamunā; seeing the forest on its bank, He remembered Vṛndāvana.
+
+## 12
+w: in that  forest  for some time  doing  dancing and singing
+w: the Godāvarī  crossing  there  He took  bath
+tr: He danced and sang in that forest for some time; then He crossed the Godāvarī and bathed there.
+
+## 13
+w: the ghāṭa  leaving  some distance away  near the water
+w: sitting  the Lord  does  of Kṛṣṇa’s  names  saṅkīrtana
+tr: Leaving the bathing-place, He sat by the water some distance away and chanted the names of Kṛṣṇa.
+
+## 14
+w: at that time  in a palanquin  riding  Rāmānanda  Rāya
+w: bath  to take  came  music  playing
+tr: Just then Rāmānanda Rāya arrived in a palanquin to bathe, with music playing.
+
+## 15
+w: with him  together  many  came  Vedic  brāhmaṇas
+w: by the rules  performed  he  bathing and the rest  tarpaṇa
+tr: Many Vedic brāhmaṇas came with him. He bathed and offered tarpaṇa and the other rites according to the rules.
+
+## 16
+w: the Lord  him  seeing  knew  this is  Rāmānanda Rāya
+w: him  to meet  of the Lord  the mind  rising  runs
+tr: Seeing him, the Lord knew: “This is Rāmānanda Rāya,” and His heart leapt up and ran out to meet him.
+
+## 17
+w: still  composure  keeping  the Lord  remained  seated
+w: Rāmānanda  came  a wonderful  sannyāsī  seeing
+tr: Still, the Lord kept His composure and remained seated. Seeing this wondrous sannyāsī, Rāmānanda came up to Him.
+
+## 18
+w: to a hundred suns  equal  radiance  dawn-coloured  garment
+w: well-formed  tall  body  lotus  eyes
+tr: His radiance was like that of a hundred suns, His garment the colour of dawn; His body was tall and beautifully formed, His eyes like lotuses.
+
+## 19
+w: seeing  in his  mind  arose  wonder
+w: coming near  he made  prostrate  obeisance
+tr: Seeing Him, Rāmānanda was struck with wonder. He came forward and fell prostrate before Him.
+
+## 20
+w: rising  the Lord  says  rise  say  Kṛṣṇa  Kṛṣṇa
+w: him  to embrace  of the Lord  the heart  longing
+tr: The Lord rose and said, “Get up — say ‘Kṛṣṇa! Kṛṣṇa!’” His heart longed to embrace him.
+
+## 21
+w: still  He asked  you  Rāya  Rāmānanda
+w: he  said  yes  I  servant  a śūdra  lowly
+tr: Still He asked, “Are you Rāya Rāmānanda?” He replied, “Yes, I am Your servant, a lowly śūdra.”
+
+## 22
+w: then  him  made  the Lord  firm  embrace
+w: absorbed in love  Master and servant  both  unconscious
+tr: Then the Lord held him in a firm embrace, and, absorbed in love, Master and servant both lost consciousness.
+
+## 23
+w: natural  love  of both  awakening  made
+w: each other  embracing  both  on the ground  fell
+tr: The love natural to both of them awoke; embracing each other, they fell to the ground.
+fn: *Amṛta-pravāha-bhāṣya*: the love that awoke was the natural love that Rādhā and Kṛṣṇa bear for their friend Viśākhā, and Viśākhā for Them.
+
+## 24
+w: stupor  sweat  tears  trembling  hair standing on end  pallor
+w: of both  in the mouths  one heard  faltering  Kṛṣṇa  the syllables
+tr: Stupor, sweat, tears, trembling, hair standing on end, change of colour — and from the lips of both came the name “Kṛṣṇa” in a faltering voice.
+
+## 25
+w: seeing  of the brāhmaṇas  arose  wonder
+w: Vedic  brāhmaṇas  all  make  reflection
+tr: Seeing this, the brāhmaṇas were amazed, and all those Vedic brāhmaṇas began to reason among themselves:
+
+## 26
+w: this  indeed  of the sannyāsī  splendour  we see  to Brahman  equal
+w: a śūdra  embracing  why  does He  weeping
+tr: “We see that this sannyāsī’s splendour is like that of Brahman. Why does He weep, embracing a śūdra?
+
+## 27
+w: this  mahārāja  a great scholar  grave
+w: of the sannyāsī  by the touch  maddened  became  unsteady
+tr: And this mahārāja is a great scholar and a grave man, yet at the touch of this sannyāsī he has become maddened and lost all composure.”
+
+## 28
+w: in this way  the brāhmaṇas  think  in the mind  to themselves
+w: outsiders  people  seeing  the Lord  made  restraint
+tr: So the brāhmaṇas reflected within themselves. Seeing people who were strangers to such feelings, the Lord restrained Himself.
+fn: *Anubhāṣya*: *vijātīya* — people of another kind. Rāmānanda was an intimate devotee of the Lord, while the brāhmaṇas with him were given to karma and were not even pure devotees. Seeing that they were turned away from Him, the Lord hid the love that had appeared.
+
+## 29
+w: composed  becoming  both  in that  place  sat down
+w: then  smiling  Mahāprabhu  to speak  began
+tr: Growing calm, the two sat down on that spot, and Mahāprabhu, smiling, began to speak.
+
+## 30
+w: Sārvabhauma  Bhaṭṭācārya  told  of your  virtues
+w: you  to meet  Me  made (urge)  earnestly
+tr: “Sārvabhauma Bhaṭṭācārya told Me of your virtues and earnestly urged Me to meet you.
+
+## 31
+w: you  to meet  My  here  coming
+w: good  it was  without effort  I obtained  sight (of you)
+tr: It was to meet you that I came here, and how good it is that I have found you without any effort!”
+
+## 32
+w: Rāya  said  Sārvabhauma  holds  as a servant
+w: even out of sight  for my  welfare  is  careful
+tr: Rāya said, “Sārvabhauma regards me as his servant; even in my absence he is careful of my welfare.
+
+## 33
+w: by his  mercy  I obtained  Your  sight
+w: today  successful  became  my  human birth
+tr: By his mercy I have seen You; today my human birth has borne its fruit.
+
+## 34
+w: to Sārvabhauma  Your  mercy  of it  this  sign
+w: an untouchable  You touched  being  of his  love subject to
+tr: Your mercy to Sārvabhauma is plain from this: yielding to his love, You have touched an untouchable.
+
+## 35
+w: where  You  directly  the Lord  Nārāyaṇa
+w: where  I  a king’s servant  worldly  lowest of śūdras
+tr: Where are You — the Lord Nārāyaṇa Himself — and where am I — a servant of the king, a worldly man, the lowest of śūdras?
+
+## 36
+w: my  touch  not  You showed  disgust  fear of the Vedas
+w: me  to see  You  the Vedas  forbid
+tr: You did not shrink from touching me, nor did You fear the Vedas, though the Vedas forbid You even to see me.
+
+## 37
+w: Your  mercy  You  makes do  a blameworthy deed
+w: directly  the Lord  You  who  knows  Your  heart
+tr: Your mercy makes You do what is condemned. You are the Lord Himself — who can know Your heart?
+
+## 38
+w: me  to deliver  Your  here  coming
+w: supremely compassionate  You  of the fallen  the purifier
+tr: You have come here to deliver me. You are supremely compassionate, the purifier of the fallen.
+
+## 39
+w: of great souls  the nature  this  to deliver  the wretched
+w: own business  not  yet  they go  to their  houses
+tr: This is the nature of great souls: to deliver the wretched. Though they have no business of their own, they still go to their houses.
+
+## 40
+w: of the great  the coming  of people
+w: householders  poor in mind
+w: for the highest good  O Lord
+w: not  otherwise  is meant  ever
+tr: “O Bhagavān, when great souls go to people — to householders of poor understanding — it is for nothing else than their highest good.” (Śrīmad-Bhāgavatam, 10.8.4)
+fn: *Anubhāṣya*: in the *Bhāgavatam* these are the words of Nanda Mahārāja to the sage Garga, who had come to his house, and *bhagavan* there addresses the sage. Great souls, free from pride, do not leave their abodes for their own sake; if they come, it is only for the highest good of householders who cannot leave home. Rāmānanda applies the words to Mahāprabhu.
+
+## 41
+w: with me  together  brāhmaṇas and others  about a thousand  people
+w: at Your  sight  of all  melted  the hearts
+tr: About a thousand people have come with me, brāhmaṇas and others, and at the sight of You all their hearts have melted.
+
+## 42
+w: Kṛṣṇa  Hari  names  I hear  of all  in the mouths
+w: of all  the limbs  thrilling  tears  in the eyes
+tr: I hear the names “Kṛṣṇa” and “Hari” on everyone’s lips; the hair of all stands on end, and their eyes are filled with tears.
+
+## 43
+w: in form  in nature  Your  of the Lord  the signs
+w: in a jīva  not  possible  these  transcendental  qualities
+tr: In form and in nature You bear the marks of the Lord. Such transcendental qualities are not possible in a jīva.”
+
+## 44
+w: the Lord  said  you  the best of great devotees
+w: at your  sight  of all  melted  the hearts
+tr: The Lord said, “You are the best of the great devotees (*mahā-bhāgavata*); it is at the sight of you that all their hearts have melted.
+
+## 45
+w: of others  what  to speak  I  a Māyāvādī  sannyāsī
+w: even I  at your  touch  in love for Kṛṣṇa  float
+tr: What to speak of others — I am a Māyāvādī sannyāsī, yet even I float in love for Kṛṣṇa at your touch.
+
+## 46
+w: this  knowing  hard  My  heart  to purify
+w: Sārvabhauma  told (Me)  you  to meet
+tr: Knowing this, Sārvabhauma told Me to meet you, so that My hard heart might be purified.”
+
+## 47
+w: in this way  both  praise  each other’s  virtues
+w: both  each other’s  at the sight  joyful  in heart
+tr: So the two praised each other’s virtues, their hearts rejoicing at the sight of each other.
+
+## 48
+w: at that time  Vedic  a  Vaiṣṇava  brāhmaṇa
+w: obeisance  making  made  to the Lord  invitation
+tr: Just then a Vedic brāhmaṇa, a Vaiṣṇava, bowed down to the Lord and invited Him for a meal.
+
+## 49
+w: the invitation  He accepted  him  a Vaiṣṇava  knowing
+w: to Rāmānanda  says  the Lord  slightly  smiling
+tr: Knowing him to be a Vaiṣṇava, the Lord accepted his invitation; then, smiling slightly, He said to Rāmānanda:
+
+## 50
+w: from your  mouth  about Kṛṣṇa  talks  to hear  is  desire
+w: again  I may obtain  may  your  sight
+tr: “I long to hear you speak of Kṛṣṇa; let Me see you again.”
+
+## 51
+w: Rāya  said  You came  if  the wretched  to purify
+w: by the mere sight  pure  does not become  my  wicked  heart
+tr: Rāya said, “If You have come to purify a wretch like me, my wicked heart will not become pure merely by seeing You.
+
+## 52
+w: days  five or seven  staying  please make  cleansing
+w: then  pure  becomes  my  this  wicked  mind
+tr: Stay five or seven days and cleanse it; then this wicked mind of mine will become pure.”
+
+## 53
+w: although  separation  for both  to bear  not  possible
+w: still  obeisance  making  departed  Rāmānanda Rāya
+tr: Though neither could bear the separation, Rāmānanda Rāya bowed down and took his leave.
+
+## 54
+w: the Lord  going  in that  brāhmaṇa’s house  meal  took
+w: of the two  in the eagerness  coming  evening  arrived
+tr: The Lord went to that brāhmaṇa’s house and took His meal there; and while both were eagerly waiting, evening came.
+
+## 55
+w: the Lord  bath and duties  having done  is  seated
+w: with one servant  together  Rāya  met (Him)  coming
+tr: The Lord had bathed and performed His evening duties and was sitting, when Rāya came with a single servant to meet Him.
+
+## 56
+w: obeisance  made  Rāya  the Lord  made  embrace
+w: the two  about Kṛṣṇa  talks  speak  in that  place
+tr: Rāya bowed down, the Lord embraced him, and there the two began to speak about Kṛṣṇa.
+
+## 57
+w: the Lord  said  recite  a verse  of the goal  the determination
+w: Rāya  said  by following one’s own dharma  for Viṣṇu  devotion  arises
+tr: The Lord said, “Recite a verse that determines the goal (*sādhya*).” Rāya said, “Devotion to Viṣṇu arises when one follows one’s own *dharma*.
+fn: *Anubhāṣya*: here begins the Lord’s talk with Rāmānanda on the goal and the means (*sādhya* and *sādhana*). The first step is to follow one’s own dharma in the form of *daiva-varṇāśrama* — the beginning of a moral life with faith in God.
+
+## 58
+w: by varṇa and āśrama  conduct  one who keeps
+w: by a person  the Supreme  Person
+w: Viṣṇu  is worshipped  path
+w: not  other  Him  of pleasing  the means
+tr: “The Supreme Person, Viṣṇu, is worshipped by a person who keeps the conduct of *varṇa* and *āśrama*. There is no other path to please Him.” (Viṣṇu Purāṇa, 3.8.9)
+
+## 59
+w: the Lord  said  this  external  further  say  more
+w: Rāya  said  to Kṛṣṇa  of actions  offering  of all goals  the essence
+tr: The Lord said, “This is external. Go further.” Rāya said, “The essence of all goals is to offer one’s actions to Kṛṣṇa.
+
+## 60
+w: what  you do  what  you eat
+w: what  you offer in sacrifice  you give  what
+w: what  austerity you perform  O son of Kuntī
+w: that  do  as an offering to Me
+tr: “Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away and whatever austerity you perform, O son of Kuntī, do it as an offering to Me.” (Bhagavad-gītā, 9.27)
+
+## 61
+w: the Lord  said  this  external  further  say  more
+w: Rāya  said  of one’s own dharma  giving up  this  of the goal  the essence
+tr: The Lord said, “This is external. Go further.” Rāya said, “Giving up one’s own *dharma* — this is the essence of the goal.
+
+## 62
+w: knowing  thus  the merits  the faults
+w: by Me  enjoined  even  one’s own
+w: duties  giving up  who  all
+w: Me  worships  he  and  the best
+tr: “Knowing in this way their merits and faults, he who gives up all his duties, even those I Myself have enjoined, and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam, 11.11.32)
+fn: *Anubhāṣya*: the Lord’s answer to Uddhava about the marks of the sādhu dear to Him; “his duties” are the worldly dharmas of the varṇas and āśramas, which the Lord enjoins as the teacher of Vedic karma.
+
+## 63
+w: all  dharmas  giving up
+w: to Me  alone  for shelter  come
+w: I  you  from all  sins
+w: shall free  do not  grieve
+tr: “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+
+## 64
+w: the Lord  said  this  external  further  say  more
+w: Rāya  said  mixed with knowledge  devotion  of the goal  the essence
+tr: The Lord said, “This is external. Go further.” Rāya said, “Devotion mixed with knowledge is the essence of the goal.
+
+## 65
+w: one who has realized Brahman  serene in self
+w: not  grieves  not  desires
+w: equal  to all  beings
+w: for Me  devotion  attains  supreme
+tr: “One who has realized Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)
+
+## 66
+w: the Lord  said  this  external  further  say  more
+w: Rāya  said  free from knowledge  devotion  of the goal  the essence
+tr: The Lord said, “This is external. Go further.” Rāya said, “Devotion free of the pursuit of knowledge is the essence of the goal.
+
+## 67
+w: in knowledge  the effort  casting aside  bowing down  only
+w: live  by the saintly  spoken  about You  by the accounts
+w: in their place  remaining  heard  with body  speech  and mind
+w: who  generally  O Unconquered  conquered  even  You are  by them  in the three worlds
+tr: “Those who give up striving for knowledge and, remaining where they are, live by the accounts of You that flow from the lips of the saints, bowing to You with body, speech and mind — by them, O Unconquerable One, You are conquered within the three worlds.” (Śrīmad-Bhāgavatam, 10.14.3)
+fn: *Anubhāṣya*: Brahmā, whose pride Kṛṣṇa had crushed, surrenders to Him and offers this prayer. “Remaining where they are” — on the path of the sādhus; the accounts of You — of Your name, form, qualities and pastimes, flowing naturally from the lips of the great devotees. *Amṛta-pravāha-bhāṣya*: they live keeping to the path of the sādhus with body, mind and words, and He who is hard to reach in all three worlds becomes easily accessible to them.
+
+## 68
+w: the Lord  said  this  is so  further  say  more
+w: Rāya  said  loving devotion  of all goals  the essence
+tr: The Lord said, “This is so, but go further.” Rāya said, “Loving devotion (*prema-bhakti*) is the essence of all goals.
+fn: *Anubhāṣya*: the Lord accepted the verse *jñāne prayāsam* (67) as defining the goal — this is *sādhana-bhakti*; after it comes *bhāva-bhakti*, the sprout of prema, and so Rāmānanda names *prema-bhakti* as the goal.
+
+## 69
+w: with many offerings  performed  worship  of the Friend of the afflicted
+w: by love  only  the devotee’s  heart  melting with joy  becomes
+w: as long as  hunger  is  in the stomach  strong  thirst
+w: so long  for pleasure  are  indeed  food and drink
+tr: “The Friend of the afflicted may be worshipped with many offerings, but only love makes the devotee’s heart melt with joy — just as food and drink give pleasure only so long as there is hunger in the stomach and burning thirst.” (Padyāvalī, 13)
+fn: Heading of the edition: “Only the devotee’s love wins Kṛṣṇa”; the verse is Rāmānanda Rāya’s own, quoted in the *Padyāvalī* (13).
+fn: *Anubhāṣya*: worship with the sixteen offerings melts the devotee’s heart with bliss only when there is prema in it — the bhakti that delights Kṛṣṇa.
+
+## 70
+w: in Kṛṣṇa  of devotion  by the rasa  imbued  a mind
+w: let it be bought  if  anywhere  it is available
+w: for it  eagerness  alone  the price  the only
+w: of births  in millions  by pious deeds  not  is obtained
+tr: “A mind imbued with the *rasa* of devotion to Kṛṣṇa — buy it at once, if it can be found anywhere! Its only price is eagerness (*laulya*); it cannot be had for the pious deeds of ten million births.” (Padyāvalī, 14)
+fn: Heading of the edition: “Love for Kṛṣṇa is attained only on the path of rāga; vaidhī-bhakti, born of piety, cannot reach it”; the verse is Rāmānanda Rāya’s own (*Padyāvalī*, 14).
+fn: *Anubhāṣya*: wherever such a mind is found — in whatever place, time, person or practice — it must be bought, and its only price is eagerness. *Amṛta-pravāha-bhāṣya*: the first of the two verses (69) points to *vaidhī-bhakti*, rooted in faith, the second to *rāgānugā-bhakti*, rooted in greed (*lobha*); from here on Rāmānanda speaks only of rāga-bhakti.
+
+## 71
+w: the Lord  said  this  is so  further  say  more
+w: Rāya  said  love in servitude  of all goals  the essence
+tr: The Lord said, “This is so, but go further.” Rāya said, “Love in servitude (*dāsya-prema*) is the essence of all goals.
+
+## 72
+w: whose  name  by hearing  merely
+w: a person  becomes  pure
+w: of Him  whose feet are holy places  what  then
+w: for the servants  remains
+tr: “A person becomes pure merely by hearing His name. What, then, remains to be attained by the servants of Him whose feet are holy places?” (Śrīmad-Bhāgavatam, 9.5.16)
+
+## 73
+w: You  alone  serving  constantly
+w: with every other desire completely stilled
+w: when shall I  as a wholly devoted eternal servant
+w: gladden  that very  O Lord  life
+tr: “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (Stotra-ratna, 43)
+fn: The same verse as Madhya 1.206; translation as there. The edition’s heading gives it as Yāmunācārya’s *Stotra-ratna*, 46 (another numbering).
+
+## 74
+w: the Lord  said  this  is so  a little  further  more
+w: Rāya  said  love in friendship  of all goals  the essence
+tr: The Lord said, “This is so; go a little further.” Rāya said, “Love in friendship (*sakhya-prema*) is the essence of all goals.
+
+## 75
+w: thus  for the sages  the experience of the bliss of Brahman
+w: servitude  for those who have attained  the Supreme Deity
+w: for those under māyā  a human boy
+w: with (Him)  played  who had amassed  of pious deeds  heaps
+tr: “Thus with Him — to the sages the experience of the bliss of Brahman, to those who have taken up His service the Supreme Deity, and to those under the spell of *māyā* a human boy — the cowherd boys played, for they had amassed heaps of pious deeds.” (Śrīmad-Bhāgavatam, 10.12.11)
+
+## 76
+w: the Lord  said  this  excellent  further  say  more
+w: Rāya  said  parental love  of all goals  the essence
+tr: The Lord said, “This is excellent, but go further.” Rāya said, “Parental love (*vātsalya-prema*) is the essence of all goals.
+
+## 77
+w: Nanda  what  did  O brāhmaṇa
+w: good deed  such  great fruit (bearing)
+w: Yaśodā  or  most fortunate
+w: drank  whose  breast  Hari
+tr: “O brāhmaṇa, what good deed did Nanda perform to win such great fortune? And what did the most fortunate Yaśodā do, that Hari Himself drank from her breast?” (Śrīmad-Bhāgavatam, 10.8.46)
+fn: *Anubhāṣya*: the words of Parīkṣit, amazed at Śukadeva’s account of Yaśodā’s parental love for Kṛṣṇa.
+
+## 78
+w: not this  Brahmā  not  Śiva
+w: not  Śrī  even  resting on His breast
+w: the mercy  obtained  the cowherd woman
+w: which  that  received  from the Giver of liberation
+tr: “Neither Brahmā, nor Śiva, nor even Śrī, who rests on His breast, obtained the mercy that the cowherd woman (Yaśodā) received from the Giver of liberation.” (Śrīmad-Bhāgavatam, 10.9.20)
+fn: *Anubhāṣya*: seeing His mother unable to bind Him with the rope and worn out, Kṛṣṇa let Himself be bound; it is this power of Yaśodā over Kṛṣṇa that Śukadeva extols.
+
+## 79
+w: the Lord  said  this  excellent  further  say  more
+w: Rāya  said  the mood of the beloved  of love’s goal  the essence
+tr: The Lord said, “This is excellent, but go further.” Rāya said, “The love of the beloved for her Lover (*kānta-bhāva*) is the essence of the goal that is *prema*.
+fn: *Amṛta-pravāha-bhāṣya*: in ordinary prema there is no sense of “He is mine”, in *dāsya* no full trust, in *sakhya* no abundance of tenderness, in *vātsalya* no complete freedom from reserve; only in *kānta-bhāva* does prema become whole — the essence of all goals.
+
+## 80
+w: not this  to Śrī  on the breast  indeed  most devoted  the grace
+w: of the heavenly  women  of lotus  fragrance  lustre  how then  of others
+w: in the festival of the rāsa  His  by the mighty arms  grasped  necks
+w: who received the blessing  which  arose  to the beauties of Vraja
+tr: “The grace that came to the beauties of Vraja in the festival of the *rāsa*, when they received the blessing of His mighty arms about their necks, was never given even to Śrī, who rests on His breast in utmost devotion, nor to the women of heaven, fragrant and lustrous as lotuses — what then to speak of others?” (Śrīmad-Bhāgavatam, 10.47.60)
+fn: *Anubhāṣya*: Uddhava, having stayed several months in Vraja, sees the gopīs’ hearts burning in separation from Kṛṣṇa and extols their supreme good fortune.
+
+## 81
+w: among them  appeared  Śauri
+w: smiling  lotus-faced
+w: yellow garments  wearing  garlanded
+w: directly  of Cupid  the enchanter
+tr: “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)
+fn: The same verse as Ādi 5.214; translation as there.
+
+## 82
+w: of attaining Kṛṣṇa  the means  of many kinds  are
+w: of attaining Kṛṣṇa  gradations  many  there are
+tr: There are many means of attaining Kṛṣṇa, and many degrees in attaining Him.
+
+## 83
+w: but  whose  whatever  rasa  that  the best
+w: impartial  becoming  if one considers  there are  higher and highest
+tr: But whatever *rasa* a devotee has is for him the best. Yet, considered impartially, one *rasa* stands higher than another.
+fn: *Anubhāṣya*: this does not mean that any whim of the mind becomes the highest — self-will is never the highest. The verse speaks of the five perfected bhāvas: whichever of them awakens in a soul freed from anarthas is for it the highest, for the object of them all is Śrī Kṛṣṇa. Yet, seen impartially, *dāsya* holds *śānta* within it, *sakhya* holds *śānta* and *dāsya*, *vātsalya* the three before it, and *madhura* all four; therefore its sweetness surpasses all.
+
+## 84
+w: in ascending order  this
+w: of special taste  full of delight  although
+w: love  by inclination  sweet
+w: appears  some one  to someone
+tr: “Although love (*rati*), rising from one kind to the next, is ever richer in delight, by the inclination of the heart one particular kind seems sweetest to a particular devotee.” (Bhakti-rasāmṛta-sindhu, 2.5.38)
+
+## 85
+w: of each preceding  rasa  the qualities  in each following  are
+w: one  two  in counting  five  up to  increase
+tr: The qualities of each preceding *rasa* are present in the one that follows; counting one, two and so on, they increase up to five.
+
+## 86
+w: with more qualities  more taste  grows  in each rasa
+w: of śānta  dāsya  sakhya  vātsalya  the qualities  in mādhurya  dwell
+tr: As the qualities increase, the taste increases in each *rasa*; and the qualities of *śānta*, *dāsya*, *sakhya* and *vātsalya* all dwell in *mādhurya*.
+
+## 87
+w: of ether and the rest  the qualities  as  in each following  element
+w: two  three  in counting  increase  five  in earth
+tr: It is as with the qualities of ether and the other elements: in each following element they increase — two, three — until earth has all five.
+
+## 88
+w: complete  of Kṛṣṇa  attainment  from this  prema
+w: of this  prema  under the control  Kṛṣṇa  says  in the Bhāgavata
+tr: Kṛṣṇa is attained completely through this *prema*. Kṛṣṇa is under the control of this *prema* — so the Bhāgavata says:
+
+## 89
+w: to Me  devotion  indeed  of beings
+w: for immortality  is fit
+w: by good fortune  which  arose  for Me  the love
+w: of you  bringing Me
+tr: “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)
+
+## 90
+w: Kṛṣṇa’s  promise  firm  at all times  is
+w: who  as  worships  Kṛṣṇa  him  reciprocates  so
+tr: Kṛṣṇa has a firm promise that holds for all time: as one worships Him, so does He reciprocate.
+
+## 91
+w: this  of prema  in equal measure  not  He can  reciprocate
+w: therefore  a debtor  He becomes  says  the Bhāgavata
+tr: But He cannot reciprocate this *prema* in equal measure, and so He becomes a debtor — so the Bhāgavata says:
+
+## 92
+w: not  am able  I  of the faultlessly united
+w: own good deed  in a god’s lifetime  even  to you
+w: who  Me  worshipped  hard to conquer  of home  the fetters
+w: completely cutting  that  your  let it be requited  by the good deed
+tr: “O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.” (Śrīmad-Bhāgavatam, 10.32.22)
+
+## 93
+w: although  Kṛṣṇa’s  beauty  of sweetness  the summit
+w: of Vraja  of the goddesses  in the company  His  increases  sweetness
+tr: Although Kṛṣṇa’s beauty is the summit of sweetness, in the company of the goddesses of Vraja His sweetness increases still more.
+
+## 94
+w: there  shone exceedingly  with them
+w: Bhagavān  Devakī’s  son
+w: among  gems  golden
+w: a great  emerald  like
+tr: “There, with them, Bhagavān, the son of Devakī, shone exceedingly, like a great emerald among golden gems.” (Śrīmad-Bhāgavatam, 10.33.6)
+
+## 95
+w: the Lord  said  this  the limit of the goal  certainly
+w: mercy  showing  say  if  further  something  there is
+tr: The Lord said, “This is certainly the limit of the goal. But be kind and tell Me if there is anything beyond.”
+
+## 96
+w: Rāya  said  beyond this  asks  such  a person
+w: till now  not  I knew  exists  in the world
+tr: Rāya said, “Until now I did not know that there was anyone in the world who would ask beyond this.
+
+## 97
+w: among these  Rādhā’s  love  the crest-jewel of goals
+w: whose  glory  in all the scriptures  is praised
+tr: Among these (forms of love), Rādhā’s love is the crest-jewel of all goals; its glory is proclaimed in all the scriptures.
+
+## 98
+w: as  Rādhā  dear  to Viṣṇu
+w: Her  pond  dear  so
+w: among all gopīs  She alone
+w: of Viṣṇu  most  beloved
+tr: “As Rādhā is dear to Viṣṇu, so is Her pond dear to Him; among all the gopīs She alone is His most beloved.” (Padma Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 45)
+
+## 99
+w: by Her  worshipped  surely
+w: Bhagavān  Hari  the Lord
+w: since  us  leaving  Govinda
+w: pleased  whom  led  to a secret place
+tr: “Surely the Lord, Bhagavān Hari, has been worshipped by Her, for Govinda, pleased, has left us and led Her away to a secluded place.” (Śrīmad-Bhāgavatam, 10.30.28)
+
+## 100
+w: the Lord  said  further  speak  hearing  I obtain  joy
+w: of wondrous nectar  a river  flows  from your  mouth
+tr: The Lord said, “Go on — I am happy to hear you. A river of wondrous nectar flows from your lips.
+
+## 101
+w: secretly  Rādhā  He took away  of the gopīs  out of fear
+w: regard for others  if there is  of love  the depth  not  shows
+tr: Fearing the other gopīs, He stole Rādhā away; for when there is regard for others, the depth of love does not show itself.
+
+## 102
+w: for Rādhā’s  sake  the gopīs  if  openly  He makes  abandonment
+w: then  we know  for Rādhā  Kṛṣṇa’s  deep attachment
+tr: If for Rādhā’s sake He openly abandons the other gopīs, then we know how deeply Kṛṣṇa is attached to Rādhā.”
+
+## 103
+w: Rāya  said  then  hear  of the love  the glory
+w: in the three worlds  of Rādhā’s  love  there is no  comparison
+tr: Rāya said, “Then hear the glory of that love. In the three worlds there is nothing to compare with Rādhā’s love.
+
+## 104
+w: of the gopīs  of the rāsa dance  the circle  leaving
+w: Rādhā  seeking  in the forest  He wanders  lamenting  doing
+tr: Leaving the circle of the gopīs’ *rāsa* dance, He wanders through the forest in search of Rādhā, lamenting.
+
+## 105
+w: the enemy of Kaṁsa  too  of the essence (of the rāsa)
+w: by the desire  bound  the chain
+w: Rādhā  placing  in the heart
+w: left  of Vraja  the beauties
+tr: “Placing Rādhā in His heart — the chain that bound His desire for the very essence of the *rāsa* — Kṛṣṇa, the enemy of Kaṁsa, left the other beauties of Vraja.” (Gīta-govinda, 3.1)
+
+## 106
+w: here  there  Her  searching for  Rādhikā
+w: of Ananga  by the arrows  by the wounds  wearied  in mind
+w: filled with remorse  He  of Kalinda’s daughter (the Yamunā)
+w: on the edge of the bank  in a grove  sank in despair  Mādhava
+tr: “Searching here and there for Rādhikā, His mind wearied by the wounds of Ananga’s arrows and filled with remorse, Mādhava sank down in despair in a grove on the edge of the Yamunā’s bank.” (Gīta-govinda, 3.2)
+
+## 107
+w: of these  two verses  the meaning  if one considers  we know
+w: in considering  rises  as if  of nectar  a mine
+tr: If one considers the meaning of these two verses, one understands; as one considers them, it is as if a mine of nectar opens up.
+
+## 108
+w: hundreds of millions of  gopīs  with  the rāsa  pastime
+w: among them  in one form  He stays  at Rādhā’s side
+tr: In the *rāsa* pastime with hundreds of millions of gopīs, He stays at Rādhā’s side in one of His forms.
+
+## 109
+w: in ordinary  love  we see  everywhere  equality
+w: in Rādhā’s  crooked  love  arose  contrariness
+tr: In ordinary love one sees equality everywhere; but in Rādhā’s crooked love there arose contrariness (*vāmatā*).
+
+## 110
+w: of a snake  like  the movement  of love
+w: by nature  crooked  is
+w: therefore  with cause  without cause  and
+w: of the young pair  pique  arises
+tr: “Like the movement of a snake, the course of love is crooked by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)
+
+## 111
+w: anger  showing  the rāsa  leaving  She went  pique  showing
+w: Her  not  seeing  distressed  became  Śrī Hari
+tr: In anger and pique She left the *rāsa*, and Śrī Hari, not seeing Her, became distressed.
+
+## 112
+w: the complete  desire  of Kṛṣṇa  the wish  the rāsa-līlā
+w: in the desire for the rāsa-līlā  Rādhikā  the chain
+tr: Kṛṣṇa’s complete desire is the *rāsa-līlā*, and in that desire for the *rāsa-līlā* Rādhikā is the chain that binds it.
+
+## 113
+w: Her  without  the rāsa-līlā  not  pleases  the heart
+w: the circle  leaving  He went  Rādhā  to seek
+tr: Without Her the *rāsa-līlā* did not please His heart, so He left the circle and went to look for Rādhā.
+
+## 114
+w: here and there  wandering  nowhere  Rādhā  not  finding
+w: despair  He shows  by Kāma’s arrows  wearied  becoming
+tr: Wandering here and there and finding Rādhā nowhere, He fell into despair, wearied by the arrows of the god of love (Kāma).
+
+## 115
+w: by hundreds of millions of gopīs  not  of desire  the quenching
+w: from that  we infer  of Śrī Rādhikā  the qualities
+tr: Even hundreds of millions of gopīs could not quench His desire. From this we can infer the qualities of Śrī Rādhikā.”
+
+## 116
+w: the Lord  said  for which  I came  to you
+w: all those  truths  became  My  known
+tr: The Lord said, “All the truths for which I came to you have now become known to Me.
+
+## 117
+w: now  I have known  of the One to be served  of the means  the determination
+w: further  more  there is  something  to hear  the desire  is
+tr: Now I know who is to be served and by what means. Yet there is something more beyond, and I wish to hear it.
+
+## 118
+w: Kṛṣṇa’s  nature  tell  Rādhā’s  nature
+w: rasa  what  truth  prema  of what  truth the form
+tr: Tell Me the true nature of Kṛṣṇa and the true nature of Rādhā; what truth *rasa* is, and of what truth *prema* is the form.
+
+## 119
+w: mercy  showing  this  truth  tell  indeed  to Me
+w: besides you  no one  this  to explain  is able
+tr: Be kind and tell Me these truths: no one but you can explain them.”
+
+## 120
+w: Rāya  said  of this  I  anything  not  know
+w: You  whatever  make (me) say  that  I speak  words
+tr: Rāya said, “I know nothing of this. I speak only the words You make me speak.
+
+## 121
+w: by Your  teaching  I recite  like  a parrot’s  lesson
+w: directly  the Lord  You  who  understands  Your  play
+tr: I repeat Your teaching like a parrot reciting its lesson. You are the Lord Himself — who can understand Your play?
+
+## 122
+w: in the heart  inspiration  You give  with the tongue  You make (me) speak  words
+w: what  I say  good or bad  anything  not  I know
+tr: You inspire my heart and make my tongue speak the words; I do not know at all whether what I say is good or bad.”
+
+## 123
+w: the Lord  said  a Māyāvādī  I  indeed  sannyāsī
+w: of bhakti  the truth  not  I know  in Māyāvāda  I float
+tr: The Lord said, “I am a Māyāvādī sannyāsī. I do not know the truth of *bhakti*; I am adrift in Māyāvāda.
+
+## 124
+w: in Sārvabhauma’s company  My  mind  pure  became
+w: of Kṛṣṇa-bhakti  the truth  tell  him  I asked
+tr: In Sārvabhauma’s company My mind became pure, and I asked him, ‘Tell Me the truth of devotion to Kṛṣṇa.’
+
+## 125
+w: he  said  I  not  know  about Kṛṣṇa  talks
+w: only  Rāmānanda  knows  he  not  here
+tr: He said, ‘I do not know the talks about Kṛṣṇa. Only Rāmānanda knows them, and he is not here.’
+
+## 126
+w: to you  I came  your  glory  hearing
+w: you  Me  praise  a sannyāsī  considering
+tr: Hearing of your glory, I came to you — and you praise Me, thinking of Me as a sannyāsī.
+
+## 127
+w: whether  a vipra  whether  a sannyāsī  a śūdra  why  not
+w: whoever  of Kṛṣṇa  the truth  knows  he  a guru  is
+tr: Whether one is a *vipra*, a *sannyāsī* or a *śūdra* — whoever knows the truth of Kṛṣṇa is a guru.
+
+## 128
+w: a sannyāsī  calling (Me)  Me  not  do  deceive
+w: of Kṛṣṇa  of Rādhā  the truth  telling  fulfil  (My) heart
+tr: Do not deceive Me by treating Me as a sannyāsī. Tell Me the truth of Kṛṣṇa and Rādhā and fulfil My heart’s desire.”
+
+## 129
+w: although  Rāya  full of love  a great devotee
+w: his  mind  Kṛṣṇa’s  māyā  cannot  cover
+tr: Rāya was full of *prema*, a great devotee; Kṛṣṇa’s *māyā* could not cover his mind.
+
+## 130
+w: still  of the Lord  the will  supremely  powerful
+w: though he knew  Rāya’s  mind  became  unsteady
+tr: Yet the Lord’s will is supremely powerful, and, though he knew the truth, Rāya’s mind began to waver.
+
+## 131
+w: Rāya  said  I  a dancer  You  the puppeteer
+w: in whatever  way  You make (me) dance  in that  way  I wish  to dance
+tr: Rāya said, “I am a dancer, and You are the master of the stage (*sūtra-dhāra*): as You make me dance, so I wish to dance.
+
+## 132
+w: my  tongue  a vīṇā  the instrument  You  the player of the vīṇā
+w: in Your  mind  whatever  rises  that alone  I utter
+tr: My tongue is a *vīṇā*, and You are the one who plays it: whatever rises in Your mind, that alone I utter.
+
+## 133
+w: supreme  Lord  Kṛṣṇa  Himself  Bhagavān
+w: the source of all avatāras  of all  causes  the chief
+tr: Kṛṣṇa is the Supreme Lord, Bhagavān Himself, the source of all *avatāras* and the foremost cause of all causes.
+
+## 134
+w: endless  Vaikuṇṭhas  and  endless  avatāras
+w: endless  universes  He  of all  the support
+tr: Endless are the Vaikuṇṭhas, endless the *avatāras* and endless the universes, and He is the support of them all.
+
+## 135
+w: of being  knowledge  bliss  His body  of the king of Vraja  the son
+w: with all majesty  with all potencies  with all rasas  full
+tr: His body is eternal being, knowledge and bliss; He is the son of the king of Vraja, full of all majesty, all potencies and all *rasas*.
+
+## 136
+w: the Lord  Supreme  Kṛṣṇa
+w: of being  knowledge  bliss  whose form
+w: without beginning  the beginning  Govinda
+w: of all  causes  the cause
+tr: “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)
+
+## 137
+w: in Vṛndāvana  transcendental  ever-new  Madana (Cupid)
+w: by the Kāma-gāyatrī  with the Kāma-bīja  whose  worship
+tr: In Vṛndāvana He is the transcendental, ever-new Madana, worshipped with the Kāma-gāyatrī and the Kāma-bīja.
+
+## 138
+w: men  women  or  the unmoving and the moving
+w: of all  the hearts  attracting  directly  of Cupid  the enchanter
+tr: He draws the hearts of all — men and women, the moving and the unmoving; He is the very enchanter of Cupid.
+
+## 139
+w: among them  appeared  Śauri
+w: smiling  lotus-faced
+w: yellow garments  wearing  garlanded
+w: directly  of Cupid  the enchanter
+tr: “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)
+
+## 140
+w: of various  devotees  the nectar of rasa  of various kinds  is
+w: of all those  nectars of rasa  the object  the abode
+tr: The nectar of *rasa* of various devotees is of many kinds; of all those nectars of *rasa* He is the object (*viṣaya*), and the devotee the abode (*āśraya*).
+
+## 141
+w: of all  rasas  of the nectar  the embodiment
+w: by His spreading  radiance  who has subdued  Tārakā  Pāli
+w: who has made His own  Śyāmā  Lalitā
+w: to Rādhā  most dear  the moon  may He be glorious
+tr: “Glory to the Moon, the embodiment of the nectar of all *rasas*, who with His spreading radiance has subdued Tārakā and Pāli, who has won Śyāmā and Lalitā, and who is dearest to Rādhā!” (Bhakti-rasāmṛta-sindhu, 1.1.1)
+
+## 142
+w: of śṛṅgāra  the king of rasas  made of  a form  bearing
+w: therefore  up to Himself  of all  the hearts  stealing
+tr: He bears a form made of *śṛṅgāra*, the king of *rasas*; therefore He steals all hearts, even His own.
+
+## 143
+w: of all  by gladdening  producing  bliss  of blue lotuses
+w: a row  dark  tender  bringing  with His limbs  a festival of Ananga
+w: freely  by the Vraja beauties  all around  limb by limb  embraced
+w: śṛṅgāra  O friend  embodied  as it were  in spring  enchanted  Hari  sports
+tr: “O friend, see how Hari sports in spring! Delighting all and giving them bliss, with limbs dark and tender as a row of blue lotuses He brings a festival to the god of love; freely embraced on every side by the beauties of Vraja, He is, as it were, *śṛṅgāra* embodied, enchanted Himself.” (Gīta-govinda, 1.11)
+
+## 144
+w: of Lakṣmī’s Lord and other  avatāras  He steals  the mind
+w: of Lakṣmī  and other  women  He makes  attraction
+tr: He steals the minds of *avatāras* such as the Lord of Lakṣmī, and He attracts women such as Lakṣmī.
+
+## 145
+w: the brāhmaṇa’s sons  by Me  you two  wishing to see
+w: by Me  were brought  on earth  of dharma  for the protection
+w: with My portions descended  of the earth  the burden  the asuras
+w: having slain  here  again  hurry back  near  Me
+tr: “I brought the brāhmaṇa’s sons here because I wished to see you two, who have descended to earth as My portions for the protection of *dharma*. When you have slain the *asuras*, the burden of the earth, hurry back to Me here.” (Śrīmad-Bhāgavatam, 10.89.58)
+
+## 146
+w: of what  merit  his  not  O Lord  we know
+w: of Your  feet  of the dust  of the touch  the right
+w: for which  longing  Śrī  the best of women  performed  austerity
+w: giving up  desires  for a very long time  holding vows
+tr: “O Lord, we do not know by what merit he has earned the right to touch the dust of Your feet — that dust for which Śrī, the best of women, longing for it, gave up all desires and practised austerities for so long, keeping her vows.” (Śrīmad-Bhāgavatam, 10.16.36)
+
+## 147
+w: by His own  sweetness  He steals  His own  mind
+w: Himself  He Himself  wishes  to make  embrace
+tr: His own sweetness steals His own mind, and He longs to embrace Himself.
+
+## 148
+w: never experienced  before  some  wonder-working
+w: appears  My  greater  this  of sweetness  flood
+w: this  I  even  alas  seeing  which  with greedy heart
+w: eagerly  to enjoy  I desire  like Rādhikā
+tr: “What wondrous flood of My sweetness, never known before and surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)
+
+## 149
+w: thus  indeed  in brief  I have told  Kṛṣṇa’s  nature
+w: now  in brief  I tell  hear  of Rādhā’s  truth  the form
+tr: Thus I have told you briefly of Kṛṣṇa’s true nature. Now hear, briefly, the truth of Rādhā.
+
+## 150
+w: Kṛṣṇa’s  endless potencies  among them  three  chief
+w: the spiritual potency  the māyā potency  the jīva potency  by name
+tr: Kṛṣṇa’s potencies are endless, and among them three are chief: the spiritual potency (*cit-śakti*), the potency of *māyā* (*māyā-śakti*) and the potency of the *jīvas* (*jīva-śakti*).
+
+## 151
+w: internal  external  marginal  we call  which
+w: the internal  His own potency  all  above
+tr: They are called the internal, the external and the marginal; the internal, His own potency (*svarūpa-śakti*), is above all.
+
+## 152
+w: Viṣṇu’s potency  superior  is declared
+w: called the knower of the field  likewise  superior
+w: called ignorance and karma  another
+w: a third  potency  is held to be
+tr: “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
+
+## 153
+w: of being  knowledge  bliss  made  Kṛṣṇa’s  nature
+w: therefore  His own potency  is  of three forms
+tr: Kṛṣṇa’s nature is made of eternal being, knowledge and bliss; therefore His own potency has three forms.
+
+## 154
+w: in the aspect of bliss  hlādinī  in the aspect of being  sandhinī
+w: in the aspect of consciousness  samvit  which  as knowledge  making  we regard
+tr: In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we know as knowledge.
+
+## 155
+w: hlādinī  sandhinī  samvit
+w: in You  one  of all  the shelter
+w: of joy  of pain  causing  mixed
+w: in You  not  of the guṇas  devoid
+tr: “O Lord, You are the shelter of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the *guṇas*.” (Viṣṇu Purāṇa, 1.12.69)
+
+## 156
+w: Kṛṣṇa  she gladdens  therefore  the name  hlādinī
+w: through that  potency  happiness  tastes  He Himself
+tr: Because she gladdens Kṛṣṇa, her name is Hlādinī; through that potency He Himself tastes happiness.
