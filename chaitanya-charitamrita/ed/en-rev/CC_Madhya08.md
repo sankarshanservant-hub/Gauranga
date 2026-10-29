@@ -3089,7 +3089,7 @@ then  smiling  to him  the Lord  showed  His own form
 ‘rasa-rāja’, ‘mahābhāva’ — dui eka rūpa  
 Rasarāja  Mahābhāva  the two  one  form
 
-(281) Then, smiling, the Lord showed him His own form: Rasarāja and Mahābhāva, the two in one form.
+(281) Then, smiling, the Lord showed him His own form: Rasarāja and Mahābhāva, the two in one form.[^69]
 
 দেখি’ রামানন্দ হৈলা আনন্দে মূর্চ্ছিতে ৷  
 ধরিতে না পারে দেহ, পড়িলা ভূমিতে ॥ ২৮২ ॥
@@ -3129,7 +3129,7 @@ My  truth  pastimes  rasa  to you  within reach of perception
 ataeva ei-rūpa dekhāilum̐ tomāre  
 therefore  this form  I have shown  to you
 
-(285) The truth of Me, My pastimes and My *rasa* are within your perception; therefore I have shown you this form.
+(285) The truth of Me, My pastimes and My rasa are within your perception; therefore I have shown you this form.
 
 গৌর অঙ্গ নহে, মোর — রাধাঙ্গস্পর্শন ৷  
 গোপেন্দ্র সুত বিনা তেঁহো না স্পর্শে অন্যজন ॥ ২৮৬ ॥
@@ -3139,7 +3139,7 @@ fair  body  is not  Mine  of Rādhā’s body  the touch
 gopendra-suta vinā tem̐ho nā sparśe anya-jana  
 of the king of cowherds  the son  except  She  not  touches  any other person
 
-(286) This fair complexion is not Mine: it comes from the touch of Rādhā’s body. And She touches no one but the son of the king of the cowherds.
+(286) This golden complexion is not Mine: it comes from the touch of Rādhā’s body. And She touches no one but the son of the king of the cowherds.[^70]
 
 তাঁর ভাবে ভাবিত করি’ আত্ম-মন ৷  
 তবে নিজ-মাধুর্য্য করি আস্বাদন ॥ ২৮৭ ॥
@@ -3199,7 +3199,7 @@ deeply hidden  of Vraja  of the pastimes of rasa  discussion
 aneka kahila, tāra nā pāila pāra  
 much  they spoke  of it  not  reached  the end
 
-(292) They spoke at length on the deeply hidden pastimes of *rasa* in Vraja, yet never reached their end.
+(292) They spoke at length on the deeply hidden pastimes of rasa in Vraja, yet never reached their end.
 
 তামা, কাঁসা, রূপা, সোনা, রত্নচিন্তামণি ৷  
 কেহ যদি কাঁহা পোতা পায় এক-খানি ॥ ২৯৩ ॥
@@ -3339,7 +3339,7 @@ of rasa  of the truth  knowledge  comes  of this  by hearing
 ‘prema-bhakti’ haya rādhā-kṛṣṇera caraṇe  
 loving devotion  comes  of Rādhā and Kṛṣṇa  for the feet
 
-(306) By hearing it one gains knowledge of the truth of *rasa*, and loving devotion (*prema-bhakti*) awakens for the feet of Rādhā and Kṛṣṇa.
+(306) By hearing it one gains knowledge of the truth of rasa, and loving devotion (*prema-bhakti*) awakens for the feet of Rādhā and Kṛṣṇa.
 
 চৈতন্যের গূঢ়তত্ত্ব জানি ইহা হৈতে ৷  
 বিশ্বাস করি’ শুন, তর্ক না করিহ চিত্তে ॥ ৩০৭ ॥
@@ -3379,7 +3379,7 @@ to Rāmānanda  Rāya  my  ten million  obeisances
 yām̐ra mukhe kaila prabhu rasera vistāra  
 through whose  mouth  made  the Lord  of rasa  the unfolding
 
-(310) To Rāmānanda Rāya I offer ten million obeisances. Through his mouth the Lord unfolded the truth of *rasa*.
+(310) To Rāmānanda Rāya I offer ten million obeisances. Through his mouth the Lord unfolded the truth of rasa.
 
 দামোদর-স্বরূপের কড়চা-অনুসারে ৷  
 রামানন্দ-মিলন-লীলা করিল প্রচারে ॥ ৩১১ ॥
@@ -3394,7 +3394,7 @@ of Rāmānanda  of the meeting  the pastime  I have made  known
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩১২ ॥
 
-śrī rūpa-raghunātha-pade yāra āśa  
+śrī-rūpa-raghunātha-pade yāra āśa  
 Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
@@ -3538,3 +3538,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^67]: *Anubhāṣya*: Havi, one of the nine Yogendras, answers King Nimi on the marks of the best of devotees: by the power of transcendental feeling the *mahā-bhāgavata* sees Kṛṣṇa everywhere, and all that belongs to Kṛṣṇa, in the relation of the served and the servant.
 
 [^68]: *Anubhāṣya*: the gopīs sang this to one another in separation, when Kṛṣṇa had gone to the forest for the day; hearing His flute, the trees and creepers seemed to show that Viṣṇu was manifest within them.
+
+[^69]: *Amṛta-pravāha-bhāṣya*: Śrī Kṛṣṇa as Rasarāja and Śrīmatī Rādhikā as Mahābhāva, united, are one *tattva*; He showed “the form of Śrī Kṛṣṇa adorned with Rādhā’s *bhāva* and lustre”, in which one *tattva* is two and two are one.
+
+[^70]: *Amṛta-pravāha-bhāṣya*: “I am not a separate ‘golden person’; I am that same Śrī Kṛṣṇa, the son of the king of the cowherds, and this golden hue of Mine — the touch of Rādhā’s body — is eternal.” *Anubhāṣya*: the *prākṛta-sahajiyās*, relying on the words *gaura aṅga nahe*, take Gaura and Kṛṣṇa to be different; in truth both are the original form of the Lord (*svayaṁ-rūpa*).

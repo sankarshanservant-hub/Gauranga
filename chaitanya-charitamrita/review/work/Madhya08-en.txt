@@ -1587,6 +1587,7 @@ tr: You Yourself came to deliver me, and now You are deceiving me. What kind of 
 w: then  smiling  to him  the Lord  showed  His own form
 w: Rasarāja  Mahābhāva  the two  one  form
 tr: Then, smiling, the Lord showed him His own form: Rasarāja and Mahābhāva, the two in one form.
+fn: *Amṛta-pravāha-bhāṣya*: Śrī Kṛṣṇa as Rasarāja and Śrīmatī Rādhikā as Mahābhāva, united, are one *tattva*; He showed “the form of Śrī Kṛṣṇa adorned with Rādhā’s *bhāva* and lustre”, in which one *tattva* is two and two are one.
 
 ## 282
 w: seeing  Rāmānanda  became  in bliss  unconscious
@@ -1606,12 +1607,13 @@ tr: Embracing him, the Lord comforted him: “No one but you sees this form.
 ## 285
 w: My  truth  pastimes  rasa  to you  within reach of perception
 w: therefore  this form  I have shown  to you
-tr: The truth of Me, My pastimes and My *rasa* are within your perception; therefore I have shown you this form.
+tr: The truth of Me, My pastimes and My rasa are within your perception; therefore I have shown you this form.
 
 ## 286
 w: fair  body  is not  Mine  of Rādhā’s body  the touch
 w: of the king of cowherds  the son  except  She  not  touches  any other person
-tr: This fair complexion is not Mine: it comes from the touch of Rādhā’s body. And She touches no one but the son of the king of the cowherds.
+tr: This golden complexion is not Mine: it comes from the touch of Rādhā’s body. And She touches no one but the son of the king of the cowherds.
+fn: *Amṛta-pravāha-bhāṣya*: “I am not a separate ‘golden person’; I am that same Śrī Kṛṣṇa, the son of the king of the cowherds, and this golden hue of Mine — the touch of Rādhā’s body — is eternal.” *Anubhāṣya*: the *prākṛta-sahajiyās*, relying on the words *gaura aṅga nahe*, take Gaura and Kṛṣṇa to be different; in truth both are the original form of the Lord (*svayaṁ-rūpa*).
 
 ## 287
 w: Her  with the bhāva  imbued  making  My own  mind
@@ -1641,7 +1643,7 @@ tr: In this way the Lord spent ten nights happily with Rāmānanda in the joy of
 ## 292
 w: deeply hidden  of Vraja  of the pastimes of rasa  discussion
 w: much  they spoke  of it  not  reached  the end
-tr: They spoke at length on the deeply hidden pastimes of *rasa* in Vraja, yet never reached their end.
+tr: They spoke at length on the deeply hidden pastimes of rasa in Vraja, yet never reached their end.
 
 ## 293
 w: copper  bell-metal  silver  gold  the jewel cintāmaṇi
@@ -1711,7 +1713,7 @@ tr: Whoever drinks it even once through the ears — his ears, out of longing, c
 ## 306
 w: of rasa  of the truth  knowledge  comes  of this  by hearing
 w: loving devotion  comes  of Rādhā and Kṛṣṇa  for the feet
-tr: By hearing it one gains knowledge of the truth of *rasa*, and loving devotion (*prema-bhakti*) awakens for the feet of Rādhā and Kṛṣṇa.
+tr: By hearing it one gains knowledge of the truth of rasa, and loving devotion (*prema-bhakti*) awakens for the feet of Rādhā and Kṛṣṇa.
 
 ## 307
 w: of Caitanya  the hidden truth  one knows  this  from
@@ -1731,7 +1733,7 @@ tr: This treasure comes to one whose all in all is the feet of Śrī Caitanya, N
 ## 310
 w: to Rāmānanda  Rāya  my  ten million  obeisances
 w: through whose  mouth  made  the Lord  of rasa  the unfolding
-tr: To Rāmānanda Rāya I offer ten million obeisances. Through his mouth the Lord unfolded the truth of *rasa*.
+tr: To Rāmānanda Rāya I offer ten million obeisances. Through his mouth the Lord unfolded the truth of rasa.
 
 ## 311
 w: of Svarūpa Dāmodara  the notes  following
