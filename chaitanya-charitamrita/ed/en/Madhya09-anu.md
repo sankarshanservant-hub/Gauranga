@@ -380,7 +380,7 @@ On the devotion to Bhagavān that comes from drinking the water of the Kāverī,
 
 ## 94–96
 
-(*Śrīmad-Bhāgavatam* 1.5.11): “Words in which every verse, even if imperfectly composed, contains the names of the Unlimited marked with His glories destroy the sins of the people; the sādhus hear them, sing them, and accept them.” See also *Śrīmad-Bhāgavatam* 4.31.32, 7.8.43–44, 11.12.5–9, 12.3.41, and other verses, and especially the *Sārārtha-darśinī* commentary of Viśvanātha Cakravartī Ṭhākura on the verse *Śrīmad-Bhāgavatam* 2.3.24, “*tad aśma-sāram*.”
+(*Śrīmad-Bhāgavatam* 1.5.11): “Words in which every verse, even if imperfectly composed, contains the names of the Unlimited marked with His glories destroy the sins of the people; the sādhus hear them, sing them, and accept them.” See also *Śrīmad-Bhāgavatam* 4.31.32,[^94-1] 7.8.43–44, 11.12.5–9, 12.3.41, and other verses, and especially the *Sārārtha-darśinī* commentary of Viśvanātha Cakravartī Ṭhākura on the verse *Śrīmad-Bhāgavatam* 2.3.24, “*tad aśma-sāram*.”
 
 ## 97
 
@@ -444,7 +444,7 @@ See Madhya 6.83–84.
 
 ## 114
 
-See Madhya 8.147.
+See Madhya 8.147.[^114-1]
 
 ## 115
 
@@ -452,7 +452,7 @@ See Madhya 8.147.
 
 ## 111–116
 
-See Ādi 5.227 and Madhya 8.146.
+See Ādi 5.227[^111-1] and Madhya 8.146.
 
 ## 117
 
@@ -626,7 +626,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 175
 
-**Śrī Śaila**: which Śrī Śaila is meant here cannot be determined. It is not the temple of Mallikārjuna. Perhaps it is not the Śrī Śaila in the Dharwar district either, south of Belgaum, where the beginningless *liṅga* “Mallikārjuna” (Madhya 9.15) resides: “On Śrī Parvata the effulgent Mahādeva lived in supreme joy with Devī, and Brahmā too with the gods” (*Mahābhārata*, *Vana-parva*, chapter 58).
+**Śrī Śaila**: which Śrī Śaila is meant here cannot be determined. It is not the temple of Mallikārjuna. Perhaps it is not the Śrī Śaila in the Dharwar district either, south of Belgaum, where the beginningless *liṅga* “Mallikārjuna” (Madhya 9.15) resides: “On Śrī Parvata the effulgent Mahādeva lived in supreme joy with Devī, and Brahmā too with the gods” (*Mahābhārata*, *Vana-parva*, chapter 58).[^175-1]
 
 ## 177
 
@@ -1245,7 +1245,7 @@ Then, taking the jewels, he went to the city of Māhiṣmatī. There that bull a
 
 > Subheading: Bathing in Lake Pampā and resting at Pañcavaṭī —
 
-**Pampā.** “Ṛṣyamūka, covered with flowering trees, lies before the Pampā.” Some say that “Pampā” is the ancient name of the river Tuṅgabhadrā itself. According to another view, the village of Hampi, the ancient and famous capital of Vijayanagara, was first known as the holy place Pampā. According to a third view, “Lake Pampā” is a lake on the bank of the Tuṅgabhadrā near Anagundi, toward Hyderabad. According to a fourth, Lake Pampā is the Pambai river of Travancore. According to a fifth, the river is called a lake because its water is still.
+**Pampā.** “Ṛṣyamūka, covered with flowering trees, lies before the Pampā.” Some say that “Pampā” is the ancient name of the river Tuṅgabhadrā itself. According to another view, the village of Hampi, the ancient and famous capital of Vijayanagara, was first known as the holy place Pampā. According to a third view, “Lake Pampā” is a lake on the bank of the Tuṅgabhadrā near Anagundi, toward Hyderabad. According to a fourth, Lake Pampā is the Pambe river of Travancore. According to a fifth, the river is called a lake because its water is still.
 
 **Pañcavaṭī** is a forest in Daṇḍakāraṇya, now within the town of “Nasik.” Here Lakṣmaṇa cut off Śūrpaṇakhā's nose. In the town of Nasik resides the Mahādeva named “Tryambaka” (*Bombay Gazetteer*).
 
@@ -1413,7 +1413,7 @@ In verse 74 of this chapter, instead of the reading “having had *darśana* of 
 
 > Subheading: The fruit of hearing how the Lord delivered people on the pretext of pilgrimage —
 
-The *pañcopāsakas* (worshipers of five deities) attribute worshipability to things manifest in the world and accessible to the knowledge of the material senses. But the *Śrīmad-Bhāgavatam* and Śrī Kṛṣṇa Caitanyadeva do not call “the highest goal” (*paramārtha*) what is known by such sense-born (*akṣaja*) knowledge devoted to pleasing the senses. The Māyāvādī *ahaṅgrahopāsakas*, who worship themselves as God, cut off the hands, feet, and so on of the Supreme Reality and, deluded, call an indefinable “sky-flower” *adhokṣaja*. Sometimes by the word *upāsya* (object of worship) they mean a featureless state devoid of variety and “covered by darkness,” or the wild dance (*tāṇḍava*) of inertness. Śrī Gaurasundara, on the basis of the teaching of inconceivable oneness and difference (*acintya-bhedābheda*) established by the *Śrīmad-Bhāgavatam*, showed the futility of the experience of such *karmīs*, *jñānīs*, and *yogīs*. In doing so He everywhere saw only Bhagavān — the Reality in which the name, form, qualities, and pastimes of the nondual Knowledge are revealed. The way non-Vaiṣṇavas see Śiva and various other gods, or Śākyasiṁha (“Dharma,” “Saṅgha,” and “Buddha”), is not Vaiṣṇava vision. To make this known Mahāprabhu saw only the *adhokṣaja*. External, sense-born (*akṣaja*) vision stands in complete opposition to seeing the *adhokṣaja* by the soul's own faculty (*ātma-vṛtti*). This is what the servants of Gaura must follow. The *prākṛta-sahajiyās* say that seeing Gopījana-vallabha in the hearts of the *gopīs*, Kṛṣṇa's associates, is “the same as” or “equal to” seeing various gods such as “Mahāmāyā,” an instrument of enjoyment — and so fall into the pit of *vivarta*. Argumentative *haitukas*, unable to grasp the path of *śruti*, become “henotheists,” or *pañcopāsakas*. They meditate on the five worshipable gods as one among the many manifestations of power in the external world, believe one of the five to be “Parameśvara,” and, though the others are of the same kind, rank them lower and disregard them. This seeing of symbols (*pratīka*) of the featureless Brahman throughout the universe is “*pañcopāsanā*.” Such vision belongs to idolatry (*pauttalikatā-vāda*), that is, to the worship of images (*pratimā-pūjā*); later it turned into the Māyāvādīs' “*nirviśeṣa-vāda*.” Only from a famine of seeing Kṛṣṇa does a *jīva* become a non-Vaiṣṇava — a *pañcopāsaka*, and sometimes an atheist. But Mahāprabhu, as it is said, “sees the moving and the nonmoving but does not see their forms; everywhere the form of His worshipable Lord appears.”[^360-1]
+The *pañcopāsakas* (worshipers of five deities) attribute worshipability to things manifest in the world and accessible to the knowledge of the material senses. But the *Śrīmad-Bhāgavatam* and Śrī Kṛṣṇa Caitanyadeva do not call “the highest goal” (*paramārtha*) what is known by such sense-born (*akṣaja*) knowledge devoted to pleasing the senses. The Māyāvādī *ahaṅgrahopāsakas*, who worship themselves as God, cut off the hands, feet, and so on of the Supreme Reality and, deluded, call an indefinable “sky-flower” *adhokṣaja*. Sometimes by the word *upāsya* (object of worship) they mean a featureless state devoid of variety and “covered by darkness,” or the wild dance (*tāṇḍava*) of inertness. Śrī Gaurasundara, on the basis of the teaching of inconceivable oneness and difference (*acintya-bhedābheda*) established by the *Śrīmad-Bhāgavatam*, showed the futility of the experience of such *karmīs*, *jñānīs*, and *yogīs*. In doing so He everywhere saw only Bhagavān — the Reality in which the name, form, qualities, and pastimes of the nondual Knowledge are revealed. The way non-Vaiṣṇavas see Śiva and various other gods, or Śākyasiṁha (“Dharma,” “Saṅgha,” and “Buddha”), is not Vaiṣṇava vision. To make this known Mahāprabhu saw only the *adhokṣaja*. External, sense-born (*akṣaja*) vision stands in complete opposition to seeing the *adhokṣaja* by the soul's own faculty (*ātma-vṛtti*). This is what the servants of Gaura must follow. The *prākṛta-sahajiyās* say that seeing Gopījana-vallabha in the hearts of the *gopīs*, Kṛṣṇa's associates, is “the same as” or “equal to” seeing various gods such as “Mahāmāyā,” an instrument of enjoyment — and so fall into the pit of *vivarta*. Argumentative *haitukas*, unable to grasp the path of *śruti*, become “henotheists,” or *pañcopāsakas*. They meditate on the five worshipable gods as one among the many manifestations of power in the external world, believe one of the five to be “Parameśvara,” and, though the others are of the same kind, rank them lower and disregard them. This seeing of symbols (*pratīka*) of the featureless Brahman throughout the universe is “*pañcopāsanā*.” Such vision belongs to idolatry (*pauttalikatā-vāda*)[^360-2], that is, to the worship of images (*pratimā-pūjā*); later it turned into the Māyāvādīs' “*nirviśeṣa-vāda*.” Only from a famine of seeing Kṛṣṇa does a *jīva* become a non-Vaiṣṇava — a *pañcopāsaka*, and sometimes an atheist. But Mahāprabhu, as it is said, “sees the moving and the nonmoving but does not see their forms; everywhere the form of His worshipable Lord appears.”[^360-1]
 
 ## 361
 
@@ -1443,9 +1443,17 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 
 [^79-2]: The edition prints “…শ্রেণ্যামারাধ্য…” (*śreṇyām ārādhya*); the word *śreṇyām* gives no clear sense here; from the context (the governor of Giṅgi is mentioned above), probably *ceñjyām*, “at Ceñji,” that is, Giṅgi; the translation is tentative.
 
+[^94-1]: So in the edition (“ভাঃ ৪।৩১।৩২”). In the usual numbering of the Fourth Canto of the *Bhāgavatam* (Bhaktivedanta edition) chapter 31 has thirty-one verses, so there is no verse 4.31.32; the edition presumably divides the verses differently, or the reference is inexact. Not corrected.
+
 [^102-1]: The edition numbers this section “২০২,” an obvious misprint for 102: it stands between sections 94–96 and 105 and in content belongs to verse 102.
 
+[^111-1]: So in the edition (“আদি ৫ম পঃ ২২৭”). The subject here is Lakṣmī, captivated by Kṛṣṇa's beauty and engaged in austerities; this is treated in Ādi 5.223 in our numbering (where the *Anubhāṣya* also gives the story from the *Padma Purāṇa*). Ādi 5.227 in our numbering is the verse on Nityānanda's mercy. Not corrected.
+
+[^114-1]: So in the edition (“মধ্য ৮ম পঃ ১৪৭”). The verse *kasyānubhāvo 'sya na deva vidmahe…* is Madhya 8.146 (both in our numbering and in the edition itself; the edition refers to 8.146 in its *Anubhāṣya* to verses 111–116). Madhya 8.147 is a different verse. Not corrected.
+
 [^143-1]: So in the edition (checked against the scan). The verse “*ete cāṁśa-kalāḥ puṁsaḥ*” is cited at Ādi 2.67; “Madhya” seems to have been printed in place of “Ādi.”
+
+[^175-1]: So in the edition (“বন-পর্ব্বে ৫৮ অঃ”). This verse (*śrī-parvate mahādevo devyā saha mahā-dyutiḥ…*) is in the pilgrimage section of the *Vana-parva*; according to an online text (the vulgate) it is *Vana-parva* 83.17—not checked against the printed edition. Not corrected.
 
 [^218-1]: The edition prints the section number as “১১৮” (118); by content it belongs to verse 218.
 
@@ -1461,12 +1469,14 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 
 [^263-1]: So in the edition (“কাম”); in view of the verse, perhaps *karma* (কর্ম্ম) is meant.
 
-[^273-1]: The succession list appears in the *Anubhāṣya* to verse 245 (in the edition that section is marked “২৪৫”).
+[^273-1]: The edition's cross-reference reads “২৪৭ সংখ্যার অনুভাষ্য” (the *Anubhāṣya* to number 247). The succession list of the Uttararāḍhī Maṭha is in the *Anubhāṣya* to verse 245 (section 245–247; see above).
 
 [^273-2]: So in the edition (“রঘুবীর্য্যতীর্থ”); in the succession list and in the subheading to verse 254, “Raghuvarya.”
 
 [^278-1]: Vṛndāvana Candra Dāsa's verse translation differs: “broke the pride of the Tattvavādīs” (for the commentator, the pride of the *ācārya* himself).
 
 [^360-1]: *Caitanya-caritāmṛta*, Madhya 8.273 (numbering of Vṛndāvana Candra Dāsa's translation); the edition quotes it with a slight variant.
+
+[^360-2]: “Idolatry” (*pauttalika-vāda*) here is a term of Bhaktisiddhānta Sarasvatī Ṭhākura: it refers to the worship of worldly symbols of the featureless Brahman (*pañcopāsanā*), not to the worship of the Deity (*arcā-vigraha*), who is not an “image.”
 
 [^362-1]: *Śvetāśvatara Upaniṣad* 3.8.

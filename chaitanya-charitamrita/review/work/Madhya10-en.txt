@@ -1,0 +1,477 @@
+# English translation, Madhya-līlā 10 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya10.txt, .p2.txt), revised against the Bengali and the «Anubhāṣya».
+
+## 0
+tr: The Meeting with the Vaiṣṇavas
+
+## 1
+w: that  I worship  Gaura the raincloud
+w: His own  who  by the nectar of the sight
+w: by the drought of separation  withered
+w: the crops of the devotees  brought back to life
+tr: I worship that raincloud, Gaura, who by the nectar of His own sight brought back to life the crops of His devotees, withered by the drought of separation.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: earlier  when  Mahāprabhu  went  south
+w: Pratāparudra  the king  then  summoned  Sārvabhauma
+tr: Earlier, when Mahāprabhu had gone to the south, King Pratāparudra summoned Sārvabhauma.
+
+## 4
+w: to sit  a seat  he gave  making  obeisance
+w: of Mahāprabhu  the news  then  he asked  him
+tr: Bowing to him, the king offered him a seat and then asked him for news of Mahāprabhu.
+
+## 5
+w: I have heard  in your  house  a  great soul
+w: Gauḍa  from  has come  He  full of great mercy
+tr: “I have heard that a great soul has come from Gauḍa and is staying in your house, and that He is supremely merciful.
+
+## 6
+w: to you  great  mercy  He showed  say  all people
+w: mercy  showing  arrange  for me  His  sight
+tr: Everyone says that He has shown you great mercy. Be kind enough to let me see Him.”
+
+## 7
+w: the Bhaṭṭa  says  what  you have heard  all  true  is
+w: His  sight  for you  happening  not  is
+tr: The Bhaṭṭācārya said, “All that you have heard is true. But it is not possible for you to see Him.
+
+## 8
+w: renounced  sannyāsī  He  lives  in solitude
+w: even in a dream  not  does  He  meeting a king
+tr: He is a renounced sannyāsī who lives in solitude; not even in a dream would He meet a king.
+
+## 9
+w: still  somehow  for you  I would have arranged  a sight
+w: just now  has made  He  to the south  departure
+tr: Still, I would have found some way to arrange for you to see Him; but just now He has gone to the south.”
+
+## 10
+w: the king  says  Jagannātha  leaving  why  did He go
+w: the Bhaṭṭa  says  of a great soul  this  one  pastime
+tr: The king asked, “Why did He leave Jagannātha and go away?” The Bhaṭṭācārya replied, “That is a pastime of great souls.
+
+## 11
+w: the holy places  pure  to make  He makes  a pilgrimage
+w: on that  pretext  delivers  worldly  people
+tr: To purify the holy places, He travels on pilgrimage, and on that pretext He delivers worldly people.
+
+## 12
+w: like you  devotees
+w: become holy places  yourselves  O lord
+w: make holy  the holy places
+w: by Him within  who bears the club
+tr: “Devotees such as you are themselves holy places, my lord. By the Lord who dwells within your hearts, you make even the holy places holy.” (Śrīmad-Bhāgavatam, 1.13.10)
+
+## 13
+w: of a Vaiṣṇava  this  is  one  nature  unchanging
+w: He  a jīva  is not  He is  the independent  Lord
+tr: That is the unchanging nature of a Vaiṣṇava. But He is no jīva: He is the independent Lord Himself.”
+
+## 14
+w: the king  says  Him  you  to go  why  did you let
+w: at His feet  falling  effort  making  why  not  did you keep (Him)
+tr: The king said, “Why did you let Him go? Why did you not fall at His feet and do all you could to keep Him here?”
+
+## 15
+w: the Bhaṭṭācārya  says  He  Himself  the Lord  independent
+w: directly  Śrī Kṛṣṇa  He  is not  dependent on others
+tr: The Bhaṭṭācārya said, “He is the Lord Himself, fully independent — Śrī Kṛṣṇa in person. He depends on no one.
+
+## 16
+w: still  to keep  Him  great effort  I made
+w: of the Lord  independent  the will  to keep (Him)  I could not
+tr: Even so, I tried very hard to keep Him; but the Lord’s will is His own, and I could not hold Him back.”
+
+## 17
+w: the king  says  Bhaṭṭa  you  of the learned  the crest-jewel
+w: you  Him  Kṛṣṇa  call  therefore  as truth  I accept
+tr: The king said, “Bhaṭṭa, you are the crest-jewel of the learned. Since you call Him Kṛṣṇa, I accept it as the truth.
+
+## 18
+w: again  here  His  when there is  coming
+w: once  seeing  I will make  fruitful  my eyes
+tr: When He comes here again, let me see Him just once and make my eyes fruitful.”
+
+## 19
+w: the Bhaṭṭācārya  says  He  will come  shortly
+w: to stay  for Him  a  place  I want  secluded
+tr: The Bhaṭṭācārya said, “He will come back soon. I would like a secluded place for Him to stay.
+
+## 20
+w: of the Lord (Jagannātha)  near  and  it should be  in solitude
+w: such  a decision  making  give  a  place
+tr: It should be near the Lord Jagannātha and also quiet. Please choose and give such a place.”
+
+## 21
+w: the king  says  such  of Kāśī Miśra  the house
+w: of the Lord  near  it is  very  secluded
+tr: The king said, “Kāśī Miśra’s house is just such a place. It is near the Lord and very secluded.”
+
+## 22
+w: so  saying  the king  remains  eager  being
+w: the Bhaṭṭācārya  to Kāśī Miśra  told  coming
+tr: Having said this, the king waited eagerly, and the Bhaṭṭācārya went and told Kāśī Miśra.
+
+## 23
+w: Kāśī Miśra  says  I  very  fortunate
+w: in my  house  of Prabhupāda  will be  the stay
+tr: Kāśī Miśra said, “I am most fortunate: Prabhupāda will stay in my house!”
+
+## 24
+w: in this way  of Puruṣottama the residents  all  people
+w: the Lord  to meet  of all  eager  the minds
+tr: In this way all the people of Puruṣottama were eager to meet the Lord.
+
+## 25
+w: of all people  the eagerness  when  extremely  increased
+w: Mahāprabhu  the south  from  quickly  came
+tr: When everyone’s longing had grown intense, Mahāprabhu came back quickly from the south.
+
+## 26
+w: hearing  joyful  became  of all  the minds
+w: all  coming  to Sārvabhauma  made  a request
+tr: Hearing of it, everyone rejoiced. They all came to Sārvabhauma and pleaded with him:
+
+## 27
+w: the Lord  with  for us all  arrange  a sight
+w: by your  grace  may we obtain  of the Lord  the feet
+tr: “Arrange for us all to see the Lord. By your grace may we reach His feet.”
+
+## 28
+w: the Bhaṭṭācārya  says  tomorrow  of Kāśī Miśra  to the house
+w: the Lord  will go  there  I will bring together  you all
+tr: The Bhaṭṭācārya said, “Tomorrow the Lord will go to Kāśī Miśra’s house; there I will bring you all to meet Him.”
+
+## 29
+w: the next  day  Mahāprabhu  the Bhaṭṭācārya  with
+w: Jagannātha’s  sight  He had  with great joy
+tr: The next day Mahāprabhu went with the Bhaṭṭācārya and joyfully saw Jagannātha.
+
+## 30
+w: mahā-prasāda  giving  there  met (Him)  the servants
+w: Mahāprabhu  all of them  gave  embrace
+tr: There the servants of the Deity met Him and gave Him *mahā-prasāda*, and Mahāprabhu embraced them all.
+
+## 31
+w: the sight  having had  Mahāprabhu  went  outside
+w: the Bhaṭṭācārya  brought  Him  to Kāśī Miśra’s house
+tr: After seeing the Lord, Mahāprabhu came out, and the Bhaṭṭācārya brought Him to Kāśī Miśra’s house.
+
+## 32
+w: Kāśī Miśra  coming  fell  of the Lord  at the feet
+w: the house  together with  himself  to Him  made  offering
+tr: Kāśī Miśra came and fell at the Lord’s feet, offering Him himself together with his house.
+
+## 33
+w: the Lord  four-armed form  to him  showed
+w: His own  making  him  embrace  He gave
+tr: The Lord showed him His four-armed form, made him His own and embraced him.
+
+## 34
+w: then  Mahāprabhu  there  sat  on a seat
+w: all around  sat  headed by Nityānanda  the devotees
+tr: Then Mahāprabhu sat down there, and the devotees headed by Nityānanda sat all around Him.
+
+## 35
+w: pleased  became  seeing  the Lord  of the residence  the arrangement
+w: in which  residence  is  for the Lord  every provision
+tr: The Lord was pleased to see how the residence was arranged: it held everything He would need.
+
+## 36
+w: Sārvabhauma  says  Lord  suitable  Your  residence
+w: You  acceptance  make  of Kāśī Miśra  the hope
+tr: Sārvabhauma said, “Lord, this residence is fit for You. Please accept it — that is Kāśī Miśra’s hope.”
+
+## 37
+w: the Lord  says  this  body  of you all
+w: whatever  you  say  that  duty  My
+tr: The Lord said, “This body belongs to all of you. Whatever you say, that I must do.”
+
+## 38
+w: then  Sārvabhauma  of the Lord  at the right side  sitting
+w: to introduce  began  all  of Puruṣottama the residents
+tr: Then Sārvabhauma, seated at the Lord’s right, began to introduce to Him all the residents of Puruṣottama:
+
+## 39
+w: these  all  people  Lord  live  in Nīlācala
+w: eager  they have been  all  You  to meet
+tr: “Lord, all these people live in Nīlācala. They have all been longing to meet You.
+
+## 40
+w: thirsty  cātaka birds  as  make  cries of distress
+w: so  these  all  all  make  acceptance
+tr: As thirsty *cātaka* birds cry out in distress, so have all of them. Please accept them all.
+
+## 41
+w: of Jagannātha a servant  this  name  Janārdana
+w: during the anavasara  does  of the Lord  service to the divine body
+tr: This is Janārdana, a servant of Jagannātha. During the *anavasara* he serves the Lord’s divine body.
+
+## 42
+w: Kṛṣṇadāsa  name  this  golden  staff-bearer
+w: Śikhi Māhiti by name  this  the scribe
+tr: This is Kṛṣṇadāsa, who bears the golden staff, and this is Śikhi Māhiti, the scribe.
+
+## 43
+w: Pradyumna Miśra  this  of Vaiṣṇavas  the chief
+w: of Jagannātha  the great sevitor  he  Dāsa  by name
+tr: This is Pradyumna Miśra, the foremost of the Vaiṣṇavas; he is a great sevitor of Jagannātha, known by the name “Dāsa.”
+
+## 44
+w: Murāri Māhiti  this  of Śikhi Māhiti  the brother
+w: Your  feet  except  other  refuge  he has not
+tr: This is Murāri Māhiti, Śikhi Māhiti’s brother. He has no refuge but Your feet.
+
+## 45
+w: Candaneśvara  Siṁheśvara  Murāri  the brāhmaṇa
+w: Viṣṇudāsa  these  meditate on  Your  feet
+tr: Candaneśvara, Siṁheśvara, Murāri the brāhmaṇa and Viṣṇudāsa — they all meditate on Your feet.
+
+## 46
+w: the Praharāja  Mahāpātra  this  of great wisdom
+w: Paramānanda  Mahāpātra  his  (name) joined (to the title)
+tr: This is the Praharāja Mahāpātra, a man of great wisdom; his name is Paramānanda Mahāpātra.
+
+## 47
+w: all these  Vaiṣṇavas  of this  holy place  the ornaments
+w: with single-minded devotion  think of  all  Your  feet
+tr: All these Vaiṣṇavas are the ornaments of this holy place. With one-pointed devotion they all think of Your feet.”
+
+## 48
+w: then  all  on the ground  falling  like rods  becoming
+w: all  embraced  the Lord  grace  showing
+tr: Then they all fell flat on the ground like rods, and the Lord graciously embraced each of them.
+
+## 49
+w: at that time  came  there  Bhavānanda Rāya
+w: four sons with  falls  of Mahāprabhu  at the feet
+tr: Just then Bhavānanda Rāya arrived and, with his four sons, fell at Mahāprabhu’s feet.
+
+## 50
+w: Sārvabhauma  says  this  Rāya  Bhavānanda
+w: his  first  son  Rāya  Rāmānanda
+tr: Sārvabhauma said, “This is Bhavānanda Rāya. His eldest son is Rāmānanda Rāya.”
+
+## 51
+w: then  Mahāprabhu  him  gave  embrace
+w: praise  making  speaks  of Rāmānanda  in detail
+tr: Then Mahāprabhu embraced him and spoke at length in praise of Rāmānanda:
+
+## 52
+w: a jewel like Rāmānanda  whose  son
+w: his  glory  in the world  to describe  not  is possible
+tr: “The glory of one whose son is a jewel like Rāmānanda cannot be described in this world.
+
+## 53
+w: directly  Pāṇḍu  you  your  wife  Kuntī
+w: the five Pāṇḍavas  your  five sons  greatly wise
+tr: You are Pāṇḍu himself, and your wife is Kuntī; your five wise sons are the five Pāṇḍavas.”
+
+## 54
+w: Rāya  says  I  a śūdra  worldly  fallen
+w: yet  You  touch (me)  this  the mark of the Lord
+tr: Rāya said, “I am a fallen, worldly śūdra, yet You touch me — this is the mark of the Lord.
+
+## 55
+w: with my own house, wealth, servants and five sons
+w: myself  have surrendered  I  at Your  feet
+tr: Together with my house, my wealth, my servants and my five sons, I have surrendered myself at Your feet.
+
+## 56
+w: this  Vāṇīnātha  will remain  at Your  feet
+w: whenever  whatever  order  that  he will carry out  in service
+tr: This Vāṇīnātha will stay at Your feet and carry out whatever You order, whenever You order it.
+
+## 57
+w: as Your own  knowing  with me  hesitation  not  have
+w: whatever  whenever  desire  then  that  order  give
+tr: Regard me as Your own and do not hesitate with me: whatever You want, whenever You want it, give the order.”
+
+## 58
+w: the Lord  says  what  hesitation  you  are not  a stranger
+w: birth  after birth  you  My  with your family  servant
+tr: The Lord said, “Why should I hesitate? You are no stranger. Birth after birth you and your family have been My servants.
+
+## 59
+w: days five or seven  within  will come  Rāmānanda
+w: him  with  complete  will be  My  joy
+tr: Rāmānanda will come within five or seven days. In his company My joy will be complete.”
+
+## 60
+w: so  saying  the Lord  him  gave  embrace
+w: his  sons  all  on their heads  held  His feet
+tr: Saying this, the Lord embraced him, and his sons all placed the Lord’s feet on their heads.
+
+## 61
+w: then  Mahāprabhu  him  home  sent
+w: Vāṇīnātha Paṭṭanāyaka  near (Him)  He kept
+tr: Then Mahāprabhu sent him home, keeping Vāṇīnātha Paṭṭanāyaka with Him.
+
+## 62
+w: the Bhaṭṭācārya  all  the people  leave to go  had them take
+w: then  the Lord  Kālā Kṛṣṇadāsa  called
+tr: The Bhaṭṭācārya saw all the people off, and the Lord then called for Kālā Kṛṣṇadāsa.
+
+## 63
+w: the Lord  says  Bhaṭṭācārya  hear  his  conduct
+w: to the south  had gone  he  Me  with
+tr: The Lord said, “Bhaṭṭācārya, hear what this man did. He went with Me to the south.
+
+## 64
+w: to the Bhaṭṭathāris  he went  Me  leaving
+w: the Bhaṭṭathāris  from  him  I brought  rescuing
+tr: There he left Me and went off to the Bhaṭṭathāris; I rescued him from them and brought him back.
+
+## 65
+w: now  I  here  having brought (him)  have dismissed (him)
+w: where  he wishes  let him go  with Me  no  longer  responsibility
+tr: Now that I have brought him here, I have dismissed him. Let him go wherever he likes; I am no longer responsible for him.”
+
+## 66
+w: this  hearing  Kṛṣṇadāsa  to weep  began
+w: the midday duties  to perform  Mahāprabhu  going  went
+tr: Hearing this, Kṛṣṇadāsa began to weep, and Mahāprabhu went off to attend to His midday duties.
+
+## 67
+w: Nityānanda  Jagadānanda  Mukunda  Dāmodara
+w: the four  counsel  then  held  among themselves
+tr: Then Nityānanda, Jagadānanda, Mukunda and Dāmodara took counsel among themselves:
+
+## 68
+w: to the land of Gauḍa  to send  we want  one person
+w: to mother  will tell  going  of the Lord  the coming
+tr: “We need to send someone to Gauḍa to go and tell mother of the Lord’s return.
+
+## 69
+w: headed by Advaita and Śrīvāsa  all  the devotees
+w: all  will come  hearing  of the Lord  the coming
+tr: When they hear of the Lord’s return, all the devotees headed by Advaita and Śrīvāsa will come.
+
+## 70
+w: this  Kṛṣṇadāsa  we will  to Gauḍa  send
+w: so  saying  him  they kept  reassuring
+tr: We will send this Kṛṣṇadāsa to Gauḍa.” Saying this, they reassured him and kept him with them.
+
+## 71
+w: the next  day  to the Lord  they made  a request
+w: permission  give  to the land of Gauḍa  let us send  one person
+tr: The next day they put their request to the Lord: “Give us permission to send someone to Gauḍa.
+
+## 72
+w: of Your  going south  hearing  Śacī  mother
+w: headed by Advaita  the devotees  all  are  grief  suffering
+tr: Ever since they heard that You went south, mother Śacī and all the devotees headed by Advaita have been grieving.
+
+## 73
+w: one person  going  let him tell  the good  news
+w: the Lord  says  that  do  what  wish  your
+tr: Let someone go and tell them the good news.” The Lord said, “Do as you wish.”
+
+## 74
+w: then  that  Kṛṣṇadāsa  to Gauḍa  they sent
+w: to the Vaiṣṇavas all  to give  mahā-prasāda  they gave (him)
+tr: So they sent that Kṛṣṇadāsa to Gauḍa, and gave him *mahā-prasāda* to give to all the Vaiṣṇavas.
+
+## 75
+w: then  to the land of Gauḍa  came  Kālā Kṛṣṇadāsa
+w: to Navadvīpa  went  he  to mother Śacī
+tr: Kālā Kṛṣṇadāsa came to Gauḍa and went to mother Śacī in Navadvīpa.
+
+## 76
+w: mahā-prasāda  giving  to her  he made  obeisance
+w: the south  from  has come  the Lord  he tells  the news
+tr: He gave her the *mahā-prasāda*, bowed to her and told her the news: the Lord had come back from the south.
+
+## 77
+w: hearing  joyful  became  of mother Śacī  the heart
+w: headed by Śrīvāsa  and  all  all  the devotees
+tr: Hearing it, mother Śacī rejoiced at heart, and so did Śrīvāsa and all the other devotees.
+
+## 78
+w: hearing  of all  there was  supreme  delight
+w: to Advaita Ācārya’s house  went  Kṛṣṇadāsa
+tr: Everyone who heard it was overjoyed. Then Kṛṣṇadāsa went to the house of Advaita Ācārya.
+
+## 79
+w: to the Ācārya  prasāda  giving  making  obeisance
+w: fully  he told  of Mahāprabhu  the news
+tr: He gave the Ācārya the *prasāda*, bowed to Him and told Him all the news of Mahāprabhu.
+
+## 80
+w: hearing  of the Ācārya Gosāñi  joy  arose
+w: absorbed in love  much  dancing, singing and roaring  He did
+tr: Hearing it, Ācārya Gosāñi was filled with joy. Absorbed in love, He danced and sang and roared again and again.
+
+## 81–84
+w: of Haridāsa Ṭhākura  there was  supreme  joy
+w: Vāsudeva  Datta  Gupta  Murāri  Sena  Śivānanda
+w: Ācāryaratna  and  Paṇḍita  Vakreśvara
+w: Ācāryanidhi  and  Paṇḍita  Gadādhara
+w: Śrīrāma  Paṇḍita  and  Paṇḍita  Dāmodara
+w: Śrīmān  Paṇḍita  and  Vijaya  Śrīdhara
+w: Rāghava Paṇḍita  and  Ācārya  Nandana
+w: how many  shall I name  more  all  the devotees
+tr: Haridāsa Ṭhākura was overjoyed, and so were Vāsudeva Datta, Murāri Gupta, Śivānanda Sena, Ācāryaratna, Vakreśvara Paṇḍita, Ācāryanidhi, Gadādhara Paṇḍita, Śrīrāma Paṇḍita, Dāmodara Paṇḍita, Śrīmān Paṇḍita, Vijaya, Śrīdhara, Rāghava Paṇḍita, Ācārya Nandana — how can I name all the other devotees?
+
+## 85
+w: hearing  of all  there was  supreme  delight
+w: all  together  went  to Śrī Advaita
+tr: Overjoyed at the news, they all went together to Śrī Advaita.
+
+## 86
+w: of the Ācārya  all  made  the feet  worship
+w: Ācārya Gosāñi  all  gave  embrace
+tr: All of them bowed at the Ācārya’s feet, and Ācārya Gosāñi embraced them all.
+
+## 87
+w: days  two or three  the Ācārya  a great festival  held
+w: to Nīlācala  to go  the Ācārya  decision  firm  made
+tr: For two or three days the Ācārya held a great festival, and then He firmly resolved to go to Nīlācala.
+
+## 88
+w: all  together  in Navadvīpa  in one place  gathering
+w: to Nīlādri  they set out  of mother Śacī  permission  taking
+tr: They all gathered together in Navadvīpa and, taking mother Śacī’s permission, set out for Nīlādri.
+
+## 89
+w: of the Lord  the news  hearing  of Kulīna-grāma the residents
+w: Satyarāja and Rāmānanda  joined  all  coming
+tr: Hearing the news of the Lord, the residents of Kulīna-grāma — Satyarāja, Rāmānanda and all the rest — came and joined them.
+
+## 90
+w: Mukunda  Narahari  Raghunandana  Khaṇḍa  from
+w: to the Ācārya  came  to Nīlācala  to go
+tr: Mukunda, Narahari and Raghunandana came from Khaṇḍa to the Ācārya to go to Nīlācala.
+
+## 91
+w: at that time  the south  from  Paramānanda Purī
+w: along the bank of the Gaṅgā  came  to the town of Nadīyā
+tr: At that time Paramānanda Purī, coming from the south along the bank of the Gaṅgā, arrived in the town of Nadīyā.
+
+## 92
+w: mother’s  in the house  happily  he took  rest
+w: mother  to him  alms (a meal)  gave  showing  respect
+tr: He stayed happily in mother Śacī’s house, and she respectfully gave him his meal.
+
+## 93
+w: of the Lord  the return  he  there  heard
+w: quickly  to Nīlācala  to go  his  desire  arose
+tr: There he heard of the Lord’s return, and he wanted to go to Nīlācala at once.
+
+## 94
+w: of the Lord  one  devotee  dvija Kamalākānta  by name
+w: him  taking  to Nīlācala  he set out
+tr: Taking with him one of the Lord’s devotees, a brāhmaṇa named Kamalākānta, he set out for Nīlācala.
+
+## 95
+w: quickly  coming  he  met  the Lord
+w: of the Lord  joy  there was  obtaining  him
+tr: He came quickly and met the Lord, and the Lord rejoiced to have him there.
+

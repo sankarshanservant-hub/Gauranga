@@ -1777,7 +1777,7 @@ of mahābhāva  the embodiment  She
 guṇair ativarīyasī  
 in virtues  far surpassing
 
-(160) “Of the two, Rādhikā is superior in every way. She is the embodiment of *mahābhāva*, and in virtues She surpasses all.” (Ujjvala-nīlamaṇi 4.3)
+(160) “Of the two, Rādhikā is superior in every way. She is the embodiment of *mahābhāva*, and in virtues She surpasses all.” (Ujjvala-nīlamaṇi, 4.3)
 
 প্রেমের ‘স্বরূপ-দেহ’ — প্রেম-বিভাবিত ৷  
 ‘কৃষ্ণের প্রেয়সী-শ্রেষ্ঠা’ জগতে বিদিত ॥ ১৬১ ॥
@@ -1803,7 +1803,7 @@ in Goloka  indeed  dwells  of all  the soul  being
 govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
 Govinda  the original  Person  Him  I  worship
 
-(162) “I worship Govinda, the original Person, the Soul of all. He dwells eternally in Goloka with the gopīs, His potencies (*kalās*), who are one with Him in nature and imbued with blissful spiritual rasa.” (Brahma-saṁhitā 5.37)
+(162) “I worship Govinda, the original Person, the Soul of all. He dwells eternally in Goloka with the gopīs, His potencies (*kalās*), who are one with Him in nature and imbued with blissful spiritual rasa.” (Brahma-saṁhitā, 5.37)
 
 সেই মহাভাব হয় ‘চিন্তামণি-সার’ ৷  
 কৃষ্ণ-বাঞ্ছা পূর্ণ করে এই কার্য্য তাঁর ॥ ১৬৩ ॥
@@ -1999,7 +1999,7 @@ crookedness  in the hair  in the eyes  restlessness  firmness  in the breasts  w
 vāñcā-pūrtyai prabhavati hare rādhikaikā na cānyā  
 of the desires  for the fulfillment  is able  of Hari  Rādhikā alone  not  and  another
 
-(181) “Who is the birthplace of Kṛṣṇa’s love? Śrīmatī Rādhikā alone. Who is His beloved of matchless virtues? Rādhikā alone, and no other. Crookedness in Her hair, restlessness in Her eyes, firmness in Her breasts — Rādhikā alone, and no other, is able to fulfill Hari’s desires.” (Govinda-līlāmṛta 11.122)
+(181) “Who is the birthplace of Kṛṣṇa’s love? Śrīmatī Rādhikā alone. Who is His beloved of matchless virtues? Rādhikā alone, and no other. Crookedness in Her hair, restlessness in Her eyes, firmness in Her breasts — Rādhikā alone, and no other, is able to fulfill Hari’s desires.” (Govinda-līlāmṛta, 11.122)
 
 যাঁর সৌভাগ্য-গুণ বাঞ্ছে সত্যভামা ৷  
 যাঁর ঠাঞি কলাবিলাস শিখে ব্রজ-রামা ॥ ১৮২ ॥
@@ -2063,7 +2063,7 @@ free from care  dhīra-lalita
 syāt prāyaḥ preyasī-vaśaḥ  
 is  generally  by His beloveds  controlled
 
-(187) “Clever, ever fresh in youth, expert in jesting and free from care, and generally controlled by His beloveds — such is the *dhīra-lalita* hero.” (Bhakti-rasāmṛta-sindhu 2.1.230)
+(187) “Clever, ever fresh in youth, expert in jesting and free from care, and generally controlled by His beloveds — such is the *dhīra-lalita* hero.” (Bhakti-rasāmṛta-sindhu, 2.1.230)
 
 রাত্রি-দিন কুঞ্জে ক্রীড়া করে রাধা-সঙ্গে ৷  
 কৈশোর বয়স সফল কৈল ক্রীড়া-রঙ্গে ॥ ১৮৮ ॥
@@ -2089,7 +2089,7 @@ on Her  breasts  of the picture  of playful  makarīs  of the skill  the limit  
 kaiśoraṁ saphalī-karoti kalayan kuñje vihāraṁ hariḥ  
 youth  fruitful  makes  performing  in the bower  pastimes  Hari
 
-(189) “By words that hinted boldly at the arts of love of the night before, He made Rādhikā close Her eyes in shyness before Her friends; then, drawing playful *makarīs* on Her breasts, He showed the utmost skill. So Hari, sporting in the bowers, makes His youth fruitful.” (Bhakti-rasāmṛta-sindhu 2.1.231)”
+(189) “By words that hinted boldly at the arts of love of the night before, He made Rādhikā close Her eyes in shyness before Her friends; then, drawing playful *makarīs* on Her breasts, He showed the utmost skill. So Hari, sporting in the bowers, makes His youth fruitful.” (Bhakti-rasāmṛta-sindhu, 2.1.231)”
 
 প্রভু কহে, — এহো হয়, আগে কহ আর ৷  
 রায় কহে, — ইহা বই বুদ্ধি-গতি নাহি আর ॥ ১৯০ ॥
@@ -2169,7 +2169,7 @@ for wonder  himself  colored  here  of the universe  of the palace  within
 bhūyobhir nava-rāga-hiṅgula-bharaiḥ śṛṅgāra-kārukṛtī  
 with abundant  of new  rāga  of vermilion  masses  of śṛṅgāra  the skilled artist
 
-(194) “O lord of elephants who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that the illusion of difference vanished. Then, here within the palace of the universe, he himself colored them, for wonder, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi 14.155)
+(194) “O lord of elephants who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that the illusion of difference vanished. Then, here within the palace of the universe, he himself colored them, for wonder, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi, 14.155)
 
 প্রভু কহে, — ‘সাধ্যবস্তুর অবধি’ এই হয় ৷  
 তোমার প্রসাদে ইহা জানিলুঁ নিশ্চয় ॥ ১৯৫ ॥
@@ -2282,7 +2282,7 @@ carries  of rasa  the fullness  spiritual opulences  as  the Lord
 śrayati na padam āsāṁ kaḥ sakhīnāṁ rasa-jñaḥ  
 takes shelter  not  at the feet  of these  who  of the sakhīs  a knower of rasa
 
-(205) “Though the love (*bhāva*) of Rādhā and Kṛṣṇa is boundless, happiness itself and self-manifest, without Their own *sakhīs* it never for a moment carries the fullness of *rasa*, just as the Lord does not without His spiritual opulences. What knower of *rasa*, then, would not take shelter at the feet of these *sakhīs*?” (Govinda-līlāmṛta 10.17)
+(205) “Though the love (*bhāva*) of Rādhā and Kṛṣṇa is boundless, happiness itself and self-manifest, without Their own *sakhīs* it never for a moment carries the fullness of *rasa*, just as the Lord does not without His spiritual opulences. What knower of *rasa*, then, would not take shelter at the feet of these *sakhīs*?” (Govinda-līlāmṛta, 10.17)
 
 সখীর স্বভাব এক অকথ্য-কথন ৷  
 কৃষ্ণ-সহ নিজলীলায় নাহি সখীর মন ॥ ২০৬ ॥
@@ -2338,7 +2338,7 @@ when watered  of Kṛṣṇa’s  pastimes  of the nectar  of rasa  with floods 
 jātollāsāḥ sva-sekāc chata-guṇam adhikaṁ santi yat tan na citram  
 filled with joy  than from their own watering  a hundredfold  more  they become  that  this  not  a wonder
 
-(210) “The *sakhīs* of Śrī Rādhikā are equal to Her. Rādhikā is *hlādinī*, the potency of Kṛṣṇa, the moon who delights the lilies of Vraja, and the *sakhīs* are like the shoots, leaves and flowers of Her creeper of *prema*, the essence of that potency. When She is watered with floods of the nectarean *rasa* of Kṛṣṇa’s pastimes and rejoices, they become a hundred times more joyful than if they themselves were watered — and in this there is nothing to wonder at.” (Govinda-līlāmṛta 10.16)
+(210) “The *sakhīs* of Śrī Rādhikā are equal to Her. Rādhikā is *hlādinī*, the potency of Kṛṣṇa, the moon who delights the lilies of Vraja, and the *sakhīs* are like the shoots, leaves and flowers of Her creeper of *prema*, the essence of that potency. When She is watered with floods of the nectarean *rasa* of Kṛṣṇa’s pastimes and rejoices, they become a hundred times more joyful than if they themselves were watered — and in this there is nothing to wonder at.” (Govinda-līlāmṛta, 10.16)
 
 যদ্যপি সখীর কৃষ্ণ-সঙ্গমে নাহি মন ৷  
 তথাপি রাধিকা যত্নে করান সঙ্গম ॥ ২১১ ॥
@@ -2392,7 +2392,7 @@ therefore  Uddhava and others  even  it
 vāñchanti bhagavat-priyāḥ  
 desire  dear to the Lord
 
-(215) “It is the prema of the cowherd women that became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu 1.2.285)
+(215) “It is the prema of the cowherd women that became famed under the name *kāma*; and so even Uddhava and others dear to the Lord long for it.” (Bhakti-rasāmṛta-sindhu, 1.2.285)
 
 নিজেন্দ্রিয়সুখহেতু কামের তাৎপর্য্য ৷  
 কৃষ্ণসুখ-তাৎপর্য্য গোপীভাব-বর্য্য ॥ ২১৬ ॥
@@ -2428,7 +2428,7 @@ with them  the forest  You wander  they  are pained  not  whether
 kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ  
 by fine stones and such  whirls  the mind  of whom You are the life  our
 
-(218) “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam 10.31.19)
+(218) “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam, 10.31.19)
 
 সেই গোপীভাবামৃতে যাঁর লোভ হয় ৷  
 বেদধর্ম্ম ত্যজি’ সে কৃষ্ণকে ভজয় ॥ ২১৯ ॥
@@ -2484,7 +2484,7 @@ the women  of the king of serpents  like the body  to the arms  attached  whose 
 vayam api te samāḥ sama-dṛśo ’ṅghri-saroja-sudhāḥ  
 we  also  Your  like them  sharing their vision  of the lotus feet  the nectar
 
-(223) “The sages who have restrained breath, mind and senses and are firmly fixed in yoga worship in their hearts that Truth which even Your enemies attained by remembering You. The women, whose minds clung to Your mighty arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, becoming like them and sharing their vision, attained that nectar of Your lotus feet.” (Śrīmad-Bhāgavatam 10.87.23)
+(223) “The sages who have restrained breath, mind and senses and are firmly fixed in yoga worship in their hearts that Truth which even Your enemies attained by remembering You. The women, whose minds clung to Your mighty arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, becoming like them and sharing their vision, attained that nectar of Your lotus feet.” (Śrīmad-Bhāgavatam, 10.87.23)
 
 ‘সমদৃশঃ’-শব্দে কহে ‘সেই ভাবে অনুগতি’ ৷  
 ‘সমাঃ’-শব্দে কহে শ্রুতির গোপীদেহ-প্রাপ্তি ॥ ২২৪ ॥
@@ -2518,7 +2518,7 @@ by the jñānīs  and  who have become one with the self
 yathā bhakti-matām iha  
 as  by those who have bhakti  here
 
-(226) “Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the *jñānīs* who have become one with the self, as He is here by those who have *bhakti*.” (Śrīmad-Bhāgavatam 10.9.21)
+(226) “Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the *jñānīs* who have become one with the self, as He is here by those who have *bhakti*.” (Śrīmad-Bhāgavatam, 10.9.21)
 
 অতএব গোপীভাব করি অঙ্গীকার ৷  
 রাত্রি-দিন চিন্তে রাধাকৃষ্ণের বিহার ॥ ২২৭ ॥
@@ -2574,7 +2574,7 @@ in the festival of the rāsa  His  by the arms  embraced  the necks
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
 having obtained their wish  which  arose  of the beauties of Vraja
 
-(231) “Not even Śrī, who dwells on His chest and loves Him most intimately, received such grace, nor did the heavenly maidens with the fragrance and luster of lotuses — what then of other women? Such was the grace that came to the beauties of Vraja when, in the festival of the *rāsa*, His arms embraced their necks and their hopes were fulfilled.” (Śrīmad-Bhāgavatam 10.47.60)”
+(231) “Not even Śrī, who dwells on His chest and loves Him most intimately, received such grace, nor did the heavenly maidens with the fragrance and luster of lotuses — what then of other women? Such was the grace that came to the beauties of Vraja when, in the festival of the *rāsa*, His arms embraced their necks and their hopes were fulfilled.” (Śrīmad-Bhāgavatam, 10.47.60)”
 
 এত শুনি’ প্রভু তাঁরে কৈল আলিঙ্গন ৷  
 দুইজনে গলাগলি করেন ক্রন্দন ॥ ২৩২ ॥
@@ -2920,7 +2920,7 @@ of fire  water  earth  as  the interchange  in whom  the threefold creation  rea
 dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi  
 by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 
-(265) “Let us meditate on the Supreme Truth, from whom the birth and so on of this universe proceed, directly and indirectly; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam 1.1.1)
+(265) “Let us meditate on the Supreme Truth, from whom the birth and so on of this universe proceed, directly and indirectly; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)
 
 এক সংশয় মোর আছয়ে হৃদয়ে ৷  
 কৃপা করি’ কহ মোরে তাহার নিশ্চয়ে ॥ ২৬৬ ॥
@@ -3014,7 +3014,7 @@ the beings  in the Lord  in the Self
 eṣa bhāgavatottamaḥ  
 he  the best of devotees
 
-(274) “One who sees in all beings his own love for the Lord (*bhagavad-bhāva*), and sees all beings in the Lord, the Self of all, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam 11.2.45)
+(274) “One who sees in all beings his own love for the Lord (*bhagavad-bhāva*), and sees all beings in the Lord, the Self of all, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
 
 বনলতাস্তরব আত্মনি বিষ্ণুং  
 ব্যঞ্জয়ন্ত্য ইব পুষ্পফলাঢ়্যাঃ ৷  
@@ -3030,7 +3030,7 @@ bowed  with the weight  their branches  of honey  streams
 prema-hṛṣṭa-tanavo vavṛṣuḥ sma  
 with love  thrilled  bodies  showered  indeed
 
-(275) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam 10.35.9)
+(275) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)
 
 রাধাকৃষ্ণে তোমার মহাপ্রেম হয় ৷  
 যাঁহা তাঁহা রাধাকৃষ্ণ তোমারে স্ফুরয় ॥ ২৭৬ ॥

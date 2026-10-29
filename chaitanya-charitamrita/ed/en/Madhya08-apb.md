@@ -250,7 +250,7 @@ The hero who is clever, freshly youthful, expert in jesting, free from anxiety a
 
 “Ah, in the time of *pūrva-rāga*, before We had met, when We looked at each other a feeling arose that is called *rāga*. That *rāga* grew and grew and reached no ‘limit’ (*avadhi*), no measure. That *rāga* is born of the very nature of Us both. It is not that Kṛṣṇa, the enjoyer (*ramaṇa*), is its cause, nor that I, the enjoyed one (*ramaṇī*), am its cause.[^193-1] The *rāga* that arose when We saw each other became Manobhava, that is, Madana; it ground Our hearts together and made them one. Now it is the time of separation. O friend, if you see that Kṛṣṇa has forgotten all those stories of Our love, tell Him this: when We met, We sought no messenger (*dūtī*) and asked no one else for anything — the five arrows of Anaṅga were the go-between of Our meeting. And now, in separation, that *rāga* has become *virāga*, that is, a special *rāga* — the *rāga* of separation, *adhirūḍha-bhāva* — and you, friend, are acting as the messenger! In the love of a noble hero you will see this custom everywhere.”
 
-The meaning is this. In the time of *sambhoga*, *rāga* is a go-between, as it were, in the form of Anaṅga. In the time of *vipralambha* it likewise becomes a messenger filled with *adhirūḍha-bhāva*, and serves as the messenger in *prema-vilāsa-vivarta*, that is, in the appearance of *sambhoga* in the midst of *vipralambha*; and so Śrīmatī addresses it as “friend” (*sakhī*) and speaks these words. The essential meaning is this: in the *sambhoga* of *prema-vilāsa* there is joy, and in *vipralambha* there is the same joy. More than that, in *vipralambha* (because at the summit of service She is absorbed in Kṛṣṇa) — just as one takes a snake for a rope — a special kind of *sambhoga* arises: *adhirūḍha-mahābhāva* overcome by *vivarta*, in which She takes a *tamāla* tree and other things for Kṛṣṇa.
+The meaning is this. In the time of *sambhoga*, *rāga* is a go-between, as it were, in the form of Anaṅga. In the time of *vipralambha* it likewise becomes a messenger filled with *adhirūḍha-bhāva*, and serves as the messenger in *prema-vilāsa-vivarta*, that is, in the appearance of *sambhoga* in the midst of *vipralambha*; and so Śrīmatī addresses it as “friend” (*sakhī*) and speaks these words. The essential meaning is this: in the *sambhoga* of *prema-vilāsa* there is joy, and in *vipralambha* there is the same joy. More than that, in *vipralambha* (because at the summit of service She is absorbed in Kṛṣṇa) — just as one takes a snake for a rope[^193-2] — a special kind of *sambhoga* arises: *adhirūḍha-mahābhāva* overcome by *vivarta*, in which She takes a *tamāla* tree and other things for Kṛṣṇa.
 
 ## 194
 
@@ -347,6 +347,8 @@ To Śrī Mahāprabhu's questions Śrī Rāmānanda Rāya first gave five answers
 [^101-1]: The verse translation reads differently: it speaks of Rādhā's love, which could not show itself fully in the presence of the other gopīs. Bhaktivinoda (and the *Anubhāṣya* subheading) speak of Kṛṣṇa's love for Rādhā.
 
 [^193-1]: The verse translation reads differently: “it is not that Kṛṣṇa is a youth eager for enjoyment and I a maiden who gives it.”
+
+[^193-2]: So in the edition: সর্পে রজ্জু-ভ্রমের ন্যায় (literally “like the rope-delusion in a snake”); the usual example is the reverse: a rope is mistaken for a snake.
 
 [^194-1]: The edition reads কবিরাজ (“king of poets”); from the sense of the verse (*kuñjara-pati*, “king of elephants”) this is apparently a misprint for করিরাজ (king of elephants).
 
