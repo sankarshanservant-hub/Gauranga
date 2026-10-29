@@ -204,6 +204,108 @@ See Ādi 5.214.
 
 > Subheading: Glory to the Beloved of Vārṣabhānavī —
 
+**akhila-rasāmṛta-mūrtiḥ** (He whose form is the nectar, that is, the highest bliss, containing all the *rasas*: the five principal ones beginning with *śānta* and the seven secondary ones beginning with *hāsya*) **prasṛmara-ruci-ruddha-tārakā-pāliḥ** (He who with His spreading, that is, expanding, radiance captured, that is, subdued, Tārakā and Pāli) **kalita-śyāmā-lalitaḥ** (He who made Śyāmā and Lalitā His own) **rādhā-preyān** (dearest to Rādhā) **vidhuḥ** (Kṛṣṇacandra) **jayati**.
+
+## 142
+
+> Subheading: Kṛṣṇa's sweetness captivates Kṛṣṇa Himself —
+
+See Ādi 4.144 and 222.
+
+## 143
+
+> Subheading: Kṛṣṇa, who eternally sports with the beauties of Vraja —
+
+See Ādi 4.224.
+
+## 144
+
+> Subheading: The sweetness of Kṛṣṇa's form attracts Nārāyaṇa and even Lakṣmī —
+
+See Ādi 5.223 and Madhya 9.111–156.
+
+## 145
+
+In Dvārakā Arjuna vowed to save a brāhmaṇa's son from untimely death, but his efforts failed. Seeing this, Śrī Kṛṣṇa took Arjuna with Him to show him the brāhmaṇa's sons. By the power of the Sudarśana disc He crossed the dreadful mass of darkness, the transformation of *prakṛti* that lies beyond the universe. In the midst of the great waters, in “Mahākālapura,” they saw Śeṣaśāyī lying on the thousand-hooded Ananta and offered Him obeisance. Then Bhagavān Śeṣaśāyī, the Lord of Parameṣṭhī, said to Śrī Kṛṣṇa and Arjuna:
+
+**dharma-guptaye** (to protect *dharma*) **kalāvatīrṇau** (You two who have descended, that is, appeared, with all Your parts, with all Your potencies) **yuvayoḥ** **didṛkṣuṇā** (by one who wishes to see) **me** (in My) **bhuvi** (abode, in Mahākālapura) **dvijātmajāḥ** (the brāhmaṇa's sons) **mayā** **upanītāḥ** (have been brought); **bhūyaḥ** (again) **avaneḥ** (of the earth) **bharāsurān** (the *asuras* who are a burden, the Daityas hostile to Viṣṇu) **hatvā** **iha** (here) **me** **anti** (near) **tvarayā** (quickly) **itam** (come).
+
+## 146
+
+When Śrī Kṛṣṇa's kicks had made the serpent Kāliya faint and broken his heads, the serpent's wives addressed Kṛṣṇa with a prayer.
+
+**yad-vāñchayā** (by the desire for which — the desire for the right to touch the dust of His lotus feet) **śrīḥ** (Lakṣmī, whom Brahmā and others serve) **lalanā** (the best of women, greater than we are) (even all) **kāmān** **vihāya** **dhṛta-vratā** (firm in vows, an ascetic, chaste) **suciraṁ** **tapaḥ** **acarat**, **asya** (of this Kāliya, though he was born a serpent) **tava aṅghri-reṇu-sparśādhikāraḥ** (the right, that is, the capacity, to touch such rare dust of [Your] feet) **kasya** (of what pious merit) **anubhāvaḥ** (is the fruit) — (this we) **na vidmahe** (do not know).
+
+## 147
+
+> Subheading: He Himself is enchanted by His own sweetness —
+
+See Ādi 4.148 and 158.
+
+## 148
+
+> Subheading: He Himself longs to relish His own sweetness as Rādhikā relishes it —
+
+See Ādi 4.146.
+
+## 149
+
+> Subheading: (2) The description of the truth of Rādhikā begins —
+
+## 150
+
+> Subheading: Kṛṣṇa's three potencies —
+
+## 150–151
+
+See Ādi 2.101–103 and 5.42, 45, 57–58.
+
+## 152
+
+See Ādi 7.119.
+
+## 153
+
+> Subheading: Kṛṣṇa's *svarūpa-śakti*, not different from His *svarūpa* —
+
+## 154
+
+> Subheading: The three aspects of the *svarūpa-śakti* —
+
+## 153–155
+
+See Ādi 4.61–63.
+
+## 156
+
+> Subheading: Why she is called *hlādinī*, and what she does —
+
+## 156–157
+
+See Ādi 4.59–60.
+
+## 158
+
+> Subheading: *Hlādinī* and Śrī Rādhikā —
+
+## 161
+
+> Subheading: Śrī Rādhā's “*svarūpa*” and “body” are one and the same, and it is wholly made of love for Kṛṣṇa —
+
+## 158–162
+
+See Ādi 4.68–72.
+
+## 163
+
+> Subheading: Śrī Rādhā is made of the fulfillment of Kṛṣṇa's desires —
+
+See Ādi 4.87 and 94.
+
+## 164
+
+> Subheading: The eight *sakhīs* are expansions of Her body (*kāya-vyūha*), not different from Her —
+
 ---
 
 [^127-1]: In a number of editions of the *Śrīmad-Bhāgavatam*, 7.11.35.

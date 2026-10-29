@@ -52,6 +52,18 @@ In the five kinds of worship through the nectar of *rasa* described above, the d
 
 *Śṛṅgāra* is the king of *rasas* (*rasa-rāja*), and Śrī Kṛṣṇa bears a form made of it. Therefore Kṛṣṇa's beautiful form steals the heart even of Kṛṣṇa Himself.
 
+## 145
+
+The Bhūmā-puruṣa said, “O Kṛṣṇa and Arjuna, I brought the brāhmaṇa's sons here because I wished to see you. You have descended with all Your parts to protect the *dharma* of the world; kill the *asuras* who burden the earth and quickly come back here.” The purport is this: the Bhūmā-puruṣa, the husband of Lakṣmī, was enchanted by Śrī Kṛṣṇa's sweetness and, wishing to see His form, took *darśana* of Kṛṣṇa on the pretext of stealing the brāhmaṇa's sons.
+
+## 146
+
+“O Lord! Desiring the dust of Your feet, Kamalā performed austerities for a long time, giving up all desires and keeping vows. By what pious merit this serpent Kāliya earned the right to that dust of Your feet, we do not know.”
+
+## 147–161
+
+If one studies the fourth chapter of the Ādi-līlā here, all these points will be well understood.
+
 ---
 
 [^101-1]: The verse translation reads differently: it speaks of Rādhā's love, which could not show itself fully in the presence of the other gopīs. Bhaktivinoda (and the *Anubhāṣya* subheading) speak of Kṛṣṇa's love for Rādhā.
