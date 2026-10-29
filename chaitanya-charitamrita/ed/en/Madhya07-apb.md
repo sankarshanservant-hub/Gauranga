@@ -52,6 +52,12 @@ Although Navadvīpa is a *dhāma*, at that time *nyāya* and the *smṛti-śāst
 
 ***Kūrma-sthāna*** — a *tīrtha*; there is a temple of Kūrmadeva there. The *Prapannāmṛta* tells how Śrī Jagannāthadeva carried Śrī Rāmānuja Svāmī away from Śrī Puruṣottama by night and left him at Kūrma-tīrtha.
 
+## 150
+
+This name is found among the “hundred names of Śrī Caitanya” composed by Śrī Sārvabhauma.
+
+*Thus ends the seventh chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^73-1]: The paragraph number is unclear in the scan (৭১ or ৭৩); by its content it paraphrases verse 73.

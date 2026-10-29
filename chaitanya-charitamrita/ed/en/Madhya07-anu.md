@@ -434,6 +434,34 @@ There are people who resolve to give up everything and serve Śrīman Mahāprabh
 
 See Ādi-līlā, Chapter 17, 78.
 
+## 147
+
+> Subheading: The Lord orders him to become an *ācārya*, teach Kṛṣṇa's name and deliver the *jīvas* —
+
+## 149
+
+> Subheading: Remembering the Lord's mercy, Kūrma and Vāsudeva weep —
+
+## 150
+
+> Subheading: The name of this story is “The Deliverance of Vāsudeva,” and the Lord's name is “Vāsudevāmṛta-prada” —
+
+## 152
+
+> Subheading: Simply by hearing Caitanya's pastimes, an unconscious servant attains Caitanya —
+
+***Ei līlā*** (“these pastimes”). Śrī Kṛṣṇa Caitanya awakens consciousness (*caitanya*) in unconscious (*acaitanya*) *jīvas*. Having gained consciousness and turned toward Kṛṣṇa's service, these *jīvas* in turn, as *ācāryas*, awaken consciousness in other unconscious *jīvas* and turn them toward Kṛṣṇa's service. In this way — by increasing the family of Acyuta (*acyuta-gotra*), that is, by spreading the path of *śruti* — Śrī Gaurasundara displays in His pastimes the glory of His descent.
+
+## 153
+
+> Subheading: One can serve Caitanya only by hearing from the lips of the guru, that is, by the path of *śruti* —
+
+## 154
+
+> Subheading: The only way to attain Caitanya is to take shelter at the feet of pure devotees —
+
+*Thus ends the seventh chapter of the “Anubhāṣya.”*
+
 ---
 
 [^130-1]: The phrase also admits another reading: “…and, without trying to take revenge on those averse to Hari, following Gaura, increase their own *bhajana*.”
