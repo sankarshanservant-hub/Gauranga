@@ -48,8 +48,40 @@ A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the th
 
 ***Antara*** — in secret, or having gone aside.[^67-1]
 
+## 108
+
+Seeing the Lord's *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa* that consists in giving up the *śikhā* and the sacred thread.” His *sannyāsa* name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his *sannyāsa* was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”[^108-1]
+
+## 111
+
+***Kṛṣṇa-rasa-tattva-vettā*** (knower of the truth of *kṛṣṇa-rasa*). His body was *prema* itself. Seeing him, one felt as if a second form (*svarūpa*) of Mahāprabhu had arisen.[^111-1]
+
+## 113
+
+***Bhakti-siddhānta-viruddha*** (contrary to the conclusions of devotion). The conclusion of devotion is *acintya-bhedābheda*; whatever contradicts it is “contrary to the conclusions of devotion.” *Rasābhāsa* is what appears to be *rasa* but is not *rasa*. Vaiṣṇavas should keep far away from these two kinds of non-devotion. For the *jīva* falls by hearing again and again Māyāvāda and other words contrary to the conclusions of devotion. And one who discusses *rasābhāsa* again and again becomes a *prākṛta-sahajiyā*, a *bāul*, and attached to material *rasa*. Śrī Mahāprabhu forbade association with those tainted by these faults, and for that purpose He established the practice of keeping at a distance whatever is contrary to the conclusions of devotion, and *rasābhāsa*.
+
+## 115
+
+**Vidyāpati** — an ancient Vaiṣṇava poet of the land of Mithilā. **Caṇḍīdāsa** — an ancient Bengali Vaiṣṇava poet from the village of Nānnura (Sākullipura police station, Bīrbhūm district). ***Śrī Gīta-govinda*** — the famous poem of Śrī Jayadeva, full of Sanskrit songs centered on *kṛṣṇa-rasa*.
+
+## 116
+
+Svarūpa Gosvāmī was especially skilled in the science of song and in the *śāstras* in general. Seeing how skilled he was in singing, Śrīman Mahāprabhu had already given him the name “Dāmodara.” To the name “Dāmodara” was joined the name “Svarūpa,” given by his *sannyāsa* guru, and so he came to be called “Dāmodara-Svarūpa.” He also wrote a book on the science of music, the *Saṅgīta-dāmodara*.
+
+## 119
+
+O Śrī Caitanya, ocean of mercy! Your mercy drives away all distress with ease. In it there is perfect purity. In it the highest bliss becomes manifest (eclipsing everything else). When it rises, the disputes over the *śāstras* come to an end. Showering *rasa*, it fills the heart with ecstatic madness. Its activity, the delighting of devotion, always bestows peace. This auspicious mercy of Yours spreads far and wide through the majesty of sweetness (*mādhurya*); may it rise upon me.
+
+## 134
+
+**Kāśīśvara and Govinda** were both with Śrī Īśvara Purī. Kāśīśvara would come to Mahāprabhu later, after visiting other holy places. Govinda, however, took shelter at the Lord's feet immediately after Śrī Īśvara Purī attained perfection (*siddhi*) and departed.
+
 ---
 
 [^42-1]: The chronicle of the Jagannātha temple (usually called the *Mādalā-pāñji*).
 
 [^67-1]: Our translation of the verse reads differently: “a plan arose in the minds of the four devotees.”
+
+[^108-1]: Our translation of the verse reads differently: “he did not accept saffron robes, but only changed his name to ‘Svarūpa.’” According to the commentaries, he did not receive the *yogapaṭṭa* (the rite at which the *sannyāsa* name is given), and so the *brahmacārī* name “Svarūpa” remained with him.
+
+[^111-1]: Our translation of the verse reads differently: “Sometimes he was called a manifestation of the spiritual nature of Mahāprabhu Himself.”

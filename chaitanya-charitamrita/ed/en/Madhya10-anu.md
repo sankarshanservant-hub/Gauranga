@@ -302,8 +302,178 @@ See Ādi 10.78. For the genealogy of Śrī Raghunandana of Śrī Khaṇḍa, see
 
 ***Āira mandire*** — in the house of the noble (*āryā*) Śrī Śacīmātā, in Śrī Māyāpura.
 
+## 93
+
+> Subheading: Purī wishes to go to Purī —
+
+Śrī Paramānanda Purī learned while still in Śrī Māyāpura, from Kālā Kṛṣṇadāsa, whom he had known before, the news that Śrī Mahāprabhu had traveled through the South and returned to Nīlācala.
+
+## 94
+
+> Subheading: Purī sets out for Purī with the brāhmaṇa Kamalākānta —
+
+## 95
+
+> Subheading: Purī meets the Lord —
+
+## 96
+
+> Subheading: The Lord bows down, and Purī embraces Him —
+
+## 97
+
+> Subheading: Drawn by love for each other, the Lord and Purī both express the wish to live in Purī —
+
+## 99
+
+> Subheading: Purī brings news of Śacī and announces that the devotees will soon come —
+
+## 101
+
+> Subheading: Purī is given a place in the house of Kāśī Miśra —
+
+## 102
+
+> Subheading: The arrival of Śrī Dāmodara Svarūpa and his special qualities —
+
+**Svarūpa-Dāmodara.** Among the Vedic *sannyāsīs* of the ten names (*daśanāmī*) we find a rule introduced by Śrī Śaṅkarācārya. When someone wishes to take *sannyāsa* from the *daṇḍīs* of the two orders “Tīrtha” and “Āśrama,” the *daṇḍī* guru gives the disciple a *brahmacārī* name according to the rules for *naiṣṭhika-brahmacārīs*. In this way Śrī Puruṣottama Ācārya of Navadvīpa received the *brahmacārī* name “Dāmodara-Svarūpa.” When the *yogapaṭṭa* of *sannyāsa* is received, the *naiṣṭhika-brahmacārī's* title “Svarūpa” is replaced by the *sannyāsa* title “Tīrtha.”
+
+## 103
+
+> Subheading: His former *āśrama* —
+
+## 105
+
+> Subheading: The order of his *sannyāsa* guru —
+
+**Caitanyānanda** — “Caitanyānanda Bhāratī” (a gloss on the *Śrī Caitanya-candrodaya-nāṭaka*).
+
+## 106
+
+> Subheading: The character of Śrī Dāmodara Svarūpa —
+
+Śrī Kavi Karṇapūra writes in the *Caitanya-candrodaya-nāṭaka*: “Only by the force of renunciation did he accept the fourth *āśrama*, in order to give up everything. Yet — how wonderful! — out of love for the pollen of Śrī Kṛṣṇa's lotus feet, though he bore that *āśrama*, he disregarded it.”[^106-1]
+
+## 107
+
+> Subheading: He accepted *sannyāsa* only to serve Kṛṣṇa —
+
+## 108
+
+> Subheading: Why he was named “Svarūpa” —
+
+He performed the rites of *sannyāsa* — the eight *śrāddhas*, the *virajā-homa*, the shaving of the *śikhā*, the giving up of the sacred thread, and so on — but did not wait for the guru's summons, the *yogapaṭṭa*, the *sannyāsa* name, the staff, and the rest. Therefore the name “Dāmodara Svarūpa,” which indicates *naiṣṭhika-brahmacarya*, remained with him.
+
+## 109
+
+> Subheading: He comes to Purī —
+
+## 110
+
+> Subheading: Svarūpa's conduct; he lives in seclusion —
+
+## 111
+
+> Subheading: The Lord's second form (*vigraha*) —
+
+## 112
+
+> Subheading: Dāmodara Svarūpa was the sole examiner of the conclusions of *bhakti-rasa* —
+
+## 113
+
+> Subheading: What displeased the Lord —
+
+## 114
+
+> Subheading: The Lord took pleasure only in what had passed Dāmodara Svarūpa's examination —
+
+All conclusions that hinder the worship of Kṛṣṇa are contrary to devotion and therefore impure. Pure devotees cannot approve of such conclusions. Nor can they accept as a “pure devotee” a *jīva* who is devoted to *rasābhāsa* and holds contrary conclusions. Many false doctrines (*kumata*), nourished by impure conclusions or by *rasābhāsa*, circulate in the world. There are people who look to public opinion and, to win the esteem of ordinary folk, honor false conclusions hostile to devotion. Though they may fancy themselves “Gaura's associates,” Śrī Dāmodara-Svarūpa Gosvāmī does not accept them as “Gauḍīya Vaiṣṇavas” and does not let them approach Śrī Mahāprabhu.
+
+## 115
+
+> Subheading: Singing the songs of Caṇḍīdāsa, Vidyāpati and Jayadeva, he delighted the Lord —
+
+## 116
+
+> Subheading: The qualities of Dāmodara Svarūpa —
+
+## 117
+
+> Subheading: He is dear to all the devotees —
+
+## 118
+
+> Subheading: The verse with which Dāmodara offers obeisance to the Lord —
+
+## 119
+
+> Subheading: In the *Śrī Caitanya-candrodaya-nāṭaka*, Dāmodara-Svarūpa enters during the conversation of the Lord and Sārvabhauma and offers a prayer (8.14) —
+
+**he dayā-nidhe śrī-caitanya**, **helod-dhūlita-khedayā** (by which, playfully, without effort, distress, the anguish of the mind, has been scattered and removed) **viśadayā** (pure, illuminating all) **pronmīlad-āmodayā** (in which *āmoda*, the highest bliss, is fully unfolding and manifest) **śāmyac-chāstra-vivādayā** (in which the disputes of the *śāstras*, argument and counterargument, subside) **rasa-dayā** (*rasa-dā*, bestowing *mādhurya* and the other *rasas*) **cittārpitonmādayā** (by which *unmāda* is placed in the heart: indifference to the body and the like; or the bewilderment of the heart born of great bliss, calamity, separation and so on, that is, *divyonmāda*) **śaśvad-bhakti-vinodayā** (which by its very nature ceaselessly impels one to devotion) **sa-madayā** (with *mada*, the exultation born of an abundance of the love-transformations caused by Anaṅga, which takes away discrimination; with the reading *śama-dayā*, free from thirst for anything but Kṛṣṇa) **mādhurya-maryādayā** (in which is the limit, the summit of sweetness; the instrumental case of a qualifier) **tava** **amandodayā** (*manda* is constraint; *amanda*, free from it, is the highest good; in which it rises) **dayā** ([upon me]) **bhūyāt** (may it be).
+
+Bhagavān Caitanyacandra, magnanimous, the embodiment of *prema*, distributes His compassion in three ways to *jīvas* who possess *sukṛti*. The *jīva*, dejected by material wants, tries by all sorts of means to drive away his suffering, but does not succeed. The Lord's mercy cannot be won by the *jīva's* own effort. By the Lord's mercy the fragrance of Kṛṣṇa's lotus feet unfolds in the *jīva's* heart. Then the dust of the mind's distress blows away without effort, and the heart becomes pure. Then the highest bliss, born of service to Kṛṣṇa, becomes manifest in the heart. Because of the different interpretations of the *śāstras*, disputes arise in the mind and give rise to many arguments and counterarguments. But as soon as the *jīva* obtains the Lord's mercy, the heart that has received that mercy becomes intoxicated with the Lord's *rasa*. And the intoxication that bestows *kṛṣṇa-rasa* also arises only by the power of the Lord's mercy; therefore the disputes over the *śāstras* subside. The limit of sweetness (*mādhurya-maryādā*) keeps the *jīva* always at Kṛṣṇa's feet, and the fortunate *jīva* then finds joy in *prema-bhakti* alone. Kṛṣṇa's mercy is pure, bestows *rasa*, and is full of *mada*.
+
+When by Kṛṣṇa's mercy the heart is gradually purified, no dirt of distress born of want remains in it. When by Kṛṣṇa's mercy the *jīva* obtains *rasa*, the disputes over the *śāstras* subside and the conclusion of devotion becomes firm; therefore the heart goes mad with love for Kṛṣṇa. Gradually attaining peace by Kṛṣṇa's mercy, the *jīva* ceaselessly delights in devotion in the majesty of sweetness.
+
+At first the *jīva* is turned away from the Lord and wearied by worldly objects; next he seeks the Lord; and finally he is devoted to the Lord's service. By the Lord's mercy, first his *anarthas* cease; from this the heart becomes pure, and the purity of the heart results in the unfolding of the bliss of Kṛṣṇa. By the Lord's mercy, in the middle stage the *jīva* grasps the conclusion of devotion, through it obtains *rasa*, and attains the madness of love. By the Lord's mercy, in the end attachment to devotion arises; from it the Lord's pastimes appear to him everywhere (*sphūrti*), and from *sphūrti* he reaches the summit of sweetness. Thus by Kṛṣṇa's mercy a *jīva* who is free from thirst, that is, liberated, loses all attraction to anything but Kṛṣṇa through the service of Kṛṣṇa's *kīrtana*. One who seeks liberation, on receiving the medicine for the disease of worldly existence, gives up the desire for liberation and realizes the Supreme Lord. And a *viṣayī*, by the power of Kṛṣṇa's mercy, through hearing the descriptions of Hari's qualities, delightful to the ear and the mind, gives up worldly enjoyment and can become established in pure devotion. Therefore one should always take shelter of the Lord's mercy alone.
+
+## 120
+
+> Subheading: Touching each other, the Lord and Dāmodara Svarūpa are both overwhelmed by love —
+
+## 121
+
+> Subheading: Overflowing with deep love, the Lord welcomes Dāmodara Svarūpa —
+
+## 123
+
+> Subheading: Svarūpa's humble words —
+
+## 126
+
+> Subheading: He bows to Nitāi, and Nitāi embraces him —
+
+## 127
+
+> Subheading: The meeting with all the other devotees —
+
+## 128
+
+> Subheading: Obeisance to Paramānanda Purī —
+
+## 129
+
+> Subheading: He receives a fitting residence and a servant —
+
+## 130
+
+> Subheading: The Lord surrounded by the devotees —
+
+## 131
+
+> Subheading: Govinda arrives —
+
+## 132
+
+> Subheading: Govinda introduces himself and tells why he has come —
+
+## 134
+
+> Subheading: He announces that his godbrother Kāśīśvara will come later —
+
+## 135
+
+> Subheading: The Lord's humility —
+
+## 136
+
+> Subheading: Sārvabhauma's question about Govinda —
+
 ---
 
 [^42-1]: In our edition the note on Śikhi Māhiti is in the *Anubhāṣya* on Ādi 10.136; section 137 speaks of his sister Mādhavī-devī (and there too Antya 2.104–106 is cited).
 
 [^60-1]: Our translation of the verse reads differently: the Lord “blessed his sons by touching their heads with His foot.” According to the *Anubhāṣya*, the sons themselves placed the Lord's feet on their heads.
+
+[^106-1]: An unclear passage: «তচ্ছীচকারৈনমহো», apparently *tac chīc-cakāra enam* (“brushed it aside,” literally “made a ‘śīt’ at it”); the translation is tentative.
