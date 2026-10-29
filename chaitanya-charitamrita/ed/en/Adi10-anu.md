@@ -486,7 +486,7 @@ He lived a very long life. Before Śrīnivāsa Ācārya returned from Vṛndāva
 
 > Subheading: The author's conviction that he is the eternal servant of Rūpa and Raghunātha —
 
-Śrī Kṛṣṇadāsa Kavirāja Gosvāmī Prabhu regarded Śrīla Dāsa Gosvāmī and Śrī Rūpa Gosvāmī as “my masters,” and at the end of every chapter he wrote: “Praying at the feet of Śrī Rūpa and Raghunātha, always hoping for their mercy, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.” Some want the word “Raghunātha” to mean Śrī Raghunātha Bhaṭṭa and call Raghunātha Bhaṭṭa the *pāñcarātrika dīkṣā-guru* of Kavirāja Gosvāmī; there is no evidence for this. The guru-succession of Kavirāja's branch does mention Raghunātha Bhaṭṭa as his *dīkṣā-guru*, but this mention does not establish any reliable truth.
+Śrī Kṛṣṇadāsa Kavirāja Gosvāmī Prabhu regarded Śrīla Dāsa Gosvāmī and Śrī Rūpa Gosvāmī as “my masters,” and at the end of every chapter he wrote: “Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.” Some want the word “Raghunātha” to mean Śrī Raghunātha Bhaṭṭa and call Raghunātha Bhaṭṭa the *pāñcarātrika dīkṣā-guru* of Kavirāja Gosvāmī; there is no evidence for this. The guru-succession of Kavirāja's branch does mention Raghunātha Bhaṭṭa as his *dīkṣā-guru*, but this mention does not establish any reliable truth.
 
 ## 104
 

@@ -106,7 +106,7 @@ groves and gardens  seeing  as Vṛndāvana  conceiving
 tām̐hā yāi’ nāce, gāya, kṣaṇe mūrcchā yā’na  
 there  going  dances  sings  at times  unconscious  falls
 
-(10) Seeing the groves and gardens, He thought they were Vṛndāvana. He would go there to dance and sing, and at times He fell unconscious.
+(10) The groves and gardens He took for Vṛndāvana; He would go there to dance and sing, and at times He fell unconscious.
 
 কাঁহা নাহি শুনি যেই ভাবের বিকার ৷  
 সেই ভাব হয় প্রভুর শরীরে প্রচার ॥ ১১ ॥
@@ -593,7 +593,7 @@ of My own  heart’s  affairs  to tell  I feel  shame
 tabu kahi lāja-bīja khāñā  
 still  I tell  shame’s seed  eating
 
-(44) Having said this, the son of Śacī recited a wondrous verse, and the two listened with one mind: “I feel ashamed to tell what is in My heart, yet I speak, having swallowed the seed of shame.[^14]
+(44) Having said this, the son of Śacī recited a wondrous verse, and the two listened with one mind: “I feel ashamed to tell what is in My heart, yet I will speak, casting shame aside:[^14]
 
 ন প্রেমগন্ধোঽস্তি দরাপি মে হরৌ  
 ক্রন্দামি সৌভাগ্যভরং প্রকাশিতুম্ ৷  
@@ -609,7 +609,7 @@ of Him who plays the flute  of the face  without seeing
 bibharmi yat prāṇa-pataṅgakān vṛthā  
 I sustain  that  the insects of My life  in vain
 
-(45) “There is not even a slight trace of love for Hari in Me. I weep only to display how great My good fortune is. Without seeing the face of Him who plays the flute, I sustain in vain this insect-like life of Mine.”[^15]
+(45) There is not even a slight trace of love for Hari in Me. I weep only to display how great My good fortune is. Without seeing the face of Him who plays the flute, I sustain in vain this insect-like life of Mine.[^15]
 
 দূরে শুদ্ধপ্রেমগন্ধ, কপট প্রেমের বন্ধ,  
 সেহ মোর নাহি কৃষ্ণ-পায় ৷  
@@ -865,7 +865,7 @@ so  what  shall I do  in solitude  O flute-player
 mugdhaṁ mukhāmbujam udīkṣitum īkṣaṇābhyām  
 charming  lotus face  to behold  with My two eyes
 
-(61) “O flute-player, know that Your boyish charm and My restlessness are wonders of the three worlds, known only to You and Me. What then shall I do to behold Your charming lotus face, alone with You, with My own eyes?” (Kṛṣṇa-karṇāmṛta, 32)[^21]
+(61) “O flute-player, know that Your boyish charm and My restlessness are wonders of the three worlds, known only to You and Me. What then shall I do to gaze on Your charming lotus face with My own eyes, when We are alone?” (Kṛṣṇa-karṇāmṛta, 32)[^21]
 
 তোমার মাধুরী-বল, তাতে মোর চাপল,  
 এই দুই, তুমি আমি জানি ৷  
@@ -1345,7 +1345,7 @@ in the meantime  I die  if  to describe  not  I can  then
 ei līlā bhakta-gaṇa-dhana  
 these  pastimes  of the devotees  the wealth
 
-(91) Within the sūtras I have described something of the essence of the final pastimes in detail. If I die in the meantime and cannot describe them, these pastimes remain the wealth of the devotees.
+(91) Within the *sūtras* I have described something of the essence of the final pastimes in detail. If I die in the meantime and cannot describe them, these pastimes remain the wealth of the devotees.
 
 সংক্ষেপে এই সূত্র কৈল, যেই ইঁহা না লিখিল,  
 আগে তাহা করিব বিচার ৷  
@@ -1374,7 +1374,7 @@ sabe more karaha santoṣa
 all  me  make  pleased  
 svarūpa-gosāñira mata, rūpa-raghunātha jāne yata,  
 of Svarūpa Gosāñi  the view  Rūpa and Raghunātha  know  as much as  
-tāi likhi’ nāhi mora doṣa  
+tāi likhi, nāhi mora doṣa  
 that  I write  is not  my  fault
 
 (93) Devotees great and small, I worship the feet of you all; may you all be pleased with me. I write what Svarūpa Gosāñi held and what Rūpa and Raghunātha know; the fault is not mine.[^37]
@@ -1390,7 +1390,7 @@ that  I write  is not  my  fault
 on my head  I hold  of all  the feet  
 svarūpa, rūpa, sanātana, raghunāthera śrī-caraṇa,  
 of Svarūpa  Rūpa  Sanātana  Raghunātha  the holy feet’s  
-dhūli karonm̐ mastake bhūṣaṇa  
+dhūli karom̐ mastake bhūṣaṇa  
 dust  I make  for my head  an ornament
 
 (94) I hold on my head the feet of Śrī Caitanya, Nityānanda, Advaita and all the devotees. The dust of the holy feet of Svarūpa, Rūpa, Sanātana and Raghunātha I make the ornament of my head.

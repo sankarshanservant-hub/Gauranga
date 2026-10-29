@@ -1810,7 +1810,7 @@ in your  country  by your  fortune  was born  coming
 
 (176) “He who gave you your kingdom, He who is your Lord, has come and taken birth in your country by your good fortune.
 
-তোমার মঙ্গল বাঞ্ছে, বাক্য সিদ্ধি হয় ৷  
+তোমার মঙ্গল বাঞ্ছে, বাক্য সিদ্ধ হয় ৷  
 ইহার আশীর্ব্বাদে তোমার সর্বত্রই জয় ॥ ১৭৭ ॥
 
 tomāra maṅgala vāñche, vākya siddha haya  
