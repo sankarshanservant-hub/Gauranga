@@ -274,3 +274,65 @@ In front of Śrī Jagannātha's temple, at the far end of the *jagamohana*, stan
 ## 74
 
 **svayaṁ māraḥ** (Kandarpa) **nu** (is it? — a conjecture) **madhura-dyuti-maṇḍalam** (a beautiful, soft, heart-touching orb of radiance) **nu** (is it?) **mādhuryam eva nu** (is it?) **mano-nayanāmṛtam** (nectar for the heart and eyes) **nu** (is it?) **veṇī-mṛjaḥ** (He who loosens the braids) **nu** (is it?) **ayaṁ jīvita-vallabhaḥ** (Kṛṣṇa) **mama locanāya** (to delight my eyes) **abhyudayate** (has appeared before me).
+
+## 75
+
+> Subheading: The meaning of the verse —
+
+## 76
+
+> Subheading: The Lord under the sway of emotions —
+
+As a guru keeps his disciples under strict discipline and teaches them the arts, so the emotions in Mahāprabhu's heart, taking the place of a guru, make two disciples — the Lord's holy body and His mind — dance in many ways.
+
+## 77
+
+> Subheading: The Lord's daily activities with Svarūpa and Rāmānanda —
+
+***Rāyera nāṭaka*** (Rāya's play) — the play *Jagannātha-vallabha*. ***Gīti*** (songs) — the singing of verses from the works of Caṇḍīdāsa, Vidyāpati, Rāmānanda Rāya, Bilvamaṅgala and Jayadeva.
+
+## 78
+
+> Subheading: The Lord's devotees, sheltered in different *rasas* —
+
+The mood of Śrī Paramānanda Purī (in Vraja, Uddhava), in which *vātsalya-rasa* predominates; the pure friendship (*sakhya*) of Rāmānanda (Arjuna, or Viśākhā); the pure servitude (*dāsya*) of Govinda and others, devoted to service; and the principal *rasa*, *madhura*, of the intimate devotees Gadādhara, Jagadānanda and Dāmodara-Svarūpa. Through these four moods the Lord accepted from them their worship, the joy of their company and their service, and He was beholden to them.
+
+## 79
+
+> Subheading: For the Lord, *mahābhāva* in *madhura-rasa* is no wonder —
+
+***Līlāśuka.*** His other names are “Līlāsukha,” “Citsukhācārya” and “Bilvamaṅgala”; he was a *tridaṇḍī-svāmī* of the Viṣṇusvāmi-sampradāya. See the *Anubhāṣya* on Ādi 1.57.
+
+## 80
+
+> Subheading: Gaurasundara, the *viṣaya-vigraha*, filled with the *praṇaya* of the *āśraya* —
+
+See Ādi 4.230.
+
+## 81
+
+> Subheading: The supremely magnanimous Lord distributes the mood of service that belongs to the *āśraya* —
+
+## 82
+
+> Subheading: The most merciful avatāra —
+
+## 83
+
+> Subheading: Without following Caitanya, service to Kṛṣṇa cannot be attained —
+
+## 84
+
+> Subheading: The devotees hear of the Lord's emotions from Dāmodara-Svarūpa and Raghunātha —
+
+***Bheṭe*** — as a gift.
+
+## 85
+
+> Subheading: The author's impartiality —
+
+In describing Śrī Gaurasundara's conduct exactly as it was, I do not seek the praise of the proponents of every kind of doctrine. I did not hope that they would accept me, and so I have not left out the true facts of the Lord's life here, nor added to them, nor veiled them, nor “corrected” them. Because Sanskrit verses are included in this book, many may object that one who does not know Sanskrit will not understand the true meaning of the verses.
+
+## 86
+
+In this book I have written nothing out of regard for anything, in opposition to anyone or in compliance with anyone's request: I have only described the *sahaja-vastu*, the natural reality. If someone attains the orientation of *rāga*, then, absorbed in it, he will easily realize all these descriptions. The natural reality is experienced by those who follow *rāga* (*rāgānuga*).

@@ -97,3 +97,29 @@ O Deva! O Dayita! O sole Friend of the world! O Kṛṣṇa! O Capala! O ocean o
 ## 74
 
 *Sakhī*, here the son of Nanda Himself has appeared before My eyes: He is Kandarpa incarnate, the sweetness of a host of radiances, sweetness embodied, nectar for the mind and eyes. He gives joy to the gopīs by loosening their braids; He is the beloved of My life.
+
+## 78
+
+***Purīra*** — of Śrī Paramānanda Purī. ***Mukhya-rasa*** (the principal *rasa*) — *madhura-rasa*.
+
+## 79
+
+***Līlāśuka*** — Śrī Bilvamaṅgala Gosvāmī. He was a brāhmaṇa from South India named Śilhaṇa Miśra. He lived according to the scriptures on the duties of a householder, but on the advice of the courtesan Cintāmaṇi he renounced the world and composed the *Śānti-śataka*. Later, by the mercy of Kṛṣṇa and the Vaiṣṇavas, he attained *bhakti*, received the name “Bilvamaṅgala Gosvāmī,” and composed the book *Kṛṣṇa-karṇāmṛta*. Seeing his madness of love, people called him “Līlāśuka.”
+
+## 81
+
+The wealth of Lord Caitanyadeva is the *cintāmaṇi* of *prema*; by that wealth He is rich. The *cintāmaṇi* of *prema* works like a material *cintāmaṇi*: it produces many, many other *cintāmaṇis* of *prema* and yet remains in all its fullness in the Lord's storehouse. And from the *cintāmaṇi* of *prema* that the Lord gave them, the devotees have spread countless millions of *cintāmaṇis* throughout the whole world.
+
+## 83
+
+Ordinary people have no right to this truth of the emotions that follow Rādhā. If it is spoken to the unworthy, it is distorted and becomes like the perverted emotions of the *sahajiyās*, the *bāuls* and others. Even one who prides himself on his learning is not fit to enter this truth of *rasa*.
+
+## 84
+
+Svarūpa Gosvāmī set down Mahāprabhu's last pastimes as *sūtras* of his diary (*kaḍacā*) and placed them in the throat of Śrī Raghunātha dāsa Gosvāmī — that is, he had him learn them by heart. And through Kavirāja Gosvāmī he made them known to the world. Therefore the diary composed by Śrī Svarūpa was never written down as a separate book. This very *Śrī Caitanya-caritāmṛta* is the essence of Svarūpa's diary.
+
+## 86
+
+Nowhere in this book of mine is there a contradictory conclusion, and nowhere do I defer to anyone else's opinion. I have written after considering the *sahaja-tattva*, the natural truth. For the *jīva* the truth of *rāga* is natural (*sahaja*), while the path of reasoning is not natural to it. Only what dawns in the truth of *rāga* is the truth of *bhajana* that Śrī Mahāprabhu revealed. But if one's *rāga* is directed toward another doctrine or toward conclusions reached by some other kind of reasoning, one becomes absorbed in them and loses impartiality. And then the *jīva*'s own inherent nature, its *sahaja*, cannot be written down.
+
+*Thus ends the second chapter of the Madhya-līlā in the “Amṛta-pravāha-bhāṣya.”*
