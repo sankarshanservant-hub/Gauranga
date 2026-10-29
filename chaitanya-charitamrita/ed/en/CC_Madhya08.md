@@ -3135,215 +3135,269 @@ therefore  this form  I have shown  to you
 গৌর অঙ্গ নহে, মোর — রাধাঙ্গস্পর্শন ৷  
 গোপেন্দ্র সুত বিনা তেঁহো না স্পর্শে অন্যজন ॥ ২৮৬ ॥
 
-gaura aṅga nahe mora — rādhāṅga-sparśana  
-gopendra-suta vinā teṅho nā sparśe anya-jana
+gaura aṅga nahe, mora — rādhāṅga-sparśana  
+fair  body  is not  Mine  of Rādhā’s body  the touch  
+gopendra-suta vinā teṅho nā sparśe anya-jana  
+of the king of cowherds  the son  except  She  not  touches  any other person
 
-(286) [not yet translated]
+(286) This fair complexion is not Mine: it comes from the touch of Rādhā’s body. And She touches no one but the son of the king of the cowherds.
 
 তাঁর ভাবে ভাবিত করি’ আত্ম-মন ৷  
 তবে নিজ-মাধুর্য্য করি আস্বাদন ॥ ২৮৭ ॥
 
 tāṅra bhāve bhāvita kari’ ātma-mana  
-tabe nija-mādhurya kari āsvādana
+Her  with the bhāva  imbued  making  My own  mind  
+tabe nija-mādhurya kari āsvādana  
+then  My own  sweetness  I do  tasting
 
-(287) [not yet translated]
+(287) Steeping My own mind in Her *bhāva*, I then taste My own sweetness.
 
 তোমার ঠাঞি আমার কিছু গুপ্ত নাহি কর্ম্ম ৷  
 লুকাইলে প্রেম-বলে জান সব মর্ম্ম ॥ ২৮৮ ॥
 
 tomāra ṭhāñi āmāra kichu gupta nāhi karma  
-lukāile prema-bale jāna sarva-marma
+from you  of Mine  any  hidden  there are not  doings  
+lukāile prema-bale jāna saba marma  
+if I hide  by the power of love  you know  all  the secrets
 
-(288) [not yet translated]
+(288) Nothing I do is hidden from you. Even if I hide it, by the power of love you know every secret.
 
 গুপ্তে রাখিহ, কাঁহা না করিহ প্রকাশ ৷  
 আমার বাতুল-চেষ্টা লোকে উপহাস ॥ ২৮৯ ॥
 
-gupte rākhiha, kāṅhā nā kario prakāśa  
-āmāra bātula-ceṣṭā loke upahāsa
+gupte rākhiha, kāṅhā nā kariha prakāśa  
+in secret  keep it  anywhere  not  make  disclosure  
+āmāra bātula-ceṣṭā loke upahāsa  
+My  mad  behavior  people  will ridicule
 
-(289) [not yet translated]
+(289) Keep it secret and reveal it to no one. People would laugh at My mad behavior.
 
 আমি — এক বাতুল, তুমি — দ্বিতীয় বাতুল ৷  
 অতএব তোমায়-আমায় হই সম-তুল ॥ ২৯০ ॥
 
 āmi — eka bātula, tumi — dvitīya bātula  
-ataeva tomāya āmāya ha-i sama-tula
+I  one  madman  you  a second  madman  
+ataeva tomāya-āmāya hai sama-tula  
+therefore  you  and I  are  equal
 
-(290) [not yet translated]
+(290) I am one madman, and you are a second; therefore you and I are equals.”
 
 এইরূপ দশরাত্রি রামানন্দ-সঙ্গে ৷  
 সুখে গোঙাইলা প্রভু কৃষ্ণকথা-রঙ্গে ॥ ২৯১ ॥
 
 ei-rūpa daśa-rātri rāmānanda-saṅge  
-sukhe goṅāilā prabhu kṛṣṇa-kathā-raṅge
+in this way  ten nights  with Rāmānanda  
+sukhe goṅāilā prabhu kṛṣṇa-kathā-raṅge  
+happily  spent  the Lord  in the joy of talks about Kṛṣṇa
 
-(291) [not yet translated]
+(291) In this way the Lord spent ten nights happily with Rāmānanda in the joy of talks about Kṛṣṇa.
 
 নিগূঢ় ব্রজের রস-লীলার বিচার ৷  
 অনেক কহিল, তার না পাইল পার ॥ ২৯২ ॥
 
 nigūḍha vrajera rasa-līlāra vicāra  
-aneka kahila, tāra nā pāila pāra
+deeply hidden  of Vraja  of the pastimes of rasa  discussion  
+aneka kahila, tāra nā pāila pāra  
+much  they spoke  of it  not  reached  the end
 
-(292) [not yet translated]
+(292) They spoke at length on the deeply hidden pastimes of *rasa* in Vraja, yet never reached their end.
 
 তামা, কাঁসা, রূপা, সোনা, রত্নচিন্তামণি ৷  
 কেহ যদি কাঁহা পোতা পায় এক-খানি ॥ ২৯৩ ॥
 
 tāmā, kāṅsā, rūpā, sonā, ratna-cintāmaṇi  
-keha yadi kāṅhā potā pāya eka-khāni
+copper  bell-metal  silver  gold  the jewel cintāmaṇi  
+keha yadi kāṅhā potā pāya eka-khāni  
+someone  if  somewhere  buried  finds  all together
 
-(293) [not yet translated]
+(293) Suppose someone finds copper, bell-metal, silver, gold and the *cintāmaṇi* jewel buried together in one place.
 
 ক্রমে উঠাইতে, সেহ উত্তম বস্তু পায় ৷  
 ঐছে প্রশ্নোত্তর কৈল প্রভু-রামরায় ॥ ২৯৪ ॥
 
 krame uṭhāite, seha uttama vastu pāya  
-aiche praśnottara kaila prabhu-rāmarāya
+step by step  digging up  he  the finest  thing  finds  
+aiche praśnottara kaila prabhu-rāmarāya  
+in that way  questions and answers  made  the Lord and Rāmarāya
 
-(294) [not yet translated]
+(294) Digging it up step by step, he comes upon ever finer treasure. In just this way the Lord and Rāma Rāya went from question to answer.
 
 আর দিন রায়-পাশে বিদায় মাগিলা ৷  
 বিদায়ের কালে তাঁরে এই আজ্ঞা দিলা ॥ ২৯৫ ॥
 
 āra dina rāya-pāśe vidāya māgilā  
-vidāyera kāle tāṅre ei ājñā dilā
+the next  day  from Rāya  leave  He asked  
+vidāyera kāle tāṅre ei ājñā dilā  
+of parting  at the time  to him  this  instruction  He gave
 
-(295) [not yet translated]
+(295) The next day the Lord asked Rāya’s leave to go, and at the time of parting He gave him this instruction:
 
 বিষয় ছাড়িয়া তুমি যাহ নীলাচলে ৷  
 আমি তীর্থ করি’ তাঁহা আসিব অল্পকালে ॥ ২৯৬ ॥
 
-viṣaya chāḍiyā tumi yāha’ nīlācale  
-āmi tīrtha kari’ tāṅhā āsiba alpa-kāle
+viṣaya chāḍiyā tumi yāha nīlācale  
+worldly affairs  giving up  you  go  to Nīlācala  
+āmi tīrtha kari’ tāṅhā āsiba alpa-kāle  
+I  pilgrimage  making  there  shall come  in a short time
 
-(296) [not yet translated]
+(296) “Give up worldly affairs and go to Nīlācala. I shall visit the holy places and come there before long.
 
 দুইজনে নীলাচলে রহিব একসঙ্গে ৷  
 সুখে গোঙাইব কাল কৃষ্ণকথা-রঙ্গে ॥ ২৯৭ ॥
 
 dui-jane nīlācale rahiba eka-saṅge  
-sukhe goṅāiba kāla kṛṣṇa-kathā-raṅge
+the two of us  in Nīlācala  shall stay  together  
+sukhe goṅāiba kāla kṛṣṇa-kathā-raṅge  
+happily  we shall pass  the time  in the joy of talks about Kṛṣṇa
 
-(297) [not yet translated]
+(297) The two of us shall live together in Nīlācala and happily pass our time in the joy of talks about Kṛṣṇa.”
 
 এত বলি’ রামানন্দে করি’ আলিঙ্গন ৷  
 তাঁরে ঘরে পাঠাইয়া করিল শয়ন ॥ ২৯৮ ॥
 
 eta bali’ rāmānande kari’ āliṅgana  
-tāṅre ghare pāṭhāiyā karila śayana
+so  saying  Rāmānanda  making  embrace  
+tāṅre ghare pāṭhāiyā karila śayana  
+him  home  sending  He made  lying down to rest
 
-(298) [not yet translated]
+(298) Saying this, He embraced Rāmānanda, sent him home and lay down to rest.
 
 প্রাতঃকালে উঠি’ প্রভু দেখি’ হনুমান্ ৷  
 তাঁরে নমস্করি’ প্রভু দক্ষিণে করিলা প্রয়াণ ॥ ২৯৯ ॥
 
 prātaḥ-kāle uṭhi’ prabhu dekhi’ hanumān  
-tāṅre namaskari’ prabhu dakṣiṇe karilā prayāṇa
+in the morning  rising  the Lord  seeing  Hanumān  
+tāṅre namaskari’ prabhu dakṣiṇe karilā prayāṇa  
+to him  offering obeisances  the Lord  to the south  made  departure
 
-(299) [not yet translated]
+(299) Rising in the morning, the Lord had *darśana* of Hanumān, offered him obeisances and set out for the south.
 
 ‘বিদ্যাপুরে’ নানা-মত লোক বৈসে যত ৷  
 প্রভু-দর্শনে ‘বৈষ্ণব’ হৈল, ছাড়ি’ নিজমত ॥ ৩০০ ॥
 
 ‘vidyāpure’ nānā-mata loka vaise yata  
-prabhu-darśane ‘vaiṣṇava’ haila chāḍi’ nija-mata
+in Vidyāpura  of various  doctrines  people  live  as many as  
+prabhu-darśane ‘vaiṣṇava’ haila, chāḍi’ nija-mata  
+on seeing the Lord  Vaiṣṇavas  became  giving up  their own  doctrines
 
-(300) [not yet translated]
+(300) All the people of Vidyāpura, whatever their doctrines, became Vaiṣṇavas on seeing the Lord and gave up their own views.
 
 রামানন্দ হৈলা প্রভুর বিরহে বিহ্বল ৷  
 প্রভুর ধ্যানে রহে বিষয় ছাড়িয়া সকল ॥ ৩০১ ॥
 
 rāmānanda hailā prabhura virahe vihvala  
-prabhura dhyāne rahe viṣaya chāḍiyā sakala
+Rāmānanda  became  in separation from the Lord  overwhelmed  
+prabhura dhyāne rahe viṣaya chāḍiyā sakala  
+on the Lord  in meditation  he remains  worldly affairs  giving up  all
 
-(301) [not yet translated]
+(301) Rāmānanda was overwhelmed by separation from the Lord. Giving up all worldly affairs, he remained absorbed in meditation on Him.
 
 সংক্ষেপে কহিলুঁ রামানন্দের মিলন ৷  
 বিস্তারি’ বর্ণিতে নারে সহস্র-বদন ॥ ৩০২ ॥
 
 saṅkṣepe kahiluṅ rāmānandera milana  
-vistāri’ varṇite nāre sahasra-vadana
+briefly  I have told  Rāmānanda’s  meeting  
+vistāri’ varṇite nāre sahasra-vadana  
+in detail  to describe  is not able  the thousand-mouthed one
 
-(302) [not yet translated]
+(302) I have told briefly of the Lord’s meeting with Rāmānanda. Even the thousand-mouthed Ananta could not describe it in full.
 
 সহজে চৈতন্যচরিত্র — ঘনদুগ্ধপূর ৷  
 রামানন্দ-চরিত্র তাহে খণ্ড প্রচুর ॥ ৩০৩ ॥
 
 sahaje caitanya-caritra — ghana-dugdha-pūra  
-rāmānanda-caritra tāhe khaṇḍa pracura
+by nature  Caitanya’s  life  of thickened milk  a flood  
+rāmānanda-caritra tāhe khaṇḍa pracura  
+Rāmānanda’s  life  in it  sugar candy  abundant
 
-(303) [not yet translated]
+(303) Caitanya’s life is by nature a flood of thickened milk, and Rāmānanda’s life is the abundant sugar candy in it.
 
 রাধাকৃষ্ণলীলা — তাতে কর্পূর মিলন ৷  
 ভাগ্যবান্ যেই, সেই করে আস্বাদন ॥ ৩০৪ ॥
 
 rādhā-kṛṣṇa-līlā — tāte karpūra-milana  
-bhāgyavān yei, sei kare āsvādana
+the pastimes of Rādhā and Kṛṣṇa  to that  of camphor  the mixing  
+bhāgyavān yei, sei kare āsvādana  
+fortunate  who  he  does  tasting
 
-(304) [not yet translated]
+(304) The pastimes of Rādhā and Kṛṣṇa are the camphor mixed into it. Whoever is fortunate tastes it.
 
 যে ইহা একবার পিয়ে কর্ণদ্বারে ৷  
 তাঁর কর্ণ লোভে ইহা ছাড়িতে না পারে ॥ ৩০৫ ॥
 
 ye ihā eka-bāra piye karṇa-dvāre  
-tāṅra karṇa lobhe ihā chāḍite nā pāre
+who  this  once  drinks  through the ears  
+tāṅra karṇa lobhe ihā chāḍite nā pāre  
+his  ears  out of longing  this  to give up  not  can
 
-(305) [not yet translated]
+(305) Whoever drinks it even once through the ears — his ears, out of longing, can never give it up.
 
 ‘রসতত্ত্ব-জ্ঞান’ হয় ইহার শ্রবণে ৷  
 ‘প্রেমভক্তি’ হয় রাধাকৃষ্ণের চরণে ॥ ৩০৬ ॥
 
 ‘rasa-tattva-jñāna’ haya ihāra śravaṇe  
-‘prema-bhakti’ haya rādhā-kṛṣṇera caraṇe
+of rasa  of the truth  knowledge  comes  of this  by hearing  
+‘prema-bhakti’ haya rādhā-kṛṣṇera caraṇe  
+loving devotion  comes  of Rādhā and Kṛṣṇa  for the feet
 
-(306) [not yet translated]
+(306) By hearing it one gains knowledge of the truth of *rasa*, and loving devotion (*prema-bhakti*) awakens for the feet of Rādhā and Kṛṣṇa.
 
 চৈতন্যের গূঢ়তত্ত্ব জানি ইহা হৈতে ৷  
 বিশ্বাস করি’ শুন, তর্ক না করিহ চিত্তে ॥ ৩০৭ ॥
 
 caitanyera gūḍha-tattva jāni ihā haite  
-viśvāsa kari’ śuna, tarka nā kariha citte
+of Caitanya  the hidden truth  one knows  this  from  
+viśvāsa kari’ śuna, tarka nā kariha citte  
+faith  having  hear  argument  not  make  in the mind
 
-(307) [not yet translated]
+(307) From this one comes to know the hidden truth of Caitanya. Hear it with faith, and do not argue in your mind.
 
 অলৌকিক লীলা এই পরম নিগূঢ় ৷  
 বিশ্বাসে পাইয়ে, তর্কে হয় বহুদূর ॥ ৩০৮ ॥
 
 alaukika līlā ei parama nigūḍha  
-viśvāse pāiye, tarke haya bahu-dūra
+beyond this world  pastime  this  supremely  hidden  
+viśvāse pāiye, tarke haya bahu-dūra  
+by faith  it is attained  by argument  it becomes  far away
 
-(308) [not yet translated]
+(308) This pastime is beyond the world and supremely hidden. It is attained by faith; by argument it remains far away.
 
 শ্রীচৈতন্য-নিত্যানন্দ-অদ্বৈত-চরণ ৷  
 যাঁহার সর্ব্বস্ব, তাঁরে মিলে এই ধন ॥ ৩০৯ ॥
 
 śrī caitanya-nityānanda-advaita-caraṇa  
-yāṅhāra sarvasva, tāṅre mile ei dhana
+Śrī  Caitanya’s  Nityānanda’s  Advaita’s  feet  
+yāṅhāra sarvasva, tāṅre mile ei dhana  
+whose  all in all  to him  comes  this  treasure
 
-(309) [not yet translated]
+(309) This treasure comes to one whose all in all is the feet of Śrī Caitanya, Nityānanda and Advaita.
 
 রামানন্দ রায়ে মোর কোটী নমস্কার ৷  
 যাঁর মুখে কৈল প্রভু রসের বিস্তার ॥ ৩১০ ॥
 
 rāmānanda rāye mora koṭī namaskāra  
-yāṅra mukhe kaila prabhu rasera vistāra
+to Rāmānanda  Rāya  my  ten million  obeisances  
+yāṅra mukhe kaila prabhu rasera vistāra  
+through whose  mouth  made  the Lord  of rasa  the unfolding
 
-(310) [not yet translated]
+(310) To Rāmānanda Rāya I offer ten million obeisances. Through his mouth the Lord unfolded the truth of *rasa*.
 
 দামোদর-স্বরূপের কড়চা-অনুসারে ৷  
 রামানন্দ-মিলন-লীলা করিল প্রচারে ॥ ৩১১ ॥
 
 dāmodara-svarūpera kaḍacā-anusāre  
-rāmānanda-milana-līlā karila pracāre
+of Svarūpa Dāmodara  the notes  following  
+rāmānanda-milana-līlā karila pracāre  
+of Rāmānanda  of the meeting  the pastime  I have made  known
 
-(311) [not yet translated]
+(311) Following the notes (*kaḍacā*) of Svarūpa Dāmodara, I have made known the pastime of the Lord’s meeting with Rāmānanda.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩১২ ॥
 
 śrī rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(312) [not yet translated]
+(312) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
