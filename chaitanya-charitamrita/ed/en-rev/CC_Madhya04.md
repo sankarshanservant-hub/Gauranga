@@ -1155,7 +1155,7 @@ as  here  offerings  are made  all  I shall hear
 temana anumāne bhoga gopālake lāgāiba  
 likewise  on that model  offerings  to Gopāla  I shall offer
 
-(115) “I shall hear all about the offerings made here, and on that model I shall make the same offerings to Gopāla.”
+(115) “I shall learn all that is offered here, and then I can offer the like to Gopāla.”
 
 এই লাগি’ পুছিলেন ব্রাহ্মণের স্থানে ৷  
 ব্রাহ্মণ কহিল সব ভোগ-বিবরণে ॥ ১১৬ ॥
@@ -1235,7 +1235,7 @@ living on what comes unasked  Purī  detached  indifferent
 ayācita pāile khā’na, nahe upavāsa  
 unasked  if he gets  he eats  otherwise  fasting
 
-(123) Purī lived on what came unasked; he was detached and indifferent to the world. If something came unasked he ate; otherwise he fasted.[^38]
+(123) Purī lived on whatever came unasked. Detached and indifferent to the world, he ate if food came of itself, and otherwise he fasted.[^38]
 
 প্রেমামৃতে তৃপ্তি, নাহি ক্ষুধা-তৃষ্ণা বাধে ৷  
 ক্ষীর-ইচ্ছা হৈল, তাহে মানে অপরাধে ॥ ১২৪ ॥
@@ -1415,7 +1415,7 @@ on eating  absorption in love  arises  a wonderful  tale
 dine loka bhiḍa habe mora pratiṣṭhā jāni  
 by day  of people  a crowd  there will be  my  fame  knowing
 
-(141) “When all the people hear that the Deity gave me sweet rice, they will know of my fame, and by day crowds will gather.”[^41]
+(141) “When the people hear that the Deity gave me sweet rice,” he thought, “they will know of my fame, and by day crowds will gather.”[^41]
 
 সেই ভয়ে রাত্রি-শেষে চলিলা শ্রীপুরী ৷  
 সেইখানে গোপীনাথে দণ্ডবৎ করি’ ॥ ১৪২ ॥
@@ -1595,7 +1595,7 @@ camphor  together with  grinding  all this  sandalwood
 gopīnāthera aṅge saba karaha lepana  
 on Gopīnātha’s  body  all  do  smearing
 
-(159) Grind all this sandalwood together with the camphor and smear it all on the body of Gopīnātha.[^48]
+(159) Grind all this sandalwood together with the camphor and smear it on the body of Gopīnātha.[^48]
 
 গোপীনাথ আমার সে একই অঙ্গ হয় ৷  
 ইঁহাকে চন্দন দিলে, আমার তাপ-ক্ষয় ॥ ১৬০ ॥
@@ -2081,7 +2081,7 @@ seven  pots  to the pūjārī  coming forward and returning  He gave
 pañca kṣīra pañca-jane vām̐ṭiyā khāila  
 five  pots  five persons  dividing  ate
 
-(207) The other seven pots He gave back to the pūjārī, and the five pots were shared among five and eaten.[^64]
+(207) Seven pots He gave back to the pūjārī, and the five He kept were shared among five.[^64]
 
 গোপীনাথ-রূপে যদি করিয়াছেন ভোজন ৷  
 ভক্তি দেখাইতে কৈল প্রসাদ ভক্ষণ ॥ ২০৮ ॥
@@ -2091,7 +2091,7 @@ in the form of Gopīnātha  although  He had done  eating
 bhakti dekhāite kaila prasāda bhakṣaṇa  
 devotion  to show  He did  of prasāda  eating
 
-(208) In His form as Gopīnātha He had already eaten it, yet to show what devotion is, He ate the prasāda.[^65]
+(208) In His form as Gopīnātha He had already eaten this sweet rice, yet to show what devotion is, He ate it as prasāda.[^65]
 
 নাম-সংকীর্ত্তনে সেই রাত্রি গোঙাইলা ৷  
 মঙ্গল-আরতি দেখি’ প্রভাতে চলিলা ॥ ২০৯ ॥
