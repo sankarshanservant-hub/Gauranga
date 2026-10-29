@@ -86,6 +86,22 @@ In describing Śrī Rādhikā's qualities, Kavirāja Gosvāmī relies on the pra
 
 [The meaning of the prayer:] Her form is manifested by the radiant *cintāmaṇi* of *mahābhāva*; the love (*praṇaya*) of the *sakhīs* for Kṛṣṇa is the fragrant *kuṅkuma* and the rest, from which She has gained a beautiful luster (1). In the morning Her form is bathed in the nectar of compassion, at midday in the nectar of youth, and in the evening in the nectar of loveliness (2). She wears the silken garment of modesty, is adorned with the *kuṅkuma* of beauty, and Her body is painted with dark musk, the *rasa* of *śṛṅgāra* (3). She is adorned with nine finest jewels: trembling, tears, hair standing on end, stupor, perspiration, faltering voice, flushing, madness and numbness (4). Her qualities — beauty, sweetness and the rest — rest on Her body as a garland of flowers. She has perfumed Her moods of being *dhīrā* and *adhīrā* with fragrant powder, that is, with camphor and the like (5). Her braided hair, that is, Her hair tied in a knot (*khõpā*), is *māna* hidden within; Her forehead shines with the *tilaka* of good fortune; the ornament of Her ears is hearing Kṛṣṇa's name and fame (6). Her lips are colored red with the betel of *anurāga*; She wears the crookedness of love as eye-black; She is scented with the camphor of the gentle smile that jokes (*narma*) bring (7). When She reclines on the couch of pride in the inner chamber of fragrance, the necklace of *vipralambha* swings on Her as a pendant, *prema-vaicittya* (8). Her breasts are covered by a bodice, the anger of *praṇaya*; Her *kacchapī vīṇā* is the fame and beauty that dry up the faces and hearts of Her rivals (9). She has laid Her lotus hand, Her play, on the shoulder of Her friend, youth; though She has many qualities, She serves the honey that delights Kṛṣṇa, the Kandarpa (10). Holding a straw between my teeth I pray to such a Śrī Rādhā: revive this miserable one by giving him the nectar of service to You (11). O Gāndharvikā, as merciful Kṛṣṇa does not abandon those who surrender to Him, so You too do not abandon one who takes shelter of You (12).
 
+## 181
+
+Who is the birthplace of Śrī Kṛṣṇa's *praṇaya*? Śrīmatī Rādhikā alone. Who is Kṛṣṇa's Beloved of incomparable qualities? Rādhikā alone, and no other. Crookedness in the hair, restlessness in the eyes, firmness in the breasts and the like belong to Rādhikā alone. Rādhikā alone can fulfill Hari's desires, and no one else.
+
+## 185
+
+The greatness of the pastimes is the glory of the love-pastimes of the Two.
+
+## 187
+
+The hero who is clever, freshly youthful, expert in jesting, free from anxiety and submissive to his beloveds is “*dhīra-lalita*.”
+
+## 190–192
+
+“O Rāmānanda, all that you have said — the determination of the ‘goal’ (*sādhya*), the description of Rādhā and Kṛṣṇa, and the greatness of the pastimes of the Two — is true. But if there is anything beyond this, tell it.” Rāya replied, “Beyond this I see no further course for the intellect. But there is one *bhāva* called ‘*prema-vilāsa-vivarta*,’ and of that I shall speak; only I cannot say whether hearing it will please You.” The purport is this: “Thus far I have described the true nature of the pastimes of love (*prema-vilāsa*). In the truth of *prema-vilāsa* there are two kinds of *bhāva*: *sambhoga* and *vipralambha*. Without *vipralambha*, *sambhoga* is not nourished. Separation itself is called ‘*vipralambha*’; this is the *vivarta* of *prema-vilāsa*, that is, during separation, by the force of *adhirūḍha-bhāva*, *sambhoga* is manifest (*sphūrti*) even without *sambhoga*.” Hardly had Rāya Rāmānanda begun to sing a song of his own composition about this *rasa* when Mahāprabhu, overwhelmed by His own *bhāva*, covered his mouth. The song is Śrīmatī's words in separation, that is, the manifestation of *sambhoga* in the state of *vipralambha*.
+
 ---
 
 [^101-1]: The verse translation reads differently: it speaks of Rādhā's love, which could not show itself fully in the presence of the other gopīs. Bhaktivinoda (and the *Anubhāṣya* subheading) speak of Kṛṣṇa's love for Rādhā.

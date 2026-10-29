@@ -384,7 +384,66 @@ The author shows in detail that Śrī Rādhā is the transformation (*vikāra*) 
 
 Śrīmatī Rādhikā is the mine of the jewel of pure love for Kṛṣṇa, that is, the embodied ocean of love for Kṛṣṇa; and Śrī Rādhikā's body is full of incomparable qualities. See Madhya 23.81–86.
 
+## 181
+
+> Subheading: Rādhikā is the original mine of love for Kṛṣṇa —
+
+(In the form of questions and answers he describes Śrī Rādhikā's glory.) **kṛṣṇasya** **praṇaya-janibhūḥ** (the birthplace of *praṇaya*) **kā**? — **ekā rādhikā**. **asya** (of this Kṛṣṇa) **preyasī** (the object of His love) **kā**? — **anupama-guṇā** (endowed with incomparable qualities) **ekā rādhikā**, **na ca anyā**. **asyāḥ** (of Rādhikā alone) **keśe** **jaihmyaṁ** (crookedness), **dṛśi** (in the eyes) **taralatā** (restlessness), **kuce** **niṣṭhuratvaṁ** (firmness); **hareḥ** **vāñchā-pūrtyai** (to fulfill the desires) **prabhavati** (is able) [Rādhikā alone], **na ca anyā** (and no other is like Her).
+
+## 182
+
+> Subheading: Rādhikā's many qualities that bring Kṛṣṇa under Her control —
+
+## 182–183
+
+See Ādi 4.69, 75–79, 90–96.
+
+## 184
+
+See Ādi 4.122–124, 240–248, 255.
+
+## 185
+
+> Subheading: Thus far the truth of Rādhā and Kṛṣṇa; now begins the description of the truth of *rasa* and *prema* —
+
+## 186
+
+> Subheading: The description of the conduct of the youthful Kiśora and Kiśorī of Vraja —
+
+## 187
+
+**vidagdhaḥ** (a *rasika*) **nava-tāruṇyaḥ** (endowed with fresh youth) **parihāsa-viśāradaḥ** (skilled in secret play) **niścintaḥ** (free from anxiety) **dhīra-lalitaḥ** (hero) **prāyaḥ** **preyasī-vaśaḥ** (subject to His beloveds according to the degree of their love) **syāt**.
+
+## 188
+
+> Subheading: Kṛṣṇa, eternally absorbed in pastimes with Rādhā —
+
+## 189
+
+See Ādi 4.117.
+
+## 190
+
+> Subheading: The highest state of the eternal, spiritual pastimes of service is “*prema-vilāsa-vivarta*”; it is not the attainment of a material, featureless *kevalādvaita* —
+
+## 191
+
+“That which goes beyond the path of imagination (*bhāvanā*), becomes the ground of an abundance of wonder, and is deeply relished in a heart made radiant by [pure] *sattva* — that is considered *rasa*.”[^191-1] *Rasa* is relished only in a heart full of the radiance of *viśuddha-sattva*. It is not something that the body and mind, bearing the gross and subtle *upādhis* of the outer or inner world, can relish. The semblance of selfhood (*asmitābhāsa*) seen in the secondary, gross and subtle world is what the words “intellect” (*buddhi*) and “mind” (*manas*) denote; they are not the self. An object full of *rasa* is perceived only by senses full of *rasa*. Senses full of *rasa*, by seeing, touching and the rest, all full of *rasa*, render loving service to Nanda-nandana — the crown of *rasikas*, the fountain of *rasa*, the *viṣaya-vigraha*. This is not merely the impersonalist's state of the absence of matter, in which “what is not That” has simply been rejected (*atan-nirasta*); that is why the definition of *rasa* specially records that it goes beyond the path of *bhāvanā*. One who teaches of the seer and the seen (*dṛg-dṛśya-vādī*) gains experiences in the material world rooted in sense gratification. Even if they serve merely as an antidote to material *vivarta*, they cannot approach transcendental *rasa*. The wonder that arises from the properties of the body and mind is incomplete, light and perishable; that is why spiritual *rasa* is said to reveal the weight of wonder. *Prema* is a pure, spiritual reality. Love (*prīti*) for what is not spiritual is perishable and rests only in *kāma*, whose nature is base. The suffering that comes in the material world when sense gratification is obstructed is the “*vivarta*” of material love. *Prema-vilāsa* and *vilāsa-vivarta* produce no lack, no inferiority (*avaratā*) and nothing unworthy. Śrī Rāmānanda, the relisher of transcendental *rasa*, enacting the pastime of asking whether Śrī Gaurasundara would approve the song he had composed and sung, described *prema-vilāsa-vivarta*.
+
+The book *Vivarta-vilāsa* by Bhaktadāsa Bāul is the exact opposite of Śrī Jagadānanda's *Prema-vivarta* and Śrī Rāmānanda's *prema-vilāsa-vivarta*. The present community proud of its education, following talk of material *vivarta-vilāsa*, sets up a perverse understanding of *prema-vilāsa-vivarta*. By this it may obtain the title “Ph.D.” from the material *vidyāsāgaras* in the “temple of material learning.” But to obtain the title “Ph.D.” in the “temple of higher knowledge” (*parā-vidyā*), one must give up material ego and be established in one's eternal *svarūpa*. Between religious scriptures made by men and transcendental philosophical scriptures there is a difference as between heaven and the netherworld. Śrīmad Madhvācārya showed it clearly to the *sampradāya* that rejects *svagata* and *sajātīya* distinctions, relying on their own favorite method of reasoning. The community of material philosophers lives in a material *prema-vilāsa-vivarta*; therefore they will not be able to understand *prema-vilāsa-vivarta* through their own concocted experience. As an elephant cannot be fitted onto a plate, so transcendental experience is impossible for the advocate of the ascending path (*āroha-vādī*), with his wild dancing and yet utterly feeble strength.
+
+Śrī Rāmānanda Rāya's words speak of the variety of pastimes and the *vilāsa-vivarta* of *adhirūḍha mahābhāva* — *mohana*, *mādana* and the rest — contained in “*prema-vaicittya*.” The *prākṛta-sahajiyā* cannot follow this. The *prākṛta-sahajiyā* will only be eager to drag the meaning of Śrī Rāmānanda's song into *kevala-nirviśeṣa-vāda*. But that was neither what Śrī Rāmānanda meant to say nor what Śrī Gaurasundara was to hear. Therefore Śrī Gaurasundara judged it improper to proclaim the hidden wonder and uniqueness of *bhajana* in a society of shallow material philosophers, and with His own hand He covered the lotus mouth of Śrī Rāmānanda, who was singing of Kṛṣṇa. This establishes that the song cannot be grasped by the experience of a material philosopher who looks at the external world.
+
+If, however, the reasoning given above is adopted, the field of the *śuddhādvaita-vādī* can be established in place of *kevalādvaita-vāda*. The *śuddhādvaita-vādī* says: the nondual knowledge (*advaya-jñāna*) that is pointed to in an effort to remove the inferiority present in the dual world is imaginary; it has no *prema-vilāsa*. Moreover, in *prema-vilāsa-vivarta* the line *nā so ramaṇa, nā hāma ramaṇī* (“he is not the lover, nor am I the beloved”)[^191-2] can be misinterpreted. If this *vivarta* of interpretation seizes the material *vivarta-vādī*, it makes him call the attainment of *kevalādvaita* — the absence of *viṣaya* and *āśraya* — “*advaya-jñāna*,” and throws him back into material *vivarta*. Here the *śuddhādvaita-vādī* says: the words *nā so ramaṇa, nā hāma ramaṇī* do not destroy the real truth; their aim is to remove the apprehension of impure duality that arises when, in the Reality, the Reality and its potency are distinguished. To say this in the language of the *viśiṣṭādvaita-vādī*: the Reality is hard to know, but when potency (*śakti*) and its possessor (*śaktimān*) are known as nondifferent, the Reality becomes knowable through knowing the potency. Some separate the potency of the Reality from the Reality and imagine two separate entities, the “*ramaṇa*” (the lover) and the “*ramaṇī*” (the beloved). In their judgment this statement of Śrī Rāmānanda merely removes the distinction between a material possessor of potency and material potency.
+
+The community of *prākṛta-sahajiyās* thinks that the material enjoyer, the “*ramaṇa*,” is different from the material object of enjoyment, the “*ramaṇī*,” and greatly honors impure dualistic reasoning. To be saved from it, the reasoning of *cintya-dvaitādvaita* was introduced. The *acintya-bhedābheda* reasoning of Śrī Rāmānanda or Śrī Gaurasundara is somewhat different from this. Here the reasoning of *śuddha-dvaita* and the reasoning of *acintya-bhedābheda* should be considered of one order. The *acintya-bhedābheda* reasoning differs from the reasonings of the *śuddhādvaita-vādī*, the *śuddha-dvaita-vādī*, the *cintya-dvaitādvaita-vādī* and the *viśiṣṭādvaita-vādī*. Therefore the Ācārya of *acintya-bhedābheda*, Himself not different from Vrajendranandana, proclaimed this through the holy mouth of Śrī Rāmānanda, the transcendental *sahajika*. It is of this very Rāmānanda that Śrī Gaurāṅgasundara said: “In the whole southern country I have seen no one like you, who follows the transcendental *sahaja-dharma*. ‘I am one *bāul*, you are a second *bāul*! Therefore you and I are equal.’”[^191-3] In saying this Śrī Gaurasundara displayed the reasoning of *acintya-bhedābheda*; therefore Śrī Jīvapāda in his *Sarva-saṁvādinī* accepted the Vedānta philosophy of the Gauḍīyas as “*acintya-bhedābheda*.”
+
+In explaining *acintya-bhedābheda* the community of *prākṛta-sāhajikas* tells the story of bathing in the Gaṅgā with a body smeared with oil; but this is merely a *vivarta* of the material world. From such an example the truth of the manifestation of *bhedābheda* cannot be known. In establishing the nondifference of potency and its possessor, Śrī Rāmānanda's song shows the lover and the beloved as if exchanging the awareness of their own *svarūpa* (*vyatyaya*) — precisely in order to explain clearly how the *viṣaya* awakens (*uddīpana*) the *āśraya* and the *āśraya* awakens the *viṣaya*. Yet let no *jīva* on this account become an *ahaṅgrahopāsaka*. *Ahaṅgrahopāsanā* is the folly of the *cin-mātra-vādī* and simply the opposite of spiritual *vilāsa*. It is for the sake of those who think that the nondual Reality (*advaya-jñāna-vastu*) has no *bhāva* of the *āśraya* that Śrī Kṛṣṇa's eternal Gaura-līlā, abiding in Goloka in the chamber of magnanimity (*audārya*), descends into the world. This exemplary pastime of *prema-vilāsa-vivarta* shows that the Gaura-līlā descended into the world will never be an object of enjoyment for the “Gaura-nāgarīs,” who teach material *sambhoga*. Transcendental *prema-vilāsa* has no need of imaginary messengers such as “Kāñcanā.” If one proclaims the topics of the *rasa* of worshipping Kṛṣṇa (*kṛṣṇa-bhajana-rasa*) in a world starving for *kṛṣṇa-kathā*, the community of *prākṛta-sahajiyās*, wishing to show itself equal to the pure devotees, may fall into the *vivarta* of various doctrines. Knowing this, all these explanations have been kept for people of pure devotion alone.
+
 ---
 
 [^127-1]: In a number of editions of the *Śrīmad-Bhāgavatam*, 7.11.35.
 [^127-2]: So in the edition: গুহ্য-সূত্র (“*guhya-sūtra*”), apparently for গৃহ্য-সূত্র (“*gṛhya-sūtra*”).
+[^191-1]: *Bhakti-rasāmṛta-sindhu* 2.5.132.
+[^191-2]: *Caitanya-caritāmṛta*, Madhya 8.193 (a line of Rāmānanda Rāya's song).
+[^191-3]: In the verse of the *Caitanya-caritāmṛta* (Madhya 8.290) the word is *bātula* (“madman”); in the *Anubhāṣya* it is *bāula* (“*bāul*”).
