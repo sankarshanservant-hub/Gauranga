@@ -1328,6 +1328,7 @@ tr: Knowing the pride in their hearts, Gauracandra began a discussion with them 
 w: of the Tattvavādīs  the ācārya  in all  the scriptures  learned
 w: to him  a question  put  the Lord  being  as if  humble
 tr: The ācārya of the Tattvavādīs was learned in all the scriptures, and the Lord, as if He were humble, put a question to him:
+fn: Heading in the edition: the Lord humbly questions the great paṇḍita Raghuvarya Tīrtha.
 
 ## 255
 w: the goal and the means  I  not  know  well
@@ -1338,6 +1339,7 @@ tr: “I do not properly understand the goal (*sādhya*) and the means (*sādhan
 w: the ācārya  said  the duties of varṇa and āśrama  to Kṛṣṇa  offering
 w: this  is  of a devotee of Kṛṣṇa  the best  ‘means’
 tr: The ācārya said, “To follow the duties of *varṇa* and *āśrama* and offer them to Kṛṣṇa — this is the best ‘means’ for a devotee of Kṛṣṇa.
+fn: *Anubhāṣya*: the *sādhana* the ācārya of the Tattvavādīs names is devotion mixed with *karma*: *varṇāśrama-dharma* offered to Kṛṣṇa. His *sādhya* is the five kinds of liberation and going to Vaikuṇṭha (257); but the *sādhana* of the scriptures Mahāprabhu revealed is hearing and chanting, and their *sādhya* is love for Kṛṣṇa (258).
 
 ## 257
 w: the five kinds of  liberation  attaining  to Vaikuṇṭha  going
@@ -1358,7 +1360,8 @@ w: thus  by a person  offered  to Viṣṇu
 w: devotion  if  having nine marks
 w: is performed  to the Lord  directly
 w: that  I consider  learning  the highest
-tr: “Hearing about Viṣṇu and chanting His glories, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him as His servant, befriending Him and offering Him one’s whole self — if a person offers devotion to Viṣṇu with these nine marks and performs it directly for the Lord, I consider that the highest learning.” (Śrīmad-Bhāgavatam 7.5.23–24)
+tr: “Hearing about Viṣṇu and chanting His glories, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him as His servant, befriending Him and offering Him one’s whole self — if a person offers devotion to Viṣṇu with these nine marks and performs it directly for the Lord, I consider that the highest learning.” (Śrīmad-Bhāgavatam, 7.5.23–24)
+fn: *Anubhāṣya*: this was Prahlāda’s answer to his father, Hiraṇyakaśipu, who asked what he had learned from the sons of his guru. Devotion is first offered to the Lord and then performed — directly, not through *jñāna* and *karma*, and not first performed and only afterwards offered; and one who serves in this way regards pure service to Hari as the fruit of studying all the scriptures.
 
 ## 261
 w: from hearing and chanting  for Kṛṣṇa  arises  ‘love’
@@ -1371,6 +1374,8 @@ w: in whom love has arisen  with melted heart  loudly
 w: laughs  then  weeps  cries out  sings
 w: like a madman  dances  beyond the world
 tr: “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+fn: *Anubhāṣya*: these words were spoken by Kavi, one of the nine Yogendras, to King Nimi. *Evaṁ-vrataḥ* — one whose vow is the service of hearing, chanting and the like; *druta-cittaḥ* — with a heart full of longing; *loka-bāhyaḥ* — indifferent to people’s laughter, blame or praise.
+fn: The same verse as Ādi 7.94; translation as there.
 
 ## 263
 w: censure of karma  renunciation of karma  in all the scriptures  is said
@@ -1381,22 +1386,26 @@ tr: All the scriptures censure *karma* and enjoin its renunciation: loving devot
 w: knowing  thus  the merits  the faults
 w: by Me  enjoined  even  one’s own
 w: duties  giving up  who  all
-w: Me  worships  he  indeed  the best
-tr: “One who knows the merits and faults of his duties, though I Myself have enjoined them, gives them all up and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam 11.11.32)
+w: Me  worships  he  and  the best
+tr: “Knowing in this way their merits and faults, he who gives up all his duties, even those I Myself have enjoined, and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam, 11.11.32)
+fn: *Anubhāṣya* (on Madhya 8.62): the Lord’s answer to Uddhava about the marks of the sādhu dear to Him; “his duties” are the worldly dharmas of the varṇas and āśramas, which the Lord enjoins as the teacher of Vedic karma.
+fn: The same verse as Madhya 8.62; translation as there.
 
 ## 265
-w: all  duties  giving up
-w: in Me  alone  shelter  take
-w: I  you  from all sins
-w: will deliver  do not  grieve
-tr: “Give up all duties and take shelter in Me alone. I shall deliver you from all sins; do not grieve.” (Bhagavad-gītā 18.66)
+w: all  dharmas  giving up
+w: to Me  alone  for shelter  come
+w: I  you  from all  sins
+w: shall free  do not  grieve
+tr: “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+fn: The same verse as Madhya 8.63; translation as there.
 
 ## 266
 w: so long  duties  one should perform
 w: not  one becomes weary  as long as
 w: in hearing My narrations and the rest  or
 w: faith  as long as  not  is born
-tr: “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam 11.20.9)
+tr: “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam, 11.20.9)
+fn: *Anubhāṣya*: this is Śrī Bhagavān’s answer to Uddhava, who asked who must perform *karma* and who may give it up. Weariness (*nirveda*) is detachment from all talk other than talk of Kṛṣṇa; *karma* here means the regular and occasional duties (*nitya-* and *naimittika-karma*).
 
 ## 267
 w: the five kinds of  liberation  rejection  make  the devotees
@@ -1409,20 +1418,24 @@ w: likeness of form  oneness  even  and
 w: being given  not  accept
 w: without  My service  the people
 tr: “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
+fn: *Amṛta-pravāha-bhāṣya* (on Ādi 4.207): *sālokya* — residence in Vaikuṇṭha, *sārṣṭi* — opulence, *sāmīpya* — nearness, *sārūpya* — a four-armed form, oneness — *sāyujya*, merging; the devotees do not accept them, for apart from transcendental service to the Lord they have nothing to desire.
+fn: The same verse as Ādi 4.207; translation as there.
 
 ## 269
 w: who  hard to give up  land, sons, kinsmen, wealth and wife
 w: desired  Śrī  by the best of the gods  whose glance is kind
 w: did not want  the king  that  is fitting  for the great  of Madhu’s foe
 w: devoted to the service  in mind  liberation  even  worthless
-tr: “The king did not desire land, sons, kinsmen, wealth and wife, so hard to give up, nor even Śrī, the goddess of fortune, whose kind glance the best of the gods long for. This is fitting for great souls whose minds are devoted to the service of Kṛṣṇa, the foe of Madhu: for them even liberation is worthless.” (Śrīmad-Bhāgavatam 5.14.44)
+tr: “The king did not desire land, sons, kinsmen, wealth and wife, so hard to give up, nor even Śrī, the goddess of fortune, whose kind glance the best of the gods long for. This is fitting for great souls whose minds are devoted to the service of Kṛṣṇa, the foe of Madhu: for them even liberation is worthless.” (Śrīmad-Bhāgavatam, 5.14.44)
+fn: *Amṛta-pravāha-bhāṣya*: if even liberation, *nirvāṇa*, is worthless to such sādhus, what to speak of earthly happiness.
 
 ## 270
 w: devoted to Nārāyaṇa  all
 w: not  from anywhere  fear
 w: in heaven, liberation and hell
 w: even  the same value  seeing
-tr: “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam 6.17.28)
+tr: “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam, 6.17.28)
+fn: *Anubhāṣya*: Śambhu (Śiva) spoke these words to Pārvatī when she had cursed Citraketu and he had humbly accepted the curse. Fear arises from absorption in a “second thing” — in *māyā*, perceived as something other than Kṛṣṇa; for the pure devotee heaven, hell and *mokṣa* are all such a “second thing”, foreign to the soul and therefore not dear to him.
 
 ## 271
 w: liberation  karma  two  things  give up  the devotees
@@ -1438,6 +1451,7 @@ tr: Seeing that I am a sannyāsī, you are deceiving Me, and so you have not tol
 w: hearing  the Tattva-ācārya  became  at heart  ashamed
 w: the Lord’s  Vaiṣṇavism  seeing  he became  astonished
 tr: Hearing this, the ācārya of the Tattvavādīs was ashamed at heart, and seeing the Lord’s Vaiṣṇava spirit, he was astonished.
+fn: *Anubhāṣya*: from the line of gurus of the Uttararāḍhī Maṭha it is known that in Śrī Mahāprabhu’s time its head was Śrī Raghuvarya Tīrtha (here the edition has “Raghuvīrya”).
 
 ## 274
 w: the ācārya  said  You  what  say  that  true  is
@@ -1457,12 +1471,14 @@ tr: The Lord said, “The *karmī* and the *jñānī* are both devoid of devotio
 ## 277
 w: only  one  merit  I see  in your  sampradāya
 w: ‘the Lord’s form is real’  you hold  firmly
-tr: Only one merit do I see in your *sampradāya*: you firmly hold that the Lord’s form is real (*satya-vigraha*).”
+tr: I see only one merit in your *sampradāya*: you firmly hold that the Lord’s form is real (*satya-vigraha*).”
+fn: *Amṛta-pravāha-bhāṣya*: the conclusions of this *sampradāya* are for the most part opposed to pure devotion, yet it has one great merit — it accepts the true and eternal form (*vigraha*) of the Lord. Relying on this principal conclusion, Mahāprabhu’s *parama-guru*, Śrī Mādhavendra Purī, accepted the Madhva *sampradāya*.
 
 ## 278
-w: in this way  in his  house  pride  crushing
+w: in this way  his (lit. in his house)  pride  crushing
 w: to Phalgu-tīrtha  then  came  Śrī Gaurahari
-tr: Having thus crushed their pride in their own home, Śrī Gaurahari then came to Phalgu-tīrtha.
+tr: Having thus crushed the ācārya’s pride, Śrī Gaurahari then came to Phalgu-tīrtha.
+fn: *Anubhāṣya*: *tāṁra ghare* means “him”: in colloquial Bengali *ghare* after a pronoun in the genitive serves as the accusative. It is the pride of the ācārya himself.
 
 ## 279
 w: at Tritakūpa  of Viśālākṣī  He had  darśana
@@ -1518,6 +1534,7 @@ tr: Seeing this, Śrī Raṅga Purī was amazed at heart, and he said, “Rise, 
 w: Śrīpāda  You hold  with my  Gosāñi  a connection
 w: that  without  elsewhere  there is not  of this  love  the fragrance
 tr: Śrīpāda, You must have a connection with my Gosāñi, Mādhavendra Purī; without it there is not even a trace of such love anywhere.”
+fn: *Anubhāṣya*: only from Śrīla Mādhavendra Purī did love for Kṛṣṇa in the mood of separation (*vipralambha*), rooted in exclusive service to Śrī Rādhā, descend into the world: he is “the first sprout of the wish-fulfilling tree of devotion” (Ādi 9.10). Only one bound to him by ties dear to him has a claim to this love.
 
 ## 290
 w: so  saying  the Lord  raising  he made  an embrace
@@ -1573,6 +1590,7 @@ tr: One worthy son of hers took *sannyāsa*. His name was Śaṅkarāraṇya, an
 w: at this  holy place  Śaṅkarāraṇya’s  attainment of perfection  took place
 w: in the course of talk  Śrī Raṅga Purī  all this  told
 tr: At this holy place Śaṅkarāraṇya attained perfection (*siddhi*).” This is what Śrī Raṅga Purī told Him in the course of their talk.
+fn: *Amṛta-pravāha-bhāṣya*: Śaṅkarāraṇya Svāmī was Mahāprabhu’s elder brother, Śrīmad Viśvarūpa; in his wanderings he attained perfection (*siddhi*) at Pāṇḍarapura, that is, he entered the spiritual abode.
 
 ## 301
 w: the Lord  said  in My former āśrama  he  My  brother

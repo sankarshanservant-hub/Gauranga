@@ -2611,7 +2611,7 @@ of the Tattvavādīs  the ācārya  in all  the scriptures  learned
 tām̐re praśna kaila prabhu hañā yena dīna  
 to him  a question  put  the Lord  being  as if  humble
 
-(254) The ācārya of the Tattvavādīs was learned in all the scriptures, and the Lord, as if He were humble, put a question to him:
+(254) The ācārya of the Tattvavādīs was learned in all the scriptures, and the Lord, as if He were humble, put a question to him:[^25]
 
 সাধ্য-সাধন আমি না জানি ভালমতে ৷  
 সাধ্য-সাধন-শ্রেষ্ঠ জানাহ আমাতে ॥ ২৫৫ ॥
@@ -2631,7 +2631,7 @@ the ācārya  said  the duties of varṇa and āśrama  to Kṛṣṇa  offering
 ei haya kṛṣṇa-bhaktera śreṣṭha ‘sādhana’  
 this  is  of a devotee of Kṛṣṇa  the best  ‘means’
 
-(256) The ācārya said, “To follow the duties of *varṇa* and *āśrama* and offer them to Kṛṣṇa — this is the best ‘means’ for a devotee of Kṛṣṇa.
+(256) The ācārya said, “To follow the duties of *varṇa* and *āśrama* and offer them to Kṛṣṇa — this is the best ‘means’ for a devotee of Kṛṣṇa.[^26]
 
 ‘পঞ্চবিধ মুক্তি’ পাঞা বৈকুণ্ঠে গমন ৷  
 ‘সাধ্য-শ্রেষ্ঠ’ হয়, — এই শাস্ত্র-নিরূপণ ॥ ২৫৭ ॥
@@ -2676,7 +2676,7 @@ is performed  to the Lord  directly
 tan manye ’dhītam uttamam  
 that  I consider  learning  the highest
 
-(259–260) “Hearing about Viṣṇu and chanting His glories, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him as His servant, befriending Him and offering Him one’s whole self — if a person offers devotion to Viṣṇu with these nine marks and performs it directly for the Lord, I consider that the highest learning.” (Śrīmad-Bhāgavatam 7.5.23–24)
+(259–260) “Hearing about Viṣṇu and chanting His glories, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him as His servant, befriending Him and offering Him one’s whole self — if a person offers devotion to Viṣṇu with these nine marks and performs it directly for the Lord, I consider that the highest learning.” (Śrīmad-Bhāgavatam, 7.5.23–24)[^27]
 
 শ্রবণ-কীর্ত্তন হইতে কৃষ্ণে হয় ‘প্রেমা’ ৷  
 সেই পঞ্চম পুরুষার্থ — পুরুষার্থের সীমা ॥ ২৬১ ॥
@@ -2702,7 +2702,7 @@ laughs  then  weeps  cries out  sings
 unmāda-van nṛtyati loka-bāhyaḥ  
 like a madman  dances  beyond the world
 
-(262) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+(262) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)[^28][^29]
 
 কর্ম্মনিন্দা, কর্ম্মত্যাগ, সর্ব্বশাস্ত্রে কহে ৷  
 কর্ম্ম হৈতে প্রেমভক্তি কৃষ্ণে কভু নহে ॥ ২৬৩ ॥
@@ -2724,23 +2724,23 @@ by Me  enjoined  even  one’s own
 dharmān santyajya yaḥ sarvān  
 duties  giving up  who  all  
 māṁ bhajet sa ca sattamaḥ  
-Me  worships  he  indeed  the best
+Me  worships  he  and  the best
 
-(264) “One who knows the merits and faults of his duties, though I Myself have enjoined them, gives them all up and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam 11.11.32)
+(264) “Knowing in this way their merits and faults, he who gives up all his duties, even those I Myself have enjoined, and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam, 11.11.32)[^30][^31]
 
 সর্ব্বধর্ম্মান্ পরিত্যজ্য মামেকং শরণং ব্রজ ৷  
 অহং ত্বাং সর্ব্বপাপেভ্যো মোক্ষয়িষ্যামি মা শুচঃ ॥ ২৬৫ ॥
 
 sarva-dharmān parityajya  
-all  duties  giving up  
+all  dharmas  giving up  
 mām ekaṁ śaraṇaṁ vraja  
-in Me  alone  shelter  take  
+to Me  alone  for shelter  come  
 ahaṁ tvāṁ sarva-pāpebhyo  
-I  you  from all sins  
+I  you  from all  sins  
 mokṣayiṣyāmi mā śucaḥ  
-will deliver  do not  grieve
+shall free  do not  grieve
 
-(265) “Give up all duties and take shelter in Me alone. I shall deliver you from all sins; do not grieve.” (Bhagavad-gītā 18.66)
+(265) “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)[^32]
 
 তাবৎ কর্ম্মাণি কুর্ব্বীত ন নির্ব্বিদ্যেত যাবতা ৷  
 মৎকথা-শ্রবণাদৌ বা শ্রদ্ধা যাবন্ন জায়তে ॥ ২৬৬ ॥
@@ -2754,7 +2754,7 @@ in hearing My narrations and the rest  or
 śraddhā yāvan na jāyate  
 faith  as long as  not  is born
 
-(266) “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam 11.20.9)
+(266) “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam, 11.20.9)[^33]
 
 পঞ্চবিধ মুক্তি ত্যাগ করে ভক্তগণ ৷  
 ফল্গু করি’ ‘মুক্তি’ দেখে নরকের সম ॥ ২৬৭ ॥
@@ -2767,18 +2767,18 @@ worthless  deeming  ‘liberation’  they see  to hell  equal
 (267) The devotees reject the five kinds of liberation; they deem “liberation” worthless and look upon it as no better than hell.
 
 সালোক্য-সার্ষ্টি-সামীপ্য-সারূপ্যৈকত্বমপ্যুত ৷  
-দীয়মানং ন গৃহ্নন্তি বিনা মৎসেবনং জনাঃ ॥ ২৬৮ ॥
+দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ২৬৮ ॥
 
 sālokya-sārṣṭi-sāmīpya-  
 residence in My world  equal opulence  nearness  
 sārūpyaikatvam apy uta  
 likeness of form  oneness  even  and  
-dīyamānaṁ na gṛhnanti  
+dīyamānaṁ na gṛhṇanti  
 being given  not  accept  
 vinā mat-sevanaṁ janāḥ  
 without  My service  the people
 
-(268) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
+(268) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)[^34][^35]
 
 যো দুস্ত্যজান্ ক্ষিতিসুতস্বজনার্থদারান্  
 প্রার্থ্যাং শ্রিয়ং সুরবরৈঃ সদয়াবলোকাম্ ৷  
@@ -2794,7 +2794,7 @@ did not want  the king  that  is fitting  for the great  of Madhu’s foe
 sevānurakta-manasām abhavo ’pi phalguḥ  
 devoted to the service  in mind  liberation  even  worthless
 
-(269) “The king did not desire land, sons, kinsmen, wealth and wife, so hard to give up, nor even Śrī, the goddess of fortune, whose kind glance the best of the gods long for. This is fitting for great souls whose minds are devoted to the service of Kṛṣṇa, the foe of Madhu: for them even liberation is worthless.” (Śrīmad-Bhāgavatam 5.14.44)
+(269) “The king did not desire land, sons, kinsmen, wealth and wife, so hard to give up, nor even Śrī, the goddess of fortune, whose kind glance the best of the gods long for. This is fitting for great souls whose minds are devoted to the service of Kṛṣṇa, the foe of Madhu: for them even liberation is worthless.” (Śrīmad-Bhāgavatam, 5.14.44)[^36]
 
 নারায়ণপরাঃ সর্ব্বে ন কুতশ্চন বিভ্যতি ৷  
 স্বর্গাপবর্গনরকেষ্বপি তুল্যার্থদর্শিনঃ ॥ ২৭০ ॥
@@ -2808,7 +2808,7 @@ in heaven, liberation and hell
 api tulyārtha-darśinaḥ  
 even  the same value  seeing
 
-(270) “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam 6.17.28)
+(270) “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam, 6.17.28)[^37]
 
 মুক্তি, কর্ম্ম, — দুই বস্তু ত্যজে ভক্তগণ ৷  
 সেই দুই স্থাপ’ তুমি ‘সাধ্য’, ‘সাধন’ ॥ ২৭১ ॥
@@ -2838,7 +2838,7 @@ hearing  the Tattva-ācārya  became  at heart  ashamed
 prabhura vaiṣṇavatā dekhi’ hailā vismita  
 the Lord’s  Vaiṣṇavism  seeing  he became  astonished
 
-(273) Hearing this, the ācārya of the Tattvavādīs was ashamed at heart, and seeing the Lord’s Vaiṣṇava spirit, he was astonished.
+(273) Hearing this, the ācārya of the Tattvavādīs was ashamed at heart, and seeing the Lord’s Vaiṣṇava spirit, he was astonished.[^38]
 
 আচার্য্য কহে, — তুমি যেই কহ, সেই সত্য হয় ৷  
 সর্ব্বশাস্ত্রে বৈষ্ণবের এই সুনিশ্চয় ॥ ২৭৪ ॥
@@ -2878,17 +2878,17 @@ only  one  merit  I see  in your  sampradāya
 ‘satya-vigraha īśvare’ karaha niścaye  
 ‘the Lord’s form is real’  you hold  firmly
 
-(277) Only one merit do I see in your *sampradāya*: you firmly hold that the Lord’s form is real (*satya-vigraha*).”
+(277) I see only one merit in your *sampradāya*: you firmly hold that the Lord’s form is real (*satya-vigraha*).”[^39]
 
 এইমত তাঁর ঘরে গর্ব্ব চূর্ণ করি’ ৷  
 ফল্গুতীর্থে তবে আইলা শ্রীগৌরহরি ॥ ২৭৮ ॥
 
 ei-mata tām̐ra ghare garva cūrṇa kari’  
-in this way  in his  house  pride  crushing  
+in this way  his (lit. in his house)  pride  crushing  
 phalgu-tīrthe tabe āilā śrī-gaurahari  
 to Phalgu-tīrtha  then  came  Śrī Gaurahari
 
-(278) Having thus crushed their pride in their own home, Śrī Gaurahari then came to Phalgu-tīrtha.
+(278) Having thus crushed the ācārya’s pride, Śrī Gaurahari then came to Phalgu-tīrtha.[^40]
 
 ত্রিতকূপে বিশালাক্ষী করিল দর্শন ৷  
 পঞ্চাপ্সরা-তীর্থে আইলা শচীর নন্দন ॥ ২৭৯ ॥
@@ -2998,7 +2998,7 @@ seeing  amazed  became  of Śrī Raṅga Purī  the mind
 tāhā vinā anyatra nāhi ei premāra gandha  
 that  without  elsewhere  there is not  of this  love  the fragrance
 
-(289) Śrīpāda, You must have a connection with my Gosāñi, Mādhavendra Purī; without it there is not even a trace of such love anywhere.”
+(289) Śrīpāda, You must have a connection with my Gosāñi, Mādhavendra Purī; without it there is not even a trace of such love anywhere.”[^41]
 
 এত বলি’ প্রভুকে উঠাঞা কৈল আলিঙ্গন ৷  
 গলাগলি করি’ দুঁহে করেন ক্রন্দন ॥ ২৯০ ॥
@@ -3108,7 +3108,7 @@ at this  holy place  Śaṅkarāraṇya’s  attainment of perfection  took plac
 prastāve śrī-raṅga-purī eteka kahila  
 in the course of talk  Śrī Raṅga Purī  all this  told
 
-(300) At this holy place Śaṅkarāraṇya attained perfection (*siddhi*).” This is what Śrī Raṅga Purī told Him in the course of their talk.
+(300) At this holy place Śaṅkarāraṇya attained perfection (*siddhi*).” This is what Śrī Raṅga Purī told Him in the course of their talk.[^42]
 
 প্রভু কহে, — পূর্ব্বাশ্রমে তেঁহো মোর ভ্রাতা ৷  
 জগন্নাথ মিশ্র — পূর্ব্বাশ্রমে মোর পিতা ॥ ৩০১ ॥
@@ -3809,3 +3809,39 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^23]: *Amṛta-pravāha-bhāṣya*: the Bhaṭṭathāris (in common speech, “Bhāṭwārīs”) have neither house nor home; wherever they stop, they live in simple tents. Outwardly they wear the dress of sannyāsīs, but their trade is theft and deceit; with the women they keep in their tents they lure others and so swell their band.
 
 [^24]: *Amṛta-pravāha-bhāṣya*: the chapter of the *Brahma-saṁhitā* is its fifth chapter, now available in Bengal with the commentary of Śrī Jīva Gosvāmī. The *Anubhāṣya* lists its subjects: inconceivable oneness and difference, the eighteen-syllable mantra, the *kāma-gāyatrī*, the form of Govinda, Gokula, the truth of the *jīva*, *prema*, devotion on the path of *rāga*, *svakīyā* and *parakīyā*, and much else.
+
+[^25]: Heading in the edition: the Lord humbly questions the great paṇḍita Raghuvarya Tīrtha.
+
+[^26]: *Anubhāṣya*: the *sādhana* the ācārya of the Tattvavādīs names is devotion mixed with *karma*: *varṇāśrama-dharma* offered to Kṛṣṇa. His *sādhya* is the five kinds of liberation and going to Vaikuṇṭha (257); but the *sādhana* of the scriptures Mahāprabhu revealed is hearing and chanting, and their *sādhya* is love for Kṛṣṇa (258).
+
+[^27]: *Anubhāṣya*: this was Prahlāda’s answer to his father, Hiraṇyakaśipu, who asked what he had learned from the sons of his guru. Devotion is first offered to the Lord and then performed — directly, not through *jñāna* and *karma*, and not first performed and only afterwards offered; and one who serves in this way regards pure service to Hari as the fruit of studying all the scriptures.
+
+[^28]: *Anubhāṣya*: these words were spoken by Kavi, one of the nine Yogendras, to King Nimi. *Evaṁ-vrataḥ* — one whose vow is the service of hearing, chanting and the like; *druta-cittaḥ* — with a heart full of longing; *loka-bāhyaḥ* — indifferent to people’s laughter, blame or praise.
+
+[^29]: The same verse as Ādi 7.94; translation as there.
+
+[^30]: *Anubhāṣya* (on Madhya 8.62): the Lord’s answer to Uddhava about the marks of the sādhu dear to Him; “his duties” are the worldly dharmas of the varṇas and āśramas, which the Lord enjoins as the teacher of Vedic karma.
+
+[^31]: The same verse as Madhya 8.62; translation as there.
+
+[^32]: The same verse as Madhya 8.63; translation as there.
+
+[^33]: *Anubhāṣya*: this is Śrī Bhagavān’s answer to Uddhava, who asked who must perform *karma* and who may give it up. Weariness (*nirveda*) is detachment from all talk other than talk of Kṛṣṇa; *karma* here means the regular and occasional duties (*nitya-* and *naimittika-karma*).
+
+[^34]: *Amṛta-pravāha-bhāṣya* (on Ādi 4.207): *sālokya* — residence in Vaikuṇṭha, *sārṣṭi* — opulence, *sāmīpya* — nearness, *sārūpya* — a four-armed form, oneness — *sāyujya*, merging; the devotees do not accept them, for apart from transcendental service to the Lord they have nothing to desire.
+
+[^35]: The same verse as Ādi 4.207; translation as there.
+
+[^36]: *Amṛta-pravāha-bhāṣya*: if even liberation, *nirvāṇa*, is worthless to such sādhus, what to speak of earthly happiness.
+
+[^37]: *Anubhāṣya*: Śambhu (Śiva) spoke these words to Pārvatī when she had cursed Citraketu and he had humbly accepted the curse. Fear arises from absorption in a “second thing” — in *māyā*, perceived as something other than Kṛṣṇa; for the pure devotee heaven, hell and *mokṣa* are all such a “second thing”, foreign to the soul and therefore not dear to him.
+
+[^38]: *Anubhāṣya*: from the line of gurus of the Uttararāḍhī Maṭha it is known that in Śrī Mahāprabhu’s time its head was Śrī Raghuvarya Tīrtha (here the edition has “Raghuvīrya”).
+
+[^39]: *Amṛta-pravāha-bhāṣya*: the conclusions of this *sampradāya* are for the most part opposed to pure devotion, yet it has one great merit — it accepts the true and eternal form (*vigraha*) of the Lord. Relying on this principal conclusion, Mahāprabhu’s *parama-guru*, Śrī Mādhavendra Purī, accepted the Madhva *sampradāya*.
+
+[^40]: *Anubhāṣya*: *tāṁra ghare* means “him”: in colloquial Bengali *ghare* after a pronoun in the genitive serves as the accusative. It is the pride of the ācārya himself.
+
+[^41]: *Anubhāṣya*: only from Śrīla Mādhavendra Purī did love for Kṛṣṇa in the mood of separation (*vipralambha*), rooted in exclusive service to Śrī Rādhā, descend into the world: he is “the first sprout of the wish-fulfilling tree of devotion” (Ādi 9.10). Only one bound to him by ties dear to him has a claim to this love.
+
+[^42]: *Amṛta-pravāha-bhāṣya*: Śaṅkarāraṇya Svāmī was Mahāprabhu’s elder brother, Śrīmad Viśvarūpa; in his wanderings he attained perfection (*siddhi*) at Pāṇḍarapura, that is, he entered the spiritual abode.
