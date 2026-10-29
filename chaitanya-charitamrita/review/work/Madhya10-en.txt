@@ -832,12 +832,13 @@ tr: Hearing this, Brahmānanda reflected in his heart: “He does not like this 
 ## 159
 w: rightly  He speaks  the skin garment  pride  for the sake of  I wear
 w: by wearing a skin garment  saṁsāra  not  I cross
-tr: He is right: I wear this skin only out of pride. Wearing a skin will not carry me across *saṁsāra*.
+tr: He is right: I wear this skin only out of pride. Wearing a skin will not carry me across saṁsāra.
+fn: *Anubhāṣya* (on 154): a garment of skin, grass or bark is worn only by one who has left home for the forest (Manu-saṁhitā, ch. 6); but to wear a skin out of pride, to win people’s regard, does not free one from saṁsāra: “Though the fruit of the kataka tree clears water, the water does not become clear merely by uttering its name” (Manu, 6.67) — so the mere bearing of outer signs is not the cause of dharma.
 
 ## 160
 w: today  from  not  I shall wear  this  skin garment
 w: the Lord  the outer cloth  had brought  knowing  his heart
-tr: From today I shall not wear this skin.” Knowing his heart, the Lord had a *sannyāsī*’s outer cloth brought for him.
+tr: From today I shall not wear this skin.” Knowing his heart, the Lord had a sannyāsī’s outer cloth brought for him.
 
 ## 161
 w: the skin garment  casting off  Brahmānanda  put on  cloth
@@ -848,16 +849,18 @@ tr: When Brahmānanda had cast off the skin and put on cloth, the Lord came and 
 w: Bhāratī  says  Your  conduct  people  to teach
 w: again  not  You will make  obeisance  fear  I feel  in my heart
 tr: Bhāratī said, “Your conduct is meant to teach people. I am afraid in my heart that You will not bow to me again.
+fn: *Anubhāṣya*: “Your conduct is only to teach people. If I do not keep the right conduct You expect of me, You Yourself will not bow to me again and will disregard me. That is what I fear.”
 
 ## 163
 w: at present  “two Brahmans”  here  “moving and unmoving”
 w: Jagannātha  unmoving  You  Brahman  moving
 tr: Now there are two Brahmans here, the moving and the unmoving: Jagannātha is the unmoving Brahman, and You are the moving Brahman.
+fn: *Anubhāṣya*: the Deity of Śrī Jagannātha is the unmoving Brahman, and Śrī Caitanya Mahāprabhu the moving Brahman; both, the masters of māyā, are now present in Śrī Puruṣottama. At 166 the Lord plays on the name “Brahmānanda.”
 
 ## 164
 w: You  golden-coloured  He  dark-coloured
 w: the two  Brahmans  have made  of the whole  world  deliverance
-tr: You are golden in colour and He is dark; these two Brahmans are delivering the whole world.”
+tr: You are golden in colour and He is dark; these two Brahmans have delivered the whole world.”
 
 ## 165
 w: the Lord  says  the truth  I speak  by your  arrival
@@ -877,12 +880,13 @@ tr: Bhāratī said, “Sārvabhauma, be the arbiter and consider carefully this 
 ## 168
 w: “pervaded”  “pervader”  in the relation  the jīva  Brahman  I know
 w: the jīva  pervaded  Brahman  the pervader  in scripture  it is explained
-tr: I understand the *jīva* and Brahman as the pervaded (*vyāpya*) and the pervader (*vyāpaka*): the *jīva* is pervaded and Brahman is the pervader — so scripture explains.
+tr: I understand the jīva and Brahman as the pervaded (*vyāpya*) and the pervader (*vyāpaka*): the jīva is the pervaded and Brahman the pervader, as scripture explains.
 
 ## 169
 w: the skin  removing  He made  of me  purification
 w: of us two  in the relation of pervaded and pervader  this  indeed  the reason
-tr: By removing my skin He has purified me, and the reason is just this relation between us two — of the pervaded and the pervader.
+tr: By removing my skin He has purified me; and the reason lies just in this relation between us, of the pervaded and the pervader.
+fn: *Amṛta-pravāha-bhāṣya*: Brahman is all-pervading (*vyāpaka*), while the jīva is atomic (*aṇu*) and pervaded by Brahman. He who took off my skin and purified me is the pervader, and I am the pervaded; so judge who is “Brahman” here — I, Brahmānanda Bhāratī, or He, Kṛṣṇa Caitanya.
 
 ## 170
 w: of golden  colour  with limbs of gold
@@ -890,11 +894,13 @@ w: with beautiful limbs  wearing sandal armlets
 w: sannyāsa  taking  self-restrained  peaceful
 w: to steadfastness and peace  devoted
 tr: “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 75)
+fn: The same verse as Ādi 3.49 (= Madhya 6.104); translation as there. Here the edition gives the source as Dāna-dharma, chapter 127 (at Ādi 3.49, 149); the reference is kept as at Ādi 3.49.
 
 ## 171
 w: these  all  of the names  He  is  the very abode
 w: anointed with sandal  the prasāda cords  on both arms  armlets
-tr: He is the very abode of all these names: the sandal-anointed cords of *prasāda* on His two arms are His armlets.”
+tr: He is the very abode of all these names: the sandal-anointed prasāda cords on His two arms are His armlets.”
+fn: *Amṛta-pravāha-bhāṣya*: the armlets on the Lord’s arms are the prasāda cord itself, smeared with sandal; so the name *candanāṅgadī* (“wearing sandal armlets”) of verse 170 finds its place in Him.
 
 ## 172
 w: Bhaṭṭācārya  says  Bhāratī  I see  your  victory
@@ -909,17 +915,17 @@ tr: In a dispute between guru and disciple, the disciple’s defeat is certain.�
 ## 174
 w: before the devotees  You lose  You  this  Your  nature
 w: another  one  hear  You  Your own  glory
-tr: It is Your nature to be defeated by Your devotees. Now hear one thing more — about Your own power.
+tr: It is Your nature to be defeated by Your devotees. And hear one thing more, about Your own power.
 
 ## 175
 w: since birth  practised  I  “formless” meditation
 w: You  seeing  Kṛṣṇa  became  to me  manifest
-tr: All my life I meditated on the formless, but on seeing You, Kṛṣṇa has become manifest to me.
+tr: All my life I meditated on the formless, but now that I have seen You, Kṛṣṇa has become manifest before me.
 
 ## 176
 w: Kṛṣṇa’s name  springs up  on my lips  in mind and eyes  Kṛṣṇa
 w: You  as that form  seeing  my heart  thirsting
-tr: The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. Seeing You as that very form, my heart is filled with longing.
+tr: The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see You as that very form, and my heart is filled with longing.
 
 ## 177
 w: Bilvamaṅgala  underwent  just as  the state  his own
@@ -931,7 +937,8 @@ w: of nondualism  the path  by travellers  worshipped
 w: on the throne of self-bliss  having received initiation
 w: by a cunning  certain  we  by force
 w: maidservants  made  of the cowherd wives  by the lover
-tr: “Though we were worshipped by those who travel the path of nondualism and were initiated onto the throne of self-contained bliss, we have been forcibly made maidservants by a certain cunning youth, the lover of the gopīs.”
+tr: “Though I was worshipped by those who travel the path of non-dualism and had received initiation on the throne of the bliss of the self, I have been forcibly made a maidservant by a certain rogue, a lover of the cowherd maidens.” (Śrī Kṛṣṇa-karṇāmṛta)
+fn: The source is given as in the edition. *Anubhāṣya*: “we” is a plural of respect, to be understood as “I”; the travellers on the path of advaita are the *kevalādvaitins*, who teach the formless Brahman; those “initiated on the throne of their own bliss” are such as follow the path of yoga; the rogue, the lover of the cowherd maidens, is the son of Nanda. Bilvamaṅgala Ṭhākura had been an advaitin in a former life, then became a devotee of Kṛṣṇa and told of it himself (on 175–177).
 
 ## 179
 w: the Lord  says  for Kṛṣṇa  your  deep  love  is
@@ -940,13 +947,15 @@ tr: The Lord said, “You have deep love for Kṛṣṇa; wherever your eyes fal
 
 ## 180
 w: Bhaṭṭācārya  says  Your  is  true  word
-w: first  if  Kṛṣṇa  gives  direct  sight
-tr: Bhaṭṭācārya said, “Your words are true — if Kṛṣṇa first grants His direct sight.
+w: before (him)  if  Kṛṣṇa  gives  direct  sight
+tr: Bhaṭṭācārya said, “Your words are true, if Kṛṣṇa has appeared before him face to face.
+fn: *Anubhāṣya* (on 179–181): what Mahāprabhu says — that the mahā-bhāgavata Brahmānanda has seen Kṛṣṇa — is true, for Kṛṣṇa appears face to face before a mahā-bhāgavata; but without abundant prema such vision is impossible, and Brahmānanda saw Kṛṣṇa by Mahāprabhu’s mercy.
 
 ## 181
 w: love  without  ever  is not  His  direct vision
 w: His  by the mercy  there is  sight  his
-tr: Without love there is never any direct vision of Him; it is by the mercy of this One that this one has had His sight.”
+tr: Without prema there is never a direct vision of Him; it is by the mercy of this One that Bhāratī has had His darśana.”
+fn: *Anubhāṣya*: the first *iṅhāra* means “by the mercy of Śrī Mahāprabhu,” the second “Brahmānanda Bhāratī’s”: he had darśana, that is, he saw Kṛṣṇa.
 
 ## 182
 w: the Lord  says  “Viṣṇu”  “Viṣṇu”  what  you say  Sārvabhauma
@@ -956,22 +965,24 @@ tr: The Lord said, “Viṣṇu! Viṣṇu! What are you saying, Sārvabhauma? S
 ## 183
 w: this  saying  Bhāratī  taking  to His own residence  He came
 w: Bhāratī Gosāñi  of the Lord  near  stayed
-tr: Saying this, the Lord brought Bhāratī to His own residence, and Bhāratī Gosāñi stayed near the Lord.
+tr: Saying this, the Lord brought Bhāratī to His own residence, and from then on Bhāratī Gosāñi stayed with Him.
 
 ## 184
 w: Rāmabhadrācārya  and  Bhagavān  Ācārya
 w: at the Lord’s feet  stayed  both  leaving  all  affairs
 tr: Rāmabhadrācārya and Bhagavān Ācārya also stayed at the Lord’s feet, setting aside all other affairs.
+fn: *Anubhāṣya*: on Rāmabhadrācārya see Ādi 10.148; on Bhagavān Ācārya, Ādi 10.135–136.
 
 ## 185
 w: Kāśīśvara  Gosāñi  came  the next  day
 w: honour  showing  the Lord  kept  His own  place
 tr: The next day Kāśīśvara Gosāñi came, and the Lord received him with honour and kept him with Himself.
+fn: *Anubhāṣya*: on Kāśīśvara see the *Anubhāṣya* to Ādi 8.66; Murāri’s diary says: “Then all the devotees who lived in Gauḍa wished to go to Nīlācala to see Gaurāṅga: Śrī Kāśīśvara Gosvāmī…”
 
 ## 186
 w: the Lord  taking  he gives  of the Lord  the sight
 w: of people  the crowd  ahead  all  making  keeping back
-tr: He would take the Lord for the *darśana* of Jagannātha, walking ahead and keeping back the crowds.
+tr: He would take the Lord for the darśana of Jagannātha, walking ahead and keeping back the crowds.
 
 ## 187
 w: all  rivers  streams  as  in the ocean  merge

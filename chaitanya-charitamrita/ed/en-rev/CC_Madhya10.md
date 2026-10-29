@@ -1605,7 +1605,7 @@ rightly  He speaks  the skin garment  pride  for the sake of  I wear
 carmāmbara-paridhāne saṁsāra nā tari  
 by wearing a skin garment  saṁsāra  not  I cross
 
-(159) He is right: I wear this skin only out of pride. Wearing a skin will not carry me across *saṁsāra*.
+(159) He is right: I wear this skin only out of pride. Wearing a skin will not carry me across saṁsāra.[^33]
 
 আজি হৈতে না পরিব এই চর্ম্মাম্বর ৷  
 প্রভু বহির্ব্বাস আনাইলা জানিয়া অন্তর ॥ ১৬০ ॥
@@ -1615,7 +1615,7 @@ today  from  not  I shall wear  this  skin garment
 prabhu bahirvāsa ānāilā jāniyā antara  
 the Lord  the outer cloth  had brought  knowing  his heart
 
-(160) From today I shall not wear this skin.” Knowing his heart, the Lord had a *sannyāsī*’s outer cloth brought for him.
+(160) From today I shall not wear this skin.” Knowing his heart, the Lord had a sannyāsī’s outer cloth brought for him.
 
 চর্ম্মাম্বর ছাড়ি’ ব্রহ্মানন্দ পরিল বসন ৷  
 প্রভু আসি’ কৈল তাঁর চরণ বন্দন ॥ ১৬১ ॥
@@ -1635,7 +1635,7 @@ Bhāratī  says  Your  conduct  people  to teach
 punaḥ nā karibe nati, bhaya pāṅa citte  
 again  not  You will make  obeisance  fear  I feel  in my heart
 
-(162) Bhāratī said, “Your conduct is meant to teach people. I am afraid in my heart that You will not bow to me again.
+(162) Bhāratī said, “Your conduct is meant to teach people. I am afraid in my heart that You will not bow to me again.[^34]
 
 সাম্প্রতিক ‘দুই ব্রহ্ম’ ইঁহা ‘চলাচল’ ৷  
 জগন্নাথ — অচল, তুমি — ব্রহ্ম সচল ॥ ১৬৩ ॥
@@ -1645,7 +1645,7 @@ at present  “two Brahmans”  here  “moving and unmoving”
 jagannātha — acala, tumi — brahma sacala  
 Jagannātha  unmoving  You  Brahman  moving
 
-(163) Now there are two Brahmans here, the moving and the unmoving: Jagannātha is the unmoving Brahman, and You are the moving Brahman.
+(163) Now there are two Brahmans here, the moving and the unmoving: Jagannātha is the unmoving Brahman, and You are the moving Brahman.[^35]
 
 তুমি — গৌরবর্ণ, তেঁহ — শ্যামলবরণ ৷  
 দুই ব্রহ্মে কৈল সব জগৎ-তারণ ॥ ১৬৪ ॥
@@ -1655,7 +1655,7 @@ You  golden-coloured  He  dark-coloured
 dui brahme kaila saba jagat-tāraṇa  
 the two  Brahmans  have made  of the whole  world  deliverance
 
-(164) You are golden in colour and He is dark; these two Brahmans are delivering the whole world.”
+(164) You are golden in colour and He is dark; these two Brahmans have delivered the whole world.”
 
 প্রভু কহে, — সত্য কহি, তোমার আগমনে ৷  
 দুই ব্রহ্ম প্রকটিল শ্রীপুরুষোত্তমে ॥ ১৬৫ ॥
@@ -1695,7 +1695,7 @@ Him  with  my  “argument”  judge  attention  giving
 jīva — vyāpya, brahma — vyāpaka, śāstrete vākhāni  
 the jīva  pervaded  Brahman  the pervader  in scripture  it is explained
 
-(168) I understand the *jīva* and Brahman as the pervaded (*vyāpya*) and the pervader (*vyāpaka*): the *jīva* is pervaded and Brahman is the pervader — so scripture explains.
+(168) I understand the jīva and Brahman as the pervaded (*vyāpya*) and the pervader (*vyāpaka*): the jīva is the pervaded and Brahman the pervader, as scripture explains.
 
 চর্ম্ম ঘুচাঞা কৈল আমারে শোধন ৷  
 দোঁহার ব্যাপ্য-ব্যাপকত্বে, এই ত’ কারণ ॥ ১৬৯ ॥
@@ -1705,7 +1705,7 @@ the skin  removing  He made  of me  purification
 dom̐hāra vyāpya-vyāpakatve, ei ta’ kāraṇa  
 of us two  in the relation of pervaded and pervader  this  indeed  the reason
 
-(169) By removing my skin He has purified me, and the reason is just this relation between us two — of the pervaded and the pervader.
+(169) By removing my skin He has purified me; and the reason lies just in this relation between us, of the pervaded and the pervader.[^36]
 
 সুবর্ণবর্ণো হেমাঙ্গো বরাঙ্গশ্চন্দনাঙ্গদী ৷  
 সন্ন্যাসকৃচ্ছমঃ শান্তো নিষ্ঠা-শান্তি-পরায়ণঃ ॥ ১৭০ ॥
@@ -1719,7 +1719,7 @@ sannyāsa  taking  self-restrained  peaceful
 niṣṭhā-śānti-parāyaṇaḥ  
 to steadfastness and peace  devoted
 
-(170) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 75)
+(170) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 75)[^37]
 
 এই সব নামের ইঁহ হয় নিজাস্পদ ৷  
 চন্দনাক্ত প্রসাদ-ডোর — দ্বিভুজে অঙ্গদ ॥ ১৭১ ॥
@@ -1729,7 +1729,7 @@ these  all  of the names  He  is  the very abode
 candanākta prasāda-ḍora — dvi-bhuje aṅgada  
 anointed with sandal  the prasāda cords  on both arms  armlets
 
-(171) He is the very abode of all these names: the sandal-anointed cords of *prasāda* on His two arms are His armlets.”
+(171) He is the very abode of all these names: the sandal-anointed prasāda cords on His two arms are His armlets.”[^38]
 
 ভট্টাচার্য্য কহে, — ভারতী, দেখি তোমার জয় ৷  
 প্রভু কহে, — যেই কহ, সেই সত্য হয় ॥ ১৭২ ॥
@@ -1759,7 +1759,7 @@ before the devotees  You lose  You  this  Your  nature
 āra eka śuna tumi āpana prabhāva  
 another  one  hear  You  Your own  glory
 
-(174) It is Your nature to be defeated by Your devotees. Now hear one thing more — about Your own power.
+(174) It is Your nature to be defeated by Your devotees. And hear one thing more, about Your own power.
 
 আজন্ম করিনু মুঞি ‘নিরাকার’-ধ্যান ৷  
 তোমা দেখি’ ‘কৃষ্ণ’ হৈল মোর বিদ্যমান ॥ ১৭৫ ॥
@@ -1769,7 +1769,7 @@ since birth  practised  I  “formless” meditation
 tomā dekhi’ ‘kṛṣṇa’ haila mora vidyamāna  
 You  seeing  Kṛṣṇa  became  to me  manifest
 
-(175) All my life I meditated on the formless, but on seeing You, Kṛṣṇa has become manifest to me.
+(175) All my life I meditated on the formless, but now that I have seen You, Kṛṣṇa has become manifest before me.
 
 কৃষ্ণনাম স্ফুরে মুখে, মনে-নেত্রে কৃষ্ণ ৷  
 তোমাকে তদ্রূপ দেখি’ হৃদয় — সতৃষ্ণ ॥ ১৭৬ ॥
@@ -1779,7 +1779,7 @@ Kṛṣṇa’s name  springs up  on my lips  in mind and eyes  Kṛṣṇa
 tomāke tad-rūpa dekhi’ hṛdaya — satṛṣṇa  
 You  as that form  seeing  my heart  thirsting
 
-(176) The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. Seeing You as that very form, my heart is filled with longing.
+(176) The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see You as that very form, and my heart is filled with longing.
 
 বিল্বমঙ্গল কৈল যৈছে দশা আপনার ৷  
 ইঁহ দেখি’ সেই দশা হইল আমার ॥ ১৭৭ ॥
@@ -1805,7 +1805,7 @@ by a cunning  certain  we  by force
 dāsī-kṛtā gopa-vadhū-viṭena  
 maidservants  made  of the cowherd wives  by the lover
 
-(178) “Though we were worshipped by those who travel the path of nondualism and were initiated onto the throne of self-contained bliss, we have been forcibly made maidservants by a certain cunning youth, the lover of the gopīs.”
+(178) “Though I was worshipped by those who travel the path of non-dualism and had received initiation on the throne of the bliss of the self, I have been forcibly made a maidservant by a certain rogue, a lover of the cowherd maidens.” (Śrī Kṛṣṇa-karṇāmṛta)[^39]
 
 প্রভু কহে, — কৃষ্ণে তোমার গাঢ় প্রেমা হয় ৷  
 যাঁহা নেত্র পড়ে, তাঁহা কৃষ্ণস্ফূর্ত্তি হয় ॥ ১৭৯ ॥
@@ -1823,9 +1823,9 @@ wherever  the eyes  fall  there  Kṛṣṇa’s manifestation  is
 bhaṭṭācārya kahe, — tomāra haya satya vacana  
 Bhaṭṭācārya  says  Your  is  true  word  
 āge yadi kṛṣṇa dena sākṣāt daraśana  
-first  if  Kṛṣṇa  gives  direct  sight
+before (him)  if  Kṛṣṇa  gives  direct  sight
 
-(180) Bhaṭṭācārya said, “Your words are true — if Kṛṣṇa first grants His direct sight.
+(180) Bhaṭṭācārya said, “Your words are true, if Kṛṣṇa has appeared before him face to face.[^40]
 
 প্রেম বিনা কভু নহে তাঁর সাক্ষাৎকার ৷  
 ইঁহার কৃপাতে হয় দরশন ইঁহার ॥ ১৮১ ॥
@@ -1835,7 +1835,7 @@ love  without  ever  is not  His  direct vision
 im̐hāra kṛpāte haya daraśana im̐hāra  
 His  by the mercy  there is  sight  his
 
-(181) Without love there is never any direct vision of Him; it is by the mercy of this One that this one has had His sight.”
+(181) Without prema there is never a direct vision of Him; it is by the mercy of this One that Bhāratī has had His darśana.”[^41]
 
 প্রভু কহে, — ‘বিষ্ণু’ ‘বিষ্ণু’, কি কহ সার্ব্বভৌম ৷  
 ‘অতিস্তুতি’ হয় এই নিন্দার লক্ষণ ॥ ১৮২ ॥
@@ -1855,7 +1855,7 @@ this  saying  Bhāratī  taking  to His own residence  He came
 bhāratī-gosāñi prabhura nikaṭe rahilā  
 Bhāratī Gosāñi  of the Lord  near  stayed
 
-(183) Saying this, the Lord brought Bhāratī to His own residence, and Bhāratī Gosāñi stayed near the Lord.
+(183) Saying this, the Lord brought Bhāratī to His own residence, and from then on Bhāratī Gosāñi stayed with Him.
 
 রামভদ্রাচার্য্য, আর ভগবান্ আচার্য্য ৷  
 প্রভু-পদে রহিলা দুঁহে ছাড়ি’ সর্ব্ব কার্য্য ॥ ১৮৪ ॥
@@ -1865,7 +1865,7 @@ Rāmabhadrācārya  and  Bhagavān  Ācārya
 prabhu-pade rahilā dum̐he chāḍi’ sarva kārya  
 at the Lord’s feet  stayed  both  leaving  all  affairs
 
-(184) Rāmabhadrācārya and Bhagavān Ācārya also stayed at the Lord’s feet, setting aside all other affairs.
+(184) Rāmabhadrācārya and Bhagavān Ācārya also stayed at the Lord’s feet, setting aside all other affairs.[^42]
 
 কাশীশ্বর গোসাঞি আইলা আর দিনে ৷  
 সম্মান করিয়া প্রভু রাখিলা নিজ স্থানে ॥ ১৮৫ ॥
@@ -1875,7 +1875,7 @@ Kāśīśvara  Gosāñi  came  the next  day
 sammāna kariyā prabhu rākhilā nija sthāne  
 honour  showing  the Lord  kept  His own  place
 
-(185) The next day Kāśīśvara Gosāñi came, and the Lord received him with honour and kept him with Himself.
+(185) The next day Kāśīśvara Gosāñi came, and the Lord received him with honour and kept him with Himself.[^43]
 
 প্রভুকে লঞা করা’ন ঈশ্বর দরশন ৷  
 লোক-ভিড় আগে সব করি’ নিবারণ ॥ ১৮৬ ॥
@@ -1885,7 +1885,7 @@ the Lord  taking  he gives  of the Lord  the sight
 loka-bhiḍa āge saba kari’ nivāraṇa  
 of people  the crowd  ahead  all  making  keeping back
 
-(186) He would take the Lord for the *darśana* of Jagannātha, walking ahead and keeping back the crowds.
+(186) He would take the Lord for the darśana of Jagannātha, walking ahead and keeping back the crowds.
 
 যত নদ নদী যৈছে সমুদ্রে মিলয় ৷  
 ঐছে মহাপ্রভুর ভক্ত যাঁহা তাঁহা হয় ॥ ১৮৭ ॥
@@ -1992,3 +1992,25 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^31]: *Anubhāṣya*: the guru here is Rāma’s father, Daśaratha.
 
 [^32]: *Anubhāṣya* (heading): the Lord keeps to propriety (*maryādā*); at 173 Brahmānanda Bhāratī is called “equal to a guru.” *Amṛta-pravāha-bhāṣya*: Brahmānanda Bhāratī was worthy of the Lord’s respect through his relation to Keśava Bhāratī.
+
+[^33]: *Anubhāṣya* (on 154): a garment of skin, grass or bark is worn only by one who has left home for the forest (Manu-saṁhitā, ch. 6); but to wear a skin out of pride, to win people’s regard, does not free one from saṁsāra: “Though the fruit of the kataka tree clears water, the water does not become clear merely by uttering its name” (Manu, 6.67) — so the mere bearing of outer signs is not the cause of dharma.
+
+[^34]: *Anubhāṣya*: “Your conduct is only to teach people. If I do not keep the right conduct You expect of me, You Yourself will not bow to me again and will disregard me. That is what I fear.”
+
+[^35]: *Anubhāṣya*: the Deity of Śrī Jagannātha is the unmoving Brahman, and Śrī Caitanya Mahāprabhu the moving Brahman; both, the masters of māyā, are now present in Śrī Puruṣottama. At 166 the Lord plays on the name “Brahmānanda.”
+
+[^36]: *Amṛta-pravāha-bhāṣya*: Brahman is all-pervading (*vyāpaka*), while the jīva is atomic (*aṇu*) and pervaded by Brahman. He who took off my skin and purified me is the pervader, and I am the pervaded; so judge who is “Brahman” here — I, Brahmānanda Bhāratī, or He, Kṛṣṇa Caitanya.
+
+[^37]: The same verse as Ādi 3.49 (= Madhya 6.104); translation as there. Here the edition gives the source as Dāna-dharma, chapter 127 (at Ādi 3.49, 149); the reference is kept as at Ādi 3.49.
+
+[^38]: *Amṛta-pravāha-bhāṣya*: the armlets on the Lord’s arms are the prasāda cord itself, smeared with sandal; so the name *candanāṅgadī* (“wearing sandal armlets”) of verse 170 finds its place in Him.
+
+[^39]: The source is given as in the edition. *Anubhāṣya*: “we” is a plural of respect, to be understood as “I”; the travellers on the path of advaita are the *kevalādvaitins*, who teach the formless Brahman; those “initiated on the throne of their own bliss” are such as follow the path of yoga; the rogue, the lover of the cowherd maidens, is the son of Nanda. Bilvamaṅgala Ṭhākura had been an advaitin in a former life, then became a devotee of Kṛṣṇa and told of it himself (on 175–177).
+
+[^40]: *Anubhāṣya* (on 179–181): what Mahāprabhu says — that the mahā-bhāgavata Brahmānanda has seen Kṛṣṇa — is true, for Kṛṣṇa appears face to face before a mahā-bhāgavata; but without abundant prema such vision is impossible, and Brahmānanda saw Kṛṣṇa by Mahāprabhu’s mercy.
+
+[^41]: *Anubhāṣya*: the first *iṅhāra* means “by the mercy of Śrī Mahāprabhu,” the second “Brahmānanda Bhāratī’s”: he had darśana, that is, he saw Kṛṣṇa.
+
+[^42]: *Anubhāṣya*: on Rāmabhadrācārya see Ādi 10.148; on Bhagavān Ācārya, Ādi 10.135–136.
+
+[^43]: *Anubhāṣya*: on Kāśīśvara see the *Anubhāṣya* to Ādi 8.66; Murāri’s diary says: “Then all the devotees who lived in Gauḍa wished to go to Nīlācala to see Gaurāṅga: Śrī Kāśīśvara Gosvāmī…”
