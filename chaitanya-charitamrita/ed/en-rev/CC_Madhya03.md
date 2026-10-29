@@ -164,7 +164,7 @@ them all  praise  does  you  are fortunate
 kṛtārtha karile more śunāñā hari-nāma  
 fulfilled  have made  Me  by making Me hear  the name of Hari
 
-(15) He praised them all: “You are fortunate! You have fulfilled My life by letting Me hear the name of Hari.”
+(15) He praised them all: “You are fortunate! You have made My life complete by letting Me hear the name of Hari.”
 
 গুপ্তে তা’-সবাকে আনি’ ঠাকুর নিত্যানন্দ ৷  
 শিখাইল সবাকারে করিয়া প্রবন্ধ ॥ ১৬ ॥
@@ -450,7 +450,7 @@ of the battiśā-āṭhiyā  banana  whole  on leaves
 dui ṭhāñi bhoga bāḍāila bhāla mate  
 in two  places  the food  served  in a fine  manner
 
-(43) The other two portions were set out nicely on whole, uncut leaves of the *battiśā-āṭhiyā* banana.[^18]
+(43) The other two portions were beautifully arranged on whole leaves of the *battiśā-āṭhiyā* banana.[^18]
 
 মধ্যে পীত-ঘৃতসিক্ত শাল্যন্নের স্তূপ ৷  
 চারিদিকে ব্যঞ্জন-ডোঙ্গা, আর মুদ্গসূপ ॥ ৪৪ ॥
@@ -600,7 +600,7 @@ of the ārati  at the time  the two  Lords  called
 prabhu-saṅge sabe āsi’ ārati dekhila  
 with the Lords  all  coming  the ārati  saw
 
-(58) At the time of ārati the Ācārya called the two Lords, and everyone came with Them to see the ārati.
+(58) When it was time for ārati, the Ācārya called the two Lords, and everyone came with Them to see it.
 
 আরতি করিয়া কৃষ্ণে করা’ল শয়ন ৷  
 আচার্য্য আসি’ প্রভুরে তবে কৈলা নিবেদন ॥ ৫৯ ॥
@@ -620,7 +620,7 @@ of the house  inside  the Lord  may make  going
 dui bhāi āilā tabe karite bhojana  
 the two  brothers  came  then  to take  the meal
 
-(60) “May the Lord come inside the house.” Then the two Brothers went in to take Their meal.
+(60) “Please, Lord, come into the house.” Then the two Brothers went in to take Their meal.
 
 মুকুন্দ, হরিদাস, — দুই প্রভু বোলাইল ৷  
 যোড়হাতে দুইজন কহিতে লাগিল ॥ ৬১ ॥
@@ -710,7 +710,7 @@ the Ācārya  says  sit  both  the seats  upon
 eta bali hāte dhari’ vasāila dum̐hāre  
 thus  saying  by the hands  taking  seated  both
 
-(69) The Ācārya said, “Both of You, sit on these seats,” and saying this, He took Them by the hand and seated Them.
+(69) “Both of You, sit on these seats,” said the Ācārya, and He took Them by the hand and seated Them.
 
 প্রভু কহে, সন্ন্যাসীর ভক্ষ্য নহে উপকরণ ৷  
 ইহা খাইলে কৈছে হবে ইন্দ্রিয়-বারণ ॥ ৭০ ॥
@@ -1280,7 +1280,7 @@ this  song  sings  Mukunda  sweet  in a fine voice
 śuniyā prabhura citta haila kātare  
 hearing  the Lord’s  heart  became  stricken
 
-(126) Mukunda sang this song in a sweet and lovely voice, and hearing it, the Lord’s heart was filled with anguish.
+(126) Mukunda sang this song in a sweet and lovely voice, and as the Lord listened, His heart was wrung with anguish.
 
 নির্ব্বেদ, বিষাদ, হর্ষ, চাপল, গর্ব্ব, দৈন্য ৷  
 প্রভুর সহিত যুদ্ধ করে ভাব-সৈন্য ॥ ১২৭ ॥
@@ -1290,7 +1290,7 @@ despondency  dejection  joy  restlessness  pride  humility
 prabhura sahita yuddha kare bhāva-sainya  
 the Lord  with  battle  does  of feelings  the army
 
-(127) Despondency, dejection, joy, restlessness, pride and humility — an army of feelings went to battle with the Lord.[^48]
+(127) Despondency, dejection, joy, restlessness, pride and humility — an army of feelings waged war on the Lord.[^48]
 
 জর-জর হৈল প্রভু ভাবের প্রহারে ৷  
 ভূমিতে পড়িল, শ্বাস নাহিক শরীরে ॥ ১২৮ ॥
@@ -1370,7 +1370,7 @@ Nityānanda  Mahāprabhu  stopped  holding (Him)
 nānā sevā kari’ prabhuke karāila śayana  
 various  services  having done  the Lord  made  lie down
 
-(135) Then Ācārya Gosāñi brought the kīrtana to a close, and after serving the Lord in many ways, He had Him lie down to rest.
+(135) Ācārya Gosāñi brought the kīrtana to a close, and after serving the Lord in many ways, He had Him lie down to rest.
 
 এইমত দশদিন ভোজন-কীর্ত্তন ৷  
 একরূপে করি’ করে প্রভুর সেবন ॥ ১৩৬ ॥
@@ -1530,7 +1530,7 @@ one  by one  met  the Lord  all  the devotees
 sabāra mukha dekhi’ kare dṛḍha āliṅgane  
 of everyone  the face  seeing  He gives  firm  embraces
 
-(151) The Lord met all the devotees one by one, looking into each one’s face and embracing him firmly.
+(151) The Lord met all the devotees one by one, looking into each one’s face and embracing him tightly.
 
 কেশ না দেখিয়া ভক্ত যদ্যপি পায় দুঃখ ৷  
 সৌন্দর্য্য দেখিতে তবু পায় মহাসুখ ॥ ১৫২ ॥
@@ -1910,7 +1910,7 @@ you all  people  My  supreme  friends
 ei bhikṣā māgom̐ — more deha tumi-saba  
 this  alms  I beg  to Me  give  you all
 
-(189) “You are all My dearest friends, and I beg one alms of you all: grant it to Me.
+(189) “You are all My dearest friends, and I beg this of you all as alms — grant it to Me:
 
 ঘরে যাঞা কর সদা কৃষ্ণসংকীর্ত্তন ৷  
 কৃষ্ণনাম, কৃষ্ণকথা, কৃষ্ণ-আরাধন ॥ ১৯০ ॥
@@ -1960,7 +1960,7 @@ to Nīlācala  will go  You  my  what  destination
 nīlācale yāite mora nāhika śakati  
 to Nīlācala  to go  my  there is no  power
 
-(194) “You will go to Nīlācala — but what will become of me? I have no power to go to Nīlācala.[^60]
+(194) “You will go to Nīlācala — but what will become of me? I have no power to go there.[^60]
 
 মুঞি অধম তোমার না পাব দরশন ৷  
 কেমতে ধরিব এই পাপিষ্ঠ জীবন ॥ ১৯৫ ॥
@@ -2010,7 +2010,7 @@ the Ācārya’s  words  the Lord  not  does  transgression
 rahilā advaita-gṛhe, nā kaila gamana  
 He stayed  in Advaita’s house  not  did  going
 
-(199) The Lord would not go against the Ācārya’s words. He stayed on in Advaita’s house and did not leave.
+(199) The Lord would not go against the Ācārya’s words. He stayed on in Advaita’s house and put off His departure.
 
 আনন্দিত হৈল আচার্য্য, শচী, ভক্ত, সব ৷  
 প্রতিদিন করে আচার্য্য মহা-মহোৎসব ॥ ২০০ ॥

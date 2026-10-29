@@ -89,7 +89,7 @@ tr: Hearing this, Gaurahari went up to them, placed His hand on each one’s hea
 ## 15
 w: them all  praise  does  you  are fortunate
 w: fulfilled  have made  Me  by making Me hear  the name of Hari
-tr: He praised them all: “You are fortunate! You have fulfilled My life by letting Me hear the name of Hari.”
+tr: He praised them all: “You are fortunate! You have made My life complete by letting Me hear the name of Hari.”
 
 ## 16
 w: secretly  them all  bringing  Ṭhākura  Nityānanda
@@ -242,7 +242,7 @@ fn: Heading in the edition: the offering is set out on three plates — for thre
 ## 43
 w: of the battiśā-āṭhiyā  banana  whole  on leaves
 w: in two  places  the food  served  in a fine  manner
-tr: The other two portions were set out nicely on whole, uncut leaves of the *battiśā-āṭhiyā* banana.
+tr: The other two portions were beautifully arranged on whole leaves of the *battiśā-āṭhiyā* banana.
 fn: *Amṛta-pravāha-bhāṣya*: *āṭhiyā* is a kind of banana tree that bears a bunch of thirty-two clusters; *āṅgaṭiyā* — a whole, untorn banana leaf.
 
 ## 44
@@ -325,7 +325,7 @@ fn: *Anubhāṣya*: “to Kṛṣṇa Himself” (*sākṣāt kṛṣṇe*) — 
 ## 58
 w: of the ārati  at the time  the two  Lords  called
 w: with the Lords  all  coming  the ārati  saw
-tr: At the time of ārati the Ācārya called the two Lords, and everyone came with Them to see the ārati.
+tr: When it was time for ārati, the Ācārya called the two Lords, and everyone came with Them to see it.
 
 ## 59
 w: ārati  having done  Kṛṣṇa  made to lie down
@@ -335,7 +335,7 @@ tr: After the ārati, Kṛṣṇa was laid down to rest, and then the Ācārya c
 ## 60
 w: of the house  inside  the Lord  may make  going
 w: the two  brothers  came  then  to take  the meal
-tr: “May the Lord come inside the house.” Then the two Brothers went in to take Their meal.
+tr: “Please, Lord, come into the house.” Then the two Brothers went in to take Their meal.
 
 ## 61
 w: Mukunda  Haridāsa  the two  Lords  called
@@ -383,7 +383,7 @@ fn: *Anubhāṣya*: seeing how much food there was, the Lord asked for two more 
 ## 69
 w: the Ācārya  says  sit  both  the seats  upon
 w: thus  saying  by the hands  taking  seated  both
-tr: The Ācārya said, “Both of You, sit on these seats,” and saying this, He took Them by the hand and seated Them.
+tr: “Both of You, sit on these seats,” said the Ācārya, and He took Them by the hand and seated Them.
 
 ## 70
 w: the Lord  says  of a sannyāsī  food  is not  such fare
@@ -688,12 +688,12 @@ tr: Night and day My heart burns, and I find no relief. Wherever I could find K�
 ## 126
 w: this  song  sings  Mukunda  sweet  in a fine voice
 w: hearing  the Lord’s  heart  became  stricken
-tr: Mukunda sang this song in a sweet and lovely voice, and hearing it, the Lord’s heart was filled with anguish.
+tr: Mukunda sang this song in a sweet and lovely voice, and as the Lord listened, His heart was wrung with anguish.
 
 ## 127
 w: despondency  dejection  joy  restlessness  pride  humility
 w: the Lord  with  battle  does  of feelings  the army
-tr: Despondency, dejection, joy, restlessness, pride and humility — an army of feelings went to battle with the Lord.
+tr: Despondency, dejection, joy, restlessness, pride and humility — an army of feelings waged war on the Lord.
 fn: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): *harṣa* is the gladness of heart that comes from seeing or gaining what one longs for; *garva* is disregard for others born of one’s good fortune, beauty, youth, virtues, exalted shelter or the attainment of what one desired.
 
 ## 128
@@ -734,7 +734,7 @@ tr: Yet, absorbed in love, He did not feel His weariness. Then Nityānanda took 
 ## 135
 w: Ācārya Gosāñi  then  stopped  the kīrtana
 w: various  services  having done  the Lord  made  lie down
-tr: Then Ācārya Gosāñi brought the kīrtana to a close, and after serving the Lord in many ways, He had Him lie down to rest.
+tr: Ācārya Gosāñi brought the kīrtana to a close, and after serving the Lord in many ways, He had Him lie down to rest.
 
 ## 136
 w: in this way  for ten days  feasting and kīrtana
@@ -816,7 +816,7 @@ tr: Then the Ācārya took Śacī inside, and the Lord hastened to meet the devo
 ## 151
 w: one  by one  met  the Lord  all  the devotees
 w: of everyone  the face  seeing  He gives  firm  embraces
-tr: The Lord met all the devotees one by one, looking into each one’s face and embracing him firmly.
+tr: The Lord met all the devotees one by one, looking into each one’s face and embracing him tightly.
 
 ## 152
 w: hair  not  seeing  the devotees  although  feel  sorrow
@@ -1015,7 +1015,7 @@ tr: Showing honour to all the devotees, the residents of Navadvīpa and all the 
 ## 189
 w: you all  people  My  supreme  friends
 w: this  alms  I beg  to Me  give  you all
-tr: “You are all My dearest friends, and I beg one alms of you all: grant it to Me.
+tr: “You are all My dearest friends, and I beg this of you all as alms — grant it to Me:
 
 ## 190
 w: home  going  do  always  Kṛṣṇa-saṅkīrtana
@@ -1040,7 +1040,7 @@ tr: When He had bidden them all farewell, the Lord made up His mind to set out. 
 ## 194
 w: to Nīlācala  will go  You  my  what  destination
 w: to Nīlācala  to go  my  there is no  power
-tr: “You will go to Nīlācala — but what will become of me? I have no power to go to Nīlācala.
+tr: “You will go to Nīlācala — but what will become of me? I have no power to go there.
 fn: *Anubhāṣya*: Haridāsa Ṭhākura was born in a yavana family but attained brāhmaṇahood by initiation. In his natural humility he told the Lord that by birth he had no right to enter Nīlācala: only people of the four varṇas may enter the courtyard of the Śrī Mandira. Later, learning that nothing prevented him from living on the sands near Nīlādri, he settled there; the place is now known as the Siddha-bakula Maṭha.
 
 ## 195
@@ -1067,7 +1067,7 @@ tr: Then the Ācārya said humbly, “Be merciful and stay a few more days.”
 ## 199
 w: the Ācārya’s  words  the Lord  not  does  transgression
 w: He stayed  in Advaita’s house  not  did  going
-tr: The Lord would not go against the Ācārya’s words. He stayed on in Advaita’s house and did not leave.
+tr: The Lord would not go against the Ācārya’s words. He stayed on in Advaita’s house and put off His departure.
 
 ## 200
 w: delighted  became  the Ācārya  Śacī  the devotees  all
