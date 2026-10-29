@@ -704,6 +704,6 @@ Sārvabhauma's words embarrassed Mahāprabhu. He uttered, “Viṣṇu! Viṣṇ
 
 [^175-1]: In the usual numbering, *Śrīmad-Bhāgavatam* 1.9.37. By its content, the section headed “১৭৫-১৭৭” begins with a discussion of verses 172–174.
 
-[^180-1]: Our translation of verse 180 reads differently: “the primary thing is Kṛṣṇa's own wish to grant His *darśana*.” The *Anubhāṣya* takes *āge* as “before [the *mahā-bhāgavata*]”: Kṛṣṇa reveals Himself directly before him.
+[^180-1]: Our translation of verse 180 reads differently: “the primary thing is Kṛṣṇa's own wish to grant His *darśana*.” The *Anubhāṣya* renders the sense of the verse as “Kṛṣṇa reveals Himself directly before the *mahā-bhāgavata*.”
 
 [^181-1]: *Brahma-saṁhitā* 5.38.
