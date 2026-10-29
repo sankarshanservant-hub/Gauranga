@@ -36,7 +36,7 @@ Another reading is *vidhe* (“O Creator!”).
 
 ## 19–26
 
-Śrīmatī says: “Ah, what can I say of My sorrow! When I met Kṛṣṇa, the sprout of love grew within Me. Then, in separation from Kṛṣṇa, that sprout was wounded, and now a stream of sorrow is flowing. Kṛṣṇa is the only physician for this disease, yet Kṛṣṇa makes no effort at all to protect that sprout of love! What can I say about how Kṛṣṇa behaves! Outwardly He is the king of lovers (*nāgara-rāja*), but inwardly He is full of deceit: His one endeavor is to destroy other men's wives. This is what comes of loving Kṛṣṇa! *Sakhī*, I did not understand this law of the Creator, and I loved Him for the sake of happiness. But this wretched girl received the very opposite — great sorrow! It has come to this: My life is leaving Me, if not now, then any moment! Such is our Kṛṣṇa. And what can I say of that other *tattva* called ‘*prema*’! *Prema* is crooked by nature and *ageyān* — senseless, blind. It does not consider where it is fitting and where not, nor does it weigh the bad consequences. With the rope of the qualities of that cruel cheat, Kṛṣṇa, it has bound Me by the hands and neck, and I cannot get free! This is how Kṛṣṇa and *prema* act! But in this affair of love there is yet another *tattva* — ‘Madana.’ His nature is this: he himself has no body, yet he is a great expert in harming others. Fitting his five arrows, he pierces the bodies of helpless women through and through! If he took their lives at once, that would be good; but instead he only gives pain. The scriptures say that one cannot know another's sorrow. What to speak of others in this matter? Even My dearest friends, Lalitā and the rest, cannot understand My sorrow, and they keep saying again and again, ‘*Sakhī*, be patient.’ *Sakhī*, you say, ‘Kṛṣṇa is an ocean of mercy; sometime or other He will surely accept You.’ But these words of yours will be of no use. For the life of a *jīva* is as unsteady as a drop of water on a lotus leaf. By the time Kṛṣṇa's mercy comes, who will still be alive? A man does not live more than a hundred years. And consider this as well: the wealth of youth of a woman who captivates Kṛṣṇa's heart lasts only a few days. And if you say that Kṛṣṇa is an ocean of good qualities and will surely be merciful, I answer: fire displays its light, draws the moths to it and kills them. So too Kṛṣṇa's qualities: they glitter, draw the hearts of women, and then drown them in an ocean of sorrow — in separation.”
+Śrīmatī says: “Ah, what can I say of My sorrow! When I met Kṛṣṇa, the sprout of love grew within Me. Then, in separation from Kṛṣṇa, that sprout was wounded, and now a stream of sorrow is flowing. Kṛṣṇa is the only physician for this disease, yet Kṛṣṇa makes no effort at all to protect that sprout of love! What can I say about how Kṛṣṇa behaves! Outwardly He is the king of lovers (*nāgara-rāja*), but inwardly He is full of deceit: His one endeavor is to destroy other men's wives. This is what comes of loving Kṛṣṇa! *Sakhī*, I did not understand this law of the Creator, and I loved Him for the sake of happiness. But this wretched girl received the very opposite — great sorrow! It has come to this: My life is leaving Me, if not now, then any moment! Such is our Kṛṣṇa. And what can I say of that other *tattva* called ‘*prema*’! *Prema* is crooked by nature and *ageyān* — senseless, blind. It does not consider where it is fitting and where not, nor does it weigh the bad consequences. With the rope of the qualities[^19-2] of that cruel cheat, Kṛṣṇa, it has bound Me by the hands and neck, and I cannot get free! This is how Kṛṣṇa and *prema* act! But in this affair of love there is yet another *tattva* — ‘Madana.’ His nature is this: he himself has no body, yet he is a great expert in harming others. Fitting his five arrows, he pierces the bodies of helpless women through and through! If he took their lives at once, that would be good; but instead he only gives pain. The scriptures say that one cannot know another's sorrow. What to speak of others in this matter? Even My dearest friends, Lalitā and the rest, cannot understand My sorrow, and they keep saying again and again, ‘*Sakhī*, be patient.’ *Sakhī*, you say, ‘Kṛṣṇa is an ocean of mercy; sometime or other He will surely accept You.’ But these words of yours will be of no use. For the life of a *jīva* is as unsteady as a drop of water on a lotus leaf. By the time Kṛṣṇa's mercy comes, who will still be alive? A man does not live more than a hundred years. And consider this as well: the wealth of youth of a woman who captivates Kṛṣṇa's heart lasts only a few days. And if you say that Kṛṣṇa is an ocean of good qualities and will surely be merciful, I answer: fire displays its light, draws the moths to it and kills them. So too Kṛṣṇa's qualities: they glitter, draw the hearts of women, and then drown them in an ocean of sorrow — in separation.”
 
 ## 28
 
@@ -49,3 +49,35 @@ Another reading is *vidhe* (“O Creator!”).
 ## 36
 
 When by chance Śrī Kṛṣṇa's form came before My eyes, My heart was struck down by the intoxication of the good fortune of seeing Him. And certain *tattvas* named “Madana” and “Ānanda” stole it away — they did not let Me gaze to My heart's content on the beauty of that form. If I am able to see Kṛṣṇa again, I will adorn that time with many jewels.
+
+## 39
+
+***Āge dekhe dui jana*** — Svarūpa Dāmodara and Rāya Rāmānanda. On seeing them, the Lord came a little into external consciousness, gave up the conception that He was Rādhā, and asked: “Am I not that same Caitanya?”
+
+## 42
+
+In Sanskrit this Prakrit verse reads: “Love free of deceit does not exist in the human world. If it exists, who would suffer separation? And if separation comes, who would remain alive?” In other words, *prema* is free of deceit and never arises in the human world. If it does arise, there is no separation. And if there is separation, life does not remain.
+
+## 45
+
+*Sakhī*, I have not even a faint scent of *prema* for Kṛṣṇa. And if I weep, it is only to show how great My good fortune is! Without seeing Kṛṣṇa with the flute at His lips, I keep alive in vain this insect of My life.
+
+## 49
+
+***Pātiyāya*** — believes.
+
+## 52
+
+O beautiful one, in the person in whose heart *prema* for the son of Nanda has awakened, all its sweet and wayward wonders are clearly seen. This *prema* works in two ways. By the torment it brings, it banishes the pride that fresh snake venom takes in its pungency — that is, it brings a sorrow beyond which there is nothing. And by a shower of joy it gives the highest happiness, before which the pride that nectar takes in its sweetness shrinks.
+
+## 58
+
+O Hari! O friend of the helpless! O sole ocean of mercy! Without seeing You, how shall I pass these wretched days and nights?
+
+## 60
+
+***Cāpala*** — *cāpalya*, restlessness.
+
+## 61
+
+O Kṛṣṇa, player of the flute, the sweetness of Your childhood is the wonder of the three worlds. My restlessness is known to You and to Me alone, and to no one else. What am I to do now to see Your beautiful lotus face in private with these two eyes?
