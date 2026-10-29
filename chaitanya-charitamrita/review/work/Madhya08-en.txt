@@ -336,6 +336,7 @@ w: duties  giving up  who  all
 w: Me  worships  he  and  the best
 tr: “Knowing in this way their merits and faults, he who gives up all his duties, even those I Myself have enjoined, and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam, 11.11.32)
 fn: *Anubhāṣya*: the Lord’s answer to Uddhava about the marks of the sādhu dear to Him; “his duties” are the worldly dharmas of the varṇas and āśramas, which the Lord enjoins as the teacher of Vedic karma.
+fn: The same verse as Madhya 9.264.
 
 ## 63
 w: all  dharmas  giving up
@@ -343,6 +344,7 @@ w: to Me  alone  for shelter  come
 w: I  you  from all  sins
 w: shall free  do not  grieve
 tr: “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+fn: The same verse as Madhya 9.265.
 
 ## 64
 w: the Lord  said  this  external  further  say  more
@@ -453,12 +455,13 @@ tr: The Lord said, “This is excellent, but go further.” Rāya said, “The l
 fn: *Amṛta-pravāha-bhāṣya*: in ordinary prema there is no sense of “He is mine”, in *dāsya* no full trust, in *sakhya* no abundance of tenderness, in *vātsalya* no complete freedom from reserve; only in *kānta-bhāva* does prema become whole — the essence of all goals.
 
 ## 80
-w: not this  to Śrī  on the breast  indeed  most devoted  the grace
-w: of the heavenly  women  of lotus  fragrance  lustre  how then  of others
-w: in the festival of the rāsa  His  by the mighty arms  grasped  necks
-w: who received the blessing  which  arose  to the beauties of Vraja
-tr: “The grace that came to the beauties of Vraja in the festival of the *rāsa*, when they received the blessing of His mighty arms about their necks, was never given even to Śrī, who rests on His breast in utmost devotion, nor to the women of heaven, fragrant and lustrous as lotuses — what then to speak of others?” (Śrīmad-Bhāgavatam, 10.47.60)
-fn: *Anubhāṣya*: Uddhava, having stayed several months in Vraja, sees the gopīs’ hearts burning in separation from Kṛṣṇa and extols their supreme good fortune.
+w: not  this  of Śrī  O  indeed  wholly attached  favor
+w: of the celestial women  of lotuses  the fragrance  having the luster  how then  others
+w: at the festival of rāsa  His  by the arms  embraced  around the neck
+w: who obtained their desire  which  arose  of Vraja  the beautiful women
+tr: “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)
+fn: The same verse as Madhya 9.121; translation as there.
+fn: *Anubhāṣya*: Uddhava, having stayed several months in Vraja, sees the gopīs’ hearts burning in separation from Kṛṣṇa and extols their supreme good fortune; Śrī, according to the *Anubhāṣya*, is the one who rests on His breast (*aṅge*).
 
 ## 81
 w: among them  appeared  Śauri
@@ -841,6 +844,7 @@ w: for which  longing  Śrī  the best of women  performed  austerity
 w: giving up  desires  for a very long time  holding vows
 tr: “O Lord, we do not know by what merit he has earned the right to touch the dust of Your feet — that dust for which Śrī, the best of women, longing for it, gave up all desires and practised austerities for so long, keeping her vows.” (Śrīmad-Bhāgavatam, 10.16.36)
 fn: *Anubhāṣya*: the words of the wives of the serpent Kāliya, when Kṛṣṇa, breaking his hoods with the blows of His feet, had left him senseless.
+fn: The same verse as Madhya 9.114.
 
 ## 147
 w: by His own  sweetness  He steals  His own  mind

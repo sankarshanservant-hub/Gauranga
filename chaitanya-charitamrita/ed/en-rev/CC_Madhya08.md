@@ -648,7 +648,7 @@ duties  giving up  who  all
 māṁ bhajet sa ca sattamaḥ  
 Me  worships  he  and  the best
 
-(62) “Knowing in this way their merits and faults, he who gives up all his duties, even those I Myself have enjoined, and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam, 11.11.32)[^9]
+(62) “Knowing in this way their merits and faults, he who gives up all his duties, even those I Myself have enjoined, and worships Me — he is the best of the saintly.” (Śrīmad-Bhāgavatam, 11.11.32)[^9][^10]
 
 সর্ব্বধর্ম্মান্ পরিত্যজ্য মামেকং শরণং ব্রজ ৷  
 অহং ত্বাং সর্ব্বপাপেভ্যো মোক্ষয়িষ্যামি মা শুচঃ ॥ ৬৩ ॥
@@ -662,7 +662,7 @@ I  you  from all  sins
 mokṣayiṣyāmi mā śucaḥ  
 shall free  do not  grieve
 
-(63) “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+(63) “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)[^11]
 
 প্রভু কহে, — এহো, বাহ্য, আগে কহ আর ৷  
 রায় কহে, জ্ঞানমিশ্রা ভক্তি — সাধ্যসার ॥ ৬৪ ॥
@@ -712,7 +712,7 @@ in their place  remaining  heard  with body  speech  and mind
 ye prāyaśo ’jita jito ’py asi tais tri-lokyām  
 who  generally  O Unconquered  conquered  even  You are  by them  in the three worlds
 
-(67) “Those who give up striving for knowledge and, remaining where they are, live by the accounts of You that flow from the lips of the saints, bowing to You with body, speech and mind — by them, O Unconquerable One, You are conquered within the three worlds.” (Śrīmad-Bhāgavatam, 10.14.3)[^10]
+(67) “Those who give up striving for knowledge and, remaining where they are, live by the accounts of You that flow from the lips of the saints, bowing to You with body, speech and mind — by them, O Unconquerable One, You are conquered within the three worlds.” (Śrīmad-Bhāgavatam, 10.14.3)[^12]
 
 প্রভু কহে, — এহো হয়, আগে কহ আর ৷  
 রায় কহে, প্রেমভক্তি — সর্ব্বসাধ্যসার ॥ ৬৮ ॥
@@ -722,7 +722,7 @@ the Lord  said  this  is so  further  say  more
 rāya kahe, prema-bhakti — sarva-sādhya-sāra  
 Rāya  said  loving devotion  of all goals  the essence
 
-(68) The Lord said, “This is so, but go further.” Rāya said, “Loving devotion (*prema-bhakti*) is the essence of all goals.[^11]
+(68) The Lord said, “This is so, but go further.” Rāya said, “Loving devotion (*prema-bhakti*) is the essence of all goals.[^13]
 
 নানোপচার-কৃতপূজনমার্ত্তবন্ধোঃ  
 প্রেম্ণৈব ভক্তহৃদয়ং সুখবিদ্রুতং স্যাৎ ৷  
@@ -738,7 +738,7 @@ as long as  hunger  is  in the stomach  strong  thirst
 tāvat sukhāya bhavato nanu bhakṣya-peye  
 so long  for pleasure  are  indeed  food and drink
 
-(69) “The Friend of the afflicted may be worshipped with many offerings, but only love makes the devotee’s heart melt with joy — just as food and drink give pleasure only so long as there is hunger in the stomach and burning thirst.” (Padyāvalī, 13)[^12][^13]
+(69) “The Friend of the afflicted may be worshipped with many offerings, but only love makes the devotee’s heart melt with joy — just as food and drink give pleasure only so long as there is hunger in the stomach and burning thirst.” (Padyāvalī, 13)[^14][^15]
 
 কৃষ্ণভক্তিরসভাবিতা মতিঃ  
 ক্রীয়তাং যদি কুতোঽপি লভ্যতে ৷  
@@ -754,7 +754,7 @@ for it  eagerness  alone  the price  the only
 janma-koṭi-sukṛtair na labhyate  
 of births  in millions  by pious deeds  not  is obtained
 
-(70) “A mind imbued with the *rasa* of devotion to Kṛṣṇa — buy it at once, if it can be found anywhere! Its only price is eagerness (*laulya*); it cannot be had for the pious deeds of ten million births.” (Padyāvalī, 14)[^14][^15]
+(70) “A mind imbued with the *rasa* of devotion to Kṛṣṇa — buy it at once, if it can be found anywhere! Its only price is eagerness (*laulya*); it cannot be had for the pious deeds of ten million births.” (Padyāvalī, 14)[^16][^17]
 
 প্রভু কহে, — এহো হয়, আগে কহ আর ৷  
 রায় কহে, দাস্য-প্রেম — সর্ব্বসাধ্যসার ॥ ৭১ ॥
@@ -794,7 +794,7 @@ when shall I  as a wholly devoted eternal servant
 praharṣayiṣyāmi sa nātha jīvitam  
 gladden  that very  O Lord  life
 
-(73) “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (Stotra-ratna, 43)[^16]
+(73) “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (Stotra-ratna, 43)[^18]
 
 প্রভু কহে, — এহো হয়, কিছু আগে আর ৷  
 রায় কহে, সখ্য-প্রেম — সর্ব্বসাধ্যসার ॥ ৭৪ ॥
@@ -844,7 +844,7 @@ Yaśodā  or  most fortunate
 papau yasyāḥ stanaṁ hariḥ  
 drank  whose  breast  Hari
 
-(77) “O brāhmaṇa, what good deed did Nanda perform to win such great fortune? And what did the most fortunate Yaśodā do, that Hari Himself drank from her breast?” (Śrīmad-Bhāgavatam, 10.8.46)[^17]
+(77) “O brāhmaṇa, what good deed did Nanda perform to win such great fortune? And what did the most fortunate Yaśodā do, that Hari Himself drank from her breast?” (Śrīmad-Bhāgavatam, 10.8.46)[^19]
 
 নেমং বিরিঞ্চো ন ভবো ন শ্রীরপ্যঙ্গসংশ্রয়া ৷  
 প্রসাদং লেভিরে গোপী যত্তৎ প্রাপ বিমুক্তিদাৎ ॥ ৭৮ ॥
@@ -858,7 +858,7 @@ the mercy  obtained  the cowherd woman
 yat tat prāpa vimukti-dāt  
 which  that  received  from the Giver of liberation
 
-(78) “Neither Brahmā, nor Śiva, nor even Śrī, who rests on His breast, obtained the mercy that the cowherd woman (Yaśodā) received from the Giver of liberation.” (Śrīmad-Bhāgavatam, 10.9.20)[^18]
+(78) “Neither Brahmā, nor Śiva, nor even Śrī, who rests on His breast, obtained the mercy that the cowherd woman (Yaśodā) received from the Giver of liberation.” (Śrīmad-Bhāgavatam, 10.9.20)[^20]
 
 প্রভু কহে, — এহো উত্তম, আগে কহ আর ৷  
 রায় কহে, কান্তভাব — প্রেমসাধ্যসার ॥ ৭৯ ॥
@@ -868,7 +868,7 @@ the Lord  said  this  excellent  further  say  more
 rāya kahe, kānta-bhāva — prema-sādhya-sāra  
 Rāya  said  the mood of the beloved  of love’s goal  the essence
 
-(79) The Lord said, “This is excellent, but go further.” Rāya said, “The love of the beloved for her Lover (*kānta-bhāva*) is the essence of the goal that is *prema*.[^19]
+(79) The Lord said, “This is excellent, but go further.” Rāya said, “The love of the beloved for her Lover (*kānta-bhāva*) is the essence of the goal that is *prema*.[^21]
 
 নায়ং শ্রিয়োঽঙ্গ উ নিতান্তরতেঃ প্রসাদঃ  
 স্বর্যোষিতাং নলিনগন্ধরুচাং কুতোঽন্যাঃ ৷  
@@ -876,15 +876,15 @@ Rāya  said  the mood of the beloved  of love’s goal  the essence
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ৮০ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not this  to Śrī  on the breast  indeed  most devoted  the grace  
+not  this  of Śrī  O  indeed  wholly attached  favor  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
-of the heavenly  women  of lotus  fragrance  lustre  how then  of others  
+of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
-in the festival of the rāsa  His  by the mighty arms  grasped  necks  
+at the festival of rāsa  His  by the arms  embraced  around the neck  
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
-who received the blessing  which  arose  to the beauties of Vraja
+who obtained their desire  which  arose  of Vraja  the beautiful women
 
-(80) “The grace that came to the beauties of Vraja in the festival of the *rāsa*, when they received the blessing of His mighty arms about their necks, was never given even to Śrī, who rests on His breast in utmost devotion, nor to the women of heaven, fragrant and lustrous as lotuses — what then to speak of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^20]
+(80) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^22][^23]
 
 তাসামাবিরভূচ্ছৌরিঃ স্ময়মানমুখাম্বুজঃ ৷  
 পীতাম্বরধরঃ স্রগ্বী সাক্ষান্মন্মথমন্মথঃ ॥ ৮১ ॥
@@ -898,7 +898,7 @@ yellow garments  wearing  garlanded
 sākṣān manmatha-manmathaḥ  
 directly  of Cupid  the enchanter
 
-(81) “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)[^21]
+(81) “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)[^24]
 
 কৃষ্ণ-প্রাপ্তির উপায় বহুবিধ হয় ৷  
 কৃষ্ণপ্রাপ্তি-তারতম্য বহুত আছয় ॥ ৮২ ॥
@@ -918,7 +918,7 @@ but  whose  whatever  rasa  that  the best
 taṭa-stha hañā vicārile, āche tara-tama  
 impartial  becoming  if one considers  there are  higher and highest
 
-(83) But whatever *rasa* a devotee has is for him the best. Yet, considered impartially, one *rasa* stands higher than another.[^22]
+(83) But whatever *rasa* a devotee has is for him the best. Yet, considered impartially, one *rasa* stands higher than another.[^25]
 
 যথোত্তরমসৌ স্বাদবিশেষোল্লাসময্যপি ৷  
 রতির্বাসনয়া স্বাদ্বী ভাসতে কাপি কস্যচিৎ ॥ ৮৪ ॥
@@ -986,7 +986,7 @@ by good fortune  which  arose  for Me  the love
 bhavatīnāṁ mad-āpanaḥ  
 of you  bringing Me
 
-(89) “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^23]
+(89) “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^26]
 
 কৃষ্ণের প্রতিজ্ঞা দৃঢ় সর্ব্বকালে আছে ৷  
 যে যৈছে ভজে, কৃষ্ণ তারে ভজে তৈছে ॥ ৯০ ॥
@@ -996,7 +996,7 @@ Kṛṣṇa’s  promise  firm  at all times  is
 ye yaiche bhaje, kṛṣṇa tāre bhaje taiche  
 who  as  worships  Kṛṣṇa  him  reciprocates  so
 
-(90) Kṛṣṇa has a firm promise that holds for all time: as one worships Him, so does He reciprocate.[^24]
+(90) Kṛṣṇa has a firm promise that holds for all time: as one worships Him, so does He reciprocate.[^27]
 
 এই ‘প্রেমে’র অনুরূপ না পারে ভজিতে ৷  
 অতএব ‘ঋণী’ হয় — কহে ভাগবতে ॥ ৯১ ॥
@@ -1022,7 +1022,7 @@ who  Me  worshipped  hard to conquer  of home  the fetters
 saṁvṛścya tad vaḥ pratiyātu sādhunā  
 completely cutting  that  your  let it be requited  by the good deed
 
-(92) “O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.” (Śrīmad-Bhāgavatam, 10.32.22)[^25]
+(92) “O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.” (Śrīmad-Bhāgavatam, 10.32.22)[^28]
 
 যদ্যপি কৃষ্ণ-সৌন্দর্য্য — মাধুর্য্যের ধুর্য্য ৷  
 ব্রজদেবীর সঙ্গে তাঁর বাড়য়ে মাধুর্য্য ॥ ৯৩ ॥
@@ -1090,7 +1090,7 @@ among all gopīs  She alone
 viṣṇor atyanta-vallabhā  
 of Viṣṇu  most  beloved
 
-(98) “As Rādhā is dear to Viṣṇu, so is Her pond dear to Him; among all the gopīs She alone is His most beloved.” (Padma Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 45)[^26]
+(98) “As Rādhā is dear to Viṣṇu, so is Her pond dear to Him; among all the gopīs She alone is His most beloved.” (Padma Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 45)[^29]
 
 অনয়ারাধিতো নূনং ভগবান্ হরিরীশ্বরঃ ৷  
 যন্নো বিহায় গোবিন্দঃ প্রীতো যামনয়দ্রহঃ ॥ ৯৯ ॥
@@ -1104,7 +1104,7 @@ since  us  leaving  Govinda
 prīto yām anayad rahaḥ  
 pleased  whom  led  to a secret place
 
-(99) “Surely the Lord, Bhagavān Hari, has been worshipped by Her, for Govinda, pleased, has left us and led Her away to a secluded place.” (Śrīmad-Bhāgavatam, 10.30.28)[^27]
+(99) “Surely the Lord, Bhagavān Hari, has been worshipped by Her, for Govinda, pleased, has left us and led Her away to a secluded place.” (Śrīmad-Bhāgavatam, 10.30.28)[^30]
 
 প্রভু কহে, — আগে কহ, শুনিতে পাই সুখে ৷  
 অপূর্ব্বামৃত-নদী বহে তোমার মুখে ॥ ১০০ ॥
@@ -1154,7 +1154,7 @@ of the gopīs  of the rāsa dance  the circle  leaving
 rādhā cāhi’ vane phire vilāpa kariyā  
 Rādhā  seeking  in the forest  He wanders  lamenting  doing
 
-(104) Leaving the circle of the gopīs’ *rāsa* dance, He wanders through the forest in search of Rādhā, lamenting.
+(104) Leaving the circle of the gopīs’ *rāsa* dance, He wandered through the forest in search of Rādhā, lamenting.
 
 কংসারিরপি সংসারবাসনাবদ্ধশৃঙ্খলাম্ ৷  
 রাধামাধায় হৃদয়ে তত্যাজ ব্রজসুন্দরীঃ ॥ ১০৫ ॥
@@ -1168,7 +1168,7 @@ Rādhā  placing  in the heart
 tatyāja vraja-sundarīḥ  
 left  of Vraja  the beauties
 
-(105) “Placing Rādhā in His heart — the chain that bound His desire for the very essence of the *rāsa* — Kṛṣṇa, the enemy of Kaṁsa, left the other beauties of Vraja.” (Gīta-govinda, 3.1)[^28]
+(105) “Placing Rādhā in His heart — the chain that bound His desire for the very essence of the *rāsa* — Kṛṣṇa, the enemy of Kaṁsa, left the other beauties of Vraja.” (Gīta-govinda, 3.1)[^31]
 
 ইতস্ততস্তামনুসৃত্য রাধিকা-  
 মনঙ্গবাণব্রণখিন্নমানসঃ ৷  
@@ -1184,7 +1184,7 @@ filled with remorse  He  of Kalinda’s daughter (the Yamunā)
 taṭānta-kuñje viṣasāda mādhavaḥ  
 on the edge of the bank  in a grove  sank in despair  Mādhava
 
-(106) “Searching here and there for Rādhikā, His mind wearied by the wounds of Ananga’s arrows and filled with remorse, Mādhava sank down in despair in a grove on the edge of the Yamunā’s bank.” (Gīta-govinda, 3.2)[^29]
+(106) “Searching here and there for Rādhikā, His mind wearied by the wounds of Ananga’s arrows and filled with remorse, Mādhava sank down in despair in a grove on the edge of the Yamunā’s bank.” (Gīta-govinda, 3.2)[^32]
 
 এই দুই-শ্লোকের অর্থ বিচারিলে জানি ৷  
 বিচারিতে উঠে যেন অমৃতের খনি ॥ ১০৭ ॥
@@ -1204,7 +1204,7 @@ hundreds of millions of  gopīs  with  the rāsa  pastime
 tāra madhye eka-mūrtye rahe rādhā-pāśa  
 among them  in one form  He stays  at Rādhā’s side
 
-(108) In the *rāsa* pastime with hundreds of millions of gopīs, He stays at Rādhā’s side in one of His forms.
+(108) In the *rāsa* pastime with hundreds of millions of gopīs, He stayed at Rādhā’s side in one of His forms.
 
 সাধারণ-প্রেমে দেখি সর্ব্বত্র ‘সমতা’ ৷  
 রাধার কুটিল-প্রেমে হইল ‘বামতা’ ॥ ১০৯ ॥
@@ -1214,7 +1214,7 @@ in ordinary  love  we see  everywhere  equality
 rādhāra kuṭila-preme haila ‘vāmatā’  
 in Rādhā’s  crooked  love  arose  contrariness
 
-(109) In ordinary love one sees equality everywhere; but in Rādhā’s crooked love there arose contrariness (*vāmatā*).[^30]
+(109) In ordinary love one sees equality everywhere; but in Rādhā’s crooked love there arose contrariness (*vāmatā*).[^33]
 
 অহেরিব গতিঃ প্রেম্ণঃ স্বভাবকুটিলা ভবেৎ ৷  
 অতো হেতোরহেতোশ্চ যূনোর্মান উদঞ্চতি ॥ ১১০ ॥
@@ -1298,7 +1298,7 @@ now  I have known  of the One to be served  of the means  the determination
 āge āra āche kichu, śunite mana haya  
 further  more  there is  something  to hear  the desire  is
 
-(117) Now I know who is to be served and by what means. Yet there is something more beyond, and I wish to hear it.[^31]
+(117) Now I know who is to be served and by what means. Yet there is something more beyond, and I wish to hear it.[^34]
 
 ‘কৃষ্ণের স্বরূপ’ কহ ‘রাধার স্বরূপ’ ৷  
 ‘রস’ — কোন্ তত্ত্ব, ‘প্রেম’ — কোন্ তত্ত্বরূপ ॥ ১১৮ ॥
@@ -1428,7 +1428,7 @@ still  of the Lord  the will  supremely  powerful
 jānileha rāyera mana haila ṭalamala  
 though he knew  Rāya’s  mind  became  unsteady
 
-(130) Yet the Lord’s will is supremely powerful, and, though he knew the truth, Rāya’s mind began to waver.[^32]
+(130) Yet the Lord’s will is supremely powerful, and, though he knew the truth, Rāya’s mind began to waver.[^35]
 
 রায় কহে, — আমি — নট, তুমি — সূত্রধার ৷  
 যেই মত নাচাও, সেই মত চাহি নাচিবার ॥ ১৩১ ॥
@@ -1492,7 +1492,7 @@ without beginning  the beginning  Govinda
 sarva-kāraṇa-kāraṇam  
 of all  causes  the cause
 
-(136) “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)[^33]
+(136) “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)[^36]
 
 বৃন্দাবনে ‘অপ্রাকৃত নবীন মদন’ ৷  
 কামগায়ত্রী-কামবীজে যাঁর উপাসন ॥ ১৩৭ ॥
@@ -1502,7 +1502,7 @@ in Vṛndāvana  transcendental  ever-new  Madana (Cupid)
 kāma-gāyatrī kāma-bīje yām̐ra upāsana  
 by the Kāma-gāyatrī  with the Kāma-bīja  whose  worship
 
-(137) In Vṛndāvana He is the transcendental, ever-new Madana, worshipped with the Kāma-gāyatrī and the Kāma-bīja.[^34]
+(137) In Vṛndāvana He is the transcendental, ever-new Madana, worshipped with the Kāma-gāyatrī and the Kāma-bīja.[^37]
 
 পুরুষ, যোষিত্, কিবা স্থাবর-জঙ্গম ৷  
 সর্ব্ব-চিত্তাকর্ষক, সাক্ষাৎ মন্মথ-মদন ॥ ১৩৮ ॥
@@ -1526,7 +1526,7 @@ yellow garments  wearing  garlanded
 sākṣān manmatha-manmathaḥ  
 directly  of Cupid  the enchanter
 
-(139) “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)[^35]
+(139) “Among them appeared Śauri (Kṛṣṇa), His lotus face smiling, wearing yellow garments and a garland — the very enchanter of Cupid.” (Śrīmad-Bhāgavatam, 10.32.2)[^38]
 
 নানা-ভক্তের রসামৃত নানাবিধ হয় ৷  
 সেই সব রসামৃতের ‘বিষয়’ ‘আশ্রয়’ ॥ ১৪০ ॥
@@ -1536,7 +1536,7 @@ of various  devotees  the nectar of rasa  of various kinds  is
 sei saba rasāmṛtera ‘viṣaya’ ‘āśraya’  
 of all those  nectars of rasa  the object  the abode
 
-(140) The nectar of *rasa* of various devotees is of many kinds; of all those nectars of *rasa* He is the object (*viṣaya*), and the devotee the abode (*āśraya*).
+(140) Different devotees taste different kinds of the nectar of *rasa*; in all of them Kṛṣṇa is the object (*viṣaya*), and the devotee the abode (*āśraya*).[^39]
 
 অখিলরসামৃতমূর্ত্তিঃ প্রসৃমর-রুচিরুদ্ধ-তারকা-পালিঃ ৷  
 কলিত-শ্যামা-ললিতো রাধাপ্রেয়ান্ বিধুর্জয়তি ॥ ১৪১ ॥
@@ -1550,7 +1550,7 @@ who has made His own  Śyāmā  Lalitā
 rādhā-preyān vidhur jayati  
 to Rādhā  most dear  the moon  may He be glorious
 
-(141) “Glory to the Moon, the embodiment of the nectar of all *rasas*, who with His spreading radiance has subdued Tārakā and Pāli, who has won Śyāmā and Lalitā, and who is dearest to Rādhā!” (Bhakti-rasāmṛta-sindhu, 1.1.1)[^36]
+(141) “Glory to the Moon, the embodiment of the nectar of all *rasas*, who with His spreading radiance has subdued Tārakā and Pāli, who has won Śyāmā and Lalitā, and who is dearest to Rādhā!” (Bhakti-rasāmṛta-sindhu, 1.1.1)[^40]
 
 শৃঙ্গার-রসরাজময়-মূর্ত্তিধর ৷  
 অতএব আত্মপর্য্যন্ত-সর্ব্ব-চিত্ত-হর ॥ ১৪২ ॥
@@ -1576,7 +1576,7 @@ freely  by the Vraja beauties  all around  limb by limb  embraced
 śṛṅgāraḥ sakhi mūrtimān iva madhau mugdho hariḥ krīḍati  
 śṛṅgāra  O friend  embodied  as it were  in spring  enchanted  Hari  sports
 
-(143) “O friend, see how Hari sports in spring! Delighting all and giving them bliss, with limbs dark and tender as a row of blue lotuses He brings a festival to the god of love; freely embraced on every side by the beauties of Vraja, He is, as it were, *śṛṅgāra* embodied, enchanted Himself.” (Gīta-govinda, 1.11)[^37]
+(143) “O friend, see how Hari sports in spring! Delighting all and giving them bliss, with limbs dark and tender as a row of blue lotuses He brings a festival to the god of love; freely embraced on every side by the beauties of Vraja, He is, as it were, *śṛṅgāra* embodied, enchanted Himself.” (Gīta-govinda, 1.11)[^41]
 
 লক্ষ্মীকান্তাদি অবতারের হরে মন ৷  
 লক্ষ্মী-আদি নারীগণের করে আকর্ষণ ॥ ১৪৪ ॥
@@ -1602,7 +1602,7 @@ with My portions descended  of the earth  the burden  the asuras
 hatveha bhūyas tvarayetam anti me  
 having slain  here  again  hurry back  near  Me
 
-(145) “I brought the brāhmaṇa’s sons here because I wished to see you two, who have descended to earth with all your potencies for the protection of *dharma*. When you have slain the *asuras*, the burden of the earth, hurry back to Me here.” (Śrīmad-Bhāgavatam, 10.89.58)[^38]
+(145) “I brought the brāhmaṇa’s sons here because I wished to see you two, who have descended to earth with all your potencies for the protection of *dharma*. When you have slain the *asuras*, the burden of the earth, hurry back to Me here.” (Śrīmad-Bhāgavatam, 10.89.58)[^42]
 
 কস্যানুভাবোঽস্য ন দেব বিদ্মহে  
 তবাঙ্ঘ্রিরেণুস্পর্শাধিকারঃ ৷  
@@ -1618,7 +1618,7 @@ for which  longing  Śrī  the best of women  performed  austerity
 vihāya kāmān su-ciraṁ dhṛta-vratā  
 giving up  desires  for a very long time  holding vows
 
-(146) “O Lord, we do not know by what merit he has earned the right to touch the dust of Your feet — that dust for which Śrī, the best of women, longing for it, gave up all desires and practised austerities for so long, keeping her vows.” (Śrīmad-Bhāgavatam, 10.16.36)[^39]
+(146) “O Lord, we do not know by what merit he has earned the right to touch the dust of Your feet — that dust for which Śrī, the best of women, longing for it, gave up all desires and practised austerities for so long, keeping her vows.” (Śrīmad-Bhāgavatam, 10.16.36)[^43][^44]
 
 আপন-মাধুর্য্যে হরে আপনার মন ৷  
 আপনা আপনি চাহে করিতে আলিঙ্গন ॥ ১৪৭ ॥
@@ -1644,7 +1644,7 @@ this  I  even  alas  seeing  which  with greedy heart
 sa-rabhasam upabhoktuṁ kāmaye rādhikeva  
 eagerly  to enjoy  I desire  like Rādhikā
 
-(148) “What wondrous flood of My sweetness, never known before and surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)[^40]
+(148) “What wondrous flood of My sweetness, never known before and surpassing all, appears here! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)[^45]
 
 এই ত’ সংক্ষেপে কহিল কৃষ্ণের স্বরূপ ৷  
 এবে সংক্ষেপে কহি শুন রাধা-তত্ত্বরূপ ॥ ১৪৯ ॥
@@ -1688,7 +1688,7 @@ called ignorance and karma  another
 tṛtīyā śaktir iṣyate  
 a third  potency  is held to be
 
-(152) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)[^41]
+(152) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)[^46]
 
 সচ্চিদানন্দময় কৃষ্ণের স্বরূপ ৷  
 অতএব স্বরূপ-শক্তি হয় তিন-রূপ ॥ ১৫৩ ॥
@@ -1708,7 +1708,7 @@ in the aspect of bliss  hlādinī  in the aspect of being  sandhinī
 cid-aṁśe ‘samvit’, yāre jñāna kari’ māni  
 in the aspect of consciousness  samvit  which  as knowledge  making  we regard
 
-(154) In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we know as knowledge.[^42]
+(154) In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we know as knowledge.[^47]
 
 হ্লাদিনী সন্ধিনী সম্বিৎ ত্বয্যেকা সর্ব্বসংশ্রয়ে ৷  
 হ্লাদতাপকরী মিশ্রা ত্বয়ি নো গুণবর্জ্জিতে ॥ ১৫৫ ॥
@@ -1722,7 +1722,7 @@ of joy  of pain  causing  mixed
 tvayi no guṇa-varjite  
 in You  not  of the guṇas  devoid
 
-(155) “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)[^43]
+(155) “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)[^48]
 
 কৃষ্ণকে আহ্লাদে, তাতে নাম — ‘হ্লাদিনী’ ৷  
 সেই শক্তি-দ্বারে সুখ আস্বাদে আপনি ॥ ১৫৬ ॥
@@ -1754,70 +1754,80 @@ through that  potency  happiness  tastes  He Himself
 
 [^9]: *Anubhāṣya*: the Lord’s answer to Uddhava about the marks of the sādhu dear to Him; “his duties” are the worldly dharmas of the varṇas and āśramas, which the Lord enjoins as the teacher of Vedic karma.
 
-[^10]: *Anubhāṣya*: Brahmā, whose pride Kṛṣṇa had crushed, surrenders to Him and offers this prayer. “Remaining where they are” — on the path of the sādhus; the accounts of You — of Your name, form, qualities and pastimes, flowing naturally from the lips of the great devotees. *Amṛta-pravāha-bhāṣya*: they live keeping to the path of the sādhus with body, mind and words, and He who is hard to reach in all three worlds becomes easily accessible to them.
+[^10]: The same verse as Madhya 9.264.
 
-[^11]: *Anubhāṣya*: the Lord accepted the verse *jñāne prayāsam* (67) as defining the goal — this is *sādhana-bhakti*; after it comes *bhāva-bhakti*, the sprout of prema, and so Rāmānanda names *prema-bhakti* as the goal.
+[^11]: The same verse as Madhya 9.265.
 
-[^12]: Heading of the edition: “Only the devotee’s love wins Kṛṣṇa”; the verse is Rāmānanda Rāya’s own, quoted in the *Padyāvalī* (13).
+[^12]: *Anubhāṣya*: Brahmā, whose pride Kṛṣṇa had crushed, surrenders to Him and offers this prayer. “Remaining where they are” — on the path of the sādhus; the accounts of You — of Your name, form, qualities and pastimes, flowing naturally from the lips of the great devotees. *Amṛta-pravāha-bhāṣya*: they live keeping to the path of the sādhus with body, mind and words, and He who is hard to reach in all three worlds becomes easily accessible to them.
 
-[^13]: *Anubhāṣya*: worship with the sixteen offerings melts the devotee’s heart with bliss only when there is prema in it — the bhakti that delights Kṛṣṇa.
+[^13]: *Anubhāṣya*: the Lord accepted the verse *jñāne prayāsam* (67) as defining the goal — this is *sādhana-bhakti*; after it comes *bhāva-bhakti*, the sprout of prema, and so Rāmānanda names *prema-bhakti* as the goal.
 
-[^14]: Heading of the edition: “Love for Kṛṣṇa is attained only on the path of rāga; vaidhī-bhakti, born of piety, cannot reach it”; the verse is Rāmānanda Rāya’s own (*Padyāvalī*, 14).
+[^14]: Heading of the edition: “Only the devotee’s love wins Kṛṣṇa”; the verse is Rāmānanda Rāya’s own, quoted in the *Padyāvalī* (13).
 
-[^15]: *Anubhāṣya*: wherever such a mind is found — in whatever place, time, person or practice — it must be bought, and its only price is eagerness. *Amṛta-pravāha-bhāṣya*: the first of the two verses (69) points to *vaidhī-bhakti*, rooted in faith, the second to *rāgānugā-bhakti*, rooted in greed (*lobha*); from here on Rāmānanda speaks only of rāga-bhakti.
+[^15]: *Anubhāṣya*: worship with the sixteen offerings melts the devotee’s heart with bliss only when there is prema in it — the bhakti that delights Kṛṣṇa.
 
-[^16]: The same verse as Madhya 1.206; translation as there. The edition’s heading gives it as Yāmunācārya’s *Stotra-ratna*, 46 (another numbering).
+[^16]: Heading of the edition: “Love for Kṛṣṇa is attained only on the path of rāga; vaidhī-bhakti, born of piety, cannot reach it”; the verse is Rāmānanda Rāya’s own (*Padyāvalī*, 14).
 
-[^17]: *Anubhāṣya*: the words of Parīkṣit, amazed at Śukadeva’s account of Yaśodā’s parental love for Kṛṣṇa.
+[^17]: *Anubhāṣya*: wherever such a mind is found — in whatever place, time, person or practice — it must be bought, and its only price is eagerness. *Amṛta-pravāha-bhāṣya*: the first of the two verses (69) points to *vaidhī-bhakti*, rooted in faith, the second to *rāgānugā-bhakti*, rooted in greed (*lobha*); from here on Rāmānanda speaks only of rāga-bhakti.
 
-[^18]: *Anubhāṣya*: seeing His mother unable to bind Him with the rope and worn out, Kṛṣṇa let Himself be bound; it is this power of Yaśodā over Kṛṣṇa that Śukadeva extols.
+[^18]: The same verse as Madhya 1.206; translation as there. The edition’s heading gives it as Yāmunācārya’s *Stotra-ratna*, 46 (another numbering).
 
-[^19]: *Amṛta-pravāha-bhāṣya*: in ordinary prema there is no sense of “He is mine”, in *dāsya* no full trust, in *sakhya* no abundance of tenderness, in *vātsalya* no complete freedom from reserve; only in *kānta-bhāva* does prema become whole — the essence of all goals.
+[^19]: *Anubhāṣya*: the words of Parīkṣit, amazed at Śukadeva’s account of Yaśodā’s parental love for Kṛṣṇa.
 
-[^20]: *Anubhāṣya*: Uddhava, having stayed several months in Vraja, sees the gopīs’ hearts burning in separation from Kṛṣṇa and extols their supreme good fortune.
+[^20]: *Anubhāṣya*: seeing His mother unable to bind Him with the rope and worn out, Kṛṣṇa let Himself be bound; it is this power of Yaśodā over Kṛṣṇa that Śukadeva extols.
 
-[^21]: The same verse as Ādi 5.214; translation as there.
+[^21]: *Amṛta-pravāha-bhāṣya*: in ordinary prema there is no sense of “He is mine”, in *dāsya* no full trust, in *sakhya* no abundance of tenderness, in *vātsalya* no complete freedom from reserve; only in *kānta-bhāva* does prema become whole — the essence of all goals.
 
-[^22]: *Anubhāṣya*: this does not mean that any whim of the mind becomes the highest — self-will is never the highest. The verse speaks of the five perfected bhāvas: whichever of them awakens in a soul freed from anarthas is for it the highest, for the object of them all is Śrī Kṛṣṇa. Yet, seen impartially, *dāsya* holds *śānta* within it, *sakhya* holds *śānta* and *dāsya*, *vātsalya* the three before it, and *madhura* all four; therefore its sweetness surpasses all.
+[^22]: The same verse as Madhya 9.121; translation as there.
 
-[^23]: The same verse as Ādi 4.23; translation as there. Kṛṣṇa’s words to the gopīs at Kurukṣetra.
+[^23]: *Anubhāṣya*: Uddhava, having stayed several months in Vraja, sees the gopīs’ hearts burning in separation from Kṛṣṇa and extols their supreme good fortune; Śrī, according to the *Anubhāṣya*, is the one who rests on His breast (*aṅge*).
 
-[^24]: Compare Ādi 4.177 (the second line is the same).
+[^24]: The same verse as Ādi 5.214; translation as there.
 
-[^25]: The same verse as Ādi 4.180; translation as there.
+[^25]: *Anubhāṣya*: this does not mean that any whim of the mind becomes the highest — self-will is never the highest. The verse speaks of the five perfected bhāvas: whichever of them awakens in a soul freed from anarthas is for it the highest, for the object of them all is Śrī Kṛṣṇa. Yet, seen impartially, *dāsya* holds *śānta* within it, *sakhya* holds *śānta* and *dāsya*, *vātsalya* the three before it, and *madhura* all four; therefore its sweetness surpasses all.
 
-[^26]: The same verse as Ādi 4.215; translation as there. The edition gives the source as *Laghu-bhāgavatāmṛta* (2.45), the words of the *Padma Purāṇa*.
+[^26]: The same verse as Ādi 4.23; translation as there. Kṛṣṇa’s words to the gopīs at Kurukṣetra.
 
-[^27]: The same verse as Ādi 4.88; translation as there. *Anubhāṣya*: here the *Bhāgavata* hints at the name of Śrī Rādhā.
+[^27]: Compare Ādi 4.177 (the second line is the same).
 
-[^28]: The same verse as Ādi 4.219; translation as there.
+[^28]: The same verse as Ādi 4.180; translation as there.
 
-[^29]: *Anubhāṣya*: Mādhava’s mind was wounded by the arrows of Kāma, and He grieved over what He had done — His neglect of Rādhikā; searching for Her everywhere, He sank into despair in a grove at the edge of the Yamunā’s bank.
+[^29]: The same verse as Ādi 4.215; translation as there. The edition gives the source as *Laghu-bhāgavatāmṛta* (2.45), the words of the *Padma Purāṇa*.
 
-[^30]: *Amṛta-pravāha-bhāṣya*: in the circle of the *rāsa* there was one form of Kṛṣṇa between every two gopīs, and one form of Kṛṣṇa beside Rādhikā; in this Rādhikā showed the contrariness (*vāmatā*) of Her crooked love.
+[^30]: The same verse as Ādi 4.88; translation as there. *Anubhāṣya*: here the *Bhāgavata* hints at the name of Śrī Rādhā.
 
-[^31]: Variant reading: the Gauḍīya Maṭha edition reads *sevya-sādhana-nirṇaya* (“the ascertainment of the One to be served and of the means”); another reading, noted by the *Anubhāṣya*, is *sādhya-sādhana-nirṇaya* (“of the goal and the means”).
+[^31]: The same verse as Ādi 4.219; translation as there.
 
-[^32]: Heading of the edition: the servant moves by the power of the Lord’s will, and this is not bondage to māyā — it shows the sway of the Lord’s will and Rāmānanda’s surrender.
+[^32]: *Anubhāṣya*: Mādhava’s mind was wounded by the arrows of Kāma, and He grieved over what He had done — His neglect of Rādhikā; searching for Her everywhere, He sank into despair in a grove at the edge of the Yamunā’s bank.
 
-[^33]: The same verse as Ādi 2.107; translation as there.
+[^33]: *Amṛta-pravāha-bhāṣya*: in the circle of the *rāsa* there was one form of Kṛṣṇa between every two gopīs, and one form of Kṛṣṇa beside Rādhikā; in this Rādhikā showed the contrariness (*vāmatā*) of Her crooked love.
 
-[^34]: *Anubhāṣya*: kāma exists both in the material world and in the spiritual. Material kāma is subject to time: it flares for a moment, then fades and dies. But the transcendental Madana, served by spiritual senses, is Kṛṣṇacandra, Manmatha-manmatha (the enchanter of the god of love Himself): He is ever new. The Kāma-gāyatrī and the Kāma-bīja are transcendental, and so is the worship offered with them.
+[^34]: Variant reading: the Gauḍīya Maṭha edition reads *sevya-sādhana-nirṇaya* (“the ascertainment of the One to be served and of the means”); another reading, noted by the *Anubhāṣya*, is *sādhya-sādhana-nirṇaya* (“of the goal and the means”).
 
-[^35]: The same verse as Ādi 5.214 (= 81); translation as there.
+[^35]: Heading of the edition: the servant moves by the power of the Lord’s will, and this is not bondage to māyā — it shows the sway of the Lord’s will and Rāmānanda’s surrender.
 
-[^36]: *Anubhāṣya*: His form is the nectar that holds all *rasas*, the five principal and the seven secondary; with His spreading radiance He subdued the friends Tārakā and Pāli, won Śyāmā and Lalitā as His own, and is dearest of all to Rādhā. The verse calls Kṛṣṇa the moon (*vidhu*), which outshines the stars (*tārakā*).
+[^36]: The same verse as Ādi 2.107; translation as there.
 
-[^37]: The same verse as Ādi 4.224; translation as there.
+[^37]: *Anubhāṣya*: kāma exists both in the material world and in the spiritual. Material kāma is subject to time: it flares for a moment, then fades and dies. But the transcendental Madana, served by spiritual senses, is Kṛṣṇacandra, Manmatha-manmatha (the enchanter of the god of love Himself): He is ever new. The Kāma-gāyatrī and the Kāma-bīja are transcendental, and so is the worship offered with them.
 
-[^38]: *Anubhāṣya*: Arjuna had vowed to save a brāhmaṇa’s son from untimely death, but failed. Then Śrī Kṛṣṇa took him along, passed with the Sudarśana disc through the darkness beyond the universe, and in Mahākālapura, amid the great waters, they saw Śeṣaśāyī reclining on Ananta. He spoke these words to them; “descended with all portions” — with all potencies.
+[^38]: The same verse as Ādi 5.214 (= 81); translation as there.
 
-[^39]: *Anubhāṣya*: the words of the wives of the serpent Kāliya, when Kṛṣṇa, breaking his hoods with the blows of His feet, had left him senseless.
+[^39]: *Anubhāṣya*: *viṣaya* — Kṛṣṇa; *āśraya* — the devotee, the abode of *rasa*.
 
-[^40]: The same verse as Ādi 4.146; translation as there.
+[^40]: *Anubhāṣya*: His form is the nectar that holds all *rasas*, the five principal and the seven secondary; with His spreading radiance He subdued the friends Tārakā and Pāli, won Śyāmā and Lalitā as His own, and is dearest of all to Rādhā. The verse calls Kṛṣṇa the moon (*vidhu*), which outshines the stars (*tārakā*).
 
-[^41]: The same verse as Ādi 7.119 and Madhya 6.154; translation as there.
+[^41]: The same verse as Ādi 4.224; translation as there.
 
-[^42]: The same verse as Ādi 4.62; translation as there.
+[^42]: *Anubhāṣya*: Arjuna had vowed to save a brāhmaṇa’s son from untimely death, but failed. Then Śrī Kṛṣṇa took him along, passed with the Sudarśana disc through the darkness beyond the universe, and in Mahākālapura, amid the great waters, they saw Śeṣaśāyī reclining on Ananta. He spoke these words to them; “descended with all portions” — with all potencies.
 
-[^43]: The same verse as Madhya 6.157 (Ādi 4.63 with the reading *sarva-saṁśraye*, “the shelter of all”; Ādi 4.63 reads *sarva-saṁsthitau*, “the basis of all”; the sense is the same); translation as there.
+[^43]: *Anubhāṣya*: the words of the wives of the serpent Kāliya, when Kṛṣṇa, breaking his hoods with the blows of His feet, had left him senseless.
+
+[^44]: The same verse as Madhya 9.114.
+
+[^45]: The same verse as Ādi 4.146; translation as there.
+
+[^46]: The same verse as Ādi 7.119 and Madhya 6.154; translation as there.
+
+[^47]: The same verse as Ādi 4.62; translation as there.
+
+[^48]: The same verse as Madhya 6.157 (Ādi 4.63 with the reading *sarva-saṁśraye*, “the shelter of all”; Ādi 4.63 reads *sarva-saṁsthitau*, “the basis of all”; the sense is the same); translation as there.
