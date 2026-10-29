@@ -21,3 +21,14 @@
 | sādhya-sāra, sarva-sādhya-sāra | the essence of (all) goals | 8.59 ff. |
 | bāhya | external | 8.59 ff. |
 | varṇāśramācāra | the conduct of *varṇa* and *āśrama* | 8.58 |
+| sva-dharma-tyāga | giving up one’s own *dharma* | 8.61 |
+| jñāna-miśrā bhakti, jñāna-śūnyā bhakti | devotion mixed with knowledge; devotion free from (the endeavour for) knowledge | 8.64, 8.66 |
+| prema-bhakti | loving devotion (*prema-bhakti*) | 8.68 |
+| ārta-bandhu | the Friend of the afflicted | 8.69 |
+| laulya | eagerness (*laulya*) | 8.70 (APB: *lobha*) |
+| dāsya-, sakhya-, vātsalya-prema | love in servitude, in friendship, parental love | 8.71–76 |
+| kānta-bhāva | the love of the beloved for her Lover (*kānta-bhāva*) | 8.79 |
+| tāratamya, tara-tama | degrees, gradations; higher and higher degrees | 8.82–83 |
+| taṭa-stha hañā | impartially | 8.83 (APB: “looking from outside”) |
+| ṛṇī | a debtor | 8.91 |
+| sādhyāvadhi | the limit of the goal | 8.95 |
