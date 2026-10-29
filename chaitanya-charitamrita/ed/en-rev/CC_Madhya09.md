@@ -1245,7 +1245,7 @@ at the festival of rāsa  His  by the arms  embraced  around the neck
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
 who obtained their desire  which  arose  of Vraja  the beautiful women
 
-(121) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)
+(121) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favour was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)
 
 লক্ষ্মী কেনে না পাইল, ইহার কি কারণ ৷  
 তপ করি’ কৈছে কৃষ্ণ পাইল শ্রুতিগণ ॥ ১২২ ॥
