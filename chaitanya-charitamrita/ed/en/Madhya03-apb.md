@@ -27,3 +27,11 @@ May the Yamunā, daughter of the Sun, purify our body! She is eternally the vess
 ## 43
 
 ***Battiśā-āṭhiyā-kalāra āṅgaṭiyā.*** The *āṭhiyā* is a kind of banana tree that bears a bunch of thirty-two hands. *Āṅgaṭiyā* means on a whole, untorn banana leaf.
+
+## 62
+
+***Kṛtya nāhi sare*** — some duty still remains to be done.
+
+## 71
+
+***Bhāribhuri*** — a secret (*gopya-kathā*).

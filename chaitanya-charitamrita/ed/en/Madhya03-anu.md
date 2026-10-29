@@ -150,10 +150,6 @@ Following the teaching of Śrī Caitanyadeva, *sannyāsa* with the *śikhā* and
 
 > Subheading: Description of the offering —
 
-## 45–55
-
-The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery — his skill in cooking — to fine effect.
-
 ## 49
 
 ***Loke*** — in the world.
@@ -169,6 +165,10 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 ## 54
 
 ***Śaki*** — I can.
+
+## 45–55
+
+The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery — his skill in cooking — to fine effect.
 
 ## 56
 
@@ -194,6 +194,44 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 
 > Subheading: Though Mukunda and Haridāsa are asked to eat, they keep proper decorum and show humility and modesty —
 
+## 64
+
+> Subheading: On seeing the *prasāda* the Lord rejoices and honors Advaita —
+
+## 66
+
+> Subheading: Without telling Mahāprabhu, Advaita seats each of the two Prabhus in his own place —
+
+Śrī Advaita Prabhu had served out the *bhoga* equally in three portions (see verse 42 of this chapter). Of these, Kṛṣṇa's *bhoga* was on the metal plate, and the other two were on banana leaves. Advaita Prabhu himself offered to Kṛṣṇa the *bhoga* on the metal plate. The two portions on banana leaves, meant for Śrī Mahāprabhu and Nityānanda Prabhu, remained unoffered. The Ācārya kept this in his mind and did not reveal it to Mahāprabhu. So Mahāprabhu thought that all three portions were *prasāda* offered to Kṛṣṇa.
+
+## 67
+
+> Subheading: The Lord and the Ācārya each ask the other to sit down and eat —
+
+## 68
+
+> Subheading: The Lord's words —
+
+Śrī Mahāprabhu asked Advaita, “Where shall Nityānanda and I sit?” Seeing how much *bhoga* there was, He told him to bring two more plates and to put on them only a little rice and vegetables.
+
+## 69
+
+> Subheading: The Ācārya seats the two Prabhus —
+
+## 70
+
+> Subheading: The Lord's pastime of renunciation on the path of rules, as befits an ācārya —
+
+***Upakaraṇa*** — *dāl*, vegetables and so on: the things that make rice easy to eat. A *sannyāsī* has no right to such tasty dishes. Taking what pleases the senses strengthens the urge to enjoy. That is why Mahāprabhu said to Śrī Raghunātha dāsa Gosvāmī about a devotee for whom renunciation comes first: “Do not dress well, and do not eat well.”[^70-1] Devotees never accept anything other than Kṛṣṇa's *prasāda*. Wealthy householders offer Kṛṣṇa the finest and tastiest things. There are also *prasāda* articles that accompany Kṛṣṇa's pastimes — *tāmbūla* to freshen the mouth and other fragrant spices, flower garlands, a bed, clothes, ornaments and so on. Vaiṣṇavas cherish them. Yet by the Lord's order the selfless (*akiñcana*) Vaiṣṇavas regard their own bodies as mundane and repulsive and know that to accept such things would be an offense. So they declare their own unworthiness. Non-Vaiṣṇavas who pose as Vaiṣṇavas, the *sahajiyās* and others driven by *anarthas* cannot understand the purport of the Lord's instruction.
+
+## 71
+
+> Subheading: The Ācārya, whose life is given to Gaura, presses the Lord hard to eat —
+
+## 72
+
+> Subheading: The Lord objects that He cannot eat so much, and the Ācārya insists all the more —
+
 ---
 
 [^1-1]: The edition prints «ত্বং গৌরং» (“to You, Gaura”) at the end of the glosses; the verse itself reads «তং» (“to that”).
@@ -201,3 +239,5 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 [^6-1]: *Brahma-saṁhitā* 5.1.
 
 [^39-1]: *Caccaḍi* is a Bengali dry dish of stewed vegetables; the question mark is in the edition.
+
+[^70-1]: *Caitanya-caritāmṛta*, Antya 6.236 (the edition gives the two halves in reverse order).
