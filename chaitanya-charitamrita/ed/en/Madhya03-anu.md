@@ -408,6 +408,262 @@ In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣ
 
 > Subheading: Śacīmātā arrives in a palanquin with the devotees of Navadvīpa —
 
+## 139
+
+> Subheading: In the morning the Lord meets Śacī —
+
+## 140
+
+> Subheading: Seeing the Lord, Śacī weeps with love —
+
+## 141
+
+> Subheading: A description of Śacī's parental love (*vātsalya-prema*) for the Lord —
+
+## 143
+
+> Subheading: Śacī laments and pleads with her son —
+
+***Niṭhurāi*** — cruelty.
+
+## 145
+
+> Subheading: The Lord, the crest jewel of those devoted to their mothers, consoles Śacīmātā —
+
+## 147
+
+> Subheading: The Lord's unfailing love for Śacīmātā —
+
+## 148
+
+> Subheading: The Lord promises to stay wherever Śacī wishes —
+
+## 149
+
+> Subheading: The Lord bows down, and Śacī, full of love, takes Him on her lap —
+
+## 150
+
+> Subheading: The Lord meets the devotees and embraces them with love —
+
+## 152
+
+> Subheading: A devotee's joy at seeing the Lord is not a desire to please his own senses —
+
+## 153
+
+> Subheading: The devotees who live in Navadvīpa —
+
+## 156
+
+> Subheading: Advaita's house is Vaikuṇṭha: at every moment Hari is served there —
+
+## 157
+
+> Subheading: The Ācārya gives lodging and food to all who come —
+
+## 159
+
+> Subheading: The unfailing storehouse of the unfailing Ācārya —
+
+## 160
+
+> Subheading: The Lord eats food cooked by Śacī —
+
+## 161
+
+> Subheading: By day the Ācārya sees the Lord, by night the other people —
+
+## 162
+
+> Subheading: During *kīrtana* the Lord, overwhelmed by emotion, falls to the ground —
+
+***Pulakāśru*** — (ibid.[^162-1]): “Tears (*aśru*) are water that wells up in the eyes from joy, anger, grief and the like. Tears of joy are cool; tears of anger and the like are hot. With all tears there are agitation of the eyes, redness, wiping and so on.” The water that falls from the eyes without any effort, from joy, anger, grief and the like, is *pulakāśru*. Tears of joy are cool, tears of anger hot, and with both kinds of *pulakāśru* there are agitation of the eyes, redness, wiping and so on.
+
+***Pralaya*** — (ibid.): “*Pralaya* is the cessation of activity and awareness through happiness or sorrow. Its outward signs (*anubhāvas*) are said to be falling on the ground and the like.” Both through happiness and through sorrow, activity and awareness cease. In such *pralaya* one sees *anubhāvas* such as falling to the ground.
+
+***Sarva-bhāva*** (“all the emotions”) — the eight *sāttvika-vikāras*: *stambha* (stupor), *sveda* (perspiration), *romāñca* (hair standing on end), *svara-bheda* (faltering voice), *kampa* (trembling), *vaivarṇya* (pallor), *pulakāśru* (tears) and *pralaya* (fainting).
+
+## 163
+
+> Subheading: Śacī, melting with love and overcome by fear, prays to Viṣṇu for her son's well-being —
+
+## 165
+
+***Bālya-kāla haite*** (“since childhood”) — since girlhood, from earliest infancy. Śacīmātā is eternally perfect, *vātsalya* embodied, in her very nature Yaśodā herself. From birth she was devoted to Kṛṣṇa's service and was never an ordinary *jīva*. Here this is stated from her own lips.
+
+## 168
+
+> Subheading: The devotees wish to invite the Lord —
+
+## 169
+
+> Subheading: Śacī's sorrow: she holds the devotees back and proposes to feed the Lord herself —
+
+***Kati*** — where.
+
+## 172
+
+> Subheading: The devotees agree —
+
+## 173
+
+> Subheading: To fulfill His mother's wish, the Lord, the crest jewel of those devoted to their mothers, makes a request of the devotees —
+
+## 174
+
+> Subheading: The Lord is subject to His devotees —
+
+## 175
+
+> Subheading: The Lord's love for His devotees and for His mother —
+
+## 176
+
+***Jība*** — I shall live, I shall remain manifest (*prakaṭa*) in this world.
+
+## 177
+
+> Subheading: A *sannyāsī* must not return to what he has given up (become a *vāntāśī*, “one who eats what he has vomited”) —
+
+## 178
+
+> Subheading: So that Mahāprabhu is not blamed for false renunciation (*phalgu-vairāgya*), He asks the devotees for counsel —
+
+## 179
+
+> Subheading: Advaita and the others make a request of Śacī —
+
+## 181
+
+> Subheading: Śacīmātā's happiness lies in the Lord's happiness —
+
+If the son gives up searching for Kṛṣṇa and stays at home, the mother will have pleasure — her senses will be satisfied. But the son, having abandoned Kṛṣṇa's service, will deserve blame, and a truly loving mother will only grieve. So a real mother wishes her son eternal good and happiness. Her real happiness lies not in her own joy or in the enjoyment of seeing her son, but in her son's service to Kṛṣṇa. Otherwise the word *mā* (“mother”) means *māyā*. By these words Jaganmātā (the Mother of the world) Śacī Ṭhākurāṇī, the ideal for all mothers, has instructed them all. In this connection one should consider the verse (*Śrīmad-Bhāgavatam* 5.5.18): “He is no guru, he is no kinsman, he is no father, she is no mother, that is no deity and he is no husband, who does not free from death one who has come to him.”
+
+## 182
+
+> Subheading: For her son's happiness Śacīmātā agrees that He should live in Purī —
+
+## 185
+
+> Subheading: Śacī's pure parental love for Gaura —
+
+This verse is a beautiful explanation of the service of Kṛṣṇa's servant: service is the desire to please Kṛṣṇa's senses[^185-1]. See Ādi 4.174–175, 201, 204; Madhya 4.186; and Ṭhākura Śrī Bhaktivinoda's song “Sevā-sukha-duḥkha — parama sampad” (“Happiness and sorrow in service are the highest wealth”) in the *Śaraṇāgati*.
+
+## 186
+
+> Subheading: The devotees praise Śacīmātā —
+
+## 187
+
+> Subheading: The Lord rejoices to hear Śacī's wish —
+
+## 188
+
+> Subheading: The Lord's appeal to the devotees —
+
+## 190
+
+> Subheading: He tells everyone to sing Kṛṣṇa's names —
+
+## 191
+
+> Subheading: The Lord asks permission to go to Purī —
+
+## 192
+
+> Subheading: Honoring each as is fitting, He bids everyone farewell —
+
+## 193
+
+> Subheading: Haridāsa's humility and entreaty —
+
+## 194
+
+Śrī Haridāsa Ṭhākura, though born by birth (*śaukra*) in a Yavana (Muslim) family, attained brāhmaṇahood by initiation (*daikṣya*)[^194-1]. In his natural humility Haridāsa thought himself utterly low. In a plaintive voice he told the Lord that because of his caste by birth he had no lawful right to enter Nīlācala. For in Nīlādri no one but the four *varṇas* may enter the courtyard of the Śrī Mandira. So if Śrī Mahāprabhu were to live in the Śrī Mandira of Nīlācala, Haridāsa would no longer be able to go there. Later, learning that nothing prevented him from living on the stretch of sand near Nīlādri, Ṭhākura Haridāsa settled there. That place is now known as the “Siddha-bakula Maṭha.”
+
+## 197
+
+> Subheading: Rejecting the *smārta* society averse to Hari, the Lord promises to take to Purī Ṭhākura Haridāsa — the transcendental guru of brāhmaṇas, a Vaiṣṇava ācārya —
+
+## 198
+
+> Subheading: Advaita begs the Lord to stay a few more days —
+
+## 199
+
+> Subheading: The Lord fulfills Advaita's wish —
+
+## 200
+
+> Subheading: All rejoice to see the Lord's mercy —
+
+## 201
+
+> Subheading: By day, talks about Kṛṣṇa (*iṣṭa-goṣṭhī*); by night, *saṅkīrtana* —
+
+## 202
+
+> Subheading: Āi rejoices as the Lord and His associates eat what she has cooked —
+
+## 203
+
+> Subheading: Service to the Lord makes all that Advaita owns blessed —
+
+## 204
+
+> Subheading: Śacīmātā's happiness —
+
+## 205
+
+> Subheading: Some days of transcendental joy in Advaita's house —
+
+## 206
+
+> Subheading: The Lord bids the devotees farewell —
+
+## 207
+
+> Subheading: He shows how the Lord and the devotees may meet again in future —
+
+## 208
+
+> Subheading: A meeting is possible — whether the devotees come or the Lord comes —
+
+## 209
+
+> Subheading: The Lord's companions on the road to Purī — four, headed by Nitāi —
+
+## 210
+
+> Subheading: The Lord bows to Śacī and consoles her —
+
+## 211
+
+> Subheading: The Lord, dependent on nothing (*nirapekṣa*) —
+
+## 212
+
+***Nirapekṣa*** — free from all dependence on matter and the material, that is, established in one's *svarūpa*, in servitude to Bhagavān. Mahāprabhu feared that some obstacle might arise in His search for Kṛṣṇa. So, after hearing His relatives weep, He went away, and in the eyes of godless moralists He came to be known as “utterly heartless.” But as Jagad-guru He taught that for the *jīva* the one necessary duty is the endeavor to serve Kṛṣṇa, the highest of all *dharmas*. External vision and the enjoyment of insentient matter (*acit*) breed attachment to matter itself — *māyā*. One bound by it does not serve Kṛṣṇa. Therefore even good morality (*sunīti*), highly honored in the eyes of the world, if it opposes the service of Kṛṣṇa, is a path contrary to Caitanya. One should consider the words from the Lord's own lips: “Unless one is *nirapekṣa*, *dharma* cannot be protected.” (*Caitanya-caritāmṛta*, Antya 3.23)
+
+## 213
+
+> Subheading: The Lord consoles the Ācārya and takes leave of him —
+
+## 216
+
+> Subheading: The Lord goes to Purī by the road through Chatrabhoga —
+
+***Chatrabhoga.*** In the Twenty-four Parganas district, on the southern branch of the E. B. R. line, is Magrāhāṭ station. Six or seven *krośas* southeast of it, two or three *krośas* south of Jayanagara, lies this village. Some call it “Khāḍi.” Here there is a Śiva-liṅga, “Vaijurkā-nātha”; in the month of Caitra, on the first day of the bright fortnight (*śukla-pratipad*), a fair called “Nandā” is held here. Now there is no Gaṅgā here. Āṭisārā is said to be near Bāruipura station on the same railway. See *Caitanya-bhāgavata*, Antya, Chapter 2.
+
+## 217
+
+> Subheading: The detailed description in the *Caitanya-bhāgavata* —
+
+The Lord entered Śrī Nīlācala after passing, in Bengal, the village of Āṭisārā, Varāhanagara and Ambuliṅga-Chatrabhoga, and in Utkala, Prayāga-ghāṭ, the Suvarṇarekhā, Jaleśvara, Remuṇā, Yājapura, the Vaitaraṇī, Daśāśvamedha-ghāṭ, Kaṭaka, the Mahānadī, Bhuvaneśvara (Bindu-sarovara), Kamalapura, Āṭhāranālā and other places.
+
+*Thus ends the third chapter of the “Anubhāṣya.”*
+
 ---
 
 [^1-1]: The edition prints «ত্বং গৌরং» (“to You, Gaura”) at the end of the glosses; the verse itself reads «তং» (“to that”).
@@ -421,3 +677,9 @@ In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣ
 [^85-1]: The edition reads «শ্রীমাধবসম্প্রদায়» (“the *sampradāya* of Śrī Mādhava”); the sense (Lakṣmīpati Tīrtha belonged to the Madhva *sampradāya*) requires Śrī Madhva.
 
 [^114-1]: The edition reads «সুখ» (“joy”); the sense of the line and the known text of the song require «দুখ» (“grief”).
+
+[^162-1]: “Ibid.” — that is, the *Bhakti-rasāmṛta-sindhu*; these definitions are in the Southern Division, third wave (on the *sāttvika-bhāvas*).
+
+[^185-1]: In the edition this paragraph is numbered 194; by its content (service as the desire to please Kṛṣṇa) and by the order of the sections it belongs to verse 185 (“I do not count my own happiness and sorrow; His happiness I take as my own”), while the next paragraph, on Haridāsa, belongs to verse 194.
+
+[^194-1]: In the edition this paragraph has no number and directly follows the one numbered 194 (see the note to section 185).
