@@ -1,0 +1,323 @@
+# English translation, Madhya-līlā 6 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya06.txt, .p2.txt), revised against the Bengali and the «Anubhāṣya».
+# Shift 1: verses 1–143; shift 2: 144–287.
+
+## 0
+tr: The Deliverance of Sārvabhauma
+
+## 1
+w: I bow down  to that  Gauracandra  who
+w: by false arguments  whose heart was hardened
+w: Sārvabhauma  the Lord of all
+w: of devotion  the great abode  made
+tr: I bow down to Gauracandra, the Lord of all, who turned Sārvabhauma, his heart hardened by false arguments, into a great abode of devotion.
+fn: Heading in the edition: “Obeisance to Gaura, who conquered Sārvabhauma”. *Anubhāṣya*: *sarva-bhūmā* — He whose greatness surpasses all that is not Kṛṣṇa, the Supreme Paramātmā Gauracandra; *kutarka* — false arguments, misconceptions about the nature of the jīva and its activity; *bhakti-bhūmānam ācarat* — He made him a vessel full of pure bhakti, that is, a servant of His feet. The verse plays on the words *sārvabhauma* (“lord of all the earth”), *sarva-bhūmā* and *bhakti-bhūmā*.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 4.2 (the refrain of Ādi 4.2 with *gauracandra* in the first line); translation as there.
+
+## 3
+w: in ecstasy  went  the Lord  to Jagannātha’s temple
+w: Jagannātha  seeing  in love  He became  restless
+tr: Absorbed in ecstasy, the Lord went to the temple of Jagannātha, and when He saw Jagannātha He was overwhelmed with love.
+
+## 4
+w: Jagannātha  to embrace  He went  running
+w: in the temple  He fell  with love  overwhelmed  being
+tr: He ran forward to embrace Jagannātha, but, overwhelmed with love, He fell down in the temple.
+
+## 5
+w: by providence  Sārvabhauma  Him  sees
+w: the temple superintendent  from striking  he  made  prevention
+tr: By providence Sārvabhauma saw Him there, and he stopped the temple superintendent (*paḍichā*) from striking Him.
+fn: *Amṛta-pravāha-bhāṣya*: the *paḍichā* is a temple officer, a kind of overseer; this *paḍichā* was a disciple of Sārvabhauma. Heading in the edition: “Sārvabhauma happens to see the Lord and saves Him from a blow”.
+
+## 6
+w: the Lord’s  beauty  and  of love  the transformations
+w: seeing  Sārvabhauma  became  amazed  boundlessly
+tr: Seeing the Lord’s beauty and the transformations of love in His body, Sārvabhauma was amazed beyond measure.
+
+## 7
+w: for a long time  consciousness  is not  of the offering  the time  came
+w: Sārvabhauma  in his mind  then  a means  considered
+tr: For a long time the Lord did not regain consciousness, and the time came to offer food to Jagannātha. Then Sārvabhauma considered what to do.
+
+## 8
+w: by disciples  and temple superintendents  had (Him)  carried
+w: to his house  bringing  in a pure  place  he kept (Him)  lying
+tr: With the help of his disciples and the temple superintendents he had Him carried to his house and laid Him down in a pure place.
+fn: *Anubhāṣya*: Sārvabhauma then lived south of the temple, in Bālukhaṇḍa, on the bank of the Mārkaṇḍeya-saras pond; the house is now known as the Gaṅgāmātā Maṭha.
+
+## 9
+w: breathing in and out  there is not  of the abdomen  movement
+w: seeing  anxious  became  the Bhaṭṭācārya’s  mind
+tr: There was no breath and no movement of the abdomen; seeing this, the Bhaṭṭācārya grew anxious.
+
+## 10
+w: fine  cotton  bringing  at the tip of the nostrils  he held
+w: slightly  moves  the cotton  seeing  composure  came
+tr: He brought a fine wisp of cotton and held it before the Lord’s nostrils, and when he saw the cotton stir slightly, he grew calmer.
+
+## 11
+w: sitting  the Bhaṭṭācārya  in his mind  makes  reflection
+w: this  of great love for Kṛṣṇa  the sāttvika  transformation
+tr: Sitting there, the Bhaṭṭācārya reflected: “This is a *sāttvika* transformation of great love for Kṛṣṇa.
+
+## 12
+w: sūddīpta  sāttvika  this  the name  which  pralaya
+w: in eternally  perfect  devotees  that  sūddīpta  bhāva  occurs
+tr: This swoon, called *pralaya*, is a *sūddīpta sāttvika*, the ecstatic symptom at its most blazing; such *sūddīpta bhāva* appears only in eternally perfect devotees.
+fn: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu* and the *Ujjvala-nīlamaṇi*): the *sāttvika* symptoms may be “smouldering”, “flaming”, “burning” or “blazing” (*uddīpta*); *sūddīpta* is a special kind of the blazing, when all the *sāttvika* symptoms, multiplied many times over, reach the highest limit of prema. An eternally perfect (*nitya-siddha*) devotee is an eternal associate of the Lord.
+
+## 13
+w: adhirūḍha-mahābhāva  in whom  his  this  transformation
+w: of a human being  in the body  I see  very  astonishing
+tr: This transformation belongs to one who has *adhirūḍha-mahābhāva*. That I should see it in a human body is astonishing indeed!”
+fn: *Anubhāṣya*: *adhirūḍha-mahābhāva* is beyond the reach even of the queens of Dvārakā — only the gopīs of Vraja experience it; its highest stage, *mādana*, is found in Śrī Rādhikā alone. Heading in the edition: “Unworldly *mahābhāva* in the Lord’s body”.
+
+## 14
+w: thus  thinking  the Bhaṭṭācārya  remains  sitting
+w: Nityānanda and the others  at the Lion Gate  arrived  going
+tr: While the Bhaṭṭācārya sat there thinking this, Nityānanda and the others arrived at the Lion Gate.
+
+## 15
+w: there  hearing  people  speak  among themselves  the talk
+w: such a  sannyāsī  coming  seeing  Jagannātha
+tr: There they heard people talking among themselves: “Such a sannyāsī came here and saw Jagannātha.
+fn: Heading in the edition: “Nityānanda and His companions come from Āṭhāranālā to Purī and hear from the people that the Lord is in the Bhaṭṭācārya’s house”.
+
+## 16
+w: unconscious  He became  consciousness  not  is  in the body
+w: Sārvabhauma  taking (Him)  went  to his own  house
+tr: He fell unconscious and showed no sign of life, and Sārvabhauma took Him to his own house.”
+
+## 17
+w: hearing  all  understood  this  Mahāprabhu’s  doing
+w: at that time  came  there  Gopīnātha Ācārya
+tr: Hearing this, they all understood that it was Mahāprabhu’s doing. Just then Gopīnātha Ācārya came there.
+
+## 18
+w: of Nadīyā  a resident  of Viśārada  the son-in-law
+w: Mahāprabhu’s  devotee  he  of the Lord  the truth  knowing
+tr: He was a resident of Nadīyā and the son-in-law of Viśārada, a devotee of Mahāprabhu who knew the truth about the Lord.
+fn: *Anubhāṣya*: Maheśvara Viśārada, a fellow student of Nīlāmbara Cakravartī, lived in Vidyānagara near Samudragaḍa; his sons were Madhusūdana Vācaspati and Vāsudeva Sārvabhauma, and his son-in-law was Gopīnātha Ācārya, the husband of Sārvabhauma’s sister.
+
+## 19
+w: with Mukunda  previously  there is  acquaintance
+w: Mukunda  seeing  his  became  surprise
+tr: He had known Mukunda before, and he was surprised to see him there.
+
+## 20
+w: Mukunda  him  seeing  made  obeisance
+w: he  embracing (him)  asks  of the Lord  the news
+tr: On seeing him, Mukunda bowed down, and Gopīnātha embraced him and asked for news of the Lord.
+
+## 21
+w: Mukunda  says  of the Lord  here  has been  the coming
+w: we all  have come  Mahāprabhu  with
+tr: Mukunda said, “The Lord has come here, and we have all come with Mahāprabhu.”
+
+## 22
+w: to Nityānanda Gosāñi  the Ācārya  made  obeisance
+w: all  meeting  he asks  of the Lord  news  again  and again
+tr: The Ācārya bowed down to Nityānanda Gosāñi and, meeting them all, asked again and again for news of the Lord.
+
+## 23
+w: Mukunda  says  Mahāprabhu  sannyāsa  having taken
+w: to Nīlācala  came  with (Him)  us all  taking
+tr: Mukunda said, “After taking sannyāsa, Mahāprabhu came to Nīlācala and brought us all with Him.
+
+## 24
+w: us all  leaving  ahead  He went  for darśana
+w: we all  behind  came  of Him  in search
+tr: He left us and went on ahead for darśana, and we have followed in search of Him.
+
+## 25
+w: among themselves  of the people  from the mouths  what  talk  we heard
+w: in Sārvabhauma’s house  the Lord  inference  we made
+tr: From what we heard people saying among themselves, we have gathered that the Lord is in Sārvabhauma’s house.
+
+## 26
+w: of the Lord  at the sight  the Lord  in love  unconscious
+w: Sārvabhauma  taking (Him)  went  to his own  house
+tr: At the sight of Jagannātha the Lord fell unconscious in love, and Sārvabhauma took Him to his own house.
+
+## 27
+w: with you  for meeting  when  my  was  mind
+w: by providence  at that  moment  I got  your  sight
+tr: Just as I was wishing to meet you, by providence I saw you at that very moment.
+
+## 28
+w: come  all  let us go  Sārvabhauma’s  to the house
+w: the Lord  seeing  afterwards  we shall have  of the Lord  darśana
+tr: Come, let us all go to Sārvabhauma’s house. After seeing the Lord, we shall have darśana of Jagannātha.”
+fn: Heading in the edition: “Love for the Lord is greater than for Jagannātha”.
+
+## 29
+w: this  hearing  Gopīnātha  all  taking
+w: to Sārvabhauma’s house  went  delighted  being
+tr: Hearing this, Gopīnātha joyfully took them all to Sārvabhauma’s house.
+
+## 30
+w: to Sārvabhauma’s place  going  the Lord  he saw
+w: the Lord  seeing  of the Ācārya  sorrow and joy  arose
+tr: When he came to Sārvabhauma’s house and saw the Lord, the Ācārya felt both sorrow and joy.
+
+## 31
+w: Sārvabhauma  informing  all  he took  inside
+w: to Nityānanda Gosāñi  he  made  obeisance
+tr: The Ācārya informed Sārvabhauma and brought them all inside, and Sārvabhauma bowed down to Nityānanda Gosāñi.
+
+## 32
+w: all  with  as befitting  he made  meeting
+w: the Lord  seeing  of all  became  joyful  the minds
+tr: He greeted each of them as was fitting, and all rejoiced at the sight of the Lord.
+
+## 33
+w: Sārvabhauma  sent  all  darśana  to have
+w: Candaneśvara  his own son  he gave  of all  along with
+tr: Sārvabhauma sent them all for darśana and gave them his own son, Candaneśvara, to go with them.
+
+## 34
+w: Jagannātha  seeing  of all  there was  joy
+w: in ecstasy  absorbed  became  Prabhu  Nityānanda
+tr: Seeing Jagannātha, everyone was filled with joy, and Nityānanda Prabhu was overcome with ecstasy.
+
+## 35
+w: all  together  holding  Him  steady  made
+w: of the Lord  the servant  garland-prasāda  bringing  gave
+tr: Together they held Him and steadied Him, and a servant of Jagannātha brought them His garland and prasāda.
+
+## 36
+w: prasāda  receiving  all  became  joyful  in mind
+w: once again  came  all  Mahāprabhu’s  to the place
+tr: Receiving the prasāda, they all rejoiced, and they came back to Mahāprabhu.
+
+## 37
+w: loudly  making  perform  all  of the name  saṁkīrtana
+w: in the third  watch  came  of the Lord  consciousness
+tr: They all chanted the holy name loudly together, and in the third *prahara* of the day, after noon, the Lord regained consciousness.
+
+## 38
+w: a roar  making  He rises  Hari  Hari  saying
+w: in joy  Sārvabhauma  His  took  the dust of the feet
+tr: With a roar He rose up, crying, “Hari! Hari!”, and Sārvabhauma joyfully took the dust of His feet.
+
+## 39
+w: Sārvabhauma  says  quickly  perform  the midday duties
+w: I  alms  shall give  today  mahā-prasāda
+tr: Sārvabhauma said, “Quickly finish Your midday duties. Today I shall offer You mahā-prasāda as alms.”
+
+## 40
+w: in the sea  bath  having taken  the Lord  quickly  came
+w: the feet  washing  the Lord  on a seat  sat
+tr: The Lord bathed in the sea and quickly returned. He washed His feet and sat down on His seat.
+
+## 41
+w: much  prasāda  Sārvabhauma  had brought
+w: then  Mahāprabhu  happily  eating  did
+tr: Sārvabhauma had a great quantity of prasāda brought, and Mahāprabhu happily took His meal.
+
+## 42
+w: on golden plates  rice  excellent  vegetables
+w: with the devotees  the Lord  does  eating
+tr: Rice and excellent vegetable dishes were served on golden plates, and the Lord ate together with His devotees.
+
+## 43
+w: Sārvabhauma  serving  does  himself
+w: the Lord  says  to Me  give  lāphrā vegetables
+tr: Sārvabhauma served them himself. The Lord said, “Give Me the *lāphrā*, the plain mixed vegetables,
+fn: *Anubhāṣya*: *lāphrā-vyañjana* is a vegetable dish in which various vegetables are stewed together and seasoned with cumin, pepper and mustard.
+
+## 44
+w: cakes and sweet drinks  give  you  to all these
+w: to all  the Bhaṭṭācārya  says  joining  two  hands
+tr: and give the cakes and sweet drinks to all of them.” With folded hands the Bhaṭṭācārya said to them all:
+
+## 45
+w: Jagannātha  as  has done  eating
+w: today  all  mahā-prasāda  do  tasting
+tr: Today you must all relish the mahā-prasāda, just as Jagannātha has eaten it.”
+
+## 46
+w: so  saying  cakes and sweet drinks  all  he fed
+w: the meal  having given  rinsing of the mouth  he had them do
+tr: Saying this, he fed them all the cakes and sweet drinks, and when they had eaten he gave them water to rinse their mouths.
+
+## 47
+w: permission  asking  Gopīnātha  Ācārya  taking
+w: of the Lord  near  came  eating  having done
+tr: Then, taking leave, he went with Gopīnātha Ācārya to eat, and after eating he came back to the Lord.
+
+## 48
+w: namo nārāyaṇāya  saying  obeisance  he made
+w: on Kṛṣṇa  the mind  may be  saying  Gosāñi  spoke
+tr: Saying, “*Namo nārāyaṇāya*”, he bowed down to the Lord, and Gosāñi replied, “*Kṛṣṇe matir astu* — may your mind be fixed on Kṛṣṇa!”
+fn: *Anubhāṣya*: it is customary to greet sannyāsīs with the words *oṁ namo nārāyaṇāya*. The smṛti rule for sannyāsīs is to give neither blessings nor obeisances, but a Vaiṣṇava sannyāsī knows himself to be a servant of Kṛṣṇa and so gives everyone the compassionate blessing, “May your mind be fixed on Kṛṣṇa’s lotus feet.”
+
+## 49
+w: hearing  Sārvabhauma  in his mind  consideration  made
+w: a Vaiṣṇava sannyāsī  He  by His words  he knew
+tr: Hearing this, Sārvabhauma reflected, and from His words he understood that He was a Vaiṣṇava sannyāsī.
+
+## 50
+w: to Gopīnātha  Ācārya  says  Sārvabhauma
+w: of Gosāñi  to know  I want  what  the former āśrama
+tr: Sārvabhauma said to Gopīnātha Ācārya, “I would like to know about Gosāñi’s life before He took sannyāsa.”
+fn: *Anubhāṣya*: *pūrvāśrama* — the name by which He was known and the place where He lived as a householder, before taking sannyāsa.
+
+## 51
+w: Gopīnātha Ācārya  says  in Navadvīpa  home
+w: Jagannātha  name  title  Miśra Purandara
+tr: Gopīnātha Ācārya said, “His home is in Navadvīpa. There lived a man named Jagannātha, whose title was Miśra Purandara.
+
+## 52
+w: Viśvambhara  name  His  his  He  son
+w: of Nīlāmbara  Cakravartī  He is  the daughter’s son
+tr: This is his son, named Viśvambhara. He is also the grandson of Nīlāmbara Cakravartī, his daughter’s son.”
+
+## 53
+w: Sārvabhauma  says  Nīlāmbara  Cakravartī
+w: of Viśārada  a fellow student  this  his  fame
+tr: Sārvabhauma said, “Nīlāmbara Cakravartī is known as a fellow student of Viśārada.
+
+## 54
+w: Miśra Purandara  by him  respected  this  I know
+w: of my father  through the connection  both  worthy of honour  making  I regard
+tr: Miśra Purandara, I know, was respected by him. Because of their bond with my father, I honour them both.”
+
+## 55
+w: with Nadīyā  through the connection  Sārvabhauma  glad  became
+w: pleased  being  to Gosāñi  to speak  began
+tr: Sārvabhauma was glad to find this connection with Nadīyā, and in his pleasure he began to speak to Gosāñi.
+
+## 56
+w: naturally  worthy of worship  You  moreover  indeed  sannyāsa
+w: therefore  am  Your  I  own servant
+tr: “You are worthy of honour by Your very nature, and on top of that You are a sannyāsī. Therefore I am Your own servant.”
+fn: *Anubhāṣya*: by the excellence of Your nature You are worthy of my worship, and by Your outward āśrama, as a sannyāsī, of the worship of householders like us; so I am Your servant.
+
+## 57
+w: hearing  Mahāprabhu  made  of Śrī Viṣṇu  remembrance
+w: to the Bhaṭṭācārya  says  some  humble words
+tr: Hearing this, Mahāprabhu remembered Śrī Viṣṇu and spoke some humble words to the Bhaṭṭācārya.
+fn: Heading in the edition: “The humility of the Lord, who honours others (*mānada-dharma*)”.
+
+## 58
+w: you  the teacher of the world  of all people  the benefactor
+w: Vedānta  you teach  of sannyāsīs  the helper
+tr: “You are the teacher of the whole world and the benefactor of all people. You teach Vedānta, and you are a helper of sannyāsīs.
+
+## 59
+w: I  a boy sannyāsī  good and bad  not  know
+w: your  shelter  I have taken  guru  making  I regard
+tr: I am a young sannyāsī who does not know good from bad. I have taken shelter of you, and I regard you as My guru.
+
+## 60
+w: your  association  for the sake of  My  here  coming
+w: in every  way  you will  Me  protect
+tr: I have come here for your company alone. Please take care of Me in every way.
