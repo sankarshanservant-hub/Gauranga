@@ -13,3 +13,11 @@
 | aruṇa vasana | a garment the colour of dawn | 8.18 (as in 7.79) |
 | svābhāvika prema | the love natural to them | 8.23 |
 | vijātīya loka | people who were strangers to such feelings | 8.28 |
+| viṣayī | a worldly man | 8.35 (as in 7.63) |
+| mahad-vicalana | the coming (visit) of great souls | 8.40 |
+| ākṛti, prakṛti | form, nature | 8.43 |
+| mahā-bhāgavatottama | the best of the great devotees (*mahā-bhāgavata*) | 8.44 |
+| sādhya | the goal (*sādhya*) | 8.57 ff. (as in the *Amṛta-pravāha-bhāṣya* EN) |
+| sādhya-sāra, sarva-sādhya-sāra | the essence of (all) goals | 8.59 ff. |
+| bāhya | external | 8.59 ff. |
+| varṇāśramācāra | the conduct of *varṇa* and *āśrama* | 8.58 |
