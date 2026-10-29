@@ -46,7 +46,7 @@ w: as before  on the road  going  whoever  received  sight
 w: to whichever  village  He went  of that  village  all  the people
 w: all  Vaiṣṇavas  become  say  “Kṛṣṇa”  “Hari”
 w: other  villages  deliver  them  Vaiṣṇavas  making
-tr: As before, whoever saw Him on the road and all the people of every village He came to became Vaiṣṇavas and chanted “Kṛṣṇa” and “Hari.” They in turn delivered other villages, making their people Vaiṣṇavas.
+tr: As before, all who saw Him on the road, and all the people of every village He came to, became Vaiṣṇavas and chanted “Kṛṣṇa” and “Hari.” They in turn delivered other villages, making their people Vaiṣṇavas.
 
 ## 9
 w: of the south  of the land  the people  of many  kinds
@@ -57,17 +57,17 @@ fn: *Amṛta-pravāha-bhāṣya*: the *pāṣaṇḍīs* (unbelievers) are the *
 ## 10
 w: those  all  people  of the Lord  of the sight  by the power
 w: their  own  doctrines  giving up  became  Vaiṣṇavas
-tr: By the power of seeing the Lord, all those people gave up their own doctrines and became Vaiṣṇavas.
+tr: Such was the power of the Lord’s *darśana* that all those people gave up their own doctrines and became Vaiṣṇavas.
 
 ## 11
-w: the Vaiṣṇavas  among  of Rāma  worshipers  all
+w: the Vaiṣṇavas  among  of Rāma  worshippers  all
 w: some  Tattvavādīs  some  were  Śrī Vaiṣṇavas
-tr: Among the Vaiṣṇavas, all were worshipers of Rāma: some were Tattvavādīs, and some were Śrī Vaiṣṇavas.
+tr: The Vaiṣṇavas there all worshipped Rāma: some were Tattvavādīs, and some were Śrī Vaiṣṇavas.
 
 ## 12
 w: those  all  Vaiṣṇavas  of Mahāprabhu  upon seeing
-w: of Kṛṣṇa  worshipers  became  take  the name of Kṛṣṇa
-tr: Upon seeing Mahāprabhu, all those Vaiṣṇavas became worshipers of Kṛṣṇa and took up the name of Kṛṣṇa.
+w: of Kṛṣṇa  worshippers  became  take  the name of Kṛṣṇa
+tr: Upon seeing Mahāprabhu, all those Vaiṣṇavas became worshippers of Kṛṣṇa and took up the name of Kṛṣṇa.
 
 ## 13
 w: Rāma  descendant of Raghu  Rāma  descendant of Raghu  Rāma  descendant of Raghu  save  me
@@ -137,7 +137,7 @@ tr: The brāhmaṇa said, “This is by the power of seeing You. When I saw You,
 ## 26
 w: from childhood  of the name of Rāma  the taking  mine
 w: You  seeing  the name of Kṛṣṇa  came  once
-tr: From childhood I have chanted the name of Rāma. When I saw You, the name of Kṛṣṇa came to me once.
+tr: From childhood I have chanted the name of Rāma. But when I saw You, the name of Kṛṣṇa came to me — just once.
 
 ## 27
 w: from that  time  the name of Kṛṣṇa  on my tongue  sat
@@ -233,7 +233,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the logicians (*tārkikas*) are the Naiyāyika
 ## 43
 w: of their own  scriptures  in insisting  all  fierce
 w: all  doctrines  finding fault  the Lord  makes  to pieces  to pieces
-tr: All of them were fierce in insisting on their own scriptures, but the Lord exposed the faults of every doctrine and broke them to pieces.
+tr: All of them were fierce in upholding their own scriptures, but the Lord exposed the faults of every doctrine and broke them to pieces.
 
 ## 44
 w: everywhere  establishes  the Lord  the Vaiṣṇava conclusion
@@ -243,7 +243,7 @@ tr: Everywhere the Lord established the Vaiṣṇava siddhānta, and no one coul
 ## 45
 w: defeated  defeated  into the Lord’s doctrine  they make  entry
 w: in this way  Vaiṣṇava  He made  the southern  land
-tr: Defeated again and again, they entered into the Lord’s doctrine. In this way He made the South Vaiṣṇava.
+tr: Defeated again and again, they came over to the Lord’s teaching, and in this way He made the South Vaiṣṇava.
 
 ## 46
 w: the unbelievers  came  all  of His learning  hearing
@@ -309,9 +309,9 @@ w: all  coming  at the Lord’s feet  took  shelter
 tr: All the disciples cried out in lamentation and wept. They came and took shelter at the Lord’s feet:
 
 ## 58
-w: You  indeed  the Lord  Himself  forgive  the offense
+w: You  indeed  the Lord  Himself  forgive  the offence
 w: bring back to life  our  guru  show  mercy
-tr: “You are the Lord Himself. Forgive our offense. Bring our guru back to life — be merciful!”
+tr: “You are the Lord Himself. Forgive our offence. Bring our guru back to life — be merciful!”
 
 ## 59
 w: the Lord  says  all  say  “Kṛṣṇa”  “Kṛṣṇa”  “Hari”
@@ -612,7 +612,7 @@ w: by siddhānta  indeed  in non-difference  although
 w: of the Lord of Śrī  of Kṛṣṇa  of the forms
 w: by rasa  excels  of Kṛṣṇa
 w: the form  such  of rasa  the nature
-tr: “By the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are not different in Their essential form. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
+tr: “Although, by the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are one in essence, in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
 fn: *Anubhāṣya*: in essence Nārāyaṇa and Kṛṣṇa are not different, but in rasa it is the form of Kṛṣṇa that excels; see Ādi, chapters 2 and 3, and the *Laghu-bhāgavatāmṛta*.
 
 ## 118
@@ -647,7 +647,7 @@ w: who have restrained  breath  mind  senses  in firm  yoga  engaged  in the hea
 w: the sages  worship  that  the enemies  even  attained  by remembering
 w: the women  of the king of serpents  like the coils  to the arms  attached  in mind
 w: we  also  of You  equal  who see all equally  of the lotus feet  the nectar
-tr: “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)
+tr: “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them and following their mood, taste that nectar.” (Śrīmad-Bhāgavatam, 10.87.23)
 
 ## 124
 w: the Śrutis  obtain  Lakṣmī  not  obtains  in this  what  the reason
@@ -682,7 +682,7 @@ tr: One, regarding Him as her son, ties Him to a mortar; another, regarding Him 
 ## 130
 w: as the son of Vraja’s king  calling  Him  know  the people of Vraja
 w: in awareness of majesty  no  any  relationship  acknowledgment
-tr: The people of Vraja know Him as the son of the king of Vraja; they acknowledge no relationship with Him based on awareness of His majesty.
+tr: The people of Vraja know Him as the son of the king of Vraja; no thought of His majesty enters into their relationship with Him.
 
 ## 131
 w: of the people of Vraja  in the mood  whoever  performs  worship
@@ -699,7 +699,7 @@ tr: “This Bhagavān, the son of the gopī, is not so easily attained by the em
 ## 133
 w: the Śrutis  of the gopīs  followers  becoming
 w: the son of Vraja’s queen  they worship  the mood of the gopīs  taking
-tr: The Śrutis became followers of the gopīs and worshiped the son of the queen of Vraja, taking on the mood of the gopīs.
+tr: The Śrutis became followers of the gopīs and worshipped the son of the queen of Vraja, taking on the mood of the gopīs.
 fn: *Amṛta-pravāha-bhāṣya*: the Śrutis could not enter the *rāsa* circle while they took the gopīs’ mood only in the heart; when they took it both in body and in heart, they followed the gopīs and entered Kṛṣṇa’s *rāsa* dance. Lakṣmī, however, prayed for Kṛṣṇa’s company in her own body and did not serve Him by following the gopīs’ love, and so she did not attain the *rāsa* pastimes.
 
 ## 134
@@ -763,14 +763,14 @@ tr: Kṛṣṇa has extraordinary qualities beyond Nārāyaṇa’s; that is why
 ## 145
 w: you  which  recited  the verse  it  is  the proof
 w: in that  verse  it comes out  Kṛṣṇa  Himself  Bhagavān
-tr: The verse you recited is itself the proof: that verse shows that Kṛṣṇa is Svayam Bhagavān.
+tr: The very verse you recited is the proof: it shows that Kṛṣṇa is Svayam Bhagavān.
 
 ## 146
 w: by siddhānta  indeed  in non-difference  although
 w: of the Lord of Śrī  of Kṛṣṇa  of the forms
 w: by rasa  excels  of Kṛṣṇa
 w: the form  such  of rasa  the nature
-tr: “By the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are not different in Their essential form. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
+tr: “Although, by the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are one in essence, in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
 fn: The same verse as 117.
 
 ## 147
@@ -818,8 +818,8 @@ tr: One and the same form assumes various appearances. Know the truth: there is 
 
 ## 155
 w: through the gopīs  Lakṣmī  makes  of Kṛṣṇa’s company  tasting
-w: in Godhood  difference  if one admits  there is  an offense
-tr: Through the gopīs, Lakṣmī tastes the joy of Kṛṣṇa’s company. To see any difference in Their Godhood is an offense.
+w: in Godhood  difference  if one admits  there is  an offence
+tr: Through the gopīs, Lakṣmī tastes the joy of Kṛṣṇa’s company. To see any difference in Their Godhood is an offence.
 
 ## 156
 w: one  Lord  of the devotee  to the meditation  according
@@ -831,7 +831,7 @@ w: a gem  as  by the difference (of setting)
 w: with blue  yellow and so on  joined
 w: difference of form  attains
 w: by difference of meditation  so  Acyuta
-tr: “As a gem joined with blue, yellow and other colors appears different, so Acyuta takes different forms according to the meditation of the worshiper.” (Śrī Nārada-pañcarātra)
+tr: “As a gem joined with blue, yellow and other colours appears different, so Acyuta takes different forms according to the meditation of the worshipper.” (Śrī Nārada-pañcarātra)
 
 ## 158
 w: the Bhaṭṭa  says  where  I  a jīva  fallen
@@ -1069,7 +1069,7 @@ tr: When Sītā saw Rāvaṇa, she took shelter of Agni, and Agni hid her from R
 ## 204
 w: a māyā-Sītā  Rāvaṇa  took  He heard  in the story
 w: hearing  Mahāprabhu  became  joyful  at heart
-tr: He heard in the story that Rāvaṇa had taken a “*māyā-Sītā*,” and hearing it, Mahāprabhu rejoiced at heart.
+tr: Hearing in the story that Rāvaṇa had carried off a “*māyā-Sītā*,” Mahāprabhu rejoiced at heart.
 
 ## 205
 w: Sītā  taking  he kept her  with Pārvatī
@@ -1292,7 +1292,7 @@ tr: He saw the supremely enchanting “Nartaka-gopāla,” the dancing Gopāla, 
 ## 247
 w: beneath gopī-candana  He lay  in a boat
 w: to Madhvācārya  He came  somehow
-tr: He had lain beneath a load of *gopī-candana* in a boat, and somehow He came to Madhvācārya.
+tr: Lying in a boat beneath a load of *gopī-candana*, He somehow came to Madhvācārya.
 
 ## 248
 w: Madhvācārya  bringing  Him  made  installation
@@ -1322,7 +1322,7 @@ tr: Knowing that in their hearts they all took pride in their “Vaiṣṇavism,
 ## 253
 w: of them all  in the hearts  pride  knowing  Gauracandra
 w: with them all  a discussion  He made  beginning
-tr: Knowing the pride in their hearts, Gauracandra began a discussion with them all.
+tr: Aware of the pride in their hearts, Gauracandra began a discussion with them all.
 
 ## 254
 w: of the Tattvavādīs  the ācārya  in all  the scriptures  learned
@@ -1605,7 +1605,7 @@ tr: When the two had thus talked together of their Beloved (*iṣṭa-goṣṭh�
 ## 303
 w: for four days  there  the Lord  kept  the brāhmaṇa
 w: in the river Bhīmā  a bath  taking  He has  of Viṭhṭhala  darśana
-tr: The brāhmaṇa kept the Lord there for four days. He bathed in the river Bhīmā and had *darśana* of Viṭhṭhala.
+tr: The brāhmaṇa kept the Lord there for four days, and the Lord bathed in the river Bhīmā and had *darśana* of Viṭhṭhala.
 
 ## 304
 w: then  Mahāprabhu  came  to the bank of the Kṛṣṇaveṇvā
@@ -1691,7 +1691,7 @@ tr: Hearing of the Lord’s arrival, Rāmānanda Rāya came joyfully and met Him
 ## 320
 w: like a rod  becoming  he falls  the feet  clasping
 w: an embrace  made  the Lord  him  raising
-tr: He fell flat like a rod, clasping the Lord’s feet, and the Lord raised him and embraced him.
+tr: He fell flat in obeisance, clasping the Lord’s feet, and the Lord raised him and embraced him.
 
 ## 321
 w: the two  persons  in ecstatic love  make  weeping
@@ -1915,7 +1915,7 @@ tr: The pastimes of Caitanya-candra are fathomless and deep. I cannot enter them
 ## 364
 w: Caitanya’s deeds  with faith  hears  who  person
 w: as much as  he reflects  so much  obtains  the treasure of love
-tr: Whoever hears the deeds of Caitanya with faith obtains the treasure of love in the measure that he reflects on them.
+tr: Whoever hears the deeds of Caitanya with faith gains the treasure of love: the more he reflects on them, the more he gains.
 
 ## 365
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope

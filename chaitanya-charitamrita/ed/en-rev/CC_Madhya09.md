@@ -83,7 +83,7 @@ all  Vaiṣṇavas  become  say  “Kṛṣṇa”  “Hari”
 anya grāma nistāraye sei ‘vaiṣṇava’ kari’  
 other  villages  deliver  them  Vaiṣṇavas  making
 
-(7–8) As before, whoever saw Him on the road and all the people of every village He came to became Vaiṣṇavas and chanted “Kṛṣṇa” and “Hari.” They in turn delivered other villages, making their people Vaiṣṇavas.
+(7–8) As before, all who saw Him on the road, and all the people of every village He came to, became Vaiṣṇavas and chanted “Kṛṣṇa” and “Hari.” They in turn delivered other villages, making their people Vaiṣṇavas.
 
 দক্ষিণ দেশের লোক অনেক প্রকার ৷  
 কেহ জ্ঞানী, কেহ কর্ম্মী, পাষণ্ডী অপার ॥ ৯ ॥
@@ -103,17 +103,17 @@ those  all  people  of the Lord  of the sight  by the power
 nija-nija-mata chāḍi’ haila vaiṣṇave  
 their  own  doctrines  giving up  became  Vaiṣṇavas
 
-(10) By the power of seeing the Lord, all those people gave up their own doctrines and became Vaiṣṇavas.
+(10) Such was the power of the Lord’s *darśana* that all those people gave up their own doctrines and became Vaiṣṇavas.
 
 বৈষ্ণবের মধ্যে রাম-উপাসক সব ৷  
 কেহ ‘তত্ত্ববাদী’, কেহ হয় ‘শ্রীবৈষ্ণব’ ॥ ১১ ॥
 
 vaiṣṇavera madhye rāma-upāsaka saba  
-the Vaiṣṇavas  among  of Rāma  worshipers  all  
+the Vaiṣṇavas  among  of Rāma  worshippers  all  
 keha ‘tattvavādī’, keha haya ‘śrī-vaiṣṇava’  
 some  Tattvavādīs  some  were  Śrī Vaiṣṇavas
 
-(11) Among the Vaiṣṇavas, all were worshipers of Rāma: some were Tattvavādīs, and some were Śrī Vaiṣṇavas.
+(11) The Vaiṣṇavas there all worshipped Rāma: some were Tattvavādīs, and some were Śrī Vaiṣṇavas.
 
 সেই সব বৈষ্ণব মহাপ্রভুর দর্শনে ৷  
 কৃষ্ণ-উপাসক হৈল, লয় কৃষ্ণনামে ॥ ১২ ॥
@@ -121,9 +121,9 @@ some  Tattvavādīs  some  were  Śrī Vaiṣṇavas
 sei saba vaiṣṇava mahāprabhura darśane  
 those  all  Vaiṣṇavas  of Mahāprabhu  upon seeing  
 kṛṣṇa-upāsaka haila, laya kṛṣṇa-nāme  
-of Kṛṣṇa  worshipers  became  take  the name of Kṛṣṇa
+of Kṛṣṇa  worshippers  became  take  the name of Kṛṣṇa
 
-(12) Upon seeing Mahāprabhu, all those Vaiṣṇavas became worshipers of Kṛṣṇa and took up the name of Kṛṣṇa.
+(12) Upon seeing Mahāprabhu, all those Vaiṣṇavas became worshippers of Kṛṣṇa and took up the name of Kṛṣṇa.
 
 রাম! রাঘব! রাম! রাঘব! রাম! রাঘব! পাহি মাম্ ৷  
 কৃষ্ণ! কেশব! কৃষ্ণ! কেশব! কৃষ্ণ! কেশব! রক্ষ মাম্ ॥ ১৩ ॥
@@ -263,7 +263,7 @@ from childhood  of the name of Rāma  the taking  mine
 tomā dekhi’ kṛṣṇa-nāma āila eka-bāra  
 You  seeing  the name of Kṛṣṇa  came  once
 
-(26) From childhood I have chanted the name of Rāma. When I saw You, the name of Kṛṣṇa came to me once.
+(26) From childhood I have chanted the name of Rāma. But when I saw You, the name of Kṛṣṇa came to me — just once.
 
 সেই হৈতে কৃষ্ণনাম জিহ্বাতে বসিলা ৷  
 কৃষ্ণনাম স্ফুরে, রামনাম দূরে গেলা ॥ ২৭ ॥
@@ -449,7 +449,7 @@ of their own  scriptures  in insisting  all  fierce
 sarva mata duṣi’ prabhu kare khaṇḍa khaṇḍa  
 all  doctrines  finding fault  the Lord  makes  to pieces  to pieces
 
-(43) All of them were fierce in insisting on their own scriptures, but the Lord exposed the faults of every doctrine and broke them to pieces.
+(43) All of them were fierce in upholding their own scriptures, but the Lord exposed the faults of every doctrine and broke them to pieces.
 
 সর্ব্বত্র স্থাপয় প্রভু বৈষ্ণবসিদ্ধান্তে ৷  
 প্রভুর সিদ্ধান্ত কেহ না পারে খণ্ডিতে ॥ ৪৪ ॥
@@ -469,7 +469,7 @@ defeated  defeated  into the Lord’s doctrine  they make  entry
 ei-mate ‘vaiṣṇava’ karila dakṣiṇa deśa  
 in this way  Vaiṣṇava  He made  the southern  land
 
-(45) Defeated again and again, they entered into the Lord’s doctrine. In this way He made the South Vaiṣṇava.
+(45) Defeated again and again, they came over to the Lord’s teaching, and in this way He made the South Vaiṣṇava.
 
 পাষণ্ডী আইল যত পাণ্ডিত্য শুনিয়া ৷  
 গর্ব্ব করি’ আইল সঙ্গে শিষ্যগণ লঞা ॥ ৪৬ ॥
@@ -595,11 +595,11 @@ all  coming  at the Lord’s feet  took  shelter
 জীয়াও আমার গুরু, করহ প্রসাদ ॥ ৫৮ ॥
 
 tumi ta’ īśvara sākṣāt, kṣama aparādha  
-You  indeed  the Lord  Himself  forgive  the offense  
+You  indeed  the Lord  Himself  forgive  the offence  
 jīyāo āmāra guru, karaha prasāda  
 bring back to life  our  guru  show  mercy
 
-(58) “You are the Lord Himself. Forgive our offense. Bring our guru back to life — be merciful!”
+(58) “You are the Lord Himself. Forgive our offence. Bring our guru back to life — be merciful!”
 
 প্রভু কহে, সবে কহ ‘কৃষ্ণ’ ‘কৃষ্ণ’ ‘হরি’ ৷  
 গুরুকর্ণে কহ কৃষ্ণনাম উচ্চ করি’ ॥ ৫৯ ॥
@@ -1199,7 +1199,7 @@ by rasa  excels  of Kṛṣṇa
 rūpam eṣā rasa-sthitiḥ  
 the form  such  of rasa  the nature
 
-(117) “By the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are not different in Their essential form. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^13]
+(117) “Although, by the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are one in essence, in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^13]
 
 কৃষ্ণসঙ্গে পতিব্রতা-ধর্ম্ম নহে নাশ ৷  
 অধিক লাভ পাইয়ে, আর রাস-বিলাস ॥ ১১৮ ॥
@@ -1271,7 +1271,7 @@ the women  of the king of serpents  like the coils  to the arms  attached  in mi
 vayam api te samāḥ samadṛśo ’ṅghri-saroja-sudhāḥ  
 we  also  of You  equal  who see all equally  of the lotus feet  the nectar
 
-(123) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)
+(123) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them and following their mood, taste that nectar.” (Śrīmad-Bhāgavatam, 10.87.23)
 
 শ্রুতি পায়, লক্ষ্মী না পায়, ইথে কি কারণ ৷  
 ভট্ট কহে, — ইহা প্রবেশিতে নারে মোর মন ॥ ১২৪ ॥
@@ -1341,7 +1341,7 @@ as the son of Vraja’s king  calling  Him  know  the people of Vraja
 aiśvarya-jñāne nāhi kona sambandha-mānana  
 in awareness of majesty  no  any  relationship  acknowledgment
 
-(130) The people of Vraja know Him as the son of the king of Vraja; they acknowledge no relationship with Him based on awareness of His majesty.
+(130) The people of Vraja know Him as the son of the king of Vraja; no thought of His majesty enters into their relationship with Him.
 
 ব্রজলোকের ভাবে যেই করয়ে ভজন ৷  
 সেই ব্রজে পায় শুদ্ধ ব্রজেন্দ্রনন্দন ॥ ১৩১ ॥
@@ -1375,7 +1375,7 @@ the Śrutis  of the gopīs  followers  becoming
 vrajeśvarī-suta bhaje gopī-bhāva lañā  
 the son of Vraja’s queen  they worship  the mood of the gopīs  taking
 
-(133) The Śrutis became followers of the gopīs and worshiped the son of the queen of Vraja, taking on the mood of the gopīs.[^14]
+(133) The Śrutis became followers of the gopīs and worshipped the son of the queen of Vraja, taking on the mood of the gopīs.[^14]
 
 বাহ্যান্তরে গোপীদেহ ব্রজে যবে পাইল ৷  
 সেই দেহে কৃষ্ণসঙ্গে রাসক্রীড়া কৈল ॥ ১৩৪ ॥
@@ -1499,7 +1499,7 @@ you  which  recited  the verse  it  is  the proof
 sei śloke āise ‘kṛṣṇa — svayaṁ bhagavān’  
 in that  verse  it comes out  Kṛṣṇa  Himself  Bhagavān
 
-(145) The verse you recited is itself the proof: that verse shows that Kṛṣṇa is Svayam Bhagavān.
+(145) The very verse you recited is the proof: it shows that Kṛṣṇa is Svayam Bhagavān.
 
 সিদ্ধান্ততস্ত্বভেদেঽপি শ্রীশ-কৃষ্ণস্বরূপয়োঃ ৷  
 রসেনোৎকৃষ্যতে কৃষ্ণরূপমেষা রসস্থিতিঃ ॥ ১৪৬ ॥
@@ -1513,7 +1513,7 @@ by rasa  excels  of Kṛṣṇa
 rūpam eṣā rasa-sthitiḥ  
 the form  such  of rasa  the nature
 
-(146) “By the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are not different in Their essential form. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^16]
+(146) “Although, by the conclusion of the scriptures (*siddhānta*), the Lord of Śrī and Kṛṣṇa are one in essence, in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^16]
 
 ‘স্বয়ং ভগবান্ কৃষ্ণ’ হরে লক্ষ্মীর মন ৷  
 গোপীকার মন হরিতে নারে ‘নারায়ণ’ ॥ ১৪৭ ॥
@@ -1607,9 +1607,9 @@ between the gopīs and Lakṣmī  difference  there is no  know  the essential n
 gopī-dvāre lakṣmī kare kṛṣṇa-saṅgāsvāda  
 through the gopīs  Lakṣmī  makes  of Kṛṣṇa’s company  tasting  
 īśvaratve bheda mānile haya aparādha  
-in Godhood  difference  if one admits  there is  an offense
+in Godhood  difference  if one admits  there is  an offence
 
-(155) Through the gopīs, Lakṣmī tastes the joy of Kṛṣṇa’s company. To see any difference in Their Godhood is an offense.
+(155) Through the gopīs, Lakṣmī tastes the joy of Kṛṣṇa’s company. To see any difference in Their Godhood is an offence.
 
 এক ঈশ্বর — ভক্তের ধ্যান-অনুরূপ ৷  
 একই বিগ্রহে করে নানাকার রূপ ॥ ১৫৬ ॥
@@ -1633,7 +1633,7 @@ difference of form  attains
 dhyāna-bhedāt tathācyutaḥ  
 by difference of meditation  so  Acyuta
 
-(157) “As a gem joined with blue, yellow and other colors appears different, so Acyuta takes different forms according to the meditation of the worshiper.” (Śrī Nārada-pañcarātra)
+(157) “As a gem joined with blue, yellow and other colours appears different, so Acyuta takes different forms according to the meditation of the worshipper.” (Śrī Nārada-pañcarātra)
 
 ভট্ট কহে, — কাঁহা আমি জীব পামর ৷  
 কাঁহা তুমি সেই কৃষ্ণ, — সাক্ষাৎ ঈশ্বর ॥ ১৫৮ ॥
@@ -2103,7 +2103,7 @@ a māyā-Sītā  Rāvaṇa  took  He heard  in the story
 śuni’ mahāprabhu haila ānandita mane  
 hearing  Mahāprabhu  became  joyful  at heart
 
-(204) He heard in the story that Rāvaṇa had taken a “*māyā-Sītā*,” and hearing it, Mahāprabhu rejoiced at heart.
+(204) Hearing in the story that Rāvaṇa had carried off a “*māyā-Sītā*,” Mahāprabhu rejoiced at heart.
 
 সীতা লঞা রাখিলেন পার্ব্বতীর স্থানে ৷  
 ‘মায়াসীতা’ দিয়া অগ্নি বঞ্চিলা রাবণে ॥ ২০৫ ॥
@@ -2541,7 +2541,7 @@ beneath gopī-candana  He lay  in a boat
 madhvācārya-ṭhāñi āilā kona-mate  
 to Madhvācārya  He came  somehow
 
-(247) He had lain beneath a load of *gopī-candana* in a boat, and somehow He came to Madhvācārya.
+(247) Lying in a boat beneath a load of *gopī-candana*, He somehow came to Madhvācārya.
 
 মধ্বাচার্য্য আনি’ তাঁরে করিলা স্থাপন ৷  
 অদ্যাবধি সেবা করে তত্ত্ববাদিগণ ॥ ২৪৮ ॥
@@ -2601,7 +2601,7 @@ of them all  in the hearts  pride  knowing  Gauracandra
 tām̐-sabā-saṅge goṣṭhī karilā ārambha  
 with them all  a discussion  He made  beginning
 
-(253) Knowing the pride in their hearts, Gauracandra began a discussion with them all.
+(253) Aware of the pride in their hearts, Gauracandra began a discussion with them all.
 
 তত্ত্ববাদি-আচার্য্য — সব শাস্ত্রেতে প্রবীণ ৷  
 তাঁরে প্রশ্ন কৈল প্রভু হঞা যেন দীন ॥ ২৫৪ ॥
@@ -3138,7 +3138,7 @@ for four days  there  the Lord  kept  the brāhmaṇa
 bhīmā-nadī snāna kari’ karena viṭhṭhala darśana  
 in the river Bhīmā  a bath  taking  He has  of Viṭhṭhala  darśana
 
-(303) The brāhmaṇa kept the Lord there for four days. He bathed in the river Bhīmā and had *darśana* of Viṭhṭhala.
+(303) The brāhmaṇa kept the Lord there for four days, and the Lord bathed in the river Bhīmā and had *darśana* of Viṭhṭhala.
 
 তবে মহাপ্রভু আইলা কৃষ্ণবেণ্বা-তীরে ৷  
 নানা তীর্থ দেখি’ তাঁহা দেবতা-মন্দিরে ॥ ৩০৪ ॥
@@ -3308,7 +3308,7 @@ like a rod  becoming  he falls  the feet  clasping
 āliṅgana kaila prabhu tām̐re uṭhāñā  
 an embrace  made  the Lord  him  raising
 
-(320) He fell flat like a rod, clasping the Lord’s feet, and the Lord raised him and embraced him.
+(320) He fell flat in obeisance, clasping the Lord’s feet, and the Lord raised him and embraced him.
 
 দুই জনে প্রেমাবেশে করেন ক্রন্দন ৷  
 প্রেমানন্দে শিথিল হৈল দুঁহাকার মন ॥ ৩২১ ॥
@@ -3748,7 +3748,7 @@ Caitanya’s deeds  with faith  hears  who  person
 yateka vicāre, tata pāya prema-dhana  
 as much as  he reflects  so much  obtains  the treasure of love
 
-(364) Whoever hears the deeds of Caitanya with faith obtains the treasure of love in the measure that he reflects on them.
+(364) Whoever hears the deeds of Caitanya with faith gains the treasure of love: the more he reflects on them, the more he gains.
 
 শ্রীরূপ রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩৬৫ ॥
