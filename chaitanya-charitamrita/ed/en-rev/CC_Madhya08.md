@@ -2281,7 +2281,7 @@ carries  of rasa  the fullness  spiritual opulences  as  the Lord
 śrayati na padam āsāṁ kaḥ sakhīnāṁ rasa-jñaḥ  
 takes shelter  not  at the feet  of these  who  of the sakhīs  a knower of rasa
 
-(205) “Though the love (*bhāva*) of Rādhā and Kṛṣṇa is boundless, happiness itself and self-manifest, without Their own *sakhīs* it never for a moment carries the fullness of rasa, just as the Lord does not without His spiritual opulences. What knower of rasa, then, would not take shelter at the feet of these *sakhīs*?” (Govinda-līlāmṛta, 10.17)
+(205) “Though the love (*bhāva*) of Rādhā and Kṛṣṇa is boundless, happiness itself and self-manifest, without Their own *sakhīs* it never for a moment carries the fullness of rasa, just as the Lord is not full without His spiritual opulences. What knower of rasa, then, would not take shelter at the feet of these *sakhīs*?” (Govinda-līlāmṛta, 10.17)
 
 সখীর স্বভাব এক অকথ্য-কথন ৷  
 কৃষ্ণ-সহ নিজলীলায় নাহি সখীর মন ॥ ২০৬ ॥
@@ -3013,7 +3013,7 @@ the beings  in the Lord  in the Self
 eṣa bhāgavatottamaḥ  
 he  the best of devotees
 
-(274) “One who sees in all beings the presence of the Lord, the Self, and sees all beings in the Lord, the Self of all, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)[^67]
+(274) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)[^67]
 
 বনলতাস্তরব আত্মনি বিষ্ণুং  
 ব্যঞ্জয়ন্ত্য ইব পুষ্পফলাঢ়্যাঃ ৷  
