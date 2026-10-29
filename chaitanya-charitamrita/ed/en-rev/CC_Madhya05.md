@@ -18,7 +18,7 @@ to the land  went  for a brāhmaṇa’s sake  of wondrous  deeds
 taṁ sākṣi-gopālam ahaṁ nato ’smi  
 to that  Sākṣi-gopāla  I  bowed down  am
 
-(1) I bow down to Sākṣi-gopāla, the Lord of the brāhmaṇas, whose deeds are wondrous: in His form as the Deity He walked on His own feet, for a brāhmaṇa’s sake, to a land a hundred days’ journey away.[^1]
+(1) I bow down to Sākṣi-gopāla, the Lord of the brāhmaṇas, wondrous in His deeds. For a brāhmaṇa’s sake He walked on His own feet, in His form as the Deity, to a land a hundred days’ journey away.[^1]
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -168,7 +168,7 @@ the two brāhmaṇas  among  one  brāhmaṇa  nearly old
 āra vipra — yuvā, tām̐ra karena sahāya  
 the other  brāhmaṇa  young  him  gives  help
 
-(16) Of the two brāhmaṇas, one was elderly and the other young, and the young one looked after him.
+(16) Of the two brāhmaṇas, one was elderly and the other young, and the younger looked after the elder.
 
 ছোটবিপ্র করে সদা তাঁহার সেবন ৷  
 তাঁহার সেবায় বিপ্রের তুষ্ট হৈল মন ॥ ১৭ ॥
@@ -328,7 +328,7 @@ Gopāla  before  the brāhmaṇa  to speak  began
 tumi jāna, nija-kanyā ihāre āmi dila  
 You  know  own daughter  to him  I  gave
 
-(32) Before Gopāla the elder brāhmaṇa began to speak: “You know it, Lord: I have given my own daughter to him.”
+(32) So before Gopāla the elder brāhmaṇa declared, “Know it, Lord: I have given my own daughter to him.”
 
 ছোটবিপ্র বলে, — ঠাকুর, তুমি মোর সাক্ষী ৷  
 তোমা সাক্ষী বোলাইমু, যদি অন্যথা দেখি ॥ ৩৩ ॥
@@ -618,7 +618,7 @@ all  money  taking  says  a thief  took  the money
 kanyā dite cāhiyāche uṭhāila vacana  
 daughter  to give  he wanted  raised  word
 
-(61) He took all the money and said, ‘A thief took the money.’ And now he puts about the story that my father wanted to give him his daughter.
+(61) He took all the money and blamed it on a thief. And now he puts about the story that my father wanted to give him his daughter.
 
 তোমরা সকল লোক করহ বিচারে ৷  
 মোর পিতার কন্যা দিতে যোগ্য কি ইহারে ॥ ৬২ ॥
@@ -768,7 +768,7 @@ in this  word  witness  my  is  a great personage
 yām̐ra vākya satya kari’ māne tribhuvana  
 whose  word  true  taking  accept  the three worlds
 
-(76) So in this matter my witness is a great personage, whose word the three worlds accept as truth.”[^19]
+(76) So in this matter my witness is the Lord Himself, whose word the three worlds accept as truth.”[^19]
 
 তবে বড়বিপ্র কহে, — এই সত্য কথা ৷  
 গোপাল যদি সাক্ষি দেন, আপনে আসি’ এথা ॥ ৭৭ ॥
@@ -1575,7 +1575,7 @@ this One  why  staff  breaks  that One  why  lets break
 bhāṅgāñā krodhe tem̐ho im̐hāke doṣāya  
 having let break  in anger  that One  this One  blames
 
-(157) Why does the One break the staff? Why does the Other let Him break it? And having let Him break it, why does He blame Him in anger?
+(157) Why does one of Them break the staff, and why does the Other let Him? And having let Him break it, why does the Other then blame Him in anger?
 
 দণ্ডভঙ্গ-লীলা এই — পরম গম্ভীর ৷  
 সেই বুঝে, দুঁহার পদে যাঁর ভক্তি ধীর ॥ ১৫৮ ॥

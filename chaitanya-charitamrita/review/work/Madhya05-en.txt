@@ -11,7 +11,7 @@ w: on His feet  walking  who  in the form of the Deity
 w: the Lord of the brāhmaṇas  indeed  a hundred days’ journey away
 w: to the land  went  for a brāhmaṇa’s sake  of wondrous  deeds
 w: to that  Sākṣi-gopāla  I  bowed down  am
-tr: I bow down to Sākṣi-gopāla, the Lord of the brāhmaṇas, whose deeds are wondrous: in His form as the Deity He walked on His own feet, for a brāhmaṇa’s sake, to a land a hundred days’ journey away.
+tr: I bow down to Sākṣi-gopāla, the Lord of the brāhmaṇas, wondrous in His deeds. For a brāhmaṇa’s sake He walked on His own feet, in His form as the Deity, to a land a hundred days’ journey away.
 fn: Heading in the edition: “Obeisance to Sākṣi-gopāla, who is subdued by His devotee”. *Anubhāṣya*: the land a hundred days’ journey away — from the region of Mathurā to Vidyānagara; *adbhutehaṁ* is one word, “whose deeds are unprecedented”.
 
 ## 2
@@ -94,7 +94,7 @@ tr: Gopāla’s beauty stole the hearts of both of them, and they stayed there h
 ## 16
 w: the two brāhmaṇas  among  one  brāhmaṇa  nearly old
 w: the other  brāhmaṇa  young  him  gives  help
-tr: Of the two brāhmaṇas, one was elderly and the other young, and the young one looked after him.
+tr: Of the two brāhmaṇas, one was elderly and the other young, and the younger looked after the elder.
 
 ## 17
 w: the younger brāhmaṇa  does  always  his  service
@@ -177,7 +177,7 @@ tr: The younger brāhmaṇa said, “If you have truly made up your mind to give
 ## 32
 w: Gopāla  before  the brāhmaṇa  to speak  began
 w: You  know  own daughter  to him  I  gave
-tr: Before Gopāla the elder brāhmaṇa began to speak: “You know it, Lord: I have given my own daughter to him.”
+tr: So before Gopāla the elder brāhmaṇa declared, “Know it, Lord: I have given my own daughter to him.”
 
 ## 33
 w: the younger brāhmaṇa  says  Lord  You  my  witness
@@ -328,7 +328,7 @@ tr: There was no one else with my father — only this man. He fed him *dhuturā
 ## 61
 w: all  money  taking  says  a thief  took  the money
 w: daughter  to give  he wanted  raised  word
-tr: He took all the money and said, ‘A thief took the money.’ And now he puts about the story that my father wanted to give him his daughter.
+tr: He took all the money and blamed it on a thief. And now he puts about the story that my father wanted to give him his daughter.
 
 ## 62
 w: you  all  people  make  judgement
@@ -404,7 +404,7 @@ tr: ‘If this brāhmaṇa does not give me his daughter, I shall call on You as
 ## 76
 w: in this  word  witness  my  is  a great personage
 w: whose  word  true  taking  accept  the three worlds
-tr: So in this matter my witness is a great personage, whose word the three worlds accept as truth.”
+tr: So in this matter my witness is the Lord Himself, whose word the three worlds accept as truth.”
 fn: *Anubhāṣya*: *mahājana* here means the Deity (*devatā*).
 
 ## 77–78
@@ -828,7 +828,7 @@ tr: Hearing this, the Lord went on ahead with swift steps. No one can understand
 ## 157
 w: this One  why  staff  breaks  that One  why  lets break
 w: having let break  in anger  that One  this One  blames
-tr: Why does the One break the staff? Why does the Other let Him break it? And having let Him break it, why does He blame Him in anger?
+tr: Why does one of Them break the staff, and why does the Other let Him? And having let Him break it, why does the Other then blame Him in anger?
 
 ## 158
 w: the staff-breaking pastime  this  supremely  profound
