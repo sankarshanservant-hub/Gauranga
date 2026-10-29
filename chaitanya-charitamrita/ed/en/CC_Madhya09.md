@@ -3464,238 +3464,298 @@ to Nīlācala  set out  the Lord  joyful  becoming
 সেই পথে চলিলা দেখি’ সর্ব্ব বৈষ্ণবগণ ॥ ৩৩৬ ॥
 
 yei pathe pūrve prabhu kailā āgamana  
-sei pathe calilā dekhi’ sarva vaiṣṇava-gaṇa
+by which  road  before  the Lord  had made  His coming  
+sei pathe calilā dekhi’ sarva vaiṣṇava-gaṇa  
+by that  road  He went  seeing  all  the Vaiṣṇavas
 
-(336) [not yet translated]
+(336) The Lord went back by the same road by which He had come, seeing all the Vaiṣṇavas along the way.
 
 যাঁহা যায়, লোক উঠে হরিধ্বনি করি’ ৷  
 দেখি’ আনন্দিত-মন হৈলা গৌরহরি ॥ ৩৩৭ ॥
 
 yāṅhā yāya, loka uṭhe hari-dhvani kari’  
-dekhi’ ānandita-mana hailā gaurahari
+wherever  He goes  the people  rise  the sound of ‘Hari’  making  
+dekhi’ ānandita-mana hailā gaurahari  
+seeing  joyful at heart  became  Gaurahari
 
-(337) [not yet translated]
+(337) Wherever He went, the people rose up crying out “Hari!”, and seeing this, Gaurahari rejoiced at heart.
 
 আলালনাথে আসি’ কৃষ্ণদাসে পাঠাইল ৷  
 নিত্যানন্দ-আদি নিজগণে বোলাইল ॥ ৩৩৮ ॥
 
 ālālanāthe āsi’ kṛṣṇadāse pāṭhāila  
-nityānanda-ādi nija-gaṇe bolāila
+to Ālālanātha  coming  Kṛṣṇadāsa  He sent  
+nityānanda-ādi nija-gaṇe bolāila  
+Nityānanda and others  His own associates  He called
 
-(338) [not yet translated]
+(338) Coming to Ālālanātha, He sent Kṛṣṇadāsa ahead to call Nityānanda and His other associates.
 
 প্রভুর আগমন শুনি’ নিত্যানন্দ রায় ৷  
 উঠিয়া চলিলা, প্রেমে থেহ নাহি পায় ॥ ৩৩৯ ॥
 
 prabhura āgamana śuni’ nityānanda rāya  
-uṭhiyā calilā, preme theha nāhi pāya
+the Lord’s  arrival  hearing of  Nityānanda  Rāya  
+uṭhiyā calilā, preme theha nāhi pāya  
+rising  He set out  in love  steadiness  not  He finds
 
-(339) [not yet translated]
+(339) Hearing of the Lord’s arrival, Nityānanda Rāya rose and set out at once, unable to contain Himself for love.
 
 জগদানন্দ, দামোদর-পণ্ডিত, মুকুন্দ ৷  
 নাচিয়া চলিলা, দেহে না ধরে আনন্দ ॥ ৩৪০ ॥
 
 jagadānanda, dāmodara-paṇḍita, mukunda  
-nāciyā calilā, dehe nā dhare ānanda
+Jagadānanda  Dāmodara Paṇḍita  Mukunda  
+nāciyā calilā, dehe nā dhare ānanda  
+dancing  they went  in the body  not  holds  the joy
 
-(340) [not yet translated]
+(340) Jagadānanda, Dāmodara Paṇḍita and Mukunda went along dancing; their bodies could not contain their joy.
 
 গোপীনাথাচার্য্য চলিলা আনন্দিত হঞা ৷  
 প্রভুরে মিলিলা সবে পথে লাগ্ পাঞা ॥ ৩৪১ ॥
 
 gopīnāthācārya calilā ānandita hañā  
-prabhure mililā sabe pathe lāg pāñā
+Gopīnātha Ācārya  went  joyful  becoming  
+prabhure mililā sabe pathe lāg pāñā  
+the Lord  met  all  on the road  contact  obtaining
 
-(341) [not yet translated]
+(341) Gopīnātha Ācārya went joyfully too, and they all met the Lord when they came upon Him on the road.
 
 প্রভু প্রেমাবেশে সবায় কৈল আলিঙ্গন ৷  
 প্রেমাবেশে সবে করে আনন্দ-ক্রন্দন ॥ ৩৪২ ॥
 
 prabhu premāveśe sabāya kaila āliṅgana  
-premāveśe sabe kare ānanda-krandana
+the Lord  in ecstatic love  everyone  made  an embrace  
+premāveśe sabe kare ānanda-krandana  
+in ecstatic love  all  make  weeping for joy
 
-(342) [not yet translated]
+(342) In ecstatic love the Lord embraced them all, and in ecstatic love they all wept for joy.
 
 সার্ব্বভৌম ভট্টাচার্য্য আনন্দে চলিলা ৷  
 সমুদ্রের তীরে আসি’ প্রভুরে মিলিলা ॥ ৩৪৩ ॥
 
 sārvabhauma bhaṭṭācārya ānande calilā  
-samudrera tīre āsi’ prabhure mililā
+Sārvabhauma  Bhaṭṭācārya  in joy  went  
+samudrera tīre āsi’ prabhure mililā  
+of the ocean  to the shore  coming  the Lord  he met
 
-(343) [not yet translated]
+(343) Sārvabhauma Bhaṭṭācārya also went joyfully, and coming to the shore of the ocean, he met the Lord.
 
 সার্ব্বভৌম মহাপ্রভুর পড়িলা চরণে ৷  
 প্রভু তাঁরে উঠাঞা কৈল আলিঙ্গনে ॥ ৩৪৪ ॥
 
 sārvabhauma mahāprabhura paḍilā caraṇe  
-prabhu tāṅre uṭhāñā kaila āliṅgane
+Sārvabhauma  Mahāprabhu’s  fell  at the feet  
+prabhu tāṅre uṭhāñā kaila āliṅgane  
+the Lord  him  raising  made  an embrace
 
-(344) [not yet translated]
+(344) Sārvabhauma fell at Mahāprabhu’s feet, and the Lord raised him and embraced him.
 
 প্রেমাবেশে সার্ব্বভৌম করিলা রোদনে ৷  
 সবা-সঙ্গে আইলা প্রভু ঈশ্বর-দরশনে ॥ ৩৪৫ ॥
 
 premāveśe sārvabhauma karilā rodane  
-sabā-saṅge āilā prabhu īśvara-daraśane
+in ecstatic love  Sārvabhauma  did  weeping  
+sabā-saṅge āilā prabhu īśvara-daraśane  
+with everyone  came  the Lord  for darśana of the Lord
 
-(345) [not yet translated]
+(345) Sārvabhauma wept in ecstatic love, and the Lord went with them all to see the Lord, Jagannātha.
 
 জগন্নাথ-দরশন প্রেমাবেশে কৈল ৷  
 কম্প-স্বেদ-পুলকাশ্রুতে শরীর ভাসিল ॥ ৩৪৬ ॥
 
 jagannātha-daraśana premāveśe kaila  
-kampa-sveda-pulakāśrute śarīra bhāsila
+Jagannātha’s darśana  in ecstatic love  He had  
+kampa-sveda-pulakāśrute śarīra bhāsila  
+in trembling, sweat, horripilation and tears  His body  was bathed
 
-(346) [not yet translated]
+(346) In ecstatic love He had *darśana* of Jagannātha, and His body was flooded with trembling, sweat, horripilation and tears.
 
 বহু নৃত্যগীত কৈল প্রেমাবিষ্ট হঞা ৷  
 পাণ্ডাপাল আইল সবে মালা-প্রসাদ লঞা ॥ ৩৪৭ ॥
 
 bahu nṛtya-gīta kaila premāviṣṭa hañā  
-pāṇḍā-pāla āila sabe mālā-prasāda lañā
+much  dancing and singing  He did  absorbed in love  being  
+pāṇḍā-pāla āila sabe mālā-prasāda lañā  
+the pāṇḍās and pālas  came  all  garlands and prasāda  bringing
 
-(347) [not yet translated]
+(347) Absorbed in love, He danced and sang at length, and all the temple servants, the *pāṇḍās* and *pālas*, came bringing garlands and *prasāda*.
 
 মালা-প্রসাদ পাঞা প্রভু সুস্থির হইলা ৷  
 জগন্নাথের সেবক সব আনন্দে মিলিলা ॥ ৩৪৮ ॥
 
 mālā-prasāda pāñā prabhu susthira hailā  
-jagannāthera sevaka saba ānande mililā
+garlands and prasāda  receiving  the Lord  composed  became  
+jagannāthera sevaka saba ānande mililā  
+of Jagannātha  the servants  all  in joy  met Him
 
-(348) [not yet translated]
+(348) Receiving the garlands and *prasāda*, the Lord grew calm, and all the servants of Jagannātha met Him joyfully.
 
 কাশীমিশ্র আসি’ প্রভুর পড়িলা চরণে ৷  
 মান্য করি’ প্রভু তাঁরে কৈল আলিঙ্গনে ॥ ৩৪৯ ॥
 
 kāśī-miśra āsi’ prabhura paḍilā caraṇe  
-mānya kari’ prabhu tāṅre kaila āliṅgane
+Kāśī Miśra  coming  the Lord’s  fell  at the feet  
+mānya kari’ prabhu tāṅre kaila āliṅgane  
+honour  showing  the Lord  him  made  an embrace
 
-(349) [not yet translated]
+(349) Kāśī Miśra came and fell at the Lord’s feet, and the Lord honoured him with an embrace.
 
 প্রভু লঞা সার্ব্বভৌম নিজ-ঘরে গেলা ৷  
 মোর ঘরে ভিক্ষা বলি’ নিমন্ত্রণ কৈলা ॥ ৩৫০ ॥
 
 prabhu lañā sārvabhauma nija-ghare gelā  
-mora ghare bhikṣā bali’ nimantraṇa kailā
+the Lord  taking  Sārvabhauma  to his own house  went  
+mora ghare bhikṣā bali’ nimantraṇa kailā  
+‘in my  house  Your meal’  saying  invitation  he made
 
-(350) [not yet translated]
+(350) Sārvabhauma took the Lord to his own house, inviting Him with the words, “Your meal will be at my house.”
 
 দিব্য মহাপ্রসাদ অনেক আনাইল ৷  
 পীঠা-পানা আদি জগন্নাথ যে খাইল ॥ ৩৫১ ॥
 
 divya mahā-prasāda aneka ānāila  
-pīṭhā-pānā ādi jagannātha ye khāila
+excellent  mahā-prasāda  much  he had brought  
+pīṭhā-pānā ādi jagannātha ye khāila  
+cakes, sweet drinks  and so on  Jagannātha  that  had eaten
 
-(351) [not yet translated]
+(351) He had a great deal of excellent *mahā-prasāda* brought — cakes, sweet drinks and all that Jagannātha had eaten.
 
 মধ্যাহ্ন করিলা প্রভু নিজগণ লঞা ৷  
 সার্ব্বভৌম-ঘরে ভিক্ষা করিল আসিয়া ॥ ৩৫২ ॥
 
 madhyāhna karilā prabhu nija-gaṇa lañā  
-sārvabhauma-ghare bhikṣā karila āsiyā
+the midday duties  performed  the Lord  His own associates  taking  
+sārvabhauma-ghare bhikṣā karila āsiyā  
+in Sārvabhauma’s house  His meal  He took  coming
 
-(352) [not yet translated]
+(352) The Lord performed His midday duties with His associates, then came to Sārvabhauma’s house and took His meal.
 
 ভিক্ষা করাঞা তাঁরে করাইল শয়ন ৷  
 আপনে সার্ব্বভৌম করে পাদসম্বাহন ॥ ৩৫৩ ॥
 
 bhikṣā karāñā tāṅre karāila śayana  
-āpane sārvabhauma kare pāda-samvāhana
+a meal  having served  Him  he had  lie down  
+āpane sārvabhauma kare pāda-samvāhana  
+himself  Sārvabhauma  does  massaging of the feet
 
-(353) [not yet translated]
+(353) After serving Him the meal, he had Him lie down to rest, and Sārvabhauma himself massaged His feet.
 
 প্রভু তাঁরে পাঠাইল ভোজন করিতে ৷  
 সেই রাত্রি তাঁর ঘরে রহিলা তাঁর প্রীতে ॥ ৩৫৪ ॥
 
 prabhu tāṅre pāṭhāila bhojana karite  
-sei rātri tāṅra ghare rahilā tāṅra prīte
+the Lord  him  sent  a meal  to take  
+sei rātri tāṅra ghare rahilā tāṅra prīte  
+that  night  in his  house  He stayed  his  for the pleasure
 
-(354) [not yet translated]
+(354) The Lord sent him off to take his own meal, and to please him He stayed that night in his house.
 
 সার্ব্বভৌম-সঙ্গে আর লঞা নিজগণ ৷  
 তীর্থযাত্রা-কথা কহি’ কৈল জাগরণ ॥ ৩৫৫ ॥
 
 sārvabhauma-saṅge āra lañā nija-gaṇa  
-tīrtha-yātrā-kathā kahi’ kaila jāgaraṇa
+with Sārvabhauma  and  taking  His own associates  
+tīrtha-yātrā-kathā kahi’ kaila jāgaraṇa  
+the story of the pilgrimage  telling  He kept  vigil
 
-(355) [not yet translated]
+(355) With Sārvabhauma and His own associates He stayed awake all night, telling the story of His pilgrimage.
 
 প্রভু কহে, — এত তীর্থ কৈলুঁ পর্য্যটন ৷  
 তোমা-সম বৈষ্ণব না দেখিলুঁ একজন ॥ ৩৫৬ ॥
 
 prabhu kahe, — eta tīrtha kailuṅ paryaṭana  
-tomā-sama vaiṣṇava nā dekhiluṅ eka-jana
+the Lord  said  so many  holy places  I made  a tour  
+tomā-sama vaiṣṇava nā dekhiluṅ eka-jana  
+equal to you  a Vaiṣṇava  not  I saw  a single one
 
-(356) [not yet translated]
+(356) The Lord said, “I have travelled to so many holy places, yet I have not seen a single Vaiṣṇava equal to you.
 
 এক রামানন্দ রায় বহু সুখ দিল ৷  
 ভট্ট কহে, — এই লাগি’ মিলিতে কহিল ॥ ৩৫৭ ॥
 
 eka rāmānanda rāya bahu sukha dila  
-bhaṭṭa kahe, — ei lāgi’ milite kahila
+only  Rāmānanda  Rāya  great  happiness  gave  
+bhaṭṭa kahe, — ei lāgi’ milite kahila  
+the Bhaṭṭa  said  for this  reason  to meet him  I told You
 
-(357) [not yet translated]
+(357) Rāmānanda Rāya alone gave Me great happiness.” The Bhaṭṭācārya said, “That is why I asked You to meet him.”
 
 তীর্থযাত্রা-কথা এই কৈলুঁ সমাপন ৷  
 সংক্ষেপে কহিলুঁ, বিস্তার না যায় বর্ণন ॥ ৩৫৮ ॥
 
 tīrtha-yātrā-kathā ei kailuṅ samāpana  
-saṅkṣepe kahiluṅ, vistāra nā yāya varṇana
+the story of the pilgrimage  this  I have made  the conclusion  
+saṅkṣepe kahiluṅ, vistāra nā yāya varṇana  
+in brief  I have told it  in full  not  can be  described
 
-(358) [not yet translated]
+(358) Thus I conclude the story of the pilgrimage. I have told it in brief; it cannot be described in full.
 
 অনন্ত চৈতন্যলীলা কহিতে না জানি ৷  
 লোভে লজ্জা খাঞা, তার করি টানাটানি ॥ ৩৫৯ ॥
 
 ananta caitanya-līlā kahite nā jāni  
-lobhe lajjā khāñā, tāra kari ṭānāṭāni
+endless  the pastimes of Caitanya  to tell  not  I know how  
+lobhe lajjā khāñā, tāra kari ṭānāṭāni  
+out of greed  shame  swallowing  at them  I make  tugging
 
-(359) [not yet translated]
+(359) I do not know how to describe Caitanya’s endless pastimes; out of greed I have swallowed my shame and tugged at them.
 
 প্রভুর তীর্থযাত্রা-কথা শুনে যেই জন ৷  
 চৈতন্যচরণে পায় গাঢ় প্রেমধন ॥ ৩৬০ ॥
 
 prabhura tīrtha-yātrā-kathā śune yei jana  
-caitanya-caraṇe pāya gāḍha prema-dhana
+the Lord’s  story of the pilgrimage  hears  who  person  
+caitanya-caraṇe pāya gāḍha prema-dhana  
+at Caitanya’s feet  obtains  deep  the treasure of love
 
-(360) [not yet translated]
+(360) Whoever hears the story of the Lord’s pilgrimage obtains the treasure of deep love at Caitanya’s feet.
 
 চৈতন্যচরিত শুন শ্রদ্ধা-ভক্তি করি’ ৷  
 মাৎসর্য্য ছাড়িয়া, মুখে বল ‘হরি’ ‘হরি’ ॥ ৩৬১ ॥
 
 caitanya-carita śuna śraddhā-bhakti kari’  
-mātsarya chāḍiyā, mukhe bala ‘hari’ ‘hari’
+Caitanya’s deeds  hear  faith and devotion  having  
+mātsarya chāḍiyā, mukhe bala ‘hari’ ‘hari’  
+envy  giving up  with the mouth  say  ‘Hari’  ‘Hari’
 
-(361) [not yet translated]
+(361) Hear the deeds of Caitanya with faith and devotion; give up envy and say with your lips, “Hari! Hari!”
 
 এই কলিকালে আর নাহি কোন ধর্ম্ম ৷  
 বৈষ্ণব, বৈষ্ণবশাস্ত্র, এই কহে মর্ম্ম ॥ ৩৬২ ॥
 
 ei kali-kāle āra nāhi kona dharma  
-vaiṣṇava, vaiṣṇava-śāstra, ei kahe marma
+in this  Kali age  other  there is not  any  dharma  
+vaiṣṇava, vaiṣṇava-śāstra, ei kahe marma  
+the Vaiṣṇavas  the Vaiṣṇava scriptures  this  declare  the heart of the matter
 
-(362) [not yet translated]
+(362) In this age of Kali there is no other *dharma*: this is the heart of the matter, as the Vaiṣṇavas and the Vaiṣṇava scriptures declare.
 
 চৈতন্যচন্দ্রের লীলা — অগাধ, গম্ভীর ৷  
 প্রবেশ করিতে নারি, — স্পর্শি রহি’ তীর ॥ ৩৬৩ ॥
 
 caitanya-candrera līlā — agādha, gambhīra  
-praveśa karite nāri, — sparśi rahi’ tīra
+of Caitanya-candra  the pastimes  fathomless  deep  
+praveśa karite nāri, — sparśi rahi’ tīra  
+entry  to make  I cannot  I touch  remaining  on the shore
 
-(363) [not yet translated]
+(363) The pastimes of Caitanya-candra are fathomless and deep. I cannot enter them; I only touch them, standing on the shore.
 
 চৈতন্যচরিত শ্রদ্ধায় শুনে যেই জন ৷  
 যতেক বিচারে, তত পায় প্রেমধন ॥ ৩৬৪ ॥
 
 caitanya-carita śraddhāya śune yei jana  
-yateka vicāre, tata pāya prema-dhana
+Caitanya’s deeds  with faith  hears  who  person  
+yateka vicāre, tata pāya prema-dhana  
+as much as  he reflects  so much  obtains  the treasure of love
 
-(364) [not yet translated]
+(364) Whoever hears the deeds of Caitanya with faith obtains the treasure of love in the measure that he reflects on them.
 
 শ্রীরূপ রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩৬৫ ॥
 
 śrī-rūpa raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(365) [not yet translated]
+(365) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
