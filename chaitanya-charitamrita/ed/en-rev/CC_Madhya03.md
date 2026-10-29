@@ -1122,6 +1122,1096 @@ of the saffron cloth  the radiance  on it  makes  glitter
 
 (110) The radiance of His golden body outshone the sun, and over it shimmered the glow of His cloth, red as the dawn.
 
+আইসে যায় লোক সব, নাহি সমাধান ৷  
+লোকের সঙ্ঘট্টে দিন হইল অবসান ॥ ১১১ ॥
+
+āise yāya loka saba, nāhi samādhāna  
+come  go  people  all  there is no  end  
+lokera saṅghaṭṭe dina haila avasāna  
+of people  in the throng  the day  came  to its close
+
+(111) People kept coming and going without end, and in that throng the day came to its close.[^43]
+
+সন্ধ্যাতে আচার্য্য আরম্ভিল সঙ্কীর্ত্তন ৷  
+আচার্য্য নাচেন, প্রভু করেন দর্শন ॥ ১১২ ॥
+
+sandhyāte ācārya ārambhila saṅkīrtana  
+in the evening  the Ācārya  began  saṅkīrtana  
+ācārya nācena, prabhu karena darśana  
+the Ācārya  dances  the Lord  does  watching
+
+(112) In the evening the Ācārya began saṅkīrtana; He danced, and the Lord looked on.
+
+নিত্যানন্দ-গোসাঞি বুলে আচার্য্য ধরিঞা ৷  
+হরিদাস পাছে নাচে হরষিত হঞা ॥ ১১৩ ॥
+
+nityānanda-gosāñi bule ācārya dhariñā  
+Nityānanda Gosāñi  moves about  the Ācārya  holding  
+haridāsa pāche nāce haraṣita hañā  
+Haridāsa  behind  dances  joyful  becoming
+
+(113) Nityānanda Gosāñi moved along with the Ācārya, holding Him, and behind them Haridāsa danced for joy.
+
+কি কহব রে সখি আজুক আনন্দ ওর ৷  
+চিরদিন মাধব মন্দিরে মোর ॥ ১১৪ ॥ধ্রু॥
+
+ki kahaba re sakhi ājuka ānanda ora  
+what  shall I say  O  friend  of today’s  bliss  the limit  
+cira-dina mādhava mandire mora  
+after long days  Mādhava  in the house  My
+
+(114) “What shall I tell you, My friend? There is no limit to My bliss today: at long last Mādhava is in My house.”[^44]
+
+এই পদ গাওয়াইয়া হর্ষে করেন নর্ত্তন ৷  
+স্বেদ-কম্প-পুলকাশ্রু-হুঙ্কার-গর্জ্জন ॥ ১১৫ ॥
+
+ei pada gāoyāiyā harṣe karena nartana  
+this  song  having (others) sing  in joy  does  dancing  
+sveda-kampa-pulakāśru-huṅkāra-garjana  
+sweat  trembling  hair standing on end and tears  cries of “huṁ”  roaring
+
+(115) The Ācārya had this song sung and danced for joy, with sweat and trembling, hair standing on end, tears, cries of “huṁ” and thunderous roars.[^45]
+
+ফিরি’ ফিরি’ কভু প্রভুর ধরেন চরণ ৷  
+চরণ ধরিয়া প্রভুরে বলেন বচন ॥ ১১৬ ॥
+
+phiri’ phiri’ kabhu prabhura dharena caraṇa  
+turning  turning  at times  the Lord’s  He clasps  feet  
+caraṇa dhariyā prabhure balena vacana  
+the feet  clasping  to the Lord  He speaks  words
+
+(116) Whirling round and round, now and then He would clasp the Lord’s feet, and holding them He would say:
+
+অনেক দিন তুমি মোরে বেড়াইলে ভাণ্ডিয়া ৷  
+ঘরেতে পাঞাছি, এবে রাখিব বান্ধিয়া ॥ ১১৭ ॥
+
+aneka dina tumi more beḍāile bhāṇḍiyā  
+many  days  You  Me  led about  deceiving  
+gharete pāñāchi, ebe rākhiba bāndhiyā  
+in the house  I have caught (You)  now  I shall keep  binding
+
+(117) “For many days You eluded Me and led Me about with Your tricks. Now I have caught You in My house, and I shall bind You and keep You here.”
+
+এত বলি’ আচার্য্য আনন্দে করেন নর্ত্তন ৷  
+প্রহরেক-রাত্রি আচার্য্য কৈল সংকীর্ত্তন ॥ ১১৮ ॥
+
+eta bali’ ācārya ānande karena nartana  
+thus  saying  the Ācārya  in bliss  does  dancing  
+prahareka-rātri ācārya kaila saṁkīrtana  
+for a prahara of the night  the Ācārya  did  saṅkīrtana
+
+(118) Saying this, the Ācārya danced in bliss, and for a whole prahara of the night He held saṅkīrtana.
+
+প্রেমের উৎকণ্ঠা, — প্রভুর নাহি কৃষ্ণ-সঙ্গ ৷  
+বিরহে বাড়িল, প্রেমজ্বালার তরঙ্গ ॥ ১১৯ ॥
+
+premera utkaṇṭhā, — prabhura nāhi kṛṣṇa-saṅga  
+of love  the longing  of the Lord  there is no  Kṛṣṇa’s company  
+virahe bāḍila, prema-jvālāra taraṅga  
+in separation  rose  of love’s burning  the waves
+
+(119) Love’s longing seized the Lord, for Kṛṣṇa was not with Him, and in separation the burning waves of prema rose ever higher.[^46]
+
+ব্যাকুল হঞা প্রভু ভূমেতে পড়িলা ৷  
+গোসাঞি দেখিয়া আচার্য্য নৃত্য সম্বরিলা ॥ ১২০ ॥
+
+vyākula hañā prabhu bhūmete paḍilā  
+distressed  becoming  the Lord  on the ground  fell  
+gosāñi dekhiyā ācārya nṛtya sambarilā  
+the Gosāñi  seeing  the Ācārya  dancing  stopped
+
+(120) Overwhelmed, the Lord fell to the ground. Seeing this, the Ācārya stopped His dance.
+
+প্রভুর অন্তর মুকুন্দ জানে ভাল মতে ৷  
+ভাবের সদৃশ পদ লাগিলা গাইতে ॥ ১২১ ॥
+
+prabhura antara mukunda jāne bhāla mate  
+the Lord’s  heart  Mukunda  knows  in a good  way  
+bhāvera sadṛśa pada lāgilā gāite  
+to the mood  suited  a song  he began  to sing
+
+(121) Mukunda knew the Lord’s heart well, and he began to sing a song suited to His mood.
+
+আচার্য্য উঠাইল প্রভুকে করিতে নর্ত্তন ৷  
+পদ শুনি’ প্রভুর অঙ্গ না যায় ধারণ ॥ ১২২ ॥
+
+ācārya uṭhāila prabhuke karite nartana  
+the Ācārya  raised  the Lord  to do  dancing  
+pada śuni’ prabhura aṅga nā yāya dhāraṇa  
+the song  hearing  the Lord’s  body  not  could be  held steady
+
+(122) The Ācārya raised the Lord up to dance, but on hearing the song the Lord could not hold His body steady.
+
+অশ্রু, কম্প, পুলক, স্বেদ, গদ্গদ বচন ৷  
+ক্ষণে উঠে, ক্ষণে পড়ে, ক্ষণেক রোদন ॥ ১২৩ ॥
+
+aśru, kampa, pulaka, sveda, gadgada vacana  
+tears  trembling  hair on end  sweat  faltering  speech  
+kṣaṇe uṭhe, kṣaṇe paḍe, kṣaṇeka rodana  
+at one moment  He rises  at another  He falls  at another  weeping
+
+(123) Tears, trembling, hair standing on end, sweat and a faltering voice appeared in Him. One moment He rose, the next He fell, and at times He wept.
+
+হাহা প্রাণপ্রিয়সখি, কি না হৈল মোরে ৷  
+কানুপ্রেমবিষে মোর তনু-মন জরে ॥ ১২৪ ॥ধ্রু॥
+
+hāhā prāṇa-priya-sakhi, ki nā haila more  
+alas  of My life  dear  friend  what  not  has befallen  Me  
+kānu-prema-viṣe mora tanu-mana jare  
+for Kānu  love’s  by the poison  My  body and mind  are consumed
+
+(124) “Alas, My friend, dear to Me as life! What has become of Me! The poison of love for Kānu consumes My body and mind.[^47]
+
+রাত্রি-দিনে পোড়ে মন সোয়াস্তি না পাঙ ৷  
+যাঁহা গেলে কানু পাঙ, তাঁহা উড়ি’ যাঙ ॥ ১২৫ ॥
+
+rātri-dine poḍe mana soyāsti nā pāṅa  
+night and day  burns  My heart  relief  not  I find  
+yām̐hā gele kānu pāṅa, tām̐hā uḍi’ yāṅa  
+where  going  Kānu  I would find  there  flying  I would go
+
+(125) Night and day My heart burns, and I find no relief. Wherever I could find Kānu, there I would fly.”
+
+এই পদ গায় মুকুন্দ মধুর সুস্বরে ৷  
+শুনিয়া প্রভুর চিত্ত হইল কাতরে ॥ ১২৬ ॥
+
+ei pada gāya mukunda madhura susvare  
+this  song  sings  Mukunda  sweet  in a fine voice  
+śuniyā prabhura citta haila kātare  
+hearing  the Lord’s  heart  became  stricken
+
+(126) Mukunda sang this song in a sweet and lovely voice, and hearing it, the Lord’s heart was filled with anguish.
+
+নির্ব্বেদ, বিষাদ, হর্ষ, চাপল, গর্ব্ব, দৈন্য ৷  
+প্রভুর সহিত যুদ্ধ করে ভাব-সৈন্য ॥ ১২৭ ॥
+
+nirveda, viṣāda, harṣa, cāpala, garva, dainya  
+despondency  dejection  joy  restlessness  pride  humility  
+prabhura sahita yuddha kare bhāva-sainya  
+the Lord  with  battle  does  of feelings  the army
+
+(127) Despondency, dejection, joy, restlessness, pride and humility — an army of feelings went to battle with the Lord.[^48]
+
+জর-জর হৈল প্রভু ভাবের প্রহারে ৷  
+ভূমিতে পড়িল, শ্বাস নাহিক শরীরে ॥ ১২৮ ॥
+
+jara-jara haila prabhu bhāvera prahāre  
+battered  became  the Lord  of the feelings  by the blows  
+bhūmite paḍila, śvāsa nāhika śarīre  
+on the ground  He fell  breath  there was not  in the body
+
+(128) Battered by the blows of these feelings, the Lord fell to the ground, and there was no breath in His body.
+
+দেখিয়া চিন্তিত হৈলা যত ভক্তগণ ৷  
+আচম্বিতে উঠে প্রভু করিয়া গর্জ্জন ॥ ১২৯ ॥
+
+dekhiyā cintita hailā yata bhakta-gaṇa  
+seeing  anxious  became  all  the devotees  
+ācambite uṭhe prabhu kariyā garjana  
+suddenly  rises  the Lord  making  a roar
+
+(129) Seeing this, all the devotees grew anxious. Then suddenly the Lord rose with a roar.
+
+‘বল’ ‘বল’ বলে, নাচে, আনন্দে বিহ্বল ৷  
+বুঝন না যায়, ভাব-তরঙ্গপ্রবল ॥ ১৩০ ॥
+
+‘bala’ ‘bala’ bale, nāce, ānande vihvala  
+“Chant!”  “Chant!”  He says  He dances  in bliss  overwhelmed  
+bujhana nā yāya, bhāva-taraṅgaprabala  
+to understand  not  is possible  of feelings  the mighty waves
+
+(130) “Chant! Chant!” He cried, and danced, overwhelmed with bliss. The mighty waves of His feelings were beyond understanding.
+
+নিত্যানন্দ সঙ্গে বুলে প্রভুকে ধরিঞা ৷  
+আচার্য্য, হরিদাস বুলে পাছে ত’ নাচিঞা ॥ ১৩১ ॥
+
+nityānanda saṅge bule prabhuke dhariñā  
+Nityānanda  beside  moves  the Lord  holding  
+ācārya, haridāsa bule pāche ta’ nāciñā  
+the Ācārya  Haridāsa  move  behind  indeed  dancing
+
+(131) Nityānanda moved beside the Lord, holding Him, while the Ācārya and Haridāsa followed behind, dancing.
+
+এই মত প্রহরেক নাচে প্রভু রঙ্গে ৷  
+কভু হর্ষ, কভু বিষাদ, ভাবের তরঙ্গে ॥ ১৩২ ॥
+
+ei mata prahareka nāce prabhu raṅge  
+this  way  for a prahara  dances  the Lord  in delight  
+kabhu harṣa, kabhu viṣāda, bhāvera taraṅge  
+sometimes  joy  sometimes  dejection  of feelings  in the waves
+
+(132) In this way the Lord danced blissfully for a prahara, now glad, now downcast, borne on the waves of His feelings.
+
+তিন দিন উপবাসে করিয়া ভোজন ৷  
+উদ্দণ্ড-নৃত্যেতে প্রভুর হৈল পরিশ্রম ॥ ১৩৩ ॥
+
+tina dina upavāse kariyā bhojana  
+three  days  after fasting  having done  eating  
+uddaṇḍa-nṛtyete prabhura haila pariśrama  
+by the wild dancing  the Lord’s  there was  weariness
+
+(133) After three days of fasting the Lord had eaten, and now the wild, leaping dance wearied Him.
+
+তবু ত’ না জানে শ্রম প্রেমাবিষ্ট হঞা ৷  
+নিত্যানন্দ মহাপ্রভুকে রাখিল ধরিঞা ॥ ১৩৪ ॥
+
+tabu ta’ nā jāne śrama premāviṣṭa hañā  
+yet  indeed  not  He knows  weariness  absorbed in love  being  
+nityānanda mahāprabhuke rākhila dhariñā  
+Nityānanda  Mahāprabhu  stopped  holding (Him)
+
+(134) Yet, absorbed in love, He did not feel His weariness. Then Nityānanda took hold of Mahāprabhu and stopped Him.
+
+আচার্য্য-গোসাঞি তবে রাখিল কীর্ত্তন ৷  
+নানা সেবা করি’ প্রভুকে করাইল শয়ন ॥ ১৩৫ ॥
+
+ācārya-gosāñi tabe rākhila kīrtana  
+Ācārya Gosāñi  then  stopped  the kīrtana  
+nānā sevā kari’ prabhuke karāila śayana  
+various  services  having done  the Lord  made  lie down
+
+(135) Then Ācārya Gosāñi brought the kīrtana to a close, and after serving the Lord in many ways, He had Him lie down to rest.
+
+এইমত দশদিন ভোজন-কীর্ত্তন ৷  
+একরূপে করি’ করে প্রভুর সেবন ॥ ১৩৬ ॥
+
+ei-mata daśadina bhojana-kīrtana  
+in this way  for ten days  feasting and kīrtana  
+eka-rūpe kari’ kare prabhura sevana  
+in one way  doing  He does  the Lord’s  service
+
+(136) In this way, for ten days, the Ācārya served the Lord with feasts and kīrtana, day after day without change.
+
+প্রভাতে আচার্য্য রত্ন দোলায় চড়াঞা ৷  
+ভক্তগণ-সঙ্গে আইলা শচীমাতা লঞা ॥ ১৩৭ ॥
+
+prabhāte ācārya ratna dolāya caḍāñā  
+in the morning  Ācārya-  ratna (Candraśekhara)  in a palanquin  having seated  
+bhakta-gaṇa-saṅge āilā śacīmātā lañā  
+with the devotees  came  Śacīmātā  bringing
+
+(137) In the morning Ācāryaratna came with the devotees, bringing Śacīmātā in a palanquin.[^49]
+
+নদীয়া-নগরের লোক — স্ত্রী-বালক-বৃদ্ধ ৷  
+সব লোক আইল, হৈল সংঘট্ট সমৃদ্ধ ॥ ১৩৮ ॥
+
+nadīyā-nagarera loka — strī-bālaka-vṛddha  
+of the town of Nadīyā  the people  women  children  old men  
+saba loka āila, haila saṅghaṭṭa samṛddha  
+all  the people  came  became  the throng  vast
+
+(138) All the people of the town of Nadīyā came — women, children and old men — and the crowd grew vast.
+
+প্রাতঃকৃত্য করি’ করে নাম-সংকীর্ত্তন ৷  
+শচীমাতা লঞা আইলা অদ্বৈত-ভবন ॥ ১৩৯ ॥
+
+prātaḥ-kṛtya kari’ kare nāma-saṁkīrtana  
+the morning duties  having done  He does  of the name  saṅkīrtana  
+śacīmātā lañā āilā advaita-bhavana  
+Śacīmātā  bringing  they came  to Advaita’s house
+
+(139) When the Lord had finished His morning duties and was singing the holy name in saṅkīrtana, they arrived at Advaita’s house with Śacīmātā.
+
+শচী-আগে পড়িলা প্রভু দণ্ডবৎ হঞা ৷  
+কান্দিতে লাগিলা শচী কোলে উঠাইঞা ॥ ১৪০ ॥
+
+śacī-āge paḍilā prabhu daṇḍavat hañā  
+before Śacī  fell  the Lord  like a rod  becoming  
+kāndite lāgilā śacī kole uṭhāiñā  
+to weep  began  Śacī  on her lap  lifting (Him)
+
+(140) The Lord fell flat like a rod before Śacī, and she lifted Him onto her lap and began to weep.
+
+দোঁহার দর্শনে দুঁহে হইলা বিহ্বল ৷  
+কেশ না দেখিয়া শচী হইলা বিকল ॥ ১৪১ ॥
+
+dom̐hāra darśane dum̐he hailā vihvala  
+of each other  at the sight  both  became  overwhelmed  
+keśa nā dekhiyā śacī hailā vikala  
+hair  not  seeing  Śacī  became  stricken
+
+(141) At the sight of each other both were overwhelmed, and seeing no hair on His head, Śacī was stricken with grief.
+
+অঙ্গ মুছে, মুখ চুম্বে, করে নিরীক্ষণ ৷  
+দেখিতে না পায়, — অশ্রু ভরিল নয়ন ॥ ১৪২ ॥
+
+aṅga muche, mukha cumbe, kare nirīkṣaṇa  
+His body  she wipes  His face  she kisses  she does  gazing  
+dekhite nā pāya, — aśru bharila nayana  
+to see  not  she can  tears  filled  her eyes
+
+(142) She wiped His body, kissed His face and gazed at Him, but she could not see Him, for tears filled her eyes.
+
+কান্দিয়া কহেন শচী, বাছারে নিমাঞি ৷  
+বিশ্বরূপ-সম না করিহ নিঠুরাই ॥ ১৪৩ ॥
+
+kāndiyā kahena śacī, bāchāre nimāñi  
+weeping  says  Śacī  my child  Nimāi  
+viśvarūpa-sama nā kariha niṭhurāi  
+like Viśvarūpa  not  do  cruelty
+
+(143) Weeping, Śacī said, “My child Nimāi, do not be cruel like Viśvarūpa.
+
+সন্ন্যাসী হইয়া পুনঃ না দিল দরশন ৷  
+তুমি তৈছে কৈলে, মোর হইবে মরণ ॥ ১৪৪ ॥
+
+sannyāsī haiyā punaḥ nā dila daraśana  
+a sannyāsī  having become  again  not  he gave  sight (of himself)  
+tumi taiche kaile, mora haibe maraṇa  
+You  so  if You do  my  will be  death
+
+(144) After he became a sannyāsī, he never let me see him again. If You do the same, it will be my death.”
+
+কান্দিয়া বলেন প্রভু, শুন, মোর আই ৷  
+তোমার শরীর এই, মোর কিছু নাই ॥ ১৪৫ ॥
+
+kāndiyā balena prabhu, śuna, mora āi  
+weeping  says  the Lord  listen  My  mother  
+tomāra śarīra ei, mora kichu nāi  
+your  body  this  Mine  anything  there is not
+
+(145) The Lord replied in tears, “Listen, My mother. This body is yours; there is nothing of Mine in it.[^50]
+
+তোমার পালিত দেহ, জন্ম তোমা হৈতে ৷  
+কোটি জন্মে তোমার ঋণ না পারি শোধিতে ॥ ১৪৬ ॥
+
+tomāra pālita deha, janma tomā haite  
+by you  nurtured  the body  birth  you  from  
+koṭi janme tomāra ṛṇa nā pāri śodhite  
+in millions of  births  your  debt  not  I can  repay
+
+(146) You gave birth to this body and nurtured it. Even in millions of births I could not repay My debt to you.
+
+জানি’ বা না জানি’ যদি করিলুঁ সন্ন্যাস ৷  
+তথাপি তোমারে কভু নহিব উদাস ॥ ১৪৭ ॥
+
+jāni’ vā nā jāni’ yadi karilum̐ sannyāsa  
+knowing  or  not  knowing  though  I have taken  sannyāsa  
+tathāpi tomāre kabhu nahiba udāsa  
+still  to you  ever  I shall not be  indifferent
+
+(147) Whether I took sannyāsa knowingly or unknowingly, I shall never be indifferent to you.
+
+তুমি যাঁহা কহ, আমি তাঁহাই রহিব ৷  
+তুমি যেই আজ্ঞা কর, সেই ত’ করিব ॥ ১৪৮ ॥
+
+tumi yām̐hā kaha, āmi tām̐hāi rahiba  
+you  where  say  I  there indeed  shall stay  
+tumi yei ājñā kara, sei ta’ kariba  
+you  whatever  order  give  that  indeed  I shall do
+
+(148) Wherever you tell Me to stay, there I shall stay, and whatever you order, that I shall do.”
+
+এত বলি’ পুনঃ পুনঃ করে নমস্কার ৷  
+তুষ্ট হঞা আই কোলে করে বার বার ॥ ১৪৯ ॥
+
+eta bali’ punaḥ punaḥ kare namaskāra  
+thus  saying  again and  again  He does  obeisance  
+tuṣṭa hañā āi kole kare bāra bāra  
+pleased  becoming  mother  on her lap  takes (Him)  again and  again
+
+(149) Saying this, He bowed down to her again and again, and His mother, delighted, took Him on her lap time after time.
+
+তবে আই লঞা, আচার্য্য গেলা অভ্যন্তরে ৷  
+ভক্তগণ মিলিতে প্রভু হইলা সত্বরে ॥ ১৫০ ॥
+
+tabe āi lañā, ācārya gelā abhyantare  
+then  mother  taking  the Ācārya  went  inside  
+bhakta-gaṇa milite prabhu hailā satvare  
+the devotees  to meet  the Lord  became  in haste
+
+(150) Then the Ācārya took Śacī inside, and the Lord hastened to meet the devotees.
+
+একে একে মিলিলা প্রভু সব ভক্তগণে ৷  
+সবার মুখ দেখি’ করে দৃঢ় আলিঙ্গনে ॥ ১৫১ ॥
+
+eke eke mililā prabhu saba bhakta-gaṇe  
+one  by one  met  the Lord  all  the devotees  
+sabāra mukha dekhi’ kare dṛḍha āliṅgane  
+of everyone  the face  seeing  He gives  firm  embraces
+
+(151) The Lord met all the devotees one by one, looking into each one’s face and embracing him firmly.
+
+কেশ না দেখিয়া ভক্ত যদ্যপি পায় দুঃখ ৷  
+সৌন্দর্য্য দেখিতে তবু পায় মহাসুখ ॥ ১৫২ ॥
+
+keśa nā dekhiyā bhakta yadyapi pāya duḥkha  
+hair  not  seeing  the devotees  although  feel  sorrow  
+saundarya dekhite tabu pāya mahā-sukha  
+His beauty  seeing  still  feel  great joy
+
+(152) Though the devotees grieved to see no hair on His head, still, as they beheld His beauty, they felt great joy.[^51]
+
+শ্রীবাস, রামাই, বিদ্যানিধি, গদাধর ৷  
+গঙ্গাদাস, বক্রেশ্বর, মুরারি, শুক্লাম্বর ॥ ১৫৩ ॥
+
+śrīvāsa, rāmāi, vidyānidhi, gadādhara  
+Śrīvāsa  Rāmāi  Vidyānidhi  Gadādhara  
+gaṅgādāsa, vakreśvara, murāri, śuklāmbara  
+Gaṅgādāsa  Vakreśvara  Murāri  Śuklāmbara
+
+(153) Śrīvāsa, Rāmāi, Vidyānidhi, Gadādhara, Gaṅgādāsa, Vakreśvara, Murāri, Śuklāmbara,
+
+বুদ্ধিমন্ত খাঁন, নন্দন, শ্রীধর, বিজয় ৷  
+বাসুদেব, দামোদর, মুকুন্দ, সঞ্জয় ॥ ১৫৪ ॥
+
+buddhimanta khām̐na, nandana, śrīdhara, vijaya  
+Buddhimanta  Khān  Nandana  Śrīdhara  Vijaya  
+vāsudeva, dāmodara, mukunda, sañjaya  
+Vāsudeva  Dāmodara  Mukunda  Sañjaya
+
+(154) Buddhimanta Khān, Nandana, Śrīdhara, Vijaya, Vāsudeva, Dāmodara, Mukunda, Sañjaya —
+
+কত নাম লইব যত নবদ্বীপবাসী ৷  
+সবারে মিলিলা প্রভু কৃপাদৃষ্ট্যে হাসি’ ॥ ১৫৫ ॥
+
+kata nāma laiba yata navadvīpavāsī  
+how many  names  shall I take  all  the residents of Navadvīpa  
+sabāre mililā prabhu kṛpādṛṣṭye hāsi’  
+with everyone  met  the Lord  with a merciful glance  smiling
+
+(155) how many of the people of Navadvīpa can I name? The Lord met them all, smiling, with a glance full of mercy.
+
+আনন্দে নাচয়ে সবে বলি’ ‘হরি’ ‘হরি’ ৷  
+আচার্য্য-মন্দির হৈল শ্রীবৈকুণ্ঠপুরী ॥ ১৫৬ ॥
+
+ānande nācaye sabe bali’ ‘hari’ ‘hari’  
+in bliss  dance  all  saying  “Hari!”  “Hari!”  
+ācārya-mandira haila śrī-vaikuṇṭha-purī  
+the Ācārya’s  house  became  Śrī Vaikuṇṭha’s city
+
+(156) Everyone danced in bliss, calling “Hari! Hari!”, and the Ācārya’s house became the city of Śrī Vaikuṇṭha.[^52]
+
+যত লোক আইলা মহাপ্রভুকে দেখিতে ৷  
+নানা-গ্রাম হৈতে আর নবদ্বীপ হৈতে ॥ ১৫৭ ॥
+
+yata loka āilā mahāprabhuke dekhite  
+as many  people  came  Mahāprabhu  to see  
+nānā-grāma haite āra navadvīpa haite  
+various  villages  from  and  Navadvīpa  from
+
+(157) People came from many villages and from Navadvīpa to see Mahāprabhu.[^53]
+
+সবাকারে বাসা দিল ভক্ষ্য অন্নপান ৷  
+বহুদিন আচার্য্য-গোসাঞি কৈল সমাধান ॥ ১৫৮ ॥
+
+sabākāre vāsā dila bhakṣya anna-pāna  
+to everyone  lodging  He gave  food  rice and drink  
+bahudina ācārya-gosāñi kaila samādhāna  
+for many days  Ācārya Gosāñi  did  provision
+
+(158) To all of them Ācārya Gosāñi gave lodging, food and drink, and for many days He provided for them.
+
+আচার্য্য-গোসাঞির ভাণ্ডার — অক্ষয়, অব্যয় ৷  
+যত দ্রব্য ব্যয় করে, তত দ্রব্য হয় ॥ ১৫৯ ॥
+
+ācārya-gosāñira bhāṇḍāra — akṣaya, avyaya  
+Ācārya Gosāñi’s  storehouse  inexhaustible  undiminishing  
+yata dravya vyaya kare, tata dravya haya  
+as much  goods  spending  He does  so much  goods  there are
+
+(159) The Ācārya’s storehouse was inexhaustible and never grew less: however much He spent, as much again was there.
+
+সেই দিন হৈতে শচী করেন রন্ধন ৷  
+ভক্তগণ লঞা প্রভু করেন ভোজন ॥ ১৬০ ॥
+
+sei dina haite śacī karena randhana  
+that  day  from  Śacī  does  cooking  
+bhakta-gaṇa lañā prabhu karena bhojana  
+the devotees  with  the Lord  does  eating
+
+(160) From that day on Śacī did the cooking, and the Lord ate with the devotees.
+
+দিনে আচার্য্যের প্রীতি — প্রভুর দর্শন ৷  
+রাত্রে লোক দেখে প্রভুর নর্ত্তন-কীর্ত্তন ॥ ১৬১ ॥
+
+dine ācāryera prīti — prabhura darśana  
+by day  the Ācārya’s  joy  of the Lord  the sight  
+rātre loka dekhe prabhura nartana-kīrtana  
+at night  the people  see  the Lord’s  dancing and kīrtana
+
+(161) By day the Ācārya’s joy was to behold the Lord; at night the people watched the Lord’s dancing and kīrtana.
+
+কীর্ত্তন করিতে প্রভুর সর্ব্বভাবোদয় ৷  
+স্তম্ভ, কম্প, পুলকাশ্রু, গদ্গদ, প্রলয় ॥ ১৬২ ॥
+
+kīrtana karite prabhura sarva-bhāvodaya  
+kīrtana  doing  of the Lord  the rising of all ecstasies  
+stambha, kampa, pulakāśru, gadgada, pralaya  
+stupor  trembling  hair on end and tears  choked voice  fainting
+
+(162) As He sang kīrtana, every bhāva arose in the Lord: stupor, trembling, hair standing on end, tears, a faltering voice and loss of consciousness (*pralaya*).[^54]
+
+ক্ষণে ক্ষণে পড়ে প্রভু আছাড় খাঞা ৷  
+দেখি শচীমাতা কহে রোদন করিয়া ॥ ১৬৩ ॥
+
+kṣaṇe kṣaṇe paḍe prabhu āchāḍa khāñā  
+moment  by moment  falls  the Lord  a hard fall  taking  
+dekhi śacīmātā kahe rodana kariyā  
+seeing  Śacīmātā  speaks  weeping  doing
+
+(163) Again and again the Lord fell, dashing Himself to the ground, and seeing this, Śacīmātā spoke, weeping.
+
+চূর্ণ হৈল, হেন বাসোঁ নিমাঞি-কলেবর ৷  
+হাহা করি’ বিষ্ণু-পাশে মাগে এই বর ॥ ১৬৪ ॥
+
+cūrṇa haila, hena vāsoṅ nimāñi-kalevara  
+shattered  has become  so  I feel  Nimāi’s body  
+hā-hā kari’ viṣṇu-pāśe māge ei vara  
+“alas!”  crying  from Viṣṇu  she begs  this  boon
+
+(164) “I fear Nimāi’s body has been shattered!” Crying out “Alas!”, she begged this boon of Viṣṇu:
+
+বাল্যকাল হৈতে তোমার যে কৈলুঁ সেবন ৷  
+তার প্রতিফল মোরে দেহ, নারায়ণ ॥ ১৬৫ ॥
+
+bālya-kāla haite tomāra ye kailum̐ sevana  
+childhood  from  to You  whatever  I did  service  
+tāra prati phala more deha, nārāyaṇa  
+of that  in return  the fruit  to me  give  O Nārāyaṇa
+
+(165) “O Nārāyaṇa, for whatever service I have done You since my childhood, give me this as its fruit:[^55]
+
+যে কালে নিমাঞি পড়ে ধরণী-উপরে ৷  
+ব্যথা যেন নাহি লাগে নিমাঞি-শরীরে ॥ ১৬৬ ॥
+
+ye kāle nimāñi paḍe dharaṇī-upare  
+at what  time  Nimāi  falls  upon the ground  
+vyathā yena nāhi lāge nimāñi-śarīre  
+pain  that  not  touches  Nimāi’s body
+
+(166) whenever Nimāi falls upon the ground, let no pain touch His body.”
+
+এইমত শচীদেবী বাৎসল্যে বিহ্বল ৷  
+হর্ষ-ভয়-দৈন্যভাবে হইল বিকল ॥ ১৬৭ ॥
+
+ei-mata śacīdevī vātsalye vihvala  
+in this way  Śacīdevī  with parental love  overwhelmed  
+harṣa-bhaya-dainya-bhāve haila vikala  
+by joy, fear and humility  in her feelings  became  agitated
+
+(167) In this way Śacīdevī was overwhelmed with motherly love and shaken by joy, fear and humility.
+
+শ্রীবাসাদি যত প্রভুর বিপ্র ভক্তগণ ৷  
+প্রভুকে ভিক্ষা দিতে হৈল সবাকার মন ॥ ১৬৮ ॥
+
+śrīvāsādi yata prabhura vipra bhakta-gaṇa  
+Śrīvāsa and the others  all  the Lord’s  brāhmaṇa  devotees  
+prabhuke bhikṣā dite haila sabākāra mana  
+to the Lord  alms  to give  was  of everyone  the wish
+
+(168) All the Lord’s brāhmaṇa devotees, headed by Śrīvāsa, wished to invite Him to a meal.
+
+শুনি’ শচী সবাকারে করিল মিনতি ৷  
+নিমাঞির দরশন আর মুঞি পাব কতি ॥ ১৬৯ ॥
+
+śuni’ śacī sabākāre karila minati  
+hearing  Śacī  to everyone  made  entreaty  
+nimāñira daraśana āra muñi pāba kati  
+Nimāi’s  sight  again  I  shall get  where
+
+(169) At this Śacī entreated them all: “Where will I ever see Nimāi again?
+
+তোমা-সবা-সনে হবে অন্যত্র মিলন ৷  
+মুঞি অভাগিনীর মাত্র এই দরশন ॥ ১৭০ ॥
+
+tomā-sabā-sane habe anyatra milana  
+with you all  there will be  elsewhere  meeting  
+muñi abhāginīra mātra ei daraśana  
+for me  unfortunate  only  this  sight
+
+(170) You will be able to meet Him elsewhere, but for me, unfortunate as I am, there is only this chance to see Him.
+
+যাবৎ আচার্য্যগৃহে নিমাঞির অবস্থান ৷  
+মুঞি ভিক্ষা দিব, সবাকারে মাগোঁ দান ॥ ১৭১ ॥
+
+yāvat ācārya-gṛhe nimāñira avasthāna  
+as long as  in the Ācārya’s house  Nimāi’s  stay  
+muñi bhikṣā diba, sabākāre māgom̐ dāna  
+I  alms  shall give  from everyone  I beg  this gift
+
+(171) As long as Nimāi stays in the Ācārya’s house, let me alone feed Him. I beg this gift from you all.”
+
+শুনি’ ভক্তগণ কহে করি’ নমস্কার ৷  
+মাতার যে ইচ্ছা, সেই সম্মত সবার ॥ ১৭২ ॥
+
+śuni’ bhakta-gaṇa kahe kari’ namaskāra  
+hearing  the devotees  say  having made  obeisance  
+mātāra ye icchā, sei sammata sabāra  
+the mother’s  whatever  wish  that  accepted  by all
+
+(172) Hearing this, the devotees bowed down and said, “Whatever the mother wishes, we all accept.”
+
+মাতার ব্যগ্রতা দেখি’ প্রভুর ব্যগ্র মন ৷  
+ভক্তগণ একত্র করি’ বলিলা বচন ॥ ১৭৩ ॥
+
+mātāra vyagratā dekhi’ prabhura vyagra mana  
+the mother’s  eagerness  seeing  the Lord’s  agitated  mind  
+bhakta-gaṇa ekatra kari’ balilā vacana  
+the devotees  together  gathering  He spoke  words
+
+(173) Seeing His mother’s eagerness, the Lord was moved. He gathered the devotees together and spoke to them:
+
+তোমা-সবার আজ্ঞা বিনা চলিলাম বৃন্দাবন ৷  
+যাইতে নারিল, বিঘ্ন কৈল নিবর্ত্তন ॥ ১৭৪ ॥
+
+tomā-sabāra ājñā vinā calilāma vṛndāvana  
+of you all  permission  without  I set out  for Vṛndāvana  
+yāite nārila, vighna kaila nivartana  
+to go  I could not  an obstacle  made  turning back
+
+(174) “Without your permission I set out for Vṛndāvana, but I could not get there: an obstacle turned Me back.
+
+যদ্যপি সহসা আমি কর্য্যাছোঁ সন্ন্যাস ৷  
+তথাপি তোমা-সবা হৈতে নহিব উদাস ॥ ১৭৫ ॥
+
+yadyapi sahasā āmi karyāchom̐ sannyāsa  
+although  suddenly  I  have taken  sannyāsa  
+tathāpi tomā-sabā haite nahiba udāsa  
+still  you all  from  I shall not be  indifferent
+
+(175) Although I took sannyāsa so suddenly, I shall never become indifferent to you.
+
+তোমা-সব না ছাড়িব, যাবৎ আমি জীব’ ৷  
+মাতারে তাবৎ আমি ছাড়িতে নারিব ॥ ১৭৬ ॥
+
+tomā-saba nā chāḍiba, yāvat āmi jība’  
+you all  not  I shall leave  as long as  I  live  
+mātāre tāvat āmi chāḍite nāriba  
+My mother  that long  I  to leave  shall not be able
+
+(176) As long as I live I shall not forsake you, nor shall I be able to forsake My mother.
+
+সন্ন্যাসীর ধর্ম্ম, — নহে সন্ন্যাস করিঞা ৷  
+নিজ জন্মস্থানে রহে কুটুম্ব লঞা ॥ ১৭৭ ॥
+
+sannyāsīra dharma, — nahe sannyāsa kariñā  
+of a sannyāsī  the dharma  is not  sannyāsa  having taken  
+nija janma-sthāne rahe kuṭumba lañā  
+in his own  birthplace  to stay  his family  keeping with him
+
+(177) But it is not a sannyāsī’s dharma, once he has taken sannyāsa, to stay at his birthplace with his family.[^56]
+
+কেহ যেন এই বলি’ না করে নিন্দন ৷  
+সেই যুক্তি কহ, যাতে রহে দুই ধর্ম্ম ॥ ১৭৮ ॥
+
+keha yena ei bali’ nā kare nindana  
+anyone  so that  this  saying  not  does  blame  
+sei yukti kaha, yāte rahe dui dharma  
+that  plan  tell  by which  remain  both  dharmas
+
+(178) So tell Me a plan by which both dharmas may be kept and no one may find fault with Me.”[^57]
+
+শুনিয়া প্রভুর এই মধুর বচন ৷  
+শচীপাশ আচার্য্যাদি করিল গমন ॥ ১৭৯ ॥
+
+śuniyā prabhura ei madhura vacana  
+hearing  the Lord’s  these  sweet  words  
+śacī-pāśa ācāryādi karila gamana  
+to Śacī’s side  the Ācārya and others  made  going
+
+(179) Hearing these sweet words of the Lord, the Ācārya and the others went to Śacī.
+
+প্রভুর নিবেদন তাঁরে সকল কহিল ৷  
+শুনি’ শচী জগন্মাতা কহিতে লাগিল ॥ ১৮০ ॥
+
+prabhura nivedana tām̐re sakala kahila  
+the Lord’s  request  to her  all  they told  
+śuni’ śacī jagan-mātā kahite lāgila  
+hearing  Śacī  the mother of the world  to speak  began
+
+(180) They told her all that the Lord had asked, and hearing it, Śacī, the mother of the world, said:
+
+তেঁহো যদি ইঁহা রহে, তবে মোর সুখ ৷  
+তাঁর নিন্দা হয় যদি, তবে মোর দুঃখ ॥ ১৮১ ॥
+
+tem̐ho yadi im̐hā rahe, tabe mora sukha  
+He  if  here  stays  then  my  happiness  
+tām̐ra nindā haya yadi, tabe mora duḥkha  
+His  blame  is  if  then  my  sorrow
+
+(181) “If He stays here, I shall be happy; but if He is blamed, I shall be sorrowful.[^58]
+
+তাতে এই যুক্তি ভাল, মোর মনে লয় ৷  
+নীলাচলে রহে যদি দুই কার্য্য হয় ॥ ১৮২ ॥
+
+tāte ei yukti bhāla, mora mane laya  
+therefore  this  plan  good  my  in mind  it seems  
+nīlācale rahe yadi dui kārya haya  
+in Nīlācala  He stays  if  both  aims  are achieved
+
+(182) So this plan seems good to me: if He stays in Nīlācala, both aims will be served.
+
+নীলাচলে-নবদ্বীপে যেন দুই ঘর ৷  
+লোক-গতাগতি-বার্ত্তা পাব নিরন্তর ॥ ১৮৩ ॥
+
+nīlācale-navadvīpe yena dui ghara  
+Nīlācala and Navadvīpa  as if  two  homes  
+loka-gatāgati-vārtā pāba nirantara  
+of people’s coming and going  the news  I shall get  constantly
+
+(183) Nīlācala and Navadvīpa are like two homes of one family. People are always going back and forth, and I shall constantly have news of Him.
+
+তুমি সব করিতে পার গমনাগমন ৷  
+গঙ্গাস্নানে কভু হবে তাঁর আগমন ॥ ১৮৪ ॥
+
+tumi saba karite pāra gamanāgamana  
+you  all  to make  can  going and coming  
+gaṅgāsnāne kabhu habe tām̐ra āgamana  
+for bathing in the Gaṅgā  sometimes  will be  His  coming
+
+(184) All of you can go there and come back, and at times He will come to bathe in the Gaṅgā.
+
+আপনার দুঃখ-সুখ তাহা নাহি গণি ৷  
+তাঁর যেই সুখ, তাহা নিজ-সুখ মানি ॥ ১৮৫ ॥
+
+āpanāra duḥkha-sukha tāhā nāhi gaṇi  
+my own  sorrow and happiness  that  not  I count  
+tām̐ra yei sukha, tāhā nija-sukha māni  
+His  whatever  happiness  that  my own happiness  I consider
+
+(185) I do not count my own sorrow or happiness. Whatever makes Him happy, that I take as my own happiness.”[^59]
+
+শুনি’ ভক্তগণ তাঁরে করিল স্তবন ৷  
+বেদ-আজ্ঞা যৈছে, মাতা, তোমার বচন ॥ ১৮৬ ॥
+
+śuni’ bhakta-gaṇa tām̐re karila stavana  
+hearing  the devotees  her  did  praise  
+veda-ājñā yaiche, mātā, tomāra vacana  
+the Vedas’ command  like  mother  your  words
+
+(186) The devotees praised her: “Mother, your words are like a command of the Vedas.”
+
+প্রভু-আগে ভক্তগণ কহিতে লাগিল ৷  
+শুনিয়া প্রভুর মনে আনন্দ হইল ॥ ১৮৭ ॥
+
+prabhu-āge bhakta-gaṇa kahite lāgila  
+before the Lord  the devotees  to speak  began  
+śuniyā prabhura mane ānanda haila  
+hearing  the Lord’s  in the mind  joy  arose
+
+(187) They went and told the Lord, and when He heard it, His heart was filled with joy.
+
+নবদ্বীপ-বাসী আদি যত ভক্তগণ ৷  
+সবারে সম্মান করি’ বলিলা বচন ॥ ১৮৮ ॥
+
+navadvīpa-vāsī ādi yata bhakta-gaṇa  
+the residents of Navadvīpa  and others  all  the devotees  
+sabāre sammāna kari’ balilā vacana  
+to everyone  honour  having shown  He spoke  words
+
+(188) Showing honour to all the devotees, the residents of Navadvīpa and all the rest, He spoke to them:
+
+তুমি-সব লোক — মোর পরম বান্ধব ৷  
+এই ভিক্ষা মাগোঁ — মোরে দেহ তুমি-সব ॥ ১৮৯ ॥
+
+tumi-saba loka — mora parama bāndhava  
+you all  people  My  supreme  friends  
+ei bhikṣā māgom̐ — more deha tumi-saba  
+this  alms  I beg  to Me  give  you all
+
+(189) “You are all My dearest friends, and I beg one alms of you all: grant it to Me.
+
+ঘরে যাঞা কর সদা কৃষ্ণসংকীর্ত্তন ৷  
+কৃষ্ণনাম, কৃষ্ণকথা, কৃষ্ণ-আরাধন ॥ ১৯০ ॥
+
+ghare yāñā kara sadā kṛṣṇa-saṁkīrtana  
+home  going  do  always  Kṛṣṇa-saṅkīrtana  
+kṛṣṇa-nāma, kṛṣṇa-kathā, kṛṣṇa-ārādhana  
+Kṛṣṇa’s name  talks of Kṛṣṇa  worship of Kṛṣṇa
+
+(190) Go home and always perform saṅkīrtana of Kṛṣṇa — chant Kṛṣṇa’s name, speak of Kṛṣṇa and worship Kṛṣṇa.
+
+আজ্ঞা দেহ নীলাচলে করিয়ে গমন ৷  
+মধ্যে মধ্যে আসি’ তোমায় দিব দরশন ॥ ১৯১ ॥
+
+ājñā deha nīlācale kariye gamana  
+permission  give  to Nīlācala  let Me make  going  
+madhye madhye āsi’ tomāya diba daraśana  
+from time  to time  coming  to you  I shall give  sight (of Myself)
+
+(191) Give Me leave to go to Nīlācala. From time to time I shall come back and let you see Me.”
+
+এত বলি’ সবাকারে ঈষৎ হাসিঞা ৷  
+বিদায় করিল প্রভু সম্মান করিঞা ॥ ১৯২ ॥
+
+eta bali’ sabākāre īṣat hāsiñā  
+thus  saying  to everyone  slightly  smiling  
+vidāya karila prabhu sammāna kariñā  
+farewell  made  the Lord  honour  showing
+
+(192) Saying this, the Lord smiled gently at everyone and bade them farewell with due honour.
+
+সবা বিদায় দিয়া প্রভু চলিতে হৈল মন ৷  
+হরিদাস কান্দি’ কহে করুণ বচন ॥ ১৯৩ ॥
+
+sabā vidāya diyā prabhu calite haila mana  
+all  leave  having given  the Lord  to depart  became  the mind  
+haridāsa kāndi’ kahe karuṇa vacana  
+Haridāsa  weeping  says  piteous  words
+
+(193) When He had bidden them all farewell, the Lord made up His mind to set out. Then Haridāsa, weeping, spoke piteously:
+
+নীলাচলে যাবে তুমি, মোর কোন্ গতি ৷  
+নীলাচলে যাইতে মোর নাহিক শকতি ॥ ১৯৪ ॥
+
+nīlācale yābe tumi, mora kon gati  
+to Nīlācala  will go  You  my  what  destination  
+nīlācale yāite mora nāhika śakati  
+to Nīlācala  to go  my  there is no  power
+
+(194) “You will go to Nīlācala — but what will become of me? I have no power to go to Nīlācala.[^60]
+
+মুঞি অধম তোমার না পাব দরশন ৷  
+কেমতে ধরিব এই পাপিষ্ঠ জীবন ॥ ১৯৫ ॥
+
+muñi adhama tomāra nā pāba daraśana  
+I  lowly  Your  not  shall get  sight  
+kemate dhariba ei pāpiṣṭha jīvana  
+how  shall I sustain  this  sinful  life
+
+(195) Lowly as I am, I shall not be able to see You. How shall I keep this sinful life?”
+
+প্রভু কহে, — কর তুমি দৈন্য সম্বরণ ৷  
+তোমার দৈন্যেতে মোর ব্যাকুল হয় মন ॥ ১৯৬ ॥
+
+prabhu kahe, — kara tumi dainya samvaraṇa  
+the Lord  says  do  you  of humility  restraint  
+tomāra dainyete mora vyākula haya mana  
+your  by humility  My  troubled  becomes  mind
+
+(196) The Lord said, “Restrain your humility; it troubles My heart.
+
+তোমার লাগি’ জগন্নাথে করিব নিবেদন ৷  
+তোমা লঞা যাব আমি শ্রীপুরুষোত্তম ॥ ১৯৭ ॥
+
+tomāra lāgi’ jagannāthe kariba nivedana  
+you  for the sake of  to Jagannātha  I shall make  a petition  
+tomā lañā yāba āmi śrī-puruṣottama  
+you  taking  shall go  I  to Śrī Puruṣottama
+
+(197) For your sake I shall plead with Jagannātha, and I shall take you with Me to Śrī Puruṣottama.”[^61]
+
+তবে ত’ আচার্য্য কহে বিনয় করিঞা ৷  
+দিন দুই-চারি রহ কৃপা ত’ করিঞা ॥ ১৯৮ ॥
+
+tabe ta’ ācārya kahe vinaya kariñā  
+then  indeed  the Ācārya  says  humility  showing  
+dina dui-cāri raha kṛpā ta’ kariñā  
+days  two or four  stay  mercy  indeed  showing
+
+(198) Then the Ācārya said humbly, “Be merciful and stay a few more days.”
+
+আচার্য্যের বাক্য প্রভু না করে লঙ্ঘন ৷  
+রহিলা অদ্বৈত-গৃহে, না কৈল গমন ॥ ১৯৯ ॥
+
+ācāryera vākya prabhu nā kare laṅghana  
+the Ācārya’s  words  the Lord  not  does  transgression  
+rahilā advaita-gṛhe, nā kaila gamana  
+He stayed  in Advaita’s house  not  did  going
+
+(199) The Lord would not go against the Ācārya’s words. He stayed on in Advaita’s house and did not leave.
+
+আনন্দিত হৈল আচার্য্য, শচী, ভক্ত, সব ৷  
+প্রতিদিন করে আচার্য্য মহা-মহোৎসব ॥ ২০০ ॥
+
+ānandita haila ācārya, śacī, bhakta, saba  
+delighted  became  the Ācārya  Śacī  the devotees  all  
+prati-dina kare ācārya mahā-mahotsava  
+every day  holds  the Ācārya  a great festival
+
+(200) The Ācārya, Śacī and all the devotees were delighted, and every day He held a grand festival.
+
+দিনে কৃষ্ণ-কথা-রস ভক্তগণ-সঙ্গে ৷  
+রাত্রে মহা-মহোৎসব সংকীর্ত্তন-রঙ্গে ॥ ২০১ ॥
+
+dine kṛṣṇa-kathā-rasa bhakta-gaṇa-saṅge  
+by day  of Kṛṣṇa  talks’  relish  with the devotees  
+rātre mahā-mahotsava saṁkīrtana-raṅge  
+at night  a great festival  of saṅkīrtana  in the joy
+
+(201) By day there was the relish of talks about Kṛṣṇa with the devotees, and at night a great festival of joyous saṅkīrtana.
+
+আনন্দিত হঞা শচী করেন রন্ধন ৷  
+সুখে ভোজন করে প্রভু লঞা ভক্তগণ ॥ ২০২ ॥
+
+ānandita hañā śacī karena randhana  
+delighted  becoming  Śacī  does  cooking  
+sukhe bhojana kare prabhu lañā bhakta-gaṇa  
+happily  eating  does  the Lord  taking  the devotees
+
+(202) Śacī cooked with delight, and the Lord ate happily with the devotees.
+
+আচার্য্যের শ্রদ্ধা-ভক্তি, গৃহ-সম্পদ্-ধনে ৷  
+সকল সফল হৈল প্রভুর আগমনে ॥ ২০৩ ॥
+
+ācāryera śraddhā-bhakti, gṛha-sampad-dhane  
+the Ācārya’s  faith and devotion  house  property  wealth  
+sakala saphala haila prabhura āgamane  
+all  fruitful  became  of the Lord  by the coming
+
+(203) With the Lord’s coming, the Ācārya’s faith and devotion, His house, His property and His wealth all bore their fruit.[^62]
+
+শচীর আনন্দ বাড়ে দেখি’ পুত্রমুখ ৷  
+ভোজন করাঞা পূর্ণ কৈল নিজসুখ ॥ ২০৪ ॥
+
+śacīra ānanda bāḍe dekhi’ putra-mukha  
+Śacī’s  bliss  grows  seeing  her son’s face  
+bhojana karāñā pūrṇa kaila nija-sukha  
+eating  making (Him)  full  she made  her own happiness
+
+(204) Śacī’s bliss grew as she saw her son’s face, and by feeding Him she made her own happiness complete.
+
+এইমত অদ্বৈত-গৃহে ভক্তগণ মিলে’ ৷  
+বঞ্চিলা কতদিন মহা-কুতূহলে ॥ ২০৫ ॥
+
+ei-mata advaita-gṛhe bhakta-gaṇa mile’  
+in this way  in Advaita’s house  the devotees  gathering  
+vañcilā kata dina mahā-kutūhale  
+they spent  some  days  in great festivity
+
+(205) In this way the devotees, gathered in Advaita’s house, spent several days in great festivity.
+
+আর দিন প্রভু কহে সব ভক্তগণে ৷  
+নিজ-নিজ-গৃহে সবে করহ গমনে ॥ ২০৬ ॥
+
+āra dina prabhu kahe saba bhakta-gaṇe  
+another  day  the Lord  says  all  to the devotees  
+nija-nija-gṛhe sabe karaha gamane  
+to their own homes  all  make  going
+
+(206) Then one day the Lord said to all the devotees, “Go back now, all of you, to your own homes.
+
+ঘরে গিয়া কর সবে কৃষ্ণসংকীর্ত্তন ৷  
+পুনরপি আমা-সঙ্গে হইবে মিলন ॥ ২০৭ ॥
+
+ghare giyā kara sabe kṛṣṇa-saṁkīrtana  
+home  going  do  all  Kṛṣṇa-saṅkīrtana  
+punarapi āmā-saṅge ha-ibe milana  
+again  with Me  there will be  meeting
+
+(207) Once home, all of you perform saṅkīrtana of Kṛṣṇa, and you will meet Me again.
+
+কভু বা তোমরা করিবে নীলাদ্রি গমন ৷  
+কভু বা আসিব আমি করিতে গঙ্গাস্নান ॥ ২০৮ ॥
+
+kabhu vā tomarā karibe nīlādri gamana  
+sometimes  either  you  will make  to Nīlādri  journey  
+kabhu vā āsiba āmi karite gaṅgā-snāna  
+sometimes  or  shall come  I  to make  bathing in the Gaṅgā
+
+(208) Sometimes you will come to Nīlādri, and sometimes I shall come to bathe in the Gaṅgā.”
+
+নিত্যানন্দ-গোসাঞি, পণ্ডিত জগদানন্দ ৷  
+দামোদর পণ্ডিত আর দত্ত মুকুন্দ ॥ ২০৯ ॥
+
+nityānanda-gosāñi, paṇḍita jagadānanda  
+Nityānanda Gosāñi  Paṇḍita  Jagadānanda  
+dāmodara paṇḍita āra datta mukunda  
+Dāmodara  Paṇḍita  and  Datta  Mukunda
+
+(209) Nityānanda Gosāñi, Jagadānanda Paṇḍita, Dāmodara Paṇḍita and Mukunda Datta —
+
+এই চারিজন, আচার্য্য দিল প্রভু সনে ৷  
+জননী প্রবোধ করি’ বন্দিল চরণে ॥ ২১০ ॥
+
+ei cārijana, ācārya dila prabhu sane  
+these  four persons  the Ācārya  gave  the Lord  with  
+jananī prabodha kari’ vandila caraṇe  
+the mother  consoling  having done  He bowed  at the feet
+
+(210) the Ācārya sent these four with the Lord. The Lord consoled His mother and bowed at her feet.
+
+তাঁরে প্রদক্ষিণ করি’ করিল গমন ৷  
+এথা আচার্য্যের ঘরে উঠিল ক্রন্দন ॥ ২১১ ॥
+
+tām̐re pradakṣiṇa kari’ karila gamana  
+her  circumambulation  having done  He made  departure  
+ethā ācāryera ghare uṭhila krandana  
+here  in the Ācārya’s  house  arose  weeping
+
+(211) He walked around her in reverence and departed, and in the Ācārya’s house a cry of weeping arose.
+
+নিরপেক্ষ হঞা প্রভু শীঘ্র চলিলা ৷  
+কান্দিতে কান্দিতে আচার্য্য পশ্চাৎ চলিলা ॥ ২১২ ॥
+
+nirapekṣa hañā prabhu śīghra calilā  
+independent  becoming  the Lord  swiftly  went  
+kāndite kāndite ācārya paścāt calilā  
+weeping  weeping  the Ācārya  behind  went
+
+(212) Free of all worldly ties, the Lord walked swiftly away, and the Ācārya followed Him, weeping as He went.[^63]
+
+কতদূর গিয়া প্রভু করি’ যোড়হাত ৷  
+আচার্য্যে প্রবোধি’ কহে কিছু মিষ্ট বাত ॥ ২১৩ ॥
+
+kata dūra giyā prabhu kari’ yoḍa hāta  
+some  distance  having gone  the Lord  making  joined  hands  
+ācārye prabodhi’ kahe kichu miṣṭa bāta  
+the Ācārya  consoling  says  some  sweet  words
+
+(213) After going some distance, the Lord joined His palms and spoke sweet, consoling words to the Ācārya:
+
+জননী প্রবোধি’, কর ভক্ত-সমাধান ৷  
+তুমি ব্যগ্র হৈলে কারো না রহিবে প্রাণ ॥ ২১৪ ॥
+
+jananī prabodhi’, kara bhakta-samādhāna  
+the mother  consoling  do  of the devotees  comforting  
+tumi vyagra haile kāro nā rahibe prāṇa  
+You  distressed  if You become  of anyone  not  will remain  life
+
+(214) “Console My mother and comfort the devotees. If You lose heart, no one will survive.”
+
+এত বলি’ প্রভু তাঁরে করি’ আলিঙ্গন ৷  
+নিবৃত্ত করিয়া কৈল স্বচ্ছন্দ গমন ॥ ২১৫ ॥
+
+eta bali’ prabhu tām̐re kari’ āliṅgana  
+thus  saying  the Lord  Him  having made  embrace  
+nivṛtta kariyā kaila svacchanda gamana  
+turned back  having made  He made  unhindered  going
+
+(215) Saying this, the Lord embraced Him, made Him turn back, and went on His way unhindered.
+
+গঙ্গাতীরে-তীরে প্রভু চারিজন-সাথে ৷  
+নীলাদ্রি চলিলা প্রভু ছত্রভোগ-পথে ॥ ২১৬ ॥
+
+gaṅgā-tīre-tīre prabhu cāri-jana-sāthe  
+along the bank of the Gaṅgā  the Lord  with the four  
+nīlādri calilā prabhu chatrabhoga-pathe  
+to Nīlādri  set out  the Lord  by the Chatrabhoga road
+
+(216) With His four companions the Lord set out for Nīlādri along the bank of the Gaṅgā, by the road through Chatrabhoga.[^64]
+
+‘চৈতন্যমঙ্গলে’ প্রভুর নীলাদ্রি-গমন ৷  
+বিস্তারি’ বর্ণিয়াছেন দাস-বৃন্দাবন ॥ ২১৭ ॥
+
+‘caitanya-maṅgale’ prabhura nīlādri-gamana  
+in the Caitanya-maṅgala  the Lord’s  journey to Nīlādri  
+vistāri’ varṇiyāchena dāsa-vṛndāvana  
+in detail  has described  Vṛndāvana dāsa
+
+(217) In the *Caitanya-maṅgala* Vṛndāvana dāsa has described in detail the Lord’s journey to Nīlādri.[^65]
+
+অদ্বৈত-গৃহে প্রভুর বিলাস শুনে যেই জন ৷  
+অচিরে মিলয়ে তাঁরে কৃষ্ণপ্রেম-ধন ॥ ২১৮ ॥
+
+advaita-gṛhe prabhura vilāsa śune yei jana  
+in Advaita’s house  the Lord’s  pastimes  hears  whatever  person  
+acire milaye tām̐re kṛṣṇa-prema-dhana  
+soon  attains  he  the wealth of love for Kṛṣṇa
+
+(218) Whoever hears of the Lord’s pastimes in Advaita’s house soon attains the treasure of love for Kṛṣṇa.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২১৯ ॥
+
+śrī rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(219) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^66]
+
 ---
 
 [^1]: *Anubhāṣya*: *bhramāt* — the Lord shows bewilderment to worldly eyes, revealing that Kṛṣṇa’s abode, seen only by eyes of bhakti anointed with the salve of prema, cannot be reached by worldly effort. Heading in the edition: “Obeisance to Gaura, who wandered just after taking sannyāsa”.
@@ -1207,3 +2297,51 @@ of the saffron cloth  the radiance  on it  makes  glitter
 [^41]: Heading in the edition: “A Vaiṣṇava’s sannyāsa sets aside the rules of the smārtas”. *Amṛta-pravāha-bhāṣya*: *smṛti-dharma* — the dharma of the smārtas.
 
 [^42]: *Anubhāṣya*: the Lord, a sannyāsī, saw that He was given a fine bed, cloves, cardamom, sandalwood paste and a garland, and that Advaita even wished to massage His feet; so He said, “You have made Me dance a great deal.”
+
+[^43]: The edition reads *loka saba* (“all the people”); another reading is *loka harṣe* (“the people in joy”). *Anubhāṣya*: *samādhāna* — counting.
+
+[^44]: Above the verse the edition prints “A song — [rāga Dhānaśrī]”. *Amṛta-pravāha-bhāṣya*: *ora* — limit; the song is by Vidyāpati. The *Anubhāṣya* quotes the whole song and remarks that it suits the union (*sambhoga*) that follows the separation when Kṛṣṇa was in Mathurā; to take “Mādhava” here for Mādhavendra Purī and the song for Advaita’s own is mistaken. *Cira-dina* is rendered “at long last” in keeping with this reading.
+
+[^45]: *Gāoyāiyā* is causative: “having (others) sing”.
+
+[^46]: Heading in the edition: “The Lord’s separation from Kṛṣṇa”.
+
+[^47]: *Ki nā haila more* — literally “what has not befallen Me!” *Anubhāṣya*: in a song of union (*sambhoga*) the Lord, not finding Kṛṣṇa beside Him, fully revealed the rasa of separation (*vipralambha*); seeing this, Mukunda began a fitting song, and Advaita Prabhu stopped dancing. Vidyāpati has a similar song: “What shall I do, where shall I go? I find no peace.”
+
+[^48]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): *harṣa* is the gladness of heart that comes from seeing or gaining what one longs for; *garva* is disregard for others born of one’s good fortune, beauty, youth, virtues, exalted shelter or the attainment of what one desired.
+
+[^49]: Ācāryaratna — Candraśekhara (see v. 20).
+
+[^50]: *Amṛta-pravāha-bhāṣya*: *āi* — *āryā*, the honoured lady, that is, Śacīmātā.
+
+[^51]: Heading in the edition: “A devotee’s joy at the sight of the Lord is not a wish to please his own senses”.
+
+[^52]: Heading in the edition: “Advaita’s house is Vaikuṇṭha: there Hari is served at every moment”.
+
+[^53]: The edition reads *āilā*; another reading is *āila*; the sense is the same.
+
+[^54]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): “every bhāva” means the eight *sāttvika* transformations — stupor, sweat, hair standing on end, a breaking voice, trembling, pallor, tears and *pralaya*; *pralaya* is the cessation of action and awareness through joy or through sorrow, and its sign is falling to the ground.
+
+[^55]: *Anubhāṣya*: “since my childhood” — from her very infancy. Śacīmātā is eternally perfect, *vātsalya* embodied, by nature Yaśodā herself; devoted to Kṛṣṇa’s service from birth, she was never an ordinary jīva, and here this is told from her own lips.
+
+[^56]: Heading in the edition: “It is not a sannyāsī’s duty to be a *vāntāśī* — ‘one who eats what he has vomited’”.
+
+[^57]: Heading in the edition: “So that Mahāprabhu may not be blamed for false renunciation (*phalgu-vairāgya*), He asks the devotees for counsel”.
+
+[^58]: *Anubhāṣya*: if her son gave up his search for Kṛṣṇa and stayed at home, a mother would be pleased; but the son would be blamed for abandoning Kṛṣṇa’s service, and a truly loving mother would only grieve. Her real happiness lies not in the joy of seeing her son but in his serving Kṛṣṇa; with these words Śacī, the Mother of the world, taught all mothers (cf. Śrīmad-Bhāgavatam, 5.5.18).
+
+[^59]: *Anubhāṣya*: this verse beautifully explains service: to serve is to wish for the pleasure of Kṛṣṇa’s senses (cf. Ādi 4.174–175, 201, 204; Madhya 4.186; and Bhaktivinoda Ṭhākura’s song “Sevā-sukha-duḥkha — parama sampad” in *Śaraṇāgati*).
+
+[^60]: *Anubhāṣya*: Haridāsa Ṭhākura was born in a yavana family but attained brāhmaṇahood by initiation. In his natural humility he told the Lord that by birth he had no right to enter Nīlācala: only people of the four varṇas may enter the courtyard of the Śrī Mandira. Later, learning that nothing prevented him from living on the sands near Nīlādri, he settled there; the place is now known as the Siddha-bakula Maṭha.
+
+[^61]: Heading in the edition: “Spurning the smārta society averse to Hari, the Lord promises to take to Purī Ṭhākura Haridāsa, the transcendental guru of brāhmaṇas and a Vaiṣṇava ācārya”.
+
+[^62]: The edition reads *prabhura āgamane* (“with the Lord’s coming”); another reading is *prabhura ārādhane* (“in the worship of the Lord”).
+
+[^63]: *Anubhāṣya*: *nirapekṣa* — free of all dependence on matter and the material, established in one’s own nature, the service of Bhagavān. Fearing that an obstacle might arise in His search for Kṛṣṇa, the Lord left on hearing His kinsmen weep and was thought heartless by worldly moralists; but as the world’s teacher He showed that the one thing needful for the jīva is the service of Kṛṣṇa, and that even good morality, if it opposes that service, is a path contrary to Caitanya (cf. Antya 3.23).
+
+[^64]: *Amṛta-pravāha-bhāṣya*: the Lord went along the Gaṅgā through Āṭisārā, Pānihāṭi and Varāhanagara. At that time the Gaṅgā south of Calcutta flowed past Kālīghāṭa and Bāruipura and through the Mathurāpura police station into the ocean in a hundred streams; there, at a place called Ambuliṅga, lay the road through Chatrabhoga. *Anubhāṣya*: the village of Chatrabhoga (also called Khāḍi) lies south of Jayanagara in the 24 Parganas district; the Gaṅgā no longer flows there; see *Caitanya-bhāgavata*, Antya 2.
+
+[^65]: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). *Anubhāṣya*: on the way to Nīlācala the Lord passed in Bengal through Āṭisārā, Varāhanagara and Ambuliṅga-Chatrabhoga, and in Utkala through Prayāga-ghāṭa, Suvarṇarekhā, Jaleśvara, Remuṇā, Yājapura, Vaitaraṇī, Daśāśvamedha-ghāṭa, Kaṭaka, Mahānadī, Bhuvaneśvara (Bindu-sarovara), Kamalapura, Āṭhāranālā and other places.
+
+[^66]: The same verse as Ādi 7.171 and Madhya 1.287; translation as there.
