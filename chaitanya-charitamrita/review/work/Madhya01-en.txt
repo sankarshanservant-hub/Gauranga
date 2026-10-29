@@ -84,7 +84,7 @@ fn: Edition heading (to 11–12): “A promise: the events described in detail i
 ## 13
 w: of Caitanya’s pastimes  the Vyāsa  —  dāsa  Vṛndāvana
 w: by his  order  I do  his  remnants  chewing
-tr: Vṛndāvana dāsa is the Vyāsa of Śrī Caitanya’s pastimes. By his order I only chew the remnants of his meal.
+tr: Vṛndāvana dāsa is the Vyāsa of Śrī Caitanya’s pastimes. By his order I merely partake of the remnants of his meal.
 fn: The first line is the same as in Ādi 8.34 and 13.48. *Anubhāṣya*: Kṛṣṇa Dvaipāyana Vyāsa wrote of the avatāras and of Kṛṣṇa’s pastimes; Vṛndāvana dāsa Ṭhākura, who wrote of Śrī Caitanya’s pastimes, is Vyāsa himself (*vyāsa-svarūpa*); Kṛṣṇadāsa writes of what he left untold as his servant and follower.
 
 ## 14
@@ -115,7 +115,7 @@ tr: The Śeṣa-līlā has two names, ‘Madhya’ (middle) and ‘Anta’ (fina
 ## 19
 w: of them  within  six  years  —  going and coming
 w: Nīlācala  Gauḍa  Setubandha  Vṛndāvana
-tr: Six of those years He spent journeying — to and fro between Nīlācala and Gauḍa, Setubandha and Vṛndāvana.
+tr: Six of those years He spent journeying to and fro — from Nīlācala to Gauḍa, to Setubandha, to Vṛndāvana, and back again.
 fn: The first line is the same as in Ādi 13.12; the second differs there (“now to the south, now to Gauḍa, now to Vṛndāvana”). Setubandha is the site of Rāma’s bridge near Rāmeśvaram (cf. 116).
 
 ## 20
@@ -363,7 +363,7 @@ tr: When the Lord came and by chance looked up, He found that verse on the palm 
 ## 67
 w: the verse  having read  remains  the Lord  absorbed (in ecstasy)  becoming
 w: Rūpa Gosāñi  coming  falls  like a rod  becoming
-tr: Having read the verse, the Lord stood absorbed in ecstasy. Rūpa Gosāñi came and fell before Him flat like a rod.
+tr: Having read the verse, the Lord stood absorbed in ecstasy. Rūpa Gosāñi came up and fell flat before Him in obeisance.
 
 ## 68
 w: getting up  Mahāprabhu  him  a slap  giving
@@ -389,7 +389,7 @@ tr: Astonished, the Lord asked Svarūpa, “How did Rūpa know what is in My min
 ## 72
 w: Svarūpa  says  since  he knew  Your  mind
 w: from that  I know  he is  of Your  mercy  a recipient
-tr: Svarūpa said, “Since he knew Your mind, I know from this that he has received Your mercy.”
+tr: Svarūpa said, “That he knew Your mind tells me he has received Your mercy.”
 
 ## 73
 w: the Lord  says  with him  I  pleased  being
@@ -439,13 +439,13 @@ w: they said  and  Your  O lotus-naveled Lord  lotus feet
 w: by the masters of yoga  in the heart  meditated upon  of fathomless wisdom
 w: of worldly life  into the well  of the fallen  for rescue  the support
 w: to home  attached  even  in the mind  may they rise  always  our
-tr: (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate on Your lotus feet within their hearts; those feet are the support that rescues those fallen into the well of worldly life. May they always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)
+tr: (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate within their hearts on Your lotus feet, the support by which souls fallen into the well of worldly life are lifted out. May those feet always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)
 fn: *Anubhāṣya*: the gopīs spoke these words to Kṛṣṇa after meeting Him at Kurukṣetra (Syamantapañcaka); *gehaṁ juṣām* — “of us who dwell at home, in Vṛndāvana, devoted by nature to our household duties”: we are neither yogīs absorbed in meditation nor worldly people, but are sunk in the ocean of separation from You. *Amṛta-pravāha-bhāṣya*: some readings add here another verse, Śrīmad-Bhāgavatam 10.83.2.
 
 ## 82
 w: Your  feet  in My  of Vraja  village  home
 w: rising  they make  if  then  desire  is fulfilled
-tr: “If Your feet rise in My home in the village of Vraja, then My desire will be fulfilled.”
+tr: “If Your feet should appear in My home in Vraja, then My desire will be fulfilled.”
 fn: The pronoun is singular (*mora*, “My”): these are Rādhikā’s thoughts continued from 78–80, by which Mahāprabhu explains the verse.
 
 ## 83
@@ -561,7 +561,7 @@ tr: At Jiyaḍa-nṛsiṁha He offered prayers to Nṛsiṁha, and on every road
 ## 104
 w: of the Godāvarī  on the bank  in the forest  for Vṛndāvana  mistaking
 w: Rāmānanda  Rāya  with  right there  meeting
-tr: In the forest on the bank of the Godāvarī He mistook the place for Vṛndāvana, and right there He met Rāmānanda Rāya.
+tr: The forest on the bank of the Godāvarī seemed to Him to be Vṛndāvana, and right there He met Rāmānanda Rāya.
 
 ## 105
 w: of Trimalla  Tripadī  the holy places  He made  the sight
@@ -612,7 +612,7 @@ tr: There He met Śrī Raṅga Purī, and He relieved the sorrow of the brahmin 
 ## 114
 w: the Tattvavādīs  with  He made  of the truth  discussion
 w: themselves  inferior  the opinion  became  of them all
-tr: He discussed the truth with the Tattvavādīs, and they all came to regard themselves as inferior.
+tr: He discussed the truth with the Tattvavādīs, and they all came to see their own understanding as inferior.
 
 ## 115
 w: Ananta  Puruṣottama  Śrī Janārdana
@@ -722,7 +722,7 @@ tr: In that place He showed mercy to Pratāparudra. On the day of farewell He ga
 ## 136
 w: every year  come  to see the Ratha-yātrā
 w: on this  pretext  He wants  with the devotees  meeting
-tr: “Come every year to see the Ratha-yātrā.” On this pretext He wished to meet His devotees.
+tr: “Come every year to see the Ratha-yātrā.” In this way He sought to meet His devotees again and again.
 
 ## 137
 w: in Sārvabhauma’s house  the Lord’s  meal  the splendid arrangement
@@ -749,7 +749,7 @@ tr: A fortunate dog came with Śivānanda; having seen the Lord’s feet, it van
 ## 141
 w: on the way  Sārvabhauma  with  of all  the meeting
 w: Sārvabhauma  Bhaṭṭācārya’s  to Kāśī  departure
-tr: On the way they all met Sārvabhauma, and Sārvabhauma Bhaṭṭācārya went on to Kāśī.
+tr: On the way they all met Sārvabhauma Bhaṭṭācārya, who was going on to Kāśī.
 
 ## 142
 w: the Lord  met  all  the Vaiṣṇavas  coming
@@ -1024,7 +1024,7 @@ tr: You delivered the two brothers Jagāi and Mādhāi, but delivering them cost
 ## 193
 w: brāhmaṇas  by birth  they  in Navadvīpa  home
 w: the low  service  not  they do  not are  of the low  the elbow
-tr: They were brāhmaṇas by birth and lived in Navadvīpa. They did not serve low people, nor were they the low people’s “elbow” (their instruments).
+tr: They were brāhmaṇas by birth and lived in Navadvīpa. They did not serve low people, nor were they the ‘elbow’ — the ready tool — of low men.
 
 ## 194
 w: only  one  fault  theirs  was  sinful conduct
@@ -1139,7 +1139,7 @@ tr: I had no reason to come near Gauḍa; I came here only to see you two.
 ## 213
 w: this  of My  heart  the matter  anyone  not  knows
 w: all  say  why  has He come  to the village of Rāmakeli
-tr: No one knows this, the secret of My heart; everyone asks why I have come to Rāmakeli.
+tr: No one knows the secret of My heart; everyone asks why I have come to Rāmakeli.
 
 ## 214
 w: good  it was  the two  brothers  came  My  to the place
@@ -1174,28 +1174,28 @@ tr: Nityānanda, Haridāsa, Śrīvāsa, Gadādhara, Mukunda, Jagadānanda, Murā
 ## 220
 w: of all  the feet  clasping  fall  the two  brothers
 w: all  say  blessed  you are  you have attained  the Gosāñi
-tr: The two brothers clasped the feet of each of them and fell down, and all said: “You are blessed — you have attained the Lord.”
+tr: The two brothers fell at the feet of each of them, and all said: “You are blessed — you have attained the Lord.”
 
 ## 221
 w: from all  permission  asking  at the time of leaving
 w: at the Lord’s feet  they say  something  showing  humility
-tr: Asking leave of everyone, at the time of departure they humbly spoke to the Lord at His feet:
+tr: Asking leave of everyone, at the time of departure they bowed at the Lord’s feet and humbly said:
 fn: Edition heading: “Sanātana gives the Lord good counsel at parting”.
 
 ## 222
 w: here  from  go  O Lord  here  there is no  business
 w: although  You  devotion  shows  the king of Gauḍa
-tr: “Leave this place, O Lord; there is nothing for You here. Although the king of Gauḍa shows You devotion,
+tr: “Leave this place, O Lord; there is nothing for You here. True, the king of Gauḍa shows You devotion.
 
 ## 223
 w: still  a Muslim  by birth  not  do  trust
 w: on pilgrimage  such  a crowd  good  is not  the custom
-tr: he is still a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
+tr: Yet he is a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
 
 ## 224
 w: with whom  together  go  these  people  in hundreds of thousands
 w: to Vṛndāvana  for going  this  is not  the proper manner
-tr: To travel to Vṛndāvana with hundreds of thousands of people in tow is not fitting.”
+tr: To travel to Vṛndāvana followed by hundreds of thousands of people is not fitting.”
 
 ## 225
 w: although  in truth  of the Lord  any  there is no  fear
@@ -1365,7 +1365,7 @@ tr: Advaita, Nityānanda, Mukunda, Śrīvāsa, Vidyānidhi, Vāsudeva, Murāri a
 ## 257
 w: of Haridāsa  the attainment of perfection  wonderful  that  all
 w: Himself  Mahāprabhu  whose  held  great festival
-tr: Haridāsa’s attainment of perfection — all of it was wonderful; Mahāprabhu Himself held a great festival in his honour.
+tr: Haridāsa’s attainment of perfection was wonderful in every way, and Mahāprabhu Himself held a great festival in his honour.
 fn: *Anubhāṣya*: on the passing of Ṭhākura Haridāsa, see Antya, ch. 11.
 
 ## 258

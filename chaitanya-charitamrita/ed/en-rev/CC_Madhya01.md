@@ -154,7 +154,7 @@ of Caitanya’s pastimes  the Vyāsa  —  dāsa  Vṛndāvana
 tām̐ra ājñāya karom̐ tām̐ra ucchiṣṭa carvaṇa  
 by his  order  I do  his  remnants  chewing
 
-(13) Vṛndāvana dāsa is the Vyāsa of Śrī Caitanya’s pastimes. By his order I only chew the remnants of his meal.[^6]
+(13) Vṛndāvana dāsa is the Vyāsa of Śrī Caitanya’s pastimes. By his order I merely partake of the remnants of his meal.[^6]
 
 ভক্তি করি’ শিরে ধরি তাঁহার চরণ ৷  
 শেষলীলার সূত্র ইবে করিয়ে বর্ণন ॥ ১৪ ॥
@@ -214,7 +214,7 @@ of them  within  six  years  —  going and coming
 nīlācala-gauḍa-setubandha-vṛndāvana  
 Nīlācala  Gauḍa  Setubandha  Vṛndāvana
 
-(19) Six of those years He spent journeying — to and fro between Nīlācala and Gauḍa, Setubandha and Vṛndāvana.[^7]
+(19) Six of those years He spent journeying to and fro — from Nīlācala to Gauḍa, to Setubandha, to Vṛndāvana, and back again.[^7]
 
 তাঁহা যেই লীলা, তার ‘মধ্যলীলা’ নাম ৷  
 তার পাছে লীলা — ‘অন্ত্যলীলা’ অভিধান ॥ ২০ ॥
@@ -700,7 +700,7 @@ the verse  having read  remains  the Lord  absorbed (in ecstasy)  becoming
 rūpa-gosāñi āsi’ paḍe daṇḍavat hañā  
 Rūpa Gosāñi  coming  falls  like a rod  becoming
 
-(67) Having read the verse, the Lord stood absorbed in ecstasy. Rūpa Gosāñi came and fell before Him flat like a rod.
+(67) Having read the verse, the Lord stood absorbed in ecstasy. Rūpa Gosāñi came up and fell flat before Him in obeisance.
 
 উঠি’ মহাপ্রভু তাঁরে চাপড় মারিয়া ৷  
 কহিতে লাগিলা কিছু কোলেতে করিয়া ॥ ৬৮ ॥
@@ -750,7 +750,7 @@ Svarūpa  says  since  he knew  Your  mind
 tāte jāni, — haya tomāra kṛpāra bhājana  
 from that  I know  he is  of Your  mercy  a recipient
 
-(72) Svarūpa said, “Since he knew Your mind, I know from this that he has received Your mercy.”
+(72) Svarūpa said, “That he knew Your mind tells me he has received Your mercy.”
 
 প্রভু কহে, — তারে আমি সন্তুষ্ট হঞা ৷  
 আলিঙ্গন কৈলুঁ সর্ব্বশক্তি সঞ্চারিয়া ॥ ৭৩ ॥
@@ -852,7 +852,7 @@ of worldly life  into the well  of the fallen  for rescue  the support
 gehaṁ juṣām api manasy udiyāt sadā naḥ  
 to home  attached  even  in the mind  may they rise  always  our
 
-(81) (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate on Your lotus feet within their hearts; those feet are the support that rescues those fallen into the well of worldly life. May they always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)[^15]
+(81) (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate within their hearts on Your lotus feet, the support by which souls fallen into the well of worldly life are lifted out. May those feet always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)[^15]
 
 তোমার চরণ মোর ব্রজপুরঘরে ৷  
 উদয় করয়ে যদি, তবে বাঞ্ছা পূরে ॥ ৮২ ॥
@@ -862,7 +862,7 @@ Your  feet  in My  of Vraja  village  home
 udaya karaye yadi, tabe vāñchā pūre  
 rising  they make  if  then  desire  is fulfilled
 
-(82) “If Your feet rise in My home in the village of Vraja, then My desire will be fulfilled.”[^16]
+(82) “If Your feet should appear in My home in Vraja, then My desire will be fulfilled.”[^16]
 
 ভাগবতের শ্লোকার্থ বিচার করিঞা ৷  
 রূপ-গোসাঞি শ্লোক কৈল লোক বুঝাইঞা ॥ ৮৩ ॥
@@ -1088,7 +1088,7 @@ of the Godāvarī  on the bank  in the forest  for Vṛndāvana  mistaking
 rāmānanda rāya saha tāhāñi milana  
 Rāmānanda  Rāya  with  right there  meeting
 
-(104) In the forest on the bank of the Godāvarī He mistook the place for Vṛndāvana, and right there He met Rāmānanda Rāya.
+(104) The forest on the bank of the Godāvarī seemed to Him to be Vṛndāvana, and right there He met Rāmānanda Rāya.
 
 ত্রিমল্ল-ত্রিপদী-স্থান কৈল দরশন ৷  
 সর্ব্বত্র করিল কৃষ্ণনাম প্রচারণ ॥ ১০৫ ॥
@@ -1188,7 +1188,7 @@ the Tattvavādīs  with  He made  of the truth  discussion
 āpanāke hīna-buddhi haila tām̐-sabāra  
 themselves  inferior  the opinion  became  of them all
 
-(114) He discussed the truth with the Tattvavādīs, and they all came to regard themselves as inferior.
+(114) He discussed the truth with the Tattvavādīs, and they all came to see their own understanding as inferior.
 
 অনন্ত, পুরুষোত্তম, শ্রীজনার্দ্দন ৷  
 পদ্মনাভ, বাসুদেব কৈল দরশন ॥ ১১৫ ॥
@@ -1408,7 +1408,7 @@ every year  come  to see the Ratha-yātrā
 ei chale cāhe bhakta-gaṇera milane  
 on this  pretext  He wants  with the devotees  meeting
 
-(136) “Come every year to see the Ratha-yātrā.” On this pretext He wished to meet His devotees.
+(136) “Come every year to see the Ratha-yātrā.” In this way He sought to meet His devotees again and again.
 
 সার্ব্বভৌম-ঘরে প্রভুর ভিক্ষা-পরিপাটী ৷  
 ষাঠীর মাতা কহে, যাতে রাণ্ডী হউক্ ষাঠী ॥ ১৩৭ ॥
@@ -1458,7 +1458,7 @@ on the way  Sārvabhauma  with  of all  the meeting
 sārvabhauma bhaṭṭācāryera kāśīte gamana  
 Sārvabhauma  Bhaṭṭācārya’s  to Kāśī  departure
 
-(141) On the way they all met Sārvabhauma, and Sārvabhauma Bhaṭṭācārya went on to Kāśī.
+(141) On the way they all met Sārvabhauma Bhaṭṭācārya, who was going on to Kāśī.
 
 প্রভুরে মিলিলা সর্ব্ব বৈষ্ণব আসিয়া ৷  
 জলক্রীড়া কৈল প্রভু সবারে লইয়া ॥ ১৪২ ॥
@@ -1982,7 +1982,7 @@ brāhmaṇas  by birth  they  in Navadvīpa  home
 nīca-sevā nāhi kare, nahe nīcera kūrpara  
 the low  service  not  they do  not are  of the low  the elbow
 
-(193) They were brāhmaṇas by birth and lived in Navadvīpa. They did not serve low people, nor were they the low people’s “elbow” (their instruments).
+(193) They were brāhmaṇas by birth and lived in Navadvīpa. They did not serve low people, nor were they the ‘elbow’ — the ready tool — of low men.
 
 সবে এক দোষ তার, হয় পাপাচার ৷  
 পাপরাশি দহে নামাভাসেই তোমার ॥ ১৯৪ ॥
@@ -2196,7 +2196,7 @@ this  of My  heart  the matter  anyone  not  knows
 sabe bale, kene āilā rāmakeli-grāme  
 all  say  why  has He come  to the village of Rāmakeli
 
-(213) No one knows this, the secret of My heart; everyone asks why I have come to Rāmakeli.
+(213) No one knows the secret of My heart; everyone asks why I have come to Rāmakeli.
 
 ভাল হৈল, দুই ভাই আইলা মোর স্থানে ৷  
 ঘরে যাহ, ভয় কিছু না করিহ মনে ॥ ২১৪ ॥
@@ -2266,7 +2266,7 @@ of all  the feet  clasping  fall  the two  brothers
 sabe bale, — dhanya tumi, pāile gosāñi  
 all  say  blessed  you are  you have attained  the Gosāñi
 
-(220) The two brothers clasped the feet of each of them and fell down, and all said: “You are blessed — you have attained the Lord.”
+(220) The two brothers fell at the feet of each of them, and all said: “You are blessed — you have attained the Lord.”
 
 সবা-পাশ আজ্ঞা মাগি’ চলন-সময় ৷  
 প্রভু-পদে কহে কিছু করিয়া বিনয় ॥ ২২১ ॥
@@ -2276,7 +2276,7 @@ from all  permission  asking  at the time of leaving
 prabhu-pade kahe kichu kariyā vinaya  
 at the Lord’s feet  they say  something  showing  humility
 
-(221) Asking leave of everyone, at the time of departure they humbly spoke to the Lord at His feet:[^44]
+(221) Asking leave of everyone, at the time of departure they bowed at the Lord’s feet and humbly said:[^44]
 
 ইঁহা হৈতে চল, প্রভু, ইঁহা নাহি কাজ ৷  
 যদ্যপি তোমারে ভক্তি করে গৌড়রাজ ॥ ২২২ ॥
@@ -2286,7 +2286,7 @@ here  from  go  O Lord  here  there is no  business
 yadyapi tomāre bhakti kare gauḍa-rāja  
 although  You  devotion  shows  the king of Gauḍa
 
-(222) “Leave this place, O Lord; there is nothing for You here. Although the king of Gauḍa shows You devotion,
+(222) “Leave this place, O Lord; there is nothing for You here. True, the king of Gauḍa shows You devotion.
 
 তথাপি যবনজাতি, না করিহ প্রতীতি ৷  
 তীর্থযাত্রায় এত সংঘট্ট ভাল নহে রীতি ॥ ২২৩ ॥
@@ -2296,7 +2296,7 @@ still  a Muslim  by birth  not  do  trust
 tīrtha-yātrāya eta saṅghaṭṭa bhāla nahe rīti  
 on pilgrimage  such  a crowd  good  is not  the custom
 
-(223) he is still a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
+(223) Yet he is a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
 
 যাঁহা সঙ্গে চলে এই লোক লক্ষকোটি ৷  
 বৃন্দাবন যাইবার এ নহে পরিপাটী ॥ ২২৪ ॥
@@ -2306,7 +2306,7 @@ with whom  together  go  these  people  in hundreds of thousands
 vṛndāvana yāivāra e nahe paripāṭī  
 to Vṛndāvana  for going  this  is not  the proper manner
 
-(224) To travel to Vṛndāvana with hundreds of thousands of people in tow is not fitting.”
+(224) To travel to Vṛndāvana followed by hundreds of thousands of people is not fitting.”
 
 যদ্যপি বস্তুতঃ প্রভুর কিছু নাহি ভয় ৷  
 তথাপি লৌকিকলীলা, লোক-চেষ্টাময় ॥ ২২৫ ॥
@@ -2633,7 +2633,7 @@ of Haridāsa  the attainment of perfection  wonderful  that  all
 āpani mahāprabhu yām̐ra kaila mahotsava  
 Himself  Mahāprabhu  whose  held  great festival
 
-(257) Haridāsa’s attainment of perfection — all of it was wonderful; Mahāprabhu Himself held a great festival in his honour.[^53]
+(257) Haridāsa’s attainment of perfection was wonderful in every way, and Mahāprabhu Himself held a great festival in his honour.[^53]
 
 তবে রূপ-গোসাঞির পুনরাগমন ৷  
 তাঁহার হৃদয়ে কৈল প্রভু শক্তি-সঞ্চারণ ॥ ২৫৮ ॥
