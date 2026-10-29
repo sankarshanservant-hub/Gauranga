@@ -1274,11 +1274,13 @@ w: on the path of rāga  worshiping  they attained  the son of the king of Vraja
 tr: The example of this is the Śrutis of the Upaniṣads: worshiping on the path of *rāga*, they attained the son of the king of Vraja.
 
 ## 223
-w: having restrained  breath  mind  senses  in firm  yoga  engaged  in the heart  which
+w: who have restrained  breath  mind  senses  in firm  yoga  engaged  in the heart  which
 w: the sages  worship  that  the enemies  even  attained  by remembering
-w: the women  of the king of serpents  like the body  to the arms  attached  whose minds
-w: we  also  Your  like them  sharing their vision  of the lotus feet  the nectar
-tr: “The sages who have restrained breath, mind and senses and are firmly fixed in yoga worship in their hearts that Truth which even Your enemies attained by remembering You. The women, whose minds clung to Your mighty arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, becoming like them and sharing their vision, attained that nectar of Your lotus feet.” (Śrīmad-Bhāgavatam, 10.87.23)
+w: the women  of the king of serpents  like the coils  to the arms  attached  in mind
+w: we  also  Your  like them  sharing their mood  of the lotus feet  the nectar
+tr: “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)
+fn: The same verse as Madhya 9.123; translation as there.
+fn: The author himself explains in the next verse: *samāḥ* — the Śrutis attained bodies like those of the gopīs; *sama-dṛśaḥ* — they follow the gopīs’ mood. So too the *Anubhāṣya*: “like the gopīs in form, as their *kāya-vyūhas*, filled with a mood that follows theirs.”
 
 ## 224
 w: by the word sama-dṛśaḥ  is meant  that  mood  following
@@ -1292,10 +1294,11 @@ tr: The phrase *aṅghri-padma-sudhā* means the bliss of Kṛṣṇa’s compan
 
 ## 226
 w: not  this  easily attained  Bhagavān
-w: by the embodied  of the gopī  the son
-w: by the jñānīs  and  who have become one with the self
-w: as  by those who have bhakti  here
-tr: “Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the *jñānīs* who have become one with the self, as He is here by those who have *bhakti*.” (Śrīmad-Bhāgavatam, 10.9.21)
+w: for the embodied  of the gopī  the son
+w: for the jñānīs  and  for those who realized the self
+w: as  for those who have devotion  here
+tr: “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
+fn: The same verse as Madhya 9.132; translation as there. *Anubhāṣya*: “the embodied” — those who identify with the body; “those who have realized the self” — *ātmārāmas*, detached from matter and engaged in austerities and vows.
 
 ## 227
 w: therefore  of the gopīs  the mood  making  acceptance
@@ -1318,11 +1321,12 @@ w: still  not  she attained  in Vraja  the son of the king of Vraja
 tr: The example of this is Lakṣmī: she performed worship, yet she did not attain the son of the king of Vraja in Vraja.
 
 ## 231
-w: not  this  of Śrī  on His chest  indeed  most intimately loving  grace
-w: of the heavenly  women  of the lotus  with the fragrance and luster  how much less  others
-w: in the festival of the rāsa  His  by the arms  embraced  the necks
-w: having obtained their wish  which  arose  of the beauties of Vraja
-tr: “Not even Śrī, who dwells on His chest and loves Him most intimately, received such grace, nor did the heavenly maidens with the fragrance and luster of lotuses — what then of other women? Such was the grace that came to the beauties of Vraja when, in the festival of the *rāsa*, His arms embraced their necks and their hopes were fulfilled.” (Śrīmad-Bhāgavatam, 10.47.60)”
+w: not  this  of Śrī  on the chest  indeed  wholly attached  favor
+w: of the celestial women  of lotuses  the fragrance  having the luster  how then  others
+w: at the festival of rāsa  His  by the arms  embraced  around the neck
+w: who obtained their desire  which  arose  of Vraja  the beautiful women
+tr: “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)
+fn: The same verse as Madhya 9.121 (= 80); translation as there.
 
 ## 232
 w: this  hearing  the Lord  him  made  embrace
@@ -1357,12 +1361,13 @@ tr: The Lord said, “I came because I had heard of your virtues — to purify M
 ## 238
 w: as  I heard  so  I have seen  your  greatness
 w: of Rādhā and Kṛṣṇa  of the rasa of love  of the knowledge  you  the limit
-tr: Your greatness is just as I heard. You are the utmost limit in knowing the *rasa* of the love of Rādhā and Kṛṣṇa.
+tr: Your greatness is just as I heard. You are the utmost limit in knowing the rasa of the love of Rādhā and Kṛṣṇa.
 
 ## 239
 w: of ten  days  what to speak  as long as  I  shall live
 w: so long  your  all  to give up  I shall not be able
 tr: What to speak of ten days? As long as I live, I shall never be able to give you up.
+fn: The edition reads *tomāra saba* (“all of you”; other editions, *tomāra saṅga*, “your company”); the sense is the same.
 
 ## 240
 w: in Nīlācala  you and I  shall stay  together
@@ -1382,7 +1387,7 @@ tr: Meeting together, the two sat in seclusion and joyfully held a discussion of
 ## 243
 w: the Lord  asks  Rāmānanda  gives  the answer
 w: in this way  that  night  conversation  with each other
-tr: The Lord asked and Rāmānanda answered; in this way they talked together that night.
+tr: The Lord asked and Rāmānanda answered; in this way they talked together all that night.
 
 ## 244
 w: the Lord  said  which  knowledge  among kinds of knowledge  the essence

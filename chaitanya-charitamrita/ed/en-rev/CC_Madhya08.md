@@ -2474,16 +2474,16 @@ on the path of rāga  worshiping  they attained  the son of the king of Vraja
 স্ত্রিয় উরগেন্দ্রভোগভুজদণ্ডবিষক্ত ধিয়ো  
 বয়মপি তে সমাঃ সমদৃশোঽঙ্ঘ্রিসরোজসুধাঃ ॥ ২২৩ ॥
 
-nibhṛta-marun-mano-’kṣa-dṛḍha-yoga-yujo hṛdi yan  
-having restrained  breath  mind  senses  in firm  yoga  engaged  in the heart  which  
+nibhṛta-marun-mano-’kṣa-dṛḍha-yoga-yujo hṛdi yan-  
+who have restrained  breath  mind  senses  in firm  yoga  engaged  in the heart  which  
 munaya upāsate tad arayo ’pi yayuḥ smaraṇāt  
 the sages  worship  that  the enemies  even  attained  by remembering  
 striya uragendra-bhoga-bhuja-daṇḍa-viṣakta dhiyo  
-the women  of the king of serpents  like the body  to the arms  attached  whose minds  
+the women  of the king of serpents  like the coils  to the arms  attached  in mind  
 vayam api te samāḥ sama-dṛśo ’ṅghri-saroja-sudhāḥ  
-we  also  Your  like them  sharing their vision  of the lotus feet  the nectar
+we  also  Your  like them  sharing their mood  of the lotus feet  the nectar
 
-(223) “The sages who have restrained breath, mind and senses and are firmly fixed in yoga worship in their hearts that Truth which even Your enemies attained by remembering You. The women, whose minds clung to Your mighty arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, becoming like them and sharing their vision, attained that nectar of Your lotus feet.” (Śrīmad-Bhāgavatam, 10.87.23)
+(223) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)[^61][^62]
 
 ‘সমদৃশঃ’-শব্দে কহে ‘সেই ভাবে অনুগতি’ ৷  
 ‘সমাঃ’-শব্দে কহে শ্রুতির গোপীদেহ-প্রাপ্তি ॥ ২২৪ ॥
@@ -2511,13 +2511,13 @@ on the path of rules  not  is attained  in Vraja  Kṛṣṇacandra
 nāyaṁ sukhāpo bhagavān  
 not  this  easily attained  Bhagavān  
 dehināṁ gopikā-sutaḥ  
-by the embodied  of the gopī  the son  
+for the embodied  of the gopī  the son  
 jñānināṁ cātma-bhūtānāṁ  
-by the jñānīs  and  who have become one with the self  
+for the jñānīs  and  for those who realized the self  
 yathā bhakti-matām iha  
-as  by those who have bhakti  here
+as  for those who have devotion  here
 
-(226) “Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the *jñānīs* who have become one with the self, as He is here by those who have *bhakti*.” (Śrīmad-Bhāgavatam, 10.9.21)
+(226) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)[^63]
 
 অতএব গোপীভাব করি অঙ্গীকার ৷  
 রাত্রি-দিন চিন্তে রাধাকৃষ্ণের বিহার ॥ ২২৭ ॥
@@ -2565,15 +2565,15 @@ still  not  she attained  in Vraja  the son of the king of Vraja
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ২৩১ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not  this  of Śrī  on His chest  indeed  most intimately loving  grace  
+not  this  of Śrī  on the chest  indeed  wholly attached  favor  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
-of the heavenly  women  of the lotus  with the fragrance and luster  how much less  others  
+of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
-in the festival of the rāsa  His  by the arms  embraced  the necks  
+at the festival of rāsa  His  by the arms  embraced  around the neck  
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
-having obtained their wish  which  arose  of the beauties of Vraja
+who obtained their desire  which  arose  of Vraja  the beautiful women
 
-(231) “Not even Śrī, who dwells on His chest and loves Him most intimately, received such grace, nor did the heavenly maidens with the fragrance and luster of lotuses — what then of other women? Such was the grace that came to the beauties of Vraja when, in the festival of the *rāsa*, His arms embraced their necks and their hopes were fulfilled.” (Śrīmad-Bhāgavatam, 10.47.60)”
+(231) “At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favor was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?” (Śrīmad-Bhāgavatam, 10.47.60)[^64]
 
 এত শুনি’ প্রভু তাঁরে কৈল আলিঙ্গন ৷  
 দুইজনে গলাগলি করেন ক্রন্দন ॥ ২৩২ ॥
@@ -2643,7 +2643,7 @@ as  I heard  so  I have seen  your  greatness
 rādhā-kṛṣṇa-premarasa-jñānera tumi sīmā  
 of Rādhā and Kṛṣṇa  of the rasa of love  of the knowledge  you  the limit
 
-(238) Your greatness is just as I heard. You are the utmost limit in knowing the *rasa* of the love of Rādhā and Kṛṣṇa.
+(238) Your greatness is just as I heard. You are the utmost limit in knowing the rasa of the love of Rādhā and Kṛṣṇa.
 
 দশ দিনের কা-কথা যাবৎ আমি জীব’ ৷  
 তাবৎ তোমার সব ছাড়িতে নারিব ॥ ২৩৯ ॥
@@ -2653,7 +2653,7 @@ of ten  days  what to speak  as long as  I  shall live
 tāvat tomāra saba chāḍite nāriba  
 so long  your  all  to give up  I shall not be able
 
-(239) What to speak of ten days? As long as I live, I shall never be able to give you up.
+(239) What to speak of ten days? As long as I live, I shall never be able to give you up.[^65]
 
 নীলাচলে তুমি-আমি থাকিব এক-সঙ্গে ৷  
 সুখে গোঙাইব কাল কৃষ্ণকথা-রঙ্গে ॥ ২৪০ ॥
@@ -2693,7 +2693,7 @@ the Lord  asks  Rāmānanda  gives  the answer
 ei mata sei rātre kathā paraspara  
 in this way  that  night  conversation  with each other
 
-(243) The Lord asked and Rāmānanda answered; in this way they talked together that night.
+(243) The Lord asked and Rāmānanda answered; in this way they talked together all that night.
 
 প্রভু কহে, — কোন্ বিদ্যা বিদ্যা-মধ্যে সার ?  
 রায় কহে, — কৃষ্ণভক্তি বিনা বিদ্যা নাহি আর ॥ ২৪৪ ॥
@@ -3522,3 +3522,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^59]: The same verse as Ādi 4.163; translation as there. In the edition, the words of the *Gautamīya-tantra*.
 
 [^60]: The same verse as Ādi 4.173; translation as there.
+
+[^61]: The same verse as Madhya 9.123; translation as there.
+
+[^62]: The author himself explains in the next verse: *samāḥ* — the Śrutis attained bodies like those of the gopīs; *sama-dṛśaḥ* — they follow the gopīs’ mood. So too the *Anubhāṣya*: “like the gopīs in form, as their *kāya-vyūhas*, filled with a mood that follows theirs.”
+
+[^63]: The same verse as Madhya 9.132; translation as there. *Anubhāṣya*: “the embodied” — those who identify with the body; “those who have realized the self” — *ātmārāmas*, detached from matter and engaged in austerities and vows.
+
+[^64]: The same verse as Madhya 9.121 (= 80); translation as there.
+
+[^65]: The edition reads *tomāra saba* (“all of you”; other editions, *tomāra saṅga*, “your company”); the sense is the same.
