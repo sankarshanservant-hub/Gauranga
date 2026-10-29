@@ -56,7 +56,7 @@ The elder brāhmaṇa's son was a godless man (*nāstika*), a *smārta*, clever 
 
 ## 58
 
-***Chala*** (quibbling).[^58-1] When a speaker uses a word in one sense and the opponent, rejecting that sense, invents a contrary one and makes false charges, that is *chala*.
+***Chala*** (quibbling). When a speaker uses a word in one sense and the opponent, rejecting that sense, invents a contrary one and makes false charges, that is *chala*.
 
 ## 63
 
@@ -144,7 +144,7 @@ The *Skanda Purāṇa* tells how Śiva obtained Ekāmra-kānana. A king named �
 
 ## 146
 
-Śrī Mahāprabhu saw the temple of Śrī Jagannātha from three *krośas* away, and in extreme separation the *sāttvika-vikāras* appeared in Him: He became utterly agitated and full of longing for *darśana* of Bhagavān. In intense separation (*vipralambha*) a moment seems an age, and the *gopīs* blame the Creator for His foolishness in giving the eyes lids. In the same way the three-*krośa* road seemed to Mahāprabhu a distant thousand *yojanas*.[^146-1]
+Śrī Mahāprabhu saw the temple of Śrī Jagannātha from three *krośas* away, and in extreme separation the *sāttvika-vikāras* appeared in Him: He became utterly agitated and full of longing for *darśana* of Bhagavān. In intense separation (*vipralambha*) a moment seems an age, and the *gopīs* blame the Creator for His foolishness in giving the eyes lids. In the same way the three-*krośa* road seemed to Mahāprabhu a distant thousand *yojanas*.
 
 ## 147
 
@@ -210,8 +210,6 @@ Only those who have truly understood Śrī Caitanya and Nityānanda, steadily an
 
 [^28-1]: The second verse is *Śrīmad-Bhāgavatam* 10.52.25; the edition gives both verses under the single reference 10.52.21.
 
-[^58-1]: The translation of the verse differs: Vṛndāvana Candra dāsa takes *vākya-chala* as “seizing a convenient moment”; for Bhaktisiddhānta it is verbal quibbling.
 
 [^122-1]: So in the edition: the gloss begins with the word *rāja*, while verse 122 reads *rājya* (*cala mora rājya*, “come to my kingdom”); the gloss explains that the word here means “to the kingdom.”
 
-[^146-1]: The translation of the verse differs: Vṛndāvana Candra dāsa renders it as “nine kilometers became a hundred times longer”; the verse says the three-*krośa* road became a thousand *yojanas*.

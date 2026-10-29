@@ -26,7 +26,7 @@ Do not tell such a lie as “I did not say I would give my daughter”; say only
 
 ## 96
 
-For the good of a brāhmaṇa You do all that is otherwise not fitting for You to do.[^96-1]
+For the good of a brāhmaṇa You do all that is otherwise not fitting for You to do.
 
 ## 140
 
@@ -52,4 +52,3 @@ See the *Caitanya-bhāgavata*, Antya-līlā, Chapter 2. Leaving Kaṭaka by the 
 
 ---
 
-[^96-1]: The translation of the verse differs: Vṛndāvana Candra dāsa renders it as a request — that the Lord do for this brāhmaṇa what He has never done before.
