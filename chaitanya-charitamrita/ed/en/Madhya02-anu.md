@@ -192,8 +192,7 @@ In front of Śrī Jagannātha's temple, at the far end of the *jagamohana*, stan
 
 ## 58
 
-**anātha-bandho** (O friend of the helpless — of the gopīs tormented by separation; O You who are such a friend)
- **karuṇaika-sindho** (O sole ocean of mercy; the sense is: apart from Kṛṣṇa no one has the wealth of sweetness and *prema*, so no one else can have compassion on the gopīs) **hare** (O Hari — who steals the bodies, minds and words of the gopīs), **tvad-ālokanam** (seeing You) **antareṇa** (without) **hā hanta! hā hanta!** **adhanyāni** (inauspicious) **amūni dināntarāṇi** (these days — that is, these days and nights) **kathaṁ** (how — without serving You) **nayāmi** (shall I pass)?
+**anātha-bandho** (O friend of the helpless — of the gopīs tormented by separation; O You who are such a friend) **karuṇaika-sindho** (O sole ocean of mercy; the sense is: apart from Kṛṣṇa no one has the wealth of sweetness and *prema*, so no one else can have compassion on the gopīs) **hare** (O Hari — who steals the bodies, minds and words of the gopīs), **tvad-ālokanam** (seeing You) **antareṇa** (without) **hā hanta! hā hanta!** **adhanyāni** (inauspicious) **amūni dināntarāṇi** (these days — that is, these days and nights) **kathaṁ** (how — without serving You) **nayāmi** (shall I pass)?
 
 ## 59
 
@@ -331,12 +330,11 @@ See Ādi 4.230.
 
 > Subheading: The author's impartiality —
 
-In describing Śrī Gaurasundara's conduct exactly as it was, I do not seek the praise of the proponents of every kind of doctrine. I have not, in the hope that they would accept me, passed over the true facts of the Lord's life here — leaving things out, adding to them, veiling them or “correcting” them. Because Sanskrit verses are included in this book, many may object that one who does not know Sanskrit will not understand the true meaning of the verses.
+In describing Śrī Gaurasundara's conduct exactly as it was, I do not seek the praise of the proponents of every kind of doctrine. I have not, fearing their censure, departed here from the true facts of the Lord's life — I have neither left things out, nor added to them, nor veiled them, nor “corrected” them. Because Sanskrit verses are included in this book, many may object that one who does not know Sanskrit will not understand the true meaning of the verses.
 
 ## 86
 
-In this book I have written nothing out of regard for anything, in opposition to anyone or in compliance with anyone's request: I have only described the *sahaja-vastu*, the natural reality. If someone attains the orientation of *rāga*, then, absorbed in it, he will easily realize all these descriptions. The natural reality is experienced by those who follow *rāga* (*rāgānuga*).
- If it is written down, such writing will reveal itself only in the hearts of those absorbed in *rāga*; one without *rāga* will not be able to enter it in that way. There is no use in writing about it here in order to make known the natural reality, which can only be experienced. Another reading is *yadi haya rāga-dveṣa* (“if there is attachment and aversion”), and then the meaning is: “If a person has given up service to Kṛṣṇa and is overcome by attachment — that is, absorption — in things other than Kṛṣṇa, and by aversion or dislike, he can in no way describe the transcendental love for Kṛṣṇa that is innate in the pure soul.”
+In this book I have written nothing out of regard for anything, in opposition to anyone or in compliance with anyone's request: I have only described the *sahaja-vastu*, the natural reality. If someone attains the orientation of *rāga*, then, absorbed in it, he will easily realize all these descriptions. The natural reality is experienced by those who follow *rāga* (*rāgānuga*) If it is written down, such writing will reveal itself only in the hearts of those absorbed in *rāga*; one without *rāga* will not be able to enter it in that way. There is no use in writing about it here in order to make known the natural reality, which can only be experienced. Another reading is *yadi haya rāga-dveṣa* (“if there is attachment and aversion”), and then the meaning is: “If a person has given up service to Kṛṣṇa and is overcome by attachment — that is, absorption — in things other than Kṛṣṇa, and by aversion or dislike, he can in no way describe the transcendental love for Kṛṣṇa that is innate in the pure soul.”
 
 ## 87
 
@@ -382,5 +380,5 @@ See Ādi 8.49–60.
 
 ---
 
-[^72-1]: The edition prints *rāgādi* (“passions and so on”); Bhaktisiddhānta's own Bengali paraphrase (“the activity of speech, hands, feet … ceases”) supports *vāg-ādi* (“speech and so on”), the reading of the *Bhakti-rasāmṛta-sindhu*.
+[^72-1]: The edition prints *rāgādi* (“attachment and so on”); Bhaktisiddhānta's own Bengali paraphrase (“the activity of speech, hands, feet … ceases”) supports *vāg-ādi* (“speech and so on”), the reading of the *Bhakti-rasāmṛta-sindhu*.
 
