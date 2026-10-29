@@ -92,8 +92,38 @@ One who, hoping for Your mercy, tastes the bad fruits of his own deeds and lives
 
 The Bhaṭṭācārya said: “The highest fruit of devotion is (*prema-*)*bhakti* alone; *mukti* is not the fruit of devotion. For a person averse to devotion to Bhagavān, *sāyujya-mukti* is merely a kind of punishment.”
 
+## 267–268
+
+Of the five kinds of *mukti* — *sālokya*, *sāmīpya*, *sārūpya*, *sārṣṭi* and *sāyujya* — the first four, beginning with *sālokya*, are not so blameworthy, for they are like doors to the service of Bhagavān. Even so, a devotee of Kṛṣṇa does not accept even these four kinds of *mukti*, for birth after birth he desires only devotion to Kṛṣṇa.[^267-1] As soon as he hears the word *sāyujya*, the devotee feels disgust for it as something worthless and fear of it as an “offense” hostile to devotion.
+
+## 269
+
+*Sāyujya* is of two kinds: *brahma-sāyujya* and *īśvara-sāyujya*. According to the Māyāvādī Vedāntists, the *jīva*'s ultimate attainment is *brahma-sāyujya*; according to Patañjali's teaching, it is *īśvara-sāyujya* in the state of *kaivalya*. Of these two kinds of *sāyujya*, *īśvara-sāyujya* is the more contemptible. In *brahma-sāyujya* one reaches a featureless destination through featureless knowledge. But *īśvara-sāyujya* — *kaivalya*, attained by meditating on the very Īśvara who has features — turns, through the fault of desire, into a still deeper fall. “Īśvara is a special *puruṣa*, untouched by afflictions, actions, their fruits and their latent impressions.”[^269-1] “He is the guru even of the ancients, for time does not limit Him.”[^269-2] From these the eternality of Īśvara with features is evident. But in the same *Yoga-sūtra* of Patañjali, in the *Kaivalya-pāda*, the *sūtra* “*Kaivalya* is the reabsorption of [the *guṇas*], devoid of any purpose for the *puruṣa*, or the power of consciousness established in its own nature”[^269-3] shows that in the practitioner's state of perfection there is no other *puruṣa*, no Īśvara. The path of *yoga*, under the pretext of taking shelter of the Truth with features, is utterly fruitless. The meaning is this: (on the path of *yoga*) worship of the Truth with features yields not a fruit with features, but a fruit extremely remote from it and deserving of contempt.
+
+## 272
+
+He at whose feet *mukti* resides is *mukti-pada* — that is, Śrī Kṛṣṇa, the “tenth” topic. Or: the ninth topic is *mukti*, and He who is its shelter is Śrī Kṛṣṇa.
+
+## 274
+
+***Āśliṣya-doṣa*** — the defect in which a word can be understood in two ways, so that its primary meaning suffers somewhat.
+
+## 275
+
+***Rūḍhi-vṛtti*** — the primary meaning (*mukhya-vṛtti*).
+
+*Thus ends the sixth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^150-1]: The edition numbers this section “150–253” (checked against the scan) — a misprint; by content it is 150–153.
 
 [^242-1]: *Śrīmad-Bhāgavatam* 12.3.52.
+
+[^267-1]: The verse translation of 267 reads differently (following the verse itself): a pure devotee may accept the first four kinds of liberation for the sake of his service, but never *sāyujya*.
+
+[^269-1]: *Yoga-sūtra* 1.24.
+
+[^269-2]: *Yoga-sūtra* 1.26.
+
+[^269-3]: *Yoga-sūtra* 4.34 (the edition omits the word *guṇānām*, “of the *guṇas*”).

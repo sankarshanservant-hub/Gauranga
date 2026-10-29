@@ -414,6 +414,92 @@ After Śrī Kṛṣṇa had crushed Brahmā's pride, Brahmā, wholly surrendered
 
 > Subheading: The Lord upholds and preserves the reading of the *Bhāgavatam* —
 
+## 263
+
+> Subheading: The Bhaṭṭācārya wishes to keep the reading *bhakti* instead of *mukti* —
+
+## 264
+
+> Subheading: *Sāyujya-mukti* is for the godless, the Māyāvādīs and the Daityas hostile to Viṣṇu —
+
+## 263–265
+
+In the *Laghu-bhāgavatāmṛta*, while describing Brahmaloka, Śrī Rūpa Gosvāmī gives his own *kārikā*: “The fruit of unswerving devotion is loving service (*prema-sevā*) alone, whereas mere existence as Brahman is attained even through enmity.” The commentary of Śrī Baladeva Vidyābhūṣaṇa: “One may object: ‘The *jīva* is an atomic particle of spirit; it must dissolve into Brahman, the mass of spirit, and can never again come out of it to serve Kṛṣṇa, its shelter.’ To this [Śrī Rūpa] replies with the verse beginning *bhakteḥ*. Remaining dissolved in Brahman falls even to the enemies slain by Bhagavān Kṛṣṇa, for the *smṛti* says: ‘Beyond darkness lies Siddhaloka, where dwell the *siddhas* absorbed in the happiness of Brahman and the Daityas slain by Hari’ (*Brahmāṇḍa Purāṇa*). Therefore mere dissolution in it is not the fruit of devotion. **Tamasaḥ** (beyond the eighth covering — the sphere of *prakṛti*) **pāre** — Brahmaloka (by the maxim *cayas tviṣām*, “a mass of rays,” this means a place that is a formless mass of spirit). **Siddhāḥ** (those who meditate on such a Brahman without neglecting the shelter of Bhagavān, and whose subtle bodies have been destroyed by that meditation) **tatra vasanti** (dissolve). But those who neglect His feet, scorched by a particle of knowledge, fall down, as the *Śrī Bhāgavata* says: ‘O lotus-eyed Lord, others, who think themselves liberated but whose intelligence is impure because they have no devotion to You, rise with great effort to the highest position, but then fall down, having neglected Your feet’ (*Śrīmad-Bhāgavatam* 10.2.32).”
+
+If the *jīva*, an atomic particle of spirit, has dissolved into Brahman, the mass of spirit, how can it come out of Brahman again and serve its shelter, Śrī Kṛṣṇa? The verse quoted above answers this doubt. To remain dissolved in Brahman is something utterly insignificant: it falls even to the hostile Daityas slain by Kṛṣṇa. The proof of this is in the *Brahmāṇḍa Purāṇa* itself (see Ādi 5.39). There the word “Brahman” or “Siddhaloka” must be understood, by the maxim *cayas tviṣām*, as a particular place, a formless mass of spirit. The word *siddhāḥ* refers to those *jīvas* who have not neglected Bhagavān's lotus feet and yet, by such meditation on Brahman, have cast off the covering of the subtle body; they *vasanti*, that is, attain dissolution. But those who neglect Bhagavān's feet — according to the verse *ye 'nye 'ravindākṣa* (*Śrīmad-Bhāgavatam* 10.2.32) — lose completely, as the fruit of their disrespect for Bhagavān, even the little knowledge they had before as provision for the road; and so they fall down (attain hell).
+
+## 266
+
+> Subheading: The five kinds of *mukti* —
+
+## 267
+
+> Subheading: The four kinds of *mukti* other than *sāyujya* are incidental to devotion —
+
+## 268
+
+> Subheading: *Sāyujya*, like hell, “destroys devotion” and must be rejected entirely —
+
+## 269
+
+> Subheading: The two kinds of *sāyujya* —
+
+## 270
+
+> Subheading: The servant desires no *mukti* — only selfless service to the One he serves —
+
+See Ādi 4.207.
+
+## 271
+
+> Subheading: The Lord explains the word *mukti-pada* —
+
+## 272
+
+See Ādi 2.91–92.[^272-1]
+
+## 274
+
+> Subheading: Yet Sārvabhauma rejects the word *mukti*, meaning *sāyujya*, and prefers the word *bhakti* —
+
+## 277
+
+> Subheading: The Lord rejoices to see Sārvabhauma's selfless devotion —
+
+## 278
+
+> Subheading: The author glorifies the mercy of Kṛṣṇa Caitanya —
+
+## 279
+
+> Subheading: “It is known by its fruit” —
+
+## 280
+
+> Subheading: Everyone is convinced that the Lord is “the Supreme Lord Śrī Kṛṣṇa” —
+
+## 281
+
+> Subheading: Kāśī Miśra and others surrender at the Lord's feet —
+
+## 282
+
+> Subheading: Next, the Lord's travels in South India —
+
+## 283
+
+> Subheading: Sārvabhauma's service to the Lord will be described later —
+
+## 284
+
+See Madhya, Chapter 15.
+
+## 285
+
+> Subheading: Hearing the conversation of Sārvabhauma and Caitanya gives selfless devotion — this is not a mere *phala-śruti* (promise of reward) of the *karma-kāṇḍa* kind —
+
+*Thus ends the sixth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^155-1]: The verse translation reads differently: *sarva-gā* is taken as “all souls are free to choose their own paths.”
@@ -425,3 +511,5 @@ After Śrī Kṛṣṇa had crushed Brahmā's pride, Brahmā, wholly surrendered
 [^198-1]: In the edition's numbering; in our translation, Madhya 24.107–111.
 
 [^193-1]: In the edition's numbering; in our verse translation the numbering of Madhya 24 is shifted in places (cf. the note to section 198).
+
+[^272-1]: The edition numbers this section “202” (checked against the scan) — a misprint; by position and content it is 272.
