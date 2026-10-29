@@ -911,129 +911,161 @@ Annakūṭa  hold  all  joyful  becoming
 পুরী গোসাঞি কৈল কিছু গব্য ভোজন ॥ ৯১ ॥
 
 rātri-kāle ṭhākura karāiyā śayana  
-purī gosāñi kaila kichu gavya bhojana
+at night  the Deity  having made  lie down  
+purī gosāñi kaila kichu gavya bhojana  
+Purī  Gosāñi  took  a little  milk  food
 
-(91) [not yet translated]
+(91) At night, after putting the Deity to rest, Purī Gosāñi would take a little milk.
 
 প্রাতঃকালে পুনঃ তৈছে করিল সেবন ৷  
 অন্ন লঞা এক গ্রামের আইল লোকগণ ॥ ৯২ ॥
 
 prātaḥ-kāle punaḥ taiche karila sevana  
-anna lañā eka grāmera āila loka-gaṇa
+in the morning  again  likewise  did  service  
+anna lañā eka grāmera āila loka-gaṇa  
+food  taking  of one  village  came  the people
 
-(92) [not yet translated]
+(92) In the morning the service went on again in the same way, and the people of another village came, bringing food.
 
 অন্ন, ঘৃত, দধি, দুগ্ধ, — গ্রামে যত ছিল ৷  
 গোপালের আগে লোক আনিঞা ধরিল ॥ ৯৩ ॥
 
 anna, ghṛta, dadhi, dugdha, — grāme yata chila  
-gopālera āge loka āniñā dharila
+grain  ghee  yogurt  milk  in the village  as much as  there was  
+gopālera āge loka āniñā dharila  
+of Gopāla  before  the people  bringing  placed
 
-(93) [not yet translated]
+(93) All the grain, ghee, yogurt and milk there was in their village, the people brought and set before Gopāla.
 
 পূর্ব্বদিন-প্রায় ব্রাহ্মণ করিল রন্ধন ৷  
 তৈছে অন্নকূট গোপাল করিল ভোজন ॥ ৯৪ ॥
 
 pūrva-dina-prāya brāhmaṇa karila randhana  
-taiche anna-kūṭa gopāla karila bhojana
+as on the day before  the brāhmaṇas  did  cooking  
+taiche anna-kūṭa gopāla karila bhojana  
+likewise  Annakūṭa  Gopāla  made  eating
 
-(94) [not yet translated]
+(94) As on the day before, the brāhmaṇas cooked, and Gopāla ate the Annakūṭa just as before.
 
 ব্রজবাসী লোকের কৃষ্ণে সহজ-প্রীতি ৷  
 গোপালের সহজ-প্রীতি ব্রজবাসী-প্রতি ॥ ৯৫ ॥
 
 vraja-vāsī lokera kṛṣṇe sahaja-prīti  
-gopālera sahaja-prīti vraja-vāsī-prati
+of Vraja  the people’s  for Kṛṣṇa  natural love  
+gopālera sahaja-prīti vraja-vāsī-prati  
+Gopāla’s  natural love  for the Vrajavāsīs
 
-(95) [not yet translated]
+(95) The people of Vraja have a natural love for Kṛṣṇa, and Gopāla has a natural love for the people of Vraja.
 
 মহাপ্রসাদ খাইল আসিয়া সব লোক ৷  
 গোপাল দেখিয়া সবার খণ্ডে দুঃখ-শোক ॥ ৯৬ ॥
 
 mahā-prasāda khāila āsiyā saba loka  
-gopāla dekhiyā sabāra khaṇḍe duḥkha-śoka
+mahā-prasāda  ate  coming  all  the people  
+gopāla dekhiyā sabāra khaṇḍe duḥkha-śoka  
+Gopāla  seeing  of all  are dispelled  sorrow and grief
 
-(96) [not yet translated]
+(96) Everyone came and ate the *mahā-prasāda*, and seeing Gopāla, they were all freed from sorrow and grief.
 
 আশ-পাশ ব্রজভূমের যত লোক সব ৷  
 এক এক দিন সবে করে মহোৎসব ॥ ৯৭ ॥
 
 āśa-pāśa vraja-bhūmera yata loka saba  
-eka eka dina sabe kare mahotsava
+surrounding  of the land of Vraja  as many  people  all  
+eka eka dina sabe kare mahotsava  
+one  by one  day  all  hold  a great festival
 
-(97) [not yet translated]
+(97) All the people of the surrounding land of Vraja held the great festival, each on a day of their own.
 
 গোপাল-প্রকট শুনি’ নানা দেশ হৈতে ৷  
 নানা দ্রব্য লঞা লোক লাগিল আসিতে ॥ ৯৮ ॥
 
 gopāla-prakaṭa śuni’ nānā deśa haite  
-nānā dravya lañā loka lāgila āsite
+Gopāla’s appearance  hearing  various  lands  from  
+nānā dravya lañā loka lāgila āsite  
+various  goods  bringing  people  began  to come
 
-(98) [not yet translated]
+(98) Hearing that Gopāla had appeared, people began to come from many lands, bringing all kinds of gifts.
 
 মথুরার লোক সব বড় বড় ধনী ৷  
 ভক্তি করি’ নানা দ্রব্য ভেট দেয় আনি’ ॥ ৯৯ ॥
 
 mathurāra loka saba baḍa baḍa dhanī  
-bhakti kari’ nānā dravya bheṭa deya āni’
+of Mathurā  the people  all  great  great  rich  
+bhakti kari’ nānā dravya bheṭa deya āni’  
+devotion  with  various  goods  as gifts  give  bringing
 
-(99) [not yet translated]
+(99) The people of Mathurā, all of them very wealthy, brought many kinds of things and offered them with devotion.
 
 স্বর্ণ, রৌপ্য, বস্ত্র, গন্ধ, ভক্ষ্য-উপহার ৷  
 অসংখ্য আইসে, নিত্য বাড়িল ভাণ্ডার ॥ ১০০ ॥
 
 svarṇa, raupya, vastra, gandha, bhakṣya-upahāra  
-asaṅkhya āise, nitya bāḍila bhāṇḍāra
+gold  silver  cloth  fragrances  gifts of food  
+asaṅkhya āise, nitya bāḍila bhāṇḍāra  
+countless  come  daily  grew  the storehouse
 
-(100) [not yet translated]
+(100) Gold, silver, cloth, fragrances and gifts of food came in countless numbers, and the storehouse grew day by day.
 
 এক মহাধনী ক্ষত্রিয় করাইল মন্দির ৷  
 কেহ পাক-ভাণ্ডার কৈল, কেহ ত’ প্রাচীর ॥ ১০১ ॥
 
 eka mahā-dhanī kṣatriya karāila mandira  
-keha pāka-bhāṇḍāra kaila, keha ta’ prācīra
+one  very wealthy  kṣatriya  had built  a temple  
+keha pāka-bhāṇḍāra kaila, keha ta’ prācīra  
+someone  kitchen and storehouse  made  someone  indeed  a wall
 
-(101) [not yet translated]
+(101) A very wealthy *kṣatriya* had a temple built; someone built the kitchen and storehouse, and someone else the surrounding wall.
 
 এক এক ব্রজবাসী এক এক গাভী দিল ৷  
 দশসহস্র গাভী গোপালের হৈল ॥ ১০২ ॥
 
 eka eka vraja-vāsī eka eka gābhī dila  
-daśa-sahasra gābhī gopālera haila
+each  Vrajavāsī  one each  cow  gave  
+daśa-sahasra gābhī gopālera haila  
+ten thousand  cows  Gopāla’s  became
 
-(102) [not yet translated]
+(102) Every Vrajavāsī gave a cow, and Gopāla came to have ten thousand cows.
 
 গৌড় হইতে আইলা দুই বৈরাগী ব্রাহ্মণ ৷  
 পুরী-গোসাঞি রাখিল তারে করিয়া যতন ॥ ১০৩ ॥
 
 gauḍa haite āilā dui vairāgī brāhmaṇa  
-purī-gosāñi rākhila tāre kariyā yatana
+Gauḍa  from  came  two  renounced  brāhmaṇas  
+purī-gosāñi rākhila tāre kariyā yatana  
+Purī Gosāñi  kept  them  showing  care
 
-(103) [not yet translated]
+(103) Two renounced brāhmaṇas came from Gauḍa, and Purī Gosāñi kept them with him, caring for them affectionately.
 
 সেই দুই শিষ্য করি’ সেবা সমর্পিল ৷  
 রাজ-সেবা হয়, — পুরীর আনন্দ বাড়িল ॥ ১০৪ ॥
 
 sei dui śiṣya kari’ sevā samarpila  
-rāja-sevā haya, — purīra ānanda bāḍila
+those  two  disciples  making  service  entrusted  
+rāja-sevā haya, — purīra ānanda bāḍila  
+royal service  takes place  Purī’s  joy  grew
 
-(104) [not yet translated]
+(104) He made those two his disciples and entrusted the service to them. The Deity was now served in royal style, and Purī’s joy grew.
 
 এইমত বৎসর দুই করিল সেবন ৷  
 একদিন পুরী-গোসাঞি দেখিল স্বপন ॥ ১০৫ ॥
 
 ei-mata vatsara dui karila sevana  
-ekadina purī-gosāñi dekhila svapana
+in this way  years  two  did  service  
+ekadina purī-gosāñi dekhila svapana  
+one day  Purī Gosāñi  saw  a dream
 
-(105) [not yet translated]
+(105) In this way he served for two years. Then one day Purī Gosāñi had a dream.
 
 গোপাল কহে, পুরী আমার তাপ নাহি যায় ৷  
 মলয়জ-চন্দন লেপ’, তবে সে জুড়ায় ॥ ১০৬ ॥
 
 gopāla kahe, purī āmāra tāpa nāhi yāya  
-malayaja-candana lepa’, tabe se juḍāya
+Gopāla  says  Purī  My  heat  not  goes away  
+malayaja-candana lepa’, tabe se juḍāya  
+Malaya sandalwood  smear  then  it  will cool
 
-(106) [not yet translated]
+(106) Gopāla said, “Purī, My heat does not go away. Smear Me with sandalwood from the Malaya hills, and then it will be cooled.
 
 মলয়জ আন, যাঞা নীলাচল হৈতে ৷  
 অন্যে হৈতে নহে, তুমি চলহ ত্বরিতে ॥ ১০৭ ॥
