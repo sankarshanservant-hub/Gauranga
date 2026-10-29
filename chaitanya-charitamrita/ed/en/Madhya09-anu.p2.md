@@ -533,6 +533,105 @@ Then, taking the jewels, he went to the city of Māhiṣmatī. There that bull a
 
 > Subheading: Having sanctified many holy places along the banks of the seven branches of the Godāvarī, the Lord comes to Vidyānagara —
 
+From the source of the Godāvarī the Lord passed through the northern part of present-day Hyderabad, by way of “Bastar,” and came to Kaliṅga, in the Northern Circars.
+
+## 319
+
+> Subheading: Rāya meets the Lord —
+
+## 320
+
+> Subheading: Rāya bows down; the Lord embraces him —
+
+## 321
+
+> Subheading: Both are filled with the bliss of love —
+
+## 322
+
+> Subheading: The two converse about their Beloved (*iṣṭa-goṣṭhī*) —
+
+## 323
+
+> Subheading: The Lord tells of His pilgrimage and gives the two books He obtained —
+
+## 324
+
+> Subheading: Both books confirm the *siddhānta* and the judgments on *rasa* that Rāya had spoken —
+
+## 325
+
+> Subheading: Seeing the Lord, Rāya rejoices and keeps a copy of both books —
+
+## 326
+
+> Subheading: People gather to see the Lord —
+
+***Gosāñi*** is Śrī Caitanya Gosāñi.
+
+## 327
+
+> Subheading: Seeing outsiders, Rāya and the Lord go each about his own affairs —
+
+## 328
+
+> Subheading: The Lord and Rāya stay awake all night talking of Kṛṣṇa —
+
+## 329
+
+> Subheading: The two spend a week in talks about Kṛṣṇa —
+
+## 330
+
+> Subheading: Rāya reports that, by the Lord's order, he is preparing to go to Purī —
+
+## 332
+
+> Subheading: Why the Lord came to Vidyānagara —
+
+## 333
+
+> Subheading: Rāya sends the Lord ahead to Purī and promises to follow —
+
+## 335
+
+> Subheading: The Lord agrees and sets out for Purī —
+
+## 336
+
+> Subheading: To show mercy to the devotees who had become Vaiṣṇavas, the Lord goes by the same road as before —
+
+## 337
+
+> Subheading: Seeing the Lord, the people chant Hari's names, and the Lord rejoices —
+
+## 338
+
+> Subheading: Reaching Ālālanātha, the Lord sends His companion Kṛṣṇadāsa to fetch Nityānanda and the others —
+
+## 339
+
+> Subheading: Nityānanda and the others hurry to see the Lord —
+
+## 341
+
+> Subheading: Everyone meets the Lord on the road —
+
+## 342
+
+> Subheading: The Lord lovingly embraces everyone —
+
+## 343
+
+> Subheading: Meeting Sārvabhauma on the seashore —
+
+## 344
+
+> Subheading: Sārvabhauma bows down; the Lord embraces him —
+
+## 345
+
+> Subheading: Together with everyone the Lord goes for *darśana* of Jagannātha —
 
 ---
 
