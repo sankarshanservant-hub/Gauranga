@@ -1228,81 +1228,101 @@ in one  place  I have told  not  I shall tell  again
 বহু শ্রদ্ধা-ভক্ত্যে কৈল প্রভুর নিমন্ত্রণ ॥ ১২১ ॥
 
 ‘kūrma’-nāme sei grāme vaidika brāhmaṇa  
-bahu śraddhā-bhaktye kaila prabhura nimantraṇa
+‘Kūrma’  by name  in that  village  a Vedic  brāhmaṇa  
+bahu śraddhā-bhaktye kaila prabhura nimantraṇa  
+great  with faith and devotion  made  the Lord’s  invitation
 
-(121) [not yet translated]
+(121) In that village a Vedic brāhmaṇa named Kūrma invited the Lord with great faith and devotion.
 
 ঘরে আনি’ প্রভুর কৈল পাদ প্রক্ষালন ৷  
 সেই জল বংশ-সহিত করিল ভক্ষণ ॥ ১২২ ॥
 
 ghare āni’ prabhura kaila pāda prakṣālana  
-sei jala vaṁśa-sahita karila bhakṣaṇa
+home  bringing  the Lord’s  made  feet  washing  
+sei jala vaṁśa-sahita karila bhakṣaṇa  
+that  water  with his family  made  drinking
 
-(122) [not yet translated]
+(122) He brought the Lord home and washed His feet, and he and his whole family drank that water.
 
 অনেকপ্রকার স্নেহে ভিক্ষা করাইল ৷  
 গোসাঞির প্রসাদান্ন সবংশে খাইল ॥ ১২৩ ॥
 
 aneka-prakāra snehe bhikṣā karāila  
-gosāñira prasādānna sa-vaṁśe khāila
+of many kinds  with affection  meal  made take  
+gosāñira prasādānna sa-vaṁśe khāila  
+Gosāñi’s  prasāda  with his family  ate
 
-(123) [not yet translated]
+(123) With great affection he fed the Lord many kinds of food, and he and his family ate the Gosāñi’s remnants.
 
 ‘যেই পাদপদ্ম তোমার ব্রহ্মা ধ্যান করে ৷  
 সেই পাদপদ্ম সাক্ষাৎ আইল মোর ঘরে ॥ ১২৪ ॥
 
 ‘yei pāda-padma tomāra brahmā dhyāna kare  
-sei pāda-padma sākṣāt āila mora ghare
+which  lotus feet  Your  Brahmā  meditation  makes  
+sei pāda-padma sākṣāt āila mora ghare  
+those  lotus feet  in person  have come  to my  house
 
-(124) [not yet translated]
+(124) “Your lotus feet, on which Brahmā meditates — those same lotus feet have come in person to my house!
 
 মোর ভাগ্যের সীমা না যায় কহন ৷  
 আজি মোর শ্লাঘ্য হৈল জন্ম-কুল-ধন ॥ ১২৫ ॥
 
 mora bhāgyera sīmā nā yāya kahana  
-āji mora ślāghya haila janma-kula-dhana
+my  of good fortune  the limit  not  can be  told  
+āji mora ślāghya haila janma-kula-dhana  
+today  my  glorious  became  birth, family and wealth
 
-(125) [not yet translated]
+(125) There is no telling the limit of my good fortune. Today my birth, my family and my wealth have become glorious.
 
 কৃপা কর, প্রভু, মোরে, যাঙ তোমা-সঙ্গে ৷  
 সহিতে নারিমু তোমার বিরহ-তরঙ্গে ॥ ১২৬ ॥
 
 kṛpā kara, prabhu, more, yāṅa tomā-saṅge  
-sahite nārimu tomāra viraha-taraṅge
+mercy  show  Prabhu  to me  let me go  with You  
+sahite nārimu tomāra viraha-taraṅge  
+to bear  I shall not be able  Your  waves of separation
 
-(126) [not yet translated]
+(126) Be merciful to me, Prabhu — let me go with You. I shall not be able to bear the waves of separation from You.”
 
 প্রভু কহে, — ঐছে বাত্ কভু না কহিবা ৷  
 গৃহে রহি’ কৃষ্ণ-নাম নিরন্তর লৈবা ॥ ১২৭ ॥
 
 prabhu kahe, — aiche bāt kabhu nā kahibā  
-gṛhe rahi’ kṛṣṇa-nāma nirantara laibā
+the Lord  says  such  talk  ever  not  you should say  
+gṛhe rahi’ kṛṣṇa-nāma nirantara laibā  
+at home  staying  Kṛṣṇa’s name  constantly  you should take
 
-(127) [not yet translated]
+(127) The Lord said, “Never speak like that. Stay at home and chant the name of Kṛṣṇa constantly.
 
 যারে দেখ, তারে কহ ‘কৃষ্ণ’-উপদেশ ৷  
 আমার আজ্ঞায় গুরু হঞা তার’ এই দেশ ॥ ১২৮ ॥
 
 yāre dekha, tāre kaha ‘kṛṣṇa’-upadeśa  
-āmāra ājñāya guru hañā tāra’ ei deśa
+whom  you see  to him  tell  the teaching about Kṛṣṇa  
+āmāra ājñāya guru hañā tāra’ ei deśa  
+by My  order  guru  becoming  deliver  this  land
 
-(128) [not yet translated]
+(128) Whomever you see, teach him about Kṛṣṇa. By My order become a guru and deliver this land.
 
 কভু না বাধিবে তোমার বিষয়-তরঙ্গ ৷  
 পুনরপি এই ঠাঞি পাবে মোর সঙ্গ ॥ ১২৯ ॥
 
 kabhu nā bādhibe tomāra viṣaya-taraṅga  
-punarapi ei ṭhāñi pābe mora saṅga
+ever  not  will obstruct  you  the waves of worldly life  
+punarapi ei ṭhāñi pābe mora saṅga  
+again  in this  place  you will get  My  company
 
-(129) [not yet translated]
+(129) Then the waves of worldly life will never obstruct you, and here, in this very place, you will have My company again.”
 
 এইমত যাঁর ঘরে করে প্রভু ভিক্ষা ৷  
 সেই ঐছে কহে, তাঁরে করায় এই শিক্ষা ॥ ১৩০ ॥
 
 ei mata yāṅra ghare kare prabhu bhikṣā  
-sei aiche kahe, tāṅre karāya ei śikṣā
+in this way  in whose  house  takes  the Lord  alms  
+sei aiche kahe, tāṅre karāya ei śikṣā  
+he  likewise  speaks  to him  He gives  this  teaching
 
-(130) [not yet translated]
+(130) In whatever house the Lord took His meal, the host spoke in the same way, and the Lord gave him this same teaching.
 
 পথে যাইতে দেবালয়ে রহে যেই গ্রামে ৷  
 যাঁর ঘরে ভিক্ষা করে, সেই মহাজনে ॥ ১৩১ ॥
@@ -1311,194 +1331,246 @@ sei aiche kahe, tāṅre karāya ei śikṣā
 নীলাচলে পুনঃ যাবৎ না আইলা গোসাঞি ॥ ১৩২ ॥
 
 pathe yāite devālaye rahe yei grāme  
+on the road  going  at a temple  He stays  in which  village  
 yāṅra ghare bhikṣā kare, sei mahā-jane  
+in whose  house  alms  He takes  to that  great soul  
 kūrme yaiche rīti, taiche kaila sarva-ṭhāñi  
-nīlācale punaḥ yāvat nā āilā gosāñi
+with Kūrma  as  the custom  so  He did  everywhere  
+nīlācale punaḥ yāvat nā āilā gosāñi  
+to Nīlācala  again  until  not  came  Gosāñi
 
-(131–132) [not yet translated]
+(131–132) On His way, in whatever village He stayed at a temple, and with whatever great soul in whose house He took His meal, He did as He had done with Kūrma. So He did everywhere, until Gosāñi came back to Nīlācala.
 
 অতএব ইঁহা কহিলাঙ করিয়া বিস্তার ৷  
 এইমত জানিবে প্রভুর সর্ব্বত্র ব্যবহার ॥ ১৩৩ ॥
 
 ataeva iṅhā kahilāṅa kariyā vistāra  
-ei-mata jānibe prabhura sarvatra vyavahāra
+therefore  here  I have told  making  in detail  
+ei-mata jānibe prabhura sarvatra vyavahāra  
+in this way  you should know  the Lord’s  everywhere  conduct
 
-(133) [not yet translated]
+(133) That is why I have described it here in detail; know that this is how the Lord acted everywhere.
 
 এইমত সেই রাত্রি তাঁহাই রহিলা ৷  
 প্রাতঃকালে প্রভু স্নান করিয়া চলিলা ॥ ১৩৪ ॥
 
 ei-mata sei rātri tāṅhāi rahilā  
-prātaḥ-kāle prabhu snāna kariyā calilā
+in this way  that  night  right there  He stayed  
+prātaḥ-kāle prabhu snāna kariyā calilā  
+in the morning  the Lord  bath  having taken  set out
 
-(134) [not yet translated]
+(134) He stayed there that night, and in the morning, after bathing, the Lord set out.
 
 প্রভুর অনুব্রজি’ কূর্ম্ম বহু দূর আইলা ৷  
 প্রভু তাঁরে যত্ন করি’ ঘরে পাঠাইলা ॥ ১৩৫ ॥
 
 prabhura anuvraji’ kūrma bahu dūra āilā  
-prabhu tāṅre yatna kari’ ghare pāṭhāilā
+the Lord  following  Kūrma  a long  way  came  
+prabhu tāṅre yatna kari’ ghare pāṭhāilā  
+the Lord  him  with care  home  sent
 
-(135) [not yet translated]
+(135) Kūrma followed the Lord a long way, until the Lord gently persuaded him to go home.
 
 ‘বাসুদেব’-নাম এক দ্বিজ মহাশয় ৷  
 সর্ব্বাঙ্গে গলিত কুষ্ঠ, তাতে কীড়াময় ॥ ১৩৬ ॥
 
 ‘vāsudeva’-nāma eka dvija mahāśaya  
-sarvāṅge galita kuṣṭha, tāte kīḍā-maya
+‘Vāsudeva’  by name  a  brāhmaṇa  noble  
+sarvāṅge galita kuṣṭha, tāte kīḍā-maya  
+all over the body  rotting  leprosy  in it  full of worms
 
-(136) [not yet translated]
+(136) There was a noble brāhmaṇa named Vāsudeva. His whole body was rotting with leprosy and swarming with worms.
 
 অঙ্গ হৈতে যেই কীড়া খসিয়া পড়য় ৷  
 উঠাঞা সেই কীড়া রাখে সেই ঠাঞি ॥ ১৩৭ ॥
 
 aṅga haite yei kīḍā khasiyā paḍaya  
-uṭhāñā sei kīḍā rākhe sei ṭhāñi
+from the body  whatever  worm  slipping  falls  
+uṭhāñā sei kīḍā rākhe sei ṭhāñi  
+picking up  that  worm  he puts  in that  place
 
-(137) [not yet translated]
+(137) Whenever a worm slipped and fell from his body, he would pick it up and put it back in the same place.
 
 রাত্রিতে শুনিলা তিঁহো গোসাঞির আগমন ৷  
 দেখিবারে আইলা প্রভাতে কূর্ম্মের ভবন ॥ ১৩৮ ॥
 
 rātrite śunilā tiṅho gosāñira āgamana  
-dekhibāre āilā prabhāte kūrmera bhavana
+at night  heard  he  the Gosāñi’s  arrival  
+dekhibāre āilā prabhāte kūrmera bhavana  
+to see  he came  in the morning  to Kūrma’s  house
 
-(138) [not yet translated]
+(138) At night he heard of the Gosāñi’s arrival, and in the morning he came to Kūrma’s house to see Him.
 
 প্রভুর গমন কূর্ম্ম-মুখেতে শুনিঞা ৷  
 ভূমিতে পড়িলা দুঃখে মূর্চ্ছিত হঞা ॥ ১৩৯ ॥
 
 prabhura gamana kūrma-mukhete śuniñā  
-bhūmite paḍilā duḥkhe mūrcchita hañā
+the Lord’s  departure  from Kūrma’s mouth  hearing  
+bhūmite paḍilā duḥkhe mūrcchita hañā  
+on the ground  he fell  in grief  unconscious  becoming
 
-(139) [not yet translated]
+(139) When he heard from Kūrma that the Lord had gone, he fell to the ground unconscious with grief.
 
 অনেক প্রকার বিলাপ করিতে লাগিলা ৷  
 সেইক্ষণে আসি’ প্রভু তাঁরে আলিঙ্গিলা ॥ ১৪০ ॥
 
 aneka prakāra vilāpa karite lāgilā  
-sei-kṣaṇe āsi’ prabhu tāṅre āliṅgilā
+many  kinds  lamentation  to make  he began  
+sei-kṣaṇe āsi’ prabhu tāṅre āliṅgilā  
+at that very moment  coming  the Lord  him  embraced
 
-(140) [not yet translated]
+(140) He began to lament in many ways, and at that very moment the Lord came and embraced him.
 
 প্রভু-স্পর্শে দুঃখ-সঙ্গে কুষ্ঠ দূরে গেল ৷  
 আনন্দ সহিতে অঙ্গ সুন্দর হইল ॥ ১৪১ ॥
 
 prabhu-sparśe duḥkha-saṅge kuṣṭha dūre gela  
-ānanda sahite aṅga sundara haila
+by the Lord’s touch  together with the grief  the leprosy  far  went  
+ānanda sahite aṅga sundara haila  
+bliss  together with  the body  beautiful  became
 
-(141) [not yet translated]
+(141) At the Lord’s touch his leprosy vanished together with his grief, and his body became beautiful and full of bliss.
 
 প্রভুর কৃপা দেখি’ তাঁর বিস্ময় হৈল মন ৷  
 শ্লোক পড়ি’ পায়ে ধরি’ করয়ে স্তবন ॥ ১৪২ ॥
 
 prabhura kṛpā dekhi’ tāṅra vismaya haila mana  
-śloka paḍi’ pāye dhari’ karaye stavana
+the Lord’s  mercy  seeing  his  amazed  became  mind  
+śloka paḍi’ pāye dhari’ karaye stavana  
+a verse  reciting  the feet  holding  he makes  praise
 
-(142) [not yet translated]
+(142) Seeing the Lord’s mercy, he was amazed. Holding the Lord’s feet, he recited a verse and praised Him:
 
 ক্বাহং দরিদ্রঃ পাপীয়ান্ ক্ব কৃষ্ণঃ শ্রীনিকেতনঃ ৷  
 ব্রহ্মবন্ধুরিতি স্মাহং বাহুভ্যাং পরিরম্ভিতঃ ॥ ১৪৩ ॥
 
 kvāhaṁ daridraḥ pāpīyān  
+where  I  poor  most sinful  
 kva kṛṣṇaḥ śrī-niketanaḥ  
+where  Kṛṣṇa  the abode of Śrī  
 brahma-bandhur iti smāhaṁ  
-bāhubhyāṁ parirambhitaḥ
+a brāhmaṇa by birth only  thus  indeed  I  
+bāhubhyāṁ parirambhitaḥ  
+with both arms  was embraced
 
-(143) [not yet translated]
+(143) “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet because I was born a brāhmaṇa, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)
 
 বহু স্তুতি করি’ কহে, — শুন, দয়াময় ৷  
 জীবে এই গুণ নাহি, তোমাতে এই হয় ॥ ১৪৪ ॥
 
 bahu stuti kari’ kahe, — śuna, dayā-maya  
-jīve ei guṇa nāhi, tomāte ei haya
+many  prayers  making  he says  hear  O Merciful One  
+jīve ei guṇa nāhi, tomāte ei haya  
+in a jīva  this  quality  is not  in You  this  is
 
-(144) [not yet translated]
+(144) After offering many prayers he said, “Hear me, O Merciful One: no jīva has this quality; it is found in You alone.
 
 মোরে দেখি’ মোর গন্ধে পলায় পামর ৷  
 হেন-মোরে স্পর্শ’ তুমি, — স্বতন্ত্র-ঈশ্বর ॥ ১৪৫ ॥
 
 more dekhi’ mora gandhe palāya pāmara  
-hena-more sparśa’ tumi, — svatantra-īśvara
+me  seeing  at my  smell  flee  the wretched  
+hena-more sparśa’ tumi, — svatantra-īśvara  
+such a me  touch  You  the independent Lord
 
-(145) [not yet translated]
+(145) Seeing me and smelling my stench, even the wretched flee from me; yet You touch someone like me. You are the independent Lord!
 
 কিন্তু আছিলাঙ ভাল অধম হঞা ৷  
 এবে অহঙ্কার মোর জন্মিবে আসিয়া ॥ ১৪৬ ॥
 
 kintu āchilāṅa bhāla adhama hañā  
-ebe ahaṅkāra mora janmibe āsiyā
+but  I was  well off  lowly  being  
+ebe ahaṅkāra mora janmibe āsiyā  
+now  pride  my  will be born  coming
 
-(146) [not yet translated]
+(146) But I was better off being lowly; now pride will arise in me.”
 
 প্রভু কহে, — কভু তোমার না হবে অভিমান ৷  
 নিরন্তর কহ তুমি ‘কৃষ্ণ’ ‘কৃষ্ণ’ নাম ॥ ১৪৭ ॥
 
 prabhu kahe, — kabhu tomāra nā habe abhimāna  
-nirantara kaha tumi ‘kṛṣṇa’ ‘kṛṣṇa’ nāma
+the Lord  says  ever  your  not  will be  pride  
+nirantara kaha tumi ‘kṛṣṇa’ ‘kṛṣṇa’ nāma  
+constantly  say  you  Kṛṣṇa  Kṛṣṇa  the name
 
-(147) [not yet translated]
+(147) The Lord said, “You will never become proud. Chant the name ‘Kṛṣṇa! Kṛṣṇa!’ constantly.
 
 কৃষ্ণ উপদেশি’ কর জীবের নিস্তার ৷  
 অচিরাতে কৃষ্ণ তোমা করিবেন অঙ্গীকার ॥ ১৪৮ ॥
 
 kṛṣṇa upadeśi’ kara jīvera nistāra  
-acirāte kṛṣṇa tomā karibena aṅgīkāra
+about Kṛṣṇa  teaching  make  of the jīvas  deliverance  
+acirāte kṛṣṇa tomā karibena aṅgīkāra  
+soon  Kṛṣṇa  you  will make  acceptance
 
-(148) [not yet translated]
+(148) Teach about Kṛṣṇa and deliver the jīvas, and very soon Kṛṣṇa will accept you as His own.”
 
 এতেক কহিয়া প্রভু কৈল অন্তর্দ্ধানে ৷  
 দুইবিপ্র গলাগলি কান্দে প্রভুর গুণে ॥ ১৪৯ ॥
 
 eteka kahiyā prabhu kaila antarddhāne  
-dui vipra galāgali kānde prabhura guṇe
+so much  having said  the Lord  made  disappearance  
+dui vipra galāgali kānde prabhura guṇe  
+two  brāhmaṇas  embracing  weep  for the Lord’s  qualities
 
-(149) [not yet translated]
+(149) Having said this, the Lord disappeared, and the two brāhmaṇas wept in each other’s arms, remembering the Lord’s qualities.
 
 ‘বাসুদেবোদ্ধার’ এই কহিল আখ্যান ৷  
 ‘বাসুদেবামৃতপ্রদ’ হৈল প্রভুর নাম ॥ ১৫০ ॥
 
 ‘vāsudevoddhāra’ ei kahila ākhyāna  
-‘vāsudevāmṛta-prada’ haila prabhura nāma
+‘Vāsudeva’s deliverance’  this  I have told  the story  
+‘vāsudevāmṛta-prada’ haila prabhura nāma  
+‘the Giver of nectar to Vāsudeva’  became  the Lord’s  name
 
-(150) [not yet translated]
+(150) Thus I have told the story of Vāsudeva’s deliverance, through which the Lord received the name Vāsudevāmṛta-prada, “the Giver of nectar to Vāsudeva”.
 
 এই ত’ কহিল প্রভুর প্রথম গমন ৷  
 কূর্ম্ম-দরশন, বাসুদেব-বিমোচন ॥ ১৫১ ॥
 
 ei ta’ kahila prabhura prathama gamana  
-kūrma-daraśana, vāsudeva-vimocana
+this  indeed  I have told  the Lord’s  first  journey  
+kūrma-daraśana, vāsudeva-vimocana  
+the sight of Kūrma  Vāsudeva’s deliverance
 
-(151) [not yet translated]
+(151) Thus I have told of the beginning of the Lord’s journey: His visit to Kūrma and the deliverance of Vāsudeva.
 
 শ্রদ্ধা করি’ এই লীলা যে করে শ্রবণ ৷  
 অচিরাতে মিলয়ে তারে চৈতন্য-চরণ ॥ ১৫২ ॥
 
 śraddhā kari’ ei līlā ye kare śravaṇa  
-acirāte milaye tāre caitanya-caraṇa
+faith  having  this  pastime  who  makes  hearing  
+acirāte milaye tāre caitanya-caraṇa  
+soon  obtains  he  Caitanya’s feet
 
-(152) [not yet translated]
+(152) Whoever hears this pastime with faith soon attains the feet of Caitanya.
 
 চৈতন্যলীলার আদি-অন্ত নাহি জানি ৷  
 সেই লিখি, যেই মহান্তের মুখে শুনি ॥ ১৫৩ ॥
 
 caitanya-līlāra ādi-anta nāhi jāni  
-sei likhi, yei mahāntera mukhe śuni
+of Caitanya’s pastimes  beginning and end  not  I know  
+sei likhi, yei mahāntera mukhe śuni  
+that  I write  what  of the great souls  from the mouths  I hear
 
-(153) [not yet translated]
+(153) I do not know the beginning or the end of Caitanya’s pastimes; I write only what I have heard from the lips of great souls.
 
 ইথে অপরাধ মোর না লইও, ভক্তগণ ৷  
 তোমা-সবার চরণ — মোর একান্ত শরণ ॥ ১৫৪ ॥
 
 ithe aparādha mora nā laio, bhakta-gaṇa  
-tomā-sabāra caraṇa — mora ekānta śaraṇa
+in this  offence  my  not  take  O devotees  
+tomā-sabāra caraṇa — mora ekānta śaraṇa  
+of you all  the feet  my  sole  refuge
 
-(154) [not yet translated]
+(154) O devotees, do not hold my offences in this against me: your feet are my only refuge.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৫৫ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(155) [not yet translated]
+(155) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
