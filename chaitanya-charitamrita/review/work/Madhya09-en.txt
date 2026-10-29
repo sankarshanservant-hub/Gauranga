@@ -976,7 +976,7 @@ tr: The Lord was pleased to hear of his way of worship, and the brāhmaṇa cook
 ## 186
 w: the Lord  His meal  took  of the day  in the third watch
 w: dejected  that  brāhmaṇa  a fast  keeps
-tr: The Lord took His meal in the third watch of the day, but the brāhmaṇa, dejected, went on fasting.
+tr: The Lord took His meal in the third *prahara* of the day, after noon, but the brāhmaṇa, dejected, went on fasting.
 
 ## 187
 w: the Lord  said  brāhmaṇa  why  do you keep  a fast
@@ -1022,6 +1022,7 @@ tr: The moment Rāvaṇa came, Sītā disappeared and sent a *māyā-Sītā* bef
 w: transcendental  reality  is not  within the range of the material
 w: in the Vedas and Purāṇas  this  is said  constantly
 tr: A transcendental reality is never within the range of the material: the Vedas and Purāṇas declare this again and again.
+fn: *Anubhāṣya*: the reality of Vaikuṇṭha cannot be measured by matter. In support it cites the *Kaṭha Upaniṣad* (2.3: “His form does not stand within the range of sight; no one sees Him with the eyes… He cannot be reached by speech, by mind or by sight”) and the *Śrīmad-Bhāgavatam* (10.84.13).
 
 ## 196
 w: faith  have  you  in My  words
@@ -1037,6 +1038,7 @@ tr: The brāhmaṇa came to believe the Lord’s words. He ate, and his hope of 
 w: him  having comforted  the Lord  made  departure
 w: in the Kṛtamālā  a bath  taking  He came  to Durvaśana
 tr: Having comforted him, the Lord went on. After bathing in the Kṛtamālā, He came to Durvaśana.
+fn: *Anubhāṣya*: Durvaśana is Darbhaśayana, a temple of Śrī Rāmacandra seven miles east of Ramnad, on the seashore.
 
 ## 199
 w: in Durvaśana  of Raghunātha  He had  darśana
@@ -1051,7 +1053,8 @@ tr: Coming to Setubandha, He bathed at Dhanus-tīrtha; then He saw Rāmeśvara a
 ## 201
 w: in an assembly of brāhmaṇas  He hears  there  the Kūrma Purāṇa
 w: of it  in the midst  came  of a chaste wife  the story
-tr: There, in an assembly of brāhmaṇas, He heard the *Kūrma Purāṇa*, and in it came the story of the chaste wife.
+tr: There, in an assembly of brāhmaṇas, He listened to the *Kūrma Purāṇa*, and in the course of it came the story of the chaste wife.
+fn: *Anubhāṣya*: only two parts of the present *Kūrma Purāṇa* survive, the Pūrva-khaṇḍa and the Uttara-khaṇḍa; it once had seventeen thousand verses in four *saṁhitās*.
 
 ## 202
 w: of chaste wives  the crown jewel  of Janaka  the daughter
@@ -1061,7 +1064,7 @@ tr: The daughter of Janaka, the crown jewel of chaste wives, is Sītā, the moth
 ## 203
 w: Rāvaṇa  seeing  Sītā  took  of Agni  shelter
 w: from Rāvaṇa  Agni  made  of Sītā  a covering
-tr: When Sītā saw Rāvaṇa, she took shelter of Agni, and Agni hid Sītā from Rāvaṇa.
+tr: When Sītā saw Rāvaṇa, she took shelter of Agni, and Agni hid her from Rāvaṇa.
 
 ## 204
 w: a māyā-Sītā  Rāvaṇa  took  He heard  in the story
@@ -1079,9 +1082,10 @@ w: the ordeal by fire  to undergo  Sītā  He brought
 tr: When Raghunātha came and slew Rāvaṇa, He had Sītā brought to undergo the ordeal by fire.
 
 ## 207
-w: then  the māyā-Sītā  Agni  made  disappear
+w: then  the māyā-Sītā  in the fire  made  disappearance
 w: the real Sītā  bringing  he gave  in Rāma’s presence
-tr: Then Agni made the *māyā-Sītā* vanish, brought the real Sītā and gave her back in Rāma’s presence.
+tr: Then the *māyā-Sītā* vanished in the fire, and Agni brought the real Sītā and gave her back in Rāma’s presence.
+fn: The Gauḍīya Maṭha edition reads «অগ্নে», “in the fire”; another reading has «অগ্নি», “Agni” (made the *māyā-Sītā* vanish). The translation follows the edition; so too in verse 212, where the shadow Sītā enters the fire.
 
 ## 208
 w: these  conclusions  hearing  the Lord’s  joy  arose
@@ -1091,7 +1095,8 @@ tr: Hearing these conclusions, the Lord was overjoyed. He asked the brāhmaṇas
 ## 209
 w: a new  leaf  having had written  into the book  He had it put
 w: for credence  for the sake  the old  leaf  asking  He took
-tr: He had a new leaf written and put into the book, and, for the sake of credence, asked for the old leaf and took it.
+tr: He had the leaf copied and the new copy placed in the book, and He asked for the old leaf to take with Him as proof.
+fn: *Amṛta-pravāha-bhāṣya*: Mahāprabhu brought the old leaves so that the brāhmaṇa Rāmadāsa would believe.
 
 ## 210
 w: the leaf  taking  again  to Southern Mathurā  He came
@@ -1145,7 +1150,7 @@ tr: Gaurahari stayed there that night, showing him mercy, and then went to the T
 ## 219
 w: in the Tāmraparṇī  a bath  taking  on the bank of the Tāmraparṇī
 w: the nine  Tripatis  seeing  He roams  joyfully
-tr: He bathed in the Tāmraparṇī and, on its bank, saw Naya Tripati, the nine Tripatis, wandering about joyfully.
+tr: He bathed in the Tāmraparṇī, and on its bank He joyfully went about seeing Naya Tripati, the nine Tripatis.
 
 ## 220
 w: at Ciyaḍatalā  holy place  seeing  Śrī Rāma and Lakṣmaṇa
@@ -1171,6 +1176,7 @@ tr: On the Malaya hill He offered homage to Agastya, and there He had *darśana*
 w: in Āmlitalā  seeing  Śrī Rāma  Gaurahari
 w: to the Mallāra country  came  where  the Bhaṭṭathāris
 tr: Having seen Śrī Rāma at Āmlitalā, Gaurahari came to the Mallāra country, where the Bhaṭṭathāris live.
+fn: *Amṛta-pravāha-bhāṣya*: the Bhaṭṭathāris (in common speech, “Bhāṭwārīs”) have neither house nor home; wherever they stop, they live in simple tents. Outwardly they wear the dress of sannyāsīs, but their trade is theft and deceit; with the women they keep in their tents they lure others and so swell their band.
 
 ## 225
 w: Tamāla-kārttika  seeing  He came  to Vetāpani
@@ -1236,6 +1242,7 @@ tr: Seeing His love, the people were utterly amazed, and everyone honoured the L
 w: with great devotees  together  there  discussion  He held
 w: of the ‘Brahma-saṁhitā chapter’  the manuscript  there  He found
 tr: There He held discussions with great devotees, and there He found the manuscript of the chapter of the *Brahma-saṁhitā*.
+fn: *Amṛta-pravāha-bhāṣya*: the chapter of the *Brahma-saṁhitā* is its fifth chapter, now available in Bengal with the commentary of Śrī Jīva Gosvāmī. The *Anubhāṣya* lists its subjects: inconceivable oneness and difference, the eighteen-syllable mantra, the *kāma-gāyatrī*, the form of Govinda, Gokula, the truth of the *jīva*, *prema*, devotion on the path of *rāga*, *svakīyā* and *parakīyā*, and much else.
 
 ## 238
 w: the manuscript  finding  the Lord’s  arose  joy  boundless
