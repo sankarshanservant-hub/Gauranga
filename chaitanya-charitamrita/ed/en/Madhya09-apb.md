@@ -87,3 +87,47 @@ Veṅkaṭa Bhaṭṭa, his brother Trimalla Bhaṭṭa, and Prabodhānanda Sara
 ## 93
 
 **A Vaiṣṇava brāhmaṇa**: in “Govinda's *Kaḍacā*” (?) this brāhmaṇa is called “Yudhiṣṭhira.”
+
+## 115–116
+
+Nārāyaṇa is Kṛṣṇa's form for pastimes (*vilāsa-mūrti*). So although He differs from Kṛṣṇa in having four arms rather than two, in His *svarūpa* He is not separate from Kṛṣṇa. Nārāyaṇa has grace like Kṛṣṇa's, but He does not have pastimes full of cleverness (*vaidagdhya*) and the like, as Kṛṣṇa does. Kṛṣṇa Himself, in His form for pastimes, is Nārāyaṇa, and so Nārāyaṇa's wife Lakṣmī does not lose her chastity by Śrī Kṛṣṇa's touch. It is natural, then, that Lakṣmī should playfully desire Kṛṣṇa's company.
+
+## 117
+
+By *siddhānta* there is no difference at all between the *svarūpas* of “Nārāyaṇa” and “Kṛṣṇa.” Yet when *śṛṅgāra-rasa* is considered, the form of Śrī Kṛṣṇa excels by virtue of *rasa*. This is precisely how the *tattva* of *rasa* is arranged.
+
+## 118–119
+
+Lakṣmī saw that in Kṛṣṇa's company chastity is not violated, while the greater gain—the pastimes of the *rāsa*—can be had only in Kṛṣṇa's company; in Nārāyaṇa's company it cannot be had.
+
+## 127
+
+**“*Sajīva-lakṣaṇa*”**: a characteristic shown in action (*kriyā-lakṣaṇa*). Another reading has “*svabhāva-lakṣaṇa*” (a characteristic of nature); its meaning is clear. A third reading is “*svabhāva-vilakṣaṇa*”: Kṛṣṇa's nature is unlike the nature of others; or else the word *vilakṣaṇa* means a distinctive characteristic.
+
+## 129
+
+***Udukhala***: an *uthali*, that is, a device that does the work of a *ḍheṅki* (rice-husking lever).
+
+## 130–131
+
+The residents of Vraja know Him as “Nanda's son.” Any other relationship with Him—as with “Parameśvara,” the possessor of supreme majesty—they do not accept. One who worships the Supreme Truth in one of the four moods of the residents of Vraja—*dāsya*, *sakhya*, *vātsalya*, or *madhura*—finally attains Kṛṣṇa, the son of the king of Vraja, in His pure form in Vraja.
+
+## 133–140
+
+The Śrutis tried to enter Śrī Kṛṣṇa's *rāsa* circle (*rāsa-maṇḍala*), but their desire was not fulfilled. Nor could they enter when they took up the mood of the gopīs only within their hearts. Then, taking up the mood of the gopīs both in body and in heart, they followed the gopīs and entered Śrī Kṛṣṇa's *rāsa* dance. Śrī Kṛṣṇa is a cowherd by birth, and only the gopīs are His beloveds. So neither in the form of a goddess full of majesty nor in the form of any other woman can “Kṛṣṇa's company” be had. The goddess Lakṣmī prayed for Kṛṣṇa's company in her own divine body, but she did not serve Him following the natural love (*anurāga*) of the gopīs. Therefore in a body other than a gopī's she could not obtain the pastimes of the *rāsa*. That is why Vyāsadeva wrote the verse “*nāyaṁ sukhāpo bhagavān*.”
+
+In Veṅkaṭa Bhaṭṭa's mind there was a conceit: “Nārāyaṇa, who dwells in Paravyoma, is Himself Śrī Bhagavān; His worship is the highest of all grades of worship; therefore the worship of the Vaiṣṇavas of the Śrī-sampradāya is the highest of all.” To break this empty pride, Mahāprabhu raised this question in jest.
+
+## 144–149
+
+Śrī Nārāyaṇa has sixty qualities. Beyond these sixty Śrī Kṛṣṇa has four more unique qualities that Śrī Nārāyaṇa does not have: (1) He is distinguished by an ocean of pastimes more wonderful than all others; (2) He is surrounded by dear associates adorned with incomparable sweet *prema*; (3) He is absorbed in the song of His flute, which attracts the three worlds; (4) His beauty, which astonishes all moving and nonmoving beings, has no equal and no superior. Śrī Kṛṣṇa possesses these four unique qualities, and so even Lakṣmī, the embodiment of majesty, constantly thirsts for Him. The verse you recited, “*siddhāntatas tv abhede 'pi*,” establishes that Kṛṣṇa alone is Bhagavān Himself. Only Kṛṣṇa, endowed with the qualities of Bhagavān Himself, steals Lakṣmī's heart. Śrī Nārāyaṇa lacks the four qualities that can steal the hearts of the gopīs, so He cannot steal their hearts. What to speak of Nārāyaṇa: even when Śrī Kṛṣṇa in jest manifested Himself in the form of Nārāyaṇa Himself, the gopīs felt no love (*anurāga*) for Him.
+
+Here one point must be considered. Śrī Rūpa Gosvāmī's *Bhakti-rasāmṛta-sindhu* was composed many days after this (after the Lord's meeting with Veṅkaṭa Bhaṭṭa). How, then, could Śrī Veṅkaṭa Bhaṭṭa recite a verse from that book as evidence? We conclude as follows. The verses that the *Bhakti-rasāmṛta-sindhu* and other books cite as having been in use before those books were written were current even among very ancient devotees of Kṛṣṇa. Śrī Rūpa Gosvāmī used precisely those in his books. And since Śrī Rūpa's books were composed before Kavirāja Gosvāmī wrote, (Kavirāja Gosvāmī in his book) cited all these verses as quotations from those books of Śrī Rūpa. In many places Kavirāja Gosvāmī, relying only on their meaning, brought verses of the earlier Gosvāmīs into conversations.
+
+## 151–156
+
+Setting aside His joking words, Mahāprabhu finally said, “Bhaṭṭa, do not be sad.” As there is no difference between “Kṛṣṇa” and “Nārāyaṇa,” so there is no difference between the gopīs and Lakṣmī: Rādhikā, who contains all the Lakṣmīs, manifests many different forms in a single being. Through the gopīs Lakṣmī tastes Kṛṣṇa's company. That is, the *svarūpa-śakti* in the form of sweetness (*mādhurya*) tastes Kṛṣṇa's company in the bodies of the gopīs, and in the body of majesty (*aiśvarya*), as Lakṣmī, tastes Nārāyaṇa's company. In the *tattva* of Īśvara there is no difference. One should understand that because the moods of the devotees differ, the one spiritual form differs only in the forms of meditation—in its shapes and appearances.
+
+## 157
+
+The *vaidūrya* gem, according to the substances it touches and where it lies, is seen in different colors—blue, yellow, and so on—and takes on different appearances. In the same way, in meditation on the one Acyuta, who has no second, different states are seen according to the devotee's mood—by the difference in meditation.

@@ -408,6 +408,8 @@ See *Śrīmad-Bhāgavatam* 7.5.23,[^102-1] as well as “*bhaktyā bhāgavataṁ
 
 > Subheading: Vṛndāvana is the pure, guileless mind free of the desires of *karma*, *jñāna*, and the like; Kṛṣṇa, the embodiment of *saṁvit*, abides in that alone —
 
+See Madhya 6.83–84.
+
 ## 106
 
 > Subheading: The Lord's prohibition against making Him known accords with worldly custom, but it also deceives the demons —
@@ -440,6 +442,138 @@ See *Śrīmad-Bhāgavatam* 7.5.23,[^102-1] as well as “*bhaktyā bhāgavataṁ
 
 > Subheading: For this Lakṣmī performs severe austerities —
 
+## 114
+
+See Madhya 8.147.
+
+## 115
+
+> Subheading: The Bhaṭṭa answers simply: in Kṛṣṇa's company Nārāyaṇa's wife cannot lose her chastity —
+
+## 111–116
+
+See Ādi 5.227 and Madhya 8.146.
+
+## 117
+
+> Subheading: The difference between the pastimes of Kṛṣṇa and Nārāyaṇa —
+
+**siddhāntataḥ** (in essence) **śrīśa-kṛṣṇa-svarūpayoḥ** (of the *tattvas* of Nārāyaṇa and Kṛṣṇa) **abhede sati api** **rasena** **kṛṣṇa-rūpam** (*eva*, alone) **utkṛṣyate**,—**eṣā rasa-sthitiḥ** (the nature of *rasa*). See Ādi, Chapters 2 and 3, and the *Laghu-bhāgavatāmṛta*.
+
+## 120
+
+> Subheading: The Lord asks again —
+
+## 121
+
+> Subheading: The glory of the gopīs of Vraja —
+
+See Madhya 8.80.
+
+## 122
+
+> Subheading: Without following the gopīs Lakṣmī cannot join Kṛṣṇa in the *rāsa* pastimes —
+
+## 123
+
+> Subheading: Only by following the gopīs do the Śrutis attain service to Kṛṣṇa on the path of *rāga* —
+
+See Madhya 8.224.
+
+## 124
+
+> Subheading: The Bhaṭṭa cannot answer the Lord's question —
+
+## 126
+
+> Subheading: By the Lord's mercy one can know His pastimes —
+
+“*yam evaiṣa vṛṇute tena labhyas tasyaiṣa ātmā vivṛṇute tanuṁ svām*” (“He is attained only by one whom He Himself chooses; to such a person the Self reveals His own form”) (*Kaṭha Upaniṣad* 2.23; *Muṇḍaka Upaniṣad* 3.2.3).
+
+## 127
+
+> Subheading: The Lord's true answer: a description of the nature of Kṛṣṇa and of the residents of Vraja—their natural *rāgātmikā* —
+
+See Ādi 4.137–158 and Madhya 8.138, 142, 144, 145, 148.
+
+## 128–130
+
+**First line**: see Ādi 4.33 and Madhya 8.204–205, 220–222, 226, 228–230. **Second line**: see Ādi 4.21–26.
+
+## 132
+
+See Madhya 8.227.
+
+## 133
+
+> Subheading: Following the gopīs, the Śrutis attain service to Kṛṣṇa in the *rāsa* —
+
+## 135
+
+> Subheading: Apart from the gopīs, no other woman, even a spiritual one, can attain service in *madhura* —
+
+## 136
+
+> Subheading: With Lakṣmī's awareness of majesty, Kṛṣṇa's company cannot be had —
+
+## 138
+
+> Subheading: Formerly the Bhaṭṭa, a Śrī Vaiṣṇava, held that Nārāyaṇa was the *svayaṁ-rūpa* —
+
+## 138–139
+
+See Ādi 2.23–24 and 28–115, and the discussion of Śrī Rūpa Gosvāmī Prabhu in the *Laghu-bhāgavatāmṛta*.
+
+## 141
+
+> Subheading: The Lord describes the distinctive pastimes of Kṛṣṇa and Nārāyaṇa and establishes that Kṛṣṇa is the *svayaṁ-rūpa* —
+
+## 143
+
+See Madhya 2.67.[^143-1]
+
+## 146
+
+See Madhya 9.117.
+
+## 147
+
+> Subheading: Lakṣmī longs for Kṛṣṇa's sweetness, but the gopīs do not want the majesty of four-armed Nārāyaṇa —
+
+## 148
+
+> Subheading: The gopīs disregard even Kṛṣṇa's own four-armed form —
+
+## 148–149
+
+See Ādi 17.277–293.
+
+## 150
+
+See Ādi 17.281.
+
+## 151
+
+> Subheading: The Lord reconciles the *tattva* of Lakṣmī and the *tattva* of the gopīs —
+
+## 153
+
+> Subheading: Bhagavān Himself, Kṛṣṇa, and the *tattva* of Nārāyaṇa; Śrī Rādhā, who contains all the Lakṣmīs, and the *tattva* of Lakṣmī —
+
+Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they are one Reality—so the gopīs and Lakṣmī are not different in essence. Although by *rasa* the gopīs excel Lakṣmī, one must understand that by *siddhānta* they are not different.
+
+## 155
+
+> Subheading: To see a difference between the *tattva* of Kṛṣṇa and the *tattva* of Viṣṇu, or between the *tattva* of Śrī Rādhā and the *tattva* of Lakṣmī, is an offense —
+
+## 156
+
+> Subheading: According to the service suited to the devotee's own nature, the object of worship appears in sweetness or in majesty —
+
+## 157
+
+**maṇiḥ** (the *vaidūrya*) **nīlādibhiḥ** (with qualities) (*yutaḥ san*, being endowed) **yathā vibhāgena** (*upalakṣitaḥ bhavati*, is distinguished by contact; or: being distinguished by contact, appears endowed with blue and so on), **tathā acyutaḥ** (He who is without falling; or: He from whom there is no falling away [*kṣaraṇa*] for His devotees, for: “Your devotees do not fall even at the great dissolution. Therefore the great ones throughout the world sing of You as Acyuta”—the words of the *Kāśī-khaṇḍa*) **dhyāna-bhedāt** (because of differences in worship) **rūpa-bhedam** (difference of form: four-armed, two-armed, and so on; white, red, dark, and so on) **avāpnoti** (attains) (those inclined to magnanimity first see the form of Gaura and others, and then, gaining a mood in which sweetness predominates, see the dark form not different from Gaura).
+
 ---
 
 [^11-1]: Unclear expression (“śrī-rāmāyaṇa-guru-karaṇa-panthā”); the translation is tentative.
@@ -449,3 +583,5 @@ See *Śrīmad-Bhāgavatam* 7.5.23,[^102-1] as well as “*bhaktyā bhāgavataṁ
 [^79-2]: Unclear in the scan: “…শ্রেণ্যাম্ (?) আরাধ্য…”; from the context (the governor of Giṅgi is mentioned above), probably *ceñjyām*, “at Ceñji,” that is, Giṅgi; the translation is tentative.
 
 [^102-1]: The edition numbers this section “২০২,” an obvious misprint for 102: it stands between sections 94–96 and 105 and in content belongs to verse 102.
+
+[^143-1]: So in the edition (checked against the scan). The verse “*ete cāṁśa-kalāḥ puṁsaḥ*” is cited at Ādi 2.67; “Madhya” seems to have been printed in place of “Ādi.”
