@@ -1465,7 +1465,7 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 
 [^245-1]: Unclear in the scan: one digit of the year is blotted (“১:৬৩”); probably 1763, the same as for the next *ācārya*.
 
-[^261-1]: Madhya 22.104 in Vṛndāvana Candra Dāsa's translation.
+[^261-1]: The edition reads “মধ্য ২২ পঃ ১০৫”; in Vṛndāvana Candra Dāsa's translation this verse is Madhya 22.104.
 
 [^263-1]: So in the edition (“কাম”); in view of the verse, perhaps *karma* (কর্ম্ম) is meant.
 
