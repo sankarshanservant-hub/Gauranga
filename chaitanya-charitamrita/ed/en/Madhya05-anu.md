@@ -130,7 +130,7 @@ The *Skanda Purāṇa* tells how Śiva obtained Ekāmra-kānana. A king named �
 
 ## 143
 
-***The staff.*** At Kāṭoyā Śrī Gaurasundara accepted *ekadaṇḍa-sannyāsa* in the Bhāratī *sampradāya*, which descends from Śaṅkara. Śrī Nityānanda Prabhu broke that *sannyāsa* staff into three pieces and threw it into the Bhārgī River (the present “Daṇḍabhāṅgā”). In the order of *sannyāsa*, the staff is to be kept in the stages of *kuṭīcaka* and *bahūdaka*, but in the stages of *haṁsa* and *paramahaṁsa* one is enjoined to give it up. Gaurahari is the Lord of the fourteen worlds, and unlike other *sannyāsīs* He has no need to show whether He stands at a lower or a higher stage. Knowing this, Nityānanda-svarūpa broke the staff and threw it away.
+***The staff.*** At Kāṭoyā Śrī Gaurasundara accepted *ekadaṇḍa-sannyāsa* in the Bhāratī *sampradāya*, which descends from Śaṅkara. Śrī Nityānanda Prabhu broke that *sannyāsa* staff into three pieces and threw it into the Bhārgī River (the present “Daṇḍabhāṅgā”). In the order of *sannyāsa*, the staff is to be kept in the stages of *kuṭīcaka* and *bahūdaka*, but in the stages of *haṁsa* and *paramahaṁsa* one is enjoined to give it up. Gaurahari is the Lord of the fourteen worlds, and, unlike other *sannyāsīs*, He has no need to display a lower stage (*adhikāra*). Knowing this, Nityānanda-svarūpa broke the staff and threw it away.
 
 ## 144
 
