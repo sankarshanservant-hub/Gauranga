@@ -1067,6 +1067,1082 @@ Malaya sandalwood  smear  then  it  will cool
 
 (106) Gopāla said, “Purī, My heat does not go away. Anoint Me with sandal paste from the Malaya hills, and then it will cool.[^35]
 
+মলয়জ আন, যাঞা নীলাচল হৈতে ৷  
+অন্যে হৈতে নহে, তুমি চলহ ত্বরিতে ॥ ১০৭ ॥
+
+malayaja āna, yāñā nīlācala haite  
+Malaya sandal  bring  going  Nīlācala  from  
+anye haite nahe, tumi calaha tvarite  
+by others  be done  it is not  you  go  quickly
+
+(107) Go and bring the Malaya sandal from Nīlācala. No one else can do this — set out quickly!”
+
+স্বপ্ন দেখি’ পুরী-গোসাঞির হৈল প্রেমাবেশ ৷  
+প্রভু-আজ্ঞা পালিবারে গেলা পূর্ব্বদেশ ॥ ১০৮ ॥
+
+svapna dekhi’ purī-gosāñira haila premāveśa  
+the dream  seeing  Purī Gosāñi’s  there was  absorption in love  
+prabhu-ājñā pālibāre gelā pūrva-deśa  
+the Lord’s order  to carry out  he went  to the eastern land
+
+(108) Seeing this dream, Purī Gosāñi was overwhelmed with love, and to carry out the Lord’s order he set out for the eastern land.
+
+সেবায় নিযুক্ত লোক করিল স্থাপন ৷  
+আজ্ঞা মাগি’ গৌড়-দেশে করিল গমন ॥ ১০৯ ॥
+
+sevāya niyukta loka karila sthāpana  
+in the service  engaged  people  he did  appointing  
+ājñā māgi’ gauḍa-deśe karila gamana  
+leave  begging  to the land of Gauḍa  he made  going
+
+(109) He appointed people to carry on the service and, begging leave of the Deity, set out for the land of Gauḍa.
+
+শান্তিপুর আইলা অদ্বৈতাচার্য্যের ঘরে ৷  
+পুরীর প্রেম দেখি’ আচার্য্য আনন্দ অন্তরে ॥ ১১০ ॥
+
+śāntipura āilā advaitācāryera ghare  
+to Śāntipura  he came  Advaitācārya’s  to the house  
+purīra prema dekhi’ ācārya ānanda antare  
+Purī’s  love  seeing  the Ācārya  bliss  within
+
+(110) He came to Śāntipura, to the house of Advaitācārya. Seeing Purī’s love, the Ācārya felt bliss within.
+
+তাঁরি ঠাঞি মন্ত্র লৈল যত্ন করিয়া ৷  
+চলিলা দক্ষিণে পুরী তাঁরে দীক্ষা দিঞা ॥ ১১১ ॥
+
+tām̐ri ṭhāñi mantra laila yatna kariyā  
+from him indeed  the mantra  he took  care  taking  
+calilā dakṣiṇe purī tām̐re dīkṣā diñā  
+went on  southward  Purī  to him  initiation  having given
+
+(111) The Ācārya eagerly received the mantra from him, and Purī, having initiated Him, went on to the south.[^36]
+
+রেমুণাতে কৈল গোপীনাথ দরশন ৷  
+তাঁর রূপ দেখিঞা হৈল বিহ্বল-মন ॥ ১১২ ॥
+
+remuṇāte kaila gopīnātha daraśana  
+in Remuṇā  he had  of Gopīnātha  darśana  
+tām̐ra rūpa dekhiñā haila vihvala-mana  
+His  form  seeing  became  overwhelmed  at heart
+
+(112) In Remuṇā he had darśana of Gopīnātha, and the sight of His beauty overwhelmed his heart.
+
+নৃত্যগীত করি’ জগমোহনে বসিলা ৷  
+ক্যা ক্যা ভোগ লাগে — ব্রাহ্মণে পুছিলা ॥ ১১৩ ॥
+
+nṛtya-gīta kari’ jaga-mohane vasilā  
+dancing and singing  having done  in the jagamohana  he sat  
+kyā kyā bhoga lāge — brāhmaṇe puchilā  
+what  what  offerings  are made  of the brāhmaṇa  he asked
+
+(113) After dancing and singing he sat down in the *jagamohana* and asked the brāhmaṇa, “What offerings are made to the Deity?”
+
+সেবার সৌষ্ঠব দেখি’ আনন্দিত মনে ৷  
+উত্তম ভোগ লাগে, — ইহা কৈল অনুমানে ॥ ১১৪ ॥
+
+sevāra sauṣṭhava dekhi’ ānandita mane  
+of the service  the excellence  seeing  joyful  at heart  
+uttama bhoga lāge, — ihā kaila anumāne  
+excellent  offerings  are made  this  he made  by inference
+
+(114) Seeing the excellence of the service, he was joyful at heart and concluded that the finest offerings must be made here.
+
+যেমন ইহা ভোগ লাগে, সকল শুনিব ৷  
+তেমন অনুমানে ভোগ গোপালকে লাগাইব ॥ ১১৫ ॥
+
+yemana ihā bhoga lāge, sakala śuniba  
+as  here  offerings  are made  all  I shall hear  
+temana anumāne bhoga gopālake lāgāiba  
+likewise  on that model  offerings  to Gopāla  I shall offer
+
+(115) “I shall hear all about the offerings made here, and on that model I shall make the same offerings to Gopāla.”
+
+এই লাগি’ পুছিলেন ব্রাহ্মণের স্থানে ৷  
+ব্রাহ্মণ কহিল সব ভোগ-বিবরণে ॥ ১১৬ ॥
+
+ei lāgi’ puchilena brāhmaṇera sthāne  
+for this  he asked  of the brāhmaṇa  in the presence  
+brāhmaṇa kahila saba bhoga-vivaraṇe  
+the brāhmaṇa  told  all  of the offerings  in description
+
+(116) For this reason he questioned the brāhmaṇa, and the brāhmaṇa described all the offerings in detail.
+
+সন্ধ্যায় ভোগ লাগে ক্ষীর — ‘অমৃতকেলি’-নাম ৷  
+দ্বাদশ মৃৎপাত্রে ভরি’ অমৃত-সমান ॥ ১১৭ ॥
+
+sandhyāya bhoga lāge kṣīra — ‘amṛta-keli’-nāma  
+in the evening  as an offering  is offered  sweet rice  “Amṛta-keli”  by name  
+dvādaśa mṛt-pātre bhari’ amṛta-samāna  
+twelve  in earthen pots  filling  equal to nectar
+
+(117) “In the evening sweet rice called ‘Amṛta-keli’ is offered. It fills twelve earthen pots and is just like nectar.
+
+‘গোপীনাথের ক্ষীর’ বলি’ প্রসিদ্ধ নাম যার ৷  
+পৃথিবীতে ঐছে ভোগ কাঁহা নাহি আর ॥ ১১৮ ॥
+
+‘gopīnāthera kṣīra’ bali’ prasiddha nāma yāra  
+“Gopīnātha’s  kṣīra”  as  famous  name  whose  
+pṛthivīte aiche bhoga kām̐hā nāhi āra  
+in the world  such  an offering  anywhere  there is not  other
+
+(118) It is famous as ‘Gopīnātha’s kṣīra’, and nowhere else in the world is there such an offering.”
+
+হেনকালে সেই ভোগ ঠাকুরে লাগিল ৷  
+শুনি’ পুরী-গোসাঞি কিছু মনে বিচারিল ॥ ১১৯ ॥
+
+hena-kāle sei bhoga ṭhākure lāgila  
+at that time  that  offering  to the Deity  was offered  
+śuni’ purī-gosāñi kichu mane vicārila  
+hearing  Purī Gosāñi  something  in his mind  considered
+
+(119) Just then that very offering was set before the Deity. Hearing of it, Purī Gosāñi thought to himself:
+
+অযাচিত ক্ষীর-প্রসাদ অল্প যদি পাই ৷  
+স্বাদ জানি’ তৈছে ক্ষীর গোপালে লাগাই ॥ ১২০ ॥
+
+ayācita kṣīra-prasāda alpa yadi pāi  
+unasked  sweet-rice prasāda  a little  if  I get  
+svāda jāni’ taiche kṣīra gopāle lāgāi  
+the taste  knowing  likewise  sweet rice  to Gopāla  I could offer
+
+(120) “If, without my asking, I could get a little of this sweet-rice prasāda, I would know its taste and could offer the same to Gopāla.”
+
+এই ইচ্ছায় লজ্জা পাঞা বিষ্ণুস্মরণ কৈল ৷  
+হেনকালে ভোগ সরি’ আরতি বাজিল ॥ ১২১ ॥
+
+ei icchāya lajjā pāñā viṣṇu-smaraṇa kaila  
+at this  desire  shame  feeling  remembrance of Viṣṇu  he made  
+hena-kāle bhoga sari’ ārati bājila  
+at that time  the offering  being over  the ārati  sounded
+
+(121) Ashamed of this desire, he remembered Viṣṇu. Meanwhile the offering came to an end, and the music of the ārati began.[^37]
+
+আরতি দেখিয়া পুরী কৈল নমস্কার ৷  
+বাহির হৈলা, কারে কিছু না কহিল আর ॥ ১২২ ॥
+
+ārati dekhiyā purī kaila namaskāra  
+the ārati  seeing  Purī  made  obeisance  
+bāhira hailā, kāre kichu nā kahila āra  
+went out  to anyone  anything  not  said  more
+
+(122) Purī watched the ārati, offered his obeisance and went out, without saying anything more to anyone.
+
+অযাচিত-বৃত্তি-পুরী — বিরক্ত, উদাস ৷  
+অযাচিত পাইলে খা’ন, নহে উপবাস ॥ ১২৩ ॥
+
+ayācita-vṛtti-purī — virakta, udāsa  
+living on what comes unasked  Purī  detached  indifferent  
+ayācita pāile khā’na, nahe upavāsa  
+unasked  if he gets  he eats  otherwise  fasting
+
+(123) Purī lived on what came unasked; he was detached and indifferent to the world. If something came unasked he ate; otherwise he fasted.[^38]
+
+প্রেমামৃতে তৃপ্তি, নাহি ক্ষুধা-তৃষ্ণা বাধে ৷  
+ক্ষীর-ইচ্ছা হৈল, তাহে মানে অপরাধে ॥ ১২৪ ॥
+
+premāmṛte tṛpti, nāhi kṣudhā-tṛṣṇā bādhe  
+in the nectar of love  satisfaction  not  hunger and thirst  trouble  
+kṣīra-icchā haila, tāhe māne aparādhe  
+the desire for sweet rice  arose  that  he considers  an offence
+
+(124) He was satisfied by the nectar of love, and hunger and thirst did not trouble him. He counted it an offence that a desire for sweet rice had arisen in him.
+
+গ্রামের শূন্যহট্টে বসি’ করেন কীর্ত্তন ৷  
+এথা পূজারী করাইল ঠাকুরের শয়ন ॥ ১২৫ ॥
+
+grāmera śūnya-haṭṭe vasi’ karena kīrtana  
+of the village  in the empty market  sitting  he does  kīrtana  
+ethā pūjārī karāila ṭhākurera śayana  
+here  the pūjārī  arranged  the Deity’s  lying down
+
+(125) He sat in the deserted marketplace of the village and sang kīrtana. Meanwhile the pūjārī laid the Deity to rest.[^39]
+
+নিজ কৃত্য করি’ পূজারী করিল শয়ন ৷  
+স্বপ্নকালে ঠাকুর আসি’ বলিলা বচন ॥ ১২৬ ॥
+
+nija kṛtya kari’ pūjārī karila śayana  
+his own  duties  having done  the pūjārī  did  lying down  
+svapna-kāle ṭhākura āsi’ balilā vacana  
+in a dream  the Deity  coming  spoke  words
+
+(126) When he had finished his own duties, the pūjārī lay down to sleep, and in a dream the Deity came and spoke to him:
+
+উঠহ, পূজারী, কর দ্বার বিমোচন ৷  
+ক্ষীর এক রাখিয়াছি সন্ন্যাসি-কারণ ॥ ১২৭ ॥
+
+uṭhaha, pūjārī, kara dvāra vimocana  
+get up  pūjārī  do  of the door  opening  
+kṣīra eka rākhiyāchi sannyāsi-kāraṇa  
+sweet rice  one (pot)  I have kept  a sannyāsī  for the sake of
+
+(127) “Get up, pūjārī, and open the door! I have kept back one pot of sweet rice for a sannyāsī.
+
+ধড়ার অঞ্চলে ঢাকা ক্ষীর এক হয় ৷  
+তোমরা না জানিলা তাহা আমার মায়ায় ॥ ১২৮ ॥
+
+dhaḍāra añcale ḍhākā kṣīra eka haya  
+of My cloth  by the edge  covered  sweet rice  one  there is  
+tomarā nā jānilā tāhā āmāra māyāya  
+you  not  knew  of it  by My  māyā
+
+(128) One pot of sweet rice is there, covered by the edge of My cloth; by My own *māyā* none of you noticed it.
+
+মাধব-পুরী সন্ন্যাসী আছে হাটেতে বসিঞা ৷  
+তাহাকে ত’ এই ক্ষীর শীঘ্র দেহ লঞা ॥ ১২৯ ॥
+
+mādhava-purī sannyāsī āche hāṭete vasiñā  
+Mādhava Purī  a sannyāsī  is  in the market  sitting  
+tāhāke ta’ ei kṣīra śīghra deha lañā  
+to him  indeed  this  sweet rice  quickly  give  taking
+
+(129) A sannyāsī named Mādhava Purī is sitting in the marketplace. Take this sweet rice to him at once.”
+
+স্বপ্ন দেখি’ পূজারী উঠি’ করিলা বিচার ৷  
+স্নান করি’ কপাট খুলি’ মুক্ত কৈল দ্বার ॥ ১৩০ ॥
+
+svapna dekhi’ pūjārī uṭhi’ karilā vicāra  
+the dream  seeing  the pūjārī  rising  did  reflecting  
+snāna kari’ kapāṭa khuli’ mukta kaila dvāra  
+bath  taking  the door-panels  unbolting  open  made  the door
+
+(130) After this dream the pūjārī got up and pondered it. Then he bathed, unbolted the doors and opened the temple.
+
+ধড়ার আঁচল-তলে পাইল সেই ক্ষীর ৷  
+স্থান লেপি’ ক্ষীর লঞা হইল বাহির ॥ ১৩১ ॥
+
+dhaḍāra ām̐cala-tale pāila sei kṣīra  
+of the cloth  beneath the edge  he found  that  sweet rice  
+sthāna lepi’ kṣīra lañā haila bāhira  
+the place  cleansing  the sweet rice  taking  he came  out
+
+(131) Beneath the edge of the Deity’s cloth he found the sweet rice. He cleansed the spot, took the pot and came out.
+
+দ্বার দিয়া গ্রামে গেলা সেই ক্ষীর লঞা ৷  
+হাটে-হাটে বুলে মাধব পুরীকে চাহিঞা ॥ ১৩২ ॥
+
+dvāra diyā grāme gelā sei kṣīra lañā  
+the door  closing  to the village  he went  that  sweet rice  taking  
+hāṭe-hāṭe bule mādhava purīke cāhiñā  
+from market to market  he wanders  Mādhava Purī  seeking
+
+(132) Closing the door, he went into the village with the sweet rice and wandered from market to market, looking for Mādhava Purī.
+
+ক্ষীর লহ এই, যার নাম ‘মাধবপুরী’ ৷  
+তোমা লাগি’ গোপীনাথ ক্ষীর কৈল চুরি ॥ ১৩৩ ॥
+
+kṣīra laha ei, yāra nāma ‘mādhava-purī’  
+the sweet rice  take  this  whose  name  “Mādhava Purī”  
+tomā lāgi’ gopīnātha kṣīra kaila curi  
+for you  Gopīnātha  the sweet rice  did  theft
+
+(133) “You whose name is Mādhava Purī, take this sweet rice! Gopīnātha has stolen it for you.
+
+ক্ষীর লঞা সুখে তুমি করহ ভক্ষণে ৷  
+তোমা-সম-ভাগ্যবান্ নাহি ত্রিভুবনে ॥ ১৩৪ ॥
+
+kṣīra lañā sukhe tumi karaha bhakṣaṇe  
+the sweet rice  taking  happily  you  do  eating  
+tomā-sama-bhāgyavān nāhi tribhuvane  
+equal to you  fortunate  there is not  in the three worlds
+
+(134) Take it and eat it happily. In the three worlds there is no one as fortunate as you!”
+
+এত শুনি’ পুরী-গোসাঞি পরিচয় দিল ৷  
+ক্ষীর দিয়া পূজারী তাঁরে দণ্ডবৎ হৈল ॥ ১৩৫ ॥
+
+eta śuni’ purī-gosāñi paricaya dila  
+this  hearing  Purī Gosāñi  his identity  gave  
+kṣīra diyā pūjārī tām̐re daṇḍavat haila  
+the sweet rice  giving  the pūjārī  to him  prostrate  became
+
+(135) Hearing this, Purī Gosāñi made himself known. The pūjārī gave him the sweet rice and fell flat before him like a rod.
+
+ক্ষীরের বৃত্তান্ত তাঁরে কহিল পূজারী ৷  
+শুনি’ প্রেমাবিষ্ট হৈলা শ্রীমাধবপুরী ॥ ১৩৬ ॥
+
+kṣīrera vṛttānta tām̐re kahila pūjārī  
+of the sweet rice  the story  to him  told  the pūjārī  
+śuni’ premāviṣṭa hailā śrī-mādhava-purī  
+hearing  absorbed in love  became  Śrī Mādhava Purī
+
+(136) The pūjārī told him the story of the sweet rice, and as he listened, Śrī Mādhava Purī was overcome with love.
+
+প্রেম দেখি’ সেবক কহে হইয়া বিস্মিত ৷  
+কৃষ্ণ যে ইঁহার বশ, — হয় যথোচিত ॥ ১৩৭ ॥
+
+prema dekhi’ sevaka kahe haiyā vismita  
+the love  seeing  the servant  says  becoming  astonished  
+kṛṣṇa ye im̐hāra vaśa, — haya yathocita  
+Kṛṣṇa  that  his  under the sway  it is  fitting
+
+(137) Seeing his love, the servant said in amazement, “No wonder Kṛṣṇa is under his sway!”
+
+এত বলি’ নমস্করি’ করিলা গমন ৷  
+আবেশে করিলা পুরী সে ক্ষীর ভক্ষণ ॥ ১৩৮ ॥
+
+eta bali’ namaskari’ karilā gamana  
+thus  saying  bowing  he went away  
+āveśe karilā purī se kṣīra bhakṣaṇa  
+in ecstasy  did  Purī  that  sweet rice  eating
+
+(138) With these words he bowed and went away, and Purī ate the sweet rice in ecstasy.[^40]
+
+পাত্র প্রক্ষালন করি’ খণ্ড খণ্ড কৈল ৷  
+বহির্ব্বাসে বান্ধি’ সেই ঠিকারি রাখিল ॥ ১৩৯ ॥
+
+pātra prakṣālana kari’ khaṇḍa khaṇḍa kaila  
+the pot  washing  having done  pieces  pieces  he made  
+bahir-vāse bāndhi’ sei ṭhikāri rākhila  
+in his outer cloth  tying  those  shards  he kept
+
+(139) He washed the pot, broke it into pieces and kept the shards tied in his outer cloth.
+
+প্রতিদিন একখানি করেন ভক্ষণ ৷  
+খাইলে প্রেমাবেশ হয়, — অদ্ভুত-কথন ॥ ১৪০ ॥
+
+prati-dina eka-khāni karena bhakṣaṇa  
+every day  one piece  he does  eating  
+khāile premāveśa haya, — adbhuta-kathana  
+on eating  absorption in love  arises  a wonderful  tale
+
+(140) Every day he ate one piece, and each time he ate it he was overwhelmed with love — a wonderful tale!
+
+‘ঠাকুর আমাকে ক্ষীর দিল’ — লোক সব শুনি’ ৷  
+দিনে লোক ভিড় হবে মোর প্রতিষ্ঠা জানি ॥ ১৪১ ॥
+
+‘ṭhākura āmāke kṣīra dila’ — loka saba śuni’  
+“the Deity  to me  sweet rice  gave”  the people  all  hearing  
+dine loka bhiḍa habe mora pratiṣṭhā jāni  
+by day  of people  a crowd  there will be  my  fame  knowing
+
+(141) “When all the people hear that the Deity gave me sweet rice, they will know of my fame, and by day crowds will gather.”[^41]
+
+সেই ভয়ে রাত্রি-শেষে চলিলা শ্রীপুরী ৷  
+সেইখানে গোপীনাথে দণ্ডবৎ করি’ ॥ ১৪২ ॥
+
+sei bhaye rātri-śeṣe calilā śrī-purī  
+of that  in fear  at the end of the night  set out  Śrī Purī  
+sei-khāne gopīnāthe daṇḍavat kari’  
+in that very place  to Gopīnātha  obeisance  making
+
+(142) Fearing this, Śrī Purī bowed down to Gopīnātha right there and set out at the end of the night.
+
+চলি’ চলি’ আইলা পুরী শ্রীনীলাচল ৷  
+জগন্নাথ দেখি’ হৈলা প্রেমেতে বিহ্বল ॥ ১৪৩ ॥
+
+cali’ cali’ āilā purī śrī-nīlācala  
+going  going  came  Purī  to Śrī Nīlācala  
+jagannātha dekhi’ hailā premete vihvala  
+Jagannātha  seeing  became  with love  overwhelmed
+
+(143) Walking on and on, Purī came to Śrī Nīlācala, and when he saw Jagannātha he was overwhelmed with love.
+
+প্রেমাবেশে উঠে, পড়ে, হাসে, নাচে, গায় ৷  
+জগন্নাথ-দরশনে মহাসুখ পায় ॥ ১৪৪ ॥
+
+premāveśe uṭhe, paḍe, hāse, nāce, gāya  
+in the ecstasy of love  he rises  falls  laughs  dances  sings  
+jagannātha-daraśane mahā-sukha pāya  
+in the sight of Jagannātha  great  joy  he finds
+
+(144) In the ecstasy of love he would rise and fall, laugh, dance and sing. The sight of Jagannātha filled him with great joy.
+
+‘মাধবপুরী শ্রীপাদ আইল’, — লোকে হৈল খ্যাতি ৷  
+সব লোক আসি’ তাঁরে করে বহু ভক্তি ॥ ১৪৫ ॥
+
+‘mādhava-purī śrīpāda āila’, — loke haila khyāti  
+“Mādhava Purī  Śrīpāda  has come”  among the people  there was  report  
+saba loka āsi’ tām̐re kare bahu bhakti  
+all  the people  coming  to him  show  much  devotion
+
+(145) The news spread among the people: “Mādhava Purī Śrīpāda has come!” Everyone came and showed him great devotion.[^42]
+
+প্রতিষ্ঠার স্বভাব এই জগতে বিদিত ৷  
+যে না বাঞ্ছে, তার হয় বিধাতা-নির্ম্মিত ॥ ১৪৬ ॥
+
+pratiṣṭhāra svabhāva ei jagate vidita  
+of fame  the nature  this  in the world  known  
+ye nā vāñche, tāra haya vidhātā-nirmita  
+who  not  desires  to him  it comes  by Providence  ordained
+
+(146) This is the nature of fame, as all the world knows: Providence brings it to the one who does not desire it.[^43]
+
+প্রতিষ্ঠার ভয়ে পুরী রহে পলাঞা ৷  
+কৃষ্ণ-প্রেমে প্রতিষ্ঠা চলে সঙ্গে গড়াঞা ॥ ১৪৭ ॥
+
+pratiṣṭhāra bhaye purī rahe palāñā  
+of fame  in fear  Purī  keeps  fleeing  
+kṛṣṇa-preme pratiṣṭhā cale saṅge gaḍāñā  
+with love for Kṛṣṇa  fame  goes  along  rolling
+
+(147) For fear of fame Purī kept running away, yet together with his love for Kṛṣṇa, fame came rolling after him.
+
+যদ্যপি উদ্বেগ হইল পলাইতে মন ৷  
+ঠাকুরের চন্দন-সাধন হইল বন্ধন ॥ ১৪৮ ॥
+
+yadyapi udvega haila palāite mana  
+although  uneasiness  arose  to flee  the mind  
+ṭhākurera candana-sādhana haila bandhana  
+the Deity’s  sandalwood  procuring  became  a bond
+
+(148) Though he grew uneasy and wished to flee, the task of procuring sandalwood for the Deity held him bound.[^44]
+
+জগন্নাথের সেবক যত, যতেক মহান্ত ৷  
+সবাকে কহিল সব গোপাল বৃত্তান্ত ॥ ১৪৯ ॥
+
+jagannāthera sevaka yata, yateka mahānta  
+Jagannātha’s  servants  as many as  all the  great souls  
+sabāke kahila saba gopāla vṛttānta  
+to all  he told  the whole  of Gopāla  story
+
+(149) To all the servants of Jagannātha and all the great devotees he told the whole story of Gopāla.
+
+গোপাল চন্দন মাগে, — শুনি’ ভক্তগণ ৷  
+আনন্দে চন্দন লাগি’ করিল যতন ॥ ১৫০ ॥
+
+gopāla candana māge, — śuni’ bhakta-gaṇa  
+Gopāla  sandalwood  asks for  hearing  the devotees  
+ānande candana lāgi’ karila yatana  
+joyfully  sandalwood  for  made  effort
+
+(150) When the devotees heard that Gopāla was asking for sandalwood, they joyfully set about obtaining it.
+
+রাজপাত্র-সনে যার যার পরিচয় ৷  
+তারে মাগি কর্পূর-চন্দন করিলা সঞ্চয় ॥ ১৫১ ॥
+
+rāja-pātra-sane yāra yāra paricaya  
+with the king’s officers  whose  whose  acquaintance  
+tāre māgi karpūra-candana karilā sañcaya  
+from them  begging  camphor and sandalwood  made  collection
+
+(151) Those who knew the king’s officers begged from them, and so the camphor and sandalwood were gathered.[^45]
+
+এক বিপ্র, এক সেবক, চন্দন বহিতে ৷  
+পুরী-গোসাঞির সঙ্গে দিল সম্বল-সহিতে ॥ ১৫২ ॥
+
+eka vipra, eka sevaka, candana vahite  
+one  brāhmaṇa  one  servant  the sandalwood  to carry  
+purī-gosāñira saṅge dila sambala-sahite  
+of Purī Gosāñi  in the company  they gave  provisions  together with
+
+(152) To carry the sandalwood they sent a brāhmaṇa and a servant with Purī Gosāñi, and gave money for the journey as well.
+
+ঘাটী-দানী ছাড়াইতে রাজপাত্র-দ্বারে ৷  
+রাজলেখা করি’ দিল পুরী-গোসাঞির করে ॥ ১৫৩ ॥
+
+ghāṭī-dānī chāḍāite rāja-pātra-dvāre  
+from the toll-collectors at the posts and the ferrymen  to free (him)  of the king’s officers  through  
+rāja-lekhā kari’ dila purī-gosāñira kare  
+a royal letter  making  they gave  of Purī Gosāñi  into the hand
+
+(153) So that the toll-collectors and the ferrymen would let him pass, they had the king’s officers write a royal letter and placed it in Purī Gosāñi’s hand.[^46]
+
+চলিল মাধবপুরী চন্দন লঞা ৷  
+কতদিনে রেমুণাতে উত্তরিল গিয়া ॥ ১৫৪ ॥
+
+calila mādhava-purī candana lañā  
+set out  Mādhava Purī  the sandalwood  taking  
+kata-dine remuṇāte uttarila giyā  
+in some days  at Remuṇā  arrived  going
+
+(154) Mādhava Purī set out with the sandalwood, and after some days he reached Remuṇā.
+
+গোপীনাথ-চরণে কৈল বহু নমস্কার ৷  
+প্রেমাবেশে নৃত্য-গীত করিলা অপার ॥ ১৫৫ ॥
+
+gopīnātha-caraṇe kaila bahu namaskāra  
+at Gopīnātha’s feet  he made  many  obeisances  
+premāveśe nṛtya-gīta karilā apāra  
+in the ecstasy of love  dancing and singing  he did  boundless
+
+(155) At the feet of Gopīnātha he bowed down again and again, and in the ecstasy of love he danced and sang without end.
+
+পুরী দেখি’ সেবক সব সম্মান করিল ৷  
+ক্ষীরপ্রসাদ দিয়া তাঁরে ভিক্ষা করাইল ॥ ১৫৬ ॥
+
+purī dekhi’ sevaka saba sammāna karila  
+Purī  seeing  the servants  all  honour  showed  
+kṣīra-prasāda diyā tām̐re bhikṣā karāila  
+sweet-rice prasāda  giving  him  a meal  they made (him) take
+
+(156) Seeing Purī, all the servants received him with honour and fed him with sweet-rice prasāda.
+
+সেই রাত্রে দেবালয়ে করিল শয়ন ৷  
+শেষরাত্রি হৈলে পুরী দেখিল স্বপন ॥ ১৫৭ ॥
+
+sei rātre devālaye karila śayana  
+that  night  in the temple  he did  lying down  
+śeṣa-rātri haile purī dekhila svapana  
+the end of the night  when it came  Purī  saw  a dream
+
+(157) That night he slept in the temple, and toward the end of the night Purī had a dream.
+
+গোপাল আসিয়া কহে, — শুনহ, মাধব ৷  
+কর্পূর-চন্দন আমি পাইলাম সব ॥ ১৫৮ ॥
+
+gopāla āsiyā kahe, — śunaha, mādhava  
+Gopāla  coming  says  listen  Mādhava  
+karpūra-candana āmi pāilāma saba  
+camphor and sandalwood  I  have received  all
+
+(158) Gopāla came and said, “Listen, Mādhava: I have received all the camphor and sandalwood.[^47]
+
+কর্পূর সহিত ঘষি, এসব চন্দন ৷  
+গোপীনাথের অঙ্গে সব করহ লেপন ॥ ১৫৯ ॥
+
+karpūra sahita ghaṣi, esaba candana  
+camphor  together with  grinding  all this  sandalwood  
+gopīnāthera aṅge saba karaha lepana  
+on Gopīnātha’s  body  all  do  smearing
+
+(159) Grind all this sandalwood together with the camphor and smear it all on the body of Gopīnātha.[^48]
+
+গোপীনাথ আমার সে একই অঙ্গ হয় ৷  
+ইঁহাকে চন্দন দিলে, আমার তাপ-ক্ষয় ॥ ১৬০ ॥
+
+gopīnātha āmāra se eka-i aṅga haya  
+Gopīnātha  and My  indeed  one and the same  body  is  
+im̐hāke candana dile, āmāra tāpa-kṣaya  
+to Him  sandalwood  if given  My  heat  will abate
+
+(160) Gopīnātha and I are one and the same body. If you give Him sandalwood, My heat will abate.
+
+দ্বিধা না ভাবিহ, না করিহ কিছু মনে ৷  
+বিশ্বাস করি’ চন্দন দেহ আমার বচনে ॥ ১৬১ ॥
+
+dvidhā nā bhāviha, nā kariha kichu mane  
+doubt  not  entertain  not  hold  anything  in your mind  
+viśvāsa kari’ candana deha āmāra vacane  
+faith  having  the sandalwood  give  at My  word
+
+(161) Do not hesitate or harbour any doubt. Trust My word and give Him the sandalwood.”
+
+এত বলি’ গোপাল গেল, গোসাঞি জাগিলা ৷  
+গোপীনাথের সেবকগণে ডাকিয়া আনিলা ॥ ১৬২ ॥
+
+eta bali’ gopāla gela, gosāñi jāgilā  
+thus  saying  Gopāla  went  Gosāñi  awoke  
+gopīnāthera sevaka-gaṇe ḍākiyā ānilā  
+Gopīnātha’s  servants  calling  he brought
+
+(162) With these words Gopāla went away, and Gosāñi awoke. He called the servants of Gopīnātha together and told them:
+
+প্রভুর আজ্ঞা হৈল, — এই কর্পূর-চন্দন ৷  
+গোপীনাথের অঙ্গে নিত্য করহ লেপন ॥ ১৬৩ ॥
+
+prabhura ājñā haila, — ei karpūra-candana  
+the Lord’s  order  has come  this  camphor and sandalwood  
+gopīnāthera aṅge nitya karaha lepana  
+on Gopīnātha’s  body  daily  do  smearing
+
+(163) “The Lord has given His order: smear this camphor and sandalwood on Gopīnātha’s body every day.
+
+ইঁহাকে চন্দন দিলে, গোপাল হইবে শীতল ৷  
+স্বতন্ত্র ঈশ্বর, — তাঁর আজ্ঞা সে প্রবল ॥ ১৬৪ ॥
+
+im̐hāke candana dile, gopāla haibe śītala  
+to Him  sandalwood  if given  Gopāla  will become  cool  
+svatantra īśvara, — tām̐ra ājñā se prabala  
+independent  the Lord  His  order  indeed  is mighty
+
+(164) If you give Him sandalwood, Gopāla will be cooled. The Lord is independent, and His order must prevail.”
+
+গ্রীষ্মকালে গোপীনাথ পরিবে চন্দন ৷  
+শুনি’ আনন্দিত হৈল সেবকের মন ॥ ১৬৫ ॥
+
+grīṣmakāle gopīnātha paribe candana  
+in the hot season  Gopīnātha  will wear  sandalwood  
+śuni’ ānandita haila sevakera mana  
+hearing  delighted  became  of the servants  the hearts
+
+(165) Hearing that Gopīnātha would wear sandalwood throughout the hot season, the servants were delighted at heart.
+
+পুরী কহে, — এই দুই ঘষিবে চন্দন ৷  
+আর জনা-দুই দেহ, দিব যে বেতন ॥ ১৬৬ ॥
+
+purī kahe, — ei dui ghaṣibe candana  
+Purī  says  these  two  will grind  the sandalwood  
+āra janā-dui deha, diba ye vetana  
+more  two persons  give  I shall give  the  wages
+
+(166) Purī said, “These two will grind the sandalwood. Give two more men as well, and I shall pay their wages.”
+
+এইমত চন্দন দেয় প্রত্যহ ঘষিয়া ৷  
+পরায় সেবক সব আনন্দ করিয়া ॥ ১৬৭ ॥
+
+ei mata candana deya pratyaha ghaṣiyā  
+in this  way  sandalwood  they give  daily  grinding  
+parāya sevaka saba ānanda kariyā  
+they put on  the servants  all  joy  feeling
+
+(167) In this way the sandalwood was ground and offered every day, and all the servants joyfully smeared it on the Deity.
+
+প্রত্যহ চন্দন পরায়, যাবৎ হৈল অন্ত ৷  
+তথায় রহিল পুরী তাবৎ পর্য্যন্ত ॥ ১৬৮ ॥
+
+pratyaha candana parāya, yāvat haila anta  
+daily  sandalwood  they put on  until  came  the end  
+tathāya rahila purī tāvat paryanta  
+there  stayed  Purī  that long  until
+
+(168) Every day they smeared sandalwood on the Deity until it was all used up, and all that time Purī stayed there.
+
+গ্রীষ্মকাল অন্তে পুনঃ নীলাচলে গেলা ৷  
+নীলাচলে চাতুর্ম্মাস্য আনন্দে রহিলা ॥ ১৬৯ ॥
+
+grīṣma-kāla ante punaḥ nīlācale gelā  
+of the hot season  at the end  again  to Nīlācala  he went  
+nīlācale cāturmāsya ānande rahilā  
+in Nīlācala  the Cāturmāsya  in joy  he stayed
+
+(169) At the end of the hot season he went back to Nīlācala and joyfully spent the Cāturmāsya there.
+
+শ্রীমুখে মাধবপুরীর অমৃত-চরিত ৷  
+ভক্তগণে শুনাঞা প্রভু করে আস্বাদিত ॥ ১৭০ ॥
+
+śrī mukhe mādhava-purīra amṛta-carita  
+with His holy  mouth  of Mādhava Purī  the nectarean  life  
+bhakta-gaṇe śunāñā prabhu kare āsvādita  
+to the devotees  telling  the Lord  relishes
+
+(170) With His own holy lips the Lord told the devotees the nectarean story of Mādhava Purī, and relished it Himself.[^49]
+
+প্রভু কহে, — নিত্যানন্দ, করহ বিচার ৷  
+পুরী-সম ভাগ্যবান্ জগতে নাহি আর ॥ ১৭১ ॥
+
+prabhu kahe, — nityānanda, karaha vicāra  
+the Lord  says  Nityānanda  do  consider  
+purī-sama bhāgyavān jagate nāhi āra  
+to Purī  equal  fortunate  in the world  there is not  another
+
+(171) The Lord said, “Consider, Nityānanda: there is no one in the world as fortunate as Purī.
+
+দুগ্ধদান-ছলে কৃষ্ণ যাঁরে দেখা দিল ৷  
+তিনবারে স্বপ্নে আসি’ যাঁরে আজ্ঞা কৈল ॥ ১৭২ ॥
+
+dugdha-dāna-chale kṛṣṇa yām̐re dekhā dila  
+of giving milk  on the pretext  Kṛṣṇa  to whom  showed Himself  
+tina-bāre svapne āsi’ yām̐re ājñā kaila  
+three times  in dreams  coming  to whom  order  He gave
+
+(172) On the pretext of bringing him milk, Kṛṣṇa showed Himself to him, and three times He came to him in dreams to give him His orders.
+
+যাঁর প্রেমে বশ হঞা প্রকট হৈলা ৷  
+সেবা অঙ্গীকার করি’ জগত তারিলা ॥ ১৭৩ ॥
+
+yām̐ra preme vaśa hañā prakaṭa hailā  
+whose  by love  under the sway  being  manifest  He became  
+sevā aṅgīkāra kari’ jagata tārilā  
+service  acceptance  making  the world  He delivered
+
+(173) Won over by his love, Kṛṣṇa appeared, and by accepting his service He delivered the world.
+
+যাঁর লাগি’ গোপীনাথ ক্ষীর কৈল চুরি ৷  
+অতএব নাম হৈল ‘ক্ষীরচোরা’ করি’ ॥ ১৭৪ ॥
+
+yām̐ra lāgi’ gopīnātha kṣīra kaila curi  
+for whom  Gopīnātha  sweet rice  did  theft  
+ataeva nāma haila ‘kṣīra-corā’ kari’  
+therefore  the name  became  “Kṣīra-corā”  as
+
+(174) For his sake Gopīnātha stole sweet rice, and so He came to be called Kṣīra-corā, “the thief of sweet rice”.
+
+কর্পূর-চন্দন যাঁর অঙ্গে চড়াইল ৷  
+আনন্দে পুরী-গোসাঞির প্রেম উথলিল ॥ ১৭৫ ॥
+
+karpūra-candana yām̐ra aṅge caḍāila  
+camphor and sandalwood  whose  on the body  were put  
+ānande purī-gosāñira prema uthalila  
+in joy  of Purī Gosāñi  the love  overflowed
+
+(175) When camphor and sandalwood were put on His body, Purī Gosāñi’s love overflowed with joy.
+
+ম্লেচ্ছদেশে কর্পূর-চন্দন আনিতে জঞ্জাল ৷  
+পুরী দুঃখ পাবে, ইহা জানিয়া গোপাল ॥ ১৭৬ ॥
+
+mleccha-deśe karpūra-candana ānite jañjāla  
+through the land of the mlecchas  camphor and sandalwood  to bring  trouble  
+purī duḥkha pābe, ihā jāniyā gopāla  
+Purī  suffering  will get  this  knowing  Gopāla
+
+(176) To bring camphor and sandalwood through the land of the *mlecchas* would be full of trouble, and Gopāla knew that Purī would suffer.[^50]
+
+মহা-দয়াময় প্রভু — ভকতবৎসল ৷  
+চন্দন পরি’ ভক্তশ্রম করিল সফল ॥ ১৭৭ ॥
+
+mahā-dayā-maya prabhu — bhakata-vatsala  
+supremely  merciful  the Lord  affectionate to His devotees  
+candana pari’ bhakta-śrama karila saphala  
+sandalwood  wearing  the devotee’s labour  made  fruitful
+
+(177) The Lord is supremely merciful and loving to His devotees: by wearing the sandalwood, He made His devotee’s labour bear fruit.
+
+পুরীর প্রেম-পরাকাষ্ঠা করহ বিচার ৷  
+অলৌকিক প্রেম চিত্তে লাগে চমৎকার ॥ ১৭৮ ॥
+
+purīra prema-parākāṣṭhā karaha vicāra  
+of Purī  of love  the utmost limit  do  consider  
+alaukika prema citte lāge camatkāra  
+unworldly  love  in the heart  strikes  wonder
+
+(178) Consider the utmost limit of Purī’s love! This love, not of this world, fills the heart with wonder.[^51]
+
+পরম-বিরক্ত, মৌনী, সর্ব্বত্র উদাসীন ৷  
+গ্রাম্যবার্ত্তা-ভয়ে দ্বিতীয়-সঙ্গ-হীন ॥ ১৭৯ ॥
+
+parama-virakta, maunī, sarvatra udāsīna  
+supremely detached  silent  everywhere  indifferent  
+grāmya-vārtā-bhaye dvitīya-saṅga-hīna  
+of worldly talk  in fear  of a second  company  without
+
+(179) He was supremely detached, silent and indifferent to everything, and for fear of worldly talk he kept no companion.[^52]
+
+হেন-জন গোপালের আজ্ঞামৃত পাঞা ৷  
+সহস্র ক্রোশ আসি’ বুলে চন্দন মাগিঞা ॥ ১৮০ ॥
+
+hena-jana gopālera ājñāmṛta pāñā  
+such a person  Gopāla’s  nectar of an order  receiving  
+sahasra krośa āsi’ bule candana māgiñā  
+a thousand  krośas  coming  he wanders  sandalwood  begging
+
+(180) Yet such a man, receiving Gopāla’s nectarean order, travelled a thousand *krośas* and went about begging for sandalwood.[^53]
+
+ভোকে রহে, তবু অন্ন মাগিঞা না খায় ৷  
+হেন-জন চন্দন-ভার বহি’ লঞা যায় ॥ ১৮১ ॥
+
+bhoke rahe, tabu anna māgiñā nā khāya  
+hungry  he remains  yet  food  begging  not  eats  
+hena-jana candana-bhāra vahi’ lañā yāya  
+such a person  of sandalwood  the load  carrying  taking  goes
+
+(181) He would rather stay hungry than beg for food to eat, and such a man went on his way carrying a load of sandalwood.
+
+মণেক চন্দন, তোলা-বিশেক কর্পূর ৷  
+গোপালে পরাইব — এই আনন্দ প্রচুর ॥ ১৮২ ॥
+
+maṇeka candana, tolā-viśeka karpūra  
+about a maund  of sandalwood  about twenty tolās  of camphor  
+gopāle parāiba — ei ānanda pracura  
+on Gopāla  I shall put  this  joy  abundant
+
+(182) He carried about a maund of sandalwood and some twenty *tolās* of camphor, and the thought “I shall put them on Gopāla!” filled him with joy.[^54]
+
+উৎকলের দানী রাখে চন্দন দেখিঞা ৷  
+তাঁহা এড়াইল রাজপত্র দেখাঞা ॥ ১৮৩ ॥
+
+utkalera dānī rākhe candana dekhiñā  
+of Utkala  the ferryman  detains  the sandalwood  seeing  
+tām̐hā eḍāila rāja-patra dekhāñā  
+there  he got free  the royal letter  showing
+
+(183) When a ferryman in Utkala saw the sandalwood, he held Purī back, but Purī got free by showing the royal letter.[^55]
+
+ম্লেচ্ছদেশে দূর পথ, জগাতি অপার ৷  
+কেমতে চন্দন নিব, নাহি এ বিচার ॥ ১৮৪ ॥
+
+mleccha-deśe dūra patha, jagāti apāra  
+in the land of the mlecchas  long  the road  road-watchmen  countless  
+ke-mate candana niba, nāhi e vicāra  
+in what way  the sandalwood  I shall take  there is not  this  consideration
+
+(184) In the land of the *mlecchas* the road was long and the watchmen on it were countless, yet he never stopped to think how he would get the sandalwood through.[^56]
+
+সঙ্গে এক বট নাহি ঘাটীদান দিতে ৷  
+তথাপি উৎসাহ বড়, চন্দন লঞা যাইতে ॥ ১৮৫ ॥
+
+saṅge eka vaṭa nāhi ghāṭī-dāna dite  
+with him  a single  cowrie  there is not  the toll at the posts  to pay  
+tathāpi utsāha baḍa, candana lañā yāite  
+still  enthusiasm  great  the sandalwood  taking  to go
+
+(185) He had not a single cowrie with him to pay the tolls, yet he was full of eagerness to carry the sandalwood on.
+
+প্রগাঢ়-প্রেমের এই স্বভাব-আচার ৷  
+নিজ-দুঃখ-বিঘ্নাদির না করে বিচার ॥ ১৮৬ ॥
+
+pragāḍha-premera ei svabhāva-ācāra  
+of deep love  this  natural conduct  
+nija-duḥkha-vighnādira nā kare vicāra  
+of one’s own suffering, obstacles and the like  not  does  consider
+
+(186) Such is the natural way of deep love: it takes no account of its own sufferings, obstacles and the like.[^57]
+
+এই তার গাঢ় প্রেমা লোকে দেখাইতে ৷  
+গোপাল তাঁরে আজ্ঞা দিল চন্দন আনিতে ॥ ১৮৭ ॥
+
+ei tāra gāḍha premā loke dekhāite  
+this  his  deep  love  to the people  to show  
+gopāla tām̐re ājñā dila candana ānite  
+Gopāla  to him  order  gave  sandalwood  to bring
+
+(187) It was to show the world this deep love of his that Gopāla ordered him to bring sandalwood.
+
+বহু পরিশ্রমে চন্দন রেমুণা আনিল ৷  
+আনন্দ বাড়িল মনে, দুঃখ না গণিল ॥ ১৮৮ ॥
+
+bahu pariśrame candana remuṇā ānila  
+with much  labour  the sandalwood  to Remuṇā  he brought  
+ānanda bāḍila mane, duḥkha nā gaṇila  
+joy  increased  in his heart  hardship  not  he counted
+
+(188) With great labour he brought the sandalwood to Remuṇā, yet the joy in his heart only grew, and he counted the hardship as nothing.
+
+পরীক্ষা করিতে গোপাল কৈল আজ্ঞা দান ৷  
+পরীক্ষা করিয়া শেষে হৈল দয়াবান্ ॥ ১৮৯ ॥
+
+parīkṣā karite gopāla kaila ājñā dāna  
+a test  to make  Gopāla  made  of an order  the giving  
+parīkṣā kariyā śeṣe haila dayāvān  
+the test  having made  at last  He became  merciful
+
+(189) Gopāla gave him this order to test him, and when He had tested him, at last He showed His mercy.[^58]
+
+এই ভক্তি, ভক্তপ্রিয়-কৃষ্ণ-ব্যবহার ৷  
+বুঝিতেও আমা-সবার নাহি অধিকার ॥ ১৯০ ॥
+
+ei bhakti, bhakta-priya-kṛṣṇa-vyavahāra  
+this  devotion  of Kṛṣṇa, who loves His devotees,  the dealings  
+bujhiteo āmā-sabāra nāhi adhikāra  
+even to understand  of all of us  there is not  the qualification
+
+(190) Such is this devotion, and such are the dealings of Kṛṣṇa, who loves His devotees; none of us is qualified even to understand them.”[^59]
+
+এত বলি’ পড়ে প্রভু তাঁর কৃত শ্লোক ৷  
+যেই শ্লোক-চন্দ্রে জগৎ করেছে আলোক ॥ ১৯১ ॥
+
+eta bali’ paḍe prabhu tām̐ra kṛta śloka  
+thus  saying  recites  the Lord  by him  composed  verse  
+yei śloka-candre jagat kareche āloka  
+by which  verse-moon  the world  has made  illumined
+
+(191) Saying this, the Lord recited the verse that Purī composed, a verse that like the moon has lit up the whole world.
+
+ঘষিতে ঘষিতে যৈছে মলয়জ-সার ৷  
+গন্ধ বাড়ে, তৈছে এই শ্লোকের বিচার ॥ ১৯২ ॥
+
+ghaṣite ghaṣite yaiche malayaja-sāra  
+as it is rubbed  as it is rubbed  just as  of Malaya sandal  the best  
+gandha bāḍe, taiche ei ślokera vicāra  
+fragrance  increases  so  of this  verse  the pondering
+
+(192) Just as the finest Malaya sandal grows more fragrant the more it is rubbed, so does this verse the more one ponders it.[^60]
+
+রত্নগণ-মধ্যে যৈছে কৌস্তুভমণি ৷  
+রসকাব্য-মধ্যে তৈছে এই শ্লোক গণি ॥ ১৯৩ ॥
+
+ratna-gaṇa-madhye yaiche kaustubhamaṇi  
+jewels  among  as  the Kaustubha gem  
+rasakāvya-madhye taiche ei śloka gaṇi  
+poetry of rasa  among  so  this  verse  I count
+
+(193) As the Kaustubha gem is among jewels, so I count this verse among all poetry of rasa.
+
+এই শ্লোক কহিয়াছেন রাধা-ঠাকুরাণী ৷  
+তাঁর কৃপায় স্ফুরিয়াছে মাধবেন্দ্র-বাণী ॥ ১৯৪ ॥
+
+ei śloka kahiyāchena rādhā-ṭhākurāṇī  
+this  verse  has spoken  Rādhā Ṭhākurāṇī  
+tām̐ra kṛpāya sphuriyāche mādhavendra-vāṇī  
+Her  by the mercy  has shone forth  Mādhavendra’s  speech
+
+(194) This verse was spoken by Śrī Rādhā Ṭhākurāṇī Herself; by Her mercy it shone forth as the words of Mādhavendra.
+
+কিবা গৌরচন্দ্র ইহা করে আস্বাদন ৷  
+ইহা আস্বাদিতে আর নাহি চৌঠজন ॥ ১৯৫ ॥
+
+kibā gauracandra ihā kare āsvādana  
+or else  Gauracandra  this  does  relishing  
+ihā āsvādite āra nāhi cauṭha-jana  
+this  to relish  other  there is not  a fourth person
+
+(195) Besides them, only Gauracandra relishes it; there is no fourth person who can taste it.[^61]
+
+শেষকালে এই শ্লোক পঠিতে পঠিতে ৷  
+সিদ্ধিপ্রাপ্তি হৈল পুরীর শ্লোকের সহিতে ॥ ১৯৬ ॥
+
+śeṣa-kāle ei śloka paṭhite paṭhite  
+at the end  this  verse  reciting  reciting  
+siddhi-prāpti haila purīra ślokera sahite  
+perfection  attainment  there was  Purī’s  the verse  together with
+
+(196) At the end of his life Purī recited this verse again and again, and with this verse he attained perfection.
+
+অয়ি দীনদয়ার্দ্দ্র নাথ হে  
+মথুরানাথ কদাবলোক্যসে ৷  
+হৃদয়ং ত্বদলোককাতরং  
+দয়িত ভ্রাম্যতি কিং করোম্যহম্ ॥ ১৯৭ ॥
+
+ayi dīna-dayārdra nātha he  
+O  melting with compassion for the wretched  Lord  O  
+mathurā-nātha kadāvalokyase  
+of Mathurā  Lord  when shall You be seen  
+hṛdayaṁ tvad-aloka-kātaraṁ  
+heart  at not seeing You  stricken  
+dayita bhrāmyati kiṁ karomy aham  
+O Beloved  wanders  what  do  I
+
+(197) “O Lord, melting with compassion for the wretched! O Lord of Mathurā, when shall I see You? My heart, stricken at not seeing You, has lost all rest. O Beloved, what am I to do?” (Padyāvalī, 400)[^62]
+
+এই শ্লোক পড়িতে প্রভু হইলা মূর্চ্ছিতে ৷  
+প্রেমেতে বিবশ হঞা পড়িল ভূমিতে ॥ ১৯৮ ॥
+
+ei śloka paḍite prabhu hailā mūrcchite  
+this  verse  reciting  the Lord  became  unconscious  
+premete vivaśa hañā paḍila bhūmite  
+by love  overpowered  being  He fell  to the ground
+
+(198) As He recited this verse, the Lord fainted. Overpowered by love, He fell to the ground.
+
+আস্তে-ব্যস্তে কোলে করি’ নিল নিত্যানন্দ ৷  
+ক্রন্দন করিয়া তবে উঠে গৌরচন্দ্র ॥ ১৯৯ ॥
+
+āste-vyaste kole kari’ nila nityānanda  
+in haste  on His lap  placing  took  Nityānanda  
+krandana kariyā tabe uṭhe gauracandra  
+weeping  doing  then  rises  Gauracandra
+
+(199) Nityānanda hastily took Him on His lap, and then Gauracandra rose, weeping.
+
+প্রেমোন্মাদ হৈল, উঠি’ ইতি-উতি ধায় ৷  
+হুঙ্কার করয়ে, হাসে, কান্দে, নাচে, গায় ॥ ২০০ ॥
+
+premonmāda haila, uṭhi’ iti-uti dhāya  
+madness of love  arose  rising  here and there  He runs  
+huṅkāra karaye, hāse, kānde, nāce, gāya  
+roaring  He does  laughs  weeps  dances  sings
+
+(200) The madness of love seized Him. Rising, He ran here and there, roaring, laughing, weeping, dancing and singing.
+
+‘অয়ি দীন’, ‘অয়ি দীন’, বলে বারবার ৷  
+কণ্ঠে না নিঃসরে বাণী, নেত্রে অশ্রুধার ॥ ২০১ ॥
+
+‘ayi dīna’, ‘ayi dīna’, bale bārabāra  
+“ayi dīna”  “ayi dīna”  He says  again and again  
+kaṇṭhe nā niḥsare vāṇī, netre aśru-dhāra  
+in the throat  not  come out  words  in the eyes  streams of tears
+
+(201) Again and again He said, “Ayi dīna, ayi dīna!” No other words would leave His throat, and tears streamed from His eyes.
+
+কম্প, স্বেদ, পুলকাশ্রু, স্তম্ভ, বৈবর্ণ্য ৷  
+নির্ব্বেদ, বিষাদ, জাড্য, গর্ব্ব, হর্ষ, দৈন্য ॥ ২০২ ॥
+
+kampa, sveda, pulakāśru, stambha, vaivarṇya  
+trembling  perspiration  hair standing on end and tears  stupor  pallor  
+nirveda, viṣāda, jādya, garva, harṣa, dainya  
+despondency  dejection  bewilderment  pride  joy  humility
+
+(202) Trembling and perspiration, hair standing on end and tears, stupor and pallor; despondency, dejection, bewilderment, pride, joy and humility — all these appeared in Him.[^63]
+
+এই শ্লোকে উঘাড়িলা প্রেমের কপাট ৷  
+গোপীনাথ-সেবক দেখে প্রভুর প্রেমনাট ॥ ২০৩ ॥
+
+ei śloke ughāḍilā premera kapāṭa  
+by this  verse  He threw open  of love  the doors  
+gopīnātha-sevaka dekhe prabhura prema-nāṭa  
+Gopīnātha’s  servants  see  the Lord’s  dance of love
+
+(203) With this verse the Lord threw open the doors of love, and the servants of Gopīnātha watched Him dance in the grip of love.
+
+লোকের সংঘট্ট দেখি’ প্রভুর বাহ্য হইল ৷  
+ঠাকুরের ভোগ সরি’ আরতি বাজিল ॥ ২০৪ ॥
+
+lokera saṅghaṭṭa dekhi’ prabhura bāhya haila  
+of people  the crowd  seeing  the Lord’s  outer awareness  returned  
+ṭhākurera bhoga sari’ ārati bājila  
+the Deity’s  offering  being over  the ārati  sounded
+
+(204) Seeing the crowd of people, the Lord came back to outward awareness. The Deity’s offering was over, and the music of the ārati began.
+
+ঠাকুরে শয়ন করাঞা পূজারী হৈল বাহির ৷  
+প্রভুর আগে আনি’ দিল প্রসাদ বার ক্ষীর ॥ ২০৫ ॥
+
+ṭhākure śayana karāñā pūjārī haila bāhira  
+the Deity  to rest  having laid  the pūjārī  came  out  
+prabhura āge āni’ dila prasāda bāra kṣīra  
+the Lord’s  before  bringing  gave  prasāda  twelve  pots of sweet rice
+
+(205) The pūjārī laid the Deity to rest and came out. He brought the prasāda, all twelve pots of sweet rice, and set them before the Lord.
+
+ক্ষীর দেখি’ মহাপ্রভুর আনন্দ বাড়িল ৷  
+ভক্তগণে খাওয়াইতে পঞ্চ ক্ষীর লৈল ॥ ২০৬ ॥
+
+kṣīra dekhi’ mahāprabhura ānanda bāḍila  
+the sweet rice  seeing  Mahāprabhu’s  joy  increased  
+bhakta-gaṇe khāoyāite pañca kṣīra laila  
+the devotees  to feed  five  pots  He took
+
+(206) At the sight of the sweet rice Mahāprabhu’s joy increased, and to feed His devotees He took five of the pots.
+
+সাত ক্ষীর পূজারীকে বাহড়িয়া দিল ৷  
+পঞ্চ ক্ষীর পঞ্চজনে বাঁটিয়া খাইল ॥ ২০৭ ॥
+
+sāta kṣīra pūjārīke bāhaḍiyā dila  
+seven  pots  to the pūjārī  coming forward and returning  He gave  
+pañca kṣīra pañca-jane vām̐ṭiyā khāila  
+five  pots  five persons  dividing  ate
+
+(207) The other seven pots He gave back to the pūjārī, and the five pots were shared among five and eaten.[^64]
+
+গোপীনাথ-রূপে যদি করিয়াছেন ভোজন ৷  
+ভক্তি দেখাইতে কৈল প্রসাদ ভক্ষণ ॥ ২০৮ ॥
+
+gopīnātha-rūpe yadi kariyāchena bhojana  
+in the form of Gopīnātha  although  He had done  eating  
+bhakti dekhāite kaila prasāda bhakṣaṇa  
+devotion  to show  He did  of prasāda  eating
+
+(208) In His form as Gopīnātha He had already eaten it, yet to show what devotion is, He ate the prasāda.[^65]
+
+নাম-সংকীর্ত্তনে সেই রাত্রি গোঙাইলা ৷  
+মঙ্গল-আরতি দেখি’ প্রভাতে চলিলা ॥ ২০৯ ॥
+
+nāma-saṁkīrtane sei rātri goṅāilā  
+in the saṅkīrtana of the Name  that  night  He passed  
+maṅgala-ārati dekhi’ prabhāte calilā  
+the maṅgala-ārati  seeing  in the morning  He set out
+
+(209) He passed that night in *nāma-saṅkīrtana*, and in the morning, after seeing the *maṅgala-ārati*, He set out.
+
+এই ত’ আখ্যানে কহিলা দোঁহার মহিমা ৷  
+প্রভুর ভক্তবাৎসল্য, আর ভক্তপ্রেম-সীমা ॥ ২১০ ॥
+
+ei ta’ ākhyāne kahilā dom̐hāra mahimā  
+this  indeed  in the narrative  He told  of both  the glory  
+prabhura bhakta-vātsalya, āra bhakta-prema-sīmā  
+the Lord’s  affection for His devotees  and  of the devotee’s  love  the limit
+
+(210) Thus in this narrative He told the glory of both: the Lord’s affection for His devotees, and the love of a devotee that has reached its utmost limit.[^66]
+
+ভক্ত-সঙ্গে শ্রীমুখে প্রভু কৈলা আস্বাদন ৷  
+গোপাল-গোপীনাথ-পুরীগোসাঞির গুণ ॥ ২১১ ॥
+
+bhakta-saṅge śrī-mukhe prabhu kailā āsvādana  
+with the devotees  with His holy mouth  the Lord  did  relishing  
+gopāla-gopīnātha-purī-gosāñira guṇa  
+of Gopāla, Gopīnātha and Purī Gosāñi  the qualities
+
+(211) With His devotees, and with His own holy lips, the Lord relished the glories of Gopāla, Gopīnātha and Purī Gosāñi.
+
+শ্রদ্ধাযুক্ত হঞা ইহা শুনে যেই জন ৷  
+শ্রীকৃষ্ণ-চরণে সেই পাই প্রেমধন ॥ ২১২ ॥
+
+śraddhā-yukta hañā ihā śune yei jana  
+with faith  endowed  being  this  hears  whatever  person  
+śrī-kṛṣṇa-caraṇe sei pāi prema-dhana  
+at Śrī Kṛṣṇa’s feet  he  attains  the treasure of love
+
+(212) Whoever hears this with faith attains the treasure of love at the feet of Śrī Kṛṣṇa.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২১৩ ॥
+
+śrī rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(213) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: “Obeisance to Mādhavendra Purī, the servant of ‘Kṣīra-corā Gopīnātha’”. *Anubhāṣya*: Gopīnātha — the famous Deity of the village of Remuṇā; Śrī Gopāla, the Holder of Govardhana — the Deity installed by Vajra; Mādhavendra Purī — the disciple of Lakṣmīpati, a guru of the Madhva sampradāya.
@@ -1138,3 +2214,65 @@ Malaya sandalwood  smear  then  it  will cool
 [^34]: Heading in the edition: “Purī shows mercy to two renounced brāhmaṇas and entrusts the service to them”.
 
 [^35]: *Anubhāṣya*: *malayaja* — born in the land of Malaya (Malabar, the southern part of the Western Ghats, also called Candana-giri, “the sandal mountain”); the word *malayaja* also means sandalwood itself. Heading in the edition: “In a dream Gopāla tells Purī that He wants sandal”.
+
+[^36]: *Anubhāṣya*: Advaita Prabhu received the initiation mantra from Śrī Mādhavendra Purī, the king of ascetics (*yatirāja*), a guru of the Madhva sampradāya.
+
+[^37]: Heading in the edition: “Taking this desire to be an urge of the tongue, Purī is ashamed”.
+
+[^38]: Heading in the edition: “Purī’s conduct”. *Anubhāṣya*: this is the natural (*sahaja*) state of a paramahaṁsa — he delighted in the name of Kṛṣṇa and was indifferent to everything material.
+
+[^39]: The Gauḍīya Maṭha edition reads *ṭhākurera śayana* (genitive; ed *ṭhākure śayana*); the sense is the same.
+
+[^40]: Heading in the edition: “Purī honours the sweet-rice prasāda, not to please his own senses”.
+
+[^41]: Heading in the edition: “Purī fears fame”; fear of fame is the theme of verses 141–148.
+
+[^42]: Heading in the edition: “The news of Purī’s arrival spreads everywhere”.
+
+[^43]: *Amṛta-pravāha-bhāṣya*: fame, ordained by the Creator (*vidhātā*), comes to the one who does good without desiring fame, and does not come to the one who seeks it — this is the secret of fame. *Anubhāṣya* (on 146–147): Vaiṣṇavas do not ask for worldly fame; Mādhavendra tried to hide the incident that showed how dear he was to Bhagavān, yet the highest fame rightly belongs to him.
+
+[^44]: *Anubhāṣya*: wishing to escape the grip of fame, Mādhavendra Purī looked for a way to flee, but the service of Gopāla — collecting the sandalwood — held him in Nīlācala.
+
+[^45]: *Amṛta-pravāha-bhāṣya* (on 151–152): the camphor is *śrī-karpūra*, used in the ārati of Śrī Jagannātha; the servants of Jagannātha obtained it, and the Malaya sandalwood, from the king’s officials.
+
+[^46]: *Amṛta-pravāha-bhāṣya*: *ghāṭī* are the *ghāṭwāls* who collect the road toll, *dānī* those who take the fee at river crossings (cf. 12); the royal letter (*rāja-lekhā*, a *parwāna*) let Purī Gosāñi pass without paying them.
+
+[^47]: Gopāla accepts what was brought as already offered to Him. The address is *mādhava*, as in 39.
+
+[^48]: *Anubhāṣya* (on 159–160): Gopāla did not wear the sandalwood Himself but had it put on Gopīnātha, who is non-different from Him: Vṛndāvana is far, the road passes through lands ruled by *mlecchas*, and Gopāla, who loves His devotees, lightened Purī’s labour (cf. 176–177).
+
+[^49]: The words *amṛta-carita* (“nectarean life”) and *āsvādita* (“relished”) are those of the chapter’s colophon (*carita-āsvādana*) and of verse 211.
+
+[^50]: *Amṛta-pravāha-bhāṣya* (on 176–177): beyond the kingdom of Utkala almost the whole country was under a *mleccha* king, whose spies took valuables from travellers, and camphor and sandalwood are rare in Gauḍa. Heading in the edition: “Why Gopīnātha, not Gopāla, wore the sandalwood”.
+
+[^51]: *Anubhāṣya*: separation from Kṛṣṇa (*vipralambha*) is the one sādhana of the jīva; Śrīpāda Mādhavendra’s matchless desire to please Kṛṣṇa is the model for everyone who longs to serve Kṛṣṇa, and Mahāprabhu and His intimate associates later showed the same.
+
+[^52]: *Anubhāṣya*: *grāmya-vārtā* — worldly talk, all that pleases one’s own senses and kindles worldly desire (cf. Śrīmad-Bhāgavatam, 11.25.25–29).
+
+[^53]: A *krośa* is about two miles. Heading in the edition: “The wonderful perseverance of Purī, who had not a penny, in carrying out the order of the One he served”.
+
+[^54]: A maund is about 37 kg, a *tolā* about 11.7 g.
+
+[^55]: *Dānī* — a ferryman, as in 12 and 153; *rākhe* — “detained” (*Anubhāṣya*); the royal letter is the one given to him in 153.
+
+[^56]: *Amṛta-pravāha-bhāṣya*: *jagāti* — the *jagāits*, who keep watch on the roads in the guise of guards.
+
+[^57]: Heading in the edition: “The mark of one who loves Kṛṣṇa”. *Anubhāṣya*: sufferings and obstacles do not stop those who love deeply; rather, it is amid them that their love is fully revealed (cf. Śrīmad-Bhāgavatam, 10.14.8; Śikṣāṣṭaka, 8).
+
+[^58]: Heading in the edition: “Kṛṣṇa tests His devotee, and the devotee passes the test”.
+
+[^59]: Heading in the edition: “The unworldly love (*rati*) of the devotee and Bhagavān for each other”.
+
+[^60]: *Malayaja* — sandal from the Malaya hills (see the note on 106).
+
+[^61]: *Amṛta-pravāha-bhāṣya*: only three have relished this verse — Rādhā Ṭhākurāṇī, Mādhavendra Purī and Mahāprabhu; no fourth was worthy to relish it.
+
+[^62]: The source, by the heading in the edition: “*tathāhi padyāvalīte catuḥśatāṅka-dhṛta mādhavendrapurī-vākya*” — “the words of Mādhavendra Purī, given in the *Padyāvalī* as number 400”. The verse is quoted again in Antya 8. It is Śrī Rādhā’s speech (194), hence the capitals, as in Madhya 1.58. *Anubhāṣya*: *ayi* is the tender address of the daughter of King Vṛṣabhānu to her Beloved; the wretched are the gopīs, tormented by separation; “Lord of Mathurā” is a reproach: forgetting the gopīs, You delight the women of Mathurā. *Amṛta-pravāha-bhāṣya*: with this verse Mādhavendra Purī sowed the seed of bhakti full of *śṛṅgāra-rasa* — worship in the mood of Śrīmatī Rādhikā’s separation from Kṛṣṇa, who has gone to Mathurā; hence the mahājanas call Mādhavendra Purī the root of the tree of *śṛṅgāra-rasa*, Īśvara Purī its sprout and Mahāprabhu its trunk.
+
+[^63]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): *jāḍya* is the loss of discernment caused by hearing and seeing what is desired and undesired, by separation and the like; it occurs both before and after swooning (*moha*).
+
+[^64]: Heading in the edition: “The Lord and four others, headed by Nitāi, honour the prasāda”.
+
+[^65]: *Anubhāṣya*: though Mahāprabhu, in the form of Śrī Gopīnātha, had already eaten this sweet rice, as the teacher of the world He honoured the mahā-prasāda to show what worship of Kṛṣṇa is.
+
+[^66]: *Kahilā* is the honorific third person: it is Mahāprabhu, who told the story in 170–190, not the author. Heading in the edition: “This narrative reveals the matchless love of the Lord and His devotee for each other, and the greatness of their qualities”.
