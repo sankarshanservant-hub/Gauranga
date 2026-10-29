@@ -81,3 +81,15 @@ O Hari! O friend of the helpless! O sole ocean of mercy! Without seeing You, how
 ## 61
 
 O Kṛṣṇa, player of the flute, the sweetness of Your childhood is the wonder of the three worlds. My restlessness is known to You and to Me alone, and to no one else. What am I to do now to see Your beautiful lotus face in private with these two eyes?
+
+## 64
+
+***Divyonmāda.*** A certain wondrous, special state of *prema* (*vaicitrya*), resembling bewilderment (*bhrama*), in the *bhāva* called *mohana* is called *divyonmāda*, divine madness.
+
+## 65
+
+O Deva! O Dayita! O sole Friend of the world! O Kṛṣṇa! O Capala! O ocean of mercy! O Nātha! O Ramaṇa! O delight of the eyes! Ah, when will You show Yourself to Me again?
+
+## 66
+
+***Solluṇṭha*** — censure in words of praise.

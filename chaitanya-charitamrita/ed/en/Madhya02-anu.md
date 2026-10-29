@@ -193,3 +193,62 @@ In front of Śrī Jagannātha's temple, at the far end of the *jagamohana*, stan
 ## 58
 
 **anātha-bandho** (O friend of the helpless — of the gopīs tormented by separation; O You who are such a friend)
+ **karuṇaika-sindho** (O sole ocean of mercy; the sense is: apart from Kṛṣṇa no one has the wealth of sweetness and *prema*, so no one else can have compassion on the gopīs) **hare** (O Hari — who steals the bodies, minds and words of the gopīs), **tvad-ālokanam** (seeing You) **antareṇa** (without) **hā hanta! hā hanta!** **adhanyāni** (inauspicious) **amūni dināntarāṇi** (these days — that is, these days and nights) **kathaṁ** (how — without serving You) **nayāmi** (shall I pass)?
+
+## 59
+
+> Subheading: The Lord's lament in separation from Kṛṣṇa —
+
+## 60
+
+> Subheading: Mad with longing to see Kṛṣṇa —
+
+## 61
+
+**muralī-vilāsi** (O player of the flute that steals the hearts of the gopīs), **tvat** (Your) **śaiśavam mat** (my) **cāpalaṁ ca tri-bhuvanādbhutam** (are wonderful in all the three worlds) — **tava vā mama vā** (that is, only to the two of us) **adhigamyam** (are known; no one else knows). **viralam** (in private, or: rarely seen) **mugdham** (enchanting the hearts of the gopīs) **mukhāmbujam** (lotus face) **īkṣaṇābhyām** (with my eyes) **udīkṣitum** (to gaze at as much as I wish) **kiṁ karomi** (what am I to do? — tell me the way).
+
+## 63
+
+> Subheading: The Lord's divine madness in *mahābhāva* —
+
+***Sandhi*** (a joining of emotions). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “*Sandhi* is the joining of two *bhāvas*, alike or different.” *Sarūpa-sandhi*: “The *sandhi* of two similar *bhāvas* that arise from different causes.” *Bhinna-rūpa sandhi*: “[The *sandhi*] of two different *bhāvas* born of one cause or of different causes.” The joining or meeting of two *bhāvas*, alike or different, is called *sandhi*. When two similar *bhāvas* born of different causes meet, that is *sarūpa-sandhi*. The meeting of two different *bhāvas* born of one cause or of different causes is called *bhinna-rūpa sandhi*. Examples of the *sandhi* of two *bhāvas* from one cause or from different causes: the joining of joy and apprehension, the joining of joy and dejection.
+
+***Śābalya*** (a mingling of emotions). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “*Śabalatva* is the clash of *bhāvas* with one another.” The mutual clash of *bhāvas* is called *śābalya*. When pride, dejection, humility, resolve, remembrance, apprehension, indignation, fear, despondency, fortitude, eagerness and other *bhāvas* clash, *śābalya* arises.
+
+***Autsukya*** (eagerness). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “*Autsukya* is the inability to bear delay, born of the longing to see or attain the desired object and the like. It produces dryness of the mouth, haste, anxious thoughts, sighs, immobility and so on.” The inability to bear delay because one longs to see the desired object and to attain it is called *autsukya*. In *autsukya* one sees dryness of the mouth, agitation, anxious thoughts, deep sighs and immobility.
+
+***Cāpala*** (restlessness). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “Lightness of mind caused by attachment, aversion and the like is *cāpala*. In it there arise thoughtlessness, harshness, acting as one pleases, and so on.” Lightness of mind through attachment and aversion is called *cāpala*. In it there arise thoughtlessness, harsh words, acting as one pleases, and so on.
+
+***Roṣa*** (anger). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “Fury born of an offense, harsh words and the like is *ugratā*. It leads to killing, binding, shaking the head, scolding, beating and so on.” Anger born of an offense or of objectionable words is called *ugratā* or *roṣa*. In it there arise killing, binding, shaking the head, scolding, beating and so on.
+
+***Amarṣa*** (indignation). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “Intolerance caused by reproach, dishonor and the like is *amarṣa*. In it there arise perspiration, shaking of the head, pallor, brooding, searching for a means, crying out, turning away, beating and so on.” Intolerance caused by reproach or censure, dishonor and the like is called *amarṣa*. In it there arise perspiration, shaking of the head, pallor, brooding, searching for a means, crying out, turning away, beating and so on.
+
+## 65
+
+> Subheading: Longing to see Kṛṣṇa, the Beloved —
+
+**he deva, he dayita** (beloved), **he bhuvanaika-bandho** (sole protector of the land of Vraja), **he capala** (who does as He pleases), **he karuṇaika-sindho, he ramaṇa** (who delights the gopīs), **he nayanābhirāma** (joy of the eyes), **he kṛṣṇa** (who draws the cowherd wives to Him). **hā hā me** (my) **dṛśoḥ** (of the eyes) **padam** (within the range) **kadā** (when) **nu** (indeed) **bhavitāsi**?
+
+## 66
+
+> Subheading: A description of the Lord's divine madness —
+
+***Unmāda*** (madness). (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave) “*Unmāda* is a bewilderment of the heart born of intense joy, calamity, separation and the like. In it there arise loud laughter, dancing, singing, aimless acts, incoherent talk, running, shouting, contrary behavior and so on.” A bewilderment of the heart born of intense joy, calamity, separation and the like is called *unmāda*. In *unmāda* there arise loud laughter, dancing, singing, aimless acts, incoherent talk, running, shouting and contrary behavior.
+
+***Praṇaya.*** (*Bhakti-rasāmṛta-sindhu*, Western Division, third wave) “*Rati* that is not touched even by a trace of reverential awe (*sambhrama*) and the like, though there is clear occasion for it, is called *praṇaya*.” *Rati* that is not touched even by a trace of *sambhrama*, although there is clear occasion for *sambhrama* and the like, is called *praṇaya*.
+
+***Māna.*** (*Ujjvala-nīlamaṇi*) “*Sneha* that, on reaching its highest intensity, makes one relish a new sweetness and takes on an unyielding air is called *māna*.” The melting of the heart that, reaching its highest intensity, makes one relish ever new sweetness and, to hide one's own feeling, outwardly takes on a contrary air — that is *māna*.
+
+## 67
+
+> Subheading: An explanation of the verse “*he deva*” quoted above —
+
+## 70
+
+> Subheading: Forgiveness toward Kṛṣṇa, or a gracious mood —
+
+***Vaidagdhya*** — skill, learning, refined taste (*rasikatā*), cleverness, elegance, or style.
+
+## 72
+
+> Subheading: The symptoms of the Lord's *mahābhāva* —
