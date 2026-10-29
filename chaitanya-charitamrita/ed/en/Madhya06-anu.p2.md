@@ -226,6 +226,74 @@ An example of this is how Kṛṣṇa attracted liberated sages such as Sanaka a
 
 See Madhya 24.3–308.[^193-1]
 
+## 199
+
+> Subheading: Sārvabhauma reproaches himself —
+
+## 201
+
+> Subheading: Sārvabhauma surrenders at the Lord's feet, and the Lord shows him mercy —
+
+## 202
+
+> Subheading: The Lord shows first the four-armed and then the two-armed form —
+
+## 204
+
+> Subheading: Sārvabhauma's prayers —
+
+## 205
+
+> Subheading: By the Lord's mercy truths become manifest in his heart —
+
+## 206
+
+> Subheading: The gift of swift composition —
+
+Śrīla Sārvabhauma Bhaṭṭācārya's book *Suśloka-śataka*.
+
+## 207
+
+> Subheading: At the Lord's embrace Sārvabhauma shows the *sāttvika-bhāvas* —
+
+## 209
+
+> Subheading: Gopīnātha's joy —
+
+## 210
+
+> Subheading: Seeing Sārvabhauma's state, Gopīnātha glorifies the Lord's greatness —
+
+## 211
+
+> Subheading: The Lord honors the devotee —
+
+## 212
+
+> Subheading: Coming to himself, the Bhaṭṭācārya offers prayers to the Lord —
+
+## 215
+
+> Subheading: The Lord returns to His residence —
+
+## 216
+
+> Subheading: One day, early in the morning, the Lord obtains *prasāda* —
+
+## 218
+
+> Subheading: The Lord comes to the Bhaṭṭācārya's house —
+
+## 219
+
+> Subheading: Even before his morning duties the Bhaṭṭācārya honors the *prasāda* given by the Lord —
+
+***Aruṇodaya-kāla*** — the period of four *daṇḍas* before sunrise is called *aruṇodaya-kāla*.
+
+## 224
+
+> Subheading: By the mercy of Kṛṣṇa Caitanya dullness is destroyed —
+
 ---
 
 [^155-1]: The verse translation reads differently: *sarva-gā* is taken as “all souls are free to choose their own paths.”
