@@ -48,6 +48,26 @@ Yaśodā's son, Bhagavān Śrī Kṛṣṇa, is easily attained by embodied bein
 
 From the verse beginning “*prabhu kahe, — ‘kon vidyā…*’” up to the verse “*sthāvara deha, deva-deha yaiche avasthiti*,” in each verse the first line is the Lord's question and the second line is Rāya's answer. This conversation is found in the *Caitanya-candrodaya-nāṭaka* (Act 7).
 
+## 265
+
+We meditate on Śrī Kṛṣṇa, the supreme Truth, who by His own potency is eternally free of all deception. It is known for certain that from this Truth come the birth, maintenance and dissolution of the universe. When one reasons by *anvaya-vyatireka*, He is found in all things, or affairs, to be the one supreme *jña-tattva*, the knowing Truth, that is, the *svarūpa-tattva*. In the visible world He alone is *svarāṭ*, that is, the independent King. As the indwelling Lord He taught the truth of Brahman to Brahmā, the first poet. In Him intelligent scholars are bewildered again and again. In Him is the interchange, that is, the separate existence, of the many elements — fire, water, earth and the rest. In Him the three kinds of creation exist as real: creation as the rising of spirit, creation as the manifestation of the *jīvas*, and creation as the universes of *māyā*.[^265-1]
+
+## 267–273
+
+“Lord, at first I saw You as a *sannyāsī*, and now I see You as a dark cowherd boy. And before You I also see a golden doll.[^267-1] That doll has covered Your whole body with its golden radiance, and yet Your own color seems to show plainly; and Your lovely eyes tremble with many feelings. Lord, tell me frankly the cause of this wonderful state of Yours.” The Lord said, “Those who have deep love for Kṛṣṇa are the best of *bhāgavatas* (*bhāgavatottama*). The nature of their love is this: whatever they see, moving or nonmoving, they do not see its form, but everywhere see only the presence of Śrī Kṛṣṇa — the manifestation of their worshipable Lord (*iṣṭadeva*).”
+
+## 274
+
+The *bhāgavatottama* sees in all beings Bhagavān Śrī Kṛṣṇacandra, the Self of the self, and sees all beings in Śrī Kṛṣṇa, the Self of the self.
+
+## 275
+
+The forest creepers rich with flowers and fruits, and the trees bowed down by *bhāva* — the great trees of the forest, their bodies thrilling with love — revealed Kṛṣṇa within themselves and poured down streams of honey.
+
+## 281
+
+Śrī Kṛṣṇa in the form of Rasarāja and Śrīmatī Rādhikā in the form of Mahābhāva, united, are one *tattva*. It was this *svarūpa* that He showed, that is, He showed “the form of Śrī Kṛṣṇa adorned with Rādhā's *bhāva* and radiance.” In this way He showed a wondrous *svarūpa* in which one *tattva* is two, and two *tattvas* are one. Only those who are able to understand the truth of Śrī Kṛṣṇa Caitanya and the truth of Rādhā and Kṛṣṇa are granted, by the mercy of Śrī Svarūpa Gosvāmī, to serve that eternal *svarūpa*.
+
 ---
 
 [^193-1]: The verse translation reads differently: “it is not that Kṛṣṇa is a youth eager for enjoyment and I a maiden who gives it.”
@@ -61,3 +81,7 @@ From the verse beginning “*prabhu kahe, — ‘kon vidyā…*’” up to the 
 [^223-1]: The verse translation reads differently: the Śrutis attain the same nectar of His feet as His beloveds, “because You regard us and Your beloveds equally”; for Bhaktivinoda (and in the *Anubhāṣya*) the Śrutis obtained the bodies of gopīs and follow their feeling (cf. verse 224).
 
 [^226-1]: The verse translation reads differently: He “cannot be attained by those who identify with the body…”; Bhaktivinoda connects the word *dehinām* (“embodied”) with the devotees.
+
+[^265-1]: The verse translation reads differently: the material universes “seem real, though in fact they have nothing in common with true reality”; for Bhaktivinoda the three kinds of creation exist in Him as real (cf. the *Anubhāṣya*: *amṛṣā*, “truly”).
+
+[^267-1]: The verse translation reads differently: “You look like a golden deity enveloped in golden radiance”; for Bhaktivinoda Rāya sees before the Lord a golden doll (*kāñcana-pañcālikā*) whose golden radiance covers His body.

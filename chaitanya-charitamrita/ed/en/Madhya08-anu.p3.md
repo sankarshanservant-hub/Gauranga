@@ -282,6 +282,110 @@ In the answers to the questions of verses 244–256, the material and the transc
 
 > Subheading: The night spent in talks about Kṛṣṇa —
 
+## 258
+
+Dry knowledge is what falls to the lot of the unfortunate *jñānī* to taste; but the nectar of love for Kṛṣṇa, full of *rasa*, is the drink of the fortunate devotee.
+
+## 260
+
+***Bihāne*** (“in the morning”) — in East Bengal and in the west (in Hindi) this word is still used in everyday speech instead of the word *prātaḥ-kāle* (“in the morning”).
+
+## 261
+
+> Subheading: The next day Rāya appeals at the Lord's feet —
+
+## 263
+
+> Subheading: The Lord reveals Himself, for He rises in a pure heart —
+
+Bhagavān reveals the Vedas in Brahmā's heart. (*Śvetāśvatara Upaniṣad* 6.18): “He who in the beginning created Brahmā and who delivered the Vedas to him — to that God, who illumines the intelligence of the self, I, seeking liberation, go for refuge.” See also *Śrīmad-Bhāgavatam* 2.9.30–35, 11.14.3, 12.4.40, 12.13.19 and so on.
+
+## 264
+
+This tells us that Śrī Gaurasundara is Himself the *Bhargo-deva* proclaimed by the Gāyatrī, He who sets the intelligence in motion. Thus (*Śrīmad-Bhāgavatam* 2.4.22): “May He, the best of sages, be pleased with me — He who in the beginning, unfolding true remembrance in the heart of the unborn [Brahmā], inspired Sarasvatī, who then appeared with her characteristics from his mouth.”
+
+## 265
+
+> Subheading: The definition of the Supreme Lord, full of spiritual play, and meditation on Him —
+
+**yataḥ** (from whom, the possessor of potencies) **asya** (of this universe) **janmādi** (birth, maintenance and destruction) — according to the Śruti *yato vā imāni bhūtāni jāyante* and so on, and the *sūtra* *janmādy asya yataḥ* (*Brahma-sūtra* 1.1.2); **anvayāt itarataḥ ca** (this comes about by *anvaya* and *vyatireka*); **yaḥ** **anvayāt** **artheṣu** (in spiritual affairs, which befit spiritual form, taste, smell, sound and touch) **abhijñaḥ** (attached), and **vyatirekāt** **artheṣu** (in material objects of form, taste, smell, sound and touch) **abhijñaḥ** (untouched by them), and being such — **sva-rāṭ** (He who shines by Himself, self-luminous); **yat** (in which supreme Truth) **sūrayaḥ** (Brahmā and others — according to the account in the Tenth Canto of Brahmā's bewilderment; the gods — according to the Talavakāra Śruti; the *brāhmaṇas* and others, and the sages — Dattātreya, Durvāsā, Vasiṣṭha, Śaṅkara, Vidyāraṇya and others — according to the words *daivāhatārtha-racanā*, *Śrīmad-Bhāgavatam* 3.9.10) **api** **muhyanti** (are bewildered, that is, cannot ascertain the supreme Truth); **tat brahma** (that truth — according to the words *vadanti tat tattva-vidaḥ* and so on) **ādi-kavaye** (to Brahmā) **hṛdā** (through the mind — according to the *Brahma-saṁhitā*'s words *trayyā prabuddhaḥ*) **yaḥ** **tene** (revealed); **yathā tejo-vāri-mṛdāṁ vinimayaḥ** (as in fire, water and earth there is an interchange, one appearing as another, so) **tri-sargaḥ** (the perishable creation of the three — *rajas*, *tamas* and *sattva*; in the other sense, the eternal manifestation of the three potencies — internal, external and marginal) **yatra** (in the supreme Truth, in Bhagavān's *svarūpa*, the form of eternity, knowledge and bliss, nondual Knowledge) **amṛṣā** (true); **svena dhāmnā** (by His power — His transcendental internal opulence, *sandhinī* and the rest, proper to His nature) **sadā nirasta-kuhakam** (in whom deception, *kuhaka*, the mark of *māyā*, is rejected and cast away) **satyam** (the true essence, the eternal) **param** (Him who is above all, the Supreme Lord) **dhīmahi** (we meditate). For more, see the *Gauḍīya-bhāṣya* on the *Śrīmad-Bhāgavatam*.
+
+## 266
+
+> Subheading: Rāya's doubt —
+
+## 267
+
+> Subheading: The Lord's *svarūpa* appeared before Rāya —
+
+That is, “Rasarāja and Mahābhāva — two in one form” (verse 242[^267-1]). ***Sannyāsī-svarūpa*** — the form of an eternal renunciant, or ascetic, full of *adhirūḍha-mahābhāva* born of eternal separation from Kṛṣṇa.
+
+## 268
+
+> Subheading: Rāya sees Gaurasundara adorned with Rādhā's *bhāva* and radiance —
+
+## 267–268
+
+See Ādi 3.86–89.
+
+## 270
+
+> Subheading: Rāya asks the Lord Himself the reason for His golden form —
+
+## 271
+
+> Subheading: The Lord tries to hide Himself by praising Rāya as a *mahā-bhāgavata* —
+
+## 272
+
+> Subheading: How a *mahā-bhāgavata*, or Vaiṣṇava, or *paramahaṁsa* sees —
+
+## 274
+
+> Subheading: Seeing everywhere Kṛṣṇa and what belongs to Kṛṣṇa (*kārṣṇa*) —
+
+Nimi, the king of Videha, wished to know the marks, the vision, the conduct and the words of the three kinds of devotees, or *bhāgavatas*. In answer to his question Havi, one of the nine Yogendras, said:
+
+**yaḥ** **sarva-bhūteṣu** (in all beings, conscious and unconscious) **ātmanaḥ** (of the self — transcendental, beyond the matter that is enjoyed) **bhagavad-bhāvam** (in beings, the *siddha-svarūpa* and the rest, fit for the service of Bhagavān) **paśyet**, **ātmani bhagavati** **bhūtāni** (engaged in eternal transcendental service in their own *siddha* forms) **paśyet**, (he) **eṣaḥ** **bhāgavatottamaḥ**. (By the strength of their transcendental feeling the *mahā-bhāgavatas* everywhere see Kṛṣṇa and what belongs to Kṛṣṇa (*kārṣṇa*), standing in the relation of the One who is served and His servants — for they have no external vision.)
+
+## 275
+
+> Subheading: The heart full of service to Kṛṣṇa sees everywhere consciousness, or the inclination to serve Kṛṣṇa —
+
+When Kṛṣṇa went to the forest by day, the gopīs, burning in separation, sang this song to one another: (hearing the sound of Kṛṣṇa's flute) **praṇata-bhāra-viṭapāḥ** (the forest trees, bowed down under their burden) **puṣpa-phalāḍhyāḥ** (full of fruits and flowers) **prema-hṛṣṭa-tanavaḥ** (their bodies blossoming with love for Kṛṣṇa) **vana-latāḥ** **taravaḥ ca** **ātmani** (in their own forms) **viṣṇum** (the all-pervading Caitanya, consciousness) **vyañjayantyaḥ** (indicating that He was manifest) **iva** **madhu-dhārāḥ** **vavṛṣuḥ sma**.
+
+## 276
+
+> Subheading: The highest, final vision of a Vaiṣṇava —
+
+## 277
+
+> Subheading: Rāya openly glorifies the purpose of the Lord's descent —
+
+## 277–279
+
+On how a devotee knows Bhagavān's pastimes, see Ādi 3.86–89; on the meaning of the fifth verse of Ādi 1, see Ādi, Chapter 4.
+
+## 280
+
+> Subheading: Rāya reproaches the Lord for hiding Himself, or for His trickery —
+
+## 281
+
+> Subheading: The Lord shows Rāya His dark and His golden form —
+
+## 282
+
+> Subheading: Rāya faints in bliss —
+
+## 283
+
+> Subheading: Coming to himself, Rāya is amazed to see the Lord in the dress of a *sannyāsī* —
+
+## 284
+
+> Subheading: The Lord comforts Rāya and frankly reveals all the confidential reasons — that He is Kṛṣṇa Himself and that He is full of Rādhā's *bhāva* and radiance — their purpose and so on —
+
 ---
 
 [^193-1]: *Ujjvala-nīlamaṇi* (the definition of *pūrva-rāga*).
@@ -291,3 +395,5 @@ In the answers to the questions of verses 244–256, the material and the transc
 [^254-1]: So in the edition; this verse is *Śrīmad-Bhāgavatam* 10.33.39.
 
 [^256-1]: A pun: “Gautama” can also be read as “the greatest of bulls” (*go-tama*).
+
+[^267-1]: So in the edition (২৪২); the verse is 281.
