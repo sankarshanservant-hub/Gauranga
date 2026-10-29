@@ -440,6 +440,60 @@ Before Śrīpāda Mādhavendra Purī, down to Śrīpāda Lakṣmīpati Tīrtha, 
 
 > Subheading: Raṅga Purī once had the chance to eat food cooked by Śacī in her house —
 
+## 299
+
+> Subheading: From Raṅga Purī the Lord hears that Viśvarūpa, after taking *sannyāsa*, attained perfection —
+
+## 301
+
+> Subheading: The Lord tells of His former *āśrama* —
+
+## 302
+
+> Subheading: Śrī Raṅga Purī sets out for Dvārakā —
+
+## 303
+
+> Subheading: The Lord stays four days in the house of a Vaiṣṇava brāhmaṇa and has *darśana* of Viṭhṭhala —
+
+## 304
+
+> Subheading: The Lord comes to the bank of the Kṛṣṇaveṇvā —
+
+**Kṛṣṇaveṇvā.** At Mahābaleśvara in the Sahyādri hills the two streams of the river Kṛṣṇā arise. Bilvamaṅgala Ṭhākura lived on the bank of this river. Instead of “Veṇvā,” some say “Vīṇā,” some “Veṇī” or “Sinā,” and some “Bhīmā.”
+
+## 305
+
+> Subheading: The local brāhmaṇas are Vaiṣṇavas who read the *Karṇāmṛta* —
+
+**The *Kṛṣṇa-karṇāmṛta*** is a book of songs in 112 verses composed by Śrī Ṭhākura Bilvamaṅgala. Two or three different song books are known under this title. This book has two commentaries studied by Gauḍīya Vaiṣṇavas, by Śrī Kṛṣṇadāsa Kavirāja Gosvāmī and by Śrī Caitanyadāsa Gosvāmī.
+
+## 306
+
+> Subheading: Hearing the *Karṇāmṛta*, the Lord rejoices and obtains a copy of the manuscript —
+
+## 307
+
+> Subheading: The glory of the *Karṇāmṛta* —
+
+## 308
+
+> Subheading: The fruit of reading the *Karṇāmṛta* for a reader in whom taste has awakened —
+
+## 309
+
+> Subheading: The Lord obtains two books: (1) on *siddhānta* and (2) on *rasa* —
+
+**The *Brahma-saṁhitā***: see the *Anubhāṣya* to verse 237.
+
+## 310
+
+> Subheading: *Darśana* of holy places on the banks of the Tāptī and the Narmadā; the Lord comes to Māhiṣmatīpura —
+
+**The Tāptī**, present name “Tāpī,” rises in the Multai hills of Central India and falls into the Western Sea in the northern part of Saurāṣṭra.
+
+**Māhiṣmatīpura** is “Chuli Maheshwar.” The *Mahābhārata*, Sabhā-parva, in the account of Sahadeva's conquest of the quarters (chapter 31, verse 21), says: “
+
 ---
 
 [^218-1]: The edition prints the section number as “১১৮” (118); by content it belongs to verse 218.

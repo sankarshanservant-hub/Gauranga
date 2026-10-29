@@ -62,3 +62,7 @@ The Lord said, “O *ācārya* of the Tattvavādīs, the conclusions of your *sa
 
 **Pāṇḍarapura** is the town of “Pāṇḍupura,” or “Pāṇḍarapura,” on the bank of the river Bhīmā. Research shows that here Mahāprabhu bestowed His mercy on Tukārāmācārya by giving him *harināma*. Tukārāma himself acknowledged this in his *abhaṅgas*. From Tukārāma, *kīrtana* with *mṛdaṅgas* and other instruments spread through that region.
 
+## 300
+
+Mahāprabhu's elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received the name “Śaṅkarāraṇya Svāmī.” While traveling through the land, he attained perfection (*siddhi*) at the holy place of Pāṇḍarapura, that is, he entered the spiritual abode. This news was given to Mahāprabhu by Śrī Raṅga Purī, a disciple of Mādhavendra Purī and a godbrother of Īśvara Purī.
+
