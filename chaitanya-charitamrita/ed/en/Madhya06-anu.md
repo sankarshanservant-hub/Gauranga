@@ -552,7 +552,7 @@ See Ādi 7.119.
 
 ## 155
 
-**nṛpa** (O king), **sarva-gā** (moving in both spirit and matter) **sā kṣetra-jña-śaktiḥ** (the potency called the *jīva*), **yayā** (by *avidyā* — by *māyā*, which turns one away from Bhagavān) **veṣṭitā** (covered); **atra** (here, in worldly existence — Devī-dhāma) **sā** **santatān** (born of enjoying the fruits of various deeds) **akhilān** (of every kind) **tāpān** **avāpnoti** (obtains).[^155-1]
+**nṛpa** (O king), **sarva-gā** (moving in both spirit and matter) **sā kṣetra-jña-śaktiḥ** (the potency called the *jīva*), **yayā** (by *avidyā* — by *māyā*, which turns one away from Bhagavān) **veṣṭitā** (covered); **atra** (here, in worldly existence — Devī-dhāma) **sā** **santatān** (born of enjoying the fruits of various deeds) **akhilān** (of every kind) **tāpān** **avāpnoti** (obtains).
 
 ## 156
 
@@ -708,7 +708,7 @@ The doctrine of “pure spirit” devoid of pastimes and the doctrine of the abs
 
 Why did Śrī Śukadeva, a *paramahaṁsa* by nature absorbed in the bliss of Brahman, study *Śrīmad-Bhāgavatam*, which is full of narrations of Kṛṣṇa's name, form, qualities and pastimes? Answering this question of the sages headed by Śaunaka, Śrī Sūta says:
 
-**ātmārāmāḥ** (those who delight in the self — in Bhagavān; whose nature is to play with Kṛṣṇa) **munayaḥ** (free from material objects that seek enjoyment) **nirgranthāḥ** (free from the knot of desires born in the heart — situated on the level of Brahman) **api** **urukrame** (to the unconquerable Kṛṣṇa) **ahaitukīm** (free from other desires, not covered by karma, *jñāna* and the like, pure, consisting in serving Kṛṣṇa) **bhaktim** (service) **kurvanti**. **hariḥ** **itthambhūta-guṇaḥ** (is endowed with the property of attracting *jīvas* in every condition, liberated or not).[^186-1] [Hari, the reservoir of extraordinary qualities, mercifully frees people devoted to Māyāvāda from their doctrines and gives them His own feet.]
+**ātmārāmāḥ** (those who delight in the self — in Bhagavān; whose nature is to play with Kṛṣṇa) **munayaḥ** (free from material objects that seek enjoyment) **nirgranthāḥ** (free from the knot of desires born in the heart — situated on the level of Brahman) **api** **urukrame** (to the unconquerable Kṛṣṇa) **ahaitukīm** (free from other desires, not covered by karma, *jñāna* and the like, pure, consisting in serving Kṛṣṇa) **bhaktim** (service) **kurvanti**. **hariḥ** **itthambhūta-guṇaḥ** (is endowed with the property of attracting *jīvas* in every condition, liberated or not). [Hari, the reservoir of extraordinary qualities, mercifully frees people devoted to Māyāvāda from their doctrines and gives them His own feet.]
 
 ## 187
 
@@ -1036,11 +1036,7 @@ See Madhya, Chapter 15.
 
 [^148-1]: Unclear in the scan: প্রাগ্বন্ধযুগে (?); translated by the sense.
 
-[^155-1]: The verse translation reads differently: *sarva-gā* is taken as “all souls are free to choose their own paths.”
-
 [^174-1]: The edition has *ādi-mahākāvya* (“the primeval great poem”) — apparently a misprint for *mahā-vākya*, as in verse 174 (checked against the scan).
-
-[^186-1]: The verse translation reads differently: *ātmārāma* is taken as sages “immersed in the spiritual bliss of the soul.”
 
 [^198-1]: In the edition's numbering; in our translation, Madhya 24.107–111.
 

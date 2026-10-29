@@ -164,7 +164,7 @@ The Bhaṭṭācārya said: “The highest fruit of devotion is (*prema-*)*bhakt
 
 ## 267–268
 
-Of the five kinds of *mukti* — *sālokya*, *sāmīpya*, *sārūpya*, *sārṣṭi* and *sāyujya* — the first four, beginning with *sālokya*, are not so blameworthy, for they are like doors to the service of Bhagavān. Even so, a devotee of Kṛṣṇa does not accept even these four kinds of *mukti*, for birth after birth he desires only devotion to Kṛṣṇa.[^267-1] As soon as he hears the word *sāyujya*, the devotee feels disgust for it as something worthless and fear of it as an “offense” hostile to devotion.
+Of the five kinds of *mukti* — *sālokya*, *sāmīpya*, *sārūpya*, *sārṣṭi* and *sāyujya* — the first four, beginning with *sālokya*, are not so blameworthy, for they are like doors to the service of Bhagavān. Even so, a devotee of Kṛṣṇa does not accept even these four kinds of *mukti*, for birth after birth he desires only devotion to Kṛṣṇa. As soon as he hears the word *sāyujya*, the devotee feels disgust for it as something worthless and fear of it as an “offense” hostile to devotion.
 
 ## 269
 
@@ -191,8 +191,6 @@ He at whose feet *mukti* resides is *mukti-pada* — that is, Śrī Kṛṣṇa,
 [^150-1]: The edition numbers this section “150–253” (checked against the scan) — a misprint; by content it is 150–153.
 
 [^242-1]: *Śrīmad-Bhāgavatam* 12.3.52.
-
-[^267-1]: The verse translation of 267 reads differently (following the verse itself): a pure devotee may accept the first four kinds of liberation for the sake of his service, but never *sāyujya*.
 
 [^269-1]: *Yoga-sūtra* 1.24.
 
