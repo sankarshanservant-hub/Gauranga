@@ -262,7 +262,7 @@ A *sannyāsī* must not leave remnants of food. (*Śrīmad-Bhāgavatam* 11.18.19
 
 ***Bhraṣṭa*** — “fallen” in the eyes of the mundane *smārta* society, that is, beyond injunctions and prohibitions. The word is used as praise in the guise of censure.
 
-The highest stage of *sannyāsa* is *pāramahaṁsya*; another name for it is *avadhūtatva*. *Avadhūtas* act as they please: though they accept the objects of the senses, they are not bound by them. The marks of *sannyāsa* they sometimes accept and sometimes give up. All these words of Advaita are a jest, not the truth. Some people, seeing Tripurasundarī installed at Khaḍadaha together with Śrī Śyāmasundara, mistake Nityānanda Prabhu's *avadhūta* conduct for the conduct of a *kaula-avadhūta* of the Śākta *sampradāya*: “Within a Śākta, outside a Śaiva, in the assembly considered a Vaiṣṇava.” In fact it is not so. Śrī Nityānanda Svarūpa is a *svarūpa-brahmacārī* (a *brahmacārī* bearing the name “Svarūpa”) of a Vedic *sannyāsī*, and is Himself a *paramahaṁsa*. Others again say that Lakṣmīpati Tīrtha was His ācārya. Even so, He belongs to the *sampradāya* of Śrī Madhva[^85-1], not to the Tāntrikas of Bengal.
+The highest stage of *sannyāsa* is *pāramahaṁsya*; another name for it is *avadhūtatva*. *Avadhūtas* act as they please: though they accept the objects of the senses, they are not bound by them. The marks of *sannyāsa* they sometimes accept and sometimes give up. All these words of Advaita are a jest, not the truth. Some people, seeing Tripurasundarī installed at Khaḍadaha together with Śrī Śyāmasundara, mistake Nityānanda Prabhu's *avadhūta* conduct for the conduct of a *kaula-avadhūta* of the Śākta *sampradāya*: “Within a Śākta, outside a Śaiva, in the assembly considered a Vaiṣṇava.” In fact it is not so. Śrī Nityānanda Svarūpa is a *svarūpa-brahmacārī* (a *brahmacārī* bearing the name “Svarūpa”) of a Vedic *sannyāsī*, and is Himself a *paramahaṁsa*. Others again say that Lakṣmīpati Tīrtha was His ācārya. Even so, He belongs to the *sampradāya* of Śrī Madhva, not to the Tāntrikas of Bengal.
 
 ## 87
 
@@ -338,7 +338,7 @@ Mahāprabhu saw that He, a *sannyāsī*, was being given a fine bed, cloves, car
 
 > Subheading: All day long people come and go —
 
-***Samādhāna*** — a count, a limit.
+***Samādhāna*** — a count, a resolution (*mīmāṁsā*).
 
 ## 112
 
@@ -673,8 +673,6 @@ The Lord entered Śrī Nīlācala after passing, in Bengal, the village of Āṭ
 [^39-1]: *Caccaḍi* is a Bengali dry dish of stewed vegetables; the question mark is in the edition.
 
 [^70-1]: *Caitanya-caritāmṛta*, Antya 6.236 (the edition gives the two halves in reverse order).
-
-[^85-1]: The edition reads «শ্রীমাধবসম্প্রদায়» (“the *sampradāya* of Śrī Mādhava”); the sense (Lakṣmīpati Tīrtha belonged to the Madhva *sampradāya*) requires Śrī Madhva.
 
 [^114-1]: The edition reads «সুখ» (“joy”); the sense of the line and the known text of the song require «দুখ» (“grief”).
 
