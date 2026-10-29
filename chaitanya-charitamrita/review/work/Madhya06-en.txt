@@ -87,7 +87,7 @@ tr: While the Bhaṭṭācārya sat there thinking this, Nityānanda and the oth
 ## 15
 w: there  hearing  people  speak  among themselves  the talk
 w: such a  sannyāsī  coming  seeing  Jagannātha
-tr: There they heard people talking among themselves: “Such a sannyāsī came here and saw Jagannātha.
+tr: There they heard people saying to one another, “A sannyāsī came here and saw Jagannātha.
 fn: Heading in the edition: “Nityānanda and His companions come from Āṭhāranālā to Purī and hear from the people that the Lord is in the Bhaṭṭācārya’s house”.
 
 ## 16
@@ -103,7 +103,7 @@ tr: Hearing this, they all understood that it was Mahāprabhu’s doing. Just th
 ## 18
 w: of Nadīyā  a resident  of Viśārada  the son-in-law
 w: Mahāprabhu’s  devotee  he  of the Lord  the truth  knowing
-tr: He was a resident of Nadīyā and the son-in-law of Viśārada, a devotee of Mahāprabhu who knew the truth about the Lord.
+tr: He was a resident of Nadīyā and the son-in-law of Viśārada. A devotee of Mahāprabhu, he knew the truth about the Lord.
 fn: *Anubhāṣya*: Maheśvara Viśārada, a fellow student of Nīlāmbara Cakravartī, lived in Vidyānagara near Samudragaḍa; his sons were Madhusūdana Vācaspati and Vāsudeva Sārvabhauma, and his son-in-law was Gopīnātha Ācārya, the husband of Sārvabhauma’s sister.
 
 ## 19
@@ -315,7 +315,7 @@ tr: “You are the teacher of the whole world and the benefactor of all people. 
 ## 59
 w: I  a boy sannyāsī  good and bad  not  know
 w: your  shelter  I have taken  guru  making  I regard
-tr: I am a young sannyāsī who does not know good from bad. I have taken shelter of you, and I regard you as My guru.
+tr: I am a young sannyāsī who does not know good from bad. I have taken shelter of you, and I regard you as My Guru.
 
 ## 60
 w: your  association  for the sake of  My  here  coming

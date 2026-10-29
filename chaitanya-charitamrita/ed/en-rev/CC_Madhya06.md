@@ -156,7 +156,7 @@ there  hearing  people  speak  among themselves  the talk
 eta sannyāsī āsi’ dekhi’ jagannātha  
 such a  sannyāsī  coming  seeing  Jagannātha
 
-(15) There they heard people talking among themselves: “Such a sannyāsī came here and saw Jagannātha.[^7]
+(15) There they heard people saying to one another, “A sannyāsī came here and saw Jagannātha.[^7]
 
 মূর্চ্ছিত হৈল, চেতন না হয় শরীরে ৷  
 সার্ব্বভৌম লঞা গেলা আপনার ঘরে ॥ ১৬ ॥
@@ -186,7 +186,7 @@ of Nadīyā  a resident  of Viśārada  the son-in-law
 mahāprabhura bhakta tem̐ho prabhura tattva-jñātā  
 Mahāprabhu’s  devotee  he  of the Lord  the truth  knowing
 
-(18) He was a resident of Nadīyā and the son-in-law of Viśārada, a devotee of Mahāprabhu who knew the truth about the Lord.[^8]
+(18) He was a resident of Nadīyā and the son-in-law of Viśārada. A devotee of Mahāprabhu, he knew the truth about the Lord.[^8]
 
 মুকুন্দ-সহিত পূর্ব্বে আছে পরিচয় ৷  
 মুকুন্দ দেখিয়া তাঁর হইল বিস্ময় ॥ ১৯ ॥
@@ -596,7 +596,7 @@ I  a boy sannyāsī  good and bad  not  know
 tomāra āśraya nilum̐, guru kari’ māni  
 your  shelter  I have taken  guru  making  I regard
 
-(59) I am a young sannyāsī who does not know good from bad. I have taken shelter of you, and I regard you as My guru.
+(59) I am a young sannyāsī who does not know good from bad. I have taken shelter of you, and I regard you as My Guru.
 
 তোমার সঙ্গ লাগি’ মোর ইঁহা আগমন ৷  
 সর্ব্বপ্রকারে করিবে আমায় পালন ॥ ৬০ ॥
