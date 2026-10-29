@@ -1,0 +1,572 @@
+# English translation, Madhya-līlā 4 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya04.txt, .p2.txt), revised against the Bengali and the «Anubhāṣya».
+# Shift 1: verses 1–106; shift 2: 107–213.
+
+## 0
+tr: Relishing the Life of Śrī Mādhavendra Purī
+
+## 1
+w: to whom  to give  stealing  of sweet rice  the pot
+w: Gopīnātha  Kṣīra-corā  named  became
+w: Śrī Gopāla  appeared  conquered  being
+w: by whose love  to that  Mādhavendra  bowed down  am I
+tr: I bow down to Mādhavendra Purī, for whose sake Gopīnātha stole a pot of sweet rice and so became known as Kṣīra-corā, “the thief of sweet rice”, and conquered by whose love Śrī Gopāla revealed Himself.
+fn: Heading in the edition: “Obeisance to Mādhavendra Purī, the servant of ‘Kṣīra-corā Gopīnātha’”. *Anubhāṣya*: Gopīnātha — the famous Deity of the village of Remuṇā; Śrī Gopāla, the Holder of Govardhana — the Deity installed by Vajra; Mādhavendra Purī — the disciple of Lakṣmīpati, a guru of the Madhva sampradāya.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2, except that the first line here has *gauracandra* in place of *śrī-caitanya*; translation as there, with that name.
+
+## 3–4
+w: to Nīlādri  the coming  of Jagannātha  the sight
+w: of Sārvabhauma  Bhaṭṭācārya and the Lord  the meeting
+w: these  all  pastimes  Śrī Vṛndāvana dāsa
+w: in detail  has described  in excellent  description
+tr: The Lord’s coming to Nīlādri, His seeing Jagannātha, His meeting with Sārvabhauma Bhaṭṭācārya—all these pastimes Śrī Vṛndāvana dāsa has described in detail, and his description is excellent.
+fn: *Amṛta-pravāha-bhāṣya*: see *Caitanya-bhāgavata*, Antya-khaṇḍa, chapters 2 and 3.
+
+## 5
+w: by nature  wonderful  sweet  Caitanya’s  pastimes
+w: Vṛndāvana dāsa’s  from the mouth  of nectar  a stream
+tr: The pastimes of Caitanya are by their very nature wonderful and sweet, and from the lips of Vṛndāvana dāsa they flow as a stream of nectar.
+
+## 6
+w: therefore  them  if I describe  there will be  repetition
+w: pride  showing  I describe  if  there is not  such  power
+tr: Therefore to describe them again would be mere repetition; and should I presume to describe them out of pride, I have no such power.
+
+## 7
+w: in the Caitanya-maṅgala  what  he made  description
+w: in the form of a summary  those  pastimes  I make  mention
+tr: So I shall only touch briefly upon the pastimes he described in the *Caitanya-maṅgala*.
+fn: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35).
+
+## 8
+w: in his  summary  they are  he  not  made  description
+w: as  best I can  making  of those  pastimes  the telling
+tr: As best I can, I shall tell those pastimes he mentioned in his summary but did not describe.
+
+## 9
+w: therefore  at his  feet  I make  obeisance
+w: at his  feet  offence  not  may there be  my
+tr: Therefore I bow down at his feet, praying that I may commit no offence at his feet.
+
+## 10
+w: in this way  Mahāprabhu  went  to Nīlācala
+w: four  devotees  with  of Kṛṣṇa  kīrtana  joyfully
+tr: In this way Mahāprabhu went on towards Nīlācala with four devotees, joyfully singing the kīrtana of Kṛṣṇa.
+
+## 11
+w: alms  for  one day  to a  village  going
+w: Himself  much  food  brought  having begged
+tr: One day He went to a village for alms and Himself begged and brought back a great deal of food.
+
+## 12
+w: on the way  great  great  toll-keepers  hindrance  not  make
+w: on them  all  mercy  bestowing  He came  to Remuṇā
+tr: On the way the many powerful ferrymen at the crossings did not hinder Him; bestowing His mercy on them all, He came to Remuṇā.
+fn: *Amṛta-pravāha-bhāṣya*: *dānī* — the ferrymen at the river crossings (to verse 153: those who take the toll for the crossing). *Anubhāṣya*: in Remuṇā dwells the Deity of Gopīnātha, and the samādhi of Rasikānanda Prabhu, the servant of Śyāmānanda Prabhu, is still there.
+
+## 13
+w: in Remuṇā  Gopīnātha  supremely  enchanting
+w: devotion  with  took  the Lord  His  darśana
+tr: In Remuṇā the Lord, full of devotion, took darśana of the supremely enchanting Gopīnātha.
+fn: *Amṛta-pravāha-bhāṣya*: Remuṇā is a village five miles west of Bāleśvara; there Kṣīra-corā Gopīnātha resides.
+
+## 14
+w: His  lotus feet  near  obeisance  while making
+w: His  flower crown  fell  the Lord’s  on the head
+tr: As the Lord bowed down near His lotus feet, Gopīnātha’s crown of flowers fell onto His head.
+
+## 15
+w: the crown  receiving  Mahāprabhu’s  delighted  mind
+w: much  dancing and singing  did  taking along  the devotees
+tr: Receiving the crown, Mahāprabhu was filled with joy, and with His devotees He danced and sang at length.
+
+## 16
+w: the Lord’s  majesty  seeing  love  beauty and qualities
+w: astonished  became  of Gopīnātha  the servants
+tr: Seeing the Lord’s majesty, His love, His beauty and His qualities, the servants of Gopīnātha were struck with wonder.
+
+## 17
+w: in many ways  with love  did  the Lord’s  service
+w: that  night  there  the Lord  spent
+tr: Lovingly they served the Lord in many ways, and that night the Lord stayed there.
+
+## 18
+w: for the mahā-prasāda sweet rice  out of eagerness  stayed  the Lord  there
+w: before  Īśvara Purī  to Him  had told  the story
+tr: The Lord stayed there out of eagerness for the mahā-prasāda of sweet rice, for Īśvara Purī had once told Him its story.
+fn: Heading in the edition: the Lord stays there to honour the *kṣīra-prasāda*, which, as He had heard from His guru, awakens the memory of Kṛṣṇa’s love for His devotees.
+
+## 19
+w: Kṣīra-corā  Gopīnātha  famous  His  name
+w: to the devotees  tells  the Lord  that  very  story
+tr: His famous name is “Kṣīra-corā Gopīnātha”, and the Lord told the devotees the story behind it.
+
+## 20
+w: formerly  Mādhava Purī  for the sake of  sweet rice  did  theft
+w: therefore  the name  became  Kṣīra-corā Hari
+tr: Long ago He stole sweet rice for Mādhava Purī, and so He came to be called “Kṣīra-corā Hari”, Hari the thief of sweet rice.
+fn: The Gauḍīya Maṭha edition reads *mādhava-purī lāgi’*, without the genitive ending.
+fn: *Amṛta-pravāha-bhāṣya*: Mādhava Purī is Mādhavendra Purī.
+
+## 21
+w: formerly  Śrī Mādhava Purī  came  to Vṛndāvana
+w: wandering  wandering  went  where  Govardhana
+tr: Once Śrī Mādhava Purī came to Vṛndāvana, and wandering on and on, he reached Govardhana.
+
+## 22
+w: with love  maddened  not  his  of night and day  awareness
+w: now  rises  now  falls  no  sense of place
+tr: Mad with love, he could not tell night from day. Now he would rise, now he would fall, with no thought of where he was.
+
+## 23
+w: the hill  circumambulation  making  to Govinda-kuṇḍa  coming
+w: bath  taking  beneath a tree  was  in the evening  seated
+tr: After walking around the hill, he came to Govinda-kuṇḍa and bathed there, and in the evening he sat beneath a tree.
+fn: *Anubhāṣya*: *śaila* — the hill of Govardhana, eight *krośas* from Mathurā.
+
+## 24
+w: a cowherd boy  one  milk  pot  carrying
+w: coming  before him  holding it  something  said  smiling
+tr: A cowherd boy came carrying a pot of milk. Holding it out before him, He smiled and said:
+
+## 25
+w: Purī  this  milk  taking  do  you  drinking
+w: having begged  why  not  you eat  what  do you  meditate on
+tr: “Purī, take this milk and drink it. Why do you not beg for food and eat? What are you meditating on?”
+
+## 26
+w: the boy’s  by the beauty  Purī’s  became  delight
+w: His  by the sweet words  went away  hunger and thirst
+tr: Purī was delighted by the boy’s beauty, and at His sweet words his hunger and thirst vanished.
+fn: *Amṛta-pravāha-bhāṣya*: *bhoga-śoṣa* — the desire to eat.
+
+## 27
+w: Purī  said  who  You  where  Your  dwelling
+w: how  did You know  I  keep  a fast
+tr: Purī said, “Who are You? Where do You live? How did You know that I was fasting?”
+
+## 28
+w: the boy  said  a cowherd  I  in this  village  live
+w: My  in the village  anyone  not  remains  fasting
+tr: The boy said, “I am a cowherd and live in this village. In My village no one goes hungry.
+fn: Heading in the edition: “The boy hides who He is”.
+
+## 29
+w: some  food  begging  eat  some  live on milk
+w: to one who does not beg  I  give  indeed  food
+tr: Some beg for food and eat, and some live on milk; but to one who does not beg I Myself give food.
+
+## 30
+w: water  to fetch  the women  you  seeing  went
+w: the women  milk  giving  Me  sent
+tr: The women who came to fetch water saw you, and they have given Me milk and sent Me to you.
+
+## 31
+w: cow-milking  to do  I want  quickly  I  shall go
+w: again  coming  I  this  pot  shall take
+tr: I must go now to milk the cows, but I will come back and take this pot.”
+
+## 32
+w: this  saying  went  the boy  not  was seen  any more
+w: Mādhava Purī’s  in the heart  arose  wonder
+tr: Saying this, the boy went away and was seen no more, and Mādhava Purī’s heart was filled with wonder.
+fn: Heading in the edition: “Having given the milk, the boy disappears”.
+
+## 33
+w: milk  drinking  having done  the pot  washing  set aside
+w: the path  he watches  that  boy  again  not  came
+tr: He drank the milk, washed the pot and set it aside. He kept watching the path, but the boy did not come back.
+fn: *Amṛta-pravāha-bhāṣya*: *bāṭa* — the path, a word of the language of Utkala.
+
+## 34
+w: sitting  the Name  takes  Purī  no  sleep  comes
+w: at the end  of the night  a trance  came  of the outward senses  the stilling
+tr: Purī sat chanting the Name, and no sleep came to him. At the end of the night a trance came over him, and his outward senses were stilled.
+fn: *Anubhāṣya*: *bāhya-vṛtti-laya* — he was absorbed in the *samādhi* of bhakti; this was not ordinary sleep.
+
+## 35
+w: in a dream  he sees  that  boy  before him  coming
+w: to a  grove  taking  went  by the hand  holding
+tr: In a dream he saw that same boy come before him, take him by the hand and lead him into a grove.
+
+## 36
+w: the grove  showing  He says  I  in this  grove  stay
+w: from cold, rain, wind and heat  great suffering  I get
+tr: Showing him the grove, He said, “I stay in this grove, and I suffer greatly from cold and rain, wind and heat.
+
+## 37
+w: of the village  the people  bringing  Me  take out  the grove  from
+w: on top of the hill  taking  keep  properly
+tr: Bring the people of the village and take Me out of the grove. Carry Me up the hill and keep Me there properly.
+fn: *Amṛta-pravāha-bhāṣya*: *kāḍha* — take out; *maṭha* — a temple.
+
+## 38
+w: a  temple  making  there  do  installation
+w: with much  cool  water  do  of the holy body  bathing
+tr: Build a temple there and install Me in it, and bathe My body with plenty of cool water.
+
+## 39
+w: for many days  your  path  I do  watching
+w: when  coming  Mādhava  Me  will do  service
+tr: For many days I have been watching the path for you, wondering when Mādhava would come and serve Me.
+fn: Heading in the edition: “Bhagavān waits for His devotee”.
+
+## 40
+w: your  conquered by love  making  of service  acceptance
+w: darśana  giving  I shall deliver  all  the world
+tr: Conquered by your love, I shall accept your service, and by giving My darśana I shall deliver the whole world.
+
+## 41
+w: Śrī Gopāla  name  My  the Holder of Govardhana
+w: by Vajra  installed  I  here  the master
+tr: My name is Śrī Gopāla; I am the Holder of Govardhana. I was installed by Vajra, and I am the master here.
+fn: *Amṛta-pravāha-bhāṣya*: Vajra was the son of Aniruddha, Śrī Kṛṣṇa’s grandson; the Pāṇḍavas brought him from Dvārakā and made him king in Mathurā, and Śrī Gopāla, the Holder of Govardhana, is one of the Deities he installed.
+
+## 42
+w: the top of the hill  from  Me  in the grove  hiding
+w: of the mlecchas  out of fear  servant  My  went  fleeing
+tr: In fear of the *mlecchas* My servant brought Me down from the top of the hill, hid Me in this grove and fled.
+
+## 43
+w: that  since  stay  I  in this  grove
+w: good  have come  you  Me  take out  carefully
+tr: Since then I have stayed in this grove. It is good that you have come; take Me out carefully.”
+
+## 44
+w: this  saying  that  boy  disappeared
+w: waking  Mādhava Purī  reflection  made
+tr: Saying this, the boy disappeared. Mādhava Purī woke up and began to reflect.
+
+## 45
+w: Śrī Kṛṣṇa  saw  I  could not  recognise
+w: this  saying  in the rapture of love  fell  to the ground
+tr: “I saw Śrī Kṛṣṇa, but I could not recognise Him!” Saying this, he fell to the ground, overwhelmed with love.
+
+## 46
+w: for a while  weeping  doing  mind  made  steady
+w: the order’s fulfilment  for the sake of  became  composed
+tr: He wept for a while, then steadied his mind and became composed in order to carry out the command.
+
+## 47
+w: morning bath  taking  Purī  into the village  went
+w: all  people  together  gathering  to speak  began
+tr: After his morning bath Purī went into the village, gathered all the people together and said:
+fn: *Anubhāṣya* (to verses 47–169): all this effort is for Kṛṣṇa’s pleasure; it is not an attempt to enjoy material objects.
+
+## 48
+w: of the village  the Lord  your  the Holder of Govardhana
+w: in the grove  He is  come  Him  out  then  let us bring
+tr: “The Lord of your village, the Holder of Govardhana, is in the grove. Come, let us bring Him out.
+
+## 49
+w: axes  spades  take  a way  to make
+w: very  dense  the grove  we cannot  enter
+tr: Take axes and spades to clear a way, for the grove is so dense that we cannot get in.”
+
+## 50
+w: hearing  the people  him  with  went  joyfully
+w: the grove  cutting  a way  making  made  entry
+tr: Hearing this, the people joyfully went with him. Cutting through the thicket, they made a way and entered.
+
+## 51
+w: the Deity  they saw  with earth and grass  covered
+w: seeing  all  people  became  with joy  amazed
+tr: They found the Deity covered with earth and grass, and at the sight all the people were amazed and overjoyed.
+
+## 52
+w: the covering  away  putting  made  visible
+w: very heavy  the Deity  no one  could  move
+tr: They cleared away the covering and the Deity came into view. He was immensely heavy, and no one could move Him.
+
+## 53
+w: very very strong  men  together  gathering
+w: to the top of the hill  went  Purī  the Deity  taking
+tr: Gathering the very strongest men, Purī took the Deity up to the top of the hill.
+
+## 54
+w: of stone  on a throne  the Deity  they seated
+w: big  one  stone  behind  as support  they gave
+tr: They seated the Deity on a throne of stone, and set a large stone behind Him for support.
+
+## 55
+w: of the village  the brāhmaṇas  all  new  pots  taking
+w: of Govinda-kuṇḍa  water  brought  straining
+tr: All the brāhmaṇas of the village took new pots and brought water from Govinda-kuṇḍa, straining it.
+fn: *Nava* here means “new” (cf. *nava-pātre*, 65; *nava-vastra*, 72, 81); the nine hundred pots are in verse 56.
+
+## 56
+w: nine  hundred pots  of water  made  brought
+w: various  instruments and drums  sound  the women  sing  songs
+tr: Nine hundred pots of water were brought. Instruments and drums of every kind resounded, and the women sang.
+
+## 57
+w: some  sing  some  dance  a great festival  there was
+w: yogurt  milk  ghee  came  in the village  as much as  there was
+tr: Some sang and some danced; it became a great festival. All the yogurt, milk and ghee in the village was brought.
+
+## 58
+w: foodstuffs for the offering  came  sandeśa and the rest  all
+w: various  gifts  them  to describe  can I  how many
+tr: Foodstuffs for the offering came, *sandeśa* and every other sweet, and gifts of so many kinds that I cannot describe them all.
+
+## 59
+w: tulasī  and so on  flowers  cloth  came  in abundance
+w: himself  Mādhava Purī  performed  the abhiṣeka
+tr: Tulasī, flowers and cloth came in abundance, and Mādhava Purī himself performed the bathing ceremony (*abhiṣeka*).
+
+## 60
+w: the dirt of the body  away  removing  had Him  bathed
+w: much  oil  applying  made  the holy body  glossy
+tr: Removing the dirt from His body, he bathed Him, and with plenty of oil he made the holy body glisten.
+fn: The Gauḍīya Maṭha edition reads *aṅgamalā*, “the dirt of the body”; another reading is *amaṅgalā*, “what is inauspicious”. *Anubhāṣya*: following the *Hari-bhakti-vilāsa*, the dirt is removed by rubbing with pulse flour and with brushes, and then the Lord is carefully anointed with fine fragrant oils (*abhyaṅga*).
+
+## 61
+w: with pañca-gavya  with pañcāmṛta  bath  giving
+w: the great bath  he performed  hundred  pots  giving
+tr: He bathed Him with *pañca-gavya* and *pañcāmṛta*, and then performed the great bath (*mahā-snāna*) with a hundred pots of water.
+fn: *Amṛta-pravāha-bhāṣya*: *pañca-gavya* — milk, yogurt, ghee, cow’s urine and cow dung; *pañcāmṛta* — yogurt, milk, ghee, honey and sugar. *Anubhāṣya*: according to the *Hari-bhakti-vilāsa*, in the *mahā-snāna* the Deity is bathed with ghee, two thousand *palas* each of ghee and of water.
+
+## 62
+w: again  oil  applying  made  the holy body  glossy
+w: with fragrant water from a conch  made  of the bath  completion
+tr: Again he made the holy body glisten with oil, and completed the bath with fragrant water poured from a conch.
+fn: *Amṛta-pravāha-bhāṣya*: *śaṅkha-gandhodaka* — water poured into a conch and made fragrant with flowers and sandal.
+
+## 63
+w: the holy body  wiping  having done  cloth  dressed
+w: sandal  tulasī  flower garlands  on the body  placed
+tr: Wiping the holy body dry, he dressed Him and adorned His body with sandal paste, tulasī and garlands of flowers.
+
+## 64
+w: incense  lamp  offering  various  foods  offered
+w: yogurt, milk, sandeśa and the rest  whatever  all  had come
+tr: After offering incense and a lamp, he offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
+
+## 65
+w: fragrant  water  in new vessels  offered
+w: ācamana  giving  then  tāmbūla  offered
+tr: He offered fragrant water in new vessels, and after giving water to rinse the mouth (*ācamana*), he offered betel (*tāmbūla*).
+
+## 66
+w: ārati  performing  made  many  prayers
+w: prostration  making  made  self-surrender
+tr: After the *ārati* he offered many prayers, and falling flat like a rod, he surrendered himself.
+
+## 67
+w: of the village  all the  rice  dāl  wheat flour
+w: all  bringing  they gave  the hill  became  full
+tr: All the rice, *dāl* and wheat flour in the village was brought and given, until the hilltop was full.
+
+## 68
+w: of the potters  in the houses  were  which  earthen pots
+w: all  had brought  in the morning  began  cooking
+tr: All the earthen pots in the potters’ houses were brought, and in the morning the cooking began.
+
+## 69
+w: ten brāhmaṇas  rice  cooking  make  a  heap
+w: five people  cook  vegetables and the rest  various  soups
+tr: Ten brāhmaṇas cooked rice and piled it into a great heap, while some five others cooked vegetable dishes and many kinds of soup.
+fn: *Anubhāṣya* (to verses 69–75): here we see how skilled the author, Śrīla Kavirāja Gosvāmī, is in every kind of cooking.
+
+## 70
+w: wild  from greens, fruits and roots  various  vegetable dishes
+w: some  baḍā, baḍi and kaḍi  make  the brāhmaṇas
+tr: From wild greens, fruits and roots they made dishes of every kind, and some of the brāhmaṇas made *baḍā*, *baḍi* and *kaḍi*.
+
+## 71
+w: people  five  seven  flatbreads  make  heaps  upon heaps
+w: rice and vegetables  all  remain  in ghee  floating
+tr: Five or seven people made flatbreads (*ruṭi*) in heaps upon heaps, and all the rice and vegetables were swimming in ghee.
+
+## 72
+w: new cloth  spreading  on it  of palāśa  leaves
+w: cooking  cooking  on it  on top  a heap  made  the rice
+tr: They spread new cloth and laid *palāśa* leaves on it, and as the rice was cooked, they heaped it up on top.
+
+## 73
+w: its  beside  of heaped flatbreads  a mountain  there was
+w: of soups and other vegetable dishes  the pots  all around  they placed
+tr: Beside it rose a mountain of flatbreads, and pots of soup and vegetables were set all around.
+
+## 74
+w: its  beside  yogurt  milk  buttermilk  śikhariṇī
+w: sweet rice  fresh butter  cream  beside  placing  having brought
+tr: Beside them they brought and set out yogurt, milk, buttermilk, *śikhariṇī*, sweet rice, fresh butter and cream.
+fn: *Amṛta-pravāha-bhāṣya*: *māṭhā* — buttermilk; *śikhariṇī* is made by mixing yogurt, milk, sugar, camphor and pepper; *mathani* — fresh butter (*navanīta* and *haiyaṅgava*).
+
+## 75
+w: in this way  the Annakūṭa  made  arrangement
+w: Purī Gosāñi  to Gopāla  made  offering
+tr: In this way the Annakūṭa, the mountain of food, was arranged, and Purī Gosāñi offered it to Gopāla.
+fn: *Anubhāṣya*: *annakūṭa* — a mountain of rice (*anna*); *kūṭa* — a fort, a peak, a mountain.
+
+## 76
+w: many  pots  filling  gave  fragrant  water
+w: of many days  from hunger  Gopāla  ate  everything
+tr: Many pots were filled with fragrant water and offered, and Gopāla, hungry after so many days, ate everything.
+
+## 77
+w: although  Gopāla  all  rice and vegetables  ate
+w: His  by the touch of the hand  again  as before  it became
+tr: Although Gopāla ate all the rice and vegetables, by the touch of His hand everything became full again, just as before.
+fn: Heading in the edition: “Though Gopāla ate all the offering, at the touch of His hand everything became full again”.
+
+## 78
+w: this  perception  had  Mādhava Gosāñi
+w: from him  of Gopāla  hidden  anything  is not
+tr: Mādhava Gosāñi perceived this, for nothing of Gopāla’s is hidden from him.
+fn: Heading in the edition: “The pastimes of Bhagavān are open only to the devotee”. *Anubhāṣya*: see Ādi 3.86–89.
+
+## 79
+w: of one day  by the preparation  such  a festival  held
+w: by Gopāla’s power  it happens  others  not  knew
+tr: Such a festival was held after only a single day’s preparation. It came about by Gopāla’s power, but no one else knew it.
+
+## 80
+w: ācamana  giving  offered  of betel rolls  a store
+w: ārati  performed  the people  cry  jaya  jaya
+tr: After giving water to rinse the mouth, he offered a store of betel rolls; then he performed *ārati*, and the people cried, “Jaya! Jaya!”
+fn: *Amṛta-pravāha-bhāṣya*: *viḍaka* — rolls of betel; *sañcaya* — a store.
+
+## 81
+w: a bed  had made  new  cot  having brought
+w: new  cloth  bringing  on it  on top  spreading
+tr: He had a bed prepared: a new cot was brought, and new cloth was spread over it.
+fn: The Gauḍīya Maṭha edition reads *nūtana*.
+
+## 82
+w: grass screens  with  four  sides  enclosed
+w: above  one  screen  putting  covered
+tr: The four sides were enclosed with screens of grass, and one screen was placed on top as a roof.
+
+## 83
+w: Purī Gosāñi  order  gave  to all  the brāhmaṇas
+w: from children to the old  of the village  the people  make eat
+tr: Purī Gosāñi told all the brāhmaṇas, “Feed all the people of the village, from the children to the old.”
+
+## 84
+w: all  sitting  in turn  in turn  meal  had
+w: the brāhmaṇas and their wives  first  they fed
+tr: Everyone sat down and ate in turn; the brāhmaṇas and their wives were fed first.
+
+## 85
+w: of other  villages  the people  all who  to see  came
+w: Gopāla  seeing  they too  prasāda  received
+tr: Everyone who came from other villages to look on saw Gopāla and received *prasāda* as well.
+
+## 86
+w: seeing  Purī’s  power  the people  amazed
+w: former  Annakūṭa  as if  became  visible
+tr: Seeing Purī’s power, the people were amazed: it was as if the Annakūṭa of old had come before their eyes.
+fn: *Anubhāṣya*: the Annakūṭa of old — at the end of the Dvāpara-yuga, on Śrī Kṛṣṇa’s advice, the cowherds gave up the worship of Indra and honoured the cows, the brāhmaṇas and Govardhana Hill, and Kṛṣṇa, assuming another form and saying “I am the hill”, ate the abundant offerings (Śrīmad-Bhāgavatam, 10.24). *Amṛta-pravāha-bhāṣya*: just such a great Annakūṭa as at that worship of Govardhana Mādhavendra Purī also held.
+
+## 87
+w: all  the brāhmaṇas  Purī  Vaiṣṇavas  made
+w: in this  and that  service  all  engaged
+tr: Purī made all the brāhmaṇas Vaiṣṇavas and engaged each of them in one service or another.
+fn: Heading in the edition: “By Purī’s mercy the brāhmaṇas became Vaiṣṇavas”.
+
+## 88
+w: again  at the end of the day  the Lord’s  had  rising
+w: a little  food  offered  gave  water to drink
+tr: At the close of the day he had the Lord woken again, offered Him a little food and gave Him water to drink.
+
+## 89
+w: Gopāla  has appeared  in the land  the word  spread
+w: of the surrounding villages  the people  to see  came
+tr: The word spread through the land: “Gopāla has appeared!” And people from all the villages around came to see Him.
+
+## 90
+w: each  day  each  village  took  asking
+w: Annakūṭa  hold  all  joyful  becoming
+tr: Each village asked for a day of its own, and all of them joyfully held the Annakūṭa.
+
+## 91
+w: at night  the Deity  having made  lie down
+w: Purī  Gosāñi  took  a little  milk  food
+tr: At night, after putting the Deity to rest, Purī Gosāñi would take a little milk.
+fn: *Anubhāṣya*: *gavya* — milk.
+
+## 92
+w: in the morning  again  likewise  did  service
+w: food  taking  of one  village  came  the people
+tr: In the morning the service went on again in the same way, and the people of another village came, bringing food.
+
+## 93
+w: grain  ghee  yogurt  milk  in the village  as much as  there was
+w: of Gopāla  before  the people  bringing  placed
+tr: The people brought all the grain, ghee, yogurt and milk there was in their village and set it before Gopāla.
+
+## 94
+w: as on the day before  the brāhmaṇas  did  cooking
+w: likewise  Annakūṭa  Gopāla  made  eating
+tr: The brāhmaṇas cooked as on the day before, and Gopāla ate the Annakūṭa in the same way.
+
+## 95
+w: of Vraja  the people’s  for Kṛṣṇa  natural love
+w: Gopāla’s  natural love  for the Vrajavāsīs
+tr: The people of Vraja have a natural love for Kṛṣṇa, and Gopāla has a natural love for the people of Vraja.
+fn: Heading in the edition: “The natural love of the people of Vraja and Kṛṣṇa for one another”.
+
+## 96
+w: mahā-prasāda  ate  coming  all  the people
+w: Gopāla  seeing  of all  are dispelled  sorrow and grief
+tr: Everyone came and ate the *mahā-prasāda*, and seeing Gopāla, they were all freed from sorrow and grief.
+
+## 97
+w: surrounding  of the land of Vraja  as many  people  all
+w: one  by one  day  all  hold  a great festival
+tr: All the people of the surrounding land of Vraja held the great festival, each on a day of their own.
+
+## 98
+w: Gopāla’s appearance  hearing  various  lands  from
+w: various  goods  bringing  people  began  to come
+tr: Hearing that Gopāla had appeared, people began to come from many lands, bringing all kinds of gifts.
+
+## 99
+w: of Mathurā  the people  all  great  great  rich
+w: devotion  with  various  goods  as gifts  give  bringing
+tr: The people of Mathurā, all of them very wealthy, brought many kinds of things and offered them with devotion.
+
+## 100
+w: gold  silver  cloth  fragrances  gifts of food
+w: countless  come  daily  grew  the storehouse
+tr: Gold, silver, cloth, fragrances and gifts of food came in countless numbers, and the storehouse grew day by day.
+
+## 101
+w: one  very wealthy  kṣatriya  had built  a temple
+w: someone  kitchen and storehouse  made  someone  indeed  a wall
+tr: A very wealthy *kṣatriya* had a temple built; someone built the kitchen and storehouse, and someone else the surrounding wall.
+
+## 102
+w: each  Vrajavāsī  one each  cow  gave
+w: ten thousand  cows  Gopāla’s  became
+tr: Every Vrajavāsī gave a cow, and Gopāla came to have ten thousand cows.
+
+## 103
+w: Gauḍa  from  came  two  renounced  brāhmaṇas
+w: Purī Gosāñi  kept  them  showing  care
+tr: Two renounced brāhmaṇas came from Gauḍa, and Purī Gosāñi kept them with him, caring for them affectionately.
+fn: Heading in the edition: “Purī shows mercy to two renounced brāhmaṇas and entrusts the service to them”.
+
+## 104
+w: those  two  disciples  making  service  entrusted
+w: royal service  takes place  Purī’s  joy  grew
+tr: He made those two his disciples and entrusted the service to them. The Deity was now served in royal style, and Purī’s joy grew.
+
+## 105
+w: in this way  years  two  did  service
+w: one day  Purī Gosāñi  saw  a dream
+tr: In this way he served for two years. Then one day Purī Gosāñi had a dream.
+
+## 106
+w: Gopāla  says  Purī  My  heat  not  goes away
+w: Malaya sandalwood  smear  then  it  will cool
+tr: Gopāla said, “Purī, My heat does not go away. Smear Me with sandalwood from the Malaya hills, and then it will be cooled.
+fn: *Anubhāṣya*: *malayaja* — born in the land of Malaya (Malabar, the southern part of the Western Ghats, also called Candana-giri, “the sandal mountain”); the word *malayaja* also means sandalwood itself. Heading in the edition: “In a dream Gopāla tells Purī that He wants sandal”.
