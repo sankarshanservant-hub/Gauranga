@@ -8,7 +8,7 @@
 | śatāha-gamya | a hundred days’ journey away | 5.1 |
 | yājapura, varāha-ṭhākura | Yājapura; the Deity of Varāha | 5.3–4 |
 | kaṭaka | Kaṭaka | 5.5, 5.8, 5.123–124, 5.133 |
-| vidyānagara | Vidyānagara (in Orissa, not the one on the Godāvarī) | 5.10, 5.119 |
+| vidyānagara | Vidyānagara (on the southern bank of the Godāvarī, per the *Anubhāṣya* to 5.119) | 5.10, 5.119 |
 | vana-yātrā, dvādaśa-vana | the pilgrimage through the forests (of Vraja); the twelve forests | 5.12 |
 | keśī-tīrtha, kāliya-hrada | Keśī-tīrtha, Kāliya-hrada | 5.14 |
 | baḍa-vipra, choṭa-vipra, laghu-vipra | the elder brāhmaṇa; the younger brāhmaṇa | 5.16 ff. |

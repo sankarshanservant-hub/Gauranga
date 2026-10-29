@@ -1,0 +1,800 @@
+# English translation, Madhya-līlā 7 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya07.txt), revised against the Bengali and the «Anubhāṣya».
+
+## 0
+tr: The Journey to the South: The Deliverance of Vāsudeva
+
+
+## 1
+w: blessed  that  I praise  Caitanya
+w: Vāsudeva  His mind melting with compassion
+w: cured of leprosy  filled with beauty
+w: satisfied in devotion  made  who
+tr: I praise that blessed Caitanya who, His heart melting with compassion, cured Vāsudeva of leprosy, filled him with beauty and made him content in devotion.
+fn: Heading in the edition: “Obeisance to the Lord, ‘Vāsudevāmṛta-prada’” (the Giver of nectar to Vāsudeva; see verse 150).
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
+
+## 3
+w: in this way  of Sārvabhauma  the deliverance  He accomplished
+w: for going south  of the Lord  the desire  arose
+tr: Having thus delivered Sārvabhauma, the Lord felt the desire to go to the south.
+
+## 4
+w: in the bright fortnight of Māgha  the Lord  took  sannyāsa
+w: in Phālguna  coming  made  in Nīlācala  His residence
+tr: The Lord accepted sannyāsa in the bright fortnight of Māgha, and in Phālguna He came to live in Nīlācala.
+
+## 5
+w: of Phālguna  at the end  the Dola-yātrā  He  saw
+w: absorbed in love  many kinds of  dancing and singing  He did
+tr: At the end of Phālguna He saw the Dola-yātrā festival and, absorbed in love, danced and sang in many ways.
+
+## 6
+w: in Caitra  staying  He made  Sārvabhauma’s deliverance
+w: of Vaiśākha  at the beginning  south  to go  arose  the wish
+tr: Staying on through Caitra, He delivered Sārvabhauma; and at the beginning of Vaiśākha He resolved to go south.
+
+## 7
+w: His own associates  bringing  He speaks  humility  showing
+w: embrace  making  all  with His divine hands  holding
+tr: He called His associates together, embraced them all, took them by the hand and humbly spoke to them.
+
+## 8
+w: you all  know  I  dearer than life  as
+w: life  leaving  may go  you all  to leave  not  I can
+tr: “I know all of you to be dearer to Me than life itself. My life may leave Me, but I cannot leave you.
+
+## 9
+w: you all  friends  My  a friend’s duty  you have done
+w: here  bringing  to Me  Jagannātha  you have shown
+tr: You are My friends, and you have done a friend’s duty: you brought Me here and showed Me Jagannātha.
+
+## 10
+w: now  from all  I  beg  one  gift
+w: all  together  permission  give  I shall go  south
+tr: Now I beg one gift from all of you: give Me your permission together, and I shall go south.
+
+## 11
+w: in search of Viśvarūpa  certainly  I  shall go
+w: alone  I shall go  anyone  with (Me)  not  I shall take
+tr: I must certainly go in search of Viśvarūpa. I shall go alone and take no one with Me.
+fn: Heading in the edition: the Lord wishes to go alone, so that under the pretext of searching for His elder brother Viśvarūpa He may deliver the south.
+
+## 12
+w: Setubandha  from  I  not  return  until
+w: in Nīlācala  you all  will stay  so long
+tr: Until I return from Setubandha, all of you should stay here in Nīlācala.”
+
+## 13
+w: Viśvarūpa’s  perfection  attainment  He knows  all
+w: the southern  country  to deliver  He makes  this  pretext
+tr: The all-knowing Lord knew that Viśvarūpa had already attained perfection; He made this pretext only to deliver the southern country.
+fn: *Amṛta-pravāha-bhāṣya*: Mahāprabhu knew well that Viśvarūpa had attained perfection (*siddhi*) long before; He only pretended to go in search of him in order to deliver the south. *Anubhāṣya*: see Madhya 9.299–300.
+
+## 14
+w: hearing  of all  in the minds  arose  great sorrow
+w: silent  became  all  withered  the faces
+tr: Hearing this, everyone was stricken with great sorrow. All fell silent, and their faces withered.
+
+## 15
+w: Nityānanda Prabhu  says  so  how  can it be
+w: alone  will go  You  who  this  can bear
+tr: Nityānanda Prabhu said, “How can this be? You will go alone — who could bear it?
+
+## 16
+w: one or two  with (You)  let go  not  fall  into the hands of rogues
+w: whom  You say  those two  let go  You  with
+tr: Let one or two go with You, so that You do not fall into the hands of rogues — any two You choose.
+fn: *Anubhāṣya*: *haṭha-raṅge* — “into the clutches of a cheat or swindler”.
+
+## 17
+w: of the south  the routes to the holy places  I  all  know
+w: I  with (You)  go  Prabhu  permission  give  You
+tr: I know all the routes to the holy places of the south. Let Me go with You, Prabhu — give Me Your permission.”
+
+## 18
+w: the Lord  says  I  a dancer  You  the puppeteer
+w: You  as  make dance  so  the dancing  My
+tr: The Lord replied, “I am a dancer and You are the puppeteer. As You make Me dance, so I dance.
+fn: Heading in the edition: under the guise of feigned reproach the Lord glorifies the qualities of Nityānanda, Jagadānanda, Dāmodara and others.
+
+## 19
+w: sannyāsa  having taken  I  set out  for Vṛndāvana
+w: You  Me  taking  brought  to Advaita’s house
+tr: After taking sannyāsa I set out for Vṛndāvana, but You led Me instead to Advaita’s house.
+
+## 20
+w: to Nīlācala  coming  on the way  You broke  My  daṇḍa
+w: of you all  by the deep affection  My  work  is hindered
+tr: On the way to Nīlācala You broke My daṇḍa. The deep affection all of you bear for Me hinders My work.
+
+## 21
+w: Jagadānanda  wants  Me  sense objects  to make enjoy
+w: whatever  he says  that  out of fear  I try  to do
+tr: Jagadānanda wants Me to enjoy worldly comforts, and whatever he says, I try to do out of fear.
+
+## 22
+w: ever  if  his  word  I make  otherwise
+w: in anger  three  days  to Me  not  he speaks  a word
+tr: If ever I go against his word, he is angry with Me and does not speak to Me for three days.
+
+## 23
+w: Mukunda  becomes  unhappy  seeing  the duties of sannyāsa
+w: three times  in the cold  bathing  on the ground  lying
+tr: Mukunda is unhappy to see the duties of My sannyāsa: bathing three times a day even in the cold, and sleeping on the bare ground.
+
+## 24
+w: within  unhappy  Mukunda  not  he says  with his mouth
+w: his  unhappiness  seeing  My  twofold  becomes  unhappiness
+tr: Mukunda grieves within but says nothing; and seeing his grief, I grieve twice as much.
+
+## 25
+w: I  indeed  a sannyāsī  Dāmodara  a brahmacārī
+w: always  he stays  Me  over  the rod of instruction  holding
+tr: I am a sannyāsī and Dāmodara a brahmacārī, yet he always stands over Me with the rod of instruction.
+fn: *Anubhāṣya*: a sannyāsī is the guru of a brahmacārī, so it is not fitting for a brahmacārī to instruct a sannyāsī.
+
+## 26
+w: him  before  I  not  know  proper conduct
+w: to him  not  is pleasing  independent  nature  My
+tr: In his eyes I know nothing of proper conduct, and My independent ways do not please him.
+
+## 27
+w: regard for people  not  his  Kṛṣṇa’s mercy  by
+w: I  regard for people  ever  not  can  give up
+tr: By Kṛṣṇa’s mercy he cares nothing for what people think; but I can never give up regard for what people think.
+
+## 28
+w: therefore  you all  stay  in Nīlācala
+w: days  some  I  holy places  shall wander  alone
+tr: Therefore all of you stay in Nīlācala, while for some time I wander alone to the holy places.”
+
+## 29
+w: of these all  controlled  the Lord  becomes  by which  qualities
+w: of fault-finding  under the pretext  He does  of qualities  relishing
+tr: The Lord is controlled by the very qualities of these devotees, and under the pretext of finding fault with them He relished their virtues.
+fn: The Gauḍīya Maṭha edition reads *doṣāropa-chale*. *Anubhāṣya*: the very qualities by which the Lord was controlled He deliberately called “faults”, and so made known the greatness of His devotees.
+
+## 30
+w: Caitanya’s  affection for His devotees  indescribable
+w: Himself  the hardships of renunciation  He does  endure
+tr: Caitanya’s affection for His devotees is beyond words. He Himself endures the hardships of renunciation.
+
+## 31
+w: that  hardship  seeing  which  devotee  pain  feels
+w: that  pain  His  by power  to bear  not  is possible
+tr: But when a devotee is pained to see those hardships, that pain He has no power to bear.
+
+## 32
+w: virtues  speaking of faults  under the pretext  all  forbidding
+w: alone  He will wander  holy places  renunciation  practising
+tr: So, under the pretext of declaring their virtues to be faults, He forbade them all, intending to wander alone to the holy places in strict renunciation.
+
+## 33
+w: then  the four persons  much  pleading  made
+w: independent  Lord  the Lord  at all  not  accepted
+tr: Then the four devotees pleaded with Him at length, but the Lord, independent and supreme, would not consent.
+
+## 34
+w: then  Nityānanda  says  whatever  order  Your
+w: sorrow  happiness  whatever  may be  duty  My
+tr: Then Nityānanda said, “Whatever You order is My duty, whether it brings sorrow or happiness.
+
+## 35
+w: but  one  request  I make  once  more
+w: consideration  making  it  make  acceptance
+tr: But I make one more request: consider it, and then accept it.
+
+## 36
+w: kaupīna  outer cloth  and  water pot
+w: other  anything  not  will go  all  this  only
+tr: A kaupīna, an outer cloth and a water pot — nothing else will go with You; that is all.
+
+## 37
+w: Your  two  hands  bound  in counting the names
+w: water pot  outer cloth  You will carry  how
+tr: Both Your hands are occupied in counting the holy names. How will You carry the water pot and the outer cloth?
+
+## 38
+w: absorbed in love  on the way  You  will be  unconscious
+w: these all  things  Your  who  will make  safekeeping
+tr: On the way You will fall unconscious in the ecstasy of love. Who will look after these things of Yours then?
+
+## 39
+w: ‘Kṛṣṇadāsa’  by name  this  simple  brāhmaṇa
+w: him  with (You)  making  take  accept  the request
+tr: Here is a simple brāhmaṇa named Kṛṣṇadāsa. Please take him with You — grant My request.
+fn: *Anubhāṣya*: this brāhmaṇa, Kālā Kṛṣṇadāsa, is not the Kālā Kṛṣṇadāsa of Ādi 11.37 (an eternal friend from Vraja, one of the twelve gopālas); this brāhmaṇa later went to Gauḍa (Madhya 10.62–74).
+
+## 40
+w: the water pot and cloth  carrying  with You  he will go
+w: whatever  Your  wish  do  anything  not  he will say
+tr: He will go with You and carry the water pot and the cloth. Do whatever You wish; he will say nothing.”
+
+## 41
+w: then  His  words  the Lord  making  acceptance
+w: them all  taking  went  to Sārvabhauma’s house
+tr: The Lord then accepted His words and, taking them all along, went to Sārvabhauma’s house.
+
+## 42
+w: bowing  Sārvabhauma  seats  offered
+w: all  meeting  then  on a seat  sat
+tr: Sārvabhauma bowed down and offered them seats; then, after greeting everyone, he sat down.
+
+## 43
+w: various  talks of Kṛṣṇa  the Lord  spoke  to him
+w: to you  I have come  permission  to ask
+tr: The Lord spoke with him of Kṛṣṇa in many ways and then said, “I have come to you to ask your permission.
+
+## 44
+w: sannyāsa  having taken  Viśvarūpa  has gone  south
+w: certainly  I shall make  I  his  search
+tr: Viśvarūpa took sannyāsa and went to the south, and I must go in search of him.
+
+## 45
+w: permission  give  certainly  I  south  shall go
+w: by your  permission  safely  turning back  I shall come
+tr: Give Me permission, for I must go to the south. With your permission I shall come back safely.”
+fn: *Anubhāṣya*: *leuṭi* — the western (Hindi) word *lauṭ*, “returning”.
+
+## 46
+w: hearing  Sārvabhauma  became  extremely  distressed
+w: the feet  clasping  he speaks  a sorrowful reply
+tr: Hearing this, Sārvabhauma was deeply distressed. Clasping the Lord’s feet, he replied sorrowfully,
+
+## 47
+w: of many births  by the fruit of piety  I obtained  Your  company
+w: such company  Providence  my  has made  broken
+tr: “By the piety of many births I obtained Your company, and now Providence is breaking it off.
+
+## 48
+w: on the head  a thunderbolt  falls  if  a son  dying  goes
+w: that  I bear  Your  separation  to bear  not  is possible
+tr: If a thunderbolt struck my head or my son died, I could bear it; but separation from You I cannot bear.
+
+## 49
+w: the independent Lord  You  will make  departure
+w: a few days  stay  let me see  Your  feet
+tr: You are the independent Lord, and You will go. But stay a few days, so that I may see Your feet.”
+
+## 50
+w: his  by humility  of the Lord  softened  became  the heart
+w: He stayed  a few days  not  made  departure
+tr: His humble plea softened the Lord’s heart, and He stayed on a few days instead of leaving.
+
+## 51
+w: the Bhaṭṭācārya  insistence  making  makes  invitation
+w: at home  cooking  doing  the Lord  makes take  the meal
+tr: The Bhaṭṭācārya insistently invited Him, had food cooked at home and fed the Lord.
+
+## 52
+w: his  brāhmaṇa wife  her  name  ‘Ṣāṭhī’s mother’
+w: having cooked  alms  gives  she  wonderful  her  story
+tr: His wife, known as “Ṣāṭhī’s mother”, cooked and served the Lord His meals. Her story is a wonderful one.
+fn: Her story is told in Madhya 15 (Ṣāṭhī, Sārvabhauma’s daughter, and her husband Amogha).
+
+## 53
+w: later  indeed  I shall tell  that  making  in detail
+w: now  I tell  the Lord’s  southern journey  the account
+tr: I shall tell it in detail later on; now I tell the account of the Lord’s journey to the south.
+
+## 54
+w: days  five  staying  the Lord  at the Bhaṭṭācārya’s place
+w: for going  permission  asked  Himself
+tr: After staying five days with the Bhaṭṭācārya, the Lord Himself asked permission to set out.
+
+## 55
+w: by the Lord’s  insistence  the Bhaṭṭa  consenting  became
+w: the Lord  him  taking  to the temple of Jagannātha  went
+tr: At the Lord’s insistence the Bhaṭṭācārya consented, and the Lord took him to the temple of Jagannātha.
+
+## 56
+w: darśana  having had  from the Deity  permission  He asked
+w: the priest  to the Lord  the garland-prasāda  bringing  gave
+tr: After seeing Jagannātha, He asked the Deity for permission, and the priest brought the Lord a garland from the Deity as prasāda.
+
+## 57
+w: permission and garland receiving  joyfully  obeisance  making
+w: in bliss  to the southern land  goes  Gaurahari
+tr: Receiving the permission and the garland, Gaurahari joyfully bowed down and set out in bliss for the south.
+
+## 58
+w: the Bhaṭṭācārya  with  and  all  His own  people
+w: Jagannātha  circumambulation  making  He made  departure
+tr: With the Bhaṭṭācārya and all His own people He walked around Jagannātha’s temple and then departed.
+
+## 59
+w: along the seashore  on the road to Ālālanātha
+w: Sārvabhauma  said  to Gopīnātha Ācārya
+tr: On the road to Ālālanātha along the seashore, Sārvabhauma said to Gopīnātha Ācārya,
+
+## 60
+w: four  kaupīnas and outer cloths  I have kept  at home
+w: them  prasāda  taking  come  by a brāhmaṇa
+tr: “I have kept four sets of kaupīnas and outer cloths at home. Have them brought by a brāhmaṇa, together with prasāda.”
+
+## 61
+w: then  Sārvabhauma  says  at the Lord’s  feet
+w: certainly  You will fulfil  Prabhu  my  request
+tr: Then Sārvabhauma said at the Lord’s feet, “Prabhu, please fulfil my request.
+
+## 62
+w: Rāmānanda Rāya  is  on the bank of the Godāvarī
+w: governor  is  he  in Vidyānagara
+tr: Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor in Vidyānagara.
+
+## 63
+w: as a śūdra and a worldly man  regarding  neglect  not  You will do
+w: by my  word  him  certainly  You will meet
+tr: Do not neglect him, thinking him a śūdra and a worldly man (*viṣayī*). At my request, be sure to meet him.
+
+## 64
+w: of Your  company  worthy  he  the one  person
+w: on earth  rasika  devotee  there is no  his  equal
+tr: He is the one person worthy of Your company. On earth there is no devotee who knows the taste of rasa (*rasika*) to equal him.
+
+## 65
+w: learning  and  the rasa of bhakti  of both  he  the limit
+w: speaking with him  will know  You  his  greatness
+tr: In learning and in the rasa of devotion he has reached the limit of both. When You speak with him, You will know his greatness.
+
+## 66
+w: extraordinary  words  actions  his  not  understanding
+w: mockery  I have made  him  a ‘Vaiṣṇava’  knowing
+tr: Not understanding his extraordinary words and actions, I used to mock him, knowing him to be a Vaiṣṇava.
+
+## 67
+w: by Your  grace  now  I know  his  truth
+w: speaking with him  You will know  his  how  great
+tr: By Your grace I now understand who he truly is. Speak with him, and You will see how great he is.”
+
+## 68
+w: acceptance  making  the Lord  his  words
+w: him  farewell  to give  him  made  an embrace
+tr: The Lord accepted his words and, bidding him farewell, embraced him,
+
+## 69
+w: at home  Kṛṣṇa  worshipping  Me  make  blessings
+w: to Nīlācala  I may come  so that  by your  grace
+tr: saying, “Worship Kṛṣṇa at home and bless Me, so that by your grace I may return to Nīlācala.”
+
+## 70
+w: so  saying  Mahāprabhu  made  departure
+w: unconscious  becoming  there  fell  Sārvabhauma
+tr: With these words Mahāprabhu departed, and Sārvabhauma fell unconscious on the spot.
+
+## 71
+w: him  disregarding  He made  swift  departure
+w: who  to understand  can  of Mahāprabhu  the heart and mind
+tr: Paying no heed to him, the Lord went quickly on His way. Who can understand the heart and mind of Mahāprabhu?
+
+## 72
+w: of great souls  of the heart  the nature  this  is
+w: like a flower  soft  hard  like a thunderbolt
+tr: Such is the nature of the hearts of great souls: they are soft as a flower, and hard as a thunderbolt.
+
+## 73
+w: than a thunderbolt  even  harder
+w: softer  than a flower  even
+w: of those beyond this world  the hearts
+w: who  indeed  to understand  is able
+tr: “Harder than a thunderbolt and softer than a flower are the hearts of those who are beyond this world. Who can understand them?”
+
+## 74
+w: Nityānanda Prabhu  the Bhaṭṭācārya  raised
+w: his  with people  him  home  sent
+tr: Nityānanda Prabhu lifted the Bhaṭṭācārya up and sent him home with his men.
+
+## 75
+w: the devotees  quickly  coming  took  the Lord’s  company
+w: cloth and prasāda  bringing  then  came  Gopīnātha
+tr: The devotees quickly came and joined the Lord, and then Gopīnātha arrived with the cloth and the prasāda.
+
+## 76
+w: with all  the Lord  then  to Ālālanātha  came
+w: obeisance  making  to Him  many prayers  offered
+tr: Then the Lord came with them all to Ālālanātha, bowed down to Him and offered Him many prayers.
+
+## 77
+w: absorbed in love  dancing and singing  He did  for some time
+w: to see  came  there  dwell  as many as  people
+tr: For some time He danced and sang, absorbed in love, and all the people who lived there came to see Him.
+
+## 78
+w: on all sides  all  the people  say  Hari  Hari
+w: absorbed in love  in the middle  dance  does  Gaurahari
+tr: All around Him the people called out, “Hari! Hari!” and in their midst Gaurahari danced, absorbed in love.
+
+## 79
+w: like gold  body  reddish  garment
+w: horripilation, tears, trembling and perspiration  on it  the ornaments
+tr: His body was like gold, His garment the colour of dawn, and horripilation, tears, trembling and perspiration adorned Him.
+
+## 80
+w: seeing  of the people  in the minds  arose  wonder
+w: as many  people  come  anyone  not  goes  home
+tr: The sight filled the people with wonder. Of all who came, no one went home.
+
+## 81
+w: some  dance  some  sing  Śrī Kṛṣṇa  Gopāla
+w: in love  floated  the people  women, the old and children
+tr: Some danced, and some sang, “Śrī Kṛṣṇa! Gopāla!” Everyone, women, old people and children alike, floated in love.
+
+## 82
+w: seeing  Nityānanda  Prabhu  says  to the devotees
+w: in this way  ahead  dancing  there will be  in village after village
+tr: Seeing this, Nityānanda Prabhu said to the devotees, “Further on there will be dancing like this in village after village.”
+
+## 83
+w: much time  passed  the people  leaving  not  go
+w: then  Nityānanda Gosāñi  devised  a means
+tr: Much time had passed, yet the people would not leave. Then Nityānanda Gosāñi devised a plan.
+
+## 84
+w: midday duties  to perform  He went  the Lord  taking
+w: that  seeing  people  come  from all sides  running
+tr: He took the Lord away to perform His midday duties, and at this the people came running from all sides.
+
+## 85
+w: midday duties  to perform  They came  to the temple of the Deity
+w: Their own people  letting in  the doors  shut  at the outer gate
+tr: To perform Their midday duties They came to the temple of the Deity, let Their own people in and shut the outer gate.
+
+## 86
+w: then  the two Lords  Gopīnātha  meal  made take
+w: the Lord’s  remnants  prasāda  all  sharing  ate
+tr: Then Gopīnātha served the two Lords Their meal, and everyone shared and ate the Lord’s remnants.
+
+## 87
+w: hearing  hearing  all the people  coming  to the outer gate
+w: Hari  Hari  saying  the people  clamour  make
+tr: Hearing where He was, all the people came to the outer gate and raised a clamour, crying, “Hari! Hari!”
+
+## 88
+w: then  Mahāprabhu  the door  had  opened
+w: joyfully  coming  the people  obtained  darśana
+tr: Then Mahāprabhu had the door opened, and the people came in joyfully and saw Him.
+
+## 89
+w: in this way  evening  until  people  come  go
+w: Vaiṣṇavas  became  the people  all  dance  sing
+tr: In this way people came and went until evening. They all became Vaiṣṇavas, and they all danced and sang.
+
+## 90
+w: in this way  at that  place  with the devotees
+w: that  night  He spent  in the joy of talks about Kṛṣṇa
+tr: In this way He spent that night there with the devotees, rejoicing in talks about Kṛṣṇa.
+
+## 91
+w: in the morning  bath  having taken  He made  departure
+w: to the devotees  farewell  He gave  making  embraces
+tr: In the morning He bathed and set out, bidding the devotees farewell with embraces.
+
+## 92
+w: unconscious  becoming  all  on the ground  fell
+w: them all  towards  the Lord  turning  not  looked
+tr: They all fell to the ground unconscious, but the Lord did not turn back to look at them.
+
+## 93
+w: in separation  agitated  the Lord  went on  sorrowful  becoming
+w: behind  Kṛṣṇadāsa  goes  the water pot  carrying
+tr: Agitated by the separation, the Lord went on in sorrow, and behind Him came Kṛṣṇadāsa carrying the water pot.
+
+## 94
+w: the devotees  fasting  right there  remained
+w: on the next  day  sorrowful  becoming  to Nīlācala  came
+tr: The devotees stayed there fasting, and the next day they returned to Nīlācala in sorrow.
+
+## 95
+w: like a maddened lion  the Lord  made  departure
+w: absorbed in love  He goes  making  saṅkīrtana of the name
+tr: The Lord went on like a maddened lion, absorbed in love, singing the saṅkīrtana of the holy name:
+
+## 96
+w: Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  O
+w: Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  O
+w: Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  protect  Me
+w: Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  save  Me
+w: Rāma  descendant of Raghu  Rāma  descendant of Raghu  Rāma  descendant of Raghu  protect  Me
+w: Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  save  Me
+tr: “Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Protect Me! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Save Me! Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Protect Me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Save Me!”
+
+## 97
+w: this  verse  reciting  on the road  went  Gaurahari
+w: people  seeing  on the road  He says  say  Hari  Hari
+tr: Reciting this verse, Gaurahari went along the road, and whenever He saw people on the way, He told them, “Say ‘Hari! Hari!’”
+
+## 98
+w: those  people  maddened with love  becoming  say  Hari  Kṛṣṇa
+w: the Lord’s  behind  along  go  thirsting for His sight
+tr: Those people, maddened with love, would call out, “Hari! Kṛṣṇa!” and follow behind the Lord, thirsting to see Him.
+
+## 99
+w: after some time  stopping  the Lord  them  embracing
+w: farewell  made  them  power  transmitting
+tr: After a while the Lord would stop, embrace them, invest them with His power and send them back.
+
+## 100
+w: that person  to his own village  making  return
+w: Kṛṣṇa  saying  laughs  weeps  dances  constantly
+tr: Each of them returned to his own village and constantly laughed, wept and danced, calling, “Kṛṣṇa!”
+
+## 101
+w: whom  he sees  to him  says  say  Kṛṣṇa’s name
+w: in this way  Vaiṣṇava  made  all  his own village
+tr: Whomever he saw, he told, “Say the name of Kṛṣṇa!” In this way he made his whole village Vaiṣṇava.
+
+## 102
+w: from other villages  to see  came  as many as  people
+w: his  by the mercy of darśana  become  his  equal
+tr: All who came from other villages to see him became like him by the mercy of seeing him.
+
+## 103
+w: he  going  of the village  the people  Vaiṣṇava  makes
+w: people of other villages  coming  him  seeing  Vaiṣṇava  become
+tr: Each of these went home and made the people of his own village Vaiṣṇavas, and people from yet other villages came, saw him and became Vaiṣṇavas.
+
+## 104
+w: he  going  in another  village  makes  instruction
+w: in this way  Vaiṣṇava  became  all  the southern country
+tr: They in turn went and taught in other villages, and in this way the whole of the south became Vaiṣṇava.
+
+## 105
+w: in this way  on the road  going  hundreds  hundreds  people
+w: Vaiṣṇava  He makes  them  making  embrace
+tr: In this way, as He travelled, the Lord made Vaiṣṇavas of hundreds upon hundreds of people by embracing them.
+
+## 106
+w: in which  village  staying  alms  He takes  in whose  house
+w: of that  village  all  people  come  to see
+tr: In whichever village He stayed and took His meal in someone’s house, all the people of that village came to see Him.
+
+## 107
+w: by the Lord’s  mercy  they become  mahā-bhāgavatas
+w: all of them  ācāryas  becoming  delivered  the world
+tr: By the Lord’s mercy they became mahā-bhāgavatas, and all of them, becoming ācāryas, delivered the world.
+
+## 108
+w: in this way  He did  until  He went  to Setubandha
+w: all lands  Vaiṣṇava  became  through the Lord’s  connection
+tr: He did this all the way to Setubandha, and through their connection with the Lord all the lands became Vaiṣṇava.
+
+## 109
+w: in Navadvīpa  which  power  not  He made  manifest
+w: that  power  manifesting  He delivered  the southern country
+tr: The power He had not manifested in Navadvīpa He now manifested to deliver the southern country.
+
+## 110
+w: the Lord  who  worships  to him  His  mercy  comes
+w: he  alone  these  all  pastimes  true  making  accepts
+tr: Whoever worships the Lord receives His mercy, and only such a person accepts all these pastimes as true.
+
+## 111
+w: in the extraordinary pastimes  whose  not  is  faith
+w: this world  the next world  his  is  ruin
+tr: Whoever has no faith in these extraordinary pastimes is ruined both in this world and in the next.
+
+## 112
+w: first  I told  the Lord’s  in what manner  journey
+w: in this way  know  as long as  the southern tour
+tr: I have told first how the Lord travelled; know that it was the same throughout His tour of the south.
+
+## 113
+w: in this way  going  going  He went  to Kūrma-sthāna
+w: Kūrma  seeing  He made  to Him  prayers and obeisances
+tr: Travelling on in this way, He came to Kūrma-sthāna. Seeing the Deity of Kūrma, He offered Him prayers and obeisances.
+
+## 114
+w: absorbed in love  laughing  weeping  dancing and singing  He did
+w: seeing  of all  the people  in the hearts  wonder  arose
+tr: Absorbed in love, He laughed and wept, danced and sang, and all who saw it were filled with wonder.
+
+## 115
+w: the wonder  hearing  people  came  to see
+w: the Lord’s  beauty and love  seeing  became  amazed
+tr: Hearing of this wonder, people came to see, and they were amazed at the Lord’s beauty and love.
+
+## 116
+w: by the sight  Vaiṣṇavas  became  say  Kṛṣṇa  Hari
+w: absorbed in love  dance  the people  raised  arms  making
+tr: Just by seeing Him they became Vaiṣṇavas and called out, “Kṛṣṇa! Hari!” Absorbed in love, the people danced with their arms raised.
+
+## 117
+w: Kṛṣṇa’s name  from the mouths of people  hearing  ceaselessly
+w: those  people  Vaiṣṇava  made  other  all  villages
+tr: Having heard the name of Kṛṣṇa ceaselessly from others’ lips, these people in turn made all the other villages Vaiṣṇava.
+
+## 118
+w: in this way  by succession  the land  Vaiṣṇava  became
+w: by the flood of the nectar of Kṛṣṇa’s name  the land  He flooded
+tr: In this way, one from another, the whole land became Vaiṣṇava: He flooded the country with the nectar of Kṛṣṇa’s name.
+
+## 119
+w: after a while  the Lord  when  outward consciousness  showed
+w: of Kūrma  the servant  much  honour  showed
+tr: After some time, when the Lord returned to outward consciousness, the servant of the Deity of Kūrma honoured Him greatly.
+
+## 120
+w: which  village  He goes  there  this  behaviour
+w: in one  place  I have told  not  I shall tell  again
+tr: In every village He went to, it was the same. I have described it here in one place and shall not describe it again.
+
+## 121
+w: ‘Kūrma’  by name  in that  village  a Vedic  brāhmaṇa
+w: great  with faith and devotion  made  the Lord’s  invitation
+tr: In that village a Vedic brāhmaṇa named Kūrma invited the Lord with great faith and devotion.
+
+## 122
+w: home  bringing  the Lord’s  made  feet  washing
+w: that  water  with his family  made  drinking
+tr: He brought the Lord home and washed His feet, and he and his whole family drank that water.
+
+## 123
+w: of many kinds  with affection  meal  made take
+w: Gosāñi’s  prasāda  with his family  ate
+tr: With great affection he fed the Lord many kinds of food, and he and his family ate the Gosāñi’s remnants.
+
+## 124
+w: which  lotus feet  Your  Brahmā  meditation  makes
+w: those  lotus feet  in person  have come  to my  house
+tr: “Your lotus feet, on which Brahmā meditates — those same lotus feet have come in person to my house!
+
+## 125
+w: my  of good fortune  the limit  not  can be  told
+w: today  my  glorious  became  birth, family and wealth
+tr: There is no telling the limit of my good fortune. Today my birth, my family and my wealth have become glorious.
+
+## 126
+w: mercy  show  Prabhu  to me  let me go  with You
+w: to bear  I shall not be able  Your  waves of separation
+tr: Be merciful to me, Prabhu — let me go with You. I shall not be able to bear the waves of separation from You.”
+
+## 127
+w: the Lord  says  such  talk  ever  not  you should say
+w: at home  staying  Kṛṣṇa’s name  constantly  you should take
+tr: The Lord said, “Never speak like that. Stay at home and chant the name of Kṛṣṇa constantly.
+
+## 128
+w: whom  you see  to him  tell  the teaching about Kṛṣṇa
+w: by My  order  guru  becoming  deliver  this  land
+tr: Whomever you see, teach him about Kṛṣṇa. By My order become a guru and deliver this land.
+
+## 129
+w: ever  not  will obstruct  you  the waves of worldly life
+w: again  in this  place  you will get  My  company
+tr: Then the waves of worldly life will never obstruct you, and here, in this very place, you will have My company again.”
+
+## 130
+w: in this way  in whose  house  takes  the Lord  alms
+w: he  likewise  speaks  to him  He gives  this  teaching
+tr: In whatever house the Lord took His meal, the host spoke in the same way, and the Lord gave him this same teaching.
+
+## 131–132
+w: on the road  going  at a temple  He stays  in which  village
+w: in whose  house  alms  He takes  to that  great soul
+w: with Kūrma  as  the custom  so  He did  everywhere
+w: to Nīlācala  again  until  not  came  Gosāñi
+tr: On His way, in whatever village He stayed at a temple, and with whatever great soul in whose house He took His meal, He did as He had done with Kūrma. So He did everywhere, until Gosāñi came back to Nīlācala.
+
+## 133
+w: therefore  here  I have told  making  in detail
+w: in this way  you should know  the Lord’s  everywhere  conduct
+tr: That is why I have described it here in detail; know that this is how the Lord acted everywhere.
+
+## 134
+w: in this way  that  night  right there  He stayed
+w: in the morning  the Lord  bath  having taken  set out
+tr: He stayed there that night, and in the morning, after bathing, the Lord set out.
+
+## 135
+w: the Lord  following  Kūrma  a long  way  came
+w: the Lord  him  with care  home  sent
+tr: Kūrma followed the Lord a long way, until the Lord gently persuaded him to go home.
+
+## 136
+w: ‘Vāsudeva’  by name  a  brāhmaṇa  noble
+w: all over the body  rotting  leprosy  in it  full of worms
+tr: There was a noble brāhmaṇa named Vāsudeva. His whole body was rotting with leprosy and swarming with worms.
+
+## 137
+w: from the body  whatever  worm  slipping  falls
+w: picking up  that  worm  he puts  in that  place
+tr: Whenever a worm slipped and fell from his body, he would pick it up and put it back in the same place.
+
+## 138
+w: at night  heard  he  the Gosāñi’s  arrival
+w: to see  he came  in the morning  to Kūrma’s  house
+tr: At night he heard of the Gosāñi’s arrival, and in the morning he came to Kūrma’s house to see Him.
+
+## 139
+w: the Lord’s  departure  from Kūrma’s mouth  hearing
+w: on the ground  he fell  in grief  unconscious  becoming
+tr: When he heard from Kūrma that the Lord had gone, he fell to the ground unconscious with grief.
+
+## 140
+w: many  kinds  lamentation  to make  he began
+w: at that very moment  coming  the Lord  him  embraced
+tr: He began to lament in many ways, and at that very moment the Lord came and embraced him.
+
+## 141
+w: by the Lord’s touch  together with the grief  the leprosy  far  went
+w: bliss  together with  the body  beautiful  became
+tr: At the Lord’s touch his leprosy vanished together with his grief, and his body became beautiful and full of bliss.
+
+## 142
+w: the Lord’s  mercy  seeing  his  amazed  became  mind
+w: a verse  reciting  the feet  holding  he makes  praise
+tr: Seeing the Lord’s mercy, he was amazed. Holding the Lord’s feet, he recited a verse and praised Him:
+
+## 143
+w: where  I  poor  most sinful
+w: where  Kṛṣṇa  the abode of Śrī
+w: a brāhmaṇa by birth only  thus  indeed  I
+w: with both arms  was embraced
+tr: “Who am I, a poor and sinful man, and who is Kṛṣṇa, the abode of the goddess of fortune? Yet because I was born a brāhmaṇa, He embraced me in His arms!” (Śrīmad-Bhāgavatam, 10.81.16)
+
+## 144
+w: many  prayers  making  he says  hear  O Merciful One
+w: in a jīva  this  quality  is not  in You  this  is
+tr: After offering many prayers he said, “Hear me, O Merciful One: no jīva has this quality; it is found in You alone.
+
+## 145
+w: me  seeing  at my  smell  flee  the wretched
+w: such a me  touch  You  the independent Lord
+tr: Seeing me and smelling my stench, even the wretched flee from me; yet You touch someone like me. You are the independent Lord!
+
+## 146
+w: but  I was  well off  lowly  being
+w: now  pride  my  will be born  coming
+tr: But I was better off being lowly; now pride will arise in me.”
+
+## 147
+w: the Lord  says  ever  your  not  will be  pride
+w: constantly  say  you  Kṛṣṇa  Kṛṣṇa  the name
+tr: The Lord said, “You will never become proud. Chant the name ‘Kṛṣṇa! Kṛṣṇa!’ constantly.
+
+## 148
+w: about Kṛṣṇa  teaching  make  of the jīvas  deliverance
+w: soon  Kṛṣṇa  you  will make  acceptance
+tr: Teach about Kṛṣṇa and deliver the jīvas, and very soon Kṛṣṇa will accept you as His own.”
+
+## 149
+w: so much  having said  the Lord  made  disappearance
+w: two  brāhmaṇas  embracing  weep  for the Lord’s  qualities
+tr: Having said this, the Lord disappeared, and the two brāhmaṇas wept in each other’s arms, remembering the Lord’s qualities.
+
+## 150
+w: ‘Vāsudeva’s deliverance’  this  I have told  the story
+w: ‘the Giver of nectar to Vāsudeva’  became  the Lord’s  name
+tr: Thus I have told the story of Vāsudeva’s deliverance, through which the Lord received the name Vāsudevāmṛta-prada, “the Giver of nectar to Vāsudeva”.
+
+## 151
+w: this  indeed  I have told  the Lord’s  first  journey
+w: the sight of Kūrma  Vāsudeva’s deliverance
+tr: Thus I have told of the beginning of the Lord’s journey: His visit to Kūrma and the deliverance of Vāsudeva.
+
+## 152
+w: faith  having  this  pastime  who  makes  hearing
+w: soon  obtains  he  Caitanya’s feet
+tr: Whoever hears this pastime with faith soon attains the feet of Caitanya.
+
+## 153
+w: of Caitanya’s pastimes  beginning and end  not  I know
+w: that  I write  what  of the great souls  from the mouths  I hear
+tr: I do not know the beginning or the end of Caitanya’s pastimes; I write only what I have heard from the lips of great souls.
+
+## 154
+w: in this  offence  my  not  take  O devotees
+w: of you all  the feet  my  sole  refuge
+tr: O devotees, do not hold my offences in this against me: your feet are my only refuge.
+
+## 155
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

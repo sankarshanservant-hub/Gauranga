@@ -1038,11 +1038,11 @@ the village  near  coming  in mind  he thought
 (103) Travelling like this, the brāhmaṇa reached his own country, and as he drew near his village he thought:
 
 এবে মুঞি গ্রামে আইনু, যাইমু ভবন ৷  
-লোকেরে কহিব গিয়া সাক্ষির আগমনে ॥ ১০৪ ॥
+লোকেরে কহিব গিয়া সাক্ষির আগমন ॥ ১০৪ ॥
 
 ebe muñi grāme āinu, yāimu bhavana  
 now  I  to the village  have come  I shall go  home  
-lokere kahiba giyā sākṣira āgamane  
+lokere kahiba giyā sākṣira āgamana  
 to the people  I shall tell  going  of the witness  the coming
 
 (104) “Now I have come to the village. I shall go home and tell the people that the witness has come.
