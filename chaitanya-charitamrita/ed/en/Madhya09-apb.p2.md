@@ -68,7 +68,7 @@ Mahāprabhu's elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received
 
 ## 347
 
-***Pāṇḍāpāla.*** Those who perform *pūjā* to Śrī Jagannātha are *pāṇḍās*; those who do other kinds of service are “*paśupālas*.” The two words together have become *pāṇḍāpāla*.
+***Pāṇḍāpāla.*** Those who perform *pūjā* to Śrī Jagannātha are *pāṇḍās*; those who do other kinds of service are “*paśupālas*.” The two words together have become *pāṇḍāpāla*.[^347-1]
 
 ## 355–357
 
@@ -85,3 +85,7 @@ Sārvabhauma: “My Lord, that is why I said You must certainly see him.”
 With natural compassion for other *jīvas* — that is, giving up altogether any hostility toward them (attempts, rooted in the urge to enjoy, to turn them away from Kṛṣṇa) — say with your lips, “Hari! Hari!” (Apart from this) in the age of Kali there is no other *dharma*: to serve pure Vaiṣṇavas and to read the scriptures of pure Vaiṣṇavas is the *jīva*'s only *dharma*.
 
 *Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^347-1]: Vṛndāvana Candra Dāsa's verse translation differs: “the temple priests.”
