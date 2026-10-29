@@ -204,7 +204,7 @@ of the Śeṣa-līlā  ‘Madhya’  ‘Anta’  two  names  there are
 līlā-bhede vaiṣṇava saba nāma-bheda kaya  
 by the difference of pastimes  Vaiṣṇavas  all  difference of names  speak
 
-(18) The Śeṣa-līlā goes by two names, ‘Madhya’ (middle) and ‘Anta’ (final): the Vaiṣṇavas all give it different names according to the difference in its pastimes.
+(18) The Śeṣa-līlā has two names, ‘Madhya’ (middle) and ‘Anta’ (final): the Vaiṣṇavas name it differently according to the difference in its pastimes.
 
 তার মধ্যে ছয় বৎসর — গমনাগমন ৷  
 নীলাচল-গৌড় সেতুবন্ধ-বৃন্দাবন ॥ ১৯ ॥
