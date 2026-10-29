@@ -102,7 +102,7 @@ tr: The king said, “Bhaṭṭa, you are the crest-jewel of the learned. Since 
 ## 18
 w: again  here  His  when there is  coming
 w: once  seeing  I will make  fruitful  my eyes
-tr: When He comes here again, let me see Him just once and make my eyes fruitful.”
+tr: When He comes here again, let me see Him even once, so that my eyes may find their fulfilment.”
 
 ## 19
 w: the Bhaṭṭācārya  says  He  will come  shortly
@@ -301,18 +301,18 @@ tr: Together with my house, my wealth, my servants and my five sons, I have surr
 ## 56
 w: this  Vāṇīnātha  will remain  at Your  feet
 w: whenever  whatever  order  that  he will carry out  in service
-tr: This Vāṇīnātha will stay at Your feet and carry out whatever You order, whenever You order it.
+tr: Vāṇīnātha here will stay at Your feet and carry out whatever You order, whenever You order it.
 
 ## 57
 w: as Your own  knowing  with me  hesitation  not  have
 w: whatever  whenever  desire  then  that  order  give
-tr: Regard me as Your own and do not hesitate with me: whatever You want, whenever You want it, give the order.”
+tr: Regard me as Your own and do not hold back with me: whatever You wish, whenever You wish it, simply give the order.”
 fn: *Amṛta-pravāha-bhāṣya*: “know me as Your own” — that is, be kind to me as to one of Your own; there is no need to hesitate in anything.
 
 ## 58
 w: the Lord  says  what  hesitation  you  are not  a stranger
 w: birth  after birth  you  My  with your family  servant
-tr: The Lord said, “Why should I hesitate? You are no stranger. Birth after birth you and your family have been My servants.
+tr: The Lord said, “Why should I hold back? You are no stranger. Birth after birth you and your family have been My servants.
 
 ## 59
 w: days five or seven  within  will come  Rāmānanda
@@ -517,7 +517,7 @@ tr: When they heard that You had come back from the south, Śacī was overjoyed,
 ## 100
 w: all  are coming  You  to see
 w: their  delay  seeing  I have come  quickly
-tr: They are all coming to see You, but seeing that they were delayed, I came on ahead in haste.”
+tr: They are all coming to see You, but since they were delayed, I hurried on ahead.”
 
 ## 101
 w: of Kāśī Miśra  in the house  secluded  one  room
@@ -570,7 +570,7 @@ tr: With his guru’s leave he came to Nīlācala, and there, night and day, he 
 ## 110
 w: of learning  the limit  speech  there is not  with anyone
 w: in solitude  he lives  people  all  do not  know (him)
-tr: He was the very limit of learning, yet he spoke with no one; he lived in solitude, and people knew nothing of him.
+tr: His learning knew no bounds, yet he spoke with no one; he lived in solitude, and people knew nothing of him.
 
 ## 111
 w: of Kṛṣṇa-rasa  of the truth  the knower  his body  of love  the form
@@ -786,7 +786,7 @@ tr: The two Haridāsas, the junior and the senior, both kīrtana singers, and R�
 ## 150
 w: with Govinda  together  they do  of the Lord  service
 w: of Govinda  of the fortune  the limit  not  can be  described
-tr: Together with Govinda they served the Lord. The limit of Govinda’s good fortune cannot be described.
+tr: Together with Govinda they served the Lord. No one can describe how boundless Govinda’s good fortune was.
 
 ## 151
 w: the next  day  Mukunda Datta  says  to the Lord  at His place
@@ -885,7 +885,7 @@ tr: I understand the jīva and Brahman as the pervaded (*vyāpya*) and the perva
 ## 169
 w: the skin  removing  He made  of me  purification
 w: of us two  in the relation of pervaded and pervader  this  indeed  the reason
-tr: By removing my skin He has purified me; and the reason lies just in this relation between us, of the pervaded and the pervader.
+tr: He has purified me by removing my skin, and the reason is just this: He is the pervader, and I am the pervaded.
 fn: *Amṛta-pravāha-bhāṣya*: Brahman is all-pervading (*vyāpaka*), while the jīva is atomic (*aṇu*) and pervaded by Brahman. He who took off my skin and purified me is the pervader, and I am the pervaded; so judge who is “Brahman” here — I, Brahmānanda Bhāratī, or He, Kṛṣṇa Caitanya.
 
 ## 170
@@ -905,7 +905,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the armlets on the Lord’s arms are the pras�
 ## 172
 w: Bhaṭṭācārya  says  Bhāratī  I see  your  victory
 w: the Lord  says  whatever  you say  that  true  is
-tr: Bhaṭṭācārya said, “Bhāratī, I see that the victory is yours.” The Lord said, “Whatever you say is true.
+tr: The Bhaṭṭācārya said, “Bhāratī, I see that the victory is yours.” The Lord said, “Whatever you say is true.
 
 ## 173
 w: of guru and disciple  in a dispute  of the disciple  certain  defeat
@@ -925,7 +925,7 @@ tr: All my life I meditated on the formless, but now that I have seen You, Kṛ�
 ## 176
 w: Kṛṣṇa’s name  springs up  on my lips  in mind and eyes  Kṛṣṇa
 w: You  as that form  seeing  my heart  thirsting
-tr: The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see You as that very form, and my heart is filled with longing.
+tr: The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see that very form in You, and my heart is filled with longing.
 
 ## 177
 w: Bilvamaṅgala  underwent  just as  the state  his own
@@ -937,7 +937,7 @@ w: of nondualism  the path  by travellers  worshipped
 w: on the throne of self-bliss  having received initiation
 w: by a cunning  certain  we  by force
 w: maidservants  made  of the cowherd wives  by the lover
-tr: “Though I was worshipped by those who travel the path of non-dualism and had received initiation on the throne of the bliss of the self, I have been forcibly made a maidservant by a certain rogue, a lover of the cowherd maidens.” (Śrī Kṛṣṇa-karṇāmṛta)
+tr: “I was worshipped by those who walk the path of non-dualism, and I had received initiation on the throne of the bliss of the self; yet a certain rogue, a lover of the cowherd maidens, has forcibly made me a maidservant.” (Śrī Kṛṣṇa-karṇāmṛta)
 fn: The source is given as in the edition. *Anubhāṣya*: “we” is a plural of respect, to be understood as “I”; the travellers on the path of advaita are the *kevalādvaitins*, who teach the formless Brahman; those “initiated on the throne of their own bliss” are such as follow the path of yoga; the rogue, the lover of the cowherd maidens, is the son of Nanda. Bilvamaṅgala Ṭhākura had been an advaitin in a former life, then became a devotee of Kṛṣṇa and told of it himself (on 175–177).
 
 ## 179
@@ -948,7 +948,7 @@ tr: The Lord said, “You have deep love for Kṛṣṇa; wherever your eyes fal
 ## 180
 w: Bhaṭṭācārya  says  Your  is  true  word
 w: before (him)  if  Kṛṣṇa  gives  direct  sight
-tr: Bhaṭṭācārya said, “Your words are true, if Kṛṣṇa has appeared before him face to face.
+tr: The Bhaṭṭācārya said, “What You say is true — if Kṛṣṇa has indeed appeared before him face to face.
 fn: *Anubhāṣya* (on 179–181): what Mahāprabhu says — that the mahā-bhāgavata Brahmānanda has seen Kṛṣṇa — is true, for Kṛṣṇa appears face to face before a mahā-bhāgavata; but without abundant prema such vision is impossible, and Brahmānanda saw Kṛṣṇa by Mahāprabhu’s mercy.
 
 ## 181

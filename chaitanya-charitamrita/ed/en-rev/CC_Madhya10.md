@@ -190,7 +190,7 @@ again  here  His  when there is  coming
 eka-bāra dekhi’ kari saphala nayana  
 once  seeing  I will make  fruitful  my eyes
 
-(18) When He comes here again, let me see Him just once and make my eyes fruitful.”
+(18) When He comes here again, let me see Him even once, so that my eyes may find their fulfilment.”
 
 ভট্টাচার্য্য কহে, — তেঁহো আসিবে অল্পকালে ৷  
 রহিতে তাঁর এক স্থান চাহিয়ে বিরলে ॥ ১৯ ॥
@@ -570,7 +570,7 @@ this  Vāṇīnātha  will remain  at Your  feet
 yabe yei ājñā, tāhā karibe sevane  
 whenever  whatever  order  that  he will carry out  in service
 
-(56) This Vāṇīnātha will stay at Your feet and carry out whatever You order, whenever You order it.
+(56) Vāṇīnātha here will stay at Your feet and carry out whatever You order, whenever You order it.
 
 আত্মীয়-জ্ঞানে মোরে সঙ্কোচ না করিবে ৷  
 যেই যবে ইচ্ছা, তবে সেই আজ্ঞা দিবে ॥ ৫৭ ॥
@@ -580,7 +580,7 @@ as Your own  knowing  with me  hesitation  not  have
 yei yabe icchā, tabe sei ājñā dibe  
 whatever  whenever  desire  then  that  order  give
 
-(57) Regard me as Your own and do not hesitate with me: whatever You want, whenever You want it, give the order.”[^15]
+(57) Regard me as Your own and do not hold back with me: whatever You wish, whenever You wish it, simply give the order.”[^15]
 
 প্রভু কহে, — কি সঙ্কোচ, তুমি নহ পর ৷  
 জন্মে জন্মে তুমি আমার সবংশে কিঙ্কর ॥ ৫৮ ॥
@@ -590,7 +590,7 @@ the Lord  says  what  hesitation  you  are not  a stranger
 janme janme tumi āmāra savaṁśe kiṅkara  
 birth  after birth  you  My  with your family  servant
 
-(58) The Lord said, “Why should I hesitate? You are no stranger. Birth after birth you and your family have been My servants.
+(58) The Lord said, “Why should I hold back? You are no stranger. Birth after birth you and your family have been My servants.
 
 দিন-পাঁচ-সাত ভিতরে আসিবে রামানন্দ ৷  
 তাঁর সঙ্গে পূর্ণ হবে আমার আনন্দ ॥ ৫৯ ॥
@@ -1001,7 +1001,7 @@ all  are coming  You  to see
 tām̐-sabāra vilamba dekhi’ āilāṅa tvarite  
 their  delay  seeing  I have come  quickly
 
-(100) They are all coming to see You, but seeing that they were delayed, I came on ahead in haste.”
+(100) They are all coming to see You, but since they were delayed, I hurried on ahead.”
 
 কাশীমিশ্রের আবাসে নিভৃতে এক ঘর ৷  
 প্রভু তাঁরে দিল, আর সেবার কিঙ্কর ॥ ১০১ ॥
@@ -1101,7 +1101,7 @@ of learning  the limit  speech  there is not  with anyone
 nirjane rahaye, loka saba nāhi jāne  
 in solitude  he lives  people  all  do not  know (him)
 
-(110) He was the very limit of learning, yet he spoke with no one; he lived in solitude, and people knew nothing of him.
+(110) His learning knew no bounds, yet he spoke with no one; he lived in solitude, and people knew nothing of him.
 
 কৃষ্ণরস-তত্ত্ব-বেত্তা, দেহ — প্রেমরূপ ৷  
 সাক্ষাৎ মহাপ্রভুর দ্বিতীয় স্বরূপ ॥ ১১১ ॥
@@ -1515,7 +1515,7 @@ with Govinda  together  they do  of the Lord  service
 govindera bhāgya-sīmā nā yāya varṇana  
 of Govinda  of the fortune  the limit  not  can be  described
 
-(150) Together with Govinda they served the Lord. The limit of Govinda’s good fortune cannot be described.
+(150) Together with Govinda they served the Lord. No one can describe how boundless Govinda’s good fortune was.
 
 আর দিনে মুকুন্দদত্ত কহে প্রভুর স্থানে ৷  
 ব্রহ্মানন্দ-ভারতী আইলা তোমার দরশনে ॥ ১৫১ ॥
@@ -1705,7 +1705,7 @@ the skin  removing  He made  of me  purification
 dom̐hāra vyāpya-vyāpakatve, ei ta’ kāraṇa  
 of us two  in the relation of pervaded and pervader  this  indeed  the reason
 
-(169) By removing my skin He has purified me; and the reason lies just in this relation between us, of the pervaded and the pervader.[^36]
+(169) He has purified me by removing my skin, and the reason is just this: He is the pervader, and I am the pervaded.[^36]
 
 সুবর্ণবর্ণো হেমাঙ্গো বরাঙ্গশ্চন্দনাঙ্গদী ৷  
 সন্ন্যাসকৃচ্ছমঃ শান্তো নিষ্ঠা-শান্তি-পরায়ণঃ ॥ ১৭০ ॥
@@ -1739,7 +1739,7 @@ Bhaṭṭācārya  says  Bhāratī  I see  your  victory
 prabhu kahe, — yei kaha, sei satya haya  
 the Lord  says  whatever  you say  that  true  is
 
-(172) Bhaṭṭācārya said, “Bhāratī, I see that the victory is yours.” The Lord said, “Whatever you say is true.
+(172) The Bhaṭṭācārya said, “Bhāratī, I see that the victory is yours.” The Lord said, “Whatever you say is true.
 
 গুরু-শিষ্য ন্যায়ে শিষ্যের সত্য পরাজয় ৷  
 ভারতী কহে, — এ নহে, অন্য হেতু হয় ॥ ১৭৩ ॥
@@ -1779,7 +1779,7 @@ Kṛṣṇa’s name  springs up  on my lips  in mind and eyes  Kṛṣṇa
 tomāke tad-rūpa dekhi’ hṛdaya — satṛṣṇa  
 You  as that form  seeing  my heart  thirsting
 
-(176) The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see You as that very form, and my heart is filled with longing.
+(176) The name of Kṛṣṇa springs to my lips, and Kṛṣṇa fills my mind and eyes. I see that very form in You, and my heart is filled with longing.
 
 বিল্বমঙ্গল কৈল যৈছে দশা আপনার ৷  
 ইঁহ দেখি’ সেই দশা হইল আমার ॥ ১৭৭ ॥
@@ -1805,7 +1805,7 @@ by a cunning  certain  we  by force
 dāsī-kṛtā gopa-vadhū-viṭena  
 maidservants  made  of the cowherd wives  by the lover
 
-(178) “Though I was worshipped by those who travel the path of non-dualism and had received initiation on the throne of the bliss of the self, I have been forcibly made a maidservant by a certain rogue, a lover of the cowherd maidens.” (Śrī Kṛṣṇa-karṇāmṛta)[^39]
+(178) “I was worshipped by those who walk the path of non-dualism, and I had received initiation on the throne of the bliss of the self; yet a certain rogue, a lover of the cowherd maidens, has forcibly made me a maidservant.” (Śrī Kṛṣṇa-karṇāmṛta)[^39]
 
 প্রভু কহে, — কৃষ্ণে তোমার গাঢ় প্রেমা হয় ৷  
 যাঁহা নেত্র পড়ে, তাঁহা কৃষ্ণস্ফূর্ত্তি হয় ॥ ১৭৯ ॥
@@ -1825,7 +1825,7 @@ Bhaṭṭācārya  says  Your  is  true  word
 āge yadi kṛṣṇa dena sākṣāt daraśana  
 before (him)  if  Kṛṣṇa  gives  direct  sight
 
-(180) Bhaṭṭācārya said, “Your words are true, if Kṛṣṇa has appeared before him face to face.[^40]
+(180) The Bhaṭṭācārya said, “What You say is true — if Kṛṣṇa has indeed appeared before him face to face.[^40]
 
 প্রেম বিনা কভু নহে তাঁর সাক্ষাৎকার ৷  
 ইঁহার কৃপাতে হয় দরশন ইঁহার ॥ ১৮১ ॥
