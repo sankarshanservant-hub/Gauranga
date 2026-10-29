@@ -8,7 +8,7 @@
 
 ## 3
 
-> Subheading: The Lord's pastimes after His arrival in Nīlācala are sweetly described in the *Caitanya-bhāgavata* —
+> Subheading: The Lord's other pastimes after His arrival in Nīlācala are sweetly described in the *Caitanya-bhāgavata* —
 
 ## 6
 
@@ -386,7 +386,7 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 
 > Subheading: The priest understands that Purī is a devotee who has conquered Kṛṣṇa —
 
-***Yathocita*** — fitting, deserved.
+***Yathocita*** — fitting, worthy.
 
 ## 138
 

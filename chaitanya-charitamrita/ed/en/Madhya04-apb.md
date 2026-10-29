@@ -86,7 +86,7 @@ The fame created by the Creator (*vidhātā*) comes precisely to one who does go
 
 ## 176–177
 
-***In the land of the mlecchas.*** A large part of the Medinīpura district belonged to the kingdom of the kings of Utkala: that was the land of a Hindu king. Beyond it almost the whole country was under a *mleccha* king. Here and there the *mleccha* king's agents would seize good things from travelers if they carried any. In Gauḍa such camphor and sandalwood are rare. Fearing such trouble, Purī Gosāñi would have found the journey all the way to Vṛndāvana very hard, and to spare him that hardship [Gopāla] allowed him to offer the sandalwood to Śrī Gopīnātha in Remuṇā.
+***In the land of the mlecchas.*** A large part of the Medinīpura district belonged to the kingdom of the kings of Utkala: that was the land of a Hindu king. Beyond it almost the whole country was under a *mleccha* king. Here and there the *mleccha* king's agents would seize good things from travelers if they carried any. In Gauḍa such camphor and sandalwood are rare. Fearing such trouble, Purī Gosāñi would have found the journey all the way to Vṛndāvana very hard, and to spare him that hardship [Gopāla] told him to offer the sandalwood to Śrī Gopīnātha in Remuṇā.
 
 ## 181
 
