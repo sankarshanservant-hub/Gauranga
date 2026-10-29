@@ -305,3 +305,93 @@ See the *Anubhāṣya* on Madhya 3.212.
 ## 103
 
 > Subheading: Thus all the people of the South were delivered and became Vaiṣṇavas —
+
+## 105
+
+> Subheading: The Lord delivers many fortunate *jīvas* —
+
+## 106
+
+> Subheading: Those at whose homes the Lord accepted alms, and those who saw Him, became Vaiṣṇavas, and then as *ācāryas* they delivered many people —
+
+## 108
+
+> Subheading: Thus the whole South was delivered —
+
+## 109
+
+> Subheading: The glory of the Lord's mercy was revealed in the South more than in Navadvīpa —
+
+## 110
+
+> Subheading: Only Caitanya's devotees have faith in the power of Bhagavān's mercy —
+
+## 111
+
+> Subheading: Only faith in the transcendental pastimes brings eternal welfare; otherwise knowledge born of the senses leads to utter ruin —
+
+The transcendental pastimes of Śrī Kṛṣṇa Caitanya are free from all cheating (*projjhita-kaitava*) and from all trickery (*nirasta-kuhaka*). They are beyond matter, full of spiritual majesty, and they grant the *jīvas* their eternal, highest welfare. Therefore they are the true reality — not a charlatan's show rooted in violence and born of the conceptions that the *guṇas* produce in cheaters and cheated bound by *māyā*. Charlatanry and tricksters throw both the cheater and the cheated away from service to Kṛṣṇa, and so both meet with utter ruin.
+
+## 113
+
+> Subheading: The Lord comes to Śrī Kūrma and, on seeing the Deity, dances and sings —
+
+***Kūrma-sthāna*** — on the B. N. R. line, in the Ganjam district, eight miles east of “Chicacole Road” station, lies “Kūrmācala,” or “Śrīkūrmam.” It is the most revered *tīrtha* of the Telugu-speaking people (*Ganjam Manual*). The Deity of Kūrma resides there. In the eleventh century of the Śaka era Śrī Jagannāthadeva carried Śrī Rāmānuja to Kūrmācala. Rāmānuja then took the Deity of Kūrma for a form of Śiva and fasted; later he understood that it was a form of Viṣṇu and revealed the service of Kūrmadeva. So it is told in the *Prapannāmṛta*, chapter 36:
+
+“That very night Śrī Hari, by His *yogamāyā*, swiftly brought Lakṣmaṇācārya, the lord of *yogīs*, to Śrī Kūrma. When that night turned to dawn, the wise teacher Lakṣmaṇa suddenly arose, calling, ‘Hari! Hari!’ He looked carefully in all ten directions, his mind troubled with anxiety. Learning that this was the holy place of Śrī Kūrma, he was amazed. He took the Lord of Śrī Kūrma for what is called a Śiva-*liṅga*, and he spent one day there fasting… In a dream Bhagavān, the Lord of Śrī Kūrma, pleased with him, mercifully spoke auspicious words to the king of ascetics: ‘O best of ascetics! Through the fault of ignorance all people, their eyes blinded by *māyā*, falsely call Me a Śiva-*liṅga*. I shall dwell here in My own true form, holding conch, disc and club. Venerable Lakṣmaṇa, now look at Me carefully… Stay here a few days, worshipping Me.’ Rising from the dream, satisfied and full of wonder, the king of *yogīs* did everything just as he had been told. He worshipped the Lord of Kūrma, took the food offered to Him, and lived happily there at His feet. From that time on, owing to the glory of the coming of the king of ascetics, the great Śrī Kūrma became known everywhere as a place of Viṣṇu.”
+
+Later this temple was under the supervision of the Śrī Mādhva *maṭha*, in the domain of the king of Vijayanagara. A stone slab has been found bearing an inscription of nine verses that mentions the guru of the Śrī Mādhva-sampradāya, Śrī Narahari Tīrtha (Śaka 1203). Here is its Bengali translation:
+
+Verse 1. The renowned ascetic Puruṣottama was born to instruct the wise. He was very dear to Viṣṇu.
+
+Verse 2. His words were accepted everywhere in the world. The arguments of disputants were crushed, as an elephant is crushed.
+
+Verse 3. Ānandatīrtha received initiation (*saṁskāra*) from him. With the *sannyāsa-daṇḍa* he had taken up he brought back to the right path the “cows” and others who had strayed from the path of Vyāsa.
+
+Verse 4. His garland of words is especially dear to Viṣṇu and able to grant perfection — the attainment of Vaikuṇṭha.
+
+Verse 5. His teachings on *bhakti* are able to give a person the lotus feet of Hari.
+
+Verse 6. Narahari Tīrtha was initiated by him alone and ruled in the land of Kaliṅga.
+
+Verse 7. Narahari Tīrtha fought the Śabaras and protected the temple of Śrī Kūrma.
+
+Verse 8. Narahari Tīrtha's courage knew no bounds.
+
+Verse 9. In the auspicious Śaka year 1203, in the month of Vaiśākha, in the bright fortnight, on the Ekādaśī *tithi*, on a Wednesday, a temple was built before Kāmatadeva and joyfully dedicated to Yogānanda Nṛsiṁhadeva, the giver of boundless welfare. The end. (Professor Kielhorn says:) A.D. 1281, 29 March, Saturday.
+
+## 114
+
+> Subheading: Seeing the Lord dance and sing, the people are amazed —
+
+## 116
+
+> Subheading: On seeing the Lord, people become Vaiṣṇavas —
+
+## 117
+
+> Subheading: Through these people that land is delivered —
+
+## 118
+
+> Subheading: Thus all lands were delivered —
+
+## 119
+
+> Subheading: The servant of the Deity honors the Lord —
+
+## 120
+
+> Subheading: The Lord comes to all the villages and delivers the people —
+
+## 121
+
+> Subheading: A *brāhmaṇa* named “Kūrma” worships the Lord —
+
+## 126
+
+> Subheading: The *brāhmaṇa* Kūrma begs to follow the Lord —
+
+## 127
+
+> Subheading: The Lord orders everyone to preach Kṛṣṇa's name and *bhakti* as *ācāryas* —

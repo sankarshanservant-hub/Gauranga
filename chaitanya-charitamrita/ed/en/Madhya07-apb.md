@@ -40,6 +40,18 @@ The hearts of extraordinary persons are harder than a thunderbolt and at the sam
 
 ***Śakti sañcāriyā*** (“infusing power”). The essence of the *hlādinī* potency and the essence of the *saṁvit* potency together constitute “*bhakti-śakti*,” the power of devotion. Anyone into whom Kṛṣṇa or a devotee, out of mercy, infuses this power becomes a “*parama-bhakta*,” a supreme devotee. Whomever Mahāprabhu favored, He infused with such power and entrusted with preaching Vaiṣṇava *dharma*.
 
+## 108
+
+***Setubandha*** — Setubandha-Rāmeśvara stands on the seashore, on the far side of “Rāmnad,” at the southern edge of Bhāratavarṣa.
+
+## 109
+
+Although Navadvīpa is a *dhāma*, at that time *nyāya* and the *smṛti-śāstras* held special sway there, and among the teachers of those *śāstras* there were many people averse to the Lord. The Lord did not manifest any special power to deliver them. That is why the author says this.
+
+## 113
+
+***Kūrma-sthāna*** — a *tīrtha*; there is a temple of Kūrmadeva there. The *Prapannāmṛta* tells how Śrī Jagannāthadeva carried Śrī Rāmānuja Svāmī away from Śrī Puruṣottama by night and left him at Kūrma-tīrtha.
+
 ---
 
 [^73-1]: The paragraph number is unclear in the scan (৭১ or ৭৩); by its content it paraphrases verse 73.
