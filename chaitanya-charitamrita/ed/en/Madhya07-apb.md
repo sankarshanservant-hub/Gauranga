@@ -19,3 +19,11 @@ Mahāprabhu is all-knowing. He knew full well that Viśvarūpa had already attai
 ## 27
 
 [The Lord says:] “Dāmodara Paṇḍita and the others have more of Kṛṣṇa's mercy. Therefore they do not care what people think, and they want Me to enjoy all sorts of worldly things. But I am a humble *sannyāsī*. I cannot ignore what people think, and so I behave as *dharma* requires.”
+
+## 59
+
+The road south runs along the seashore. Six *krośas* from Purī lies the village of “Ālālanātha.” There resides “Ālālanātha,” the Deity of four-armed Vāsudeva. His temple stands in a small village in the middle of a forest, and an excellent *paramānna* is offered to Him there. The *pāṇḍās* still show the marks of the hot *paramānna* on the Deity.
+
+## 62
+
+***Adhikārī*** — the king's chief officer. Vidyānagara is nowadays called “Porabandara.”
