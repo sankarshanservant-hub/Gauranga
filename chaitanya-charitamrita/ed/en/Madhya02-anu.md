@@ -44,7 +44,7 @@ At the joints the bones joined inside come apart, and only the skin can be seen.
 
 ## 18
 
-**ayaṁ hariḥ** (Kṛṣṇa) **asmān prema-ccheda-rujaḥ** (us, who are pained by the breaking of love — by His breaking off His love; us gopīs, tormented by the disease of separation) **na avagacchati** (does not know); **prema vā sthānāsthānaṁ ca** (what is the right place and what is not — the worthy and the unworthy, good and bad) **na avaiti** (does not know); **madanaḥ api naḥ** (us) **durbalāḥ** (helpless, dependent on others) **na jānāti**. **anyaḥ janaḥ anya-duḥkham** (the suffering of another person) **na veda**! **naḥ** (our) **jīvanam āśravam** (is nothing but suffering, or: is in another's control). **idaṁ yauvanaṁ dvi-trāṇy eva dināni**! **hā hā vidhe** (O Creator)! **kā gatiḥ** (what will become of us? — that is, we cannot understand it).
+**ayaṁ hariḥ** (Kṛṣṇa) **asmān prema-ccheda-rujaḥ** (us, who are pained by the breaking of love: He broke off His love, and we gopīs are tormented by the disease of separation) **na avagacchati** (does not know); **prema vā sthānāsthānaṁ ca** (what is the right place and what is not — the worthy and the unworthy, good and bad) **na avaiti** (does not know); **madanaḥ api naḥ** (us) **durbalāḥ** (helpless, dependent on others) **na jānāti**. **anyaḥ janaḥ anya-duḥkham** (the suffering of another person) **na veda**! **naḥ** (our) **jīvanam āśravam** (is nothing but suffering, or: is in another's control). **idaṁ yauvanaṁ dvi-trāṇy eva dināni**! **hā hā vidhe** (O Creator)! **kā gatiḥ** (what will become of us? — that is, we cannot understand it).
 
 ## 19
 
