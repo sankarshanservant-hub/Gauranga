@@ -164,7 +164,7 @@ In the *rāsa-līlā* Śrī Kṛṣṇa saw that while Rādhikā was together wi
 
 ## 104
 
-In the circle of the *rāsa* Śrī Rādhikā saw an attachment to the gopīs (*mamatā*) of the kind found in ordinary love, and out of the contrariness born of [Her love's] crookedness (*kauṭilya-vāmatā*) She left the circle. Kṛṣṇa wanted Śrīmatī to nourish the *rasa* of the *rāsa-līlā*. Without Her, Śrī Kṛṣṇa grew dejected and, lamenting, began to wander through the forest in search of Śrīmatī.
+In the circle of the *rāsa* Śrī Rādhikā saw the gopīs’ *mamatā* — their sense of “He is mine,” such as is found in ordinary love — and out of the contrariness born of [Her love's] crookedness (*kauṭilya-vāmatā*) She left the circle. Kṛṣṇa wanted Śrīmatī to nourish the *rasa* of the *rāsa-līlā*. Without Her, Śrī Kṛṣṇa grew dejected and, lamenting, began to wander through the forest in search of Śrīmatī.
 
 ## 106
 
