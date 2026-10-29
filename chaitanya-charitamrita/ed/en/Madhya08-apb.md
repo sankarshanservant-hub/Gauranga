@@ -78,8 +78,42 @@ Hearing this, the Lord said, “This too is external. Tell Me what lies beyond i
 
 In the *Bhāgavata* Brahmā said to Bhagavān: “O Bhagavān! There are devotees who have completely given up the endeavor of knowledge, the contemplation of undifferentiated Brahman. They hear the narrations about You that flow from the lips of *sādhus*, and they live abiding on the path of the *sādhus* with body, mind and words.[^67-1] In all the three worlds You are hard to attain, yet to them You become easily attainable.”
 
+## 68
+
+Hearing this, the Lord said, “Now the goal has indeed been determined. Tell Me what is higher than this.” The purport is this. Offering one's actions [to Kṛṣṇa] is higher than merely following *varṇāśrama-dharma*. Giving up *svadharma*, that is, accepting *sannyāsa* after giving up the *dharma* of one's *varṇa*, is higher than merely offering one's actions. Higher than that is devotion mixed with knowledge, the cultivation of Brahman. Yet all of these are external, because the object of the goal, pure devotion, is not found in any of these four conclusions. Devotion that is *āropa-siddhā* or *saṅga-siddhā* is never known as “pure devotion.” “*Svarūpa-siddhā bhakti*” is a separate truth: it is eternally distinct from *karma*, from offering one's actions, from *sannyāsa* in the form of giving up *karma*, and from devotion mixed with knowledge. The mark of this pure devotion is this: it is the cultivation of Kṛṣṇa (*kṛṣṇānuśīlana*) in a favorable mood, free from other desires and unobstructed by knowledge, *karma* and the like. It alone is the object of the goal, for it is seen even while it is still being attained, and at the stage of perfection it is seen in its full purity. In answer to the Lord's last question Rāya said, “*Prema-bhakti* is the essence of all goals.” At first pure devotion appears as *śānta-bhakti*: in it there is as yet no sense that Kṛṣṇa is one's own (*mamatā*).
+
+## 69
+
+Food and drink give joy only as long as hunger and thirst are strong in the stomach. In the same way, the Friend of the distressed may be worshiped with many kinds of offerings, but the devotees' hearts melt with bliss only when that worship is full of *prema*.
+
+## 70
+
+There is a mind imbued with the *rasa* of devotion to Kṛṣṇa. It cannot be obtained by pious merit (*sukṛti*) earned in ten million births, yet it can be had for one single price, greed (*lobha*). Wherever you find such a mind, buy it at once.
+
+Of these two verses, the first points to “*vaidhī-bhakti*,” rooted in faith (*śraddhā*), and the second to *rāgānugā-bhakti*, rooted in greed (*lobha*). From here on Rāya Rāmānanda's words will rest on *rāgānugā-bhakti* alone; that is, from now on he takes up the *siddhānta* of *rāga-bhakti* and leaves aside the talk of *vaidhī-bhakti*.
+
+## 71
+
+Having heard this much, the Lord said, “That is so. But tell Me what lies beyond it.” In reply Rāya said, “*Dāsya-prema*, the *prema* of a servant, is the essence of all goals.” When *mamatā*, the sense “He is mine,” joins “devotion marked by *prema*,” it becomes *dāsya-prema*. In *prema* in general (*prema-sādhāraṇya*) no relationship is yet established between Bhagavān and the devotee. When the sense of *mamatā*, “Bhagavān is my master,” joins it, general *prema* becomes *dāsya-prema*, which is higher than general *prema*.
+
+## 72
+
+The *Śrī Bhāgavata* says: “Simply by hearing the name of Bhagavān a *jīva* becomes pure. What then is left to attain for those who are servants of that Bhagavān, whose feet are holy places?”[^72-1]
+
+## 74
+
+Hearing this, the Lord said, “If you can go a little further, you will find the essence of all.” Rāya answered, “*Sakhya-prema*, the *prema* of a friend, for Śrī Kṛṣṇa is the essence of all goals.” Rāya's purport is this. There is *mamatā* in *dāsya-prema*, but “fear” and “awe” (*sambhrama*) easily arise in it from the thought “Bhagavān is my master.” When one gives up that “fear” and “awe” and embraces *viśrambha*, that is, “complete confidence,” that *prema* becomes *sakhya-prema*. In this *prema* a “sense of equality” arises between Kṛṣṇa and His friends.
+
+## 75
+
+The *Śrī Bhāgavata* says: “On the path of knowledge He is manifest as the experience of the bliss of Brahman, to the devotees in *dāsya-rasa* as the Supreme Deity, and to those who take shelter of *māyā* as a human boy.[^75-1] With this Bhagavān, Śrī Kṛṣṇa, the cowherd boys of Vraja, by the fruit of great pious merit, sported in *sakhya-rasa*.”
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”
 
-[^67-1]: The verse is understood differently in its translation: “without changing the outward course of their lives.”
+[^67-1]: Our verse translation of 8.67 reads differently: it takes *sthāne sthitāḥ* as remaining in one's outward situation, without changing the course of one's life.
+
+[^72-1]: Our verse translation of 8.72 reads differently: nothing is impossible for His faithful servants.
+
+[^75-1]: Our verse translation of 8.75 reads differently: it makes the impersonalists, the servants, and those under *māyā* the subjects who fail to understand the cowherd boys' good fortune, rather than three ways in which Kṛṣṇa appears.

@@ -216,6 +216,40 @@ Even in this state the *asmitā* and its function do not abide in pure Vaikuṇ�
 
 Brahmā stole the calves and so on, and for this Śrī Kṛṣṇa crushed his pride. Then Brahmā, taking exclusive shelter of Śrī Kṛṣṇa, offers Him prayers:
 
+**jñāne** (for the sake of knowledge) **prayāsam** (the troubles and so on born of effort) **udapāsya** (casting far away), **san-mukharitām** (sung by saints, the *mahā-bhāgavatas*, naturally manifest) **śruti-gatām** (reaching the ears) **bhavadīya-vārtām** (narrations about You, about Your name, form, qualities and pastimes) **ye** **sthāne** **sthitāḥ** (remaining in their own place, on the path of the *sādhus*) **tanu-vāṅ-manobhiḥ** (with body, mind and words) **namantaḥ** (surrendering themselves in every way) **eva** **jīvanti**, **ajita** (O Unconquerable One: beyond the senses, not to be overcome by nondevotees, dependent on no one, immeasurable), **tri-lokyām** **taiḥ** (by Your devotees alone) **prāyaśaḥ** (You) **jitaḥ** (conquered) **api** **asi**.
+
+## 68
+
+> Subheading: (b) The perfection of *sādhana*: *prema-bhakti* (*bhāva*, the sprout of *prema*) —
+
+When the verse *jñāne prayāsam*… was spoken in determining the goal, Mahāprabhu accepted that inclination as the inclination toward the goal (*sādhya-vṛtti*). This is called *sādhana-bhakti*. Then the Lord told him to go further. After *sādhana-bhakti* comes *bhāva-bhakti*, the sprout of *prema-bhakti*, and in *śānta-rasa* the quality of equanimity (*nairapekṣya*) predominates. Therefore Rāmānanda Rāya named as the goal *prema-bhakti* endowed with the four *rasas*. “*Sādhana-bhakti*” means *śraddhā*, *sādhu-saṅga*, *bhajana-anuṣṭhāna*, *anartha-nivṛtti*, *niṣṭhā*, *ruci* and *āsakti*.
+
+## 69
+
+> Subheading: Kṛṣṇa is conquered only by a devotee's *prema* —
+
+**yāvat** **jaṭhare** (in the stomach) **jaraṭhā** (intense) **kṣut** **asti**, **pipāsā** (and there is), **tāvat** **bhakṣya-peye** (as) **sukhāya** (for joy) **bhavataḥ**, (so) **ārta-bandhoḥ** (of Śrī Kṛṣṇa, the Lord of the wretched) **nānopacāra-kṛta-pūjanam** (worship and so on with the various sixteen offerings) **bhakta-hṛdayam** **premṇā** (by devotion that pleases Kṛṣṇa's senses) **eva** **sukha-vidrutam** (melted with bliss) **syāt**.
+
+## 70
+
+> Subheading: Love for Kṛṣṇa is attained only on the path of *rāga*; it is hard to attain in *vaidhī-bhakti* born of pious merit —
+
+**kṛṣṇa-bhakti-rasa-bhāvitā** (absorbed in the *rasa* of service to Kṛṣṇa) **matiḥ** (intelligence) **yadi** **kutaḥ** (from anywhere: from some place, time or person, or from practice) **labhyate**, (then by you such intelligence) **krīyatām** (must certainly be acquired by paying the price); **tatra** (in this trade, in buying that intelligence) **ekalam** **laulyam** (greed) **eva** (indeed) **mūlyam**, (for that intelligence) **janma-koṭi-sukṛtaiḥ** (by fortune stored up over many births) **na** **labhyate** (that is, it is supremely rare).
+
+## 71
+
+> Subheading: (1) “*Dāsya-prema*” is excellent —
+
+In the two verses quoted above *prema-bhakti* was determined as “the goal” in general. Therefore Śrī Mahāprabhu told Rāmānanda to go further and explain that “goal” in particular, step by step. Then [Rāmānanda] establishes “*dāsya-prema-bhakti*” as “the goal.”
+
+## 72
+
+> Subheading: Only Kṛṣṇa's servant is heir to all His opulence —
+
+Durvāsā saw with a perverted vision born of the senses, was possessed by the evil desire to oppose Vaiṣṇavas, and was proud of being a brāhmaṇa. When Sudarśana, the Vaiṣṇava's weapon, began to torment him, it was stopped by the prayer of the *mahā-bhāgavata* Ambarīṣa. Seeing this, Durvāsā was freed from caste-consciousness and praised the pure devotee and Bhagavān thus:
+
+**yan-nāma-śruti-mātreṇa** (simply by hearing the name of that Bhagavān) **pumān** (the *jīva*) **nirmalaḥ** (pure) **bhavati**, **tasya** **tīrtha-padaḥ** (of that Bhagavān at whose feet are the holy places) **dāsānām** (for the servants) **kiṁ** **vā** **avaśiṣyate**? (That is, nothing at all.)
+
 ---
 
 [^63-1]: *Manaḥ-śikṣā* 2.
