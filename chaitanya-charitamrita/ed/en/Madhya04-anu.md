@@ -4,7 +4,7 @@
 
 > Subheading: Obeisance to Mādhavendra Purī, the servant of “Kṣīra-corā Gopīnātha” —
 
-**gopīnāthaḥ** (the famous Deity of that name in the village of Remuṇā) **kṣīra-bhāṇḍam** (a vessel full of *pāyasa*) **corayan** (stealing) **yasmai** (for Śrī Mādhavendra) **dātum** (to give) **kṣīra-corābhidhaḥ abhūt** (received the name “Kṣīra-corā Gopīnātha”); **yat** (whose — Mādhavendra's) **premṇā** (by the love) **vaśaḥ** (conquered) **śrī-gopālaḥ** (the Deity installed by Vajra, the Holder of Govardhana) **prādurāsīt** (appeared), **taṁ mādhavendram** (to that Mādhavendra Purī — the disciple of Lakṣmīpati, the guru of the Mādhva-sampradāya) **nataḥ asmi** (I bow down).
+**gopīnāthaḥ** (the famous Deity of that name in the village of Remuṇā) **kṣīra-bhāṇḍaṁ** (a vessel full of *pāyasa*) **corayan** (stealing) **yasmai** (for Śrī Mādhavendra) **dātuṁ** (to give) **kṣīra-corābhidhaḥ abhūt** (received the name “Kṣīra-corā Gopīnātha”); **yat** (whose — Mādhavendra's) **premṇā** (by the love) **vaśaḥ** (conquered) **śrī gopālaḥ** (the Deity installed by Vajra, the Holder of Govardhana) **prādurāsīt** (appeared), **taṁ mādhavendraṁ** (to that Mādhavendra Purī — the disciple of Lakṣmīpati, the guru of the Mādhva-sampradāya) **nataḥ asmi** (I bow down).
 
 ## 3
 
@@ -452,8 +452,174 @@ Many conditioned souls are envious (*matsara*) by nature. Against anyone who gai
 
 > Subheading: In a dream Gopāla tells Purī to smear the body of Gopīnātha with sandalwood —
 
+## 159–160
+
+Gopāla did not wear the sandalwood Himself but had Gopīnātha wear it. The meaning is this. Gopāla's land, Vṛndāvana, lies many *yojanas* from Remuṇā; moreover, to get there one has to cross regions ruled by *mlecchas* of another faith, and that means many obstacles. Gopāla, who loves His devotees and is controlled by their love, knew that Purī Gosvāmī, the dearest and best of devotees, would suffer. Therefore He told him to smear the sandalwood on the body of Śrī Gopīnātha, the Deity nondifferent from Himself, and so crowned the devotee's labor with success and lightened it. See verses 176–177 below.
+
+## 162
+
+> Subheading: Purī tells the servants Gopāla's command —
+
+## 164
+
+***Svatantra*** — acting by His own will.
+
+## 166
+
+> Subheading: Purī engages his two companions in grinding sandalwood —
+
+## 167
+
+> Subheading: At Purī's word the servants joyfully smear [Gopīnātha] with sandalwood —
+
+## 168
+
+> Subheading: All summer, until the sandalwood was used up, Purī stays in Remuṇā —
+
+## 169
+
+> Subheading: When summer is over, Purī spends *cāturmāsya* in Nīlācala —
+
+***Cāturmāsya*** — the four lunar months from the Śayana Ekādaśī of the bright fortnight of Āṣāḍha to the Utthāna Ekādaśī of the bright fortnight of Kārttika; or the four lunar months from the full moon of Āṣāḍha to the full moon of Kārttika; or the four solar months from Śrāvaṇa to Kārttika. This time of *cāturmāsya* is the rainy season. The vow that lasts these four months is to be kept by all four *āśramas*; its aim is to give up all enjoyment. In Śrāvaṇa one gives up greens (*śāka*), in Bhādra yogurt, in Āśvina milk, and in Kārttika *āmiṣa*. The essence of the teaching of this *cāturmāsya* is giving up everything fit for material enjoyment.
+
+## 47–169
+
+All this effort is for Kṛṣṇa's pleasure; it is not an attempt to enjoy material objects.
+
+## 170
+
+> Subheading: The Lord rejoices in telling of Purī's life —
+
+## 171
+
+> Subheading: The Lord tells Nitāi of the greatness of Purī's love —
+
+## 176
+
+> Subheading: Why Gopīnātha, and not Gopāla, wore the sandalwood —
+
+## 178
+
+> Subheading: Purī's love and the greatness of his life —
+
+Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva's* only *sādhana*. *Nirveda* born of material separation reveals only attachment to matter; but *nirveda* born of separation from Kṛṣṇa is the highest sign of the desire to please Kṛṣṇa's senses. The incomparable desire of the original *mahājana*, Śrīpāda Mādhavendra, to please Kṛṣṇa's senses is the only model for a *jīva* who seeks to serve Kṛṣṇa, and it deserves special attention. It is just this that Śrīman Mahāprabhu and His intimate potencies (*antaraṅga-śakti*) later showed by Their conduct.
+
+## 179
+
+***Grāmya-vārtā*** — talk of the dealings of men and women, all village gossip. On the word *grāmya*, the *Śrīmad-Bhāgavatam* (11.25.25) says: “The village is called *rājasic*,” and in verses 28 and 29 of the same chapter: “…and what is dear to the senses is *rājasic*,” “but what is born of sense objects is *rājasic*.” Everything that pleases one's own senses or arises from enjoying sense objects — that is, whatever kindles mundane desire — is *rājasic*, or *grāmya*.
+
+## 180
+
+> Subheading: The amazing perseverance of Purī, who had not a penny, in obeying the command of the One he served —
+
+## 182
+
+> Subheading: Despite his own many hardships, Purī rejoices only in the Lord's service —
+
+## 183
+
+***Rākhe*** — detained.
+
+## 186
+
+> Subheading: The sign of one who loves Kṛṣṇa —
+
+In the natural conduct of those who love deeply one sees that suffering, obstacles and everything contrary to the fulfillment of their own desires do not hinder them. On the contrary, it is amid hundreds of thousands of obstacles and ceaseless suffering that they show their love in full measure. It is because such a person is fit to be freed from the bound perception of this material world and from absorption in “the second” (*dvitīyābhiniveśa*) that the *Bhāgavatam* verse *tat te ’nukampāṁ su-samīkṣamāṇaḥ* (“one who earnestly waits for Your mercy”) is cited.[^186-1] The intimate beloveds of Bhagavān take no account of any want, obstacle or suffering in the external world. “Whatever suffering you see in a Vaiṣṇava's life, know for certain that it is the happiness of supreme bliss.” In Śrīman Mahāprabhu's words *āśliṣya vā pāda-ratām* (“Let Him embrace me, who am devoted to His feet…”)[^186-2] we see just this ultimate teaching.
+
+## 187
+
+> Subheading: Kṛṣṇa reveals the greatness of His devotee —
+
+## 189
+
+> Subheading: Kṛṣṇa tests the devotee, and the devotee passes the test —
+
+## 190
+
+> Subheading: The extraordinary love (*rati*) of the devotee and Bhagavān for each other —
+
+## 191
+
+> Subheading: The Lord recites the verse composed by Purī —
+
+## 192
+
+> Subheading: The incomparable glory of the verse —
+
+## 195
+
+> Subheading: Only three are able to relish it — Śrī Rādhā, Mādhavendra and Gaura —
+
+## 197
+
+**ayi** (the tender address of the daughter of King Vṛṣabhānu to Her beloved) **dīna-dayārdra** (O You whose heart melts with compassion for the wretched. The wretched are the *gopīs*, His own, tormented by separation from Kṛṣṇa; compassion for them is the mercy that drives away the fever of their separation [*vipralambha*] and lets them directly experience His form, qualities and pastimes. Melted by it, with a heart full of *rasa* — that is, with a heart made utterly soft by compassion for the *gopīs*, afflicted by the fever of intense separation) **nātha** (O Lord — the sole beloved of *gopīs* like Me), **he mathurā-nātha** (O Lord of Mathurā, master of the people of Mathurā! If You think of Yourself as the beloved of the *gopīs*, how is it that, forgetting us *gopīs*, You stay there out of a desire for majesty [*aiśvarya*] to please the women of Mathurā, who are only ordinary lovers [*sādhāraṇī*]? So You have a hard heart, without pity for the *gopīs*!) **tvam** (You) **kadā** (when) **avalokyase** (will be seen — by the *gopī* afflicted by separation, and by me, who have taken shelter of Her mood)? **he dayita** (O beloved — dearer than life itself!) **tvad-aloka-kātaraṁ** (afflicted at not seeing You) **hṛdayaṁ** (the heart — the heart of the *gopī*, distressed and agitated with longing for Your *darśana*, full of *udghūrṇā*, *citra-jalpa* and so on) **bhrāmyati** (is losing its senses), **kiṁ karomi** (what shall I do — tell me).
+
+## 198
+
+> Subheading: The Lord loses consciousness —
+
+## 199
+
+> Subheading: Gaura in Nitāi's arms —
+
+## 200
+
+> Subheading: The Lord's madness in the mood of separation (*vipralambha*) —
+
+## 202
+
+***Jāḍya*** (*Bhakti-rasāmṛta-sindhu*, Southern Division, fourth wave): “*Jāḍya* is the loss of the power to reason that arises from hearing and seeing what is desired and what is not desired, from separation and the like. It occurs both before *moha* and after it.” That is, the absence of reasoning caused by hearing and seeing what is desired and undesired, by separation and so on, is called *jāḍya*. It occurs both before *moha* (unconsciousness) and after it.
+
+## 203
+
+> Subheading: The Lord returns to outward consciousness —
+
+***Prema-nāṭa*** — dancing under the sway of *prema*.
+
+## 204
+
+> Subheading: The *bhoga* and *ārati* of Gopīnātha —
+
+## 205
+
+> Subheading: The priest brings *kṣīra* in twelve pots —
+
+***Bāra*** — twelve full pots.
+
+## 206
+
+> Subheading: Seeing the *kṣīra*, the Lord rejoices, takes five pots and returns seven —
+
+## 207
+
+> Subheading: The Lord and the four led by Nitāi honor the *prasāda* —
+
+***Bāhaḍiyā*** — stepping forward, gave back.
+
+## 208
+
+Although Śrīman Mahāprabhu, in the form of the Deity Śrī Gopīnātha, had already eaten this very *kṣīra*, still, as the teacher of the people, He honored the *mahā-prasāda* of *kṣīra* in order to demonstrate the worship of Kṛṣṇa.
+
+## 209
+
+> Subheading: In the morning the Lord sets out from there on the road to Purī —
+
+***Goṅāila*** — spent.
+
+## 210
+
+> Subheading: This story reveals the incomparable love of the Lord and His devotee for each other and the greatness of their qualities —
+
+The love of the Lord and of the devotee for each other is incomparable.
+
+*Thus ends the fourth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^34-1]: The verse translation reads differently: he “dozed off a little” toward morning.
 
 [^111-1]: Caitanya-caritāmṛta, Madhya 8.127 (in the numbering of our translation).
+
+[^186-1]: *Śrīmad-Bhāgavatam* 10.14.8.
+
+[^186-2]: *Śikṣāṣṭaka* 8 (*Caitanya-caritāmṛta*, Antya 20.47).

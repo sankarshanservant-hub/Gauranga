@@ -80,6 +80,38 @@ The fame created by the Creator (*vidhātā*) comes precisely to one who does go
 
 ***Ghāṭī*** — the *ghāṭoyāls*, who collect the road tolls. ***Dānī*** — those who take the fare for crossing a river. So that all of these would let him pass — that is, so that Purī Gosāñi could go on without paying them — a royal letter (*rāja-lekhā*), that is, a *paravānā*, was placed in his hand through the king's officer.
 
+## 166
+
+***These two*** — those who had come with Purī.
+
+## 176–177
+
+***In the land of the mlecchas.*** A large part of the Medinīpura district belonged to the kingdom of the kings of Utkala: that was the land of a Hindu king. Beyond it almost the whole country was under a *mleccha* king. Here and there the *mleccha* king's agents would seize good things from travelers if they carried any. In Gauḍa such camphor and sandalwood are rare. Fearing such trouble, Purī Gosāñi would have found the journey all the way to Vṛndāvana very hard, and to spare him that hardship [Gopāla] allowed him to offer the sandalwood to Śrī Gopīnātha in Remuṇā.
+
+## 181
+
+***Bhoke rahe*** — remains hungry.
+
+## 184
+
+***Jagāti*** — the *jagāitas*, those who stay awake on the roads in the guise of watchmen.
+
+## 185
+
+***Baṭa*** — a cowrie, a small coin (*kapardaka*).
+
+## 195
+
+***Cauṭha-jana*** — a fourth person. That is, only three relished this verse — Rādhā Ṭhākurāṇī, Mādhavendra Purī and Mahāprabhu; no fourth person was fit to relish it.
+
+## 197
+
+O Lord whose heart melts with compassion for the wretched! O Lord of Mathurā! When shall I see You? Because I do not see You, my afflicted heart has lost all peace! O beloved, what shall I do now?
+
+***Purport.*** The Vaiṣṇavas who proclaim pure devotion and base themselves on Vedānta are divided into four *sampradāyas*. Of these, Śrī Mādhavendra Purī accepted the *sampradāya* of Śrī Madhvācārya and took Vaiṣṇava *sannyāsa*. In that *sampradāya*, from Madhvācārya down to Lakṣmīpati, Mādhavendra's guru, there was no devotion imbued with *śṛṅgāra-rasa*. What kind of devotion they had can be seen from the debate Mahāprabhu held with the Tattvavādīs during His travels in the South. By composing this incomparable verse Śrī Mādhavendra Purī sowed the seed of devotion imbued with *śṛṅgāra-rasa*. Its mood is this: the highest worship of Kṛṣṇa follows the feeling, the surge of great love (*mahā-prema*), that arose in Śrīmatī Rādhikā in separation from Śrī Kṛṣṇa when He had gained the kingdom of Mathurā. A devotee of this *rasa*, thinking himself utterly wretched (*dīna*), will call in this mood to the Lord whose heart melts with compassion for the wretched. For the *jīva*, the natural worship is the mood of separation from Kṛṣṇa. Kṛṣṇa has gone to Mathurā. Not seeing Him, Śrīmatī's heart is in deep distress, and longing to see Him She says: “O beloved (*kānta*), without Your *darśana* My heart is in turmoil. Tell Me, what must I do to see You? Knowing that I am wretched, melt with compassion.” This mood of Śrī Mādhavendra Purī is easily recognized in the variety of feelings (*bhāva-vaicitrya*) of Śrīmatī on meeting Uddhava, which is described as manifest in Śrī Mahāprabhu. Therefore the *mahājanas* say that the root of the tree of *śṛṅgāra-rasa* is Mādhavendra Purī, Īśvara Purī is its sprout, Śrīman Mahāprabhu is its trunk, and the devotees who follow the Lord are its branches and twigs.
+
+*Thus ends the fourth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^0-1]: So in the edition: Mādhava Purī is the same person as Mādhavendra Purī.
