@@ -60,6 +60,40 @@ Eleven meanings of the eleven words of the verse, and seven more meanings obtain
 
 ***Tine*** (these three) — Bhagavān, Bhagavān's potency and Bhagavān's qualities.
 
+## 225–226
+
+Whether the *mahā-prasāda* is dry, stale or brought from a distant land, the rule is to eat it as soon as it is given; there is no need to consider the time. The cultured (*śiṣṭa*) should eat Śrī Kṛṣṇa's *prasāda* as soon as they receive it, and here there are no rules of place or time — so Bhagavān has commanded.
+
+## 235
+
+Those who have taken shelter of His lotus feet in every way and to whom Bhagavān, whose nature is unlimited (Ananta), shows guileless mercy cross over this insurmountable divine *māyā*. But to those who think “I” and “mine” of this material body, food for jackals and dogs, Bhagavān shows no mercy.
+
+## 241
+
+Sārvabhauma Bhaṭṭācārya asked which of the sixty-four limbs of *sādhana-bhakti* is the best of all. Mahāprabhu answered: “*Nāma-saṅkīrtana* alone is the best of all.”
+
+## 242
+
+“What is attained in the Satya-yuga by meditating on Viṣṇu, in the Tretā-yuga by worshipping Him with sacrifices and in the Dvāpara-yuga by serving Him is attained in the age of Kali by chanting [the name of] Hari.”[^242-1]
+
+## 254
+
+I surrender to the one, primeval Person, ever an ocean of mercy, who has assumed the form of Śrī Kṛṣṇa Caitanya to teach renunciation, knowledge and devotion to Himself.
+
+## 255
+
+Seeing that in the course of time devotion to Himself had almost perished, the Person named “Kṛṣṇa Caitanya” appeared to preach it again. May the bee of my mind be deeply absorbed in His lotus feet.
+
+## 261
+
+One who, hoping for Your mercy, tastes the bad fruits of his own deeds and lives serving You with mind, words and body is an heir to the position of devotion — that is, he attains the position of devotion. When reciting this verse Sārvabhauma said *bhakti-pade sa dāya-bhāk* (“he is an heir to the position of devotion”).
+
+## 263
+
+The Bhaṭṭācārya said: “The highest fruit of devotion is (*prema-*)*bhakti* alone; *mukti* is not the fruit of devotion. For a person averse to devotion to Bhagavān, *sāyujya-mukti* is merely a kind of punishment.”
+
 ---
 
 [^150-1]: The edition numbers this section “150–253” (checked against the scan) — a misprint; by content it is 150–153.
+
+[^242-1]: *Śrīmad-Bhāgavatam* 12.3.52.
