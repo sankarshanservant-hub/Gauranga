@@ -857,11 +857,15 @@ of Kṛṣṇa  He asks  the means
 মুগ্ধং মুখাম্বুজমুদীক্ষিতুমীক্ষণাভ্যাম্ ॥ ৬১ ॥
 
 tvac-chaiśavaṁ tri-bhuvanādbhutam ity avehi  
+Your boyhood  of the three worlds a wonder  so  know  
 mac-cāpalaṁ ca tava vā mama vādhigamyam  
+My restlessness  and  to You  or  to Me  alone  known  
 tat kiṁ karomi viralaṁ muralī-vilāsi  
-mugdhaṁ mukhāmbujam udīkṣitum īkṣaṇābhyām
+so  what  shall I do  in solitude  O flute-player  
+mugdhaṁ mukhāmbujam udīkṣitum īkṣaṇābhyām  
+charming  lotus face  to behold  with My two eyes
 
-(61) [not yet translated]
+(61) “O You who play the flute, know that Your boyhood is the wonder of the three worlds, and My restlessness is known only to You and Me. What then shall I do to behold Your charming lotus face with My two eyes in solitude?” (Kṛṣṇa-karṇāmṛta 32)
 
 তোমার মাধুরী-বল, তাতে মোর চাপল,  
 এই দুই, তুমি আমি জানি ৷  
@@ -869,11 +873,15 @@ mugdhaṁ mukhāmbujam udīkṣitum īkṣaṇābhyām
 তাহা মোরে কহ ত’ আপনি ॥ ৬২ ॥
 
 tomāra mādhurī-bala, tāte mora cāpala,  
+Your  sweetness’s  power  by it  My  restlessness  
 ei dui, tumi āmi jāni  
+these  two  You (and)  I  know  
 kāṅhā karoṅ kāṅhā yāṅa, kāṅhā gele tomā pāṅa,  
-tāhā more kaha ta’ āpani
+what  shall I do  where  shall I go  where  going  You  shall I find  
+tāhā more kaha ta’ āpani  
+that  to Me  tell  indeed  Yourself
 
-(62) [not yet translated]
+(62) “The power of Your sweetness, and My restlessness because of it — these two only You and I know. What shall I do? Where shall I go? Where can I go to find You? Tell Me this Yourself!”
 
 নানা-ভাবের প্রাবল্য, হৈল সন্ধি-শাবল্য,  
 ভাবে-ভাবে হৈল মহারণ ৷  
@@ -881,11 +889,15 @@ tāhā more kaha ta’ āpani
 প্রেমোন্মাদ — সবার কারণ ॥ ৬৩ ॥
 
 nānā-bhāvera prābalya, haila sandhi-śābalya,  
+of various  ecstasies  the force  arose  junction and mingling  
 bhāve-bhāve haila mahā-raṇa  
+ecstasy with ecstasy  there was  a great battle  
 autsukya, cāpalya, dainya, roṣāmarṣa ādi sainya,  
-premonmāda — sabāra kāraṇa
+eagerness  restlessness  humility  anger and indignation  and other  soldiers  
+premonmāda — sabāra kāraṇa  
+the madness of love  of all  the cause
 
-(63) [not yet translated]
+(63) Under the force of many ecstasies, they met and mingled (*sandhi* and *śābalya*), and ecstasy fought ecstasy in a great battle. Eagerness, restlessness, humility, anger, indignation and others were the soldiers, and the madness of love was the cause of it all.
 
 মত্তগজ ভাবগণ, প্রভুর দেহ — ইক্ষুবন,  
 গজযুদ্ধে বনের দলন ৷  
@@ -893,11 +905,15 @@ premonmāda — sabāra kāraṇa
 ভাবাবেশে করে সম্বোধন ॥ ৬৪ ॥
 
 matta-gaja bhāva-gaṇa, prabhura deha — ikṣu-vana,  
+maddened elephants  the ecstasies  the Lord’s  body  a sugarcane field  
 gaja-yuddhe vanera dalana  
+in the elephants’ fight  of the field  the trampling  
 prabhura haila divyonmāda, tanu-manera avasāda,  
-bhāvāveśe kare sambodhana
+to the Lord  came  divine madness  of body and mind  exhaustion  
+bhāvāveśe kare sambodhana  
+in ecstatic absorption  makes  address
 
-(64) [not yet translated]
+(64) The ecstasies were maddened elephants and the Lord’s body a field of sugarcane: in the elephants’ battle the field was trampled. Divine madness came upon the Lord, His body and mind were exhausted, and absorbed in ecstasy He cried out:
 
 হে দেব, হে দয়িত, হে ভুবনৈকবন্ধো,  
 হে কৃষ্ণ, হে চপল, হে করুণৈকসিন্ধো ৷  
@@ -905,11 +921,15 @@ bhāvāveśe kare sambodhana
 হা হা কদা নু ভবিতাসি পদং দৃশোর্মে ॥ ৬৫ ॥
 
 he deva, he dayita, he bhuvanaika-bandho,  
+O God  O Beloved  O sole Friend of the world  
 he kṛṣṇa, he capala, he karuṇaika-sindho,  
+O Kṛṣṇa  O Fickle One  O sole Ocean of compassion  
 he nātha, he ramaṇa, he nayanābhirāma  
-hā hā kadā nu bhavitāsi padaṁ dṛśor me
+O Lord  O Lover  O Delight of the eyes  
+hā hā kadā nu bhavitāsi padaṁ dṛśor me  
+alas  alas  when  indeed  will You be  on the path  of the eyes  of Mine
 
-(65) [not yet translated]
+(65) “O God, O Beloved, O sole Friend of the world! O Kṛṣṇa, O Fickle One, O sole Ocean of compassion! O Lord, O Lover, O Delight of the eyes! Alas, alas, when will You again come before My eyes?” (Kṛṣṇa-karṇāmṛta 40)
 
 উন্মাদের লক্ষণ, করায় কৃষ্ণ-স্ফুরণ,  
 ভাবাবেশে উঠে প্রণয়-মান ৷  
@@ -917,11 +937,15 @@ hā hā kadā nu bhavitāsi padaṁ dṛśor me
 কভু নিন্দা, কভু বা সম্মান ॥ ৬৬ ॥
 
 unmādera lakṣaṇa, karāya kṛṣṇa-sphuraṇa,  
+of madness  the signs  cause  Kṛṣṇa’s  appearance  
 bhāvāveśe uṭhe praṇaya-māna  
+in ecstatic absorption  arises  loving  pique  
 solluṇṭha-vacana-rīti, māna, garva, vyāja-stuti,  
-kabhu nindā, kabhu vā sammāna
+of mocking  words  the manner  pique  pride  veiled praise  
+kabhu nindā, kabhu vā sammāna  
+sometimes  censure  sometimes  even  honour
 
-(66) [not yet translated]
+(66) The signs of madness made Kṛṣṇa appear before Him, and in the absorption of ecstasy loving pique (*praṇaya-māna*) arose: mocking speech, pique, pride and veiled praise — now censure, now honour.
 
 তুমি দেব — ক্রীড়া-রত, ভুবনের নারী যত,  
 তাহে কর অভীষ্ট ক্রীড়ন ৷  
@@ -929,11 +953,15 @@ kabhu nindā, kabhu vā sammāna
 মোর ভাগ্যে কৈলে আগমন ॥ ৬৭ ॥
 
 tumi deva — krīḍā-rata, bhuvanera nārī yata,  
+You  God  in play  absorbed  of the world  women  all  
 tāhe kara abhīṣṭa krīḍana  
+with them  You make  the play You desire  
 tumi mora dayita, tāte vaisa mora cita,  
-mora bhāgye kaile āgamana
+You  My  Beloved  therefore  sit  in My  heart  
+mora bhāgye kaile āgamana  
+by My  good fortune  You have made  Your coming
 
-(67) [not yet translated]
+(67) “You are God (*deva*), absorbed in play: with all the women of the world You play as You like. You are My Beloved (*dayita*): so sit within My heart, since by My good fortune You have come.
 
 ভুবনের নারীগণ, সবা’ কর আকর্ষণ,  
 তাঁহা কর সব সমাধান ৷  
@@ -941,11 +969,15 @@ mora bhāgye kaile āgamana
 তোমারে বা কেবা করে মান ॥ ৬৮ ॥
 
 bhuvanera nārī-gaṇa, sabā’ kara ākarṣaṇa,  
+of the world  the women  all  You make  attraction  
 tāṅhā kara saba samādhāna  
+there  You make  for all  satisfaction  
 tumi kṛṣṇa — citta hara, aiche kon pāmara,  
-tomāre vā kebā kare māna
+You  Kṛṣṇa  hearts  You steal  such  what  rogue  
+tomāre vā kebā kare māna  
+You  indeed  who  makes  honour
 
-(68) [not yet translated]
+(68) You attract all the women of the world and satisfy them all. You are Kṛṣṇa, the stealer of hearts — what a rogue! Who would ever honour You?
 
 তোমার চপল মতি, একত্র না হয় স্থিতি,  
 তাতে তোমার নাহি কিছু দোষ ৷  
@@ -953,11 +985,15 @@ tomāre vā kebā kare māna
 তোমায় নাহি মোর কভু রোষ ॥ ৬৯ ॥
 
 tomāra capala mati, ekatra nā haya sthiti,  
+Your  fickle  mind  in one place  not  is  staying  
 tāte tomāra nāhi kichu doṣa  
+in that  Yours  is not  any  fault  
 tumi ta’ karuṇā-sindhu, āmāra parāṇa-bandhu,  
-tomāya nāhi mora kabhu roṣa
+You  indeed  compassion’s ocean  My  life’s  friend  
+tomāya nāhi mora kabhu roṣa  
+at You  is not  My  ever  anger
 
-(69) [not yet translated]
+(69) Your mind is fickle; it never stays in one place — but that is no fault of Yours. You are an ocean of compassion, the friend of My life; I am never angry with You.
 
 তুমি নাথ, — ব্রজপ্রাণ, ব্রজের কর পরিত্রাণ,  
 বহুকার্য্যে নাহি অবকাশ ৷  
@@ -965,11 +1001,15 @@ tomāya nāhi mora kabhu roṣa
 এ তোমার বৈদগ্ধ্য-বিলাস ॥ ৭০ ॥
 
 tumi nātha, — vraja-prāṇa, vrajera kara paritrāṇa,  
+You  Lord  Vraja’s life  Vraja  You make  protection  
 bahu kārye nāhi avakāśa  
+with many tasks  is not  leisure  
 tumi āmāra ramaṇa, sukha dite āgamana,  
-e tomāra vaidagdhya-vilāsa
+You  My  Lover  happiness  to give  coming  
+e tomāra vaidagdhya-vilāsa  
+this  Your  cleverness’s  play
 
-(70) [not yet translated]
+(70) You are the Lord (*nātha*), the life of Vraja; You protect Vraja, and with so many tasks You have no leisure. You are My Lover (*ramaṇa*); You come to give Me happiness — this is the play of Your cleverness.
 
 মোর বাক্য নিন্দা মানি’, কৃষ্ণ ছাড়ি’ গেলা জানি,  
 শুন, মোর এ স্তুতি-বচন ৷  
@@ -977,11 +1017,15 @@ e tomāra vaidagdhya-vilāsa
 হাহা পুনঃ দেহ দরশন ॥ ৭১ ॥
 
 mora vākya nindā māni’, kṛṣṇa chāḍi’ gelā jāni,  
+My  words  as censure  taking  Kṛṣṇa  leaving  went  I know  
 śuna, mora e stuti-vacana  
+hear  My  this  praise  speech  
 nayanera abhirāma, tumi mora dhana-prāṇa,  
-hāhā punaḥ deha daraśana
+of the eyes  delight  You  My  wealth and life  
+hāhā punaḥ deha daraśana  
+alas  again  give  sight
 
-(71) [not yet translated]
+(71) Taking My words as censure, Kṛṣṇa has left Me, I know. Hear these words of praise: You are the delight of My eyes, My wealth and My life. Alas, show Yourself to Me again!”
 
 স্তম্ভ, কম্প, প্রস্বেদ, বৈবর্ণ্য, অশ্রু, স্বরভেদ,  
 দেহ হৈল পুলকে ব্যাপিত ৷  
@@ -989,11 +1033,15 @@ hāhā punaḥ deha daraśana
 ক্ষণে ভূমে পড়িয়া মূর্চ্ছিত ॥ ৭২ ॥
 
 stambha, kampa, prasveda, vaivarṇya, aśru, svara-bheda,  
+stupor  trembling  perspiration  pallor  tears  faltering voice  
 deha haila pulake vyāpita  
+the body  became  with bristling hair  pervaded  
 hāse, kānde, nāce, gāya, uṭhi’ iti-uti dhāya,  
-kṣaṇe bhūme paḍiyā mūrcchita
+laughs  weeps  dances  sings  rising  here and there  runs  
+kṣaṇe bhūme paḍiyā mūrcchita  
+at times  on the ground  falling  unconscious
 
-(72) [not yet translated]
+(72) Stupor, trembling, perspiration, pallor, tears and a faltering voice appeared, and His body was covered with bristling hair. He laughed, wept, danced and sang; rising, He ran here and there, and at times fell unconscious to the ground.
 
 মূর্চ্ছায় হৈল সাক্ষাৎকার, উঠি’ করে হুহুঙ্কার,  
 কহে, — এই আইলা মহাশয় ৷  
@@ -1001,11 +1049,15 @@ kṣaṇe bhūme paḍiyā mūrcchita
 শ্লোক পড়ি’ করয়ে নিশ্চয় ॥ ৭৩ ॥
 
 mūrcchāya haila sākṣātkāra, uṭhi’ kare huhuṅkāra,  
+in the swoon  there was  a meeting face to face  rising  makes  a loud roar  
 kahe, — ei āilā mahāśaya  
+says  here  has come  the Great One  
 kṛṣṇera mādhurī-guṇe, nānā bhrama haya mane,  
-śloka paḍi’ karaye niścaya
+Kṛṣṇa’s  by sweetness and qualities  various  bewilderment  is  in the mind  
+śloka paḍi’ karaye niścaya  
+a verse  reciting  makes  certain
 
-(73) [not yet translated]
+(73) In His swoon He met Kṛṣṇa face to face. Rising, He gave a loud roar and said: “Here He has come, the Great One!” Kṛṣṇa’s sweetness and qualities filled His mind with many bewildered fancies, and by reciting a verse He made sure of what He saw:
 
 মারঃ স্বয়ং নু মধুরদ্যুতিমণ্ডলং নু  
 মাধুর্য্যমেব নু মনোনয়নামৃতং নু ৷  
@@ -1013,11 +1065,15 @@ kṛṣṇera mādhurī-guṇe, nānā bhrama haya mane,
 কৃষ্ণোঽয়মভ্যুদয়তে মম লোচনায় ॥ ৭৪ ॥
 
 māraḥ svayaṁ nu madhura-dyuti-maṇḍalaṁ nu  
+Cupid  himself  is it  of sweet  radiance  an orb  is it  
 mādhuryam eva nu mano-nayanāmṛtaṁ nu  
+sweetness  itself  is it  for mind and eyes  nectar  is it  
 veṇī-mṛjo nu mama jīvita-vallabho nu  
-kṛṣṇo ’yam abhyudayate mama locanāya
+the loosener of braids  is it  of My  life  the beloved  is it  
+kṛṣṇo ’yam abhyudayate mama locanāya  
+Kṛṣṇa  this  rises  to My  eyes
 
-(74) [not yet translated]
+(74) “Is this Cupid himself? Is it an orb of sweet radiance? Is it sweetness itself, nectar for the mind and eyes? Is it the One who loosens the braids, the beloved of My life? It is Kṛṣṇa who rises before My eyes!” (Kṛṣṇa-karṇāmṛta 68)
 
 কিবা এই সাক্ষাৎ কাম, দ্যুতিবিম্ব-মূর্ত্তিমান্,  
 কি মাধুর্য্য স্বয়ং মূর্ত্তিমন্ত ৷  
@@ -1025,11 +1081,15 @@ kṛṣṇo ’yam abhyudayate mama locanāya
 সত্য কৃষ্ণ আইলা নেত্রানন্দ ॥ ৭৫ ॥
 
 kibā ei sākṣāt kāma, dyuti-bimba-mūrtimān,  
+is it  this  in person  Kāma  of radiance’s orb  the embodiment  
 ki mādhurya svayaṁ mūrtimanta  
+is it  sweetness  itself  embodied  
 kibā mano-netrotsava, kibā prāṇa-vallabha,  
-satya kṛṣṇa āilā netrānanda
+is it  of mind and eyes the festival  is it  of life the beloved  
+satya kṛṣṇa āilā netrānanda  
+truly  Kṛṣṇa  has come  the joy of the eyes
 
-(75) [not yet translated]
+(75) “Is this Kāma in person, an orb of radiance embodied? Is it sweetness itself in bodily form? Is it the festival of mind and eyes? Is it the beloved of My life? Truly Kṛṣṇa, the joy of My eyes, has come!”
 
 গুরু — নানা ভাবগণ, শিষ্য — প্রভুর তনু-মন,  
 নানা রীতে সতত নাচায় ৷  
@@ -1037,11 +1097,15 @@ satya kṛṣṇa āilā netrānanda
 এই নৃত্যে প্রভুর কাল যায় ॥ ৭৬ ॥
 
 guru — nānā bhāva-gaṇa, śiṣya — prabhura tanu-mana,  
+the guru  various  ecstasies  the disciple  the Lord’s  body and mind  
 nānā rīte satata nācāya  
+in various  ways  constantly  make dance  
 nirveda, viṣāda, dainya, cāpalya, harṣa, dhairya, manyu,  
-ei nṛtye prabhura kāla yāya
+despondency  dejection  humility  restlessness  joy  composure  anger  
+ei nṛtye prabhura kāla yāya  
+in this  dance  the Lord’s  time  passes
 
-(76) [not yet translated]
+(76) The many ecstasies were the guru, and the Lord’s body and mind the disciple; in various ways they made Him dance constantly. Despondency, dejection, humility, restlessness, joy, composure and anger — in this dance the Lord’s time passed.
 
 চণ্ডীদাস, বিদ্যাপতি, রায়ের নাটক-গীতি,  
 কর্ণামৃত, শ্রীগীতগোবিন্দ ৷  
@@ -1049,11 +1113,15 @@ ei nṛtye prabhura kāla yāya
 গায়, শুনে — পরম আনন্দ ॥ ৭৭ ॥
 
 caṇḍīdāsa, vidyāpati, rāyera nāṭaka-gīti,  
+Caṇḍīdāsa  Vidyāpati  of Rāya  the drama’s  songs  
 karṇāmṛta, śrī-gīta-govinda  
+the Karṇāmṛta  the Śrī Gīta-govinda  
 svarūpa-rāmānanda-sane, mahāprabhu rātri-dine,  
-gāya, śune — parama ānanda
+Svarūpa and Rāmānanda  with  Mahāprabhu  night and day  
+gāya, śune — parama ānanda  
+sings  hears  supreme  bliss
 
-(77) [not yet translated]
+(77) With Svarūpa and Rāmānanda, Mahāprabhu night and day sang and heard the songs of Caṇḍīdāsa and Vidyāpati, Rāya’s drama, the *Karṇāmṛta* and the *Śrī Gīta-govinda* in supreme bliss.
 
 পুরীর বাৎসল্য মুখ্য, রামানন্দের শুদ্ধসখ্য,  
 গোবিন্দাদ্যের শুদ্ধদাস্যরস ৷  
@@ -1061,11 +1129,15 @@ gāya, śune — parama ānanda
 এই চারিভাবে প্রভু বশ ॥ ৭৮ ॥
 
 purīra vātsalya mukhya, rāmānandera śuddha-sakhya,  
+of Purī  parental love  chief  of Rāmānanda  pure friendship  
 govindādyera śuddha-dāsya-rasa  
+of Govinda and others  pure servitude’s rasa  
 gadādhara, jagadānanda, svarūpera (mukhya) rasānanda,  
-ei cāri-bhāve prabhu vaśa
+Gadādhara  Jagadānanda  of Svarūpa  (the chief)  rasa’s bliss  
+ei cāri-bhāve prabhu vaśa  
+by these  four moods  the Lord  controlled
 
-(78) [not yet translated]
+(78) The parental love of Purī was foremost; Rāmānanda had pure friendship, and Govinda and others the *rasa* of pure servitude; Gadādhara, Jagadānanda and Svarūpa had the bliss of the chief *rasa*. By these four moods the Lord was held captive.
 
 লীলাশুক-মত্ত জন, তাঁর হয় ভাবোদ্গম,  
 ঈশ্বরে সে, — কি ইহা বিস্ময় ৷  
@@ -1073,11 +1145,15 @@ ei cāri-bhāve prabhu vaśa
 তাতে হয় সর্ব্বভাবোদয় ॥ ৭৯ ॥
 
 līlāśuka-matta jana, tāṅra haya bhāvodgama,  
+Līlāśuka  a mortal  man  in him  arises  ecstasy  
 īśvare se, — ki ihā vismaya  
+in the Lord  that  what  in this  wonder  
 tāhe mukhya-rasāśraya, haiyāchena mahāśaya,  
-tāte haya sarva-bhāvodaya
+moreover  of the chief rasa the abode  has become  the Great One  
+tāte haya sarva-bhāvodaya  
+therefore  is  of all ecstasies the rising
 
-(79) [not yet translated]
+(79) Ecstasy arose even in Līlāśuka, a mortal man; what wonder is it in the Lord? Moreover, the Great One has become the abode (*āśraya*) of the chief *rasa*, and so all ecstasies rise in Him.
 
 পূর্ব্বে ব্রজবিলাসে, যেই তিন অভিলাষে,  
 যত্নেহ আস্বাদ না হৈল ৷  
@@ -1085,11 +1161,15 @@ tāte haya sarva-bhāvodaya
 সেই তিন বস্তু আস্বাদিল ॥ ৮০ ॥
 
 pūrve vraja-vilāse, yei tina abhilāṣe,  
+formerly  in the Vraja pastimes  which  three  desires  
 yatneha āsvāda nā haila  
+even with effort  tasted  not  were  
 śrī-rādhāra bhāva-sāra, āpane kari’ aṅgīkāra,  
-sei tina vastu āsvādila
+of Śrī Rādhā  the essence of feeling  Himself  making  acceptance  
+sei tina vastu āsvādila  
+those  three  things  He tasted
 
-(80) [not yet translated]
+(80) Three desires He could not taste even with effort in His former pastimes in Vraja. Accepting the essence of Śrī Rādhā’s feeling, He Himself tasted those three things.
 
 আপনে করি’ আস্বাদনে, শিখাইল ভক্তগণে,  
 প্রেমচিন্তামণির প্রভু ধনী ৷  
@@ -1097,11 +1177,15 @@ sei tina vastu āsvādila
 মহাপ্রভু — দাতা-শিরোমণি ॥ ৮১ ॥
 
 āpane kari’ āsvādane, śikhāila bhakta-gaṇe,  
+Himself  making  tasting  He taught  the devotees  
 prema-cintāmaṇira prabhu dhanī  
+of the touchstone of love  the Lord  is rich  
 nāhi jāne sthānāsthāna, yāre tāre kaila dāna,  
-mahāprabhu — dātā-śiromaṇi
+not  knows  proper and improper place  to whomever  made  a gift  
+mahāprabhu — dātā-śiromaṇi  
+Mahāprabhu  of givers  the crest-jewel
 
-(81) [not yet translated]
+(81) Tasting it Himself, He taught His devotees. The Lord is rich with the touchstone of love; without regard for who was worthy and who was not, He gave it to everyone. Mahāprabhu is the crest-jewel of givers.
 
 এই গুপ্তভাব-সিন্ধু, ব্রহ্মা না পায় এক বিন্দু,  
 হেন ধন বিলাইল সংসারে ৷  
@@ -1109,11 +1193,15 @@ mahāprabhu — dātā-śiromaṇi
 গুণ কেহ নারে বর্ণিবারে ॥ ৮২ ॥
 
 ei gupta-bhāva-sindhu, brahmā nā pāya eka bindu,  
+this  of secret moods  ocean  Brahmā  not  gets  one  drop  
 hena dhana vilāila saṁsāre  
+such  wealth  He distributed  in the world  
 aiche dayālu avatāra, aiche dātā nāhi āra,  
-guṇa keha nāre varṇibāre
+such  merciful  avatāra  such  giver  is not  another  
+guṇa keha nāre varṇibāre  
+qualities  anyone  cannot  describe
 
-(82) [not yet translated]
+(82) Of this ocean of secret moods Brahmā does not obtain a single drop, yet the Lord distributed such wealth throughout the world. There is no other avatāra so merciful, no other such giver; no one can describe His qualities.
 
 কহিবার কথা নয়, কহিলে কেহ না বুঝয়,  
 ঐছে চিত্র চৈতন্যের রঙ্গ ৷  
@@ -1121,11 +1209,15 @@ guṇa keha nāre varṇibāre
 হয় তাঁর দাসানুদাস-সঙ্গ ॥ ৮৩ ॥
 
 kahibāra kathā naya, kahile keha nā bujhaya,  
+of telling  a matter  not  if told  anyone  not  understands  
 aiche citra caitanyera raṅga  
+so  wonderful  Caitanya’s  play  
 sei se bujhite pāre, caitanyera kṛpā yāṅre,  
-haya tāṅra dāsānudāsa-saṅga
+he alone  to understand  can  Caitanya’s  mercy  on whom  
+haya tāṅra dāsānudāsa-saṅga  
+is  his  of the servants of the servants  the company
 
-(83) [not yet translated]
+(83) This is not a matter to be told; if it is told, no one understands — so wonderful is Caitanya’s play. Only he can understand it on whom Caitanya’s mercy rests and who has the company of the servants of His servants.
 
 চৈতন্যলীলা-রত্ন-সার, স্বরূপের ভাণ্ডার,  
 তেঁহো থুইল রঘুনাথের কণ্ঠে ৷  
@@ -1133,11 +1225,15 @@ haya tāṅra dāsānudāsa-saṅga
 ভক্তগণে দিলুঁ এই ভেটে ॥ ৮৪ ॥
 
 caitanya-līlā-ratna-sāra, svarūpera bhāṇḍāra,  
+of Caitanya’s pastimes  of jewels  the essence  of Svarūpa  the treasury  
 teṅho thuila raghunāthera kaṇṭhe  
+he  placed  in Raghunātha’s  throat  
 tāṅhā kichu ye śuniluṅ, tāhā ihā vistāriluṅ,  
-bhakta-gaṇe diluṅ ei bheṭe
+from him  something  which  I heard  that  here  I expanded  
+bhakta-gaṇe diluṅ ei bheṭe  
+to the devotees  I gave  this  as a gift
 
-(84) [not yet translated]
+(84) The essence of the jewels of Caitanya’s pastimes was Svarūpa’s treasury; he placed it in Raghunātha’s throat. What I heard from him I have expanded here, and I give it to the devotees as a gift.
 
 যদি কেহ হেন কয়, গ্রন্থ কৈল শ্লোকময়,  
 ইতর-জনে নারিবে বুঝিতে ৷  
@@ -1145,11 +1241,15 @@ bhakta-gaṇe diluṅ ei bheṭe
 সর্ব্ব-চিত্ত নারি আরাধিতে ॥ ৮৫ ॥
 
 yadi keha hena kaya, grantha kaila śloka-maya,  
+if  someone  so  says  the book  made  full of Sanskrit verses  
 itara-jane nāribe bujhite  
+common people  cannot  understand  
 prabhura yei ācaraṇa, sei kari varṇana,  
-sarva-citta nāri ārādhite
+the Lord’s  which  conduct  that  I make  description  
+sarva-citta nāri ārādhite  
+of all  the hearts  I cannot  please
 
-(85) [not yet translated]
+(85) If someone says, “The book is full of Sanskrit verses; ordinary people will not be able to understand it,” I reply: I describe the Lord’s conduct as it was; I cannot please everyone’s heart.
 
 নাহি কাঁহা সবিরোধ, নাহি কাঁহা অনুরোধ,  
 সহজ বস্তু করি বিবরণ ৷  
@@ -1157,11 +1257,15 @@ sarva-citta nāri ārādhite
 সহজ বস্তু না যায় লিখন ॥ ৮৬ ॥
 
 nāhi kāṅhā savirodha, nāhi kāṅhā anurodha,  
+not  anywhere  contradiction  not  anywhere  deference  
 sahaja vastu kari vivaraṇa  
+the natural  truth  I make  description  
 yadi haya rāgoddeśa, tāṅhā haye āveśa,  
-sahaja vastu nā yāya likhana
+if  there is  partiality’s aim  in that  arises  absorption  
+sahaja vastu nā yāya likhana  
+the natural  truth  not  can  be written
 
-(86) [not yet translated]
+(86) Nowhere is there any contradiction here, nor any deference to others’ views: I describe the natural truth (*sahaja vastu*). If the heart is bent by partiality, it becomes absorbed in that, and the natural truth cannot be written.
 
 যেবা নাহি বুঝে কেহ, শুনিতে শুনিতে সেহ,  
 কি অদ্ভুত চৈতন্যচরিত ৷  
@@ -1169,11 +1273,15 @@ sahaja vastu nā yāya likhana
 শুনিলেই বড় হয় হিত ॥ ৮৭ ॥
 
 yebā nāhi bujhe keha, śunite śunite seha,  
+whoever  not  understands  anyone  hearing  hearing  he too  
 ki adbhuta caitanya-carita  
+how  wonderful  Caitanya’s life  
 kṛṣṇe upajibe prīti, jānibe rasera rīti,  
-śunilei baḍa haya hita
+for Kṛṣṇa  will arise  love  he will know  rasa’s  ways  
+śunilei baḍa haya hita  
+by merely hearing  great  comes  benefit
 
-(87) [not yet translated]
+(87) Even one who does not understand will, by hearing again and again how wonderful is Caitanya’s life, come to love Kṛṣṇa and know the ways of *rasa*. Simply by hearing, great good comes.
 
 ভাগবত — শ্লোকময়, টীকা তার সংস্কৃত হয়,  
 তবু কৈছে বুঝে ত্রিভুবন ৷  
@@ -1181,11 +1289,15 @@ kṛṣṇe upajibe prīti, jānibe rasera rīti,
 কেনে না বুঝিবে সর্ব্বজন ॥ ৮৮ ॥
 
 bhāgavata — śloka-maya, ṭīkā tāra saṁskṛta haya,  
+the Bhāgavata  full of verses  commentaries  its  Sanskrit  are  
 tabu kaiche bujhe tri-bhuvana  
+still  how  understand  the three worlds  
 iṅhā śloka dui-cāri, tāra vyākhyā bhāṣā kari,  
-kene nā bujhibe sarva-jana
+here  verses  two or four  their  explanation  in the vernacular  made  
+kene nā bujhibe sarva-jana  
+why  not  will understand  all people
 
-(88) [not yet translated]
+(88) The *Bhāgavata* is full of Sanskrit verses, and its commentaries are in Sanskrit, yet the three worlds understand it. Here there are only a few verses, explained in the vernacular — why should everyone not understand?
 
 শেষ-লীলার সূত্রগণ, কৈলুঁ কিছু বিবরণ,  
 ইঁহা বিস্তারিতে চিত্ত হয় ৷  
@@ -1193,11 +1305,15 @@ kene nā bujhibe sarva-jana
 যদি মহাপ্রভুর কৃপা হয় ॥ ৮৯ ॥
 
 śeṣa-līlāra sūtra-gaṇa, kailuṅ kichu vivaraṇa,  
+of the final pastimes  the sūtras  I made  some  description  
 iṅhā vistārite citta haya  
+this  to expand  the heart  wishes  
 thāke yadi āyuḥ-śeṣa, vistāriba līlā-śeṣa,  
-yadi mahāprabhura kṛpā haya
+remains  if  of life a remainder  I shall expand  of the pastimes  the rest  
+yadi mahāprabhura kṛpā haya  
+if  Mahāprabhu’s  mercy  comes
 
-(89) [not yet translated]
+(89) I have described something of the *sūtras* of the final pastimes, and my heart wishes to expand them. If some life remains to me and Mahāprabhu’s mercy comes, I shall describe the rest of the pastimes in detail.
 
 আমি বৃদ্ধ জরাতুর, লিখিতে কাঁপয়ে কর,  
 মনে কিছু স্মরণ না হয় ৷  
@@ -1205,11 +1321,15 @@ yadi mahāprabhura kṛpā haya
 তবু লিখি, — এ বড় বিস্ময় ॥ ৯০ ॥
 
 āmi vṛddha jarātura, likhite kāṅpaye kara,  
+I  old  infirm  in writing  trembles  the hand  
 mane kichu smaraṇa nā haya  
+in the mind  anything  memory  not  is  
 nā dekhiye nayane, nā śunaye śravaṇe,  
-tabu likhi, — e baḍa vismaya
+not  I see  with my eyes  not  I hear  with my ears  
+tabu likhi, — e baḍa vismaya  
+still  I write  this  great  wonder
 
-(90) [not yet translated]
+(90) I am old and infirm; my hand trembles as I write, and my mind remembers nothing. My eyes do not see, my ears do not hear, yet I write — this is a great wonder.
 
 এই অন্ত্যলীলা-সার, সূত্রমধ্যে বিস্তার,  
 করি’ কিছু করিলুঁ বর্ণন ৷  
@@ -1217,11 +1337,15 @@ tabu likhi, — e baḍa vismaya
 এই লীলা ভক্তগণ-ধন ॥ ৯১ ॥
 
 ei antya-līlā-sāra, sūtra-madhye vistāra,  
+this  of the final pastimes  essence  within the sūtras  in detail  
 kari’ kichu kariluṅ varṇana  
+making  some  I have made  description  
 ihā-madhye mari yabe, varṇite nā pāri tabe,  
-ei līlā bhakta-gaṇa-dhana
+in the meantime  I die  if  to describe  not  I can  then  
+ei līlā bhakta-gaṇa-dhana  
+these  pastimes  of the devotees  the wealth
 
-(91) [not yet translated]
+(91) Within the *sūtras* I have described some of the essence of the final pastimes in detail. If I leave this world in the meantime and cannot describe them, these pastimes remain the wealth of the devotees.
 
 সংক্ষেপে এই সূত্র কৈল, যেই ইঁহা না লিখিল,  
 আগে তাহা করিব বিচার ৷  
@@ -1229,11 +1353,15 @@ ei līlā bhakta-gaṇa-dhana
 ইচ্ছা ভরি’ করিব বিস্তার ॥ ৯২ ॥
 
 saṅkṣepe ei sūtra kaila, yei iṅhā nā likhila,  
+in brief  these  sūtras  I made  what  here  not  I wrote  
 āge tāhā kariba vicāra  
+later  that  I shall make  consideration  
 yadi tata dina jiye, mahāprabhura kṛpā haye,  
-icchā bhari’ kariba vistāra
+if  so many  days  I live  Mahāprabhu’s  mercy  comes  
+icchā bhari’ kariba vistāra  
+to my heart’s content  I shall make  expansion
 
-(92) [not yet translated]
+(92) I have made these *sūtras* in brief; what I have not written here I shall consider later. If I live so long and Mahāprabhu’s mercy comes, I shall expand it to my heart’s content.
 
 ছোট বড় ভক্তগণ, বন্দোঁ সবার চরণ,  
 সবে মোরে করহ সন্তোষ ৷  
@@ -1241,11 +1369,15 @@ icchā bhari’ kariba vistāra
 তাই লিখি, নাহি মোর দোষ ॥ ৯৩ ॥
 
 choṭa baḍa bhakta-gaṇa, vandoṅ sabāra caraṇa,  
+small  great  devotees  I worship  of all  the feet  
 sabe more karaha santoṣa  
+all  me  make  pleased  
 svarūpa-gosāñira mata, rūpa-raghunātha jāne yata,  
-tāi likhi’ nāhi mora doṣa
+of Svarūpa Gosāñi  the view  Rūpa and Raghunātha  know  as much as  
+tāi likhi’ nāhi mora doṣa  
+that  I write  is not  my  fault
 
-(93) [not yet translated]
+(93) Devotees great and small, I worship the feet of you all; may you all be pleased with me. I write what Svarūpa Gosāñi held and what Rūpa and Raghunātha know; the fault is not mine.
 
 শ্রীচৈতন্য, নিত্যানন্দ, অদ্বৈতাদি ভক্তবৃন্দ,  
 শিরে ধরি সবার চরণ ৷  
@@ -1253,11 +1385,15 @@ tāi likhi’ nāhi mora doṣa
 ধূলি করোঁ মস্তকে ভূষণ ॥ ৯৪ ॥
 
 śrī caitanya, nityānanda, advaitādi bhakta-vṛnda,  
+Śrī Caitanya  Nityānanda  Advaita and other  devotees  
 śire dhari sabāra caraṇa  
+on my head  I hold  of all  the feet  
 svarūpa, rūpa, sanātana, raghunāthera śrī-caraṇa,  
-dhūli karonṅ mastake bhūṣaṇa
+of Svarūpa  Rūpa  Sanātana  Raghunātha  the holy feet’s  
+dhūli karonṅ mastake bhūṣaṇa  
+dust  I make  for my head  an ornament
 
-(94) [not yet translated]
+(94) I hold on my head the feet of Śrī Caitanya, Nityānanda, Advaita and all the devotees. The dust of the holy feet of Svarūpa, Rūpa, Sanātana and Raghunātha I make the ornament of my head.
 
 পাঞা যাঁর আজ্ঞা-ধন, ব্রজের বৈষ্ণবগণ,  
 বন্দোঁ তাঁর মুখ্য হরিদাস ৷  
@@ -1265,8 +1401,12 @@ dhūli karonṅ mastake bhūṣaṇa
 তার কণা কহে কৃষ্ণদাস ॥ ৯৫ ॥
 
 pāñā yāṅra ājñā-dhana, vrajera vaiṣṇava-gaṇa,  
+having received  whose  order-wealth  of Vraja  the Vaiṣṇavas  
 vandoṅ tāṅra mukhya haridāsa  
+I worship  their  chief  Haridāsa  
 caitanya-vilāsa-sindhu- kallolera eka bindu,  
-tāra kaṇā kahe kṛṣṇadāsa
+of Caitanya’s pastimes’ ocean  of a wave  one  drop  
+tāra kaṇā kahe kṛṣṇadāsa  
+of it  a particle  tells  Kṛṣṇadāsa
 
-(95) [not yet translated]
+(95) Having received the treasure of their order, I worship the Vaiṣṇavas of Vraja and Haridāsa, their chief. The ocean of Caitanya’s pastimes has a wave, the wave a drop; of that drop Kṛṣṇadāsa tells a particle.
