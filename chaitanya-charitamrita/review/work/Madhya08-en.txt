@@ -1457,7 +1457,7 @@ tr: “Those who desire liberation and those who desire enjoyment — where do t
 ## 257
 w: ignorant of taste  the crow  sucks  of knowledge  of the nimba  the fruit
 w: knowing taste  the cuckoo  eats  of love  of the mango  the buds
-tr: The crow that knows no taste sucks the bitter nimba fruit of *jñāna*, while the cuckoo that knows *rasa* eats the mango buds of *prema*.
+tr: The crow that knows no taste sucks the bitter nimba fruit of *jñāna*, while the cuckoo that knows rasa eats the mango buds of prema.
 
 ## 258
 w: unfortunate  the jñānī  tastes  dry  knowledge
@@ -1467,7 +1467,7 @@ tr: The unfortunate *jñānī* tastes dry knowledge, while the fortunate one dri
 ## 259
 w: in this way  the two  of talks about Kṛṣṇa  in the rasa
 w: in dancing  singing  weeping  came  of the night  the end
-tr: In this way the two of them, immersed in the *rasa* of talks about Kṛṣṇa, danced, sang and wept until the night came to an end.
+tr: In this way the two of them, immersed in the rasa of talks about Kṛṣṇa, danced, sang and wept until the night came to an end.
 
 ## 260
 w: both  to their own  duties  went  in the morning
@@ -1482,7 +1482,7 @@ tr: After they had talked intimately of Kṛṣṇa for some time, Rāya clasped
 ## 262
 w: of Kṛṣṇa  the truth  of Rādhā  the truth  of prema  of the truth  the essence
 w: of rasa  the truth  of līlā  the truth  various  kinds
-tr: “The truth of Kṛṣṇa, the truth of Rādhā, the essence of the truth of *prema*, the truth of *rasa*, the truth of *līlā* in all its variety —
+tr: “The truth of Kṛṣṇa, the truth of Rādhā, the essence of the truth of prema, the truth of rasa, the truth of *līlā* in all its variety —
 
 ## 263
 w: so many  truths  in my  heart  You have made  manifest
@@ -1500,6 +1500,7 @@ w: revealed  the Veda  through the heart  who  to the first poet  are bewildered
 w: of fire  water  earth  as  the interchange  in whom  the threefold creation  real
 w: by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 tr: “Let us meditate on the Supreme Truth, from whom the birth and so on of this universe proceed, directly and indirectly; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)
+fn: *Amṛta-pravāha-bhāṣya*: we meditate on Śrī Kṛṣṇa, the Supreme Truth, who by His own potency is ever free of all deception; in Him the three kinds of creation — the dawning of spirit, the manifestation of the *jīvas* and the universes of *māyā* — abide as real. *Anubhāṣya*: the “threefold creation” is the perishable creation of the three *guṇas*, or, in another sense, the eternal manifestation of the three potencies: internal, external and marginal.
 
 ## 266
 w: one  doubt  my  there is  in the heart
@@ -1543,10 +1544,11 @@ tr: He sees moving and unmoving things, yet he does not see their forms: everywh
 
 ## 274
 w: in all beings  who  sees
-w: for the Lord  the feeling  his own
+w: of the Lord  the presence  of the Self
 w: the beings  in the Lord  in the Self
 w: he  the best of devotees
-tr: “One who sees in all beings his own love for the Lord (*bhagavad-bhāva*), and sees all beings in the Lord, the Self of all, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
+tr: “One who sees in all beings the presence of the Lord, the Self, and sees all beings in the Lord, the Self of all, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
+fn: *Anubhāṣya*: Havi, one of the nine Yogendras, answers King Nimi on the marks of the best of devotees: by the power of transcendental feeling the *mahā-bhāgavata* sees Kṛṣṇa everywhere, and all that belongs to Kṛṣṇa, in the relation of the served and the servant.
 
 ## 275
 w: the forest  creepers  the trees  within themselves  Viṣṇu
@@ -1554,6 +1556,7 @@ w: revealing  as if  with flowers  with fruits  rich
 w: bowed  with the weight  their branches  of honey  streams
 w: with love  thrilled  bodies  showered  indeed
 tr: “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)
+fn: *Anubhāṣya*: the gopīs sang this to one another in separation, when Kṛṣṇa had gone to the forest for the day; hearing His flute, the trees and creepers seemed to show that Viṣṇu was manifest within them.
 
 ## 276
 w: for Rādhā and Kṛṣṇa  your  great love  is
@@ -1568,17 +1571,17 @@ tr: Rāya said, “Prabhu, give up this grand pretence. Do not hide Your own for
 ## 278
 w: Rādhikā’s  mood  luster  making  acceptance
 w: Your own rasa  to taste  You have made  descent
-tr: Accepting the mood and luster of Rādhikā, You have descended to taste Your own *rasa*.
+tr: Accepting the mood and lustre of Rādhikā, You have descended to taste Your own rasa.
 
 ## 279
 w: own  secret  purpose  Your  of prema  the tasting
 w: incidentally  full of prema  You made  the three worlds
-tr: Your own secret purpose is to taste *prema*, and in passing You have filled the three worlds with *prema*.
+tr: Your own secret purpose is to taste prema, and in passing You have filled the three worlds with prema.
 
 ## 280
 w: Yourself  You came  me  to make  deliverance
 w: now  deceit  You practice  Your  what  conduct
-tr: You Yourself came to deliver me, and now You are deceiving me. What kind of behavior is this?”
+tr: You Yourself came to deliver me, and now You are deceiving me. What kind of behaviour is this?”
 
 ## 281
 w: then  smiling  to him  the Lord  showed  His own form
