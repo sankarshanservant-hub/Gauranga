@@ -210,7 +210,7 @@ of the Lord (Jagannātha)  near  and  it should be  in solitude
 e-mata nirṇaya kari’ deha’ eka sthāne  
 such  a decision  making  give  a  place
 
-(20) It should be close to Jagannātha and yet secluded. Please decide on such a place and grant it.”
+(20) It should be close to Jagannātha and yet quiet. Please decide on such a place and grant it.”
 
 রাজা কহে, — ঐছে কাশীমিশ্রের ভবন ৷  
 ঠাকুরের নিকট, হয় পরম নির্জ্জন ॥ ২১ ॥
@@ -410,7 +410,7 @@ thirsty  cātaka birds  as  make  cries of distress
 taiche ei saba, — sabe kara aṅgīkāra  
 so  these  all  all  make  acceptance
 
-(40) Just as thirsty *cātaka* birds cry out in distress, so do all these people. Please accept them all.
+(40) Just as thirsty *cātaka* birds cry out in distress, so do these people. Please accept them all.
 
 জগন্নাথ-সেবক এই, নাম — জনার্দ্দন ৷  
 অনবসরে করে প্রভুর শ্রীঅঙ্গ-সেবন ॥ ৪১ ॥
@@ -500,7 +500,7 @@ at that time  came  there  Bhavānanda Rāya
 cāri-putra-saṅge paḍe mahāprabhura pāya  
 four sons with  falls  of Mahāprabhu  at the feet
 
-(49) Just then Bhavānanda Rāya arrived and, with his four sons, fell at Mahāprabhu’s feet.
+(49) Just then Bhavānanda Rāya arrived and, with his four sons, fell at Mahāprabhu’s feet.[^14]
 
 সার্ব্বভৌম কহে, — এই রায় ভবানন্দ ৷  
 ইঁহার প্রথম পুত্র — রায় রামানন্দ ॥ ৫০ ॥
@@ -580,7 +580,7 @@ as Your own  knowing  with me  hesitation  not  have
 yei yabe icchā, tabe sei ājñā dibe  
 whatever  whenever  desire  then  that  order  give
 
-(57) Regard me as Your own and do not hesitate with me: whatever You want, whenever You want it, give the order.”
+(57) Regard me as Your own and do not hesitate with me: whatever You want, whenever You want it, give the order.”[^15]
 
 প্রভু কহে, — কি সঙ্কোচ, তুমি নহ পর ৷  
 জন্মে জন্মে তুমি আমার সবংশে কিঙ্কর ॥ ৫৮ ॥
@@ -610,7 +610,7 @@ so  saying  the Lord  him  gave  embrace
 tām̐ra putra saba śire dharila caraṇa  
 his  sons  all  on their heads  held  His feet
 
-(60) Saying this, the Lord embraced him, and his sons all placed the Lord’s feet on their heads.
+(60) Saying this, the Lord embraced him, and his sons all placed the Lord’s feet on their heads.[^16]
 
 তবে মহাপ্রভু তাঁরে ঘরে পাঠাইল ৷  
 বাণীনাথ-পট্টনায়কে নিকটে রাখিল ॥ ৬১ ॥
@@ -678,9 +678,9 @@ the midday duties  to perform  Mahāprabhu  going  went
 nityānanda, jagadānanda, mukunda, dāmodara  
 Nityānanda  Jagadānanda  Mukunda  Dāmodara  
 cāri-jane yukti tabe karilā antara  
-the four  counsel  then  held  among themselves
+the four  counsel  then  held  in private
 
-(67) Then Nityānanda, Jagadānanda, Mukunda and Dāmodara took counsel among themselves:
+(67) Then Nityānanda, Jagadānanda, Mukunda and Dāmodara took counsel together in private:[^17]
 
 গৌড়দেশে পাঠাইতে চাহি একজন ৷  
 ‘আই’কে কহিবে যাই’ প্রভুর আগমন ॥ ৬৮ ॥
@@ -690,7 +690,7 @@ to the land of Gauḍa  to send  we want  one person
 ‘āi’ke kahibe yāi’ prabhura āgamana  
 to mother  will tell  going  of the Lord  the coming
 
-(68) “We need to send someone to Gauḍa to go and tell mother of the Lord’s return.
+(68) “We need to send someone to Gauḍa to tell mother Śacī that the Lord has returned.
 
 অদ্বৈত-শ্রীবাসাদি যত ভক্তগণ ৷  
 সবেই আসিবে শুনি’ প্রভুর আগমন ॥ ৬৯ ॥
@@ -750,7 +750,7 @@ then  that  Kṛṣṇadāsa  to Gauḍa  they sent
 vaiṣṇava-sabāke dite mahā-prasāda dila  
 to the Vaiṣṇavas all  to give  mahā-prasāda  they gave (him)
 
-(74) So they sent that Kṛṣṇadāsa to Gauḍa, and gave him *mahā-prasāda* to give to all the Vaiṣṇavas.
+(74) So they sent Kṛṣṇadāsa to Gauḍa with *mahā-prasāda* for all the Vaiṣṇavas.
 
 তবে গৌড়দেশে আইলা কালা-কৃষ্ণদাস ৷  
 নবদ্বীপে গেল তেঁহ শচী-আই-পাশ ॥ ৭৫ ॥
@@ -851,7 +851,7 @@ hearing  of all  there was  supreme  delight
 sabe meli’ gelā śrī-advaitera pāśa  
 all  together  went  to Śrī Advaita
 
-(85) Overjoyed at the news, they all went together to Śrī Advaita.
+(85) Filled with delight, they all went together to Śrī Advaita.
 
 আচার্য্যের সবে কৈল চরণ বন্দন ৷  
 আচার্য্য-গোসাঞি সবারে কৈল আলিঙ্গন ॥ ৮৬ ॥
@@ -901,7 +901,7 @@ Mukunda  Narahari  Raghunandana  Khaṇḍa  from
 ācāryera ṭhāñi āilā nīlācala yāite  
 to the Ācārya  came  to Nīlācala  to go
 
-(90) Mukunda, Narahari and Raghunandana came from Khaṇḍa to the Ācārya to go to Nīlācala.
+(90) Mukunda, Narahari and Raghunandana came from Khaṇḍa to the Ācārya, to go with Him to Nīlācala.
 
 সেকালে দক্ষিণ হৈতে পরমানন্দপুরী ৷  
 গঙ্গাতীরে-তীরে আইলা নদীয়া-নগরী ॥ ৯১ ॥
@@ -931,7 +931,7 @@ of the Lord  the return  he  there  heard
 śīghra nīlācala yāite tām̐ra icchā haila  
 quickly  to Nīlācala  to go  his  desire  arose
 
-(93) There he heard of the Lord’s return, and he wanted to go to Nīlācala at once.
+(93) There he heard of the Lord’s return, and he wanted to go to Nīlācala at once.[^18]
 
 প্রভুর এক ভক্ত — ‘দ্বিজ কমলাকান্ত’ নাম ৷  
 তাঁরে লঞা নীলাচলে করিলা প্রয়াণ ॥ ৯৪ ॥
@@ -980,3 +980,13 @@ of the Lord  joy  there was  obtaining  him
 [^12]: *Amṛta-pravāha-bhāṣya*: *mahā-soyāra* means *mahā-sūpakāra*, the chief cook, the superintendent of the kitchen. *Anubhāṣya*: adding “dāsa” to a brāhmaṇa’s name, as a sign that he is a servant of Viṣṇu, is sanctioned also by Culli Bhaṭṭa.
 
 [^13]: *Anubhāṣya*: *prahararāja* is a hereditary title of a family of royal priests in Utkala: when the king dies, one of them sits on the throne holding the royal sceptre for one *prahara*, until the heir is anointed, so that the throne is never left empty. In the edition this is one person: “(10) Paramānanda”.
+
+[^14]: *Anubhāṣya*: the four sons are Rāmānanda Rāya’s brothers — Vāṇīnātha, Gopīnātha, Kalānidhi and Sudhānidhi (see Ādi 10.133).
+
+[^15]: *Amṛta-pravāha-bhāṣya*: “know me as Your own” — that is, be kind to me as to one of Your own; there is no need to hesitate in anything.
+
+[^16]: *Anubhāṣya*: *śire* — each on his own head.
+
+[^17]: *Amṛta-pravāha-bhāṣya*: *antara* — secretly, or stepping aside.
+
+[^18]: *Anubhāṣya*: Paramānanda Purī learnt of the Lord’s return while still in Śrī Māyāpura, from Kālā Kṛṣṇadāsa, whom he had known before.

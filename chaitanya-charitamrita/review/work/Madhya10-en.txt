@@ -112,7 +112,7 @@ tr: The Bhaṭṭācārya said, “He will come back soon. I would like a seclud
 ## 20
 w: of the Lord (Jagannātha)  near  and  it should be  in solitude
 w: such  a decision  making  give  a  place
-tr: It should be close to Jagannātha and yet secluded. Please decide on such a place and grant it.”
+tr: It should be close to Jagannātha and yet quiet. Please decide on such a place and grant it.”
 
 ## 21
 w: the king  says  such  of Kāśī Miśra  the house
@@ -216,7 +216,7 @@ tr: “Lord, all these people live in Nīlācala. They have all been longing to 
 ## 40
 w: thirsty  cātaka birds  as  make  cries of distress
 w: so  these  all  all  make  acceptance
-tr: Just as thirsty *cātaka* birds cry out in distress, so do all these people. Please accept them all.
+tr: Just as thirsty *cātaka* birds cry out in distress, so do these people. Please accept them all.
 
 ## 41
 w: of Jagannātha a servant  this  name  Janārdana
@@ -266,6 +266,7 @@ tr: Then they all fell flat on the ground like rods, and the Lord graciously emb
 w: at that time  came  there  Bhavānanda Rāya
 w: four sons with  falls  of Mahāprabhu  at the feet
 tr: Just then Bhavānanda Rāya arrived and, with his four sons, fell at Mahāprabhu’s feet.
+fn: *Anubhāṣya*: the four sons are Rāmānanda Rāya’s brothers — Vāṇīnātha, Gopīnātha, Kalānidhi and Sudhānidhi (see Ādi 10.133).
 
 ## 50
 w: Sārvabhauma  says  this  Rāya  Bhavānanda
@@ -306,6 +307,7 @@ tr: This Vāṇīnātha will stay at Your feet and carry out whatever You order,
 w: as Your own  knowing  with me  hesitation  not  have
 w: whatever  whenever  desire  then  that  order  give
 tr: Regard me as Your own and do not hesitate with me: whatever You want, whenever You want it, give the order.”
+fn: *Amṛta-pravāha-bhāṣya*: “know me as Your own” — that is, be kind to me as to one of Your own; there is no need to hesitate in anything.
 
 ## 58
 w: the Lord  says  what  hesitation  you  are not  a stranger
@@ -321,6 +323,7 @@ tr: Rāmānanda will come within five or seven days. In his company My joy will 
 w: so  saying  the Lord  him  gave  embrace
 w: his  sons  all  on their heads  held  His feet
 tr: Saying this, the Lord embraced him, and his sons all placed the Lord’s feet on their heads.
+fn: *Anubhāṣya*: *śire* — each on his own head.
 
 ## 61
 w: then  Mahāprabhu  him  home  sent
@@ -354,13 +357,14 @@ tr: Hearing this, Kṛṣṇadāsa began to weep, and Mahāprabhu went off to at
 
 ## 67
 w: Nityānanda  Jagadānanda  Mukunda  Dāmodara
-w: the four  counsel  then  held  among themselves
-tr: Then Nityānanda, Jagadānanda, Mukunda and Dāmodara took counsel among themselves:
+w: the four  counsel  then  held  in private
+tr: Then Nityānanda, Jagadānanda, Mukunda and Dāmodara took counsel together in private:
+fn: *Amṛta-pravāha-bhāṣya*: *antara* — secretly, or stepping aside.
 
 ## 68
 w: to the land of Gauḍa  to send  we want  one person
 w: to mother  will tell  going  of the Lord  the coming
-tr: “We need to send someone to Gauḍa to go and tell mother of the Lord’s return.
+tr: “We need to send someone to Gauḍa to tell mother Śacī that the Lord has returned.
 
 ## 69
 w: headed by Advaita and Śrīvāsa  all  the devotees
@@ -390,7 +394,7 @@ tr: Let someone go and tell them the good news.” The Lord said, “Do as you w
 ## 74
 w: then  that  Kṛṣṇadāsa  to Gauḍa  they sent
 w: to the Vaiṣṇavas all  to give  mahā-prasāda  they gave (him)
-tr: So they sent that Kṛṣṇadāsa to Gauḍa, and gave him *mahā-prasāda* to give to all the Vaiṣṇavas.
+tr: So they sent Kṛṣṇadāsa to Gauḍa with *mahā-prasāda* for all the Vaiṣṇavas.
 
 ## 75
 w: then  to the land of Gauḍa  came  Kālā Kṛṣṇadāsa
@@ -436,7 +440,7 @@ tr: Haridāsa Ṭhākura was overjoyed, and so were Vāsudeva Datta, Murāri Gup
 ## 85
 w: hearing  of all  there was  supreme  delight
 w: all  together  went  to Śrī Advaita
-tr: Overjoyed at the news, they all went together to Śrī Advaita.
+tr: Filled with delight, they all went together to Śrī Advaita.
 
 ## 86
 w: of the Ācārya  all  made  the feet  worship
@@ -461,7 +465,7 @@ tr: Hearing the news of the Lord, the residents of Kulīna-grāma — Satyarāja
 ## 90
 w: Mukunda  Narahari  Raghunandana  Khaṇḍa  from
 w: to the Ācārya  came  to Nīlācala  to go
-tr: Mukunda, Narahari and Raghunandana came from Khaṇḍa to the Ācārya to go to Nīlācala.
+tr: Mukunda, Narahari and Raghunandana came from Khaṇḍa to the Ācārya, to go with Him to Nīlācala.
 
 ## 91
 w: at that time  the south  from  Paramānanda Purī
@@ -477,6 +481,7 @@ tr: He stayed happily in mother Śacī’s house, and she respectfully gave him 
 w: of the Lord  the return  he  there  heard
 w: quickly  to Nīlācala  to go  his  desire  arose
 tr: There he heard of the Lord’s return, and he wanted to go to Nīlācala at once.
+fn: *Anubhāṣya*: Paramānanda Purī learnt of the Lord’s return while still in Śrī Māyāpura, from Kālā Kṛṣṇadāsa, whom he had known before.
 
 ## 94
 w: of the Lord  one  devotee  dvija Kamalākānta  by name
