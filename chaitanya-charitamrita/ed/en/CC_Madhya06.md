@@ -412,321 +412,401 @@ the feet  washing  the Lord  on a seat  sat
 তবে মহাপ্রভু সুখে ভোজন করিল ॥ ৪১ ॥
 
 bahuta prasāda sārvabhauma ānāila  
-tabe mahāprabhu sukhe bhojana karila
+much  prasāda  Sārvabhauma  had brought  
+tabe mahāprabhu sukhe bhojana karila  
+then  Mahāprabhu  happily  eating  did
 
-(41) [not yet translated]
+(41) Sārvabhauma had a great quantity of prasāda brought, and Mahāprabhu happily took His meal.
 
 সুবর্ণ-থালাতে অন্ন উত্তম ব্যঞ্জন ৷  
 ভক্তগণ-সঙ্গে প্রভু করেন ভোজন ॥ ৪২ ॥
 
 suvarṇa-thālāte anna uttama vyañjana  
-bhakta-gaṇa-saṅge prabhu karena bhojana
+on golden plates  rice  excellent  vegetables  
+bhakta-gaṇa-saṅge prabhu karena bhojana  
+with the devotees  the Lord  does  eating
 
-(42) [not yet translated]
+(42) Rice and excellent vegetable dishes were served on golden plates, and the Lord ate together with His devotees.
 
 সার্ব্বভৌম পরিবেশন করেন আপনে ৷  
 প্রভু কহে, — মোরে দেহ লাফ্রা-ব্যঞ্জনে ॥ ৪৩ ॥
 
 sārvabhauma pariveśana karena āpane  
-prabhu kahe, — more deha lāphrā-vyañjane
+Sārvabhauma  serving  does  himself  
+prabhu kahe, — more deha lāphrā-vyañjane  
+the Lord  says  to Me  give  lāphrā vegetables
 
-(43) [not yet translated]
+(43) Sārvabhauma served them himself. The Lord said, “Give Me the *lāphrā*, the plain mixed vegetables,
 
 পীঠা-পানা দেহ তুমি ইঁহা-সবাকারে ৷  
 সবে ভট্টাচার্য্য কহে যুড়ি’ দুই করে ॥ ৪৪ ॥
 
 pīṭhā-pānā deha tumi iṅhā-sabākāre  
-sabe bhaṭṭācārya kahe yuḍi’ dui kare
+cakes and sweet drinks  give  you  to all these  
+sabe bhaṭṭācārya kahe yuḍi’ dui kare  
+to all  the Bhaṭṭācārya  says  joining  two  hands
 
-(44) [not yet translated]
+(44) and give the cakes and sweet drinks to all of them.” With folded hands the Bhaṭṭācārya said to them all:
 
 জগন্নাথ কৈছে করিয়াছেন ভোজন ৷  
 আজি সব মহাপ্রসাদ কর আস্বাদন ॥ ৪৫ ॥
 
 jagannātha kaiche kariyāchena bhojana  
-āji saba mahāprasāda kara āsvādana
+Jagannātha  as  has done  eating  
+āji saba mahāprasāda kara āsvādana  
+today  all  mahā-prasāda  do  tasting
 
-(45) [not yet translated]
+(45) “Today all of you must taste all the mahā-prasāda, just as Jagannātha has eaten it.”
 
 এত বলি’ পীঠা-পানা সব খাওয়াইলা ৷  
 ভিক্ষা করাঞা আচমন করাইলা ॥ ৪৬ ॥
 
 eta bali’ pīṭhā-pānā saba khāoyāilā  
-bhikṣā karāñā ācamana karāilā
+so  saying  cakes and sweet drinks  all  he fed  
+bhikṣā karāñā ācamana karāilā  
+the meal  having given  rinsing of the mouth  he had them do
 
-(46) [not yet translated]
+(46) Saying this, he fed them all the cakes and sweet drinks, and when they had eaten he gave them water to rinse their mouths.
 
 আজ্ঞা মাগি’ গোপীনাথ আচার্য্যকে লঞা ৷  
 প্রভুর নিকটে আইলা ভোজন করিয়া ॥ ৪৭ ॥
 
 ājñā māgi’ gopīnātha ācāryake lañā  
-prabhura nikaṭe āilā bhojana kariyā
+permission  asking  Gopīnātha  Ācārya  taking  
+prabhura nikaṭe āilā bhojana kariyā  
+of the Lord  near  came  eating  having done
 
-(47) [not yet translated]
+(47) Then, taking leave, he went with Gopīnātha Ācārya to eat, and after eating he came back to the Lord.
 
 ‘নমো নারায়ণায়’ বলি’ নমস্কার কৈল ৷  
 ‘কৃষ্ণে মতিরস্তু’ বলি’ গোসাঞি কহিল ॥ ৪৮ ॥
 
 ‘namo nārāyaṇāya’ bali’ namaskāra kaila  
-‘kṛṣṇe matir astu’ bali’ gosāñi kahila
+namo nārāyaṇāya  saying  obeisance  he made  
+‘kṛṣṇe matir astu’ bali’ gosāñi kahila  
+on Kṛṣṇa  the mind  may be  saying  Gosāñi  spoke
 
-(48) [not yet translated]
+(48) Saying, “*Namo nārāyaṇāya*”, he bowed down to the Lord, and Gosāñi replied, “*Kṛṣṇe matir astu*—may your mind be fixed on Kṛṣṇa.”
 
 শুনি’ সার্ব্বভৌম মনে বিচার করিল ৷  
 বৈষ্ণব-সন্ন্যাসী ইঁহো, বচনে জানিল ॥ ৪৯ ॥
 
 śuni’ sārvabhauma mane vicāra karila  
-vaiṣṇava-sannyāsī iṅho, vacane jānila
+hearing  Sārvabhauma  in his mind  consideration  made  
+vaiṣṇava-sannyāsī iṅho, vacane jānila  
+a Vaiṣṇava sannyāsī  He  by His words  he knew
 
-(49) [not yet translated]
+(49) Hearing this, Sārvabhauma reflected, and from His words he understood that He was a Vaiṣṇava sannyāsī.
 
 গোপীনাথ আচার্য্যেরে কহে সার্ব্বভৌম ৷  
 গোসাঞির জানিতে চাহি কাঁহা পূর্ব্বাশ্রম ॥ ৫০ ॥
 
 gopīnātha ācāryere kahe sārvabhauma  
-gosāñira jānite cāhi kāṅhā pūrvāśrama
+to Gopīnātha  Ācārya  says  Sārvabhauma  
+gosāñira jānite cāhi kāṅhā pūrvāśrama  
+of Gosāñi  to know  I want  what  the former āśrama
 
-(50) [not yet translated]
+(50) Sārvabhauma said to Gopīnātha Ācārya, “I would like to know about Gosāñi’s life before He took sannyāsa.”
 
 গোপীনাথাচার্য্য কহে, — নবদ্বীপে ঘর ৷  
 ‘জগন্নাথ’ — নাম, পদবী — ‘মিশ্র পুরন্দর’ ॥ ৫১ ॥
 
 gopīnāthācārya kahe, — navadvīpe ghara  
-‘jagannātha’ — nāma, padavī — ‘miśra purandara’
+Gopīnātha Ācārya  says  in Navadvīpa  home  
+‘jagannātha’ — nāma, padavī — ‘miśra purandara’  
+Jagannātha  name  title  Miśra Purandara
 
-(51) [not yet translated]
+(51) Gopīnātha Ācārya said, “His home is in Navadvīpa. There lived a man named Jagannātha, whose title was Miśra Purandara.
 
 ‘বিশ্বম্ভর’ — নাম ইঁহার, তাঁর ইঁহো পুত্র ৷  
 নীলাম্বর চক্রবর্ত্তীর হয়েন দৌহিত্র ॥ ৫২ ॥
 
 ‘viśvambhara’ — nāma iṅhāra, tāṅra iṅho putra  
-nīlāmbara cakravartīra hayena dauhitra
+Viśvambhara  name  His  his  He  son  
+nīlāmbara cakravartīra hayena dauhitra  
+of Nīlāmbara  Cakravartī  He is  the daughter’s son
 
-(52) [not yet translated]
+(52) This is his son, named Viśvambhara. He is also the grandson of Nīlāmbara Cakravartī, his daughter’s son.”
 
 সার্ব্বভৌম কহে, — নীলাম্বর চক্রবর্ত্তী ৷  
 বিশারদের সমাধ্যায়ী, — এই তাঁর খ্যাতি ॥ ৫৩ ॥
 
 sārvabhauma kahe, — nīlāmbara cakravartī  
-viśāradera samādhyāyī, — ei tāṅra khyāti
+Sārvabhauma  says  Nīlāmbara  Cakravartī  
+viśāradera samādhyāyī, — ei tāṅra khyāti  
+of Viśārada  a fellow student  this  his  fame
 
-(53) [not yet translated]
+(53) Sārvabhauma said, “Nīlāmbara Cakravartī is known as a fellow student of Viśārada.
 
 ‘মিশ্র পুরন্দর’ তাঁর মান্য, হেন জানি ৷  
 পিতার সম্বন্ধে দোঁহাকে পূজ্য করি’ মানি ॥ ৫৪ ॥
 
 ‘miśra purandara’ tāṅra mānya, hena jāni  
-pitāra sambandhe doṅhāke pūjya kari’ māni
+Miśra Purandara  by him  respected  this  I know  
+pitāra sambandhe doṅhāke pūjya kari’ māni  
+of my father  through the connection  both  worthy of honour  making  I regard
 
-(54) [not yet translated]
+(54) Miśra Purandara, I know, was respected by him. Because of their bond with my father, I honour them both.”
 
 নদীয়া-সম্বন্ধে সার্ব্বভৌম হৃষ্ট হৈলা ৷  
 প্রীত হঞা গোসাঞিরে কহিতে লাগিলা ॥ ৫৫ ॥
 
 nadīyā-sambandhe sārvabhauma hṛṣṭa hailā  
-prīta hañā gosāñire kahite lāgilā
+with Nadīyā  through the connection  Sārvabhauma  glad  became  
+prīta hañā gosāñire kahite lāgilā  
+pleased  being  to Gosāñi  to speak  began
 
-(55) [not yet translated]
+(55) Sārvabhauma was glad to find this connection with Nadīyā, and in his pleasure he began to speak to Gosāñi.
 
 সহজেই পূজ্য তুমি, আরে ত’ সন্ন্যাস ৷  
 অতএব হঙ তোমার আমি নিজ-দাস ॥ ৫৬ ॥
 
 sahajei pūjya tumi, āre ta’ sannyāsa  
-ataeva haṅa tomāra āmi nija-dāsa
+naturally  worthy of worship  You  moreover  indeed  sannyāsa  
+ataeva haṅa tomāra āmi nija-dāsa  
+therefore  am  Your  I  own servant
 
-(56) [not yet translated]
+(56) “You are worthy of honour by birth, and on top of that You are a sannyāsī. Therefore I am Your own servant.”
 
 শুনি’ মহাপ্রভু কৈল শ্রীবিষ্ণু স্মরণ ৷  
 ভট্টাচার্য্যে কহে কিছু বিনয়-বচন ॥ ৫৭ ॥
 
 śuni’ mahāprabhu kaila śrī viṣṇu smaraṇa  
-bhaṭṭācārye kahe kichu vinaya-vacana
+hearing  Mahāprabhu  made  of Śrī Viṣṇu  remembrance  
+bhaṭṭācārye kahe kichu vinaya-vacana  
+to the Bhaṭṭācārya  says  some  humble words
 
-(57) [not yet translated]
+(57) Hearing this, Mahāprabhu remembered Śrī Viṣṇu and spoke some humble words to the Bhaṭṭācārya.
 
 তুমি জগদ্গুরু — সর্ব্বলোক-হিতকর্ত্তা ৷  
 বেদান্ত পড়াও, সন্ন্যাসীর উপকর্ত্তা ॥ ৫৮ ॥
 
 tumi jagad-guru — sarvaloka-hita-kartā  
-vedānta paḍāo, sannyāsīra upakartā
+you  the teacher of the world  of all people  the benefactor  
+vedānta paḍāo, sannyāsīra upakartā  
+Vedānta  you teach  of sannyāsīs  the helper
 
-(58) [not yet translated]
+(58) “You are the teacher of the whole world and the benefactor of all people. You teach Vedānta, and you are a helper of sannyāsīs.
 
 আমি বালক-সন্ন্যাসী — ভাল-মন্দ নাহি জানি ৷  
 তোমার আশ্রয় নিলুঁ, গুরু করি’ মানি ॥ ৫৯ ॥
 
 āmi bālaka-sannyāsī — bhāla-manda nāhi jāni  
-tomāra āśraya niluṅ, guru kari’ māni
+I  a boy sannyāsī  good and bad  not  know  
+tomāra āśraya niluṅ, guru kari’ māni  
+your  shelter  I have taken  guru  making  I regard
 
-(59) [not yet translated]
+(59) I am a young sannyāsī who does not know good from bad. I have taken shelter of you, and I regard you as My guru.
 
 তোমার সঙ্গ লাগি’ মোর ইঁহা আগমন ৷  
 সর্ব্বপ্রকারে করিবে আমায় পালন ॥ ৬০ ॥
 
 tomāra saṅga lāgi’ mora iṅhā āgamana  
-sarva-prakāre karibe āmāya pālana
+your  association  for the sake of  My  here  coming  
+sarva-prakāre karibe āmāya pālana  
+in every  way  you will  Me  protect
 
-(60) [not yet translated]
+(60) I have come here for your company alone. Please take care of Me in every way.
 
 আজি যে হৈল আমার বড়ই বিপত্তি ৷  
 তাহা হৈতে কৈলে তুমি আমার অব্যাহতি ॥ ৬১ ॥
 
 āji ye haila āmāra baḍai vipatti  
-tāhā haite kaile tumi āmāra avyāhati
+today  which  happened  My  great  danger  
+tāhā haite kaile tumi āmāra avyāhati  
+from that  made  you  My  rescue
 
-(61) [not yet translated]
+(61) Today I fell into great danger, and you rescued Me from it.”
 
 ভট্টাচার্য্য কহে, — একলে তুমি না যাইহ দর্শনে ৷  
 আমার সঙ্গে যাবে, কিম্বা আমার লোক-সনে ॥ ৬২ ॥
 
 bhaṭṭācārya kahe, — ekale tumi nā yāiha darśane  
-āmāra saṅge yābe, kimbā āmāra loka-sane
+the Bhaṭṭācārya  says  alone  You  not  go  for darśana  
+āmāra saṅge yābe, kimbā āmāra loka-sane  
+me  with  You will go  or  my  men  with
 
-(62) [not yet translated]
+(62) The Bhaṭṭācārya said, “Do not go alone for darśana. Go with me or with my men.”
 
 প্রভু কহে, — মন্দির ভিতরে না যাইব ৷  
 গরুড়ের পাশে রহি’ দর্শন করিব ॥ ৬৩ ॥
 
 prabhu kahe, — mandira bhitare nā yāiba  
-garuḍera pāśe rahi’ darśana kariba
+the Lord  says  the temple  inside  not  I shall go  
+garuḍera pāśe rahi’ darśana kariba  
+of Garuḍa  beside  staying  darśana  I shall have
 
-(63) [not yet translated]
+(63) The Lord said, “I shall not go inside the temple. I shall stand beside the Garuḍa pillar and take darśana from there.”
 
 গোপীনাথাচার্য্যকে কহে সার্ব্বভৌম ৷  
 তুমি গোসাঞিরে লঞা করাইহ দর্শন ॥ ৬৪ ॥
 
 gopīnāthācāryake kahe sārvabhauma  
-tumi gosāñire lañā karāiha darśana
+to Gopīnātha Ācārya  says  Sārvabhauma  
+tumi gosāñire lañā karāiha darśana  
+you  Gosāñi  taking  have Him take  darśana
 
-(64) [not yet translated]
+(64) Sārvabhauma said to Gopīnātha Ācārya, “Take Gosāñi for darśana.
 
 আমার মাতৃস্বসা-গৃহ — নির্জ্জন স্থান ৷  
 তাঁহা বাসা দেহ, কর সর্ব্ব সমাধান ॥ ৬৫ ॥
 
 āmāra mātṛ-svasā-gṛha — nirjana sthāna  
-tāṅhā vāsā deha, kara sarva samādhāna
+my  mother’s sister’s house  a secluded  place  
+tāṅhā vāsā deha, kara sarva samādhāna  
+there  lodging  give  make  all  arrangements
 
-(65) [not yet translated]
+(65) My maternal aunt’s house is a secluded place. Give Him lodging there and see to everything He needs.”
 
 গোপীনাথ প্রভু লঞা তাঁহা বাসা দিল ৷  
 জলপাত্র আদি সর্ব্ব সমাধান কৈল ॥ ৬৬ ॥
 
 gopīnātha prabhu lañā tāṅhā vāsā dila  
-jala-pātra ādi sarva samādhāna kaila
+Gopīnātha  the Lord  taking  there  lodging  gave  
+jala-pātra ādi sarva samādhāna kaila  
+water pot  and so on  all  arrangements  made
 
-(66) [not yet translated]
+(66) Gopīnātha took the Lord there and gave Him lodging, and he arranged everything for Him—a water pot and all the rest.
 
 আর দিন গোপীনাথ প্রভু স্থানে গিয়া ৷  
 শয্যোত্থান দরশন করাইল লঞা ॥ ৬৭ ॥
 
 āra dina gopīnātha prabhu sthāne giyā  
-śayyotthāna daraśana karāila lañā
+the next  day  Gopīnātha  of the Lord  to the place  going  
+śayyotthāna daraśana karāila lañā  
+of the rising from bed  darśana  had Him take  taking (Him)
 
-(67) [not yet translated]
+(67) The next day Gopīnātha went to the Lord and took Him to see Jagannātha rise from His bed.
 
 মুকুন্দদত্ত লঞা আইলা সার্ব্বভৌম স্থানে ৷  
 সার্ব্বভৌম কিছু তাঁরে বলিলা বচনে ॥ ৬৮ ॥
 
 mukunda-datta lañā āilā sārvabhauma sthāne  
-sārvabhauma kichu tāṅre balilā vacane
+Mukunda Datta  taking  came  Sārvabhauma’s  to the place  
+sārvabhauma kichu tāṅre balilā vacane  
+Sārvabhauma  something  to him  said  in words
 
-(68) [not yet translated]
+(68) Then he came with Mukunda Datta to Sārvabhauma, and Sārvabhauma said to him:
 
 প্রকৃতি-বিনীত, সন্ন্যাসী দেখিতে সুন্দর ৷  
 আমার বহুপ্রীতি বাড়ে ইঁহার উপর ॥ ৬৯ ॥
 
 prakṛti-vinīta, sannyāsī dekhite sundara  
-āmāra bahu-prīti bāḍe iṅhāra upara
+by nature  humble  the sannyāsī  to see  beautiful  
+āmāra bahu-prīti bāḍe iṅhāra upara  
+my  great love  increases  Him  for
 
-(69) [not yet translated]
+(69) “This sannyāsī is humble by nature and beautiful to see, and my affection for Him keeps growing.
 
 কোন্ সম্প্রদায়ে সন্ন্যাস কর‌্যাছেন গ্রহণ ৷  
 কি নাম ইঁহার, শুনিতে হয় মন ॥ ৭০ ॥
 
 kon sampradāye sannyāsa karyāchena grahaṇa  
-ki nāma iṅhāra, śunite haya mana
+in which  sampradāya  sannyāsa  has He made  acceptance  
+ki nāma iṅhāra, śunite haya mana  
+what  name  His  to hear  there is  desire
 
-(70) [not yet translated]
+(70) In which sampradāya has He taken sannyāsa? And what is His name? I would like to hear.”
 
 গোপীনাথ কহে, — ইঁহার নাম শ্রীকৃষ্ণচৈতন্য ৷  
 গুরু ইঁহার কেশব-ভারতী মহাধন্য ॥ ৭১ ॥
 
 gopīnātha kahe, — iṅhāra nāma śrī kṛṣṇa-caitanya  
-guru iṅhāra keśava-bhāratī mahā-dhanya
+Gopīnātha  says  His  name  Śrī  Kṛṣṇa-caitanya  
+guru iṅhāra keśava-bhāratī mahā-dhanya  
+guru  His  Keśava Bhāratī  greatly  blessed
 
-(71) [not yet translated]
+(71) Gopīnātha said, “His name is Śrī Kṛṣṇa Caitanya, and His guru is the greatly blessed Keśava Bhāratī.”
 
 সার্ব্বভৌম কহে, — ইঁহার নাম সর্ব্বোত্তম ৷  
 ভারতী-সম্প্রদায় এই, — হয়েন মধ্যম ॥ ৭২ ॥
 
 sārvabhauma kahe, — iṅhāra nāma sarvottama  
-bhāratī-sampradāya ei, — hayena madhyama
+Sārvabhauma  says  His  name  most excellent  
+bhāratī-sampradāya ei, — hayena madhyama  
+the Bhāratī sampradāya  this  is  middling
 
-(72) [not yet translated]
+(72) Sārvabhauma said, “His name is excellent, but the Bhāratī sampradāya is only of middling rank.”
 
 গোপীনাথ কহে, — ইঁহার নাহি বাহ্যাপেক্ষা ৷  
 অতএব বড় সম্প্রদায়ের নাহিক অপেক্ষা ॥ ৭৩ ॥
 
 gopīnātha kahe, — iṅhāra nāhi bāhyāpekṣā  
-ataeva baḍa sampradāyera nāhika apekṣā
+Gopīnātha  says  His  there is not  regard for externals  
+ataeva baḍa sampradāyera nāhika apekṣā  
+therefore  of a great  sampradāya  there is not  need
 
-(73) [not yet translated]
+(73) Gopīnātha said, “He has no regard for externals, so He has no need of a higher sampradāya.”
 
 ভট্টাচার্য্য কহে, — ইঁহার প্রৌঢ় যৌবন ৷  
 কেমনে সন্ন্যাস-ধর্ম্ম হবেক রক্ষণ ॥ ৭৪ ॥
 
 bhaṭṭācārya kahe, — iṅhāra prauḍha yauvana  
-kemane sannyāsa-dharma habeka rakṣaṇa
+the Bhaṭṭācārya  says  His  full  youth  
+kemane sannyāsa-dharma habeka rakṣaṇa  
+how  of sannyāsa  the duty  will be  kept
 
-(74) [not yet translated]
+(74) The Bhaṭṭācārya said, “He is in the full bloom of youth. How will He keep the vows of sannyāsa?
 
 নিরন্তর ইঁহাকে বেদান্ত শুনাইব ৷  
 বৈরাগ্য-অদ্বৈত-মার্গে প্রবেশ করাইব ॥ ৭৫ ॥
 
 nirantara iṅhāke vedānta śunāiba  
-vairāgya-advaita-mārge praveśa karāiba
+constantly  to Him  Vedānta  I shall teach  
+vairāgya-advaita-mārge praveśa karāiba  
+of renunciation  of non-duality  on the path  entering  I shall cause
 
-(75) [not yet translated]
+(75) I shall teach Him Vedānta constantly and lead Him onto the path of renunciation and non-dualism.
 
 কহেন যদি, পুনরপি যোগপট্ট দিয়া ৷  
 সংস্কার করিয়ে উত্তম-সম্প্রদায়ে আনিয়া ॥ ৭৬ ॥
 
 kahena yadi, punarapi yogapaṭṭa diyā  
-saṁskāra kariye uttama-sampradāye āniyā
+He says  if  again  the sannyāsa cloth  giving  
+saṁskāra kariye uttama-sampradāye āniyā  
+initiation  I shall perform  into the higher  sampradāya  bringing
 
-(76) [not yet translated]
+(76) If He agrees, I shall give Him the sannyāsa cloth (*yoga-paṭṭa*) once again, perform the rites, and bring Him into a higher sampradāya.”
 
 শুনি’ গোপীনাথ মুকুন্দ, দুঁহে, দুঃখী হৈলা ৷  
 গোপীনাথাচার্য্য কিছু কহিতে লাগিলা ॥ ৭৭ ॥
 
 śuni’ gopīnātha mukunda, duṅhe, duḥkhī hailā  
-gopīnāthācārya kichu kahite lāgilā
+hearing  Gopīnātha  Mukunda  both  sorrowful  became  
+gopīnāthācārya kichu kahite lāgilā  
+Gopīnātha Ācārya  something  to say  began
 
-(77) [not yet translated]
+(77) Hearing this, Gopīnātha and Mukunda were both saddened, and Gopīnātha Ācārya began to speak.
 
 ভট্টাচার্য্য, তুমি ইঁহার না জান মহিমা ৷  
 ভগবত্তা-লক্ষণের ইঁহাতেই সীমা ॥ ৭৮ ॥
 
 bhaṭṭācārya, tumi iṅhāra nā jāna mahimā  
-bhagavattā-lakṣaṇera iṅhātei sīmā
+Bhaṭṭācārya  you  His  not  know  greatness  
+bhagavattā-lakṣaṇera iṅhātei sīmā  
+of Godhood  of the signs  in Him alone  the limit
 
-(78) [not yet translated]
+(78) “Bhaṭṭācārya, you do not know His greatness. In Him the signs of Godhood reach their utmost limit.
 
 তাহাতে বিখ্যাত ইঁহো পরম-ঈশ্বর ৷  
 অজ্ঞ-স্থানে কিছু নহে বিজ্ঞের গোচর ॥ ৭৯ ॥
 
 tāhāte vikhyāta iṅho parama-īśvara  
-ajña-sthāne kichu nahe vijñera gocara
+therefore  renowned  He  the Supreme Lord  
+ajña-sthāne kichu nahe vijñera gocara  
+of the ignorant  in the presence  anything  is not  of the wise  perceptible
 
-(79) [not yet translated]
+(79) That is why He is renowned as the Supreme Lord. But what the wise perceive lies beyond the reach of the ignorant.”
 
 শিষ্যগণ কহে, — ঈশ্বর কহ কোন্ প্রমাণে ৷  
 আচার্য্য কহে, — বিজ্ঞমত ঈশ্বর-লক্ষণে ॥ ৮০ ॥
 
 śiṣya-gaṇa kahe, — īśvara kaha kon pramāṇe  
-ācārya kahe, — vijña-mata īśvara-lakṣaṇe
+the disciples  say  the Lord  you say  by what  proof  
+ācārya kahe, — vijña-mata īśvara-lakṣaṇe  
+the Ācārya  says  the opinion of the wise  of the Lord  on the signs
 
-(80) [not yet translated]
+(80) The disciples said, “By what proof do you call Him the Lord?” The Ācārya said, “By the verdict of the wise on the signs of the Lord.”
 
 শিষ্য কহে, — ঈশ্বর-তত্ত্ব সাধি অনুমানে ৷  
 আচার্য্য কহে, — অনুমানে নহে ঈশ্বরজ্ঞানে ॥ ৮১ ॥
@@ -1253,271 +1333,349 @@ sei brahme punarapi haye yāya laya
 ভগবানের সবিশেষে এই তিন চিহ্ন ॥ ১৪৪ ॥
 
 ‘apādāna’, ‘karaṇa’, ‘adhikaraṇa’-kāraka tina  
-bhagavānera saviśeṣe ei tina cihna
+“apādāna” (source)  “karaṇa” (instrument)  “adhikaraṇa” (locus) — cases  three  
+bhagavānera saviśeṣe ei tina cihna  
+of Bhagavān  of possessing attributes  these  three  signs
 
-(144) [not yet translated]
+(144) These three cases — the ablative (*apādāna*), the instrumental (*karaṇa*) and the locative (*adhikaraṇa*) — are the three signs that Bhagavān possesses attributes.
 
 ভগবান্ অনেক হৈতে যবে কৈল মন ৷  
 প্রাকৃত-শক্তিতে তবে কৈল বিলোকন ॥ ১৪৫ ॥
 
 bhagavān aneka haite yabe kaila mana  
-prākṛta-śaktite tabe kaila vilokana
+the Lord  many  to become  when  He made  His mind  
+prākṛta-śaktite tabe kaila vilokana  
+upon the material energy  then  He cast  a glance
 
-(145) [not yet translated]
+(145) When Bhagavān resolved to become many, He cast His glance upon the material energy.
 
 সে কালে নাহি জন্মে ‘প্রাকৃত’ মনো-নয়ন ৷  
 অতএব ‘অপ্রাকৃত’ ব্রহ্মের নেত্র-মন ॥ ১৪৬ ॥
 
 se kāle nāhi janme ‘prākṛta’ mano-nayana  
-ataeva ‘aprākṛta’ brahmera netra-mana
+at that  time  not  are born  material  mind and eyes  
+ataeva ‘aprākṛta’ brahmera netra-mana  
+therefore  non-material  of Brahman  the eyes and mind
 
-(146) [not yet translated]
+(146) At that time no material mind or eyes had yet come into being; therefore the eyes and mind of Brahman are not material.
 
 ব্রহ্ম-শব্দে কহে পূর্ণ স্বয়ং ভগবান্ ৷  
 স্বয়ং ভগবান্ কৃষ্ণ, — শাস্ত্রের প্রমাণ ॥ ১৪৭ ॥
 
 brahma-śabde kahe pūrṇa svayaṁ bhagavān  
-svayaṁ bhagavān kṛṣṇa, — śāstrera pramāṇa
+by the word “Brahman”  is meant  the complete  Svayaṁ  Bhagavān  
+svayaṁ bhagavān kṛṣṇa, — śāstrera pramāṇa  
+Svayaṁ  Bhagavān  Kṛṣṇa  of scripture  the evidence
 
-(147) [not yet translated]
+(147) The word “Brahman” denotes the complete Svayaṁ Bhagavān, the Lord Himself, and the Lord Himself is Kṛṣṇa — such is the evidence of scripture.
 
 বেদের নিগূঢ় অর্থ বুঝন না হয় ৷  
 পুরাণ-বাক্যে সেই অর্থ করয় নিশ্চয় ॥ ১৪৮ ॥
 
 vedera nigūḍha artha bujhana nā haya  
-purāṇa-vākye sei artha karaya niścaya
+of the Vedas  the hidden  meaning  understanding  not  is  
+purāṇa-vākye sei artha karaya niścaya  
+by the words of the Purāṇas  that  meaning  is made  certain
 
-(148) [not yet translated]
+(148) The hidden meaning of the Vedas is not easily understood, and the words of the Purāṇas make that meaning certain.
 
 অহো ভাগ্যমহো ভাগ্যং নন্দগোপব্রজৌকসাম্ ৷  
 যন্মিত্রং পরমানন্দং পূর্ণং ব্রহ্ম সনাতনম্ ॥ ১৪৯ ॥
 
 aho bhāgyam aho bhāgyaṁ  
+oh  the fortune  oh  the fortune  
 nanda-gopa-vrajaukasām  
+of Nanda  the cowherds  the residents of Vraja  
 yan-mitraṁ paramānandaṁ  
-pūrṇaṁ brahma sanātanam
+whose friend  the supreme bliss  
+pūrṇaṁ brahma sanātanam  
+the complete  Brahman  eternal
 
-(149) [not yet translated]
+(149) “Oh, the fortune, oh, the fortune of Nanda, the cowherds and all the residents of Vraja, whose friend is the supreme bliss, the complete and eternal Brahman!” (Śrīmad-Bhāgavatam 10.14.32)
 
 ‘অপাণি-পাদ’-শ্রুতি বর্জ্জে ‘প্রাকৃত’ পাণি-চরণ ৷  
 পুনঃ কহে, — শীঘ্র চলে, করে সর্ব্ব গ্রহণ ॥ ১৫০ ॥
 
 ‘apāṇi-pāda’-śruti varje ‘prākṛta’ pāṇi-caraṇa  
-punaḥ kahe, — śīghra cale, kare sarva grahaṇa
+the “apāṇi-pāda” śruti  rejects  material  hands and feet  
+punaḥ kahe, — śīghra cale, kare sarva grahaṇa  
+again  it says  swiftly  He moves  He makes  of everything  acceptance
 
-(150) [not yet translated]
+(150) The śruti text “apāṇi-pāda” (“without hands and feet”) denies Him material hands and feet; yet it says again that He moves swiftly and accepts all things.
 
 অতএব শ্রুতি কহে, ব্রহ্ম — সবিশেষ ৷  
 ‘মুখ্য’ ছাড়ি’ ‘লক্ষণা’তে মানে নির্ব্বিশেষ ॥ ১৫১ ॥
 
 ataeva śruti kahe, brahma — saviśeṣa  
-‘mukhya’ chāḍi’ ‘lakṣaṇā’te māne nirviśeṣa
+therefore  the śruti  says  Brahman  possessed of attributes  
+‘mukhya’ chāḍi’ ‘lakṣaṇā’te māne nirviśeṣa  
+the primary sense  abandoning  by a secondary sense  they take  as featureless
 
-(151) [not yet translated]
+(151) Therefore the śruti declares that Brahman possesses attributes; yet, abandoning the primary sense for a secondary one, they hold Him to be featureless.
 
 ষড়ৈশ্বর্য্যপূর্ণানন্দ-বিগ্রহ যাঁহার ৷  
 হেন-ভগবানে তুমি কহ নিরাকার ॥ ১৫২ ॥
 
 ṣaḍaiśvaryapūrṇānanda-vigraha yāṅhāra  
-hena-bhagavāne tumi kaha nirākāra
+full of the six opulences, of bliss  the form  whose  
+hena-bhagavāne tumi kaha nirākāra  
+such a Bhagavān  you  call  formless
 
-(152) [not yet translated]
+(152) His form is bliss itself, full of the six opulences — and such a Bhagavān you call formless!
 
 স্বাভাবিক তিন শক্তি যেই ব্রহ্মে হয় ৷  
 ‘নিঃশক্তিক’ করি’ তাঁরে করহ নিশ্চয় ॥ ১৫৩ ॥
 
 svābhāvika tina śakti yei brahme haya  
-‘niḥśaktika’ kari’ tāṅre karaha niścaya
+natural  three  potencies  which  in Brahman  are  
+‘niḥśaktika’ kari’ tāṅre karaha niścaya  
+“without potency”  making  Him  you make  your conclusion
 
-(153) [not yet translated]
+(153) Brahman has three natural potencies, yet you conclude that He has no potency at all.
 
 বিষ্ণুশক্তিঃ পরা প্রোক্তা ক্ষেত্রজ্ঞাখ্যা তথাপরা ৷  
 অবিদ্যা কর্ম্মসংজ্ঞান্যা তৃতীয়া শক্তিরিষ্যতে ॥ ১৫৪ ॥
 
 viṣṇu-śaktiḥ parā proktā  
+Viṣṇu’s potency  superior  is declared  
 kṣetra-jñākhyā tathāparā  
+called the knower of the field  likewise superior  
 avidyā karma-saṁjñānyā  
-tṛtīyā śaktir iṣyate
+called ignorance and karma  another  
+tṛtīyā śaktir iṣyate  
+a third  potency  is held to be
 
-(154) [not yet translated]
+(154) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
 
 যয়া ক্ষেত্রজ্ঞশক্তিঃ সা বেষ্টিতা নৃপ সর্ব্বগা ৷  
 সংসারতাপানখিলানবাপ্নোত্যত্র সন্ততান্ ॥ ১৫৫ ॥
 
 yayā kṣetra-jña-śaktiḥ sā  
+by which  the knower of the field  potency  that  
 veṣṭitā nṛpa sarva-gā  
+enveloped  O king  going everywhere  
 saṁsāra-tāpān akhilān  
-avāpnoty atra santatān
+of worldly existence  the miseries  all  
+avāpnoty atra santatān  
+obtains  here  continual
 
-(155) [not yet translated]
+(155) “Enveloped by that, O king, the potency called the knower of the field, though it can go everywhere, suffers here all the miseries of worldly existence without end.” (Viṣṇu Purāṇa 6.7.62)
 
 তয়া তিরোহিতত্বাচ্চ শক্তিঃ ক্ষেত্রজ্ঞসংজ্ঞিতা ৷  
 সর্ব্বভূতেষু ভূপাল তারতম্যেন বর্ত্ততে ॥ ১৫৬ ॥
 
 tayā tirohitatvāc ca  
+by it  because of being covered  and  
 śaktiḥ kṣetra-jña-saṁjñitā  
+the potency  the knower of the field  called  
 sarva-bhūteṣu bhū-pāla  
-tāratamyena vartate
+in all beings  O king  
+tāratamyena vartate  
+in varying degrees  exists
 
-(156) [not yet translated]
+(156) “And because it is covered by that, O king, the potency called the knower of the field exists in all beings in varying degrees.” (Viṣṇu Purāṇa 6.7.63)
 
 হ্লাদিনী সন্ধিনী সম্বিৎ ত্বয়্যেকা সর্ব্বসংশ্রয়ে ৷  
 হ্লাদতাপকরী মিশ্রা ত্বয়ি নো গুণ-বর্জ্জিতে ॥ ১৫৭ ॥
 
 hlādinī sandhinī samvit  
+hlādinī  sandhinī  samvit  
 tvayy ekā sarva-saṁśraye  
+in You  one  of all  the shelter  
 hlāda-tāpa-karī miśrā  
-tvayi no guṇa-varjite
+of joy  of pain  causing  mixed  
+tvayi no guṇa-varjite  
+in You  not  of the guṇas  devoid
 
-(157) [not yet translated]
+(157) “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)
 
 সচ্চিদানন্দময় হয় ঈশ্বর-স্বরূপ ৷  
 তিন অংশে চিচ্ছক্তি হয় তিন রূপ ॥ ১৫৮ ॥
 
 sac-cid-ānanda-maya haya īśvara-svarūpa  
-tina aṁśe cic-chakti haya tina rūpa
+made of eternity, knowledge and bliss  is  the Lord’s  own nature  
+tina aṁśe cic-chakti haya tina rūpa  
+in three  aspects  the spiritual potency  is  three  forms
 
-(158) [not yet translated]
+(158) The Lord’s own nature is made of eternity, knowledge and bliss, and in these three aspects His spiritual potency takes three forms.
 
 আনন্দাংশে ‘হ্লাদিনী’, সদংশে ‘সন্ধিনী’ ৷  
 চিদংশে ‘সম্বিৎ’, যারে কৃষ্ণজ্ঞান মানি ॥ ১৫৯ ॥
 
 ānandāṁśe ‘hlādinī’, sad-aṁśe ‘sandhinī’  
-cid-aṁśe ‘samvit’, yāre kṛṣṇa-jñāna māni
+in the aspect of bliss  hlādinī  in the aspect of being  sandhinī  
+cid-aṁśe ‘samvit’, yāre kṛṣṇa-jñāna māni  
+in the aspect of knowledge  samvit  which  knowledge of Kṛṣṇa  we hold
 
-(159) [not yet translated]
+(159) In the aspect of bliss it is *hlādinī*, in the aspect of being *sandhinī*, and in the aspect of knowledge *samvit*, which we regard as knowledge of Kṛṣṇa.
 
 অন্তরঙ্গা — চিচ্ছক্তি, তটস্থা — জীবশক্তি ৷  
 বহিরঙ্গা — মায়া, — তিনে করে প্রেমভক্তি ॥ ১৬০ ॥
 
 antaraṅgā — cic-chakti, taṭasthā — jīva-śakti  
-bahiraṅgā — māyā, — tine kare prema-bhakti
+internal  the spiritual potency  marginal  the potency of the jīvas  
+bahiraṅgā — māyā, — tine kare prema-bhakti  
+external  māyā  all three  render  loving devotion
 
-(160) [not yet translated]
+(160) The spiritual potency is internal, the potency of the jīvas is marginal, and māyā is external — and all three render loving service.
 
 ষড়্বিধ ঐশ্বর্য্য — প্রভুর চিচ্ছক্তি বিলাস ৷  
 হেন শক্তি নাহি মান, — পরম সাহস ॥ ১৬১ ॥
 
 ṣaḍ-vidha aiśvarya — prabhura cic-chakti vilāsa  
-hena śakti nāhi māna, — parama sāhasa
+of six  kinds  opulence  the Lord’s  spiritual potency’s  play  
+hena śakti nāhi māna, — parama sāhasa  
+such  potency  not  you accept  utmost  audacity
 
-(161) [not yet translated]
+(161) The six kinds of opulence are the play of the Lord’s spiritual potency. That you do not accept such a potency is the height of audacity.
 
 ‘মায়াধীশ’-‘মায়াবশ’ ঈশ্বরে জীবে ভেদ ৷  
 হেন-জীবে ঈশ্বর-সহ কহ ত’ অভেদ ॥ ১৬২ ॥
 
 ‘māyādhīśa’-‘māyāvaśa’ īśvare jīve bheda  
-hena-jīve īśvara-saha kaha ta’ abheda
+“the master of māyā”  “subject to māyā”  between the Lord  and the jīva  the difference  
+hena-jīve īśvara-saha kaha ta’ abheda  
+such a jīva  with the Lord  you call  indeed  non-different
 
-(162) [not yet translated]
+(162) The Lord is the master of māyā, and the jīva is subject to māyā — this is the difference between them. Yet you call such a jīva one with the Lord.
 
 গীতাশাস্ত্রে জীবরূপ ‘শক্তি’ করি’ মানে ৷  
 হেন জীবে ‘অভেদ’ কহ-ঈশ্বরের সনে ॥ ১৬৩ ॥
 
 gītā-śāstre jīva-rūpa ‘śakti’ kari’ māne  
-hena jīve ‘abheda’ kaha-īśvarera sane
+in the Gītā  the jīva  as  a “potency”  is accepted  
+hena jīve ‘abheda’ kaha-īśvarera sane  
+such  a jīva  “non-different”  you call  from the Lord  with
 
-(163) [not yet translated]
+(163) In the Gītā the jīva is accepted as a potency, yet you call such a jīva non-different from the Lord.
 
 ভূমিরাপোঽনলো বায়ুঃ খং মনো বুদ্ধিরেব চ ৷  
 অহংকার ইতীয়ং মে ভিন্না প্রকৃতিরষ্টধা ॥ ১৬৪ ॥
 
 bhūmir āpo ’nalo vāyuḥ  
+earth  water  fire  air  
 khaṁ mano buddhir eva ca  
+ether  mind  intelligence  indeed  and  
 ahaṁkāra itīyaṁ me  
-bhinnā prakṛtir aṣṭadhā
+false ego  thus this  My  
+bhinnā prakṛtir aṣṭadhā  
+separated  nature  eightfold
 
-(164) [not yet translated]
+(164) “Earth, water, fire, air, ether, mind, intelligence and false ego — these eight make up My separated nature.” (Bhagavad-gītā 7.4)
 
 অপরেয়মিতস্ত্বন্যাং প্রকৃতিং বিদ্ধি মে পরাম্ ৷  
 জীবভূতাং মহাবাহো যয়েদং ধার্য্যতে জগৎ ॥ ১৬৫ ॥
 
 apareyam itas tv anyāṁ  
+inferior  this  beyond this  but  another  
 prakṛtiṁ viddhi me parām  
+nature  know  My  superior  
 jīva-bhūtāṁ mahā-bāho  
-yayedaṁ dhāryate jagat
+consisting of jīvas  O mighty-armed  
+yayedaṁ dhāryate jagat  
+by which  this  is taken up  the world
 
-(165) [not yet translated]
+(165) “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, who take up this world for their own enjoyment.” (Bhagavad-gītā, 7.5)
 
 ঈশ্বরের শ্রীবিগ্রহ সচ্চিদানন্দাকার ৷  
 সে-বিগ্রহে কহ সত্ত্বগুণের বিকার ॥ ১৬৬ ॥
 
 īśvarera śrī vigraha sac-cid-ānandākāra  
-se-vigrahe kaha sattva-guṇera vikāra
+the Lord’s  sacred  form  of eternity, knowledge and bliss in shape  
+se-vigrahe kaha sattva-guṇera vikāra  
+that form  you call  of the mode of goodness  a transformation
 
-(166) [not yet translated]
+(166) The Lord’s sacred form is made of eternity, knowledge and bliss, yet you call that form a transformation of the mode of goodness.
 
 শ্রীবিগ্রহ যে না মানে, সেই ত’ পাষণ্ড ৷  
 অস্পৃশ্য, অদৃশ্য, সেই হয় যমদণ্ড্য ॥ ১৬৭ ॥
 
 śrī vigraha ye nā māne, sei ta’ pāṣaṇḍa  
-aspṛśya, adṛśya, sei haya yama-daṇḍya
+the sacred  form  who  not  accepts  he  indeed  godless  
+aspṛśya, adṛśya, sei haya yama-daṇḍya  
+untouchable  not to be looked at  he  becomes  punishable by Yama
 
-(167) [not yet translated]
+(167) Whoever does not accept the Lord’s sacred form is godless (*pāṣaṇḍī*). He is not to be touched or even looked at, and Yama will punish him.
 
 বেদ না মানিয়া বৌদ্ধ হয় ত’ নাস্তিক ৷  
 বেদাশ্রয় নাস্তিক্য-বাদ বৌদ্ধকে অধিক ॥ ১৬৮ ॥
 
 veda nā māniyā bauddha haya ta’ nāstika  
-vedāśraya nāstikya-vāda bauddhake adhika
+the Vedas  not  accepting  the Buddhist  is  indeed  an unbeliever  
+vedāśraya nāstikya-vāda bauddhake adhika  
+sheltered in the Vedas  atheistic doctrine  than the Buddhist  worse
 
-(168) [not yet translated]
+(168) The Buddhist, who does not accept the Vedas, is an unbeliever (*nāstika*); but an atheistic doctrine that takes shelter in the Vedas is worse than Buddhism.
 
 জীবের নিস্তার লাগি’ সূত্র কৈল ব্যাস ৷  
 মায়াবাদি-ভাষ্য শুনিলে হয় সর্ব্বনাশ ॥ ১৬৯ ॥
 
 jīvera nistāra lāgi’ sūtra kaila vyāsa  
-māyāvādi-bhāṣya śunile haya sarva-nāśa
+of the jīvas  the deliverance  for  the sūtras  composed  Vyāsa  
+māyāvādi-bhāṣya śunile haya sarva-nāśa  
+the Māyāvādī commentary  if one hears  there is  utter ruin
 
-(169) [not yet translated]
+(169) Vyāsa composed the sūtras for the deliverance of the jīvas, but whoever hears the Māyāvādī commentary on them is utterly ruined.
 
 ‘পরিণাম-বাদ’ ব্যাসসূত্রের সম্মত ৷  
 অচিন্ত্যশক্তি ঈশ্বর জগদ্রূপে পরিণত ॥ ১৭০ ॥
 
 ‘pariṇāma-vāda’ vyāsasūtrera sammata  
-acintya-śakti īśvara jagad-rūpe pariṇata
+the doctrine of transformation  by Vyāsa’s sūtras  is upheld  
+acintya-śakti īśvara jagad-rūpe pariṇata  
+of inconceivable potency  the Lord  in the form of the world  is transformed
 
-(170) [not yet translated]
+(170) The doctrine of transformation (*pariṇāma-vāda*) is the view of Vyāsa’s sūtras: the Lord, whose potency is inconceivable, transforms into the world.
 
 মণি যৈছে অবিকৃতে প্রসবে হেমভার ৷  
 জগদ্রূপ হয় ঈশ্বর, তবু অবিকার ॥ ১৭১ ॥
 
 maṇi yaiche avikṛte prasabe hema-bhāra  
-jagad-rūpa haya īśvara, tabu avikāra
+a gem  as  unchanged  brings forth  loads of gold  
+jagad-rūpa haya īśvara, tabu avikāra  
+the form of the world  becomes  the Lord  still  unchanged
 
-(171) [not yet translated]
+(171) As a gem, itself unchanged, brings forth loads of gold, so the Lord becomes the world and yet remains unchanged.
 
 ব্যাস — ভ্রান্ত বলি’ সেই সূত্রে দোষ দিয়া ৷  
 ‘বিবর্ত্তবাদ’ স্থাপিয়াছে কল্পনা করিয়া ॥ ১৭২ ॥
 
 vyāsa — bhrānta bali’ sei sūtre doṣa diyā  
-‘vivarta-vāda’ sthāpiyāche kalpanā kariyā
+Vyāsa  is mistaken  saying  to those  sūtras  fault  ascribing  
+‘vivarta-vāda’ sthāpiyāche kalpanā kariyā  
+the doctrine of illusion  he has established  fancy  making
 
-(172) [not yet translated]
+(172) Saying that Vyāsa was mistaken and finding fault with his sūtras, he has set up the doctrine of illusion (*vivarta-vāda*) by his own invention.
 
 জীবের দেহে আত্মবুদ্ধি, — সেই মিথ্যা হয় ৷  
 জগৎ যে মিথ্যা নহে, নশ্বর মাত্র হয় ॥ ১৭৩ ॥
 
 jīvera dehe ātma-buddhi, — sei mithyā haya  
-jagat ye mithyā nahe, naśvara mātra haya
+of the jīva  in the body  the notion of self  that  false  is  
+jagat ye mithyā nahe, naśvara mātra haya  
+the world  but  false  is not  perishable  only  is
 
-(173) [not yet translated]
+(173) What is false is the jīva’s sense of self in the body. The world is not false — it is only perishable.
 
 ‘প্রণব’ যে মহা-বাক্য — ঈশ্বরের মূর্ত্তি ৷  
 প্রণব হৈতে সর্ব্ববেদ, জগতে উৎপত্তি ॥ ১৭৪ ॥
 
 ‘praṇava’ ye mahā-vākya — īśvarera mūrti  
-praṇava haite sarva-veda, jagate utpatti
+praṇava  which  the great statement  of the Lord  the form  
+praṇava haite sarva-veda, jagate utpatti  
+from praṇava  all the Vedas  to the world  origin
 
-(174) [not yet translated]
+(174) The *praṇava* (Oṁ), which is the great statement (*mahā-vākya*), is the form of the Lord. From the praṇava come all the Vedas and the world.
 
 ‘তত্ত্বমসি’ — জীব-হেতু প্রাদেশিক বাক্য ৷  
 প্রণব না মানি’ তারে কহে মহাবাক্য ॥ ১৭৫ ॥
 
 ‘tat tvam asi’ — jīva-hetu prādeśika vākya  
-praṇava nā māni’ tāre kahe mahā-vākya
+“tat tvam asi”  for the jīva’s sake  partial  statement  
+praṇava nā māni’ tāre kahe mahā-vākya  
+the praṇava  not  accepting  it  he calls  the great statement
 
-(175) [not yet translated]
+(175) “Tat tvam asi” is a partial statement, meant for the jīva; yet, not accepting the praṇava, he calls that the great statement.”
 
 এইমতে কল্পিত ভাষ্যে শত দোষ দিল ৷  
 ভট্টাচার্য্য পূর্ব্বপক্ষ অপার করিল ॥ ১৭৬ ॥
