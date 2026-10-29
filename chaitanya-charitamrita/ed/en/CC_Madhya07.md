@@ -816,121 +816,151 @@ as many  people  come  anyone  not  goes  home
 প্রেমেতে ভাসিল লোক, — স্ত্রী-বৃদ্ধ-আবাল ॥ ৮১ ॥
 
 keha nāce, keha gāya ‘śrī-kṛṣṇa’ ‘gopāla’  
-premete bhāsila loka, — strī-vṛddha-ābāla
+some  dance  some  sing  Śrī Kṛṣṇa  Gopāla  
+premete bhāsila loka, — strī-vṛddha-ābāla  
+in love  floated  the people  women, the old and children
 
-(81) [not yet translated]
+(81) Some danced, and some sang, “Śrī Kṛṣṇa! Gopāla!” Everyone, women, old people and children alike, floated in love.
 
 দেখি’ নিত্যানন্দ প্রভু কহে ভক্তগণে ৷  
 এইরূপে আগে নৃত্য হবে গ্রামে-গ্রামে ॥ ৮২ ॥
 
 dekhi’ nityānanda prabhu kahe bhakta-gaṇe  
-ei-rūpe āge nṛtya habe grāme-grāme
+seeing  Nityānanda  Prabhu  says  to the devotees  
+ei-rūpe āge nṛtya habe grāme-grāme  
+in this way  ahead  dancing  there will be  in village after village
 
-(82) [not yet translated]
+(82) Seeing this, Nityānanda Prabhu said to the devotees, “Further on there will be dancing like this in village after village.”
 
 অতিকাল হৈল, লোক ছাড়িয়া না যায় ৷  
 তবে নিত্যানন্দ-গোসাঞি সৃজিলা উপায় ॥ ৮৩ ॥
 
 atikāla haila, loka chāḍiyā nā yāya  
-tabe nityānanda-gosāñi sṛjilā upāya
+much time  passed  the people  leaving  not  go  
+tabe nityānanda-gosāñi sṛjilā upāya  
+then  Nityānanda Gosāñi  devised  a means
 
-(83) [not yet translated]
+(83) Much time had passed, yet the people would not leave. Then Nityānanda Gosāñi devised a plan.
 
 মধ্যাহ্ন করিতে গেলা প্রভুকে লঞা ৷  
 তাহা দেখি’ লোক আইসে চৌদিকে ধাঞা ॥ ৮৪ ॥
 
 madhyāhna karite gelā prabhuke lañā  
-tāhā dekhi’ loka āise caudike dhāñā
+midday duties  to perform  He went  the Lord  taking  
+tāhā dekhi’ loka āise caudike dhāñā  
+that  seeing  people  come  from all sides  running
 
-(84) [not yet translated]
+(84) He took the Lord away to perform His midday duties, and at this the people came running from all sides.
 
 মধ্যাহ্ন করিতে আইলা দেবতা-মন্দিরে ৷  
 নিজগণ প্রবেশি’ কপাট দিল বহির্দ্বারে ॥ ৮৫ ॥
 
 madhyāhna karite āilā devatā-mandire  
-nija-gaṇa praveśi’ kapāṭa dila bahir-dvāre
+midday duties  to perform  They came  to the temple of the Deity  
+nija-gaṇa praveśi’ kapāṭa dila bahir-dvāre  
+Their own people  letting in  the doors  shut  at the outer gate
 
-(85) [not yet translated]
+(85) To perform Their midday duties They came to the temple of the Deity, let Their own people in and shut the outer gate.
 
 তবে দুইপ্রভুরে গোপীনাথ ভিক্ষা করাইল ৷  
 প্রভুর শেষ প্রসাদান্ন সবে বাঁটি’ খাইল ॥ ৮৬ ॥
 
 tabe dui-prabhure gopīnātha bhikṣā karāila  
-prabhura śeṣa prasādānna sabe bāṅṭi’ khāila
+then  the two Lords  Gopīnātha  meal  made take  
+prabhura śeṣa prasādānna sabe bāṅṭi’ khāila  
+the Lord’s  remnants  prasāda  all  sharing  ate
 
-(86) [not yet translated]
+(86) Then Gopīnātha served the two Lords Their meal, and everyone shared and ate the Lord’s remnants.
 
 শুনি’ শুনি’ লোক-সব আসি’ বহির্দ্বারে ৷  
 ‘হরি’ ‘হরি’ বলি’ লোক কলরব করে ॥ ৮৭ ॥
 
 śuni’ śuni’ loka-saba āsi’ bahir-dvāre  
-‘hari’ ‘hari’ bali’ loka kala-rava kare
+hearing  hearing  all the people  coming  to the outer gate  
+‘hari’ ‘hari’ bali’ loka kala-rava kare  
+Hari  Hari  saying  the people  clamour  make
 
-(87) [not yet translated]
+(87) Hearing where He was, all the people came to the outer gate and raised a clamour, crying, “Hari! Hari!”
 
 তবে মহাপ্রভু দ্বার করাইল মোচন ৷  
 আনন্দে আসিয়া লোক পাইল দরশন ॥ ৮৮ ॥
 
 tabe mahāprabhu dvāra karāila mocana  
-ānande āsiyā loka pāila daraśana
+then  Mahāprabhu  the door  had  opened  
+ānande āsiyā loka pāila daraśana  
+joyfully  coming  the people  obtained  darśana
 
-(88) [not yet translated]
+(88) Then Mahāprabhu had the door opened, and the people came in joyfully and saw Him.
 
 এইমত সন্ধ্যা পর্য্যন্ত লোক আসে, যায় ৷  
 ‘বৈষ্ণব’ হইল লোক, সবে নাচে, গায় ॥ ৮৯ ॥
 
 ei-mata sandhyā paryanta loka āse, yāya  
-‘vaiṣṇava’ haila loka, sabe nāce, gāya
+in this way  evening  until  people  come  go  
+‘vaiṣṇava’ haila loka, sabe nāce, gāya  
+Vaiṣṇavas  became  the people  all  dance  sing
 
-(89) [not yet translated]
+(89) In this way people came and went until evening. They all became Vaiṣṇavas, and they all danced and sang.
 
 এইরূপে সেই ঠাঞি ভক্তগণ-সঙ্গে ৷  
 সেই রাত্রি গোঙাইলা কৃষ্ণকথা-রঙ্গে ॥ ৯০ ॥
 
 ei-rūpe sei ṭhāñi bhakta-gaṇa-saṅge  
-sei rātri goṅāilā kṛṣṇa-kathā-raṅge
+in this way  at that  place  with the devotees  
+sei rātri goṅāilā kṛṣṇa-kathā-raṅge  
+that  night  He spent  in the joy of talks about Kṛṣṇa
 
-(90) [not yet translated]
+(90) In this way He spent that night there with the devotees, rejoicing in talks about Kṛṣṇa.
 
 প্রাতঃকালে স্নান করি’ করিলা গমন ৷  
 ভক্তগণে বিদায় দিলা করি’ আলিঙ্গন ॥ ৯১ ॥
 
 prātaḥ-kāle snāna kari’ karilā gamana  
-bhakta-gaṇe vidāya dilā kari’ āliṅgana
+in the morning  bath  having taken  He made  departure  
+bhakta-gaṇe vidāya dilā kari’ āliṅgana  
+to the devotees  farewell  He gave  making  embraces
 
-(91) [not yet translated]
+(91) In the morning He bathed and set out, bidding the devotees farewell with embraces.
 
 মূর্চ্ছিত হঞা সবে ভূমিতে পড়িলা ৷  
 তাঁহা-সবা পানে প্রভু ফিরি’ না চাহিলা ॥ ৯২ ॥
 
 mūrcchita hañā sabe bhūmite paḍilā  
-tāṅhā-sabā pāne prabhu phiri’ nā cāhilā
+unconscious  becoming  all  on the ground  fell  
+tāṅhā-sabā pāne prabhu phiri’ nā cāhilā  
+them all  towards  the Lord  turning  not  looked
 
-(92) [not yet translated]
+(92) They all fell to the ground unconscious, but the Lord did not turn back to look at them.
 
 বিচ্ছেদে ব্যাকুল প্রভু চলিলা দুঃখী হঞা ৷  
 পাছে কৃষ্ণদাস যায় জলপাত্র লঞা ॥ ৯৩ ॥
 
 vicchede vyākula prabhu calilā duḥkhī hañā  
-pāche kṛṣṇadāsa yāya jala-pātra lañā
+in separation  agitated  the Lord  went on  sorrowful  becoming  
+pāche kṛṣṇadāsa yāya jala-pātra lañā  
+behind  Kṛṣṇadāsa  goes  the water pot  carrying
 
-(93) [not yet translated]
+(93) Agitated by the separation, the Lord went on in sorrow, and behind Him came Kṛṣṇadāsa carrying the water pot.
 
 ভক্তগণ উপবাসী তাঁহাই রহিলা ৷  
 আর দিনে দুঃখী হঞা নীলাচলে আইলা ॥ ৯৪ ॥
 
 bhakta-gaṇa upavāsī tāṅhāi rahilā  
-āra dine duḥkhī hañā nīlācale āilā
+the devotees  fasting  right there  remained  
+āra dine duḥkhī hañā nīlācale āilā  
+on the next  day  sorrowful  becoming  to Nīlācala  came
 
-(94) [not yet translated]
+(94) The devotees stayed there fasting, and the next day they returned to Nīlācala in sorrow.
 
 মত্তসিংহ-প্রায় প্রভু করিলা গমন ৷  
 প্রেমাবেশে যায় করি’ নাম-সংকীর্ত্তন ॥ ৯৫ ॥
 
 matta-siṁha-prāya prabhu karilā gamana  
-premāveśe yāya kari’ nāma-saṁkīrtana
+like a maddened lion  the Lord  made  departure  
+premāveśe yāya kari’ nāma-saṁkīrtana  
+absorbed in love  He goes  making  saṅkīrtana of the name
 
-(95) [not yet translated]
+(95) The Lord went on like a maddened lion, absorbed in love, singing the saṅkīrtana of the holy name:
 
 কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! হে ৷  
 কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! কৃষ্ণ! হে ॥  
@@ -940,205 +970,259 @@ premāveśe yāya kari’ nāma-saṁkīrtana
 কৃষ্ণ! কেশব! কৃষ্ণ! কেশব! কৃষ্ণ! কেশব! পাহি মাম্ ॥ ৯৬ ॥
 
 kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! he  
+Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  O  
 kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! he  
+Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  O  
 kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! rakṣa mām  
+Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  protect  Me  
 kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! kṛṣṇa! pāhi mām  
+Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  save  Me  
 rāma! rāghava! rāma! rāghava! rāma! rāghava! rakṣa mām  
-kṛṣṇa! keśava! kṛṣṇa! keśava! kṛṣṇa! keśava! pāhi mām
+Rāma  descendant of Raghu  Rāma  descendant of Raghu  Rāma  descendant of Raghu  protect  Me  
+kṛṣṇa! keśava! kṛṣṇa! keśava! kṛṣṇa! keśava! pāhi mām  
+Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  save  Me
 
-(96) [not yet translated]
+(96) “Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Protect Me! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Save Me! Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Protect Me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Save Me!”
 
 এই শ্লোক পড়ি’ পথে চলিলা গৌরহরি ৷  
 লোক দেখি’ পথে কহে, — বল ‘হরি’ ‘হরি’ ॥ ৯৭ ॥
 
 ei śloka paḍi’ pathe calilā gaurahari  
-loka dekhi’ pathe kahe, — bala ‘hari’ ‘hari’
+this  verse  reciting  on the road  went  Gaurahari  
+loka dekhi’ pathe kahe, — bala ‘hari’ ‘hari’  
+people  seeing  on the road  He says  say  Hari  Hari
 
-(97) [not yet translated]
+(97) Reciting this verse, Gaurahari went along the road, and whenever He saw people on the way, He told them, “Say ‘Hari! Hari!’”
 
 সেই লোক প্রেমমত্ত হঞা বলে ‘হরি’ ‘কৃষ্ণ’ ৷  
 প্রভুর পাছে সঙ্গে যায় দর্শন-সতৃষ্ণ ॥ ৯৮ ॥
 
 sei loka premamatta hañā bale ‘hari’ ‘kṛṣṇa’  
-prabhura pāche saṅge yāya darśana-satṛṣṇa
+those  people  maddened with love  becoming  say  Hari  Kṛṣṇa  
+prabhura pāche saṅge yāya darśana-satṛṣṇa  
+the Lord’s  behind  along  go  thirsting for His sight
 
-(98) [not yet translated]
+(98) Those people, maddened with love, would call out, “Hari! Kṛṣṇa!” and follow behind the Lord, thirsting to see Him.
 
 কতক্ষণে রহি’ প্রভু তারে আলিঙ্গিয়া ৷  
 বিদায় করিল তারে শক্তি সঞ্চারিয়া ॥ ৯৯ ॥
 
 kata-kṣaṇe rahi’ prabhu tāre āliṅgiyā  
-vidāya karila tāre śakti sañcāriyā
+after some time  stopping  the Lord  them  embracing  
+vidāya karila tāre śakti sañcāriyā  
+farewell  made  them  power  transmitting
 
-(99) [not yet translated]
+(99) After a while the Lord would stop, embrace them, invest them with His power and send them back.
 
 সেইজন নিজ-গ্রামে করিয়া গমন ৷  
 ‘কৃষ্ণ’ বলি’ হাসে, কান্দে, নাচে অনুক্ষণ ॥ ১০০ ॥
 
 sei-jana nija-grāme kariyā gamana  
-‘kṛṣṇa’ bali’ hāse, kānde, nāce anukṣaṇa
+that person  to his own village  making  return  
+‘kṛṣṇa’ bali’ hāse, kānde, nāce anukṣaṇa  
+Kṛṣṇa  saying  laughs  weeps  dances  constantly
 
-(100) [not yet translated]
+(100) Each of them returned to his own village and constantly laughed, wept and danced, calling, “Kṛṣṇa!”
 
 যারে দেখে, তারে কহে, — কহ কৃষ্ণনাম ৷  
 এইমত ‘বৈষ্ণব’ কৈল সব নিজ-গ্রাম ॥ ১০১ ॥
 
 yāre dekhe, tāre kahe, — kaha kṛṣṇa-nāma  
-ei-mata ‘vaiṣṇava’ kaila saba nija-grāma
+whom  he sees  to him  says  say  Kṛṣṇa’s name  
+ei-mata ‘vaiṣṇava’ kaila saba nija-grāma  
+in this way  Vaiṣṇava  made  all  his own village
 
-(101) [not yet translated]
+(101) Whomever he saw, he told, “Say the name of Kṛṣṇa!” In this way he made his whole village Vaiṣṇava.
 
 গ্রামান্তর হৈতে দেখিতে আইল যত জন ৷  
 তাঁর দর্শন-কৃপায় হয় তাঁর সম ॥ ১০২ ॥
 
 grāmāntara haite dekhite āila yata jana  
-tāṅra darśana-kṛpāya haya tāṅra sama
+from other villages  to see  came  as many as  people  
+tāṅra darśana-kṛpāya haya tāṅra sama  
+his  by the mercy of darśana  become  his  equal
 
-(102) [not yet translated]
+(102) All who came from other villages to see him became like him by the mercy of seeing him.
 
 সেই যাই’ গ্রামের লোক বৈষ্ণব করয় ৷  
 অন্যগ্রামী আসি’ তাঁরে দেখি’ বৈষ্ণব হয় ॥ ১০৩ ॥
 
 sei yāi’ grāmera loka vaiṣṇava karaya  
-anya-grāmī āsi’ tāṅre dekhi’ vaiṣṇava haya
+he  going  of the village  the people  Vaiṣṇava  makes  
+anya-grāmī āsi’ tāṅre dekhi’ vaiṣṇava haya  
+people of other villages  coming  him  seeing  Vaiṣṇava  become
 
-(103) [not yet translated]
+(103) Each of these went home and made the people of his own village Vaiṣṇavas, and people from yet other villages came, saw him and became Vaiṣṇavas.
 
 সেই যাই’ অন্য গ্রামে করে উপদেশ ৷  
 এইমত ‘বৈষ্ণব’ হৈল সব দক্ষিণ-দেশ ॥ ১০৪ ॥
 
 sei yāi’ anya grāme kare upadeśa  
-ei-mata ‘vaiṣṇava’ haila saba dakṣiṇa-deśa
+he  going  in another  village  makes  instruction  
+ei-mata ‘vaiṣṇava’ haila saba dakṣiṇa-deśa  
+in this way  Vaiṣṇava  became  all  the southern country
 
-(104) [not yet translated]
+(104) They in turn went and taught in other villages, and in this way the whole of the south became Vaiṣṇava.
 
 এইমত পথে যাইতে শত শত জন ৷  
 ‘বৈষ্ণব’ করেন তাঁরে করি’ আলিঙ্গন ॥ ১০৫ ॥
 
 ei-mata pathe yāite śata śata jana  
-‘vaiṣṇava’ karena tāṅre kari’ āliṅgana
+in this way  on the road  going  hundreds  hundreds  people  
+‘vaiṣṇava’ karena tāṅre kari’ āliṅgana  
+Vaiṣṇava  He makes  them  making  embrace
 
-(105) [not yet translated]
+(105) In this way, as He travelled, the Lord made Vaiṣṇavas of hundreds upon hundreds of people by embracing them.
 
 যেই গ্রামে রহি’ ভিক্ষা করেন যাঁর ঘরে ৷  
 সেই গ্রামের যত লোক আইসে দেখিবারে ॥ ১০৬ ॥
 
 yei grāme rahi’ bhikṣā karena yāṅra ghare  
-sei grāmera yata loka āise dekhibāre
+in which  village  staying  alms  He takes  in whose  house  
+sei grāmera yata loka āise dekhibāre  
+of that  village  all  people  come  to see
 
-(106) [not yet translated]
+(106) In whichever village He stayed and took His meal in someone’s house, all the people of that village came to see Him.
 
 প্রভুর কৃপায় হয় মহাভাগবত ৷  
 সেইসব আচার্য্য হঞা তারিল জগৎ ॥ ১০৭ ॥
 
 prabhura kṛpāya haya mahābhāgavata  
-seisaba ācārya hañā tārila jagat
+by the Lord’s  mercy  they become  mahā-bhāgavatas  
+seisaba ācārya hañā tārila jagat  
+all of them  ācāryas  becoming  delivered  the world
 
-(107) [not yet translated]
+(107) By the Lord’s mercy they became mahā-bhāgavatas, and all of them, becoming ācāryas, delivered the world.
 
 এইমত কৈলা যাবৎ গেলা সেতুবন্ধে ৷  
 সর্ব্বদেশ ‘বৈষ্ণব’ হৈল প্রভুর সম্বন্ধে ॥ ১০৮ ॥
 
 ei-mata kailā yāvat gelā setubandhe  
-sarva-deśa ‘vaiṣṇava’ haila prabhura sambandhe
+in this way  He did  until  He went  to Setubandha  
+sarva-deśa ‘vaiṣṇava’ haila prabhura sambandhe  
+all lands  Vaiṣṇava  became  through the Lord’s  connection
 
-(108) [not yet translated]
+(108) He did this all the way to Setubandha, and through their connection with the Lord all the lands became Vaiṣṇava.
 
 নবদ্বীপে যেই শক্তি না কৈলা প্রকাশে ৷  
 সেই শক্তি প্রকাশি’ নিস্তারিল দক্ষিণদেশে ॥ ১০৯ ॥
 
 navadvīpe yei śakti nā kailā prakāśe  
-sei śakti prakāśi’ nistārila dakṣiṇa-deśe
+in Navadvīpa  which  power  not  He made  manifest  
+sei śakti prakāśi’ nistārila dakṣiṇa-deśe  
+that  power  manifesting  He delivered  the southern country
 
-(109) [not yet translated]
+(109) The power He had not manifested in Navadvīpa He now manifested to deliver the southern country.
 
 প্রভুকে যে ভজে, তারে তাঁর কৃপা হয় ৷  
 সেই সে এ-সব লীলা সত্য করি’ লয় ॥ ১১০ ॥
 
 prabhuke ye bhaje, tāre tāṅra kṛpā haya  
-sei se e-saba līlā satya kari’ laya
+the Lord  who  worships  to him  His  mercy  comes  
+sei se e-saba līlā satya kari’ laya  
+he  alone  these  all  pastimes  true  making  accepts
 
-(110) [not yet translated]
+(110) Whoever worships the Lord receives His mercy, and only such a person accepts all these pastimes as true.
 
 অলৌকিক-লীলায় যার না হয় বিশ্বাস ৷  
 ইহলোক, পরলোক তার হয় নাশ ॥ ১১১ ॥
 
 alaukika-līlāya yāra nā haya viśvāsa  
-iha-loka, para-loka tāra haya nāśa
+in the extraordinary pastimes  whose  not  is  faith  
+iha-loka, para-loka tāra haya nāśa  
+this world  the next world  his  is  ruin
 
-(111) [not yet translated]
+(111) Whoever has no faith in these extraordinary pastimes is ruined both in this world and in the next.
 
 প্রথমে কহিল প্রভুর যেরূপে গমন ৷  
 এইমত জানিহ যাবৎ দক্ষিণ-ভ্রমণ ॥ ১১২ ॥
 
 prathame kahila prabhura ye-rūpe gamana  
-ei-mata jāniha yāvat dakṣiṇa-bhramaṇa
+first  I told  the Lord’s  in what manner  journey  
+ei-mata jāniha yāvat dakṣiṇa-bhramaṇa  
+in this way  know  as long as  the southern tour
 
-(112) [not yet translated]
+(112) I have told first how the Lord travelled; know that it was the same throughout His tour of the south.
 
 এইমত যাইতে যাইতে গেলা কূর্ম্মস্থানে ৷  
 কূর্ম্ম দেখি’ কৈল তারে স্তবন-প্রণামে ॥ ১১৩ ॥
 
 ei-mata yāite yāite gelā kūrma-sthāne  
-kūrma dekhi’ kaila tāre stavana-praṇāme
+in this way  going  going  He went  to Kūrma-sthāna  
+kūrma dekhi’ kaila tāre stavana-praṇāme  
+Kūrma  seeing  He made  to Him  prayers and obeisances
 
-(113) [not yet translated]
+(113) Travelling on in this way, He came to Kūrma-sthāna. Seeing the Deity of Kūrma, He offered Him prayers and obeisances.
 
 প্রেমাবেশে হাসি’ কান্দি’ নৃত্য-গীত কৈল ৷  
 দেখি’ সর্ব্ব লোকের চিত্তে চমৎকার হৈল ॥ ১১৪ ॥
 
 premāveśe hāsi’ kāndi’ nṛtya-gīta kaila  
-dekhi’ sarva lokera citte camatkāra haila
+absorbed in love  laughing  weeping  dancing and singing  He did  
+dekhi’ sarva lokera citte camatkāra haila  
+seeing  of all  the people  in the hearts  wonder  arose
 
-(114) [not yet translated]
+(114) Absorbed in love, He laughed and wept, danced and sang, and all who saw it were filled with wonder.
 
 আশ্চর্য্য শুনিয়া লোক আইল দেখিবারে ৷  
 প্রভুর রূপ-প্রেম দেখি’ হৈলা চমৎকারে ॥ ১১৫ ॥
 
 āścarya śuniyā loka āila dekhibāre  
-prabhura rūpa-prema dekhi’ hailā camatkāre
+the wonder  hearing  people  came  to see  
+prabhura rūpa-prema dekhi’ hailā camatkāre  
+the Lord’s  beauty and love  seeing  became  amazed
 
-(115) [not yet translated]
+(115) Hearing of this wonder, people came to see, and they were amazed at the Lord’s beauty and love.
 
 দর্শনে ‘বৈষ্ণব’ হৈল, বলে ‘কৃষ্ণ’ ‘হরি’ ৷  
 প্রেমাবেশে নাচে লোক ঊর্দ্ধ বাহু করি’ ॥ ১১৬ ॥
 
 darśane ‘vaiṣṇava’ haila, bale ‘kṛṣṇa’ ‘hari’  
-premāveśe nāce loka ūrddha bāhu kari’
+by the sight  Vaiṣṇavas  became  say  Kṛṣṇa  Hari  
+premāveśe nāce loka ūrddha bāhu kari’  
+absorbed in love  dance  the people  raised  arms  making
 
-(116) [not yet translated]
+(116) Just by seeing Him they became Vaiṣṇavas and called out, “Kṛṣṇa! Hari!” Absorbed in love, the people danced with their arms raised.
 
 কৃষ্ণনাম লোকমুখে শুনি’ অবিরাম ৷  
 সেই লোক ‘বৈষ্ণব’ কৈল অন্য সব গ্রাম ॥ ১১৭ ॥
 
 kṛṣṇa-nāma loka-mukhe śuni’ avirāma  
-sei loka ‘vaiṣṇava’ kaila anya saba grāma
+Kṛṣṇa’s name  from the mouths of people  hearing  ceaselessly  
+sei loka ‘vaiṣṇava’ kaila anya saba grāma  
+those  people  Vaiṣṇava  made  other  all  villages
 
-(117) [not yet translated]
+(117) Having heard the name of Kṛṣṇa ceaselessly from others’ lips, these people in turn made all the other villages Vaiṣṇava.
 
 এইমত পরম্পরায় দেশ ‘বৈষ্ণব’ হৈল ৷  
 কৃষ্ণনামামৃত-বন্যায় দেশ ভাসাইল ॥ ১১৮ ॥
 
 ei-mata paramparāya deśa ‘vaiṣṇava’ haila  
-kṛṣṇa-nāmāmṛta-vanyāya deśa bhāsāila
+in this way  by succession  the land  Vaiṣṇava  became  
+kṛṣṇa-nāmāmṛta-vanyāya deśa bhāsāila  
+by the flood of the nectar of Kṛṣṇa’s name  the land  He flooded
 
-(118) [not yet translated]
+(118) In this way, one from another, the whole land became Vaiṣṇava: He flooded the country with the nectar of Kṛṣṇa’s name.
 
 কতক্ষণে প্রভু যদি বাহ্য প্রকাশিলা ৷  
 কূর্ম্মের সেবক বহু সম্মান করিলা ॥ ১১৯ ॥
 
 kata-kṣaṇe prabhu yadi bāhya prakāśilā  
-kūrmera sevaka bahu sammāna karilā
+after a while  the Lord  when  outward consciousness  showed  
+kūrmera sevaka bahu sammāna karilā  
+of Kūrma  the servant  much  honour  showed
 
-(119) [not yet translated]
+(119) After some time, when the Lord returned to outward consciousness, the servant of the Deity of Kūrma honoured Him greatly.
 
 যেই গ্রামে যায় তাঁহা এই ব্যবহার ৷  
 এক ঠাঞি কহিল, না কহিব আর বার ॥ ১২০ ॥
 
 yei grāme yāya tāṅhā ei vyavahāra  
-eka ṭhāñi kahila, nā kahiba āra bāra
+which  village  He goes  there  this  behaviour  
+eka ṭhāñi kahila, nā kahiba āra bāra  
+in one  place  I have told  not  I shall tell  again
 
-(120) [not yet translated]
+(120) In every village He went to, it was the same. I have described it here in one place and shall not describe it again.
 
 ‘কূর্ম্ম’-নামে সেই গ্রামে বৈদিক ব্রাহ্মণ ৷  
 বহু শ্রদ্ধা-ভক্ত্যে কৈল প্রভুর নিমন্ত্রণ ॥ ১২১ ॥
