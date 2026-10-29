@@ -626,241 +626,301 @@ the two  brothers  came  then  to take  the meal
 যোড়হাতে দুইজন কহিতে লাগিল ॥ ৬১ ॥
 
 mukunda, haridāsa, — dui prabhu bolāila  
-yoḍa-hāte dui-jana kahite lāgila
+Mukunda  Haridāsa  the two  Lords  called  
+yoḍa-hāte dui-jana kahite lāgila  
+with joined palms  the two  to speak  began
 
-(61) [not yet translated]
+(61) The two Lords called Mukunda and Haridāsa, but the two of them, with joined palms, began to speak.
 
 মুকুন্দ বলে, মোর কিছু কৃত্য নাহি সরে ৷  
 পাছে মুঞি প্রসাদ পামু, তুমি যাহ ঘরে ॥ ৬২ ॥
 
 mukunda bale, mora kichu kṛtya nāhi sare  
-pāche muñi prasāda pāmu, tumi yāha ghare
+Mukunda  says  my  some  duty  not  is finished  
+pāche muñi prasāda pāmu, tumi yāha ghare  
+later  I  prasāda  shall take  You  go  into the house
 
-(62) [not yet translated]
+(62) Mukunda said, “Some of my duties are not yet finished. I shall take *prasāda* later; You go inside.”
 
 হরিদাস বলে, মুঞি পাপিষ্ঠ অধম ৷  
 বাহিরে একমুষ্টি পাছে করিমু ভোজন ॥ ৬৩ ॥
 
 haridāsa bale, muñi pāpiṣṭha adhama  
-bāhire eka muṣṭi pāche karimu bhojana
+Haridāsa  says  I  most sinful  lowly  
+bāhire eka muṣṭi pāche karimu bhojana  
+outside  one  handful  later  shall make  meal
 
-(63) [not yet translated]
+(63) Haridāsa said, “I am most sinful and lowly. Later I shall eat a handful outside.”
 
 দুই প্রভুরে লঞা আচার্য্য গেলা ভিতর-ঘরে ৷  
 প্রসাদ দেখিয়া প্রভুর আনন্দ অন্তরে ॥ ৬৪ ॥
 
 dui prabhure lañā ācārya gelā bhitara-ghare  
-prasāda dekhiyā prabhura ānanda antare
+the two  Lords  taking  the Ācārya  went  to the inner room  
+prasāda dekhiyā prabhura ānanda antare  
+the prasāda  seeing  of the Lord  joy  in the heart
 
-(64) [not yet translated]
+(64) The Ācārya took the two Lords into the inner room. Seeing the *prasāda*, the Lord felt joy in His heart.
 
 ঐছে অন্ন যে কৃষ্ণকে করায় ভোজন ৷  
 জন্মে জন্মে শিরে ধরোঁ তাঁহার চরণ ॥ ৬৫ ॥
 
 aiche anna ye kṛṣṇake karāya bhojana  
-janme janme śire dharoṅ tāṅhāra caraṇa
+such  food  who  to Kṛṣṇa  makes  eat  
+janme janme śire dharoṅ tāṅhāra caraṇa  
+birth  after birth  on My head  I hold  his  feet
 
-(65) [not yet translated]
+(65) “Whoever feeds Kṛṣṇa such food—birth after birth I hold his feet on My head.”
 
 প্রভু জানে, তিন ভোগ — কৃষ্ণের নৈবেদ্য ৷  
 আচার্য্যের মনঃ-কথা নহে প্রভুর বেদ্য ॥ ৬৬ ॥
 
 prabhu jāne, tina bhoga — kṛṣṇera naivedya  
-ācāryera manaḥ-kathā nahe prabhura vedya
+the Lord  knows  three  offerings  Kṛṣṇa’s  naivedya  
+ācāryera manaḥ-kathā nahe prabhura vedya  
+of the Ācārya  the mind’s  intention  not  to the Lord  known
 
-(66) [not yet translated]
+(66) The Lord understood that all three offerings were food offered to Kṛṣṇa, but He did not know what the Ācārya had in mind.
 
 প্রভু বলে, বৈস তুমি করিতে ভোজন ৷  
 আচার্য্য কহে, আমি করিব পরিবেশন ॥ ৬৭ ॥
 
 prabhu bale, vaisa tumi karite bhojana  
-ācārya kahe, āmi kariba pariveśana
+the Lord  says  sit  You  to take  the meal  
+ācārya kahe, āmi kariba pariveśana  
+the Ācārya  says  I  shall do  serving
 
-(67) [not yet translated]
+(67) The Lord said, “Sit down and eat too.” The Ācārya said, “I shall serve.”
 
 কোন্ স্থানে বসিব, আর আন দুই পাত ৷  
 অল্প করি’ তাহে আনি’ দেহ ব্যঞ্জন-ভাত ॥ ৬৮ ॥
 
 kon sthāne vasiba, āra āna dui pāta  
-alpa kari’ tāhe āni’ deha vyañjana-bhāta
+in which  place  shall I sit  another  bring  two  leaves  
+alpa kari’ tāhe āni’ deha vyañjana-bhāta  
+little  making  on them  bringing  give  vegetables and rice
 
-(68) [not yet translated]
+(68) The Lord said, “Where shall I sit? Bring two more leaves, and put a little rice and vegetables on them.”
 
 আচার্য্য কহে, বৈস দোঁহে পিণ্ডার উপরে ৷  
 এত বলি হাতে ধরি’ বসাইল দুঁহারে ॥ ৬৯ ॥
 
 ācārya kahe, vaisa doṅhe piṇḍāra upare  
-eta bali hāte dhari’ vasāila duṅhāre
+the Ācārya  says  sit  both  the seats  upon  
+eta bali hāte dhari’ vasāila duṅhāre  
+thus  saying  by the hands  taking  seated  both
 
-(69) [not yet translated]
+(69) The Ācārya said, “Both of You, sit on these seats,” and saying this, He took Them by the hand and seated Them.
 
 প্রভু কহে, সন্ন্যাসীর ভক্ষ্য নহে উপকরণ ৷  
 ইহা খাইলে কৈছে হবে ইন্দ্রিয়-বারণ ॥ ৭০ ॥
 
 prabhu kahe, sannyāsīra bhakṣya nahe upakaraṇa  
-ihā khāile kaiche habe indriya-vāraṇa
+the Lord  says  of a sannyāsī  food  is not  such fare  
+ihā khāile kaiche habe indriya-vāraṇa  
+this  eating  how  will be  of the senses  restraint
 
-(70) [not yet translated]
+(70) The Lord said, “Such fare is not fit food for a *sannyāsī*. If he eats this, how will he restrain his senses?”
 
 আচার্য্য কহে, ছাড় তুমি আপনার চুরি ৷  
 আমি জানি তোমার সন্ন্যাসের ভারিভুরি ॥ ৭১ ॥
 
 ācārya kahe, chāḍa tumi āpanāra curi  
-āmi jāni tomāra sannyāsera bhāri-bhuri
+the Ācārya  says  give up  You  Your own  concealment  
+āmi jāni tomāra sannyāsera bhāri-bhuri  
+I  know  of Your  sannyāsa  the pretence
 
-(71) [not yet translated]
+(71) The Ācārya said, “Give up Your concealment. I know what lies behind Your *sannyāsa*.
 
 ভোজন করহ, ছাড় বচন-চাতুরী ৷  
 প্রভু কহে, এত অন্ন খাইতে না পারি ॥ ৭২ ॥
 
 bhojana karaha, chāḍa vacana-cāturī  
-prabhu kahe, eta anna khāite nā pāri
+the meal  take  give up  of words  cleverness  
+prabhu kahe, eta anna khāite nā pāri  
+the Lord  says  so much  food  to eat  not  I can
 
-(72) [not yet translated]
+(72) Eat, and give up Your clever words.” The Lord said, “I cannot eat so much food.”
 
 আচার্য্য বলে, অকপটে করহ আহার ৷  
 যদি খাইতে না পার, রহিবেক আর ॥ ৭৩ ॥
 
 ācārya bale, akapaṭe karaha āhāra  
-yadi khāite nā pāra, rahibeka āra
+the Ācārya  says  without pretence  take  food  
+yadi khāite nā pāra, rahibeka āra  
+if  to eat  not  You can  will remain  the rest
 
-(73) [not yet translated]
+(73) The Ācārya said, “Eat without pretence. If You cannot eat it all, the rest will remain.”
 
 প্রভু বলে, এত অন্ন নারিব খাইতে ৷  
 সন্ন্যাসীর ধর্ম্ম নহে উচ্ছিষ্ট রাখিতে ॥ ৭৪ ॥
 
 prabhu bale, eta anna nāriba khāite  
-sannyāsīra dharma nahe ucchiṣṭa rākhite
+the Lord  says  so much  food  I shall not be able  to eat  
+sannyāsīra dharma nahe ucchiṣṭa rākhite  
+of a sannyāsī  the duty  is not  remnants  to leave
 
-(74) [not yet translated]
+(74) The Lord said, “I shall not be able to eat so much food, and it is not the duty of a *sannyāsī* to leave remnants.”
 
 আচার্য্য বলে, নীলাচলে খাও চৌয়ান্নবার ৷  
 একবারে অন্ন খাও শত শত ভার ॥ ৭৫ ॥
 
 ācārya bale, nīlācale khāo cauyānna-bāra  
-eka-bāre anna khāo śata śata bhāra
+the Ācārya  says  in Nīlācala  You eat  fifty-four times  
+eka-bāre anna khāo śata śata bhāra  
+at one time  food  You eat  hundreds  hundreds  loads
 
-(75) [not yet translated]
+(75) The Ācārya said, “In Nīlācala You eat fifty-four times, and each time You eat hundreds and hundreds of loads of food.
 
 তিন জনার ভক্ষ্যপিণ্ড — তোমার একগ্রাস ৷  
 তার লেখায় এই অন্ন নহে পঞ্চগ্রাস ॥ ৭৬ ॥
 
 tina janāra bhakṣya-piṇḍa — tomāra eka grāsa  
-tāra lekhāya ei anna nahe pañca-grāsa
+of three  persons  the food portion  Your  one  mouthful  
+tāra lekhāya ei anna nahe pañca-grāsa  
+by that  reckoning  this  food  is not  five mouthfuls
 
-(76) [not yet translated]
+(76) What three people eat is a single mouthful for You. By that reckoning this food is not even five mouthfuls.
 
 মোর ভাগ্যে, মোর ঘরে, তোমার আগমন ৷  
 ছাড়হ চাতুরী, প্রভু, করহ ভোজন ॥ ৭৭ ॥
 
 mora bhāgye, mora ghare, tomāra āgamana  
-chāḍaha cāturī, prabhu, karaha bhojana
+by My  fortune  to My  house  Your  coming  
+chāḍaha cāturī, prabhu, karaha bhojana  
+give up  cleverness  Lord  take  the meal
 
-(77) [not yet translated]
+(77) By My good fortune You have come to My house. Give up Your cleverness, Lord, and eat.”
 
 এত বলি, জল দিল দুই গোসাঞির হাতে ৷  
 হাসিয়া লাগিলা দুঁহে ভোজন করিতে ॥ ৭৮ ॥
 
 eta bali, jala dila dui gosāñira hāte  
-hāsiyā lāgilā duṅhe bhojana karite
+thus  saying  water  gave  of the two  Gosāñis  on the hands  
+hāsiyā lāgilā duṅhe bhojana karite  
+smiling  began  both  meal  to take
 
-(78) [not yet translated]
+(78) Saying this, He poured water on the hands of the two Gosāñis, and smiling, the two of Them began to eat.
 
 নিত্যানন্দ কহে, কৈলুঁ তিন উপবাস ৷  
 আজি পারণা করিতে বড় ছিল আশ ॥ ৭৯ ॥
 
 nityānanda kahe, kailuṅ tina upavāsa  
-āji pāraṇā karite baḍa chila āśa
+Nityānanda  says  I did  three  fasts  
+āji pāraṇā karite baḍa chila āśa  
+today  breaking the fast  to do  great  was  hope
 
-(79) [not yet translated]
+(79) Nityānanda said, “I have fasted for three days, and I had great hope of breaking My fast today.
 
 আজি উপবাস হৈল আচার্য্য-নিমন্ত্রণে ৷  
 অর্দ্ধপেট না ভরিল এই গ্রাসেক অন্নে ॥ ৮০ ॥
 
 āji upavāsa haila ācārya-nimantraṇe  
-ardha-peṭa nā bharila ei grāseka anne
+today  fasting  has come  by the Ācārya’s invitation  
+ardha-peṭa nā bharila ei grāseka anne  
+half the belly  not  has filled  this  mouthful of  food
 
-(80) [not yet translated]
+(80) But today, by the Ācārya’s invitation, it has turned into a fast: this mouthful of food has not filled even half My belly.”
 
 আচার্য্য কহে, তুমি তৈর্থিক সন্ন্যাসী ৷  
 কভু ফল-মূল খাও, কভু উপবাসী ॥ ৮১ ॥
 
 ācārya kahe, tumi tairthika sannyāsī  
-kabhu phala-mūla khāo, kabhu upavāsī
+the Ācārya  says  You  a pilgrim  sannyāsī  
+kabhu phala-mūla khāo, kabhu upavāsī  
+sometimes  fruits and roots  You eat  sometimes  fasting
 
-(81) [not yet translated]
+(81) The Ācārya said, “You are a pilgrim *sannyāsī*: sometimes You eat fruits and roots, sometimes You fast.
 
 দরিদ্রব্রাহ্মণ ঘরে যে পাইলা মুষ্ট্যেক অন্ন ৷  
 ইহাতে সন্তুষ্ট হও, ছাড় লোভ-মন ॥ ৮২ ॥
 
 daridrabrāhmaṇa ghare ye pāilā muṣṭy-eka anna  
-ihāte santuṣṭa hao, chāḍa lobha-mana
+in a poor brāhmaṇa’s  house  what  You have got  a handful of  food  
+ihāte santuṣṭa hao, chāḍa lobha-mana  
+with this  satisfied  be  give up  a greedy mind
 
-(82) [not yet translated]
+(82) Be satisfied with the handful of food You have received in a poor brāhmaṇa’s house, and give up Your greed.”
 
 নিত্যানন্দ বলে, যবে কৈলে নিমন্ত্রণ ৷  
 তত দিতে চাহ, যত করিয়ে ভোজন ॥ ৮৩ ॥
 
 nityānanda bale, yabe kaile nimantraṇa  
-tata dite cāha, yata kariye bhojana
+Nityānanda  says  since  You made  an invitation  
+tata dite cāha, yata kariye bhojana  
+so much  to give  You must  as much as  I eat
 
-(83) [not yet translated]
+(83) Nityānanda said, “Since You invited Me, You must give Me as much as I eat.”
 
 শুনি, নিত্যানন্দের কথা ঠাকুর অদ্বৈত ৷  
 কহেন তাঁহারে কিছু পাইয়া পিরীত ॥ ৮৪ ॥
 
 śuni, nityānandera kathā ṭhākura advaita  
-kahena tāṅhāre kichu pāiyā pirīta
+hearing  Nityānanda’s  words  Ṭhākura  Advaita  
+kahena tāṅhāre kichu pāiyā pirīta  
+speaks  to Him  some  feeling  affection
 
-(84) [not yet translated]
+(84) Hearing Nityānanda’s words, Ṭhākura Advaita, feeling a surge of affection, said to Him:
 
 ভ্রষ্ট অবধূত তুমি, উদর ভরিতে ৷  
 সন্ন্যাস লইয়াছ, বুঝি, ব্রাহ্মণ দণ্ডিতে ॥ ৮৫ ॥
 
 bhraṣṭa avadhūta tumi, udara bharite  
-sannyāsa laiyācha, bujhi, brāhmaṇa daṇḍite
+fallen  avadhūta  You  the belly  to fill  
+sannyāsa laiyācha, bujhi, brāhmaṇa daṇḍite  
+sannyāsa  You have taken  I think  brāhmaṇas  to punish
 
-(85) [not yet translated]
+(85) “You are a fallen *avadhūta*! You took *sannyāsa* to fill Your belly, and to punish brāhmaṇas, I think.
 
 তুমি খেতে পার দশ-বিশ মানের অন্ন ৷  
 আমি তাহা কাঁহা পাব, দরিদ্র ব্রাহ্মণ ॥ ৮৬ ॥
 
 tumi khete pāra daśa-viśa mānera anna  
-āmi tāhā kāṅhā pāba, daridra brāhmaṇa
+You  to eat  can  ten or twenty  māns of  food  
+āmi tāhā kāṅhā pāba, daridra brāhmaṇa  
+I  that  where  shall get  a poor  brāhmaṇa
 
-(86) [not yet translated]
+(86) You can eat ten or twenty *māns* of rice. Where shall I, a poor brāhmaṇa, get that much?
 
 যে পাঞাছ মুষ্ট্যেক অন্ন, তাহা খাঞা উঠ ৷  
 পাগলামি না করিহ, না ছড়াইও ঝুট ॥ ৮৭ ॥
 
 ye pāñācha muṣṭy-eka anna, tāhā khāñā uṭha  
-pāgalāmi nā kariha, nā chaḍāio jhuṭa
+what  You have got  a handful of  food  that  eating  get up  
+pāgalāmi nā kariha, nā chaḍāio jhuṭa  
+madness  not  do  not  scatter  leftovers
 
-(87) [not yet translated]
+(87) Eat the handful of food You have been given and get up. Don’t act like a madman, and don’t scatter Your leftovers about!”
 
 এই মত হাস্যরসে করেন ভোজন ৷  
 অর্দ্ধ-অর্দ্ধ খাঞা প্রভু ছাড়েন ব্যঞ্জন ॥ ৮৮ ॥
 
 ei mata hāsya-rase karena bhojana  
-ardha-ardha khāñā prabhu chāḍena vyañjana
+in this  way  in a joking mood  They take  the meal  
+ardha-ardha khāñā prabhu chāḍena vyañjana  
+half  half  eating  the Lord  leaves  the vegetables
 
-(88) [not yet translated]
+(88) In this way They ate, joking and laughing. The Lord would eat half of each vegetable dish and leave the rest.
 
 সেই ব্যঞ্জন আচার্য্য পুনঃ করেন পূরণ ৷  
 এই মত পুনঃ পুনঃ পরিবেশে ব্যঞ্জন ॥ ৮৯ ॥
 
 sei vyañjana ācārya punaḥ karena pūraṇa  
-ei mata punaḥ punaḥ pariveśe vyañjana
+those  vegetables  the Ācārya  again  makes  filling  
+ei mata punaḥ punaḥ pariveśe vyañjana  
+in this  way  again  again  serves  the vegetables
 
-(89) [not yet translated]
+(89) The Ācārya would fill that dish again, and so He served the vegetables again and again.
 
 দোনা ব্যঞ্জনে ভরি’ করেন প্রার্থন ৷  
 প্রভু বলেন, আর কত করিব ভোজন ॥ ৯০ ॥
 
 donā vyañjane bhari’ karena prārthana  
-prabhu balena, āra kata kariba bhojana
+cup  with vegetables  filling  makes  entreaty  
+prabhu balena, āra kata kariba bhojana  
+the Lord  says  more  how much  shall I make  eating
 
-(90) [not yet translated]
+(90) Filling the cup with vegetables, He would entreat the Lord to eat. The Lord said, “How much more shall I eat?”
 
 আচার্য্য কহে, যে দিয়াছি, তাহা না ছাড়িবা ৷  
 এখন যে দিয়ে, তার অর্দ্ধেক খাইবা ॥ ৯১ ॥
@@ -1234,7 +1294,7 @@ the Ācārya  Haridāsa  move  behind  indeed  dancing
 কভু হর্ষ, কভু বিষাদ, ভাবের তরঙ্গে ॥ ১৩২ ॥
 
 ei mata prahareka nāce prabhu raṅge  
-in this way  for a prahara  dances  the Lord  in delight  
+this  way  for a prahara  dances  the Lord  in delight  
 kabhu harṣa, kabhu viṣāda, bhāvera taraṅge  
 sometimes  joy  sometimes  dejection  of feelings  in the waves
 
@@ -1324,281 +1384,351 @@ to weep  began  Śacī  on her lap  lifting (Him)
 কেশ না দেখিয়া শচী হইলা বিকল ॥ ১৪১ ॥
 
 doṅhāra darśane duṅhe hailā vihvala  
-keśa nā dekhiyā śacī hailā vikala
+of each other  at the sight  both  became  overwhelmed  
+keśa nā dekhiyā śacī hailā vikala  
+hair  not  seeing  Śacī  became  stricken
 
-(141) [not yet translated]
+(141) At the sight of each other both were overwhelmed, and seeing no hair on His head, Śacī was stricken with grief.
 
 অঙ্গ মুছে, মুখ চুম্বে, করে নিরীক্ষণ ৷  
 দেখিতে না পায়, — অশ্রু ভরিল নয়ন ॥ ১৪২ ॥
 
 aṅga muche, mukha cumbe, kare nirīkṣaṇa  
-dekhite nā pāya, — aśru bharila nayana
+His body  she wipes  His face  she kisses  she does  gazing  
+dekhite nā pāya, — aśru bharila nayana  
+to see  not  she can  tears  filled  her eyes
 
-(142) [not yet translated]
+(142) She wiped His body, kissed His face and gazed at Him, but she could not see Him, for tears filled her eyes.
 
 কান্দিয়া কহেন শচী, বাছারে নিমাঞি ৷  
 বিশ্বরূপ-সম না করিহ নিঠুরাই ॥ ১৪৩ ॥
 
 kāndiyā kahena śacī, bāchāre nimāñi  
-viśvarūpa-sama nā kariha niṭhurāi
+weeping  says  Śacī  my child  Nimāi  
+viśvarūpa-sama nā kariha niṭhurāi  
+like Viśvarūpa  not  do  cruelty
 
-(143) [not yet translated]
+(143) Weeping, Śacī said, “My child Nimāi, do not be cruel like Viśvarūpa.
 
 সন্ন্যাসী হইয়া পুনঃ না দিল দরশন ৷  
 তুমি তৈছে কৈলে, মোর হইবে মরণ ॥ ১৪৪ ॥
 
 sannyāsī haiyā punaḥ nā dila daraśana  
-tumi taiche kaile, mora haibe maraṇa
+a sannyāsī  having become  again  not  he gave  sight (of himself)  
+tumi taiche kaile, mora haibe maraṇa  
+You  so  if You do  my  will be  death
 
-(144) [not yet translated]
+(144) After he became a *sannyāsī*, he never let me see him again. If You do the same, it will be my death.”
 
 কান্দিয়া বলেন প্রভু, শুন, মোর আই ৷  
 তোমার শরীর এই, মোর কিছু নাই ॥ ১৪৫ ॥
 
 kāndiyā balena prabhu, śuna, mora āi  
-tomāra śarīra ei, mora kichu nāi
+weeping  says  the Lord  listen  My  mother  
+tomāra śarīra ei, mora kichu nāi  
+your  body  this  Mine  anything  there is not
 
-(145) [not yet translated]
+(145) Weeping, the Lord said, “Listen, My mother. This body is yours; nothing of it is Mine.
 
 তোমার পালিত দেহ, জন্ম তোমা হৈতে ৷  
 কোটি জন্মে তোমার ঋণ না পারি শোধিতে ॥ ১৪৬ ॥
 
 tomāra pālita deha, janma tomā haite  
-koṭi janme tomāra ṛṇa nā pāri śodhite
+by you  nurtured  the body  birth  you  from  
+koṭi janme tomāra ṛṇa nā pāri śodhite  
+in millions of  births  your  debt  not  I can  repay
 
-(146) [not yet translated]
+(146) You gave birth to this body and nurtured it. Even in millions of births I could not repay My debt to you.
 
 জানি’ বা না জানি’ যদি করিলুঁ সন্ন্যাস ৷  
 তথাপি তোমারে কভু নহিব উদাস ॥ ১৪৭ ॥
 
 jāni’ vā nā jāni’ yadi kariluṅ sannyāsa  
-tathāpi tomāre kabhu nahiba udāsa
+knowing  or  not  knowing  though  I have taken  sannyāsa  
+tathāpi tomāre kabhu nahiba udāsa  
+still  to you  ever  I shall not be  indifferent
 
-(147) [not yet translated]
+(147) Whether I took *sannyāsa* knowingly or unknowingly, I shall never be indifferent to you.
 
 তুমি যাঁহা কহ, আমি তাঁহাই রহিব ৷  
 তুমি যেই আজ্ঞা কর, সেই ত’ করিব ॥ ১৪৮ ॥
 
 tumi yāṅhā kaha, āmi tāṅhāi rahiba  
-tumi yei ājñā kara, sei ta’ kariba
+you  where  say  I  there indeed  shall stay  
+tumi yei ājñā kara, sei ta’ kariba  
+you  whatever  order  give  that  indeed  I shall do
 
-(148) [not yet translated]
+(148) Wherever you tell Me to stay, there I shall stay, and whatever you order, that I shall do.”
 
 এত বলি’ পুনঃ পুনঃ করে নমস্কার ৷  
 তুষ্ট হঞা আই কোলে করে বার বার ॥ ১৪৯ ॥
 
 eta bali’ punaḥ punaḥ kare namaskāra  
-tuṣṭa hañā āi kole kare bāra bāra
+thus  saying  again and  again  He does  obeisance  
+tuṣṭa hañā āi kole kare bāra bāra  
+pleased  becoming  mother  on her lap  takes (Him)  again and  again
 
-(149) [not yet translated]
+(149) Saying this, He bowed down to her again and again, and the mother, pleased, took Him on her lap again and again.
 
 তবে আই লঞা, আচার্য্য গেলা অভ্যন্তরে ৷  
 ভক্তগণ মিলিতে প্রভু হইলা সত্বরে ॥ ১৫০ ॥
 
 tabe āi lañā, ācārya gelā abhyantare  
-bhakta-gaṇa milite prabhu hailā satvare
+then  mother  taking  the Ācārya  went  inside  
+bhakta-gaṇa milite prabhu hailā satvare  
+the devotees  to meet  the Lord  became  in haste
 
-(150) [not yet translated]
+(150) Then the Ācārya took the mother inside, and the Lord hastened to meet the devotees.
 
 একে একে মিলিলা প্রভু সব ভক্তগণে ৷  
 সবার মুখ দেখি’ করে দৃঢ় আলিঙ্গনে ॥ ১৫১ ॥
 
 eke eke mililā prabhu saba bhakta-gaṇe  
-sabāra mukha dekhi’ kare dṛḍha āliṅgane
+one  by one  met  the Lord  all  the devotees  
+sabāra mukha dekhi’ kare dṛḍha āliṅgane  
+of everyone  the face  seeing  He gives  firm  embraces
 
-(151) [not yet translated]
+(151) The Lord met all the devotees one by one, looking into each one's face and embracing him firmly.
 
 কেশ না দেখিয়া ভক্ত যদ্যপি পায় দুঃখ ৷  
 সৌন্দর্য্য দেখিতে তবু পায় মহাসুখ ॥ ১৫২ ॥
 
 keśa nā dekhiyā bhakta yadyapi pāya duḥkha  
-saundarya dekhite tabu pāya mahā-sukha
+hair  not  seeing  the devotees  although  feel  sorrow  
+saundarya dekhite tabu pāya mahā-sukha  
+His beauty  seeing  still  feel  great joy
 
-(152) [not yet translated]
+(152) Though the devotees grieved to see no hair on His head, beholding His beauty, they still felt great joy.
 
 শ্রীবাস, রামাই, বিদ্যানিধি, গদাধর ৷  
 গঙ্গাদাস, বক্রেশ্বর, মুরারি, শুক্লাম্বর ॥ ১৫৩ ॥
 
 śrīvāsa, rāmāi, vidyānidhi, gadādhara  
-gaṅgādāsa, vakreśvara, murāri, śuklāmbara
+Śrīvāsa  Rāmāi  Vidyānidhi  Gadādhara  
+gaṅgādāsa, vakreśvara, murāri, śuklāmbara  
+Gaṅgādāsa  Vakreśvara  Murāri  Śuklāmbara
 
-(153) [not yet translated]
+(153) Śrīvāsa, Rāmāi, Vidyānidhi, Gadādhara, Gaṅgādāsa, Vakreśvara, Murāri, Śuklāmbara,
 
 বুদ্ধিমন্ত খাঁন, নন্দন, শ্রীধর, বিজয় ৷  
 বাসুদেব, দামোদর, মুকুন্দ, সঞ্জয় ॥ ১৫৪ ॥
 
 buddhimanta khāṅna, nandana, śrīdhara, vijaya  
-vāsudeva, dāmodara, mukunda, sañjaya
+Buddhimanta  Khān  Nandana  Śrīdhara  Vijaya  
+vāsudeva, dāmodara, mukunda, sañjaya  
+Vāsudeva  Dāmodara  Mukunda  Sañjaya
 
-(154) [not yet translated]
+(154) Buddhimanta Khān, Nandana, Śrīdhara, Vijaya, Vāsudeva, Dāmodara, Mukunda, Sañjaya —
 
 কত নাম লইব যত নবদ্বীপবাসী ৷  
 সবারে মিলিলা প্রভু কৃপাদৃষ্ট্যে হাসি’ ॥ ১৫৫ ॥
 
 kata nāma laiba yata navadvīpavāsī  
-sabāre mililā prabhu kṛpādṛṣṭye hāsi’
+how many  names  shall I take  all  the residents of Navadvīpa  
+sabāre mililā prabhu kṛpādṛṣṭye hāsi’  
+with everyone  met  the Lord  with a merciful glance  smiling
 
-(155) [not yet translated]
+(155) how many names can I list of all the residents of Navadvīpa? The Lord met them all, smiling and casting His merciful glance.
 
 আনন্দে নাচয়ে সবে বলি’ ‘হরি’ ‘হরি’ ৷  
 আচার্য্য-মন্দির হৈল শ্রীবৈকুণ্ঠপুরী ॥ ১৫৬ ॥
 
 ānande nācaye sabe bali’ ‘hari’ ‘hari’  
-ācārya-mandira haila śrī-vaikuṇṭha-purī
+in bliss  dance  all  saying  “Hari!”  “Hari!”  
+ācārya-mandira haila śrī-vaikuṇṭha-purī  
+the Ācārya's  house  became  Śrī Vaikuṇṭha's city
 
-(156) [not yet translated]
+(156) Everyone danced in bliss, calling “Hari! Hari!”, and the Ācārya's house became the city of Śrī Vaikuṇṭha.
 
 যত লোক আইল মহাপ্রভুকে দেখিতে ৷  
 নানা-গ্রাম হৈতে আর নবদ্বীপ হৈতে ॥ ১৫৭ ॥
 
 yata loka āila mahāprabhuke dekhite  
-nānā-grāma haite āra navadvīpa haite
+as many  people  came  Mahāprabhu  to see  
+nānā-grāma haite āra navadvīpa haite  
+various  villages  from  and  Navadvīpa  from
 
-(157) [not yet translated]
+(157) All the people who came to see Mahāprabhu, from many villages and from Navadvīpa —
 
 সবাকারে বাসা দিল ভক্ষ্য অন্নপান ৷  
 বহুদিন আচার্য্য-গোসাঞি কৈল সমাধান ॥ ১৫৮ ॥
 
 sabākāre vāsā dila bhakṣya anna-pāna  
-bahudina ācārya-gosāñi kaila samādhāna
+to everyone  lodging  He gave  food  rice and drink  
+bahudina ācārya-gosāñi kaila samādhāna  
+for many days  Ācārya Gosāñi  did  provision
 
-(158) [not yet translated]
+(158) Ācārya Gosāñi gave them all lodging, food and drink, and provided for them for many days.
 
 আচার্য্য-গোসাঞির ভাণ্ডার — অক্ষয়, অব্যয় ৷  
 যত দ্রব্য ব্যয় করে, তত দ্রব্য হয় ॥ ১৫৯ ॥
 
 ācārya-gosāñira bhāṇḍāra — akṣaya, avyaya  
-yata dravya vyaya kare, tata dravya haya
+Ācārya Gosāñi's  storehouse  inexhaustible  undiminishing  
+yata dravya vyaya kare, tata dravya haya  
+as much  goods  spending  He does  so much  goods  there are
 
-(159) [not yet translated]
+(159) Ācārya Gosāñi's storehouse was inexhaustible and never diminished: however much He spent, as much was there again.
 
 সেই দিন হৈতে শচী করেন রন্ধন ৷  
 ভক্তগণ লঞা প্রভু করেন ভোজন ॥ ১৬০ ॥
 
 sei dina haite śacī karena randhana  
-bhakta-gaṇa lañā prabhu karena bhojana
+that  day  from  Śacī  does  cooking  
+bhakta-gaṇa lañā prabhu karena bhojana  
+the devotees  with  the Lord  does  eating
 
-(160) [not yet translated]
+(160) From that day on Śacī did the cooking, and the Lord ate with the devotees.
 
 দিনে আচার্য্যের প্রীতি — প্রভুর দর্শন ৷  
 রাত্রে লোক দেখে প্রভুর নর্ত্তন-কীর্ত্তন ॥ ১৬১ ॥
 
 dine ācāryera prīti — prabhura darśana  
-rātre loka dekhe prabhura nartana-kīrtana
+by day  the Ācārya's  joy  of the Lord  the sight  
+rātre loka dekhe prabhura nartana-kīrtana  
+at night  the people  see  the Lord's  dancing and kīrtana
 
-(161) [not yet translated]
+(161) By day the Ācārya's joy was to behold the Lord; at night the people watched the Lord's dancing and *kīrtana*.
 
 কীর্ত্তন করিতে প্রভুর সর্ব্বভাবোদয় ৷  
 স্তম্ভ, কম্প, পুলকাশ্রু, গদ্গদ, প্রলয় ॥ ১৬২ ॥
 
 kīrtana karite prabhura sarva-bhāvodaya  
-stambha, kampa, pulakāśru, gadgada, pralaya
+kīrtana  doing  of the Lord  the rising of all ecstasies  
+stambha, kampa, pulakāśru, gadgada, pralaya  
+stupor  trembling  hair on end and tears  choked voice  fainting
 
-(162) [not yet translated]
+(162) As He performed *kīrtana*, every ecstasy rose in the Lord — stupor, trembling, hair standing on end, tears, a choked voice and fainting (*pralaya*).
 
 ক্ষণে ক্ষণে পড়ে প্রভু আছাড় খাঞা ৷  
 দেখি শচীমাতা কহে রোদন করিয়া ॥ ১৬৩ ॥
 
 kṣaṇe kṣaṇe paḍe prabhu āchāḍa khāñā  
-dekhi śacīmātā kahe rodana kariyā
+moment  by moment  falls  the Lord  a hard fall  taking  
+dekhi śacīmātā kahe rodana kariyā  
+seeing  Śacīmātā  speaks  weeping  doing
 
-(163) [not yet translated]
+(163) Again and again the Lord fell, dashing Himself to the ground, and seeing this, Śacīmātā spoke, weeping.
 
 চূর্ণ হৈল, হেন বাসোঁ নিমাঞি-কলেবর ৷  
 হাহা করি’ বিষ্ণু-পাশে মাগে এই বর ॥ ১৬৪ ॥
 
 cūrṇa haila, hena vāsoṅ nimāñi-kalevara  
-hā-hā kari’ viṣṇu-pāśe māge ei vara
+shattered  has become  so  I feel  Nimāi's body  
+hā-hā kari’ viṣṇu-pāśe māge ei vara  
+“alas!”  crying  from Viṣṇu  she begs  this  boon
 
-(164) [not yet translated]
+(164) “It seems to me that Nimāi's body is shattered,” she thought, and crying out “Alas!”, she begged this boon from Viṣṇu:
 
 বাল্যকাল হৈতে তোমার যে কৈলুঁ সেবন ৷  
 তার প্রতিফল মোরে দেহ, নারায়ণ ॥ ১৬৫ ॥
 
 bālya-kāla haite tomāra ye kailuṅ sevana  
-tāra prati phala more deha, nārāyaṇa
+childhood  from  to You  whatever  I did  service  
+tāra prati phala more deha, nārāyaṇa  
+of that  in return  the fruit  to me  give  O Nārāyaṇa
 
-(165) [not yet translated]
+(165) “O Nārāyaṇa, for whatever service I have done You since my childhood, give me this as its fruit:
 
 যে কালে নিমাঞি পড়ে ধরণী-উপরে ৷  
 ব্যথা যেন নাহি লাগে নিমাঞি-শরীরে ॥ ১৬৬ ॥
 
 ye kāle nimāñi paḍe dharaṇī-upare  
-vyathā yena nāhi lāge nimāñi-śarīre
+at what  time  Nimāi  falls  upon the ground  
+vyathā yena nāhi lāge nimāñi-śarīre  
+pain  that  not  touches  Nimāi's body
 
-(166) [not yet translated]
+(166) whenever Nimāi falls upon the ground, let no pain touch His body.”
 
 এইমত শচীদেবী বাৎসল্যে বিহ্বল ৷  
 হর্ষ-ভয়-দৈন্যভাবে হইল বিকল ॥ ১৬৭ ॥
 
 ei-mata śacīdevī vātsalye vihvala  
-harṣa-bhaya-dainya-bhāve haila vikala
+in this way  Śacīdevī  with parental love  overwhelmed  
+harṣa-bhaya-dainya-bhāve haila vikala  
+by joy, fear and humility  in her feelings  became  agitated
 
-(167) [not yet translated]
+(167) In this way Śacīdevī was overwhelmed with motherly love and shaken by joy, fear and humility.
 
 শ্রীবাসাদি যত প্রভুর বিপ্র ভক্তগণ ৷  
 প্রভুকে ভিক্ষা দিতে হৈল সবাকার মন ॥ ১৬৮ ॥
 
 śrīvāsādi yata prabhura vipra bhakta-gaṇa  
-prabhuke bhikṣā dite haila sabākāra mana
+Śrīvāsa and the others  all  the Lord's  brāhmaṇa  devotees  
+prabhuke bhikṣā dite haila sabākāra mana  
+to the Lord  alms  to give  was  of everyone  the wish
 
-(168) [not yet translated]
+(168) All the Lord's *brāhmaṇa* devotees, headed by Śrīvāsa, wished to invite Him to a meal.
 
 শুনি’ শচী সবাকারে করিল মিনতি ৷  
 নিমাঞির দরশন আর মুঞি পাব কতি ॥ ১৬৯ ॥
 
 śuni’ śacī sabākāre karila minati  
-nimāñira daraśana āra muñi pāba kati
+hearing  Śacī  to everyone  made  entreaty  
+nimāñira daraśana āra muñi pāba kati  
+Nimāi's  sight  again  I  shall get  where
 
-(169) [not yet translated]
+(169) Hearing this, Śacī entreated them all: “Where will I ever see Nimāi again?
 
 তোমা-সবা-সনে হবে অন্যত্র মিলন ৷  
 মুঞি অভাগিনীর মাত্র এই দরশন ॥ ১৭০ ॥
 
 tomā-sabā-sane habe anyatra milana  
-muñi abhāginīra mātra ei daraśana
+with you all  there will be  elsewhere  meeting  
+muñi abhāginīra mātra ei daraśana  
+for me  unfortunate  only  this  sight
 
-(170) [not yet translated]
+(170) You will be able to meet Him elsewhere, but for me, unfortunate as I am, there is only this chance to see Him.
 
 যাবৎ আচার্য্যগৃহে নিমাঞির অবস্থান ৷  
 মুঞি ভিক্ষা দিব, সবাকারে মাগোঁ দান ॥ ১৭১ ॥
 
 yāvat ācārya-gṛhe nimāñira avasthāna  
-muñi bhikṣā diba, sabākāre māgoṅ dāna
+as long as  in the Ācārya's house  Nimāi's  stay  
+muñi bhikṣā diba, sabākāre māgoṅ dāna  
+I  alms  shall give  from everyone  I beg  this gift
 
-(171) [not yet translated]
+(171) As long as Nimāi stays in the Ācārya's house, let me alone feed Him. I beg this gift from you all.”
 
 শুনি’ ভক্তগণ কহে করি’ নমস্কার ৷  
 মাতার যে ইচ্ছা, সেই সম্মত সবার ॥ ১৭২ ॥
 
 śuni’ bhakta-gaṇa kahe kari’ namaskāra  
-mātāra ye icchā, sei sammata sabāra
+hearing  the devotees  say  having made  obeisance  
+mātāra ye icchā, sei sammata sabāra  
+the mother's  whatever  wish  that  accepted  by all
 
-(172) [not yet translated]
+(172) Hearing this, the devotees bowed down and said, “Whatever the mother wishes, we all accept.”
 
 মাতার ব্যগ্রতা দেখি’ প্রভুর ব্যগ্র মন ৷  
 ভক্তগণ একত্র করি’ বলিলা বচন ॥ ১৭৩ ॥
 
 mātāra vyagratā dekhi’ prabhura vyagra mana  
-bhakta-gaṇa ekatra kari’ balilā vacana
+the mother's  eagerness  seeing  the Lord's  agitated  mind  
+bhakta-gaṇa ekatra kari’ balilā vacana  
+the devotees  together  gathering  He spoke  words
 
-(173) [not yet translated]
+(173) Seeing His mother's eagerness, the Lord was moved. He gathered the devotees together and spoke to them:
 
 তোমা-সবার আজ্ঞা বিনা চলিলাম বৃন্দাবন ৷  
 যাইতে নারিল, বিঘ্ন কৈল নিবর্ত্তন ॥ ১৭৪ ॥
 
 tomā-sabāra ājñā vinā calilāma vṛndāvana  
-yāite nārila, vighna kaila nivartana
+of you all  permission  without  I set out  for Vṛndāvana  
+yāite nārila, vighna kaila nivartana  
+to go  I could not  an obstacle  made  turning back
 
-(174) [not yet translated]
+(174) “Without your permission I set out for Vṛndāvana, but I could not get there: an obstacle turned Me back.
 
 যদ্যপি সহসা আমি কর্য্যাছোঁ সন্ন্যাস ৷  
 তথাপি তোমা-সবা হৈতে নহিব উদাস ॥ ১৭৫ ॥
 
 yadyapi sahasā āmi karyāchoṅ sannyāsa  
-tathāpi tomā-sabā haite nahiba udāsa
+although  suddenly  I  have taken  sannyāsa  
+tathāpi tomā-sabā haite nahiba udāsa  
+still  you all  from  I shall not be  indifferent
 
-(175) [not yet translated]
+(175) Although I took *sannyāsa* so suddenly, I shall never become indifferent to you.
 
 তোমা-সব না ছাড়িব, যাবৎ আমি জীব’ ৷  
 মাতারে তাবৎ আমি ছাড়িতে নারিব ॥ ১৭৬ ॥
