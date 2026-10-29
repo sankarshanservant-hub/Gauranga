@@ -140,8 +140,154 @@ In the mood of majesty (*aiśvarya*), on the path of rules (*vidhi-mārga*), one
 
 See Madhya 9.111–155 and 14.122–123.
 
+## 231
+
+See Madhya 8.80.
+
+## 232
+
+> Subheading: The Lord and Rāya weep with love —
+
+## 233
+
+> Subheading: At night the two stay together, and in the morning they go about their duties —
+
+## 234
+
+> Subheading: Rāya's humility and his prayer for the Lord's company —
+
+## 237
+
+> Subheading: The Lord praises Rāya and admits that He is won over by him —
+
+## 238
+
+You alone have known the true nature of the *rasa* of Rādhā and Kṛṣṇa's love. In that knowledge you are perfected and have reached the farther shore; therefore you are the final limit.
+
+## 240
+
+> Subheading: The Lord wishes to be with Rāya in Nīlācala —
+
+## 241
+
+> Subheading: Having finished their duties, the two meet in the evening —
+
+## 242
+
+> Subheading: The *iṣṭa-goṣṭhī* of the two —
+
+***Goṣṭhī*** — conversation.
+
+## 243
+
+> Subheading: The conversation of the Lord and Rāmānanda: the Lord asks, Rāya answers —
+
+## 244
+
+> Subheading: (1) The highest knowledge is devotion to Kṛṣṇa —
+
+To the question about the best knowledge (*vidyā*), Rāya answers that the best of all knowledge is the knowledge of devotion to Kṛṣṇa (*kṛṣṇa-bhakti-vidyā*). Above the knowledge that begets material enjoyment, and above *brahma-vidyā*, which lies beyond matter, stands the knowledge of devotion to Viṣṇu; and higher still is the knowledge of devotion to Kṛṣṇa. (*Śrīmad-Bhāgavatam* 4.29.49): “That is action which pleases Hari; that is knowledge by which the mind is turned to Him.” (*Śrīmad-Bhāgavatam* 7.5.23–24): “Hearing and chanting about Viṣṇu, remembering Him, serving His feet, worshiping Him, offering prayers, serving Him, being His friend and offering Him one's self — if a person offers Viṣṇu such devotion with nine features and performs it directly for Bhagavān, I consider that the highest learning.” (*Śrīmad-Bhāgavatam* 11.19.40): “Knowledge is the removal of the notion of separateness within the self.”
+
+## 245
+
+> Subheading: (2) The best fame, or honor, is to be Kṛṣṇa's servant —
+
+Fame as a “devotee of Kṛṣṇa” surpasses every other fame. Greedy for material things, the *jīva* prizes only gross service to matter. But better than passing fame under some title in Devī-dhāma, or fame as a “knower of Brahman” in the realm beyond matter, is fame as a “devotee of Viṣṇu”; and on a still higher level is fame as a “devotee of Kṛṣṇa.” (*Garuḍa Purāṇa*, the words of Indra): “In Kali the name *bhāgavata* is rare and is never obtained; it is higher than the position of Brahmā and Rudra — so my guru told me.” (*Itihāsa-samuccaya*, the conversation of Śrī Nārada and Puṇḍarīka): “He in whom, after thousands of births, the thought arises, ‘I am the servant of Vāsudeva,’ delivers all the worlds.” (*Ādi Purāṇa*, the conversation of Kṛṣṇa and Arjuna): “The forms of liberation follow the devotees, together with the Śrutis.” (*Bṛhan-nāradīya Purāṇa*): “Even today the best of sages and the gods headed by Brahmā do not know the power of those whose hearts delight in devotion to Viṣṇu.” (*Garuḍa Purāṇa*): “One who performs sacrifices (*satra-yājī*) is better than thousands of *brāhmaṇas*; one who has mastered all Vedānta is better than thousands of *satra-yājīs*; a devotee of Viṣṇu is better than ten million knowers of all Vedānta; and one *ekāntin* is better than thousands of Vaiṣṇavas. The *ekāntins* reach the supreme abode.” (*Śrīmad-Bhāgavatam* 3.13.4): “The wise have declared that the highest fruit of long and laborious study of the scriptures is to hear constantly of the qualities of those in whose hearts are Mukunda's lotus feet.” (*Nārāyaṇa-vyūha-stava*): “O Hari, may I not become even Brahmā if I am without devotion to You; but if I am Your devotee, may I be even a worm, birth after birth.” See also *Śrīmad-Bhāgavatam* 3.25.38, 4.24.29, 4.31.22, 7.9.24, 10.14.30 and so on.
+
+Among them is Prahlāda's fame, as Śrī Rudra says in the *Skanda Purāṇa*: “Only a devotee truly knows Kṛṣṇa — not I. Among all the devotees of Hari, Prahlāda is the very greatest” (*Śrīmad-Bhāgavatam* 7.9.26 and 7.10.21). Higher than he are the Pāṇḍavas (*Śrīmad-Bhāgavatam* 7.10.48–50, 7.15.75–77). Higher than they are the Yadus (*Śrīmad-Bhāgavatam* 10.82.28, 30). Among the Yadus Uddhava is the highest (*Śrīmad-Bhāgavatam* 3.4.31, 11.14.15, 11.16.29). Higher than he are the goddesses of Vraja (*Śrīmad-Bhāgavatam* 10.47.58). In the *Bṛhad-vāmana Purāṇa* Brahmā says to Bhṛgu and the other sages: “Long ago I performed austerities for sixty thousand years to obtain the dust of the feet of the women of the cowherd Nanda's Vraja. Even so I did not obtain the dust of their feet. Neither I, nor Śiva, nor Śeṣa, nor Śrī [Lakṣmī] is ever their equal.” In the *Ādi Purāṇa* Bhagavān says: “Neither Brahmā nor Rudra, O king, nor Lakṣmī, nor even My own Self is as dear to Me as the gopīs.” And among them Śrī Rādhikā is the highest of all.
+
+Those who wholly follow Śrīla Rūpa Gosvāmī Prabhu — the best of Śrī Rādhā's dearest servants and the most intimate servant of Śrī Gaurāṅga — are known as *rūpānugas*. About their glory the *Śrī Caitanya-candrāmṛta* says: “Let there be ten million renunciations, ten million [virtues such as] *śama*, *dama*, forbearance, friendliness and the rest, ten million meditations on the truth — or even ten million kinds of Vaiṣṇava devotion; all of it is not equal to even a ten-millionth part of the host of qualities naturally present in those who relish the joy of the effulgence of the toenails on the feet of Śrīmat Caitanyacandra's beloved ones.”
+
+## 246
+
+> Subheading: (3) The highest wealth is loving devotion to Rādhā and Govinda —
+
+Given over to material enjoyment, the *jīva* considers the best of all attainments to be wealth that better satisfies his craving for enjoyment. But if one weighs the different kinds of wealth with subtle, transcendental intelligence, there is no wealth equal to love for Rādhā and Kṛṣṇa. (*Śrīmad-Bhāgavatam* 10.39.2): “What is unattainable when Bhagavān, the abode of Śrī, is pleased? Yet, O king, those devoted to Him desire nothing.”
+
+## 247
+
+> Subheading: (4) The most bitter sorrow is separation from a devotee of Kṛṣṇa —
+
+(*Śrīmad-Bhāgavatam* 3.30.6): “A mortal who has not worshiped Me, tormented by suffering, his mind attached to family, deprived of the company of saints, fallen from the service of his elders….” (*Bṛhad-bhāgavatāmṛta* 5.44): “More than our own life we long for the company of Śrī Viṣṇu's people; separated from them even for a moment, we find here not a particle of happiness.”
+
+## 248
+
+> Subheading: (5) Highest among the liberated is one who loves Kṛṣṇa —
+
+(*Śrīmad-Bhāgavatam* 6.14.4): “O great sage, even among millions of the liberated and perfected, a peaceful devotee wholly devoted to Nārāyaṇa is very hard to find.”
+
+## 249
+
+> Subheading: (6) Singing of Kṛṣṇa's pastimes is the natural *dharma* of the pure soul —
+
+(*Śrīmad-Bhāgavatam* 10.33.36): “To show mercy to His devotees He accepts a human body and performs such pastimes that one who hears of them becomes wholly devoted to Him.”
+
+## 250
+
+> Subheading: (7) The company of Kṛṣṇa's devotees is the *jīva*'s only highest good (*niḥśreyasa*) —
+
+(*Śrīmad-Bhāgavatam* 11.2.28): “Therefore, O sinless ones, we ask you about the highest good. In this cycle of birth and death, association with saints even for half a moment is a treasure for human beings.”
+
+## 251
+
+> Subheading: (8) Kṛṣṇa is the only one to be remembered always —
+
+(*Śrīmad-Bhāgavatam* 2.2.36): “Therefore, O king, with all one's being, everywhere and always, people should hear about Bhagavān Hari, glorify Him and remember Him.”
+
+## 252
+
+> Subheading: (9) The lotus feet of Rādhā and Kṛṣṇa are the only object of meditation —
+
+(*Śrīmad-Bhāgavatam* 1.2.14): “Therefore, with one-pointed mind, one should constantly hear about Bhagavān, the Lord of the Sātvatas, glorify Him, meditate on Him and worship Him.”
+
+## 253
+
+> Subheading: (10) Vraja is the only place to live —
+
+(*Śrīmad-Bhāgavatam* 10.47.61): “Oh, may I be born in Vṛndāvana as some bush, creeper or herb that receives the dust of these gopīs' feet! For they gave up their own people, so hard to give up, and the path of the respectable, and took the path of Mukunda, which the Śrutis seek.”
+
+## 254
+
+> Subheading: (11) Kṛṣṇa is the only one to be heard about —
+
+(*Śrīmad-Bhāgavatam* 10.30.39):[^254-1] “One who with faith hears of this play of Viṣṇu with the girls of Vraja and then describes it attains supreme devotion to Bhagavān, becomes steady, and quickly drives out lust, the disease of the heart.”
+
+## 255
+
+> Subheading: (12) Only the names “Hare Kṛṣṇa” are to be chanted —
+
+(*Śrīmad-Bhāgavatam* 6.3.22): “Only this is considered the highest *dharma* for people in this world: *bhakti-yoga*, devotional service to Bhagavān, beginning with chanting His name.”
+
+## 256
+
+> Subheading: (13) The destination of those who seek liberation and of those who seek enjoyment —
+
+The *mukti-vādīs*, who have rejected material enjoyment, in the end obtain a stationary (*sthāvara*) body devoid of spiritual activity, that is, with consciousness asleep. And the *bhukti-vādīs*, bound to material enjoyment, obtain in the next world the bodies of gods, fit for enjoyment.
+
+“The great sage who, for the sake of liberation — that is, becoming stone — set forth a *śāstra*: know that he is Gautama, and he is just as you know him to be.”[^256-1] This is the fruit of the philosophy of the adherents of Buddhist doctrine.
+
+(*Śrīmad-Bhāgavatam* 11.10.22): “Having worshiped the gods with sacrifices, the performer of sacrifice goes to Svarga, and there, like a god, he enjoys the celestial pleasures he has earned.” (*Śrīmad-Bhāgavatam* 4.29.29): “One becomes a god, a human or an animal according to one's *karma* and *guṇas*.” See also *Bhagavad-gītā* 9.20.
+
+## 244–256
+
+In the answers to the questions of verses 244–256, the material and the transcendental are compared in worth. It is shown that the material outlook is contemptible, and that what belongs to transcendental Goloka — free from material self-interest and aimed at Kṛṣṇa alone — surpasses everything.
+
+## 257
+
+> Subheading: The difference between the practice of a *jñānī* and of a devotee —
+
+*Jñāna* is like the *nimba* fruit: it cannot be relished, and it is food for *jīvas* who, like crows, cling to harsh logic. But the taste of the mango buds of *prema* is pleasing and very sweet: it is relished only by Kṛṣṇa's devotees, who are like cuckoos that know how to relish *rasa*.
+
+## 259
+
+> Subheading: The night spent in talks about Kṛṣṇa —
+
 ---
 
 [^193-1]: *Ujjvala-nīlamaṇi* (the definition of *pūrva-rāga*).
 
 [^194-1]: The verse translation reads differently: there the artist is Kṛṣṇa Himself; in the *Anubhāṣya*'s *anvaya* “the one skilled in the craft of *śṛṅgāra*” (*śṛṅgāra-kārukṛtī*) is the subject, distinct from Kṛṣṇa, who is addressed.
+
+[^254-1]: So in the edition; this verse is *Śrīmad-Bhāgavatam* 10.33.39.
+
+[^256-1]: A pun: “Gautama” can also be read as “the greatest of bulls” (*go-tama*).

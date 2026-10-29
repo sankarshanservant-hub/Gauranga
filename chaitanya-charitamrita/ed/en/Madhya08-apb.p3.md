@@ -44,6 +44,10 @@ In the fourth line of the verse, the word *sama-dṛśaḥ* is explained as “f
 
 Yaśodā's son, Bhagavān Śrī Kṛṣṇa, is easily attained by embodied beings who possess *bhakti*, but not so by *jñānīs* who have become one with the self (*ātma-bhūta*).[^226-1]
 
+## 244–256
+
+From the verse beginning “*prabhu kahe, — ‘kon vidyā…*’” up to the verse “*sthāvara deha, deva-deha yaiche avasthiti*,” in each verse the first line is the Lord's question and the second line is Rāya's answer. This conversation is found in the *Caitanya-candrodaya-nāṭaka* (Act 7).
+
 ---
 
 [^193-1]: The verse translation reads differently: “it is not that Kṛṣṇa is a youth eager for enjoyment and I a maiden who gives it.”
