@@ -206,6 +206,236 @@ Although Mahāprabhu had received every right of a true *sannyāsī*, out of hum
 
 > Subheading: Sārvabhauma assesses the *sampradāya* —
 
+## 73
+
+> Subheading: Gopīnātha defends the Lord's *sampradāya* —
+
+## 72–73
+
+The explanation of the ten names of the *sannyāsīs* of Śrī Śaṅkara's *sampradāya* — Tīrtha and the others — has been published as follows.
+
+One who bathes at the holy place (*tīrtha*) of the confluence of the Triveṇī, having understood the meaning of truth according to statements marked by *tat tvam asi* and the like, is called “Tīrtha.” One who is devoted to the *āśrama* of *sannyāsa*, or has no wish to return home (*samāvartana*), is free from the bonds of hope, and is released from wandering through wombs, is known as “Āśrama.” One who lives in a forest (*vana*), in a lovely secluded place, and is free from the bonds of hope is called “Vana.” One who stays always in the forest (*araṇya*) and gives up every connection with this world in order to dwell in the Nandana garden — in bliss — is “Araṇya.” One who lives in mountain forests, is always absorbed in studying the Gītā, and whose intelligence is deep like a mountain (*giri*) is “Giri.” One who lives among the creatures of the mountains (*parvata*), has gained deep knowledge, and has learned to tell the essential from the worthless in worldly life is “Parvata.” One who gathers the jewels of knowledge in the ocean (*sāgara*) of truth and never oversteps its bounds is “Sāgara.” One who is engaged in the study of tones — *udātta* and the other accents, or *ṣaḍja*, *ṛṣabha*, and the other notes — is skilled in singing, and destroys the worthless *saṁsāra* is “Sarasvatī.” One who has attained fullness in knowledge (*vidyā*), has cast off every burden of ignorance (*avidyā*), and is not oppressed by any burden of sorrow is “Bhāratī.” One who has mastered the knowledge of truth, is established in the position of the complete Truth, and is eternally engaged in the pursuit of Parabrahman is known by the name “Purī.”
+
+In Śrī Śaṅkara's *sampradāya* the meaning of the *brahmacārī* names is explained as follows.
+
+One who knows his own *svarūpa* in a special way, follows his *svadharma*, and is eternally immersed in his own bliss is the *brahmacārī* named “Svarūpa.” One who knows the self-luminous Brahman in a special way and, by revealing the knowledge of truth, is especially united with it in yoga is called “Prakāśa.” One who, having gained the knowledge of truth, always meditates on Brahman — truth, knowledge, and infinity — and delights in his own bliss is known as “Ānanda.” One who knows Brahman — pure consciousness beyond any admixture of non-spirit, free from the agitations of mind that matter reflects, infinite, unaging, and auspicious — is learned and is called “Caitanya” (*Mañjuṣā*, no. 2).
+
+Sārvabhauma said, “Śrī Mahāprabhu's name is ‘Śrī Kṛṣṇa,’ and His *brahmacārī* title is ‘Caitanya.’ The name Śrī Kṛṣṇa is the best of all names, but Śrī Mahāprabhu did not enter the highest *sampradāya*, the Sarasvatī; He entered a middling one.” To this Gopīnātha replied that He entered the middling *sampradāya* because He has no dependence on externals. If one harbors pride of position within, one strives to acquire position. But one who wishes to serve Hari humbly, owning nothing (*akiñcana*), does not disregard the Bhāratī *sampradāya*, go looking for the Sarasvatī *sampradāya*, and long to enter it.
+
+## 74
+
+> Subheading: Taking the Lord for a mortal youth, the Bhaṭṭācārya instructs Him like a guru —
+
+## 74–75
+
+*Sannyāsīs* constantly study the statements of Vedānta and so cultivate detachment from sense objects; they take shelter of the *kaupīna* and uphold its dignity. One who would always be expert in the six means of practice — *śama*, *dama*, and the rest — must, by the reasoning of a thinker devoid of devotion, worship knowledge and renunciation. For fear of the power of *māyic* things arises only from absorption in “the second.” So if He is absorbed in knowledge and renunciation and led onto the path of *advaita*, the urges of lust natural to youth will not be able to grow strong.
+
+## 76
+
+If Mahāprabhu wishes for the right to enter the high Sarasvatī *sampradāya*, I can again arrange for a *sannyāsī* of the Sarasvatī *sampradāya* to give Him the *yogapaṭṭa* and the other prescribed articles of a renunciant, and so raise Him up. No *varṇa* other than brāhmaṇas by birth (*śaukra-brāhmaṇas*) can enter the high “Sarasvatī” *sampradāya*. So, because the rules are relaxed in the “Bhāratī” and other *sampradāyas*, by the standard of high *sampradāyas* such as the Sarasvatīs the “Bhāratīs” count as middling and the “Purīs” as lowest.
+
+## 77
+
+> Subheading: Seeing the Lord being lectured, the two devotees are grieved —
+
+## 78
+
+> Subheading: Seeing Sārvabhauma's ignorance, Gopīnātha glorifies the greatness of the Lord —
+
+## 80
+
+> Subheading: The reasoning of those who follow the path of argument and those who follow the path of *śrauta*: by the path of argument Bhagavān cannot be reached, but by the path of *śrauta* He is easily reached —
+
+## 84
+
+> Subheading: Without mercy, by the path of knowledge alone, Bhagavān is beyond reach —
+
+When Kṛṣṇa crushed Brahmā's pride, Brahmā saw Kṛṣṇa's supreme majesty, understood His greatness, and offers this prayer:
+
+**deva** (O Lord; Your glory pervades everything) **athāpi** (even so) **te** (Your) **padāmbuja-dvaya-prasāda-leśānugṛhītaḥ** (blessed by a particle of the mercy of Your two lotus feet) **eva hi** **janaḥ** (a person) **bhagavan-mahimnaḥ** (of the greatness, that is, the majesty, of You, Bhagavān) **tattvam** (the truth) **jānāti** (knows); **anyaḥ** (another, without Kṛṣṇa's mercy) **ekaḥ** (anyone) **api** **ciram** (for a long time) **vicinvan** (reasoning) **api** **na ca jānāti** (does not know).
+
+## 85
+
+> Subheading: Though Gopīnātha gives honor to others, he sees the Bhaṭṭācārya's godlessness and shows him no regard —
+
+## 87
+
+*Kaṭha Upaniṣad* 1.2.23: “This Self is not gained by exposition, nor by intellect, nor by much learning. He is gained only by the one whom He Himself chooses; to such a one this Self reveals His own body.” Mantra 9: “This understanding is not reached by reasoning.” That is, the Reality — Paramātmā and Bhagavān — is not gained through explanations; it is not gained by the strength of one's own intellect; it is not gained by hearing much apart from the chain of *śruti* succession. But the one whom Bhagavān accepts — that is, with whom He is pleased — sees and gains Him. Only the devotees are the objects (the vessels) of Bhagavān's mercy; so He shows mercy to them and reveals to them His own body. This understanding, to which Brahman is revealed, should be neither won nor removed — that is, refuted — by reasoning.
+
+## 88
+
+> Subheading: Sārvabhauma's false argument —
+
+## 89
+
+> Subheading: Gopīnātha refutes it —
+
+Relying on argument, Sārvabhauma said to his brother-in-law Gopīnātha, “It is true that Īśvara has not shown mercy to us; but explain how Bhagavān has shown mercy to you.” Gopīnātha Ācārya replied as follows. The Reality (*vastu*) and its potency are one, and so knowledge of the Reality comes only from the Reality itself. The Reality is undivided knowledge, without a second, while its potencies are of many kinds. The undivided Reality, full of nondual knowledge, cannot be known by divided knowledge; knowledge of the Reality arises only from experience of the Reality itself. Knowledge of the Reality dawns through its own domain, that is, through its potency. Fire is known only by knowing its power to burn. The sign of realizing the Reality, the nondual Knowledge, is His mercy alone (see the *Anubhāṣya* on verse 87). One to whom He shows His *svarūpa* by His mercy is the one who can understand Him. Relying on anything other than the Reality itself, one cannot gain knowledge of the Reality. Without mercy there is neither seeing Him nor knowing the Reality. Those who have received His mercy have understood His *svarūpa*, have become beggars for mercy, and do not try to understand Him with the help of any other knowledge.
+
+## 90
+
+> Subheading: To see the evident signs of Īśvara and still not believe in Īśvara — this is the play of *māyā* —
+
+## 91
+
+You saw Bhagavān absorbed in great love. Yet you could not recognize Īśvara in that unearthly Person full of love, and you regard even such a pastime of Bhagavān as *māyic*, merely a form of worldly behavior.
+
+## 92
+
+> Subheading: One turned outward does not see Bhagavān, for his vision is covered —
+
+Those in whose hearts the urge to serve Kṛṣṇa, who is beyond *māyā*, has not yet arisen may think that, with their karmic intellect bent on their own enjoyment, they are experiencing or have experienced the Reality. But in truth the *svarūpa* of Bhagavān, full of love, is not seen through knowledge of external objects.
+
+## 93
+
+> Subheading: Sārvabhauma's mistaken arguments from scripture —
+
+**Iṣṭa-goṣṭhī** — among desired people, that is, in a circle of people gathered to attain a desired goal.
+
+## 94
+
+> Subheading: Though he takes the Lord to be a *mahā-bhāgavata*, Sārvabhauma does not believe He is Īśvara —
+
+## 95
+
+**Triyuga** (*Śrīmad-Bhāgavatam* 7.9.38): “Thus You descend as a human, an animal, a sage, a god, and a fish, sustain the worlds, and slay the enemies of the world. O Mahāpuruṣa, You protect *dharma* according to each age. But in Kali You came hidden, and therefore You are Triyuga.” The commentary of Śrī Śrīdhara Svāmipāda: “But in Kali You do not do this [slaying the enemies, protecting, and so on], for then You are hidden. So You appear only in three ages, and as such You are known by the name Triyuga.”
+
+## 96
+
+> Subheading: Gopīnātha refutes Sārvabhauma's mistaken conclusions and shows the true conclusion of scripture —
+
+## 97
+
+> Subheading: The *Mahābhārata* and the *Bhāgavatam*, which settles the meaning of the *Bhārata*, are the only chief evidence —
+
+See the *Anubhāṣya* on Ādi 3.49 and the *Amṛta-pravāha-bhāṣya* on Ādi 3.51.
+
+## 98
+
+> Subheading: Although in this age of Kali there is no *līlā-avatāra*, the very source of the avatāras appears in His original form (*svayaṁ-rūpa*) —
+
+## 99
+
+> Subheading: Although in Kali there is no *līlā-avatāra*, the *yuga-avatāra* appears —
+
+**Līlā-avatāra.** An avatāra whose pastimes are full of varied wonders, free of effort, ever new, surging with waves of joy, and dependent only on His own will is called a *līlā-avatāra*. In the teachings to Śrī Sanātana (*Caitanya-caritāmṛta*, Madhya 20.297–298): “Kṛṣṇa's *līlā-avatāras* cannot be counted; I will indicate only the chief ones. Matsya, Kūrma, Raghunātha, Nṛsiṁha, Vāmana, Varāha, and the rest — their record cannot be counted.” See the *Anubhāṣya* there and *Śrīmad-Bhāgavatam* 10.2.40. The *Laghu-bhāgavatāmṛta* names twenty-five *līlā-avatāras*: (1) the four Kumāras (*catuḥsana*), (2) Nārada, (3) Varāha, (4) Matsya, (5) Yajña, (6) Nara-Nārāyaṇa, (7) Kapila, (8) Dattātreya, (9) Hayaśīrṣa (Hayagrīva), (10) Haṁsa, (11) Pṛśnigarbha, (12) Ṛṣabha, (13) Pṛthu, (14) Nṛsiṁha, (15) Kūrma, (16) Dhanvantari, (17) Mohinī, (18) Vāmana, (19) Paraśurāma, (20) Rāghavendra, (21) Vyāsa, (22) Balarāma, (23) Kṛṣṇa, (24) Buddha, (25) Kalki.
+
+## 101
+
+> Subheading: Avatāras of four colors in the four ages —
+
+See Ādi 3.36.
+
+## 102
+
+In answer to the question of Nimi, the king of Videha, the sage Śrī Karabhājana describes the avatāra for the age of Kali and the way to worship Him:
+
+**urv-īśa** (O lord of the earth, Nimi) **dvāpare** (in the Dvāpara age) **jagad-īśvaram** (the Lord of the universe [the devotees worship as the four — Vāsudeva and the others — by the rules of worship given in the *Pañcarātra* and other scriptures]) **iti** (thus) **stuvanti** (praise, that is, worship); **tathā** **kalau api** (likewise in Kali too) **nānā-tantra-vidhānena** (by the various rules given in the *Pañcarātra* and other Sātvata *tantras*) **stuvanti** (they praise) — **tat** (of this) **mattaḥ** (from me [hear])[^102-1].
+
+## 103
+
+See Ādi 3.51.
+
+## 104
+
+See Ādi 3.49.
+
+## 105
+
+> Subheading: Gopīnātha disregards the Bhaṭṭācārya and does not take him seriously —
+
+## 106
+
+> Subheading: Knowledge of Bhagavān's greatness comes only by Bhagavān's mercy —
+
+## 107
+
+> Subheading: False arguments about the transcendental Reality are born of *māyā* —
+
+## 108
+
+> Subheading: Kṛṣṇa's inconceivable potency bewilders those who reason from the senses —
+
+The secret prayer *Haṁsa-guhya*, which Prajāpati Dakṣa offered to Bhagavān Śrī Hari:
+
+**yac-chaktayaḥ** (the potencies of Him whose potencies are the external ones, *māyā* and *avidyā*) **vadatāṁ vādinām** (of the disputants who rely on thesis and antithesis) **vivāda-saṁvāda-bhuvaḥ** (the ground, that is, the cause from which dispute, and sometimes agreement, arises) **bhavanti** (become), **eṣām** (in these lovers of dispute) **muhuḥ** (again and again) **ātma-moham** (bewilderment about the self) **kurvanti** (produce), **tasmai** **ananta-guṇāya** (to Him who possesses all potencies) **bhūmne** (to the Paramātmā) **namaḥ** (obeisance).
+
+## 109
+
+> Subheading: The brāhmaṇa who serves Adhokṣaja is right; one whose knowledge comes through the senses, a servant of *māyā*, is wrong —
+
+Śrī Kṛṣṇa's answer to Uddhava's question about the number of *tattvas*:
+
+**yathā** **brāhmaṇāḥ** **bhāṣante** (as the brāhmaṇas have determined), **[tat]** (that) **ca** **sarvatra** **yuktam** **santi**; **madīyām** **māyām** **udgṛhya** (having accepted My *māyā*) **vadatām** (for people who speak) **kim** (what [at all]) **durghaṭam nu** (is impossible)?
+
+## 110
+
+> Subheading: The Bhaṭṭācārya pays no heed to Gopīnātha's teaching —
+
+## 112
+
+> Subheading: In various ways Gopīnātha tries to benefit the Bhaṭṭācārya —
+
+## 113
+
+> Subheading: Mukunda's anger at the Bhaṭṭācārya's Māyāvāda words is itself his mercy toward him —
+
+## 114
+
+> Subheading: The invitation to the Lord —
+
+## 115
+
+> Subheading: Mukunda and Gopīnātha complain about the Bhaṭṭācārya —
+
+## 116
+
+> Subheading: The Lord gives honor to the Bhaṭṭācārya —
+
+## 118
+
+> Subheading: After *darśana* of Jagannātha with Sārvabhauma, the Lord goes to his house —
+
+## 120
+
+> Subheading: Sārvabhauma teaches the Lord Vedānta and instructs Him —
+
+## 121
+
+**Vedānta** — here, Śaṅkara's *Śārīraka-bhāṣya* on the *Brahma-sūtra*, which establishes Brahman without attributes (*nirviśeṣa*). “Ever delighting in the statements of Vedānta”[^121-1] and so on — this is the *dharma* of a *sannyāsī*.
+
+## 122
+
+> Subheading: The Lord's humility —
+
+## 123
+
+> Subheading: For seven days the Lord hears Vedānta from Sārvabhauma's lips and stays silent, disregarding the Māyāvāda commentary —
+
+## 124
+
+> Subheading: On the eighth day Sārvabhauma asks the reason —
+
+## 126
+
+> Subheading: Speaking humbly, the Lord sets aside the Māyāvāda commentary —
+
+## 128
+
+> Subheading: Taking the Lord for ignorant, the Bhaṭṭācārya tells Him to break His silence and ask questions —
+
+## 130
+
+> Subheading: The Lord refutes Sārvabhauma's Māyāvāda interpretation —
+
+## 131
+
+> Subheading: In the primary, direct sense (*mukhya-abhidhā-vṛtti*) the meaning of the *Brahma-sūtra* is plain; the secondary, indirect sense (*gauṇa-lakṣaṇā*), resting on conjecture, covers it —
+
 ---
 
 [^12-1]: In the numbering of our translation, Madhya 24.283.
+
+[^102-1]: In the edition the gloss ends with *tat mattaḥ*; the verse's word *śṛṇu* (hear) is not glossed.
+
+[^121-1]: Śaṅkara's *Kaupīna-pañcaka*, 1.
