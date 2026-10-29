@@ -40,6 +40,26 @@ The *sūtras* of Vyāsa contain the doctrine of pure devotion. In the commentary
 
 To explain the spiritual existence of the *jīva*, the statement *tat tvam asi* (“you are that”) is found in one part of the Vedas; it is not a *mahā-vākya*.
 
+## 181
+
+Bhagavān said to Śrī Mahādeva: “With your own imagined scriptures (*āgamas*) turn people away from Me. Conceal Me in such a way that the *jīvas* who have turned away from Me do not lose interest in the work of increasing the number of *jīvas*.”
+
+## 182
+
+Mahādeva said: “In the age of Kali I shall assume the form of a brāhmaṇa and by means of false scriptures establish hidden Buddhism in the form of Māyāvāda.”
+
+## 186
+
+Even sages whose delight is in the self (*ātmā*) and who are free from the knots of desire render causeless devotion to Śrī Kṛṣṇa, the doer of mighty deeds, for Hari, who steals the hearts of the whole world, has such a quality.
+
+## 194–195
+
+Eleven meanings of the eleven words of the verse, and seven more meanings obtained by joining the word *ātmārāma* to each of the seven principal words of the verse — *munayaḥ*, *nirgranthāḥ*, *urukrama*, *ahaitukī*, *bhakti*, *guṇa* and *hari* — eighteen meanings in all.
+
+## 197
+
+***Tine*** (these three) — Bhagavān, Bhagavān's potency and Bhagavān's qualities.
+
 ---
 
 [^150-1]: The edition numbers this section “150–253” (checked against the scan) — a misprint; by content it is 150–153.
