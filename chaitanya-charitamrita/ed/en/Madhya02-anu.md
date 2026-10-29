@@ -336,3 +336,46 @@ In describing Śrī Gaurasundara's conduct exactly as it was, I do not seek the 
 ## 86
 
 In this book I have written nothing out of regard for anything, in opposition to anyone or in compliance with anyone's request: I have only described the *sahaja-vastu*, the natural reality. If someone attains the orientation of *rāga*, then, absorbed in it, he will easily realize all these descriptions. The natural reality is experienced by those who follow *rāga* (*rāgānuga*).
+ If it is written down, such writing will reveal itself only in the hearts of those absorbed in *rāga*; one without *rāga* will not be able to enter it in that way. There is no use in writing about it here in order to make known the natural reality, which can only be experienced. Another reading is *yadi haya rāga-dveṣa* (“if there is attachment and aversion”), and then the meaning is: “If a person has given up service to Kṛṣṇa and is overcome by attachment — that is, absorption — in things other than Kṛṣṇa, and by aversion or dislike, he can in no way describe the transcendental love for Kṛṣṇa that is innate in the pure soul.”
+
+## 87
+
+> Subheading: Hearing Caitanya's pastimes with faith, love for Kṛṣṇa awakens —
+
+## 88
+
+> Subheading: A comparison with the *Bhāgavatam*, written in Sanskrit —
+
+About the objection of the critics mentioned in verse 85, I can say this. The book *Śrīmad-Bhāgavatam* is full of Sanskrit verses, and all its commentaries are written in Sanskrit. Yet people in the three worlds understand it and attain devotion to Kṛṣṇa. In this *Caitanya-caritāmṛta* only two or four Sanskrit verses are quoted, and they are explained in Bengali verse. Why, then, should all the devotees of Gaura not be able to understand them?
+
+## 89
+
+> Subheading: The wish to describe the Lord's last pastimes —
+
+## 90
+
+> Subheading: The author confesses his unfitness and humility —
+
+## 91
+
+> Subheading: The Antya-līlā, full of the Lord's divine madness, is what the devotees of Gaura always contemplate —
+
+## 92
+
+> Subheading: For now in brief, and later the wish to describe in detail —
+
+## 93
+
+> Subheading: Homage to the devotees, and fidelity to the path of *śrauta* (knowledge descending through hearing) —
+
+Those “expert in *bhajana*,” those “engaged in *bhajana*,” and those “initiated into Kṛṣṇa's name and chanting it” — may all these three kinds of devotees, small and great, be merciful to me. A neophyte devotee (*kaniṣṭha*) devoted to argument lacks *siddhānta*, yet thinks himself a *rasika* devotee. He may consider that I write about *siddhānta* along with the pastimes out of pedantry, lack of devotion and a fondness for empty argument, may judge me guilty and withhold his mercy. Fearing this, I humbly submit: I have no independence of my own. I have written only what I learned of the truth of Śrī Gaura's pastimes from Śrī Rūpa and Raghunātha and from Śrī Dāmodara-Svarūpa, at whose lotus feet I am sold.
+
+## 94
+
+> Subheading: Homage to the Pañca-tattva, to the line of gurus, and to Haridāsa Paṇḍita —
+
+## 95
+
+See Ādi 8.49–60.
+
+*Thus ends the second chapter of the “Anubhāṣya.”*
