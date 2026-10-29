@@ -25,7 +25,7 @@ w: to Nīlādri  the coming  of Jagannātha  the sight
 w: of Sārvabhauma  Bhaṭṭācārya and the Lord  the meeting
 w: these  all  pastimes  Śrī Vṛndāvana dāsa
 w: in detail  has described  in excellent  description
-tr: The Lord’s coming to Nīlādri, His seeing Jagannātha, His meeting with Sārvabhauma Bhaṭṭācārya—all these pastimes Śrī Vṛndāvana dāsa has described in detail, and his description is excellent.
+tr: The Lord’s coming to Nīlādri, His seeing Jagannātha, His meeting with Sārvabhauma Bhaṭṭācārya — all these pastimes Śrī Vṛndāvana dāsa has described in detail, and his description is excellent.
 fn: *Amṛta-pravāha-bhāṣya*: see *Caitanya-bhāgavata*, Antya-khaṇḍa, chapters 2 and 3.
 
 ## 5
@@ -52,7 +52,7 @@ tr: As best I can, I shall tell those pastimes he mentioned in his summary but d
 ## 9
 w: therefore  at his  feet  I make  obeisance
 w: at his  feet  offence  not  may there be  my
-tr: Therefore I bow down at his feet, praying that I may commit no offence against them.
+tr: Therefore I bow down at his feet, praying that I may not offend him.
 
 ## 10
 w: in this way  Mahāprabhu  went  to Nīlācala
@@ -198,12 +198,12 @@ tr: In a dream he saw that same boy come before him, take him by the hand and le
 ## 36
 w: the grove  showing  He says  I  in this  grove  stay
 w: from cold, rain, wind and heat  great suffering  I get
-tr: Showing him the grove, He said, “I stay in this grove, and I suffer greatly from cold and rain, wind and heat.
+tr: Pointing to the grove, He said, “This is where I stay, and I suffer greatly from cold and rain, wind and heat.
 
 ## 37
 w: of the village  the people  bringing  Me  take out  the grove  from
 w: on top of the hill  taking  keep  properly
-tr: Bring the people of the village and take Me out of the grove. Carry Me up the hill and keep Me there properly.
+tr: Bring the people of the village and take Me out of the grove. Carry Me up the hill and settle Me there with care.
 fn: *Amṛta-pravāha-bhāṣya*: *kāḍha* — take out; *maṭha* — a temple.
 
 ## 38
@@ -214,7 +214,7 @@ tr: Build a temple there and install Me in it, and bathe My body with plenty of 
 ## 39
 w: for many days  your  path  I do  watching
 w: when  coming  Mādhava  Me  will do  service
-tr: For many days I have been watching the path for you, wondering when Mādhava would come and serve Me.
+tr: For many days I have been watching the path for you, Mādhava, wondering when you would come and serve Me.
 fn: Heading in the edition: “Bhagavān waits for His devotee”.
 
 ## 40
@@ -251,7 +251,7 @@ tr: “I saw Śrī Kṛṣṇa, but I could not recognise Him!” Saying this, h
 ## 46
 w: for a while  weeping  doing  mind  made  steady
 w: the order’s fulfilment  for the sake of  became  composed
-tr: He wept for a while, then steadied his mind and became composed in order to carry out the command.
+tr: He wept for a while; then, to carry out the command, he steadied his mind.
 
 ## 47
 w: morning bath  taking  Purī  into the village  went
@@ -297,7 +297,7 @@ tr: They seated the Deity on a throne of stone, and set a large stone behind Him
 ## 55
 w: of the village  the brāhmaṇas  all  new  pots  taking
 w: of Govinda-kuṇḍa  water  brought  straining
-tr: All the brāhmaṇas of the village took new pots and brought water from Govinda-kuṇḍa, straining it.
+tr: All the brāhmaṇas of the village took new pots and brought strained water from Govinda-kuṇḍa.
 fn: *Nava* here means “new” (cf. *nava-pātre*, 65; *nava-vastra*, 72, 81); the nine hundred pots are in verse 56.
 
 ## 56
@@ -313,7 +313,7 @@ tr: Some sang and some danced; it became a great festival. All the yogurt, milk 
 ## 58
 w: foodstuffs for the offering  came  sandeśa and the rest  all
 w: various  gifts  them  to describe  can I  how many
-tr: Foodstuffs for the offering came, *sandeśa* and every other sweet, and gifts of so many kinds that I cannot describe them all.
+tr: Food for the offering came, *sandeśa* and sweets of every kind, and so many other gifts that I cannot describe them all.
 
 ## 59
 w: tulasī  and so on  flowers  cloth  came  in abundance
@@ -341,12 +341,12 @@ fn: *Amṛta-pravāha-bhāṣya*: *śaṅkha-gandhodaka* — water poured into a
 ## 63
 w: the holy body  wiping  having done  cloth  dressed
 w: sandal  tulasī  flower garlands  on the body  placed
-tr: Wiping the holy body dry, he dressed Him and adorned His body with sandal paste, tulasī and garlands of flowers.
+tr: Wiping the holy body dry, he dressed Him and adorned Him with sandal paste, tulasī and garlands of flowers.
 
 ## 64
 w: incense  lamp  offering  various  foods  offered
 w: yogurt, milk, sandeśa and the rest  whatever  all  had come
-tr: He presented incense and a lamp, and then offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
+tr: He presented incense and a lamp, and then offered many kinds of food — yogurt, milk, sweets and everything else that had been brought.
 
 ## 65
 w: fragrant  water  in new vessels  offered
@@ -431,7 +431,7 @@ tr: Such a festival was held after only a single day’s preparation. It came ab
 ## 80
 w: ācamana  giving  offered  of betel rolls  a store
 w: ārati  performed  the people  cry  jaya  jaya
-tr: After giving water to rinse the mouth, he offered a store of betel rolls; then he performed *ārati*, and the people cried, “Jaya! Jaya!”
+tr: After giving water to rinse the mouth, he offered betel rolls in plenty; then he performed *ārati*, and the people cried, “Jaya! Jaya!”
 fn: *Amṛta-pravāha-bhāṣya*: *viḍaka* — rolls of betel; *sañcaya* — a store.
 
 ## 81
@@ -531,7 +531,7 @@ tr: Hearing that Gopāla had appeared, people began to come from many lands, bri
 ## 99
 w: of Mathurā  the people  all  great  great  rich
 w: devotion  with  various  goods  as gifts  give  bringing
-tr: The people of Mathurā, all of them very wealthy, brought many kinds of things and offered them with devotion.
+tr: All the great and wealthy people of Mathurā brought gifts of every kind and offered them with devotion.
 
 ## 100
 w: gold  silver  cloth  fragrances  gifts of food
@@ -707,7 +707,7 @@ tr: Closing the door, he went into the village with the sweet rice and wandered 
 ## 133
 w: the sweet rice  take  this  whose  name  “Mādhava Purī”
 w: for you  Gopīnātha  the sweet rice  did  theft
-tr: “You whose name is Mādhava Purī, take this sweet rice! Gopīnātha has stolen it for you.
+tr: “Let whoever is named Mādhava Purī come and take this sweet rice! Gopīnātha has stolen it for you.
 
 ## 134
 w: the sweet rice  taking  happily  you  do  eating
@@ -748,7 +748,7 @@ tr: Every day he ate one piece, and each time he ate it he was overwhelmed with 
 ## 141
 w: “the Deity  to me  sweet rice  gave”  the people  all  hearing
 w: by day  of people  a crowd  there will be  my  fame  knowing
-tr: “When the people hear that the Deity gave me sweet rice,” he thought, “they will know of my fame, and by day crowds will gather.”
+tr: “When people hear that the Deity gave me sweet rice,” he thought, “my name will spread, and by day crowds will gather.”
 fn: Heading in the edition: “Purī fears fame”; fear of fame is the theme of verses 141–148.
 
 ## 142
@@ -851,7 +851,7 @@ fn: *Anubhāṣya* (on 159–160): Gopāla did not wear the sandalwood Himself b
 ## 160
 w: Gopīnātha  and My  indeed  one and the same  body  is
 w: to Him  sandalwood  if given  My  heat  will abate
-tr: Gopīnātha and I are one and the same body. If you give Him sandalwood, My heat will abate.
+tr: Gopīnātha’s body and Mine are one and the same. If you give Him sandalwood, My heat will abate.
 
 ## 161
 w: doubt  not  entertain  not  hold  anything  in your mind
@@ -891,7 +891,7 @@ tr: In this way the sandalwood was ground and offered every day, and all the ser
 ## 168
 w: daily  sandalwood  they put on  until  came  the end
 w: there  stayed  Purī  that long  until
-tr: Every day they smeared sandalwood on the Deity until it was all used up, and all that time Purī stayed there.
+tr: Every day the Deity wore sandalwood until it was all used up, and all that time Purī stayed there.
 
 ## 169
 w: of the hot season  at the end  again  to Nīlācala  he went
@@ -1103,7 +1103,7 @@ tr: At the sight of the sweet rice Mahāprabhu’s joy increased, and to feed Hi
 ## 207
 w: seven  pots  to the pūjārī  coming forward and returning  He gave
 w: five  pots  five persons  dividing  ate
-tr: Seven pots He gave back to the pūjārī, and the five He kept were shared among five.
+tr: Seven pots He gave back to the pūjārī, and the other five He shared with His four companions, a pot for each.
 fn: Heading in the edition: “The Lord and four others, headed by Nitāi, honour the prasāda”.
 
 ## 208
@@ -1120,7 +1120,7 @@ tr: He passed that night in *nāma-saṅkīrtana*, and in the morning, after see
 ## 210
 w: this  indeed  in the narrative  He told  of both  the glory
 w: the Lord’s  affection for His devotees  and  of the devotee’s  love  the limit
-tr: Thus in this narrative He told the glory of both: the Lord’s affection for His devotees, and the love of a devotee that has reached its utmost limit.
+tr: Thus in this narrative He told of the glory of both: the Lord’s affection for His devotees, and the love of a devotee that has reached its utmost limit.
 fn: *Kahilā* is the honorific third person: it is Mahāprabhu, who told the story in 170–190, not the author. Heading in the edition: “This narrative reveals the matchless love of the Lord and His devotee for each other, and the greatness of their qualities”.
 
 ## 211

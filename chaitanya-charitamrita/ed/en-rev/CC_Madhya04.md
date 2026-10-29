@@ -45,7 +45,7 @@ these  all  pastimes  Śrī Vṛndāvana dāsa
 vistāri’ varṇiyāchena uttama varṇana  
 in detail  has described  in excellent  description
 
-(3–4) The Lord’s coming to Nīlādri, His seeing Jagannātha, His meeting with Sārvabhauma Bhaṭṭācārya—all these pastimes Śrī Vṛndāvana dāsa has described in detail, and his description is excellent.[^3]
+(3–4) The Lord’s coming to Nīlādri, His seeing Jagannātha, His meeting with Sārvabhauma Bhaṭṭācārya — all these pastimes Śrī Vṛndāvana dāsa has described in detail, and his description is excellent.[^3]
 
 সহজে বিচিত্র মধুর চৈতন্য-বিহার ৷  
 বৃন্দাবনদাস-মুখে অমৃতের ধার ॥ ৫ ॥
@@ -95,7 +95,7 @@ therefore  at his  feet  I make  obeisance
 tām̐ra pāya aparādha nā hauk āmāra  
 at his  feet  offence  not  may there be  my
 
-(9) Therefore I bow down at his feet, praying that I may commit no offence against them.
+(9) Therefore I bow down at his feet, praying that I may not offend him.
 
 এইমত মহাপ্রভু চলিলা নীলাচলে ৷  
 চারিভক্ত সঙ্গে কৃষ্ণকীর্ত্তন কুতূহলে ॥ ১০ ॥
@@ -365,7 +365,7 @@ the grove  showing  He says  I  in this  grove  stay
 śīta-vṛṣṭi-vātāgnite mahā-duḥkha pāi  
 from cold, rain, wind and heat  great suffering  I get
 
-(36) Showing him the grove, He said, “I stay in this grove, and I suffer greatly from cold and rain, wind and heat.
+(36) Pointing to the grove, He said, “This is where I stay, and I suffer greatly from cold and rain, wind and heat.
 
 গ্রামের লোক আনি’ আমা কাঢ় কুঞ্জ হৈতে ৷  
 পর্ব্বত-উপরি লঞা রাখ ভালমতে ॥ ৩৭ ॥
@@ -375,7 +375,7 @@ of the village  the people  bringing  Me  take out  the grove  from
 parvata-upari lañā rākha bhāla-mate  
 on top of the hill  taking  keep  properly
 
-(37) Bring the people of the village and take Me out of the grove. Carry Me up the hill and keep Me there properly.[^16]
+(37) Bring the people of the village and take Me out of the grove. Carry Me up the hill and settle Me there with care.[^16]
 
 এক মঠ করি’ তাঁহা করহ স্থাপন ৷  
 বহু শীতল জলে কর শ্রীঅঙ্গ মার্জ্জন ॥ ৩৮ ॥
@@ -395,7 +395,7 @@ for many days  your  path  I do  watching
 kabe āsi’ mādhava āmā karibe sevana  
 when  coming  Mādhava  Me  will do  service
 
-(39) For many days I have been watching the path for you, wondering when Mādhava would come and serve Me.[^17]
+(39) For many days I have been watching the path for you, Mādhava, wondering when you would come and serve Me.[^17]
 
 তোমার প্রেমবশে করি’ সেবা অঙ্গীকার ৷  
 দর্শন দিয়া নিস্তারিব সকল সংসার ॥ ৪০ ॥
@@ -465,7 +465,7 @@ for a while  weeping  doing  mind  made  steady
 ājñā-pālana lāgi’ ha-ilā susthira  
 the order’s fulfilment  for the sake of  became  composed
 
-(46) He wept for a while, then steadied his mind and became composed in order to carry out the command.
+(46) He wept for a while; then, to carry out the command, he steadied his mind.
 
 প্রাতঃস্নান করি’ পুরী গ্রামমধ্যে গেলা ৷  
 সব লোক একত্র করি’ কহিতে লাগিলা ॥ ৪৭ ॥
@@ -555,7 +555,7 @@ of the village  the brāhmaṇas  all  new  pots  taking
 govinda-kuṇḍera jala ānila chāniñā  
 of Govinda-kuṇḍa  water  brought  straining
 
-(55) All the brāhmaṇas of the village took new pots and brought water from Govinda-kuṇḍa, straining it.[^20]
+(55) All the brāhmaṇas of the village took new pots and brought strained water from Govinda-kuṇḍa.[^20]
 
 নবশতঘট জল কৈল উপনীত ৷  
 নানা বাদ্য-ভেরী বাজে, স্ত্রীগণে গায় গীত ॥ ৫৬ ॥
@@ -585,7 +585,7 @@ foodstuffs for the offering  came  sandeśa and the rest  all
 nānā upahāra, tāhā kahite pāri kata  
 various  gifts  them  to describe  can I  how many
 
-(58) Foodstuffs for the offering came, *sandeśa* and every other sweet, and gifts of so many kinds that I cannot describe them all.
+(58) Food for the offering came, *sandeśa* and sweets of every kind, and so many other gifts that I cannot describe them all.
 
 তুলসী আদি, পুষ্প, বস্ত্র আইল অনেক ৷  
 আপনে মাধবপুরী কৈল অভিষেক ॥ ৫৯ ॥
@@ -635,7 +635,7 @@ the holy body  wiping  having done  cloth  dressed
 candana, tulasī, puṣpa-mālā aṅge dila  
 sandal  tulasī  flower garlands  on the body  placed
 
-(63) Wiping the holy body dry, he dressed Him and adorned His body with sandal paste, tulasī and garlands of flowers.
+(63) Wiping the holy body dry, he dressed Him and adorned Him with sandal paste, tulasī and garlands of flowers.
 
 ধূপ, দীপ, করি’ নানা ভোগ লাগাইল ৷  
 দধি-দুগ্ধ-সন্দেশাদি যত কিছু আইল ॥ ৬৪ ॥
@@ -645,7 +645,7 @@ incense  lamp  offering  various  foods  offered
 dadhi-dugdha-sandeśādi yata kichu āila  
 yogurt, milk, sandeśa and the rest  whatever  all  had come
 
-(64) He presented incense and a lamp, and then offered many kinds of food—yogurt, milk, sweets and everything else that had been brought.
+(64) He presented incense and a lamp, and then offered many kinds of food — yogurt, milk, sweets and everything else that had been brought.
 
 সুবাসিত জল নবপাত্রে সমর্পিল ৷  
 আচমন দিয়া সে তাম্বূল নিবেদিল ॥ ৬৫ ॥
@@ -805,7 +805,7 @@ by Gopāla’s power  it happens  others  not  knew
 ārati karila, loke kare jaya jaya  
 ārati  performed  the people  cry  jaya  jaya
 
-(80) After giving water to rinse the mouth, he offered a store of betel rolls; then he performed *ārati*, and the people cried, “Jaya! Jaya!”[^29]
+(80) After giving water to rinse the mouth, he offered betel rolls in plenty; then he performed *ārati*, and the people cried, “Jaya! Jaya!”[^29]
 
 শয্যা করাইল, নুতন খাট আনাঞা ৷  
 নববস্ত্র আনি’ তার উপরে পাতিয়া ॥ ৮১ ॥
@@ -995,7 +995,7 @@ of Mathurā  the people  all  great  great  rich
 bhakti kari’ nānā dravya bheṭa deya āni’  
 devotion  with  various  goods  as gifts  give  bringing
 
-(99) The people of Mathurā, all of them very wealthy, brought many kinds of things and offered them with devotion.
+(99) All the great and wealthy people of Mathurā brought gifts of every kind and offered them with devotion.
 
 স্বর্ণ, রৌপ্য, বস্ত্র, গন্ধ, ভক্ষ্য-উপহার ৷  
 অসংখ্য আইসে, নিত্য বাড়িল ভাণ্ডার ॥ ১০০ ॥
@@ -1335,7 +1335,7 @@ the sweet rice  take  this  whose  name  “Mādhava Purī”
 tomā lāgi’ gopīnātha kṣīra kaila curi  
 for you  Gopīnātha  the sweet rice  did  theft
 
-(133) “You whose name is Mādhava Purī, take this sweet rice! Gopīnātha has stolen it for you.
+(133) “Let whoever is named Mādhava Purī come and take this sweet rice! Gopīnātha has stolen it for you.
 
 ক্ষীর লঞা সুখে তুমি করহ ভক্ষণে ৷  
 তোমা-সম-ভাগ্যবান্ নাহি ত্রিভুবনে ॥ ১৩৪ ॥
@@ -1415,7 +1415,7 @@ on eating  absorption in love  arises  a wonderful  tale
 dine loka bhiḍa habe mora pratiṣṭhā jāni  
 by day  of people  a crowd  there will be  my  fame  knowing
 
-(141) “When the people hear that the Deity gave me sweet rice,” he thought, “they will know of my fame, and by day crowds will gather.”[^41]
+(141) “When people hear that the Deity gave me sweet rice,” he thought, “my name will spread, and by day crowds will gather.”[^41]
 
 সেই ভয়ে রাত্রি-শেষে চলিলা শ্রীপুরী ৷  
 সেইখানে গোপীনাথে দণ্ডবৎ করি’ ॥ ১৪২ ॥
@@ -1605,7 +1605,7 @@ Gopīnātha  and My  indeed  one and the same  body  is
 im̐hāke candana dile, āmāra tāpa-kṣaya  
 to Him  sandalwood  if given  My  heat  will abate
 
-(160) Gopīnātha and I are one and the same body. If you give Him sandalwood, My heat will abate.
+(160) Gopīnātha’s body and Mine are one and the same. If you give Him sandalwood, My heat will abate.
 
 দ্বিধা না ভাবিহ, না করিহ কিছু মনে ৷  
 বিশ্বাস করি’ চন্দন দেহ আমার বচনে ॥ ১৬১ ॥
@@ -1685,7 +1685,7 @@ daily  sandalwood  they put on  until  came  the end
 tathāya rahila purī tāvat paryanta  
 there  stayed  Purī  that long  until
 
-(168) Every day they smeared sandalwood on the Deity until it was all used up, and all that time Purī stayed there.
+(168) Every day the Deity wore sandalwood until it was all used up, and all that time Purī stayed there.
 
 গ্রীষ্মকাল অন্তে পুনঃ নীলাচলে গেলা ৷  
 নীলাচলে চাতুর্ম্মাস্য আনন্দে রহিলা ॥ ১৬৯ ॥
@@ -2081,7 +2081,7 @@ seven  pots  to the pūjārī  coming forward and returning  He gave
 pañca kṣīra pañca-jane vām̐ṭiyā khāila  
 five  pots  five persons  dividing  ate
 
-(207) Seven pots He gave back to the pūjārī, and the five He kept were shared among five.[^64]
+(207) Seven pots He gave back to the pūjārī, and the other five He shared with His four companions, a pot for each.[^64]
 
 গোপীনাথ-রূপে যদি করিয়াছেন ভোজন ৷  
 ভক্তি দেখাইতে কৈল প্রসাদ ভক্ষণ ॥ ২০৮ ॥
@@ -2111,7 +2111,7 @@ this  indeed  in the narrative  He told  of both  the glory
 prabhura bhakta-vātsalya, āra bhakta-prema-sīmā  
 the Lord’s  affection for His devotees  and  of the devotee’s  love  the limit
 
-(210) Thus in this narrative He told the glory of both: the Lord’s affection for His devotees, and the love of a devotee that has reached its utmost limit.[^66]
+(210) Thus in this narrative He told of the glory of both: the Lord’s affection for His devotees, and the love of a devotee that has reached its utmost limit.[^66]
 
 ভক্ত-সঙ্গে শ্রীমুখে প্রভু কৈলা আস্বাদন ৷  
 গোপাল-গোপীনাথ-পুরীগোসাঞির গুণ ॥ ২১১ ॥
