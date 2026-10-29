@@ -54,7 +54,7 @@ A *sannyāsī* is the guru of a *brahmacārī*. Therefore it is improper for a *
 
 ## 26
 
-***Nā bhāya*** — does not please him; he does not like it.
+***Nā bhāya*** — does not please him; he does not like it.[^26-1]
 
 ## 28
 
@@ -192,7 +192,7 @@ The *jñānīs* and *karmīs* who are averse to Caitanya — the *prakṛti-vād
 
 > Subheading: The Lord honors a Vaiṣṇava householder —
 
-Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda's *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya's feet is worthy of obeisance even from a *sannyāsī* and is his guru. The Lord showed this by begging Sārvabhauma's blessing, to teach the *jīvas* who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).
+Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda's *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya's feet is worthy of obeisance even from a *sannyāsī* and is his guru. The Lord showed this by begging Sārvabhauma's blessing, to teach the *jīvas* who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).[^69-1]
 
 ## 70
 
@@ -208,7 +208,7 @@ The Lord's independence — see Madhya, Chapter 3, 212.
 
 ## 73
 
-> Subheading: Just as contradictory qualities meet in Bhagavān, so Bhagavān's devotee too is both soft and hard —
+> Subheading: Just as contradictory qualities meet in Bhagavān, so Bhagavān's devotee too is both soft and hard (from Bhavabhūti's *Uttara-rāma-carita*, act 3, verse 27) —
 
 **vajrāt api** **kaṭhorāṇi**, **kusumāt** (than a flower) **api** **mṛdūni** (soft); **lokottarāṇāṁ** (of uncommon, extraordinary persons) **cetāṁsi** (the hearts) **vijñātuṁ** (to understand) **kaḥ nu** **īśvaraḥ** (is able)?
 
@@ -428,7 +428,7 @@ There are people who resolve to give up everything and serve Śrīman Mahāprabh
 
 ## 142
 
-> Subheading: Seeing the Lord's mercy, Vāsudeva offers prayers —
+> Subheading: Seeing the Lord's mercy, Vāsudeva offers prayers (Śrīmad-Bhāgavatam, 10.81.16) —
 
 ## 143
 
@@ -463,5 +463,9 @@ See Ādi-līlā, Chapter 17, 78.
 *Thus ends the seventh chapter of the “Anubhāṣya.”*
 
 ---
+
+[^26-1]: The verse translation reads differently: the verse is taken to say that Dāmodara, thinking the Lord ignorant of proper conduct, keeps trying to restrain His willful nature.
+
+[^69-1]: The verse translation reads differently: “Bless Me to worship Kṛṣṇa at home…”; for Bhaktisiddhānta it is Sārvabhauma who serves Kṛṣṇa at home, and the Lord asks a blessing from him.
 
 [^130-1]: The phrase also admits another reading: “…and, without trying to take revenge on those averse to Hari, following Gaura, increase their own *bhajana*.”

@@ -30,7 +30,7 @@ The road south runs along the seashore. Six *krośas* from Purī lies the villag
 
 ## 73
 
-The hearts of extraordinary persons are harder than a thunderbolt and at the same time softer than a flower; others are not able to understand this.[^73-1]
+The hearts of extraordinary persons are harder than a thunderbolt and at the same time softer than a flower; others are not able to understand this.
 
 ## 96
 
@@ -57,7 +57,3 @@ Although Navadvīpa is a *dhāma*, at that time *nyāya* and the *smṛti-śāst
 This name is found among the “hundred names of Śrī Caitanya” composed by Śrī Sārvabhauma.
 
 *Thus ends the seventh chapter of the “Amṛta-pravāha-bhāṣya.”*
-
----
-
-[^73-1]: The paragraph number is unclear in the scan (৭১ or ৭৩); by its content it paraphrases verse 73.
