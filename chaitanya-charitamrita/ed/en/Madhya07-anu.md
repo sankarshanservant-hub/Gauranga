@@ -54,7 +54,7 @@ A *sannyāsī* is the guru of a *brahmacārī*. Therefore it is improper for a *
 
 ## 26
 
-***Nā bhāya*** — does not please him; he does not like it.[^26-1]
+***Nā bhāya*** — does not please him; he does not like it.
 
 ## 28
 
@@ -192,7 +192,7 @@ The *jñānīs* and *karmīs* who are averse to Caitanya — the *prakṛti-vād
 
 > Subheading: The Lord honors a Vaiṣṇava householder —
 
-Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda's *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya's feet is worthy of obeisance even from a *sannyāsī* and is his guru. The Lord showed this by begging Sārvabhauma's blessing, to teach the *jīvas* who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).[^69-1]
+Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda's *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya's feet is worthy of obeisance even from a *sannyāsī* and is his guru. The Lord showed this by begging Sārvabhauma's blessing, to teach the *jīvas* who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).
 
 ## 70
 
@@ -461,10 +461,3 @@ See Ādi-līlā, Chapter 17, 78.
 > Subheading: The only way to attain Caitanya is to take shelter at the feet of pure devotees —
 
 *Thus ends the seventh chapter of the “Anubhāṣya.”*
-
----
-
-[^26-1]: The verse translation reads differently: the verse is taken to say that Dāmodara, thinking the Lord ignorant of proper conduct, keeps trying to restrain His willful nature.
-
-[^69-1]: The verse translation reads differently: “Bless Me to worship Kṛṣṇa at home…”; for Bhaktisiddhānta it is Sārvabhauma who serves Kṛṣṇa at home, and the Lord asks a blessing from him.
-
