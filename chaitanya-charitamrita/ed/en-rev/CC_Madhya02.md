@@ -56,7 +56,7 @@ constant  was  of the Lord  separation  madness
 bhrama-maya ceṣṭā sadā, pralāpa-maya vāda  
 bewildered  actions  always  raving  speech
 
-(5) The Lord was constantly in the divine madness of separation: He moved always as one bewildered, and His speech was raving.[^2]
+(5) The Lord was constantly in the divine madness of separation: He always acted as one bewildered, and all His speech was raving.[^2]
 
 রোমকূপে রক্তোদ্গম, দন্ত সব হালে ৷  
 ক্ষণে অঙ্গ ক্ষীণ হয়, ক্ষণে অঙ্গ ফুলে ॥ ৬ ॥
@@ -96,7 +96,7 @@ Caṭaka  hill  seeing  for Govardhana  mistaking
 dhāñā cale ārta-nāda kariyā krandane  
 running  goes  cries of anguish  making  weeping
 
-(9) Seeing the Caṭaka hill, He mistook it for Govardhana, and ran towards it, weeping and crying out in anguish.[^4]
+(9) The Caṭaka hill seemed to Him to be Govardhana, and He ran towards it, weeping and crying out in anguish.[^4]
 
 উপবনোদ্যান দেখি’ বৃন্দাবন-জ্ঞান ৷  
 তাঁহা যাই’ নাচে, গায়, ক্ষণে মূর্চ্ছা যা’ন ॥ ১০ ॥
@@ -146,7 +146,7 @@ in this way  wondrous  ecstasies  in the body  manifest
 manete śūnyatā, vākye hā-hā-hutāśa  
 in the mind  emptiness  in words  alas  despair
 
-(14) Thus wondrous feelings appeared in His body. His mind was empty, and His words were full of lament and despair:
+(14) So wondrous were the feelings that showed themselves in His body. His heart felt empty, and all His words were lament and despair:
 
 কাঁহা মোর প্রাণনাথ মুরলীবদন ৷  
 কাঁহা করোঁ, কাঁহা পাঙ ব্রজেন্দ্রনন্দন ॥ ১৫ ॥
@@ -285,7 +285,7 @@ of the living being  the life  unsteady  like  on a lotus leaf  water
 tata dina jīve kon jana  
 so many  days  will live  which  person
 
-(24) ‘Kṛṣṇa is an ocean of mercy; some day He will accept You’ — friend, these words of yours are useless. A living being’s life is as unsteady as water on a lotus leaf: who will live long enough?
+(24) ‘Kṛṣṇa is an ocean of mercy; some day He will accept You’ — friend, these words of yours are empty. A living being’s life is as unsteady as water on a lotus leaf: who will live long enough?
 
 শত বৎসর পর্য্যন্ত, জীবের জীবন অন্ত,  
 এই বাক্য কহ না বিচারি’ ৷  
@@ -333,7 +333,7 @@ of ecstasy  of the waves  by the force  in many ways  the mind  moves
 āra eka śloka kaila pāṭha  
 another  one  verse  made  recitation
 
-(27) Lamenting so much in His dejection, Śrī Gaurahari opened the door of His sorrow. Driven by the force of the waves of feeling, His mind moved in many ways, and He recited another verse:
+(27) Lamenting so much in His dejection, Śrī Gaurahari opened the door of His sorrow. Tossed by the mighty waves of feeling, His mind turned this way and that, and He recited another verse:
 
 শ্রীকৃষ্ণরূপাদিনিষেবণং বিনা  
 ব্যর্থানি মেঽহান্যখিলেন্দ্রিয়াণ্যলম্ ৷  
@@ -801,7 +801,7 @@ in the strong  fire of separation  composure  became  shaken
 nānā śloka lāgilā paḍite  
 various  verses  began  to recite
 
-(57) Many feelings surged up, and His mind grew anxious; He could not pass even a moment. In the strong fire of separation His composure was shaken, and He began to recite various verses:
+(57) Many feelings surged up in turmoil, and His mind grew anxious; He could not endure a single moment. In the fierce fire of separation His composure tottered, and He began to recite various verses:
 
 অমূন্যধন্যানি দিনান্তরাণি  
 হরে ত্বদালোকনমন্তরেণ ৷  
@@ -1089,7 +1089,7 @@ is it  of mind and eyes the festival  is it  of life the beloved
 satya kṛṣṇa āilā netrānanda  
 truly  Kṛṣṇa  has come  the joy of the eyes
 
-(75) “Is this Kāma in person, an orb of radiance embodied? Is it sweetness itself in bodily form? Is it the festival of mind and eyes? Is it the beloved of My life? Truly Kṛṣṇa, the joy of My eyes, has come!”
+(75) “Is this Kāma in person, an orb of radiance embodied? Is it sweetness itself in bodily form? Is it a feast for My mind and eyes? Is it the beloved of My life? Truly Kṛṣṇa, the joy of My eyes, has come!”
 
 গুরু — নানা ভাবগণ, শিষ্য — প্রভুর তনু-মন,  
 নানা রীতে সতত নাচায় ৷  
@@ -1105,7 +1105,7 @@ despondency  dejection  humility  restlessness  joy  composure  anger
 ei nṛtye prabhura kāla yāya  
 in this  dance  the Lord’s  time  passes
 
-(76) The many feelings were the guru, and the Lord’s body and mind the disciple; in various ways they made them dance without end. Despondency, dejection, humility, restlessness, joy, composure and anger — in this dance the Lord’s time passed.[^27]
+(76) His many feelings were the guru, His body and mind the disciple, and in endless ways the guru made the disciple dance. Despondency, dejection, humility, restlessness, joy, composure and anger — in this dance the Lord’s time passed.[^27]
 
 চণ্ডীদাস, বিদ্যাপতি, রায়ের নাটক-গীতি,  
 কর্ণামৃত, শ্রীগীতগোবিন্দ ৷  
@@ -1153,7 +1153,7 @@ moreover  of the chief rasa the abode  has become  the Great One
 tāte haya sarva-bhāvodaya  
 therefore  is  of all ecstasies the rising
 
-(79) Even in Līlāśuka, a mortal man, such feelings arose; what wonder is it in the Lord? Moreover, the Great One has become the abode (*āśraya*) of the chief rasa, and so every feeling rises in Him.[^30]
+(79) Even in Līlāśuka, a mortal man, such feelings arose; what wonder, then, if they arose in the Lord? Moreover, the Great One has become the abode (*āśraya*) of the chief rasa, and so every feeling rises in Him.[^30]
 
 পূর্ব্বে ব্রজবিলাসে, যেই তিন অভিলাষে,  
 যত্নেহ আস্বাদ না হৈল ৷  
@@ -1345,7 +1345,7 @@ in the meantime  I die  if  to describe  not  I can  then
 ei līlā bhakta-gaṇa-dhana  
 these  pastimes  of the devotees  the wealth
 
-(91) Within the *sūtras* I have described something of the essence of the final pastimes in detail. If I die in the meantime and cannot describe them, these pastimes remain the wealth of the devotees.
+(91) Within the *sūtras* I have described something of this essence of the final pastimes, expanding it a little. If I die before I can describe it, these pastimes will remain the wealth of the devotees.
 
 সংক্ষেপে এই সূত্র কৈল, যেই ইঁহা না লিখিল,  
 আগে তাহা করিব বিচার ৷  
