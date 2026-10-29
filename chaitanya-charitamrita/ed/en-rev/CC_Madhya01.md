@@ -174,7 +174,7 @@ twenty-four  years  the Lord’s  at home  stay
 tāhām̐ ye karilā līlā — ‘ādi-līlā’ nāma  
 there  which  He performed  pastimes  Ādi-līlā  the name
 
-(15) For twenty-four years the Lord lived at home; the pastimes He performed there are called the Ādi-līlā.
+(15) For twenty-four years the Lord lived at home; the pastimes He showed there are known as the Ādi-līlā.
 
 চব্বিশ বৎসর শেষ যেই মাঘমাস ৷  
 তার শুক্লপক্ষে প্রভু করিলা সন্ন্যাস ॥ ১৬ ॥
@@ -204,7 +204,7 @@ of the Śeṣa-līlā  ‘Madhya’  ‘Anta’  two  names  there are
 līlā-bhede vaiṣṇava saba nāma-bheda kaya  
 by the difference of pastimes  Vaiṣṇavas  all  difference of names  speak
 
-(18) The Śeṣa-līlā has two names, ‘Madhya’ (middle) and ‘Anta’ (final): all Vaiṣṇavas name its parts differently according to the difference in the pastimes.
+(18) The Śeṣa-līlā goes by two names, ‘Madhya’ (middle) and ‘Anta’ (final): the Vaiṣṇavas all give it different names according to the difference in its pastimes.
 
 তার মধ্যে ছয় বৎসর — গমনাগমন ৷  
 নীলাচল-গৌড় সেতুবন্ধ-বৃন্দাবন ॥ ১৯ ॥
@@ -294,7 +294,7 @@ Caitanya Gosāñi  whom  calls  elder  brother
 tem̐ho kahe, mora prabhu — caitanya-gosāñi  
 He  says  my  Lord  is Caitanya Gosāñi
 
-(27) He whom Caitanya Gosāñi calls His ‘elder brother’ says, ‘My Lord is Caitanya Gosāñi.’
+(27) He whom Caitanya Gosāñi calls His “elder brother” says, “My Lord is Caitanya Gosāñi.”
 
 যদ্যপি আপনি হয়ে প্রভু বলরাম ৷  
 তথাপি চৈতন্যের করে দাস-অভিমান ॥ ২৮ ॥
@@ -314,7 +314,7 @@ Caitanya  serve  Caitanya  sing of  take  Caitanya’s name
 ‘caitanye’ ye bhakti kare’ sei mora prāṇa  
 to Caitanya  who  devotion  shows  he  My  life
 
-(29) “Serve Caitanya! Sing of Caitanya! Take Caitanya’s name! Whoever is devoted to Caitanya is My very life.”
+(29) He would say: “Serve Caitanya! Sing of Caitanya! Take Caitanya’s name! Whoever is devoted to Caitanya is My very life.”
 
 এই মত লোকে চৈতন্য-ভক্তি লওয়াইল ৷  
 দীনহীন, নিন্দক, সবারে নিস্তারিল ॥ ৩০ ॥
@@ -484,7 +484,7 @@ in the first  year  headed by Advaita  the devotees
 prabhure dekhite kailā, nīlādri gamana  
 the Lord  to see  made  to Nīlādri  journey
 
-(46) In the first year the devotees headed by Advaita went to Nīlādri to see the Lord.
+(46) In the first year after His sannyāsa the devotees headed by Advaita went to Nīlādri to see the Lord.
 
 রথযাত্রা দেখি’ তাঁহা রহিলা চারিমাস ৷  
 প্রভুসঙ্গে নৃত্যগীত পরম উল্লাস ॥ ৪৭ ॥
@@ -494,7 +494,7 @@ the Ratha-yātrā  having seen  there  they stayed  four months
 prabhu-saṅge nṛtya-gīta parama ullāsa  
 with the Lord  dancing  singing  supreme  joy
 
-(47) Having seen the Ratha-yātrā, they stayed there four months, dancing and singing with the Lord in supreme joy.
+(47) Having seen the Ratha-yātrā, they stayed there for four months, dancing and singing with the Lord in supreme joy.
 
 বিদায় সময় প্রভু কহিলা সবারে ৷  
 প্রত্যব্দ আসিবে সবে গুণ্ডিচা দেখিবারে ॥ ৪৮ ॥
@@ -564,7 +564,7 @@ of the Ratha-yātrā  in front  when  He performs  dance
 tām̐hā ei pada mātra karaye gāyana  
 there  this  song  only  He makes  singing
 
-(54) When He danced in front of the Ratha-yātrā, He sang only this song:
+(54) When He danced in front of the chariot at the Ratha-yātrā, He sang only this song:
 
 “সেইত পরাণ-নাথ পাইনু ॥  
 যাহা লাগি’ মদনদহনে ঝুরি’ গেনু ॥” ॥ ৫৫ ॥
@@ -584,7 +584,7 @@ to this  refrain song  He dances  the second  prahara
 kṛṣṇa lañā vraje yāi — e-bhāva antara  
 Kṛṣṇa  taking  to Vraja  I go  this feeling  within
 
-(56) To this refrain He danced through the second *prahara* (watch) of the day, the feeling in His heart being, “I am taking Kṛṣṇa back to Vraja.”
+(56) To this refrain He danced through the second *prahara* (watch) of the day, and in His heart was one feeling: “I am taking Kṛṣṇa back to Vraja.”
 
 এই ভাবে নৃত্যমধ্যে পড়ে এক শ্লোক ৷  
 সেই শ্লোকের অর্থ কেহ নাহি বুঝে লোক ॥ ৫৭ ॥
@@ -710,7 +710,7 @@ getting up  Mahāprabhu  him  a slap  giving
 kahite lāgilā kichu kolete kariyā  
 to speak  began  something  in His arms  taking
 
-(68) Mahāprabhu got up, gave him a slap, took him in His arms and said:
+(68) Mahāprabhu rose, gave him an affectionate slap, took him in His arms and began to speak:[^13]
 
 মোর শ্লোকের অভিপ্রায় না জানে কোন জনে ৷  
 মোর মনের কথা তুঞি জানিলি কেমনে ? ॥ ৬৯ ॥
@@ -770,7 +770,7 @@ a worthy  recipient  he is  of confidential  rasa  for discerning
 tumio kahio tāre gūḍha-rasākhyāne  
 you also  speak  to him  in explaining the confidential rasa
 
-(74) He is a worthy recipient for discerning the confidential *rasa*. You too should speak to him and explain that confidential *rasa*.”
+(74) He is a worthy vessel for understanding the hidden *rasa*, and you too should instruct him in its secrets.”
 
 এসব কহিব আগে বিস্তার করিঞা ৷  
 সংক্ষেপে উদ্দেশ কৈল প্রস্তাব পাইঞা ॥ ৭৫ ॥
@@ -796,7 +796,7 @@ yet  within  playing  sweet  of the flute  the fifth note  delighting in
 mano me kālindī-pulina-vipināya spṛhayati  
 mind  My  of the Kālindī  bank  for the forest  longs
 
-(76) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī 387)
+(76) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 387)[^14]
 
 এই শ্লোকের সংক্ষেপার্থ শুন, ভক্তগণ ৷  
 জগন্নাথ দেখি’ যৈছে প্রভুর ভাবন ॥ ৭৭ ॥
@@ -836,7 +836,7 @@ that  mood  that  Kṛṣṇa  that  Vṛndāvana
 yabe pāi, tabe haya vāñchita pūraṇa  
 when  I obtain  then  there will be  of My desire  fulfilment
 
-(80) Only when I regain that mood, that Kṛṣṇa and that Vṛndāvana will My desire be fulfilled.”
+(80) When I find again that mood, that Kṛṣṇa and that Vṛndāvana, then My desire will be fulfilled.”
 
 আহুশ্চ তে নলিননাভ পদারবিন্দং  
 যোগেশ্বরৈর্হৃদি বিচিন্ত্যমগাধবোধৈঃ ৷  
@@ -852,7 +852,7 @@ of worldly life  into the well  of the fallen  for rescue  the support
 gehaṁ juṣām api manasy udiyāt sadā naḥ  
 to home  attached  even  in the mind  may they rise  always  our
 
-(81) And they said: “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate on Your lotus feet within their hearts; those feet are the support that rescues those fallen into the well of worldly life. May they always rise in our minds too, though we are attached to our homes.” (Śrīmad-Bhāgavatam 10.82.48)
+(81) (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate on Your lotus feet within their hearts; those feet are the support that rescues those fallen into the well of worldly life. May they always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)[^15]
 
 তোমার চরণ মোর ব্রজপুরঘরে ৷  
 উদয় করয়ে যদি, তবে বাঞ্ছা পূরে ॥ ৮২ ॥
@@ -862,7 +862,7 @@ Your  feet  in My  of Vraja  village  home
 udaya karaye yadi, tabe vāñchā pūre  
 rising  they make  if  then  desire  is fulfilled
 
-(82) “If Your feet rise in My home in the village of Vraja, then My desire will be fulfilled.”
+(82) “If Your feet rise in My home in the village of Vraja, then My desire will be fulfilled.”[^16]
 
 ভাগবতের শ্লোকার্থ বিচার করিঞা ৷  
 রূপ-গোসাঞি শ্লোক কৈল লোক বুঝাইঞা ॥ ৮৩ ॥
@@ -874,9 +874,9 @@ Rūpa Gosāñi  a verse  composed  to the people  explaining
 
 (83) Having considered the meaning of this verse of the *Bhāgavata*, Rūpa Gosāñi composed a verse that explains it to people.
 
-যা তে লীলারসপরিমলোদ্গারিবন্যাপরীতা ৷  
+যা তে লীলারসপরিমলোদ্গারিবন্যাপরীতা  
 ধন্যা ক্ষৌণী বিলসতি বৃতা মাথুরী মাধুরীভিঃ ৷  
-তত্রাস্মাভিশ্চটুলপশুপীভাবমুগ্ধান্তরাভিঃ ৷  
+তত্রাস্মাভিশ্চটুলপশুপীভাবমুগ্ধান্তরাভিঃ  
 সম্বীতস্ত্বং কলয় বদনোল্লাসি-বেণুবিহারম্ ॥ ৮৪ ॥
 
 yā te līlā-rasa-parimalodgāri-vanyāparītā  
@@ -888,7 +888,7 @@ there  by us  playful  of cowherd girls  by the mood  enchanted  whose hearts
 saṁvītas tvaṁ kalaya vadanollāsi-veṇu-vihāram  
 surrounded  You  enjoy  at Your lips  shining  with the flute  pastimes
 
-(84) “The blessed land of Mathurā shines, encircled by its charms and by forests that exhale the fragrance of the nectar of Your pastimes. There, surrounded by us, whose hearts are enchanted by the mood of playful cowherd girls, enjoy Your pastimes with the flute shining at Your lips.” (Lalita-mādhava 10.38)
+(84) (Śrī Rādhā said:) “Your blessed land of Vraja shines, encircled by the charms of the Mathurā country and by forests that breathe the fragrance of the nectar of Your pastimes. There, surrounded by us, whose hearts are enchanted by the mood of playful cowherd girls, take up Your play with the flute that sounds so joyfully at Your lips.” (Lalita-mādhava, 10.38)[^17]
 
 এইরূপ মহাপ্রভু দেখি’ জগন্নাথে ৷  
 সুভদ্রা-সহিত দেখে, বংশী নাহি হাতে ॥ ৮৫ ॥
@@ -948,7 +948,7 @@ a pointer  to give  I make  an indication of direction
 mukhya-mukhya-līlāra kari sūtra gaṇana  
 of the principal  principal  pastimes  I make  of the sūtras  enumeration
 
-(90) Just to give a pointer, I offer a glimpse and list the sūtras of the principal pastimes.
+(90) To give some indication, I shall only point the way and list the sūtras of the principal pastimes.
 
 প্রথম সূত্র প্রভুর সন্ন্যাসকরণ ৷  
 সন্ন্যাস করি’ চলিলা প্রভু শ্রীবৃন্দাবন ॥ ৯১ ॥
@@ -1008,7 +1008,7 @@ on the way  various  pastimes  of all  the Deities  the sight
 mādhava-purīra kathā, gopāla-sthāpana  
 of Mādhava Purī  the story  of Gopāla  the installation
 
-(96) On the way there were many pastimes: *darśana* of all the Deities, the story of Mādhava Purī and the installation of Gopāla,
+(96) On the way there were many pastimes: *darśana* of all the Deities, the story of Mādhava Purī and the installation of Gopāla.[^18]
 
 ক্ষীর-চুরি-কথা, সাক্ষী-গোপাল-বিবরণ ৷  
 নিত্যানন্দ কৈল প্রভুর দণ্ড ভঞ্জন ॥ ৯৭ ॥
@@ -1018,7 +1018,7 @@ of sweet rice  of the theft  the story  of Sākṣi-gopāla  the account
 nityānanda kaila prabhura daṇḍa bhañjana  
 Nityānanda  made  the Lord’s  of the staff  breaking
 
-(97) the story of the theft of sweet rice and the account of Sākṣi-gopāla. And Nityānanda broke the Lord’s staff.
+(97) There was also the story of the theft of sweet rice and the account of Sākṣi-gopāla; and Nityānanda broke the Lord’s staff.[^19]
 
 ক্রুদ্ধ হঞা একা গেলা জগন্নাথ দেখিতে ৷  
 দেখিয়া মূর্চ্ছিত হঞা পড়িলা ভূমিতে ॥ ৯৮ ॥
@@ -1038,7 +1038,7 @@ Sārvabhauma  taking  carried  to his own  house
 tṛtīya prahare prabhu haila cetana  
 in the third  prahara  the Lord  became  conscious
 
-(99) Sārvabhauma took Him to his own house, and in the third *prahara* of the day the Lord regained consciousness.
+(99) Sārvabhauma took Him to his own house, and the Lord did not regain consciousness until the third *prahara* of the day, after noon.
 
 নিত্যানন্দ, জগদানন্দ, দামোদর, মুকুন্দ ৷  
 পাছে আসি’ মিলি’ সবে পাইল আনন্দ ॥ ১০০ ॥
@@ -1108,7 +1108,7 @@ then  indeed  the atheists  He made  crushing
 ahovala-nṛsiṁhādi kaila daraśana  
 Ahovala-nṛsiṁha and others  He made  the sight
 
-(106) Then He subdued the atheists, and He had *darśana* of Ahovala-nṛsiṁha and other Deities.
+(106) Then He subdued the unbelievers, and He had *darśana* of Ahovala-nṛsiṁha and other Deities.[^20]
 
 শ্রীরঙ্গক্ষেত্র আইলা কাবেরীর তীর ৷  
 শ্রীরঙ্গ দেখিয়া প্রেমে হইলা অস্থির ॥ ১০৭ ॥
@@ -1258,7 +1258,7 @@ once again  to Nīlācala  journey  He made
 bhakta-gaṇe meliyā snāna-yātrā dekhila  
 the devotees  meeting  the Snāna-yātrā  He saw
 
-(121) Once again He went back to Nīlācala; meeting the devotees, He saw the Snāna-yātrā (the bathing festival).
+(121) Then He returned once more to Nīlācala, met the devotees and saw the Snāna-yātrā (the bathing festival).
 
 অনবসরে জগন্নাথ না পাঞা দরশন ৷  
 বিরহে আলালনাথ করিলা গমন ॥ ১২২ ॥
@@ -1418,7 +1418,7 @@ in Sārvabhauma’s house  the Lord’s  meal  the splendid arrangement
 ṣāṭhīra mātā kahe, yāte rāṇḍī hauka ṣāṭhī  
 Ṣāṭhī’s  mother  says  because of which  a widow  let her become  Ṣāṭhī
 
-(137) Then there was the splendid meal for the Lord at Sārvabhauma’s house, because of which Ṣāṭhī’s mother said, “Let Ṣāṭhī become a widow!”
+(137) Then there was the splendid meal for the Lord at Sārvabhauma’s house, because of which Ṣāṭhī’s mother said, “Let Ṣāṭhī become a widow!”[^21]
 
 বর্ষান্তরে অদ্বৈতাদি ভক্তের আগমন ৷  
 প্রভুরে দেখিতে সবে করিলা গমন ॥ ১৩৮ ॥
@@ -1428,7 +1428,7 @@ the next year  headed by Advaita  of the devotees  the arrival
 prabhure dekhite sabe karilā gamana  
 the Lord  to see  all  made  journey
 
-(138) The next year the devotees headed by Advaita came again: they all set out to see the Lord.
+(138) The next year the devotees headed by Advaita came once more, setting out together to see the Lord.
 
 আনন্দে সবারে নিয়া দেন বাস-স্থান ৷  
 শিবানন্দ সেন করে সবার পালন ॥ ১৩৯ ॥
@@ -1438,7 +1438,7 @@ joyfully  all  taking along  he gives  lodging
 śivānanda sena kare sabāra pālana  
 Śivānanda  Sena  makes  of all  the care
 
-(139) Joyfully he led them all and gave them lodging — Śivānanda Sena looked after everyone.
+(139) The Lord joyfully gave them all lodging, and Śivānanda Sena took care of everyone.[^22]
 
 শিবানন্দের সঙ্গে আইলা কুক্কুর ভাগ্যবান্ ৷  
 প্রভুর চরণ দেখি’ কৈল অন্তর্দ্ধান ॥ ১৪০ ॥
@@ -1505,3 +1505,23 @@ of the Ratha-yātrā  at the sight  the Lord’s  dancing
 [^11]: So in the Gauḍīya Maṭha edition (*bhakti-siddhānta tāte likhiyāchena sāra*). Other editions read *…dekhāiyāchena pāra* (“he has shown the utmost reach of the conclusions of devotion”). *Anubhāṣya*: the *Bhāgavata-sandarbha* is also called the *Ṣaṭ-sandarbha*, the six *Sandarbhas*.
 
 [^12]: The verse is also found in the *Kāvya-prakāśa* (1.4), as the edition heading notes. *Amṛta-pravāha-bhāṣya* (to 59): it was composed about a worldly hero and heroine; why Mahāprabhu recited it with such love, no one but Svarūpa Dāmodara knew.
+
+[^13]: *Amṛta-pravāha-bhāṣya*: some readings have *uhāi* for *uṭhi’* (“rising”). Edition heading: “The Lord’s unfeigned affection and mercy towards Rūpa”.
+
+[^14]: The Gauḍīya Maṭha edition prints *saṅgasukham*, a misprint that breaks the metre; the *Anubhāṣya* reads *saṅgama-sukham*. *Anubhāṣya*: the flute plays “within — in the depths of the heart, or in the midst of Vṛndā’s forest”.
+
+[^15]: *Anubhāṣya*: the gopīs spoke these words to Kṛṣṇa after meeting Him at Kurukṣetra (Syamantapañcaka); *gehaṁ juṣām* — “of us who dwell at home, in Vṛndāvana, devoted by nature to our household duties”: we are neither yogīs absorbed in meditation nor worldly people, but are sunk in the ocean of separation from You. *Amṛta-pravāha-bhāṣya*: some readings add here another verse, Śrīmad-Bhāgavatam 10.83.2.
+
+[^16]: The pronoun is singular (*mora*, “My”): these are Rādhikā’s thoughts continued from 78–80, by which Mahāprabhu explains the verse.
+
+[^17]: *Anubhāṣya*: Kṛṣṇa offered Śrīmatī Rādhikā any boon She desired, and She answered with this verse; *kṣauṇī* — the land of Vraja.
+
+[^18]: *Anubhāṣya*: Mādhava Purī is Śrī Mādhavendra Purī. Edition heading: “On the way to Purī: the story of Mādhavendra Purī at Remuṇā, and *darśana* of Gopīnātha”.
+
+[^19]: The verse does not say who tells the stories: the Lord Himself tells of Kṣīra-corā Gopīnātha (Madhya 4), and Nityānanda of Sākṣi-gopāla (Madhya 5).
+
+[^20]: Edition heading: “The deliverance of the Buddhist unbelievers, and *darśana* of Nṛsiṁha at Ahovala”.
+
+[^21]: Edition heading: “The Lord’s meal at Sārvabhauma’s house; the offence of his son-in-law Amogha, and his deliverance” (Madhya 15).
+
+[^22]: Edition heading: “The Lord makes arrangements for everyone”.
