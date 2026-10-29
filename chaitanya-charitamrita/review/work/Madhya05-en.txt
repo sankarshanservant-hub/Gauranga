@@ -1,0 +1,854 @@
+# English translation, Madhya-līlā 5 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya05.txt), revised against the Bengali and the «Anubhāṣya».
+# All verses 1–161 (160 blocks; 77–78 — one block).
+
+## 0
+tr: The Description of the Deeds of Sākṣi-gopāla
+
+## 1
+w: on His feet  walking  who  in the form of the Deity
+w: the Lord of the brāhmaṇas  indeed  a hundred days’ journey away
+w: to the land  went  for a brāhmaṇa’s sake  of wondrous  deeds
+w: to that  Sākṣi-gopāla  I  bowed down  am
+tr: I bow down to Sākṣi-gopāla, the Lord of the brāhmaṇas, whose deeds are wondrous: in His form as the Deity He walked on His own feet, for a brāhmaṇa’s sake, to a land a hundred days’ journey away.
+fn: Heading in the edition: “Obeisance to Sākṣi-gopāla, who is subdued by His devotee”. *Anubhāṣya*: the land a hundred days’ journey away — from the region of Mathurā to Vidyānagara; *adbhutehaṁ* is one word, “whose deeds are unprecedented”.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
+
+## 3
+w: walking  walking  came  Yājapura  village
+w: the Deity Varāha  seeing  made  obeisance
+tr: Walking on and on, the Lord came to the village of Yājapura, and there He saw the Deity of Varāha and bowed down to Him.
+fn: Heading in the edition: “At Yājapura the Lord has darśana of Varāha-deva”. *Anubhāṣya*: Yājapura, a subdivision of the Kaṭaka district, is called “Nābhi-gayā”; Varāha-deva resides there in the quarter called Brāhmaṇanagara. *Amṛta-pravāha-bhāṣya*: a holy place of Utkala on the bank of the Vaitaraṇī, in Virajā-kṣetra.
+
+## 4
+w: dancing and singing  did  in love  many  prayers
+w: in Yājapura  that  night  staying  made  departure
+tr: Full of love, He danced and sang and offered many prayers. He stayed that night in Yājapura and then went on His way.
+fn: The Gauḍīya Maṭha edition reads যাজপুরে সে রাত্রি রহি’ করিলা গমন (“staying that night in Yājapura, He went on”); another reading is …করিলা যাপন (“He spent that night in Yājapura”).
+
+## 5
+w: to Kaṭaka  came  Sākṣi-gopāla  to see
+w: Gopāla’s beauty  seeing  became  joyful
+tr: He came to Kaṭaka to see Sākṣi-gopāla, and the sight of Gopāla’s beauty filled Him with joy.
+
+## 6
+w: absorbed in love  dancing and singing  did  for some time
+w: absorbed  being  made  to Gopāla  prayers
+tr: Absorbed in love, He danced and sang for some time, and in that rapture He offered prayers to Gopāla.
+
+## 7
+w: that  night  there  staying  with the devotees
+w: of Gopāla  the old story  hears  the Lord  with delight
+tr: He stayed there that night with His devotees, and with delight the Lord heard the old story of Gopāla.
+fn: Heading in the edition: “Spending that night in the temple, the Lord hears the story of Sākṣi-gopāla from Nityānanda’s lips”.
+
+## 8
+w: Nityānanda Gosāñi  when  holy places  travelled
+w: Sākṣi-gopāla  to see  to Kaṭaka  came
+tr: Long before, when Nityānanda Gosāñi was travelling to the holy places, He had come to Kaṭaka to see Sākṣi-gopāla.
+fn: *Amṛta-pravāha-bhāṣya*: at that time Sākṣi-gopāla resided in Kaṭaka, the chief town on the Mahānadī. Brought from the south, He stayed a few days in Kaṭaka and then for some time in the temple of Jagannātha at Purī; when a “loving quarrel” (*prema-kalaha*) arose there, the king of Utkala founded the village of Satyavādī, three *krośas* from Purī, and placed Gopāla there. He now resides in that village, in a stone temple.
+
+## 9
+w: of Sākṣi-gopāla  the story  hearing  from people’s lips
+w: that  story  He tells  the Lord  hears  with great happiness
+tr: He had heard the story of Sākṣi-gopāla from the people there. Now He told it, and the Lord listened with great happiness.
+
+## 10
+w: long ago  of Vidyānagara  two  indeed  brāhmaṇas
+w: pilgrimage  to make  both  made  departure
+tr: Long ago two brāhmaṇas of Vidyānagara set out together on pilgrimage.
+fn: Heading in the edition: “The story of Sākṣi-gopāla; the account of the two brāhmaṇas”.
+
+## 11
+w: Gayā  Vārāṇasī  Prayāga  all  visiting
+w: to Mathurā  came  both  joyful  being
+tr: They visited Gayā, Vārāṇasī, Prayāga and all the holy places, and then the two of them came joyfully to Mathurā.
+
+## 12
+w: on the forest pilgrimage  the forests  seeing  they see  Govardhana
+w: the twelve forests  seeing  at last  went  to Vṛndāvana
+tr: On their pilgrimage through the forests of Vraja they wandered from forest to forest and saw Govardhana; and when they had visited all twelve forests, they came at last to Vṛndāvana.
+fn: *Amṛta-pravāha-bhāṣya*: of the twelve forests, Bhadra, Bilva, Lauha, Bhāṇḍīra and Mahāvana lie east of the Yamunā, and Madhu, Tāla, Kumuda, Bahulā, Kāmya, Khadira and Vṛndāvana to the west. Having seen them, the brāhmaṇas came to the village of Pañcakrośī Vṛndāvana, which lies within Vṛndāvana, one of the twelve forests, stretching sixteen *krośas* to Nandagrāma and Varṣāṇā.
+
+## 13
+w: in Vṛndāvana  at Govinda’s place  a great temple
+w: in that  temple  Gopāla’s  great service  takes place
+tr: In Vṛndāvana, at the place of Govinda, there stood a great temple, and in that temple Gopāla was served with great splendour.
+
+## 14
+w: at Keśī-tīrtha  at Kāliya-hrada and others  did  bathing
+w: Śrī Gopāla  seeing  there  made  rest
+tr: They bathed at Keśī-tīrtha, Kāliya-hrada and the other holy places, and after seeing Śrī Gopāla they rested there.
+
+## 15
+w: Gopāla’s beauty  of both  the hearts  took  stealing
+w: happiness  finding  they stay  there  days  two or four
+tr: Gopāla’s beauty stole the hearts of both of them, and they stayed there happily for a few days.
+
+## 16
+w: the two brāhmaṇas  among  one  brāhmaṇa  nearly old
+w: the other  brāhmaṇa  young  him  gives  help
+tr: Of the two brāhmaṇas, one was elderly and the other young, and the young one looked after him.
+
+## 17
+w: the younger brāhmaṇa  does  always  his  service
+w: by his  service  the brāhmaṇa’s  pleased  became  heart
+tr: The younger brāhmaṇa served him constantly, and the elder was pleased at heart with his service.
+
+## 18
+w: the brāhmaṇa  says  you  me  much  service  did
+w: helper  being  me  pilgrimage  made to do
+tr: The elder brāhmaṇa said, “You have served me in so many ways. With your help I have been able to make this pilgrimage.
+
+## 19
+w: even a son  father’s  such  not  does  service
+w: by your  kindness  I  not  felt  fatigue
+tr: Even a son does not serve his father like this. By your kindness I have felt no fatigue.
+
+## 20
+w: ingratitude  it is  you  not  if I do  honour
+w: therefore  to you  I  shall give  the gift of a daughter
+tr: It would be ingratitude not to honour you. So I shall give you my daughter in marriage.”
+
+## 21
+w: the younger brāhmaṇa  says  listen  respected brāhmaṇa
+w: the impossible  you speak  why  which  not  happens
+tr: The younger brāhmaṇa said, “Listen, respected sir! Why do you speak of something impossible, something that can never be?
+
+## 22
+w: of very high family  you  in learning, wealth and all else  rich
+w: I  of no family  and  of wealth and learning  devoid
+tr: You are of a very noble family and rich in learning, wealth and every other gift, while I am of no family and have neither wealth nor learning.
+
+## 23
+w: for the gift of a daughter  a fit recipient  I  not  am  your
+w: for Kṛṣṇa’s pleasure  I do  your  service
+tr: I am not fit to receive your daughter. I serve you for Kṛṣṇa’s pleasure.
+fn: *Anubhāṣya* (on 23–24): the younger brāhmaṇa served the elder, a devotee of the Lord, for Kṛṣṇa’s pleasure, and the fruit of that service was that Śrī Gopāla bore witness to protect His devotee’s honour. Had this service and the consent to the marriage been mundane *karma-kāṇḍa* for sense gratification, Śrī Caitanya and Śrī Nityānanda would never have honoured them.
+
+## 24
+w: by service to brāhmaṇas  Kṛṣṇa’s  pleasure  great  is
+w: by His  satisfaction  devotion’s wealth  increases
+tr: Kṛṣṇa is greatly pleased by service to brāhmaṇas, and when He is pleased, the wealth of devotion grows.”
+
+## 25
+w: the elder brāhmaṇa  says  you  not  do  doubt
+w: to you  daughter  shall give  I  in this  what  wonder
+tr: The elder brāhmaṇa said, “Have no doubt. I shall give you my daughter — what is so surprising in that?”
+fn: The Gauḍīya Maṭha edition reads ইথে কি বিস্ময় (“what is surprising in that?”); another reading is করিল নিশ্চয় (“I have firmly decided”).
+
+## 26
+w: the younger brāhmaṇa  says  your  wife and sons  all
+w: many  kinsmen and relatives  your  many  friends
+tr: The younger brāhmaṇa said, “You have a wife and sons, many kinsmen and relatives, and a great many friends.
+
+## 27
+w: of them all  consent  without  is not  the gift of a daughter
+w: Rukmiṇī’s  father  Bhīṣmaka  of that  proof
+tr: Without the consent of them all, a daughter cannot be given in marriage. Bhīṣmaka, the father of Rukmiṇī, is proof of this.
+
+## 28
+w: Bhīṣmaka’s  wish  to Kṛṣṇa  daughter  to offer
+w: of the son  by the opposition  daughter  could not  give
+tr: Bhīṣmaka wished to give his daughter to Kṛṣṇa, but his son opposed it, and he could not give her.”
+fn: *Anubhāṣya*: Bhīṣmaka, king of Vidarbha, had five sons and one daughter; his kinsmen wished to give her to Kṛṣṇa, but his eldest son, Rukmī, who hated Kṛṣṇa, prevented it (Śrīmad-Bhāgavatam, 10.52.21–25). When Kṛṣṇa carried Rukmiṇī away, Rukmī fought Him; at Rukmiṇī’s plea Kṛṣṇa spared his life, but shaved him and so disgraced him.
+
+## 29
+w: the elder brāhmaṇa  says  daughter  my  own wealth
+w: own wealth  to give  will forbid  what  person
+tr: The elder brāhmaṇa said, “My daughter is my own wealth. Who can forbid me to give away what is my own?
+
+## 30
+w: to you  daughter  I shall give  all  making  disregard
+w: doubt  not  do  you  do  acceptance
+tr: I shall give you my daughter, and I shall pay no heed to any of them. Have no doubt; just accept her.”
+
+## 31
+w: the younger brāhmaṇa  says  if  daughter  to give  your mind
+w: Gopāla  before  say  this  true word
+tr: The younger brāhmaṇa said, “If you have truly made up your mind to give me your daughter, then say these true words before Gopāla.”
+
+## 32
+w: Gopāla  before  the brāhmaṇa  to speak  began
+w: You  know  own daughter  to him  I  gave
+tr: Before Gopāla the elder brāhmaṇa began to speak: “You know it, Lord: I have given my own daughter to him.”
+
+## 33
+w: the younger brāhmaṇa  says  Lord  You  my  witness
+w: You  as witness  I will call  if  otherwise  I see
+tr: The younger brāhmaṇa said, “Lord, You are my witness. If I see him go back on his word, I will call on You to bear witness.”
+
+## 34
+w: thus  saying  the two  went  homeward
+w: regarding him as guru  the younger brāhmaṇa  much  service  does
+tr: With these words the two set out for home, and all along the way the younger brāhmaṇa served the elder devotedly, regarding him as his guru.
+
+## 35
+w: home  coming  the two  went  to their own houses
+w: after some  days  the elder brāhmaṇa  anxious  at heart
+tr: When they reached their own country, each went to his own house. Some days later the elder brāhmaṇa grew anxious at heart:
+
+## 36
+w: at the holy place  to the brāhmaṇa  word  I gave  how  true  becomes
+w: wife  son  kinsmen  friends  will know  surely
+tr: “At a holy place I gave my word to a brāhmaṇa — how can I make it true? My wife, my son, my kinsmen and friends will surely come to know of it.”
+
+## 37
+w: one day  own people  together  gathered
+w: of them all  before  whole  story  told
+tr: One day he gathered his family together and told them the whole story.
+
+## 38
+w: hearing  all  relatives  his  make  lamentation
+w: such  words  to your mouth  you  not  will bring  again
+tr: Hearing it, all his relatives cried out in dismay: “Never let such words pass your lips again!
+
+## 39
+w: to a lowly man  daughter  if you give  family  will go  to ruin
+w: hearing  all  people  will make  mockery
+tr: If you give your daughter to a lowly man, our family will be ruined, and everyone who hears of it will laugh at us.”
+
+## 40
+w: the brāhmaṇa  says  word given at a holy place  how  I make  otherwise
+w: what  may be  that  may be  I  shall give  the gift of a daughter
+tr: The brāhmaṇa said, “How can I break a promise made at a holy place? Come what may, I shall give her in marriage.”
+
+## 41
+w: kinsmen  people  say  we  you  will abandon
+w: wife and son  say  poison  eating  will die
+tr: His kinsmen said, “Then we shall disown you,” and his wife and son said, “We shall take poison and die.”
+
+## 42
+w: the brāhmaṇa  says  the witness  calling  will make  judgement
+w: winning  daughter  will take  my  vain  dharma  becomes
+tr: The brāhmaṇa said, “He will call his witness and have the matter judged. He will win and take my daughter, and my dharma will come to nothing.”
+fn: *Anubhāṣya*: the elder brāhmaṇa thought, “If I do not give my daughter as I promised, the younger brāhmaṇa will call Śrī Gopāla as witness and take my daughter by force, and then my dharma will bear no fruit.”
+
+## 43
+w: the son  says  an image  the witness  and it  in a far  land
+w: who  your  witness  will give  worry  you make  why
+tr: His son said, “The witness is only an image, and it is in a distant land. Who will bear witness against you? Why worry?
+fn: *Anubhāṣya* (on 43–45): the elder brāhmaṇa’s son was an unbeliever (*nāstika*) and a *smārta*, clever in worldly affairs but foolish; he did not believe that the Śrī Vigraha is conscious and all-pervading, and like an idolater he saw in Him stone and wood — hence he calls the witness “an image” (*pratimā*).
+
+## 44
+w: not  I said  not  say  this  lie
+w: only  say  my  any  not  remembrance
+tr: You need not say, ‘I never said it’ — don’t tell that lie. Just say, ‘I remember nothing.’
+fn: *Amṛta-pravāha-bhāṣya*: do not tell such a lie as “I never promised my daughter”; say only, “I do not remember it.”
+
+## 45
+w: you  if  say  I  anything  not  know
+w: then  I  argument  making  the brāhmaṇa  will defeat
+tr: If you say, ‘I know nothing about it,’ I will argue the case and defeat the brāhmaṇa.”
+fn: *Anubhāṣya*: the son advises his father, as Yudhiṣṭhira said “Aśvatthāmā is slain — the elephant”, not to disown the promise with an open lie but only to say, or to make it appear, that he remembers nothing; then the son will catch the younger brāhmaṇa in a snare of false arguments (*kutarka*), defeat him and save the family’s honour. *Nyāya* — argument (*tarka*).
+
+## 46
+w: thus  hearing  the brāhmaṇa’s  troubled  became  mind
+w: single-mindedly  meditates  the brāhmaṇa  on Gopāla’s feet
+tr: Hearing this, the brāhmaṇa grew troubled, and with all his heart he meditated on Gopāla’s feet:
+
+## 47
+w: my  dharma  protection  gets  not  die  own people
+w: both  protection  do  Gopāla  I have taken  shelter
+tr: “Let my dharma be kept, and let my family not die. O Gopāla, protect them both — I have taken shelter of You.”
+
+## 48
+w: in this way  the brāhmaṇa  in his heart  to ponder  began
+w: next  day  the younger brāhmaṇa  his  to house  came
+tr: So the brāhmaṇa pondered within himself. The next day the younger brāhmaṇa came to his house.
+
+## 49
+w: coming  with great devotion  obeisance  making
+w: humility  showing  says  hands  both  joining
+tr: He came in, bowed down with deep devotion, and with folded hands humbly said:
+
+## 50
+w: you  to me  daughter  to give  have made  promise
+w: now  anything  not  you say  what  your  conduct
+tr: “You promised to give me your daughter. Now you say nothing at all. What kind of conduct is this?”
+fn: The Gauḍīya Maṭha edition reads কি তোমার ব্যবহার (“what conduct is this of yours?”); another reading is কি তোমার বিচার (“what is your decision?”).
+
+## 51
+w: thus  hearing  that  brāhmaṇa  remains  silence  keeping
+w: his  son  to beat  came  in his hand  a stick  taking
+tr: Hearing this, the brāhmaṇa kept silent, and his son came at the young man with a stick in his hand to beat him.
+
+## 52
+w: you  wretch  my  sister  you want  to marry
+w: a dwarf  being  the moon  as if  you want  indeed  to catch
+tr: “You wretch! You want to marry my sister? You are like a dwarf who wants to catch the moon!”
+
+## 53
+w: the stick  seeing  that  brāhmaṇa  fleeing  went
+w: next  day  of the village  the people  together  gathered
+tr: Seeing the stick, the young brāhmaṇa ran away. The next day he gathered the people of the village.
+
+## 54
+w: all  the people  the elder brāhmaṇa  calling  brought
+w: then  that  younger brāhmaṇa  to speak  began
+tr: The people sent for the elder brāhmaṇa and brought him there, and then the younger brāhmaṇa began to speak:
+
+## 55
+w: he  to me  daughter  to give  has made  promise
+w: now  that  not  he gives  ask  his  conduct
+tr: “This man promised to give me his daughter. Now he will not give her — ask him why he behaves like this.”
+
+## 56
+w: then  that  brāhmaṇa  asked  all the people
+w: daughter  why  not  you give  if  you have given  word
+tr: Then everyone asked the brāhmaṇa, “If you gave your word, why do you not give him your daughter?”
+
+## 57
+w: the brāhmaṇa  says  hear  people  my  submission
+w: when  what  I have said  my  there is not  remembrance
+tr: The brāhmaṇa said, “Listen, good people, to what I have to say: I do not remember ever saying such a thing.”
+
+## 58
+w: thus  hearing  his  son  a quibble in the words  finding
+w: brazen  becoming  speaks  in front  coming
+tr: Hearing this, his son found in his father’s words a pretext for a quibble. He came forward and spoke out brazenly:
+fn: *Anubhāṣya*: *chala* (a quibble) is when a speaker uses a word in one sense and his opponent, refusing that sense, invents the opposite and builds false charges on it.
+
+## 59
+w: on the pilgrimage  father  with  was  much  money
+w: money  seeing  this  scoundrel’s  to take  became  desire
+tr: “On the pilgrimage my father carried a great deal of money. When this scoundrel saw it, he wanted to take it.
+
+## 60
+w: other  anyone  with  not  this one  with  alone
+w: dhuturā  feeding  father  made  mad
+tr: There was no one else with my father — only this man. He fed him *dhuturā* and drove him out of his mind.
+
+## 61
+w: all  money  taking  says  a thief  took  the money
+w: daughter  to give  he wanted  raised  word
+tr: He took all the money and said, ‘A thief took the money.’ And now he puts about the story that my father wanted to give him his daughter.
+
+## 62
+w: you  all  people  make  judgement
+w: my  father’s  daughter  to give  fit  is  to him
+tr: All of you, good people, judge for yourselves: is this man fit to receive my father’s daughter?”
+
+## 63
+w: thus  hearing  people’s  in minds  arose  doubt
+w: possible  from greed for money  people  give up  fear of dharma
+tr: Hearing this, the people began to have doubts: “It may well be so — greed for money makes people lose their fear of dharma.”
+fn: *Anubhāṣya*: greed for wealth destroys people’s discrimination between dharma and adharma; therefore the people suspected that the younger brāhmaṇa, out of greed, might have done the elder some violence.
+
+## 64
+w: then  the younger brāhmaṇa  says  listen  honourable people
+w: argument  to win  he speaks  false words
+tr: Then the younger brāhmaṇa said, “Listen, honourable people! He is telling lies to win the argument.
+
+## 65
+w: this  brāhmaṇa  my  with service  pleased  when  became
+w: to you  I  daughter  shall give  himself  said
+tr: When this brāhmaṇa was pleased with my service, he himself said, ‘I shall give you my daughter.’
+
+## 66
+w: then  I  forbade  listen  best of the twice-born
+w: your  daughter’s  fit  not am  I  bridegroom
+tr: But I tried to dissuade him: ‘Listen, best of the twice-born: I am not a fit husband for your daughter.
+
+## 67
+w: where  you  learned  rich  most noble
+w: where  I  poor  ignorant  lowly  without family
+tr: You are learned, rich and of the noblest family; I am poor, ignorant and lowly, a man of no family. How can we compare?’
+
+## 68
+w: still  this  brāhmaṇa  to me  says  time  after time
+w: to you  daughter  I shall give  you  do  acceptance
+tr: Still this brāhmaṇa told me again and again, ‘I shall give you my daughter; you must accept her.’
+
+## 69
+w: then  I  said  listen  wise one
+w: your  of wife, son and kinsmen  not  will be  consent
+tr: Then I said, ‘Listen, wise sir: your wife, your son and your kinsmen will never consent.
+
+## 70
+w: daughter  to give  you will not be able  will be  false word
+w: again  says  the brāhmaṇa  making  effort
+tr: You will not be able to give her, and your word will turn out false.’ But the brāhmaṇa insisted once more:
+
+## 71
+w: daughter  to you  I shall give  hesitation  not  make  in heart
+w: own daughter  I shall give  who  can  forbid
+tr: ‘I shall give my daughter to you; have no doubt in your heart. It is my own daughter I am giving — who can forbid me?’
+
+## 72
+w: then  I  said  firm  making  mind
+w: Gopāla’s  before  say  these true  words
+tr: Then, with my mind made firm, I said, ‘Say these true words before Gopāla.’
+
+## 73
+w: then  he  Gopāla’s  before  said
+w: You  know  to this  brāhmaṇa  daughter  I  gave
+tr: So he declared before Gopāla, ‘You know it: I have given my daughter to this brāhmaṇa.’
+
+## 74
+w: then  I  Gopāla  witness  making
+w: said  at His  feet  bowed  being
+tr: Then I made Gopāla my witness, bowed down at His feet and said:
+
+## 75
+w: if  this  brāhmaṇa  to me  not  will give  the gift of a daughter
+w: as witness  I will call  You  be  ready
+tr: ‘If this brāhmaṇa does not give me his daughter, I shall call on You as my witness. Be ready for that.’
+
+## 76
+w: in this  word  witness  my  is  a great personage
+w: whose  word  true  taking  accept  the three worlds
+tr: So in this matter my witness is a great personage, whose word the three worlds accept as truth.”
+fn: *Anubhāṣya*: *mahājana* here means the Deity (*devatā*).
+
+## 77–78
+w: then  the elder brāhmaṇa  says  this  true  word
+w: Gopāla  if  witness  gives  Himself  coming  here
+w: then  daughter  will give  I  know  for certain
+w: his  son  says  this  good  word  is
+tr: Then the elder brāhmaṇa said, “Very well. If Gopāla comes here Himself and bears witness, then I will give my daughter — know this for certain.” His son said, “That is a fair arrangement.”
+
+## 79
+w: in the elder brāhmaṇa’s  mind  Kṛṣṇa  very  merciful
+w: surely  my  word  He  will make  proven
+tr: The elder brāhmaṇa thought, “Kṛṣṇa is most merciful. He will surely prove my words true.”
+
+## 80
+w: in the son’s  mind  an image  not  will come  witness  to give
+w: with this  thought  the two  being  in agreement
+tr: The son thought, “An image will never come to bear witness.” Each with his own thought, the two of them agreed.
+
+## 81
+w: the younger brāhmaṇa  says  a document  make  writing
+w: again  so that  not  be retracted  all these  words
+tr: The younger brāhmaṇa said, “Put it down in writing, so that these words cannot be taken back again.”
+
+## 82
+w: then  all  the people  gathering  document  indeed  wrote
+w: of both  consent  taking  with an arbiter  kept
+tr: Then all the people together wrote out the document, took the consent of both, and left it in the keeping of an arbiter.
+
+## 83
+w: then  the younger brāhmaṇa  says  listen  all people
+w: this  brāhmaṇa  truthful in speech  devoted to dharma
+tr: Then the younger brāhmaṇa said, “Listen, everyone: this brāhmaṇa is truthful and devoted to dharma.
+
+## 84
+w: own word  to abandon  his  not  ever  mind
+w: from fear of his family’s death  he speaks  false words
+tr: He never wished to go back on his word; he speaks falsely only because he fears his family will die.
+
+## 85
+w: by his  piety  Kṛṣṇa  bringing  as witness  I shall call
+w: then  this  brāhmaṇa’s  true promise  I shall keep
+tr: By the power of his piety I shall bring Kṛṣṇa here and call Him as witness, and so I shall keep this brāhmaṇa’s true promise.”
+
+## 86
+w: thus  hearing  atheistic  people  mockery  make
+w: some  say  God  merciful  to come even  He can
+tr: Hearing this, the atheists laughed, but some said, “God is merciful — He may well come.”
+fn: *Anubhāṣya*: they are atheists (*nāstika*) because they do not believe that Kṛṣṇa is the Supreme Lord who loves His devotees, and see in His arcā-vigraha only earthly matter.
+
+## 87
+w: then  that  younger brāhmaṇa  went  to Vṛndāvana
+w: prostration  making  tells  all  the account
+tr: Then the younger brāhmaṇa went to Vṛndāvana, bowed down flat before Gopāla and told Him everything in detail:
+
+## 88
+w: Lord of the brāhmaṇas  You  very  full of mercy
+w: of the two brāhmaṇas  dharma  protect  being  kind
+tr: “You are the Lord of the brāhmaṇas, and You are most merciful. Be kind and protect the dharma of two brāhmaṇas.
+
+## 89
+w: daughter  I shall get  in my  mind  in this  there is not  joy
+w: a brāhmaṇa’s  promise  is lost  this  great  sorrow
+tr: I take no joy in the thought that I shall get his daughter. What grieves me deeply is that a brāhmaṇa’s promise is being broken.
+fn: *Anubhāṣya*: the brāhmaṇa asks for testimony not so that he may marry and gratify his senses, but only to free Gopāla’s devotee, the elder brāhmaṇa, from the sin of a broken promise and to uphold his word.
+
+## 90
+w: thus  knowing  You  witness  give  merciful one
+w: knowing  witness  not  gives  his  sin  is
+tr: Knowing this, O merciful Lord, bear witness. One who knows the truth and does not bear witness incurs sin.”
+
+## 91
+w: Kṛṣṇa  says  brāhmaṇa  you  go  to your own home
+w: assembly  making  Me  you  do  remembrance
+tr: Kṛṣṇa said, “Brāhmaṇa, go back to your home. Call the people together, and then remember Me.
+
+## 92
+w: manifest  becoming  I  there  witness  shall give
+w: then  of the two  brāhmaṇas  true promise  I shall keep
+tr: I shall appear there and bear witness, and so I shall keep the true promise of both brāhmaṇas.”
+
+## 93
+w: the brāhmaṇa  says  if  You become  a four-armed form
+w: still  Your  words  to anyone  not  will be  belief
+tr: The brāhmaṇa said, “Even if You appear in a four-armed form, no one will believe Your words.
+
+## 94
+w: this  form  going  if  with this  holy mouth
+w: witness  You give  if  then  all people  hear
+tr: But if You go in this very form and bear witness with these very lips, then everyone will listen.”
+
+## 95
+w: Kṛṣṇa  says  an image  walks  anywhere  not  I hear
+w: the brāhmaṇa  says  an image  being  You speak  why  words
+tr: Kṛṣṇa said, “Who has ever heard of an image walking?” The brāhmaṇa replied, “Then why do You speak, if You are an image?
+fn: *Anubhāṣya* (on 95–96): the Lord asked this to test the brāhmaṇa and to clear him of any suspicion of being an idolater (*pauttalika*), one who sees in Viṣṇu’s arcā-vigraha stone and wood; and the brāhmaṇa answered as a true devotee who believes that Viṣṇu is God, the Lord of all lords.
+
+## 96
+w: an image  not are  You  directly  the son of the king of Vraja
+w: a brāhmaṇa  for the sake of  do  You  of the undoable  the doing
+tr: You are no image — You are the son of the king of Vraja Himself. For a brāhmaṇa’s sake You do even what You would never otherwise do.”
+fn: *Amṛta-pravāha-bhāṣya*: for a brāhmaṇa’s good You do all that it would not befit You to do.
+
+## 97
+w: smiling  Gopāla  says  listen  brāhmaṇa
+w: you  behind  behind  I  shall make  going
+tr: Gopāla smiled and said, “Listen, brāhmaṇa: I shall walk behind you.
+
+## 98
+w: turning round  Me  not  do  looking
+w: Me  if you see  I  shall stay  that  place
+tr: Do not turn round to look at Me. If you see Me, I shall stay on that very spot.
+
+## 99
+w: of the ankle bells  only the sound  My  you will hear
+w: by that  sound  My  going  assurance  you will make
+tr: You will hear only the sound of My ankle bells, and by that sound you will know that I am following.
+
+## 100
+w: one  ser  rice  cooking  make  offering
+w: that  eating  you  with  I shall make  going
+tr: Cook one *ser* of rice each day and offer it to Me. I shall eat it and walk on with you.”
+
+## 101
+w: next  day  permission  begging  set out  the brāhmaṇa
+w: him  behind  behind  Gopāla  made  going
+tr: The next day the brāhmaṇa took his leave and set out, and Gopāla walked behind him.
+
+## 102
+w: of the ankle bells  the sound  hearing  joyful  his heart
+w: the finest rice  cooking  making  he makes Him eat
+tr: As he heard the sound of the ankle bells, his heart was full of joy, and he cooked the finest rice and fed Him.
+
+## 103
+w: in this way  walking  the brāhmaṇa  to his own country  came
+w: the village  near  coming  in mind  he thought
+tr: Travelling like this, the brāhmaṇa reached his own country, and as he drew near his village he thought:
+
+## 104
+w: now  I  to the village  have come  I shall go  home
+w: to the people  I shall tell  going  of the witness  the coming
+tr: “Now I have come to the village. I shall go home and tell the people that the witness has come.
+fn: The Bengali text follows the edition (p. 377, checked under magnification): সাক্ষির আগমন (previously আগমনে), rhyming with ভবন.
+
+## 105
+w: with their own eyes  not  if they see  in mind  belief  not  is
+w: here  if  He stays  still  any  not  fear
+tr: Unless they see Him with their own eyes, they will not believe. Even if He stays here, there is nothing to fear.”
+
+## 106
+w: thus  thinking  that  brāhmaṇa  turning round  looked
+w: smiling  Gopāladeva  there  stayed
+tr: With this thought the brāhmaṇa turned round and looked, and Gopāladeva, smiling, stayed right there.
+
+## 107
+w: to the brāhmaṇa  says  you  go  own home
+w: here  shall stay  I  not  shall go  further
+tr: He said to the brāhmaṇa, “Go home now. I shall stay here; I shall go no further.”
+
+## 108
+w: then  that  brāhmaṇa  going  in the town  told
+w: hearing  all  people  astonished  became
+tr: Then the brāhmaṇa went and told the people in the town, and everyone who heard it was astonished.
+
+## 109
+w: came  all  people  the witness  to see
+w: Gopāla  seeing  the people  prostration  make
+tr: All the people came to see the witness, and when they saw Gopāla they fell flat in obeisance.
+
+## 110
+w: Gopāla’s beauty  seeing  the people  joyful
+w: the Deity  walking  came  hearing  amazed
+tr: The people rejoiced to see Gopāla’s beauty, and they were amazed to hear that the Deity had come walking.
+
+## 111
+w: then  that  elder  brāhmaṇa  joyful  being
+w: Gopāla’s  before  falls  prostrate  being
+tr: Then the elder brāhmaṇa, overjoyed, fell flat before Gopāla in obeisance.
+
+## 112
+w: all  the people’s  before  Gopāla  witness  gave
+w: the elder brāhmaṇa  to the younger brāhmaṇa  gift of his daughter  made
+tr: Before all the people Gopāla bore witness, and the elder brāhmaṇa gave his daughter in marriage to the younger.
+
+## 113
+w: then  those  two  to the brāhmaṇas  said  the Lord
+w: you two  birth after birth  My  servants
+tr: Then the Lord said to the two brāhmaṇas, “Birth after birth, you two are My servants.
+
+## 114
+w: of both  with the truthfulness  pleased  I have become  both  ask  a boon
+w: two  brāhmaṇas  a boon  ask  joyful at heart
+tr: I am pleased with the truthfulness of you both. Ask Me for a boon.” Their hearts full of joy, the two brāhmaṇas asked:
+
+## 115
+w: if  a boon  You will give  then  stay  this  place
+w: to servants  mercy  Your  all people  know
+tr: “If You will grant us a boon, then stay in this place, so that all the world may know Your mercy to Your servants.”
+
+## 116
+w: Gopāla  stayed  both  do  service
+w: to see  came  all  of the land  people
+tr: Gopāla stayed, and the two of them served Him. People came from all over the land to see Him.
+
+## 117
+w: of that  land  the king  came  of the wonder  hearing
+w: supreme  satisfaction  got  Gopāla  seeing
+tr: Hearing of this wonder, the king of that land came, and he was supremely pleased to see Gopāla.
+fn: Heading in the edition: “The story of Śrī Gopāla and Puruṣottama, king of Utkala”.
+
+## 118
+w: temple  making  the king  service  set going
+w: Sākṣi-gopāla  calling  His  name  fame  became
+tr: The king built a temple and established His worship, and the Lord became famous by the name Sākṣi-gopāla.
+
+## 119
+w: in this way  in Vidyānagara  Sākṣi-gopāla
+w: service  acceptance  making  remains  for a long time
+tr: So Sākṣi-gopāla remained in Vidyānagara for a long time, accepting the service of His devotees.
+fn: *Anubhāṣya*: Vidyānagara was a provincial capital of the Orissan kingdom in the region called Koṭadeśa, where the Godāvarī meets the Bay of Bengal; the town stood on the south bank of the Godāvarī, twenty to twenty-five miles south-east of Rājamahendrī. The former king of Utkala, Puruṣottama, brought it under his rule; in Pratāparudra’s time Rāmānanda Rāya governed it. Vijayanagara (Vizianagaram) is not this Vidyānagara.
+
+## 120
+w: of Utkala  the king  Śrī Puruṣottama by name
+w: that  land  conquering  took  making  war
+tr: The king of Utkala, named Śrī Puruṣottama, made war on that land and conquered it.
+
+## 121
+w: that  king  conquering  took  his  throne
+w: Māṇikya-siṁhāsana  named  many  jewels
+tr: The victorious king also took that king’s throne, called the Māṇikya-siṁhāsana, which was set with many jewels.
+
+## 122
+w: Puruṣottama-deva  that  great  devotee  noble
+w: at Gopāla’s feet  begs  come  my  kingdom
+tr: That Puruṣottama-deva was a great and noble devotee. At Gopāla’s feet he prayed, “Come to my kingdom.”
+
+## 123
+w: his  by devotion won over  Gopāla  to him  consent  gave
+w: Gopāla  taking  he  to Kaṭaka  came
+tr: Won over by his devotion, Gopāla gave His consent, and the king brought Gopāla to Kaṭaka.
+
+## 124
+w: to Jagannātha  bringing  gave  the Māṇikya-siṁhāsana
+w: in Kaṭaka  Gopāla’s service  made  establishment
+tr: He brought the Māṇikya-siṁhāsana and presented it to Jagannātha, and in Kaṭaka he established the worship of Gopāla.
+
+## 125
+w: his  queen  came  to see Gopāla
+w: devotion  with  many  ornaments  made  offering
+tr: His queen came to see Gopāla, and with devotion she offered Him many ornaments.
+fn: Heading in the edition: “The story of Śrī Gopāla and the queen”.
+
+## 126
+w: her  in the nose  very costly  pearl  is
+w: that  to give  desire  arose  in mind  she thinks
+tr: In her nose she wore a very costly pearl, and she wished to give it to Him. She thought:
+
+## 127
+w: the Deity’s  in the nose  if  a hole  there were
+w: then  this  maidservant  pearl  in the nose  would put
+tr: “If only there were a hole in the Deity’s nose, this maidservant of His could put the pearl in it.”
+
+## 128
+w: thus  thinking  bowing down  went  to her own home
+w: at the end of the night  Gopāla  to her  speaks  in a dream
+tr: With this thought she bowed down and went home. At the end of the night Gopāla spoke to her in a dream:
+
+## 129
+w: in childhood  mother  My  nose  hole  making
+w: pearl  had put in  great  care  taking
+tr: “When I was a child, My mother pierced My nose and with great care put a pearl in it.
+
+## 130
+w: that  hole  even now  is  in the nose
+w: that  pearl  put in  which  you wanted  to give
+tr: That hole is still there in My nose. Put in it the pearl you wished to give Me.”
+
+## 131
+w: in a dream  seeing  that  queen  to the king  told
+w: with the king  pearl  taking  to the temple  came
+tr: The queen told the king what she had seen in her dream, and she came to the temple with the king, bringing the pearl.
+
+## 132
+w: put in  pearl  in the nose  hole  seeing
+w: great festival  made  joyful  being
+tr: Seeing the hole, they put the pearl in His nose, and in their joy they held a great festival.
+
+## 133
+w: from that  time  Gopāla’s  in Kaṭaka  residence
+w: for this reason  Sākṣi-gopāla  name  became  famous
+tr: From that time Gopāla has resided in Kaṭaka, and this is how the name Sākṣi-gopāla became famous.
+
+## 134
+w: from Nityānanda’s lips  hearing  Gopāla’s story
+w: pleased  became  Mahāprabhu  with His own devotees
+tr: Hearing the story of Gopāla from Nityānanda’s lips, Mahāprabhu and His devotees were delighted.
+
+## 135
+w: Gopāla’s  before  when  the Lord’s  is  standing
+w: the devotees  see  as if  both  one form
+tr: When the Lord stood before Gopāla, the devotees saw the two of Them as though They were one and the same form.
+fn: Heading in the edition: “Seeing the Lord beside Gopāla, the devotees see Them as one”.
+
+## 136
+w: both  one  colour  both  of massive body
+w: both  in red garments  of both  the nature  grave
+tr: Both were of one colour, and both had large, majestic bodies; both wore red cloth, and both were grave by nature.
+
+## 137
+w: full of great radiance  both  lotus-eyed
+w: of both  absorption in ecstasy  both  moon-faced
+tr: Both shone with great radiance and had lotus eyes; both were absorbed in ecstasy, and both had faces like the moon.
+
+## 138
+w: both  seeing  Nityānanda Prabhu  in great delight
+w: signs  making  laughs  with the devotees
+tr: Seeing the two of Them, Nityānanda Prabhu, in great delight, exchanged knowing glances with the devotees and laughed.
+fn: Heading in the edition: “Seeing this, Nitāi laughs merrily with the devotees”.
+
+## 139
+w: in this way  in great delight  that  night  passing
+w: in the morning  set out  maṅgala-ārati  seeing
+tr: So they passed that night in great delight, and in the morning, after seeing the *maṅgala-ārati*, the Lord set out.
+
+## 140
+w: on the way to Bhuvaneśvara  as  made  seeing
+w: in detail  has described  Vṛndāvana dāsa
+tr: What the Lord saw on the way to Bhuvaneśvara, Vṛndāvana dāsa has described in detail.
+fn: Heading in the edition: “The darśana of Bhuvaneśvara and the rest are described in the *Caitanya-bhāgavata*”. *Anubhāṣya*: *Caitanya-bhāgavata*, Antya 2 — the Lord came to Bhuvaneśvara, Gupta-kāśī, where Śiva dwells, and bathed in the lake Bindu-sarovara, which Śiva created by bringing the water of all the holy places drop by drop. *Amṛta-pravāha-bhāṣya*: from Bālakāṭi on the royal road out of Kaṭaka to Bhuvaneśvara is two or three *krośas*.
+
+## 141
+w: to Kamalapura  coming  bath in the river Bhārgī  did
+w: in Nityānanda’s hands  the Lord  staff  placed
+tr: Coming to Kamalapura, the Lord bathed in the river Bhārgī, leaving His staff in Nityānanda’s hands.
+fn: *Amṛta-pravāha-bhāṣya*: the river Bhārgī is now known as the Daṇḍabhāṅgā (“the Broken Staff”); it lies three *krośas* north of Purī.
+
+## 142
+w: Kapoteśvara  to see  went  devotees  with
+w: here  Nityānanda Prabhu  made  staff-breaking
+tr: He went with the devotees to see Kapoteśvara, and meanwhile Nityānanda Prabhu broke the staff.
+fn: Heading in the edition: “The Lord goes to see Kapoteśvara, and Nitāi secretly breaks His staff”. *Anubhāṣya*: Kapoteśvara is a Śiva-liṅga.
+
+## 143
+w: three  pieces  making  staff  gave  floating
+w: with the devotees  came  the Lord  Maheśa  seeing
+tr: He broke the staff into three pieces and threw them into the river. Then the Lord returned with the devotees from seeing Maheśa.
+fn: *Anubhāṣya*: Śrī Gaurasundara had accepted *eka-daṇḍa sannyāsa* at Kāṭoyā in the Bhāratī line, which descends from Śaṅkara. At the stages of *kuṭīcaka* and *bahūdaka* the staff is to be kept; at the stages of *haṁsa* and *paramahaṁsa* it is given up. Gaurahari is the Lord of the fourteen worlds and has no need, like other *sannyāsīs*, to display a lower stage; knowing this, Nityānanda broke the staff and threw it into the Bhārgī.
+
+## 144
+w: of Jagannātha  the temple  seeing  overwhelmed  became
+w: prostration  making  in love  to dance  began
+tr: When He saw the temple of Jagannātha, He was overwhelmed. He bowed down flat, and in love He began to dance.
+fn: Heading in the edition: “Seeing the temple at Purī, the Lord, pained by separation from Kṛṣṇa, dances, overwhelmed”. *Anubhāṣya*: the temple (*deula*) is the present temple of Śrī Jagannātha, built by King Anaṅgabhīma.
+
+## 145
+w: the devotees  overwhelmed  being  all  dance  sing
+w: absorbed in love  with the Lord  on the royal road  go
+tr: The devotees too were overwhelmed, and they all danced and sang; absorbed in love, they went along the royal road with the Lord.
+
+## 146
+w: laughs  weeps  dances  the Lord  roaring  thundering
+w: three  krośa  road  became  a thousand yojanas
+tr: The Lord laughed, wept and danced, roaring and thundering. For Him the road of three *krośas* became a thousand *yojanas*.
+fn: *Anubhāṣya*: in intense separation a moment seems an age; so the road of three *krośas* seemed to Mahāprabhu a thousand *yojanas*.
+
+## 147
+w: walking  walking  the Lord  came  Āṭhāranālā
+w: there  coming  the Lord  some  outward awareness  showed
+tr: Walking on and on, the Lord came to Āṭhāranālā, and there He regained some outward awareness.
+fn: *Amṛta-pravāha-bhāṣya*: Āṭhāranālā is the bridge of eighteen arches at the entrance to the town of Purī.
+
+## 148
+w: to Nityānanda  says  the Lord  give  My  staff
+w: Nityānanda  says  staff  became  three  pieces
+tr: The Lord said to Nityānanda, “Give Me My staff.” Nityānanda said, “Your staff has broken into three pieces.
+
+## 149
+w: absorbed in love  fell  You  You  I caught
+w: You  with  sideways  staff  upon  I fell
+tr: Overwhelmed by love, You fell, and I caught You. Then I fell sideways with You onto the staff.
+fn: Heading in the edition: “Nitāi’s cleverness: He reports that the staff is broken”.
+
+## 150
+w: of the two  by the weight  staff  piece  piece  became
+w: that  staff  where  fell  anything  not  I knew
+tr: Under the weight of the two of Us the staff broke into pieces. Where it fell, I do not know.
+fn: The Gauḍīya Maṭha edition reads সেই দণ্ড কাঁহা পড়িল (“where that staff fell”); another reading is সেই খণ্ড (“those pieces”).
+
+## 151
+w: by My  offence  Your  staff  became  broken
+w: what  fitting  is  Me  do  that  punishment
+tr: Your staff has been broken through My offence. Punish Me as You see fit.”
+
+## 152
+w: hearing  somewhat  Mahāprabhu  sorrow  showed
+w: slight  anger  making  something  to say  began
+tr: Hearing this, Mahāprabhu showed a little sorrow, and with slight anger He said:
+fn: *Anubhāṣya*: Nityānanda knew that Mahāprabhu had no need of the staff of a *sannyāsa* taken by rule (*vaidha-sannyāsa*), and relieved Him of it. The Lord showed anger for the people’s sake: if the staff were given up in this way, the Vedic rules would slacken, and some, following the conduct of the great, would mistake a lawless life for the path of *anurāga* and neglect the path of rules favourable to bhakti.
+
+## 153
+w: to Nīlācala  coming  My  all  good  did
+w: only  the wealth of a staff  was  that  not  kept
+tr: “You have all done Me a fine service on the way to Nīlācala! My only wealth was My staff, and you did not even keep that safe.
+
+## 154
+w: you all  ahead  go  the Lord  to see
+w: or  I  ahead  go  not  shall go  together
+tr: Either all of you go ahead to see the Lord, or I go ahead; I will not go together with you.”
+fn: Heading in the edition: “The Lord expresses His wish to go alone to see Jagannātha”.
+
+## 155
+w: Mukunda  Datta  says  Lord  You  go  ahead
+w: we all  behind  shall go  not  shall go  You  with
+tr: Mukunda Datta said, “Lord, You go ahead. We shall all follow behind; we shall not go with You.”
+
+## 156
+w: thus  hearing  the Lord  ahead  went  with swift steps
+w: to understand  not  can  anyone  of the two  Lords  the minds
+tr: Hearing this, the Lord went on ahead with swift steps. No one can understand the minds of the two Lords.
+
+## 157
+w: this One  why  staff  breaks  that One  why  lets break
+w: having let break  in anger  that One  this One  blames
+tr: Why does the One break the staff? Why does the Other let Him break it? And having let Him break it, why does He blame Him in anger?
+
+## 158
+w: the staff-breaking pastime  this  supremely  profound
+w: he  understands  of both  at the feet  whose  devotion  steady
+tr: This pastime of the breaking of the staff is profound indeed. Only one whose devotion to the feet of both is steadfast can understand it.
+fn: *Anubhāṣya*: only those who have truly, firmly and calmly understood Śrī Caitanya and Nityānanda will grasp this pastime. Mahāprabhu accepts that a *sādhaka* following the path of the great souls needs *sannyāsa* by rule, and takes the staff to teach the world; Nityānanda knew that at the highest, *paramahaṁsa* stage the staff is not needed, and so that people would not mistake Mahāprabhu for a *sannyāsī* of a lower stage, He made Him give it up, showing the example of the very highest stage.
+
+## 159
+w: of Gopāla, the Lord of the brāhmaṇas  glory  this  blessed
+w: Nityānanda  narrator  of which  listener  Śrī Caitanya
+tr: Blessed is this glory of Gopāla, the Lord of the brāhmaṇas: Nityānanda was its narrator, and Śrī Caitanya its listener.
+fn: Heading in the edition: “Narrator and listener are both Bhagavān; therefore the story of Sākṣi-gopāla is not of this world”. *Anubhāṣya*: Śrī Gopāla’s form is the eternally true vigraha; He is Truth itself and, overriding worldly laws, always upholds the honour of truth; truthfulness is especially needed in a brāhmaṇa’s life; Kṛṣṇa Himself both establishes brahminhood and is subdued by it, so brahminhood that has taken shelter of Kṛṣṇa is not mundane.
+
+## 160
+w: with faith  endowed  being  this  hears  which  person
+w: soon  attains  him  Gopāla’s feet
+tr: Whoever hears this with faith will very soon attain the feet of Gopāla.
+fn: Heading in the edition: “The faithful listener attains the feet of Śrī Kṛṣṇa”.
+
+## 161
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
