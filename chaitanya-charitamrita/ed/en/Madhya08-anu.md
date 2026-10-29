@@ -106,7 +106,7 @@ The words of Mahārāja Nanda to the great sage Garga, who had come to his house
 
 > Subheading: Through His own humility and praise of Rāya, the Lord tries to conceal Himself —
 
-**The marks of a *mahā-bhāgavata*.** On the path of *arcana*, as the *Padma Purāṇa* says: “A brāhmaṇa who has received the five *saṁskāras* beginning with *tāpa*, who performs the ninefold worship, and who knows the five meanings (*artha-pañcaka*) is the best of *mahā-bhāgavatas*.” On the path of *bhāva*, as the *Bhāgavata* says: “He who sees in all beings the love for Bhagavān that lives in his own soul, and sees all beings in Bhagavān, the Soul of all, is the best of *bhāgavatas*.” (*Śrīmad-Bhāgavatam* 11.2.45)
+**The marks of a *mahā-bhāgavata*.** On the path of *arcana*, as the *Padma Purāṇa* says: “A brāhmaṇa who has received the five *saṁskāras* beginning with *tāpa*, who performs the ninefold worship, and who knows the five meanings (*artha-pañcaka*) is the best of *mahā-bhāgavatas*.” On the path of *bhāva*, as the *Bhāgavata* says: “He who sees in all beings the love for Bhagavān that lives in his own soul, and sees all beings in Bhagavān, the Soul of all, is the best of *bhāgavatas*.”[^44-1]
 
 ## 47
 
@@ -194,7 +194,7 @@ The words of Śrī Bhagavān answering Uddhava, who wished to know the marks of 
 
 > Subheading: (4) Devotion mixed with knowledge is not pure devotion —
 
-In the realization of a *jīva* who has risen above *karma*, his “I” (*asmitā*) abides in the river Virajā beyond the universe. There the three *guṇas* do not predominate: there is only equilibrium, the unmanifest state. Between Vaikuṇṭha, manifested by the internal potency, and the universe, manifested by the external potency, lie Brahmaloka and the river Virajā. These two places are the shelter of the realization of *jīvas* who are detached from matter and know only material featurelessness. They are not Vaikuṇṭha and lie outside it, and so they are external. A *sādhaka* within the universe who has given up all *dharmas* has no experience of Vaikuṇṭha or Goloka. Therefore such an inclination toward the goal, though it has given up material enjoyment, establishes only the featurelessness of the nonconscious (*acit-nirviśeṣatva*), and so it too is external. Rāmānanda then understood this mood to be an external conception of the goal and cited the evidence that the goal higher than it is devotion mixed with knowledge.
+In the realization of a *jīva* who has risen above *karma*, his “I” (*asmitā*) abides in the river Virajā beyond the universe. There the three *guṇas* do not predominate: there is only equilibrium, the unmanifest state. Between Vaikuṇṭha, manifested by the internal potency, and the universe, manifested by the external potency, lie Brahmaloka and the river Virajā. These two places are the shelter of the realization of *jīvas* who are detached from matter and know only material featurelessness. They are not Vaikuṇṭha and lie outside it, and so they are external. A *sādhaka* within the universe who has given up all *dharmas* has no experience of Vaikuṇṭha or Goloka. Therefore such an inclination toward the goal, though it has given up material enjoyment, establishes only a nonspiritual featurelessness (*acit-nirviśeṣatva*), and so it too is external. Rāmānanda then understood this mood to be an external conception of the goal and cited the evidence that the goal higher than it is devotion mixed with knowledge.
 
 ## 65
 
@@ -369,6 +369,8 @@ Secondly, in this world one sees “a blind boy named Padmalocana” (“lotus-e
 See Ādi 4.177–180.
 
 ---
+
+[^44-1]: *Śrīmad-Bhāgavatam* 11.2.45.
 
 [^63-1]: *Manaḥ-śikṣā* 2.
 
