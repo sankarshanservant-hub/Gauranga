@@ -2770,113 +2770,141 @@ of the devotees of Kṛṣṇa  the company  except  good  there is not  other
 কৃষ্ণ-নাম-গুণ-লীলা — প্রধান স্মরণ ॥ ২৫১ ॥
 
 kāṅhāra smaraṇa jīva karibe anukṣaṇa?  
-kṛṣṇa-nāma-guṇa-līlā — pradhāna smaraṇa
+of whom  remembrance  the jīva  should do  at every moment  
+kṛṣṇa-nāma-guṇa-līlā — pradhāna smaraṇa  
+of Kṛṣṇa’s  name  qualities  pastimes  the chief  remembrance
 
-(251) [not yet translated]
+(251) “Whom should a *jīva* remember at every moment?” “Remembering Kṛṣṇa’s name, qualities and pastimes is the chief remembrance.”
 
 ধ্যেয়-মধ্যে জীবের কর্ত্তব্য কোন্ ধ্যান ?  
 রাধাকৃষ্ণপদাম্বুজ-ধ্যান — প্রধান ॥ ২৫২ ॥
 
 dhyeya-madhye jīvera kartavya kon dhyāna?  
-rādhā-kṛṣṇa-padāmbuja-dhyāna — pradhāna
+among objects of meditation  of the jīva  the duty  which  meditation  
+rādhā-kṛṣṇa-padāmbuja-dhyāna — pradhāna  
+of Rādhā and Kṛṣṇa  on the lotus feet  meditation  the chief
 
-(252) [not yet translated]
+(252) “Among all objects of meditation, on what should a *jīva* meditate?” “Meditation on the lotus feet of Rādhā and Kṛṣṇa is the chief.”
 
 সর্ব্ব ত্যজি’ জীবের কর্ত্তব্য কাঁহা বাস ?  
 শ্রীবৃন্দাবনভূমি — যাঁহা নিত্য-লীলারাস ॥ ২৫৩ ॥
 
 sarva tyaji’ jīvera kartavya kāṅhā vāsa?  
-śrī vṛndāvana-bhūmi — yāṅhā nitya-līlā-rāsa
+everything  giving up  of the jīva  the duty  where  to live  
+śrī vṛndāvana-bhūmi — yāṅhā nitya-līlā-rāsa  
+Śrī  Vṛndāvana  the land  where  eternal  pastime  rāsa
 
-(253) [not yet translated]
+(253) “Giving up everything, where should a *jīva* live?” “In the land of Śrī Vṛndāvana, where the *rāsa* pastime goes on eternally.”
 
 শ্রবণমধ্যে জীবের কোন্ শ্রেষ্ঠ শ্রবণ ?  
 রাধাকৃষ্ণ-প্রেমলীলা কর্ণ-রসায়ন ॥ ২৫৪ ॥
 
 śravaṇa-madhye jīvera kon śreṣṭha śravaṇa?  
-rādhā-kṛṣṇa-prema-līlā karṇa-rasāyana
+among things heard  of the jīva  which  best  hearing  
+rādhā-kṛṣṇa-prema-līlā karṇa-rasāyana  
+of Rādhā and Kṛṣṇa  the pastimes of love  for the ears  an elixir
 
-(254) [not yet translated]
+(254) “Of all things to hear, what is best for a *jīva* to hear?” “The pastimes of the love of Rādhā and Kṛṣṇa, an elixir for the ears.”
 
 উপাস্যের মধ্যে কোন্ উপাস্য প্রধান ?  
 শ্রেষ্ঠ উপাস্য — যুগল ‘রাধা-কৃষ্ণ’ নাম ॥ ২৫৫ ॥
 
 upāsyera madhye kon upāsya pradhāna?  
-śreṣṭha upāsya — yugala ‘rādhā-kṛṣṇa’ nāma
+among the objects of worship  which  object of worship  the chief  
+śreṣṭha upāsya — yugala ‘rādhā-kṛṣṇa’ nāma  
+the best  object of worship  the couple  Rādhā-Kṛṣṇa  the name
 
-(255) [not yet translated]
+(255) “Of all objects of worship, which is the chief?” “The best object of worship is the name of the Divine Couple, ‘Rādhā-Kṛṣṇa.’”
 
 মুক্তি ভুক্তি, বাঞ্ছে যেই, কাঁহা দুঁহার গতি ?  
 স্থাবরদেহ, দেবদেহ, যৈছে অবস্থিতি ॥ ২৫৬ ॥
 
-mukti, bhukti vāñche yei, kāṅhā duṅhāra gati?  
-sthāvara-deha, deva-deha yaiche avasthiti
+mukti bhukti, vāñche yei, kāṅhā duṅhāra gati?  
+liberation  enjoyment  desires  who  where  of the two  the destination  
+sthāvara-deha, deva-deha, yaiche avasthiti  
+an immobile body  a body of a god  so  the condition
 
-(256) [not yet translated]
+(256) “Those who desire liberation and those who desire enjoyment — where do the two of them go?” “They end up in an immobile body and in the body of a god.
 
 অরসজ্ঞ কাক চুষে জ্ঞান-নিম্বফলে ৷  
 রসজ্ঞ কোকিল খায় প্রেমাম্র-মুকুলে ॥ ২৫৭ ॥
 
-arasa-jña kāka cūṣe jñāna-nimba-phale  
-rasa-jña kokila khāya premāmra-mukule
+arasa-jña kāka cuṣe jñāna-nimba-phale  
+ignorant of taste  the crow  sucks  of knowledge  of the nimba  the fruit  
+rasa-jña kokila khāya premāmra-mukule  
+knowing taste  the cuckoo  eats  of love  of the mango  the buds
 
-(257) [not yet translated]
+(257) The crow that knows no taste sucks the bitter nimba fruit of *jñāna*, while the cuckoo that knows *rasa* eats the mango buds of *prema*.
 
 অভাগিয়া জ্ঞানী আস্বাদয়ে শুষ্ক জ্ঞান ৷  
 কৃষ্ণ-প্রেমামৃত পান করে ভাগ্যবান্ ॥ ২৫৮ ॥
 
 abhāgiyā jñānī āsvādaye śuṣka jñāna  
-kṛṣṇa-premāmṛta pāna kare bhāgyavān
+unfortunate  the jñānī  tastes  dry  knowledge  
+kṛṣṇa-premāmṛta pāna kare bhāgyavān  
+of love for Kṛṣṇa  the nectar  drinking  does  the fortunate
 
-(258) [not yet translated]
+(258) The unfortunate *jñānī* tastes dry knowledge, while the fortunate one drinks the nectar of love for Kṛṣṇa.”
 
 এইমত দুই জন কৃষ্ণকথা-রসে ৷  
 নৃত্য-গীত-রোদনে হৈল রাত্রি-শেষে ॥ ২৫৯ ॥
 
 ei-mata dui-jana kṛṣṇa-kathā-rase  
-nṛtya-gīta-rodane haila rātri-śeṣe
+in this way  the two  of talks about Kṛṣṇa  in the rasa  
+nṛtya-gīta-rodane haila rātri-śeṣe  
+in dancing  singing  weeping  came  of the night  the end
 
-(259) [not yet translated]
+(259) In this way the two of them, immersed in the *rasa* of talks about Kṛṣṇa, danced, sang and wept until the night came to an end.
 
 দোঁহে নিজ-নিজ-কার্য্যে চলিলা বিহানে ৷  
 সন্ধ্যাকালে রায় আসি’ মিলিলা আর দিনে ॥ ২৬০ ॥
 
 doṅhe nija-nija-kārye calilā vihāne  
-sandhyā-kāle rāya āsi’ mililā āra dine
+both  to their own  duties  went  in the morning  
+sandhyā-kāle rāya āsi’ mililā āra dine  
+in the evening  Rāya  coming  met  on the next  day
 
-(260) [not yet translated]
+(260) In the morning both went about their duties, and the next day, in the evening, Rāya came and met the Lord again.
 
 ইষ্ট-গোষ্ঠী কৃষ্ণকথা কহি’ কতক্ষণ ৷  
 প্রভুপদ ধরি’ রায় করে নিবেদন ॥ ২৬১ ॥
 
 iṣṭa-goṣṭhī kṛṣṇa-kathā kahi’ kata-kṣaṇa  
-prabhu-pada dhari’ rāya kare nivedana
+intimate discussion  talks of Kṛṣṇa  speaking  for some time  
+prabhu-pada dhari’ rāya kare nivedana  
+the Lord’s  feet  clasping  Rāya  makes  an appeal
 
-(261) [not yet translated]
+(261) After they had talked intimately of Kṛṣṇa for some time, Rāya clasped the Lord’s feet and made an appeal:
 
 ‘কৃষ্ণতত্ত্ব’, ‘রাধাতত্ত্ব’, ‘প্রেমতত্ত্বসার’ ৷  
 ‘রসতত্ত্ব’, ‘লীলাতত্ত্ব’ বিবিধ প্রকার ॥ ২৬২ ॥
 
 ‘kṛṣṇa-tattva’, ‘rādhā-tattva’, ‘prema-tattva-sāra’  
-‘rasa-tattva’ ‘līlā-tattva’ vividha prakāra
+of Kṛṣṇa  the truth  of Rādhā  the truth  of prema  of the truth  the essence  
+‘rasa-tattva’, ‘līlā-tattva’ vividha prakāra  
+of rasa  the truth  of līlā  the truth  various  kinds
 
-(262) [not yet translated]
+(262) “The truth of Kṛṣṇa, the truth of Rādhā, the essence of the truth of *prema*, the truth of *rasa*, the truth of *līlā* in all its variety —
 
 এত তত্ত্ব মোর চিত্তে কৈলে প্রকাশন ৷  
 ব্রহ্মাকে বেদ যেন পড়াইল নারায়ণ ॥ ২৬৩ ॥
 
 eta tattva mora citte kaile prakāśana  
-brahmāke veda yena paḍāila nārāyaṇa
+so many  truths  in my  heart  You have made  manifest  
+brahmāke veda yena paḍāila nārāyaṇa  
+to Brahmā  the Veda  as  taught  Nārāyaṇa
 
-(263) [not yet translated]
+(263) all these truths You have revealed in my heart, just as Nārāyaṇa taught the Veda to Brahmā.
 
 অন্তর্য্যামী ঈশ্বরের এই রীতি হয়ে ৷  
 বাহিরে না কহে, বস্তু প্রকাশে হৃদয়ে ॥ ২৬৪ ॥
 
 antaryāmī īśvarera ei rīti haye  
-bāhire nā kahe, vastu prakāśe hṛdaye
+the indwelling  of the Lord  this  the way  is  
+bāhire nā kahe, vastu prakāśe hṛdaye  
+outwardly  not  He speaks  the reality  reveals  in the heart
 
-(264) [not yet translated]
+(264) Such is the way of the Lord who dwells within: He does not speak outwardly, but reveals the truth in the heart.
 
 জন্মাদ্যস্য যতোঽন্বয়াদিতরতশ্চার্থেষ্বভিজ্ঞঃ স্বরাট্  
 তেনে ব্রহ্ম হৃদা য আদিকবয়ে মুহ্যন্তি যৎ সূরয়ঃ ৷  
@@ -2884,85 +2912,109 @@ bāhire nā kahe, vastu prakāśe hṛdaye
 ধাম্না স্বেন সদা নিরস্তকুহকং সত্যং পরং ধীমহি ॥ ২৬৫ ॥
 
 janmādy asya yato ’nvayād itarataś cārtheṣv abhijñaḥ sva-rāṭ  
+birth and so on  of this  from whom  directly  indirectly  and  in all purposes  fully aware  self-luminous  
 tene brahma hṛdā ya ādi-kavaye muhyanti yat sūrayaḥ  
+revealed  the Veda  through the heart  who  to the first poet  are bewildered  about whom  the wise  
 tejo-vāri-mṛdāṁ yathā vinimayo yatra tri-sargo ’mṛṣā  
-dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi
+of fire  water  earth  as  the interchange  in whom  the threefold creation  real  
+dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi  
+by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 
-(265) [not yet translated]
+(265) “Let us meditate on the Supreme Truth, from whom the birth and so on of this universe proceed, directly and indirectly; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam 1.1.1)
 
 এক সংশয় মোর আছয়ে হৃদয়ে ৷  
 কৃপা করি’ কহ মোরে তাহার নিশ্চয়ে ॥ ২৬৬ ॥
 
 eka saṁśaya mora āchaye hṛdaye  
-kṛpā kari’ kaha more tāhāra niścaye
+one  doubt  my  there is  in the heart  
+kṛpā kari’ kaha more tāhāra niścaye  
+mercy  showing  tell  me  of it  the resolution
 
-(266) [not yet translated]
+(266) Yet one doubt remains in my heart. Be merciful and resolve it for me.
 
 পহিলে দেখিলুঁ তোমার সন্ন্যাসী-স্বরূপ ৷  
 এবে তোমা দেখি মুঞি শ্যাম-গোপরূপ ॥ ২৬৭ ॥
 
 pahile dekhiluṅ tomāra sannyāsī-svarūpa  
-ebe tomā dekhi muñi śyāma-gopa-rūpa
+at first  I saw  Your  sannyāsī  form  
+ebe tomā dekhi muñi śyāma-gopa-rūpa  
+now  You  see  I  dark  cowherd  in the form
 
-(267) [not yet translated]
+(267) At first I saw You in the form of a *sannyāsī*, but now I see You as a dark cowherd boy.
 
 তোমার সম্মুখে দেখি কাঞ্চন-পঞ্চালিকা ৷  
 তাঁর গৌরকান্ত্যে তোমার সর্ব্ব অঙ্গ ঢাকা ॥ ২৬৮ ॥
 
 tomāra sammukhe dekhi kāñcana-pañcālikā  
-tāṅra gaura-kāntye tomāra sarva aṅga ḍhākā
+of You  in front  I see  a golden  doll  
+tāṅra gaura-kāntye tomāra sarva aṅga ḍhākā  
+her  by the golden luster  Your  whole  body  covered
 
-(268) [not yet translated]
+(268) Before You I see a golden doll, and her golden luster covers Your whole body.
 
 তাহাতে প্রকট দেখি স-বংশী বদন ৷  
 নানা-ভাবে চঞ্চল তাহে কমল-নয়ন ॥ ২৬৯ ॥
 
 tāhāte prakaṭa dekhi sa-vaṁśī vadana  
-nānā-bhāve cañcala tāhe kamala-nayana
+in that  clearly  I see  with the flute  the face  
+nānā-bhāve cañcala tāhe kamala-nayana  
+with various moods  restless  and there  the lotus eyes
 
-(269) [not yet translated]
+(269) Within it I clearly see Your face with the flute, and Your lotus eyes restless with many moods.
 
 এইমত তোমা দেখি’ হয় চমৎকার ৷  
 অকপটে কহ, প্রভু, কারণ ইহার ॥ ২৭০ ॥
 
 ei-mata tomā dekhi’ haya camatkāra  
-akapaṭe kaha, prabhu, kāraṇa ihāra
+in this way  You  seeing  there is  wonder  
+akapaṭe kaha, prabhu, kāraṇa ihāra  
+without deceit  tell  Prabhu  the cause  of this
 
-(270) [not yet translated]
+(270) Seeing You like this fills me with wonder. Tell me frankly, Prabhu, what is the cause of it?”
 
 প্রভু কহে, — কৃষ্ণে তোমার গাঢ়প্রেম হয় ৷  
 প্রেমার স্বভাব এই জানিহ নিশ্চয় ॥ ২৭১ ॥
 
 prabhu kahe, — kṛṣṇe tomāra gāḍha-prema haya  
-premāra svabhāva ei jāniha niścaya
+the Lord  said  for Kṛṣṇa  your  deep love  is  
+premāra svabhāva ei jāniha niścaya  
+of love  the nature  this  know  for certain
 
-(271) [not yet translated]
+(271) The Lord said, “You have deep love for Kṛṣṇa, and know for certain that this is the nature of love.
 
 মহাভাগবত দেখে স্থাবর-জঙ্গম ৷  
 তাঁহা তাঁহা হয় তাঁর শ্রীকৃষ্ণ-স্ফুরণ ॥ ২৭২ ॥
 
 mahā-bhāgavata dekhe sthāvara-jaṅgama  
-tāṅhā tāṅhā haya tāṅra śrī kṛṣṇa-sphuraṇa
+the great devotee  sees  the unmoving and the moving  
+tāṅhā tāṅhā haya tāṅra śrī kṛṣṇa-sphuraṇa  
+there  and there  is  to him  Śrī  of Kṛṣṇa  the appearance
 
-(272) [not yet translated]
+(272) The *mahā-bhāgavata* sees moving and unmoving things, and wherever he looks, Śrī Kṛṣṇa appears to him.
 
 স্থাবর-জঙ্গম দেখে, না দেখে তার মূর্ত্তি ৷  
 সর্ব্বত্র হয় তাঁর ইষ্টদেব-স্ফূর্ত্তি ॥ ২৭৩ ॥
 
 sthāvara-jaṅgama dekhe, nā dekhe tāra mūrti  
-sarvatra haya tāṅra iṣṭa-deva-sphūrti
+the unmoving and the moving  he sees  not  he sees  their  forms  
+sarvatra haya tāṅra iṣṭa-deva-sphūrti  
+everywhere  is  to him  of his worshipful Lord  the appearance
 
-(273) [not yet translated]
+(273) He sees moving and unmoving things, yet he does not see their forms: everywhere his worshipful Lord (*iṣṭa-deva*) appears to him.
 
 সর্ব্বভূতেষু যঃ পশ্যেদ্ভগবদ্ভাবমাত্মনঃ ৷  
 ভূতানি ভগবত্যাত্মন্যেষ ভাগবতোত্তমঃ ॥ ২৭৪ ॥
 
 sarva-bhūteṣu yaḥ paśyed  
+in all beings  who  sees  
 bhagavad-bhāvam ātmanaḥ  
+for the Lord  the feeling  his own  
 bhūtāni bhagavaty ātmany  
-eṣa bhāgavatottamaḥ
+the beings  in the Lord  in the Self  
+eṣa bhāgavatottamaḥ  
+he  the best of devotees
 
-(274) [not yet translated]
+(274) “One who sees in all beings his own love for the Lord (*bhagavad-bhāva*), and sees all beings in the Lord, the Self of all, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam 11.2.45)
 
 বনলতাস্তরব আত্মনি বিষ্ণুং  
 ব্যঞ্জয়ন্ত্য ইব পুষ্পফলাঢ়্যাঃ ৷  
@@ -2970,91 +3022,115 @@ eṣa bhāgavatottamaḥ
 প্রেমহৃষ্টতনবো ববৃষুঃ স্ম ॥ ২৭৫ ॥
 
 vana-latās tarava ātmani viṣṇuṁ  
+the forest  creepers  the trees  within themselves  Viṣṇu  
 vyañjayantya iva puṣpa-phalāḍhyāḥ  
+revealing  as if  with flowers  with fruits  rich  
 praṇata-bhāra-viṭapā madhu-dhārāḥ  
-prema-hṛṣṭa-tanavo vavṛṣuḥ sma
+bowed  with the weight  their branches  of honey  streams  
+prema-hṛṣṭa-tanavo vavṛṣuḥ sma  
+with love  thrilled  bodies  showered  indeed
 
-(275) [not yet translated]
+(275) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam 10.35.9)
 
 রাধাকৃষ্ণে তোমার মহাপ্রেম হয় ৷  
 যাঁহা তাঁহা রাধাকৃষ্ণ তোমারে স্ফুরয় ॥ ২৭৬ ॥
 
 rādhā-kṛṣṇe tomāra mahā-prema haya  
-yāṅhā tāṅhā rādhā-kṛṣṇa tomāre sphuraya
+for Rādhā and Kṛṣṇa  your  great love  is  
+yāṅhā tāṅhā rādhā-kṛṣṇa tomāre sphuraya  
+wherever  there  Rādhā and Kṛṣṇa  to you  appear
 
-(276) [not yet translated]
+(276) You have great love for Rādhā and Kṛṣṇa, and so Rādhā and Kṛṣṇa appear to you wherever you look.”
 
 রায় কহে, — প্রভু তুমি ছাড় ভারিভূরি ৷  
 মোর আগে নিজরূপ না করিহ চুরি ॥ ২৭৭ ॥
 
 rāya kahe, — prabhu tumi chāḍa bhāri-bhūri  
-mora āge nija-rūpa nā kariha curi
+Rāya  said  Prabhu  You  give up  this grand pretence  
+mora āge nija-rūpa nā kariha curi  
+before me  Your own form  not  do  theft
 
-(277) [not yet translated]
+(277) Rāya said, “Prabhu, give up this grand pretence. Do not hide Your own form from me.
 
 রাধিকার ভাবকান্তি করি’ অঙ্গীকার ৷  
 নিজরস আস্বাদিতে করিয়াছ অবতার ॥ ২৭৮ ॥
 
 rādhikāra bhāva-kānti kari’ aṅgīkāra  
-nija-rasa āsvādite kariyācha avatāra
+Rādhikā’s  mood  luster  making  acceptance  
+nija-rasa āsvādite kariyācha avatāra  
+Your own rasa  to taste  You have made  descent
 
-(278) [not yet translated]
+(278) Accepting the mood and luster of Rādhikā, You have descended to taste Your own *rasa*.
 
 নিজ-গূঢ়কার্য্য তোমার — প্রেম আস্বাদন ৷  
 আনুষঙ্গে প্রেমময় কৈলে ত্রিভুবন ॥ ২৭৯ ॥
 
 nija-gūḍha-kārya tomāra — prema āsvādana  
-ānuṣaṅge prema-maya kaile tribhuvana
+own  secret  purpose  Your  of prema  the tasting  
+ānuṣaṅge prema-maya kaile tribhuvana  
+incidentally  full of prema  You made  the three worlds
 
-(279) [not yet translated]
+(279) Your own secret purpose is to taste *prema*, and in passing You have filled the three worlds with *prema*.
 
 আপনে আইলে মোরে করিতে উদ্ধার ৷  
 এবে কপট কর, — তোমার কোন্ ব্যবহার ॥ ২৮০ ॥
 
 āpane āile more karite uddhāra  
-ebe kapaṭa kara, — tomāra kon vyavahāra
+Yourself  You came  me  to make  deliverance  
+ebe kapaṭa kara, — tomāra kon vyavahāra  
+now  deceit  You practice  Your  what  conduct
 
-(280) [not yet translated]
+(280) You Yourself came to deliver me, and now You are deceiving me. What kind of behavior is this?”
 
 তবে হাসি’ তাঁরে প্রভু দেখাইল স্বরূপ ৷  
 ‘রসরাজ’, ‘মহাভাব’ — দুই এক রূপ ॥ ২৮১ ॥
 
 tabe hāsi’ tāṅre prabhu dekhāila svarūpa  
-‘rasa-rāja’, ‘mahābhāva’ — dui eka rūpa
+then  smiling  to him  the Lord  showed  His own form  
+‘rasa-rāja’, ‘mahābhāva’ — dui eka rūpa  
+Rasarāja  Mahābhāva  the two  one  form
 
-(281) [not yet translated]
+(281) Then, smiling, the Lord showed him His own form: Rasarāja and Mahābhāva, the two in one form.
 
 দেখি’ রামানন্দ হৈলা আনন্দে মূর্চ্ছিতে ৷  
 ধরিতে না পারে দেহ, পড়িলা ভূমিতে ॥ ২৮২ ॥
 
 dekhi’ rāmānanda hailā ānande mūrcchite  
-dharite nā pāre deha, paḍilā bhūmite
+seeing  Rāmānanda  became  in bliss  unconscious  
+dharite nā pāre deha, paḍilā bhūmite  
+to hold up  not  he can  the body  he fell  to the ground
 
-(282) [not yet translated]
+(282) Seeing this, Rāmānanda fainted in bliss. Unable to hold himself up, he fell to the ground.
 
 প্রভু তাঁরে হস্ত স্পর্শি, করাইলা চেতন ৷  
 সন্ন্যাসীর বেষ দেখি’ বিস্মিত হৈল মন ॥ ২৮৩ ॥
 
 prabhu tāṅre hasta sparśi’ karāilā cetana  
-sannyāsīra veṣa dekhi’ vismita haila mana
+the Lord  him  with His hand  touching  brought  to consciousness  
+sannyāsīra veṣa dekhi’ vismita haila mana  
+of a sannyāsī  the dress  seeing  astonished  became  his mind
 
-(283) [not yet translated]
+(283) The Lord touched him with His hand and brought him back to consciousness, and seeing Him in the dress of a *sannyāsī*, Rāya was astonished.
 
 আলিঙ্গন করি’ প্রভু কৈল আশ্বাসন ৷  
 তোমা বিনা এইরূপ না দেখে অন্যজন ॥ ২৮৪ ॥
 
 āliṅgana kari’ prabhu kaila āśvāsana  
-tomā vinā ei-rūpa nā dekhe anya-jana
+embrace  making  the Lord  gave  comfort  
+tomā vinā ei-rūpa nā dekhe anya-jana  
+you  except  this form  not  sees  any other person
 
-(284) [not yet translated]
+(284) Embracing him, the Lord comforted him: “No one but you sees this form.
 
 মোর তত্ত্বলীলা-রস তোমার গোচরে ৷  
 অতএব এইরূপ দেখাইলুঁ তোমারে ॥ ২৮৫ ॥
 
 mora tattva-līlā-rasa tomāra gocare  
-ataeva ei-rūpa dekhāiluṅ tomāre
+My  truth  pastimes  rasa  to you  within reach of perception  
+ataeva ei-rūpa dekhāiluṅ tomāre  
+therefore  this form  I have shown  to you
 
-(285) [not yet translated]
+(285) The truth of Me, My pastimes and My *rasa* are within your perception; therefore I have shown you this form.
 
 গৌর অঙ্গ নহে, মোর — রাধাঙ্গস্পর্শন ৷  
 গোপেন্দ্র সুত বিনা তেঁহো না স্পর্শে অন্যজন ॥ ২৮৬ ॥
