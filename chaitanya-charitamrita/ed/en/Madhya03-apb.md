@@ -35,3 +35,23 @@ May the Yamunā, daughter of the Sun, purify our body! She is eternally the vess
 ## 71
 
 ***Bhāribhuri*** — a secret (*gopya-kathā*).
+
+## 86
+
+***Māna.*** A measure (*kāṭhā*) of four seers is called a *māna*.
+
+## 90
+
+***Donā*** — a leaf cup (*ḍoṅgā*). ***Karena prārthana*** — He begs Him to eat.
+
+## 101
+
+***Smṛti-dharma*** — the *dharma* of the *smārtas*.
+
+## 103
+
+***Rasavāsa*** — a fragrance full of flavor.
+
+## 114
+
+***Ora*** — limit. This song (*pada*) is Vidyāpati's.

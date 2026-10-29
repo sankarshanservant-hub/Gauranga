@@ -232,6 +232,134 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 
 > Subheading: The Lord objects that He cannot eat so much, and the Ācārya insists all the more —
 
+## 74
+
+> Subheading: A *sannyāsī* is forbidden to leave remnants on his plate —
+
+A *sannyāsī* must not leave remnants of food. (*Śrīmad-Bhāgavatam* 11.18.19): “Let him go out to a body of water, bathe there, and, restraining his speech, divide the food he has gathered and purified by sprinkling; then let him eat the remainder completely, leaving nothing.” Cakravartī's commentary: “ ‘Divide’ — among Viṣṇu, Brahmā, the Sun and living beings. ‘Leaving nothing’ — that is, nothing left over on the plate should be kept.”
+
+## 75
+
+> Subheading: The Ācārya reproaches the Lord and shows his humility —
+
+## 76
+
+***Lekhāya*** — in proportion.
+
+## 78
+
+> Subheading: After rinsing hands and mouth, each with separate water, the two Prabhus begin to eat —
+
+## 79
+
+> Subheading: Nitāi's loving, playful dispute with Advaita —
+
+## 81
+
+***Taithika sannyāsī.*** Though He Himself is an *avadhūta*, Nityānanda plays the part of a *bahūdaka-sannyāsī* who wanders to holy places (*tīrthas*). See the *Anubhāṣya* on verse 85.
+
+## 85
+
+***Bhraṣṭa*** — “fallen” in the eyes of the mundane *smārta* society, that is, beyond injunctions and prohibitions. The word is used as praise in the guise of censure.
+
+The highest stage of *sannyāsa* is *pāramahaṁsya*; another name for it is *avadhūtatva*. *Avadhūtas* act as they please: though they accept the objects of the senses, they are not bound by them. The marks of *sannyāsa* they sometimes accept and sometimes give up. All these words of Advaita are a jest, not the truth. Some people, seeing Tripurasundarī installed at Khaḍadaha together with Śrī Śyāmasundara, mistake Nityānanda Prabhu's *avadhūta* conduct for the conduct of a *kaula-avadhūta* of the Śākta *sampradāya*: “Within a Śākta, outside a Śaiva, in the assembly considered a Vaiṣṇava.” In fact it is not so. Śrī Nityānanda Svarūpa is a *svarūpa-brahmacārī* (a *brahmacārī* bearing the name “Svarūpa”) of a Vedic *sannyāsī*, and is Himself a *paramahaṁsa*. Others again say that Lakṣmīpati Tīrtha was His ācārya. Even so, He belongs to the *sampradāya* of Śrī Madhva[^85-1], not to the Tāntrikas of Bengal.
+
+## 87
+
+***Jhuṭā*** — remnants (*ucchiṣṭa*).
+
+## 88
+
+> Subheading: Mahāprabhu laughs at the loving, playful quarrel of the two Prabhus —
+
+## 89
+
+> Subheading: Mahāprabhu eats His fill, as the Ācārya wishes —
+
+## 93
+
+> Subheading: Pretending to have eaten only half, Nitāi, in feigned anger, throws a handful of rice —
+
+## 94
+
+***Ujhāli*** — scattering.
+
+## 95
+
+> Subheading: Nitāi's thrown remnants touch Advaita's body, and Advaita dances, overwhelmed with love —
+
+## 96
+
+***Avadhūta*** — *asaṁskṛta-deha*, one who does not care for his body (see Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 3.1.19). [Advaita says:] “Śrī Nityānanda is playing the pastime of a *paramahaṁsa*'s conduct. He may have scattered the rice as a show of madness. But by the touch of His remnants, though by the rules of the non-devotee *smārta* society I should have become impure and defiled, I have in truth become supremely pure and holy.” The remnants of a Vaiṣṇava, or *paramahaṁsa*, are *mahā-mahā-prasāda*. They are themselves living consciousness, real, like Viṣṇu. They are not the material rice and *dāl* that gratify the senses of a non-devotee. Śrī Gurudeva is the best of *paramahaṁsas*, beyond *varṇāśrama*. To touch, partake of and associate with his remnants and those of other *paramahaṁsas*, that is, Vaiṣṇavas, removes from the heart of the conditioned *jīva* all aversion to Hari. This establishes the *jīva* in pure brāhmaṇahood — in transcendental service to the *paramahaṁsas*. This Ācārya Śrīla Advaita Prabhu himself declared for the good of foolish *jīvas*.
+
+## 97
+
+> Subheading: In the guise of censure Advaita praises Nityānanda —
+
+***Sahaje pāgala*** (“mad by nature”) — devoted to the transcendental *dharma* of the *paramahaṁsas*, which is innate to the self, to consciousness, and at every moment intoxicated with serving Kṛṣṇa with all the senses (see *Śrīmad-Bhāgavatam* 11.18.28–29).
+
+## 98
+
+***Āpanāra sama*** (“like Yourself”) — that is, a perfected Vaiṣṇava, a *paramahaṁsa* beyond injunctions and prohibitions. Śrī Guru, Nityānanda, the *paramahaṁsas*, or Vaiṣṇavas, and those who think of themselves as their servants are never governed by the rules of the mundane *smārta* society, averse to Hari, out of fear of it. This is the purport of Ācārya Śrīla Advaita Prabhu's words. Pure Vaiṣṇavas, the servants of the *paramahaṁsas*, do not see the conscious *mahā-prasāda* as the same as rice and *dāl* born of *prakṛti* that gratify the material senses. Instead of weighing whether someone's touch has defiled it, they partake of it and honor it. To say nothing of a pure Vaiṣṇava — even if a brāhmaṇa partakes of *mahā-prasāda* fallen from the mouth of a *caṇḍāla*, his brāhmaṇahood stays completely intact: not the slightest impurity touches it. This is what they know. When one partakes of *mahā-prasāda*, all the pure and impure things of the material world are engaged in Kṛṣṇa's service and are seen as transcendentally pure.
+
+## 99
+
+> Subheading: Nityānanda threatens Advaita with punishment and prescribes atonement —
+
+In the *Bṛhad-viṣṇu Purāṇa*: “O twice-born, in eating what is offered to the Lord of the universe — food, drink and the rest — there is no considering what may or may not be eaten. It is changeless like Brahman: as Viṣṇu is, so is it. Those twice-born who, eating it, see change in it are struck with leprosy and deprived of sons and wife. Those brāhmaṇas go to hell, from which they never return.” It is precisely to warn against the offense of regarding *mahā-prasāda* as an object of enjoyment, the same as material rice and *dāl*, that the author has written of the glory of *mahā-prasāda* (Antya, Chapter 16, verses 56–63).
+
+## 101
+
+> Subheading: The *sannyāsa* of a Vaiṣṇava does away with the rules of the *smārtas* —
+
+## 102
+
+> Subheading: After the two Prabhus rinse hands and mouth, Advaita serves them as befits the hour —
+
+## 105
+
+> Subheading: Advaita tries to massage the Lord's feet —
+
+## 106
+
+> Subheading: The Lord is embarrassed and tells the Ācārya to eat with Mukunda and Haridāsa —
+
+Mahāprabhu saw that He, a *sannyāsī*, was being given a fine bed, cloves, cardamom, sandalwood paste and a flower garland, and that Advaita himself wanted to massage His feet. So He said, “You have made Me dance plenty — now stop making Me dance.”
+
+## 108
+
+> Subheading: The local people come to see the Lord —
+
+## 109
+
+> Subheading: Hari's name resounds on all sides; the people rejoice to see the Lord's beauty —
+
+## 111
+
+> Subheading: All day long people come and go —
+
+***Samādhāna*** — a count, a limit.
+
+## 112
+
+> Subheading: Advaita's *saṅkīrtana* in the evening —
+
+## 113
+
+***Bule*** — goes about dancing.
+
+## 114
+
+A song by Vidyāpati: “What shall I say, friend — there is no limit to my joy today! Mādhava is in my house forever. As much grief[^114-1] as the wicked moon gave me, so much joy has the sight of my beloved's face brought me. Even if I filled the end of my sari with great treasure, I still would not send my beloved to a distant land. My beloved is my shawl in the cold, my breeze in the summer heat, my umbrella in the rains, my boat on the river. Vidyāpati says: listen, fair lady — the sorrow of the good lasts only two or four days.” Śrīla Rādhāmohana Ṭhākura did not include the first four lines of this song in the *Padāmṛta-samudra*. Some think that “Mādhava” here refers to Mādhavendra Purī and that this is Advaita's own song. But that is not right. It should be understood as better suited to union (*sambhoga*) after the separation when Kṛṣṇa was in Mathurā (*māthura-viraha*).
+
+## 116
+
+> Subheading: Advaita's humble prayer to the Lord —
+
+## 117
+
+***Bhāṇḍiyā*** — deceiving, tricking.
+
 ---
 
 [^1-1]: The edition prints «ত্বং গৌরং» (“to You, Gaura”) at the end of the glosses; the verse itself reads «তং» (“to that”).
@@ -241,3 +369,7 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 [^39-1]: *Caccaḍi* is a Bengali dry dish of stewed vegetables; the question mark is in the edition.
 
 [^70-1]: *Caitanya-caritāmṛta*, Antya 6.236 (the edition gives the two halves in reverse order).
+
+[^85-1]: The edition reads «শ্রীমাধবসম্প্রদায়» (“the *sampradāya* of Śrī Mādhava”); the sense (Lakṣmīpati Tīrtha belonged to the Madhva *sampradāya*) requires Śrī Madhva.
+
+[^114-1]: The edition reads «সুখ» (“joy”); the sense of the line and the known text of the song require «দুখ» (“grief”).
