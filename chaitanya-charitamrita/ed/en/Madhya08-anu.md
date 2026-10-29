@@ -135,3 +135,35 @@ The words of Mahārāja Nanda to the great sage Garga, who had come to his house
 ## 56
 
 > Subheading: Rāya offers obeisances, and the Lord embraces him —
+
+## 57
+
+> Subheading: The conversation of the Lord and Rāmānanda. The Lord asks about the goal and the means (*sādhya* and *sādhana*). Rāya's answer: (a) the stages of *sādhana* (*abhidheya*): (1) first, keeping *svadharma* in the form of *daiva-varṇāśrama*, the beginning of a theistic moral life, or a life of *dharma* —
+
+Śrī Rāmānujapāda writes in the *Vedārtha-saṅgraha*: “This special knowledge, *para-bhakti*, is produced only by *bhakti-yoga* assisted by action preceded by knowledge, which, as said above, grows day by day. So says the venerable Parāśara: ‘*Varṇāśrama*…’ And the Supreme Person, Parabrahman Himself, who descended to the earth to deliver the whole world, said: ‘Hear how one devoted to his own work attains perfection. By worshiping with his own work Him from whom all beings have come forth and by whom all this is pervaded, a man attains perfection.’ (*Bhagavad-gītā* 18.45–46) Thus [the Lord] is attained only by *bhakti* matured in the order described. This path is shown by the multitude of *śrutis* whose meaning is clearly set forth in the ancient explanations of the Vedas and Vedānta accepted by irreproachable sages such as the venerable Bodhāyana, Ṭaṅka, Dramiḍa, Guhadeva, Kapardī and Bhāruci.”
+
+*Bhakti* is a special knowledge: it is dear beyond measure, it alone is needed, and it produces indifference to everything else. Only a soul endowed with such *bhakti* chooses Bhagavān, and only to devotees is He attainable. This special knowledge, the highest *bhakti*, is produced only by the *bhakti-yoga* described above, which grows without cease and is assisted by action preceded by knowledge. This is what the venerable Parāśara said in the verse *varṇāśramācāravatā*… And the Supreme Person, Parabrahman Himself, who descended to the earth to deliver the whole world, said: “Hear how a man engaged in his own work will attain perfection: by especially worshiping with his own work that Bhagavān from whom all living beings have come forth and by whom this world is spread out, a man will attain perfection.” This path to perfection is assisted by *karma*, and on it [the Lord] is attained only by *bhakti* matured in due order. The venerable Bodhāyana, Ṭaṅka, Dramiḍa, Guhadeva, Kapardī, Bhāruci and other sages approve this irreproachable path; it is the path shown by the ancient explanations of the Vedas and Vedānta and by the *śrutis* whose meaning is beautifully (clearly) set forth.
+
+The *ācāryas* of Rāmānuja's *sampradāya* say: “The means of attaining Brahman is only *para-bhakti*, constant meditation (*anudhyāna*) that has become the clearest direct vision, dear without limit and beyond measure. It is attained by steady *bhakti* assisted by one's own *karma* preceded by knowledge of the truth gained from scripture. As the verse *varṇāśramācāravatā*… shows, [this *bhakti*] is not restricted to *sannyāsa*, nor to any one *varṇa*: it is bound to each person's own *varṇa* and *āśrama*. True knowledge is only the knowledge of which *karma* is a part, not *naiṣkarmya*, nor an equal combination of knowledge and *karma*.”
+
+***Sādhya*** — that by which perfection (*siddhi*) is attained, that which is gained by *sādhana*: see *Bhāg.* 1.2.13.
+
+## 58
+
+> Subheading: Viṣṇu is pleased only when *svadharma* in the form of *daiva-varṇāśrama* is kept —
+
+**varṇāśramācāravatā** (by one devoted to the conduct of the *varṇas*, brāhmaṇa, kṣatriya, vaiśya and śūdra, and intent on keeping the conduct of the *āśramas*, *brahmacārī*, *gṛhastha*, *vānaprastha* and *bhikṣu*, that is, one who keeps the *dharma* of his own *varṇa* and *āśrama*) **puruṣeṇa** **paraḥ** **pumān** (the Supreme Person, Viṣṇu) **ārādhyate**; **tat** (His, Viṣṇu's) **anyat** (any other, one that destroys *varṇāśrama-dharma*) **panthāḥ** (path) **toṣa-kāraṇam** (for His pleasure) **na** **bhavati**.
+
+## 59
+
+> Subheading: (2) Devotion mixed with *karma*, offering one's actions to Bhagavān, is not pure devotion —
+
+Setting out to determine the *sādhya*, that is, the devotion that is to be practiced, Śrī Rāmānanda first took the standpoint of a *sādhaka* living within the universe. Rejecting other desires (*anyābhilāṣitā*), he took the side of the moralists (*nīti-vādīs*) and cited the evidence for the *sādhya* that Viṣṇu is pleased when one simply follows *varṇa-dharma* and *āśrama-dharma*. But one who determines the goal in this way grasps his relationship [with the Lord] through his “I” (*asmitā*), and that “I” lies within the universe. Hence the function of such *asmitā* also remains within the universe, and so it is external. Śrī Bhagavān Gaurahari called the external experience of a person situated outside His abode, Vaikuṇṭha or Goloka, an “external *sādhya*,” rejected it, and told him to go further. The evidence about the *sādhya* cited above did not point to the independence of Viṣṇu's personal nature (*viśeṣatva*). Therefore *sādhakas* of this level on the path of *karma* may aim at the worship of Viṣṇu of both kinds, “*nirviśeṣa*” and “*saviśeṣa*.” Understanding this, [Rāmānanda] gave up the leaning toward featureless truth and cited the evidence showing that the personal nature (*saviśeṣatva*) [of the Lord] alone is the purport of the aim of *karma*.
+
+## 60
+
+> Subheading: The *karmī* who craves enjoyment is told to offer his actions to Kṛṣṇa —
+
+The words of Śrī Kṛṣṇa to Arjuna:
+
+**kaunteya** (O Arjuna), **yat** **karma** **karoṣi**, **yat** **aśnāsi**, **yat** **dadāsi**, **yat** **juhoṣi**, **yat** **tapasyasi**, **tat** **sarvaṁ** **mad-arpaṇam** **kuruṣva**. See *Bhāg.* 11.2.36.

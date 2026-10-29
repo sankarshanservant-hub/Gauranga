@@ -36,6 +36,24 @@ O Bhagavān! Great persons go to the homes of householders whose minds are wretc
 
 The Lord said, “O Rāmānanda Rāya, recite a verse of scripture that determines the truth of the goal (*sādhya-tattva*).” Rāya said, “When human beings follow their own *dharma*, devotion to Viṣṇu arises.”
 
+## 58
+
+The Supreme Lord Viṣṇu is worshiped by a person who keeps the conduct of *varṇa-dharma* and *āśrama-dharma*. Apart from the conduct of *varṇāśrama* there is no other means of pleasing Him.
+
+The purport is this: to please Bhagavān is the truth of the goal (*sādhya-tattva*). When human beings follow the *varṇa-dharma* determined by their own nature and the *āśrama-dharma* determined by their situation, Lord Viṣṇu is pleased. There are four *varṇas*: brāhmaṇas, kṣatriyas, vaiśyas and śūdras. A person should conduct his life by following the *dharma* that scripture has fixed for his *varṇa*. There are four *āśramas*: *brahmacarya*, *gārhasthya*, *vānaprastha* and *sannyāsa*. Each should please Bhagavān by following the *dharma* prescribed for his own *āśrama*. If one deviates from it, one incurs sin (*pratyavāya*) and goes to hell. To take up the path of the highest goal, a life of *dharma* is needed first of all. The *dharma* that sustains life is naturally different for people of different natures.
+
+A person's nature arises from birth, association and education. No one can conduct his life skillfully without accepting a *varṇa* according to his nature. Natures are of many kinds, but at root they fall into four divisions. (1) Those whose nature turns to God and learning are “brāhmaṇas.” (2) Those whose natural inclination is valor and government are “kṣatriyas.” (3) Those whose natural work is farming, cattle-keeping and trade are “vaiśyas.” (4) Those whose nature is only to serve the three *varṇas* are “śūdras.” When a person worships [the Lord] in the *dharma* of his own *varṇa* and according to his *āśrama*, he rises naturally; when he acts contrary to it, he naturally falls. Therefore a life of *dharma* is the root of every human excellence.
+
+## 59–60
+
+[Kṛṣṇa] says in the *Gītā*: “O Kaunteya, whatever you eat, whatever you offer in sacrifice, whatever you give, and whatever austerity you perform, offer all of it to Me, Kṛṣṇa.”
+
+In his first answer Rāya named as “the goal” (*sādhya*) the worship of Kṛṣṇa within *varṇāśrama-dharma*. The Lord therefore called this “external,” and so that Rāya would give a true answer to His question, He told him to speak of what is higher than ordinary *varṇāśrama-dharma*. Rāya then answered that “the essence of all goals” is declared to be offering to Kṛṣṇa all one's actions within *varṇāśrama*.
+
+## 61
+
+Hearing even this, the Lord said, “This too is external. The answer to My question lies beyond it; tell Me that.” In reply Rāya said, “Giving up one's own *dharma* (*svadharma*) is the essence of the goal.” That is, among the four *varṇas* the brāhmaṇa gives up his own (household) *dharma* and accepts *sannyāsa*, and the other *varṇas*, following him, accept the marks of renunciation and leave home. This *sannyāsa* is called giving up *svadharma*, or giving up *karma*. The *dharma* of renunciation brings the pleasure of Hari.
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”
