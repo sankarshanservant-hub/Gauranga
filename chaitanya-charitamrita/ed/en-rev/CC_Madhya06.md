@@ -1471,6 +1471,354 @@ into that  Brahman  again  becoming  it goes  dissolution
 
 (143) The universe is born from Brahman and lives in Brahman, and into that same Brahman it dissolves again.[^49]
 
+‘অপাদান’, ‘করণ’, ‘অধিকরণ’-কারক তিন ৷  
+ভগবানের সবিশেষে এই তিন চিহ্ন ॥ ১৪৪ ॥
+
+‘apādāna’, ‘karaṇa’, ‘adhikaraṇa’-kāraka tina  
+“apādāna” (source)  “karaṇa” (instrument)  “adhikaraṇa” (locus) — cases  three  
+bhagavānera saviśeṣe ei tina cihna  
+of Bhagavān  in having features  these  three  signs
+
+(144) Source, instrument and abode — these three cases (*apādāna*, *karaṇa* and *adhikaraṇa*) are the three signs that Bhagavān has features.[^50]
+
+ভগবান্ অনেক হৈতে যবে কৈল মন ৷  
+প্রাকৃত-শক্তিতে তবে কৈল বিলোকন ॥ ১৪৫ ॥
+
+bhagavān aneka haite yabe kaila mana  
+the Lord  many  to become  when  He made  His mind  
+prākṛta-śaktite tabe kaila vilokana  
+upon the material energy  then  He cast  a glance
+
+(145) When Bhagavān resolved to become many, He cast His glance upon the material energy.
+
+সে কালে নাহি জন্মে ‘প্রাকৃত’ মন-নয়ন ৷  
+অতএব ‘অপ্রাকৃত’ ব্রহ্মের নেত্র-মন ॥ ১৪৬ ॥
+
+se kāle nāhi janme ‘prākṛta’ mana-nayana  
+at that  time  not  are born  material  mind and eyes  
+ataeva ‘aprākṛta’ brahmera netra-mana  
+therefore  non-material  of Brahman  the eyes and mind
+
+(146) At that time no material mind or eyes had yet come into being; therefore the eyes and mind of Brahman are not material.[^51]
+
+ব্রহ্ম-শব্দে কহে পূর্ণ স্বয়ং ভগবান্ ৷  
+স্বয়ং ভগবান্ কৃষ্ণ, — শাস্ত্রের প্রমাণ ॥ ১৪৭ ॥
+
+brahma-śabde kahe pūrṇa svayaṁ bhagavān  
+by the word “Brahman”  is meant  the complete  Svayaṁ  Bhagavān  
+svayaṁ bhagavān kṛṣṇa, — śāstrera pramāṇa  
+Svayaṁ  Bhagavān  Kṛṣṇa  of scripture  the evidence
+
+(147) The word “Brahman” denotes the complete Svayaṁ Bhagavān, the Lord Himself, and the Lord Himself is Kṛṣṇa — such is the evidence of scripture.
+
+বেদের নিগূঢ় অর্থ বুঝন না হয় ৷  
+পুরাণ-বাক্যে সেই অর্থ করয় নিশ্চয় ॥ ১৪৮ ॥
+
+vedera nigūḍha artha bujhana nā haya  
+of the Vedas  the hidden  meaning  understanding  not  is  
+purāṇa-vākye sei artha karaya niścaya  
+by the words of the Purāṇas  that  meaning  is made  certain
+
+(148) The hidden meaning of the Vedas is not easily understood, and the words of the Purāṇas make that meaning certain.
+
+অহো ভাগ্যমহো ভাগ্যং নন্দগোপব্রজৌকসাম্ ৷  
+যন্মিত্রং পরমানন্দং পূর্ণং ব্রহ্ম সনাতনম্ ॥ ১৪৯ ॥
+
+aho bhāgyam aho bhāgyaṁ  
+oh  the fortune  oh  the fortune  
+nanda-gopa-vrajaukasām  
+of Nanda  the cowherds  the residents of Vraja  
+yan-mitraṁ paramānandaṁ  
+whose friend  the supreme bliss  
+pūrṇaṁ brahma sanātanam  
+the complete  Brahman  eternal
+
+(149) “Oh, the fortune, oh, the fortune of Nanda, the cowherds and all the residents of Vraja, whose friend is the supreme bliss, the complete and eternal Brahman!” (Śrīmad-Bhāgavatam, 10.14.32)[^52]
+
+‘অপাণি-পাদ’-শ্রুতি বর্জ্জে ‘প্রাকৃত’ পাণি-চরণ ৷  
+পুনঃ কহে, — শীঘ্র চলে, করে সর্ব্ব গ্রহণ ॥ ১৫০ ॥
+
+‘apāṇi-pāda’-śruti varje ‘prākṛta’ pāṇi-caraṇa  
+the “apāṇi-pāda” śruti  rejects  material  hands and feet  
+punaḥ kahe, — śīghra cale, kare sarva grahaṇa  
+again  it says  swiftly  He moves  He makes  of everything  acceptance
+
+(150) The śruti text “apāṇi-pāda” (“without hands and feet”) denies Him material hands and feet; yet it says again that He moves swiftly and accepts all things.
+
+অতএব শ্রুতি কহে, ব্রহ্ম — সবিশেষ ৷  
+‘মুখ্য’ ছাড়ি’ ‘লক্ষণা’তে মানে নির্ব্বিশেষ ॥ ১৫১ ॥
+
+ataeva śruti kahe, brahma — saviśeṣa  
+therefore  the śruti  says  Brahman  with features  
+‘mukhya’ chāḍi’ ‘lakṣaṇā’te māne nirviśeṣa  
+the primary meaning  abandoning  by the indirect reading  they take  as featureless
+
+(151) Therefore the śruti declares that Brahman has features; but the Māyāvādīs abandon the primary meaning and, by an indirect reading, hold Him to be featureless.[^53]
+
+ষড়ৈশ্বর্য্যপূর্ণানন্দ-বিগ্রহ যাঁহার ৷  
+হেন-ভগবানে তুমি কহ নিরাকার ॥ ১৫২ ॥
+
+ṣaḍaiśvaryapūrṇānanda-vigraha yām̐hāra  
+full of the six opulences, of bliss  the form  whose  
+hena-bhagavāne tumi kaha nirākāra  
+such a Bhagavān  you  call  formless
+
+(152) His form is bliss itself, full of the six opulences — and such a Bhagavān you call formless!
+
+স্বাভাবিক তিন শক্তি যেই ব্রহ্মে হয় ৷  
+‘নিঃশক্তিক’ করি’ তাঁরে করহ নিশ্চয় ॥ ১৫৩ ॥
+
+svābhāvika tina śakti yei brahme haya  
+natural  three  potencies  which  in Brahman  are  
+‘niḥśaktika’ kari’ tām̐re karaha niścaya  
+“without potency”  making  Him  you make  your conclusion
+
+(153) Brahman has three natural potencies, yet you conclude that He has no potency at all.[^54]
+
+বিষ্ণুশক্তিঃ পরা প্রোক্তা ক্ষেত্রজ্ঞাখ্যা তথাপরা ৷  
+অবিদ্যা কর্ম্মসংজ্ঞান্যা তৃতীয়া শক্তিরিষ্যতে ॥ ১৫৪ ॥
+
+viṣṇu-śaktiḥ parā proktā  
+Viṣṇu’s potency  superior  is declared  
+kṣetra-jñākhyā tathāparā  
+called the knower of the field  likewise superior  
+avidyā karma-saṁjñānyā  
+called ignorance and karma  another  
+tṛtīyā śaktir iṣyate  
+a third  potency  is held to be
+
+(154) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)[^55]
+
+যয়া ক্ষেত্রজ্ঞশক্তিঃ সা বেষ্টিতা নৃপ সর্ব্বগা ৷  
+সংসারতাপানখিলানবাপ্নোত্যত্র সন্ততান্ ॥ ১৫৫ ॥
+
+yayā kṣetra-jña-śaktiḥ sā  
+by which  the knower of the field  potency  that  
+veṣṭitā nṛpa sarva-gā  
+enveloped  O king  all-pervading  
+saṁsāra-tāpān akhilān  
+of worldly existence  the miseries  all  
+avāpnoty atra santatān  
+obtains  here  continual
+
+(155) “Enveloped by that ignorance, O king, the potency called the knower of the field, though it can enter both spirit and matter, suffers here without end all the miseries of worldly existence.” (Viṣṇu Purāṇa, 6.7.62)[^56]
+
+তয়া তিরোহিতত্বাচ্চ শক্তিঃ ক্ষেত্রজ্ঞসংজ্ঞিতা ৷  
+সর্ব্বভূতেষু ভূপাল তারতম্যেন বর্ত্ততে ॥ ১৫৬ ॥
+
+tayā tirohitatvāc ca  
+by it  because of being covered  and  
+śaktiḥ kṣetra-jña-saṁjñitā  
+the potency  the knower of the field  called  
+sarva-bhūteṣu bhū-pāla  
+in all beings  O king  
+tāratamyena vartate  
+in varying degrees  exists
+
+(156) “Because it is covered by that ignorance, O king, the potency called the knower of the field exists in all beings in varying degrees.” (Viṣṇu Purāṇa, 6.7.63)[^57]
+
+হ্লাদিনী সন্ধিনী সম্বিৎ ত্বয়্যেকা সর্ব্বসংশ্রয়ে ৷  
+হ্লাদতাপকরী মিশ্রা ত্বয়ি নো গুণ-বর্জ্জিতে ॥ ১৫৭ ॥
+
+hlādinī sandhinī samvit  
+hlādinī  sandhinī  samvit  
+tvayy ekā sarva-saṁśraye  
+in You  one  of all  the shelter  
+hlāda-tāpa-karī miśrā  
+of joy  of pain  causing  mixed  
+tvayi no guṇa-varjite  
+in You  not  of the guṇas  devoid
+
+(157) “O Lord, You are the basis of all, and in You Hlādinī, Sandhinī and Samvit are one potency. But that which causes joy, pain and a mixture of the two is not in You, for You are beyond the guṇas.” (Viṣṇu Purāṇa, 1.12.69)[^58]
+
+সচ্চিদানন্দময় হয় ঈশ্বর-স্বরূপ ৷  
+তিন অংশে চিচ্ছক্তি হয় তিন রূপ ॥ ১৫৮ ॥
+
+sac-cid-ānanda-maya haya īśvara-svarūpa  
+made of eternity, knowledge and bliss  is  the Lord’s  own nature  
+tina aṁśe cic-chakti haya tina rūpa  
+in three  aspects  the spiritual potency  is  three  forms
+
+(158) The Lord’s own nature is made of eternity, knowledge and bliss, and in these three aspects His spiritual potency takes three forms.
+
+আনন্দাংশে ‘হ্লাদিনী’, সদংশে ‘সন্ধিনী’ ৷  
+চিদংশে ‘সম্বিৎ’, যারে কৃষ্ণজ্ঞান মানি ॥ ১৫৯ ॥
+
+ānandāṁśe ‘hlādinī’, sad-aṁśe ‘sandhinī’  
+in the aspect of bliss  hlādinī  in the aspect of being  sandhinī  
+cid-aṁśe ‘samvit’, yāre kṛṣṇa-jñāna māni  
+in the aspect of consciousness  samvit  which  knowledge of Kṛṣṇa  we hold
+
+(159) In the aspect of bliss She is Hlādinī, in the aspect of being Sandhinī, and in the aspect of consciousness Samvit, which we regard as knowledge of Kṛṣṇa.[^59]
+
+অন্তরঙ্গা — চিচ্ছক্তি, তটস্থা — জীবশক্তি ৷  
+বহিরঙ্গা — মায়া, — তিনে করে প্রেমভক্তি ॥ ১৬০ ॥
+
+antaraṅgā — cic-chakti, taṭasthā — jīva-śakti  
+internal  the spiritual potency  marginal  the potency of the jīvas  
+bahiraṅgā — māyā, — tine kare prema-bhakti  
+external  māyā  all three  render  loving devotion
+
+(160) The spiritual potency is internal, the potency of the jīvas is marginal, and māyā is external — and all three render loving service.
+
+ষড়্বিধ ঐশ্বর্য্য — প্রভুর চিচ্ছক্তি বিলাস ৷  
+হেন শক্তি নাহি মান, — পরম সাহস ॥ ১৬১ ॥
+
+ṣaḍ-vidha aiśvarya — prabhura cic-chakti vilāsa  
+of six  kinds  opulence  the Lord’s  spiritual potency’s  play  
+hena śakti nāhi māna, — parama sāhasa  
+such  potency  not  you accept  utmost  audacity
+
+(161) The six kinds of opulence are the play of the Lord’s spiritual potency. That you do not accept such a potency is the height of audacity.
+
+‘মায়াধীশ’-‘মায়াবশ’ ঈশ্বরে জীবে ভেদ ৷  
+হেন-জীবে ঈশ্বর-সহ কহ ত’ অভেদ ॥ ১৬২ ॥
+
+‘māyādhīśa’-‘māyāvaśa’ īśvare jīve bheda  
+“the master of māyā”  “subject to māyā”  between the Lord  and the jīva  the difference  
+hena-jīve īśvara-saha kaha ta’ abheda  
+such a jīva  with the Lord  you call  indeed  non-different
+
+(162) The Lord is the master of māyā, and the jīva is subject to māyā — this is the difference between them. Yet you call such a jīva one with the Lord.
+
+গীতাশাস্ত্রে জীবরূপ ‘শক্তি’ করি’ মানে ৷  
+হেন জীবে ‘অভেদ’ কহ-ঈশ্বরের সনে ॥ ১৬৩ ॥
+
+gītā-śāstre jīva-rūpa ‘śakti’ kari’ māne  
+in the Gītā  the jīva  as  a “potency”  is accepted  
+hena jīve ‘abheda’ kaha-īśvarera sane  
+such  a jīva  “non-different”  you call  from the Lord  with
+
+(163) In the Gītā the jīva is accepted as a potency, yet you call such a jīva non-different from the Lord.[^60]
+
+ভূমিরাপোঽনলো বায়ুঃ খং মনো বুদ্ধিরেব চ ৷  
+অহংকার ইতীয়ং মে ভিন্না প্রকৃতিরষ্টধা ॥ ১৬৪ ॥
+
+bhūmir āpo ’nalo vāyuḥ  
+earth  water  fire  air  
+khaṁ mano buddhir eva ca  
+ether  mind  intelligence  indeed  and  
+ahaṁkāra itīyaṁ me  
+false ego  thus this  My  
+bhinnā prakṛtir aṣṭadhā  
+separated  nature  eightfold
+
+(164) “Earth, water, fire, air, ether, mind, intelligence and false ego — these eight make up My separated nature.” (Bhagavad-gītā, 7.4)[^61]
+
+অপরেয়মিতস্ত্বন্যাং প্রকৃতিং বিদ্ধি মে পরাম্ ৷  
+জীবভূতাং মহাবাহো যয়েদং ধার্য্যতে জগৎ ॥ ১৬৫ ॥
+
+apareyam itas tv anyāṁ  
+inferior  this  beyond this  but  another  
+prakṛtiṁ viddhi me parām  
+nature  know  My  superior  
+jīva-bhūtāṁ mahā-bāho  
+consisting of jīvas  O mighty-armed  
+yayedaṁ dhāryate jagat  
+by which  this  is taken up  the world
+
+(165) “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, who take up this world for their own enjoyment.” (Bhagavad-gītā, 7.5)[^62]
+
+ঈশ্বরের শ্রীবিগ্রহ সচ্চিদানন্দাকার ৷  
+সে-বিগ্রহে কহ সত্ত্বগুণের বিকার ॥ ১৬৬ ॥
+
+īśvarera śrī vigraha sac-cid-ānandākāra  
+the Lord’s  sacred  form  of eternity, knowledge and bliss in shape  
+se-vigrahe kaha sattva-guṇera vikāra  
+that form  you call  of the mode of goodness  a transformation
+
+(166) The Lord’s sacred form is made of eternity, knowledge and bliss, yet you call that form a transformation of the mode of goodness.
+
+শ্রীবিগ্রহ যে না মানে, সেই ত’ পাষণ্ড ৷  
+অস্পৃশ্য, অদৃশ্য, সেই হয় যমদণ্ড্য ॥ ১৬৭ ॥
+
+śrī vigraha ye nā māne, sei ta’ pāṣaṇḍa  
+the sacred  form  who  not  accepts  he  indeed  godless  
+aspṛśya, adṛśya, sei haya yama-daṇḍya  
+untouchable  not to be looked at  he  becomes  punishable by Yama
+
+(167) Whoever does not accept the Lord’s sacred form is godless (*pāṣaṇḍī*). He is not to be touched or even looked at, and Yama will punish him.[^63]
+
+বেদ না মানিয়া বৌদ্ধ হয় ত’ নাস্তিক ৷  
+বেদাশ্রয় নাস্তিক্য-বাদ বৌদ্ধকে অধিক ॥ ১৬৮ ॥
+
+veda nā māniyā bauddha haya ta’ nāstika  
+the Vedas  not  accepting  the Buddhist  is  indeed  an unbeliever  
+vedāśraya nāstikya-vāda bauddhake adhika  
+sheltered in the Vedas  atheistic doctrine  than the Buddhist  worse
+
+(168) The Buddhist, who does not accept the Vedas, is an unbeliever (*nāstika*); but an atheistic doctrine that takes shelter in the Vedas is worse than Buddhism.[^64]
+
+জীবের নিস্তার লাগি’ সূত্র কৈল ব্যাস ৷  
+মায়াবাদি-ভাষ্য শুনিলে হয় সর্ব্বনাশ ॥ ১৬৯ ॥
+
+jīvera nistāra lāgi’ sūtra kaila vyāsa  
+of the jīvas  the deliverance  for  the sūtras  composed  Vyāsa  
+māyāvādi-bhāṣya śunile haya sarva-nāśa  
+the Māyāvādī commentary  if one hears  there is  utter ruin
+
+(169) Vyāsa composed the sūtras for the deliverance of the jīvas, but whoever hears the Māyāvādī commentary on them is utterly ruined.
+
+‘পরিণাম-বাদ’ ব্যাসসূত্রের সম্মত ৷  
+অচিন্ত্যশক্তি ঈশ্বর জগদ্রূপে পরিণত ॥ ১৭০ ॥
+
+‘pariṇāma-vāda’ vyāsasūtrera sammata  
+the doctrine of transformation  by Vyāsa’s sūtras  is accepted  
+acintya-śakti īśvara jagad-rūpe pariṇata  
+of inconceivable potency  the Lord  in the form of the world  is transformed
+
+(170) Vyāsa’s sūtras accept the doctrine of transformation (*pariṇāma-vāda*): by His inconceivable potency the Lord takes the form of the world.[^65]
+
+মণি যৈছে অবিকৃতে প্রসবে হেমভার ৷  
+জগদ্রূপ হয় ঈশ্বর, তবু অবিকার ॥ ১৭১ ॥
+
+maṇi yaiche avikṛte prasabe hema-bhāra  
+a gem  as  unchanged  brings forth  heaps of gold  
+jagad-rūpa haya īśvara, tabu avikāra  
+the form of the world  becomes  the Lord  still  unchanged
+
+(171) As the *cintāmaṇi* gem, itself unchanged, brings forth heaps of gold, so the Lord becomes the world and yet remains unchanged.[^66]
+
+ব্যাস — ভ্রান্ত বলি’ সেই সূত্রে দোষ দিয়া ৷  
+‘বিবর্ত্তবাদ’ স্থাপিয়াছে কল্পনা করিয়া ॥ ১৭২ ॥
+
+vyāsa — bhrānta bali’ sei sūtre doṣa diyā  
+Vyāsa  is mistaken  saying  to those  sūtras  fault  ascribing  
+‘vivarta-vāda’ sthāpiyāche kalpanā kariyā  
+the doctrine of illusion  he has established  fancy  making
+
+(172) Calling Vyāsa mistaken and finding fault with his sūtras, the Māyāvādī has set up the doctrine of illusion (*vivarta-vāda*) by his own invention.[^67]
+
+জীবের দেহে আত্মবুদ্ধি, — সেই মিথ্যা হয় ৷  
+জগৎ যে মিথ্যা নহে, নশ্বর মাত্র হয় ॥ ১৭৩ ॥
+
+jīvera dehe ātma-buddhi, — sei mithyā haya  
+of the jīva  in the body  the notion of self  that  false  is  
+jagat ye mithyā nahe, naśvara mātra haya  
+the world  but  false  is not  perishable  only  is
+
+(173) What is false is the jīva’s sense of self in the body. The world is not false — it is only perishable.
+
+‘প্রণব’ যে মহা-বাক্য — ঈশ্বরের মূর্ত্তি ৷  
+প্রণব হৈতে সর্ব্ববেদ, জগতে উৎপত্তি ॥ ১৭৪ ॥
+
+‘praṇava’ ye mahā-vākya — īśvarera mūrti  
+praṇava  which  the great statement  of the Lord  the form  
+praṇava haite sarva-veda, jagate utpatti  
+from praṇava  all the Vedas  to the world  origin
+
+(174) The *praṇava* (Oṁ), which is the great statement (*mahā-vākya*), is the form of the Lord. From the praṇava come all the Vedas and the world.[^68]
+
+‘তত্ত্বমসি’ — জীব-হেতু প্রাদেশিক বাক্য ৷  
+প্রণব না মানি’ তারে কহে মহাবাক্য ॥ ১৭৫ ॥
+
+‘tat tvam asi’ — jīva-hetu prādeśika vākya  
+“tat tvam asi”  concerning the jīva  partial  statement  
+praṇava nā māni’ tāre kahe mahā-vākya  
+the praṇava  not  accepting  it  he calls  the great statement
+
+(175) *Tat tvam asi* is only a partial statement, spoken of the jīva; yet the Māyāvādī, not accepting the praṇava, calls that the great statement.”[^69]
+
 ---
 
 [^1]: Heading in the edition: “Obeisance to Gaura, who conquered Sārvabhauma”. *Anubhāṣya*: *sarva-bhūmā* — He whose greatness surpasses all that is not Kṛṣṇa, the Supreme Paramātmā Gauracandra; *kutarka* — false arguments, misconceptions about the nature of the jīva and its activity; *bhakti-bhūmānam ācarat* — He made him a vessel full of pure bhakti, that is, a servant of His feet. The verse plays on the words *sārvabhauma* (“lord of all the earth”), *sarva-bhūmā* and *bhakti-bhūmā*.
@@ -1570,3 +1918,43 @@ into that  Brahman  again  becoming  it goes  dissolution
 [^48]: The reference follows the heading in the edition: “words of the *Hayaśīrṣa-pañcarātra*, quoted in the sixth act of the *Caitanya-candrodaya-nāṭaka* as its twenty-first verse”. *Anubhāṣya*: *nirviśeṣa* — Brahman without attributes, pure consciousness alone; *saviśeṣa* — possessing name, form, qualities and pastimes; *abhidhatte* — denotes in the direct sense (*abhidhā-vṛtti*). *Amṛta-pravāha-bhāṣya*: both aspects of Bhagavān are eternal, but it is the one with features that is experienced in the world, and so it is the stronger.
 
 [^49]: *Amṛta-pravāha-bhāṣya*: this is the sense of the śruti *yato vā imāni bhūtāni jāyante* (*Taittirīya Upaniṣad*, Bhṛgu-vallī, 1). Heading in the edition: “In every case-relation it is Śrī Bhagavān who is meant”.
+
+[^50]: *Amṛta-pravāha-bhāṣya*: the Supreme Brahman has three signs — He is the ablative, the instrumental and the locative case — and by these three eternal signs it is seen that Bhagavān eternally has features. *Anubhāṣya*: see Śrīdhara Svāmī’s commentary on *Śrīmad-Bhāgavatam*, 6.4.30.
+
+[^51]: *Anubhāṣya*: at the moment of that glance material eyes did not yet exist; so Brahman with features had an eternal spiritual mind with which He thought of creation and eternal spiritual eyes with which He looked upon prakṛti.
+
+[^52]: *Anubhāṣya*: this is the prayer of Brahmā after Śrī Kṛṣṇa had crushed his pride; *pūrṇam* — undivided, *sanātanam* — eternally manifest.
+
+[^53]: *Anubhāṣya*: the Māyāvādī abandons the direct sense (*abhidhā-vṛtti*) and through *lakṣaṇā* sets up the doctrine of featurelessness; yet even this “featurelessness” serves only to distinguish Brahman from material features.
+
+[^54]: *Anubhāṣya*: the pure monists hold potency to be a passing state born of ignorance, but the three potencies abide in Brahman eternally. *Amṛta-pravāha-bhāṣya*: these three natural potencies are accepted in many statements of scripture that go back to the śruti “His supreme potency is heard to be manifold” (*Śvetāśvatara Upaniṣad*, 6.8).
+
+[^55]: The verse is Ādi 7.119; the translation follows it.
+
+[^56]: *Anubhāṣya*: *sarva-gā* — able to enter both spirit and matter; *kṣetra-jña-śakti* — the potency called the jīva; *yayā* — by *avidyā*, the māyā that turns one away from Bhagavān; *atra* — here, in saṁsāra, the realm of Devī. The *Amṛta-pravāha-bhāṣya* takes *sarva-gā* as “all-knowing”.
+
+[^57]: *Anubhāṣya*: because of *avidyā* the jīva potency is reckoned now higher, now lower. *Amṛta-pravāha-bhāṣya*: removed from the working of the spiritual potency, the jīva enters the wheel of karma and attains now a high, now a low position.
+
+[^58]: The verse is Ādi 4.63; the translation follows it. Here the second quarter reads *sarva-saṁśraye* (“the shelter of all”), in Ādi 4.63 *sarva-saṁsthitau* (“the basis of all”); the sense is the same.
+
+[^59]: Compare Ādi 4.62. *Amṛta-pravāha-bhāṣya*: this samvit is knowledge related to Kṛṣṇa.
+
+[^60]: *Amṛta-pravāha-bhāṣya*: since the *Gītā* calls the jīva a potency, one must also accept the oneness of the jīva with the Lord, according to the Vedānta saying “the potency and the possessor of potency are not different”; this inconceivable oneness and difference (*acintya-bhedābheda*) is the secret of the truth of the Lord and the jīva.
+
+[^61]: *Anubhāṣya*: *bhinnā prakṛtiḥ* — the potency called external; mind and intelligence are named separately because they are the chief among the elements. *Amṛta-pravāha-bhāṣya*: these eight are manifestations of the inferior (*aparā*) potency; the jīva is distinct from them.
+
+[^62]: The verse is Ādi 7.118; the translation follows it.
+
+[^63]: *Anubhāṣya*: the *pāṣaṇḍī* is one who takes the eternal form of Bhagavān, full of form, qualities and pastimes, to be a transformation of material goodness and therefore does not serve Him; devotees do not touch him or look at him.
+
+[^64]: Heading in the edition: “The Māyāvādī follows the Vedas in word, but in truth he is a hidden Buddhist”. *Amṛta-pravāha-bhāṣya*: a secret enemy who comes in the guise of a friend is far more dangerous than an open one.
+
+[^65]: Heading in the edition: “The *Brahma-sūtra* intends the doctrine of the transformation of potency (*śakti-pariṇāma-vāda*)”. *Anubhāṣya*: see Ādi 7.121–133.
+
+[^66]: *Anubhāṣya*: by the power within it the gem produces something other than itself — gold — and remains a gem; so the Lord transforms His māyā-śakti into the changing world of the guṇas, while His own nature stays unchanged.
+
+[^67]: *Anubhāṣya*: Śaṅkarācārya feared that if *pariṇāma-vāda* were accepted, the sūtra *janmādy asya yataḥ* would be called faulty and its author Vyāsa mistaken; so he put forward invented arguments and declared *vivarta-vāda* to be the truth.
+
+[^68]: *Anubhāṣya*: the praṇava is the form of the Lord in His name (*nāma-vigraha*); it alone is the *mahā-vākya*.
+
+[^69]: *Anubhāṣya*: this saying is addressed to the bewildered jīva, so that it may not identify itself with the body; the Māyāvādīs, instead of taking shelter of the name, *oṁkāra*, put forward *tat tvam asi*. *Amṛta-pravāha-bhāṣya*: the saying explains the spiritual nature of the jīva, but it is not a *mahā-vākya*.
