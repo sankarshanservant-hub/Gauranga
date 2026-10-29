@@ -14,7 +14,7 @@ To give him *kṣīra*, Śrī Gopīnātha stole a pot of *kṣīra* and received
 
 ## 12
 
-***Dānī*** — the ferrymen at the river crossings[^12-1].
+***Dānī*** — the ferrymen at the river crossings.
 
 ## 13
 
@@ -38,7 +38,7 @@ To give him *kṣīra*, Śrī Gopīnātha stole a pot of *kṣīra* and received
 
 ## 41
 
-***Installed by Vajra.*** Vajra was the son of Aniruddha, Śrī Kṛṣṇa's grandson[^41-1]. The Pāṇḍavas brought him from Dvārakā and made him king in Mathurā. Śrī Gopāla, the Holder of Govardhana, is one of those Deities [that Vajra installed].
+***Installed by Vajra.*** Vajra was the son of Aniruddha, Śrī Kṛṣṇa's grandson. The Pāṇḍavas brought him from Dvārakā and made him king in Mathurā. Śrī Gopāla, the Holder of Govardhana, is one of those Deities [that Vajra installed].
 
 ## 61
 
@@ -116,6 +116,4 @@ O Lord whose heart melts with compassion for the wretched! O Lord of Mathurā! W
 
 [^0-1]: So in the edition: Mādhava Purī is the same person as Mādhavendra Purī.
 
-[^12-1]: The verse translation reads differently: “tax collectors.”
 
-[^41-1]: The verse translation reads differently: it calls Vajra Kṛṣṇa's grandson.

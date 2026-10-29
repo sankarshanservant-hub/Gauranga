@@ -197,10 +197,10 @@ to the devotees  tells  the Lord  that  very  story
 
 (19) His famous name is “Kṣīra-corā Gopīnātha”, and the Lord told the devotees the story behind it.
 
-পূর্ব্বে মাধবপুরীর লাগি’ ক্ষীর কৈল চুরি ৷  
+পূর্ব্বে মাধবপুরী লাগি’ ক্ষীর কৈল চুরি ৷  
 অতএব নাম হৈল ‘ক্ষীরচোরা হরি’ ॥ ২০ ॥
 
-pūrve mādhava-purīra lāgi’ kṣīra kaila curi  
+pūrve mādhava-purī lāgi’ kṣīra kaila curi  
 formerly  Mādhava Purī  for the sake of  sweet rice  did  theft  
 ataeva nāma haila ‘kṣīra-corā hari’  
 therefore  the name  became  Kṣīra-corā Hari
@@ -1248,11 +1248,11 @@ the desire for sweet rice  arose  that  he considers  an offence
 (124) He was satisfied by the nectar of love, and hunger and thirst did not trouble him. That a desire for *kṣīra* had arisen in him he counted as an offence.
 
 গ্রামের শূন্যহট্টে বসি’ করেন কীর্ত্তন ৷  
-এথা পূজারী করাইল ঠাকুরে শয়ন ॥ ১২৫ ॥
+এথা পূজারী করাইল ঠাকুরের শয়ন ॥ ১২৫ ॥
 
 grāmera śūnya-haṭṭe vasi’ karena kīrtana  
 of the village  in the empty market  sitting  he does  kīrtana  
-ethā pūjārī karāila ṭhākure śayana  
+ethā pūjārī karāila ṭhākurera śayana  
 here  the pūjārī  made  the Deity  lie down
 
 (125) He sat in the deserted marketplace of the village and sang *kīrtana*. Meanwhile the pūjārī laid the Deity to rest.

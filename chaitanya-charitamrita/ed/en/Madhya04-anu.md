@@ -80,7 +80,7 @@
 
 > Subheading: In *samādhi* Purī receives *darśana* of Kṛṣṇa in the form of a boy —
 
-***Nāma*** — the name of Hari. ***Bāhya-vṛtti-laya*** (“his outward faculties ceased”) — he became absorbed in the *samādhi* of devotion[^34-1].
+***Nāma*** — the name of Hari. ***Bāhya-vṛtti-laya*** (“his outward faculties ceased”) — he became absorbed in the *samādhi* of devotion.
 
 ## 35
 
@@ -616,7 +616,6 @@ The love of the Lord and of the devotee for each other is incomparable.
 
 ---
 
-[^34-1]: The verse translation reads differently: he “dozed off a little” toward morning.
 
 [^46-1]: The subheadings above verses 46 and 47 appear to be transposed in the edition: by content, “Purī weeps with love” belongs to 46 and “Purī strives to bring Giridhārī to light” to 47. They are given as printed.
 
