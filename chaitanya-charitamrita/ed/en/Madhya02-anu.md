@@ -331,7 +331,7 @@ See Ādi 4.230.
 
 > Subheading: The author's impartiality —
 
-In describing Śrī Gaurasundara's conduct exactly as it was, I do not seek the praise of the proponents of every kind of doctrine. I did not hope that they would accept me, and so I have not left out the true facts of the Lord's life here, nor added to them, nor veiled them, nor “corrected” them. Because Sanskrit verses are included in this book, many may object that one who does not know Sanskrit will not understand the true meaning of the verses.
+In describing Śrī Gaurasundara's conduct exactly as it was, I do not seek the praise of the proponents of every kind of doctrine. I have not, in the hope that they would accept me, passed over the true facts of the Lord's life here — leaving things out, adding to them, veiling them or “correcting” them. Because Sanskrit verses are included in this book, many may object that one who does not know Sanskrit will not understand the true meaning of the verses.
 
 ## 86
 
@@ -379,3 +379,8 @@ Those “expert in *bhajana*,” those “engaged in *bhajana*,” and those “
 See Ādi 8.49–60.
 
 *Thus ends the second chapter of the “Anubhāṣya.”*
+
+---
+
+[^72-1]: The edition prints *rāgādi* (“passions and so on”); Bhaktisiddhānta's own Bengali paraphrase (“the activity of speech, hands, feet … ceases”) supports *vāg-ādi* (“speech and so on”), the reading of the *Bhakti-rasāmṛta-sindhu*.
+

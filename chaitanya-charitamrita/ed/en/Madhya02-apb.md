@@ -123,3 +123,8 @@ Svarūpa Gosvāmī set down Mahāprabhu's last pastimes as *sūtras* of his diar
 Nowhere in this book of mine is there a contradictory conclusion, and nowhere do I defer to anyone else's opinion. I have written after considering the *sahaja-tattva*, the natural truth. For the *jīva* the truth of *rāga* is natural (*sahaja*), while the path of reasoning is not natural to it. Only what dawns in the truth of *rāga* is the truth of *bhajana* that Śrī Mahāprabhu revealed. But if one's *rāga* is directed toward another doctrine or toward conclusions reached by some other kind of reasoning, one becomes absorbed in them and loses impartiality. And then the *jīva*'s own inherent nature, its *sahaja*, cannot be written down.
 
 *Thus ends the second chapter of the Madhya-līlā in the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^19-2]: A play on words: Bengali *guṇa* means both “quality” and “rope.”
+
