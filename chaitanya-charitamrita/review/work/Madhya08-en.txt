@@ -599,7 +599,7 @@ tr: Rāya said, “Then hear the glory of that love. In the three worlds there i
 ## 104
 w: of the gopīs  of the rāsa dance  the circle  leaving
 w: Rādhā  seeking  in the forest  He wanders  lamenting  doing
-tr: Leaving the circle of the gopīs’ *rāsa* dance, He wanders through the forest in search of Rādhā, lamenting.
+tr: Leaving the circle of the gopīs’ *rāsa* dance, He wandered through the forest in search of Rādhā, lamenting.
 
 ## 105
 w: the enemy of Kaṁsa  too  of the essence (of the rāsa)
@@ -625,7 +625,7 @@ tr: If one considers the meaning of these two verses, one understands; as one co
 ## 108
 w: hundreds of millions of  gopīs  with  the rāsa  pastime
 w: among them  in one form  He stays  at Rādhā’s side
-tr: In the *rāsa* pastime with hundreds of millions of gopīs, He stays at Rādhā’s side in one of His forms.
+tr: In the *rāsa* pastime with hundreds of millions of gopīs, He stayed at Rādhā’s side in one of His forms.
 
 ## 109
 w: in ordinary  love  we see  everywhere  equality
@@ -797,7 +797,8 @@ fn: The same verse as Ādi 5.214 (= 81); translation as there.
 ## 140
 w: of various  devotees  the nectar of rasa  of various kinds  is
 w: of all those  nectars of rasa  the object  the abode
-tr: The nectar of *rasa* of various devotees is of many kinds; of all those nectars of *rasa* He is the object (*viṣaya*), and the devotee the abode (*āśraya*).
+tr: Different devotees taste different kinds of the nectar of *rasa*; in all of them Kṛṣṇa is the object (*viṣaya*), and the devotee the abode (*āśraya*).
+fn: *Anubhāṣya*: *viṣaya* — Kṛṣṇa; *āśraya* — the devotee, the abode of *rasa*.
 
 ## 141
 w: of all  rasas  of the nectar  the embodiment
