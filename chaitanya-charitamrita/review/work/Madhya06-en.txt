@@ -23,7 +23,7 @@ fn: The same verse as Madhya 4.2 (the refrain of Ādi 4.2 with *gauracandra* in 
 ## 3
 w: in ecstasy  went  the Lord  to Jagannātha’s temple
 w: Jagannātha  seeing  in love  He became  restless
-tr: Absorbed in ecstasy, the Lord went to the temple of Jagannātha, and when He saw Jagannātha He was overwhelmed with love.
+tr: Absorbed in ecstasy, the Lord went to the temple of Jagannātha, and when He saw Jagannātha, He grew restless with love.
 
 ## 4
 w: Jagannātha  to embrace  He went  running
@@ -70,7 +70,7 @@ tr: Sitting there, the Bhaṭṭācārya reflected: “This is a *sāttvika* tra
 ## 12
 w: sūddīpta  sāttvika  this  the name  which  pralaya
 w: in eternally  perfect  devotees  that  sūddīpta  bhāva  occurs
-tr: This swoon, called *pralaya*, is a *sūddīpta sāttvika*, the ecstatic symptom at its most blazing; such *sūddīpta bhāva* appears only in eternally perfect devotees.
+tr: This swoon, called *pralaya*, is *sūddīpta sāttvika*, ecstasy at its most blazing, and such blazing ecstasy (*sūddīpta bhāva*) is found only in eternally perfect devotees.
 fn: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu* and the *Ujjvala-nīlamaṇi*): the *sāttvika* symptoms may be “smouldering”, “flaming”, “burning” or “blazing” (*uddīpta*); *sūddīpta* is a special kind of the blazing, when all the *sāttvika* symptoms, multiplied many times over, reach the highest limit of prema. An eternally perfect (*nitya-siddha*) devotee is an eternal associate of the Lord.
 
 ## 13
@@ -170,7 +170,7 @@ tr: When he came to Sārvabhauma’s house and saw the Lord, the Ācārya felt b
 ## 31
 w: Sārvabhauma  informing  all  he took  inside
 w: to Nityānanda Gosāñi  he  made  obeisance
-tr: The Ācārya informed Sārvabhauma and brought them all inside, and Sārvabhauma bowed down to Nityānanda Gosāñi.
+tr: The Ācārya informed Sārvabhauma and brought them all inside, and the master of the house bowed down to Nityānanda Gosāñi.
 
 ## 32
 w: all  with  as befitting  he made  meeting
@@ -241,7 +241,7 @@ tr: and give the cakes and sweet drinks to all of them.” With folded hands the
 ## 45
 w: Jagannātha  as  has done  eating
 w: today  all  mahā-prasāda  do  tasting
-tr: Today you must all relish the mahā-prasāda, just as Jagannātha has eaten it.”
+tr: “Today you must all relish the mahā-prasāda, just as Jagannātha has eaten it.”
 
 ## 46
 w: so  saying  cakes and sweet drinks  all  he fed
@@ -288,7 +288,7 @@ tr: Sārvabhauma said, “Nīlāmbara Cakravartī is known as a fellow student o
 ## 54
 w: Miśra Purandara  by him  respected  this  I know
 w: of my father  through the connection  both  worthy of honour  making  I regard
-tr: Miśra Purandara, I know, was respected by him. Because of their bond with my father, I honour them both.”
+tr: Miśra Purandara, I know, was honoured by my father, Viśārada, and for his sake I revere them both.”
 
 ## 55
 w: with Nadīyā  through the connection  Sārvabhauma  glad  became
@@ -361,7 +361,7 @@ tr: The next day Gopīnātha went to the Lord and took Him to see Jagannātha ri
 ## 68
 w: Mukunda Datta  taking  came  Sārvabhauma’s  to the place
 w: Sārvabhauma  something  to him  said  in words
-tr: Then he came with Mukunda Datta to Sārvabhauma, and Sārvabhauma said to him:
+tr: Then he came with Mukunda Datta to Sārvabhauma, and the Bhaṭṭācārya said to him:
 
 ## 69
 w: by nature  humble  the sannyāsī  to see  beautiful
@@ -438,7 +438,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the disciples reason after the Nyāya: as from
 ## 82
 w: inference  proof  is not  of the Lord  of the truth  in knowing
 w: mercy  without  the Lord  anyone  not  knows
-tr: Inference is no proof in knowing the truth of the Lord. Without His mercy no one can know the Lord.
+tr: Inference is no proof where the truth of the Lord is concerned; without His mercy no one can know Him.
 
 ## 83
 w: of the Lord  of mercy  a particle  there is  indeed  on whom
@@ -601,7 +601,7 @@ w: reasonable  and  they are present  everywhere
 w: speak  the brāhmaṇas  as
 w: māyā  My  taking up
 w: of those who speak  what  indeed  is impossible
-tr: “What the brāhmaṇas say is reasonable, for the elements are present in one another everywhere. And for those who speak relying on My māyā, what is impossible to assert?” (Śrīmad-Bhāgavatam, 11.22.4)
+tr: “What the brāhmaṇas say is reasonable, for the elements are present in one another everywhere. And when people speak relying on My māyā, what is there they cannot assert?” (Śrīmad-Bhāgavatam, 11.22.4)
 
 ## 110
 w: then  the Bhaṭṭācārya  says  go  to Gosāñi’s  place
@@ -651,7 +651,7 @@ tr: The next day Mahāprabhu joyfully took darśana of Jagannātha together with
 ## 119
 w: the Bhaṭṭācārya  together with  his  to the house  He came
 w: to the Lord  a seat  giving  himself  sat
-tr: Together with the Bhaṭṭācārya He came to his house, and there the Bhaṭṭācārya offered the Lord a seat and then sat down himself.
+tr: From there they went together to the Bhaṭṭācārya’s house, where he offered the Lord a seat and then sat down himself.
 fn: *Tāṁra mandire* — “to his house”; heading in the edition: “After seeing Jagannātha together with Sārvabhauma, the Lord goes to his house”.
 
 ## 120
@@ -714,7 +714,7 @@ tr: The Lord said, “The meaning of the sūtras is clear to Me, but when I hear
 ## 131
 w: of the sūtra  the meaning  the commentary  speaks  revealing
 w: you  commentary  speak  of the sūtra  the meaning  covering
-tr: A commentary (*bhāṣya*) should set forth the meaning of a sūtra and bring it to light, but you give a commentary that covers the meaning of the sūtra.
+tr: A commentary (*bhāṣya*) should bring the meaning of a sūtra to light, but your commentary only covers it.
 
 ## 132
 w: of the sūtras  the primary  meaning  not  you do  explanation
@@ -725,7 +725,7 @@ fn: *Anubhāṣya*: you do not explain the primary meaning of Vyāsa’s sūtras
 ## 133
 w: of the Upaniṣads  in the words  which  primary  meaning  is
 w: that  meaning  primary  in Vyāsa’s sūtras  all  is said
-tr: The primary meaning of the words of the Upaniṣads is the principal meaning, and it is all stated in the sūtras of Vyāsa.
+tr: Whatever is the primary meaning of the words of the Upaniṣads, that is the principal meaning, and Vyāsa’s sūtras state it all.
 
 ## 134
 w: the primary meaning  abandoning  you make  of a secondary meaning  invention
@@ -776,7 +776,7 @@ w: whichever  whichever  śruti  speaks  of the featureless
 w: that  that denotes  the one with features  only
 w: of reflection  on application  being  indeed  of them
 w: as a rule  stronger  the one with features  alone
-tr: “Whatever śruti speaks of the featureless directly denotes Him who has features; and when such texts are carefully examined, the sense ‘with features’ is, as a rule, the stronger.” (Hayaśīrṣa-pañcarātra, quoted in the Caitanya-candrodaya-nāṭaka, 6.21)
+tr: “Whatever śruti speaks of the featureless directly denotes Him who has features; and when such texts are carefully examined, the sense ‘with features’ almost always proves the stronger.” (Hayaśīrṣa-pañcarātra, quoted in the Caitanya-candrodaya-nāṭaka, 6.21)
 fn: The reference follows the heading in the edition: “words of the *Hayaśīrṣa-pañcarātra*, quoted in the sixth act of the *Caitanya-candrodaya-nāṭaka* as its twenty-first verse”. *Anubhāṣya*: *nirviśeṣa* — Brahman without attributes, pure consciousness alone; *saviśeṣa* — possessing name, form, qualities and pastimes; *abhidhatte* — denotes in the direct sense (*abhidhā-vṛtti*). *Amṛta-pravāha-bhāṣya*: both aspects of Bhagavān are eternal, but it is the one with features that is experienced in the world, and so it is the stronger.
 
 ## 143
@@ -805,7 +805,7 @@ fn: *Anubhāṣya*: at the moment of that glance material eyes did not yet exist
 ## 147
 w: by the word “Brahman”  is meant  the complete  Svayaṁ  Bhagavān
 w: Svayaṁ  Bhagavān  Kṛṣṇa  of scripture  the evidence
-tr: The word “Brahman” denotes the complete Svayaṁ Bhagavān, the Lord Himself, and the Lord Himself is Kṛṣṇa — such is the evidence of scripture.
+tr: The word “Brahman” denotes the complete Svayaṁ Bhagavān, and Svayaṁ Bhagavān is Kṛṣṇa — such is the testimony of scripture.
 
 ## 148
 w: of the Vedas  the hidden  meaning  understanding  not  is
@@ -855,7 +855,7 @@ w: by which  the knower of the field  potency  that
 w: enveloped  O king  all-pervading
 w: of worldly existence  the miseries  all
 w: obtains  here  continual
-tr: “Enveloped by that ignorance, O king, the potency called the knower of the field, though it can enter both spirit and matter, suffers here without end all the miseries of worldly existence.” (Viṣṇu Purāṇa, 6.7.62)
+tr: “O king, the potency called the knower of the field can enter both spirit and matter; yet here, enveloped by that ignorance, it suffers without end all the miseries of worldly existence.” (Viṣṇu Purāṇa, 6.7.62)
 fn: *Anubhāṣya*: *sarva-gā* — able to enter both spirit and matter; *kṣetra-jña-śakti* — the potency called the jīva; *yayā* — by *avidyā*, the māyā that turns one away from Bhagavān; *atra* — here, in saṁsāra, the realm of Devī. The *Amṛta-pravāha-bhāṣya* takes *sarva-gā* as “all-knowing”.
 
 ## 156
@@ -1144,7 +1144,7 @@ tr: Seeing this, Sārvabhauma fell down flat in obeisance; then he rose and, wit
 ## 205
 w: by the Lord’s  mercy  to him  were revealed  all  truths
 w: of the holy name  of love  the giving  and so on  he describes  the greatness
-tr: By the Lord’s mercy all truths were revealed to him, and he described the greatness of the holy name, of the gift of love and the rest.
+tr: By the Lord’s mercy all truths were revealed to him, and he described the glory of the holy name, of the gift of love and of much else.
 
 ## 206
 w: a hundred  verses  he composed  one  daṇḍa  not  passing
@@ -1165,12 +1165,12 @@ tr: Tears, stupor, thrill, sweat and violent trembling came over him. He danced,
 ## 209
 w: seeing  Gopīnāthācārya  delighted at heart
 w: the Bhaṭṭācārya’s  dance  seeing  laugh  the Lord’s  companions
-tr: Seeing this, Gopīnāthācārya was delighted at heart, and the Lord’s companions laughed to see the Bhaṭṭācārya dance.
+tr: Seeing this, Gopīnātha Ācārya was delighted at heart, and the Lord’s companions laughed to see the Bhaṭṭācārya dance.
 
 ## 210
 w: Gopīnāthācārya  says  Mahāprabhu  to
 w: that very  Bhaṭṭācārya’s  You  have made  this  state
-tr: Gopīnāthācārya said to Mahāprabhu, “It is that very Bhaṭṭācārya whom You have brought to such a state!”
+tr: Gopīnātha Ācārya said to Mahāprabhu, “It is that very Bhaṭṭācārya whom You have brought to such a state!”
 
 ## 211
 w: the Lord  says  you  a devotee  your  association  from
@@ -1195,7 +1195,7 @@ tr: Logic had made me as hard and dull as a lump of iron, yet You have melted me
 ## 215
 w: the prayers  hearing  Mahāprabhu  to His own lodging  came
 w: the Bhaṭṭācārya  through the Ācārya  a meal  arranged
-tr: Having heard these prayers, Mahāprabhu returned to His lodging, and the Bhaṭṭācārya had a meal served to Him through Gopīnāthācārya.
+tr: Having heard these prayers, Mahāprabhu returned to His lodging, and the Bhaṭṭācārya had a meal served to Him through Gopīnātha Ācārya.
 
 ## 216
 w: the next  day  the Lord  went  to see Jagannātha
@@ -1221,12 +1221,12 @@ fn: *Anubhāṣya*: *aruṇodaya* is the period of four daṇḍas (about an hou
 ## 220
 w: “Kṛṣṇa”  “Kṛṣṇa”  clearly  saying  the Bhaṭṭācārya  awoke
 w: Kṛṣṇa’s name  hearing  the Lord’s  joy  increased
-tr: The Bhaṭṭācārya awoke clearly saying “Kṛṣṇa! Kṛṣṇa!”, and when the Lord heard the name of Kṛṣṇa, His joy grew.
+tr: As he woke, the Bhaṭṭācārya called out clearly, “Kṛṣṇa! Kṛṣṇa!”, and when the Lord heard the name of Kṛṣṇa, His joy grew.
 
 ## 221
 w: outside  of the Lord  he  obtained  sight
 w: hurriedly  coming  he made  to the feet  obeisance
-tr: He saw the Lord outside, and hurrying out, he bowed at His feet.
+tr: Seeing the Lord outside, he hastened to Him and bowed at His feet.
 
 ## 222
 w: to sit  a seat  giving  both  sat down
@@ -1272,7 +1272,7 @@ tr: Holding each other, the two danced. Lord and servant touched each other, and
 ## 229
 w: sweat  trembling  tears  both  in bliss  floated
 w: absorbed in love  becoming  the Lord  to speak  began
-tr: Bathed in sweat, trembling and in tears, both floated in bliss. Overwhelmed by love, the Lord began to speak:
+tr: Bathed in sweat, trembling and in tears, both floated in bliss. Filled with love, the Lord began to speak:
 
 ## 230
 w: today  I  without effort  have conquered  the three worlds
@@ -1320,12 +1320,12 @@ tr: He knew nothing but Caitanya’s feet, and he explained scripture as teachin
 ## 238
 w: Gopīnāthācārya  his  Vaiṣṇava devotion  seeing
 w: “Hari”  “Hari”  calling  dances  hands  clapping
-tr: Seeing his devotion as a Vaiṣṇava, Gopīnāthācārya danced, clapping his hands and calling, “Hari! Hari!”
+tr: Seeing his devotion as a Vaiṣṇava, Gopīnātha Ācārya danced, clapping his hands and calling, “Hari! Hari!”
 
 ## 239
 w: the next  day  the Bhaṭṭācārya  came  for darśana
 w: Jagannātha  not  seeing  came  to the Lord’s place
-tr: The next day the Bhaṭṭācārya came for darśana, but before seeing Jagannātha he came to the Lord.
+tr: The next day the Bhaṭṭācārya set out for darśana, but before seeing Jagannātha he went to the Lord.
 fn: Heading in the edition: “The Bhaṭṭācārya’s love for the Lord surpasses even his love for Jagannātha”.
 
 ## 240
@@ -1355,7 +1355,7 @@ tr: The Lord explained the meaning of this verse at length, and hearing it, the 
 ## 244
 w: Gopīnāthācārya  says  I  before  what  said
 w: listen  Bhaṭṭācārya  to you  that  indeed  has happened
-tr: Gopīnāthācārya said, “Listen, Bhaṭṭācārya: what I told you before has now happened to you.”
+tr: Gopīnātha Ācārya said, “Listen, Bhaṭṭācārya: what I told you before has now happened to you.”
 
 ## 245
 w: the Bhaṭṭācārya  says  to him  making  obeisance
@@ -1397,7 +1397,7 @@ fn: Heading in the edition: “Even before the leaf reached the Lord, Mukunda ke
 ## 252
 w: two  verses  on the outer wall  writing  he kept
 w: then  Jagadānanda  the letter  to the Lord  taking  gave
-tr: He wrote the two verses on the outer wall and kept them there; then Jagadānanda took the letter and gave it to the Lord.
+tr: He copied the two verses onto the outer wall; then Jagadānanda took the letter and gave it to the Lord.
 
 ## 253
 w: the Lord  the verses  reading  the leaf  tearing  threw away
@@ -1542,7 +1542,7 @@ tr: Hearing this, the Lord laughed, joyful at heart, and embraced the Bhaṭṭ�
 ## 278
 w: which  Bhaṭṭācārya  studies  teaches  Māyāvāda
 w: his  such  words  manifest  by Caitanya’s grace
-tr: That Bhaṭṭācārya who once studied and taught Māyāvāda — by Caitanya’s grace such words now came forth from him.
+tr: The Bhaṭṭācārya had once studied and taught Māyāvāda, yet by Caitanya’s grace such words now sprang from his lips.
 
 ## 279
 w: iron  as long as  touching  gold  not  it makes
@@ -1580,7 +1580,7 @@ tr: all this I shall describe in detail later. This is Mahāprabhu’s pastime o
 ## 286
 w: with faith  Caitanya’s pastimes  hears  who  person
 w: soon  are attained  by him  Caitanya’s feet
-tr: Whoever hears Caitanya’s pastimes with faith soon attains Caitanya’s feet.
+tr: Whoever hears Caitanya’s pastimes with faith soon attains His feet.
 
 ## 287
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope

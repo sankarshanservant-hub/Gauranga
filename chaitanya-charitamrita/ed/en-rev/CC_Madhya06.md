@@ -36,7 +36,7 @@ in ecstasy  went  the Lord  to Jagannātha’s temple
 jagannātha dekhi’ preme hailā asthire  
 Jagannātha  seeing  in love  He became  restless
 
-(3) Absorbed in ecstasy, the Lord went to the temple of Jagannātha, and when He saw Jagannātha He was overwhelmed with love.
+(3) Absorbed in ecstasy, the Lord went to the temple of Jagannātha, and when He saw Jagannātha, He grew restless with love.
 
 জগন্নাথ আলিঙ্গিতে চলিলা ধাঞা ৷  
 মন্দিরে পড়িলা প্রেমে আবিষ্ট হঞা ॥ ৪ ॥
@@ -126,7 +126,7 @@ sūddīpta  sāttvika  this  the name  which  pralaya
 nitya-siddha bhakte se ‘sūddīpta bhāva’ haya  
 in eternally  perfect  devotees  that  sūddīpta  bhāva  occurs
 
-(12) This swoon, called *pralaya*, is a *sūddīpta sāttvika*, the ecstatic symptom at its most blazing; such *sūddīpta bhāva* appears only in eternally perfect devotees.[^5]
+(12) This swoon, called *pralaya*, is *sūddīpta sāttvika*, ecstasy at its most blazing, and such blazing ecstasy (*sūddīpta bhāva*) is found only in eternally perfect devotees.[^5]
 
 ‘অধিরূঢ়-মহাভাব’ যাঁর, তাঁর এ বিকার ৷  
 মনুষ্যের দেহে দেখি, — বড় চমৎকার ॥ ১৩ ॥
@@ -316,7 +316,7 @@ Sārvabhauma  informing  all  he took  inside
 nityānanda-gosāñire tem̐ho kaila namaskāre  
 to Nityānanda Gosāñi  he  made  obeisance
 
-(31) The Ācārya informed Sārvabhauma and brought them all inside, and Sārvabhauma bowed down to Nityānanda Gosāñi.
+(31) The Ācārya informed Sārvabhauma and brought them all inside, and the master of the house bowed down to Nityānanda Gosāñi.
 
 সবা-সহিত যথাযোগ্য করিল মিলন ৷  
 প্রভু দেখি’ সবার হৈল হরষিত মন ॥ ৩২ ॥
@@ -456,7 +456,7 @@ Jagannātha  as  has done  eating
 āji saba mahāprasāda kara āsvādana  
 today  all  mahā-prasāda  do  tasting
 
-(45) Today you must all relish the mahā-prasāda, just as Jagannātha has eaten it.”
+(45) “Today you must all relish the mahā-prasāda, just as Jagannātha has eaten it.”
 
 এত বলি’ পীঠা-পানা সব খাওয়াইলা ৷  
 ভিক্ষা করাঞা আচমন করাইলা ॥ ৪৬ ॥
@@ -546,7 +546,7 @@ Miśra Purandara  by him  respected  this  I know
 pitāra sambandhe dom̐hāke pūjya kari’ māni  
 of my father  through the connection  both  worthy of honour  making  I regard
 
-(54) Miśra Purandara, I know, was respected by him. Because of their bond with my father, I honour them both.”
+(54) Miśra Purandara, I know, was honoured by my father, Viśārada, and for his sake I revere them both.”
 
 নদীয়া-সম্বন্ধে সার্ব্বভৌম হৃষ্ট হৈলা ৷  
 প্রীত হঞা গোসাঞিরে কহিতে লাগিলা ॥ ৫৫ ॥
@@ -686,7 +686,7 @@ Mukunda Datta  taking  came  Sārvabhauma’s  to the place
 sārvabhauma kichu tām̐re balilā vacane  
 Sārvabhauma  something  to him  said  in words
 
-(68) Then he came with Mukunda Datta to Sārvabhauma, and Sārvabhauma said to him:
+(68) Then he came with Mukunda Datta to Sārvabhauma, and the Bhaṭṭācārya said to him:
 
 প্রকৃতি-বিনীত, সন্ন্যাসী দেখিতে সুন্দর ৷  
 আমার বহুপ্রীতি বাড়ে ইঁহার উপর ॥ ৬৯ ॥
@@ -826,7 +826,7 @@ inference  proof  is not  of the Lord  of the truth  in knowing
 kṛpā vinā īśvarere keha nāhi jāne  
 mercy  without  the Lord  anyone  not  knows
 
-(82) Inference is no proof in knowing the truth of the Lord. Without His mercy no one can know the Lord.
+(82) Inference is no proof where the truth of the Lord is concerned; without His mercy no one can know Him.
 
 ঈশ্বরের কৃপা-লেশ হয় ত’ যাহারে ৷  
 সেই ত’ ঈশ্বর-তত্ত্ব জানিবারে পারে ॥ ৮৩ ॥
@@ -1125,7 +1125,7 @@ māyā  My  taking up
 vadatāṁ kiṁ nu durghaṭam  
 of those who speak  what  indeed  is impossible
 
-(109) “What the brāhmaṇas say is reasonable, for the elements are present in one another everywhere. And for those who speak relying on My māyā, what is impossible to assert?” (Śrīmad-Bhāgavatam, 11.22.4)
+(109) “What the brāhmaṇas say is reasonable, for the elements are present in one another everywhere. And when people speak relying on My māyā, what is there they cannot assert?” (Śrīmad-Bhāgavatam, 11.22.4)
 
 তবে ভট্টাচার্য্য কহে, যাহ গোসাঞির স্থানে ৷  
 আমার নামে গণ-সহিত কর নিমন্ত্রণে ॥ ১১০ ॥
@@ -1225,7 +1225,7 @@ the Bhaṭṭācārya  together with  his  to the house  He came
 prabhure āsana diyā āpane vasilā  
 to the Lord  a seat  giving  himself  sat
 
-(119) Together with the Bhaṭṭācārya He came to his house, and there the Bhaṭṭācārya offered the Lord a seat and then sat down himself.[^40]
+(119) From there they went together to the Bhaṭṭācārya’s house, where he offered the Lord a seat and then sat down himself.[^40]
 
 বেদান্ত পড়াইতে তবে আরম্ভ করিলা ৷  
 স্নেহ-ভক্তি করি’ কিছু প্রভুরে কহিলা ॥ ১২০ ॥
@@ -1345,7 +1345,7 @@ of the sūtra  the meaning  the commentary  speaks  revealing
 tumi, bhāṣya kaha — sūtrera artha ācchādiyā  
 you  commentary  speak  of the sūtra  the meaning  covering
 
-(131) A commentary (*bhāṣya*) should set forth the meaning of a sūtra and bring it to light, but you give a commentary that covers the meaning of the sūtra.
+(131) A commentary (*bhāṣya*) should bring the meaning of a sūtra to light, but your commentary only covers it.
 
 সূত্রের মুখ্য অর্থ না করহ ব্যাখ্যান ৷  
 কল্পনার্থে তুমি তাহা কর আচ্ছাদন ॥ ১৩২ ॥
@@ -1365,7 +1365,7 @@ of the Upaniṣads  in the words  which  primary  meaning  is
 sei artha mukhya, — vyāsa-sūtre saba kaya  
 that  meaning  primary  in Vyāsa’s sūtras  all  is said
 
-(133) The primary meaning of the words of the Upaniṣads is the principal meaning, and it is all stated in the sūtras of Vyāsa.
+(133) Whatever is the primary meaning of the words of the Upaniṣads, that is the principal meaning, and Vyāsa’s sūtras state it all.
 
 মুখ্যার্থ ছাড়িয়া কর গৌণার্থ কল্পনা ৷  
 ‘অভিধা’-বৃত্তি ছাড়ি’ কর শব্দের ‘লক্ষণা’ ॥ ১৩৪ ॥
@@ -1459,7 +1459,7 @@ of reflection  on application  being  indeed  of them
 prāyo balīyaḥ sa-viśeṣam eva  
 as a rule  stronger  the one with features  alone
 
-(142) “Whatever śruti speaks of the featureless directly denotes Him who has features; and when such texts are carefully examined, the sense ‘with features’ is, as a rule, the stronger.” (Hayaśīrṣa-pañcarātra, quoted in the Caitanya-candrodaya-nāṭaka, 6.21)[^48]
+(142) “Whatever śruti speaks of the featureless directly denotes Him who has features; and when such texts are carefully examined, the sense ‘with features’ almost always proves the stronger.” (Hayaśīrṣa-pañcarātra, quoted in the Caitanya-candrodaya-nāṭaka, 6.21)[^48]
 
 ব্রহ্ম হৈতে জন্মে বিশ্ব, ব্রহ্মেতে জীবয় ৷  
 সেই ব্রহ্মে পুনরপি হয়ে যায় লয় ॥ ১৪৩ ॥
@@ -1509,7 +1509,7 @@ by the word “Brahman”  is meant  the complete  Svayaṁ  Bhagavān
 svayaṁ bhagavān kṛṣṇa, — śāstrera pramāṇa  
 Svayaṁ  Bhagavān  Kṛṣṇa  of scripture  the evidence
 
-(147) The word “Brahman” denotes the complete Svayaṁ Bhagavān, the Lord Himself, and the Lord Himself is Kṛṣṇa — such is the evidence of scripture.
+(147) The word “Brahman” denotes the complete Svayaṁ Bhagavān, and Svayaṁ Bhagavān is Kṛṣṇa — such is the testimony of scripture.
 
 বেদের নিগূঢ় অর্থ বুঝন না হয় ৷  
 পুরাণ-বাক্যে সেই অর্থ করয় নিশ্চয় ॥ ১৪৮ ॥
@@ -1601,7 +1601,7 @@ of worldly existence  the miseries  all
 avāpnoty atra santatān  
 obtains  here  continual
 
-(155) “Enveloped by that ignorance, O king, the potency called the knower of the field, though it can enter both spirit and matter, suffers here without end all the miseries of worldly existence.” (Viṣṇu Purāṇa, 6.7.62)[^56]
+(155) “O king, the potency called the knower of the field can enter both spirit and matter; yet here, enveloped by that ignorance, it suffers without end all the miseries of worldly existence.” (Viṣṇu Purāṇa, 6.7.62)[^56]
 
 তয়া তিরোহিতত্বাচ্চ শক্তিঃ ক্ষেত্রজ্ঞসংজ্ঞিতা ৷  
 সর্ব্বভূতেষু ভূপাল তারতম্যেন বর্ত্ততে ॥ ১৫৬ ॥
@@ -2129,7 +2129,7 @@ by the Lord’s  mercy  to him  were revealed  all  truths
 nāma-prema-dāna-ādi varṇena mahattva  
 of the holy name  of love  the giving  and so on  he describes  the greatness
 
-(205) By the Lord’s mercy all truths were revealed to him, and he described the greatness of the holy name, of the gift of love and the rest.
+(205) By the Lord’s mercy all truths were revealed to him, and he described the glory of the holy name, of the gift of love and of much else.
 
 শত শ্লোক কৈল এক দণ্ড না যাইতে ৷  
 বৃহস্পতি তৈছে শ্লোক না পারে করিতে ॥ ২০৬ ॥
@@ -2169,7 +2169,7 @@ seeing  Gopīnāthācārya  delighted at heart
 bhaṭṭācāryera nṛtya dekhi’ hāse prabhura gaṇa  
 the Bhaṭṭācārya’s  dance  seeing  laugh  the Lord’s  companions
 
-(209) Seeing this, Gopīnāthācārya was delighted at heart, and the Lord’s companions laughed to see the Bhaṭṭācārya dance.
+(209) Seeing this, Gopīnātha Ācārya was delighted at heart, and the Lord’s companions laughed to see the Bhaṭṭācārya dance.
 
 গোপীনাথাচার্য্য কহে মহাপ্রভুর প্রতি ৷  
 সেই ভট্টাচার্য্যের তুমি কৈলে এই গতি ॥ ২১০ ॥
@@ -2179,7 +2179,7 @@ Gopīnāthācārya  says  Mahāprabhu  to
 sei bhaṭṭācāryera tumi kaile ei gati  
 that very  Bhaṭṭācārya’s  You  have made  this  state
 
-(210) Gopīnāthācārya said to Mahāprabhu, “It is that very Bhaṭṭācārya whom You have brought to such a state!”
+(210) Gopīnātha Ācārya said to Mahāprabhu, “It is that very Bhaṭṭācārya whom You have brought to such a state!”
 
 প্রভু কহে, — তুমি ভক্ত, তোমার সঙ্গ হৈতে ৷  
 জগন্নাথ ইঁহারে কৃপা কৈল ভালমতে ॥ ২১১ ॥
@@ -2229,7 +2229,7 @@ the prayers  hearing  Mahāprabhu  to His own lodging  came
 bhaṭṭācārya ācārya-dvāre bhikṣā karāilā  
 the Bhaṭṭācārya  through the Ācārya  a meal  arranged
 
-(215) Having heard these prayers, Mahāprabhu returned to His lodging, and the Bhaṭṭācārya had a meal served to Him through Gopīnāthācārya.
+(215) Having heard these prayers, Mahāprabhu returned to His lodging, and the Bhaṭṭācārya had a meal served to Him through Gopīnātha Ācārya.
 
 আর দিন প্রভু গেলা জগন্নাথ-দরশনে ৷  
 দর্শন করিলা জগন্নাথ-শয্যোত্থানে ॥ ২১৬ ॥
@@ -2279,7 +2279,7 @@ at that time  the Bhaṭṭācārya’s  there was  waking
 kṛṣṇa-nāma śuni’ prabhura ānanda bāḍilā  
 Kṛṣṇa’s name  hearing  the Lord’s  joy  increased
 
-(220) The Bhaṭṭācārya awoke clearly saying “Kṛṣṇa! Kṛṣṇa!”, and when the Lord heard the name of Kṛṣṇa, His joy grew.
+(220) As he woke, the Bhaṭṭācārya called out clearly, “Kṛṣṇa! Kṛṣṇa!”, and when the Lord heard the name of Kṛṣṇa, His joy grew.
 
 বাহিরে প্রভুর তেঁহো পাইল দরশন ৷  
 আস্তে-ব্যস্তে আসি’ কৈল চরণ বন্দন ॥ ২২১ ॥
@@ -2289,7 +2289,7 @@ outside  of the Lord  he  obtained  sight
 āste-vyaste āsi’ kaila caraṇa vandana  
 hurriedly  coming  he made  to the feet  obeisance
 
-(221) He saw the Lord outside, and hurrying out, he bowed at His feet.
+(221) Seeing the Lord outside, he hastened to Him and bowed at His feet.
 
 বসিতে আসন দিয়া দুঁহেতে বসিলা ৷  
 প্রসাদান্ন খুলি’ প্রভু তাঁর হাতে দিলা ॥ ২২২ ॥
@@ -2377,7 +2377,7 @@ sweat  trembling  tears  both  in bliss  floated
 premāviṣṭa hañā prabhu kahite lāgilā  
 absorbed in love  becoming  the Lord  to speak  began
 
-(229) Bathed in sweat, trembling and in tears, both floated in bliss. Overwhelmed by love, the Lord began to speak:
+(229) Bathed in sweat, trembling and in tears, both floated in bliss. Filled with love, the Lord began to speak:
 
 আজি মুঞি অনায়াসে জিনিনু ত্রিভুবন ৷  
 আজি মুঞি করিনু বৈকুণ্ঠ আরোহণ ॥ ২৩০ ॥
@@ -2473,7 +2473,7 @@ Gopīnāthācārya  his  Vaiṣṇava devotion  seeing
 ‘hari’ ‘hari’ bali’ nāce hāte tāli diyā  
 “Hari”  “Hari”  calling  dances  hands  clapping
 
-(238) Seeing his devotion as a Vaiṣṇava, Gopīnāthācārya danced, clapping his hands and calling, “Hari! Hari!”
+(238) Seeing his devotion as a Vaiṣṇava, Gopīnātha Ācārya danced, clapping his hands and calling, “Hari! Hari!”
 
 আর দিন ভট্টাচার্য্য আইলা দর্শনে ৷  
 জগন্নাথ না দেখি’ আইলা প্রভু-স্থানে ॥ ২৩৯ ॥
@@ -2483,7 +2483,7 @@ the next  day  the Bhaṭṭācārya  came  for darśana
 jagannātha nā dekhi’ āilā prabhu-sthāne  
 Jagannātha  not  seeing  came  to the Lord’s place
 
-(239) The next day the Bhaṭṭācārya came for darśana, but before seeing Jagannātha he came to the Lord.[^86]
+(239) The next day the Bhaṭṭācārya set out for darśana, but before seeing Jagannātha he went to the Lord.[^86]
 
 দণ্ডবৎ করি’ কৈল বহুবিধ স্তুতি ৷  
 দৈন্য করি’ কহে নিজ-পূর্ব্ব দুর্ম্মতি ॥ ২৪০ ॥
@@ -2537,7 +2537,7 @@ Gopīnāthācārya  says  I  before  what  said
 śuna, bhaṭṭācārya, tomāra sei ta’ haila’  
 listen  Bhaṭṭācārya  to you  that  indeed  has happened
 
-(244) Gopīnāthācārya said, “Listen, Bhaṭṭācārya: what I told you before has now happened to you.”
+(244) Gopīnātha Ācārya said, “Listen, Bhaṭṭācārya: what I told you before has now happened to you.”
 
 ভট্টাচার্য্য কহে তাঁরে করি’ নমস্কারে ৷  
 তোমার সম্বন্ধে প্রভু কৃপা কৈল মোরে ॥ ২৪৫ ॥
@@ -2617,7 +2617,7 @@ two  verses  on the outer wall  writing  he kept
 tabe jagadānanda patrī prabhuke lañā dila  
 then  Jagadānanda  the letter  to the Lord  taking  gave
 
-(252) He wrote the two verses on the outer wall and kept them there; then Jagadānanda took the letter and gave it to the Lord.
+(252) He copied the two verses onto the outer wall; then Jagadānanda took the letter and gave it to the Lord.
 
 প্রভু শ্লোক পড়ি’ পত্র ছিণ্ডিয়া ফেলিল ৷  
 ভিত্যে দেখি’ ভক্ত সব শ্লোক কণ্ঠে কৈল ॥ ২৫৩ ॥
@@ -2894,7 +2894,7 @@ which  Bhaṭṭācārya  studies  teaches  Māyāvāda
 tām̐ra aiche vākya sphure caitanya-prasāde  
 his  such  words  manifest  by Caitanya’s grace
 
-(278) That Bhaṭṭācārya who once studied and taught Māyāvāda — by Caitanya’s grace such words now came forth from him.
+(278) The Bhaṭṭācārya had once studied and taught Māyāvāda, yet by Caitanya’s grace such words now sprang from his lips.
 
 লোহাকে যাবৎ স্পর্শি’ হেম নাহি করে ৷  
 তাবৎ স্পর্শমণি কেহ চিনিতে না পারে ॥ ২৭৯ ॥
@@ -2971,7 +2971,7 @@ with faith  Caitanya’s pastimes  hears  who  person
 acire milaye tām̐re caitanya-caraṇa  
 soon  are attained  by him  Caitanya’s feet
 
-(286) Whoever hears Caitanya’s pastimes with faith soon attains Caitanya’s feet.
+(286) Whoever hears Caitanya’s pastimes with faith soon attains His feet.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৮৭ ॥
