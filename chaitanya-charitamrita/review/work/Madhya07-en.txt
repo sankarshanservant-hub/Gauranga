@@ -282,7 +282,7 @@ fn: Her story is told in Madhya 15 (Ṣāṭhī, Sārvabhauma’s daughter, and 
 ## 53
 w: later  indeed  I shall tell  that  making  in detail
 w: now  I tell  the Lord’s  southern journey  the account
-tr: I shall tell it in detail later on; now I tell the account of the Lord’s journey to the south.
+tr: I shall tell it in detail later on; now I relate the account of the Lord’s journey to the south.
 
 ## 54
 w: days  five  staying  the Lord  at the Bhaṭṭācārya’s place
@@ -312,7 +312,8 @@ tr: With the Bhaṭṭācārya and all His own people He walked around Jagannāt
 ## 59
 w: along the seashore  on the road to Ālālanātha
 w: Sārvabhauma  said  to Gopīnātha Ācārya
-tr: On the road to Ālālanātha along the seashore, Sārvabhauma said to Gopīnātha Ācārya,
+tr: On the road to Ālālanātha along the seashore, Sārvabhauma said to Gopīnātha Ācārya:
+fn: *Amṛta-pravāha-bhāṣya*: the road south runs along the seashore; six krośas from Purī lies the village of Ālālanātha, where the Deity of four-armed Vāsudeva, Ālālanātha, resides.
 
 ## 60
 w: four  kaupīnas and outer cloths  I have kept  at home
@@ -322,22 +323,24 @@ tr: “I have kept four sets of kaupīnas and outer cloths at home. Have them br
 ## 61
 w: then  Sārvabhauma  says  at the Lord’s  feet
 w: certainly  You will fulfil  Prabhu  my  request
-tr: Then Sārvabhauma said at the Lord’s feet, “Prabhu, please fulfil my request.
+tr: Then Sārvabhauma, bowing at the Lord’s feet, said, “Prabhu, be sure to grant my request.
 
 ## 62
 w: Rāmānanda Rāya  is  on the bank of the Godāvarī
 w: governor  is  he  in Vidyānagara
-tr: Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor in Vidyānagara.
+tr: Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor of Vidyānagara.
+fn: *Amṛta-pravāha-bhāṣya*: *adhikārī* — the chief royal official; Vidyānagara is now called Porabandar.
 
 ## 63
 w: as a śūdra and a worldly man  regarding  neglect  not  You will do
 w: by my  word  him  certainly  You will meet
 tr: Do not neglect him, thinking him a śūdra and a worldly man (*viṣayī*). At my request, be sure to meet him.
+fn: *Anubhāṣya*: the karaṇa caste, into which Rāmānanda was born, was known in Utkala society as “śaukra-śūdras” (śūdras by birth); yet in truth he was a brāhmaṇa — indeed a Vaiṣṇava paramahaṁsa, the guru of brāhmaṇas. And though to the world he was a royal servant, a *viṣayī*, in truth he was a sannyāsī of the highest kind.
 
 ## 64
 w: of Your  company  worthy  he  the one  person
 w: on earth  rasika  devotee  there is no  his  equal
-tr: He is the one person worthy of Your company. On earth there is no devotee who knows the taste of rasa (*rasika*) to equal him.
+tr: He is the one man worthy of Your company; in all the world there is no devotee who relishes rasa (*rasika*) as he does.
 
 ## 65
 w: learning  and  the rasa of bhakti  of both  he  the limit
@@ -348,21 +351,24 @@ tr: In learning and in the rasa of devotion he has reached the limit of both. Wh
 w: extraordinary  words  actions  his  not  understanding
 w: mockery  I have made  him  a ‘Vaiṣṇava’  knowing
 tr: Not understanding his extraordinary words and actions, I used to mock him, knowing him to be a Vaiṣṇava.
+fn: Heading in the edition: formerly the Bhaṭṭācārya mocked the Vaiṣṇava, thinking him lower than a smārta. *Anubhāṣya*: so the jñānīs and karmīs who turn away from Caitanya mock a Vaiṣṇava: for them sense perception and inference are everything, while the Vaiṣṇava relies on revealed testimony (*śabda-pramāṇa*) and follows the path of *śrauta*.
 
 ## 67
 w: by Your  grace  now  I know  his  truth
 w: speaking with him  You will know  his  how  great
 tr: By Your grace I now understand who he truly is. Speak with him, and You will see how great he is.”
+fn: Heading in the edition: later, by Caitanya’s mercy, the Bhaṭṭācārya realised the greatness of the spiritual Vaiṣṇava.
 
 ## 68
 w: acceptance  making  the Lord  his  words
 w: him  farewell  to give  him  made  an embrace
-tr: The Lord accepted his words and, bidding him farewell, embraced him,
+tr: The Lord accepted his words and, bidding him farewell, embraced him.
 
 ## 69
 w: at home  Kṛṣṇa  worshipping  Me  make  blessings
 w: to Nīlācala  I may come  so that  by your  grace
-tr: saying, “Worship Kṛṣṇa at home and bless Me, so that by your grace I may return to Nīlācala.”
+tr: “Worship Kṛṣṇa at home and bless Me, so that by your grace I may return to Nīlācala.”
+fn: *Anubhāṣya*: here the Lord honours a Vaiṣṇava householder: a pure Vaiṣṇava gṛhastha who has taken shelter at Śrī Caitanya’s feet is worthy of worship even from a sannyāsī and is his guru; this the Lord showed by asking Sārvabhauma for his blessing.
 
 ## 70
 w: so  saying  Mahāprabhu  made  departure
@@ -384,7 +390,8 @@ w: than a thunderbolt  even  harder
 w: softer  than a flower  even
 w: of those beyond this world  the hearts
 w: who  indeed  to understand  is able
-tr: “Harder than a thunderbolt and softer than a flower are the hearts of those who are beyond this world. Who can understand them?”
+tr: “Harder than a thunderbolt, softer than a flower — such are the hearts of extraordinary souls. Who can ever understand them?” (Uttara-rāma-carita, 3.27)
+fn: Heading in the edition: as contradictory attributes meet in Bhagavān, so His devotee is both soft and hard; the verse is from Bhavabhūti’s *Uttara-rāma-carita* (Act 3, verse 27).
 
 ## 74
 w: Nityānanda Prabhu  the Bhaṭṭācārya  raised
@@ -399,7 +406,7 @@ tr: The devotees quickly came and joined the Lord, and then Gopīnātha arrived 
 ## 76
 w: with all  the Lord  then  to Ālālanātha  came
 w: obeisance  making  to Him  many prayers  offered
-tr: Then the Lord came with them all to Ālālanātha, bowed down to Him and offered Him many prayers.
+tr: Then the Lord came with them all to Ālālanātha, bowed down to the Deity and offered Him many prayers.
 
 ## 77
 w: absorbed in love  dancing and singing  He did  for some time
@@ -424,7 +431,7 @@ tr: The sight filled the people with wonder. Of all who came, no one went home.
 ## 81
 w: some  dance  some  sing  Śrī Kṛṣṇa  Gopāla
 w: in love  floated  the people  women, the old and children
-tr: Some danced, and some sang, “Śrī Kṛṣṇa! Gopāla!” Everyone, women, old people and children alike, floated in love.
+tr: Some danced, and some sang, “Śrī Kṛṣṇa! Gopāla!” Everyone — women, the old and children alike — was carried away on the tide of love.
 
 ## 82
 w: seeing  Nityānanda  Prabhu  says  to the devotees
@@ -469,7 +476,7 @@ tr: In this way people came and went until evening. They all became Vaiṣṇava
 ## 90
 w: in this way  at that  place  with the devotees
 w: that  night  He spent  in the joy of talks about Kṛṣṇa
-tr: In this way He spent that night there with the devotees, rejoicing in talks about Kṛṣṇa.
+tr: So He spent that night there with the devotees, rejoicing in talks about Kṛṣṇa.
 
 ## 91
 w: in the morning  bath  having taken  He made  departure
@@ -503,7 +510,8 @@ w: Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa 
 w: Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  Kṛṣṇa  save  Me
 w: Rāma  descendant of Raghu  Rāma  descendant of Raghu  Rāma  descendant of Raghu  protect  Me
 w: Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  save  Me
-tr: “Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Protect Me! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Save Me! Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Protect Me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Save Me!”
+tr: “O Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Protect Me! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Save Me! Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Protect Me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Save Me!”
+fn: Rāghava — the descendant of Raghu; Keśava — the slayer of Keśī. The vocative *he* that ends the first two lines is rendered by “O” at their beginning. Heading in the edition: the verse sung by the Lord Himself. *Amṛta-pravāha-bhāṣya*: *rakṣa mām* — “protect me”; *pāhi mām* — “keep me”.
 
 ## 97
 w: this  verse  reciting  on the road  went  Gaurahari
@@ -519,6 +527,7 @@ tr: Those people, maddened with love, would call out, “Hari! Kṛṣṇa!” a
 w: after some time  stopping  the Lord  them  embracing
 w: farewell  made  them  power  transmitting
 tr: After a while the Lord would stop, embrace them, invest them with His power and send them back.
+fn: *Amṛta-pravāha-bhāṣya*: the essence of the *hlādinī* potency and the essence of the *saṁvit* potency together form *bhakti-śakti*, the power of devotion; whoever receives it by the mercy of Kṛṣṇa or His devotee becomes a supreme devotee. On whomever Mahāprabhu bestowed His mercy, He invested this power and entrusted him with preaching the Vaiṣṇava dharma.
 
 ## 100
 w: that person  to his own village  making  return
@@ -558,7 +567,7 @@ tr: In whichever village He stayed and took His meal in someone’s house, all t
 ## 107
 w: by the Lord’s  mercy  they become  mahā-bhāgavatas
 w: all of them  ācāryas  becoming  delivered  the world
-tr: By the Lord’s mercy they became mahā-bhāgavatas, and all of them, becoming ācāryas, delivered the world.
+tr: By the Lord’s mercy they became mahā-bhāgavatas, and as ācāryas they all delivered the world.
 
 ## 108
 w: in this way  He did  until  He went  to Setubandha
@@ -569,6 +578,7 @@ tr: He did this all the way to Setubandha, and through their connection with the
 w: in Navadvīpa  which  power  not  He made  manifest
 w: that  power  manifesting  He delivered  the southern country
 tr: The power He had not manifested in Navadvīpa He now manifested to deliver the southern country.
+fn: *Amṛta-pravāha-bhāṣya*: although Navadvīpa is a *dhāma*, the *nyāya* and *smṛti* śāstras were then especially strong there, and among their teachers many had turned away from the Lord; to deliver them the Lord showed no special power.
 
 ## 110
 w: the Lord  who  worships  to him  His  mercy  comes

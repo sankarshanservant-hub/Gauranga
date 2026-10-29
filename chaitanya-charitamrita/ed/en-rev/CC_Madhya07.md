@@ -536,7 +536,7 @@ later  indeed  I shall tell  that  making  in detail
 ebe kahi prabhura dakṣiṇa-yātrā samācāra  
 now  I tell  the Lord’s  southern journey  the account
 
-(53) I shall tell it in detail later on; now I tell the account of the Lord’s journey to the south.
+(53) I shall tell it in detail later on; now I relate the account of the Lord’s journey to the south.
 
 দিন পাঁচ রহি’ প্রভু ভট্টাচার্য্য-স্থানে ৷  
 চলিবার লাগি’ আজ্ঞা মাগিলা আপনে ॥ ৫৪ ॥
@@ -596,7 +596,7 @@ along the seashore  on the road to Ālālanātha
 sārvabhauma kahilena ācārya-gopīnāthe  
 Sārvabhauma  said  to Gopīnātha Ācārya
 
-(59) On the road to Ālālanātha along the seashore, Sārvabhauma said to Gopīnātha Ācārya,
+(59) On the road to Ālālanātha along the seashore, Sārvabhauma said to Gopīnātha Ācārya:[^12]
 
 চারি কৌপীন-বহির্ব্বাস রাখিয়াছি ঘরে ৷  
 তাহা, প্রসাদান্ন, লঞা আইস বিপ্রদ্বারে ॥ ৬০ ॥
@@ -616,7 +616,7 @@ then  Sārvabhauma  says  at the Lord’s  feet
 avaśya pālibe, prabhu, mora nivedane  
 certainly  You will fulfil  Prabhu  my  request
 
-(61) Then Sārvabhauma said at the Lord’s feet, “Prabhu, please fulfil my request.
+(61) Then Sārvabhauma, bowing at the Lord’s feet, said, “Prabhu, be sure to grant my request.
 
 ‘রামানন্দ রায়’ আছে গোদাবরী-তীরে ৷  
 অধিকারী হয়েন তিঁহো বিদ্যানগরে ॥ ৬২ ॥
@@ -626,7 +626,7 @@ Rāmānanda Rāya  is  on the bank of the Godāvarī
 adhikārī hayena tim̐ho vidyānagare  
 governor  is  he  in Vidyānagara
 
-(62) Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor in Vidyānagara.
+(62) Rāmānanda Rāya lives on the bank of the Godāvarī; he is the governor of Vidyānagara.[^13]
 
 শূদ্র বিষয়ী-জ্ঞানে উপেক্ষা না করিবে ৷  
 আমার বচনে তাঁরে অবশ্য মিলিবে ॥ ৬৩ ॥
@@ -636,7 +636,7 @@ as a śūdra and a worldly man  regarding  neglect  not  You will do
 āmāra vacane tām̐re avaśya milibe  
 by my  word  him  certainly  You will meet
 
-(63) Do not neglect him, thinking him a śūdra and a worldly man (*viṣayī*). At my request, be sure to meet him.
+(63) Do not neglect him, thinking him a śūdra and a worldly man (*viṣayī*). At my request, be sure to meet him.[^14]
 
 তোমার সঙ্গের যোগ্য তিঁহো একজন ৷  
 পৃথিবীতে রসিক ভক্ত নাহি তাঁর সম ॥ ৬৪ ॥
@@ -646,7 +646,7 @@ of Your  company  worthy  he  the one  person
 pṛthivīte rasika bhakta nāhi tām̐ra sama  
 on earth  rasika  devotee  there is no  his  equal
 
-(64) He is the one person worthy of Your company. On earth there is no devotee who knows the taste of rasa (*rasika*) to equal him.
+(64) He is the one man worthy of Your company; in all the world there is no devotee who relishes rasa (*rasika*) as he does.
 
 পাণ্ডিত্য আর ভক্তিরস, — দুঁহের তিঁহো সীমা ৷  
 সম্ভাষিলে জানিবে তুমি তাঁহার মহিমা ॥ ৬৫ ॥
@@ -666,7 +666,7 @@ extraordinary  words  actions  his  not  understanding
 parihāsa kariyāchi tām̐re ‘vaiṣṇava’ jāniyā  
 mockery  I have made  him  a ‘Vaiṣṇava’  knowing
 
-(66) Not understanding his extraordinary words and actions, I used to mock him, knowing him to be a Vaiṣṇava.
+(66) Not understanding his extraordinary words and actions, I used to mock him, knowing him to be a Vaiṣṇava.[^15]
 
 তোমার প্রসাদে এবে জানিনু তাঁর তত্ত্ব ৷  
 সম্ভাষিলে জানিবে তাঁর যেমন মহত্ত্ব ॥ ৬৭ ॥
@@ -676,7 +676,7 @@ by Your  grace  now  I know  his  truth
 sambhāṣile jānibe tām̐ra yemana mahattva  
 speaking with him  You will know  his  how  great
 
-(67) By Your grace I now understand who he truly is. Speak with him, and You will see how great he is.”
+(67) By Your grace I now understand who he truly is. Speak with him, and You will see how great he is.”[^16]
 
 অঙ্গীকার করি’ প্রভু তাঁহার বচন ৷  
 তাঁরে বিদায় দিতে তাঁরে কৈল আলিঙ্গন ॥ ৬৮ ॥
@@ -686,7 +686,7 @@ acceptance  making  the Lord  his  words
 tām̐re vidāya dite tām̐re kaila āliṅgana  
 him  farewell  to give  him  made  an embrace
 
-(68) The Lord accepted his words and, bidding him farewell, embraced him,
+(68) The Lord accepted his words and, bidding him farewell, embraced him.
 
 ঘরে কৃষ্ণ ভজি’ মোরে করিহ আশীর্ব্বাদে ৷  
 নীলাচলে আসি’ যেন তোমার প্রসাদে ॥ ৬৯ ॥
@@ -696,7 +696,7 @@ at home  Kṛṣṇa  worshipping  Me  make  blessings
 nīlācale āsi’ yena tomāra prasāde  
 to Nīlācala  I may come  so that  by your  grace
 
-(69) saying, “Worship Kṛṣṇa at home and bless Me, so that by your grace I may return to Nīlācala.”
+(69) “Worship Kṛṣṇa at home and bless Me, so that by your grace I may return to Nīlācala.”[^17]
 
 এত বলি’ মহাপ্রভু করিলা গমন ৷  
 মূর্চ্ছিত হঞা তাঁহা পড়িলা সার্ব্বভৌম ॥ ৭০ ॥
@@ -740,7 +740,7 @@ of those beyond this world  the hearts
 ko nu vijñātum īśvaraḥ  
 who  indeed  to understand  is able
 
-(73) “Harder than a thunderbolt and softer than a flower are the hearts of those who are beyond this world. Who can understand them?”
+(73) “Harder than a thunderbolt, softer than a flower — such are the hearts of extraordinary souls. Who can ever understand them?” (Uttara-rāma-carita, 3.27)[^18]
 
 নিত্যানন্দপ্রভু ভট্টাচার্য্যে উঠাইল ৷  
 তাঁর লোকসঙ্গে তাঁরে ঘরে পাঠাইল ॥ ৭৪ ॥
@@ -770,7 +770,7 @@ with all  the Lord  then  to Ālālanātha  came
 namaskāra kari’ tāre bahu-stuti kailā  
 obeisance  making  to Him  many prayers  offered
 
-(76) Then the Lord came with them all to Ālālanātha, bowed down to Him and offered Him many prayers.
+(76) Then the Lord came with them all to Ālālanātha, bowed down to the Deity and offered Him many prayers.
 
 প্রেমাবেশে নৃত্যগীত কৈল কতক্ষণ ৷  
 দেখিতে আইলা তাঁহা বৈসে যত জন ॥ ৭৭ ॥
@@ -820,7 +820,7 @@ some  dance  some  sing  Śrī Kṛṣṇa  Gopāla
 premete bhāsila loka, — strī-vṛddha-ābāla  
 in love  floated  the people  women, the old and children
 
-(81) Some danced, and some sang, “Śrī Kṛṣṇa! Gopāla!” Everyone, women, old people and children alike, floated in love.
+(81) Some danced, and some sang, “Śrī Kṛṣṇa! Gopāla!” Everyone — women, the old and children alike — was carried away on the tide of love.
 
 দেখি’ নিত্যানন্দ প্রভু কহে ভক্তগণে ৷  
 এইরূপে আগে নৃত্য হবে গ্রামে-গ্রামে ॥ ৮২ ॥
@@ -910,7 +910,7 @@ in this way  at that  place  with the devotees
 sei rātri goṅāilā kṛṣṇa-kathā-raṅge  
 that  night  He spent  in the joy of talks about Kṛṣṇa
 
-(90) In this way He spent that night there with the devotees, rejoicing in talks about Kṛṣṇa.
+(90) So He spent that night there with the devotees, rejoicing in talks about Kṛṣṇa.
 
 প্রাতঃকালে স্নান করি’ করিলা গমন ৷  
 ভক্তগণে বিদায় দিলা করি’ আলিঙ্গন ॥ ৯১ ॥
@@ -982,7 +982,7 @@ Rāma  descendant of Raghu  Rāma  descendant of Raghu  Rāma  descendant of Rag
 kṛṣṇa! keśava! kṛṣṇa! keśava! kṛṣṇa! keśava! pāhi mām  
 Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  save  Me
 
-(96) “Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Protect Me! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Save Me! Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Protect Me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Save Me!”
+(96) “O Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! O Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Protect Me! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Save Me! Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Protect Me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Save Me!”[^19]
 
 এই শ্লোক পড়ি’ পথে চলিলা গৌরহরি ৷  
 লোক দেখি’ পথে কহে, — বল ‘হরি’ ‘হরি’ ॥ ৯৭ ॥
@@ -1012,7 +1012,7 @@ after some time  stopping  the Lord  them  embracing
 vidāya karila tāre śakti sañcāriyā  
 farewell  made  them  power  transmitting
 
-(99) After a while the Lord would stop, embrace them, invest them with His power and send them back.
+(99) After a while the Lord would stop, embrace them, invest them with His power and send them back.[^20]
 
 সেইজন নিজ-গ্রামে করিয়া গমন ৷  
 ‘কৃষ্ণ’ বলি’ হাসে, কান্দে, নাচে অনুক্ষণ ॥ ১০০ ॥
@@ -1092,7 +1092,7 @@ by the Lord’s  mercy  they become  mahā-bhāgavatas
 seisaba ācārya hañā tārila jagat  
 all of them  ācāryas  becoming  delivered  the world
 
-(107) By the Lord’s mercy they became mahā-bhāgavatas, and all of them, becoming ācāryas, delivered the world.
+(107) By the Lord’s mercy they became mahā-bhāgavatas, and as ācāryas they all delivered the world.
 
 এইমত কৈলা যাবৎ গেলা সেতুবন্ধে ৷  
 সর্ব্বদেশ ‘বৈষ্ণব’ হৈল প্রভুর সম্বন্ধে ॥ ১০৮ ॥
@@ -1112,7 +1112,7 @@ in Navadvīpa  which  power  not  He made  manifest
 sei śakti prakāśi’ nistārila dakṣiṇa-deśe  
 that  power  manifesting  He delivered  the southern country
 
-(109) The power He had not manifested in Navadvīpa He now manifested to deliver the southern country.
+(109) The power He had not manifested in Navadvīpa He now manifested to deliver the southern country.[^21]
 
 প্রভুকে যে ভজে, তারে তাঁর কৃপা হয় ৷  
 সেই সে এ-সব লীলা সত্য করি’ লয় ॥ ১১০ ॥
@@ -1598,3 +1598,23 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^10]: *Anubhāṣya*: *leuṭi* — the western (Hindi) word *lauṭ*, “returning”.
 
 [^11]: Her story is told in Madhya 15 (Ṣāṭhī, Sārvabhauma’s daughter, and her husband Amogha).
+
+[^12]: *Amṛta-pravāha-bhāṣya*: the road south runs along the seashore; six krośas from Purī lies the village of Ālālanātha, where the Deity of four-armed Vāsudeva, Ālālanātha, resides.
+
+[^13]: *Amṛta-pravāha-bhāṣya*: *adhikārī* — the chief royal official; Vidyānagara is now called Porabandar.
+
+[^14]: *Anubhāṣya*: the karaṇa caste, into which Rāmānanda was born, was known in Utkala society as “śaukra-śūdras” (śūdras by birth); yet in truth he was a brāhmaṇa — indeed a Vaiṣṇava paramahaṁsa, the guru of brāhmaṇas. And though to the world he was a royal servant, a *viṣayī*, in truth he was a sannyāsī of the highest kind.
+
+[^15]: Heading in the edition: formerly the Bhaṭṭācārya mocked the Vaiṣṇava, thinking him lower than a smārta. *Anubhāṣya*: so the jñānīs and karmīs who turn away from Caitanya mock a Vaiṣṇava: for them sense perception and inference are everything, while the Vaiṣṇava relies on revealed testimony (*śabda-pramāṇa*) and follows the path of *śrauta*.
+
+[^16]: Heading in the edition: later, by Caitanya’s mercy, the Bhaṭṭācārya realised the greatness of the spiritual Vaiṣṇava.
+
+[^17]: *Anubhāṣya*: here the Lord honours a Vaiṣṇava householder: a pure Vaiṣṇava gṛhastha who has taken shelter at Śrī Caitanya’s feet is worthy of worship even from a sannyāsī and is his guru; this the Lord showed by asking Sārvabhauma for his blessing.
+
+[^18]: Heading in the edition: as contradictory attributes meet in Bhagavān, so His devotee is both soft and hard; the verse is from Bhavabhūti’s *Uttara-rāma-carita* (Act 3, verse 27).
+
+[^19]: Rāghava — the descendant of Raghu; Keśava — the slayer of Keśī. The vocative *he* that ends the first two lines is rendered by “O” at their beginning. Heading in the edition: the verse sung by the Lord Himself. *Amṛta-pravāha-bhāṣya*: *rakṣa mām* — “protect me”; *pāhi mām* — “keep me”.
+
+[^20]: *Amṛta-pravāha-bhāṣya*: the essence of the *hlādinī* potency and the essence of the *saṁvit* potency together form *bhakti-śakti*, the power of devotion; whoever receives it by the mercy of Kṛṣṇa or His devotee becomes a supreme devotee. On whomever Mahāprabhu bestowed His mercy, He invested this power and entrusted him with preaching the Vaiṣṇava dharma.
+
+[^21]: *Amṛta-pravāha-bhāṣya*: although Navadvīpa is a *dhāma*, the *nyāya* and *smṛti* śāstras were then especially strong there, and among their teachers many had turned away from the Lord; to deliver them the Lord showed no special power.
