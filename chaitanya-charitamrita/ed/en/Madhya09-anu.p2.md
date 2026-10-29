@@ -114,6 +114,85 @@
 
 > Subheading: The Lord demands that the Bhaṭṭathāris give back Kṛṣṇadāsa —
 
+## 231
+
+> Subheading: The Bhaṭṭathāris seek to harm the Lord —
+
+## 232
+
+> Subheading: As the deed, so the fruit —
+
+## 233
+
+> Subheading: The Lord rescues the brāhmaṇa Kṛṣṇadāsa —
+
+## 234
+
+> Subheading: *Darśana* of Viṣṇu in the temple of Ādi-keśava —
+
+**Payasvinī** is the “Tiruvattar” river in the kingdom of Travancore. “Where the rivers Tāmraparṇī, Kṛtamālā, Payasvinī …” (*Śrīmad-Bhāgavatam* 11.5.39)
+
+## 235
+
+> Subheading: The Lord dances and sings —
+
+## 236
+
+> Subheading: The onlookers are amazed —
+
+## 237
+
+> Subheading: In the company of pure devotees the Lord obtains the fifth chapter of the *Brahma-saṁhitā* —
+
+## 238
+
+> Subheading: On seeing the book the Lord is filled with bliss —
+
+## 239
+
+> Subheading: The glory of the *Brahma-saṁhitā* —
+
+## 237–240
+
+**The chapter of the *Brahma-saṁhitā*** is the fifth chapter of the book *Brahma-saṁhitā*. It describes: the state of inconceivable oneness and difference, practice (*abhyāsa*), the eighteen-syllable mantra, the *ātmā*, the *ātmārāma*, *karma*, the *kāma-gāyatrī*, the *kāma-bīja*, Kāraṇābdhiśāyī, the spiritual distinctiveness of Kṛṣṇa's abode, Gaṇeśa, Garbhodakaśāyī, the origin of the *gāyatrī*, Gokula, the form of Govinda, *svarūpa-tattva* and *dhāma*, *jīva-tattva*, the *svarūpa* the *jīva* attains, Durgā, austerity (*tapas*), the five elements, *prema*, Brahman, Brahmā's initiation, the eye of devotion, the steps of devotion, the mind, Mahā-Viṣṇu, *yoga-nidrā*, Ramā, devotion on the path of *rāga*, Rāma and the other avatāras, the meaning of the word *liṅga* and others, the conditioned *jīva* and his *sādhana*, *viṣṇu-tattva*, the hymn that is the essence of the Vedas, Śambhu, *śruta*,[^237-1] *svakīya*, *pārakīya*, *sadācāra*, Sūrya, the golden egg (*haimāṇḍa*), and other subjects.
+
+## 241
+
+> Subheading: *Darśana* of Śrī Ananta-padmanābha —
+
+**Ananta-padmanābha**: see Madhya 1.115.
+
+## 242
+
+> Subheading: The Lord stays two days, then *darśana* of Śrī Janārdana —
+
+**Śrī Janārdana** resides 26 miles north of Trivandrum, near the “Varkala” railway station.
+
+## 243
+
+> Subheading: On the bank of the Payasvinī, *darśana* of Śaṅkara-nārāyaṇa, and at the Śṛṅgeri Maṭha, of the Śaṅkarācārya of that time —
+
+## 244
+
+> Subheading: The Lord comes to the Śṛṅgeri Maṭha, then *darśana* of Matsya-tīrtha —
+
+**The Śṛṅgeri Maṭha** is in the Shimoga district of Mysore, on the left bank of the river Tuṅgabhadrā, 7 miles south of Hariharapura. Its true name is (Ṛṣya)śṛṅga-giri, or Śṛṅgavera-purī. Here stands the chief *maṭha* of Śaṅkarācārya in the South. Through his four disciples Śrī Śaṅkarācārya founded these *maṭhas*: in the north of India, at Badrikā, the Jyotir Maṭha; at Puruṣottama, the Bhogavardhana, or Govardhana, Maṭha; at Dvārakā, the Śāradā Maṭha; and in the South, the Śṛṅgeri Maṭha.
+ In the Śṛṅgeri Maṭha one takes *eka-daṇḍa sannyāsa* of three kinds: “Sarasvatī,” “Bhāratī,” and “Purī.” “The fourth, the southern *āmnāya*, is the *maṭha* at Śṛṅgerī. Its *sampradāya* is called Bhūrivāra, and its *gotra* Bhūrbhuvaḥ. Its three famous titles are Sarasvatī, Bhāratī, and Purī. Its deity is Varāha, and its holy place is said to be Rāmeśvara. Its *tīrtha* is called the Tuṅgabhadrā, and its *śakti*, it is said, is Kāmākṣikā. Its *brahmacārīs* are called ‘Caitanya’; its preceptor is Hastāmalaka. The lands of the southern quarter are under it: Āndhra, Drāviḍa, Karṇāṭa, Kerala, and others. One who is always devoted to the knowledge of sound (*svara*), speaks of *svara*, is a lord of poets, and destroys the worthlessness of the ocean of *saṁsāra* is a Sarasvatī. One who is full with the weight of knowledge, has cast off every other burden, and knows no burden of sorrow is called a Bhāratī. One who is full with the truth of knowledge, is fixed in the complete truth, and is always devoted to the Supreme Brahman is called by the name Purī.” (*Maṭhāmnāya*) That is: name of the *maṭha*, Śṛṅgerī; direction, south; lands, Āndhra, Drāviḍa, Karṇāṭa, Kerala, and others; *sampradāya*, Bhūrivāra; *gotra*, Bhūrbhuvaḥ; holy place, Rāmeśvara; *mahā-vākya*, or *bodha*, “*ahaṁ brahmāsmi*”; deity, Varāha; *śakti*, Kāmākṣī; *ācārya*, Hastāmalaka; titles of *sannyāsa*, “Sarasvatī,” “Bhāratī,” and “Purī”; *brahmacārī*, “Caitanya”; *tīrtha*, the Tuṅgabhadrā; Veda, the Yajur.
+
+The succession of the gurus of the Śṛṅgeri Maṭha, with the years in which they took *sannyāsa*, is as follows: (1) Śaṅkarācārya, Śaka 22; (2) Sureśvarācārya, 30; (3) Bodhanācārya, 680; (4) Jñānadhanācārya, 768; (5) Jñānottama Śivācārya, 827; (6) Jñānagiri Ācārya, 871; (7) Siṁhagiri Ācārya, 958; (8) Īśvaratīrtha, 1019; (9) Nārasiṁha Tīrtha, 1067; (10) Vidyātīrtha Vidyāśaṅkara, 1150; (11) Bhāratīkṛṣṇa Tīrtha, 1250; (12) Vidyāraṇya Bhāratī, 1253; (13) Candraśekhara Bhāratī, 1290; (14) Narasiṁha Bhāratī, 1309; (15) Puruṣottama Bhāratī, 1328; (16) Śaṅkarānanda, 1350; (17) Candraśekhara Bhāratī, 1371; (18) Narasiṁha Bhāratī, 1386; (19) Puruṣottama Bhāratī, 1394; (20) Rāmacandra Bhāratī, 1430; (21) Narasiṁha Bhāratī, 1479; (22) Narasiṁha Bhāratī, 1485; (23) Dhanamaḍi Narasiṁha Bhāratī, 1498; (24) Abhinava Narasiṁha Bhāratī, 1521; (25) Saccidānanda Bhāratī, 1544; (26) Narasiṁha Bhāratī, 1585; (27) Saccidānanda Bhāratī, 1627; (28) Abhinava Saccidānanda Bhāratī, 1663; (29) Nṛsiṁha Bhāratī, 1689; (30) Saccidānanda Bhāratī, 1692; (31) Abhinava Saccidānanda Bhāratī, 1730; (32) Narasiṁha Bhāratī, Śaka 1739. For their *samādhis*, see the *Vaiṣṇava-mañjuṣā-samāhṛti* (issue 4). (33) Saccidānanda Śivābhinava Vidyā Narasiṁha Bhāratī, Śaka 1788.
+
+**Śaṅkarācārya** was born in the Dākṣiṇātya, in the land of Kerala, in the village of Kālāḍi, in Śaka 608, on the third day of the bright fortnight of Vaiśākha. His father's name was Śivaguru. He lost his father in early childhood. Before he had even passed his eighth year he finished studying the *śāstras*, and on the bank of the Narmadā he took *sannyāsa* from Govinda. After taking *sannyāsa* he stayed some days with Govinda, and then with his permission went to Vārāṇasī. From there he went to Badarikāśrama, and there, at the age of twelve, he composed a commentary (*bhāṣya*) on the *Brahma-sūtra*. Later he also wrote commentaries on the ten Upaniṣads, the *Gītā*, the *Sanatsujātīya*, the *Nṛsiṁha-tāpanī*, and other books.
+
+Among Śaṅkarācārya's disciples four were chief: Padmapāda, Sureśvara, Hastāmalaka, and Troṭaka. From Vārāṇasī Śaṅkarācārya went to Prayāga and met Kumārila Bhaṭṭa. Kumārila was at the point of death, so he did not debate with him himself but sent him to his chief disciple, Maṇḍana, in the city of Māhiṣmatī. There Śaṅkara defeated Maṇḍana in debate. Maṇḍana's wife, Sarasvatī, or Ubhaya-bhāratī, was the arbiter of their debate. It is said that she expressed the wish to debate with Śaṅkara on the *kāma-śāstra*. Śaṅkara, however, from boyhood
+ was a *brahmacārī* and therefore knew nothing of the *kāma-śāstra*. He asked Ubhaya-bhāratī for a month's time, by yogic power entered the body of a king who had just died, studied the subject in question, and, having gained experience, asked Ubhaya-bhāratī for the debate. But she did not debate any further. At Śaṅkara's request she gave the boon that she would remain unmoving in his Śṛṅgeri Maṭha, and she took leave of this world. Maṇḍana took *sannyāsa* from Śaṅkarācārya and became known by the name Sureśvara. Step by step Śaṅkarācārya traveled through almost all of India, defeated in debate people of many doctrines, and brought them over to his own. He left his body at the age of thirty-three.
+
+**Matsya-tīrtha** is probably the present town of “Mahé” on the seacoast of the Malabar district. Some say that Matsya-tīrtha is a wondrous whirlpool of the Macheru river near the village of Matam, 6 miles north of “Pāderu” in the Padwa *tāluk* of Vizagapatam (*Vizagapatam Gazetteer*). But that, it seems, is not what is meant here.
+
+## 245
+
+> Subheading: At Uḍupī, *darśana* of the Tattvavādīs, the *ācāryas* of Madhvācārya's *maṭha*, and of the Deity of Kṛṣṇa alone —
+
+**Śrī Madhvācārya.** In the Dākṣiṇātya, west of the Sahyādri, lies the Kanara district. The chief town of the South Kanara district is “Mangalore,” and to its north is “Uḍupī” (Udipi). In the village of Uḍupī, at Pājakā-kṣetra, in a family of Śivallī brāhmaṇas, Śrī Madhvācārya was born in Śaka 1040 (by another view, in Śaka 1160). His father was Madhyageha Bhaṭṭa and his mother Vedavidyā. As a child Madhvācārya was known by the name Vāsudeva. Several wondrous stories are told about him. As a child he came back alone and unharmed from Uḍupī to Pājakā-kṣetra. When his mother was away, he ate, before his elder sister's eyes, a whole tub of husks meant for the cows, to stop himself from crying. He hung on to the tail of a fierce bull. When a creditor sat at their door demanding a debt, he turned tamarind seeds into money and with it paid off his father's debt. In his boyhood (*paugaṇḍa*) Madhva vanished during a festival in the village of Neḍiūru, and later he was found again at the temple of Ananteśvara in Uḍupī. In the village of Neyampalli he pointed out the error of a brāhmaṇa named Śiva. Other incidents are also described. In his fifth year he received the *upanayana* initiation. An *asura* named “Maṇimān,” mentioned in the *Mahābhārata*, lived there in the form of a snake. Right after his *upanayana* “Vāsudeva” killed that snake with his big toe. When his mother grew anxious, he reached her in a single leap. At this time he showed special skill in his studies. Entirely against his father's wishes he took *sannyāsa* at the age of twelve from “Acyutaprekṣa” and received the name “Pūrṇaprajña Tīrtha.” After traveling through many lands of the South, he held many debates with Vidyāśaṅkara, the head of the Śṛṅgeri Maṭha. Vidyāśaṅkara's lofty position bowed before Madhva.
 
 ---
 
@@ -122,4 +201,6 @@
 [^218-2]: *Rāmāyaṇa*, Kiṣkindhā-kāṇḍa.
 
 [^218-3]: Literally, “Tāmraparṇī is situated on the left bank of the Tinnevelly river.”
+
+[^237-1]: So in the edition (“শ্রুত”); perhaps *śruti* is meant.
 

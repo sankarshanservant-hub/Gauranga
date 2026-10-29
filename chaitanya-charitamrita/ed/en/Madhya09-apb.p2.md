@@ -10,3 +10,11 @@ Mahāprabhu had new leaves written into the book of the *Kūrma Purāṇa* and b
 
 **Bhaṭṭathāris**: in some regions the common speech calls them “Bhāṭwārīs.” They have neither house nor home. Wherever they happen to stay, they live in *śirkis*, that is, in simple tents. Outwardly they wear the dress of *sannyāsīs*, but their trade is theft and deceit. By deceit they gather many women and keep them in their *śirkis*; then they lure other people by showing them these women, and so swell their band. What the camps of the Bedes (nomads) are in Bengal, the *śirkis* of the Bhāṭwārīs are in western and southern India.
 
+## 237
+
+**The chapter of the *Brahma-saṁhitā*** is the fifth chapter of the *Brahma-saṁhitā*. It is now available in Bengal with the commentary of Śrī Jīva Gosvāmī.
+
+## 245–247
+
+In the Dākṣiṇātya, in the village of Uḍupī, is the seat (*gādi*) of Madhvācārya. The *ācāryas* of this *sampradāya* are called “Tattvavādīs.” The Deity of the Dancing Gopāla resides there. Śrī Madhvācārya found Gopāla beneath *gopī-candana* in a sunken *ḍiṅgā*, that is, a large boat.
+
