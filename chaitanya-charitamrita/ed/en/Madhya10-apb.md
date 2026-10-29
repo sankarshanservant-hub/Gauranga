@@ -26,7 +26,7 @@ A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the th
 
 ## 41
 
-***Anavasare***, during the *anavasara*: the period after the Snāna-yātrā until the *darśana* of the “Nava-yauvana” is the time of *anavasara*.[^41-1]
+***Anavasare***, during the *anavasara*: the period after the Snāna-yātrā until the *darśana* of the “Nava-yauvana” is the time of *anavasara*.
 
 ## 42
 
@@ -34,7 +34,7 @@ A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the th
 
 ## 43
 
-***Mahā-soyāra*** — *mahā-sūpakāra*, the chief cook, the officer in charge of the kitchen.[^43-1]
+***Mahā-soyāra*** — *mahā-sūpakāra*, the chief cook, the officer in charge of the kitchen.
 
 ## 46
 
@@ -46,15 +46,15 @@ A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the th
 
 ## 67
 
-***Antara*** — in secret, or having gone aside.[^67-1]
+***Antara*** — in secret, or having gone aside.
 
 ## 108
 
-Seeing the Lord's *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa* that consists in giving up the *śikhā* and the sacred thread.” His *sannyāsa* name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his *sannyāsa* was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”[^108-1]
+Seeing the Lord's *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa* that consists in giving up the *śikhā* and the sacred thread.” His *sannyāsa* name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his *sannyāsa* was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”
 
 ## 111
 
-***Kṛṣṇa-rasa-tattva-vettā*** (knower of the truth of *kṛṣṇa-rasa*). His body was *prema* itself. Seeing him, one felt as if a second form (*svarūpa*) of Mahāprabhu had arisen.[^111-1]
+***Kṛṣṇa-rasa-tattva-vettā*** (knower of the truth of *kṛṣṇa-rasa*). His body was *prema* itself. Seeing him, one felt as if a second form (*svarūpa*) of Mahāprabhu had arisen.
 
 ## 113
 
@@ -86,7 +86,7 @@ The guru's servant is worthy of respect in any case; one should not let him serv
 
 ## 145
 
-Lakṣmaṇa heard that Paraśurāma, by his father's command, had killed his own mother (Reṇukā) as if she were an enemy. And so he accepted the order of his elder brother, Śrī Rāmacandra, for the orders of one's elders (*guru-varga*) are not to be debated.[^145-1]
+Lakṣmaṇa heard that Paraśurāma, by his father's command, had killed his own mother (Reṇukā) as if she were an enemy. And so he accepted the order of his elder brother, Śrī Rāmacandra, for the orders of one's elders (*guru-varga*) are not to be debated.
 
 ## 146
 
@@ -114,7 +114,7 @@ Listen attentively to my debate with Him. Brahman is *vyāpaka*, that is, all-pe
 
 ## 171
 
-All the names in the verse *suvarṇa-varṇa* have their abode (*āspada*) in Śrī Kṛṣṇa Caitanya, that is, they have found their place in Him alone. The *prasāda* cord smeared with sandalwood is like bracelets on His two arms.[^171-1]
+All the names in the verse *suvarṇa-varṇa* have their abode (*āspada*) in Śrī Kṛṣṇa Caitanya, that is, they have found their place in Him alone. The *prasāda* cord smeared with sandalwood is like bracelets on His two arms.
 
 ## 178
 
@@ -124,18 +124,5 @@ Though I am worshiped by those who walk the path of *advaita*, though I was init
 
 ---
 
-[^41-1]: Our translation of the verse reads differently: “at the proper time he renovates the body of the Lord's Deity.” According to the commentary, the *anavasara* is a definite period, from the Snāna-yātrā until the “Nava-yauvana” *darśana*.
-
 [^42-1]: The chronicle of the Jagannātha temple (usually called the *Mādalā-pāñji*).
 
-[^43-1]: Our translation of the verse reads differently: “the greatest servant of Jagannātha.” According to the commentary, *mahā-soyāra* is the chief cook of the temple kitchen.
-
-[^67-1]: Our translation of the verse reads differently: “a plan arose in the minds of the four devotees.”
-
-[^108-1]: Our translation of the verse reads differently: “he did not accept saffron robes, but only changed his name to ‘Svarūpa.’” According to the commentaries, he did not receive the *yogapaṭṭa* (the rite at which the *sannyāsa* name is given), and so the *brahmacārī* name “Svarūpa” remained with him.
-
-[^111-1]: Our translation of the verse reads differently: “Sometimes he was called a manifestation of the spiritual nature of Mahāprabhu Himself.”
-
-[^145-1]: Our translation of the verse reads differently: “this story inspired Lakṣmaṇa to dedicate His life to carrying out the instructions of Śrī Rāmacandra.” According to the commentaries, Lakṣmaṇa accepted a particular order of his elder brother, to take Sītā to the forest (the *Anubhāṣya*: “the order to banish Sītā to the forest”).
-
-[^171-1]: Our translation of the verse reads differently: “He wears the *prasāda* cord from the Jagannātha temple, and bracelets on His two beautiful arms.” According to the commentary, the bracelets (*aṅgada*) on the Lord's arms are the sandal-smeared *prasāda* cord itself.

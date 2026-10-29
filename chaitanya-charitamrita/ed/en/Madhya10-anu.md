@@ -212,7 +212,7 @@ All *jīvas* who regard themselves as His servants call Bhagavān Himself, Śrī
 
 ## 60
 
-***Śire*** — each on his own head.[^60-1]
+***Śire*** — each on his own head.
 
 ## 61
 
@@ -650,7 +650,7 @@ The *Śrī Caitanya-candrāmṛta*: “For those touched by the glory of His mer
 
 ## 179–181
 
-Śrī Mahāprabhu said: “You, Brahmānanda Bhāratī, are a *mahā-bhāgavata* full of *prema*; therefore you will see Kṛṣṇa everywhere. What doubt is there?” The Bhaṭṭācārya, acting as mediator between them, said: “Mahāprabhu says that the *mahā-bhāgavata* Brahmānanda Bhāratī has seen Kṛṣṇa, and this too is true. For Kṛṣṇa reveals Himself directly before a *mahā-bhāgavata*. But without an abundance of *prema* in the devotee such a vision is impossible.” The first *iṅhāra* means “by Śrī Mahāprabhu's mercy”; the second *iṅhāra* means “of Brahmānanda Bhāratī”: he had *darśana*, that is, he saw Kṛṣṇa.[^180-1] “With eyes of devotion anointed with the salve of *prema*, the saints always see Him, even within their hearts.” (*Brahma-saṁhitā*, Chapter 5[^181-1])
+Śrī Mahāprabhu said: “You, Brahmānanda Bhāratī, are a *mahā-bhāgavata* full of *prema*; therefore you will see Kṛṣṇa everywhere. What doubt is there?” The Bhaṭṭācārya, acting as mediator between them, said: “Mahāprabhu says that the *mahā-bhāgavata* Brahmānanda Bhāratī has seen Kṛṣṇa, and this too is true. For Kṛṣṇa reveals Himself directly before a *mahā-bhāgavata*. But without an abundance of *prema* in the devotee such a vision is impossible.” The first *iṅhāra* means “by Śrī Mahāprabhu's mercy”; the second *iṅhāra* means “of Brahmānanda Bhāratī”: he had *darśana*, that is, he saw Kṛṣṇa. “With eyes of devotion anointed with the salve of *prema*, the saints always see Him, even within their hearts.” (*Brahma-saṁhitā*, Chapter 5[^181-1])
 
 ## 182
 
@@ -694,8 +694,6 @@ Sārvabhauma's words embarrassed Mahāprabhu. He uttered, “Viṣṇu! Viṣṇ
 
 [^43-1]: So in the edition (চুল্লিভট্ট); perhaps Kullūka Bhaṭṭa, the commentator on the *Manu-saṁhitā*, is meant (his commentary is cited in the *Anubhāṣya* on verse 154).
 
-[^60-1]: Our translation of the verse reads differently: the Lord “blessed his sons by touching their heads with His foot.” According to the *Anubhāṣya*, the sons themselves placed the Lord's feet on their heads.
-
 [^106-1]: The edition prints «রাগতস্তুচ্ছীচকারৈনমহো বহন্নপি» — *rāgatas tucchī-cakāra enam aho vahann api*; *tucchī-cakāra* means “made trifling, disregarded” (the vowel sign “ু” was lost in the rough OCR). The translation renders the sense literally.
 
 [^154-1]: *Manu-saṁhitā* 6.4, 6.6 (the first quotation) and 6.67 (the second).
@@ -703,7 +701,5 @@ Sārvabhauma's words embarrassed Mahāprabhu. He uttered, “Viṣṇu! Viṣṇ
 [^168-1]: In the edition the couplet of verse 168 (“*vyāpya vyāpaka-bhāve…*”) has no printed number (only “॥” stands at its end); the subheading stands above it, right after verse 167. The next couplet (169) is numbered correctly.
 
 [^175-1]: In the usual numbering, *Śrīmad-Bhāgavatam* 1.9.37. By its content, the section headed “১৭৫-১৭৭” begins with a discussion of verses 172–174.
-
-[^180-1]: Our translation of verse 180 reads differently: “the primary thing is Kṛṣṇa's own wish to grant His *darśana*.” The *Anubhāṣya* renders the sense of the verse as “Kṛṣṇa reveals Himself directly before the *mahā-bhāgavata*.”
 
 [^181-1]: *Brahma-saṁhitā* 5.38.
