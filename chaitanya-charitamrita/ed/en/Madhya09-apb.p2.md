@@ -26,3 +26,11 @@ The Tattvavādīs, adherents of pure dualism (*śuddha-dvaita*), saw on Mahāpra
 
 Hearing about Śrī Kṛṣṇa, chanting His glories, remembering Him, serving His feet, worshiping Him, offering Him prayers, serving Him as a servant, being His friend, and surrendering one's whole self to Him — when devotion with these nine features is offered to Śrī Kṛṣṇa and carried out, every perfection is attained. This is the highest purport of the *śāstras*.
 
+## 261
+
+The nine kinds of *sādhana-bhakti*, beginning with hearing and chanting, awaken loving devotion (*prema-bhakti*) to Kṛṣṇa. That is the “fifth” *puruṣārtha* (goal of life), and that is the limit of the *puruṣārthas*. The point is this: *dharma*, *artha*, *kāma*, and *mokṣa* — these four *puruṣārthas* are “with cheating” (*sa-kaitava*); only the *puruṣārtha* of *prema* is “without cheating” (*a-kaitava*).
+
+## 263
+
+Scriptures that establish *karma* contain, in many places, instruction in *karma* and praise of it, yet in the end all the *śāstras* censure *karma* and prescribe giving it up. Neither by *karma* nor by offering *karma* can loving devotion to Kṛṣṇa ever be attained. The point is this: offering *karma* and the like purifies the heart. When the heart is purified, by the power of the company of *sādhus* (*sat-saṅga*) faith (*śraddhā*) in exclusive devotion to Kṛṣṇa arises. When faith arises, *sādhana-bhakti* begins — hearing, chanting, and the rest. The more one is freed from *anarthas* while practicing devotion — hearing, chanting, and the rest — the higher *prema* rises. Therefore *karma* or offering *karma* by no means always and inevitably awakens devotion to Kṛṣṇa. For (pure devotion to Kṛṣṇa) depends on faith whose sign is the birth of [the eagerness] to hear, born of the company of *sādhus*.
+

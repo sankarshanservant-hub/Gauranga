@@ -272,8 +272,27 @@ The Tattvavādīs' “*sādhana*” is *varṇāśrama-dharma* (*Śrīmad-Bhāga
 
 ## 259–260
 
-The *mahā-bhāgavata* Prahlāda studied under the sons of his guru. The Daitya king Hiraṇyakaśipu, whose only wealth was knowledge born of the senses, regarded Prahlāda as his “son.”
+The Daitya king Hiraṇyakaśipu, whose only wealth was knowledge born of the senses, regarded the *mahā-bhāgavata* Prahlāda as his “son” and asked him what he had learned from the sons of his guru. In reply Śrī Prahlāda, the servant of Adhokṣaja, said:
 
+[**viṣṇoḥ**] **śravaṇaṁ** (the touch upon the ear of sounds full of His name, form, qualities, associates, and pastimes), [**viṣṇoḥ**] **kīrtanaṁ** (uttering sounds full of His name, form, qualities, associates, and pastimes), [**viṣṇoḥ**] **smaraṇaṁ** (any remembrance at all, in the mind, of Kṛṣṇa, full of name, form, qualities, associates, and pastimes), [**viṣṇoḥ**] **pāda-sevanam** (service suited to time, place, and so on), [**viṣṇoḥ**] **arcanaṁ** (worship), [**viṣṇoḥ**] **vandanaṁ** (obeisances), [**viṣṇoḥ**] **dāsyaṁ** (the awareness “I am His servant”), [**viṣṇoḥ**] **sakhyam** (wishing Him well in the mood of a friend), [**viṣṇau**] **ātma-nivedanam** (offering everything, from the body to the pure self, to Him alone in every way) **iti** **nava-lakṣaṇā** (that which has nine features) **puṁsā** (by a person — first) **arpitā** (being offered) **bhagavati** **viṣṇau** (to Śrī Hari) **addhā** (directly, not through the medium of *jñāna*, *karma*, and the like) **bhaktiḥ** (afterwards) **kriyeta** (not that it is first performed and afterwards offered: this devotion is not indirect, not an offering of *karma* and the like; one should think, “It is only for pleasing Bhagavān,” not for *dharma*, *artha*, *kāma*, and *mokṣa*. If it is performed in this way, then the performer regards pure service to Hari alone as the fruit of studying all the *śāstras*, and what) **adhītam** (he has studied), (that very thing) **uttamam** **manye**.
+
+## 261
+
+> Subheading: Love for Kṛṣṇa is the fruit of pure hearing and chanting alone —
+
+*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa's name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu's intention. (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Eternally perfect love for Kṛṣṇa is never something to be produced (*sādhya*); it rises in a heart made pure by hearing and the other practices.”
+
+## 262
+
+> Subheading: The signs of love for Kṛṣṇa in one in whom taste (*ruci*) has awakened —
+
+See Ādi 7.94.
+
+## 263
+
+> Subheading: The censure of the aim of enjoying fruits; *kāma*[^263-1] does not give rise to *prema* —
+
+Good *karma* is better than bad *karma*, but even from such *karma* loving devotion to Kṛṣṇa never arises. *Karma* is the cause of the *jīva*'s gaining happiness or suffering. And from the *jīva*'s gaining happiness or suffering, devotion cannot arise. Devotion is service for Kṛṣṇa's happiness.
 ---
 
 [^218-1]: The edition prints the section number as “১১৮” (118); by content it belongs to verse 218.
@@ -285,4 +304,8 @@ The *mahā-bhāgavata* Prahlāda studied under the sons of his guru. The Daitya 
 [^237-1]: So in the edition (“শ্রুত”); perhaps *śruti* is meant.
 
 [^245-1]: Unclear in the scan: one digit of the year is blotted (“১:৬৩”); probably 1763, the same as for the next *ācārya*.
+
+[^261-1]: Madhya 22.104 in Vṛndāvana Candra Dāsa's translation.
+
+[^263-1]: So in the edition (“কাম”); in view of the verse, perhaps *karma* (কর্ম্ম) is meant.
 
