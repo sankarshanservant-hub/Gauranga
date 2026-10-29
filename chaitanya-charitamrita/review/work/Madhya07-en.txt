@@ -240,13 +240,13 @@ tr: Viśvarūpa took sannyāsa and went to the south, and I must go in search of
 ## 45
 w: permission  give  certainly  I  south  shall go
 w: by your  permission  safely  turning back  I shall come
-tr: Give Me permission, for I must go to the south. With your permission I shall come back safely.”
+tr: Give Me permission, for I must go to the south. By your leave I shall come back safely.”
 fn: *Anubhāṣya*: *leuṭi* — the western (Hindi) word *lauṭ*, “returning”.
 
 ## 46
 w: hearing  Sārvabhauma  became  extremely  distressed
 w: the feet  clasping  he speaks  a sorrowful reply
-tr: Hearing this, Sārvabhauma was deeply distressed. Clasping the Lord’s feet, he replied sorrowfully,
+tr: Hearing this, Sārvabhauma was deeply distressed. Clasping the Lord’s feet, he replied sorrowfully:
 
 ## 47
 w: of many births  by the fruit of piety  I obtained  Your  company
@@ -557,7 +557,7 @@ tr: They in turn went and taught in other villages, and in this way the whole of
 ## 105
 w: in this way  on the road  going  hundreds  hundreds  people
 w: Vaiṣṇava  He makes  them  making  embrace
-tr: In this way, as He travelled, the Lord made Vaiṣṇavas of hundreds upon hundreds of people by embracing them.
+tr: So, as He travelled, the Lord made Vaiṣṇavas of hundreds upon hundreds of people by embracing them.
 
 ## 106
 w: in which  village  staying  alms  He takes  in whose  house
@@ -639,7 +639,7 @@ tr: In every village He went to, it was the same. I have described it here in on
 ## 121
 w: ‘Kūrma’  by name  in that  village  a Vedic  brāhmaṇa
 w: great  with faith and devotion  made  the Lord’s  invitation
-tr: In that village a Vedic brāhmaṇa named Kūrma invited the Lord with great faith and devotion.
+tr: In Kūrma-sthāna there lived a Vedic brāhmaṇa named Kūrma, who invited the Lord with great faith and devotion.
 
 ## 122
 w: home  bringing  the Lord’s  made  feet  washing

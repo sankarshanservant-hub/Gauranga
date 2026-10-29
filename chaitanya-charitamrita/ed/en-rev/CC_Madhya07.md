@@ -456,7 +456,7 @@ permission  give  certainly  I  south  shall go
 tomāra ājñāte śubhe leuṭi’ āsiba  
 by your  permission  safely  turning back  I shall come
 
-(45) Give Me permission, for I must go to the south. With your permission I shall come back safely.”[^10]
+(45) Give Me permission, for I must go to the south. By your leave I shall come back safely.”[^10]
 
 শুনি’ সার্ব্বভৌম হৈলা অত্যন্ত কাতর ৷  
 চরণে ধরিয়া কহে বিষাদ-উত্তর ॥ ৪৬ ॥
@@ -466,7 +466,7 @@ hearing  Sārvabhauma  became  extremely  distressed
 caraṇe dhariyā kahe viṣāda-uttara  
 the feet  clasping  he speaks  a sorrowful reply
 
-(46) Hearing this, Sārvabhauma was deeply distressed. Clasping the Lord’s feet, he replied sorrowfully,
+(46) Hearing this, Sārvabhauma was deeply distressed. Clasping the Lord’s feet, he replied sorrowfully:
 
 বহুজন্মের পুণ্যফলে পাইনু তোমার সঙ্গ ৷  
 হেন-সঙ্গ বিধি মোর করিলেক ভঙ্গ ॥ ৪৭ ॥
@@ -1072,7 +1072,7 @@ in this way  on the road  going  hundreds  hundreds  people
 ‘vaiṣṇava’ karena tām̐re kari’ āliṅgana  
 Vaiṣṇava  He makes  them  making  embrace
 
-(105) In this way, as He travelled, the Lord made Vaiṣṇavas of hundreds upon hundreds of people by embracing them.
+(105) So, as He travelled, the Lord made Vaiṣṇavas of hundreds upon hundreds of people by embracing them.
 
 যেই গ্রামে রহি’ ভিক্ষা করেন যাঁর ঘরে ৷  
 সেই গ্রামের যত লোক আইসে দেখিবারে ॥ ১০৬ ॥
@@ -1232,7 +1232,7 @@ in one  place  I have told  not  I shall tell  again
 bahu śraddhā-bhaktye kaila prabhura nimantraṇa  
 great  with faith and devotion  made  the Lord’s  invitation
 
-(121) In that village a Vedic brāhmaṇa named Kūrma invited the Lord with great faith and devotion.
+(121) In Kūrma-sthāna there lived a Vedic brāhmaṇa named Kūrma, who invited the Lord with great faith and devotion.
 
 ঘরে আনি’ প্রভুর কৈল পাদ প্রক্ষালন ৷  
 সেই জল বংশ-সহিত করিল ভক্ষণ ॥ ১২২ ॥
