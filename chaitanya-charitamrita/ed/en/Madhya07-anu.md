@@ -4,7 +4,7 @@
 
 > Subheading: Obeisance to the Lord, “Vāsudevāmṛta-prada” —
 
-**yaḥ** **dayārdra-dhīḥ** (he whose mind is softened by compassion), (afflicted with leprosy) **vāsudevaṁ** **naṣṭa-kuṣṭhaṁ** (freed from leprosy) **rūpa-puṣṭaṁ** (beautiful) **bhakti-tuṣṭaṁ** **cakāra**, **taṁ** **dhanyaṁ** **caitanyaṁ** **naumi**.
+**yaḥ** **dayārdra-dhīḥ** (he whose mind is softened by compassion), (afflicted with leprosy) **vāsudevaṁ** **naṣṭa-kuṣṭhaṁ** (freed from leprosy) **rūpa-puṣṭaṁ** (full of beauty) **bhakti-tuṣṭaṁ** **cakāra**, **taṁ** **dhanyaṁ** **caitanyaṁ** **naumi**.
 
 ## 3
 
@@ -210,7 +210,7 @@ The Lord's independence — see Madhya, Chapter 3, 212.
 
 > Subheading: Just as contradictory qualities meet in Bhagavān, so Bhagavān's devotee too is both soft and hard —
 
-**vajrāt api** (than a thunderbolt) **kaṭhorāṇi** (harder), **kusumāt** (than a flower) **api** **mṛdūni** (softer); **lokottarāṇāṁ** (of uncommon, extraordinary persons) **cetāṁsi** (the hearts) **vijñātum** (to understand) **kaḥ nu** **īśvaraḥ** (is able)?
+**vajrāt api** **kaṭhorāṇi**, **kusumāt** (than a flower) **api** **mṛdūni** (soft); **lokottarāṇāṁ** (of uncommon, extraordinary persons) **cetāṁsi** (the hearts) **vijñātuṁ** (to understand) **kaḥ nu** **īśvaraḥ** (is able)?
 
 ## 74
 
@@ -330,7 +330,7 @@ See the *Anubhāṣya* on Madhya 3.212.
 
 > Subheading: Only faith in the transcendental pastimes brings eternal welfare; otherwise knowledge born of the senses leads to utter ruin —
 
-The transcendental pastimes of Śrī Kṛṣṇa Caitanya are free from all cheating (*projjhita-kaitava*) and from all trickery (*nirasta-kuhaka*). They are beyond matter, full of spiritual majesty, and they grant the *jīvas* their eternal, highest welfare. Therefore they are the true reality — not a charlatan's show rooted in violence and born of the conceptions that the *guṇas* produce in cheaters and cheated bound by *māyā*. Charlatanry and tricksters throw both the cheater and the cheated away from service to Kṛṣṇa, and so both meet with utter ruin.
+The transcendental pastimes of Śrī Kṛṣṇa Caitanya are free from all cheating (*projjhita-kaitava*) and from all trickery (*nirasta-kuhaka*). They are beyond matter, full of spiritual majesty, and they grant the *jīvas* their eternal, highest welfare. Therefore they are the true reality. They are not a charlatan's show rooted in malice (*hiṁsā*), born of the *guṇa*-made conceptions of cheaters and cheated bound by *māyā*. Charlatanry and tricksters throw both the cheater and the cheated away from service to Kṛṣṇa, and so both meet with utter ruin.
 
 ## 113
 
