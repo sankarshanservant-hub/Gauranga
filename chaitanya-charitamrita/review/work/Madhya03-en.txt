@@ -1,0 +1,312 @@
+# English translation, Madhya-līlā 3 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage A English (ed/en/work/Madhya03.txt, Madhya03.p2.txt), revised against the Gauḍīya Maṭha edition.
+# Shift 1: verses 1–110; shift 2: 111–219.
+
+## 0
+tr: The Description of the Acceptance of Sannyāsa and the Feast in Advaita’s House
+
+## 1
+w: sannyāsa  having accepted  full of love  then  Gaura
+w: to Vṛndāvana  intent on going  in bewilderment  who
+w: in Rāḍha  wandering  Śāntipura  having reached
+w: enjoyed  with the devotees  here  to Him  bowed  am I
+tr: After accepting sannyāsa, Gaura, overflowing with love, longed to go to Vṛndāvana; but, lost to the outer world, He wandered through Rāḍha. Then He came to Śāntipura and rejoiced there with His devotees. I bow down to Him.
+fn: *Anubhāṣya*: *bhramāt* — the Lord shows bewilderment to worldly eyes, revealing that Kṛṣṇa’s abode, seen only by eyes of bhakti anointed with the salve of prema, cannot be reached by worldly effort. Heading in the edition: “Obeisance to Gaura, who wandered just after taking sannyāsa”.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
+
+## 3
+w: of the twenty-fourth  year  at the end  which  the month of Māgha
+w: in its  bright fortnight  the Lord  took  sannyāsa
+tr: At the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, the Lord accepted *sannyāsa*.
+fn: The same verse as Madhya 1.16; translation as there.
+
+## 4
+w: sannyāsa  having accepted  absorbed in love  set out  for Vṛndāvana
+w: in the land of Rāḍha  three  days  did  wandering
+tr: After accepting sannyāsa, absorbed in love, He set out for Vṛndāvana, but for three days He wandered in the land of Rāḍha.
+fn: *Amṛta-pravāha-bhāṣya*: the name Rāḍha comes from *rāṣṭra*; the land of Gauḍa on the western bank of the Gaṅgā is called Rāḍha-deśa, also Pauṇḍra-deśa.
+
+## 5
+w: this  verse  reciting  the Lord  of ecstasy  in absorption
+w: by wandering  pure  made  all  the land of Rāḍha
+tr: Reciting this verse in the rapture of His feelings, the Lord wandered on and purified the whole land of Rāḍha:
+
+## 6
+w: this  fully  having taken up  devotion to the Supreme Self
+w: worshipped  by the most ancient  great souls
+w: I  shall cross  whose far shore is hard to reach
+w: the darkness  of Mukunda’s feet  by service  alone
+tr: “I shall take up this devotion to the Supreme Self (*parātma-niṣṭhā*), which the great souls of old embraced; and by service to the feet of Mukunda alone I shall cross the darkness whose far shore is so hard to reach.” (Śrīmad-Bhāgavatam, 11.23.57)
+fn: The song of the mendicant brāhmaṇa of Avantī. *Anubhāṣya*: devotion to the Supreme Self is the natural bhajana that follows when all *anarthas* are gone; the dress of the fourth āśrama belongs to the outward marks of a Vaiṣṇava, and those who wear it are freed from saṁsāra by serving Mukunda. The Lord sang this song of the *tridaṇḍi* mendicant to show that His single *daṇḍa* held all four.
+
+## 7
+w: the Lord  said  excellent  these  of the mendicant  words
+w: to Mukunda  of service  the vow  has made  firm resolve
+tr: The Lord said, “How excellent are this mendicant’s words! He has firmly resolved on the vow of serving Mukunda.
+
+## 8
+w: devotion to the Supreme Self  only for  the dress  wearing
+w: by service to Mukunda  comes about  from saṁsāra  deliverance
+tr: The dress of renunciation is worn only for the sake of devotion to the Supreme Self, and it is service to Mukunda that delivers one from saṁsāra.
+fn: *Amṛta-pravāha-bhāṣya*: the meaning of the sannyāsa dress is devotion to the Supreme Self, which rejects attachment to the material self.
+
+## 9
+w: that  dress  I have taken  now  to Vṛndāvana  having gone
+w: Kṛṣṇa  service  doing  in solitude  sitting
+tr: I have taken that dress; now I shall go to Vṛndāvana and serve Kṛṣṇa, settled in solitude.”
+
+## 10
+w: thus  saying  goes  the Lord  of love’s madness  with the signs
+w: of directions  awareness  none  whether  night or day
+tr: Saying this, the Lord went on, showing the signs of love’s madness. He had no sense of direction and did not know whether it was night or day.
+
+## 11
+w: Nityānanda  Ācāryaratna  Mukunda  three  persons
+w: the Lord  behind  behind  the three  make  going
+tr: Nityānanda, Ācāryaratna and Mukunda — these three followed close behind the Lord.
+
+## 12
+w: whoever  whoever  the Lord  sees  those  those  people
+w: in ecstatic love  “Hari”  say  is cut off  sorrow and grief
+tr: Whoever saw the Lord cried out “Hari!”, overcome with love, and all their sorrow and grief were cut away.
+
+## 13
+w: cowherd  boys  all  the Lord  seeing
+w: “Hari”  “Hari”  saying  call  loudly  making
+tr: All the cowherd boys, on seeing the Lord, called out loudly, “Hari! Hari!”
+
+## 14
+w: hearing  them all  near  went  Gaurahari
+w: “say it”  “say it”  says  of all  on the heads  hand  placing
+tr: Hearing this, Gaurahari went up to them, placed His hand on each one’s head and said, “Say it! Say it!”
+
+## 15
+w: them all  praise  does  you  are fortunate
+w: fulfilled  have made  Me  by making Me hear  the name of Hari
+tr: He praised them all: “You are fortunate! You have fulfilled My life by letting Me hear the name of Hari.”
+
+## 16
+w: secretly  them all  bringing  Ṭhākura  Nityānanda
+w: instructed  all of them  having made  a plan
+tr: Meanwhile Ṭhākura Nityānanda gathered the boys in secret and, having made up a fitting tale, taught them all what to say:
+fn: *Anubhāṣya*: *prabandha* — a well-composed story.
+
+## 17
+w: of Vṛndāvana  the way  the Lord  asks  you
+w: along the bank of the Ganges  the path  then  show  Him
+tr: “When the Lord asks you the way to Vṛndāvana, show Him the path along the bank of the Gaṅgā.”
+
+## 18
+w: then  the Lord  asked  listen  children
+w: tell  please  by which  path  shall I go  to Vṛndāvana
+tr: Then the Lord asked, “Listen, children! Tell Me, which way should I take to Vṛndāvana?”
+
+## 19
+w: the children  all  the path along the Ganges’ bank  showed
+w: that  by path  in absorption  the Lord  going  made
+tr: The children showed Him the path along the bank of the Gaṅgā, and the Lord, absorbed in rapture, went that way.
+fn: Heading in the edition: “At Nitāi’s word they show the Lord the way to Navadvīpa”.
+
+## 20
+w: to Ācāryaratna  says  Nityānanda Gosāñi
+w: quickly  go  you  of Advaita Ācārya  to the place
+tr: Nityānanda Gosāñi said to Ācāryaratna, “Go quickly to Advaita Ācārya.
+fn: Heading in the edition: Nitāi sends Candraśekhara to Śāntipura so that everything needed may be arranged and the news of the Lord’s coming spread everywhere.
+
+## 21
+w: the Lord  taking  shall go  I  His  to the house
+w: ready  let Him stay  so that  a boat  having taken  on the bank
+tr: I shall bring the Lord to His house. Let Him wait ready on the bank with a boat.
+
+## 22
+w: then  to Navadvīpa  you  make  going
+w: Mother Śacī  taking  come  and  the devotees
+tr: Then go to Navadvīpa and come back with Mother Śacī and the other devotees.”
+fn: The edition reads *āra bhakta-gaṇa* (“and the other devotees”); another reading is *saba bhakta-gaṇa* (“all the devotees”).
+
+## 23
+w: him  having sent  Nityānanda  the great soul
+w: of Mahāprabhu  before  coming  gave  introduction
+tr: Having sent him off, the great-hearted Nityānanda came before Mahāprabhu and made Himself known.
+
+## 24
+w: the Lord  says  Śrīpāda  Your  where  going
+w: Śrīpāda  says  You  with  shall go  to Vṛndāvana
+tr: The Lord said, “Śrīpāda, where are You going?” Śrīpāda answered, “I am going with You to Vṛndāvana.”
+
+## 25
+w: the Lord  says  how  far  is  Vṛndāvana
+w: He  says  take  this  of the Yamunā  sight
+tr: The Lord asked, “How far is Vṛndāvana?” Nityānanda replied, “Look, here is the Yamunā!”
+
+## 26
+w: thus  saying  brought  Him  to the Ganges’  vicinity
+w: in ecstasy  the Lord’s  arose  the Ganges  as the Yamunā perceiving
+tr: Saying this, He led the Lord to the Gaṅgā, and in His rapture the Gaṅgā appeared to the Lord as the Yamunā.
+fn: Heading in the edition: “The Gaṅgā awakens in Mahāprabhu the remembrance of the Yamunā”.
+
+## 27
+w: oh  fortune  of the Yamunā  I have obtained  sight
+w: thus  saying  of the Yamunā  makes  praise
+tr: “Oh, what fortune! I have seen the Yamunā!” Saying this, He began to sing her praises:
+
+## 28
+w: of consciousness and bliss  of the sun  always  of Nanda’s son
+w: of supreme love  the object  liquid Brahman  whose body
+w: of sins  the cutter  of the world  welfare  bestower
+w: may she purify  our  bodies  of the sun  the daughter
+tr: “She is ever the object of the supreme love of Nanda’s son, the sun of consciousness and bliss. Her body is Brahman become water; she cuts away all sins and brings good to the world. May the daughter of the Sun purify our bodies!” (Caitanya-candrodaya-nāṭaka, 5.13)
+fn: Heading in the edition: the words of the *Padma Purāṇa*, quoted in the *Caitanya-candrodaya-nāṭaka* (5.13). *Anubhāṣya*: *cid-ānanda-bhānu* — Kṛṣṇa, who reveals knowledge and love (*saṁvit* and *prīti*); *drava-brahma-gātrī* — whose form is spiritual water; *aghānām* — of offences; the body is purified by divine knowledge.
+
+## 29
+w: thus  saying  bowing down  did  bath in the Ganges
+w: one  kaupīna  not  second  garment
+tr: Saying this, He bowed down and bathed in the Gaṅgā. He had only a single *kaupīna* and no other cloth.
+
+## 30
+w: at such  a time  Ācārya Gosāñi  in a boat  having boarded
+w: came  new  kaupīna and outer cloth  bringing
+tr: Just then Ācārya Gosāñi arrived by boat, bringing a new *kaupīna* and outer cloth.
+
+## 31
+w: in front  the Ācārya  coming  stood  obeisance  having made
+w: the Ācārya  seeing  says  the Lord  in mind  doubt  feeling
+tr: The Ācārya came before Him, bowed down and stood waiting. At the sight of the Ācārya the Lord was puzzled at heart, and He said:
+fn: Heading in the edition: “Seeing Advaita, the Lord hesitates”.
+
+## 32
+w: You  surely  Ācārya Gosāñi  here  why  have come
+w: I  in Vṛndāvana  You  how  knew
+tr: “You are Ācārya Gosāñi, aren’t You? Why have You come here? How did You know that I was in Vṛndāvana?”
+
+## 33
+w: the Ācārya  says  You  wherever  that  is Vṛndāvana
+w: by My  fortune  to the Ganges’ bank  Your  coming
+tr: The Ācārya said, “Wherever You are, that is Vṛndāvana. It is My good fortune that You have come to the bank of the Gaṅgā.”
+
+## 34
+w: the Lord  says  Nityānanda  Me  has deceived
+w: to the Ganges  bringing  to Me  the Yamunā  called it
+tr: The Lord said, “Nityānanda has deceived Me! He brought Me to the Gaṅgā and told Me it was the Yamunā.”
+fn: *Anubhāṣya*: *gaṅgāke* (“to the Gaṅgā”) — a form of the speech of Rāḍha, where the author lived before taking sannyāsa: there the locative ending *-e* is still replaced by *-ke*.
+
+## 35
+w: the Ācārya  says  false  is not  Śrīpāda’s words
+w: in the Yamunā  bath  You  took  just now
+tr: The Ācārya said, “Śrīpāda’s words are not false. Just now You did bathe in the Yamunā.
+
+## 36
+w: in the Ganges  the Yamunā  flows  becoming  one stream
+w: on the west  the Yamunā  flows  on the east  the Ganges’ stream
+tr: Here the Yamunā flows in the Gaṅgā, and the two run as one stream: on the west flows the Yamunā, on the east the Gaṅgā.
+
+## 37
+w: in the western stream  the Yamunā  flows  there  You took  bath
+w: wet  kaupīna  giving up  dry  make  wearing
+tr: The Yamunā flows in the western stream, and that is where You bathed. Now take off Your wet *kaupīna* and put on a dry one.
+
+## 38
+w: in ecstatic love  three  days  You have been  fasting
+w: today  in My  house  alms  come  to My  dwelling
+tr: Absorbed in love, You have been fasting for three days. Today take Your alms in My house; come home with Me.
+
+## 39
+w: one  handful  of rice  I  have done  cooking
+w: plain  vegetables  I made  dāl  and  greens
+tr: I have cooked just a handful of rice and made some plain vegetables, dāl and greens.”
+fn: Heading in the edition: fearing the Lord might refuse, Advaita describes the meal at His house as the simplest fare.
+
+## 40
+w: thus  saying  in the boat  seating  took  to His own house
+w: of the feet  washing  did  joyful at heart
+tr: Saying this, He seated the Lord in the boat and took Him to His own house, where, joyful at heart, He washed the Lord’s feet.
+
+## 41
+w: first  the cooking  had done  the Ācārya’s wife
+w: to Viṣṇu  offering  did  the Ācārya  Himself
+tr: The Ācārya’s wife had done the cooking beforehand, and the Ācārya Himself offered the food to Viṣṇu.
+fn: Heading in the edition: “Sītā Ṭhākurāṇī cooks, and the Ācārya Himself offers the bhoga”.
+
+## 42
+w: in three  places  the food  served  equal  making
+w: Kṛṣṇa’s  offering  served  on a metal plate
+tr: The food was set out in three equal portions, and Kṛṣṇa’s offering was placed on a metal plate.
+fn: Heading in the edition: the offering is set out on three plates — for three: the two Lords and Kṛṣṇa.
+
+## 43
+w: of the battiśā-āṭhiyā  banana  whole  on leaves
+w: in two  places  the food  served  in a fine  manner
+tr: The other two portions were set out nicely on whole, uncut leaves of the *battiśā-āṭhiyā* banana.
+fn: *Amṛta-pravāha-bhāṣya*: *āṭhiyā* is a kind of banana tree that bears a bunch of thirty-two clusters; *āṅgaṭiyā* — a whole, untorn banana leaf.
+
+## 44
+w: in the middle  with yellow ghee soaked  of fine rice  a heap
+w: on four sides  vegetable cups  and  mung dāl
+tr: In the middle of each was a heap of fine *śāli* rice soaked in yellow ghee, and all around it stood leaf cups of vegetables and mung dāl.
+
+## 45
+w: sādraka  vāstuka greens  various  kinds
+w: paṭola  pumpkin with baḍi  mānakacu  and
+tr: There was *sādraka*, various kinds of *vāstuka* greens, *paṭola*, pumpkin with *baḍi*, and *mānakacu*.
+fn: The edition reads *sādraka*; another reading is *sārdraka*.
+
+## 46
+w: cai and pepper sukhta  adding  to all  fruits and roots
+w: nectar-defeating  five kinds  bitter and pungent
+tr: All the fruits and roots, seasoned with *cai*, black pepper and *sukhta*, became five kinds of bitter and pungent dishes that put nectar to shame.
+fn: *Cai* — the pungent stems of a pepper vine; *sukhta* — a bitter Bengali vegetable dish.
+
+## 47
+w: tender  nim leaves  with  fried  eggplant
+w: paṭola with phula-baḍi fried  pumpkin mānacāki
+tr: There was eggplant fried with tender *nim* leaves, *paṭola* fried with *phula-baḍi*, and pumpkin *mānacāki*.
+
+## 48
+w: coconut pulp  curd  with sugar  sweet
+w: banana-flower ghaṇṭa  pumpkin in milk  all  in abundance
+tr: There was coconut pulp, fresh curd (*chānā*) sweetened with sugar, a *ghaṇṭa* of banana flowers and pumpkin cooked in milk — all in abundance.
+
+## 49
+w: sweet-and-sour baḍās  sour dishes and others  five or six
+w: all  vegetables  made  among people  as many as  exist
+tr: There were sweet-and-sour *baḍās* and five or six sour dishes. Every vegetable dish known in the world was made.
+fn: *Anubhāṣya*: *loke* — in the world.
+
+## 50
+w: mung baḍās  urad baḍās  banana baḍās  sweet
+w: kṣīrapulī  coconut  all  cakes  favourite
+tr: There were *baḍās* of mung and of urad, sweet banana *baḍās*, *kṣīrapulī*, coconut, and every kind of cake one could wish for.
+fn: *Anubhāṣya*: *iṣṭa* — needed, desired.
+
+## 51
+w: of the battiśā-āṭhiyā  banana  the cups  large  large
+w: move  shake  not  cups  very  large  strong
+tr: The cups made of *battiśā-āṭhiyā* banana leaves were very large and strong, so that they did not tip or wobble.
+
+## 52
+w: fifty  fifty  cups  with vegetables  filling
+w: of the three  offerings  around  on the sides  placed  arranging
+tr: Around each of the three offerings they set fifty such cups filled with vegetables.
+
+## 53
+w: with ghee sweet rice  new  earthen pots  filling
+w: in three  vessels  thickened milk  they place  indeed  arranging
+tr: Sweet rice with ghee filled new earthen pots, and thickened milk was set out in three vessels.
+
+## 54
+w: milk with flat rice and banana  and  milk laklakī
+w: however much  they made  that  to describe  not  I am able
+tr: There was flat rice with banana in milk, and milk *laklakī*. I cannot describe all that they made.
+fn: *Anubhāṣya*: in verses 45–55 the author shows his fine knowledge of the art of cooking.
+
+## 55
+w: on two  sides  placed  all  earthen pots  filling
+w: campaka bananas, yogurt, sandeśa  to describe  not  I can
+tr: On both sides stood earthen pots filled with *cā̃pā* bananas, yogurt and *sandeśa* — I cannot describe it all.
+
