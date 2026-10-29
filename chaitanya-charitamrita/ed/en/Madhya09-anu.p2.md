@@ -493,6 +493,46 @@ Before Śrīpāda Mādhavendra Purī, down to Śrīpāda Lakṣmīpati Tīrtha, 
 **The Tāptī**, present name “Tāpī,” rises in the Multai hills of Central India and falls into the Western Sea in the northern part of Saurāṣṭra.
 
 **Māhiṣmatīpura** is “Chuli Maheshwar.” The *Mahābhārata*, Sabhā-parva, in the account of Sahadeva's conquest of the quarters (chapter 31, verse 21), says: “
+Then, taking the jewels, he went to the city of Māhiṣmatī. There that bull among men fought with King Nīla.” Formerly this was the place of Kārtavīrya Arjuna, in the Broach district of Gujarat.
+
+## 311
+
+> Subheading: *Darśana* of Dhanus-tīrtha and bathing in the Nirvindhyā; then the Lord comes to Ṛṣyamūka Mountain, to Daṇḍakāraṇya —
+
+**The river Nirvindhyā** lies near Ujjayinī, to its northeast, west of the river Pārā and south of the river Pāvanī.
+
+**Ṛṣyamūka.** Some say that Ṛṣyamūka Mountain is the mountain near the village of Hampi in the Bellary district, beside the narrowest pass on the bank of the Tuṅgabhadrā; it extends into the Nizam's state. According to some, it lies in the Central Provinces and is now called “Rampa”; according to others, it is “Anamalaya” in the kingdom of Travancore; and according to still others, the river Pampā flows out of Ṛṣyamūka Mountain and joins the Tuṅgabhadrā near Anagundi.
+
+**Daṇḍakāraṇya.** Over the broad tract along the banks of the Godāvarī — from Khandesh in the north to Ahmednagar in the south, and in between as far as “Nasik” and “Aurangabad” — there was a vast forest called “Daṇḍakāraṇya.”
+
+## 312
+
+> Subheading: The deliverance of the “Sapta-tāla” —
+
+**Sapta-tāla.** To show Sugrīva, the king of the monkeys, that He was able to kill Vāli, Śrī Rāmacandra boldly struck down the seven palm trees. This episode is described in the *Rāmāyaṇa*, Kiṣkindhā-kāṇḍa, *sargas* 11 and 12.
+
+## 314
+
+> Subheading: The people recognize the Lord as the avatāra Rāma —
+
+## 316
+
+> Subheading: Bathing in Lake Pampā and resting at Pañcavaṭī —
+
+**Pampā.** “Ṛṣyamūka, covered with flowering trees, lies before the Pampā.” Some say that “Pampā” is the ancient name of the river Tuṅgabhadrā itself. According to another view, the village of Hampi, the ancient and famous capital of Vijayanagara, was first known as the holy place Pampā. According to a third view, “Lake Pampā” is a lake on the bank of the Tuṅgabhadrā near Anagundi, toward Hyderabad. According to a fourth, Lake Pampā is the Pambai river of Travancore. According to a fifth, the river is called a lake because its water is still.
+
+**Pañcavaṭī** is a forest in Daṇḍakāraṇya, now within the town of “Nasik.” Here Lakṣmaṇa cut off Śūrpaṇakhā's nose. In the town of Nasik resides the Mahādeva named “Tryambaka” (*Bombay Gazetteer*).
+
+## 317
+
+> Subheading: After *darśana* of Śiva at Nasik, the Lord comes to Brahmagiri and then to Kuśāvarta —
+
+**Kuśāvarta.** The main streams of the Godāvarī arise in a region called Kuśaṭṭa in the Western Ghats, or Sahyādri; it lies near Nasik. According to some, it lies at the foot of the Vindhya range.
+
+## 318
+
+> Subheading: Having sanctified many holy places along the banks of the seven branches of the Godāvarī, the Lord comes to Vidyānagara —
+
 
 ---
 
