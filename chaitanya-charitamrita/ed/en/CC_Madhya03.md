@@ -1582,10 +1582,10 @@ the Ācārya's  house  became  Śrī Vaikuṇṭha's city
 
 (156) Everyone danced in bliss, calling “Hari! Hari!”, and the Ācārya's house became the city of Śrī Vaikuṇṭha.
 
-যত লোক আইল মহাপ্রভুকে দেখিতে ৷  
+যত লোক আইলা মহাপ্রভুকে দেখিতে ৷  
 নানা-গ্রাম হৈতে আর নবদ্বীপ হৈতে ॥ ১৫৭ ॥
 
-yata loka āila mahāprabhuke dekhite  
+yata loka āilā mahāprabhuke dekhite  
 as many  people  came  Mahāprabhu  to see  
 nānā-grāma haite āra navadvīpa haite  
 various  villages  from  and  Navadvīpa  from
