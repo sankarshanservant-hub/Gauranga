@@ -93,3 +93,7 @@ O Deva! O Dayita! O sole Friend of the world! O Kṛṣṇa! O Capala! O ocean o
 ## 66
 
 ***Solluṇṭha*** — censure in words of praise.
+
+## 74
+
+*Sakhī*, here the son of Nanda Himself has appeared before My eyes: He is Kandarpa incarnate, the sweetness of a host of radiances, sweetness embodied, nectar for the mind and eyes. He gives joy to the gopīs by loosening their braids; He is the beloved of My life.

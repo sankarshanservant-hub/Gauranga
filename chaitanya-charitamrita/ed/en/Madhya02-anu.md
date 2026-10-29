@@ -252,3 +252,25 @@ In front of Śrī Jagannātha's temple, at the far end of the *jagamohana*, stan
 ## 72
 
 > Subheading: The symptoms of the Lord's *mahābhāva* —
+
+***Stambha*** (stupor) — one of the eight *sāttvika* transformations. (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “When the mind is filled with *sattva*, it places itself, agitated, in the *prāṇa*. The *prāṇa*, being transformed, greatly agitates the body. Then these *bhāvas*, *stambha* and the others, appear in the devotee's body. The *prāṇa*, resting in the element earth, produces *stambha*. *Stambha* arises from joy, fear, wonder, dejection and indignation. In it there is absence of speech and the like,[^72-1] motionlessness, blankness and so on.” When the mind reaches a *sāttvika* state, it places the restless mind in the *prāṇa*. The *prāṇa*, transformed, agitates the body. Then these *bhāvas*, *stambha* and the others, appear in the body of one engaged in *bhajana*. When the *prāṇa* rests in earth, one of the five elements, *stambha* arises. *Stambha* is born of joy, fear, wonder, dejection and anger. In *stambha* the activity of speech, hands, feet and so on ceases, and there is motionlessness, blankness and the like. *Stambha* is a particular state of the mind. The absence of speech and so on — a transformation born of the body — pervades both the outside and the inside. First it is subtle, later gross. Speechlessness and the like — that is, the blankness even of the organs of action — shows that the organs of knowledge, too, have ceased to act.
+
+***Kampa*** (trembling). (Ibid.) “*Vepathu*, which makes the limbs quiver, arises from fright, indignation, joy and the like.” When the body quivers from great fear, anger, joy and the like, it is called *vepathu* or *kampa*.
+
+***Sveda*** (perspiration). (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “*Sveda* is the moistening of the body born of joy, fear, anger and the like.” That is, the moisture the body produces from joy, fear, anger and so on is called *sveda*.
+
+***Vaivarṇya*** (pallor). (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “*Vaivarṇya* is a change of color from dejection, anger, fear and the like. Here the knowers of *bhāva* name paleness, thinness and so on.” That is, the change of the body's color from dejection, anger, fear and so on is called *vaivarṇya*. With *vaivarṇya* paleness, thinness and the like are mentioned.
+
+***Aśru*** (tears). (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “*Aśru* is water welling up in the eyes from joy, anger, dejection and the like. Tears of joy are cool; tears of anger and the like are hot. With all tears there is agitation of the eyes, redness, wiping and so on.” That is, the water that wells up in the eyes without any effort from joy, anger, dejection and the like is called *aśru*. Tears of joy are cool and tears of anger and so on are hot, but with all tears one sees restlessness of the eyes, redness, wiping and the like.
+
+***Gadgada*** (a choked voice). (Ibid.) “*Vaisvarya*, a change of voice, arises from dejection, wonder, indignation, joy, fear and the like; it causes stammering and so on.” From dejection, wonder, anger, joy, fear and the like the voice changes — this is *vaisvarya*, or *svara-bheda*. This change of voice makes the speech falter.
+
+***Pulaka*** (hair standing on end). (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “*Romāñca* arises from wonder, joy, enthusiasm, fear and the like. In it the hairs stand up, one touches one's limbs, and so on.” That is, from wonder, joy, enthusiasm, fear and the like the hairs stand on end — this is *pulaka*, or *romāñca*; with it one touches one's body and so on.
+
+## 73
+
+> Subheading: The Lord imagines that He sees Kṛṣṇa —
+
+## 74
+
+**svayaṁ māraḥ** (Kandarpa) **nu** (is it? — a conjecture) **madhura-dyuti-maṇḍalam** (a beautiful, soft, heart-touching orb of radiance) **nu** (is it?) **mādhuryam eva nu** (is it?) **mano-nayanāmṛtam** (nectar for the heart and eyes) **nu** (is it?) **veṇī-mṛjaḥ** (He who loosens the braids) **nu** (is it?) **ayaṁ jīvita-vallabhaḥ** (Kṛṣṇa) **mama locanāya** (to delight my eyes) **abhyudayate** (has appeared before me).
