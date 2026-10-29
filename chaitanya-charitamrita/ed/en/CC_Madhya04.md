@@ -311,241 +311,301 @@ the women  milk  giving  Me  sent
 পুনঃ আসি’ আমি এই ভাণ্ড লইব ॥ ৩১ ॥
 
 go-dohana karite cāhi, śīghra āmi yāba  
-punaḥ āsi’ āmi ei bhāṇḍa laiba
+cow-milking  to do  I want  quickly  I  shall go  
+punaḥ āsi’ āmi ei bhāṇḍa laiba  
+again  coming  I  this  pot  shall take
 
-(31) [not yet translated]
+(31) I must go now to milk the cows, but I will come back and take this pot.”
 
 এত বলি’ গেলা বালক না দেখিয়ে আর ৷  
 মাধব-পুরীর চিত্তে হইল চমৎকার ॥ ৩২ ॥
 
 eta bali’ gelā bālaka nā dekhiye āra  
-mādhava-purīra citte haila camatkāra
+this  saying  went  the boy  not  was seen  any more  
+mādhava-purīra citte haila camatkāra  
+Mādhava Purī’s  in the heart  arose  wonder
 
-(32) [not yet translated]
+(32) Saying this, the boy went away and was seen no more, and Mādhava Purī’s heart was filled with wonder.
 
 দুগ্ধ পান করি’ ভাণ্ড ধুঞা রাখিল ৷  
 বাট দেখে, সে বালক পুনঃ না আইল ॥ ৩৩ ॥
 
 dugdha pāna kari’ bhāṇḍa dhuñā rākhila  
-bāṭa dekhe, se bālaka punaḥ nā āila
+milk  drinking  having done  the pot  washing  set aside  
+bāṭa dekhe, se bālaka punaḥ nā āila  
+the path  he watches  that  boy  again  not  came
 
-(33) [not yet translated]
+(33) He drank the milk, washed the pot and set it aside. He kept watching the path, but the boy did not come back.
 
 বসি’ নাম লয় পুরী, নাহি নিদ্রা হয় ৷  
 শেষ রাত্রে তন্দ্রা হৈল, — বাহ্যবৃত্তি-লয় ॥ ৩৪ ॥
 
 vasi’ nāma laya purī, nāhi nidrā haya  
-śeṣa rātre tandrā haila, — bāhya-vṛtti-laya
+sitting  the Name  takes  Purī  no  sleep  comes  
+śeṣa rātre tandrā haila, — bāhya-vṛtti-laya  
+at the end  of the night  a trance  came  of the outward senses  the stilling
 
-(34) [not yet translated]
+(34) Purī sat chanting the Name, and no sleep came to him. At the end of the night a trance came over him, and his outward senses were stilled.
 
 স্বপ্নে দেখে, সেই বালক সম্মুখে আসিঞা ৷  
 এক কুঞ্জে লঞা গেল হাতেতে ধরিঞা ॥ ৩৫ ॥
 
 svapne dekhe, sei bālaka sammukhe āsiñā  
-eka kuñje lañā gela hātete dhariñā
+in a dream  he sees  that  boy  before him  coming  
+eka kuñje lañā gela hātete dhariñā  
+to a  grove  taking  went  by the hand  holding
 
-(35) [not yet translated]
+(35) In a dream he saw that same boy come before him, take him by the hand and lead him into a grove.
 
 কুঞ্জ দেখাঞা কহে, — আমি এই কুঞ্জে রই ৷  
 শীত-বৃষ্টি-বাতাগ্নিতে মহা-দুঃখ পাই ॥ ৩৬ ॥
 
 kuñja dekhāñā kahe, — āmi ei kuñje rai  
-śīta-vṛṣṭi-vātāgnite mahā-duḥkha pāi
+the grove  showing  He says  I  in this  grove  stay  
+śīta-vṛṣṭi-vātāgnite mahā-duḥkha pāi  
+from cold, rain, wind and heat  great suffering  I get
 
-(36) [not yet translated]
+(36) Showing him the grove, He said, “I stay in this grove, and I suffer greatly from cold and rain, wind and heat.
 
 গ্রামের লোক আনি’ আমা কাঢ় কুঞ্জ হৈতে ৷  
 পর্ব্বত-উপরি লঞা রাখ ভালমতে ॥ ৩৭ ॥
 
 grāmera loka āni’ āmā kāḍha kuñja haite  
-parvata-upari lañā rākha bhāla-mate
+of the village  the people  bringing  Me  take out  the grove  from  
+parvata-upari lañā rākha bhāla-mate  
+on top of the hill  taking  keep  properly
 
-(37) [not yet translated]
+(37) Bring the people of the village and take Me out of the grove. Carry Me up the hill and keep Me there properly.
 
 এক মঠ করি’ তাঁহা করহ স্থাপন ৷  
 বহু শীতল জলে কর শ্রীঅঙ্গ মার্জ্জন ॥ ৩৮ ॥
 
 eka maṭha kari’ tāṅhā karaha sthāpana  
-bahu śītala jale kara śrī-aṅga mārjana
+a  temple  making  there  do  installation  
+bahu śītala jale kara śrī-aṅga mārjana  
+with much  cool  water  do  of the holy body  bathing
 
-(38) [not yet translated]
+(38) Build a temple there and install Me in it, and bathe My body with plenty of cool water.
 
 বহুদিন তোমার পথ করি নিরীক্ষণ ৷  
 কবে আসি’ মাধব আমা করিবে সেবন ॥ ৩৯ ॥
 
 bahu-dina tomāra patha kari nirīkṣaṇa  
-kabe āsi’ mādhava āmā karibe sevana
+for many days  your  path  I do  watching  
+kabe āsi’ mādhava āmā karibe sevana  
+when  coming  Mādhava  Me  will do  service
 
-(39) [not yet translated]
+(39) For many days I have been watching the path for you, wondering when Mādhava would come and serve Me.
 
 তোমার প্রেমবশে করি’ সেবা অঙ্গীকার ৷  
 দর্শন দিয়া নিস্তারিব সকল সংসার ॥ ৪০ ॥
 
 tomāra prema-vaśe kari’ sevā aṅgīkāra  
-darśana diyā nistāriba sakala saṁsāra
+your  conquered by love  making  of service  acceptance  
+darśana diyā nistāriba sakala saṁsāra  
+darśana  giving  I shall deliver  all  the world
 
-(40) [not yet translated]
+(40) Conquered by your love, I shall accept your service, and by giving My darśana I shall deliver the whole world.
 
 ‘শ্রীগোপাল’ নাম মোর, — গোবর্দ্ধনধারী ৷  
 বজ্রের স্থাপিত, আমি ইঁহা অধিকারী ॥ ৪১ ॥
 
 ‘śrī-gopāla’ nāma mora, — govarddhana-dhārī  
-vajrera sthāpita, āmi iṅhā adhikārī
+Śrī Gopāla  name  My  the Holder of Govardhana  
+vajrera sthāpita, āmi iṅhā adhikārī  
+by Vajra  installed  I  here  the master
 
-(41) [not yet translated]
+(41) My name is Śrī Gopāla; I am the Holder of Govardhana. I was installed by Vajra, and I am the master here.
 
 শৈল-উপরি হৈতে আমা কুঞ্জে লুকাঞা ৷  
 ম্লেচ্ছ-ভয়ে সেবক মোর গেল পলাঞা ॥ ৪২ ॥
 
 śaila-upari haite āmā kuñje lukāñā  
-mleccha-bhaye sevaka mora gela palāñā
+the top of the hill  from  Me  in the grove  hiding  
+mleccha-bhaye sevaka mora gela palāñā  
+of the mlecchas  out of fear  servant  My  went  fleeing
 
-(42) [not yet translated]
+(42) In fear of the *mlecchas* My servant brought Me down from the top of the hill, hid Me in this grove and fled.
 
 সেই হৈতে রহি আমি এই কুঞ্জ-স্থানে ৷  
 ভাল, আইলা তুমি, আমা কাঢ় সাবধানে ॥ ৪৩ ॥
 
 sei haite rahi āmi ei kuñja-sthāne  
-bhāla, āilā tumi, āmā kāḍha sāvadhāne
+that  since  stay  I  in this  grove  
+bhāla, āilā tumi, āmā kāḍha sāvadhāne  
+good  have come  you  Me  take out  carefully
 
-(43) [not yet translated]
+(43) Since then I have stayed in this grove. It is good that you have come; take Me out carefully.”
 
 এত বলি’, যেই বালক অন্তর্দ্ধান হৈল ৷  
 জাগিয়া মাধবপুরী বিচার করিল ॥ ৪৪ ॥
 
 eta bali’, yei bālaka antarddhāna haila  
-jāgiyā mādhava-purī vicāra karila
+this  saying  that  boy  disappeared  
+jāgiyā mādhava-purī vicāra karila  
+waking  Mādhava Purī  reflection  made
 
-(44) [not yet translated]
+(44) Saying this, the boy disappeared. Mādhava Purī woke up and began to reflect.
 
 শ্রীকৃষ্ণকে দেখিনু মুঞি নারিনু চিনিতে ৷  
 এত বলি, প্রেমাবেশে পড়িলা ভূমিতে ॥ ৪৫ ॥
 
 śrī-kṛṣṇake dekhinu muñi nārinu cinite  
-eta bali, premāveśe paḍilā bhūmite
+Śrī Kṛṣṇa  saw  I  could not  recognise  
+eta bali, premāveśe paḍilā bhūmite  
+this  saying  in the rapture of love  fell  to the ground
 
-(45) [not yet translated]
+(45) “I saw Śrī Kṛṣṇa, but I could not recognise Him!” Saying this, he fell to the ground, overwhelmed with love.
 
 ক্ষণেক রোদন করি’ মন কৈল স্থির ৷  
 আজ্ঞা-পালন লাগি’ হইলা সুস্থির ॥ ৪৬ ॥
 
 kṣaṇeka rodana kari’ mana kaila sthira  
-ājñā-pālana lāgi’ ha-ilā susthira
+for a while  weeping  doing  mind  made  steady  
+ājñā-pālana lāgi’ ha-ilā susthira  
+the order’s fulfilment  for the sake of  became  composed
 
-(46) [not yet translated]
+(46) He wept for a while, then steadied his mind and became composed in order to carry out the command.
 
 প্রাতঃস্নান করি’ পুরী গ্রামমধ্যে গেলা ৷  
 সব লোক একত্র করি’ কহিতে লাগিলা ॥ ৪৭ ॥
 
 prātaḥ-snāna kari’ purī grāma-madhye gelā  
-saba loka ekatra kari’ kahite lāgilā
+morning bath  taking  Purī  into the village  went  
+saba loka ekatra kari’ kahite lāgilā  
+all  people  together  gathering  to speak  began
 
-(47) [not yet translated]
+(47) After his morning bath Purī went into the village, gathered all the people together and said:
 
 গ্রামের ঈশ্বর তোমার — গোবর্দ্ধনধারী ৷  
 কুঞ্জে আছে, চল, তাঁরে বাহির যে করি ॥ ৪৮ ॥
 
 grāmera īśvara tomāra — govarddhana-dhārī  
-kuñje āche, cala, tāṅre bāhira ye kari
+of the village  the Lord  your  the Holder of Govardhana  
+kuñje āche, cala, tāṅre bāhira ye kari  
+in the grove  He is  come  Him  out  then  let us bring
 
-(48) [not yet translated]
+(48) “The Lord of your village, the Holder of Govardhana, is in the grove. Come, let us bring Him out.
 
 কুঠারি কোদাল লহ দ্বার করিতে ৷  
 অত্যন্ত নিবিড় কুঞ্জ, — নারি প্রবেশিতে ॥ ৪৯ ॥
 
 kuṭhāri kodāla laha dvāra karite  
-atyanta niviḍa kuñja, — nāri praveśite
+axes  spades  take  a way  to make  
+atyanta niviḍa kuñja, — nāri praveśite  
+very  dense  the grove  we cannot  enter
 
-(49) [not yet translated]
+(49) Take axes and spades to clear a way, for the grove is so dense that we cannot get in.”
 
 শুনি’ লোক তাঁর সঙ্গে চলিলা হরিষে ৷  
 কুঞ্জ কাটি’ দ্বার করি’ করিলা প্রবেশে ॥ ৫০ ॥
 
 śuni’ loka tāṅra saṅge calilā hariṣe  
-kuñja kāṭi’ dvāra kari’ karilā praveśe
+hearing  the people  him  with  went  joyfully  
+kuñja kāṭi’ dvāra kari’ karilā praveśe  
+the grove  cutting  a way  making  made  entry
 
-(50) [not yet translated]
+(50) Hearing this, the people joyfully went with him. Cutting through the thicket, they made a way and entered.
 
 ঠাকুর দেখিল মাটী-তৃণে আচ্ছাদিত ৷  
 দেখি’ সব লোক হৈল আনন্দে বিস্মিত ॥ ৫১ ॥
 
 ṭhākura dekhila māṭī-tṛṇe ācchādita  
-dekhi’ saba loka haila ānande vismita
+the Deity  they saw  with earth and grass  covered  
+dekhi’ saba loka haila ānande vismita  
+seeing  all  people  became  with joy  amazed
 
-(51) [not yet translated]
+(51) They found the Deity covered with earth and grass, and at the sight all the people were amazed and overjoyed.
 
 আবরণ দূর করি’ করিল চিহ্নিতে ৷  
 মহা-ভারি ঠাকুর — কেহ নারে চালাইতে ॥ ৫২ ॥
 
 āvaraṇa dūra kari’ karila cihnite  
-mahā-bhāri ṭhākura — keha nāre cālāite
+the covering  away  putting  made  visible  
+mahā-bhāri ṭhākura — keha nāre cālāite  
+very heavy  the Deity  no one  could  move
 
-(52) [not yet translated]
+(52) They cleared away the covering and the Deity came into view. He was immensely heavy, and no one could move Him.
 
 মহা-মহা-বলিষ্ঠ লোক একত্র করিঞা ৷  
 পর্ব্বত-উপরি গেল পুরী ঠাকুর লঞা ॥ ৫৩ ॥
 
 mahā-mahā-baliṣṭha loka ekatra kariñā  
-parvata-upari gela purī ṭhākura lañā
+very very strong  men  together  gathering  
+parvata-upari gela purī ṭhākura lañā  
+to the top of the hill  went  Purī  the Deity  taking
 
-(53) [not yet translated]
+(53) Gathering the very strongest men, Purī took the Deity up to the top of the hill.
 
 পাথরের সিংহাসনে ঠাকুর বসাইল ৷  
 বড় এক পাথর পৃষ্ঠে অবলম্ব দিল ॥ ৫৪ ॥
 
 pātharera siṁhāsane ṭhākura vasāila  
-baḍa eka pāthara pṛṣṭhe avalamba dila
+of stone  on a throne  the Deity  they seated  
+baḍa eka pāthara pṛṣṭhe avalamba dila  
+big  one  stone  behind  as support  they gave
 
-(54) [not yet translated]
+(54) They seated the Deity on a throne of stone, and set a large stone behind Him for support.
 
 গ্রামের ব্রাহ্মণ সব নবঘট লঞা ৷  
 গোবিন্দ-কুণ্ডের জল আনিল ছানিঞা ॥ ৫৫ ॥
 
 grāmera brāhmaṇa saba nava ghaṭa lañā  
-govinda-kuṇḍera jala ānila chāniñā
+of the village  the brāhmaṇas  all  new  pots  taking  
+govinda-kuṇḍera jala ānila chāniñā  
+of Govinda-kuṇḍa  water  brought  straining
 
-(55) [not yet translated]
+(55) All the brāhmaṇas of the village took new pots and brought water from Govinda-kuṇḍa, straining it.
 
 নবশতঘট জল কৈল উপনীত ৷  
 নানা বাদ্য-ভেরী বাজে, স্ত্রীগণে গায় গীত ॥ ৫৬ ॥
 
 nava śata-ghaṭa jala kaila upanīta  
-nānā vādya-bherī bāje, strī-gaṇe gāya gīta
+nine  hundred pots  of water  made  brought  
+nānā vādya-bherī bāje, strī-gaṇe gāya gīta  
+various  instruments and drums  sound  the women  sing  songs
 
-(56) [not yet translated]
+(56) Nine hundred pots of water were brought. Instruments and drums of every kind resounded, and the women sang.
 
 কেহ গায়, কেহ নাচে, মহোৎসব হৈল ৷  
 দধি, দুগ্ধ, ঘৃত আইল গ্রামে যত ছিল ॥ ৫৭ ॥
 
 keha gāya, keha nāce, mahotsava haila  
-dadhi, dugdha, ghṛta āila grāme yata chila
+some  sing  some  dance  a great festival  there was  
+dadhi, dugdha, ghṛta āila grāme yata chila  
+yogurt  milk  ghee  came  in the village  as much as  there was
 
-(57) [not yet translated]
+(57) Some sang and some danced; it became a great festival. All the yogurt, milk and ghee in the village was brought.
 
 ভোগ-সামগ্রী আইল সন্দেশাদি যত ৷  
 নানা উপহার, তাহা কহিতে পারি কত ॥ ৫৮ ॥
 
 bhoga-sāmagrī āila sandeśādi yata  
-nānā upahāra, tāhā kahite pāri kata
+foodstuffs for the offering  came  sandeśa and the rest  all  
+nānā upahāra, tāhā kahite pāri kata  
+various  gifts  them  to describe  can I  how many
 
-(58) [not yet translated]
+(58) Foodstuffs for the offering came, *sandeśa* and every other sweet, and gifts of so many kinds that I cannot describe them all.
 
 তুলসী আদি, পুষ্প, বস্ত্র আইল অনেক ৷  
 আপনে মাধবপুরী কৈল অভিষেক ॥ ৫৯ ॥
 
 tulasī ādi, puṣpa, vastra āila aneka  
-āpane mādhava-purī kaila abhiṣeka
+tulasī  and so on  flowers  cloth  came  in abundance  
+āpane mādhava-purī kaila abhiṣeka  
+himself  Mādhava Purī  performed  the abhiṣeka
 
-(59) [not yet translated]
+(59) Tulasī, flowers and cloth came in abundance, and Mādhava Purī himself performed the bathing ceremony (*abhiṣeka*).
 
 অঙ্গমলা দূর করি’ করাইল স্নান ৷  
 বহু তৈল দিয়া কৈল শ্রীঅঙ্গ চিক্কণ ॥ ৬০ ॥
 
 aṅgamalā dūra kari’ karāila snāna  
-bahu taila diyā kaila śrī-aṅga cikkaṇa
+the dirt of the body  away  removing  had Him  bathed  
+bahu taila diyā kaila śrī-aṅga cikkaṇa  
+much  oil  applying  made  the holy body  glossy
 
-(60) [not yet translated]
+(60) Removing the dirt from His body, he bathed Him, and with plenty of oil he made the holy body glisten.
 
 পঞ্চগব্য, পঞ্চামৃতে স্নান করাঞা ৷  
 মহাস্নান করাইল শত ঘট দিঞা ॥ ৬১ ॥
@@ -1394,7 +1454,7 @@ sei rātre devālaye karila śayana
 গোপাল আসিয়া কহে, — শুনহ, মাধব ৷  
 কর্পূর-চন্দন আমি পাইলাম সব ॥ ১৫৮ ॥
 
-gopāla āsiyā kahe, — śuna he mādhava  
+gopāla āsiyā kahe, — śunaha, mādhava  
 karpūra-candana āmi pāilāma saba
 
 (158) [not yet translated]
@@ -1514,7 +1574,7 @@ tina-bāre svapne āsi’ yāṅre ājñā kaila
 যাঁর প্রেমে বশ হঞা প্রকট হৈলা ৷  
 সেবা অঙ্গীকার করি’ জগত তারিলা ॥ ১৭৩ ॥
 
-yāṅra preme vaśa hañā prakaṭa ha-ilā  
+yāṅra preme vaśa hañā prakaṭa hailā  
 sevā aṅgīkāra kari’ jagata tārilā
 
 (173) [not yet translated]
