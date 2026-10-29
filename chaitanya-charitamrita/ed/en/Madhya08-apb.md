@@ -54,6 +54,22 @@ In his first answer Rāya named as “the goal” (*sādhya*) the worship of K�
 
 Hearing even this, the Lord said, “This too is external. The answer to My question lies beyond it; tell Me that.” In reply Rāya said, “Giving up one's own *dharma* (*svadharma*) is the essence of the goal.” That is, among the four *varṇas* the brāhmaṇa gives up his own (household) *dharma* and accepts *sannyāsa*, and the other *varṇas*, following him, accept the marks of renunciation and leave home. This *sannyāsa* is called giving up *svadharma*, or giving up *karma*. The *dharma* of renunciation brings the pleasure of Hari.
 
+## 62
+
+In the scriptures on *dharma* I, Bhagavān, have ordained many things as “*dharma*.” He who weighs their merits and faults, gives up all these pursuits of *dharma* and worships Me is the best of all (a *sādhu*).
+
+## 63
+
+Give up all *dharmas* and take shelter of Me alone, Bhagavān. Then I shall free you from all sins. Do not grieve.
+
+## 64
+
+Hearing this answer, the Lord called it too external and told him to speak of something higher. Then Rāya said, “Devotion mixed with knowledge (*jñāna-miśrā bhakti*) may be called the essence of the goal.”
+
+## 65
+
+It is said in the *Gītā*: “He who, by cultivating knowledge in the form of the doctrine of the nondifferent Brahman, himself becomes serene, free from grief and desire, and equal toward all beings, and who attains the state of Brahman, then obtains supreme devotion to Me.” The purport is this: devotion mixed with *karma* (*karma-miśrā bhakti*) was spoken of earlier, and higher than it is devotion mixed with knowledge.
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”

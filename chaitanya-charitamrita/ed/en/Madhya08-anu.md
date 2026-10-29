@@ -167,3 +167,29 @@ Setting out to determine the *sādhya*, that is, the devotion that is to be prac
 The words of Śrī Kṛṣṇa to Arjuna:
 
 **kaunteya** (O Arjuna), **yat** **karma** **karoṣi**, **yat** **aśnāsi**, **yat** **dadāsi**, **yat** **juhoṣi**, **yat** **tapasyasi**, **tat** **sarvaṁ** **mad-arpaṇam** **kuruṣva**. See *Bhāg.* 11.2.36.
+
+## 61
+
+> Subheading: (3) Merely giving up the enjoyment of results, or *naiṣkarmya*, is not pure devotion; the first step of pure devotion is to give up *svadharma*, surrender, and serve Śrī Hari —
+
+The word *mad-arpaṇa* (“offered to Me”) rejects the material featureless and means offering to Kṛṣṇa alone, the independent, personal (*saviśeṣa*) Truth. Yet the *sādhaka* still grasps himself through his “I” (*asmitā*), which lies within the universe, and the activity he practices also remains within the universe. Therefore this too is external. That is, the *jīva* engaged in action, with external perception, receives only the instruction to give his external actions to the independent Reality that is beyond all action. Then Rāmānanda purified this understanding: he took up the mood to which the understanding of a *jīva* risen above *karma* must be raised, and cited the evidence that the goal is attained by giving up *svadharma*.
+
+## 62
+
+> Subheading: Giving up *svadharma* in the form of *varṇāśrama* and serving Hari —
+
+The words of Śrī Bhagavān answering Uddhava, who wished to know the marks of a *sādhu* dear to Bhagavān:
+
+**yaḥ** (that *sādhaka* who) **guṇān** **doṣān** (material good and bad states and so on) **ājñāya** (knowing fully), **api** **mayā** (by Me, the teacher of Vedic *karma*, to those attached to *karma*) **ādiṣṭān** (enjoined) **sarvān** **svakān** **dharmān** (the worldly *dharmas* of the *varṇas*, brāhmaṇa, kṣatriya, vaiśya and śūdra, and the *dharmas* of the *āśramas*, *brahmacārī*, *gṛhastha*, *vānaprastha*, *sannyāsī* and so on) **santyajya** (casting them far away and completely) **mām** (Bhagavān Kṛṣṇa, the independent, the shelter of the personal Truth) **bhajet**, **sa** **tu** **sattamaḥ** (the best of *sādhus*).
+
+## 63
+
+Śrī Bhagavān's confidential instruction to Arjuna:
+
+**sarva-dharmān** (the *dharmas* of the *varṇas* within the universe, brāhmaṇa, kṣatriya, vaiśya, śūdra and so on, and the *dharmas* of the *āśramas* within the universe, *brahmacārī*, *gṛhastha*, *vānaprastha*, the fourth *āśrama* and so on) **parityajya** (casting far away) **ekam** (beyond them, nondual Knowledge, with an unwavering mind) **mām** (Bhagavān Kṛṣṇa, the personal Truth) **śaraṇaṁ** **vraja** (go); **ahaṁ** **tvāṁ** **sarva-pāpebhyaḥ** (from the *adharma* within the universe that arises from abandoning the material, regular Vedic rites) **mokṣayiṣyāmi** (I shall deliver); **mā** **śucaḥ** (do not grieve over transient *dharmas*).
+
+Śrī Raghunātha dāsa Gosvāmī Prabhu says in his own *Manaḥ-śikṣā*: “Do not perform either the *dharma* or the *adharma* that the *śrutis* describe; here in Vraja render abundant service to Rādhā and Kṛṣṇa…”[^63-1] “When Bhagavān, on whom one meditates within, shows someone His mercy, that person gives up a mind fixed on worldly and Vedic ways.” (*Śrīmad-Bhāgavatam* 4.29.46) In this connection see *Bhāg.* 1.5.17.
+
+---
+
+[^63-1]: *Manaḥ-śikṣā* 2.
