@@ -242,14 +242,14 @@ saṅkīrtana, kīrtana, prahara, sannyāsa, sannyāsī, brāhmaṇa) и выв�
 | 218 | без изменений | — | — |
 | 219 | сквозной (сноска) | — | = Ади 7.171 / Мадхья 1.287: RU и EN совпадают дословно. |
 
-**EN (смена 2):** основа этапа А выверена во всех 109 стихах; текст изменён в **38** (смысл параллельно RU — 115
-каузатив, 124, 145 и др. в основе этапа А уже были верны; правки EN — 115 *Having others sing* → *The Ācārya had this
-song sung*, 124 *What has not befallen Me?* → *What has become of Me!*, 162 *performed kīrtana* → *sang kīrtana*,
-164 *she thought* (против 163 *spoke*) → прямая речь, 210 инверсия *these four the Ācārya sent* → прямой порядок,
-157–158 фрагмент через тире → две полные фразы, 217 — по Ади 15.7; остальное — слог: повторы *the Ācārya… the
-Ācārya* 112, 200, *Śacī… Śacī* 140, *love’s… love’s* 119, *in delight… in joy* 132, *while… while* 212, однообразные
-зачины *Hearing this* 169, 186–187, *Weeping* 145, висячее причастие 152, *so long* 176, *all of you… all of you*
-189, 206–207), сноски — в **24** стихах.
+**EN (смена 2):** основа этапа А выверена во всех 109 стихах; текст изменён в **38**. Смысловые места RU (114, 119,
+128, 145, 147, 151, 156, 165, 183, 215, 216) в основе этапа А уже были переведены верно; правки EN — 115 *Having
+others sing* → *The Ācārya had this song sung* (кто поёт — неясно), 124 *What has not befallen Me?* → *What has become
+of Me!*, 162 *performed kīrtana* → *sang kīrtana*, 164 *she thought* (против 163 *spoke*) → прямая речь, 210 инверсия
+*these four the Ācārya sent* → прямой порядок, 157–158 фрагмент через тире → две полные фразы, 217 — по Ади 15.7;
+остальное — слог: повторы *the Ācārya… the Ācārya* (112, 200), *Śacī… Śacī* (140), *love’s… love’s* (119), *in
+delight… in joy* (132), *while… while* (212), однообразные зачины *Hearing this* (169, 186–187), *Weeping* (145),
+висячее причастие (152), *so long* (176), *all of you… all of you* (189, 206–207). Сноски — в **24** стихах.
 
 ## Итог смены 2 (стихи 111–219)
 
