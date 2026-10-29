@@ -812,25 +812,31 @@ the Ācārya  says  the opinion of the wise  of the Lord  on the signs
 আচার্য্য কহে, — অনুমানে নহে ঈশ্বরজ্ঞানে ॥ ৮১ ॥
 
 śiṣya kahe, — īśvara-tattva sādhi anumāne  
-ācārya kahe, — anumāne nahe īśvarajñāne
+a disciple  says  of the Lord  the truth  we establish  by inference  
+ācārya kahe, — anumāne nahe īśvarajñāne  
+the Ācārya  says  by inference  is not  knowledge of the Lord
 
-(81) [not yet translated]
+(81) A disciple said, “We establish the truth of the Lord by inference.” The Ācārya replied, “The Lord is not known by inference.
 
 অনুমান প্রমাণ নহে ঈশ্বরতত্ত্ব জ্ঞানে ৷  
 কৃপা বিনা ঈশ্বরেরে কেহ নাহি জানে ॥ ৮২ ॥
 
 anumāna pramāṇa nahe īśvara-tattva jñāne  
-kṛpā vinā īśvarere keha nāhi jāne
+inference  proof  is not  of the Lord  of the truth  in knowing  
+kṛpā vinā īśvarere keha nāhi jāne  
+mercy  without  the Lord  anyone  not  knows
 
-(82) [not yet translated]
+(82) Inference is no proof in knowing the truth of the Lord. Without His mercy no one can know the Lord.
 
 ঈশ্বরের কৃপা-লেশ হয় ত’ যাহারে ৷  
 সেই ত’ ঈশ্বর-তত্ত্ব জানিবারে পারে ॥ ৮৩ ॥
 
 īśvarera kṛpā-leśa haya ta’ yāhāre  
-sei ta’ īśvara-tattva jānibāre pāre
+of the Lord  of mercy  a particle  there is  indeed  on whom  
+sei ta’ īśvara-tattva jānibāre pāre  
+he  indeed  of the Lord  the truth  to know  is able
 
-(83) [not yet translated]
+(83) Only one who has received even a particle of the Lord’s mercy can know the truth of the Lord.
 
 অথাপি তে দেব পদাম্বুজদ্বয়-  
 প্রসাদ-লেশানুগৃহীত এব হি ৷  
@@ -838,11 +844,15 @@ sei ta’ īśvara-tattva jānibāre pāre
 ন চান্য একোঽপি চিরং বিচিন্বন্ ॥ ৮৪ ॥
 
 athāpi te deva padāmbuja-dvaya-  
+yet  Your  O Lord  of lotus feet  of the pair  
 prasāda-leśānugṛhīta eva hi  
+of the grace  by a trace  favoured  only  indeed  
 jānāti tattvaṁ bhagavan-mahimno  
-na cānya eko ’pi ciraṁ vicinvan
+knows  the truth  of Bhagavān’s  greatness  
+na cānya eko ’pi ciraṁ vicinvan  
+not  and  another  one  even  long  speculating
 
-(84) [not yet translated]
+(84) “O Lord, only one who has been favoured with even a trace of the grace of Your two lotus feet can know the truth of Your greatness, O Bhagavān. No one else can know it, though he search for a long time.” (Śrīmad-Bhāgavatam, 10.14.29)
 
 যদ্যপি জগদ্গুরু তুমি — শাস্ত্র-জ্ঞানবান্ ৷  
 পৃথিবীতে নাহি পণ্ডিত তোমার সমান ॥ ৮৫ ॥
@@ -851,187 +861,241 @@ na cānya eko ’pi ciraṁ vicinvan
 অতএব ঈশ্বরতত্ত্ব না পার জানিতে ॥ ৮৬ ॥
 
 yadyapi jagad-guru tumi — śāstra-jñānavān  
+although  the teacher of the world  you  of scripture  possessing knowledge  
 pṛthivīte nāhi paṇḍita tomāra samāna  
+on earth  there is not  a scholar  you  equal to  
 īśvarera kṛpā-leśa nāhika tomāte  
-ataeva īśvara-tattva nā pāra jānite
+of the Lord  of mercy  a particle  there is not  on you  
+ataeva īśvara-tattva nā pāra jānite  
+therefore  of the Lord  the truth  not  you are able  to know
 
-(85–86) [not yet translated]
+(85–86) Although you are the teacher of the world, learned in the scriptures, and there is no scholar on earth equal to you, not a particle of the Lord’s mercy has come to you. That is why you cannot know the truth of the Lord.
 
 তোমার নাহিক দোষ, শাস্ত্রে এই কহে ৷  
 পাণ্ডিত্যাদ্যে ঈশ্বরতত্ত্ব-জ্ঞান কভু নহে ॥ ৮৭ ॥
 
 tomāra nāhika doṣa, śāstre ei kahe  
-pāṇḍityādye īśvara-tattva-jñāna kabhu nahe
+your  there is not  fault  in scripture  this  it says  
+pāṇḍityādye īśvara-tattva-jñāna kabhu nahe  
+by scholarship and the like  of the Lord  of the truth  knowledge  ever  is not
 
-(87) [not yet translated]
+(87) It is not your fault. The scriptures say this: the truth of the Lord can never be known by scholarship and the like.”
 
 সার্ব্বভৌম কহে, — আচার্য্য, কহ সাবধানে ৷  
 তোমাতে ঈশ্বর-কৃপা ইথে কি প্রমাণে ॥ ৮৮ ॥
 
 sārvabhauma kahe, — ācārya, kaha sāvadhāne  
-tomāte īśvara-kṛpā ithe ki pramāṇe
+Sārvabhauma  says  Ācārya  speak  carefully  
+tomāte īśvara-kṛpā ithe ki pramāṇe  
+on you  the Lord’s mercy  for this  what  proof
 
-(88) [not yet translated]
+(88) Sārvabhauma said, “Ācārya, speak with care. What proof is there that the Lord’s mercy is upon you?”
 
 আচার্য্য কহে, — বস্তুবিষয়ে হয় বস্তু-জ্ঞান ৷  
 বস্তুতত্ত্ব-জ্ঞান হয় কৃপাতে, — প্রমাণ ॥ ৮৯ ॥
 
 ācārya kahe, — vastu-viṣaye haya vastu-jñāna  
-vastu-tattva-jñāna haya kṛpāte, — pramāṇa
+the Ācārya  says  in regard to the Reality  there is  knowledge of the Reality  
+vastu-tattva-jñāna haya kṛpāte, — pramāṇa  
+of the Reality  knowledge of the truth  comes  by mercy  the proof
 
-(89) [not yet translated]
+(89) The Ācārya said, “Knowledge of the Reality concerns the Reality Itself, and the truth of the Reality is known only by Its mercy—that is the proof.
 
 ইঁহার শরীরে সব ঈশ্বর-লক্ষণ ৷  
 মহা-প্রেমাবেশ তুমি পাঞাছ দর্শন ॥ ৯০ ॥
 
 iṅhāra śarīre saba īśvara-lakṣaṇa  
-mahā-premāveśa tumi pāñācha darśana
+His  in the body  all  of the Lord  the signs  
+mahā-premāveśa tumi pāñācha darśana  
+great  absorption in love  you  have got  sight
 
-(90) [not yet translated]
+(90) All the signs of the Lord are present in His body, and you yourself have seen His great absorption in love.
 
 তবু ত’ ঈশ্বর-জ্ঞান না হয় তোমার ৷  
 ঈশ্বরের মায়া, — এই বলি ব্যবহার ॥ ৯১ ॥
 
 tabu ta’ īśvara-jñāna nā haya tomāra  
-īśvarera māyā, — ei bali vyavahāra
+still  indeed  knowledge of the Lord  not  is  yours  
+īśvarera māyā, — ei bali vyavahāra  
+of the Lord  māyā  this  saying  usage
 
-(91) [not yet translated]
+(91) Even so, you do not know Him as the Lord. This is what is called the Lord’s māyā.
 
 দেখিলে না দেখে তাঁরে বহির্ম্মুখ জন ৷  
 শুনি’ হাসি’ সার্ব্বভৌম বলিল বচন ॥ ৯২ ॥
 
 dekhile nā dekhe tāṅre bahirmukha jana  
-śuni’ hāsi’ sārvabhauma balila vacana
+seeing  not  sees  Him  the averse  person  
+śuni’ hāsi’ sārvabhauma balila vacana  
+hearing  smiling  Sārvabhauma  spoke  words
 
-(92) [not yet translated]
+(92) A person turned away from God sees Him and yet does not see Him.” Hearing this, Sārvabhauma smiled and said:
 
 ইষ্টগোষ্ঠী বিচার করি, না করিহ রোষ ৷  
 শাস্ত্রদৃষ্ট্যে কহি, কিছু না লইহ দোষ ॥ ৯৩ ॥
 
 iṣṭa-goṣṭhī vicāra kari, nā kariha roṣa  
-śāstra-dṛṣṭye kahi, kichu nā laiha doṣa
+friendly  discussion  consideration  we make  not  do  anger  
+śāstra-dṛṣṭye kahi, kichu nā laiha doṣa  
+by the vision of scripture  I speak  at all  not  take  offence
 
-(93) [not yet translated]
+(93) “We are only having a friendly discussion; do not be angry. I speak from the standpoint of scripture, so take no offence.
 
 মহা-ভাগবত হয় চৈতন্য-গোসাঞি ৷  
 এই কলিকালে বিষ্ণুর অবতার নাই ॥ ৯৪ ॥
 
 mahā-bhāgavata haya caitanya-gosāñi  
-ei kali-kāle viṣṇura avatāra nāi
+a great  devotee  is  Caitanya Gosāñi  
+ei kali-kāle viṣṇura avatāra nāi  
+in this  age of Kali  Viṣṇu’s  avatāra  there is not
 
-(94) [not yet translated]
+(94) Caitanya Gosāñi is a great devotee, but in this age of Kali there is no avatāra of Viṣṇu.
 
 অতএব ‘ত্রিযুগ’ করি’ কহি বিষ্ণুনাম ৷  
 কলিযুগে অবতার নাহি, — শাস্ত্রজ্ঞান ॥ ৯৫ ॥
 
 ataeva ‘tri-yuga’ kari’ kahi viṣṇunāma  
-kali-yuge avatāra nāhi, — śāstra-jñāna
+therefore  Triyuga  making  they call  Viṣṇu’s name  
+kali-yuge avatāra nāhi, — śāstra-jñāna  
+in the Kali-yuga  avatāra  there is not  the knowledge of scripture
 
-(95) [not yet translated]
+(95) That is why Viṣṇu is called Triyuga, ‘He who appears in three ages’. The scriptures teach that there is no avatāra in the Kali-yuga.”
 
 শুনিয়া আচার্য্য কহে দুঃখী হঞা মনে ৷  
 শাস্ত্রজ্ঞ হঞা তুমি কর অভিমানে ॥ ৯৬ ॥
 
 śuniyā ācārya kahe duḥkhī hañā mane  
-śāstra-jña hañā tumi kara abhimāne
+hearing  the Ācārya  says  sorrowful  being  in mind  
+śāstra-jña hañā tumi kara abhimāne  
+learned in scripture  being  you  make  pride
 
-(96) [not yet translated]
+(96) Hearing this, the Ācārya grew sad at heart and said, “You are learned in the scriptures, and you are proud of it.
 
 ভাগবত-ভারত দুই — শাস্ত্রের প্রধান ৷  
 সেই দুইগ্রন্থ-বাক্যে নাহি অবধান ॥ ৯৭ ॥
 
 bhāgavata-bhārata dui — śāstrera pradhāna  
-sei dui-grantha-vākye nāhi avadhāna
+the Bhāgavata  the Bhārata  the two  of the scriptures  the foremost  
+sei dui-grantha-vākye nāhi avadhāna  
+of those  two books  to the words  there is not  attention
 
-(97) [not yet translated]
+(97) The *Bhāgavata* and the *Mahābhārata* are the foremost of all scriptures, yet you pay no attention to the words of these two books.
 
 সেই দুই কহে কলিতে সাক্ষাৎ-অবতার ৷  
 তুমি কহ, — কলিতে নাহি বিষ্ণুর প্রচার ॥ ৯৮ ॥
 
 sei dui kahe kalite sākṣāt-avatāra  
-tumi kaha, — kalite nāhi viṣṇura pracāra
+those  two  say  in Kali  a direct avatāra  
+tumi kaha, — kalite nāhi viṣṇura pracāra  
+you  say  in Kali  there is not  of Viṣṇu  appearance
 
-(98) [not yet translated]
+(98) Both of them speak of a direct avatāra in the age of Kali, and yet you say that Viṣṇu does not appear in Kali.
 
 কলিকালে লীলাবতার না করে ভগবান্ ৷  
 অতএব ‘ত্রিযুগ’ করি’ কহি তার নাম ॥ ৯৯ ॥
 
 kali-kāle līlāvatāra nā kare bhagavān  
-ataeva ‘tri-yuga’ kari’ kahi tāra nāma
+in the age of Kali  a līlā-avatāra  not  makes  Bhagavān  
+ataeva ‘tri-yuga’ kari’ kahi tāra nāma  
+therefore  Triyuga  making  they call  His  name
 
-(99) [not yet translated]
+(99) It is because in the age of Kali Bhagavān does not appear as a *līlā-avatāra* that He is called Triyuga.
 
 প্রতিযুগে করেন কৃষ্ণ যুগ-অবতার ৷  
 তর্কনিষ্ঠ হৃদয় তোমার নাহিক বিচার ॥ ১০০ ॥
 
 pratiyuge karena kṛṣṇa yuga-avatāra  
-tarka-niṣṭha hṛdaya tomāra nāhika vicāra
+in every age  makes  Kṛṣṇa  a yuga-avatāra  
+tarka-niṣṭha hṛdaya tomāra nāhika vicāra  
+devoted to logic  heart  your  there is not  discernment
 
-(100) [not yet translated]
+(100) But in every age Kṛṣṇa appears as the *yuga-avatāra*. Your heart is given over to logic, and so you have no discernment.
 
 আসন্ বর্ণাস্ত্রয়ো হ্যস্য গৃহ্ণতোঽনুযুগং তনূঃ ৷  
 শুক্লো রক্তস্তথা পীত ইদানীং কৃষ্ণতাং গতঃ ॥ ১০১ ॥
 
 āsan varṇās trayo hy asya  
+there were  colours  three  indeed  of Him  
 gṛhṇato ’nu-yugaṁ tanūḥ  
+accepting  in each age  bodies  
 śuklo raktas tathā pīta  
-idānīṁ kṛṣṇatāṁ gataḥ
+white  red  likewise  yellow  
+idānīṁ kṛṣṇatāṁ gataḥ  
+now  blackness  has attained
 
-(101) [not yet translated]
+(101) “Your son, who accepts a body in every age, has appeared in three colours — white, red and yellow; now He has become dark (*kṛṣṇa*).” (Śrīmad-Bhāgavatam, 10.8.13)
 
 ইতি দ্বাপর উর্ব্বীশ স্তুবন্তি জগদীশ্বরম্ ৷  
 নানাতন্ত্রবিধানেন কলাবপি তথা শৃণু ॥ ১০২ ॥
 
 iti dvāpara urv-īśa  
+thus  in Dvāpara  O lord of the earth  
 stuvanti jagad-īśvaram  
+they praise  the Lord of the universe  
 nānā-tantra-vidhānena  
-kalāv api tathā śṛṇu
+of various  tantras  by the rules  
+kalāv api tathā śṛṇu  
+in Kali  also  how  hear
 
-(102) [not yet translated]
+(102) “Thus, O king, do people praise the Lord of the universe in the Dvāpara age. Now hear how they worship Him in the age of Kali as well, by the rules of various scriptures (*tantras*).” (Śrīmad-Bhāgavatam, 11.5.31)
 
 কৃষ্ণবর্ণং ত্বিষাঽকৃষ্ণং সাঙ্গোপাঙ্গাস্ত্রপার্ষদম্ ৷  
 যজ্ঞৈঃ সংকীর্ত্তনপ্রায়ৈর্যজন্তি হি সুমেধসঃ ॥ ১০৩ ॥
 
 kṛṣṇa-varṇaṁ tviṣā ’kṛṣṇaṁ  
+Kṛṣṇa  describing (or: with the syllables ‘Kṛṣ-ṇa’)  by lustre  not dark  
 sāṅgopāṅgāstra-pārṣadam  
+with limbs,  sub-limbs,  weapons  and associates  
 yajñaiḥ saṁkīrtana-prāyair  
-yajanti hi su-medhasaḥ
+by sacrifices  in which saṅkīrtana  predominates  
+yajanti hi su-medhasaḥ  
+they worship  indeed  the intelligent
 
-(103) [not yet translated]
+(103) “With sacrifices in which congregational chanting predominates, the wise worship the Lord who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)
 
 সুবর্ণবর্ণো হেমাঙ্গো বরাঙ্গশ্চন্দনাঙ্গদী ৷  
 সন্ন্যাসকৃচ্ছমঃ শান্তো নিষ্ঠা-শান্তি-পরায়ণঃ ॥ ১০৪ ॥
 
 suvarṇa-varṇo hemāṅgo  
+of golden  colour  with limbs of gold  
 varāṅgaś candanāṅgadī  
+with beautiful limbs  wearing sandal armlets  
 sannyāsa-kṛc chamaḥ śānto  
-niṣṭhā-śānti-parāyaṇaḥ
+sannyāsa  taking  self-restrained  peaceful  
+niṣṭhā-śānti-parāyaṇaḥ  
+to steadfastness and peace  devoted
 
-(104) [not yet translated]
+(104) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 95)
 
 তোমার আগে এত কথার নাহি প্রয়োজন ৷  
 উষর-ভূমিতে যেন বীজের রোপণ ॥ ১০৫ ॥
 
 tomāra āge eta kathāra nāhi prayojana  
-uṣara-bhūmite yena bījera ropaṇa
+you  before  these  words  there is not  need  
+uṣara-bhūmite yena bījera ropaṇa  
+on barren  ground  like  of seeds  the sowing
 
-(105) [not yet translated]
+(105) “But there is no use saying all this to you; it is like sowing seeds on barren ground.
 
 তোমার উপরে তাঁর কৃপা যবে হবে ৷  
 এসব সিদ্ধান্ত তবে তুমিহ কহিবে ॥ ১০৬ ॥
 
 tomāra upare tāṅra kṛpā yabe habe  
-esaba siddhānta tabe tumiha kahibe
+on you  His  mercy  when  will be  
+esaba siddhānta tabe tumiha kahibe  
+these  conclusions  then  you too  will speak
 
-(106) [not yet translated]
+(106) When His mercy comes upon you, then you too will speak these same conclusions.
 
 তোমার যে শিষ্য কহে কুতর্ক, নানা-বাদ ৷  
 ইহার কি দোষ, — এই মায়ার প্রসাদ ॥ ১০৭ ॥
 
 tomāra ye śiṣya kahe kutarka, nānā-vāda  
-ihāra ki doṣa, — ei māyāra prasāda
+your  which  disciples  speak  false arguments  various  doctrines  
+ihāra ki doṣa, — ei māyāra prasāda  
+their  what  fault  this  of māyā  the gift
 
-(107) [not yet translated]
+(107) As for your disciples, who put forward false arguments and all kinds of doctrines—what fault is it of theirs? This is the gift of māyā.
 
 যচ্ছক্তয়ো বদতাং বাদিনাং বৈ,  
 বিবাদ-সংবাদ-ভুবো ভবন্তি ৷  
@@ -1039,29 +1103,39 @@ ihāra ki doṣa, — ei māyāra prasāda
 তস্মৈ নমোঽনন্তগুণায় ভূম্নে ॥ ১০৮ ॥
 
 yac-chaktayo vadatāṁ vādināṁ vai  
+whose potencies  of those who speak  of disputants  indeed  
 vivāda-saṁvāda-bhuvo bhavanti  
+of disagreement  of agreement  the grounds  become  
 kurvanti caiṣāṁ muhur ātma-mohaṁ  
-tasmai namo ’nanta-guṇāya bhūmne
+they make  and  their  repeatedly  about the self  bewilderment  
+tasmai namo ’nanta-guṇāya bhūmne  
+to Him  obeisance  of endless qualities  to the Greatest
 
-(108) [not yet translated]
+(108) “I bow down to the Infinite, the Lord of endless qualities, whose potencies become the ground of both agreement and dispute among those who argue, and bewilder them again and again about the self.” (Śrīmad-Bhāgavatam, 6.4.31)
 
 যুক্তঞ্চ সন্তি সর্ব্বত্র ভাষন্তে ব্রাহ্মণা যথা ৷  
 মায়াং মদীয়ামুদ্গৃহ্য বদতাং কিং নু দুর্ঘটম্ ॥ ১০৯ ॥
 
 yuktaṁ ca santi sarvatra  
+reasonable  and  they are present  everywhere  
 bhāṣante brāhmaṇā yathā  
+speak  the brāhmaṇas  as  
 māyāṁ madīyām udgṛhya  
-vadatāṁ kiṁ nu durghaṭam
+māyā  My  taking up  
+vadatāṁ kiṁ nu durghaṭam  
+of those who speak  what  indeed  is impossible
 
-(109) [not yet translated]
+(109) “What the brāhmaṇas say is reasonable, for the elements are present in one another everywhere. And for those who speak relying on My māyā, what is impossible to assert?” (Śrīmad-Bhāgavatam, 11.22.4)
 
 তবে ভট্টাচার্য্য কহে, যাহ গোসাঞির স্থানে ৷  
 আমার নামে গণ-সহিত কর নিমন্ত্রণে ॥ ১১০ ॥
 
 tabe bhaṭṭācārya kahe, yāha gosāñira sthāne  
-āmāra nāme gaṇa-sahita kara nimantraṇe
+then  the Bhaṭṭācārya  says  go  to Gosāñi’s  place  
+āmāra nāme gaṇa-sahita kara nimantraṇe  
+in my  name  with His companions  make  invitation
 
-(110) [not yet translated]
+(110) Then the Bhaṭṭācārya said, “Go to Gosāñi and invite Him in my name, together with His companions.
 
 প্রসাদ আনি’ তাঁরে করাহ আগে ভিক্ষা ৷  
 পশ্চাৎ আসি’ আমারে করাইহ শিক্ষা ॥ ১১১ ॥
@@ -1681,327 +1755,413 @@ the praṇava  not  accepting  it  he calls  the great statement
 ভট্টাচার্য্য পূর্ব্বপক্ষ অপার করিল ॥ ১৭৬ ॥
 
 ei-mate kalpita bhāṣye śata doṣa dila  
-bhaṭṭācārya pūrva-pakṣa apāra karila
+thus  in the fanciful  commentary  hundreds of  faults  He showed  
+bhaṭṭācārya pūrva-pakṣa apāra karila  
+the Bhaṭṭācārya  objections  without end  made
 
-(176) [not yet translated]
+(176) In this way the Lord pointed out hundreds of faults in that fanciful commentary, and the Bhaṭṭācārya raised countless objections.
 
 বিতণ্ডা, ছল, নিগ্রহাদি অনেক উঠাইল ৷  
 সব খণ্ডি’ প্রভু নিজ-মত সে স্থাপিল ॥ ১৭৭ ॥
 
 vitaṇḍā, chala, nigrahādi aneka uṭhāila  
-saba khaṇḍi’ prabhu nija-mata se sthāpila
+captious wrangling  quibbles  points of defeat and the like  many  he raised  
+saba khaṇḍi’ prabhu nija-mata se sthāpila  
+all  refuting  the Lord  His own view  that  established
 
-(177) [not yet translated]
+(177) He brought up much captious wrangling (*vitaṇḍā*), quibbling (*chala*), points of defeat (*nigraha*) and the like, but the Lord refuted them all and established His own view.
 
 ভগবান্ — ‘সম্বন্ধ’, ভক্তি — ‘অভিধেয়’ হয় ৷  
 প্রেম — ‘প্রয়োজন’, বেদে তিন বস্তু কয় ॥ ১৭৮ ॥
 
 bhagavān — ‘sambandha’, bhakti — ‘abhidheya’ haya  
-prema — ‘prayojana’, vede tina vastu kaya
+Bhagavān  sambandha  bhakti  abhidheya  is  
+prema — ‘prayojana’, vede tina vastu kaya  
+love  prayojana  in the Vedas  three  realities  are stated
 
-(178) [not yet translated]
+(178) “Bhagavān is the relationship (*sambandha*), bhakti is the means (*abhidheya*), and love is the goal (*prayojana*) — these three truths the Vedas declare.
 
 আর যে যে-কিছু কহে, সকলেই কল্পনা ৷  
 স্বতঃপ্রমাণ বেদ-বাক্যে না করিয়ে লক্ষণা ॥ ১৭৯ ॥
 
 āra ye ye-kichu kahe, sakalei kalpanā  
-svataḥ-pramāṇa veda-vākye nā kariye lakṣaṇā
+else  whatever  anything  is said  all of it  fancy  
+svataḥ-pramāṇa veda-vākye nā kariye lakṣaṇā  
+self-evident  in the words of the Veda  not  I apply  a secondary meaning
 
-(179) [not yet translated]
+(179) Whatever else anyone says is all fancy. In the self-evident words of the Veda I do not resort to a secondary meaning.
 
 আচার্য্যের দোষ নাহি, ঈশ্বর-আজ্ঞা হৈল ৷  
 অতএব কল্পনা করি’ নাস্তিক-শাস্ত্র কৈল ॥ ১৮০ ॥
 
 ācāryera doṣa nāhi, īśvara-ājñā haila  
-ataeva kalpanā kari’ nāstika-śāstra kaila
+of the Ācārya  fault  there is not  the Lord’s order  there was  
+ataeva kalpanā kari’ nāstika-śāstra kaila  
+therefore  fancy  making  an atheistic scripture  he made
 
-(180) [not yet translated]
+(180) The Ācārya (Śaṅkara) is not at fault: it was the Lord’s order. That is why he invented an atheistic scripture.”
 
 স্বাগমৈঃ কল্পিতৈস্ত্বঞ্চ জনান্ মদ্বিমুখান্ কুরু ৷  
 মাঞ্চ গোপয় যেন স্যাৎ সৃষ্টিরেষোত্তরোত্তরা ॥ ১৮১ ॥
 
 svāgamaiḥ kalpitais tvaṁ ca  
+by your own scriptures  imagined  you  and  
 janān mad-vimukhān kuru  
+people  averse to Me  make  
 māṁ ca gopaya yena syāt  
-sṛṣṭir eṣottarottarā
+Me  and  hide  so that  may be  
+sṛṣṭir eṣottarottarā  
+creation  this  ever increasing
 
-(181) [not yet translated]
+(181) “By scriptures of your own imagining, turn people away from Me, and hide Me, so that this creation may go on increasing more and more.” (Padma Purāṇa, Uttara-khaṇḍa 62.31)
 
 মায়াবাদমসচ্ছাস্ত্রং প্রচ্ছন্নং বৌদ্ধমুচ্যতে ৷  
 ময়ৈব বিহিতং দেবি কলৌ ব্রাহ্মণ-মূর্ত্তিনা ॥ ১৮২ ॥
 
 māyāvādam asac-chāstraṁ  
+Māyāvāda  a false scripture  
 pracchannaṁ bauddham ucyate  
+disguised  Buddhism  is called  
 mayaiva vihitaṁ devi  
-kalau brāhmaṇa-mūrtinā
+by me  indeed  set forth  O Devī  
+kalau brāhmaṇa-mūrtinā  
+in Kali  in the form of a brāhmaṇa
 
-(182) [not yet translated]
+(182) “Māyāvāda is a false scripture; it is called Buddhism in disguise. It was I, O Devī, who set it forth in the age of Kali in the form of a brāhmaṇa.” (Padma Purāṇa, Uttara-khaṇḍa 25.7)
 
 শুনি’ ভট্টাচার্য্য হৈল পরম বিস্মিত ৷  
 মুখে না নিঃসরে বাণী, হইলা স্তম্ভিত ॥ ১৮৩ ॥
 
 śuni’ bhaṭṭācārya haila parama vismita  
-mukhe nā niḥsare vāṇī, hailā stambhita
+hearing  the Bhaṭṭācārya  became  utterly  astonished  
+mukhe nā niḥsare vāṇī, hailā stambhita  
+from his mouth  not  comes out  a word  he became  stunned
 
-(183) [not yet translated]
+(183) Hearing this, the Bhaṭṭācārya was utterly astonished. Not a word left his lips; he sat stunned.
 
 প্রভু কহে, — ভট্টাচার্য্য, না কর বিস্ময় ৷  
 ভগবানে ভক্তি — পরম-পুরুষার্থ হয় ॥ ১৮৪ ॥
 
 prabhu kahe, — bhaṭṭācārya, nā kara vismaya  
-bhagavāne bhakti — parama-puruṣārtha haya
+the Lord  says  Bhaṭṭācārya  do not  make  wonder  
+bhagavāne bhakti — parama-puruṣārtha haya  
+to Bhagavān  devotion  the highest goal of life  is
 
-(184) [not yet translated]
+(184) The Lord said, “Do not be amazed, Bhaṭṭācārya. Devotion to Bhagavān is the highest goal of human life.
 
 ‘আত্মারাম’ পর্য্যন্ত করে ঈশ্বর ভজন ৷  
 ঐছে অচিন্ত্য ভগবানের গুণগণ ॥ ১৮৫ ॥
 
 ‘ātmārāma’ paryanta kare īśvara bhajana  
-aiche acintya bhagavānera guṇa-gaṇa
+the ātmārāmas  even  do  of the Lord  worship  
+aiche acintya bhagavānera guṇa-gaṇa  
+such  inconceivable  Bhagavān’s  qualities
 
-(185) [not yet translated]
+(185) Even those who delight in the self (*ātmārāma*) worship the Lord — so inconceivable are the qualities of Bhagavān.”
 
 আত্মারামাশ্চ মুনয়ো নির্গ্রন্থা অপ্যুরুক্রমে ৷  
 কুর্ব্বন্ত্যহৈতুকীং ভক্তিমিত্থম্ভূতগুণো হরিঃ ॥ ১৮৬ ॥
 
 ātmārāmāś ca munayo  
+delighting in the self  and  the sages  
 nirgranthā apy urukrame  
+free from all knots  even  to Urukrama  
 kurvanty ahaitukīṁ bhaktim  
-ittham-bhūta-guṇo hariḥ
+perform  causeless  devotion  
+ittham-bhūta-guṇo hariḥ  
+of such  qualities  is Hari
 
-(186) [not yet translated]
+(186) “Even sages who delight in the self and are free from all knots render causeless devotion to Urukrama, for such are the qualities of Hari.” (Śrīmad-Bhāgavatam 1.7.10)
 
 শুনি’ ভট্টাচার্য্য কহে, — শুন, মহাশয় ৷  
 এই শ্লোকের অর্থ শুনিতে বাঞ্ছা হয় ॥ ১৮৭ ॥
 
 śuni’ bhaṭṭācārya kahe, — śuna, mahāśaya  
-ei ślokera artha śunite vāñchā haya
+hearing  the Bhaṭṭācārya  says  listen  sir  
+ei ślokera artha śunite vāñchā haya  
+of this  verse  the meaning  to hear  desire  there is
 
-(187) [not yet translated]
+(187) Hearing this, the Bhaṭṭācārya said, “Listen, my dear sir (*mahāśaya*): I wish to hear the meaning of this verse.”
 
 প্রভু কহে, — তুমি কি অর্থ কর, তাহা আগে শুনি ৷  
 পাছে আমি করিব অর্থ, যেবা কিছু জানি ॥ ১৮৮ ॥
 
 prabhu kahe, — tumi ki artha kara, tāhā āge śuni  
-pāche āmi kariba artha, yebā kichu jāni
+the Lord  says  you  what  meaning  make  that  first  I will hear  
+pāche āmi kariba artha, yebā kichu jāni  
+afterwards  I  will make  meaning  whatever  little  I know
 
-(188) [not yet translated]
+(188) The Lord said, “First let Me hear what meaning you give it. Afterwards I shall explain it, as far as I know.”
 
 শুনি’ ভট্টাচার্য্য শ্লোক করিল ব্যাখ্যান ৷  
 তর্কশাস্ত্র-মত উঠায় বিবিধ বিধান ॥ ১৮৯ ॥
 
 śuni’ bhaṭṭācārya śloka karila vyākhyāna  
-tarka-śāstra-mata uṭhāya vividha vidhāna
+hearing  the Bhaṭṭācārya  of the verse  made  an explanation  
+tarka-śāstra-mata uṭhāya vividha vidhāna  
+according to logic  raises  various  propositions
 
-(189) [not yet translated]
+(189) Hearing this, the Bhaṭṭācārya explained the verse, raising various propositions in the manner of the science of logic.
 
 নববিধ অর্থ কৈল শাস্ত্রমত লঞা ৷  
 শুনি’ প্রভু কহে কিছু ঈষৎ হাসিয়া ॥ ১৯০ ॥
 
 nava-vidha artha kaila śāstra-mata lañā  
-śuni’ prabhu kahe kichu īṣat hāsiyā
+of nine kinds  meanings  he gave  scriptural views  taking  
+śuni’ prabhu kahe kichu īṣat hāsiyā  
+hearing  the Lord  says  something  slightly  smiling
 
-(190) [not yet translated]
+(190) He gave nine different meanings on the authority of scripture. Hearing them, the Lord smiled slightly and said:
 
 ‘ভট্টাচার্য্য’, জানি, — তুমি সাক্ষাৎ বৃহস্পতি ৷  
 শাস্ত্রব্যাখ্যা করিতে ঐছে কারো নাহি শক্তি ॥ ১৯১ ॥
 
 ‘bhaṭṭācārya’, jāni, — tumi sākṣāt bṛhaspati  
-śāstra-vyākhyā karite aiche kāro nāhi śakti
+Bhaṭṭācārya  I know  you  the very  Bṛhaspati  
+śāstra-vyākhyā karite aiche kāro nāhi śakti  
+of scripture  explanation  to make  like this  no one’s  there is not  power
 
-(191) [not yet translated]
+(191) “Bhaṭṭācārya, I know that you are Bṛhaspati himself. No one else has the power to explain scripture like this.
 
 কিন্তু তুমি অর্থ কৈলে পাণ্ডিত্য-প্রতিভায় ৷  
 ইহা বই শ্লোকের আছে আরো অভিপ্রায় ॥ ১৯২ ॥
 
 kintu tumi artha kaile pāṇḍitya-pratibhāya  
-ihā vai ślokera āche āro abhiprāya
+but  you  meaning  made  by the brilliance of scholarship  
+ihā vai ślokera āche āro abhiprāya  
+this  besides  of the verse  there is  further  intent
 
-(192) [not yet translated]
+(192) But you have explained it by the brilliance of your scholarship; beyond this, the verse has another intent.”
 
 ভট্টাচার্য্যের প্রার্থনাতে প্রভু ব্যাখ্যা কৈল ৷  
 তাঁর নব অর্থ মধ্যে এক না ছুঁইল ॥ ১৯৩ ॥
 
 bhaṭṭācāryera prārthanāte prabhu vyākhyā kaila  
-tāṅra nava artha madhye eka nā chuṅila
+the Bhaṭṭācārya’s  at the request  the Lord  explanation  made  
+tāṅra nava artha madhye eka nā chuṅila  
+his  nine  meanings  among  one  not  He touched
 
-(193) [not yet translated]
+(193) At the Bhaṭṭācārya’s request the Lord explained the verse, without touching even one of his nine meanings.
 
 আত্মারামাশ্চ-শ্লোকে ‘একাদশ’ পদ হয় ৷  
 পৃথক্ পৃথক্ কৈল পদের অর্থ নিশ্চয় ॥ ১৯৪ ॥
 
 ātmārāmāś ca-śloke ‘ekādaśa’ pada haya  
-pṛthak pṛthak kaila padera artha niścaya
+in the “ātmārāmāś ca” verse  eleven  words  there are  
+pṛthak pṛthak kaila padera artha niścaya  
+separately  separately  He made  of the words  the meaning  certain
 
-(194) [not yet translated]
+(194) The verse “ātmārāmāś ca” has eleven words, and He established the meaning of each word separately.
 
 তত্তৎপদ-প্রাধান্যে ‘আত্মারাম’ মিলাঞা ৷  
 অষ্টাদশ অর্থ কৈল অভিপ্রায় লঞা ॥ ১৯৫ ॥
 
 tat-tat-pada-prādhānye ‘ātmārāma’ milāñā  
-aṣṭādaśa artha kaila abhiprāya lañā
+to each word  giving prominence  with “ātmārāma”  combining  
+aṣṭādaśa artha kaila abhiprāya lañā  
+eighteen  meanings  He made  the intent  taking
 
-(195) [not yet translated]
+(195) Giving prominence to each word in turn and combining it with “ātmārāma”, He brought out eighteen meanings according to the verse’s intent.
 
 ভগবান্, তাঁর শক্তি, তাঁর গুণগণ ৷  
 অচিন্ত্য প্রভাব তিনের না যায় কথন ॥ ১৯৬ ॥
 
 bhagavān, tāṅra śakti, tāṅra guṇa-gaṇa  
-acintya prabhāva tinera nā yāya kathana
+Bhagavān  His  potency  His  qualities  
+acintya prabhāva tinera nā yāya kathana  
+inconceivable  power  of the three  not  can be  described
 
-(196) [not yet translated]
+(196) “Bhagavān, His potency and His qualities — the inconceivable power of these three cannot be described.
 
 অন্য যত সাধ্য-সাধন করি’ আচ্ছাদন ৷  
 এই তিনে হরে সিদ্ধ-সাধকের মন ॥ ১৯৭ ॥
 
 anya yata sādhya-sādhana kari’ ācchādana  
-ei tine hare siddha-sādhakera mana
+other  all  goals and means  making  eclipse  
+ei tine hare siddha-sādhakera mana  
+these  three  steal  of the perfected and the practitioners  the minds
 
-(197) [not yet translated]
+(197) Eclipsing every other goal and means, these three steal the hearts of the perfected and of those who still practise.”
 
 সনকাদি-শুকদেব তাহাতে প্রমাণ ৷  
 এইমত নানা অর্থ করেন ব্যাখ্যান ॥ ১৯৮ ॥
 
 sanakādi-śukadeva tāhāte pramāṇa  
-ei-mata nānā artha karena vyākhyāna
+Sanaka and the others, Śukadeva  of this  the proof  
+ei-mata nānā artha karena vyākhyāna  
+in this way  various  meanings  He makes  explanation
 
-(198) [not yet translated]
+(198) Sanaka and the other Kumāras, and Śukadeva, are proof of this. In this way the Lord explained many meanings.
 
 শুনি’ ভট্টাচার্য্যের মনে হৈল চমৎকার ৷  
 প্রভুকে কৃষ্ণ জানি’ করে আপনা ধিক্কার ॥ ১৯৯ ॥
 
 śuni’ bhaṭṭācāryera mane haila camatkāra  
-prabhuke kṛṣṇa jāni’ kare āpanā dhikkāra
+hearing  the Bhaṭṭācārya’s  in the mind  there was  wonder  
+prabhuke kṛṣṇa jāni’ kare āpanā dhikkāra  
+the Lord  as Kṛṣṇa  knowing  he does  himself  reproach
 
-(199) [not yet translated]
+(199) Hearing this, the Bhaṭṭācārya was struck with wonder. Knowing the Lord to be Kṛṣṇa, he began to reproach himself:
 
 ইঁহো ত’ সাক্ষাৎ কৃষ্ণ, — মুঞি না জানিয়া ৷  
 মহা-অপরাধ কৈনু গর্ব্বিত হইয়া ॥ ২০০ ॥
 
 iṅho ta’ sākṣāt kṛṣṇa, — muñi nā jāniyā  
-mahā-aparādha kainu garvita haiyā
+He  indeed  directly  Kṛṣṇa  I  not  knowing  
+mahā-aparādha kainu garvita haiyā  
+a great offence  I committed  proud  being
 
-(200) [not yet translated]
+(200) “He is Kṛṣṇa Himself, and I, not knowing it, have committed a great offence in my pride.”
 
 আত্মনিন্দা করি’ লৈল প্রভুর শরণ ৷  
 কৃপা করিবারে তবে প্রভুর হৈল মন ॥ ২০১ ॥
 
 ātma-nindā kari’ laila prabhura śaraṇa  
-kṛpā karibāre tabe prabhura haila mana
+self-reproach  making  he took  of the Lord  shelter  
+kṛpā karibāre tabe prabhura haila mana  
+mercy  to show  then  of the Lord  arose  the mind
 
-(201) [not yet translated]
+(201) Reproaching himself, he took shelter of the Lord, and the Lord then resolved to show him mercy.
 
 নিজ-রূপ প্রভু তাঁরে করাইল দর্শন ৷  
 চতুর্ভুজ-রূপ প্রভু হইলা তখন ॥ ২০২ ॥
 
 nija-rūpa prabhu tāṅre karāila darśana  
-catur-bhuja-rūpa prabhu hailā takhana
+His own form  the Lord  to him  caused  to see  
+catur-bhuja-rūpa prabhu hailā takhana  
+four-armed in form  the Lord  became  then
 
-(202) [not yet translated]
+(202) The Lord showed him His own form: He became four-armed.
 
 দেখাইল তাঁরে আগে চতুর্ভুজ-রূপ ৷  
 পাছে শ্যাম-বংশীমুখ স্বকীয় স্বরূপ ॥ ২০৩ ॥
 
 dekhāila tāṅre āge catur-bhuja-rūpa  
-pāche śyāma-vaṁśī-mukha svakīya svarūpa
+He showed  to him  first  the four-armed form  
+pāche śyāma-vaṁśī-mukha svakīya svarūpa  
+then  dark  with the flute at the lips  His very own  form
 
-(203) [not yet translated]
+(203) First He showed him the four-armed form, and then His very own form — dark, with the flute at His lips.
 
 দেখি’ সার্ব্বভৌম দণ্ডবৎ করি’ পড়ি’ ৷  
 পুনঃ উঠি’ স্তুতি করে দুই কর যুড়ি’ ॥ ২০৪ ॥
 
 dekhi’ sārvabhauma daṇḍavat kari’ paḍi’  
-punaḥ uṭhi’ stuti kare dui kara yuḍi’
+seeing  Sārvabhauma  obeisance  making  falling down  
+punaḥ uṭhi’ stuti kare dui kara yuḍi’  
+again  rising  prayers  he offers  two  hands  joining
 
-(204) [not yet translated]
+(204) Seeing this, Sārvabhauma fell down flat in obeisance; then he rose and, with folded hands, offered prayers.
 
 প্রভুর কৃপায় তাঁর স্ফুরিল সব তত্ত্ব ৷  
 নাম-প্রেমদান-আদি বর্ণেন মহত্ত্ব ॥ ২০৫ ॥
 
 prabhura kṛpāya tāṅra sphurila saba tattva  
-nāma-prema-dāna-ādi varṇena mahattva
+by the Lord’s  mercy  to him  were revealed  all  truths  
+nāma-prema-dāna-ādi varṇena mahattva  
+of the holy name  of love  the giving  and so on  he describes  the greatness
 
-(205) [not yet translated]
+(205) By the Lord’s mercy all truths were revealed to him, and he described the greatness of the holy name, of the gift of love and the rest.
 
 শত শ্লোক কৈল এক দণ্ড না যাইতে ৷  
 বৃহস্পতি তৈছে শ্লোক না পারে করিতে ॥ ২০৬ ॥
 
 śata śloka kaila eka daṇḍa nā yāite  
-bṛhaspati taiche śloka nā pāre karite
+a hundred  verses  he composed  one  daṇḍa  not  passing  
+bṛhaspati taiche śloka nā pāre karite  
+Bṛhaspati  such  verses  not  can  compose
 
-(206) [not yet translated]
+(206) Within a single *daṇḍa* (twenty-four minutes) he composed a hundred verses — verses such as even Bṛhaspati could not compose.
 
 শুনি’ সুখে প্রভু তাঁরে কৈল আলিঙ্গন ৷  
 ভট্টাচার্য্য প্রেমাবেশে হৈল অচেতন ॥ ২০৭ ॥
 
 śuni’ sukhe prabhu tāṅre kaila āliṅgana  
-bhaṭṭācārya premāveśe haila acetana
+hearing  with joy  the Lord  him  made  an embrace  
+bhaṭṭācārya premāveśe haila acetana  
+the Bhaṭṭācārya  in the rapture of love  became  unconscious
 
-(207) [not yet translated]
+(207) Hearing them, the Lord joyfully embraced him, and the Bhaṭṭācārya, overwhelmed by love, lost consciousness.
 
 অশ্রু, স্তম্ভ, পুলক, স্বেদ, কম্প থরহরি ৷  
 নাচে, গায়, কান্দে, পড়ে প্রভু-পদ ধরি’ ॥ ২০৮ ॥
 
 aśru, stambha, pulaka, sveda, kampa tharahari  
-nāce, gāya, kānde, paḍe prabhu-pada dhari’
+tears  stupor  thrill  sweat  trembling  violent  
+nāce, gāya, kānde, paḍe prabhu-pada dhari’  
+he dances  sings  weeps  falls  the Lord’s feet  clasping
 
-(208) [not yet translated]
+(208) Tears, stupor, thrill, sweat and violent trembling came over him. He danced, sang and wept, and fell down clasping the Lord’s feet.
 
 দেখি’ গোপীনাথাচার্য্য হরষিত-মন ৷  
 ভট্টাচার্য্যের নৃত্য দেখি’ হাসে প্রভুর গণ ॥ ২০৯ ॥
 
 dekhi’ gopīnāthācārya haraṣita-mana  
-bhaṭṭācāryera nṛtya dekhi’ hāse prabhura gaṇa
+seeing  Gopīnāthācārya  delighted at heart  
+bhaṭṭācāryera nṛtya dekhi’ hāse prabhura gaṇa  
+the Bhaṭṭācārya’s  dance  seeing  laugh  the Lord’s  companions
 
-(209) [not yet translated]
+(209) Seeing this, Gopīnāthācārya was delighted at heart, and the Lord’s companions laughed to see the Bhaṭṭācārya dance.
 
 গোপীনাথাচার্য্য কহে মহাপ্রভুর প্রতি ৷  
 সেই ভট্টাচার্য্যের তুমি কৈলে এই গতি ॥ ২১০ ॥
 
 gopīnāthācārya kahe mahāprabhura prati  
-sei bhaṭṭācāryera tumi kaile ei gati
+Gopīnāthācārya  says  Mahāprabhu  to  
+sei bhaṭṭācāryera tumi kaile ei gati  
+that very  Bhaṭṭācārya’s  You  have made  this  state
 
-(210) [not yet translated]
+(210) Gopīnāthācārya said to Mahāprabhu, “It is that very Bhaṭṭācārya whom You have brought to such a state!”
 
 প্রভু কহে, — তুমি ভক্ত, তোমার সঙ্গ হৈতে ৷  
 জগন্নাথ ইঁহারে কৃপা কৈল ভালমতে ॥ ২১১ ॥
 
 prabhu kahe, — tumi bhakta, tomāra saṅga haite  
-jagannātha iṅhāre kṛpā kaila bhāla-mate
+the Lord  says  you  a devotee  your  association  from  
+jagannātha iṅhāre kṛpā kaila bhāla-mate  
+Jagannātha  to him  mercy  showed  fully
 
-(211) [not yet translated]
+(211) The Lord said, “You are a devotee, and through association with you Jagannātha has shown him full mercy.”
 
 তবে ভট্টাচার্য্যে প্রভু সুস্থির করিল ৷  
 স্থির হঞা ভট্টাচার্য্য বহু স্তুতি কৈল ॥ ২১২ ॥
 
 tabe bhaṭṭācārye prabhu susthira karila  
-sthira hañā bhaṭṭācārya bahu stuti kaila
+then  the Bhaṭṭācārya  the Lord  calm  made  
+sthira hañā bhaṭṭācārya bahu stuti kaila  
+calm  becoming  the Bhaṭṭācārya  many  prayers  made
 
-(212) [not yet translated]
+(212) Then the Lord calmed the Bhaṭṭācārya, and the Bhaṭṭācārya, once composed, offered many prayers.
 
 জগৎ নিস্তারিলে তুমি, — সেহ অল্পকার্য্য ৷  
 আমা উদ্ধারিলে তুমি, — এ শক্তি আশ্চর্য্য ॥ ২১৩ ॥
 
 jagat nistārile tumi, — seha alpa-kārya  
-āmā uddhārile tumi, — e śakti āścarya
+the world  have delivered  You  that  a small deed  
+āmā uddhārile tumi, — e śakti āścarya  
+me  have delivered  You  this  power  wonderful
 
-(213) [not yet translated]
+(213) “That You have delivered the world is a small deed; that You have delivered me — that is a wondrous power!
 
 তর্ক-শাস্ত্রে জড় আমি, যৈছে লৌহপিণ্ড ৷  
 আমা দ্রবাইলে তুমি, প্রতাপ প্রচণ্ড ॥ ২১৪ ॥
 
 tarka-śāstre jaḍa āmi, yaiche lauha-piṇḍa  
-āmā dravāile tumi, pratāpa pracaṇḍa
+by logic  dulled  I  like  a lump of iron  
+āmā dravāile tumi, pratāpa pracaṇḍa  
+me  have melted  You  power  mighty
 
-(214) [not yet translated]
+(214) Logic had made me as hard and dull as a lump of iron, yet You have melted me — mighty is Your power!”
 
 স্তুতি শুনি’ মহাপ্রভু নিজ-বাসা আইলা ৷  
 ভট্টাচার্য্য আচার্য্য-দ্বারে ভিক্ষা করাইলা ॥ ২১৫ ॥
 
 stuti śuni’ mahāprabhu nija-vāsā āilā  
-bhaṭṭācārya ācārya-dvāre bhikṣā karāilā
+the prayers  hearing  Mahāprabhu  to His own lodging  came  
+bhaṭṭācārya ācārya-dvāre bhikṣā karāilā  
+the Bhaṭṭācārya  through the Ācārya  a meal  arranged
 
-(215) [not yet translated]
+(215) Having heard these prayers, Mahāprabhu returned to His lodging, and the Bhaṭṭācārya had a meal served to Him through Gopīnāthācārya.
 
 আর দিন প্রভু গেলা জগন্নাথ-দরশনে ৷  
 দর্শন করিলা জগন্নাথ-শয্যোত্থানে ॥ ২১৬ ॥
