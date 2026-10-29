@@ -212,6 +212,68 @@ From (16) Vidyādhirāja Tīrtha comes another line of disciples: (17) Rājendra
 
 From (19) Rāmacandra Tīrtha comes yet another line of disciples: (20) Vibudhendra, Śaka 1218; (21) Jitāmitra, 1348; (22) Raghunandana; (23) Surendra; (24) Vijendra; (25) Sudhīndra; (26) Rāghavendratīrtha, Śaka 1545. In this “*para-maṭha*” there have been to this day 14 more Mādhva ascetics bearing the title “Tīrtha.”
 
+**Uḍupī** is in the South Kanara district, on the seacoast, 36 miles north of Mangalore (*South Kanara Manual* and *Bombay Gazetteer*).
+
+## 246
+
+> Subheading: *Darśana* of the Dancing Gopāla —
+
+## 247
+
+> Subheading: Madhva installs the Deity of Kṛṣṇa —
+
+## 248
+
+> Subheading: Madhva's disciples in succession serve the Deity of Kṛṣṇa —
+
+## 249
+
+> Subheading: Seeing the Kṛṣṇa installed by Madhva, the Lord dances and sings —
+
+## 250
+
+> Subheading: At first sight the Tattvavādīs mistakenly take the Lord for a “Māyāvādī” —
+
+The age-old enmity between those who hold to the featureless Brahman — the *kevalādvaita-vādīs*, or Māyāvādīs — and the *śuddha-dvaita-vādīs*, or Tattvavādīs, is well known.
+
+## 251
+
+> Subheading: Then, seeing the Lord's spiritual transformations (*sāttvika-vikāras*), they recognize Him as a Vaiṣṇava —
+
+## 252
+
+> Subheading: Their mundane pride in calling themselves “Vaiṣṇavas” —
+
+## 253
+
+> Subheading: The Lord resolves, in His mercy, to free them from pride —
+
+## 254
+
+> Subheading: The Lord humbly questions the great paṇḍita Raghuvarya Tīrtha —
+
+## 255
+
+> Subheading: The question of the goal (*sādhya*) and the means (*sādhana*) —
+
+## 256
+
+> Subheading: The Tattvavāda *ācārya*'s answer: (1) the *sādhana* is devotion mixed with *karma* — *varṇāśrama-dharma* and offering it to Kṛṣṇa —
+
+## 257
+
+> Subheading: (2) The *sādhya* is the five kinds of liberation —
+
+## 258
+
+> Subheading: The Lord's answer: (1) the *sādhana* is the ninefold devotion of the surrendered devotee —
+
+The Tattvavādīs' “*sādhana*” is *varṇāśrama-dharma* (*Śrīmad-Bhāgavatam* 11.19.47). But the one and only “*sādhana*” intended by the *śāstras* that Mahāprabhu revealed is hearing and chanting. The Tattvavādīs' “*sādhya*” is to attain the five kinds of liberation and then go to Vaikuṇṭha. But the “*sādhya*” of the *śāstras* that Mahāprabhu revealed is love for Kṛṣṇa (*kṛṣṇa-prema*).
+
+## 259–260
+
+The *mahā-bhāgavata* Prahlāda studied under the sons of his guru. The Daitya king Hiraṇyakaśipu, whose only wealth was knowledge born of the senses, regarded Prahlāda as his “son.”
+
 ---
 
 [^218-1]: The edition prints the section number as “১১৮” (118); by content it belongs to verse 218.
