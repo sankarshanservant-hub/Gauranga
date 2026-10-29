@@ -68,6 +68,24 @@ The forest creepers rich with flowers and fruits, and the trees bowed down by *b
 
 Śrī Kṛṣṇa in the form of Rasarāja and Śrīmatī Rādhikā in the form of Mahābhāva, united, are one *tattva*. It was this *svarūpa* that He showed, that is, He showed “the form of Śrī Kṛṣṇa adorned with Rādhā's *bhāva* and radiance.” In this way He showed a wondrous *svarūpa* in which one *tattva* is two, and two *tattvas* are one. Only those who are able to understand the truth of Śrī Kṛṣṇa Caitanya and the truth of Rādhā and Kṛṣṇa are granted, by the mercy of Śrī Svarūpa Gosvāmī, to serve that eternal *svarūpa*.
 
+## 286–287
+
+“Rāmānanda, you see in Me a separate ‘golden person’ (*gaura-puruṣa*) — but I am not that. I am that very Śrī Kṛṣṇa, the son of the king of the cowherds, and this golden hue of Mine — the touch of Rādhā's body — is eternal. Rādhikā touches no one but Kṛṣṇa. Steeping My *svarūpa* and mind in Śrī Rādhikā's feeling, I relish the *rasa* of My own sweetness, the sweetness of Kṛṣṇa.”
+
+## 293
+
+To Śrī Mahāprabhu's questions Śrī Rāmānanda Rāya first gave five answers (in this chapter, from verse 57 to 67). The first of them is like copper, an ordinary metal; the second is like bronze, a metal better than that; the third is like silver, a metal better still; the fourth is gold, the best of metals. But the fifth is *bhakti* free from *jñāna*; it is the jewel *cintāmaṇi*, that is, the goal (*sādhya*) itself, and by its power the other four acquire the worth of metals. And if the sixth answer (verses 68–81) is taken as the “first,” then the five answers about *prema* that follow it must be understood by the same comparison.
+
+## 299
+
+***Hanumān.*** In Vidyānagara the form (*mūrti*) of Hanumān is worshiped. Bowing to that village deity, the Lord went south.
+
+## 303–304
+
+Śrī Caitanya's life is like thickly boiled-down milk; Rāmānanda's life is *khaṇḍa*, or *khāṛ*, that is, a special kind of sugar in it; and the pastimes of Śrī Rādhā and Kṛṣṇa among them are camphor in that sweetened milk.
+
+*Thus ends the eighth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^193-1]: The verse translation reads differently: “it is not that Kṛṣṇa is a youth eager for enjoyment and I a maiden who gives it.”

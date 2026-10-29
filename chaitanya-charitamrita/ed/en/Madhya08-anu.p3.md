@@ -386,6 +386,108 @@ On how a devotee knows Bhagavān's pastimes, see Ādi 3.86–89; on the meaning 
 
 > Subheading: The Lord comforts Rāya and frankly reveals all the confidential reasons — that He is Kṛṣṇa Himself and that He is full of Rādhā's *bhāva* and radiance — their purpose and so on —
 
+## 286
+
+The *prākṛta-sahajiyās*, relying on the words *gaura aṅga nahe*, take Gaura and Kṛṣṇa to be different. In fact both are the form of the *svayaṁ-rūpa*. Gaura Himself, in His “*svarūpa* as Kṛṣṇa,” is in the *rasa* of *sambhoga* the *nāgara*, the *viṣaya-vigraha*; and Kṛṣṇa Himself, in His “*svarūpa* as Gaura,” is in the *rasa* of *vipralambha* Śrī Kṛṣṇa Caitanya, full of the *bhāva* and radiance of Śrī Rādhā, the *āśraya-vigraha*. No form of Viṣṇu other than Śrī Nandanandana, the *svayaṁ-rūpa* — the embodiment of transcendental *śṛṅgāra*, the king of *rasas*, the *dhīra-lalita* hero — can enjoy Śrī Rādhikā, Kṛṣṇa's complete *cit-śakti*, or *svarūpa-śakti*, *mahābhāva* itself. For in all forms of Viṣṇu other than Kṛṣṇa there is no *śṛṅgāra-rasa* and no nature of a *dhīra-lalita* hero, and the mood of majesty (*aiśvarya*) predominates. That is why Śrīmatī's names are: “Rādhā is the delight of Govinda and the enchantress of Govinda; She is Govinda's all-in-all and the crest-jewel of all His beloveds.” (*Caitanya-caritāmṛta*, Ādi 4.82)
+
+## 288
+
+See Ādi 3.86–89.
+
+## 284–288
+
+See Ādi, Chapter 4.
+
+## 289
+
+> Subheading: Confidential talks of *bhajana* are to be revealed to no one —
+
+## 290
+
+> Subheading: The Lord and Rāya are both intoxicated with the feeling of the *āśraya* —
+
+## 289–290
+
+In a world devoted to logic all this will become merely an object of laughter, because people are attached only to matter; therefore do not reveal it to the unworthy. When a person is intoxicated with love for Kṛṣṇa, his worldly material endeavors, devoted to logic, slacken, and the loving impulses of *rāgānugā-bhāva* look to the ordinary pleasure-seeking eye like mere “madness.” By material standards I am mad and you are mad; we are equal, and both of us are intoxicated with talks of love for Kṛṣṇa — and others, who cherish material *rasas* foreign to Kṛṣṇa, laugh at us.
+
+## 291
+
+> Subheading: The Lord spends ten days with Rāya —
+
+## 292
+
+> Subheading: The conversation of the Lord and Rāmānanda is a vast mine in which many metals are distinguished by their worth —
+
+## 293
+
+> Subheading: A comparison for the five transcendental *rasas* —
+
+In Vraja the embodiments of *śānta-rasa* — the waters of the Yamunā, the sand of its banks, the *kadamba* trees and so on, the cows, the staff, the flute and the rest; the embodiments of *dāsya-rasa* — Citraka, Patraka, Raktaka and others; the embodiments of *sakhya-rasa* — Śrīdāmā, Sudāmā and others; the embodiments of *vātsalya-rasa* — Nanda, Yaśodā and others; and the cowherd women — Śrīmatī Rādhikā, Lalitā and others — are each rich in their own *rasa*. *Śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura* — these five are, in order, like mines of copper, bronze, silver, gold and the jewel *cintāmaṇi*. ***Potā*** — buried in the earth.
+
+## 295
+
+> Subheading: The Lord takes leave of Rāya and gives him an instruction —
+
+## 296
+
+> Subheading: The Lord tells Rāya to go to Nīlācala: there, when they meet again, there will be the chance to talk about Kṛṣṇa —
+
+## 298
+
+> Subheading: Rāya goes home —
+
+## 299
+
+> Subheading: After the *darśana* of Vajrāṅga-jī, the Lord sets out for the south —
+
+## 300
+
+> Subheading: On seeing the Lord, all the people of Vidyānagara become Vaiṣṇavas —
+
+***Vidyāpure*** — in Vidyānagara.
+
+## 301
+
+> Subheading: Rāya's state in separation from the Lord —
+
+## 302
+
+> Subheading: In this book the conversation of the Lord and Rāmānanda is described only briefly —
+
+## 303
+
+> Subheading: The connection between Caitanya's pastimes, Rāya's life and the pastimes of Rādhā and Kṛṣṇa —
+
+## 304
+
+> Subheading: Only the most fortunate have the right and the chance to enter these pastimes —
+
+## 306
+
+> Subheading: The fruit of hearing the conversation of the Lord and Rāmānanda —
+
+## 308
+
+> Subheading: Bhagavān's inconceivable nature is beyond logic —
+
+## 309
+
+> Subheading: Love for Kṛṣṇa is attained only by one wholly devoted to Nitāi, Gaura and Advaita —
+
+## 307–309
+
+“Kṛṣṇa is attained by faith; by logic one goes far away.” That is, only through faith (*viśvāsa*), that is, *śraddhā*, following the path step by step, does one come to experience this supramundane, supremely secret, true Reality — the pastimes of Śrī Kṛṣṇa. It is not the fiction or “whim” of a *jīva* who does not follow the path of *śruti*, doubts the real truth and has turned away from service — a product of the mind with its accepting and rejecting, which can be shaped however one likes. One who relies on material logic has so great a desire for material enjoyment that the spiritual pastimes stay far away. Thus (*Kaṭha Upaniṣad* 1.2.9): “This understanding cannot be reached by logic; O dearest, only when taught by another does it lead to true knowledge.” (*Muṇḍaka Upaniṣad* 3.2.3): “This Self is not attained by discourse, nor by intellect, nor by much hearing. Whom He chooses, by him He is attained; to him this Self reveals His own form.” (*Brahma-sūtra* 2.1.11): “For logic has no firm ground.” A person who tries to grasp the supramundane truth with knowledge full of material, mundane judgments goes far from the Reality, because the subject under consideration here (the *rasa* of love for Kṛṣṇa) is supramundane. When materialistic *sahajiyās* or men of letters reason about it with the mind, that is, the intellect, what they think they have reasoned about is mundane; and so all such efforts of theirs are futile. Only one who has given up such reasoning and has faith in Viṣṇu-*tattva* alone has knowledge of *sambandha* that is pure and attained without difficulty.
+
+## 310
+
+> Subheading: The author glorifies Rāya —
+
+## 311
+
+At the end of almost every chapter the author in this way, by the path of *śruti*, shows his unwavering fidelity to the guru. What he means to establish is this: the event “the meeting of the Lord and Rāmānanda” was written and described exactly according to the diary (*kaḍacā*) of Śrīla Dāmodara Svarūpa; it is not something invented out of one's own head, not the proud effort of a worldly man who has given up hearing from the mouth of the guru.
+
+*Thus ends the eighth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^193-1]: *Ujjvala-nīlamaṇi* (the definition of *pūrva-rāga*).
