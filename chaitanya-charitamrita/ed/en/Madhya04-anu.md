@@ -112,7 +112,7 @@
 
 ## 46
 
-> Subheading: Purī strives to bring Giridhārī to light —
+> Subheading: Purī strives to bring Giridhārī to light —[^46-1]
 
 ## 47
 
@@ -480,7 +480,7 @@ Gopāla did not wear the sandalwood Himself but had Gopīnātha wear it. The mea
 
 > Subheading: When summer is over, Purī spends *cāturmāsya* in Nīlācala —
 
-***Cāturmāsya*** — the four lunar months from the Śayana Ekādaśī of the bright fortnight of Āṣāḍha to the Utthāna Ekādaśī of the bright fortnight of Kārttika; or the four lunar months from the full moon of Āṣāḍha to the full moon of Kārttika; or the four solar months from Śrāvaṇa to Kārttika. This time of *cāturmāsya* is the rainy season. The vow that lasts these four months is to be kept by all four *āśramas*; its aim is to give up all enjoyment. In Śrāvaṇa one gives up greens (*śāka*), in Bhādra yogurt, in Āśvina milk, and in Kārttika *āmiṣa*. The essence of the teaching of this *cāturmāsya* is giving up everything fit for material enjoyment.
+***Cāturmāsya*** — the four lunar months from the Śayana Ekādaśī of the bright fortnight of Āṣāḍha to the Utthāna Ekādaśī of the bright fortnight of Kārttika; or the four lunar months from the full moon of Āṣāḍha to the full moon of Kārttika; or the four solar months from Śrāvaṇa to Kārttika. This time of *cāturmāsya* is the rainy season. The vow that lasts these four months is to be kept by all four *āśramas*; its aim is to give up all enjoyment. In Śrāvaṇa one gives up greens (*śāka*), in Bhādra yogurt, in Āśvina milk, and in Kārttika *āmiṣa* (foods forbidden in that month). The essence of the teaching of this *cāturmāsya* is giving up everything fit for material enjoyment.
 
 ## 47–169
 
@@ -623,3 +623,4 @@ The love of the Lord and of the devotee for each other is incomparable.
 [^186-1]: *Śrīmad-Bhāgavatam* 10.14.8.
 
 [^186-2]: *Śikṣāṣṭaka* 8 (*Caitanya-caritāmṛta*, Antya 20.47).
+[^46-1]: The subheadings above verses 46 and 47 appear to be transposed in the edition: by content, “Purī weeps with love” belongs to 46 and “Purī strives to bring Giridhārī to light” to 47. They are given as printed.
