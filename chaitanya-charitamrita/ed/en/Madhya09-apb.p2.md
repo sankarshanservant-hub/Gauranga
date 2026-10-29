@@ -6,3 +6,7 @@ At Sītā's request Agni created a “shadow Sītā” (*chāyā-Sītā*). Ten-h
 
 Mahāprabhu had new leaves written into the book of the *Kūrma Purāṇa* and brought the old leaves so that Rāmadāsa would believe. When the brāhmaṇa received these leaves, his heart rejoiced.
 
+## 224
+
+**Bhaṭṭathāris**: in some regions the common speech calls them “Bhāṭwārīs.” They have neither house nor home. Wherever they happen to stay, they live in *śirkis*, that is, in simple tents. Outwardly they wear the dress of *sannyāsīs*, but their trade is theft and deceit. By deceit they gather many women and keep them in their *śirkis*; then they lure other people by showing them these women, and so swell their band. What the camps of the Bedes (nomads) are in Bengal, the *śirkis* of the Bhāṭwārīs are in western and southern India.
+

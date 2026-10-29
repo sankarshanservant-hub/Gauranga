@@ -40,7 +40,7 @@
 
 > Subheading: A night in the brāhmaṇa's house and bathing in the Tāmraparṇī —
 
-**Pāṇḍya-deśa**[^218-1] is the region of the Dākṣiṇātya (the South) between the kingdoms of Kerala and Cola. Here many kings bearing the title “Pāṇḍya” ruled in Madurai and Rāmeśvara. The *Rāmāyaṇa* says: “You will cross the great river Tāmraparṇī, where crocodiles dwell, whose islands and waters are hidden by wondrous sandal forests. Going there, O monkeys, you will see the strong gate of the Pāṇḍyas.”[^218-2]
+**Pāṇḍya-deśa**[^218-1] is the region of the Dākṣiṇātya (the South) between the kingdoms of Kerala and Cola. Here many kings bearing the title “Pāṇḍya” ruled in Madura and Rāmeśvara. The *Rāmāyaṇa* says: “You will cross the great river Tāmraparṇī, where crocodiles dwell, whose islands and waters are hidden by wondrous sandal forests. Going there, O monkeys, you will see the strong gate of the Pāṇḍyas.”[^218-2]
 
 **Tāmraparṇī** is the river on whose left bank Tinnevelly stands.[^218-3] It is called “Porunai.” It rises in the Western Ghats and falls into the Bay of Bengal. “Where the rivers Tāmraparṇī, Kṛtamālā, Payasvinī …” (*Śrīmad-Bhāgavatam* 11.5.39)
 
@@ -63,6 +63,56 @@
 > Subheading: *Darśana* of Viṣṇu at Gajendra-mokṣaṇa and of Rāma at Pānāgaḍi —
 
 **Gajendra-mokṣaṇa.** Some mistakenly give this name to “Sthāṇu-liṅga,” or “Devendra-mokṣaṇa-Śiva,” two miles south of Nagercoil. In truth this is a Deity of Śrī Viṣṇu.
+
+**Pānāgaḍi** is “Pānāgaḍi,” 30 miles south of Tinnevelly, slightly to the southwest, on the way to Trivandrum. Formerly a Deity of Śrī Rāma was here; later the Śaivas began worshiping Him as “Rāmeśvara,” or “Rāmaliṅga Śiva,” and do so to this day.
+
+## 222
+
+> Subheading: *Darśana* of Rāma and Lakṣmaṇa at Cāmtāpura and of Viṣṇu at Śrī Vaikuṇṭha —
+
+**Cāmtāpura** is probably “Chengannur” in the kingdom of Travancore; a temple of Rāma and Lakṣmaṇa stands here.
+
+**Śrī Vaikuṇṭha** is “Śrīvaikuṇṭham.” It lies on the left bank of the river Tāmraparṇī, 4 miles north of Ālvār Tirunagarī and 16 miles southeast of Tinnevelly.
+
+## 223
+
+> Subheading: *Darśana* of Agastya at Kumārikā —
+
+**Malaya Mountain** is the range in the Dākṣiṇātya that stretches from Kerala to Cape Kumārikā. There are four views about Agastya. First: in the Tanjore district, at Point Calimere near Vedāraṇyam, in the village of Agastyampalli, there is a temple of the sage Agastya. Second: in the Madura district, on the summit of the Śivagiri hill, there is a temple of Subrahmaṇya (Skanda) built by Agastya. Third: some say the Pothiya mountain near Cape Kumārikā is Agastya's abode. Fourth: the peak shaped like a banana flower, on both sides of the river Tāmraparṇī, is called “Agastya-malaya.”
+
+**Kanyākumārī** is Cape Kumārikā.
+
+## 224
+
+> Subheading: *Darśana* of Rāma at Āmlitalā —
+
+**Mallāra-deśa** is the land of Malabar. To its north lies South Kanara, to the east Coorg and Mysore, to the south Cochin, and to the west the Arabian Sea.
+
+## 225
+
+> Subheading: In the land of Malabar: *darśana* of Tamāla-kārttika and of Rāma at Vetāpani, and a night's stay —
+
+**Tamāla-kārttika** is a temple of Subrahmaṇya, or Kārttikeyadeva, 44 miles south of Tinnevelly and 2 miles south of the “Aramvallī” pass, within the Tovala *tāluk*.
+
+**Vetāpani** is “Bhūtapaṇḍi,” in the kingdom of Travancore, north of Nagercoil, within the Tovala *tāluk*. Formerly a Deity of Rāmacandra was in this temple. Later, it seems, He came to be worshiped under the name Rāmeśvara, or the Śiva-liṅga Bhūtanātha.
+
+## 226
+
+> Subheading: The Lord's companion, the brāhmaṇa Kṛṣṇadāsa, in the clutches of the Bhaṭṭathāris —
+
+**Bhaṭṭathāri**: see Madhya 1.112.
+
+## 227
+
+> Subheading: Because of bad company Kṛṣṇadāsa leaves the Lord's company —
+
+## 228
+
+> Subheading: Searching for Kṛṣṇadāsa, the Lord comes to the Bhaṭṭathāris' dwelling —
+
+## 229
+
+> Subheading: The Lord demands that the Bhaṭṭathāris give back Kṛṣṇadāsa —
 
 
 ---
