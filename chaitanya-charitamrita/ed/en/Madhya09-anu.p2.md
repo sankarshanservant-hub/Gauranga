@@ -390,9 +390,55 @@ Having duly accomplished by *dharma* what serves as the means of worship, all th
 
 > Subheading: *Darśana* of Lakṣmī, Bhagavatī, Gaṇeśa, and Pārvatī at Kolāpura —
 
+**Kolāpura** is a native state within the Bombay Presidency. To its north lies Satara, to the east and south Belgaum, and to the west Ratnagiri. The river “Urṇā” flows here. Formerly Kolāpura had about 250 temples. Of these six are now famous: (1) the temple of Ambābāī, or Mahālakṣmī; (2) the temple of Viṭhobā; (3) the temple of Ṭemblāī; (4) the temple of Mahākālī; (5) the temple of Phiraṅgāī, or Pratyaṅgirā; and the temple of Yallammā (*Bombay Gazetteer*).
+
 ## 282
 
 > Subheading: The Lord comes to Pāṇḍarapura on the bank of the Bhīmā and has *darśana* of Viṭhṭhaladeva —
+
+**Pāṇḍarapura**, or Pandharpur, is a subdivision of the Sholapur district in the Bombay Presidency, 38 miles due west of the town of Sholapur. Here resides Viṭhṭhala, or Viṭhobā-deva Ṭhākura — a four-armed Deity of Śrī Nārāyaṇa. The town stands on the bank of the river Bhīmā. In the fifteenth century of the Śaka era a famous Vaiṣṇava sādhu named “Tukārāma” lived here.
+
+## 283
+
+> Subheading: The Lord dances and sings; a meal in the house of a Vaiṣṇava brāhmaṇa —
+
+## 284
+
+> Subheading: There the Lord learns that Śrī Raṅga Purī is staying nearby —
+
+## 286
+
+> Subheading: The Lord goes to Śrī Raṅga Purī and bows down to him —
+
+## 288
+
+> Subheading: Seeing the Lord's emotions, Purī concludes that He is connected with Mādhavendra Purī —
+
+## 289
+
+Before Śrīpāda Mādhavendra Purī, down to Śrīpāda Lakṣmīpati Tīrtha, the worship of Kṛṣṇa alone was the custom. Only from Śrīla Mādhavendra did love for Kṛṣṇa descend into the world in the *rasa* of separation (*vipralambha*), rooted in exclusive service to Śrī Rādhā. For “he is the first sprout of the wish-fulfilling tree of bhakti” (Ādi 9.10). Only a devotee in whom taste (*ruci*) has awakened and who is bound to Śrīla Mādhavendra by dear ties is eligible for this love for Kṛṣṇa. See also Madhya 2.83.
+
+***Gosāñira*** means “of Śrī Gurudeva,” the crown of the family of *akiñcana paramahaṁsas*, whose only shelter is Kṛṣṇa. Only one who has conquered the six urges is truly called a “*gosvāmī*.” That is why Śrī Mādhavendra Purīpāda, who had left home, is referred to here by the word *gosvāmī*. This shows that the word *gosvāmī* is not tied to blood or semen, nor bound to the *dharma* of the *gṛhavrata* or to the sacrifices of the *gṛhamedhī* by succession in a seminal line. Yet out of a wish to oppose the Vaiṣṇavas, the word *gosvāmī* has unjustly ended up today as a caste title by birth, and so it has become a cause of disease for those who use it without the right to it.
+
+## 290
+
+> Subheading: Raṅga Purī embraces the Lord, and both weep with love —
+
+## 291
+
+> Subheading: Both grow calm, learn about each other, and love arises between them —
+
+## 293
+
+> Subheading: For a whole week the two talk about Kṛṣṇa —
+
+## 294
+
+> Subheading: Asking the Lord's birthplace, Śrī Raṅga Purī hears the name “Navadvīpa” —
+
+## 295
+
+> Subheading: Raṅga Purī once had the chance to eat food cooked by Śacī in her house —
 
 ---
 
