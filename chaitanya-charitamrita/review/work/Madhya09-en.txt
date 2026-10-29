@@ -50,7 +50,7 @@ tr: As before, whoever saw Him on the road and all the people of every village H
 
 ## 9
 w: of the south  of the land  the people  of many  kinds
-w: some  jñānīs  some  karmīs  pāṣaṇḍīs  countless
+w: some  jñānīs  some  karmīs  unbelievers  countless
 tr: The people of the South were of many kinds: some were *jñānīs*, some were *karmīs*, and the unbelievers were countless.
 fn: *Amṛta-pravāha-bhāṣya*: the *pāṣaṇḍīs* (unbelievers) are the *jñānīs* and the followers of *karma-vāda*, the opponents of pure devotion.
 
@@ -86,7 +86,7 @@ tr: He went to Mallikārjuna-tīrtha and saw Maheśa (Śiva). There He made all 
 
 ## 16
 w: the servant of Rāma  Mahādeva  He made  sight
-w: to Ahobala-nṛsiṁha  He made  going
+w: to Ahovala-nṛsiṁha  He made  going
 tr: He had *darśana* of Mahādeva, the servant of Rāma, and then went to Ahovala-nṛsiṁha.
 
 ## 17
@@ -246,7 +246,7 @@ w: in this way  Vaiṣṇava  He made  the southern  land
 tr: Defeated again and again, they entered into the Lord’s doctrine. In this way He made the South Vaiṣṇava.
 
 ## 46
-w: the pāṣaṇḍīs  came  all  of His learning  hearing
+w: the unbelievers  came  all  of His learning  hearing
 w: pride  showing  they came  with them  disciples  bringing
 tr: Hearing of His learning, all the unbelievers came; full of pride, they brought their disciples with them.
 
@@ -392,6 +392,7 @@ tr: There He saw Śveta-varāha and bowed down to Him. Then Gaurahari went to th
 w: Śiyālī  Bhairavī  of the goddess  making  sight
 w: of the Kāverī  to the bank  came  of Śacī  the son
 tr: After seeing the goddess Śiyālī-bhairavī, the son of Śacī came to the bank of the Kāverī.
+fn: *Anubhāṣya* (on verse 358): instead of “having seen the goddess Bhairavī at Śiyālī” one should read “having seen Śrī Bhū-varāha at Śiyālī”: near Śiyālī and Chidambaram, in the famous temple of Śrīmuṣṇam, abides the Deity of Śrī Bhū-varāhadeva, not Bhairavī-devī. The edition leaves the text of the verse unchanged.
 
 ## 75
 w: at Go-samāja  Śiva  seeing  He came  to Vedāvana
@@ -461,7 +462,7 @@ tr: Every day He bathed in the Kāverī, had darśana of Śrī Raṅga and dance
 ## 88
 w: beauty and the rest  absorption in love  seeing  all the people
 w: to see  they come  they see  is destroyed  sorrow and grief
-tr: Everyone who saw His beauty and the rest and His absorption in love came to see Him; they saw Him, and their sorrow and grief were destroyed.
+tr: All the people came to see His beauty and His absorption in love; they saw Him, and their sorrow and grief were gone.
 
 ## 89
 w: hundreds  of thousands  of people  came  from various  lands
@@ -481,7 +482,7 @@ tr: All the Vaiṣṇava brāhmaṇas living in Śrī Raṅga-kṣetra invited H
 ## 92
 w: one  day each  the Cāturmāsya  complete  became
 w: some  brāhmaṇas  meal  to give  not  got (the chance)
-tr: One day each, and the Cāturmāsya came to an end; some brāhmaṇas never got the chance to serve Him a meal.
+tr: With one host each day, the Cāturmāsya came to an end, and some brāhmaṇas never had the chance to serve Him a meal.
 
 ## 93
 w: in that  holy place  lives  a  Vaiṣṇava brāhmaṇa
@@ -491,7 +492,7 @@ tr: In that holy place lived a Vaiṣṇava brāhmaṇa who would come to the te
 ## 94
 w: the eighteen chapters  he reads  by bliss  overwhelmed
 w: incorrectly  he reads  people  make  mockery
-tr: Overwhelmed with bliss, he read all eighteen chapters; he read them incorrectly, and people mocked him.
+tr: He read all eighteen chapters, overwhelmed with bliss; but his reading was faulty, and people laughed at him.
 
 ## 95
 w: some  laugh  some  censure  that  not  he heeds
@@ -541,7 +542,7 @@ tr: Saying this, the Lord embraced the brāhmaṇa, and the brāhmaṇa clasped 
 ## 104
 w: You  seeing  than that  than  double  happiness  comes
 w: that  Kṛṣṇa  You  so  to my  mind  it seems
-tr: “Seeing You, my happiness is twice as great. I feel that You are that very Kṛṣṇa.”
+tr: “Seeing You, I am twice as happy as that. It seems to me that You are that very Kṛṣṇa.”
 
 ## 105
 w: by the manifestation of Kṛṣṇa  his  mind  had become  pure
@@ -598,7 +599,8 @@ tr: “O Lord, we do not know by what merit this one has gained the right to tou
 ## 115
 w: the Bhaṭṭa  says  Kṛṣṇa and Nārāyaṇa  one and the same  form
 w: in Kṛṣṇa  more  of pastimes  of cleverness and the rest  features
-tr: The Bhaṭṭa said, “Kṛṣṇa and Nārāyaṇa are one and the same form, but in Kṛṣṇa there is more playfulness, more artfulness in His pastimes, and so on.
+tr: The Bhaṭṭa said, “Kṛṣṇa and Nārāyaṇa are one and the same Person; but in Kṛṣṇa there is more of pastime, of artfulness and the like.
+fn: *Amṛta-pravāha-bhāṣya*: Nārāyaṇa is Kṛṣṇa’s form for pastimes (*vilāsa-mūrti*); He has four arms rather than two, but in His essential nature (*svarūpa*) He is not different from Kṛṣṇa. There is grace in Nārāyaṇa, but not pastimes full of artfulness (*vaidagdhya*) as in Kṛṣṇa.
 
 ## 116
 w: His  by the touch  not  is lost  of chastity  the duty
@@ -611,6 +613,7 @@ w: of the Lord of Śrī  of Kṛṣṇa  of the forms
 w: by rasa  excels  of Kṛṣṇa
 w: the form  such  of rasa  the nature
 tr: “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
+fn: *Anubhāṣya*: in essence Nārāyaṇa and Kṛṣṇa are not different, but in rasa it is the form of Kṛṣṇa that excels; see Ādi, chapters 2 and 3, and the *Laghu-bhāgavatāmṛta*.
 
 ## 118
 w: in Kṛṣṇa’s company  the duty of chastity  is not  destroyed
@@ -644,7 +647,7 @@ w: who have restrained  breath  mind  senses  in firm  yoga  engaged  in the hea
 w: the sages  worship  that  the enemies  even  attained  by remembering
 w: the women  of the king of serpents  like the coils  to the arms  attached  in mind
 w: we  also  of You  equal  who see all equally  of the lotus feet  the nectar
-tr: “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we, the Śrutis, are equal to them, for You see all equally.” (Śrīmad-Bhāgavatam, 10.87.23)
+tr: “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)
 
 ## 124
 w: the Śrutis  obtain  Lakṣmī  not  obtains  in this  what  the reason
@@ -691,12 +694,13 @@ w: not  this  easily attained  Bhagavān
 w: for the embodied  of the gopī  the son
 w: for the jñānīs  and  for those who realized the self
 w: as  for those who have devotion  here
-tr: “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by jñānīs who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
+tr: “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
 
 ## 133
 w: the Śrutis  of the gopīs  followers  becoming
 w: the son of Vraja’s queen  they worship  the mood of the gopīs  taking
 tr: The Śrutis became followers of the gopīs and worshiped the son of the queen of Vraja, taking on the mood of the gopīs.
+fn: *Amṛta-pravāha-bhāṣya*: the Śrutis could not enter the *rāsa* circle while they took the gopīs’ mood only in the heart; when they took it both in body and in heart, they followed the gopīs and entered Kṛṣṇa’s *rāsa* dance. Lakṣmī, however, prayed for Kṛṣṇa’s company in her own body and did not serve Him by following the gopīs’ love, and so she did not attain the *rāsa* pastimes.
 
 ## 134
 w: outwardly and inwardly  gopīs’ bodies  in Vraja  when  they obtained
@@ -749,6 +753,7 @@ w: Kṛṣṇa  but  Bhagavān  Himself
 w: by the enemies of Indra  troubled  the world
 w: make happy  in age  after age
 tr: “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)
+fn: The same verse as Ādi 2.67 and Ādi 5.79; translation as there.
 
 ## 144
 w: of Nārāyaṇa  than  in Kṛṣṇa  extraordinary  qualities
@@ -766,6 +771,7 @@ w: of the Lord of Śrī  of Kṛṣṇa  of the forms
 w: by rasa  excels  of Kṛṣṇa
 w: the form  such  of rasa  the nature
 tr: “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
+fn: The same verse as 117.
 
 ## 147
 w: Himself  Bhagavān  Kṛṣṇa  captivates  Lakṣmī’s  mind
@@ -788,6 +794,7 @@ w: to understand  is able  moving on an unfathomable path  the working
 w: when He reveals  of Viṣṇu  even  a form  in Him  with arms  victorious
 w: whose  alas  four  of wondrous splendour  the rise of love  shrinks
 tr: “What wise man can fathom the ways of the gopīs’ love for the son of the cowherd king — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)
+fn: The same verse as Ādi 17.281; translation as there.
 
 ## 151
 w: so  saying  the Lord  his  pride  to dust  reducing
@@ -802,7 +809,7 @@ tr: “Do not be sad, Bhaṭṭa; I was only joking. Now hear the conclusion of 
 ## 153
 w: Kṛṣṇa and Nārāyaṇa  just as  one and the same  form
 w: between the gopīs and Lakṣmī  difference  there is no  they are  of one form
-tr: Just as Kṛṣṇa and Nārāyaṇa are one and the same form, so there is no difference between the gopīs and Lakṣmī: they are one in form.
+tr: Just as Kṛṣṇa and Nārāyaṇa are one and the same Person, so there is no difference between the gopīs and Lakṣmī: they are one in form.
 
 ## 154
 w: in one and the same  form  He assumes  various  appearances

@@ -91,7 +91,7 @@ other  villages  deliver  them  Vaiṣṇavas  making
 dakṣiṇa deśera loka aneka prakāra  
 of the south  of the land  the people  of many  kinds  
 keha jñānī, keha karmī, pāṣaṇḍī apāra  
-some  jñānīs  some  karmīs  pāṣaṇḍīs  countless
+some  jñānīs  some  karmīs  unbelievers  countless
 
 (9) The people of the South were of many kinds: some were *jñānīs*, some were *karmīs*, and the unbelievers were countless.[^4]
 
@@ -161,7 +161,7 @@ there  all  the people  the name of Kṛṣṇa  He made take
 rāmadāsa mahādeve karila daraśana  
 the servant of Rāma  Mahādeva  He made  sight  
 ahovala-nṛsiṁhere karilā gamana  
-to Ahobala-nṛsiṁha  He made  going
+to Ahovala-nṛsiṁha  He made  going
 
 (16) He had *darśana* of Mahādeva, the servant of Rāma, and then went to Ahovala-nṛsiṁha.
 
@@ -475,7 +475,7 @@ in this way  Vaiṣṇava  He made  the southern  land
 গর্ব্ব করি’ আইল সঙ্গে শিষ্যগণ লঞা ॥ ৪৬ ॥
 
 pāṣaṇḍī āila yata pāṇḍitya śuniyā  
-the pāṣaṇḍīs  came  all  of His learning  hearing  
+the unbelievers  came  all  of His learning  hearing  
 garva kari’ āila saṅge śiṣya-gaṇa lañā  
 pride  showing  they came  with them  disciples  bringing
 
@@ -759,7 +759,7 @@ to Pītāmbara Śiva’s  place  went  Gaurahari
 kāverīra tīre āilā śacīra nandana  
 of the Kāverī  to the bank  came  of Śacī  the son
 
-(74) After seeing the goddess Śiyālī-bhairavī, the son of Śacī came to the bank of the Kāverī.
+(74) After seeing the goddess Śiyālī-bhairavī, the son of Śacī came to the bank of the Kāverī.[^11]
 
 গো-সমাজে শিব দেখি’ আইলা বেদাবন ৷  
 মহাদেব দেখি’ তাঁরে করিলা বন্দন ॥ ৭৫ ॥
@@ -899,7 +899,7 @@ beauty and the rest  absorption in love  seeing  all the people
 dekhibāre āise, dekhe, khaṇḍe duḥkha-śoka  
 to see  they come  they see  is destroyed  sorrow and grief
 
-(88) Everyone who saw His beauty and the rest and His absorption in love came to see Him; they saw Him, and their sorrow and grief were destroyed.
+(88) All the people came to see His beauty and His absorption in love; they saw Him, and their sorrow and grief were gone.
 
 লক্ষ লক্ষ লোক আইল নানা-দেশ হৈতে ৷  
 সবে কৃষ্ণনাম কহে প্রভুকে দেখিতে ॥ ৮৯ ॥
@@ -939,7 +939,7 @@ one  day each  the Cāturmāsya  complete  became
 kataka brāhmaṇa bhikṣā dite nā pāila  
 some  brāhmaṇas  meal  to give  not  got (the chance)
 
-(92) One day each, and the Cāturmāsya came to an end; some brāhmaṇas never got the chance to serve Him a meal.
+(92) With one host each day, the Cāturmāsya came to an end, and some brāhmaṇas never had the chance to serve Him a meal.
 
 সেই ক্ষেত্রে রহে এক বৈষ্ণব-ব্রাহ্মণ ৷  
 দেবালয়ে আসি’ করে গীতা আবর্ত্তন ॥ ৯৩ ॥
@@ -959,7 +959,7 @@ the eighteen chapters  he reads  by bliss  overwhelmed
 aśuddha paḍena, loka kare upahāse  
 incorrectly  he reads  people  make  mockery
 
-(94) Overwhelmed with bliss, he read all eighteen chapters; he read them incorrectly, and people mocked him.
+(94) He read all eighteen chapters, overwhelmed with bliss; but his reading was faulty, and people laughed at him.
 
 কেহ হাসে, কেহ নিন্দে, তাহা নাহি মানে ৷  
 আবিষ্ট হঞা গীতা পড়ে আনন্দিত-মনে ॥ ৯৫ ॥
@@ -1011,7 +1011,7 @@ He is seated  on it  like  a dark  beautiful one
 
 (99) On Arjuna’s chariot Kṛṣṇa holds the reins. He is seated there, a dark and beautiful form.
 
-অর্জ্জুনেরে কহিলেন হিত-উপদেশ ৷  
+অর্জ্জুনেরে কহিলেন হিত উপদেশ ৷  
 তাঁরে দেখি’ হয় মোর আনন্দ-আবেশ ॥ ১০০ ॥
 
 arjunere kahilena hita-upadeśa  
@@ -1059,7 +1059,7 @@ You  seeing  than that  than  double  happiness  comes
 sei kṛṣṇa tumi, — hena mora mane laya  
 that  Kṛṣṇa  You  so  to my  mind  it seems
 
-(104) “Seeing You, my happiness is twice as great. I feel that You are that very Kṛṣṇa.”
+(104) “Seeing You, I am twice as happy as that. It seems to me that You are that very Kṛṣṇa.”
 
 কৃষ্ণস্ফূর্ত্ত্যে তাঁর মন হঞাছে নির্ম্মল ৷  
 অতএব প্রভুর তত্ত্ব জানিল সকল ॥ ১০৫ ॥
@@ -1175,7 +1175,7 @@ the Bhaṭṭa  says  Kṛṣṇa and Nārāyaṇa  one and the same  form
 kṛṣṇete adhika līlā-vaidagdhyādi-rūpa  
 in Kṛṣṇa  more  of pastimes  of cleverness and the rest  features
 
-(115) The Bhaṭṭa said, “Kṛṣṇa and Nārāyaṇa are one and the same form, but in Kṛṣṇa there is more playfulness, more artfulness in His pastimes, and so on.
+(115) The Bhaṭṭa said, “Kṛṣṇa and Nārāyaṇa are one and the same Person; but in Kṛṣṇa there is more of pastime, of artfulness and the like.[^12]
 
 তাঁর স্পর্শে নাহি যায় পতিব্রতা-ধর্ম্ম ৷  
 কৌতুকে লক্ষ্মী চাহেন কৃষ্ণের সঙ্গম ॥ ১১৬ ॥
@@ -1199,7 +1199,7 @@ by rasa  excels  of Kṛṣṇa
 rūpam eṣā rasa-sthitiḥ  
 the form  such  of rasa  the nature
 
-(117) “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
+(117) “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^13]
 
 কৃষ্ণসঙ্গে পতিব্রতা-ধর্ম্ম নহে নাশ ৷  
 অধিক লাভ পাইয়ে, আর রাস-বিলাস ॥ ১১৮ ॥
@@ -1271,7 +1271,7 @@ the women  of the king of serpents  like the coils  to the arms  attached  in mi
 vayam api te samāḥ samadṛśo ’ṅghri-saroja-sudhāḥ  
 we  also  of You  equal  who see all equally  of the lotus feet  the nectar
 
-(123) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we, the Śrutis, are equal to them, for You see all equally.” (Śrīmad-Bhāgavatam, 10.87.23)
+(123) “That which the sages worship in the heart, having restrained breath, mind and senses in firm yoga, Your enemies attained simply by remembering You. The women whose minds were fixed on Your arms, like the coils of the king of serpents, attained the nectar of Your lotus feet; and we too, having become like them, taste that nectar, for You look upon all alike.” (Śrīmad-Bhāgavatam, 10.87.23)
 
 শ্রুতি পায়, লক্ষ্মী না পায়, ইথে কি কারণ ৷  
 ভট্ট কহে, — ইহা প্রবেশিতে নারে মোর মন ॥ ১২৪ ॥
@@ -1365,7 +1365,7 @@ for the jñānīs  and  for those who realized the self
 yathā bhakti-matām iha  
 as  for those who have devotion  here
 
-(132) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by jñānīs who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
+(132) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
 
 শ্রুতিগণ গোপীগণের অনুগত হঞা ৷  
 ব্রজেশ্বরীসুত ভজে গোপীভাব লঞা ॥ ১৩৩ ॥
@@ -1375,7 +1375,7 @@ the Śrutis  of the gopīs  followers  becoming
 vrajeśvarī-suta bhaje gopī-bhāva lañā  
 the son of Vraja’s queen  they worship  the mood of the gopīs  taking
 
-(133) The Śrutis became followers of the gopīs and worshiped the son of the queen of Vraja, taking on the mood of the gopīs.
+(133) The Śrutis became followers of the gopīs and worshiped the son of the queen of Vraja, taking on the mood of the gopīs.[^14]
 
 বাহ্যান্তরে গোপীদেহ ব্রজে যবে পাইল ৷  
 সেই দেহে কৃষ্ণসঙ্গে রাসক্রীড়া কৈল ॥ ১৩৪ ॥
@@ -1479,7 +1479,7 @@ by the enemies of Indra  troubled  the world
 mṛḍayanti yuge yuge  
 make happy  in age  after age
 
-(143) “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)
+(143) “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)[^15]
 
 নারায়ণ হৈতে কৃষ্ণের অসাধারণ গুণ ৷  
 অতএব লক্ষ্মীর কৃষ্ণে তৃষ্ণা অনুক্ষণ ॥ ১৪৪ ॥
@@ -1513,7 +1513,7 @@ by rasa  excels  of Kṛṣṇa
 rūpam eṣā rasa-sthitiḥ  
 the form  such  of rasa  the nature
 
-(146) “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)
+(146) “By siddhānta there is no difference between the forms of the Lord of Śrī and of Kṛṣṇa. Yet in rasa the form of Kṛṣṇa excels: such is the nature of rasa.” (Bhakti-rasāmṛta-sindhu, 1.2.59)[^16]
 
 ‘স্বয়ং ভগবান্ কৃষ্ণ’ হরে লক্ষ্মীর মন ৷  
 গোপীকার মন হরিতে নারে ‘নারায়ণ’ ॥ ১৪৭ ॥
@@ -1559,7 +1559,7 @@ when He reveals  of Viṣṇu  even  a form  in Him  with arms  victorious
 yāsāṁ hanta caturbhir adbhuta-ruciṁ rāgodayaḥ kuñcati  
 whose  alas  four  of wondrous splendour  the rise of love  shrinks
 
-(150) “What wise man can fathom the ways of the gopīs’ love for the son of the cowherd king — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)
+(150) “What wise man can fathom the ways of the gopīs’ love for the son of the cowherd king — a love that moves on a path beyond comprehension? For even when He reveals a form of Viṣṇu, wondrous in its splendour, with four victorious arms, their love, alas, shrinks back.” (Lalita-mādhava, 6.14)[^17]
 
 এত কহি’ প্রভু তাঁর গর্ব্ব চূর্ণ করিয়া ৷  
 তাঁরে সুখ দিতে কহে সিদ্ধান্ত ফিরাইয়া ॥ ১৫১ ॥
@@ -1589,7 +1589,7 @@ Kṛṣṇa and Nārāyaṇa  just as  one and the same  form
 gopī-lakṣmī-bheda nāhi haya eka-rūpa  
 between the gopīs and Lakṣmī  difference  there is no  they are  of one form
 
-(153) Just as Kṛṣṇa and Nārāyaṇa are one and the same form, so there is no difference between the gopīs and Lakṣmī: they are one in form.
+(153) Just as Kṛṣṇa and Nārāyaṇa are one and the same Person, so there is no difference between the gopīs and Lakṣmī: they are one in form.
 
 একই বিগ্রহে করে নানাকার রূপ ৷  
 গোপী-লক্ষ্মী-ভেদ নাহি, জানিহ ‘স্বরূপ’ ॥ ১৫৪ ॥
@@ -1826,7 +1826,7 @@ Mahāprabhu  seeing  of the two  arose  joy
 (176) Śiva and Durgā lived there in the guise of a brāhmaṇa couple. Seeing Mahāprabhu, both were overjoyed.
 
 তিন দিন ভিক্ষা দিল করি’ নিমন্ত্রণ ৷  
-নিভৃতে বসি’ গুপ্তবার্ত্তা কহে দুইজন ॥ ১৭৭ ॥
+নিভৃতে বসি’ গুপ্তবার্ত্তা কহে দুই জন ॥ ১৭৭ ॥
 
 tina dina bhikṣā dila kari’ nimantraṇa  
 three  days  meal  they gave  making  invitation  
@@ -1906,3 +1906,17 @@ midday  has come  why  cooking  there is not
 [^9]: *Anubhāṣya*: the Buddhist śāstras do not follow the path of *śruti*, Vedic revelation, and so the Lord refutes them by logic alone.
 
 [^10]: *Amṛta-pravāha-bhāṣya*: the Buddhists have two paths, the *hīnayāna* and the *mahāyāna*, and both start from nine tenets: the universe is beginningless and so has no Īśvara; the world is unreal; the truth is the “I”; rebirth and the other world are real; Buddha alone is the way to know the truth; *nirvāṇa* is the highest truth; Buddhist philosophy alone is true; the Vedas were composed by men; the Buddhist life is the practice of true dharma — compassion and the like.
+
+[^11]: *Anubhāṣya* (on verse 358): instead of “having seen the goddess Bhairavī at Śiyālī” one should read “having seen Śrī Bhū-varāha at Śiyālī”: near Śiyālī and Chidambaram, in the famous temple of Śrīmuṣṇam, abides the Deity of Śrī Bhū-varāhadeva, not Bhairavī-devī. The edition leaves the text of the verse unchanged.
+
+[^12]: *Amṛta-pravāha-bhāṣya*: Nārāyaṇa is Kṛṣṇa’s form for pastimes (*vilāsa-mūrti*); He has four arms rather than two, but in His essential nature (*svarūpa*) He is not different from Kṛṣṇa. There is grace in Nārāyaṇa, but not pastimes full of artfulness (*vaidagdhya*) as in Kṛṣṇa.
+
+[^13]: *Anubhāṣya*: in essence Nārāyaṇa and Kṛṣṇa are not different, but in rasa it is the form of Kṛṣṇa that excels; see Ādi, chapters 2 and 3, and the *Laghu-bhāgavatāmṛta*.
+
+[^14]: *Amṛta-pravāha-bhāṣya*: the Śrutis could not enter the *rāsa* circle while they took the gopīs’ mood only in the heart; when they took it both in body and in heart, they followed the gopīs and entered Kṛṣṇa’s *rāsa* dance. Lakṣmī, however, prayed for Kṛṣṇa’s company in her own body and did not serve Him by following the gopīs’ love, and so she did not attain the *rāsa* pastimes.
+
+[^15]: The same verse as Ādi 2.67 and Ādi 5.79; translation as there.
+
+[^16]: The same verse as 117.
+
+[^17]: The same verse as Ādi 17.281; translation as there.
