@@ -66,3 +66,22 @@ The Lord said, “O *ācārya* of the Tattvavādīs, the conclusions of your *sa
 
 Mahāprabhu's elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received the name “Śaṅkarāraṇya Svāmī.” While traveling through the land, he attained perfection (*siddhi*) at the holy place of Pāṇḍarapura, that is, he entered the spiritual abode. This news was given to Mahāprabhu by Śrī Raṅga Purī, a disciple of Mādhavendra Purī and a godbrother of Īśvara Purī.
 
+## 347
+
+***Pāṇḍāpāla.*** Those who perform *pūjā* to Śrī Jagannātha are *pāṇḍās*; those who do other kinds of service are “*paśupālas*.” The two words together have become *pāṇḍāpāla*.
+
+## 355–357
+
+In the eighth act of the *Śrī Caitanya-candrodaya-nāṭaka* the conversation of Sārvabhauma and Śrī Kṛṣṇa Caitanya is written thus.
+
+Śrī Kṛṣṇa Caitanya: “Sārvabhauma, I have traveled so far, yet I have met no one like you — only Rāmānanda Rāya, and he is truly extraordinary.”
+
+Sārvabhauma: “My Lord, that is why I said You must certainly see him.”
+
+Śrī Kṛṣṇa Caitanya: “I did see a few Vaiṣṇavas, but they too are only worshipers of Nārāyaṇa. Others are Tattvavādīs, and they are of the same kind: their doctrine is not faultless. The rest are mostly Śaivas, and the *pāṣaṇḍīs* are very powerful and numerous. But, Bhaṭṭācārya, only Rāmānanda's view is dear to Me.”
+
+## 361–362
+
+With natural compassion for other *jīvas* — that is, giving up altogether any hostility toward them (attempts, rooted in the urge to enjoy, to turn them away from Kṛṣṇa) — say with your lips, “Hari! Hari!” (Apart from this) in the age of Kali there is no other *dharma*: to serve pure Vaiṣṇavas and to read the scriptures of pure Vaiṣṇavas is the *jīva*'s only *dharma*.
+
+*Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*

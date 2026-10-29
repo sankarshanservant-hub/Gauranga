@@ -633,6 +633,82 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 
 > Subheading: Together with everyone the Lord goes for *darśana* of Jagannātha —
 
+## 346
+
+> Subheading: The Lord is overwhelmed with divine emotion —
+
+## 347
+
+> Subheading: The Lord dances and sings —
+
+## 348
+
+> Subheading: The Lord becomes calm —
+
+## 349
+
+> Subheading: Meeting Kāśī Miśra —
+
+## 350
+
+> Subheading: At midday the Bhaṭṭācārya feeds the Lord and His companions —
+
+## 353
+
+> Subheading: The Lord rests, and the Bhaṭṭācārya massages His feet —
+
+***Bhikṣā karāñā*** means having fed Śrīman Mahāprabhu.
+
+## 354
+
+> Subheading: A night in the Bhaṭṭācārya's house —
+
+## 355
+
+> Subheading: The Lord tells of His pilgrimage, and everyone stays up all night listening —
+
+## 356
+
+> Subheading: The Lord praises Sārvabhauma and Rāya —
+
+## 358
+
+> Subheading: In this book the Lord's pilgrimage is described only briefly —
+
+In verse 74 of this chapter, instead of the reading “having had *darśana* of Bhairavī Devī at Śiyālī,” it should be “having had *darśana* of Śrī Bhū-varāha at Śiyālī.” Near Śiyālī and Chidambaram stands the famous temple of “Śrīmuṣṇam.” The Deity of Śrī Bhū-varāhadeva resides there. Near Śiyālī, in the South Arcot district, in the Chidambaram *tāluk*, it is “Śrī Bhū-varāhadeva” who resides, not “Bhairavī Devī.”
+
+## 359
+
+> Subheading: The author's longing to describe Caitanya's pastimes —
+
+***Lajjā khāñā*** means casting off all shame; ***tāra*** means of Śrī Caitanya's pastimes.
+
+## 360
+
+> Subheading: The fruit of hearing how the Lord delivered people on the pretext of pilgrimage —
+
+The *pañcopāsakas* (worshipers of five deities) attribute worshipability to things manifest in the world and accessible to the knowledge of the material senses. But the *Śrīmad-Bhāgavatam* and Śrī Kṛṣṇa Caitanyadeva do not call “the highest goal” (*paramārtha*) what is known by such sense-born (*akṣaja*) knowledge devoted to pleasing the senses. The Māyāvādī *ahaṅgrahopāsakas*, who worship themselves as God, cut off the hands, feet, and so on of the Supreme Reality and, deluded, call an indefinable “sky-flower” *adhokṣaja*. Sometimes by the word *upāsya* (object of worship) they mean a featureless state devoid of variety and “covered by darkness,” or the wild dance (*tāṇḍava*) of inertness. Śrī Gaurasundara, on the basis of the teaching of inconceivable oneness and difference (*acintya-bhedābheda*) established by the *Śrīmad-Bhāgavatam*, showed the futility of the experience of such *karmīs*, *jñānīs*, and *yogīs*. In doing so He everywhere saw only Bhagavān — the Reality in which the name, form, qualities, and pastimes of the nondual Knowledge are revealed. The way non-Vaiṣṇavas see Śiva and various other gods, or Śākyasiṁha (“Dharma,” “Saṅgha,” and “Buddha”), is not Vaiṣṇava vision. To make this known Mahāprabhu saw only the *adhokṣaja*. External, sense-born (*akṣaja*) vision stands in complete opposition to seeing the *adhokṣaja* by the soul's own faculty (*ātma-vṛtti*). This is what the servants of Gaura must follow. The *prākṛta-sahajiyās* say that seeing Gopījana-vallabha in the hearts of the *gopīs*, Kṛṣṇa's associates, is “the same as” or “equal to” seeing various gods such as “Mahāmāyā,” an instrument of enjoyment — and so fall into the pit of *vivarta*. Argumentative *haitukas*, unable to grasp the path of *śruti*, become “henotheists,” or *pañcopāsakas*. They meditate on the five worshipable gods as one among the many manifestations of power in the external world, believe one of the five to be “Parameśvara,” and, though the others are of the same kind, rank them lower and disregard them. This seeing of symbols (*pratīka*) of the featureless Brahman throughout the universe is “*pañcopāsanā*.” Such vision belongs to idolatry (*pauttalikatā-vāda*), that is, to the worship of images (*pratimā-pūjā*); later it turned into the Māyāvādīs' “*nirviśeṣa-vāda*.” Only from a famine of seeing Kṛṣṇa does a *jīva* become a non-Vaiṣṇava — a *pañcopāsaka*, and sometimes an atheist. But Mahāprabhu, as it is said, “sees the moving and the nonmoving but does not see their forms; everywhere the form of His worshipable Lord appears.”[^360-1]
+
+## 361
+
+> Subheading: Firm faith in Kṛṣṇa Caitanya and *hari-saṅkīrtana* with a heart free of cheating are the *jīva*'s only highest *dharma* —
+
+## 362
+
+> Subheading: Apart from this, “there is no other path to the goal”[^362-1] —
+
+The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures is this: when a *jīva* hears Śrī Caitanya's pastimes with faith and devotion, no envy (*mātsarya*) can remain in him. In the age of Kali, for the pure *jīva* free from envy, the only eternal *dharma* is to take shelter of Śrī Gaura's feet and chant *harināma*. The Vaiṣṇava is the pure devotee, the *mahājana*, or the experience of the wise (*vidvad-anubhava*); the Vaiṣṇava scripture is *śruti*, or the testimony of revelation (*śabda-pramāṇa*). To follow both is to stand on the path of *śruti*. For anyone who seeks the ultimate good there is no other means. (*Śrīmad-Bhāgavatam* 11.19.17) — “*Śruti*, direct perception, tradition, and inference are the four sources of knowledge (*pramāṇas*). Seeing that the *pramāṇas* have no stability and that they disagree, one becomes detached.”
+
+## 363
+
+> Subheading: The pastimes of Śrī Śrī Caitanyacandra have no equal and none higher; their depth, and the author's humility —
+
+## 364
+
+> Subheading: Only by deepening in Caitanya does one attain love for Kṛṣṇa —
+
+*Thus ends the ninth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^218-1]: The edition prints the section number as “১১৮” (118); by content it belongs to verse 218.
@@ -652,4 +728,8 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 [^273-1]: The succession list appears in the *Anubhāṣya* to verse 245 (in the edition that section is marked “২৪৫”).
 
 [^273-2]: So in the edition (“রঘুবীর্য্যতীর্থ”); in the succession list and in the subheading to verse 254, “Raghuvarya.”
+
+[^360-1]: *Caitanya-caritāmṛta*, Madhya 8.273 (numbering of Vṛndāvana Candra Dāsa's translation); the edition quotes it with a slight variant.
+
+[^362-1]: *Śvetāśvatara Upaniṣad* 3.8.
 
