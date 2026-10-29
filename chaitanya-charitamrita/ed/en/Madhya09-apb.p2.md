@@ -34,3 +34,19 @@ The nine kinds of *sādhana-bhakti*, beginning with hearing and chanting, awaken
 
 Scriptures that establish *karma* contain, in many places, instruction in *karma* and praise of it, yet in the end all the *śāstras* censure *karma* and prescribe giving it up. Neither by *karma* nor by offering *karma* can loving devotion to Kṛṣṇa ever be attained. The point is this: offering *karma* and the like purifies the heart. When the heart is purified, by the power of the company of *sādhus* (*sat-saṅga*) faith (*śraddhā*) in exclusive devotion to Kṛṣṇa arises. When faith arises, *sādhana-bhakti* begins — hearing, chanting, and the rest. The more one is freed from *anarthas* while practicing devotion — hearing, chanting, and the rest — the higher *prema* rises. Therefore *karma* or offering *karma* by no means always and inevitably awakens devotion to Kṛṣṇa. For (pure devotion to Kṛṣṇa) depends on faith whose sign is the birth of [the eagerness] to hear, born of the company of *sādhus*.
 
+## 266
+
+Until detachment (*nirveda*) has arisen on the path of *karma*, or faith in hearing about Me and the like has been born, let the *nitya* and *naimittika karma* (regular and occasional duties) and the rest be performed.
+
+## 267
+
+(You) have heard the conclusion of the *śāstras* about *karma* that obstructs devotion. Now see: devotees must surely give up the thirst for the five kinds of liberation, for they regard liberation as worthless as hell.
+
+## 269
+
+Mahārāja Bharata did not desire property, sons, relatives, wealth, or wife, so hard to give up, nor even royal fortune (Lakṣmī) with her kindly glance, whom the chief demigods long for. That was indeed fitting for him. For to *sādhus* like him, whose minds are devoted to serving Kṛṣṇa, even the liberation of *nirvāṇa* is worthless, to say nothing of earthly happiness.
+
+## 270
+
+The devotees of Nārāyaṇa, who see heaven, liberation, and hell as of equal worth, fear nothing at all.
+

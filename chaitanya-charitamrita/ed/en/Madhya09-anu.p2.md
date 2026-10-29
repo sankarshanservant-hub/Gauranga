@@ -280,7 +280,7 @@ The Daitya king Hiraṇyakaśipu, whose only wealth was knowledge born of the se
 
 > Subheading: Love for Kṛṣṇa is the fruit of pure hearing and chanting alone —
 
-*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa's name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu's intention. (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Eternally perfect love for Kṛṣṇa is never something to be produced (*sādhya*); it rises in a heart made pure by hearing and the other practices.”
+*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa's name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu's intention. It is said (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Eternally perfect love for Kṛṣṇa is never something to be produced (*sādhya*); it rises in a heart made pure by hearing and the other practices.”
 
 ## 262
 
@@ -292,7 +292,36 @@ See Ādi 7.94.
 
 > Subheading: The censure of the aim of enjoying fruits; *kāma*[^263-1] does not give rise to *prema* —
 
-Good *karma* is better than bad *karma*, but even from such *karma* loving devotion to Kṛṣṇa never arises. *Karma* is the cause of the *jīva*'s gaining happiness or suffering. And from the *jīva*'s gaining happiness or suffering, devotion cannot arise. Devotion is service for Kṛṣṇa's happiness.
+Good *karma* is better than bad *karma*, but even from such *karma* loving devotion to Kṛṣṇa never arises. *Karma* is the cause of the *jīva*'s gaining happiness or suffering. And from the *jīva*'s gaining happiness or suffering, devotion cannot arise. Devotion is service for Kṛṣṇa's happiness. All the *śāstras*, even the *śāstras* of *jñāna*, censure the aim of one's own enjoyment and prescribe giving it up. The *Śrīmad-Bhāgavatam*, the crown of spotless evidence, discusses and establishes only *naiṣkarmya* (freedom from *karma*) accompanied by pure knowledge, detachment, and devotion. In this Purāṇa, the best of all *śāstras* — at its beginning, in its middle, and at its end, everywhere — *karma* and *jñāna* whose mark is the intent to enjoy utterly trivial fruits are censured. Therefore, deeming it superfluous, we cite no verse here as evidence.
+
+## 264
+
+> Subheading: Service to Hari, for whose sake one gives up *svadharma* —
+
+See Madhya 8.62.
+
+## 265
+
+See Madhya 8.63.
+
+## 266
+
+> Subheading: One who has faith in *hari-kathā* is no longer bound to perform *karma* —
+
+Uddhava was in doubt as to who must perform *karma* and who is entitled to give it up. In reply to his question Śrī Bhagavān said: **yāvatā** **pumān** **na** **nirvidyeta** (as long as *nirveda*, detachment from talk of anything other than Kṛṣṇa, has not arisen), **yāvat** **mat-kathā-śravaṇādau** **vā** **śraddhā** **na** **jāyate**, **tāvat** **karmāṇi** (the *nitya* and *naimittika karma*, pious duties, regular and occasional) **kurvīta**.
+
+## 268
+
+> Subheading: The pure servant of Kṛṣṇa wants pure service to Him, not liberation —
+
+See Ādi 4.207.
+
+## 269
+
+> Subheading: For the pure devotee even liberation is insignificant —
+
+Śrī Śukadeva glorifies before Mahārāja Parīkṣit the virtues of the *mahā-bhāgavata* Bharata — his pure service to Bhagavān: **yaḥ** **nṛpaḥ** (the royal sage Bharata) **dustyajān** (hard to give up) **kṣiti-suta-svajanārtha-dārān** (land, sons, relatives, wealth, wife, and the rest), **sura-varaiḥ** (even by the best of the demigods) **prārthyāṁ** (desired) **śriyaṁ** (Lakṣmī) **sadayāvalokām** (she whose glance is such that it awakens Bharata's kindness; or else
+
 ---
 
 [^218-1]: The edition prints the section number as “১১৮” (118); by content it belongs to verse 218.
