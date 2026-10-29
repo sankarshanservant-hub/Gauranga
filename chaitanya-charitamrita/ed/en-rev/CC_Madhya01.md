@@ -1480,6 +1480,580 @@ of the Ratha-yātrā  at the sight  the Lord’s  dancing
 
 (143) Taking everyone, He cleansed the Guṇḍicā temple, and at the Ratha-yātrā the Lord danced.
 
+উপবনে কৈল প্রভু বিবিধ বিলাস ৷  
+প্রভুর অভিষেক কৈল বিপ্র কৃষ্ণদাস ॥ ১৪৪ ॥
+
+upavane kaila prabhu vividha vilāsa  
+in the gardens  did  the Lord  various  pastimes  
+prabhura abhiṣeka kaila vipra kṛṣṇadāsa  
+the Lord’s  ceremonial bath  performed  the brāhmaṇa  Kṛṣṇadāsa
+
+(144) In the gardens the Lord enjoyed various pastimes, and the brāhmaṇa Kṛṣṇadāsa performed His ceremonial bath (*abhiṣeka*).[^23]
+
+গুণ্ডিচাতে নৃত্য-অন্তে কৈল জলকেলি ৷  
+হেরা-পঞ্চমী দেখিল লক্ষ্মীদেবীর কেলি ॥ ১৪৫ ॥
+
+guṇḍicāte nṛtya-ante kaila jala-keli  
+at Guṇḍicā  dancing-  -after  He did  water sports  
+herā-pañcamī dekhila lakṣmī-devīra kelī  
+on Herā-pañcamī  He saw  of Lakṣmī-devī  the pastime
+
+(145) At Guṇḍicā, after dancing, He played in the water, and on Herā-pañcamī He watched the pastime of the goddess Lakṣmī.
+
+কৃষ্ণজন্ম-যাত্রাতে প্রভু গোপবেশ হৈলা ৷  
+দধিভার বহি’ তবে লগুড় ফিরাইলা ॥ ১৪৬ ॥
+
+kṛṣṇa-janma-yātrāte prabhu gopa-veśa hailā  
+at the festival of Kṛṣṇa’s birth  the Lord  in a cowherd’s dress  was  
+dadhi-bhāra vahi’ tabe laguḍa phirāilā  
+a load of yogurt  carrying  then  a staff  He twirled
+
+(146) At the festival of Kṛṣṇa’s birth the Lord dressed as a cowherd; He carried a yoke laden with pots of yogurt and then twirled a staff.
+
+গৌড়ের ভক্তগণে তবে করিল বিদায় ৷  
+সঙ্গের ভক্ত লঞা করে কীর্ত্তন সদায় ॥ ১৪৭ ॥
+
+gauḍera bhakta-gaṇe tabe karila vidāya  
+of Gauḍa  the devotees  then  He gave  leave  
+saṅgera bhakta lañā kare kīrtana sadāya  
+of His company  the devotees  taking  He does  kīrtana  always
+
+(147) Then He bade farewell to the devotees of Gauḍa, and with the devotees who stayed with Him He held kīrtana constantly.
+
+বৃন্দাবন যাইতে কৈল গৌড়েরে গমন ৷  
+প্রতাপরুদ্র কৈল পথে বিবিধ সেবন ॥ ১৪৮ ॥
+
+vṛndāvana yāite kaila gauḍere gamana  
+to Vṛndāvana  in order to go  He made  to Gauḍa  the journey  
+pratāparudra kaila pathe vividha sevana  
+Pratāparudra  rendered  on the way  various  services
+
+(148) Intending to go to Vṛndāvana, He set out for Gauḍa, and on the way Pratāparudra served Him in many ways.
+
+পুরীগোসাঞি-সঙ্গে বস্ত্রপ্রদান-প্রসঙ্গ ৷  
+রামানন্দ রায় আইলা ভদ্রক পর্য্যন্ত ॥ ১৪৯ ॥
+
+purī-gosāñi-saṅge vastra-pradāna-prasaṅga  
+with Purī Gosāñi  of the giving of cloth  the episode  
+rāmānanda rāya āilā bhadraka paryanta  
+Rāmānanda  Rāya  came  Bhadraka  as far as
+
+(149) Then came the episode of the gift of cloth with Purī Gosāñi, and Rāmānanda Rāya accompanied Him as far as Bhadraka.
+
+আসি’ বিদ্যাবাচস্পতির গৃহেতে রহিলা ৷  
+প্রভুরে দেখিতে লোকসংঘট্ট হইলা ॥ ১৫০ ॥
+
+āsi’ vidyā-vācaspatira gṛhete rahilā  
+coming  of Vidyā-vācaspati  in the house  He stayed  
+prabhure dekhite loka-saṅghaṭṭa hailā  
+the Lord  to see  of people  a throng  formed
+
+(150) Arriving in Bengal, He stayed in the house of Vidyā-vācaspati, and crowds of people gathered to see Him.
+
+পঞ্চদিন দেখে লোক নাহিক বিশ্রাম ৷  
+লোকভয়ে রাত্রে প্রভু আইলা কুলিয়া-গ্রাম ॥ ১৫১ ॥
+
+pañca dina dekhe loka nāhika viśrāma  
+five  days  they look  the people  there is no  rest  
+loka-bhaye rātre prabhu āilā kuliyā-grāma  
+for fear of the crowds  at night  the Lord  came  to the village of Kuliyā
+
+(151) For five days people kept coming to see Him without pause; to escape the crowds, the Lord went at night to the village of Kuliyā.
+
+কুলিয়া-গ্রামেতে প্রভুর শুনিয়া আগমন ৷  
+কোটি কোটি লোক আসি’ কৈল দরশন ॥ ১৫২ ॥
+
+kuliyā-grāmete prabhura śuniyā āgamana  
+in the village of Kuliyā  of the Lord  hearing  of the arrival  
+koṭi koṭi loka āsi’ kaila daraśana  
+millions  upon millions  people  coming  had  sight of Him
+
+(152) Hearing that the Lord had come to Kuliyā, millions upon millions of people came to see Him.
+
+কুলিয়া-গ্রামে কৈল দেবানন্দেরে প্রসাদ ৷  
+গোপাল-বিপ্রেরে ক্ষমাইল শ্রীবাসাপরাধ ॥ ১৫৩ ॥
+
+kuliyā-grāme kaila devānandere prasāda  
+in the village of Kuliyā  He showed  to Devānanda  grace  
+gopāla-viprere kṣamāila śrīvāsāparādha  
+the brāhmaṇa Gopāla  He forgave  the offense to Śrīvāsa
+
+(153) In Kuliyā He showed His grace to Devānanda and forgave the brāhmaṇa Gopāla his offence against Śrīvāsa.[^24]
+
+পাষণ্ডী নিন্দক আসি’ পড়িলা চরণে ৷  
+অপরাধ ক্ষমি’ তারে দিল কৃষ্ণপ্রেমে ॥ ১৫৪ ॥
+
+pāṣaṇḍī nindaka āsi’ paḍilā caraṇe  
+heretics  blasphemers  coming  fell  at His feet  
+aparādha kṣami’ tāre dila kṛṣṇa-preme  
+the offenses  forgiving  to them  He gave  love for Kṛṣṇa
+
+(154) Unbelievers and blasphemers came and fell at His feet; He forgave their offences and gave them love for Kṛṣṇa.
+
+বৃন্দাবন যাবেন প্রভু শুনি’ নৃসিংহানন্দ ৷  
+পথ সাজাইল মনে করিয়া আনন্দ ॥ ১৫৫ ॥
+
+vṛndāvana yābena prabhu śuni’ nṛsiṁhānanda  
+to Vṛndāvana  will go  the Lord  hearing  Nṛsiṁhānanda  
+patha sājāila mane kariyā ānanda  
+the road  decorated  in his mind  feeling  joy
+
+(155) When Nṛsiṁhānanda heard that the Lord would go to Vṛndāvana, he joyfully decorated the road in his mind.
+
+কুলিয়া নগর হৈতে পথ রত্নে বান্ধাইল ৷  
+নিবৃন্ত পুষ্পশয্যা উপরে পাতিল ॥ ১৫৬ ॥
+
+kuliyā nagara haite patha ratne bāndhāila  
+Kuliyā  town  from  the road  with jewels  he paved  
+nivṛnta puṣpa-śayyā upare pātila  
+stemless  of flowers  a bed  on top  he spread
+
+(156) From the town of Kuliyā he paved the road with jewels and spread over it a bed of flowers with their stems removed.
+
+পথে দুইদিকে পুষ্পবকুলের শ্রেণী ৷  
+মধ্যে মধ্যে দুই পাশে দিব্য পুষ্করিণী ॥ ১৫৭ ॥
+
+pathe dui dike puṣpa-bakulera śreṇī  
+along the road  on two  sides  of flowering bakula trees  rows  
+madhye madhye dui-pāśe divya puṣkariṇī  
+here  and there  on both sides  divine  ponds
+
+(157) On both sides of the road stood rows of flowering *bakula* trees, and here and there on either side lay divine ponds.
+
+রত্নবন্ধ-ঘাট তাহে প্রফুল্ল কমল ৷  
+নানা পক্ষি-কোলাহল, সুধা-সম জল ॥ ১৫৮ ॥
+
+ratna-bandha-ghāṭa tāhe praphulla kamala  
+jewel-  -built  bathing steps  in them  blooming  lotuses  
+nānā pakṣi-kolāhala, sudhā-sama jala  
+various  the chatter of birds  nectar-  -like  water
+
+(158) Their bathing steps were set with jewels, and lotuses bloomed in them; many birds chattered, and the water was like nectar.
+
+শীতল সমীর বহে নানা গন্ধ লঞা ৷  
+‘কানাইর নাটশালা’ পর্য্যন্ত লৈল বাধিঞা ॥ ১৫৯ ॥
+
+śītala samīra vahe nānā gandha lañā  
+cool  breeze  blows  various  fragrances  carrying  
+‘kānāira nāṭaśālā’ paryanta laila bādhiñā  
+Kānāi’s  Nāṭaśālā  as far as  he took it  paving
+
+(159) A cool breeze blew, bearing many fragrances. Thus he paved the road as far as Kānāi’s Nāṭaśālā.
+
+আগে মন নাহি চলে, না পারে বান্ধিতে ৷  
+পথবান্ধা না যায়, নৃসিংহ হৈলা বিস্মিতে ॥ ১৬০ ॥
+
+āge mana nāhi cale, nā pāre bāndhite  
+further  the mind  not  goes  not  can  pave  
+patha-bāndhā nā yāya, nṛsiṁha hailā vismite  
+the road-  -paving  not  goes on  Nṛsiṁha  became  astonished
+
+(160) Beyond that his mind would not move on, and he could pave no further. The road would go no further, and Nṛsiṁhānanda was astonished.
+
+নিশ্চয় করিয়া কহি, শুন, ভক্তগণ ৷  
+এবার না যাবেন প্রভু শ্রীবৃন্দাবন ॥ ১৬১ ॥
+
+niścaya kariyā kahi, śuna, bhakta-gaṇa  
+certainty  making  I say  hear  O devotees  
+ebāra nā yābena prabhu śrī-vṛndāvana  
+this time  not  will go  the Lord  to Śrī Vṛndāvana
+
+(161) “I tell you with certainty — listen, O devotees: this time the Lord will not go to Śrī Vṛndāvana.
+
+‘কানাঞির নাটশালা’ হইতে আসিব ফিরিঞা ৷  
+জানিবে পশ্চাৎ, কহিলুঁ নিশ্চয় করিঞা ॥ ১৬২ ॥
+
+‘kānāñira nāṭaśālā’ haite āsiba phiriñā  
+Kānāi’s  Nāṭaśālā  from  He will come  turning back  
+jānibe paścāt, kahilum̐ niścaya kariñā  
+you will know  later  I have spoken  certainty  making
+
+(162) He will turn back from Kānāi’s Nāṭaśālā. You will see it later; I have said this with certainty.”[^25]
+
+গোসাঞি কুলিয়া হৈতে চলিলা বৃন্দাবন ৷  
+সঙ্গে সহস্রেক লোক যত ভক্তগণ ॥ ১৬৩ ॥
+
+gosāñi kuliyā haite calilā vṛndāvana  
+the Gosāñi  Kuliyā  from  set out  for Vṛndāvana  
+saṅge sahasreka loka yata bhakta-gaṇa  
+with Him  thousands of  people  all  devotees
+
+(163) The Lord set out from Kuliyā for Vṛndāvana, and thousands of people went with Him, all of them devotees.
+
+যাঁহা যায় প্রভু, তাঁহা কোটিসংখ্য লোক ৷  
+দেখিতে আইসে, দেখি’ খণ্ডে দুঃখ-শোক ॥ ১৬৪ ॥
+
+yām̐hā yāya prabhu, tām̐hā koṭi-saṅkhya loka  
+wherever  goes  the Lord  there  numbering millions  people  
+dekhite āise, dekhi’ khaṇḍe duḥkha-śoka  
+to see  come  seeing  is broken  sorrow and grief
+
+(164) Wherever the Lord went, people came by the millions to see Him, and seeing Him, they were freed from sorrow and grief.
+
+যাঁহা যাঁহা প্রভুর চরণ পড়য়ে চলিতে ৷  
+সে মৃত্তিকা লয় লোক, গর্ত্ত হয় পথে ॥ ১৬৫ ॥
+
+yām̐hā yām̐hā prabhura caraṇa paḍaye calite  
+wherever  wherever  the Lord’s  foot  falls  while walking  
+se mṛttikā laya loka, garta haya pathe  
+that  earth  take  people  pits  form  in the road
+
+(165) Wherever the Lord’s feet touched the ground as He walked, people took away that earth, leaving pits in the road.
+
+ঐছে চলি’ আইলা প্রভু ‘রামকেলি’ গ্রাম ৷  
+গৌড়ের নিকট গ্রাম অতি অনুপম ॥ ১৬৬ ॥
+
+aiche cali’ āilā prabhu ‘rāmakeli’ grāma  
+thus  walking  came  the Lord  Rāmakeli  village  
+gauḍera nikaṭa grāma ati anupama  
+of Gauḍa  near  a village  very  incomparable
+
+(166) Walking on in this way, the Lord came to the village of Rāmakeli, a village of incomparable beauty near Gauḍa.[^26]
+
+তাঁহা নৃত্য করে প্রভু প্রেমে অচেতন ৷  
+কোটি কোটী লোক আইসে দেখিতে চরণ ॥ ১৬৭ ॥
+
+tām̐hā nṛtya kare prabhu preme acetana  
+there  dance  does  the Lord  in love  unconscious  
+koṭi koṭī loka āise dekhite caraṇa  
+millions  upon millions  people  come  to see  His feet
+
+(167) There the Lord danced, losing outer consciousness in love, and millions upon millions of people came to see His feet.
+
+গৌড়াধ্যক্ষ যবন-রাজা প্রভাব শুনিঞা ৷  
+কহিতে লাগিল কিছু বিস্মিত হঞা ॥ ১৬৮ ॥
+
+gauḍādhyakṣa yavana-rājā prabhāva śuniñā  
+of Gauḍa the ruler  the Muslim  king  of His power  hearing  
+kahite lāgila kichu vismita hañā  
+to speak  began  something  amazed  being
+
+(168) Hearing of His power, the Muslim king who ruled Gauḍa was amazed and said:
+
+বিনা দানে এত লোক যাঁর পাছে হয় ৷  
+সেই ত’ গোসাঞা, ইহা জানিহ নিশ্চয় ॥ ১৬৯ ॥
+
+vinā dāne eta loka yām̐ra pāche haya  
+without  gifts  so many  people  whom  behind  are  
+sei ta’ gosāñā, ihā jāniha niścaya  
+that one  indeed  a holy master  this  know  for certain
+
+(169) “One whom so many people follow without being given anything is surely a holy master (*gosāñi*). Know this for certain.
+
+কাজী, যবন ইহার না করিহ হিংসন ৷  
+আপন-ইচ্ছায় বুলুন, যাঁহা উঁহার মন ॥ ১৭০ ॥
+
+kājī, yavana ihāra nā kariha hiṁsana  
+qāzī  Muslims  Him  do not  do  harm  
+āpana-icchāya buluna, yām̐hā um̐hāra mana  
+by His own  will  let Him wander  wherever  His  mind
+
+(170) Let no kazi or any other Muslim trouble Him. Let Him go wherever He pleases.”[^27]
+
+কেশব-ছত্রীরে রাজা বার্ত্তা পুছিল ৷  
+প্রভুর মহিমা ছত্রী উড়াইয়া দিল ॥ ১৭১ ॥
+
+keśava-chatrīre rājā vārtā puchila  
+Keśava Chatrī  the king  for news  asked  
+prabhura mahimā chatrī uḍāiyā dila  
+of the Lord  the glory  Chatrī  blowing away  dismissed
+
+(171) The king asked Keśava Chatrī for news of Him, but Chatrī brushed aside the Lord’s greatness:[^28]
+
+ভিখারী সন্ন্যাসী করে তীর্থ পর্য্যটন ৷  
+তাঁরে দেখিবারে আইসে দুই চারিজন ॥ ১৭২ ॥
+
+bhikhārī sannyāsī kare tīrtha paryaṭana  
+a beggar  sannyāsī  does  of holy places  a tour  
+tām̐re dekhibāre āise dui cāri jana  
+Him  to see  come  two  four  people
+
+(172) “He is a mendicant sannyāsī touring the holy places. Only a handful of people come to see Him.
+
+যবনে তোমার ঠাঞি করয়ে লাগানি ৷  
+তাঁর হিংসায় লাভ নাহি, হয় আর হানি ॥ ১৭৩ ॥
+
+yavane tomāra ṭhāñi karaye lāgāni  
+a Muslim  to you  before  makes  slander  
+tām̐ra hiṁsāya lābha nāhi, haya āra hāni  
+Him  in harming  gain  there is no  there will be  rather  loss
+
+(173) Some Muslim has been slandering Him to you. You gain nothing by harming Him; rather, you would suffer loss.”
+
+রাজারে প্রবোধি’ কেশব, ব্রাহ্মণ পাঠাঞা ৷  
+চলিবার তরে প্রভুকে কহিল যাঞা ॥ ১৭৪ ॥
+
+rājāre prabodhi’ keśava, brāhmaṇa pāṭhāñā  
+the king  pacifying  Keśava  a brāhmaṇa  sending  
+calibāra tare prabhuke kahila yāñā  
+to leave  in order  to the Lord  told  going
+
+(174) Having pacified the king, Keśava sent a brāhmaṇa, who went and asked the Lord to leave.
+
+দবির খাসেরে রাজা পুছিল নিভৃতে ৷  
+গোসাঞির মহিমা তিঁহো লাগিল কহিতে ॥ ১৭৫ ॥
+
+dabira khāsere rājā puchila nibhṛte  
+Dabira  Khāsa  the king  asked  in private  
+gosāñira mahimā tim̐ho lāgila kahite  
+of the Gosāñi  the glory  he  began  to tell
+
+(175) Then the king questioned Dabira Khāsa in private, and he began to tell of the Lord’s greatness:[^29]
+
+যে তোমারে রাজ্য দিল, যে তোমার গোসাঞা ৷  
+তোমার দেশে তোমার ভাগ্যে জন্মিলা আসিঞা ॥ ১৭৬ ॥
+
+ye tomāre rājya dila, ye tomāra gosāñā  
+who  to you  the kingdom  gave  who  your  Lord  
+tomāra deśe tomāra bhāgye janmilā āsiñā  
+in your  country  by your  fortune  was born  coming
+
+(176) “He who gave you your kingdom, He who is your Lord, has come and taken birth in your country by your good fortune.
+
+তোমার মঙ্গল বাঞ্ছে, বাক্য সিদ্ধ হয় ৷  
+ইহার আশীর্ব্বাদে তোমার সর্বত্রই জয় ॥ ১৭৭ ॥
+
+tomāra maṅgala vāñche, vākya siddha haya  
+your  welfare  He desires  words  fulfilled  become  
+ihāra āśīrvāde tomāra sarvatrai jaya  
+by His  blessing  your  everywhere  victory
+
+(177) He desires your welfare, and His words come true; by His blessing you will be victorious everywhere.[^30]
+
+মোরে কেন পুছ, তুমি পুছ আপন-মন ৷  
+তুমি নরাধিপ হও বিষ্ণু-অংশ সম ॥ ১৭৮ ॥
+
+more kena pucha, tumi pucha āpana-mana  
+me  why  you ask  you  ask  your own mind  
+tumi narādhipa hao viṣṇu-aṁśa sama  
+you  a ruler of men  are  a part of Viṣṇu  like
+
+(178) Why do you ask me? Ask your own heart. As a ruler of men you are like a part of Viṣṇu.[^31]
+
+তোমার চিত্তে চৈতন্যেরে কৈছে হয় জ্ঞান ৷  
+তোমার চিত্তে যেই লয়, সেই ত’ প্রমাণ ॥ ১৭৯ ॥
+
+tomāra citte caitanyere kaiche haya jñāna  
+in your  mind  of Caitanya  what kind of  is  knowledge  
+tomāra citte yei laya, sei ta’ pramāṇa  
+in your  mind  whatever  is accepted  that  indeed  the proof
+
+(179) Whatever understanding of Caitanya arises in your heart — whatever your heart accepts — that is the proof.”
+
+রাজা কহে, শুন, মোর মনে যেই লয় ৷  
+সাক্ষাৎ ঈশ্বর, ইঁহা নাহিক সংশয় ॥ ১৮০ ॥
+
+rājā kahe, śuna, mora mane yei laya  
+the king  says  listen  my  mind  what  accepts  
+sākṣāt īśvara, im̐hā nāhika saṁśaya  
+directly  God  of this  there is no  doubt
+
+(180) The king said: “Listen to what my heart accepts: He is God Himself. Of this there is no doubt.”
+
+এত কহি’ রাজা গেলা নিজ অভ্যন্তরে ৷  
+তবে দবির খাস আইলা আপনার ঘরে ॥ ১৮১ ॥
+
+eta kahi’ rājā gelā nija abhyantare  
+thus  saying  the king  went  his own  inner apartments  
+tabe dabira khāsa āilā āpanāra ghare  
+then  Dabira  Khāsa  came  to his own  house
+
+(181) Saying this, the king withdrew to his inner apartments, and Dabira Khāsa returned to his own house.
+
+ঘরে আসি’ দুই ভাই যুকতি করিঞা ৷  
+প্রভু দেখিবারে চলে বেশ লুকাঞা ॥ ১৮২ ॥
+
+ghare āsi’ dui bhāi yukati kariñā  
+at home  coming  the two  brothers  counsel  taking  
+prabhu dekhibāre cale veśa lukāñā  
+the Lord  to see  go  dress  disguising
+
+(182) At home the two brothers took counsel together and went in disguise to see the Lord.
+
+অর্দ্ধরাত্রে দুই ভাই আইলা প্রভু-স্থানে ৷  
+প্রথমে মিলিলা নিত্যানন্দ-হরিদাস সনে ॥ ১৮৩ ॥
+
+ardha-rātre dui bhāi āilā prabhu-sthāne  
+at midnight  the two  brothers  came  to the Lord’s place  
+prathame mililā nityānanda-haridāsa sane  
+first  met  Nityānanda and Haridāsa  with
+
+(183) At midnight the two brothers came to where the Lord was staying. First they met Nityānanda and Haridāsa.
+
+তাঁরা দুই জন জানাইলা প্রভুর গোচরে ৷  
+রূপ, সাকরমল্লিক আইলা তোমা’ দেখিবারে ॥ ১৮৪ ॥
+
+tām̐rā dui-jana jānāilā prabhura gocare  
+they  two  made known  of the Lord  to the notice  
+rūpa, sākara-mallika āilā tomā’ dekhibāre  
+Rūpa  Sākara-mallika  have come  You  to see
+
+(184) These two told the Lord: “Rūpa and Sākara Mallika have come to see You.”[^32]
+
+দুই গুচ্ছ তৃণ দুঁহে দশনে ধরিঞা ৷  
+গলে বস্ত্র বান্ধি’ পড়ে দণ্ডবৎ হঞা ॥ ১৮৫ ॥
+
+dui guccha tṛṇa dum̐he daśane dhariñā  
+two  bunches  of straw  both  in their teeth  holding  
+gale vastra bāndhi’ paḍe daṇḍavat hañā  
+on the neck  a cloth  tying  they fall  like a rod  becoming
+
+(185) Holding bunches of straw between their teeth and with cloths tied around their necks, the two brothers fell flat like rods.
+
+দৈন্য রোদন করে, আনন্দে বিহ্বল ৷  
+প্রভু কহে, — উঠ, উঠ, হইল মঙ্গল ॥ ১৮৬ ॥
+
+dainya rodana kare, ānande vihvala  
+humbly  weeping  they do  with joy  overwhelmed  
+prabhu kahe, — uṭha, uṭha, haila maṅgala  
+the Lord  says  rise  rise  has come  auspiciousness
+
+(186) They wept in humility, overwhelmed with joy. The Lord said, “Rise, rise! Good fortune has come to you.”
+
+উঠি’ দুই ভাই তবে দন্তে তৃণ ধরি’ ৷  
+দৈন্য করি’ স্তুতি করে করযোড় করি’ ॥ ১৮৭ ॥
+
+uṭhi’ dui bhāi tabe dante tṛṇa dhari’  
+rising  the two  brothers  then  in their teeth  straw  holding  
+dainya kari’ stuti kare karayoḍa kari’  
+humility  showing  prayer  they make  joined palms  making
+
+(187) Rising, the two brothers, still holding straw between their teeth, humbly offered prayers with joined palms:
+
+জয় জয় শ্রীকৃষ্ণচৈতন্য দয়াময় ৷  
+পতিতপাবন জয়, জয় মহাশয় ॥ ১৮৮ ॥
+
+jaya jaya śrī-kṛṣṇa-caitanya dayā-maya  
+glory  glory  to Śrī Kṛṣṇa Caitanya  the merciful  
+patita-pāvana jaya, jaya mahāśaya  
+to the savior of the fallen  glory  glory  to the magnanimous
+
+(188) “Glory, glory to Śrī Kṛṣṇa Caitanya, the merciful! Glory to the saviour of the fallen! Glory to the magnanimous Lord!
+
+নীচ-জাতি, নীচ-সঙ্গী, করি নীচ কাজ ৷  
+তোমার অগ্রেতে প্রভু কহিতে বাসি লাজ ॥ ১৮৯ ॥
+
+nīca-jāti, nīca-saṅgī, kari nīca kāja  
+low-born  in low company  we do  low  work  
+tomāra agrete prabhu kahite vāsi lāja  
+of You  before  O Lord  to speak  we feel  shame
+
+(189) We are low-born, we keep low company and do low work; O Lord, we are ashamed even to speak before You.[^33]
+
+মত্তুল্যো নাস্তি পাপাত্মা নাপরাধী চ কশ্চন ৷  
+পরিহারেঽপি লজ্জা মে কিং ব্রুবে পুরুষোত্তম ॥ ১৯০ ॥
+
+mat-tulyo nāsti pāpātmā  
+like me  there is not  a sinner  
+nāparādhī ca kaścana  
+nor an offender  and  anyone  
+parihāre ‘pi lajjā me  
+in asking pardon  even  shame  mine  
+kiṁ bruve puruṣottama  
+what  shall I say  O Puruṣottama
+
+(190) “There is no sinner like me, nor any offender like me. O Puruṣottama, I am ashamed even to ask forgiveness; what more can I say?” (Bhakti-rasāmṛta-sindhu, 1.2.154)[^34]
+
+পতিত-পাবন-হেতু তোমার অবতার ৷  
+আমা-বই জগতে, পতিত নাহি আর ॥ ১৯১ ॥
+
+patita-pāvana-hetu tomāra avatāra  
+for delivering the fallen  the purpose  Your  descent  
+āmā-bai jagate, patita nāhi āra  
+except us  in the world  fallen  there is not  other
+
+(191) You descended to deliver the fallen, and in all the world there are none more fallen than we.
+
+জগাই-মাধাই — দুই করিলে উদ্ধার ৷  
+তাহাঁ উদ্ধারিতে শ্রম নহিল তোমার ॥ ১৯২ ॥
+
+jagāi-mādhāi — dui karile uddhāra  
+Jagāi and Mādhāi  the two  You made  deliverance  
+tāhām̐ uddhārite śrama nahila tomāra  
+them  to deliver  effort  there was not  for You
+
+(192) You delivered the two brothers Jagāi and Mādhāi, but delivering them cost You no effort.
+
+ব্রাহ্মণ জাতি তারা, নবদ্বীপে ঘর ৷  
+নীচ-সেবা নাহি করে, নহে নীচের কূর্পর ॥ ১৯৩ ॥
+
+brāhmaṇa jāti tārā, navadvīpe ghara  
+brāhmaṇas  by birth  they  in Navadvīpa  home  
+nīca-sevā nāhi kare, nahe nīcera kūrpara  
+the low  service  not  they do  not are  of the low  the elbow
+
+(193) They were brāhmaṇas by birth and lived in Navadvīpa. They did not serve low people, nor were they the low people’s “elbow” (their instruments).
+
+সবে এক দোষ তার, হয় পাপাচার ৷  
+পাপরাশি দহে নামাভাসেই তোমার ॥ ১৯৪ ॥
+
+sabe eka doṣa tāra, haya pāpācāra  
+only  one  fault  theirs  was  sinful conduct  
+pāpa-rāśi dahe nāmābhāsei tomāra  
+heaps of sin  burns  by the mere semblance of the name  Your
+
+(194) Their only fault was sinful conduct, and even the semblance of Your name (*nāmābhāsa*) burns up heaps of sin.[^35]
+
+তোমার নাম লঞা তোমার করিল নিন্দন ৷  
+সেই নাম হইল তার মুক্তির কারণ ॥ ১৯৫ ॥
+
+tomāra nāma lañā tomāra karila nindana  
+Your  name  taking  You  they did  blasphemy  
+sei nāma haila tāra muktira kāraṇa  
+that  name  became  their  of liberation  the cause
+
+(195) They uttered Your name while blaspheming You, and that very name became the cause of their liberation.
+
+জগাই-মাধাই হৈতে কোটি কোটি গুণ ৷  
+অধম পতিত পাপী আমি দুই জন ॥ ১৯৬ ॥
+
+jagāi-mādhāi haite koṭi koṭi guṇa  
+Jagāi and Mādhāi  than  millions  of millions  times  
+adhama patita pāpī āmi dui jana  
+lower  fallen  sinful  we  two  persons
+
+(196) We two are millions of times lower, more fallen and more sinful than Jagāi and Mādhāi.
+
+ম্লেচ্ছজাতি, ম্লেচ্ছসঙ্গী, করি ম্লেচ্ছকর্ম্ম ৷  
+গো-ব্রাহ্মণ-দ্রোহি-সঙ্গে আমার সঙ্গম ॥ ১৯৭ ॥
+
+mleccha-jāti, mleccha-saṅgī, kari mleccha-karma  
+mlecchas by birth  in the company of mlecchas  we do  mleccha deeds  
+go-brāhmaṇa-drohi-saṅge āmāra saṅgama  
+with enemies of cows and brāhmaṇas  our  association
+
+(197) We are mlecchas by birth, keep the company of mlecchas and do the deeds of mlecchas; we associate with the enemies of cows and brāhmaṇas.[^36]
+
+মোর কর্ম্ম, মোর হাতে-গলায় বান্ধিঞা ৷  
+কুবিষয়বিষ্ঠা-গর্ত্তে দিয়াছে ফেলিয়া ॥ ১৯৮ ॥
+
+mora karma, mora hāte-galāya bāndhiñā  
+my  karma  my  hands and neck  binding  
+ku-viṣaya-viṣṭhā-garte diyāche pheliyā  
+into the pit of the filth of evil sense objects  has  thrown
+
+(198) My own deeds have bound me by the hands and neck and thrown me into the filthy pit of wicked sense enjoyment.[^37]
+
+আমা উদ্ধারিতে বলী নাহি ত্রিভুবনে ৷  
+পতিতপাবন তুমি — সবে তোমা বিনে ॥ ১৯৯ ॥
+
+āmā uddhārite balī nāhi tri-bhuvane  
+us  to deliver  able  is none  in the three worlds  
+patita-pāvana tumi — sabe tomā vine  
+the savior of the fallen  You  only  You  except
+
+(199) No one in the three worlds is strong enough to deliver us — none but You, the saviour of the fallen.
+
+আমা উদ্ধারিয়া যদি রাখ নিজ-বল ৷  
+‘পতিতপাবন’ নাম তবে সে সফল ॥ ২০০ ॥
+
+āmā uddhāriyā yadi rākha nija-bala  
+us  delivering  if  You show  Your own strength  
+‘patita-pāvana’ nāma tabe se saphala  
+savior of the fallen  the name  then  that  fulfilled
+
+(200) If You show Your strength by delivering us, then Your name “Saviour of the Fallen” will be fulfilled.
+
 ---
 
 [^1]: The same verse as Ādi 1.2 and 1.84; translation as there.
@@ -1525,3 +2099,33 @@ of the Ratha-yātrā  at the sight  the Lord’s  dancing
 [^21]: Edition heading: “The Lord’s meal at Sārvabhauma’s house; the offence of his son-in-law Amogha, and his deliverance” (Madhya 15).
 
 [^22]: Edition heading: “The Lord makes arrangements for everyone”.
+
+[^23]: Edition heading: “The pastimes of the Lord absorbed in the mood of separation (*vipralambha*)”. *Amṛta-pravāha-bhāṣya*: the *upavana* are the gardens on both sides of the Baḍa-daṇḍa, the road along which the chariot goes to the house of Guṇḍicā.
+
+[^24]: *Anubhāṣya*: on the deliverance of Gopāla Cāpala, see Ādi 17.55–59.
+
+[^25]: *Anubhāṣya*: Kānāi’s Nāṭaśālā lies about six miles from Rajmahal station (two miles from Taljhari).
+
+[^26]: *Amṛta-pravāha-bhāṣya*: Rāmakeli lies near Gauḍa on the bank of the Gaṅgā; Śrī Rūpa and Sanātana lived there at that time.
+
+[^27]: Edition heading: “The padishah orders his official not to hinder the Lord from going wherever He wishes”. *Amṛta-pravāha-bhāṣya* (to 168): the Muslim ruler of Gauḍa was the padishah Husain Shah.
+
+[^28]: Edition heading: “The kṣatriya Keśava, wishing the Lord well, calms the padishah”. *Amṛta-pravāha-bhāṣya*: Keśava knew the truth about Mahāprabhu; fearing that the padishah, if he went on asking, would turn against the Lord, he did not let the conversation go further.
+
+[^29]: *Amṛta-pravāha-bhāṣya*: Dabira Khāsa was the name the Muslim king had given to Śrī Rūpa at that time.
+
+[^30]: The Gauḍīya Maṭha edition reads *vākya siddha haya* (“His word comes true”).
+
+[^31]: *Anubhāṣya*: of the king it is said, “For a great deity dwells in the form of a man” (Manu-saṁhitā, 7.8).
+
+[^32]: *Amṛta-pravāha-bhāṣya*: just as Śrī Rūpa was then called Dabira Khāsa, Śrī Sanātana was known by the name the king had given him, Sākara Mallika.
+
+[^33]: *Anubhāṣya*: the brothers were born in a pure family of Karṇāṭa brāhmaṇas and speak so out of humility: serving a Muslim king, they had taken up the work of low people and so count themselves among them.
+
+[^34]: Edition heading: the verse is cited in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, Sādhana-bhakti-laharī, 154). *Anubhāṣya*: *parihāre* — “when it comes to asking pardon for an offence”; “what shall I say” — I have no ground even to ask.
+
+[^35]: Edition heading: “By *nāmābhāsa* alone their sins are burnt and they are delivered”.
+
+[^36]: *Amṛta-pravāha-bhāṣya*: mlecchas are of two kinds — by birth and by association; the brothers call themselves mlecchas by association, keeping company with those born mlecchas who are hostile to cows and brāhmaṇas.
+
+[^37]: *Anubhāṣya*: all worldly enjoyment is of the nature of filth; as one who has fallen into a pit cannot climb out by his own will, so the soul absorbed in sense objects cannot, by his own strength, get out of the pit of worldly enjoyment.
