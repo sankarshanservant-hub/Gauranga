@@ -32,6 +32,14 @@ Because the Buddhist Śākyasiṁha did not accept the injunctions of the Vedas,
 
 The *sūtras* of Vyāsa contain the doctrine of pure devotion. In the commentary that the Māyāvādī wrote on those *sūtras*, the spiritual form of the Supreme Brahman is denied, and so is the *jīva*'s existence separate from Brahman. That commentary is therefore utterly opposed to the truth of pure devotion, and by hearing it the *jīva* is ruined. For the pride born of a vain hope — the desire to become one with Brahman — destroys pure devotion, and in reality Īśvara is not acknowledged at all.
 
+## 172
+
+“If *pariṇāma-vāda* is accepted, Īśvara will be subject to change (*vikārī*), and then Vyāsa will have to be called ‘mistaken’” — saying this, he found fault with the primary meaning of the *sūtra*, gave it a secondary meaning and established *vivarta-vāda*.
+
+## 175
+
+To explain the spiritual existence of the *jīva*, the statement *tat tvam asi* (“you are that”) is found in one part of the Vedas; it is not a *mahā-vākya*.
+
 ---
 
 [^150-1]: The edition numbers this section “150–253” (checked against the scan) — a misprint; by content it is 150–153.
