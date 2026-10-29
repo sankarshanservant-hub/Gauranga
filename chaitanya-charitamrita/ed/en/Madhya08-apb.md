@@ -128,6 +128,12 @@ The Lord said, “Step by step this has become ever higher. Yet beyond it there 
 
 In Vṛndāvana, at the *rāsa* festival, Śrī Kṛṣṇa held the beautiful girls of Vraja by the neck with His mighty arms. The mercy that dawned upon them was not attained even by the wholly devoted potencies of Paravyoma, such as Lakṣmī, who rests on His chest. Nor was it the lot of the celestial women, who have the fragrance and luster of lotuses. What then to speak of other women?
 
+## 82–86
+
+“O Lord, earlier I named many means of the goal, that is, of attaining Kṛṣṇa. The only difference among them is that the degree of attaining Kṛṣṇa must be judged by the particular means. Whatever means people are qualified to adopt, it is best for them to hold to that means and attain Kṛṣṇa as befits their stage, and that is for them the object of the goal. In particular, for those qualified to attain *rasa*, all four *rasas*, *dāsya*, *sakhya*, *vātsalya* and *madhura*, are excellent. For one qualified for a particular *rasa*, that very *rasa* is the best of all.”
+
+When one is absorbed in the *rāga* that awakens for a *rasa*, one sees no difference of degree among the four *rasas*. But viewed from outside, that is, impartially, these *rasas* do differ in degree. The five *rasas*, *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*, rise by degrees one after another. In *śānta-rasa* there is one quality, fidelity to Kṛṣṇa alone; in *dāsya-rasa* *mamatā* joins it, and it becomes richer. In *sakhya-rasa* fidelity to Kṛṣṇa alone and *mamatā* are joined by *viśrambha*, confidence, and blossom still more. In *vātsalya-rasa* the three qualities of *śānta*, *dāsya* and *sakhya* appear joined with an abundance of affection. In *madhura-rasa*, that is, in *kānta-bhāva*, these four qualities become free of all reserve and attain the highest sweetness. Here, as the qualities increase, the sweetness of taste increases. Therefore, judged impartially, *madhura-rasa* is the best of all.
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”

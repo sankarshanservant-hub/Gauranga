@@ -302,7 +302,7 @@ His mother wanted to bind Kṛṣṇa with a rope, and Kṛṣṇa, seeing that 
 
 Uddhava came to Vraja and stayed there several months. He gave joy to all by chanting narrations about Kṛṣṇa, yet he saw the agitation of the *gopīs*, whose hearts, burning in separation, were given to Kṛṣṇa alone. Then he praises their supreme good fortune:
 
-**rāsotsave** (at the time of the *rāsa* pastime) **asya** (of Śrī Kṛṣṇa) **bhuja-daṇḍa-gṛhīta-kaṇṭha-labdhāśiṣām** (of the *gopīs* whose auspicious desires were fulfilled when He embraced their necks with His mighty arms) **vraja-sundarīṇām** (of the cowherd maidens) **yaḥ** **ayam** (mercy) **āvirbabhūva** (so in the edition), **nalina-gandha-rucām** (of those whose fragrance and luster are like the lotus) **svar-yoṣitām** (of the celestial women) **na** **abhūt**; **u** (oh!) **aṅge** (on the chest) **nitānta-rateḥ** (who takes shelter wholly and only in Him) **śriyaḥ** (of Lakṣmī) **api** **ayaṁ** **prasādaḥ** **na** **abhūt**; **anyāḥ** **striyaḥ** **tu** **kutaḥ** (thus objects of Kṛṣṇa's grace) **bhavanti**?
+**rāsotsave** (at the time of the *rāsa* pastime) **asya** (of Śrī Kṛṣṇa) **bhuja-daṇḍa-gṛhīta-kaṇṭha-labdhāśiṣām** (of the *gopīs* whose auspicious desires were fulfilled when He embraced their necks with His mighty arms) **vraja-sundarīṇām** (of the cowherd maidens) **yaḥ** **ayam** (mercy) **āvirbabhūva** (appeared), **nalina-gandha-rucām** (of those whose fragrance and luster are like the lotus) **svar-yoṣitām** (of the celestial women) **na** **abhūt**; **u** (oh!) **aṅge** (on the chest) **nitānta-rateḥ** (who takes shelter wholly and only in Him) **śriyaḥ** (of Lakṣmī) **api** **ayaṁ** **prasādaḥ** **na** **abhūt**; **anyāḥ** **striyaḥ** **tu** **kutaḥ** (thus objects of Kṛṣṇa's grace) **bhavanti**?
 
 ## 81
 
@@ -310,6 +310,20 @@ Uddhava came to Vraja and stayed there several months. He gave joy to all by cha
 
 See Ādi 5.214.
 
+## 83
+
+> Subheading: Each *rasa* is the highest for its own devotees, and yet there are differences of degree among them —
+
+## 82–83
+
+These words should not be taken to mean that any notion or whim of anyone's mind is the highest; license can never be the highest.
+
+“Devotion to Hari that claims to be exclusive but lacks the rules of the *śrutis*, *smṛtis*, *Purāṇas*, *Pañcarātra* and so on is only a disturbance.”[^82-1] What is meant here is not a harmony of pure devotion with a mental *dharma* full of self-interest: with keeping up the *dharma* of the *gṛhavratas*, and, for its sake, with trading in the *Bhāgavata*, in mantras, in disciples and in *kīrtana*, which the scriptures condemn and which is full of offenses, with materialistic social life, with worldly custom and the like. The Āuls, Bāuls, Kartābhajās, Neḍās, Daraveśas, Sā̃is, Atibāḍīs, Cūḍādhārīs and Gaurāṅga-nāgarīs; those who preach the doctrine of the “new *gosvāmīs*,” or caste *gosvāmīs*, and deceive people by passing off the doctrine of these caste *gosvāmīs* as “the doctrine of the Six Gosvāmīs”; the nondevotees of Kṛṣṇa; the opponents of the Gaura-mantra and of Gaura's name; the composers of new ditties; the traders in Deities; hired reciters and their like; those who preach as “Vedic brahminism” a brahminism of caste born of association with low castes; the *smārtas*; the opponents of the *Sātvata-pañcarātra*; the Māyāvādīs; those who keep company with women, and the rest, can never be one with or equal to those who own nothing (*akiñcanas*), who do everything for Kṛṣṇa, who serve Hari at every moment, who have renounced everything and sold themselves to Śrī Guru-Gaurāṅga: the lifelong *brahmacārīs*, the self-controlled householders, the *vānaprasthas*, and those who wear the dress of *tridaṇḍīs*.
+
+Kavirāja Gosvāmī introduced these words in connection with the five perfected *bhāvas* (*siddha-bhāvas*). The *rasikas* of these five *rasas* serve in five *bhāvas*: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. After the *anarthas* have ceased, whichever of these perfected *bhāvas* awakens in someone according to the nature of his eternally perfect *svarūpa* is indeed the highest for one qualified for that *rasa*. For the object of them all is Śrī Kṛṣṇa, not material demigods and others who are not Śrī Kṛṣṇa. Yet when one judges from outside, that is, impartially, a difference of degree is felt in the relishing of *rasa* in these five *bhāvas*. Thus in *dāsya-rasa* both *śānta-rasa* and *dāsya-rasa* are present at once, and so it is higher than *śānta-rasa*. In *sakhya-rasa* *śānta* and *dāsya* are present, and so it is higher still than *śānta* and *dāsya*. *Vātsalya-rasa* includes *śānta*, *dāsya* and *sakhya*, and so it holds more wonder than those three earlier *rasas*. And in *madhura-rasa* all four earlier *rasas* are present, and so its wonder and sweetness are the highest of all. The Vaiṣṇava *mahājanas*, expert in *bhakti-siddhānta*, have examined in this graded order the subtlest truths of realizing the *svarūpa*. Unfortunately, people bewildered by the divine *māyā* and expert in false *siddhānta* cannot grasp any of these *siddhāntas* and so find fault with pure Vaiṣṇava *siddhānta*. This only shows the misfortune of all these childish talkers.
+
 ---
 
 [^63-1]: *Manaḥ-śikṣā* 2.
+
+[^82-1]: *Brahma-yāmala*, quoted in *Bhakti-rasāmṛta-sindhu* 1.2.101.
