@@ -534,7 +534,7 @@ sannyāsa  taking  self-restrained  peaceful
 niṣṭhā-śānti-parāyaṇaḥ  
 to steadfastness and peace  devoted
 
-(49) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 95)[^19]
+(49) “He is of golden colour, His limbs are like gold, His form is beautiful, and He wears armlets of sandal. He has taken sannyāsa, He is self-restrained and tranquil, and His highest refuge is steadfastness and peace.” (Mahābhārata, Dāna-dharma, 149; Viṣṇu-sahasra-nāma, 92 and 75)[^19]
 
 ব্যক্ত করি’ ভাগবতে কহে বার বার ৷  
 কলিযুগে — কৃষ্ণনামসঙ্কীর্ত্তন সার ॥ ৫০ ॥
@@ -1273,7 +1273,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^18]: *Anubhāṣya*: the early pastimes are His life as a householder, the first twenty-four years; the later are His sannyāsa, the last twenty-four years (cf. 3.32–34). The eight names are given in the next verse.
 
-[^19]: *Anubhāṣya*: the first four names belong to the early pastimes, the last four to the later. According to the *Anubhāṣya* and the commentary *Nāmārtha-sudhā* of Śrī Baladeva Vidyābhūṣaṇa which it quotes: *varāṅga* — a body bearing the marks of a *mahāpuruṣa*; *candanāṅgadī* — wearing sandal armlets that gladden the hearts of the devotees; *śama* — free from worldly attraction (Baladeva: contemplating the secrets of Hari); *śānta* — whose mind is fixed on Kṛṣṇa alone; *niṣṭhā* — steadfastness, one-pointedness of mind (Baladeva: in Him the sacrifice of Hari-kīrtana is established); *śānti* — peace (Baladeva: He subdues the opponents of bhakti, the *kevalādvaitins*); *parāyaṇa* — the highest shelter (Baladeva: of all the moods up to *mahābhāva*). The source is given as in the edition.
+[^19]: *Anubhāṣya*: the first four names belong to the early pastimes, the last four to the later. According to the *Anubhāṣya* and the commentary *Nāmārtha-sudhā* of Śrī Baladeva Vidyābhūṣaṇa which it quotes: *varāṅga* — a body bearing the marks of a *mahāpuruṣa*; *candanāṅgadī* — wearing sandal armlets that gladden the hearts of the devotees; *śama* — free from worldly attraction (Baladeva: contemplating the secrets of Hari); *śānta* — whose mind is fixed on Kṛṣṇa alone; *niṣṭhā* — steadfastness, one-pointedness of mind (Baladeva: in Him the sacrifice of Hari-kīrtana is established); *śānti* — peace (Baladeva: He subdues the opponents of bhakti, the *kevalādvaitins*); *parāyaṇa* — the highest shelter (Baladeva: of all the moods up to *mahābhāva*). The source is given as in the edition; the second *Sahasra-nāma* verse is 75 (so the edition gives it at Madhya 6.104; here it misprints “95”).
 
 [^20]: *Anubhāṣya*: *kṛṣṇa-varṇam* — “who sings of Kṛṣṇa”, or “in whom are the two syllables ‘Kṛṣ-ṇa’” (3.53); *tviṣākṛṣṇam* — not dark by lustre, that is, golden: of the white, red and yellow (3.36) the third remains; the *aṅgas* are Nityānanda and Advaita, the *upāṅgas* Śrīvāsa and the other devotees, the weapons the holy name and the like, the associates Gadādhara, Svarūpa Dāmodara and others; *saṅkīrtana* is many people singing together the names of Hari and His glories. That He is Kṛṣṇa Himself the author shows below (3.79–80).
 

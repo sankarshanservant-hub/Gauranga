@@ -1543,7 +1543,7 @@ into that  Brahman  again  becoming  it goes  dissolution
 
 [^35]: The same verse as Ādi 3.51; translation as there.
 
-[^36]: The same verse as Ādi 3.49; translation as there. The reference follows the edition, which here reads “92 and 75” (at Ādi 3.49 the same edition has “92 and 95”).
+[^36]: The same verse as Ādi 3.49; translation as there.
 
 [^37]: Heading in the edition: “Gopīnātha disregards the Bhaṭṭācārya and does not take him seriously”.
 

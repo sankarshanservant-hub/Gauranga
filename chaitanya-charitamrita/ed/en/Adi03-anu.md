@@ -166,7 +166,7 @@ In his commentary on the *Muṇḍaka Upaniṣad*, Śrī Madhvācārya cites thi
 
 ## 49
 
-> Subheading: (*Mahābhārata*, *Dāna-dharma*, Chapter 149, *Sahasra-nāma*, 92 and 95)
+> Subheading: (*Mahābhārata*, *Dāna-dharma*, Chapter 149, *Sahasra-nāma*, 92 and 75)
 
 **suvarṇa-varṇaḥ** (He whose color is yellow, like the color of gold) **hemāṅgaḥ** (He whose body is like gold) **varāṅgaḥ** (He whose body bears the marks of a *mahāpuruṣa*) **candanāṅgadī** (He whose armlets are anointed with sandal) (these are four names of Bhagavān Gauracandra in His first pastimes). **sannyāsa-kṛt** (devoted to the duty of a renunciant) **śamaḥ** (free from sense objects) **śāntaḥ** (He whose mind is fixed on Kṛṣṇa alone) **niṣṭhā-śānti-parāyaṇaḥ** (*niṣṭhā* is one-pointedness of mind, and there is *śānti*; *niṣṭhā* and *śānti* are His highest shelter) (the *Sahasra-nāma* also cites these four names of Bhagavān Gaurahari in His last pastimes).
 
