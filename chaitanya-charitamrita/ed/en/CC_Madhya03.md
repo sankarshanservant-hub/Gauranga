@@ -926,161 +926,201 @@ the Lord  says  more  how much  shall I make  eating
 এখন যে দিয়ে, তার অর্দ্ধেক খাইবা ॥ ৯১ ॥
 
 ācārya kahe, ye diyāchi, tāhā nā chāḍibā  
-ekhana ye diye, tāra ardheka khāibā
+the Ācārya  says  what  I have given  that  not  leave  
+ekhana ye diye, tāra ardheka khāibā  
+now  what  I give  of that  half  eat
 
-(91) [not yet translated]
+(91) The Ācārya said, “Do not leave what I have already given You. Of what I give You now, eat half.”
 
 নানা যত্ন-দৈন্যে প্রভুর করাইল ভোজন ৷  
 আচার্য্যের ইচ্ছা প্রভু করিল পূরণ ॥ ৯২ ॥
 
 nānā yatna-dainye prabhura karāila bhojana  
-ācāryera icchā prabhu karila pūraṇa
+with various  efforts and humility  the Lord  made  eat  
+ācāryera icchā prabhu karila pūraṇa  
+the Ācārya’s  desire  the Lord  made  fulfilled
 
-(92) [not yet translated]
+(92) With many efforts and humble pleas the Ācārya made the Lord eat, and the Lord fulfilled the Ācārya’s desire.
 
 নিত্যানন্দ কহে, আমার পেট না ভরিল ৷  
 লঞা যাহ, তোর অন্ন কিছু না খাইল ॥ ৯৩ ॥
 
 nityānanda kahe — āmāra peṭa nā bharila  
-lañā yāha, tora anna kichu nā khāila
+Nityānanda  says  My  belly  not  is filled  
+lañā yāha, tora anna kichu nā khāila  
+taking  go away  your  food  any  not  I have eaten
 
-(93) [not yet translated]
+(93) Nityānanda said, “My belly is not full! Take it away—I have not eaten any of your food.”
 
 এত বলি’ একগ্রাস অন্ন হাতে লঞা ৷  
 উঝালি’ ফেলিল আগে যেন ক্রুদ্ধ হঞা ॥ ৯৪ ॥
 
 eta bali’ ekagrāsa anna hāte lañā  
-ujhāli’ phelila āge yena kruddha hañā
+thus  saying  a mouthful of  rice  in His hand  taking  
+ujhāli’ phelila āge yena kruddha hañā  
+tossing  threw  in front  as if  angry  becoming
 
-(94) [not yet translated]
+(94) Saying this, He took a handful of rice in His hand and tossed it in front of Him, as if in anger.
 
 ভাত দুই-চারি লাগে আচার্য্যের অঙ্গে ৷  
 ভাত গায়ে লঞা আচার্য্য নাচে বহুরঙ্গে ॥ ৯৫ ॥
 
 bhāta dui-cāri lāge ācāryera aṅge  
-bhāta gāye lañā ācārya nāce bahuraṅge
+grains of rice  two or four  touched  the Ācārya’s  body  
+bhāta gāye lañā ācārya nāce bahuraṅge  
+the rice  on His body  bearing  the Ācārya  dances  in many ways
 
-(95) [not yet translated]
+(95) A few grains of rice struck the Ācārya’s body, and with the rice on His body the Ācārya danced about in delight.
 
 অবধূতের ঝুটা লাগিল মোর অঙ্গে ৷  
 পরম পবিত্র মোরে কৈল এই ঢঙ্গে ॥ ৯৬ ॥
 
 avadhūtera jhuṭā lāgila mora aṅge  
-parama pavitra more kaila ei ḍhaṅge
+of the avadhūta  the leftovers  have touched  My  body  
+parama pavitra more kaila ei ḍhaṅge  
+supremely  pure  Me  has made  in this  way
 
-(96) [not yet translated]
+(96) “The leftovers of the *avadhūta* have touched My body! In this way He has made Me supremely pure.
 
 তোরে নিমন্ত্রণ করি’ পাইনু তার ফল ৷  
 তোর জাতি-কুল নাহি, সহজে পাগল ॥ ৯৭ ॥
 
 tore nimantraṇa kari’ pāinu tāra phala  
-tora jāti-kula nāhi, sahaje pāgala
+you  invitation  having made  I have got  its  fruit  
+tora jāti-kula nāhi, sahaje pāgala  
+your  caste and family  none  by nature  a madman
 
-(97) [not yet translated]
+(97) I invited you, and I have reaped the fruit of it! You have no caste or family—you are a madman by nature.
 
 আপনার সম মোরে করিবার তরে ৷  
 ঝুটা দিলে, বিপ্র বলি’ ভয় না করিলে ॥ ৯৮ ॥
 
 āpanāra sama more karibāra tare  
-jhuṭā dile, vipra bali’ bhaya nā karile
+Your own  equal  Me  to make  for the sake of  
+jhuṭā dile, vipra bali’ bhaya nā karile  
+leftovers  you gave  a brāhmaṇa  considering  fear  not  you felt
 
-(98) [not yet translated]
+(98) To make Me just like you, you threw your leftovers at Me, without fearing that I am a brāhmaṇa.”
 
 নিত্যানন্দ বলে, — এই কৃষ্ণের প্রসাদ ৷  
 ইহাকে ‘ঝুটা’ কহিলে, কৈলে অপরাধ ॥ ৯৯ ॥
 
 nityānanda bale, — ei kṛṣṇera prasāda  
-ihāke ‘jhuṭā’ kahile, kaile aparādha
+Nityānanda  says  this  Kṛṣṇa’s  prasāda  
+ihāke ‘jhuṭā’ kahile, kaile aparādha  
+it  ‘leftovers’  having called  You committed  an offence
 
-(99) [not yet translated]
+(99) Nityānanda said, “This is Kṛṣṇa’s *prasāda*! By calling it ‘leftovers’ You have committed an offence.
 
 শতেক সন্ন্যাসী যদি করাহ ভোজন ৷  
 তবে এই অপরাধ হইবে খণ্ডন ॥ ১০০ ॥
 
 śateka sannyāsī yadi karāha bhojana  
-tabe ei aparādha haibe khaṇḍana
+a hundred  sannyāsīs  if  You feed  
+tabe ei aparādha haibe khaṇḍana  
+then  this  offence  will be  cancelled
 
-(100) [not yet translated]
+(100) If You feed a hundred *sannyāsīs*, then this offence will be cancelled.”
 
 আচার্য্য কহে, না করিব সন্ন্যাসী-নিমন্ত্রণ ৷  
 সন্ন্যাসী নাশিল মোর সব স্মৃতি-ধর্ম্ম ॥ ১০১ ॥
 
 ācārya kahe, nā kariba sannyāsī-nimantraṇa  
-sannyāsī nāśila mora saba smṛti-dharma
+the Ācārya  says  not  I shall make  sannyāsī invitation  
+sannyāsī nāśila mora saba smṛti-dharma  
+a sannyāsī  has destroyed  My  all  smṛti-dharma
 
-(101) [not yet translated]
+(101) The Ācārya said, “I shall never again invite a *sannyāsī*! A *sannyāsī* has ruined all My *smṛti-dharma*.”
 
 এত বলি’ দুই জনে করাইল আচমন ৷  
 উত্তম শয্যাতে লইয়া করাইল শয়ন ॥ ১০২ ॥
 
 eta bali’ dui jane karāila ācamana  
-uttama śayyāte la-iyā karāila śayana
+thus  saying  the two  persons  made to rinse  
+uttama śayyāte la-iyā karāila śayana  
+on an excellent  bed  taking  made to lie down
 
-(102) [not yet translated]
+(102) Saying this, He had the two Lords rinse Their hands and mouths, and then took Them to an excellent bed and had Them lie down.
 
 লবঙ্গ এলাচী-বীজ — উত্তম রসবাস ৷  
 তুলসী-মঞ্জরী সহ দিল মুখবাস ॥ ১০৩ ॥
 
 lavaṅga elācī-bīja — uttama rasa-vāsa  
-tulasī-mañjarī saha dila mukha-vāsa
+cloves  cardamom seeds  excellent  fragrance  
+tulasī-mañjarī saha dila mukha-vāsa  
+tulasī buds  with  gave  mouth-freshener
 
-(103) [not yet translated]
+(103) He gave Them cloves and cardamom seeds with *tulasī* buds as a fragrant mouth-freshener.
 
 সুগন্ধি চন্দনে লিপ্ত কৈল কলেবর ৷  
 সুগন্ধি পুষ্পমালা আনি’ দিল হৃদয়-উপর ॥ ১০৪ ॥
 
 sugandhi candane lipta kaila kalevara  
-sugandhi puṣpa-mālā āni’ dila hṛdaya-upara
+fragrant  with sandalwood  anointed  made  the bodies  
+sugandhi puṣpa-mālā āni’ dila hṛdaya-upara  
+fragrant  flower garlands  bringing  placed  on the chest
 
-(104) [not yet translated]
+(104) He anointed Their bodies with fragrant sandalwood, and brought fragrant flower garlands and placed them on Their chests.
 
 আচার্য্য করিতে চাহে পাদ-সম্বাহন ৷  
 সঙ্কুচিত হঞা প্রভু বলেন বচন ॥ ১০৫ ॥
 
 ācārya karite cāhe pāda-samvāhana  
-saṅkucita hañā prabhu balena vacana
+the Ācārya  to do  wishes  feet  massaging  
+saṅkucita hañā prabhu balena vacana  
+embarrassed  becoming  the Lord  speaks  words
 
-(105) [not yet translated]
+(105) The Ācārya wished to massage the Lord’s feet, but the Lord, embarrassed, said:
 
 বহুত নাচাইলে তুমি, ছাড় নাচান ৷  
 মুকুন্দ-হরিদাস লইয়া করহ ভোজন ॥ ১০৬ ॥
 
 bahuta nācāile tumi, chāḍa nācāna  
-mukunda-haridāsa laiyā karaha bhojana
+much  You have made Me dance  You  give up  making Me dance  
+mukunda-haridāsa laiyā karaha bhojana  
+Mukunda and Haridāsa  taking  take  Your meal
 
-(106) [not yet translated]
+(106) “You have made Me dance a great deal; now stop making Me dance. Go and eat with Mukunda and Haridāsa.”
 
 তবে ত’ আচার্য্য সঙ্গে লঞা দুই জনে ৷  
 করিল ভোজন, ইচ্ছা যে আছিল মনে ॥ ১০৭ ॥
 
 tabe ta’ ācārya saṅge lañā dui jane  
-karila bhojana, icchā ye āchila mane
+then  indeed  the Ācārya  with Him  taking  the two  persons  
+karila bhojana, icchā ye āchila mane  
+did  meal  the desire  which  was  in the mind
 
-(107) [not yet translated]
+(107) Then the Ācārya took the two of them with Him and ate, as He had wished in His heart.
 
 শান্তিপুরের লোক শুনি’ প্রভুর আগমন ৷  
 দেখিতে আইলা লোক প্রভুর চরণ ॥ ১০৮ ॥
 
 śāntipurera loka śuni’ prabhura āgamana  
-dekhite āilā loka prabhura caraṇa
+of Śāntipura  the people  hearing  of the Lord  the arrival  
+dekhite āilā loka prabhura caraṇa  
+to see  came  the people  the Lord’s  feet
 
-(108) [not yet translated]
+(108) Hearing that the Lord had come, the people of Śāntipura came to see His feet.
 
 ‘হরি’ ‘হরি’ বলে লোক আনন্দিত হঞা ৷  
 চমৎকার পাইল প্রভুর সৌন্দর্য্য দেখিঞা ॥ ১০৯ ॥
 
 ‘hari’ ‘hari’ bale loka ānandita hañā  
-camatkāra pāila prabhura saundarya dekhiñā
+“Hari”  “Hari”  say  the people  joyful  becoming  
+camatkāra pāila prabhura saundarya dekhiñā  
+wonder  felt  the Lord’s  beauty  seeing
 
-(109) [not yet translated]
+(109) The people joyfully called out “Hari! Hari!”, and seeing the Lord’s beauty, they were struck with wonder.
 
 গৌর-দেহ-কান্তি সূর্য্য জিনিয়া উজ্জ্বল ৷  
 অরুণ-বস্ত্রকান্তি তাহে করে ঝলমল ॥ ১১০ ॥
 
 gaura-deha-kānti sūrya jiniyā ujjvala  
-aruṇa-vastra-kānti tāhe kare jhala-mala
+of the golden body  the radiance  the sun  surpassing  bright  
+aruṇa-vastra-kānti tāhe kare jhala-mala  
+of the saffron cloth  the radiance  on it  makes  glitter
 
-(110) [not yet translated]
+(110) The radiance of His golden body outshone the sun, and the radiance of His saffron cloth glittered upon it.
 
 আইসে যায় লোক সব, নাহি সমাধান ৷  
 লোকের সঙ্ঘট্টে দিন হইল অবসান ॥ ১১১ ॥
@@ -1116,9 +1156,11 @@ Haridāsa  behind  dances  joyful  becoming
 চিরদিন মাধব মন্দিরে মোর ॥ ১১৪ ॥ধ্রু॥
 
 ki kahaba re sakhi ājuka ānanda ora  
-cira-dina mādhava mandire mora
+what  shall I say  O  friend  of today's  bliss  the limit  
+cira-dina mādhava mandire mora  
+after long days  Mādhava  in the house  My
 
-(114) [not yet translated]
+(114) “What shall I tell you, My friend? There is no limit to My bliss today: at long last Mādhava is in My house.”
 
 এই পদ গাওয়াইয়া হর্ষে করেন নর্ত্তন ৷  
 স্বেদ-কম্প-পুলকাশ্রু-হুঙ্কার-গর্জ্জন ॥ ১১৫ ॥
