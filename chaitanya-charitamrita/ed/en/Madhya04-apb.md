@@ -60,6 +60,14 @@ To give him *kṣīra*, Śrī Gopīnātha stole a pot of *kṣīra* and received
 
 In the Dvāpara-yuga the cowherds of Vraja used to worship Indra. Śrī Kṛṣṇa stopped that worship and arranged instead for Govardhana Hill to be worshipped and fed (Girirāja) with an *annakūṭa*. Enraged, Indra poured rain for seven days, trying to destroy Gokula. Śrī Kṛṣṇa held Govardhana Hill on His little finger like an umbrella against the rain and so protected Gokula. Mādhavendra Purī held an *annakūṭa* as great as the one held at that worship of Govardhana.
 
+## 113
+
+***Jagamohana*** is the name of the hall in front of the temple from which one has *darśana* of Bhagavān. ***Kyā kyā*** — in another reading, *kāhā kāhā*. The sense is *keyā keyā* (“what, what”) — what *bhoga* is offered.
+
+## 117
+
+***Kṣīra*** — *paramānna*.
+
 ---
 
 [^0-1]: So in the edition: Mādhava Purī is the same person as Mādhavendra Purī.

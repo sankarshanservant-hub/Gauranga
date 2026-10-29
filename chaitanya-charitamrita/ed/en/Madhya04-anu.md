@@ -236,6 +236,122 @@ See Ādi 3.86–89.
 
 > Subheading: The next morning too, the same service as the day before —
 
+## 95
+
+> Subheading: The natural love of the people of Vraja and Kṛṣṇa for each other —
+
+## 96
+
+> Subheading: Everyone honors the *mahā-prasāda* —
+
+## 97
+
+> Subheading: A great festival every day —
+
+## 98
+
+> Subheading: Gifts from many places —
+
+## 99
+
+> Subheading: The gifts of the wealthy men of Mathurā —
+
+## 100
+
+> Subheading: Gifts of every kind —
+
+## 101
+
+> Subheading: The building of Gopāla's temple —
+
+## 102
+
+> Subheading: Gopāla's many cows —
+
+## 103
+
+> Subheading: Purī shows mercy to two renounced brāhmaṇas and entrusts them with the service —
+
+## 105
+
+> Subheading: For two years Purī serves Gopāla —
+
+## 106
+
+> Subheading: In a dream Gopāla tells Purī that He desires sandalwood —
+
+***Malayaja*** — born in the land of Malaya, which is called “Candana-giri.” The land of Malaya, or Malabar, is the southern part of the mountain range called the “Western Ghats.” Some call the Nilgiris the Malaya Hills. The word *malayaja* also means sandalwood itself.
+
+## 109
+
+> Subheading: On his way to Purī, Purī comes to Gauḍa —
+
+## 110
+
+> Subheading: Purī comes to Advaita's house in Śāntipura and initiates Advaita —
+
+## 111
+
+> Subheading: From Śāntipura Purī sets out on the road to Purī —
+
+Advaita Prabhu received the mantra of initiation from Śrī Mādhavendra Purī, the king of ascetics (*yatirāja*) and guru of the Mādhva-sampradāya. And Śrī Mahāprabhu, in keeping with Śrī Mādhavendra Purī's intention, taught: “Whether one is a *vipra*, a *sannyāsī* or a *śūdra* — whoever knows the truth of Kṛṣṇa is a guru.”[^111-1]
+
+According to the *Pañcarātra*, no one but a householder brāhmaṇa has the right to give initiation (*dīkṣā*). For one who receives *dīkṣā* attains the brāhmaṇa status of initiation (*daikṣa* brāhmaṇa status), and a non-brāhmaṇa has no power to pass brāhmaṇa status on to another. Brāhmaṇa status is therefore, as a matter of course, a necessary quality of the one who gives initiation and is inseparable from the position of a Vaiṣṇava *ācārya*. A householder living in *varṇāśrama* can gather the various articles of worship (*upacāras*) with honest money he has earned himself and worship Bhagavān with mantras. A disciple engaged in worldly affairs learns from such an experienced householder guru that the sole aim of *varṇāśrama* is the service of Bhagavān, and he asks for initiation into the mantra so that he himself may be freed from the desires of household life. That is why the guru must be a genuine Vaiṣṇava householder. A *sannyāsī* guru who devotes himself to Deity worship (*arcana*) meets with many difficulties.
+
+When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), the general rule may seem almost disregarded, but in reality it is not disregarded. Brāhmaṇa status by birth (*śaukra-vipratva*) or *śūdra* status by birth (*śaukra-śūdratva*) is not at all the brāhmaṇa qualification meant where a guru is concerned; what is meant is *sāvitrya* and *daikṣya* brāhmaṇa status. Śrī Mahāprabhu saw the weakness of the hearts of the *jīvas* and of society. He knew that common people's notion of caste rests entirely on birth from seed, and therefore He spoke as He did in the verse *kibā vipra*. He only explained the purport of the scriptures, for there is no doubt that one who knows the truth of Kṛṣṇa is a *sāvitrya* or *daikṣya* brāhmaṇa. “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.” “Householder guru” does not mean *gṛhavratas*, slaves of the senses; nor does “Vaiṣṇava *sannyāsī*” mean a person proud of his place in *varṇāśrama*.
+
+## 112
+
+> Subheading: In Remuṇā Purī has *darśana* of Gopīnātha, dances and sings —
+
+## 113
+
+> Subheading: The joy of hearing how excellently the *bhoga* is offered —
+
+## 115
+
+> Subheading: Wishing to offer such *bhoga* to Gopāla, Purī questions the priest —
+
+## 116
+
+> Subheading: The priest tells of the glory of Gopīnātha's *kṣīra-bhoga* and praises it —
+
+## 119
+
+> Subheading: Purī's desire to please Kṛṣṇa —
+
+## 120
+
+> Subheading: The desire to offer Gopāla *bhoga* like Gopīnātha's *kṣīra-bhoga* —
+
+***Ayācita*** — without asking.
+
+## 121
+
+> Subheading: Deeming this desire an urge of the tongue, Purī feels ashamed —
+
+***Sari*** — when [the offering] was completed.
+
+## 122
+
+> Subheading: Having seen Gopīnātha's *bhoga* and *ārati*, Purī leaves —
+
+## 123
+
+> Subheading: Purī's conduct —
+
+The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Prabhu: he delighted in the name of Kṛṣṇa and was indifferent (*udāsa*), that is, detached (*udāsīna*), toward matter.
+
+## 124
+
+***Nāhi kṣudhā-tṛṣṇā bādhe*** (“hunger and thirst did not trouble him”) — he was beyond hunger and thirst, having conquered the six qualities (*ṣaḍ-guṇa*).
+
+## 125
+
+> Subheading: Solitary *kīrtana* in seclusion —
+
 ---
 
 [^34-1]: The verse translation reads differently: he “dozed off a little” toward morning.
+
+[^111-1]: Caitanya-caritāmṛta, Madhya 8.127 (in the numbering of our translation).
