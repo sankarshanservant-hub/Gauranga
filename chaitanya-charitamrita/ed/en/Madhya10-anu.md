@@ -628,7 +628,7 @@ Even when the disciple's words are true, the guru's words prevail over the disci
 
 “All my life I was devoted to meditation on the formless Brahman. But when I saw You, the transcendental form of Śrī Kṛṣṇa arose before me. Kṛṣṇa's name appears in my mouth and in my mind, and my eyes see Kṛṣṇa. And seeing Kṛṣṇa's form in You, my heart has been filled with longing. In his earlier life Ṭhākura Bilvamaṅgala was an *advaita-vādī* devoted to meditation on the formless Brahman; later he became a devotee of Kṛṣṇa and told his own story. Today the very same thing has happened to me.”
 
-The *Śrī Caitanya-candrāmṛta*: “For those touched by the glory of His merciful glance, *kaivalya* becomes like hell… — that Gaura alone we praise”; “…and they scorn the knowers of Brahman and of *yoga* — to that Gauracandra we bow”; “Talk of Brahman and the path of liberation fail to become bitter, the order of the world and of the Vedas remains unshaken, and the scholars of the *śāstras* keep up their noisy quarrels over various external paths — only until one sees a dear servant of Śrī Caitanya's lotus feet”; “A certain Gaura, a thief of irresistible power, has stolen everything I had.”
+The *Śrī Caitanya-candrāmṛta*: “For those touched by the glory of His merciful glance, *kaivalya* becomes like hell… — that Gaura alone we praise”; “…and they scorn the knowers of Brahman and of *yoga* — to that Gauracandra we bow”; “Only until one sees a dear servant of Śrī Caitanya's lotus feet does talk of Brahman and the path of liberation fail to turn bitter, does the order of the world and of the Vedas remain unshaken, and do the scholars of the *śāstras* keep up their noisy quarrels over various external paths”; “A certain Gaura, a thief of irresistible power, has stolen everything I had.”
 
 ## 178
 
@@ -696,11 +696,11 @@ Sārvabhauma's words embarrassed Mahāprabhu. He uttered, “Viṣṇu! Viṣṇ
 
 [^60-1]: Our translation of the verse reads differently: the Lord “blessed his sons by touching their heads with His foot.” According to the *Anubhāṣya*, the sons themselves placed the Lord's feet on their heads.
 
-[^106-1]: An unclear passage: «তচ্ছীচকারৈনমহো», apparently *tac chīc-cakāra enam* (“brushed it aside,” literally “made a ‘śīt’ at it”); the translation is tentative.
+[^106-1]: The edition prints «রাগতস্তুচ্ছীচকারৈনমহো বহন্নপি» — *rāgatas tucchī-cakāra enam aho vahann api*; *tucchī-cakāra* means “made trifling, disregarded” (the vowel sign “ু” was lost in the rough OCR). The translation renders the sense literally.
 
 [^154-1]: *Manu-saṁhitā* 6.4, 6.6 (the first quotation) and 6.67 (the second).
 
-[^168-1]: In the edition the number of verse 168 is missing: the subheading stands above the second couplet after verse 167.
+[^168-1]: In the edition the couplet of verse 168 (“*vyāpya vyāpaka-bhāve…*”) has no printed number (only “॥” stands at its end); the subheading stands above it, right after verse 167. The next couplet (169) is numbered correctly.
 
 [^175-1]: In the usual numbering, *Śrīmad-Bhāgavatam* 1.9.37. By its content, the section headed “১৭৫-১৭৭” begins with a discussion of verses 172–174.
 
