@@ -15,3 +15,11 @@ I bow down to Gauracandra, the Supreme Person greater than all (*sarva-bhūmā*)
 ## 33
 
 **Daraśana karite** — to have *darśana* of Jagannāthadeva.
+
+## 47
+
+After the Lord had eaten, Sārvabhauma, with His permission, ate together with Gopīnātha Ācārya and came back to the Lord.
+
+## 67
+
+**Śayyotthāna** — Jagannāthadeva's rising from His bed.

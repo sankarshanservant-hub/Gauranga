@@ -68,6 +68,144 @@ See Madhya 3.162.
 
 **Viśārada** — Maheśvara Viśārada, a fellow student of Nīlāmbara Cakravartī, lived in “Vidyānagara,” near Samudragaḍa. His two sons were Madhusūdana Vācaspati and Vāsudeva Sārvabhauma, and his son-in-law was Gopīnātha Ācārya.
 
+## 19
+
+> Subheading: After speaking with Mukunda and the others, whom he knew from before, Gopīnātha hears news of the Lord —
+
+## 28
+
+> Subheading: Love for the Lord is greater than for Jagannātha —
+
+## 29
+
+> Subheading: Everyone goes to Sārvabhauma's house —
+
+## 30
+
+> Subheading: There they see the Lord; on seeing Him, Gopīnātha feels joy and sorrow at once —
+
+## 31
+
+> Subheading: Sārvabhauma lets everyone into the house and greets each as is fitting —
+
+## 33
+
+> Subheading: Sārvabhauma sends everyone for *darśana* of Jagannātha with his son Candaneśvara —
+
+## 34
+
+> Subheading: On seeing Jagannātha, Nitāi is overwhelmed by love —
+
+## 37
+
+> Subheading: Everyone sings *kīrtana* loudly near the Lord, and the Lord returns to outward consciousness —
+
+## 38
+
+> Subheading: Sārvabhauma's courtesy —
+
+## 39
+
+> Subheading: Sārvabhauma's invitation —
+
+**Madhyāhna kara** — finish bathing and eating during the day.
+
+## 40
+
+> Subheading: After bathing, the Lord and His companions honor *prasāda* —
+
+## 43
+
+> Subheading: Sārvabhauma serves the *prasāda* —
+
+**Lāphrā-vyañjana** — a vegetable dish (*tarakārī*) made by stewing various ingredients together and seasoning them with cumin, pepper, and mustard.
+
+## 47
+
+> Subheading: Sārvabhauma comes to the Lord with Gopīnātha —
+
+## 48
+
+> Subheading: Sārvabhauma's obeisance and the Lord's blessing —
+
+It is customary to greet *sannyāsīs* of the fourth *āśrama* with the words *oṁ namo nārāyaṇāya*. The *smṛti-śāstras* give *sannyāsīs* the rule “no blessings and no obeisances.” But Vaiṣṇava *sannyāsīs* know that they themselves are servants of Kṛṣṇa and that service to Kṛṣṇa is the highest. So they give everyone in the world this compassionate blessing: “May your mind be fixed on the lotus feet of Kṛṣṇa.”
+
+## 49
+
+> Subheading: Sārvabhauma is pleased to understand that the Lord belongs to a Vaiṣṇava *sampradāya* —
+
+## 50
+
+> Subheading: Sārvabhauma asks Gopīnātha about the Lord's former *āśrama* —
+
+**Pūrvāśrama** — by what name He was known and where He lived as a householder, before He accepted the *āśrama* of *sannyāsa*.
+
+## 51
+
+> Subheading: Gopīnātha tells who He is —
+
+## 55
+
+> Subheading: Sārvabhauma rejoices to learn who the Lord is —
+
+## 56
+
+> Subheading: Sārvabhauma's humility and meekness —
+
+Judged by the excellence of Your nature, You are worthy of my worship. Judged by the external *āśrama*, You have accepted *sannyāsa* and so are worthy of the worship of householders like us. Therefore I am Your servant, and You are the one I serve.
+
+## 57
+
+> Subheading: The humility of the Lord, who gives honor to others (*mānada-dharma*) —
+
+## 58
+
+You hold the position of guru of the world: you teach Vedānta, instruct inexperienced students, and wish *sannyāsīs* well. You let them hear the meaning of Vedānta, instruct them in renunciation, and so dispel ignorance, and you benefit mendicants by feeding them at your home.
+
+## 59
+
+> Subheading: The Lord regards Himself as a ward and Sārvabhauma as His guardian —
+
+## 61
+
+> Subheading: The Lord expresses His gratitude —
+
+On seeing Śrī Jagannātha I fainted and lost consciousness. You took on the care of Me, dispelled My unconsciousness, and brought Me back to awareness; that is, you brought Me from the inner state to the outer state.
+
+## 62
+
+> Subheading: The Bhaṭṭācārya affectionately instructs the Lord —
+
+## 63
+
+> Subheading: The Lord agrees —
+
+## 64
+
+> Subheading: Sārvabhauma asks his brother-in-law to look after the Lord —
+
+## 67
+
+> Subheading: Gopīnātha shows the Lord the service of Jagannātha —
+
+## 68
+
+> Subheading: Gopīnātha comes with Mukunda to Sārvabhauma's house —
+
+## 69
+
+> Subheading: Full of affection and love, Sārvabhauma asks what *sannyāsa* the Lord has taken —
+
+Although Mahāprabhu had received every right of a true *sannyāsī*, out of humility He thought it proper to be known as a *brahmacārī*, a disciple of a *sannyāsī*. A *sannyāsī* known as a *brahmacārī* is indeed the model of natural humility.
+
+## 71
+
+> Subheading: Gopīnātha tells who He is —
+
+## 72
+
+> Subheading: Sārvabhauma assesses the *sampradāya* —
+
 ---
 
 [^12-1]: In the numbering of our translation, Madhya 24.283.
