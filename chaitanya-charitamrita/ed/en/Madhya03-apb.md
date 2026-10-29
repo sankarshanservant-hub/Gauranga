@@ -55,3 +55,13 @@ May the Yamunā, daughter of the Sun, purify our body! She is eternally the vess
 ## 114
 
 ***Ora*** — limit. This song (*pada*) is Vidyāpati's.
+
+## 145
+
+***Āi*** — *āryā* (honored lady), Śacīmātā.
+
+## 216
+
+***Chatrabhoga-pathe*** (“by the road through Chatrabhoga”). The Lord went along the bank of the Gaṅgā through Āṭisārā, Pāṇihāṭī and Varāhanagara. At that time the Gaṅgā, south of Calcutta, flowed past Kālīghāṭ, through Bāruipura and other places, then through the “Mathurāpura” police station in the Diamond Harbour subdivision, and fell into the sea in a hundred streams. By that route Mahāprabhu went, along the Chatrabhoga road, at the place called “Ambuliṅga” in the Mathurāpura police station.
+
+*Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
