@@ -44,7 +44,7 @@ The younger brāhmaṇa served the elder brāhmaṇa, a devotee of Bhagavān, fo
 
 (*Śrīmad-Bhāgavatam* 10.52.21): “There was a great king named Bhīṣmaka, the ruler of Vidarbha. He had five sons and one daughter with a lovely face. … His kinsmen wanted to give [Rukmī's] sister to Kṛṣṇa, O king, but Rukmī, who hated Kṛṣṇa, stopped them and decided on Caidya.”[^28-1] (*Śrīmad-Bhāgavatam* 10.53.2): “Śrī Bhagavān said: ‘In the same way I too, thinking of her, cannot sleep at night. I know that Rukmī, out of hatred, has prevented My marriage.’”
 
-Rukmī, the eldest son of Bhīṣmaka, king of Vidarbha, insulted Kṛṣṇa when He was carrying off his sister Rukmiṇī, and fought with Him. He should have perished as a result, but at Rukmiṇī's request he kept his life: Kṛṣṇa cut off his moustache and hair with His sword, shaved him, disfigured him, and let him go.
+Rukmī, the eldest son of Bhīṣmaka, king of Vidarbha, insulted Kṛṣṇa when He was carrying off his sister Rukmiṇī, and fought with Him. He should have perished as a result, but at Rukmiṇī's request he kept his life: Kṛṣṇa cut off his beard and hair with His sword, shaved him, disfigured him, and let him go.
 
 ## 42
 
