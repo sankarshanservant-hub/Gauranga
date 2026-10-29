@@ -1819,6 +1819,268 @@ the praṇava  not  accepting  it  he calls  the great statement
 
 (175) *Tat tvam asi* is only a partial statement, spoken of the jīva; yet the Māyāvādī, not accepting the praṇava, calls that the great statement.”[^69]
 
+এইমতে কল্পিত ভাষ্যে শত দোষ দিল ৷  
+ভট্টাচার্য্য পূর্ব্বপক্ষ অপার করিল ॥ ১৭৬ ॥
+
+ei-mate kalpita bhāṣye śata doṣa dila  
+thus  in the fanciful  commentary  hundreds of  faults  He showed  
+bhaṭṭācārya pūrva-pakṣa apāra karila  
+the Bhaṭṭācārya  objections  without end  made
+
+(176) In this way the Lord pointed out hundreds of faults in that fanciful commentary, and the Bhaṭṭācārya raised countless objections.
+
+বিতণ্ডা, ছল, নিগ্রহাদি অনেক উঠাইল ৷  
+সব খণ্ডি’ প্রভু নিজ-মত সে স্থাপিল ॥ ১৭৭ ॥
+
+vitaṇḍā, chala, nigrahādi aneka uṭhāila  
+captious wrangling  quibbles  points of defeat and the like  many  he raised  
+saba khaṇḍi’ prabhu nija-mata se sthāpila  
+all  refuting  the Lord  His own view  that  established
+
+(177) He brought up much captious wrangling (*vitaṇḍā*), quibbling (*chala*), points of defeat (*nigraha*) and the like, but the Lord refuted them all and established His own view.[^70]
+
+ভগবান্ — ‘সম্বন্ধ’, ভক্তি — ‘অভিধেয়’ হয় ৷  
+প্রেম — ‘প্রয়োজন’, বেদে তিন বস্তু কয় ॥ ১৭৮ ॥
+
+bhagavān — ‘sambandha’, bhakti — ‘abhidheya’ haya  
+Bhagavān  sambandha  bhakti  abhidheya  is  
+prema — ‘prayojana’, vede tina vastu kaya  
+love  prayojana  in the Vedas  three  realities  are stated
+
+(178) “Bhagavān is the relationship (*sambandha*), bhakti is the means (*abhidheya*), and love is the goal (*prayojana*) — these three truths the Vedas declare.[^71]
+
+আর যে যে-কিছু কহে, সকলেই কল্পনা ৷  
+স্বতঃপ্রমাণ বেদ-বাক্যে না করিয়ে লক্ষণা ॥ ১৭৯ ॥
+
+āra ye ye-kichu kahe, sakalei kalpanā  
+else  whatever  anything  is said  all of it  fancy  
+svataḥ-pramāṇa veda-vākye nā kariye lakṣaṇā  
+self-evident  in the words of the Veda  not  I apply  an indirect reading
+
+(179) Whatever else anyone says is all fancy. To the self-evident words of the Veda I do not apply an indirect reading (*lakṣaṇā*).[^72]
+
+আচার্য্যের দোষ নাহি, ঈশ্বর-আজ্ঞা হৈল ৷  
+অতএব কল্পনা করি’ নাস্তিক-শাস্ত্র কৈল ॥ ১৮০ ॥
+
+ācāryera doṣa nāhi, īśvara-ājñā haila  
+of the Ācārya  fault  there is not  the Lord’s order  there was  
+ataeva kalpanā kari’ nāstika-śāstra kaila  
+therefore  fancy  making  an atheistic scripture  he made
+
+(180) The Ācārya (Śaṅkara) is not at fault: it was the Lord’s order. That is why he invented an atheistic scripture.”[^73]
+
+স্বাগমৈঃ কল্পিতৈস্ত্বঞ্চ জনান্ মদ্বিমুখান্ কুরু ৷  
+মাঞ্চ গোপয় যেন স্যাৎ সৃষ্টিরেষোত্তরোত্তরা ॥ ১৮১ ॥
+
+svāgamaiḥ kalpitais tvaṁ ca  
+by your own scriptures  imagined  you  and  
+janān mad-vimukhān kuru  
+people  averse to Me  make  
+māṁ ca gopaya yena syāt  
+Me  and  hide  so that  may be  
+sṛṣṭir eṣottarottarā  
+creation  this  ever increasing
+
+(181) “By scriptures of your own imagining turn people away from Me, and hide Me, so that this creation may go on increasing more and more.” (Padma Purāṇa, Uttara-khaṇḍa, 62.31)[^74]
+
+মায়াবাদমসচ্ছাস্ত্রং প্রচ্ছন্নং বৌদ্ধমুচ্যতে ৷  
+ময়ৈব বিহিতং দেবি কলৌ ব্রাহ্মণ-মূর্ত্তিনা ॥ ১৮২ ॥
+
+māyāvādam asac-chāstraṁ  
+Māyāvāda  a false scripture  
+pracchannaṁ bauddham ucyate  
+disguised  Buddhism  is called  
+mayaiva vihitaṁ devi  
+by me  indeed  set forth  O Devī  
+kalau brāhmaṇa-mūrtinā  
+in Kali  in the form of a brāhmaṇa
+
+(182) “Māyāvāda is a false scripture; it is called Buddhism in disguise. It was I, O Devī, who set it forth in the age of Kali in the form of a brāhmaṇa.” (Padma Purāṇa, Uttara-khaṇḍa, 25.7)[^75]
+
+শুনি’ ভট্টাচার্য্য হৈল পরম বিস্মিত ৷  
+মুখে না নিঃসরে বাণী, হইলা স্তম্ভিত ॥ ১৮৩ ॥
+
+śuni’ bhaṭṭācārya haila parama vismita  
+hearing  the Bhaṭṭācārya  became  utterly  astonished  
+mukhe nā niḥsare vāṇī, hailā stambhita  
+from his mouth  not  comes out  a word  he became  stunned
+
+(183) Hearing this, the Bhaṭṭācārya was utterly astonished. Not a word left his lips; he sat stunned.
+
+প্রভু কহে, — ভট্টাচার্য্য, না কর বিস্ময় ৷  
+ভগবানে ভক্তি — পরম-পুরুষার্থ হয় ॥ ১৮৪ ॥
+
+prabhu kahe, — bhaṭṭācārya, nā kara vismaya  
+the Lord  says  Bhaṭṭācārya  do not  make  wonder  
+bhagavāne bhakti — parama-puruṣārtha haya  
+to Bhagavān  devotion  the highest goal of life  is
+
+(184) The Lord said, “Do not be amazed, Bhaṭṭācārya. Devotion to Bhagavān is the highest goal of human life.
+
+‘আত্মারাম’ পর্য্যন্ত করে ঈশ্বর ভজন ৷  
+ঐছে অচিন্ত্য ভগবানের গুণগণ ॥ ১৮৫ ॥
+
+‘ātmārāma’ paryanta kare īśvara bhajana  
+the ātmārāmas  even  do  of the Lord  worship  
+aiche acintya bhagavānera guṇa-gaṇa  
+such  inconceivable  Bhagavān’s  qualities
+
+(185) Even the *ātmārāmas*, who delight in the self, worship the Lord — so inconceivable are the qualities of Bhagavān.”
+
+আত্মারামাশ্চ মুনয়ো নির্গ্রন্থা অপ্যুরুক্রমে ৷  
+কুর্ব্বন্ত্যহৈতুকীং ভক্তিমিত্থম্ভূতগুণো হরিঃ ॥ ১৮৬ ॥
+
+ātmārāmāś ca munayo  
+delighting in the ātmā  and  the sages  
+nirgranthā apy urukrame  
+free from knots  even  to Urukrama  
+kurvanty ahaitukīṁ bhaktim  
+perform  causeless  devotion  
+ittham-bhūta-guṇo hariḥ  
+of such  qualities  is Hari
+
+(186) “Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.” (Śrīmad-Bhāgavatam, 1.7.10)[^76]
+
+শুনি’ ভট্টাচার্য্য কহে, — শুন, মহাশয় ৷  
+এই শ্লোকের অর্থ শুনিতে বাঞ্ছা হয় ॥ ১৮৭ ॥
+
+śuni’ bhaṭṭācārya kahe, — śuna, mahāśaya  
+hearing  the Bhaṭṭācārya  says  listen  sir  
+ei ślokera artha śunite vāñchā haya  
+of this  verse  the meaning  to hear  desire  there is
+
+(187) Hearing this, the Bhaṭṭācārya said, “Listen, my dear sir (*mahāśaya*): I wish to hear the meaning of this verse.”
+
+প্রভু কহে, — তুমি কি অর্থ কর, তাহা আগে শুনি ৷  
+পাছে আমি করিব অর্থ, যেবা কিছু জানি ॥ ১৮৮ ॥
+
+prabhu kahe, — tumi ki artha kara, tāhā āge śuni  
+the Lord  says  you  what  meaning  make  that  first  I will hear  
+pāche āmi kariba artha, yebā kichu jāni  
+afterwards  I  will make  meaning  whatever  little  I know
+
+(188) The Lord said, “First let Me hear what meaning you give it. Afterwards I shall explain it, as far as I know.”
+
+শুনি’ ভট্টাচার্য্য শ্লোক করিল ব্যাখ্যান ৷  
+তর্কশাস্ত্র-মত উঠায় বিবিধ বিধান ॥ ১৮৯ ॥
+
+śuni’ bhaṭṭācārya śloka karila vyākhyāna  
+hearing  the Bhaṭṭācārya  of the verse  made  an explanation  
+tarka-śāstra-mata uṭhāya vividha vidhāna  
+according to logic  raises  various  propositions
+
+(189) Hearing this, the Bhaṭṭācārya explained the verse, raising various propositions in the manner of the science of logic.
+
+নববিধ অর্থ কৈল শাস্ত্রমত লঞা ৷  
+শুনি’ প্রভু কহে কিছু ঈষৎ হাসিয়া ॥ ১৯০ ॥
+
+nava-vidha artha kaila śāstra-mata lañā  
+of nine kinds  meanings  he gave  scriptural views  taking  
+śuni’ prabhu kahe kichu īṣat hāsiyā  
+hearing  the Lord  says  something  slightly  smiling
+
+(190) He gave nine different meanings on the authority of scripture. Hearing them, the Lord smiled slightly and said:
+
+‘ভট্টাচার্য্য’, জানি, — তুমি সাক্ষাৎ বৃহস্পতি ৷  
+শাস্ত্রব্যাখ্যা করিতে ঐছে কারো নাহি শক্তি ॥ ১৯১ ॥
+
+‘bhaṭṭācārya’, jāni, — tumi sākṣāt bṛhaspati  
+Bhaṭṭācārya  I know  you  the very  Bṛhaspati  
+śāstra-vyākhyā karite aiche kāro nāhi śakti  
+of scripture  explanation  to make  like this  no one’s  there is not  power
+
+(191) “Bhaṭṭācārya, I know that you are Bṛhaspati himself. No one else has the power to explain scripture like this.
+
+কিন্তু তুমি অর্থ কৈলে পাণ্ডিত্য-প্রতিভায় ৷  
+ইহা বই শ্লোকের আছে আরো অভিপ্রায় ॥ ১৯২ ॥
+
+kintu tumi artha kaile pāṇḍitya-pratibhāya  
+but  you  meaning  made  by the brilliance of scholarship  
+ihā vai ślokera āche āro abhiprāya  
+this  besides  of the verse  there is  further  intent
+
+(192) But you have explained it by the brilliance of your scholarship; beyond this, the verse has another intent.”
+
+ভট্টাচার্য্যের প্রার্থনাতে প্রভু ব্যাখ্যা কৈল ৷  
+তাঁর নব অর্থ মধ্যে এক না ছুঁইল ॥ ১৯৩ ॥
+
+bhaṭṭācāryera prārthanāte prabhu vyākhyā kaila  
+the Bhaṭṭācārya’s  at the request  the Lord  explanation  made  
+tām̐ra nava artha madhye eka nā chum̐ila  
+his  nine  meanings  among  one  not  He touched
+
+(193) At the Bhaṭṭācārya’s request the Lord explained the verse, without touching even one of his nine meanings.
+
+আত্মারামাশ্চ-শ্লোকে ‘একাদশ’ পদ হয় ৷  
+পৃথক্ পৃথক্ কৈল পদের অর্থ নিশ্চয় ॥ ১৯৪ ॥
+
+ātmārāmāś ca-śloke ‘ekādaśa’ pada haya  
+in the “ātmārāmāś ca” verse  eleven  words  there are  
+pṛthak pṛthak kaila padera artha niścaya  
+separately  separately  He made  of the words  the meaning  certain
+
+(194) The verse “ātmārāmāś ca” has eleven words, and He established the meaning of each word separately.
+
+তত্তৎপদ-প্রাধান্যে ‘আত্মারাম’ মিলাঞা ৷  
+অষ্টাদশ অর্থ কৈল অভিপ্রায় লঞা ॥ ১৯৫ ॥
+
+tat-tat-pada-prādhānye ‘ātmārāma’ milāñā  
+to each word  giving prominence  with “ātmārāma”  combining  
+aṣṭādaśa artha kaila abhiprāya lañā  
+eighteen  meanings  He made  the intent  taking
+
+(195) Giving prominence to each word in turn and combining it with “ātmārāma”, He brought out eighteen meanings according to the verse’s intent.[^77]
+
+ভগবান্, তাঁর শক্তি, তাঁর গুণগণ ৷  
+অচিন্ত্য প্রভাব তিনের না যায় কথন ॥ ১৯৬ ॥
+
+bhagavān, tām̐ra śakti, tām̐ra guṇa-gaṇa  
+Bhagavān  His  potency  His  qualities  
+acintya prabhāva tinera nā yāya kathana  
+inconceivable  power  of the three  not  can be  described
+
+(196) “Bhagavān, His potency and His qualities — the inconceivable power of these three cannot be described.
+
+অন্য যত সাধ্য-সাধন করি’ আচ্ছাদন ৷  
+এই তিনে হরে সিদ্ধ-সাধকের মন ॥ ১৯৭ ॥
+
+anya yata sādhya-sādhana kari’ ācchādana  
+other  all  goals and means  making  eclipse  
+ei tine hare siddha-sādhakera mana  
+these  three  steal  of the perfected and the practitioners  the minds
+
+(197) Eclipsing every other goal and means, these three steal the hearts of the perfected and of those who still practise.”[^78]
+
+সনকাদি-শুকদেব তাহাতে প্রমাণ ৷  
+এইমত নানা অর্থ করেন ব্যাখ্যান ॥ ১৯৮ ॥
+
+sanakādi-śukadeva tāhāte pramāṇa  
+Sanaka and the others, Śukadeva  of this  the proof  
+ei-mata nānā artha karena vyākhyāna  
+in this way  various  meanings  He makes  explanation
+
+(198) Sanaka and the other Kumāras, and Śukadeva, are proof of this. In this way the Lord explained many meanings.[^79]
+
+শুনি’ ভট্টাচার্য্যের মনে হৈল চমৎকার ৷  
+প্রভুকে কৃষ্ণ জানি’ করে আপনা ধিক্কার ॥ ১৯৯ ॥
+
+śuni’ bhaṭṭācāryera mane haila camatkāra  
+hearing  the Bhaṭṭācārya’s  in the mind  there was  wonder  
+prabhuke kṛṣṇa jāni’ kare āpanā dhikkāra  
+the Lord  as Kṛṣṇa  knowing  he does  himself  reproach
+
+(199) Hearing this, the Bhaṭṭācārya was struck with wonder. Knowing the Lord to be Kṛṣṇa, he began to reproach himself:
+
+ইঁহো ত’ সাক্ষাৎ কৃষ্ণ, — মুঞি না জানিয়া ৷  
+মহা-অপরাধ কৈনু গর্ব্বিত হইয়া ॥ ২০০ ॥
+
+im̐ho ta’ sākṣāt kṛṣṇa, — muñi nā jāniyā  
+He  indeed  directly  Kṛṣṇa  I  not  knowing  
+mahā-aparādha kainu garvita haiyā  
+a great offence  I committed  proud  being
+
+(200) “He is Kṛṣṇa Himself, and I, not knowing it, have committed a great offence in my pride.”
+
 ---
 
 [^1]: Heading in the edition: “Obeisance to Gaura, who conquered Sārvabhauma”. *Anubhāṣya*: *sarva-bhūmā* — He whose greatness surpasses all that is not Kṛṣṇa, the Supreme Paramātmā Gauracandra; *kutarka* — false arguments, misconceptions about the nature of the jīva and its activity; *bhakti-bhūmānam ācarat* — He made him a vessel full of pure bhakti, that is, a servant of His feet. The verse plays on the words *sārvabhauma* (“lord of all the earth”), *sarva-bhūmā* and *bhakti-bhūmā*.
@@ -1958,3 +2220,23 @@ the praṇava  not  accepting  it  he calls  the great statement
 [^68]: *Anubhāṣya*: the praṇava is the form of the Lord in His name (*nāma-vigraha*); it alone is the *mahā-vākya*.
 
 [^69]: *Anubhāṣya*: this saying is addressed to the bewildered jīva, so that it may not identify itself with the body; the Māyāvādīs, instead of taking shelter of the name, *oṁkāra*, put forward *tat tvam asi*. *Amṛta-pravāha-bhāṣya*: the saying explains the spiritual nature of the jīva, but it is not a *mahā-vākya*.
+
+[^70]: *Anubhāṣya*: *vitaṇḍā* — arguing only to refute another’s view without establishing one’s own; *chala* — a refutation that ascribes to a word some invented object in place of its real sense; *nigraha* — the defeat of the opposing side.
+
+[^71]: Compare Ādi 7.146. Heading in the edition: “The Lord establishes the true teaching of the Vedas”.
+
+[^72]: Some editions read *veda-vākye karena lakṣaṇā* (“he gives the self-evident words of the Veda an indirect reading”); the Gauḍīya Maṭha edition has *veda-vākye nā kariye lakṣaṇā*, and the translation follows it.
+
+[^73]: Heading in the edition: “By the Lord’s command Śaṅkara bewilders the asuras”. The *Anubhāṣya* quotes the Lord’s words from the *Kūrma Purāṇa* (Pūrva-bhāga, 16.115–117): to keep the world from sinners who reject the Vedas, Rudra, at Mādhava’s bidding, composed bewildering scriptures.
+
+[^74]: The reference follows the heading in the edition. *Anubhāṣya*: the Lord is speaking to Śiva; *sva-āgamaiḥ kalpitaiḥ* — by his own tantras and other books, fallen from the truth; *sṛṣṭir uttarottarā* — so that the inclination to saṁsāra may keep growing.
+
+[^75]: *Anubhāṣya*: *pracchannam* — hypocritically occupied with discussing the Vedas, yet opposed to the path of śruti; *brāhmaṇa-mūrtinā* — in the body named Śaṅkara, born in the land of Malabar.
+
+[^76]: *Anubhāṣya*: *ātmārāmāḥ* — those who delight in the ātmā, that is, in Bhagavān, whose nature is to play with Kṛṣṇa; *nirgranthāḥ* — free from the knot of desires born in the heart; *ahaitukī* — free from other desires, not covered by karma, jñāna and the like; *itthaṁ-bhūta-guṇaḥ* — Hari has the quality of attracting jīvas in every condition, liberated or not, and by His mercy frees those devoted to Māyāvāda from their doctrines.
+
+[^77]: *Amṛta-pravāha-bhāṣya*: eleven meanings for the eleven words of the verse, and seven more when *ātmārāma* is joined to each of the seven chief words — *munayaḥ*, *nirgranthāḥ*, *urukrama*, *ahaitukī*, *bhakti*, *guṇa* and *hari*; eighteen in all. *Anubhāṣya*: see Madhya 24.
+
+[^78]: *Anubhāṣya*: eclipsing all the relationships and means invented by jñānīs, karmīs and those with other desires, these three realities — Bhagavān of inconceivable power, His potency and His qualities — steal the minds of both sādhakas and siddhas.
+
+[^79]: *Anubhāṣya*: so Kṛṣṇa attracted the liberated sages, Sanaka and the others, and Śukadeva; see Madhya 24.112–116, 17.139 and *Śrīmad-Bhāgavatam*, 3.15.43.
