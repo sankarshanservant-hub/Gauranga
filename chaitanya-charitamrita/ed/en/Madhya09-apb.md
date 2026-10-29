@@ -35,3 +35,47 @@ The root *kṛṣ* means *bhū*, that is, attractive existence, and the word *�
 ## 31
 
 If one accepts the meaning of the two verses just cited, the names of Rāma and Kṛṣṇa equally mean the Supreme Brahman. Yet scripture says something more as well; this will be told next.
+
+## 32
+
+“I delight (find bliss) in the beautiful Rāma, [chanting] ‘Rāma, Rāma, Rāma.’ O fair-faced one, one name of Rāma equals a thousand names of Viṣṇu.”
+
+## 33
+
+The result obtained by reciting the sacred thousand names (of Viṣṇu) three times is given by uttering the name of Kṛṣṇa once. The point is this: one name of Rāma equals a thousand names of Viṣṇu, and so the result of chanting Rāma's name three times is obtained from a single name of Kṛṣṇa.
+
+## 42
+
+**Tārkikas**: the Naiyāyikas, followers of Gautama, and the Vaiśeṣikas, followers of Kaṇāda. **Mīmāṁsakas**: those who establish the doctrine of Jaimini. **Māyāvādīs**: those who establish the doctrine of Śaṅkara. **Sāṅkhya**: the doctrine of Kapila. **Pātañjala**: the *yoga-śāstra*. **Smṛti**: the twenty *saṁhitās* of *dharma-śāstra*—those of Manu, Atri, and others. **Purāṇas**: the eighteen Mahā-purāṇas and the eighteen Upapurāṇas. **Āgamas**: the Tantra-śāstras.
+
+## 43
+
+***Śāstrodgrāha***: upholding [one's own] scriptures.
+
+## 44–45
+
+**The Lord's *siddhānta*, “by this doctrine”**: the Lord's doctrine, that is, the *siddhānta* of *acintya-bhedābheda* established by the Vedas, the Vedānta, and the *Brahma-sūtra*.
+
+## 46
+
+**Pāṣaṇḍīs**: this is the name for followers of doctrines that stand outside the scriptures—the Vedas, *smṛti*, the *darśanas*, the Purāṇas, the Āgamas, and so on.
+
+## 48
+
+***Asambhāṣya***: one not fit to be spoken with, because he opposes the Vedas and has turned away from *bhakti*. **It is improper to see them**: of one who has seen godless Buddhists and their like, scripture (the *sātvata* scripture) says, “Let him enter the water with his clothes on.” That is, by the word of scripture it is improper to see atheistic Buddhists and their like.
+
+## 49
+
+The Buddhist doctrine has two paths, the *hīnayāna* and the *mahāyāna*. The starting point for following these paths is nine propositions: (1) the universe is without beginning, and therefore without an Īśvara; (2) the world is untrue; (3) [the truth is] the “I” (*ahaṁ-tattva*); (4) birth after birth and the other world are real; (5) only the Buddha is the means of attaining truth; (6) *nirvāṇa* is the supreme truth; (7) only Buddhist philosophy is [true] philosophy; (8) the Vedas were composed by human beings; (9) Buddhist life is the practice of true *dharma*—compassion and the like.
+
+## 53
+
+**Impure**: unfit for a Vaiṣṇava to accept.
+
+## 66
+
+**Pānā-nṛsiṁha**: *pānā* is a sugar drink, that is, the sherbet offered to Nṛsiṁha at this place.
+
+## 78
+
+**At Kumbhakarṇa-kapāla**: seeing the lake that had formed in Kumbhakarṇa's skull.
