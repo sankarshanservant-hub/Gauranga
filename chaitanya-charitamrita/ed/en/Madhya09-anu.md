@@ -1096,7 +1096,7 @@ Having duly accomplished by *dharma* what serves as the means of worship, all th
 
 > Subheading: The Lord comes to Phalgu-tīrtha —
 
-***Tā̃ra ghare*** means *tā̃hāke* (him).[^278-1] Even today, on the Howrah–Amta line, in places like “Mājhu,” and in Burdwan toward Katwa, the colloquial language regularly uses the word *ghare* together with the genitive ending *-r* of the pronouns *tat*, *yuṣmad*, and *asmad* in the sense of the accusative, singular and plural. For example, *tādera ghare*, *tomādera ghare*, and *āmādera ghare* mean *tāhādigake* (them), *tomādigake* (you), and *āmādigake* (us). In East Bengal, in the accusative of these words, and only in the plural, the word *gore* is used, a corruption of *ghare*, but the genitive ending *-r* is not added to them. For example, instead of *tomādigake ḍākiyāche* (“you are being called”), the colloquial language of East Bengal says *tomāgore ḍākche*.
+***Tā̃ra ghare*** means *tā̃hāke* (him). Even today, on the Howrah–Amta line, in places like “Mājhu,” and in Burdwan toward Katwa, the colloquial language regularly uses the word *ghare* together with the genitive ending *-r* of the pronouns *tat*, *yuṣmad*, and *asmad* in the sense of the accusative, singular and plural. For example, *tādera ghare*, *tomādera ghare*, and *āmādera ghare* mean *tāhādigake* (them), *tomādigake* (you), and *āmādigake* (us). In East Bengal, in the accusative of these words, and only in the plural, the word *gore* is used, a corruption of *ghare*, but the genitive ending *-r* is not added to them. For example, instead of *tomādigake ḍākiyāche* (“you are being called”), the colloquial language of East Bengal says *tomāgore ḍākche*.
 
 ## 279
 
@@ -1470,8 +1470,6 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 [^273-1]: The edition's cross-reference reads “২৪৭ সংখ্যার অনুভাষ্য” (the *Anubhāṣya* to number 247). The succession list of the Uttararāḍhī Maṭha is in the *Anubhāṣya* to verse 245 (section 245–247; see above).
 
 [^273-2]: So in the edition (“রঘুবীর্য্যতীর্থ”); in the succession list and in the subheading to verse 254, “Raghuvarya.”
-
-[^278-1]: Vṛndāvana Candra Dāsa's verse translation differs: “broke the pride of the Tattvavādīs” (for the commentator, the pride of the *ācārya* himself).
 
 [^360-1]: *Caitanya-caritāmṛta*, Madhya 8.273 (numbering of Vṛndāvana Candra Dāsa's translation); the edition quotes it with a slight variant.
 

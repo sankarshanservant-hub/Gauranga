@@ -210,7 +210,7 @@ Mahāprabhu's elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received
 
 ## 347
 
-***Pāṇḍāpāla.*** Those who perform *pūjā* to Śrī Jagannātha are *pāṇḍās*; those who do other kinds of service are “*paśupālas*.” The two words together have become *pāṇḍāpāla*.[^347-1]
+***Pāṇḍāpāla.*** Those who perform *pūjā* to Śrī Jagannātha are *pāṇḍās*; those who do other kinds of service are “*paśupālas*.” The two words together have become *pāṇḍāpāla*.
 
 ## 355–357
 
@@ -230,4 +230,3 @@ With natural compassion for other *jīvas* — that is, giving up altogether any
 
 ---
 
-[^347-1]: Vṛndāvana Candra Dāsa's verse translation differs: “the temple priests.”
