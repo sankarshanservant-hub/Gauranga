@@ -395,3 +395,45 @@ Verse 9. In the auspicious Śaka year 1203, in the month of Vaiśākha, in the b
 ## 127
 
 > Subheading: The Lord orders everyone to preach Kṛṣṇa's name and *bhakti* as *ācāryas* —
+
+## 130
+
+There are people who resolve to give up everything and serve Śrīman Mahāprabhu with exclusive surrender. Bhagavān Gaurasundara accepts their *bhajana* and gives them this teaching: “Stay at home — that is, give up the conceit of being ‘wholly devoted to *bhajana*.’ With the humility of one living in a household, chant Kṛṣṇa's name constantly and preach the pure *bhajana* of Kṛṣṇa's name.” “I am the best of Vaiṣṇavas; if I accept disciples, pride will ruin my *bhajana*” — one should give up this inflated devotee's conceit. If one humbly practices pure chanting of the name and does the work of a guru — preaching the pure name — then the waves of worldly objects in the form of mundane fame cannot overwhelm him.
+
+Śrī Rūpa, Śrī Sanātana, Śrī Jīva, Śrī Raghunātha dāsa and the Lord's other associates, the great souls, as well as Śrīman Narottama, Śrīla Madhva, Rāmānuja and others, accepted many disciples and gave instruction by writing books. Many foolish people imagine that all this is an obstacle to *bhakti* and a wave of worldly objects, and so they become offenders at the feet of genuine *akiñcana* devotees. They should carefully consider this order of the Lord and give up their petty, pride-filled show of humility, which makes them try not to answer those averse to Hari.[^130-1] Following Gaura, they should increase their own *bhajana*. For this, Śrī Gaurāṅga — the guru of the world, the *ācārya* — gives exactly this teaching.
+
+## 131
+
+> Subheading: Until His return to Purī, the Lord orders everyone to preach *bhakti* as *ācāryas* —
+
+## 134
+
+> Subheading: The night at Kūrma's house —
+
+## 135
+
+> Subheading: In the morning, on the road again —
+
+## 136
+
+> Subheading: The leper *brāhmaṇa* Vāsudeva comes to Kūrma's house to see the Lord —
+
+## 139
+
+> Subheading: Hearing that the Lord has left Kūrma, Vāsudeva grieves and laments —
+
+## 141
+
+> Subheading: The Lord embraces him, and the *brāhmaṇa* is freed from leprosy and becomes beautiful —
+
+## 142
+
+> Subheading: Seeing the Lord's mercy, Vāsudeva offers prayers —
+
+## 143
+
+See Ādi-līlā, Chapter 17, 78.
+
+---
+
+[^130-1]: The phrase also admits another reading: “…and, without trying to take revenge on those averse to Hari, following Gaura, increase their own *bhajana*.”
