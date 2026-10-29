@@ -1237,7 +1237,7 @@ the rāsa  not  obtained  Lakṣmī  in the scriptures  this  I hear
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ১২১ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not  this  of Śrī  O  indeed  wholly attached  favor  
+not  this  of Śrī  on the chest  indeed  wholly attached  favor  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
 of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
