@@ -14,3 +14,15 @@
 | Nadīyā | Nadīyā | 3.138 |
 | prātaḥ-kṛtya | the morning duties | 3.139 |
 | Śacīmātā; Āi | Śacīmātā; Āi (mother) | 3.137–149 |
+| bāchā | my child | 3.143 |
+| niṭhurāi | cruelty | 3.143 |
+| udāsa | indifferent | 3.147, 3.175 |
+| Rāmāi; Vidyānidhi; Gaṅgādāsa; Buddhimanta Khān; Sañjaya | Rāmāi (Śrī Rāma Paṇḍita); Vidyānidhi (Puṇḍarīka); Gaṅgādāsa; Buddhimanta Khān; Sañjaya | 3.153–154 (names as written) |
+| śrī-vaikuṇṭha-purī | the city of Śrī Vaikuṇṭha | 3.156 |
+| bhāṇḍāra — akṣaya, avyaya | storehouse — inexhaustible, never diminishing | 3.159 |
+| sarva-bhāvodaya | every ecstasy rose | 3.162 |
+| stambha, kampa, pulakāśru, gadgada, pralaya | stupor, trembling, hair standing on end and tears, a choked voice, fainting (*pralaya*) | 3.162 |
+| āchāḍa khāñā | dashing Himself to the ground | 3.163 |
+| vātsalya | motherly love | 3.167 |
+| bhikṣā dite | to invite to a meal (lit. to give alms) | 3.168, 3.171 |
+| minati | entreaty | 3.169 |
