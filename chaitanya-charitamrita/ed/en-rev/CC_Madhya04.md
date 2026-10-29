@@ -807,15 +807,15 @@ by Gopāla’s power  it happens  others  not  knew
 
 (80) After giving water to rinse the mouth, he offered a store of betel rolls; then he performed *ārati*, and the people cried, “Jaya! Jaya!”[^29]
 
-শয্যা করাইল, নূতন খাট আনাঞা ৷  
+শয্যা করাইল, নুতন খাট আনাঞা ৷  
 নববস্ত্র আনি’ তার উপরে পাতিয়া ॥ ৮১ ॥
 
-śayyā karāila, nūtana khāṭa ānāñā  
+śayyā karāila, nutana khāṭa ānāñā  
 a bed  had made  new  cot  having brought  
 nava vastra āni’ tāra upare pātiyā  
 new  cloth  bringing  on it  on top  spreading
 
-(81) He had a bed prepared: a new cot was brought, and new cloth was spread over it.[^30]
+(81) He had a bed prepared: a new cot was brought, and new cloth was spread over it.
 
 তৃণ-টাটি দিয়া চারি দিক্ আবরিল ৷  
 উপরেতে এক টাটি দিয়া আচ্ছাদিল ॥ ৮২ ॥
@@ -865,7 +865,7 @@ seeing  Purī’s  power  the people  amazed
 pūrva annakūṭa yena haila sākṣātkāra  
 former  Annakūṭa  as if  became  visible
 
-(86) Seeing Purī’s power, the people were amazed: it was as if the Annakūṭa of old had come before their eyes.[^31]
+(86) Seeing Purī’s power, the people were amazed: it was as if the Annakūṭa of old had come before their eyes.[^30]
 
 সকল ব্রাহ্মণে পুরী বৈষ্ণব করিল ৷  
 সেই সেই সেবা-মধ্যে সবা নিয়োজিল ॥ ৮৭ ॥
@@ -875,7 +875,7 @@ all  the brāhmaṇas  Purī  Vaiṣṇavas  made
 sei sei sevā-madhye sabā niyojila  
 in this  and that  service  all  engaged
 
-(87) Purī made all the brāhmaṇas Vaiṣṇavas and engaged each of them in one service or another.[^32]
+(87) Purī made all the brāhmaṇas Vaiṣṇavas and engaged each of them in one service or another.[^31]
 
 পুনঃ দিন-শেষে প্রভুর করাইল উত্থান ৷  
 কিছু ভোগ লাগাইল করাইল জলপান ॥ ৮৮ ॥
@@ -915,7 +915,7 @@ at night  the Deity  having made  lie down
 purī gosāñi kaila kichu gavya bhojana  
 Purī  Gosāñi  took  a little  milk  food
 
-(91) At night, after putting the Deity to rest, Purī Gosāñi would take a little milk.[^33]
+(91) At night, after putting the Deity to rest, Purī Gosāñi would take a little milk.[^32]
 
 প্রাতঃকালে পুনঃ তৈছে করিল সেবন ৷  
 অন্ন লঞা এক গ্রামের আইল লোকগণ ॥ ৯২ ॥
@@ -955,7 +955,7 @@ of Vraja  the people’s  for Kṛṣṇa  natural love
 gopālera sahaja-prīti vraja-vāsī-prati  
 Gopāla’s  natural love  for the Vrajavāsīs
 
-(95) The people of Vraja have a natural love for Kṛṣṇa, and Gopāla has a natural love for the people of Vraja.[^34]
+(95) The people of Vraja have a natural love for Kṛṣṇa, and Gopāla has a natural love for the people of Vraja.[^33]
 
 মহাপ্রসাদ খাইল আসিয়া সব লোক ৷  
 গোপাল দেখিয়া সবার খণ্ডে দুঃখ-শোক ॥ ৯৬ ॥
@@ -1035,7 +1035,7 @@ Gauḍa  from  came  two  renounced  brāhmaṇas
 purī-gosāñi rākhila tāre kariyā yatana  
 Purī Gosāñi  kept  them  showing  care
 
-(103) Two renounced brāhmaṇas came from Gauḍa, and Purī Gosāñi kept them with him, caring for them affectionately.[^35]
+(103) Two renounced brāhmaṇas came from Gauḍa, and Purī Gosāñi kept them with him, caring for them affectionately.[^34]
 
 সেই দুই শিষ্য করি’ সেবা সমর্পিল ৷  
 রাজ-সেবা হয়, — পুরীর আনন্দ বাড়িল ॥ ১০৪ ॥
@@ -1065,7 +1065,7 @@ Gopāla  says  Purī  My  heat  not  goes away
 malayaja-candana lepa’, tabe se juḍāya  
 Malaya sandalwood  smear  then  it  will cool
 
-(106) Gopāla said, “Purī, My heat does not go away. Anoint Me with sandal paste from the Malaya hills, and then it will cool.[^36]
+(106) Gopāla said, “Purī, My heat does not go away. Anoint Me with sandal paste from the Malaya hills, and then it will cool.[^35]
 
 ---
 
@@ -1127,16 +1127,14 @@ Malaya sandalwood  smear  then  it  will cool
 
 [^29]: *Amṛta-pravāha-bhāṣya*: *viḍaka* — rolls of betel; *sañcaya* — a store.
 
-[^30]: The Gauḍīya Maṭha edition reads *nūtana*.
+[^30]: *Anubhāṣya*: the Annakūṭa of old — at the end of the Dvāpara-yuga, on Śrī Kṛṣṇa’s advice, the cowherds gave up the worship of Indra and honoured the cows, the brāhmaṇas and Govardhana Hill, and Kṛṣṇa, assuming another form and saying “I am the hill”, ate the abundant offerings (Śrīmad-Bhāgavatam, 10.24). *Amṛta-pravāha-bhāṣya*: just such a great Annakūṭa as at that worship of Govardhana Mādhavendra Purī also held.
 
-[^31]: *Anubhāṣya*: the Annakūṭa of old — at the end of the Dvāpara-yuga, on Śrī Kṛṣṇa’s advice, the cowherds gave up the worship of Indra and honoured the cows, the brāhmaṇas and Govardhana Hill, and Kṛṣṇa, assuming another form and saying “I am the hill”, ate the abundant offerings (Śrīmad-Bhāgavatam, 10.24). *Amṛta-pravāha-bhāṣya*: just such a great Annakūṭa as at that worship of Govardhana Mādhavendra Purī also held.
+[^31]: Heading in the edition: “By Purī’s mercy the brāhmaṇas became Vaiṣṇavas”.
 
-[^32]: Heading in the edition: “By Purī’s mercy the brāhmaṇas became Vaiṣṇavas”.
+[^32]: *Anubhāṣya*: *gavya* — milk.
 
-[^33]: *Anubhāṣya*: *gavya* — milk.
+[^33]: Heading in the edition: “The natural love of the people of Vraja and Kṛṣṇa for one another”.
 
-[^34]: Heading in the edition: “The natural love of the people of Vraja and Kṛṣṇa for one another”.
+[^34]: Heading in the edition: “Purī shows mercy to two renounced brāhmaṇas and entrusts the service to them”.
 
-[^35]: Heading in the edition: “Purī shows mercy to two renounced brāhmaṇas and entrusts the service to them”.
-
-[^36]: *Anubhāṣya*: *malayaja* — born in the land of Malaya (Malabar, the southern part of the Western Ghats, also called Candana-giri, “the sandal mountain”); the word *malayaja* also means sandalwood itself. Heading in the edition: “In a dream Gopāla tells Purī that He wants sandal”.
+[^35]: *Anubhāṣya*: *malayaja* — born in the land of Malaya (Malabar, the southern part of the Western Ghats, also called Candana-giri, “the sandal mountain”); the word *malayaja* also means sandalwood itself. Heading in the edition: “In a dream Gopāla tells Purī that He wants sandal”.
