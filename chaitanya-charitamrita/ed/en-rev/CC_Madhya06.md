@@ -1969,7 +1969,7 @@ hearing  the Bhaṭṭācārya  of the verse  made  an explanation
 tarka-śāstra-mata uṭhāya vividha vidhāna  
 according to logic  raises  various  propositions
 
-(189) Hearing this, the Bhaṭṭācārya explained the verse, raising various propositions in the manner of the science of logic.
+(189) At this the Bhaṭṭācārya explained the verse, raising various propositions in the manner of the science of logic.
 
 নববিধ অর্থ কৈল শাস্ত্রমত লঞা ৷  
 শুনি’ প্রভু কহে কিছু ঈষৎ হাসিয়া ॥ ১৯০ ॥
