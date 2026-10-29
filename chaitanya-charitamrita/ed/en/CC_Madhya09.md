@@ -1,58 +1,72 @@
 “Śrī Caitanya-caritāmṛta”  
 Madhya-līlā  
 Chapter 9  
-****  
+**Śrī Caitanya’s Pilgrimage to the Holy Places**  
 (translated from the Bengali for this edition)
 
 নানামতগ্রাহগ্রস্তান্ দাক্ষিণাত্যজনদ্বিপান্ ৷  
 কৃপারিণা বিমুচ্যৈতান্ গৌরশ্চক্রে স বৈষ্ণবান্ ॥ ১ ॥
 
 nānā-mata-grāha-grastān  
+of various  doctrines  by the crocodiles  seized  
 dākṣiṇātya-jana-dvipān  
+of the South  the people  elephants  
 kṛpāriṇā vimucyaitān  
-gauraś cakre sa vaiṣṇavān
+with the disc of mercy  freeing  them  
+gauraś cakre sa vaiṣṇavān  
+Gaura  made  He  Vaiṣṇavas
 
-(1) [not yet translated]
+(1) The people of the South were like elephants seized by the crocodiles of various doctrines. Gaura freed them with the disc of His mercy and made them Vaiṣṇavas.
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
 
 jaya jaya śrī-caitanya jaya nityānanda  
-jayādvaita-candra jaya gaura-bhakta-vṛnda
+glory  glory  to Śrī Caitanya  glory  to Nityānanda  
+jayādvaita-candra jaya gaura-bhakta-vṛnda  
+glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
 
-(2) [not yet translated]
+(2) Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
 
 দক্ষিণগমন প্রভুর অতি বিলক্ষণ ৷  
 সহস্র সহস্র তীর্থ কৈল দরশন ॥ ৩ ॥
 
 dakṣiṇa-gamana prabhura ati vilakṣaṇa  
-sahasra sahasra tīrtha kaila daraśana
+to the south  the journey  of the Lord  most  extraordinary  
+sahasra sahasra tīrtha kaila daraśana  
+thousands  upon thousands  of holy places  He made  visit
 
-(3) [not yet translated]
+(3) The Lord’s journey to the south was most extraordinary: He visited thousands upon thousands of holy places.
 
 সেই সব তীর্থ স্পর্শি, মহাতীর্থ কৈল ৷  
 সেই ছলে সেই দেশের লোক নিস্তারিল ॥ ৪ ॥
 
 sei saba tīrtha sparśi, mahā-tīrtha kaila  
-sei chale sei deśera loka nistārila
+those  all  holy places  touching  great holy places  He made  
+sei chale sei deśera loka nistārila  
+under that  pretext  of that  land  the people  He delivered
 
-(4) [not yet translated]
+(4) By touching all those holy places He made them great holy places, and under that pretext He delivered the people of that land.
 
 সেইসব তীর্থের ক্রম করিতে না পারি ৷  
 দক্ষিণ-বামে তীর্থ-গমন হয় ফেরাফেরি ॥ ৫ ॥
 
 seisaba tīrthera krama karite nā pāri  
-dakṣiṇa-vāme tīrtha-gamana haya pherāpheri
+of those  holy places  the order  to arrange  not  I am able  
+dakṣiṇa-vāme tīrtha-gamana haya pherāpheri  
+right and left  to the holy places  the journey  was  back and forth
 
-(5) [not yet translated]
+(5) I cannot set those holy places in order, for His journey to them went right and left, back and forth.
 
 অতএব নাম-মাত্র করিয়ে গণন ৷  
 কহিতে না পারি তার যথা অনুক্রম ॥ ৬ ॥
 
 ataeva nāma-mātra kariye gaṇana  
-kahite nā pāri tāra yathā anukrama
+therefore  the names  only  I make  enumeration  
+kahite nā pāri tāra yathā anukrama  
+to describe  not  I am able  their  proper  sequence
 
-(6) [not yet translated]
+(6) Therefore I simply list their names; I cannot describe them in their proper sequence.
 
 পূর্ব্ববৎ পথে যাইতে যে পায় দরশন ৷  
 যেই গ্রামে যায়, সে গ্রামের যত জন ॥ ৭ ॥
@@ -61,191 +75,243 @@ kahite nā pāri tāra yathā anukrama
 অন্য গ্রাম নিস্তারয়ে সেই ‘বৈষ্ণব’ করি’ ॥ ৮ ॥
 
 pūrvavat pathe yāite ye pāya daraśana  
+as before  on the road  going  whoever  received  sight  
 yei grāme yāya, se grāmera yata jana  
+to whichever  village  He went  of that  village  all  the people  
 sabei vaiṣṇava haya, kahe ‘kṛṣṇa’ ‘hari’  
-anya grāma nistāraye sei ‘vaiṣṇava’ kari’
+all  Vaiṣṇavas  become  say  “Kṛṣṇa”  “Hari”  
+anya grāma nistāraye sei ‘vaiṣṇava’ kari’  
+other  villages  deliver  them  Vaiṣṇavas  making
 
-(7–8) [not yet translated]
+(7–8) As before, whoever saw Him on the road and all the people of every village He came to became Vaiṣṇavas and chanted “Kṛṣṇa” and “Hari.” They in turn delivered other villages, making their people Vaiṣṇavas.
 
 দক্ষিণ দেশের লোক অনেক প্রকার ৷  
 কেহ জ্ঞানী, কেহ কর্ম্মী, পাষণ্ডী অপার ॥ ৯ ॥
 
 dakṣiṇa deśera loka aneka prakāra  
-keha jñānī, keha karmī, pāṣaṇḍī apāra
+of the south  of the land  the people  of many  kinds  
+keha jñānī, keha karmī, pāṣaṇḍī apāra  
+some  jñānīs  some  karmīs  pāṣaṇḍīs  countless
 
-(9) [not yet translated]
+(9) The people of the South were of many kinds: some were jñānīs, some were karmīs, and there were countless pāṣaṇḍīs.
 
 সেই সব লোক প্রভুর দর্শনপ্রভাবে ৷  
 নিজ-নিজ-মত ছাড়ি’ হইল বৈষ্ণবে ॥ ১০ ॥
 
 sei saba loka prabhura darśana-prabhāve  
-nija-nija-mata chāḍi’ haila vaiṣṇave
+those  all  people  of the Lord  of the sight  by the power  
+nija-nija-mata chāḍi’ haila vaiṣṇave  
+their  own  doctrines  giving up  became  Vaiṣṇavas
 
-(10) [not yet translated]
+(10) By the power of seeing the Lord, all those people gave up their own doctrines and became Vaiṣṇavas.
 
 বৈষ্ণবের মধ্যে রাম-উপাসক সব ৷  
 কেহ ‘তত্ত্ববাদী’, কেহ হয় ‘শ্রীবৈষ্ণব’ ॥ ১১ ॥
 
 vaiṣṇavera madhye rāma-upāsaka saba  
-keha ‘tattvavādī’, keha haya ‘śrī-vaiṣṇava’
+the Vaiṣṇavas  among  of Rāma  worshipers  all  
+keha ‘tattvavādī’, keha haya ‘śrī-vaiṣṇava’  
+some  Tattvavādīs  some  were  Śrī Vaiṣṇavas
 
-(11) [not yet translated]
+(11) Among the Vaiṣṇavas, all were worshipers of Rāma: some were Tattvavādīs, and some were Śrī Vaiṣṇavas.
 
 সেই সব বৈষ্ণব মহাপ্রভুর দর্শনে ৷  
 কৃষ্ণ-উপাসক হৈল, লয় কৃষ্ণনামে ॥ ১২ ॥
 
 sei saba vaiṣṇava mahāprabhura darśane  
-kṛṣṇa-upāsaka haila, laya kṛṣṇa-nāme
+those  all  Vaiṣṇavas  of Mahāprabhu  upon seeing  
+kṛṣṇa-upāsaka haila, laya kṛṣṇa-nāme  
+of Kṛṣṇa  worshipers  became  take  the name of Kṛṣṇa
 
-(12) [not yet translated]
+(12) Upon seeing Mahāprabhu, all those Vaiṣṇavas became worshipers of Kṛṣṇa and took up the name of Kṛṣṇa.
 
 রাম! রাঘব! রাম! রাঘব! রাম! রাঘব! পাহি মাম্ ৷  
 কৃষ্ণ! কেশব! কৃষ্ণ! কেশব! কৃষ্ণ! কেশব! রক্ষ মাম্ ॥ ১৩ ॥
 
 rāma! rāghava! rāma! rāghava! rāma! rāghava! pāhi mām  
-kṛṣṇa! keśava! kṛṣṇa! keśava! kṛṣṇa! keśava! rakṣa mām
+Rāma  descendant of Raghu  Rāma  descendant of Raghu  Rāma  descendant of Raghu  save  me  
+kṛṣṇa! keśava! kṛṣṇa! keśava! kṛṣṇa! keśava! rakṣa mām  
+Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  Kṛṣṇa  Keśava  protect  me
 
-(13) [not yet translated]
+(13) “Rāma! Rāghava! Rāma! Rāghava! Rāma! Rāghava! Save me! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Kṛṣṇa! Keśava! Protect me!”
 
 এই শ্লোক পথে পড়ি’ করিলা প্রয়াণ ৷  
 গৌতমী-গঙ্গায় যাই’ কৈল গঙ্গাস্নান ॥ ১৪ ॥
 
 ei śloka pathe paḍi’ karilā prayāṇa  
-gautamī-gaṅgāya yāi’ kaila gaṅgā-snāna
+this  verse  on the way  reciting  He made  the journey  
+gautamī-gaṅgāya yāi’ kaila gaṅgā-snāna  
+at Gautamī-gaṅgā  arriving  He took  a bath in the Gaṅgā
 
-(14) [not yet translated]
+(14) Reciting this verse along the way, the Lord journeyed on. He came to Gautamī-gaṅgā and bathed in the Gaṅgā there.
 
 মল্লিকার্জ্জুন-তীর্থে যাই’ মহেশ দেখিল ৷  
 তাঁহা সব লোকে কৃষ্ণনাম লওয়াইল ॥ ১৫ ॥
 
 mallikārjuna-tīrthe yāi’ maheśa dekhila  
-tāṅhā saba loke kṛṣṇa-nāma laoyāila
+to Mallikārjuna-tīrtha  going  Maheśa  He saw  
+tāṅhā saba loke kṛṣṇa-nāma laoyāila  
+there  all  the people  the name of Kṛṣṇa  He made take
 
-(15) [not yet translated]
+(15) He went to Mallikārjuna-tīrtha and saw Maheśa (Śiva). There He made all the people take the name of Kṛṣṇa.
 
 রামদাস মহাদেবে করিল দরশন ৷  
 অহোবল-নৃসিংহেরে করিলা গমন ॥ ১৬ ॥
 
 rāmadāsa mahādeve karila daraśana  
-ahovala-nṛsiṁhere karilā gamana
+the servant of Rāma  Mahādeva  He made  sight  
+ahovala-nṛsiṁhere karilā gamana  
+to Ahobala-nṛsiṁha  He made  going
 
-(16) [not yet translated]
+(16) He had darśana of Mahādeva, the servant of Rāma, and then went to Ahobala-nṛsiṁha.
 
 নৃসিংহ দেখিয়া তাঁরে কৈল নতি-স্তুতি ৷  
 সিদ্ধবট গেলা যাঁহা মূর্ত্তি সীতাপতি ॥ ১৭ ॥
 
 nṛsiṁha dekhiyā tāṅre kaila nati-stuti  
-siddhavaṭa gelā yāṅhā mūrti sītāpati
+Nṛsiṁha  seeing  to Him  He made  obeisances and prayers  
+siddhavaṭa gelā yāṅhā mūrti sītāpati  
+to Siddhavaṭa  He went  where  the Deity  of Sītā’s Lord
 
-(17) [not yet translated]
+(17) Seeing Nṛsiṁha, He offered Him obeisances and prayers. Then He went to Siddhavaṭa, where the Deity of Sītā’s Lord is.
 
 রঘুনাথ দেখি’ কৈল প্রণতি স্তবন ৷  
 তাঁহা এক বিপ্র প্রভুর কৈল নিমন্ত্রণ ॥ ১৮ ॥
 
 raghunātha dekhi’ kaila praṇati stavana  
-tāṅhā eka vipra prabhura kaila nimantraṇa
+Raghunātha  seeing  He made  obeisances  prayers  
+tāṅhā eka vipra prabhura kaila nimantraṇa  
+there  a  brāhmaṇa  the Lord  made  invitation
 
-(18) [not yet translated]
+(18) Seeing Raghunātha, He offered obeisances and prayers. There a brāhmaṇa invited the Lord to take His meal.
 
 সেই বিপ্র রামনাম নিরন্তর লয় ৷  
 ‘রাম’ ‘রাম’ বিনা অন্য বাণী না কহয় ॥ ১৯ ॥
 
 sei vipra rāma-nāma nirantara laya  
-‘rāma’ ‘rāma’ vinā anya vāṇī nā kahaya
+that  brāhmaṇa  the name of Rāma  constantly  takes  
+‘rāma’ ‘rāma’ vinā anya vāṇī nā kahaya  
+“Rāma”  “Rāma”  except  other  words  not  he speaks
 
-(19) [not yet translated]
+(19) That brāhmaṇa chanted the name of Rāma constantly. Apart from “Rāma, Rāma,” he spoke no other word.
 
 সেই দিন তাঁর ঘরে রহি’ ভিক্ষা করি’ ৷  
 তাঁরে কৃপা করি’ আগে চলিলা গৌরহরি ॥ ২০ ॥
 
 sei dina tāṅra ghare rahi’ bhikṣā kari’  
-tāṅre kṛpā kari’ āge calilā gaurahari
+that  day  in his  house  staying  alms  accepting  
+tāṅre kṛpā kari’ āge calilā gaurahari  
+to him  mercy  showing  onward  went  Gaurahari
 
-(20) [not yet translated]
+(20) Gaurahari stayed in his house that day and accepted His meal there. Then, after blessing him, He went on.
 
 স্কন্দক্ষেত্র-তীর্থে কৈল স্কন্দ দরশন ৷  
 ত্রিমঠ আইলা, তাঁহা দেখি’ ত্রিবিক্রম ॥ ২১ ॥
 
 skanda-kṣetra-tīrthe kaila skanda daraśana  
-trimaṭha āilā, tāṅhā dekhi’ trivikrama
+at Skanda-kṣetra  He made  of Skanda  sight  
+trimaṭha āilā, tāṅhā dekhi’ trivikrama  
+to Trimaṭha  He came  there  seeing  Trivikrama
 
-(21) [not yet translated]
+(21) At Skanda-kṣetra He had darśana of Skanda. Then He came to Trimaṭha and saw Trivikrama there.
 
 পুনঃ সিদ্ধবট আইলা সেই বিপ্র ঘরে ৷  
 সেই বিপ্র কৃষ্ণনাম লয় নিরন্তরে ॥ ২২ ॥
 
 punaḥ siddhavaṭa āilā sei vipra-ghare  
-sei vipra kṛṣṇa-nāma laya nirantare
+again  to Siddhavaṭa  He came  of that  brāhmaṇa  to the house  
+sei vipra kṛṣṇa-nāma laya nirantare  
+that  brāhmaṇa  the name of Kṛṣṇa  takes  constantly
 
-(22) [not yet translated]
+(22) He came back to Siddhavaṭa, to the house of that brāhmaṇa, and now the brāhmaṇa was constantly chanting the name of Kṛṣṇa.
 
 ভিক্ষা করি’ মহাপ্রভু তাঁরে প্রশ্ন কৈল ৷  
 ‘কহ বিপ্র, এই তোমার কোন্ দশা হৈল ॥ ২৩ ॥
 
 bhikṣā kari’ mahāprabhu tāṅre praśna kaila  
-‘kaha vipra, ei tomāra kon daśā haila
+meal  taking  Mahāprabhu  to him  question  put  
+‘kaha vipra, ei tomāra kon daśā haila  
+tell  brāhmaṇa  this  your  what  state  has come
 
-(23) [not yet translated]
+(23) After taking His meal, Mahāprabhu asked him, “Tell Me, brāhmaṇa, what state has come over you?
 
 পূর্ব্বে তুমি নিরন্তর লৈতে রামনাম ৷  
 এবে কেনে নিরন্তর লও কৃষ্ণনাম’ ॥ ২৪ ॥
 
 pūrve tumi nirantara laite rāma-nāma  
-ebe kene nirantara lao kṛṣṇa-nāma’
+before  you  constantly  used to take  the name of Rāma  
+ebe kene nirantara lao kṛṣṇa-nāma’  
+now  why  constantly  you take  the name of Kṛṣṇa
 
-(24) [not yet translated]
+(24) Before, you chanted the name of Rāma constantly. Why do you now constantly chant the name of Kṛṣṇa?”
 
 বিপ্র বলে, — এই তোমার দর্শন-প্রভাবে ৷  
 তোমা দেখি’ গেল মোর আজন্ম-স্বভাবে ॥ ২৫ ॥
 
 vipra bale, — ei tomāra darśana-prabhāve  
-tomā dekhi’ gela mora ājanma-svabhāve
+the brāhmaṇa  says  this  of You  of the sight  by the power  
+tomā dekhi’ gela mora ājanma-svabhāve  
+You  seeing  went away  my  from birth  nature
 
-(25) [not yet translated]
+(25) The brāhmaṇa said, “This is by the power of seeing You. When I saw You, the nature I had from birth left me.
 
 বাল্যাবধি রামনাম গ্রহণ আমার ৷  
 তোমা দেখি’ কৃষ্ণনাম আইল একবার ॥ ২৬ ॥
 
 bālyāvadhi rāma-nāma-grahaṇa āmāra  
-tomā dekhi’ kṛṣṇa-nāma āila eka-bāra
+from childhood  of the name of Rāma  the taking  mine  
+tomā dekhi’ kṛṣṇa-nāma āila eka-bāra  
+You  seeing  the name of Kṛṣṇa  came  once
 
-(26) [not yet translated]
+(26) From childhood I have chanted the name of Rāma. When I saw You, the name of Kṛṣṇa came to me once.
 
 সেই হৈতে কৃষ্ণনাম জিহ্বাতে বসিলা ৷  
 কৃষ্ণনাম স্ফুরে, রামনাম দূরে গেলা ॥ ২৭ ॥
 
 sei haite kṛṣṇa-nāma jihvāte vasilā  
-kṛṣṇa-nāma sphure, rāma-nāma dūre gelā
+from that  time  the name of Kṛṣṇa  on my tongue  sat  
+kṛṣṇa-nāma sphure, rāma-nāma dūre gelā  
+the name of Kṛṣṇa  appears  the name of Rāma  far  went away
 
-(27) [not yet translated]
+(27) From that time the name of Kṛṣṇa has sat on my tongue. The name of Kṛṣṇa now manifests there, and the name of Rāma has gone far away.
 
 বাল্যকাল হৈতে মোর স্বভাব এক হয় ৷  
 নামের মহিমা শাস্ত্র করিয়ে সঞ্চয় ॥ ২৮ ॥
 
 bālya-kāla haite mora svabhāva eka haya  
-nāmera mahimā-śāstra kariye sañcaya
+from childhood  time  my  nature  one  is  
+nāmera mahimā-śāstra kariye sañcaya  
+of the name  of the glory  of the scriptures  I make  collecting
 
-(28) [not yet translated]
+(28) From childhood I have had one habit: I collect what the scriptures say about the glory of the holy name.
 
 রমন্তে যোগীনোঽনন্তে সত্যানন্দে চিদাত্মনি ৷  
 ইতি রামপদেনাসৌ পরং ব্রহ্মাভিধীয়তে ॥ ২৯ ॥
 
 ramante yogīno ’nante  
+take delight  the yogīs  in the Infinite  
 satyānande cid-ātmani  
+in true bliss  in the spiritual self  
 iti rāma-padenāsau  
-paraṁ brahmābhidhīyate
+thus  by the word “Rāma”  this  
+paraṁ brahmābhidhīyate  
+the Supreme  Brahman  is called
 
-(29) [not yet translated]
+(29) “The yogīs take delight in the Infinite, in true bliss, in the spiritual Self. Therefore this Supreme Brahman is called by the word ‘Rāma.’ ” (Padma Purāṇa, Śata-nāma-stotra)
 
 কৃষির্ভূবাচকঃ শব্দো ণশ্চ নির্বৃতিবাচকঃ ৷  
 তয়োরৈক্যং পরং ব্রহ্ম কৃষ্ণ ইত্যভিধীয়তে ॥ ৩০ ॥
 
 kṛṣir bhū-vācakaḥ śabdo  
+“kṛṣ”  being  denoting  the sound  
 ṇaś ca nirvṛti-vācakaḥ  
+“ṇa”  and  bliss  denoting  
 tayor aikyaṁ paraṁ brahma  
-kṛṣṇa ity abhidhīyate
+of the two  the union  the Supreme  Brahman  
+kṛṣṇa ity abhidhīyate  
+Kṛṣṇa  thus  is called
 
-(30) [not yet translated]
+(30) “The sound ‘kṛṣ’ denotes being, and ‘ṇa’ denotes bliss. Their union, the Supreme Brahman, is called ‘Kṛṣṇa.’ ” (Mahābhārata, Udyoga-parva, 71.4)
 
 পরংব্রহ্ম দুইনাম সমান হইল ৷  
 পুনঃ আর শাস্ত্রে কিছু বিশেষ পাইল ॥ ৩১ ॥
