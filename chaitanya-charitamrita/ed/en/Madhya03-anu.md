@@ -66,8 +66,138 @@ Following the teaching of Śrī Caitanyadeva, *sannyāsa* with the *śikhā* and
 
 > Subheading: As Nitāi told them, the boys show the Lord the road to Navadvīpa —
 
+## 20
+
+> Subheading: Nitāi sends Candraśekhara to Śāntipura to have everything needed arranged and to spread the news of the Lord's coming on all sides —
+
+## 23
+
+> Subheading: Nitāi suddenly appears before Mahāprabhu —
+
+## 24
+
+> Subheading: Seeing Nityānanda, the Lord questions him; Nitāi's ruse —
+
+## 25
+
+> Subheading: He shows the Gaṅgā, calling it “the Yamunā” —
+
+## 26
+
+> Subheading: The sight of the Gaṅgā awakens in Mahāprabhu the memory of the Yamunā —
+
+## 27
+
+> Subheading: The Lord's prayer to the Yamunā —
+
+## 28
+
+**cid-ānanda-bhānoḥ** (who reveals *saṁvit* and *prīti* — knowledge and love) **nanda-sūnoḥ** (of Kṛṣṇa) **sadā** (eternally) **para-prema-pātrī** (the bestower of supreme love) **drava-brahma-gātrī** (whose form is spiritual water) **aghānām** (of offenses) **lavitrī** (the destroyer) **jagat-kṣema-dhātrī** (who brings good to the worlds — to people) **mitra-putrī** (the daughter of the Sun — Kālindī, the Yamunā) **naḥ** (our) **vapuḥ** (body) (by divine knowledge) **pavitrī-kriyāt** (may she purify).
+
+## 29
+
+> Subheading: The Lord, who owns nothing but a single *kaupīna* —
+
+## 30
+
+> Subheading: He sees Advaita —
+
+## 31
+
+> Subheading: Seeing Advaita, the Lord is in doubt —
+
+## 32
+
+> Subheading: The Lord questions Advaita —
+
+## 33
+
+> Subheading: Advaita answers guilelessly —
+
+## 34
+
+> Subheading: The Lord tells Advaita of Nitāi's cleverness —
+
+***Gaṅgāke*** — “to the Gaṅgā” (*gaṅgāya*). Before his renunciation Kavirāja Gosvāmī Prabhu lived in Rāḍha-deśa, near Kāṭoyā, and so the speech of Rāḍha appears in many places in the book. Even today in Rāḍha-deśa *-ke* is used in place of the locative ending *-e*: for example, the word *ghare* (“in the house”) is spoken in Rāḍha as *gharke*.
+
+## 35
+
+> Subheading: Advaita upholds Nitāi's words and proves them true —
+
+## 37
+
+> Subheading: Advaita gives the Lord a new *kaupīna* and invites Him —
+
+## 39
+
+> Subheading: Fearing the Lord might refuse, Advaita describes the meal at his home as very simple —
+
+***Śukhārukhā vyañjana*** — *caccaḍi* (?)[^39-1]; ***sūpa*** — *rasā* (a liquid dish, a broth).
+
+## 40
+
+> Subheading: He brings the Lord to his home in Śāntipura and receives Him —
+
+## 41
+
+> Subheading: Sītā Ṭhākurāṇī cooks, and the Ācārya himself offers the *bhoga* —
+
+## 42
+
+> Subheading: The offering is laid out on three plates for three — the two Prabhus and Kṛṣṇa —
+
+## 43
+
+> Subheading: Description of the offering —
+
+## 45–55
+
+The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery — his skill in cooking — to fine effect.
+
+## 49
+
+***Loke*** — in the world.
+
+## 50
+
+***Iṣṭa*** — needed, desired.
+
+## 51
+
+***Cale hāle nāhi*** — they do not wobble or shift. ***Daḍa*** — firm, strong.
+
+## 54
+
+***Śaki*** — I can.
+
+## 56
+
+> Subheading: *Tulasī* on the offering, and with it water for *ācamana* —
+
+## 57
+
+***Sākṣāt kṛṣṇe*** (to Kṛṣṇa Himself) — to Śrīman Mahāprabhu.
+
+## 58
+
+> Subheading: The Ācārya performs *ārati* himself; the Prabhus and their associates watch —
+
+## 59
+
+> Subheading: The Deity is laid to rest —
+
+## 60
+
+> Subheading: The two Prabhus go into the house to eat —
+
+## 61
+
+> Subheading: Though Mukunda and Haridāsa are asked to eat, they keep proper decorum and show humility and modesty —
+
 ---
 
 [^1-1]: The edition prints «ত্বং গৌরং» (“to You, Gaura”) at the end of the glosses; the verse itself reads «তং» (“to that”).
 
 [^6-1]: *Brahma-saṁhitā* 5.1.
+
+[^39-1]: *Caccaḍi* is a Bengali dry dish of stewed vegetables; the question mark is in the edition.

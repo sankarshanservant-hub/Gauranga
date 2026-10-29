@@ -19,3 +19,11 @@ The mendicant brāhmaṇa from the land of Avantī said: “I shall take shelter
 ## 7–8
 
 Having put on the dress of *sannyāsa*, Mahāprabhu said: “These words of the mendicant are excellent, for they establish the vow of serving Kṛṣṇa's lotus feet.” The dress of *sannyāsa* spoken of here means fidelity to the Supreme Self (*parātma-niṣṭhā*), which rejects attachment to the material self (*jaḍātma-niṣṭhā*).
+
+## 28
+
+May the Yamunā, daughter of the Sun, purify our body! She is eternally the vessel of love for the son of Nanda, the Sun of spirit and bliss; her form is Brahman become liquid; she destroys sins and brings good to the world.
+
+## 43
+
+***Battiśā-āṭhiyā-kalāra āṅgaṭiyā.*** The *āṭhiyā* is a kind of banana tree that bears a bunch of thirty-two hands. *Āṅgaṭiyā* means on a whole, untorn banana leaf.
