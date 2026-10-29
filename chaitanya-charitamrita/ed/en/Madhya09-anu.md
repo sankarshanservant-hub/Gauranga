@@ -1016,7 +1016,7 @@ See Ādi 7.94.
 
 ## 263
 
-> Subheading: The censure of the aim of enjoying fruits; *kāma*[^263-1] does not give rise to *prema* —
+> Subheading: The censure of the aim of enjoying fruits; *kāma* does not give rise to *prema* —
 
 Good *karma* is better than bad *karma*, but even from such *karma* loving devotion to Kṛṣṇa never arises. *Karma* is the cause of the *jīva*'s gaining happiness or suffering. And from the *jīva*'s gaining happiness or suffering, devotion cannot arise. Devotion is service for Kṛṣṇa's happiness. All the *śāstras*, even the *śāstras* of *jñāna*, censure the aim of one's own enjoyment and prescribe giving it up. The *Śrīmad-Bhāgavatam*, the crown of spotless evidence, discusses and establishes only *naiṣkarmya* (freedom from *karma*) accompanied by pure knowledge, detachment, and devotion. In this Purāṇa, the best of all *śāstras* — at its beginning, in its middle, and at its end, everywhere — *karma* and *jñāna* whose mark is the intent to enjoy utterly trivial fruits are censured. Therefore, deeming it superfluous, we cite no verse here as evidence.
 
@@ -1466,8 +1466,6 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 [^245-1]: Unclear in the scan: one digit of the year is blotted (“১:৬৩”); probably 1763, the same as for the next *ācārya*.
 
 [^261-1]: The edition reads “মধ্য ২২ পঃ ১০৫”; in Vṛndāvana Candra Dāsa's translation this verse is Madhya 22.104.
-
-[^263-1]: So in the edition (“কাম”); in view of the verse, perhaps *karma* (কর্ম্ম) is meant.
 
 [^273-1]: The edition's cross-reference reads “২৪৭ সংখ্যার অনুভাষ্য” (the *Anubhāṣya* to number 247). The succession list of the Uttararāḍhī Maṭha is in the *Anubhāṣya* to verse 245 (section 245–247; see above).
 
