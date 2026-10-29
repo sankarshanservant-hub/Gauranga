@@ -16,6 +16,22 @@ According to the Vedas and Vedānta, one must know the nature (*svarūpa*) and t
 
 Although the *jīva*'s nature contains an existence free from *māyā*, it also has one property — the capacity to come under *māyā*'s control; this is called marginality (*taṭasthatva*). Since there is such an eternal difference both in nature and in essential identity, you cannot say that the *jīva* and Īśvara are one in any condition whatever. On the other hand, since the *Gītā* calls the *jīva* a “potency,” you are obliged to accept also that the *jīva* is one with Īśvara, according to the Vedānta saying “The potency and the possessor of potency are not different.” This inconceivable oneness and difference (*acintya-bhedābheda*) is the secret of the truth of Īśvara and the *jīva*.
 
+## 164–165
+
+Earth, water, fire, air, ether, mind, intelligence and *ahaṅkāra* — these eight are particular functions of My own lower (*aparā*) potency; the *jīva-tattva* is distinct from them.
+
+## 166–167
+
+According to the Vedic scriptures, Īśvara's form of eternity, knowledge and bliss is eternal. Formlessness is a particular transformation of material *sattva-guṇa*, its opposite — that is, a notion that denies the form found in material *sattva*. The spiritual form that lies beyond *prakṛti* has a spiritual shape as well. The formlessness of *māyic sattva* cannot touch it. Whoever does not accept such a Śrī Vigraha is counted among the godless (*pāṣaṇḍīs*).
+
+## 168
+
+Because the Buddhist Śākyasiṁha did not accept the injunctions of the Vedas, the Vedic Āryans condemn him as a *nāstika*, a denier of the Vedas. But the atheism that the Māyāvādī has preached while sheltering behind the Vedas is even more blameworthy than Buddhism, for a hidden enemy who comes disguised as a friend is far more dangerous than an open one.
+
+## 169
+
+The *sūtras* of Vyāsa contain the doctrine of pure devotion. In the commentary that the Māyāvādī wrote on those *sūtras*, the spiritual form of the Supreme Brahman is denied, and so is the *jīva*'s existence separate from Brahman. That commentary is therefore utterly opposed to the truth of pure devotion, and by hearing it the *jīva* is ruined. For the pride born of a vain hope — the desire to become one with Brahman — destroys pure devotion, and in reality Īśvara is not acknowledged at all.
+
 ---
 
 [^150-1]: The edition numbers this section “150–253” (checked against the scan) — a misprint; by content it is 150–153.
