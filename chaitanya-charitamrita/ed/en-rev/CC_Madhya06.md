@@ -2559,6 +2559,430 @@ the Lord  mercy  showed  to me  your  through the connection
 
 (246) You are a great devotee (*mahā-bhāgavata*), and I am blinded by logic; the Lord has shown me mercy through my connection with you.”
 
+বিনয় শুনি’ তুষ্ট্যে প্রভু কৈল আলিঙ্গন ৷  
+কহিল, — যাঞা করহ ঈশ্বর দরশন ॥ ২৪৭ ॥
+
+vinaya śuni’ tuṣṭye prabhu kaila āliṅgana  
+the humility  hearing  pleased  the Lord  made  an embrace  
+kahila, — yāñā karaha īśvara daraśana  
+He said  going  have  of the Lord  darśana
+
+(247) Pleased to hear his humble words, the Lord embraced him and said, “Go now and have darśana of the Lord.”[^89]
+
+জগদানন্দ-দামোদর, — দুই সঙ্গে লঞা ৷  
+ঘরে আইল ভট্টাচার্য্য জগন্নাথ দেখিয়া ॥ ২৪৮ ॥
+
+jagadānanda-dāmodara, — dui saṅge lañā  
+Jagadānanda and Dāmodara  the two  with him  taking  
+ghare āila bhaṭṭācārya jagannātha dekhiyā  
+home  came  the Bhaṭṭācārya  Jagannātha  having seen
+
+(248) Taking Jagadānanda and Dāmodara with him, the Bhaṭṭācārya saw Jagannātha and returned home.
+
+উত্তম উত্তম প্রসাদ বহুত আনিলা ৷  
+নিজবিপ্র-হাতে দুই জনা সঙ্গে দিলা ॥ ২৪৯ ॥
+
+uttama uttama prasāda bahuta ānilā  
+the finest  the finest  prasāda  much  he brought  
+nija-vipra-hāte dui janā saṅge dilā  
+in the hands of his own brāhmaṇa  two  persons  with  he gave
+
+(249) He brought a great deal of the very best prasāda and sent it by his own brāhmaṇa, together with those two.
+
+নিজ কৃত দুই শ্লোক লিখিয়া তালপাতে ৷  
+প্রভুকে দিহ’ বলি’ দিল জগদানন্দ-হাতে ॥ ২৫০ ॥
+
+nija kṛta dui śloka likhiyā tāla-pāte  
+by himself  composed  two  verses  writing  on a palm leaf  
+prabhuke diha’ bali’ dila jagadānanda-hāte  
+to the Lord  give  saying  he gave  into Jagadānanda’s hand
+
+(250) He wrote two verses of his own on a palm leaf and gave it into Jagadānanda’s hand, saying, “Give this to the Lord.”
+
+প্রভু-স্থানে আইলা দুঁহে প্রসাদ-পত্রী লঞা ৷  
+মুকুন্দ দত্ত পত্রী নিল তাঁর হাতে পাঞা ॥ ২৫১ ॥
+
+prabhu-sthāne āilā dum̐he prasāda-patrī lañā  
+to the Lord’s place  came  both  prasāda and letter  taking  
+mukunda datta patrī nila tām̐ra hāte pāñā  
+Mukunda  Datta  the letter  took  his  in the hand  finding
+
+(251) The two came to the Lord with the prasāda and the letter, and Mukunda Datta, finding the letter in Jagadānanda’s hand, took it.[^90]
+
+দুই শ্লোক বাহির-ভিতে লিখিয়া রাখিল ৷  
+তবে জগদানন্দ পত্রী প্রভুকে লঞা দিল ॥ ২৫২ ॥
+
+dui śloka bāhira-bhite likhiyā rākhila  
+two  verses  on the outer wall  writing  he kept  
+tabe jagadānanda patrī prabhuke lañā dila  
+then  Jagadānanda  the letter  to the Lord  taking  gave
+
+(252) He wrote the two verses on the outer wall and kept them there; then Jagadānanda took the letter and gave it to the Lord.
+
+প্রভু শ্লোক পড়ি’ পত্র ছিণ্ডিয়া ফেলিল ৷  
+ভিত্যে দেখি’ ভক্ত সব শ্লোক কণ্ঠে কৈল ॥ ২৫৩ ॥
+
+prabhu śloka paḍi’ patra chiṇḍiyā phelila  
+the Lord  the verses  reading  the leaf  tearing  threw away  
+bhitye dekhi’ bhakta saba śloka kaṇṭhe kaila  
+on the wall  seeing  the devotees  all  the verses  by heart  made
+
+(253) The Lord read the verses, tore up the leaf and threw it away, but the devotees saw them on the wall and all learned them by heart.
+
+বৈরাগ্য-বিদ্যা-নিজভক্তিযোগ-  
+শিক্ষার্থমেকঃ পুরুষঃ পুরাণঃ ৷  
+শ্রীকৃষ্ণচৈতন্যশরীরধারী  
+কৃপাম্বুধির্যস্তমহং প্রপদ্যে ॥ ২৫৪ ॥
+
+vairāgya-vidyā-nija-bhakti-yoga-  
+detachment  knowledge  His own  devotional  yoga  
+śikṣārtham ekaḥ puruṣaḥ purāṇaḥ  
+to teach  the one  Person  primeval  
+śrī kṛṣṇa-caitanya-śarīra-dhārī  
+Śrī  the form of Kṛṣṇa Caitanya  assuming  
+kṛpāmbudhir yas tam ahaṁ prapadye  
+the ocean of mercy  who  to Him  I  surrender
+
+(254) “I take refuge in the one primeval Person, the ocean of mercy, who has assumed the form of Śrī Kṛṣṇa Caitanya to teach detachment, knowledge and devotion to Himself.” (Caitanya-candrodaya-nāṭaka, 6.74)[^91]
+
+কালান্নষ্টং ভক্তিযোগং নিজং যঃ  
+প্রাদুষ্কর্ত্তুং কৃষ্ণচৈতন্যনামা ৷  
+আবির্ভূতস্তস্য পাদারবিন্দে  
+গাঢ়ং গাঢ়ং লীয়তাং চিত্তভৃঙ্গঃ ॥ ২৫৫ ॥
+
+kālān naṣṭaṁ bhakti-yogaṁ nijaṁ yaḥ  
+by time  lost  devotional yoga  His own  who  
+prāduṣkartuṁ kṛṣṇa-caitanya-nāmā  
+to revive  Kṛṣṇa Caitanya  by name  
+āvirbhūtas tasya pādāravinde  
+appeared  His  at the lotus feet  
+gāḍhaṁ gāḍhaṁ līyatāṁ citta-bhṛṅgaḥ  
+deeply  deeply  may be absorbed  the bee of the mind
+
+(255) “He appeared under the name Kṛṣṇa Caitanya to revive His own devotional yoga, which had been lost through time. May the bee of my mind sink deep, deep into His lotus feet.” (Caitanya-candrodaya-nāṭaka, 6.75)[^92]
+
+এই দুই শ্লোক — ভক্তকণ্ঠে মণিহার ৷  
+সার্ব্বভৌমের কীর্ত্তি ঘোষে ঢক্কাবাদ্যাকার ॥ ২৫৬ ॥
+
+ei dui śloka — bhakta-kaṇṭhe maṇi-hāra  
+these  two  verses  on the devotees’ necks  a jewelled necklace  
+sārvabhaumera kīrti ghoṣe ḍhakkā-vādyākāra  
+Sārvabhauma’s  fame  proclaim  like the beat of a great drum
+
+(256) These two verses are a jewelled necklace on the devotees’ necks, and like the beat of a great drum (*ḍhakkā*) they proclaim Sārvabhauma’s glory.
+
+সার্ব্বভৌম হৈলা প্রভুর ভক্ত একজন ৷  
+মহাপ্রভুর সেবা-বিনা নাহি অন্য মন ॥ ২৫৭ ॥
+
+sārvabhauma hailā prabhura bhakta eka-jana  
+Sārvabhauma  became  of the Lord  a devotee  one  
+mahāprabhura sevā-vinā nāhi anya mana  
+Mahāprabhu’s  service  except  there is not  other  thought
+
+(257) Sārvabhauma became the Lord’s devotee, and he had no thought for anything but serving Mahāprabhu.
+
+‘শ্রীকৃষ্ণচৈতন্য শচীসূত গুণধাম’ ৷  
+এই ধ্যান, এই জপ, লয় এই নাম ॥ ২৫৮ ॥
+
+‘śrī kṛṣṇa-caitanya śacī-sūta guṇa-dhāma’  
+Śrī  Kṛṣṇa Caitanya  the son of Śacī  the abode of virtues  
+ei dhyāna, ei japa, laya ei nāma  
+this  meditation  this  japa  he takes  this  name
+
+(258) “Śrī Kṛṣṇa Caitanya, the son of Śacī, the abode of all virtues” — this was his meditation, this his japa; this was the name he chanted.
+
+একদিন সার্ব্বভৌম প্রভু-আগে আইলা ৷  
+নমস্কার করি’ শ্লোক পড়িতে লাগিলা ॥ ২৫৯ ॥
+
+ekadina sārvabhauma prabhu-āge āilā  
+one day  Sārvabhauma  before the Lord  came  
+namaskāra kari’ śloka paḍite lāgilā  
+obeisance  making  a verse  to recite  he began
+
+(259) One day Sārvabhauma came before the Lord, offered obeisance and began to recite a verse.
+
+ভাগবতের ‘ব্রহ্ম-স্তবে’র শ্লোক পড়িলা ৷  
+শ্লোক-শেষে দুই অক্ষর-পাঠ ফিরাইলা ॥ ২৬০ ॥
+
+bhāgavatera ‘brahma-stave’ra śloka paḍilā  
+of the Bhāgavatam  of Brahmā’s prayers  a verse  he recited  
+śloka-śeṣe dui akṣara-pāṭha phirāilā  
+at the end of the verse  two  syllables  reading  he changed
+
+(260) He recited a verse from Brahmā’s prayers in the *Bhāgavatam*, but at the end of the verse he changed the reading of two syllables:
+
+তত্তেঽনুকম্পাং সুসমীক্ষমাণো ভুঞ্জান এবাত্মকৃতং বিপাকম্ ৷  
+হৃদ্বাগ্বপুর্ভির্বিদধন্নমস্তে জীবেত যো ভক্তিপদে স দায়ভাক্ ॥ ২৬১ ॥
+
+tat te ’nukampāṁ su-samīkṣamāṇo  
+therefore  Your  mercy  earnestly awaiting  
+bhuñjāna evātma-kṛtaṁ vipākam  
+enduring  indeed  self-made  the fruits  
+hṛd-vāg-vapurbhir vidadhan namas te  
+with heart, speech and body  offering  obeisance  to You  
+jīveta yo bhakti-pade sa dāya-bhāk  
+lives  who  to the position of devotion  he  is heir
+
+(261) “Therefore one who lives earnestly awaiting Your mercy, enduring the fruits of his own deeds and offering You obeisance with heart, words and body, is an heir to the position of devotion.” (Śrīmad-Bhāgavatam, 10.14.8)[^93]
+
+প্রভু কহে, ‘মুক্তিপদে’ — ইহা পাঠ হয় ৷  
+‘ভক্তিপদে’ কেনে পড়, কি তোমার আশয় ॥ ২৬২ ॥
+
+prabhu kahe, ‘mukti-pade’ — ihā pāṭha haya  
+the Lord  says  “mukti-pade”  this  the reading  is  
+‘bhakti-pade’ kene paḍa, ki tomāra āśaya  
+“bhakti-pade”  why  you read  what  your  intention
+
+(262) The Lord said, “The reading is ‘mukti-pade’. Why do you read ‘bhakti-pade’? What do you mean by it?”
+
+ভট্টাচার্য্য কহে, — ‘ভক্তি’-সম নহে মুক্তি-ফল ৷  
+ভগবদ্ভক্তিবিমুখের হয় দণ্ড কেবল ॥ ২৬৩ ॥
+
+bhaṭṭācārya kahe, — ‘bhakti’-sama nahe mukti-phala  
+the Bhaṭṭācārya  says  to bhakti  equal  is not  the fruit of liberation  
+bhagavad-bhakti-vimukhera haya daṇḍa kevala  
+of those averse to devotion to the Lord  it is  punishment  only
+
+(263) The Bhaṭṭācārya said, “The fruit of liberation is not equal to bhakti. For those averse to devotion to Bhagavān it is only a punishment.[^94]
+
+কৃষ্ণের বিগ্রহ যেই সত্য নাহি মানে ৷  
+যেই নিন্দা-যুদ্ধাদিক করে তাঁর সনে ॥ ২৬৪ ॥
+
+সেই দুইর দণ্ড — হয় ‘ব্রহ্মসাযুজ্য-মুক্তি’ ৷  
+তার মুক্তি ফল নহে, যেই করে ভক্তি ॥ ২৬৫ ॥
+
+kṛṣṇera vigraha yei satya nāhi māne  
+Kṛṣṇa’s  form  who  as real  not  accepts  
+yei nindā-yuddhādika kare tām̐ra sane  
+who  blasphemy, war and the like  does  Him  with  
+sei duira daṇḍa — haya ‘brahma-sāyujya-mukti’  
+of these  two  the punishment  is  liberation by merging in Brahman  
+tāra mukti phala nahe, yei kare bhakti  
+his  liberation  fruit  is not  who  does  bhakti
+
+(264–265) Those who do not accept Kṛṣṇa’s form as real, and those who blaspheme Him, fight against Him and the like — for both of these the punishment is liberation by merging in Brahman (*brahma-sāyujya-mukti*). But for one who practises bhakti, liberation is not the fruit.
+
+যদ্যপি মুক্তি হয় এই পঞ্চপ্রকার ৷  
+সালোক্য-সামীপ্য-সারূপ্য-সাষ্টি-সাযুজ্য আর ॥ ২৬৬ ॥
+
+yadyapi mukti haya ei pañca-prakāra  
+although  liberation  is  of these  five kinds  
+sālokya-sāmīpya-sārūpya-sāṣṭi-sāyujya āra  
+sālokya, sāmīpya, sārūpya, sārṣṭi, sāyujya  and
+
+(266) Although liberation is of five kinds — *sālokya*, *sāmīpya*, *sārūpya*, *sārṣṭi* and *sāyujya* —
+
+‘সালোক্যাদি’ চারি যদি হয় সেবা-দ্বার ৷  
+তবু কদাচিৎ ভক্ত করে অঙ্গীকার ॥ ২৬৭ ॥
+
+‘sālokyādi’ cāri yadi haya sevā-dvāra  
+sālokya and the rest  four  if  are  a door to service  
+tabu kadācit bhakta kare aṅgīkāra  
+still  occasionally  the devotee  makes  acceptance
+
+(267) if the four beginning with *sālokya* become a door to service, a devotee may still sometimes accept them.[^95]
+
+‘সাযুজ্য’ শুনিতে ভক্তের হয় ঘৃণা-ভয় ৷  
+নরক বাঞ্ছয়ে, তবু সাযুজ্য না লয় ॥ ২৬৮ ॥
+
+‘sāyujya’ śunite bhaktera haya ghṛṇā-bhaya  
+of “sāyujya”  hearing  the devotee’s  there is  disgust and fear  
+naraka vāñchaye, tabu sāyujya nā laya  
+hell  he desires  yet  sāyujya  not  he accepts
+
+(268) But the devotee feels disgust and fear at the very word “sāyujya”. He would rather wish for hell than accept *sāyujya*.
+
+ব্রহ্মে, ঈশ্বরে সাযুজ্য দুই ত’ প্রকার ৷  
+ব্রহ্ম-সাযুজ্য হৈতে ঈশ্বর-সাযুজ্য ধিক্কার ॥ ২৬৯ ॥
+
+brahme, īśvare sāyujya dui ta’ prakāra  
+in Brahman  in the Lord  merging  of two  indeed  kinds  
+brahma-sāyujya haite īśvara-sāyujya dhikkāra  
+merging in Brahman  than  merging in the Lord  more contemptible
+
+(269) *Sāyujya* is of two kinds — merging in Brahman and merging in the Lord — and merging in the Lord is even more contemptible than merging in Brahman.”[^96]
+
+সালোক্য-সাষ্টি-সামীপ্য-সারূপ্যৈকত্বমপ্যুত ৷  
+দীয়মানং ন গৃহ্ণন্তি বিনা মৎ-সেবনং জনাঃ ॥ ২৭০ ॥
+
+sālokya-sāṣṭi-sāmīpya-  
+residence in My world  equal opulence  nearness  
+sārūpyaikatvam apy uta  
+likeness of form  oneness  even  and  
+dīyamānaṁ na gṛhṇanti  
+being given  not  accept  
+vinā mat-sevanaṁ janāḥ  
+without  My service  the people
+
+(270) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)[^97]
+
+প্রভু কহে, — ‘মুক্তিপদে’র আর অর্থ হয় ৷  
+মুক্তিপদ-শব্দে ‘সাক্ষাৎ ঈশ্বর’ কহয় ॥ ২৭১ ॥
+
+prabhu kahe, — ‘mukti-pade’ra āra artha haya  
+the Lord  says  of “mukti-pade”  another  meaning  there is  
+mukti-pada-śabde ‘sākṣāt īśvara’ kahaya  
+by the word “mukti-pada”  directly  the Lord  is meant
+
+(271) The Lord said, “‘Mukti-pade’ has another meaning: the word ‘mukti-pada’ denotes the Lord Himself.
+
+মুক্তি পদে যাঁর, সেই ‘মুক্তিপদ’ হয় ৷  
+কিম্বা নবম পদার্থ ‘মুক্তির’ সমাশ্রয় ॥ ২৭২ ॥
+
+mukti pade yām̐ra, sei ‘mukti-pada’ haya  
+liberation  at the feet  whose  He  “mukti-pada”  is  
+kimvā navama padārtha ‘muktira’ samāśraya  
+or  the ninth  subject  of mukti  the shelter
+
+(272) He at whose feet liberation lies is ‘mukti-pada’; or else it means the shelter of mukti, the ninth subject of the *Bhāgavatam*.[^98]
+
+দুই-অর্থে ‘কৃষ্ণ’ কহি, কেনে পাঠ ফিরি ৷  
+সার্ব্বভৌম কহে, — ও-পাঠ কহিতে না পারি ॥ ২৭৩ ॥
+
+dui-arthe ‘kṛṣṇa’ kahi, kene pāṭha phiri  
+in both meanings  Kṛṣṇa  I say  why  the reading  change  
+sārvabhauma kahe, — o-pāṭha kahite nā pāri  
+Sārvabhauma  says  that reading  to say  not  I can
+
+(273) In both meanings it names Kṛṣṇa, so why change the reading?” Sārvabhauma said, “I cannot bring myself to say that reading.
+
+যদ্যপি তোমার অর্থ এই শব্দে কয় ৷  
+তথাপি ‘আশ্লিষ্য-দোষে’ কহন না যায় ॥ ২৭৪ ॥
+
+yadyapi tomāra artha ei śabde kaya  
+although  Your  meaning  this  word  expresses  
+tathāpi ‘āśliṣya-doṣe’ kahana nā yāya  
+still  by the fault of ambiguity  saying  not  is possible
+
+(274) Although this word does convey Your meaning, still, because of the fault of ambiguity (*āśliṣya-doṣa*), it cannot be said.[^99]
+
+যদ্যপি ‘মুক্তি’-শব্দের হয় পঞ্চ বৃত্তি ৷  
+‘রূঢ়িবৃত্ত্যে’ কহে তবু ‘সাযুজ্যে’ প্রতীতি ॥ ২৭৫ ॥
+
+yadyapi ‘mukti’-śabdera haya pañca vṛtti  
+although  of the word “mukti”  there are  five  senses  
+‘rūḍhi-vṛttye’ kahe tabu ‘sāyujye’ pratīti  
+by conventional usage  it says  still  sāyujya  the sense
+
+(275) Although the word ‘mukti’ has five senses, in its conventional usage (*rūḍhi-vṛtti*) it still conveys *sāyujya*.[^100]
+
+মুক্তি-শব্দ কহিতে মনে হয় ঘৃণা-ত্রাস ৷  
+ভক্তি-শব্দ কহিতে মনে হয় ত’ উল্লাস ॥ ২৭৬ ॥
+
+mukti-śabda kahite mane haya ghṛṇā-trāsa  
+the word “mukti”  saying  in the mind  there is  disgust and dread  
+bhakti-śabda kahite mane haya ta’ ullāsa  
+the word “bhakti”  saying  in the mind  there is  indeed  delight
+
+(276) When I say the word ‘mukti’, my mind feels disgust and dread; when I say the word ‘bhakti’, it fills with delight.”
+
+শুনিয়া হাসেন প্রভু আনন্দিত-মনে ৷  
+ভট্টাচার্য্যে কৈল প্রভু দৃঢ় আলিঙ্গনে ॥ ২৭৭ ॥
+
+śuniyā hāsena prabhu ānandita-mane  
+hearing  laughs  the Lord  joyful at heart  
+bhaṭṭācārye kaila prabhu dṛḍha āliṅgane  
+the Bhaṭṭācārya  made  the Lord  a firm  embrace
+
+(277) Hearing this, the Lord laughed, joyful at heart, and embraced the Bhaṭṭācārya firmly.
+
+যেই ভট্টাচার্য্য পড়ে পড়ায় মায়াবাদে ৷  
+তাঁর ঐছে বাক্য স্ফুরে চৈতন্য-প্রসাদে ॥ ২৭৮ ॥
+
+yei bhaṭṭācārya paḍe paḍāya māyāvāde  
+which  Bhaṭṭācārya  studies  teaches  Māyāvāda  
+tām̐ra aiche vākya sphure caitanya-prasāde  
+his  such  words  manifest  by Caitanya’s grace
+
+(278) That Bhaṭṭācārya who once studied and taught Māyāvāda — by Caitanya’s grace such words now came forth from him.
+
+লোহাকে যাবৎ স্পর্শি’ হেম নাহি করে ৷  
+তাবৎ স্পর্শমণি কেহ চিনিতে না পারে ॥ ২৭৯ ॥
+
+lohāke yāvat sparśi’ hema nāhi kare  
+iron  as long as  touching  gold  not  it makes  
+tāvat sparśa-maṇi keha cinite nā pāre  
+so long  the touchstone  anyone  to recognise  not  can
+
+(279) Until a touchstone turns iron into gold by its touch, no one can recognise it as a touchstone.[^101]
+
+ভট্টাচার্য্যের বৈষ্ণবতা দেখি’ সর্ব্বজন ৷  
+প্রভুকে জানিল — ‘সাক্ষাৎ ব্রজেন্দ্রনন্দন’ ॥ ২৮০ ॥
+
+bhaṭṭācāryera vaiṣṇavatā dekhi’ sarva-jana  
+the Bhaṭṭācārya’s  Vaiṣṇavism  seeing  all the people  
+prabhuke jānila — ‘sākṣāt vrajendra-nandana’  
+the Lord  they knew  directly  the son of the king of Vraja
+
+(280) Seeing the Bhaṭṭācārya become a Vaiṣṇava, everyone knew the Lord to be the son of the king of Vraja Himself.
+
+কাশীমিশ্র-আদি যত নীলাচলবাসী ৷  
+শরণ লইল সবে প্রভু-পদে আসি’ ॥ ২৮১ ॥
+
+kāśī-miśra-ādi yata nīlācala-vāsī  
+Kāśī Miśra and the others  all  residents of Nīlācala  
+śaraṇa la-ila sabe prabhu-pade āsi’  
+shelter  took  all  at the Lord’s feet  coming
+
+(281) Kāśī Miśra and all the other residents of Nīlācala came and took shelter at the Lord’s feet.
+
+সেই সব কথা আগে করিব বর্ণন ৷  
+এবে কহি প্রভুর দক্ষিণ-যাত্রা-বিবরণ ॥ ২৮২ ॥
+
+sei saba kathā āge kariba varṇana  
+those  all  matters  later  I shall make  description  
+ebe kahi prabhura dakṣiṇa-yātrā-vivaraṇa  
+now  I tell  the Lord’s  of the southern journey  the account
+
+(282) All this I shall describe later; now I tell the story of the Lord’s journey to the south.
+
+সার্ব্বভৌম করে যৈছে প্রভুর সেবন ৷  
+যৈছে পরিপাটী করে ভিক্ষা-নির্ব্বাহণ ॥ ২৮৩ ॥
+
+sārvabhauma kare yaiche prabhura sevana  
+Sārvabhauma  does  how  the Lord’s  service  
+yaiche paripāṭī kare bhikṣā-nirvāhaṇa  
+how  splendidly  he does  of meals  arranging
+
+(283) How Sārvabhauma served the Lord, and how splendidly he arranged His meals —
+
+বিস্তারিয়া আগে তাহা করিব বর্ণন ৷  
+এই মহাপ্রভুর লীলা, সার্ব্বভৌম-মিলন ॥ ২৮৪ ॥
+
+ইহা যেই শ্রদ্ধা করি’ করয়ে শ্রবণ ৷  
+জ্ঞান-কর্ম্মপাশ হৈতে হয় বিমোচন ॥ ২৮৫ ॥
+
+vistāriyā āge tāhā kariba varṇana  
+in detail  later  that  I shall make  description  
+ei mahāprabhura līlā, sārvabhauma-milana  
+this  Mahāprabhu’s  pastime  the meeting with Sārvabhauma  
+ihā yei śraddhā kari’ karaye śravaṇa  
+this  whoever  faith  having  does  hearing  
+jñāna-karma-pāśa haite haya vimocana  
+of jñāna and karma  the snare  from  there is  release
+
+(284–285) all this I shall describe in detail later. This is Mahāprabhu’s pastime of meeting with Sārvabhauma; whoever hears it with faith is freed from the snares of *jñāna* and *karma*.
+
+শ্রদ্ধায় চৈতন্যলীলা শুনে যেই জন ৷  
+অচিরে মিলয়ে তাঁরে চৈতন্যচরণ ॥ ২৮৬ ॥
+
+śraddhāya caitanya-līlā śune yei jana  
+with faith  Caitanya’s pastimes  hears  who  person  
+acire milaye tām̐re caitanya-caraṇa  
+soon  are attained  by him  Caitanya’s feet
+
+(286) Whoever hears Caitanya’s pastimes with faith soon attains Caitanya’s feet.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৮৭ ॥
+
+śrī rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(287) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: “Obeisance to Gaura, who conquered Sārvabhauma”. *Anubhāṣya*: *sarva-bhūmā* — He whose greatness surpasses all that is not Kṛṣṇa, the Supreme Paramātmā Gauracandra; *kutarka* — false arguments, misconceptions about the nature of the jīva and its activity; *bhakti-bhūmānam ācarat* — He made him a vessel full of pure bhakti, that is, a servant of His feet. The verse plays on the words *sārvabhauma* (“lord of all the earth”), *sarva-bhūmā* and *bhakti-bhūmā*.
@@ -2736,3 +3160,29 @@ the Lord  mercy  showed  to me  your  through the connection
 [^87]: *Amṛta-pravāha-bhāṣya*: Sārvabhauma asked which of the sixty-four limbs of sādhana-bhakti is the best, and Mahāprabhu answered, “Best of all is *nāma-saṅkīrtana* alone.”
 
 [^88]: The verse is Ādi 7.76 and 17.21; the translation follows it.
+
+[^89]: In some editions the order is *karaha yāñā*; the Gauḍīya Maṭha edition has *yāñā karaha*.
+
+[^90]: Heading in the edition: “Even before the leaf reached the Lord, Mukunda kept a copy of the two verses”.
+
+[^91]: Heading in the edition (for 254–255): “two verses composed by Sārvabhauma Bhaṭṭācārya and quoted in the *Caitanya-candrodaya-nāṭaka*, act 6, 74”. *Anubhāṣya*: *vairāgya* — detachment from all but Kṛṣṇa; *vidyā* — realisation of the Supreme Lord; *nija-bhakti-yoga* — service to His name, form, qualities and pastimes; He is the ocean of mercy because even to those attached to matter He gives the prema of Vraja, fit only for the most exalted liberated souls.
+
+[^92]: *Anubhāṣya*: *kālāt* — by the law of time, because other desires, karma and jñāna prevailed; *nijam* — full of Kṛṣṇa’s name, form, qualities and pastimes.
+
+[^93]: In the *Bhāgavatam* the last words read *mukti-pade*; here the verse is given as Sārvabhauma recited it, with *bhakti-pade* (verses 260, 262).
+
+[^94]: *Amṛta-pravāha-bhāṣya*: the highest fruit of bhakti is prema-bhakti alone; mukti is not its fruit; for one averse to bhakti, *sāyujya-mukti* is only a kind of punishment.
+
+[^95]: *Amṛta-pravāha-bhāṣya*: these four are not so blameworthy, for they are like a door to service; yet the devotee of Kṛṣṇa does not accept even them, for birth after birth he desires only bhakti to Kṛṣṇa.
+
+[^96]: *Amṛta-pravāha-bhāṣya*: *brahma-sāyujya* is the highest goal for the Māyāvādī Vedāntists, *īśvara-sāyujya* — *kaivalya* — that of Patañjali’s teaching; the second is even more to be shunned, for there meditation on the Lord with features yields a fruit far removed from Him.
+
+[^97]: The verse is Ādi 4.207 (there *sārṣṭi*; here the edition prints *sāṣṭi*); the translation follows it.
+
+[^98]: *Amṛta-pravāha-bhāṣya*: He at whose feet mukti lies is Śrī Kṛṣṇa, the “tenth” subject; or else the ninth subject is mukti, and He who is its shelter is Śrī Kṛṣṇa. *Anubhāṣya*: see Ādi 2.91–92.
+
+[^99]: *Amṛta-pravāha-bhāṣya*: *āśliṣya-doṣa* — the fault by which a word may be taken in two ways, so that its direct sense suffers somewhat.
+
+[^100]: *Amṛta-pravāha-bhāṣya*: *rūḍhi-vṛtti* is the direct sense (*mukhya-vṛtti*).
+
+[^101]: Heading in the edition: “They are known by their fruit”.
