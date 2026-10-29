@@ -574,6 +574,156 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 **maṇiḥ** (the *vaidūrya*) **nīlādibhiḥ** (with qualities) (*yutaḥ san*, being endowed) **yathā vibhāgena** (*upalakṣitaḥ bhavati*, is distinguished by contact; or: being distinguished by contact, appears endowed with blue and so on), **tathā acyutaḥ** (He who is without falling; or: He from whom there is no falling away [*kṣaraṇa*] for His devotees, for: “Your devotees do not fall even at the great dissolution. Therefore the great ones throughout the world sing of You as Acyuta”—the words of the *Kāśī-khaṇḍa*) **dhyāna-bhedāt** (because of differences in worship) **rūpa-bhedam** (difference of form: four-armed, two-armed, and so on; white, red, dark, and so on) **avāpnoti** (attains) (those inclined to magnanimity first see the form of Gaura and others, and then, gaining a mood in which sweetness predominates, see the dark form not different from Gaura).
 
+## 158
+
+> Subheading: The Bhaṭṭa recognizes the Lord as “Kṛṣṇa” —
+
+## 159
+
+> Subheading: The Bhaṭṭa firmly believes in the Lord's *siddhānta* —
+
+## 160
+
+> Subheading: He obtained the Lord's mercy only by the mercy of Lakṣmī-Nārāyaṇa, whom he worships —
+
+## 161
+
+> Subheading: By the Lord's mercy the Bhaṭṭa begins to serve Kṛṣṇa —
+
+## 163
+
+> Subheading: The Bhaṭṭa bows to the Lord, and the Lord embraces him —
+
+## 164
+
+> Subheading: After Cāturmāsya the Lord sets out again for the South —
+
+## 165
+
+> Subheading: The Lord consoles the Bhaṭṭa, who has followed Him —
+
+## 166
+
+> Subheading: The Bhaṭṭa in separation from the Lord —
+
+## 167
+
+> Subheading: The Lord sees Nārāyaṇa on Ṛṣabha hill —
+
+**Ṛṣabha hill** is the “Āna-gaḍamalaya-parvata” at the edge of the Madura district in South Karnāṭa, 12 miles north of Madura. The place in the grove of Kuṭakācala where Ṛṣabhadeva was burned in a forest fire is now known as “Palni Hill.”
+
+## 168
+
+> Subheading: The meeting with Paramānanda Purī —
+
+## 169
+
+> Subheading: The Lord bows to Purī, honoring him as His guru, and Purī embraces Him —
+
+## 170
+
+**In the house of that brāhmaṇa**: which brāhmaṇa is meant here is hard to understand.
+
+## 175
+
+**Śrī Śaila**: which Śrī Śaila is meant here cannot be determined. It is not the temple of Mallikārjuna. Perhaps it is not the Śrī Śaila in the Dharwar district either, south of Belgaum, where the beginningless *liṅga* “Mallikārjuna” (Madhya 9.15) resides: “On Śrī Parvata the effulgent Mahādeva lived in supreme joy with Devī, and Brahmā too with the gods” (*Mahābhārata*, *Vana-parva*, chapter 58).
+
+## 177
+
+> Subheading: Under the pretext of a meal the Lord accepts service in the house of His servant and maidservant —
+
+## 178
+
+> Subheading: The Lord comes to Kāmakoṣṭhī-purī —
+
+## 179
+
+> Subheading: The Lord comes to Madura —
+
+**Southern Mathurā** is the present “Madura,” on the bank of the river Vagai; it is known as a “Śiva-kṣetra.” The place is full of hills and forests. Here are “Rāmeśvara,” “Sundareśvara,” and the goddess “Mīnākṣī.” The temple of the goddess Mīnākṣī is huge and especially worth seeing. For a long time the city was under the rule of the kings of the Pāṇḍya dynasty. During the Muslim invasions the temple of “Sundara-liṅga” was largely destroyed. In A.D. 1372 “Kampanna Udeyar” took the throne of Madura. Long ago King Kulaśekhara built this city and settled brāhmaṇas in it. “Ananta-guṇa Pāṇḍya” was the eleventh descendant of Kulaśekhara.
+
+## 180
+
+> Subheading: There the Lord takes His meal in the house of a brāhmaṇa devoted to Rāma —
+
+## 181
+
+> Subheading: After bathing, the Lord comes to honor *prasāda*, but the brāhmaṇa has not cooked —
+
+**Kṛtamālā** is one of the streams of the basin of the present river “Vaigai,” or “Vagai.” Three streams—the “Suruli,” the “Varāha-nadī,” and the “Battilagundu”—flow into the river Vaigai. (*Śrīmad-Bhāgavatam* 11.5.39): “where [flow] the river Tāmraparṇī, the Kṛtamālā, and the Payasvinī.”
+
+## 182
+
+> Subheading: The food is not cooked, and the brāhmaṇa fasts —
+
+## 183
+
+> Subheading: The brāhmaṇa's worship in the mind —
+
+## 185
+
+> Subheading: Hearing this, the Lord is pleased, and the brāhmaṇa cooks —
+
+## 186
+
+> Subheading: In the third watch of the day the Lord eats, but the brāhmaṇa fasts —
+
+## 187
+
+> Subheading: The Lord asks the reason for the fast —
+
+## 188
+
+> Subheading: The brāhmaṇa grieves, thinking how Rāvaṇa kidnapped Sītādevī, and resolves to end his life —
+
+## 191
+
+> Subheading: The Lord consoles him and explains the true *siddhānta* —
+
+## 192
+
+> Subheading: Adhokṣaja is beyond the endeavors of the senses —
+
+## 193
+
+> Subheading: Rāvaṇa could in no way see or touch Sītā —
+
+## 194
+
+> Subheading: Rāvaṇa kidnapped Sītā's reflection, or shadow —
+
+## 195
+
+> Subheading: The reality of Vaikuṇṭha cannot be measured by matter —
+
+(*Kaṭha Upaniṣad*, second chapter, third *vallī*): “Beyond the senses is the mind, beyond the mind is *sattva*, beyond *sattva* is the great self, beyond the Mahat is the unmanifest. Beyond the unmanifest is the Puruṣa, all-pervading and without marks; knowing Him, a living being is freed and attains immortality. His form does not stand within sight; no one sees Him with the eyes. He is revealed to the heart, the intelligence, and the mind; those who know this become immortal. *** He cannot be reached by speech, by mind, or by sight.” (*Śrīmad-Bhāgavatam* 10.84.13): “One who takes as his self a corpse—a body of three elements—who takes his wife and others as his own, earthen images as worshipable, and water as a holy place, but never sees these in persons who know the truth, is indeed like a cow or an ass.”
+
+## 196
+
+> Subheading: The Lord consoles him —
+
+## 197
+
+> Subheading: The brāhmaṇa trusts the Lord's words and eats —
+
+## 198
+
+> Subheading: *Darśana* of “Rāmacandra” at Darbhaśayana —
+
+**Durvaśana**: “Darbhaśayana,” or the temple of Śrī Rāmacandra, 7 miles east of Ramnad, on the seashore.
+
+## 199
+
+> Subheading: *Darśana* of Bhṛgurāma on Mahendra hill —
+
+**Mahendra-śaila** is a hill near “Tinnevelly”; at its edge stands the town of “Trichinaguḍi,” and to its west lies the kingdom of Travancore. Mahendra-śaila is mentioned in the *Rāmāyaṇa*.
+
+## 200
+
+> Subheading: Bathing at Dhanuṣkoṭi-tīrtha, *darśana* of Rāmeśvara, and rest —
+
+**Setubandha, Dhanus-tīrtha, and Rāmeśvara.** In the sea between “Maṇḍapam” and the island of “Pāmbam” there is a path, partly sandy and partly under water. Pāmbam island is 5½ *krośas* long and 3 *krośas* wide. Four miles north of Pāmbam-bandar is the temple of “Rāmeśvara”: “Starting from Devī-pattana, let them go to Setubandha.” There are 24 *tīrthas* here; one of them is “Dhanuṣkoṭi” *tīrtha*. It lies 12 miles southeast of Rāmeśvara, near “Ramnad,” the terminal station of the S. I. R. line. At Vibhīṣaṇa's request, before returning to Ayodhyā, Śrī Rāmacandra (according to another view, Lakṣmaṇa) broke the bridge with the tip of His bow. One who sees this Dhanus-tīrtha is not born again, and bathing at Dhanus-tīrtha brings a greater result than the *agniṣṭoma* and other sacrifices. In Setubandha, on Pāmbam island, is the Deity of Śiva as Rāmeśvara—that is, Śiva, the incarnation of a devotee, “whose Īśvara is Rāma.”
+
 ---
 
 [^11-1]: Unclear expression (“śrī-rāmāyaṇa-guru-karaṇa-panthā”); the translation is tentative.

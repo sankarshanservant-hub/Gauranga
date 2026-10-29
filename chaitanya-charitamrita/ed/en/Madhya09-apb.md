@@ -131,3 +131,11 @@ Setting aside His joking words, Mahāprabhu finally said, “Bhaṭṭa, do not 
 ## 157
 
 The *vaidūrya* gem, according to the substances it touches and where it lies, is seen in different colors—blue, yellow, and so on—and takes on different appearances. In the same way, in meditation on the one Acyuta, who has no second, different states are seen according to the devotee's mood—by the difference in meditation.
+
+## 188
+
+**Into fire or water**: into fire, or into water.
+
+## 192–193
+
+Sītā is Herself the embodiment of spirit and bliss. Rāvaṇa kidnapped the *māyā-Sītā*, the shadow of Her spiritual form.
