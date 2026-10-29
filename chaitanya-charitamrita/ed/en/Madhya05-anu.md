@@ -58,8 +58,80 @@ The elder brāhmaṇa's son was a godless man (*nāstika*), a *smārta*, clever 
 
 ***Chala*** (quibbling). When a speaker uses a word in one sense and the opponent, rejecting that sense, invents a contrary one and makes false charges, that is *chala*.
 
+## 63
+
+Greed for wealth makes people lose all discrimination between *dharma* and *adharma*. So the people suspected: “At that time the younger brāhmaṇa, out of greed for money, may even have done violence to the elder brāhmaṇa.”
+
+## 76
+
+***Mahājana*** — the Deity (*devatā*).
+
+## 86
+
+***Godless*** (*nāstika*), because they did not believe that Kṛṣṇa is the Supreme Lord and loves His devotees, and so regarded His *arcā-vigraha* as mere earth.
+
+## 89
+
+“I am not asking You to give testimony so that, by marrying the elder brāhmaṇa's daughter, I may gratify my own senses and increase my pleasures. I am asking You only to save Your devotee, the elder brāhmaṇa, from the sin of breaking his promise and to keep his word true.”
+
+## 95–96
+
+Bhagavān asked this question to test the younger brāhmaṇa and to free him from a charge: no one should think him an “idolater” (*pauttalika*) — one who regards the *arcā-vigraha* of Viṣṇu as stone and wood, is devoted to knowledge born of the senses, and lives for the body. And the brāhmaṇa answered like a true devotee who believes that Viṣṇu, the Lord of all lords, is God.
+
+## 117
+
+> Subheading: The story of Śrī Gopāla and Puruṣottama, the king of Utkala —
+
+## 119
+
+***Vidyānagara.*** The place in the land of Trailaṅga where the Godāvarī River meets the Eastern Sea, the Bay of Bengal, is known as “Koṭadeśa.” In that region of the kingdom of Orissa there was a provincial capital named “Vidyānagara.” This city stood on the southern bank of the Godāvarī. Puruṣottama, a former king of Utkala, brought that country under his rule and governed it through a provincial governor. Vidyānagara lies twenty to twenty-five miles southeast of present-day Rājamahendrī, which stands on the northern bank of the Godāvarī — that is, on the other bank. In Pratāparudra's time Rāmānanda Rāya was the governor there. Bhijiyānagaram, the village of Bhijiyānā, or Vijayanagara, is not this Vidyānagara.
+
+## 122
+
+***Rāja***[^122-1] — to the kingdom.
+
+## 125
+
+> Subheading: The story of Śrī Gopāla and the queen —
+
+## 134
+
+> Subheading: Hearing from Nitāi's mouth the story of Sākṣi-gopāla, the Lord and His associates rejoice —
+
+## 135
+
+> Subheading: Seeing the Lord beside Gopāla, the devotees see Them as one —
+
+## 138
+
+> Subheading: Seeing this, Nitāi laughs merrily with the devotees —
+
+## 139
+
+> Subheading: In the morning all set out on the road to Purī —
+
+## 140
+
+> Subheading: The *darśana* of Bhuvaneśvara and the rest are described in the *Caitanya-bhāgavata* —
+
+*Caitanya-bhāgavata*, Antya, Chapter 2: “Then the Lord came to Śrī Bhuvaneśvara, where Śaṅkara lives in Gupta-kāśī. Here Śiva himself, bringing drop by drop the water of all the holy places, created ‘Bindu-sarovara.’ Knowing this lake to be dear to Śiva, Śrī Caitanya bathed in it and so glorified it especially.”
+
+The *Skanda Purāṇa* tells how Śiva obtained Ekāmra-kānana. A king named “Kāśīrāja” worshipped Śiva, pleased him, and went to war with Kṛṣṇa, and Śiva helped him. Kāśīrāja was killed, Śiva's *pāśupata* weapon proved useless, and Kṛṣṇa burned Kāśī. Then Śiva, understanding Kṛṣṇa's greatness, begged forgiveness for his offense and obtained Ekāmra-kānana near Śrī Nīlācala. Here the kings of the Keśarī dynasty founded their capital and ruled the land of Utkala for several centuries.
+
+## 141
+
+> Subheading: Bathing in the Bhārgī River at Kamalapura —
+
+## 142
+
+> Subheading: The Lord goes for *darśana* of Kapoteśvara, and Nitāi secretly breaks His staff —
+
+***Kapoteśvara*** — a Śiva-liṅga.
+
 ---
 
 [^1-1]: So in the *Anubhāṣya*: *adbhutehaṁ* is one word, qualifying Sākṣi-gopāla (“of unprecedented deeds”); the transliteration of the verse divides it as *’dbhute ’haṁ*.
 
 [^28-1]: The second verse is *Śrīmad-Bhāgavatam* 10.52.25; the edition gives both verses under the single reference 10.52.21.
+
+[^122-1]: So in the edition: the gloss begins with the word *rāja*, while verse 122 reads *rājya* (*cala mora rājya*, “come to my kingdom”); the gloss explains that the word here means “to the kingdom.”

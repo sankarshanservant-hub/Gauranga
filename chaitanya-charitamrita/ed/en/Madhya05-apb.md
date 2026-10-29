@@ -23,3 +23,23 @@ That Brahmaṇya-deva who, while in the form of a Deity (*pratimā*), walked on 
 ## 44
 
 Do not tell such a lie as “I did not say I would give my daughter”; say only, “I do not remember it.”
+
+## 96
+
+For the good of a brāhmaṇa You do all that is otherwise not fitting for You to do.[^96-1]
+
+## 140
+
+See the *Caitanya-bhāgavata*, Antya-līlā, Chapter 2. Leaving Kaṭaka by the royal road, from Bālihastā, or Bālakāṭi-caṭi, to Bhuvaneśvara is two or three *krośas*.
+
+## 141
+
+***The Bhārgī River*** is now known as the “Daṇḍabhāṅgā” River; it lies three *krośas* north of Purī.
+
+## 142
+
+***Kapoteśvara*** is near the Daṇḍabhāṅgā River.
+
+---
+
+[^96-1]: The translation of the verse differs: Vṛndāvana Candra dāsa renders it as a request — that the Lord do for this brāhmaṇa what He has never done before.
