@@ -432,6 +432,96 @@ The secret prayer *Haṁsa-guhya*, which Prajāpati Dakṣa offered to Bhagavān
 
 > Subheading: In the primary, direct sense (*mukhya-abhidhā-vṛtti*) the meaning of the *Brahma-sūtra* is plain; the secondary, indirect sense (*gauṇa-lakṣaṇā*), resting on conjecture, covers it —
 
+## 132
+
+You do not explain the primary meaning of Vyāsa's *Brahma-sūtra*, which one gets by relying on the direct sense of words (*abhidhā-vṛtti*); instead you cover the meaning of the *sūtras* and invent an imagined meaning by means of *lakṣaṇā*.
+
+## 133
+
+> Subheading: What the Upaniṣads establish is exactly what is set down in Vedānta in the form of *sūtras* —
+
+## 133–134
+
+**Upaniṣads** — see the *anvaya* in the *Anubhāṣya* on Ādi 2.5, the *Anubhāṣya* on Ādi 7.106, and the *Amṛta-pravāha-bhāṣya* and *Anubhāṣya* on Ādi 7.108.
+
+## 135
+
+> Subheading: The chief evidence is the word, that is, the Vedas —
+
+See Śrīla Jīva Prabhu's *Tattva-sandarbha*, sections 10–11, with Śrī Baladeva Vidyābhūṣaṇa's commentary, and the *Śrī-bhāṣya*, the *Śrī Mādhva-bhāṣya*, the *Śrī Nimbārka-bhāṣya*, and Śrī Baladeva's *Govinda-bhāṣya* on such *sūtras* as *śāstra-yonitvāt* (*Brahma-sūtra* 1.1.3), *tarkāpratiṣṭhānāt* (*Brahma-sūtra* 2.1.11), and *śrutes tu śabda-mūlatvāt* (*Brahma-sūtra* 2.1.27). Śrī Jīva Prabhu writes in the *Sarva-saṁvādinī*: “Nevertheless, the root evidence is the word (*śabda*) alone — statements free from the defects of error, inattention, the wish to deceive, and imperfect senses. For the other kinds of evidence are mostly full of human defects such as error, and are seen to give false impressions; so people cannot decide whether they are evidence or a mere semblance of it. The word has no such defect.” That is, although there are ten kinds of evidence, beginning with direct perception, the root evidence is “the word,” that is, *śruti*, made of statements free from the four defects such as error. As for the other kinds of evidence, human statements and the like are usually marred by error and the other defects, so they give rise to false impressions. One therefore cannot decide whether those nine kinds are truly evidence or only its semblance. But the evidence of the word rests on the vision of reality, and so this doubt does not arise with it.
+
+## 136
+
+> Subheading: An example —
+
+## 137
+
+> Subheading: To knowledge born of the senses, on a path alien to *śruti*, the Vedas are incomprehensible —
+
+(*Brahma-sūtra* 2.1.5). In his commentary on the *sūtra* *dṛśyate tu*, Śrīman Madhvācārya-pāda quotes this statement of the *Bhaviṣya Purāṇa*: “The Ṛg, Yajur, Sāma, and Atharva, the *Bhārata*, the *Pañcarātra*, and the original *Rāmāyaṇa* are called ‘Veda.’ And the self-evidence of those Purāṇas which the wise know to be Vaiṣṇava is not open to question here at all.”
+
+## 138
+
+> Subheading: Śaṅkara's commentary contradicts Vedānta —
+
+## 139
+
+> Subheading: The Vedas and the Sātvata Purāṇas intend Brahman with attributes, that is, Śrī Bhagavān —
+
+## 140
+
+> Subheading: The form (*vigraha*) of being, knowledge, and bliss is not without attributes —
+
+## 141
+
+> Subheading: “Without attributes” means the denial of material attributes and material variety —
+
+## 142
+
+> Subheading: The *śrutis* intend Śrī Bhagavān, who possesses attributes —
+
+**yā yā śrutiḥ** (those *śrutis*, that is, Vedic mantras, which) **nirviśeṣam** (Brahman as without attributes, as pure consciousness alone) **jalpati** (proclaim), **sā sā** **śrutiḥ** (those very *śrutis*) **saviśeṣam** (as possessing attributes — name, form, qualities, pastimes, and so on) **eva** **abhidhatte** (designate by the primary, direct sense, *abhidhā-vṛtti*); **hanta** **tāsām** (of these *śrutis*) **vicāra-yoge sati** (when carefully studied) **prāyaḥ** (in every respect) **saviśeṣam eva** **balīyaḥ** (is stronger — this is the chief purport of the Vedic statements).
+
+## 143
+
+> Subheading: Śrī Bhagavān is what is meant in every case —
+
+## 144
+
+See Śrīdhara Svāmī's commentary on *Śrīmad-Bhāgavatam* 6.4.30.
+
+## 143–144
+
+*Aitareya Upaniṣad* 1.1.1–2: “In the beginning all this was the Self alone, one only; there was nothing else that even blinked. He created these worlds.” *Śvetāśvatara Upaniṣad* 4.9: “The meters, sacrifices, rites, vows, the past, the future, and all that the Vedas declare — from this the Lord of *māyā* creates this world, and in it the other [the *jīva*] is bound by *māyā*.” *Taittirīya Upaniṣad*, Bhṛgu-vallī 1: “That from which these beings are born, by which, once born, they live, into which they go and enter — seek to know That: That is Brahman.” Varuṇa spoke these words in reply when Bhṛgu, the son of Varuṇa, asked his father about Brahman. In this mantra *yataḥ* (Brahman from which the world arises) is the ablative case (*apādāna-kāraka*); *yena* (Brahman by whom the world is sustained) is the instrumental case (*karaṇa-kāraka*); *yat*, that is, *yasmin* (Brahman into which the world enters), is the locative case (*adhikaraṇa-kāraka*). The commentary of Śrī Rāghavendra Yati: “By the rule that ‘a name is mentioned by part of the name,’ this designation should be understood as ‘made of food, made of breath, made of sight, made of hearing, made of mind, made of speech, made of knowledge, and made of bliss.’ ‘Made of knowledge’ and ‘made of bliss’ only indicate [the whole]; hence the mention of five forms in the Brahma-vallī is also only indicative. So it is said that ‘made of sight,’ ‘made of speech,’ and ‘made of hearing’ must also be accepted. For in the Vādhūla branch it is said: ‘Different from this one made of the essence of food is another, inner self, made of speech. Different from this one made of speech is another, inner self, made of sight. Different from this one made of sight is another, inner self, made of hearing.’ He is called ‘made of sight’ and so on because He has the power of complete seeing and the rest.” Thus, in the manner stated in the commentary on the *Aitareya*, [Brahman is He] whose nature is the power of complete seeing, the power of complete hearing, and the power of complete speech. Or else *yat prayanti* — into whom they go at the dissolution; *yad abhisaṁviśanti* — into whom the liberated enter by their own will: “seek to know That.” *Śrīmad-Bhāgavatam* 1.5.20: “This universe is Bhagavān Himself, and yet He is other than it; from Him come the maintenance, dissolution, and arising of the world.”
+
+## 145
+
+> Subheading: The truth that is seen directly and heard in *śruti* is the manifestation of the many from Kṛṣṇa, the nondual Knowledge (the One); deriving the One from the many is alien to *śruti* —
+
+*Chāndogya Upaniṣad* 6.2.3: “It glanced: ‘May I become many; may I be born.’” *Taittirīya Upaniṣad*, Brahma-vallī 6: “He desired: ‘May I become many; may I be born.’”
+
+## 146
+
+> Subheading: First the glance cast on *māyā*, then, as its result, creation; therefore Bhagavān's sight and the rest are transcendental —
+
+Before He glanced at the material potency in order to create, He looked with transcendental eyes. At the moment of that glance no material eyes had been created; for if material creation had already taken place, there would be no need to mention His urge to create. At that time Brahman with attributes had an eternal transcendental mind, with which He thought of the material creation, and eternal transcendental eyes, with which He glanced at the potency of *prakṛti*.
+
+## 147
+
+> Subheading: Bhagavān is Śrī Kṛṣṇa, the all-pervading Consciousness, that is, Viṣṇu, the Supreme Truth —
+
+In his commentary on the *sūtra* *śāstra-yonitvāt* (*Brahma-sūtra* 1.1.3) Śrīman Madhvācārya-pāda quotes: “The Ṛg, Yajur, Sāma, and Atharva, the *Bhārata*, the *Pañcarātra*, and the original *Rāmāyaṇa* are called ‘*śāstra*.’ What agrees with them is also declared *śāstra*. Any other proliferation of books is not *śāstra* at all, but a wrong path” (*Skanda Purāṇa*). That is, the Ṛg, Yajur, Sāma, and Atharva Vedas, the *Mahābhārata* (together with the Purāṇas), the Sātvata *tantra* *Pañcarātra*, and the original *Rāmāyaṇa* — these alone are called by the word *śāstra*, and books that agree with them are also counted as *śāstra*. All other books are not *śāstra* at all; they are denoted by the word *kuvartma* (a wrong path). See Ādi, Chapter 2.
+
+## 148
+
+> Subheading: The Purāṇas complete the meaning of the Vedas and were revealed in an ancient age[^148-1]; therefore they are called “Purāṇas,” that is, “ancient” —
+
+See sections 12–17 of Śrī Jīva Prabhu's *Tattva-sandarbha* and Śrī Baladeva's commentary.
+
+## 131–176
+
+See Ādi 7.106–147.
+
 ---
 
 [^12-1]: In the numbering of our translation, Madhya 24.283.
@@ -439,3 +529,5 @@ The secret prayer *Haṁsa-guhya*, which Prajāpati Dakṣa offered to Bhagavān
 [^102-1]: In the edition the gloss ends with *tat mattaḥ*; the verse's word *śṛṇu* (hear) is not glossed.
 
 [^121-1]: Śaṅkara's *Kaupīna-pañcaka*, 1.
+
+[^148-1]: Unclear in the scan: প্রাগ্বন্ধযুগে (?); translated by the sense.
