@@ -108,6 +108,22 @@ Hearing this, the Lord said, “If you can go a little further, you will find th
 
 The *Śrī Bhāgavata* says: “On the path of knowledge He is manifest as the experience of the bliss of Brahman, to the devotees in *dāsya-rasa* as the Supreme Deity, and to those who take shelter of *māyā* as a human boy.[^75-1] With this Bhagavān, Śrī Kṛṣṇa, the cowherd boys of Vraja, by the fruit of great pious merit, sported in *sakhya-rasa*.”
 
+## 76
+
+The Lord said, “*Sakhya-rasa* is indeed higher than *dāsya-rasa*. Yet go a little further and you will find the essence of the goal.” In reply Rāya said, “The *prema* of *vātsalya-bhāva*, the parental mood, is the essence of all goals.” When the *prema* of *sakhya-rasa*, which is based on confidence (*viśrambha*), is joined by greater affection (*sneha*), *vātsalya-rasa* arises.
+
+## 77
+
+*Śrīmad-Bhāgavatam* says: “O brāhmaṇa, what pious deeds did Nanda perform that Kṛṣṇa appeared as his son? And what pious deeds did Yaśodā perform that Kṛṣṇa, Parabrahman Himself, called her ‘mother’ and drank from her breast?”
+
+## 78
+
+The mercy that the *gopī* Yaśodā received from Śrī Kṛṣṇa, the giver of liberation to ordinary people, was not received by Brahmā, by Śiva, or even by Lakṣmī, who rests on Viṣṇu's chest.
+
+## 79
+
+The Lord said, “Step by step this has become ever higher. Yet beyond it there is one more *rasa*, and that you may call ‘the essence of the goal.’” Rāya answered, “*Kānta-bhāva*, the mood of the beloved, toward Śrī Kṛṣṇa is the essence of all goals, the highest limit (*parākāṣṭhā*) of *prema*.” The purport is this. In general *prema* there is no *mamatā*; in *dāsya-rasa* there is no *viśrambha*, “confidence”; in *sakhya-rasa* there is no “abundance of affection” (*snehādhikya*); and in *vātsalya-rasa* there is no “freedom from all reserve” (*niḥsaṅkoca-bhāva*). Therefore in none of these *rasas* does *prema*, the goal, reach its fullness. When *kānta-bhāva* toward Kṛṣṇa arises, then one finds a single, undivided truth of *prema*, free from all these lacks, the essence of all goals.
+
 ---
 
 [^0-1]: The edition reads *kānta-bhāgavata prema*, apparently a transposition of syllables for *kānta-bhāva-gata*, “in the mood of the beloved.”

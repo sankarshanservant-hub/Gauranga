@@ -250,6 +250,30 @@ Durvāsā saw with a perverted vision born of the senses, was possessed by the e
 
 **yan-nāma-śruti-mātreṇa** (simply by hearing the name of that Bhagavān) **pumān** (the *jīva*) **nirmalaḥ** (pure) **bhavati**, **tasya** **tīrtha-padaḥ** (of that Bhagavān at whose feet are the holy places) **dāsānām** (for the servants) **kiṁ** **vā** **avaśiṣyate**? (That is, nothing at all.)
 
+## 73
+
+> Subheading: The humility of one who serves Bhagavān —
+
+See Madhya 1.206.
+
+## 74
+
+> Subheading: (2) “*Sakhya-prema*” is higher still —
+
+## 75
+
+> Subheading: The glory of the Vraja cowherd boys' friendship with Kṛṣṇa —
+
+Śukadeva describes to Parīkṣit the extraordinary good fortune of Kṛṣṇa's friends, the cowherd boys of Vraja, bound to Him by the thread of confiding love (*viśrambha-prema*), when Kṛṣṇa had gone out to the forest for a picnic:
+
+**ittham** (thus) **kṛta-puṇya-puñjāḥ** (the cowherd boys, who had performed a mass of pious deeds) **satām** (for the *jñānīs* who hold the featureless) **brahma-sukhānubhūtyā** (manifest as the sole experience of the bliss of Brahman), **dāsyaṁ** **gatānām** (for those who have attained *bhajana*, that is, for devotees) **para-daivatena** (manifest as the Supreme Lord), **māyāśritānām** (for those bewildered by Bhagavān's *māyā*) **nara-dārakeṇa** (manifest as a human boy) **bhagavatā** **sārdham** (in friendship) **vijahruḥ** (sported; the sense is: oh, the good fortune of Kṛṣṇa's friends!).
+
+## 76
+
+> Subheading: (3) “*Vātsalya-prema*” is higher still —
+
+Hearing Rāmānanda determine “*sakhya-prema*” as the goal, Mahāprabhu called it “higher” than “*dāsya-prema*” and asked him to go further. Then Rāmānanda named “*vātsalya-prema*” as the goal.
+
 ---
 
 [^63-1]: *Manaḥ-śikṣā* 2.
