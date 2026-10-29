@@ -32,3 +32,14 @@
 | taṭa-stha hañā | impartially | 8.83 (APB: “looking from outside”) |
 | ṛṇī | a debtor | 8.91 |
 | sādhyāvadhi | the limit of the goal | 8.95 |
+| sādhya-śiromaṇi | the crest-jewel of all goals | 8.97 |
+| anyāpekṣā | regard for others | 8.101 |
+| vāmatā | contrariness (*vāmatā*) | 8.109 (*Anubhāṣya*/APB: Rādhā’s “contrary” mood) |
+| kuṭila prema | crooked love | 8.109–110 |
+| māna | pique (*māna*) | 8.110–111 |
+| Anaṅga, Kāma (of Kṛṣṇa) | Ananga; Kāma | 8.106, 8.114 (the god of love; Kṛṣṇa’s *kāma* is transcendental desire, not mundane passion) |
+| kāma-nirvāpaṇa | to quench (His) desire | 8.115 |
+| śata-koṭi | hundreds of millions | 8.108, 8.115 (VCD «сотни тысяч») |
+| sevya-sādhana-nirṇaya | who is to be served and by what means | 8.117 (GM reading; VCD followed *sādhya-sādhana*) |
+| svarūpa | true nature | 8.118 |
+| śuka-pāṭha | a parrot reciting its lesson | 8.121 |
