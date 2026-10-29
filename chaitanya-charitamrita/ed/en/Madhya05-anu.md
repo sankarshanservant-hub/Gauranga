@@ -128,6 +128,80 @@ The *Skanda Purāṇa* tells how Śiva obtained Ekāmra-kānana. A king named �
 
 ***Kapoteśvara*** — a Śiva-liṅga.
 
+## 143
+
+***The staff.*** At Kāṭoyā Śrī Gaurasundara accepted *ekadaṇḍa-sannyāsa* in the Bhāratī *sampradāya*, which descends from Śaṅkara. Śrī Nityānanda Prabhu broke that *sannyāsa* staff into three pieces and threw it into the Bhārgī River (the present “Daṇḍabhāṅgā”). In the order of *sannyāsa*, the staff is to be kept in the stages of *kuṭīcaka* and *bahūdaka*, but in the stages of *haṁsa* and *paramahaṁsa* one is enjoined to give it up. Gaurahari is the Lord of the fourteen worlds, and unlike other *sannyāsīs* He has no need to show whether He stands at a lower or a higher stage. Knowing this, Nityānanda-svarūpa broke the staff and threw it away.
+
+## 144
+
+> Subheading: Seeing the temple at Purī, the Lord, pained by separation from Kṛṣṇa, dances, absorbed in ecstasy —
+
+***Deula***, temple — the present temple of Śrī Jagannātha, built by King Anaṅgabhīma. The hall of *upala-bhoga*, the *bhoga-vardhana* hall and the high outer courtyard had not yet been built at that time.
+
+## 145
+
+***Rāja-mārga*** (the royal road) — the road by which pilgrims going for *darśana* of Jagannātha travel from Bengal to Puruṣottama.
+
+## 146
+
+Śrī Mahāprabhu saw the temple of Śrī Jagannātha from three *krośas* away, and in extreme separation the *sāttvika-vikāras* appeared in Him: He became utterly agitated and full of longing for *darśana* of Bhagavān. In intense separation (*vipralambha*) a moment seems an age, and the *gopīs* blame the Creator for His foolishness in giving the eyes lids. In the same way the three-*krośa* road seemed to Mahāprabhu a distant thousand *yojanas*.
+
+## 147
+
+> Subheading: Arrival at Āṭhāranālā —
+
+## 148
+
+> Subheading: The Lord returns to outward consciousness and asks Nitāi for His staff —
+
+## 149
+
+> Subheading: Nitāi's cleverness: He reports that the staff is broken —
+
+## 151
+
+> Subheading: Nitāi asks the Lord to punish Him for breaking the staff —
+
+## 152
+
+> Subheading: The Lord is grieved and slightly angry —
+
+Nityānanda Prabhu knew that the *ekadaṇḍa* proper to *vaidha-sannyāsa* (*sannyāsa* according to the rules) was of no use to Mahāprabhu, and so He freed the Lord from carrying the staff of *vaidha-sannyāsa*. But Mahāprabhu became angry with Him. He thought that if the staff were given up in this way, the Vedic rules would grow lax before the unqualified *daṇḍīs* who take *vivitsā-sannyāsa* (*sannyāsa* out of the desire for knowledge) became qualified. All other people in the world follow the conduct of the great. Some with deluded minds neglect the path of rules favorable to devotion taught in the Śrutis, Smṛtis, Purāṇas and other scriptures; not understanding its purpose, they take a disorderly path for the path of *anurāga* or for the conduct of an *avadhūta*. Such people would be harmed — and so the Lord enacted this pastime of showing anger.
+
+## 153
+
+> Subheading: The Lord's reproach —
+
+## 154
+
+> Subheading: The Lord expresses His wish to go alone for *darśana* of Jagannātha —
+
+## 155
+
+> Subheading: At Mukunda's word the Lord goes to Purī alone, ahead of everyone —
+
+## 156
+
+> Subheading: The moods of the two Prabhus are inconceivable —
+
+## 158
+
+> Subheading: Only a devotee who sees the Two as nondifferent can understand this pastime —
+
+Only those who have truly understood Śrī Caitanya and Nityānanda, steadily and calmly, will grasp the true nature of the two Prabhus and the meaning of the pastime of breaking the staff. The great souls of the past accepted the staff through service to Kṛṣṇa's feet and gave up absorption in worldly existence. Mahāprabhu too accepts that a *sādhaka* following the path of the great souls needs *vaidha-sannyāsa*. In *vidvat-sannyāsa* (the *sannyāsa* of those who know) the staff is not needed. But *vivitsā-sannyāsa* — a practice favorable to devotion, a gradual path of renouncing worldly things — is needed in the life of a *sādhaka* in order to teach people: this is Mahāprabhu's intention. Nityānanda, His servant, knew that carrying the staff, with which Prabhu Gauracandra's *sannyāsa* began, is in fact unnecessary at the high stage of the *paramahaṁsa*. So that other people of material mind would not commit offense by wrongly thinking that Śrī Mahāprabhu stood at the stage of *kuṭīcaka* or *bahūdaka*, Nityānanda made Him give up the staff and so showed the example of the very highest stage.
+
+## 159
+
+> Subheading: Since the speaker and the hearer are both Bhagavān, the story of Sākṣi-gopāla is beyond this world —
+
+(1) The form of Śrī Gopāla is the eternally true *vigraha*. (2) He is Truth Himself embodied: transcending the worldly laws of matter, He always upholds the honor of truth. (3) In a brāhmaṇa's life it is especially necessary to abide in truth. (4) Kṛṣṇa Himself both establishes brahminhood (*brahmaṇya*) and submits to it; therefore brahminhood that takes shelter of Kṛṣṇa is not merely a thing of *māyā*.
+
+## 160
+
+> Subheading: The faithful hearer attains the feet of Śrī Kṛṣṇa —
+
+*Thus ends the fifth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^1-1]: So in the *Anubhāṣya*: *adbhutehaṁ* is one word, qualifying Sākṣi-gopāla (“of unprecedented deeds”); the transliteration of the verse divides it as *’dbhute ’haṁ*.

@@ -40,6 +40,16 @@ See the *Caitanya-bhāgavata*, Antya-līlā, Chapter 2. Leaving Kaṭaka by the 
 
 ***Kapoteśvara*** is near the Daṇḍabhāṅgā River.
 
+## 143
+
+***The staff.*** Mahāprabhu left the staff He had received on taking *sannyāsa* in the hands of Nityānanda Prabhu and went to Kapoteśvara. Nityānanda Prabhu broke the staff into three pieces and set it floating on the waters of the Bhārgī; that is why the Bhārgī came to be called “Daṇḍabhāṅgā” (“the broken staff”). To subdue body, speech and mind, *sannyāsīs* also carry the *tridaṇḍa*. Śaṅkarācārya's rule is to carry the *ekadaṇḍa*. Considering that Śrī Mahāprabhu had no need to carry such a staff, Nityānanda Prabhu broke it.
+
+## 147
+
+***Āṭhāranālā*** is the name of the bridge by which one enters the city of Purī; it has eighteen arches.
+
+*Thus ends the fifth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^96-1]: The translation of the verse differs: Vṛndāvana Candra dāsa renders it as a request — that the Lord do for this brāhmaṇa what He has never done before.
