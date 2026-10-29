@@ -356,6 +356,43 @@ In the hymn *Mukunda-mālā* of Śrī Kulaśekhara: “Not for freedom from dual
 > Subheading: By Ānandatīrtha's order, devotion mixed with *karma* is practiced in the Tattvavāda *sampradāya* —
 
 The *Sadācāra-smṛti* says: “
+Having duly accomplished by *dharma* what serves as the means of worship, all the *varṇas* and *āśramas* always worship Viṣṇu alone. The sage Ānandatīrtha drew out the words of Vyāsa and set them down, auspiciously and in brief, on the subject of *sadācāra*.”
+
+## 276
+
+> Subheading: The Lord does not honor the *karmīs* and *jñānīs* —
+
+## 277
+
+> Subheading: The “Vaiṣṇavism” of the Tattvavādīs is only the fruit of their accepting the personal nature of the One they worship, that is, His spiritual pastimes —
+
+## 278
+
+> Subheading: The Lord comes to Phalgu-tīrtha —
+
+***Tā̃ra ghare*** means *tā̃hāke* (him). Even today, on the Howrah–Amta line, in places like “Mājhu,” and in Burdwan toward Katwa, the colloquial language regularly uses the word *ghare* together with the genitive ending *-r* of the pronouns *tat*, *yuṣmad*, and *asmad* in the sense of the accusative, singular and plural. For example, *tādera ghare*, *tomādera ghare*, and *āmādera ghare* mean *tāhādigake* (them), *tomādigake* (you), and *āmādigake* (us). In East Bengal, in the accusative of these words, and only in the plural, the word *gore* is used, a corruption of *ghare*, but the genitive ending *-r* is not added to them. For example, instead of *tomādigake ḍākiyāche* (“you are being called”), the colloquial language of East Bengal says *tomāgore ḍākche*.
+
+## 279
+
+> Subheading: *Darśana* of Viśālākṣī at Tritakūpa; the Lord comes to Pañcāpsarā-tīrtha —
+
+**Pañcāpsarā-tīrtha.** Indra sent five *apsarās* — Latā, Budbudā, Samīcī, Saurabheyī, and Varṇā — to break the austerities of Śātakarṇi (by another view, of Māṇḍakarṇi; by a third, of the sage Acyuta). They were cursed and lived in a lake in the form of crocodiles. Later Śrī Rāmacandra saw this lake. From the words of Nārada it is known that Arjuna, coming here on pilgrimage, freed the five *apsarās* from birth as crocodiles. Since then this lake has become a holy place (*tīrtha*).
+
+## 280
+
+> Subheading: *Darśana* of Śiva at Gokarṇa; the Lord comes to Dvaipāyani and Sūrpāraka-tīrtha —
+
+**Gokarṇa** lies in the Bombay Presidency, in North Kanara, 20 miles southeast of Karwar. It is famous for the temple of the Śiva-liṅga Mahābaleśvara. Many pilgrims gather here (*Bombay Gazetteer*).
+
+**Sūrpāraka** is the place called “Sopārā” in the Thana district, 26 miles north of Bombay. From very ancient times until the Middle Ages it was the capital of the Konkan (*Bombay Gazetteer*).
+
+## 281
+
+> Subheading: *Darśana* of Lakṣmī, Bhagavatī, Gaṇeśa, and Pārvatī at Kolāpura —
+
+## 282
+
+> Subheading: The Lord comes to Pāṇḍarapura on the bank of the Bhīmā and has *darśana* of Viṭhṭhaladeva —
 
 ---
 

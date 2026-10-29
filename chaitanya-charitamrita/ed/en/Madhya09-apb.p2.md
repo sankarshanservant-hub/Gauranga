@@ -54,3 +54,11 @@ The devotees of Nārāyaṇa, who see heaven, liberation, and hell as of equal w
 
 O *ācārya* of Tattvavāda! All pure devotees give up these two, “*mukti*” and “*karma*.” How sad that you have established that very *mukti* as the “*sādhya*” and *karma* as the “*sādhana*”!
 
+## 277
+
+The Lord said, “O *ācārya* of the Tattvavādīs, the conclusions of your *sampradāya* are for the most part opposed to pure devotion. Still, I see in your *sampradāya* one great virtue: you accept the true and eternal form (*vigraha*) of the Lord.” The point is this: My *parama-guru* Śrī Mādhavendra Purī, relying on this chief conclusion, accepted the Mādhva-sampradāya.
+
+## 282
+
+**Pāṇḍarapura** is the town of “Pāṇḍupura,” or “Pāṇḍarapura,” on the bank of the river Bhīmā. Research shows that here Mahāprabhu bestowed His mercy on Tukārāmācārya by giving him *harināma*. Tukārāma himself acknowledged this in his *abhaṅgas*. From Tukārāma, *kīrtana* with *mṛdaṅgas* and other instruments spread through that region.
+
