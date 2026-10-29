@@ -34,6 +34,24 @@ In the circle of the *rāsa* there was one form of Kṛṣṇa between every two
 
 The Lord said, “Do not think that since I was born in a brāhmaṇa family and have taken *sannyāsa*, it is improper for Me to learn *dharma* from *śūdras*.” For a brāhmaṇa guru is needed only for instruction in the *dharma* of *varṇāśrama* and for initiation (*dīkṣā*). But the knowledge of the truth of Kṛṣṇa is the highest goal (*paramārtha*) of all *jīvas*. When one asks who is qualified to be the guru of this knowledge of the truth, the conclusion is simply this: whether brāhmaṇa or *śūdra* by birth, householder or *sannyāsī*, only one who knows the truth of Kṛṣṇa can be a guru. The *Śrī Hari-bhakti-vilāsa* says that one should not take a Kṛṣṇa mantra from a person of low *varṇa* while a qualified person of high *varṇa* is available. That statement, however, is meant for Vaiṣṇavas who are mindful of public opinion, that is, for those who live in the world and wish to aim in some measure at the highest goal by the accepted rules. For those who know the purport of *vaidhī* and *rāgānugā bhakti* and wish to attain pure devotion to Kṛṣṇa, the rule is to choose as guru a qualified knower of the truth of Kṛṣṇa, in whatever *varṇa* or *āśrama* he may be found. The *Śrī Hari-bhakti-vilāsa* quotes the *Padma Purāṇa*: “The devotees of Bhagavān are not *śūdras*; they are the best of *bhāgavatas*. In every *varṇa*, the *śūdras* are those who are not devoted to Janārdana. A brāhmaṇa expert in the six duties and learned in mantras and *tantras* cannot be a guru if he is not a Vaiṣṇava; a Vaiṣṇava, even a dog-eater, is a guru. Even one born in a great family, initiated into all the sacrifices and studying a thousand branches [of the Vedas] cannot be a guru if he is not a Vaiṣṇava. Brāhmaṇas, *kṣatriyas* and *vaiśyas* are the gurus of those born *śūdras*; and *śūdras* who are dear to Bhagavān are the gurus of those three.”
 
+## 137–138
+
+In Vṛndāvana, the abode made of spirit, Śrī Kṛṣṇa is present in the form of the ever-new Madana, beyond *prakṛti*. By the word *madana* worldly poets usually mean *kāma* as it is in the material world — the mutual attraction of lumps of flesh, a principle utterly material and base. Bound by matter, the *jīvas* have identified themselves with the body and accepted the rule of that *kāma*. When a *jīva* comes to know the truth of his relationship with Kṛṣṇa (*kṛṣṇa-sambandha-tattva*), he attains a transcendental, spiritual position. That position is of two kinds: *svarūpa-gata* (in one's own true nature) and *vastu-gata* (in actual fact). Sometimes the *jīva* has already realized the truth, but “in actual fact” his connection with matter has not yet gone. If in such a state the spiritual truth has dawned in him to some degree, he dwells in Vṛndāvana “in his true nature,” but not “in actual fact.” When by Kṛṣṇa's will even the trace of his connection with gross and subtle matter is gone, he dwells in Vṛndāvana “in actual fact.” Dwelling in one's true nature includes *sādhana*: then the *jīva* worships Kṛṣṇa with the spiritual *kāma-gāyatrī* and the spiritual *kāma-bīja*. Man and woman, the moving and the unmoving — Kṛṣṇa, who captivates every heart, whose very nature is Manmatha-manmatha, the Cupid of Cupid, attracts them all.
+
+The *kāma-gāyatrī* is a particular Vedic mantra of twenty-four and a half syllables. The *kāma-bīja* is the seed syllable (*bīja*) that is chanted in the worship of Kṛṣṇa.
+
+## 140
+
+In the five kinds of worship through the nectar of *rasa* described above, the devotee is the *āśraya* (the abode) of that *rasa*, and Śrī Kṛṣṇa, the object of worship, is its *viṣaya* (the object).
+
+## 141
+
+(*Bhakti-rasāmṛta-sindhu*) May Śrī Kṛṣṇacandra be victorious — the embodiment of the nectar of all *rasas*, who with His spreading radiance captivated the two *sakhīs* named Tārakā and Pāli, who won over Śyāmā and the *sakhī* Lalitā, and who is supremely dear to Rādhā. The purport is this: in whatever *rasa* one worships Him, Śrī Kṛṣṇa, though He is the embodiment of the nectar of that *rasa*, is the one supreme object (*viṣaya*) of Rādhikā's *rasa* alone.
+
+## 142
+
+*Śṛṅgāra* is the king of *rasas* (*rasa-rāja*), and Śrī Kṛṣṇa bears a form made of it. Therefore Kṛṣṇa's beautiful form steals the heart even of Kṛṣṇa Himself.
+
 ---
 
 [^101-1]: The verse translation reads differently: it speaks of Rādhā's love, which could not show itself fully in the presence of the other gopīs. Bhaktivinoda (and the *Anubhāṣya* subheading) speak of Kṛṣṇa's love for Rādhā.

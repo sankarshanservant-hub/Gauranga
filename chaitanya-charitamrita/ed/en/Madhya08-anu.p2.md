@@ -172,6 +172,38 @@ See Ādi 2.107.
 
 > Subheading: Madana-mohana, the form eternally served in Vraja —
 
+***Vṛndāvana*** — the *Brahma-saṁhitā* (Chapter 5, verse 56) says: “There the beloveds are Lakṣmīs, and the Lover is the Supreme Person; the trees are wish-fulfilling trees, the earth is made of multitudes of *cintāmaṇi* gems, the water is nectar; speech there is song, walking is dance, the flute is the dear companion; the light is spiritual bliss, and that supreme [reality] is what is relished. There a great ocean of milk flows from the *surabhi* [cows], and time does not pass away, not even half a blink of an eye. I worship that Śvetadvīpa, which only a few saints, rarely wandering on this earth, know as Goloka.”
+
+[The meaning of the verse:] “In the transcendental Vṛndāvana everything is spiritual. The transcendental Lakṣmīs, that is, the gopīs, are the beloveds; the Supreme Person, Kṛṣṇa, is the Lover of all. The trees there are wish-fulfilling trees, the ground is full of *cintāmaṇi* gems, the water is nectar, speech is song, walking is dance, the flute is the dear companion; all that shines — the moon, the sun and the rest — is full of spiritual bliss. It is this transcendental, spiritual mood that one should relish and cultivate. There an ocean of milk flows from the spiritual cows. There even half a blink of an eye is eternity; in other words, time there does not pass in vain and turn into another time. This abode of Vṛndāvana, manifest in the world, that Śvetadvīpa which a few rare saints who know the truth of Kṛṣṇa know as Goloka — that is what I worship.”
+
+Vṛndāvana cannot be seen through earthly knowledge, which one gains and enjoys with one's own material senses guided by a material intellect; for the transcendental Vṛndāvana is the transcendental field of Kṛṣṇa's transcendental pastimes. Śrīla Narottama Ṭhākura sings in his *Prārthanā*: “When will Nitāicānd bestow His mercy on me? When will the desires of worldly life become trifling to me? When will my mind give up the objects of the senses and become pure? When shall I behold Śrī Vṛndāvana? When will longing for the feet of Rūpa and Raghunātha arise in me? When shall I understand the love of the Divine Couple?” See Madhya 14.219–226.
+
+***Aprākṛta navīna madana*** (the transcendental, ever-new Madana). *Kāma* exists in both states: in the material, worldly one, and in its opposite, the spiritual, transcendental one. But material *kāma* is disturbed by time: it is felt only at the moment it appears, and the next moment it fades and is gone. Transcendental *kāma*, however, is ever new: in time it has no end, and it shines always. The *kāma* perceptible to the material senses is a movement of the material body and mind. It is present in the nature of every *jīva* who has turned away from Kṛṣṇa and is bent on gratifying his senses, but it is only momentary. And the Madana whom the spiritual senses serve is Kṛṣṇacandra, Manmatha-manmatha: He is ever new, He is the *svayaṁ-rūpa*, the original form.
+
+***Kāma-gāyatrī.*** “You are called *gāyatrī* because you save the one who sings [you]” — that is, that which saves the singer or gives salvation through singing. (*Caitanya-caritāmṛta*, Madhya 21.125): “The *kāma-gāyatrī*, in the form of a mantra, is Kṛṣṇa's own nature. It has twenty-four and a half syllables. Those syllables are moons that rise upon Kṛṣṇa and have filled the three worlds with *kāma*.” [The mantra itself:] “*Klīṁ.* Let us know Kāmadeva; let us meditate on Puṣpabāṇa; may that Anaṅga inspire us.” Kāmadeva (see verse 187), that is, Kṛṣṇa as Madana-mohana, is the Deity who is the Lord of *sambandha*; Puṣpabāṇa, that is, Govinda, is the Lord of *abhidheya*; and Anaṅga, that is, Gopījana-vallabha, is the Lord of *prayojana*. The *kāma-gāyatrī* is transcendental. The *sādhaka* worships Kṛṣṇa in transcendental realization, relying on the transcendental composition [of the mantra].
+
+The *Brahma-saṁhitā* (Chapter 5, verses 27–28) says: “Then the movement of the sound of the flute, the embodiment of the three Vedas, appeared and at once entered the lotus mouths of Svayambhū. The lotus-born, receiving from it the *gāyatrī* as it was sung, and purified by the original guru, became twice-born. Then Vidhi, awakened by the three Vedas, having come to know the ocean of truth, praised Keśava with this hymn, the essence of the Vedas.” Then the movement of the sound of Śrī Kṛṣṇa's flute, the embodiment of the three Vedas (the mother of the Vedas, of three times eight syllables, threefold, that is, consisting of *sambandha*, *abhidheya* and *prayojana*), appeared and suddenly entered the lotus mouths of Svayambhū Brahmā. Brahmā, born of the lotus, received initiation into the *gāyatrī* that came forth from the song of the flute, and the original guru, Śrī Kṛṣṇa, performed for him the rite of the twice-born (see the commentary of Śrī Jīva Prabhu). Awakened by remembering the *gāyatrī* — the embodiment of the three Vedas, that is, endowed with *sambandha*, *abhidheya* and *prayojana* — Brahmā became immersed in the ocean of truth, that is, attained realization. With that hymn, the essence of the Vedas, he served Keśava and won His love.
+
+***Kāma-bīja*** — the transcendental “*klīṁ*.” The *Brahma-saṁhitā* (Chapter 5, verse 3) says: “…[that] which abides in the *rasa* of the great bliss, the bliss of *prema*, and is joined with the mantra shining as light, the *kāma-bīja*.” With the transcendental *kāma-gāyatrī* joined to the transcendental *kāma-bīja*, one performs transcendental worship of the transcendental, ever-new form of Madana-mohana. Thus the *Gopāla-tāpanī Upaniṣad* says: “Its utterance is this: beginning with the *kāma* [*bīja*] formed by the union of water, earth, [fire] and the moon, ‘*kṛṣṇāya*’ is the first word, ‘*govindāya*’ the second, ‘*gopījana*’ the third, ‘*vallabhāya*’ the fourth, ‘*svāhā*’ the fifth. Chanting this five-word [mantra] with its five limbs — heaven and earth, sun and moon together with fire — one attains Brahman in that form.” The commentary of Śrī Viśvanātha Cakravartī: “‘Water’ is the syllable *ka*, because it denotes water; ‘earth’ is the syllable *la*, because *la* is its *bīja*; ‘*ī*,’ the long *ī*, is fire, because it arises in the joining of sounds (*sandhi*); the ‘moon’ is the *anusvāra*, because it resembles it in shape. Their union is their joining; the *kāma-bīja* born of that joining comes first, and ‘*kṛṣṇāya*’ is one word — this is the meaning.” In other words, the *bīja* “*klīṁ*” is manifested by the joining of water (the syllable *ka*), earth (the syllable *la*), *ī* (the long *ī*, or fire) and the moon (the *anusvāra*). Placing this *bīja* “*klīṁ*” at the beginning of the Kṛṣṇa mantra, one worships the Supreme Brahman named Kṛṣṇa — the *rasana*, that is, the worship that pleases Him. See Ādi 5.212–214, 219, 221–222.
+
+## 138
+
+> Subheading: The attracting power of Kṛṣṇa's sweetness —
+
+See Ādi 4.147–148.
+
+## 139
+
+See Ādi 5.214.
+
+## 140
+
+***Viṣaya*** — Kṛṣṇa. ***Āśraya*** — the devotee, the abode of *rasa*.
+
+## 141
+
+> Subheading: Glory to the Beloved of Vārṣabhānavī —
+
 ---
 
 [^127-1]: In a number of editions of the *Śrīmad-Bhāgavatam*, 7.11.35.
