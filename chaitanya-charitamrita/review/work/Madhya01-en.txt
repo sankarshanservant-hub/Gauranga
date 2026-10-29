@@ -1063,3 +1063,272 @@ tr: No one in the three worlds is strong enough to deliver us — none but You, 
 w: us  delivering  if  You show  Your own strength
 w: savior of the fallen  the name  then  that  fulfilled
 tr: If You show Your strength by delivering us, then Your name “Saviour of the Fallen” will be fulfilled.
+
+## 201
+w: true  one  word  I say  listen  O merciful one
+w: except me  for mercy  a recipient  in the world  not  is
+tr: I tell You one true thing — listen, O merciful Lord: in all the world there is no one so fit for mercy as I.
+
+## 202
+w: to me  mercy  showing  make  Your name “Merciful” (Your own mercy)  fruitful
+w: the whole  universe  let it see  Your  power of mercy
+tr: Show me mercy and so make Your name “Merciful” come true; let the whole universe see the power of Your mercy.
+fn: The Gauḍīya Maṭha edition reads *sadaya* (“Merciful”), with *sva-dayā* (“Your own mercy”) in brackets; the *Amṛta-pravāha-bhāṣya* follows *sadaya*: “justify Your name *sadaya*, ‘the merciful’”.
+
+## 203
+w: not  false  the highest truth  indeed  mine
+w: hear  petition  one  before You
+w: if  to me  not  You will show mercy  then
+w: one fit for mercy  Your  O Lord  hard to find
+tr: “Hear one plea I lay before You, O Lord; it is no lie, but the very truth: if You will not show me mercy, You will hardly find anyone more fit to receive it.” (Stotra-ratna, 47)
+fn: Edition heading: “(a verse by Śrī Yāmunācārya)”; in the edition the verse is printed without a number. *Anubhāṣya*: being the lowest of all, I am the fit vessel of mercy.
+
+## 204
+w: myself  unfit  seeing  in my mind  I feel  distress
+w: still  for Your  qualities  arises  longing
+tr: Seeing my own unworthiness, I am distressed at heart; yet Your qualities awaken longing in me.
+
+## 205
+w: a dwarf  being  the moon  to catch  wish  he makes
+w: so  my  this  desire  rises  in my heart
+tr: As a dwarf wishes to catch the moon, so this desire rises in my heart.
+
+## 206
+w: You  alone  serving  constantly
+w: with every other desire completely stilled
+w: when shall I  as a wholly devoted eternal servant
+w: gladden  that very  O Lord  life
+tr: “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (Stotra-ratna, 43)
+fn: Edition heading: “(a verse by Śrī Yāmunācārya)”.
+
+## 207
+w: hearing  Mahāprabhu  says  listen  Dabira  Khāsa
+w: you  two  brothers  My  old  servants
+tr: Hearing this, Mahāprabhu said: “Listen, Dabira Khāsa: you two brothers are My servants of old.
+fn: Edition heading: “The Lord’s merciful words to both brothers, addressed to Śrī Rūpa”.
+
+## 208
+w: today  from  of you two  the names  Rūpa  Sanātana
+w: humility  give up  your  by humility  breaks  My  heart
+tr: From today your names are Rūpa and Sanātana. Give up this humility — your humility breaks My heart.
+fn: *Anubhāṣya*: in His mercy Mahāprabhu named Dabira Khāsa “Rūpa” and Sākara Mallika “Sanātana”; for one on the path of rules the giving of a name is one of the saṁskāras, and those who disregard the name received by the grace of a Vaiṣṇava guru cannot hope for devotion to Hari.
+
+## 209
+w: humble letters  writing  to Me  you sent  time  after time
+w: those  through the letters  I know  your  conduct
+tr: Time and again you wrote Me humble letters, and through those letters I came to know your ways.
+
+## 210
+w: your  heart  I  know  through the letters
+w: you  to teach  a verse  I spoke  time  after time
+tr: Through those letters I knew your hearts, and to instruct you I quoted a verse again and again:
+
+## 211
+w: devoted to another  a woman
+w: though busy  with household duties
+w: that  alone  she relishes  within
+w: the nectar of a new meeting
+tr: “A woman attached to a man other than her husband may seem busy with her household duties, but within she relishes only the nectar of new meetings with him.”
+fn: Edition heading: “The outward conduct of a devotee on the path of rāga”, with the note “[a verse spoken by Śrī Kṛṣṇa Caitanya]”. *Anubhāṣya*: so too expert Vaiṣṇavas outwardly keep the prescribed duties of varṇāśrama, while all the art of their bhajana is service to Hari alone.
+
+## 212
+w: near Gauḍa  to come  there is not  My  purpose
+w: you two  to see  My  here  coming
+tr: I had no reason to come near Gauḍa; I came here only to see you two.
+
+## 213
+w: this  of My  heart  the matter  anyone  not  knows
+w: all  say  why  has He come  to the village of Rāmakeli
+tr: No one knows this, the secret of My heart; everyone asks why I have come to Rāmakeli.
+
+## 214
+w: good  it was  the two  brothers  came  My  to the place
+w: home  go  fear  any  not  keep  in the mind
+tr: It is good that you two brothers came to Me. Now go home and do not be afraid.
+
+## 215
+w: in birth  after birth  you  two  servants  Mine
+w: very soon  Kṛṣṇa  you  will make  deliverance
+tr: Birth after birth you two are My servants. Very soon Kṛṣṇa will deliver you.”
+
+## 216
+w: thus  saying  of both  on the heads  He placed  two  hands
+w: the two  brothers  taking  the Lord’s  feet  placed  on their heads
+tr: Saying this, He placed His two hands on their heads, and the two brothers took the Lord’s feet and placed them on their heads.
+
+## 217
+w: both  embracing  the Lord  said  to the devotees
+w: all  mercy  showing  deliver  these  two  persons
+tr: Embracing them both, the Lord said to the devotees: “All of you, be merciful and deliver these two.”
+
+## 218
+w: to the two  persons  the Lord’s  mercy  seeing  the devotees
+w: Hari  Hari  call  all  with joyful hearts
+tr: Seeing the Lord’s mercy on the two, all the devotees joyfully called out, “Hari! Hari!”
+
+## 219
+w: Nityānanda  Haridāsa  Śrīvāsa  Gadādhara
+w: Mukunda  Jagadānanda  Murāri  Vakreśvara
+tr: Nityānanda, Haridāsa, Śrīvāsa, Gadādhara, Mukunda, Jagadānanda, Murāri and Vakreśvara were there.
+
+## 220
+w: of all  the feet  clasping  fall  the two  brothers
+w: all  say  blessed  you are  you have attained  the Gosāñi
+tr: The two brothers clasped the feet of each of them and fell down, and all said: “You are blessed — you have attained the Lord.”
+
+## 221
+w: from all  permission  asking  at the time of leaving
+w: at the Lord’s feet  they say  something  showing  humility
+tr: Asking leave of everyone, at the time of departure they humbly spoke to the Lord at His feet:
+fn: Edition heading: “Sanātana gives the Lord good counsel at parting”.
+
+## 222
+w: here  from  go  O Lord  here  there is no  business
+w: although  You  devotion  shows  the king of Gauḍa
+tr: “Leave this place, O Lord; there is nothing for You here. Although the king of Gauḍa shows You devotion,
+
+## 223
+w: still  a Muslim  by birth  not  do  trust
+w: on pilgrimage  such  a crowd  good  is not  the custom
+tr: he is still a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
+
+## 224
+w: with whom  together  go  these  people  in hundreds of thousands
+w: to Vṛndāvana  for going  this  is not  the proper manner
+tr: To go to Vṛndāvana with hundreds of thousands of people following is not the proper manner.”
+
+## 225
+w: although  in truth  of the Lord  any  there is no  fear
+w: still  a worldly pastime  of human behavior  full
+tr: Although in truth the Lord has nothing to fear, His pastimes in this world follow the ways of ordinary people.
+fn: Edition heading: “Though He is the Supreme Lord Himself, in the role of ācārya He gives beginners (*kaniṣṭha-adhikārīs*) a chance to learn”.
+
+## 226
+w: thus  saying  His feet  saluting  went  the two
+w: of the Lord  that  village  from  to leave  arose  the mind
+tr: Saying this, the two saluted His feet and left, and the Lord resolved to leave that village.
+
+## 227
+w: in the morning  setting out  came  the Lord  to Kānāi’s  Nāṭaśālā
+w: He saw  all  there  of Kṛṣṇa’s deeds  the pastimes
+tr: Setting out in the morning, the Lord came to Kānāi’s Nāṭaśālā, and there He saw depicted all the pastimes of Kṛṣṇa.
+fn: *Amṛta-pravāha-bhāṣya*: in those days a “Kānāi’s Nāṭaśālā” was set up in many places in Gauḍa; here, near Gauḍa, the Lord saw many pictures of Kṛṣṇa’s pastimes.
+
+## 228
+w: that  night  the Lord  there  ponders  in His mind  within
+w: with Him  a crowd  good  is not  says  Sanātana
+tr: That night the Lord pondered within Himself: “Sanātana says it is not good to travel with a crowd.
+
+## 229
+w: to Mathurā  will go  I  so many  with people
+w: any  happiness  not  there will be  there will be  a break of rasa
+tr: If I go to Mathurā with so many people, there will be no happiness in it; the rasa will be spoiled.
+
+## 230
+w: alone  I will go  or  with Me  one  person
+w: then  only  becomes beautiful  to Vṛndāvana  the journey
+tr: I shall go alone, or with just one companion; only then will My journey to Vṛndāvana be beautiful.”
+
+## 231
+w: thus  thinking  in the morning  in the Gaṅgā a bath  taking
+w: to Nīlācala I will go  saying  set out  Gaurahari
+tr: Thinking this, Gaurahari bathed in the Gaṅgā in the morning and set out, saying, “I shall go to Nīlācala.”
+
+## 232
+w: in this  way  walking  walking  He came  to Śāntipura
+w: days  five or seven  He stayed  of the Ācārya  at the house
+tr: Walking on in this way He came to Śāntipura and stayed five or seven days at the Ācārya’s house.
+
+## 233
+w: Śacīdevī  coming  to Him  made  obeisance
+w: seven  days  her  at the place  the taking of meals
+tr: Śacīdevī came and offered Him her obeisance, and for seven days He took His meals from her.
+
+## 234
+w: her  permission  taking  again  He made  the journey
+w: humility  showing  leave  gave  to the devotees
+tr: Taking her permission, He set out again, and He humbly bade the devotees farewell:
+fn: Edition heading: “The Lord takes leave of all the devotees and tells them to come to Purī for the Ratha-yātrā”.
+
+## 235
+w: persons  two  with Me  I  will go  to Nīlācala
+w: Me  you will meet  coming  at the time of the Ratha-yātrā
+tr: “I shall go to Nīlācala with two companions. Come and meet Me at the time of the Ratha-yātrā.”
+
+## 236
+w: Balabhadra  Bhaṭṭācārya  and  Paṇḍita  Dāmodara
+w: with the two persons  the Lord  came  to Nīlācala
+tr: With two companions — Balabhadra Bhaṭṭācārya and Dāmodara Paṇḍita — the Lord came to Nīlācala.
+
+## 237
+w: days  a few  staying  there  He set out  for Vṛndāvana
+w: secretly  He went  at night  not  knows  any  person
+tr: After staying there a few days He set out for Vṛndāvana, leaving secretly at night without anyone knowing.
+
+## 238
+w: Balabhadra  Bhaṭṭācārya  remains  only  with Him
+w: by the Jhārikhaṇḍa road  to Kāśī  He came  in many delights
+tr: Only Balabhadra Bhaṭṭācārya stayed with Him. By the forest road of Jhārikhaṇḍa He came to Kāśī, enjoying many wonderful pastimes on the way.
+
+## 239
+w: days  four  in Kāśī  staying  He went  to Vṛndāvana
+w: Mathurā  seeing  He sees  twelve  forests
+tr: After staying four days in Kāśī He went to Vṛndāvana; having seen Mathurā, He visited the twelve forests.
+fn: *Anubhāṣya*: the twelve forests are Kāmyavana, Tālavana, Tamālavana, Madhuvana, Kusumavana, Bhāṇḍīravana, Bilvavana, Bhadravana, Khadiravana, Lohavana, Kumudavana and Gokula-Mahāvana.
+
+## 240
+w: the places of the pastimes  seeing  in love  He became  restless
+w: Balabhadra  brought  Him  of Mathurā  outside
+tr: Seeing the places of the pastimes, He became overwhelmed with love, and Balabhadra led Him away from Mathurā.
+
+## 241
+w: by the road along the Gaṅgā  taking  to Prayāga  he came
+w: Śrī Rūpa  the Lord  coming  right there  met
+tr: Taking Him along the road beside the Gaṅgā, Balabhadra came to Prayāga, and there Śrī Rūpa came and met the Lord.
+
+## 242
+w: obeisance  making  Rūpa  on the ground  fell
+w: in supreme  joy  the Lord  an embrace  gave
+tr: Rūpa fell to the ground in obeisance, and the Lord embraced him in supreme joy.
+
+## 243
+w: Śrī Rūpa  instruction  giving  sends  to Vṛndāvana
+w: Himself  made  to Vārāṇasī  coming
+tr: Having instructed Śrī Rūpa, He sent him to Vṛndāvana, and He Himself came to Vārāṇasī.
+
+## 244
+w: in Kāśī  the Lord  coming  met  Sanātana
+w: two  months  staying  him  He gave  instruction
+tr: In Kāśī Sanātana came and met the Lord, who stayed two months and instructed him.
+
+## 245
+w: to Mathurā  He sent  him  giving  the strength of bhakti
+w: to the sannyāsī  mercy  showing  He went  to Nīlācala
+tr: He sent him to Mathurā, investing him with the strength of bhakti; then, after showing mercy to the sannyāsī, He went to Nīlācala.
+fn: Edition heading: “The Lord sends Sanātana to the Mathurā region and delivers Prakāśānanda”.
+
+## 246
+w: six  years  the Lord  thus  enjoyed  pastimes
+w: sometimes  here and there  wandering  sometimes  dwelling in the Kṣetra
+tr: For six years the Lord enjoyed such pastimes, sometimes wandering here and there, sometimes living in the Kṣetra (Purī).
+
+## 247
+w: in joy  with the devotees  always  pastimes of kīrtana
+w: seeing Jagannātha  of love  the pastimes
+tr: With the devotees He always delighted in kīrtana, beheld Jagannātha and revelled in love.
+
+## 248
+w: of the Madhya-līlā  I have made  this  summary in sūtras
+w: of the Antya-līlā  the sūtras  now  hear  O devotees
+tr: Thus I have given the Madhya-līlā in brief sūtras. Now, O devotees, hear the sūtras of the Antya-līlā.
+
+## 249
+w: Vṛndāvana  from  when  to Nīlācala  He came
+w: eighteen  years  there  dwelling  anywhere  not  went
+tr: After He returned from Vṛndāvana to Nīlācala, He lived there eighteen years and went nowhere else.
+fn: Edition heading: “After the six years, the remaining eighteen years — living in Purī alone”.
+
+## 250
+w: every year  come  there  of Gauḍa  the devotees
+w: four  months  last  with the Lord  together  the meeting
+tr: Every year the devotees of Gauḍa came there and stayed four months in the Lord’s company.

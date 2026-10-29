@@ -2054,6 +2054,520 @@ savior of the fallen  the name  then  that  fulfilled
 
 (200) If You show Your strength by delivering us, then Your name “Saviour of the Fallen” will be fulfilled.
 
+সত্য এক বাত কহোঁ, শুন, দয়াময় ৷  
+মো-বিনু দয়ার পাত্র জগতে না হয় ॥ ২০১ ॥
+
+satya eka bāta kahom̐, śuna, dayā-maya  
+true  one  word  I say  listen  O merciful one  
+mo-vinu dayāra pātra jagate nā haya  
+except me  for mercy  a recipient  in the world  not  is
+
+(201) I tell You one true thing — listen, O merciful Lord: in all the world there is no one so fit for mercy as I.
+
+মোরে দয়া করি’ কর সদয় (স্বদয়া) সফল ৷  
+অখিল ব্রহ্মাণ্ড দেখুক্ তোমার দয়া-বল ॥ ২০২ ॥
+
+more dayā kari’ kara sadaya (sva-dayā) saphala  
+to me  mercy  showing  make  Your name “Merciful” (Your own mercy)  fruitful  
+akhila brahmāṇḍa dekhuk tomāra dayā-bala  
+the whole  universe  let it see  Your  power of mercy
+
+(202) Show me mercy and so make Your name “Merciful” come true; let the whole universe see the power of Your mercy.[^38]
+
+ন মৃষা পরমার্থমেব মে, শৃণু বিজ্ঞাপনমেকমগ্রতঃ ৷  
+যদি মে ন দয়িষ্যসে তদা, দয়নীয়স্তব নাথ দুর্ল্লভঃ ॥ ২০৩ ॥
+
+na mṛṣā paramārtham eva me  
+not  false  the highest truth  indeed  mine  
+śṛṇu vijñāpanam ekam agrataḥ  
+hear  petition  one  before You  
+yadi me na dayiṣyase tadā  
+if  to me  not  You will show mercy  then  
+dayanīyas tava nātha durlabhaḥ  
+one fit for mercy  Your  O Lord  hard to find
+
+(203) “Hear one plea I lay before You, O Lord; it is no lie, but the very truth: if You will not show me mercy, You will hardly find anyone more fit to receive it.” (Stotra-ratna, 47)[^39]
+
+আপনে অয়োগ্য দেখি’ মনে পাঙ ক্ষোভ ৷  
+তথাপি তোমার গুণে উপজয় লোভ ॥ ২০৪ ॥
+
+āpane ayogya dekhi’ mane pāṅa kṣobha  
+myself  unfit  seeing  in my mind  I feel  distress  
+tathāpi tomāra guṇe upajaya lobha  
+still  for Your  qualities  arises  longing
+
+(204) Seeing my own unworthiness, I am distressed at heart; yet Your qualities awaken longing in me.
+
+বামন হঞা চাঁদ ধরিতে ইচ্ছা করে ৷  
+তৈছে মোর এই বাঞ্ছা উঠয়ে অন্তরে ॥ ২০৫ ॥
+
+vāmana hañā cām̐da dharite icchā kare  
+a dwarf  being  the moon  to catch  wish  he makes  
+taiche mora ei vāñchā uṭhaye antare  
+so  my  this  desire  rises  in my heart
+
+(205) As a dwarf wishes to catch the moon, so this desire rises in my heart.
+
+ভবন্তমেবানুচরন্নিরন্তরঃ  
+প্রশান্তনিঃশেষমনোরথান্তরঃ ৷  
+কদাহমৈকান্তিকনিত্যকিঙ্করঃ  
+প্রহর্ষয়িষ্যামি স নাথ জীবিতম্ ॥ ২০৬ ॥
+
+bhavantam evānucaran nirantaraḥ  
+You  alone  serving  constantly  
+praśānta-niḥśeṣa-mano-rathāntaraḥ  
+with every other desire completely stilled  
+kadāham aikāntika-nitya-kiṅkaraḥ  
+when shall I  as a wholly devoted eternal servant  
+praharṣayiṣyāmi sa nātha jīvitam  
+gladden  that very  O Lord  life
+
+(206) “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (Stotra-ratna, 43)[^40]
+
+শুনি’ মহাপ্রভু কহে, — শুন, দবির খাস ৷  
+তুমি দুই ভাই — মোর পুরাতন দাস ॥ ২০৭ ॥
+
+śuni’ mahāprabhu kahe, — śuna, dabira khāsa  
+hearing  Mahāprabhu  says  listen  Dabira  Khāsa  
+tumi dui bhāi — mora purātana dāsa  
+you  two  brothers  My  old  servants
+
+(207) Hearing this, Mahāprabhu said: “Listen, Dabira Khāsa: you two brothers are My servants of old.[^41]
+
+আজি হৈতে দুঁহার নাম ‘রূপ’ ‘সনাতন’ ৷  
+দৈন্য ছাড়, তোমার দৈন্যে ফাটে মোর মন ॥ ২০৮ ॥
+
+āji haite dum̐hāra nāma ‘rūpa’ ‘sanātana’  
+today  from  of you two  the names  Rūpa  Sanātana  
+dainya chāḍa, tomāra dainye phāṭe mora mana  
+humility  give up  your  by humility  breaks  My  heart
+
+(208) From today your names are Rūpa and Sanātana. Give up this humility — your humility breaks My heart.[^42]
+
+দৈন্যপত্রী লিখি’ মোরে পাঠালে বার বার ৷  
+সেই পত্রীদ্বারা জানি তোমার ব্যবহার ॥ ২০৯ ॥
+
+dainya-patrī likhi’ more pāṭhāle bāra bāra  
+humble letters  writing  to Me  you sent  time  after time  
+sei patrī-dvārā jāni tomāra vyavahāra  
+those  through the letters  I know  your  conduct
+
+(209) Time and again you wrote Me humble letters, and through those letters I came to know your ways.
+
+তোমার হৃদয় আমি জানি পত্রীদ্বারে ৷  
+তোমা শিখাইতে শ্লোক কহিলুঁ বারে বারে ॥ ২১০ ॥
+
+tomāra hṛdaya āmi jāni patrī-dvāre  
+your  heart  I  know  through the letters  
+tomā śikhāite śloka kahilum̐ bāre bāre  
+you  to teach  a verse  I spoke  time  after time
+
+(210) Through those letters I knew your hearts, and to instruct you I quoted a verse again and again:
+
+পরব্যসনিনী নারী ব্যগ্রাপি গৃহকর্ম্মসু ৷  
+তদেবাস্বাদয়ত্যন্তর্নবসঙ্গরসায়নম্ ॥ ২১১ ॥
+
+para-vyasaninī nārī  
+devoted to another  a woman  
+vyagrāpi gṛha-karmasu  
+though busy  with household duties  
+tad evāsvādayaty antar  
+that  alone  she relishes  within  
+nava-saṅga-rasāyanam  
+the nectar of a new meeting
+
+(211) “A woman attached to a man other than her husband may seem busy with her household duties, but within she relishes only the nectar of new meetings with him.”[^43]
+
+গৌড়-নিকট আসিতে নাহি মোর প্রয়োজন ৷  
+তোমা-দুঁহা দেখিতে মোর ইঁহা আগমন ॥ ২১২ ॥
+
+gauḍa-nikaṭa āsite nāhi mora prayojana  
+near Gauḍa  to come  there is not  My  purpose  
+tomā-dum̐hā dekhite mora im̐hā āgamana  
+you two  to see  My  here  coming
+
+(212) I had no reason to come near Gauḍa; I came here only to see you two.
+
+এই মোর মনের কথা কেহ নাহি জানে ৷  
+সবে বলে, কেনে আইলা রামকেলি-গ্রামে ॥ ২১৩ ॥
+
+ei mora manera kathā keha nāhi jāne  
+this  of My  heart  the matter  anyone  not  knows  
+sabe bale, kene āilā rāmakeli-grāme  
+all  say  why  has He come  to the village of Rāmakeli
+
+(213) No one knows this, the secret of My heart; everyone asks why I have come to Rāmakeli.
+
+ভাল হৈল, দুই ভাই আইলা মোর স্থানে ৷  
+ঘরে যাহ, ভয় কিছু না করিহ মনে ॥ ২১৪ ॥
+
+bhāla haila, dui bhāi āilā mora sthāne  
+good  it was  the two  brothers  came  My  to the place  
+ghare yāha, bhaya kichu nā kariha mane  
+home  go  fear  any  not  keep  in the mind
+
+(214) It is good that you two brothers came to Me. Now go home and do not be afraid.
+
+জন্মে জন্মে তুমি দুই — কিঙ্কর আমার ৷  
+অচিরাতে কৃষ্ণ তোমায় করিবে উদ্ধার ॥ ২১৫ ॥
+
+janme janme tumi dui — kiṅkara āmāra  
+in birth  after birth  you  two  servants  Mine  
+acirāte kṛṣṇa tomāya karibe uddhāra  
+very soon  Kṛṣṇa  you  will make  deliverance
+
+(215) Birth after birth you two are My servants. Very soon Kṛṣṇa will deliver you.”
+
+এত বলি দুঁহার শিরে ধরিল দুই হাতে ৷  
+দুই ভাই ধরি’ প্রভুর পদ নিল মাথে ॥ ২১৬ ॥
+
+eta bali dum̐hāra śire dharila dui hāte  
+thus  saying  of both  on the heads  He placed  two  hands  
+dui bhāi dhari’ prabhura pada nila māthe  
+the two  brothers  taking  the Lord’s  feet  placed  on their heads
+
+(216) Saying this, He placed His two hands on their heads, and the two brothers took the Lord’s feet and placed them on their heads.
+
+দোঁহা আলিঙ্গিয়া প্রভু বলিল ভক্তগণে ৷  
+সবে কৃপা করি’ উদ্ধার’ এই দুই জনে ॥ ২১৭ ॥
+
+dom̐hā āliṅgiyā prabhu balila bhakta-gaṇe  
+both  embracing  the Lord  said  to the devotees  
+sabe kṛpā kari’ uddhāra’ ei dui jane  
+all  mercy  showing  deliver  these  two  persons
+
+(217) Embracing them both, the Lord said to the devotees: “All of you, be merciful and deliver these two.”
+
+দুই জনে প্রভুর কৃপা দেখি’ ভক্তগণে ৷  
+‘হরি’ ‘হরি’ বলে সবে আনন্দিত-মনে ॥ ২১৮ ॥
+
+dui jane prabhura kṛpā dekhi’ bhakta-gaṇe  
+to the two  persons  the Lord’s  mercy  seeing  the devotees  
+‘hari’ ‘hari’ bale sabe ānandita-mane  
+Hari  Hari  call  all  with joyful hearts
+
+(218) Seeing the Lord’s mercy on the two, all the devotees joyfully called out, “Hari! Hari!”
+
+নিত্যানন্দ, হরিদাস, শ্রীবাস, গদাধর ৷  
+মুকুন্দ, জগদানন্দ, মুরারি, বক্রেশ্বর ॥ ২১৯ ॥
+
+nityānanda, haridāsa, śrīvāsa, gadādhara  
+Nityānanda  Haridāsa  Śrīvāsa  Gadādhara  
+mukunda, jagadānanda, murāri, vakreśvara  
+Mukunda  Jagadānanda  Murāri  Vakreśvara
+
+(219) Nityānanda, Haridāsa, Śrīvāsa, Gadādhara, Mukunda, Jagadānanda, Murāri and Vakreśvara were there.
+
+সবার চরণে ধরি’ পড়ে দুই ভাই ৷  
+সবে বলে, — ধন্য তুমি, পাইলে গোসাঞি ॥ ২২০ ॥
+
+sabāra caraṇe dhari’ paḍe dui bhāi  
+of all  the feet  clasping  fall  the two  brothers  
+sabe bale, — dhanya tumi, pāile gosāñi  
+all  say  blessed  you are  you have attained  the Gosāñi
+
+(220) The two brothers clasped the feet of each of them and fell down, and all said: “You are blessed — you have attained the Lord.”
+
+সবা-পাশ আজ্ঞা মাগি’ চলন-সময় ৷  
+প্রভু-পদে কহে কিছু করিয়া বিনয় ॥ ২২১ ॥
+
+sabā-pāśa ājñā māgi’ calana-samaya  
+from all  permission  asking  at the time of leaving  
+prabhu-pade kahe kichu kariyā vinaya  
+at the Lord’s feet  they say  something  showing  humility
+
+(221) Asking leave of everyone, at the time of departure they humbly spoke to the Lord at His feet:[^44]
+
+ইঁহা হৈতে চল, প্রভু, ইঁহা নাহি কাজ ৷  
+যদ্যপি তোমারে ভক্তি করে গৌড়রাজ ॥ ২২২ ॥
+
+im̐hā haite cala, prabhu, im̐hā nāhi kāja  
+here  from  go  O Lord  here  there is no  business  
+yadyapi tomāre bhakti kare gauḍa-rāja  
+although  You  devotion  shows  the king of Gauḍa
+
+(222) “Leave this place, O Lord; there is nothing for You here. Although the king of Gauḍa shows You devotion,
+
+তথাপি যবনজাতি, না করিহ প্রতীতি ৷  
+তীর্থযাত্রায় এত সংঘট্ট ভাল নহে রীতি ॥ ২২৩ ॥
+
+tathāpi yavana jāti, nā kariha pratīti  
+still  a Muslim  by birth  not  do  trust  
+tīrtha-yātrāya eta saṅghaṭṭa bhāla nahe rīti  
+on pilgrimage  such  a crowd  good  is not  the custom
+
+(223) he is still a Muslim by birth — do not trust him. And such a crowd is not the proper way to go on pilgrimage.
+
+যাঁহা সঙ্গে চলে এই লোক লক্ষকোটি ৷  
+বৃন্দাবন যাইবার এ নহে পরিপাটী ॥ ২২৪ ॥
+
+yām̐hā saṅge cale ei loka lakṣa-koṭi  
+with whom  together  go  these  people  in hundreds of thousands  
+vṛndāvana yāivāra e nahe paripāṭī  
+to Vṛndāvana  for going  this  is not  the proper manner
+
+(224) To go to Vṛndāvana with hundreds of thousands of people following is not the proper manner.”
+
+যদ্যপি বস্তুতঃ প্রভুর কিছু নাহি ভয় ৷  
+তথাপি লৌকিকলীলা, লোক-চেষ্টাময় ॥ ২২৫ ॥
+
+yadyapi vastutaḥ prabhura kichu nāhi bhaya  
+although  in truth  of the Lord  any  there is no  fear  
+tathāpi laukika-līlā, loka-ceṣṭā-maya  
+still  a worldly pastime  of human behavior  full
+
+(225) Although in truth the Lord has nothing to fear, His pastimes in this world follow the ways of ordinary people.[^45]
+
+এত বলি’ চরণ বন্দি’ গেলা দুইজন ৷  
+প্রভুর সেই গ্রাম হৈতে চলিতে হৈল মন ॥ ২২৬ ॥
+
+eta bali’ caraṇa vandi’ gelā dui-jana  
+thus  saying  His feet  saluting  went  the two  
+prabhura sei grāma haite calite haila mana  
+of the Lord  that  village  from  to leave  arose  the mind
+
+(226) Saying this, the two saluted His feet and left, and the Lord resolved to leave that village.
+
+প্রাতে চলি’ আইলা প্রভু ‘কানাইর নাটশালা’ ৷  
+দেখিল সকল তাঁহা কৃষ্ণচরিত্র-লীলা ॥ ২২৭ ॥
+
+prāte cali’ āilā prabhu ‘kānāira nāṭaśālā’  
+in the morning  setting out  came  the Lord  to Kānāi’s  Nāṭaśālā  
+dekhila sakala tām̐hā kṛṣṇa-caritra-līlā  
+He saw  all  there  of Kṛṣṇa’s deeds  the pastimes
+
+(227) Setting out in the morning, the Lord came to Kānāi’s Nāṭaśālā, and there He saw depicted all the pastimes of Kṛṣṇa.[^46]
+
+সেই রাত্রে প্রভু তাঁহা চিন্তে মনে মন ৷  
+সঙ্গে সংঘট্ট ভাল নহে, বলে সনাতন ॥ ২২৮ ॥
+
+sei rātre prabhu tām̐hā cinte mane mana  
+that  night  the Lord  there  ponders  in His mind  within  
+saṅge saṅghaṭṭa bhāla nahe, bale sanātana  
+with Him  a crowd  good  is not  says  Sanātana
+
+(228) That night the Lord pondered within Himself: “Sanātana says it is not good to travel with a crowd.
+
+মথুরা যাইব আমি এত লোক-সঙ্গে ৷  
+কিছু সুখ না হইবে, হবে রসভঙ্গে ॥ ২২৯ ॥
+
+mathurā yāiba āmi eta loka-saṅge  
+to Mathurā  will go  I  so many  with people  
+kichu sukha nā haibe, habe rasa-bhaṅge  
+any  happiness  not  there will be  there will be  a break of rasa
+
+(229) If I go to Mathurā with so many people, there will be no happiness in it; the rasa will be spoiled.
+
+একাকী যাইব, কিম্বা সঙ্গে একজন ৷  
+তবে সে শোভয়ে বৃন্দাবনেরে গমন ॥ ২৩০ ॥
+
+ekākī yāiba, kimbā saṅge eka jana  
+alone  I will go  or  with Me  one  person  
+tabe se śobhaye vṛndāvanere gamana  
+then  only  becomes beautiful  to Vṛndāvana  the journey
+
+(230) I shall go alone, or with just one companion; only then will My journey to Vṛndāvana be beautiful.”
+
+এত চিন্তি’ প্রাতঃকালে গঙ্গাস্নান করি’ ৷  
+‘নীলাচলে যাব’ বলি’ চলিলা গৌরহরি ॥ ২৩১ ॥
+
+eta cinti’ prātaḥ-kāle gaṅgā-snāna kari’  
+thus  thinking  in the morning  in the Gaṅgā a bath  taking  
+‘nīlācale yāba’ bali’ calilā gaurahari  
+to Nīlācala I will go  saying  set out  Gaurahari
+
+(231) Thinking this, Gaurahari bathed in the Gaṅgā in the morning and set out, saying, “I shall go to Nīlācala.”
+
+এই মত চলি’ চলি’ আইলা শান্তিপুরে ৷  
+দিন পাঁচ-সাত রহিলা আচার্য্যের ঘরে ॥ ২৩২ ॥
+
+ei mata cali’ cali’ āilā śāntipure  
+in this  way  walking  walking  He came  to Śāntipura  
+dina pām̐ca-sāta rahilā ācāryera ghare  
+days  five or seven  He stayed  of the Ācārya  at the house
+
+(232) Walking on in this way He came to Śāntipura and stayed five or seven days at the Ācārya’s house.
+
+শচীদেবী আসি’ তাঁরে কৈল নমস্কার ৷  
+সাত দিন তাঁর ঠাঞি ভিক্ষা-ব্যবহার ॥ ২৩৩ ॥
+
+śacī-devī āsi’ tām̐re kaila namaskāra  
+Śacīdevī  coming  to Him  made  obeisance  
+sāta dina tām̐ra ṭhāñi bhikṣā-vyavahāra  
+seven  days  her  at the place  the taking of meals
+
+(233) Śacīdevī came and offered Him her obeisance, and for seven days He took His meals from her.
+
+তাঁর আজ্ঞা লঞা পুনঃ করিলা গমনে ৷  
+বিনয় করিয়া বিদায় দিল ভক্তগণে ॥ ২৩৪ ॥
+
+tām̐ra ājñā lañā punaḥ karilā gamane  
+her  permission  taking  again  He made  the journey  
+vinaya kariyā vidāya dila bhakta-gaṇe  
+humility  showing  leave  gave  to the devotees
+
+(234) Taking her permission, He set out again, and He humbly bade the devotees farewell:[^47]
+
+জনা দুই সঙ্গে আমি যাব নীলাচলে ৷  
+আমারে মিলিবা আসি’ রথযাত্রা-কালে ॥ ২৩৫ ॥
+
+janā dui saṅge āmi yāba nīlācale  
+persons  two  with Me  I  will go  to Nīlācala  
+āmāre milibā āsi’ ratha-yātrā-kāle  
+Me  you will meet  coming  at the time of the Ratha-yātrā
+
+(235) “I shall go to Nīlācala with two companions. Come and meet Me at the time of the Ratha-yātrā.”
+
+বলভদ্র ভট্টাচার্য্য, আর পণ্ডিত দামোদর ৷  
+দুইজন-সঙ্গে প্রভু আইলা নীলাচল ॥ ২৩৬ ॥
+
+balabhadra bhaṭṭācārya, āra paṇḍita dāmodara  
+Balabhadra  Bhaṭṭācārya  and  Paṇḍita  Dāmodara  
+dui-jana-saṅge prabhu āilā nīlācala  
+with the two persons  the Lord  came  to Nīlācala
+
+(236) With two companions — Balabhadra Bhaṭṭācārya and Dāmodara Paṇḍita — the Lord came to Nīlācala.
+
+দিন কত রহি’ তাঁহা চলিলা বৃন্দাবন ৷  
+লুকাঞা চলিলা রাত্রে, না জানে কোন জন ॥ ২৩৭ ॥
+
+dina kata rahi’ tām̐hā calilā vṛndāvana  
+days  a few  staying  there  He set out  for Vṛndāvana  
+lukāñā calilā rātre, nā jāne kona jana  
+secretly  He went  at night  not  knows  any  person
+
+(237) After staying there a few days He set out for Vṛndāvana, leaving secretly at night without anyone knowing.
+
+বলভদ্র ভট্টাচার্য্য রহে মাত্র সঙ্গে ৷  
+ঝারিখণ্ড-পথে কাশী আইলা নানারঙ্গে ॥ ২৩৮ ॥
+
+balabhadra bhaṭṭācārya rahe mātra saṅge  
+Balabhadra  Bhaṭṭācārya  remains  only  with Him  
+jhārikhaṇḍa-pathe kāśī āilā nānā-raṅge  
+by the Jhārikhaṇḍa road  to Kāśī  He came  in many delights
+
+(238) Only Balabhadra Bhaṭṭācārya stayed with Him. By the forest road of Jhārikhaṇḍa He came to Kāśī, enjoying many wonderful pastimes on the way.
+
+দিন চারি কাশীতে রহি’ গেলা বৃন্দাবন ৷  
+মথুরা দেখিয়া দেখে দ্বাদশ কানন ॥ ২৩৯ ॥
+
+dina cāri kāśīte rahi’ gelā vṛndāvana  
+days  four  in Kāśī  staying  He went  to Vṛndāvana  
+mathurā dekhiyā dekhe dvādaśa kānana  
+Mathurā  seeing  He sees  twelve  forests
+
+(239) After staying four days in Kāśī He went to Vṛndāvana; having seen Mathurā, He visited the twelve forests.[^48]
+
+লীলাস্থল দেখি’ প্রেমে হইলা অস্থির ৷  
+বলভদ্র কৈল তাঁরে মথুরার বাহির ॥ ২৪০ ॥
+
+līlā-sthala dekhi’ preme ha-ilā asthira  
+the places of the pastimes  seeing  in love  He became  restless  
+balabhadra kaila tām̐re mathurāra bāhira  
+Balabhadra  brought  Him  of Mathurā  outside
+
+(240) Seeing the places of the pastimes, He became overwhelmed with love, and Balabhadra led Him away from Mathurā.
+
+গঙ্গাতীর-পথে লঞা প্রয়াগে আইলা ৷  
+শ্রীরূপ প্রভুরে আসি’ তথাই মিলিলা ॥ ২৪১ ॥
+
+gaṅgā-tīra-pathe lañā prayāge āilā  
+by the road along the Gaṅgā  taking  to Prayāga  he came  
+śrī-rūpa prabhure āsi’ tathāi mililā  
+Śrī Rūpa  the Lord  coming  right there  met
+
+(241) Taking Him along the road beside the Gaṅgā, Balabhadra came to Prayāga, and there Śrī Rūpa came and met the Lord.
+
+দণ্ডবৎ করি’ রূপ ভূমিতে পড়িলা ৷  
+পরম আনন্দে প্রভু আলিঙ্গন দিলা ॥ ২৪২ ॥
+
+daṇḍavat kari’ rūpa bhūmite paḍilā  
+obeisance  making  Rūpa  on the ground  fell  
+parama ānande prabhu āliṅgana dilā  
+in supreme  joy  the Lord  an embrace  gave
+
+(242) Rūpa fell to the ground in obeisance, and the Lord embraced him in supreme joy.
+
+শ্রীরূপে শিক্ষা করাই’ পাঠা’ন বৃন্দাবন ৷  
+আপনে করিলা বারাণসী আগমন ॥ ২৪৩ ॥
+
+śrī-rūpe śikṣā karāi’ pāṭhā’na vṛndāvana  
+Śrī Rūpa  instruction  giving  sends  to Vṛndāvana  
+āpane karilā vārāṇasī āgamana  
+Himself  made  to Vārāṇasī  coming
+
+(243) Having instructed Śrī Rūpa, He sent him to Vṛndāvana, and He Himself came to Vārāṇasī.
+
+কাশীতে প্রভুকে আসি’ মিলিলা সনাতন ৷  
+দুই মাস রহি’ তাঁরে করাইল শিক্ষণ ॥ ২৪৪ ॥
+
+kāśīte prabhuke āsi’ mililā sanātana  
+in Kāśī  the Lord  coming  met  Sanātana  
+dui māsa rahi’ tām̐re karāila śikṣaṇa  
+two  months  staying  him  He gave  instruction
+
+(244) In Kāśī Sanātana came and met the Lord, who stayed two months and instructed him.
+
+মথুরা পাঠাইলা তাঁরে দিয়া ভক্তিবল ৷  
+সন্ন্যাসীরে কৃপা করি’ গেলা নীলাচল ॥ ২৪৫ ॥
+
+mathurā pāṭhāilā tām̐re diyā bhakti-bala  
+to Mathurā  He sent  him  giving  the strength of bhakti  
+sannyāsīre kṛpā kari’ gelā nīlācala  
+to the sannyāsī  mercy  showing  He went  to Nīlācala
+
+(245) He sent him to Mathurā, investing him with the strength of bhakti; then, after showing mercy to the sannyāsī, He went to Nīlācala.[^49]
+
+ছয় বৎসর প্রভু ঐছে করিলা বিলাস ৷  
+কভু ইতি-উতি গতি, কভু ক্ষেত্রবাস ॥ ২৪৬ ॥
+
+chaya vatsara prabhu aiche karilā vilāsa  
+six  years  the Lord  thus  enjoyed  pastimes  
+kabhu iti-uti gati, kabhu kṣetra-vāsa  
+sometimes  here and there  wandering  sometimes  dwelling in the Kṣetra
+
+(246) For six years the Lord enjoyed such pastimes, sometimes wandering here and there, sometimes living in the Kṣetra (Purī).
+
+আনন্দে ভক্ত-সঙ্গে সদা কীর্ত্তন-বিলাস ৷  
+জগন্নাথ-দরশন, প্রেমের বিলাস ॥ ২৪৭ ॥
+
+ānande bhakta-saṅge sadā kīrtana-vilāsa  
+in joy  with the devotees  always  pastimes of kīrtana  
+jagannātha-daraśana, premera vilāsa  
+seeing Jagannātha  of love  the pastimes
+
+(247) With the devotees He always delighted in kīrtana, beheld Jagannātha and revelled in love.
+
+মধ্যলীলার কৈলুঁ এই সূত্র-বিবরণ ৷  
+অন্ত্যলীলার সূত্র এবে শুন, ভক্তগণ ॥ ২৪৮ ॥
+
+madhya-līlāra kailum̐ ei sūtra-vivaraṇa  
+of the Madhya-līlā  I have made  this  summary in sūtras  
+antya-līlāra sūtra ebe śuna, bhakta-gaṇa  
+of the Antya-līlā  the sūtras  now  hear  O devotees
+
+(248) Thus I have given the Madhya-līlā in brief sūtras. Now, O devotees, hear the sūtras of the Antya-līlā.
+
+বৃন্দাবন হৈতে যদি নীলাচলে আইলা ৷  
+আঠার বর্ষ তাঁহা বাস, কাঁহা নাহি গেলা ॥ ২৪৯ ॥
+
+vṛndāvana haite yadi nīlācale āilā  
+Vṛndāvana  from  when  to Nīlācala  He came  
+āṭhāra varṣa tām̐hā vāsa, kām̐hā nāhi gelā  
+eighteen  years  there  dwelling  anywhere  not  went
+
+(249) After He returned from Vṛndāvana to Nīlācala, He lived there eighteen years and went nowhere else.[^50]
+
+প্রতিবর্ষ আইসেন তাঁহা গৌড়ের ভক্তগণ ৷  
+চারি মাস রহে প্রভুর সঙ্গে সম্মিলন ॥ ২৫০ ॥
+
+prativarṣa āisena tām̐hā gauḍera bhakta-gaṇa  
+every year  come  there  of Gauḍa  the devotees  
+cāri māsa rahe prabhura saṅge sammilana  
+four  months  last  with the Lord  together  the meeting
+
+(250) Every year the devotees of Gauḍa came there and stayed four months in the Lord’s company.
+
 ---
 
 [^1]: The same verse as Ādi 1.2 and 1.84; translation as there.
@@ -2129,3 +2643,29 @@ savior of the fallen  the name  then  that  fulfilled
 [^36]: *Amṛta-pravāha-bhāṣya*: mlecchas are of two kinds — by birth and by association; the brothers call themselves mlecchas by association, keeping company with those born mlecchas who are hostile to cows and brāhmaṇas.
 
 [^37]: *Anubhāṣya*: all worldly enjoyment is of the nature of filth; as one who has fallen into a pit cannot climb out by his own will, so the soul absorbed in sense objects cannot, by his own strength, get out of the pit of worldly enjoyment.
+
+[^38]: The Gauḍīya Maṭha edition reads *sadaya* (“Merciful”), with *sva-dayā* (“Your own mercy”) in brackets; the *Amṛta-pravāha-bhāṣya* follows *sadaya*: “justify Your name *sadaya*, ‘the merciful’”.
+
+[^39]: Edition heading: “(a verse by Śrī Yāmunācārya)”; in the edition the verse is printed without a number. *Anubhāṣya*: being the lowest of all, I am the fit vessel of mercy.
+
+[^40]: Edition heading: “(a verse by Śrī Yāmunācārya)”.
+
+[^41]: Edition heading: “The Lord’s merciful words to both brothers, addressed to Śrī Rūpa”.
+
+[^42]: *Anubhāṣya*: in His mercy Mahāprabhu named Dabira Khāsa “Rūpa” and Sākara Mallika “Sanātana”; for one on the path of rules the giving of a name is one of the saṁskāras, and those who disregard the name received by the grace of a Vaiṣṇava guru cannot hope for devotion to Hari.
+
+[^43]: Edition heading: “The outward conduct of a devotee on the path of rāga”, with the note “[a verse spoken by Śrī Kṛṣṇa Caitanya]”. *Anubhāṣya*: so too expert Vaiṣṇavas outwardly keep the prescribed duties of varṇāśrama, while all the art of their bhajana is service to Hari alone.
+
+[^44]: Edition heading: “Sanātana gives the Lord good counsel at parting”.
+
+[^45]: Edition heading: “Though He is the Supreme Lord Himself, in the role of ācārya He gives beginners (*kaniṣṭha-adhikārīs*) a chance to learn”.
+
+[^46]: *Amṛta-pravāha-bhāṣya*: in those days a “Kānāi’s Nāṭaśālā” was set up in many places in Gauḍa; here, near Gauḍa, the Lord saw many pictures of Kṛṣṇa’s pastimes.
+
+[^47]: Edition heading: “The Lord takes leave of all the devotees and tells them to come to Purī for the Ratha-yātrā”.
+
+[^48]: *Anubhāṣya*: the twelve forests are Kāmyavana, Tālavana, Tamālavana, Madhuvana, Kusumavana, Bhāṇḍīravana, Bilvavana, Bhadravana, Khadiravana, Lohavana, Kumudavana and Gokula-Mahāvana.
+
+[^49]: Edition heading: “The Lord sends Sanātana to the Mathurā region and delivers Prakāśānanda”.
+
+[^50]: Edition heading: “After the six years, the remaining eighteen years — living in Purī alone”.
