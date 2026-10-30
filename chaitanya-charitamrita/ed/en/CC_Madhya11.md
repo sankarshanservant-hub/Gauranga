@@ -114,7 +114,7 @@ the Lord  says  still  the king  like a deadly black snake
 kāṣṭha-nārī-sparśe yaiche upajaya vikāra  
 of a wooden woman  by the touch  as  arises  agitation
 
-(10) The Lord said, “Even so, a king is like a deadly black snake. Just as even the touch of a woman carved of wood can stir agitation in the mind,
+(10) The Lord said, “Even so, a king is like a deadly black snake. Just as even the touch of a woman carved of wood can stir agitation in the mind.
 
 আকারাদপি ভেতব্যং স্ত্রীণাং বিষয়িণামপি ৷  
 যথাহের্মনসঃ ক্ষোভস্তথা তস্যাকৃতেরপি ॥ ১১ ॥
@@ -128,7 +128,7 @@ as  of a snake  of the mind  agitation
 tathā tasyākṛter api  
 so  of its  likeness  even
 
-(11) ‘one should fear even the outward form of women and of worldly people: as the mind is agitated by a snake, so it is agitated even by its likeness.’ (Caitanya-candrodaya-nāṭaka, 8.25)
+(11) ‘One should fear even the outward form of women and of worldly people: as the mind is agitated by a snake, so it is agitated even by its likeness.’ (Caitanya-candrodaya-nāṭaka, 8.25)
 
 ঐছে বাত্ পুনরপি মুখে না আনিবে ৷  
 কহ যদি, তবে আমায় এথা না দেখিবে ॥ ১২ ॥
@@ -508,243 +508,305 @@ this  vow  making  He has made  His descent
 নির্ণীয় কিং সোঽবততার দেবঃ ॥ ৪৭ ॥
 
 adarśanīyān api nīca-jātīn  
+not fit to be seen  even  those of low birth  
 saṁvīkṣate hanta tathāpi no mām  
+He looks upon with mercy  alas  yet  not  me  
 mad-eka-varjyaṁ kṛpayiṣyatīti  
-nirṇīya kiṁ so ’vatatāra devaḥ
+leaving me alone out  He will show mercy  thus  
+nirṇīya kiṁ so ’vatatāra devaḥ  
+having decided  can it be  He  descended  the Lord
 
-(47) [not yet translated]
+(47) “He looks with mercy even upon people of low birth, whom one is not supposed even to see — yet, alas, not upon me. Can it be that the Lord descended having resolved, ‘I shall show mercy to everyone but him’?” (Caitanya-candrodaya-nāṭaka, 8.29)
 
 তাঁর প্রতিজ্ঞা — মোরে না করিবে দরশন ৷  
 মোর প্রতিজ্ঞা — তাঁহা বিনা ছাড়িব জীবন ॥ ৪৮ ॥
 
 tāṅra pratijñā — more nā karibe daraśana  
-mora pratijñā — tāṅhā vinā chāḍiba jīvana
+His  vow  me  not  He will give  sight  
+mora pratijñā — tāṅhā vinā chāḍiba jīvana  
+my  vow  without Him  I shall give up  life
 
-(48) [not yet translated]
+(48) His vow is that He will not let me see Him; my vow is that without Him I shall give up my life.
 
 যদি সেই মহাপ্রভুর না পাই কৃপা-ধন ৷  
 কিবা রাজ্য, কিবা দেহ, — সব অকারণ ॥ ৪৯ ॥
 
 yadi sei mahāprabhura nā pāi kṛpā-dhana  
-kibā rājya, kibā deha, — saba akāraṇa
+if  of that  Mahāprabhu  not  I obtain  the treasure of mercy  
+kibā rājya, kibā deha, — saba akāraṇa  
+what  the kingdom  what  the body  all  useless
 
-(49) [not yet translated]
+(49) If I do not obtain the treasure of that Mahāprabhu’s mercy, what is my kingdom, what is my body? All of it is useless.”
 
 এত শুনি’ সার্ব্বভৌম হইলা চিন্তিত ৷  
 রাজার অনুরাগ দেখি’ হইলা বিস্মিত ॥ ৫০ ॥
 
 eta śuni’ sārvabhauma hailā cintita  
-rājāra anurāga dekhi’ hailā vismita
+this  hearing  Sārvabhauma  became  thoughtful  
+rājāra anurāga dekhi’ hailā vismita  
+of the king  the deep attachment  seeing  became  astonished
 
-(50) [not yet translated]
+(50) Hearing this, Sārvabhauma grew thoughtful; seeing the king’s deep attachment, he was astonished.
 
 ভট্টাচার্য্য কহে, — দেব, না কর বিষাদ ৷  
 তোমারে প্রভুর অবশ্য হইবে প্রসাদ ॥ ৫১ ॥
 
 bhaṭṭācārya kahe, — deva, nā kara viṣāda  
-tomāre prabhura avaśya haibe prasāda
+the Bhaṭṭācārya  says  Your Majesty  not  do  lamentation  
+tomāre prabhura avaśya haibe prasāda  
+to you  of the Lord  surely  will be  grace
 
-(51) [not yet translated]
+(51) The Bhaṭṭācārya said, “Your Majesty, do not despair. You will surely receive the Lord’s grace.
 
 তেঁহ — প্রেমাধীন, তোমার প্রেম — গাঢ়তর ৷  
 অবশ্য করিবেন কৃপা তোমার উপর ॥ ৫২ ॥
 
 teṅha — premādhīna, tomāra prema — gāḍhatara  
-avaśya karibena kṛpā tomāra upara
+He  subject to love  your  love  very deep  
+avaśya karibena kṛpā tomāra upara  
+surely  He will show  mercy  you  upon
 
-(52) [not yet translated]
+(52) He is subject to love, and your love is very deep; He will surely show His mercy to you.
 
 তথাপি কহিয়ে আমি এক উপায় ৷  
 এই উপায় কর’ প্রভু দেখিবে যাহায় ॥ ৫৩ ॥
 
 tathāpi kahiye āmi eka upāya  
-ei upāya kara prabhu dekhibe yāhāya
+still  I tell  I  one  means  
+ei upāya kara prabhu dekhibe yāhāya  
+this  means  carry out  the Lord  will see you  by which
 
-(53) [not yet translated]
+(53) Still, I shall tell you one means. Do as I say, and by this the Lord will see you.
 
 রথযাত্রা-দিনে প্রভু সব ভক্ত লঞা ৷  
 রথ-আগে নৃত্য করিবেন প্রেমাবিষ্ট হঞা ॥ ৫৪ ॥
 
 ratha-yātrā-dine prabhu saba bhakta lañā  
-ratha-āge nṛtya karibena premāviṣṭa hañā
+on the day of the Ratha-yātrā  the Lord  all  the devotees  taking  
+ratha-āge nṛtya karibena premāviṣṭa hañā  
+before the chariot  dance  He will  overwhelmed with love  being
 
-(54) [not yet translated]
+(54) On the day of the Ratha-yātrā the Lord, with all His devotees, will dance before the chariot, overwhelmed with love.
 
 প্রেমাবেশে পুষ্পোদ্যানে করিবেন প্রবেশ ৷  
 সেইকালে একলে তুমি ছাড়ি’ রাজবেশ ॥ ৫৫ ॥
 
 premāveśe puṣpodyāne karibena praveśa  
-sei-kāle ekale tumi chāḍi’ rāja-veśa
+in ecstatic love  into the flower garden  He will make  entrance  
+sei-kāle ekale tumi chāḍi’ rāja-veśa  
+at that time  alone  you  giving up  the royal dress
 
-(55) [not yet translated]
+(55) In that ecstasy of love He will enter the flower garden. At that time you must lay aside your royal dress and come alone.
 
 ‘কৃষ্ণ-রাসপঞ্চাধ্যায়’ করিতে পঠন ৷  
 একলে যাই’ মহাপ্রভুর ধরিবে চরণ ॥ ৫৬ ॥
 
 ‘kṛṣṇa-rāsa-pañcādhyāya’ karite paṭhana  
-ekale yāi’ mahāprabhura dharibe caraṇa
+‘the five chapters on Kṛṣṇa’s rāsa dance’  doing  recitation  
+ekale yāi’ mahāprabhura dharibe caraṇa  
+alone  going  of Mahāprabhu  you will clasp  the feet
 
-(56) [not yet translated]
+(56) Reciting the five chapters on Kṛṣṇa’s rāsa dance, go up to Him by yourself and clasp Mahāprabhu’s feet.
 
 বাহ্যজ্ঞান নাহি, সে-কালে কৃষ্ণনাম শুনি’  
 আলিঙ্গন করিবেন তোমায় ‘বৈষ্ণব’ জানি’ ॥ ৫৭ ॥
 
 bāhya-jñāna nāhi, se-kāle kṛṣṇa-nāma śuni’  
-āliṅgana karibena tomāya ‘vaiṣṇava’ jāni’
+external awareness  is not  at that time  Kṛṣṇa’s name  hearing  
+āliṅgana karibena tomāya ‘vaiṣṇava’ jāni’  
+an embrace  He will give  you  ‘a Vaiṣṇava’  knowing
 
-(57) [not yet translated]
+(57) He will not be aware of the outer world then; hearing Kṛṣṇa’s name, He will embrace you, taking you for a Vaiṣṇava.
 
 রামানন্দ রায়, আজি তোমার প্রেম-গুণ ৷  
 প্রভু-আগে কহিতে, প্রভুর ফিরি’ গেল মন ॥ ৫৮ ॥
 
 rāmānanda rāya āji tomāra prema-guṇa  
-prabhu-āge kahite prabhura phiri’ gela mana
+Rāmānanda  Rāya  today  your  qualities of love  
+prabhu-āge kahite prabhura phiri’ gela mana  
+before the Lord  telling  the Lord’s  turned  went  mind
 
-(58) [not yet translated]
+(58) Today, when Rāmānanda Rāya spoke before the Lord of your love and qualities, the Lord’s mind changed.”
 
 শুনি’ গজপতির মনে সুখ উপজিল ৷  
 প্রভুরে মিলিতে এই মন্ত্রণা দৃঢ় কৈল ॥ ৫৯ ॥
 
 śuni’ gajapatira mane sukha upajila  
-prabhure milite ei mantraṇā dṛḍha kaila
+hearing  of the Gajapati  in the mind  happiness  arose  
+prabhure milite ei mantraṇā dṛḍha kaila  
+the Lord  to meet  this  plan  firm  he made
 
-(59) [not yet translated]
+(59) Hearing this, the Gajapati king was happy at heart, and he firmly resolved to follow this plan for meeting the Lord.
 
 স্নানযাত্রা কবে হবে পুছিল ভট্টেরে ৷  
 ভট্ট কহে, — তিন দিন আছয়ে যাত্রারে ॥ ৬০ ॥
 
 snāna-yātrā kabe habe puchila bhaṭṭere  
-bhaṭṭa kahe, — tina dina āchaye yātrāre
+the Snāna-yātrā  when  will be  he asked  the Bhaṭṭa  
+bhaṭṭa kahe, — tina dina āchaye yātrāre  
+the Bhaṭṭa  says  three  days  remain  until the festival
 
-(60) [not yet translated]
+(60) He asked the Bhaṭṭa when the Snāna-yātrā would be held, and the Bhaṭṭa said, “Three days remain until the festival.”
 
 রাজারে প্রবোধিয়া ভট্ট গেলা নিজালয় ৷  
 স্নানযাত্রা-দিনে প্রভুর আনন্দ হৃদয় ॥ ৬১ ॥
 
 rājāre prabodhiyā bhaṭṭa gelā nijālaya  
-snāna-yātrā dine prabhura ānanda hṛdaya
+the king  encouraging  the Bhaṭṭa  went  to his own home  
+snāna-yātrā dine prabhura ānanda hṛdaya  
+on the day of the Snāna-yātrā  of the Lord  joyful  the heart
 
-(61) [not yet translated]
+(61) Having encouraged the king, the Bhaṭṭa went home. On the day of the Snāna-yātrā the Lord’s heart was full of joy.
 
 স্নানযাত্রা দেখি’ প্রভুর হৈল বড় সুখ ৷  
 ঈশ্বরের ‘অনবসরে’ পাইল বড় দুঃখ ॥ ৬২ ॥
 
 snāna-yātrā dekhi’ prabhura haila baḍa sukha  
-īśvarera ‘anavasare’ pāila baḍa duḥkha
+the Snāna-yātrā  seeing  of the Lord  there was  great  happiness  
+īśvarera ‘anavasare’ pāila baḍa duḥkha  
+of the Lord  at the ‘anavasara’  He felt  great  sorrow
 
-(62) [not yet translated]
+(62) Seeing the Snāna-yātrā, the Lord was very happy; but during the Lord’s anavasara He felt great sorrow.
 
 গোপীভাবে বিরহে প্রভু ব্যাকুল হঞা ৷  
 আলালনাথে গেলা প্রভু সবারে ছাড়িয়া ॥ ৬৩ ॥
 
 gopī-bhāve virahe prabhu vyākula hañā  
-ālālanāthe gelā prabhu sabāre chāḍiyā
+in the mood of the gopīs  in separation  the Lord  distraught  becoming  
+ālālanāthe gelā prabhu sabāre chāḍiyā  
+to Ālālanātha  went  the Lord  everyone  leaving
 
-(63) [not yet translated]
+(63) Distraught with separation in the mood of the gopīs, the Lord left everyone and went to Ālālanātha.
 
 পাছে প্রভুর নিকট আইলা ভক্তগণ ৷  
 গৌড় হৈতে ভক্ত আইসে, — কৈল নিবেদন ॥ ৬৪ ॥
 
 pāche prabhura nikaṭa āilā bhakta-gaṇa  
-gauḍa haite bhakta āise, — kaila nivedana
+afterwards  of the Lord  near  came  the devotees  
+gauḍa haite bhakta āise, — kaila nivedana  
+Gauḍa  from  devotees  are coming  made  submission
 
-(64) [not yet translated]
+(64) Afterwards the devotees came to the Lord and told Him, “Devotees are coming from Gauḍa.”
 
 সার্ব্বভৌম নীলাচলে আইলা প্রভু লঞা ৷  
 প্রভু আইলা, — রাজা-ঠাঞি কহিলেন গিয়া ॥ ৬৫ ॥
 
 sārvabhauma nīlācale āilā prabhu lañā  
-prabhu āilā, — rājā-ṭhāñi kahilena giyā
+Sārvabhauma  to Nīlācala  came  the Lord  bringing  
+prabhu āilā, — rājā-ṭhāñi kahilena giyā  
+the Lord  has come  to the king  he told  going
 
-(65) [not yet translated]
+(65) Sārvabhauma brought the Lord back to Nīlācala, and then went and told the king, “The Lord has come.”
 
 হেনকালে আইলা তথা গোপীনাথাচার্য্য ৷  
 রাজাকে আশীর্ব্বাদ করি’ কহে, — শুন ভট্টাচার্য্য ॥ ৬৬ ॥
 
 hena-kāle āilā tathā gopīnāthācārya  
-rājāke āśīrvāda kari’ kahe, — śuna bhaṭṭācārya
+at that time  came  there  Gopīnātha Ācārya  
+rājāke āśīrvāda kari’ kahe, — śuna bhaṭṭācārya  
+to the king  blessing  giving  says  listen  Bhaṭṭācārya
 
-(66) [not yet translated]
+(66) At that time Gopīnātha Ācārya came there. Blessing the king, he said, “Listen, Bhaṭṭācārya.
 
 গৌড় হৈতে বৈষ্ণব আসিতেছেন দুইশত ৷  
 মহাপ্রভুর ভক্ত, সব — মহাভাগবত ॥ ৬৭ ॥
 
 gauḍa haite vaiṣṇava āsitechena dui-śata  
-mahāprabhura bhakta, saba — mahā-bhāgavata
+Gauḍa  from  Vaiṣṇavas  are coming  two hundred  
+mahāprabhura bhakta, saba — mahā-bhāgavata  
+of Mahāprabhu  devotees  all  great devotees
 
-(67) [not yet translated]
+(67) Two hundred Vaiṣṇavas are coming from Gauḍa — devotees of Mahāprabhu, every one of them a mahā-bhāgavata.
 
 নরেন্দ্রে আসিয়া সবে হৈল বিদ্যমান ৷  
 তাঁ-সবারে চাহি বাসা প্রসাদ-সমাধান ॥ ৬৮ ॥
 
 narendre āsiyā sabe haila vidyamāna  
-tāṅ-sabāre cāhi vāsā prasāda-samādhāna
+to the Narendra  having come  all  have become  present  
+tāṅ-sabāre cāhi vāsā prasāda-samādhāna  
+for all of them  is needed  lodging  of prasāda  provision
 
-(68) [not yet translated]
+(68) They have all arrived at the Narendra lake. Lodging must be found for all of them, and prasāda provided.”
 
 রাজা কহে, — পড়িছাকে আমি আজ্ঞা দিব ৷  
 বাসা আদি যে চাহিয়ে, — পড়িছা সব দিব ॥ ৬৯ ॥
 
 rājā kahe, — paḍichāke āmi ājñā diba  
-vāsā ādi ye cāhiye, — paḍichā saba diba
+the king  says  to the paḍichā  I  the order  will give  
+vāsā ādi ye cāhiye, — paḍichā saba diba  
+lodging  and so on  whatever  is needed  the paḍichā  all  will give
 
-(69) [not yet translated]
+(69) The king said, “I shall give the order to the paḍichā; the paḍichā will provide lodging and whatever else is needed.
 
 মহাপ্রভুর গণ যত আইল গৌড় হৈতে ৷  
 ভট্টাচার্য্য, একে একে দেখাহ আমাতে ॥ ৭০ ॥
 
 mahāprabhura gaṇa yata āila gauḍa haite  
-bhaṭṭācārya, eke eke dekhāha āmāte
+of Mahāprabhu  associates  as many as  have come  Gauḍa  from  
+bhaṭṭācārya, eke eke dekhāha āmāte  
+Bhaṭṭācārya  one by one  show  to me
 
-(70) [not yet translated]
+(70) Bhaṭṭācārya, show me one by one all of Mahāprabhu’s associates who have come from Gauḍa.”
 
 ভট্ট কহে, — অট্টালিকায় কর আরোহণ ৷  
 গোপীনাথ চিনে সবারে, করাবে দরশন ॥ ৭১ ॥
 
 bhaṭṭa kahe, — aṭṭālikāya kara ārohaṇa  
-gopīnātha cine sabāre, karā’be daraśana
+the Bhaṭṭa  says  onto the palace roof  make  the ascent  
+gopīnātha cine sabāre, karā’be daraśana  
+Gopīnātha  knows  everyone  will make you  see
 
-(71) [not yet translated]
+(71) The Bhaṭṭa said, “Go up onto the roof of the palace. Gopīnātha knows them all; he will point them out to you.
 
 আমি কাহারে নাহি চিনি, চিনিতে মন হয় ৷  
 গোপীনাথাচার্য্য সবারে করা’বে পরিচয় ॥ ৭২ ॥
 
 āmi kāhāre nāhi cini, cinite mana haya  
-gopīnāthācārya sabāre karā’be paricaya
+I  anyone  not  know  to know  the wish  is  
+gopīnāthācārya sabāre karā’be paricaya  
+Gopīnātha Ācārya  all  will introduce
 
-(72) [not yet translated]
+(72) I do not know any of them, though I would like to. Gopīnātha Ācārya will introduce them all.”
 
 এত বলি’ তিন জন অট্টালিকায় চড়িল ৷  
 হেনকালে বৈষ্ণব সব নিকটে আইল ॥ ৭৩ ॥
 
 eta bali’ tina-jana aṭṭālikāya caḍila  
-hena-kāle vaiṣṇava saba nikaṭe āila
+this  saying  three  persons  onto the palace roof  climbed  
+hena-kāle vaiṣṇava saba nikaṭe āila  
+at that time  the Vaiṣṇavas  all  near  came
 
-(73) [not yet translated]
+(73) Saying this, the three of them climbed onto the roof of the palace, and at that moment the Vaiṣṇavas drew near.
 
 দামোদর-স্বরূপ, গোবিন্দ, — দুই জন ৷  
 মালা প্রসাদ লঞা যায়, যাঁহা বৈষ্ণবগণ ॥ ৭৪ ॥
 
 dāmodara-svarūpa, govinda, — dui-jana  
-mālā prasāda lañā yāya, yāṅhā vaiṣṇava-gaṇa
+Dāmodara-svarūpa  Govinda  the two  persons  
+mālā prasāda lañā yāya, yāṅhā vaiṣṇava-gaṇa  
+garlands  prasāda  taking  go  where  the Vaiṣṇavas
 
-(74) [not yet translated]
+(74) Svarūpa Dāmodara and Govinda went with garlands and prasāda to where the Vaiṣṇavas were.
 
 প্রথমেতে মহাপ্রভু পাঠাইলা দুঁহারে ৷  
 রাজা কহে, এই দুই কোন্, চিনাহ আমারে ॥ ৭৫ ॥
 
 prathamete mahāprabhu pāṭhāilā duṅhāre  
-rājā kahe, — ei dui kon, cināha āmāre
+first  Mahāprabhu  sent  the two  
+rājā kahe, — ei dui kon, cināha āmāre  
+the king  says  these  two  who  make known  to me
 
-(75) [not yet translated]
+(75) Mahāprabhu had sent these two ahead. The king said, “Who are these two? Tell me.”
 
 ভট্টাচার্য্য কহে, — এই স্বরূপ-দামোদর ৷  
 মহাপ্রভুর হয় ইঁহ দ্বিতীয় কলেবর ॥ ৭৬ ॥
 
 bhaṭṭācārya kahe, — ei svarūpa-dāmodara  
-mahāprabhura haya iṅha dvitīya kalevara
+the Bhaṭṭācārya  says  this  Svarūpa Dāmodara  
+mahāprabhura haya iṅha dvitīya kalevara  
+of Mahāprabhu  is  he  second  body
 
-(76) [not yet translated]
+(76) The Bhaṭṭācārya said, “This is Svarūpa Dāmodara. He is Mahāprabhu’s second body.
 
 দ্বিতীয়, গোবিন্দ — ভৃত্য, ইঁহা দোঁহা দিয়া ৷  
 মালা পাঠাঞাছেন প্রভু গৌরব করিয়া ॥ ৭৭ ॥
@@ -1418,57 +1480,71 @@ the best  vessel  this  of mercy
 বাহিরেতে পড়ি’ আছে দণ্ডবৎ হঞা ॥ ১৫২ ॥
 
 prathame murāri-gupta prabhure nā dekhiyā  
-bāhirete paḍi’ āche daṇḍavat hañā
+at first  Murāri Gupta  the Lord  not  seeing  
+bāhirete paḍi’ āche daṇḍavat hañā  
+outside  fallen  remains  prostrate  being
 
-(152) [not yet translated]
+(152) At first Murāri Gupta did not come to see the Lord; he lay outside, fallen prostrate.
 
 মুরারি না দেখিয়া প্রভু করে অন্বেষণ ৷  
 মুরারি লইতে ধাঞা আইলা বহুজন ॥ ১৫৩ ॥
 
 murāri nā dekhiyā prabhu kare anveṣaṇa  
-murāri laite dhāñā āilā bahu-jana
+Murāri  not  seeing  the Lord  makes  a search  
+murāri laite dhāñā āilā bahu-jana  
+Murāri  to bring  running  went  many people
 
-(153) [not yet translated]
+(153) Not seeing Murāri, the Lord searched for him, and many people ran to fetch him.
 
 তৃণ দুইগুচ্ছ মুরারি দশনে ধরিয়া ৷  
 মহাপ্রভুর আগে গেলা দৈন্যাধীন হঞা ॥ ১৫৪ ॥
 
 tṛṇa dui-guccha murāri daśane dhariyā  
-mahāprabhura āge gelā dainyādhīna hañā
+of grass  two bunches  Murāri  in his teeth  holding  
+mahāprabhura āge gelā dainyādhīna hañā  
+before Mahāprabhu  went  overcome by humility  being
 
-(154) [not yet translated]
+(154) Holding two bunches of grass between his teeth, Murāri came before Mahāprabhu, overcome with humility.
 
 মুরারি দেখিয়া প্রভু আইলা মিলিতে ৷  
 পাছে ভাগে মুরারি, লাগিলা কহিতে ॥ ১৫৫ ॥
 
 murāri dekhiyā prabhu āilā milite  
-pāche bhāge murāri, lāgilā kahite
+Murāri  seeing  the Lord  came  to meet (him)  
+pāche bhāge murāri, lāgilā kahite  
+backwards  draws back  Murāri  began  to say
 
-(155) [not yet translated]
+(155) Seeing Murāri, the Lord came forward to meet him, but Murāri drew back and began to say,
 
 মোরে না ছুঁইহ, প্রভু, মুঞি ত’ পামর ৷  
 তোমার স্পর্শযোগ্য নহে এই কলেবর ॥ ১৫৬ ॥
 
 more nā chuiha, prabhu, muñi ta’ pāmara  
-tomāra sparśa-yogya nahe ei kalevara
+me  do not  touch  O Lord  I  indeed  a wretch  
+tomāra sparśa-yogya nahe ei kalevara  
+Your  fit to be touched  is not  this  body
 
-(156) [not yet translated]
+(156) “Do not touch me, O Lord — I am a wretch. This body is not fit for You to touch.”
 
 প্রভু কহে, — মুরারি, কর দৈন্য সম্বরণ ৷  
 তোমার দৈন্য দেখি’ মোর বিদীর্ণ হয় মন ॥ ১৫৭ ॥
 
 prabhu kahe, — murāri, kara dainya samvaraṇa  
-tomāra dainya dekhi’ mora vidīrṇa haya mana
+the Lord  says  Murāri  make  of humility  restraint  
+tomāra dainya dekhi’ mora vidīrṇa haya mana  
+your  humility  seeing  My  torn  becomes  heart
 
-(157) [not yet translated]
+(157) The Lord said, “Murāri, restrain your humility. Seeing your humility, My heart is torn apart.”
 
 এত বলি’ প্রভু তাঁরে কৈল আলিঙ্গন ৷  
 নিকটে বসাঞা করে অঙ্গ সম্মার্জ্জন ॥ ১৫৮ ॥
 
 eta bali’ prabhu tāṅre kaila āliṅgana  
-nikaṭe vasāñā kare aṅga sammārjana
+so  saying  the Lord  him  gave  embrace  
+nikaṭe vasāñā kare aṅga sammārjana  
+beside (Him)  seating  does  of his body  cleansing
 
-(158) [not yet translated]
+(158) So saying, the Lord embraced him, seated him beside Himself and wiped his body clean with His own hands.
 
 আচার্য্যরত্ন, বিদ্যানিধি, পণ্ডিত গদাধর ৷  
 গঙ্গাদাস, হরিভট্ট, আচার্য্য পুরন্দর ॥ ১৫৯ ॥
@@ -1477,195 +1553,245 @@ nikaṭe vasāñā kare aṅga sammārjana
 পুনঃ পুনঃ আলিঙ্গিয়া করিল সম্মান ॥ ১৬০ ॥
 
 ācāryaratna, vidyānidhi, paṇḍita gadādhara  
+Ācāryaratna  Vidyānidhi  Paṇḍita  Gadādhara  
 gaṅgādāsa, hari-bhaṭṭa, ācārya purandara  
+Gaṅgādāsa  Hari Bhaṭṭa  Ācārya  Purandara  
 pratyeke sabāra prabhu kari’ guṇa gāna  
-punaḥ punaḥ āliṅgiyā karila sammāna
+of each one  of all  the Lord  making  of the virtues  praise  
+punaḥ punaḥ āliṅgiyā karila sammāna  
+again and again  embracing  showed  honour
 
-(159–160) [not yet translated]
+(159–160) Ācāryaratna, Vidyānidhi, Gadādhara Paṇḍita, Gaṅgādāsa, Hari Bhaṭṭa and Ācārya Purandara — the Lord sang the virtues of each of them, embraced them again and again, and so honoured them.
 
 সবারে সম্মানি’ প্রভুর হইল উল্লাস ৷  
 হরিদাসে না দেখিয়া কহে, — কাঁহা হরিদাস ॥ ১৬১ ॥
 
 sabāre sammāni’ prabhura haila ullāsa  
-haridāse nā dekhiyā kahe, — kāṅhā haridāsa
+all  having honoured  the Lord’s  arose  joy  
+haridāse nā dekhiyā kahe, — kāṅhā haridāsa  
+Haridāsa  not  seeing  He says  where  is Haridāsa
 
-(161) [not yet translated]
+(161) Having honoured them all, the Lord was overjoyed. But not seeing Haridāsa, He asked, “Where is Haridāsa?”
 
 দূর হৈতে হরিদাস গোসাঞে না দেখিয়া ৷  
 রাজপথ-প্রান্তে পড়ি’ আছে দণ্ডবৎ হঞা ॥ ১৬২ ॥
 
 dūra haite haridāsa gosāñe nā dekhiyā  
-rājapatha-prānte paḍi’ āche daṇḍavat hañā
+from afar  Haridāsa  the Lord  not  seeing  
+rājapatha-prānte paḍi’ āche daṇḍavat hañā  
+at the edge of the main road  fallen  remains  prostrate  being
 
-(162) [not yet translated]
+(162) Haridāsa, keeping far away and not looking upon the Lord, lay prostrate at the edge of the main road.
 
 মিলন-স্থানে আসি’ প্রভুরে না মিলিলা ৷  
 রাজপথ-প্রান্তে দূরে পড়িয়া রহিলা ॥ ১৬৩ ॥
 
 milana-sthāne āsi’ prabhure nā mililā  
-rājapatha-prānte dūre paḍiyā rahilā
+to the place of meeting  coming  the Lord  not  he met  
+rājapatha-prānte dūre paḍiyā rahilā  
+at the edge of the main road  far off  lying  he remained
 
-(163) [not yet translated]
+(163) He had come to the place of meeting but did not go to meet the Lord; he remained lying far off at the edge of the main road.
 
 ভক্ত সব ধাঞা আইল হরিদাসে নিতে ৷  
 প্রভু তোমায় মিলিতে চাহে, চলহ ত্বরিতে ॥ ১৬৪ ॥
 
 bhakta saba dhāñā āila haridāse nite  
-prabhu tomāya milite cāhe, calaha tvarite
+the devotees  all  running  came  Haridāsa  to bring  
+prabhu tomāya milite cāhe, calaha tvarite  
+the Lord  you  to meet  wants  come  quickly
 
-(164) [not yet translated]
+(164) All the devotees ran to bring Haridāsa: “The Lord wants to meet you. Come quickly!”
 
 হরিদাস কহে, — আমি নীচ-জাতি ছার ৷  
 মন্দির-নিকটে যাইতে মোর নাহি অধিকার ॥ ১৬৫ ॥
 
 haridāsa kahe, — āmi nīca-jāti chāra  
-mandira-nikaṭe yāite mora nāhi adhikāra
+Haridāsa  says  I  of low birth  worthless  
+mandira-nikaṭe yāite mora nāhi adhikāra  
+the temple  near  to go  my  there is no  right
 
-(165) [not yet translated]
+(165) Haridāsa said, “I am of low birth, worthless. I have no right to go near the temple.
 
 নিভৃতে টোটা-মধ্যে স্থান যদি পাঙ ৷  
 তাঁহা পড়ি’ রহো’ একলে কাল গোঙাঙ ॥ ১৬৬ ॥
 
 nibhṛte ṭoṭā-madhye sthāna yadi pāṅa  
-tāṅhā paḍi’ raho’ ekale kāla goṅāṅa
+in seclusion  within the garden  a place  if  I get  
+tāṅhā paḍi’ raho’ ekale kāla goṅāṅa  
+there  lying  I will stay  alone  time  I will pass
 
-(166) [not yet translated]
+(166) If I can get a secluded place within the garden, I will stay there, lying alone, and pass my days.
 
 জগন্নাথ-সেবকের মোর স্পর্শ নাহি হয় ৷  
 তাঁহা পড়ি’ রহো, — মোর এই বাঞ্ছা হয় ॥ ১৬৭ ॥
 
 jagannātha-sevakera mora sparśa nāhi haya  
-tāṅhā paḍi’ raho, — mora ei vāñchā haya
+of Jagannātha’s servants  with me  contact  not  will be  
+tāṅhā paḍi’ raho, — mora ei vāñchā haya  
+there  lying  I will stay  my  this  desire  is
 
-(167) [not yet translated]
+(167) There the servants of Jagannātha will not come into contact with me. To stay there — that is my desire.”
 
 এই কথা লোক গিয়া প্রভুরে কহিল ৷  
 শুনিয়া প্রভুর মনে বড় সুখ হৈল ॥ ১৬৮ ॥
 
 ei kathā loka giyā prabhure kahila  
-śuniyā prabhura mane baḍa sukha haila
+these  words  people  going  to the Lord  told  
+śuniyā prabhura mane baḍa sukha haila  
+hearing  in the Lord’s  heart  great  joy  arose
 
-(168) [not yet translated]
+(168) People went and told the Lord what he had said, and hearing it the Lord was very happy at heart.
 
 হেনকালে কাশীমিশ্র, পড়িছা, — দুই জন ৷  
 আসিয়া করিল প্রভুর চরণ বন্দন ॥ ১৬৯ ॥
 
 hena-kāle kāśī-miśra, paḍichā, — dui jana  
-āsiyā karila prabhura caraṇa vandana
+at that time  Kāśī Miśra  the paḍichā  two  persons  
+āsiyā karila prabhura caraṇa vandana  
+coming  made  the Lord’s  feet  worship
 
-(169) [not yet translated]
+(169) At that time the two, Kāśī Miśra and the *paḍichā*, the temple superintendent, came and bowed at the Lord’s feet.
 
 সর্ব্ব বৈষ্ণব দেখি’ সুখ বড় পাইলা ৷  
 যথাযোগ্য সবা-সনে আনন্দে মিলিলা ॥ ১৭০ ॥
 
 sarva vaiṣṇava dekhi’ sukha baḍa pāilā  
-yathā-yogya sabā-sane ānande mililā
+all  the Vaiṣṇavas  seeing  joy  great  they felt  
+yathā-yogya sabā-sane ānande mililā  
+as befitting  with all  joyfully  they met
 
-(170) [not yet translated]
+(170) Seeing all the Vaiṣṇavas, they were very happy, and they greeted everyone joyfully, as befitted each.
 
 প্রভুপদে দুই জনে কৈল নিবেদনে ৷  
 আজ্ঞা দেহ’, — বৈষ্ণবের করি সমাধানে ॥ ১৭১ ॥
 
 prabhu-pade dui jane kaila nivedane  
-ājñā deha’, — vaiṣṇavera kari samādhāne
+at the Lord’s feet  the two  made  a request  
+ājñā deha’, — vaiṣṇavera kari samādhāne  
+permission  give  of the Vaiṣṇavas  let us make  arrangements
 
-(171) [not yet translated]
+(171) At the Lord’s feet the two of them made their request: “Give us leave to look after the Vaiṣṇavas.
 
 সবার করিয়াছি বাসা-গৃহ স্থান ৷  
 মহাপ্রসাদ সবাকারে করি সমাধান ॥ ১৭২ ॥
 
 sabāra kariyāchi vāsā-gṛha sthāna  
-mahā-prasāda sabākāre kari samādhāna
+for all  we have made  lodging-houses’  places  
+mahā-prasāda sabākāre kari samādhāna  
+mahā-prasāda  for everyone  we will  arrange
 
-(172) [not yet translated]
+(172) We have arranged lodgings for everyone, and we will provide *mahā-prasāda* for all.”
 
 প্রভু কহে, — গোপীনাথ, যাহ’ বৈষ্ণব লঞা ৷  
 যাঁহা যাঁহা কহে বাসা, তাঁহা দেহ’ লঞা ॥ ১৭৩ ॥
 
 prabhu kahe, — gopīnātha, yāha’ vaiṣṇava lañā  
-yāṅhā yāṅhā kahe vāsā, tāṅhā deha’ lañā
+the Lord  says  Gopīnātha  go  the Vaiṣṇavas  taking  
+yāṅhā yāṅhā kahe vāsā, tāṅhā deha’ lañā  
+wherever  wherever  they tell  lodgings  there  give (them)  taking
 
-(173) [not yet translated]
+(173) The Lord said, “Gopīnātha, go with the Vaiṣṇavas, and wherever they point out the lodgings, take them there and settle them in.
 
 মহাপ্রসাদান্ন দেহ বাণীনাথ স্থানে ৷  
 সর্ব্ব বৈষ্ণব ইঁহো করিবে সমাধানে ॥ ১৭৪ ॥
 
 mahā-prasādānna deha vāṇīnātha sthāne  
-sarva vaiṣṇava iṅho karibe samādhāne
+the mahā-prasāda  give  of Vāṇīnātha  to the place  
+sarva vaiṣṇava iṅho karibe samādhāne  
+all  Vaiṣṇavas  he  will  provide for
 
-(174) [not yet translated]
+(174) Give the *mahā-prasāda* to Vāṇīnātha; he will provide for all the Vaiṣṇavas.
 
 আমার নিকটে এই পুষ্পের উদ্যানে ৷  
 একখানি ঘর আছে পরম-নির্জ্জনে ॥ ১৭৫ ॥
 
 āmāra nikaṭe ei puṣpera udyāne  
-eka-khāni ghara āche parama-nirjane
+of Mine  near  in this  of flowers  garden  
+eka-khāni ghara āche parama-nirjane  
+one single  room  there is  utterly secluded
 
-(175) [not yet translated]
+(175) Near Me, in this flower garden, there is a single room in a very secluded spot.
 
 সেই ঘর আমাকে দেহ’, — আছে প্রয়োজন ৷  
 নিভৃতে বসিয়া তাঁহা করিব স্মরণ ॥ ১৭৬ ॥
 
 sei ghara āmāke deha’, — āche prayojana  
-nibhṛte vasiyā tāṅhā kariba smaraṇa
+that  room  to Me  give  there is  a need  
+nibhṛte vasiyā tāṅhā kariba smaraṇa  
+in seclusion  sitting  there  I shall make  remembrance
 
-(176) [not yet translated]
+(176) Give that room to Me — I have need of it. Sitting there in seclusion, I shall absorb Myself in remembrance.”
 
 মিশ্র কহে, — সব তোমার, চাহ কি কারণে ?  
 আপন-ইচ্ছায় লহ, যেই তোমার মনে ॥ ১৭৭ ॥
 
 miśra kahe, — saba tomāra, cāha ki kāraṇe?  
-āpana-icchāya laha, yei tomāra mane
+Miśra  says  all  is Yours  You ask  for what  reason  
+āpana-icchāya laha, yei tomāra mane  
+by Your own will  take  whatever  is in Your  mind
 
-(177) [not yet translated]
+(177) Miśra said, “All is Yours — why do You ask? Take whatever You wish, as You please.
 
 আমি-দুই হই তোমার দাস আজ্ঞাকারী ৷  
 যে চাহ, সেই আজ্ঞা দেহ’ কৃপা করি’ ॥ ১৭৮ ॥
 
 āmi-dui hai tomāra dāsa ājñākārī  
-ye cāha, sei ājñā deha’ kṛpā kari’
+we two  are  Your  servants  doing Your bidding  
+ye cāha, sei ājñā deha’ kṛpā kari’  
+what  You wish  that  command  give  mercy  showing
 
-(178) [not yet translated]
+(178) We two are Your servants, ready to do Your bidding. Be merciful and command whatever You wish.”
 
 এত কহি’ দুই জনে বিদায় হইল ৷  
 গোপীনাথ, বাণীনাথ, দুঁহে সঙ্গে নিল ॥ ১৭৯ ॥
 
 eta kahi’ dui jane vidāya haila  
-gopīnātha, vāṇīnātha, duṅhe saṅge nila
+so  saying  the two  took leave  
+gopīnātha, vāṇīnātha, duṅhe saṅge nila  
+Gopīnātha  Vāṇīnātha  both  with them  they took
 
-(179) [not yet translated]
+(179) So saying, the two took their leave, taking Gopīnātha and Vāṇīnātha with them.
 
 গোপীনাথে দেখাইল সব বাসা-ঘর ৷  
 বাণীনাথ-ঠাঞি দিল প্রসাদ বিস্তর ॥ ১৮০ ॥
 
 gopīnāthe dekhāila saba vāsā-ghara  
-vāṇīnātha-ṭhāñi dila prasāda vistara
+to Gopīnātha  they showed  all  the lodging-houses  
+vāṇīnātha-ṭhāñi dila prasāda vistara  
+to Vāṇīnātha  they gave  prasāda  in abundance
 
-(180) [not yet translated]
+(180) They showed Gopīnātha all the lodgings and gave Vāṇīnātha *prasāda* in abundance.
 
 বাণীনাথ আইলা বহু প্রসাদ পিঠা লঞা ৷  
 গোপীনাথ আইলা বাসা সংস্কার করিয়া ॥ ১৮১ ॥
 
 vāṇīnātha āilā bahu prasāda piṭhā lañā  
-gopīnātha āilā vāsā saṁskāra kariyā
+Vāṇīnātha  came  much  prasāda  cakes  bringing  
+gopīnātha āilā vāsā saṁskāra kariyā  
+Gopīnātha  came  the lodgings  readying  having done
 
-(181) [not yet translated]
+(181) Vāṇīnātha returned with a great quantity of *prasāda* and cakes, and Gopīnātha returned after making the lodgings ready.
 
 মহাপ্রভু কহে, — শুন, সর্ব্ব বৈষ্ণবগণ ৷  
 নিজ-নিজ-বাসা সবে করহ গমন ॥ ১৮২ ॥
 
 mahāprabhu kahe, — śuna, sarva vaiṣṇava-gaṇa  
-nija-nija-vāsā sabe karaha gamana
+Mahāprabhu  says  hear  all  Vaiṣṇavas  
+nija-nija-vāsā sabe karaha gamana  
+to your own lodgings  all  go
 
-(182) [not yet translated]
+(182) Mahāprabhu said, “Listen, all you Vaiṣṇavas: go now, each of you, to your own lodgings.
 
 সমুদ্রস্নান করি’ কর চূড়া দরশন ৷  
 তবে আজি ইঁহ আসি’ করিবে ভোজন ॥ ১৮৩ ॥
 
 samudra-snāna kari’ kara cūḍā daraśana  
-tabe āji iṅha āsi’ karibe bhojana
+bath in the sea  having taken  make  of the temple top  darśana  
+tabe āji iṅha āsi’ karibe bhojana  
+then  today  here  coming  you will  eat
 
-(183) [not yet translated]
+(183) Bathe in the sea and take *darśana* of the temple’s pinnacle; then come back here today to eat.”
 
 প্রভু নমস্করি’ সবে বাসাতে চলিলা ৷  
 গোপীনাথাচার্য্য সবে বাসা-স্থান দিলা ॥ ১৮৪ ॥
