@@ -34,7 +34,7 @@ Rāmānanda said, “Prabhu, I saw in the king such love-pain for You that not e
 
 ## 28
 
-O Pārtha, those who are devotees of Me alone are not truly My devotees; but those who are devotees of My devotees I know to be My “best devotees.”[^28-1]
+O Pārtha, those who are devotees of Me alone are not truly My devotees; but those who are devotees of My devotees I know to be My “best devotees.”
 
 ## 29–30
 
@@ -164,4 +164,3 @@ When Śrī Kṛṣṇa held a picnic on the riverbank (*pulina-bhojana*) in Vraj
 
 ---
 
-[^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”

@@ -30,7 +30,7 @@
 
 > Subheading: For one who seeks to rise to *prema*, to look on objects of enjoyment as an enjoyer is strictly forbidden — (the Lord's words to Sārvabhauma in the *Caitanya-candrodaya*, Act 8, verse 24) —
 
-**hā hanta hanta** (an exclamation of extreme grief) **bhava-sāgarasya** (of the ocean of *saṁsāra*) **paraṁ pāraṁ** (to the far shore: to Paravyoma, the abode of the Lord beyond Devī-dhāma) **jigamiṣoḥ** (of one who wishes to go) **niṣkiñcanasya** (free of worldly attachments) **bhagavad-bhajanonmukhasya** (devoted to Kṛṣṇa's service) **viṣayiṇām** (of those given to enjoying things other than Kṛṣṇa) **atha yoṣitāṁ** (and of the objects of enjoyment) **sandarśanaṁ** (looking at them as objects of enjoyment, and so on)[^8-1] **viṣa-bhakṣaṇataḥ** (than consuming poison that destroys oneself) **api** **asādhu** (is more harmful).
+**hā hanta hanta** (an exclamation of extreme grief) **bhava-sāgarasya** (of the ocean of *saṁsāra*) **paraṁ pāraṁ** (to the far shore: to Paravyoma, the abode of the Lord beyond Devī-dhāma) **jigamiṣoḥ** (of one who wishes to go) **niṣkiñcanasya** (free of worldly attachments) **bhagavad-bhajanonmukhasya** (devoted to Kṛṣṇa's service) **viṣayiṇām** (of those given to enjoying things other than Kṛṣṇa) **atha yoṣitāṁ** (and of the objects of enjoyment) **sandarśanaṁ** (looking at them as objects of enjoyment, and so on) **viṣa-bhakṣaṇataḥ** (than consuming poison that destroys oneself) **api** **asādhu** (is more harmful).
 
 ## 9
 
@@ -823,8 +823,6 @@ At that time the pure *sampradāya* had the custom of calling out Hari's name wh
 *Thus ends the eleventh chapter of the “Anubhāṣya.”*
 
 ---
-
-[^8-1]: The verse translation reads differently: “to seek the attention of worldly people or women”; here (and in the *Amṛta-pravāha-bhāṣya*) *sandarśanam* means “seeing,” “looking [at them] as objects of enjoyment.”
 
 [^28-1]: So in the edition: the section ends with the further word “উদ্ধব” (“Uddhava”), although the verse addresses Pārtha; apparently a typesetting error (the next section speaks of Uddhava).
 
