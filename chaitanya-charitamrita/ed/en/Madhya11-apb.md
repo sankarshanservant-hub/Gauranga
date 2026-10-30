@@ -128,6 +128,14 @@ Kindly order whatever You wish: we two are Your servants, who carry out Your ord
 
 ***Cūḍā*** — the spire of the Jagannātha temple.
 
+## 192
+
+O Lord, those on whose lips is Your name are the best, even if they are *śva-pacas*, dog-eaters. Those who chant Your name have already performed every kind of austerity and every sacrifice, bathed in all the holy places and studied all the Vedas with their auxiliaries; therefore they are counted among the Āryans.
+
+## 199
+
+***In proper order*** — seating each where he ought to sit, one after another.
+
 ---
 
 [^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”

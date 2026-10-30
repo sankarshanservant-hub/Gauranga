@@ -642,6 +642,64 @@ This place is now known as the Siddha-bakula Maṭha.
 
 > Subheading: Remembering each other's qualities, both devotee and Lord are overwhelmed with love —
 
+## 188
+
+> Subheading: Ṭhākura Haridāsa considers himself untouchable —
+
+## 189
+
+> Subheading: The Lord, Brahmaṇya-deva Himself, proclaims Haridāsa's nobility (his being an Āryan) —
+
+## 190
+
+> Subheading: At every moment a devotee of Kṛṣṇa bathes in all the holy places and performs all austerities, sacrifices, charity and the like —
+
+## 191
+
+> Subheading: Only the devotee of Kṛṣṇa has truly studied the Vedas and Vedānta with their auxiliaries, and he is the guru of all *brāhmaṇas* and *sannyāsīs* —
+
+## 192
+
+> Subheading: (*Śrīmad-Bhāgavatam* 3.33.7) —
+
+Devahūti offers prayers to the Lord, Kapila, and in this connection glorifies the greatness of His devotee, who possesses every virtue:
+
+**yat** (on whose) **jihvāgre** (tip of the tongue) **tubhyam** (Your) **nāma** **vartate**, **ataḥ** (therefore — because he bears the name of a *brāhmaṇa* by initiation) **saḥ** **śva-pacaḥ** (born in a low family, an *antyaja* or the like by birth) **api** **garīyān** (is the best), **aho bata** (how wonderful!). **ye** **te** (Your) **nāma** **gṛṇanti** (utter), **te** **tapaḥ** **tepuḥ** (have performed austerity — that is, they surpass the ascetics), **juhuvuḥ** (have performed *homa*), **sasnuḥ** (have bathed in all the holy places), **āryāḥ** (of righteous conduct) **brahma** (the Vedas with their auxiliaries) **anūcuḥ** (have studied). For the facts of this and an explanation of the previous verse, see the *Śrī Gauḍīya-bhāṣya*.
+
+## 193
+
+> Subheading: The Lord gives Ṭhākura Haridāsa a place at “Siddha-bakula” —
+
+## 194
+
+> Subheading: The Lord Himself promises to come and meet His devotee —
+
+## 195
+
+> Subheading: The Lord tells him to bow to the Sudarśana-cakra atop the temple —
+
+Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura considered himself unfit to enter the temple and see Śrī Jagannātha. Knowing this, Śrī Mahāprabhu arranged for him to bow from afar to the Sudarśana-cakra at the top of the temple spire, and said, “*Mahā-prasāda* will be brought for you here, at Siddha-bakula.”
+
+## 196
+
+> Subheading: Nityānanda and the others rejoice to see Haridāsa —
+
+## 197
+
+> Subheading: After the Lord bathes in the sea, Advaita and the others bathe there —
+
+## 198
+
+> Subheading: Having seen the temple spire, everyone honors *prasāda* —
+
+## 199
+
+> Subheading: Everyone sits down, and the Lord begins to serve —
+
+## 200
+
+> Subheading: The Lord serves with His own hand —
+
 ---
 
 [^8-1]: The verse translation reads differently: “to seek the attention of worldly people or women”; here (and in the *Amṛta-pravāha-bhāṣya*) *sandarśanam* means “seeing,” “looking [at them] as objects of enjoyment.”
