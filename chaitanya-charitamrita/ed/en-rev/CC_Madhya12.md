@@ -138,7 +138,7 @@ the letter  seeing  of all  in the mind  arose  wonder
 prabhu-pade gajapatira eta bhakti haya!  
 to the Lord’s feet  of the Gajapati  so much  devotion  there is
 
-(13) Seeing the letter, everyone was amazed: “What devotion the Gajapati has for the Lord’s feet!”
+(13) When they read the letter, everyone was amazed: “What devotion the Gajapati has for the Lord’s feet!”
 
 সবে কহে, — প্রভু তাঁরে কভু না মিলিবে ৷  
 আমি-সব কহি যদি, দুঃখ সে মানিবে ॥ ১৪ ॥
@@ -408,7 +408,7 @@ then  the king  gladly  to him  permission  gave
 āpani milana lāgi’ kahite lāgilā  
 himself  meeting  for the sake of  to speak  began
 
-(40) The king gladly gave him leave, and himself began to speak of his wish to meet the Lord:
+(40) The king gladly gave him leave, and then began to plead for a meeting with the Lord for himself:
 
 মহাপ্রভু মহাকৃপা করেন তোমারে ৷  
 মোরে মিলিবারে অবশ্য সাধিবে তাঁহারে ॥ ৪১ ॥
