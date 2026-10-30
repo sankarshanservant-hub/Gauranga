@@ -1120,6 +1120,1113 @@ water  they fill  the room  they wash  they make  the sound of Hari’s name
 
 (111) They filled pots, washed the rooms and called out the name of Hari. Apart from the sounds “Kṛṣṇa!” and “Hari!”, nothing else could be heard.
 
+‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ করে ঘটের প্রার্থন ৷  
+‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ করে ঘট সমর্পণ ॥ ১১২ ॥
+
+‘kṛṣṇa’ ‘kṛṣṇa’ kahi’ kare ghaṭera prārthana  
+“Kṛṣṇa”  “Kṛṣṇa”  saying  they make  for a pot  a request  
+‘kṛṣṇa’ ‘kṛṣṇa’ kahi’ kare ghaṭa samarpaṇa  
+“Kṛṣṇa”  “Kṛṣṇa”  saying  they make  of a pot  the handing over
+
+(112) Saying “Kṛṣṇa! Kṛṣṇa!” some asked for a water pot, and saying “Kṛṣṇa! Kṛṣṇa!” others handed one over.
+
+যেই যেই কহে, সেই কহে কৃষ্ণনামে ৷  
+কৃষ্ণনাম হইল সঙ্কেত সব-কামে ॥ ১১৩ ॥
+
+yei yei kahe, sei kahe kṛṣṇa-nāme  
+whoever  whoever  speaks  he  speaks  by Kṛṣṇa’s name  
+kṛṣṇa-nāma haila saṅketa saba-kāme  
+Kṛṣṇa’s name  became  the signal  in all tasks
+
+(113) Whatever anyone had to say, he said it with the name of Kṛṣṇa: Kṛṣṇa’s name became the signal for every task.
+
+প্রেমাবেশে প্রভু কহে ‘কৃষ্ণ’ ‘কৃষ্ণ’-নাম ৷  
+একলে প্রেমাবেশে করে শতজনের কাম ॥ ১১৪ ॥
+
+premāveśe prabhu kahe ‘kṛṣṇa’ ‘kṛṣṇa’-nāma  
+absorbed in love  the Lord  says  “Kṛṣṇa”  “Kṛṣṇa”  the name  
+ekale premāveśe kare śata-janera kāma  
+alone  absorbed in love  He does  of a hundred people  the work
+
+(114) Absorbed in love, the Lord chanted the name “Kṛṣṇa, Kṛṣṇa,” and in that absorption He alone did the work of a hundred men.
+
+শত-হস্তে করেন যেন ক্ষালন-মার্জ্জন ৷  
+প্রতিজন-পাশে যাই’ করান শিক্ষণ ॥ ১১৫ ॥
+
+śata-haste karena yena kṣālana-mārjana  
+with a hundred hands  He does  as if  washing and cleaning  
+pratijana-pāśe yāi’ karāna śikṣaṇa  
+to each person’s side  going  He gives  instruction
+
+(115) It was as if He were washing and cleaning with a hundred hands. Going up to each person, He showed him how to do the work.
+
+ভাল কর্ম্ম দেখি’ তারে করে প্রশংসন ৷  
+মনে না মিলিলে করে পবিত্র ভর্ৎসন ॥ ১১৬ ॥
+
+bhāla karma dekhi’ tāre kare praśaṁsana  
+good  work  seeing  him  He gives  praise  
+mane nā milile kare pavitra bhartsana  
+with His mind  not  agreeing  He gives  a pure  rebuke
+
+(116) When He saw good work, He praised the worker; when something did not please Him, He rebuked him, and even His rebuke was pure and purifying.[^28]
+
+তুমি ভাল করিয়াছ, শিখাহ অন্যেরে ৷  
+এইমত ভাল কর্ম্ম সেই যেন করে ॥ ১১৭ ॥
+
+tumi bhāla kariyācha, śikhāha anyere  
+you  well  have done  teach  others  
+ei-mata bhāla karma sei yena kare  
+in this way  good  work  they  so that  do
+
+(117) “You have done well. Now teach the others, so that they too do such good work.”[^29]
+
+এ-কথা শুনিয়া সবে সঙ্কুচিত হঞা ৷  
+ভাল-মতে কর্ম্ম করে সবে মন দিয়া ॥ ১১৮ ॥
+
+e-kathā śuniyā sabe saṅkucita hañā  
+these words  hearing  all  abashed  becoming  
+bhāla-mate karma kare sabe mana diyā  
+properly  the work  do  all  the mind  giving
+
+(118) Hearing these words, everyone felt abashed, and all of them set about the work properly, with full attention.
+
+তবে প্রক্ষালন কৈল শ্রীজগমোহন ৷  
+ভোগমন্দির আদি তবে কৈল প্রক্ষালন ॥ ১১৯ ॥
+
+tabe prakṣālana kaila śrī jagamohana  
+then  washing  they made  of Śrī Jagamohana  
+bhoga-mandira-ādi tabe kaila prakṣālana  
+the bhoga-mandira  and the rest  then  they made  washing
+
+(119) Then they washed the Śrī Jagamohana, and after that the *bhoga-mandira* and the other halls.
+
+নাটশালা ধুই’ ধুইল চত্বর-প্রাঙ্গণ ৷  
+পাকশালা-আদি করি’ করিল প্রক্ষালন ॥ ১২০ ॥
+
+nāṭaśālā dhui’ dhuila catvara-prāṅgaṇa  
+the Nāṭaśālā  washing  they washed  the courtyard and the yard  
+pākaśālā-ādi kari’ karila prakṣālana  
+the kitchen  and the rest  including  they made  washing
+
+(120) After washing the Nāṭaśālā, they washed the courtyards, and then the kitchen and all the other rooms.
+
+মন্দিরের চতুর্দ্দিক্ প্রক্ষালন কৈল ৷  
+সব অন্তঃপুর ভাল মতে ধোয়াইল ॥ ১২১ ॥
+
+mandirera catur-dik prakṣālana kaila  
+of the temple  on four sides  washing  they did  
+saba antaḥpura bhāla-mate dhoyāila  
+all  the inner rooms  thoroughly  they washed
+
+(121) They washed the temple on all four sides and thoroughly washed all the inner rooms.
+
+হেনকালে গৌড়ীয়া এক সুবুদ্ধি সরল ৷  
+প্রভুর চরণ-যুগে দিল ঘট-জল ॥ ১২২ ॥
+
+hena-kāle gauḍīyā eka subuddhi sarala  
+at that time  a Gauḍīyā  one  sensible  simple  
+prabhura caraṇa-yuge dila ghaṭa-jala  
+on the Lord’s  pair of feet  poured  water from a pot
+
+(122) At that moment a simple and sensible Gauḍīyā (devotee from Bengal) poured water from his pot over the Lord’s feet.[^30]
+
+সেই জল লঞা আপনে পান কৈল ৷  
+তাহা দেখি’ মহাপ্রভুর মনে রোষ হৈল ॥ ১২৩ ॥
+
+sei jala lañā āpane pāna kaila  
+that  water  taking  himself  drinking  did  
+tāhā dekhi’ mahāprabhura mane roṣa haila  
+that  seeing  in Mahāprabhu’s  mind  anger  arose
+
+(123) Then he took that water and drank it himself. Seeing this, Mahāprabhu became angry.
+
+যদ্যপি গোসাঞি তারে হঞাছে সন্তোষ ৷  
+ধর্ম্মসংস্থাপন লাগি’ বাহিরে মহারোষ ॥ ১২৪ ॥
+
+yadyapi gosāñi tāre hañāche santoṣa  
+although  the Lord  with him  had become  pleased  
+dharma-saṁsthāpana lāgi’ bāhire mahā-roṣa  
+of dharma  the upholding  for the sake of  outwardly  great anger
+
+(124) Although the Lord was pleased with him, to uphold proper conduct (*dharma*) He showed great anger outwardly.[^31]
+
+শিক্ষা লাগি’ স্বরূপে ডাকি’ কহিল তাঁহারে ৷  
+এই দেখ তোমার ‘গৌড়ীয়া’র ব্যবহারে ॥ ১২৫ ॥
+
+śikṣā lāgi’ svarūpe ḍāki’ kahila tām̐hāre  
+of teaching  for the sake  Svarūpa  calling  He said  to him  
+ei dekha tomāra ‘gauḍīyā’ra vyavahāre  
+just  see  of your  “Gauḍīyā”  the behaviour
+
+(125) To teach a lesson, He called Svarūpa and said to him, “Just look at how your ‘Gauḍīyā’ behaves![^32]
+
+ঈশ্বরমন্দিরে মোর পদ ধোয়াইল ৷  
+সেই জল আপনি লঞা পান কৈল ॥ ১২৬ ॥
+
+īśvara-mandire mora pada dhoyāila  
+in the Lord’s temple  My  feet  he washed  
+sei jala āpani lañā pāna kaila  
+that  water  himself  taking  drinking  did
+
+(126) He washed My feet in the temple of the Lord, and then took that water and drank it himself.[^33]
+
+এই অপরাধে মোর কাঁহা হবে গতি ৷  
+তোমার ‘গৌড়ীয়া’ করে এতেক দুর্গতি ! ॥ ১২৭ ॥
+
+ei aparādhe mora kām̐hā habe gati  
+for this  offence  My  where  will be  end  
+tomāra ‘gauḍīyā’ kare eteka durgati!  
+your  “Gauḍīyā”  makes  such  misfortune
+
+(127) What will become of Me for this offence? Your ‘Gauḍīyā’ has brought such misfortune upon Me!”
+
+তবে স্বরূপ গোসাঞি তার ঘাড়ে হাত দিয়া ৷  
+ঢেকা মারি’ পুরীর বাহির রাখিলেন লঞা ॥ ১২৮ ॥
+
+tabe svarūpa-gosāñi tāra ghāḍe hāta diyā  
+then  Svarūpa Gosāñi  his  on the neck  hand  placing  
+ḍhekā māri’ purīra bāhira rākhilena lañā  
+a shove  giving  of the temple  outside  he put  taking (him)
+
+(128) Then Svarūpa Gosāñi took him by the neck, gave him a shove, and put him outside the temple compound.
+
+পুনঃ আসি’ প্রভু-পায় করিল বিনয় ৷  
+‘অজ্ঞে অপরাধ’ ক্ষমা করিতে যুয়ায় ॥ ১২৯ ॥
+
+punaḥ āsi’ prabhu-pāya karila vinaya  
+again  coming  at the Lord’s feet  he made  a humble plea  
+‘ajñe aparādha’ kṣamā karite yuyāya  
+“of an ignorant man  the offence”  forgiveness  to make  is fitting
+
+(129) Coming back, he humbly pleaded at the Lord’s feet: “It is fitting to forgive the offence of an ignorant man.”
+
+তবে মহাপ্রভুর মনে সন্তোষ হইল ৷  
+সারি করি’ দুই পাশে সবারে বসাইল ॥ ১৩০ ॥
+
+tabe mahāprabhura mane santoṣa haila  
+then  in Mahāprabhu’s  mind  satisfaction  arose  
+sāri kari’ dui pāśe sabāre vasāila  
+rows  making  on two  sides  everyone  He seated
+
+(130) Then Mahāprabhu was satisfied, and He seated everyone in rows on two sides.
+
+আপনে বসিয়া মাঝে, আপনার হাতে ৷  
+তৃণ, কাঁকর, কুটা লাগিলা কুড়াইতে ॥ ১৩১ ॥
+
+āpane vasiyā mājhe, āpanāra hāte  
+Himself  sitting  in the middle  with His own  hand  
+tṛṇa, kām̐kara, kuṭā lāgilā kuḍāite  
+straw  grit  rubbish  He began  to pick up
+
+(131) Sitting between them, He began to pick up straw, grit and rubbish with His own hand.
+
+কে কত কুড়ায়, সব একত্র করিব ৷  
+যার অল্প, তার ঠাঞি পিঠা-পানা লইব ॥ ১৩২ ॥
+
+ke kata kuḍāya, saba ekatra kariba  
+who  how much  picks up  all  together  I shall gather  
+yāra alpa, tāra ṭhāñi piṭhā-pānā laiba  
+whose  little  from him  cakes and sweet drinks  I shall take
+
+(132) “I shall gather together all that is collected and see who has picked up how much. Whoever has the least will have to pay Me in cakes and sweet drinks.”[^34]
+
+এইমত সব পুরী করিল শোধন ৷  
+শীতল, নির্ম্মল কৈল, — যেন নিজ-মন ॥ ১৩৩ ॥
+
+ei mata saba purī karila śodhana  
+in this way  the whole  temple  He made  cleansing  
+śītala, nirmala kaila, — yena nija-mana  
+cool  spotless  He made (it)  like  His own mind
+
+(133) In this way He cleansed the whole temple and made it cool and spotless, like His own heart.[^35]
+
+প্রণালিকা ছাড়ি’ যদি পানি বহাইল ৷  
+নূতন নদী যেন সমুদ্রে মিলিল ॥ ১৩৪ ॥
+
+praṇālikā chāḍi’ yadi pāni vahāila  
+the drain  letting out by  when  the water  they made flow  
+nūtana nadī yena samudre milila  
+a new  river  as if  with the sea  met
+
+(134) When the water was let out through the drain, it looked like a new river rushing to meet the sea.
+
+এইমত পুরদ্বার-আগে পথ যত ৷  
+সকল শোধিল, তাহা কে বর্ণিবে কত ॥ ১৩৫ ॥
+
+ei-mata puradvāra-āge patha yata  
+in this way  before the temple gate  roads  as many as  
+sakala śodhila, tāhā ke varṇibe kata  
+all  they cleansed  that  who  will describe  how much
+
+(135) In the same way they cleansed all the roads in front of the temple gate. Who could describe how much was done?[^36]
+
+নৃসিংহমন্দির-ভিতর-বাহির শোধিল ৷  
+ক্ষণেক বিশ্রাম করি’ নৃত্য আরম্ভিল ॥ ১৩৬ ॥
+
+nṛsiṁha-mandira-bhitara-bāhira śodhila  
+the Nṛsiṁha temple  inside and outside  He cleansed  
+kṣaṇeka viśrāma kari’ nṛtya ārambhila  
+a moment  rest  taking  dance  He began
+
+(136) He cleansed the temple of Nṛsiṁha inside and out, and after resting for a moment He began to dance.[^37]
+
+চারিদিকে ভক্তগণ করেন কীর্ত্তন ৷  
+মধ্যে নৃত্য করেন প্রভু মত্তসিংহ-সম ॥ ১৩৭ ॥
+
+cāri-dike bhakta-gaṇa karena kīrtana  
+on all sides  the devotees  do  kīrtana  
+madhye nṛtya karena prabhu matta-siṁha-sama  
+in the middle  dancing  does  the Lord  like a maddened lion
+
+(137) On all sides the devotees sang kīrtana, and in the middle the Lord danced like a maddened lion.
+
+স্বেদ, কম্প, বৈবর্ণ্যাশ্রু, পুলক, হুঙ্কার ৷  
+নিজ-অঙ্গ ধুই’ আগে চলে অশ্রুধার ॥ ১৩৮ ॥
+
+sveda, kampa, vaivarṇyāśru, pulaka, huṅkāra  
+perspiration  trembling  pallor and tears  horripilation  roaring  
+nija-aṅga dhui’ āge cale aśru-dhāra  
+His own body  washing  ahead  flow  streams of tears
+
+(138) Perspiration, trembling, pallor and tears appeared in Him; His hair stood on end, and He roared aloud. Streams of tears washed His body and flowed on ahead of Him.
+
+চারিদিকে ভক্ত-অঙ্গ কৈল প্রক্ষালন ৷  
+শ্রাবণের মেঘ যেন করে বরিষণ ॥ ১৩৯ ॥
+
+cāri-dike bhakta-aṅga kaila prakṣālana  
+on all sides  the devotees’ bodies  made  washing  
+śrāvaṇera megha yena kare variṣaṇa  
+of Śrāvaṇa  a cloud  as if  makes  raining
+
+(139) On every side they washed the devotees’ bodies, like a cloud pouring rain in the month of Śrāvaṇa.
+
+মহা-উচ্চসংকীর্ত্তনে আকাশ ভরিল ৷  
+প্রভুর উদ্দণ্ড-নৃত্যে ভূমিকম্প হৈল ॥ ১৪০ ॥
+
+mahā-ucca-saṅkīrtane ākāśa bharila  
+by the very loud saṅkīrtana  the sky  filled  
+prabhura uddaṇḍa-nṛtye bhūmi-kampa haila  
+by the Lord’s  leaping dance  an earthquake  occurred
+
+(140) The sky was filled with the very loud saṅkīrtana, and the earth quaked under the Lord’s high-leaping dance.
+
+স্বরূপের উচ্চ-গান প্রভুরে সদা ভায় ৷  
+আনন্দে উদ্দণ্ড নৃত্য করে গৌররায় ॥ ১৪১ ॥
+
+svarūpera ucca-gāna prabhure sadā bhāya  
+Svarūpa’s  loud singing  to the Lord  always  is pleasing  
+ānande uddaṇḍa nṛtya kare gaurarāya  
+in bliss  leaping  dance  does  Gaurarāya
+
+(141) Svarūpa’s loud singing always delighted the Lord, and Gaurarāya danced in bliss, leaping high.
+
+এইমত কতক্ষণ নৃত্য যে করিয়া ৷  
+বিশ্রাম করিলা প্রভু সময় জানিয়া ॥ ১৪২ ॥
+
+ei-mata kata-kṣaṇa nṛtya ye kariyā  
+in this way  for some time  dance  indeed  having done  
+viśrāma karilā prabhu samaya jāniyā  
+rest  took  the Lord  the time  knowing
+
+(142) After dancing like this for some time, the Lord, aware of the hour, stopped to rest.
+
+আচার্য্য-গোসাঞির পুত্র শ্রীগোপাল-নাম ৷  
+নৃত্য করিতে তাঁরে আজ্ঞা দিল গৌরধাম ॥ ১৪৩ ॥
+
+ācārya-gosāñira putra śrī-gopāla-nāma  
+of Ācārya Gosāñi  the son  Śrī Gopāla  by name  
+nṛtya karite tām̐re ājñā dila gauradhāma  
+dance  to do  to him  the order  gave  Gauradhāma
+
+(143) Ācārya Gosāñi had a son named Śrī Gopāla, and the Lord, Gauradhāma, ordered him to dance.
+
+প্রেমাবেশে নৃত্য করি’ হইলা মূর্চ্ছিতে ৷  
+অচেতন-হঞা তেঁহ পড়িলা ভূমিতে ॥ ১৪৪ ॥
+
+premāveśe nṛtya kari’ hailā mūrcchite  
+absorbed in love  dance  having done  he became  faint  
+acetana hañā tem̐ha paḍilā bhūmite  
+unconscious  becoming  he  fell  to the ground
+
+(144) Dancing in the absorption of love, he fainted and fell unconscious to the ground.
+
+আস্তে-ব্যস্তে আচার্য্য তাঁরে কৈল কোলে ৷  
+শ্বাস-রহিত দেখি’ আচার্য্য হৈলা বিকলে ॥ ১৪৫ ॥
+
+āste-vyaste ācārya tām̐re kaila kole  
+in haste  the Ācārya  him  took  on his lap  
+śvāsa-rahita dekhi’ ācārya hailā vikale  
+breathless  seeing  the Ācārya  became  distraught
+
+(145) The Ācārya hastily took him on his lap, and seeing that he was not breathing, he became distraught.
+
+নৃসিংহের মন্ত্র পড়ি’ মারে জল-ছাঁটি ৷  
+হুঙ্কারের শব্দে ব্রহ্মাণ্ড যায় ফাটি’ ॥ ১৪৬ ॥
+
+nṛsiṁhera mantra paḍi’ māre jala-chām̐ṭi  
+Nṛsiṁha’s  mantra  reciting  he casts  sprinkles of water  
+huṅkārera śabde brahmāṇḍa yāya phāṭi’  
+of the roar  by the sound  the universe  goes  bursting
+
+(146) Reciting the mantra of Nṛsiṁha, he sprinkled him with water, and at the sound of his roar the universe seemed to burst apart.[^38]
+
+অনেক করিল, তবু না হয় চেতন ৷  
+আচার্য্য কান্দেন, কান্দে সব ভক্তগণ ॥ ১৪৭ ॥
+
+aneka karila, tabu nā haya cetana  
+much  he did  still  not  comes  consciousness  
+ācārya kāndena, kānde saba bhakta-gaṇa  
+the Ācārya  weeps  weep  all  the devotees
+
+(147) He tried many things, yet the boy did not regain consciousness. The Ācārya wept, and all the devotees wept with him.
+
+তবে মহাপ্রভু তাঁর বুকে হস্ত দিল ৷  
+‘উঠহ গোপাল’ বলি’ উচ্চৈঃস্বরে কহিল ॥ ১৪৮ ॥
+
+tabe mahāprabhu tām̐ra buke hasta dila  
+then  Mahāprabhu  his  on the chest  hand  placed  
+‘uṭhaha gopāla’ bali’ uccaiḥsvare kahila  
+“Rise up  Gopāla”  saying  in a loud voice  He spoke
+
+(148) Then Mahāprabhu placed His hand on the boy’s chest and called out loudly, “Rise up, Gopāla!”
+
+শুনিতেই গোপালের হইল চেতন ৷  
+‘হরি’ বলি’ নৃত্য করে সর্ব্বভক্তগণ ॥ ১৪৯ ॥
+
+śunitei gopālera haila cetana  
+on just hearing  Gopāla’s  came  consciousness  
+‘hari’ bali’ nṛtya kare sarva-bhakta-gaṇa  
+“Hari”  saying  dance  do  all the devotees
+
+(149) As soon as he heard this, Gopāla regained consciousness, and all the devotees danced, calling out “Hari!”
+
+এই লীলা বর্ণিয়াছেন দাস-বৃন্দাবন ৷  
+অতএব সংক্ষেপে করি’ করিলুঁ বর্ণন ॥ ১৫০ ॥
+
+ei līlā varṇiyāchena dāsa-vṛndāvana  
+this  pastime  has described  Vṛndāvana dāsa  
+ataeva saṅkṣepe kari’ karilum̐ varṇana  
+therefore  brief  making (it)  I have made  the description
+
+(150) Vṛndāvana dāsa has described this pastime, and so I have told it only briefly.[^39]
+
+তবে মহাপ্রভু ক্ষণেক বিশ্রাম করিয়া ৷  
+স্নান করিবারে গেলা ভক্তগণ লঞা ॥ ১৫১ ॥
+
+tabe mahāprabhu kṣaṇeka viśrāma kariyā  
+then  Mahāprabhu  a little while  rest  having taken  
+snāna karibāre gelā bhakta-gaṇa lañā  
+bathing  to do  went  the devotees  taking
+
+(151) Then, after resting a little, Mahāprabhu went with the devotees to bathe.
+
+তীরে উঠি’ পরেন প্রভু শুষ্ক বসন ৷  
+নৃসিংহ-দেবে নমস্করি’ গেলা উপবন ॥ ১৫২ ॥
+
+tīre uṭhi’ parena prabhu śuṣka vasana  
+on the bank  climbing up  puts on  the Lord  dry  cloth  
+nṛsiṁha-deve namaskari’ gelā upavana  
+to Nṛsiṁhadeva  bowing down  He went  to the garden
+
+(152) Coming up onto the bank, the Lord put on dry cloth, bowed down to Nṛsiṁhadeva, and went into the garden.
+
+উদ্যানে বসিলা প্রভু ভক্তগণ লঞা ৷  
+তবে বাণীনাথ আইলা মহাপ্রসাদ লঞা ॥ ১৫৩ ॥
+
+udyāne vasilā prabhu bhakta-gaṇa lañā  
+in the garden  sat  the Lord  the devotees  with  
+tabe vāṇīnātha āilā mahā-prasāda lañā  
+then  Vāṇīnātha  came  mahā-prasāda  bringing
+
+(153) The Lord sat down in the garden with the devotees, and then Vāṇīnātha arrived with *mahā-prasāda*.
+
+কাশীমিশ্র, তুলসী-পড়িছা — দুইজন ৷  
+পঞ্চশত লোকে যত করয়ে ভোজন ॥ ১৫৪ ॥
+
+kāśī-miśra, tulasī-paḍichā — dui-jana  
+Kāśī Miśra  Tulasī the temple superintendent  the two  
+pañca-śata loke yata karaye bhojana  
+five hundred  people  as much as  would eat
+
+(154) Kāśī Miśra and Tulasī, the temple superintendent (*paḍichā*), had sent as much food as five hundred people could eat:
+
+তত অন্ন-পিঠা-পানা, সব পাঠাইল ৷  
+দেখি’ মহাপ্রভুর মনে সন্তোষ হইল ॥ ১৫৫ ॥
+
+tata anna-piṭhā-pānā, saba pāṭhāila  
+that much  rice, cakes and sweet drinks  all  they sent  
+dekhi’ mahāprabhura mane santoṣa haila  
+seeing  in Mahāprabhu’s  mind  satisfaction  arose
+
+(155) all that rice, all those cakes and sweet drinks. Seeing it, Mahāprabhu was very pleased.
+
+পুরী-গোসাঞি, মহাপ্রভু, ভারতী ব্রহ্মানন্দ ৷  
+অদ্বৈত-আচার্য্য, আর প্রভু নিত্যানন্দ ॥ ১৫৬ ॥
+
+purī-gosāñi, mahāprabhu, bhāratī brahmānanda  
+Purī Gosāñi  Mahāprabhu  Bhāratī  Brahmānanda  
+advaita-ācārya, āra prabhu-nityānanda  
+Advaita Ācārya  and  Prabhu Nityānanda
+
+(156) Purī Gosāñi, Mahāprabhu, Brahmānanda Bhāratī, Advaita Ācārya and Nityānanda Prabhu;
+
+আচার্য্যরত্ন, আচার্য্যনিধি, শ্রীবাস, গদাধর ৷  
+শঙ্কর, নন্দনাচার্য্য, আর রাঘব, বক্রেশ্বর ॥ ১৫৭ ॥
+
+ācāryaratna, ācāryanidhi, śrīvāsa, gadādhara  
+Ācāryaratna  Ācāryanidhi  Śrīvāsa  Gadādhara  
+śaṅkara, nandanācārya, āra rāghava, vakreśvara  
+Śaṅkara  Nandanācārya  and  Rāghava  Vakreśvara
+
+(157) Ācāryaratna, Ācāryanidhi, Śrīvāsa, Gadādhara, Śaṅkara, Nandanācārya, Rāghava and Vakreśvara —
+
+প্রভু-আজ্ঞা পাঞা বৈসে আপনে সার্ব্বভৌম ৷  
+পিণ্ডার উপরে প্রভু বৈসে লঞা ভক্তগণ ॥ ১৫৮ ॥
+
+prabhu-ājñā pāñā vaise āpane sārvabhauma  
+the Lord’s order  receiving  sits  himself  Sārvabhauma  
+piṇḍāra upare prabhu vaise lañā bhakta-gaṇa  
+the wooden seat  upon  the Lord  sits  with  the devotees
+
+(158) at the Lord’s bidding Sārvabhauma, too, sat down; and the Lord sat on a raised wooden seat (*piṇḍā*) together with these devotees.
+
+তার তলে, তার তলে করি’ অনুক্রম ৷  
+উদ্যান ভরি’ বৈসে ভক্ত করিতে ভোজন ॥ ১৫৯ ॥
+
+tāra tale, tāra tale kari’ anukrama  
+below that  below that  making  in order  
+udyāna bhari’ vaise bhakta karite bhojana  
+the garden  filling  sit  the devotees  to do  eating
+
+(159) Below them, row after row, the devotees sat down to eat, filling the whole garden.
+
+‘হরিদাস’ বলি’ প্রভু ডাকে ঘনে ঘন ৷  
+দূরে রহি’ হরিদাস করে নিবেদন ॥ ১৬০ ॥
+
+‘haridāsa’ bali’ prabhu ḍāke ghane ghana  
+“Haridāsa”  saying  the Lord  calls  again and again  
+dūre rahi’ haridāsa kare nivedana  
+at a distance  remaining  Haridāsa  makes  a humble submission
+
+(160) The Lord called again and again, “Haridāsa!” But Haridāsa stayed at a distance and humbly submitted:
+
+ভক্ত-সঙ্গে প্রভু করুন প্রসাদ অঙ্গীকার ৷  
+এ-সঙ্গে বসিতে যোগ্য নহি মুঞি ছার ॥ ১৬১ ॥
+
+bhakta-saṅge prabhu karuna prasāda aṅgīkāra  
+with the devotees  the Lord  may He make  of prasāda  acceptance  
+e-saṅge vasite yogya nahi muñi chāra  
+in this company  to sit  fit  am not  I  worthless
+
+(161) “Let the Lord take *prasāda* with the devotees. Worthless as I am, I am not fit to sit in this company.
+
+পাছে মোরে প্রসাদ গোবিন্দ দিবে বহির্দ্বারে ৷  
+মন জানি’ প্রভু পুনঃ না বলিল তাঁরে ॥ ১৬২ ॥
+
+pāche more prasāda govinda dibe bahirdvāre  
+later  to me  prasāda  Govinda  will give  outside the gate  
+mana jāni’ prabhu punaḥ nā balila tām̐re  
+the mind  knowing  the Lord  again  not  called  to him
+
+(162) Later Govinda will give me *prasāda* outside the gate.” Knowing his mind, the Lord did not call him again.
+
+স্বরূপ-গোসাঞি, জগদানন্দ, দামোদর ৷  
+কাশীশ্বর, গোপীনাথ, বাণীনাথ, শঙ্কর ॥ ১৬৩ ॥
+
+পরিবেশন করে তাঁহা এই সাতজন ৷  
+মধ্যে মধ্যে হরিধ্বনি করে ভক্তগণ ॥ ১৬৪ ॥
+
+svarūpa-gosāñi, jagadānanda, dāmodara  
+Svarūpa Gosāñi  Jagadānanda  Dāmodara  
+kāśīśvara, gopīnātha, vāṇīnātha, śaṅkara  
+Kāśīśvara  Gopīnātha  Vāṇīnātha  Śaṅkara  
+pariveśana kare tām̐hā ei sāta-jana  
+serving  do  there  these  seven people  
+madhye madhye hari-dhvani kare bhakta-gaṇa  
+from time to time  the sound of “Hari”  make  the devotees
+
+(163–164) Svarūpa Gosāñi, Jagadānanda, Dāmodara, Kāśīśvara, Gopīnātha, Vāṇīnātha and Śaṅkara — these seven served the food there, while from time to time the devotees called out “Hari!”
+
+পুলিন-ভোজন কৃষ্ণ পূর্ব্বে যৈছে কৈল ৷  
+সেই লীলা মহাপ্রভুর মনে স্মৃতি হৈল ॥ ১৬৫ ॥
+
+pulina-bhojana kṛṣṇa pūrve yaiche kaila  
+the meal on the riverbank  Kṛṣṇa  formerly  as  made  
+sei līlā mahāprabhura mane smṛti haila  
+that  pastime  in Mahāprabhu’s  mind  remembrance  arose
+
+(165) Mahāprabhu remembered the pastime of long ago when Kṛṣṇa ate with His friends on the riverbank (*pulina-bhojana*).
+
+যদ্যপি প্রেমাবেশে প্রভু হইলা অস্থির ৷  
+সময় বুঝিয়া প্রভু হৈলা কিছু ধীর ॥ ১৬৬ ॥
+
+yadyapi premāveśe prabhu hailā asthira  
+although  in the absorption of love  the Lord  became  unsteady  
+samaya bujhiyā prabhu hailā kichu dhīra  
+the occasion  understanding  the Lord  became  somewhat  composed
+
+(166) Though the absorption of love shook the Lord, He understood the occasion and composed Himself somewhat.
+
+প্রভু কহে, — মোরে দেহ’ লাফ্রা-ব্যঞ্জনে ৷  
+পিঠা-পানা, অমৃত-গুটিকা দেহ’ ভক্তগণে ॥ ১৬৭ ॥
+
+prabhu kahe, — more deha’ lāphrā-vyañjane  
+the Lord  says  to Me  give  lāphrā vegetables  
+piṭhā-pānā, amṛta-guṭikā deha’ bhakta-gaṇe  
+cakes and sweet drinks  amṛta-guṭikā  give  to the devotees
+
+(167) The Lord said, “Give Me the *lāphrā*, the plain mixed vegetables, and give the devotees the cakes, sweet drinks and *amṛta-guṭikā*.”
+
+সর্ব্বজ্ঞ প্রভু জানেন, যাঁরে যেই ভায় ৷  
+তাঁরে তাঁরে সেই দেওয়ায় স্বরূপ-দ্বারায় ॥ ১৬৮ ॥
+
+sarvajña prabhu jānena, yām̐re yei bhāya  
+all-knowing  the Lord  knows  whom  what  pleases  
+tām̐re tām̐re sei deoyāya svarūpa-dvārāya  
+to each one  that  He has given  through Svarūpa
+
+(168) The all-knowing Lord knew what each person liked, and through Svarūpa He had each one served just that.
+
+জগদানন্দ বেড়ায় পরিবেশন করিতে ৷  
+প্রভুর পাতে ভাল-দ্রব্য দেন আচম্বিতে ॥ ১৬৯ ॥
+
+jagadānanda beḍāya pariveśana karite  
+Jagadānanda  goes about  serving  to do  
+prabhura pāte bhāla-dravya dena ācambite  
+on the Lord’s  plate  choice things  he puts  unexpectedly
+
+(169) Jagadānanda went about serving, and now and then he would unexpectedly put some choice item on the Lord’s plate.
+
+যদ্যপি দিলে প্রভু তাঁরে করেন রোষ ৷  
+বলে-ছলে তবু দেন, দিলে সে সন্তোষ ॥ ১৭০ ॥
+
+yadyapi dile prabhu tām̐re karena roṣa  
+although  when given  the Lord  at him  shows  anger  
+bale-chale tabu dena, dile se santoṣa  
+by force or by trick  still  he gives  having given  he  is satisfied
+
+(170) Though the Lord grew angry with him for it, Jagadānanda still gave Him such things, by force or by trick, and only when he had given them was he satisfied.
+
+পুনরপি সেই দ্রব্য করে নিরীক্ষণ ৷  
+তাঁর ভয়ে প্রভু কিছু করেন ভক্ষণ ॥ ১৭১ ॥
+
+punarapi sei dravya kare nirīkṣaṇa  
+once more  that  food  he makes  watching  
+tām̐ra bhaye prabhu kichu karena bhakṣaṇa  
+of him  out of fear  the Lord  a little  does  eating
+
+(171) Then he would keep his eye on that food, and out of fear of him the Lord would eat a little.
+
+না খাইলে জগদানন্দ করিবে উপবাস ৷  
+তাঁর আগে কিছু খা’ন — মনে ঐ ত্রাস ॥ ১৭২ ॥
+
+nā khāile jagadānanda karibe upavāsa  
+not  if He eats  Jagadānanda  will make  a fast  
+tām̐ra āge kichu khā’na — mane ai trāsa  
+of him  in front  a little  He eats  in the mind  this  fear
+
+(172) If He did not eat, Jagadānanda would fast. With this fear in His mind, the Lord would eat a little in front of him.
+
+স্বরূপ-গোসাঞি ভাল মিষ্টপ্রসাদ লঞা ৷  
+প্রভুকে নিবেদন করে আগে দাণ্ডাঞা ॥ ১৭৩ ॥
+
+svarūpa-gosāñi bhāla miṣṭa-prasāda lañā  
+Svarūpa Gosāñi  choice  sweet prasāda  taking  
+prabhuke nivedana kare āge dāṇḍāñā  
+to the Lord  offering  makes  in front  standing
+
+(173) Svarūpa Gosāñi would take some choice sweet *prasāda*, stand before the Lord and offer it to Him:
+
+এই মহাপ্রসাদ অল্প করহ আস্বাদন ৷  
+দেখ, জগন্নাথ কৈছে কর্য্যাছেন ভোজন ॥ ১৭৪ ॥
+
+ei mahā-prasāda alpa karaha āsvādana  
+this  mahā-prasāda  a little  make  tasting  
+dekha, jagannātha kaiche karyāchena bhojana  
+look  Jagannātha  how  has made  eating
+
+(174) “Taste a little of this *mahā-prasāda*. See how Jagannātha has eaten of it!”
+
+এত বলি’ আগে কিছু করে সমর্পণ ৷  
+তাঁর স্নেহে প্রভু কিছু করেন ভোজন ॥ ১৭৫ ॥
+
+eta bali’ āge kichu kare samarpaṇa  
+so  saying  in front  a little  he makes  offering  
+tām̐ra snehe prabhu kichu karena bhojana  
+of him  out of affection  the Lord  a little  does  eating
+
+(175) Saying this, he would set a little before Him, and out of affection for him the Lord would eat some.
+
+এই মত দুইজন করে বারবার ৷  
+বিচিত্র এই দুই ভক্তের স্নেহ-ব্যবহার ॥ ১৭৬ ॥
+
+ei mata duijana kare bārabāra  
+in this way  the two  do  again and again  
+vicitra ei dui bhaktera sneha-vyavahāra  
+wonderful  of these  two  devotees  the loving dealings
+
+(176) The two of them did this again and again. Wonderful were the loving dealings of these two devotees!
+
+সার্ব্বভৌমে প্রভু বসাঞাছেন বাম-পাশে ৷  
+দুই ভক্তের স্নেহ দেখি’ সার্ব্বভৌম হাসে ॥ ১৭৭ ॥
+
+sārvabhaume prabhu vasāñāchena vāma-pāśe  
+Sārvabhauma  the Lord  has seated  at His left side  
+dui bhaktera sneha dekhi’ sārvabhauma hāse  
+of the two  devotees  the affection  seeing  Sārvabhauma  smiles
+
+(177) The Lord had seated Sārvabhauma at His left side, and seeing the affection of the two devotees, Sārvabhauma smiled.
+
+সার্ব্বভৌমে দেয়ান প্রভু প্রসাদ উত্তম ৷  
+স্নেহ করি’ বারবার করান ভোজন ॥ ১৭৮ ॥
+
+sārvabhaume deyāna prabhu prasāda uttama  
+to Sārvabhauma  has given  the Lord  prasāda  the best  
+sneha kari’ bāra bāra karāna bhojana  
+affection  showing  again and again  He makes  eat
+
+(178) The Lord had the best *prasāda* served to Sārvabhauma, and out of affection He made him eat again and again.
+
+গোপীনাথাচার্য্য উত্তম মহাপ্রসাদ আনি’ ৷  
+সার্ব্বভৌমে দিয়া কহে সুমধুর বাণী ॥ ১৭৯ ॥
+
+gopīnāthācārya uttama mahā-prasāda āni’  
+Gopīnātha Ācārya  excellent  mahā-prasāda  bringing  
+sārvabhaume diyā kahe sumadhura vāṇī  
+to Sārvabhauma  giving  speaks  very sweet  words
+
+(179) Gopīnātha Ācārya brought excellent *mahā-prasāda*, gave it to Sārvabhauma, and spoke very sweet words:
+
+কাঁহা ভট্টাচার্য্যের পূর্ব্ব জড়-ব্যবহার ৷  
+কাঁহা এই পরমানন্দ, — করহ বিচার ॥ ১৮০ ॥
+
+kām̐hā bhaṭṭācāryera pūrva jaḍa-vyavahāra  
+where  the Bhaṭṭācārya’s  former  worldly dealings  
+kām̐hā ei paramānanda, — karaha vicāra  
+where  this  supreme bliss  make  consideration
+
+(180) “Just consider: where were the Bhaṭṭācārya’s former worldly dealings, and where is this supreme bliss now!”
+
+সার্ব্বভৌম কহে, — আমি তার্কিক কুবুদ্ধি ৷  
+তোমার প্রসাদে মোর এ সম্পৎ-সিদ্ধি ॥ ১৮১ ॥
+
+sārvabhauma kahe, — āmi tārkika kubuddhi  
+Sārvabhauma  says  I  a logician  of crooked intellect  
+tomāra prasāde mora e sampat-siddhi  
+by your  grace  my  this  attainment of wealth
+
+(181) Sārvabhauma said, “I was a logician of crooked intellect. It is by your grace that I have gained this wealth.
+
+মহাপ্রভু বিনা কেহ নাহি দয়াময় ৷  
+কাকেরে গরুড় করে, — ঐছে কোন্ হয় ॥ ১৮২ ॥
+
+mahāprabhu vinā keha nāhi dayāmaya  
+Mahāprabhu  apart from  anyone  is not  merciful  
+kākere garuḍa kare, — aiche kon haya  
+the crow  into Garuḍa  He makes  such  who  is
+
+(182) No one is as merciful as Mahāprabhu. He turns a crow into a Garuḍa — who else is like that?
+
+তার্কিক-শৃগাল-সঙ্গে ভেউ-ভেউ করি ৷  
+সেই মুখে এবে সদা কহি ‘কৃষ্ণ’ ‘হরি’ ॥ ১৮৩ ॥
+
+tārkika-śṛgāla-saṅge bheu-bheu kari  
+with the logician-jackals  howling  I made  
+sei mukhe ebe sadā kahi ‘kṛṣṇa’ ‘hari’  
+with that  mouth  now  always  I say  “Kṛṣṇa”  “Hari”
+
+(183) I used to howl with the jackals of logic, and now with that same mouth I always say ‘Kṛṣṇa!’ and ‘Hari!’
+
+কাঁহা বহির্ম্মুখ তার্কিক-শিষ্যগণ সঙ্গে ৷  
+কাঁহা এই সঙ্গসুধা-সমুদ্র-তরঙ্গে ॥ ১৮৪ ॥
+
+kām̐hā bahirmukha tārkika-śiṣyagaṇa-saṅge  
+where  averse to the Lord  with logician disciples  company  
+kām̐hā ei saṅga-sudhā-samudra-taraṅge  
+where  this  of company’s nectar  of the ocean  in the waves
+
+(184) Where was I then, in the company of disciples who were logicians averse to the Lord, and where am I now, in the waves of this ocean of nectarean company!”
+
+প্রভু কহে, — পূর্ব্বে সিদ্ধ কৃষ্ণে তোমার প্রীতি ৷  
+তোমা-সঙ্গে আমা-সবার হৈল কৃষ্ণে মতি ॥ ১৮৫ ॥
+
+prabhu kahe, — pūrve siddha kṛṣṇe tomāra prīti  
+the Lord  says  formerly  perfected  for Kṛṣṇa  your  love  
+tomā-saṅge āmā-sabāra haila kṛṣṇe mati  
+in your company  of us all  arose  for Kṛṣṇa  the mind
+
+(185) The Lord said, “Your love for Kṛṣṇa was already perfected before. In your company all of us have turned our minds to Kṛṣṇa.”
+
+ভক্ত-মহিমা বাড়াইতে, ভক্তে সুখ দিতে ৷  
+মহাপ্রভু বিনা অন্য নাহি ত্রিজগতে ॥ ১৮৬ ॥
+
+bhakta-mahimā bāḍāite, bhakte sukha dite  
+the devotees’ glory  to increase  to devotees  happiness  to give  
+mahāprabhu vinā anya nāhi trijagate  
+Mahāprabhu  apart from  another  there is not  in the three worlds
+
+(186) In all the three worlds there is no one but Mahāprabhu who so increases the glory of His devotees and gives them such happiness.
+
+তবে প্রভু প্রত্যেকে, সব ভক্তের নাম লঞা ৷  
+পিঠা-পানা দেওয়াইল প্রসাদ করিয়া ॥ ১৮৭ ॥
+
+tabe prabhu pratyeke, saba bhaktera nāma lañā  
+then  the Lord  to each one  of all  the devotees  the names  taking  
+piṭhā-pānā deoyāila prasāda kariyā  
+cakes and sweet drinks  had given  as prasāda  making
+
+(187) Then the Lord, calling each devotee by name, had cakes and sweet drinks given to all as His *prasāda*.
+
+অদ্বৈত-নিত্যানন্দ বসিয়াছেন এক ঠাঞি ৷  
+দুইজনে ক্রীড়া-কলহ লাগিল তথাই ॥ ১৮৮ ॥
+
+advaita-nityānanda vasiyāchena eka ṭhāñi  
+Advaita and Nityānanda  were sitting  in one  place  
+dui jane krīḍā-kalaha lāgila tathāi  
+between the two  a playful quarrel  began  right there
+
+(188) Advaita and Nityānanda were sitting together, and right there a playful quarrel broke out between the two of them.
+
+অদ্বৈত কহে, — অবধূতের সঙ্গে এক পংক্তি ৷  
+ভোজন করিলুঁ, না জানি হবে কোন্ গতি ॥ ১৮৯ ॥
+
+advaita kahe, — avadhūtera saṅge eka paṅkti  
+Advaita  says  with an avadhūta  together  in one  row  
+bhojana karilum̐, nā jāni habe kon gati  
+eating  I have done  not  I know  will be  what  destination
+
+(189) Advaita said, “I have eaten in the same row as an *avadhūta*! I do not know what will become of me.
+
+প্রভু ত’ সন্ন্যাসী, উঁহার নাহি অপচয় ৷  
+অন্ন-দোষে সন্ন্যাসীর দোষ নাহি হয় ॥ ১৯০ ॥
+
+prabhu ta’ sannyāsī, um̐hāra nāhi apacaya  
+the Lord  indeed  a sannyāsī  for Him  is not  any loss  
+anna-doṣe sannyāsīra doṣa nāhi haya  
+by faults in food  of a sannyāsī  fault  not  occurs
+
+(190) The Lord is a *sannyāsī*: He loses nothing by it. Faults in food bring no fault to a *sannyāsī*.
+
+‘নান্নদোষেণ মস্করী’ — এই শাস্ত্র-প্রমাণ ৷  
+আমি ত’ গৃহস্থ-ব্রাহ্মণ, আমার দোষ-স্থান ॥ ১৯১ ॥
+
+‘nānna-doṣeṇa maskarī’ — ei śāstra-pramāṇa  
+“not  by faults in food  the ascetic”  this  the scripture’s evidence  
+āmi ta’ gṛhastha-brāhmaṇa, āmāra doṣa-sthāna  
+I  indeed  a householder brāhmaṇa  my  a place for fault
+
+(191) ‘An ascetic is not tainted by faults in food’ — this is the evidence of scripture. But I am a householder *brāhmaṇa*: for me it is a cause of fault.
+
+জন্মকুলশীলাচার না জানি যাহার ৷  
+তার সঙ্গে এক পংক্তি — বড় অনাচার ॥ ১৯২ ॥
+
+janma-kula-śīlācāra nā jāni yāhāra  
+birth, family, character and conduct  not  I know  whose  
+tāra saṅge eka paṅkti — baḍa anācāra  
+with him  together  one  row  great  impropriety
+
+(192) To eat in the same row with someone whose birth, family, character and conduct are unknown is a great impropriety.”
+
+নিত্যানন্দ কহে, — তুমি অদ্বৈত-আচার্য্য ৷  
+‘অদ্বৈত-সিদ্ধান্তে’ বাধে শুদ্ধভক্তিকার্য্য ॥ ১৯৩ ॥
+
+nityānanda kahe, — tumi advaita-ācārya  
+Nityānanda  says  You  Advaita Ācārya  
+‘advaita-siddhānte’ bādhe śuddha-bhakti-kārya  
+by the “doctrine of non-duality”  is obstructed  the work of pure devotion
+
+(193) Nityānanda replied, “You are Advaita Ācārya — the teacher of non-duality! The ‘doctrine of non-duality’ obstructs the practice of pure devotion.
+
+তোমার সিদ্ধান্ত-সঙ্গ করে যেই জনে ৷  
+‘এক’ বস্তু বিনা সেই ‘দ্বিতীয়’ নাহি মানে ॥ ১৯৪ ॥
+
+tomāra siddhānta-saṅga kare yei jane  
+Your  doctrine’s company  makes  whatever  person  
+‘eka’ vastu vinā sei ‘dvitīya’ nāhi māne  
+“one”  reality  apart from  he  a “second”  not  accepts
+
+(194) Whoever keeps company with Your doctrine accepts nothing ‘second’ besides the ‘one’ reality.
+
+হেন তোমার সঙ্গে মোর একত্রে ভোজন ৷  
+না জানি, তোমার সঙ্গে কৈছে হয় মন ॥ ১৯৫ ॥
+
+hena tomāra saṅge mora ekatre bhojana  
+such  You  with  My  together  eating  
+nā jāni, tomāra saṅge kaiche haya mana  
+not  I know  in Your  company  how  becomes  the mind
+
+(195) And here I am eating together with such a person as You! I do not know what will happen to My mind in Your company.”
+
+এইমত দুইজনে করে বলাবলি ৷  
+ব্যাজ-স্তুতি করে দুঁহে, যেন গালাগালি ॥ ১৯৬ ॥
+
+ei-mata dui jane kare balābali  
+in this way  the two  make  exchange of words  
+vyāja-stuti kare dum̐he, yena gālāgāli  
+veiled praise  make  both  as if  abuse
+
+(196) In this way the two of them bandied words: each praised the other in the guise of abuse.
+
+তবে প্রভু সর্ব্ব-বৈষ্ণবের নাম লঞা ৷  
+মহাপ্রসাদ দেন মহা-অমৃত সিঞ্চিয়া ॥ ১৯৭ ॥
+
+tabe prabhu sarva-vaiṣṇavera nāma lañā  
+then  the Lord  of all Vaiṣṇavas  the names  taking  
+mahā-prasāda dena mahā-amṛta siñciyā  
+mahā-prasāda  He gives  great nectar  sprinkling
+
+(197) Then the Lord, calling out the names of all the Vaiṣṇavas, gave out *mahā-prasāda*, as if sprinkling them with the greatest nectar.
+
+ভোজন করি’ উঠে সবে হরিধ্বনি করি’ ৷  
+হরিধ্বনি উঠিল সব স্বর্গমর্ত্ত্য ভরি’ ॥ ১৯৮ ॥
+
+bhojana kari’ uṭhe sabe hari-dhvani kari’  
+eating  having done  rise  all  the sound of “Hari”  making  
+hari-dhvani uṭhila saba svarga-martya bhari’  
+the sound of “Hari”  arose  all  heaven and earth  filling
+
+(198) When they had eaten, everyone rose, calling out “Hari!” and the sound of “Hari” rose up and filled heaven and earth.
+
+তবে মহাপ্রভু সব নিজ-ভক্তগণে ৷  
+সবাকারে শ্রীহস্তে দিলা-মাল্য চন্দনে ॥ ১৯৯ ॥
+
+tabe mahāprabhu saba nija-bhakta-gaṇe  
+then  Mahāprabhu  all  His own devotees  
+sabākāre śrī haste dilā mālya-candane  
+to everyone  with His own hand  gave  garlands and sandal paste
+
+(199) Then, with His own hand, Mahāprabhu gave garlands and sandal paste to all His devotees.
+
+তবে পরিবেশক স্বরূপাদি সাত জন ৷  
+গৃহের ভিতরে কৈল প্রসাদ ভোজন ॥ ২০০ ॥
+
+tabe pariveśaka svarūpādi sāta jana  
+then  the servers  Svarūpa and the others  seven  people  
+gṛhera bhitare kaila prasāda bhojana  
+of the house  inside  made  of prasāda  eating
+
+(200) Then the servers, the seven headed by Svarūpa, ate *prasāda* inside the house.
+
+প্রভুর অবশেষ গোবিন্দ রাখিল ধরিয়া ৷  
+সেই অন্ন হরিদাসে কিছু দিল লঞা ॥ ২০১ ॥
+
+prabhura avaśeṣa govinda rākhila dhariyā  
+the Lord’s  remnants  Govinda  kept  holding (them)  
+sei anna haridāse kichu dila lañā  
+that  food  to Haridāsa  some  gave  taking
+
+(201) Govinda had kept aside the Lord’s remnants, and he took some of that food and gave it to Haridāsa.
+
+ভক্তগণ গোবিন্দ-পাশ কিছু মাগি’ নিল ৷  
+সেই প্রসাদান্ন গোবিন্দ আপনি পাইল ॥ ২০২ ॥
+
+bhakta-gaṇa govinda-pāśa kichu māgi’ nila  
+the devotees  from Govinda  some  begging  took  
+sei prasādānna govinda āpani pāila  
+that  prasāda food  Govinda  himself  received
+
+(202) The devotees begged a little of it from Govinda, and what remained of that *prasāda* Govinda took himself.
+
+স্বতন্ত্র ঈশ্বর প্রভু করে নানা খেলা ৷  
+‘ধোয়াপাখলা’ নাম কৈল এই এক লীলা ॥ ২০৩ ॥
+
+svatantra īśvara prabhu kare nānā khelā  
+independent  Supreme Lord  the Lord  plays  various  games  
+‘dhoyā-pākhalā’ nāma kaila ei eka līlā  
+“washing and scrubbing”  by name  He made  this  one  pastime
+
+(203) The Lord is the independent Supreme Lord and plays many kinds of games. This one pastime He called “washing and scrubbing” (*dhoyā-pākhalā*).
+
+আর দিনে জগন্নাথের ‘নেত্রোৎসব’ নাম ৷  
+মহোৎসব হৈল ভক্তের প্রাণ-সমান ॥ ২০৪ ॥
+
+āra dine jagannāthera ‘netrotsava’ nāma  
+on the next  day  of Jagannātha  “Netrotsava”  by name  
+mahotsava haila bhaktera prāṇa-samāna  
+a great festival  took place  to the devotees  equal to life
+
+(204) The next day came Jagannātha’s great festival called Netrotsava, as dear to the devotees as life itself.
+
+পক্ষদিন দুঃখী লোক প্রভুর অদর্শনে ৷  
+দর্শন করিয়া লোক সুখ পাইল মনে ॥ ২০৫ ॥
+
+pakṣa-dina duḥkhī loka prabhura adarśane  
+for a fortnight  sorrowful  the people  the Lord  not seeing  
+darśana kariyā loka sukha pāila mane  
+sight  having had  the people  happiness  found  in the mind
+
+(205) For a fortnight the people had grieved at not seeing the Lord; now, seeing Him again, they rejoiced at heart.
+
+মহাপ্রভু সুখে লঞা সব ভক্তগণ ৷  
+জগন্নাথ-দরশনে করিলা গমন ॥ ২০৬ ॥
+
+mahāprabhu sukhe lañā saba bhakta-gaṇa  
+Mahāprabhu  happily  taking  all  the devotees  
+jagannātha-daraśane karilā gamana  
+to see Jagannātha  made  going
+
+(206) Happily Mahāprabhu took all the devotees and went to see Jagannātha.
+
+আগে কাশীশ্বর যায় লোক নিবারিয়া ৷  
+পাছে গোবিন্দ যায় জল-করঙ্গ লঞা ॥ ২০৭ ॥
+
+āge kāśīśvara yāya loka nivāriyā  
+in front  Kāśīśvara  goes  the people  holding back  
+pāche govinda yāya jala-karaṅga lañā  
+behind  Govinda  goes  a water pot  carrying
+
+(207) Kāśīśvara went in front, holding back the crowd, and behind came Govinda, carrying a water pot.
+
+প্রভুর আগে পুরী, ভারতী, — দুঁহার গমন ৷  
+স্বরূপ, অদ্বৈত, — দুঁহের পার্শ্বে দুইজন ॥ ২০৮ ॥
+
+prabhura āge purī, bhāratī, — dum̐hāra gamana  
+the Lord’s  in front  Purī  Bhāratī  of both  the going  
+svarūpa, advaita, — dum̐hera pārśve dui-jana  
+Svarūpa  Advaita  of both  at the side  the two
+
+(208) In front of the Lord walked Purī and Bhāratī, and beside the two of them walked Svarūpa and Advaita.
+
+পাছে পাছে চলি’ যায় আর ভক্তগণ ৷  
+উৎকণ্ঠাতে গেলা সব জগন্নাথ-ভবন ॥ ২০৯ ॥
+
+pāche pāche cali’ yāya āra bhakta-gaṇa  
+behind  behind  walking  go  the other  devotees  
+utkaṇṭhāte gelā saba jagannātha-bhavana  
+in eagerness  went  all  to Jagannātha’s temple
+
+(209) The other devotees walked behind, and all of them went eagerly to Jagannātha’s temple.
+
+দর্শন-লোভেতে করি’ মর্য্যাদা লঙ্ঘন ৷  
+ভোগ-মণ্ডপে যাঞা করে শ্রীমুখ দর্শন ॥ ২১০ ॥
+
+darśana-lobhete kari’ maryādā laṅghana  
+of seeing  out of longing  making  of the rules  a breach  
+bhoga-maṇḍape yāñā kare śrī mukha darśana  
+into the bhoga-maṇḍapa  going  they make  of the beautiful  face  the sight
+
+(210) In their longing to see Him they set aside the rules, went into the *bhoga-maṇḍapa*, and gazed on His beautiful face.
+
+তৃষার্ত্ত প্রভুর নেত্র — ভ্রমর-যুগল ৷  
+গাঢ় তৃষ্ণায় পিয়ে কৃষ্ণের বদন কমল ॥ ২১১ ॥
+
+tṛṣārta prabhura netra — bhramara-yugala  
+thirsty  the Lord’s  eyes  of bees  a pair  
+gāḍha tṛṣṇāya piye kṛṣṇera vadana-kamala  
+with deep  thirst  drink  of Kṛṣṇa  the face-lotus
+
+(211) The Lord’s thirsty eyes, like a pair of bees, drank with deep thirst from the lotus of Kṛṣṇa’s face.
+
+প্রফুল্ল-কমল জিনি’ নয়ন যুগল ৷  
+নীলমণি-দর্পণ-কান্তি গণ্ড ঝলমল ॥ ২১২ ॥
+
+praphulla-kamala jini’ nayana-yugala  
+full-blown  lotuses  surpassing  of eyes  the pair  
+nīlamaṇi-darpaṇa-kānti gaṇḍa jhalamala  
+with a sapphire mirror’s luster  the cheeks  glisten
+
+(212) His eyes surpassed full-blown lotuses, and His cheeks glistened with the luster of a sapphire mirror.
+
+বান্ধুলীর ফুল জিনি’ অধর সুরঙ্গ ৷  
+ঈষৎ হসিত কান্তি — অমৃত-তরঙ্গ ॥ ২১৩ ॥
+
+bāndhulīra phula jini’ adhara suraṅga  
+of the bāndhulī  the flower  surpassing  the lips  bright red  
+īṣat hasita kānti — amṛta-taraṅga  
+of the gentle  smile  the radiance  waves of nectar
+
+(213) His bright red lips surpassed the *bāndhulī* flower, and the radiance of His gentle smile was a wave of nectar.
+
+শ্রীমুখ-সুন্দরকান্তি বাঢ়ে ক্ষণে ক্ষণে ৷  
+কোটিভক্ত-নেত্র-ভৃঙ্গ করে মধু পানে ॥ ২১৪ ॥
+
+śrī mukha-sundara-kānti bāḍhe kṣaṇe kṣaṇe  
+of the beautiful  face the lovely luster  grows  moment  by moment  
+koṭi-bhakta-netra-bhṛṅga kare madhu-pāne  
+the bee-eyes of millions of devotees  make  the drinking of honey
+
+(214) Moment by moment the lovely luster of His beautiful face grew, and the bee-like eyes of millions of devotees drank its honey.
+
+যত পিয়ে, তত তৃষ্ণা বাঢ়ে নিরন্তর ৷  
+মুখাম্বুজ ছাড়ি’ নেত্র না যায় অন্তর ॥ ২১৫ ॥
+
+yata piye, tata tṛṣṇā bāḍhe nirantara  
+the more  they drink  the more  thirst  grows  ceaselessly  
+mukhāmbuja chāḍi’ netra nā yāya antara  
+the face-lotus  leaving  the eyes  not  go  elsewhere
+
+(215) The more they drank, the more their thirst grew without end; the eyes would not leave that lotus face to go elsewhere.
+
+এইমত মহাপ্রভু লঞা ভক্তগণ ৷  
+মধ্যাহ্ন পর্য্যন্ত কৈল শ্রীমুখ দরশন ॥ ২১৬ ॥
+
+ei-mata mahāprabhu lañā bhakta-gaṇa  
+in this way  Mahāprabhu  with  the devotees  
+madhyāhna paryanta kaila śrī mukha daraśana  
+midday  until  made  of the beautiful  face  the sight
+
+(216) In this way Mahāprabhu and the devotees gazed on His beautiful face until midday.
+
+স্বেদ, কম্প, অশ্রু-জল বহে সর্ব্বক্ষণ ৷  
+দর্শনের লোভে প্রভু করে সম্বরণ ॥ ২১৭ ॥
+
+sveda, kampa, aśru-jala vahe sarva-kṣaṇa  
+perspiration  trembling  tears  flow  all the time  
+darśanera lobhe prabhu kare saṁvaraṇa  
+of seeing  out of longing  the Lord  makes  restraint
+
+(217) Perspiration, trembling and tears flowed from Him all the while, but in His longing to see, the Lord held them back.
+
+মধ্যে মধ্যে ভোগ লাগে, মধ্যে দরশন ৷  
+ভোগের সময়ে প্রভু করেন কীর্ত্তন ॥ ২১৮ ॥
+
+madhye madhye bhoga lāge, madhye daraśana  
+from time to time  offerings  are made  in between  sight  
+bhogera samaye prabhu karena kīrtana  
+of the offering  at the time  the Lord  does  kīrtana
+
+(218) From time to time food was offered, and in between there was *darśana*; during the offerings the Lord performed *kīrtana*.
+
+দর্শন-আনন্দে প্রভু সব পাসরিলা ৷  
+ভক্তগণ মধ্যাহ্নেতে প্রভুরে লঞা গেলা ॥ ২১৯ ॥
+
+darśana-ānande prabhu saba pāsarilā  
+in the bliss of seeing  the Lord  everything  forgot  
+bhakta-gaṇa madhyāhnete prabhure lañā gelā  
+the devotees  at midday  the Lord  taking  went
+
+(219) In the bliss of seeing Him, the Lord forgot everything, and at midday the devotees took Him away.
+
+প্রাতঃকালে রথযাত্রা হবেক জানিয়া ৷  
+সেবক লাগায় ভোগ দ্বিগুণ করিয়া ॥ ২২০ ॥
+
+prātaḥ-kāle ratha-yātrā habeka jāniyā  
+in the morning  the Ratha-yātrā  will be  knowing  
+sevaka lāgāya bhoga dviguṇa kariyā  
+the servants  offer  food  double  making
+
+(220) Knowing that the Ratha-yātrā would take place the next morning, the servants offered twice as much food.
+
+গুণ্ডিচা-গৃহ-মার্জ্জন সংক্ষেপে কহিল ৷  
+যাহা দেখি’ শুনি’ পাপীর কৃষ্ণভক্তি হৈল ॥ ২২১ ॥
+
+guṇḍicā-gṛha-mārjana saṅkṣepe kahila  
+the cleansing of the Guṇḍicā temple  briefly  I have told  
+yāhā dekhi’ śuni’ pāpīra kṛṣṇa-bhakti haila  
+which  seeing  hearing  of sinners  devotion to Kṛṣṇa  arose
+
+(221) I have briefly told of the cleansing of the Guṇḍicā temple. By seeing it and hearing of it, even sinners attained devotion to Kṛṣṇa.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২২২ ॥
+
+śrī rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(222) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: “Gaurasundara cleans the Guṇḍicā.” *Anubhāṣya*: “cool” (*śītalam*) means free from the threefold miseries born of the fire of the desire to enjoy; the temple became fit for Kṛṣṇa to be seated there.
@@ -1175,3 +2282,27 @@ water  they fill  the room  they wash  they make  the sound of Hari’s name
 [^26]: Heading in the edition: “The cleaned and washed temple compared to the pure heart of Śrī Rādhā.”
 
 [^27]: *Anubhāṣya*: the Vaiṣṇavas were busy carrying water, while these five — Prabhu Nityānanda, Advaita, Dāmodara-svarūpa, Brahmānanda Bhāratī and Paramānanda Purī — took water together with Mahāprabhu and cleaned the temple.
+
+[^28]: *Anubhāṣya*: the one whose service did not please the Lord He chided in a holy way, took by the hand and taught how to serve Kṛṣṇa.
+
+[^29]: Heading in the edition: “To the good servant the Lord gives the order to do the work of an ācārya.”
+
+[^30]: Heading in the edition: “The deed of a Gauḍīya devotee: suddenly washing the Lord’s feet, he drinks that water.”
+
+[^31]: Heading in the edition: “The anger of the Lord, who plays the part of an ācārya, the teacher of the world.”
+
+[^32]: *Anubhāṣya*: all the Gauḍīya Vaiṣṇavas were under the care of Śrī Dāmodara-svarūpa; that is why the Lord said “your”.
+
+[^33]: *Anubhāṣya* (on 126–127): for a jīva, the Lord’s eternal servant, to have his feet washed in the Lord’s temple is an offence in service, a breach of the rules of reverence (*Hari-bhakti-vilāsa*). No offence can be ascribed to the Lord, who is Bhagavān Himself; but acting as the teacher of the world, He took the part of an ordinary jīva to guard foolish would-be gurus against such offences.
+
+[^34]: *Pānā* is a sweet drink (cf. Madhya 6.44). Heading in the edition: “The penalty for whoever gathers the least: he must treat the others to prasāda.”
+
+[^35]: Heading in the edition: “The Guṇḍicā temple cleansed spotless.” Cf. 105, 106 and verse 1.
+
+[^36]: *Anubhāṣya*: by the pastime of cleansing the Guṇḍicā temple Mahāprabhu, the teacher of the world, teaches that whoever wishes to seat Śrī Kṛṣṇa on the throne of his heart must first cleanse the heart, making it pure, calm and bright with devotion. The thorny grass, dust and pebbles are other desires and the pursuit of karma and of impersonal liberation; the fine stains the Lord rubbed away with His own cloth are hypocrisy, the craving for honour and gain, and finally the desire for liberation. The temple was cleansed to loud kīrtana of Kṛṣṇa’s name, and the Lord Himself taught each one how to serve.
+
+[^37]: *Amṛta-pravāha-bhāṣya*: near the Guṇḍicā temple stands a beautiful old temple of Nṛsiṁha, where a great festival is held on Nṛsiṁha-caturdaśī.
+
+[^38]: Heading in the edition: “Advaita tries to revive his son with the mantra of Nṛsiṁha.”
+
+[^39]: *Anubhāṣya*: this story of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
