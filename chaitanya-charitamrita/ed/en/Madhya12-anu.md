@@ -384,6 +384,78 @@ The Vaiṣṇavas were busy bringing water. But Nityānanda Prabhu, Advaita, Dā
 
 > Subheading: While the temple is being cleaned and washed, the names of Kṛṣṇa are sung all the time —
 
+## 114
+
+> Subheading: The Lord constantly chants Kṛṣṇa's name and alone does the service of a hundred devotees —
+
+## 115
+
+> Subheading: The Lord Himself both sets the example and instructs —
+
+## 116
+
+> Subheading: Praise for a good servant's service —
+
+## 117
+
+> Subheading: The Lord tells a good servant to do the work of an *ācārya* —
+
+## 118
+
+> Subheading: Inspired by the Lord, the devotees serve with zeal —
+
+## 119
+
+> Subheading: The temple is washed everywhere —
+
+## 122
+
+> Subheading: What one Gauḍīya devotee did: suddenly washing the Lord's feet, he drinks that water —
+
+## 124
+
+> Subheading: The anger of the Lord, who displays the pastime of an *ācārya*, the teacher of the world —
+
+## 125
+
+> Subheading: The Lord complains to Dāmodara Svarūpa, the lord of the Mādhva-Gauḍīyas —
+
+“Your”: all the Gauḍīya Vaiṣṇavas were under Śrī Dāmodara Svarūpa. That is why the Lord used the word “your.”
+
+## 126
+
+> Subheading: Washing the feet in Bhagavān's temple is an offense in service for the *jīva* —
+
+## 127
+
+> Subheading: The Lord is distressed by fear of an offense in service (?) —
+
+## 126–127
+
+Bhagavān is the eternal master of the *jīva*. If the *jīva*, His eternal servant, washes his feet or does anything of the kind in Bhagavān's temple, it is an offense in service (*sevāparādha*), because it violates the rules of reverence (*Hari-bhakti-vilāsa*). But the Lord is Bhagavān Himself, and to attribute an offense or anything of the sort to Him is utterly impossible and contrary to the Vedas. Still, outwardly He acts as *jagad-guru*, the teacher of people, and *ācārya*. So He regarded Himself as a mere *jīva*, a separated part (*vibhinnāṁśa*), and taught this lesson to guard foolish *guru-bruvas* — those who only call themselves gurus — against offenses in service.
+
+## 128
+
+> Subheading: Svarūpa puts the Gauḍīya out of the Guṇḍicā —
+
+*Ḍhekā*: a shove; *purīra*: from the abode (*purī*) of the Guṇḍicā.
+
+## 129
+
+> Subheading: A plea for forgiveness at the Lord's feet —
+
+## 130
+
+> Subheading: The Lord forgives; everyone sits down on both sides —
+
+## 131
+
+> Subheading: In the middle the Lord Himself picks up straw and the like —
+
+## 132
+
+> Subheading: The penalty for whoever collects the least: he must treat the others to *prasāda* —
+
 ---
 
 [^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
