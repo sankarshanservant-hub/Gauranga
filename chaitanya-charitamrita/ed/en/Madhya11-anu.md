@@ -238,6 +238,180 @@ The *Kaṭha Upaniṣad* (third *vallī*, 3–6, 9)[^37-1] says: “Know the sel
 
 > Subheading: During the *anavasara* the Lord suffers separation from Kṛṣṇa and goes alone to Ālālanātha —
 
+## 64
+
+> Subheading: The devotees who come after the Lord announce the arrival of the Gauḍīyas —
+
+## 65
+
+> Subheading: The Bhaṭṭācārya comes back to Puri with the Lord and informs the king —
+
+## 66
+
+> Subheading: Gopīnātha arrives from Gauḍa ahead of everyone —
+
+***Gopīnātha Ācārya*** — see Ādi 10.130.
+
+## 67
+
+> Subheading: News that two hundred Gauḍīya devotees of Gaura are coming —
+
+***Mahā-bhāgavatas*** — *paramahaṁsas* who are *niṣkiñcana*, beyond *varṇāśrama*, and take shelter of Kṛṣṇa alone. As Śrī Narottama Ṭhākura says in his *Prārthanā*: “One who regards the associates of Gaurāṅga as eternally perfect goes to the son of the king of Vraja.”
+
+## 68
+
+> Subheading: News that they have gathered at Narendra lake, and a request to arrange *prasāda*, lodgings and the like for them —
+
+## 69
+
+> Subheading: The king orders the *paḍichā* to arrange it all —
+
+## 70
+
+> Subheading: The king asks the Bhaṭṭa to identify the Gauḍīya devotees for him —
+
+## 71
+
+> Subheading: The Bhaṭṭa admits he cannot do so and asks Gopīnātha to; the three climb onto the palace roof —
+
+## 74
+
+> Subheading: Sent by the Lord, Dāmodara-svarūpa and Govinda welcome the devotees with garlands and *prasāda* —
+
+## 76
+
+> Subheading: The Bhaṭṭa identifies for the king: (1) Dāmodara-svarūpa —
+
+## 77
+
+> Subheading: (2) Govinda —
+
+## 78
+
+> Subheading: Advaita is garlanded —
+
+## 79
+
+> Subheading: Govinda bows down, Advaita asks about him, and in reply Govinda is introduced —
+
+## 82
+
+> Subheading: Seeing Advaita, the king is curious —
+
+## 83
+
+> Subheading: (3) Advaita Ācārya —
+
+## 84
+
+> Subheading: (4) Śrīvāsa, (5) Vakreśvara, (6) Vidyānidhi, (7) Gadādhara —
+
+***Vidyānidhi Ācārya*** (Ācāryanidhi) — Puṇḍarīka Vidyānidhi; see the *Anubhāṣya* on Ādi 10.14 and the *Vaiṣṇava-mañjuṣā-samāhṛti* (issue 1).
+
+## 85
+
+> Subheading: (8) Candraśekhara, (9) Purandara, (10) Gaṅgādāsa, (11) Śaṅkara —
+
+## 86
+
+> Subheading: (12) Murāri, (13) Nārāyaṇa, (14) Haridāsa Ṭhākura —
+
+## 87
+
+> Subheading: (15) Hari Bhaṭṭa, (16) Nṛsiṁhānanda, (17) Vāsudeva Datta, (18) Śivānanda Sena —
+
+## 88
+
+> Subheading: (19) Govinda, (20) Mādhava, (21) Vāsu Ghoṣa —
+
+## 89
+
+> Subheading: (22) Rāghava, (23) Nandana, (24) Śrīmān, (25) Śrīkānta, (26) Nārāyaṇa —
+
+## 90
+
+> Subheading: (27) Śuklāmbara, (28) Śrīdhara, (29) Vijaya, (30) Vallabha Sena, (31) Puruṣottama, (32) Sañjaya —
+
+## 91
+
+> Subheading: (33) Satyarāja, (34) Rāmānanda —
+
+## 92
+
+> Subheading: (35) Mukunda, (36) Narahari, (37) Raghunandana, (38) Cirañjīva, (39) Sulocana —
+
+## 94
+
+> Subheading: The king is amazed to see the Vaiṣṇavas' radiance and hear their unprecedented *kīrtana* —
+
+## 97
+
+> Subheading: Śrī Kṛṣṇa Caitanya, the founder of *saṅkīrtana* —
+
+## 98
+
+> Subheading: Preaching that turns averse *jīvas* toward Kṛṣṇa is itself *śrī-kīrtana* —
+
+## 99
+
+> Subheading: One who has gained consciousness shows intelligence in chanting about Gaura, while dullness is foolishness —
+
+A *jīva* who has gained consciousness and is eager to serve sings of Kṛṣṇa, and his word is full of consciousness. Only by the power of such a word does another *jīva* awaken to consciousness, acquire the disposition to serve and become a pure servant. In this way pure devotees increase their own kin, and in such worship lies Kṛṣṇa Caitanya's joy; in this the *jīva* shows the highest intelligence. A petty *jīva*, selfishly attached to dead matter, also performs wild dancing, *kīrtana* and the like, but all of it is rooted in disbelief and doubt that the Real Entity is the supreme object of service. Therefore it shows only dullness: it is mere fleeting, artificial sentimentality and excitement, or agitation.
+
+## 100
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.5.32) —
+
+See Ādi 3.51.
+
+## 101
+
+> Subheading: Caitanya, the Lord of transcendental knowledge (*parā-vidyā*), is Kṛṣṇa; worldly knowledge, or *aparā-vidyā*, is turned away from Him —
+
+## 102
+
+> Subheading: Mercy is won only through eagerness to serve, and the Lord is realized only by the power of mercy —
+
+## 103
+
+> Subheading: Without mercy, worldly learning leads to atheistic thinking and delusion —
+
+## 102–103
+
+See Madhya 6.82–87.
+
+## 104
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.14.29) —
+
+See Madhya 6.84.
+
+## 105
+
+> Subheading: The king asks why they go to see the Lord before seeing Jagannātha —
+
+## 106
+
+> Subheading: The Gauḍīyas' love for Gaura —
+
+## 108
+
+> Subheading: Seeing Vāṇīnātha carrying a great deal of *prasāda*, the king asks the reason —
+
+## 110
+
+> Subheading: The Bhaṭṭa's answer: the reason is the Lord's wish —
+
+## 111
+
+> Subheading: The king asks why they take *prasāda* without observing the rules of fasting and shaving the head —
+
+On coming to a holy place, to destroy one's sins, one should observe restraint the day before and fast the next day. To destroy the sins that reside in the head, one should shave the head and so on. For what purpose do they give up these rules of the holy place and eat?
+
+## 112
+
+> Subheading: The Bhaṭṭa speaks of the conduct of the path of *rāga* —
+
 ---
 
 [^8-1]: The verse translation reads differently: “to seek the attention of worldly people or women”; here (and in the *Amṛta-pravāha-bhāṣya*) *sandarśanam* means “seeing,” “looking [at them] as objects of enjoyment.”

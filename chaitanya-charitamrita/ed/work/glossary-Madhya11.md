@@ -12,3 +12,15 @@
 - পুষ্পোদ্যান → цветущий сад (= Гундича) / the flower garden (= Guṇḍicā)
 - মদ্ভক্তপূজা / তদীয় (Лагху-бхагаватамрита) → почитание Моих преданных / Его спутники (тадия) / worship of My devotees / His own (*tadīya*)
 - Варшабханави, Читрака, Шридама, Субала → Vārṣabhānavī, Citraka, Śrīdāmā, Subala
+- নরেন্দ্র (পুষ্করিণী, সরোবর) → пруд (озеро) Нарендра / Narendra pond (lake); চন্দন-যাত্রা → Чандана-ятра / the Candana-yātrā
+- উত্তররাঢ়ীয় কায়স্থ-কুল → семья каястхов уттара-радхи / a family of Uttara-rāḍhī Kāyasthas
+- ঘোষঠাকুর (Говинда Гхош), অগ্রদ্বীপ, ঘোষঠাকুরের মেলা → Гхош Тхакур, Аградвип, ярмарка Гхоша Тхакура / Ghoṣa Ṭhākura, Agradvīpa, the fair of Ghoṣa Ṭhākura
+- কলিহত → калихата («погублен Кали»: разум поражён Кали) / *kali-hata* (struck down by Kali)
+- লব্ধচৈতন্য → обретший сознание (лабдха-чайтанья) / one who has gained consciousness (*labdha-caitanya*)
+- Спутники (Мадхья 11.84–92, подзаголовки): Шривас, Вакрешвара, Видьянидхи, Гададхара; Чандрашекхара, Пурандара, Гангадас, Шанкара; Мурари, Нараяна, Харидас Тхакур; Хари Бхатта, Нрисимхананда, Васудева Датта, Шивананда Сен; Говинда, Мадхава, Васу Гхош; Рагхава, Нандана, Шриман, Шриканта, Нараяна; Шукламбара, Шридхара, Виджая, Валлабха Сен, Пурушоттама, Санджая; Сатьяраджа, Рамананда; Мукунда, Нарахари, Рагхунандана, Чиранджива, Сулочана / Śrīvāsa, Vakreśvara, Vidyānidhi, Gadādhara; Candraśekhara, Purandara, Gaṅgādāsa, Śaṅkara; Murāri, Nārāyaṇa, Haridāsa Ṭhākura; Hari Bhaṭṭa, Nṛsiṁhānanda, Vāsudeva Datta, Śivānanda Sena; Govinda, Mādhava, Vāsu Ghoṣa; Rāghava, Nandana, Śrīmān, Śrīkānta, Nārāyaṇa; Śuklāmbara, Śrīdhara, Vijaya, Vallabha Sena, Puruṣottama, Sañjaya; Satyarāja, Rāmānanda; Mukunda, Narahari, Raghunandana, Cirañjīva, Sulocana
+- পরবিদ্যা / অপরা-বিদ্যা → высшее знание (пара-видья) / мирское знание (апара-видья) / transcendental knowledge (*parā-vidyā*) / worldly knowledge (*aparā-vidyā*)
+- স্বগোত্র-বর্দ্ধন → умножать свой род (о чистых преданных) / increasing their own kin
+- জাড্য → косность / dullness
+- তৈর্থিক কর্ম্মবিধান → правила святого места (пост, бритьё головы) / the rules of the holy place
+- রাগমার্গ → путь раги / the path of *rāga*
+- “Прартхана” (Нароттама Тхакур) / *Prārthanā*

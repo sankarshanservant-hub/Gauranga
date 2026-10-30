@@ -64,6 +64,32 @@ Reciting the verses of the five chapters on Śrī Kṛṣṇa's *rāsa* (*Śrīm
 
 During the *anavasara* the Lord could not see Jagannātha, and, beside Himself in separation from Kṛṣṇa, He would go to Ālālanātha and stay there.
 
+## 68
+
+***Narendra*** — the pond called “Narendra,” where the Candana-yātrā festival is held. Even today Gauḍīya devotees, on entering Puruṣottama, wash their hands and feet in the water of Narendra pond and then go to the temple.
+
+## 72
+
+Sārvabhauma said, “I do not know any of them, (but) I wish to know.”
+
+## 83
+
+***The Ācārya said*** — Gopīnātha Ācārya said.
+
+## 88
+
+***Govinda Ghoṣa*** appeared in a family of Uttara-rāḍhī Kāyasthas; he is the one called “Ghoṣa Ṭhākura.” To this day (near Kāṭoyā) the fair of Ghoṣa Ṭhākura is held at Agradvīpa.
+
+***Vāsu Ghoṣa*** composed many songs about Mahāprabhu; among the songs of the *mahājanas* they hold the foremost place.
+
+## 99
+
+In the age of Kali, whoever worships Kṛṣṇa Caitanya with the sacrifice of *saṅkīrtana* is truly intelligent. Those who do not worship Him are *kali-hata*: their intelligence has been struck down by Kali.
+
+## 103
+
+One who lacks His mercy, even if he is a *paṇḍita*, cannot accept Kṛṣṇa Caitanya as the Lord (*Īśvara*): even seeing and hearing of all His divine majesty, he is without His mercy.
+
 ---
 
 [^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”
