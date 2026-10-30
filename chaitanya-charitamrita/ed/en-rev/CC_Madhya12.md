@@ -1915,7 +1915,7 @@ by faults in food  of a sannyāsī  fault  not  occurs
 āmi ta’ gṛhastha-brāhmaṇa, āmāra doṣa-sthāna  
 I  indeed  a householder brāhmaṇa  my  a place for fault
 
-(191) ‘An ascetic is not tainted by faults in food’ — this is the evidence of scripture. But I am a householder *brāhmaṇa*: for me it is a cause of fault.
+(191) ‘An ascetic is not tainted by faults in food’ — this is the evidence of scripture. But I am a householder brāhmaṇa: for Me it is a cause of fault.[^49]
 
 জন্মকুলশীলাচার না জানি যাহার ৷  
 তার সঙ্গে এক পংক্তি — বড় অনাচার ॥ ১৯২ ॥
@@ -1925,7 +1925,7 @@ birth, family, character and conduct  not  I know  whose
 tāra saṅge eka paṅkti — baḍa anācāra  
 with him  together  one  row  great  impropriety
 
-(192) To eat in the same row with someone whose birth, family, character and conduct are unknown is a great impropriety.”
+(192) To eat in the same row with someone whose birth, family, character and conduct are unknown is a great impropriety.”[^50]
 
 নিত্যানন্দ কহে, — তুমি অদ্বৈত-আচার্য্য ৷  
 ‘অদ্বৈত-সিদ্ধান্তে’ বাধে শুদ্ধভক্তিকার্য্য ॥ ১৯৩ ॥
@@ -1935,7 +1935,7 @@ Nityānanda  says  You  Advaita Ācārya
 ‘advaita-siddhānte’ bādhe śuddha-bhakti-kārya  
 by the “doctrine of non-duality”  is obstructed  the work of pure devotion
 
-(193) Nityānanda replied, “You are Advaita Ācārya — the teacher of non-duality! The ‘doctrine of non-duality’ obstructs the practice of pure devotion.
+(193) Nityānanda replied, “You are Advaita Ācārya — the teacher of non-duality! The ‘doctrine of non-duality’ obstructs the practice of pure devotion.[^51]
 
 তোমার সিদ্ধান্ত-সঙ্গ করে যেই জনে ৷  
 ‘এক’ বস্তু বিনা সেই ‘দ্বিতীয়’ নাহি মানে ॥ ১৯৪ ॥
@@ -1945,7 +1945,7 @@ Your  doctrine’s company  makes  whatever  person
 ‘eka’ vastu vinā sei ‘dvitīya’ nāhi māne  
 “one”  reality  apart from  he  a “second”  not  accepts
 
-(194) Whoever keeps company with Your doctrine accepts nothing ‘second’ besides the ‘one’ reality.
+(194) Whoever keeps company with Your doctrine accepts nothing ‘second’ besides the ‘one’ reality.[^52]
 
 হেন তোমার সঙ্গে মোর একত্রে ভোজন ৷  
 না জানি, তোমার সঙ্গে কৈছে হয় মন ॥ ১৯৫ ॥
@@ -1955,7 +1955,7 @@ such  You  with  My  together  eating
 nā jāni, tomāra saṅge kaiche haya mana  
 not  I know  in Your  company  how  becomes  the mind
 
-(195) And here I am eating together with such a person as You! I do not know what will happen to My mind in Your company.”
+(195) And here I am eating together with such a person as You! I do not know what will happen to My mind in Your company.”[^53]
 
 এইমত দুইজনে করে বলাবলি ৷  
 ব্যাজ-স্তুতি করে দুঁহে, যেন গালাগালি ॥ ১৯৬ ॥
@@ -1965,7 +1965,7 @@ in this way  the two  make  exchange of words
 vyāja-stuti kare dum̐he, yena gālāgāli  
 veiled praise  make  both  as if  abuse
 
-(196) In this way the two of them bandied words: each praised the other in the guise of abuse.
+(196) In this way the two of them bandied words: each praised the other in the guise of abuse.[^54]
 
 তবে প্রভু সর্ব্ব-বৈষ্ণবের নাম লঞা ৷  
 মহাপ্রসাদ দেন মহা-অমৃত সিঞ্চিয়া ॥ ১৯৭ ॥
@@ -1975,7 +1975,7 @@ then  the Lord  of all Vaiṣṇavas  the names  taking
 mahā-prasāda dena mahā-amṛta siñciyā  
 mahā-prasāda  He gives  great nectar  sprinkling
 
-(197) Then the Lord, calling out the names of all the Vaiṣṇavas, gave out *mahā-prasāda*, as if sprinkling them with the greatest nectar.
+(197) Then the Lord, calling out the names of all the Vaiṣṇavas, gave out mahā-prasāda, as though sprinkled with the greatest nectar.[^55]
 
 ভোজন করি’ উঠে সবে হরিধ্বনি করি’ ৷  
 হরিধ্বনি উঠিল সব স্বর্গমর্ত্ত্য ভরি’ ॥ ১৯৮ ॥
@@ -2005,7 +2005,7 @@ then  the servers  Svarūpa and the others  seven  people
 gṛhera bhitare kaila prasāda bhojana  
 of the house  inside  made  of prasāda  eating
 
-(200) Then the servers, the seven headed by Svarūpa, ate *prasāda* inside the house.
+(200) Then the servers, the seven headed by Svarūpa, ate prasāda inside the house.
 
 প্রভুর অবশেষ গোবিন্দ রাখিল ধরিয়া ৷  
 সেই অন্ন হরিদাসে কিছু দিল লঞা ॥ ২০১ ॥
@@ -2025,7 +2025,7 @@ the devotees  from Govinda  some  begging  took
 sei prasādānna govinda āpani pāila  
 that  prasāda food  Govinda  himself  received
 
-(202) The devotees begged a little of it from Govinda, and what remained of that *prasāda* Govinda took himself.
+(202) The devotees begged a little of it from Govinda, and what remained of that prasāda Govinda took himself.
 
 স্বতন্ত্র ঈশ্বর প্রভু করে নানা খেলা ৷  
 ‘ধোয়াপাখলা’ নাম কৈল এই এক লীলা ॥ ২০৩ ॥
@@ -2035,7 +2035,7 @@ independent  Supreme Lord  the Lord  plays  various  games
 ‘dhoyā-pākhalā’ nāma kaila ei eka līlā  
 “washing and scrubbing”  by name  He made  this  one  pastime
 
-(203) The Lord is the independent Supreme Lord and plays many kinds of games. This one pastime He called “washing and scrubbing” (*dhoyā-pākhalā*).
+(203) The Lord is the independent Supreme Lord and plays many kinds of games. This one pastime He called “washing and scrubbing” (*dhoyā-pākhalā*).[^56]
 
 আর দিনে জগন্নাথের ‘নেত্রোৎসব’ নাম ৷  
 মহোৎসব হৈল ভক্তের প্রাণ-সমান ॥ ২০৪ ॥
@@ -2045,7 +2045,7 @@ on the next  day  of Jagannātha  “Netrotsava”  by name
 mahotsava haila bhaktera prāṇa-samāna  
 a great festival  took place  to the devotees  equal to life
 
-(204) The next day came Jagannātha’s great festival called Netrotsava, as dear to the devotees as life itself.
+(204) The next day came Jagannātha’s great festival called Netrotsava, as dear to the devotees as life itself.[^57]
 
 পক্ষদিন দুঃখী লোক প্রভুর অদর্শনে ৷  
 দর্শন করিয়া লোক সুখ পাইল মনে ॥ ২০৫ ॥
@@ -2075,7 +2075,7 @@ in front  Kāśīśvara  goes  the people  holding back
 pāche govinda yāya jala-karaṅga lañā  
 behind  Govinda  goes  a water pot  carrying
 
-(207) Kāśīśvara went in front, holding back the crowd, and behind came Govinda, carrying a water pot.
+(207) Kāśīśvara went in front, holding back the crowd, and behind came Govinda, carrying a water pot.[^58]
 
 প্রভুর আগে পুরী, ভারতী, — দুঁহার গমন ৷  
 স্বরূপ, অদ্বৈত, — দুঁহের পার্শ্বে দুইজন ॥ ২০৮ ॥
@@ -2105,7 +2105,7 @@ of seeing  out of longing  making  of the rules  a breach
 bhoga-maṇḍape yāñā kare śrī mukha darśana  
 into the bhoga-maṇḍapa  going  they make  of the beautiful  face  the sight
 
-(210) In their longing to see Him they set aside the rules, went into the *bhoga-maṇḍapa*, and gazed on His beautiful face.
+(210) In their longing to see Him they set aside the rules, went into the *bhoga-maṇḍapa*, and gazed on His beautiful face.[^59]
 
 তৃষার্ত্ত প্রভুর নেত্র — ভ্রমর-যুগল ৷  
 গাঢ় তৃষ্ণায় পিয়ে কৃষ্ণের বদন কমল ॥ ২১১ ॥
@@ -2115,7 +2115,7 @@ thirsty  the Lord’s  eyes  of bees  a pair
 gāḍha tṛṣṇāya piye kṛṣṇera vadana-kamala  
 with deep  thirst  drink  of Kṛṣṇa  the face-lotus
 
-(211) The Lord’s thirsty eyes, like a pair of bees, drank with deep thirst from the lotus of Kṛṣṇa’s face.
+(211) The Lord’s thirsty eyes, like a pair of bees, drank with deep thirst from the lotus of Kṛṣṇa’s face.[^60]
 
 প্রফুল্ল-কমল জিনি’ নয়ন যুগল ৷  
 নীলমণি-দর্পণ-কান্তি গণ্ড ঝলমল ॥ ২১২ ॥
@@ -2123,9 +2123,9 @@ with deep  thirst  drink  of Kṛṣṇa  the face-lotus
 praphulla-kamala jini’ nayana-yugala  
 full-blown  lotuses  surpassing  of eyes  the pair  
 nīlamaṇi-darpaṇa-kānti gaṇḍa jhalamala  
-with a sapphire mirror’s luster  the cheeks  glisten
+with a sapphire mirror’s lustre  the cheeks  glisten
 
-(212) His eyes surpassed full-blown lotuses, and His cheeks glistened with the luster of a sapphire mirror.
+(212) His eyes surpassed full-blown lotuses, and His cheeks glistened with the lustre of a sapphire mirror.[^61]
 
 বান্ধুলীর ফুল জিনি’ অধর সুরঙ্গ ৷  
 ঈষৎ হসিত কান্তি — অমৃত-তরঙ্গ ॥ ২১৩ ॥
@@ -2135,17 +2135,17 @@ of the bāndhulī  the flower  surpassing  the lips  bright red
 īṣat hasita kānti — amṛta-taraṅga  
 of the gentle  smile  the radiance  waves of nectar
 
-(213) His bright red lips surpassed the *bāndhulī* flower, and the radiance of His gentle smile was a wave of nectar.
+(213) His bright red lips surpassed the *bāndhulī* flower, and the radiance of His gentle smile was a wave of nectar.[^62]
 
 শ্রীমুখ-সুন্দরকান্তি বাঢ়ে ক্ষণে ক্ষণে ৷  
 কোটিভক্ত-নেত্র-ভৃঙ্গ করে মধু পানে ॥ ২১৪ ॥
 
 śrī mukha-sundara-kānti bāḍhe kṣaṇe kṣaṇe  
-of the beautiful  face the lovely luster  grows  moment  by moment  
+of the beautiful  face the lovely lustre  grows  moment  by moment  
 koṭi-bhakta-netra-bhṛṅga kare madhu-pāne  
 the bee-eyes of millions of devotees  make  the drinking of honey
 
-(214) Moment by moment the lovely luster of His beautiful face grew, and the bee-like eyes of millions of devotees drank its honey.
+(214) Moment by moment the lovely lustre of His beautiful face grew, and the bee-like eyes of millions of devotees drank its honey.
 
 যত পিয়ে, তত তৃষ্ণা বাঢ়ে নিরন্তর ৷  
 মুখাম্বুজ ছাড়ি’ নেত্র না যায় অন্তর ॥ ২১৫ ॥
@@ -2155,7 +2155,7 @@ the more  they drink  the more  thirst  grows  ceaselessly
 mukhāmbuja chāḍi’ netra nā yāya antara  
 the face-lotus  leaving  the eyes  not  go  elsewhere
 
-(215) The more they drank, the more their thirst grew without end; the eyes would not leave that lotus face to go elsewhere.
+(215) The more they drank, the more their thirst grew without end; the eyes would not leave that lotus face to go elsewhere.[^63]
 
 এইমত মহাপ্রভু লঞা ভক্তগণ ৷  
 মধ্যাহ্ন পর্য্যন্ত কৈল শ্রীমুখ দরশন ॥ ২১৬ ॥
@@ -2175,7 +2175,7 @@ perspiration  trembling  tears  flow  all the time
 darśanera lobhe prabhu kare saṁvaraṇa  
 of seeing  out of longing  the Lord  makes  restraint
 
-(217) Perspiration, trembling and tears flowed from Him all the while, but in His longing to see, the Lord held them back.
+(217) Perspiration, trembling and tears flowed from Him all the while, but in His longing to see, the Lord held them back.[^64]
 
 মধ্যে মধ্যে ভোগ লাগে, মধ্যে দরশন ৷  
 ভোগের সময়ে প্রভু করেন কীর্ত্তন ॥ ২১৮ ॥
@@ -2185,7 +2185,7 @@ from time to time  offerings  are made  in between  sight
 bhogera samaye prabhu karena kīrtana  
 of the offering  at the time  the Lord  does  kīrtana
 
-(218) From time to time food was offered, and in between there was *darśana*; during the offerings the Lord performed *kīrtana*.
+(218) From time to time food was offered, and in between there was darśana; during the offerings the Lord performed kīrtana.
 
 দর্শন-আনন্দে প্রভু সব পাসরিলা ৷  
 ভক্তগণ মধ্যাহ্নেতে প্রভুরে লঞা গেলা ॥ ২১৯ ॥
@@ -2195,7 +2195,7 @@ in the bliss of seeing  the Lord  everything  forgot
 bhakta-gaṇa madhyāhnete prabhure lañā gelā  
 the devotees  at midday  the Lord  taking  went
 
-(219) In the bliss of seeing Him, the Lord forgot everything, and at midday the devotees took Him away.
+(219) In the bliss of seeing Him, the Lord forgot everything, and at midday the devotees took Him away.[^65]
 
 প্রাতঃকালে রথযাত্রা হবেক জানিয়া ৷  
 সেবক লাগায় ভোগ দ্বিগুণ করিয়া ॥ ২২০ ॥
@@ -2215,12 +2215,12 @@ the cleansing of the Guṇḍicā temple  briefly  I have told
 yāhā dekhi’ śuni’ pāpīra kṛṣṇa-bhakti haila  
 which  seeing  hearing  of sinners  devotion to Kṛṣṇa  arose
 
-(221) I have briefly told of the cleansing of the Guṇḍicā temple. By seeing it and hearing of it, even sinners attained devotion to Kṛṣṇa.
+(221) I have briefly told of the cleansing of the Guṇḍicā temple. By seeing it and hearing of it, even sinners attained devotion to Kṛṣṇa.[^66]
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২২২ ॥
 
-śrī rūpa-raghunātha-pade yāra āśa  
+śrī-rūpa-raghunātha-pade yāra āśa  
 Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
@@ -2324,3 +2324,39 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^47]: *Anubhāṣya*: the *bahirmukha*, “those turned outward”, are those who think themselves enjoyers of outer forms and tastes, are busy gratifying their senses and have turned away from Kṛṣṇa’s service (cf. Śrīmad-Bhāgavatam, 7.5.30–31).
 
 [^48]: Heading in the edition: “A sannyāsī is not defiled by food.”
+
+[^49]: *Amṛta-pravāha-bhāṣya*: the faults of food do not cling to a sannyāsī.
+
+[^50]: Heading in the edition: “By calling himself a ‘householder brāhmaṇa’, Advaita feigns to follow the worldly society of the smārtas.”
+
+[^51]: The words play on Advaita’s name. *Anubhāṣya*: in the guise of blame Nityānanda praises Advaita. Outwardly the non-dual knowledge Śrī Advaita preached may seem one with the māyāvādīs’ doctrine of merging into Brahman; but he is called Ācārya because he proclaims pure bhakti, and his “doctrine of non-duality” is the worship of non-dual knowledge, that is, pure bhakti. What Nityānanda condemns is the doctrine of exclusive non-duality (*kevala-advaita*), which obstructs pure bhakti (see also Madhya 3.93–101).
+
+[^52]: *Anubhāṣya*: in the guise of blaming Advaita, Nityānanda describes the glory of non-dual knowledge. The supreme reality is the one Śrī Kṛṣṇa, and to see a “second” besides Him is māyā; the *mahā-bhāgavata*, like Prahlāda, sees only the one Kṛṣṇa. Pure Vaiṣṇavas accept the Truth as non-dual, but not as impersonal: it is Bhagavān, full of rasa, eternally with His name, form, qualities, pastimes and associates.
+
+[^53]: *Anubhāṣya*: by this Nityānanda hints that a pure devotee should never eat together with a covert māyāvādī or a *prākṛta-sahajiyā*.
+
+[^54]: *Amṛta-pravāha-bhāṣya*: *vyāja-stuti* is speech that blames outwardly but inwardly tells of greatness.
+
+[^55]: *Amṛta-pravāha-bhāṣya*: the prasāda was sprinkled with the nectar of the Lord’s mercy, and so it became all the more delicious.
+
+[^56]: *Amṛta-pravāha-bhāṣya*: this is what the pastime of cleansing the Guṇḍicā temple is called in the language of Utkala.
+
+[^57]: *Amṛta-pravāha-bhāṣya*: during the Snāna-yātrā the paint on Jagannātha is washed off, and in the period of *anavasara* the bodies of the three Deities are painted anew (*aṅgarāga*); on the morning of the Nava-yauvana day comes the Netrotsava, the painting of the eyes. *Anubhāṣya*: Netrotsava, “the festival of the eyes”, is the first darśana after the two weeks of *anavasara*, when the eyes of those longing for darśana find their fulfilment.
+
+[^58]: *Anubhāṣya*: *karaṅga* is the water pot of a sannyāsī. Heading in the edition: “In front of the Lord goes the strong Kāśīśvara, behind Him Govinda.”
+
+[^59]: *Anubhāṣya* (on 210–211): Mahāprabhu always looked at Jagannātha from the edge of the Jagamohana, from behind the Garuḍa pillar; but after two weeks of separation He went past it into the *bhoga-maṇḍapa*. To come so close to the worshipful is what is meant by breaking the rules (*maryādā*). *Amṛta-pravāha-bhāṣya*: *maryādā* is the rule of scripture for receiving darśana of the Deity.
+
+[^60]: Heading in the edition: “The Lord, absorbed in the mood of Rādhā, gazes with unblinking eyes at Kṛṣṇa’s face.”
+
+[^61]: *Amṛta-pravāha-bhāṣya*: *nīlamaṇi* — His cheeks glistened like a mirror of sapphire (*indranīla-maṇi*).
+
+[^62]: *Anubhāṣya*: *bāndhulī* here is the red flower of that kind; *suraṅga* is the colour of vermilion.
+
+[^63]: *Anubhāṣya*: the longer Mahāprabhu gazed at the holy face, the stronger His thirst to see it grew, and between His eyes and Kṛṣṇa’s lotus face no difference or barrier remained. On the sweetness of the Deity see Śrī Rūpa’s *Laghu-bhāgavatāmṛta* and Śrīmad-Bhāgavatam, 10.29.14.
+
+[^64]: Heading in the edition: “Though overwhelmed by feeling, the Lord restrains Himself and tastes the joy of serving by seeing.” *Anubhāṣya*: see Ādi 4.201–203.
+
+[^65]: Heading in the edition: “In the joy of serving Kṛṣṇa by seeing Him the Lord forgets Himself; at last He returns home.”
+
+[^66]: Heading in the edition: “By hearing the pastime of cleansing the Guṇḍicā temple even the impure are purified at heart.”
