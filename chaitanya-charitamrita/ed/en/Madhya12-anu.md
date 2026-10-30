@@ -536,7 +536,7 @@ On Śrī Gopāla, see Ādi 12.19–26.
 
 > Subheading: Ṭhākura Vṛndāvana dāsa has described this pastime —
 
-This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
+This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.[^150-1]
 
 ## 151
 
@@ -792,7 +792,7 @@ After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī J
 
 ## 213
 
-*Bāndhulī*: here a red flower of that kind is to be understood; *suraṅga*: the color of vermilion (*hiṅgula*).
+*Bāndhulī*: here a red flower of that kind is to be understood; *suraṅga*: the color of vermilion (*hiṅgula*).[^213-1]
 
 ## 215
 
@@ -834,8 +834,12 @@ On the sweetness of the Śrī Vigraha, Śrī Rūpa Prabhu writes in the *Śrī L
 
 [^135-1]: *Bhakti-rasāmṛta-sindhu* 1.1.11.
 
+[^150-1]: The verse translation reads differently: it says that this incident, that is, the one with Gopāla, is described in detail by Śrī Vṛndāvana dāsa Ṭhākura in the *Śrī Caitanya-bhāgavata*; according to the *Anubhāṣya*, the account of Gopāla is not found there.
+
 [^184-1]: So in the edition; two verses are quoted, 7.5.30–31.
 
 [^194-1]: So in the edition (11.3.45); by the sense, 11.2.45 (the marks of the highest devotee) may be meant.
 
 [^195-1]: *Upadeśāmṛta* 4.
+
+[^213-1]: The verse translation reads differently: “Jagannātha's light-yellow chin surpassed the beauty of the *bāndhulī* flower”; according to the *Anubhāṣya*, *suraṅga* is vermilion and the *bāndhulī* a red flower (the verse speaks of the lips, *adhara*).
