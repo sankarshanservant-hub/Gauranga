@@ -78,6 +78,12 @@ Mahāprabhu had *mahā-prasāda* given to the Vaiṣṇavas. It was sprinkled wi
 
 “Transgressing the *maryādā*”: the scriptural rule by which one is to take *darśana* of the Deity is called the “*maryādā*.” Eager for *darśana*, many transgressed this *maryādā* and went for the *darśana* of the Nava-yauvana.
 
+## 212
+
+*Nīlamaṇi*: that is, Jagannāthadeva's cheeks glittered like a mirror made of sapphire (*indranīla-maṇi*).
+
+*Thus ends the twelfth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.

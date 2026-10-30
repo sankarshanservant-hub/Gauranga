@@ -778,6 +778,54 @@ After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī J
 
 > Subheading: Longing to see the Lotus-eyed One, the devotees out of love transgress the rules —
 
+## 211
+
+> Subheading: The Lord, absorbed in Rādhā's *bhāva*, gazes at Kṛṣṇa's face with unblinking eyes —
+
+## 210–211
+
+Śrī Mahāprabhu always took *darśana* of Śrī Jagannātha from the edge of the Jagamohana, from behind the Garuḍa pillar. But for a fortnight He had not had *darśana*, and under the force of intense separation (*vipralambha*) He passed beyond the Jagamohana, went into the *bhoga-maṇḍapa* and gazed at the holy face. Coming very close to the object of worship is what is to be understood as transgressing the *maryādā*. A bee tormented by thirst strives with all its might for the honey of a flower. So the Lord's two eyes are likened to two bees, and Jagannātha's holy face to a lotus flower. Seized by deep thirst, the Lord drank, as it were, by gazing at Kṛṣṇa's lotus face, and this revealed His boundless thirst.
+
+## 212
+
+> Subheading: The incomparable, ever-new and ever-increasing sweetness of the Śrī Vigraha —
+
+## 213
+
+*Bāndhulī*: here a red flower of that kind is to be understood; *suraṅga*: the color of vermilion (*hiṅgula*).
+
+## 215
+
+The longer Śrī Mahāprabhu gazed at the holy face, the more His thirst to see it grew. Between the Lord's eyes and Kṛṣṇa's lotus face there remained no difference and no barrier.
+
+## 212–215
+
+On the sweetness of the Śrī Vigraha, Śrī Rūpa Prabhu writes in the *Śrī Laghu-bhāgavatāmṛta*: “The son of the king of the cowherds is an ocean of nectar whose waves are a sweetness without equal or superior; His form delights both the moving and the nonmoving.” In the Tantra it is said: “I shall tell of the supreme meditation on the son of Nanda. The beauty of countless millions of Kandarpas offers *ārati* to the edge of the nails of His lotus feet, and a charming radiance like His has never been seen or heard of anywhere.” See *Śrīmad-Bhāgavatam* 10.29.14.
+
+## 216
+
+> Subheading: Until midday, the pastime of gazing at the holy face —
+
+## 217
+
+> Subheading: Though overcome by *bhāva*, the Lord restrains Himself and relishes the joy of serving by gazing —
+
+Ādi 4.201–203 should be especially considered.
+
+## 218
+
+> Subheading: The Lord's *darśana* and *kīrtana* during the offering of *bhoga* —
+
+## 219
+
+> Subheading: In the joy of serving Kṛṣṇa by gazing at Him the Lord forgets Himself; at last He returns home —
+
+## 221
+
+> Subheading: By hearing of the pastime of cleaning the Guṇḍicā even the impure become pure in heart —
+
+*Thus ends the twelfth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
