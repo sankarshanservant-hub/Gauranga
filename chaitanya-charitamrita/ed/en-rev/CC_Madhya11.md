@@ -1016,7 +1016,7 @@ the Bhaṭṭācārya  says  these  sweet  words
 caitanyera sṛṣṭi — ei prema-saṅkīrtana  
 of Caitanya  creation  this  saṅkīrtana of love
 
-(97) The Bhaṭṭācārya spoke these sweet words: “This saṅkīrtana of love is Caitanya’s creation.
+(97) The Bhaṭṭācārya spoke these sweet words: “This saṅkīrtana of love is Caitanya’s creation.[^27]
 
 অবতরি’ চৈতন্য কৈল ধর্ম্মপ্রচারণ ৷  
 কলিকালে ধর্ম্ম — কৃষ্ণনাম-সংকীর্ত্তন ॥ ৯৮ ॥
@@ -1036,7 +1036,7 @@ by the sacrifice of saṅkīrtana  Him  does  worship
 sei ta’ sumedhā, āra — kali-hata-jana  
 he  indeed  intelligent  the others  people struck down by Kali
 
-(99) One who worships Him with the sacrifice of saṅkīrtana is truly intelligent; all others are people whose minds the age of Kali has struck down.
+(99) One who worships Him with the sacrifice of saṅkīrtana is truly intelligent; all others are people whose minds the age of Kali has struck down.[^28]
 
 কৃষ্ণবর্ণং ত্বিষাঽকৃষ্ণং সাঙ্গোপাঙ্গাস্ত্রপার্ষদম্ ৷  
 যজ্ঞৈঃ সংকীর্ত্তনপ্রায়ৈর্যজন্তি হি সুমেধসঃ ॥ ১০০ ॥
@@ -1050,7 +1050,7 @@ by sacrifices  in which saṅkīrtana  predominates
 yajanti hi su-medhasaḥ  
 they worship  indeed  the intelligent
 
-(100) “With sacrifices in which congregational chanting predominates, the wise worship the Lord who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)
+(100) “With sacrifices in which congregational chanting predominates, the wise worship the Lord who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)[^29]
 
 রাজা কহে, — শাস্ত্রপ্রমাণে চৈতন্য হন কৃষ্ণ ৷  
 তবে কেনে পণ্ডিত সব তাঁহাতে বিতৃষ্ণ ? ॥ ১০১ ॥
@@ -1080,7 +1080,7 @@ His  mercy  is not  on whom  a scholar  even if he be
 dekhile śunileha tām̐re ‘īśvara’ nā māne  
 seeing  even hearing  Him  as ‘Īśvara’  not  accepts
 
-(103) One who does not have His mercy — however learned he may be — will not accept Him as the Supreme Lord, even when he sees Him and hears of Him.
+(103) One who does not have His mercy, however learned he may be, will not accept Him as the Supreme Lord, even when he sees Him and hears of Him.[^30]
 
 অথাপি তে দেব পদাম্বুজদ্বয়-  
 প্রসাদলেশানুগৃহীত এব হি ৷  
@@ -1096,7 +1096,7 @@ knows  the truth  of Bhagavān’s  greatness
 na cānya eko ’pi ciraṁ vicinvan  
 not  and  another  one  even  long  speculating
 
-(104) “O Lord, only one who is favoured with even a trace of the grace of Your two lotus feet can know the truth of Your greatness as Bhagavān; no one else can know it, however long he may search.” (Śrīmad-Bhāgavatam, 10.14.29)
+(104) “O Lord, only one who is favoured with even a trace of the grace of Your two lotus feet can know the truth of Your greatness as Bhagavān; no one else can know it, however long he may search.” (Śrīmad-Bhāgavatam, 10.14.29)[^31]
 
 রাজা কহে, — সবে জগন্নাথ না দেখিয়া ৷  
 চৈতন্যের বাসা-গৃহে চলিলা ধাঞা ॥ ১০৫ ॥
@@ -1106,7 +1106,7 @@ the king  says  all  Jagannātha  not  seeing
 caitanyera vāsā-gṛhe calilā dhāñā  
 of Caitanya  to the residence  went  running
 
-(105) The king said, “Without seeing Jagannātha, they are all running to Caitanya’s residence!”
+(105) The king said, “Why have they all gone hurrying to Caitanya’s residence without first seeing Jagannātha?”
 
 ভট্ট কহে, — এই ত’ স্বাভাবিক প্রেম-রীত ৷  
 মহাপ্রভু মিলিবারে উৎকণ্ঠিত চিত ॥ ১০৬ ॥
@@ -1156,7 +1156,7 @@ the Bhaṭṭa  says  the devotees  have come  knowing
 prabhura iṅgite prasāda yāya tām̐rā lañā  
 of the Lord  by the hint  prasāda  go  they  taking
 
-(110) The Bhaṭṭa said, “Knowing that the devotees have arrived, they are taking prasāda there at the Lord’s hint.”
+(110) The Bhaṭṭa said, “Knowing that the devotees have arrived, they are carrying prasāda to them at the Lord’s hint.”
 
 রাজা কহে, — উপবাস, ক্ষৌর — তীর্থের বিধান ৷  
 তাহা না করিয়া কেনে খাইব অন্ন-পান ॥ ১১১ ॥
@@ -1166,7 +1166,7 @@ the king  says  fasting  shaving  of a holy place  the rule
 tāhā nā kariyā kene khāiba anna-pāna  
 that  not  doing  why  will they take  food and drink
 
-(111) The king said, “Fasting and shaving the head are the rules for a holy place. Why will they eat and drink without observing them?”
+(111) The king said, “Fasting and shaving the head are the rules for a holy place. Why will they eat and drink without observing them?”[^32]
 
 ভট্ট কহে, — তুমি যেই কহ, সেই বিধি-ধর্ম্ম ৷  
 এই রাগমার্গে আছে সূক্ষ্মধর্ম্ম-মর্ম্ম ॥ ১১২ ॥
@@ -1176,7 +1176,7 @@ the Bhaṭṭa  says  you  what  say  that  the dharma of rules
 ei rāga-mārge āche sūkṣma-dharma-marma  
 on this  path of spontaneous love  there is  of subtle dharma  the inner meaning
 
-(112) The Bhaṭṭa said, “What you speak of is the dharma of rules. On this path of spontaneous love there is a subtler, inner meaning of dharma.
+(112) The Bhaṭṭa said, “What you speak of is the dharma of rules. On this path of spontaneous love there is a subtler, inner meaning of dharma.[^33]
 
 ঈশ্বরের পরোক্ষ আজ্ঞা — ক্ষৌর, উপোষণ ৷  
 প্রভুর সাক্ষাৎ আজ্ঞা — প্রসাদ-ভোজন ॥ ১১৩ ॥
@@ -1186,7 +1186,7 @@ of the Lord  indirect  order  shaving  fasting
 prabhura sākṣāt ājñā — prasāda-bhojana  
 of the Lord  direct  order  the eating of prasāda
 
-(113) Shaving and fasting are the Lord’s indirect command; to eat prasāda is the Lord’s direct command.
+(113) Shaving and fasting are the Lord’s indirect command; to eat prasāda is the Lord’s direct command.[^34]
 
 তাঁহা উপবাস, যাঁহা নাহি মহাপ্রসাদ ৷  
 প্রভু-আজ্ঞা — প্রসাদত্যাগে হয় অপরাধ ॥ ১১৪ ॥
@@ -1216,7 +1216,7 @@ earlier  the Lord  to me  prasāda rice  bringing  gave
 prāte śayyāya vasi’ āmi se anna khāila  
 in the morning  in bed  sitting  I  that  food  ate
 
-(116) Once the Lord brought me prasāda, and early in the morning, still sitting on my bed, I ate it.
+(116) Once the Lord brought me prasāda, and early in the morning, still sitting on my bed, I ate it.[^35]
 
 যাঁরে কৃপা করি’ করেন হৃদয়ে প্রেরণ ৷  
 কৃষ্ণাশ্রয় হয়, ছাড়ে বেদ-লোক-ধর্ম্ম ॥ ১১৭ ॥
@@ -1240,7 +1240,7 @@ he  gives up  his mind  in worldly affairs
 vede ca pariniṣṭhitām  
 in Vedic rites  and  firmly fixed
 
-(118) “When the Lord, on whom the heart meditates, bestows His favour on someone, that person gives up his mind’s fixed attachment to worldly affairs and to Vedic ritual.” (Śrīmad-Bhāgavatam, 4.29.46)
+(118) “When the Lord, on whom the heart meditates, bestows His favour on someone, that person gives up his mind’s fixed attachment to worldly affairs and to Vedic ritual.” (Śrīmad-Bhāgavatam, 4.29.46)[^36]
 
 তবে রাজা অট্টালিকা হৈতে তলেতে আইলা ৷  
 কাশীমিশ্র, পড়িছা-পাত্র, দুঁহে আনাইলা ॥ ১১৯ ॥
@@ -1250,7 +1250,7 @@ then  the king  from the palace roof  down  came
 kāśī-miśra, paḍichā-pātra, dum̐he ānāilā  
 Kāśī Miśra  the paḍichā-pātra  both  summoned
 
-(119) Then the king came down from the palace roof and summoned Kāśī Miśra and the paḍichā-pātra.
+(119) Then the king came down from the palace roof and summoned Kāśī Miśra and the paḍichā-pātra.[^37]
 
 প্রতাপরুদ্র আজ্ঞা দিল সেই দুই জনে ৷  
 প্রভু-স্থানে আসিয়াছেন যত প্রভুর গণে ॥ ১২০ ॥
@@ -1322,3 +1322,25 @@ free  darśana  arrange  not  may be  hindrance
 [^25]: The heading in the edition gives Ācāryaratna’s name — Candraśekhara.
 
 [^26]: *Amṛta-pravāha-bhāṣya*: Govinda Ghoṣa was born in a Kāyastha family of Uttara-rāḍha; he is called Ghoṣa Ṭhākura, and to this day a fair is held in his name at Agradvīpa, near Katwa. Vāsu Ghoṣa composed many songs about Mahāprabhu, which hold the first place among the songs of the mahājanas.
+
+[^27]: Heading in the edition: “Śrī Kṛṣṇa Caitanya is the founder of saṅkīrtana.”
+
+[^28]: *Amṛta-pravāha-bhāṣya*: one who worships Kṛṣṇa Caitanya with the sacrifice of saṅkīrtana is truly intelligent; those who do not are *kali-hata* — Kali has destroyed their intelligence. *Anubhāṣya*: only the word of a pure devotee who sings of Kṛṣṇa awakens another *jīva* to service; the “kīrtana” and dancing of one devoted to the world are rooted in unbelief and remain a passing excitement.
+
+[^29]: The same verse as Ādi 3.51 and Madhya 6.103; translation as there.
+
+[^30]: *Anubhāṣya*: on verses 102–103 see Madhya 6.82–87.
+
+[^31]: The same verse as Madhya 6.84; translation as there.
+
+[^32]: *Anubhāṣya*: one who goes on pilgrimage observes restraint on the day before and fasts on the next day to destroy sins, and shaves the head to destroy the sins that reside there; the king asks why the devotees set aside these rules and eat.
+
+[^33]: *Amṛta-pravāha-bhāṣya*: what the king speaks of is *vaidhi-dharma*, the path of rules.
+
+[^34]: *Amṛta-pravāha-bhāṣya*: shaving and fasting Bhagavān has ordered indirectly, through the sages in the śāstras; but to eat prasāda He has ordered Himself.
+
+[^35]: Compare Madhya 6.216–226.
+
+[^36]: *Anubhāṣya*: the words of Nārada Gosvāmī to King Prācīnabarhi after the story of Purañjana: without Bhagavān’s mercy no one — not Brahmā, Rudra, the Kumāras, nor Nārada himself — attained knowledge of Him. *Ātma-bhāvitaḥ* — He on whom the heart meditates, whom one worships there, and who reveals Himself there.
+
+[^37]: *Amṛta-pravāha-bhāṣya*: the word *paḍichā* comes from *parīkṣā*, “examination”; the paḍichā is the superintendent of the temple.
