@@ -1,0 +1,590 @@
+# English translation, Madhya-līlā 12 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya12.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+
+## 0
+tr: The Cleansing of the Guṇḍicā Temple
+
+## 1
+w: of Śrī Guṇḍicā  the temple  with His own  people
+w: sweeping  by washing  He  Gaura
+w: like His own heart  cool  bright  and
+w: for Kṛṣṇa’s sitting  fit  made
+tr: Together with His own devotees, Gaura swept and washed the temple of Śrī Guṇḍicā. He made it cool and radiant like His own heart, a fit place for Kṛṣṇa to be seated.
+fn: Heading in the edition: “Gaurasundara cleans the Guṇḍicā.” *Anubhāṣya*: “cool” (*śītalam*) means free from the threefold miseries born of the fire of the desire to enjoy; the temple became fit for Kṛṣṇa to be seated there.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 4.2 (the refrain of Ādi 4.2 with *gauracandra* in the first line); translation as there.
+
+## 3
+w: glory  glory  to Śrīvāsa and the others  Gaura’s devotees
+w: strength  give  I may do  so that  of Caitanya  the description
+tr: Glory, glory to Śrīvāsa and all the devotees of Gaura! Grant me the strength to describe Śrī Caitanya.
+fn: The first line is the same as Ādi 9.3; translation as there.
+
+## 4
+w: earlier  the South  from  the Lord  when  came
+w: Him  to meet  the Gajapati  eager  became
+tr: Earlier, when the Lord returned from the South, the Gajapati king grew eager to meet Him.
+
+## 5
+w: Kaṭaka  from  a letter  gave  to Sārvabhauma
+w: of the Lord  permission  is  if  to see (Him)  I shall go
+tr: From Kaṭaka he sent a letter to Sārvabhauma: “If the Lord permits, I shall come to see Him.”
+
+## 6
+w: the Bhaṭṭācārya  wrote  of the Lord  permission  not  was
+w: again  the king  to him  a letter  sent
+tr: The Bhaṭṭācārya wrote back that the Lord had not given permission. Then the king sent him another letter:
+
+## 7
+w: of the Lord  near  are  all the  devotees
+w: me  for the sake of  to all of them  make  a petition
+tr: “Please petition, on my behalf, all the devotees who are with the Lord.
+
+## 8
+w: those  all  merciful ones  to me  becoming  kind
+w: me  for the sake of  at the Lord’s feet  will make  humble entreaty
+tr: May all those merciful souls be kind to me and humbly plead for me at the Lord’s feet.
+
+## 9
+w: of all of them  by the grace  one attains  Śrī  of the Lord  the feet
+w: the Lord’s mercy  without  my  kingdom  not  pleases
+tr: By their grace one reaches the feet of the Lord. Without the Lord’s mercy, my kingdom gives me no joy.
+
+## 10
+w: if  to me  mercy  not  will show  Gaurahari
+w: the kingdom  leaving  a yogī  becoming  I shall become  a beggar
+tr: If Gaurahari will not be merciful to me, I shall give up my kingdom, become a yogī and live as a beggar.”
+
+## 11
+w: the Bhaṭṭācārya  the letter  seeing  anxious  becoming
+w: to the devotees  went  that  letter  taking
+tr: Seeing the letter, the Bhaṭṭācārya grew anxious, and he took it to the devotees.
+
+## 12
+w: all  meeting  he told  the king’s  account
+w: afterwards  that  letter  to all  caused  to see
+tr: Meeting them all, he told them about the king, and then he showed everyone the letter.
+
+## 13
+w: the letter  seeing  of all  in the mind  arose  wonder
+w: to the Lord’s feet  of the Gajapati  so much  devotion  there is
+tr: Seeing the letter, everyone was amazed: “What devotion the Gajapati has for the Lord’s feet!”
+
+## 14
+w: all  say  the Lord  him  ever  not  will meet
+w: we all  speak  if  pain  He  will feel
+tr: They all said, “The Lord will never meet him. And if we ask Him, He will be pained.”
+
+## 15
+w: Sārvabhauma  says  all  go  once
+w: to meet  not  we shall say  we shall tell  the king’s conduct
+tr: Sārvabhauma said, “Let us all go to Him, just this once. We will not ask Him to meet the king; we will only tell Him how the king is behaving.”
+fn: *Amṛta-pravāha-bhāṣya*: we will tell Mahāprabhu that the king behaves like a true Vaiṣṇava, but we will not ask Him to grant the king His darśana.
+
+## 16
+w: so  saying  all  went  of Mahāprabhu  to the place
+w: to speak  eager  all  not  say  in words
+tr: Saying this, they all went to Mahāprabhu. Everyone was eager to speak, yet no one said a word.
+
+## 17
+w: the Lord  says  what  to say  of all  the coming
+w: I see  to say  you want  not  you speak  what  reason
+tr: The Lord said, “What have you all come to tell Me? I see that you want to say something, yet you do not speak. Why?”
+
+## 18
+w: Nityānanda  says  to You  we want  to submit
+w: not  having spoken  to remain  we cannot  to speak  fear  in the heart
+tr: Nityānanda said, “We want to put something before You. We cannot keep silent, yet our hearts are afraid to speak.
+
+## 19
+w: proper or improper  to You  all  we want  to submit
+w: You  not  if he meets  the king  wants  a yogī  to become
+tr: Proper or improper, we want to tell You everything: if he cannot meet You, the king wants to become a yogī.
+
+## 20
+w: in the ears  the earrings  taking  I  shall become  a beggar
+w: royal enjoyment  is not  in the heart  without  Gaurahari
+tr: He says, ‘I will put the yogī’s rings in my ears and become a beggar. Without Gaurahari, my heart finds no joy in royal pleasures.
+fn: Verses 20–21 are the king’s own words (first person in the Bengali: *muñi*, “I”), which Nityānanda repeats. *Amṛta-pravāha-bhāṣya*: in the western regions such yogīs are called *kānphaṭā* (“split-eared”) yogīs; they wear a sign made of conch shell in their ears.
+
+## 21
+w: I shall see  that  moonlike face  the eyes  filling
+w: I shall hold  those  lotus feet  to the heart  lifting
+tr: I shall gaze on that moonlike face to my eyes’ fill, and I shall lift those lotus feet and hold them to my heart.’”
+
+## 22
+w: although  hearing  of the Lord  soft  became  the heart
+w: still  outwardly  He speaks  harsh  words
+tr: Though the Lord’s heart softened when He heard this, outwardly He spoke harsh words:
+fn: Heading in the edition: “Harsh words of the Lord, faithful to the duty of a sannyāsī, as befits an ācārya.”
+
+## 23
+w: of you all  the desire  this  Me  taking
+w: the king  make meet  now  to Kaṭaka  going
+tr: “You all want to take Me to Kaṭaka and have Me meet the king.
+
+## 24
+w: spiritual good  let it be  people  will make  blame
+w: people  let them be  Dāmodara  will make  rebuke
+tr: Let alone the spiritual loss, people will condemn Me. And let alone the people, Dāmodara will scold Me.
+fn: *Amṛta-pravāha-bhāṣya*: from the standpoint of the highest goal a sannyāsī incurs fault by meeting a king; and he must avoid the censure of people because his task is to preach dharma, and the preaching of one who is censured does not go well.
+
+## 25
+w: of you all  at the bidding  I  not  meet  the king
+w: Dāmodara  says  when  I meet  then  him
+tr: I will not meet the king at the bidding of all of you. When Dāmodara tells Me to, then I shall meet him.”
+fn: Heading in the edition: “Under the guise of respect, a jibe at Dāmodara’s judging what is not his to judge.” *Amṛta-pravāha-bhāṣya*: the Lord is won by Dāmodara’s devotion, yet his verbal chastisements are often unfitting toward the Lord; by these words the Lord lets it be understood that Dāmodara will have to give up that habit.
+
+## 26
+w: Dāmodara  says  You  independent  the Lord
+w: what should and should not be done  all  to You  known
+tr: Dāmodara said, “You are the independent Lord. You know everything — what should be done and what should not.
+
+## 27
+w: I  what  insignificant soul  to You  rule  shall give
+w: Yourself  You will meet  him  that also  I shall see
+tr: What tiny soul am I, to give You rules? You will meet him of Your own accord, and that too I shall see.
+
+## 28
+w: the king  You  affection  makes  You  controlled by affection
+w: his  by the affection  will cause  him  Your  touch
+tr: The king holds You in affection, and You are ruled by affection. His affection will win him Your touch.
+
+## 29
+w: although  the Lord  You  supremely independent
+w: still  by nature  You are  subject to love
+tr: Though You are the Lord and supremely independent, by Your very nature You are subject to love.”
+fn: *Anubhāṣya*: You are Īśvara and so are bound to no one; yet by Your own nature You are subject only to the love of Your exclusive (*aikāntika*) devotees.
+
+## 30
+w: Nityānanda  says  such  is  what  person
+w: who  to You  says  ‘make  the meeting with the king’
+tr: Nityānanda said, “Who is there who would tell You, ‘Go and meet the king’?
+fn: Heading in the edition: “Agreeing with the Lord, Nityānanda pleads for the king’s love.”
+
+## 31
+w: but  of a loving  person  the nature  one  is
+w: the beloved  not  if he gets  his own life  he  gives up
+tr: But one who loves has this nature: if he cannot reach the one he longs for, he gives up his life.
+
+## 32
+w: of the sacrificing brāhmaṇas the wives  all  of that  the proof
+w: Kṛṣṇa  for the sake of  before the husband  gave up  life
+tr: The wives of the brāhmaṇas who performed sacrifice are proof of this: for Kṛṣṇa’s sake, one of them gave up her life before her husband’s eyes.
+fn: The Bengali has a singular verb (*chāḍileka*) and “before her husband” (*pati-āge*): according to *Śrīmad-Bhāgavatam* 10.23.34, one of the wives, held back by her husband, gave up her body. *Anubhāṣya*: see *Śrīmad-Bhāgavatam*, Canto 10, Chapter 23.
+
+## 33
+w: one  means  there is  if  You give  attention
+w: You  not  even if You meet  him  remains  his  life
+tr: There is one way, if You will hear it, by which his life may be saved even though You do not meet him.
+
+## 34
+w: one  outer cloth  if  You give  mercy  showing
+w: it  getting  life  he will keep  of You  hope  holding
+tr: If You mercifully give him one of Your outer cloths, he will receive it and keep himself alive, holding on to the hope of seeing You.”
+fn: The edition reads *tāhā pāñā prāṇa rākhe, tomāra āśā dhari’* (with a comma after *rākhe*); the Bengali and the transliteration follow the edition.
+
+## 35
+w: the Lord  says  you all  very  learned
+w: whatever  good  is  that  make  the arrangement
+tr: The Lord said, “You are all very learned. Arrange whatever is best.”
+
+## 36
+w: then  Nityānanda Gosāñi  of Govinda  from
+w: begging  took  of the Lord  one  outer cloth
+tr: Then Nityānanda Gosāñi asked Govinda for one of the Lord’s outer cloths and took it.
+
+## 37
+w: that  outer cloth  to Sārvabhauma  gave
+w: Sārvabhauma  that  cloth  to the king  sent
+tr: He gave the cloth to Sārvabhauma, and Sārvabhauma sent it to the king.
+
+## 38
+w: the cloth  getting  of the king  became  joyful  the mind
+w: as the Lord’s form  regarding  does  of the cloth  worship
+tr: Receiving the cloth, the king rejoiced, and he worshipped it as the Lord Himself.
+fn: *Anubhāṣya*: the Lord’s garments, ornaments and all that He uses are eternally non-different from His transcendental body: Śeṣa, a portion of Śrī Baladeva, serves Kṛṣṇa as His bed, garments and so on. Likewise the things used by the guru and the Vaiṣṇavas are non-different from them and eternally worthy of worship.
+
+## 39
+w: Rāmānanda  Rāya  when  the South  from  came
+w: with the Lord  to stay  the king  he petitioned
+tr: When Rāmānanda Rāya returned from the South, he asked the king to let him stay with the Lord.
+
+## 40
+w: then  the king  gladly  to him  permission  gave
+w: himself  meeting  for the sake of  to speak  began
+tr: The king gladly gave him leave, and himself began to speak of his wish to meet the Lord:
+
+## 41
+w: Mahāprabhu  great mercy  shows  to you
+w: me  to meet  surely  you will entreat  Him
+tr: “Mahāprabhu is very merciful to you. You must entreat Him to meet me.”
+
+## 42
+w: together  two  persons  to the Kṣetra  when  came
+w: Rāmānanda  Rāya  then  the Lord  met
+tr: When the two of them came to the Kṣetra together, Rāmānanda Rāya went to meet the Lord.
+
+## 43
+w: at the Lord’s feet  loving devotion  he made known  of the king
+w: occasion  finding  thus  he speaks  again and again
+tr: At the Lord’s feet he told of the king’s loving devotion, and whenever the occasion arose he spoke of it again and again.
+
+## 44
+w: the king’s minister  Rāmānanda  in dealings  skilled
+w: the king’s love  telling  melted  of the Lord  the heart
+tr: Rāmānanda, the king’s minister, was skilled in dealing with people; by telling of the king’s love he softened the Lord’s heart.
+
+## 45
+w: from longing  Pratāparudra  cannot  remain (calm)
+w: Rāmānanda  entreated  the Lord  to meet
+tr: Pratāparudra could no longer bear his longing, and Rāmānanda entreated the Lord to meet him.
+
+## 46
+w: Rāmānanda  at the Lord’s feet  made  a petition
+w: once  to Pratāparudra  show  the feet
+tr: Rāmānanda petitioned at the Lord’s feet: “Just once, show Your feet to Pratāparudra.”
+
+## 47
+w: the Lord  says  Rāmānanda  say  considering
+w: the king  to meet  is it fitting  a sannyāsī  being
+tr: The Lord said, “Rāmānanda, think it over and tell Me: is it fitting for a sannyāsī to meet a king?
+
+## 48
+w: of the king  in the meeting  of a mendicant  both  worlds lost
+w: the next world  let it be  people  make  mockery
+tr: If a mendicant meets a king, both his worlds are lost. Let alone the next world, even here people will mock him.”
+
+## 49
+w: Rāmānanda  says  You  the Lord  independent
+w: whom  Your  fear  You  are not  dependent on others
+tr: Rāmānanda said, “You are the independent Lord. Whom need You fear? You depend on no one.”
+
+## 50
+w: the Lord  says  I  a human being  in āśrama  a sannyāsī
+w: in body, mind and word  in conduct  fear  I feel
+tr: The Lord said, “I am a human being, a sannyāsī by āśrama. In body, mind and word I am fearful about My conduct.
+fn: *Anubhāṣya*: “I am only a man in the fourth āśrama, not Īśvara; therefore I fear to transgress worldly propriety in body, mind and speech” — that is, “I depend on the opinion of others.” Heading in the edition: “The Lord, as if by a ruse, shows Himself bound by injunctions.”
+
+## 51
+w: on white cloth  an ink spot  as  not  is hidden
+w: of a sannyāsī  small  fault  all people  sing of
+tr: As a spot of ink cannot be hidden on white cloth, so everyone talks of a sannyāsī’s slightest fault.”
+
+## 52
+w: Rāya  says  how many  sinners  You have made  delivered
+w: the Lord’s servant  Your  devotee  the Gajapati
+tr: Rāya said, “You have delivered so many sinners! And the Gajapati is a servant of the Lord and Your devotee.”
+
+## 53
+w: the Lord  says  full  as  of milk  a pot
+w: a drop of wine  by falling  anyone  not  makes  touch
+tr: The Lord said, “It is like a pot full of milk: if a single drop of wine falls into it, no one will touch it.
+
+## 54
+w: although  Pratāparudra  possessed of every virtue
+w: him  stained  made  one  the name ‘king’
+tr: Although Pratāparudra has every good quality, the single name ‘king’ has stained him.
+fn: The edition reads *eka ‘rājā’ nāma* (without a hyphen); the Bengali and the transliteration follow the edition. Heading in the edition: “The worldly label ‘*viṣayī*’ destroys every virtue.”
+
+## 55
+w: still  your  if  great insistence  is
+w: then  bringing  have (Me) meet  you  his  son
+tr: Still, if you are so insistent, then bring his son to meet Me.
+fn: *Anubhāṣya*: the son is Puruṣottama Jānā (marked with a question mark).
+
+## 56
+w: ‘the self  indeed  is born  as the son’  this  the word of scripture
+w: of the son  in the meeting  as if  will meet  himself
+tr: Scripture says, ‘One’s self is born as one’s son.’ So when his son meets Me, it will be as if the king himself had met Me.”
+fn: *Anubhāṣya*: these are the Lord’s words in *Śrīmad-Bhāgavatam* 10.78.36: “‘One’s self is born as one’s son’ — such is the teaching of the Vedas”; Śrīdhara Svāmī cites the Vedic blessing “You are my very self, bearing the name of son; live a hundred autumns.”
+
+## 57
+w: then  Rāya  going  all  to the king  told
+w: of the Lord  by the order  his  son  bringing  came
+tr: Rāya then went and told the king everything, and at the Lord’s bidding he brought the king’s son.
+
+## 58
+w: beautiful  of the king  the son  dark of complexion
+w: youthful in age  long  lotus eyes
+tr: The king’s son was beautiful and dark-complexioned, in the bloom of youth, with long lotus eyes.
+
+## 59
+w: in yellow garments  wears  on the body  jewelled ornaments
+w: Śrī  of the remembrance of Kṛṣṇa  he  became  ‘the awakener’
+tr: Dressed in yellow and adorned with jewelled ornaments, he was an *uddīpana*, one who awakens the remembrance of Śrī Kṛṣṇa.
+
+## 60
+w: him  seeing  of Mahāprabhu  remembrance of Kṛṣṇa  arose
+w: in loving absorption  him  embracing  to speak  He began
+tr: Seeing him, Mahāprabhu remembered Kṛṣṇa. Overwhelmed with love, He embraced him and began to speak:
+
+## 61
+w: this one  a mahā-bhāgavata  whose  at the sight
+w: of the son of Vraja’s king  remembrance  arises  in all people
+tr: “Here is a *mahā-bhāgavata*, at whose sight everyone remembers the son of the king of Vraja.
+fn: *Anubhāṣya* (on 59–61): the Lord sees the soul, and has no external vision that looks on body and mind as objects of enjoyment; He does not think of the prince as a worldly man, the son of a *viṣayī*. Himself the *viṣaya-vigraha*, He sees Himself as a gopī and the prince as Vrajendra-nandana Himself; such is the non-dual vision of the pure soul, the “vision of a Vaiṣṇava” (see Madhya 8.277).
+
+## 62
+w: fulfilled  have become  I  his  by the sight
+w: so  saying  did  him  again  embracing
+tr: Seeing him, I have attained My goal.” Saying this, the Lord embraced him again.
+
+## 63
+w: by the Lord’s touch  of the prince  arose  ecstatic love
+w: sweat  trembling  tears  stupor  horripilation  intense
+tr: At the Lord’s touch the prince was overcome with prema: he sweated and trembled, wept, became stunned, and his hair stood on end.
+
+## 64
+w: ‘Kṛṣṇa’  ‘Kṛṣṇa’  he says  he dances  makes  weeping
+w: his  fortune  seeing  praise  make  the devotees
+tr: He cried “Kṛṣṇa! Kṛṣṇa!”, danced and wept. Seeing his good fortune, the devotees praised him.
+
+## 65
+w: then  Mahāprabhu  him  composure  caused
+w: daily  coming  Me  meet  this  order  He gave
+tr: Then Mahāprabhu calmed him and told him, “Come and see Me every day.”
+
+## 66
+w: leave  taking  Rāya  came  the prince  bringing
+w: the king  happiness  felt  of the son  the behaviour  seeing
+tr: Taking leave, Rāya came back with the prince. The king was delighted to see how his son behaved.
+
+## 67
+w: the son  embrace  making  overwhelmed by love  he became
+w: direct  touch  as if  of Mahāprabhu  he received
+tr: Embracing his son, he was overwhelmed with love, as if he had received Mahāprabhu’s touch directly.
+
+## 68
+w: that  from  fortunate  of the king  the son
+w: among the Lord’s devotees  became  one
+tr: From then on the fortunate prince was one of the Lord’s devotees.
+
+## 69
+w: thus  Mahāprabhu  with the devotees
+w: constantly  play  does  in the joy of saṅkīrtana
+tr: In this way Mahāprabhu constantly enjoyed His pastimes with His devotees in the joy of saṅkīrtana.
+
+## 70
+w: the Ācārya and others  devotees  make  the Lord  invitation
+w: there  there  alms  He takes  taking  the devotees
+tr: Advaita Ācārya and other devotees would invite the Lord, and He would take His meal at each of their homes together with His devotees.
+
+## 71
+w: thus  in various  joys  days  some  passed
+w: of Jagannātha  the Ratha-yātrā  near  became
+tr: So, amid many joys, some days passed, and Jagannātha’s Ratha-yātrā drew near.
+
+## 72
+w: first of all  Kāśī Miśra  the Lord  called
+w: the paḍichā-pātra  Sārvabhauma  calling  He brought
+tr: First the Lord called Kāśī Miśra; then He sent for the *paḍichā-pātra* and Sārvabhauma.
+
+## 73
+w: to the three persons  the Lord  smiling  said
+w: the service of cleaning the Guṇḍicā temple  begging  He took
+tr: Smiling, the Lord spoke to the three of them and begged for the service of cleaning the Guṇḍicā temple.
+fn: *Anubhāṣya*: the Guṇḍicā temple stands one *krośa* north-east of the Śrī Mandira; at Ratha-yātrā Śrī Jagannātha goes there for a week and then returns on His chariot. By tradition, Guṇḍicā was the name of King Indradyumna’s queen.
+
+## 74
+w: the paḍichā  says  we all  servants  Your
+w: what  Your  wish  that  duty  our
+tr: The *paḍichā* said, “We are all Your servants. Whatever You wish is our duty.
+
+## 75
+w: especially  of the king  the order  has been  to me
+w: of the Lord  the order  whatever  that  quickly  to carry out
+tr: Moreover, the king has specially ordered me to carry out at once whatever the Lord commands.
+
+## 76
+w: for You  fitting  service  is not  the cleaning of the temple
+w: this  one  pastime  You perform  as  Your  mind
+tr: Cleaning the temple is not a service worthy of You. But if it is Your wish, it will be one of Your pastimes.
+fn: Heading in the edition: “The *paḍichā* does not know the hidden meaning of cleaning the Guṇḍicā temple.”
+
+## 77
+w: but  pots  brooms  many  are needed
+w: the order  give  today  all  here  bringing  I give
+tr: Many pots and brooms will be needed, though. Give the order, and I shall bring them all here today.”
+
+## 78
+w: new  one hundred  pots  a hundred  brooms
+w: the paḍichā  bringing  gave  of the Lord  the wish  knowing
+tr: Knowing the Lord’s wish, the *paḍichā* brought a hundred new pots and a hundred brooms.
+
+## 79
+w: on the next  day  in the morning  taking  His own people
+w: with His divine  hand  of all  on the bodies  smeared  sandal paste
+tr: Early the next day the Lord gathered His own devotees and with His own hand anointed them all with sandal paste.
+
+## 80
+w: with His divine  hand  gave  to all  one  each  broom
+w: all His people  taking  the Lord  went  Himself
+tr: With His own hand He gave each of them a broom, and the Lord Himself set out, taking them all with Him.
+
+## 81
+w: to the Guṇḍicā temple  He went  to do  cleaning
+w: first  brooms  taking  made  cleansing
+tr: He went to clean the Guṇḍicā temple, and first of all He took a broom and swept it.
+fn: Heading in the edition: “First the Lord Himself sets the example.”
+
+## 82
+w: inside  the temple  above  all  He scrubbed
+w: the throne  scrubbing  again  placing  He did
+tr: He scrubbed everything inside the temple, even the ceiling; He cleaned the throne and set it back in its place.
+fn: *Anubhāṣya*: in the main shrine of the Guṇḍicā temple there is a jewelled altar (*ratna-vedi*) twelve cubits long and two cubits high; this is the throne (*siṁhāsana*).
+
+## 83
+w: small and large  shrines  did  sweeping and cleansing
+w: afterwards  likewise  cleansed  Śrī  Jagamohana
+tr: He swept and cleaned the small and large shrines, and afterwards cleaned the Śrī Jagamohana in the same way.
+fn: *Anubhāṣya*: the Śrī Jagamohana is the hall between the main shrine and the *nāṭya-mandira*, thirty-two cubits long.
+
+## 84
+w: on four sides  a hundred  devotees  sweeping  do
+w: Himself  cleans  the Lord  teaches  all
+tr: On every side a hundred devotees were sweeping. The Lord Himself cleaned and taught them all.
+
+## 85
+w: in the joy of love  He cleans  He takes  Kṛṣṇa’s name
+w: the devotees  ‘Kṛṣṇa’  say  do  their own work
+tr: Joyful with love, He cleaned and chanted Kṛṣṇa’s name; the devotees, too, chanted “Kṛṣṇa!” as they did their work.
+
+## 86
+w: grey with dust  body  to see  beautiful
+w: in some places  in places  with the water of tears  does  cleaning
+tr: His body, grey with dust, was beautiful to see. In places He washed the floor with the water of His tears.
+
+## 87
+w: the bhoga-mandira  cleansing  having done  cleansed  the courtyard
+w: all  the quarters  in turn  did  cleansing
+tr: After cleaning the *bhoga-mandira* He cleaned the courtyard, and then, one after another, all the rooms.
+
+## 88
+w: straw  dust  grit  all  together  making
+w: in the outer cloth  taking  throws away  outside  carrying
+tr: He gathered straw, dust and grit into one heap, took it up in His outer cloth and carried it outside to throw it away.
+
+## 89
+w: in this way  the devotees  doing  in their own cloths
+w: straw  dust  outside  throw away  with great joy
+tr: In the same way the devotees gathered straw and dust in their own cloths and threw it outside with great joy.
+
+## 90
+w: the Lord  says  who  how much  has done  sweeping
+w: straw  dust  just by seeing  I shall know  the labour
+tr: The Lord said, “Who has swept how much? Just by seeing your straw and dust I shall know how hard you have worked.”
+fn: Heading in the edition: “Who has cleaned how much is seen by the amount of dirt gathered.”
+
+## 91
+w: of all  the sweepings  bundles  together  He made
+w: all  than  of the Lord  the bundle  more  was
+tr: All the heaps of sweepings were put together, and the Lord’s heap was larger than everyone else’s.
+fn: Heading in the edition: “The Lord’s own cleaning brought the Guṇḍicā the greatest purity.”
+
+## 92
+w: thus  the interior  He did  cleaning
+w: again  to all  He gave  making  distribution
+tr: When the inside had been cleaned in this way, He again divided the work among them all:
+
+## 93
+w: fine  dust  straw  pebbles  all  make  away
+w: thoroughly  cleaning  do  of the Lord  the inner chamber
+tr: “Remove all the fine dust, straw and pebbles. Clean the Lord’s inner chamber thoroughly.”
+
+## 94
+w: all  the Vaiṣṇavas  taking  when  twice  He cleansed
+w: seeing  of Mahāprabhu  in the mind  satisfaction  arose
+tr: When He and all the Vaiṣṇavas had cleaned it twice, Mahāprabhu was satisfied to see it.
+
+## 95
+w: another  hundred persons  in a hundred pots  water  filling
+w: from the start  holding  are there  the time  waiting  doing
+tr: Another hundred people had filled a hundred pots with water and stood holding them from the start, waiting for the moment.
+
+## 96
+w: ‘water  bring’  saying  when  Mahāprabhu  spoke
+w: then  a hundred  pots  bringing  the Lord  before  they placed
+tr: When Mahāprabhu called out, “Bring water!”, they brought the hundred pots and set them before the Lord.
+
+## 97
+w: first  did  the Lord  of the temple  washing
+w: above and below  the walls  inside the room  the throne
+tr: First the Lord washed the temple: the walls from top to bottom, the inside of the room and the throne.
+
+## 98
+w: clay bowls  filling  water  upward  He threw
+w: with that  water  the top  cleansing  the walls  He washed
+tr: Filling clay bowls with water, He threw it up high; with that water He cleaned the ceiling and washed the walls.
+
+## 99
+w: with His divine  hand  He does  of the throne  cleaning
+w: before the Lord  water  bringing  give  the devotees
+tr: With His own hand He cleaned the throne, while the devotees brought water and set it before Him.
+
+## 100
+w: the devotees  do  inside the room  washing
+w: own  own  with hands  do  of the temple  cleaning
+tr: The devotees washed the inside of the room, each cleaning the temple with his own hands.
+
+## 101
+w: someone  water  bringing  gives  of Mahāprabhu  into the hands
+w: someone  water  pours  His  upon the feet
+tr: Some brought water and poured it into Mahāprabhu’s hands; some poured water over His feet.
+
+## 102
+w: someone  secretly  does  that  water-drinking
+w: someone  begging  takes  someone  to others  makes  gift
+tr: Some secretly drank that water; some begged for it, and some gave it to others.
+
+## 103
+w: the room  washing  into the drain  the water  letting go  gave
+w: by that  water  the courtyard  all  filled  remained
+tr: When the rooms had been washed, they let the water out through the drain, and it flooded the whole courtyard.
+
+## 104
+w: with His own cloth  did  the Lord  of the room  cleaning
+w: Mahāprabhu  with His own cloth  polished  the throne
+tr: With His own cloth the Lord wiped the room, and with His own cloth Mahāprabhu polished the throne.
+
+## 105
+w: of a hundred  pots  with the water  was  of the temple  cleaning
+w: the temple  cleansing  He made  like  His own  mind
+tr: The temple was washed with the water of a hundred pots. Cleansing it, He made it like His own heart.
+fn: Heading in the edition: “The cleaned and washed temple compared to the pure heart of Śrī Rādhā.”
+
+## 106
+w: spotless  cool  soothing  He made  the temple
+w: His own heart  as if  He held  outside
+tr: He made the temple spotless, cool and soothing, as if He had brought His own heart outside.
+
+## 107
+w: hundreds and hundreds  people  water  fill  at the lake
+w: at the ghāṭa  room  there is not  some  at the well  water  fill
+tr: Hundreds upon hundreds of people drew water from the lake. There was no room left at the bathing *ghāṭa*, so some drew water from a well.
+
+## 108
+w: full  pots  carrying  come  a hundred  devotees
+w: empty  pots  carrying  go  another  hundred  persons
+tr: A hundred devotees came carrying full pots, and another hundred went off with the empty ones.
+
+## 109
+w: Nityānanda  Advaita  Svarūpa  Bhāratī  Purī
+w: them  except  other  all  bring  water  filling
+tr: Except for Nityānanda, Advaita, Svarūpa, Bhāratī and Purī, everyone filled pots and brought water.
+fn: *Anubhāṣya*: the Vaiṣṇavas were busy carrying water, while these five — Prabhu Nityānanda, Advaita, Dāmodara-svarūpa, Brahmānanda Bhāratī and Paramānanda Purī — took water together with Mahāprabhu and cleaned the temple.
+
+## 110
+w: pot  against pot  knocking  some  pots  breaking  went
+w: hundreds  hundreds  pots  people  there  bringing  came
+tr: Many pots broke as they knocked against one another, and people brought hundreds more.
+
+## 111
+w: water  they fill  the room  they wash  they make  the sound of Hari’s name
+w: ‘Kṛṣṇa’  ‘Hari’  sound  except  other  not  is heard
+tr: They filled pots, washed the rooms and called out the name of Hari. Apart from the sounds “Kṛṣṇa!” and “Hari!”, nothing else could be heard.
