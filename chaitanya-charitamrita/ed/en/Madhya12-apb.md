@@ -30,6 +30,10 @@ One day Śrī Kṛṣṇa, with the cowherd boys and the herds of cows, came nea
 
 As the king's minister, Rāmānanda Rāya was highly skilled in every kind of business, including affairs of state. So he described the king's love for Mahāprabhu and melted the Lord's heart.
 
+## 103
+
+*Praṇālikāya*: into the drain.
+
 ---
 
 [^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.

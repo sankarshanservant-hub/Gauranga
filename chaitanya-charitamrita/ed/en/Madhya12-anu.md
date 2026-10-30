@@ -314,6 +314,76 @@ In the main temple of the Guṇḍicā there is a jeweled altar (*ratna-vedī*) 
 
 The *bhoga-mandira* is 40 cubits long and 17 wide.
 
+## 88
+
+> Subheading: The devotees carry out the straw, dust and so on —
+
+## 90
+
+> Subheading: How much each has cleaned is seen from the amount of dirt collected —
+
+## 91
+
+> Subheading: The Lord's own cleaning made the Guṇḍicā cleanest of all —
+
+## 92
+
+> Subheading: The Lord, whom all serve, Himself serves together with His servants —
+
+## 93
+
+> Subheading: The Lord orders the temple to be rid of all dirt —
+
+## 94
+
+> Subheading: The coverings are removed twice —
+
+## 95
+
+> Subheading: Another group of devotees helps clean the temple —
+
+## 97
+
+> Subheading: The temple is washed everywhere —
+
+## 99
+
+> Subheading: With His own hands the Lord washes Bhagavān's throne —
+
+## 100
+
+> Subheading: The devotees' varied service —
+
+## 103
+
+> Subheading: The water is let out through the drain —
+
+## 104
+
+> Subheading: With His own cloth the Lord wipes the room and the throne —
+
+## 105
+
+> Subheading: The cleaned and washed temple is likened to Śrī Rādhā's pure heart —
+
+## 107
+
+> Subheading: Hundreds of devotees strive to clean the temple —
+
+## 109
+
+> Subheading: Nityānanda, Advaita, Svarūpa, Bhāratī, Purī and others wash the temple, while the other devotees bring water —
+
+The Vaiṣṇavas were busy bringing water. But Nityānanda Prabhu, Advaita, Dāmodara-svarūpa, Brahmānanda Bhāratī and Paramānanda Purī — these five took water together with Mahāprabhu and were busy cleaning.
+
+## 110
+
+> Subheading: Everyone is eager to clean and wash the temple —
+
+## 111
+
+> Subheading: While the temple is being cleaned and washed, the names of Kṛṣṇa are sung all the time —
+
 ---
 
 [^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
