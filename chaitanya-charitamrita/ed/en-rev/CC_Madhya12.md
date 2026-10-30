@@ -1715,7 +1715,7 @@ once more  that  food  he makes  watching
 tām̐ra bhaye prabhu kichu karena bhakṣaṇa  
 of him  out of fear  the Lord  a little  does  eating
 
-(171) Then Jagadānanda would keep his eye on that food, and for fear of him the Lord would eat a little.[^45]
+(171) Then Jagadānanda would keep his eye on that food, and for fear of him the Lord would take a few bites.[^45]
 
 না খাইলে জগদানন্দ করিবে উপবাস ৷  
 তাঁর আগে কিছু খা’ন — মনে ঐ ত্রাস ॥ ১৭২ ॥
@@ -1855,7 +1855,7 @@ the Lord  says  formerly  perfected  for Kṛṣṇa  your  love
 tomā-saṅge āmā-sabāra haila kṛṣṇe mati  
 in your company  of us all  arose  for Kṛṣṇa  the mind
 
-(185) The Lord said, “Your love for Kṛṣṇa was already perfected before. In your company all of us have turned our minds to Kṛṣṇa.”
+(185) The Lord said, “Your love for Kṛṣṇa was perfect long before. In your company all of us have turned our minds to Kṛṣṇa.”
 
 ভক্ত-মহিমা বাড়াইতে, ভক্তে সুখ দিতে ৷  
 মহাপ্রভু বিনা অন্য নাহি ত্রিজগতে ॥ ১৮৬ ॥
@@ -1935,7 +1935,7 @@ Nityānanda  says  You  Advaita Ācārya
 ‘advaita-siddhānte’ bādhe śuddha-bhakti-kārya  
 by the “doctrine of non-duality”  is obstructed  the work of pure devotion
 
-(193) Nityānanda replied, “You are Advaita Ācārya — the teacher of non-duality! The ‘doctrine of non-duality’ obstructs the practice of pure devotion.[^51]
+(193) Nityānanda replied, “You are Advaita Ācārya, the teacher of non-duality! The ‘doctrine of non-duality’ obstructs the practice of pure devotion.[^51]
 
 তোমার সিদ্ধান্ত-সঙ্গ করে যেই জনে ৷  
 ‘এক’ বস্তু বিনা সেই ‘দ্বিতীয়’ নাহি মানে ॥ ১৯৪ ॥
@@ -2035,7 +2035,7 @@ independent  Supreme Lord  the Lord  plays  various  games
 ‘dhoyā-pākhalā’ nāma kaila ei eka līlā  
 “washing and scrubbing”  by name  He made  this  one  pastime
 
-(203) The Lord is the independent Supreme Lord and plays many kinds of games. This one pastime He called “washing and scrubbing” (*dhoyā-pākhalā*).[^56]
+(203) Independent and supreme, the Lord plays many kinds of games. This one pastime He called “washing and scrubbing” (*dhoyā-pākhalā*).[^56]
 
 আর দিনে জগন্নাথের ‘নেত্রোৎসব’ নাম ৷  
 মহোৎসব হৈল ভক্তের প্রাণ-সমান ॥ ২০৪ ॥
@@ -2175,7 +2175,7 @@ perspiration  trembling  tears  flow  all the time
 darśanera lobhe prabhu kare saṁvaraṇa  
 of seeing  out of longing  the Lord  makes  restraint
 
-(217) Perspiration, trembling and tears flowed from Him all the while, but in His longing to see, the Lord held them back.[^64]
+(217) Perspiration and tears flowed from Him, and He trembled all the while; but in His longing to see, the Lord held Himself back.[^64]
 
 মধ্যে মধ্যে ভোগ লাগে, মধ্যে দরশন ৷  
 ভোগের সময়ে প্রভু করেন কীর্ত্তন ॥ ২১৮ ॥
@@ -2195,7 +2195,7 @@ in the bliss of seeing  the Lord  everything  forgot
 bhakta-gaṇa madhyāhnete prabhure lañā gelā  
 the devotees  at midday  the Lord  taking  went
 
-(219) In the bliss of seeing Him, the Lord forgot everything, and at midday the devotees took Him away.[^65]
+(219) In the bliss of seeing Him, the Lord forgot everything, and at midday the devotees took Him home.[^65]
 
 প্রাতঃকালে রথযাত্রা হবেক জানিয়া ৷  
 সেবক লাগায় ভোগ দ্বিগুণ করিয়া ॥ ২২০ ॥
