@@ -1528,7 +1528,7 @@ on the bank  climbing up  puts on  the Lord  dry  cloth
 nṛsiṁha-deve namaskari’ gelā upavana  
 to Nṛsiṁhadeva  bowing down  He went  to the garden
 
-(152) Coming up onto the bank, the Lord put on dry cloth, bowed down to Nṛsiṁhadeva, and went into the garden.
+(152) Coming up onto the bank, the Lord put on dry cloth, bowed down to Nṛsiṁhadeva, and went into the garden.[^40]
 
 উদ্যানে বসিলা প্রভু ভক্তগণ লঞা ৷  
 তবে বাণীনাথ আইলা মহাপ্রসাদ লঞা ॥ ১৫৩ ॥
@@ -1538,7 +1538,7 @@ in the garden  sat  the Lord  the devotees  with
 tabe vāṇīnātha āilā mahā-prasāda lañā  
 then  Vāṇīnātha  came  mahā-prasāda  bringing
 
-(153) The Lord sat down in the garden with the devotees, and then Vāṇīnātha arrived with *mahā-prasāda*.
+(153) The Lord sat down in the garden with the devotees, and then Vāṇīnātha arrived with mahā-prasāda.
 
 কাশীমিশ্র, তুলসী-পড়িছা — দুইজন ৷  
 পঞ্চশত লোকে যত করয়ে ভোজন ॥ ১৫৪ ॥
@@ -1588,7 +1588,7 @@ the Lord’s order  receiving  sits  himself  Sārvabhauma
 piṇḍāra upare prabhu vaise lañā bhakta-gaṇa  
 the wooden seat  upon  the Lord  sits  with  the devotees
 
-(158) at the Lord’s bidding Sārvabhauma, too, sat down; and the Lord sat on a raised wooden seat (*piṇḍā*) together with these devotees.
+(158) at the Lord’s bidding Sārvabhauma, too, sat down; and the Lord sat on a raised wooden seat (*piṇḍā*) together with these devotees.[^41]
 
 তার তলে, তার তলে করি’ অনুক্রম ৷  
 উদ্যান ভরি’ বৈসে ভক্ত করিতে ভোজন ॥ ১৫৯ ॥
@@ -1618,7 +1618,7 @@ with the devotees  the Lord  may He make  of prasāda  acceptance
 e-saṅge vasite yogya nahi muñi chāra  
 in this company  to sit  fit  am not  I  worthless
 
-(161) “Let the Lord take *prasāda* with the devotees. Worthless as I am, I am not fit to sit in this company.
+(161) “Let the Lord take prasāda with the devotees. Worthless as I am, I am not fit to sit in this company.[^42]
 
 পাছে মোরে প্রসাদ গোবিন্দ দিবে বহির্দ্বারে ৷  
 মন জানি’ প্রভু পুনঃ না বলিল তাঁরে ॥ ১৬২ ॥
@@ -1628,7 +1628,7 @@ later  to me  prasāda  Govinda  will give  outside the gate
 mana jāni’ prabhu punaḥ nā balila tām̐re  
 the mind  knowing  the Lord  again  not  called  to him
 
-(162) Later Govinda will give me *prasāda* outside the gate.” Knowing his mind, the Lord did not call him again.
+(162) Later Govinda will give me prasāda outside the gate.” Knowing his mind, the Lord did not call him again.
 
 স্বরূপ-গোসাঞি, জগদানন্দ, দামোদর ৷  
 কাশীশ্বর, গোপীনাথ, বাণীনাথ, শঙ্কর ॥ ১৬৩ ॥
@@ -1665,7 +1665,7 @@ although  in the absorption of love  the Lord  became  unsteady
 samaya bujhiyā prabhu hailā kichu dhīra  
 the occasion  understanding  the Lord  became  somewhat  composed
 
-(166) Though the absorption of love shook the Lord, He understood the occasion and composed Himself somewhat.
+(166) Though the absorption of love shook the Lord, He understood the occasion and composed Himself somewhat.[^43]
 
 প্রভু কহে, — মোরে দেহ’ লাফ্রা-ব্যঞ্জনে ৷  
 পিঠা-পানা, অমৃত-গুটিকা দেহ’ ভক্তগণে ॥ ১৬৭ ॥
@@ -1675,7 +1675,7 @@ the Lord  says  to Me  give  lāphrā vegetables
 piṭhā-pānā, amṛta-guṭikā deha’ bhakta-gaṇe  
 cakes and sweet drinks  amṛta-guṭikā  give  to the devotees
 
-(167) The Lord said, “Give Me the *lāphrā*, the plain mixed vegetables, and give the devotees the cakes, sweet drinks and *amṛta-guṭikā*.”
+(167) The Lord said, “Give Me the *lāphrā*, the plain mixed vegetables, and give the devotees the cakes, sweet drinks and *amṛta-guṭikā*.”[^44]
 
 সর্ব্বজ্ঞ প্রভু জানেন, যাঁরে যেই ভায় ৷  
 তাঁরে তাঁরে সেই দেওয়ায় স্বরূপ-দ্বারায় ॥ ১৬৮ ॥
@@ -1715,7 +1715,7 @@ once more  that  food  he makes  watching
 tām̐ra bhaye prabhu kichu karena bhakṣaṇa  
 of him  out of fear  the Lord  a little  does  eating
 
-(171) Then he would keep his eye on that food, and out of fear of him the Lord would eat a little.
+(171) Then Jagadānanda would keep his eye on that food, and for fear of him the Lord would eat a little.[^45]
 
 না খাইলে জগদানন্দ করিবে উপবাস ৷  
 তাঁর আগে কিছু খা’ন — মনে ঐ ত্রাস ॥ ১৭২ ॥
@@ -1735,7 +1735,7 @@ Svarūpa Gosāñi  choice  sweet prasāda  taking
 prabhuke nivedana kare āge dāṇḍāñā  
 to the Lord  offering  makes  in front  standing
 
-(173) Svarūpa Gosāñi would take some choice sweet *prasāda*, stand before the Lord and offer it to Him:
+(173) Svarūpa Gosāñi would take some choice sweet prasāda, stand before the Lord and offer it to Him:
 
 এই মহাপ্রসাদ অল্প করহ আস্বাদন ৷  
 দেখ, জগন্নাথ কৈছে কর্য্যাছেন ভোজন ॥ ১৭৪ ॥
@@ -1745,7 +1745,7 @@ this  mahā-prasāda  a little  make  tasting
 dekha, jagannātha kaiche karyāchena bhojana  
 look  Jagannātha  how  has made  eating
 
-(174) “Taste a little of this *mahā-prasāda*. See how Jagannātha has eaten of it!”
+(174) “Taste a little of this mahā-prasāda. See how Jagannātha has eaten of it!”
 
 এত বলি’ আগে কিছু করে সমর্পণ ৷  
 তাঁর স্নেহে প্রভু কিছু করেন ভোজন ॥ ১৭৫ ॥
@@ -1785,7 +1785,7 @@ to Sārvabhauma  has given  the Lord  prasāda  the best
 sneha kari’ bāra bāra karāna bhojana  
 affection  showing  again and again  He makes  eat
 
-(178) The Lord had the best *prasāda* served to Sārvabhauma, and out of affection He made him eat again and again.
+(178) The Lord had the best prasāda served to Sārvabhauma, and out of affection He made him eat again and again.
 
 গোপীনাথাচার্য্য উত্তম মহাপ্রসাদ আনি’ ৷  
 সার্ব্বভৌমে দিয়া কহে সুমধুর বাণী ॥ ১৭৯ ॥
@@ -1795,7 +1795,7 @@ Gopīnātha Ācārya  excellent  mahā-prasāda  bringing
 sārvabhaume diyā kahe sumadhura vāṇī  
 to Sārvabhauma  giving  speaks  very sweet  words
 
-(179) Gopīnātha Ācārya brought excellent *mahā-prasāda*, gave it to Sārvabhauma, and spoke very sweet words:
+(179) Gopīnātha Ācārya brought excellent mahā-prasāda, gave it to Sārvabhauma, and spoke very sweet words:
 
 কাঁহা ভট্টাচার্য্যের পূর্ব্ব জড়-ব্যবহার ৷  
 কাঁহা এই পরমানন্দ, — করহ বিচার ॥ ১৮০ ॥
@@ -1805,7 +1805,7 @@ where  the Bhaṭṭācārya’s  former  worldly dealings
 kām̐hā ei paramānanda, — karaha vicāra  
 where  this  supreme bliss  make  consideration
 
-(180) “Just consider: where were the Bhaṭṭācārya’s former worldly dealings, and where is this supreme bliss now!”
+(180) “Just consider: where were the Bhaṭṭācārya’s former worldly dealings, and where is this supreme bliss now!”[^46]
 
 সার্ব্বভৌম কহে, — আমি তার্কিক কুবুদ্ধি ৷  
 তোমার প্রসাদে মোর এ সম্পৎ-সিদ্ধি ॥ ১৮১ ॥
@@ -1825,7 +1825,7 @@ Mahāprabhu  apart from  anyone  is not  merciful
 kākere garuḍa kare, — aiche kon haya  
 the crow  into Garuḍa  He makes  such  who  is
 
-(182) No one is as merciful as Mahāprabhu. He turns a crow into a Garuḍa — who else is like that?
+(182) No one is as merciful as Mahāprabhu. He turns a crow into a Garuḍa. Who else is like that?
 
 তার্কিক-শৃগাল-সঙ্গে ভেউ-ভেউ করি ৷  
 সেই মুখে এবে সদা কহি ‘কৃষ্ণ’ ‘হরি’ ॥ ১৮৩ ॥
@@ -1845,7 +1845,7 @@ where  averse to the Lord  with logician disciples  company
 kām̐hā ei saṅga-sudhā-samudra-taraṅge  
 where  this  of company’s nectar  of the ocean  in the waves
 
-(184) Where was I then, in the company of disciples who were logicians averse to the Lord, and where am I now, in the waves of this ocean of nectarean company!”
+(184) Where was I then, among my logician disciples who had turned away from the Lord, and where am I now, amid the waves of this nectar ocean of holy company!”[^47]
 
 প্রভু কহে, — পূর্ব্বে সিদ্ধ কৃষ্ণে তোমার প্রীতি ৷  
 তোমা-সঙ্গে আমা-সবার হৈল কৃষ্ণে মতি ॥ ১৮৫ ॥
@@ -1875,7 +1875,7 @@ then  the Lord  to each one  of all  the devotees  the names  taking
 piṭhā-pānā deoyāila prasāda kariyā  
 cakes and sweet drinks  had given  as prasāda  making
 
-(187) Then the Lord, calling each devotee by name, had cakes and sweet drinks given to all as His *prasāda*.
+(187) Then the Lord, calling each devotee by name, had cakes and sweet drinks given to all as His prasāda.
 
 অদ্বৈত-নিত্যানন্দ বসিয়াছেন এক ঠাঞি ৷  
 দুইজনে ক্রীড়া-কলহ লাগিল তথাই ॥ ১৮৮ ॥
@@ -1895,7 +1895,7 @@ Advaita  says  with an avadhūta  together  in one  row
 bhojana karilum̐, nā jāni habe kon gati  
 eating  I have done  not  I know  will be  what  destination
 
-(189) Advaita said, “I have eaten in the same row as an *avadhūta*! I do not know what will become of me.
+(189) Advaita said, “I have eaten in the same row as an avadhūta! I do not know what will become of Me.
 
 প্রভু ত’ সন্ন্যাসী, উঁহার নাহি অপচয় ৷  
 অন্ন-দোষে সন্ন্যাসীর দোষ নাহি হয় ॥ ১৯০ ॥
@@ -1905,7 +1905,7 @@ the Lord  indeed  a sannyāsī  for Him  is not  any loss
 anna-doṣe sannyāsīra doṣa nāhi haya  
 by faults in food  of a sannyāsī  fault  not  occurs
 
-(190) The Lord is a *sannyāsī*: He loses nothing by it. Faults in food bring no fault to a *sannyāsī*.
+(190) The Lord is a sannyāsī: He loses nothing by it. Faults in food bring no fault to a sannyāsī.[^48]
 
 ‘নান্নদোষেণ মস্করী’ — এই শাস্ত্র-প্রমাণ ৷  
 আমি ত’ গৃহস্থ-ব্রাহ্মণ, আমার দোষ-স্থান ॥ ১৯১ ॥
@@ -2306,3 +2306,21 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^38]: Heading in the edition: “Advaita tries to revive his son with the mantra of Nṛsiṁha.”
 
 [^39]: *Anubhāṣya*: this story of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
+
+[^40]: *Amṛta-pravāha-bhāṣya* (on 151–152): near the Guṇḍicā temple lies the Indradyumna lake; the Lord bathed in it, bowed down to Nṛsiṁhadeva and went into the garden.
+
+[^41]: *Anubhāṣya*: *piṇḍā* (an Oriya word) is a wooden seat.
+
+[^42]: Heading in the edition: “Haridāsa’s natural humility and his reverence for the pure devotees.”
+
+[^43]: Heading in the edition: “The Lord restrains Himself and His feelings.”
+
+[^44]: The first line is the same as in Madhya 6.43. Heading in the edition: “The Lord’s pastime of renunciation”; *Anubhāṣya*: see Madhya 6.43–44. *Amṛta-pravāha-bhāṣya*: *lāphrā* is a plain vegetable dish, like a simple *caccarī*, which is mixed with rice and given out to the poor; *amṛta-guṭikā* are thick *purīs* soaked in thickened milk, commonly called *amṛta-rasāvalī*.
+
+[^45]: The subject of the first line is not named; from 170 and 172 (*tāṅra āge*, “in front of him”) it is Jagadānanda, watching whether the Lord eats. Heading in the edition: “Fearing Jagadānanda’s displeasure, the Lord eats a little at a time.”
+
+[^46]: *Anubhāṣya*: formerly Sārvabhauma held to the reasoning of the smārtas and to worldly views and had no transcendental faith in prasāda, in Govinda’s name or in the Vaiṣṇavas; now, by Mahāprabhu’s grace, he had gained that faith and found the highest bliss in honouring prasāda.
+
+[^47]: *Anubhāṣya*: the *bahirmukha*, “those turned outward”, are those who think themselves enjoyers of outer forms and tastes, are busy gratifying their senses and have turned away from Kṛṣṇa’s service (cf. Śrīmad-Bhāgavatam, 7.5.30–31).
+
+[^48]: Heading in the edition: “A sannyāsī is not defiled by food.”

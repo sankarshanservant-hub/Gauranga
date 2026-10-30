@@ -805,11 +805,12 @@ tr: Then, after resting a little, Mahāprabhu went with the devotees to bathe.
 w: on the bank  climbing up  puts on  the Lord  dry  cloth
 w: to Nṛsiṁhadeva  bowing down  He went  to the garden
 tr: Coming up onto the bank, the Lord put on dry cloth, bowed down to Nṛsiṁhadeva, and went into the garden.
+fn: *Amṛta-pravāha-bhāṣya* (on 151–152): near the Guṇḍicā temple lies the Indradyumna lake; the Lord bathed in it, bowed down to Nṛsiṁhadeva and went into the garden.
 
 ## 153
 w: in the garden  sat  the Lord  the devotees  with
 w: then  Vāṇīnātha  came  mahā-prasāda  bringing
-tr: The Lord sat down in the garden with the devotees, and then Vāṇīnātha arrived with *mahā-prasāda*.
+tr: The Lord sat down in the garden with the devotees, and then Vāṇīnātha arrived with mahā-prasāda.
 
 ## 154
 w: Kāśī Miśra  Tulasī the temple superintendent  the two
@@ -835,6 +836,7 @@ tr: Ācāryaratna, Ācāryanidhi, Śrīvāsa, Gadādhara, Śaṅkara, Nandanāc�
 w: the Lord’s order  receiving  sits  himself  Sārvabhauma
 w: the wooden seat  upon  the Lord  sits  with  the devotees
 tr: at the Lord’s bidding Sārvabhauma, too, sat down; and the Lord sat on a raised wooden seat (*piṇḍā*) together with these devotees.
+fn: *Anubhāṣya*: *piṇḍā* (an Oriya word) is a wooden seat.
 
 ## 159
 w: below that  below that  making  in order
@@ -849,12 +851,13 @@ tr: The Lord called again and again, “Haridāsa!” But Haridāsa stayed at a 
 ## 161
 w: with the devotees  the Lord  may He make  of prasāda  acceptance
 w: in this company  to sit  fit  am not  I  worthless
-tr: “Let the Lord take *prasāda* with the devotees. Worthless as I am, I am not fit to sit in this company.
+tr: “Let the Lord take prasāda with the devotees. Worthless as I am, I am not fit to sit in this company.
+fn: Heading in the edition: “Haridāsa’s natural humility and his reverence for the pure devotees.”
 
 ## 162
 w: later  to me  prasāda  Govinda  will give  outside the gate
 w: the mind  knowing  the Lord  again  not  called  to him
-tr: Later Govinda will give me *prasāda* outside the gate.” Knowing his mind, the Lord did not call him again.
+tr: Later Govinda will give me prasāda outside the gate.” Knowing his mind, the Lord did not call him again.
 
 ## 163–164
 w: Svarūpa Gosāñi  Jagadānanda  Dāmodara
@@ -872,11 +875,13 @@ tr: Mahāprabhu remembered the pastime of long ago when Kṛṣṇa ate with His
 w: although  in the absorption of love  the Lord  became  unsteady
 w: the occasion  understanding  the Lord  became  somewhat  composed
 tr: Though the absorption of love shook the Lord, He understood the occasion and composed Himself somewhat.
+fn: Heading in the edition: “The Lord restrains Himself and His feelings.”
 
 ## 167
 w: the Lord  says  to Me  give  lāphrā vegetables
 w: cakes and sweet drinks  amṛta-guṭikā  give  to the devotees
 tr: The Lord said, “Give Me the *lāphrā*, the plain mixed vegetables, and give the devotees the cakes, sweet drinks and *amṛta-guṭikā*.”
+fn: The first line is the same as in Madhya 6.43. Heading in the edition: “The Lord’s pastime of renunciation”; *Anubhāṣya*: see Madhya 6.43–44. *Amṛta-pravāha-bhāṣya*: *lāphrā* is a plain vegetable dish, like a simple *caccarī*, which is mixed with rice and given out to the poor; *amṛta-guṭikā* are thick *purīs* soaked in thickened milk, commonly called *amṛta-rasāvalī*.
 
 ## 168
 w: all-knowing  the Lord  knows  whom  what  pleases
@@ -896,7 +901,8 @@ tr: Though the Lord grew angry with him for it, Jagadānanda still gave Him such
 ## 171
 w: once more  that  food  he makes  watching
 w: of him  out of fear  the Lord  a little  does  eating
-tr: Then he would keep his eye on that food, and out of fear of him the Lord would eat a little.
+tr: Then Jagadānanda would keep his eye on that food, and for fear of him the Lord would eat a little.
+fn: The subject of the first line is not named; from 170 and 172 (*tāṅra āge*, “in front of him”) it is Jagadānanda, watching whether the Lord eats. Heading in the edition: “Fearing Jagadānanda’s displeasure, the Lord eats a little at a time.”
 
 ## 172
 w: not  if He eats  Jagadānanda  will make  a fast
@@ -906,12 +912,12 @@ tr: If He did not eat, Jagadānanda would fast. With this fear in His mind, the 
 ## 173
 w: Svarūpa Gosāñi  choice  sweet prasāda  taking
 w: to the Lord  offering  makes  in front  standing
-tr: Svarūpa Gosāñi would take some choice sweet *prasāda*, stand before the Lord and offer it to Him:
+tr: Svarūpa Gosāñi would take some choice sweet prasāda, stand before the Lord and offer it to Him:
 
 ## 174
 w: this  mahā-prasāda  a little  make  tasting
 w: look  Jagannātha  how  has made  eating
-tr: “Taste a little of this *mahā-prasāda*. See how Jagannātha has eaten of it!”
+tr: “Taste a little of this mahā-prasāda. See how Jagannātha has eaten of it!”
 
 ## 175
 w: so  saying  in front  a little  he makes  offering
@@ -931,17 +937,18 @@ tr: The Lord had seated Sārvabhauma at His left side, and seeing the affection 
 ## 178
 w: to Sārvabhauma  has given  the Lord  prasāda  the best
 w: affection  showing  again and again  He makes  eat
-tr: The Lord had the best *prasāda* served to Sārvabhauma, and out of affection He made him eat again and again.
+tr: The Lord had the best prasāda served to Sārvabhauma, and out of affection He made him eat again and again.
 
 ## 179
 w: Gopīnātha Ācārya  excellent  mahā-prasāda  bringing
 w: to Sārvabhauma  giving  speaks  very sweet  words
-tr: Gopīnātha Ācārya brought excellent *mahā-prasāda*, gave it to Sārvabhauma, and spoke very sweet words:
+tr: Gopīnātha Ācārya brought excellent mahā-prasāda, gave it to Sārvabhauma, and spoke very sweet words:
 
 ## 180
 w: where  the Bhaṭṭācārya’s  former  worldly dealings
 w: where  this  supreme bliss  make  consideration
 tr: “Just consider: where were the Bhaṭṭācārya’s former worldly dealings, and where is this supreme bliss now!”
+fn: *Anubhāṣya*: formerly Sārvabhauma held to the reasoning of the smārtas and to worldly views and had no transcendental faith in prasāda, in Govinda’s name or in the Vaiṣṇavas; now, by Mahāprabhu’s grace, he had gained that faith and found the highest bliss in honouring prasāda.
 
 ## 181
 w: Sārvabhauma  says  I  a logician  of crooked intellect
@@ -951,7 +958,7 @@ tr: Sārvabhauma said, “I was a logician of crooked intellect. It is by your g
 ## 182
 w: Mahāprabhu  apart from  anyone  is not  merciful
 w: the crow  into Garuḍa  He makes  such  who  is
-tr: No one is as merciful as Mahāprabhu. He turns a crow into a Garuḍa — who else is like that?
+tr: No one is as merciful as Mahāprabhu. He turns a crow into a Garuḍa. Who else is like that?
 
 ## 183
 w: with the logician-jackals  howling  I made
@@ -961,7 +968,8 @@ tr: I used to howl with the jackals of logic, and now with that same mouth I alw
 ## 184
 w: where  averse to the Lord  with logician disciples  company
 w: where  this  of company’s nectar  of the ocean  in the waves
-tr: Where was I then, in the company of disciples who were logicians averse to the Lord, and where am I now, in the waves of this ocean of nectarean company!”
+tr: Where was I then, among my logician disciples who had turned away from the Lord, and where am I now, amid the waves of this nectar ocean of holy company!”
+fn: *Anubhāṣya*: the *bahirmukha*, “those turned outward”, are those who think themselves enjoyers of outer forms and tastes, are busy gratifying their senses and have turned away from Kṛṣṇa’s service (cf. Śrīmad-Bhāgavatam, 7.5.30–31).
 
 ## 185
 w: the Lord  says  formerly  perfected  for Kṛṣṇa  your  love
@@ -976,7 +984,7 @@ tr: In all the three worlds there is no one but Mahāprabhu who so increases the
 ## 187
 w: then  the Lord  to each one  of all  the devotees  the names  taking
 w: cakes and sweet drinks  had given  as prasāda  making
-tr: Then the Lord, calling each devotee by name, had cakes and sweet drinks given to all as His *prasāda*.
+tr: Then the Lord, calling each devotee by name, had cakes and sweet drinks given to all as His prasāda.
 
 ## 188
 w: Advaita and Nityānanda  were sitting  in one  place
@@ -986,12 +994,13 @@ tr: Advaita and Nityānanda were sitting together, and right there a playful qua
 ## 189
 w: Advaita  says  with an avadhūta  together  in one  row
 w: eating  I have done  not  I know  will be  what  destination
-tr: Advaita said, “I have eaten in the same row as an *avadhūta*! I do not know what will become of me.
+tr: Advaita said, “I have eaten in the same row as an avadhūta! I do not know what will become of Me.
 
 ## 190
 w: the Lord  indeed  a sannyāsī  for Him  is not  any loss
 w: by faults in food  of a sannyāsī  fault  not  occurs
-tr: The Lord is a *sannyāsī*: He loses nothing by it. Faults in food bring no fault to a *sannyāsī*.
+tr: The Lord is a sannyāsī: He loses nothing by it. Faults in food bring no fault to a sannyāsī.
+fn: Heading in the edition: “A sannyāsī is not defiled by food.”
 
 ## 191
 w: “not  by faults in food  the ascetic”  this  the scripture’s evidence
