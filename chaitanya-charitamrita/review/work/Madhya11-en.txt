@@ -60,7 +60,7 @@ tr: Sārvabhauma said, “Your words are true. But the king is a servant of Jaga
 ## 10
 w: the Lord  says  still  the king  like a deadly black snake
 w: of a wooden woman  by the touch  as  arises  agitation
-tr: The Lord said, “Even so, a king is like a deadly black snake. Even the touch of a woman carved from wood can disturb the mind.
+tr: The Lord said, “Still, a king is like a deadly black snake. Even the touch of a woman carved from wood can disturb the mind.
 fn: *Amṛta-pravāha-bhāṣya*: in the same way, the mere sight of a king, even if he is the best of devotees, may give rise to an anartha in one who is renounced.
 
 ## 11
@@ -78,7 +78,7 @@ tr: Never bring such words to your lips again. If you speak of this once more, y
 ## 13
 w: fear  getting  Sārvabhauma  to his own house  went
 w: to his residence  having gone  the Bhaṭṭācārya  anxious  became
-tr: Frightened, Sārvabhauma went home, and there the Bhaṭṭācārya grew anxious.
+tr: Sārvabhauma went home in fear, and there he sat lost in anxious thought.
 
 ## 14
 w: at that time  Pratāparudra  to Puruṣottama  came
@@ -120,7 +120,7 @@ tr: Hearing Your name, the king was delighted. He rose from his throne and embra
 ## 21
 w: Your  name  hearing  there was  great ecstasy of love
 w: my  hand  taking  shows  affection  special
-tr: Hearing Your name, he was overwhelmed with love; taking my hand, he showed me special affection.
+tr: At Your name he was overwhelmed with love; taking my hand, he showed me special affection.
 
 ## 22
 w: your  which  salary  you  eat  that  salary
@@ -388,7 +388,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Narendra is the pond where the Candana-yātrā
 ## 69
 w: the king  says  to the paḍichā  I  the order  will give
 w: lodging  and so on  whatever  is needed  the paḍichā  all  will give
-tr: The king said, “I shall give the order to the paḍichā; the paḍichā will provide lodging and whatever else is needed.
+tr: The king said, “I shall give the order to the paḍichā, and he will provide lodging and whatever else is needed.
 fn: The *paḍichā* is the superintendent of the temple (see verse 119).
 
 ## 70
@@ -592,7 +592,7 @@ tr: The Bhaṭṭa said, “This is the natural way of love: their hearts long t
 ## 107
 w: first  Him  meeting  all  Him  with them  taking
 w: with Him  together  Jagannātha  they will see  going
-tr: First they will all meet Him, and then they will take Him with them and go to see Jagannātha in His company.”
+tr: First they will all meet Him; then they will go with Him to see Jagannātha.”
 
 ## 108
 w: the king  says  of Bhavānanda  son  Vāṇīnātha
@@ -852,7 +852,7 @@ tr: “Do not touch me, O Lord, for I am a wretch. This body is not fit for You 
 ## 157
 w: the Lord  says  Murāri  make  of humility  restraint
 w: your  humility  seeing  My  torn  becomes  heart
-tr: The Lord said, “Murāri, restrain your humility. Seeing your humility, My heart is torn apart.”
+tr: The Lord said, “Murāri, restrain your humility. When I see such humility, My heart is torn apart.”
 
 ## 158
 w: so  saying  the Lord  him  gave  embrace
@@ -933,7 +933,7 @@ tr: We have arranged lodgings for everyone, and we will provide mahā-prasāda f
 ## 173
 w: the Lord  says  Gopīnātha  go  the Vaiṣṇavas  taking
 w: wherever  wherever  they tell  lodgings  there  give (them)  taking
-tr: The Lord said, “Gopīnātha, go with the Vaiṣṇavas, and wherever they point out the lodgings, take them there and settle them in.
+tr: The Lord said, “Gopīnātha, take the Vaiṣṇavas with you, and settle them in wherever the lodgings are pointed out to you.
 
 ## 174
 w: the mahā-prasāda  give  of Vāṇīnātha  to the place
@@ -984,7 +984,7 @@ tr: Mahāprabhu said, “Listen, all you Vaiṣṇavas: go now, each of you, to 
 ## 183
 w: bath in the sea  having taken  make  of the temple top  darśana
 w: then  today  here  coming  you will  eat
-tr: Bathe in the sea and take darśana of the temple’s pinnacle; then come back here today to eat.”
+tr: Bathe in the sea and take darśana of the temple’s pinnacle; then come back, for today you will take your meal here.”
 fn: Heading in the edition: “The Lord invites all the devotees, after bathing, to see the spire of the temple and come to honour prasāda.” *Amṛta-pravāha-bhāṣya*: *cūḍā* — the spire of Jagannātha’s temple.
 
 ## 184
@@ -1124,7 +1124,7 @@ fn: Heading in the edition: “Svarūpa and the other two serve prasāda to all 
 ## 209
 w: various  cakes and sweet drinks  they eat  joy  feeling
 w: now  and then  “Hari”  they say  delighted  being
-tr: They joyfully ate all kinds of cakes and sweet drinks, and every now and then, in delight, they called out “Hari!”
+tr: Happily they feasted on all kinds of cakes and sweet drinks, and every now and then, in their delight, they called out “Hari!”
 fn: *Anubhāṣya*: at that time it was the custom in the pure sampradāya to call out the name of Hari while honouring prasāda.
 
 ## 210
@@ -1182,7 +1182,7 @@ tr: Seeing the kīrtana, everyone was struck with wonder: “Never have we seen 
 ## 220
 w: then  the Lord  Jagannātha’s  temple  going round
 w: circumambulation  making  moves about  dance  doing
-tr: Then the Lord went round Jagannātha’s temple, circumambulating it as He danced.
+tr: Then the Lord went dancing round Jagannātha’s temple in reverent circumambulation.
 
 ## 221
 w: in front and behind  singing  do  four  groups
@@ -1225,7 +1225,7 @@ tr: In one group Nityānanda Rāya danced, and in another Advaita Ācārya dance
 ## 228
 w: in another  group  dances  Vakreśvara Paṇḍita
 w: Śrīvāsa  dances  another  group  within
-tr: In another group Vakreśvara Paṇḍita danced, and Śrīvāsa danced within yet another group.
+tr: In another group Vakreśvara Paṇḍita danced, and in yet another, Śrīvāsa.
 
 ## 229
 w: in the middle  staying  Mahāprabhu  is  watching
@@ -1287,7 +1287,7 @@ tr: The paḍichā brought prasāda in abundance, and the Lord shared it out amo
 ## 240
 w: to all  leave  He gave  to  go to sleep
 w: in this way  pastimes  performs  of Śacī  the son
-tr: Then He sent everyone off to sleep. Such are the pastimes of the son of Śacī.
+tr: Then He let everyone go to take their rest. Such are the pastimes of the son of Śacī.
 
 ## 241
 w: as long as  stayed  all  with Mahāprabhu

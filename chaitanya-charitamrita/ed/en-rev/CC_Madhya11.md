@@ -114,7 +114,7 @@ the Lord  says  still  the king  like a deadly black snake
 kāṣṭha-nārī-sparśe yaiche upajaya vikāra  
 of a wooden woman  by the touch  as  arises  agitation
 
-(10) The Lord said, “Even so, a king is like a deadly black snake. Even the touch of a woman carved from wood can disturb the mind.[^4]
+(10) The Lord said, “Still, a king is like a deadly black snake. Even the touch of a woman carved from wood can disturb the mind.[^4]
 
 আকারাদপি ভেতব্যং স্ত্রীণাং বিষয়িণামপি ৷  
 যথাহের্মনসঃ ক্ষোভস্তথা তস্যাকৃতেরপি ॥ ১১ ॥
@@ -148,7 +148,7 @@ fear  getting  Sārvabhauma  to his own house  went
 vāsāya giyā bhaṭṭācārya cintita hailā  
 to his residence  having gone  the Bhaṭṭācārya  anxious  became
 
-(13) Frightened, Sārvabhauma went home, and there the Bhaṭṭācārya grew anxious.
+(13) Sārvabhauma went home in fear, and there he sat lost in anxious thought.
 
 হেনকালে প্রতাপরুদ্র পুরুষোত্তমে আইলা ৷  
 পাত্র-মিত্র-সঙ্গে রাজা দরশনে চলিলা ॥ ১৪ ॥
@@ -228,7 +228,7 @@ Your  name  hearing  there was  great ecstasy of love
 mora hāte dhari’ kare pirīti viśeṣa  
 my  hand  taking  shows  affection  special
 
-(21) Hearing Your name, he was overwhelmed with love; taking my hand, he showed me special affection.
+(21) At Your name he was overwhelmed with love; taking my hand, he showed me special affection.
 
 তোমার যে বর্ত্তন, তুমি খাও সেই বর্ত্তন ৷  
 নিশ্চিন্তি হঞা ভজ চৈতন্যের চরণ ॥ ২২ ॥
@@ -736,7 +736,7 @@ the king  says  to the paḍichā  I  the order  will give
 vāsā ādi ye cāhiye, — paḍichā saba diba  
 lodging  and so on  whatever  is needed  the paḍichā  all  will give
 
-(69) The king said, “I shall give the order to the paḍichā; the paḍichā will provide lodging and whatever else is needed.[^23]
+(69) The king said, “I shall give the order to the paḍichā, and he will provide lodging and whatever else is needed.[^23]
 
 মহাপ্রভুর গণ যত আইল গৌড় হৈতে ৷  
 ভট্টাচার্য্য, একে একে দেখাহ আমাতে ॥ ৭০ ॥
@@ -1126,7 +1126,7 @@ first  Him  meeting  all  Him  with them  taking
 tām̐ra saṅge jagannātha dekhibena giyā  
 with Him  together  Jagannātha  they will see  going
 
-(107) First they will all meet Him, and then they will take Him with them and go to see Jagannātha in His company.”
+(107) First they will all meet Him; then they will go with Him to see Jagannātha.”
 
 রাজা কহে, — ভবানন্দের পুত্র বাণীনাথ ৷  
 প্রসাদ লঞা সঙ্গে চলে পাঁচ-সাত ॥ ১০৮ ॥
@@ -1630,7 +1630,7 @@ the Lord  says  Murāri  make  of humility  restraint
 tomāra dainya dekhi’ mora vidīrṇa haya mana  
 your  humility  seeing  My  torn  becomes  heart
 
-(157) The Lord said, “Murāri, restrain your humility. Seeing your humility, My heart is torn apart.”
+(157) The Lord said, “Murāri, restrain your humility. When I see such humility, My heart is torn apart.”
 
 এত বলি’ প্রভু তাঁরে কৈল আলিঙ্গন ৷  
 নিকটে বসাঞা করে অঙ্গ সম্মার্জ্জন ॥ ১৫৮ ॥
@@ -1787,7 +1787,7 @@ the Lord  says  Gopīnātha  go  the Vaiṣṇavas  taking
 yām̐hā yām̐hā kahe vāsā, tām̐hā deha’ lañā  
 wherever  wherever  they tell  lodgings  there  give (them)  taking
 
-(173) The Lord said, “Gopīnātha, go with the Vaiṣṇavas, and wherever they point out the lodgings, take them there and settle them in.
+(173) The Lord said, “Gopīnātha, take the Vaiṣṇavas with you, and settle them in wherever the lodgings are pointed out to you.
 
 মহাপ্রসাদান্ন দেহ বাণীনাথ স্থানে ৷  
 সর্ব্ব বৈষ্ণব ইঁহো করিবে সমাধানে ॥ ১৭৪ ॥
@@ -1887,7 +1887,7 @@ bath in the sea  having taken  make  of the temple top  darśana
 tabe āji im̐ha āsi’ karibe bhojana  
 then  today  here  coming  you will  eat
 
-(183) Bathe in the sea and take darśana of the temple’s pinnacle; then come back here today to eat.”[^50]
+(183) Bathe in the sea and take darśana of the temple’s pinnacle; then come back, for today you will take your meal here.”[^50]
 
 প্রভু নমস্করি’ সবে বাসাতে চলিলা ৷  
 গোপীনাথাচার্য্য সবে বাসা-স্থান দিলা ॥ ১৮৪ ॥
@@ -2153,7 +2153,7 @@ various  cakes and sweet drinks  they eat  joy  feeling
 madhye madhye ‘hari’ kahe ānandita hañā  
 now  and then  “Hari”  they say  delighted  being
 
-(209) They joyfully ate all kinds of cakes and sweet drinks, and every now and then, in delight, they called out “Hari!”[^58]
+(209) Happily they feasted on all kinds of cakes and sweet drinks, and every now and then, in their delight, they called out “Hari!”[^58]
 
 ভোজন সমাপ্ত হৈল, কৈল আচমন ৷  
 সবারে পরাইল প্রভু মাল্য-চন্দন ॥ ২১০ ॥
@@ -2263,7 +2263,7 @@ then  the Lord  Jagannātha’s  temple  going round
 pradakṣiṇa kari’ bulena nartana kariyā  
 circumambulation  making  moves about  dance  doing
 
-(220) Then the Lord went round Jagannātha’s temple, circumambulating it as He danced.
+(220) Then the Lord went dancing round Jagannātha’s temple in reverent circumambulation.
 
 আগে-পাছে গান করে চারি সম্প্রদায় ৷  
 আছাড়ের কালে ধরে নিত্যানন্দ রায় ॥ ২২১ ॥
@@ -2343,7 +2343,7 @@ in another  group  dances  Vakreśvara Paṇḍita
 śrīvāsa nāce āra sampradāya-bhitara  
 Śrīvāsa  dances  another  group  within
 
-(228) In another group Vakreśvara Paṇḍita danced, and Śrīvāsa danced within yet another group.
+(228) In another group Vakreśvara Paṇḍita danced, and in yet another, Śrīvāsa.
 
 মধ্যে রহি’ মহাপ্রভু করেন দরশন ৷  
 তাঁহা এক ঐশ্বর্য্য হইল প্রকটন ॥ ২২৯ ॥
@@ -2463,7 +2463,7 @@ to all  leave  He gave  to  go to sleep
 ei-mata līlā kare śacīra nandana  
 in this way  pastimes  performs  of Śacī  the son
 
-(240) Then He sent everyone off to sleep. Such are the pastimes of the son of Śacī.
+(240) Then He let everyone go to take their rest. Such are the pastimes of the son of Śacī.
 
 যাবৎ আছিলা সবে মহাপ্রভু-সঙ্গে ৷  
 প্রতিদিন এইমত করে কীর্ত্তন-রঙ্গে ॥ ২৪১ ॥
