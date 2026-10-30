@@ -2011,177 +2011,221 @@ of the house  inside  made  of prasāda  eating
 সেই অন্ন হরিদাসে কিছু দিল লঞা ॥ ২০১ ॥
 
 prabhura avaśeṣa govinda rākhila dhariyā  
-sei anna haridāse kichu dila lañā
+the Lord’s  remnants  Govinda  kept  holding (them)  
+sei anna haridāse kichu dila lañā  
+that  food  to Haridāsa  some  gave  taking
 
-(201) [not yet translated]
+(201) Govinda had kept aside the Lord’s remnants, and he took some of that food and gave it to Haridāsa.
 
 ভক্তগণ গোবিন্দ-পাশ কিছু মাগি’ নিল ৷  
 সেই প্রসাদান্ন গোবিন্দ আপনি পাইল ॥ ২০২ ॥
 
 bhakta-gaṇa govinda-pāśa kichu māgi’ nila  
-sei prasādānna govinda āpani pāila
+the devotees  from Govinda  some  begging  took  
+sei prasādānna govinda āpani pāila  
+that  prasāda food  Govinda  himself  received
 
-(202) [not yet translated]
+(202) The devotees begged a little of it from Govinda, and what remained of that *prasāda* Govinda took himself.
 
 স্বতন্ত্র ঈশ্বর প্রভু করে নানা খেলা ৷  
 ‘ধোয়াপাখলা’ নাম কৈল এই এক লীলা ॥ ২০৩ ॥
 
 svatantra īśvara prabhu kare nānā khelā  
-‘dhoyā-pākhalā’ nāma kaila ei eka līlā
+independent  the Lord  the Lord (Caitanya)  plays  various  games  
+‘dhoyā-pākhalā’ nāma kaila ei eka līlā  
+“washing and scrubbing”  by name  He made  this  one  pastime
 
-(203) [not yet translated]
+(203) The Lord is the independent Supreme Lord and plays many kinds of games. This one pastime He called “washing and scrubbing” (*dhoyā-pākhalā*).
 
 আর দিনে জগন্নাথের ‘নেত্রোৎসব’ নাম ৷  
 মহোৎসব হৈল ভক্তের প্রাণ-সমান ॥ ২০৪ ॥
 
 āra dine jagannāthera ‘netrotsava’ nāma  
-mahotsava haila bhaktera prāṇa-samāna
+on the next  day  of Jagannātha  “Netrotsava”  by name  
+mahotsava haila bhaktera prāṇa-samāna  
+a great festival  took place  to the devotees  equal to life
 
-(204) [not yet translated]
+(204) The next day came Jagannātha’s great festival called Netrotsava, as dear to the devotees as life itself.
 
 পক্ষদিন দুঃখী লোক প্রভুর অদর্শনে ৷  
 দর্শন করিয়া লোক সুখ পাইল মনে ॥ ২০৫ ॥
 
 pakṣa-dina duḥkhī loka prabhura adarśane  
-darśana kariyā loka sukha pāila mane
+for a fortnight  sorrowful  the people  the Lord  not seeing  
+darśana kariyā loka sukha pāila mane  
+sight  having had  the people  happiness  found  in the mind
 
-(205) [not yet translated]
+(205) For a fortnight the people had grieved at not seeing the Lord; now, seeing Him again, they rejoiced at heart.
 
 মহাপ্রভু সুখে লঞা সব ভক্তগণ ৷  
 জগন্নাথ-দরশনে করিলা গমন ॥ ২০৬ ॥
 
 mahāprabhu sukhe lañā saba bhakta-gaṇa  
-jagannātha-daraśane karilā gamana
+Mahāprabhu  happily  taking  all  the devotees  
+jagannātha-daraśane karilā gamana  
+to see Jagannātha  made  going
 
-(206) [not yet translated]
+(206) Happily Mahāprabhu took all the devotees and went to see Jagannātha.
 
 আগে কাশীশ্বর যায় লোক নিবারিয়া ৷  
 পাছে গোবিন্দ যায় জল-করঙ্গ লঞা ॥ ২০৭ ॥
 
 āge kāśīśvara yāya loka nivāriyā  
-pāche govinda yāya jala-karaṅga lañā
+in front  Kāśīśvara  goes  the people  holding back  
+pāche govinda yāya jala-karaṅga lañā  
+behind  Govinda  goes  a water pot  carrying
 
-(207) [not yet translated]
+(207) Kāśīśvara went in front, holding back the crowd, and behind came Govinda, carrying a water pot.
 
 প্রভুর আগে পুরী, ভারতী, — দুঁহার গমন ৷  
 স্বরূপ, অদ্বৈত, — দুঁহের পার্শ্বে দুইজন ॥ ২০৮ ॥
 
 prabhura āge purī, bhāratī, — duṅhāra gamana  
-svarūpa, advaita, — duṅhera pārśve dui-jana
+the Lord’s  in front  Purī  Bhāratī  of both  the going  
+svarūpa, advaita, — duṅhera pārśve dui-jana  
+Svarūpa  Advaita  of both  at the side  the two
 
-(208) [not yet translated]
+(208) In front of the Lord walked Purī and Bhāratī, and beside the two of them walked Svarūpa and Advaita.
 
 পাছে পাছে চলি’ যায় আর ভক্তগণ ৷  
 উৎকণ্ঠাতে গেলা সব জগন্নাথ-ভবন ॥ ২০৯ ॥
 
 pāche pāche cali’ yāya āra bhakta-gaṇa  
-utkaṇṭhāte gelā saba jagannātha-bhavana
+behind  behind  walking  go  the other  devotees  
+utkaṇṭhāte gelā saba jagannātha-bhavana  
+in eagerness  went  all  to Jagannātha’s temple
 
-(209) [not yet translated]
+(209) The other devotees walked behind, and all of them went eagerly to Jagannātha’s temple.
 
 দর্শন-লোভেতে করি’ মর্য্যাদা লঙ্ঘন ৷  
 ভোগ-মণ্ডপে যাঞা করে শ্রীমুখ দর্শন ॥ ২১০ ॥
 
 darśana-lobhete kari’ maryādā laṅghana  
-bhoga-maṇḍape yāñā kare śrī mukha darśana
+of seeing  out of longing  making  of the rules  a breach  
+bhoga-maṇḍape yāñā kare śrī mukha darśana  
+into the bhoga-maṇḍapa  going  they make  of the beautiful  face  the sight
 
-(210) [not yet translated]
+(210) In their longing to see Him they set aside the rules, went into the *bhoga-maṇḍapa*, and gazed on His beautiful face.
 
 তৃষার্ত্ত প্রভুর নেত্র — ভ্রমর-যুগল ৷  
 গাঢ় তৃষ্ণায় পিয়ে কৃষ্ণের বদন কমল ॥ ২১১ ॥
 
 tṛṣārta prabhura netra — bhramara-yugala  
-gāḍha tṛṣṇāya piye kṛṣṇera vadana-kamala
+thirsty  the Lord’s  eyes  of bees  a pair  
+gāḍha tṛṣṇāya piye kṛṣṇera vadana-kamala  
+with deep  thirst  drink  of Kṛṣṇa  the face-lotus
 
-(211) [not yet translated]
+(211) The Lord’s thirsty eyes, like a pair of bees, drank with deep thirst from the lotus of Kṛṣṇa’s face.
 
 প্রফুল্ল-কমল জিনি’ নয়ন যুগল ৷  
 নীলমণি-দর্পণ-কান্তি গণ্ড ঝলমল ॥ ২১২ ॥
 
 praphulla-kamala jini’ nayana-yugala  
-nīlamaṇi-darpaṇa-kānti gaṇḍa jhalamala
+full-blown  lotuses  surpassing  of eyes  the pair  
+nīlamaṇi-darpaṇa-kānti gaṇḍa jhalamala  
+with a sapphire mirror’s luster  the cheeks  glisten
 
-(212) [not yet translated]
+(212) His eyes surpassed full-blown lotuses, and His cheeks glistened with the luster of a sapphire mirror.
 
 বান্ধুলীর ফুল জিনি’ অধর সুরঙ্গ ৷  
 ঈষৎ হসিত কান্তি — অমৃত-তরঙ্গ ॥ ২১৩ ॥
 
 bāndhulīra phula jini’ adhara suraṅga  
-īṣat hasita kānti — amṛta-taraṅga
+of the bāndhulī  the flower  surpassing  the lips  bright red  
+īṣat hasita kānti — amṛta-taraṅga  
+of the gentle  smile  the radiance  waves of nectar
 
-(213) [not yet translated]
+(213) His bright red lips surpassed the *bāndhulī* flower, and the radiance of His gentle smile was a wave of nectar.
 
 শ্রীমুখ-সুন্দরকান্তি বাঢ়ে ক্ষণে ক্ষণে ৷  
 কোটিভক্ত-নেত্র-ভৃঙ্গ করে মধু পানে ॥ ২১৪ ॥
 
 śrī mukha-sundara-kānti bāḍhe kṣaṇe kṣaṇe  
-koṭi-bhakta-netra-bhṛṅga kare madhu-pāne
+of the beautiful  face the lovely luster  grows  moment  by moment  
+koṭi-bhakta-netra-bhṛṅga kare madhu-pāne  
+the bee-eyes of millions of devotees  make  the drinking of honey
 
-(214) [not yet translated]
+(214) Moment by moment the lovely luster of His beautiful face grew, and the bee-like eyes of millions of devotees drank its honey.
 
 যত পিয়ে, তত তৃষ্ণা বাঢ়ে নিরন্তর ৷  
 মুখাম্বুজ ছাড়ি’ নেত্র না যায় অন্তর ॥ ২১৫ ॥
 
 yata piye, tata tṛṣṇā bāḍhe nirantara  
-mukhāmbuja chāḍi’ netra nā yāya antara
+the more  they drink  the more  thirst  grows  ceaselessly  
+mukhāmbuja chāḍi’ netra nā yāya antara  
+the face-lotus  leaving  the eyes  not  go  elsewhere
 
-(215) [not yet translated]
+(215) The more they drank, the more their thirst grew without end; the eyes would not leave that lotus face to go elsewhere.
 
 এইমত মহাপ্রভু লঞা ভক্তগণ ৷  
 মধ্যাহ্ন পর্য্যন্ত কৈল শ্রীমুখ দরশন ॥ ২১৬ ॥
 
 ei-mata mahāprabhu lañā bhakta-gaṇa  
-madhyāhna paryanta kaila śrī mukha daraśana
+in this way  Mahāprabhu  with  the devotees  
+madhyāhna paryanta kaila śrī mukha daraśana  
+midday  until  made  of the beautiful  face  the sight
 
-(216) [not yet translated]
+(216) In this way Mahāprabhu and the devotees gazed on His beautiful face until midday.
 
 স্বেদ, কম্প, অশ্রু-জল বহে সর্ব্বক্ষণ ৷  
 দর্শনের লোভে প্রভু করে সম্বরণ ॥ ২১৭ ॥
 
 sveda, kampa, aśru-jala vahe sarva-kṣaṇa  
-darśanera lobhe prabhu kare saṁvaraṇa
+perspiration  trembling  tears  flow  all the time  
+darśanera lobhe prabhu kare saṁvaraṇa  
+of seeing  out of longing  the Lord  makes  restraint
 
-(217) [not yet translated]
+(217) Perspiration, trembling and tears flowed from Him all the while, but in His longing to see, the Lord held them back.
 
 মধ্যে মধ্যে ভোগ লাগে, মধ্যে দরশন ৷  
 ভোগের সময়ে প্রভু করেন কীর্ত্তন ॥ ২১৮ ॥
 
 madhye madhye bhoga lāge, madhye daraśana  
-bhogera samaye prabhu karena kīrtana
+from time to time  offerings  are made  in between  sight  
+bhogera samaye prabhu karena kīrtana  
+of the offering  at the time  the Lord  does  kīrtana
 
-(218) [not yet translated]
+(218) From time to time food was offered, and in between there was *darśana*; during the offerings the Lord performed *kīrtana*.
 
 দর্শন-আনন্দে প্রভু সব পাসরিলা ৷  
 ভক্তগণ মধ্যাহ্নেতে প্রভুরে লঞা গেলা ॥ ২১৯ ॥
 
 darśana-ānande prabhu saba pāsarilā  
-bhakta-gaṇa madhyāhnete prabhure lañā gelā
+in the bliss of seeing  the Lord  everything  forgot  
+bhakta-gaṇa madhyāhnete prabhure lañā gelā  
+the devotees  at midday  the Lord  taking  went
 
-(219) [not yet translated]
+(219) In the bliss of seeing Him, the Lord forgot everything, and at midday the devotees took Him away.
 
 প্রাতঃকালে রথযাত্রা হবেক জানিয়া ৷  
 সেবক লাগায় ভোগ দ্বিগুণ করিয়া ॥ ২২০ ॥
 
 prātaḥ-kāle ratha-yātrā habeka jāniyā  
-sevaka lāgāya bhoga dviguṇa kariyā
+in the morning  the Ratha-yātrā  will be  knowing  
+sevaka lāgāya bhoga dviguṇa kariyā  
+the servants  offer  food  double  making
 
-(220) [not yet translated]
+(220) Knowing that the Ratha-yātrā would take place the next morning, the servants offered twice as much food.
 
 গুণ্ডিচা-গৃহ-মার্জ্জন সংক্ষেপে কহিল ৷  
 যাহা দেখি’ শুনি’ পাপীর কৃষ্ণভক্তি হৈল ॥ ২২১ ॥
 
 guṇḍicā-gṛha-mārjana saṅkṣepe kahila  
-yāhā dekhi’ śuni’ pāpīra kṛṣṇa-bhakti haila
+the cleansing of the Guṇḍicā temple  briefly  I have told  
+yāhā dekhi’ śuni’ pāpīra kṛṣṇa-bhakti haila  
+which  seeing  hearing  of sinners  devotion to Kṛṣṇa  arose
 
-(221) [not yet translated]
+(221) I have briefly told of the cleansing of the Guṇḍicā temple. By seeing it and hearing of it, even sinners attained devotion to Kṛṣṇa.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২২২ ॥
 
 śrī rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(222) [not yet translated]
+(222) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
