@@ -6,7 +6,7 @@
 
 ## 8
 
-Śrī Caitanyadeva said sorrowfully: “Alas! Some wish to cross the ocean of worldly existence completely: they are *niṣkiñcana*, free of worldly attachment, and have turned to the service of the Lord. For such a person, to see worldly people and women is worse than taking poison.”
+Śrī Caitanyadeva said sorrowfully: “Alas! There are *niṣkiñcanas*, people free of worldly attachment, who have turned to the Lord's service and wish to cross the ocean of worldly existence completely. For them, seeing worldly people and women is worse than taking poison.”
 
 ## 9–10
 
@@ -88,7 +88,7 @@ In the age of Kali, whoever worships Kṛṣṇa Caitanya with the sacrifice of 
 
 ## 103
 
-One who lacks His mercy, even if he is a *paṇḍita*, cannot accept Kṛṣṇa Caitanya as the Lord (*Īśvara*): even seeing and hearing of all His divine majesty, he is without His mercy.
+One who lacks His mercy, even if he is a *paṇḍita*, cannot accept Kṛṣṇa Caitanya as the Lord (*Īśvara*), though he sees all His divine majesty and hears of it: he is without His mercy.
 
 ## 111–113
 
