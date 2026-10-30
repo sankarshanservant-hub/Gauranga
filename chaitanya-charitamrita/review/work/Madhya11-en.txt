@@ -270,16 +270,18 @@ w: He looks upon with mercy  alas  yet  not  me
 w: leaving me alone out  He will show mercy  thus
 w: having decided  can it be  He  descended  the Lord
 tr: “He looks with mercy even upon people of low birth, whom one is not supposed even to see — yet, alas, not upon me. Can it be that the Lord descended having resolved, ‘I shall show mercy to everyone but him’?” (Caitanya-candrodaya-nāṭaka, 8.29)
+fn: The words of Pratāparudra to Sārvabhauma; the reference follows the heading in the edition (act 8, verse 29).
 
 ## 48
 w: His  vow  me  not  He will give  sight
 w: my  vow  without Him  I shall give up  life
 tr: His vow is that He will not let me see Him; my vow is that without Him I shall give up my life.
+fn: Heading in the edition: “The king resolves to give up his life if he does not receive the Lord’s mercy.”
 
 ## 49
 w: if  of that  Mahāprabhu  not  I obtain  the treasure of mercy
 w: what  the kingdom  what  the body  all  useless
-tr: If I do not obtain the treasure of that Mahāprabhu’s mercy, what is my kingdom, what is my body? All of it is useless.”
+tr: If I do not obtain the treasure of Mahāprabhu’s mercy, what is my kingdom, what is my body? All of it is useless.”
 
 ## 50
 w: this  hearing  Sārvabhauma  became  thoughtful
@@ -310,6 +312,7 @@ tr: On the day of the Ratha-yātrā the Lord, with all His devotees, will dance 
 w: in ecstatic love  into the flower garden  He will make  entrance
 w: at that time  alone  you  giving up  the royal dress
 tr: In that ecstasy of love He will enter the flower garden. At that time you must lay aside your royal dress and come alone.
+fn: *Anubhāṣya*: the flower garden is at Guṇḍicā.
 
 ## 56
 w: ‘the five chapters on Kṛṣṇa’s rāsa dance’  doing  recitation
@@ -334,7 +337,7 @@ tr: Hearing this, the Gajapati king was happy at heart, and he firmly resolved t
 ## 60
 w: the Snāna-yātrā  when  will be  he asked  the Bhaṭṭa
 w: the Bhaṭṭa  says  three  days  remain  until the festival
-tr: He asked the Bhaṭṭa when the Snāna-yātrā would be held, and the Bhaṭṭa said, “Three days remain until the festival.”
+tr: He asked the Bhaṭṭa when the Snāna-yātrā would be held, and he replied, “Three days remain until the festival.”
 
 ## 61
 w: the king  encouraging  the Bhaṭṭa  went  to his own home
@@ -344,12 +347,14 @@ tr: Having encouraged the king, the Bhaṭṭa went home. On the day of the Snā
 ## 62
 w: the Snāna-yātrā  seeing  of the Lord  there was  great  happiness
 w: of the Lord  at the ‘anavasara’  He felt  great  sorrow
-tr: Seeing the Snāna-yātrā, the Lord was very happy; but during the Lord’s anavasara He felt great sorrow.
+tr: Seeing the Snāna-yātrā, the Lord was very happy; but during Jagannātha’s *anavasara* He felt great sorrow.
+fn: *Anubhāṣya*: after the Snāna-yātrā the painting of Śrī Jagannātha’s body (*aṅga-rāga*) is renewed, and for that time the Deity stays apart, hidden from those who come for darśana; this period is called *anavasara*.
 
 ## 63
 w: in the mood of the gopīs  in separation  the Lord  distraught  becoming
 w: to Ālālanātha  went  the Lord  everyone  leaving
 tr: Distraught with separation in the mood of the gopīs, the Lord left everyone and went to Ālālanātha.
+fn: *Amṛta-pravāha-bhāṣya*: during the *anavasara* the Lord could not see Jagannātha and, beside Himself in separation from Kṛṣṇa, went to Ālālanātha and stayed there.
 
 ## 64
 w: afterwards  of the Lord  near  came  the devotees
@@ -365,21 +370,25 @@ tr: Sārvabhauma brought the Lord back to Nīlācala, and then went and told the
 w: at that time  came  there  Gopīnātha Ācārya
 w: to the king  blessing  giving  says  listen  Bhaṭṭācārya
 tr: At that time Gopīnātha Ācārya came there. Blessing the king, he said, “Listen, Bhaṭṭācārya.
+fn: *Anubhāṣya*: on Gopīnātha Ācārya see Ādi 10.130.
 
 ## 67
 w: Gauḍa  from  Vaiṣṇavas  are coming  two hundred
 w: of Mahāprabhu  devotees  all  great devotees
 tr: Two hundred Vaiṣṇavas are coming from Gauḍa — devotees of Mahāprabhu, every one of them a mahā-bhāgavata.
+fn: *Anubhāṣya*: the mahā-bhāgavatas are *niṣkiñcanas* above *varṇāśrama*, *paramahaṁsas* whose only shelter is Kṛṣṇa; as Śrī Narottama Ṭhākura writes in his *Prārthanā*, “One who regards the associates of Gaurāṅga as eternally perfect goes to the son of the king of Vraja.”
 
 ## 68
 w: to the Narendra  having come  all  have become  present
 w: for all of them  is needed  lodging  of prasāda  provision
 tr: They have all arrived at the Narendra lake. Lodging must be found for all of them, and prasāda provided.”
+fn: *Amṛta-pravāha-bhāṣya*: Narendra is the pond where the Candana-yātrā festival is held; even today Gauḍīya Vaiṣṇavas coming to Puruṣottama wash their hands and feet in its water before going to the temple.
 
 ## 69
 w: the king  says  to the paḍichā  I  the order  will give
 w: lodging  and so on  whatever  is needed  the paḍichā  all  will give
 tr: The king said, “I shall give the order to the paḍichā; the paḍichā will provide lodging and whatever else is needed.
+fn: The *paḍichā* is the superintendent of the temple (see verse 119).
 
 ## 70
 w: of Mahāprabhu  associates  as many as  have come  Gauḍa  from
@@ -444,22 +453,25 @@ tr: Purī ordered him to serve the Lord, and so the Lord has kept him near Him.�
 ## 82
 w: the king  says  to whom  garlands  gave  the two
 w: wonderful  effulgence  great  saint  tell  which  person
-tr: The king said, “The one to whom these two gave garlands has a wonderful effulgence — he is a great soul. Tell me, who is he?”
+tr: The king said, “The one to whom these two gave garlands has a wonderful effulgence — He is a great soul. Tell me, who is He?”
 
 ## 83
 w: the Ācārya  says  His  name  Advaita  Ācārya
 w: of Mahāprabhu  the object of respect  honoured by all on their heads
 tr: The Ācārya said, “His name is Advaita Ācārya. Mahāprabhu Himself respects Him, and everyone bows to Him.
+fn: *Amṛta-pravāha-bhāṣya*: “the Ācārya said” — Gopīnātha Ācārya said.
 
 ## 84
 w: Śrīvāsa Paṇḍita  this  Vakreśvara Paṇḍita
 w: Vidyānidhi Ācārya  this  Gadādhara Paṇḍita
 tr: This is Śrīvāsa Paṇḍita, that is Vakreśvara Paṇḍita; that is Vidyānidhi Ācārya, and this is Gadādhara Paṇḍita.
+fn: *Anubhāṣya*: Vidyānidhi Ācārya (Ācāryanidhi) is Puṇḍarīka Vidyānidhi; see the *Anubhāṣya* on Ādi 10.14.
 
 ## 85
 w: Ācāryaratna  this  Purandara Paṇḍita
 w: Gaṅgādāsa  Paṇḍita  this  Śaṅkara Paṇḍita
 tr: This is Ācāryaratna, that is Purandara Paṇḍita; this is Gaṅgādāsa Paṇḍita, that is Śaṅkara Paṇḍita.
+fn: The heading in the edition gives Ācāryaratna’s name — Candraśekhara.
 
 ## 86
 w: this  Murāri  Gupta  this  Paṇḍita  Nārāyaṇa
@@ -475,6 +487,7 @@ tr: This is Hari Bhaṭṭa, this is Śrī Nṛsiṁhānanda; this is Vāsudeva 
 w: Govinda  Mādhava  Ghoṣa  this  Vāsu Ghoṣa
 w: of the three  brothers  in the kīrtana  the Lord  finds  delight
 tr: Here are Govinda, Mādhava Ghoṣa and Vāsu Ghoṣa — three brothers whose kīrtana delights the Lord.
+fn: *Amṛta-pravāha-bhāṣya*: Govinda Ghoṣa was born in a Kāyastha family of Uttara-rāḍha; he is called Ghoṣa Ṭhākura, and to this day a fair is held in his name at Agradvīpa, near Katwa. Vāsu Ghoṣa composed many songs about Mahāprabhu, which hold the first place among the songs of the mahājanas.
 
 ## 89
 w: Rāghava  Paṇḍita  this  Ācārya  Nandana

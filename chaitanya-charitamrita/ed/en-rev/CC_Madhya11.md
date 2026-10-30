@@ -472,12 +472,12 @@ the Kṣetra  leaving  He will go  again  if  I make  the request
 
 (43) Still, He will not see a king. If I ask Him again, He will leave the Kṣetra.”
 
-শুনিয়া রাজার মনে দুঃখ উপজিল ৷  
-বিষাদ করিয়া কিছু কহিতে লাগিল ॥ ৪৪ ॥
+শুনিয়া রাজার মনে দুঃখ উপজিলা ৷  
+বিষাদ করিয়া কিছু কহিতে লাগিলা ॥ ৪৪ ॥
 
-śuniyā rājāra mane duḥkha upajila  
+śuniyā rājāra mane duḥkha upajilā  
 hearing  of the king  in the mind  sorrow  arose  
-viṣāda kariyā kichu kahite lāgila  
+viṣāda kariyā kichu kahite lāgilā  
 lamentation  making  something  to speak  he began
 
 (44) Hearing this, the king was grieved at heart, and in his despair he began to speak.
@@ -516,7 +516,7 @@ leaving me alone out  He will show mercy  thus
 nirṇīya kiṁ so ’vatatāra devaḥ  
 having decided  can it be  He  descended  the Lord
 
-(47) “He looks with mercy even upon people of low birth, whom one is not supposed even to see — yet, alas, not upon me. Can it be that the Lord descended having resolved, ‘I shall show mercy to everyone but him’?” (Caitanya-candrodaya-nāṭaka, 8.29)
+(47) “He looks with mercy even upon people of low birth, whom one is not supposed even to see — yet, alas, not upon me. Can it be that the Lord descended having resolved, ‘I shall show mercy to everyone but him’?” (Caitanya-candrodaya-nāṭaka, 8.29)[^14]
 
 তাঁর প্রতিজ্ঞা — মোরে না করিবে দরশন ৷  
 মোর প্রতিজ্ঞা — তাঁহা বিনা ছাড়িব জীবন ॥ ৪৮ ॥
@@ -526,7 +526,7 @@ His  vow  me  not  He will give  sight
 mora pratijñā — tām̐hā vinā chāḍiba jīvana  
 my  vow  without Him  I shall give up  life
 
-(48) His vow is that He will not let me see Him; my vow is that without Him I shall give up my life.
+(48) His vow is that He will not let me see Him; my vow is that without Him I shall give up my life.[^15]
 
 যদি সেই মহাপ্রভুর না পাই কৃপা-ধন ৷  
 কিবা রাজ্য, কিবা দেহ, — সব অকারণ ॥ ৪৯ ॥
@@ -536,7 +536,7 @@ if  of that  Mahāprabhu  not  I obtain  the treasure of mercy
 kibā rājya, kibā deha, — saba akāraṇa  
 what  the kingdom  what  the body  all  useless
 
-(49) If I do not obtain the treasure of that Mahāprabhu’s mercy, what is my kingdom, what is my body? All of it is useless.”
+(49) If I do not obtain the treasure of Mahāprabhu’s mercy, what is my kingdom, what is my body? All of it is useless.”
 
 এত শুনি’ সার্ব্বভৌম হইলা চিন্তিত ৷  
 রাজার অনুরাগ দেখি’ হইলা বিস্মিত ॥ ৫০ ॥
@@ -596,7 +596,7 @@ in ecstatic love  into the flower garden  He will make  entrance
 sei-kāle ekale tumi chāḍi’ rāja-veśa  
 at that time  alone  you  giving up  the royal dress
 
-(55) In that ecstasy of love He will enter the flower garden. At that time you must lay aside your royal dress and come alone.
+(55) In that ecstasy of love He will enter the flower garden. At that time you must lay aside your royal dress and come alone.[^16]
 
 ‘কৃষ্ণ-রাসপঞ্চাধ্যায়’ করিতে পঠন ৷  
 একলে যাই’ মহাপ্রভুর ধরিবে চরণ ॥ ৫৬ ॥
@@ -646,7 +646,7 @@ the Snāna-yātrā  when  will be  he asked  the Bhaṭṭa
 bhaṭṭa kahe, — tina dina āchaye yātrāre  
 the Bhaṭṭa  says  three  days  remain  until the festival
 
-(60) He asked the Bhaṭṭa when the Snāna-yātrā would be held, and the Bhaṭṭa said, “Three days remain until the festival.”
+(60) He asked the Bhaṭṭa when the Snāna-yātrā would be held, and he replied, “Three days remain until the festival.”
 
 রাজারে প্রবোধিয়া ভট্ট গেলা নিজালয় ৷  
 স্নানযাত্রা-দিনে প্রভুর আনন্দ হৃদয় ॥ ৬১ ॥
@@ -666,7 +666,7 @@ the Snāna-yātrā  seeing  of the Lord  there was  great  happiness
 īśvarera ‘anavasare’ pāila baḍa duḥkha  
 of the Lord  at the ‘anavasara’  He felt  great  sorrow
 
-(62) Seeing the Snāna-yātrā, the Lord was very happy; but during the Lord’s anavasara He felt great sorrow.
+(62) Seeing the Snāna-yātrā, the Lord was very happy; but during Jagannātha’s *anavasara* He felt great sorrow.[^17]
 
 গোপীভাবে বিরহে প্রভু ব্যাকুল হঞা ৷  
 আলালনাথে গেলা প্রভু সবারে ছাড়িয়া ॥ ৬৩ ॥
@@ -676,7 +676,7 @@ in the mood of the gopīs  in separation  the Lord  distraught  becoming
 ālālanāthe gelā prabhu sabāre chāḍiyā  
 to Ālālanātha  went  the Lord  everyone  leaving
 
-(63) Distraught with separation in the mood of the gopīs, the Lord left everyone and went to Ālālanātha.
+(63) Distraught with separation in the mood of the gopīs, the Lord left everyone and went to Ālālanātha.[^18]
 
 পাছে প্রভুর নিকট আইলা ভক্তগণ ৷  
 গৌড় হৈতে ভক্ত আইসে, — কৈল নিবেদন ॥ ৬৪ ॥
@@ -706,7 +706,7 @@ at that time  came  there  Gopīnātha Ācārya
 rājāke āśīrvāda kari’ kahe, — śuna bhaṭṭācārya  
 to the king  blessing  giving  says  listen  Bhaṭṭācārya
 
-(66) At that time Gopīnātha Ācārya came there. Blessing the king, he said, “Listen, Bhaṭṭācārya.
+(66) At that time Gopīnātha Ācārya came there. Blessing the king, he said, “Listen, Bhaṭṭācārya.[^19]
 
 গৌড় হৈতে বৈষ্ণব আসিতেছেন দুইশত ৷  
 মহাপ্রভুর ভক্ত, সব — মহাভাগবত ॥ ৬৭ ॥
@@ -716,7 +716,7 @@ Gauḍa  from  Vaiṣṇavas  are coming  two hundred
 mahāprabhura bhakta, saba — mahā-bhāgavata  
 of Mahāprabhu  devotees  all  great devotees
 
-(67) Two hundred Vaiṣṇavas are coming from Gauḍa — devotees of Mahāprabhu, every one of them a mahā-bhāgavata.
+(67) Two hundred Vaiṣṇavas are coming from Gauḍa — devotees of Mahāprabhu, every one of them a mahā-bhāgavata.[^20]
 
 নরেন্দ্রে আসিয়া সবে হৈল বিদ্যমান ৷  
 তাঁ-সবারে চাহি বাসা প্রসাদ-সমাধান ॥ ৬৮ ॥
@@ -726,7 +726,7 @@ to the Narendra  having come  all  have become  present
 tām̐-sabāre cāhi vāsā prasāda-samādhāna  
 for all of them  is needed  lodging  of prasāda  provision
 
-(68) They have all arrived at the Narendra lake. Lodging must be found for all of them, and prasāda provided.”
+(68) They have all arrived at the Narendra lake. Lodging must be found for all of them, and prasāda provided.”[^21]
 
 রাজা কহে, — পড়িছাকে আমি আজ্ঞা দিব ৷  
 বাসা আদি যে চাহিয়ে, — পড়িছা সব দিব ॥ ৬৯ ॥
@@ -736,7 +736,7 @@ the king  says  to the paḍichā  I  the order  will give
 vāsā ādi ye cāhiye, — paḍichā saba diba  
 lodging  and so on  whatever  is needed  the paḍichā  all  will give
 
-(69) The king said, “I shall give the order to the paḍichā; the paḍichā will provide lodging and whatever else is needed.
+(69) The king said, “I shall give the order to the paḍichā; the paḍichā will provide lodging and whatever else is needed.[^22]
 
 মহাপ্রভুর গণ যত আইল গৌড় হৈতে ৷  
 ভট্টাচার্য্য, একে একে দেখাহ আমাতে ॥ ৭০ ॥
@@ -866,7 +866,7 @@ the king  says  to whom  garlands  gave  the two
 āścarya teja, — baḍa mahānta, — kaha kon jana?  
 wonderful  effulgence  great  saint  tell  which  person
 
-(82) The king said, “The one to whom these two gave garlands has a wonderful effulgence — he is a great soul. Tell me, who is he?”
+(82) The king said, “The one to whom these two gave garlands has a wonderful effulgence — He is a great soul. Tell me, who is He?”
 
 আচার্য্য কহে, — ইঁহার নাম অদ্বৈত আচার্য্য ৷  
 মহাপ্রভুর মান্যপাত্র, সর্ব্ব-শিরোধার্য্য ॥ ৮৩ ॥
@@ -876,7 +876,7 @@ the Ācārya  says  His  name  Advaita  Ācārya
 mahāprabhura mānya-pātra, sarva-śirodhārya  
 of Mahāprabhu  the object of respect  honoured by all on their heads
 
-(83) The Ācārya said, “His name is Advaita Ācārya. Mahāprabhu Himself respects Him, and everyone bows to Him.
+(83) The Ācārya said, “His name is Advaita Ācārya. Mahāprabhu Himself respects Him, and everyone bows to Him.[^23]
 
 শ্রীবাস-পণ্ডিত ইঁহ, পণ্ডিত-বক্রেশ্বর ৷  
 বিদ্যানিধি-আচার্য্য, ইঁহ পণ্ডিত-গদাধর ॥ ৮৪ ॥
@@ -886,7 +886,7 @@ of Mahāprabhu  the object of respect  honoured by all on their heads
 vidyānidhi-ācārya, im̐ha paṇḍita-gadādhara  
 Vidyānidhi Ācārya  this  Gadādhara Paṇḍita
 
-(84) This is Śrīvāsa Paṇḍita, that is Vakreśvara Paṇḍita; that is Vidyānidhi Ācārya, and this is Gadādhara Paṇḍita.
+(84) This is Śrīvāsa Paṇḍita, that is Vakreśvara Paṇḍita; that is Vidyānidhi Ācārya, and this is Gadādhara Paṇḍita.[^24]
 
 আচার্য্যরত্ন ইঁহ, পণ্ডিত পুরন্দর ৷  
 গঙ্গাদাস পণ্ডিত ইঁহ, পণ্ডিত-শঙ্কর ॥ ৮৫ ॥
@@ -896,7 +896,7 @@ Vidyānidhi Ācārya  this  Gadādhara Paṇḍita
 gaṅgādāsa paṇḍita im̐ha, paṇḍita-śaṅkara  
 Gaṅgādāsa  Paṇḍita  this  Śaṅkara Paṇḍita
 
-(85) This is Ācāryaratna, that is Purandara Paṇḍita; this is Gaṅgādāsa Paṇḍita, that is Śaṅkara Paṇḍita.
+(85) This is Ācāryaratna, that is Purandara Paṇḍita; this is Gaṅgādāsa Paṇḍita, that is Śaṅkara Paṇḍita.[^25]
 
 এই মুরারি গুপ্ত, ইঁহ পণ্ডিত নারায়ণ ৷  
 হরিদাস ঠাকুর ইঁহ ভুবনপাবন ॥ ৮৬ ॥
@@ -926,7 +926,7 @@ Govinda  Mādhava  Ghoṣa  this  Vāsu Ghoṣa
 tina bhāira kīrtane prabhu pāyena santoṣa  
 of the three  brothers  in the kīrtana  the Lord  finds  delight
 
-(88) Here are Govinda, Mādhava Ghoṣa and Vāsu Ghoṣa — three brothers whose kīrtana delights the Lord.
+(88) Here are Govinda, Mādhava Ghoṣa and Vāsu Ghoṣa — three brothers whose kīrtana delights the Lord.[^26]
 
 রাঘব পণ্ডিত, ইঁহ আচার্য্য নন্দন ৷  
 শ্রীমান্ পণ্ডিত এই, শ্রীকান্ত, নারায়ণ ॥ ৮৯ ॥
@@ -1296,3 +1296,29 @@ free  darśana  arrange  not  may be  hindrance
 [^12]: *Amṛta-pravāha-bhāṣya*: Purī is Paramānanda Purī, Bhāratī is Brahmānanda Bhāratī, Svarūpa is Svarūpa Dāmodara, Nityānanda is Nityānanda Prabhu — the four Gosāñis of the next verse.
 
 [^13]: *Anubhāṣya*: the soul is like the rider in a chariot, the feet are the chariot, and the mind is the charioteer; wherever the mind drives, there the soul goes. Compare Kaṭha Upaniṣad 1.3.3–6, 9: the self is the rider, the body the chariot, the intelligence the charioteer and the mind the reins.
+
+[^14]: The words of Pratāparudra to Sārvabhauma; the reference follows the heading in the edition (act 8, verse 29).
+
+[^15]: Heading in the edition: “The king resolves to give up his life if he does not receive the Lord’s mercy.”
+
+[^16]: *Anubhāṣya*: the flower garden is at Guṇḍicā.
+
+[^17]: *Anubhāṣya*: after the Snāna-yātrā the painting of Śrī Jagannātha’s body (*aṅga-rāga*) is renewed, and for that time the Deity stays apart, hidden from those who come for darśana; this period is called *anavasara*.
+
+[^18]: *Amṛta-pravāha-bhāṣya*: during the *anavasara* the Lord could not see Jagannātha and, beside Himself in separation from Kṛṣṇa, went to Ālālanātha and stayed there.
+
+[^19]: *Anubhāṣya*: on Gopīnātha Ācārya see Ādi 10.130.
+
+[^20]: *Anubhāṣya*: the mahā-bhāgavatas are *niṣkiñcanas* above *varṇāśrama*, *paramahaṁsas* whose only shelter is Kṛṣṇa; as Śrī Narottama Ṭhākura writes in his *Prārthanā*, “One who regards the associates of Gaurāṅga as eternally perfect goes to the son of the king of Vraja.”
+
+[^21]: *Amṛta-pravāha-bhāṣya*: Narendra is the pond where the Candana-yātrā festival is held; even today Gauḍīya Vaiṣṇavas coming to Puruṣottama wash their hands and feet in its water before going to the temple.
+
+[^22]: The *paḍichā* is the superintendent of the temple (see verse 119).
+
+[^23]: *Amṛta-pravāha-bhāṣya*: “the Ācārya said” — Gopīnātha Ācārya said.
+
+[^24]: *Anubhāṣya*: Vidyānidhi Ācārya (Ācāryanidhi) is Puṇḍarīka Vidyānidhi; see the *Anubhāṣya* on Ādi 10.14.
+
+[^25]: The heading in the edition gives Ācāryaratna’s name — Candraśekhara.
+
+[^26]: *Amṛta-pravāha-bhāṣya*: Govinda Ghoṣa was born in a Kāyastha family of Uttara-rāḍha; he is called Ghoṣa Ṭhākura, and to this day a fair is held in his name at Agradvīpa, near Katwa. Vāsu Ghoṣa composed many songs about Mahāprabhu, which hold the first place among the songs of the mahājanas.
