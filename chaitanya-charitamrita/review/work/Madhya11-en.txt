@@ -189,7 +189,7 @@ w: hard to attain  indeed  for one of little austerity
 w: service  to those who are the path to Vaikuṇṭha
 w: in whom  is sung  constantly
 w: the God of gods  Janārdana
-tr: “For one whose austerity is slight, service is hard to attain to those who walk the path to Vaikuṇṭha — the devotees among whom Janārdana, the God of gods, is constantly glorified.” (Śrīmad-Bhāgavatam, 3.7.20)
+tr: “For one whose austerity is slight, it is hard to attain service to those who walk the path to Vaikuṇṭha — the devotees among whom Janārdana, the God of gods, is constantly glorified.” (Śrīmad-Bhāgavatam, 3.7.20)
 fn: *Anubhāṣya*: the words of Vidura to Maitreya. Only by serving great souls does one hear hari-kathā; from it love for Hari is born, and with it even concern for the body falls away.
 
 ## 33
@@ -227,7 +227,8 @@ tr: What could I do? My mind brought me here; it gave no thought to seeing Jagan
 ## 39
 w: the Lord  says  quickly  going  take  darśana
 w: likewise  home  going  make  with the family  meeting
-tr: The Lord said, “Go quickly and see Jagannātha; then go home in the same way and meet your family.”
+tr: The Lord said, “Go quickly and see Jagannātha; then go straight home and meet your family.”
+fn: *Amṛta-pravāha-bhāṣya*: having seen Jagannātha, go straight home and meet your relatives.
 
 ## 40
 w: of the Lord  the order  getting  Rāya  went  for darśana
