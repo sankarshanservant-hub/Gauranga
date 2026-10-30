@@ -18,6 +18,18 @@ Sārvabhauma said, “Let us all go together and tell Mahāprabhu how the king c
 
 The king said that without the *darśana* of Gaurahari enjoying his kingdom did not touch his heart, that is, it gave him no pleasure.
 
+## 24–25
+
+From the standpoint of the highest goal (*paramārtha*), a *sannyāsī* incurs fault by meeting a king. Quite apart from that fault, people censure a *sannyāsī* if they see in him even the slightest flaw. There is a reason to avoid people's censure. A *sannyāsī*'s work is to preach *dharma* in the world. If the world censures him, the preaching of *dharma* cannot go well. Therefore he must also keep the good opinion of the people. “Never mind people's censure: even from this Dāmodara Paṇḍita who sits beside Me it is hard to escape — he will surely scold Me. I cannot meet the king just because you tell Me to. If Dāmodara tells Me to meet him, then I can.” The Lord's words hold many hidden meanings. The Lord is won over by Dāmodara's devotion, yet Dāmodara's verbal chastisement is often improper toward the Lord. With these words the Lord shows that Dāmodara will have to give up that habit.
+
+## 31–32
+
+One day Śrī Kṛṣṇa, with the cowherd boys and the herds of cows, came near Mathurā, and the cowherd boys grew hungry. Kṛṣṇa said, “In the nearby forest some *brāhmaṇas* are performing a sacrifice. Go to them and beg for food in My name.” The cowherd boys went and asked for food, but the sacrificing *brāhmaṇas*, dulled by ritual work, gave none. The *brāhmaṇas'* wives, however, out of their natural attachment to Kṛṣṇa, heard the boys' request, left their husbands' sacrifice, and went through much trouble to bring food to Śrī Kṛṣṇa. The point is this: when a devotee has attachment (*anurāga*) to Bhagavān, he is ready even to give up his life in serving Him.
+
+## 44
+
+As the king's minister, Rāmānanda Rāya was highly skilled in every kind of business, including affairs of state. So he described the king's love for Mahāprabhu and melted the Lord's heart.
+
 ---
 
 [^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.
