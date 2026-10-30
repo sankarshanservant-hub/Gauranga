@@ -244,41 +244,51 @@ free from worry  being  worship  of Caitanya  the feet
 তাঁরে যেই ভজে, তাঁর সফল জীবনে ॥ ২৩ ॥
 
 āmi — chāra, yogya nahi tāṅra daraśane  
-tāṅre yei bhaje, tāṅra saphala jīvane
+I  am wretched  fit  not  His  for the sight  
+tāṅre yei bhaje, tāṅra saphala jīvane  
+Him  whoever  worships  his  fruitful  life
 
-(23) [not yet translated]
+(23) Then he said, ‘I am wretched, not fit to see Him. But whoever worships Him has made his life fruitful.
 
 পরম-কৃপালু তেঁহ ব্রজেন্দ্রনন্দন ৷  
 কোন-জন্মে মোরে অবশ্য দিবেন দরশন ॥ ২৪ ॥
 
 parama-kṛpālu teṅha vrajendra-nandana  
-kona-janme more avaśya dibena daraśana
+supremely merciful  He  the son of the king of Vraja  
+kona-janme more avaśya dibena daraśana  
+in some birth  to me  surely  He will give  His sight
 
-(24) [not yet translated]
+(24) He, the son of the king of Vraja, is supremely merciful; in some birth He will surely let me see Him.’
 
 যে তাঁহার প্রেম-আর্ত্তি দেখিলুঁ তোমাতে ৷  
 তার এক প্রেম-লেশ নাহিক আমাতে ॥ ২৫ ॥
 
 ye tāṅhāra prema-ārti dekhiluṅ tomāte  
-tāra eka prema-leśa nāhika āmāte
+which  his  anguish of love  I saw  for You  
+tāra eka prema-leśa nāhika āmāte  
+of that  one  particle of love  there is not  in me
 
-(25) [not yet translated]
+(25) Of the anguish of love for You that I saw in him, not even a particle is in me.”
 
 প্রভু কহে, — তুমি কৃষ্ণভকত-প্রধান ৷  
 তোমাকে যে প্রীতি করে, সেই ভাগ্যবান্ ॥ ২৬ ॥
 
 prabhu kahe, — tumi kṛṣṇa-bhakata-pradhāna  
-tomāke ye prīti kare, sei bhāgyavān
+the Lord  says  you  foremost among Kṛṣṇa’s devotees  
+tomāke ye prīti kare, sei bhāgyavān  
+you  who  loves  he  fortunate
 
-(26) [not yet translated]
+(26) The Lord said, “You are the foremost of Kṛṣṇa’s devotees. Whoever loves you is fortunate.
 
 তোমাতে যে এত প্রীতি হইল রাজার ৷  
 এই গুণে কৃষ্ণ তাঁরে করিবে অঙ্গীকার ॥ ২৭ ॥
 
 tomāte ye eta prīti haila rājāra  
-ei guṇe kṛṣṇa tāṅre karibe aṅgīkāra
+for you  which  so much  love  has arisen  of the king  
+ei guṇe kṛṣṇa tāṅre karibe aṅgīkāra  
+for this  quality  Kṛṣṇa  him  will accept  as His own
 
-(27) [not yet translated]
+(27) Because the king has come to love you so much, for this quality Kṛṣṇa will accept him as His own.
 
 যে মে ভক্তজনাঃ পার্থ  
 ন মে ভক্তাশ্চ তে জনাঃ ৷  
@@ -286,163 +296,211 @@ ei guṇe kṛṣṇa tāṅre karibe aṅgīkāra
 স্তে মে ভক্ততমা মতাঃ ॥ ২৮ ॥
 
 ye me bhakta-janāḥ pārtha  
+who  My  devotees  O Pārtha  
 na me bhaktāś ca te janāḥ  
+not  My  devotees  and  those  people  
 mad-bhaktānāṁ ca ye bhaktās  
-te me bhakta-tamā matāḥ
+of My devotees  and  who  devotees  
+te me bhakta-tamā matāḥ  
+they  by Me  the best of devotees  are considered
 
-(28) [not yet translated]
+(28) “O Pārtha, those who are devoted only to Me are not truly My devotees; but those who are devoted to My devotees I consider the best of My devotees.” (Ādi-purāṇa; also Laghu-bhāgavatāmṛta, 2.6)
 
 আদরঃ পরিচর্য্যায়াং সর্ব্বাঙ্গৈরভিবন্দনম্ ৷  
 মদ্ভক্তপূজাভ্যধিকা সর্ব্বভূতেষু মন্মতিঃ ॥ ২৯ ॥
 
 ādaraḥ paricaryāyāṁ  
+reverence  for My service  
 sarvāṅgair abhivandanam  
+with all the limbs  obeisance  
 mad-bhakta-pūjābhyadhikā  
-sarva-bhūteṣu man-matiḥ
+worship of My devotees  greater  
+sarva-bhūteṣu man-matiḥ  
+in all beings  awareness of Me
 
-(29) [not yet translated]
+(29) “Reverence for My service, obeisance with the whole body, worship of My devotees greater than worship of Me, seeing Me in all living beings,
 
 মদর্থেষ্বঙ্গচেষ্টা চ বচসা মদ্গুণেরণম্ ৷  
 ময্যর্পণঞ্চ মনসঃ সর্ব্বকামবিবর্জ্জনম্ ॥ ৩০ ॥
 
 mad-artheṣv aṅga-ceṣṭā ca  
+for My sake  the actions of the body  and  
 vacasā mad-guṇeraṇam  
+with speech  telling of My qualities  
 mayy arpaṇaṁ ca manasaḥ  
-sarva-kāma-vivarjanam
+to Me  offering  and  of the mind  
+sarva-kāma-vivarjanam  
+of all desires  giving up
 
-(30) [not yet translated]
+(30) the actions of the body done for My sake, speech that tells of My qualities, a mind offered to Me, and the giving up of all other desires.” (Śrīmad-Bhāgavatam, 11.19.21–22)
 
 আরাধনানাং সর্ব্বেষাং বিষ্ণোরারাধনং পরম্ ৷  
 তস্মাৎ পরতরং দেবি তদীয়ানাং সমর্চ্চনম্ ॥ ৩১ ॥
 
 ārādhanānāṁ sarveṣāṁ  
+of forms of worship  of all  
 viṣṇor ārādhanaṁ param  
+of Viṣṇu  the worship  highest  
 tasmāt parataraṁ devi  
-tadīyānāṁ samarcanam
+than that  higher still  O goddess  
+tadīyānāṁ samarcanam  
+of those who are His  the worship
 
-(31) [not yet translated]
+(31) “O goddess, of all forms of worship the worship of Viṣṇu is the highest; but higher still is the worship of those who belong to Him.” (Padma-purāṇa, 6.253.176)
 
 দুরাপা হ্যল্পতপসঃ সেবা বৈকুণ্ঠবর্ত্মসু ৷  
 যত্রোপগীয়তে নিত্যং দেবদেবো জনার্দ্দনঃ ॥ ৩২ ॥
 
 durāpā hy alpa-tapasaḥ  
+hard to attain  indeed  for one of little austerity  
 sevā vaikuṇṭha-vartmasu  
+service  to those who are the path to Vaikuṇṭha  
 yatropagīyate nityaṁ  
-deva-devo janārdanaḥ
+in whom  is sung  constantly  
+deva-devo janārdanaḥ  
+the God of gods  Janārdana
 
-(32) [not yet translated]
+(32) “For one whose austerity is slight, service is hard to attain to those who walk the path to Vaikuṇṭha — the devotees among whom Janārdana, the God of gods, is constantly glorified.” (Śrīmad-Bhāgavatam, 3.7.20)
 
 পুরী, ভারতী-গোসাঞি, স্বরূপ, নিত্যানন্দ ৷  
 জগদানন্দ, মুকুন্দাদি, যত ভক্তবৃন্দ ॥ ৩৩ ॥
 
 purī, bhāratī-gosāñi, svarūpa, nityānanda  
-jagadānanda, mukundādi yata bhakta-vṛnda
+Purī  Bhāratī Gosāñi  Svarūpa  Nityānanda  
+jagadānanda, mukundādi yata bhakta-vṛnda  
+Jagadānanda  Mukunda and others  all  the devotees
 
-(33) [not yet translated]
+(33) Purī, Bhāratī Gosāñi, Svarūpa, Nityānanda, Jagadānanda, Mukunda and all the other devotees were there.
 
 চারি গোসাঞির কৈল রায় চরণ বন্দন ৷  
 যথাযোগ্য সব ভক্তের করিল মিলন ॥ ৩৪ ॥
 
 cāri gosāñira kaila rāya caraṇa vandana  
-yathā-yogya saba bhaktera karila milana
+of the four  Gosāñis  made  Rāya  to the feet  obeisance  
+yathā-yogya saba bhaktera karila milana  
+as befitting  all  with the devotees  made  meeting
 
-(34) [not yet translated]
+(34) Rāya bowed at the feet of the four Gosāñis and met all the devotees, each as befitted him.
 
 প্রভু কহে, — রায়, দেখিলে কমলনয়ন ?  
 রায় কহে, — এবে যাই’ পাব দরশন ॥ ৩৫ ॥
 
 prabhu kahe, — rāya, dekhile kamala-nayana?  
-rāya kahe, — ebe yāi’ pāba daraśana
+the Lord  says  Rāya  have you seen  the lotus-eyed Lord  
+rāya kahe, — ebe yāi’ pāba daraśana  
+Rāya  says  now  going  I shall get  darśana
 
-(35) [not yet translated]
+(35) The Lord said, “Rāya, have you seen the lotus-eyed Lord?” Rāya said, “I am going now to see Him.”
 
 প্রভু কহে, — রায়, তুমি কি কার্য্য করিলে ?  
 ঈশ্বরে না দেখি’ কেনে আগে হেথা আইলে ? ॥ ৩৬ ॥
 
 prabhu kahe, — rāya, tumi ki kārya karile?  
-īśvare nā dekhi’ kene āge hethā āile?
+the Lord  says  Rāya  you  what  deed  have done  
+īśvare nā dekhi’ kene āge hethā āile?  
+the Lord  not  seeing  why  first  here  you came
 
-(36) [not yet translated]
+(36) The Lord said, “Rāya, what have you done? Why did you come here first, without seeing the Lord?”
 
 রায় কহে, চরণ — রথ, হৃদয় — সারথি ৷  
 যাঁহা লঞা যায়, তাঁহা যায় জীব-রথী ॥ ৩৭ ॥
 
 rāya kahe, caraṇa — ratha, hṛdaya — sārathi  
-yāṅhā lañā yāya, tāṅhā yāya jīva-rathī
+Rāya  says  the feet  the chariot  the heart  the charioteer  
+yāṅhā lañā yāya, tāṅhā yāya jīva-rathī  
+wherever  taking  it goes  there  goes  the soul who rides
 
-(37) [not yet translated]
+(37) Rāya said, “The feet are the chariot and the heart is the charioteer. Wherever the heart drives, there the soul who rides in the chariot must go.
 
 আমি কি করিব, মন ইঁহা লঞা আইল ৷  
 জগন্নাথ-দরশনে বিচার না কৈল ॥ ৩৮ ॥
 
 āmi ki kariba, mana iṅhā lañā āila  
-jagannātha-daraśane vicāra nā kaila
+I  what  shall do  the mind  here  bringing  came  
+jagannātha-daraśane vicāra nā kaila  
+about seeing Jagannātha  consideration  not  made
 
-(38) [not yet translated]
+(38) What could I do? My mind brought me here; it gave no thought to seeing Jagannātha first.”
 
 প্রভু কহে, — শীঘ্র গিয়া কর দরশন ৷  
 ঐছে ঘর যাই’ কর কুটুম্ব মিলন ॥ ৩৯ ॥
 
 prabhu kahe, — śīghra giyā kara daraśana  
-aiche ghara yāi’ kara kuṭumba milana
+the Lord  says  quickly  going  take  darśana  
+aiche ghara yāi’ kara kuṭumba milana  
+likewise  home  going  make  with the family  meeting
 
-(39) [not yet translated]
+(39) The Lord said, “Go quickly and see Jagannātha; then go home in the same way and meet your family.”
 
 প্রভু আজ্ঞা পাঞা রায় চলিলা দরশনে ৷  
 রায়ের প্রেমভক্তি-রীতি বুঝে কোন্ জনে ॥ ৪০ ॥
 
 prabhu ājñā pāñā rāya calilā daraśane  
-rāyera prema-bhakti-rīti bujhe kon jane
+of the Lord  the order  getting  Rāya  went  for darśana  
+rāyera prema-bhakti-rīti bujhe kon jane  
+of Rāya  of loving devotion  the ways  understands  what  person
 
-(40) [not yet translated]
+(40) Receiving the Lord’s order, Rāya went to see Jagannātha. Who can understand the ways of Rāya’s loving devotion?
 
 ক্ষেত্রে আসি’ রাজা সার্ব্বভৌমে বোলাইলা ৷  
 সার্ব্বভৌমে নমস্করি’ তাঁহারে পুছিলা ॥ ৪১ ॥
 
 kṣetre āsi’ rājā sārvabhaume bolāilā  
-sārvabhaume namaskari’ tāṅhāre puchilā
+to the Kṣetra  coming  the king  Sārvabhauma  summoned  
+sārvabhaume namaskari’ tāṅhāre puchilā  
+to Sārvabhauma  bowing  him  asked
 
-(41) [not yet translated]
+(41) Arriving at the holy Kṣetra, the king summoned Sārvabhauma. Bowing to him, he asked,
 
 মোর লাগি’ প্রভুপদে কৈলে নিবেদন ?  
 সার্ব্বভৌম কহে, — কৈনু অনেক যতন ॥ ৪২ ॥
 
 mora lāgi’ prabhu-pade kaile nivedana?  
-sārvabhauma kahe, — kainu aneka yatana
+me  for the sake of  at the feet of the Lord  did you make  the request  
+sārvabhauma kahe, — kainu aneka yatana  
+Sārvabhauma  says  I made  much  effort
 
-(42) [not yet translated]
+(42) “Did you make my request at the Lord’s feet?” Sārvabhauma said, “I tried very hard.
 
 তথাপি না করে তেঁহ রাজ-দরশন ৷  
 ক্ষেত্র ছাড়ি’ যাবেন পুনঃ যদি করি নিবেদন ॥ ৪৩ ॥
 
 tathāpi nā kare teṅha rāja-daraśana  
-kṣetra chāḍi’ yābena punaḥ yadi kari nivedana
+still  not  does  He  meeting a king  
+kṣetra chāḍi’ yābena punaḥ yadi kari nivedana  
+the Kṣetra  leaving  He will go  again  if  I make  the request
 
-(43) [not yet translated]
+(43) Still, He will not see a king. If I ask Him again, He will leave the Kṣetra.”
 
 শুনিয়া রাজার মনে দুঃখ উপজিল ৷  
 বিষাদ করিয়া কিছু কহিতে লাগিল ॥ ৪৪ ॥
 
 śuniyā rājāra mane duḥkha upajila  
-viṣāda kariyā kichu kahite lāgila
+hearing  of the king  in the mind  sorrow  arose  
+viṣāda kariyā kichu kahite lāgila  
+lamentation  making  something  to speak  he began
 
-(44) [not yet translated]
+(44) Hearing this, the king was grieved at heart, and in his despair he began to speak.
 
 পাপী-নীচ উদ্ধারিতে তাঁর অবতার ৷  
 জগাই-মাধাই করিয়াছেন উদ্ধার ॥ ৪৫ ॥
 
 pāpī-nīca uddhārite tāṅra avatāra  
-jagāi-mādhāi kariyāchena uddhāra
+the sinful and the low  to deliver  His  descent  
+jagāi-mādhāi kariyāchena uddhāra  
+Jagāi and Mādhāi  He has made  deliverance
 
-(45) [not yet translated]
+(45) “He has descended to deliver the sinful and the fallen; He delivered even Jagāi and Mādhāi.
 
 প্রতাপরুদ্র ছাড়ি’ করিবে জগৎ-নিস্তার ৷  
 এই প্রতিজ্ঞা করি’ করিয়াছেন অবতার ॥ ৪৬ ॥
 
 pratāparudra chāḍi’ karibe jagat-nistāra  
-ei pratijñā kari’ kariyāchena avatāra
+Pratāparudra  leaving out  He will make  of the world  deliverance  
+ei pratijñā kari’ kariyāchena avatāra  
+this  vow  making  He has made  His descent
 
-(46) [not yet translated]
+(46) He has descended with this vow: He will deliver the whole world, leaving out Pratāparudra alone.
 
 অদর্শনীয়ানপি নীচজাতীন্  
 সংবীক্ষতে হন্ত তথাপি নো মাম্ ৷  
@@ -1428,15 +1486,15 @@ punaḥ punaḥ āliṅgiyā karila sammāna
 সবারে সম্মানি’ প্রভুর হইল উল্লাস ৷  
 হরিদাসে না দেখিয়া কহে, — কাঁহা হরিদাস ॥ ১৬১ ॥
 
-sabāre sammāni’ prabhura ha-ila ullāsa  
+sabāre sammāni’ prabhura haila ullāsa  
 haridāse nā dekhiyā kahe, — kāṅhā haridāsa
 
 (161) [not yet translated]
 
-দূর হৈতে হরিদাস গোসাঞে দেখিয়া ৷  
+দূর হৈতে হরিদাস গোসাঞে না দেখিয়া ৷  
 রাজপথ-প্রান্তে পড়ি’ আছে দণ্ডবৎ হঞা ॥ ১৬২ ॥
 
-dūra haite haridāsa gosāñe dekhiyā  
+dūra haite haridāsa gosāñe nā dekhiyā  
 rājapatha-prānte paḍi’ āche daṇḍavat hañā
 
 (162) [not yet translated]
@@ -1469,7 +1527,7 @@ mandira-nikaṭe yāite mora nāhi adhikāra
 তাঁহা পড়ি’ রহো’ একলে কাল গোঙাঙ ॥ ১৬৬ ॥
 
 nibhṛte ṭoṭā-madhye sthāna yadi pāṅa  
-tāṅhā paḍi’ raho, ekale kāla goṅāṅa
+tāṅhā paḍi’ raho’ ekale kāla goṅāṅa
 
 (166) [not yet translated]
 
@@ -1492,7 +1550,7 @@ ei kathā loka giyā prabhure kahila
 হেনকালে কাশীমিশ্র, পড়িছা, — দুই জন ৷  
 আসিয়া করিল প্রভুর চরণ বন্দন ॥ ১৬৯ ॥
 
-hena-kāle kāśī-miśra, paḍichā, — dui-jana  
+hena-kāle kāśī-miśra, paḍichā, — dui jana  
 āsiyā karila prabhura caraṇa vandana
 
 (169) [not yet translated]
@@ -1508,7 +1566,7 @@ yathā-yogya sabā-sane ānande mililā
 প্রভুপদে দুই জনে কৈল নিবেদনে ৷  
 আজ্ঞা দেহ’, — বৈষ্ণবের করি সমাধানে ॥ ১৭১ ॥
 
-prabhu-pade dui-jane kaila nivedane  
+prabhu-pade dui jane kaila nivedane  
 ājñā deha’, — vaiṣṇavera kari samādhāne
 
 (171) [not yet translated]
@@ -1516,7 +1574,7 @@ prabhu-pade dui-jane kaila nivedane
 সবার করিয়াছি বাসা-গৃহ স্থান ৷  
 মহাপ্রসাদ সবাকারে করি সমাধান ॥ ১৭২ ॥
 
-sabāra kariyāchi vāsā-gṛha-sthāna  
+sabāra kariyāchi vāsā-gṛha sthāna  
 mahā-prasāda sabākāre kari samādhāna
 
 (172) [not yet translated]
@@ -1533,7 +1591,7 @@ yāṅhā yāṅhā kahe vāsā, tāṅhā deha’ lañā
 সর্ব্ব বৈষ্ণব ইঁহো করিবে সমাধানে ॥ ১৭৪ ॥
 
 mahā-prasādānna deha vāṇīnātha sthāne  
-sarva-vaiṣṇava iṅho karibe samādhāne
+sarva vaiṣṇava iṅho karibe samādhāne
 
 (174) [not yet translated]
 
@@ -1580,7 +1638,7 @@ gopīnātha, vāṇīnātha, duṅhe saṅge nila
 গোপীনাথে দেখাইল সব বাসা-ঘর ৷  
 বাণীনাথ-ঠাঞি দিল প্রসাদ বিস্তর ॥ ১৮০ ॥
 
-gopīnāthe dekhāila saba vāsā ghara  
+gopīnāthe dekhāila saba vāsā-ghara  
 vāṇīnātha-ṭhāñi dila prasāda vistara
 
 (180) [not yet translated]
