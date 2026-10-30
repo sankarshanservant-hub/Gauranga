@@ -2031,7 +2031,7 @@ that  prasāda food  Govinda  himself  received
 ‘ধোয়াপাখলা’ নাম কৈল এই এক লীলা ॥ ২০৩ ॥
 
 svatantra īśvara prabhu kare nānā khelā  
-independent  the Lord  the Lord (Caitanya)  plays  various  games  
+independent  Supreme Lord  the Lord  plays  various  games  
 ‘dhoyā-pākhalā’ nāma kaila ei eka līlā  
 “washing and scrubbing”  by name  He made  this  one  pastime
 
