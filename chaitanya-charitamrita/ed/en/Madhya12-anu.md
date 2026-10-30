@@ -456,8 +456,116 @@ Bhagavān is the eternal master of the *jīva*. If the *jīva*, His eternal serv
 
 > Subheading: The penalty for whoever collects the least: he must treat the others to *prasāda* —
 
+## 133
+
+> Subheading: The Guṇḍicā is made spotless —
+
+## 134
+
+> Subheading: The water is let out through the drain —
+
+## 135
+
+> Subheading: All the roads to the Guṇḍicā are cleared —
+
+The secret of the pastime of cleaning the Guṇḍicā. Through this pastime Mahāprabhu, the teacher of the world (*jagad-guru*), teaches that if a fortunate *jīva* wishes to seat Śrī Kṛṣṇa on the throne of his heart, he must first wash the dirt from his heart. He must make his heart pure, peaceful and radiant with devotion. If the field of the heart holds even a trace of *anarthas* — thorny grass or weeds, dust, pebbles and the like — Bhagavān, the supreme object of service, cannot be seated there. This dirt, this rubbish of the heart, is nothing but other desires (*anyābhilāṣa*), *karma*, *jñāna*, the endeavors of *yoga* and so on. Śrīla Rūpa Gosvāmī Prabhu says: “The highest devotion is the cultivation of service to Kṛṣṇa in a favorable spirit, free from other desires and not covered by *jñāna*, *karma* and the like.”[^135-1]
+
+*Bhakti* is the eternal, natural function of the soul. Where it is covered by desires other than *bhakti*, by *jñāna*, *karma*, *yoga*, austerity and the like, or by a mood hostile to *bhakti*, there is no pure *bhakti*. And without pure *bhakti*, made of pure goodness (*śuddha-sattva*), Kṛṣṇa does not appear.
+
+Other desires (*anyābhilāṣa*) are low desires such as “As long as I am in this world, I will only gratify my senses.” Like thorny grass, they pierce the tenderest movement of the pure *jīva*'s heart — unalloyed devotion (*kevala-bhakti*). The endeavor for *karma* is activity full of desires — sacrifices (*yāga*, *yajña*), charity, austerity and so on — with the thought “I will enjoy happiness in the higher worlds such as Svarga, or in this world.” It is like dust. In the whirlwind of *karma*, heaps of dust — desires (*vāsanās*) — cover the clear and spotless mirror of our heart. Countless heaps of dust — desires born of good and bad deeds — have soiled the heart of the *jīva* averse to Hari through birth after birth. That is why his urge for *karma* does not go away. The *jīva* averse to Hari thinks that the thorn of *karma* can perhaps be removed by *karma* itself. But this notion is wrong: led by it, he only goes on deceiving himself. Bathe an elephant, and it smears itself with dust again. In the same way, *karma* cannot drive away the desire for *karma*. Only unalloyed devotion removes all the *jīva*'s troubles. Then, on the pure throne of his heart, Śrī Bhagavān finds a place fit for His rest. Therefore a devotee-poet has sung: “In the devotee's heart Govinda always rests.”
+
+The endeavors for the impersonal (*nirviśeṣa*), *kaivalya-yoga*, *jñāna-yoga* and the like are exactly like pebbles. Far from pleasing or serving Śrī Hari, they are only attempts to drive a spear into Śrī Hari's body. True, in seeking the impersonal Brahman one at first, as one who longs for liberation (*mumukṣu*), accepts Śrī Hari's name and so on as something secondary. But once one thinks oneself liberated, Brahman, one no longer accepts His separate existence. So Bhagavān does not appear in the hearts of such unfortunate *jīvas* who think themselves liberated. That is why Śrī Gaurasundara did not leave all this heap of rubbish — the straw, dust, gravel and so on — even within the boundary of Bhagavān's temple. He carried it all outside in His own outer cloth and threw it away, so that the wind would not blow that refuse back into the Śrī Mandira.
+
+Often, even when the endeavors for *karma*, *jñāna* and so on are gone, very subtle dirt remains in the heart. It can be likened to *kuṭināṭi*, *pratiṣṭhāśā*, *jīva-hiṁsā*, *niṣiddhācāra*, *lābha*, *pūjā* and the like. *Kuṭināṭi* means duplicity. *Pratiṣṭhāśā* is the hope for worldly honor and so on: “Let foolish people, seeing my solitary *bhajana* or my show of sanctity, call me a great *sādhu* or *mahānta*.” Or it is the hope to pass for a “devotee” or an “*avatāra*” by displaying artificial ecstatic symptoms — a mere shadow of *bhāva* (*bhāvābhāsa*) — while the heart has hardened in pursuit of worldly enjoyment and seeks its own gain. *Jīva-hiṁsā* (violence to living beings) means timidity or stinginess in preaching pure *bhakti*, indulging Māyāvādīs, *karmīs* and *anyābhilāṣīs*, or speaking so as to please them. *Lābha-pūjā* means making a living in the name of religion from the holy name, *mantra*, the Deity and the *Bhāgavata*, and cheating foolish people to obtain money or honor. *Niṣiddhācāra* (forbidden conduct) means association with women, and association with those who are not devoted to Kṛṣṇa — *karmīs*, *jñānīs*, *anyābhilāṣīs* and others.
+
+So Śrī Gaurasundara swept out the large pebbles, the straw, the heaps of dust and so on that had accumulated over many days. Then He cleaned the whole temple twice and washed it twice with water. And in case some subtle stain still remained anywhere, He began to rub the Śrī Mandira and the throne — the seat of Bhagavān — over and over with the dry cloth He was wearing.
+
+After all this washing, cleaning and rubbing, not a speck of dust, not even a faint stain, remained in the Śrī Mandira: it became as clear as crystal. Not only that, it also became cool. That is, the *sādhaka*'s heart, once like a desert scorched by the sun, became free of heat: the burning fire of the three miseries — *ādhyātmika* and the others — born of the desire for worldly enjoyment was put out. Indeed, when other desires and the craving for *bhukti* and *mukti* — the endeavors of *karma*, *jñāna*, *yoga* and so on — leave the heart, and pure *bhakti*, the soul's own function (*ātma-vṛtti*), becomes manifest, the heart becomes just like this, peaceful and cool.
+
+Often, even when all desires and cravings are gone, one or another subtle stain remains in some unknown corner of the heart, and the foolish *jīva* does not notice it. That is the desire for liberation. Not to speak of the impersonalists' desire for *sāyujya-mukti* — Śrīman Mahāprabhu rubbed away with His own cloth even the subtle stains of the desire for the other four kinds of liberation.
+
+In this way Śrī Gaurasundara, for the good of the *jīvas*, regarded Himself as a *jīva* and Himself, as *jagad-guru*, began to teach how a *sādhaka* should clean his heart for Kṛṣṇa. The heart must be turned into Vṛndāvana, the place where self-sufficient (*svarāṭ*) Kṛṣṇa freely enjoys His pastimes. And it must be cleaned out of the desire to please Kṛṣṇa's senses, with great enthusiasm, loudly chanting Kṛṣṇa's name. “Even if other forms of *bhakti* are performed in the age of Kali, they must be performed together with the *bhakti* called *kīrtana*.” Mahāprabhu went to each devotee and, taking him by the hand, taught him the service of the temple. He praised the one whose work was going well. The Lord is endowed with the *bhāva* of Śrī Rādhā, who is wholly devoted to fulfilling Kṛṣṇa's desires. And the one whose service was not to the Lord's liking He too took by the hand, after a holy rebuke, and taught the method of serving Kṛṣṇa. More than that: He encouraged the pure-hearted devotees who follow Caitanya's teaching, who have mastered the art of *bhajana* and are engaged in *bhakti-yoga* in nondual knowledge, and ordered them to do the work of an “*ācārya*” for other *jīvas* who are averse to the Lord (see verse 117). Further, the more inauspicious things one can draw out of the heart and clean away, the dearer one will be to the Lord. And for one whose *anarthas* have hardly been removed, service to Hari, guru and the Vaiṣṇavas is prescribed as the penalty.
+
+## 136
+
+> Subheading: After cleaning the temple of Nṛsiṁha, everyone rests —
+
+## 137
+
+> Subheading: All around, a great *saṅkīrtana*; in the middle, the Lord dances —
+
+## 138
+
+> Subheading: The Lord's eight *sāttvika* transformations and streams of tears —
+
+## 141
+
+> Subheading: To Svarūpa's loud *kīrtana* the Lord dances in bliss —
+
+## 142
+
+> Subheading: Rest after the dance —
+
+## 143
+
+> Subheading: The Lord tells Gopāla, Advaita's son, to dance —
+
+On Śrī Gopāla, see Ādi 12.19–26.
+
+## 144
+
+> Subheading: From dancing Gopāla loses consciousness —
+
+## 145
+
+> Subheading: The Ācārya's alarm —
+
+## 146
+
+> Subheading: With the *mantra* of Nṛsiṁha, Advaita tries to bring his son back to consciousness —
+
+## 147
+
+> Subheading: Gopāla still does not come to; the Ācārya and the other devotees grieve —
+
+## 148
+
+> Subheading: By Śrī Caitanya's mercy Gopāla regains consciousness; the devotees rejoice —
+
+## 150
+
+> Subheading: Ṭhākura Vṛndāvana dāsa has described this pastime —
+
+This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
+
+## 151
+
+> Subheading: The Lord bathes with the devotees —
+
+## 152
+
+> Subheading: After bathing, the Lord bows to Nṛsiṁha, goes to the garden and sits down —
+
+## 153
+
+> Subheading: Vāṇīnātha brings *prasāda* —
+
+## 154
+
+> Subheading: Kāśī Miśra and Tulasī the *paḍichā* send *prasāda* measured for five hundred people —
+
+## 156
+
+> Subheading: The Lord and His associates sit down to honor *prasāda* —
+
+## 158
+
+*Piṇḍā* (in the language of Utkala): a wooden seat; in Bengali, *pĩṛi*.
+
 ---
 
 [^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
 
 [^59-61-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
+
+[^135-1]: *Bhakti-rasāmṛta-sindhu* 1.1.11.

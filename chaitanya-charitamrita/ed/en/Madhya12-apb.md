@@ -34,6 +34,14 @@ As the king's minister, Rāmānanda Rāya was highly skilled in every kind of bu
 
 *Praṇālikāya*: into the drain.
 
+## 136
+
+The temple of Nṛsiṁha: near the Guṇḍicā-bāḍī stands a beautiful old temple of Nṛsiṁha. On the day of Nṛsiṁha-caturdaśī a great festival is held there. Śrī Murāri Gupta's *Śrī Caitanya-carita* describes the pastime of renovating the Nṛsiṁha temple in Śrī Navadvīpa-dhāma.
+
+## 151–152
+
+The Indradyumna pond is near the Guṇḍicā-bāḍī. The Lord bathed in that pond, bowed to Nṛsiṁhadeva and went to the garden.
+
 ---
 
 [^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.
