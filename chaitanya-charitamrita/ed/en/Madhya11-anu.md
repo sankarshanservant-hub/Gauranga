@@ -440,13 +440,13 @@ Through the story of Purañjana, Śrī Nārada Gosvāmī, who is fixed in Brahma
 
 > Subheading: Coming down, the king tells Kāśī Miśra and the *parichā-pātra* (the *paḍichā*) to arrange service for the devotees —
 
-## 120–122
-
-King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had come to Mahāprabhu from Gauḍa and other lands: they were to have good lodgings and good *prasāda*, and nothing was to hinder them in seeing Jagannātha properly and so on. And so that the devotees would be at ease in every way, even without receiving an explicit order from Mahāprabhu they were to understand His hint and at once carry out whatever needed to be done.
-
 ## 122
 
 > Subheading: It is best to serve by the hint of the one served —
+
+## 120–122
+
+King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had come to Mahāprabhu from Gauḍa and other lands: they were to have good lodgings and good *prasāda*, and nothing was to hinder them in seeing Jagannātha properly and so on. And so that the devotees would be at ease in every way, even without receiving an explicit order from Mahāprabhu they were to understand His hint and at once carry out whatever needed to be done.
 
 ## 123
 
@@ -517,6 +517,130 @@ King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had c
 ## 145
 
 > Subheading: Śrīvāsa's humility —
+
+## 146
+
+> Subheading: The Lord's love for Dāmodara is mixed with reverence; for Śaṅkara it is pure love —
+
+## 148
+
+> Subheading: Free of pride and respectful to others, Dāmodara Paṇḍita regards his younger brother Śaṅkara as superior to himself, knowing him dear to the Lord —
+
+## 149
+
+> Subheading: The Lord praises Śivānanda —
+
+## 150
+
+> Subheading: Śivānanda's humility —
+
+## 151
+
+> Subheading: A prayer for the Lord's mercy — *Caitanya-candrodaya-nāṭaka* (8.42) (verse 26 of the *stotra* of Yāmunācārya, or Ālavandāru) —
+
+**he ananta**, **cirāya** **bhavārṇavāntaḥ** (in the ocean of the miseries of *saṁsāra*) **nimajjataḥ** (of one drowning, without the strength to rise) **me** (my) **kūlam** (shore) **iva** (You, the Lord, by me) **labdhaḥ** **asi**; **he bhagavan**, **idānīṁ** (now) **tvayā** **api** **dayāyāḥ** **idam** **anuttamaṁ** (than which there is none better, the very best) **pātraṁ** **labdham** (has been obtained).
+
+## 152
+
+> Subheading: Out of humility Murāri Gupta keeps himself hidden —
+
+## 153
+
+> Subheading: The Lord searches for His devotee —
+
+## 154
+
+> Subheading: Murāri comes before the Lord in humility —
+
+## 155
+
+> Subheading: Thinking himself untouchable, Murāri shrinks from the Lord's touch —
+
+## 157
+
+> Subheading: The devotee's humility melts the Lord's heart —
+
+## 158
+
+> Subheading: The Lord serves His devotee —
+
+## 159
+
+> Subheading: The Lord praises and embraces Candraśekhara, Puṇḍarīka, Gadādhara and others —
+
+## 161
+
+> Subheading: The Lord looks for Haridāsa —
+
+## 162
+
+> Subheading: Out of humility Ṭhākura Haridāsa stays at a distance —
+
+## 164
+
+> Subheading: The devotees convey the Lord's order to Haridāsa —
+
+## 165
+
+> Subheading: Upholding the rules of propriety, Haridāsa speaks humbly —
+
+## 168
+
+> Subheading: The Lord rejoices to hear from others of Haridāsa's humble words —
+
+## 169
+
+> Subheading: Kāśī Miśra bows at the Lord's feet —
+
+## 171
+
+> Subheading: Kāśī Miśra asks the Lord how to serve the Vaiṣṇavas —
+
+## 173
+
+> Subheading: The Lord tells Gopīnātha Ācārya to see to all the devotees' needs —
+
+## 174
+
+> Subheading: Vāṇīnātha is put in charge of *prasāda* —
+
+## 175
+
+> Subheading: The Lord asks Kāśī Miśra for a secluded cottage in the garden —
+
+This place is now known as the Siddha-bakula Maṭha.
+
+## 177
+
+> Subheading: Kāśī Miśra begs the Lord to take whatever He likes, since all of it is His —
+
+## 178
+
+> Subheading: Kāśī Miśra prays to be accepted as a servant who carries out the Lord's orders —
+
+## 179
+
+> Subheading: Taking leave, they charge Gopīnātha with choosing the lodgings and Vāṇīnātha with arranging *prasāda* —
+
+## 182
+
+> Subheading: The Lord invites all the devotees to bathe, see the temple spire, and come to honor *prasāda* —
+
+## 184
+
+> Subheading: After bowing to the Lord, all the devotees receive the lodgings Gopīnātha assigns —
+
+## 185
+
+> Subheading: The Lord comes to Ṭhākura Haridāsa —
+
+## 186
+
+> Subheading: Haridāsa bows down, and the Lord embraces him —
+
+## 187
+
+> Subheading: Remembering each other's qualities, both devotee and Lord are overwhelmed with love —
 
 ---
 

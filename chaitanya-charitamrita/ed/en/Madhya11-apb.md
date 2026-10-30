@@ -108,6 +108,26 @@ When the Lord, contemplated within one's heart, shows a person mercy by inspirin
 
 Vāsudeva said: “Mukunda took shelter of Your feet before me, and I did so later. So Mukunda's spiritual birth came before mine, and therefore I have become the younger.”
 
+## 146
+
+Dāmodara Paṇḍita was the elder brother, and Śaṅkara Paṇḍita the younger. The Lord said: “Dāmodara, My love for you is mixed with reverence: it is love with respect. But for Śaṅkara I have only pure love. From now on keep Śaṅkara with you.” Dāmodara replied, “Prabhu, Śaṅkara has received more of Your affection, so although he is my younger brother, he has become the elder.”
+
+## 151
+
+O Ananta, I had long been sinking in the ocean of worldly existence, and now at last I have found You, like the shore. O Lord, You too, having found me, have obtained the best recipient of Your mercy. This verse belongs to the *stotra* of Ālavandāru Yāmunācārya.
+
+## 166
+
+***In the Ṭoṭā*** — in the garden.
+
+## 178
+
+Kindly order whatever You wish: we two are Your servants, who carry out Your orders.
+
+## 183
+
+***Cūḍā*** — the spire of the Jagannātha temple.
+
 ---
 
 [^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”
