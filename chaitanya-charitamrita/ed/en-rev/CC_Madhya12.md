@@ -248,7 +248,7 @@ spiritual good  let it be  people  will make  blame
 loke rahu, dāmodara karibe bhartsana  
 people  let them be  Dāmodara  will make  rebuke
 
-(24) Let alone the spiritual loss, people will condemn Me. And let alone the people, Dāmodara will scold Me.[^7]
+(24) Quite apart from the spiritual harm, people will condemn Me; and quite apart from the people, Dāmodara will scold Me.[^7]
 
 তোমা-সবার আজ্ঞায় আমি না মিলি রাজারে ৷  
 দামোদর কহে যবে, মিলি তবে তাঁরে ॥ ২৫ ॥
@@ -488,7 +488,7 @@ of the king  in the meeting  of a mendicant  both  worlds lost
 paraloka rahu, loke kare upahāsa  
 the next world  let it be  people  make  mockery
 
-(48) If a mendicant meets a king, both his worlds are lost. Let alone the next world, even here people will mock him.”
+(48) If a mendicant meets a king, both his worlds are lost. Quite apart from the next world, even here people will mock him.”
 
 রামানন্দ কহে, — তুমি ঈশ্বর স্বতন্ত্র ৷  
 কারে তোমার ভয়, তুমি নহ পরতন্ত্র ॥ ৪৯ ॥
