@@ -27,3 +27,43 @@ You received a salary, payment for your labor, in the post of governor of South 
 ## 25
 
 Rāmānanda said, “Prabhu, I saw in the king such love-pain for You that not even a particle of it is in me.”
+
+## 28
+
+O Pārtha, those who are devotees of Me alone are not truly My devotees; but those who are devotees of My devotees I know to be My “best devotees.”[^28-1]
+
+## 29–30
+
+Regard for serving Me, bowing down with the whole body, special worship of My devotees, seeing all beings in relation to Me, bodily effort for My sake, glorifying My qualities with words, offering the mind to Me, and giving up all desires — all these are the marks of a devotee.
+
+## 31
+
+O goddess, the worship of Viṣṇu is higher than the worship of other gods, and the worship of His devotee is higher than the worship of Viṣṇu.
+
+## 32
+
+There are servants of Kṛṣṇa who walk the path to Vaikuṇṭha, who ever sing of Janārdana, the God of gods. Service to them is out of reach for one of little austerity.
+
+## 33–34
+
+***Purī*** — Paramānanda Purī. ***Bhāratī*** — Brahmānanda Bhāratī. ***Svarūpa*** — the famous Dāmodara-svarūpa. ***Nityānanda*** — Nityānanda Prabhu. Rāmānanda bowed at the feet of these four Gosāñis.
+
+## 39
+
+Having seen Jagannātha, go straight home and meet your family.
+
+## 47
+
+“He gives His *darśana* to those not fit to be looked at, the low-born, yet He will not give it to me. Has He descended having resolved to show mercy to all *jīvas* but me?”
+
+## 56
+
+Reciting the verses of the five chapters on Śrī Kṛṣṇa's *rāsa* (*Śrīmad-Bhāgavatam*, Canto 10, Chapters 29–33), you will go alone and clasp Mahāprabhu's feet.
+
+## 63
+
+During the *anavasara* the Lord could not see Jagannātha, and, beside Himself in separation from Kṛṣṇa, He would go to Ālālanātha and stay there.
+
+---
+
+[^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”
