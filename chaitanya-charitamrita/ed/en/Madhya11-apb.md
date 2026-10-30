@@ -136,6 +136,28 @@ O Lord, those on whose lips is Your name are the best, even if they are *śva-pa
 
 ***In proper order*** — seating each where he ought to sit, one after another.
 
+## 214
+
+***A variant reading:*** “Seeing the evening offering of incense (*dhūpa*), He began *saṅkīrtana*. The *paḍichā* brought garlands and sandal paste. On four sides four groups performed *saṅkīrtana*, and in the middle the Lord, the son of Śacī, danced.”
+
+## 223
+
+***All the people bathe*** — the people all around bathe in streams of tears.
+
+## 224
+
+***Beḍā-nṛtya*** — dancing around the temple.
+
+## 233
+
+When Śrī Kṛṣṇa held a picnic on the riverbank (*pulina-bhojana*) in Vraja, the cowherd boys sat all around Him, and each of them saw Kṛṣṇa eating with His face turned toward him. In the same way, when Mahāprabhu danced, each of the devotees around Him saw His face directly before him. This too is a display of the Lord's majesty (*aiśvarya*). ***Nehāne*** — sees.
+
+## 238
+
+***Puṣpāñjali*** — the offering of flowers (*puṣpāñjali*) to Jagannāthadeva.
+
+*Thus ends the eleventh chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”

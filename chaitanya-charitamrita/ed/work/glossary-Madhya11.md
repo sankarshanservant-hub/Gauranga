@@ -34,3 +34,10 @@
 - শ্বপচ → шва-пача (собакоед) / *śva-paca* (dog-eater); অন্ত্যজ → антьяджа / *antyaja*
 - সুদর্শনচক্র (на шпиле храма) → Сударшана-чакра / the Sudarśana-cakra
 - “Шри Гаудия-бхашья” / *Śrī Gauḍīya-bhāṣya*
+- বেড়া-নৃত্য, বেড়া-কীর্ত্তন → беда-нритья (танец вокруг храма), беда-киртан / *beḍā-nṛtya* (dancing around the temple), *beḍā-kīrtana*
+- পুলিন-ভোজন → трапеза на берегу реки (пулина-бходжана) / riverbank picnic (*pulina-bhojana*)
+- ঐশ্বর্য্যপ্রকাশ → проявление величия (айшварьи) / a display of majesty (*aiśvarya*)
+- পুষ্পাঞ্জলি (Джаганнатхадевы) → пушпанджали (подношение цветов) / *puṣpāñjali* (offering of flowers)
+- সন্ধ্যা-ধূপ → вечернее воскурение благовоний (дхупа) / the evening offering of incense (*dhūpa*)
+- মহান্ত (চারি) → (четыре) маханты / the (four) *mahāntas*
+- অষ্টসাত্ত্বিক বিকার → восемь саттвика-викар / the eight *sāttvika* transformations

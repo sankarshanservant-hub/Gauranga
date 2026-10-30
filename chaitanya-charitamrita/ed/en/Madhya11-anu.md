@@ -700,6 +700,128 @@ Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura conside
 
 > Subheading: The Lord serves with His own hand —
 
+## 201
+
+> Subheading: Until the Lord eats, no one will honor *prasāda* —
+
+## 202
+
+> Subheading: Dāmodara-svarūpa begs the Lord to sit down to eat with Nitāi and himself undertakes to serve the devotees —
+
+## 204
+
+***The Ācārya*** — Śrī Gopīnātha Ācārya.[^204-1]
+
+## 206
+
+> Subheading: The Lord stops serving and sends *prasāda* to Haridāsa through Govinda —
+
+## 207
+
+> Subheading: The Lord honors *prasāda* with the *sannyāsīs*, and the Ācārya serves —
+
+***The Ācārya*** — Śrī Gopīnātha Ācārya.
+
+## 208
+
+> Subheading: Svarūpa and the other two serve all the devotees —
+
+## 209
+
+> Subheading: Calling out Hari's name while honoring *prasāda* —
+
+At that time the pure *sampradāya* had the custom of calling out Hari's name while honoring *prasāda*.
+
+## 210
+
+> Subheading: Everyone performs *ācamana* —
+
+## 211
+
+> Subheading: Everyone goes home, and in the evening they meet the Lord again —
+
+## 212
+
+> Subheading: Rāmānanda arrives and meets the Vaiṣṇavas —
+
+## 213
+
+> Subheading: In the evening *kīrtana* begins with the devotees in the temple courtyard —
+
+## 215
+
+> Subheading: The *paḍichā* gives everyone garlands and sandal paste; on four sides the great *kīrtana* of the four groups begins —
+
+## 218
+
+> Subheading: Hearing the *kīrtana*, many residents of Puri come and are amazed —
+
+## 220
+
+> Subheading: The “*beḍā-nṛtya*” *kīrtana*, that is, *kīrtana* circling the temple —
+
+## 221
+
+> Subheading: The Lord's eight *sāttvika* transformations —
+
+## 225
+
+> Subheading: The Lord dances amid the four groups —
+
+## 227
+
+> Subheading: The four *mahāntas*: (1) Nityānanda, (2) Advaita —
+
+## 228
+
+> Subheading: (3) Vakreśvara, (4) Śrīvāsa —
+
+## 229
+
+> Subheading: The Lord stays in the midst of the *kīrtana* and, to see all four dance, reveals His divine power —
+
+## 233
+
+> Subheading: A comparison with Kṛṣṇa's riverbank picnic among His friends in the Vraja pastimes —
+
+## 234
+
+> Subheading: The Lord embraces the dancing devotee who comes near Him —
+
+## 235
+
+> Subheading: The dancing of the great *saṅkīrtana* —
+
+## 236
+
+> Subheading: Pratāparudra watches the *kīrtana* from the roof of his palace —
+
+## 237
+
+> Subheading: The king is amazed and longs to see the Lord's feet —
+
+## 238
+
+> Subheading: After the *kīrtana*, having seen the *puṣpāñjali*, the Lord comes home with the devotees —
+
+## 239
+
+> Subheading: Everyone honors *prasāda* distributed by the Lord's hand —
+
+## 240
+
+> Subheading: The Lord lets the devotees go to rest —
+
+## 241
+
+> Subheading: As long as they stayed with the Lord, all enjoyed *kīrtana* like this —
+
+## 242
+
+> Subheading: Hearing of the *beḍā-nṛtya kīrtana* awakens spiritual consciousness —
+
+*Thus ends the eleventh chapter of the “Anubhāṣya.”*
+
 ---
 
 [^8-1]: The verse translation reads differently: “to seek the attention of worldly people or women”; here (and in the *Amṛta-pravāha-bhāṣya*) *sandarśanam* means “seeing,” “looking [at them] as objects of enjoyment.”
@@ -709,3 +831,5 @@ Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura conside
 [^37-1]: In the usual numbering, *Kaṭha Upaniṣad* 1.3.3–6, 9.
 
 [^139-1]: The edition reads “অমানী ও মানব” (“free of pride and a man”), apparently a misprint for “মানদ” (“giving respect to others,” cf. Ādi 17.31).
+
+[^204-1]: In the edition this note is given for verses 204 and 207 together (“২০৪, ২০৭”). Couplet 204 has no number printed in the edition (it ends with just “॥”).
