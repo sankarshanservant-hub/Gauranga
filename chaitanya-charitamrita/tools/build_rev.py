@@ -136,7 +136,7 @@ def build(ch, check=False):
         out += ['---', ''] + [x + '\n' for x in fnl]
     if not check:
         p = ROOT / f'ed/vcd-rev/CC_{ch}.md'; p.parent.mkdir(exist_ok=True)
-        p.write_text('\n'.join(out).rstrip() + '\n', encoding='utf-8')
+        p.write_text(('\n'.join(out).rstrip() + '\n').replace('Нарайян', 'Нараян'), encoding='utf-8')   # «Нараяна» — решение пользователя 2026-10-30
     # EN
     lila = {'Adi': 'Ādi-līlā', 'Madhya': 'Madhya-līlā', 'Antya': 'Antya-līlā'}[re.match(r'[A-Za-z]+', ch).group()]
     num = int(re.search(r'\d+', ch).group())

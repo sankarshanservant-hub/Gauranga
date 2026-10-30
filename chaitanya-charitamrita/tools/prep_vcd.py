@@ -367,6 +367,7 @@ def run(chap):
         # проверка транслитерации и бенгальского против vedabase
     if notes: out += ['---', ''] + [x + '\n' for x in notes]
     md = '\n'.join(out).rstrip() + '\n'
+    md = md.replace('Нарайян', 'Нараян')   # единое написание «Нараяна», «Нараяни» (решение пользователя 2026-10-30; у ВЧД в Ади — «Нарайяна»)
     od = os.path.join(ROOT, 'ed')
     for d in ('vcd', 'review'): os.makedirs(os.path.join(od, d), exist_ok=True)
     open(os.path.join(od, 'vcd', 'CC_%s.md' % chap), 'w', encoding='utf-8').write(md)
