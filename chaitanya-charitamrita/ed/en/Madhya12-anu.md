@@ -562,6 +562,222 @@ This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
 
 *Piṇḍā* (in the language of Utkala): a wooden seat; in Bengali, *pĩṛi*.
 
+## 160
+
+> Subheading: The Lord calls Haridāsa —
+
+## 161
+
+> Subheading: Haridāsa's natural humility and his reverence for pure devotees —
+
+## 162
+
+> Subheading: Haridāsa wishes to take *prasāda* after everyone else; the Lord agrees —
+
+## 163
+
+> Subheading: Seven, headed by Svarūpa, serve the *prasāda* —
+
+## 164
+
+> Subheading: While *prasāda* is honored, the cry of “Hari!” resounds —
+
+*Hari-dhvani*: see Madhya 11.209.
+
+## 165
+
+> Subheading: The remembrance of Kṛṣṇa's riverbank picnic in the Dvāpara-yuga awakens —
+
+## 166
+
+> Subheading: The Lord composes Himself and restrains His feelings —
+
+## 167
+
+> Subheading: The Lord's pastime of renunciation —
+
+See Madhya 6.43–44.
+
+## 168
+
+> Subheading: Through Svarūpa the Lord gives each devotee the *prasāda* he likes —
+
+## 169
+
+> Subheading: An example of Jagadānanda's love for the Lord —
+
+## 170
+
+> Subheading: Even when the Lord does not want it, Jagadānanda gives Him the best and is pleased —
+
+## 171
+
+> Subheading: Fearing Jagadānanda's sulking, the Lord eats a little at a time —
+
+## 173
+
+> Subheading: Svarūpa serves the Lord sweet *prasāda* —
+
+## 175
+
+> Subheading: The Lord fulfills Svarūpa's wish —
+
+## 176
+
+> Subheading: The Lord is won over by the wonderful love of Svarūpa and Jagadānanda —
+
+## 177
+
+> Subheading: Seeing the love of both for the Lord, Sārvabhauma laughs —
+
+## 178
+
+> Subheading: The Lord's affection for Sārvabhauma —
+
+## 179
+
+> Subheading: At the Lord's order Gopīnātha gives the Bhaṭṭācārya the best *prasāda* —
+
+## 180
+
+> Subheading: Sārvabhauma's former and present conduct compared —
+
+Formerly Śrī Sārvabhauma Bhaṭṭācārya held to the reasoning of the *smārtas* and to mundane, materialistic beliefs. He had no transcendental faith in *prasāda*, in the name of Govinda or in the Vaiṣṇavas. Now, by Mahāprabhu's mercy, he gained faith in transcendental vision and found supreme bliss in honoring *prasāda* and the like. This is what is to be considered here.
+
+## 181
+
+> Subheading: The Bhaṭṭācārya's humility and his gratitude to Gopīnātha —
+
+## 182
+
+> Subheading: The glory of the Lord's causeless mercy —
+
+## 183
+
+> Subheading: Sārvabhauma compares his former and present state —
+
+## 184
+
+*Bahirmukha* (turned outward): those who think themselves enjoyers of external forms, tastes and the like, who are busy gratifying their own senses and are averse to serving Kṛṣṇa — they are *bahirmukha*. (*Śrīmad-Bhāgavatam* 7.5.31)[^184-1]: “Those vowed to household life, whose senses are uncontrolled, who enter darkness, chewing the chewed again and again, do not turn their minds to Kṛṣṇa — not by the instruction of others, not by themselves, not together. They do not know that their own goal is Viṣṇu. With wicked hopes, taking external things to be of value, they are like the blind led by the blind: they too are bound by the long rope of the Lord's law.” Knowledge devoted to enjoying material objects does not reveal the true nature of service to Kṛṣṇa. This Devī-dhāma, the realm of Durgā, lies on the outer border of the transcendental kingdom, and everything in this realm is material. Yet the conditioned soul, confused about his own nature, sees in it something worth serving.
+
+## 185
+
+> Subheading: The Lord, who honors others, praises Sārvabhauma —
+
+## 186
+
+> Subheading: In glorifying the devotees, Bhagavān Śrī Caitanya has no equal —
+
+*Śrīmad-Bhāgavatam*, Canto 3, Chapter 16, should be considered in this connection.
+
+## 187
+
+> Subheading: *Prasāda* is given to all the devotees —
+
+## 188
+
+> Subheading: Nitāi and Advaita quarrel playfully with each other —
+
+## 189
+
+> Subheading: Advaita opens the exchange —
+
+## 190
+
+> Subheading: A *sannyāsī* is not defiled by food —
+
+## 192
+
+> Subheading: Calling himself a “householder *brāhmaṇa*,” Advaita pretends to follow the worldly society of *smārtas* —
+
+## 193
+
+> Subheading: Nityānanda condemns the doctrine of *kevala-advaita* —
+
+## 194
+
+> Subheading: Under the guise of censuring Advaita, Nityānanda describes the glory of nondual knowledge —
+
+“*Advaita-siddhānta*”: the Advaitavādīs do not accept that the pastimes of the one served and His servant are eternally true. They regard the transcendental activity of *bhakti* — service to Kṛṣṇa — as one more worldly attempt to enjoy sense objects: the experience of happiness and distress born of lust and other movements of the human senses, or enjoyment within the fruits of *karma*. Therefore such a *siddhānta* obstructs the pure activity of *bhakti*, which is service to the variety of name, form, qualities and pastimes non-different from Bhagavān.
+
+Ādi 1.7 should be especially considered here. To bewilder the *asuras*, Śrī Nityānanda Prabhu speaks as if censuring Śrī Advaita Prabhu. To the external vision of worldly people it seems at first that the pure nondual knowledge preached by Śrī Advaita Prabhu is “one” with the “*advaita-siddhānta*” of the Māyāvādī *kevala-advaitavādīs*, that is, with the doctrine of merging into Brahman without distinction (*nirbheda-brahma-sāyujya*). But in truth Śrī Advaita Prabhu is a form non-different from Śrī Hari, and he bears the title “Ācārya” precisely because he “proclaims pure *bhakti*.” His “*advaita-siddhānta*” is nothing but the worship of nondual knowledge, that is, pure *bhakti*. So Śrī Nityānanda Prabhu, seeing Śrī Advaita Prabhu as one who sings the glory of devotion to Gaura-Kṛṣṇa, offered him “veiled praise” (*vyāja-stuti*) under the guise of censure.
+
+Pure Vaiṣṇavas, that is, those on the path of pure *bhakti*, firmly believe in scriptural statements such as “Knowers of the truth call the Truth that nondual knowledge which is called Brahman, Paramātmā and Bhagavān” (*Śrīmad-Bhāgavatam* 1.2.11) or “One without a second” (*Chāndogya Upaniṣad* 6.2.1). They accept that the Truth has no equal and no superior. Yet they do not call it merely impersonal pure consciousness — “Brahman,” the “*bhūmā*” (fullness) of being and consciousness, or the “*virāṭ*.” They designate that one Truth by the words “Bhagavān, who enjoys spiritual pastimes and is full of *rasa*.” They accept that although the possessor of energy is the one “nondual knowledge,” there are in Him many distinctions, a variety, through the working of His one energy. In Him eternally exist distinctions within Himself, with what is like Him and with what is unlike Him (*svagata*, *sajātīya* and *vijātīya*) — the three states of the known, knowledge and the knower. In Him eternally exist His name, form, qualities, pastimes and distinctive associates, non-different from His own form. Therefore the Vaiṣṇavas of the path of *bhakti* are never Māyāvādīs who worship themselves as God (*ahaṅgrahopāsakas*). Needless to say, if the known and the knower have no separate existence, there is no mutual knowledge, no pastime, no variety of *rasa*. So the *kevala-advaita-siddhānta* is nothing but a disguised, non-Vedic atheism (*nāstikya-vāda*). It is this that Śrī Nityānanda Prabhu condemned. The supreme reality is the one Śrī Kṛṣṇa; to perceive a “second” in anything apart from Him is *māyā*. *Māyā* is of two kinds, “*jīva-māyā*” and “*guṇa-māyā*”; *guṇa-māyā* too is of two kinds, “*prakṛti*” and “*pradhāna*.” Where Kṛṣṇa is perceived, there is no perception of a “second” (*māyā*) (see the *Gauḍīya-bhāṣya* on *Śrīmad-Bhāgavatam* 2.9.33 and 11.3.45[^194-1]). Then comes the state of the *mahā-bhāgavata*: like the pure devotee Prahlāda, he perceives only the “one” Kṛṣṇa — “his heart seized by Kṛṣṇa as if by a spirit, he did not notice this world” (*Śrīmad-Bhāgavatam* 7.4.37). So for him there is no death or fear born of absorption in a “second” — that is, no round of birth and death (*Bṛhad-āraṇyaka Upaniṣad* 1.4.2). Śrī Advaita Prabhu as *ācārya*, on the basis of this “vision of nondual knowledge,” “proclaimed only pure *bhakti*.” And Śrī Nityānanda Prabhu, rebuking the materialistic dualist absorbed in a “second” and given to enjoyment, praised precisely this vision of nondual knowledge in Śrī Advaita Prabhu.
+
+## 195
+
+> Subheading: A hint that one must not associate with materialistic dualists or Māyāvādīs, opponents of nondual knowledge —
+
+Śrī Rūpa Prabhu says in the *Upadeśāmṛta*: “Giving and accepting gifts, revealing one's secrets and inquiring, eating and feeding — these are the six signs of love.”[^195-1] Therefore a pure devotee must strictly observe the rules of association, including those about eating. By this Nityānanda Prabhu also hinted that a pure devotee should never eat together with a disguised Māyāvādī or a *prākṛta-sahajiyā* absorbed in a “second.”
+
+## 196
+
+> Subheading: Under the guise of censure, the two Prabhus praise each other —
+
+## 188–196
+
+On the playful quarrel of the two, see Madhya 3.93–101.
+
+## 197
+
+> Subheading: The Lord gives *mahā-prasāda* to all the devotees —
+
+## 198
+
+> Subheading: Having honored *prasāda*, everyone rises with cries of “Hari!” and rinses his mouth —
+
+## 199
+
+> Subheading: With His own hand the Lord gives the devotees garlands and sandal paste —
+
+## 200
+
+> Subheading: The seven servers, headed by Svarūpa, receive *prasāda* last —
+
+## 201
+
+> Subheading: With Govinda's help Haridāsa receives the remnants of the Lord's meal —
+
+## 202
+
+> Subheading: Govinda receives the Lord's remnants last of all —
+
+## 203
+
+> Subheading: Another name for the pastime of cleaning the Guṇḍicā: the “*dhoyā-pākhalā*” —
+
+## 204
+
+> Subheading: After the *anavasara*, the Netrotsava, the festival of the *aṅga-rāga* —
+
+## 205
+
+> Subheading: After fifteen days people see the Lord to their hearts' content —
+
+After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī Jagannātha is not a delight to the eyes of those who come for *darśana*. On the day when, after the fortnight of *anavasara*, those longing for *darśana* see Śrī Bhagavān and their eyes find their fulfillment — that first *darśana* after the fortnight of separation is called the “Netrotsava” (“festival of the eyes”).
+
+## 206
+
+> Subheading: The Lord goes with the devotees for Jagannātha's *darśana* —
+
+## 207
+
+> Subheading: The strong Kāśīśvara walks ahead of the Lord, Govinda behind —
+
+*Karaṅga*: the water pot of a *sannyāsī*, one in the fourth *āśrama*.
+
+## 208
+
+> Subheading: Before the Lord, Purī and Bhāratī; beside them, Svarūpa and Advaita —
+
+## 209
+
+> Subheading: Behind, the other devotees —
+
+## 210
+
+> Subheading: Longing to see the Lotus-eyed One, the devotees out of love transgress the rules —
+
 ---
 
 [^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
@@ -569,3 +785,9 @@ This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
 [^59-61-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
 
 [^135-1]: *Bhakti-rasāmṛta-sindhu* 1.1.11.
+
+[^184-1]: So in the edition; two verses are quoted, 7.5.30–31.
+
+[^194-1]: So in the edition (11.3.45); by the sense, 11.2.45 (the marks of the highest devotee) may be meant.
+
+[^195-1]: *Upadeśāmṛta* 4.

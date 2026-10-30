@@ -42,6 +42,42 @@ The temple of Nṛsiṁha: near the Guṇḍicā-bāḍī stands a beautiful old
 
 The Indradyumna pond is near the Guṇḍicā-bāḍī. The Lord bathed in that pond, bowed to Nṛsiṁhadeva and went to the garden.
 
+## 167
+
+*Lāphrā-vyañjana*: a vegetable dish, something like a plain *caccaḍi*. It is mixed with rice and served to the poor. *Amṛta-guṭikā*: thick *purīs* dipped in thickened milk (*kṣīra*), commonly called “*amṛta-rasāvalī*.”
+
+## 191
+
+“A *sannyāsī* (*maskarī*) is not defiled by faults in food” — that is, the defilement of food does not cling to a *sannyāsī*.
+
+## 193–195
+
+Nityānanda said, “You are Advaita Ācārya. All your *siddhāntas* are like *advaita-vāda*, which obstructs the activity of pure *bhakti*. Whoever is attached to your *siddhānta* sees nothing but the one substance, Brahman (*cid-vilāsa*). A *dvaita-vādī* ought to avoid such association with you, and yet I find myself eating with you — my mind cannot accept this.”
+
+## 196
+
+*Vyāja-stuti*: masked praise (*chala-stuti*), that is, words outwardly censuring but inwardly pointing to greatness.
+
+## 197
+
+Mahāprabhu had *mahā-prasāda* given to the Vaiṣṇavas. It was sprinkled with the nectar of the Lord's mercy and so became even more delicious.
+
+## 203
+
+*Dhoyā-pākhalā*: in the language of Utkala this pastime of cleaning the Guṇḍicā is called “*dhoyā-pākhalā*.”
+
+## 204
+
+“Netrotsava”: during the bathing (the Snāna-yātrā) Jagannātha's paint is washed off, and during the “*anavasara*” period the paint on the bodies of the three Deities (the “*aṅga-rāga*”) is renewed. On the very morning of the “Nava-yauvana” the *netrotsava* takes place, that is, the painting of the eyes.
+
+## 205
+
+*Pakṣa-dina*: fifteen days.
+
+## 210
+
+“Transgressing the *maryādā*”: the scriptural rule by which one is to take *darśana* of the Deity is called the “*maryādā*.” Eager for *darśana*, many transgressed this *maryādā* and went for the *darśana* of the Nava-yauvana.
+
 ---
 
 [^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.
