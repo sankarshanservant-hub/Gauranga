@@ -90,6 +90,24 @@ In the age of Kali, whoever worships Kṛṣṇa Caitanya with the sacrifice of 
 
 One who lacks His mercy, even if he is a *paṇḍita*, cannot accept Kṛṣṇa Caitanya as the Lord (*Īśvara*): even seeing and hearing of all His divine majesty, he is without His mercy.
 
+## 111–113
+
+The king said: “The scriptures prescribe that on entering a holy place one must fast that day and have one's head shaved there. Why do these Vaiṣṇavas not do so, and for what reason do they partake of food and water?” The Bhaṭṭācārya replied: “What you describe is *vaidhī-dharma*, the path of rules. But the *dharma* of the path of *rāga* holds another subtle secret. The Lord ordered shaving and fasting indirectly, through the sages, in the scriptures; but the order to eat *prasāda* He proclaimed Himself.”
+
+## 118
+
+When the Lord, contemplated within one's heart, shows a person mercy by inspiring his heart, that person gives up his settled attachment to worldly convention and to the Vedas.
+
+## 119
+
+***Paḍichā*** — the word *paḍichā* comes from the word *parīkṣā* (inspection); therefore the *paḍichā's* duty is supervision.
+
+## 139–140
+
+***The Mukunda of whom Vāsu speaks*** — Mukunda Datta, the younger brother of Vāsudeva Datta. Mukunda had been with Mahāprabhu (since childhood).
+
+Vāsudeva said: “Mukunda took shelter of Your feet before me, and I did so later. So Mukunda's spiritual birth came before mine, and therefore I have become the younger.”
+
 ---
 
 [^28-1]: The verse translation reads differently: “Those who call themselves My devotees are not My devotees.”

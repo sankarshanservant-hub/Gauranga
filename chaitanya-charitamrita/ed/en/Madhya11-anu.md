@@ -412,6 +412,112 @@ On coming to a holy place, to destroy one's sins, one should observe restraint t
 
 > Subheading: The Bhaṭṭa speaks of the conduct of the path of *rāga* —
 
+## 113
+
+> Subheading: The Lord's indirect and direct orders —
+
+## 115
+
+> Subheading: Another reason the devotees set aside the rule of fasting —
+
+## 116
+
+> Subheading: The Bhaṭṭācārya tells of his own earlier example —
+
+## 117
+
+> Subheading: By Kṛṣṇa's mercy, eager to serve, one gives up regular, occasional and self-interested rites — all that is rooted in the desire to enjoy their fruits —
+
+## 118
+
+> Subheading: The evidence of the *Bhāgavatam* — (*Śrīmad-Bhāgavatam* 4.29.46) —
+
+Through the story of Purañjana, Śrī Nārada Gosvāmī, who is fixed in Brahman, described to King Prācīnabarhi the wretched fate of the enjoying *jīva*, the *karmī*, and of *karma-kāṇḍa*. Then he says that without the Lord's mercy none of them — not Brahmā, Rudra, Manu, the *prajāpatis* Dakṣa and others, the four Kumāras, lifelong celibates (*naiṣṭhika-brahmacārīs*), Marīci, Atri, Aṅgirā, Pulastya, Pulaha, Kratu, Bhṛgu, Vasiṣṭha, nor he himself — could attain knowledge of the Lord. In this way he describes the fruit of the Lord's mercy:
+
+**bhagavān** **yadā** **ātma-bhāvitaḥ** (when He is contemplated in the heart, worshiped, and reveals Himself there) **yam** **anugṛhṇāti** (shows mercy to someone), **tadā** **saḥ** **loke** (in worldly dealings) **vede** (in performing Vedic rites) **ca** **pariniṣṭhitām** (attached) **matiṁ** **jahāti** (gives up).
+
+## 119
+
+> Subheading: Coming down, the king tells Kāśī Miśra and the *parichā-pātra* (the *paḍichā*) to arrange service for the devotees —
+
+## 120–122
+
+King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had come to Mahāprabhu from Gauḍa and other lands: they were to have good lodgings and good *prasāda*, and nothing was to hinder them in seeing Jagannātha properly and so on. And so that the devotees would be at ease in every way, even without receiving an explicit order from Mahāprabhu they were to understand His hint and at once carry out whatever needed to be done.
+
+## 122
+
+> Subheading: It is best to serve by the hint of the one served —
+
+## 123
+
+> Subheading: Standing a little way off, Sārvabhauma and Gopīnātha watch the devotees meet the Lord —
+
+## 126
+
+> Subheading: The Lord Himself goes out to meet the devotees —
+
+## 127
+
+> Subheading: Advaita bows down, and the Lord embraces him —
+
+## 128
+
+> Subheading: Both are overcome with love, and then grow composed —
+
+## 129
+
+> Subheading: Śrīvāsa and the others bow to the Lord, and the Lord embraces them —
+
+## 130
+
+> Subheading: The Lord greets all the devotees, each as befits him —
+
+## 131
+
+> Subheading: Kāśī Miśra's house is small, yet all the devotees gather there —
+
+## 132
+
+> Subheading: The Lord Himself gives garlands and sandal paste to all the devotees —
+
+## 133
+
+> Subheading: All the devotees meet Sārvabhauma —
+
+## 134
+
+> Subheading: The Lord praises Advaita —
+
+## 135
+
+> Subheading: Advaita describes the Lord's nature: His affection for His devotees —
+
+## 137
+
+> Subheading: The Lord's greater affection for Vāsudeva Datta than for Mukunda, His childhood companion —
+
+## 139
+
+> Subheading: Free of pride and respectful to others,[^139-1] Vāsudeva Datta regards his younger brother Mukunda as superior to himself, knowing him dear to the Lord —
+
+## 141
+
+> Subheading: The Lord tells Vāsudeva to copy the *Brahma-saṁhitā* and the *Karṇāmṛta* from Svarūpa —
+
+***Two books*** — the *Śrī Brahma-saṁhitā* and the *Śrī Kṛṣṇa-karṇāmṛta*.
+
+## 143
+
+> Subheading: Because Vāsudeva and all the other Gauḍīyas kept copies, the two books spread everywhere —
+
+## 144
+
+> Subheading: Praise of Śrīvāsa and his brothers —
+
+## 145
+
+> Subheading: Śrīvāsa's humility —
+
 ---
 
 [^8-1]: The verse translation reads differently: “to seek the attention of worldly people or women”; here (and in the *Amṛta-pravāha-bhāṣya*) *sandarśanam* means “seeing,” “looking [at them] as objects of enjoyment.”
@@ -419,3 +525,5 @@ On coming to a holy place, to destroy one's sins, one should observe restraint t
 [^28-1]: So in the edition: the section ends with the further word “উদ্ধব” (“Uddhava”), although the verse addresses Pārtha; apparently a typesetting error (the next section speaks of Uddhava).
 
 [^37-1]: In the usual numbering, *Kaṭha Upaniṣad* 1.3.3–6, 9.
+
+[^139-1]: The edition reads “অমানী ও মানব” (“free of pride and a man”), apparently a misprint for “মানদ” (“giving respect to others,” cf. Ādi 17.31).
