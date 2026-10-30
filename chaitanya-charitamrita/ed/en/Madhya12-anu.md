@@ -175,3 +175,147 @@ The king had meant to worship the Lord with great eagerness. In the same way he 
 > Subheading: As if by a ruse, the Lord presents Himself as bound by the rules —
 
 “I am only a man in the fourth *āśrama*, not Īśvara. So I fear transgressing worldly propriety in body, mind or speech” — that is, “I depend on what others think.”
+
+## 51
+
+> Subheading: A *sannyāsī* who follows the injunctions must behave irreproachably —
+
+## 52
+
+> Subheading: The Lord delivers great sinners — so the king, a devotee of Bhagavān, surely deserves the good fortune of seeing Him —
+
+## 53
+
+> Subheading: Even so, the Lord does not wish to meet the king —
+
+## 54
+
+> Subheading: The worldly title of “*viṣayī*” ruins every good quality —
+
+## 55
+
+> Subheading: At last, yielding to Rāya's insistence, the Lord agrees to meet the prince —
+
+The son: Puruṣottama Jānā (?).
+
+## 56
+
+> Subheading: Father and son are one in bodily substance —
+
+The words of Bhagavān (*Śrīmad-Bhāgavatam* 10.78.36): “‘The self is born as the son’ — so the Vedas teach.” Śrīdhara Svāmī comments: “Such are the teachings of the Vedas: ‘You are my very self, bearing the name of son; may you live a hundred autumns,’ and so on.”
+
+## 57
+
+> Subheading: Rāya tells the king of the Lord's mercy and brings the prince to the Lord —
+
+## 58
+
+> Subheading: The dark-complexioned young prince awakens in the Lord the remembrance of Kṛṣṇa —
+
+## 61
+
+> Subheading: The last word on the *darśana* of a Vaiṣṇava —
+
+## 59–61
+
+The Lord sees the self (*ātmā*), and so He has no external vision turned toward objects of enjoyment — toward the body and mind, which are not the self. Therefore He has no notion at all that the prince is a *viṣayī*, the son of a *viṣayī*, and so “a woman” or “one who keeps company with women,” and that He Himself is “a man who enjoys women.” In other words, when one sees the real substance, full of eternity, knowledge and bliss, there is no room at all for fancies or impositions born of the mind. Such is, for instance, the habit of imposing spirit onto matter, or of taking what is made of earth to be worshipable[^59-61-1] — the natural tendency of *jīvas* who are Māyāvādīs averse to Kṛṣṇa. The Lord Himself is the nondual truth (*advaya-jñāna*), the *viṣaya-vigraha*, the one toward whom love is directed. Yet He perceived Himself as a *gopī*, of the class of the “*āśraya*” (the abode of love) — one who gives delight and on whom the gaze rests — and He perceived the prince as Vrajendra-nandana Himself. This is the vision of nondual truth proper to the pure *jīvātmā*, the “vision of a Vaiṣṇava” (see Madhya 8.277). “Only one whom He Himself chooses can attain Him; to him the Self reveals His own form.” (*Kaṭha* and *Muṇḍaka Upaniṣads*)[^59-61-2] Because the *jīva* lacks this fearless vision, he invites all the misfortunes (*anarthas*) born of ignorance — the round of birth and death: “Coming into this world, I serve *prakṛti* and perish in the conceit of being a ‘*puruṣa*’” (Ṭhākura Śrī Bhaktivinoda, *Kalyāṇa-kalpataru*).
+
+## 62
+
+> Subheading: The Lord embraces the prince, seeing him as Kṛṣṇa —
+
+## 63
+
+> Subheading: From the embrace the prince is overcome with love for Kṛṣṇa —
+
+## 64
+
+> Subheading: Seeing his love, the devotees praise him —
+
+## 65
+
+> Subheading: The Lord comforts the prince and asks him to come every day —
+
+## 66
+
+> Subheading: Seeing and embracing his son, the king feels the Lord's touch —
+
+## 68
+
+> Subheading: The prince becomes one of Gaura's devotees —
+
+## 69
+
+> Subheading: The Lord delights in *kīrtana* with the devotees —
+
+## 70
+
+> Subheading: Advaita and others, with their companions, invite the Lord —
+
+## 71
+
+> Subheading: The Ratha-yātrā draws near —
+
+## 72
+
+> Subheading: The Lord asks Kāśī Miśra, the *paḍichā* and the Bhaṭṭācārya for permission to clean the Guṇḍicā temple —
+
+## 73
+
+The Guṇḍicā temple stands one *krośa* northeast of the Śrī Mandira. During the Ratha-yātrā Śrī Jagannāthadeva goes there for a week and then returns on the chariot. According to tradition, the queen of King Śrī Indradyumna was known as Guṇḍicā. The Guṇḍicā temple is mentioned in the scriptures. The Guṇḍicā courtyard is 288 cubits long and 215 wide; the main temple, 36 cubits long and 30 wide; the *nāṭya-mandira*, 32 cubits long and 30 wide.
+
+## 74
+
+> Subheading: The *paḍichā*'s humble words —
+
+## 75
+
+> Subheading: By the king's order he is entitled to serve the Lord —
+
+## 76
+
+> Subheading: The *paḍichā* does not know the inner meaning of cleaning the Guṇḍicā temple —
+
+## 77
+
+> Subheading: Many water pots and brooms are gathered —
+
+## 79
+
+> Subheading: In the morning the Lord goes to the Guṇḍicā with the devotees —
+
+## 81
+
+> Subheading: First the Lord Himself sets the example —
+
+## 82
+
+In the main temple of the Guṇḍicā there is a jeweled altar (*ratna-vedī*) twelve cubits long and two cubits high — this is the throne (*siṁhāsana*).
+
+## 83
+
+Śrī Jagamohana is the hall between the main temple and the *nāṭya-mandira*, 32 cubits long.
+
+## 84
+
+> Subheading: The Lord cleans and teaches the others —
+
+## 85
+
+> Subheading: The devotees follow the Lord's example —
+
+## 86
+
+> Subheading: The temple is washed with tears —
+
+## 87
+
+> Subheading: Everything is cleaned and scrubbed thoroughly —
+
+The *bhoga-mandira* is 40 cubits long and 17 wide.
+
+---
+
+[^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
+
+[^59-61-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
