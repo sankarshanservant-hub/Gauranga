@@ -414,321 +414,401 @@ himself  meeting  for the sake of  to speak  began
 মোরে মিলিবারে অবশ্য সাধিবে তাঁহারে ॥ ৪১ ॥
 
 mahāprabhu mahā-kṛpā karena tomāre  
-more milibāre avaśya sādhibe tāṅhāre
+Mahāprabhu  great mercy  shows  to you  
+more milibāre avaśya sādhibe tāṅhāre  
+me  to meet  surely  you will entreat  Him
 
-(41) [not yet translated]
+(41) “Mahāprabhu is very merciful to you. You must entreat Him to meet me.”
 
 একসঙ্গে দুই জন ক্ষেত্রে যবে আইলা ৷  
 রামানন্দ রায় তবে প্রভুরে মিলিলা ॥ ৪২ ॥
 
 eka-saṅge dui jana kṣetre yabe āilā  
-rāmānanda rāya tabe prabhure mililā
+together  two  persons  to the Kṣetra  when  came  
+rāmānanda rāya tabe prabhure mililā  
+Rāmānanda  Rāya  then  the Lord  met
 
-(42) [not yet translated]
+(42) When the two of them came to the Kṣetra together, Rāmānanda Rāya went to meet the Lord.
 
 প্রভুপদে প্রেমভক্তি জানাইল রাজার ৷  
 প্রসঙ্গ পাঞা ঐছে কহে বারবার ॥ ৪৩ ॥
 
 prabhu-pade prema-bhakti jānāila rājāra  
-prasaṅga pāñā aiche kahe bārabāra
+at the Lord’s feet  loving devotion  he made known  of the king  
+prasaṅga pāñā aiche kahe bārabāra  
+occasion  finding  thus  he speaks  again and again
 
-(43) [not yet translated]
+(43) At the Lord’s feet he told of the king’s loving devotion, and whenever the occasion arose he spoke of it again and again.
 
 রাজমন্ত্রী রামানন্দ — ব্যবহারে নিপুণ ৷  
 রাজপ্রীতি কহি’ দ্রবাইল প্রভুর মন ॥ ৪৪ ॥
 
 rāja-mantrī rāmānanda — vyavahāre nipuṇa  
-rāja-prīti kahi’ dravāila prabhura mana
+the king’s minister  Rāmānanda  in dealings  skilled  
+rāja-prīti kahi’ dravāila prabhura mana  
+the king’s love  telling  melted  of the Lord  the heart
 
-(44) [not yet translated]
+(44) Rāmānanda, the king’s minister, was skilled in dealing with people; by telling of the king’s love he softened the Lord’s heart.
 
 উৎকণ্ঠাতে প্রতাপরুদ্র নারে রহিবারে ৷  
 রামানন্দ সাধিলেন প্রভুরে মিলিবারে ॥ ৪৫ ॥
 
 utkaṇṭhāte pratāparudra nāre rahibāre  
-rāmānanda sādhilena prabhure milibāre
+from longing  Pratāparudra  cannot  remain (calm)  
+rāmānanda sādhilena prabhure milibāre  
+Rāmānanda  entreated  the Lord  to meet
 
-(45) [not yet translated]
+(45) Pratāparudra could no longer bear his longing, and Rāmānanda entreated the Lord to meet him.
 
 রামানন্দ প্রভু-পায় কৈল নিবেদন ৷  
 একবার প্রতাপরুদ্রে দেখাহ চরণ ॥ ৪৬ ॥
 
 rāmānanda prabhu-pāya kaila nivedana  
-eka-bāra pratāparudre dekhāha caraṇa
+Rāmānanda  at the Lord’s feet  made  a petition  
+eka-bāra pratāparudre dekhāha caraṇa  
+once  to Pratāparudra  show  the feet
 
-(46) [not yet translated]
+(46) Rāmānanda petitioned at the Lord’s feet: “Just once, show Your feet to Pratāparudra.”
 
 প্রভু কহে, — রামানন্দ, কহ বিচারিয়া ৷  
 রাজাকে মিলিতে যুয়ায় সন্ন্যাসী হঞা ? ॥ ৪৭ ॥
 
 prabhu kahe, — rāmānanda, kaha vicāriyā  
-rājāke milite yuyāya sannyāsī hañā?
+the Lord  says  Rāmānanda  say  considering  
+rājāke milite yuyāya sannyāsī hañā?  
+the king  to meet  is it fitting  a sannyāsī  being
 
-(47) [not yet translated]
+(47) The Lord said, “Rāmānanda, think it over and tell Me: is it fitting for a sannyāsī to meet a king?
 
 রাজার মিলনে ভিক্ষুকের দুই কুল-নাশ ৷  
 পরলোক রহু, লোকে করে উপহাস ॥ ৪৮ ॥
 
 rājāra milane bhikṣukera dui kula-nāśa  
-paraloka rahu, loke kare upahāsa
+of the king  in the meeting  of a mendicant  both  worlds lost  
+paraloka rahu, loke kare upahāsa  
+the next world  let it be  people  make  mockery
 
-(48) [not yet translated]
+(48) If a mendicant meets a king, both his worlds are lost. Never mind the next world — even here people mock him.”
 
 রামানন্দ কহে, — তুমি ঈশ্বর স্বতন্ত্র ৷  
 কারে তোমার ভয়, তুমি নহ পরতন্ত্র ॥ ৪৯ ॥
 
 rāmānanda kahe, — tumi īśvara svatantra  
-kāre tomāra bhaya, tumi naha paratantra
+Rāmānanda  says  You  the Lord  independent  
+kāre tomāra bhaya, tumi naha paratantra  
+whom  Your  fear  You  are not  dependent on others
 
-(49) [not yet translated]
+(49) Rāmānanda said, “You are the independent Lord. Whom need You fear? You depend on no one.”
 
 প্রভু কহে, — আমি মনুষ্য আশ্রমে সন্ন্যাসী ৷  
 কায়মনোবাক্যে ব্যবহারে ভয় বাসি ॥ ৫০ ॥
 
 prabhu kahe, — āmi manuṣya āśrame sannyāsī  
-kāya-mano-vākye vyavahāre bhaya vāsi
+the Lord  says  I  a human being  in āśrama  a sannyāsī  
+kāya-mano-vākye vyavahāre bhaya vāsi  
+in body, mind and word  in conduct  fear  I feel
 
-(50) [not yet translated]
+(50) The Lord said, “I am a human being, a sannyāsī by āśrama. In body, mind and word I am fearful about My conduct.
 
 শুক্লবস্ত্রে মসি-বিন্দু যৈছে না লুকায় ৷  
 সন্ন্যাসীর অল্প ছিদ্র সর্ব্বলোকে গায় ॥ ৫১ ॥
 
 śukla-vastre masi-bindu yaiche nā lukāya  
-sannyāsīra alpa chidra sarva-loke gāya
+on white cloth  an ink spot  as  not  is hidden  
+sannyāsīra alpa chidra sarva-loke gāya  
+of a sannyāsī  small  fault  all people  sing of
 
-(51) [not yet translated]
+(51) As a spot of ink cannot be hidden on white cloth, so everyone talks of a sannyāsī’s slightest fault.”
 
 রায় কহে, — যত পাপী করিয়াছ অব্যাহতি ৷  
 ঈশ্বর-সেবক তোমার ভক্ত গজপতি ॥ ৫২ ॥
 
 rāya kahe, — yata pāpī kariyācha avyāhati  
-īśvara-sevaka tomāra bhakta gajapati
+Rāya  says  how many  sinners  You have made  delivered  
+īśvara-sevaka tomāra bhakta gajapati  
+the Lord’s servant  Your  devotee  the Gajapati
 
-(52) [not yet translated]
+(52) Rāya said, “You have delivered so many sinners! And the Gajapati is a servant of the Lord and Your devotee.”
 
 প্রভু কহে, — পূর্ণ যৈছে দুগ্ধের কলস ৷  
 সুরাবিন্দু-পাতে, কেহ না করে পরশ ॥ ৫৩ ॥
 
 prabhu kahe, — pūrṇa yaiche dugdhera kalasa  
-surā-bindu-pāte, keha nā kare paraśa
+the Lord  says  full  as  of milk  a pot  
+surā-bindu-pāte, keha nā kare paraśa  
+a drop of wine  by falling  anyone  not  makes  touch
 
-(53) [not yet translated]
+(53) The Lord said, “It is like a pot full of milk: if a single drop of wine falls into it, no one will touch it.
 
 যদ্যপি প্রতাপরুদ্র — সর্ব্ব-গুণবান্ ৷  
 তাঁহারে মলিন কৈল এক ‘রাজা’-নাম ॥ ৫৪ ॥
 
 yadyapi pratāparudra — sarva-guṇavān  
-tāṅhāre malina kaila eka ‘rājā’-nāma
+although  Pratāparudra  possessed of every virtue  
+tāṅhāre malina kaila eka ‘rājā’-nāma  
+him  stained  made  one  the name ‘king’
 
-(54) [not yet translated]
+(54) Although Pratāparudra has every good quality, the single name ‘king’ has stained him.
 
 তথাপি তোমার যদি মহাগ্রহ হয় ৷  
 তবে আনি’ মিলাহ তুমি তাঁহার তনয় ॥ ৫৫ ॥
 
 tathāpi tomāra yadi mahāgraha haya  
-tabe āni’ milāha tumi tāṅhāra tanaya
+still  your  if  great insistence  is  
+tabe āni’ milāha tumi tāṅhāra tanaya  
+then  bringing  have (Me) meet  you  his  son
 
-(55) [not yet translated]
+(55) Still, if you are so insistent, then bring his son to meet Me.
 
 ‘আত্মা বৈ জায়তে পুত্রঃ’ — এই শাস্ত্রবাণী ৷  
 পুত্রের মিলনে যেন মিলিবে আপনি ॥ ৫৬ ॥
 
 ‘ātmā vai jāyate putraḥ’ — ei śāstra-vāṇī  
-putrera milane yena milibe āpani
+‘the self  indeed  is born  as the son’  this  the word of scripture  
+putrera milane yena milibe āpani  
+of the son  in the meeting  as if  will meet  himself
 
-(56) [not yet translated]
+(56) Scripture says, ‘One’s self is born as one’s son.’ So when his son meets Me, it will be as if the king himself had met Me.”
 
 তবে রায় যাই’ সব রাজারে কহিলা ৷  
 প্রভুর আজ্ঞায় তাঁর পুত্র লঞা আইলা ॥ ৫৭ ॥
 
 tabe rāya yāi’ saba rājāre kahilā  
-prabhura ājñāya tāṅra putra lañā āilā
+then  Rāya  going  all  to the king  told  
+prabhura ājñāya tāṅra putra lañā āilā  
+of the Lord  by the order  his  son  bringing  came
 
-(57) [not yet translated]
+(57) Rāya then went and told the king everything, and at the Lord’s bidding he brought the king’s son.
 
 সুন্দর, রাজার পুত্র — শ্যামল-বরণ ৷  
 কিশোর-বয়স, দীর্ঘ কমলনয়ন ॥ ৫৮ ॥
 
 sundara, rājāra putra — śyāmala-varaṇa  
-kiśora-vayasa, dīrgha kamala-nayana
+beautiful  of the king  the son  dark of complexion  
+kiśora-vayasa, dīrgha kamala-nayana  
+youthful in age  long  lotus eyes
 
-(58) [not yet translated]
+(58) The king’s son was beautiful and dark-complexioned, in the bloom of youth, with long lotus eyes.
 
 পীতাম্বর, ধরে অঙ্গে রত্ন-আভরণ ৷  
 শ্রীকৃষ্ণ-স্মরণে তেঁহ হৈলা ‘উদ্দীপন’ ॥ ৫৯ ॥
 
 pītāmbara, dhare aṅge ratna-ābharaṇa  
-śrī kṛṣṇa-smaraṇe teṅha hailā ‘uddīpana’
+in yellow garments  wears  on the body  jewelled ornaments  
+śrī kṛṣṇa-smaraṇe teṅha hailā ‘uddīpana’  
+Śrī  of the remembrance of Kṛṣṇa  he  became  ‘the awakener’
 
-(59) [not yet translated]
+(59) Dressed in yellow and wearing jewelled ornaments, he awakened the remembrance of Śrī Kṛṣṇa — he was an *uddīpana*.
 
 তাঁরে দেখি’ মহাপ্রভুর কৃষ্ণস্মৃতি হৈল ৷  
 প্রেমাবেশে তাঁরে মিলি’ কহিতে লাগিল ॥ ৬০ ॥
 
 tāṅre dekhi’ mahāprabhura kṛṣṇa-smṛti haila  
-premāveśe tāṅre mili’ kahite lāgila
+him  seeing  of Mahāprabhu  remembrance of Kṛṣṇa  arose  
+premāveśe tāṅre mili’ kahite lāgila  
+in loving absorption  him  embracing  to speak  He began
 
-(60) [not yet translated]
+(60) Seeing him, Mahāprabhu remembered Kṛṣṇa. Overwhelmed with love, He embraced him and began to speak:
 
 এই — মহাভাগবত, যাঁহার দর্শনে ৷  
 ব্রজেন্দ্রনন্দন স্মৃতি হয় সর্ব্বজনে ॥ ৬১ ॥
 
 ei — mahā-bhāgavata, yāṅhāra darśane  
-vrajendra-nandana smṛti haya sarva-jane
+this one  a mahā-bhāgavata  whose  at the sight  
+vrajendra-nandana smṛti haya sarva-jane  
+of the son of Vraja’s king  remembrance  arises  in all people
 
-(61) [not yet translated]
+(61) “Here is a *mahā-bhāgavata*, at whose sight everyone remembers the son of the king of Vraja.
 
 কৃতার্থ হইলাঙ আমি ইঁহার দরশনে ৷  
 এত বলি’ কৈল তাঁরে পুনঃ আলিঙ্গনে ॥ ৬২ ॥
 
 kṛtārtha hailāṅa āmi iṅhāra daraśane  
-eta bali’ kaila tāṅre punaḥ āliṅgane
+fulfilled  have become  I  his  by the sight  
+eta bali’ kaila tāṅre punaḥ āliṅgane  
+so  saying  did  him  again  embracing
 
-(62) [not yet translated]
+(62) Seeing him, I have attained My goal.” Saying this, the Lord embraced him again.
 
 প্রভুস্পর্শে রাজপুত্রের হৈল প্রেমাবেশ ৷  
 স্বেদ, কম্প, অশ্রু, স্তম্ভ, পুলক বিশেষ ॥ ৬৩ ॥
 
 prabhu-sparśe rāja-putrera haila premāveśa  
-sveda, kampa, aśru, stambha, pulaka viśeṣa
+by the Lord’s touch  of the prince  arose  ecstatic love  
+sveda, kampa, aśru, stambha, pulaka viśeṣa  
+sweat  trembling  tears  stupor  horripilation  intense
 
-(63) [not yet translated]
+(63) At the Lord’s touch the prince was overcome with prema: he sweated and trembled, wept, became stunned, and his hair stood on end.
 
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে, নাচে, করয়ে রোদন ৷  
 তাঁর ভাগ্য দেখি’ শ্লাঘা করে ভক্তগণ ॥ ৬৪ ॥
 
 ‘kṛṣṇa’ ‘kṛṣṇa’ kahe, nāce, karaye rodana  
-tāṅra bhāgya dekhi’ ślāghā kare bhakta-gaṇa
+‘Kṛṣṇa’  ‘Kṛṣṇa’  he says  he dances  makes  weeping  
+tāṅra bhāgya dekhi’ ślāghā kare bhakta-gaṇa  
+his  fortune  seeing  praise  make  the devotees
 
-(64) [not yet translated]
+(64) He cried “Kṛṣṇa! Kṛṣṇa!”, danced and wept. Seeing his good fortune, the devotees praised him.
 
 তবে মহাপ্রভু তাঁরে ধৈর্য্য করাইল ৷  
 নিত্য আসি’ আমায় মিলিহ, — এই আজ্ঞা দিল ॥ ৬৫ ॥
 
 tabe mahāprabhu tāṅre dhairya karāila  
-nitya āsi’ āmāya miliha, — ei ājñā dila
+then  Mahāprabhu  him  composure  caused  
+nitya āsi’ āmāya miliha, — ei ājñā dila  
+daily  coming  Me  meet  this  order  He gave
 
-(65) [not yet translated]
+(65) Then Mahāprabhu calmed him and told him, “Come and see Me every day.”
 
 বিদায় হঞা রায় আইল রাজপুত্রে লঞা ৷  
 রাজা সুখ পাইল পুত্রের চেষ্টা দেখিয়া ॥ ৬৬ ॥
 
 vidāya hañā rāya āila rāja-putre lañā  
-rājā sukha pāila putrera ceṣṭā dekhiyā
+leave  taking  Rāya  came  the prince  bringing  
+rājā sukha pāila putrera ceṣṭā dekhiyā  
+the king  happiness  felt  of the son  the behaviour  seeing
 
-(66) [not yet translated]
+(66) Taking leave, Rāya came back with the prince. The king was delighted to see how his son behaved.
 
 পুত্রে আলিঙ্গন করি’ প্রেমাবিষ্ট হৈলা ৷  
 সাক্ষাৎ স্পর্শ যেন মহাপ্রভুর পাইলা ॥ ৬৭ ॥
 
 putre āliṅgana kari’ premāviṣṭa hailā  
-sākṣāt sparśa yena mahāprabhura pāilā
+the son  embrace  making  overwhelmed by love  he became  
+sākṣāt sparśa yena mahāprabhura pāilā  
+direct  touch  as if  of Mahāprabhu  he received
 
-(67) [not yet translated]
+(67) Embracing his son, he was overwhelmed with love, as if he had received Mahāprabhu’s touch directly.
 
 সেই হৈতে ভাগ্যবান্ রাজার নন্দন ৷  
 প্রভুভক্তগণ-মধ্যে হৈলা একজন ॥ ৬৮ ॥
 
 sei haite bhāgyavān rājāra nandana  
-prabhu-bhakta-gaṇa-madhye hailā eka-jana
+that  from  fortunate  of the king  the son  
+prabhu-bhakta-gaṇa-madhye hailā eka-jana  
+among the Lord’s devotees  became  one
 
-(68) [not yet translated]
+(68) From then on the fortunate prince was one of the Lord’s devotees.
 
 এইমত মহাপ্রভু ভক্তগণ-সঙ্গে ৷  
 নিরন্তর ক্রীড়া করে সংকীর্ত্তন-রঙ্গে ॥ ৬৯ ॥
 
 ei-mata mahāprabhu bhakta-gaṇa-saṅge  
-nirantara krīḍā kare saṅkīrtana-raṅge
+thus  Mahāprabhu  with the devotees  
+nirantara krīḍā kare saṅkīrtana-raṅge  
+constantly  play  does  in the joy of saṅkīrtana
 
-(69) [not yet translated]
+(69) In this way Mahāprabhu constantly enjoyed His pastimes with His devotees in the joy of saṅkīrtana.
 
 আচার্য্যাদি ভক্ত করে প্রভুরে নিমন্ত্রণ ৷  
 তাঁহা তাঁহা ভিক্ষা করে লঞা ভক্তগণ ॥ ৭০ ॥
 
 ācāryādi bhakta kare prabhure nimantraṇa  
-tāṅhā tāṅhā bhikṣā kare lañā bhakta-gaṇa
+the Ācārya and others  devotees  make  the Lord  invitation  
+tāṅhā tāṅhā bhikṣā kare lañā bhakta-gaṇa  
+there  there  alms  He takes  taking  the devotees
 
-(70) [not yet translated]
+(70) Advaita Ācārya and other devotees would invite the Lord, and He would take His meal at each of their homes together with His devotees.
 
 এইমত নানা রঙ্গে দিন কত গেল ৷  
 জগন্নাথের রথযাত্রা নিকট হইল ॥ ৭১ ॥
 
 ei-mata nānā raṅge dina kata gela  
-jagannāthera ratha-yātrā nikaṭa haila
+thus  in various  joys  days  some  passed  
+jagannāthera ratha-yātrā nikaṭa haila  
+of Jagannātha  the Ratha-yātrā  near  became
 
-(71) [not yet translated]
+(71) So, amid many joys, some days passed, and Jagannātha’s Ratha-yātrā drew near.
 
 প্রথমেই কাশীমিশ্রে প্রভু বোলাইল ৷  
 পড়িছা-পাত্র, সার্ব্বভৌমে বোলাঞা আনিল ॥ ৭২ ॥
 
 prathamei kāśī-miśre prabhu bolāila  
-paḍichā-pātra, sārvabhaume bolāñā ānila
+first of all  Kāśī Miśra  the Lord  called  
+paḍichā-pātra, sārvabhaume bolāñā ānila  
+the paḍichā-pātra  Sārvabhauma  calling  He brought
 
-(72) [not yet translated]
+(72) First the Lord called Kāśī Miśra; then He sent for the *paḍichā-pātra* and Sārvabhauma.
 
 তিনজন-পাশে প্রভু হাসিয়া কহিল ৷  
 গুণ্ডিচা-মন্দির-মার্জ্জন-সেবা মাগি’ নিল ॥ ৭৩ ॥
 
 tina-jana-pāśe prabhu hāsiyā kahila  
-guṇḍicā-mandira-mārjana-sevā māgi’ nila
+to the three persons  the Lord  smiling  said  
+guṇḍicā-mandira-mārjana-sevā māgi’ nila  
+the service of cleaning the Guṇḍicā temple  begging  He took
 
-(73) [not yet translated]
+(73) Smiling, the Lord spoke to the three of them and begged for the service of cleaning the Guṇḍicā temple.
 
 পড়িছা কহে, — আমি-সব সেবক তোমার ৷  
 যে তোমার ইচ্ছা, সেই কর্ত্তব্য আমার ॥ ৭৪ ॥
 
 paḍichā kahe, — āmi-saba sevaka tomāra  
-ye tomāra icchā, sei kartavya āmāra
+the paḍichā  says  we all  servants  Your  
+ye tomāra icchā, sei kartavya āmāra  
+what  Your  wish  that  duty  our
 
-(74) [not yet translated]
+(74) The *paḍichā* said, “We are all Your servants. Whatever You wish is our duty.
 
 বিশেষে রাজার আজ্ঞা হঞাছে আমারে ৷  
 প্রভুর আজ্ঞা যেই, সেই শীঘ্র করিবারে ॥ ৭৫ ॥
 
 viśeṣe rājāra ājñā hañāche āmāre  
-prabhura ājñā yei, sei śīghra karibāre
+especially  of the king  the order  has been  to me  
+prabhura ājñā yei, sei śīghra karibāre  
+of the Lord  the order  whatever  that  quickly  to carry out
 
-(75) [not yet translated]
+(75) Moreover, the king has specially ordered me to carry out at once whatever the Lord commands.
 
 তোমার যোগ্য সেবা নহে মন্দির-মার্জ্জন ৷  
 এই এক লীলা কর, যে তোমার মন ॥ ৭৬ ॥
 
 tomāra yogya sevā nahe mandira-mārjana  
-ei eka līlā kara, ye tomāra mana
+for You  fitting  service  is not  the cleaning of the temple  
+ei eka līlā kara, ye tomāra mana  
+this  one  pastime  You perform  as  Your  mind
 
-(76) [not yet translated]
+(76) Cleaning the temple is not a service worthy of You. But if it is Your wish, it will be one of Your pastimes.
 
 কিন্তু ঘট, সংমার্জ্জনী বহুত চাহিয়ে ৷  
 আজ্ঞা দেহ, আজি সব ইঁহা আনি দিয়ে ॥ ৭৭ ॥
 
 kintu ghaṭa, sammārjanī bahuta cāhiye  
-ājñā deha, āji saba iṅhā āni diye
+but  pots  brooms  many  are needed  
+ājñā deha, āji saba iṅhā āni diye  
+the order  give  today  all  here  bringing  I give
 
-(77) [not yet translated]
+(77) Many pots and brooms will be needed, though. Give the order, and I shall bring them all here today.”
 
 নূতন একশত ঘট, শত সংমার্জ্জনী ৷  
 পড়িছা আনিয়া দিল প্রভুর ইচ্ছা জানি’ ॥ ৭৮ ॥
 
 nūtana eka-śata ghaṭa, śata sammārjanī  
-paḍichā āniyā dila prabhura icchā jāni’
+new  one hundred  pots  a hundred  brooms  
+paḍichā āniyā dila prabhura icchā jāni’  
+the paḍichā  bringing  gave  of the Lord  the wish  knowing
 
-(78) [not yet translated]
+(78) Knowing the Lord’s wish, the *paḍichā* brought a hundred new pots and a hundred brooms.
 
 আর দিনে প্রভাতে লঞা নিজগণ ৷  
 শ্রীহস্তে সবার অঙ্গে লেপিলা চন্দন ॥ ৭৯ ॥
 
 āra dine prabhāte lañā nija-gaṇa  
-śrī haste sabāra aṅge lepilā candana
+on the next  day  in the morning  taking  His own people  
+śrī haste sabāra aṅge lepilā candana  
+with His divine  hand  of all  on the bodies  smeared  sandal paste
 
-(79) [not yet translated]
+(79) Early the next day the Lord gathered His own devotees and with His own hand anointed them all with sandal paste.
 
 শ্রীহস্তে দিল সবারে এক এক মার্জ্জনী ৷  
 সবগণ লঞা প্রভু চলিলা আপনি ॥ ৮০ ॥
 
 śrī haste dila sabāre eka eka mārjanī  
-saba-gaṇa lañā prabhu calilā āpani
+with His divine  hand  gave  to all  one  each  broom  
+saba-gaṇa lañā prabhu calilā āpani  
+all His people  taking  the Lord  went  Himself
 
-(80) [not yet translated]
+(80) With His own hand He gave each of them a broom, and the Lord Himself set out, taking them all with Him.
 
 গুণ্ডিচা-মন্দিরে গেলা করিতে মার্জ্জন ৷  
 প্রথমে মার্জ্জনী লঞা করিল শোধন ॥ ৮১ ॥
