@@ -118,14 +118,14 @@ def build(ch, check=False):
         else: out.append(f"**{ru['0']['tr']}**  ")
     out += ['(перевод Вриндавана Чандры даса; выверка по изд. Гаудия Матха и «Анубхашье», 2026 — проект)', '']
     fnl = []; n = 1
-    oldnotes = {re.match(r'\[\^(\d+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
+    oldnotes = {re.match(r'\[\^([\d–-]+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
     for b in blocks:
         e = ru.get(b['num'], {'w': [], 'wn': {}, 'tn': {}, 'bn': {}, 'fn': [], 'tr': None})
         b['bn'] = [e['bn'].get(i + 1, x) for i, x in enumerate(b['bn'])]
         b['pairs'] = [(e['tn'].get(i + 1, t), w) for i, (t, w) in enumerate(b['pairs'])]
-        text = e['tr'] if e['tr'] else re.sub(r'\[\^\d+\]', '', b['text'])
+        text = e['tr'] if e['tr'] else re.sub(r'\[\^[\d–-]+\]', '', b['text'])
         fns = []
-        for m in re.findall(r'\[\^(\d+)\]', b['text']):
+        for m in re.findall(r'\[\^([\d–-]+)\]', b['text']):
             if not e['tr']: fns.append(oldnotes[m])
         fns += e['fn']
         pairs = [(t, e['wn'].get(i + 1, w)) for i, (t, w) in enumerate(b['pairs'])]
