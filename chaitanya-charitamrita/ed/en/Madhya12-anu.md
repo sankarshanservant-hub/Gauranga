@@ -136,7 +136,7 @@ The king is destined never to obtain Your *darśana*, and deprived of that *dar�
 
 > Subheading: Knowing the Lord's cloth to be non-different from the Lord, the king serves it —
 
-The king had meant to worship the Lord with great eagerness. In the same way he began to worship the piece of outer cloth the Lord had given, regarding it as the Lord Himself. The clothes, ornaments and other things the Lord wears are eternally non-different from His transcendental body. Śrī Baladeva is the form (*vigraha*) that possesses the *sandhinī* energy. His portion (*kalā*), Śeṣa, serves his worshipable Kṛṣṇacandra in many forms — as Viṣṇu's bed, His clothing and so on. Therefore all of these are the service of a pure servant, and in all of them one and the same Kṛṣṇa is perceived. Mahāprabhu, moreover, is the nondual truth (*advaya-jñāna*), the form of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*), Svayam Bhagavān. In the same way, the guru and the Vaiṣṇavas, who are full of eternity, knowledge and bliss, and the articles they use must be known as non-different from one another — that is, as the eternal, supremely worshipable forms for the *jīva*.
+The king had meant to worship the Lord with great eagerness. In the same way he began to worship the piece of outer cloth the Lord had given, regarding it as like the Lord Himself. The clothes, ornaments and other things the Lord wears are eternally non-different from His transcendental body. Śrī Baladeva is the form (*vigraha*) that possesses the *sandhinī* energy. His portion (*kalā*), Śeṣa, serves his worshipable Kṛṣṇacandra in many forms — as Viṣṇu's bed, His clothing and so on. Therefore all of these are objects of service for a pure servant, and in all of them one and the same Kṛṣṇa is perceived. Mahāprabhu, moreover, is the nondual truth (*advaya-jñāna*), the form of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*), Svayam Bhagavān. In the same way, the guru and the Vaiṣṇavas, who are full of eternity, knowledge and bliss, and the articles they use must be known as non-different from one another — that is, as the eternal, supremely worshipable forms for the *jīva*.
 
 ## 39
 
@@ -336,7 +336,7 @@ The *bhoga-mandira* is 40 cubits long and 17 wide.
 
 ## 94
 
-> Subheading: The coverings are removed twice —
+> Subheading: The coverings are cleaned twice —
 
 ## 95
 
@@ -828,11 +828,11 @@ On the sweetness of the Śrī Vigraha, Śrī Rūpa Prabhu writes in the *Śrī L
 
 ---
 
-[^59-61-1]: Cf. *Śrīmad-Bhāgavatam* 10.84.13.
+[^59-61-1]: The edition gives no source; cf. *Śrīmad-Bhāgavatam* 10.84.13 (*bhauma ijya-dhīḥ*).
 
-[^59-61-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
+[^59-61-2]: The edition names only the *Kaṭha* and *Muṇḍaka Upaniṣads*, without numbers; these are *Kaṭha Upaniṣad* 1.2.23 and *Muṇḍaka Upaniṣad* 3.2.3.
 
-[^135-1]: *Bhakti-rasāmṛta-sindhu* 1.1.11.
+[^135-1]: The edition gives no source; this is *Bhakti-rasāmṛta-sindhu* 1.1.11.
 
 [^150-1]: The verse translation reads differently: it says that this incident, that is, the one with Gopāla, is described in detail by Śrī Vṛndāvana dāsa Ṭhākura in the *Śrī Caitanya-bhāgavata*; according to the *Anubhāṣya*, the account of Gopāla is not found there.
 
@@ -840,6 +840,6 @@ On the sweetness of the Śrī Vigraha, Śrī Rūpa Prabhu writes in the *Śrī L
 
 [^194-1]: So in the edition (11.3.45); by the sense, 11.2.45 (the marks of the highest devotee) may be meant.
 
-[^195-1]: *Upadeśāmṛta* 4.
+[^195-1]: The edition names the *Upadeśāmṛta* without a verse number; this is *Upadeśāmṛta* 4.
 
 [^213-1]: The verse translation reads differently: “Jagannātha's light-yellow chin surpassed the beauty of the *bāndhulī* flower”; according to the *Anubhāṣya*, *suraṅga* is vermilion and the *bāndhulī* a red flower (the verse speaks of the lips, *adhara*).
