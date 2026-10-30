@@ -14,7 +14,7 @@ Sārvabhauma said, “Let us all go together and tell Mahāprabhu how the king c
 
 ## 20
 
-“*Mudrā* in the ears”: in the western regions yogīs are called “*kānphaṭā* yogīs” (“yogīs with split ears”), since yogīs wear in their ears a token made of conch shell.[^20-1]
+“*Mudrā* in the ears”: in the western regions yogīs are called “*kānphaṭā* yogīs” (“yogīs with split ears”), since yogīs wear in their ears a token made of conch shell.
 
 The king said that without the *darśana* of Gaurahari enjoying his kingdom did not touch his heart, that is, it gave him no pleasure.
 
@@ -80,12 +80,9 @@ Mahāprabhu had *mahā-prasāda* given to the Vaiṣṇavas. It was sprinkled wi
 
 ## 212
 
-*Nīlamaṇi*: that is, Jagannāthadeva's cheeks glittered like a mirror made of sapphire (*indranīla-maṇi*).[^212-1]
+*Nīlamaṇi*: that is, Jagannāthadeva's cheeks glittered like a mirror made of sapphire (*indranīla-maṇi*).
 
 *Thus ends the twelfth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
 
-[^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.
-
-[^212-1]: The verse translation reads differently: “His neck shone like a sapphire mirror”; for Bhaktivinoda it is the cheeks (*gaṇḍa*) that glitter.
