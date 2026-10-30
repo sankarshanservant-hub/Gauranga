@@ -814,249 +814,311 @@ all His people  taking  the Lord  went  Himself
 প্রথমে মার্জ্জনী লঞা করিল শোধন ॥ ৮১ ॥
 
 guṇḍicā-mandire gelā karite mārjana  
-prathame mārjanī lañā karila śodhana
+to the Guṇḍicā temple  He went  to do  cleaning  
+prathame mārjanī lañā karila śodhana  
+first  brooms  taking  made  cleansing
 
-(81) [not yet translated]
+(81) He went to the Guṇḍicā temple to clean it. First they took the brooms and swept it clean.
 
 ভিতর মন্দির উপর, — সকল মাজিল ৷  
 সিংহাসন মাজি’ পুনঃ স্থাপন করিল ॥ ৮২ ॥
 
 bhitara mandira upara, — sakala mājila  
-siṁhāsana māji’ punaḥ sthāpana karila
+inside  the temple  above  all  He scrubbed  
+siṁhāsana māji’ punaḥ sthāpana karila  
+the throne  scrubbing  again  placing  He did
 
-(82) [not yet translated]
+(82) He scrubbed everything inside the temple, even the ceiling; He cleaned the throne and set it back in its place.
 
 ছোট-বড়-মন্দির কৈল মার্জ্জন-শোধন ৷  
 পাছে তৈছে শোধিল শ্রীজগমোহন ॥ ৮৩ ॥
 
 choṭa-baḍa-mandira kaila mārjana-śodhana  
-pāche taiche śodhila śrī jagamohana
+small and large  shrines  did  sweeping and cleansing  
+pāche taiche śodhila śrī jagamohana  
+afterwards  likewise  cleansed  Śrī  Jagamohana
 
-(83) [not yet translated]
+(83) He swept and cleaned the small and large shrines, and afterwards cleaned the Śrī Jagamohana in the same way.
 
 চারিদিকে শত ভক্ত সংমার্জ্জনী করে ৷  
 আপনি শোধেন প্রভু, শিখা’ন সবারে ॥ ৮৪ ॥
 
 cāri-dike śata bhakta sammārjanī kare  
-āpani śodhena prabhu, śikhā’na sabāre
+on four sides  a hundred  devotees  sweeping  do  
+āpani śodhena prabhu, śikhā’na sabāre  
+Himself  cleans  the Lord  teaches  all
 
-(84) [not yet translated]
+(84) On every side a hundred devotees were sweeping. The Lord Himself cleaned and taught them all.
 
 প্রেমোল্লাসে শোধেন, লয়েন কৃষ্ণনাম ৷  
 ভক্তগণ ‘কৃষ্ণ’ কহে, করে নিজ-কাম ॥ ৮৫ ॥
 
 premollāse śodhena, layena kṛṣṇa-nāma  
-bhakta-gaṇa ‘kṛṣṇa’ kahe, kare nija-kāma
+in the joy of love  He cleans  He takes  Kṛṣṇa’s name  
+bhakta-gaṇa ‘kṛṣṇa’ kahe, kare nija-kāma  
+the devotees  ‘Kṛṣṇa’  say  do  their own work
 
-(85) [not yet translated]
+(85) Joyful with love, He cleaned and chanted Kṛṣṇa’s name; the devotees, too, chanted “Kṛṣṇa!” as they did their work.
 
 ধূলি-ধূসর তনু দেখিতে শোভন ৷  
 কাঁহা কাঁহা অশ্রুজলে করে সংমার্জ্জন ॥ ৮৬ ॥
 
 dhūli-dhūsara tanu dekhite śobhana  
-kāṅhā kāṅhā aśru-jale kare sammārjana
+grey with dust  body  to see  beautiful  
+kāṅhā kāṅhā aśru-jale kare sammārjana  
+in some places  in places  with the water of tears  does  cleaning
 
-(86) [not yet translated]
+(86) His body, grey with dust, was beautiful to see. In places He washed the floor with the water of His tears.
 
 ভোগমন্দির শোধন করি’ শোধিল প্রাঙ্গণ ৷  
 সকল আবাস ক্রমে করিল শোধন ॥ ৮৭ ॥
 
 bhoga-mandira śodhana kari’ śodhila prāṅgaṇa  
-sakala āvāsa krame karila śodhana
+the bhoga-mandira  cleansing  having done  cleansed  the courtyard  
+sakala āvāsa krame karila śodhana  
+all  the quarters  in turn  did  cleansing
 
-(87) [not yet translated]
+(87) After cleaning the *bhoga-mandira* He cleaned the courtyard, and then, one after another, all the rooms.
 
 তৃণ, ধূলি, ঝিকুর, সব একত্র করিয়া ৷  
 বহির্ব্বাসে লঞা ফেলায় বাহির করিয়া ॥ ৮৮ ॥
 
 tṛṇa, dhūli, jhikura, saba ekatra kariyā  
-bahirvāse lañā phelāya bāhira kariyā
+straw  dust  grit  all  together  making  
+bahirvāse lañā phelāya bāhira kariyā  
+in the outer cloth  taking  throws away  outside  carrying
 
-(88) [not yet translated]
+(88) He gathered straw, dust and grit into one heap, took it up in His outer cloth and carried it outside to throw it away.
 
 এইমত ভক্তগণ করি’ নিজ-বাসে ৷  
 তৃণ, ধূলি বাহিরে ফেলায় পরম-হরিষে ॥ ৮৯ ॥
 
 ei-mata bhakta-gaṇa kari’ nija-vāse  
-tṛṇa, dhūli bāhire phelāya parama-hariṣe
+in this way  the devotees  doing  in their own cloths  
+tṛṇa, dhūli bāhire phelāya parama-hariṣe  
+straw  dust  outside  throw away  with great joy
 
-(89) [not yet translated]
+(89) In the same way the devotees gathered straw and dust in their own cloths and threw it outside with great joy.
 
 প্রভু কহে, — কে কত করিয়াছ সংমার্জ্জন ৷  
 তৃণ, ধূলি দেখিলেই জানিব পরিশ্রম ॥ ৯০ ॥
 
 prabhu kahe, — ke kata kariyācha sammārjana  
-tṛṇa, dhūli dekhilei jāniba pariśrama
+the Lord  says  who  how much  has done  sweeping  
+tṛṇa, dhūli dekhilei jāniba pariśrama  
+straw  dust  just by seeing  I shall know  the labour
 
-(90) [not yet translated]
+(90) The Lord said, “Who has swept how much? Just by seeing your straw and dust I shall know how hard you have worked.”
 
 সবার ঝ্যাঁটান বোঝা একত্র করিল ৷  
 সবা হৈতে প্রভুর বোঝা অধিক হইল ॥ ৯১ ॥
 
 sabāra jhyāṅṭāna bojhā ekatra karila  
-sabā haite prabhura bojhā adhika haila
+of all  the sweepings  bundles  together  He made  
+sabā haite prabhura bojhā adhika haila  
+all  than  of the Lord  the bundle  more  was
 
-(91) [not yet translated]
+(91) All the heaps of sweepings were put together, and the Lord’s heap was larger than everyone else’s.
 
 এইমত অভ্যন্তর করিল মার্জ্জন ৷  
 পুনঃ সবাকারে দিল করিয়া বণ্টন ॥ ৯২ ॥
 
 ei-mata abhyantara karila mārjana  
-punaḥ sabākāre dila kariyā vaṇṭana
+thus  the interior  He did  cleaning  
+punaḥ sabākāre dila kariyā vaṇṭana  
+again  to all  He gave  making  distribution
 
-(92) [not yet translated]
+(92) When the inside had been cleaned in this way, He again divided the work among them all:
 
 সূক্ষ্ম ধূলি, তৃণ, কাঁকর, সব করহ দূর ৷  
 ভালমতে শোধন করহ প্রভুর অন্তঃপুর ॥ ৯৩ ॥
 
 sūkṣma dhūli, tṛṇa, kāṅkara, saba karaha dūra  
-bhāla-mate śodhana karaha prabhura antaḥpura
+fine  dust  straw  pebbles  all  make  away  
+bhāla-mate śodhana karaha prabhura antaḥpura  
+thoroughly  cleaning  do  of the Lord  the inner chamber
 
-(93) [not yet translated]
+(93) “Remove all the fine dust, straw and pebbles. Clean the Lord’s inner chamber thoroughly.”
 
 সব বৈষ্ণব লঞা যবে দুইবার শোধিল ৷  
 দেখি’ মহাপ্রভুর মনে সন্তোষ হইল ॥ ৯৪ ॥
 
 saba vaiṣṇava lañā yabe dui-bāra śodhila  
-dekhi’ mahāprabhura mane santoṣa haila
+all  the Vaiṣṇavas  taking  when  twice  He cleansed  
+dekhi’ mahāprabhura mane santoṣa haila  
+seeing  of Mahāprabhu  in the mind  satisfaction  arose
 
-(94) [not yet translated]
+(94) When He and all the Vaiṣṇavas had cleaned it twice, Mahāprabhu was satisfied to see it.
 
 আর শত-জন শত-ঘটে জল ভরি’ ৷  
 প্রথমেই লঞা আছে কাল অপেক্ষা করি’ ॥ ৯৫ ॥
 
 āra śata-jana śata-ghaṭe jala bhari’  
-prathamei lañā āche kāla apekṣā kari’
+another  hundred persons  in a hundred pots  water  filling  
+prathamei lañā āche kāla apekṣā kari’  
+from the start  holding  are there  the time  waiting  doing
 
-(95) [not yet translated]
+(95) Another hundred people had filled a hundred pots with water and stood holding them from the start, waiting for the moment.
 
 ‘জল আন’ বলি’ যবে মহাপ্রভু কহিল ৷  
 তবে শত ঘট আনি’ প্রভু আগে দিল ॥ ৯৬ ॥
 
 ‘jala āna’ bali’ yabe mahāprabhu kahila  
-tabe śata ghaṭa āni’ prabhu āge dila
+‘water  bring’  saying  when  Mahāprabhu  spoke  
+tabe śata ghaṭa āni’ prabhu āge dila  
+then  a hundred  pots  bringing  the Lord  before  they placed
 
-(96) [not yet translated]
+(96) When Mahāprabhu called out, “Bring water!”, they brought the hundred pots and set them before the Lord.
 
 প্রথমে করিল প্রভু মন্দির প্রক্ষালন ৷  
 ঊর্দ্ধ্ব-অধো ভিত্তি, গৃহ-মধ্য, সিংহাসন ॥ ৯৭ ॥
 
 prathame karila prabhu mandira prakṣālana  
-ūrdhva-adho bhitti, gṛha-madhya, siṁhāsana
+first  did  the Lord  of the temple  washing  
+ūrdhva-adho bhitti, gṛha-madhya, siṁhāsana  
+above and below  the walls  inside the room  the throne
 
-(97) [not yet translated]
+(97) First the Lord washed the temple: the walls from top to bottom, the inside of the room and the throne.
 
 খাপরা ভরিয়া জল ঊর্দ্ধ্বে চালাইল ৷  
 সেই জলে ঊর্দ্ধ্ব শোধি ভিত্তি প্রক্ষালিল ॥ ৯৮ ॥
 
 khāparā bhariyā jala ūrdhve cālāila  
-sei jale ūrdhva śodhi bhitti prakṣālila
+clay bowls  filling  water  upward  He threw  
+sei jale ūrdhva śodhi bhitti prakṣālila  
+with that  water  the top  cleansing  the walls  He washed
 
-(98) [not yet translated]
+(98) Filling clay bowls with water, He threw it up high; with that water He cleaned the ceiling and washed the walls.
 
 শ্রীহস্তে করেন সিংহাসনের মার্জ্জন ৷  
 প্রভু-আগে জল আনি’ দেয় ভক্তগণ ॥ ৯৯ ॥
 
 śrī haste karena siṁhāsanera mārjana  
-prabhu-āge jala āni’ deya bhakta-gaṇa
+with His divine  hand  He does  of the throne  cleaning  
+prabhu-āge jala āni’ deya bhakta-gaṇa  
+before the Lord  water  bringing  give  the devotees
 
-(99) [not yet translated]
+(99) With His own hand He cleaned the throne, while the devotees brought water and set it before Him.
 
 ভক্তগণ করে গৃহ-মধ্যে প্রক্ষালন ৷  
 নিজ নিজ হস্তে করে মন্দির মার্জ্জন ॥ ১০০ ॥
 
 bhakta-gaṇa kare gṛha-madhye prakṣālana  
-nija nija haste kare mandira mārjana
+the devotees  do  inside the room  washing  
+nija nija haste kare mandira mārjana  
+own  own  with hands  do  of the temple  cleaning
 
-(100) [not yet translated]
+(100) The devotees washed the inside of the room, each cleaning the temple with his own hands.
 
 কেহ জল আনি’ দেয় মহাপ্রভুর করে ৷  
 কেহ জল দেয় তাঁর চরণ-উপরে ॥ ১০১ ॥
 
 keha jala āni’ deya mahāprabhura kare  
-keha jala deya tāṅra caraṇa-upare
+someone  water  bringing  gives  of Mahāprabhu  into the hands  
+keha jala deya tāṅra caraṇa-upare  
+someone  water  pours  His  upon the feet
 
-(101) [not yet translated]
+(101) Some brought water and poured it into Mahāprabhu’s hands; some poured water over His feet.
 
 কেহ লুকাঞা করে সেই জলপান ৷  
 কেহ মাগি’ লয়, কেহ অন্যে করে দান ॥ ১০২ ॥
 
 keha lukāñā kare sei jala-pāna  
-keha māgi’ laya, keha anye kare dāna
+someone  secretly  does  that  water-drinking  
+keha māgi’ laya, keha anye kare dāna  
+someone  begging  takes  someone  to others  makes  gift
 
-(102) [not yet translated]
+(102) Some secretly drank that water; some begged for it, and some gave it to others.
 
 ঘর ধুই’ প্রণালিকায় জল ছাড়ি’ দিল ৷  
 সেই জলে প্রাঙ্গণ সব ভরিয়া রহিল ॥ ১০৩ ॥
 
 ghara dhui’ praṇālikāya jala chāḍi’ dila  
-sei jale prāṅgaṇa saba bhariyā rahila
+the room  washing  into the drain  the water  letting go  gave  
+sei jale prāṅgaṇa saba bhariyā rahila  
+by that  water  the courtyard  all  filled  remained
 
-(103) [not yet translated]
+(103) When the rooms had been washed, they let the water out through the drain, and it flooded the whole courtyard.
 
 নিজ-বস্ত্রে কৈল প্রভু গৃহ সংমার্জ্জন ৷  
 মহাপ্রভু নিজ-বস্ত্রে মাজিল সিংহাসন ॥ ১০৪ ॥
 
 nija-vastre kaila prabhu gṛha sammārjana  
-mahāprabhu nija-vastre mājila siṁhāsana
+with His own cloth  did  the Lord  of the room  cleaning  
+mahāprabhu nija-vastre mājila siṁhāsana  
+Mahāprabhu  with His own cloth  polished  the throne
 
-(104) [not yet translated]
+(104) With His own cloth the Lord wiped the room, and with His own cloth Mahāprabhu polished the throne.
 
 শত ঘট জলে হৈল মন্দির মার্জ্জন ৷  
 মন্দির শোধিয়া কৈল, যেন নিজ মন ॥ ১০৫ ॥
 
 śata ghaṭa jale haila mandira mārjana  
-mandira śodhiyā kaila, yena nija mana
+of a hundred  pots  with the water  was  of the temple  cleaning  
+mandira śodhiyā kaila, yena nija mana  
+the temple  cleansing  He made  like  His own  mind
 
-(105) [not yet translated]
+(105) With the water of a hundred pots the temple was cleaned. Purifying the temple, He made it like His own mind.
 
 নির্ম্মল, শীতল, স্নিগ্ধ করিল মন্দিরে ৷  
 আপন-হৃদয় যেন ধরিল বাহিরে ॥ ১০৬ ॥
 
 nirmala, śītala, snigdha karila mandire  
-āpana-hṛdaya yena dharila bāhire
+spotless  cool  soothing  He made  the temple  
+āpana-hṛdaya yena dharila bāhire  
+His own heart  as if  He held  outside
 
-(106) [not yet translated]
+(106) He made the temple spotless, cool and soothing, as if He had brought His own heart outside.
 
 শত-শত জন জল ভরে সরোবরে ৷  
 ঘাটে স্থান নাহি, কেহ কূপে জল ভরে ॥ ১০৭ ॥
 
 śata-śata jana jala bhare sarovare  
-ghāṭe sthāna nāhi, keha kūpe jala bhare
+hundreds and hundreds  people  water  fill  at the lake  
+ghāṭe sthāna nāhi, keha kūpe jala bhare  
+at the ghāṭa  room  there is not  some  at the well  water  fill
 
-(107) [not yet translated]
+(107) Hundreds upon hundreds of people drew water from the lake. There was no room left at the bathing *ghāṭa*, so some drew water from a well.
 
 পূর্ণ কুম্ভ লঞা আইসে শত ভক্তগণ ৷  
 শূন্য ঘট লঞা যায়, আর শত জন ॥ ১০৮ ॥
 
 pūrṇa kumbha lañā āise śata bhakta-gaṇa  
-śūnya ghaṭa lañā yāya, āra śata jana
+full  pots  carrying  come  a hundred  devotees  
+śūnya ghaṭa lañā yāya, āra śata jana  
+empty  pots  carrying  go  another  hundred  persons
 
-(108) [not yet translated]
+(108) A hundred devotees came carrying full pots, and another hundred went off with the empty ones.
 
 নিত্যানন্দ, অদ্বৈত, স্বরূপ, ভারতী, পুরী ৷  
 ইঁহা বিনা আর সব আনে জল ভরি’ ॥ ১০৯ ॥
 
 nityānanda, advaita, svarūpa, bhāratī, purī  
-iṅhā vinā āra saba āne jala bhari’
+Nityānanda  Advaita  Svarūpa  Bhāratī  Purī  
+iṅhā vinā āra saba āne jala bhari’  
+them  except  other  all  bring  water  filling
 
-(109) [not yet translated]
+(109) Except for Nityānanda, Advaita, Svarūpa, Bhāratī and Purī, everyone filled pots and brought water.
 
 ঘটে ঘটে ঠেকি’ কত ঘট ভাঙ্গি’ গেল ৷  
 শত শত ঘট লোক তাঁহা লঞা আইল ॥ ১১০ ॥
 
 ghaṭe ghaṭe ṭheki’ kata ghaṭa bhāṅgi’ gela  
-śata śata ghaṭa loka tāṅhā lañā āila
+pot  against pot  knocking  some  pots  breaking  went  
+śata śata ghaṭa loka tāṅhā lañā āila  
+hundreds  hundreds  pots  people  there  bringing  came
 
-(110) [not yet translated]
+(110) Many pots broke as they knocked against one another, and people brought hundreds more.
 
 জল ভরে, ঘর ধোয়, করে হরিধ্বনি ৷  
 ‘কৃষ্ণ’ ‘হরি’ ধ্বনি বিনা আর নাহি শুনি ॥ ১১১ ॥
 
 jala bhare, ghara dhoya, kare hari-dhvani  
-‘kṛṣṇa’ ‘hari’ dhvani vinā āra nāhi śuni
+water  they fill  the room  they wash  they make  the sound of Hari’s name  
+‘kṛṣṇa’ ‘hari’ dhvani vinā āra nāhi śuni  
+‘Kṛṣṇa’  ‘Hari’  sound  except  other  not  is heard
 
-(111) [not yet translated]
+(111) They filled pots, washed the rooms and called out the name of Hari. Apart from the sounds “Kṛṣṇa!” and “Hari!”, nothing else could be heard.
 
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ করে ঘটের প্রার্থন ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ করে ঘট সমর্পণ ॥ ১১২ ॥
@@ -1659,233 +1721,291 @@ of him  out of fear  the Lord  a little  does  eating
 তাঁর আগে কিছু খা’ন — মনে ঐ ত্রাস ॥ ১৭২ ॥
 
 nā khāile jagadānanda karibe upavāsa  
-tāṅra āge kichu khā’na — mane ai trāsa
+not  if He eats  Jagadānanda  will make  a fast  
+tāṅra āge kichu khā’na — mane ai trāsa  
+of him  in front  a little  He eats  in the mind  this  fear
 
-(172) [not yet translated]
+(172) If He did not eat, Jagadānanda would fast. With this fear in His mind, the Lord would eat a little in front of him.
 
 স্বরূপ-গোসাঞি ভাল মিষ্টপ্রসাদ লঞা ৷  
 প্রভুকে নিবেদন করে আগে দাণ্ডাঞা ॥ ১৭৩ ॥
 
 svarūpa-gosāñi bhāla miṣṭa-prasāda lañā  
-prabhuke nivedana kare āge dāṇḍāñā
+Svarūpa Gosāñi  choice  sweet prasāda  taking  
+prabhuke nivedana kare āge dāṇḍāñā  
+to the Lord  offering  makes  in front  standing
 
-(173) [not yet translated]
+(173) Svarūpa Gosāñi would take some choice sweet *prasāda*, stand before the Lord and offer it to Him:
 
 এই মহাপ্রসাদ অল্প করহ আস্বাদন ৷  
 দেখ, জগন্নাথ কৈছে কর্য্যাছেন ভোজন ॥ ১৭৪ ॥
 
 ei mahā-prasāda alpa karaha āsvādana  
-dekha, jagannātha kaiche karyāchena bhojana
+this  mahā-prasāda  a little  make  tasting  
+dekha, jagannātha kaiche karyāchena bhojana  
+look  Jagannātha  how  has made  eating
 
-(174) [not yet translated]
+(174) “Taste a little of this *mahā-prasāda*. See how Jagannātha has eaten of it!”
 
 এত বলি’ আগে কিছু করে সমর্পণ ৷  
 তাঁর স্নেহে প্রভু কিছু করেন ভোজন ॥ ১৭৫ ॥
 
 eta bali’ āge kichu kare samarpaṇa  
-tāṅra snehe prabhu kichu karena bhojana
+so  saying  in front  a little  he makes  offering  
+tāṅra snehe prabhu kichu karena bhojana  
+of him  out of affection  the Lord  a little  does  eating
 
-(175) [not yet translated]
+(175) Saying this, he would set a little before Him, and out of affection for him the Lord would eat some.
 
 এই মত দুইজন করে বারবার ৷  
 বিচিত্র এই দুই ভক্তের স্নেহ-ব্যবহার ॥ ১৭৬ ॥
 
 ei mata duijana kare bārabāra  
-vicitra ei dui bhaktera sneha-vyavahāra
+in this way  the two  do  again and again  
+vicitra ei dui bhaktera sneha-vyavahāra  
+wonderful  of these  two  devotees  the loving dealings
 
-(176) [not yet translated]
+(176) The two of them did this again and again. Wonderful were the loving dealings of these two devotees!
 
 সার্ব্বভৌমে প্রভু বসাঞাছেন বাম-পাশে ৷  
 দুই ভক্তের স্নেহ দেখি’ সার্ব্বভৌম হাসে ॥ ১৭৭ ॥
 
 sārvabhaume prabhu vasāñāchena vāma-pāśe  
-dui bhaktera sneha dekhi’ sārvabhauma hāse
+Sārvabhauma  the Lord  has seated  at His left side  
+dui bhaktera sneha dekhi’ sārvabhauma hāse  
+of the two  devotees  the affection  seeing  Sārvabhauma  smiles
 
-(177) [not yet translated]
+(177) The Lord had seated Sārvabhauma at His left side, and seeing the affection of the two devotees, Sārvabhauma smiled.
 
 সার্ব্বভৌমে দেয়ান প্রভু প্রসাদ উত্তম ৷  
 স্নেহ করি’ বারবার করান ভোজন ॥ ১৭৮ ॥
 
 sārvabhaume deyāna prabhu prasāda uttama  
-sneha kari’ bāra bāra karāna bhojana
+to Sārvabhauma  has given  the Lord  prasāda  the best  
+sneha kari’ bāra bāra karāna bhojana  
+affection  showing  again and again  He makes  eat
 
-(178) [not yet translated]
+(178) The Lord had the best *prasāda* served to Sārvabhauma, and out of affection He made him eat again and again.
 
 গোপীনাথাচার্য্য উত্তম মহাপ্রসাদ আনি’ ৷  
 সার্ব্বভৌমে দিয়া কহে সুমধুর বাণী ॥ ১৭৯ ॥
 
 gopīnāthācārya uttama mahā-prasāda āni’  
-sārvabhaume diyā kahe sumadhura vāṇī
+Gopīnātha Ācārya  excellent  mahā-prasāda  bringing  
+sārvabhaume diyā kahe sumadhura vāṇī  
+to Sārvabhauma  giving  speaks  very sweet  words
 
-(179) [not yet translated]
+(179) Gopīnātha Ācārya brought excellent *mahā-prasāda*, gave it to Sārvabhauma, and spoke very sweet words:
 
 কাঁহা ভট্টাচার্য্যের পূর্ব্ব জড়-ব্যবহার ৷  
 কাঁহা এই পরমানন্দ, — করহ বিচার ॥ ১৮০ ॥
 
 kāṅhā bhaṭṭācāryera pūrva jaḍa-vyavahāra  
-kāṅhā ei paramānanda, — karaha vicāra
+where  the Bhaṭṭācārya’s  former  worldly dealings  
+kāṅhā ei paramānanda, — karaha vicāra  
+where  this  supreme bliss  make  consideration
 
-(180) [not yet translated]
+(180) “Just consider: where were the Bhaṭṭācārya’s former worldly dealings, and where is this supreme bliss now!”
 
 সার্ব্বভৌম কহে, — আমি তার্কিক কুবুদ্ধি ৷  
 তোমার প্রসাদে মোর এ সম্পৎ-সিদ্ধি ॥ ১৮১ ॥
 
 sārvabhauma kahe, — āmi tārkika kubuddhi  
-tomāra prasāde mora e sampat-siddhi
+Sārvabhauma  says  I  a logician  of crooked intellect  
+tomāra prasāde mora e sampat-siddhi  
+by your  grace  my  this  attainment of wealth
 
-(181) [not yet translated]
+(181) Sārvabhauma said, “I was a logician of crooked intellect. It is by your grace that I have gained this wealth.
 
 মহাপ্রভু বিনা কেহ নাহি দয়াময় ৷  
 কাকেরে গরুড় করে, — ঐছে কোন্ হয় ॥ ১৮২ ॥
 
 mahāprabhu vinā keha nāhi dayāmaya  
-kākere garuḍa kare, — aiche kon haya
+Mahāprabhu  apart from  anyone  is not  merciful  
+kākere garuḍa kare, — aiche kon haya  
+the crow  into Garuḍa  He makes  such  who  is
 
-(182) [not yet translated]
+(182) No one is as merciful as Mahāprabhu. He turns a crow into a Garuḍa — who else is like that?
 
 তার্কিক-শৃগাল-সঙ্গে ভেউ-ভেউ করি ৷  
 সেই মুখে এবে সদা কহি ‘কৃষ্ণ’ ‘হরি’ ॥ ১৮৩ ॥
 
 tārkika-śṛgāla-saṅge bheu-bheu kari  
-sei mukhe ebe sadā kahi ‘kṛṣṇa’ ‘hari’
+with the logician-jackals  howling  I made  
+sei mukhe ebe sadā kahi ‘kṛṣṇa’ ‘hari’  
+with that  mouth  now  always  I say  “Kṛṣṇa”  “Hari”
 
-(183) [not yet translated]
+(183) I used to howl with the jackals of logic, and now with that same mouth I always say ‘Kṛṣṇa!’ and ‘Hari!’
 
 কাঁহা বহির্ম্মুখ তার্কিক-শিষ্যগণ সঙ্গে ৷  
 কাঁহা এই সঙ্গসুধা-সমুদ্র-তরঙ্গে ॥ ১৮৪ ॥
 
 kāṅhā bahirmukha tārkika-śiṣyagaṇa-saṅge  
-kāṅhā ei saṅga-sudhā-samudra-taraṅge
+where  averse to the Lord  with logician disciples  company  
+kāṅhā ei saṅga-sudhā-samudra-taraṅge  
+where  this  of company’s nectar  of the ocean  in the waves
 
-(184) [not yet translated]
+(184) Where was I then, in the company of disciples who were logicians averse to the Lord, and where am I now, in the waves of this ocean of nectarean company!”
 
 প্রভু কহে, — পূর্ব্বে সিদ্ধ কৃষ্ণে তোমার প্রীতি ৷  
 তোমা-সঙ্গে আমা-সবার হৈল কৃষ্ণে মতি ॥ ১৮৫ ॥
 
 prabhu kahe, — pūrve siddha kṛṣṇe tomāra prīti  
-tomā-saṅge āmā-sabāra haila kṛṣṇe mati
+the Lord  says  formerly  perfected  for Kṛṣṇa  your  love  
+tomā-saṅge āmā-sabāra haila kṛṣṇe mati  
+in your company  of us all  arose  for Kṛṣṇa  the mind
 
-(185) [not yet translated]
+(185) The Lord said, “Your love for Kṛṣṇa was already perfected before. In your company all of us have turned our minds to Kṛṣṇa.”
 
 ভক্ত-মহিমা বাড়াইতে, ভক্তে সুখ দিতে ৷  
 মহাপ্রভু বিনা অন্য নাহি ত্রিজগতে ॥ ১৮৬ ॥
 
 bhakta-mahimā bāḍāite, bhakte sukha dite  
-mahāprabhu vinā anya nāhi trijagate
+the devotees’ glory  to increase  to devotees  happiness  to give  
+mahāprabhu vinā anya nāhi trijagate  
+Mahāprabhu  apart from  another  there is not  in the three worlds
 
-(186) [not yet translated]
+(186) In all the three worlds there is no one but Mahāprabhu who so increases the glory of His devotees and gives them such happiness.
 
 তবে প্রভু প্রত্যেকে, সব ভক্তের নাম লঞা ৷  
 পিঠা-পানা দেওয়াইল প্রসাদ করিয়া ॥ ১৮৭ ॥
 
 tabe prabhu pratyeke, saba bhaktera nāma lañā  
-piṭhā-pānā deoyāila prasāda kariyā
+then  the Lord  to each one  of all  the devotees  the names  taking  
+piṭhā-pānā deoyāila prasāda kariyā  
+cakes and sweet drinks  had given  as prasāda  making
 
-(187) [not yet translated]
+(187) Then the Lord, calling each devotee by name, had cakes and sweet drinks given to all as His *prasāda*.
 
 অদ্বৈত-নিত্যানন্দ বসিয়াছেন এক ঠাঞি ৷  
 দুইজনে ক্রীড়া-কলহ লাগিল তথাই ॥ ১৮৮ ॥
 
 advaita-nityānanda vasiyāchena eka ṭhāñi  
-dui jane krīḍā-kalaha lāgila tathāi
+Advaita and Nityānanda  were sitting  in one  place  
+dui jane krīḍā-kalaha lāgila tathāi  
+between the two  a playful quarrel  began  right there
 
-(188) [not yet translated]
+(188) Advaita and Nityānanda were sitting together, and right there a playful quarrel broke out between the two of them.
 
 অদ্বৈত কহে, — অবধূতের সঙ্গে এক পংক্তি ৷  
 ভোজন করিলুঁ, না জানি হবে কোন্ গতি ॥ ১৮৯ ॥
 
 advaita kahe, — avadhūtera saṅge eka paṅkti  
-bhojana kariluṅ, nā jāni habe kon gati
+Advaita  says  with an avadhūta  together  in one  row  
+bhojana kariluṅ, nā jāni habe kon gati  
+eating  I have done  not  I know  will be  what  destination
 
-(189) [not yet translated]
+(189) Advaita said, “I have eaten in the same row as an *avadhūta*! I do not know what will become of me.
 
 প্রভু ত’ সন্ন্যাসী, উঁহার নাহি অপচয় ৷  
 অন্ন-দোষে সন্ন্যাসীর দোষ নাহি হয় ॥ ১৯০ ॥
 
 prabhu ta’ sannyāsī, uṅhāra nāhi apacaya  
-anna-doṣe sannyāsīra doṣa nāhi haya
+the Lord  indeed  a sannyāsī  for Him  is not  any loss  
+anna-doṣe sannyāsīra doṣa nāhi haya  
+by faults in food  of a sannyāsī  fault  not  occurs
 
-(190) [not yet translated]
+(190) The Lord is a *sannyāsī*: He loses nothing by it. Faults in food bring no fault to a *sannyāsī*.
 
 ‘নান্নদোষেণ মস্করী’ — এই শাস্ত্র-প্রমাণ ৷  
 আমি ত’ গৃহস্থ-ব্রাহ্মণ, আমার দোষ-স্থান ॥ ১৯১ ॥
 
 ‘nānna-doṣeṇa maskarī’ — ei śāstra-pramāṇa  
-āmi ta’ gṛhastha-brāhmaṇa, āmāra doṣa-sthāna
+“not  by faults in food  the ascetic”  this  the scripture’s evidence  
+āmi ta’ gṛhastha-brāhmaṇa, āmāra doṣa-sthāna  
+I  indeed  a householder brāhmaṇa  my  a place for fault
 
-(191) [not yet translated]
+(191) ‘An ascetic is not tainted by faults in food’ — this is the evidence of scripture. But I am a householder *brāhmaṇa*: for me it is a cause of fault.
 
 জন্মকুলশীলাচার না জানি যাহার ৷  
 তার সঙ্গে এক পংক্তি — বড় অনাচার ॥ ১৯২ ॥
 
 janma-kula-śīlācāra nā jāni yāhāra  
-tāra saṅge eka paṅkti — baḍa anācāra
+birth, family, character and conduct  not  I know  whose  
+tāra saṅge eka paṅkti — baḍa anācāra  
+with him  together  one  row  great  impropriety
 
-(192) [not yet translated]
+(192) To eat in the same row with someone whose birth, family, character and conduct are unknown is a great impropriety.”
 
 নিত্যানন্দ কহে, — তুমি অদ্বৈত-আচার্য্য ৷  
 ‘অদ্বৈত-সিদ্ধান্তে’ বাধে শুদ্ধভক্তিকার্য্য ॥ ১৯৩ ॥
 
 nityānanda kahe, — tumi advaita-ācārya  
-‘advaita-siddhānte’ bādhe śuddha-bhakti-kārya
+Nityānanda  says  You  Advaita Ācārya  
+‘advaita-siddhānte’ bādhe śuddha-bhakti-kārya  
+by the “doctrine of non-duality”  is obstructed  the work of pure devotion
 
-(193) [not yet translated]
+(193) Nityānanda replied, “You are Advaita Ācārya — the teacher of non-duality! The ‘doctrine of non-duality’ obstructs the practice of pure devotion.
 
 তোমার সিদ্ধান্ত-সঙ্গ করে যেই জনে ৷  
 ‘এক’ বস্তু বিনা সেই ‘দ্বিতীয়’ নাহি মানে ॥ ১৯৪ ॥
 
 tomāra siddhānta-saṅga kare yei jane  
-‘eka’ vastu vinā sei ‘dvitīya’ nāhi māne
+Your  doctrine’s company  makes  whatever  person  
+‘eka’ vastu vinā sei ‘dvitīya’ nāhi māne  
+“one”  reality  apart from  he  a “second”  not  accepts
 
-(194) [not yet translated]
+(194) Whoever keeps company with Your doctrine accepts nothing ‘second’ besides the ‘one’ reality.
 
 হেন তোমার সঙ্গে মোর একত্রে ভোজন ৷  
 না জানি, তোমার সঙ্গে কৈছে হয় মন ॥ ১৯৫ ॥
 
 hena tomāra saṅge mora ekatre bhojana  
-nā jāni, tomāra saṅge kaiche haya mana
+such  You  with  My  together  eating  
+nā jāni, tomāra saṅge kaiche haya mana  
+not  I know  in Your  company  how  becomes  the mind
 
-(195) [not yet translated]
+(195) And here I am eating together with such a person as You! I do not know what will happen to My mind in Your company.”
 
 এইমত দুইজনে করে বলাবলি ৷  
 ব্যাজ-স্তুতি করে দুঁহে, যেন গালাগালি ॥ ১৯৬ ॥
 
 ei-mata dui jane kare balābali  
-vyāja-stuti kare duṅhe, yena gālāgāli
+in this way  the two  make  exchange of words  
+vyāja-stuti kare duṅhe, yena gālāgāli  
+veiled praise  make  both  as if  abuse
 
-(196) [not yet translated]
+(196) In this way the two of them bandied words: each praised the other in the guise of abuse.
 
 তবে প্রভু সর্ব্ব-বৈষ্ণবের নাম লঞা ৷  
 মহাপ্রসাদ দেন মহা-অমৃত সিঞ্চিয়া ॥ ১৯৭ ॥
 
 tabe prabhu sarva-vaiṣṇavera nāma lañā  
-mahā-prasāda dena mahā-amṛta siñciyā
+then  the Lord  of all Vaiṣṇavas  the names  taking  
+mahā-prasāda dena mahā-amṛta siñciyā  
+mahā-prasāda  He gives  great nectar  sprinkling
 
-(197) [not yet translated]
+(197) Then the Lord, calling out the names of all the Vaiṣṇavas, gave out *mahā-prasāda*, as if sprinkling them with the greatest nectar.
 
 ভোজন করি’ উঠে সবে হরিধ্বনি করি’ ৷  
 হরিধ্বনি উঠিল সব স্বর্গমর্ত্ত্য ভরি’ ॥ ১৯৮ ॥
 
 bhojana kari’ uṭhe sabe hari-dhvani kari’  
-hari-dhvani uṭhila saba svarga-martya bhari’
+eating  having done  rise  all  the sound of “Hari”  making  
+hari-dhvani uṭhila saba svarga-martya bhari’  
+the sound of “Hari”  arose  all  heaven and earth  filling
 
-(198) [not yet translated]
+(198) When they had eaten, everyone rose, calling out “Hari!” and the sound of “Hari” rose up and filled heaven and earth.
 
 তবে মহাপ্রভু সব নিজ-ভক্তগণে ৷  
 সবাকারে শ্রীহস্তে দিলা-মাল্য চন্দনে ॥ ১৯৯ ॥
 
 tabe mahāprabhu saba nija-bhakta-gaṇe  
-sabākāre śrī haste dilā mālya-candane
+then  Mahāprabhu  all  His own devotees  
+sabākāre śrī haste dilā mālya-candane  
+to everyone  with His own hand  gave  garlands and sandal paste
 
-(199) [not yet translated]
+(199) Then, with His own hand, Mahāprabhu gave garlands and sandal paste to all His devotees.
 
 তবে পরিবেশক স্বরূপাদি সাত জন ৷  
 গৃহের ভিতরে কৈল প্রসাদ ভোজন ॥ ২০০ ॥
 
 tabe pariveśaka svarūpādi sāta jana  
-gṛhera bhitare kaila prasāda bhojana
+then  the servers  Svarūpa and the others  seven  people  
+gṛhera bhitare kaila prasāda bhojana  
+of the house  inside  made  of prasāda  eating
 
-(200) [not yet translated]
+(200) Then the servers, the seven headed by Svarūpa, ate *prasāda* inside the house.
 
 প্রভুর অবশেষ গোবিন্দ রাখিল ধরিয়া ৷  
 সেই অন্ন হরিদাসে কিছু দিল লঞা ॥ ২০১ ॥
