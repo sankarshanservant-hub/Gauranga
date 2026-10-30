@@ -218,7 +218,7 @@ I shall see  that  moonlike face  the eyes  filling
 dhariba se pāda-padma hṛdaye tuliyā  
 I shall hold  those  lotus feet  to the heart  lifting
 
-(21) I shall gaze on that moonlike face to my eyes’ fill, and I shall lift those lotus feet and hold them to my heart.’”
+(21) I shall gaze my fill on that moonlike face, and I shall lift those lotus feet and hold them to my heart.’”
 
 যদ্যপি শুনিয়া প্রভুর কোমল হয় মন ৷  
 তথাপি বাহিরে কহে নিষ্ঠুর বচন ॥ ২২ ॥
@@ -508,7 +508,7 @@ the Lord  says  I  a human being  in āśrama  a sannyāsī
 kāya-mano-vākye vyavahāre bhaya vāsi  
 in body, mind and word  in conduct  fear  I feel
 
-(50) The Lord said, “I am a human being, a sannyāsī by āśrama. In body, mind and word I am fearful about My conduct.[^14]
+(50) The Lord said, “I am a human being, a sannyāsī by āśrama. In body, mind and word I must be wary in My conduct.[^14]
 
 শুক্লবস্ত্রে মসি-বিন্দু যৈছে না লুকায় ৷  
 সন্ন্যাসীর অল্প ছিদ্র সর্ব্বলোকে গায় ॥ ৫১ ॥
@@ -1408,7 +1408,7 @@ by the very loud saṅkīrtana  the sky  filled
 prabhura uddaṇḍa-nṛtye bhūmi-kampa haila  
 by the Lord’s  leaping dance  an earthquake  occurred
 
-(140) The sky was filled with the very loud saṅkīrtana, and the earth quaked under the Lord’s high-leaping dance.
+(140) The sky was filled with the roar of the saṅkīrtana, and the earth quaked under the Lord’s high-leaping dance.
 
 স্বরূপের উচ্চ-গান প্রভুরে সদা ভায় ৷  
 আনন্দে উদ্দণ্ড নৃত্য করে গৌররায় ॥ ১৪১ ॥
@@ -1665,7 +1665,7 @@ although  in the absorption of love  the Lord  became  unsteady
 samaya bujhiyā prabhu hailā kichu dhīra  
 the occasion  understanding  the Lord  became  somewhat  composed
 
-(166) Though the absorption of love shook the Lord, He understood the occasion and composed Himself somewhat.[^43]
+(166) Though the Lord grew restless, absorbed in love, He saw that it was not the time and composed Himself a little.[^43]
 
 প্রভু কহে, — মোরে দেহ’ লাফ্রা-ব্যঞ্জনে ৷  
 পিঠা-পানা, অমৃত-গুটিকা দেহ’ ভক্তগণে ॥ ১৬৭ ॥
@@ -1975,7 +1975,7 @@ then  the Lord  of all Vaiṣṇavas  the names  taking
 mahā-prasāda dena mahā-amṛta siñciyā  
 mahā-prasāda  He gives  great nectar  sprinkling
 
-(197) Then the Lord, calling out the names of all the Vaiṣṇavas, gave out mahā-prasāda, as though sprinkled with the greatest nectar.[^55]
+(197) Then the Lord, calling out the names of all the Vaiṣṇavas, gave out mahā-prasāda, sprinkling it with supreme nectar.[^55]
 
 ভোজন করি’ উঠে সবে হরিধ্বনি করি’ ৷  
 হরিধ্বনি উঠিল সব স্বর্গমর্ত্ত্য ভরি’ ॥ ১৯৮ ॥
@@ -2115,7 +2115,7 @@ thirsty  the Lord’s  eyes  of bees  a pair
 gāḍha tṛṣṇāya piye kṛṣṇera vadana-kamala  
 with deep  thirst  drink  of Kṛṣṇa  the face-lotus
 
-(211) The Lord’s thirsty eyes, like a pair of bees, drank with deep thirst from the lotus of Kṛṣṇa’s face.[^60]
+(211) The Lord’s thirsting eyes, like a pair of bees, drank deeply from the lotus of Kṛṣṇa’s face.[^60]
 
 প্রফুল্ল-কমল জিনি’ নয়ন যুগল ৷  
 নীলমণি-দর্পণ-কান্তি গণ্ড ঝলমল ॥ ২১২ ॥

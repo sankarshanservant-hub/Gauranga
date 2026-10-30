@@ -115,7 +115,7 @@ fn: Verses 20–21 are the king’s own words (first person in the Bengali: *mu�
 ## 21
 w: I shall see  that  moonlike face  the eyes  filling
 w: I shall hold  those  lotus feet  to the heart  lifting
-tr: I shall gaze on that moonlike face to my eyes’ fill, and I shall lift those lotus feet and hold them to my heart.’”
+tr: I shall gaze my fill on that moonlike face, and I shall lift those lotus feet and hold them to my heart.’”
 
 ## 22
 w: although  hearing  of the Lord  soft  became  the heart
@@ -268,7 +268,7 @@ tr: Rāmānanda said, “You are the independent Lord. Whom need You fear? You d
 ## 50
 w: the Lord  says  I  a human being  in āśrama  a sannyāsī
 w: in body, mind and word  in conduct  fear  I feel
-tr: The Lord said, “I am a human being, a sannyāsī by āśrama. In body, mind and word I am fearful about My conduct.
+tr: The Lord said, “I am a human being, a sannyāsī by āśrama. In body, mind and word I must be wary in My conduct.
 fn: *Anubhāṣya*: “I am only a man in the fourth āśrama, not Īśvara; therefore I fear to transgress worldly propriety in body, mind and speech” — that is, “I depend on the opinion of others.” Heading in the edition: “The Lord, as if by a ruse, shows Himself bound by injunctions.”
 
 ## 51
@@ -742,7 +742,7 @@ tr: On every side they washed the devotees’ bodies, like a cloud pouring rain 
 ## 140
 w: by the very loud saṅkīrtana  the sky  filled
 w: by the Lord’s  leaping dance  an earthquake  occurred
-tr: The sky was filled with the very loud saṅkīrtana, and the earth quaked under the Lord’s high-leaping dance.
+tr: The sky was filled with the roar of the saṅkīrtana, and the earth quaked under the Lord’s high-leaping dance.
 
 ## 141
 w: Svarūpa’s  loud singing  to the Lord  always  is pleasing
@@ -874,7 +874,7 @@ tr: Mahāprabhu remembered the pastime of long ago when Kṛṣṇa ate with His
 ## 166
 w: although  in the absorption of love  the Lord  became  unsteady
 w: the occasion  understanding  the Lord  became  somewhat  composed
-tr: Though the absorption of love shook the Lord, He understood the occasion and composed Himself somewhat.
+tr: Though the Lord grew restless, absorbed in love, He saw that it was not the time and composed Himself a little.
 fn: Heading in the edition: “The Lord restrains Himself and His feelings.”
 
 ## 167
@@ -1041,7 +1041,7 @@ fn: *Amṛta-pravāha-bhāṣya*: *vyāja-stuti* is speech that blames outwardly
 ## 197
 w: then  the Lord  of all Vaiṣṇavas  the names  taking
 w: mahā-prasāda  He gives  great nectar  sprinkling
-tr: Then the Lord, calling out the names of all the Vaiṣṇavas, gave out mahā-prasāda, as though sprinkled with the greatest nectar.
+tr: Then the Lord, calling out the names of all the Vaiṣṇavas, gave out mahā-prasāda, sprinkling it with supreme nectar.
 fn: *Amṛta-pravāha-bhāṣya*: the prasāda was sprinkled with the nectar of the Lord’s mercy, and so it became all the more delicious.
 
 ## 198
@@ -1116,7 +1116,7 @@ fn: *Anubhāṣya* (on 210–211): Mahāprabhu always looked at Jagannātha from
 ## 211
 w: thirsty  the Lord’s  eyes  of bees  a pair
 w: with deep  thirst  drink  of Kṛṣṇa  the face-lotus
-tr: The Lord’s thirsty eyes, like a pair of bees, drank with deep thirst from the lotus of Kṛṣṇa’s face.
+tr: The Lord’s thirsting eyes, like a pair of bees, drank deeply from the lotus of Kṛṣṇa’s face.
 fn: Heading in the edition: “The Lord, absorbed in the mood of Rādhā, gazes with unblinking eyes at Kṛṣṇa’s face.”
 
 ## 212
