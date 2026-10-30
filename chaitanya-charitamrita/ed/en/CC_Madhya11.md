@@ -2219,222 +2219,278 @@ on four sides  four  groups  perform  kīrtana
 হরিধ্বনি করে সবে, বলে’ — ভাল, ভাল ॥ ২১৬ ॥
 
 aṣṭa mṛdaṅga bāje, batriśa karatāla  
-hari-dhvani kare sabe, bale — bhāla, bhāla
+eight  mṛdaṅgas  sound  thirty-two  karatālas  
+hari-dhvani kare sabe, bale’ — bhāla, bhāla  
+the sound of “Hari”  make  all  they say  wonderful  wonderful
 
-(216) [not yet translated]
+(216) Eight *mṛdaṅgas* and thirty-two pairs of *karatālas* resounded; everyone called out the name of Hari, crying, “Wonderful! Wonderful!”
 
 কীর্ত্তনের ধ্বনি মহামঙ্গল উঠিল ৷  
 চতুর্দ্দশ লোক ভরি’ ব্রহ্মাণ্ড ভেদিল ॥ ২১৭ ॥
 
 kīrtanera dhvani mahā-maṅgala uṭhila  
-caturdaśa loka bhari’ brahmāṇḍa bhedila
+of the kīrtana  the sound  supremely auspicious  arose  
+caturdaśa loka bhari’ brahmāṇḍa bhedila  
+fourteen  worlds  filling  the universe  it pierced
 
-(217) [not yet translated]
+(217) The supremely auspicious sound of the *kīrtana* arose; it filled the fourteen worlds and pierced the shell of the universe.
 
 কীর্ত্তন-আরম্ভে প্রেম উথলি’ চলিল ৷  
 নীলাচলবাসী লোক ধাঞা আইল ॥ ২১৮ ॥
 
 kīrtana-ārambhe prema uthali’ calila  
-nīlācala-vāsī loka dhāñā āila
+at the start of the kīrtana  love  surging  flowed  
+nīlācala-vāsī loka dhāñā āila  
+of Nīlācala  the residents  running  came
 
-(218) [not yet translated]
+(218) As the *kīrtana* began, love surged up and overflowed, and the people of Nīlācala came running.
 
 কীর্ত্তন দেখি’ সবার মনে হৈল চমৎকার ৷  
 কভু নাহি দেখি ঐছে প্রেমের বিকার ॥ ২১৯ ॥
 
 kīrtana dekhi’ sabāra mane haila camatkāra  
-kabhu nāhi dekhi aiche premera vikāra
+the kīrtana  seeing  in everyone’s  mind  arose  wonder  
+kabhu nāhi dekhi aiche premera vikāra  
+never  not  we have seen  such  of love  transformations
 
-(219) [not yet translated]
+(219) Seeing the *kīrtana*, everyone was struck with wonder: “Never have we seen such transformations of love!”
 
 তবে প্রভু জগন্নাথের মন্দির বেড়িয়া ৷  
 প্রদক্ষিণ করি’ বুলেন নর্ত্তন করিয়া ॥ ২২০ ॥
 
 tabe prabhu jagannāthera mandira beḍiyā  
-pradakṣiṇa kari’ bulena nartana kariyā
+then  the Lord  Jagannātha’s  temple  going round  
+pradakṣiṇa kari’ bulena nartana kariyā  
+circumambulation  making  moves about  dance  doing
 
-(220) [not yet translated]
+(220) Then the Lord went round Jagannātha’s temple, circumambulating it as He danced.
 
 আগে-পাছে গান করে চারি সম্প্রদায় ৷  
 আছাড়ের কালে ধরে নিত্যানন্দ রায় ॥ ২২১ ॥
 
 āge-pāche gāna kare cāri sampradāya  
-āchāḍera kāle dhare nityānanda rāya
+in front and behind  singing  do  four  groups  
+āchāḍera kāle dhare nityānanda rāya  
+at the time of falling  catches (Him)  Nityānanda  Rāya
 
-(221) [not yet translated]
+(221) The four groups sang in front of Him and behind, and whenever He fell, Nityānanda Rāya caught Him.
 
 অশ্রু, পুলক, কম্প, স্বেদ, গম্ভীর হুঙ্কার ৷  
 প্রেমের বিকার দেখি’ লোকে চমৎকার ॥ ২২২ ॥
 
 aśru, pulaka, kampa, sveda, gambhīra huṅkāra  
-premera vikāra dekhi’ loke camatkāra
+tears  horripilation  trembling  sweat  deep  roars  
+premera vikāra dekhi’ loke camatkāra  
+of love  the transformations  seeing  the people  amazed
 
-(222) [not yet translated]
+(222) Tears, hair standing on end, trembling, sweat and deep roars — seeing these transformations of love, the people were amazed.
 
 পিচ্কারি-ধারা জিনি’ অশ্রু নয়নে ৷  
 চারিদিকের লোক সব করয়ে সিনানে ॥ ২২৩ ॥
 
 pickāri-dhārā jini’ aśru nayane  
-cāri-dikera loka saba karaye sināne
+a syringe’s jet  surpassing  tears  in His eyes  
+cāri-dikera loka saba karaye sināne  
+on the four sides  the people  all  are  bathed
 
-(223) [not yet translated]
+(223) The tears from His eyes shot out more forcefully than water from a syringe, and the people all around were bathed in them.
 
 ‘বেড়ানৃত্য’ মহাপ্রভু করি’ কতক্ষণ ৷  
 মন্দিরের পাছে রহি’ করয়ে কীর্ত্তন ॥ ২২৪ ॥
 
 ‘beḍā-nṛtya’ mahāprabhu kari’ kata-kṣaṇa  
-mandirera pāche rahi’ karaye kīrtana
+“the encircling dance”  Mahāprabhu  doing  for some time  
+mandirera pāche rahi’ karaye kīrtana  
+of the temple  behind  staying  He does  kīrtana
 
-(224) [not yet translated]
+(224) After Mahāprabhu had performed the “encircling dance” for some time, He stayed behind the temple and continued the *kīrtana*.
 
 চারিদিকে চারি সম্প্রদায় উচ্চৈঃস্বরে গায় ৷  
 মধ্যে তাণ্ডব-নৃত্য করে গৌররায় ॥ ২২৫ ॥
 
 cāri-dike cāri sampradāya uccaiḥsvare gāya  
-madhye tāṇḍava-nṛtya kare gaurarāya
+on four sides  four  groups  loudly  sing  
+madhye tāṇḍava-nṛtya kare gaurarāya  
+in the middle  the tāṇḍava dance  does  Gaura Rāya
 
-(225) [not yet translated]
+(225) On all four sides the four groups sang loudly, and in their midst Gaura Rāya danced the vigorous *tāṇḍava* dance.
 
 বহুক্ষণ নৃত্য করি’ প্রভু স্থির হৈলা ৷  
 চারি মহান্তেরে তবে নাচিতে আজ্ঞা দিলা ॥ ২২৬ ॥
 
 bahu-kṣaṇa nṛtya kari’ prabhu sthira hailā  
-cāri mahāntere tabe nācite ājñā dilā
+for a long time  dance  having done  the Lord  still  became  
+cāri mahāntere tabe nācite ājñā dilā  
+the four  great souls  then  to dance  order  gave
 
-(226) [not yet translated]
+(226) After dancing for a long time, the Lord became still, and then He told four great souls to dance.
 
 এক সম্প্রদায়ে নাচে নিত্যানন্দ-রায়ে ৷  
 অদ্বৈত আচার্য্য নাচে আর সম্প্রদায়ে ॥ ২২৭ ॥
 
 eka sampradāye nāce nityānanda-rāye  
-advaita ācārya nāce āra sampradāye
+in one  group  dances  Nityānanda Rāya  
+advaita ācārya nāce āra sampradāye  
+Advaita  Ācārya  dances  in another  group
 
-(227) [not yet translated]
+(227) In one group Nityānanda Rāya danced, and in another Advaita Ācārya danced.
 
 আর সম্প্রদায়ে নাচে পণ্ডিত-বক্রেশ্বর ৷  
 শ্রীবাস নাচে আর সম্প্রদায়-ভিতর ॥ ২২৮ ॥
 
 āra sampradāye nāce paṇḍita-vakreśvara  
-śrīvāsa nāce āra sampradāya-bhitara
+in another  group  dances  Vakreśvara Paṇḍita  
+śrīvāsa nāce āra sampradāya-bhitara  
+Śrīvāsa  dances  another  group  within
 
-(228) [not yet translated]
+(228) In another group Vakreśvara Paṇḍita danced, and Śrīvāsa danced within yet another group.
 
 মধ্যে রহি’ মহাপ্রভু করেন দরশন ৷  
 তাহা এক ঐশ্বর্য্য হইল প্রকটন ॥ ২২৯ ॥
 
 madhye rahi’ mahāprabhu karena daraśana  
-tāhā eka aiśvarya haila prakaṭana
+in the middle  staying  Mahāprabhu  is  watching  
+tāhā eka aiśvarya haila prakaṭana  
+there  one  majesty  became  manifest
 
-(229) [not yet translated]
+(229) Mahāprabhu stood in the middle watching them, and there a display of His divine majesty became manifest.
 
 চারিদিকে নৃত্যগীত করে যত জন ৷  
 সবে কহে, — প্রভু করে আমারে দরশন ॥ ২৩০ ॥
 
 cāri-dike nṛtya-gīta kare yata jana  
-sabe kahe, — prabhu kare āmāre daraśana
+on four sides  dancing and singing  do  all  people  
+sabe kahe, — prabhu kare āmāre daraśana  
+all  say  the Lord  is  at me  looking
 
-(230) [not yet translated]
+(230) All those dancing and singing on the four sides said, “The Lord is looking at me!”
 
 চারি জনের নৃত্য দেখিতে প্রভুর অভিলাষ ৷  
 সেই অভিলাষে করে ঐশ্বর্য্য প্রকাশ ॥ ২৩১ ॥
 
 cāri janera nṛtya dekhite prabhura abhilāṣa  
-sei abhilāṣe kare aiśvarya prakāśa
+of the four  persons  the dancing  to see  the Lord’s  desire  
+sei abhilāṣe kare aiśvarya prakāśa  
+by that  desire  He makes  of majesty  a display
 
-(231) [not yet translated]
+(231) The Lord wanted to see the dancing of all four, and that desire led Him to display His majesty.
 
 দর্শনে আবেশ তাঁর দেখি’ মাত্র জানে ৷  
 কেমনে চৌদিকে দেখে, — ইহা নাহি জানে ॥ ২৩২ ॥
 
 darśane āveśa tāṅra dekhi’ mātra jāne  
-kemane caudike dekhe, — ihā nāhi jāne
+in His gaze  absorption  His  seeing  only  they know  
+kemane caudike dekhe, — ihā nāhi jāne  
+how  on all four sides  He looks  this  not  they know
 
-(232) [not yet translated]
+(232) Seeing the absorption of His gaze, each knew only that He was looking at him; how He could be looking in all four directions at once, no one knew.
 
 পুলিন-ভোজনে যেন কৃষ্ণ মধ্য-স্থানে ৷  
 চৌদিকের সখা কহে, — আমারে নেহানে ॥ ২৩৩ ॥
 
 pulina-bhojane yena kṛṣṇa madhya-sthāne  
-caudikera sakhā kahe, — āmāre nehāne
+at the picnic on the riverbank  as  Kṛṣṇa  in the middle place  
+caudikera sakhā kahe, — āmāre nehāne  
+on all four sides  friends  say  at me  He looks
 
-(233) [not yet translated]
+(233) It was just as when Kṛṣṇa sat in the middle at the picnic on the riverbank, and each of the friends around Him said, “He is looking at me!”
 
 নৃত্য করিতে যেই আইসে সন্নিধানে ৷  
 মহাপ্রভু করে তাঁরে দৃঢ় আলিঙ্গনে ॥ ২৩৪ ॥
 
 nṛtya karite yei āise sannidhāne  
-mahāprabhu kare tāṅre dṛḍha āliṅgane
+dance  doing  whoever  comes  near  
+mahāprabhu kare tāṅre dṛḍha āliṅgane  
+Mahāprabhu  gives  him  a firm  embrace
 
-(234) [not yet translated]
+(234) Whoever came near Him while dancing, Mahāprabhu embraced him tightly.
 
 মহানৃত্য, মহাপ্রেম, মহাসংকীর্ত্তন ৷  
 দেখি’ প্রেমাবেশে ভাসে নীলাচল-জন ॥ ২৩৫ ॥
 
 mahā-nṛtya, mahā-prema, mahā-saṅkīrtana  
-dekhi’ premāveśe bhāse nīlācala-jana
+the great dance  the great love  the great saṅkīrtana  
+dekhi’ premāveśe bhāse nīlācala-jana  
+seeing  in the rapture of love  float  the people of Nīlācala
 
-(235) [not yet translated]
+(235) Seeing the great dancing, the great love and the great *saṅkīrtana*, the people of Nīlācala were swept away in the rapture of love.
 
 গজপতি রাজা শুনি’ কীর্ত্তন-মহত্ত্ব ৷  
 অট্টালিকা চড়ি’ দেখে স্বগণ-সহিত ॥ ২৩৬ ॥
 
 gajapati rājā śuni’ kīrtana-mahattva  
-aṭṭālikā caḍi’ dekhe svagaṇa-sahita
+Gajapati  the king  hearing  the glory of the kīrtana  
+aṭṭālikā caḍi’ dekhe svagaṇa-sahita  
+the palace  climbing  watches  with his own people
 
-(236) [not yet translated]
+(236) When King Gajapati heard of the glory of the *kīrtana*, he climbed onto the roof of his palace and watched with his attendants.
 
 কীর্ত্তন দেখিয়া রাজার হৈল চমৎকার ৷  
 প্রভুকে মিলিতে উৎকণ্ঠা বাড়িল অপার ॥ ২৩৭ ॥
 
 kīrtana dekhiyā rājāra haila camatkāra  
-prabhuke milite utkaṇṭhā bāḍila apāra
+the kīrtana  seeing  in the king  arose  wonder  
+prabhuke milite utkaṇṭhā bāḍila apāra  
+the Lord  to meet  eagerness  grew  boundless
 
-(237) [not yet translated]
+(237) Seeing the *kīrtana*, the king was struck with wonder, and his eagerness to meet the Lord grew boundless.
 
 কীর্ত্তন-সমাপ্ত্যে প্রভু দেখি’ পুষ্পাঞ্জলি ৷  
 সর্ব্ব বৈষ্ণব লঞা প্রভু আইলা বাসা চলি’ ॥ ২৩৮ ॥
 
 kīrtana-samāptye prabhu dekhi’ puṣpāñjali  
-sarva vaiṣṇava lañā prabhu āilā vāsā cali’
+at the end of the kīrtana  the Lord  seeing  the flower offering  
+sarva vaiṣṇava lañā prabhu āilā vāsā cali’  
+all  Vaiṣṇavas  taking  the Lord  came  to His lodging  going
 
-(238) [not yet translated]
+(238) When the *kīrtana* was over, the Lord watched the offering of flowers to Jagannātha and then returned to His lodging with all the Vaiṣṇavas.
 
 পড়িছা আনিয়া দিল প্রসাদ বিস্তর ৷  
 সবারে বাঁটিয়া তাহা দিলেন ঈশ্বর ॥ ২৩৯ ॥
 
 paḍichā āniyā dila prasāda vistara  
-sabāre bāṅṭiyā tāhā dilena īśvara
+the paḍichā  bringing  gave  prasāda  in abundance  
+sabāre bāṅṭiyā tāhā dilena īśvara  
+to all  distributing  it  gave  the Lord
 
-(239) [not yet translated]
+(239) The *paḍichā* brought *prasāda* in abundance, and the Lord shared it out among everyone.
 
 সবারে বিদায় দিল করিতে শয়ন ৷  
 এইমত লীলা করে শচীর নন্দন ॥ ২৪০ ॥
 
 sabāre vidāya dila karite śayana  
-ei-mata līlā kare śacīra nandana
+to all  leave  He gave  to  go to sleep  
+ei-mata līlā kare śacīra nandana  
+in this way  pastimes  performs  of Śacī  the son
 
-(240) [not yet translated]
+(240) Then He sent everyone off to sleep. In this way the son of Śacī performs His pastimes.
 
 যাবৎ আছিলা সবে মহাপ্রভু-সঙ্গে ৷  
 প্রতিদিন এইমত করে কীর্ত্তন-রঙ্গে ॥ ২৪১ ॥
 
 yāvat āchilā sabe mahāprabhu-saṅge  
-prati-dina ei-mata kare kīrtana-raṅge
+as long as  stayed  all  with Mahāprabhu  
+prati-dina ei-mata kare kīrtana-raṅge  
+every day  in this way  they do  in the joy of kīrtana
 
-(241) [not yet translated]
+(241) For as long as they all stayed with Mahāprabhu, they spent every day like this in the joy of *kīrtana*.
 
 এই ত’ কহিলুঁ প্রভুর কীর্ত্তন-বিলাস ৷  
 যেবা ইহা শুনে, হয় চৈতন্যের দাস ॥ ২৪২ ॥
 
 ei ta’ kahiluṅ prabhura kīrtana-vilāsa  
-yebā ihā śune, haya caitanyera dāsa
+this  indeed  I have told  of the Lord  the kīrtana pastimes  
+yebā ihā śune, haya caitanyera dāsa  
+whoever  this  hears  becomes  Caitanya’s  servant
 
-(242) [not yet translated]
+(242) Thus I have described the Lord’s pastimes of *kīrtana*. Whoever hears of them becomes a servant of Caitanya.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৪৩ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(243) [not yet translated]
+(243) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
