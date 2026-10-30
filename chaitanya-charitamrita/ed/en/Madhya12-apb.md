@@ -17,3 +17,7 @@ Sārvabhauma said, “Let us all go together and tell Mahāprabhu how the king c
 “*Mudrā* in the ears”: in the western regions yogīs are called “*kānphaṭā* yogīs” (“yogīs with split ears”), since yogīs wear in their ears a token made of conch shell.[^20-1]
 
 The king said that without the *darśana* of Gaurahari enjoying his kingdom did not touch his heart, that is, it gave him no pleasure.
+
+---
+
+[^20-1]: The verse translation reads differently: it has “earrings of renunciation made of ivory,” whereas for Bhaktivinoda the token in the ears is made of conch shell.
