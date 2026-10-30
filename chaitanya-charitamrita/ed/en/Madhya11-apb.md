@@ -4,6 +4,10 @@
 
 **Summary.** Sārvabhauma tried to arrange a meeting between Pratāparudra and Mahāprabhu, but Mahāprabhu refused. Rāmānanda Rāya came to Puruṣottama, met Mahāprabhu and described the king's many Vaiṣṇava qualities, and the Lord's heart changed. The king revealed his humility and his vow to Sārvabhauma. Sārvabhauma told the king of a way to see Mahāprabhu's feet. When the time of *anavasara* came, Mahāprabhu, distraught at being unable to see the Lord, went to Ālālanātha. Some time later He heard that the devotees were coming from Gauḍa and returned to Puruṣottama. As Śrī Advaita and the other devotees approached, Svarūpa and Govinda took garlands given by the Lord and went to bring them. The king watched the Vaiṣṇavas arrive from the roof of his palace. At Sārvabhauma's wish, Śrī Gopīnātha Ācārya identified each of these Vaiṣṇavas. The king and Sārvabhauma then discussed at length Śrī Caitanya's being Kṛṣṇa, and the newly arrived Vaiṣṇavas' honoring *prasāda* without first shaving their heads and fasting. After this the king arranged lodgings and *prasāda* for the Vaiṣṇavas. Mahāprabhu had many joyful conversations with Vāsudeva Datta and the other Vaiṣṇavas. Seeing Haridāsa's humility, He gave him a secluded place in the garden (the Ṭoṭā) and spoke of Haridāsa's glory. Then, in the temple of Jagannātha, He divided the devotees into four groups, and a great *saṅkīrtana* took place. (After this) the Vaiṣṇavas went to their own lodgings at the Lord's order.
 
+## 1
+
+Śrī Gauracandra, whose body was adorned with many kinds of *bhāvas*, performed an exceedingly wild dance with the devotees in the house of Śrī Jagannātha, and by His own sweetness drowned this world in a flood of love.
+
 ## 8
 
 Śrī Caitanyadeva said sorrowfully: “Alas! There are *niṣkiñcanas*, people free of worldly attachment, who have turned to the Lord's service and wish to cross the ocean of worldly existence completely. For them, seeing worldly people and women is worse than taking poison.”

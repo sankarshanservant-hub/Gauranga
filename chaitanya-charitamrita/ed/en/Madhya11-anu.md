@@ -110,7 +110,7 @@ King Pratāparudra of the Gaṅga dynasty had his capital in the city of Kaṭak
 
 > Subheading: The devotee of the devotee is the true devotee of the Lord — (*Laghu-bhāgavatāmṛta* 2.6) (words of the *Ādi Purāṇa*) —
 
-**he pārtha** (Arjuna), **ye** **me** (My) **bhakta-janāḥ**, **te** **me** (My) **bhaktāḥ** **janāḥ** **na** (are not); **ye** **ca** **mad-bhaktānām** (of My devotees themselves) **bhaktāḥ**, **te** **me** (by Me) **bhakta-tamāḥ** (the best servants — so by Me Myself) **matāḥ** (are regarded).[^28-1]
+**he pārtha** (Arjuna), **ye** **me** (My) **bhakta-janāḥ**, **te** **me** (My) **bhaktāḥ** **janāḥ** **na** (are not); **ye** **ca** **mad-bhaktānām** (of My devotees themselves) **bhaktāḥ**, **te** **me** (My) **bhakta-tamāḥ** (the best servants — so by Me Myself) **matāḥ** (are regarded).[^28-1]
 
 ## 29
 
@@ -120,7 +120,7 @@ King Pratāparudra of the Gaṅga dynasty had his capital in the city of Kaṭak
 
 When Śrī Uddhava asked to learn about *bhakti-yoga*, the Lord replied:
 
-(He said, “I will tell you again about *bhakti-yoga*”: to My) **paricaryāyāṁ** (service) **ādaraḥ**, **sarvāṅgaiḥ** (with all the limbs of the body, large and small) **abhivandanam**, **mad-bhakta-pūjā** **abhyadhikā** (greater, better than [worship of] Me), **sarva-bhūteṣu** (in all living beings) **man-matiḥ** (seeing the presence of the Lord); **mad-artheṣu** **ca** (in acts whose only aim is Kṛṣṇa) **aṅga-ceṣṭā** (every effort), **vacasā** (with words) **mad-guṇeraṇam** (describing Kṛṣṇa's qualities), **manasaḥ** **mayi** (to Kṛṣṇa) **arpaṇaṁ** (dedication), **sarva-kāma-vivarjanam** (the mind's giving up every desire to enjoy anything other than Kṛṣṇa).
+(He said, “I will tell you again about *bhakti-yoga*”: to My) **paricaryāyāṁ** (service) **ādaraḥ**, **sarvāṅgaiḥ** (with all the limbs of the body, large and small) **abhivandanam**, **mad-bhakta-pūjā** **abhyadhikā** (higher, the best), **sarva-bhūteṣu** (in all living beings) **man-matiḥ** (seeing the presence of the Lord); **mad-artheṣu** **ca** (in acts whose only aim is Kṛṣṇa) **aṅga-ceṣṭā** (every effort), **vacasā** (with words) **mad-guṇeraṇam** (describing Kṛṣṇa's qualities), **manasaḥ** **mayi** (to Kṛṣṇa) **arpaṇaṁ** (dedication), **sarva-kāma-vivarjanam** (the mind's giving up every desire to enjoy anything other than Kṛṣṇa).
 
 ## 31
 
