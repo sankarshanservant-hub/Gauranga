@@ -349,289 +349,361 @@ four  groups  gave  the singers  dividing
 চারি জনে আজ্ঞা দিল নৃত্য করিবারে ॥ ৩৫ ॥
 
 nityānanda, advaita, haridāsa, vakreśvare  
-cāri jane ājñā dila nṛtya karibāre
+Nityānanda  Advaita  Haridāsa  Vakreśvara  
+cāri jane ājñā dila nṛtya karibāre  
+four  persons  the order  gave  dance  to perform
 
-(35) [not yet translated]
+(35) He ordered four of them — Nityānanda, Advaita, Haridāsa and Vakreśvara — to dance.
 
 প্রথম-সম্প্রদায়ে কৈল স্বরূপ — প্রধান ৷  
 আর পঞ্চজন দিল তাঁর পালিগান ॥ ৩৬ ॥
 
 prathama-sampradāye kaila svarūpa — pradhāna  
-āra pañca jana dila tāṅra pāligāna
+in the first group  made  Svarūpa  the leader  
+āra pañca-jana dila tāṅra pāligāna  
+other  five  persons  gave  his  responsive singers
 
-(36) [not yet translated]
+(36) In the first group He made Svarūpa the leader and gave him five others to sing the responses:
 
 দামোদর, নারায়ণ, দত্ত গোবিন্দ ৷  
 রাঘব পণ্ডিত, আর শ্রীগোবিন্দানন্দ ॥ ৩৭ ॥
 
 dāmodara, nārāyaṇa, datta govinda  
-rāghava paṇḍita, āra śrī govindānanda
+Dāmodara  Nārāyaṇa  Datta  Govinda  
+rāghava paṇḍita, āra śrī-govindānanda  
+Rāghava  Paṇḍita  and  Śrī Govindānanda
 
-(37) [not yet translated]
+(37) Dāmodara, Nārāyaṇa, Govinda Datta, Rāghava Paṇḍita and Śrī Govindānanda.
 
 অদ্বৈতেরে নৃত্য করিবারে আজ্ঞা দিল ৷  
 শ্রীবাস — প্রধান আর সম্প্রদায় কৈল ॥ ৩৮ ॥
 
 advaitere nṛtya karibāre ājñā dila  
-śrīvāsa — pradhāna āra sampradāya kaila
+to Advaita  dance  to perform  the order  gave  
+śrīvāsa — pradhāna āra sampradāya kaila  
+Śrīvāsa  the leader  another  group  made
 
-(38) [not yet translated]
+(38) He ordered Advaita to dance there. Then He formed another group with Śrīvāsa as the leader:
 
 গঙ্গাদাস, হরিদাস, শ্রীমান্, শুভানন্দ ৷  
 শ্রীরাম পণ্ডিত, তাঁহা নাচে নিত্যানন্দ ॥ ৩৯ ॥
 
 gaṅgādāsa, haridāsa, śrīmān, śubhānanda  
-śrī rāma paṇḍita, tāṅhā nāce nityānanda
+Gaṅgādāsa  Haridāsa  Śrīmān  Śubhānanda  
+śrī-rāma paṇḍita, tāṅhā nāce nityānanda  
+Śrī Rāma  Paṇḍita  there  dances  Nityānanda
 
-(39) [not yet translated]
+(39) Gaṅgādāsa, Haridāsa, Śrīmān, Śubhānanda and Śrī Rāma Paṇḍita; and Nityānanda danced there.
 
 বাসুদেব, গোপীনাথ, মুরারি যাঁহা গায় ৷  
 মুকুন্দ — প্রধান কৈল আর সম্প্রদায় ॥ ৪০ ॥
 
 vāsudeva, gopīnātha, murāri yāṅhā gāya  
-mukunda — pradhāna kaila āra sampradāya
+Vāsudeva  Gopīnātha  Murāri  where  sing  
+mukunda — pradhāna kaila āra sampradāya  
+Mukunda  the leader  made  another  group
 
-(40) [not yet translated]
+(40) He formed another group with Mukunda as the leader, in which Vāsudeva, Gopīnātha and Murāri sang,
 
 শ্রীকান্ত, বল্লভসেন আর দুই জন ৷  
 হরিদাস-ঠাকুর তাঁহা করেন নর্ত্তন ॥ ৪১ ॥
 
-śrīkānta, vallabha-sena āra dui-jana  
-haridāsa-ṭhākura tāṅhā karena nartana
+śrīkānta, vallabha-sena āra dui jana  
+Śrīkānta  Vallabha Sena  further  two  persons  
+haridāsa-ṭhākura tāṅhā karena nartana  
+Haridāsa Ṭhākura  there  performs  the dance
 
-(41) [not yet translated]
+(41) with two more, Śrīkānta and Vallabha Sena; and Haridāsa Ṭhākura danced there.
 
 গোবিন্দ-ঘোষ — প্রধান কৈল আর সম্প্রদায় ৷  
 হরিদাস, বিষ্ণুদাস, রাঘব, যাঁহা গায় ॥ ৪২ ॥
 
 govinda-ghoṣa — pradhāna kaila āra sampradāya  
-haridāsa, viṣṇudāsa, rāghava, yāṅhā gāya
+Govinda Ghoṣa  the leader  made  another  group  
+haridāsa, viṣṇudāsa, rāghava, yāṅhā gāya  
+Haridāsa  Viṣṇudāsa  Rāghava  where  sing
 
-(42) [not yet translated]
+(42) He formed another group with Govinda Ghoṣa as the leader, in which Haridāsa, Viṣṇudāsa and Rāghava sang,
 
 মাধব, বাসুদেব-ঘোষ, — দুই সহোদর ৷  
 নৃত্য করেন তাঁহা পণ্ডিত-বক্রেশ্বর ॥ ৪৩ ॥
 
 mādhava, vāsudeva-ghoṣa, — dui sahodara  
-nṛtya karena tāṅhā paṇḍita-vakreśvara
+Mādhava  Vāsudeva Ghoṣa  two  brothers  
+nṛtya karena tāṅhā paṇḍita-vakreśvara  
+dance  performs  there  Paṇḍita Vakreśvara
 
-(43) [not yet translated]
+(43) with the two brothers Mādhava and Vāsudeva Ghoṣa; and Vakreśvara Paṇḍita danced there.
 
 কুলীন-গ্রামের এক কীর্ত্তনীয়া-সমাজ ৷  
 তাঁহা নৃত্য করেন রামানন্দ, সত্যরাজ ॥ ৪৪ ॥
 
 kulīna-grāmera eka kīrtanīyā-samāja  
-tāṅhā nṛtya karena rāmānanda, satyarāja
+of Kulīna-grāma  one  kīrtana party  
+tāṅhā nṛtya karena rāmānanda, satyarāja  
+there  dance  perform  Rāmānanda  Satyarāja
 
-(44) [not yet translated]
+(44) There was also a *kīrtana* party from Kulīna-grāma, in which Rāmānanda and Satyarāja danced.
 
 শান্তিপুরের আচার্য্যের এক সম্প্রদায় ৷  
 অচ্যুতানন্দ নাচে তথা, আর সব গায় ॥ ৪৫ ॥
 
 śāntipurera ācāryera eka sampradāya  
-acyutānanda nāce tathā, āra saba gāya
+of Śāntipura  of the Ācārya  one  group  
+acyutānanda nāce tathā, āra saba gāya  
+Acyutānanda  dances  there  the others  all  sing
 
-(45) [not yet translated]
+(45) There was a group of the Ācārya of Śāntipura: Acyutānanda danced there, and all the others sang.
 
 খণ্ডের সম্প্রদায় করে অন্যত্র কীর্ত্তন ৷  
 নরহরি নাচে তাঁহা শ্রীরঘুনন্দন ॥ ৪৬ ॥
 
 khaṇḍera sampradāya kare anyatra kīrtana  
-narahari nāce tāṅhā śrī raghunandana
+of Khaṇḍa  the group  does  elsewhere  kīrtana  
+narahari nāce tāṅhā śrī-raghunandana  
+Narahari  dances  there  Śrī Raghunandana
 
-(46) [not yet translated]
+(46) The group from Khaṇḍa held its *kīrtana* in another place; Narahari and Śrī Raghunandana danced there.
 
 জগন্নাথের আগে চারি সম্প্রদায় গায় ৷  
 দুই পাশে দুই, পাছে এক সম্প্রদায় ॥ ৪৭ ॥
 
 jagannāthera āge cāri sampradāya gāya  
-dui pāśe dui, pāche eka sampradāya
+of Jagannātha  in front  four  groups  sing  
+dui pāśe dui, pāche eka sampradāya  
+on the two  sides  two  behind  one  group
 
-(47) [not yet translated]
+(47) Four groups sang in front of Jagannātha, one on either side, and one behind.
 
 সাত সম্প্রদায়ে বাজে চৌদ্দ মাদল ৷  
 যার ধ্বনি শুনি’ বৈষ্ণব হৈল পাগল ॥ ৪৮ ॥
 
 sāta sampradāye bāje caudda mādala  
-yāra dhvani śuni’ vaiṣṇava haila pāgala
+in the seven  groups  sound  fourteen  drums  
+yāra dhvani śuni’ vaiṣṇava haila pāgala  
+whose  sound  hearing  the Vaiṣṇavas  became  mad
 
-(48) [not yet translated]
+(48) In the seven groups fourteen drums were played, and their sound drove the Vaiṣṇavas mad.
 
 বৈষ্ণবের মেঘ-ঘটায় হইল বাদল ৷  
 কীর্ত্তনানন্দে সব বর্ষে নেত্র-জল ॥ ৪৯ ॥
 
 vaiṣṇavera megha-ghaṭāya haila bādala  
-kīrtanānande saba varṣe netra-jala
+from the Vaiṣṇavas  of clouds the gathering  became  a downpour  
+kīrtanānande saba varṣe netra-jala  
+in the bliss of kīrtana  all  shower  tears
 
-(49) [not yet translated]
+(49) The Vaiṣṇavas were like massed clouds, and a downpour began: in the bliss of *kīrtana* they all rained tears.
 
 ত্রিভুবন ভরি’ উঠে কীর্ত্তনের ধ্বনি ৷  
 অন্য বাদ্যাদির ধ্বনি কিছুই না শুনি ॥ ৫০ ॥
 
 tri-bhuvana bhari’ uṭhe kīrtanera dhvani  
-anya vādyādira dhvani kichui nā śuni
+the three worlds  filling  rises  of the kīrtana  the sound  
+anya vādyādira dhvani kichui nā śuni  
+of other  instruments and the like  the sound  nothing  not  is heard
 
-(50) [not yet translated]
+(50) The sound of the *kīrtana* rose and filled the three worlds; no other sound of instruments could be heard at all.
 
 সাত ঠাঞি বুলে প্রভু ‘হরি’ ‘হরি’ বলি’ ৷  
 ‘জয় জগন্নাথ’, বলেন হস্তযুগ তুলি’ ॥ ৫১ ॥
 
 sāta ṭhāñi bule prabhu ‘hari’ ‘hari’ bali’  
-‘jaya jagannātha’, balena hasta-yuga tuli’
+in seven  places  goes about  the Lord  “Hari”  “Hari”  saying  
+‘jaya jagannātha’, balena hasta-yuga tuli’  
+“glory  to Jagannātha”  He says  both hands  raising
 
-(51) [not yet translated]
+(51) The Lord went about among the seven groups, calling “Hari! Hari!” Raising both arms, He cried, “Glory to Jagannātha!”
 
 আর এক শক্তি প্রভু করিলা প্রকাশ ৷  
 এককালে সাত ঠাঞি করিল বিলাস ॥ ৫২ ॥
 
 āra eka śakti prabhu karilā prakāśa  
-eka-kāle sāta ṭhāñi karila vilāsa
+another  one  power  the Lord  made  manifest  
+eka-kāle sāta ṭhāñi karila vilāsa  
+at one time  in seven  places  He sported
 
-(52) [not yet translated]
+(52) Then the Lord manifested another power: He enjoyed His pastimes in all seven places at once.
 
 সবে কহে, — প্রভু আছেন মোর সম্প্রদায় ৷  
 অন্য ঠাঞি নাহি যা’ন আমারে দয়ায় ॥ ৫৩ ॥
 
 sabe kahe, — prabhu āchena mora sampradāya  
-anya ṭhāñi nāhi yāna āmāre dayāya
+all  say  the Lord  is  in my  group  
+anya ṭhāñi nāhi yā’na āmāre dayāya  
+to other  places  not  He goes  to me  by mercy
 
-(53) [not yet translated]
+(53) Everyone said, “The Lord is in my group. Out of mercy to me He goes nowhere else.”
 
 কেহ লক্ষিতে নারে প্রভুর অচিন্ত্য শক্তি ৷  
 অন্তরঙ্গ-ভক্ত জানে, যাঁর শুদ্ধভক্তি ॥ ৫৪ ॥
 
-keha lakṣite nāre prabhura acintya-śakti  
-antaraṅga-bhakta jāne, yāṅra śuddha-bhakti
+keha lakṣite nāre prabhura acintya śakti  
+no one  to perceive  can  of the Lord  the inconceivable  power  
+antaraṅga-bhakta jāne, yāṅra śuddha-bhakti  
+the intimate devotees  know  whose  pure devotion
 
-(54) [not yet translated]
+(54) No one could perceive the Lord’s inconceivable power; only His intimate devotees, whose devotion is pure, knew it.
 
 কীর্ত্তন দেখিয়া জগন্নাথ হরষিত ৷  
 সংকীর্ত্তন দেখে রথ করিয়া স্থগিত ॥ ৫৫ ॥
 
 kīrtana dekhiyā jagannātha haraṣita  
-saṅkīrtana dekhe ratha kariyā sthagita
+the kīrtana  seeing  Jagannātha  delighted  
+saṁkīrtana dekhe ratha kariyā sthagita  
+the saṅkīrtana  He watches  the chariot  making  stopped
 
-(55) [not yet translated]
+(55) Jagannātha was delighted to see the *kīrtana*; He stopped His chariot and watched the *saṅkīrtana*.
 
 প্রতাপরুদ্রের হৈল পরম বিস্ময় ৷  
 দেখিতে শরীর যাঁর হৈল প্রেমময় ॥ ৫৬ ॥
 
 pratāparudrera haila parama vismaya  
-dekhite śarīra yāṅra haila premamaya
+of Pratāparudra  was  great  wonder  
+dekhite śarīra yāṅra haila premamaya  
+from seeing  body  whose  became  full of love
 
-(56) [not yet translated]
+(56) Pratāparudra was filled with wonder; as he watched, his whole body became full of *prema*.
 
 কাশীমিশ্রে কহে রাজা প্রভুর মহিমা ৷  
 কাশীমিশ্র কহে, — তোমার ভাগ্যের নাহি সীমা ॥ ৫৭ ॥
 
 kāśī-miśre kahe rājā prabhura mahimā  
-kāśī-miśra kahe, — tomāra bhāgyera nāhi sīmā
+to Kāśī Miśra  tells  the king  of the Lord  the glory  
+kāśī-miśra kahe, — tomāra bhāgyera nāhi sīmā  
+Kāśī Miśra  says  your  of fortune  not is  a limit
 
-(57) [not yet translated]
+(57) The king spoke to Kāśī Miśra of the Lord’s glory, and Kāśī Miśra said, “There is no limit to your good fortune.”
 
 সার্ব্বভৌম-সঙ্গে রাজা করে ঠারাঠারি ৷  
 আর কেহ নাহি জানে চৈতন্যের চুরি ॥ ৫৮ ॥
 
 sārvabhauma-saṅge rājā kare ṭhārāṭhāri  
-āra keha nāhi jāne caitanyera curi
+with Sārvabhauma  the king  makes  exchange of signs  
+āra keha nāhi jāne caitanyera curi  
+other  anyone  not  knows  of Caitanya  the stealth
 
-(58) [not yet translated]
+(58) The king exchanged knowing signs with Sārvabhauma; no one else knew Caitanya’s secret.
 
 যারে তাঁর কৃপা, সেই জানিবারে পারে ৷  
 কৃপা বিনা ব্রহ্মাদিক জানিবারে নারে ॥ ৫৯ ॥
 
 yāre tāṅra kṛpā, sei jānibāre pāre  
-kṛpā vinā brahmādika jānibāre nāre
+to whom  His  mercy  he  to know  can  
+kṛpā vinā brahmādika jānibāre nāre  
+mercy  without  Brahmā and others  to know  cannot
 
-(59) [not yet translated]
+(59) Only one who has His mercy can know it; without His mercy even Brahmā and the other gods cannot.
 
 রাজার তুচ্ছ সেবা দেখি’ প্রভুর তুষ্ট মন ৷  
 সেই ত’ প্রসাদে পাইল ‘রহস্য দর্শন’ ॥ ৬০ ॥
 
 rājāra tuccha sevā dekhi’ prabhura tuṣṭa mana  
-sei ta’ prasāde pāila ‘rahasya darśana’
+of the king  menial  service  seeing  of the Lord  pleased  the mind  
+sei ta’ prasāde pāila ‘rahasya darśana’  
+that  very  by grace  obtained  the vision of the secret
 
-(60) [not yet translated]
+(60) Seeing the king’s menial service, the Lord was pleased at heart, and by that very grace the king was granted a vision of this secret.
 
 সাক্ষাতে না দেয় দেখা, পরোক্ষে ত’ দয়া ৷  
 কে বুঝিতে পারে চৈতন্যচন্দ্রের মায়া ॥ ৬১ ॥
 
 sākṣāte nā deya dekhā, parokṣe ta’ dayā  
-ke bujhite pāre caitanya-candrera māyā
+directly  not  gives  a meeting  indirectly  indeed  mercy  
+ke bujhite pāre caitanya-candrera māyā  
+who  to understand  can  of Caitanyacandra  the mysterious ways
 
-(61) [not yet translated]
+(61) He would not meet the king in person, yet He showed him mercy from afar. Who can understand the mysterious ways of Caitanyacandra?
 
 সার্ব্বভৌম, কাশীমিশ্র, — দুই মহাশয় ৷  
 রাজারে প্রসাদ দেখি’ হইলা বিস্ময় ॥ ৬২ ॥
 
 sārvabhauma, kāśī-miśra, — dui mahāśaya  
-rājāre prasāda dekhi’ hailā vismaya
+Sārvabhauma  Kāśī Miśra  the two  great souls  
+rājāre prasāda dekhi’ hailā vismaya  
+to the king  the grace  seeing  became  astonished
 
-(62) [not yet translated]
+(62) Seeing the grace shown to the king, the two great souls Sārvabhauma and Kāśī Miśra were astonished.
 
 এইমত লীলা প্রভু কৈল কতক্ষণ ৷  
 আপনে গায়েন, নাচা’ন নিজ-ভক্তগণ ॥ ৬৩ ॥
 
 ei-mata līlā prabhu kaila kata-kṣaṇa  
-āpane gāyena, nācā’na nija-bhakta-gaṇa
+in this way  pastimes  the Lord  made  for some time  
+āpane gāyena, nācā’na nija-bhakta-gaṇa  
+Himself  sings  makes dance  His own devotees
 
-(63) [not yet translated]
+(63) In this way the Lord enjoyed His pastimes for some time. He Himself sang and made His own devotees dance.
 
 কভু এক মূর্ত্তি, কভু হন বহু-মূর্ত্তি ৷  
 কার্য্য-অনুরূপ প্রভু প্রকাশয়ে শক্তি ॥ ৬৪ ॥
 
 kabhu eka mūrti, kabhu hana bahu-mūrti  
-kārya-anurūpa prabhu prakāśaye śakti
+sometimes  one  form  sometimes  is  many forms  
+kārya-anurūpa prabhu prakāśaye śakti  
+according to the work  the Lord  manifests  power
 
-(64) [not yet translated]
+(64) Sometimes He was in one form, sometimes in many: the Lord manifested His power according to the work at hand.
 
 লীলাবেশে প্রভুর নাহি নিজানুসন্ধান ৷  
 ইচ্ছা জানি’ ‘লীলা শক্তি’ করে সমাধান ॥ ৬৫ ॥
 
 līlāveśe prabhura nāhi nijānusandhāna  
-icchā jāni’ ‘līlā śakti’ kare samādhāna
+absorbed in pastimes  of the Lord  not is  awareness of Himself  
+icchā jāni’ ‘līlā śakti’ kare samādhāna  
+the desire  knowing  the līlā-śakti  makes  arrangement
 
-(65) [not yet translated]
+(65) Absorbed in His pastimes, the Lord had no awareness of Himself; knowing His desire, His *līlā-śakti* arranged everything.
 
 পূর্ব্বে যৈছে রাসাদি লীলা কৈল বৃন্দাবনে ৷  
 অলৌকিক লীলা গৌর কৈল ক্ষণে ক্ষণে ॥ ৬৬ ॥
 
 pūrve yaiche rāsādi līlā kaila vṛndāvane  
-alaukika līlā gaura kaila kṣaṇe kṣaṇe
+formerly  as  the rāsa and other  pastimes  made  in Vṛndāvana  
+alaukika līlā gaura kaila kṣaṇe kṣaṇe  
+beyond this world  pastimes  Gaura  made  moment  by moment
 
-(66) [not yet translated]
+(66) Just as He formerly performed the *rāsa* and other pastimes in Vṛndāvana, so now Gaura performed, moment after moment, pastimes beyond this world.
 
 ভক্তগণ অনুভবে, নাহি জানে আন ৷  
 শ্রীভাগবত-শাস্ত্র তাহাতে প্রমাণ ॥ ৬৭ ॥
 
 bhakta-gaṇa anubhave, nāhi jāne āna  
-śrī-bhāgavata-śāstra tāhāte pramāṇa
+the devotees  experience  not  know  others  
+śrī-bhāgavata-śāstra tāhāte pramāṇa  
+the Śrī Bhāgavata scripture  of that  the evidence
 
-(67) [not yet translated]
+(67) The devotees experience them; no one else knows them. The *Śrīmad-Bhāgavatam* is the evidence.
 
 এইমত মহাপ্রভু করে নৃত্য-রঙ্গে ৷  
 ভাসাইল সব লোক প্রেমের তরঙ্গে ॥ ৬৮ ॥
 
 ei-mata mahāprabhu kare nṛtya-raṅge  
-bhāsāila saba loka premera taraṅge
+in this way  Mahāprabhu  makes  in the joy of dancing  
+bhāsāila saba loka premera taraṅge  
+flooded  all  the people  of prema  in the waves
 
-(68) [not yet translated]
+(68) Thus Mahāprabhu danced in joy and flooded everyone with waves of *prema*.
 
 এইমত হৈল কৃষ্ণের রথে আরোহণ ৷  
 তার আগে প্রভু নাচাইল ভক্তগণ ॥ ৬৯ ॥
 
 ei-mata haila kṛṣṇera rathe ārohaṇa  
-tāra āge prabhu nācāila bhakta-gaṇa
+in this way  was  of Kṛṣṇa  on the chariot  the mounting  
+tāra āge prabhu nācāila bhakta-gaṇa  
+before it  the Lord  made dance  the devotees
 
-(69) [not yet translated]
+(69) So Kṛṣṇa mounted the chariot, and before it the Lord made His devotees dance.
 
 আগে শুন জগন্নাথের গুণ্ডিচা-গমন ৷  
 তার আগে প্রভু যৈছে করিলা নর্ত্তন ॥ ৭০ ॥
 
 āge śuna jagannāthera guṇḍicā-gamana  
-tāra āge prabhu yaiche karilā nartana
+next  hear  of Jagannātha  the going to Guṇḍicā  
+tāra āge prabhu yaiche karilā nartana  
+before it  the Lord  how  performed  dance
 
-(70) [not yet translated]
+(70) Now hear of Jagannātha’s journey to Guṇḍicā, and how the Lord danced before His chariot.
 
 এইমত কীর্ত্তন প্রভু করিল কতক্ষণ ৷  
 আপন-উদ্যোগে নাচাইল ভক্তগণ ॥ ৭১ ॥
@@ -920,129 +992,161 @@ sarvāṅge prasveda chuṭe tāte raktodgama
 আশ-পাশে লোক যত ভিজিল সকল ॥ ১০৫ ॥
 
 jalayantra-dhārā yaiche vahe aśru-jala  
-āśa-pāśe loka yata bhijila sakala
+of a fountain  the jets  as  flow  tears  
+āśa-pāśe loka yata bhijila sakala  
+around  people  as many as  were drenched  all
 
-(105) [not yet translated]
+(105) Tears streamed from His eyes like jets from a fountain, and everyone around Him was drenched.
 
 দেহ-কান্তি গৌরবর্ণ দেখিয়ে অরুণ ৷  
 কভু কান্তি দেখি, যেন মল্লিকা-পুষ্পসম ॥ ১০৬ ॥
 
 deha-kānti gaura-varṇa dekhiye aruṇa  
-kabhu kānti dekhi yena mallikā-puṣpa-sama
+of His body  the luster  golden in color  appears  rosy  
+kabhu kānti dekhi yena mallikā-puṣpa-sama  
+sometimes  the luster  we see  as if  a mallikā flower  resembling
 
-(106) [not yet translated]
+(106) The golden luster of His body looked rosy, and at times it looked white, like a *mallikā* flower.
 
 কভু স্তম্ভ, কভু প্রভু ভূমিতে লোটায় ৷  
 শুষ্ককাষ্ঠসম পদ-হস্ত না চলয় ॥ ১০৭ ॥
 
 kabhu stambha, kabhu prabhu bhūmite loṭāya  
-śuṣka-kāṣṭha-sama pada-hasta nā calaya
+sometimes  stunned  sometimes  the Lord  on the ground  rolls  
+śuṣka-kāṣṭha-sama pada-hasta nā calaya  
+dry wood  like  feet and hands  not  move
 
-(107) [not yet translated]
+(107) Sometimes He stood stunned, and sometimes He rolled on the ground; His hands and feet, stiff as dry wood, would not move.
 
 কভু ভূমে পড়ে, কভু শ্বাস হয় হীন ৷  
 যাহা দেখি’ ভক্তগণের প্রাণ হয় ক্ষীণ ॥ ১০৮ ॥
 
 kabhu bhūme paḍe, kabhu śvāsa haya hīna  
-yāhā dekhi’ bhakta-gaṇera prāṇa haya kṣīṇa
+sometimes  on the ground  He falls  sometimes  breath  becomes  absent  
+yāhā dekhi’ bhakta-gaṇera prāṇa haya kṣīṇa  
+which  seeing  of the devotees  the life  becomes  faint
 
-(108) [not yet translated]
+(108) Sometimes He fell to the ground, and sometimes His breathing stopped. Seeing this, the devotees felt their own life ebbing away.
 
 কভু নেত্রে-নাসায় জল, মুখে পড়ে ফেন ৷  
 অমৃতের ধারা চন্দ্রবিম্বে বহে যেন ॥ ১০৯ ॥
 
 kabhu netre-nāsāya jala, mukhe paḍe phena  
-amṛtera dhārā candra-bimbe vahe yena
+sometimes  from eyes and nose  water  from the mouth  falls  foam  
+amṛtera dhārā candra-bimbe vahe yena  
+of nectar  streams  on the moon’s disc  flow  as if
 
-(109) [not yet translated]
+(109) Sometimes water flowed from His eyes and nose and foam fell from His mouth, as if streams of nectar were flowing over the disc of the moon.
 
 সেই ফেন লঞা শুভানন্দ কৈল পান ৷  
 কৃষ্ণপ্রেমরসিক তেঁহো মহাভাগ্যবান্ ॥ ১১০ ॥
 
 sei phena lañā śubhānanda kaila pāna  
-kṛṣṇa-prema-rasika teṅho mahā-bhāgyavān
+that  foam  taking  Śubhānanda  made  drinking  
+kṛṣṇa-prema-rasika teṅho mahā-bhāgyavān  
+of love for Kṛṣṇa  a relisher of the rasa  he  most fortunate
 
-(110) [not yet translated]
+(110) Śubhānanda took that foam and drank it. He was most fortunate, a true relisher of the *rasa* of love for Kṛṣṇa.
 
 এইমত তাণ্ডব-নৃত্য কৈল কতক্ষণ ৷  
 ভাব-বিশেষে প্রভুর প্রবেশিল মন ॥ ১১১ ॥
 
 ei-mata tāṇḍava-nṛtya kaila kata-kṣaṇa  
-bhāva-viśeṣe prabhura praveśila mana
+in this way  the tāṇḍava dance  He did  for some time  
+bhāva-viśeṣe prabhura praveśila mana  
+into a special feeling  the Lord’s  entered  mind
 
-(111) [not yet translated]
+(111) Thus the Lord danced the vigorous *tāṇḍava* dance for some time, and then His mind entered a special mood.
 
 তাণ্ডব-নৃত্য ছাড়ি’ স্বরূপেরে আজ্ঞা দিল ৷  
 হৃদয় জানিয়া স্বরূপ গাইতে লাগিল ॥ ১১২ ॥
 
 tāṇḍava-nṛtya chāḍi’ svarūpere ājñā dila  
-hṛdaya jāniyā svarūpa gāite lāgila
+the tāṇḍava dance  stopping  to Svarūpa  an order  He gave  
+hṛdaya jāniyā svarūpa gāite lāgila  
+His heart  knowing  Svarūpa  to sing  began
 
-(112) [not yet translated]
+(112) Leaving the *tāṇḍava* dance, He told Svarūpa to sing, and Svarūpa, who knew His heart, began to sing:
 
 সেই ত’ পরাণ-নাথ পাইনু ৷  
 যাহা লাগি’ মদন-দহনে ঝুরি’ গেনু ॥ ১১৩ ॥
 
 sei ta’ parāṇa-nātha pāinu  
-yāhā lāgi’ madana-dahane jhuri’ genu
+that  very  Lord of My life  I have found  
+yāhā lāgi’ madana-dahane jhuri’ genu  
+whom  for  in the fire of Madana  pining  I was wasting away
 
-(113) [not yet translated]
+(113) “I have found that very Lord of My life for whom I was wasting away, burning in the fire of Madana (love).”[^m13-113]
 
 এই ধুয়া উচ্চৈঃস্বরে গায় দামোদর ৷  
 আনন্দে মধুর নৃত্য করেন ঈশ্বর ॥ ১১৪ ॥
 
 ei dhuyā uccaiḥ-svare gāya dāmodara  
-ānande madhura nṛtya karena īśvara
+this  refrain  in a loud voice  sings  Dāmodara  
+ānande madhura nṛtya karena īśvara  
+in bliss  sweet  dance  does  the Lord
 
-(114) [not yet translated]
+(114) Svarūpa Dāmodara sang this refrain in a loud voice, and the Lord, in bliss, danced a sweet dance.
 
 ধীরে ধীরে জগন্নাথ করেন গমন ৷  
 আগে নৃত্য করি’ চলেন শচীর নন্দন ॥ ১১৫ ॥
 
 dhīre dhīre jagannātha karena gamana  
-āge nṛtya kari’ calena śacīra nandana
+slowly  slowly  Jagannātha  makes  moving  
+āge nṛtya kari’ calena śacīra nandana  
+ahead  dance  doing  goes  of Śacī  the son
 
-(115) [not yet translated]
+(115) Jagannātha moved forward slowly, slowly, and the son of Śacī went ahead of Him, dancing.
 
 জগন্নাথে নেত্র দিয়া সবে নাচে, গায় ৷  
 কীর্ত্তনীয়া সহ প্রভু পাছে পাছে যায় ॥ ১১৬ ॥
 
 jagannāthe netra diyā sabe nāce, gāya  
-kīrtanīyā saha prabhu pāche pāche yāya
+on Jagannātha  the eyes  fixing  all  dance  sing  
+kīrtanīyā saha prabhu pāche pāche yāya  
+the kīrtana singers  with  the Lord  behind  behind  goes
 
-(116) [not yet translated]
+(116) With their eyes fixed on Jagannātha, everyone danced and sang, and the Lord, with the kīrtana singers, followed behind.
 
 জগন্নাথে মগ্ন প্রভুর নয়ন-হৃদয় ৷  
 শ্রীহস্তযুগে করে গীতের অভিনয় ॥ ১১৭ ॥
 
 jagannāthe magna prabhura nayana-hṛdaya  
-śrī hasta-yuge kare gītera abhinaya
+in Jagannātha  absorbed  the Lord’s  eyes and heart  
+śrī hasta-yuge kare gītera abhinaya  
+with His holy  two hands  He makes  of the song  the acting out
 
-(117) [not yet translated]
+(117) The Lord’s eyes and heart were absorbed in Jagannātha, and with His two holy hands He acted out the song.
 
 গৌর যদি পাছে চলে, শ্যাম হয় স্থিরে ৷  
 গৌর আগে চলে, শ্যাম চলে ধীরে-ধীরে ॥ ১১৮ ॥
 
 gaura yadi pāche cale, śyāma haya sthire  
-gaura āge cale, śyāma cale dhīre-dhīre
+Gaura  if  behind  goes  Śyāma  becomes  still  
+gaura āge cale, śyāma cale dhīre-dhīre  
+Gaura  ahead  goes  Śyāma  moves  slowly, slowly
 
-(118) [not yet translated]
+(118) When Gaura fell behind, Śyāma stood still; when Gaura went ahead, Śyāma moved on, slowly, slowly.
 
 এইমত গৌর-শ্যামে, দোঁহে ঠেলাঠেলি ৷  
 স্বরথে শ্যামেরে রাখে গৌর মহাবলী ॥ ১১৯ ॥
 
 ei-mata gaura-śyāme, doṅhe ṭhelāṭheli  
-svarathe śyāmere rākhe gaura mahā-balī
+in this way  Gaura and Śyāma  the two  push against each other  
+svarathe śyāmere rākhe gaura mahā-balī  
+on His own chariot  Śyāma  keeps  Gaura  the mighty
 
-(119) [not yet translated]
+(119) Thus Gaura and Śyāma vied with each other, and mighty Gaura kept Śyāma waiting on His chariot.
 
 নাচিতে নাচিতে প্রভুর হৈলা ভাবান্তর ৷  
 হস্ত তুলি’ শ্লোক পড়ে করি’ উচ্চৈঃস্বর ॥ ১২০ ॥
 
 nācite nācite prabhura hailā bhāvāntara  
-hasta tuli’ śloka paḍe kari’ uccaiḥ-svara
+dancing  dancing  in the Lord  arose  a change of mood  
+hasta tuli’ śloka paḍe kari’ uccaiḥ-svara  
+the hands  raising  a verse  He recites  making  a loud voice
 
-(120) [not yet translated]
+(120) As He danced, the Lord’s mood changed. Raising His arms, He recited a verse in a loud voice:
 
 যঃ কৌমারহরঃ স এব হি বরস্তা এব চৈত্রক্ষপা-  
 স্তে চোন্মীলিতমালতীসুরভয়ঃ প্রৌঢ়াঃ কদম্বানিলাঃ ৷  
@@ -1050,123 +1154,155 @@ hasta tuli’ śloka paḍe kari’ uccaiḥ-svara
 রেবা-রোধসি বেতসীতরুতলে চেতঃ সমুৎকণ্ঠতে ॥ ১২১ ॥
 
 yaḥ kaumāra-haraḥ sa eva hi varas tā eva caitra-kṣapās  
+who  stole my heart in my girlhood  He  the same  indeed  my beloved  those  same  nights of Caitra  
 te conmīlita-mālatī-surabhayaḥ prauḍhāḥ kadambānilāḥ  
+those same  and  fragrant with blossoming mālatī  full  breezes from the kadambas  
 sā caivāsmi tathāpi tatra surata-vyāpāra-līlā-vidhau  
-revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate
+she  the same  am I  yet  there  for the pastimes of love  
+revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate  
+of the Revā  on the bank  of the vetasī  tree  beneath  My heart  yearns
 
-(121) [not yet translated]
+(121) “He who stole My heart in My girlhood is now My lord. These are the same moonlit nights of Caitra, and the same full breezes blow from the kadamba groves, fragrant with blossoming *mālatī*. I too am the same. Yet My heart yearns for Our play of love there, beneath the *vetasī* trees on the bank of the Revā.” (Padyāvalī, 386)[^m13-121]
 
 এই শ্লোক মহাপ্রভু পড়ে বার বার ৷  
 স্বরূপ বিনা অর্থ কেহ না জানে ইহার ॥ ১২২ ॥
 
 ei śloka mahāprabhu paḍe bāra bāra  
-svarūpa vinā artha keha nā jāne ihāra
+this  verse  Mahāprabhu  recites  time  after time  
+svarūpa vinā artha keha nā jāne ihāra  
+Svarūpa  except  the meaning  anyone  not  knows  of it
 
-(122) [not yet translated]
+(122) Mahāprabhu recited this verse again and again, and no one but Svarūpa knew its meaning.
 
 এই শ্লোকার্থ পূর্ব্বে করিয়াছি ব্যাখ্যান ৷  
 শ্লোকের ভাবার্থ করি সংক্ষেপে আখ্যান ॥ ১২৩ ॥
 
 ei ślokārtha pūrve kariyāchi vyākhyāna  
-ślokera bhāvārtha kari saṅkṣepe ākhyāna
+this verse’s meaning  earlier  I have made  an explanation  
+ślokera bhāvārtha kari saṅkṣepe ākhyāna  
+of the verse  the inner meaning  I make  briefly  a telling
 
-(123) [not yet translated]
+(123) I have explained the meaning of this verse before; now I will briefly tell its inner sense.
 
 পূর্ব্বে যৈছে কুরুক্ষেত্রে সব গোপীগণ ৷  
 কৃষ্ণের দর্শন পাঞা আনন্দিত মন ॥ ১২৪ ॥
 
 pūrve yaiche kurukṣetre saba gopī-gaṇa  
-kṛṣṇera darśana pāñā ānandita mana
+once  as  at Kurukṣetra  all  the gopīs  
+kṛṣṇera darśana pāñā ānandita mana  
+Kṛṣṇa’s  sight  obtaining  joyful  in mind
 
-(124) [not yet translated]
+(124) Once, at Kurukṣetra, all the gopīs rejoiced at heart to see Kṛṣṇa.
 
 জগন্নাথ দেখি’ প্রভুর সে ভাব উঠিল ৷  
 সেই ভাবাবিষ্ট হঞা ধুয়া গাওয়াইল ॥ ১২৫ ॥
 
 jagannātha dekhi’ prabhura se bhāva uṭhila  
-sei bhāvāviṣṭa hañā dhuyā gāoyāila
+Jagannātha  seeing  in the Lord  that  mood  arose  
+sei bhāvāviṣṭa hañā dhuyā gāoyāila  
+in that mood absorbed  becoming  the refrain  He had sung
 
-(125) [not yet translated]
+(125) When the Lord saw Jagannātha, that same mood arose in Him, and, absorbed in it, He had the refrain sung.
 
 অবশেষে রাধা কৃষ্ণে করে নিবেদন ৷  
 সেই তুমি, সেই আমি, সেই নব সঙ্গম ॥ ১২৬ ॥
 
 avaśeṣe rādhā kṛṣṇe kare nivedana  
-sei tumi, sei āmi, sei nava saṅgama
+at last  Rādhā  to Kṛṣṇa  makes  an appeal  
+sei tumi, sei āmi, sei nava saṅgama  
+the same  You  the same  I  the same  fresh  union
 
-(126) [not yet translated]
+(126) At last Rādhā made Her appeal to Kṛṣṇa: “You are the same, I am the same, and Our union is as fresh as before.
 
 তথাপি আমার মন হরে বৃন্দাবন ৷  
 বৃন্দাবনে উদয় করাও আপন-চরণ ॥ ১২৭ ॥
 
 tathāpi āmāra mana hare vṛndāvana  
-vṛndāvane udaya karāo āpana-caraṇa
+still  My  mind  steals  Vṛndāvana  
+vṛndāvane udaya karāo āpana-caraṇa  
+in Vṛndāvana  rising  make  Your own feet
 
-(127) [not yet translated]
+(127) Yet Vṛndāvana steals My heart. Make Your feet appear in Vṛndāvana once again.
 
 ইঁহা লোকারণ্য, হাতী, ঘোড়া, রথধ্বনি ৷  
 তাঁহা পুষ্পারণ্য, ভৃঙ্গ-পিক-নাদ শুনি ॥ ১২৮ ॥
 
 iṅhā lokāraṇya, hātī, ghoḍā, ratha-dhvani  
-tāṅhā puṣpāraṇya, bhṛṅga-pika-nāda śuni
+here  a forest of people  elephants  horses  the rumble of chariots  
+tāṅhā puṣpāraṇya, bhṛṅga-pika-nāda śuni  
+there  a forest of flowers  of bees and cuckoos  the sound  I hear
 
-(128) [not yet translated]
+(128) Here there is a forest of people, elephants and horses and the rumble of chariots; there was a forest of flowers, where one heard the humming of bees and the call of the cuckoos.
 
 ইঁহা রাজ-বেশ, সঙ্গে সব ক্ষত্রিয়গণ ৷  
 তাঁহা গোপবেশ, সঙ্গে মুরলী-বাদন ॥ ১২৯ ॥
 
 iṅhā rāja-veśa, saṅge saba kṣatriya-gaṇa  
-tāṅhā gopa-veśa, saṅge muralī-vādana
+here  royal dress  with You  all  the kṣatriyas  
+tāṅhā gopa-veśa, saṅge muralī-vādana  
+there  cowherd’s dress  with You  the playing of the flute
 
-(129) [not yet translated]
+(129) Here You wear royal dress and are surrounded by kṣatriya warriors; there You wore the dress of a cowherd boy, and with You was only the song of Your flute.
 
 ব্রজে তোমার সঙ্গে যেই সুখ-আস্বাদন ৷  
 সেই সুখসমুদ্রের ইঁহা নাহি এক কণ ॥ ১৩০ ॥
 
 vraje tomāra saṅge yei sukha-āsvādana  
-sei sukha-samudrera iṅhā nāhi eka kaṇa
+in Vraja  You  with  which  happiness  tasting  
+sei sukha-samudrera iṅhā nāhi eka kaṇa  
+of that  ocean of happiness  here  not is  one  drop
 
-(130) [not yet translated]
+(130) Of that ocean of happiness I tasted with You in Vraja, not one drop is here.
 
 আমা লঞা পুনঃ লীলা করহ বৃন্দাবনে ৷  
 তবে আমার মনোবাঞ্ছা হয় ত’ পূরণে ॥ ১৩১ ॥
 
 āmā lañā punaḥ līlā karaha vṛndāvane  
-tabe āmāra mano-vāñchā haya ta’ pūraṇe
+Me  taking  again  pastimes  do  in Vṛndāvana  
+tabe āmāra mano-vāñchā haya ta’ pūraṇe  
+then  My  heart’s desire  becomes  surely  fulfilled
 
-(131) [not yet translated]
+(131) Take Me with You and play with Me again in Vṛndāvana. Only then will My heart’s desire be fulfilled.”
 
 ভাগবতে আছে যৈছে রাধিকা-বচন ৷  
 পূর্ব্বে তাহা সূত্রমধ্যে করিয়াছি বর্ণন ॥ ১৩২ ॥
 
 bhāgavate āche yaiche rādhikā-vacana  
-pūrve tāhā sūtra-madhye kariyāchi varṇana
+in the Bhāgavatam  there are  as  Rādhikā’s words  
+pūrve tāhā sūtra-madhye kariyāchi varṇana  
+before  that  in the summary  I have made  a description
 
-(132) [not yet translated]
+(132) Rādhikā’s words as they stand in the *Bhāgavatam* I have already described before, in the summary of the book.
 
 সেই ভাবাবেশে প্রভু পড়ে আর শ্লোক ৷  
 সেই সব শ্লোকের অর্থ নাহি বুঝে লোক ॥ ১৩৩ ॥
 
 sei bhāvāveśe prabhu paḍe āra śloka  
-sei saba ślokera artha nāhi bujhe loka
+in that mood absorbed  the Lord  recites  another  verse  
+sei saba ślokera artha nāhi bujhe loka  
+of those  all  verses  the meaning  not  understand  people
 
-(133) [not yet translated]
+(133) Absorbed in that mood, the Lord recited another verse, but no one understood the meaning of such verses.
 
 স্বরূপ-গোসাঞি জানে, না কহে অর্থ তার ৷  
 শ্রীরূপ-গোসাঞি কৈল সে অর্থ প্রচার ॥ ১৩৪ ॥
 
 svarūpa-gosāñi jāne, nā kahe artha tāra  
-śrī rūpa-gosāñi kaila se artha pracāra
+Svarūpa Gosāñi  knows  not  tells  the meaning  of it  
+śrī rūpa-gosāñi kaila se artha pracāra  
+Śrī  Rūpa Gosāñi  made  that  meaning’s  proclamation
 
-(134) [not yet translated]
+(134) Svarūpa Gosāñi knew it but did not tell its meaning; Śrī Rūpa Gosāñi made that meaning known.
 
 স্বরূপ সঙ্গে যার অর্থ করে আস্বাদন ৷  
 নৃত্যমধ্যে সেই শ্লোক করেন পঠন ॥ ১৩৫ ॥
 
 svarūpa saṅge yāra artha kare āsvādana  
-nṛtya-madhye sei śloka karena paṭhana
+Svarūpa  with  whose  meaning  He makes  relishing  
+nṛtya-madhye sei śloka karena paṭhana  
+in the midst of the dance  that  verse  He makes  reciting
 
-(135) [not yet translated]
+(135) In the midst of the dance He recited the verse whose meaning He relished with Svarūpa:
 
 আহুশ্চ তে নলিন-নাভ পদারবিন্দং  
 যোগেশ্বরৈর্হৃদি বিচিন্ত্যমগাধবোধৈঃ ৷  
@@ -1174,11 +1310,15 @@ nṛtya-madhye sei śloka karena paṭhana
 গেহং জুষামপি মনস্যুদিয়াৎ সদা নঃ ॥ ১৩৬ ॥
 
 āhuś ca te nalina-nābha padāravindaṁ  
+they said  and  Your  O lotus-naveled Lord  lotus feet  
 yogeśvarair hṛdi vicintyam agādha-bodhaiḥ  
+by the masters of yoga  in the heart  meditated upon  of fathomless wisdom  
 saṁsāra-kūpa-patitottaraṇāvalambaṁ  
-gehaṁ juṣām api manasy udiyāt sadā naḥ
+of worldly life  into the well  of the fallen  for rescue  the support  
+gehaṁ juṣām api manasy udiyāt sadā naḥ  
+to home  attached  even  in the mind  may they rise  always  our
 
-(136) [not yet translated]
+(136) (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate within their hearts on Your lotus feet, the support by which souls fallen into the well of worldly life are lifted out. May those feet always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)[^m13-136]
 
 অন্যের হৃদয় — মন, মোর মন — বৃন্দাবন,  
 ‘মনে’ ‘বনে’ এক করি’ জানি ৷  
@@ -1220,7 +1360,7 @@ more aiche kahite nā yuyāya
 স্থানাস্থান না কর বিচারে ॥ ১৪০ ॥
 
 citta kāḍhi’ tomā haite, viṣaye cāhi lāgāite,  
-yatna kari, nāri kāḍhibāre  
+yatna kari’ nāri kāḍhibāre  
 tāre dhyāna śikṣā karāha, loka hāsāñā māra,  
 sthānāsthāna nā kara vicāre
 
@@ -1445,7 +1585,7 @@ vilasiba rajanī-divase
 সেই শ্লোক শুনি’ রাধা, খণ্ডিল সকল বাধা,  
 কৃষ্ণপ্রাপ্ত্যে প্রতীতি হইল ॥ ১৫৯ ॥
 
-eta tāṅre kahi kṛṣṇa, vraje yāite satṛṣṇa,  
+eta tāṅre kahi’ kṛṣṇa, vraje yāite satṛṣṇa,  
 eka śloka paḍi’ śunāila  
 sei śloka śuni’ rādhā, khaṇḍila sakala bādhā,  
 kṛṣṇa-prāptye pratīti haila
@@ -1598,7 +1738,7 @@ prabhu-nṛtye kaila yātrī cauguṇa-maṅgala
 অন্যের কি কায, জগন্নাথ-হলধর ৷  
 প্রভুর-নৃত্য দেখি’ সুখে চলিলা মন্থর ॥ ১৭৮ ॥
 
-anyera ki kāja, jagannātha-haladhara  
+anyera ki kāya, jagannātha-haladhara  
 prabhura nṛtya dekhi’ sukhe calilā manthara
 
 (178) [not yet translated]
@@ -1710,7 +1850,7 @@ baladeva-subhadrāgre nṛtya kare raṅge
 তাঁহা নৃত্য করি’ জগন্নাথাগ্রে আইলা ৷  
 জগন্নাথ-আগে নৃত্য করিতে লাগিলা ॥ ১৯২ ॥
 
-tāṅhā nṛtya kari’ jagannāthagre āilā  
+tāṅhā nṛtya kari’ jagannāthāgre āilā  
 jagannātha-āge nṛtya karite lāgilā
 
 (192) [not yet translated]
@@ -1798,7 +1938,7 @@ puṣpodyāne gṛha-piṇḍāya rahilā paḍiyā
 নৃত্য-পরিশ্রমে প্রভুর দেহে ঘন ঘর্ম্ম ৷  
 সুগন্ধি শীতল-বায়ু করেন সেবন ॥ ২০৩ ॥
 
-nṛtya-pariśrame prabhura dehera ghana gharma  
+nṛtya-pariśrame prabhura dehe ghana gharma  
 sugandhi śītala-vāyu karena sevana
 
 (203) [not yet translated]
@@ -1858,3 +1998,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 ---
 
 [^2]: The same verse as Ādi 10.2; translation as there.
+
+[^m13-113]: The same song as Madhya 1.55; translation as there.
+
+[^m13-121]: The same verse as Madhya 1.58; translation as there.
+
+[^m13-136]: The same verse as Madhya 1.81; translation as there.
