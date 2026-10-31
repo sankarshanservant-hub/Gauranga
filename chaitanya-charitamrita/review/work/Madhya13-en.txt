@@ -100,13 +100,13 @@ tr: He sprinkled the road with sandalwood water: he who sat on the royal throne 
 ## 17
 w: exalted  being  the king  does  menial  service
 w: therefore  of Jagannātha  of the mercy  the recipient
-tr: Exalted as he was, the king did menial service, and therefore he became a vessel of Jagannātha’s mercy.
+tr: Exalted as he was, the king stooped to this humble service, and therefore he became a vessel of Jagannātha’s mercy.
 fn: Heading in the edition: “Seeing the king’s humble service, the Lord shows him mercy.”
 
 ## 18
 w: Mahāprabhu  happiness  felt  that service  seeing
 w: Mahāprabhu’s  mercy  arose  that service  from
-tr: Mahāprabhu was happy to see this service, and through it the king won Mahāprabhu’s mercy.
+tr: Mahāprabhu was happy to see this service, and through it the king won His mercy.
 
 ## 19
 w: of the chariot  the decoration  seeing  the people  amazed
@@ -195,7 +195,7 @@ fn: The edition reads চারি সম্প্রদায়ে (locative: 
 ## 35
 w: Nityānanda  Advaita  Haridāsa  Vakreśvara
 w: four  persons  the order  gave  dance  to perform
-tr: He ordered four of them — Nityānanda, Advaita, Haridāsa and Vakreśvara — to dance.
+tr: He ordered four devotees — Nityānanda, Advaita, Haridāsa and Vakreśvara — to dance.
 
 ## 36
 w: in the first group  made  Svarūpa  the leader
@@ -307,7 +307,7 @@ tr: Jagannātha was delighted to see the kīrtana; He stopped His chariot and wa
 ## 56
 w: of Pratāparudra  was  great  wonder
 w: from seeing  body  whose  became  full of love
-tr: Pratāparudra was filled with wonder; as he watched, his whole body became full of prema.
+tr: Pratāparudra was filled with wonder; as he watched, he was overcome with prema.
 fn: Heading in the edition: “Seeing this, the king is amazed.”
 
 ## 57
@@ -367,7 +367,7 @@ tr: Just as He once enjoyed the *rāsa* and other pastimes in Vṛndāvana, so n
 ## 67
 w: the devotees  experience  not  know  others
 w: the Śrī Bhāgavata scripture  of that  the evidence
-tr: The devotees experience them; no one else knows them. The Śrīmad-Bhāgavatam is the evidence of this.
+tr: The devotees experience them; no one else knows them. The *Śrīmad-Bhāgavatam* bears witness to this.
 fn: *Anubhāṣya*: the *Bhāgavatam* testifies that at the *rāsa* dance and at the wedding with the queens Kṛṣṇa appeared in many forms at once; so too Gaurasundara appeared in many forms before the seven kīrtana groups and before Pratāparudra. Only devotees are allowed to see His transcendental pastimes.
 
 ## 68
@@ -519,7 +519,7 @@ tr: Absorbed in the dance, Śrīnivāsa was aware of nothing. Haricandana pushed
 ## 95
 w: a slap  giving  him  made  stopping
 w: the slap  receiving  angry  became  Haricandana
-tr: Śrīnivāsa stopped him with a slap, and the slap made Haricandana angry.
+tr: Śrīnivāsa stopped him with a slap, and Haricandana flared up in anger.
 fn: Heading in the edition: “[Śrīvāsa] slaps Haricandana, who becomes angry.”
 
 ## 96
@@ -716,7 +716,7 @@ tr: Take Me with You and play with Me again in Vṛndāvana. Only then will My h
 ## 132
 w: in the Bhāgavatam  there are  as  Rādhikā’s words
 w: before  that  in the summary  I have made  a description
-tr: Rādhikā’s words as they stand in the *Bhāgavatam* I described earlier, in the summary of the book.
+tr: These words of Rādhikā from the *Bhāgavatam* I have already given earlier, in the summary of the pastimes.
 
 ## 133
 w: in that mood absorbed  the Lord  recites  another  verse
@@ -726,7 +726,7 @@ tr: Absorbed in that mood, the Lord recited another verse, but no one understood
 ## 134
 w: Svarūpa Gosāñi  knows  not  tells  the meaning  of it
 w: Śrī  Rūpa Gosāñi  made  that  meaning’s  proclamation
-tr: Svarūpa Gosāñi knew it but did not tell its meaning; Śrī Rūpa Gosāñi made that meaning known.
+tr: Svarūpa Gosāñi knew it but told no one; Śrī Rūpa Gosāñi made that meaning known.
 
 ## 135
 w: Svarūpa  with  whose  meaning  He makes  relishing
@@ -753,7 +753,7 @@ fn: *Anubhāṣya*: a worldly person calls “mind” the heart that makes and u
 w: O Lord of My life  hear  My  true  appeal
 w: Vraja —  My  home  there  with You  union
 w: not  obtaining  not  remains  life
-tr: O Lord of My life, hear My true appeal. Vraja is My home, and there I long to be with You; if I cannot have that, I cannot live.
+tr: O Lord of My life, hear My plea, for it is true. Vraja is My home, and there I long to be with You; if I cannot have that, I cannot live.
 
 ## 139
 w: before  through Uddhava  now  directly  to Me
@@ -791,7 +791,7 @@ w: Vṛndāvana  Govardhana  the Yamunā’s bank  the forest
 w: in those  groves  the rāsa and other  pastimes
 w: of that  Vraja  the people  mother  father  friends
 w: very  strange  how  You forgot
-tr: Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? It is very strange!
+tr: Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? This amazes Me most of all!
 
 ## 144
 w: expert  gentle  virtuous  well-mannered  affectionate  compassionate
@@ -805,7 +805,7 @@ w: not  I count  My own sorrow  seeing  of Vraja’s queen  the face
 w: of the people of Vraja  the heart  breaks
 w: either  You kill  the residents of Vraja  or  revive  to Vraja  coming
 w: why  You keep alive  sorrow  to make them endure
-tr: I do not count My own sorrow; but seeing the face of the queen of Vraja, the people of Vraja are heartbroken. Either kill the residents of Vraja, or come to Vraja and bring them back to life. Why do You keep them alive only to suffer?
+tr: I do not count My own sorrow; but seeing the face of the queen of Vraja, the people of Vraja are heartbroken. Either kill them, or come to Vraja and bring them back to life. Why do You keep them alive only to suffer?
 fn: Heading in the edition: “Telling of Yaśodā’s grief, Rādhā tries to stir Kṛṣṇa’s compassion; the people of Vraja would rather die than be separated from Him.” The *Amṛta-pravāha-bhāṣya* reads the third line otherwise: “now You kill them by separation, now You revive them by Your company”.
 
 ## 146
@@ -813,21 +813,21 @@ w: Your  that  other  dress  other  company  other  land
 w: to the people of Vraja  ever  not  pleases
 w: the land of Vraja  to leave  not  they can  You  not  seeing  they die
 w: of the people of Vraja  what  will be  the way
-tr: Your other dress, Your other company and Your other land never please the people of Vraja. They cannot leave the land of Vraja, yet without seeing You they die. What will become of them?
+tr: Your strange dress, Your strange companions and Your strange land never please the people of Vraja. They cannot leave the land of Vraja, yet without seeing You they die. What will become of them?
 
 ## 147
 w: You —  of Vraja  the life  of the king of Vraja  the treasure of life
 w: You —  of all  Vraja  the wealth
 w: moist with mercy  Your  mind  coming  revive  the people of Vraja
 w: in Vraja  rising  make  Your own feet
-tr: You are the life of Vraja and the treasure of the life of Vraja’s king; You are the wealth of all Vraja. Your heart is soft with mercy: come and revive the people of Vraja, and make Your feet appear in Vraja once again.”
+tr: You are the life of Vraja, the precious life of Vraja’s king, and all the wealth of Vraja. Your heart is soft with mercy: come and revive the people of Vraja, and make Your feet appear in Vraja once again.”
 
 ## 148
 w: having heard  Rādhikā’s words  the love of Vraja  to the mind  bringing
 w: with feeling  agitated  body and mind
 w: of the people of Vraja  the love  hearing  Himself  ‘a debtor’  considering
 w: makes  Kṛṣṇa  to Her  consolation
-tr: Hearing Rādhikā’s words and remembering the love of Vraja, Kṛṣṇa was shaken in body and mind. As He heard of the love of the people of Vraja, He considered Himself their debtor and began to console Her:
+tr: When Kṛṣṇa heard Rādhikā’s words, the love of Vraja came to His mind, and His body and mind were shaken with feeling. Hearing of the love of Vraja’s people, He felt Himself their debtor and began to console Her:
 
 ## 149
 w: O beloved, dear as life  hear  My  these  true words
@@ -943,7 +943,7 @@ tr: Sometimes, overwhelmed by feeling, He would sit on the ground with His face 
 ## 166
 w: on the finger  injury  will be  knowing  Dāmodara
 w: in fear  with his own hand  stops  the Lord’s hand
-tr: Knowing that the finger would be injured, Dāmodara anxiously stopped the Lord’s hand with his own.
+tr: Fearing that the finger would be hurt, Dāmodara anxiously stopped the Lord’s hand with his own.
 
 ## 167
 w: of the Lord  suited to the mood  Svarūpa’s  singing
@@ -960,7 +960,7 @@ tr: The Lord gazed at the lotus face of Śrī Jagannātha with its two beautiful
 ## 170
 w: of the Lord  in the heart  of bliss  the ocean  surged
 w: madness  a storm wind  at that moment  arose
-tr: An ocean of bliss surged in the Lord’s heart, and at once madness rose in it like a storm wind.
+tr: An ocean of bliss surged in the Lord’s heart, and at once divine madness rose like a storm wind.
 
 ## 171
 w: in the madness of bliss  it raises  of feelings  waves
@@ -970,7 +970,7 @@ tr: In that madness of bliss waves of feeling rose, and the armies of His many f
 ## 172
 w: the rising of a feeling  the calming of a feeling  the meeting  the mingling
 w: the transitory  the sāttvika  the abiding  natural  predominance
-tr: Feelings arose and subsided, met and mingled; the transitory feelings, the *sāttvika* ecstasies and the abiding mood each prevailed by its own nature.
+tr: Feelings arose and subsided, met and mingled; the transitory feelings, the *sāttvika* ecstasies and the abiding mood showed all their natural strength.
 fn: *Amṛta-pravāha-bhāṣya*: *bhāvodaya*, *bhāva-śānti*, *sandhi* and *śābalya* are the rising, the subsiding, the meeting and the mingling of feelings. *Anubhāṣya*: see Madhya 2.63.
 
 ## 173

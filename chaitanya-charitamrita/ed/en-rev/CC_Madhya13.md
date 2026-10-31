@@ -176,7 +176,7 @@ exalted  being  the king  does  menial  service
 ataeva jagannāthera kṛpāra bhājana  
 therefore  of Jagannātha  of the mercy  the recipient
 
-(17) Exalted as he was, the king did menial service, and therefore he became a vessel of Jagannātha’s mercy.[^10]
+(17) Exalted as he was, the king stooped to this humble service, and therefore he became a vessel of Jagannātha’s mercy.[^10]
 
 মহাপ্রভু সুখ পাইল সে-সেবা দেখিতে ৷  
 মহাপ্রভুর কৃপা হৈল সে-সেবা হইতে ॥ ১৮ ॥
@@ -186,7 +186,7 @@ Mahāprabhu  happiness  felt  that service  seeing
 mahāprabhura kṛpā haila se-sevā haite  
 Mahāprabhu’s  mercy  arose  that service  from
 
-(18) Mahāprabhu was happy to see this service, and through it the king won Mahāprabhu’s mercy.
+(18) Mahāprabhu was happy to see this service, and through it the king won His mercy.
 
 রথের সাজনি দেখি’ লোকে চমৎকার ৷  
 নব হেমময় রথ — সুমেরু-আকার ॥ ১৯ ॥
@@ -353,7 +353,7 @@ Nityānanda  Advaita  Haridāsa  Vakreśvara
 cāri jane ājñā dila nṛtya karibāre  
 four  persons  the order  gave  dance  to perform
 
-(35) He ordered four of them — Nityānanda, Advaita, Haridāsa and Vakreśvara — to dance.
+(35) He ordered four devotees — Nityānanda, Advaita, Haridāsa and Vakreśvara — to dance.
 
 প্রথম-সম্প্রদায়ে কৈল স্বরূপ — প্রধান ৷  
 আর পঞ্চজন দিল তাঁর পালিগান ॥ ৩৬ ॥
@@ -563,7 +563,7 @@ of Pratāparudra  was  great  wonder
 dekhite śarīra yām̐ra haila premamaya  
 from seeing  body  whose  became  full of love
 
-(56) Pratāparudra was filled with wonder; as he watched, his whole body became full of prema.[^25]
+(56) Pratāparudra was filled with wonder; as he watched, he was overcome with prema.[^25]
 
 কাশীমিশ্রে কহে রাজা প্রভুর মহিমা ৷  
 কাশীমিশ্র কহে, — তোমার ভাগ্যের নাহি সীমা ॥ ৫৭ ॥
@@ -673,7 +673,7 @@ the devotees  experience  not  know  others
 śrī-bhāgavata-śāstra tāhāte pramāṇa  
 the Śrī Bhāgavata scripture  of that  the evidence
 
-(67) The devotees experience them; no one else knows them. The Śrīmad-Bhāgavatam is the evidence of this.[^30]
+(67) The devotees experience them; no one else knows them. The *Śrīmad-Bhāgavatam* bears witness to this.[^30]
 
 এইমত মহাপ্রভু করে নৃত্য-রঙ্গে ৷  
 ভাসাইল সব লোক প্রেমের তরঙ্গে ॥ ৬৮ ॥
@@ -972,7 +972,7 @@ a slap  giving  him  made  stopping
 cāpaḍa khāñā kruddha hailā haricandana  
 the slap  receiving  angry  became  Haricandana
 
-(95) Śrīnivāsa stopped him with a slap, and the slap made Haricandana angry.[^37]
+(95) Śrīnivāsa stopped him with a slap, and Haricandana flared up in anger.[^37]
 
 ক্রুদ্ধ হঞা তাঁরে কিছু চাহে বলিবারে ৷  
 আপনি প্রতাপরুদ্র নিবারিল তারে ॥ ৯৬ ॥
@@ -1348,7 +1348,7 @@ in the Bhāgavatam  there are  as  Rādhikā’s words
 pūrve tāhā sūtra-madhye kariyāchi varṇana  
 before  that  in the summary  I have made  a description
 
-(132) Rādhikā’s words as they stand in the *Bhāgavatam* I described earlier, in the summary of the book.
+(132) These words of Rādhikā from the *Bhāgavatam* I have already given earlier, in the summary of the pastimes.
 
 সেই ভাবাবেশে প্রভু পড়ে আর শ্লোক ৷  
 সেই সব শ্লোকের অর্থ নাহি বুঝে লোক ॥ ১৩৩ ॥
@@ -1368,7 +1368,7 @@ Svarūpa Gosāñi  knows  not  tells  the meaning  of it
 śrī rūpa-gosāñi kaila se artha pracāra  
 Śrī  Rūpa Gosāñi  made  that  meaning’s  proclamation
 
-(134) Svarūpa Gosāñi knew it but did not tell its meaning; Śrī Rūpa Gosāñi made that meaning known.
+(134) Svarūpa Gosāñi knew it but told no one; Śrī Rūpa Gosāñi made that meaning known.
 
 স্বরূপ সঙ্গে যার অর্থ করে আস্বাদন ৷  
 নৃত্যমধ্যে সেই শ্লোক করেন পঠন ॥ ১৩৫ ॥
@@ -1423,7 +1423,7 @@ Vraja —  My  home  there  with You  union
 nā pāile nā rahe jīvana  
 not  obtaining  not  remains  life
 
-(138) O Lord of My life, hear My true appeal. Vraja is My home, and there I long to be with You; if I cannot have that, I cannot live.
+(138) O Lord of My life, hear My plea, for it is true. Vraja is My home, and there I long to be with You; if I cannot have that, I cannot live.
 
 পূর্ব্বে উদ্ধব-দ্বারে, এবে সাক্ষাৎ আমারে,  
 যোগ-জ্ঞানে কহিলা উপায় ৷  
@@ -1503,7 +1503,7 @@ of that  Vraja  the people  mother  father  friends
 baḍa citra, kemane pāsarilā  
 very  strange  how  You forgot
 
-(143) Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? It is very strange!
+(143) Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? This amazes Me most of all!
 
 বিদগ্ধ, মৃদু, সদ্গুণ, সুশীল, স্নিগ্ধ, করুণ,  
 তুমি, তোমার নাহি দোষাভাস ৷  
@@ -1535,7 +1535,7 @@ either  You kill  the residents of Vraja  or  revive  to Vraja  coming
 kena jīyāo duḥkha sahāibāre?  
 why  You keep alive  sorrow  to make them endure
 
-(145) I do not count My own sorrow; but seeing the face of the queen of Vraja, the people of Vraja are heartbroken. Either kill the residents of Vraja, or come to Vraja and bring them back to life. Why do You keep them alive only to suffer?[^50]
+(145) I do not count My own sorrow; but seeing the face of the queen of Vraja, the people of Vraja are heartbroken. Either kill them, or come to Vraja and bring them back to life. Why do You keep them alive only to suffer?[^50]
 
 তোমার যে অন্য বেশ, অন্য সঙ্গ, অন্য দেশ,  
 ব্রজজনে কভু নাহি ভায় ৷  
@@ -1551,7 +1551,7 @@ the land of Vraja  to leave  not  they can  You  not  seeing  they die
 vraja-janera ki habe upāya  
 of the people of Vraja  what  will be  the way
 
-(146) Your other dress, Your other company and Your other land never please the people of Vraja. They cannot leave the land of Vraja, yet without seeing You they die. What will become of them?
+(146) Your strange dress, Your strange companions and Your strange land never please the people of Vraja. They cannot leave the land of Vraja, yet without seeing You they die. What will become of them?
 
 তুমি — ব্রজের জীবন, ব্রজরাজের প্রাণধন,  
 তুমি — সকল ব্রজের সম্পদ্ ৷  
@@ -1567,7 +1567,7 @@ moist with mercy  Your  mind  coming  revive  the people of Vraja
 vraje udaya karāo nija-pada  
 in Vraja  rising  make  Your own feet
 
-(147) You are the life of Vraja and the treasure of the life of Vraja’s king; You are the wealth of all Vraja. Your heart is soft with mercy: come and revive the people of Vraja, and make Your feet appear in Vraja once again.”
+(147) You are the life of Vraja, the precious life of Vraja’s king, and all the wealth of Vraja. Your heart is soft with mercy: come and revive the people of Vraja, and make Your feet appear in Vraja once again.”
 
 শুনিয়া রাধিকা-বাণী, ব্রজপ্রেম মনে আনি,  
 ভাবে ব্যাকুলিত দেহ-মন ৷  
@@ -1583,7 +1583,7 @@ of the people of Vraja  the love  hearing  Himself  ‘a debtor’  considering
 kare kṛṣṇa tām̐re āśvāsana  
 makes  Kṛṣṇa  to Her  consolation
 
-(148) Hearing Rādhikā’s words and remembering the love of Vraja, Kṛṣṇa was shaken in body and mind. As He heard of the love of the people of Vraja, He considered Himself their debtor and began to console Her:
+(148) When Kṛṣṇa heard Rādhikā’s words, the love of Vraja came to His mind, and His body and mind were shaken with feeling. Hearing of the love of Vraja’s people, He felt Himself their debtor and began to console Her:
 
 প্রাণপ্রিয়ে, শুন, মোর এই সত্য-বচন ৷  
 তোমা-সবার স্মরণে, ঝুরোঁ মুঞি রাত্রিদিনে,  
@@ -1830,7 +1830,7 @@ on the finger  injury  will be  knowing  Dāmodara
 bhaye nija-kare nivāraye prabhu-kara  
 in fear  with his own hand  stops  the Lord’s hand
 
-(166) Knowing that the finger would be injured, Dāmodara anxiously stopped the Lord’s hand with his own.
+(166) Fearing that the finger would be hurt, Dāmodara anxiously stopped the Lord’s hand with his own.
 
 প্রভুর ভাবানুরূপ স্বরূপের গান ৷  
 যবে যেই রস, তাহা করে মূর্ত্তিমান্ ॥ ১৬৭ ॥
@@ -1867,7 +1867,7 @@ of the Lord  in the heart  of bliss  the ocean  surged
 unmāda, jhañjhā-vāta tat-kṣaṇe uṭhila  
 madness  a storm wind  at that moment  arose
 
-(170) An ocean of bliss surged in the Lord’s heart, and at once madness rose in it like a storm wind.
+(170) An ocean of bliss surged in the Lord’s heart, and at once divine madness rose like a storm wind.
 
 আনন্দোন্মাদে উঠায় ভাবের তরঙ্গ ৷  
 নানা-ভাব-সৈন্যে উপজিল যুদ্ধ-রঙ্গ ॥ ১৭১ ॥
@@ -1887,7 +1887,7 @@ the rising of a feeling  the calming of a feeling  the meeting  the mingling
 sañcārī, sāttvika, sthāyī svabhāva-prābalya  
 the transitory  the sāttvika  the abiding  natural  predominance
 
-(172) Feelings arose and subsided, met and mingled; the transitory feelings, the *sāttvika* ecstasies and the abiding mood each prevailed by its own nature.[^54]
+(172) Feelings arose and subsided, met and mingled; the transitory feelings, the *sāttvika* ecstasies and the abiding mood showed all their natural strength.[^54]
 
 প্রভুর শরীর যেন শুদ্ধ-হেমাচল ৷  
 ভাব-পুষ্পদ্রুম তাহে পুষ্পিত সকল ॥ ১৭৩ ॥
