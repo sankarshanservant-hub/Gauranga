@@ -1,0 +1,570 @@
+# English translation, Madhya-līlā 13 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya13.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–104 (scan pp. 545–552); shift 2: 105–209.
+
+## 0
+tr: The Dance before the Chariot
+
+## 1
+w: he  may he be victorious  Kṛṣṇa Caitanya
+w: before the holy chariot  danced  who
+w: by whom there was  of the worlds  wonder
+w: Jagannātha  even  astonished
+tr: May Kṛṣṇa Caitanya be victorious, who danced before the holy chariot! His dance filled the world with wonder, and even Jagannātha was astonished.
+fn: Heading in the edition: “Glory to Gaurahari, who danced wondrously before the chariot.”
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  to Nityānanda
+w: glory to Advaitacandra  glory  to the host of Gaura’s devotees
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya and Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+fn: The same verse as Ādi 10.2; translation as there.
+
+## 3
+w: glory  to the listeners  hear  making  one  mind
+w: at the Ratha-yātrā  the dance  of the Lord  supremely  enchanting
+tr: Glory to you, my listeners! Hear with undivided attention of the Lord’s supremely enchanting dance at the Ratha-yātrā.
+fn: Heading in the edition: “Drawing the hearts of the listeners.”
+
+## 4
+w: the next  day  Mahāprabhu  becoming  watchful
+w: at night  rising  with His people  performed  the morning bath
+tr: The next day Mahāprabhu was on the watch: He rose while it was still night and bathed with His companions before dawn.
+
+## 5
+w: the Pāṇḍu-vijaya  to see  made  going
+w: Jagannātha  the journey  made  leaving  the throne
+tr: They went to see the *Pāṇḍu-vijaya*, as Jagannātha left His throne and set out on His journey.
+fn: *Anubhāṣya*: the *Pāṇḍu-vijaya*, or *pahāṇḍi*, is the Deity’s passage from the throne to the chariot. *Amṛta-pravāha-bhāṣya*: the servants tie Jagannātha, Baladeva and Subhadrā with silk ropes, carry Them out of the temple and raise Them onto the chariots near the Siṁha-dvāra.
+
+## 6
+w: himself  Pratāparudra  taking  his officers
+w: to Mahāprabhu’s  people  causes  the sight of the procession
+tr: King Pratāparudra himself, with his officers, arranged for Mahāprabhu’s companions to see the procession.
+fn: Heading in the edition: “The king and his officers help [the Lord’s companions] to see the *pahāṇḍi*.”
+
+## 7
+w: Advaita  Nitāi  and others  with Him  the devotees
+w: in joy  Mahāprabhu  watches  the Lord’s going
+tr: With Advaita, Nitāi and the other devotees, Mahāprabhu joyfully watched the Lord set out.
+
+## 8
+w: powerful  the dayitās  like  maddened  elephants
+w: Jagannātha  the procession  cause to make  doing  hand to hand
+tr: The powerful *dayitās*, like maddened elephants, carried Jagannātha forward, passing Him from hand to hand.
+fn: *Amṛta-pravāha-bhāṣya*: the *dayitās* (from *dayita*, “beloved”) are a special class of Jagannātha’s servants. By birth they do not belong to the respected castes, but service to Jagannātha has brought them the honour of the higher *varṇas*. The *Kṣetra-māhātmya* calls them Śabaras: the Deity Nīla-mādhava, who later became Jagannātha, once dwelt among the Śabaras, and so they were given the right of intimate service.
+
+## 9
+w: some  dayitās  make  of the shoulders  support
+w: some  dayitās  hold  the holy lotus feet
+tr: Some *dayitās* supported His shoulders, and others held His holy lotus feet.
+
+## 10
+w: at the waist  tied  strong  thick  silk rope
+w: on two  sides  the dayitās  lift  it  holding
+tr: A strong, thick silk rope was tied around His waist, and holding it from both sides the *dayitās* lifted Him.
+
+## 11
+w: high  firm  cotton cushions  all  spreading  at places  at places
+w: one  cushion  from  quickly  to another  cushion  they bring
+tr: Thick, firm cushions of cotton were laid down one after another, and they quickly moved Him from one cushion to the next.
+
+## 12
+w: by the strike of the Lord’s feet  the cushions  become  pieces  pieces
+w: the cotton  all  flying  goes  a sound  is  tremendous
+tr: Under the tread of the Lord’s feet the cushions burst apart; the cotton flew everywhere, and the noise was tremendous.
+fn: *Anubhāṣya*: “the Lord” here is Śrī Jagannātha. Heading in the edition: “The weight of Jagannātha.”
+
+## 13
+w: the sustainer of the universe  Jagannātha  who  to move  can
+w: by His own  will  He moves  to enjoy  His pastimes
+tr: Who can move Jagannātha, the sustainer of the universe? He moves by His own will, to enjoy His pastimes.
+
+## 14
+w: Mahāprabhu  “Maṇimā”  “Maṇimā”  makes  the call
+w: in the din of many instruments  nothing  not  is heard
+tr: Mahāprabhu called out, “*Maṇimā*! *Maṇimā*!”, but in the din of so many instruments nothing could be heard.
+fn: *Amṛta-pravāha-bhāṣya*: *maṇimā* is the respectful address used in Utkala for those worthy of worship and for the king.
+
+## 15
+w: then  Pratāparudra  does  himself  service
+w: a golden broom  taking  does  of the road  sweeping
+tr: Then Pratāparudra served in person: taking a golden broom, he swept the road.
+fn: Heading in the edition: “The king himself serves as a sweeper.”
+
+## 16
+w: with sandalwood water  does  of the road  sprinkling
+w: menial  service  does  though seated  on the royal throne
+tr: He sprinkled the road with sandalwood water: he who sat on the royal throne did this menial service.
+
+## 17
+w: exalted  being  the king  does  menial  service
+w: therefore  of Jagannātha  of the mercy  the recipient
+tr: Exalted as he was, the king did menial service, and therefore he became a vessel of Jagannātha’s mercy.
+fn: Heading in the edition: “Seeing the king’s humble service, the Lord shows him mercy.”
+
+## 18
+w: Mahāprabhu  happiness  felt  that service  seeing
+w: Mahāprabhu’s  mercy  arose  that service  from
+tr: Mahāprabhu was happy to see this service, and through it the king won Mahāprabhu’s mercy.
+
+## 19
+w: of the chariot  the decoration  seeing  the people  amazed
+w: new  golden  the chariot  Sumeru  in shape
+tr: The people marvelled at the decoration of the chariot. It was new and golden, towering like Mount Sumeru.
+
+## 20–21
+w: hundreds  hundreds  with fine cāmaras and mirrors  shining
+w: above  a flag  shines  a canopy  spotless
+w: cymbals  little bells  sound  of the bells  the ringing
+w: with many  painted silk cloths  the chariot  adorned
+tr: Hundreds upon hundreds of fine *cāmaras* and mirrors made it shine. Above, a flag flew and a spotless canopy gleamed. Cymbals and little bells jingled, and the large bells rang. The chariot was adorned with many painted silk cloths.
+fn: *Anubhāṣya*: *ghāghara* — cymbals (*jhāñjh*); *kiṅkiṇī* — little bells (*ghuṅghur*); *kvaṇita* — ringing.
+
+## 22
+w: in play  mounted  the Lord  the chariot  upon
+w: on the other  two  chariots  mount  Subhadrā  Haladhara
+tr: In His play the Lord mounted the chariot, and Subhadrā and Haladhara mounted the other two.
+
+## 23
+w: fifteen  days  the Lord  Mahā-Lakṣmī  with
+w: with her  sport  enjoyed  in seclusion  staying
+tr: For fifteen days the Lord had stayed in seclusion with Mahā-Lakṣmī, enjoying His pastimes with her.
+fn: *Amṛta-pravāha-bhāṣya*: for half a month after the bathing festival (Snāna-yātrā) Śrī Jagannātha stays in seclusion; this time is called *anavasara*. Then, with Lakṣmī’s permission, He sets out on the chariot.
+
+## 24
+w: her  consent  taking  to the devotees  joy  to give
+w: on the chariot  mounting  went out  pastimes  to enjoy
+tr: Now, with her consent, He mounted the chariot and went out to enjoy His pastimes and give joy to His devotees.
+fn: *Anubhāṣya*: during *anavasara* Jagannātha enjoyed pastimes with Mahā-Lakṣmī in seclusion, keeping the proper majesty (*maryādā*); now, with her consent, He went out for free pastimes to please the devotees of the path of *anurāga*, who are devoted to Kṛṣṇa alone, and here the mood of lawful wedlock (*svakīyā*) recedes.
+
+## 25
+w: fine  white sand  on the road  a riverbank  like
+w: on two  sides  gardens  all  like  Vṛndāvana
+tr: The road was covered with fine white sand like the bank of a river, and the gardens on both sides were like Vṛndāvana.
+fn: *Anubhāṣya*: the sand was like that of the Yamunā’s bank, and the groves on both sides of the road were like those of Vṛndāvana.
+
+## 26
+w: on the chariot  mounted  Jagannātha  made  His going
+w: on both sides  looking  goes  joyful at heart
+tr: Riding on His chariot, Jagannātha went along, looking at both sides with a joyful heart.
+
+## 27
+w: the gauḍas  all  the chariot  pull  feeling  joy
+w: at times  fast  goes  the chariot  at times  goes  slowly
+tr: The *gauḍas* pulled the chariot joyfully. At times it moved fast, at times slowly.
+fn: *Amṛta-pravāha-bhāṣya*: the cowherds (*goālās*) of Utkala are called *gauḍas*.
+
+## 28
+w: at times  still  becoming  it stays  even when pulled  not  moves
+w: by the Lord’s  will  it moves  not  moves  by anyone’s  strength
+tr: At times it stood still and would not move, however they pulled. It moved by the Lord’s will, not by anyone’s strength.
+
+## 29
+w: then  Mahāprabhu  all  taking  the devotees
+w: with His own hand  put on  all  garlands and sandal
+tr: Then Mahāprabhu gathered all the devotees and with His own hand adorned each of them with garlands and sandalwood paste.
+
+## 30
+w: Paramānanda  Purī  and  Bhāratī  Brahmānanda
+w: from the holy hand  sandal  receiving  increased  joy
+tr: Paramānanda Purī and Brahmānanda Bhāratī received sandalwood paste from His holy hand, and their joy grew.
+fn: Heading in the edition: “First, honour to the elders.”
+
+## 31
+w: Advaita Ācārya  and  Prabhu Nityānanda
+w: by the touch of the holy hand  of both  was  joy
+tr: Advaita Ācārya and Nityānanda Prabhu also rejoiced at the touch of His holy hand.
+
+## 32
+w: to the kīrtana singers  gave  garlands and sandal
+w: Svarūpa  Śrīvāsa  among whom  the chief  two
+tr: He gave garlands and sandalwood paste to the kīrtana singers, the chief of whom were Svarūpa and Śrīvāsa.
+
+## 33
+w: in four  groups  there were  twenty-four  singers
+w: two  two  mṛdaṅgas  counting  there were  eight  men
+tr: There were twenty-four singers in four groups, and eight more men played the mṛdaṅgas, two in each group.
+
+## 34
+w: then  Mahāprabhu  in His mind  consideration  making
+w: among four  groups  gave  the singers  dividing
+tr: Then, after thinking it over, Mahāprabhu divided the singers into four groups.
+fn: The edition reads চারি সম্প্রদায়ে (locative: “among the four groups”); the Bengali text and transliteration are corrected accordingly (scan, p. 547).
+
+## 35
+w: Nityānanda  Advaita  Haridāsa  Vakreśvara
+w: four  persons  the order  gave  dance  to perform
+tr: He ordered four of them — Nityānanda, Advaita, Haridāsa and Vakreśvara — to dance.
+
+## 36
+w: in the first group  made  Svarūpa  the leader
+w: other  five  persons  gave  his  responsive singers
+tr: In the first group He made Svarūpa the leader and gave him five others to sing the responses:
+
+## 37
+w: Dāmodara  Nārāyaṇa  Datta  Govinda
+w: Rāghava  Paṇḍita  and  Śrī Govindānanda
+tr: Dāmodara, Nārāyaṇa, Govinda Datta, Rāghava Paṇḍita and Śrī Govindānanda.
+fn: *Anubhāṣya*: Dāmodara is Dāmodara Paṇḍita.
+
+## 38
+w: to Advaita  dance  to perform  the order  gave
+w: Śrīvāsa  the leader  another  group  made
+tr: He ordered Advaita to dance there. Then He formed another group with Śrīvāsa as the leader:
+
+## 39
+w: Gaṅgādāsa  Haridāsa  Śrīmān  Śubhānanda
+w: Śrī Rāma  Paṇḍita  there  dances  Nityānanda
+tr: Gaṅgādāsa, Haridāsa, Śrīmān, Śubhānanda and Śrī Rāma Paṇḍita; and Nityānanda danced there.
+fn: *Anubhāṣya*: this Haridāsa is perhaps the elder Haridāsa (the commentator adds a question mark).
+
+## 40
+w: Vāsudeva  Gopīnātha  Murāri  where  sing
+w: Mukunda  the leader  made  another  group
+tr: He formed another group with Mukunda as the leader, in which Vāsudeva, Gopīnātha and Murāri sang,
+
+## 41
+w: Śrīkānta  Vallabha Sena  further  two  persons
+w: Haridāsa Ṭhākura  there  performs  the dance
+tr: with two more, Śrīkānta and Vallabha Sena; and Haridāsa Ṭhākura danced there.
+
+## 42
+w: Govinda Ghoṣa  the leader  made  another  group
+w: Haridāsa  Viṣṇudāsa  Rāghava  where  sing
+tr: He formed another group with Govinda Ghoṣa as the leader, in which Haridāsa, Viṣṇudāsa and Rāghava sang,
+fn: *Anubhāṣya*: this Haridāsa is perhaps the younger Haridāsa (with a question mark), as distinct from the Haridāsa of the second group (39).
+
+## 43
+w: Mādhava  Vāsudeva Ghoṣa  two  brothers
+w: dance  performs  there  Paṇḍita Vakreśvara
+tr: with the two brothers Mādhava and Vāsudeva Ghoṣa; and Vakreśvara Paṇḍita danced there.
+
+## 44
+w: of Kulīna-grāma  one  kīrtana party
+w: there  dance  perform  Rāmānanda  Satyarāja
+tr: There was also a kīrtana party from Kulīna-grāma, in which Rāmānanda and Satyarāja danced.
+fn: *Anubhāṣya*: this group went on the left side of the chariot.
+
+## 45
+w: of Śāntipura  of the Ācārya  one  group
+w: Acyutānanda  dances  there  the others  all  sing
+tr: The Ācārya of Śāntipura had His own group as well: Acyutānanda danced there, and all the others sang.
+fn: Acyutānanda is the son of Advaita Ācārya. *Anubhāṣya*: this group was made up of Advaita’s followers and went on the right side of the chariot.
+
+## 46
+w: of Khaṇḍa  the group  does  elsewhere  kīrtana
+w: Narahari  dances  there  Śrī Raghunandana
+tr: The group from Khaṇḍa held its kīrtana in another place; Narahari and Śrī Raghunandana danced there.
+fn: *Anubhāṣya*: the group from Khaṇḍa went behind the chariot.
+
+## 47
+w: of Jagannātha  in front  four  groups  sing
+w: on the two  sides  two  behind  one  group
+tr: Four groups sang in front of Jagannātha, one on either side, and one behind.
+
+## 48
+w: in the seven  groups  sound  fourteen  drums
+w: whose  sound  hearing  the Vaiṣṇavas  became  mad
+tr: In the seven groups fourteen drums were played, and their sound drove the Vaiṣṇavas mad.
+
+## 49
+w: from the Vaiṣṇavas  of clouds the gathering  became  a downpour
+w: in the bliss of kīrtana  all  shower  tears
+tr: The Vaiṣṇavas were like massed clouds, and a downpour began: in the bliss of kīrtana they all rained tears.
+
+## 50
+w: the three worlds  filling  rises  of the kīrtana  the sound
+w: of other  instruments and the like  the sound  nothing  not  is heard
+tr: The sound of the kīrtana rose and filled the three worlds; no other sound of instruments could be heard at all.
+
+## 51
+w: in seven  places  goes about  the Lord  “Hari”  “Hari”  saying
+w: “glory  to Jagannātha”  He says  both hands  raising
+tr: The Lord went about among the seven groups, calling “Hari! Hari!” Raising both arms, He cried, “Glory to Jagannātha!”
+
+## 52
+w: another  one  power  the Lord  made  manifest
+w: at one time  in seven  places  He sported
+tr: Then the Lord manifested another power: He enjoyed His pastimes in all seven places at once.
+fn: *Amṛta-pravāha-bhāṣya*: just as in the *rāsa* dance and at His wedding with the queens Śrī Kṛṣṇa manifested Himself at once in many forms (*prakāśa*), so Śrī Kṛṣṇa Caitanya, showing the same power, manifested Himself in every group.
+
+## 53
+w: all  say  the Lord  is  in my  group
+w: to other  places  not  He goes  to me  by mercy
+tr: Everyone said, “The Lord is in my group. Out of mercy to me He goes nowhere else.”
+
+## 54
+w: no one  to perceive  can  of the Lord  the inconceivable  power
+w: the intimate devotees  know  whose  pure devotion
+tr: No one could perceive the Lord’s inconceivable power; only His intimate devotees, whose devotion is pure, knew it.
+
+## 55
+w: the kīrtana  seeing  Jagannātha  delighted
+w: the saṅkīrtana  He watches  the chariot  making  stopped
+tr: Jagannātha was delighted to see the kīrtana; He stopped His chariot and watched the saṅkīrtana.
+
+## 56
+w: of Pratāparudra  was  great  wonder
+w: from seeing  body  whose  became  full of love
+tr: Pratāparudra was filled with wonder; as he watched, his whole body became full of prema.
+fn: Heading in the edition: “Seeing this, the king is amazed.”
+
+## 57
+w: to Kāśī Miśra  tells  the king  of the Lord  the glory
+w: Kāśī Miśra  says  your  of fortune  not is  a limit
+tr: The king spoke to Kāśī Miśra of the Lord’s glory, and Kāśī Miśra said, “There is no limit to your good fortune.”
+
+## 58
+w: with Sārvabhauma  the king  makes  exchange of signs
+w: other  anyone  not  knows  of Caitanya  the stealth
+tr: The king and Sārvabhauma silently exchanged knowing signs; no one else knew Caitanya’s secret.
+fn: In the original, *curi* (“theft”) — the Lord’s secret, stealthy pastime. Heading in the edition: “The king silently exchanges signs with Sārvabhauma.”
+
+## 59
+w: to whom  His  mercy  he  to know  can
+w: mercy  without  Brahmā and others  to know  cannot
+tr: Only one who has His mercy can know it; without His mercy even Brahmā and the other gods cannot.
+
+## 60
+w: of the king  menial  service  seeing  of the Lord  pleased  the mind
+w: that  very  by grace  obtained  the vision of the secret
+tr: Seeing the king’s menial service, the Lord was pleased at heart, and by that very grace the king was granted a vision of this secret.
+fn: *Anubhāṣya*: Jagannātha, amazed at Mahāprabhu’s dancing and singing, stopped His chariot, and Mahāprabhu delighted Jagannātha by dancing before Him. Though the seer and the seen are here one and the same Reality, this wondrous secret was revealed in the variety of the pastimes, and by Mahāprabhu’s mercy the king understood it, and understood too that the Lord’s presence in all seven groups at once was part of the same secret.
+
+## 61
+w: directly  not  gives  a meeting  indirectly  indeed  mercy
+w: who  to understand  can  of Caitanyacandra  the mysterious ways
+tr: He would not meet the king in person, yet He showed him mercy from afar. Who can understand the mysterious ways of Caitanyacandra?
+fn: *Anubhāṣya*: playing the role of an *ācārya*, the Lord openly showed aversion even to the word “king”, yet in secret He was so merciful to Pratāparudra that the king entered into the mystery of His intimate pastimes. The meaning of this play, in which the Lord acts both as Īśvara and as if He were a *jīva*, no one but His one-pointed devotees can understand.
+
+## 62
+w: Sārvabhauma  Kāśī Miśra  the two  great souls
+w: to the king  the grace  seeing  became  astonished
+tr: Seeing the grace shown to the king, the two great souls Sārvabhauma and Kāśī Miśra were astonished.
+
+## 63
+w: in this way  pastimes  the Lord  made  for some time
+w: Himself  sings  makes dance  His own devotees
+tr: In this way the Lord enjoyed His pastimes for some time. He Himself sang and made His own devotees dance.
+
+## 64
+w: sometimes  one  form  sometimes  is  many forms
+w: according to the work  the Lord  manifests  power
+tr: Sometimes He was in one form, sometimes in many: the Lord manifested His power according to the work at hand.
+
+## 65
+w: absorbed in pastimes  of the Lord  not is  awareness of Himself
+w: the desire  knowing  the līlā-śakti  makes  arrangement
+tr: Absorbed in His pastimes, the Lord had no awareness of Himself; knowing His desire, His *līlā-śakti* arranged everything.
+fn: *Anubhāṣya*: the Lord was so absorbed in the bliss of dancing and singing that He seemed to have forgotten Himself completely; but as soon as He wished, His potency of will (*icchā-śakti*), a form of the *svarūpa-śakti*, manifested His *prakāśa* forms and so served her Lord.
+
+## 66
+w: formerly  as  the rāsa and other  pastimes  made  in Vṛndāvana
+w: beyond this world  pastimes  Gaura  made  moment  by moment
+tr: Just as He once enjoyed the *rāsa* and other pastimes in Vṛndāvana, so now, moment after moment, Gaura revealed pastimes beyond this world.
+
+## 67
+w: the devotees  experience  not  know  others
+w: the Śrī Bhāgavata scripture  of that  the evidence
+tr: The devotees experience them; no one else knows them. The Śrīmad-Bhāgavatam is the evidence of this.
+fn: *Anubhāṣya*: the *Bhāgavatam* testifies that at the *rāsa* dance and at the wedding with the queens Kṛṣṇa appeared in many forms at once; so too Gaurasundara appeared in many forms before the seven kīrtana groups and before Pratāparudra. Only devotees are allowed to see His transcendental pastimes.
+
+## 68
+w: in this way  Mahāprabhu  makes  in the joy of dancing
+w: flooded  all  the people  of prema  in the waves
+tr: Thus Mahāprabhu danced in joy and flooded everyone with waves of prema.
+fn: Heading in the edition: “By His dance the Lord delivers the people.”
+
+## 69
+w: in this way  was  of Kṛṣṇa  on the chariot  the mounting
+w: before it  the Lord  made dance  the devotees
+tr: So Kṛṣṇa mounted the chariot, and before it the Lord made His devotees dance.
+
+## 70
+w: next  hear  of Jagannātha  the going to Guṇḍicā
+w: before it  the Lord  how  performed  dance
+tr: Now hear of Jagannātha’s journey to Guṇḍicā, and how the Lord danced before His chariot.
+
+## 71
+w: in this way  kīrtana  the Lord  performed  for some time
+w: by His own effort  made dance  the devotees
+tr: In this way the Lord led the kīrtana for some time and, by His own effort, made the devotees dance.
+
+## 72
+w: Himself  to dance  when  of the Lord  the mind  became
+w: seven  groups  then  together  made
+tr: When the Lord wished to dance Himself, He brought the seven groups together in one place.
+
+## 73–74
+w: Śrīvāsa  Rāmāi  Raghu  Govinda  Mukunda
+w: Haridāsa  Govindānanda  Mādhava  Govinda
+w: for the high-leaping dance  of the Lord  when  became  the mind
+w: with Svarūpa  together  He gave  these  nine  persons
+tr: When the Lord wished to dance His wild, leaping dance, He put nine devotees together with Svarūpa: Śrīvāsa, Rāmāi, Raghu, Govinda, Mukunda, Haridāsa, Govindānanda, Mādhava and Govinda.
+
+## 75
+w: these  ten  persons  the Lord  with  sing  run
+w: other  all  groups  on four  sides  sing
+tr: These ten sang with the Lord and ran along with Him, and all the other groups sang on every side.
+
+## 76
+w: prostration  making  the Lord  joining  two  hands
+w: with upturned face  prayers  offers  looking at  Jagannātha
+tr: The Lord bowed down, joined His palms and, with His face lifted towards Jagannātha, offered prayers:
+
+## 77
+w: obeisance  to the Lord worshipped by brāhmaṇas
+w: to the benefactor of cows and brāhmaṇas  and
+w: to the benefactor of the world  to Kṛṣṇa
+w: to Govinda  obeisance  obeisance
+tr: “I offer My obeisances to Kṛṣṇa, the Lord worshipped by the brāhmaṇas, the well-wisher of cows and brāhmaṇas and the benefactor of the whole world. Again and again I bow to Govinda.” (Viṣṇu Purāṇa, 1.19.65)
+
+## 78
+w: glory  glory  the Lord  son of Devakī  He
+w: glory  glory  Kṛṣṇa  the lamp of the Vṛṣṇi dynasty
+w: glory  glory  dark as a raincloud  tender-limbed
+w: glory  glory  remover of the earth’s burden  Mukunda
+tr: “Glory, glory to the Lord, the son of Devakī! Glory, glory to Kṛṣṇa, the lamp of the Vṛṣṇi dynasty! Glory, glory to Him whose tender form is dark like a raincloud! Glory, glory to Mukunda, who removes the burden of the earth!” (Mukunda-mālā, 3)
+fn: Heading in the edition: the verse is quoted in the *Padyāvalī* (108) as the words of Mukundadeva.
+
+## 79
+w: glory  the refuge of all beings  known as born of Devakī
+w: by the best of the Yadus attended  by His own  arms  casting out  irreligion
+w: of the unmoving and moving the destroyer of ills  by the smiling beautiful face
+w: of the women of Vraja’s villages  increasing  love (lit. “the god of love”)
+tr: “Glory to Him, the refuge of all people, who is known as the son of Devakī! Attended by the best of the Yadus, with His own arms He casts out irreligion. He destroys the misfortune of all beings, moving and unmoving, and with His beautiful smiling face He makes love for Him grow ever stronger in the women of Vraja.” (Śrīmad-Bhāgavatam, 10.90.48)
+fn: Heading in the edition: “Glory to the transcendental, ever-new Kāmadeva.” *Anubhāṣya*: *kāma-deva* here is transcendental loving desire, which He kindles with His beautiful smile; *deva* means “transcendental”: this *kāma* is His own self-luminous nature. The women of Vrajapura are the women of Vraja and of the cities (Mathurā and Dvārakā), full of *anurāga*.
+
+## 80
+w: not I  a brāhmaṇa  not  and  a king  nor  a vaiśya  not  a śūdra
+w: not I  a brahmacārī  not  and  a householder  not  a forest-dweller  a sannyāsī  or
+w: but  of the shining forth, all-embracing, supreme-bliss-filled  ocean of nectar
+w: of the Lord of the gopīs  of the two lotus feet  the servant of the servant’s servant
+tr: “I am not a brāhmaṇa, not a king, not a vaiśya or a śūdra; I am not a brahmacārī, not a householder, not a vānaprastha or a sannyāsī. I am the servant of the servant of the servant at the lotus feet of the Lord of the gopīs, that radiant ocean of nectar brimming with all supreme bliss.” (Padyāvalī, 74)
+fn: Heading in the edition: the verse was spoken by Śrī Kṛṣṇa Caitanya and is quoted in the *Padyāvalī* (74). *Anubhāṣya*: “I” here is the soul, the *jīva*, by its own nature; it identifies itself neither with a *varṇa* nor with an *āśrama*, but is established in service to the servants of the Vaiṣṇavas.
+
+## 81
+w: this  reciting  again  He made  obeisance
+w: with joined palms  the devotees  pray  to the Lord
+tr: After reciting these verses He bowed down again, and the devotees, with joined palms, offered prayers to the Lord.
+
+## 82
+w: high-leaping  dance  the Lord  making  loud roars
+w: wheel-like turning  He whirls  like  a circle of fire
+tr: The Lord danced His wild, leaping dance with loud roars. He whirled round and round like the ring of fire traced by a whirling firebrand.
+fn: *Anubhāṣya*: a burning coal whirled very fast looks like a solid ring of fire, though there is no ring; so Mahāprabhu, dancing wildly, was one, yet He was seen everywhere.
+
+## 83
+w: in the dance  of the Lord  wherever  wherever  falls  the sole of the foot
+w: with its seas and mountains  the earth  makes  trembling
+tr: Wherever the soles of His feet struck the ground in the dance, the earth with its seas and mountains trembled.
+
+## 84
+w: stupor  perspiration  hair standing on end  tears  trembling  change of color
+w: from various feelings  helplessness  pride  joy  humility
+tr: Stupor, perspiration, hair standing on end, tears, trembling and pallor appeared in Him; overwhelmed by many feelings, He showed pride, joy and humility.
+
+## 85
+w: heavily  falling  He falls  to the ground  rolling  goes
+w: a golden mountain  like  on the ground  rolls
+tr: He fell heavily to the ground and rolled about, like a golden mountain rolling on the earth.
+
+## 86
+w: Nityānanda Prabhu  two  arms  stretching out
+w: the Lord  to catch  wants  here and there  running
+tr: Nityānanda Prabhu, both arms outstretched, ran here and there, trying to catch the Lord.
+
+## 87
+w: behind the Lord  walks  the Ācārya  making  loud roars
+w: “Haribol”  “Haribol”  says  again  again
+tr: Advaita Ācārya followed behind the Lord with loud roars, crying again and again, “Haribol! Haribol!”
+
+## 88
+w: the people  to hold back  there were  three  circles
+w: in the first circle  Nityānanda  of great strength
+tr: Three circles were formed to hold back the crowd. In the first stood mighty Nityānanda.
+fn: *Anubhāṣya*: “mighty” (*mahā-bala*) — Śrī Baladeva. So that the crowd would not crush Mahāprabhu, He was surrounded by three rings: if the crowd broke the third, the second would protect the Lord, and after it the first.
+
+## 89
+w: Kāśīśvara, Mukunda and the others  all  the devotees
+w: hand in hand  making  became  the second  ring
+tr: Kāśīśvara, Mukunda and all the other devotees joined hands and formed the second ring.
+
+## 90
+w: outside  Pratāparudra  taking  his officers
+w: a circle  forming  makes  of the people  holding back
+tr: Outside them, Pratāparudra and his officers formed a circle and held back the crowd.
+
+## 91
+w: of Haricandana  on the shoulder  the hand  resting
+w: of the Lord  the dance  watches  the king  absorbed  becoming
+tr: Resting his hand on Haricandana’s shoulder, the king watched the Lord’s dance, completely absorbed.
+
+## 92
+w: at that time  Śrīnivāsa  absorbed in prema at heart
+w: of the king  in front  standing  watches  of the Lord  the dancing
+tr: Meanwhile Śrīnivāsa, his heart absorbed in prema, stood in front of the king, watching the Lord dance.
+
+## 93
+w: of the king  in front  Haricandana  sees  Śrīnivāsa
+w: with the hand  him  touching  says  be  to one side
+tr: Haricandana saw Śrīnivāsa in front of the king. He touched him with his hand and said, “Move aside.”
+
+## 94
+w: in the absorption of the dance  Śrīnivāsa  anything  not  knows
+w: again  again  he pushes  he  anger  became  in the mind
+tr: Absorbed in the dance, Śrīnivāsa was aware of nothing. Haricandana pushed him again and again, and Śrīnivāsa grew angry.
+
+## 95
+w: a slap  giving  him  made  stopping
+w: the slap  receiving  angry  became  Haricandana
+tr: Śrīnivāsa stopped him with a slap, and the slap made Haricandana angry.
+fn: Heading in the edition: “[Śrīvāsa] slaps Haricandana, who becomes angry.”
+
+## 96
+w: angry  becoming  to him  something  wants  to say
+w: himself  Pratāparudra  stopped  him
+tr: In his anger Haricandana was about to say something to him, but Pratāparudra himself stopped him:
+
+## 97
+w: fortunate  you  his  of the hand  the touch  you received
+w: in my  fortune  it is not  you  fulfilled  have become
+tr: “You are fortunate: you have received the touch of his hand! Such fortune was not mine, but your life is now fulfilled.”
+fn: Heading in the edition: “Even an insult or a blow from a Vaiṣṇava is a sign of good fortune.”
+
+## 98
+w: of the Lord  the dance  seeing  in the people  was  amazement
+w: let alone others  of Jagannātha  the bliss  boundless
+tr: Everyone who saw the Lord’s dance was amazed, and even Jagannātha’s bliss knew no bounds.
+
+## 99
+w: the chariot  still  He made  forward  not  makes  going
+w: with unblinking eyes  makes  of the dance  watching
+tr: He stopped the chariot and would not go forward; with unblinking eyes He watched the dance.
+
+## 100
+w: of Subhadrā and Balarāma  in the hearts  delight
+w: the dance  seeing  of the two  on the holy faces  a smile
+tr: Subhadrā and Balarāma rejoiced at heart; seeing the dance, the two of them smiled.
+
+## 101
+w: in the high-leaping  dance  of the Lord  wonderful  transformations
+w: eight  sāttvika  the rising of bhāvas  happens  at the same time
+tr: In the Lord’s wild, leaping dance wonderful transformations appeared: all eight *sāttvika* ecstasies arose in Him at once.
+
+## 102
+w: like boils on the flesh  like  the multitude of hairs  standing erect
+w: of the śimula  tree  as  by thorns covered
+tr: The hairs of His body stood erect on pores swollen like boils, and He looked like a *śimula* tree covered with thorns.
+
+## 103
+w: one  one  of the tooth  the trembling  seeing  arises  fear
+w: the people  think  the teeth  all  loosening  will fall out
+tr: His teeth chattered so violently that people were frightened to see it; they thought all His teeth would fall out.
+
+## 104
+w: on all the limbs  perspiration  flows  with it  blood oozing
+w: “jaja gaga”  “jaja gaga”  faltering speech
+tr: Perspiration poured from His whole body, and blood oozed out with it. His voice faltered: “Jaja gaga, jaja gaga.”
+fn: *Anubhāṣya*: “jaja gaga” — so indistinctly did the Lord’s words sound when He tried to say “Jagannātha”.
