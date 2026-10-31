@@ -543,3 +543,123 @@ A worldly person calls “mind” the heart, whose nature is to form and to reje
 ## 151
 
 > Subheading: The separation from the residents of Vraja is the fruit of Kṛṣṇa's own misfortune —
+
+## 152
+
+> Subheading: Though separation from each other is deadly to them, the Beloved and His beloved wish to live for each other's joy —
+
+## 153
+
+> Subheading: To wish for the welfare or joy of one's beloved even in separation is the sign of true love —
+
+## 154
+
+> Subheading: A pretext to console Śrī Rādhā —
+
+*Yadupurī*: in Dvārakā and Mathurā.
+
+## 155
+
+> Subheading: Kṛṣṇa appears through the love of Śrī Rādhā[^155-1] —
+
+## 156
+
+> Subheading: Kṛṣṇa assures Śrī Rādhā that He will come to Vraja —
+
+## 157
+
+*Yebā*: although.
+
+## 158
+
+> Subheading: Kṛṣṇa promises Śrī Rādhā, “I will come to Vraja” —
+
+## 159
+
+> Subheading: Hearing the verse Kṛṣṇa spoke, Śrī Rādhā gains confidence —
+
+## 160
+
+> Subheading: The *gopīs'* love for Kṛṣṇa is the cause of their attaining Kṛṣṇa —
+
+See Ādi 4.23.
+
+## 161
+
+> Subheading: The Lord savors [the meaning of the verses] together with Svarūpa —
+
+## 162
+
+> Subheading: Seeing Jagannātha, the Lord, filled with Rādhā's *bhāva*, recites the verse —
+
+## 163
+
+> Subheading: The author praises Śrī Dāmodara Svarūpa —
+
+## 164
+
+> Subheading: The senses of the Lord and of Svarūpa, engaged in Kṛṣṇa's service, are nondifferent —
+
+## 165
+
+> Subheading: The Lord is absorbed in the mood of Śrī Rādhā, hurt (*māna*) and downcast at her Beloved's indifference —
+
+## 166
+
+> Subheading: Fearing that the Lord will injure His finger, Śrī Svarūpa takes care —
+
+*Dāmodara*: Śrī Svarūpa.
+
+## 167
+
+> Subheading: In Svarūpa's *kīrtana*, all the variety of Rādhā's *bhāva* in the Lord's heart takes visible form —
+
+## 168
+
+> Subheading: The beauty of Jagannātha described —
+
+## 169
+
+*Parimala*: fragrance.
+
+## 170
+
+> Subheading: The Lord's divine madness —
+
+*Unmāda*: see Madhya 2.66.
+
+## 171–172
+
+See Madhya 2.63.
+
+## 173
+
+> Subheading: The Lord's body is compared to a golden mountain, and the *sāttvika-bhāvas* to flowering trees —
+
+## 174
+
+> Subheading: Seeing the Lord's love, everyone becomes mad with love for Kṛṣṇa —
+
+## 174–176
+
+See Madhya 2.81–82.
+
+## 177
+
+> Subheading: Everyone raises a joyous clamor of love —
+
+## 178
+
+> Subheading: Kṛṣṇa and Balarāma watch the Lord dance —
+
+## 179
+
+> Subheading: Halting, the Two of Them watch the Lord's dance —
+
+## 180
+
+> Subheading: While dancing, the Lord is about to fall before the king —
+
+## 181
+
+> Subheading: The king catches hold of the Lord; the Lord returns to external consciousness —

@@ -83,3 +83,31 @@ O Kṛṣṇa, when You were in Mathurā, You sent instruction in “*jñāna-yo
 ## 149
 
 *Jhuro̐*: I keep weeping.
+
+## 152
+
+That a beloved woman deprived of her beloved's company, and a beloved man deprived of his beloved's company, cannot live — this is true proof. Yet (each of the two thinking this) they stay alive only because “if my beloved hears that I have died, my beloved will die too.”
+
+## 154
+
+You are My eternal beloved. Knowing that You will not survive separation from Me, I serve Nārāyaṇa, and by the power of His all-pervasiveness (*vibhutva*) I come to Vraja every day, sport with You and then return again to Yadupurī. So You, remaining in Vraja, think that You have had only a vision (*sphūrti*) of Me.[^154-1]
+
+## 164
+
+When Svarūpa Dāmodara sings of these *bhāvas*, the Lord's own senses — His eyes, ears and the rest — enter Svarūpa's senses and taste the song. In other words, a oneness of heart and a perfect attunement arise in both to the full.
+
+## 170
+
+*Jhañjhā-vāta*: a gusty wind that blows hard from time to time.
+
+## 172
+
+“*Bhāvodaya*,” “*bhāva-śānti*,” “*sandhi*,” “*śābalya*”: the rising of a *bhāva* (*bhāvodaya*), the subsiding of a *bhāva* (*bhāva-śānti*), the meeting of *bhāvas* (*bhāva-sandhi*), the mingling of *bhāvas* (*bhāva-śābalya*).
+
+## 177
+
+*Cauguṇa-maṅgala*: auspicious sounds multiplied fourfold.
+
+## 178
+
+*Manthara*: slowly.
