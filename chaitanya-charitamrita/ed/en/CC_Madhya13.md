@@ -1636,7 +1636,7 @@ has kept  ill fortune  powerful
 এই ভয়ে দুঁহে রাখে প্রাণ ॥ ১৫২ ॥
 
 priyā priya-saṅga-hīnā, priya priyā-saṅga vinā,  
-the beloved  without the lover’s company  the lover  of the beloved’s company  without  
+she who loves  without the beloved’s company  he who loves  of the beloved’s company  without  
 nāhi jīye, — e satya pramāṇa  
 not  lives  this  true  proof  
 mora daśā śone yabe, tāṅra ei daśā habe,  
@@ -1644,7 +1644,7 @@ My  state  hears  when  her  this  state  will be
 ei bhaye duṅhe rākhe prāṇa  
 in this  fear  both  keep  life
 
-(152) A beloved without her lover’s company, or a lover without his beloved’s, cannot live — this is proven truth. Yet each fears: “When she hears of my state, she will come to the same state”; and for this fear both keep themselves alive.
+(152) She who loves cannot live without her beloved’s company, nor he who loves without his beloved’s — this is proven truth. Yet each fears: “When she hears of my state, she will come to the same state”; and for this fear both keep themselves alive.
 
 সেই সতী প্রেমবতী, প্রেমবান্ সেই পতি,  
 বিয়োগে যে বাঞ্ছে প্রিয়-হিতে ৷  
@@ -1873,289 +1873,361 @@ madness  a storm wind  at that moment  arose
 নানা-ভাব-সৈন্যে উপজিল যুদ্ধ-রঙ্গ ॥ ১৭১ ॥
 
 ānandonmāde uṭhāya bhāvera taraṅga  
-nānā-bhāva-sainye upajila yuddha-raṅga
+in the madness of bliss  it raises  of feelings  waves  
+nānā-bhāva-sainye upajila yuddha-raṅga  
+among the armies of many feelings  arose  the sport of battle
 
-(171) [not yet translated]
+(171) In that madness of bliss waves of feeling rose, and the armies of His many feelings joined in the sport of battle.
 
 ভাবোদয়, ভাবশান্তি, সন্ধি, শাবল্য ৷  
 সঞ্চারী, সাত্ত্বিক, স্থায়ী স্বভাব-প্রাবল্য ॥ ১৭২ ॥
 
 bhāvodaya, bhāva-śānti, sandhi, śābalya  
-sañcārī, sāttvika, sthāyī svabhāva-prābalya
+the rising of a feeling  the calming of a feeling  the meeting  the mingling  
+sañcārī, sāttvika, sthāyī svabhāva-prābalya  
+the transitory  the sāttvika  the abiding  natural  predominance
 
-(172) [not yet translated]
+(172) Feelings arose and subsided, met and mingled — the transitory feelings, the *sāttvika* symptoms and the abiding mood, each prevailing by its own nature.
 
 প্রভুর শরীর যেন শুদ্ধ-হেমাচল ৷  
 ভাব-পুষ্পদ্রুম তাহে পুষ্পিত সকল ॥ ১৭৩ ॥
 
 prabhura śarīra yena śuddha-hemācala  
-bhāva-puṣpa-druma tāhe puṣpita sakala
+of the Lord  the body  like  a mountain of pure gold  
+bhāva-puṣpa-druma tāhe puṣpita sakala  
+of feelings  the flowering trees  on it  blossomed  all
 
-(173) [not yet translated]
+(173) The Lord’s body was like a mountain of pure gold, and on it all the trees of feeling burst into blossom.
 
 দেখিতে আকর্ষয়ে সবার চিত্ত-মন ৷  
 প্রেমামৃতবৃষ্ট্যে প্রভু সিঞ্চে সবার মন ॥ ১৭৪ ॥
 
 dekhite ākarṣaye sabāra citta-mana  
-premāmṛta-vṛṣṭye prabhu siñce sabāra mana
+on seeing  it attracts  of all  the heart and mind  
+premāmṛta-vṛṣṭye prabhu siñce sabāra mana  
+with a shower of the nectar of love  the Lord  sprinkles  of all  the mind
 
-(174) [not yet translated]
+(174) The sight of Him attracted everyone’s heart and mind, and the Lord sprinkled every mind with a shower of the nectar of love.
 
 জগন্নাথ-সেবক যত রাজপাত্রগণ ৷  
 যাত্রিক লোক, নীলাচলবাসী যত জন ॥ ১৭৫ ॥
 
 jagannātha-sevaka yata rāja-pātra-gaṇa  
-yātrika loka, nīlācala-vāsī yata jana
+of Jagannātha  the servants  all  the royal officers  
+yātrika loka, nīlācala-vāsī yata jana  
+pilgrim  people  of Nīlācala  the residents  all  people
 
-(175) [not yet translated]
+(175) All the servants of Jagannātha, the royal officers, the pilgrims and all the residents of Nīlācala
 
 প্রভুর নৃত্য-প্রেম দেখি’ হয় চমৎকার ৷  
 কৃষ্ণপ্রেম উপজিল হৃদয়ে সবার ॥ ১৭৬ ॥
 
 prabhura nṛtya prema dekhi’ haya camatkāra  
-kṛṣṇa-prema upajila hṛdaye sabāra
+of the Lord  the dance  the love  seeing  become  astonished  
+kṛṣṇa-prema upajila hṛdaye sabāra  
+love for Kṛṣṇa  arose  in the heart  of all
 
-(176) [not yet translated]
+(176) were astonished to see the Lord’s dance and His love, and love for Kṛṣṇa awoke in everyone’s heart.
 
 প্রেমে নাচে, গায়, লোক, করে কোলাহল ৷  
 প্রভু-নৃত্যে কৈল যাত্রী চৌগুণ-মঙ্গল ॥ ১৭৭ ॥
 
 preme nāce, gāya, loka, kare kolāhala  
-prabhu-nṛtye kaila yātrī cauguṇa-maṅgala
+in love  dance  sing  the people  make  an uproar  
+prabhu-nṛtye kaila yātrī cauguṇa-maṅgala  
+by the Lord’s dance  had  the pilgrims  fourfold  blessing
 
-(177) [not yet translated]
+(177) Filled with love, the people danced and sang and raised a joyful uproar. Through the Lord’s dance the pilgrims received four times the blessing of their pilgrimage.
 
 অন্যের কি কায, জগন্নাথ-হলধর ৷  
 প্রভুর-নৃত্য দেখি’ সুখে চলিলা মন্থর ॥ ১৭৮ ॥
 
 anyera ki kāya, jagannātha-haladhara  
-prabhura nṛtya dekhi’ sukhe calilā manthara
+of others  what  to speak  Jagannātha and Haladhara  
+prabhura nṛtya dekhi’ sukhe calilā manthara  
+of the Lord  the dance  seeing  in joy  moved  slowly
 
-(178) [not yet translated]
+(178) What to speak of others — Jagannātha and Haladhara (Balarāma) Themselves, seeing the Lord’s dance, moved on slowly in delight.
 
 কভু সুখে নৃত্যরঙ্গ দেখে রথ রাখি’ ৷  
 সে কৌতুক যে দেখিল, সেই তার সাক্ষী ॥ ১৭৯ ॥
 
 kabhu sukhe nṛtya-raṅga dekhe ratha rākhi’  
-se kautuka ye dekhila, sei tāra sākṣī
+sometimes  in joy  the play of the dance  They watch  the chariot  stopping  
+se kautuka ye dekhila, sei tāra sākṣī  
+that  wonder  who  saw  he  of it  the witness
 
-(179) [not yet translated]
+(179) Sometimes They stopped Their chariots and joyfully watched the play of His dance. Whoever saw that wonder is its witness.
 
 এইমত নৃত্য প্রভু করিতে ভ্রমিতে ৷  
 প্রতাপরুদ্রের আগে লাগিলা পড়িতে ॥ ১৮০ ॥
 
 ei-mata nṛtya prabhu karite bhramite  
-pratāparudrera āge lāgilā paḍite
+in this way  dance  the Lord  doing  wandering  
+pratāparudrera āge lāgilā paḍite  
+of Pratāparudra  in front  He began  to fall
 
-(180) [not yet translated]
+(180) Dancing and wandering in this way, the Lord was about to fall in front of Pratāparudra.
 
 সম্ভ্রমে প্রতাপরুদ্র প্রভুকে ধরিল ৷  
 তাঁহাকে দেখিতে প্রভুর বাহ্য হইল ॥ ১৮১ ॥
 
 sambhrame pratāparudra prabhuke dharila  
-tāṅhāke dekhite prabhura bāhya-jñāna haila
+respectfully  Pratāparudra  the Lord  held  
+tāṅhāke dekhite prabhura bāhya-jñāna haila  
+him  on seeing  of the Lord  outer consciousness  came
 
-(181) [not yet translated]
+(181) Pratāparudra respectfully caught hold of the Lord, and on seeing him the Lord came back to outer consciousness.
 
 রাজা দেখি’ মহাপ্রভু করেন ধিক্কার ৷  
 ছি, ছি, বিষয়ীর স্পর্শ হইল আমার ! ॥ ১৮২ ॥
 
 rājā dekhi’ mahāprabhu karena dhikkāra  
-chi, chi, viṣayīra sparśa haila āmāra!
+the king  seeing  Mahāprabhu  makes  reproach  
+chi, chi, viṣayīra sparśa haila āmāra!  
+fie  fie  of a worldly man  the touch  has happened  to Me
 
-(182) [not yet translated]
+(182) Seeing the king, Mahāprabhu reproached Himself: “Fie, fie! I have been touched by a worldly man!”
 
 আবেশেতে নিত্যানন্দ হৈলা অসাবধান ৷  
 কাশীশ্বর, গোবিন্দাদি ছিলা অন্যস্থান ॥ ১৮৩ ॥
 
 āveśete nityānanda hailā asāvadhāna  
-kāśīśvara, govindādi chilā anya-sthāna
+in ecstasy  Nityānanda  became  inattentive  
+kāśīśvara, govindādi chilā anya-sthāna  
+Kāśīśvara  Govinda and the others  were  in another place
 
-(183) [not yet translated]
+(183) Nityānanda, lost in ecstasy, had not been watching, and Kāśīśvara, Govinda and the others were elsewhere.
 
 যদপি রাজারে দেখি’ হাড়ির সেবনে ৷  
 প্রসন্ন হঞাছে তাঁরে মিলিবারে মনে ॥ ১৮৪ ॥
 
 yadapi rājāre dekhi’ hāḍira sevane  
-prasanna hañāche tāṅre milibāre mane
+although  the king  seeing  in the service of a sweeper  
+prasanna hañāche tāṅre milibāre mane  
+pleased  He had become  him  to meet  in His mind
 
-(184) [not yet translated]
+(184) Although the Lord had been pleased to see the king serving as a sweeper, and in His heart wished to meet him,
 
 তথাপি আপন-গণে করিতে সাবধান ৷  
 বাহ্যে কিছু রোষাভাস কৈলা ভগবান্ ॥ ১৮৫ ॥
 
 tathāpi āpana-gaṇe karite sāvadhāna  
-bāhye kichu roṣābhāsa kailā bhagavān
+still  His own people  to make  cautious  
+bāhye kichu roṣābhāsa kailā bhagavān  
+outwardly  a little  a semblance of anger  showed  the Lord
 
-(185) [not yet translated]
+(185) still, to make His own people careful, He outwardly showed a semblance of anger.
 
 প্রভুর বচনে রাজার মনে হৈল ভয় ৷  
 সার্ব্বভৌম কহে, — তুমি না কর সংশয় ॥ ১৮৬ ॥
 
 prabhura vacane rājāra mane haila bhaya  
-sārvabhauma kahe, — tumi nā kara saṁśaya
+by the Lord’s  words  of the king  in the mind  arose  fear  
+sārvabhauma kahe, — tumi nā kara saṁśaya  
+Sārvabhauma  says  you  not  make  doubt
 
-(186) [not yet translated]
+(186) The Lord’s words frightened the king, but Sārvabhauma said, “Do not worry.
 
 তোমার উপরে প্রভুর সুপ্রসন্ন মন ৷  
 তোমা লক্ষ্য করি’ শিখায়েন নিজ-গণ ॥ ১৮৭ ॥
 
 tomāra upare prabhura suprasanna mana  
-tomā lakṣya kari’ śikhāyena nija-gaṇa
+you  upon  the Lord’s  very pleased  mind  
+tomā lakṣya kari’ śikhāyena nija-gaṇa  
+you  the target  making  He teaches  His own people
 
-(187) [not yet translated]
+(187) The Lord is very pleased with you. He is only making you an example in order to teach His own people.
 
 অবসর জানি’ আমি করিব নিবেদন ৷  
 সেইকালে যাই’ করিহ প্রভুর মিলন ॥ ১৮৮ ॥
 
 avasara jāni’ āmi kariba nivedana  
-sei-kāle yāi’ kariha prabhura milana
+the opportunity  knowing  I  will make  the request  
+sei-kāle yāi’ kariha prabhura milana  
+at that time  going  make  with the Lord  the meeting
 
-(188) [not yet translated]
+(188) When I see the right moment, I will present your request, and then you can go and meet the Lord.”
 
 তবে মহাপ্রভু রথ প্রদক্ষিণ করিয়া ৷  
 রথ-পাছে যাই’ ঠেলে রথে মাথা দিয়া ॥ ১৮৯ ॥
 
 tabe mahāprabhu ratha pradakṣiṇa kariyā  
-ratha-pāche yāi’ ṭhele rathe māthā diyā
+then  Mahāprabhu  of the chariot  circumambulation  making  
+ratha-pāche yāi’ ṭhele rathe māthā diyā  
+behind the chariot  going  pushes  against the chariot  the head  putting
 
-(189) [not yet translated]
+(189) Then Mahāprabhu walked around the chariot, went behind it, and pushed it with His head.
 
 ঠেলিতেই চলিল রথ ‘হড়’ ‘হড়’ করি’ ৷  
 চতুর্দ্দিকে লোক সব বলে ‘হরি’ ‘হরি’ ॥ ১৯০ ॥
 
 ṭhelitei calila ratha ‘haḍa’ ‘haḍa’ kari’  
-catur-dike loka saba bale ‘hari’ ‘hari’
+the moment He pushed  moved  the chariot  ‘haḍa’  ‘haḍa’  making  
+catur-dike loka saba bale ‘hari’ ‘hari’  
+on four sides  people  all  call  ‘Hari’  ‘Hari’
 
-(190) [not yet translated]
+(190) The moment He pushed, the chariot rolled on with a rumbling “haḍa-haḍa”, and all around the people cried, “Hari! Hari!”
 
 তবে প্রভু নিজ-ভক্তগণ লঞা সঙ্গে ৷  
 বলদেব-সুভদ্রাগ্রে নৃত্য করে রঙ্গে ॥ ১৯১ ॥
 
 tabe prabhu nija-bhakta-gaṇa lañā saṅge  
-baladeva-subhadrāgre nṛtya kare raṅge
+then  the Lord  His own devotees  taking  with Him  
+baladeva-subhadrāgre nṛtya kare raṅge  
+before Baladeva and Subhadrā  dance  does  joyfully
 
-(191) [not yet translated]
+(191) Then the Lord, with His devotees, joyfully danced before Baladeva and Subhadrā.
 
 তাঁহা নৃত্য করি’ জগন্নাথাগ্রে আইলা ৷  
 জগন্নাথ-আগে নৃত্য করিতে লাগিলা ॥ ১৯২ ॥
 
 tāṅhā nṛtya kari’ jagannāthāgre āilā  
-jagannātha-āge nṛtya karite lāgilā
+there  dance  having done  in front of Jagannātha  He came  
+jagannātha-āge nṛtya karite lāgilā  
+before Jagannātha  dance  to do  He began
 
-(192) [not yet translated]
+(192) After dancing there, He came back in front of Jagannātha and began to dance before Him.
 
 চলিয়া আইল রথ ‘বলগণ্ডি’-স্থানে ৷  
 জগন্নাথ রথ রাখি’ দেখে ডাহিনে-বামে ॥ ১৯৩ ॥
 
 caliyā āila ratha ‘balagaṇḍi’-sthāne  
-jagannātha ratha rākhi’ dekhe ḍāhine vāme
+moving  came  the chariot  to the place Balagaṇḍi  
+jagannātha ratha rākhi’ dekhe ḍāhine vāme  
+Jagannātha  the chariot  stopping  looks  right  left
 
-(193) [not yet translated]
+(193) Rolling on, the chariot reached Balagaṇḍi. There Jagannātha stopped His chariot and looked to the right and to the left.
 
 বামে — ‘বিপ্রশাসন’, নারিকেল-বন ৷  
 ডাহিনে ত’ পুষ্পোদ্যান যেন বৃন্দাবন ॥ ১৯৪ ॥
 
 vāme — ‘vipra-śāsana’ nārikela-vana  
-ḍāhine ta’ puṣpodyāna yena vṛndāvana
+on the left —  ‘the brāhmaṇa settlement’  a coconut grove  
+ḍāhine ta’ puṣpodyāna yena vṛndāvana  
+on the right  indeed  a flower garden  like  Vṛndāvana
 
-(194) [not yet translated]
+(194) On the left was the brāhmaṇa settlement (*vipra-śāsana*) with its coconut grove; on the right was a flower garden like Vṛndāvana.
 
 আগে নৃত্য করে গৌর লঞা ভক্তগণ ৷  
 রথ রাখি’ জগন্নাথ করেন দরশন ॥ ১৯৫ ॥
 
 āge nṛtya kare gaura lañā bhakta-gaṇa  
-ratha rākhi’ jagannātha karena daraśana
+in front  dance  does  Gaura  taking  the devotees  
+ratha rākhi’ jagannātha karena daraśana  
+the chariot  stopping  Jagannātha  makes  seeing
 
-(195) [not yet translated]
+(195) In front, Gaura danced with His devotees, and Jagannātha, having stopped His chariot, watched Him.
 
 সেই স্থলে ভোগ লাগে, — আছয়ে নিয়ম ৷  
 কোটি ভোগ জগন্নাথ করে আস্বাদন ॥ ১৯৬ ॥
 
 sei sthale bhoga lāge, — āchaye niyama  
-koṭi bhoga jagannātha kare āsvādana
+at that  place  the food offering  is offered  there is  a custom  
+koṭi bhoga jagannātha kare āsvādana  
+millions of  offerings  Jagannātha  makes  tasting
 
-(196) [not yet translated]
+(196) By custom, food is offered to Jagannātha at that place, and He tastes millions of offerings.
 
 জগন্নাথের ছোট-বড়, যত ভক্তগণ ৷  
 নিজ-নিজ উত্তম-ভোগ করে সমর্পণ ॥ ১৯৭ ॥
 
 jagannāthera choṭa-baḍa yata bhakta-gaṇa  
-nija-nija uttama-bhoga kare samarpaṇa
+of Jagannātha  humble and great  all  the devotees  
+nija-nija uttama-bhoga kare samarpaṇa  
+each his own  the best food  make  offering
 
-(197) [not yet translated]
+(197) All of Jagannātha’s devotees, humble and great, offered Him the best food they had.
 
 রাজা, রাজমহিষীবৃন্দ, পাত্র, মিত্রগণ ৷  
 নীলাচলবাসী যত ছোট বড় জন ॥ ১৯৮ ॥
 
 rājā, rāja-mahiṣī-vṛnda, pātra, mitra-gaṇa  
-nīlācala-vāsī yata choṭa-baḍa jana
+the king  the host of queens  ministers  friends  
+nīlācala-vāsī yata choṭa-baḍa jana  
+of Nīlācala  the residents  all  humble and great  people
 
-(198) [not yet translated]
+(198) The king, the queens, the ministers and friends, all the residents of Nīlācala, humble and great,
 
 নানা-দেশের দেশী যত যাত্রিক জন ৷  
 নিজ-নিজ-ভোগ তাঁহা করে সমর্পণ ॥ ১৯৯ ॥
 
 nānā-deśera deśī yata yātrika jana  
-nija-nija-bhoga tāṅhā kare samarpaṇa
+of various lands  natives  all  pilgrim  people  
+nija-nija-bhoga tāṅhā kare samarpaṇa  
+each his own food  there  make  offering
 
-(199) [not yet translated]
+(199) and all the pilgrims from many lands offered their own food there.
 
 আগে-পাছে, দুই পার্শ্বে উদ্যানের বনে ৷  
 যেই যাহা পায়, লাগায়, — নাহিক নিয়মে ॥ ২০০ ॥
 
 āge-pāche, dui pārśve udyānera vane  
-yei yāhā pāya, lāgāya, — nāhika niyame
+in front and behind  on both  sides  of the gardens  in the groves  
+yei yāhā pāya, lāgāya, — nāhika niyame  
+whoever  whatever (place)  finds  offers  there is no  rule
 
-(200) [not yet translated]
+(200) In front and behind, on both sides, in the groves of the gardens, each offered his food wherever he found a place; there was no fixed rule.
 
 ভোগের সময় লোকের মহা-ভিড় হৈল ৷  
 নৃত্য ছাড়ি’ মহাপ্রভু উপবনে গেল ॥ ২০১ ॥
 
 bhogera samaya lokera mahā bhiḍa haila  
-nṛtya chāḍi’ mahāprabhu upavane gela
+of the offering  at the time  of people  a great  crowd  formed  
+nṛtya chāḍi’ mahāprabhu upavane gela  
+the dance  leaving  Mahāprabhu  into a garden  went
 
-(201) [not yet translated]
+(201) At the time of the offering a great crowd gathered, so Mahāprabhu stopped dancing and went into a garden.
 
 প্রেমাবেশে মহাপ্রভু উপবন পাঞা ৷  
 পুষ্পোদ্যানে গৃহপিণ্ডায় রহিলা পড়িয়া ॥ ২০২ ॥
 
 premāveśe mahāprabhu upavana pāñā  
-puṣpodyāne gṛha-piṇḍāya rahilā paḍiyā
+absorbed in love  Mahāprabhu  the garden  reaching  
+puṣpodyāne gṛha-piṇḍāya rahilā paḍiyā  
+in the flower garden  on a house’s raised platform  remained  lying
 
-(202) [not yet translated]
+(202) Absorbed in love, Mahāprabhu entered the flower garden and lay down there on the raised platform (*piṇḍā*) of a house.
 
 নৃত্য-পরিশ্রমে প্রভুর দেহে ঘন ঘর্ম্ম ৷  
 সুগন্ধি শীতল-বায়ু করেন সেবন ॥ ২০৩ ॥
 
 nṛtya-pariśrame prabhura dehe ghana gharma  
-sugandhi śītala-vāyu karena sevana
+from the exertion of dancing  the Lord’s  on the body  heavy  sweat  
+sugandhi śītala-vāyu karena sevana  
+fragrant  cool breeze  He makes  enjoying
 
-(203) [not yet translated]
+(203) After the exertion of the dance His body was covered with sweat, and He enjoyed the cool, fragrant breeze.
 
 যত ভক্ত কীর্ত্তনীয়া আসিয়া আরাম ৷  
 প্রতিবৃক্ষতলে সবে করেন বিশ্রাম ॥ ২০৪ ॥
 
 yata bhakta kīrtanīyā āsiyā ārāma  
-prati-vṛkṣa-tale sabe karena viśrāma
+all  the devotees  kīrtana singers  coming  to the garden  
+prati-vṛkṣa-tale sabe karena viśrāma  
+under each tree  all  make  rest
 
-(204) [not yet translated]
+(204) All the devotees and kīrtana singers came into the garden and rested under the trees.
 
 এই ত’ কহিল প্রভুর মহাসংকীর্ত্তন ৷  
 জগন্নাথের আগে যৈছে করিল নর্ত্তন ॥ ২০৫ ॥
 
 ei ta’ kahila prabhura mahā-saṅkīrtana  
-jagannāthera āge yaiche karila nartana
+thus  I have told  of the Lord  the great saṅkīrtana  
+jagannāthera āge yaiche karila nartana  
+before Jagannātha  how  He did  dancing
 
-(205) [not yet translated]
+(205) Thus I have told of the Lord’s great *saṅkīrtana* and how He danced before Jagannātha.
 
 রথাগ্রেতে প্রভু যৈছে করিলা নর্ত্তন ৷  
 শ্রীচৈতন্যাষ্টকে রূপ-গোসাঞি কর্য্যাছে বর্ণন ॥ ২০৬ ॥
 
 rathāgrete prabhu yaiche karilā nartana  
-śrī caitanyāṣṭake rūpa-gosāñi karyāche varṇana
+in front of the chariot  the Lord  how  did  dancing  
+śrī caitanyāṣṭake rūpa-gosāñi karyāche varṇana  
+in the Śrī Caitanyāṣṭaka  Rūpa Gosāñi  has made  a description
 
-(206) [not yet translated]
+(206) How the Lord danced in front of the chariot, Rūpa Gosāñi has described in his *Śrī Caitanyāṣṭaka*:
 
 রথারূঢ়স্যারাদধিপদবি নীলাচলপতে-  
 রদভ্রপ্রেমোর্ম্মিস্ফুরিতনটনোল্লাসবিবশঃ ৷  
@@ -2163,27 +2235,35 @@ rathāgrete prabhu yaiche karilā nartana
 স চৈতন্যঃ কিং মে পুনরপি দৃশোর্যাস্যতি পদম্ ॥ ২০৭ ॥
 
 rathārūḍhasyārād adhipadavi nīlācala-pater  
+of the One seated on the chariot  near  on the main road  of Nīlācala  of the Lord  
 adabhra-premormi-sphurita-naṭanollāsa-vivaśaḥ  
+by abundant waves of love  throbbing  by the joy of dancing  overwhelmed  
 sa-harṣaṁ gāyadbhiḥ parivṛta-tanur vaiṣṇava-janaiḥ  
-sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam
+joyfully  by those singing  surrounded in body  by the Vaiṣṇavas  
+sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam  
+that  Caitanya  will  my  again  even  of the eyes  come  into the path
 
-(207) [not yet translated]
+(207) “Before the Lord of Nīlācala, seated on His chariot on the great road, He danced, overwhelmed by the joy of a dance that throbbed with abundant waves of love, surrounded by Vaiṣṇavas singing in delight. Will that Caitanya ever again come before my eyes?” (Stava-mālā, First Caitanyāṣṭaka, 7)
 
 ইহা যেই শুনে সেই শ্রীচৈতন্য পায় ৷  
 সুদৃঢ় বিশ্বাস-সহ প্রেমভক্তি হয় ॥ ২০৮ ॥
 
 ihā yei śune sei śrī caitanya pāya  
-sudṛḍha viśvāsa-saha prema-bhakti haya
+this  who  hears  he  Śrī  Caitanya  attains  
+sudṛḍha viśvāsa-saha prema-bhakti haya  
+firm  faith  with  loving devotion  arises
 
-(208) [not yet translated]
+(208) Whoever hears this attains Śrī Caitanya, and loving devotion with firm faith awakens in him.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২০৯ ॥
 
 śrī rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(209) [not yet translated]
+(209) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^m13-209]
 
 ---
 
@@ -2196,3 +2276,5 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^m13-136]: The same verse as Madhya 1.81; translation as there.
 
 [^m13-160]: The same verse as Ādi 4.23 and Madhya 8.89; translation as there. The heading in the Gauḍīya Maṭha edition gives the reference as Śrīmad-Bhāgavatam 10.82.31; the standard numbering is 10.82.44.
+
+[^m13-209]: The same colophon as Madhya 7.155; translation as there.

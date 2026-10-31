@@ -21,3 +21,18 @@
 | Yadupurī | Yadupurī | 13.154 (Dvārakā; as in `GLOSSARY-commentary.md`) |
 | vraja-vadhū | the maidens of Vraja | 13.158 |
 | udāsīna | indifferent (to the kingdom) | 13.157 |
+| bhāvodaya, bhāva-śānti, sandhi, śābalya | feelings arose and subsided, met and mingled | 13.172 (technical terms: *bhāvodaya*, *bhāva-śānti*, *bhāva-sandhi*, *bhāva-śābalya*) |
+| śuddha-hemācala | a mountain of pure gold | 13.173 (*hema* — gold; not the Himālaya) |
+| rāja-pātra-gaṇa | the royal officers | 13.175 |
+| cauguṇa-maṅgala | four times the blessing (of the pilgrimage) | 13.177 |
+| Haladhara | Haladhara (Balarāma) | 13.178 |
+| viṣayī | a worldly man | 13.182 |
+| Kāśīśvara | Kāśīśvara | 13.183 (the Lord’s servant; not Kāśī Miśra) |
+| hāḍira sevana | serving as a sweeper | 13.184 |
+| roṣābhāsa | a semblance of anger | 13.185 |
+| ‘haḍa haḍa’ | a rumbling “haḍa-haḍa” | 13.190 |
+| Balagaṇḍi; vipra-śāsana | Balagaṇḍi; the brāhmaṇa settlement (*vipra-śāsana*) | 13.193–194 |
+| koṭi bhoga | millions of offerings | 13.196 |
+| choṭa-baḍa | humble and great | 13.197–198 |
+| gṛha-piṇḍā | the raised platform (*piṇḍā*) of a house | 13.202 |
+| Śrī Caitanyāṣṭaka | *Śrī Caitanyāṣṭaka* (Stava-mālā, First Caitanyāṣṭaka, 7) | 13.206–207 |
