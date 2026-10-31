@@ -1402,21 +1402,28 @@ to home  attached  even  in the mind  may they rise  always  our
 তবে তোমার পূর্ণ কৃপা মানি ॥ ১৩৭ ॥
 
 anyera hṛdaya — mana, mora mana — vṛndāvana,  
+for others  the heart —  the mind  My  mind —  Vṛndāvana  
 ‘mane’ ‘vane’ eka kari’ jāni  
+‘mind’  ‘forest’  as one  making  I know  
 tāṅhā tomāra pada-dvaya, karāha yadi udaya,  
-tabe tomāra pūrṇa kṛpā māni
+there  Your  two feet  You make  if  rising  
+tabe tomāra pūrṇa kṛpā māni  
+then  Your  full  mercy  I consider
 
-(137) [not yet translated]
+(137) “For others the heart is the mind, but My mind is Vṛndāvana: I take *mana* (mind) and *vana* (forest) as one. If You make Your two feet appear there, I will count it Your full mercy.
 
 প্রাণনাথ, শুন মোর সত্য নিবেদন ৷  
 ব্রজ — আমার সদন, তাঁহা তোমার সঙ্গম,  
 না পাইলে না রহে জীবন ॥ ১৩৮ ॥
 
 prāṇa-nātha, śuna mora satya nivedana  
+O Lord of My life  hear  My  true  appeal  
 vraja — āmāra sadana, tāṅhā tomāra saṅgama,  
-nā pāile nā rahe jīvana
+Vraja —  My  home  there  with You  union  
+nā pāile nā rahe jīvana  
+not  obtaining  not  remains  life
 
-(138) [not yet translated]
+(138) O Lord of My life, hear My true appeal. Vraja is My home, and there I long to be with You; if I cannot have that, My life will not remain.
 
 পূর্ব্বে উদ্ধব-দ্বারে, এবে সাক্ষাৎ আমারে,  
 যোগ-জ্ঞানে কহিলা উপায় ৷  
@@ -1424,11 +1431,15 @@ nā pāile nā rahe jīvana
 মোরে ঐছে কহিতে না যুয়ায় ॥ ১৩৯ ॥
 
 pūrve uddhava-dvāre, ebe sākṣāt āmāre,  
+before  through Uddhava  now  directly  to Me  
 yoga-jñāne kahilā upāya  
+in yoga and knowledge  You told  the means  
 tumi — vidagdha, kṛpāmaya, jānaha āmāra hṛdaya,  
-more aiche kahite nā yuyāya
+You —  expert  merciful  You know  My  heart  
+more aiche kahite nā yuyāya  
+to Me  in this way  to speak  not  is fitting
 
-(139) [not yet translated]
+(139) Before through Uddhava, and now to My face, You have told Me that yoga and knowledge are the way. You are clever and merciful, and You know My heart: it is not fitting to speak to Me like this.
 
 চিত্ত কাঢ়ি’ তোমা হৈতে, বিষয়ে চাহি লাগাইতে,  
 যত্ন করি’ নারি কাঢ়িবারে ৷  
@@ -1436,11 +1447,15 @@ more aiche kahite nā yuyāya
 স্থানাস্থান না কর বিচারে ॥ ১৪০ ॥
 
 citta kāḍhi’ tomā haite, viṣaye cāhi lāgāite,  
+the mind  drawing away  from You  on worldly things  I want  to fix  
 yatna kari’ nāri kāḍhibāre  
+effort  making  I cannot  draw it away  
 tāre dhyāna śikṣā karāha, loka hāsāñā māra,  
-sthānāsthāna nā kara vicāre
+her  meditation  teaching  You give  people  making laugh  You kill  
+sthānāsthāna nā kara vicāre  
+the fitting and the unfitting  not  You make  consideration
 
-(140) [not yet translated]
+(140) I want to draw My mind away from You and fix it on worldly things, but however hard I try, I cannot draw it away. And You teach such a one to meditate! You kill her by making her a laughingstock; You do not consider what is fitting and what is not.
 
 নহে গোপী যোগেশ্বর, পদ-কমল তোমার,  
 ধ্যান করি’ পাইবে সন্তোষ ৷  
@@ -1448,11 +1463,15 @@ sthānāsthāna nā kara vicāre
 শুনি’ গোপীর আরো বাঢ়ে রোষ ॥ ১৪১ ॥
 
 nahe gopī yogeśvara, pada-kamala tomāra,  
+not are  the gopīs  masters of yoga  the lotus feet  Your  
 dhyāna kari’ pāibe santoṣa  
+meditation  doing  they will get  satisfaction  
 tomāra vākya-paripāṭī, tāra madhye kuṭināṭī,  
-śuni’ gopīra āro bāḍhe roṣa
+Your  polish of words  of it  within  duplicity  
+śuni’ gopīra āro bāḍhe roṣa  
+hearing  of the gopīs  still more  grows  anger
 
-(141) [not yet translated]
+(141) The gopīs are not masters of yoga, to find satisfaction in meditating on Your lotus feet. Your polished words hide duplicity (*kuṭināṭī*), and hearing them, the gopīs grow only angrier.
 
 দেহ-স্মৃতি নাহি যার, সংসারকূপ কাঁহা তার,  
 তাহা হৈতে না চাহে উদ্ধার ৷  
@@ -1460,11 +1479,15 @@ tomāra vākya-paripāṭī, tāra madhye kuṭināṭī,
 গোপীগণে নেহ’ তার পার ॥ ১৪২ ॥
 
 deha-smṛti nāhi yāra, saṁsāra-kūpa kāṅhā tāra,  
+of the body  memory  not is  whose  of worldly life  the well  where  for them  
 tāhā haite nā cāhe uddhāra  
+from that  not  they want  deliverance  
 viraha-samudra-jale, kāma-timiṅgile gile,  
-gopī-gaṇe neha’ tāra pāra
+of separation  of the ocean  in the waters  kāma’s timiṅgila  swallows  
+gopī-gaṇe neha’ tāra pāra  
+the gopīs  take  of it  across
 
-(142) [not yet translated]
+(142) Those who have no memory of their bodies — where is the well of worldly life for them? They do not want deliverance from it. In the waters of the ocean of separation the *timiṅgila* of *kāma*, their longing for You, is swallowing them: carry the gopīs across that ocean!
 
 বৃন্দাবন, গোবর্দ্ধন, যমুনা-পুলিন, বন,  
 সেই কুঞ্জে রাসাদিক লীলা ৷  
@@ -1472,11 +1495,15 @@ gopī-gaṇe neha’ tāra pāra
 বড় চিত্র, কেমনে পাসরিলা ॥ ১৪৩ ॥
 
 vṛndāvana, govardhana, yamunā-pulina, vana,  
+Vṛndāvana  Govardhana  the Yamunā’s bank  the forest  
 sei kuñje rāsādika līlā  
+in those  groves  the rāsa and other  pastimes  
 sei vrajera janagaṇa, mātā, pitā, bandhu-gaṇa,  
-baḍa citra, kemane pāsarilā
+of that  Vraja  the people  mother  father  friends  
+baḍa citra, kemane pāsarilā  
+very  strange  how  You forgot
 
-(143) [not yet translated]
+(143) Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? It is very strange!
 
 বিদগ্ধ, মৃদু, সদ্গুণ, সুশীল, স্নিগ্ধ, করুণ,  
 তুমি, তোমার নাহি দোষাভাস ৷  
@@ -1484,11 +1511,15 @@ baḍa citra, kemane pāsarilā
 সে — আমার দুর্দ্দৈব-বিলাস ॥ ১৪৪ ॥
 
 vidagdha, mṛdu, sad-guṇa, suśīla, snigdha, karuṇa,  
+expert  gentle  virtuous  well-mannered  affectionate  compassionate  
 tumi, tomāra nāhi doṣābhāsa  
+You  in You  not is  a semblance of fault  
 tabe ye tomāra mana, nāhi smare vraja-jana,  
-se — āmāra durdaiva-vilāsa
+yet  that  Your  mind  not  remembers  the people of Vraja  
+se — āmāra durdaiva-vilāsa  
+that —  of My  ill fortune  the play
 
-(144) [not yet translated]
+(144) You are clever, gentle, virtuous, well-mannered, affectionate and compassionate; in You there is not even a shadow of fault. That Your mind no longer remembers the people of Vraja is only the play of My ill fortune.
 
 না গণি আপন-দুঃখ, দেখি’ ব্রজেশ্বরী-মুখ,  
 ব্রজজনের হৃদয় বিদরে ৷  
@@ -1496,11 +1527,15 @@ se — āmāra durdaiva-vilāsa
 কেন জীয়াও দুঃখ সহাইবারে ? ॥ ১৪৫ ॥
 
 nā gaṇi āpana-duḥkha, dekhi’ vrajeśvarī-mukha,  
+not  I count  My own sorrow  seeing  of Vraja’s queen  the face  
 vraja-janera hṛdaya vidare  
+of the people of Vraja  the heart  breaks  
 kibā māra’ vraja-vāsī, kibā jīyāo vraje āsi’,  
-kena jīyāo duḥkha sahāibāre?
+either  You kill  the residents of Vraja  or  revive  to Vraja  coming  
+kena jīyāo duḥkha sahāibāre?  
+why  You keep alive  sorrow  to make them endure
 
-(145) [not yet translated]
+(145) I do not count My own sorrow; but seeing the face of the queen of Vraja, the people of Vraja are heartbroken. Either kill the residents of Vraja, or come to Vraja and bring them back to life. Why do You keep them alive only to suffer?
 
 তোমার যে অন্য বেশ, অন্য সঙ্গ, অন্য দেশ,  
 ব্রজজনে কভু নাহি ভায় ৷  
@@ -1508,11 +1543,15 @@ kena jīyāo duḥkha sahāibāre?
 ব্রজজনের কি হবে উপায় ॥ ১৪৬ ॥
 
 tomāra ye anya veśa, anya saṅga, anya deśa,  
+Your  that  other  dress  other  company  other  land  
 vraja-jane kabhu nāhi bhāya  
+to the people of Vraja  ever  not  pleases  
 vraja-bhūmi chāḍite nāre, tomā nā dekhile mare,  
-vraja-janera ki habe upāya
+the land of Vraja  to leave  not  they can  You  not  seeing  they die  
+vraja-janera ki habe upāya  
+of the people of Vraja  what  will be  the way
 
-(146) [not yet translated]
+(146) Your other dress, Your other company and Your other land never please the people of Vraja. They cannot leave the land of Vraja, yet without seeing You they die. What will become of them?
 
 তুমি — ব্রজের জীবন, ব্রজরাজের প্রাণধন,  
 তুমি — সকল ব্রজের সম্পদ্ ৷  
@@ -1520,11 +1559,15 @@ vraja-janera ki habe upāya
 ব্রজে উদয় করাও নিজ-পদ ॥ ১৪৭ ॥
 
 tumi — vrajera jīvana, vraja-rājera prāṇa-dhana,  
+You —  of Vraja  the life  of the king of Vraja  the treasure of life  
 tumi — sakala vrajera sampad  
+You —  of all  Vraja  the wealth  
 kṛpārdra tomāra mana, āsi’ jīyāo vraja-jana,  
-vraje udaya karāo nija-pada
+moist with mercy  Your  mind  coming  revive  the people of Vraja  
+vraje udaya karāo nija-pada  
+in Vraja  rising  make  Your own feet
 
-(147) [not yet translated]
+(147) You are the life of Vraja and the treasure of the life of Vraja’s king; You are the wealth of all Vraja. Your heart is soft with mercy: come and revive the people of Vraja, and make Your feet appear in Vraja once again.”
 
 শুনিয়া রাধিকা-বাণী, ব্রজপ্রেম মনে আনি,  
 ভাবে ব্যাকুলিত দেহ-মন ৷  
@@ -1532,21 +1575,28 @@ vraje udaya karāo nija-pada
 করে কৃষ্ণ তাঁরে আশ্বাসন ॥ ১৪৮ ॥
 
 śuniyā rādhikā-vāṇī, vraja-prema mane āni,  
+having heard  Rādhikā’s words  the love of Vraja  to the mind  bringing  
 bhāve vyākulita deha-mana  
+with feeling  agitated  body and mind  
 vraja-lokera prema śuni’, āpanāke ‘ṛṇī’ māni’,  
-kare kṛṣṇa tāṅre āśvāsana
+of the people of Vraja  the love  hearing  Himself  ‘a debtor’  considering  
+kare kṛṣṇa tāṅre āśvāsana  
+makes  Kṛṣṇa  to Her  consolation
 
-(148) [not yet translated]
+(148) Hearing Rādhikā’s words and remembering the love of Vraja, Kṛṣṇa was shaken in body and mind. Hearing of the love of the people of Vraja, He considered Himself their debtor and began to console Her:
 
 প্রাণপ্রিয়ে, শুন, মোর এই সত্য-বচন ৷  
 তোমা-সবার স্মরণে, ঝুরোঁ মুঞি রাত্রিদিনে,  
 মোর দুঃখ না জানে কোন জন ॥ ১৪৯ ॥
 
 prāṇa-priye, śuna, mora ei satya-vacana  
+O beloved, dear as life  hear  My  these  true words  
 tomā-sabāra smaraṇe, jhuroṅ muñi rātri-dine,  
-mora duḥkha nā jāne kona jana
+of all of you  in remembering  pine in tears  I  night and day  
+mora duḥkha nā jāne kona jana  
+My  sorrow  not  knows  any  person
 
-(149) [not yet translated]
+(149) “My beloved, dear to Me as My life, hear these true words of Mine. Remembering all of you, I weep night and day, and no one knows My sorrow.
 
 ব্রজবাসী যত জন, মাতা, পিতা, সখাগণ,  
 সবে হয় মোর প্রাণসম ৷  
@@ -1554,11 +1604,15 @@ mora duḥkha nā jāne kona jana
 তুমি মোর জীবনের জীবন ॥ ১৫০ ॥
 
 vraja-vāsī yata jana, mātā, pitā, sakhā-gaṇa,  
+of Vraja the residents  all  people  mother  father  friends  
 sabe haya mora prāṇa-sama  
+all  are  to Me  equal to life  
 tāṅra madhye gopī-gaṇa, sākṣāt mora jīvana,  
-tumi mora jīvanera jīvana
+of them  among  the gopīs  directly  My  life  
+tumi mora jīvanera jīvana  
+You  of My  life  the life
 
-(150) [not yet translated]
+(150) All the people of Vraja — My mother, My father and My friends — are as dear to Me as life. Among them the gopīs are My very life, and You are the life of My life.
 
 তোমা-সবার প্রেমরসে, আমাকে করিল বশে,  
 আমি তোমার অধীন কেবল ৷  
@@ -1566,11 +1620,15 @@ tumi mora jīvanera jīvana
 রাখিয়াছে দুর্দ্দৈব প্রবল ॥ ১৫১ ॥
 
 tomā-sabāra prema-rase, āmāke karila vaśe,  
+of all of you  by the rasa of love  Me  made  subject  
 āmi tomāra adhīna kevala  
+I  yours  dependent  only  
 tomā-sabā chāḍāñā, āmā dūra-deśe lañā,  
-rākhiyāche durdaiva prabala
+from all of you  tearing away  Me  to a distant land  taking  
+rākhiyāche durdaiva prabala  
+has kept  ill fortune  powerful
 
-(151) [not yet translated]
+(151) The *rasa* of your love has made Me subject to you all; I am yours alone. It is a powerful ill fortune that has torn Me away from you, taken Me to a distant land and kept Me there.
 
 প্রিয়া প্রিয়-সঙ্গহীনা, প্রিয় প্রিয়া-সঙ্গ বিনা,  
 নাহি জীয়ে, — এ সত্য প্রমাণ ৷  
@@ -1578,11 +1636,15 @@ rākhiyāche durdaiva prabala
 এই ভয়ে দুঁহে রাখে প্রাণ ॥ ১৫২ ॥
 
 priyā priya-saṅga-hīnā, priya priyā-saṅga vinā,  
+the beloved  without the lover’s company  the lover  of the beloved’s company  without  
 nāhi jīye, — e satya pramāṇa  
+not  lives  this  true  proof  
 mora daśā śone yabe, tāṅra ei daśā habe,  
-ei bhaye duṅhe rākhe prāṇa
+My  state  hears  when  her  this  state  will be  
+ei bhaye duṅhe rākhe prāṇa  
+in this  fear  both  keep  life
 
-(152) [not yet translated]
+(152) A beloved without her lover’s company, or a lover without his beloved’s, cannot live — this is proven truth. Yet each fears: “When she hears of my state, she will come to the same state”; and for this fear both keep themselves alive.
 
 সেই সতী প্রেমবতী, প্রেমবান্ সেই পতি,  
 বিয়োগে যে বাঞ্ছে প্রিয়-হিতে ৷  
@@ -1590,11 +1652,15 @@ ei bhaye duṅhe rākhe prāṇa
 সেই দুই মিলে অচিরাতে ॥ ১৫৩ ॥
 
 sei satī premavatī, premavān sei pati,  
+that  faithful wife  loving  loving  that  husband  
 viyoge ye vāñche priya-hite  
+in separation  who  wish  the beloved’s  good  
 nā gaṇe āpana-duḥkha, vāñche priyajana-sukha,  
-sei dui mile acirāte
+not  count  their own sorrow  wish  the beloved’s  happiness  
+sei dui mile acirāte  
+those  two  meet  soon
 
-(153) [not yet translated]
+(153) A loving, faithful wife and a loving husband who in separation wish only for each other’s good, who do not count their own sorrow and want only the beloved’s happiness — such a pair soon meet again.
 
 রাখিতে তোমার জীবন, সেবি আমি নারায়ণ,  
 তাঁর শক্ত্যে আসি নিতি-নিতি ৷  
@@ -1602,11 +1668,15 @@ sei dui mile acirāte
 তাঁহা তুমি মানহ মোর স্ফূর্ত্তি ॥ ১৫৪ ॥
 
 rākhite tomāra jīvana, sevi āmi nārāyaṇa,  
+to keep  Your  life  serve  I  Nārāyaṇa  
 tāṅra śaktye āsi niti-niti  
+by His  power  I come  day after day  
 tomā-sane krīḍā kari’, punaḥ yāi yadu-purī,  
-tāṅhā tumi mānaha mora sphūrti
+with You  play  having made  again  I go  to Yadupurī  
+tāṅhā tumi mānaha mora sphūrti  
+that  You  consider  My  sphūrti
 
-(154) [not yet translated]
+(154) To keep You alive I worship Nārāyaṇa, and by His power I come to You every day. After playing with You I go back to Yadupurī, and You take this to be only a vision of Me (*sphūrti*).
 
 মোর ভাগ্য মো-বিষয়ে, তোমার যে প্রেম হয়ে,  
 সেই প্রেম — পরম প্রবল ৷  
@@ -1614,11 +1684,15 @@ tāṅhā tumi mānaha mora sphūrti
 প্রকটেহ আনিবে সত্বর ॥ ১৫৫ ॥
 
 mora bhāgya mo-viṣaye, tomāra ye prema haye,  
+My  fortune  for Me  Your  that  love  is  
 sei prema — parama prabala  
+that  love —  supremely  powerful  
 lukāñā āmā āne, saṅga karāya tomā-sane,  
-prakaṭeha ānibe satvara
+secretly  Me  it brings  company  it gives  with You  
+prakaṭeha ānibe satvara  
+openly too  it will bring  soon
 
-(155) [not yet translated]
+(155) My good fortune is the love You have for Me. That love is supremely powerful: it brings Me to You secretly and unites Me with You, and soon it will bring Me openly too.
 
 যাদবের বিপক্ষ, যত দুষ্ট কংসপক্ষ,  
 তাহা আমি কৈলুঁ সব ক্ষয় ৷  
@@ -1626,11 +1700,15 @@ prakaṭeha ānibe satvara
 আইলাম আমি, জানিহ নিশ্চয় ॥ ১৫৬ ॥
 
 yādavera vipakṣa, yata duṣṭa kaṁsa-pakṣa,  
+of the Yādavas  the enemies  all  wicked  Kaṁsa’s party  
 tāhā āmi kailuṅ saba kṣaya  
+them  I  made  all  destruction  
 āche dui-cāri jana, tāhā māri’ vṛndāvana,  
-āilāma āmi, jāniha niścaya
+remain  two or four  people  them  killing  to Vṛndāvana  
+āilāma āmi, jāniha niścaya  
+come  I  know  for certain
 
-(156) [not yet translated]
+(156) I have destroyed all the wicked enemies of the Yādavas, the whole party of Kaṁsa. Only two or four remain; when I have killed them, I will come to Vṛndāvana — know this for certain.
 
 সেই শত্রুগণ হৈতে, ব্রজজন রাখিতে,  
 রহি রাজ্যে উদাসীন হঞা ৷  
@@ -1638,11 +1716,15 @@ tāhā āmi kailuṅ saba kṣaya
 যদুগণের সন্তোষ লাগিয়া ॥ ১৫৭ ॥
 
 sei śatru-gaṇa haite, vraja-jana rākhite,  
+those  enemies  from  the people of Vraja  to protect  
 rahi rājye udāsīna hañā  
+I stay  in the kingdom  indifferent  being  
 yebā strī-putra-dhane, kari rājya āvaraṇe,  
-yadu-gaṇera santoṣa lāgiyā
+whatever  with wives, sons, wealth  I make  of the kingdom  the covering  
+yadu-gaṇera santoṣa lāgiyā  
+of the Yadus  satisfaction  for the sake of
 
-(157) [not yet translated]
+(157) To protect the people of Vraja from those enemies I remain in the kingdom, but indifferent to it. And if I fill the kingdom with wives, sons and wealth, it is only to please the Yadus.
 
 তোমার যে প্রেমগুণ, করে আমা আকর্ষণ,  
 আনিবে আমা দিন দশ বিশে ৷  
@@ -1650,11 +1732,15 @@ yadu-gaṇera santoṣa lāgiyā
 বিলসিব রজনী-দিবসে ॥ ১৫৮ ॥
 
 tomāra ye prema-guṇa, kare āmā ākarṣaṇa,  
+Your  that  quality of love  makes  Me  attraction  
 ānibe āmā dina daśa biśe  
+will bring  Me  in days  ten  twenty  
 punaḥ āsi’ vṛndāvane, vraja-vadhū tomā-sane,  
-vilasiba rajanī-divase
+again  coming  to Vṛndāvana  the maidens of Vraja  with You  
+vilasiba rajanī-divase  
+I will sport  night and day
 
-(158) [not yet translated]
+(158) The quality of Your love draws Me, and it will bring Me back within ten or twenty days. Then, coming again to Vṛndāvana, I will sport night and day with You, the maidens of Vraja.”
 
 এত তাঁরে কহি’ কৃষ্ণ, ব্রজে যাইতে সতৃষ্ণ,  
 এক শ্লোক পড়ি’ শুনাইল ৷  
@@ -1662,77 +1748,99 @@ vilasiba rajanī-divase
 কৃষ্ণপ্রাপ্ত্যে প্রতীতি হইল ॥ ১৫৯ ॥
 
 eta tāṅre kahi’ kṛṣṇa, vraje yāite satṛṣṇa,  
+so much  to Her  having said  Kṛṣṇa  to Vraja  to go  eager  
 eka śloka paḍi’ śunāila  
+one  verse  reciting  He made her hear  
 sei śloka śuni’ rādhā, khaṇḍila sakala bādhā,  
-kṛṣṇa-prāptye pratīti haila
+that  verse  hearing  Rādhā  were dispelled  all  obstacles  
+kṛṣṇa-prāptye pratīti haila  
+in attaining Kṛṣṇa  confidence  arose
 
-(159) [not yet translated]
+(159) Having said all this to Her, Kṛṣṇa, eager to go to Vraja, recited a verse for Her to hear. When Rādhā heard it, all Her doubts were dispelled, and She felt sure that She would attain Kṛṣṇa.
 
 ময়ি ভক্তির্হি ভূতানামমৃতত্বায় কল্পতে ৷  
 দিষ্ট্যা যদাসীন্মৎস্নেহো ভবতীনাং মদাপনঃ ॥ ১৬০ ॥
 
 mayi bhaktir hi bhūtānām  
+to Me  devotion  indeed  of beings  
 amṛtatvāya kalpate  
+for immortality  is fit  
 diṣṭyā yad āsīn mat-sneho  
-bhavatīnāṁ mad-āpanaḥ
+by good fortune  which  arose  for Me  the love  
+bhavatīnāṁ mad-āpanaḥ  
+of you  bringing Me
 
-(160) [not yet translated]
+(160) “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^m13-160]
 
 এই সব অর্থ প্রভু স্বরূপের সনে ৷  
 রাত্রি-দিনে ঘরে বসি’ করে আস্বাদনে ॥ ১৬১ ॥
 
 ei saba artha prabhu svarūpera sane  
-rātri-dine ghare vasi’ kare āsvādane
+these  all  meanings  the Lord  Svarūpa  with  
+rātri-dine ghare vasi’ kare āsvādane  
+night and day  in the room  sitting  He makes  relishing
 
-(161) [not yet translated]
+(161) Night and day the Lord would sit in His room with Svarūpa and relish all these meanings.
 
 নৃত্যকালে সেইভাবে আবিষ্ট হঞা ৷  
 শ্লোক পড়ি’ নাচে জগন্নাথ-মুখ চাঞা ॥ ১৬২ ॥
 
 nṛtya-kāle sei bhāve āviṣṭa hañā  
-śloka paḍi’ nāce jagannātha-mukha cāñā
+at the time of the dance  in that  mood  absorbed  becoming  
+śloka paḍi’ nāce jagannātha-mukha cāñā  
+the verse  reciting  He dances  at Jagannātha’s face  looking
 
-(162) [not yet translated]
+(162) At the time of the dance, absorbed in that mood, He recited the verse and danced, gazing at Jagannātha’s face.
 
 স্বরূপ-গোসাঞির ভাগ্য না যায় বর্ণন ৷  
 প্রভুতে আবিষ্ট যাঁর কায়, বাক্য, মন ॥ ১৬৩ ॥
 
 svarūpa-gosāñira bhāgya nā yāya varṇana  
-prabhute āviṣṭa yāṅra kāya, vākya, mana
+of Svarūpa Gosāñi  the fortune  not  can  be described  
+prabhute āviṣṭa yāṅra kāya, vākya, mana  
+in the Lord  absorbed  whose  body  words  mind
 
-(163) [not yet translated]
+(163) The good fortune of Svarūpa Gosāñi cannot be described, for his body, words and mind were absorbed in the Lord.
 
 স্বরূপের ইন্দ্রিয়ে প্রভুর নিজেন্দ্রিয়গণ ৷  
 আবিষ্ট হঞা করে গান আস্বাদন ॥ ১৬৪ ॥
 
 svarūpera indriye prabhura nijendriya-gaṇa  
-āviṣṭa hañā kare gāna āsvādana
+in Svarūpa’s senses  the Lord’s  own senses  
+āviṣṭa hañā kare gāna āsvādana  
+entering  becoming  make  of the song  relishing
 
-(164) [not yet translated]
+(164) The Lord’s own senses entered Svarūpa’s senses, and through them He relished the song.
 
 ভাবের আবেশে কভু ভূমিতে বসিয়া ৷  
 তর্জ্জনীতে ভূমে লিখে অধোমুখ হঞা ॥ ১৬৫ ॥
 
 bhāvera āveśe kabhu bhūmite vasiyā  
-tarjanīte bhūme likhe adhomukha hañā
+of feeling  in the absorption  sometimes  on the ground  sitting  
+tarjanīte bhūme likhe adhomukha hañā  
+with the forefinger  on the ground  He writes  face downward  becoming
 
-(165) [not yet translated]
+(165) Sometimes, overwhelmed by feeling, He would sit on the ground with His face lowered and write on the ground with His forefinger.
 
 অঙ্গুলিতে ক্ষত হবে জানি’ দামোদর ৷  
 ভয়ে নিজ-করে নিবারয়ে প্রভু-কর ॥ ১৬৬ ॥
 
 aṅgulite kṣata habe jāni’ dāmodara  
-bhaye nija-kare nivāraye prabhu-kara
+on the finger  injury  will be  knowing  Dāmodara  
+bhaye nija-kare nivāraye prabhu-kara  
+in fear  with his own hand  stops  the Lord’s hand
 
-(166) [not yet translated]
+(166) Knowing that the finger would be injured, Dāmodara anxiously stopped the Lord’s hand with his own.
 
 প্রভুর ভাবানুরূপ স্বরূপের গান ৷  
 যবে যেই রস, তাহা করে মূর্ত্তিমান্ ॥ ১৬৭ ॥
 
 prabhura bhāvānurūpa svarūpera gāna  
-yabe yei rasa tāhā kare mūrtimān
+of the Lord  suited to the mood  Svarūpa’s  singing  
+yabe yei rasa tāhā kare mūrtimān  
+whenever  whatever  rasa  that  he makes  embodied
 
-(167) [not yet translated]
+(167) Svarūpa’s singing always matched the Lord’s mood: whatever *rasa* the Lord felt at the moment, his song brought it to life.
 
 শ্রীজগন্নাথের দেখে শ্রীমুখ-কমল ৷  
 তাহার উপর সুন্দর নয়ন যুগল ॥ ১৬৮ ॥
@@ -1741,19 +1849,25 @@ yabe yei rasa tāhā kare mūrtimān
 মাল্য, বস্ত্র, দিব্য অলঙ্কার, পরিমল ॥ ১৬৯ ॥
 
 śrī jagannāthera dekhe śrī mukha-kamala  
+of Śrī Jagannātha  He sees  the beautiful  lotus face  
 tāhāra upara sundara nayana-yugala  
+of it  upon  beautiful  pair of eyes  
 sūryera kiraṇe mukha kare jhalamala  
-mālya, vastra, divya alaṅkāra, parimala
+of the sun  in the rays  the face  makes  glittering  
+mālya, vastra, divya alaṅkāra, parimala  
+garlands  clothes  divine  ornaments  fragrance
 
-(168–169) [not yet translated]
+(168–169) The Lord gazed at the lotus face of Śrī Jagannātha with its two beautiful eyes, His face glittering in the rays of the sun, and at His garlands, His clothes, His divine ornaments and His fragrance.
 
 প্রভুর হৃদয়ে আনন্দসিন্ধু উথলিল ৷  
 উন্মাদ, ঝঞ্ঝা-বাত তৎক্ষণে উঠিল ॥ ১৭০ ॥
 
 prabhura hṛdaye ānanda-sindhu uthalila  
-unmāda, jhañjhā-vāta tat-kṣaṇe uṭhila
+of the Lord  in the heart  of bliss  the ocean  surged  
+unmāda, jhañjhā-vāta tat-kṣaṇe uṭhila  
+madness  a storm wind  at that moment  arose
 
-(170) [not yet translated]
+(170) An ocean of bliss surged in the Lord’s heart, and at once madness rose in it like a storm wind.
 
 আনন্দোন্মাদে উঠায় ভাবের তরঙ্গ ৷  
 নানা-ভাব-সৈন্যে উপজিল যুদ্ধ-রঙ্গ ॥ ১৭১ ॥
@@ -2080,3 +2194,5 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^m13-121]: The same verse as Madhya 1.58; translation as there.
 
 [^m13-136]: The same verse as Madhya 1.81; translation as there.
+
+[^m13-160]: The same verse as Ādi 4.23 and Madhya 8.89; translation as there. The heading in the Gauḍīya Maṭha edition gives the reference as Śrīmad-Bhāgavatam 10.82.31; the standard numbering is 10.82.44.
