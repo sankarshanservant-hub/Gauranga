@@ -236,9 +236,9 @@ In the seven *kīrtana* groups the Lord — independent, His will unchecked — 
 
 ## 67
 
-> Subheading: “A transcendental reality is never within the range of the material” —
+> Subheading: “A transcendental reality is never within the range of the material”[^67-1] —
 
-In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dance, and at the wedding with the queens one form appeared as many. In the same way, in Gaura's pastimes Bhagavān Gaurasundara appeared in many forms before the devotees of the seven different *kīrtana* groups and before the eyes of Pratāparudra and the other onlookers. No one but the devotees is entitled to see His supramundane pastimes.
+In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dance, and at the wedding with the queens one form appeared as many. In the same way, in Gaura's pastimes Bhagavān Gaurasundara appeared in many forms before the devotees of the seven different *kīrtana* groups and before the eyes of Pratāparudra and the other onlookers. No one but the devotees is entitled to see His supramundane pastimes. The evidence[^67-2] that Kṛṣṇa appeared simultaneously in many forms in the *rāsa* dance and at the wedding with the queens is found in the *Śrīmad-Bhāgavatam*.
 
 ## 68
 
@@ -259,3 +259,59 @@ In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dan
 ## 76
 
 > Subheading: The Lord offers prayers to Jagannātha —
+
+## 77
+
+**go-brāhmaṇa-hitāya** (to Him who wishes well to cows and to all things that bring auspiciousness) **brahmaṇya-devāya** (to Him who is worshiped by those devoted to brahminical culture) **jagad-dhitāya** (to the abode of the people's welfare) **govindāya** **kṛṣṇāya** **namaḥ namaḥ namaḥ** (obeisances again and again).
+
+## 78
+
+**asau** **devakī-nandanaḥ** (renowned as such) **devaḥ** **jayati jayati** (exists as the highest of all); **vṛṣṇi-vaṁśa-pradīpaḥ** (He who illumines the *vaṁśa*, the family, of the Vṛṣṇis, the Yadus — who makes the Vṛṣṇi dynasty shine) **kṛṣṇaḥ** **jayati jayati**; **megha-śyāmalaḥ** (whose complexion is like that of a fresh dark cloud — dark like a sapphire (*indranīla*) and a cloud) **komalāṅgaḥ** (Kṛṣṇa, whose body is most tender, as stated in the verses beginning *yat te sujāta-caraṇāmburuham*[^78-1] (“Your feet, beautiful as lotuses…”)) **jayati jayati**; **pṛthvī-bhāra-nāśaḥ** (the hero who removes the heavy burden of the earth, oppressed by those hostile to Kṛṣṇa and others) **mukundaḥ** (Hari, the giver of liberation) **jayati jayati**.
+
+## 79
+
+> Subheading: Glory to the transcendental, ever-youthful Kāmadeva —
+
+The great devotee (*mahā-bhāgavata*) Śrī Śukadeva, at the end of the Tenth Canto, briefly describes Śrī Kṛṣṇa's pastimes and declares Śrī Kṛṣṇa's supremacy over all:
+
+**jana-nivāsaḥ** (He whose dwelling is among people — among the cowherds, the Yādavas and others; or He who is the abode, the shelter, of people, the *jīvas*; or He who dwells in the *jīvas* as the Antaryāmī) **devakī-janma-vādaḥ** (of whom it is only said that He was born of Devakī; or He in whom the “birth” from the two Devakīs — the wives of Nanda and Vasudeva — is only a statement (*vāda*), an accepted view; in reality He is unborn) **yadu-vara-pariṣat** (He whose assembly (*pariṣat*), His circle of servants, consists of the best of the Yadus — the cowherds living in Vraja and the *kṣatriyas* living in the cities) **svaiḥ dorbhiḥ** (with His own arms: though able to destroy by His will alone, He does it with His arms for the sake of play; or with His arms, that is, His devotees — Arjuna and others) **adharmam** (the hosts of *asuras*, the enemies of *dharma*) **asyan** (casting away, removing, killing), **sthira-cara-vṛjina-ghnaḥ** (He who destroys the *vṛjina*, the misery of worldly existence, of the *sthira*, the nonmoving, and the *cara*, the moving beings; or He who destroys the misery of separation from Him felt by His servants living in Vraja and in the cities) **vraja-pura-vanitānām** (of the women of Vraja and of the women of the cities — of those women full of *anurāga* who live in Mathurā and Dvārakā) **kāma-devam** (it is *kāma*, and it is also *deva*, because it “plays” — it seeks to conquer *saṁsāra*; or *deva* means transcendental: it is His own nature, His self-manifest *svarūpa*) **susmita-śrī-mukhena** (with His face, beautiful by its very nature, adorned with a lovely smile and with what that smile bespeaks — grace, playfulness and so on) **vardhayan** (kindling — such a Śrī Kṛṣṇa) **jayati** (exists as the highest of all).
+
+## 80
+
+> Subheading: The true nature of the soul, the *jīva*, which the word “I” denotes —
+
+**aham** (I — by my nature a soul, a *jīva*) **vipraḥ** (a *brāhmaṇa* who, in a worldly conception, prides himself on three births: *śaukra*, by seed; *sāvitra*, through the Gāyatrī; and *daikṣa*, through initiation) **na** (*na asmi* — am not), **nara-patiḥ** (a *kṣatriya*) **ca** **na**, **vaiśyaḥ** **na**, **śūdraḥ** **ca** **na** (that is, I do not identify with a *varṇa*); (further) **aham** (the *jīva*) **varṇī** (a *brahmacārī*) **na**, **gṛha-patiḥ** (a householder) **ca** **na**, **vanasthaḥ** (a *vānaprastha*) **na**, **yatiḥ** (a *sannyāsī*, belonging to the fourth *āśrama*) **vā** **na** (*na asmi* — that is, I do not identify with an *āśrama*). **kintu** (if one asks, “Who then am I?” — the answer is: I am by nature a *jīva*) **prodyan-nikhila-paramānanda-pūrṇāmṛtābdheḥ** (of the ocean of nectar, full of all supreme bliss, which rises splendidly, that is, appears and manifests itself) **gopī-bhartuḥ** (of the Beloved of the *gopīs* — for He alone is Svayam Bhagavān, that is, the *svayaṁ-rūpa*) **pada-kamalayoḥ** (of the lotus feet) **dāsa-dāsānudāsaḥ** (a servant of Kṛṣṇa, beyond the three *guṇas*, established in serving the servants of the Vaiṣṇavas).
+
+## 81
+
+> Subheading: Following the Lord, the devotees bow to Bhagavān —
+
+## 82
+
+> Subheading: The Lord's wild dancing described —
+
+*Alāta-cakra*: when a burning coal is whirled very fast, it appears to be one unbroken wheel of fire, though in reality there is no wheel of fire. In the same way Mahāprabhu, dancing wildly, though a single form, was seen everywhere, as though He were “all-pervading.”
+
+## 84
+
+> Subheading: The Lord's eight *sāttvika-vikāras* —
+
+## 86
+
+> Subheading: Nitāi tries to protect [the Lord] —
+
+## 87
+
+> Subheading: Behind the Lord, Advaita calls out the name of Hari without pause —
+
+## 88
+
+> Subheading: To protect the Lord from the touch of the crowd, three rings surround Him —
+
+*Mahābala*: Śrī Baladeva.
+
+*Tina maṇḍala* (three rings): to keep the crowd from crushing Mahāprabhu, the devotees placed Him in the center and, encircling Him in rings, formed three separate circles. In the first circle was Nityānanda Prabhu with other devotees. Around the first circle Kāśīśvara, Mukunda and others again formed a ring. And around the second circle King Pratāparudra had his men form a ring, and so made the third circle.
+
+## 91
+
+> Subheading: Leaning on Haricandana's shoulder, the king watches the Lord dance —

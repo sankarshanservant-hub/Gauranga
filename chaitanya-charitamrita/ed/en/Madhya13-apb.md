@@ -43,3 +43,23 @@ Seven groups: the group of Kulīnagrāma, the group of Śāntipura and the group
 ## 52
 
 In the *rāsa* dance and at the wedding with the queens, Śrī Kṛṣṇa simultaneously appeared as “many” forms (*prakāśa*). In the same way Śrī Kṛṣṇa Caitanya, displaying that same power, “manifested” Himself in each group. The people of every group thought, “The Lord is in our group, not in any other.”
+
+## 77
+
+I bow to that Supreme Truth who is Brahmaṇya-deva, the good of cows and *brāhmaṇas*, the welfare of the world, Kṛṣṇa and Govinda.
+
+## 78
+
+All glory to this God, the son of Devakī! All glory to Kṛṣṇa, the lamp of the Vṛṣṇi dynasty! All glory to Kṛṣṇa, dark as a fresh rain cloud, whose body is tender! All glory to Mukunda, who removes the burden of the earth!
+
+## 79
+
+All glory to Kṛṣṇacandra — the abode of people, renowned as born from Devakī's womb (*devakī-janma-vāda*), the head of the assembly of the Yadus. With His own arms He destroys *adharma*, He takes away the sins of moving and nonmoving beings, and with His sweetly smiling face He increases the love (*kāma*) of the women of Vraja-pura.
+
+## 80
+
+I am not a *brāhmaṇa*, not a *kṣatriya* king, not a *vaiśya* or a *śūdra*; I am not a *brahmacārī*, a householder, a *vānaprastha* or a *sannyāsī*. I identify myself only as “a servant of the servants of the lotus feet of Śrī Kṛṣṇa,” the nectar-ocean full of all supreme bliss, which has blossomed forth (that is, is eternally self-manifest).
+
+## 82
+
+“He whirled like a firebrand wheel (*alāta*)”: like a wheel of burning (blazing) coal, Mahāprabhu began to spin round and round (to whirl) like a wheel.
