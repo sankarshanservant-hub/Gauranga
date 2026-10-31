@@ -54,7 +54,7 @@ All glory to this God, the son of Devakī! All glory to Kṛṣṇa, the lamp of
 
 ## 79
 
-All glory to Kṛṣṇacandra — the abode of people, renowned as born from Devakī's womb (*devakī-janma-vāda*), the head of the assembly of the Yadus. With His own arms He destroys *adharma*, He takes away the sins of moving and nonmoving beings, and with His sweetly smiling face He increases the love (*kāma*) of the women of Vraja-pura.
+All glory to Kṛṣṇacandra — the abode of people, renowned as born from Devakī's womb (*devakī-janma-vāda*), the head of the assembly of the Yadus. With His own arms He destroys *adharma*, He takes away the sins of moving and nonmoving beings, and with His sweetly smiling face He increases the loving desire (*kāma*) of the women of Vraja-pura.
 
 ## 80
 

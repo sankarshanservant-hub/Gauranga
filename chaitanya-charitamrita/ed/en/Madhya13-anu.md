@@ -266,7 +266,7 @@ In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dan
 
 ## 78
 
-**asau** **devakī-nandanaḥ** (renowned as such) **devaḥ** **jayati jayati** (exists as the highest of all); **vṛṣṇi-vaṁśa-pradīpaḥ** (He who illumines the *vaṁśa*, the family, of the Vṛṣṇis, the Yadus — who makes the Vṛṣṇi dynasty shine) **kṛṣṇaḥ** **jayati jayati**; **megha-śyāmalaḥ** (whose complexion is like that of a fresh dark cloud — dark like a sapphire (*indranīla*) and a cloud) **komalāṅgaḥ** (Kṛṣṇa, whose body is most tender, as stated in the verses beginning *yat te sujāta-caraṇāmburuham*[^78-1] (“Your feet, beautiful as lotuses…”)) **jayati jayati**; **pṛthvī-bhāra-nāśaḥ** (the hero who removes the heavy burden of the earth, oppressed by those hostile to Kṛṣṇa and others) **mukundaḥ** (Hari, the giver of liberation) **jayati jayati**.
+**asau** **devakī-nandanaḥ** (renowned as such) **devaḥ** **jayati jayati** (exists as the highest of all); **vṛṣṇi-vaṁśa-pradīpaḥ** (He who illumines the *vaṁśa*, the family, of the Vṛṣṇis, the Yadus — who makes the Vṛṣṇi dynasty shine) **kṛṣṇaḥ** **jayati jayati**; **megha-śyāmalaḥ** (whose complexion is like that of a fresh dark cloud — dark like a sapphire (*indranīla*) and a cloud) **komalāṅgaḥ** (Kṛṣṇa, whose body is most tender, as stated in the verses beginning *yat te sujāta-caraṇāmburuham*[^78-1] (“Your feet, beautiful as lotuses…”)) **jayati jayati**; **pṛthvī-bhāra-nāśaḥ** (the hero who removes the heavy burden of the earth, oppressed by those who are not devotees of Kṛṣṇa, and others) **mukundaḥ** (Hari, the giver of liberation) **jayati jayati**.
 
 ## 79
 
@@ -740,7 +740,7 @@ In Utkala a *brāhmaṇa* village is called a “*vipra-śāsana*.”
 
 **rathārūḍhasya** (standing on the chariot) **nīlācala-pateḥ** (of Jagannāthadeva) **ārāt** (near) **adhipadavi** (on the main road) **adabhra-premormi-sphurita-naṭanollāsa-vivaśaḥ** (*adabhreṇa*, abundant, *premormiṇā*, by the wave of *prema*, *sphuritaḥ*, reflected, *yaḥ naṭanollāsaḥ*, the joy of the dancing pastime, *tena vivaśaḥ*, overcome by fatigue from it) **sa-harṣam** (joyfully) **gāyadbhiḥ** (engaged in *kīrtana*) **vaiṣṇava-janaiḥ** (by the devotees) **parivṛta-tanuḥ** (He whose form is surrounded — such a one) **saḥ** **caitanyaḥ** (Gauracandra) **punar api** **kim** **me** (*mama* — my) **dṛśoḥ** **padam** (the path of the eyes) **yāsyati** (*prāpsyati* — will reach)?
 
-Śrīla Prabodhānanda Sarasvatī Tridaṇḍipāda, in his *Śrī Rādhā-rasa-sudhā-nidhi*, has also described the beauty of the *kīrtana* and dance of Śrī Śrī Gaurahari with His associates: “We praise Śrī Gauracandra, surrounded by His singing associates. The hairs standing on end all over His body put to shame the beauty of a blossoming *nīpa* (*kadamba*) flower. Raising both arms high, He loudly calls out again and again, ‘Hari! Hari!’ He dances swiftly and sprinkles the earth with streams of tears.”
+Śrīla Prabodhānanda Sarasvatī Tridaṇḍipāda, in his *Śrī Rādhā-rasa-sudhā-nidhi*,[^207-2] has also described the beauty of the *kīrtana* and dance of Śrī Śrī Gaurahari with His associates: “We praise Śrī Gauracandra, surrounded by His singing associates. The hairs standing on end all over His body put to shame the beauty of a blossoming *nīpa* (*kadamba*) flower. Raising both arms high, He loudly calls out again and again, ‘Hari! Hari!’ He dances swiftly and sprinkles the earth with streams of tears.”
 
 ## 208
 
@@ -750,20 +750,22 @@ In Utkala a *brāhmaṇa* village is called a “*vipra-śāsana*.”
 
 ---
 
-[^67-1]: A quotation from CC Madhya 9.195.
+[^67-1]: The edition names no source; this is CC Madhya 9.195.
 
 [^67-2]: The edition (scan checked) reads *praṇāma* (obeisance); by the sense and by verse 67 (*śrī-bhāgavata-śāstra tāhāte pramāṇa*) it should be *pramāṇa* (evidence) — apparently a misprint.
 
-[^78-1]: *Śrīmad-Bhāgavatam* 10.31.19.
+[^78-1]: The edition names no source; this is *Śrīmad-Bhāgavatam* 10.31.19.
 
 [^118-119-1]: The edition (scan checked) reads *gaura-līlāya* (“in the pastimes of Gaura”), which does not fit the sense here; apparently a misprint for *pura-līlāya* (in the pastimes in the city, that is, in Mathurā and Dvārakā) or for *gaurava-līlāya* (in pastimes of awe and reverence). Translated by the sense.
 
 [^142-1]: So in the edition (scan checked): 11.35.19; the Eleventh Canto of the *Śrīmad-Bhāgavatam* has only 31 chapters, so the reference is apparently corrupt.
 
-[^142-2]: *Bhakti-rasāmṛta-sindhu* 1.2.285.
+[^142-2]: The edition names only the *Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, Sādhana-bhakti-laharī, without a number; this is 1.2.285.
 
 [^155-1]: The edition (scan checked) reads *śrī-dhārā* — an obvious misprint for *śrī-rādhā*.
 
 [^196-1]: In the edition this verse is numbered 197, so that the number 197 appears twice (scan checked).
 
 [^207-1]: Unclear passage: the edition (scan checked) reads *tan-madhye duiṭī prathamāṣṭakera saptama-śloka* (literally, “among them two — the seventh verse of the first *aṣṭaka*”); translated by the sense.
+
+[^207-2]: So in the edition (scan checked): *śrī-rādhā-rasa-sudhā-nidhi*.
