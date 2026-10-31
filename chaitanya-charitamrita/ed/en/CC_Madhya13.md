@@ -709,17 +709,21 @@ before it  the Lord  how  performed  dance
 আপন-উদ্যোগে নাচাইল ভক্তগণ ॥ ৭১ ॥
 
 ei-mata kīrtana prabhu karila kata-kṣaṇa  
-āpana-udyoge nācāila bhakta-gaṇa
+in this way  kīrtana  the Lord  performed  for some time  
+āpana-udyoge nācāila bhakta-gaṇa  
+by His own effort  made dance  the devotees
 
-(71) [not yet translated]
+(71) In this way the Lord led the *kīrtana* for some time and, by His own effort, made the devotees dance.
 
 আপনি নাচিতে যবে প্রভুর মন হৈল ৷  
 সাত সম্প্রদায় তবে একত্র করিল ॥ ৭২ ॥
 
 āpani nācite yabe prabhura mana haila  
-sāta sampradāya tabe ekatra karila
+Himself  to dance  when  of the Lord  the mind  became  
+sāta sampradāya tabe ekatra karila  
+seven  groups  then  together  made
 
-(72) [not yet translated]
+(72) When the Lord wished to dance Himself, He brought the seven groups together.
 
 শ্রীবাস, রামাই, রঘু, গোবিন্দ, মুকুন্দ ৷  
 হরিদাস, গোবিন্দানন্দ, মাধব, গোবিন্দ ॥ ৭৩ ॥
@@ -728,37 +732,49 @@ sāta sampradāya tabe ekatra karila
 স্বরূপের সঙ্গে দিল এই নব জন ॥ ৭৪ ॥
 
 śrīvāsa, rāmāi, raghu, govinda, mukunda  
+Śrīvāsa  Rāmāi  Raghu  Govinda  Mukunda  
 haridāsa, govindānanda, mādhava, govinda  
+Haridāsa  Govindānanda  Mādhava  Govinda  
 uddaṇḍa-nṛtye prabhura yabe haila mana  
-svarūpera saṅge dila ei nava jana
+for the high-leaping dance  of the Lord  when  became  the mind  
+svarūpera saṅge dila ei nava jana  
+with Svarūpa  together  He gave  these  nine  persons
 
-(73–74) [not yet translated]
+(73–74) When the Lord wished to dance His wild, leaping dance, He put nine devotees together with Svarūpa: Śrīvāsa, Rāmāi, Raghu, Govinda, Mukunda, Haridāsa, Govindānanda, Mādhava and Govinda.
 
 এই দশ জন প্রভুর সঙ্গে গায়, ধায় ৷  
 আর সব সম্প্রদায় চারি দিকে গায় ॥ ৭৫ ॥
 
 ei daśa jana prabhura saṅge gāya, dhāya  
-āra saba sampradāya cāri dike gāya
+these  ten  persons  the Lord  with  sing  run  
+āra saba sampradāya cāri dike gāya  
+other  all  groups  on four  sides  sing
 
-(75) [not yet translated]
+(75) These ten sang with the Lord and ran along with Him, and all the other groups sang on every side.
 
 দণ্ডবৎ করি’ প্রভু যুড়ি’ দুই হাত ৷  
 ঊর্ধ্বমুখে স্তুতি করে দেখি’ জগন্নাথ ॥ ৭৬ ॥
 
-daṇḍavat kari, prabhu yuḍi’ dui hāta  
-ūrdhva-mukhe stuti kare dekhi’ jagannātha
+daṇḍavat kari’ prabhu yuḍi’ dui hāta  
+prostration  making  the Lord  joining  two  hands  
+ūrdhva-mukhe stuti kare dekhi’ jagannātha  
+with upturned face  prayers  offers  looking at  Jagannātha
 
-(76) [not yet translated]
+(76) The Lord offered His obeisances, joined His palms and, with His face turned upward to Jagannātha, offered prayers:
 
 নমো ব্রহ্মণ্যদেবায় গোব্রাহ্মণহিতায় চ ৷  
 জগদ্ধিতায় কৃষ্ণায় গোবিন্দায় নমো নমঃ ॥ ৭৭ ॥
 
 namo brahmaṇya-devāya  
+obeisance  to the Lord worshipped by brāhmaṇas  
 go-brāhmaṇa-hitāya ca  
+to the benefactor of cows and brāhmaṇas  and  
 jagad-dhitāya kṛṣṇāya  
-govindāya namo namaḥ
+to the benefactor of the world  to Kṛṣṇa  
+govindāya namo namaḥ  
+to Govinda  obeisance  obeisance
 
-(77) [not yet translated]
+(77) “I offer My obeisances to Kṛṣṇa, the Lord worshipped by the brāhmaṇas, the well-wisher of cows and brāhmaṇas and the benefactor of the whole world. Again and again I bow to Govinda.” (Viṣṇu Purāṇa 1.19.65)
 
 জয়তি জয়তি দেবো দেবকীনন্দনোঽসৌ  
 জয়তি জয়তি কৃষ্ণো বৃষ্ণিবংশপ্রদীপঃ ৷  
@@ -766,11 +782,15 @@ govindāya namo namaḥ
 জয়তি জয়তি পৃথ্বীভারনাশো মুকুন্দঃ ॥ ৭৮ ॥
 
 jayati jayati devo devakī-nandano ’sau  
+glory  glory  the Lord  son of Devakī  He  
 jayati jayati kṛṣṇo vṛṣṇi-vaṁśa-pradīpaḥ  
+glory  glory  Kṛṣṇa  the lamp of the Vṛṣṇi dynasty  
 jayati jayati megha-śyāmalaḥ komalāṅgo  
-jayati jayati pṛthvī-bhāra-nāśo mukundaḥ
+glory  glory  dark as a raincloud  tender-limbed  
+jayati jayati pṛthvī-bhāra-nāśo mukundaḥ  
+glory  glory  remover of the earth’s burden  Mukunda
 
-(78) [not yet translated]
+(78) “Glory, glory to the Lord, the son of Devakī! Glory, glory to Kṛṣṇa, the lamp of the Vṛṣṇi dynasty! Glory, glory to Him whose tender form is dark like a raincloud! Glory, glory to Mukunda, who removes the burden of the earth!” (Mukunda-mālā 3)
 
 জয়তি জননিবাসো দেবকীজন্মবাদো  
 যদুবরপরিষৎ স্বৈর্দোর্ভিরস্যন্নধর্ম্মম্ ৷  
@@ -778,11 +798,15 @@ jayati jayati pṛthvī-bhāra-nāśo mukundaḥ
 ব্রজপুরবনিতানাং বর্দ্ধয়ন্ কামদেবম্ ॥ ৭৯ ॥
 
 jayati jana-nivāso devakī-janma-vādo  
+glory  the refuge of all beings  known as born of Devakī  
 yadu-vara-pariṣat svair dorbhir asyann adharmam  
+by the best of the Yadus attended  by His own  arms  casting out  irreligion  
 sthira-cara-vṛjina-ghnaḥ susmita-śrī-mukhena  
-vraja-pura-vanitānāṁ vardhayan kāma-devam
+of the unmoving and moving the destroyer of ills  by the smiling beautiful face  
+vraja-pura-vanitānāṁ vardhayan kāma-devam  
+of the women of Vraja’s villages  increasing  love (lit. “the god of love”)
 
-(79) [not yet translated]
+(79) “Glory to Him, the refuge of all beings, who is known as the son of Devakī! Attended by the best of the Yadus, with His own arms He casts out irreligion. He destroys the misfortune of all beings, moving and unmoving, and with His beautiful smiling face He makes love for Him grow ever stronger in the women of Vraja.” (Śrīmad-Bhāgavatam 10.90.48)
 
 নাহং বিপ্রো ন চ নরপতির্নাপি বৈশ্যো ন শূদ্রো  
 নাহং বর্ণী ন চ গৃহপতির্নো বনস্থো যতির্বা ৷  
@@ -790,203 +814,255 @@ vraja-pura-vanitānāṁ vardhayan kāma-devam
 র্গোপীভর্ত্তুঃ পদকমলয়োর্দাসদাসানুদাসঃ ॥ ৮০ ॥
 
 nāhaṁ vipro na ca nara-patir nāpi vaiśyo na śūdro  
+not I  a brāhmaṇa  not  and  a king  nor  a vaiśya  not  a śūdra  
 nāhaṁ varṇī na ca gṛha-patir no vanastho yatir vā  
+not I  a brahmacārī  not  and  a householder  not  a forest-dweller  a sannyāsī  or  
 kintu prodyan-nikhila-paramānanda-pūrṇāmṛtābdher  
-gopī-bhartuḥ pada-kamalayor dāsa-dāsānudāsaḥ
+but  of the shining forth, all-embracing, supreme-bliss-filled  ocean of nectar  
+gopī-bhartuḥ pada-kamalayor dāsa-dāsānudāsaḥ  
+of the Lord of the gopīs  of the two lotus feet  the servant of the servant’s servant
 
-(80) [not yet translated]
+(80) “I am not a brāhmaṇa, not a king, not a vaiśya or a śūdra. I am not a brahmacārī, not a householder, not a vānaprastha or a sannyāsī. I am only a servant of the servant of the servant of the lotus feet of the Lord of the gopīs — the ocean of nectar, brimming with the supreme bliss that shines forth in all its fullness.” (Padyāvalī 74)
 
 এত পড়ি’ পুনরপি করিল প্রণাম ৷  
 যোড়হাতে ভক্তগণ বন্দে ভগবান্ ॥ ৮১ ॥
 
 eta paḍi’ punarapi karila praṇāma  
-yoḍa-hāte bhakta-gaṇa vande bhagavān
+this  reciting  again  He made  obeisance  
+yoḍa-hāte bhakta-gaṇa vande bhagavān  
+with joined palms  the devotees  pray  to the Lord
 
-(81) [not yet translated]
+(81) After reciting these verses He bowed down again, and the devotees, with joined palms, offered prayers to the Lord.
 
 উদ্দণ্ড নৃত্য প্রভু করিয়া হুঙ্কার ৷  
 চক্র-ভ্রমি ভ্রমে যৈছে অলাত-আকার ॥ ৮২ ॥
 
 uddaṇḍa nṛtya prabhu kariyā huṅkāra  
-cakra-bhrami bhrame yaiche alāta-ākāra
+high-leaping  dance  the Lord  making  loud roars  
+cakra-bhrami bhrame yaiche alāta-ākāra  
+wheel-like turning  He whirls  like  a circle of fire
 
-(82) [not yet translated]
+(82) The Lord danced His wild, leaping dance with loud roars. He whirled round like a wheel, like the circle of fire traced by a whirling firebrand.
 
 নৃত্যে প্রভুর যাঁহা যাঁহা পড়ে পদতল ৷  
 সসাগর-শৈল মহী করে টলমল ॥ ৮৩ ॥
 
 nṛtye prabhura yāṅhā yāṅhā paḍe pada-tala  
-sasāgara-śaila mahī kare ṭalamala
+in the dance  of the Lord  wherever  wherever  falls  the sole of the foot  
+sasāgara-śaila mahī kare ṭalamala  
+with its seas and mountains  the earth  makes  trembling
 
-(83) [not yet translated]
+(83) Wherever the soles of His feet struck the ground in the dance, the earth with its seas and mountains trembled.
 
 স্তম্ভ, স্বেদ, পুলক, অশ্রু, কম্প, বৈবর্ণ্য ৷  
 নানা-ভাবে বিবশতা, গর্ব্ব, হর্ষ, দৈন্য ॥ ৮৪ ॥
 
 stambha, sveda, pulaka, aśru, kampa, vaivarṇya  
-nānā bhāve vivaśatā, garva, harṣa, dainya
+stupor  perspiration  hair standing on end  tears  trembling  change of color  
+nānā-bhāve vivaśatā, garva, harṣa, dainya  
+from various feelings  helplessness  pride  joy  humility
 
-(84) [not yet translated]
+(84) Stupor, perspiration, hair standing on end, tears, trembling and change of color appeared in Him; and, from His many feelings, helplessness, pride, joy and humility.
 
 আছাড় খাঞা পড়ে ভূমে গড়ি’ যায় ৷  
 সুবর্ণ-পর্ব্বত যৈছে ভূমেতে লোটায় ॥ ৮৫ ॥
 
 āchāḍa khāñā paḍe bhūme gaḍi’ yāya  
-suvarṇa-parvata yaiche bhūmete loṭāya
+heavily  falling  He falls  to the ground  rolling  goes  
+suvarṇa-parvata yaiche bhūmete loṭāya  
+a golden mountain  like  on the ground  rolls
 
-(85) [not yet translated]
+(85) He fell heavily to the ground and rolled about, like a golden mountain rolling on the earth.
 
 নিত্যানন্দপ্রভু দুই হাত প্রসারিয়া ৷  
 প্রভুরে ধরিতে চাহে আশপাশ ধাঞা ॥ ৮৬ ॥
 
 nityānanda-prabhu dui hāta prasāriyā  
-prabhure dharite cāhe āśa-pāśa dhāñā
+Nityānanda Prabhu  two  arms  stretching out  
+prabhure dharite cāhe āśa-pāśa dhāñā  
+the Lord  to catch  wants  here and there  running
 
-(86) [not yet translated]
+(86) Nityānanda Prabhu, both arms outstretched, ran here and there, trying to catch the Lord.
 
 প্রভু-পাছে বুলে আচার্য্য করিয়া হুঙ্কার ৷  
 ‘হরিবোল’ ‘হরিবোল’ বলে বার বার ॥ ৮৭ ॥
 
 prabhu-pāche bule ācārya kariyā huṅkāra  
-‘hari-bola’ ’hari-bola’ bale bāra bāra
+behind the Lord  walks  the Ācārya  making  loud roars  
+‘hari-bola’ ‘hari-bola’ bale bāra bāra  
+“Haribol”  “Haribol”  says  again  again
 
-(87) [not yet translated]
+(87) Advaita Ācārya followed behind the Lord with loud roars, crying again and again, “Haribol! Haribol!”
 
 লোক নিবারিতে হৈল তিন মণ্ডল ৷  
 প্রথম-মণ্ডলে নিত্যানন্দ মহাবল ॥ ৮৮ ॥
 
 loka nivārite haila tina maṇḍala  
-prathama-maṇḍale nityānanda mahā-bala
+the people  to hold back  there were  three  circles  
+prathama-maṇḍale nityānanda mahā-bala  
+in the first circle  Nityānanda  of great strength
 
-(88) [not yet translated]
+(88) Three circles were formed to hold back the crowd. In the first was Nityānanda, of great strength.
 
 কাশীশ্বর-মুকুন্দাদি যত ভক্তগণ ৷  
 হাতাহাতি করি’ হৈল দ্বিতীয় আবরণ ॥ ৮৯ ॥
 
-kāśīśvara mukundādi yata bhakta-gaṇa  
-hātāhāti kari’ haila dvitīya āvaraṇa
+kāśīśvara-mukundādi yata bhakta-gaṇa  
+Kāśīśvara, Mukunda and the others  all  the devotees  
+hātāhāti kari’ haila dvitīya āvaraṇa  
+hand in hand  making  became  the second  ring
 
-(89) [not yet translated]
+(89) Kāśīśvara, Mukunda and all the other devotees joined hands and formed the second ring.
 
 বাহিরে প্রতাপরুদ্র লঞা পাত্রগণ ৷  
 মণ্ডল হঞা করে লোক নিবারণ ॥ ৯০ ॥
 
 bāhire pratāparudra lañā pātra-gaṇa  
-maṇḍala hañā kare loka nivāraṇa
+outside  Pratāparudra  taking  his officers  
+maṇḍala hañā kare loka nivāraṇa  
+a circle  forming  makes  of the people  holding back
 
-(90) [not yet translated]
+(90) Outside them, Pratāparudra and his officers formed a circle and held back the crowd.
 
 হরিচন্দনের স্কন্ধে হস্ত আলম্বিয়া ৷  
 প্রভুর নৃত্য দেখে রাজা আবিষ্ট হঞা ॥ ৯১ ॥
 
 haricandanera skandhe hasta ālambiyā  
-prabhura nṛtya dekhe rājā āviṣṭa hañā
+of Haricandana  on the shoulder  the hand  resting  
+prabhura nṛtya dekhe rājā āviṣṭa hañā  
+of the Lord  the dance  watches  the king  absorbed  becoming
 
-(91) [not yet translated]
+(91) Resting his hand on Haricandana’s shoulder, the king watched the Lord’s dance, completely absorbed.
 
 হেনকালে শ্রীনিবাস প্রেমাবিষ্ট-মন ৷  
 রাজার আগে রহি’ দেখে প্রভুর নর্ত্তন ॥ ৯২ ॥
 
 hena-kāle śrīnivāsa premāviṣṭa-mana  
-rājāra āge rahi’ dekhe prabhura nartana
+at that time  Śrīnivāsa  absorbed in prema at heart  
+rājāra āge rahi’ dekhe prabhura nartana  
+of the king  in front  standing  watches  of the Lord  the dancing
 
-(92) [not yet translated]
+(92) Meanwhile Śrīnivāsa, his heart absorbed in *prema*, stood in front of the king, watching the Lord dance.
 
 রাজার আগে হরিচন্দন দেখে শ্রীনিবাস ৷  
 হস্তে তাঁরে স্পর্শি’ কহে, — হও এক-পাশ ॥ ৯৩ ॥
 
 rājāra āge haricandana dekhe śrīnivāsa  
-haste tāṅre sparśi’ kahe, — hao eka-pāśa
+of the king  in front  Haricandana  sees  Śrīnivāsa  
+haste tāṅre sparśi’ kahe, — hao eka-pāśa  
+with the hand  him  touching  says  be  to one side
 
-(93) [not yet translated]
+(93) Haricandana saw Śrīnivāsa in front of the king. He touched him with his hand and said, “Move aside.”
 
 নৃত্যাবেশে শ্রীনিবাস কিছুই না জানে ৷  
 বার বার ঠেলে, তেঁহো ক্রোধ হৈল মনে ॥ ৯৪ ॥
 
 nṛtyāveśe śrīnivāsa kichui nā jāne  
-bāra bāra ṭhele, teṅho krodha haila mane
+in the absorption of the dance  Śrīnivāsa  anything  not  knows  
+bāra bāra ṭhele, teṅho krodha haila mane  
+again  again  he pushes  he  anger  became  in the mind
 
-(94) [not yet translated]
+(94) Absorbed in the dance, Śrīnivāsa was aware of nothing. Haricandana pushed him again and again, and Śrīnivāsa grew angry.
 
 চাপড় মারিয়া তারে কৈল নিবারণ ৷  
 চাপড় খাঞা ক্রুদ্ধ হৈলা হরিচন্দন ॥ ৯৫ ॥
 
 cāpaḍa māriyā tāre kaila nivāraṇa  
-cāpaḍa khāñā kruddha hailā haricandana
+a slap  giving  him  made  stopping  
+cāpaḍa khāñā kruddha hailā haricandana  
+the slap  receiving  angry  became  Haricandana
 
-(95) [not yet translated]
+(95) He stopped him with a slap, and at the slap Haricandana became angry.
 
 ক্রুদ্ধ হঞা তাঁরে কিছু চাহে বলিবারে ৷  
 আপনি প্রতাপরুদ্র নিবারিল তারে ॥ ৯৬ ॥
 
 kruddha hañā tāṅre kichu cāhe balibāre  
-āpani pratāparudra nivārila tāre
+angry  becoming  to him  something  wants  to say  
+āpani pratāparudra nivārila tāre  
+himself  Pratāparudra  stopped  him
 
-(96) [not yet translated]
+(96) In his anger Haricandana was about to say something to him, but Pratāparudra himself stopped him:
 
 ভাগ্যবান্ তুমি — ইঁহার হস্ত-স্পর্শ পাইলা ৷  
 আমার ভাগ্যে নাহি, তুমি কৃতার্থ হৈলা ॥ ৯৭ ॥
 
 bhāgyavān tumi — iṅhāra hasta-sparśa pāilā  
-āmāra bhāgye nāhi, tumi kṛtārtha hailā
+fortunate  you  his  of the hand  the touch  you received  
+āmāra bhāgye nāhi, tumi kṛtārtha hailā  
+in my  fortune  it is not  you  fulfilled  have become
 
-(97) [not yet translated]
+(97) “You are fortunate: you have received the touch of his hand. That good fortune is not mine — your life is fulfilled.”
 
 প্রভুর নৃত্য দেখি’ লোকে হৈল চমৎকার ৷  
 অন্য আছুক্, জগন্নাথের আনন্দ অপার ॥ ৯৮ ॥
 
 prabhura nṛtya dekhi’ loke haila camatkāra  
-anya āchuk, jagannāthera ānanda apāra
+of the Lord  the dance  seeing  in the people  was  amazement  
+anya āchuk, jagannāthera ānanda apāra  
+let alone others  of Jagannātha  the bliss  boundless
 
-(98) [not yet translated]
+(98) Seeing the Lord’s dance, the people were amazed. What to speak of others — even Jagannātha’s bliss knew no bounds.
 
 রথ স্থির কৈল, আগে না করে গমন ৷  
 অনিমেষ-নেত্রে করে নৃত্য দরশন ॥ ৯৯ ॥
 
 ratha sthira kaila, āge nā kare gamana  
-animeṣa-netre kare nṛtya daraśana
+the chariot  still  He made  forward  not  makes  going  
+animeṣa-netre kare nṛtya daraśana  
+with unblinking eyes  makes  of the dance  watching
 
-(99) [not yet translated]
+(99) He stopped the chariot and would not go forward; with unblinking eyes He watched the dance.
 
 সুভদ্রা-বলরামের হৃদয়ে উল্লাস ৷  
 নৃত্য দেখি’ দুই জনার শ্রীমুখেতে হাস ॥ ১০০ ॥
 
 subhadrā-balarāmera hṛdaye ullāsa  
-nṛtya dekhi’ dui janāra śrī mukhete hāsa
+of Subhadrā and Balarāma  in the hearts  delight  
+nṛtya dekhi’ dui janāra śrī-mukhete hāsa  
+the dance  seeing  of the two  on the holy faces  a smile
 
-(100) [not yet translated]
+(100) Subhadrā and Balarāma rejoiced at heart; seeing the dance, the two of them smiled.
 
 উদ্দণ্ড নৃত্যে প্রভুর অদ্ভুত বিকার ৷  
 অষ্ট সাত্ত্বিক ভাব-উদয় হয় সমকাল ॥ ১০১ ॥
 
 uddaṇḍa nṛtye prabhura adbhuta vikāra  
-aṣṭa sāttvika bhāva-udaya haya sama-kāla
+in the high-leaping  dance  of the Lord  wonderful  transformations  
+aṣṭa sāttvika bhāva-udaya haya sama-kāla  
+eight  sāttvika  the rising of bhāvas  happens  at the same time
 
-(101) [not yet translated]
+(101) In the Lord’s wild, leaping dance wonderful transformations appeared: all eight *sāttvika* ecstasies arose in Him at once.
 
 মাংস-ব্রণ সম রোমবৃন্দ পুলকিত ৷  
 শিমুলীর বৃক্ষ যেন কণ্টক-বেষ্টিত ॥ ১০২ ॥
 
 māṁsa-vraṇa sama roma-vṛnda pulakita  
-śimulīra vṛkṣa yena kaṇṭaka-veṣṭita
+like boils on the flesh  like  the multitude of hairs  standing erect  
+śimulīra vṛkṣa yena kaṇṭaka-veṣṭita  
+of the śimula  tree  as  by thorns covered
 
-(102) [not yet translated]
+(102) The hairs of His body stood erect on pores swollen like boils, and He looked like a *śimula* tree covered with thorns.
 
 এক এক দন্তের কম্প দেখিতে লাগে ভয় ৷  
 লোকে জানে, দন্ত সব খসিয়া পড়য় ॥ ১০৩ ॥
 
 eka eka dantera kampa dekhite lāge bhaya  
-loke jāne, danta saba khasiyā paḍaya
+one  one  of the tooth  the trembling  seeing  arises  fear  
+loke jāne, danta saba khasiyā paḍaya  
+the people  think  the teeth  all  loosening  will fall out
 
-(103) [not yet translated]
+(103) His teeth chattered so violently that people were frightened to see it; they thought all His teeth would fall out.
 
 সর্ব্বাঙ্গে প্রস্বেদ ছুটে তাতে রক্তোদ্গম ৷  
 ‘জজ গগ’ ‘জজ গগ’ — গদ্গদ-বচন ॥ ১০৪ ॥
 
 sarvāṅge prasveda chuṭe tāte raktodgama  
-‘jaja gaga’ ‘jaja gaga’ — gadgada-vacana
+on all the limbs  perspiration  flows  with it  blood oozing  
+‘jaja gaga’ ‘jaja gaga’ — gadgada-vacana  
+“jaja gaga”  “jaja gaga”  faltering speech
 
-(104) [not yet translated]
+(104) Perspiration poured from His whole body, and blood oozed out with it. His voice faltered: “Jaja gaga, jaja gaga.”
 
 জলযন্ত্র-ধারা যৈছে বহে অশ্রুজল ৷  
 আশ-পাশে লোক যত ভিজিল সকল ॥ ১০৫ ॥
