@@ -336,11 +336,11 @@ two  two  mṛdaṅgas  counting  there were  eight  men
 (33) There were twenty-four singers in four groups, and eight more men played the mṛdaṅgas, two in each group.
 
 তবে মহাপ্রভু মনে বিচার করিয়া ৷  
-চারি সম্প্রদায় দিল গায়ন বাঁটিয়া ॥ ৩৪ ॥
+চারি সম্প্রদায়ে দিল গায়ন বাঁটিয়া ॥ ৩৪ ॥
 
 tabe mahāprabhu mane vicāra kariyā  
 then  Mahāprabhu  in His mind  consideration  making  
-cāri sampradāya dila gāyana bām̐ṭiyā  
+cāri sampradāye dila gāyana bām̐ṭiyā  
 among four  groups  gave  the singers  dividing
 
 (34) Then, after thinking it over, Mahāprabhu divided the singers into four groups.[^17]
