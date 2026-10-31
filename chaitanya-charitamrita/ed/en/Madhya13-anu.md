@@ -476,8 +476,70 @@ See Madhya 1.81.
 
 > Subheading: It is fitting for Kṛṣṇa to appear only in Vṛndāvana — the pure heart filled with the desire to please Kṛṣṇa's senses —
 
-A worldly person calls “mind” the heart, whose nature is to form and to reject resolves (*saṅkalpa* and *vikalpa*). But I have given up the worldly desire to enjoy, and I know My heart, devoted to Kṛṣṇa's service, as “Vṛndāvana,” the place of Śrī Rādhā and Kṛṣṇa's pastimes.
+A worldly person calls “mind” the heart, whose nature is to form and to reject resolves (*saṅkalpa* and *vikalpa*). But I have given up the worldly desire to enjoy, and I know My heart, devoted to Kṛṣṇa's service, as “Vṛndāvana,” the place of Śrī Rādhā and Kṛṣṇa's pastimes. The mind free from striving after worldly objects I know to be “nondifferent” from Vṛndāvana.
 
 ## 138
 
 > Subheading: The pure heart longs for Kṛṣṇa's company —
+
+## 139
+
+> Subheading: The desire to please Kṛṣṇa's senses loosens the knowledge that points to His majesty —
+
+*Uddhava-dvāre* (through Uddhava): see *Śrīmad-Bhāgavatam* 10.47.
+
+## 140
+
+> Subheading: In exclusive love for Kṛṣṇa, absorption in anything else is impossible —
+
+*Viṣaya*: things or affairs other than Kṛṣṇa.
+
+## 141
+
+> Subheading: The *gopīs* are averse to cultivating knowledge of [Kṛṣṇa's] majesty —
+
+*Kuṭināṭī*: duplicity.
+
+## 142
+
+> Subheading: The *gopīs* wish only to be delivered from the jaws of separation from Kṛṣṇa; they have no wish to be freed from the bondage of *saṁsāra* —
+
+“*Saṁsāra*” arises from remembrance of the body, that is, from absorption in the body. Countless verses of the *Bhāgavatam* are evidence for this — 11.2.37, 11.3.6 and others; we do not quote them for fear of length. The *gopīs* (as also perfected *mahā-bhāgavatas*, or *paramahaṁsas*) have no remembrance of the body — see verses 10.29.30, 33–34; 11.30.43; 10.32.22; 11.35.19[^142-1] and others. *Kāma*: see the words of the *Gautamīya-tantra* in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, Sādhana-bhakti-laharī),[^142-2] and also Ādi 4.162–214 and Madhya 8.207–218. *Timiṅgila*: a gigantic aquatic creature able to swallow even a great *timi* fish. *Neha*: carry away. *Tāra*: [to the far shore] of the ocean of separation.
+
+## 143
+
+> Subheading: A reproach to Kṛṣṇa for forgetting the pastimes of Vraja and His own people —
+
+## 144
+
+> Subheading: Seeing that Kṛṣṇa has forgotten Vraja, [Rādhā] does not blame her Beloved but curses her own fate —
+
+## 145
+
+> Subheading: Telling of Yaśodā's grief, [Rādhā] tries by this plea to stir Kṛṣṇa's compassion; the residents of Vraja would rather die than be separated from Kṛṣṇa —
+
+## 146
+
+> Subheading: Kṛṣṇa's pastimes of majesty do not please the residents of Vraja; yet they cannot leave Vraja, and in separation from Kṛṣṇa they are as if dead —
+
+## 147
+
+> Subheading: An anxious plea to Kṛṣṇa to come to Vraja —
+
+## 148
+
+> Subheading: Kṛṣṇa's embarrassment and agitation; He consoles Śrī Rādhā —
+
+*Ṛṇī* (indebted): see Ādi 4.179–180.
+
+## 149
+
+> Subheading: Kṛṣṇa answers, giving His reasons —
+
+## 150
+
+> Subheading: Kṛṣṇa praises the residents of Vraja, especially the *gopīs* and Śrī Rādhikā —
+
+## 151
+
+> Subheading: The separation from the residents of Vraja is the fruit of Kṛṣṇa's own misfortune —
