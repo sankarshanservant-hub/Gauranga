@@ -1064,6 +1064,1207 @@ on all the limbs  perspiration  flows  with it  blood oozing
 
 (104) Perspiration poured from His whole body, and blood oozed out with it. His voice faltered: “Jaja gaga, jaja gaga.”[^39]
 
+জলযন্ত্র-ধারা যৈছে বহে অশ্রুজল ৷  
+আশ-পাশে লোক যত ভিজিল সকল ॥ ১০৫ ॥
+
+jalayantra-dhārā yaiche vahe aśru-jala  
+of a fountain  the jets  as  flow  tears  
+āśa-pāśe loka yata bhijila sakala  
+around  people  as many as  were drenched  all
+
+(105) Tears streamed from His eyes like jets from a fountain, and everyone around Him was drenched.
+
+দেহ-কান্তি গৌরবর্ণ দেখিয়ে অরুণ ৷  
+কভু কান্তি দেখি, যেন মল্লিকা-পুষ্পসম ॥ ১০৬ ॥
+
+deha-kānti gaura-varṇa dekhiye aruṇa  
+of His body  the lustre  golden in colour  appears  rosy  
+kabhu kānti dekhi yena mallikā-puṣpa-sama  
+sometimes  the lustre  we see  as if  a mallikā flower  resembling
+
+(106) The golden lustre of His body turned rosy, and at times it seemed white, like a *mallikā* flower.
+
+কভু স্তম্ভ, কভু প্রভু ভূমিতে লোটায় ৷  
+শুষ্ককাষ্ঠসম পদ-হস্ত না চলয় ॥ ১০৭ ॥
+
+kabhu stambha, kabhu prabhu bhūmite loṭāya  
+sometimes  stunned  sometimes  the Lord  on the ground  rolls  
+śuṣka-kāṣṭha-sama pada-hasta nā calaya  
+dry wood  like  feet and hands  not  move
+
+(107) Sometimes He stood stunned, and sometimes He rolled on the ground; His hands and feet, stiff as dry wood, would not move.
+
+কভু ভূমে পড়ে, কভু শ্বাস হয় হীন ৷  
+যাহা দেখি’ ভক্তগণের প্রাণ হয় ক্ষীণ ॥ ১০৮ ॥
+
+kabhu bhūme paḍe, kabhu śvāsa haya hīna  
+sometimes  on the ground  He falls  sometimes  breath  becomes  absent  
+yāhā dekhi’ bhakta-gaṇera prāṇa haya kṣīṇa  
+which  seeing  of the devotees  the life  becomes  faint
+
+(108) Sometimes He fell to the ground, and sometimes His breathing stopped. Seeing this, the devotees felt their own life ebbing away.
+
+কভু নেত্রে-নাসায় জল, মুখে পড়ে ফেন ৷  
+অমৃতের ধারা চন্দ্রবিম্বে বহে যেন ॥ ১০৯ ॥
+
+kabhu netre-nāsāya jala, mukhe paḍe phena  
+sometimes  from eyes and nose  water  from the mouth  falls  foam  
+amṛtera dhārā candra-bimbe vahe yena  
+of nectar  streams  on the moon’s disc  flow  as if
+
+(109) Sometimes water flowed from His eyes and nose and foam fell from His mouth, as if streams of nectar were flowing over the disc of the moon.
+
+সেই ফেন লঞা শুভানন্দ কৈল পান ৷  
+কৃষ্ণপ্রেমরসিক তেঁহো মহাভাগ্যবান্ ॥ ১১০ ॥
+
+sei phena lañā śubhānanda kaila pāna  
+that  foam  taking  Śubhānanda  made  drinking  
+kṛṣṇa-prema-rasika tem̐ho mahā-bhāgyavān  
+of love for Kṛṣṇa  a relisher of the rasa  he  most fortunate
+
+(110) Śubhānanda took that foam and drank it. He knew the taste of love for Kṛṣṇa, and great indeed was his good fortune!
+
+এইমত তাণ্ডব-নৃত্য কৈল কতক্ষণ ৷  
+ভাব-বিশেষে প্রভুর প্রবেশিল মন ॥ ১১১ ॥
+
+ei-mata tāṇḍava-nṛtya kaila kata-kṣaṇa  
+in this way  the tāṇḍava dance  He did  for some time  
+bhāva-viśeṣe prabhura praveśila mana  
+into a special feeling  the Lord’s  entered  mind
+
+(111) Thus the Lord danced the vigorous *tāṇḍava* dance for some time, and then His mind entered a special mood.
+
+তাণ্ডব-নৃত্য ছাড়ি’ স্বরূপেরে আজ্ঞা দিল ৷  
+হৃদয় জানিয়া স্বরূপ গাইতে লাগিল ॥ ১১২ ॥
+
+tāṇḍava-nṛtya chāḍi’ svarūpere ājñā dila  
+the tāṇḍava dance  stopping  to Svarūpa  an order  He gave  
+hṛdaya jāniyā svarūpa gāite lāgila  
+His heart  knowing  Svarūpa  to sing  began
+
+(112) Leaving the *tāṇḍava* dance, He told Svarūpa to sing, and Svarūpa, who knew His heart, began to sing:
+
+সেই ত’ পরাণ-নাথ পাইনু ৷  
+যাহা লাগি’ মদন-দহনে ঝুরি’ গেনু ॥ ১১৩ ॥
+
+sei ta’ parāṇa-nātha pāinu  
+that  very  Lord of My life  I have found  
+yāhā lāgi’ madana-dahane jhuri’ genu  
+whom  for  in the fire of Madana  pining  I was wasting away
+
+(113) “I have found that very Lord of My life for whom I was wasting away, burning in the fire of Madana (love).”[^40]
+
+এই ধুয়া উচ্চৈঃস্বরে গায় দামোদর ৷  
+আনন্দে মধুর নৃত্য করেন ঈশ্বর ॥ ১১৪ ॥
+
+ei dhuyā uccaiḥ-svare gāya dāmodara  
+this  refrain  in a loud voice  sings  Dāmodara  
+ānande madhura nṛtya karena īśvara  
+in bliss  sweet  dance  does  the Lord
+
+(114) Svarūpa Dāmodara sang this refrain in a loud voice, and the Lord, in bliss, danced a sweet dance.
+
+ধীরে ধীরে জগন্নাথ করেন গমন ৷  
+আগে নৃত্য করি’ চলেন শচীর নন্দন ॥ ১১৫ ॥
+
+dhīre dhīre jagannātha karena gamana  
+slowly  slowly  Jagannātha  makes  moving  
+āge nṛtya kari’ calena śacīra nandana  
+ahead  dance  doing  goes  of Śacī  the son
+
+(115) Jagannātha moved forward slowly, slowly, and the son of Śacī went ahead of Him, dancing.
+
+জগন্নাথে নেত্র দিয়া সবে নাচে, গায় ৷  
+কীর্ত্তনীয়া সহ প্রভু পাছে পাছে যায় ॥ ১১৬ ॥
+
+jagannāthe netra diyā sabe nāce, gāya  
+on Jagannātha  the eyes  fixing  all  dance  sing  
+kīrtanīyā saha prabhu pāche pāche yāya  
+the kīrtana singers  with  the Lord  back  back  goes
+
+(116) With their eyes fixed on Jagannātha, everyone danced and sang, while the Lord and the kīrtana singers moved backwards, step by step.[^41]
+
+জগন্নাথে মগ্ন প্রভুর নয়ন-হৃদয় ৷  
+শ্রীহস্তযুগে করে গীতের অভিনয় ॥ ১১৭ ॥
+
+jagannāthe magna prabhura nayana-hṛdaya  
+in Jagannātha  absorbed  the Lord’s  eyes and heart  
+śrī hasta-yuge kare gītera abhinaya  
+with His holy  two hands  He makes  of the song  the acting out
+
+(117) The Lord’s eyes and heart were absorbed in Jagannātha, and with His two holy hands He acted out the song.
+
+গৌর যদি পাছে চলে, শ্যাম হয় স্থিরে ৷  
+গৌর আগে চলে, শ্যাম চলে ধীরে-ধীরে ॥ ১১৮ ॥
+
+gaura yadi pāche cale, śyāma haya sthire  
+Gaura  if  back  goes  Śyāma  becomes  still  
+gaura āge cale, śyāma cale dhīre-dhīre  
+Gaura  ahead  goes  Śyāma  moves  slowly, slowly
+
+(118) When Gaura drew back, Śyāma stood still; when Gaura went ahead, Śyāma moved on, slowly, slowly.[^42]
+
+এইমত গৌর-শ্যামে, দোঁহে ঠেলাঠেলি ৷  
+স্বরথে শ্যামেরে রাখে গৌর মহাবলী ॥ ১১৯ ॥
+
+ei-mata gaura-śyāme, dom̐he ṭhelāṭheli  
+in this way  Gaura and Śyāma  the two  push against each other  
+svarathe śyāmere rākhe gaura mahā-balī  
+on His own chariot  Śyāma  keeps  Gaura  the mighty
+
+(119) Thus Gaura and Śyāma vied with each other, and mighty Gaura kept Śyāma waiting on His chariot.[^43]
+
+নাচিতে নাচিতে প্রভুর হৈলা ভাবান্তর ৷  
+হস্ত তুলি’ শ্লোক পড়ে করি’ উচ্চৈঃস্বর ॥ ১২০ ॥
+
+nācite nācite prabhura hailā bhāvāntara  
+dancing  dancing  in the Lord  arose  a change of mood  
+hasta tuli’ śloka paḍe kari’ uccaiḥ-svara  
+the hands  raising  a verse  He recites  making  a loud voice
+
+(120) As He danced, the Lord’s mood changed. Raising His arms, He recited a verse in a loud voice:
+
+যঃ কৌমারহরঃ স এব হি বরস্তা এব চৈত্রক্ষপা-  
+স্তে চোন্মীলিতমালতীসুরভয়ঃ প্রৌঢ়াঃ কদম্বানিলাঃ ৷  
+সা চৈবাস্মি তথাপি তত্র সুরতব্যাপারলীলাবিধৌ  
+রেবা-রোধসি বেতসীতরুতলে চেতঃ সমুৎকণ্ঠতে ॥ ১২১ ॥
+
+yaḥ kaumāra-haraḥ sa eva hi varas tā eva caitra-kṣapās  
+who  stole my heart in my girlhood  He  the same  indeed  my beloved  those  same  nights of Caitra  
+te conmīlita-mālatī-surabhayaḥ prauḍhāḥ kadambānilāḥ  
+those same  and  fragrant with blossoming mālatī  full  breezes from the kadambas  
+sā caivāsmi tathāpi tatra surata-vyāpāra-līlā-vidhau  
+she  the same  am I  yet  there  for the pastimes of love  
+revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate  
+of the Revā  on the bank  of the vetasī  tree  beneath  My heart  yearns
+
+(121) “He who stole My heart in My girlhood is now My lord. These are the same moonlit nights of Caitra, and the same full breezes blow from the kadamba groves, fragrant with blossoming *mālatī*. I too am the same. Yet My heart yearns for Our play of love there, beneath the *vetasī* trees on the bank of the Revā.” (Padyāvalī, 386)[^44]
+
+এই শ্লোক মহাপ্রভু পড়ে বার বার ৷  
+স্বরূপ বিনা অর্থ কেহ না জানে ইহার ॥ ১২২ ॥
+
+ei śloka mahāprabhu paḍe bāra bāra  
+this  verse  Mahāprabhu  recites  time  after time  
+svarūpa vinā artha keha nā jāne ihāra  
+Svarūpa  except  the meaning  anyone  not  knows  of it
+
+(122) Mahāprabhu recited this verse again and again, and no one but Svarūpa knew its meaning.
+
+এই শ্লোকার্থ পূর্ব্বে করিয়াছি ব্যাখ্যান ৷  
+শ্লোকের ভাবার্থ করি সংক্ষেপে আখ্যান ॥ ১২৩ ॥
+
+ei ślokārtha pūrve kariyāchi vyākhyāna  
+this verse’s meaning  earlier  I have made  an explanation  
+ślokera bhāvārtha kari saṅkṣepe ākhyāna  
+of the verse  the inner meaning  I make  briefly  a telling
+
+(123) I have explained the meaning of this verse before; now I will briefly tell its inner sense.
+
+পূর্ব্বে যৈছে কুরুক্ষেত্রে সব গোপীগণ ৷  
+কৃষ্ণের দর্শন পাঞা আনন্দিত মন ॥ ১২৪ ॥
+
+pūrve yaiche kurukṣetre saba gopī-gaṇa  
+once  as  at Kurukṣetra  all  the gopīs  
+kṛṣṇera darśana pāñā ānandita mana  
+Kṛṣṇa’s  sight  obtaining  joyful  in mind
+
+(124) Once, at Kurukṣetra, all the gopīs rejoiced at heart to see Kṛṣṇa.
+
+জগন্নাথ দেখি’ প্রভুর সে ভাব উঠিল ৷  
+সেই ভাবাবিষ্ট হঞা ধুয়া গাওয়াইল ॥ ১২৫ ॥
+
+jagannātha dekhi’ prabhura se bhāva uṭhila  
+Jagannātha  seeing  in the Lord  that  mood  arose  
+sei bhāvāviṣṭa hañā dhuyā gāoyāila  
+in that mood absorbed  becoming  the refrain  He had sung
+
+(125) When the Lord saw Jagannātha, that same mood arose in Him, and, absorbed in it, He had the refrain sung.
+
+অবশেষে রাধা কৃষ্ণে করে নিবেদন ৷  
+সেই তুমি, সেই আমি, সেই নব সঙ্গম ॥ ১২৬ ॥
+
+avaśeṣe rādhā kṛṣṇe kare nivedana  
+at last  Rādhā  to Kṛṣṇa  makes  an appeal  
+sei tumi, sei āmi, sei nava saṅgama  
+the same  You  the same  I  the same  fresh  union
+
+(126) At last Rādhā made Her appeal to Kṛṣṇa: “You are the same, I am the same, and Our union is as fresh as before.
+
+তথাপি আমার মন হরে বৃন্দাবন ৷  
+বৃন্দাবনে উদয় করাও আপন-চরণ ॥ ১২৭ ॥
+
+tathāpi āmāra mana hare vṛndāvana  
+still  My  mind  steals  Vṛndāvana  
+vṛndāvane udaya karāo āpana-caraṇa  
+in Vṛndāvana  rising  make  Your own feet
+
+(127) Yet Vṛndāvana steals My heart. Make Your feet appear in Vṛndāvana once again.
+
+ইঁহা লোকারণ্য, হাতী, ঘোড়া, রথধ্বনি ৷  
+তাঁহা পুষ্পারণ্য, ভৃঙ্গ-পিক-নাদ শুনি ॥ ১২৮ ॥
+
+im̐hā lokāraṇya, hātī, ghoḍā, ratha-dhvani  
+here  a forest of people  elephants  horses  the rumble of chariots  
+tām̐hā puṣpāraṇya, bhṛṅga-pika-nāda śuni  
+there  a forest of flowers  of bees and cuckoos  the sound  I hear
+
+(128) Here there is a forest of people, elephants and horses and the rumble of chariots; there was a forest of flowers, where one heard the humming of bees and the call of the cuckoos.
+
+ইঁহা রাজ-বেশ, সঙ্গে সব ক্ষত্রিয়গণ ৷  
+তাঁহা গোপবেশ, সঙ্গে মুরলী-বাদন ॥ ১২৯ ॥
+
+im̐hā rāja-veśa, saṅge saba kṣatriya-gaṇa  
+here  royal dress  with You  all  the kṣatriyas  
+tām̐hā gopa-veśa, saṅge muralī-vādana  
+there  cowherd’s dress  with You  the playing of the flute
+
+(129) Here You wear royal dress and are surrounded by kṣatriya warriors; there You wore the dress of a cowherd boy, and with You was only the song of Your flute.
+
+ব্রজে তোমার সঙ্গে যেই সুখ-আস্বাদন ৷  
+সেই সুখসমুদ্রের ইঁহা নাহি এক কণ ॥ ১৩০ ॥
+
+vraje tomāra saṅge yei sukha-āsvādana  
+in Vraja  You  with  which  happiness  tasting  
+sei sukha-samudrera im̐hā nāhi eka kaṇa  
+of that  ocean of happiness  here  not is  one  drop
+
+(130) Of that ocean of happiness I tasted with You in Vraja, not one drop is here.
+
+আমা লঞা পুনঃ লীলা করহ বৃন্দাবনে ৷  
+তবে আমার মনোবাঞ্ছা হয় ত’ পূরণে ॥ ১৩১ ॥
+
+āmā lañā punaḥ līlā karaha vṛndāvane  
+Me  taking  again  pastimes  do  in Vṛndāvana  
+tabe āmāra mano-vāñchā haya ta’ pūraṇe  
+then  My  heart’s desire  becomes  surely  fulfilled
+
+(131) Take Me with You and play with Me again in Vṛndāvana. Only then will My heart’s desire be fulfilled.”
+
+ভাগবতে আছে যৈছে রাধিকা-বচন ৷  
+পূর্ব্বে তাহা সূত্রমধ্যে করিয়াছি বর্ণন ॥ ১৩২ ॥
+
+bhāgavate āche yaiche rādhikā-vacana  
+in the Bhāgavatam  there are  as  Rādhikā’s words  
+pūrve tāhā sūtra-madhye kariyāchi varṇana  
+before  that  in the summary  I have made  a description
+
+(132) Rādhikā’s words as they stand in the *Bhāgavatam* I have already described before, in the summary of the book.
+
+সেই ভাবাবেশে প্রভু পড়ে আর শ্লোক ৷  
+সেই সব শ্লোকের অর্থ নাহি বুঝে লোক ॥ ১৩৩ ॥
+
+sei bhāvāveśe prabhu paḍe āra śloka  
+in that mood absorbed  the Lord  recites  another  verse  
+sei saba ślokera artha nāhi bujhe loka  
+of those  all  verses  the meaning  not  understand  people
+
+(133) Absorbed in that mood, the Lord recited another verse, but no one understood the meaning of such verses.
+
+স্বরূপ-গোসাঞি জানে, না কহে অর্থ তার ৷  
+শ্রীরূপ-গোসাঞি কৈল সে অর্থ প্রচার ॥ ১৩৪ ॥
+
+svarūpa-gosāñi jāne, nā kahe artha tāra  
+Svarūpa Gosāñi  knows  not  tells  the meaning  of it  
+śrī rūpa-gosāñi kaila se artha pracāra  
+Śrī  Rūpa Gosāñi  made  that  meaning’s  proclamation
+
+(134) Svarūpa Gosāñi knew it but did not tell its meaning; Śrī Rūpa Gosāñi made that meaning known.
+
+স্বরূপ সঙ্গে যার অর্থ করে আস্বাদন ৷  
+নৃত্যমধ্যে সেই শ্লোক করেন পঠন ॥ ১৩৫ ॥
+
+svarūpa saṅge yāra artha kare āsvādana  
+Svarūpa  with  whose  meaning  He makes  relishing  
+nṛtya-madhye sei śloka karena paṭhana  
+in the midst of the dance  that  verse  He makes  reciting
+
+(135) In the midst of the dance He recited the verse whose meaning He relished with Svarūpa:
+
+আহুশ্চ তে নলিন-নাভ পদারবিন্দং  
+যোগেশ্বরৈর্হৃদি বিচিন্ত্যমগাধবোধৈঃ ৷  
+সংসারকূপপতিতোত্তরণাবলম্বং  
+গেহং জুষামপি মনস্যুদিয়াৎ সদা নঃ ॥ ১৩৬ ॥
+
+āhuś ca te nalina-nābha padāravindaṁ  
+they said  and  Your  O lotus-naveled Lord  lotus feet  
+yogeśvarair hṛdi vicintyam agādha-bodhaiḥ  
+by the masters of yoga  in the heart  meditated upon  of fathomless wisdom  
+saṁsāra-kūpa-patitottaraṇāvalambaṁ  
+of worldly life  into the well  of the fallen  for rescue  the support  
+gehaṁ juṣām api manasy udiyāt sadā naḥ  
+to home  attached  even  in the mind  may they rise  always  our
+
+(136) (The gopīs said:) “O Lord whose navel is like a lotus, the masters of yoga, whose wisdom is fathomless, meditate within their hearts on Your lotus feet, the support by which souls fallen into the well of worldly life are lifted out. May those feet always rise in our minds too, though we are busy with our homes.” (Śrīmad-Bhāgavatam, 10.82.48)[^45]
+
+অন্যের হৃদয় — মন, মোর মন — বৃন্দাবন,  
+‘মনে’ ‘বনে’ এক করি’ জানি ৷  
+তাঁহা তোমার পদদ্বয়, করাহ যদি উদয়,  
+তবে তোমার পূর্ণ কৃপা মানি ॥ ১৩৭ ॥
+
+anyera hṛdaya — mana, mora mana — vṛndāvana,  
+for others  the heart —  the mind  My  mind —  Vṛndāvana  
+‘mane’ ‘vane’ eka kari’ jāni  
+‘mind’  ‘forest’  as one  making  I know  
+tām̐hā tomāra pada-dvaya, karāha yadi udaya,  
+there  Your  two feet  You make  if  rising  
+tabe tomāra pūrṇa kṛpā māni  
+then  Your  full  mercy  I consider
+
+(137) “For others the heart is the mind, but My mind is Vṛndāvana: I take *mana* (mind) and *vana* (forest) as one. If You make Your two feet appear there, I will count it Your full mercy.[^46]
+
+প্রাণনাথ, শুন মোর সত্য নিবেদন ৷  
+ব্রজ — আমার সদন, তাঁহা তোমার সঙ্গম,  
+না পাইলে না রহে জীবন ॥ ১৩৮ ॥
+
+prāṇa-nātha, śuna mora satya nivedana  
+O Lord of My life  hear  My  true  appeal  
+vraja — āmāra sadana, tām̐hā tomāra saṅgama,  
+Vraja —  My  home  there  with You  union  
+nā pāile nā rahe jīvana  
+not  obtaining  not  remains  life
+
+(138) O Lord of My life, hear My true appeal. Vraja is My home, and there I long to be with You; if I cannot have that, I cannot live.
+
+পূর্ব্বে উদ্ধব-দ্বারে, এবে সাক্ষাৎ আমারে,  
+যোগ-জ্ঞানে কহিলা উপায় ৷  
+তুমি — বিদগ্ধ, কৃপাময়, জানহ আমার হৃদয়,  
+মোরে ঐছে কহিতে না যুয়ায় ॥ ১৩৯ ॥
+
+pūrve uddhava-dvāre, ebe sākṣāt āmāre,  
+before  through Uddhava  now  directly  to Me  
+yoga-jñāne kahilā upāya  
+in yoga and knowledge  You told  the means  
+tumi — vidagdha, kṛpāmaya, jānaha āmāra hṛdaya,  
+You —  expert  merciful  You know  My  heart  
+more aiche kahite nā yuyāya  
+to Me  in this way  to speak  not  is fitting
+
+(139) Before through Uddhava, and now to My face, You have told Me that yoga and knowledge are the way. You are clever and merciful, and You know My heart: it is not fitting to speak to Me like this.[^47]
+
+চিত্ত কাঢ়ি’ তোমা হৈতে, বিষয়ে চাহি লাগাইতে,  
+যত্ন করি’ নারি কাঢ়িবারে ৷  
+তারে ধ্যান শিক্ষা করাহ, লোক হাসাঞা মার,  
+স্থানাস্থান না কর বিচারে ॥ ১৪০ ॥
+
+citta kāḍhi’ tomā haite, viṣaye cāhi lāgāite,  
+the mind  drawing away  from You  on worldly things  I want  to fix  
+yatna kari’ nāri kāḍhibāre  
+effort  making  I cannot  draw it away  
+tāre dhyāna śikṣā karāha, loka hāsāñā māra,  
+her  meditation  teaching  You give  people  making laugh  You kill  
+sthānāsthāna nā kara vicāre  
+the fitting and the unfitting  not  You make  consideration
+
+(140) I want to draw My mind away from You and fix it on worldly things, but however hard I try, I cannot draw it away. And You teach such a one to meditate! You kill her by making her a laughingstock; You do not consider what is fitting and what is not.
+
+নহে গোপী যোগেশ্বর, পদ-কমল তোমার,  
+ধ্যান করি’ পাইবে সন্তোষ ৷  
+তোমার বাক্য-পরিপাটী, তার মধ্যে কুটিনাটী,  
+শুনি’ গোপীর আরো বাঢ়ে রোষ ॥ ১৪১ ॥
+
+nahe gopī yogeśvara, pada-kamala tomāra,  
+not are  the gopīs  masters of yoga  the lotus feet  Your  
+dhyāna kari’ pāibe santoṣa  
+meditation  doing  they will get  satisfaction  
+tomāra vākya-paripāṭī, tāra madhye kuṭināṭī,  
+Your  polish of words  of it  within  duplicity  
+śuni’ gopīra āro bāḍhe roṣa  
+hearing  of the gopīs  still more  grows  anger
+
+(141) The gopīs are not masters of yoga, to find satisfaction in meditating on Your lotus feet. Your polished words hide duplicity (*kuṭināṭī*), and hearing them, the gopīs grow only angrier.[^48]
+
+দেহ-স্মৃতি নাহি যার, সংসারকূপ কাঁহা তার,  
+তাহা হৈতে না চাহে উদ্ধার ৷  
+বিরহ সমুদ্র-জলে, কাম-তিমিঙ্গিলে গিলে,  
+গোপীগণে নেহ’ তার পার ॥ ১৪২ ॥
+
+deha-smṛti nāhi yāra, saṁsāra-kūpa kām̐hā tāra,  
+of the body  memory  not is  whose  of worldly life  the well  where  for them  
+tāhā haite nā cāhe uddhāra  
+from that  not  they want  deliverance  
+viraha-samudra-jale, kāma-timiṅgile gile,  
+of separation  of the ocean  in the waters  kāma’s timiṅgila  swallows  
+gopī-gaṇe neha’ tāra pāra  
+the gopīs  take  of it  across
+
+(142) Those who have no memory of their bodies — where is the well of worldly life for them? They do not want deliverance from it. In the waters of the ocean of separation the *timiṅgila* of *kāma*, their longing for You, is swallowing them: carry the gopīs across that ocean![^49]
+
+বৃন্দাবন, গোবর্দ্ধন, যমুনা-পুলিন, বন,  
+সেই কুঞ্জে রাসাদিক লীলা ৷  
+সেই ব্রজের জনগণ, মাতা, পিতা, বন্ধুগণ,  
+বড় চিত্র, কেমনে পাসরিলা ॥ ১৪৩ ॥
+
+vṛndāvana, govardhana, yamunā-pulina, vana,  
+Vṛndāvana  Govardhana  the Yamunā’s bank  the forest  
+sei kuñje rāsādika līlā  
+in those  groves  the rāsa and other  pastimes  
+sei vrajera janagaṇa, mātā, pitā, bandhu-gaṇa,  
+of that  Vraja  the people  mother  father  friends  
+baḍa citra, kemane pāsarilā  
+very  strange  how  You forgot
+
+(143) Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? It is very strange!
+
+বিদগ্ধ, মৃদু, সদ্গুণ, সুশীল, স্নিগ্ধ, করুণ,  
+তুমি, তোমার নাহি দোষাভাস ৷  
+তবে যে তোমার মন, নাহি স্মরে ব্রজজন,  
+সে — আমার দুর্দ্দৈব-বিলাস ॥ ১৪৪ ॥
+
+vidagdha, mṛdu, sad-guṇa, suśīla, snigdha, karuṇa,  
+expert  gentle  virtuous  well-mannered  affectionate  compassionate  
+tumi, tomāra nāhi doṣābhāsa  
+You  in You  not is  a semblance of fault  
+tabe ye tomāra mana, nāhi smare vraja-jana,  
+yet  that  Your  mind  not  remembers  the people of Vraja  
+se — āmāra durdaiva-vilāsa  
+that —  of My  ill fortune  the play
+
+(144) You are clever, gentle, virtuous, well-mannered, affectionate and compassionate; in You there is not even a shadow of fault. That Your mind no longer remembers the people of Vraja is only the play of My ill fortune.
+
+না গণি আপন-দুঃখ, দেখি’ ব্রজেশ্বরী-মুখ,  
+ব্রজজনের হৃদয় বিদরে ৷  
+কিবা মার’ ব্রজবাসী, কিবা জীয়াও ব্রজে আসি’,  
+কেন জীয়াও দুঃখ সহাইবারে ? ॥ ১৪৫ ॥
+
+nā gaṇi āpana-duḥkha, dekhi’ vrajeśvarī-mukha,  
+not  I count  My own sorrow  seeing  of Vraja’s queen  the face  
+vraja-janera hṛdaya vidare  
+of the people of Vraja  the heart  breaks  
+kibā māra’ vraja-vāsī, kibā jīyāo vraje āsi’,  
+either  You kill  the residents of Vraja  or  revive  to Vraja  coming  
+kena jīyāo duḥkha sahāibāre?  
+why  You keep alive  sorrow  to make them endure
+
+(145) I do not count My own sorrow; but seeing the face of the queen of Vraja, the people of Vraja are heartbroken. Either kill the residents of Vraja, or come to Vraja and bring them back to life. Why do You keep them alive only to suffer?[^50]
+
+তোমার যে অন্য বেশ, অন্য সঙ্গ, অন্য দেশ,  
+ব্রজজনে কভু নাহি ভায় ৷  
+ব্রজভূমি ছাড়িতে নারে, তোমা না দেখিলে মরে,  
+ব্রজজনের কি হবে উপায় ॥ ১৪৬ ॥
+
+tomāra ye anya veśa, anya saṅga, anya deśa,  
+Your  that  other  dress  other  company  other  land  
+vraja-jane kabhu nāhi bhāya  
+to the people of Vraja  ever  not  pleases  
+vraja-bhūmi chāḍite nāre, tomā nā dekhile mare,  
+the land of Vraja  to leave  not  they can  You  not  seeing  they die  
+vraja-janera ki habe upāya  
+of the people of Vraja  what  will be  the way
+
+(146) Your other dress, Your other company and Your other land never please the people of Vraja. They cannot leave the land of Vraja, yet without seeing You they die. What will become of them?
+
+তুমি — ব্রজের জীবন, ব্রজরাজের প্রাণধন,  
+তুমি — সকল ব্রজের সম্পদ্ ৷  
+কৃপার্দ্র তোমার মন, আসি’ জীয়াও ব্রজজন,  
+ব্রজে উদয় করাও নিজ-পদ ॥ ১৪৭ ॥
+
+tumi — vrajera jīvana, vraja-rājera prāṇa-dhana,  
+You —  of Vraja  the life  of the king of Vraja  the treasure of life  
+tumi — sakala vrajera sampad  
+You —  of all  Vraja  the wealth  
+kṛpārdra tomāra mana, āsi’ jīyāo vraja-jana,  
+moist with mercy  Your  mind  coming  revive  the people of Vraja  
+vraje udaya karāo nija-pada  
+in Vraja  rising  make  Your own feet
+
+(147) You are the life of Vraja and the treasure of the life of Vraja’s king; You are the wealth of all Vraja. Your heart is soft with mercy: come and revive the people of Vraja, and make Your feet appear in Vraja once again.”
+
+শুনিয়া রাধিকা-বাণী, ব্রজপ্রেম মনে আনি,  
+ভাবে ব্যাকুলিত দেহ-মন ৷  
+ব্রজলোকের প্রেম শুনি’, আপনাকে ‘ঋণী’ মানি’,  
+করে কৃষ্ণ তাঁরে আশ্বাসন ॥ ১৪৮ ॥
+
+śuniyā rādhikā-vāṇī, vraja-prema mane āni,  
+having heard  Rādhikā’s words  the love of Vraja  to the mind  bringing  
+bhāve vyākulita deha-mana  
+with feeling  agitated  body and mind  
+vraja-lokera prema śuni’, āpanāke ‘ṛṇī’ māni’,  
+of the people of Vraja  the love  hearing  Himself  ‘a debtor’  considering  
+kare kṛṣṇa tām̐re āśvāsana  
+makes  Kṛṣṇa  to Her  consolation
+
+(148) Hearing Rādhikā’s words and remembering the love of Vraja, Kṛṣṇa was shaken in body and mind. Hearing of the love of the people of Vraja, He considered Himself their debtor and began to console Her:
+
+প্রাণপ্রিয়ে, শুন, মোর এই সত্য-বচন ৷  
+তোমা-সবার স্মরণে, ঝুরোঁ মুঞি রাত্রিদিনে,  
+মোর দুঃখ না জানে কোন জন ॥ ১৪৯ ॥
+
+prāṇa-priye, śuna, mora ei satya-vacana  
+O beloved, dear as life  hear  My  these  true words  
+tomā-sabāra smaraṇe, jhurom̐ muñi rātri-dine,  
+of all of you  in remembering  pine in tears  I  night and day  
+mora duḥkha nā jāne kona jana  
+My  sorrow  not  knows  any  person
+
+(149) “My beloved, dear to Me as My life, hear these true words of Mine. Remembering all of you, I weep night and day, and no one knows My sorrow.
+
+ব্রজবাসী যত জন, মাতা, পিতা, সখাগণ,  
+সবে হয় মোর প্রাণসম ৷  
+তাঁর মধ্যে গোপীগণ, সাক্ষাৎ মোর জীবন,  
+তুমি মোর জীবনের জীবন ॥ ১৫০ ॥
+
+vraja-vāsī yata jana, mātā, pitā, sakhā-gaṇa,  
+of Vraja the residents  all  people  mother  father  friends  
+sabe haya mora prāṇa-sama  
+all  are  to Me  equal to life  
+tām̐ra madhye gopī-gaṇa, sākṣāt mora jīvana,  
+of them  among  the gopīs  directly  My  life  
+tumi mora jīvanera jīvana  
+You  of My  life  the life
+
+(150) All the people of Vraja — My mother, My father and My friends — are as dear to Me as life. Among them the gopīs are My very life, and You are the life of My life.
+
+তোমা-সবার প্রেমরসে, আমাকে করিল বশে,  
+আমি তোমার অধীন কেবল ৷  
+তোমা-সবা ছাড়াঞা, আমা দূর-দেশে লঞা,  
+রাখিয়াছে দুর্দ্দৈব প্রবল ॥ ১৫১ ॥
+
+tomā-sabāra prema-rase, āmāke karila vaśe,  
+of all of you  by the rasa of love  Me  made  subject  
+āmi tomāra adhīna kevala  
+I  yours  dependent  only  
+tomā-sabā chāḍāñā, āmā dūra-deśe lañā,  
+from all of you  tearing away  Me  to a distant land  taking  
+rākhiyāche durdaiva prabala  
+has kept  ill fortune  powerful
+
+(151) The rasa of your love has made Me subject to you all; I am yours alone. It is a powerful ill fortune that has torn Me away from you, taken Me to a distant land and kept Me there.
+
+প্রিয়া প্রিয়-সঙ্গহীনা, প্রিয় প্রিয়া-সঙ্গ বিনা,  
+নাহি জীয়ে, — এ সত্য প্রমাণ ৷  
+মোর দশা শোনে যবে, তাঁর এই দশা হবে,  
+এই ভয়ে দুঁহে রাখে প্রাণ ॥ ১৫২ ॥
+
+priyā priya-saṅga-hīnā, priya priyā-saṅga vinā,  
+she who loves  without the beloved’s company  he who loves  of the beloved’s company  without  
+nāhi jīye, — e satya pramāṇa  
+not  lives  this  true  proof  
+mora daśā śone yabe, tām̐ra ei daśā habe,  
+My  state  hears  when  her  this  state  will be  
+ei bhaye dum̐he rākhe prāṇa  
+in this  fear  both  keep  life
+
+(152) She who loves cannot live without her beloved, nor he who loves without his beloved — this is proven truth. Yet each fears that the other, hearing of it, would come to the same end; and for this fear both keep themselves alive.
+
+সেই সতী প্রেমবতী, প্রেমবান্ সেই পতি,  
+বিয়োগে যে বাঞ্ছে প্রিয়-হিতে ৷  
+না গণে আপন দুঃখ, বাঞ্ছে প্রিয়জন-সুখ,  
+সেই দুই মিলে অচিরাতে ॥ ১৫৩ ॥
+
+sei satī premavatī, premavān sei pati,  
+that  faithful wife  loving  loving  that  husband  
+viyoge ye vāñche priya-hite  
+in separation  who  wish  the beloved’s  good  
+nā gaṇe āpana-duḥkha, vāñche priyajana-sukha,  
+not  count  their own sorrow  wish  the beloved’s  happiness  
+sei dui mile acirāte  
+those  two  meet  soon
+
+(153) A loving, faithful wife and a loving husband who in separation wish only for each other’s good, who do not count their own sorrow and want only the beloved’s happiness — such a pair soon meet again.
+
+রাখিতে তোমার জীবন, সেবি আমি নারায়ণ,  
+তাঁর শক্ত্যে আসি নিতি-নিতি ৷  
+তোমা-সনে ক্রীড়া করি’, পুনঃ যাই যদুপুরী,  
+তাঁহা তুমি মানহ মোর স্ফূর্ত্তি ॥ ১৫৪ ॥
+
+rākhite tomāra jīvana, sevi āmi nārāyaṇa,  
+to keep  Your  life  serve  I  Nārāyaṇa  
+tām̐ra śaktye āsi niti-niti  
+by His  power  I come  day after day  
+tomā-sane krīḍā kari’, punaḥ yāi yadu-purī,  
+with You  play  having made  again  I go  to Yadupurī  
+tām̐hā tumi mānaha mora sphūrti  
+that  You  consider  My  sphūrti
+
+(154) To keep You alive I worship Nārāyaṇa, and by His power I come to You every day. After playing with You I go back to Yadupurī, and You take this to be only a vision of Me (*sphūrti*).[^51]
+
+মোর ভাগ্য মো-বিষয়ে, তোমার যে প্রেম হয়ে,  
+সেই প্রেম — পরম প্রবল ৷  
+লুকাঞা আমা আনে, সঙ্গ করায় তোমা-সনে,  
+প্রকটেহ আনিবে সত্বর ॥ ১৫৫ ॥
+
+mora bhāgya mo-viṣaye, tomāra ye prema haye,  
+My  fortune  for Me  Your  that  love  is  
+sei prema — parama prabala  
+that  love —  supremely  powerful  
+lukāñā āmā āne, saṅga karāya tomā-sane,  
+secretly  Me  it brings  company  it gives  with You  
+prakaṭeha ānibe satvara  
+openly too  it will bring  soon
+
+(155) My good fortune is the love You have for Me. That love is supremely powerful: it brings Me to You secretly and unites Me with You, and soon it will bring Me openly too.
+
+যাদবের বিপক্ষ, যত দুষ্ট কংসপক্ষ,  
+তাহা আমি কৈলুঁ সব ক্ষয় ৷  
+আছে দুই-চারি জন, তাহা মারি’ বৃন্দাবন,  
+আইলাম আমি, জানিহ নিশ্চয় ॥ ১৫৬ ॥
+
+yādavera vipakṣa, yata duṣṭa kaṁsa-pakṣa,  
+of the Yādavas  the enemies  all  wicked  Kaṁsa’s party  
+tāhā āmi kailum̐ saba kṣaya  
+them  I  made  all  destruction  
+āche dui-cāri jana, tāhā māri’ vṛndāvana,  
+remain  two or four  people  them  killing  to Vṛndāvana  
+āilāma āmi, jāniha niścaya  
+come  I  know  for certain
+
+(156) I have destroyed all the wicked enemies of the Yādavas, the whole party of Kaṁsa. Only a few remain; when I have killed them, I will come to Vṛndāvana — know this for certain.
+
+সেই শত্রুগণ হৈতে, ব্রজজন রাখিতে,  
+রহি রাজ্যে উদাসীন হঞা ৷  
+যেবা স্ত্রী-পুত্র-ধনে, করি রাজ্য-আবরণে,  
+যদুগণের সন্তোষ লাগিয়া ॥ ১৫৭ ॥
+
+sei śatru-gaṇa haite, vraja-jana rākhite,  
+those  enemies  from  the people of Vraja  to protect  
+rahi rājye udāsīna hañā  
+I stay  in the kingdom  indifferent  being  
+yebā strī-putra-dhane, kari rājya-āvaraṇe,  
+although  with wives, sons, wealth  I make  the covering of a kingdom  
+yadu-gaṇera santoṣa lāgiyā  
+of the Yadus  satisfaction  for the sake of
+
+(157) To protect the people of Vraja from those enemies I remain in My kingdom, but indifferent to it. And though I surround Myself with wives, sons and wealth, that is only the outward covering of a king’s life, kept up to please the Yadus.[^52]
+
+তোমার যে প্রেমগুণ, করে আমা আকর্ষণ,  
+আনিবে আমা দিন দশ বিশে ৷  
+পুনঃ আসি’ বৃন্দাবনে, ব্রজবধূ তোমা-সনে,  
+বিলসিব রজনী-দিবসে ॥ ১৫৮ ॥
+
+tomāra ye prema-guṇa, kare āmā ākarṣaṇa,  
+Your  that  quality of love  makes  Me  attraction  
+ānibe āmā dina daśa biśe  
+will bring  Me  in days  ten  twenty  
+punaḥ āsi’ vṛndāvane, vraja-vadhū tomā-sane,  
+again  coming  to Vṛndāvana  the maidens of Vraja  with You  
+vilasiba rajanī-divase  
+I will sport  night and day
+
+(158) The quality of Your love draws Me, and it will bring Me back within ten or twenty days. Then, coming again to Vṛndāvana, I will delight in pastimes night and day with You and the other maidens of Vraja.”
+
+এত তাঁরে কহি’ কৃষ্ণ, ব্রজে যাইতে সতৃষ্ণ,  
+এক শ্লোক পড়ি’ শুনাইল ৷  
+সেই শ্লোক শুনি’ রাধা, খণ্ডিল সকল বাধা,  
+কৃষ্ণপ্রাপ্ত্যে প্রতীতি হইল ॥ ১৫৯ ॥
+
+eta tām̐re kahi’ kṛṣṇa, vraje yāite satṛṣṇa,  
+so much  to Her  having said  Kṛṣṇa  to Vraja  to go  eager  
+eka śloka paḍi’ śunāila  
+one  verse  reciting  He made her hear  
+sei śloka śuni’ rādhā, khaṇḍila sakala bādhā,  
+that  verse  hearing  Rādhā  were dispelled  all  obstacles  
+kṛṣṇa-prāptye pratīti haila  
+in attaining Kṛṣṇa  confidence  arose
+
+(159) Having said all this to Her, Kṛṣṇa, eager to go to Vraja, recited a verse for Her to hear. When Rādhā heard it, all Her doubts were dispelled, and She felt sure that She would attain Kṛṣṇa.
+
+ময়ি ভক্তির্হি ভূতানামমৃতত্বায় কল্পতে ৷  
+দিষ্ট্যা যদাসীন্মৎস্নেহো ভবতীনাং মদাপনঃ ॥ ১৬০ ॥
+
+mayi bhaktir hi bhūtānām  
+to Me  devotion  indeed  of beings  
+amṛtatvāya kalpate  
+for immortality  is fit  
+diṣṭyā yad āsīn mat-sneho  
+by good fortune  which  arose  for Me  the love  
+bhavatīnāṁ mad-āpanaḥ  
+of you  bringing Me
+
+(160) “Devotion to Me brings living beings to immortality. And how fortunate you are to have the love that brings you to Me!” (Śrīmad-Bhāgavatam, 10.82.44)[^53]
+
+এই সব অর্থ প্রভু স্বরূপের সনে ৷  
+রাত্রি-দিনে ঘরে বসি’ করে আস্বাদনে ॥ ১৬১ ॥
+
+ei saba artha prabhu svarūpera sane  
+these  all  meanings  the Lord  Svarūpa  with  
+rātri-dine ghare vasi’ kare āsvādane  
+night and day  in the room  sitting  He makes  relishing
+
+(161) Night and day the Lord would sit in His room with Svarūpa and relish all these meanings.
+
+নৃত্যকালে সেইভাবে আবিষ্ট হঞা ৷  
+শ্লোক পড়ি’ নাচে জগন্নাথ-মুখ চাঞা ॥ ১৬২ ॥
+
+nṛtya-kāle sei bhāve āviṣṭa hañā  
+at the time of the dance  in that  mood  absorbed  becoming  
+śloka paḍi’ nāce jagannātha-mukha cāñā  
+the verse  reciting  He dances  at Jagannātha’s face  looking
+
+(162) At the time of the dance, absorbed in that mood, He recited the verse and danced, gazing at Jagannātha’s face.
+
+স্বরূপ-গোসাঞির ভাগ্য না যায় বর্ণন ৷  
+প্রভুতে আবিষ্ট যাঁর কায়, বাক্য, মন ॥ ১৬৩ ॥
+
+svarūpa-gosāñira bhāgya nā yāya varṇana  
+of Svarūpa Gosāñi  the fortune  not  can  be described  
+prabhute āviṣṭa yām̐ra kāya, vākya, mana  
+in the Lord  absorbed  whose  body  words  mind
+
+(163) The good fortune of Svarūpa Gosāñi cannot be described, for his body, words and mind were absorbed in the Lord.
+
+স্বরূপের ইন্দ্রিয়ে প্রভুর নিজেন্দ্রিয়গণ ৷  
+আবিষ্ট হঞা করে গান আস্বাদন ॥ ১৬৪ ॥
+
+svarūpera indriye prabhura nijendriya-gaṇa  
+in Svarūpa’s senses  the Lord’s  own senses  
+āviṣṭa hañā kare gāna āsvādana  
+entering  becoming  make  of the song  relishing
+
+(164) The Lord’s own senses entered Svarūpa’s senses, and through them He relished the song.
+
+ভাবের আবেশে কভু ভূমিতে বসিয়া ৷  
+তর্জ্জনীতে ভূমে লিখে অধোমুখ হঞা ॥ ১৬৫ ॥
+
+bhāvera āveśe kabhu bhūmite vasiyā  
+of feeling  in the absorption  sometimes  on the ground  sitting  
+tarjanīte bhūme likhe adhomukha hañā  
+with the forefinger  on the ground  He writes  face downward  becoming
+
+(165) Sometimes, overwhelmed by feeling, He would sit on the ground with His face lowered and write on the ground with His forefinger.
+
+অঙ্গুলিতে ক্ষত হবে জানি’ দামোদর ৷  
+ভয়ে নিজ-করে নিবারয়ে প্রভু-কর ॥ ১৬৬ ॥
+
+aṅgulite kṣata habe jāni’ dāmodara  
+on the finger  injury  will be  knowing  Dāmodara  
+bhaye nija-kare nivāraye prabhu-kara  
+in fear  with his own hand  stops  the Lord’s hand
+
+(166) Knowing that the finger would be injured, Dāmodara anxiously stopped the Lord’s hand with his own.
+
+প্রভুর ভাবানুরূপ স্বরূপের গান ৷  
+যবে যেই রস, তাহা করে মূর্ত্তিমান্ ॥ ১৬৭ ॥
+
+prabhura bhāvānurūpa svarūpera gāna  
+of the Lord  suited to the mood  Svarūpa’s  singing  
+yabe yei rasa tāhā kare mūrtimān  
+whenever  whatever  rasa  that  he makes  embodied
+
+(167) Svarūpa’s singing always matched the Lord’s mood: whatever rasa the Lord felt at the moment, his song brought it to life.
+
+শ্রীজগন্নাথের দেখে শ্রীমুখ-কমল ৷  
+তাহার উপর সুন্দর নয়ন যুগল ॥ ১৬৮ ॥
+
+সূর্য্যের কিরণে মুখ করে ঝলমল ৷  
+মাল্য, বস্ত্র, দিব্য অলঙ্কার, পরিমল ॥ ১৬৯ ॥
+
+śrī jagannāthera dekhe śrī mukha-kamala  
+of Śrī Jagannātha  He sees  the beautiful  lotus face  
+tāhāra upara sundara nayana-yugala  
+of it  upon  beautiful  pair of eyes  
+sūryera kiraṇe mukha kare jhalamala  
+of the sun  in the rays  the face  makes  glittering  
+mālya, vastra, divya alaṅkāra, parimala  
+garlands  clothes  divine  ornaments  fragrance
+
+(168–169) The Lord gazed at the lotus face of Śrī Jagannātha with its two beautiful eyes, His face glittering in the rays of the sun, and at His garlands, His clothes, His divine ornaments and His fragrance.
+
+প্রভুর হৃদয়ে আনন্দসিন্ধু উথলিল ৷  
+উন্মাদ, ঝঞ্ঝা-বাত তৎক্ষণে উঠিল ॥ ১৭০ ॥
+
+prabhura hṛdaye ānanda-sindhu uthalila  
+of the Lord  in the heart  of bliss  the ocean  surged  
+unmāda, jhañjhā-vāta tat-kṣaṇe uṭhila  
+madness  a storm wind  at that moment  arose
+
+(170) An ocean of bliss surged in the Lord’s heart, and at once madness rose in it like a storm wind.
+
+আনন্দোন্মাদে উঠায় ভাবের তরঙ্গ ৷  
+নানা-ভাব-সৈন্যে উপজিল যুদ্ধ-রঙ্গ ॥ ১৭১ ॥
+
+ānandonmāde uṭhāya bhāvera taraṅga  
+in the madness of bliss  it raises  of feelings  waves  
+nānā-bhāva-sainye upajila yuddha-raṅga  
+among the armies of many feelings  arose  the sport of battle
+
+(171) In that madness of bliss waves of feeling rose, and the armies of His many feelings joined in the sport of battle.
+
+ভাবোদয়, ভাবশান্তি, সন্ধি, শাবল্য ৷  
+সঞ্চারী, সাত্ত্বিক, স্থায়ী স্বভাব-প্রাবল্য ॥ ১৭২ ॥
+
+bhāvodaya, bhāva-śānti, sandhi, śābalya  
+the rising of a feeling  the calming of a feeling  the meeting  the mingling  
+sañcārī, sāttvika, sthāyī svabhāva-prābalya  
+the transitory  the sāttvika  the abiding  natural  predominance
+
+(172) Feelings arose and subsided, met and mingled; the transitory feelings, the *sāttvika* ecstasies and the abiding mood each prevailed by its own nature.[^54]
+
+প্রভুর শরীর যেন শুদ্ধ-হেমাচল ৷  
+ভাব-পুষ্পদ্রুম তাহে পুষ্পিত সকল ॥ ১৭৩ ॥
+
+prabhura śarīra yena śuddha-hemācala  
+of the Lord  the body  like  a mountain of pure gold  
+bhāva-puṣpa-druma tāhe puṣpita sakala  
+of feelings  the flowering trees  on it  blossomed  all
+
+(173) The Lord’s body was like a mountain of pure gold, and on it all the trees of feeling burst into blossom.
+
+দেখিতে আকর্ষয়ে সবার চিত্ত-মন ৷  
+প্রেমামৃতবৃষ্ট্যে প্রভু সিঞ্চে সবার মন ॥ ১৭৪ ॥
+
+dekhite ākarṣaye sabāra citta-mana  
+on seeing  it attracts  of all  the heart and mind  
+premāmṛta-vṛṣṭye prabhu siñce sabāra mana  
+with a shower of the nectar of love  the Lord  sprinkles  of all  the mind
+
+(174) The sight of Him attracted everyone’s heart and mind, and the Lord sprinkled every mind with a shower of the nectar of love.
+
+জগন্নাথ-সেবক যত রাজপাত্রগণ ৷  
+যাত্রিক লোক, নীলাচলবাসী যত জন ॥ ১৭৫ ॥
+
+jagannātha-sevaka yata rāja-pātra-gaṇa  
+of Jagannātha  the servants  all  the royal officers  
+yātrika loka, nīlācala-vāsī yata jana  
+pilgrim  people  of Nīlācala  the residents  all  people
+
+(175) All the servants of Jagannātha, the royal officers, the pilgrims and all the residents of Nīlācala
+
+প্রভুর নৃত্য-প্রেম দেখি’ হয় চমৎকার ৷  
+কৃষ্ণপ্রেম উপজিল হৃদয়ে সবার ॥ ১৭৬ ॥
+
+prabhura nṛtya-prema dekhi’ haya camatkāra  
+of the Lord  the dance and love  seeing  become  astonished  
+kṛṣṇa-prema upajila hṛdaye sabāra  
+love for Kṛṣṇa  arose  in the heart  of all
+
+(176) were astonished to see the Lord’s dance and His love, and love for Kṛṣṇa awoke in everyone’s heart.
+
+প্রেমে নাচে, গায়, লোক, করে কোলাহল ৷  
+প্রভু-নৃত্যে কৈল যাত্রী চৌগুণ-মঙ্গল ॥ ১৭৭ ॥
+
+preme nāce, gāya, loka, kare kolāhala  
+in love  dance  sing  the people  make  an uproar  
+prabhu-nṛtye kaila yātrī cauguṇa-maṅgala  
+at the Lord’s dance  made  the pilgrims  fourfold auspicious sounds
+
+(177) Filled with love, the people danced and sang and raised a joyful uproar. At the Lord’s dance the auspicious cries of the pilgrims grew four times as loud.[^55]
+
+অন্যের কি কায, জগন্নাথ-হলধর ৷  
+প্রভুর-নৃত্য দেখি’ সুখে চলিলা মন্থর ॥ ১৭৮ ॥
+
+anyera ki kāya, jagannātha-haladhara  
+of others  what  to speak  Jagannātha and Haladhara  
+prabhura nṛtya dekhi’ sukhe calilā manthara  
+of the Lord  the dance  seeing  in joy  moved  slowly
+
+(178) Not only the others: Jagannātha and Haladhara (Balarāma) Themselves, seeing the Lord’s dance, moved on slowly in delight.
+
+কভু সুখে নৃত্যরঙ্গ দেখে রথ রাখি’ ৷  
+সে কৌতুক যে দেখিল, সেই তার সাক্ষী ॥ ১৭৯ ॥
+
+kabhu sukhe nṛtya-raṅga dekhe ratha rākhi’  
+sometimes  in joy  the play of the dance  They watch  the chariot  stopping  
+se kautuka ye dekhila, sei tāra sākṣī  
+that  wonder  who  saw  he  of it  the witness
+
+(179) Sometimes They stopped Their chariots and joyfully watched the play of His dance. Whoever saw that wonder is its witness.
+
+এইমত নৃত্য প্রভু করিতে ভ্রমিতে ৷  
+প্রতাপরুদ্রের আগে লাগিলা পড়িতে ॥ ১৮০ ॥
+
+ei-mata nṛtya prabhu karite bhramite  
+in this way  dance  the Lord  doing  wandering  
+pratāparudrera āge lāgilā paḍite  
+of Pratāparudra  in front  He began  to fall
+
+(180) Dancing and wandering in this way, the Lord was about to fall in front of Pratāparudra.[^56]
+
+সম্ভ্রমে প্রতাপরুদ্র প্রভুকে ধরিল ৷  
+তাঁহাকে দেখিতে প্রভুর বাহ্য হইল ॥ ১৮১ ॥
+
+sambhrame pratāparudra prabhuke dharila  
+respectfully  Pratāparudra  the Lord  held  
+tām̐hāke dekhite prabhura bāhya haila  
+him  on seeing  of the Lord  outer consciousness  came
+
+(181) Pratāparudra respectfully caught hold of the Lord, and on seeing him the Lord came back to outer consciousness.
+
+রাজা দেখি’ মহাপ্রভু করেন ধিক্কার ৷  
+ছি, ছি, বিষয়ীর স্পর্শ হইল আমার ! ॥ ১৮২ ॥
+
+rājā dekhi’ mahāprabhu karena dhikkāra  
+the king  seeing  Mahāprabhu  makes  reproach  
+chi, chi, viṣayīra sparśa haila āmāra!  
+fie  fie  of a worldly man  the touch  has happened  to Me
+
+(182) Seeing the king, Mahāprabhu reproached Himself: “Fie, fie! I have been touched by a worldly man!”[^57]
+
+আবেশেতে নিত্যানন্দ হৈলা অসাবধান ৷  
+কাশীশ্বর, গোবিন্দাদি ছিলা অন্যস্থান ॥ ১৮৩ ॥
+
+āveśete nityānanda hailā asāvadhāna  
+in ecstasy  Nityānanda  became  inattentive  
+kāśīśvara, govindādi chilā anya-sthāna  
+Kāśīśvara  Govinda and the others  were  in another place
+
+(183) Nityānanda, lost in ecstasy, had not been watching, and Kāśīśvara, Govinda and the others were elsewhere.
+
+যদপি রাজারে দেখি’ হাড়ির সেবনে ৷  
+প্রসন্ন হঞাছে তাঁরে মিলিবারে মনে ॥ ১৮৪ ॥
+
+yadapi rājāre dekhi’ hāḍira sevane  
+although  the king  seeing  in the service of a sweeper  
+prasanna hañāche tām̐re milibāre mane  
+pleased  He had become  him  to meet  in His mind
+
+(184) Although the Lord had been pleased to see the king serving as a sweeper, and in His heart wished to meet him,
+
+তথাপি আপন-গণে করিতে সাবধান ৷  
+বাহ্যে কিছু রোষাভাস কৈলা ভগবান্ ॥ ১৮৫ ॥
+
+tathāpi āpana-gaṇe karite sāvadhāna  
+still  His own people  to make  cautious  
+bāhye kichu roṣābhāsa kailā bhagavān  
+outwardly  a little  a semblance of anger  showed  the Lord
+
+(185) still, to make His own people careful, He outwardly showed a semblance of anger.[^58]
+
+প্রভুর বচনে রাজার মনে হৈল ভয় ৷  
+সার্ব্বভৌম কহে, — তুমি না কর সংশয় ॥ ১৮৬ ॥
+
+prabhura vacane rājāra mane haila bhaya  
+by the Lord’s  words  of the king  in the mind  arose  fear  
+sārvabhauma kahe, — tumi nā kara saṁśaya  
+Sārvabhauma  says  you  not  make  doubt
+
+(186) The Lord’s words frightened the king, but Sārvabhauma said, “Do not worry.
+
+তোমার উপরে প্রভুর সুপ্রসন্ন মন ৷  
+তোমা লক্ষ্য করি’ শিখায়েন নিজ-গণ ॥ ১৮৭ ॥
+
+tomāra upare prabhura suprasanna mana  
+you  upon  the Lord’s  very pleased  mind  
+tomā lakṣya kari’ śikhāyena nija-gaṇa  
+you  the target  making  He teaches  His own people
+
+(187) The Lord is very pleased with you. He is only making you an example in order to teach His own people.
+
+অবসর জানি’ আমি করিব নিবেদন ৷  
+সেইকালে যাই’ করিহ প্রভুর মিলন ॥ ১৮৮ ॥
+
+avasara jāni’ āmi kariba nivedana  
+the opportunity  knowing  I  will make  the request  
+sei-kāle yāi’ kariha prabhura milana  
+at that time  going  make  with the Lord  the meeting
+
+(188) When I see the right moment, I will present your request, and then you can go and meet the Lord.”
+
+তবে মহাপ্রভু রথ প্রদক্ষিণ করিয়া ৷  
+রথ-পাছে যাই’ ঠেলে রথে মাথা দিয়া ॥ ১৮৯ ॥
+
+tabe mahāprabhu ratha pradakṣiṇa kariyā  
+then  Mahāprabhu  of the chariot  circumambulation  making  
+ratha-pāche yāi’ ṭhele rathe māthā diyā  
+behind the chariot  going  pushes  against the chariot  the head  putting
+
+(189) Then Mahāprabhu walked around the chariot, went behind it, and pushed it with His head.
+
+ঠেলিতেই চলিল রথ ‘হড়’ ‘হড়’ করি’ ৷  
+চতুর্দ্দিকে লোক সব বলে ‘হরি’ ‘হরি’ ॥ ১৯০ ॥
+
+ṭhelitei calila ratha ‘haḍa’ ‘haḍa’ kari’  
+the moment He pushed  moved  the chariot  ‘haḍa’  ‘haḍa’  making  
+catur-dike loka saba bale ‘hari’ ‘hari’  
+on four sides  people  all  call  ‘Hari’  ‘Hari’
+
+(190) The moment He pushed, the chariot rolled on with a rumbling “haḍa-haḍa”, and all around the people cried, “Hari! Hari!”
+
+তবে প্রভু নিজ-ভক্তগণ লঞা সঙ্গে ৷  
+বলদেব-সুভদ্রাগ্রে নৃত্য করে রঙ্গে ॥ ১৯১ ॥
+
+tabe prabhu nija-bhakta-gaṇa lañā saṅge  
+then  the Lord  His own devotees  taking  with Him  
+baladeva-subhadrāgre nṛtya kare raṅge  
+before Baladeva and Subhadrā  dance  does  joyfully
+
+(191) Then the Lord, with His devotees, joyfully danced before Baladeva and Subhadrā.
+
+তাঁহা নৃত্য করি’ জগন্নাথাগ্রে আইলা ৷  
+জগন্নাথ-আগে নৃত্য করিতে লাগিলা ॥ ১৯২ ॥
+
+tām̐hā nṛtya kari’ jagannāthāgre āilā  
+there  dance  having done  in front of Jagannātha  He came  
+jagannātha-āge nṛtya karite lāgilā  
+before Jagannātha  dance  to do  He began
+
+(192) After dancing there, He came back in front of Jagannātha and began to dance before Him.
+
+চলিয়া আইল রথ ‘বলগণ্ডি’-স্থানে ৷  
+জগন্নাথ রথ রাখি’ দেখে ডাহিনে-বামে ॥ ১৯৩ ॥
+
+caliyā āila ratha ‘balagaṇḍi’-sthāne  
+moving  came  the chariot  to the place Balagaṇḍi  
+jagannātha ratha rākhi’ dekhe ḍāhine vāme  
+Jagannātha  the chariot  stopping  looks  right  left
+
+(193) Rolling on, the chariot reached Balagaṇḍi. There Jagannātha stopped His chariot and looked to the right and to the left.[^59]
+
+বামে — ‘বিপ্রশাসন’, নারিকেল-বন ৷  
+ডাহিনে ত’ পুষ্পোদ্যান যেন বৃন্দাবন ॥ ১৯৪ ॥
+
+vāme — ‘vipra-śāsana’ nārikela-vana  
+on the left —  ‘the brāhmaṇa settlement’  a coconut grove  
+ḍāhine ta’ puṣpodyāna yena vṛndāvana  
+on the right  indeed  a flower garden  like  Vṛndāvana
+
+(194) On the left was the brāhmaṇa settlement (*vipra-śāsana*) with its coconut grove; on the right was a flower garden like Vṛndāvana.[^60]
+
+আগে নৃত্য করে গৌর লঞা ভক্তগণ ৷  
+রথ রাখি’ জগন্নাথ করেন দরশন ॥ ১৯৫ ॥
+
+āge nṛtya kare gaura lañā bhakta-gaṇa  
+in front  dance  does  Gaura  taking  the devotees  
+ratha rākhi’ jagannātha karena daraśana  
+the chariot  stopping  Jagannātha  makes  seeing
+
+(195) In front, Gaura danced with His devotees, and Jagannātha, having stopped His chariot, watched Him.
+
+সেই স্থলে ভোগ লাগে, — আছয়ে নিয়ম ৷  
+কোটি ভোগ জগন্নাথ করে আস্বাদন ॥ ১৯৬ ॥
+
+sei sthale bhoga lāge, — āchaye niyama  
+at that  place  the food offering  is offered  there is  a custom  
+koṭi bhoga jagannātha kare āsvādana  
+millions of  offerings  Jagannātha  makes  tasting
+
+(196) By custom, food is offered to Jagannātha at that place, and He tastes millions of offerings.[^61]
+
+জগন্নাথের ছোট-বড়, যত ভক্তগণ ৷  
+নিজ-নিজ উত্তম-ভোগ করে সমর্পণ ॥ ১৯৭ ॥
+
+jagannāthera choṭa-baḍa yata bhakta-gaṇa  
+of Jagannātha  humble and great  all  the devotees  
+nija-nija uttama-bhoga kare samarpaṇa  
+each his own  the best food  make  offering
+
+(197) All of Jagannātha’s devotees, humble and great, offered Him the best food they had.
+
+রাজা, রাজমহিষীবৃন্দ, পাত্র, মিত্রগণ ৷  
+নীলাচলবাসী যত ছোট বড় জন ॥ ১৯৮ ॥
+
+rājā, rāja-mahiṣī-vṛnda, pātra, mitra-gaṇa  
+the king  the host of queens  ministers  friends  
+nīlācala-vāsī yata choṭa-baḍa jana  
+of Nīlācala  the residents  all  humble and great  people
+
+(198) The king, the queens, the ministers and friends, all the residents of Nīlācala, humble and great,
+
+নানা-দেশের দেশী যত যাত্রিক জন ৷  
+নিজ-নিজ-ভোগ তাঁহা করে সমর্পণ ॥ ১৯৯ ॥
+
+nānā-deśera deśī yata yātrika jana  
+of various lands  natives  all  pilgrim  people  
+nija-nija-bhoga tām̐hā kare samarpaṇa  
+each his own food  there  make  offering
+
+(199) and all the pilgrims from many lands offered their own food there.
+
+আগে-পাছে, দুই পার্শ্বে উদ্যানের বনে ৷  
+যেই যাহা পায়, লাগায়, — নাহিক নিয়মে ॥ ২০০ ॥
+
+āge-pāche, dui pārśve udyānera vane  
+in front and behind  on both  sides  of the gardens  in the groves  
+yei yāhā pāya, lāgāya, — nāhika niyame  
+whoever  whatever (place)  finds  offers  there is no  rule
+
+(200) In front and behind, on both sides, in the groves of the gardens, each offered his food wherever he found a place; there was no fixed rule.
+
+ভোগের সময় লোকের মহা-ভিড় হৈল ৷  
+নৃত্য ছাড়ি’ মহাপ্রভু উপবনে গেল ॥ ২০১ ॥
+
+bhogera samaya lokera mahā bhiḍa haila  
+of the offering  at the time  of people  a great  crowd  formed  
+nṛtya chāḍi’ mahāprabhu upavane gela  
+the dance  leaving  Mahāprabhu  into a garden  went
+
+(201) At the time of the offering a great crowd gathered, so Mahāprabhu stopped dancing and went into a garden.[^62]
+
+প্রেমাবেশে মহাপ্রভু উপবন পাঞা ৷  
+পুষ্পোদ্যানে গৃহপিণ্ডায় রহিলা পড়িয়া ॥ ২০২ ॥
+
+premāveśe mahāprabhu upavana pāñā  
+absorbed in love  Mahāprabhu  the garden  reaching  
+puṣpodyāne gṛha-piṇḍāya rahilā paḍiyā  
+in the flower garden  on a house’s raised platform  remained  lying
+
+(202) Absorbed in love, Mahāprabhu entered the flower garden and lay down there on the raised platform (*piṇḍā*) of a house.
+
+নৃত্য-পরিশ্রমে প্রভুর দেহে ঘন ঘর্ম্ম ৷  
+সুগন্ধি শীতল-বায়ু করেন সেবন ॥ ২০৩ ॥
+
+nṛtya-pariśrame prabhura dehe ghana gharma  
+from the exertion of dancing  the Lord’s  on the body  heavy  sweat  
+sugandhi śītala-vāyu karena sevana  
+fragrant  cool breeze  He makes  enjoying
+
+(203) After the exertion of the dance His body was covered with sweat, and He enjoyed the cool, fragrant breeze.
+
+যত ভক্ত কীর্ত্তনীয়া আসিয়া আরাম ৷  
+প্রতিবৃক্ষতলে সবে করেন বিশ্রাম ॥ ২০৪ ॥
+
+yata bhakta kīrtanīyā āsiyā ārāma  
+all  the devotees  kīrtana singers  coming  to the garden  
+prati-vṛkṣa-tale sabe karena viśrāma  
+under each tree  all  make  rest
+
+(204) All the devotees and kīrtana singers came into the garden and rested under the trees.
+
+এই ত’ কহিল প্রভুর মহাসংকীর্ত্তন ৷  
+জগন্নাথের আগে যৈছে করিল নর্ত্তন ॥ ২০৫ ॥
+
+ei ta’ kahila prabhura mahā-saṅkīrtana  
+thus  I have told  of the Lord  the great saṅkīrtana  
+jagannāthera āge yaiche karila nartana  
+before Jagannātha  how  He did  dancing
+
+(205) Thus I have told of the Lord’s great saṅkīrtana and how He danced before Jagannātha.
+
+রথাগ্রেতে প্রভু যৈছে করিলা নর্ত্তন ৷  
+শ্রীচৈতন্যাষ্টকে রূপ-গোসাঞি কর্য্যাছে বর্ণন ॥ ২০৬ ॥
+
+rathāgrete prabhu yaiche karilā nartana  
+in front of the chariot  the Lord  how  did  dancing  
+śrī caitanyāṣṭake rūpa-gosāñi karyāche varṇana  
+in the Śrī Caitanyāṣṭaka  Rūpa Gosāñi  has made  a description
+
+(206) How the Lord danced in front of the chariot, Rūpa Gosāñi has described in his *Śrī Caitanyāṣṭaka*:
+
+রথারূঢ়স্যারাদধিপদবি নীলাচলপতে-  
+রদভ্রপ্রেমোর্ম্মিস্ফুরিতনটনোল্লাসবিবশঃ ৷  
+সহর্ষং গায়দ্ভিঃ পরিবৃত-তনুর্বৈষ্ণবজনৈঃ  
+স চৈতন্যঃ কিং মে পুনরপি দৃশোর্যাস্যতি পদম্ ॥ ২০৭ ॥
+
+rathārūḍhasyārād adhipadavi nīlācala-pater  
+of the One seated on the chariot  near  on the main road  of Nīlācala  of the Lord  
+adabhra-premormi-sphurita-naṭanollāsa-vivaśaḥ  
+by abundant waves of love  throbbing  by the joy of dancing  overwhelmed  
+sa-harṣaṁ gāyadbhiḥ parivṛta-tanur vaiṣṇava-janaiḥ  
+joyfully  by those singing  surrounded in body  by the Vaiṣṇavas  
+sa caitanyaḥ kiṁ me punar api dṛśor yāsyati padam  
+that  Caitanya  will  my  again  even  of the eyes  come  into the path
+
+(207) “Before the Lord of Nīlācala, who sits on His chariot on the great road, He dances, overwhelmed by the joy of a dance that throbs with abundant waves of love, while the Vaiṣṇavas around Him sing in delight. Will that Caitanya ever again come before my eyes?” (Stava-mālā, First Caitanyāṣṭaka, 7)[^63]
+
+ইহা যেই শুনে সেই শ্রীচৈতন্য পায় ৷  
+সুদৃঢ় বিশ্বাস-সহ প্রেমভক্তি হয় ॥ ২০৮ ॥
+
+ihā yei śune sei śrī caitanya pāya  
+this  who  hears  he  Śrī  Caitanya  attains  
+sudṛḍha viśvāsa-saha prema-bhakti haya  
+firm  faith  with  loving devotion  arises
+
+(208) Whoever hears this attains Śrī Caitanya, and loving devotion with firm faith awakens in him.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২০৯ ॥
+
+śrī rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(209) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^64]
+
 ---
 
 [^1]: Heading in the edition: “Glory to Gaurahari, who danced wondrously before the chariot.”
@@ -1143,3 +2344,53 @@ on all the limbs  perspiration  flows  with it  blood oozing
 [^38]: Heading in the edition: “Even an insult or a blow from a Vaiṣṇava is a sign of good fortune.”
 
 [^39]: *Anubhāṣya*: “jaja gaga” — so indistinctly did the Lord’s words sound when He tried to say “Jagannātha”.
+
+[^40]: The same song as Madhya 1.55; translation as there. Heading in the edition: “The song of Śrī Dāmodara Svarūpa.” *Amṛta-pravāha-bhāṣya*: leaving the *tāṇḍava* dance, Mahāprabhu felt in His heart Śrī Rādhā’s mood at the meeting in Kurukṣetra, and after the long separation this song came to Him of itself.
+
+[^41]: *pāche pāche yāya*, “goes back, back”: facing Jagannātha (116–117), the Lord moved backwards before the chariot; cf. 118 and the *Amṛta-pravāha-bhāṣya* there.
+
+[^42]: *Amṛta-pravāha-bhāṣya*: when Gauracandra, acting out the song, walked backwards, Jagannātha stood still; when Gaura went forward, Jagannātha slowly moved after Him. Heading in the edition: “In the Lord, enriched with Śrī Rādhā’s mood, there is more prema than in Kṛṣṇa.”
+
+[^43]: *Anubhāṣya*: in Śrī Rādhā’s mood Mahāprabhu draws Jagannātha — Kṛṣṇa — from Nīlācala, the place of His pastimes of majesty, to Guṇḍicā, the land of His pastimes of sweetness. He falls back to dispel the doubt whether Kṛṣṇa is really going out of love for Śrī Rādhā and the other people of Vraja; Jagannātha, understanding His mood, stops and waits, and when Gaura goes forward, follows Him, abashed. In this contest of feelings Mahāprabhu, enriched with Śrī Rādhā’s mood — that is, His prema — proves the stronger.
+
+[^44]: The same verse as Madhya 1.58; translation as there. The heading in the edition says that the verse is cited in the *Kāvya-prakāśa* (1.4), the *Sāhitya-darpaṇa* (ch. 1) and the *Padyāvalī* (382).
+
+[^45]: The same verse as Madhya 1.81; translation as there. Heading in the edition: “The gopī longs to have Kṛṣṇa in her own home.” The edition then marks the following song (137–158) as “its meaning, in a rāga”.
+
+[^46]: *Anubhāṣya*: a worldly person calls “mind” the heart that makes and unmakes resolves; but the heart that has given up the urge to enjoy and is devoted to Kṛṣṇa’s service Rādhā knows as “Vṛndāvana”, the place of Śrī Rādhā and Kṛṣṇa’s pastimes. Heading in the edition: “Kṛṣṇa should appear only in Vṛndāvana — in the pure heart that longs to please His senses.”
+
+[^47]: *Amṛta-pravāha-bhāṣya*: My heart is full of prema, and there is no room in it for *jñāna-yoga*. *Anubhāṣya*: for Uddhava’s mission see Śrīmad-Bhāgavatam, 10.47.
+
+[^48]: *Amṛta-pravāha-bhāṣya*: to teach the gopī meditation is mere duplicity, and hearing it, her wounded pride (*abhimāna*) only grows.
+
+[^49]: *Anubhāṣya*: worldly life (*saṁsāra*) is born of the memory of the body, of absorption in thoughts of it; the gopīs, like perfected great devotees, have no such memory. The *timiṅgila* is a huge sea monster that can swallow even the great fish *timi*. *Amṛta-pravāha-bhāṣya*: the *kāma* that swallows them is the desire for Kṛṣṇa’s service alone.
+
+[^50]: Heading in the edition: “Telling of Yaśodā’s grief, Rādhā tries to stir Kṛṣṇa’s compassion; the people of Vraja would rather die than be separated from Him.” The *Amṛta-pravāha-bhāṣya* reads the third line otherwise: “now You kill them by separation, now You revive them by Your company”.
+
+[^51]: Heading in the edition: “A device to console Śrī Rādhā.” *Anubhāṣya*: Yadupurī — Dvārakā and Mathurā. *Amṛta-pravāha-bhāṣya*: by the power of Nārāyaṇa’s all-pervading majesty (*vibhutva*) I come to Vraja every day.
+
+[^52]: The edition reads রাজ্য-আবরণে, hyphenated (“the covering of a kingdom”; scan, p. 557); the Bengali text and transliteration are corrected accordingly. *Anubhāṣya*: *yebā* — “although”.
+
+[^53]: The same verse as Ādi 4.23 and Madhya 8.89; translation as there. The heading in the Gauḍīya Maṭha edition gives the reference as Śrīmad-Bhāgavatam 10.82.31; the standard numbering is 10.82.44.
+
+[^54]: *Amṛta-pravāha-bhāṣya*: *bhāvodaya*, *bhāva-śānti*, *sandhi* and *śābalya* are the rising, the subsiding, the meeting and the mingling of feelings. *Anubhāṣya*: see Madhya 2.63.
+
+[^55]: *Amṛta-pravāha-bhāṣya*: *cauguṇa-maṅgala* — auspicious sounds (*maṅgala-dhvani*) multiplied fourfold. Heading in the edition: “All raise a joyful clamour of love.”
+
+[^56]: Heading in the edition: “As He dances, the Lord is about to fall before the king.”
+
+[^57]: Heading in the edition: “In outer consciousness the Lord — the teacher of the people, the guru of the world, playing the part of an ācārya — reproaches Himself because the king has touched Him.”
+
+[^58]: *Anubhāṣya*: “His own people” — devotees who play the part of those seeking to cross the ocean of worldly life: free from possessions, turned towards Bhagavān’s service, striving to rise to prema.
+
+[^59]: *Amṛta-pravāha-bhāṣya*: Balagaṇḍi is the place between Śraddhābālu and the temple of Ardhāsanī-devī.
+
+[^60]: *Anubhāṣya*: in Utkala a brāhmaṇa settlement is called *vipra-śāsana*.
+
+[^61]: The edition prints the number of this verse as 197, so that 197 occurs twice.
+
+[^62]: Heading in the edition: “At the time of the offering a crowd gathers, and the Lord goes into a nearby garden to rest.”
+
+[^63]: The refrain as in Ādi 3.65 and 4.51. Heading in the edition: “Words of Śrī Rūpa Gosvāmī, from the *Stava-mālā*, the first hymn to Śrī Caitanyadeva, verse 7.” *Anubhāṣya*: Śrī Rūpa Gosvāmī composed three *Śrī Caitanyāṣṭakas*; this is the seventh verse of the first. “Overwhelmed” (*vivaśa*) — exhausted by the joy of the dance, in which abundant waves of prema were reflected.
+
+[^64]: The same colophon as Madhya 7.155; translation as there.
