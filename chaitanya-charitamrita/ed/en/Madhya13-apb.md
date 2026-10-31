@@ -63,3 +63,15 @@ I am not a *brāhmaṇa*, not a *kṣatriya* king, not a *vaiśya* or a *śūdra
 ## 82
 
 “He whirled like a firebrand wheel (*alāta*)”: like a wheel of burning (blazing) coal, Mahāprabhu began to spin round and round (to whirl) like a wheel.
+
+## 113
+
+Leaving the wild dance (*tāṇḍava*), Mahāprabhu felt in His heart the *bhāva* of Śrī Rādhā at the meeting in Kurukṣetra. After a long separation, this song came to Him of itself.
+
+## 118
+
+When Gauracandra, acting out the song, stepped backward, Jagannātha stood still. When Gaura went forward, Jagannātha slowly moved ahead.
+
+## 137
+
+For other people the mind is the heart; but My mind is not separate from Vṛndāvana. I know the mind and Vṛndāvana to be “one.”

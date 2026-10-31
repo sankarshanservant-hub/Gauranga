@@ -315,3 +315,169 @@ The great devotee (*mahā-bhāgavata*) Śrī Śukadeva, at the end of the Tenth 
 ## 91
 
 > Subheading: Leaning on Haricandana's shoulder, the king watches the Lord dance —
+
+## 92
+
+> Subheading: Standing before the king, Śrīvāsa serves the Lord by watching His dance —
+
+## 93
+
+> Subheading: So that the king may see freely, Haricandana gently tries to move Śrīvāsa aside —
+
+## 94
+
+> Subheading: Absorbed in service, Śrīvāsa grows angry because his service is interrupted again and again —
+
+## 95
+
+> Subheading: [Śrīvāsa] slaps Haricandana, who becomes angry in turn —
+
+*Tāre*: Haricandana.
+
+## 96
+
+> Subheading: The king restrains Haricandana —
+
+*Tā̃re*: Śrīvāsa.
+
+## 88–96
+
+By enclosing [everyone] with the third circle, the king set apart from the crowd the second circle, the first, and Śrī Mahāprabhu within them. The purpose was this: if the crowd broke up the third ring, the second would protect the Lord; and if the second were crushed in the same way, the first ring would take up the work of protecting Him.
+
+## 97
+
+> Subheading: Even an insult or a blow from a Vaiṣṇava is a sign of good fortune —
+
+## 98
+
+> Subheading: Motionless and unblinking, Jagannātha watches the Lord's dance in supreme bliss —
+
+## 100
+
+> Subheading: Seeing the Lord's dance, Subhadrā and Balarāma rejoice —
+
+## 101
+
+> Subheading: The Lord's form and pastimes, adorned with all eight *sāttvika-bhāvas* —
+
+Eight kinds of *sāttvika-bhāva* arise at the same time.
+
+## 102
+
+The hairs on the Lord's body stood on end, and the pores of His skin looked like little fleshy pimples.
+
+## 104
+
+“*Jaja gaga*”: such were the indistinct words of the Lord as He tried to say, that is, to pronounce, “Jagannātha.”
+
+## 105
+
+*Jala-yantra*: a syringe (*pickārī*), a watering can (*jhā̃jharā*) or a fountain.
+
+## 109
+
+> Subheading: Streams of nectarean foam on the Lord's moonlike face —
+
+## 110
+
+> Subheading: Śubhānanda drinks [the foam] —
+
+Śubhānanda: see Ādi 10.110 and Madhya 13.39.
+
+## 111
+
+> Subheading: After dancing, the Lord listens to a song about the meeting of the beloved with her Beloved —
+
+## 113
+
+> Subheading: The song of Śrī Dāmodara Svarūpa —
+
+See Madhya 1.53–56.
+
+## 114
+
+> Subheading: Hearing the song, the Lord dances —
+
+## 115
+
+> Subheading: Jagannātha moves along behind the Lord —
+
+## 116
+
+> Subheading: All the devotees dance and sing, facing Jagannātha —
+
+## 117
+
+> Subheading: After a long separation the Lord, filled with the *bhāva* of Śrī Rādhā, meets His beloved Śrī Kṛṣṇa —
+
+## 118
+
+> Subheading: In the Lord, enriched with the *bhāva* of Śrī Rādhā, there is more *prema* than in Kṛṣṇa —
+
+## 118–119
+
+Śrī Mahāprabhu's *bhāva* is this. Vrajendra-nandana left the women of Gokula and became absorbed in the pastimes of the city;[^118-119-1] later, at the meeting in Kurukṣetra, He regained their company. Here Śrī Gaurasundara, enriched with Rādhā's *bhāva*, is drawing Śrī Jagannāthadeva, who is Vrajendra-nandana, from Śrī Kṣetra Nīlācala, the field of the pastimes of majesty (*aiśvarya*), toward the Guṇḍicā, the land of the pastimes of sweetness (*mādhurya*). Gaurahari, filled with the *bhāva* of Śrī Rādhā and the *gopīs*, falls behind for this purpose. Vrajendra-nandana had forgotten the mood of Vraja and neglected them — Śrī Rādhā and the other *gopīs*. Yet by their efforts Kṛṣṇa's sweetness of Vraja awakens again; so one realizes that the pastimes of sweetness surpass the pastimes of majesty — and Kṛṣṇa's chariot sets out. Śrīman Mahāprabhu falls behind to dispel a doubt: is Kṛṣṇa really going out of heartfelt love for Śrī Rādhā and the other people of Vraja, or has He some other purpose? Understanding the *bhāva* in Mahāprabhu's heart, Śrī Jagannāthadeva also stops and waits for Him. For without the Queen of Vṛndāvana (Vṛndāvaneśvarī) the mood of Vraja cannot reach its full beauty. Seeing Jagannātha waiting, Gaurasundara understands the power of the *gopīs'* *bhāva*, takes heart and goes forward; then Śrī Jagannāthadeva too, abashed, slowly follows Him. We see that it is Jagannāthadeva who follows Gaura, absorbed in the *bhāva* of the *gopīs* — of Śrī Rādhā and the others — and who is fit to wait for Gaura. Therefore, in this pushing back and forth, this clash, of the two *bhāvas* — Mahāprabhu's *bhāva* toward Jagannātha and Jagannātha's *bhāva* toward Mahāprabhu — Mahāprabhu, enriched with Śrī Rādhā's *bhāva*, that is, His *prema*, proves the stronger.
+
+## 120
+
+> Subheading: After separation, [the Lord] recites a verse that awakens the memory of the place of meeting —
+
+## 122
+
+> Subheading: Śrī Svarūpa knows the taste (*rasa*) of the feelings in the Lord's heart —
+
+## 121–122
+
+See Madhya 1.58–59.
+
+## 123
+
+> Subheading: The meaning of the verse is explained in the first chapter —
+
+See Madhya 1.53, 77–80, 82–84.
+
+## 124
+
+> Subheading: After a long separation the *gopīs* meet Kṛṣṇa at Kurukṣetra —
+
+## 125
+
+> Subheading: Seeing Jagannātha, the Lord is filled with that same *bhāva* of the *gopīs* —
+
+## 126
+
+> Subheading: The words of the cowherd maiden Śrīmatī Rādhikā to Kṛṣṇa in His royal dress —
+
+## 132
+
+> Subheading: This is described in the first chapter, among the summaries (*sūtras*) —
+
+See Madhya 1.81 and 13.136.
+
+## 133
+
+> Subheading: No one but Svarūpa and Rūpa knows the meaning of the *Bhāgavatam* verse —
+
+## 135
+
+> Subheading: In the midst of the dance [the Lord] recites a verse whose taste He always savors —
+
+## 133–135
+
+See Madhya 1.59–60, 69–72 and 76–84.
+
+## 136
+
+> Subheading: The *gopī* longs to have Kṛṣṇa in her own home —
+
+See Madhya 1.81.
+
+## 137
+
+> Subheading: It is fitting for Kṛṣṇa to appear only in Vṛndāvana — the pure heart filled with the desire to please Kṛṣṇa's senses —
+
+A worldly person calls “mind” the heart, whose nature is to form and to reject resolves (*saṅkalpa* and *vikalpa*). But I have given up the worldly desire to enjoy, and I know My heart, devoted to Kṛṣṇa's service, as “Vṛndāvana,” the place of Śrī Rādhā and Kṛṣṇa's pastimes.
+
+## 138
+
+> Subheading: The pure heart longs for Kṛṣṇa's company —
