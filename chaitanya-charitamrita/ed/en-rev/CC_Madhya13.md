@@ -740,7 +740,7 @@ for the high-leaping dance  of the Lord  when  became  the mind
 svarūpera saṅge dila ei nava jana  
 with Svarūpa  together  He gave  these  nine  persons
 
-(73–74) When the Lord wished to dance His wild, leaping dance, He put nine devotees together with Svarūpa: Śrīvāsa, Rāmāi, Raghu, Govinda, Mukunda, Haridāsa, Govindānanda, Mādhava and Govinda.
+(73–74) For His wild, leaping dance He put nine devotees together with Svarūpa: Śrīvāsa, Rāmāi, Raghu, Govinda, Mukunda, Haridāsa, Govindānanda, Mādhava and Govinda.
 
 এই দশ জন প্রভুর সঙ্গে গায়, ধায় ৷  
 আর সব সম্প্রদায় চারি দিকে গায় ॥ ৭৫ ॥
@@ -872,7 +872,7 @@ heavily  falling  He falls  to the ground  rolling  goes
 suvarṇa-parvata yaiche bhūmete loṭāya  
 a golden mountain  like  on the ground  rolls
 
-(85) He fell heavily to the ground and rolled about, like a golden mountain rolling on the earth.
+(85) He fell heavily to the ground and rolled there like a golden mountain.
 
 নিত্যানন্দপ্রভু দুই হাত প্রসারিয়া ৷  
 প্রভুরে ধরিতে চাহে আশপাশ ধাঞা ॥ ৮৬ ॥
