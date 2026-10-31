@@ -1132,7 +1132,7 @@ in this way  the tāṇḍava dance  He did  for some time
 bhāva-viśeṣe prabhura praveśila mana  
 into a special feeling  the Lord’s  entered  mind
 
-(111) Thus the Lord danced the vigorous *tāṇḍava* dance for some time, and then His mind entered a special mood.
+(111) Thus the Lord danced the vigorous *tāṇḍava* dance for some time, and then His mind entered a particular mood.
 
 তাণ্ডব-নৃত্য ছাড়ি’ স্বরূপেরে আজ্ঞা দিল ৷  
 হৃদয় জানিয়া স্বরূপ গাইতে লাগিল ॥ ১১২ ॥
@@ -1308,7 +1308,7 @@ here  a forest of people  elephants  horses  the rumble of chariots
 tām̐hā puṣpāraṇya, bhṛṅga-pika-nāda śuni  
 there  a forest of flowers  of bees and cuckoos  the sound  I hear
 
-(128) Here there is a forest of people, elephants and horses and the rumble of chariots; there was a forest of flowers, where one heard the humming of bees and the call of the cuckoos.
+(128) Here there is a forest of people, elephants and horses and the rumble of chariots; there, a forest of flowers, where I heard the humming of bees and the call of the cuckoos.
 
 ইঁহা রাজ-বেশ, সঙ্গে সব ক্ষত্রিয়গণ ৷  
 তাঁহা গোপবেশ, সঙ্গে মুরলী-বাদন ॥ ১২৯ ॥
@@ -1348,7 +1348,7 @@ in the Bhāgavatam  there are  as  Rādhikā’s words
 pūrve tāhā sūtra-madhye kariyāchi varṇana  
 before  that  in the summary  I have made  a description
 
-(132) Rādhikā’s words as they stand in the *Bhāgavatam* I have already described before, in the summary of the book.
+(132) Rādhikā’s words as they stand in the *Bhāgavatam* I described earlier, in the summary of the book.
 
 সেই ভাবাবেশে প্রভু পড়ে আর শ্লোক ৷  
 সেই সব শ্লোকের অর্থ নাহি বুঝে লোক ॥ ১৩৩ ॥
@@ -1378,7 +1378,7 @@ Svarūpa  with  whose  meaning  He makes  relishing
 nṛtya-madhye sei śloka karena paṭhana  
 in the midst of the dance  that  verse  He makes  reciting
 
-(135) In the midst of the dance He recited the verse whose meaning He relished with Svarūpa:
+(135) In the midst of the dance He recited the verse whose meaning He always relished with Svarūpa:
 
 আহুশ্চ তে নলিন-নাভ পদারবিন্দং  
 যোগেশ্বরৈর্হৃদি বিচিন্ত্যমগাধবোধৈঃ ৷  
@@ -1583,7 +1583,7 @@ of the people of Vraja  the love  hearing  Himself  ‘a debtor’  considering
 kare kṛṣṇa tām̐re āśvāsana  
 makes  Kṛṣṇa  to Her  consolation
 
-(148) Hearing Rādhikā’s words and remembering the love of Vraja, Kṛṣṇa was shaken in body and mind. Hearing of the love of the people of Vraja, He considered Himself their debtor and began to console Her:
+(148) Hearing Rādhikā’s words and remembering the love of Vraja, Kṛṣṇa was shaken in body and mind. As He heard of the love of the people of Vraja, He considered Himself their debtor and began to console Her:
 
 প্রাণপ্রিয়ে, শুন, মোর এই সত্য-বচন ৷  
 তোমা-সবার স্মরণে, ঝুরোঁ মুঞি রাত্রিদিনে,  
@@ -1947,7 +1947,7 @@ of others  what  to speak  Jagannātha and Haladhara
 prabhura nṛtya dekhi’ sukhe calilā manthara  
 of the Lord  the dance  seeing  in joy  moved  slowly
 
-(178) Not only the others: Jagannātha and Haladhara (Balarāma) Themselves, seeing the Lord’s dance, moved on slowly in delight.
+(178) Even Jagannātha and Haladhara (Balarāma), let alone the others, moved on slowly in delight as They watched the Lord’s dance.
 
 কভু সুখে নৃত্যরঙ্গ দেখে রথ রাখি’ ৷  
 সে কৌতুক যে দেখিল, সেই তার সাক্ষী ॥ ১৭৯ ॥
@@ -1967,7 +1967,7 @@ in this way  dance  the Lord  doing  wandering
 pratāparudrera āge lāgilā paḍite  
 of Pratāparudra  in front  He began  to fall
 
-(180) Dancing and wandering in this way, the Lord was about to fall in front of Pratāparudra.[^56]
+(180) Dancing and whirling about in this way, the Lord was about to fall in front of Pratāparudra.[^56]
 
 সম্ভ্রমে প্রতাপরুদ্র প্রভুকে ধরিল ৷  
 তাঁহাকে দেখিতে প্রভুর বাহ্য হইল ॥ ১৮১ ॥
