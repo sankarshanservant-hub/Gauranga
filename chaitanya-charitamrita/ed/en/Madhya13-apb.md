@@ -125,3 +125,9 @@ When Svarūpa Dāmodara sings of these *bhāvas*, the Lord's own senses — His 
 That Caitanyadeva who, before the Lord of Nīlācala seated on the chariot, overwhelmed by the joy of dancing in which waves of abundant *prema* shone forth, joyfully performed *saṅkīrtana*, surrounded by Vaiṣṇavas — will He come again within the path of my eyes?
 
 *Thus ends the thirteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^139-146-1]: The verse translation of 142 (VCD) reads differently, “the gigantic fish of passion”; for Bhaktivinoda *kāma* here is the desire for nothing but service to Kṛṣṇa.
+
+[^154-1]: The verse translation (VCD) reads differently: “I spend time in pastimes with You so that You may feel My presence.”

@@ -742,4 +742,28 @@ In Utkala a *brāhmaṇa* village is called a “*vipra-śāsana*.”
 
 Śrīla Prabodhānanda Sarasvatī Tridaṇḍipāda, in his *Śrī Rādhā-rasa-sudhā-nidhi*, has also described the beauty of the *kīrtana* and dance of Śrī Śrī Gaurahari with His associates: “We praise Śrī Gauracandra, surrounded by His singing associates. The hairs standing on end all over His body put to shame the beauty of a blossoming *nīpa* (*kadamba*) flower. Raising both arms high, He loudly calls out again and again, ‘Hari! Hari!’ He dances swiftly and sprinkles the earth with streams of tears.”
 
+## 208
+
+> Subheading: Hearing of Śrī Caitanya's dance before the chariot, one attains *prema-bhakti* for Caitanya —
+
 *Thus ends the thirteenth chapter of the “Anubhāṣya.”*
+
+---
+
+[^67-1]: A quotation from CC Madhya 9.195.
+
+[^67-2]: The edition (scan checked) reads *praṇāma* (obeisance); by the sense and by verse 67 (*śrī-bhāgavata-śāstra tāhāte pramāṇa*) it should be *pramāṇa* (evidence) — apparently a misprint.
+
+[^78-1]: *Śrīmad-Bhāgavatam* 10.31.19.
+
+[^118-119-1]: The edition (scan checked) reads *gaura-līlāya* (“in the pastimes of Gaura”), which does not fit the sense here; apparently a misprint for *pura-līlāya* (in the pastimes in the city, that is, in Mathurā and Dvārakā) or for *gaurava-līlāya* (in pastimes of awe and reverence). Translated by the sense.
+
+[^142-1]: So in the edition (scan checked): 11.35.19; the Eleventh Canto of the *Śrīmad-Bhāgavatam* has only 31 chapters, so the reference is apparently corrupt.
+
+[^142-2]: *Bhakti-rasāmṛta-sindhu* 1.2.285.
+
+[^155-1]: The edition (scan checked) reads *śrī-dhārā* — an obvious misprint for *śrī-rādhā*.
+
+[^196-1]: In the edition this verse is numbered 197, so that the number 197 appears twice (scan checked).
+
+[^207-1]: Unclear passage: the edition (scan checked) reads *tan-madhye duiṭī prathamāṣṭakera saptama-śloka* (literally, “among them two — the seventh verse of the first *aṣṭaka*”); translated by the sense.
