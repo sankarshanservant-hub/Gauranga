@@ -111,3 +111,17 @@ When Svarūpa Dāmodara sings of these *bhāvas*, the Lord's own senses — His 
 ## 178
 
 *Manthara*: slowly.
+
+## 193
+
+“At Balagaṇḍi”: the place between Śraddhābālu and [the temple of] Ardhāsanī-devī is called Balagaṇḍi.
+
+## 204
+
+“*Ārāma*”: a garden (a grove, an orchard, a garden).
+
+## 207
+
+That Caitanyadeva who, before the Lord of Nīlācala seated on the chariot, overwhelmed by the joy of dancing in which waves of abundant *prema* shone forth, joyfully performed *saṅkīrtana*, surrounded by Vaiṣṇavas — will He come again within the path of my eyes?
+
+*Thus ends the thirteenth chapter of the “Amṛta-pravāha-bhāṣya.”*

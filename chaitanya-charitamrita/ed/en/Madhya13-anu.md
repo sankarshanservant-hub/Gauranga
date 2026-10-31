@@ -663,3 +663,83 @@ See Madhya 2.81–82.
 ## 181
 
 > Subheading: The king catches hold of the Lord; the Lord returns to external consciousness —
+
+## 182
+
+> Subheading: The Lord — the teacher of the people, the guru of the world, playing the role of an *ācārya* — in external consciousness reproaches Himself at being touched by the king —
+
+## 184
+
+> Subheading: Seeing the king's humble service to Kṛṣṇa, the Lord is inwardly pleased, but for the good of those practicing *bhakti* He outwardly shows a semblance of anger —
+
+*Hāḍira sevana* (a sweeper's service): the work of a street sweeper (see Madhya 13.15–18).
+
+## 185
+
+*Āpana-gaṇa* (His own people): devotees who play the part of those who wish to cross the ocean of worldly existence, who are *akiñcana* and turned toward the service of Bhagavān — that is, who long to rise to *prema*.
+
+## 186
+
+> Subheading: The Lord's words frighten the king; Sārvabhauma reassures him —
+
+## 189
+
+> Subheading: The Lord Himself pushes the chariot —
+
+## 190
+
+> Subheading: Seeing the chariot move, the people call out the name of Hari —
+
+## 191
+
+> Subheading: The Lord and His associates dance before the chariots of Subhadrā and Balarāma —
+
+## 192
+
+> Subheading: Then, dancing before Jagannātha's chariot —
+
+## 193
+
+> Subheading: The chariot halts at Balagaṇḍi —
+
+## 194
+
+In Utkala a *brāhmaṇa* village is called a “*vipra-śāsana*.”
+
+## 196
+
+> Subheading: Jagannātha tastes the finest *bhoga*[^196-1] —
+
+## 198
+
+> Subheading: Everyone — small and great, subject and king alike — offers *bhoga* —
+
+## 201
+
+> Subheading: At the time of the *bhoga* a crowd gathers, and the Lord goes to rest in a nearby garden —
+
+## 203
+
+> Subheading: A cool breeze relieves His fatigue —
+
+## 204
+
+> Subheading: The *kīrtana* singers rest under the trees —
+
+## 205
+
+> Subheading: Such was the Lord's great *saṅkīrtana* —
+
+## 206
+
+> Subheading: The Lord's dance before the chariot is described in Śrī Rūpa's *Caitanyāṣṭaka* —
+
+## 207
+
+Śrī Rūpa Gosvāmī composed three *Śrī Caitanyāṣṭakas*; this is the seventh verse of the first *aṣṭaka*:[^207-1]
+
+**rathārūḍhasya** (standing on the chariot) **nīlācala-pateḥ** (of Jagannāthadeva) **ārāt** (near) **adhipadavi** (on the main road) **adabhra-premormi-sphurita-naṭanollāsa-vivaśaḥ** (*adabhreṇa*, abundant, *premormiṇā*, by the wave of *prema*, *sphuritaḥ*, reflected, *yaḥ naṭanollāsaḥ*, the joy of the dancing pastime, *tena vivaśaḥ*, overcome by fatigue from it) **sa-harṣam** (joyfully) **gāyadbhiḥ** (engaged in *kīrtana*) **vaiṣṇava-janaiḥ** (by the devotees) **parivṛta-tanuḥ** (He whose form is surrounded — such a one) **saḥ** **caitanyaḥ** (Gauracandra) **punar api** **kim** **me** (*mama* — my) **dṛśoḥ** **padam** (the path of the eyes) **yāsyati** (*prāpsyati* — will reach)?
+
+Śrīla Prabodhānanda Sarasvatī Tridaṇḍipāda, in his *Śrī Rādhā-rasa-sudhā-nidhi*, has also described the beauty of the *kīrtana* and dance of Śrī Śrī Gaurahari with His associates: “We praise Śrī Gauracandra, surrounded by His singing associates. The hairs standing on end all over His body put to shame the beauty of a blossoming *nīpa* (*kadamba*) flower. Raising both arms high, He loudly calls out again and again, ‘Hari! Hari!’ He dances swiftly and sprinkles the earth with streams of tears.”
+
+*Thus ends the thirteenth chapter of the “Anubhāṣya.”*
