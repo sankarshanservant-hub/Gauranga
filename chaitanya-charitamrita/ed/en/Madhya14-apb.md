@@ -24,6 +24,18 @@ O Beloved! People who have performed many pious deeds over many births come into
 
 *Paiḍa*: green coconut (*ḍāba*). (A variant reading has *paira*: *payrā* raw sugar.)
 
+## 32
+
+Sugar-made *nāraṅga*, *cholaṅga*, *ṭābā*, *kamalā* and other citrus fruits, and mango trees (“toys”).
+
+## 65
+
+*Āiṭoṭā*: a garden near Guṇḍicā.
+
+## 66
+
+Advaita and the other devotees who had come from Gauḍa each invited the Lord for a day and fed Him (gave Him *bhikṣā*). At the Guṇḍicā house the festival lasts nine days and is called the *nava-rātra-yātrā*; for those nine days the Lord stayed at Āiṭoṭā with the devotees. The nine chief devotees, headed by Advaita, invited the Lord for those nine days, and the other devotees divided the days of *cāturmāsya* among themselves, one day each.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

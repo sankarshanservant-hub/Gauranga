@@ -100,6 +100,154 @@ Here the author's knowledge of the variety of offerings (*naivedya*) to Kṛṣ�
 
 *Nāraṅga* and the rest are all citrus fruits. *Bījapūra*: *mātuluṅga*, the pomegranate (*bedānā*, or *ḍālima*), or possibly the *ṭābā-nebu* citron (?). *Chohārā*: dried dates (*khurmā*). *Drākṣā*: grapes.[^27-1]
 
+## 28
+
+*Manoharā*: a kind of *sandeśa*. *Kṣīrasā*: in the colloquial speech of East Bengal, *kṣīra* itself is called *kṣīrasā*.
+
+## 29
+
+A variant reading has *amṛta-bhaṇḍā*: papaya. *Saravatī*: a choice kind of lime. *Sara-bhājā* and *sara-purī* are made especially in the Kṛṣṇanagara area of the Nadia district.
+
+## 30
+
+*Hari-vallabha*: apparently a flatbread fried in ghee (?). *Seũti*: a fragrant flower. *Karpūra*: apparently a flower (?). *Ḍāla-marica-lāḍu*: balls made of mung (*mugera nāḍu*) (?). *Nabāta*: a sweet cooked in sugar syrup. *Amṛti*: a sweet fried in ghee, of the *jilipi* kind (made especially in East Bengal).
+
+## 31
+
+*Candrakānti*: thin pancakes (*cākli*) made of *kalāi* dal, or fluffy moon-shaped *baḍi*. *Biyaḍi*: a cake of puffed *biraṇa* rice. *Kadmā*: a very hard and well-known sweet made of rice flour in sugar syrup. *Tile-khājā*: a sweet made of *khājā* with sesame fried in ghee.
+
+## 33
+
+*Takra*: buttermilk (*ghol*). *Rasālā*: sherbet, *pānā*. *Khāni-khāni*: in small pieces, in slices.
+
+## 34
+
+Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Bengal the word *nebu* is pronounced *lemu*.
+
+## 35
+
+> Subheading: The plates of *prasāda* cover a large area —
+
+## 36
+
+> Subheading: The Lord rejoices, thinking of how Jagannātha was satisfied —
+
+## 37
+
+*Keyā-patra-droṇī*: cups (*ḍoṅgā*) made of *ketakī* leaves. *Donā*: leaf pouches (*ṭhoṅgā*).
+
+## 38
+
+> Subheading: Bhagavān Himself feeds the devotees tired from *kīrtana* —
+
+## 39
+
+> Subheading: The Lord Himself serves the food —
+
+*Pā̃ti*: in rows.
+
+## 40
+
+> Subheading: While the Lord does not eat, no one has any desire to eat —
+
+## 41
+
+> Subheading: Svarūpa makes a request [to the Lord] on behalf of the devotees —
+
+## 42
+
+> Subheading: The Lord honors the *prasāda* —
+
+## 43
+
+> Subheading: After the meal, rinsing the mouth (*ācamana*); many people receive the remaining *prasāda* —
+
+*Ubarila*: was left over, was in excess.
+
+## 44
+
+> Subheading: By the Lord's mercy the poor, the wretched and the destitute receive *prasāda* —
+
+## 45
+
+> Subheading: Gaurahari watches the destitute eat and teaches them to chant the name of Hari —
+
+## 46
+
+> Subheading: The destitute attain devotion to Hari —
+
+## 47
+
+> Subheading: The Gauḍas are unable to move the chariot —
+
+## 48
+
+> Subheading: The king arrives in haste with his retinue —
+
+## 49
+
+> Subheading: Even mighty wrestlers are unable to move the chariot —
+
+## 52
+
+> Subheading: The Lord and His associates watch the efforts to move the chariot —
+
+## 53
+
+> Subheading: Seeing that even the elephants cannot move the chariot, everyone cries out in dismay —
+
+## 54
+
+> Subheading: [The Lord] engages His own associates in pulling the chariot —
+
+## 55
+
+> Subheading: As soon as the Lord touches the chariot with His head, it moves —
+
+## 56
+
+> Subheading: The chariot moves without effort —
+
+## 57
+
+> Subheading: In their joy all cry out “Jaya!” —
+
+## 58
+
+> Subheading: By the Lord's power the chariot reaches Guṇḍicā —
+
+## 59
+
+> Subheading: The people glorify the Lord —
+
+## 60
+
+> Subheading: Seeing the Lord's greatness, the king is overwhelmed with *prema* —
+
+## 61
+
+> Subheading: Jagannātha's *pahāṇḍi* —
+
+## 62
+
+> Subheading: The *pahāṇḍi* of Subhadrā and Balarāma; Jagannātha is offered the *snāna-bhoga* —
+
+## 63
+
+> Subheading: The Lord's *kīrtana* with the devotees in the courtyard —
+
+## 64
+
+> Subheading: The Lord's *prema* drives everyone mad —
+
+## 65
+
+> Subheading: The Lord sees the evening *ārati* and rests at Āiṭoṭā —
+
+## 66
+
+> Subheading: Advaita and the others, nine in all, invite the Lord for the nine days of the *nava-rātra-yātrā* —
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
