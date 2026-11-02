@@ -1995,7 +1995,7 @@ with a graceful, cherished body glowing with the joy of love for Her beloved
 priya-prītyai sāsīd udita-lalitālaṅkṛti-yutā  
 for Her beloved’s delight  She  was  with the ornament of lalita that had arisen  endowed
 
-(194) “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta 9.14)
+(194) “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta, 9.14)
 
 লোভে আসি’ কৃষ্ণ করে কঞ্চুকাকর্ষণ ৷  
 অন্তরে উল্লাস, রাধা করে নিবারণ ॥ ১৯৫ ॥
@@ -2065,7 +2065,7 @@ of Mādhava  makes  She whose thighs are like an elephant’s trunk
 hāri śuṣka-ruditaṁ ca mukhe ’pi  
 charming  dry weeping  and  on the face  also
 
-(200) “Rādhā, whose thighs are like an elephant’s trunk, checks Mādhava’s hand without obstructing His desire; She rebukes Him with a sweet smile hidden in Her words; and on Her face there is a charming, tearless weeping.”
+(200) “Rādhā, whose thighs are like an elephant’s trunk, checks Mādhava’s hand without obstructing His desire; She rebukes Him with a sweet smile hidden in Her words; and on Her face there is a charming, tearless weeping.”[^44]
 
 এইমত আর সব ভাব-বিভূষণ ৷  
 যাহাতে ভূষিত রাধা হরে কৃষ্ণ মন ॥ ২০১ ॥
@@ -2125,7 +2125,7 @@ so much  wealth  leaving  why  did He go  to Vṛndāvana
 tām̐re hāsya karite lakṣmī karilā sājana  
 at Him  laughter  to make  Lakṣmī  did  arraying
 
-(206) ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make Him a laughingstock she arrayed herself in all her splendour.
+(206) ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make fun of Him she arrayed herself in all her splendour.
 
 তোমার ঠাকুর, দেখ এত সম্পত্তি ছাড়ি’ ৷  
 পত্র-ফল-ফুল-লোভে গেলা পুষ্পবাড়ী ॥ ২০৭ ॥
@@ -2205,7 +2205,7 @@ milk  boiling  yogurt  churn  your  gopīs
 āmāra ṭhākurāṇī vaise ratna-siṁhāsane  
 my  mistress  sits  on a jeweled throne
 
-(214) Your gopīs boil milk and churn yogurt, while my mistress sits on a jeweled throne.”
+(214) Your gopīs boil milk and churn yogurt, while my mistress sits on a jewelled throne.”[^45]
 
 নারদ-প্রকৃতি শ্রীবাস করে পরিহাস ৷  
 শুনি’ হাসে মহাপ্রভুর যত নিজ-দাস ॥ ২১৫ ॥
@@ -2215,7 +2215,7 @@ of Nārada’s nature  Śrīvāsa  makes  jokes
 śuni’ hāse mahāprabhura yata nija-dāsa  
 hearing  laugh  Mahāprabhu’s  all  own servants
 
-(215) Śrīvāsa, whose nature is like Nārada’s, joked in this way, and all of Mahāprabhu’s own servants laughed to hear him.
+(215) Śrīvāsa, whose nature is like Nārada’s, joked in this way, and all of Mahāprabhu’s own servants laughed to hear him.[^46]
 
 প্রভু কহে, — শ্রীবাস, তোমাতে নারদ-স্বভাব ৷  
 ঐশ্বর্যভাবে তোমাতে, ঈশ্বর-প্রভাব ॥ ২১৬ ॥
@@ -2265,7 +2265,7 @@ the supreme  Puruṣottama  Himself  Bhagavān
 kṛṣṇa yām̐hā dhanī tām̐hā vṛndāvana-dhāma  
 Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
 
-(220) The Supreme Person, Bhagavān Himself, Kṛṣṇa, is the master of wealth in the abode of Vṛndāvana.
+(220) Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and the place where He is rich is the abode of Vṛndāvana.[^47]
 
 চিন্তামণিময় ভূমি, রত্নের ভবন ৷  
 চিন্তামণিগণ — দাসী-চরণ-ভূষণ ॥ ২২১ ॥
@@ -2315,7 +2315,7 @@ everywhere  the water  where  like nectar
 cid-ānanda jyotiḥ svādya — yām̐hā mūrtimān  
 spiritual and blissful  the light  to be relished  where  embodied
 
-(225) Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.
+(225) Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.[^48]
 
 লক্ষ্মী জিনি’ গুণ যাঁহা লক্ষ্মীর সমাজ ৷  
 কৃষ্ণ-বংশী করে যাঁহা প্রিয়সখী-কায ॥ ২২৬ ॥
@@ -2647,7 +2647,7 @@ the thousand-mouthed one  of which  not  reaches  the end
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^44]
+(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^49]
 
 ---
 
@@ -2737,4 +2737,14 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^43]: Heading in the edition: “the words of Śrī Rūpa Gosvāmī”. *Anubhāṣya*: all seven *bhāvas* are in this glance — the smile, weeping, anger (the reddened corners), pride and longing (brimming with playful delight) and fear (the narrowing).
 
-[^44]: The same colophon as Madhya 7.155; translation as there.
+[^44]: Heading in the edition: “a verse of the Gosvāmipāda”.
+
+[^45]: Heading in the edition: “Speaking of Lakṣmī’s majesty, Śrīvāsa teases Svarūpa.”
+
+[^46]: *Anubhāṣya*: the Lord’s “own servants” are Gadādhara and the others who form His potency (*śakti*); they are wholly devoted to the service of Śrī Rādhā-Govinda and absorbed in *rāgātmikā-bhakti*.
+
+[^47]: *Amṛta-pravāha-bhāṣya*: Vṛndāvana-dhāma is the place where Kṛṣṇa, setting majesty aside, counts Himself rich in the sweetness of leaves, flowers and the like.
+
+[^48]: *Anubhāṣya* (on 227): the supreme light there — the moon, the sun and the rest — is made of spiritual bliss and is meant to be relished.
+
+[^49]: The same colophon as Madhya 7.155; translation as there.

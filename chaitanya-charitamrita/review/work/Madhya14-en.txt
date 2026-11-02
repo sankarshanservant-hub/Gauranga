@@ -1036,7 +1036,7 @@ w: from shyness  with neck, feet and waist bent aside  most charming
 w: by the moving creepers of Her brows  broken  Kāmadeva’s  mighty  bow
 w: with a graceful, cherished body glowing with the joy of love for Her beloved
 w: for Her beloved’s delight  She  was  with the ornament of lalita that had arisen  endowed
-tr: “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta 9.14)
+tr: “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta, 9.14)
 
 ## 195
 w: in eagerness  coming  Kṛṣṇa  does  pulling at the bodice
@@ -1071,6 +1071,7 @@ w: rebukes  and  hiding a sweet smile
 w: of Mādhava  makes  She whose thighs are like an elephant’s trunk
 w: charming  dry weeping  and  on the face  also
 tr: “Rādhā, whose thighs are like an elephant’s trunk, checks Mādhava’s hand without obstructing His desire; She rebukes Him with a sweet smile hidden in Her words; and on Her face there is a charming, tearless weeping.”
+fn: Heading in the edition: “a verse of the Gosvāmipāda”.
 
 ## 201
 w: in this way  other  all  ornaments of bhāva
@@ -1100,7 +1101,7 @@ tr: Jagannātha went to see Vṛndāvana, and when Lakṣmī-devī heard of it, 
 ## 206
 w: so much  wealth  leaving  why  did He go  to Vṛndāvana
 w: at Him  laughter  to make  Lakṣmī  did  arraying
-tr: ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make Him a laughingstock she arrayed herself in all her splendour.
+tr: ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make fun of Him she arrayed herself in all her splendour.
 
 ## 207
 w: your  master  look  so much  wealth  leaving
@@ -1140,12 +1141,14 @@ tr: Then Lakṣmī, pacified, went back to her own home. The wealth of my Lakṣ
 ## 214
 w: milk  boiling  yogurt  churn  your  gopīs
 w: my  mistress  sits  on a jeweled throne
-tr: Your gopīs boil milk and churn yogurt, while my mistress sits on a jeweled throne.”
+tr: Your gopīs boil milk and churn yogurt, while my mistress sits on a jewelled throne.”
+fn: Heading in the edition: “Speaking of Lakṣmī’s majesty, Śrīvāsa teases Svarūpa.”
 
 ## 215
 w: of Nārada’s nature  Śrīvāsa  makes  jokes
 w: hearing  laugh  Mahāprabhu’s  all  own servants
 tr: Śrīvāsa, whose nature is like Nārada’s, joked in this way, and all of Mahāprabhu’s own servants laughed to hear him.
+fn: *Anubhāṣya*: the Lord’s “own servants” are Gadādhara and the others who form His potency (*śakti*); they are wholly devoted to the service of Śrī Rādhā-Govinda and absorbed in *rāgātmikā-bhakti*.
 
 ## 216
 w: the Lord  says  Śrīvāsa  in you  Nārada’s nature
@@ -1170,7 +1173,8 @@ tr: In Vṛndāvana there is a natural ocean of wealth, and the wealth of Dvāra
 ## 220
 w: the supreme  Puruṣottama  Himself  Bhagavān
 w: Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
-tr: The Supreme Person, Bhagavān Himself, Kṛṣṇa, is the master of wealth in the abode of Vṛndāvana.
+tr: Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and the place where He is rich is the abode of Vṛndāvana.
+fn: *Amṛta-pravāha-bhāṣya*: Vṛndāvana-dhāma is the place where Kṛṣṇa, setting majesty aside, counts Himself rich in the sweetness of leaves, flowers and the like.
 
 ## 221
 w: made of cintāmaṇi  the ground  of jewels  the houses
@@ -1196,6 +1200,7 @@ tr: There the ordinary talk of the people is a divine song, and their ordinary w
 w: everywhere  the water  where  like nectar
 w: spiritual and blissful  the light  to be relished  where  embodied
 tr: Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.
+fn: *Anubhāṣya* (on 227): the supreme light there — the moon, the sun and the rest — is made of spiritual bliss and is meant to be relished.
 
 ## 226
 w: Lakṣmī  surpassing  in qualities  where  of Lakṣmīs  the company
