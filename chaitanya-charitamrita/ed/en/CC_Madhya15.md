@@ -2010,243 +2010,305 @@ banana-flower ghaṇṭa  fried banana flowers  various  śākrā
 ফুলবড়ী-ফল-মূল বিবিধ প্রকার ॥ ২১২ ॥
 
 vṛddha kuṣmāṇḍa-baḍīra vyañjana apāra  
-phulabaḍī-phala-mūla vividha prakāra
+of ripe  pumpkin baḍīs  dishes  countless  
+phulabaḍī-phala-mūla vividha prakāra  
+phula-baḍīs, fruits and roots  various  kinds
 
-(212) [not yet translated]
+(212) There were countless dishes of *baḍīs* made with ripe pumpkin, and *phula-baḍīs*, fruits and roots of many kinds.
 
 নব-নিম্বপত্র-সহ ভৃষ্ট-বার্ত্তাকী ৷  
 ফুলবড়ী, পটোল-ভাজা, কুষ্মাণ্ড মান-চাকী ॥ ২১৩ ॥
 
 nava-nimbapatra-saha bhṛṣṭa-vārtākī  
-phula-baḍī, paṭola-bhājā, kuṣmāṇḍa māna-cākī
+with tender nim leaves  fried eggplant  
+phula-baḍī, paṭola-bhājā, kuṣmāṇḍa māna-cākī  
+phula-baḍī  fried paṭola  pumpkin  mānacāki
 
-(213) [not yet translated]
+(213) There was eggplant fried with tender *nim* leaves, *phula-baḍī*, fried *paṭola*, and pumpkin with *mānacāki*.
 
 ভৃষ্ট-মাষ-মুদ্গ-সূপ অমৃত নিন্দয় ৷  
 মধুরাম্ল, বড়াম্লাদি অম্ল পাঁচ ছয় ॥ ২১৪ ॥
 
 bhṛṣṭa-māṣa-mudga-sūpa amṛta nindaya  
-madhurāmla, baḍāmlādi amla pāṅca chaya
+of fried urad and mung  soup  nectar  puts to shame  
+madhurāmla, baḍāmlādi amla pāṅca chaya  
+sweet-and-sour  baḍāmla and others  sour dishes  five  six
 
-(214) [not yet translated]
+(214) There was a soup of fried urad and mung dāl that put nectar to shame, a sweet-and-sour chutney, *baḍāmla* and other sour dishes — five or six of them.
 
 মুদ্গবড়া, মাষবড়া, কলাবড়া মিষ্ট ৷  
 ক্ষীরপুলি, নারিকেলপুলী আর যত পিষ্ট ॥ ২১৫ ॥
 
 mudga-baḍā, māṣa-baḍā, kalā-baḍā miṣṭa  
-kṣīra-puli, nārikela-pulī āra yata piṣṭa
+mung baḍās  urad baḍās  banana baḍās  sweet  
+kṣīra-puli, nārikela-pulī āra yata piṣṭa  
+kṣīra-puli  coconut pulī  and  all  cakes
 
-(215) [not yet translated]
+(215) There were *baḍās* of mung and of urad, sweet banana *baḍās*, *kṣīra-puli*, coconut *pulī* and every kind of cake.
 
 কাঁজিবড়া, দুগ্ধ-চিড়া, দুগ্ধ-লক্লকী ৷  
 আর যত পিঠা কৈল, কহিতে না শকি ॥ ২১৬ ॥
 
 kāṅji-baḍā, dugdha-ciḍā, dugdha-laklakī  
-āra yata piṭhā kaila, kahite nā śaki
+kā̃ji baḍās  flat rice in milk  milk laklakī  
+āra yata piṭhā kaila, kahite nā śaki  
+and  as many  cakes  they made  to tell  not  I can
 
-(216) [not yet translated]
+(216) There were *kā̃ji-baḍās*, flat rice in milk and milk *laklakī*. I cannot describe all the cakes that were made.
 
 ঘৃত সিক্ত পরমান্ন, মৃৎকুণ্ডিকা ভরি’ ৷  
 চাঁপাকলা-ঘনদুগ্ধ-আম্র তাহা ধরি ॥ ২১৭ ॥
 
 ghṛta sikta paramānna, mṛt-kuṇḍikā bhari’  
-cāṅpākalā-ghanadugdha-āmra tāhā dhari
+with ghee  soaked  sweet rice  earthen pots  filling  
+cāṅpākalā-ghanadugdha-āmra tāhā dhari  
+cā̃pā bananas, thick milk and mangoes  in it  placing
 
-(217) [not yet translated]
+(217) Sweet rice soaked with ghee filled earthen pots, with *cā̃pā* bananas, thickened milk and mangoes set in it.
 
 রসালা-মথিত দধি, সন্দেশ অপার ৷  
 গৌড়ে উৎকলে যত ভক্ষ্যের প্রকার ॥ ২১৮ ॥
 
 rasālā-mathita dadhi, sandeśa apāra  
-gauḍe utkale yata bhakṣyera prakāra
+rasālā  churned  yogurt  sandeśa  countless  
+gauḍe utkale yata bhakṣyera prakāra  
+in Gauḍa  in Utkala  as many  of foods  kinds
 
-(218) [not yet translated]
+(218) There was *rasālā*, churned yogurt and countless *sandeśas* — every kind of food known in Gauḍa and Utkala.
 
 শ্রদ্ধা করি’ ভট্টাচার্য্য সব করাইল ৷  
 শুভ্র-পীঠোপরি সূক্ষ্ম বসন পাতিল ॥ ২১৯ ॥
 
 śraddhā kari’ bhaṭṭācārya saba karāila  
-śubhra-pīṭhopari sūkṣma vasana pātila
+with faith  making  the Bhaṭṭācārya  all  had made  
+śubhra-pīṭhopari sūkṣma vasana pātila  
+on a white seat  fine  cloth  spread
 
-(219) [not yet translated]
+(219) The Bhaṭṭācārya had all this prepared with faith. On a white wooden seat he spread a fine cloth.
 
 দুই-পাশে সুগন্ধি শীতল জল-ঝারী ৷  
 অন্ন-ব্যঞ্জনোপরি দিল তুলসী-মঞ্জরী ॥ ২২০ ॥
 
 dui-pāśe sugandhi śītala jala-jhārī  
-anna-vyañjanopari dila tulasī-mañjarī
+on two sides  fragrant  cool  water pitchers  
+anna-vyañjanopari dila tulasī-mañjarī  
+over the rice and vegetables  placed  tulasī buds
 
-(220) [not yet translated]
+(220) On either side stood pitchers of cool, fragrant water, and he placed tulasī buds on the rice and vegetables.
 
 অমৃত-গুটিকা, পিঠা-পানা আনাইল ৷  
 জগন্নাথ-প্রসাদ সব পৃথক্ ধরিল ॥ ২২১ ॥
 
 amṛta-guṭikā, piṭhā-pānā ānāila  
-jagannātha-prasāda saba pṛthak dharila
+amṛta-guṭikā  cakes and sweet drinks  had brought  
+jagannātha-prasāda saba pṛthak dharila  
+Jagannātha’s prasāda  all  separately  placed
 
-(221) [not yet translated]
+(221) He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s *prasāda* apart.
 
 হেনকালে মহাপ্রভু মধ্যাহ্ন করিয়া ৷  
 একলে আইল তাঁর হৃদয় জানিয়া ॥ ২২২ ॥
 
 hena-kāle mahāprabhu madhyāhna kariyā  
-ekale āila tāṅra hṛdaya jāniyā
+at that time  Mahāprabhu  the midday duties  finishing  
+ekale āila tāṅra hṛdaya jāniyā  
+alone  came  his  heart  knowing
 
-(222) [not yet translated]
+(222) At that time Mahāprabhu, having finished His midday duties, came alone, knowing the Bhaṭṭācārya’s heart.
 
 ভট্টাচার্য্য কৈল তবে পাদ প্রক্ষালন ৷  
 ঘরের ভিতরে গেলা করিতে ভোজন ॥ ২২৩ ॥
 
 bhaṭṭācārya kaila tabe pāda prakṣālana  
-gharera bhitare gelā karite bhojana
+the Bhaṭṭācārya  did  then  of the feet  washing  
+gharera bhitare gelā karite bhojana  
+of the room  inside  went  to take  the meal
 
-(223) [not yet translated]
+(223) The Bhaṭṭācārya then washed His feet, and the Lord went into the room to take His meal.
 
 অন্নাদি দেখিয়া প্রভু বিস্মিত হঞা ৷  
 ভট্টাচার্য্যে কহে কিছু ভঙ্গি করিয়া ॥ ২২৪ ॥
 
 annādi dekhiyā prabhu vismita hañā  
-bhaṭṭācārye kahe kichu bhaṅgi kariyā
+the rice and the rest  seeing  the Lord  astonished  being  
+bhaṭṭācārye kahe kichu bhaṅgi kariyā  
+to the Bhaṭṭācārya  says  something  a gesture  making
 
-(224) [not yet translated]
+(224) Seeing the rice and all the dishes, the Lord was astonished, and with a playful gesture He said to the Bhaṭṭācārya:
 
 অলৌকিক এই সব অন্ন-ব্যঞ্জন ৷  
 দুই প্রহর ভিতরে কৈছে হইল রন্ধন ॥ ২২৫ ॥
 
 alaukika ei saba anna-vyañjana  
-dui prahara bhitare kaiche ha-ila randhana
+extraordinary  these  all  rice and vegetables  
+dui prahara bhitare kaiche ha-ila randhana  
+two  praharas  within  how  was done  the cooking
 
-(225) [not yet translated]
+(225) “All this rice and these dishes are extraordinary! How could they have been cooked within two *praharas*?
 
 শত চুলায় শত জন পাক যদি করে ৷  
 তবু শীঘ্র এত দ্রব্য রান্ধিতে না পারে ॥ ২২৬ ॥
 
 śata culāya śata jana pāka yadi kare  
-tabu śīghra eta dravya rāndhite nā pāre
+a hundred  on stoves  a hundred  people  cooking  if  do  
+tabu śīghra eta dravya rāndhite nā pāre  
+still  quickly  so much  food  to cook  not  can
 
-(226) [not yet translated]
+(226) “Even if a hundred people cooked on a hundred stoves, they could not cook so much food so quickly.
 
 কৃষ্ণের ভোগ লাগাঞাছ, — অনুমান করি ৷  
 উপরে দেখিয়ে যাতে তুলসী-মঞ্জরী ॥ ২২৭ ॥
 
 kṛṣṇera bhoga lāgāñācha, — anumāna kari  
-upare dekhiye yāte tulasī-mañjarī
+to Kṛṣṇa  the food  you have offered  a guess  I make  
+upare dekhiye yāte tulasī-mañjarī  
+on top  I see  since  tulasī buds
 
-(227) [not yet translated]
+(227) “I take it that you have offered this food to Kṛṣṇa, since I see tulasī buds on top of it.
 
 ভাগ্যবান্ তুমি, সফল তোমার উদ্যোগ ৷  
 রাধাকৃষ্ণে লাগাঞাছ এতাদৃশ ভোগ ॥ ২২৮ ॥
 
 bhāgyavān tumi, saphala tomāra udyoga  
-rādhā-kṛṣṇe lāgāñācha etādṛśa bhoga
+fortunate  you  successful  your  effort  
+rādhā-kṛṣṇe lāgāñācha etādṛśa bhoga  
+to Rādhā and Kṛṣṇa  you have offered  such  a feast
 
-(228) [not yet translated]
+(228) “You are fortunate, and your effort has borne fruit: you have offered such a feast to Rādhā and Kṛṣṇa.
 
 অন্নের সৌরভ্য, বর্ণ — অতি মনোরম ৷  
 রাধাকৃষ্ণ সাক্ষাৎ ইঁহা করিয়াছেন ভোজন ॥ ২২৯ ॥
 
 annera saurabhya, varṇa — ati manorama  
-rādhā-kṛṣṇa sākṣāt iṅhā kariyāchena bhojana
+of the rice  the fragrance  the colour  very  charming  
+rādhā-kṛṣṇa sākṣāt iṅhā kariyāchena bhojana  
+Rādhā and Kṛṣṇa  in person  this  have done  eating
 
-(229) [not yet translated]
+(229) “The fragrance and colour of the rice are most charming. Rādhā and Kṛṣṇa Themselves have eaten of it.
 
 তোমার বহুত ভাগ্য কত প্রশংসিব ৷  
 আমি — ভাগ্যবান্, ইহার অবশেষ পাব ॥ ২৩০ ॥
 
 tomāra bahuta bhāgya kata praśaṁsiba  
-āmi — bhāgyavān, ihāra avaśeṣa pāba
+your  great  fortune  how much  shall I praise  
+āmi — bhāgyavān, ihāra avaśeṣa pāba  
+I  am fortunate  of it  the remnants  I shall get
 
-(230) [not yet translated]
+(230) “How can I praise your great fortune enough? I too am fortunate, for I shall receive the remnants.
 
 কৃষ্ণের আসন-পীঠ রাখ উঠাঞা ৷  
 মোরে প্রসাদ দেহ’ ভিন্ন পাত্রে করিয়া ॥ ২৩১ ॥
 
 kṛṣṇera āsana-pīṭha rākha uṭhāñā  
-more prasāda deha’ bhinna pātre kariyā
+Kṛṣṇa’s  seat  keep  removing  
+more prasāda deha’ bhinna pātre kariyā  
+to Me  prasāda  give  on a separate  plate  putting
 
-(231) [not yet translated]
+(231) “Take away Kṛṣṇa’s seat and keep it aside, and give Me *prasāda* on a separate plate.”
 
 ভট্টাচার্য্য বলে, — প্রভু, না করহ বিস্ময় ৷  
 যেই খাবে, তাঁর শক্ত্যে ভোগ সিদ্ধ হয় ॥ ২৩২ ॥
 
 bhaṭṭācārya bale, — prabhu, nā karaha vismaya  
-yei khābe, tāṅra śaktye bhoga siddha haya
+the Bhaṭṭācārya  says  O Lord  not  make  wonder  
+yei khābe, tāṅra śaktye bhoga siddha haya  
+who  will eat  by His  potency  the feast  accomplished  becomes
 
-(232) [not yet translated]
+(232) The Bhaṭṭācārya said, “O Lord, do not be astonished. By the potency of Him who will eat it, the feast was made ready.
 
 উদ্যোগ না ছিল মোর গৃহিণীর রন্ধনে ৷  
 যাঁর শক্ত্যে ভোগ সিদ্ধ, সেই তাহা জানে ॥ ২৩৩ ॥
 
 udyoga nā chila mora gṛhiṇīra randhane  
-yāṅra śaktye bhoga siddha, sei tāhā jāne
+effort  not  there was  my  wife’s  in the cooking  
+yāṅra śaktye bhoga siddha, sei tāhā jāne  
+by whose  potency  the feast  accomplished  He  that  knows
 
-(233) [not yet translated]
+(233) “My wife had no labour in the cooking. He by whose potency the feast was made ready knows how it was done.
 
 এইত আসনে বসি’ করহ ভোজন ৷  
 প্রভু কহে, — পূজ্য এই কৃষ্ণের আসন ॥ ২৩৪ ॥
 
 eita āsane vasi’ karaha bhojana  
-prabhu kahe, — pūjya ei kṛṣṇera āsana
+on this very  seat  sitting  take  the meal  
+prabhu kahe, — pūjya ei kṛṣṇera āsana  
+the Lord  says  worshipable  this  Kṛṣṇa’s  seat
 
-(234) [not yet translated]
+(234) “Please sit on this very seat and take Your meal.” The Lord said, “This seat of Kṛṣṇa’s is to be worshipped.”
 
 ভট্ট কহে, — অন্ন, পীঠ, — সমান প্রসাদ ৷  
 অন্ন খাবে, পীঠে বসিতে কাঁহা অপরাধ ? ॥ ২৩৫ ॥
 
 bhaṭṭa kahe, — anna, pīṭha, — samāna prasāda  
-anna khābe, pīṭhe vasite kāṅhā aparādha?
+Bhaṭṭa  says  the food  the seat  equally  prasāda  
+anna khābe, pīṭhe vasite kāṅhā aparādha?  
+the food  You will eat  on the seat  to sit  where  offence
 
-(235) [not yet translated]
+(235) Bhaṭṭa said, “The food and the seat are equally *prasāda*. If You will eat the food, what offence can there be in sitting on the seat?”
 
 প্রভু কহে, — ভাল কৈলে, শাস্ত্র-আজ্ঞা হয় ৷  
 কৃষ্ণের সকল শেষ ভৃত্য আস্বাদয় ॥ ২৩৬ ॥
 
 prabhu kahe, — bhāla kaile, śāstra-ājñā haya  
-kṛṣṇera sakala śeṣa bhṛtya āsvādaya
+the Lord  says  well  you have done  scripture’s  command  it is  
+kṛṣṇera sakala śeṣa bhṛtya āsvādaya  
+Kṛṣṇa’s  all  remnants  the servant  relishes
 
-(236) [not yet translated]
+(236) The Lord said, “You are right; this is the command of scripture: the servant relishes all that Kṛṣṇa leaves.
 
 ত্বয়োপযুক্তস্রগ্গন্ধবাসোঽলঙ্কারচর্চ্চিতাঃ ৷  
 উচ্ছিষ্টভোজিনো দাসাস্তব মায়াং জয়েম হি ॥ ২৩৭ ॥
 
 tvayopayukta-srag-gandha-  
+by You used  garlands  scents  
 vāso ’laṅkāra-carcitāḥ  
+clothes  with ornaments  adorned  
 ucchiṣṭa-bhojino dāsās  
-tava māyāṁ jayema hi
+remnants  eating  servants  
+tava māyāṁ jayema hi  
+Your  māyā  shall conquer  surely
 
-(237) [not yet translated]
+(237) “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam 11.6.46)
 
 তথাপি এতেক অন্ন খাওন না যায় ৷  
 ভট্ট কহে, — জানি, খাও, যতেক যুয়ায় ॥ ২৩৮ ॥
 
 tathāpi eteka anna khāona nā yāya  
-bhaṭṭa kahe, — jāni, khāo, yateka yuyāya
+still  so much  food  to eat  not  possible  
+bhaṭṭa kahe, — jāni, khāo, yateka yuyāya  
+Bhaṭṭa  says  I know  eat  as much as  befits
 
-(238) [not yet translated]
+(238) “Still, no one can eat so much food.” Bhaṭṭa said, “I know how much You eat. Eat as much as befits You.
 
 নীলাচলে ভোজন তুমি কর বায়ান্ন বার ৷  
 এক এক ভোগের অন্ন শত শত ভার ॥ ২৩৯ ॥
 
 nīlācale bhojana tumi kara bāyānna bāra  
-eka eka bhogera anna śata śata bhāra
+at Nīlācala  meals  You  take  fifty-two  times  
+eka eka bhogera anna śata śata bhāra  
+each  each  offering’s  food  hundreds  hundreds  loads
 
-(239) [not yet translated]
+(239) “At Nīlācala You eat fifty-two times, and the food of each offering comes in hundreds upon hundreds of loads.
 
 দ্বারকাতে ষোল-সহস্র মহিষীমন্দিরে ৷  
 অষ্টাদশ মাতা, আর যাদবের ঘরে ॥ ২৪০ ॥
 
 dvārakāte ṣola-sahasra mahiṣī-mandire  
-aṣṭādaśa mātā, āra yādavera ghare
+in Dvārakā  sixteen thousand  in the queens’ palaces  
+aṣṭādaśa mātā, āra yādavera ghare  
+eighteen  mothers  and  of the Yādavas  in the houses
 
-(240) [not yet translated]
+(240) “In Dvārakā You eat in the palaces of the sixteen thousand queens, with Your eighteen mothers and in the houses of the Yādavas.
 
 ব্রজে জ্যেঠা, খুড়া, মামা, পিসাদি গোপগণ ৷  
 সখাবৃন্দ সবার ঘরে দ্বিসন্ধ্যা-ভোজন ॥ ২৪১ ॥
 
 vraje jyeṭhā, khuḍā, māmā, pisādi gopa-gaṇa  
-sakhā-vṛnda sabāra ghare dvisandhyā-bhojana
+in Vraja  elder uncles  younger uncles  maternal uncles  aunts’ husbands and other  cowherds  
+sakhā-vṛnda sabāra ghare dvisandhyā-bhojana  
+friends  of all  in the houses  meals at both twilights
 
-(241) [not yet translated]
+(241) “In Vraja You eat twice a day, morning and evening, in the houses of all the cowherds — Your uncles on Your father’s and mother’s side, the husbands of Your aunts and others — and of all Your friends.
 
 গোবর্দ্ধন-যজ্ঞে অন্ন খাইলা রাশি রাশি ৷  
 তার লেখায় এই অন্ন নহে এক গ্রাসী ॥ ২৪২ ॥

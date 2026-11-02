@@ -27,3 +27,15 @@
 | chānā-baḍā, baḍā, ghola | *chānā-baḍās*, *baḍās*, buttermilk | 15.210 (edition reading বড়া, ঘোল) |
 | dugdha-tumbī, vesara, lāphrā, śākrā | bottle gourd cooked in milk, *vesara*, *lāphrā*, *śākrā* | 15.211 (as in `GLOSSARY-commentary.md`) |
 | mocā-ghaṇṭa, mocā-bhājā | a *ghaṇṭa* of banana flowers, fried banana flowers | 15.211 |
+| kuṣmāṇḍa-baḍī, phula-baḍī | *baḍīs* made with pumpkin, *phula-baḍīs* | 15.212–213 |
+| kuṣmāṇḍa māna-cākī | pumpkin with *mānacāki* (*māna-kacu* in rounds) | 15.213 (as in Madhya 3.47) |
+| madhurāmla, baḍāmla | a sweet-and-sour chutney, *baḍāmla* | 15.214 |
+| kṣīra-puli, nārikela-pulī | *kṣīra-puli*, coconut *pulī* | 15.215 |
+| kā̃ji-baḍā, dugdha-ciḍā, dugdha-laklakī | *kā̃ji-baḍās*, flat rice in milk, milk *laklakī* | 15.216 |
+| cā̃pākalā | *cā̃pā* bananas | 15.217 (as in Madhya 3.55) |
+| rasālā | *rasālā* | 15.218 |
+| śubhra-pīṭha | a white wooden seat | 15.219 |
+| piṭhā-pānā | cakes and sweet drinks | 15.221 (as in Madhya 12) |
+| amṛta-guṭikā | *amṛta-guṭikā* | 15.221 |
+| prahara | *prahara* (three hours) | 15.225 |
+| jyeṭhā, khuḍā, māmā, pisā | uncles on the father’s and mother’s side, husbands of aunts | 15.241 |
