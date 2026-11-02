@@ -1090,7 +1090,8 @@ tr: It had one door to the outside, for the Lord to enter, and one door from the
 ## 207
 w: of the battiśā-āṭhiyā  banana  whole  on leaves
 w: three mānas  of rice  heaped out  cooked rice
-tr: On a whole leaf of the *battiśā-āṭhiyā* banana they heaped out the cooked rice of three *mānas* of grain.
+tr: On a whole leaf of the *battiśā-āṭhiyā* banana they heaped rice cooked from three *mānas* of grain.
+fn: As in Madhya 3.43, the *battiśā-āṭhiyā* is a banana tree that bears a bunch of thirty-two clusters; *āṅgaṭiyā* — a whole, untorn leaf; the *māna* is a measure of grain. *Anubhāṣya*: with this fine description of the feast the author shows his own matchless skill in cooking and serving; compare Madhya 3.44–55.
 
 ## 208
 w: with yellow fragrant ghee  the rice  soaked  made
@@ -1111,6 +1112,7 @@ tr: There were ten kinds of greens, a bitter *sukuta* soup with *nim*, a peppery
 w: bottle gourd in milk  in milk  pumpkin  vesara  lāphrā
 w: banana-flower ghaṇṭa  fried banana flowers  various  śākrā
 tr: There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.
+fn: *Anubhāṣya*: *dugdha-tumbī* — bottle gourd (*lāu*) cooked in milk; *vesara* — vegetables with ground mustard, so called in Utkala; *śākrā* — a sweet vegetable dish.
 
 ## 212
 w: of ripe  pumpkin baḍīs  dishes  countless
@@ -1120,12 +1122,14 @@ tr: There were countless dishes of *baḍīs* made with ripe pumpkin, and *phula
 ## 213
 w: with tender nim leaves  fried eggplant
 w: phula-baḍī  fried paṭola  pumpkin  mānacāki
-tr: There was eggplant fried with tender *nim* leaves, *phula-baḍī*, fried *paṭola*, and pumpkin with *mānacāki*.
+tr: There was eggplant fried with tender *nim* leaves, *phula-baḍī*, fried *paṭola*, and pumpkin and *māna-kacu* cut in rounds and fried.
+fn: *Anubhāṣya*: *kuṣmāṇḍa māna-cākī* — pumpkin and *māna-kacu* (giant taro) cut into small rounds and fried.
 
 ## 214
 w: of fried urad and mung  soup  nectar  puts to shame
 w: sweet-and-sour  baḍāmla and others  sour dishes  five  six
 tr: There was a soup of fried urad and mung dāl that put nectar to shame, a sweet-and-sour chutney, *baḍāmla* and other sour dishes — five or six of them.
+fn: *Anubhāṣya*: *madhurāmla* — a chutney, a sweet-and-sour dish; *baḍāmla* — a sour dish with dumplings (*baḍā*) of dāl; the soup is of fried *kalāi* (urad) and fried mung.
 
 ## 215
 w: mung baḍās  urad baḍās  banana baḍās  sweet
@@ -1136,6 +1140,7 @@ tr: There were *baḍās* of mung and of urad, sweet banana *baḍās*, *kṣīr
 w: kā̃ji baḍās  flat rice in milk  milk laklakī
 w: and  as many  cakes  they made  to tell  not  I can
 tr: There were *kā̃ji-baḍās*, flat rice in milk and milk *laklakī*. I cannot describe all the cakes that were made.
+fn: *Anubhāṣya*: *dugdha-laklakī* — *cuṣī-puli*.
 
 ## 217
 w: with ghee  soaked  sweet rice  earthen pots  filling
@@ -1151,6 +1156,7 @@ tr: There was *rasālā*, churned yogurt and countless *sandeśas* — every kin
 w: with faith  making  the Bhaṭṭācārya  all  had made
 w: on a white seat  fine  cloth  spread
 tr: The Bhaṭṭācārya had all this prepared with faith. On a white wooden seat he spread a fine cloth.
+fn: *Anubhāṣya*: a piece of fine cloth was spread on a white wooden board (*piṁḍi*), and so a seat was made.
 
 ## 220
 w: on two sides  fragrant  cool  water pitchers
@@ -1161,6 +1167,7 @@ tr: On either side stood pitchers of cool, fragrant water, and he placed tulasī
 w: amṛta-guṭikā  cakes and sweet drinks  had brought
 w: Jagannātha’s prasāda  all  separately  placed
 tr: He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s *prasāda* apart.
+fn: *Anubhāṣya*: the food cooked at his home, not yet offered, he did not mix with Jagannātha’s *prasāda*; he took care to keep them apart.
 
 ## 222
 w: at that time  Mahāprabhu  the midday duties  finishing

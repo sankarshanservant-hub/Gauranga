@@ -2088,7 +2088,7 @@ of the battiśā-āṭhiyā  banana  whole  on leaves
 tina-māna taṇḍulera ubhārila bhāte  
 three mānas  of rice  heaped out  cooked rice
 
-(207) On a whole leaf of the *battiśā-āṭhiyā* banana they heaped out the cooked rice of three *mānas* of grain.
+(207) On a whole leaf of the *battiśā-āṭhiyā* banana they heaped rice cooked from three *mānas* of grain.[^50]
 
 পীত-সুগন্ধি-ঘৃতে অন্ন সিক্ত কৈল ৷  
 চারিদিকে পাতে ঘৃত বহিয়া চলিল ॥ ২০৮ ॥
@@ -2128,7 +2128,7 @@ bottle gourd in milk  in milk  pumpkin  vesara  lāphrā
 mocā-ghaṇṭa, mocā-bhājā, vividha śākrā  
 banana-flower ghaṇṭa  fried banana flowers  various  śākrā
 
-(211) There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.
+(211) There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.[^51]
 
 বৃদ্ধ কুষ্মাণ্ডবড়ীর ব্যঞ্জন অপার ৷  
 ফুলবড়ী-ফল-মূল বিবিধ প্রকার ॥ ২১২ ॥
@@ -2148,7 +2148,7 @@ with tender nim leaves  fried eggplant
 phula-baḍī, paṭola-bhājā, kuṣmāṇḍa māna-cākī  
 phula-baḍī  fried paṭola  pumpkin  mānacāki
 
-(213) There was eggplant fried with tender *nim* leaves, *phula-baḍī*, fried *paṭola*, and pumpkin with *mānacāki*.
+(213) There was eggplant fried with tender *nim* leaves, *phula-baḍī*, fried *paṭola*, and pumpkin and *māna-kacu* cut in rounds and fried.[^52]
 
 ভৃষ্ট-মাষ-মুদ্গ-সূপ অমৃত নিন্দয় ৷  
 মধুরাম্ল, বড়াম্লাদি অম্ল পাঁচ ছয় ॥ ২১৪ ॥
@@ -2158,14 +2158,14 @@ of fried urad and mung  soup  nectar  puts to shame
 madhurāmla, baḍāmlādi amla pām̐ca chaya  
 sweet-and-sour  baḍāmla and others  sour dishes  five  six
 
-(214) There was a soup of fried urad and mung dāl that put nectar to shame, a sweet-and-sour chutney, *baḍāmla* and other sour dishes — five or six of them.
+(214) There was a soup of fried urad and mung dāl that put nectar to shame, a sweet-and-sour chutney, *baḍāmla* and other sour dishes — five or six of them.[^53]
 
 মুদ্গবড়া, মাষবড়া, কলাবড়া মিষ্ট ৷  
-ক্ষীরপুলি, নারিকেলপুলী আর যত পিষ্ট ॥ ২১৫ ॥
+ক্ষীরপুলি, নারিকেলপুলী, আর যত পিষ্ট ॥ ২১৫ ॥
 
 mudga-baḍā, māṣa-baḍā, kalā-baḍā miṣṭa  
 mung baḍās  urad baḍās  banana baḍās  sweet  
-kṣīra-puli, nārikela-pulī āra yata piṣṭa  
+kṣīra-puli, nārikela-pulī, āra yata piṣṭa  
 kṣīra-puli  coconut pulī  and  all  cakes
 
 (215) There were *baḍās* of mung and of urad, sweet banana *baḍās*, *kṣīra-puli*, coconut *pulī* and every kind of cake.
@@ -2178,7 +2178,7 @@ kā̃ji baḍās  flat rice in milk  milk laklakī
 āra yata piṭhā kaila, kahite nā śaki  
 and  as many  cakes  they made  to tell  not  I can
 
-(216) There were *kā̃ji-baḍās*, flat rice in milk and milk *laklakī*. I cannot describe all the cakes that were made.
+(216) There were *kā̃ji-baḍās*, flat rice in milk and milk *laklakī*. I cannot describe all the cakes that were made.[^54]
 
 ঘৃত সিক্ত পরমান্ন, মৃৎকুণ্ডিকা ভরি’ ৷  
 চাঁপাকলা-ঘনদুগ্ধ-আম্র তাহা ধরি ॥ ২১৭ ॥
@@ -2208,7 +2208,7 @@ with faith  making  the Bhaṭṭācārya  all  had made
 śubhra-pīṭhopari sūkṣma vasana pātila  
 on a white seat  fine  cloth  spread
 
-(219) The Bhaṭṭācārya had all this prepared with faith. On a white wooden seat he spread a fine cloth.
+(219) The Bhaṭṭācārya had all this prepared with faith. On a white wooden seat he spread a fine cloth.[^55]
 
 দুই-পাশে সুগন্ধি শীতল জল-ঝারী ৷  
 অন্ন-ব্যঞ্জনোপরি দিল তুলসী-মঞ্জরী ॥ ২২০ ॥
@@ -2228,7 +2228,7 @@ amṛta-guṭikā  cakes and sweet drinks  had brought
 jagannātha-prasāda saba pṛthak dharila  
 Jagannātha’s prasāda  all  separately  placed
 
-(221) He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s *prasāda* apart.
+(221) He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s *prasāda* apart.[^56]
 
 হেনকালে মহাপ্রভু মধ্যাহ্ন করিয়া ৷  
 একলে আইল তাঁর হৃদয় জানিয়া ॥ ২২২ ॥
@@ -3148,3 +3148,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^48]: *Anubhāṣya*: Yameśvara-ṭoṭā is a garden on the sands south-west of the Śrī Mandira; there Mahāprabhu gave Gadādhara Paṇḍita a place to live. *Amṛta-pravāha-bhāṣya*: the reading “at Jaleśvara” does not seem right; in Yameśvara-ṭoṭā stands the temple of Śrī Ṭoṭā-Gopīnātha, where Gadādhara Paṇḍita lived, serving Gopīnātha and Mahāprabhu.
 
 [^49]: The edition reads *ānibe* (“will bring”); the earlier text had *āsibena* (“will come”).
+
+[^50]: As in Madhya 3.43, the *battiśā-āṭhiyā* is a banana tree that bears a bunch of thirty-two clusters; *āṅgaṭiyā* — a whole, untorn leaf; the *māna* is a measure of grain. *Anubhāṣya*: with this fine description of the feast the author shows his own matchless skill in cooking and serving; compare Madhya 3.44–55.
+
+[^51]: *Anubhāṣya*: *dugdha-tumbī* — bottle gourd (*lāu*) cooked in milk; *vesara* — vegetables with ground mustard, so called in Utkala; *śākrā* — a sweet vegetable dish.
+
+[^52]: *Anubhāṣya*: *kuṣmāṇḍa māna-cākī* — pumpkin and *māna-kacu* (giant taro) cut into small rounds and fried.
+
+[^53]: *Anubhāṣya*: *madhurāmla* — a chutney, a sweet-and-sour dish; *baḍāmla* — a sour dish with dumplings (*baḍā*) of dāl; the soup is of fried *kalāi* (urad) and fried mung.
+
+[^54]: *Anubhāṣya*: *dugdha-laklakī* — *cuṣī-puli*.
+
+[^55]: *Anubhāṣya*: a piece of fine cloth was spread on a white wooden board (*piṁḍi*), and so a seat was made.
+
+[^56]: *Anubhāṣya*: the food cooked at his home, not yet offered, he did not mix with Jagannātha’s *prasāda*; he took care to keep them apart.
