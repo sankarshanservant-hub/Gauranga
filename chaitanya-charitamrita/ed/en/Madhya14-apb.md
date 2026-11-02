@@ -116,6 +116,18 @@ The distinction that arises from contact with the beloved — in the gait, in ho
 
 Seeing Śrī Kṛṣṇa right in front of Her, Rādhikā stopped and assumed a crooked air (*kuṭila-bhāva*). Her lotus face was slightly covered by a blue veil, yet both pupils opened wide and became restless and crooked, and, adorned with the ornament called *vilāsa*, She began to give Kṛṣṇa happiness.
 
+## 192
+
+Where the arrangement and curve of the limbs and the play of the brows are charming and delicate, the “ornament of *lalita*” is spoken of.
+
+## 194
+
+When Rādhikā, to increase Kṛṣṇa's love, adorned Herself with the ornament of *lalita*, Her neck bent in shyness, Her feet and waist took on a sweet curve, and the play of Her creeper-like brows defeated even Kāmadeva's mighty bow. And Her beautiful form became visible, full of the *lalita* *bhāva* and radiant with the joy of love for the Most Beloved.
+
+## 197
+
+When [Kṛṣṇa] seizes [Rādhā's] bodice (*kāñculi*) and the veil over Her face, Her heart blossoms, yet out of reverential awe (*sambhrama*) She outwardly shows anger, as if She were hurt. These signs are called *kuṭṭamita*.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

@@ -638,8 +638,44 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 67)
 
+## 187
+
+**gati-sthānāsanādīnām** (of the beloved's walking, standing, sitting and so on) **mukha-netrādi-karmaṇām** **ca** (and of the actions of the limbs) **priya-saṅga-jam** (born of meeting the beloved) **tātkālikam** (occurring at the time of meeting the beloved) **vaiśiṣṭyam** (distinctiveness) **tu** **vilāsaḥ** (is called).
+
+## 189
+
+> Subheading: (*Govinda-līlāmṛta* 9.11)
+
+**asyāḥ** (Śrī Rādhā's) **gatiḥ** **puraḥ** (in front) **kṛṣṇālokāt** (on seeing Kṛṣṇa) **sthagita-kuṭilā** (halted — stopped — and crooked — slow) **abhūt**; **śrī-mukham** **api** **tiraścīnam** (turned aside) **kṛṣṇāmbara-darāvṛtam** (slightly covered with a dark veil) **abhūt**; **calat-tāram** (with restless pupils) **sphāram** (wide open) **nayana-yugam** (the pair of eyes) **ābhugnam** (curved) **abhūt** — **iti** **sā** (Rādhā) **priya-mude** (to increase Kṛṣṇa's bliss) **vilāsākhya-svālaṅkaraṇa-valitā** (endowed with Her own ornament called *vilāsa*) **āsīt**.
+
+## 190
+
+*Tina-aṅga-bhaṅge*: bending in three places (*tribhaṅga*); the three parts of the body are the neck, the waist and the feet (or knees).
+
+## 191
+
+*Haya udgāra*: bursting forth, it comes out.
+
+## 192
+
+> Subheading: (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 75)
+
+**yatra** **aṅgānām** **sukumārā** (very delicate) **vinyāsa-bhaṅgiḥ** (skillful arrangement) **bhrū-vilāsa-manoharā** **bhavet**, **tat** **lalitam** **iti** **udāhṛtam**.
+
+## 194
+
+> Subheading: (*Govinda-līlāmṛta* 9.14)
+
+**sā** (Rādhā) **hriyā** (out of shyness) **tiryag-grīvā-caraṇa-kaṭi-bhaṅgī-sumadhurā** (sweet with the curve of Her neck, knees and hips, gracefully set aslant — enchanting Kṛṣṇa) **calac-cillī-vallī-dalita-ratināthorjita-dhanuḥ** (She by whom, with the creeper of Her restless brow — a brow like the *cillī* bird[^194-1] — the mighty bow of Ratinātha, Kāmadeva, is broken, that is, conquered) **priya-premollāsollasita-lalitā-lālita-tanuḥ** (She whose body is cherished, that is, devotedly served, by *lalita* — the play and dance born of the joy of love of Her Beloved, Kṛṣṇa) **priya-prītyai** (to increase the Beloved's love) **udita-lalitālaṅkṛti-yutā** (endowed with the manifest special *bhāva* of *lalita*, the ornament of *lalita*) **āsīt**.
+
+## 195
+
+*Kañcuka*: bodice (*kā̃culi*), *kavaca*, *aṅgarākhā*, garment.
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
 
 [^87-1]: The verse translation reads differently: it takes *khali* as “a stale crust” of dry logic.
+
+[^194-1]: Unclear place in the scan: the next word of the gloss could not be read with certainty.
