@@ -97,8 +97,8 @@ def read_comm(path):
             for l in rest:
                 h = md_inline(l.strip())
                 out.append(f'<span class="pl ind">{h}</span>' if re.match(r'^\s{2,}', l) else f'<span class="pl">{h}</span>')
-            for i in range(0, len(out), 4):                        # строфы по 4 строки — неразрывные блоки
-                secs[key].append({'t': 'poem', 'h': ''.join(out[i:i + 4])})
+            for i in range(0, len(out), 2):                        # двустишия — неразрывные блоки
+                secs[key].append({'t': 'poem', 'h': ''.join(out[i:i + 2])})
         else:
             p = ' '.join(x.strip() for x in rest)
             if not secs[key]:

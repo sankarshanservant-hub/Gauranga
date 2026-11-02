@@ -47,7 +47,7 @@ body { font-family: 'Gentium', 'NotoBn', serif; color: var(--ink); -webkit-print
 .lbl { font-family: 'Cormorant', serif; font-weight: 700; font-size: 9.6pt; letter-spacing: .12em; text-transform: uppercase; color: var(--gold); }
 .cm.gloss { text-indent: -3.5mm; padding-left: 3.5mm; text-align: left; }
 .cm.gloss.first { text-indent: -3.5mm; }
-.poem { font-style: italic; font-size: 9.6pt; line-height: 1.36; margin: 0 0 1.6mm 5mm; color: #3a2f22; }
+.poem { font-style: italic; font-size: 9.6pt; line-height: 1.36; margin: 0 0 .9mm 5mm; color: #3a2f22; }
 .poem .pl { display: block; padding-left: 4mm; text-indent: -4mm; }
 .poem .pl.ind { padding-left: 10mm; }
 .sums.poemh { margin: 3.5mm 0 1.6mm; }

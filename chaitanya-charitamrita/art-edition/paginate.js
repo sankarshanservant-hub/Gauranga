@@ -156,12 +156,16 @@ function justifyCol(c) {
   if (cur.page.idx >= TIGHT) return;
   const slack = (colBottom(c) - contentBottom(c)) / MM;
   if (slack <= 0.5 || slack > 45) return;
-  const pts = [...c.querySelectorAll(':scope > .vend, :scope > .colfig')];
-  const last = c.lastElementChild; const usable = pts.filter(p => p !== last);
+  let pts = [...c.querySelectorAll(':scope > .vend, :scope > .colfig')];
+  const last = c.lastElementChild; let usable = pts.filter(p => p !== last);
+  // нет межстиховых пробелов — растягиваем перед разделами комментария
+  const secs = [...c.querySelectorAll(':scope > .cm.first, :scope > .vcore')].filter(p => p !== c.firstElementChild);
+  if (!usable.length || slack / usable.length > 12) usable = usable.concat(secs);
   if (!usable.length) return;
-  const add = Math.min(slack / usable.length, 12);
-  usable.forEach(p => { if (p.classList.contains('vend')) p.style.height = (4.2 + add) + 'mm'; else p.style.marginBottom = (3.5 + add) + 'mm'; });
-  if (!fits(c)) usable.forEach(p => { p.style.height = ''; p.style.marginBottom = ''; });
+  const add = Math.min(slack / usable.length, 10);
+  const set = (p, v) => { if (p.classList.contains('vend')) p.style.height = v ? (4.2 + v) + 'mm' : ''; else if (p.classList.contains('colfig')) p.style.marginBottom = v ? (3.5 + v) + 'mm' : ''; else p.style.marginTop = v ? (parseFloat(getComputedStyle(p).marginTop) / MM + v) + 'mm' : ''; };
+  usable.forEach(p => set(p, add));
+  if (!fits(c)) usable.forEach(p => set(p, 0));
 }
 
 function nextCol() {
