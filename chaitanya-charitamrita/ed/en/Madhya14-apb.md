@@ -156,6 +156,18 @@ There dwell countless millions of Lakṣmīs full of sweetness (*mādhurya*), wh
 
 In that Vṛndāvana the beloveds are the Vraja-lakṣmīs, the *gopīs*; the Beloved is the Supreme Person, Śrī Kṛṣṇa; all the trees are wish-fulfilling trees; all the land is spiritual, the water is nectar, speech is song, walking is dance, and Kṛṣṇa's flute is a dear friend; and everywhere the light of spiritual bliss (*cid-ānanda-jyoti*) is felt. Therefore Śrī Vṛndāvana alone is the supreme object of relish.
 
+## 228
+
+The ankle ornaments of the beautiful women of Vraja in Śrī Vṛndāvana are *cintāmaṇi*; all the flowering trees that serve the pastimes are wish-fulfilling trees (*sura-taru*), and the wish-fulfilling cows (*kāmadhenu*) are the supreme wealth of Vraja. In all this the opulence of Śrī Vṛndāvana manifests as supreme bliss.
+
+## 235–238
+
+Seeing that the Lord, absorbed in Rādhā's love, had manifested the form of Rādhikā, Prabhu Nityānanda kept at a distance, for this did not befit his position (*adhikāra-virodha*). And Svarūpa Gosvāmī, by a stratagem, broke the Lord's loving absorption.
+
+## 240–241
+
+Some *viṭilas* (hypocrites who make a show of piety) have doubts about whether one may accept Lakṣmī-devī's *prasāda*.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

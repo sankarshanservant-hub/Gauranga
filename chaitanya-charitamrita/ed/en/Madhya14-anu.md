@@ -758,6 +758,70 @@ Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, 
 
 See Ādi, Chapter 5, verses 20–22.
 
+## 227
+
+> Subheading: The nature and wondrous properties of everything in Vṛndāvana — (*Brahma-saṁhitā* 5.56)
+
+**tatra** (in the transcendental land) **parama-puruṣaḥ** (*eva*, He alone) — **kāntaḥ** (the One, without a second enjoyer), **śriyaḥ** (the Lakṣmīs, that is, the *gopīs*) — **kāntāḥ** (all take shelter of Kṛṣṇa), **drumāḥ** (the *kadamba* and other trees) — **kalpa-taravaḥ** (indeed giving the fruit of love for Kṛṣṇa), **bhūmiḥ** **cintāmaṇi-gaṇamayī** (full of gems that fulfill all kinds of spiritual desires), **toyam** — **amṛtam** **eva**, **kathā** — **gānam** **eva**, **gamanam** **api** **nāṭyam** **eva**, **vaṁśī** — **priya-sakhī** (*eva*, indeed), **param** **jyotiḥ** (the moon, the sun and so on) **api** **cid-ānandam** (made of it), **tat** **api** **āsvādyam** (that is, everything of theirs is free of material nature, transcendental, and meant for the enjoyment of Kṛṣṇa alone).
+
+See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 137.
+
+## 228
+
+> Subheading: A description of the opulence of Vṛndāvana — (words of Bilvamaṅgala quoted in the *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, 1st Laharī)
+
+## 229
+
+> Subheading: Śrīvāsa's supreme bliss —
+
+## 230
+
+> Subheading: Hearing of Śrī Rādhā's *rasa*, the Lord too rejoices —
+
+## 231
+
+> Subheading: The Lord dances, Svarūpa sings —
+
+## 232
+
+> Subheading: The flood of the Lord's *prema* inundates Purī-dhāma —
+
+## 233
+
+> Subheading: The Lord dances until midday —
+
+## 234
+
+> Subheading: All four groups are tired from *kīrtana* —
+
+## 235
+
+> Subheading: The Lord in Śrī Rādhā's loving absorption —
+
+## 236
+
+> Subheading: For fear of disrupting the *rasa*, Nitāi praises the Lord from afar —
+
+## 237
+
+> Subheading: Nitāi does not come near, and the Lord's absorption and the *kīrtana* do not stop —
+
+## 238
+
+> Subheading: Svarūpa's stratagem brings the Lord to outward consciousness —
+
+## 239
+
+> Subheading: Going to the garden and resting, all take their midday bath —
+
+## 240
+
+> Subheading: The Lord receives the *prasāda* of Lakṣmī and of Jagannātha —
+
+## 241
+
+> Subheading: Honoring *prasāda* with the devotees; after the evening bath, *darśana* of Jagannātha —
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
