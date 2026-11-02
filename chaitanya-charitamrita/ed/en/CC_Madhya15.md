@@ -1215,249 +1215,311 @@ within  love  his  will know  who
 চিকিৎসার বাত্ কহে ইঁহার অগ্রেতে ॥ ১২১ ॥
 
 eka dina mleccha-rājāra ucca-ṭuṅgite  
-cikitsāra bāt kahe iṅhāra agrete
+one  day  of the Muslim king  on the high platform  
+cikitsāra bāt kahe iṅhāra agrete  
+of treatment  talk  speaks  him  before
 
-(121) [not yet translated]
+(121) One day, on the Muslim king’s high platform, the king was talking with him about medical treatment.
 
 হেনকালে এক ময়ূর-পুচ্ছের আড়ানী ৷  
 রাজ-শিরোপরি ধরে এক সেবক আনি’ ॥ ১২২ ॥
 
 hena-kāle eka mayūra-pucchera āḍānī  
-rāja-śiropari dhare eka sevaka āni’
+at that time  a  of peacock feathers  fan  
+rāja-śiropari dhare eka sevaka āni’  
+over the king’s head  holds  a  servant  bringing
 
-(122) [not yet translated]
+(122) Just then a servant brought a fan of peacock feathers and held it over the king’s head.
 
 শিখিপিচ্ছ দেখি’ মুকুন্দ প্রেমাবিষ্ট হৈলা ৷  
 অতি-উচ্চ টুঙ্গি হৈতে ভূমিতে পড়িলা ॥ ১২৩ ॥
 
 śikhi-piccha dekhi’ mukunda premāviṣṭa hailā  
-ati-ucca ṭuṅgi haite bhūmite paḍilā
+the peacock feathers  seeing  Mukunda  overwhelmed by love  became  
+ati-ucca ṭuṅgi haite bhūmite paḍilā  
+very high  platform  from  to the ground  fell
 
-(123) [not yet translated]
+(123) At the sight of the peacock feathers Mukunda was overwhelmed with love and fell from the high platform to the ground.
 
 রাজার জ্ঞান, — রাজ-বৈদ্যের হইল মরণ ৷  
 আপনে নামিয়া তবে করাইল চেতন ॥ ১২৪ ॥
 
 rājāra jñāna, — rāja-vaidyera haila maraṇa  
-āpane nāmiyā tabe karāila cetana
+the king’s  thought  —  of the royal physician  has happened  death  
+āpane nāmiyā tabe karāila cetana  
+himself  descending  then  brought about  consciousness
 
-(124) [not yet translated]
+(124) The king thought his royal physician had been killed. He came down himself and brought him back to his senses.
 
 রাজা বলে, ব্যথা তুমি পাইলে কোন্ ঠাঞি ?  
 মুকুন্দ কহে, — অতিবড় ব্যথা পাই নাই ॥ ১২৫ ॥
 
 rājā bale, vyathā tumi pāile kon ṭhāñi?  
-mukunda kahe, — ati-baḍa vyathā pāi nāi
+the king  says  pain  you  got  in which  place  
+mukunda kahe, — ati-baḍa vyathā pāi nāi  
+Mukunda  says  —  very great  pain  I got  not
 
-(125) [not yet translated]
+(125) The king asked, “Where are you hurt?” Mukunda answered, “I am not badly hurt.”
 
 রাজা কহে, — মুকুন্দ, তুমি পড়িলা কি লাগি’ ?  
 মুকুন্দ কহে, — রাজা, মোর ব্যাধি আছে মৃগী ॥ ১২৬ ॥
 
 rājā kahe, — mukunda, tumi paḍilā ki lāgi’?  
-mukunda kahe, — rājā, mora vyādhi āche mṛgī
+the king  says  —  Mukunda  you  fell  why  
+mukunda kahe, — rājā, mora vyādhi āche mṛgī  
+Mukunda  says  —  O king  my  illness  is  epilepsy
 
-(126) [not yet translated]
+(126) The king asked, “Mukunda, why did you fall?” Mukunda said, “O king, I suffer from epilepsy.”
 
 মহাবিদগ্ধ রাজা, সেই সব জানে ৷  
 মুকুন্দেরে হৈল তাঁর ‘মহাসিদ্ধ’-জ্ঞানে ॥ ১২৭ ॥
 
 mahā-vidagdha rājā, sei saba jāne  
-mukundere haila tāṅra ‘mahā-siddha’-jñāne
+very shrewd  the king  that  all  knows  
+mukundere haila tāṅra ‘mahā-siddha’-jñāne  
+of Mukunda  became  his  as a great perfected soul  understanding
 
-(127) [not yet translated]
+(127) But the king was very shrewd and understood it all: he came to regard Mukunda as a great perfected soul.
 
 রঘুনন্দন সেবা করে কৃষ্ণের মন্দিরে ৷  
 দ্বারে পুষ্করিণী, তার ঘাটের উপরে ॥ ১২৮ ॥
 
 raghunandana sevā kare kṛṣṇera mandire  
-dvāre puṣkariṇī, tāra ghāṭera upare
+Raghunandana  service  does  in Kṛṣṇa’s  temple  
+dvāre puṣkariṇī, tāra ghāṭera upare  
+at the door  a pond  its  of the ghāṭa  above
 
-(128) [not yet translated]
+(128) Raghunandana serves in Kṛṣṇa’s temple. At its door there is a pond, and above its bathing steps
 
 কদম্বের এক বৃক্ষে ফুটে বারমাসে ৷  
 নিত্য দুই ফুল হয় কৃষ্ণ-অবতংসে ॥ ১২৯ ॥
 
 kadambera eka vṛkṣe phuṭe bāra-māse  
-nitya dui phula haya kṛṣṇa-avataṁse
+of kadamba  one  on a tree  bloom  twelve months  
+nitya dui phula haya kṛṣṇa-avataṁse  
+daily  two  flowers  are  for Kṛṣṇa’s ornament
 
-(129) [not yet translated]
+(129) stands a *kadamba* tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.
 
 মুকুন্দেরে কহে পুনঃ মধুর বচন ৷  
 ‘তোমার কার্য্য — ধর্ম্ম-ধন-উপার্জ্জন ॥ ১৩০ ॥
 
 mukundere kahe punaḥ madhura vacana  
-‘tomāra kārya — dharma-dhana-upārjana
+to Mukunda  says  again  sweet  words  
+‘tomāra kārya — dharma-dhana-upārjana  
+your  duty  —  earning dharma and wealth
 
-(130) [not yet translated]
+(130) Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with *dharma*.
 
 রঘুনন্দনের কার্য্য — কৃষ্ণের সেবন ৷  
 কৃষ্ণ-সেবা বিনা ইঁহার অন্য নাহি মন ॥ ১৩১ ॥
 
 raghunandanera kārya — kṛṣṇera sevana  
-kṛṣṇa-sevā vinā iṅhāra anya nāhi mana
+Raghunandana’s  duty  —  of Kṛṣṇa  service  
+kṛṣṇa-sevā vinā iṅhāra anya nāhi mana  
+service to Kṛṣṇa  without  his  other  not  mind
 
-(131) [not yet translated]
+(131) Raghunandana’s duty is to serve Kṛṣṇa; his mind turns to nothing but serving Kṛṣṇa.
 
 নরহরি রহু আমার ভক্তগণ-সনে ৷  
 এই তিন কার্য্য সদা করহ তিন-জনে’ ॥ ১৩২ ॥
 
 narahari rahu āmāra bhakta-gaṇa-sane  
-ei tina kārya sadā karaha tina-jane’
+Narahari  let stay  My  with the devotees  
+ei tina kārya sadā karaha tina-jane’  
+these  three  duties  always  do  you three
 
-(132) [not yet translated]
+(132) And let Narahari stay with My devotees. You three must always carry out these three duties.”
 
 সার্ব্বভৌম, বিদ্যাবাচস্পতি, — দুই ভাই ৷  
 দুই জনে কৃপা করি’ কহেন গোসাঞি ॥ ১৩৩ ॥
 
 sārvabhauma, vidyā-vācaspati, — dui bhāi  
-dui jane kṛpā kari’ kahena gosāñi
+Sārvabhauma  Vidyā-vācaspati  —  two  brothers  
+dui jane kṛpā kari’ kahena gosāñi  
+to the two  persons  mercy  showing  says  the Lord
 
-(133) [not yet translated]
+(133) Showing His mercy to the two brothers, Sārvabhauma and Vidyā-vācaspati, the Lord said:
 
 ‘দারু’-‘জল’-রূপে কৃষ্ণ প্রকট সম্প্রতি ৷  
 ‘দরশন’-‘স্নানে’ করে জীবের মুকতি ॥ ১৩৪ ॥
 
 ‘dāru’-‘jala’-rūpe kṛṣṇa prakaṭa samprati  
-‘daraśana’-‘snāne’ kare jīvera mukati
+in the form of wood and of water  Kṛṣṇa  manifest  now  
+‘daraśana’-‘snāne’ kare jīvera mukati  
+by seeing and by bathing  does  of living beings  liberation
 
-(134) [not yet translated]
+(134) “Kṛṣṇa is now manifest in the form of wood and in the form of water. Through seeing Him and through bathing in Him, He liberates living beings.
 
 ‘দারুব্রহ্ম’-রূপে — সাক্ষাৎ শ্রীপুরুষোত্তম ৷  
 ভাগীরথী হন সাক্ষাৎ ‘জলব্রহ্ম’-সম ॥ ১৩৫ ॥
 
 ‘dāru-brahma’-rūpe — sākṣāt śrī-puruṣottama  
-bhāgīrathī hana sākṣāt ‘jala-brahma’-sama
+in the form of the Dāru-brahma  —  directly  Śrī Puruṣottama  
+bhāgīrathī hana sākṣāt ‘jala-brahma’-sama  
+the Bhāgīrathī  is  directly  the Jala-brahma  equal to
 
-(135) [not yet translated]
+(135) As the Dāru-brahma, Brahman in the form of wood, He is Śrī Puruṣottama Himself; and the Bhāgīrathī is the Jala-brahma, Brahman in the form of water.
 
 সার্ব্বভৌম, কর ‘দারুব্রহ্ম’ আরাধন ৷  
 বাচস্পতি, কর ‘জলব্রহ্মের’ সেবন ॥ ১৩৬ ॥
 
 sārvabhauma, kara ‘dāru-brahma’ ārādhana  
-vācaspati, kara ‘jala-brahmera’ sevana
+Sārvabhauma  do  the Dāru-brahma  worship  
+vācaspati, kara ‘jala-brahmera’ sevana  
+Vācaspati  do  of the Jala-brahma  service
 
-(136) [not yet translated]
+(136) Sārvabhauma, worship the Dāru-brahma. Vācaspati, serve the Jala-brahma.”
 
 মুরারি-গুপ্তেরে প্রভু করি’ আলিঙ্গন ৷  
 তাঁর ভক্তিনিষ্ঠা কহেন, শুন ভক্তগণ ॥ ১৩৭ ॥
 
 murāri-guptere prabhu kari’ āliṅgana  
-tāṅra bhakti-niṣṭhā kahena, śuna bhakta-gaṇa
+Murāri Gupta  the Lord  making  embrace  
+tāṅra bhakti-niṣṭhā kahena, śuna bhakta-gaṇa  
+his  steadfast devotion  tells  hear  devotees
 
-(137) [not yet translated]
+(137) The Lord embraced Murāri Gupta and spoke of his steadfast devotion. Listen, devotees!
 
 পূর্ব্বে আমি ইঁহারে লোভাইল বার বার ৷  
 পরম মধুর, গুপ্ত, ব্রজেন্দ্রকুমার ॥ ১৩৮ ॥
 
 pūrve āmi iṅhāre lobhāila bāra bāra  
-parama madhura, gupta, vrajendra-kumāra
+before  I  him  tempted  time  after time  
+parama madhura, gupta, vrajendra-kumāra  
+supremely  sweet  Gupta  the son of the king of Vraja
 
-(138) [not yet translated]
+(138) “In the past I tried again and again to win him over: ‘Gupta, the son of the king of Vraja is supremely sweet.
 
 স্বয়ং ভগবান্ কৃষ্ণ — সর্ব্বাংশী, সর্ব্বাশ্রয় ৷  
 বিশুদ্ধ-নির্ম্মল-প্রেম, সর্ব্বরসময় ॥ ১৩৯ ॥
 
 svayaṁ bhagavān kṛṣṇa — sarvāṁśī, sarvāśraya  
-viśuddha-nirmala-prema, sarva-rasamaya
+Himself  the Lord  Kṛṣṇa  —  the source of all portions  the shelter of all  
+viśuddha-nirmala-prema, sarva-rasamaya  
+pure spotless love  full of all rasas
 
-(139) [not yet translated]
+(139) Kṛṣṇa is the Lord Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
 
 সকল-সদ্গুণ-বৃন্দ-রত্ন-রত্নাকর ৷  
 বিদগ্ধ, চতুর, ধীর, রসিক শেখর ॥ ১৪০ ॥
 
 sakala-sadguṇa-vṛnda-ratna-ratnākara  
-vidagdha, catura, dhīra, rasika śekhara
+a jewel-mine of the jewels of all good qualities  
+vidagdha, catura, dhīra, rasika śekhara  
+clever  skillful  composed  of rasikas  the crest
 
-(140) [not yet translated]
+(140) He is a mine filled with the jewels of every good quality. He is clever, skillful and composed — the crown of all who relish *rasa*.
 
 মধুর-চরিত্র কৃষ্ণের মধুর বিলাস ৷  
 চাতুর্য্য, বৈদগ্ধ্য করে যাঁর লীলা-রস ॥ ১৪১ ॥
 
 madhura-caritra kṛṣṇera madhura vilāsa  
-cāturya, vaidagdhya kare yāṅra līlā-rasa
+of sweet character  Kṛṣṇa’s  sweet  pastimes  
+cāturya, vaidagdhya kare yāṅra līlā-rasa  
+cleverness  skill  make  whose  the rasa of pastimes
 
-(141) [not yet translated]
+(141) Kṛṣṇa’s nature is sweet, and His pastimes are sweet; cleverness and skill fill the *rasa* of His play.
 
 সেই কৃষ্ণ ভজ তুমি, হও কৃষ্ণাশ্রয় ৷  
 কৃষ্ণ বিনা অন্য-উপাসনা মনে নাহি লয় ॥ ১৪২ ॥
 
 sei kṛṣṇa bhaja tumi, hao kṛṣṇāśraya  
-kṛṣṇa vinā anya-upāsanā mane nāhi laya
+that  Kṛṣṇa  worship  you  become  sheltered in Kṛṣṇa  
+kṛṣṇa vinā anya-upāsanā mane nāhi laya  
+Kṛṣṇa  except  other worship  the mind  not  accepts
 
-(142) [not yet translated]
+(142) Worship that Kṛṣṇa and take shelter of Him. Apart from Kṛṣṇa, no other worship can win the mind.’
 
 এইমত বার বার শুনিয়া বচন ৷  
 আমার গৌরবে কিছু ফিরি’ গেলা মন ॥ ১৪৩ ॥
 
 ei mata bāra bāra śuniyā vacana  
-āmāra gaurave kichu phiri’ gelā mana
+in this way  time  after time  hearing  words  
+āmāra gaurave kichu phiri’ gelā mana  
+out of regard for Me  somewhat  turning  went  his mind
 
-(143) [not yet translated]
+(143) Hearing such words from Me again and again, out of regard for Me his mind turned a little.
 
 আমারে কহেন, — আমি তোমার কিঙ্কর ৷  
 তোমার আজ্ঞাকারী আমি নহি স্বতন্তর ॥ ১৪৪ ॥
 
 āmāre kahena, — āmi tomāra kiṅkara  
-tomāra ājñākārī āmi nahi svatantara
+to Me  says  —  I  Your  servant  
+tomāra ājñākārī āmi nahi svatantara  
+Your  order-follower  I  am not  independent
 
-(144) [not yet translated]
+(144) He said to Me, ‘I am Your servant. I carry out Your orders; I am not independent.’
 
 এত বলি’ ঘরে গেল, চিন্তি’ রাত্রিকালে ৷  
 রঘুনাথ-ত্যাগ-চিন্তায় হইল বিকলে ॥ ১৪৫ ॥
 
 eta bali’ ghare gela, cinti’ rātri-kāle  
-raghunātha-tyāga-cintāya haila vikale
+so  saying  home  went  thinking  at night  
+raghunātha-tyāga-cintāya haila vikale  
+at the thought of giving up Raghunātha  became  distraught
 
-(145) [not yet translated]
+(145) With these words he went home. That night, as he thought it over, the idea of giving up Raghunātha left him distraught.
 
 কেমনে ছাড়িব রঘুনাথের চরণ !  
 আজি রাত্রে প্রভু মোর করাহ মরণ ! ॥ ১৪৬ ॥
 
 kemane chāḍiba raghunāthera caraṇa!  
-āji rātre prabhu mora karāha maraṇa!
+how  shall I give up  Raghunātha’s  feet  
+āji rātre prabhu mora karāha maraṇa!  
+today  at night  O Lord  my  bring about  death
 
-(146) [not yet translated]
+(146) ‘How can I give up the feet of Raghunātha? O Lord, let me die this very night!’
 
 এই মত সর্ব্ব-রাত্রি করেন ক্রন্দন ৷  
 মনে সোয়াস্তি নাহি, রাত্রি করেন জাগরণ ॥ ১৪৭ ॥
 
 ei mata sarva-rātri karena krandana  
-mane soyāsti nāhi, rātri karena jāgaraṇa
+thus  all night  does  weeping  
+mane soyāsti nāhi, rātri karena jāgaraṇa  
+in mind  peace  not  at night  does  keeping awake
 
-(147) [not yet translated]
+(147) So he wept all night long; there was no peace in his mind, and he could not sleep.
 
 প্রাতঃকালে আসি’ মোর ধরিল চরণ ৷  
 কান্দিতে কান্দিতে কিছু করে নিবেদন ॥ ১৪৮ ॥
 
 prātaḥ-kāle āsi’ mora dharila caraṇa  
-kāndite kāndite kichu kare nivedana
+in the morning  coming  My  clasped  feet  
+kāndite kāndite kichu kare nivedana  
+weeping  weeping  something  makes  submission
 
-(148) [not yet translated]
+(148) In the morning he came and clasped My feet, and, weeping and weeping, he submitted this to Me:
 
 রঘুনাথের পায় মুঞি বেচিয়াছোঁ মাথা ৷  
 কাড়িতে না পারি মাথা, মনে পাই ব্যথা ॥ ১৪৯ ॥
 
 raghunāthera pāya muñi veciyāchoṅ māthā  
-kāḍite nā pāri māthā, mane pāi vyathā
+at Raghunātha’s  feet  I  have sold  my head  
+kāḍite nā pāri māthā, mane pāi vyathā  
+to take back  not  I can  the head  in mind  I get  pain
 
-(149) [not yet translated]
+(149) ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.
 
 শ্রীরঘুনাথ-চরণ ছাড়ান না যায় ৷  
 তব আজ্ঞা-ভঙ্গ হয়, কি করি উপায় ! ॥ ১৫০ ॥
 
 śrī-raghunātha-caraṇa chāḍāna nā yāya  
-tava ājñā-bhaṅga haya, ki kari upāya!
+Śrī Raghunātha’s feet  giving up  not  is possible  
+tava ājñā-bhaṅga haya, ki kari upāya!  
+Your  order-breaking  happens  what  do I  remedy
 
-(150) [not yet translated]
+(150) I cannot give up the feet of Śrī Raghunātha, yet that means breaking Your order. What am I to do?
 
 তাতে মোরে এই কৃপা কর, দয়াময় ৷  
 তোমার আগে মৃত্যু হউক, যাউক সংশয় ॥ ১৫১ ॥
 
 tāte more ei kṛpā kara, dayāmaya  
-tomāra āge mṛtyu hauka, yāuka saṁśaya
+therefore  to me  this  mercy  do  O merciful one  
+tomāra āge mṛtyu hauka, yāuka saṁśaya  
+of You  before  death  let be  let go  doubt
 
-(151) [not yet translated]
+(151) So, O merciful Lord, show me this mercy: let me die before You, and let my dilemma end.’
 
 এত শুনি’ আমি বড় মনে সুখ পাইলুঁ ৷  
 ইঁহারে উঠাঞা তবে আলিঙ্গন কৈলুঁ ॥ ১৫২ ॥
