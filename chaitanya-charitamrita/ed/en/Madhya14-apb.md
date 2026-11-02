@@ -44,6 +44,14 @@ Advaita and the other devotees who had come from Gauḍa each invited the Lord f
 
 *Jagannātha-vallabha*: roughly midway between the Guṇḍicā-bāḍī and the temple there is a garden called Jagannātha-vallabha. In that garden the pastime of “stealing the *danā*” (*danā-curi-līlā*) takes place: Śrī Madana-mohana goes there, steals a fragrant plant called *danā*, and brings it back.
 
+## 106
+
+The day of Herā-pañcamī: the fifth day after the Ratha-yātrā is called Herā-pañcamī. Searching for Jagannātha, Lakṣmī-devī goes to Guṇḍicā, and after *heriyā* (seeing) Jagannātha she returns; that is why the people of Utkala call this day Herā-pañcamī. And because on this day Lakṣmī, having lost Jagannātha, goes to look for Him, the Atibāḍīs call it Hārā-pañcamī (“the *pañcamī* of losing”). In any case, Kavirāja Gosvāmī has written of this *pañcamī* as Herā-pañcamī.
+
+## 113
+
+*Sundarācala*: just as the main temple is called Nīlācala, the Guṇḍicā temple is called Sundarācala.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

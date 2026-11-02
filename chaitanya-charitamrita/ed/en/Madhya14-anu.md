@@ -372,9 +372,61 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 > Subheading: The Lord rests at Jagannātha-vallabha —
 
+*Puṣpārāma*: a flower garden.
+
 ## 106
 
 > Subheading: The king asks Kāśī Miśra to arrange the Herā-pañcamī festival on a grand scale —
+
+## 108
+
+> Subheading: To please the Lord, [the king] orders a great festival to be arranged —
+
+## 109
+
+> Subheading: He orders everything to be beautifully decorated —
+
+*Citra-vastra*: colored (printed, *chopāna*) cloth; *kiṅkiṇī*: small bells.
+
+## 111
+
+> Subheading: He orders the festival to be grander than the Ratha-yātrā —
+
+## 112
+
+> Subheading: He arranges for the Lord to see everything with ease —
+
+## 113
+
+> Subheading: *Darśana* of Jagannātha at Guṇḍicā with the devotees —
+
+## 114
+
+> Subheading: [The Lord] returns to Nīlācala to see the Herā-pañcamī —
+
+## 115
+
+> Subheading: Kāśī Miśra seats the Lord in the best place —
+
+## 116
+
+> Subheading: The Lord asks Svarūpa why Jagannātha leaves Lakṣmī and goes to Vṛndāvana —
+
+## 117–119
+
+Out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and manifests Kṛṣṇa's pastimes in Dvārakā. Once a year He feels the greatest longing to see Sundarācala, which is like Vṛndāvana.
+
+## 122
+
+> Subheading: Svarūpa gives the reason: only the *gopīs*, not Lakṣmī, may take part in the pastimes of Vraja —
+
+Lakṣmī-ṭhākurāṇī may not take part in the pastimes of Vṛndāvana; so when Jagannātha goes to Sundarācala, He does not take Lakṣmī with Him. That is the reason.
+
+## 124
+
+> Subheading: The Lord asks again: why is Lakṣmī angry? —
+
+*Yātrā*: the Ratha-yātrā.
 
 ---
 
