@@ -770,6 +770,8 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 > Subheading: A description of the opulence of Vṛndāvana — (words of Bilvamaṅgala quoted in the *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, 1st Laharī)
 
+**vṛndāvane** **aṅganānām** (of the *gopīs*) **caraṇa-bhūṣaṇam** **cintāmaṇiḥ** (*eva*, indeed), **śṛṅgāra-puṣpa-taravaḥ** (flowering trees giving flowers for dress and adornment for the sake of *śṛṅgāra*) — **surāṇām** **taravaḥ** (indeed wish-fulfilling trees), **kāmadhenu-vṛndāni** (*eva*) — **vraja-dhanam** (the wealth of the residents of Gokula); **aho** (of Vṛndāvana) **vibhūtiḥ** (an incomparable, great opulence — and yet) **sukha-sindhuḥ** (nothing but an ocean of the nectar of bliss).
+
 ## 229
 
 > Subheading: Śrīvāsa's supreme bliss —
@@ -806,6 +808,8 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 > Subheading: Nitāi does not come near, and the Lord's absorption and the *kīrtana* do not stop —
 
+*Rahe*: stops, or ceases.
+
 ## 238
 
 > Subheading: Svarūpa's stratagem brings the Lord to outward consciousness —
@@ -821,6 +825,46 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 ## 241
 
 > Subheading: Honoring *prasāda* with the devotees; after the evening bath, *darśana* of Jagannātha —
+
+## 242
+
+> Subheading: For eight days, *darśana* of Jagannātha, dancing and *kīrtana*, and then with the devotees water sports in Narendra and a meal in the garden —
+
+## 244
+
+> Subheading: Jagannātha's return journey to Purī —
+
+*Bhitara-vijaya*: the procession during the return *yātrā* (*punar-yātrā*) to go back inside the Śrī Mandira: having come out of the Guṇḍicā temple (*bahir-vijaya*), [Jagannātha] again proceeds toward the temple.
+
+## 245
+
+> Subheading: Dancing and singing as before —
+
+## 246
+
+> Subheading: During the *pahāṇḍi* the silken rope partly breaks —
+
+## 248
+
+> Subheading: [The Lord] orders Satyarāja and his son to bring a silken rope for Jagannātha every year —
+
+## 250
+
+> Subheading: So that the rope may be made stronger, [the Lord] gives the broken one as a sample —
+
+*Chiṇḍā* (in the language of Utkala): broken.
+
+## 251
+
+> Subheading: Jagannātha's silken rope is the *arcā* of Bhagavān Viṣṇu Himself in the form of Ananta —
+
+## 252
+
+> Subheading: Receiving this service, both rejoice —
+
+## 253
+
+> Subheading: From then on every year [they] bring the silken rope to Guṇḍicā —
 
 ---
 

@@ -168,6 +168,16 @@ Seeing that the Lord, absorbed in Rādhā's love, had manifested the form of Rā
 
 Some *viṭilas* (hypocrites who make a show of piety) have doubts about whether one may accept Lakṣmī-devī's *prasāda*.
 
+Note this: Śrī Mahāprabhu Himself, together with the devotees, honored that *prasāda*. The meaning is this: Lakṣmī and all the other potencies (*śaktis*) are maidservants of Śrī Bhagavān. When devotees offer them delicious food, the potencies offer it to their Lord, Śrī Kṛṣṇa, and only then partake of it. Therefore the *prasāda* of the servants and maidservants of Bhagavān should always be honored as the *prasāda* of Bhagavān Himself. One further point remains to be considered here: whether the potencies of Bhagavān accept food offered by atheistic Māyāvādīs is very doubtful. Therefore it befits Vaiṣṇavas to partake only of food that pure Vaiṣṇavas have offered to the servants and maidservants of Bhagavān.
+
+## 244
+
+*Bhitara-vijaya*: in the Guṇḍicā temple Jagannātha, Balarāma and Subhadrā, these three Śrī-mūrtis, are brought down from the jeweled altar (*ratna-vedī*) into the *jagamohana*, and then at the proper time They are raised onto the chariots. The time that They spend in the *jagamohana* after coming down from the *ratna-vedī* is called *bhitara-vijaya*.
+
+## 249
+
+The silken ropes (*paṭṭa-ḍorī*) with which the Pāṇḍu-vijaya of the three Śrī-mūrtis is performed were brought, and still are brought, from many places. Silk cloth is made in many villages near Kulīnagrāma in the Bardhamān district, and so the Lord appointed Rāmānanda Vasu and Satyarāja Khān as *yajamānas* to bring the silken ropes.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
