@@ -2038,7 +2038,7 @@ of the Bhaṭṭācārya  in the house  all  provisions  are  in plenty
 yebā śāka-phalādika, ānila āhari’  
 whatever  greens, fruits and so on  he brought  collecting
 
-(202) The Bhaṭṭācārya’s house was well stocked with every provision; whatever greens, fruits and other things were needed, he gathered and brought.
+(202) His house was well stocked with every provision; whatever greens, fruits and other things were needed, he gathered and brought.
 
 আপনি ভট্টাচার্য্য করে পাকের সব মর্ম্ম ৷  
 ষাঠীর মাতা — বিচক্ষণা, জানে পাকের কর্ম্ম ॥ ২০৩ ॥
@@ -2532,7 +2532,7 @@ then  abuse  curses  hurling  the Bhaṭṭācārya  came back
 nindā śuni’ mahāprabhu hāsite lāgilā  
 the blasphemy  hearing  Mahāprabhu  to laugh  began
 
-(251) Then the Bhaṭṭācārya came back, cursing and abusing him. Hearing all this reviling, Mahāprabhu began to laugh.
+(251) Then the Bhaṭṭācārya came back, cursing and abusing him, and when Mahāprabhu heard all this reviling, He began to laugh.
 
 শুনি’ ষাঠীর মাতা শিরে-বুকে ঘাত মারে ৷  
 ‘ষাঠী রাণ্ডী হউক’ — ইহা বলে বারে বারে ॥ ২৫২ ॥
@@ -2622,7 +2622,7 @@ home  coming  the Bhaṭṭācārya  with Ṣāṭhī’s mother
 āpanā nindiyā kichu balena vacane  
 himself  reproaching  some  says  words
 
-(260) Returning home, the Bhaṭṭācārya reproached himself and said to Ṣāṭhī’s mother:
+(260) Returning home, the Bhaṭṭācārya spoke to Ṣāṭhī’s mother, blaming himself:
 
 চৈতন্য-গোসাঞির নিন্দা শুনি যাহা হৈতে ৷  
 তারে বধ কৈলে হয় পাপ-প্রায়শ্চিত্তে ॥ ২৬১ ॥
@@ -2787,7 +2787,7 @@ in Sārvabhauma’s company  your  impurity  has become  destroyed
 ‘kalmaṣa’ ghucile jīva ‘kṛṣṇa-nāma’ laya  
 the taint  when removed  the soul  Kṛṣṇa’s name  takes
 
-(276) “By Sārvabhauma’s company your impurity has been destroyed, and when the taint is gone, a soul takes the name of Kṛṣṇa.
+(276) “Through Sārvabhauma’s company your impurity has been destroyed, and when the taint is gone, a soul takes the name of Kṛṣṇa.
 
 উঠহ, অমোঘ, তুমি লও কৃষ্ণনাম ৷  
 অচিরে তোমারে কৃপা করিবে ভগবান্ ॥ ২৭৭ ॥
@@ -2867,7 +2867,7 @@ in Sārvabhauma’s house  servants  maids  even  dogs
 seha mora priya, anya jana rahu dūra  
 they too  to Me  dear  other  people  let stay far
 
-(284) “Even the servants, maids and dogs in Sārvabhauma’s house are dear to Me — what to speak of others.
+(284) “Even the servants, maids and dogs in Sārvabhauma’s house are dear to Me — to say nothing of others.
 
 ‘অপরাধ’ নাহি তব, লও কৃষ্ণনাম ৷  
 এত বলি’ প্রভু আইলা সার্ব্বভৌম-স্থান ॥ ২৮৫ ॥
@@ -2937,7 +2937,7 @@ the Lord  says  Amogha  a child  your  boy
 bālaka-doṣa nā laya pitā, tāhāte pālaka  
 the boy’s fault  not  takes  the father  for in that  he is the protector
 
-(291) The Lord said, “Amogha is a child; he is your son. A father does not hold his child’s faults against him, for he is his protector.
+(291) The Lord said, “Amogha is a child; he is your son. A father does not hold his child’s faults against him, for he is the child’s protector.
 
 এবে ‘বৈষ্ণব’ হৈল, তার গেল ‘অপরাধ’ ৷  
 তাহার উপরে এবে করহ প্রসাদ ॥ ২৯২ ॥
@@ -2947,7 +2947,7 @@ now  a Vaiṣṇava  he has become  his  went  offence
 tāhāra upare ebe karaha prasāda  
 him  on  now  show  grace
 
-(292) “Now he has become a Vaiṣṇava, and his offence is gone. Now show him your favour.”
+(292) “He has become a Vaiṣṇava now, and his offence is gone; so show him your favour.”
 
 ভট্ট কহে, — চল, প্রভু, ঈশ্বর-দরশনে ৷  
 স্নান করি’ হেথা মুঞি আসিলাঙ এখনে ॥ ২৯৩ ॥
@@ -2987,7 +2987,7 @@ that  Amogha  became  the Lord’s  devotee  exclusive
 preme nāce, kṛṣṇa-nāma laya mahā-śānta  
 in love  dances  Kṛṣṇa’s name  takes  deeply peaceful
 
-(296) That same Amogha became the Lord’s exclusive devotee. He would dance in love and chant the name of Kṛṣṇa, deeply at peace.
+(296) That same Amogha became the Lord’s exclusive devotee. He would dance in love and chant the name of Kṛṣṇa, deeply at peace.[^69]
 
 ঐছে চিত্র-লীলা করে শচীর নন্দন ৷  
 যেই দেখে, শুনে, তাঁর বিস্ময় হয় মন ॥ ২৯৭ ॥
@@ -3027,7 +3027,7 @@ of Ṣāṭhī’s mother  the love  and  the Lord’s  grace
 bhakta-sambandhe yāhā kṣamila aparādha  
 by relation to a devotee  by which  He pardoned  offence
 
-(300) and the love of Ṣāṭhī’s mother, and the grace of the Lord, by which He forgave an offence because of the offender’s relation to His devotee.
+(300) and the love of Ṣāṭhī’s mother, and the grace of the Lord, by which He forgave an offence because of the offender’s relation to His devotee.[^70]
 
 শ্রদ্ধা করি’ এই লীলা শুনে যেই জন ৷  
 অচিরাৎ পায় সেই চৈতন্য-চরণ ॥ ৩০১ ॥
@@ -3047,7 +3047,7 @@ soon  attains  he  Caitanya’s feet
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(302) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+(302) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^71]
 
 ---
 
@@ -3186,3 +3186,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^67]: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit when Kaṁsa ordered the Dānavas to persecute the sages and saints; *mahad-atikrama* — disrespect to Viṣṇu and the Vaiṣṇavas in body, mind or word, that is, *vaiṣṇava-aparādha* (compare Antya 3.146, 163).
 
 [^68]: Heading in the edition: “The Lord hurries to the Bhaṭṭa’s house and gives Amogha good counsel.”
+
+[^69]: *Anubhāṣya* quotes the *Śākhā-nirṇayāmṛta*: “I worship Amogha Paṇḍita, whom Śrī Gaura made His own: his whole being is full of prema, his voice falters with it, and his body thrills.”
+
+[^70]: *Anubhāṣya*: the fruit of his blasphemy was a mortal illness, and Amogha could no longer make amends; but for the sake of Sārvabhauma and his wife, vessels of His mercy, the Lord forgave the offender, saved his life and gave him devotion to Kṛṣṇa; had He not forgiven Amogha, the punishment would indirectly have fallen on the Bhaṭṭa, his guardian; so the Lord showed His majesty, depth and generosity.
+
+[^71]: The verse = Madhya 7.155 (the closing refrain); the translation is the same as there.

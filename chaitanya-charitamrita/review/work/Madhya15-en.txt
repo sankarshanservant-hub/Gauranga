@@ -1065,7 +1065,7 @@ tr: When the Bhaṭṭācārya came home, he asked her to cook, and Ṣāṭhī�
 ## 202
 w: of the Bhaṭṭācārya  in the house  all  provisions  are  in plenty
 w: whatever  greens, fruits and so on  he brought  collecting
-tr: The Bhaṭṭācārya’s house was well stocked with every provision; whatever greens, fruits and other things were needed, he gathered and brought.
+tr: His house was well stocked with every provision; whatever greens, fruits and other things were needed, he gathered and brought.
 
 ## 203
 w: himself  the Bhaṭṭācārya  does  of the cooking  all  the essentials
@@ -1324,7 +1324,7 @@ tr: The Bhaṭṭācārya took up his stick and ran to beat him, but Amogha got 
 ## 251
 w: then  abuse  curses  hurling  the Bhaṭṭācārya  came back
 w: the blasphemy  hearing  Mahāprabhu  to laugh  began
-tr: Then the Bhaṭṭācārya came back, cursing and abusing him. Hearing all this reviling, Mahāprabhu began to laugh.
+tr: Then the Bhaṭṭācārya came back, cursing and abusing him, and when Mahāprabhu heard all this reviling, He began to laugh.
 
 ## 252
 w: hearing  Ṣāṭhī’s  mother  on head and breast  blows  strikes
@@ -1370,7 +1370,7 @@ tr: Falling at the Lord’s feet, he reproached himself bitterly. The Lord calme
 ## 260
 w: home  coming  the Bhaṭṭācārya  with Ṣāṭhī’s mother
 w: himself  reproaching  some  says  words
-tr: Returning home, the Bhaṭṭācārya reproached himself and said to Ṣāṭhī’s mother:
+tr: Returning home, the Bhaṭṭācārya spoke to Ṣāṭhī’s mother, blaming himself:
 
 ## 261
 w: of Caitanya Gosāñi  blasphemy  I hear  whom  from
@@ -1459,7 +1459,7 @@ tr: “Why have you seated the *caṇḍāla* of envy here? You have made this s
 ## 276
 w: in Sārvabhauma’s company  your  impurity  has become  destroyed
 w: the taint  when removed  the soul  Kṛṣṇa’s name  takes
-tr: “By Sārvabhauma’s company your impurity has been destroyed, and when the taint is gone, a soul takes the name of Kṛṣṇa.
+tr: “Through Sārvabhauma’s company your impurity has been destroyed, and when the taint is gone, a soul takes the name of Kṛṣṇa.
 
 ## 277
 w: get up  Amogha  you  take  Kṛṣṇa’s name
@@ -1499,7 +1499,7 @@ tr: The Lord consoled him, touching his body: “Because you are related to Sār
 ## 284
 w: in Sārvabhauma’s house  servants  maids  even  dogs
 w: they too  to Me  dear  other  people  let stay far
-tr: “Even the servants, maids and dogs in Sārvabhauma’s house are dear to Me — what to speak of others.
+tr: “Even the servants, maids and dogs in Sārvabhauma’s house are dear to Me — to say nothing of others.
 
 ## 285
 w: offence  there is no  in you  take  Kṛṣṇa’s name
@@ -1534,12 +1534,12 @@ tr: Clasping the Lord’s feet, Bhaṭṭa said, “Amogha would have died. Why 
 ## 291
 w: the Lord  says  Amogha  a child  your  boy
 w: the boy’s fault  not  takes  the father  for in that  he is the protector
-tr: The Lord said, “Amogha is a child; he is your son. A father does not hold his child’s faults against him, for he is his protector.
+tr: The Lord said, “Amogha is a child; he is your son. A father does not hold his child’s faults against him, for he is the child’s protector.
 
 ## 292
 w: now  a Vaiṣṇava  he has become  his  went  offence
 w: him  on  now  show  grace
-tr: “Now he has become a Vaiṣṇava, and his offence is gone. Now show him your favour.”
+tr: “He has become a Vaiṣṇava now, and his offence is gone; so show him your favour.”
 
 ## 293
 w: Bhaṭṭa  says  go  O Lord  to see Īśvara (Jagannātha)
@@ -1560,6 +1560,7 @@ tr: With these words the Lord went to see Jagannātha, and Bhaṭṭa bathed, to
 w: that  Amogha  became  the Lord’s  devotee  exclusive
 w: in love  dances  Kṛṣṇa’s name  takes  deeply peaceful
 tr: That same Amogha became the Lord’s exclusive devotee. He would dance in love and chant the name of Kṛṣṇa, deeply at peace.
+fn: *Anubhāṣya* quotes the *Śākhā-nirṇayāmṛta*: “I worship Amogha Paṇḍita, whom Śrī Gaura made His own: his whole being is full of prema, his voice falters with it, and his body thrills.”
 
 ## 297
 w: such  wonderful pastimes  does  Śacī’s  son
@@ -1580,6 +1581,7 @@ tr: This is the story of the Lord’s meal in Sārvabhauma’s house, in which S
 w: of Ṣāṭhī’s mother  the love  and  the Lord’s  grace
 w: by relation to a devotee  by which  He pardoned  offence
 tr: and the love of Ṣāṭhī’s mother, and the grace of the Lord, by which He forgave an offence because of the offender’s relation to His devotee.
+fn: *Anubhāṣya*: the fruit of his blasphemy was a mortal illness, and Amogha could no longer make amends; but for the sake of Sārvabhauma and his wife, vessels of His mercy, the Lord forgave the offender, saved his life and gave him devotion to Kṛṣṇa; had He not forgiven Amogha, the punishment would indirectly have fallen on the Bhaṭṭa, his guardian; so the Lord showed His majesty, depth and generosity.
 
 ## 301
 w: with faith  making  this  pastime  hears  whoever  person
@@ -1590,3 +1592,4 @@ tr: Whoever hears this pastime with faith will soon attain the feet of Śrī Cai
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The verse = Madhya 7.155 (the closing refrain); the translation is the same as there.
