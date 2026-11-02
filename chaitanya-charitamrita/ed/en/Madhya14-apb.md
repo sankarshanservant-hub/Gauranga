@@ -128,6 +128,22 @@ When Rādhikā, to increase Kṛṣṇa's love, adorned Herself with the ornamen
 
 When [Kṛṣṇa] seizes [Rādhā's] bodice (*kāñculi*) and the veil over Her face, Her heart blossoms, yet out of reverential awe (*sambhrama*) She outwardly shows anger, as if She were hurt. These signs are called *kuṭṭamita*.
 
+## 200
+
+Although Rādhikā, whose thighs are like a young elephant's trunk, showed unwillingness when Kṛṣṇa held Her back with His hand, Her rebukes in return concealed a sweet smile, and on Her face was a charming dry weeping (a pretense of weeping).
+
+## 205
+
+*Āsoyātha*: full of *asūyā*, that is, slight jealous displeasure.
+
+## 207–208
+
+Lakṣmī's maidservants say: “O servants of Jagannātha! Look: leaving such wealth, your Ṭhākura has gone to a flower garden for the sake of fruits, leaves and flowers. (Now) bring your master before Lakṣmī-devī.”
+
+## 211
+
+With sticks (*daṇḍa*, that is, *lāṭhi*) they beat the chariot standing at the gate of Guṇḍicā.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

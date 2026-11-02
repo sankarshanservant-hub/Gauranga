@@ -670,6 +670,48 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 *Kañcuka*: bodice (*kā̃culi*), *kavaca*, *aṅgarākhā*, garment.
 
+## 197
+
+> Subheading: (*Ujjvala-nīlamaṇi*, section on the *anubhāvas*, 49)
+
+**stanādharādi-grahaṇe** (when [the beloved] touches the breast, cheeks or lips) **hṛt-prītau** (when joy has been gained in the mind) **api** **sambhramāt** (out of regard for others) **bahiḥ** (before the eyes of the friends) **vyathitavat** (as befits one in pain) **krodhaḥ** (that is, satisfaction within and anger without) **bhavet** — **iti** **budhaiḥ** (by those versed in the science of poetics) **kuṭṭamitam** **proktam** (is called).
+
+## 200
+
+> Subheading: (a verse of Gosvāmipāda)
+
+**karabhoruḥ** (Rādhikā, whose thighs are strong like a young elephant's trunk) **mādhavasya** **avirodhita-vāñcham** (in which the desire meets no obstacle) **pāṇi-rodham** (warding off the touch of the hand) **madhura-smita-garbhāḥ** (holding a sweet, gentle smile within) **bhartsanāḥ** (rebukes), **api** **ca** **mukhe** **hāri-śuṣka-ruditam** (a feigned weeping that captivates Kṛṣṇa's mind) **kurute**.
+
+## 201
+
+*Hare*: steals away, that is, attracts.
+
+## 202
+
+> Subheading: Even Viṣṇu in the form of Śeṣa, with a thousand mouths, cannot describe Kṛṣṇa's pastimes —
+
+See Madhya, Chapter 21, verses 10 and 12; *Śrīmad-Bhāgavatam* 2.7.41 and 10.14.7.
+
+## 203
+
+> Subheading: A conversation between Svarūpa, the servant of Śrī Rādhā, and Śrīvāsa, the servant of Śrī Lakṣmī-Nārāyaṇa; Śrīvāsa is proud of his mistress's majesty —
+
+Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, Śrīvāsa starts a loving quarrel with Śrī Dāmodara Svarūpa, taking him for a “resident of Vraja” who has no majesty.
+
+## 205
+
+> Subheading: Lakṣmī is angry and hurt because Kṛṣṇa has gone to Vraja —
+
+*Āsoyātha*: uneasiness, indisposition, agitation.
+
+## 209
+
+> Subheading: Lakṣmī's maidservants tie up and punish the Lord's servants, who share His guilt —
+
+## 212
+
+> Subheading: The servants promise to return their master Jagannātha [to Lakṣmī] —
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
