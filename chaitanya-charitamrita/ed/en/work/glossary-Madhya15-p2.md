@@ -39,3 +39,13 @@
 | amṛta-guṭikā | *amṛta-guṭikā* | 15.221 |
 | prahara | *prahara* (three hours) | 15.225 |
 | jyeṭhā, khuḍā, māmā, pisā | uncles on the father’s and mother’s side, husbands of aunts | 15.241 |
+| Govardhana-yajña | the Govardhana sacrifice | 15.242 |
+| mādhukarī | *mādhukarī* (a mouthful begged as a bee gathers honey) | 15.243 (as in `GLOSSARY-commentary.md`) |
+| kulīna | of noble (*kulīna*) family | 15.245 |
+| nindā, nindaka | blasphemy, a blasphemer | 15.245–263 (of the Lord and His devotees; not mere “criticism”) |
+| mukha-vāsa | mouth fresheners | 15.254 |
+| elāci rasavāsa | juicy, fragrant cardamom | 15.254 (as in `GLOSSARY-commentary.md`) |
+| sahaja (kahila) | (he) spoke plainly | 15.257 |
+| patita | fallen (*patita*) | 15.264–265 |
+| visūcikā-vyādhi | cholera | 15.266, 15.272 |
+| mahad-atikrama | offence against great souls | 15.270 (as in `GLOSSARY-commentary.md`) |

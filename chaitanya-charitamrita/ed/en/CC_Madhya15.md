@@ -949,7 +949,7 @@ sañcaya nā kaile kuṭumba-bharaṇa nāhi haya
 ‘সরখেল’ হঞা তুমি করিহ সমাধানে ॥ ৯৬ ॥
 
 ihāra gharera āya-vyaya, saba — tomāra sthāne  
-‘sara khela’ hañā tumi kariha samādhāne
+‘sarakhela’ hañā tumi kariha samādhāne
 
 (96) [not yet translated]
 
@@ -2314,251 +2314,316 @@ friends  of all  in the houses  meals at both twilights
 তার লেখায় এই অন্ন নহে এক গ্রাসী ॥ ২৪২ ॥
 
 govarddhana-yajñe anna khāilā rāśi rāśi  
-tāra lekhāya ei anna nahe eka grāsī
+at the Govardhana sacrifice  food  You ate  heaps  upon heaps  
+tāra lekhāya ei anna nahe eka grāsī  
+of that  in comparison  this  food  is not  one  mouthful
 
-(242) [not yet translated]
+(242) “At the Govardhana sacrifice You ate heaps upon heaps of food. Compared with that, this food is not even one mouthful.
 
 তুমি ত’ ঈশ্বর, মুঞি — ক্ষুদ্র জীব ছার ৷  
 এক-গ্রাস মাধুকরী করহ অঙ্গীকার ॥ ২৪৩ ॥
 
 tumi ta’ īśvara, muñi — kṣudra jīva chāra  
-eka-grāsa mādhukarī karaha aṅgīkāra
+You  indeed  the Lord  I  a tiny  soul  wretched  
+eka-grāsa mādhukarī karaha aṅgīkāra  
+one mouthful  of mādhukarī  make  acceptance
 
-(243) [not yet translated]
+(243) “You are the Lord Himself, and I am a tiny, wretched soul. Please accept this one mouthful of *mādhukarī*.”
 
 এত শুনি’ হাসি’ প্রভু বসিলা ভোজনে ৷  
 জগন্নাথের প্রসাদ ভট্ট দেন হর্ষ মনে ॥ ২৪৪ ॥
 
 eta śuni’ hāsi’ prabhu vasilā bhojane  
-jagannāthera prasāda bhaṭṭa dena harṣa mane
+this  hearing  smiling  the Lord  sat  to the meal  
+jagannāthera prasāda bhaṭṭa dena harṣa mane  
+of Jagannātha  the prasāda  Bhaṭṭa  gives  with joyful  mind
 
-(244) [not yet translated]
+(244) Hearing this, the Lord smiled and sat down to eat, and Bhaṭṭa joyfully served Him Jagannātha’s *prasāda*.
 
 হেনকালে ‘অমোঘ’, — ভট্টাচার্য্যের জামাতা ৷  
 কুলীন, নিন্দক তিঁহো ষাঠী-কন্যার ভর্ত্তা ॥ ২৪৫ ॥
 
 hena-kāle ‘amogha’, — bhaṭṭācāryera jāmātā  
-kulīna, nindaka tiṅho ṣāṭhī-kanyāra bhartā
+at that time  Amogha  the Bhaṭṭācārya’s  son-in-law  
+kulīna, nindaka tiṅho ṣāṭhī-kanyāra bhartā  
+of a noble family  a blasphemer  he  of Ṣāṭhī the daughter  the husband
 
-(245) [not yet translated]
+(245) At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there. He was the husband of the Bhaṭṭācārya’s daughter Ṣāṭhī — a man of noble (*kulīna*) family, but a blasphemer.
 
 ভোজন দেখিতে চাহে, আসিতে না পারে ৷  
 লাঠি-হাতে ভট্টাচার্য্য আছেন দুয়ারে ॥ ২৪৬ ॥
 
 bhojana dekhite cāhe, āsite nā pāre  
-lāṭhi-hāte bhaṭṭācārya āchena duyāre
+the meal  to see  he wants  to come in  not  he can  
+lāṭhi-hāte bhaṭṭācārya āchena duyāre  
+stick in hand  the Bhaṭṭācārya  is  at the door
 
-(246) [not yet translated]
+(246) He wanted to watch the Lord eat but could not come in, for the Bhaṭṭācārya stood at the door, stick in hand.
 
 তিঁহো যদি প্রসাদ দিতে হৈলা আন-মন ৷  
 অমোঘ আসি’ অন্ন দেখি’ করয়ে নিন্দন ॥ ২৪৭ ॥
 
 tiṅho yadi prasāda dite hailā āna-mana  
-amogha āsi’ anna dekhi’ karaye nindana
+he  when  prasāda  in serving  became  distracted  
+amogha āsi’ anna dekhi’ karaye nindana  
+Amogha  coming in  the food  seeing  makes  blasphemy
 
-(247) [not yet translated]
+(247) But when the Bhaṭṭācārya’s attention turned to serving the *prasāda*, Amogha came in, saw the food and began to blaspheme:
 
 এই অন্নে তৃপ্ত হয় দশ বার জন ৷  
 একেলা সন্ন্যাসী করে এতেক ভক্ষণ ॥ ২৪৮ ॥
 
 ei anne tṛpta haya daśa bāra jana  
-ekelā sannyāsī kare eteka bhakṣaṇa
+with this  food  satisfied  become  ten  twelve  people  
+ekelā sannyāsī kare eteka bhakṣaṇa  
+alone  a sannyāsī  does  so much  eating
 
-(248) [not yet translated]
+(248) “This food would satisfy ten or twelve people, and one *sannyāsī* eats so much all by himself!”
 
 শুনি’ ভট্টাচার্য্য তবে উলটি’ চাহিল ৷  
 তাঁর অবধান দেখি’ অমোঘ পলাইল ॥ ২৪৯ ॥
 
 śuni’ bhaṭṭācārya tabe ulaṭi’ cāhila  
-tāṅra avadhāna dekhi’ amogha palāila
+hearing  the Bhaṭṭācārya  then  turning round  looked  
+tāṅra avadhāna dekhi’ amogha palāila  
+his  attention  seeing  Amogha  fled
 
-(249) [not yet translated]
+(249) Hearing this, the Bhaṭṭācārya turned round and looked, and seeing that he had noticed, Amogha fled.
 
 ভট্টাচার্য্য লাঠি লঞা মারিতে ধাইল ৷  
 পলাইল অমোঘ, তার লাগ না পাইল ॥ ২৫০ ॥
 
 bhaṭṭācārya lāṭhi lañā mārite dhāila  
-palāila amogha, tāra lāga nā pāila
+the Bhaṭṭācārya  the stick  taking  to beat  ran  
+palāila amogha, tāra lāga nā pāila  
+fled  Amogha  him  catch  not  could
 
-(250) [not yet translated]
+(250) The Bhaṭṭācārya took up his stick and ran to beat him, but Amogha got away and he could not catch him.
 
 তবে গালি, শাপ দিতে ভট্টাচার্য্য আইলা ৷  
 নিন্দা শুনি’ মহাপ্রভু হাসিতে লাগিলা ॥ ২৫১ ॥
 
 tabe gāli, śāpa dite bhaṭṭācārya āilā  
-nindā śuni’ mahāprabhu hāsite lāgilā
+then  abuse  curses  hurling  the Bhaṭṭācārya  came back  
+nindā śuni’ mahāprabhu hāsite lāgilā  
+the blasphemy  hearing  Mahāprabhu  to laugh  began
 
-(251) [not yet translated]
+(251) Then the Bhaṭṭācārya came back, cursing and abusing him. Hearing all this reviling, Mahāprabhu began to laugh.
 
 শুনি’ ষাঠীর মাতা শিরে-বুকে ঘাত মারে ৷  
 ‘ষাঠী রাণ্ডী হউক’ — ইহা বলে বারে বারে ॥ ২৫২ ॥
 
 śuni’ ṣāṭhīra mātā śire-buke ghāta māre  
-‘ṣāṭhī rāṇḍī hauka’ — ihā bale bāre bāre
+hearing  Ṣāṭhī’s  mother  on head and breast  blows  strikes  
+‘ṣāṭhī rāṇḍī hauka’ — ihā bale bāre bāre  
+“may Ṣāṭhī  a widow  become”  this  she says  again  and again
 
-(252) [not yet translated]
+(252) Hearing of it, Ṣāṭhī’s mother beat her head and breast and cried again and again, “Let Ṣāṭhī become a widow!”
 
 দুঁহার দুঃখ দেখি’ প্রভু দুঁহা প্রবোধিয়া ৷  
 দুঁহার ইচ্ছাতে ভোজন কৈল তুষ্ট হঞা ॥ ২৫৩ ॥
 
 duṅhāra duḥkha dekhi’ prabhu duṅhā prabodhiyā  
-duṅhāra icchāte bhojana kaila tuṣṭa hañā
+of both  the grief  seeing  the Lord  both  consoling  
+duṅhāra icchāte bhojana kaila tuṣṭa hañā  
+of both  by the wish  meal  took  pleased  being
 
-(253) [not yet translated]
+(253) Seeing the grief of them both, the Lord consoled them, and to fulfil their wish He ate, well pleased.
 
 আচমন করাঞা ভট্ট দিল মুখবাস ৷  
 তুলসী-মঞ্জরী, লবঙ্গ, এলাচি, রসবাস ॥ ২৫৪ ॥
 
 ācamana karāñā bhaṭṭa dila mukha-vāsa  
-tulasī-mañjarī, lavaṅga, elāci, rasa-vāsa
+ācamana  having Him do  Bhaṭṭa  gave  mouth fresheners  
+tulasī-mañjarī, lavaṅga, elāci, rasa-vāsa  
+tulasī buds  cloves  cardamom  juicy and fragrant
 
-(254) [not yet translated]
+(254) When the Lord had rinsed His mouth, Bhaṭṭa gave Him mouth fresheners: tulasī buds, cloves and juicy, fragrant cardamom.
 
 সর্ব্বাঙ্গে লেপিল প্রভুর সুগন্ধি চন্দন ৷  
 দণ্ডবৎ হঞা বলে সদৈন্য বচন ॥ ২৫৫ ॥
 
 sarvāṅge lepila prabhura sugandhi candana  
-daṇḍavat hañā bale sadainya vacana
+over all the limbs  smeared  of the Lord  fragrant  sandalwood  
+daṇḍavat hañā bale sadainya vacana  
+prostrate  becoming  says  humble  words
 
-(255) [not yet translated]
+(255) He smeared fragrant sandalwood paste all over the Lord’s body and, falling prostrate, spoke humbly:
 
 নিন্দা করাইতে তোমা আনিনু নিজ-ঘরে ৷  
 এই অপরাধ, প্রভু, ক্ষমা কর মোরে ॥ ২৫৬ ॥
 
 nindā karāite tomā āninu nija-ghare  
-ei aparādha, prabhu, kṣamā kara more
+blasphemy  to have done  You  I brought  to my own house  
+ei aparādha, prabhu, kṣamā kara more  
+this  offence  O Lord  pardon  make  me
 
-(256) [not yet translated]
+(256) “I brought You to my house only to have You blasphemed. O Lord, forgive me this offence.”
 
 প্রভু কহে, — নিন্দা নহে, ‘সহজ’ কহিল ৷  
 ইহাতে তোমার তার কি অপরাধ হৈল ? ॥ ২৫৭ ॥
 
 prabhu kahe, — nindā nahe, ‘sahaja’ kahila  
-ihāte tomāra tāra ki aparādha haila?
+the Lord  says  blasphemy  it is not  the plain truth  he spoke  
+ihāte tomāra tāra ki aparādha haila?  
+in this  your  his  what  offence  has been
 
-(257) [not yet translated]
+(257) The Lord said, “That was not blasphemy; he only spoke plainly. What offence is there in this, either on your part or on his?”
 
 এত বলি’ মহাপ্রভু চলিলা ভবনে ৷  
 ভট্টাচার্য্য তাঁর ঘরে গেলা তাঁর সনে ॥ ২৫৮ ॥
 
 eta bali’ mahāprabhu calilā bhavane  
-bhaṭṭācārya tāṅra ghare gelā tāṅra sane
+this  saying  Mahāprabhu  went  to His dwelling  
+bhaṭṭācārya tāṅra ghare gelā tāṅra sane  
+the Bhaṭṭācārya  to His  house  went  Him  with
 
-(258) [not yet translated]
+(258) With these words Mahāprabhu went home, and the Bhaṭṭācārya went with Him to His residence.
 
 প্রভু-পদে পড়ি’ বহু আত্মনিন্দা কৈল ৷  
 তাঁরে শান্ত করি’ প্রভু ঘরে পাঠাইল ॥ ২৫৯ ॥
 
 prabhu-pade paḍi’ bahu ātma-nindā kaila  
-tāṅre śānta kari’ prabhu ghare pāṭhāila
+at the Lord’s feet  falling  much  self-reproach  made  
+tāṅre śānta kari’ prabhu ghare pāṭhāila  
+him  calm  making  the Lord  home  sent
 
-(259) [not yet translated]
+(259) Falling at the Lord’s feet, he reproached himself bitterly. The Lord calmed him and sent him home.
 
 ঘরে আসি’ ভট্টাচার্য্য, ষাঠীর মাতা-সনে ৷  
 আপনা নিন্দিয়া কিছু বলেন বচনে ॥ ২৬০ ॥
 
 ghare āsi’ bhaṭṭācārya, ṣāṭhīra mātā-sane  
-āpanā nindiyā kichu balena vacane
+home  coming  the Bhaṭṭācārya  with Ṣāṭhī’s mother  
+āpanā nindiyā kichu balena vacane  
+himself  reproaching  some  says  words
 
-(260) [not yet translated]
+(260) Returning home, the Bhaṭṭācārya reproached himself and said to Ṣāṭhī’s mother:
 
 চৈতন্য-গোসাঞির নিন্দা শুনি যাহা হৈতে ৷  
 তারে বধ কৈলে হয় পাপ-প্রায়শ্চিত্তে ॥ ২৬১ ॥
 
 caitanya-gosāñira nindā śuni yāhā haite  
-tāre vadha kaile haya pāpa-prāyaścitte
+of Caitanya Gosāñi  blasphemy  I hear  whom  from  
+tāre vadha kaile haya pāpa-prāyaścitte  
+him  killing  if done  there is  for the sin  atonement
 
-(261) [not yet translated]
+(261) “To kill the man from whom I have heard blasphemy of Caitanya Gosāñi would be the atonement for that sin.
 
 কিম্বা নিজ-প্রাণ যদি করি বিমোচন ৷  
 দুই যোগ্য নহে, দুই — শরীর ব্রাহ্মণ ॥ ২৬২ ॥
 
 kimbā nija-prāṇa yadi kari vimocana  
-dui yogya nahe, dui — śarīra brāhmaṇa
+or  my own life  if  I make  giving up  
+dui yogya nahe, dui — śarīra brāhmaṇa  
+both  fitting  not  both  bodies  brāhmaṇa
 
-(262) [not yet translated]
+(262) “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.
 
 পুনঃ সেই নিন্দকের মুখ না দেখিব ৷  
 পরিত্যাগ কৈলুঁ, তার নাম না লইব ॥ ২৬৩ ॥
 
 punaḥ sei nindakera mukha nā dekhiba  
-parityāga kailuṅ, tāra nāma nā laiba
+again  that  blasphemer’s  face  not  I shall see  
+parityāga kailuṅ, tāra nāma nā laiba  
+renunciation  I have made  his  name  not  I shall take
 
-(263) [not yet translated]
+(263) “I shall never look on that blasphemer’s face again. I have renounced him, and I shall not speak his name.
 
 ষাঠীরে কহ — তারে ছাড়ুক, সে হইল ‘পতিত’ ৷  
 ‘পতিত’ হইলে ভর্ত্তা, ত্যজিতে উচিত ॥ ২৬৪ ॥
 
 ṣāṭhīre kaha — tāre chāḍuka, se haila ‘patita’  
-‘patita’ haile bhartā, tyajite ucita
+to Ṣāṭhī  say  him  let her leave  he  has become  fallen  
+‘patita’ haile bhartā, tyajite ucita  
+fallen  if becomes  a husband  to give up  proper
 
-(264) [not yet translated]
+(264) “Tell Ṣāṭhī to leave him: he has fallen (*patita*). When a husband has fallen, it is proper to give him up.
 
 “পতিঞ্চ পতিতং ত্যজেৎ” ॥ ২৬৫ ॥
 
-“patiṁ ca patitaṁ tyajet”
+“patiṁ ca patitaṁ tyajet”  
+a husband  and  fallen  one should give up
 
-(265) [not yet translated]
+(265) “ ‘One should give up a fallen husband.’ ”
 
 সেই রাত্রে অমোঘ কাঁহা পলাঞা রহিল ৷  
 প্রাতঃকালে তার বিসূচিকা-ব্যাধি হৈল ॥ ২৬৬ ॥
 
 sei rātre amogha kāṅhā palāñā rahila  
-prātaḥ-kāle tāra visūcikā-vyādhi haila
+that  night  Amogha  somewhere  having fled  stayed  
+prātaḥ-kāle tāra visūcikā-vyādhi haila  
+in the morning  his  cholera  occurred
 
-(266) [not yet translated]
+(266) That night Amogha fled and hid somewhere, and in the morning he was stricken with cholera.
 
 অমোঘ মরেন — শুনি’ কহে ভট্টাচার্য্য ৷  
 সহায় হইয়া দৈব, কৈল মোর কার্য্য ॥ ২৬৭ ॥
 
 amogha marena — śuni’ kahe bhaṭṭācārya  
-sahāya haiyā daiva, kaila mora kārya
+Amogha  is dying  hearing  says  the Bhaṭṭācārya  
+sahāya haiyā daiva, kaila mora kārya  
+helper  becoming  providence  has done  my  task
 
-(267) [not yet translated]
+(267) Hearing that Amogha was dying, the Bhaṭṭācārya said, “Providence has come to my aid and done my work for me.
 
 ঈশ্বরে ত’ অপরাধ ফলে ততক্ষণ ৷  
 এত বলি’ পড়ে দুই শাস্ত্রের বচন ॥ ২৬৮ ॥
 
 īśvare ta’ aparādha phale tata-kṣaṇa  
-eta bali’ paḍe dui śāstrera vacana
+against the Lord  indeed  an offence  bears fruit  at once  
+eta bali’ paḍe dui śāstrera vacana  
+this  saying  he recites  two  of scripture  sayings
 
-(268) [not yet translated]
+(268) “An offence against the Lord bears fruit at once.” So saying, he recited two verses of scripture:
 
 মহতা হি প্রয়ত্নেন হস্ত্যশ্বরথপত্তিভিঃ ৷  
 অস্মাভির্যদনুষ্ঠেয়ং গন্ধর্ব্বৈস্তদনুষ্ঠিতম্ ॥ ২৬৯ ॥
 
 mahatā hi prayatnena  
+by great  indeed  effort  
 hasty-aśva-ratha-pattibhiḥ  
+with elephants, horses, chariots and foot soldiers  
 asmābhir yad anuṣṭheyaṁ  
-gandharvais tad anuṣṭhitam
+by us  what  had to be done  
+gandharvais tad anuṣṭhitam  
+by the Gandharvas  that  has been done
 
-(269) [not yet translated]
+(269) “What we would have had to do with great effort, with elephants, horses, chariots and foot soldiers, the Gandharvas have done.” (Mahābhārata, Vana-parva 241.15)
 
 আয়ুঃ শ্রিয়ং যশো ধর্ম্মং লোকানাশিষ এব চ ৷  
 হন্তি শ্রেয়াংসি সর্ব্বাণি পুংসো মহদতিক্রমঃ ॥ ২৭০ ॥
 
 āyuḥ śriyaṁ yaśo dharmaṁ  
+life  fortune  fame  dharma  
 lokān āśiṣa eva ca  
+the higher worlds  blessings  also  and  
 hanti śreyāṁsi sarvāṇi  
-puṁso mahad-atikramaḥ
+destroys  benefits  all  
+puṁso mahad-atikramaḥ  
+of a man  offence against the great
 
-(270) [not yet translated]
+(270) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam 10.4.46)
 
 গোপীনাথাচার্য্য গেলা প্রভু-দরশনে ৷  
 প্রভু তাঁরে পুছিল ভট্টাচার্য্য-বিবরণে ॥ ২৭১ ॥
 
 gopīnāthācārya gelā prabhu-daraśane  
-prabhu tāṅre puchila bhaṭṭācārya-vivaraṇe
+Gopīnātha Ācārya  went  to see the Lord  
+prabhu tāṅre puchila bhaṭṭācārya-vivaraṇe  
+the Lord  him  asked  about the Bhaṭṭācārya’s affairs
 
-(271) [not yet translated]
+(271) Gopīnātha Ācārya went to see the Lord, and the Lord asked him about the Bhaṭṭācārya.
 
 আচার্য্য কহে, — উপবাস কৈল দুইজন ৷  
 বিসূচিকা-ব্যাধিতে অমোঘ ছাড়িছে জীবন ॥ ২৭২ ॥
 
 ācārya kahe, — upavāsa kaila dui-jana  
-visūcikā-vyādhite amogha chāḍiche jīvana
+the Ācārya  says  fast  have kept  the two  
+visūcikā-vyādhite amogha chāḍiche jīvana  
+from cholera  Amogha  is leaving  life
 
-(272) [not yet translated]
+(272) The Ācārya said, “The two of them are fasting, and Amogha is dying of cholera.”
 
 শুনি’ কৃপাময় প্রভু আইলা ধাঞা ৷  
 অমোঘেরে কহে তার বুকে হস্ত দিয়া ॥ ২৭৩ ॥
