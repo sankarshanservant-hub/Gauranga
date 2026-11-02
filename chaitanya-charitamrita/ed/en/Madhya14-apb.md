@@ -176,10 +176,18 @@ Note this: Śrī Mahāprabhu Himself, together with the devotees, honored that *
 
 ## 249
 
-The silken ropes (*paṭṭa-ḍorī*) with which the Pāṇḍu-vijaya of the three Śrī-mūrtis is performed were brought, and still are brought, from many places. Silk cloth is made in many villages near Kulīnagrāma in the Bardhamān district, and so the Lord appointed Rāmānanda Vasu and Satyarāja Khān as *yajamānas* to bring the silken ropes.
+The silken ropes (*paṭṭa-ḍorī*) with which the Pāṇḍu-vijaya of the three Śrī-mūrtis is performed were brought, and still are brought, from many places. Silk cloth is made in many villages near Kulīnagrāma in the Bardhamān district, and so the Lord appointed Rāmānanda Vasu and Satyarāja Khān as *yajamānas* to bring the silken ropes.[^249-1]
+
+## 251
+
+*Śeṣa-adhiṣṭhāna*: the abode of Anantadeva. *Daśa-mūrti*: see Ādi, Chapter 5, verses 123–124.
+
+*Thus ends the fourteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
 
 [^167-1]: The edition (scan checked) reads *mati* here, as in item 23; in the list of the *Bhakti-rasāmṛta-sindhu* this place belongs to *mṛti* (a deathlike swoon); apparently a misprint.
+
+[^249-1]: The verse translation reads differently: it takes *yajamāna* as “worshippers” of the silken ropes; for Bhaktivinoda the *yajamāna* is the one charged by the Lord to bring the ropes on his own behalf.

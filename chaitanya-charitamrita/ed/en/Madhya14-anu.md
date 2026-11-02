@@ -866,6 +866,20 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 > Subheading: From then on every year [they] bring the silken rope to Guṇḍicā —
 
+## 254
+
+> Subheading: Jagannātha ascends the jeweled altar; the Lord goes home with His associates —
+
+## 255
+
+> Subheading: [The Lord] shows the devotees the Herā-pañcamī and manifests the pastimes of Vraja —
+
+## 256
+
+See Ādi, Chapter 10, verses 162–163, and Chapter 17, verse 331.[^256-1]
+
+*Thus ends the fourteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
@@ -873,3 +887,5 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 [^87-1]: The verse translation reads differently: it takes *khali* as “a stale crust” of dry logic.
 
 [^194-1]: Unclear place in the scan: the next word of the gloss could not be read with certainty.
+
+[^256-1]: The edition gives no verse number (the note stands after the chapter colophon); by its content (“even the thousand-mouthed One cannot describe them”) it belongs to verse 256.
