@@ -280,9 +280,9 @@ many kinds of  bananas  and  palm fruits
 nāraṅga, cholaṅga, ṭābā, kamalā, bīja-pūra  
 oranges  grapefruits  pomelos  tangerines  citrons  
 bādāma, chohārā, drākṣā, piṇḍa-kharjura  
-almonds  dried dates  raisins  dates
+almonds  dried dates  grapes  dates
 
-(27) Oranges, grapefruits, pomelos, tangerines and citrons; almonds, dried dates, raisins and pressed dates.
+(27) Oranges, grapefruits, pomelos, tangerines and citrons; almonds, dried dates, grapes and pressed dates.
 
 মনোহরা, লাড়ু, আদি শতেক প্রকার ৷  
 অমৃতগুটিকা-আদি, ক্ষীর্সা অপার ॥ ২৮ ॥
@@ -708,193 +708,241 @@ in this way  Mahāprabhu’s  the play of invitations
 সংকীর্ত্তনে নৃত্য করে ভক্তগণ-সাথ ॥ ৭০ ॥
 
 prātaḥ-kāle snāna kari’ dekhi’ jagannātha  
-saṁkīrtane nṛtya kare bhakta-gaṇa sātha
+in the morning  bath  having taken  having seen  Jagannātha  
+saṁkīrtane nṛtya kare bhakta-gaṇa sātha  
+in saṅkīrtana  dance  does  the devotees  with
 
-(70) [not yet translated]
+(70) In the morning He bathed and saw Jagannātha, and then He danced in *saṅkīrtana* with the devotees.
 
 কভু অদ্বৈতে নাচায়, কভু নিত্যানন্দে ৷  
 কভু হরিদাসে নাচায়, কভু অচ্যুতানন্দে ॥ ৭১ ॥
 
 kabhu advaite nācāya, kabhu nityānande  
-kabhu haridāse nācāya, kabhu acyutānande
+sometimes  Advaita  makes dance  sometimes  Nityānanda  
+kabhu haridāse nācāya, kabhu acyutānande  
+sometimes  Haridāsa  makes dance  sometimes  Acyutānanda
 
-(71) [not yet translated]
+(71) Sometimes He made Advaita dance, sometimes Nityānanda; sometimes Haridāsa, sometimes Acyutānanda.
 
 কভু বক্রেশ্বরে, কভু আর ভক্তগণে ৷  
 ত্রিসন্ধ্যা কীর্ত্তন করে গুণ্ডিচা-প্রাঙ্গণে ॥ ৭২ ॥
 
 kabhu vakreśvare, kabhu āra bhakta-gaṇe  
-trisandhyā kīrtana kare guṇḍicā-prāṅgaṇe
+sometimes  Vakreśvara  sometimes  other  devotees  
+trisandhyā kīrtana kare guṇḍicā-prāṅgaṇe  
+three times a day  kīrtana  does  in the courtyard of Guṇḍicā
 
-(72) [not yet translated]
+(72) Sometimes He made Vakreśvara dance, and sometimes other devotees. Three times a day He held *kīrtana* in the courtyard of Guṇḍicā.
 
 বৃন্দাবনে আইলা কৃষ্ণ — এই প্রভুর জ্ঞান ৷  
 কৃষ্ণের বিরহ-স্ফূর্ত্তি হৈল অবসান ॥ ৭৩ ॥
 
 vṛndāvane āilā kṛṣṇa — ei prabhura jñāna  
-kṛṣṇera viraha-sphūrti haila avasāna
+to Vṛndāvana  has come  Kṛṣṇa  this  the Lord’s  awareness  
+kṛṣṇera viraha-sphūrti haila avasāna  
+for Kṛṣṇa  the feeling of separation  became  ended
 
-(73) [not yet translated]
+(73) The Lord felt that Kṛṣṇa had come back to Vṛndāvana, and His feeling of separation from Kṛṣṇa came to an end.
 
 রাধা-সঙ্গে কৃষ্ণ-লীলা — এই হৈল জ্ঞানে ৷  
 এই রসে মগ্ন প্রভু হইলা আপনে ॥ ৭৪ ॥
 
 rādhā-saṅge kṛṣṇa-līlā — ei haila jñāne  
-ei rase magna prabhu hailā āpane
+with Rādhā  Kṛṣṇa’s pastimes  this  became  in awareness  
+ei rase magna prabhu hailā āpane  
+in this  rasa  immersed  the Lord  became  Himself
 
-(74) [not yet translated]
+(74) His mind was filled with Kṛṣṇa’s pastimes with Rādhā, and the Lord Himself became immersed in this *rasa*.
 
 নানোদ্যানে ভক্তসঙ্গে বৃন্দাবন-লীলা ৷  
 ‘ইন্দ্রদ্যুম্ন’-সরোবরে করে জলখেলা ॥ ৭৫ ॥
 
 nānodyāne bhakta-saṅge vṛndāvana-līlā  
-‘indradyumna’-sarovare kare jala-khelā
+in various gardens  with the devotees  the Vṛndāvana pastimes  
+‘indradyumna’-sarovare kare jala-khelā  
+in the Indradyumna lake  does  water play
 
-(75) [not yet translated]
+(75) In the various gardens He enacted the pastimes of Vṛndāvana with the devotees, and in the Indradyumna lake He sported in the water.
 
 আপনে সকল ভক্তে সিঞ্চে জল দিয়া ৷  
 সব ভক্তগণ সিঞ্চে চৌদিকে বেড়িয়া ॥ ৭৬ ॥
 
 āpane sakala bhakte siñce jala diyā  
-saba bhakta-gaṇa siñce caudike beḍiyā
+Himself  all  the devotees  splashes  water  giving  
+saba bhakta-gaṇa siñce caudike beḍiyā  
+all  the devotees  splash  on all sides  surrounding
 
-(76) [not yet translated]
+(76) The Lord Himself splashed all the devotees with water, and they all surrounded Him and splashed Him from every side.
 
 কভু এক মণ্ডল, কভু অনেক মণ্ডল ৷  
 জলমণ্ডূক-বাদ্যে সবে বাজায় করতাল ॥ ৭৭ ॥
 
 kabhu eka maṇḍala, kabhu aneka maṇḍala  
-jala-maṇḍūka-vādye sabe bājāya karatāla
+sometimes  one  circle  sometimes  many  circles  
+jala-maṇḍūka-vādye sabe bājāya karatāla  
+with water-frog music  all  sound  the palms
 
-(77) [not yet translated]
+(77) Sometimes they formed one circle and sometimes many, and all of them clapped their palms on the water, making a sound like frogs croaking.
 
 দুই-দুই জনে মেলি’ করে জল-রণ ৷  
 কেহ হারে, কেহ জিনে, প্রভু করে দরশন ॥ ৭৮ ॥
 
 dui-dui jane meli’ kare jala-raṇa  
-keha hāre, keha jine, prabhu kare daraśana
+two by two  persons  meeting  make  water battle  
+keha hāre, keha jine, prabhu kare daraśana  
+someone  loses  someone  wins  the Lord  does  watching
 
-(78) [not yet translated]
+(78) Pairing off two by two, they fought water battles; some lost and some won, and the Lord looked on.
 
 অদ্বৈত-নিত্যানন্দে জল ফেলাফেলি ৷  
 আচার্য্য হারিয়া, পাছে করে গালাগালি ॥ ৭৯ ॥
 
 advaita-nityānande jala phelāpheli  
-ācārya hāriyā, pāche kare gālāgāli
+Advaita and Nityānanda  water  throwing at each other  
+ācārya hāriyā, pāche kare gālāgāli  
+the Ācārya  having lost  afterwards  makes  abuse
 
-(79) [not yet translated]
+(79) Advaita and Nityānanda threw water at each other. The Ācārya lost, and then began to hurl abuse.
 
 বিদ্যানিধির জলকেলি স্বরূপের সনে ৷  
 গুপ্ত-দত্তে জলকেলি করে দুই জনে ॥ ৮০ ॥
 
 vidyānidhira jala-keli svarūpera sane  
-gupta-datte jala-keli kare dui jane
+of Vidyānidhi  water play  Svarūpa  with  
+gupta-datte jala-keli kare dui jane  
+Gupta and Datta  water play  do  two  persons
 
-(80) [not yet translated]
+(80) Vidyānidhi played in the water with Svarūpa, and the two, Gupta and Datta, played together.
 
 শ্রীবাস-সহিত জল খেলে গদাধর ৷  
 রাঘব-পণ্ডিত সনে খেলে বক্রেশ্বর ॥ ৮১ ॥
 
 śrīvāsa-sahita jala khele gadādhara  
-rāghava-paṇḍita sane khele vakreśvara
+Śrīvāsa  with  in water  plays  Gadādhara  
+rāghava-paṇḍita sane khele vakreśvara  
+Rāghava Paṇḍita  with  plays  Vakreśvara
 
-(81) [not yet translated]
+(81) Gadādhara played in the water with Śrīvāsa, and Vakreśvara with Rāghava Paṇḍita.
 
 সার্ব্বভৌম-সঙ্গে খেলে রামানন্দ-রায় ৷  
 গাম্ভীর্য্য গেল দোঁহার, হৈল শিশুপ্রায় ॥ ৮২ ॥
 
 sārvabhauma-saṅge khele rāmānanda-rāya  
-gāmbhīrya gela doṅhāra, haila śiśu-prāya
+with Sārvabhauma  plays  Rāmānanda Rāya  
+gāmbhīrya gela doṅhāra, haila śiśu-prāya  
+gravity  went  of both  became  like children
 
-(82) [not yet translated]
+(82) Rāmānanda Rāya played with Sārvabhauma. Both of them lost all their gravity and became like children.
 
 মহাপ্রভু তাঁ-দোঁহার চাঞ্চল্য দেখিয়া ৷  
 গোপীনাথাচার্য্যে কিছু কহেন হাসিয়া ॥ ৮৩ ॥
 
 mahāprabhu tāṅ-doṅhāra cāñcalya dekhiyā  
-gopīnāthācārye kichu kahena hāsiyā
+Mahāprabhu  of those two  the frolic  seeing  
+gopīnāthācārye kichu kahena hāsiyā  
+to Gopīnāthācārya  something  says  smiling
 
-(83) [not yet translated]
+(83) Seeing those two frolicking, Mahāprabhu smiled and said to Gopīnātha Ācārya:
 
 পণ্ডিত, গম্ভীর, দুঁহে — প্রামাণিক জন ৷  
 বাল-চাঞ্চল্য করে, করাহ বর্জ্জন ॥ ৮৪ ॥
 
 paṇḍita, gambhīra, duṅhe — prāmāṇika jana  
-bāla-cāñcalya kare, karāha varjana
+learned  grave  both  respected  persons  
+bāla-cāñcalya kare, karāha varjana  
+childish frolics  they do  make  stop
 
-(84) [not yet translated]
+(84) “Both are learned, grave and respected men, yet they are frolicking like children. Make them stop.”
 
 গোপীনাথ কহে, — তোমার কৃপা-মহাসিন্ধু ৷  
 উছলিত করে যবে তার এক বিন্দু ॥ ৮৫ ॥
 
 gopīnātha kahe, — tomāra kṛpā-mahāsindhu  
-uchalita kare yabe tāra eka bindu
+Gopīnātha  says  Your  great ocean of mercy  
+uchalita kare yabe tāra eka bindu  
+overflowing  makes  when  its  one  drop
 
-(85) [not yet translated]
+(85) Gopīnātha said, “When a single drop of the great ocean of Your mercy overflows,
 
 মেরু-মন্দর-পর্ব্বত ডুবায় যথা-তথা ৷  
 এই দুই — গণ্ড-শৈল, ইহার কা কথা ॥ ৮৬ ॥
 
 meru-mandara-parvata ḍubāya yathā-tathā  
-ei dui — gaṇḍa-śaila, ihāra kā kathā
+Meru and Mandara mountains  drowns  here and there  
+ei dui — gaṇḍa-śaila, ihāra kā kathā  
+these  two  hillocks  of them  what  talk
 
-(86) [not yet translated]
+(86) it drowns even the mountains Meru and Mandara wherever they stand. What then of these two, who are mere hillocks?
 
 শুষ্কতর্ক-খলি খাইতে জন্ম গেল যাঁর ৷  
 তাঁরে লীলামৃত পিয়াও, — এ কৃপা তোমার ॥ ৮৭ ॥
 
 śuṣka-tarka-khali khāite janma gela yāṅra  
-tāṅre līlāmṛta piyāo, — e kṛpā tomāra
+of dry logic the oilcake  eating  life  went  whose  
+tāṅre līlāmṛta piyāo, — e kṛpā tomāra  
+to him  the nectar of pastimes  You make drink  this  mercy  Yours
 
-(87) [not yet translated]
+(87) He spent his whole life eating the oilcake of dry logic, and now You make him drink the nectar of pastimes. This is Your mercy.”
 
 হাসি’ মহাপ্রভু তবে অদ্বৈতে আনিল ৷  
 জলের উপরে তাঁরে শেষ-শয্যা কৈল ॥ ৮৮ ॥
 
 hāsi’ mahāprabhu tabe advaite ānila  
-jalera upare tāṅre śeṣa-śayyā kaila
+smiling  Mahāprabhu  then  Advaita  brought  
+jalera upare tāṅre śeṣa-śayyā kaila  
+of the water  on the surface  Him  Śeṣa’s couch  made
 
-(88) [not yet translated]
+(88) Smiling, Mahāprabhu then brought Advaita and made Him His couch, like Śeṣa, upon the water.
 
 আপনে তাঁহার উপর করিল শয়ন ৷  
 ‘শেষশায়ী-লীলা’ প্রভু করে প্রকটন ॥ ৮৯ ॥
 
 āpane tāṅhāra upara karila śayana  
-‘śeṣa-śāyī-līlā’ prabhu kare prakaṭana
+Himself  of Him  upon  made  lying  
+‘śeṣa-śāyī-līlā’ prabhu kare prakaṭana  
+“the pastime of lying on Śeṣa”  the Lord  makes  manifestation
 
-(89) [not yet translated]
+(89) He lay down upon Him, and so the Lord revealed the pastime of the One who lies on Śeṣa.
 
 অদ্বৈত নিজ-শক্তি প্রকট করিয়া ৷  
 মহাপ্রভু লঞা বুলে জলেতে ভাসিয়া ॥ ৯০ ॥
 
 advaita nija-śakti prakaṭa kariyā  
-mahāprabhu lañā bule jalete bhāsiyā
+Advaita  His own power  manifest  making  
+mahāprabhu lañā bule jalete bhāsiyā  
+Mahāprabhu  carrying  moves  on the water  floating
 
-(90) [not yet translated]
+(90) Advaita revealed His own power: carrying Mahāprabhu, He floated about on the water.
 
 এইমত জলক্রীড়া করি’ কতক্ষণ ৷  
 আইটোটা আইলা প্রভু লঞা ভক্তগণ ॥ ৯১ ॥
 
 ei-mata jala-krīḍā kari’ kata-kṣaṇa  
-āiṭoṭā āilā prabhu lañā bhakta-gaṇa
+in this way  water sports  having done  some time  
+āiṭoṭā āilā prabhu lañā bhakta-gaṇa  
+to Āiṭoṭā  came  the Lord  with  the devotees
 
-(91) [not yet translated]
+(91) After sporting in the water like this for some time, the Lord returned to Āiṭoṭā with the devotees.
 
 পুরী, ভারতী আদি যত মুখ্য ভক্তগণ ৷  
 আচার্য্যের নিমন্ত্রণে করিলা ভোজন ॥ ৯২ ॥
 
 purī, bhāratī ādi yata mukhya bhakta-gaṇa  
-ācāryera nimantraṇe karilā bhojana
+Purī  Bhāratī  and others  all  the chief  devotees  
+ācāryera nimantraṇe karilā bhojana  
+of the Ācārya  at the invitation  took  a meal
 
-(92) [not yet translated]
+(92) Purī, Bhāratī and all the other chief devotees took their meal at the Ācārya’s invitation.
 
 বাণীনাথ আর যত প্রসাদ আনিল ৷  
 মহাপ্রভুর গণে সেই প্রসাদ খাইল ॥ ৯৩ ॥
 
 vāṇīnātha āra yata prasāda ānila  
-mahāprabhura gaṇe sei prasāda khāila
+Vāṇīnātha  the rest  all  prasāda  brought  
+mahāprabhura gaṇe sei prasāda khāila  
+Mahāprabhu’s  people  that  prasāda  ate
 
-(93) [not yet translated]
+(93) All the rest of the *prasāda* that Vāṇīnātha brought was eaten by Mahāprabhu’s companions.
 
 অপরাহ্নে আসি’ কৈল দর্শন, নর্ত্তন ৷  
 নিশাতে উদ্যানে আসি’ করিলা শয়ন ॥ ৯৪ ॥

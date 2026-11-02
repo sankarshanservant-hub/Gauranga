@@ -27,3 +27,12 @@
 | snāna-bhoga | bathing and offerings | 14.62 |
 | nimantraṇa-keli | the pastime of invitations | 14.69 |
 | cāturmāsya | the Cāturmāsya | 14.67 |
+| drākṣā | grapes | 14.27 (Anubhāṣya: grapes; VCD «изюм», corrected) |
+| tri-sandhyā | three times a day | 14.72 |
+| jala-khelā; jala-keli; jala-krīḍā | water play; sporting in the water | 14.75–91 |
+| jala-maṇḍūka-vādya … karatāla | clapped their palms on the water, making a sound like frogs croaking | 14.77 (Anubhāṣya and Amṛta-pravāha-bhāṣya: palms on the water, not cymbals) |
+| jala-raṇa | water battles | 14.78 |
+| gālāgāli | to hurl abuse (in jest) | 14.79 |
+| gaṇḍa-śaila | mere hillocks | 14.86 |
+| śuṣka-tarka-khali | the oilcake of dry logic | 14.87 (*khali*, the residue left after pressing oil) |
+| śeṣa-śayyā; śeṣa-śāyī-līlā | couch like Śeṣa; the pastime of the One who lies on Śeṣa | 14.88–89 |
