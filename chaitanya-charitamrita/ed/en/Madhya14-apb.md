@@ -60,6 +60,26 @@ When Jagannātha sets out on His chariot, He tells Lakṣmī, “I will come bac
 
 Seeing such boldness (*prāgalbhya*) on Lakṣmī's part, Svarūpa Gosvāmī, to show the excellence of the wealth of love of the people of Vraja, said: “Prabhu, I have never heard of such *māna* as Lakṣmī's anywhere in the three worlds. When a beloved is in *māna* (a *māninī*), she loses all zest and puts off her ornaments; with a downcast face she sits on the ground and scratches at random with her nail. Such is the *māna* of the *gopīs* in Vraja, and Satyabhāmā, who lives in the city, is known to show the same *māna*. But Lakṣmī-devī's *māna*, I see, is just the opposite: she displays her wealth, musters her troops and goes to attack her beloved.”
 
+## 141
+
+The natures of the heroines (*nāyikās*) and the workings of their love are of many kinds, and according to these differences *māna* arises in each heroine.
+
+## 143
+
+Heroines in *māna* (*māninīs*), briefly stated, fall into three classes: *dhīrā*, *adhīrā* and *dhīrādhīrā*.
+
+## 149–151
+
+Heroines are of three kinds: *mugdhā*, *madhyā* and *pragalbhā*. The *mugdhās* know none of the fine points of the art of *māna*. It is the heroines who are *madhyā* and *pragalbhā* that fall into the three classes, *dhīrā* and the others.
+
+## 158
+
+Thus Śrī Kṛṣṇa — He whose desires are always fulfilled (*satya-kāma*), full of *śṛṅgāra-rasa*, holding [His love] within His spiritual mood, He to whom the women were devoted — performed the *rāsa* dance on those nights shining with moonbeams, which are the shelter of *rasa* in all the tales of autumn and in poetry. The meaning is this: the *gopīs* are wholly spiritual (*śuddha-cinmayī*), Śrī Vṛndāvana is a purely spiritual abode, and those blissful nights too were spiritual nights. The *rāsa* dance that took place then was also completely spiritual: nothing material touched it in the least. Kṛṣṇa never looks at material love (*rati*); all His pastimes are contained within the spiritual world, and His love play (*saurata*) is entirely spiritual activity.
+
+## 159–162
+
+The *gopīs* are of two kinds, *vāmā* and *dakṣiṇā*. Among the *gopīs* the best is Rādhā-ṭhākurāṇī, a mine of the jewels of the *prema* of pure *ujjvala-rasa*. By age She is *madhyā*, by temperament *samā*, and always *vāmā*. It is from Her contrary (*vāmya*) nature that *māna* arises.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

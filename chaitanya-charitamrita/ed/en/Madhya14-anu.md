@@ -476,6 +476,86 @@ See *Bṛhad-bhāgavatāmṛta*, Part One, Chapter Seven.
 
 > Subheading: *Māna* differs according to the nature of the beloved and the kinds of love —
 
+## 141–153
+
+See in the *Ujjvala-nīlamaṇi* the chapters on the kinds of heroines (*nāyikā-bheda*), the kinds of group leaders (*yūtheśvarī-bheda*) and the kinds of friends (*sakhī-bheda*).
+
+## 142
+
+> Subheading: A brief description of the *gopīs'* indescribable *māna* —
+
+## 143
+
+> Subheading: Three kinds of heroines in *māna* —
+
+## 144
+
+> Subheading: The nature of the *dhīrā* in *māna* —
+
+## 146
+
+*Solluṇṭha-vākya*: words with light mockery and jest, or praise that hides reproach (*vyāja-stuti*). *Nirasana*: rebuff.
+
+## 147
+
+> Subheading: The nature of the *adhīrā* in *māna* —
+
+## 148
+
+> Subheading: The nature of the *dhīrādhīrā* in *māna* —
+
+[See] Madhya, Chapter 8, verse 172. *Vakra*: crooked, full of guile.
+
+## 149
+
+> Subheading: Three kinds of heroines; the *mugdhā* is unskilled in the art of *māna* —
+
+*Vaidagdhya-vibheda*: various stratagems.
+
+## 151
+
+> Subheading: It is the *madhyās* and *pragalbhās* who divide into the *dhīrā*, *adhīrā* and *dhīrādhīrā* mentioned above, and this is what delights Kṛṣṇa —
+
+## 154
+
+> Subheading: The Lord rejoices to hear of the *gopīs'* traits as heroines —
+
+## 155
+
+> Subheading: Svarūpa describes the signs of Kṛṣṇa's and the *gopīs'* love for each other —
+
+*Rasa-āsvādaka*: Śrī Kṛṣṇa alone relishes the spiritual *rasa* (*cid-rasa*): He is the enjoyer (*bhoktā*), the *viṣaya*, and all others are His *āśraya*, those He enjoys (*bhogya*).
+
+## 157
+
+*Rasābhāsa*: “Rasas that lack [any of] the characteristics of *rasa* set out earlier are called *rasābhāsas* by the knowers of *rasa*. They are of three kinds — *uparasas*, *anurasas* and *aparasas* — and are called, in that order, the highest, the middling and the lowest.” (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th Laharī) When a *rasa* departs from the characteristics of *rasa* described earlier, the knowers of *rasa* call such a *rasa*, lacking those characteristics, *rasābhāsa*. *Rasābhāsa* is of three kinds — highest, middling and lowest, that is, *uparasa*, *anurasa* and *aparasa*.
+
+## 158
+
+> Subheading: Śrī Kṛṣṇa's spiritual *rāsa* dance — (*Śrīmad-Bhāgavatam* 10.33.25)
+
+Śrī Śukadeva, the *mahā-bhāgavata*, crest jewel of the assembly of *paramahaṁsas*, describes to Parīkṣit, pure of heart, Śrī Kṛṣṇa's *rāsa* dance with the *gopīs*:
+
+**evam** (in the way described) **satya-kāmaḥ** (Śrī Kṛṣṇa, whose desires are eternally true) **anuratābalā-gaṇaḥ** (He to whom hosts of women are drawn, that is, who is amid a multitude of loving women) **ātmani** (*eva*, within Himself) **avaruddha-saurataḥ** (who held in His love play, that is, the Ātmārāma, the transcendental Kāmadeva) **śarat-kāvya-kathā-rasāśrayāḥ** (the shelter of the *rasas* that occur in autumn and are sung of in poetry; or, the shelter of the *rasas* of poetic narrations befitting autumn; or, construing *rasāśrayāḥ śarat-kāvya-kathāḥ*, the nights that poetry speaks of as the shelter of *śṛṅgāra-rasa*, renowned in autumn) **śaśāṅkāṁśu-virājitāḥ** (shining with the rays of the moon) **sarvāḥ** **eva** **niśāḥ** **siṣeve** (He spent in the *rāsa* dance).
+
+## 159
+
+> Subheading: Among the *gopīs*, a variety of qualities full of the most wondrous traits befitting heroines —
+
+*Vāmā*: “She who is always ready to take up *māna* and grows angry when *māna* slackens, whom the hero cannot win over and who is mostly harsh with him, is called *vāmā*.” (*Ujjvala-nīlamaṇi*, section on the *sakhīs*, 13) The heroine who always strives to take up *māna*, grows angry when *māna* slackens, does not yield to the hero and is mostly harsh with him is called *vāmā*.
+
+*Dakṣiṇā*: “She who cannot bear persistence in *māna*, speaks reasonable words to the hero and is won over by his gentle words is called *dakṣiṇā*.” (*Ujjvala-nīlamaṇi*, section on the *sakhīs*, 14) That is, the heroine who cannot bear prolonged *māna*, speaks fitting words to the hero and is softened by his playful words is called *dakṣiṇā*.
+
+## 160
+
+> Subheading: The nature and qualities of Śrī Rādhā, the best of the *gopīs* and dearest to Kṛṣṇa —
+
+## 163
+
+> Subheading: (*Ujjvala-nīlamaṇi*, Śṛṅgāra-bheda-kathana, 102)
+
+See Madhya, Chapter 8, verse 110.
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
