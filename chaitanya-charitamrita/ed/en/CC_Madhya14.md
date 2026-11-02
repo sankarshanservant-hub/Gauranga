@@ -478,185 +478,231 @@ such  wonderful  pastimes  performs  Gaurarāya
 গৌড় সব রথ টানে, আগে নাহি যায় ॥ ৪৭ ॥
 
 iṅhā jagannāthera ratha-calana-samaya  
-gauḍa saba ratha ṭāne, āge nāhi yāya
+here  of Jagannātha  the time of the chariot’s moving  
+gauḍa saba ratha ṭāne, āge nāhi yāya  
+the Gauḍas  all  the chariot  pull  forward  not  goes
 
-(47) [not yet translated]
+(47) Meanwhile, at the time for Jagannātha’s chariot to move, all the *gauḍas* pulled at it, but it would not go forward.
 
 টানিতে না পারে গৌড়, রথ ছাড়ি’ দিল ৷  
 পাত্র-মিত্র লঞা রাজা ব্যগ্র হঞা আইল ॥ ৪৮ ॥
 
 ṭānite nā pāre gauḍa, ratha chāḍi’ dila  
-pātra-mitra lañā rājā vyagra hañā āila
+to pull  not  can  the Gauḍas  the chariot  leaving  let go  
+pātra-mitra lañā rājā vyagra hañā āila  
+officers and friends  taking  the king  anxious  becoming  came
 
-(48) [not yet translated]
+(48) Unable to pull it, the *gauḍas* let the chariot go. The king, anxious, came there with his officers and friends.
 
 মহামল্লগণে দিল রথ চালাইতে ৷  
 আপনে লাগিলা রথ, না পারে টানিতে ॥ ৪৯ ॥
 
 mahā-malla-gaṇe dila ratha cālāite  
-āpane lāgilā ratha, nā pāre ṭānite
+to great wrestlers  gave  the chariot  to move  
+āpane lāgilā ratha, nā pāre ṭānite  
+himself  set to  the chariot  not  can  pull
 
-(49) [not yet translated]
+(49) He set mighty wrestlers to move the chariot and put his own hand to it too, but they could not pull it.
 
 ব্যগ্র হঞা আনে রাজা মত্ত-হাতীগণ ৷  
 রথ চালাইতে রথে করিল যোজন ॥ ৫০ ॥
 
 vyagra hañā āne rājā matta-hātī-gaṇa  
-ratha cālāite rathe karila yojana
+anxious  becoming  brings  the king  maddened elephants  
+ratha cālāite rathe karila yojana  
+the chariot  to move  to the chariot  made  harnessing
 
-(50) [not yet translated]
+(50) Growing anxious, the king brought maddened elephants and had them harnessed to the chariot to move it.
 
 মত্ত-হস্তিগণ টানে, যত তার বল ৷  
 এক পদ না চলে রথ, হইল অচল ॥ ৫১ ॥
 
 matta-hasti-gaṇa ṭāne, yata tāra bala  
-eka pada nā cale ratha, haila acala
+the maddened elephants  pull  as much as  their  strength  
+eka pada nā cale ratha, haila acala  
+one  step  not  moves  the chariot  it became  immovable
 
-(51) [not yet translated]
+(51) The maddened elephants pulled with all their strength, but the chariot would not move a single step. It stood fixed.
 
 শুনি’ মহাপ্রভু আইলা নিজগণ লঞা ৷  
 মত্তহস্তি রথ টানে, — দেখে দণ্ডাঞা ॥ ৫২ ॥
 
 śuni’ mahāprabhu āilā nija-gaṇa lañā  
-matta-hasti ratha ṭāne, — dekhe daṇḍāñā
+hearing  Mahāprabhu  came  His own people  with  
+matta-hasti ratha ṭāne, — dekhe daṇḍāñā  
+the maddened elephants  the chariot  pull  He watches  standing
 
-(52) [not yet translated]
+(52) Hearing of this, Mahāprabhu came with His companions. He stood and watched the maddened elephants pulling the chariot.
 
 অঙ্কুশের ঘায় হস্তী করয়ে চিৎকার ৷  
 রথ নাহি চলে, লোক করে হাহাকার ॥ ৫৩ ॥
 
 aṅkuśera ghāya hastī karaye citkāra  
-ratha nāhi cale, loka kare hāhākāra
+of the goad  under the blows  the elephants  make  screams  
+ratha nāhi cale, loka kare hāhākāra  
+the chariot  not  moves  the people  make  laments
 
-(53) [not yet translated]
+(53) The elephants screamed under the blows of the goad, yet the chariot would not move, and the people cried out in dismay.
 
 তবে মহাপ্রভু সব হস্তি ঘুচাইল ৷  
 নিজগণে রথ-কাছি টানিবারে দিল ॥ ৫৪ ॥
 
 tabe mahāprabhu saba hasti ghucāila  
-nija-gaṇe ratha-kāchi ṭānibāre dila
+then  Mahāprabhu  all  the elephants  removed  
+nija-gaṇe ratha-kāchi ṭānibāre dila  
+to His own people  the chariot ropes  to pull  gave
 
-(54) [not yet translated]
+(54) Then Mahāprabhu had all the elephants taken away and gave the chariot ropes to His own companions to pull.
 
 আপনে রথের পাছে ঠেলে মাথা দিয়া ৷  
 হড়, হড়, করি’ রথ চলিল ধাইঞা ॥ ৫৫ ॥
 
 āpane rathera pāche ṭhele māthā diyā  
-haḍ, haḍ, kari’ ratha calila dhāiñā
+Himself  of the chariot  behind  pushes  the head  placing  
+haḍ, haḍ, kari’ ratha calila dhāiñā  
+rumbling  rumbling  making  the chariot  moved  rushing
 
-(55) [not yet translated]
+(55) He Himself pushed the chariot from behind with His head, and with a rumbling roar the chariot rushed forward.
 
 ভক্তগণ কাছি হাতে করি’ মাত্র ধায় ৷  
 আপনে চলিল রথ, টানিতে না পায় ॥ ৫৬ ॥
 
 bhakta-gaṇa kāchi hāte kari’ mātra dhāya  
-āpane calila ratha, ṭānite nā pāya
+the devotees  the rope  in hand  holding  merely  run  
+āpane calila ratha, ṭānite nā pāya  
+by itself  moved  the chariot  to pull  not  they get
 
-(56) [not yet translated]
+(56) The devotees simply ran along holding the ropes in their hands. The chariot moved by itself, and they had no need to pull.
 
 আনন্দে করয়ে লোক ‘জয়’ ‘জয়’-ধ্বনি ৷  
 ‘জয় জগন্নাথ’ বই আর নাহি শুনি ॥ ৫৭ ॥
 
 ānande karaye loka ‘jaya’ ‘jaya’-dhvani  
-‘jaya jagannātha’ bai āra nāhi śuni
+in joy  make  the people  “jaya”  “jaya” sounds  
+‘jaya jagannātha’ bai āra nāhi śuni  
+“jaya Jagannātha”  except  other  not  is heard
 
-(57) [not yet translated]
+(57) In their joy the people shouted “*Jaya! Jaya!*” Nothing could be heard but “*Jaya Jagannātha!*”
 
 নিমেষে ত’ গেল রথ গুণ্ডিচার দ্বার ৷  
 চৈতন্য-প্রতাপ দেখি’ লোকে চমৎকার ॥ ৫৮ ॥
 
 nimeṣe ta’ gela ratha guṇḍicāra dvāra  
-caitanya-pratāpa dekhi’ loke camatkāra
+in an instant  indeed  went  the chariot  of Guṇḍicā  to the gate  
+caitanya-pratāpa dekhi’ loke camatkāra  
+Caitanya’s might  seeing  the people  in wonder
 
-(58) [not yet translated]
+(58) In an instant the chariot reached the gate of Guṇḍicā. Seeing Caitanya’s might, the people were struck with wonder.
 
 ‘জয় গৌরচন্দ্র’, ‘জয় শ্রীকৃষ্ণচৈতন্য’ ৷  
 এইমত কোলাহল লোকে করে ধন্য ॥ ৫৯ ॥
 
 ‘jaya gauracandra’, ‘jaya śrī kṛṣṇa-caitanya’  
-ei-mata kolāhala loke kare dhanya
+“glory to Gauracandra”  “glory to Śrī Kṛṣṇa Caitanya”  
+ei-mata kolāhala loke kare dhanya  
+in this way  tumult  the people  make  “blessed”
 
-(59) [not yet translated]
+(59) “Glory to Gauracandra! Glory to Śrī Kṛṣṇa Caitanya!” With such a tumult the people cried, “Blessed! Blessed!”
 
 দেখিয়া প্রতাপরুদ্র পাত্র-মিত্র-সঙ্গে ৷  
 প্রভুর মহিমা দেখি’ প্রেমে ফুলে অঙ্গে ॥ ৬০ ॥
 
 dekhiyā pratāparudra pātra-mitra-saṅge  
-prabhura mahimā dekhi’ preme phule aṅge
+seeing  Pratāparudra  with officers and friends  
+prabhura mahimā dekhi’ preme phule aṅge  
+the Lord’s  glory  seeing  in love  swells  in body
 
-(60) [not yet translated]
+(60) Seeing the Lord’s glory, Pratāparudra, his officers and his friends thrilled with love in every limb.
 
 পাণ্ডুবিজয় তবে করে সেবকগণে ৷  
 জগন্নাথ বসিলা গিয়া নিজ-সিংহাসনে ॥ ৬১ ॥
 
 pāṇḍu-vijaya tabe kare sevaka-gaṇe  
-jagannātha vasilā giyā nija-siṁhāsane
+the Pāṇḍu-vijaya  then  perform  the servants  
+jagannātha vasilā giyā nija-siṁhāsane  
+Jagannātha  sat  going  on His own throne
 
-(61) [not yet translated]
+(61) Then the servants performed the *Pāṇḍu-vijaya*, and Jagannātha went and sat upon His throne.
 
 সুভদ্রা-বলরাম নিজ-সিংহাসনে আইলা ৷  
 জগন্নাথের স্নানভোগ হইতে লাগিলা ॥ ৬২ ॥
 
 subhadrā-balarāma nija-siṁhāsane āilā  
-jagannāthera snāna-bhoga haite lāgilā
+Subhadrā and Balarāma  to their own thrones  came  
+jagannāthera snāna-bhoga haite lāgilā  
+Jagannātha’s  bath and offering  to take place  began
 
-(62) [not yet translated]
+(62) Subhadrā and Balarāma came to their thrones too, and Jagannātha’s bathing and offerings began.
 
 আঙ্গিনাতে মহাপ্রভু লঞা ভক্তগণ ৷  
 আনন্দে আরম্ভ কৈল নর্ত্তন-কীর্ত্তন ॥ ৬৩ ॥
 
 āṅgināte mahāprabhu lañā bhakta-gaṇa  
-ānande ārambha kaila nartana-kīrtana
+in the courtyard  Mahāprabhu  with  the devotees  
+ānande ārambha kaila nartana-kīrtana  
+in joy  beginning  made  dancing and kīrtana
 
-(63) [not yet translated]
+(63) In the courtyard Mahāprabhu and the devotees joyfully began to dance and sing *kīrtana*.
 
 আনন্দে মহাপ্রভুর প্রেম উথলিল ৷  
 দেখি’ সব লোক প্রেম-সাগরে ভাসিল ॥ ৬৪ ॥
 
 ānande mahāprabhura prema uthalila  
-dekhi’ saba loka prema-sāgare bhāsila
+in joy  Mahāprabhu’s  love  surged up  
+dekhi’ saba loka prema-sāgare bhāsila  
+seeing  all  the people  in the ocean of love  floated
 
-(64) [not yet translated]
+(64) In His joy Mahāprabhu’s love surged up, and all who saw Him floated in the ocean of love.
 
 নৃত্য করি’ সন্ধ্যাকালে আরতি দেখিল ৷  
 আইটোটা আসি’ প্রভু বিশ্রাম করিল ॥ ৬৫ ॥
 
 nṛtya kari’ sandhyā-kāle ārati dekhila  
-āiṭoṭā āsi’ prabhu viśrāma karila
+dance  having done  in the evening  the ārati  watched  
+āiṭoṭā āsi’ prabhu viśrāma karila  
+to Āiṭoṭā  coming  the Lord  rest  took
 
-(65) [not yet translated]
+(65) After the dance He watched the evening *ārati*. Then the Lord came to Āiṭoṭā and rested.
 
 অদ্বৈতাদি ভক্তগণ নিমন্ত্রণ কৈল ৷  
 মুখ্য মুখ্য নব জন নব দিন পাইল ॥ ৬৬ ॥
 
 advaitādi bhakta-gaṇa nimantraṇa kaila  
-mukhya mukhya nava jana nava dina pāila
+Advaita and the others  the devotees  invitation  made  
+mukhya mukhya nava jana nava dina pāila  
+chief  chief  nine  persons  nine  days  received
 
-(66) [not yet translated]
+(66) Advaita and the other devotees invited the Lord: the nine chief devotees received the nine days.
 
 আর ভক্তগণ চাতুর্ম্মাস্যে যত দিন ৷  
 এক এক দিন করি’ করিল বণ্টন ॥ ৬৭ ॥
 
 āra bhakta-gaṇa cāturmāsye yata dina  
-eka eka dina kari’ karila baṇṭana
+the other  devotees  in the Cāturmāsya  as many as  days  
+eka eka dina kari’ karila baṇṭana  
+one  one  day  making  made  division
 
-(67) [not yet translated]
+(67) The other devotees divided up all the days of the Cāturmāsya, one day each.
 
 চারি মাসের দিন মুখ্যভক্ত বাঁটি’ নিল ৷  
 আর ভক্তগণ অবসর না পাইল ॥ ৬৮ ॥
 
 cāri māsera dina mukhya-bhakta bāṅṭi’ nila  
-āra bhakta-gaṇa avasara nā pāila
+of four  months  the days  the chief devotees  dividing  took  
+āra bhakta-gaṇa avasara nā pāila  
+the other  devotees  opportunity  not  received
 
-(68) [not yet translated]
+(68) The chief devotees divided up the days of the four months among themselves, and the other devotees found no opportunity.
 
 এক দিন নিমন্ত্রণ করে দুই-তিনে মিলি’ ৷  
 এইমত মহাপ্রভুর নিমন্ত্রণ-কেলি ॥ ৬৯ ॥
 
 eka dina nimantraṇa kare dui-tine mili’  
-ei-mata mahāprabhura nimantraṇa-keli
+one  day  invitation  make  two or three  joining together  
+ei-mata mahāprabhura nimantraṇa-keli  
+in this way  Mahāprabhu’s  the play of invitations
 
-(69) [not yet translated]
+(69) So two or three of them would join together to invite Him for a single day. Such was Mahāprabhu’s pastime of invitations.
 
 প্রাতঃকালে স্নান করি’ দেখি’ জগন্নাথ ৷  
 সংকীর্ত্তনে নৃত্য করে ভক্তগণ-সাথ ॥ ৭০ ॥
