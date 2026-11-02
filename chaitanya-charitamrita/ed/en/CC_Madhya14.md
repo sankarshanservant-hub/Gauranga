@@ -1891,27 +1891,35 @@ there  suddenly  of Kṛṣṇa  the sight  She obtains
 সে বৈলক্ষণ্যের নাম ‘বিলাস’-ভূষণ ॥ ১৮৬ ॥
 
 dekhite nānā-bhāva haya vilakṣaṇa  
-se vailakṣaṇyera nāma ‘vilāsa’-bhūṣaṇa
+on seeing (Him)  various bhāvas  become  extraordinary  
+se vailakṣaṇyera nāma ‘vilāsa’-bhūṣaṇa  
+of that  distinctiveness  the name  the vilāsa ornament
 
-(186) [not yet translated]
+(186) On seeing Him, various *bhāvas* appear in Her in an extraordinary way, and that distinctiveness is called the ornament of *vilāsa*.
 
 গতিস্থানাসনাদীনাং মুখনেত্রাদিকর্ম্মণাম্ ৷  
 তাৎকালিকন্তু বৈশিষ্ট্যং বিলাসঃ প্রিয়সঙ্গজম্ ॥ ১৮৭ ॥
 
 gati-sthānāsanādīnāṁ  
+of gait, standing, sitting and so on  
 mukha-netrādi-karmaṇām  
+of the movements of face, eyes and so on  
 tātkālikaṁ tu vaiśiṣṭyaṁ  
-vilāsaḥ priya-saṅga-jam
+momentary  indeed  distinctiveness  
+vilāsaḥ priya-saṅga-jam  
+vilāsa  born of meeting the beloved
 
-(187) [not yet translated]
+(187) “The momentary distinctiveness in a heroine’s gait, standing, sitting and so on, and in the movements of her face, eyes and other features, born of meeting her beloved, is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
 
 লজ্জা, হর্ষ, অভিলাষ, সম্ভ্রম, বাম্য, ভয় ৷  
 এত ভাব মিলি’ রাধায় চঞ্চল করয় ॥ ১৮৮ ॥
 
 lajjā, harṣa, abhilāṣa, sambhrama, vāmya, bhaya  
-eta bhāva mili’ rādhāya cañcala karaya
+shyness  joy  longing  flurry  contrariness  fear  
+eta bhāva mili’ rādhāya cañcala karaya  
+these  bhāvas  combining  Rādhā  restless  make
 
-(188) [not yet translated]
+(188) Shyness, joy, longing, flurry, contrariness and fear — all these *bhāvas* combine and make Rādhā restless.
 
 পুরঃ কৃষ্ণালোকাৎ স্থগিতকুটিলাস্যা গতিরভূৎ  
 তিরশ্চীনং কৃষ্ণাম্বরদরবৃতং শ্রীমুখমপি ৷  
@@ -1919,45 +1927,59 @@ eta bhāva mili’ rādhāya cañcala karaya
 বিলাসাখ্য-স্বালঙ্করণবলিতাসীৎ প্রিয়মুদে ॥ ১৮৯ ॥
 
 puraḥ kṛṣṇālokāt sthagita-kuṭilāsyā gatir abhūt  
+in front  from seeing Kṛṣṇa  halted and wavering  Her  gait  became  
 tiraścīnaṁ kṛṣṇāmbara-dara-vṛtaṁ śrī mukham api  
+turned aside  half covered by a dark veil  beautiful  face  also  
 calat-tāraṁ sphāraṁ nayana-yugam ābhugnam iti sā  
-vilāsākhya-svālaṅkaraṇa-valitāsīt priya-mude
+with darting pupils  wide  pair of eyes  curved  thus  She  
+vilāsākhya-svālaṅkaraṇa-valitāsīt priya-mude  
+with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
 
-(189) [not yet translated]
+(189) “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta 9.11)
 
 কৃষ্ণ-আগে রাধা যদি রহে দাণ্ডাঞা ৷  
 তিন-অঙ্গ-ভঙ্গে রহে ভ্রূ নাচাঞা ॥ ১৯০ ॥
 
 kṛṣṇa-āge rādhā yadi rahe dāṇḍāñā  
-tina-aṅga-bhaṅge rahe bhrū nācāñā
+before Kṛṣṇa  Rādhā  when  remains  standing  
+tina-aṅga-bhaṅge rahe bhrū nācāñā  
+in a threefold bend of Her body  She remains  Her brows  making dance
 
-(190) [not yet translated]
+(190) When Rādhā stands before Kṛṣṇa, She stands with Her body bent in three places, making Her brows dance.
 
 মুখে-নেত্রে হয় নানা-ভাবের উদ্গার ৷  
 এই কান্তা-ভাবের নাম ‘ললিত’-অলঙ্কার ॥ ১৯১ ॥
 
 mukhe-netre haya nānā-bhāvera udgāra  
-ei kāntā-bhāvera nāma ‘lalita’-alaṅkāra
+in face and eyes  there is  of various bhāvas  an outpouring  
+ei kāntā-bhāvera nāma ‘lalita’-alaṅkāra  
+of this  mood of the beloved  the name  the lalita ornament
 
-(191) [not yet translated]
+(191) When Her face and eyes pour forth many *bhāvas*, this mood of the beloved heroine is called the ornament of *lalita*.
 
 বিন্যাস-ভঙ্গিরঙ্গানাং ভ্রূবিলাস-মনোহরা ৷  
 সুকুমারা ভবেদ্যত্র ললিতং তদুদাহৃতম্ ॥ ১৯২ ॥
 
 vinyāsa-bhaṅgir aṅgānāṁ  
+the graceful poise  of the limbs  
 bhrū-vilāsa-manoharā  
+charming with the play of the brows  
 sukumārā bhaved yatra  
-lalitaṁ tad udāhṛtam
+delicate  is  where  
+lalitaṁ tad udāhṛtam  
+lalita  that  is called
 
-(192) [not yet translated]
+(192) “Where the poise of the limbs is graceful and delicate, charming with the play of the brows, that is called *lalita*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 75)
 
 ললিত-ভূষিত রাধা দেখে যদি কৃষ্ণ ৷  
 দুঁহে দুঁহা মিলিবারে হয়েন সতৃষ্ণ ॥ ১৯৩ ॥
 
 lalita-bhūṣita rādhā dekhe yadi kṛṣṇa  
-duṅhe duṅhā milibāre hayena satṛṣṇa
+adorned with lalita  Rādhā  sees  when  Kṛṣṇa  
+duṅhe duṅhā milibāre hayena satṛṣṇa  
+both  each other  to meet  become  eager
 
-(193) [not yet translated]
+(193) When Kṛṣṇa sees Rādhā adorned with *lalita*, They both long to meet each other.
 
 হ্রিয়া তির্য্যগ্-গ্রীবা-চরণ-কটি-ভঙ্গী-সুমধুরা  
 চলচ্চিল্লী-বল্লী-দলিত-রতিনাথোর্জ্জিত-ধনুঃ ৷  
@@ -1965,53 +1987,69 @@ duṅhe duṅhā milibāre hayena satṛṣṇa
 প্রিয়প্রীত্যৈ সাসীদুদিতললিতালঙ্কৃতিযুতা ॥ ১৯৪ ॥
 
 hriyā tiryag-grīvā-caraṇa-kaṭi-bhaṅgī-sumadhurā  
+from shyness  with neck, feet and waist bent aside  most charming  
 calac-cillī-vallī-dalita-ratināthorjita-dhanuḥ  
+by the moving creepers of Her brows  broken  Kāmadeva’s  mighty  bow  
 priya-premollāsollasita-lalitālālita-tanuḥ  
-priya-prītyai sāsīd udita-lalitālaṅkṛti-yutā
+with a graceful, cherished body glowing with the joy of love for Her beloved  
+priya-prītyai sāsīd udita-lalitālaṅkṛti-yutā  
+for Her beloved’s delight  She  was  with the ornament of lalita that had arisen  endowed
 
-(194) [not yet translated]
+(194) “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta 9.14)
 
 লোভে আসি’ কৃষ্ণ করে কঞ্চুকাকর্ষণ ৷  
 অন্তরে উল্লাস, রাধা করে নিবারণ ॥ ১৯৫ ॥
 
 lobhe āsi’ kṛṣṇa kare kañcukākarṣaṇa  
-antare ullāsa, rādhā kare nivāraṇa
+in eagerness  coming  Kṛṣṇa  does  pulling at the bodice  
+antare ullāsa, rādhā kare nivāraṇa  
+within  delight  Rādhā  does  warding off
 
-(195) [not yet translated]
+(195) When Kṛṣṇa eagerly comes and pulls at Her bodice (*kañcuka*), Rādhā is delighted within, yet She wards Him off.
 
 বাহিরে বামতা-ক্রোধ, ভিতরে সুখ মনে ৷  
 ‘কুট্টমিত’-নাম এই ভাব বিভূষণে ॥ ১৯৬ ॥
 
 bāhire vāmatā-krodha, bhitare sukha mane  
-‘kuṭṭamita’-nāma ei bhāva vibhūṣaṇe
+outwardly  contrariness and anger  inwardly  happiness  in the mind  
+‘kuṭṭamita’-nāma ei bhāva vibhūṣaṇe  
+kuṭṭamita  named  this  bhāva  among the ornaments
 
-(196) [not yet translated]
+(196) Outwardly She shows contrariness and anger, but inwardly She is happy at heart. Among the ornaments this *bhāva* is called *kuṭṭamita*.
 
 স্তনাধরাদিগ্রহণে হৃৎপ্রীতাবপি সম্ভ্রমাৎ ৷  
 বহিঃ ক্রোধো ব্যথিতবৎ প্রোক্তং কুট্টমিতং বুধৈঃ ॥ ১৯৭ ॥
 
 stanādharādi-grahaṇe  
+when the breasts, lips and so on are touched  
 hṛt-prītāv api sambhramāt  
+joy in the heart  though  from agitation  
 bahiḥ krodho vyathita-vat  
-proktaṁ kuṭṭamitaṁ budhaiḥ
+outwardly  anger  as if pained  
+proktaṁ kuṭṭamitaṁ budhaiḥ  
+is called  kuṭṭamita  by the wise
 
-(197) [not yet translated]
+(197) “When her breasts, lips and so on are touched, the heroine, though joyful at heart, shows anger outwardly in her agitation, as if she were pained. The wise call this *kuṭṭamita*.” (Ujjvala-nīlamaṇi, Anubhāva-prakaraṇa, 49)
 
 কৃষ্ণ-বাঞ্ছা পূর্ণ হয়, করে পাণি-রোধ ৷  
 অন্তরে আনন্দ রাধা, বাহিরে বাম্য-ক্রোধ ॥ ১৯৮ ॥
 
 kṛṣṇa-vāñchā pūrṇa haya, kare pāṇi-rodha  
-antare ānanda rādhā, bāhire vāmya-krodha
+Kṛṣṇa’s desire  fulfilled  is  She does  checking His hand  
+antare ānanda rādhā, bāhire vāmya-krodha  
+within  bliss  Rādhā  outwardly  contrariness and anger
 
-(198) [not yet translated]
+(198) She checks Kṛṣṇa’s hand, and yet His desire is fulfilled; within, Rādhā feels bliss, while outwardly She shows contrariness and anger.
 
 ব্যথা পাঞা করে, যেন শুষ্ক রোদন ৷  
 ঈষৎ হাসিয়া কৃষ্ণে করেন ভর্ৎসন ॥ ১৯৯ ॥
 
 vyathā pāñā kare, yena śuṣka rodana  
-īṣat hāsiyā kṛṣṇe karena bhartsana
+pain  feeling  She does  as if  dry  weeping  
+īṣat hāsiyā kṛṣṇe karena bhartsana  
+slightly  smiling  Kṛṣṇa  She does  rebuking
 
-(199) [not yet translated]
+(199) As if in pain, She weeps without tears, and with a faint smile She rebukes Kṛṣṇa.
 
 পাণিরোধমবিরোধিতবাঞ্ছং  
 ভর্ৎসনাশ্চ মধুরস্মিতগর্ভাঃ ৷  
@@ -2019,219 +2057,275 @@ vyathā pāñā kare, yena śuṣka rodana
 র্হারিশুষ্করুদিতঞ্চ মুখেঽপি ॥ ২০০ ॥
 
 pāṇi-rodham avirodhita-vāñchaṁ  
+a checking of the hand  that does not obstruct His desire  
 bhartsanāś ca madhura-smita-garbhāḥ  
+rebukes  and  hiding a sweet smile  
 mādhavasya kurute karabhorur  
-hāri śuṣka-ruditaṁ ca mukhe ’pi
+of Mādhava  makes  She whose thighs are like an elephant’s trunk  
+hāri śuṣka-ruditaṁ ca mukhe ’pi  
+charming  dry weeping  and  on the face  also
 
-(200) [not yet translated]
+(200) “Rādhā, whose thighs are like an elephant’s trunk, checks Mādhava’s hand without obstructing His desire; She rebukes Him with a sweet smile hidden in Her words; and on Her face there is a charming, tearless weeping.”
 
 এইমত আর সব ভাব-বিভূষণ ৷  
 যাহাতে ভূষিত রাধা হরে কৃষ্ণ মন ॥ ২০১ ॥
 
 ei-mata āra saba bhāva-vibhūṣaṇa  
-yāhāte bhūṣita rādhā hare kṛṣṇa mana
+in this way  other  all  ornaments of bhāva  
+yāhāte bhūṣita rādhā hare kṛṣṇa mana  
+with which  adorned  Rādhā  steals  Kṛṣṇa’s  mind
 
-(201) [not yet translated]
+(201) In the same way there are all the other ornaments of *bhāva*; adorned with them, Rādhā steals Kṛṣṇa’s mind.
 
 অনন্ত কৃষ্ণের লীলা না যায় বর্ণন ৷  
 আপনে বর্ণেন যদি ‘সহস্রবদন’ ॥ ২০২ ॥
 
 ananta kṛṣṇera līlā nā yāya varṇana  
-āpane varṇena yadi ‘sahasra-vadana’
+endless  Kṛṣṇa’s  pastimes  not  can be  described  
+āpane varṇena yadi ‘sahasra-vadana’  
+Himself  describes  even if  the thousand-mouthed one
 
-(202) [not yet translated]
+(202) Kṛṣṇa’s pastimes are endless; they cannot be described in full, even if the thousand-mouthed Ananta Himself describes them.”
 
 শ্রীবাস হাসিয়া কহে, — শুন, দামোদর ৷  
 আমার লক্ষ্মীর দেখ সম্পত্তি বিস্তর ॥ ২০৩ ॥
 
 śrīvāsa hāsiyā kahe, — śuna, dāmodara  
-āmāra lakṣmīra dekha sampatti vistara
+Śrīvāsa  smiling  says  listen  Dāmodara  
+āmāra lakṣmīra dekha sampatti vistara  
+of my  Lakṣmī  see  of the wealth  the abundance
 
-(203) [not yet translated]
+(203) Śrīvāsa said with a smile, “Listen, Dāmodara! See the abundant wealth of my Lakṣmī!
 
 বৃন্দাবনের সম্পদ্ দেখ, — পুষ্প-কিসলয় ৷  
 গিরিধাতু শিখিপিচ্ছ-গুঞ্জাফল-ময় ॥ ২০৪ ॥
 
 vṛndāvanera sampad dekha, — puṣpa-kisalaya  
-giridhātu śikhipiccha-guñjāphala-maya
+of Vṛndāvana  the wealth  see  flowers and young shoots  
+giridhātu śikhipiccha-guñjāphala-maya  
+mountain minerals  peacock feathers  guñjā berries  consisting of
 
-(204) [not yet translated]
+(204) And see the wealth of Vṛndāvana: flowers and young shoots, mountain minerals, peacock feathers and *guñjā* berries!
 
 বৃন্দাবন দেখিবারে গেলা জগন্নাথ ৷  
 শুনি’ লক্ষ্মী দেবীর মনে হৈল আসোয়াথ ॥ ২০৫ ॥
 
 vṛndāvana dekhibāre gelā jagannātha  
-śuni’ lakṣmī devīra mane haila āsoyātha
+Vṛndāvana  to see  went  Jagannātha  
+śuni’ lakṣmī devīra mane haila āsoyātha  
+hearing  of Lakṣmī-devī  in the mind  arose  uneasiness
 
-(205) [not yet translated]
+(205) Jagannātha went to see Vṛndāvana, and when Lakṣmī-devī heard of it, she grew uneasy at heart.
 
 এত সম্পত্তি ছাড়ি’ কেনে গেলা বৃন্দাবন ৷  
 তাঁরে হাস্য করিতে লক্ষ্মী করিলা সাজন ॥ ২০৬ ॥
 
 eta sampatti chāḍi’ kene gelā vṛndāvana  
-tāṅre hāsya karite lakṣmī karilā sājana
+so much  wealth  leaving  why  did He go  to Vṛndāvana  
+tāṅre hāsya karite lakṣmī karilā sājana  
+at Him  laughter  to make  Lakṣmī  did  arraying
 
-(206) [not yet translated]
+(206) ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make Him a laughingstock she arrayed herself in all her splendor.
 
 তোমার ঠাকুর, দেখ এত সম্পত্তি ছাড়ি’ ৷  
 পত্র-ফল-ফুল-লোভে গেলা পুষ্পবাড়ী ॥ ২০৭ ॥
 
 tomāra ṭhākura, dekha eta sampatti chāḍi’  
-patra-phala-phula-lobhe gelā puṣpa-bāḍī
+your  master  look  so much  wealth  leaving  
+patra-phala-phula-lobhe gelā puṣpa-bāḍī  
+out of greed for leaves, fruits and flowers  went  to the flower garden
 
-(207) [not yet translated]
+(207) ‘Look at your master! He has left all this wealth and gone to a flower garden, greedy for leaves, fruits and flowers.
 
 এই কর্ম্ম করে কাঁহা বিদগ্ধ-শিরোমণি ?  
 লক্ষ্মীর অগ্রেতে নিজ প্রভুরে দেহ’ আনি’ ॥ ২০৮ ॥
 
 ei karma kare kāṅhā vidagdha-śiromaṇi?  
-lakṣmīra agrete nija prabhure deha’ āni’
+such  a deed  does  where  the crown jewel of the clever  
+lakṣmīra agrete nija prabhure deha’ āni’  
+of Lakṣmī  before  your own  master  give  bringing
 
-(208) [not yet translated]
+(208) Where would the crown jewel of the clever do such a thing? Bring your master before Lakṣmī!’
 
 এত বলি’ মহালক্ষ্মীর সব দাসীগণে ৷  
 কটি-বস্ত্রে বান্ধি’ আনে প্রভুর নিজগণে ॥ ২০৯ ॥
 
 eta bali’ mahā-lakṣmīra saba dāsī-gaṇe  
-kaṭi-vastre bāndhi’ āne prabhura nija-gaṇe
+so  saying  of Mahā-Lakṣmī  all  the maidservants  
+kaṭi-vastre bāndhi’ āne prabhura nija-gaṇe  
+with waistcloths  binding  bring  the Lord’s  own men
 
-(209) [not yet translated]
+(209) Saying this, all of Mahā-Lakṣmī’s maidservants bound the Lord’s own servants with waistcloths and brought them before her.
 
 লক্ষ্মীর চরণে আনি’ করায় প্রণতি ৷  
 ধন-দণ্ড লয়, আর করায় মিনতি ॥ ২১০ ॥
 
 lakṣmīra caraṇe āni’ karāya praṇati  
-dhana-daṇḍa laya, āra karāya minati
+to Lakṣmī’s  feet  bringing  they make  bow  
+dhana-daṇḍa laya, āra karāya minati  
+a fine in money  they take  and  they make  plead
 
-(210) [not yet translated]
+(210) They brought them to Lakṣmī’s feet and made them bow down; they exacted a fine from them and made them plead humbly.
 
 রথের উপরে করে দণ্ডের তাড়ন ৷  
 চোর-প্রায় করে জগন্নাথের সেবকগণ ॥ ২১১ ॥
 
 rathera upare kare daṇḍera tāḍana  
-cora-prāya kare jagannāthera sevaka-gaṇa
+the chariot  upon  they do  with sticks  beating  
+cora-prāya kare jagannāthera sevaka-gaṇa  
+almost like thieves  they treat  Jagannātha’s  servants
 
-(211) [not yet translated]
+(211) They beat the chariot with sticks and treated Jagannātha’s servants almost like thieves.
 
 সব ভৃত্যগণ কহে, — যোড় করি’ হাত ৷  
 কালি আনি দিব তোমার আগে জগন্নাথ ॥ ২১২ ॥
 
 saba bhṛtya-gaṇa kahe, — yoḍa kari’ hāta  
-kāli āni diba tomāra āge jagannātha
+all  the servants  say  joined  making  hands  
+kāli āni diba tomāra āge jagannātha  
+tomorrow  bringing  we shall give  your  before  Jagannātha
 
-(212) [not yet translated]
+(212) All the servants said with folded hands, ‘Tomorrow we shall bring Jagannātha before you.’
 
 তবে শান্ত হঞা লক্ষ্মী যায় নিজ ঘর ৷  
 আমার লক্ষ্মীর সম্পদ্ — বাক্য-অগোচর ॥ ২১৩ ॥
 
 tabe śānta hañā lakṣmī yāya nija ghara  
-āmāra lakṣmīra sampad — vākya-agocara
+then  pacified  becoming  Lakṣmī  goes  to her own  home  
+āmāra lakṣmīra sampad — vākya-agocara  
+of my  Lakṣmī  the wealth  beyond words
 
-(213) [not yet translated]
+(213) Then Lakṣmī, pacified, went back to her own home. The wealth of my Lakṣmī is beyond words!
 
 দুগ্ধ আউটি’ দধি মথে তোমার গোপীগণে ৷  
 আমার ঠাকুরাণী বৈসে রত্নসিংহাসনে ॥ ২১৪ ॥
 
 dugdha āuṭi’ dadhi mathe tomāra gopī-gaṇe  
-āmāra ṭhākurāṇī vaise ratna-siṁhāsane
+milk  boiling  yogurt  churn  your  gopīs  
+āmāra ṭhākurāṇī vaise ratna-siṁhāsane  
+my  mistress  sits  on a jeweled throne
 
-(214) [not yet translated]
+(214) Your gopīs boil milk and churn yogurt, while my mistress sits on a jeweled throne.”
 
 নারদ-প্রকৃতি শ্রীবাস করে পরিহাস ৷  
 শুনি’ হাসে মহাপ্রভুর যত নিজ-দাস ॥ ২১৫ ॥
 
 nārada-prakṛti śrīvāsa kare parihāsa  
-śuni’ hāse mahāprabhura yata nija-dāsa
+of Nārada’s nature  Śrīvāsa  makes  jokes  
+śuni’ hāse mahāprabhura yata nija-dāsa  
+hearing  laugh  Mahāprabhu’s  all  own servants
 
-(215) [not yet translated]
+(215) Śrīvāsa, whose nature is like Nārada’s, joked in this way, and all of Mahāprabhu’s own servants laughed to hear him.
 
 প্রভু কহে, — শ্রীবাস, তোমাতে নারদ-স্বভাব ৷  
 ঐশ্বর্যভাবে তোমাতে, ঈশ্বর-প্রভাব ॥ ২১৬ ॥
 
 prabhu kahe, — śrīvāsa, tomāte nārada-svabhāva  
-aiśvarya-bhāve tomāte, īśvara-prabhāva
+the Lord  says  Śrīvāsa  in you  Nārada’s nature  
+aiśvarya-bhāve tomāte, īśvara-prabhāva  
+in the mood of majesty  on you  the Lord’s influence
 
-(216) [not yet translated]
+(216) The Lord said, “Śrīvāsa, you have Nārada’s nature: in the mood of majesty (*aiśvarya*), the Lord’s power holds sway over you.
 
 ইঁহো দামোদর-স্বরূপ — শুদ্ধ-ব্রজবাসী ৷  
 ঐশ্বর্য্য না জানে ইঁহো শুদ্ধপ্রেমে ভাসি’ ॥ ২১৭ ॥
 
 iṅho dāmodara-svarūpa — śuddha-vrajavāsī  
-aiśvarya nā jāne iṅho śuddha-preme bhāsi’
+he  Dāmodara Svarūpa  a pure resident of Vraja  
+aiśvarya nā jāne iṅho śuddha-preme bhāsi’  
+majesty  not  knows  he  in pure love  floating
 
-(217) [not yet translated]
+(217) But this Svarūpa Dāmodara is a pure resident of Vraja. Floating in pure love, he does not know majesty.”
 
 স্বরূপ কহে, — শ্রীবাস, শুন সাবধানে ৷  
 বৃন্দাবনসম্পদ্ তোমার নাহি পড়ে মনে ? ॥ ২১৮ ॥
 
 svarūpa kahe, — śrīvāsa, śuna sāvadhāne  
-vṛndāvana-sampad tomāra nāhi paḍe mane?
+Svarūpa  says  Śrīvāsa  listen  attentively  
+vṛndāvana-sampad tomāra nāhi paḍe mane?  
+the wealth of Vṛndāvana  your  not  comes  to mind
 
-(218) [not yet translated]
+(218) Svarūpa said, “Śrīvāsa, listen carefully! Does the wealth of Vṛndāvana not come to your mind?
 
 বৃন্দাবনে সাহজিক যে সম্পৎসিন্ধু ৷  
 দ্বারকা-বৈকুণ্ঠ-সম্পৎ — তার এক বিন্দু ॥ ২১৯ ॥
 
 vṛndāvane sāhajika ye sampat-sindhu  
-dvārakā-vaikuṇṭha-sampat-tāra eka bindu
+in Vṛndāvana  natural  which  ocean of wealth  
+dvārakā-vaikuṇṭha-sampat-tāra eka bindu  
+of Dvārakā and Vaikuṇṭha the wealth  of it  one  drop
 
-(219) [not yet translated]
+(219) In Vṛndāvana there is a natural ocean of wealth, and the wealth of Dvārakā and Vaikuṇṭha is but a drop of it.
 
 পরম পুরুষোত্তম স্বয়ং ভগবান্ ৷  
 কৃষ্ণ যাঁহা ধনী তাঁহা বৃন্দাবন-ধাম ॥ ২২০ ॥
 
 parama puruṣottama svayaṁ bhagavān  
-kṛṣṇa yāṅhā dhanī tāṅhā vṛndāvana-dhāma
+the supreme  Puruṣottama  Himself  Bhagavān  
+kṛṣṇa yāṅhā dhanī tāṅhā vṛndāvana-dhāma  
+Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
 
-(220) [not yet translated]
+(220) The Supreme Person, Bhagavān Himself, Kṛṣṇa, is the master of wealth in the abode of Vṛndāvana.
 
 চিন্তামণিময় ভূমি, রত্নের ভবন ৷  
 চিন্তামণিগণ — দাসী-চরণ-ভূষণ ॥ ২২১ ॥
 
 cintāmaṇi-maya bhūmi, ratnera bhavana  
-cintāmaṇi-gaṇa — dāsī-caraṇa-bhūṣaṇa
+made of cintāmaṇi  the ground  of jewels  the houses  
+cintāmaṇi-gaṇa — dāsī-caraṇa-bhūṣaṇa  
+cintāmaṇi gems  of the maidservants  the foot ornaments
 
-(221) [not yet translated]
+(221) There the ground is made of *cintāmaṇi* gems and the houses of jewels; *cintāmaṇi* gems are the ornaments on the maidservants’ feet.
 
 কল্পবৃক্ষ-লতার — যাঁহা সাহজিক-বন ৷  
 পুষ্প-ফল বিনা কেহ না মাগে অন্য ধন ॥ ২২২ ॥
 
 kalpavṛkṣa-latāra — yāṅhā sāhajika-vana  
-puṣpa-phala vinā keha nā māge anya dhana
+of wish-fulfilling trees and creepers  where  a natural forest  
+puṣpa-phala vinā keha nā māge anya dhana  
+flowers and fruits  except  no one  not  asks for  other  wealth
 
-(222) [not yet translated]
+(222) There the natural forest is made of wish-fulfilling trees and creepers, yet no one asks them for any wealth but flowers and fruits.
 
 অনন্ত কামধেনু তাঁহা ফিরে বনে বনে ৷  
 দুগ্ধমাত্র দেন, কেহ না মাগে অন্য ধনে ॥ ২২৩ ॥
 
 ananta kāma-dhenu tāṅhā phire vane vane  
-dugdha-mātra dena, keha nā māge anya dhane
+countless  wish-fulfilling cows  there  wander  from forest  to forest  
+dugdha-mātra dena, keha nā māge anya dhane  
+milk only  they give  no one  not  asks for  other  wealth
 
-(223) [not yet translated]
+(223) Countless wish-fulfilling cows wander there from forest to forest; they give only milk, and no one asks them for any other wealth.
 
 সহজ লোকের কথা — যাঁহা দিব্য-গীত ৷  
 সহজ গমন করে, — যৈছে নৃত্য-প্রতীত ॥ ২২৪ ॥
 
 sahaja lokera kathā — yāṅhā divya-gīta  
-sahaja gamana kare, — yaiche nṛtya-pratīta
+ordinary  of the people  the talk  where  a divine song  
+sahaja gamana kare, — yaiche nṛtya-pratīta  
+ordinary  walking  they do  as  is taken for dancing
 
-(224) [not yet translated]
+(224) There the ordinary talk of the people is a divine song, and their ordinary walking seems like dancing.
 
 সর্ব্বত্র জল — যাঁহা অমৃত-সমান ৷  
 চিদানন্দ জ্যোতিঃ স্বাদ্য — যাঁহা মূর্ত্তিমান্ ॥ ২২৫ ॥
 
 sarvatra jala — yāṅhā amṛta-samāna  
-cid-ānanda jyotiḥ svādya — yāṅhā mūrtimān
+everywhere  the water  where  like nectar  
+cid-ānanda jyotiḥ svādya — yāṅhā mūrtimān  
+spiritual and blissful  the light  to be relished  where  embodied
 
-(225) [not yet translated]
+(225) Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.
 
 লক্ষ্মী জিনি’ গুণ যাঁহা লক্ষ্মীর সমাজ ৷  
 কৃষ্ণ-বংশী করে যাঁহা প্রিয়সখী-কায ॥ ২২৬ ॥
 
 lakṣmī jini’ guṇa yāṅhā lakṣmīra samāja  
-kṛṣṇa-vaṁśī kare yāṅhā priya-sakhī-kāya
+Lakṣmī  surpassing  in qualities  where  of Lakṣmīs  the company  
+kṛṣṇa-vaṁśī kare yāṅhā priya-sakhī-kāya  
+Kṛṣṇa’s flute  does  where  of a dear friend  the service
 
-(226) [not yet translated]
+(226) There the company of Lakṣmīs, the gopīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.
 
 শ্রিয়ঃ কান্তাঃ কান্তঃ পরমপুরুষঃ কল্পতরবো  
 দ্রুমা ভূমিশ্চিন্তামণিগণময়ী তোয়মমৃতম্ ৷  
@@ -2239,11 +2333,15 @@ kṛṣṇa-vaṁśī kare yāṅhā priya-sakhī-kāya
 চিদানন্দং জ্যোতিঃ পরমপি তদাস্বাদ্যমপি চ ॥ ২২৭ ॥
 
 śriyaḥ kāntāḥ kāntaḥ parama-puruṣaḥ kalpa-taravo  
+goddesses of fortune  the beloveds  the lover  the Supreme Person  wish-fulfilling trees  
 drumā bhūmiś cintāmaṇi-gaṇa-mayī toyam amṛtam  
+the trees  the ground  made of cintāmaṇi gems  the water  nectar  
 kathā gānaṁ nāṭyaṁ gamanam api vaṁśī priya-sakhī  
-cid-ānandaṁ jyotiḥ param api tad āsvādyam api ca
+speech  song  dance  walking  also  the flute  a dear friend  
+cid-ānandaṁ jyotiḥ param api tad āsvādyam api ca  
+spiritual and blissful  light  the supreme  also  that  to be relished  also  and
 
-(227) [not yet translated]
+(227) “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light of spiritual bliss is there to be relished.” (Brahma-saṁhitā 5.56)
 
 চিন্তামণিশ্চরণভূষণমঙ্গনানাং  
 শৃঙ্গারপুষ্পতরবস্তরবঃ সুরাণাম্ ৷  
@@ -2251,240 +2349,308 @@ cid-ānandaṁ jyotiḥ param api tad āsvādyam api ca
 বৃন্দানি চেতি সুখসিন্ধুরহো বিভূতিঃ ॥ ২২৮ ॥
 
 cintāmaṇiś caraṇa-bhūṣaṇam aṅganānāṁ  
+cintāmaṇi  the foot ornament  of the maidens  
 śṛṅgāra-puṣpa-taravas taravaḥ surāṇām  
+trees with flowers for adornment  the trees  of the gods  
 vṛndāvane vraja-dhanaṁ nanu kāma-dhenu-  
-vṛndāni ceti sukha-sindhur aho vibhūtiḥ
+in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows  
+vṛndāni ceti sukha-sindhur aho vibhūtiḥ  
+herds  and thus  an ocean of happiness  ah!  the splendor
 
-(228) [not yet translated]
+(228) “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendor is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu 2.1.173)
 
 শুনি’ প্রেমাবেশে নৃত্য করে শ্রীনিবাস ৷  
 কক্ষতালি বাজায়, করে অট্ট-অট্ট হাস ॥ ২২৯ ॥
 
 śuni’ premāveśe nṛtya kare śrīnivāsa  
-kakṣa-tāli bājāya, kare aṭṭa-aṭṭa hāsa
+hearing  in the rapture of love  dance  does  Śrīnivāsa  
+kakṣa-tāli bājāya, kare aṭṭa-aṭṭa hāsa  
+under the arm  clapping  he sounds  he makes  loud  loud  laughter
 
-(229) [not yet translated]
+(229) Hearing this, Śrīvāsa danced in the rapture of love, clapping his hands under his arms and laughing loudly.
 
 রাধার শুদ্ধরস প্রভু আবেশে শুনিল ৷  
 সেই রসাবেশে প্রভু নৃত্য আরম্ভিল ॥ ২৩০ ॥
 
 rādhāra śuddha-rasa prabhu āveśe śunila  
-sei rasāveśe prabhu nṛtya ārambhila
+Rādhā’s  pure rasa  the Lord  in rapture  heard  
+sei rasāveśe prabhu nṛtya ārambhila  
+in that  rapture of rasa  the Lord  dance  began
 
-(230) [not yet translated]
+(230) The Lord heard of Rādhā’s pure *rasa* in rapture, and in that rapture of *rasa* He began to dance.
 
 রসাবেশে প্রভুর নৃত্য, স্বরূপের গান ৷  
 ‘বল’ ‘বল’ বলি’ প্রভু পাতে নিজ-কাণ ॥ ২৩১ ॥
 
 rasāveśe prabhura nṛtya, svarūpera gāna  
-‘bala’ ‘bala’ bali’ prabhu pāte nija-kāṇa
+in the rapture of rasa  the Lord’s  dance  Svarūpa’s  singing  
+‘bala’ ‘bala’ bali’ prabhu pāte nija-kāṇa  
+go on  go on  saying  the Lord  lends  His own ears
 
-(231) [not yet translated]
+(231) Absorbed in *rasa*, the Lord danced and Svarūpa sang. “Go on, go on!” the Lord said, lending His ears.
 
 ব্রজরস-গীত শুনি’ প্রেম উথলিল ৷  
 পুরুষোত্তম-গ্রাম প্রভু প্রেমে ভাসাইল ॥ ২৩২ ॥
 
 vraja-rasa-gīta śuni’ prema uthalila  
-puruṣottama-grāma prabhu preme bhāsāila
+songs of the rasa of Vraja  hearing  love  surged up  
+puruṣottama-grāma prabhu preme bhāsāila  
+the town of Puruṣottama  the Lord  with love  flooded
 
-(232) [not yet translated]
+(232) Hearing songs of the *rasa* of Vraja, His love surged up, and the Lord flooded the town of Puruṣottama with love.
 
 লক্ষ্মী-দেবী-যথাকালে গেলা নিজ-ঘর ৷  
 প্রভু নৃত্য করে, হৈল দ্বিতীয় প্রহর ॥ ২৩৩ ॥
 
 lakṣmī-devī-yathā-kāle gelā nija-ghara  
-prabhu nṛtya kare, haila dvitīya prahara
+Lakṣmī-devī  in due time  went  to her own home  
+prabhu nṛtya kare, haila dvitīya prahara  
+the Lord  dance  does  came  the second  watch
 
-(233) [not yet translated]
+(233) In due time Lakṣmī-devī went back to her own home. The Lord went on dancing, and the second watch of the day (*prahara*) had come.
 
 চারি সম্প্রদায় গান করি’ বহু শ্রান্ত হৈল ৷  
 মহাপ্রভুর প্রেমাবেশ দ্বিগুণ বাড়িল ॥ ২৩৪ ॥
 
 cāri sampradāya gāna kari’ bahu śrānta haila  
-mahāprabhura premāveśa dviguṇa bāḍila
+the four  groups  singing  having done  very  tired  became  
+mahāprabhura premāveśa dviguṇa bāḍila  
+Mahāprabhu’s  rapture of love  twofold  increased
 
-(234) [not yet translated]
+(234) The four groups grew very tired from singing, but Mahāprabhu’s rapture of love doubled.
 
 রাধা-প্রেমাবেশে প্রভু হৈলা সেই মূর্ত্তি ৷  
 নিত্যানন্দ দূরে দেখি’ করিলেন স্তুতি ॥ ২৩৫ ॥
 
 rādhā-premāveśe prabhu hailā sei mūrti  
-nityānanda dūre dekhi’ karilena stuti
+in the rapture of Rādhā’s love  the Lord  became  that  form  
+nityānanda dūre dekhi’ karilena stuti  
+Nityānanda  from afar  seeing  offered  prayers
 
-(235) [not yet translated]
+(235) In the rapture of Rādhā’s love the Lord assumed Her very form. Seeing this from afar, Nityānanda offered prayers.
 
 নিত্যানন্দ দেখিয়া প্রভুর ভাবাবেশ ৷  
 নিকটে না আইসে, কিছু রহে দূরদেশ ॥ ২৩৬ ॥
 
 nityānanda dekhiyā prabhura bhāvāveśa  
-nikaṭe nā āise, kichu rahe dūra-deśa
+Nityānanda  seeing  the Lord’s  rapture of feeling  
+nikaṭe nā āise, kichu rahe dūra-deśa  
+near  not  comes  somewhat  stays  at a distance
 
-(236) [not yet translated]
+(236) Seeing the Lord’s rapture, Nityānanda would not come near but kept somewhat at a distance.
 
 নিত্যানন্দ বিনা প্রভুকে ধরে কোন্ জন ৷  
 প্রভুর আবেশ না যায়, না রহে কীর্ত্তন ॥ ২৩৭ ॥
 
 nityānanda vinā prabhuke dhare kon jana  
-prabhura āveśa nā yāya, nā rahe kīrtana
+Nityānanda  except  the Lord  holds  what  person  
+prabhura āveśa nā yāya, nā rahe kīrtana  
+the Lord’s  rapture  not  goes  not  stops  the kīrtana
 
-(237) [not yet translated]
+(237) Who but Nityānanda could hold the Lord? His rapture did not subside, and the *kīrtana* did not stop.
 
 ভঙ্গি করি’ স্বরূপ সবার শ্রম জানাইল ৷  
 ভক্তগণের শ্রম দেখি’ প্রভুর বাহ্য হৈল ॥ ২৩৮ ॥
 
 bhaṅgi kari’ svarūpa sabāra śrama jānāila  
-bhakta-gaṇera śrama dekhi’ prabhura bāhya haila
+a stratagem  making  Svarūpa  of all  the fatigue  made known  
+bhakta-gaṇera śrama dekhi’ prabhura bāhya haila  
+of the devotees  the fatigue  seeing  the Lord’s  outer awareness  came
 
-(238) [not yet translated]
+(238) By a skillful hint Svarūpa made the Lord aware of everyone’s fatigue, and seeing how tired the devotees were, the Lord returned to outer awareness.
 
 সব ভক্ত লঞা প্রভু গেলা পুষ্পোদ্যানে ৷  
 বিশ্রাম করিয়া কৈলা মাধ্যাহ্নিক-স্নানে ॥ ২৩৯ ॥
 
 saba bhakta lañā prabhu gelā puṣpodyāne  
-viśrāma kariyā kailā mādhyāhnika-snāne
+all  devotees  taking  the Lord  went  to the flower garden  
+viśrāma kariyā kailā mādhyāhnika-snāne  
+rest  having taken  He did  the midday bath
 
-(239) [not yet translated]
+(239) Taking all the devotees with Him, the Lord went to the flower garden; there He rested and then took His midday bath.
 
 জগন্নাথের প্রসাদ আইল বহু উপহার ৷  
 লক্ষ্মীর প্রসাদ আইল বিবিধ প্রকার ॥ ২৪০ ॥
 
 jagannāthera prasāda āila bahu upahāra  
-lakṣmīra prasāda āila vividha prakāra
+Jagannātha’s  prasāda  came  many  offerings  
+lakṣmīra prasāda āila vividha prakāra  
+Lakṣmī’s  prasāda  came  various  kinds
 
-(240) [not yet translated]
+(240) Many offerings of Jagannātha’s *prasāda* arrived, and Lakṣmī’s *prasāda* of various kinds arrived too.
 
 সবা লঞা নানা-রঙ্গে করিলা ভোজন ৷  
 সন্ধ্যা স্নান করি’ কৈল জগন্নাথ দরশন ॥ ২৪১ ॥
 
 sabā lañā nānā-raṅge karilā bhojana  
-sandhyā snāna kari’ kaila jagannātha daraśana
+all  taking  with many delights  He did  eating  
+sandhyā snāna kari’ kaila jagannātha daraśana  
+evening  bath  having taken  He did  Jagannātha’s  darśana
 
-(241) [not yet translated]
+(241) With everyone around Him, the Lord ate joyfully. After His evening bath He went for *darśana* of Jagannātha.
 
 জগন্নাথ দেখি’ করেন নর্ত্তন-কীর্ত্তন ৷  
 নরেন্দ্রে জলক্রীড়া করে লঞা ভক্তগণ ॥ ২৪২ ॥
 
 jagannātha dekhi’ karena nartana-kīrtana  
-narendre jala-krīḍā kare lañā bhakta-gaṇa
+Jagannātha  seeing  He does  dancing and kīrtana  
+narendre jala-krīḍā kare lañā bhakta-gaṇa  
+in Narendra  water sports  He does  taking  the devotees
 
-(242) [not yet translated]
+(242) Seeing Jagannātha, He danced and sang *kīrtana*; then He played in the water of Narendra Lake with the devotees.
 
 উদ্যানে আসিয়া কৈল বন-ভোজন ৷  
 এইমত ক্রীড়া কৈল প্রভু অষ্ট দিন ॥ ২৪৩ ॥
 
 udyāne āsiyā kaila vana-bhojana  
-ei-mata krīḍā kaila prabhu aṣṭa dina
+to the garden  coming  He did  a forest meal  
+ei-mata krīḍā kaila prabhu aṣṭa dina  
+in this way  pastimes  did  the Lord  eight  days
 
-(243) [not yet translated]
+(243) Coming to the garden, He had a meal in the grove. In this way the Lord enjoyed His pastimes for eight days.
 
 আর দিনে জগন্নাথের ভিতর-বিজয় ৷  
 রথে চড়ি’ জগন্নাথ চলে নিজালয় ॥ ২৪৪ ॥
 
 āra dine jagannāthera bhitara-vijaya  
-rathe caḍi’ jagannātha cale nijālaya
+on the next  day  Jagannātha’s  return within  
+rathe caḍi’ jagannātha cale nijālaya  
+on the chariot  mounting  Jagannātha  goes  to His own abode
 
-(244) [not yet translated]
+(244) The next day was Jagannātha’s return (*bhitara-vijaya*): mounting His chariot, Jagannātha went back to His own abode.
 
 পূর্ব্ববৎ কৈল প্রভু লঞা ভক্তগণ ৷  
 পরম আনন্দে করেন নর্ত্তন-কীর্ত্তন ॥ ২৪৫ ॥
 
 pūrvavat kaila prabhu lañā bhakta-gaṇa  
-parama ānande karena nartana-kīrtana
+as before  did  the Lord  with  the devotees  
+parama ānande karena nartana-kīrtana  
+in supreme  bliss  He does  dancing and kīrtana
 
-(245) [not yet translated]
+(245) As before, the Lord, together with the devotees, danced and sang *kīrtana* in supreme bliss.
 
 জগন্নাথের পুনঃ পাণ্ডু-বিজয় হইল ৷  
 এক-গুটি পট্টডোরী তাঁহা টুটি’ গেল ॥ ২৪৬ ॥
 
 jagannāthera punaḥ pāṇḍu-vijaya haila  
-eka-guṭi paṭṭa-ḍorī tāṅhā ṭuṭi’ gela
+Jagannātha’s  again  pāṇḍu-vijaya  took place  
+eka-guṭi paṭṭa-ḍorī tāṅhā ṭuṭi’ gela  
+one  silk rope  there  breaking  went
 
-(246) [not yet translated]
+(246) Once again Jagannātha’s *pāṇḍu-vijaya* took place, and one of the silk ropes broke.
 
 পাণ্ডু-বিজয়ের তুলী ফাটি-ফুটি যায় ৷  
 জগন্নাথের ভরে তুলা উড়িয়া পলায় ॥ ২৪৭ ॥
 
 pāṇḍu-vijayera tulī phāṭi-phuṭi yāya  
-jagannāthera bhare tulā uḍiyā palāya
+of the pāṇḍu-vijaya  the cotton pads  tearing and bursting  go  
+jagannāthera bhare tulā uḍiyā palāya  
+of Jagannātha  by the weight  the cotton  flying up  scatters
 
-(247) [not yet translated]
+(247) The cotton pads used for the *pāṇḍu-vijaya* tore and burst, and under Jagannātha’s weight the cotton flew up and scattered.
 
 কুলীনগ্রামী রামানন্দ, সত্যরাজ খাঁন ৷  
 তাঁরে আজ্ঞা দিল প্রভু করিয়া সম্মান ॥ ২৪৮ ॥
 
 kulīna-grāmī rāmānanda, satyarāja khāṅna  
-tāṅre ājñā dila prabhu kariyā sammāna
+of Kulīna-grāma  Rāmānanda  Satyarāja Khān  
+tāṅre ājñā dila prabhu kariyā sammāna  
+to them  an order  gave  the Lord  showing  respect
 
-(248) [not yet translated]
+(248) Rāmānanda and Satyarāja Khān of Kulīna-grāma were there, and the Lord respectfully gave them an order:
 
 এই পট্টডোরীর তুমি হও যজমান ৷  
 প্রতিবৎসর আনিবে ‘ডোরী’ করিয়া নির্ম্মাণ ॥ ২৪৯ ॥
 
 ei paṭṭa-ḍorīra tumi hao yajamāna  
-prati-vatsara ānibe ‘ḍorī’ kariyā nirmāṇa
+of these  silk ropes  you  be  the patrons  
+prati-vatsara ānibe ‘ḍorī’ kariyā nirmāṇa  
+every year  bring  ropes  having made
 
-(249) [not yet translated]
+(249) “You be the patrons (*yajamāna*) of these silk ropes. Every year have the ropes made and bring them.”
 
 এত বলি’ দিল তাঁরে ছিণ্ডা পট্টডোরী ৷  
 ইহা দেখি’ করিবে ডোরী অতি দৃঢ় করি’ ॥ ২৫০ ॥
 
 eta bali’ dila tāṅre chiṇḍā paṭṭa-ḍorī  
-ihā dekhi’ karibe ḍorī ati dṛḍha kari’
+so  saying  gave  to them  the torn  silk rope  
+ihā dekhi’ karibe ḍorī ati dṛḍha kari’  
+this  seeing  make  ropes  very  strong  making
 
-(250) [not yet translated]
+(250) So saying, He gave them the torn silk rope. “Look at this,” He said, “and make the ropes very strong.
 
 এই পট্টডোরীতে হয় ‘শেষ’-অধিষ্ঠান ৷  
 দশ-মূর্ত্তি হঞা যেঁহো সেবে ভগবান্ ॥ ২৫১ ॥
 
 ei paṭṭa-ḍorīte haya ‘śeṣa’-adhiṣṭhāna  
-daśa-mūrti hañā yeṅho seve bhagavān
+in this  silk rope  is  Śeṣa’s abode  
+daśa-mūrti hañā yeṅho seve bhagavān  
+in ten forms  becoming  who  serves  Bhagavān
 
-(251) [not yet translated]
+(251) In this silk rope resides Śeṣa, who serves Bhagavān by assuming ten forms.”
 
 ভাগ্যবান্ সেই সত্যরাজ, রামানন্দ ৷  
 সেবা আজ্ঞা পাঞা হৈল পরম আনন্দ ॥ ২৫২ ॥
 
 bhāgyavān sei satyarāja, rāmānanda  
-sevā ājñā pāñā haila parama ānanda
+fortunate  those  Satyarāja  Rāmānanda  
+sevā ājñā pāñā haila parama ānanda  
+of service  the order  receiving  became  supreme  bliss
 
-(252) [not yet translated]
+(252) Fortunate indeed were Satyarāja and Rāmānanda: receiving the order to serve, they felt supreme bliss.
 
 প্রতি বৎসর গুণ্ডিচাতে ভক্তগণ-সঙ্গে ৷  
 পট্টডোরী লঞা আইসে অতি বড় রঙ্গে ॥ ২৫৩ ॥
 
 prati vatsara guṇḍicāte bhakta-gaṇa-saṅge  
-paṭṭa-ḍorī lañā āise ati baḍa raṅge
+every  year  to the Guṇḍicā  with the devotees  
+paṭṭa-ḍorī lañā āise ati baḍa raṅge  
+silk ropes  bringing  they come  with very  great  joy
 
-(253) [not yet translated]
+(253) Every year after that, they came with the devotees to the Guṇḍicā festival with great joy, bringing silk ropes.
 
 তবে জগন্নাথ যাই’ বসিলা সিংহাসনে ৷  
 মহাপ্রভু ঘরে আইলা লঞা ভক্তগণে ॥ ২৫৪ ॥
 
 tabe jagannātha yāi’ vasilā siṁhāsane  
-mahāprabhu ghare āilā lañā bhakta-gaṇe
+then  Jagannātha  going  sat  on His throne  
+mahāprabhu ghare āilā lañā bhakta-gaṇe  
+Mahāprabhu  home  came  with  the devotees
 
-(254) [not yet translated]
+(254) Then Jagannātha went and sat upon His throne, and Mahāprabhu came home with the devotees.
 
 এইমত ভক্তগণে যাত্রা দেখাইল ৷  
 ভক্তগণ লঞা বৃন্দাবন-কেলি কৈল ॥ ২৫৫ ॥
 
 ei-mata bhakta-gaṇe yātrā dekhāila  
-bhakta-gaṇa lañā vṛndāvana-keli kaila
+in this way  to the devotees  the festival  He showed  
+bhakta-gaṇa lañā vṛndāvana-keli kaila  
+the devotees  with  the pastimes of Vṛndāvana  He enacted
 
-(255) [not yet translated]
+(255) In this way the Lord showed the devotees the Ratha-yātrā festival and, together with them, enacted the pastimes of Vṛndāvana.
 
 চৈতন্য-গোসাঞির লীলা — অনন্ত, অপার ৷  
 ‘সহস্র-বদন’ যার নাহি পায় পার ॥ ২৫৬ ॥
 
 caitanya-gosāñira līlā — ananta, apāra  
-‘sahasra-vadana’ yāra nāhi pāya pāra
+of Caitanya Gosāñi  the pastimes  endless  boundless  
+‘sahasra-vadana’ yāra nāhi pāya pāra  
+the thousand-mouthed one  of which  not  reaches  the end
 
-(256) [not yet translated]
+(256) The pastimes of Caitanya Gosāñi are endless and boundless; even the thousand-mouthed Śeṣa cannot reach their end.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৫৭ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(257) [not yet translated]
+(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^m14-257]
+
+---
+
+[^m14-163]: The same verse as Madhya 8.110; translation as there.
+
+[^m14-257]: The same colophon as Madhya 7.155; translation as there.
