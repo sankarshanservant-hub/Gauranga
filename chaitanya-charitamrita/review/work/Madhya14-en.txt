@@ -1,0 +1,664 @@
+# English translation, Madhya-līlā 14 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya14.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–128 (scan pp. 560–568); shift 2: 129–257.
+# Revised so far: 1–30 (the rest of 1–128 — stage-A text, not yet revised).
+
+## 0
+tr: Beholding the Herā-pañcamī Festival
+
+## 1
+w: Gaura  seeing  with His own people
+w: Śrī  the festival of Lakṣmī’s procession
+w: hearing  of the gopīs’ rasa  the exultation
+w: delighted  in love  danced  He
+tr: With His companions Gaura watched the festival of Śrī Lakṣmī’s procession, and when He heard of the gopīs’ rasa in all its exultation, He was filled with delight and danced in love.
+fn: Heading in the edition: “Gaurasundara dances as He watches the Herā-pañcamī.” *Anubhāṣya*: *gopī-rasollāsa* is the highest pitch of the gopīs’ *parakīya-rasa*.
+
+## 2
+w: glory  glory  to Gauracandra  to Śrī Kṛṣṇa Caitanya
+w: glory  glory  to Nityānanda  glory to Advaita  the blessed
+tr: Glory, glory to Gauracandra, Śrī Kṛṣṇa Caitanya! Glory, glory to Nityānanda, and glory to the blessed Advaita!
+fn: The second line is the same as Ādi 12.2; translation as there.
+
+## 3
+w: glory  glory  to Śrīvāsa and the others  Gaura’s devotees
+w: glory  to the listeners  whose  Gaura  the treasure of life
+tr: Glory, glory to Śrīvāsa and all the devotees of Gaura! Glory to my listeners, whose life’s treasure is Gaura!
+fn: The first line is the same as Ādi 9.3 and Madhya 12.3; translation as there.
+
+## 4
+w: in this way  the Lord  remains  of love  in the rapture
+w: at that time  Pratāparudra  made  entrance
+tr: While the Lord lay thus enraptured by love, King Pratāparudra came in.
+
+## 5
+w: on Sārvabhauma’s advice  leaving off  the royal dress
+w: alone  in a Vaiṣṇava’s dress  made  entrance
+tr: On Sārvabhauma’s advice he had laid aside his royal dress, and he entered alone, dressed as a Vaiṣṇava.
+fn: Heading in the edition: “Dressed as a humble Vaiṣṇava, with the permission of all the Vaiṣṇavas, [the king] massages the feet of the Lord, who lies with His eyes closed.”
+
+## 6
+w: of all the devotees  permission  took  with joined palms  becoming
+w: the Lord’s feet  clasping  falls  courage  mustering
+tr: With joined palms he asked permission of all the devotees. Then, mustering his courage, he fell down and clasped the Lord’s feet.
+
+## 7
+w: eyes  closing  in love  the Lord  on the ground  lying
+w: the king  skilfully  does  massaging of the feet
+tr: The Lord lay on the ground with His eyes closed in love, and the king skilfully massaged His feet.
+
+## 8
+w: of the rāsa-līlā  the verses  reciting  makes  praise
+w: “jayati te ’dhikam”  the chapter  does  recitation
+tr: He offered praise with the verses of the *rāsa-līlā*, reading aloud the chapter that begins “*jayati te ’dhikam*”.
+fn: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the *rāsa* dance (Śrīmad-Bhāgavatam, 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
+
+## 9
+w: hearing  hearing  of the Lord  the joy  boundless
+w: “go on  go on”  saying  the Lord  says  again  again
+tr: As the Lord listened, His joy knew no bounds. “Go on, go on!” He said again and again.
+
+## 10
+w: “tava kathāmṛtam”  the verse  the king  when  recited
+w: rising  the Lord  in the rapture of love  embrace  made
+tr: When the king recited the verse “*tava kathāmṛtam*,” the Lord rose in the rapture of love and embraced him.
+
+## 11
+w: you  to Me  gave  many  priceless  jewels
+w: of Mine  anything  to give  there is not  I give  an embrace
+tr: “You have given Me many priceless jewels. I have nothing to give you in return, so I give you My embrace.”
+
+## 12
+w: so  saying  that  verse  recites  again  again
+w: of the two  in the bodies  trembling  in the eyes  streams of tears
+tr: Saying this, the Lord recited that verse again and again. Both of them trembled, and tears streamed from their eyes.
+
+## 13
+w: Your  nectar of words  of the afflicted  the life
+w: by the wise  praised  sin-removing
+w: to the ear auspicious  full of power  widespread
+w: on earth  proclaim  they  most munificent  people
+tr: “The nectar of Your words is the very life of those who burn with suffering. The wise have praised it, and it takes away all sin. It is auspicious to hear, full of power and spread far and wide. Those who proclaim it on earth are the most munificent of givers.” (Śrīmad-Bhāgavatam, 10.31.9)
+fn: *Anubhāṣya*: the gopīs sing this verse when Kṛṣṇa has vanished from the *rāsa* dance; *tapta-jīvanam* — the life of those who burn in separation from Him; *kalmaṣāpaham* — taking away the anguish of the fever of separation; *kavi* — those who know the rasa of Kṛṣṇa. Heading in the edition: “One who gives away the nectar of the Lord’s narrations is the most munificent of givers.”
+
+## 14
+w: “most munificent”  “most munificent”  saying  makes  embrace
+w: He  not  knows  this one  is  which  person
+tr: “Most munificent! Most munificent!” cried the Lord as He embraced him. He did not know who the man was.
+fn: Heading in the edition: “Unaware [of who was before Him, the Lord] embraces the king.” *Anubhāṣya*: the first *iṅho* is Mahāprabhu, the second the king Pratāparudra.
+
+## 15
+w: the former service  having seen  to him  mercy  arose
+w: inquiry  without  the gift of mercy  made
+tr: Having seen the king’s earlier service, the Lord felt mercy for him, and He bestowed His grace without asking who he was.
+
+## 16
+w: just see  of Caitanya  the mercy  all-powerful
+w: of him  inquiry  without  makes  successful
+tr: Just see how mighty Caitanya’s mercy is! Without asking anything about a person, it crowns his life with success.
+fn: Heading in the edition: “Caitanya’s mercy does not weigh a person’s fitness and needs no cause.”
+
+## 17
+w: the Lord  says  who  you  have done  My  good
+w: suddenly  coming  you make Me drink  the nectar of Kṛṣṇa’s pastimes
+tr: The Lord said, “Who are you, who have done Me such good? You have come so suddenly and made Me drink the nectar of Kṛṣṇa’s pastimes!”
+
+## 18
+w: the king  says  I  Your  of the servants  servant
+w: of the servants  a servant  make  this  my  hope
+tr: The king said, “I am a servant of Your servants. Make me a servant of Your servants — that is my one hope.”
+fn: Heading in the edition: “The king introduces himself as ‘a servant of the servants of Kṛṣṇa’.”
+
+## 19
+w: then  Mahāprabhu  to him  majesty  showed
+w: “to anyone  not  you shall tell”  this  prohibition  made
+tr: Then Mahāprabhu revealed His divine majesty to him and forbade him: “Tell no one.”
+
+## 20
+w: “the king”  such  awareness  ever  not  made  manifest
+w: within  everything  He knows  outwardly  detached
+tr: He never showed any awareness that this was the king. Within He knew everything, but outwardly He remained detached.
+fn: Heading in the edition: “The all-knowing Lord, in His outer consciousness, does not reveal that in the trance of love He had seen the king.”
+
+## 21
+w: Pratāparudra’s  fortune  seeing  the devotees
+w: the king  praise  all  with joyful hearts
+tr: Seeing Pratāparudra’s good fortune, all the devotees praised the king with joyful hearts.
+
+## 22
+w: obeisance  making  the king  outside  went
+w: joined  hands  making  all  the devotees  saluted
+tr: The king bowed down before the Lord, saluted all the devotees with joined palms and went out.
+
+## 23
+w: the midday bath and duties  performed  the Lord  with  the devotees
+w: Vāṇīnātha  prasāda  bringing  made  arrival
+tr: The Lord took His midday bath with the devotees, and then Vāṇīnātha arrived, bringing prasāda.
+fn: Heading in the edition: “After the midday bath Vāṇīnātha brings abundant *prasāda* for all.”
+
+## 24
+w: through Sārvabhauma, Rāmānanda and Vāṇīnātha  giving
+w: prasāda  sent  the king  in abundance  making
+tr: Through Sārvabhauma, Rāmānanda and Vāṇīnātha the king had sent prasāda in great abundance.
+
+## 25
+w: of the Balagaṇḍi offering  the prasāda  excellent  endless
+w: “ni-sakaḍi”  prasāda  came  of which  there is no  end
+tr: There was the prasāda of the Balagaṇḍi offering, excellent and without limit, and endless prasāda of the *ni-sakaḍi* kind, not cooked in water.
+fn: *Amṛta-pravāha-bhāṣya*: *ni-sakaḍi* is yogurt, thickened milk (*kṣīra*), fruits, roots and everything else that is not *sakaḍi*, food cooked in water. *Anubhāṣya*: the list in verses 25–34 shows how well the author knows the whole variety of offerings to Kṛṣṇa.
+
+## 26
+w: curd cheese  fruit drinks  green coconuts  mangoes  ripe coconuts  jackfruits
+w: many kinds of  bananas  and  palm-fruit kernels
+tr: There were curd cheese and fruit drinks, green coconuts, mangoes, ripe coconuts and jackfruits, many kinds of bananas, and the soft kernels of palm fruits.
+fn: *Anubhāṣya*: *bīja-tāla* is the soft kernel of the palm fruit (*tāla-śāṁs*).
+
+## 27
+w: oranges  grapefruits  pomelos  tangerines  citrons
+w: almonds  dried dates  grapes  dates
+tr: Oranges, grapefruits, pomelos, tangerines and citrons; almonds, dried dates, grapes and pressed dates.
+
+## 28
+w: manoharā  laḍḍus  and others  a hundred  kinds
+w: amṛta-guṭikā and others  kṣīrsā  without limit
+tr: *Manoharā*, *laḍḍus* and a hundred other sweets; *amṛta-guṭikā* and the like, and *kṣīrsā* without measure.
+
+## 29
+w: amṛta-maṇḍā  saravatī  and  pumpkin shreds
+w: sarāmṛta  sarabhājā  and  sarapurī
+tr: *Amṛta-maṇḍā*, *saravatī* lemons, pumpkin shreds, *sarāmṛta*, *sarabhājā* and *sarapurī*.
+fn: *Anubhāṣya*: *saravatī* is a choice kind of lemon; another reading of *amṛta-maṇḍā* is *amṛta-bhāṇḍa*, papaya.
+
+## 30
+w: hari-vallabha  seṅoti  karpūra  mālatī
+w: ḍāli-marica-lāḍu  navāta  amṛti
+tr: *Hari-vallabha*, *seṅoti*, *karpūra*, *mālatī*, *ḍāli-marica laḍḍus*, *navāta* and *amṛti*.
+fn: *Anubhāṣya*: *ḍāli-marica-lāḍu* are balls made of mung; *navāta* is a sweet boiled in sugar syrup; *amṛti* is a sweet fried in ghee, like *jilipi*.
+
+## 31
+w: padmacini  candrakānti  khājā  khaṇḍasāra
+w: viyari  kadmā  of tilakhājā  the kinds
+tr: *Padmacini*, *candrakānti*, *khājā*, *khaṇḍasāra*, *viyari*, *kadmā* and all kinds of sesame *khājā*.
+
+## 32
+w: of orange, grapefruit and mango trees  in the shape
+w: with flowers, fruits and leaves  of sugar  creations
+tr: There were sweets of sugar shaped like orange, grapefruit and mango trees, complete with flowers, fruits and leaves.
+
+## 33
+w: yogurt and milk  fresh butter  buttermilk  rasālā  śikhariṇī
+w: salted  mung sprouts  ginger  in slices
+tr: Yogurt, milk, fresh butter, buttermilk, *rasālā* and *śikhariṇī*; salted mung sprouts and sliced ginger.
+
+## 34
+w: of lemons, jujubes and the like  many kinds of  pickles
+w: to write  not  I can  of prasāda  how many  kinds
+tr: There were many kinds of pickles, of lemons, jujubes and other fruits. I cannot write down how many kinds of *prasāda* there were.
+
+## 35
+w: with prasāda  filled  became  half  the garden
+w: seeing  satisfied  became  Mahāprabhu’s  mind
+tr: Half the garden was filled with *prasāda*, and Mahāprabhu was delighted to see it.
+
+## 36
+w: in this way  Jagannātha  takes  His meal
+w: by this joy  Mahāprabhu’s  are soothed  eyes
+tr: Such were the meals Jagannātha takes, and the joy of seeing them soothed Mahāprabhu’s eyes.
+
+## 37
+w: of ketakī leaves  cups  came  loads  five or seven
+w: each  each  person  ten  cups  were given  so many  plates
+tr: Five or seven loads of cups made of *ketakī* leaves were brought, so many that each person was given ten.
+
+## 38
+w: of the kīrtana singers  the exertion  knowing  Gaurarāya
+w: them all  to feed  the Lord’s  mind  hastens
+tr: Gaurarāya knew how hard the *kīrtana* singers had labored, and He longed to feed them all.
+
+## 39
+w: row  by row  making  the devotees  He seated
+w: serving  to do  Himself  He began
+tr: He seated the devotees row by row and began to serve them Himself.
+
+## 40
+w: the Lord  not  having eaten  anyone  not  takes  a meal
+w: Svarūpa Gosāñi  then  made  a request
+tr: But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request.
+
+## 41
+w: Yourself  sit  Lord  meal  to take
+w: You  not  having eaten  anyone  not  can  eat
+tr: “Lord, please sit down Yourself and take Your meal. Unless You eat, no one can eat.”
+
+## 42
+w: then  Mahāprabhu  sits  His own people  with
+w: meal  caused to take  all  up to the throat  filling
+tr: Then Mahāprabhu sat down with His companions and fed them all until they were full to the throat.
+
+## 43
+w: the meal  having taken  sat  the Lord  making  rinsing of the mouth
+w: the prasāda  remained  ate  a thousand  people
+tr: When He had eaten and rinsed His mouth, the Lord sat down. So much *prasāda* was left over that a thousand people ate of it.
+
+## 44
+w: by the Lord’s  order  Govinda  poor and destitute  people
+w: the suffering  beggars  bringing  makes eat
+tr: At the Lord’s order Govinda brought the poor and destitute, the suffering and the beggars, and fed them.
+
+## 45
+w: of the beggars  the joy of eating  watches  Gaurahari
+w: “Hari bol”  saying  to them  instruction  gives
+tr: Gaurahari watched the beggars joyfully eating, and He instructed them to say “Hari bol!”
+
+## 46
+w: “Hari bol”  saying  the beggars  in love  float  go
+w: such  wonderful  pastimes  performs  Gaurarāya
+tr: As they said “Hari bol!” the beggars floated away in love. Such wonderful pastimes Gaurarāya performs!
+
+## 47
+w: here  of Jagannātha  the time of the chariot’s moving
+w: the Gauḍas  all  the chariot  pull  forward  not  goes
+tr: Meanwhile, at the time for Jagannātha’s chariot to move, all the *gauḍas* pulled at it, but it would not go forward.
+
+## 48
+w: to pull  not  can  the Gauḍas  the chariot  leaving  let go
+w: officers and friends  taking  the king  anxious  becoming  came
+tr: Unable to pull it, the *gauḍas* let the chariot go. The king, anxious, came there with his officers and friends.
+
+## 49
+w: to great wrestlers  gave  the chariot  to move
+w: himself  set to  the chariot  not  can  pull
+tr: He set mighty wrestlers to move the chariot and put his own hand to it too, but they could not pull it.
+
+## 50
+w: anxious  becoming  brings  the king  maddened elephants
+w: the chariot  to move  to the chariot  made  harnessing
+tr: Growing anxious, the king brought maddened elephants and had them harnessed to the chariot to move it.
+
+## 51
+w: the maddened elephants  pull  as much as  their  strength
+w: one  step  not  moves  the chariot  it became  immovable
+tr: The maddened elephants pulled with all their strength, but the chariot would not move a single step. It stood fixed.
+
+## 52
+w: hearing  Mahāprabhu  came  His own people  with
+w: the maddened elephants  the chariot  pull  He watches  standing
+tr: Hearing of this, Mahāprabhu came with His companions. He stood and watched the maddened elephants pulling the chariot.
+
+## 53
+w: of the goad  under the blows  the elephants  make  screams
+w: the chariot  not  moves  the people  make  laments
+tr: The elephants screamed under the blows of the goad, yet the chariot would not move, and the people cried out in dismay.
+
+## 54
+w: then  Mahāprabhu  all  the elephants  removed
+w: to His own people  the chariot ropes  to pull  gave
+tr: Then Mahāprabhu had all the elephants taken away and gave the chariot ropes to His own companions to pull.
+
+## 55
+w: Himself  of the chariot  behind  pushes  the head  placing
+w: rumbling  rumbling  making  the chariot  moved  rushing
+tr: He Himself pushed the chariot from behind with His head, and with a rumbling roar the chariot rushed forward.
+
+## 56
+w: the devotees  the rope  in hand  holding  merely  run
+w: by itself  moved  the chariot  to pull  not  they get
+tr: The devotees simply ran along holding the ropes in their hands. The chariot moved by itself, and they had no need to pull.
+
+## 57
+w: in joy  make  the people  “jaya”  “jaya” sounds
+w: “jaya Jagannātha”  except  other  not  is heard
+tr: In their joy the people shouted “*Jaya! Jaya!*” Nothing could be heard but “*Jaya Jagannātha!*”
+
+## 58
+w: in an instant  indeed  went  the chariot  of Guṇḍicā  to the gate
+w: Caitanya’s might  seeing  the people  in wonder
+tr: In an instant the chariot reached the gate of Guṇḍicā. Seeing Caitanya’s might, the people were struck with wonder.
+
+## 59
+w: “glory to Gauracandra”  “glory to Śrī Kṛṣṇa Caitanya”
+w: in this way  tumult  the people  make  “blessed”
+tr: “Glory to Gauracandra! Glory to Śrī Kṛṣṇa Caitanya!” With such a tumult the people cried, “Blessed! Blessed!”
+
+## 60
+w: seeing  Pratāparudra  with officers and friends
+w: the Lord’s  glory  seeing  in love  swells  in body
+tr: Seeing the Lord’s glory, Pratāparudra, his officers and his friends thrilled with love in every limb.
+
+## 61
+w: the Pāṇḍu-vijaya  then  perform  the servants
+w: Jagannātha  sat  going  on His own throne
+tr: Then the servants performed the *Pāṇḍu-vijaya*, and Jagannātha went and sat upon His throne.
+
+## 62
+w: Subhadrā and Balarāma  to their own thrones  came
+w: Jagannātha’s  bath and offering  to take place  began
+tr: Subhadrā and Balarāma came to their thrones too, and Jagannātha’s bathing and offerings began.
+
+## 63
+w: in the courtyard  Mahāprabhu  with  the devotees
+w: in joy  beginning  made  dancing and kīrtana
+tr: In the courtyard Mahāprabhu and the devotees joyfully began to dance and sing *kīrtana*.
+
+## 64
+w: in joy  Mahāprabhu’s  love  surged up
+w: seeing  all  the people  in the ocean of love  floated
+tr: In His joy Mahāprabhu’s love surged up, and all who saw Him floated in the ocean of love.
+
+## 65
+w: dance  having done  in the evening  the ārati  watched
+w: to Āiṭoṭā  coming  the Lord  rest  took
+tr: After the dance He watched the evening *ārati*. Then the Lord came to Āiṭoṭā and rested.
+
+## 66
+w: Advaita and the others  the devotees  invitation  made
+w: chief  chief  nine  persons  nine  days  received
+tr: Advaita and the other devotees invited the Lord: the nine chief devotees received the nine days.
+
+## 67
+w: the other  devotees  in the Cāturmāsya  as many as  days
+w: one  one  day  making  made  division
+tr: The other devotees divided up all the days of the Cāturmāsya, one day each.
+
+## 68
+w: of four  months  the days  the chief devotees  dividing  took
+w: the other  devotees  opportunity  not  received
+tr: The chief devotees divided up the days of the four months among themselves, and the other devotees found no opportunity.
+
+## 69
+w: one  day  invitation  make  two or three  joining together
+w: in this way  Mahāprabhu’s  the play of invitations
+tr: So two or three of them would join together to invite Him for a single day. Such was Mahāprabhu’s pastime of invitations.
+
+## 70
+w: in the morning  bath  having taken  having seen  Jagannātha
+w: in saṅkīrtana  dance  does  the devotees  with
+tr: In the morning He bathed and saw Jagannātha, and then He danced in *saṅkīrtana* with the devotees.
+
+## 71
+w: sometimes  Advaita  makes dance  sometimes  Nityānanda
+w: sometimes  Haridāsa  makes dance  sometimes  Acyutānanda
+tr: Sometimes He made Advaita dance, sometimes Nityānanda; sometimes Haridāsa, sometimes Acyutānanda.
+
+## 72
+w: sometimes  Vakreśvara  sometimes  other  devotees
+w: three times a day  kīrtana  does  in the courtyard of Guṇḍicā
+tr: Sometimes He made Vakreśvara dance, and sometimes other devotees. Three times a day He held *kīrtana* in the courtyard of Guṇḍicā.
+
+## 73
+w: to Vṛndāvana  has come  Kṛṣṇa  this  the Lord’s  awareness
+w: for Kṛṣṇa  the feeling of separation  became  ended
+tr: The Lord felt that Kṛṣṇa had come back to Vṛndāvana, and His feeling of separation from Kṛṣṇa came to an end.
+
+## 74
+w: with Rādhā  Kṛṣṇa’s pastimes  this  became  in awareness
+w: in this  rasa  immersed  the Lord  became  Himself
+tr: His mind was filled with Kṛṣṇa’s pastimes with Rādhā, and the Lord Himself became immersed in this *rasa*.
+
+## 75
+w: in various gardens  with the devotees  the Vṛndāvana pastimes
+w: in the Indradyumna lake  does  water play
+tr: In the various gardens He enacted the pastimes of Vṛndāvana with the devotees, and in the Indradyumna lake He sported in the water.
+
+## 76
+w: Himself  all  the devotees  splashes  water  giving
+w: all  the devotees  splash  on all sides  surrounding
+tr: The Lord Himself splashed all the devotees with water, and they all surrounded Him and splashed Him from every side.
+
+## 77
+w: sometimes  one  circle  sometimes  many  circles
+w: with water-frog music  all  sound  the palms
+tr: Sometimes they formed one circle and sometimes many, and all of them clapped their palms on the water, making a sound like frogs croaking.
+
+## 78
+w: two by two  persons  meeting  make  water battle
+w: someone  loses  someone  wins  the Lord  does  watching
+tr: Pairing off two by two, they fought water battles; some lost and some won, and the Lord looked on.
+
+## 79
+w: Advaita and Nityānanda  water  throwing at each other
+w: the Ācārya  having lost  afterwards  makes  abuse
+tr: Advaita and Nityānanda threw water at each other. The Ācārya lost, and then began to hurl abuse.
+
+## 80
+w: of Vidyānidhi  water play  Svarūpa  with
+w: Gupta and Datta  water play  do  two  persons
+tr: Vidyānidhi played in the water with Svarūpa, and the two, Gupta and Datta, played together.
+
+## 81
+w: Śrīvāsa  with  in water  plays  Gadādhara
+w: Rāghava Paṇḍita  with  plays  Vakreśvara
+tr: Gadādhara played in the water with Śrīvāsa, and Vakreśvara with Rāghava Paṇḍita.
+
+## 82
+w: with Sārvabhauma  plays  Rāmānanda Rāya
+w: gravity  went  of both  became  like children
+tr: Rāmānanda Rāya played with Sārvabhauma. Both of them lost all their gravity and became like children.
+
+## 83
+w: Mahāprabhu  of those two  the frolic  seeing
+w: to Gopīnāthācārya  something  says  smiling
+tr: Seeing those two frolicking, Mahāprabhu smiled and said to Gopīnātha Ācārya:
+
+## 84
+w: learned  grave  both  respected  persons
+w: childish frolics  they do  make  stop
+tr: “Both are learned, grave and respected men, yet they are frolicking like children. Make them stop.”
+
+## 85
+w: Gopīnātha  says  Your  great ocean of mercy
+w: overflowing  makes  when  its  one  drop
+tr: Gopīnātha said, “When a single drop of the great ocean of Your mercy overflows,
+
+## 86
+w: Meru and Mandara mountains  drowns  here and there
+w: these  two  hillocks  of them  what  talk
+tr: it drowns even the mountains Meru and Mandara wherever they stand. What then of these two, who are mere hillocks?
+
+## 87
+w: of dry logic the oilcake  eating  life  went  whose
+w: to him  the nectar of pastimes  You make drink  this  mercy  Yours
+tr: He spent his whole life eating the oilcake of dry logic, and now You make him drink the nectar of pastimes. This is Your mercy.”
+
+## 88
+w: smiling  Mahāprabhu  then  Advaita  brought
+w: of the water  on the surface  Him  Śeṣa’s couch  made
+tr: Smiling, Mahāprabhu then brought Advaita and made Him His couch, like Śeṣa, upon the water.
+
+## 89
+w: Himself  of Him  upon  made  lying
+w: “the pastime of lying on Śeṣa”  the Lord  makes  manifestation
+tr: He lay down upon Him, and so the Lord revealed the pastime of the One who lies on Śeṣa.
+
+## 90
+w: Advaita  His own power  manifest  making
+w: Mahāprabhu  carrying  moves  on the water  floating
+tr: Advaita revealed His own power: carrying Mahāprabhu, He floated about on the water.
+
+## 91
+w: in this way  water sports  having done  some time
+w: to Āiṭoṭā  came  the Lord  with  the devotees
+tr: After sporting in the water like this for some time, the Lord returned to Āiṭoṭā with the devotees.
+
+## 92
+w: Purī  Bhāratī  and others  all  the chief  devotees
+w: of the Ācārya  at the invitation  took  a meal
+tr: Purī, Bhāratī and all the other chief devotees took their meal at the Ācārya’s invitation.
+
+## 93
+w: Vāṇīnātha  the rest  all  prasāda  brought
+w: Mahāprabhu’s  people  that  prasāda  ate
+tr: All the rest of the *prasāda* that Vāṇīnātha brought was eaten by Mahāprabhu’s companions.
+
+## 94
+w: in the afternoon  coming  made  darśana  dancing
+w: at night  to the garden  coming  took  rest
+tr: In the afternoon He came, took *darśana* and danced, and at night He returned to the garden to rest.
+
+## 95
+w: the next  day  coming  made  of the Lord  darśana
+w: in the courtyard  dancing and singing  did  for some time
+tr: The next day He came again to see the Lord, and for some time He danced and sang in the courtyard.
+
+## 96
+w: the devotees  with  the Lord  to the garden  coming
+w: the Vṛndāvana pastimes  does  the devotees  with
+tr: Then the Lord came to the garden with the devotees and enjoyed the pastimes of Vṛndāvana with them.
+
+## 97
+w: trees and creepers  blossomed  of the Lord  at the sight
+w: bees and cuckoos  sing  blows  cool  breeze
+tr: At the sight of the Lord the trees and creepers burst into bloom, the bees and cuckoos sang, and a cool breeze blew.
+
+## 98
+w: under every tree  the Lord  does  dancing
+w: Vāsudeva Datta  alone  does  singing
+tr: The Lord danced beneath every tree, while Vāsudeva Datta alone sang.
+
+## 99
+w: under one  one  tree  one  one  song  sings
+w: in supreme ecstasy  alone  dances  Gaurarāya
+tr: Beneath each tree he sang a new song, and Gaurarāya danced alone in supreme ecstasy.
+
+## 100
+w: then  to Vakreśvara  the Lord  said  to dance
+w: Vakreśvara  dances  the Lord  began  to sing
+tr: Then the Lord told Vakreśvara to dance. Vakreśvara danced, and the Lord began to sing.
+
+## 101
+w: with the Lord  Svarūpa and other  kīrtana singers  sing
+w: of directions  no  awareness  of love  in the flood
+tr: Svarūpa and the other singers sang with the Lord. In the flood of love they lost all sense of direction.
+
+## 102
+w: in this way  for some time  having done  the forest pastimes
+w: to Narendra  lake  went  to do  water play
+tr: After enjoying the pastimes of the forest like this for some time, they went to the Narendra lake to play in the water.
+
+## 103
+w: water play  having done  again  came  to the garden
+w: the pastime of eating  did  the Lord  with  the devotees
+tr: After sporting in the water, the Lord came back to the garden and enjoyed the pastime of eating with the devotees.
+
+## 104
+w: nine  days  at Guṇḍicā  stays  Jagannātha
+w: Mahāprabhu  such  pastimes  does  with the devotees
+tr: For nine days Jagannātha stays at Guṇḍicā, and all that time Mahāprabhu enjoyed such pastimes with the devotees.
+
+## 105
+w: “Jagannātha-vallabha” by name  a large  flower garden
+w: nine  days  takes  the Lord  in it  rest
+tr: There is a large flower garden called Jagannātha-vallabha, and the Lord rested there for those nine days.
+
+## 106
+w: of Herā-pañcamī  the day  came  knowing
+w: to Kāśī Miśra  says  the king  with care  making
+tr: Knowing that the day of the Herā-pañcamī had come, the king spoke to Kāśī Miśra with great care.
+
+## 107
+w: tomorrow  Herā-pañcamī  will be  Lakṣmī’s  procession
+w: such  festival  make  as  ever  not  has been
+tr: “Tomorrow is the Herā-pañcamī, the procession of Lakṣmī. Hold the festival as it has never been held before.
+
+## 108
+w: the great festival  make  with such  special  preparations
+w: seeing  Mahāprabhu’s  so that  is  wonder
+tr: Prepare the great festival with such splendor that Mahāprabhu will be struck with wonder when He sees it.
+
+## 109
+w: of the Deity  in the storehouse  and  my  in the storehouse
+w: colored cloths  small bells  and  umbrellas and cāmaras
+tr: From the Deity’s storehouse and from mine take colored cloths, small bells, umbrellas and *cāmaras*.
+
+## 110
+w: with flags, banners and bells  make  decoration
+w: with music and dancing of the palanquin  make  adornment
+tr: Decorate everything with flags, banners and bells, and adorn the palanquin procession with music and dancing of every kind.
+
+## 111
+w: double  making  make  all  the offerings
+w: the Ratha-yātrā  than  so that  is  wonder
+tr: Make all the offerings double, so that the festival is more wonderful than the Ratha-yātrā.
+
+## 112
+w: that  indeed  do  the Lord  with  the devotees
+w: freely  coming  so that  makes  darśana
+tr: And arrange it so that the Lord and His devotees can come freely and take *darśana*.”
+
+## 113
+w: in the morning  Mahāprabhu  His own people  with
+w: Jagannātha’s  darśana  made  to Sundarācala  going
+tr: In the morning Mahāprabhu went with His companions to Sundarācala and took *darśana* of Jagannātha.
+
+## 114
+w: to Nīlācala  came  again  the devotees  with
+w: to see  eagerness  of the Herā-pañcamī  the festivity
+tr: Then He came back to Nīlācala with the devotees, eager to see the festivities of the Herā-pañcamī.
+
+## 115
+w: Kāśī Miśra  the Lord  great  honor  showing
+w: with His people  in a good  place  seated  taking
+tr: Kāśī Miśra received the Lord with great honor and seated Him with His companions in a good place.
+
+## 116
+w: a special rasa  the Lord’s  to hear  mind  became
+w: slightly  smiling  the Lord  Svarūpa  asked
+tr: The Lord wished to hear about a special *rasa*, and with a slight smile He asked Svarūpa:
+
+## 117–118
+w: although  Jagannātha  performs  in Dvārakā  pastimes
+w: naturally  manifest  makes  supreme  magnanimity
+w: still  within a year  there is  once
+w: Vṛndāvana  to see  His  longing  boundless
+tr: “Jagannātha enjoys His pastimes in Dvārakā, and there He naturally shows His supreme magnanimity. Still, once a year He feels a boundless longing to see Vṛndāvana.
+
+## 119
+w: like Vṛndāvana  these  gardens
+w: them  to see  longing  becomes  His mind
+tr: These gardens are like Vṛndāvana, and His heart longs to see them.
+
+## 120
+w: outwardly  from  makes  the Ratha-yātrā a pretext
+w: to Sundarācala  goes  the Lord  leaving  Nīlācala
+tr: Outwardly He makes the Ratha-yātrā His pretext: the Lord leaves Nīlācala and goes to Sundarācala.
+
+## 121
+w: in various flower gardens  there  plays  night and day
+w: Lakṣmī-devī  with Him  not  takes  for what  reason
+tr: There He plays night and day in the many flower gardens. Why, then, does He not take Lakṣmī-devī with Him?”
+
+## 122
+w: Svarūpa  says  hear  Lord  the reason  for this
+w: in the Vṛndāvana pastimes  of Lakṣmī  there is no  right of entry
+tr: Svarūpa said, “Hear the reason for this, Lord. Lakṣmī has no right to enter the pastimes of Vṛndāvana.
+
+## 123
+w: in the Vṛndāvana pastimes  Kṛṣṇa’s  companions  the gopīs
+w: the gopīs  except  Kṛṣṇa’s  to steal  cannot  the mind
+tr: In the pastimes of Vṛndāvana Kṛṣṇa’s companions are the gopīs. No one but the gopīs can steal Kṛṣṇa’s heart.”
+
+## 124
+w: the Lord  says  on the pretext of the festival  Kṛṣṇa’s  going
+w: Subhadrā  and  Baladeva  with Him  two  persons
+tr: The Lord said, “Kṛṣṇa goes on the pretext of the festival, and with Him go two: Subhadrā and Baladeva.
+
+## 125
+w: with the gopīs  as many  pastimes  are  in the gardens
+w: hidden  Kṛṣṇa’s  heart  anyone  not  knows
+tr: All the pastimes He enjoys with the gopīs in the gardens remain hidden: no one knows Kṛṣṇa’s secret heart.
+
+## 126
+w: therefore  in Kṛṣṇa’s open going  there is not  any  fault
+w: then  why  Lakṣmī-devī  makes  so much  anger
+tr: So there is no fault at all in what Kṛṣṇa openly does. Why, then, is Lakṣmī-devī so angry?”
+
+## 127
+w: Svarūpa  says  of a loving woman  this  indeed  the nature
+w: of the beloved  at a trace of indifference  arises  anger
+tr: Svarūpa said, “This is the very nature of a woman in love: at the slightest trace of indifference from her beloved, anger arises in her.”
+
+## 128
+w: at that time  inlaid  in which  various  jewels
+w: of gold  palanquin  making  mounting
+tr: Just then Lakṣmī-devī set out, mounted on a golden palanquin inlaid with jewels of every kind.
