@@ -86,7 +86,7 @@ def read_comm(path):
         if re.fullmatch(r'\(“[^”]+”\)', ' '.join(x.strip() for x in rest)):
             continue                                              # служебная строка-заголовок издания
         hard = len(rest) > 1 and any(l.endswith('  ') for l in rest[:-1])
-        if hard and re.sub(r'^\d+(?:[–-]\d+)?\.\s+', '', rest[0].strip()).startswith('**'):
+        if hard and any(l.strip().startswith('**') for l in rest):
             for k, l in enumerate(rest):
                 l = l.strip()
                 if k == 0 and not secs[key]:
