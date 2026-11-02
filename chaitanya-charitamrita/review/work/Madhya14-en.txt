@@ -1205,21 +1205,24 @@ fn: *Anubhāṣya* (on 227): the supreme light there — the moon, the sun and t
 ## 226
 w: Lakṣmī  surpassing  in qualities  where  of Lakṣmīs  the company
 w: Kṛṣṇa’s flute  does  where  of a dear friend  the service
-tr: There the company of Lakṣmīs, the gopīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.
+tr: There the gopīs, a whole society of Lakṣmīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.
+fn: *Amṛta-pravāha-bhāṣya*: there dwell countless millions of Lakṣmīs full of sweetness, who have surpassed the Lakṣmī of majesty.
 
 ## 227
 w: goddesses of fortune  the beloveds  the lover  the Supreme Person  wish-fulfilling trees
 w: the trees  the ground  made of cintāmaṇi gems  the water  nectar
 w: speech  song  dance  walking  also  the flute  a dear friend
 w: spiritual and blissful  light  the supreme  also  that  to be relished  also  and
-tr: “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light of spiritual bliss is there to be relished.” (Brahma-saṁhitā 5.56)
+tr: “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light is spiritual bliss, there to be relished.” (Brahma-saṁhitā, 5.56)
+fn: *Anubhāṣya*: the goddesses of fortune are the gopīs; the Lover is the One without a second enjoyer; the trees yield the fruit of love for Kṛṣṇa; everything there is beyond matter and meant for Kṛṣṇa’s enjoyment alone.
 
 ## 228
 w: cintāmaṇi  the foot ornament  of the maidens
 w: trees with flowers for adornment  the trees  of the gods
 w: in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows
 w: herds  and thus  an ocean of happiness  ah!  the splendour
-tr: “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu 2.1.173)
+tr: “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)
+fn: Heading in the edition: “the words of Bilvamaṅgala, quoted in the *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, first wave”.
 
 ## 229
 w: hearing  in the rapture of love  dance  does  Śrīnivāsa
@@ -1234,12 +1237,12 @@ tr: The Lord heard of Rādhā’s pure rasa in rapture, and in that rapture of r
 ## 231
 w: in the rapture of rasa  the Lord’s  dance  Svarūpa’s  singing
 w: go on  go on  saying  the Lord  lends  His own ears
-tr: Absorbed in rasa, the Lord danced and Svarūpa sang. “Go on, go on!” the Lord said, lending His ears.
+tr: Absorbed in rasa, the Lord danced and Svarūpa sang. “Sing on, sing on!” the Lord kept saying, all ears.
 
 ## 232
 w: songs of the rasa of Vraja  hearing  love  surged up
 w: the town of Puruṣottama  the Lord  with love  flooded
-tr: Hearing songs of the rasa of Vraja, His love surged up, and the Lord flooded the town of Puruṣottama with love.
+tr: As He heard the songs of Vraja’s rasa, His love welled up, and the Lord flooded the town of Puruṣottama with it.
 
 ## 233
 w: Lakṣmī-devī  in due time  went  to her own home
@@ -1248,7 +1251,7 @@ tr: In due time Lakṣmī-devī went back to her own home. The Lord went on danc
 
 ## 234
 w: the four  groups  singing  having done  very  tired  became
-w: Mahāprabhu’s  rapture of love  twofold  increased
+w: Mahāprabhu’s  in the rapture of love  twofold  increased
 tr: The four groups grew very tired from singing, but Mahāprabhu’s rapture of love doubled.
 
 ## 235
@@ -1260,6 +1263,7 @@ tr: In the rapture of Rādhā’s love the Lord assumed Her very form. Seeing th
 w: Nityānanda  seeing  the Lord’s  rapture of feeling
 w: near  not  comes  somewhat  stays  at a distance
 tr: Seeing the Lord’s rapture, Nityānanda would not come near but kept somewhat at a distance.
+fn: The edition prints *nikaṭe āise* without *nā* (“not”), an evident misprint: the edition’s headings (“Fearing to disturb the rasa, Nitāi praises the Lord from afar”; “As Nitāi does not come near…”) and the *Amṛta-pravāha-bhāṣya* confirm the reading “does not come near”. *Amṛta-pravāha-bhāṣya*: seeing that the Lord, in the rapture of Rādhā’s love, had shown the form of Rādhikā, Nityānanda Prabhu kept at a distance, for it did not befit his position (*adhikāra-virodha*).
 
 ## 237
 w: Nityānanda  except  the Lord  holds  what  person
@@ -1280,6 +1284,7 @@ tr: Taking all the devotees with Him, the Lord went to the flower garden; there 
 w: Jagannātha’s  prasāda  came  many  offerings
 w: Lakṣmī’s  prasāda  came  various  kinds
 tr: Many offerings of Jagannātha’s prasāda arrived, and Lakṣmī’s prasāda of various kinds arrived too.
+fn: *Amṛta-pravāha-bhāṣya*: some doubt whether Lakṣmī-devī’s prasāda may be taken — yet Mahāprabhu Himself took it with His devotees. Lakṣmī and all the potencies are the Lord’s maidservants: they offer what is given to them to their Lord and only then partake, so the prasāda of His servants and maidservants is to be honoured as the prasāda of Bhagavān Himself.
 
 ## 241
 w: all  taking  with many delights  He did  eating
@@ -1310,6 +1315,7 @@ tr: As before, the Lord, together with the devotees, danced and sang kīrtana in
 w: Jagannātha’s  again  pāṇḍu-vijaya  took place
 w: one  silk rope  there  breaking  went
 tr: Once again Jagannātha’s *pāṇḍu-vijaya* took place, and one of the silk ropes broke.
+fn: Heading in the edition: “During the *pahāṇḍi* the silk rope partly gives way.”
 
 ## 247
 w: of the pāṇḍu-vijaya  the cotton pads  tearing and bursting  go
@@ -1324,7 +1330,8 @@ tr: Rāmānanda and Satyarāja Khān of Kulīna-grāma were there, and the Lord 
 ## 249
 w: of these  silk ropes  you  be  the patrons
 w: every year  bring  ropes  having made
-tr: “You be the patrons (*yajamāna*) of these silk ropes. Every year have the ropes made and bring them.”
+tr: “Be the patrons (*yajamāna*) of these silk ropes: every year have the ropes made and bring them here.”
+fn: *Amṛta-pravāha-bhāṣya*: silk is woven in many villages near Kulīna-grāma, and so the Lord charged Rāmānanda Vasu and Satyarāja Khān, as *yajamānas*, with bringing the silk ropes.
 
 ## 250
 w: so  saying  gave  to them  the torn  silk rope
@@ -1354,7 +1361,8 @@ tr: Then Jagannātha went and sat upon His throne, and Mahāprabhu came home wit
 ## 255
 w: in this way  to the devotees  the festival  He showed
 w: the devotees  with  the pastimes of Vṛndāvana  He enacted
-tr: In this way the Lord showed the devotees the Ratha-yātrā festival and, together with them, enacted the pastimes of Vṛndāvana.
+tr: In this way the Lord showed the devotees the Herā-pañcamī festival and, together with them, enacted the pastimes of Vṛndāvana.
+fn: Heading in the edition: “He shows the devotees the Herā-pañcamī and reveals the pastimes of Vraja.”
 
 ## 256
 w: of Caitanya Gosāñi  the pastimes  endless  boundless

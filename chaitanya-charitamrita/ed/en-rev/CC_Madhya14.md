@@ -2325,7 +2325,7 @@ Lakṣmī  surpassing  in qualities  where  of Lakṣmīs  the company
 kṛṣṇa-vaṁśī kare yām̐hā priya-sakhī-kāya  
 Kṛṣṇa’s flute  does  where  of a dear friend  the service
 
-(226) There the company of Lakṣmīs, the gopīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.
+(226) There the gopīs, a whole society of Lakṣmīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.[^49]
 
 শ্রিয়ঃ কান্তাঃ কান্তঃ পরমপুরুষঃ কল্পতরবো  
 দ্রুমা ভূমিশ্চিন্তামণিগণময়ী তোয়মমৃতম্ ৷  
@@ -2341,7 +2341,7 @@ speech  song  dance  walking  also  the flute  a dear friend
 cid-ānandaṁ jyotiḥ param api tad āsvādyam api ca  
 spiritual and blissful  light  the supreme  also  that  to be relished  also  and
 
-(227) “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light of spiritual bliss is there to be relished.” (Brahma-saṁhitā 5.56)
+(227) “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light is spiritual bliss, there to be relished.” (Brahma-saṁhitā, 5.56)[^50]
 
 চিন্তামণিশ্চরণভূষণমঙ্গনানাং  
 শৃঙ্গারপুষ্পতরবস্তরবঃ সুরাণাম্ ৷  
@@ -2357,7 +2357,7 @@ in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows
 vṛndāni ceti sukha-sindhur aho vibhūtiḥ  
 herds  and thus  an ocean of happiness  ah!  the splendour
 
-(228) “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu 2.1.173)
+(228) “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)[^51]
 
 শুনি’ প্রেমাবেশে নৃত্য করে শ্রীনিবাস ৷  
 কক্ষতালি বাজায়, করে অট্ট-অট্ট হাস ॥ ২২৯ ॥
@@ -2387,7 +2387,7 @@ in the rapture of rasa  the Lord’s  dance  Svarūpa’s  singing
 ‘bala’ ‘bala’ bali’ prabhu pāte nija-kāṇa  
 go on  go on  saying  the Lord  lends  His own ears
 
-(231) Absorbed in rasa, the Lord danced and Svarūpa sang. “Go on, go on!” the Lord said, lending His ears.
+(231) Absorbed in rasa, the Lord danced and Svarūpa sang. “Sing on, sing on!” the Lord kept saying, all ears.
 
 ব্রজরস-গীত শুনি’ প্রেম উথলিল ৷  
 পুরুষোত্তম-গ্রাম প্রভু প্রেমে ভাসাইল ॥ ২৩২ ॥
@@ -2397,7 +2397,7 @@ songs of the rasa of Vraja  hearing  love  surged up
 puruṣottama-grāma prabhu preme bhāsāila  
 the town of Puruṣottama  the Lord  with love  flooded
 
-(232) Hearing songs of the rasa of Vraja, His love surged up, and the Lord flooded the town of Puruṣottama with love.
+(232) As He heard the songs of Vraja’s rasa, His love welled up, and the Lord flooded the town of Puruṣottama with it.
 
 লক্ষ্মী-দেবী-যথাকালে গেলা নিজ-ঘর ৷  
 প্রভু নৃত্য করে, হৈল দ্বিতীয় প্রহর ॥ ২৩৩ ॥
@@ -2410,12 +2410,12 @@ the Lord  dance  does  came  the second  watch
 (233) In due time Lakṣmī-devī went back to her own home. The Lord went on dancing, and the second watch of the day (*prahara*) had come.
 
 চারি সম্প্রদায় গান করি’ বহু শ্রান্ত হৈল ৷  
-মহাপ্রভুর প্রেমাবেশ দ্বিগুণ বাড়িল ॥ ২৩৪ ॥
+মহাপ্রভুর প্রেমাবেশে দ্বিগুণ বাড়িল ॥ ২৩৪ ॥
 
 cāri sampradāya gāna kari’ bahu śrānta haila  
 the four  groups  singing  having done  very  tired  became  
-mahāprabhura premāveśa dviguṇa bāḍila  
-Mahāprabhu’s  rapture of love  twofold  increased
+mahāprabhura premāveśe dviguṇa bāḍila  
+Mahāprabhu’s  in the rapture of love  twofold  increased
 
 (234) The four groups grew very tired from singing, but Mahāprabhu’s rapture of love doubled.
 
@@ -2437,7 +2437,7 @@ Nityānanda  seeing  the Lord’s  rapture of feeling
 nikaṭe nā āise, kichu rahe dūra-deśa  
 near  not  comes  somewhat  stays  at a distance
 
-(236) Seeing the Lord’s rapture, Nityānanda would not come near but kept somewhat at a distance.
+(236) Seeing the Lord’s rapture, Nityānanda would not come near but kept somewhat at a distance.[^52]
 
 নিত্যানন্দ বিনা প্রভুকে ধরে কোন্ জন ৷  
 প্রভুর আবেশ না যায়, না রহে কীর্ত্তন ॥ ২৩৭ ॥
@@ -2477,7 +2477,7 @@ Jagannātha’s  prasāda  came  many  offerings
 lakṣmīra prasāda āila vividha prakāra  
 Lakṣmī’s  prasāda  came  various  kinds
 
-(240) Many offerings of Jagannātha’s prasāda arrived, and Lakṣmī’s prasāda of various kinds arrived too.
+(240) Many offerings of Jagannātha’s prasāda arrived, and Lakṣmī’s prasāda of various kinds arrived too.[^53]
 
 সবা লঞা নানা-রঙ্গে করিলা ভোজন ৷  
 সন্ধ্যা স্নান করি’ কৈল জগন্নাথ দরশন ॥ ২৪১ ॥
@@ -2537,7 +2537,7 @@ Jagannātha’s  again  pāṇḍu-vijaya  took place
 eka-guṭi paṭṭa-ḍorī tām̐hā ṭuṭi’ gela  
 one  silk rope  there  breaking  went
 
-(246) Once again Jagannātha’s *pāṇḍu-vijaya* took place, and one of the silk ropes broke.
+(246) Once again Jagannātha’s *pāṇḍu-vijaya* took place, and one of the silk ropes broke.[^54]
 
 পাণ্ডু-বিজয়ের তুলী ফাটি-ফুটি যায় ৷  
 জগন্নাথের ভরে তুলা উড়িয়া পলায় ॥ ২৪৭ ॥
@@ -2567,7 +2567,7 @@ of these  silk ropes  you  be  the patrons
 prati-vatsara ānibe ‘ḍorī’ kariyā nirmāṇa  
 every year  bring  ropes  having made
 
-(249) “You be the patrons (*yajamāna*) of these silk ropes. Every year have the ropes made and bring them.”
+(249) “Be the patrons (*yajamāna*) of these silk ropes: every year have the ropes made and bring them here.”[^55]
 
 এত বলি’ দিল তাঁরে ছিণ্ডা পট্টডোরী ৷  
 ইহা দেখি’ করিবে ডোরী অতি দৃঢ় করি’ ॥ ২৫০ ॥
@@ -2627,7 +2627,7 @@ in this way  to the devotees  the festival  He showed
 bhakta-gaṇa lañā vṛndāvana-keli kaila  
 the devotees  with  the pastimes of Vṛndāvana  He enacted
 
-(255) In this way the Lord showed the devotees the Ratha-yātrā festival and, together with them, enacted the pastimes of Vṛndāvana.
+(255) In this way the Lord showed the devotees the Herā-pañcamī festival and, together with them, enacted the pastimes of Vṛndāvana.[^56]
 
 চৈতন্য-গোসাঞির লীলা — অনন্ত, অপার ৷  
 ‘সহস্র-বদন’ যার নাহি পায় পার ॥ ২৫৬ ॥
@@ -2647,7 +2647,7 @@ the thousand-mouthed one  of which  not  reaches  the end
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^49]
+(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^57]
 
 ---
 
@@ -2747,4 +2747,20 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^48]: *Anubhāṣya* (on 227): the supreme light there — the moon, the sun and the rest — is made of spiritual bliss and is meant to be relished.
 
-[^49]: The same colophon as Madhya 7.155; translation as there.
+[^49]: *Amṛta-pravāha-bhāṣya*: there dwell countless millions of Lakṣmīs full of sweetness, who have surpassed the Lakṣmī of majesty.
+
+[^50]: *Anubhāṣya*: the goddesses of fortune are the gopīs; the Lover is the One without a second enjoyer; the trees yield the fruit of love for Kṛṣṇa; everything there is beyond matter and meant for Kṛṣṇa’s enjoyment alone.
+
+[^51]: Heading in the edition: “the words of Bilvamaṅgala, quoted in the *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, first wave”.
+
+[^52]: The edition prints *nikaṭe āise* without *nā* (“not”), an evident misprint: the edition’s headings (“Fearing to disturb the rasa, Nitāi praises the Lord from afar”; “As Nitāi does not come near…”) and the *Amṛta-pravāha-bhāṣya* confirm the reading “does not come near”. *Amṛta-pravāha-bhāṣya*: seeing that the Lord, in the rapture of Rādhā’s love, had shown the form of Rādhikā, Nityānanda Prabhu kept at a distance, for it did not befit his position (*adhikāra-virodha*).
+
+[^53]: *Amṛta-pravāha-bhāṣya*: some doubt whether Lakṣmī-devī’s prasāda may be taken — yet Mahāprabhu Himself took it with His devotees. Lakṣmī and all the potencies are the Lord’s maidservants: they offer what is given to them to their Lord and only then partake, so the prasāda of His servants and maidservants is to be honoured as the prasāda of Bhagavān Himself.
+
+[^54]: Heading in the edition: “During the *pahāṇḍi* the silk rope partly gives way.”
+
+[^55]: *Amṛta-pravāha-bhāṣya*: silk is woven in many villages near Kulīna-grāma, and so the Lord charged Rāmānanda Vasu and Satyarāja Khān, as *yajamānas*, with bringing the silk ropes.
+
+[^56]: Heading in the edition: “He shows the devotees the Herā-pañcamī and reveals the pastimes of Vraja.”
+
+[^57]: The same colophon as Madhya 7.155; translation as there.
