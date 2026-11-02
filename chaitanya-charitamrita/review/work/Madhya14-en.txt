@@ -117,7 +117,7 @@ tr: Then Mahāprabhu revealed His divine majesty to him and forbade him: “Tell
 ## 20
 w: “the king”  such  awareness  ever  not  made  manifest
 w: within  everything  He knows  outwardly  detached
-tr: He never showed any awareness that this was the king. Within He knew everything, but outwardly He remained detached.
+tr: He never showed any awareness that this was the king. Within He knew everything, but outwardly He seemed unconcerned.
 fn: Heading in the edition: “The all-knowing Lord, in His outer consciousness, does not reveal that in the trance of love He had seen the king.”
 
 ## 21
@@ -260,7 +260,7 @@ tr: As they said “Hari bol!” the beggars floated away in love. Such are the 
 ## 47
 w: here  of Jagannātha  the time of the chariot’s moving
 w: the Gauḍas  all  the chariot  pull  forward  not  goes
-tr: Meanwhile, at the time for Jagannātha’s chariot to move, all the *gauḍas* pulled at it, but it would not go forward.
+tr: Meanwhile, when it was time for Jagannātha’s chariot to set out, all the *gauḍas* pulled at it, but it would not go forward.
 
 ## 48
 w: to pull  not  can  the Gauḍas  the chariot  leaving  let go
@@ -355,7 +355,7 @@ tr: After the dance He watched the evening *ārati*. Then the Lord came to Āi�
 ## 66
 w: Advaita and the others  the devotees  invitation  made
 w: chief  chief  nine  persons  nine  days  received
-tr: Advaita and the other devotees invited the Lord: the nine chief devotees received the nine days.
+tr: Advaita and the other devotees invited the Lord, and the nine chief among them received the nine days.
 fn: *Amṛta-pravāha-bhāṣya*: the nine days of the festival at Guṇḍicā’s house are called the *nava-rātra-yātrā*; all those days the Lord stayed with the devotees at Āiṭoṭā, and the nine chief devotees headed by Advaita invited Him, each on his own day.
 
 ## 67
@@ -535,7 +535,7 @@ tr: Then the Lord told Vakreśvara to dance. Vakreśvara danced, and the Lord be
 ## 101
 w: with the Lord  Svarūpa and other  kīrtana singers  sing
 w: of directions  no  awareness  of love  in the flood
-tr: Svarūpa and the other singers sang with the Lord. In the flood of love they lost all sense of direction.
+tr: Svarūpa and the other singers sang with the Lord. In the flood of love they no longer knew where they were.
 
 ## 102
 w: in this way  for some time  having done  the forest pastimes
@@ -669,7 +669,7 @@ fn: *Anubhāṣya*: see *Bṛhad-bhāgavatāmṛta*, part 1, chapter 7.
 ## 127
 w: Svarūpa  says  of a loving woman  this  indeed  the nature
 w: of the beloved  at a trace of indifference  arises  anger
-tr: Svarūpa said, “This is the very nature of a woman in love: at the slightest trace of indifference from her beloved, anger arises in her.”
+tr: Svarūpa said, “Such is the very nature of one who loves: at the slightest trace of indifference from her beloved, anger arises in her.”
 fn: *Amṛta-pravāha-bhāṣya*: as He sets out, Jagannātha tells Lakṣmī, “I shall be back tomorrow,” but two or three days pass, and Lakṣmī in her love, seeing even a shadow of indifference in her Beloved, by her very nature flares up in anger. Heading in the edition: “Svarūpa gives the reason: when the beloved is indifferent, the loving woman becomes angry and offended.”
 
 ## 128
@@ -854,7 +854,7 @@ fn: *Amṛta-pravāha-bhāṣya*: in age She is *madhyā*, by nature *samā*, an
 ## 162
 w: from a contrary nature  māna  rises  constantly
 w: of that  in the midst  rises  Kṛṣṇa’s  ocean of bliss
-tr: From Her contrary nature *māna* constantly arises, and in the midst of it the ocean of Kṛṣṇa’s bliss rises.”
+tr: From Her contrary nature *māna* constantly arises, and with it surges the ocean of Kṛṣṇa’s bliss.”
 
 ## 163
 w: of a snake  like  the movement  of love
@@ -955,7 +955,7 @@ w: within  with a smile  shining  with drops of tears  strewn  its lashes
 w: slightly  reddened at the corners  overflowing with playfulness  in front  narrowing
 w: of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils raised
 w: Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
-tr: “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with drops of tears, its corners faintly reddened; brimming with playful delight, it narrowed, and its pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune.” (Dāna-keli-kaumudī, 1)
+tr: “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within. Tears beaded Her lashes, the corners of Her eyes were faintly reddened, and, brimming with playful delight, Her eyes narrowed as their pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune!” (Dāna-keli-kaumudī, 1)
 fn: Heading in the edition: “the words of Śrī Rūpa Gosvāmī”. *Anubhāṣya*: all seven *bhāvas* are in this glance — the smile, weeping, anger (the reddened corners), pride and longing (brimming with playful delight) and fear (the narrowing).
 
 ## 181
@@ -995,7 +995,7 @@ w: of gait, standing, sitting and so on
 w: of the movements of face, eyes and so on
 w: momentary  indeed  distinctiveness
 w: vilāsa  born of meeting the beloved
-tr: “The momentary distinctiveness in a heroine’s gait, standing, sitting and so on, and in the movements of her face, eyes and other features, born of meeting her beloved, is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
+tr: “When a heroine meets her beloved, a momentary distinctiveness appears in her gait, in the way she stands and sits, and in the movements of her face, eyes and other features. This is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
 
 ## 188
 w: shyness  joy  longing  flurry  contrariness  fear
@@ -1007,7 +1007,7 @@ w: in front  from seeing Kṛṣṇa  halted and wavering  Her  gait  became
 w: turned aside  half covered by a dark veil  beautiful  face  also
 w: with darting pupils  wide  pair of eyes  curved  thus  She
 w: with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
-tr: “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
+tr: “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes glanced sidelong, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
 
 ## 190
 w: before Kṛṣṇa  Rādhā  when  remains  standing
@@ -1173,7 +1173,7 @@ tr: In Vṛndāvana there is a natural ocean of wealth, and the wealth of Dvāra
 ## 220
 w: the supreme  Puruṣottama  Himself  Bhagavān
 w: Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
-tr: Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and the place where He is rich is the abode of Vṛndāvana.
+tr: Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and where He is rich, there is His abode, Vṛndāvana.
 fn: *Amṛta-pravāha-bhāṣya*: Vṛndāvana-dhāma is the place where Kṛṣṇa, setting majesty aside, counts Himself rich in the sweetness of leaves, flowers and the like.
 
 ## 221
@@ -1199,7 +1199,7 @@ tr: There the ordinary talk of the people is a divine song, and their ordinary w
 ## 225
 w: everywhere  the water  where  like nectar
 w: spiritual and blissful  the light  to be relished  where  embodied
-tr: Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.
+tr: Everywhere the water is like nectar, and the light of spiritual bliss takes form there, to be relished.
 fn: *Anubhāṣya* (on 227): the supreme light there — the moon, the sun and the rest — is made of spiritual bliss and is meant to be relished.
 
 ## 226
@@ -1221,7 +1221,7 @@ w: cintāmaṇi  the foot ornament  of the maidens
 w: trees with flowers for adornment  the trees  of the gods
 w: in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows
 w: herds  and thus  an ocean of happiness  ah!  the splendour
-tr: “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)
+tr: “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods supply the flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)
 fn: Heading in the edition: “the words of Bilvamaṅgala, quoted in the *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, first wave”.
 
 ## 229
@@ -1232,7 +1232,7 @@ tr: Hearing this, Śrīvāsa danced in the rapture of love, clapping his hands u
 ## 230
 w: Rādhā’s  pure rasa  the Lord  in rapture  heard
 w: in that  rapture of rasa  the Lord  dance  began
-tr: Rapt, the Lord heard of Rādhā’s pure rasa, and in that rapture of rasa He began to dance.
+tr: In rapture the Lord heard of Rādhā’s pure rasa, and, overwhelmed by that rasa, He began to dance.
 
 ## 231
 w: in the rapture of rasa  the Lord’s  dance  Svarūpa’s  singing

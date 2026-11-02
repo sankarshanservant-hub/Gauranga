@@ -212,7 +212,7 @@ then  Mahāprabhu  to him  majesty  showed
 antare sakala jānena, bāhire udāsa  
 within  everything  He knows  outwardly  detached
 
-(20) He never showed any awareness that this was the king. Within He knew everything, but outwardly He remained detached.[^10]
+(20) He never showed any awareness that this was the king. Within He knew everything, but outwardly He seemed unconcerned.[^10]
 
 প্রতাপরুদ্রের ভাগ্য দেখি’ ভক্তগণে ৷  
 রাজারে প্রশংসে সবে আনন্দিত-মনে ॥ ২১ ॥
@@ -482,7 +482,7 @@ here  of Jagannātha  the time of the chariot’s moving
 gauḍa saba ratha ṭāne, āge nāhi yāya  
 the Gauḍas  all  the chariot  pull  forward  not  goes
 
-(47) Meanwhile, at the time for Jagannātha’s chariot to move, all the *gauḍas* pulled at it, but it would not go forward.
+(47) Meanwhile, when it was time for Jagannātha’s chariot to set out, all the *gauḍas* pulled at it, but it would not go forward.
 
 টানিতে না পারে গৌড়, রথ ছাড়ি’ দিল ৷  
 পাত্র-মিত্র লঞা রাজা ব্যগ্র হঞা আইল ॥ ৪৮ ॥
@@ -672,7 +672,7 @@ Advaita and the others  the devotees  invitation  made
 mukhya mukhya nava jana nava dina pāila  
 chief  chief  nine  persons  nine  days  received
 
-(66) Advaita and the other devotees invited the Lord: the nine chief devotees received the nine days.[^18]
+(66) Advaita and the other devotees invited the Lord, and the nine chief among them received the nine days.[^18]
 
 আর ভক্তগণ চাতুর্ম্মাস্যে যত দিন ৷  
 এক এক দিন করি’ করিল বণ্টন ॥ ৬৭ ॥
@@ -1022,7 +1022,7 @@ with the Lord  Svarūpa and other  kīrtana singers  sing
 dik-vidik nāhi jñāna premera vanyāya  
 of directions  no  awareness  of love  in the flood
 
-(101) Svarūpa and the other singers sang with the Lord. In the flood of love they lost all sense of direction.
+(101) Svarūpa and the other singers sang with the Lord. In the flood of love they no longer knew where they were.
 
 এই মত কতক্ষণ করি’ বন-লীলা ৷  
 নরেন্দ্র সরোবরে গেলা করিতে জলখেলা ॥ ১০২ ॥
@@ -1279,7 +1279,7 @@ Svarūpa  says  of a loving woman  this  indeed  the nature
 kāntera audāsya-leśe haya krodha-bhāva  
 of the beloved  at a trace of indifference  arises  anger
 
-(127) Svarūpa said, “This is the very nature of a woman in love: at the slightest trace of indifference from her beloved, anger arises in her.”[^30]
+(127) Svarūpa said, “Such is the very nature of one who loves: at the slightest trace of indifference from her beloved, anger arises in her.”[^30]
 
 হেনকালে, খচিত যাহে বিবিধ রতন ৷  
 সুবর্ণের চৌদালা করি’ আরোহণ ॥ ১২৮ ॥
@@ -1635,7 +1635,7 @@ from a contrary nature  māna  rises  constantly
 tāra madhye uṭhe kṛṣṇera ānanda-sāgara  
 of that  in the midst  rises  Kṛṣṇa’s  ocean of bliss
 
-(162) From Her contrary nature *māna* constantly arises, and in the midst of it the ocean of Kṛṣṇa’s bliss rises.”
+(162) From Her contrary nature *māna* constantly arises, and with it surges the ocean of Kṛṣṇa’s bliss.”
 
 অহেরিব গতিঃ প্রেম্ণঃ স্বভাবকুটিলা ভবেৎ ৷  
 অতো হেতোরহেতোশ্চ যূনোর্মান উদঞ্চতি ॥ ১৬৩ ॥
@@ -1829,7 +1829,7 @@ of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils ra
 rādhāyāḥ kila-kiñcita-stavakinī dṛṣṭiḥ śriyaṁ vaḥ kriyāt  
 Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
 
-(180) “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with drops of tears, its corners faintly reddened; brimming with playful delight, it narrowed, and its pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune.” (Dāna-keli-kaumudī, 1)[^43]
+(180) “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within. Tears beaded Her lashes, the corners of Her eyes were faintly reddened, and, brimming with playful delight, Her eyes narrowed as their pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune!” (Dāna-keli-kaumudī, 1)[^43]
 
 বাষ্পব্যাকুলিতারুণাঞ্চলচলন্নেত্রং রসোল্লাসিতং  
 হেলোল্লাসচলাধরং কুটিলিতভ্রূযুগ্মমুদ্যৎস্মিতম্ ৷  
@@ -1909,7 +1909,7 @@ momentary  indeed  distinctiveness
 vilāsaḥ priya-saṅga-jam  
 vilāsa  born of meeting the beloved
 
-(187) “The momentary distinctiveness in a heroine’s gait, standing, sitting and so on, and in the movements of her face, eyes and other features, born of meeting her beloved, is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
+(187) “When a heroine meets her beloved, a momentary distinctiveness appears in her gait, in the way she stands and sits, and in the movements of her face, eyes and other features. This is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
 
 লজ্জা, হর্ষ, অভিলাষ, সম্ভ্রম, বাম্য, ভয় ৷  
 এত ভাব মিলি’ রাধায় চঞ্চল করয় ॥ ১৮৮ ॥
@@ -1935,7 +1935,7 @@ with darting pupils  wide  pair of eyes  curved  thus  She
 vilāsākhya-svālaṅkaraṇa-valitāsīt priya-mude  
 with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
 
-(189) “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
+(189) “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes glanced sidelong, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
 
 কৃষ্ণ-আগে রাধা যদি রহে দাণ্ডাঞা ৷  
 তিন-অঙ্গ-ভঙ্গে রহে ভ্রূ নাচাঞা ॥ ১৯০ ॥
@@ -2265,7 +2265,7 @@ the supreme  Puruṣottama  Himself  Bhagavān
 kṛṣṇa yām̐hā dhanī tām̐hā vṛndāvana-dhāma  
 Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
 
-(220) Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and the place where He is rich is the abode of Vṛndāvana.[^47]
+(220) Kṛṣṇa is the Supreme Puruṣottama, Bhagavān Himself, and where He is rich, there is His abode, Vṛndāvana.[^47]
 
 চিন্তামণিময় ভূমি, রত্নের ভবন ৷  
 চিন্তামণিগণ — দাসী-চরণ-ভূষণ ॥ ২২১ ॥
@@ -2315,7 +2315,7 @@ everywhere  the water  where  like nectar
 cid-ānanda jyotiḥ svādya — yām̐hā mūrtimān  
 spiritual and blissful  the light  to be relished  where  embodied
 
-(225) Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.[^48]
+(225) Everywhere the water is like nectar, and the light of spiritual bliss takes form there, to be relished.[^48]
 
 লক্ষ্মী জিনি’ গুণ যাঁহা লক্ষ্মীর সমাজ ৷  
 কৃষ্ণ-বংশী করে যাঁহা প্রিয়সখী-কায ॥ ২২৬ ॥
@@ -2357,7 +2357,7 @@ in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows
 vṛndāni ceti sukha-sindhur aho vibhūtiḥ  
 herds  and thus  an ocean of happiness  ah!  the splendour
 
-(228) “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)[^51]
+(228) “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods supply the flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu, 2.1.173)[^51]
 
 শুনি’ প্রেমাবেশে নৃত্য করে শ্রীনিবাস ৷  
 কক্ষতালি বাজায়, করে অট্ট-অট্ট হাস ॥ ২২৯ ॥
@@ -2377,7 +2377,7 @@ Rādhā’s  pure rasa  the Lord  in rapture  heard
 sei rasāveśe prabhu nṛtya ārambhila  
 in that  rapture of rasa  the Lord  dance  began
 
-(230) Rapt, the Lord heard of Rādhā’s pure rasa, and in that rapture of rasa He began to dance.
+(230) In rapture the Lord heard of Rādhā’s pure rasa, and, overwhelmed by that rasa, He began to dance.
 
 রসাবেশে প্রভুর নৃত্য, স্বরূপের গান ৷  
 ‘বল’ ‘বল’ বলি’ প্রভু পাতে নিজ-কাণ ॥ ২৩১ ॥
