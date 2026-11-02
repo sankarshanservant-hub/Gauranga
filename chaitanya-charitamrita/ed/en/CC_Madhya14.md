@@ -16,7 +16,7 @@ hearing  of the gopīs’ rasa  the exultation
 hṛṣṭaḥ premṇā nanarta saḥ  
 delighted  in love  danced  He
 
-(1) Gaura watched with His companions the festival of Śrī Lakṣmī’s procession, and when He heard of the exultation of the *gopīs’ rasa*, He was delighted and danced in love.
+(1) Gaura watched with His companions the festival of Śrī Lakṣmī’s procession, and when He heard of the gopīs’ *rasa* in all its exultation, He was delighted and danced in love.
 
 জয় জয় গৌরচন্দ্র শ্রীকৃষ্ণচৈতন্য ৷  
 জয় জয় নিত্যানন্দ জয়াদ্বৈত ধন্য ॥ ২ ॥
@@ -238,193 +238,241 @@ joined  hands  making  all  the devotees  saluted
 বাণীনাথ প্রসাদ লঞা কৈল আগমন ॥ ২৩ ॥
 
 madhyāhna karilā prabhu lañā bhakta-gaṇa  
-vāṇīnātha prasāda lañā kaila āgamana
+the midday duties  performed  the Lord  with  the devotees  
+vāṇīnātha prasāda lañā kaila āgamana  
+Vāṇīnātha  prasāda  bringing  made  arrival
 
-(23) [not yet translated]
+(23) The Lord performed His midday duties with the devotees, and Vāṇīnātha arrived, bringing *prasāda*.
 
 সার্ব্বভৌম-রামানন্দ-বাণীনাথে দিয়া ৷  
 প্রসাদ পাঠাল রাজা বহুত করিয়া ॥ ২৪ ॥
 
 sārvabhauma-rāmānanda-vāṇīnāthe diyā  
-prasāda pāṭhāla rājā bahuta kariyā
+through Sārvabhauma, Rāmānanda and Vāṇīnātha  giving  
+prasāda pāṭhāla rājā bahuta kariyā  
+prasāda  sent  the king  in abundance  making
 
-(24) [not yet translated]
+(24) Through Sārvabhauma, Rāmānanda and Vāṇīnātha the king had sent *prasāda* in great abundance.
 
 ‘বলগণ্ডি ভোগে’র প্রসাদ — উত্তম, অনন্ত ৷  
 ‘নি-সকড়ি’ প্রসাদ আইল, যার নাহি অন্ত ॥ ২৫ ॥
 
 ‘balagaṇḍi bhoge’ra prasāda — uttama, ananta  
-‘ni-sakaḍi’ prasāda āila, yāra nāhi anta
+of the Balagaṇḍi offering  the prasāda  excellent  endless  
+‘ni-sakaḍi’ prasāda āila, yāra nāhi anta  
+“ni-sakaḍi”  prasāda  came  of which  there is no  end
 
-(25) [not yet translated]
+(25) There was the *prasāda* of the Balagaṇḍi offering, excellent and without limit, and endless *prasāda* of the dry kind, not cooked in water.
 
 ছানা, পানা, পৈড়, আম্র, নারিকেল, কাঁঠাল ৷  
 নানাবিধ কদলী, আর বীজ-তাল ॥ ২৬ ॥
 
 chānā, pānā, paiḍa, āmra, nārikela, kāṅṭhāla  
-nānā-vidha kadalī, āra bīja-tāla
+curd cheese  fruit drinks  green coconuts  mangoes  coconuts  jackfruits  
+nānā-vidha kadalī, āra bīja-tāla  
+many kinds of  bananas  and  palm fruits
 
-(26) [not yet translated]
+(26) Curd cheese, fruit drinks, green coconuts, mangoes, ripe coconuts, jackfruits, many kinds of bananas and palm fruits.
 
 নারঙ্গ, ছোলঙ্গ, টাবা, কমলা, বীজপূর ৷  
 বাদাম, ছোহারা, দ্রাক্ষা, পিণ্ডখর্জ্জুর ॥ ২৭ ॥
 
 nāraṅga, cholaṅga, ṭābā, kamalā, bīja-pūra  
-bādāma, chohārā, drākṣā, piṇḍa-kharjura
+oranges  grapefruits  pomelos  tangerines  citrons  
+bādāma, chohārā, drākṣā, piṇḍa-kharjura  
+almonds  dried dates  raisins  dates
 
-(27) [not yet translated]
+(27) Oranges, grapefruits, pomelos, tangerines and citrons; almonds, dried dates, raisins and pressed dates.
 
 মনোহরা, লাড়ু, আদি শতেক প্রকার ৷  
 অমৃতগুটিকা-আদি, ক্ষীর্সা অপার ॥ ২৮ ॥
 
 manoharā, lāḍu, ādi śateka prakāra  
-amṛta-guṭikā-ādi, kṣīrsā apāra
+manoharā  laḍḍus  and others  a hundred  kinds  
+amṛta-guṭikā-ādi, kṣīrsā apāra  
+amṛta-guṭikā and others  kṣīrsā  without limit
 
-(28) [not yet translated]
+(28) *Manoharā*, *laḍḍus* and a hundred other sweets; *amṛta-guṭikā* and the like, and *kṣīrsā* without measure.
 
 অমৃতমণ্ডা, সরবতী, আর কুম্ড়া-কুরী ৷  
 সরামৃত সরভাজা, আর সরপুরী ॥ ২৯ ॥
 
 amṛta-maṇḍā, saravatī, āra kumḍā-kurī  
-sarāmṛta sarabhājā, āra sarapurī
+amṛta-maṇḍā  saravatī  and  pumpkin shreds  
+sarāmṛta sarabhājā, āra sarapurī  
+sarāmṛta  sarabhājā  and  sarapurī
 
-(29) [not yet translated]
+(29) *Amṛta-maṇḍā*, *saravatī* lemons, pumpkin shreds, *sarāmṛta*, *sarabhājā* and *sarapurī*.
 
 হরিবল্লভ, সেঁওতি, কর্পূর, মালতী ৷  
 ডালি-মরিচ-লাড়ু, নবাত, অমৃতি ॥ ৩০ ॥
 
 hari-vallabha, seṅoti, karpūra, mālatī  
-ḍāli-marica-lāḍu, navāta, amṛti
+hari-vallabha  seṅoti  karpūra  mālatī  
+ḍāli-marica-lāḍu, navāta, amṛti  
+ḍāli-marica-lāḍu  navāta  amṛti
 
-(30) [not yet translated]
+(30) *Hari-vallabha*, *seṅoti*, *karpūra*, *mālatī*, *ḍāli-marica laḍḍus*, *navāta* and *amṛti*.
 
 পদ্মচিনি, চন্দ্রকান্তি, খাজা, খণ্ডসার ৷  
 বিয়রি, কদ্মা, তিলাখাজার প্রকার ॥ ৩১ ॥
 
 padmacini, candrakānti, khājā, khaṇḍasāra  
-viyari, kadmā, tilākhājāra prakāra
+padmacini  candrakānti  khājā  khaṇḍasāra  
+viyari, kadmā, tilākhājāra prakāra  
+viyari  kadmā  of tilakhājā  the kinds
 
-(31) [not yet translated]
+(31) *Padmacini*, *candrakānti*, *khājā*, *khaṇḍasāra*, *viyari*, *kadmā* and all kinds of sesame *khājā*.
 
 নারঙ্গ-ছোলঙ্গ-আম্র-বৃক্ষের আকার ৷  
 ফুল-ফল-পত্রযুক্ত খণ্ডের বিকার ॥ ৩২ ॥
 
 nāraṅga-cholaṅga-āmra-vṛkṣera ākāra  
-phula-phala-patra-yukta khaṇḍera vikāra
+of orange, grapefruit and mango trees  in the shape  
+phula-phala-patra-yukta khaṇḍera vikāra  
+with flowers, fruits and leaves  of sugar  creations
 
-(32) [not yet translated]
+(32) There were sweets of sugar shaped like orange, grapefruit and mango trees, complete with flowers, fruits and leaves.
 
 দধি-দুগ্ধ, ননী, তক্র, রসালা, শিখরিণী ৷  
 স-লবণ মুদ্গাঙ্কুর, আদা খানি খানি ॥ ৩৩ ॥
 
 dadhi-dugdha, nanī, takra, rasālā, śikhariṇī  
-sa-lavaṇa mudgāṅkura, ādā khāni khāni
+yogurt and milk  fresh butter  buttermilk  rasālā  śikhariṇī  
+sa-lavaṇa mudgāṅkura, ādā khāni khāni  
+salted  mung sprouts  ginger  in slices
 
-(33) [not yet translated]
+(33) Yogurt, milk, fresh butter, buttermilk, *rasālā* and *śikhariṇī*; salted mung sprouts and sliced ginger.
 
 লেম্বু-কুল-আদি নানা-প্রকার আচার ৷  
 লিখিতে না পারি প্রসাদ কতেক প্রকার ॥ ৩৪ ॥
 
 lembu-kula-ādi nānā-prakāra ācāra  
-likhite nā pāri prasāda kateka prakāra
+of lemons, jujubes and the like  many kinds of  pickles  
+likhite nā pāri prasāda kateka prakāra  
+to write  not  I can  of prasāda  how many  kinds
 
-(34) [not yet translated]
+(34) There were many kinds of pickles, of lemons, jujubes and other fruits. I cannot write down how many kinds of *prasāda* there were.
 
 প্রসাদে পূরিত হৈল অর্দ্ধ উপবন ৷  
 দেখিয়া সন্তোষ হইল মহাপ্রভুর মন ॥ ৩৫ ॥
 
 prasāde pūrita haila arddha upavana  
-dekhiyā santoṣa haila mahāprabhura mana
+with prasāda  filled  became  half  the garden  
+dekhiyā santoṣa haila mahāprabhura mana  
+seeing  satisfied  became  Mahāprabhu’s  mind
 
-(35) [not yet translated]
+(35) Half the garden was filled with *prasāda*, and Mahāprabhu was delighted to see it.
 
 এইমত জগন্নাথ করেন ভোজন ৷  
 এই সুখে মহাপ্রভুর জুড়ায় নয়ন ॥ ৩৬ ॥
 
 ei-mata jagannātha karena bhojana  
-ei sukhe mahāprabhura juḍāya nayana
+in this way  Jagannātha  takes  His meal  
+ei sukhe mahāprabhura juḍāya nayana  
+by this joy  Mahāprabhu’s  are soothed  eyes
 
-(36) [not yet translated]
+(36) Such were the meals Jagannātha takes, and the joy of seeing them soothed Mahāprabhu’s eyes.
 
 কেয়া-পত্র-দ্রোণী আইল বোঝা পাঁচ-সাত ৷  
 এক এক জনে দশ দোনা দিল, — এত পাত ॥ ৩৭ ॥
 
 keyā-patra-droṇī āila bojhā pāṅca-sāta  
-eka eka jane daśa donā dila, — eta pāta
+of ketakī leaves  cups  came  loads  five or seven  
+eka eka jane daśa donā dila, — eta pāta  
+each  each  person  ten  cups  were given  so many  plates
 
-(37) [not yet translated]
+(37) Five or seven loads of cups made of *ketakī* leaves were brought, so many that each person was given ten.
 
 কীর্ত্তনীয়ার পরিশ্রম জানি’ গৌররায় ৷  
 তাঁ-সবারে খাওয়াইতে প্রভুর মন ধায় ॥ ৩৮ ॥
 
 kīrtanīyāra pariśrama jāni’ gaurarāya  
-tāṅ-sabāre khāoyāite prabhura mana dhāya
+of the kīrtana singers  the exertion  knowing  Gaurarāya  
+tāṅ-sabāre khāoyāite prabhura mana dhāya  
+them all  to feed  the Lord’s  mind  hastens
 
-(38) [not yet translated]
+(38) Gaurarāya knew how hard the *kīrtana* singers had labored, and He longed to feed them all.
 
 পাঁতি পাঁতি করি’ ভক্তগণে বসাইলা ৷  
 পরিবেশন করিবারে আপনে লাগিলা ॥ ৩৯ ॥
 
 pāṅti pāṅti kari’ bhakta-gaṇe vasāilā  
-pariveśana karibāre āpane lāgilā
+row  by row  making  the devotees  He seated  
+pariveśana karibāre āpane lāgilā  
+serving  to do  Himself  He began
 
-(39) [not yet translated]
+(39) He seated the devotees row by row and began to serve them Himself.
 
 প্রভু না খাইলে, কেহ না করে ভোজন ৷  
 স্বরূপ-গোসাঞি তবে কৈল নিবেদন ॥ ৪০ ॥
 
 prabhu nā khāile, keha nā kare bhojana  
-svarūpa-gosāñi tabe kaila nivedana
+the Lord  not  having eaten  anyone  not  takes  a meal  
+svarūpa-gosāñi tabe kaila nivedana  
+Svarūpa Gosāñi  then  made  a request
 
-(40) [not yet translated]
+(40) But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request.
 
 আপনে বৈস, প্রভু, ভোজন করিতে ৷  
 তুমি না খাইলে, কেহ না পারে খাইতে ॥ ৪১ ॥
 
 āpane vaisa, prabhu, bhojana karite  
-tumi nā khāile, keha nā pāre khāite
+Yourself  sit  Lord  meal  to take  
+tumi nā khāile, keha nā pāre khāite  
+You  not  having eaten  anyone  not  can  eat
 
-(41) [not yet translated]
+(41) “Lord, please sit down Yourself and take Your meal. Unless You eat, no one can eat.”
 
 তবে মহাপ্রভু বৈসে নিজগণ লঞা ৷  
 ভোজন করাইল সবাকে আকণ্ঠ পূরিয়া ॥ ৪২ ॥
 
 tabe mahāprabhu vaise nija-gaṇa lañā  
-bhojana karāila sabāke ākaṇṭha pūriyā
+then  Mahāprabhu  sits  His own people  with  
+bhojana karāila sabāke ākaṇṭha pūriyā  
+meal  caused to take  all  up to the throat  filling
 
-(42) [not yet translated]
+(42) Then Mahāprabhu sat down with His companions and fed them all until they were full to the throat.
 
 ভোজন করি’ বসিলা প্রভু করি’ আচমন ৷  
 প্রসাদ উবরিল, খায় সহস্রেক জন ॥ ৪৩ ॥
 
 bhojana kari’ vasilā prabhu kari’ ācamana  
-prasāda ubarila, khāya sahasreka jana
+the meal  having taken  sat  the Lord  making  rinsing of the mouth  
+prasāda ubarila, khāya sahasreka jana  
+the prasāda  remained  ate  a thousand  people
 
-(43) [not yet translated]
+(43) When He had eaten and rinsed His mouth, the Lord sat down. So much *prasāda* was left over that a thousand people ate of it.
 
 প্রভুর আজ্ঞায় গোবিন্দ দীন-হীন জনে ৷  
 দুঃখী কাঙ্গাল আনি’ করায় ভোজনে ॥ ৪৪ ॥
 
 prabhura ājñāya govinda dīna-hīna jane  
-duḥkhī kāṅgāla āni’ karāya bhojane
+by the Lord’s  order  Govinda  poor and destitute  people  
+duḥkhī kāṅgāla āni’ karāya bhojane  
+the suffering  beggars  bringing  makes eat
 
-(44) [not yet translated]
+(44) At the Lord’s order Govinda brought the poor and destitute, the suffering and the beggars, and fed them.
 
 কাঙ্গালের ভোজন-রঙ্গ দেখে গৌরহরি ৷  
 ‘হরিবোল’ বলি’ তারে উপদেশ করি ॥ ৪৫ ॥
 
 kāṅgālera bhojana-raṅga dekhe gaurahari  
-‘hari-bola’ bali’ tāre upadeśa kari
+of the beggars  the joy of eating  watches  Gaurahari  
+‘hari-bola’ bali’ tāre upadeśa kari  
+“Hari bol”  saying  to them  instruction  gives
 
-(45) [not yet translated]
+(45) Gaurahari watched the beggars joyfully eating, and He instructed them to say “Hari bol!”
 
 ‘হরিবোল’ বলি’ কাঙ্গাল প্রেমে ভাসি’ যায় ৷  
 ঐছন অদ্ভুত লীলা করে গৌররায় ॥ ৪৬ ॥
 
 ‘hari-bola’ bali’ kāṅgāla preme bhāsi’ yāya  
-aichana adbhuta līlā kare gaurarāya
+“Hari bol”  saying  the beggars  in love  float  go  
+aichana adbhuta līlā kare gaurarāya  
+such  wonderful  pastimes  performs  Gaurarāya
 
-(46) [not yet translated]
+(46) As they said “Hari bol!” the beggars floated away in love. Such wonderful pastimes Gaurarāya performs!
 
 ইঁহা জগন্নাথের রথ-চলন-সময় ৷  
 গৌড় সব রথ টানে, আগে নাহি যায় ॥ ৪৭ ॥
@@ -1083,177 +1131,221 @@ suvarṇera caudolā kari’ ārohaṇa
 নানাবাদ্য-আগে নাচে দেবদাসীগণ ॥ ১২৯ ॥
 
 chatra-cāmara-dhvajā patākāra gaṇa  
-nānā-vādya-āge nāce deva-dāsī-gaṇa
+umbrellas, cāmaras, standards  of flags  multitudes  
+nānā-vādya-āge nāce deva-dāsī-gaṇa  
+ahead of many instruments  dance  the temple dancers
 
-(129) [not yet translated]
+(129) There were multitudes of umbrellas, *cāmaras*, standards and flags, and ahead of the many musical instruments danced the temple dancers (*deva-dāsīs*).
 
 তাম্বূল-সম্পুট, ঝারী, ব্যজন, চামর ৷  
 সাথে দাসী শত, হার দিব্য ভূষাম্বর ॥ ১৩০ ॥
 
 tāmbūla-sampuṭa, jhārī, vyajana, cāmara  
-sāthe dāsī śata, hāra divya bhūṣāmbara
+betel boxes  water jugs  fans  cāmaras  
+sāthe dāsī śata, hāra divya bhūṣāmbara  
+with (her)  maidservants  a hundred  necklaces  divine  ornaments and garments
 
-(130) [not yet translated]
+(130) Hundreds of maidservants accompanied her with betel boxes, water jugs, fans and *cāmaras*, wearing necklaces and divine ornaments and garments.
 
 অনেক ঐশ্বর্য্য সঙ্গে বহু-পরিবার ৷  
 ক্রুদ্ধ হঞা লক্ষ্মীদেবী আইলা সিংহদ্বার ॥ ১৩১ ॥
 
 aneka aiśvarya saṅge bahu-parivāra  
-kruddha hañā lakṣmīdevī āilā siṁha-dvāra
+great  splendor  with  a large retinue  
+kruddha hañā lakṣmīdevī āilā siṁha-dvāra  
+angry  becoming  Lakṣmī-devī  came (to)  the Lion Gate
 
-(131) [not yet translated]
+(131) With great splendor and a large retinue, Lakṣmī-devī came in anger to the Lion Gate.
 
 জগন্নাথের মুখ্য মুখ্য যত ভৃত্যগণে ৷  
 লক্ষ্মীদেবীর দাসীগণ করেন বন্ধনে ॥ ১৩২ ॥
 
 jagannāthera mukhya mukhya yata bhṛtya-gaṇe  
-lakṣmīdevīra dāsī-gaṇa karena bandhane
+Jagannātha’s  chief  chief  all  servants  
+lakṣmīdevīra dāsī-gaṇa karena bandhane  
+Lakṣmī-devī’s  maidservants  do  binding
 
-(132) [not yet translated]
+(132) Lakṣmī-devī’s maidservants seized all of Jagannātha’s chief servants and bound them.
 
 বান্ধিয়া আনিয়া পাড়ে লক্ষ্মীর চরণে ৷  
 চোরে দণ্ড করে, যেন লয় নানা-ধনে ॥ ১৩৩ ॥
 
 bāndhiyā āniyā pāḍe lakṣmīra caraṇe  
-core daṇḍa kare, yena laya nānā-dhane
+binding  bringing  throw down  Lakṣmī’s  at the feet  
+core daṇḍa kare, yena laya nānā-dhane  
+on thieves  punishment  they inflict  as if  they take  various riches
 
-(133) [not yet translated]
+(133) Having bound them, they brought them and threw them down at Lakṣmī’s feet. They punished them like thieves, as if to exact all kinds of riches from them.
 
 অচেতনবৎ তারে করেন তাড়নে ৷  
 নানামত গালি দেন ভণ্ড-বচনে ॥ ১৩৪ ॥
 
 acetanavat tāre karena tāḍane  
-nānā-mata gāli dena bhaṇḍa-vacane
+as if senseless  them  they do  beating  
+nānā-mata gāli dena bhaṇḍa-vacane  
+of many kinds  abuse  they give  with mocking words
 
-(134) [not yet translated]
+(134) They beat them until they were nearly senseless and heaped all kinds of abuse and mockery on them.
 
 লক্ষ্মী-সঙ্গে দাসীগণের প্রাগল্ভ্য দেখিয়া ৷  
 হাসে মহাপ্রভুর গণ মুখে হস্ত দিয়া ॥ ১৩৫ ॥
 
 lakṣmī-saṅge dāsī-gaṇera prāgalbhya dekhiyā  
-hāse mahāprabhura gaṇa mukhe hasta diyā
+with Lakṣmī  of the maidservants  the boldness  seeing  
+hāse mahāprabhura gaṇa mukhe hasta diyā  
+laugh  Mahāprabhu’s  associates  to their mouths  hands  putting
 
-(135) [not yet translated]
+(135) Seeing the boldness of Lakṣmī’s maidservants, Mahāprabhu’s associates laughed, covering their mouths with their hands.
 
 দামোদর কহে, — ঐছে মানের প্রকার ৷  
 ত্রিজগতে কাঁহা দেখি, শুনি নাই আর ॥ ১৩৬ ॥
 
 dāmodara kahe, — aiche mānera prakāra  
-tri-jagate kāṅhā dekhi, śuni nāi āra
+Dāmodara  says  such  of māna  a kind  
+tri-jagate kāṅhā dekhi, śuni nāi āra  
+in the three worlds  where  do I see  I have heard  not  ever
 
-(136) [not yet translated]
+(136) Svarūpa Dāmodara said, “Where in the three worlds does one see *māna*, loving pique, of this kind? I have never heard of such a thing.
 
 মানিনী নিরুৎসাহে ছাড়ে বিভূষণ ৷  
 ভূমে বসি’ নখে লেখে, মলিন-বদন ॥ ১৩৭ ॥
 
 māninī nirutsāhe chāḍe vibhūṣaṇa  
-bhūme vasi’ nakhe lekhe, malina-vadana
+a woman in māna  dejected  gives up  her ornaments  
+bhūme vasi’ nakhe lekhe, malina-vadana  
+on the ground  sitting  with her nails  draws lines  with a darkened face
 
-(137) [not yet translated]
+(137) A woman in *māna* dejectedly lays aside her ornaments; she sits on the ground, her face clouded, and draws lines on it with her nails.
 
 পূর্ব্বে সত্যভামার শুনি এবম্বিধ মান ৷  
 ব্রজে গোপীগণের মান — রসের নিধান ॥ ১৩৮ ॥
 
 pūrve satyabhāmāra śuni evaṁ-vidha māna  
-vraje gopī-gaṇera māna — rasera nidhāna
+before  of Satyabhāmā  I hear  of this kind  māna  
+vraje gopī-gaṇera māna — rasera nidhāna  
+in Vraja  of the gopīs  the māna  of rasa  a treasure-house
 
-(138) [not yet translated]
+(138) I have heard before of such *māna* in Satyabhāmā; but in Vraja the *māna* of the gopīs is a treasure-house of *rasa*.
 
 ইঁহো নিজ-সম্পত্তি সব প্রকট করিয়া ৷  
 প্রিয়ের উপর যায় সৈন্য সাজাঞা ॥ ১৩৯ ॥
 
 iṅho nija-sampatti saba prakaṭa kariyā  
-priyera upara yāya sainya sājāñā
+she  her own wealth  all  manifest  making  
+priyera upara yāya sainya sājāñā  
+against her beloved  goes  an army  arraying
 
-(139) [not yet translated]
+(139) This goddess, however, displays all her wealth and marches against her beloved with an army in battle array!”
 
 প্রভু কহে, — কহ ব্রজের মানের প্রকার ৷  
 স্বরূপ কহে, — গোপীমান-নদী শতধার ॥ ১৪০ ॥
 
 prabhu kahe, — kaha vrajera mānera prakāra  
-svarūpa kahe, — gopī-māna-nadī śata-dhāra
+the Lord  says  tell  of Vraja  of the māna  the kinds  
+svarūpa kahe, — gopī-māna-nadī śata-dhāra  
+Svarūpa  says  the river of the gopīs’ māna  with a hundred streams
 
-(140) [not yet translated]
+(140) The Lord said, “Tell Me about the kinds of *māna* in Vraja.” Svarūpa replied, “The river of the gopīs’ *māna* flows in a hundred streams.
 
 নায়িকার স্বভাব, প্রেমবৃত্ত্যে বহু ভেদ ৷  
 সেই ভেদে নানা-প্রকার মানের উদ্ভেদ ॥ ১৪১ ॥
 
 nāyikāra svabhāva, prema-vṛttye bahu bheda  
-sei bhede nānā-prakāra mānera udbheda
+of the heroines  the natures  in the workings of love  many  differences  
+sei bhede nānā-prakāra mānera udbheda  
+by those  differences  of many kinds  of māna  the appearance
 
-(141) [not yet translated]
+(141) The natures of the heroines differ greatly, and so do the ways their love behaves; according to these differences, *māna* appears in many forms.
 
 সম্যক্ গোপিকার মান না যায় কথন ৷  
 এক-দুই-ভেদে করি দিগ্-দরশন ॥ ১৪২ ॥
 
 samyak gopikāra māna nā yāya kathana  
-eka-dui-bhede kari dig-daraśana
+completely  of the gopīs  the māna  not  can be  told  
+eka-dui-bhede kari dig-daraśana  
+by one or two  varieties  I make  an indication
 
-(142) [not yet translated]
+(142) The gopīs’ *māna* cannot be described in full; I shall only point the way with one or two of its varieties.
 
 মানে কেহ হয় ‘ধীরা’, কেহ ত’ ‘অধীরা’ ৷  
 এই তিন-ভেদে কেহ হয় ‘ধীরাধীরা’ ॥ ১৪৩ ॥
 
 māne keha haya ‘dhīrā’, keha ta’ ‘adhīrā’  
-ei tina-bhede keha haya ‘dhīrādhīrā’
+in māna  some  are  dhīrā  some  indeed  adhīrā  
+ei tina-bhede keha haya ‘dhīrādhīrā’  
+in these  three divisions  some  are  dhīrādhīrā
 
-(143) [not yet translated]
+(143) In *māna* some are *dhīrā*, composed; some are *adhīrā*, impetuous; and some, making the third division, are *dhīrādhīrā*, both composed and impetuous.
 
 ‘ধীরা’ কান্তে দূরে দেখি’ করে প্রত্যুত্থান ৷  
 নিকটে আসিলে, করে আসন প্রদান ॥ ১৪৪ ॥
 
 ‘dhīrā’ kānte dūre dekhi’ kare pratyutthāna  
-nikaṭe āsile, kare āsana pradāna
+the dhīrā  her lover  from afar  seeing  rises to greet him  
+nikaṭe āsile, kare āsana pradāna  
+near  when he comes  she makes  of a seat  an offering
 
-(144) [not yet translated]
+(144) Seeing her lover from afar, the composed heroine rises to greet him, and when he comes near she offers him a seat.
 
 হৃদয়ে কোপ, মুখে কহে মধুর বচন ৷  
 প্রিয় আলিঙ্গিতে, তারে করে আলিঙ্গন ॥ ১৪৫ ॥
 
 hṛdaye kopa, mukhe kahe madhura vacana  
-priya āliṅgite, tāre kare āliṅgana
+in her heart  anger  with her lips  speaks  sweet  words  
+priya āliṅgite, tāre kare āliṅgana  
+the beloved  when he embraces  him  she does  embracing
 
-(145) [not yet translated]
+(145) Anger lies in her heart, but her lips speak sweet words; when her beloved embraces her, she embraces him in return.
 
 সরল ব্যবহার, করে মানের পোষণ ৷  
 কিম্বা সোল্লুণ্ঠ-বাক্যে করে প্রিয়-নিরসন ॥ ১৪৬ ॥
 
 sarala vyavahāra, kare mānera poṣaṇa  
-kimbā solluṇṭha-vākye kare priya-nirasana
+straightforward  behavior  she does  of māna  nourishing  
+kimbā solluṇṭha-vākye kare priya-nirasana  
+or  with ironic words  she does  rebuffing the beloved
 
-(146) [not yet translated]
+(146) Her behavior is straightforward, yet she nurses her *māna*; or else she rebuffs her beloved with ironic words.
 
 ‘অধীরা’ নিষ্ঠুর-বাক্যে করয়ে ভর্ৎসন ৷  
 কর্ণোৎপলে তাড়ে, করে মালায় বন্ধন ॥ ১৪৭ ॥
 
 ‘adhīrā’ niṣṭhura-vākye karaye bhartsana  
-karṇotpale tāḍe, kare mālāya bandhana
+the adhīrā  with harsh words  does  scolding  
+karṇotpale tāḍe, kare mālāya bandhana  
+with the lotus on her ear  she strikes  she does  with a garland  binding
 
-(147) [not yet translated]
+(147) The impetuous heroine scolds her lover with harsh words; she strikes him with the lotus from her ear or binds him with her garland.
 
 ‘ধীরাধীরা’ বক্র-বাক্যে করে উপহাস ৷  
 কভু স্তুতি, কভু নিন্দা, কভু বা উদাস ॥ ১৪৮ ॥
 
 ‘dhīrādhīrā’ vakra-vākye kare upahāsa  
-kabhu stuti, kabhu nindā, kabhu vā udāsa
+the dhīrādhīrā  with crooked words  makes  mockery  
+kabhu stuti, kabhu nindā, kabhu vā udāsa  
+sometimes  praise  sometimes  reproach  sometimes  or  indifference
 
-(148) [not yet translated]
+(148) The heroine who is both composed and impetuous mocks him with crooked words: at times she praises him, at times she reproaches him, and at times she is indifferent.
 
 ‘মুগ্ধা’, ‘মধ্যা’, ‘প্রগল্ভা’, — তিন নায়িকার ভেদ ৷  
 ‘মুগ্ধা’ নাহি জানে মানের বৈদগ্ধ্য-বিভেদ ॥ ১৪৯ ॥
 
 ‘mugdhā’, ‘madhyā’, ‘pragalbhā’, — tina nāyikāra bheda  
-‘mugdhā’ nāhi jāne mānera vaidagdhya-vibheda
+mugdhā  madhyā  pragalbhā  three  of heroines  kinds  
+‘mugdhā’ nāhi jāne mānera vaidagdhya-vibheda  
+the mugdhā  does not  know  of māna  the artful varieties
 
-(149) [not yet translated]
+(149) There are three kinds of heroine: *mugdhā* (artless), *madhyā* (intermediate) and *pragalbhā* (bold). The artless heroine does not know the artful ways of *māna*.
 
 মুখ আচ্ছাদিয়া করে কেবল রোদন ৷  
 কান্তের প্রিয়বাক্য শুনি’ হয় পরসন্ন ॥ ১৫০ ॥
 
 mukha ācchādiyā kare kevala rodana  
-kāntera priya-vākya śuni’ haya parasanna
+her face  covering  she does  only  weeping  
+kāntera priya-vākya śuni’ haya parasanna  
+of her lover  the tender words  hearing  becomes  pacified
 
-(150) [not yet translated]
+(150) She only covers her face and weeps, and when she hears her lover’s tender words, she is pacified.
 
 ‘মধ্যা’ ‘প্রগল্ভা’ ধরে ধীরাদি বিভেদ ৷  
 তার মধ্যে সবার স্বভাবে তিন-ভেদ ॥ ১৫১ ॥
