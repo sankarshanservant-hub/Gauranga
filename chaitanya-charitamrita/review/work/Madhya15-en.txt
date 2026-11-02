@@ -176,6 +176,7 @@ tr: In deep ecstasy the Lord returned home. Such were the pastimes of Gaurāṅg
 w: Vijayā-daśamī  —  of the conquest of Laṅkā  on the day
 w: a monkey army  made  the Lord  taking  the devotees
 tr: On Vijayā-daśamī, the day of the conquest of Laṅkā, the Lord made the devotees into an army of monkeys.
+fn: Heading in the edition: “On Vijayā-daśamī the Lord dresses the devotees as an army of monkeys and Himself plays Hanumān.”
 
 ## 33
 w: in the mood of Hanumān  the Lord  a tree branch  taking
@@ -185,7 +186,8 @@ tr: Absorbed in the mood of Hanumān, the Lord took a tree branch, climbed the r
 ## 34
 w: where is  the wretch Rāvaṇa  the Lord  says  in a fit of anger
 w: the Mother of the world  stole  the sinner  I will kill  with all his race
-tr: In a fit of anger the Lord cried, “Where is that wretch Rāvaṇa? The sinner has carried off the Mother of the world! I will kill him and all his race!”
+tr: In a fit of anger the Lord cried, “Where is that wretch Rāvaṇa? The sinner has carried off the Mother of the world! I will kill him and all his kin!”
+fn: *Anubhāṣya*: the Mother of the world is Sītā-devī.
 
 ## 35
 w: of the Lord  the ecstasy  seeing  people  amazed
@@ -216,6 +218,7 @@ tr: Then Mahāprabhu called all the devotees and bade them farewell, telling the
 w: to all  said  —  every year  coming
 w: Guṇḍicā  seeing  you will go  Me  meeting
 tr: He said to them all, “Come every year: see the Guṇḍicā festival, meet with Me, and then go home.”
+fn: Heading in the edition: “The Lord sends off all the devotees of Gauḍa, telling them to come to Him every year for the Guṇḍicā festival.”
 
 ## 41
 w: to the Ācārya  order  gave  showing  respect
@@ -226,16 +229,19 @@ tr: With respect He gave this order to the Ācārya: “Give devotion to Kṛṣ
 w: to Nityānanda  order  gave  —  go  to Gauḍa
 w: unrestrained  loving devotion  do  manifest
 tr: To Nityānanda He gave this order: “Go to Gauḍa and reveal loving devotion freely, without restraint.
+fn: *Anubhāṣya*: the *prākṛta-sahajiyās* claim that Mahāprabhu sent Nityānanda to Gauḍa to continue a family line; such an idea springs only from offence at His feet. Śrī Nityānanda is non-different from the Lord, the original source of all *viṣṇu-tattva*, and no authoritative book records any such order.
 
 ## 43
 w: Rāmadāsa  Gadādhara  and others  some  persons
 w: Your  help  for  I have given  You  with
 tr: To help You I am sending Rāmadāsa, Gadādhara and some others with You.
+fn: Heading in the edition: “Nitāi’s companions in preaching — Abhirāma and Gadādhara dāsa.” *Amṛta-pravāha-bhāṣya*: Gadādhara is Gadādhara dāsa of Eṇḍiyādaha.
 
 ## 44
 w: from time  to time  I  You  near  will go
 w: unseen  remaining  Your  dancing  I will see
 tr: From time to time I will come to You, and, staying unseen, I will watch You dance.”
+fn: The edition reads তোমার নিকটে (locative: “near You”); the Bengali text and transliteration are corrected accordingly (scan, p. 582).
 
 ## 45
 w: Śrīvāsa Paṇḍita  the Lord  making  embrace
@@ -245,7 +251,7 @@ tr: The Lord embraced Śrīvāsa Paṇḍita and, with His arm around his neck, 
 ## 46
 w: in your  house  in the kīrtana  I  always  will dance
 w: you  sight  will get  other  anyone  not  will see
-tr: “I will always dance in the *kīrtana* at your house. You will see it, but no one else will.
+tr: “Every day I will dance in the kīrtana at your house. You will see it, but no one else will.
 
 ## 47
 w: this  cloth  to Mother  give  this  all  prasāda
@@ -256,6 +262,7 @@ tr: Give this cloth and all this *prasāda* to My mother. Fall down before her a
 w: her  service  leaving  I  have taken  sannyāsa
 w: dharma  it is not  do  I  My own dharma  destruction
 tr: I gave up serving her and took *sannyāsa*. That is not *dharma*: I am destroying My own *dharma*.
+fn: *Anubhāṣya*: by taking *sannyāsa* the Lord failed in the *dharma* of serving His mother.
 
 ## 49
 w: her  love  subject to  I am  her  service  —  dharma
@@ -276,11 +283,13 @@ tr: What use is *sannyāsa* to Me? Love is My real wealth. When I took *sannyās
 w: in Nīlācala  am  I  her  by order
 w: from time  to time  I will come  her  feet  to see
 tr: I stay in Nīlācala at her bidding, and from time to time I will come to see her feet.
+fn: Heading in the edition: “The Lord promises that even now He will come to Māyāpura from time to time to see Śacī.”
 
 ## 53
 w: always  going  see  I  her  feet
 w: a vision  thinking  she  that  true  not  accepts
 tr: Every day I go and see her feet, but she takes it for a vision and does not believe it is real.
+fn: Heading in the edition: “The Lord has always visited Śacī, but by the power of His *māyā* Śacī doubts it.”
 
 ## 54–55
 w: one day  śāli rice  vegetable dishes  five or seven
@@ -363,6 +372,7 @@ tr: Hear, everyone, how he serves Kṛṣṇa. His service is supremely pure, th
 w: other  things  let be  hear  of the coconuts  the story
 w: five  gaṇḍās  at  a coconut  sells  there
 tr: Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.
+fn: Money was counted in cowrie shells: a *gaṇḍā* is four cowries, so five *gaṇḍās* are twenty. Heading in the edition: “The wonderful variety of Rāghava’s coconut offerings.”
 
 ## 71
 w: in his garden  how many  hundreds  on trees  lakhs  upon lakhs  fruits
@@ -373,6 +383,7 @@ tr: In his garden hundreds of trees bear fruit by the hundreds of thousands, yet
 w: for each  one  fruit’s  price  giving  four  four  paṇas
 w: ten krośas  from  has brought  taking  pains
 tr: He pays four *paṇas* for every single fruit and takes pains to have them brought from ten *krośas* away.
+fn: A *paṇa* is twenty *gaṇḍās*, or eighty cowries: four *paṇas* are 320 cowries, sixteen times the usual price (verse 70). A *krośa* is about two miles.
 
 ## 73
 w: every day  five or seven  fruits  husking
@@ -393,6 +404,7 @@ tr: Kṛṣṇa drinks the coconut water: sometimes He leaves the fruit empty, s
 w: without water  the fruit  seeing  the Paṇḍita  —  delighted
 w: the fruit  breaking  with the pulp  makes  the śata-pātra  filled
 tr: When the Paṇḍita sees a fruit emptied of its water, he is delighted. He breaks it open and fills a plate with the pulp.
+fn: The edition reads *śata-pātra* (literally “a hundred vessels”, or a vessel of that name); the commentaries do not explain the word, and it is rendered neutrally as “a plate”.
 
 ## 77
 w: the pulp  offering  making  outside  meditation
@@ -402,7 +414,7 @@ tr: He offers the pulp and meditates outside, and Kṛṣṇa eats the pulp and 
 ## 78
 w: sometimes  the pulp  eating  again  the vessel  fills  with pulp
 w: faith  grows  the Paṇḍita’s  in the ocean of love  floats
-tr: Sometimes, after eating the pulp, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
+tr: Sometimes, having eaten it, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
 
 ## 79
 w: one  day  ten fruits  preparation  making
@@ -428,6 +440,7 @@ tr: The Paṇḍita said, “People are always coming and going through this doo
 w: that  on the wall  hand  putting  the fruits  you touched
 w: for Kṛṣṇa fit  not  the fruits  impure  have become
 tr: You put your hand on that wall and then touched the fruits. They are no longer fit for Kṛṣṇa — they have become impure.”
+fn: *Anubhāṣya*: Rāghava Paṇḍita was neither a man of *karma* afflicted with the worldly “disease of cleanliness” nor a novice devotee who “considers the earth worshipable” (Śrīmad-Bhāgavatam, 10.84.13). He was an eternally perfect servant of Kṛṣṇa, absorbed in transcendental service. Those whose devotion is mixed with *karma* do not prove their pure devotion by imitating his outward conduct and arguing about worldly purity and impurity (see Antya 4.174, 176; Śrīmad-Bhāgavatam, 11.28.4).
 
 ## 84
 w: so  saying  the fruits  throws  the boundary wall  crossing
@@ -453,11 +466,13 @@ tr: he pays a great price, takes pains to have them brought, prepares them with 
 w: in the same way  for vegetable dishes  greens  roots  fruits
 w: in the same way  flat rice  huḍuma  sweets  all
 tr: So too with the greens, roots and vegetables for his dishes, and with flat rice, *huḍuma* and all kinds of sweets;
+fn: *Amṛta-pravāha-bhāṣya*: *huḍuma* is a particular grain; its puffed form (*khai*) is especially common in Utkala.
 
 ## 89
 w: in the same way  cakes and drinks  sweet rice
 w: supremely  pure  and  makes  the best of all
-tr: so too with cakes, drinks and sweet rice — all supremely pure and the very best.
+tr: so too with cakes, sweet drinks and rice cooked in milk — all supremely pure and the very best.
+fn: *Anubhāṣya*: *kṣīra-odana* is *pāyasa*, rice cooked in milk.
 
 ## 90
 w: kāśamdi  pickles  and so on  many  kinds

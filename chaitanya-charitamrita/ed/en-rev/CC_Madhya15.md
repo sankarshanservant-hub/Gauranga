@@ -326,7 +326,7 @@ Vijayā-daśamī  —  of the conquest of Laṅkā  on the day
 vānara-sainya kailā prabhu lañā bhakta-gaṇe  
 a monkey army  made  the Lord  taking  the devotees
 
-(32) On Vijayā-daśamī, the day of the conquest of Laṅkā, the Lord made the devotees into an army of monkeys.
+(32) On Vijayā-daśamī, the day of the conquest of Laṅkā, the Lord made the devotees into an army of monkeys.[^10]
 
 হনুমান্-আবেশে প্রভু বৃক্ষশাখা লঞা ৷  
 লঙ্কা-গড়ে চড়ি’ ফেলে লঙ্কা ভাঙ্গিয়া ॥ ৩৩ ॥
@@ -346,7 +346,7 @@ where is  the wretch Rāvaṇa  the Lord  says  in a fit of anger
 ‘jagan-mātā hare pāpī, mārimu savaṁśe’  
 the Mother of the world  stole  the sinner  I will kill  with all his race
 
-(34) In a fit of anger the Lord cried, “Where is that wretch Rāvaṇa? The sinner has carried off the Mother of the world! I will kill him and all his race!”
+(34) In a fit of anger the Lord cried, “Where is that wretch Rāvaṇa? The sinner has carried off the Mother of the world! I will kill him and all his kin!”[^11]
 
 গোসাঞির আবেশ দেখি’ লোকে চমৎকার ৷  
 সর্ব্বলোক ‘জয়’ ‘জয়’ করে বার বার ॥ ৩৫ ॥
@@ -406,7 +406,7 @@ to all  said  —  every year  coming
 guṇḍicā dekhiyā yābe āmāre miliyā  
 Guṇḍicā  seeing  you will go  Me  meeting
 
-(40) He said to them all, “Come every year: see the Guṇḍicā festival, meet with Me, and then go home.”
+(40) He said to them all, “Come every year: see the Guṇḍicā festival, meet with Me, and then go home.”[^12]
 
 আচার্য্যেরে আজ্ঞা দিল করিয়া সম্মান ৷  
 ‘আ-চণ্ডাল আদি কৃষ্ণভক্তি দিও দান’ ॥ ৪১ ॥
@@ -426,7 +426,7 @@ to Nityānanda  order  gave  —  go  to Gauḍa
 anargala prema-bhakti kariha prakāśe  
 unrestrained  loving devotion  do  manifest
 
-(42) To Nityānanda He gave this order: “Go to Gauḍa and reveal loving devotion freely, without restraint.
+(42) To Nityānanda He gave this order: “Go to Gauḍa and reveal loving devotion freely, without restraint.[^13]
 
 রামদাস, গদাধর আদি কত জনে ৷  
 তোমার সহায় লাগি’ দিলু তোমার সনে ॥ ৪৩ ॥
@@ -436,17 +436,17 @@ Rāmadāsa  Gadādhara  and others  some  persons
 tomāra sahāya lāgi’ dilu tomāra sane  
 Your  help  for  I have given  You  with
 
-(43) To help You I am sending Rāmadāsa, Gadādhara and some others with You.
+(43) To help You I am sending Rāmadāsa, Gadādhara and some others with You.[^14]
 
-মধ্যে মধ্যে আমি তোমার নিকট যাইব ৷  
+মধ্যে মধ্যে আমি তোমার নিকটে যাইব ৷  
 অলক্ষিতে রহি’ তোমার নৃত্য দেখিব’ ॥ ৪৪ ॥
 
-madhye madhye āmi tomāra nikaṭa yāiba  
+madhye madhye āmi tomāra nikaṭe yāiba  
 from time  to time  I  You  near  will go  
 alakṣite rahi’ tomāra nṛtya dekhiba’  
 unseen  remaining  Your  dancing  I will see
 
-(44) From time to time I will come to You, and, staying unseen, I will watch You dance.”
+(44) From time to time I will come to You, and, staying unseen, I will watch You dance.”[^15]
 
 শ্রীবাস-পণ্ডিতে প্রভু করি’ আলিঙ্গন ৷  
 কণ্ঠে ধরি’ কহে তাঁরে মধুর বচন ॥ ৪৫ ॥
@@ -466,7 +466,7 @@ in your  house  in the kīrtana  I  always  will dance
 tumi dekhā pābe, āra keha nā dekhiba  
 you  sight  will get  other  anyone  not  will see
 
-(46) “I will always dance in the *kīrtana* at your house. You will see it, but no one else will.
+(46) “Every day I will dance in the kīrtana at your house. You will see it, but no one else will.
 
 এই বস্ত্র মাতাকে দিহ’, এই সব প্রসাদ ৷  
 দণ্ডবৎ করি’ আমার ক্ষমাইহ অপরাধ ॥ ৪৭ ॥
@@ -486,7 +486,7 @@ her  service  leaving  I  have taken  sannyāsa
 dharma nahe, kari āmi nija-dharma nāśa  
 dharma  it is not  do  I  My own dharma  destruction
 
-(48) I gave up serving her and took *sannyāsa*. That is not *dharma*: I am destroying My own *dharma*.
+(48) I gave up serving her and took *sannyāsa*. That is not *dharma*: I am destroying My own *dharma*.[^16]
 
 তাঁর প্রেম বশ আমি, তাঁর সেবা — ধর্ম্ম ৷  
 তাহা ছাড়ি’ করিয়াছি বাতুলের কর্ম্ম ॥ ৪৯ ॥
@@ -526,7 +526,7 @@ in Nīlācala  am  I  her  by order
 madhye madhye āsimu tām̐ra caraṇa dekhite  
 from time  to time  I will come  her  feet  to see
 
-(52) I stay in Nīlācala at her bidding, and from time to time I will come to see her feet.
+(52) I stay in Nīlācala at her bidding, and from time to time I will come to see her feet.[^17]
 
 নিত্য যাই’ দেখি মুঞি তাঁহার চরণে ৷  
 স্ফূর্ত্তি জ্ঞানে তেঁহো তাহা সত্য নাহি মানে ॥ ৫৩ ॥
@@ -536,7 +536,7 @@ always  going  see  I  her  feet
 sphūrti jñāne tem̐ho tāhā satya nāhi māne  
 a vision  thinking  she  that  true  not  accepts
 
-(53) Every day I go and see her feet, but she takes it for a vision and does not believe it is real.
+(53) Every day I go and see her feet, but she takes it for a vision and does not believe it is real.[^18]
 
 একদিন শাল্যন্ন, ব্যঞ্জন পাঁচ-সাত ৷  
 শাক, মোচা-ঘণ্ট, ভৃষ্ট পটোল-নিম্বপাত ॥ ৫৪ ॥
@@ -703,7 +703,7 @@ other  things  let be  hear  of the coconuts  the story
 pām̐ca gaṇḍā kari’ nārikela vikāya tathā  
 five  gaṇḍās  at  a coconut  sells  there
 
-(70) Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.
+(70) Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.[^19]
 
 বাটিতে কত শত বৃক্ষে লক্ষ লক্ষ ফল ৷  
 তথাপি শুনেন, যথা মিষ্ট নারিকেল ॥ ৭১ ॥
@@ -723,7 +723,7 @@ for each  one  fruit’s  price  giving  four  four  paṇas
 daśa-krośa haite ānāya kariyā yatana  
 ten krośas  from  has brought  taking  pains
 
-(72) He pays four *paṇas* for every single fruit and takes pains to have them brought from ten *krośas* away.
+(72) He pays four *paṇas* for every single fruit and takes pains to have them brought from ten *krośas* away.[^20]
 
 প্রতিদিন পাঁচ-সাত ফল, ছোলাঞা ৷  
 সুশীতল করিয়া রাখে জলে ডুবাঞা ॥ ৭৩ ॥
@@ -763,7 +763,7 @@ without water  the fruit  seeing  the Paṇḍita  —  delighted
 phala bhāṅgi’ śasye kare śata-pātra pūrita  
 the fruit  breaking  with the pulp  makes  the śata-pātra  filled
 
-(76) When the Paṇḍita sees a fruit emptied of its water, he is delighted. He breaks it open and fills a plate with the pulp.
+(76) When the Paṇḍita sees a fruit emptied of its water, he is delighted. He breaks it open and fills a plate with the pulp.[^21]
 
 শস্য সমর্পণ করি’ বাহিরে ধেয়ান ৷  
 শস্য খাঞা কৃষ্ণ করে শূন্য ভাজন ॥ ৭৭ ॥
@@ -783,7 +783,7 @@ sometimes  the pulp  eating  again  the vessel  fills  with pulp
 śraddhā bāḍe paṇḍitera, prema-sindhu bhāse  
 faith  grows  the Paṇḍita’s  in the ocean of love  floats
 
-(78) Sometimes, after eating the pulp, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
+(78) Sometimes, having eaten it, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
 
 এক দিন ফলদশ সংস্কার করিয়া ৷  
 ভোগ লাগাইতে সেবক আইল লঞা ॥ ৭৯ ॥
@@ -833,7 +833,7 @@ that  on the wall  hand  putting  the fruits  you touched
 kṛṣṇa-yogya nahe, phala apavitra hailā  
 for Kṛṣṇa fit  not  the fruits  impure  have become
 
-(83) You put your hand on that wall and then touched the fruits. They are no longer fit for Kṛṣṇa — they have become impure.”
+(83) You put your hand on that wall and then touched the fruits. They are no longer fit for Kṛṣṇa — they have become impure.”[^22]
 
 এত বলি’ ফল ফেলে প্রাচীর লঙ্ঘিয়া ৷  
 ঐছে পবিত্র প্রেম-সেবা জগৎ জিনিয়া ॥ ৮৪ ॥
@@ -883,7 +883,7 @@ in the same way  for vegetable dishes  greens  roots  fruits
 ei mata ciḍā, huḍuma, sandeśa sakala  
 in the same way  flat rice  huḍuma  sweets  all
 
-(88) So too with the greens, roots and vegetables for his dishes, and with flat rice, *huḍuma* and all kinds of sweets;
+(88) So too with the greens, roots and vegetables for his dishes, and with flat rice, *huḍuma* and all kinds of sweets;[^23]
 
 এইমত পিঠা-পানা, ক্ষীর-ওদন ৷  
 পরম পবিত্র, আর করে সর্ব্বোত্তম ॥ ৮৯ ॥
@@ -893,7 +893,7 @@ in the same way  cakes and drinks  sweet rice
 parama pavitra, āra kare sarvottama  
 supremely  pure  and  makes  the best of all
 
-(89) so too with cakes, drinks and sweet rice — all supremely pure and the very best.
+(89) so too with cakes, sweet drinks and rice cooked in milk — all supremely pure and the very best.[^24]
 
 কাশমৃদি, আচার, আদি অনেক প্রকার ৷  
 গন্ধ, বস্ত্র, অলঙ্কার, সর্ব্বদ্রব্য সার ॥ ৯০ ॥
@@ -1540,3 +1540,33 @@ of You  before  death  let be  let go  doubt
 [^8]: *Anubhāṣya*: a burning brand whirled very fast looks like an unbroken circle of fire; so fast did the Lord whirl the staff that it seemed to be everywhere at once.
 
 [^9]: Heading in the edition: “Nitāi too whirls a staff and shows Himself a cowherd.”
+
+[^10]: Heading in the edition: “On Vijayā-daśamī the Lord dresses the devotees as an army of monkeys and Himself plays Hanumān.”
+
+[^11]: *Anubhāṣya*: the Mother of the world is Sītā-devī.
+
+[^12]: Heading in the edition: “The Lord sends off all the devotees of Gauḍa, telling them to come to Him every year for the Guṇḍicā festival.”
+
+[^13]: *Anubhāṣya*: the *prākṛta-sahajiyās* claim that Mahāprabhu sent Nityānanda to Gauḍa to continue a family line; such an idea springs only from offence at His feet. Śrī Nityānanda is non-different from the Lord, the original source of all *viṣṇu-tattva*, and no authoritative book records any such order.
+
+[^14]: Heading in the edition: “Nitāi’s companions in preaching — Abhirāma and Gadādhara dāsa.” *Amṛta-pravāha-bhāṣya*: Gadādhara is Gadādhara dāsa of Eṇḍiyādaha.
+
+[^15]: The edition reads তোমার নিকটে (locative: “near You”); the Bengali text and transliteration are corrected accordingly (scan, p. 582).
+
+[^16]: *Anubhāṣya*: by taking *sannyāsa* the Lord failed in the *dharma* of serving His mother.
+
+[^17]: Heading in the edition: “The Lord promises that even now He will come to Māyāpura from time to time to see Śacī.”
+
+[^18]: Heading in the edition: “The Lord has always visited Śacī, but by the power of His *māyā* Śacī doubts it.”
+
+[^19]: Money was counted in cowrie shells: a *gaṇḍā* is four cowries, so five *gaṇḍās* are twenty. Heading in the edition: “The wonderful variety of Rāghava’s coconut offerings.”
+
+[^20]: A *paṇa* is twenty *gaṇḍās*, or eighty cowries: four *paṇas* are 320 cowries, sixteen times the usual price (verse 70). A *krośa* is about two miles.
+
+[^21]: The edition reads *śata-pātra* (literally “a hundred vessels”, or a vessel of that name); the commentaries do not explain the word, and it is rendered neutrally as “a plate”.
+
+[^22]: *Anubhāṣya*: Rāghava Paṇḍita was neither a man of *karma* afflicted with the worldly “disease of cleanliness” nor a novice devotee who “considers the earth worshipable” (Śrīmad-Bhāgavatam, 10.84.13). He was an eternally perfect servant of Kṛṣṇa, absorbed in transcendental service. Those whose devotion is mixed with *karma* do not prove their pure devotion by imitating his outward conduct and arguing about worldly purity and impurity (see Antya 4.174, 176; Śrīmad-Bhāgavatam, 11.28.4).
+
+[^23]: *Amṛta-pravāha-bhāṣya*: *huḍuma* is a particular grain; its puffed form (*khai*) is especially common in Utkala.
+
+[^24]: *Anubhāṣya*: *kṣīra-odana* is *pāyasa*, rice cooked in milk.
