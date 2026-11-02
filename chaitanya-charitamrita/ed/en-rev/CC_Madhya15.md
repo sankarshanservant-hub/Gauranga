@@ -36,7 +36,7 @@ glory  to the listeners of the Śrī Caitanya-caritāmṛta
 caitanya-caritāmṛta — yām̐ra prāṇa-dhana  
 the Caitanya-caritāmṛta  —  whose  treasure of life
 
-(3) Glory to the listeners of the *Śrī Caitanya-caritāmṛta*, for whom the *Caitanya-caritāmṛta* is the treasure of their lives!
+(3) Glory to the listeners of the *Śrī Caitanya-caritāmṛta*, for whom it is the treasure of life!
 
 এইমত মহাপ্রভু ভক্তগণ-সঙ্গে ৷  
 নীলাচলে রহি’ করে নৃত্যগীত রঙ্গে ॥ ৪ ॥
@@ -296,7 +296,7 @@ Kānāi Khuṭiyā  Jagannātha  —  the two
 āveśe vilāila, ghare chila yata dhana  
 in ecstasy  gave away  at home  was  whatever  wealth
 
-(29) Kānāi Khuṭiyā and Jagannātha, the two of them, in their ecstasy gave away all the wealth they had at home.
+(29) Kānāi Khuṭiyā and Jagannātha, in their ecstasy, gave away all the wealth they had at home.
 
 দেখি’ মহাপ্রভু বড় সন্তোষ পাইলা ৷  
 মাতাপিতা-জ্ঞানে দুঁহে নমস্কার কৈলা ॥ ৩০ ॥
@@ -553,7 +553,7 @@ lemon and ginger slices  yogurt  milk  sugar candy
 śālagrāme samarpilena bahu upahāra  
 to the śālagrāma  offered  many  gifts
 
-(54–55) One day she offered the *śālagrāma* many gifts: *śāli* rice, five or seven vegetable dishes, greens, *ghaṇṭa* of banana flowers, fried *paṭolas* with *nīm* leaves, slices of lemon and ginger, yogurt, milk and sugar candy.
+(54–55) One day she offered the *śālagrāma* many gifts: *śāli* rice, five or seven vegetable dishes, greens, *ghaṇṭa* of banana flowers, fried *paṭolas* with *nim* leaves, slices of lemon and ginger, yogurt, milk and sugar candy.
 
 প্রসাদ লঞা কোলে করেন ক্রন্দন ৷  
 নিমাইর প্রিয় মোর — এসব ব্যঞ্জন ॥ ৫৬ ॥
@@ -773,7 +773,7 @@ the pulp  offering  making  outside  meditation
 śasya khāñā kṛṣṇa kare śūnya bhājana  
 the pulp  eating  Kṛṣṇa  makes  empty  the vessel
 
-(77) He offers the pulp and meditates outside, and Kṛṣṇa eats it and leaves the vessel empty.
+(77) He offers the pulp and meditates outside, and Kṛṣṇa eats it and leaves the plate empty.
 
 কভু শস্য খাঞা পুনঃ পাত্র ভরে শাঁসে ৷  
 শ্রদ্ধা বাড়ে পণ্ডিতের, প্রেমসিন্ধু ভাসে ॥ ৭৮ ॥
@@ -783,7 +783,7 @@ sometimes  the pulp  eating  again  the vessel  fills  with pulp
 śraddhā bāḍe paṇḍitera, prema-sindhu bhāse  
 faith  grows  the Paṇḍita’s  in the ocean of love  floats
 
-(78) Sometimes, having eaten it, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
+(78) Sometimes, having eaten it, Kṛṣṇa fills the plate with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
 
 এক দিন ফলদশ সংস্কার করিয়া ৷  
 ভোগ লাগাইতে সেবক আইল লঞা ॥ ৭৯ ॥
@@ -1119,7 +1119,7 @@ therefore  in whose  mouth  one  name of Kṛṣṇa
 sei ta’ vaiṣṇava, kariha tām̐hāra sammāna’  
 he  indeed  a Vaiṣṇava  do  his  honor
 
-(111) Therefore anyone in whose mouth is even one name of Kṛṣṇa is a Vaiṣṇava; show him honour.”[^35]
+(111) Therefore anyone on whose lips is even one name of Kṛṣṇa is a Vaiṣṇava; show him honour.”[^35]
 
 খণ্ডের মুকুন্দদাস, শ্রীরঘুনন্দন ৷  
 শ্রীনরহরি, — এই মুখ্য তিনজন ॥ ১১২ ॥
@@ -1399,7 +1399,7 @@ Himself  the Lord  Kṛṣṇa  —  the source of all portions  the shelter of 
 viśuddha-nirmala-prema, sarva-rasamaya  
 pure spotless love  full of all rasas
 
-(139) Kṛṣṇa is the Lord Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
+(139) Kṛṣṇa is Bhagavān Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
 
 সকল-সদ্গুণ-বৃন্দ-রত্ন-রত্নাকর ৷  
 বিদগ্ধ, চতুর, ধীর, রসিক শেখর ॥ ১৪০ ॥
@@ -1489,7 +1489,7 @@ in the morning  coming  My  clasped  feet
 kāndite kāndite kichu kare nivedana  
 weeping  weeping  something  makes  submission
 
-(148) In the morning he came and clasped My feet, and, weeping and weeping, he submitted this to Me:
+(148) In the morning he came and clasped My feet, and, weeping bitterly, made this plea to Me:
 
 রঘুনাথের পায় মুঞি বেচিয়াছোঁ মাথা ৷  
 কাড়িতে না পারি মাথা, মনে পাই ব্যথা ॥ ১৪৯ ॥
@@ -1499,7 +1499,7 @@ at Raghunātha’s  feet  I  have sold  my head
 kāḍite nā pāri māthā, mane pāi vyathā  
 to take back  not  I can  the head  in mind  I get  pain
 
-(149) ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.[^45]
+(149) ‘I have sold my head at the feet of Raghunātha. I cannot take it back, and my heart is in anguish.[^45]
 
 শ্রীরঘুনাথ-চরণ ছাড়ান না যায় ৷  
 তব আজ্ঞা-ভঙ্গ হয়, কি করি উপায় ! ॥ ১৫০ ॥
@@ -1898,7 +1898,7 @@ now  my  in the house  meals  take  a month  full
 prabhu kahe, — dharma nahe, karite nā pāri  
 the Lord  says  dharma  it is not  to do  not  I can
 
-(188) “Please take Your meals at my house for a whole month.” The Lord said, “That is not dharma; I cannot do it.”
+(188) “Please take Your meals at my house for a whole month.” The Lord said, “That is not *dharma*; I cannot do it.”
 
 সার্ব্বভৌম কহে, — ভিক্ষা করহ ‘বিশ’ দিন ৷  
 প্রভু কহে, — এ নহে যতিধর্ম্ম-চিহ্ন ॥ ১৮৯ ॥
@@ -1908,7 +1908,7 @@ Sārvabhauma  says  meals  take  twenty  days
 prabhu kahe, — e nahe yati-dharma-cihna  
 the Lord  says  this  not  of a renunciant’s dharma  the mark
 
-(189) Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s dharma.”
+(189) Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s *dharma*.”
 
 সার্ব্বভৌম কহে পুনঃ, — দিন ‘পঞ্চদশ’ ৷  
 প্রভু কহে, — তোমার ভিক্ষা ‘এক’ দিবস ॥ ১৯০ ॥
@@ -1998,7 +1998,7 @@ You Yourself  with Your own shadow  will come  to my  house
 kabhu saṅge ānibe svarūpa-dāmodare  
 sometimes  with You  will bring  Svarūpa Dāmodara
 
-(198) “You will come to my house alone, with only Your own shadow, and sometimes You may bring Svarūpa Dāmodara with You.”[^49]
+(198) “Please come to my house alone, with only Your own shadow, and sometimes bring Svarūpa Dāmodara with You.”[^49]
 
 প্রভুর ইঙ্গিত পাঞা আনন্দিত মন ৷  
 সেই দিন মহাপ্রভুর কৈল নিমন্ত্রণ ॥ ১৯৯ ॥
@@ -2048,7 +2048,7 @@ himself  the Bhaṭṭācārya  does  of the cooking  all  the essentials
 ṣāṭhīra mātā — vicakṣaṇā, jāne pāka karma  
 Ṣāṭhī’s  mother  skilled  knows  of cooking  the work
 
-(203) The Bhaṭṭācārya himself saw to all the finer points of the cooking, and Ṣāṭhī’s mother was skilled and knew the work of cooking well.
+(203) The Bhaṭṭācārya himself saw to all the finer points of the cooking, and Ṣāṭhī’s mother, skilled as she was, knew the whole craft of it.
 
 পাকশালার দক্ষিণে — দুই ভোগালয় ৷  
 এক-ঘরে শালগ্রামের ভোগ-সেবা হয় ॥ ২০৪ ॥
@@ -2128,7 +2128,7 @@ bottle gourd in milk  in milk  pumpkin  vesara  lāphrā
 mocā-ghaṇṭa, mocā-bhājā, vividha śākrā  
 banana-flower ghaṇṭa  fried banana flowers  various  śākrā
 
-(211) There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.[^51]
+(211) There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, banana flowers made into a *ghaṇṭa* and fried, and various kinds of *śākrā*.[^51]
 
 বৃদ্ধ কুষ্মাণ্ডবড়ীর ব্যঞ্জন অপার ৷  
 ফুলবড়ী-ফল-মূল বিবিধ প্রকার ॥ ২১২ ॥
@@ -2472,7 +2472,7 @@ at that time  Amogha  the Bhaṭṭācārya’s  son-in-law
 kulīna, nindaka tim̐ho ṣāṭhī-kanyāra bhartā  
 of a noble family  a blasphemer  he  of Ṣāṭhī the daughter  the husband
 
-(245) At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there — the husband of his daughter Ṣāṭhī, a man of noble (*kulīna*) family, but a blasphemer.
+(245) At that time Amogha, the Bhaṭṭācārya’s son-in-law and husband of his daughter Ṣāṭhī, happened to be there. He came of a noble (*kulīna*) family, but he was a blasphemer.
 
 ভোজন দেখিতে চাহে, আসিতে না পারে ৷  
 লাঠি-হাতে ভট্টাচার্য্য আছেন দুয়ারে ॥ ২৪৬ ॥
@@ -2642,7 +2642,7 @@ or  my own life  if  I make  giving up
 dui yogya nahe, dui — śarīra brāhmaṇa  
 both  fitting  not  both  bodies  brāhmaṇa
 
-(262) “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.[^64]
+(262) “Or I could give up my own life. But neither is proper, for in body we are both brāhmaṇas.[^64]
 
 পুনঃ সেই নিন্দকের মুখ না দেখিব ৷  
 পরিত্যাগ কৈলুঁ, তার নাম না লইব ॥ ২৬৩ ॥
@@ -2727,7 +2727,7 @@ destroys  benefits  all
 puṁso mahad-atikramaḥ  
 of a man  offence against the great
 
-(270) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)[^67]
+(270) “Offence against great souls destroys a man’s life, fortune, fame and *dharma*, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)[^67]
 
 গোপীনাথাচার্য্য গেলা প্রভু-দরশনে ৷  
 প্রভু তাঁরে পুছিল ভট্টাচার্য্য-বিবরণে ॥ ২৭১ ॥

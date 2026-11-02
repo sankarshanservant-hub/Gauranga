@@ -23,7 +23,7 @@ fn: The same verse as Madhya 10.2 (= Ādi 4.2); translation as there.
 ## 3
 w: glory  to the listeners of the Śrī Caitanya-caritāmṛta
 w: the Caitanya-caritāmṛta  —  whose  treasure of life
-tr: Glory to the listeners of the *Śrī Caitanya-caritāmṛta*, for whom the *Caitanya-caritāmṛta* is the treasure of their lives!
+tr: Glory to the listeners of the *Śrī Caitanya-caritāmṛta*, for whom it is the treasure of life!
 
 ## 4
 w: thus  Mahāprabhu  with the devotees
@@ -160,7 +160,7 @@ tr: The Lord tied the costly cloth around His head, and He had the Ācārya and 
 ## 29
 w: Kānāi Khuṭiyā  Jagannātha  —  the two
 w: in ecstasy  gave away  at home  was  whatever  wealth
-tr: Kānāi Khuṭiyā and Jagannātha, the two of them, in their ecstasy gave away all the wealth they had at home.
+tr: Kānāi Khuṭiyā and Jagannātha, in their ecstasy, gave away all the wealth they had at home.
 
 ## 30
 w: seeing  Mahāprabhu  great  satisfaction  felt
@@ -296,7 +296,7 @@ w: one day  śāli rice  vegetable dishes  five or seven
 w: greens  banana-flower ghaṇṭa  fried  paṭolas with nīm leaves
 w: lemon and ginger slices  yogurt  milk  sugar candy
 w: to the śālagrāma  offered  many  gifts
-tr: One day she offered the *śālagrāma* many gifts: *śāli* rice, five or seven vegetable dishes, greens, *ghaṇṭa* of banana flowers, fried *paṭolas* with *nīm* leaves, slices of lemon and ginger, yogurt, milk and sugar candy.
+tr: One day she offered the *śālagrāma* many gifts: *śāli* rice, five or seven vegetable dishes, greens, *ghaṇṭa* of banana flowers, fried *paṭolas* with *nim* leaves, slices of lemon and ginger, yogurt, milk and sugar candy.
 
 ## 56
 w: the prasāda  taking  in her lap  does  weeping
@@ -409,12 +409,12 @@ fn: The edition reads *śata-pātra* (literally “a hundred vessels”, or a ve
 ## 77
 w: the pulp  offering  making  outside  meditation
 w: the pulp  eating  Kṛṣṇa  makes  empty  the vessel
-tr: He offers the pulp and meditates outside, and Kṛṣṇa eats it and leaves the vessel empty.
+tr: He offers the pulp and meditates outside, and Kṛṣṇa eats it and leaves the plate empty.
 
 ## 78
 w: sometimes  the pulp  eating  again  the vessel  fills  with pulp
 w: faith  grows  the Paṇḍita’s  in the ocean of love  floats
-tr: Sometimes, having eaten it, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
+tr: Sometimes, having eaten it, Kṛṣṇa fills the plate with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
 
 ## 79
 w: one  day  ten fruits  preparation  making
@@ -594,7 +594,7 @@ fn: Heading in the edition: a verse of Śrīdhara Svāmī quoted in the *Padyāv
 ## 111
 w: therefore  in whose  mouth  one  name of Kṛṣṇa
 w: he  indeed  a Vaiṣṇava  do  his  honor
-tr: Therefore anyone in whose mouth is even one name of Kṛṣṇa is a Vaiṣṇava; show him honour.”
+tr: Therefore anyone on whose lips is even one name of Kṛṣṇa is a Vaiṣṇava; show him honour.”
 fn: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
 
 ## 112
@@ -743,7 +743,7 @@ tr: In the past I tried again and again to win him over: ‘Gupta, the son of th
 ## 139
 w: Himself  the Lord  Kṛṣṇa  —  the source of all portions  the shelter of all
 w: pure spotless love  full of all rasas
-tr: Kṛṣṇa is the Lord Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
+tr: Kṛṣṇa is Bhagavān Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
 
 ## 140
 w: a jewel-mine of the jewels of all good qualities
@@ -789,12 +789,12 @@ tr: So he wept all night long; there was no peace in his mind, and he could not 
 ## 148
 w: in the morning  coming  My  clasped  feet
 w: weeping  weeping  something  makes  submission
-tr: In the morning he came and clasped My feet, and, weeping and weeping, he submitted this to Me:
+tr: In the morning he came and clasped My feet, and, weeping bitterly, made this plea to Me:
 
 ## 149
 w: at Raghunātha’s  feet  I  have sold  my head
 w: to take back  not  I can  the head  in mind  I get  pain
-tr: ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.
+tr: ‘I have sold my head at the feet of Raghunātha. I cannot take it back, and my heart is in anguish.
 fn: *Anubhāṣya* quotes the verse: “The Lord of Śrī and the Lord of Jānakī are one and the same Supreme Soul; there is no difference between Them. Still, my all in all is lotus-eyed Rāma.”
 
 ## 150
@@ -994,12 +994,12 @@ tr: “Now that all the Vaiṣṇavas have gone back to Gauḍa, there is an opp
 ## 188
 w: now  my  in the house  meals  take  a month  full
 w: the Lord  says  dharma  it is not  to do  not  I can
-tr: “Please take Your meals at my house for a whole month.” The Lord said, “That is not dharma; I cannot do it.”
+tr: “Please take Your meals at my house for a whole month.” The Lord said, “That is not *dharma*; I cannot do it.”
 
 ## 189
 w: Sārvabhauma  says  meals  take  twenty  days
 w: the Lord  says  this  not  of a renunciant’s dharma  the mark
-tr: Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s dharma.”
+tr: Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s *dharma*.”
 
 ## 190
 w: Sārvabhauma  says  again  days  fifteen
@@ -1044,7 +1044,7 @@ tr: “If many *sannyāsīs* come at once, I will not be able to honour them pro
 ## 198
 w: You Yourself  with Your own shadow  will come  to my  house
 w: sometimes  with You  will bring  Svarūpa Dāmodara
-tr: “You will come to my house alone, with only Your own shadow, and sometimes You may bring Svarūpa Dāmodara with You.”
+tr: “Please come to my house alone, with only Your own shadow, and sometimes bring Svarūpa Dāmodara with You.”
 fn: The edition reads *ānibe* (“will bring”); the earlier text had *āsibena* (“will come”).
 
 ## 199
@@ -1070,7 +1070,7 @@ tr: His house was well stocked with every provision; whatever greens, fruits and
 ## 203
 w: himself  the Bhaṭṭācārya  does  of the cooking  all  the essentials
 w: Ṣāṭhī’s  mother  skilled  knows  of cooking  the work
-tr: The Bhaṭṭācārya himself saw to all the finer points of the cooking, and Ṣāṭhī’s mother was skilled and knew the work of cooking well.
+tr: The Bhaṭṭācārya himself saw to all the finer points of the cooking, and Ṣāṭhī’s mother, skilled as she was, knew the whole craft of it.
 
 ## 204
 w: of the kitchen  to the south  two  rooms for offering
@@ -1111,7 +1111,7 @@ tr: There were ten kinds of greens, a bitter *sukuta* soup with *nim*, a peppery
 ## 211
 w: bottle gourd in milk  in milk  pumpkin  vesara  lāphrā
 w: banana-flower ghaṇṭa  fried banana flowers  various  śākrā
-tr: There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.
+tr: There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, banana flowers made into a *ghaṇṭa* and fried, and various kinds of *śākrā*.
 fn: *Anubhāṣya*: *dugdha-tumbī* — bottle gourd (*lāu*) cooked in milk; *vesara* — vegetables with ground mustard, so called in Utkala; *śākrā* — a sweet vegetable dish.
 
 ## 212
@@ -1294,7 +1294,7 @@ tr: Hearing this, the Lord smiled and sat down to eat, and Bhaṭṭa joyfully s
 ## 245
 w: at that time  Amogha  the Bhaṭṭācārya’s  son-in-law
 w: of a noble family  a blasphemer  he  of Ṣāṭhī the daughter  the husband
-tr: At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there — the husband of his daughter Ṣāṭhī, a man of noble (*kulīna*) family, but a blasphemer.
+tr: At that time Amogha, the Bhaṭṭācārya’s son-in-law and husband of his daughter Ṣāṭhī, happened to be there. He came of a noble (*kulīna*) family, but he was a blasphemer.
 
 ## 246
 w: the meal  to see  he wants  to come in  not  he can
@@ -1381,7 +1381,7 @@ fn: *Anubhāṣya* cites scripture (*Hari-bhakti-vilāsa*, *Bhakti-sandarbha*) o
 ## 262
 w: or  my own life  if  I make  giving up
 w: both  fitting  not  both  bodies  brāhmaṇa
-tr: “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.
+tr: “Or I could give up my own life. But neither is proper, for in body we are both brāhmaṇas.
 fn: *Amṛta-pravāha-bhāṣya*: Amogha is a brāhmaṇa and cannot be killed; Sārvabhauma too is a brāhmaṇa, so he may not take his own life; one course remains — never to see the blasphemer’s face.
 
 ## 263
@@ -1427,7 +1427,7 @@ w: life  fortune  fame  dharma
 w: the higher worlds  blessings  also  and
 w: destroys  benefits  all
 w: of a man  offence against the great
-tr: “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)
+tr: “Offence against great souls destroys a man’s life, fortune, fame and *dharma*, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)
 fn: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit when Kaṁsa ordered the Dānavas to persecute the sages and saints; *mahad-atikrama* — disrespect to Viṣṇu and the Vaiṣṇavas in body, mind or word, that is, *vaiṣṇava-aparādha* (compare Antya 3.146, 163).
 
 ## 271
