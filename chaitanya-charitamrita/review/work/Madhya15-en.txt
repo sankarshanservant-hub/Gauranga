@@ -42,9 +42,9 @@ tr: When the *upala-bhoga* began, He would come out of the temple, meet Haridās
 fn: *Anubhāṣya*: the *upala-bhoga* is offered at midday in the *bhoga-vardhana* hall. Before leaving the temple, the Lord would stand behind the Garuḍa pillar, fall prostrate and offer prayers; on the way back He met Haridāsa Ṭhākura at Siddha-bakula and returned to His dwelling, the house of Kāśī Miśra.
 
 ## 7
-w: at home  sitting  does  the Lord  the saṅkīrtana of the Name
+w: at home  sitting  does  the Lord  the saṅkīrtana of the name
 w: Advaita  coming  does  the Lord’s  worship
-tr: Sitting at home, the Lord would chant the Holy Name, and Advaita would come and worship Him.
+tr: Sitting at home, the Lord would chant the holy name, and Advaita would come and worship Him.
 
 ## 8
 w: with fragrant water  offers  water for the feet  water for sipping
@@ -493,6 +493,7 @@ tr: With these words He embraced Rāghava, and in the same way He honoured all t
 w: to Śivānanda Sena  says  showing  respect
 w: of Vāsudeva Datta  you  do  care
 tr: Respectfully He said to Śivānanda Sena, “Please look after Vāsudeva Datta.
+fn: Heading in the edition: “Śivānanda is told to look after Vāsudeva Datta, who saves nothing.” *Anubhāṣya*: Śivānanda Sena and Vāsudeva Datta Ṭhākura were living at that time in Kumārahaṭṭa (Hālisahara) and Kāñcaḍāpāḍā.
 
 ## 94
 w: supremely  generous  he  on whatever  day  whatever  comes
@@ -513,6 +514,7 @@ tr: Let all the income and expenses of his household be in your hands. Be his *s
 w: every year  My  all  devotees  taking
 w: to Guṇḍicā  you will come  all  protection  making
 tr: Every year bring all My devotees to the Guṇḍicā festival, and take care of them all.”
+fn: Heading in the edition: “The Lord tells him to bring all the devotees to Purī every year, settling the tolls at the checkpoints.”
 
 ## 98
 w: to the residents of Kulīna-grāma  says  respect  showing
@@ -523,21 +525,25 @@ tr: To the residents of Kulīna-grāma He said respectfully, “Come every year 
 w: Guṇarāja Khān  composed  the Śrī Kṛṣṇa-vijaya
 w: there  one sentence  his  is  full of love
 tr: Guṇarāja Khān composed the *Śrī Kṛṣṇa-vijaya*, and in it there is a sentence of his that is full of love:
+fn: *Anubhāṣya* (after Bhaktivinoda Ṭhākura’s introduction to the *Śrī Kṛṣṇa-vijaya*): Guṇarāja Khān was the title given by the king of Gauḍa to Mālādhara Vasu, thirteenth in descent from Daśaratha Vasu; he began the book, a rendering of the Tenth and Eleventh Cantos of the *Śrīmad-Bhāgavatam*, in Śaka 1395 and finished it in Śaka 1402. His second son, Lakṣmīnātha Vasu, bore the title Satyarāja Khān, and Lakṣmīnātha’s son was Rāmānanda Vasu (verse 102). *Amṛta-pravāha-bhāṣya*: many consider the *Śrī Kṛṣṇa-vijaya* the first Bengali poem.
 
 ## 100
 w: Nanda’s son  Kṛṣṇa  —  my  Lord of life
 w: by this  sentence  I am sold  his  family’s  into the hands
 tr: ‘Kṛṣṇa, the son of Nanda, is the Lord of my life.’ For this one sentence I have sold Myself into the hands of his descendants.
+fn: *Anubhāṣya*: the full line of the poem reads: “With undivided feeling, with joined palms, glorify Hari: ‘Kṛṣṇa, the son of Nanda, is the Lord of my life!’”
 
 ## 101
 w: of you  what  talk  of your  village  the dog
 w: even he  to Me  dear  other people  let be  far
 tr: What to speak of you? Even a dog of your village is dear to Me, not to mention anyone else there.”
+fn: The second line is almost the same as Ādi 10.82.
 
 ## 102
 w: then  Rāmānanda  and  Satyarāja Khān
 w: of the Lord  at the feet  something  made  submission
 tr: Then Rāmānanda and Satyarāja Khān humbly put a question at the Lord’s feet:
+fn: *Amṛta-pravāha-bhāṣya*: Rāmānanda Vasu and his father Satyarāja Khān were Vaiṣṇava householders of the Vasu family of *kāyasthas*.
 
 ## 103
 w: a householder  worldly  I  what  my  practice
@@ -546,8 +552,8 @@ tr: “I am a worldly householder. What should my practice be? Please instruct m
 
 ## 104
 w: the Lord  says  —  service to Kṛṣṇa  service to the Vaiṣṇavas
-w: constantly  do  saṅkīrtana of Kṛṣṇa’s Name
-tr: The Lord said, “Serve Kṛṣṇa, serve the Vaiṣṇavas, and always chant the Name of Kṛṣṇa in *saṅkīrtana*.”
+w: constantly  do  saṅkīrtana of Kṛṣṇa’s name
+tr: The Lord said, “Serve Kṛṣṇa, serve the Vaiṣṇavas, and always chant the name of Kṛṣṇa in *saṅkīrtana*.”
 
 ## 105
 w: Satyarāja  says  —  a Vaiṣṇava  shall I recognise  how
@@ -556,18 +562,21 @@ tr: Satyarāja said, “How am I to recognise a Vaiṣṇava? Tell me who is a V
 
 ## 106
 w: the Lord  says  —  from whose  mouth  I hear  once
-w: Kṛṣṇa’s Name  he  worshipable  —  best  of all
-tr: The Lord said, “Anyone from whose mouth I hear the Name of Kṛṣṇa even once is worthy of worship — he is the best of all.
+w: Kṛṣṇa’s name  he  worshipable  —  best  of all
+tr: The Lord said, “Anyone from whose mouth I hear the name of Kṛṣṇa even once is worthy of worship — he is the best of all.
+fn: *Anubhāṣya*: these are the marks of a *kaniṣṭha* (novice) Vaiṣṇava. One who believes that every perfection is attained by the name of Kṛṣṇa alone is a Vaiṣṇava, though his faith is still soft and he does not chant the name constantly. “The best of all” — the best in all of Devī-dhāma: even a novice devotee who worships Viṣṇu stands above the pious *karmī* and the *jñānī*, for he believes that Viṣṇu is the eternal Reality.
 
 ## 107
-w: one  Name of Kṛṣṇa  does  of all sins  destruction
-w: ninefold  devotion  complete  the Name  from  becomes
-tr: A single Name of Kṛṣṇa destroys all sins, and through the Name the nine kinds of devotion become complete.
+w: one  name of Kṛṣṇa  does  of all sins  destruction
+w: ninefold  devotion  complete  the name  from  becomes
+tr: A single name of Kṛṣṇa destroys all sins, and through the holy name the nine kinds of devotion become complete.
+fn: *Anubhāṣya*: for one who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone, all sins and all worldly desires are destroyed; the nine kinds of devotion (Śrīmad-Bhāgavatam, 7.5.23) reach completeness only through service to the name: “in Kali-yuga the other kinds of bhakti too are performed together with kīrtana” (*Bhakti-sandarbha*, 173).
 
 ## 108
 w: initiation, puraścaryā, rules  dependence  not  does
 w: by touching the tongue  down to the caṇḍāla  all  delivers
-tr: The Name does not wait for initiation, *puraścaryā* or any other rule. Simply by touching the tongue it delivers everyone, down to the *caṇḍāla*.
+tr: The holy name does not wait upon the rules of initiation or *puraścaryā*. Merely by touching the tongue it delivers everyone, down to the *caṇḍāla*.
+fn: *Anubhāṣya*: initiation awakens divine knowledge and destroys sin; *puraścaryā* is the fivefold worship (worship three times a day, *japa*, *tarpaṇa*, *homa* and feeding *brāhmaṇas*) that brings a *mantra* to perfection. Śrī Nāma, the *mahā-mantra*, needs none of this: merely uttering it brings every fruit. “Touching the tongue” means a tongue inclined to service: on a tongue that seeks worldly pleasure the name of Kṛṣṇa never appears. Heading in the edition: “Śrī Nāma — the Lord Kṛṣṇa Himself — does not depend on other acts.”
 
 ## 109
 w: as a by-product  does  of worldly existence  ending
@@ -575,16 +584,18 @@ w: the heart  attracting  causes  for Kṛṣṇa  the dawning of love
 tr: As a mere by-product it ends worldly existence; and by attracting the heart it awakens love for Kṛṣṇa.
 
 ## 110
-w: the attraction  of the liberated  of the wise  the uprooting  and  of sins
+w: attraction  of the liberated  of the wise  uprooting  and  of sins
 w: down to the caṇḍāla  to all people but the mute  easily available  the controller  and  of the wealth of liberation
 w: not  initiation  nor  and  pious rites  nor  and  puraścaryā  in the least  looks for
-w: mantra  this  touching the tongue  merely  bears fruit  consisting of Śrī Kṛṣṇa’s Name
-tr: “This *mantra*, the Name of Śrī Kṛṣṇa, draws the liberated and the wise and uproots all sins. Down to the *caṇḍāla*, it is within easy reach of everyone who is not mute, and it holds the wealth of liberation in its power. It does not look in the least for initiation, pious rites or *puraścaryā*: merely by touching the tongue it bears fruit.” (Padyāvalī 29)
+w: mantra  this  touching the tongue  merely  bears fruit  consisting of Śrī Kṛṣṇa’s name
+tr: “This *mantra*, the name of Śrī Kṛṣṇa, draws the liberated and the wise and uproots all sins. Down to the *caṇḍāla*, it is within easy reach of everyone who is not mute, and it holds the wealth of liberation in its power. It does not look in the least for initiation, pious rites or *puraścaryā*: merely by touching the tongue it bears fruit.” (Padyāvalī, 29)
+fn: Heading in the edition: a verse of Śrīdhara Svāmī quoted in the *Padyāvalī* (29). *Anubhāṣya*: *kṛta-cetasām* — of the liberated; *sumanasām* (another reading, *sumahatām*) — of the wise, who have passed beyond the three *guṇas*; *aṁhasām* — of both piety and sin, the acts born of absorption in the world; *amūka-loka-sulabha* — within reach of everyone who is not mute.
 
 ## 111
-w: therefore  in whose  mouth  one  Name of Kṛṣṇa
+w: therefore  in whose  mouth  one  name of Kṛṣṇa
 w: he  indeed  a Vaiṣṇava  do  his  honor
-tr: Therefore anyone in whose mouth is even one Name of Kṛṣṇa is a Vaiṣṇava; show him honour.”
+tr: Therefore anyone in whose mouth is even one name of Kṛṣṇa is a Vaiṣṇava; show him honour.”
+fn: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
 
 ## 112
 w: of Khaṇḍa  Mukunda dāsa  Śrī Raghunandana
@@ -605,6 +616,7 @@ tr: Or is Raghunandana the father, and you his son? Tell Me for certain, so that
 w: Mukunda  says  —  Raghunandana  my  father  is
 w: I  his  son  —  this  my  conviction
 tr: Mukunda said, “Raghunandana is my father, and I am his son — that is my conviction.
+fn: Heading in the edition: “Mukunda, who seeks no honour himself and honours others, knows Raghunandana to be a devotee of Kṛṣṇa and so sees in him not a son but a guru.”
 
 ## 116
 w: of us  all  devotion to Kṛṣṇa  Raghunandana  from
