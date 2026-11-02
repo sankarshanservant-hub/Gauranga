@@ -1181,91 +1181,115 @@ slightly  smiling  the Lord  Svarūpa  asked
 বৃন্দাবন দেখিতে তাঁর উৎকণ্ঠা অপার ॥ ১১৮ ॥
 
 yadyapi jagannātha karena dvārakāya vihāra  
+although  Jagannātha  performs  in Dvārakā  pastimes  
 sahaja prakaṭa kare parama udāra  
+naturally  manifest  makes  supreme  magnanimity  
 tathāpi vatsara-madhye haya eka-bāra  
-vṛndāvana dekhite tāṅra utkaṇṭhā apāra
+still  within a year  there is  once  
+vṛndāvana dekhite tāṅra utkaṇṭhā apāra  
+Vṛndāvana  to see  His  longing  boundless
 
-(117–118) [not yet translated]
+(117–118) “Jagannātha enjoys His pastimes in Dvārakā, and there He naturally shows His supreme magnanimity. Still, once a year He feels a boundless longing to see Vṛndāvana.
 
 বৃন্দাবন-সম এই উপবন-গণ ৷  
 তাহা দেখিবারে উৎকণ্ঠিত হয় মন ॥ ১১৯ ॥
 
 vṛndāvana-sama ei upavana-gaṇa  
-tāhā dekhibāre utkaṇṭhita haya mana
+like Vṛndāvana  these  gardens  
+tāhā dekhibāre utkaṇṭhita haya mana  
+them  to see  longing  becomes  His mind
 
-(119) [not yet translated]
+(119) These gardens are like Vṛndāvana, and His heart longs to see them.
 
 বাহির হইতে করে রথযাত্রা-ছল ৷  
 সুন্দরাচলে যায় প্রভু ছাড়ি’ নীলাচল ॥ ১২০ ॥
 
 bāhira haite kare ratha-yātrā-chala  
-sundarācale yāya prabhu chāḍi’ nīlācala
+outwardly  from  makes  the Ratha-yātrā a pretext  
+sundarācale yāya prabhu chāḍi’ nīlācala  
+to Sundarācala  goes  the Lord  leaving  Nīlācala
 
-(120) [not yet translated]
+(120) Outwardly He makes the Ratha-yātrā His pretext: the Lord leaves Nīlācala and goes to Sundarācala.
 
 নানা-পুষ্পোদ্যানে তথা খেলে রাত্রি-দিনে ৷  
 লক্ষ্মীদেবীরে সঙ্গে নাহি লয় কি কারণে ? ॥ ১২১ ॥
 
 nānā-puṣpodyāne tathā khele rātri-dine  
-lakṣmīdevīre saṅge nāhi laya ki kāraṇe?
+in various flower gardens  there  plays  night and day  
+lakṣmīdevīre saṅge nāhi laya ki kāraṇe?  
+Lakṣmī-devī  with Him  not  takes  for what  reason
 
-(121) [not yet translated]
+(121) There He plays night and day in the many flower gardens. Why, then, does He not take Lakṣmī-devī with Him?”
 
 স্বরূপ কহে, — শুন, প্রভু, কারণ ইহার ৷  
 বৃন্দাবন ক্রীড়াতে লক্ষ্মীর নাহি অধিকার ॥ ১২২ ॥
 
 svarūpa kahe, — śuna, prabhu, kāraṇa ihāra  
-vṛndāvana krīḍāte lakṣmīra nāhi adhikāra
+Svarūpa  says  hear  Lord  the reason  for this  
+vṛndāvana krīḍāte lakṣmīra nāhi adhikāra  
+in the Vṛndāvana pastimes  of Lakṣmī  there is no  right of entry
 
-(122) [not yet translated]
+(122) Svarūpa said, “Hear the reason for this, Lord. Lakṣmī has no right to enter the pastimes of Vṛndāvana.
 
 বৃন্দাবন লীলায় কৃষ্ণের সহায় গোপীগণ ৷  
 গোপীগণ বিনা কৃষ্ণের হরিতে নারে মন ॥ ১২৩ ॥
 
 vṛndāvana līlāya kṛṣṇera sahāya gopī-gaṇa  
-gopī-gaṇa vinā kṛṣṇera harite nāre mana
+in the Vṛndāvana pastimes  Kṛṣṇa’s  companions  the gopīs  
+gopī-gaṇa vinā kṛṣṇera harite nāre mana  
+the gopīs  except  Kṛṣṇa’s  to steal  cannot  the mind
 
-(123) [not yet translated]
+(123) In the pastimes of Vṛndāvana Kṛṣṇa’s companions are the gopīs. No one but the gopīs can steal Kṛṣṇa’s heart.”
 
 প্রভু কহে, — যাত্রা-ছলে কৃষ্ণের গমন ৷  
 সুভদ্রা আর বলদেব, সঙ্গে দুই জন ॥ ১২৪ ॥
 
 prabhu kahe, — yātrā-chale kṛṣṇera gamana  
-subhadrā āra baladeva, saṅge dui jana
+the Lord  says  on the pretext of the festival  Kṛṣṇa’s  going  
+subhadrā āra baladeva, saṅge dui jana  
+Subhadrā  and  Baladeva  with Him  two  persons
 
-(124) [not yet translated]
+(124) The Lord said, “Kṛṣṇa goes on the pretext of the festival, and with Him go two: Subhadrā and Baladeva.
 
 গোপী-সঙ্গে যত লীলা হয় উপবনে ৷  
 নিগূঢ় কৃষ্ণের ভাব কেহ নাহি জানে ॥ ১২৫ ॥
 
 gopī-saṅge yata līlā haya upavane  
-nigūḍha kṛṣṇera bhāva keha nāhi jāne
+with the gopīs  as many  pastimes  are  in the gardens  
+nigūḍha kṛṣṇera bhāva keha nāhi jāne  
+hidden  Kṛṣṇa’s  heart  anyone  not  knows
 
-(125) [not yet translated]
+(125) All the pastimes He enjoys with the gopīs in the gardens remain hidden: no one knows Kṛṣṇa’s secret heart.
 
 অতএব কৃষ্ণের প্রাকট্যে নাহি কিছু দোষ ৷  
 তবে কেন লক্ষ্মীদেবী করে এত রোষ ? ॥ ১২৬ ॥
 
 ataeva kṛṣṇera prākaṭye nāhi kichu doṣa  
-tabe kena lakṣmīdevī kare eta roṣa?
+therefore  in Kṛṣṇa’s open going  there is not  any  fault  
+tabe kena lakṣmīdevī kare eta roṣa?  
+then  why  Lakṣmī-devī  makes  so much  anger
 
-(126) [not yet translated]
+(126) So there is no fault at all in what Kṛṣṇa openly does. Why, then, is Lakṣmī-devī so angry?”
 
 স্বরূপ কহে, — প্রেমবতীর এই ত’ স্বভাব ৷  
 কান্তের ঔদাস্য-লেশে হয় ক্রোধভাব ॥ ১২৭ ॥
 
 svarūpa kahe, — premavatīra ei ta’ svabhāva  
-kāntera audāsya-leśe haya krodha-bhāva
+Svarūpa  says  of a loving woman  this  indeed  the nature  
+kāntera audāsya-leśe haya krodha-bhāva  
+of the beloved  at a trace of indifference  arises  anger
 
-(127) [not yet translated]
+(127) Svarūpa said, “This is the very nature of a woman in love: at the slightest trace of indifference from her beloved, anger arises in her.”
 
 হেনকালে, খচিত যাহে বিবিধ রতন ৷  
 সুবর্ণের চৌদোলা করি’ আরোহণ ॥ ১২৮ ॥
 
 hena-kāle, khacita yāhe vividha ratana  
-suvarṇera caudolā kari’ ārohaṇa
+at that time  inlaid  in which  various  jewels  
+suvarṇera caudolā kari’ ārohaṇa  
+of gold  palanquin  making  mounting
 
-(128) [not yet translated]
+(128) Just then Lakṣmī-devī set out, mounted on a golden palanquin inlaid with jewels of every kind.
 
 ছত্র-চামর-ধ্বজা পতাকার গণ ৷  
 নানাবাদ্য-আগে নাচে দেবদাসীগণ ॥ ১২৯ ॥

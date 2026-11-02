@@ -42,3 +42,8 @@
 | chatra-cāmara | umbrellas and *cāmaras* | 14.109 |
 | Sundarācala; Nīlācala | Sundarācala; Nīlācala | 14.113–114, 14.120 (the Guṇḍicā temple; Purī / the main temple) |
 | rasa-viśeṣa | a special *rasa* | 14.116 |
+| ratha-yātrā-chala; yātrā-chala | the pretext of the Ratha-yātrā / of the festival | 14.120, 14.124 |
+| adhikāra (of Lakṣmī) | right to enter | 14.122 (Lakṣmī has no entry into the Vṛndāvana pastimes) |
+| premavatī | a woman in love | 14.127 (Lakṣmī’s anger is the nature of love, not mundane jealousy) |
+| audāsya-leśa | the slightest trace of indifference | 14.127 |
+| caudolā | a palanquin | 14.128 |
