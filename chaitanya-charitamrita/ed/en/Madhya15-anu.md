@@ -312,6 +312,36 @@ The nine kinds of *bhakti* (*Śrīmad-Bhāgavatam* 7.5.23): “Hearing about Vi�
 
 One who avoids offenses against the name and takes shelter of the name of Kṛṣṇa alone has all his sins destroyed, and all his mundane desires for enjoyment, rooted in piety and sin, perish. One who takes the holy name is the best of all and worthy of honor. The nine kinds of *bhakti* reach fullness only through *bhajana* of the holy name (“Even if other forms of *bhakti* are performed in Kali, they must be joined with the *bhakti* called *kīrtana*,” *Bhakti-sandarbha* 173).
 
+## 108
+
+> Subheading: The holy name, Lord Kṛṣṇa Himself, does not depend on other acts —
+
+*Dīkṣā.* A statement of the Āgamas cited by Śrī Jīva Prabhu in the *Bhakti-sandarbha* (283): “Because it gives divine knowledge and completely destroys sin, teachers who know the truth call it *dīkṣā*.” Paṇḍitas versed in the scriptures of truth have precisely defined *dīkṣā* as that from which transcendental, divine knowledge awakens and sin is completely destroyed.
+
+The rule of *dīkṣā* (a statement of the Āgamas cited in the *Hari-bhakti-vilāsa*, second *vilāsa*, and in the *Bhakti-sandarbha* 283): “Twice-born men who have not received the sacred thread have no right to their duties, to Vedic study and so on; they gain it only after *upanayana*. So too here the uninitiated have no right to worship the *mantra*, the Deity and so on. Therefore one should sanctify oneself with auspiciousness.” As a *brāhmaṇa* without *upanayana* has no right to his duties, to study and so on, and gains it only after taking the sacred thread, so an uninitiated person has no right to worship the deity of the *mantra* and so on. Therefore one who seeks the highest good should accept *dīkṣā* to sanctify himself with auspiciousness. For it is said (a statement of the *Viṣṇu-yāmala* cited in the *Hari-bhakti-vilāsa*, second *vilāsa*): “O fair-thighed one, all that an uninitiated person does is fruitless. A person without *dīkṣā* takes birth in an animal womb.” (A statement of the Yāmala, or Āgama, cited in the same *Hari-bhakti-vilāsa* and in the *Bhakti-sandarbha* 283): “Therefore, having thus bowed to the *guru* and offered him everything, one should take a Vaiṣṇava *mantra* by rule, receiving *dīkṣā*.” (A statement of the *Tattva-sāgara* cited in the *Bhakti-sandarbha* 298): “As bell metal turns to gold by the alchemical process, so by the process of *dīkṣā* men attain the status of the twice-born.”
+
+*Puraścaryā* (a statement of the *Agastya-saṁhitā* cited in the *Hari-bhakti-vilāsa*, seventeenth *vilāsa*): “Daily worship at the three junctures of the day, *japa*, *tarpaṇa*, *homa* and feeding *brāhmaṇas* — this is called *puraścaraṇa*. For the perfection of a *mantra* received by the *guru*'s grace, this fivefold worship is prescribed beforehand, according to rule.” Morning, noon and evening — at these three times — daily worship, daily *japa*, daily *tarpaṇa*, daily *homa* and daily feeding of *brāhmaṇas*: these five parts are called *puraścaraṇa*. For the perfection of a *mantra* obtained by the *guru*'s grace, the fivefold worship is prescribed first of all; that is why it is called *puraścaraṇa*.
+
+The rule of *puraścaryā* (a statement of the Āgamas cited in the *Hari-bhakti-vilāsa*, seventeenth *vilāsa*): “Without it a *mantra* will not be perfected even in hundreds of years; by performing it the *sādhaka* obtains the desired fruit.[^108-1] A *mantra* endowed with *puraścaraṇa* bears fruit. Therefore one who knows the *mantra* and desires perfection should perform the preliminary rite. The preliminary rite is said to be the chief potency of *mantras*. As an embodied being without strength is unfit for any act, so is a *mantra* declared to be without *puraścaraṇa*.”
+
+Śrī Jīva Prabhu (*Bhakti-sandarbha* 283): “According to the *Śrī Bhāgavata*, the path of Deity worship is not obligatory as it is in the *Pañcarātra* and similar works, for it is stated that the goal of human life is attained even without it, by just one [form of *bhakti*] such as surrender. Still, those who follow the path of Śrī Nārada and others and wish to establish, through the rite of *dīkṣā* given at the feet of Śrī Guru, a special relationship with the Lord, certainly perform Deity worship once they have received *dīkṣā*.” And (ibid. 284): “Although in essence there is no (dependence on *dīkṣā* and the like), people, through their bond with the body and so on, are usually by nature ill-behaved and distracted in mind. To restrain these [tendencies], the venerable sages and others have set some restrictions here and there on the path of Deity worship.” In the *Rāmārcana-candrikā*: “Even without *dīkṣā*, O best of *brāhmaṇas*, even without *puraścaryā*, even without the rite of *nyāsa* — by *japa* alone [the name] bestows perfection.”
+
+The name does not depend on the rules of *dīkṣā*. The *mantras* of the *Pañcarātra* awaken transcendental knowledge and destroy absorption in the mundane. When [one's vision] becomes transcendental, one understands that the *mantra* and its deity are not different. If one regards the name and the *mantra* as “ordinary sound” (like other everyday sounds invented by the mind to please the senses), one ends up in hell. The deity of the *mantra* is to be worshiped only with transcendental understanding. The rule is to receive a *mantra* through *dīkṣā*, as the scriptures prescribe. But the name of Kṛṣṇa is precious to both the bound and the liberated: by taking Kṛṣṇa's name the bound soul is freed from mundane understanding, and once liberated he can take the pure name of Kṛṣṇa. “From the Kṛṣṇa-mantra will come release from saṁsāra, and by Kṛṣṇa’s name You will attain Kṛṣṇa’s feet” (see Ādi 7.73). The name of Kṛṣṇa, not different from Kṛṣṇa, is the great *mantra* itself, and so it is not subject to any injunction of the *Pañcarātra*.
+
+The name does not depend on the rules of *puraścaryā*. *Puraścaraṇa* is prescribed for the perfection of a *mantra*; the holy name, the great *mantra*, needs no such rule of *puraścaraṇa*. Since a single utterance of the name brings every fruit attainable by *puraścaryā*, the holy name has no need of *puraścaraṇa*.
+
+The name delivers by touching the tongue. Here “tongue” must be understood as a tongue inclined to service. Otherwise — since offenses dwell on a tongue inclined to mundane enjoyment — the name of Śrī Kṛṣṇa will never arise on it. (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, *Sādhana-bhakti-laharī*): “Therefore the name of Śrī Kṛṣṇa and all that is His cannot be grasped by the senses. Only when the tongue and the other senses are inclined to service does He Himself appear on them.” Madhya 17.134: “Therefore Kṛṣṇa's name, form and pastimes cannot be grasped by mundane senses; they are self-manifest.” (See *Bhakti-sandarbha* 256–275[^108-2] and 283.) See Antya 3.59–69, 75, 80, 176–180, 182–187; 20.11, 13; *Śrīmad-Bhāgavatam* 1.1.14; 6.2.29, 39.
+
+## 109
+
+> Subheading: The awakening of *prema* is the main fruit of serving the holy name, and the end of *saṁsāra* a secondary one —
+
+## 110
+
+> Subheading: (A verse by Śrīdhara Svāmī cited in the *Padyāvalī*, 29) —
+
+**śrī-kṛṣṇa-nāmātmakaḥ** **ayaṁ** **mantraḥ** **kṛta-cetasāṁ** (of the liberated) **sumahatāṁ** (great — beyond the three modes; with the reading *sumanasām*, of the wise) **ākṛṣṭiḥ** (the attractor; with the reading *ākṛṣṭī-kṛta-cetasām*, of those whose hearts are attracted) **aṁhasām** (of piety and sin — acts born of absorption in the mundane) **uccāṭanam** (uprooting) **ā-caṇḍālam** (down to the *caṇḍālas*) **amūka-loka-sulabhaḥ** (that is, easily attainable by people who are not mute — all who have the power of speech) **mukti-śriyaḥ** (of the wealth of liberation — the touchstone in which liberation takes shelter) **vaśyaḥ** (bringing under control) **ca**; (and this great *mantra*, the name) **dīkṣām** (the practice that destroys sin and gives divine knowledge) **sat-kriyām** (the *dakṣiṇā* for the perfection of the fruit) **puraścaryāṁ** **ca** (the fivefold worship) **manāk** (slightly) **api** **na** **īkṣate** (does not look for)
+
 ---
 
 [^11-1]: The first “Ramā” and “Śivā” are feminine vocatives (*rame*, *śive*): Ramā (Lakṣmī) and Śivā (Pārvatī).
@@ -319,3 +349,6 @@ One who avoids offenses against the name and takes shelter of the name of Kṛ�
 [^81-83-1]: *Śrīmad-Bhāgavatam* 10.84.13.
 
 [^106-1]: *Upadeśāmṛta* 5.
+
+[^108-1]: The edition reads *vinā yena siddhaḥ…* and *kṛtena yenana labhate*: the particle *na* (not) has slipped into the wrong line (checked against the scan); translated by the sense (cf. *Hari-bhakti-vilāsa* 17.11).
+[^108-2]: Unclear in the scan: the last digit (“275”?).
