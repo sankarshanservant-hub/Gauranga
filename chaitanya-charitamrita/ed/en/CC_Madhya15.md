@@ -1653,17 +1653,21 @@ to all  farewell  He gave  making  embrace
 ভক্তের বিচ্ছেদে প্রভুর বিষণ্ণ হৈল মন ॥ ১৮২ ॥
 
 prabhura vicchede bhakta karena rodana  
-bhaktera vicchede prabhura viṣaṇṇa haila mana
+of the Lord  in separation  the devotees  do  weeping  
+bhaktera vicchede prabhura viṣaṇṇa haila mana  
+of the devotees  in separation  of the Lord  sad  became  the mind
 
-(182) [not yet translated]
+(182) The devotees wept at parting from the Lord, and the Lord’s heart grew sad at parting from His devotees.
 
 গদাধর-পণ্ডিত রহিলা প্রভুর পাশে ৷  
 যমেশ্বরে প্রভু যাঁরে করাইলা আবাসে ॥ ১৮৩ ॥
 
 gadādhara-paṇḍita rahilā prabhura pāśe  
-yameśvare prabhu yāṅre karāilā āvāse
+Gadādhara Paṇḍita  remained  of the Lord  beside  
+yameśvare prabhu yāṅre karāilā āvāse  
+at Yameśvara  the Lord  whom  had made  to dwell
 
-(183) [not yet translated]
+(183) Gadādhara Paṇḍita, whom the Lord had settled at Yameśvara, remained near the Lord.
 
 পুরী-গোসাঞি, জগদানন্দ, স্বরূপ-দামোদর ৷  
 দামোদর-পণ্ডিত, আর গোবিন্দ, কাশীশ্বর ॥ ১৮৪ ॥
@@ -1672,219 +1676,275 @@ yameśvare prabhu yāṅre karāilā āvāse
 জগন্নাথ-দরশন নিত্য করে প্রাতঃকালে ॥ ১৮৫ ॥
 
 purī-gosāñi, jagadānanda, svarūpa-dāmodara  
+Purī Gosāñi  Jagadānanda  Svarūpa Dāmodara  
 dāmodara-paṇḍita, āra govinda, kāśīśvara  
+Dāmodara Paṇḍita  and  Govinda  Kāśīśvara  
 eisaba saṅge prabhu vaise nīlācale  
-jagannātha-daraśana nitya kare prātaḥ-kāle
+these all  with  the Lord  stays  at Nīlācala  
+jagannātha-daraśana nitya kare prātaḥ-kāle  
+Jagannātha’s sight  daily  takes  in the morning
 
-(184–185) [not yet translated]
+(184–185) With Purī Gosāñi (Paramānanda Purī), Jagadānanda, Svarūpa Dāmodara, Dāmodara Paṇḍita, Govinda and Kāśīśvara, the Lord stayed at Nīlācala, and every morning He went to see Jagannātha.
 
 প্রভু-পাশ আসি’ সার্ব্বভৌম এক দিন ৷  
 যোড়হাত করি’ কিছু কৈল নিবেদন ॥ ১৮৬ ॥
 
 prabhu-pāśa āsi’ sārvabhauma eka dina  
-yoḍa-hāta kari’ kichu kaila nivedana
+to the Lord  coming  Sārvabhauma  one  day  
+yoḍa-hāta kari’ kichu kaila nivedana  
+joined palms  making  something  made  petition
 
-(186) [not yet translated]
+(186) One day Sārvabhauma came to the Lord and, with folded hands, made a request.
 
 এবে সব বৈষ্ণব গৌড়দেশে চলি’ গেল ৷  
 এবে প্রভুর নিমন্ত্রণে অবসর হৈল ॥ ১৮৭ ॥
 
 ebe saba vaiṣṇava gauḍa-deśe cali’ gela  
-ebe prabhura nimantraṇe avasara haila
+now  all  the Vaiṣṇavas  to the land of Gauḍa  having gone  departed  
+ebe prabhura nimantraṇe avasara haila  
+now  the Lord’s  for inviting  opportunity  has come
 
-(187) [not yet translated]
+(187) “Now that all the Vaiṣṇavas have gone back to Gauḍa, there is an opportunity to invite You.
 
 এবে মোর ঘরে ভিক্ষা করহ ‘মাস’ ভরি’ ৷  
 প্রভু কহে, — ধর্ম্ম নহে, করিতে না পারি ॥ ১৮৮ ॥
 
 ebe mora ghare bhikṣā karaha ‘māsa’ bhari’  
-prabhu kahe, — dharma nahe, karite nā pāri
+now  my  in the house  meals  take  a month  full  
+prabhu kahe, — dharma nahe, karite nā pāri  
+the Lord  says  dharma  it is not  to do  not  I can
 
-(188) [not yet translated]
+(188) “Please take Your meals at my house for a whole month.” The Lord said, “That is not dharma; I cannot do it.”
 
 সার্ব্বভৌম কহে, — ভিক্ষা করহ ‘বিশ’ দিন ৷  
 প্রভু কহে, — এ নহে যতিধর্ম্ম-চিহ্ন ॥ ১৮৯ ॥
 
 sārvabhauma kahe, — bhikṣā karaha ‘biśa’ dina  
-prabhu kahe, — e nahe yati-dharma-cihna
+Sārvabhauma  says  meals  take  twenty  days  
+prabhu kahe, — e nahe yati-dharma-cihna  
+the Lord  says  this  not  of a renunciant’s dharma  the mark
 
-(189) [not yet translated]
+(189) Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s dharma.”
 
 সার্ব্বভৌম কহে পুনঃ, — দিন ‘পঞ্চদশ’ ৷  
 প্রভু কহে, — তোমার ভিক্ষা ‘এক’ দিবস ॥ ১৯০ ॥
 
 sārvabhauma kahe punaḥ, — dina ‘pañca-daśa’  
-prabhu kahe, — tomāra bhikṣā ‘eka’ divasa
+Sārvabhauma  says  again  days  fifteen  
+prabhu kahe, — tomāra bhikṣā ‘eka’ divasa  
+the Lord  says  your  meal  one  day
 
-(190) [not yet translated]
+(190) Sārvabhauma said again, “Then fifteen days.” The Lord said, “I shall take a meal with you for one day.”
 
 তবে সার্ব্বভৌম প্রভুর চরণ ধরিয়া ৷  
 ‘দশদিন ভিক্ষা কর’ কহে বিনতি করিয়া ॥ ১৯১ ॥
 
 tabe sārvabhauma prabhura caraṇa dhariyā  
-‘daśadina bhikṣā kara’ kahe vinati kariyā
+then  Sārvabhauma  of the Lord  the feet  clasping  
+‘daśadina bhikṣā kara’ kahe vinati kariyā  
+“for ten days  meals  take”  says  entreaty  making
 
-(191) [not yet translated]
+(191) Then Sārvabhauma clasped the Lord’s feet and entreated Him: “Take Your meals with me for ten days.”
 
 প্রভু ক্রমে ক্রমে পাঁচ-দিন ঘাটাইল ৷  
 পাঁচ-দিন তাঁর ভিক্ষা-নিমন্ত্রণ নিল ॥ ১৯২ ॥
 
 prabhu krame krame pāṅca-dina ghāṭāila  
-pāṅca-dina tāṅra bhikṣā-nimantraṇa nila
+the Lord  step  by step  to five days  reduced  
+pāṅca-dina tāṅra bhikṣā-nimantraṇa nila  
+for five days  his  invitation to meals  accepted
 
-(192) [not yet translated]
+(192) Step by step the Lord brought it down to five days, and He accepted his invitation for five days.
 
 তবে সার্ব্বভৌম করে আর নিবেদন ৷  
 তোমার সঙ্গে সন্ন্যাসী আছে দশজন ॥ ১৯৩ ॥
 
 tabe sārvabhauma kare āra nivedana  
-tomāra saṅge sannyāsī āche daśajana
+then  Sārvabhauma  makes  another  petition  
+tomāra saṅge sannyāsī āche daśajana  
+You  with  sannyāsīs  there are  ten persons
 
-(193) [not yet translated]
+(193) Then Sārvabhauma made another request: “Ten *sannyāsīs* are with You.
 
 পুরী-গোসাঞির ভিক্ষা পাঁচদিন মোর ঘরে ৷  
 পূর্ব্বে আমি কহিয়াছোঁ তোমার গোচরে ॥ ১৯৪ ॥
 
 purī-gosāñira bhikṣā pāṅca-dina mora ghare  
-pūrve āmi kahiyāchoṅ tomāra gocare
+of Purī Gosāñi  the meals  five days  in my  house  
+pūrve āmi kahiyāchoṅ tomāra gocare  
+before  I  have told  Your  to notice
 
-(194) [not yet translated]
+(194) “I have already told You that Purī Gosāñi will take his meals at my house for five days.
 
 দামোদর-স্বরূপ, — এই বান্ধব আমার ৷  
 কভু তোমার সঙ্গে যাবে কভু একেশ্বর ॥ ১৯৫ ॥
 
 dāmodara-svarūpa, — ei bāndhava āmāra  
-kabhu tomāra saṅge yābe kabhu ekeśvara
+Dāmodara Svarūpa  this  friend  mine  
+kabhu tomāra saṅge yābe kabhu ekeśvara  
+sometimes  You  with  he will come  sometimes  alone
 
-(195) [not yet translated]
+(195) “Svarūpa Dāmodara is my friend: he will come sometimes with You and sometimes alone.
 
 আর অষ্ট সন্ন্যাসীর ভিক্ষা দুই দুই দিবসে ৷  
 এক একদিন এক এক জনে পূর্ণ হৈল মাসে ॥ ১৯৬ ॥
 
 āra aṣṭa sannyāsīra bhikṣā dui dui divase  
-eka ekadina eka eka jane pūrṇa haila māse
+the other  eight  sannyāsīs’  meals  two  two  days  
+eka ekadina eka eka jane pūrṇa haila māse  
+one  a day  one  one  person  full  became  the month
 
-(196) [not yet translated]
+(196) “The other eight *sannyāsīs* will take their meals with me for two days each, one person each day. In this way the month will be filled.
 
 বহুত সন্ন্যাসী যদি আইসে এক ঠাঞি ৷  
 সম্মান করিতে নারি, অপরাধ পাই ॥ ১৯৭ ॥
 
 bahuta sannyāsī yadi āise eka ṭhāñi  
-sammāna karite nāri, aparādha pāi
+many  sannyāsīs  if  come  to one  place  
+sammāna karite nāri, aparādha pāi  
+honour  to give  I cannot  offence  I incur
 
-(197) [not yet translated]
+(197) “If many *sannyāsīs* come at once, I will not be able to honour them properly and will commit an offence.
 
 তুমিহ নিজ-ছায়ে আসিবে মোর ঘরে ৷  
 কভু সঙ্গে আসিবেন স্বরূপ-দামোদরে ॥ ১৯৮ ॥
 
 tumiha nija-chāye āsibe mora ghare  
-kabhu saṅge āsibena svarūpa-dāmodare
+You Yourself  with Your own shadow  will come  to my  house  
+kabhu saṅge āsibena svarūpa-dāmodare  
+sometimes  with You  will come  Svarūpa Dāmodara
 
-(198) [not yet translated]
+(198) “You should come to my house alone, with only Your own shadow, and sometimes Svarūpa Dāmodara will come with You.”
 
 প্রভুর ইঙ্গিত পাঞা আনন্দিত মন ৷  
 সেই দিন মহাপ্রভুর কৈল নিমন্ত্রণ ॥ ১৯৯ ॥
 
 prabhura iṅgita pāñā ānandita mana  
-sei dina mahāprabhura kaila nimantraṇa
+of the Lord  the sign  receiving  joyful  mind  
+sei dina mahāprabhura kaila nimantraṇa  
+that  day  Mahāprabhu  made  invitation
 
-(199) [not yet translated]
+(199) Receiving the Lord’s sign of consent, Sārvabhauma was delighted, and that same day he invited Mahāprabhu.
 
 ‘ষাঠীর মাতা’ নাম, ভট্টাচার্য্যের গৃহিণী ৷  
 প্রভুর মহাভক্ত তিঁহো, স্নেহেতে জননী ॥ ২০০ ॥
 
 ‘ṣāṭhīra mātā’ nāma, bhaṭṭācāryera gṛhiṇī  
-prabhura mahā-bhakta tiṅho, snehete jananī
+“Ṣāṭhī’s mother”  by name  of the Bhaṭṭācārya  the wife  
+prabhura mahā-bhakta tiṅho, snehete jananī  
+of the Lord  a great devotee  she  in affection  a mother
 
-(200) [not yet translated]
+(200) The Bhaṭṭācārya’s wife, known as Ṣāṭhī’s mother, was a great devotee of the Lord and loved Him like a mother.
 
 ঘরে আসি’ ভট্টাচার্য্য তাঁরে আজ্ঞা দিল ৷  
 আনন্দে ষাঠীর মাতা পাক চড়াইল ॥ ২০১ ॥
 
 ghare āsi’ bhaṭṭācārya tāṅre ājñā dila  
-ānande ṣāṭhīra mātā pāka caḍāila
+home  coming  the Bhaṭṭācārya  to her  order  gave  
+ānande ṣāṭhīra mātā pāka caḍāila  
+in joy  Ṣāṭhī’s  mother  cooking  set going
 
-(201) [not yet translated]
+(201) Coming home, the Bhaṭṭācārya told her the news, and Ṣāṭhī’s mother joyfully began to cook.
 
 ভট্টাচার্য্যের গৃহে সব দ্রব্য আছে ভরি’ ৷  
 যেবা শাকফলাদিক, আনিল আহরি’ ॥ ২০২ ॥
 
 bhaṭṭācāryera gṛhe saba dravya āche bhari’  
-yebā śāka-phalādika, ānila āhari’
+of the Bhaṭṭācārya  in the house  all  provisions  are  in plenty  
+yebā śāka-phalādika, ānila āhari’  
+whatever  greens, fruits and so on  he brought  collecting
 
-(202) [not yet translated]
+(202) The Bhaṭṭācārya’s house was well stocked with every provision; whatever greens, fruits and other things were needed, he gathered and brought.
 
 আপনি ভট্টাচার্য্য করে পাকের সব মর্ম্ম ৷  
 ষাঠীর মাতা — বিচক্ষণা, জানে পাকের কর্ম্ম ॥ ২০৩ ॥
 
 āpani bhaṭṭācārya kare pākera saba marma  
-ṣāṭhīra mātā — vicakṣaṇā, jāne pāka karma
+himself  the Bhaṭṭācārya  does  of the cooking  all  the essentials  
+ṣāṭhīra mātā — vicakṣaṇā, jāne pāka karma  
+Ṣāṭhī’s  mother  skilled  knows  of cooking  the work
 
-(203) [not yet translated]
+(203) The Bhaṭṭācārya himself saw to all the finer points of the cooking, and Ṣāṭhī’s mother was skilled and knew the work of cooking well.
 
 পাকশালার দক্ষিণে — দুই ভোগালয় ৷  
 এক-ঘরে শালগ্রামের ভোগ-সেবা হয় ॥ ২০৪ ॥
 
 pāka-śālāra dakṣiṇe — dui bhogālaya  
-eka-ghare śālagrāmera bhoga-sevā haya
+of the kitchen  to the south  two  rooms for offering  
+eka-ghare śālagrāmera bhoga-sevā haya  
+in one room  of the Śālagrāma  the offering of food  is done
 
-(204) [not yet translated]
+(204) To the south of the kitchen were two rooms for offering food. In one of them food was offered to Nārāyaṇa in His form as the Śālagrāma.
 
 আর ঘর মহাপ্রভুর ভিক্ষার লাগিয়া ৷  
 নিভৃতে করিয়াছে ভট্ট নূতন করিয়া ॥ ২০৫ ॥
 
 āra ghara mahāprabhura bhikṣāra lāgiyā  
-nibhṛte kariyāche bhaṭṭa nūtana kariyā
+the other  room  of Mahāprabhu  the meal  for the sake of  
+nibhṛte kariyāche bhaṭṭa nūtana kariyā  
+in a secluded place  had made  Bhaṭṭa  newly  making
 
-(205) [not yet translated]
+(205) The other room, in a secluded spot, Bhaṭṭa had newly built for Mahāprabhu’s meals.
 
 বাহ্যে এক দ্বার তার, প্রভু প্রবেশিতে ৷  
 পাকশালার এক দ্বার অন্ন পরিবেশিতে ॥ ২০৬ ॥
 
 bāhye eka dvāra tāra, prabhu praveśite  
-pāka-śālāra eka dvāra anna pariveśite
+outside  one  door  of it  for the Lord  to enter  
+pāka-śālāra eka dvāra anna pariveśite  
+of the kitchen  one  door  food  to serve
 
-(206) [not yet translated]
+(206) It had one door to the outside, for the Lord to enter, and one door from the kitchen, for serving the food.
 
 বত্তিশা-আঠিয়া কলার আঙ্গটিয়া পাতে ৷  
 তিন-মান তণ্ডুলের উভারিল ভাতে ॥ ২০৭ ॥
 
 battiśā-āṭhiyā kalāra āṅgaṭiyā pāte  
-tina-māna taṇḍulera ubhārila bhāte
+of the battiśā-āṭhiyā  banana  whole  on leaves  
+tina-māna taṇḍulera ubhārila bhāte  
+three mānas  of rice  heaped out  cooked rice
 
-(207) [not yet translated]
+(207) On a whole leaf of the *battiśā-āṭhiyā* banana they heaped out the cooked rice of three *mānas* of grain.
 
 পীত-সুগন্ধি-ঘৃতে অন্ন সিক্ত কৈল ৷  
 চারিদিকে পাতে ঘৃত বহিয়া চলিল ॥ ২০৮ ॥
 
 pīta-sugandhi-ghṛte anna sikta kaila  
-cāri-dike pāte ghṛta vahiyā calila
+with yellow fragrant ghee  the rice  soaked  made  
+cāri-dike pāte ghṛta vahiyā calila  
+on four sides  on the leaf  the ghee  flowing  went
 
-(208) [not yet translated]
+(208) The rice was soaked with fragrant yellow ghee, which ran over the leaf on all sides.
 
 কেয়াপত্র-কলাখোলা-ডোঙ্গা সারি সারি ৷  
 চারিদিকে ধরিয়াছে নানা ব্যঞ্জন ভরি’ ॥ ২০৯ ॥
 
 keyāpatra-kalākholā-ḍoṅgā sāri sāri  
-cāri-dike dhariyāche nānā vyañjana bhari’
+keyā-leaf and banana-bark cups  row  upon row  
+cāri-dike dhariyāche nānā vyañjana bhari’  
+on four sides  they placed  various  vegetables  filling
 
-(209) [not yet translated]
+(209) All around it, row upon row, cups of *keyā* leaves and banana bark were set out, filled with various vegetable dishes.
 
 দশপ্রকার শাক, নিম্ব-তিক্ত-সুকুত-ঝোল ৷  
 মরিচের ঝাল, ছানাবড়া, বড়া, ঘোল ॥ ২১০ ॥
 
 daśaprakāra śāka, nimba-tikta-sukuta-jhola  
-maricera jhāla, chānā-baḍā, baḍā, ghola
+ten kinds of  greens  bitter-with-nim sukuta soup  
+maricera jhāla, chānā-baḍā, baḍā, ghola  
+of pepper  the jhāla  chānā baḍās  baḍās  buttermilk
 
-(210) [not yet translated]
+(210) There were ten kinds of greens, a bitter *sukuta* soup with *nim*, a peppery *jhāla*, *chānā-baḍās*, *baḍās* and buttermilk.
 
 দুগ্ধতুম্বী, দুগ্ধ কুষ্মাণ্ড, বেসর, লাফ্রা ৷  
 মোচাঘণ্ট, মোচাভাজা, বিবিধ শাক্রা ॥ ২১১ ॥
 
 dugdha-tumbī, dugdha kuṣmāṇḍa, vesara, lāphrā  
-mocā-ghaṇṭa, mocā-bhājā, vividha śākrā
+bottle gourd in milk  in milk  pumpkin  vesara  lāphrā  
+mocā-ghaṇṭa, mocā-bhājā, vividha śākrā  
+banana-flower ghaṇṭa  fried banana flowers  various  śākrā
 
-(211) [not yet translated]
+(211) There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.
 
 বৃদ্ধ কুষ্মাণ্ডবড়ীর ব্যঞ্জন অপার ৷  
 ফুলবড়ী-ফল-মূল বিবিধ প্রকার ॥ ২১২ ॥
