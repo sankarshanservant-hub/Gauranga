@@ -4,7 +4,7 @@
 
 > Subheading: Gaurasundara makes His own reviler Amogha His own —
 
-**gauraḥ** **sārvabhauma-gṛhe** (in the house of the Bhaṭṭācārya) **bhuñjan** (accepting a meal) **sva-nindakam** (the one who reviled Him) **amoghakam** (named Amogha, the husband of Ṣaṣṭhī, Sārvabhauma's daughter) **aṅgī-kūrvan** (counting among His servants) **svāṁ** (His own) **bhakta-vaśyatām** (subjection to those who follow Him) **sphuṭāṁ** (manifest) **cakre** (made).
+**gauraḥ** **sārvabhauma-gṛhe** (in the house of the Bhaṭṭācārya) **bhuñjan** (accepting a meal) **sva-nindakam** (the one who reviled Him) **amoghakam** (named Amogha, the husband of Ṣāṭhī, Sārvabhauma's daughter) **aṅgī-kūrvan** (counting among His servants) **svāṁ** (His own) **bhakta-vaśyatām** (subjection to those who follow Him) **sphuṭāṁ** (manifest) **cakre** (made).
 
 ## 3
 
