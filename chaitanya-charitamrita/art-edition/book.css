@@ -1,4 +1,4 @@
-/* Художественное издание ЧЧ · A4 портрет (210×297), разворот = 420×297 */
+/* Художественное издание ЧЧ · A4 портрет (210×297), две колонки; разворот = 420×297 */
 @font-face { font-family: 'Gentium'; src: url('fonts/GentiumBookPlus-Regular.ttf'); font-weight: 400; font-style: normal; }
 @font-face { font-family: 'Gentium'; src: url('fonts/GentiumBookPlus-Italic.ttf'); font-weight: 400; font-style: italic; }
 @font-face { font-family: 'Gentium'; src: url('fonts/GentiumBookPlus-Bold.ttf'); font-weight: 700; font-style: normal; }
@@ -7,77 +7,102 @@
 @font-face { font-family: 'Cormorant'; src: url('fonts/CormorantGaramond-Italic-VF.ttf'); font-weight: 300 700; font-style: italic; }
 @font-face { font-family: 'NotoBn'; src: url('fonts/NotoSerifBengali-VF.ttf'); font-weight: 100 900; }
 
-:root {
-  --paper: #f6efdd; --ink: #2b2118; --indigo: #2d2870; --gold: #a9741c; --gold2: #d9a64a; --muted: #75654f;
-  --night: #120e33;
-}
+:root { --paper: #f7f1e3; --ink: #251d15; --indigo: #2b2672; --gold: #a06d18; --gold2: #d9a64a; --muted: #6f604b; --rose: #8a3f55; --night: #120e33; }
 @page { size: 210mm 297mm; margin: 0; }
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; background: #888; }
 body { font-family: 'Gentium', serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-.page { width: 210mm; height: 297mm; position: relative; overflow: hidden; background: var(--paper);
-  page-break-after: always; break-after: page; }
-.page:last-child { page-break-after: auto; break-after: auto; }
+.page { width: 210mm; height: 297mm; position: relative; overflow: hidden; background: var(--paper); break-after: page; }
+.page:last-child { break-after: auto; }
 .layer { position: absolute; left: 0; top: 0; width: 100%; height: 100%; }
-.frame { position: absolute; }
+.col { position: absolute; }
 
 /* колонтитулы */
-.rh { position: absolute; top: 11mm; font-family: 'Cormorant', serif; font-size: 8.2pt; letter-spacing: .2em; text-transform: uppercase;
+.rh { position: absolute; top: 10.5mm; font-family: 'Cormorant', serif; font-size: 8pt; letter-spacing: .2em; text-transform: uppercase;
   color: var(--muted); font-weight: 500; white-space: nowrap; }
-.rh b { color: var(--gold); font-weight: 600; letter-spacing: .1em; }
-.rh.l { left: 19mm; } .rh.r { right: 19mm; text-align: right; }
-.rhline { position: absolute; top: 17mm; height: 0; border-top: .25mm solid rgba(169,116,28,.45); }
+.rh b { color: var(--gold); font-weight: 600; letter-spacing: .08em; font-size: 9pt; }
+.rh.l { left: 17mm; } .rh.r { right: 17mm; text-align: right; }
+.rhline { position: absolute; top: 15.5mm; border-top: .25mm solid rgba(160,109,24,.45); }
+.rh, .vh span, .lbl, .cap, .op .kick, .op .glava, .sumh { font-variant-ligatures: none; font-kerning: none; font-variant-numeric: lining-nums; }
 
 /* стих */
-.verse { margin: 0 0 7.5mm; position: relative; }
-.vhead { display: flex; align-items: center; justify-content: center; gap: 3.5mm; margin: 0 0 2.6mm; color: var(--gold); }
-.vhead i { flex: 0 1 26mm; height: 0; border-top: .25mm solid currentColor; opacity: .55; }
-.vhead b { font-family: 'Cormorant', serif; font-weight: 700; font-size: 12.5pt; letter-spacing: .06em; position: relative; padding: 0 2.2mm; }
-.vhead b::before, .vhead b::after { content: ''; position: absolute; top: 50%; width: 1.5mm; height: 1.5mm; background: currentColor;
-  transform: translateY(-50%) rotate(45deg); }
-.vhead b::before { left: -2mm; } .vhead b::after { right: -2mm; }
-.bn { text-align: center; font-family: 'NotoBn', serif; font-size: 12.6pt; line-height: 1.62; color: var(--indigo); font-weight: 450; }
-.bn div { white-space: nowrap; }
-.tl { text-align: center; font-style: italic; font-size: 9.7pt; line-height: 1.42; color: var(--muted); margin: 1.6mm 0 2.8mm; letter-spacing: .005em; }
-.tr { text-align: justify; hyphens: manual; -webkit-hyphens: manual; font-size: 11.4pt; line-height: 1.46; margin: 0; text-align-last: left; }
-.note { font-size: 8.6pt; line-height: 1.35; color: var(--muted); margin: 2mm 0 0; border-top: .2mm solid rgba(117,101,79,.4); padding-top: 1.2mm; }
-.fig { display: block; }
+.vcore { margin: 0 0 2.2mm; position: relative; }
+.sub { font-style: italic; font-size: 9.6pt; line-height: 1.3; text-align: center; color: var(--rose); margin: 1mm 3mm 2.2mm; }
+.vh { display: flex; align-items: center; gap: 2.4mm; color: var(--gold); margin: 0 0 2mm; }
+.vh::before, .vh::after { content: ''; flex: 1; border-top: .22mm solid currentColor; opacity: .5; }
+.vh span { font-family: 'Cormorant', serif; font-weight: 700; font-size: 10.6pt; letter-spacing: .24em; text-transform: uppercase; padding: 0 1mm; }
+.bn { font-family: 'NotoBn', serif; font-size: 11.2pt; line-height: 1.55; color: var(--indigo); font-weight: 500; margin-left: 3mm; }
+.bn div { padding-left: 4mm; text-indent: -4mm; }
+.tl { font-style: italic; font-size: 9.6pt; line-height: 1.36; color: var(--muted); margin: 1.2mm 0 2mm 3mm; }
+.tl div { padding-left: 4mm; text-indent: -4mm; }
+.tr { font-weight: 700; font-size: 10.1pt; line-height: 1.38; margin: 0; text-align: justify; hyphens: manual; text-align-last: left; }
+.note { font-size: 8.2pt; line-height: 1.3; color: var(--muted); margin: 1.4mm 0 0; }
+
+/* комментарий */
+.cm { font-size: 9.9pt; line-height: 1.37; margin: 0; text-align: justify; hyphens: manual; text-indent: 4mm; text-align-last: left; }
+.cm.first { margin-top: 2.2mm; text-indent: 0; }
+.cm.cont { text-indent: 0; }
+.split-a { text-align-last: justify !important; }
+.lbl { font-family: 'Cormorant', serif; font-weight: 700; font-size: 9.6pt; letter-spacing: .12em; text-transform: uppercase; color: var(--gold); }
+.cm.gloss { text-indent: 0; padding-left: 3mm; }
+.vend { height: 4.2mm; }
+
+/* краткое содержание */
+.sumh { text-align: center; font-family: 'Cormorant', serif; font-weight: 700; letter-spacing: .26em; text-transform: uppercase; color: var(--gold); font-size: 10.5pt; margin: 0 0 .6mm; }
+.sums { text-align: center; font-style: italic; font-size: 8.8pt; color: var(--muted); margin: 0 0 3mm; }
+.cm.drop { text-indent: 0; }
+.cm.drop::first-letter { font-family: 'Cormorant', serif; float: left; font-size: 37pt; line-height: .8; padding: 1.3mm 1.6mm 0 0; color: var(--indigo); font-weight: 600; }
+
+/* фигуры */
 .cut { position: relative; z-index: 2; }
 .cut.fl { float: left; } .cut.fr { float: right; }
-.arch { border: .8mm solid var(--gold2); border-radius: 999px 999px 0 0; overflow: hidden; background: var(--night);
-  box-shadow: 0 0 0 .5mm var(--paper), 0 0 0 .9mm var(--gold); }
+.arch { border: .7mm solid var(--gold2); border-radius: 999px 999px 0 0; overflow: hidden; background: var(--night);
+  box-shadow: 0 0 0 .5mm var(--paper), 0 0 0 .85mm var(--gold); }
 .arch img { display: block; width: 100%; height: 100%; object-fit: cover; }
-.cap { font-family: 'Cormorant', serif; font-size: 8.4pt; letter-spacing: .16em; text-transform: uppercase; color: var(--gold); text-align: center; font-weight: 600; }
+.colfig { margin: 1.5mm 0 3.5mm; }
+.colfig img { width: 100%; display: block; }
+.cap { font-family: 'Cormorant', serif; font-size: 7.8pt; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); text-align: center; font-weight: 700; }
+.colfig .cap { margin-top: .8mm; }
 
 /* панорама */
 .pano { position: absolute; left: 0; bottom: 0; width: 210mm; overflow: hidden; }
 .pano img { position: absolute; bottom: 0; width: 420mm; display: block; }
 .pano .ext { position: absolute; left: 0; top: 0; width: 420mm; background-size: 100% 100%; }
 
-/* титул */
-.page.title { background: var(--night); color: #f1e6c8; }
-.title .sky { background: linear-gradient(180deg, #0b0828 0%, #1c1550 38%, #3a2a78 66%, #6a3f86 86%, #a35a78 100%); }
-.title .star { position: absolute; border-radius: 50%; background: #fff6d8; }
-.title .glow { position: absolute; border-radius: 50%; filter: blur(8mm); }
-.title .tt { position: absolute; left: 0; right: 0; top: 28mm; text-align: center; }
-.title .kick { font-family: 'Cormorant', serif; font-size: 12pt; letter-spacing: .38em; text-transform: uppercase; color: var(--gold2); font-weight: 600; }
-.title .lila { font-family: 'Cormorant', serif; font-style: italic; font-size: 22pt; margin-top: 3mm; color: #f1e6c8; }
-.title .orn { display: flex; align-items: center; justify-content: center; gap: 4mm; margin: 9mm auto 8mm; color: var(--gold2); }
-.title .orn i { width: 34mm; border-top: .3mm solid currentColor; opacity: .7; }
-.title .orn s { width: 2.6mm; height: 2.6mm; background: currentColor; transform: rotate(45deg); display: block; }
-.title .glava { font-family: 'Cormorant', serif; letter-spacing: .32em; text-transform: uppercase; font-size: 15pt; color: var(--gold2); font-weight: 600; }
-.title .name { font-family: 'Cormorant', serif; font-weight: 600; font-size: 40pt; line-height: 1.04; margin: 5mm 18mm 0; color: #fff3d2; text-shadow: 0 0 6mm rgba(255,200,110,.35); }
-.title .by { font-family: 'Gentium', serif; font-style: italic; font-size: 11pt; margin-top: 8mm; color: #d8cba8; }
-.title .ground { position: absolute; left: -20mm; right: -20mm; bottom: -22mm; height: 60mm; border-radius: 50% 50% 0 0 / 100% 100% 0 0; background: radial-gradient(ellipse at 50% 0%, #2e2a6c 0%, #17123f 70%); }
+/* открытие главы */
+.op { position: absolute; left: 0; top: 0; width: 210mm; overflow: hidden; color: #f1e6c8; }
+.op .sky { position: absolute; inset: 0; background: linear-gradient(180deg, #0b0828 0%, #1c1550 40%, #3a2a78 72%, #6a3f86 92%, #8e4f80 100%); }
+.op .star, .banner .star { position: absolute; border-radius: 50%; background: #fff6d8; }
+.op .glow { position: absolute; border-radius: 50%; filter: blur(6mm); }
+.op .tt { position: absolute; left: 0; right: 0; top: 14mm; text-align: center; }
+.op .kick { font-family: 'Cormorant', serif; font-size: 10.5pt; letter-spacing: .36em; text-transform: uppercase; color: var(--gold2); font-weight: 600; }
+.op .lila { font-family: 'Cormorant', serif; font-style: italic; font-size: 17pt; margin-top: 1mm; }
+.op .glava { font-family: 'Cormorant', serif; letter-spacing: .3em; text-transform: uppercase; font-size: 11.5pt; color: var(--gold2); font-weight: 600; margin-top: 5mm; }
+.op .name { font-family: 'Cormorant', serif; font-weight: 600; font-size: 31pt; line-height: 1.05; margin-top: 1.5mm; color: #fff3d2; text-shadow: 0 0 5mm rgba(255,200,110,.35); }
+.op .by { font-style: italic; font-size: 9.5pt; margin-top: 2mm; color: #d8cba8; }
+.op .ground { position: absolute; left: -20mm; right: -20mm; height: 34mm; border-radius: 50% 50% 0 0 / 100% 100% 0 0; background: radial-gradient(ellipse at 50% 0%, #2e2a6c 0%, #17123f 75%); }
+.op .edge, .banner .edge { position: absolute; left: 0; right: 0; bottom: 0; height: .9mm; background: var(--gold2); }
 
-/* светлый текст на тёмных страницах */
-.dark .verse { color: #f1e6c8; }
-.dark .bn { color: #ffe9b8; } .dark .tl { color: #cdbfe0; } .dark .vhead { color: var(--gold2); }
-.dark .tr { text-shadow: 0 .2mm 1.2mm rgba(10,6,40,.8); }
-.scrim { background: linear-gradient(180deg, rgba(14,10,46,.88) 0%, rgba(14,10,46,.78) 38%, rgba(14,10,46,0) 62%); }
+/* полосы-сцены */
+.band { position: absolute; overflow: hidden; }
+.band img { position: absolute; display: block; }
+.band .halo { position: absolute; border-radius: 50%; }
+.banner .bg { position: absolute; inset: 0; background: linear-gradient(180deg, #14103a 0%, #2d2478 60%, #6a4a98 100%); }
+.goswamis { border-radius: 2mm; background: linear-gradient(180deg, #efe6f3 0%, #cdbde6 45%, #7c6cc0 82%, #3a3388 100%);
+  box-shadow: inset 0 0 0 .3mm rgba(160,109,24,.6); }
+.goswamis .cap { position: absolute; color: #ffe9b8; }
+.lightrh .rh { color: #d8cba8; } .lightrh .rh b { color: var(--gold2); } .lightrh .rhline { display: none; }
 
-/* сцена шести Госвами */
-.stage { position: absolute; left: 0; bottom: 0; width: 210mm; overflow: hidden; }
-.halo { position: absolute; border-radius: 50%; }
-.stage img { position: absolute; display: block; }
+/* финальная полностраничная иллюстрация */
+.page.final { background: var(--night); }
+.final .scrim { background: linear-gradient(180deg, rgba(14,10,46,.88) 0%, rgba(14,10,46,.62) 27%, rgba(14,10,46,0) 47%); }
+.final .quote { position: absolute; left: 24mm; right: 24mm; top: 24mm; text-align: center; color: #f6ead0; }
+.hasfloat .bn div, .hasfloat .tl div { padding-left: 0; text-indent: 0; }
+.hasfloat .bn, .hasfloat .tl { margin-left: 0; }
+.final .quote .vh { color: var(--gold2); max-width: 90mm; margin: 0 auto 3mm; }
+.final .quote .tlq { font-style: italic; font-size: 10pt; color: #cdbfe0; margin-top: 2mm; line-height: 1.4; }
+.final .quote .qc { font-size: 9.6pt; line-height: 1.38; text-align: justify; margin: 2mm 0 0; text-shadow: 0 .2mm 1.2mm rgba(10,6,40,.9); }
+.final .quote .bnq { font-family: 'NotoBn', serif; font-size: 13pt; color: #ffe2a6; line-height: 1.6; }
+.final .quote .ruq { font-family: 'Cormorant', serif; font-style: italic; font-size: 17pt; line-height: 1.3; margin-top: 4mm; text-shadow: 0 .3mm 2mm rgba(0,0,0,.6); }
+.final .quote .src { display:none;  font-family: 'Cormorant', serif; letter-spacing: .25em; text-transform: uppercase; font-size: 8.5pt; color: var(--gold2); margin-top: 3mm; }

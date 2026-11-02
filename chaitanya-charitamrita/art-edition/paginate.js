@@ -1,223 +1,327 @@
-/* Постраничная вёрстка в браузере: стихи по одному заливаются во фрейм страницы, пока не переполнят его.
-   Специальные директивы плана: spread (панорама на двух страницах), float (вырезная фигура с обтеканием),
-   page (страница со сценой), break. Чётность: стр. 1 — правая (recto), далее чередование. */
+/* Вёрстка в браузере: две колонки на странице A4. Поток блоков (ядро стиха, абзацы комментария, рисунки)
+   заливается в колонки по очереди; абзацы и перевод стиха переносятся между колонками (не менее 2 строк с каждой
+   стороны). Иллюстрации-«якоря» (панорама на развороте, полосы-сцены) привязаны к номеру стиха: вёрстка
+   повторяется несколько проходов, пока стих и его иллюстрация не окажутся на одном развороте/странице.
+   Стр. 1 — правая (recto). */
 const MM = 96 / 25.4;
-const G = { W: 210, H: 297, top: 25, bot: 26, inner: 26, outer: 19 };
+const G = { top: 20, bot: 17, inner: 21, outer: 17, gap: 7 };
 const P = DATA.profiles;
 const root = document.getElementById('book');
-const pages = [];
-const log = [];
-let cur = null, pendingSpread = null, spreadRight = null, pendingFloats = [];
+let pages, log, cur, deferred, versePage, CFG;
 
-const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const el = (tag, cls, html) => { const e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; };
 const sideOf = i => (i % 2 === 0 ? 'recto' : 'verso');
 const A = f => `art/${f}`;
-
 function rng(seed) { return () => { seed |= 0; seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+function img(src, css) { const i = el('img', ''); i.src = src; if (css) i.style.cssText = css; return i; }
 
 function poly(name, side) {
-  const p = P[name], n = p.L.length, pts = [];
-  if (side === 'fl') {
-    pts.push('0% 0%');
-    for (let i = 0; i < n; i++) { const y0 = i / n * 100, y1 = (i + 1) / n * 100, x = p.R[i] * 100; pts.push(`${x.toFixed(2)}% ${y0.toFixed(2)}%`, `${x.toFixed(2)}% ${y1.toFixed(2)}%`); }
-    pts.push('0% 100%');
-  } else {
-    pts.push('100% 0%');
-    for (let i = 0; i < n; i++) { const y0 = i / n * 100, y1 = (i + 1) / n * 100, x = p.L[i] * 100; pts.push(`${x.toFixed(2)}% ${y0.toFixed(2)}%`, `${x.toFixed(2)}% ${y1.toFixed(2)}%`); }
-    pts.push('100% 100%');
+  const p = P[name], n = p.L.length, pts = [side === 'fl' ? '0% 0%' : '100% 0%'];
+  for (let i = 0; i < n; i++) {
+    const y0 = (i / n * 100).toFixed(2), y1 = ((i + 1) / n * 100).toFixed(2), x = ((side === 'fl' ? p.R[i] : p.L[i]) * 100).toFixed(2);
+    pts.push(`${x}% ${y0}%`, `${x}% ${y1}%`);
   }
+  pts.push(side === 'fl' ? '0% 100%' : '100% 100%');
   return `polygon(${pts.join(',')})`;
 }
 
-/* ---------- декор специальных страниц ---------- */
-function titlePage(page) {
-  const sky = el('div', 'layer sky'); page.el.appendChild(sky);
+/* ---------------- декор ---------------- */
+function opener(page) {
+  const H = 150;
+  const b = el('div', 'op'); b.style.height = H + 'mm';
+  b.appendChild(el('div', 'sky'));
   const r = rng(7);
-  for (let i = 0; i < 170; i++) {
-    const s = el('div', 'star'); const sz = 0.25 + r() * 0.75 * (r() < .1 ? 2 : 1);
-    s.style.cssText = `left:${(r() * 100).toFixed(2)}%;top:${(r() * 62).toFixed(2)}%;width:${sz}mm;height:${sz}mm;opacity:${(.35 + r() * .65).toFixed(2)}`;
-    page.el.appendChild(s);
+  for (let i = 0; i < 120; i++) {
+    const s = el('div', 'star'); const sz = 0.25 + r() * 0.7;
+    s.style.cssText = `left:${(r() * 100).toFixed(2)}%;top:${(r() * 70).toFixed(2)}%;width:${sz}mm;height:${sz}mm;opacity:${(.3 + r() * .6).toFixed(2)}`;
+    b.appendChild(s);
   }
-  // тёплое свечение факелов
-  [[ 34, 150, 60, 'rgba(255,170,70,.55)' ], [ 112, 142, 70, 'rgba(255,150,60,.5)' ], [ 168, 150, 55, 'rgba(255,170,90,.45)' ], [ 105, 175, 130, 'rgba(255,120,120,.22)' ]].forEach(([x, y, d, c]) => {
-    const g = el('div', 'glow'); g.style.cssText = `left:${x - d / 2}mm;top:${y - d / 2}mm;width:${d}mm;height:${d}mm;background:${c}`; page.el.appendChild(g);
+  const w = 150, h = w / P.nab_devotees.aspect, x = (210 - w) / 2, top = H - 8 - h;
+  // свечение факелов (доли ширины/высоты рисунка, измерено по картинке)
+  [[0.29, 0.07, 30, 'rgba(255,170,70,.8)'], [0.70, 0.13, 28, 'rgba(255,170,70,.75)'], [0.5, 0.55, 120, 'rgba(255,130,150,.16)']].forEach(([fx, fy, d, c]) => {
+    const g = el('div', 'glow'); g.style.cssText = `left:${x + fx * w - d / 2}mm;top:${top + fy * h - d / 2}mm;width:${d}mm;height:${d}mm;background:${c}`; b.appendChild(g);
   });
-  page.el.appendChild(el('div', 'ground'));
-  const asp = P.nab_devotees.aspect, w = 200, h = w / asp;
-  const im = el('img', ''); im.src = A('nab_devotees.png'); im.style.cssText = `position:absolute;left:5mm;width:${w}mm;bottom:19mm;`;
-  page.el.appendChild(im);
+  const gr = el('div', 'ground'); gr.style.top = (H - 18) + 'mm'; b.appendChild(gr);
+  b.appendChild(img(A('nab_devotees.png'), `position:absolute;left:${x}mm;top:${top}mm;width:${w}mm;aspect-ratio:${P.nab_devotees.aspect}`));
   const m = DATA.meta;
-  page.el.appendChild(el('div', 'tt', `<div class="kick">${m.book}</div><div class="lila">${m.lila}</div>
-    <div class="orn"><i></i><s></s><i></i></div><div class="glava">${m.chapter}</div><div class="name">${m.title}</div><div class="by">${m.by}</div>`));
+  b.appendChild(el('div', 'tt', `<div class="kick">${m.book}</div><div class="lila">${m.lila}</div><div class="glava">${m.chapter}</div><div class="name">${m.title}</div><div class="by">${m.by}</div>`));
+  b.appendChild(el('div', 'edge'));
+  page.el.appendChild(b);
+  return H;
 }
 
-function goswamisStage(page, H) {
-  const st = el('div', 'stage'); st.style.height = H + 'mm';
-  st.style.background = 'linear-gradient(180deg, rgba(246,239,221,0) 0%, #e4d7ee 22%, #b9a6dc 52%, #6f5fb8 82%, #2d2870 100%)';
-  const figs = [
-    { f: 'rupa_sanatana', h: 56, x: 9, y: 82, cap: 'Рупа и Санатана', halo: '#ffe2a8' },
-    { f: 'gopal_bhatta', h: 62, x: 150, y: 80, cap: 'Гопала Бхатта', halo: '#ffd9c8' },
-    { f: 'raghunath_bhatta', h: 56, x: 30, y: 16, cap: 'Рагхунатха Бхатта', halo: '#d6e6ff' },
-    { f: 'raghunath_jiva', h: 50, x: 103, y: 14, cap: 'Рагхунатха дас и Джива', halo: '#ffe2a8' },
-  ];
-  figs.forEach(o => {
-    const w = o.h * P[o.f].aspect;
-    const hl = el('div', 'halo'); const d = Math.max(w, o.h) * 1.15;
-    hl.style.cssText = `left:${o.x + w / 2 - d / 2}mm;bottom:${o.y + o.h / 2 - d / 2}mm;width:${d}mm;height:${d}mm;background:radial-gradient(circle, ${o.halo}cc 0%, ${o.halo}00 68%)`;
-    st.appendChild(hl);
-    const im = el('img', ''); im.src = A(o.f + '.png'); im.style.cssText = `left:${o.x}mm;bottom:${o.y}mm;height:${o.h}mm;filter:drop-shadow(0 1.2mm 1.6mm rgba(30,20,80,.35))`;
-    st.appendChild(im);
-    const c = el('div', 'cap', o.cap); c.style.cssText = `position:absolute;left:${o.x + w / 2 - 28}mm;width:56mm;bottom:${o.y - 7}mm;color:#ffe9b8`;
-    st.appendChild(c);
-  });
-  page.el.appendChild(st);
-}
-
-function panoDecor(page, cfg, half) {
-  const asp = P[cfg.pan].aspect, imgH = 420 / asp;
-  const bandH = Math.max(cfg.band || 0, imgH);
+function panoDecor(page, c) {
+  const asp = P[c.pan].aspect, imgH = 420 / asp, bandH = Math.max(c.band || 0, imgH);
   const box = el('div', 'pano'); box.style.height = bandH + 'mm';
-  const off = half === 'l' ? 0 : -210;
-  if (bandH - imgH > 0.5) {
-    const ex = el('div', 'ext'); ex.style.cssText = `height:${bandH - imgH + 0.4}mm;left:${off}mm;background-image:url(${A(cfg.pan + '_ext.png')})`; box.appendChild(ex);
-  }
-  const im = el('img', ''); im.src = A(cfg.pan + '.jpg'); im.style.left = off + 'mm'; box.appendChild(im);
+  const off = c.half === 'l' ? 0 : -210;
+  if (bandH - imgH > 0.5) { const ex = el('div', 'ext'); ex.style.cssText = `height:${bandH - imgH + 0.4}mm;left:${off}mm;background-image:url(${A(c.pan + '_ext.png')})`; box.appendChild(ex); }
+  box.appendChild(img(A(c.pan + '.jpg'), `left:${off}mm`));
   page.el.appendChild(box);
   return bandH;
 }
 
-/* ---------- страницы ---------- */
-function makePage(o = {}) {
-  const idx = pages.length, sd = sideOf(idx);
-  const dark = o.profile === 'finale';
-  const e = el('div', 'page ' + (o.kind || 'text') + ' ' + sd + (dark ? ' dark' : ''));
-  const pg = { el: e, idx, side: sd, kind: o.kind || 'text', verses: [], reserve: 0, maxV: o.maxV || 99, profile: o.profile || null, tag: [] };
-  root.appendChild(e); pages.push(pg);
-  if (o.kind === 'title') { titlePage(pg); return pg; }
-  let reserve = 0;
-  if (o.spread) { reserve = panoDecor(pg, o.spread.cfg, o.spread.half) + 7; pg.tag.push('pano:' + o.spread.cfg.pan + ':' + o.spread.half); }
-  if (o.profile === 'goswamis') { goswamisStage(pg, 168); reserve = 168 - 8; pg.tag.push('goswamis'); }
-  if (o.profile === 'finale') {
-    const bg = el('img', 'layer'); bg.src = A('full_kk_writer.jpg'); bg.style.cssText = 'object-fit:cover'; e.appendChild(bg);
-    e.appendChild(el('div', 'layer scrim')); reserve = 120; pg.tag.push('finale');
-  }
-  pg.reserve = reserve;
+function goswamisBand(page, left, width) {
+  const H = 76, bottom = G.bot;
+  const b = el('div', 'band goswamis'); b.style.cssText = `left:${left}mm;width:${width}mm;height:${H}mm;bottom:${bottom}mm`;
+  const figs = [
+    { f: 'rupa_sanatana', h: 50, cap: 'Рупа и Санатана' },
+    { f: 'raghunath_bhatta', h: 55, cap: 'Рагхунатха Бхатта' },
+    { f: 'gopal_bhatta', h: 53, cap: 'Гопала Бхатта' },
+    { f: 'raghunath_jiva', h: 47, cap: 'Рагхунатха дас и Джива' },
+  ];
+  let ws = figs.map(o => o.h * P[o.f].aspect), gap = 4;
+  let tot = ws.reduce((a, c) => a + c, 0) + gap * (figs.length - 1);
+  const k = Math.min(1, (width - 10) / tot); ws = ws.map(w => w * k); tot = tot * k;
+  let x = (width - tot) / 2;
+  figs.forEach((o, i) => {
+    const h = o.h * k, w = ws[i];
+    const hl = el('div', 'halo'); const d = Math.max(w, h) * 1.1;
+    hl.style.cssText = `left:${x + w / 2 - d / 2}mm;bottom:${11 + h / 2 - d / 2}mm;width:${d}mm;height:${d}mm;background:radial-gradient(circle, rgba(255,235,190,.75) 0%, rgba(255,235,190,0) 66%)`;
+    b.appendChild(hl);
+    b.appendChild(img(A(o.f + '.png'), `left:${x}mm;bottom:11mm;height:${h}mm;filter:drop-shadow(0 1mm 1.2mm rgba(30,20,80,.35))`));
+    const cw2 = Math.max(w + 4, 27); const c = el('div', 'cap', o.cap); c.style.cssText = `left:${x + w / 2 - cw2 / 2}mm;width:${cw2}mm;bottom:2mm;line-height:1.15;font-size:7pt`; b.appendChild(c);
+    x += w + gap * k;
+  });
+  page.el.appendChild(b);
+  return H + 5;
+}
+
+function vaishnavaBanner(page) {
+  const H = 58;
+  const b = el('div', 'band banner'); b.style.cssText = `left:0;top:0;width:210mm;height:${H}mm;overflow:visible`;
+  b.appendChild(el('div', 'bg'));
+  const r = rng(11);
+  for (let k = 0; k < 70; k++) { const s = el('div', 'star'); const sz = .3 + r() * .5; s.style.cssText = `left:${(r() * 100).toFixed(1)}%;top:${(r() * 34).toFixed(1)}mm;width:${sz}mm;height:${sz}mm;opacity:${(.3 + r() * .6).toFixed(2)}`; b.appendChild(s); }
+  b.appendChild(el('div', 'edge'));
+  const ids = ['va_1', 'vb_3', 'va_2', 'vb_6', 'va_4', 'vb_1'], hs = [41, 38, 44, 39, 42, 38];
+  const ws = ids.map((f, i) => hs[i] * P[f].aspect), gap = 1, tot = ws.reduce((a, c) => a + c, 0) + gap * 5;
+  let x = (210 - tot) / 2;
+  ids.forEach((f, i) => { b.appendChild(img(A(f + '.png'), `left:${x}mm;top:${H - hs[i] + 5}mm;height:${hs[i]}mm;filter:drop-shadow(0 1.2mm 1.2mm rgba(20,10,60,.45))`)); x += ws[i] + gap; });
+  page.el.appendChild(b); page.el.classList.add('lightrh');
+  return H + 9;
+}
+
+function finalPage() {
+  const idx = pages.length;
+  const e = el('div', 'page final ' + sideOf(idx)); root.appendChild(e);
+  pages.push({ el: e, idx, side: sideOf(idx), tag: ['final'], cols: [] });
+  e.appendChild(img(A('full_kk_writer.jpg'), 'position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover'));
+  e.appendChild(el('div', 'layer scrim'));
+  const v = DATA.verses[DATA.verses.length - 1];
+  e.appendChild(el('div', 'quote', `<div class="bnq">${v.bn.map(esc).join('<br>')}</div><div class="ruq">${v.tr.replace(/­/g, '')}</div><div class="src">${DATA.meta.lila} 1.${v.n}</div>`));
+}
+
+/* ---------------- страницы и колонки ---------------- */
+function makePage(idx) {
+  const sd = sideOf(idx);
+  const e = el('div', 'page ' + sd);
+  root.appendChild(e);
+  const pg = { el: e, idx, side: sd, tag: [], cols: [], colVerses: [[], []] };
+  pages.push(pg);
+  let top = G.top, bottom = G.bot, headers = true;
   const left = sd === 'recto' ? G.inner : G.outer, right = sd === 'recto' ? G.outer : G.inner;
-  const top = o.profile === 'finale' ? 30 : G.top;
-  const fr = el('div', 'frame'); fr.style.cssText = `left:${left}mm;right:${right}mm;top:${top}mm;bottom:${G.bot + reserve}mm`;
-  e.appendChild(fr); pg.frame = fr;
-  if (!dark) {
+  const width = 210 - left - right;
+  if (idx === 0) { top = opener(pg) + 6; headers = false; pg.tag.push('opener'); }
+  for (const d of (CFG[idx] || [])) {
+    if (d.type === 'pano') { bottom = G.bot - 8 + panoDecor(pg, d) + 6; pg.tag.push('pano:' + d.pan + ':' + d.half); }
+    if (d.type === 'goswamis') { bottom = G.bot + goswamisBand(pg, left, width); pg.tag.push('goswamis'); }
+    if (d.type === 'banner') { top = vaishnavaBanner(pg); pg.tag.push('banner'); }
+  }
+  const cw = (width - G.gap) / 2;
+  [left, left + cw + G.gap].forEach(l => {
+    const c = el('div', 'col'); c.style.cssText = `left:${l}mm;width:${cw}mm;top:${top}mm;bottom:${bottom}mm`; e.appendChild(c); pg.cols.push(c);
+  });
+  if (headers) {
     const n = idx + 1, m = DATA.meta;
     if (sd === 'verso') e.appendChild(el('div', 'rh l', `<b>${n}</b>&emsp;${m.book} · ${m.lila}`));
     else e.appendChild(el('div', 'rh r', `${m.chapter} · ${m.title}&emsp;<b>${n}</b>`));
-    const ln = el('div', 'rhline'); ln.style.cssText = `left:${G.outer}mm;right:${G.outer}mm;`; e.appendChild(ln);
+    const ln = el('div', 'rhline'); ln.style.cssText = `left:17mm;right:17mm`; e.appendChild(ln);
   }
   return pg;
 }
 
-function startTextPage() {
-  const idx = pages.length;
-  if (spreadRight) { const cfg = spreadRight; spreadRight = null; return makePage({ spread: { cfg, half: 'r' } }); }
-  if (pendingSpread && sideOf(idx) === 'verso') {
-    const cfg = pendingSpread; pendingSpread = null; spreadRight = cfg; return makePage({ spread: { cfg, half: 'l' } });
-  }
-  return makePage({});
-}
-
-function maxBottom(pg) {
-  let m = 0;
-  pg.frame.querySelectorAll('.verse, .cut').forEach(x => { m = Math.max(m, x.getBoundingClientRect().bottom); });
+function colBottom(c) { return c.getBoundingClientRect().bottom; }
+function contentBottom(c) {
+  let m = c.getBoundingClientRect().top;
+  c.querySelectorAll(':scope > *, .cut').forEach(x => { m = Math.max(m, x.getBoundingClientRect().bottom); });
   return m;
 }
-const frameBottom = pg => pg.frame.getBoundingClientRect().bottom;
-const overflows = pg => maxBottom(pg) > frameBottom(pg) + 0.6;
+const fits = c => contentBottom(c) <= colBottom(c) + 0.6;
 
-function finalize(pg, justify) {
-  if (!pg) return;
-  const vs = [...pg.frame.querySelectorAll(':scope > .verse')];
-  const left = (frameBottom(pg) - maxBottom(pg)) / MM;
-  pg.leftover = +left.toFixed(1);
-  if (justify && vs.length >= 2 && left > 1 && left < 60) {
-    const extra = Math.min(left / (vs.length - 1), 8);
-    vs.slice(0, -1).forEach(v => { v.style.marginBottom = (7.5 + extra) + 'mm'; });
-    pg.justified = +extra.toFixed(1);
-  }
+function justifyCol(c) {
+  const slack = (colBottom(c) - contentBottom(c)) / MM;
+  if (slack <= 0.5 || slack > 45) return;
+  const pts = [...c.querySelectorAll(':scope > .vend, :scope > .colfig')];
+  const last = c.lastElementChild; const usable = pts.filter(p => p !== last);
+  if (!usable.length) return;
+  const add = Math.min(slack / usable.length, 12);
+  usable.forEach(p => { if (p.classList.contains('vend')) p.style.height = (4.2 + add) + 'mm'; else p.style.marginBottom = (3.5 + add) + 'mm'; });
+  if (!fits(c)) usable.forEach(p => { p.style.height = ''; p.style.marginBottom = ''; });
 }
 
-function buildVerse(v, cfg) {
-  const e = el('section', 'verse');
-  e.dataset.n = v.n;
-  let h = `<div class="vhead"><i></i><b>${v.n}</b><i></i></div>
-    <div class="bn">${v.bn.map(l => `<div>${esc(l)}</div>`).join('')}</div>
-    <div class="tl">${v.tl.map(esc).join('<br>')}</div><p class="tr">${v.tr}</p>`;
-  if (v.note) h += `<p class="note">${esc(v.note)}</p>`;
-  e.innerHTML = h;
-  (cfg.floats || []).forEach(f => {
-    const side = f.side === 'right' ? 'fr' : 'fl';
-    let node;
-    if (f.arch) {
-      node = el('div', `cut arch ${side}`);
-      const im = el('img', ''); im.src = A(f.fig + '.jpg'); node.appendChild(im);
-      node.style.cssText = `width:${f.w}mm;height:${f.w / P[f.fig].aspect}mm;shape-outside:border-box;shape-margin:${f.sm ?? 5}mm;`;
+function nextCol() {
+  justifyCol(cur.col);
+  if (cur.ci === 0) cur = { page: cur.page, ci: 1, col: cur.page.cols[1] };
+  else { const pg = makePage(pages.length); cur = { page: pg, ci: 0, col: pg.cols[0] }; }
+  // отложенные рисунки — в начало новой колонки
+  const keep = [];
+  for (const b of deferred) { cur.col.appendChild(b.el); if (!fits(cur.col)) { cur.col.removeChild(b.el); keep.push(b); } }
+  deferred = keep;
+}
+
+/* разбиение HTML абзаца по словам с сохранением тегов */
+function tokens(html) { return html.match(/<[^>]+>|[^<\s]+|\s+/g) || []; }
+function cutHTML(tk, k) { // первые k слов | остальное
+  let words = 0, i = 0; const stack = [];
+  for (; i < tk.length; i++) {
+    const t = tk[i];
+    if (/^\s+$/.test(t)) { if (words >= k) break; continue; }
+    if (t[0] === '<') { if (t[1] === '/') stack.pop(); else if (!t.endsWith('/>')) stack.push(t); continue; }
+    words++;
+  }
+  const head = tk.slice(0, i).join('') + stack.slice().reverse().map(o => '</' + o.match(/^<(\w+)/)[1] + '>').join('');
+  const tail = stack.join('') + tk.slice(i + 1).join('');
+  return [head, tail];
+}
+const lineH = p => parseFloat(getComputedStyle(p).lineHeight);
+const linesOf = p => Math.round(p.getBoundingClientRect().height / lineH(p));
+
+function splitBlock(col, node, kind) {
+  const p = kind === 'core' ? node.querySelector('.tr') : node;
+  if (!p) return null;
+  const full = p.innerHTML, tk = tokens(full);
+  const nWords = tk.filter(t => !/^\s+$/.test(t) && t[0] !== '<').length;
+  const L = linesOf(p);
+  if (L < 4) return null;
+  const ok = k => { p.innerHTML = cutHTML(tk, k)[0]; return fits(col) && linesOf(p) >= 2 && linesOf(p) <= L - 2; };
+  let lo = 0, hi = nWords - 1;
+  while (lo < hi) { const mid = Math.ceil((lo + hi) / 2); if (ok(mid)) lo = mid; else hi = mid - 1; }
+  if (lo < 2 || !ok(lo)) { p.innerHTML = full; return null; }
+  const [head, tail] = cutHTML(tk, lo);
+  p.innerHTML = head; p.classList.add('split-a');
+  const rest = el('p', kind === 'core' ? 'tr cont' : 'cm cont', tail);
+  if (kind === 'core') {
+    const note = node.querySelector('.note');
+    if (note) { const wrap = el('div', 'vcore cont'); wrap.appendChild(rest); wrap.appendChild(note); return wrap; }
+  }
+  return rest;
+}
+
+function place(b) {
+  if (b.kind === 'gap') { if (!cur.col.children.length) return; cur.col.appendChild(b.el); if (!fits(cur.col)) cur.col.removeChild(b.el); return; }
+  if (b.kind === 'fig') { cur.col.appendChild(b.el); if (!fits(cur.col)) { cur.col.removeChild(b.el); deferred.push(b); } return; }
+  let node = b.el;
+  for (let g = 0; g < 12; g++) {
+    cur.col.appendChild(node);
+    const isStart = node === b.el;
+    if (fits(cur.col)) { if (isStart && b.v) mark(b.v); return; }
+    const rest = splitBlock(cur.col, node, isStart ? b.kind : 'para');
+    if (rest) { if (isStart && b.v) mark(b.v); nextCol(); node = rest; continue; }
+    cur.col.removeChild(node);
+    if (!cur.col.children.length) { log.push('не помещается в пустую колонку: ' + (b.v ? 'стих ' + b.v.n : b.kind)); cur.col.appendChild(node); if (isStart && b.v) mark(b.v); return; }
+    nextCol();
+  }
+}
+function mark(v) { versePage[v.n] = cur.page.idx; cur.page.colVerses[cur.ci].push(v.n); }
+
+/* ---------------- блоки ---------------- */
+function floatNode(f) {
+  const side = f.side === 'right' ? 'fr' : 'fl';
+  let node;
+  if (f.arch) {
+    node = el('div', `cut arch ${side}`); node.appendChild(img(A(f.fig + '.jpg')));
+    node.style.cssText = `width:${f.w}mm;height:${f.w / P[f.fig].aspect}mm;shape-outside:border-box;shape-margin:${f.sm ?? 3.5}mm;`;
+  } else {
+    node = img(A(f.fig + '.png'), `width:${f.w}mm;aspect-ratio:${P[f.fig].aspect};shape-outside:${poly(f.fig, side)} border-box;shape-margin:${f.sm ?? 3}mm;`);
+    node.className = `cut ${side}`;
+  }
+  node.style.marginTop = (f.mt ?? 0) + 'mm'; node.style.marginBottom = (f.mb ?? 1.5) + 'mm';
+  return node;
+}
+
+function buildBlocks() {
+  const out = [];
+  const S = DATA.summary;
+  if (S && S.length) {
+    out.push({ kind: 'head', el: el('div', '', `<div class="sumh">Краткое содержание главы</div><div class="sums">«Амрита-праваха-бхашья» Шрилы Бхактивиноды Тхакура</div>`) });
+    S.forEach((p, i) => out.push({ kind: 'para', el: el('p', 'cm' + (i === 0 ? ' drop' : ''), p) }));
+    out.push({ kind: 'gap', el: el('div', 'vend') });
+  }
+  const list = DATA.final ? DATA.verses.slice(0, -1) : DATA.verses;
+  for (const v of list) {
+    const core = el('section', 'vcore');
+    core.innerHTML = (v.sub ? `<div class="sub">${v.sub}</div>` : '') +
+      `<div class="vh"><span>Стих ${v.n}</span></div><div class="bn">${v.bn.map(l => `<div>${esc(l)}</div>`).join('')}</div>` +
+      `<div class="tl">${v.tl.map(l => `<div>${esc(l)}</div>`).join('')}</div><p class="tr">${v.tr}</p>` +
+      (v.note ? `<p class="note">${esc(v.note)}</p>` : '');
+    if (v.floats && v.floats.length) { core.classList.add('hasfloat'); const vh = core.querySelector('.vh'); v.floats.forEach(f => vh.after(floatNode(f))); }
+    out.push({ kind: 'core', el: core, v });
+    for (const c of (v.comm || [])) {
+      c.paras.forEach((p, i) => out.push({ kind: 'para', el: el('p', 'cm' + (i === 0 ? ' first' : '') + (c.gloss && c.gloss[i] ? ' gloss' : ''), (i === 0 ? `<span class="lbl">${c.label}.</span> ` : '') + p) }));
+    }
+    (v.figs || []).forEach(f => {
+      const d = el('div', 'colfig'); d.appendChild(img(A(f.fig + '.png'), `aspect-ratio:${P[f.fig].aspect}`));
+      if (f.cap) d.appendChild(el('div', 'cap', f.cap));
+      out.push({ kind: 'fig', el: d });
+    });
+    out.push({ kind: 'gap', el: el('div', 'vend') });
+  }
+  return out;
+}
+
+/* ---------------- проходы ---------------- */
+function layout() {
+  root.innerHTML = ''; pages = []; log = []; deferred = []; versePage = {};
+  const p0 = makePage(0); cur = { page: p0, ci: 0, col: p0.cols[0] };
+  for (const b of buildBlocks()) place(b);
+  let guard = 0; while (deferred.length && guard++ < 5) nextCol();
+  if (DATA.final) finalPage();
+}
+
+function decide(prev) {
+  const cfg = {}, used = new Set(), status = [];
+  for (const a of DATA.anchors) {
+    const p = versePage[a.verse];
+    if (a.type === 'spread') {
+      let L = prev.__a?.[a.id];
+      if (!(L != null && (p === L || p === L + 1))) L = p % 2 === 1 ? p : p - 1;
+      if (L < 1) L = 1;
+      while (used.has(L) || used.has(L + 1)) L += 2;
+      used.add(L); used.add(L + 1);
+      (cfg[L] ||= []).push({ type: 'pano', pan: a.pan, band: a.band, half: 'l' });
+      (cfg[L + 1] ||= []).push({ type: 'pano', pan: a.pan, band: a.band, half: 'r' });
+      (cfg.__a ||= {})[a.id] = L;
+      status.push(`${a.id}: стих ${a.verse} на стр. ${p + 1}, разворот ${L + 1}–${L + 2}` + ((p === L || p === L + 1) ? '' : ' (НЕ СОВПАЛО)'));
     } else {
-      node = el('img', `cut ${side}`); node.src = A(f.fig + '.png');
-      node.style.cssText = `width:${f.w}mm;shape-outside:${poly(f.fig, side)} border-box;shape-margin:${f.sm ?? 4}mm;`;
-    }
-    node.style.marginTop = (f.mt ?? 0) + 'mm';
-    node.style.marginBottom = (f.mb ?? 2) + 'mm';
-    if (side === 'fl') node.style.marginLeft = (-(f.hang ?? 0)) + 'mm'; else node.style.marginRight = (-(f.hang ?? 0)) + 'mm';
-    if (f.tilt) node.style.transform = `rotate(${f.tilt}deg)`;
-    e.insertBefore(node, e.firstChild);
-  });
-  return e;
-}
-
-function place(vEl, v) {
-  if (!cur) cur = startTextPage();
-  cur.frame.appendChild(vEl);
-  if (overflows(cur)) {
-    cur.frame.removeChild(vEl);
-    if (!cur.frame.children.length) { log.push('ПЕРЕПОЛНЕНИЕ пустой страницы: стих ' + v.n); cur.frame.appendChild(vEl); }
-    else {
-      finalize(cur, true); cur = startTextPage(); cur.frame.appendChild(vEl);
-      if (overflows(cur)) log.push('ПЕРЕПОЛНЕНИЕ новой страницы: стих ' + v.n);
+      let q = p;
+      if (used.has(q)) { status.push(`${a.id}: конфликт на стр. ${q + 1}`); continue; }
+      used.add(q); (cfg[q] ||= []).push({ type: a.type }); (cfg.__a ||= {})[a.id] = q;
+      status.push(`${a.id}: стих ${a.verse} на стр. ${p + 1}`);
     }
   }
-  cur.verses.push(v.n);
-  if (cur.verses.length >= cur.maxV) { finalize(cur, false); cur = null; }
+  return { cfg, status };
 }
 
 async function run() {
-  // шрифты
   const probe = el('div', '', '<span style="font-family:Gentium">Аа ӣ</span><i style="font-family:Gentium">Аа</i><b style="font-family:Gentium">Аа</b><span style="font-family:NotoBn">বন্দে</span><span style="font-family:Cormorant">Аа</span>');
   document.body.appendChild(probe);
-  await document.fonts.ready; await new Promise(r => setTimeout(r, 400)); await document.fonts.ready;
+  await document.fonts.ready; await new Promise(r => setTimeout(r, 300)); await document.fonts.ready;
   probe.remove();
-
-  makePage({ kind: 'title' });
-  for (const it of DATA.plan) {
-    if (it.t === 'verse') {
-      const cfg = { floats: pendingFloats }; pendingFloats = [];
-      place(buildVerse(it.v, cfg), it.v);
-    } else if (it.t === 'spread') {
-      if (it.force) { finalize(cur, false); cur = null; }
-      pendingSpread = it.cfg;
-    } else if (it.t === 'float') {
-      pendingFloats.push(it.cfg);
-    } else if (it.t === 'break') {
-      finalize(cur, false); cur = null;
-    } else if (it.t === 'page') {
-      finalize(cur, false); cur = null;
-      cur = makePage({ profile: it.profile, maxV: it.maxV });
-    }
+  CFG = {};
+  let status = [], passes = 0;
+  for (; passes < 8; passes++) {
+    layout();
+    const d = decide(CFG);
+    status = d.status;
+    if (JSON.stringify(d.cfg) === JSON.stringify(CFG)) break;
+    CFG = d.cfg;
   }
-  finalize(cur, false);
-  // подгрузка картинок
   await Promise.all([...document.images].map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
   window.__report = {
-    pages: pages.map(p => ({ n: p.idx + 1, side: p.side, kind: p.kind, verses: p.verses, tag: p.tag, leftover: p.leftover, justified: p.justified })),
-    log,
+    passes, anchors: status, log,
+    pages: pages.map(p => ({ n: p.idx + 1, side: p.side, tag: p.tag, cols: p.colVerses || [],
+      fill: (p.cols || []).map(c => +((colBottom(c) - contentBottom(c)) / MM).toFixed(1)) })),
   };
   window.__done = true;
 }

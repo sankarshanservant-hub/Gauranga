@@ -84,27 +84,28 @@ def save_fig(name, im, m=1800):
     return im
 
 
-def split_components(im, expect=None, dil=0.02):
-    a = np.array(im.getchannel('A')) > 24
-    s = max(3, int(max(im.size) * dil))
-    d = ndi.binary_dilation(a, structure=np.ones((3, 3)), iterations=s)
+def split_components(im, expect=None, dil=2):
+    """Разрез листа на отдельные фигуры. Метки считаются на маске, уменьшенной в 6 раз (быстро);
+    dil — расклейка в пикселях уменьшенной маски (фигуры, у которых части не соприкасаются, склеиваются)."""
+    K = 6
+    A = im.getchannel('A')
+    small = np.array(A.resize((max(1, im.width // K), max(1, im.height // K)), Image.BOX)) > 8
+    d = ndi.binary_dilation(small, structure=np.ones((3, 3)), iterations=dil)
     lab, n = ndi.label(d)
-    objs = ndi.find_objects(lab)
-    comps = []
-    for i, sl in enumerate(objs):
-        area = (a[sl] & (lab[sl] == i + 1)).sum()
-        comps.append((area, sl, i + 1))
-    comps.sort(key=lambda c: -c[0])
-    if expect: comps = comps[:expect]
+    areas = ndi.sum(small, lab, index=range(1, n + 1))
+    order = sorted(range(1, n + 1), key=lambda i: -areas[i - 1])
+    if expect: order = order[:expect]
+    print('   компонент:', n, 'берём', len(order), [int(areas[i - 1]) for i in order])
+    lab_full = np.array(Image.fromarray(lab.astype(np.int32)).resize(im.size, Image.NEAREST))
     out = []
-    for area, sl, lbl in comps:
-        mask = (lab == lbl)
-        piece = im.copy()
-        arr = np.array(piece)
+    for lbl in order:
+        mask = lab_full == lbl
+        arr = np.array(im)
         arr[..., 3] = np.where(mask, arr[..., 3], 0)
         piece = Image.fromarray(arr)
         piece = piece.crop(piece.getchannel('A').getbbox())
-        out.append((sl[1].start, sl[0].start, piece))
+        ys, xs = np.where(small & (lab == lbl))
+        out.append((int(xs.min()) * K, int(ys.min()) * K, piece))
     return out
 
 
@@ -129,6 +130,18 @@ def crops():
 
 
 def main():
+    if len(sys.argv) > 2 and sys.argv[2] == 'split':
+        old = os.path.join(OUT, 'profiles.json')
+        if os.path.exists(old): PROFILES.update(json.load(open(old)))
+        for tag, f in [('va', 'vaishnavas.psd')]:
+            sheet = psd_cutout(src(f))
+            ps = split_components(sheet, 6, dil=1)
+            ps.sort(key=lambda t: (round(t[1] / (sheet.height / 2.2)), t[0]))
+            for i, (x, y, p) in enumerate(ps): save_fig(f'{tag}_{i+1}', p, 1500)
+            del sheet
+        ms = psd_cutout(src('murali_svarupa.psd'))
+        for i, (x, y, p) in enumerate(sorted(split_components(ms, 2, dil=1), key=lambda t: t[0])): save_fig(f'ms_{i+1}', p)
+        crops(); json.dump(PROFILES, open(old, 'w'), ensure_ascii=False); return
     if len(sys.argv) > 2 and sys.argv[2] == 'crops':
         old = os.path.join(OUT, 'profiles.json')
         if os.path.exists(old): PROFILES.update(json.load(open(old)))
@@ -177,7 +190,7 @@ def main():
     # ---- вайшнавы (по 6 фигур на листе) ----
     for tag, f in [('va', 'vaishnavas.psd'), ('vb', 'vaishnavas2.psd')]:
         sheet = psd_cutout(src(f))
-        ps = split_components(sheet, 6, dil=0.012)
+        ps = split_components(sheet, 6, dil=1)
         # порядок: ряды сверху вниз, слева направо
         ps.sort(key=lambda t: (round(t[1] / (sheet.height / 2.2)), t[0]))
         for i, (x, y, p) in enumerate(ps):
