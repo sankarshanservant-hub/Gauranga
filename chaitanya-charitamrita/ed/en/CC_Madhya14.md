@@ -948,185 +948,231 @@ Mahāprabhu’s  people  that  prasāda  ate
 নিশাতে উদ্যানে আসি’ করিলা শয়ন ॥ ৯৪ ॥
 
 aparāhne āsi’ kaila darśana, nartana  
-niśāte udyāne āsi’ karilā śayana
+in the afternoon  coming  made  darśana  dancing  
+niśāte udyāne āsi’ karilā śayana  
+at night  to the garden  coming  took  rest
 
-(94) [not yet translated]
+(94) In the afternoon He came, took *darśana* and danced, and at night He returned to the garden to rest.
 
 আর দিন আসি’ কৈল ঈশ্বর দরশন ৷  
 প্রাঙ্গণে নৃত্য-গীত কৈল কতক্ষণ ॥ ৯৫ ॥
 
 āra dina āsi’ kaila īśvara daraśana  
-prāṅgaṇe nṛtya-gīta kaila kata-kṣaṇa
+the next  day  coming  made  of the Lord  darśana  
+prāṅgaṇe nṛtya-gīta kaila kata-kṣaṇa  
+in the courtyard  dancing and singing  did  for some time
 
-(95) [not yet translated]
+(95) The next day He came again to see the Lord, and for some time He danced and sang in the courtyard.
 
 ভক্তগণ-সঙ্গে প্রভু উদ্যানে আসিয়া ৷  
 বৃন্দাবন-বিহার করে ভক্তগণ লঞা ॥ ৯৬ ॥
 
 bhakta-gaṇa-saṅge prabhu udyāne āsiyā  
-vṛndāvana-vihāra kare bhakta-gaṇa lañā
+the devotees  with  the Lord  to the garden  coming  
+vṛndāvana-vihāra kare bhakta-gaṇa lañā  
+the Vṛndāvana pastimes  does  the devotees  with
 
-(96) [not yet translated]
+(96) Then the Lord came to the garden with the devotees and enjoyed the pastimes of Vṛndāvana with them.
 
 বৃক্ষবল্লী প্রফুল্লিত প্রভুর দরশনে ৷  
 ভৃঙ্গ-পিক গায়, বহে শীতল পবনে ॥ ৯৭ ॥
 
 vṛkṣa-vallī praphullita prabhura daraśane  
-bhṛṅga-pika gāya, vahe śītala pavane
+trees and creepers  blossomed  of the Lord  at the sight  
+bhṛṅga-pika gāya, vahe śītala pavane  
+bees and cuckoos  sing  blows  cool  breeze
 
-(97) [not yet translated]
+(97) At the sight of the Lord the trees and creepers burst into bloom, the bees and cuckoos sang, and a cool breeze blew.
 
 প্রতি-বৃক্ষতলে প্রভু করেন নর্ত্তন ৷  
 বাসুদেব-দত্ত মাত্র করেন গায়ন ॥ ৯৮ ॥
 
 prati-vṛkṣa-tale prabhu karena nartana  
-vāsudeva-datta mātra karena gāyana
+under every tree  the Lord  does  dancing  
+vāsudeva-datta mātra karena gāyana  
+Vāsudeva Datta  alone  does  singing
 
-(98) [not yet translated]
+(98) The Lord danced beneath every tree, while Vāsudeva Datta alone sang.
 
 এক এক বৃক্ষতলে এক এক গান গায় ৷  
 পরম-আবেশে একা নাচে গৌররায় ॥ ৯৯ ॥
 
 eka eka vṛkṣa-tale eka eka gāna gāya  
-parama-āveśe ekā nāce gaurarāya
+under one  one  tree  one  one  song  sings  
+parama-āveśe ekā nāce gaurarāya  
+in supreme ecstasy  alone  dances  Gaurarāya
 
-(99) [not yet translated]
+(99) Beneath each tree he sang a new song, and Gaurarāya danced alone in supreme ecstasy.
 
 তবে বক্রেশ্বরে প্রভু কহিলা নাচিতে ৷  
 বক্রেশ্বর নাচে, প্রভু লাগিলা গাইতে ॥ ১০০ ॥
 
 tabe vakreśvare prabhu kahilā nācite  
-vakreśvara nāce, prabhu lāgilā gāite
+then  to Vakreśvara  the Lord  said  to dance  
+vakreśvara nāce, prabhu lāgilā gāite  
+Vakreśvara  dances  the Lord  began  to sing
 
-(100) [not yet translated]
+(100) Then the Lord told Vakreśvara to dance. Vakreśvara danced, and the Lord began to sing.
 
 প্রভু-সঙ্গে স্বরূপাদি কীর্ত্তনীয়া গায় ৷  
 দিক্বিদিক্ নাহি জ্ঞান প্রেমের বন্যায় ॥ ১০১ ॥
 
 prabhu-saṅge svarūpādi kīrtanīyā gāya  
-dik-vidik nāhi jñāna premera vanyāya
+with the Lord  Svarūpa and other  kīrtana singers  sing  
+dik-vidik nāhi jñāna premera vanyāya  
+of directions  no  awareness  of love  in the flood
 
-(101) [not yet translated]
+(101) Svarūpa and the other singers sang with the Lord. In the flood of love they lost all sense of direction.
 
 এই মত কতক্ষণ করি’ বন-লীলা ৷  
 নরেন্দ্র সরোবরে গেলা করিতে জলখেলা ॥ ১০২ ॥
 
 ei mata kata-kṣaṇa kari’ vana-līlā  
-narendra sarovare gelā karite jala-khelā
+in this way  for some time  having done  the forest pastimes  
+narendra sarovare gelā karite jala-khelā  
+to Narendra  lake  went  to do  water play
 
-(102) [not yet translated]
+(102) After enjoying the pastimes of the forest like this for some time, they went to the Narendra lake to play in the water.
 
 জলক্রীড়া করি’ পুনঃ আইলা উদ্যানে ৷  
 ভোজনলীলা কৈলা প্রভু লঞা ভক্তগণে ॥ ১০৩ ॥
 
 jala-krīḍā kari’ punaḥ āilā udyāne  
-bhojana-līlā kailā prabhu lañā bhakta-gaṇe
+water play  having done  again  came  to the garden  
+bhojana-līlā kailā prabhu lañā bhakta-gaṇe  
+the pastime of eating  did  the Lord  with  the devotees
 
-(103) [not yet translated]
+(103) After sporting in the water, the Lord came back to the garden and enjoyed the pastime of eating with the devotees.
 
 নব দিন গুণ্ডিচাতে রহে জগন্নাথ ৷  
 মহাপ্রভু ঐছে লীলা করে ভক্ত-সাথ ॥ ১০৪ ॥
 
 nava dina guṇḍicāte rahe jagannātha  
-mahāprabhu aiche līlā kare bhakta-sātha
+nine  days  at Guṇḍicā  stays  Jagannātha  
+mahāprabhu aiche līlā kare bhakta-sātha  
+Mahāprabhu  such  pastimes  does  with the devotees
 
-(104) [not yet translated]
+(104) For nine days Jagannātha stays at Guṇḍicā, and all that time Mahāprabhu enjoyed such pastimes with the devotees.
 
 ‘জগন্নাথ-বল্লভ’-নাম বড় পুষ্পারাম ৷  
 নব দিন করেন প্রভু তাহাতে বিশ্রাম ॥ ১০৫ ॥
 
 ‘jagannātha-vallabha’-nāma baḍa puṣpārāma  
-nava dina karena prabhu tāhāte viśrāma
+“Jagannātha-vallabha” by name  a large  flower garden  
+nava dina karena prabhu tāhāte viśrāma  
+nine  days  takes  the Lord  in it  rest
 
-(105) [not yet translated]
+(105) There is a large flower garden called Jagannātha-vallabha, and the Lord rested there for those nine days.
 
 ‘হেরা-পঞ্চমী’র দিন আইল জানিয়া ৷  
 কাশীমিশ্রে কহে রাজা সযত্ন করিয়া ॥ ১০৬ ॥
 
 ‘herā-pañcamī’ra dina āila jāniyā  
-kāśī-miśre kahe rājā sayatna kariyā
+of Herā-pañcamī  the day  came  knowing  
+kāśī-miśre kahe rājā sayatna kariyā  
+to Kāśī Miśra  says  the king  with care  making
 
-(106) [not yet translated]
+(106) Knowing that the day of the Herā-pañcamī had come, the king spoke to Kāśī Miśra with great care.
 
 কল্য ‘হেরা-পঞ্চমী’ হবে লক্ষ্মীর বিজয় ৷  
 ঐছে উৎসব কর, যেন কভু নাহি হয় ॥ ১০৭ ॥
 
 kalya ‘herā-pañcamī’ habe lakṣmīra vijaya  
-aiche utsava kara, yena kabhu nāhi haya
+tomorrow  Herā-pañcamī  will be  Lakṣmī’s  procession  
+aiche utsava kara, yena kabhu nāhi haya  
+such  festival  make  as  ever  not  has been
 
-(107) [not yet translated]
+(107) “Tomorrow is the Herā-pañcamī, the procession of Lakṣmī. Hold the festival as it has never been held before.
 
 মহোৎসব কর তৈছে বিশেষ সম্ভার ৷  
 দেখি’ মহাপ্রভুর যৈছে হয় চমৎকার ॥ ১০৮ ॥
 
 mahotsava kara taiche viśeṣa sambhāra  
-dekhi’ mahāprabhura yaiche haya camatkāra
+the great festival  make  with such  special  preparations  
+dekhi’ mahāprabhura yaiche haya camatkāra  
+seeing  Mahāprabhu’s  so that  is  wonder
 
-(108) [not yet translated]
+(108) Prepare the great festival with such splendor that Mahāprabhu will be struck with wonder when He sees it.
 
 ঠাকুরের ভাণ্ডারে আর আমার ভাণ্ডারে ৷  
 চিত্রবস্ত্র কিঙ্কিণী, আর ছত্র-চামরে ॥ ১০৯ ॥
 
 ṭhākurera bhāṇḍāre āra āmāra bhāṇḍāre  
-citra-vastra kiṅkiṇī, āra chatra-cāmare
+of the Deity  in the storehouse  and  my  in the storehouse  
+citra-vastra kiṅkiṇī, āra chatra-cāmare  
+colored cloths  small bells  and  umbrellas and cāmaras
 
-(109) [not yet translated]
+(109) From the Deity’s storehouse and from mine take colored cloths, small bells, umbrellas and *cāmaras*.
 
 ধ্বজাবৃন্দ-পতাকা-ঘণ্টায় করহ মণ্ডন ৷  
 নানাবাদ্য-নৃত্য-দোলায় করহ সাজন ॥ ১১০ ॥
 
 dhvajāvṛnda-patākā-ghaṇṭāya karaha maṇḍana  
-nānā-vādya-nṛtya-dolāya karaha sājana
+with flags, banners and bells  make  decoration  
+nānā-vādya-nṛtya-dolāya karaha sājana  
+with music and dancing of the palanquin  make  adornment
 
-(110) [not yet translated]
+(110) Decorate everything with flags, banners and bells, and adorn the palanquin procession with music and dancing of every kind.
 
 দ্বিগুণ করিয়া কর সব উপহার ৷  
 রথযাত্রা হৈতে যৈছে হয় চমৎকার ॥ ১১১ ॥
 
 dviguṇa kariyā kara saba upahāra  
-ratha-yātrā haite yaiche haya camatkāra
+double  making  make  all  the offerings  
+ratha-yātrā haite yaiche haya camatkāra  
+the Ratha-yātrā  than  so that  is  wonder
 
-(111) [not yet translated]
+(111) Make all the offerings double, so that the festival is more wonderful than the Ratha-yātrā.
 
 সেই ত’ করিহ, — প্রভু লঞা ভক্তগণ ৷  
 স্বচ্ছন্দে আসিয়া যৈছে করেন দরশন ॥ ১১২ ॥
 
 sei ta’ kariha, — prabhu lañā bhakta-gaṇa  
-svacchande āsiyā yaiche karena daraśana
+that  indeed  do  the Lord  with  the devotees  
+svacchande āsiyā yaiche karena daraśana  
+freely  coming  so that  makes  darśana
 
-(112) [not yet translated]
+(112) And arrange it so that the Lord and His devotees can come freely and take *darśana*.”
 
 প্রাতঃকালে মহাপ্রভু নিজগণ লঞা ৷  
 জগন্নাথ দর্শন কৈল সুন্দরাচলে যাঞা ॥ ১১৩ ॥
 
 prātaḥ-kāle mahāprabhu nija-gaṇa lañā  
-jagannātha darśana kaila sundarācale yāñā
+in the morning  Mahāprabhu  His own people  with  
+jagannātha darśana kaila sundarācale yāñā  
+Jagannātha’s  darśana  made  to Sundarācala  going
 
-(113) [not yet translated]
+(113) In the morning Mahāprabhu went with His companions to Sundarācala and took *darśana* of Jagannātha.
 
 নীলাচলে আইলা পুনঃ ভক্তগণ-সঙ্গে ৷  
 দেখিতে উৎকণ্ঠা হেরা পঞ্চমীর রঙ্গে ॥ ১১৪ ॥
 
 nīlācale āilā punaḥ bhakta-gaṇa-saṅge  
-dekhite utkaṇṭhā herā pañcamīra raṅge
+to Nīlācala  came  again  the devotees  with  
+dekhite utkaṇṭhā herā pañcamīra raṅge  
+to see  eagerness  of the Herā-pañcamī  the festivity
 
-(114) [not yet translated]
+(114) Then He came back to Nīlācala with the devotees, eager to see the festivities of the Herā-pañcamī.
 
 কাশীমিশ্র প্রভুরে বহু আদর করিয়া ৷  
 স্বগণ-সহ ভাল স্থানে বসাইল লঞা ॥ ১১৫ ॥
 
 kāśī-miśra prabhure bahu ādara kariyā  
-svagaṇa-saha bhāla sthāne vasāila lañā
+Kāśī Miśra  the Lord  great  honor  showing  
+svagaṇa-saha bhāla sthāne vasāila lañā  
+with His people  in a good  place  seated  taking
 
-(115) [not yet translated]
+(115) Kāśī Miśra received the Lord with great honor and seated Him with His companions in a good place.
 
 রসবিশেষ প্রভুর শুনিতে মন হৈল ৷  
 ঈষৎ হাসিয়া প্রভু স্বরূপে পুছিল ॥ ১১৬ ॥
 
 rasa-viśeṣa prabhura śunite mana haila  
-īṣat hāsiyā prabhu svarūpe puchila
+a special rasa  the Lord’s  to hear  mind  became  
+īṣat hāsiyā prabhu svarūpe puchila  
+slightly  smiling  the Lord  Svarūpa  asked
 
-(116) [not yet translated]
+(116) The Lord wished to hear about a special *rasa*, and with a slight smile He asked Svarūpa:
 
 যদ্যপি জগন্নাথ করেন দ্বারকায় বিহার ৷  
 সহজ প্রকট করে পরম উদার ॥ ১১৭ ॥
@@ -1445,57 +1491,71 @@ of her lover  the tender words  hearing  becomes  pacified
 তার মধ্যে সবার স্বভাবে তিন-ভেদ ॥ ১৫১ ॥
 
 ‘madhyā’ ‘pragalbhā’ dhare dhīrādi vibheda  
-tāra madhye sabāra svabhāve tina-bheda
+the madhyā  the pragalbhā  take on  dhīrā and the other  divisions  
+tāra madhye sabāra svabhāve tina-bheda  
+of them  among  of all  by nature  three kinds
 
-(151) [not yet translated]
+(151) The intermediate and the bold heroines take on the divisions of *dhīrā* and the rest, and among all of them there are three kinds by nature.
 
 কেহ ‘প্রখরা’, কেহ ‘মৃদু’, কেহ হয় ‘সমা’ ৷  
 স্ব-স্বভাবে কৃষ্ণের বাড়ায় প্রেম-সীমা ॥ ১৫২ ॥
 
 keha ‘prakharā’, keha ‘mṛdu’, keha haya ‘samā’  
-sva-svabhāve kṛṣṇera bāḍāya prema-sīmā
+some  prakharā  some  mṛdu  some  are  samā  
+sva-svabhāve kṛṣṇera bāḍāya prema-sīmā  
+by their own natures  Kṛṣṇa’s  increase  the bounds of love
 
-(152) [not yet translated]
+(152) Some are *prakharā*, sharp; some are *mṛdu*, gentle; and some are *samā*, balanced. Each, by her own nature, expands the bounds of Kṛṣṇa’s love.
 
 প্রাখর্য্য, মার্দ্দব, সাম্য-স্বভাব নির্দ্দোষ ৷  
 সেই সেই স্বভাবে কৃষ্ণে করায় সন্তোষ ॥ ১৫৩ ॥
 
 prākharya, mārdava, sāmya-svabhāva nirdoṣa  
-sei sei svabhāve kṛṣṇe karāya santoṣa
+sharpness  gentleness  a balanced nature  faultless  
+sei sei svabhāve kṛṣṇe karāya santoṣa  
+by each  such  nature  Kṛṣṇa  they cause  delight
 
-(153) [not yet translated]
+(153) Sharpness, gentleness and a balanced nature are all faultless, and by each of these natures they delight Kṛṣṇa.”
 
 এ কথা শুনিয়া প্রভুর আনন্দ অপার ৷  
 ‘কহ, কহ’, দামোদর বলে বার বার ॥ ১৫৪ ॥
 
 e kathā śuniyā prabhura ānanda apāra  
-‘kaha, kaha’, dāmodara bale bāra bāra
+this  talk  hearing  the Lord’s  bliss  boundless  
+‘kaha, kaha’, dāmodara bale bāra bāra  
+tell  tell  Dāmodara  He says  time  after time
 
-(154) [not yet translated]
+(154) Hearing this, the Lord felt boundless bliss. “Go on, go on, Dāmodara!” He said again and again.
 
 দামোদর কহে, — কৃষ্ণ রসিকশেখর ৷  
 রস-আস্বাদক, রসময়-কলেবর ॥ ১৫৫ ॥
 
 dāmodara kahe, — kṛṣṇa rasika-śekhara  
-rasa-āsvādaka, rasamaya-kalevara
+Dāmodara  says  Kṛṣṇa  the crown of relishers  
+rasa-āsvādaka, rasamaya-kalevara  
+of rasa  the taster  whose body is made of rasa
 
-(155) [not yet translated]
+(155) Dāmodara said, “Kṛṣṇa is the crown of all who relish *rasa*. He tastes *rasa*, and His very body is made of *rasa*.
 
 প্রেমময়-বপু কৃষ্ণ — ভক্ত-প্রেমাধীন ৷  
 শুদ্ধপ্রেমে, রসগুণে, গোপিকা — প্রবীণ ॥ ১৫৬ ॥
 
 premamaya-vapu kṛṣṇa — bhakta-premādhīna  
-śuddha-preme, rasa-guṇe, gopikā — pravīṇa
+whose form is made of love  Kṛṣṇa  subject to His devotees’ love  
+śuddha-preme, rasa-guṇe, gopikā — pravīṇa  
+in pure love  in the qualities of rasa  the gopīs  are expert
 
-(156) [not yet translated]
+(156) Kṛṣṇa’s form is made of love, and He is subject to the love of His devotees. In pure love and in the qualities of *rasa* the gopīs are supremely expert.
 
 গোপিকার প্রেমে নাহি রসাভাস-দোষ ৷  
 অতএব কৃষ্ণের করে পরম সন্তোষ ॥ ১৫৭ ॥
 
 gopikāra preme nāhi rasābhāsa-doṣa  
-ataeva kṛṣṇera kare parama santoṣa
+of the gopīs  in the love  there is no  fault of rasābhāsa  
+ataeva kṛṣṇera kare parama santoṣa  
+therefore  Kṛṣṇa’s  it causes  supreme  satisfaction
 
-(157) [not yet translated]
+(157) In the gopīs’ love there is no fault of *rasābhāsa*, a mere semblance of *rasa*; therefore it gives Kṛṣṇa supreme satisfaction.”
 
 এবং শশাঙ্কাংশুবিরাজিতা নিশাঃ  
 স সত্যকামোঽনুরতাবলাগণঃ ৷  
@@ -1503,183 +1563,233 @@ ataeva kṛṣṇera kare parama santoṣa
 সর্ব্বাঃ শরৎকাব্যকথারসাশ্রয়াঃ ॥ ১৫৮ ॥
 
 evaṁ śaśaṅkāṁśu-virājitā niśāḥ  
+thus  by the moon’s rays  resplendent  nights  
 sa satya-kāmo ’nuratābalā-gaṇaḥ  
+He  whose desires are true  surrounded by devoted maidens  
 siṣeva ātmany avaruddha-saurataḥ  
-sarvāḥ śarat-kāvya-kathā-rasāśrayāḥ
+enjoyed  within Himself  keeping His amorous feelings  
+sarvāḥ śarat-kāvya-kathā-rasāśrayāḥ  
+all  of autumn  of poetic narrations  the abodes of rasa
 
-(158) [not yet translated]
+(158) “Thus Kṛṣṇa, whose desires are ever true, surrounded by the maidens devoted to Him and keeping His amorous feelings within Himself, enjoyed all those nights resplendent with moonlight — the autumn nights that are the abode of the *rasa* told in poetry.” (Śrīmad-Bhāgavatam 10.33.25)
 
 ‘বামা’ এক গোপীগণ, ‘দক্ষিণা’ এক গণ ৷  
 নানা-ভাবে করায় কৃষ্ণের রস আস্বাদন ॥ ১৫৯ ॥
 
 ‘vāmā’ eka gopī-gaṇa, ‘dakṣiṇā’ eka gaṇa  
-nānā-bhāve karāya kṛṣṇera rasa āsvādana
+vāmā  one  group of gopīs  dakṣiṇā  another  group  
+nānā-bhāve karāya kṛṣṇera rasa āsvādana  
+in various moods  they make  Kṛṣṇa  rasa  taste
 
-(159) [not yet translated]
+(159) “One group of gopīs is *vāmā*, contrary, and another is *dakṣiṇā*, compliant. Through their various moods they let Kṛṣṇa taste *rasa*.
 
 গোপীগণ-মধ্যে শ্রেষ্ঠা রাধা-ঠাকুরাণী ৷  
 নির্ম্মল-উজ্জ্বল-রস-প্রেম-রত্নখনি ॥ ১৬০ ॥
 
 gopī-gaṇa-madhye śreṣṭhā rādhā-ṭhākurāṇī  
-nirmala-ujjvala-rasa-prema-ratna-khani
+the gopīs  among  the foremost  Rādhā Ṭhākurāṇī  
+nirmala-ujjvala-rasa-prema-ratna-khani  
+of the pure, radiant rasa  of love  of jewels  a mine
 
-(160) [not yet translated]
+(160) Among the gopīs the foremost is Śrī Rādhā Ṭhākurāṇī, a mine of the jewels of love in the pure and radiant *rasa* (*ujjvala-rasa*).
 
 বয়সে ‘মধ্যমা’ তেঁহো স্বভাবেতে ‘সমা’ ৷  
 গাঢ় প্রেমভাবে তেঁহো নিরন্তর ‘বামা’ ॥ ১৬১ ॥
 
 vayase ‘madhyamā’ teṅho svabhāvete ‘samā’  
-gāḍha prema-bhāve teṅho nirantara ‘vāmā’
+in age  madhyamā  She  by nature  samā  
+gāḍha prema-bhāve teṅho nirantara ‘vāmā’  
+in deep  love  She  always  vāmā
 
-(161) [not yet translated]
+(161) In age She is *madhyā*, in the bloom of youth; by nature She is *samā*, balanced; yet in the depth of Her love She is always *vāmā*, contrary.
 
 বাম্য-স্বভাবে মান উঠে নিরন্তর ৷  
 তার মধ্যে উঠে কৃষ্ণের আনন্দ-সাগর ॥ ১৬২ ॥
 
 vāmya-svabhāve māna uṭhe nirantara  
-tāra madhye uṭhe kṛṣṇera ānanda-sāgara
+from a contrary nature  māna  rises  constantly  
+tāra madhye uṭhe kṛṣṇera ānanda-sāgara  
+of that  in the midst  rises  Kṛṣṇa’s  ocean of bliss
 
-(162) [not yet translated]
+(162) From Her contrary nature *māna* constantly arises, and in the midst of it the ocean of Kṛṣṇa’s bliss rises.”
 
 অহেরিব গতিঃ প্রেম্ণঃ স্বভাবকুটিলা ভবেৎ ৷  
 অতো হেতোরহেতোশ্চ যূনোর্মান উদঞ্চতি ॥ ১৬৩ ॥
 
 aher iva gatiḥ premṇaḥ  
+of a snake  like  the movement  of love  
 svabhāva-kuṭilā bhavet  
+by nature  winding  is  
 ato hetor ahetoś ca  
-yūnor māna udañcati
+therefore  with cause  without cause  and  
+yūnor māna udañcati  
+of the young pair  pique  arises
 
-(163) [not yet translated]
+(163) “Like the movement of a snake, the course of love is winding by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)[^m14-163]
 
 এত শুনি’ বাড়ে প্রভুর আনন্দ সাগর ৷  
 ‘কহ’ ‘কহ’ কহে প্রভু, বলে দামোদর ॥ ১৬৪ ॥
 
 eta śuni’ bāḍe prabhura ānanda sāgara  
-‘kaha’ ‘kaha’ kahe prabhu, bale dāmodara
+this  hearing  swells  the Lord’s  of bliss  the ocean  
+‘kaha’ ‘kaha’ kahe prabhu, bale dāmodara  
+tell  tell  says  the Lord  speaks  Dāmodara
 
-(164) [not yet translated]
+(164) Hearing this, the ocean of the Lord’s bliss swelled. “Go on, go on,” the Lord said, and Dāmodara continued:
 
 ‘অধিরূঢ় মহাভাব’ — রাধিকার প্রেম ৷  
 বিশুদ্ধ, নির্ম্মল, যৈছে দগ্ধবান্ হেম ॥ ১৬৫ ॥
 
 ‘adhirūḍha mahābhāva’ — rādhikāra prema  
-viśuddha, nirmala, yaiche dagdha-vān hema
+adhirūḍha  mahābhāva  Rādhikā’s  love  
+viśuddha, nirmala, yaiche dagdha-vān hema  
+utterly pure  spotless  like  fire-refined  gold
 
-(165) [not yet translated]
+(165) “Rādhikā’s love is *adhirūḍha mahābhāva*, the highest summit of *mahābhāva*. It is utterly pure and spotless, like gold refined in fire.
 
 কৃষ্ণের দর্শন যদি পায় আচম্বিতে ৷  
 নানা-ভাব-বিভূষণে হয় বিভূষিতে ॥ ১৬৬ ॥
 
 kṛṣṇera darśana yadi pāya ācambite  
-nānā-bhāva-vibhūṣaṇe haya vibhūṣite
+of Kṛṣṇa  the sight  if  She obtains  suddenly  
+nānā-bhāva-vibhūṣaṇe haya vibhūṣite  
+with ornaments of many bhāvas  She becomes  adorned
 
-(166) [not yet translated]
+(166) Whenever She suddenly catches sight of Kṛṣṇa, She becomes adorned with the ornaments of many *bhāvas*, ecstatic feelings.
 
 অষ্ট ‘সাত্ত্বিক’, হর্ষাদি ‘ব্যভিচারী’ যাঁর ৷  
 ‘সহজ প্রেম’, বিংশতি ‘ভাব’-অলঙ্কার ॥ ১৬৭ ॥
 
 aṣṭa ‘sāttvika’, harṣādi ‘vyabhicārī’ yāṅra  
-‘sahaja prema’, viṁśati ‘bhāva’-alaṅkāra
+eight  sāttvika  joy and the rest  vyabhicārī  whose  
+‘sahaja prema’, viṁśati ‘bhāva’-alaṅkāra  
+natural  love  twenty  bhāva ornaments
 
-(167) [not yet translated]
+(167) Hers are the eight *sāttvika* transformations, the *vyabhicārī-bhāvas* beginning with joy, Her natural love and the twenty ornaments of *bhāva*:
 
 ‘কিলকিঞ্চিত’, ‘কুট্টমিত’, ‘বিলাস’, ‘ললিত’ ৷  
 ‘বিব্বোক’, ‘মোট্টায়িত’, আর ‘মৌগ্ধ্য’, ‘চকিত’ ॥ ১৬৮ ॥
 
 ‘kila-kiñcita’, ‘kuṭṭamita’, ‘vilāsa’, ‘lalita’  
-‘vivvoka’, ‘moṭṭāyita’, āra ‘maugdhya’, ‘cakita’
+kila-kiñcita  kuṭṭamita  vilāsa  lalita  
+‘vivvoka’, ‘moṭṭāyita’, āra ‘maugdhya’, ‘cakita’  
+vivvoka  moṭṭāyita  and  maugdhya  cakita
 
-(168) [not yet translated]
+(168) *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *vivvoka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.
 
 এত ভাবভূষায় ভূষিত শ্রীরাধার অঙ্গ ৷  
 দেখিতে উথলে কৃষ্ণসুখাব্ধি-তরঙ্গ ॥ ১৬৯ ॥
 
 eta bhāva-bhūṣāya bhūṣita śrī rādhāra aṅga  
-dekhite uthale kṛṣṇa-sukhābdhi-taraṅga
+with so many  bhāva ornaments  adorned  Śrī  Rādhā’s  form  
+dekhite uthale kṛṣṇa-sukhābdhi-taraṅga  
+on seeing  surge  the waves of Kṛṣṇa’s ocean of happiness
 
-(169) [not yet translated]
+(169) When Kṛṣṇa sees Śrī Rādhā’s form adorned with so many ornaments of *bhāva*, the waves of the ocean of His happiness surge high.
 
 কিলকিঞ্চিতাদি-ভাবের শুন বিবরণ ৷  
 যে ভাব-ভূষায় রাধা হরে কৃষ্ণ-মন ॥ ১৭০ ॥
 
 kila-kiñcitādi-bhāvera śuna vivaraṇa  
-ye bhāva-bhūṣāya rādhā hare kṛṣṇa-mana
+of kila-kiñcita and the other bhāvas  hear  the description  
+ye bhāva-bhūṣāya rādhā hare kṛṣṇa-mana  
+by which  bhāva ornaments  Rādhā  steals  Kṛṣṇa’s mind
 
-(170) [not yet translated]
+(170) Now hear a description of *kila-kiñcita* and the other *bhāvas*, the ornaments of feeling by which Rādhā steals Kṛṣṇa’s mind.
 
 রাধা দেখি’ কৃষ্ণ যদি ছুঁইতে করে মন ৷  
 দানঘাটি-পথে যবে বর্জ্জেন গমন ॥ ১৭১ ॥
 
 rādhā dekhi’ kṛṣṇa yadi chuṅite kare mana  
-dāna-ghāṭi-pathe yabe varjena gamana
+Rādhā  seeing  Kṛṣṇa  if  to touch  makes up His mind  
+dāna-ghāṭi-pathe yabe varjena gamana  
+on the path to the toll crossing  when  He bars  Her going
 
-(171) [not yet translated]
+(171) When Kṛṣṇa sees Rādhā and wants to touch Her, when He bars Her way on the path to the toll crossing (*dāna-ghāṭi*),
 
 যবে আসি’ মানা করে পুষ্প উঠাইতে ৷  
 সখী-আগে চাহে যদি গায়ে হাত দিতে ॥ ১৭২ ॥
 
 yabe āsi’ mānā kare puṣpa uṭhāite  
-sakhī-āge cāhe yadi gāye hāta dite
+when  coming  He forbids  flowers  to pick  
+sakhī-āge cāhe yadi gāye hāta dite  
+before Her friends  He wants  if  on Her body  His hand  to place
 
-(172) [not yet translated]
+(172) when He comes and forbids Her to pick flowers, or when He tries to touch Her in front of Her friends —
 
 এইসব স্থানে ‘কিলকিঞ্চিত’-উদগম ৷  
 প্রথমে ‘হর্ষ’ সঞ্চারী — মূল-কারণ ॥ ১৭৩ ॥
 
 ei-saba sthāne ‘kila-kiñcita’-udagama  
-prathame ‘harṣa’ sañcārī — mūla-kāraṇa
+in all these  situations  of kila-kiñcita  the rise  
+prathame ‘harṣa’ sañcārī — mūla-kāraṇa  
+first  joy  the sañcārī  the root cause
 
-(173) [not yet translated]
+(173) in all these situations *kila-kiñcita* arises. Its root cause is the *sañcārī-bhāva* of joy (*harṣa*), which comes first.
 
 গর্ব্বাভিলাষরুদিতস্মিতাসূয়াভয়ক্রুধাম্ ৷  
 সঙ্করীকরণং হর্ষাদুচ্যতে কিলকিঞ্চিতম্ ॥ ১৭৪ ॥
 
 garvābhilāṣa-rudita-  
+of pride, longing, weeping  
 smitāsūyā-bhaya-krudhām  
+smiling, envy, fear and anger  
 saṅkarī-karaṇaṁ harṣād  
-ucyate kila-kiñcitam
+the mingling  from joy  
+ucyate kila-kiñcitam  
+is called  kila-kiñcita
 
-(174) [not yet translated]
+(174) “The mingling of pride, longing, weeping, smiling, envy, fear and anger, born of joy, is called *kila-kiñcita*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 71)
 
 আর সাত ভাব আসি’ সহজে মিলয় ৷  
 অষ্টভাব-সম্মিলনে ‘মহাভাব’ হয় ॥ ১৭৫ ॥
 
 āra sāta bhāva āsi’ sahaje milaya  
-aṣṭa-bhāva-sammilane ‘mahā-bhāva’ haya
+other  seven  bhāvas  coming  naturally  combine  
+aṣṭa-bhāva-sammilane ‘mahā-bhāva’ haya  
+by the union of eight bhāvas  mahābhāva  arises
 
-(175) [not yet translated]
+(175) The other seven *bhāvas* come and naturally combine with joy, and from the union of these eight *bhāvas* arises *mahābhāva*.
 
 গর্ব্ব, অভিলাষ, ভয়, শুষ্করুদিত ৷  
 ক্রোধ, অসূয়া হয়, আর মন্দস্মিত ॥ ১৭৬ ॥
 
 garva, abhilāṣa, bhaya, śuṣka-rudita  
-krodha, asūyā haya, āra manda-smita
+pride  longing  fear  dry weeping  
+krodha, asūyā haya, āra manda-smita  
+anger  envy  there are  and  a faint smile
 
-(176) [not yet translated]
+(176) The seven are pride, longing, fear, tearless weeping, anger, envy and a faint smile.
 
 নানা-স্বাদু অষ্টভাব একত্র মিলন ৷  
 যাহার আস্বাদে তৃপ্ত হয় কৃষ্ণ-মন ॥ ১৭৭ ॥
 
 nānā-svādu aṣṭa-bhāva ekatra milana  
-yāhāra āsvāde tṛpta haya kṛṣṇa-mana
+of various flavors  eight bhāvas  in one  the meeting  
+yāhāra āsvāde tṛpta haya kṛṣṇa-mana  
+whose  in the tasting  satisfied  becomes  Kṛṣṇa’s mind
 
-(177) [not yet translated]
+(177) These eight *bhāvas*, each of a different flavor, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
 
 দধি, খণ্ড, ঘৃত, মধু, মরীচ, কর্পূর ৷  
 এলাচি-মিলনে যৈছে রসালা মধুর ॥ ১৭৮ ॥
 
 dadhi, khaṇḍa, ghṛta, madhu, marīca, karpūra  
-elāci-milane yaiche rasālā madhura
+yogurt  sugar  ghee  honey  black pepper  camphor  
+elāci-milane yaiche rasālā madhura  
+by mixing with cardamom  as  rasālā  is sweet
 
-(178) [not yet translated]
+(178) It is like *rasālā*, which is so sweet because yogurt, sugar, ghee, honey, black pepper, camphor and cardamom are blended in it.
 
 এই ভাব-যুক্ত দেখি’ রাধাস্য-নয়ন ৷  
 সঙ্গম হইতে সুখ পায় কোটি-গুণ ॥ ১৭৯ ॥
 
 ei bhāva-yukta dekhi’ rādhāsya-nayana  
-saṅgama haite sukha pāya koṭi-guṇa
+with these bhāvas  filled  seeing  Rādhā’s face and eyes  
+saṅgama haite sukha pāya koṭi-guṇa  
+than union  happiness  He obtains  ten million times
 
-(179) [not yet translated]
+(179) Seeing Rādhā’s face and eyes filled with these *bhāvas*, Kṛṣṇa feels ten million times more happiness than in union with Her.
 
 অন্তঃস্মেরতয়োজ্জ্বলা জলকণব্যাকীর্ণপক্ষ্মাঙ্কুরা  
 কিঞ্চিৎপাটলিতাঞ্চলা রসিকতোৎসিক্তা পুরঃ কুঞ্চতী ৷  
@@ -1687,11 +1797,15 @@ saṅgama haite sukha pāya koṭi-guṇa
 রাধায়াঃ কিলকিঞ্চিতস্তবকিনী দৃষ্টিঃ শ্রিয়ং বঃ ক্রিয়াৎ ॥ ১৮০ ॥
 
 antaḥ smeratayojjvalā jala-kaṇa-vyākīrṇa-pakṣmāṅkurā  
+within  with a smile  shining  with drops of tears  strewn  its lashes  
 kiñcit pāṭalitāñcalā rasikatotsiktā puraḥ kuñcatī  
+slightly  reddened at the corners  overflowing with playfulness  in front  narrowing  
 ruddhāyāḥ pathi mādhavena madhura-vyābhugna-torottarā  
-rādhāyāḥ kila-kiñcita-stavakinī dṛṣṭiḥ śriyaṁ vaḥ kriyāt
+of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils raised  
+rādhāyāḥ kila-kiñcita-stavakinī dṛṣṭiḥ śriyaṁ vaḥ kriyāt  
+Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
 
-(180) [not yet translated]
+(180) “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with tears and its corners slightly reddened; brimming with playful delight, it narrowed, its pupils sweetly curving upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bestow good fortune on you.” (Dāna-keli-kaumudī 1)
 
 বাষ্পব্যাকুলিতারুণাঞ্চলচলন্নেত্রং রসোল্লাসিতং  
 হেলোল্লাসচলাধরং কুটিলিতভ্রূযুগ্মমুদ্যৎস্মিতম্ ৷  
@@ -1699,43 +1813,55 @@ rādhāyāḥ kila-kiñcita-stavakinī dṛṣṭiḥ śriyaṁ vaḥ kriyāt
 দানন্দং তমবাপ কোটিগুণিতং যোঽভূন্ন গীর্গোচরঃ ॥ ১৮১ ॥
 
 bāṣpa-vyākulitāruṇāñcala-calan-netraṁ rasollāsitaṁ  
+with eyes restless, reddened at the corners and clouded with tears  delighted by rasa  
 helollāsa-calādharaṁ kuṭilita-bhrū-yugmam udyat-smitam  
+with lips trembling in playful joy  with arched brows  with a dawning smile  
 rādhāyāḥ kila-kiñcitāñcitam asau vīkṣyānanaṁ saṅgamād  
-ānandaṁ tam avāpa koṭi-guṇitaṁ yo ’bhūn na gīr-gocaraḥ
+of Rādhā  adorned with kila-kiñcita  He  seeing  the face  than from union  
+ānandaṁ tam avāpa koṭi-guṇitaṁ yo ’bhūn na gīr-gocaraḥ  
+bliss  that  obtained  ten million times greater  which  was  not  within the range of words
 
-(181) [not yet translated]
+(181) “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with *rasa*, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta 9.18)
 
 এত শুনি’ প্রভু হৈলা আনন্দিত মন ৷  
 সুখাবিষ্ট হঞা স্বরূপে কৈলা আলিঙ্গন ॥ ১৮২ ॥
 
 eta śuni’ prabhu hailā ānandita mana  
-sukhāviṣṭa hañā svarūpe kailā āliṅgana
+this  hearing  the Lord  became  joyful  in mind  
+sukhāviṣṭa hañā svarūpe kailā āliṅgana  
+absorbed in happiness  becoming  Svarūpa  He did  embracing
 
-(182) [not yet translated]
+(182) Hearing this, the Lord rejoiced at heart, and, absorbed in happiness, He embraced Svarūpa.
 
 ‘বিলাসাদি’-ভাব-ভূষার কহ ত’ লক্ষণ ৷  
 যেই ভাবে রাধা হরে গোবিন্দের মন ? ॥ ১৮৩ ॥
 
 ‘vilāsādi’-bhāva-bhūṣāra kaha ta’ lakṣaṇa  
-yei bhāve rādhā hare govindera mana?
+of vilāsa and the other bhāva ornaments  tell  indeed  the characteristics  
+yei bhāve rādhā hare govindera mana?  
+by which  bhāva  Rādhā  steals  Govinda’s  mind
 
-(183) [not yet translated]
+(183) “Now tell Me the characteristics of *vilāsa* and the other ornaments of *bhāva* by which Rādhā steals Govinda’s mind.”
 
 তবে ত’ স্বরূপ-গোসাঞি কহিতে লাগিলা ৷  
 শুনি’ প্রভুর ভক্তগণ মহাসুখ পাইলা ॥ ১৮৪ ॥
 
 tabe ta’ svarūpa-gosāñi kahite lāgilā  
-śuni’ prabhura bhakta-gaṇa mahā-sukha pāilā
+then  indeed  Svarūpa Gosāñi  to speak  began  
+śuni’ prabhura bhakta-gaṇa mahā-sukha pāilā  
+hearing  the Lord’s  devotees  great happiness  obtained
 
-(184) [not yet translated]
+(184) Then Svarūpa Gosāñi began to speak, and the Lord’s devotees were overjoyed to hear him.
 
 রাধা বসি’ আছে, কিবা বৃন্দাবনে যায় ৷  
 তাঁহা আচম্বিতে কৃষ্ণ দরশন পায় ॥ ১৮৫ ॥
 
 rādhā vasi’ āche, kibā vṛndāvane yāya  
-tāṅhā ācambite kṛṣṇa daraśana pāya
+Rādhā  is sitting  or  into Vṛndāvana  is going  
+tāṅhā ācambite kṛṣṇa daraśana pāya  
+there  suddenly  of Kṛṣṇa  the sight  She obtains
 
-(185) [not yet translated]
+(185) “Rādhā may be sitting, or going into the forest of Vṛndāvana, when suddenly She catches sight of Kṛṣṇa.
 
 দেখিতে নানা-ভাব হয় বিলক্ষণ ৷  
 সে বৈলক্ষণ্যের নাম ‘বিলাস’-ভূষণ ॥ ১৮৬ ॥

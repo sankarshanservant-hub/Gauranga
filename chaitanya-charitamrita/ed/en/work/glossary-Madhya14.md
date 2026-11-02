@@ -36,3 +36,9 @@
 | gaṇḍa-śaila | mere hillocks | 14.86 |
 | śuṣka-tarka-khali | the oilcake of dry logic | 14.87 (*khali*, the residue left after pressing oil) |
 | śeṣa-śayyā; śeṣa-śāyī-līlā | couch like Śeṣa; the pastime of the One who lies on Śeṣa | 14.88–89 |
+| Herā-pañcamī | the Herā-pañcamī | 14.106–114 (the fifth day after the Ratha-yātrā; Lakṣmī’s procession to Guṇḍicā) |
+| Jagannātha-vallabha (garden) | the Jagannātha-vallabha garden | 14.105 (not the play of the same name) |
+| dolā | the palanquin | 14.110 |
+| chatra-cāmara | umbrellas and *cāmaras* | 14.109 |
+| Sundarācala; Nīlācala | Sundarācala; Nīlācala | 14.113–114, 14.120 (the Guṇḍicā temple; Purī / the main temple) |
+| rasa-viśeṣa | a special *rasa* | 14.116 |
