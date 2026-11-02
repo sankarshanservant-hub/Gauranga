@@ -39,3 +39,7 @@ The *Śrī Kṛṣṇa-vijaya* is the name of a book. Many consider it the first
 ## 102–106
 
 Rāmānanda Vasu and his father Satyarāja Khān were householder Vaiṣṇavas of the Kāyastha Vasu line, the glory of Bengal. They asked the Lord, “What is the duty, the *sādhana*, of a householder Vaiṣṇava?” The Lord answered, “To serve Kṛṣṇa, to serve the Vaiṣṇavas and to chant Kṛṣṇa's name without cease — this is the only duty of a householder Vaiṣṇava.” Then Satyarāja asked, “Serving Kṛṣṇa and chanting Kṛṣṇa's name are easy to understand. But if one cannot recognize a Vaiṣṇava, serving Vaiṣṇavas becomes very difficult. So, O Lord, who is a Vaiṣṇava, and what are his general marks?” The Lord answered, “One from whose lips Kṛṣṇa's name is heard even once is the best of all, a Vaiṣṇava worthy of honor.”
+
+## 110
+
+This great *mantra*, the very name of Śrī Kṛṣṇa, attracts the hearts of *sādhus* rich in pious merit, destroys sins, is easily available to all people from the *caṇḍālas* on, except the mute, and brings the wealth of liberation under its control. It gives its fruit as soon as it touches the tongue and does not depend in the least on initiation and the like or on *puraścaraṇa*.
