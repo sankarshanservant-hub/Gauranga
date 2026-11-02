@@ -1340,6 +1340,7 @@ tr: Seeing the grief of them both, the Lord consoled them, and to fulfil their w
 w: ācamana  having Him do  Bhaṭṭa  gave  mouth fresheners
 w: tulasī buds  cloves  cardamom  juicy and fragrant
 tr: When the Lord had rinsed His mouth, Bhaṭṭa gave Him mouth fresheners: tulasī buds, cloves and juicy, fragrant cardamom.
+fn: *Amṛta-pravāha-bhāṣya*: *elāci rasa-vāsa* — cardamom, juicy and fragrant.
 
 ## 255
 w: over all the limbs  smeared  of the Lord  fragrant  sandalwood
@@ -1375,11 +1376,13 @@ tr: Returning home, the Bhaṭṭācārya reproached himself and said to Ṣā�
 w: of Caitanya Gosāñi  blasphemy  I hear  whom  from
 w: him  killing  if done  there is  for the sin  atonement
 tr: “To kill the man from whom I have heard blasphemy of Caitanya Gosāñi would be the atonement for that sin.
+fn: *Anubhāṣya* cites scripture (*Hari-bhakti-vilāsa*, *Bhakti-sandarbha*) on the fruits of blaspheming Vaiṣṇavas: the blasphemer loses his merit and falls into hell; one who hears blasphemy of Bhagavān or His devotee and does not go away also falls (Śrīmad-Bhāgavatam, 10.74.40); as Satī says (Śrīmad-Bhāgavatam, 4.4.17), one who is powerless should cover his ears and leave, while one who is able should silence the blasphemer’s evil tongue, even at the cost of his own life. Sārvabhauma reasons in the same way (261–263).
 
 ## 262
 w: or  my own life  if  I make  giving up
 w: both  fitting  not  both  bodies  brāhmaṇa
 tr: “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.
+fn: *Amṛta-pravāha-bhāṣya*: Amogha is a brāhmaṇa and cannot be killed; Sārvabhauma too is a brāhmaṇa, so he may not take his own life; one course remains — never to see the blasphemer’s face.
 
 ## 263
 w: again  that  blasphemer’s  face  not  I shall see
@@ -1394,6 +1397,7 @@ tr: “Tell Ṣāṭhī to leave him: he has fallen (*patita*). When a husband h
 ## 265
 w: a husband  and  fallen  one should give up
 tr: “ ‘One should give up a fallen husband.’ ”
+fn: Heading in the edition: “Words of the *smṛti*.” *Anubhāṣya* cites Yājñavalkya, quoted by Śrīdhara Svāmī on Śrīmad-Bhāgavatam 7.11.28: a husband defiled by a great sin is to be waited for until he is purified.
 
 ## 266
 w: that  night  Amogha  somewhere  having fled  stayed
@@ -1415,14 +1419,16 @@ w: by great  indeed  effort
 w: with elephants, horses, chariots and foot soldiers
 w: by us  what  had to be done
 w: by the Gandharvas  that  has been done
-tr: “What we would have had to do with great effort, with elephants, horses, chariots and foot soldiers, the Gandharvas have done.” (Mahābhārata, Vana-parva 241.15)
+tr: “What we would have had to do with great effort, with elephants, horses, chariots and foot soldiers, the Gandharvas have done.” (Mahābhārata, Vana-parva, 241.15)
+fn: *Anubhāṣya*: when Duryodhana and the Kauravas came to the forest to inspect their cattle stations, the Gandharva king Citrasena took them captive; Duryodhana’s ministers begged the Pāṇḍavas for help, and Bhīmasena, remembering Duryodhana’s past misdeeds, spoke these words.
 
 ## 270
 w: life  fortune  fame  dharma
 w: the higher worlds  blessings  also  and
 w: destroys  benefits  all
 w: of a man  offence against the great
-tr: “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam 10.4.46)
+tr: “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)
+fn: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit when Kaṁsa ordered the Dānavas to persecute the sages and saints; *mahad-atikrama* — disrespect to Viṣṇu and the Vaiṣṇavas in body, mind or word, that is, *vaiṣṇava-aparādha* (compare Antya 3.146, 163).
 
 ## 271
 w: Gopīnātha Ācārya  went  to see the Lord
@@ -1438,6 +1444,7 @@ tr: The Ācārya said, “The two of them are fasting, and Amogha is dying of ch
 w: hearing  merciful  the Lord  came  running
 w: to Amogha  says  his  on the chest  hand  placing
 tr: Hearing this, the merciful Lord came running. Placing His hand on Amogha’s chest, He said:
+fn: Heading in the edition: “The Lord hurries to the Bhaṭṭa’s house and gives Amogha good counsel.”
 
 ## 274
 w: by nature  pure  this  brāhmaṇa’s heart

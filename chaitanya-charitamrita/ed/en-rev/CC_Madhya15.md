@@ -2562,7 +2562,7 @@ of both  by the wish  meal  took  pleased  being
 tulasī-mañjarī, lavaṅga, elāci, rasa-vāsa  
 tulasī buds  cloves  cardamom  juicy and fragrant
 
-(254) When the Lord had rinsed His mouth, Bhaṭṭa gave Him mouth fresheners: tulasī buds, cloves and juicy, fragrant cardamom.
+(254) When the Lord had rinsed His mouth, Bhaṭṭa gave Him mouth fresheners: tulasī buds, cloves and juicy, fragrant cardamom.[^62]
 
 সর্ব্বাঙ্গে লেপিল প্রভুর সুগন্ধি চন্দন ৷  
 দণ্ডবৎ হঞা বলে সদৈন্য বচন ॥ ২৫৫ ॥
@@ -2632,7 +2632,7 @@ of Caitanya Gosāñi  blasphemy  I hear  whom  from
 tāre vadha kaile haya pāpa-prāyaścitte  
 him  killing  if done  there is  for the sin  atonement
 
-(261) “To kill the man from whom I have heard blasphemy of Caitanya Gosāñi would be the atonement for that sin.
+(261) “To kill the man from whom I have heard blasphemy of Caitanya Gosāñi would be the atonement for that sin.[^63]
 
 কিম্বা নিজ-প্রাণ যদি করি বিমোচন ৷  
 দুই যোগ্য নহে, দুই — শরীর ব্রাহ্মণ ॥ ২৬২ ॥
@@ -2642,7 +2642,7 @@ or  my own life  if  I make  giving up
 dui yogya nahe, dui — śarīra brāhmaṇa  
 both  fitting  not  both  bodies  brāhmaṇa
 
-(262) “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.
+(262) “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.[^64]
 
 পুনঃ সেই নিন্দকের মুখ না দেখিব ৷  
 পরিত্যাগ কৈলুঁ, তার নাম না লইব ॥ ২৬৩ ॥
@@ -2669,7 +2669,7 @@ fallen  if becomes  a husband  to give up  proper
 “patiṁ ca patitaṁ tyajet”  
 a husband  and  fallen  one should give up
 
-(265) “ ‘One should give up a fallen husband.’ ”
+(265) “ ‘One should give up a fallen husband.’ ”[^65]
 
 সেই রাত্রে অমোঘ কাঁহা পলাঞা রহিল ৷  
 প্রাতঃকালে তার বিসূচিকা-ব্যাধি হৈল ॥ ২৬৬ ॥
@@ -2713,7 +2713,7 @@ by us  what  had to be done
 gandharvais tad anuṣṭhitam  
 by the Gandharvas  that  has been done
 
-(269) “What we would have had to do with great effort, with elephants, horses, chariots and foot soldiers, the Gandharvas have done.” (Mahābhārata, Vana-parva 241.15)
+(269) “What we would have had to do with great effort, with elephants, horses, chariots and foot soldiers, the Gandharvas have done.” (Mahābhārata, Vana-parva, 241.15)[^66]
 
 আয়ুঃ শ্রিয়ং যশো ধর্ম্মং লোকানাশিষ এব চ ৷  
 হন্তি শ্রেয়াংসি সর্ব্বাণি পুংসো মহদতিক্রমঃ ॥ ২৭০ ॥
@@ -2727,7 +2727,7 @@ destroys  benefits  all
 puṁso mahad-atikramaḥ  
 of a man  offence against the great
 
-(270) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam 10.4.46)
+(270) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)[^67]
 
 গোপীনাথাচার্য্য গেলা প্রভু-দরশনে ৷  
 প্রভু তাঁরে পুছিল ভট্টাচার্য্য-বিবরণে ॥ ২৭১ ॥
@@ -2757,7 +2757,7 @@ hearing  merciful  the Lord  came  running
 amoghere kahe tāra buke hasta diyā  
 to Amogha  says  his  on the chest  hand  placing
 
-(273) Hearing this, the merciful Lord came running. Placing His hand on Amogha’s chest, He said:
+(273) Hearing this, the merciful Lord came running. Placing His hand on Amogha’s chest, He said:[^68]
 
 সহজে নির্ম্মল এই ‘ব্রাহ্মণ’-হৃদয় ৷  
 কৃষ্ণের বসিতে এই যোগ্যস্থান হয় ॥ ২৭৪ ॥
@@ -3172,3 +3172,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^60]: *Anubhāṣya* names them from the *Śrī Kṛṣṇa-gaṇoddeśa-dīpikā*: Kṛṣṇa’s elder paternal uncles Upananda and Abhinanda, the younger ones Sannanda and Nandana, His maternal uncles Yaśodhara, Yaśodeva, Sudeva and others, and the husbands of His paternal aunts, Mahānīla and Sunīla; and it lists His friends — those “like younger brothers”, the “dear friends” (*priya-sakhās*) and the “intimate friends” (*priya-narma-sakhās*).
 
 [^61]: *Amṛta-pravāha-bhāṣya*: *mādhukarī* — a mouthful of food obtained in the manner of the bee (*madhukara-vṛtti*).
+
+[^62]: *Amṛta-pravāha-bhāṣya*: *elāci rasa-vāsa* — cardamom, juicy and fragrant.
+
+[^63]: *Anubhāṣya* cites scripture (*Hari-bhakti-vilāsa*, *Bhakti-sandarbha*) on the fruits of blaspheming Vaiṣṇavas: the blasphemer loses his merit and falls into hell; one who hears blasphemy of Bhagavān or His devotee and does not go away also falls (Śrīmad-Bhāgavatam, 10.74.40); as Satī says (Śrīmad-Bhāgavatam, 4.4.17), one who is powerless should cover his ears and leave, while one who is able should silence the blasphemer’s evil tongue, even at the cost of his own life. Sārvabhauma reasons in the same way (261–263).
+
+[^64]: *Amṛta-pravāha-bhāṣya*: Amogha is a brāhmaṇa and cannot be killed; Sārvabhauma too is a brāhmaṇa, so he may not take his own life; one course remains — never to see the blasphemer’s face.
+
+[^65]: Heading in the edition: “Words of the *smṛti*.” *Anubhāṣya* cites Yājñavalkya, quoted by Śrīdhara Svāmī on Śrīmad-Bhāgavatam 7.11.28: a husband defiled by a great sin is to be waited for until he is purified.
+
+[^66]: *Anubhāṣya*: when Duryodhana and the Kauravas came to the forest to inspect their cattle stations, the Gandharva king Citrasena took them captive; Duryodhana’s ministers begged the Pāṇḍavas for help, and Bhīmasena, remembering Duryodhana’s past misdeeds, spoke these words.
+
+[^67]: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit when Kaṁsa ordered the Dānavas to persecute the sages and saints; *mahad-atikrama* — disrespect to Viṣṇu and the Vaiṣṇavas in body, mind or word, that is, *vaiṣṇava-aparādha* (compare Antya 3.146, 163).
+
+[^68]: Heading in the edition: “The Lord hurries to the Bhaṭṭa’s house and gives Amogha good counsel.”
