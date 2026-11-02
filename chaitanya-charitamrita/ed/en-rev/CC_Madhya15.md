@@ -226,7 +226,7 @@ Advaita  says  —  truth  I speak  not  do  anger
 laguḍa phirāite pāra, tabe jāni gopa  
 the staff  to twirl  You can  then  I know  a cowherd
 
-(22) Advaita said, “I am telling You the truth — don’t be angry. Only if You can twirl a staff will I know You are a cowherd.”
+(22) Advaita said, “I am telling You the truth — don’t be angry. I will know You are a cowherd only if You can twirl a staff.”
 
 তবে লগুড় লঞা প্রভু ফিরাইতে লাগিলা ৷  
 বার বার আকাশে ফেলি’ লুফিয়া ধরিলা ॥ ২৩ ॥
@@ -286,7 +286,7 @@ costly  cloth  the Lord  on the head  tied
 ācāryādi prabhura gaṇere parāila  
 the Ācārya and others  the Lord’s  people  clothed
 
-(28) The Lord tied the costly cloth around His head, and the Ācārya and the Lord’s other companions were given it to wear as well.
+(28) The Lord tied the costly cloth around His head, and He had the Ācārya and His other companions wear it as well.
 
 কানাঞি-খুটিয়া, জগন্নাথ, — দুইজন ৷  
 আবেশে বিলাইল, ঘরে ছিল যত ধন ॥ ২৯ ॥
@@ -436,7 +436,7 @@ Rāmadāsa  Gadādhara  and others  some  persons
 tomāra sahāya lāgi’ dilu tomāra sane  
 Your  help  for  I have given  You  with
 
-(43) To help You I am sending Rāmadāsa, Gadādhara and some others with You.[^14]
+(43) I am sending Rāmadāsa, Gadādhara and a few others along to help You.[^14]
 
 মধ্যে মধ্যে আমি তোমার নিকটে যাইব ৷  
 অলক্ষিতে রহি’ তোমার নৃত্য দেখিব’ ॥ ৪৪ ॥
@@ -703,7 +703,7 @@ other  things  let be  hear  of the coconuts  the story
 pām̐ca gaṇḍā kari’ nārikela vikāya tathā  
 five  gaṇḍās  at  a coconut  sells  there
 
-(70) Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.[^19]
+(70) Leaving aside his other offerings, hear about the coconuts. In those parts a coconut sells for five *gaṇḍās*.[^19]
 
 বাটিতে কত শত বৃক্ষে লক্ষ লক্ষ ফল ৷  
 তথাপি শুনেন, যথা মিষ্ট নারিকেল ॥ ৭১ ॥
@@ -773,7 +773,7 @@ the pulp  offering  making  outside  meditation
 śasya khāñā kṛṣṇa kare śūnya bhājana  
 the pulp  eating  Kṛṣṇa  makes  empty  the vessel
 
-(77) He offers the pulp and meditates outside, and Kṛṣṇa eats the pulp and leaves the vessel empty.
+(77) He offers the pulp and meditates outside, and Kṛṣṇa eats it and leaves the vessel empty.
 
 কভু শস্য খাঞা পুনঃ পাত্র ভরে শাঁসে ৷  
 শ্রদ্ধা বাড়ে পণ্ডিতের, প্রেমসিন্ধু ভাসে ॥ ৭৮ ॥
@@ -1013,7 +1013,7 @@ of you  what  talk  of your  village  the dog
 seha mora priya, anya-jana rahu dūra  
 even he  to Me  dear  other people  let be  far
 
-(101) What to speak of you? Even a dog of your village is dear to Me, not to mention anyone else there.”[^29]
+(101) What need I say of you? Even a dog of your village is dear to Me, to say nothing of anyone else there.”[^29]
 
 তবে রামানন্দ, আর সত্যরাজ খাঁন ৷  
 প্রভুর চরণে কিছু কৈল নিবেদন ॥ ১০২ ॥
@@ -1129,7 +1129,7 @@ of Khaṇḍa  Mukunda dāsa  Śrī Raghunandana
 śrī-narahari, — ei mukhya tina jana  
 Śrī Narahari  —  these  chief  three  persons
 
-(112) From Khaṇḍa came Mukunda dāsa, Śrī Raghunandana and Śrī Narahari — these three were the chief among them.
+(112) Of the devotees from Khaṇḍa, three were the chief: Mukunda dāsa, Śrī Raghunandana and Śrī Narahari.
 
 মুকুন্দ-দাসেরে পুছে শচীর নন্দন ৷  
 ‘তুমি — পিতা, পুত্র তোমার — শ্রীরঘুনন্দন ? ॥ ১১৩ ॥
@@ -1209,7 +1209,7 @@ outwardly  a royal physician  he  does  the king’s service
 antare prema im̐hāra jānibeka kebā  
 within  love  his  will know  who
 
-(120) Outwardly he is a royal physician in the king’s service. Who could know the love within him?
+(120) Outwardly he is a royal physician in the king’s service. Who could know the love within him?[^37]
 
 এক দিন ম্লেচ্ছ-রাজার উচ্চ-টুঙ্গিতে ৷  
 চিকিৎসার বাত্ কহে ইঁহার অগ্রেতে ॥ ১২১ ॥
@@ -1219,7 +1219,7 @@ one  day  of the Muslim king  on the high platform
 cikitsāra bāt kahe im̐hāra agrete  
 of treatment  talk  speaks  him  before
 
-(121) One day, on the Muslim king’s high platform, the king was talking with him about medical treatment.
+(121) One day, on his high platform, the Muslim king was talking with him about medical treatment.[^38]
 
 হেনকালে এক ময়ূর-পুচ্ছের আড়ানী ৷  
 রাজ-শিরোপরি ধরে এক সেবক আনি’ ॥ ১২২ ॥
@@ -1279,7 +1279,7 @@ very shrewd  the king  that  all  knows
 mukundere haila tām̐ra ‘mahā-siddha’-jñāne  
 of Mukunda  became  his  as a great perfected soul  understanding
 
-(127) But the king was very shrewd and understood it all: he came to regard Mukunda as a great perfected soul.
+(127) But the king was very shrewd and understood it all: he came to regard Mukunda as a great perfected soul.[^39]
 
 রঘুনন্দন সেবা করে কৃষ্ণের মন্দিরে ৷  
 দ্বারে পুষ্করিণী, তার ঘাটের উপরে ॥ ১২৮ ॥
@@ -1299,7 +1299,7 @@ of kadamba  one  on a tree  bloom  twelve months
 nitya dui phula haya kṛṣṇa-avataṁse  
 daily  two  flowers  are  for Kṛṣṇa’s ornament
 
-(129) stands a *kadamba* tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.
+(129) stands a *kadamba* tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.[^40]
 
 মুকুন্দেরে কহে পুনঃ মধুর বচন ৷  
 ‘তোমার কার্য্য — ধর্ম্ম-ধন-উপার্জ্জন ॥ ১৩০ ॥
@@ -1309,7 +1309,7 @@ to Mukunda  says  again  sweet  words
 ‘tomāra kārya — dharma-dhana-upārjana  
 your  duty  —  earning dharma and wealth
 
-(130) Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with *dharma*.
+(130) Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with *dharma*.[^41]
 
 রঘুনন্দনের কার্য্য — কৃষ্ণের সেবন ৷  
 কৃষ্ণ-সেবা বিনা ইঁহার অন্য নাহি মন ॥ ১৩১ ॥
@@ -1369,7 +1369,7 @@ Sārvabhauma  do  the Dāru-brahma  worship
 vācaspati, kara ‘jala-brahmera’ sevana  
 Vācaspati  do  of the Jala-brahma  service
 
-(136) Sārvabhauma, worship the Dāru-brahma. Vācaspati, serve the Jala-brahma.”
+(136) Sārvabhauma, worship the Dāru-brahma. Vācaspati, serve the Jala-brahma.”[^42]
 
 মুরারি-গুপ্তেরে প্রভু করি’ আলিঙ্গন ৷  
 তাঁর ভক্তিনিষ্ঠা কহেন, শুন ভক্তগণ ॥ ১৩৭ ॥
@@ -1379,7 +1379,7 @@ Murāri Gupta  the Lord  making  embrace
 tām̐ra bhakti-niṣṭhā kahena, śuna bhakta-gaṇa  
 his  steadfast devotion  tells  hear  devotees
 
-(137) The Lord embraced Murāri Gupta and spoke of his steadfast devotion. Listen, devotees!
+(137) The Lord embraced Murāri Gupta and spoke of his steadfast devotion: “Listen, devotees![^43]
 
 পূর্ব্বে আমি ইঁহারে লোভাইল বার বার ৷  
 পরম মধুর, গুপ্ত, ব্রজেন্দ্রকুমার ॥ ১৩৮ ॥
@@ -1389,7 +1389,7 @@ before  I  him  tempted  time  after time
 parama madhura, gupta, vrajendra-kumāra  
 supremely  sweet  Gupta  the son of the king of Vraja
 
-(138) “In the past I tried again and again to win him over: ‘Gupta, the son of the king of Vraja is supremely sweet.
+(138) In the past I tried again and again to win him over: ‘Gupta, the son of the king of Vraja is supremely sweet.
 
 স্বয়ং ভগবান্ কৃষ্ণ — সর্ব্বাংশী, সর্ব্বাশ্রয় ৷  
 বিশুদ্ধ-নির্ম্মল-প্রেম, সর্ব্বরসময় ॥ ১৩৯ ॥
@@ -1409,7 +1409,7 @@ a jewel-mine of the jewels of all good qualities
 vidagdha, catura, dhīra, rasika śekhara  
 clever  skillful  composed  of rasikas  the crest
 
-(140) He is a mine filled with the jewels of every good quality. He is clever, skillful and composed — the crown of all who relish *rasa*.
+(140) He is a mine filled with the jewels of every good quality. He is expert, clever and composed — the crown of all who relish *rasa*.
 
 মধুর-চরিত্র কৃষ্ণের মধুর বিলাস ৷  
 চাতুর্য্য, বৈদগ্ধ্য করে যাঁর লীলা-রস ॥ ১৪১ ॥
@@ -1439,7 +1439,7 @@ in this way  time  after time  hearing  words
 āmāra gaurave kichu phiri’ gelā mana  
 out of regard for Me  somewhat  turning  went  his mind
 
-(143) Hearing such words from Me again and again, out of regard for Me his mind turned a little.
+(143) Hearing such words from Me again and again, out of regard for Me his mind turned a little.[^44]
 
 আমারে কহেন, — আমি তোমার কিঙ্কর ৷  
 তোমার আজ্ঞাকারী আমি নহি স্বতন্তর ॥ ১৪৪ ॥
@@ -1499,7 +1499,7 @@ at Raghunātha’s  feet  I  have sold  my head
 kāḍite nā pāri māthā, mane pāi vyathā  
 to take back  not  I can  the head  in mind  I get  pain
 
-(149) ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.
+(149) ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.[^45]
 
 শ্রীরঘুনাথ-চরণ ছাড়ান না যায় ৷  
 তব আজ্ঞা-ভঙ্গ হয়, কি করি উপায় ! ॥ ১৫০ ॥
@@ -1594,3 +1594,21 @@ of You  before  death  let be  let go  doubt
 [^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
 
 [^36]: Heading in the edition: “Mukunda, who seeks no honour himself and honours others, knows Raghunandana to be a devotee of Kṛṣṇa and so sees in him not a son but a guru.”
+
+[^37]: *Anubhāṣya* (on 121): in people’s eyes Mukunda served as a royal physician, but in truth he was a *mahā-bhāgavata*, a *paramahaṁsa* in the guise of a Vaiṣṇava householder, and ordinary people did not know it.
+
+[^38]: *Anubhāṣya*: *ucca-ṭuṅgi* — a small house built on a height.
+
+[^39]: *Anubhāṣya*: *mahā-vidagdha* — especially versed in the science of government; *mahā-siddha* — an extraordinary liberated soul. Heading in the edition: “Though Mukunda dissembles and hides himself, the king regards him as a ‘great soul’.”
+
+[^40]: *Anubhāṣya*: *avataṁsa* — an ornament for the ears or the head.
+
+[^41]: *Anubhāṣya*: Mahāprabhu knew Mukunda to be a very dear, intimate devotee. Dividing the service among the two brothers and the son, He gave Mukunda *dharma* and earning a living, Raghunandana the service of the Deity, and Narahari life among the devotees.
+
+[^42]: *Amṛta-pravāha-bhāṣya*: Sārvabhauma worships Jagannāthadeva, the Dāru-brahma (Brahman in the form of wood), while Vidyā-vācaspati, living in Vidyānagara within Navadvīpa-dhāma, serves the Gaṅgā, the Jala-brahma (Brahman in the form of water).
+
+[^43]: *Anubhāṣya*: for the like devotion to Śrī Rāma of Śrī Anupama (Vallabha), the father of Śrī Jīva, see Antya 4.30–45.
+
+[^44]: Heading in the edition: “Under the Lord’s influence Murāri’s mind changed for a moment.”
+
+[^45]: *Anubhāṣya* quotes the verse: “The Lord of Śrī and the Lord of Jānakī are one and the same Supreme Soul; there is no difference between Them. Still, my all in all is lotus-eyed Rāma.”

@@ -122,7 +122,7 @@ tr: With them all the Lord danced joyfully, and everyone was drenched in yogurt,
 ## 22
 w: Advaita  says  —  truth  I speak  not  do  anger
 w: the staff  to twirl  You can  then  I know  a cowherd
-tr: Advaita said, “I am telling You the truth — don’t be angry. Only if You can twirl a staff will I know You are a cowherd.”
+tr: Advaita said, “I am telling You the truth — don’t be angry. I will know You are a cowherd only if You can twirl a staff.”
 
 ## 23
 w: then  the staff  taking  the Lord  to twirl  began
@@ -155,7 +155,7 @@ tr: At Pratāparudra’s order, Tulasī the *paḍichā* came, bringing a cloth 
 ## 28
 w: costly  cloth  the Lord  on the head  tied
 w: the Ācārya and others  the Lord’s  people  clothed
-tr: The Lord tied the costly cloth around His head, and the Ācārya and the Lord’s other companions were given it to wear as well.
+tr: The Lord tied the costly cloth around His head, and He had the Ācārya and His other companions wear it as well.
 
 ## 29
 w: Kānāi Khuṭiyā  Jagannātha  —  the two
@@ -234,7 +234,7 @@ fn: *Anubhāṣya*: the *prākṛta-sahajiyās* claim that Mahāprabhu sent Nity
 ## 43
 w: Rāmadāsa  Gadādhara  and others  some  persons
 w: Your  help  for  I have given  You  with
-tr: To help You I am sending Rāmadāsa, Gadādhara and some others with You.
+tr: I am sending Rāmadāsa, Gadādhara and a few others along to help You.
 fn: Heading in the edition: “Nitāi’s companions in preaching — Abhirāma and Gadādhara dāsa.” *Amṛta-pravāha-bhāṣya*: Gadādhara is Gadādhara dāsa of Eṇḍiyādaha.
 
 ## 44
@@ -371,7 +371,7 @@ tr: Hear, everyone, how he serves Kṛṣṇa. His service is supremely pure, th
 ## 70
 w: other  things  let be  hear  of the coconuts  the story
 w: five  gaṇḍās  at  a coconut  sells  there
-tr: Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.
+tr: Leaving aside his other offerings, hear about the coconuts. In those parts a coconut sells for five *gaṇḍās*.
 fn: Money was counted in cowrie shells: a *gaṇḍā* is four cowries, so five *gaṇḍās* are twenty. Heading in the edition: “The wonderful variety of Rāghava’s coconut offerings.”
 
 ## 71
@@ -409,7 +409,7 @@ fn: The edition reads *śata-pātra* (literally “a hundred vessels”, or a ve
 ## 77
 w: the pulp  offering  making  outside  meditation
 w: the pulp  eating  Kṛṣṇa  makes  empty  the vessel
-tr: He offers the pulp and meditates outside, and Kṛṣṇa eats the pulp and leaves the vessel empty.
+tr: He offers the pulp and meditates outside, and Kṛṣṇa eats it and leaves the vessel empty.
 
 ## 78
 w: sometimes  the pulp  eating  again  the vessel  fills  with pulp
@@ -536,7 +536,7 @@ fn: *Anubhāṣya*: the full line of the poem reads: “With undivided feeling, 
 ## 101
 w: of you  what  talk  of your  village  the dog
 w: even he  to Me  dear  other people  let be  far
-tr: What to speak of you? Even a dog of your village is dear to Me, not to mention anyone else there.”
+tr: What need I say of you? Even a dog of your village is dear to Me, to say nothing of anyone else there.”
 fn: The second line is almost the same as Ādi 10.82.
 
 ## 102
@@ -600,7 +600,7 @@ fn: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one o
 ## 112
 w: of Khaṇḍa  Mukunda dāsa  Śrī Raghunandana
 w: Śrī Narahari  —  these  chief  three  persons
-tr: From Khaṇḍa came Mukunda dāsa, Śrī Raghunandana and Śrī Narahari — these three were the chief among them.
+tr: Of the devotees from Khaṇḍa, three were the chief: Mukunda dāsa, Śrī Raghunandana and Śrī Narahari.
 
 ## 113
 w: Mukunda dāsa  asks  Śacī’s  son
@@ -642,11 +642,13 @@ tr: He said to the devotees, “Hear about Mukunda’s love: it is spotless and 
 w: outwardly  a royal physician  he  does  the king’s service
 w: within  love  his  will know  who
 tr: Outwardly he is a royal physician in the king’s service. Who could know the love within him?
+fn: *Anubhāṣya* (on 121): in people’s eyes Mukunda served as a royal physician, but in truth he was a *mahā-bhāgavata*, a *paramahaṁsa* in the guise of a Vaiṣṇava householder, and ordinary people did not know it.
 
 ## 121
 w: one  day  of the Muslim king  on the high platform
 w: of treatment  talk  speaks  him  before
-tr: One day, on the Muslim king’s high platform, the king was talking with him about medical treatment.
+tr: One day, on his high platform, the Muslim king was talking with him about medical treatment.
+fn: *Anubhāṣya*: *ucca-ṭuṅgi* — a small house built on a height.
 
 ## 122
 w: at that time  a  of peacock feathers  fan
@@ -677,6 +679,7 @@ tr: The king asked, “Mukunda, why did you fall?” Mukunda said, “O king, I 
 w: very shrewd  the king  that  all  knows
 w: of Mukunda  became  his  as a great perfected soul  understanding
 tr: But the king was very shrewd and understood it all: he came to regard Mukunda as a great perfected soul.
+fn: *Anubhāṣya*: *mahā-vidagdha* — especially versed in the science of government; *mahā-siddha* — an extraordinary liberated soul. Heading in the edition: “Though Mukunda dissembles and hides himself, the king regards him as a ‘great soul’.”
 
 ## 128
 w: Raghunandana  service  does  in Kṛṣṇa’s  temple
@@ -687,11 +690,13 @@ tr: Raghunandana serves in Kṛṣṇa’s temple. At its door there is a pond, 
 w: of kadamba  one  on a tree  bloom  twelve months
 w: daily  two  flowers  are  for Kṛṣṇa’s ornament
 tr: stands a *kadamba* tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.
+fn: *Anubhāṣya*: *avataṁsa* — an ornament for the ears or the head.
 
 ## 130
 w: to Mukunda  says  again  sweet  words
 w: your  duty  —  earning dharma and wealth
 tr: Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with *dharma*.
+fn: *Anubhāṣya*: Mahāprabhu knew Mukunda to be a very dear, intimate devotee. Dividing the service among the two brothers and the son, He gave Mukunda *dharma* and earning a living, Raghunandana the service of the Deity, and Narahari life among the devotees.
 
 ## 131
 w: Raghunandana’s  duty  —  of Kṛṣṇa  service
@@ -722,16 +727,18 @@ tr: As the Dāru-brahma, Brahman in the form of wood, He is Śrī Puruṣottama 
 w: Sārvabhauma  do  the Dāru-brahma  worship
 w: Vācaspati  do  of the Jala-brahma  service
 tr: Sārvabhauma, worship the Dāru-brahma. Vācaspati, serve the Jala-brahma.”
+fn: *Amṛta-pravāha-bhāṣya*: Sārvabhauma worships Jagannāthadeva, the Dāru-brahma (Brahman in the form of wood), while Vidyā-vācaspati, living in Vidyānagara within Navadvīpa-dhāma, serves the Gaṅgā, the Jala-brahma (Brahman in the form of water).
 
 ## 137
 w: Murāri Gupta  the Lord  making  embrace
 w: his  steadfast devotion  tells  hear  devotees
-tr: The Lord embraced Murāri Gupta and spoke of his steadfast devotion. Listen, devotees!
+tr: The Lord embraced Murāri Gupta and spoke of his steadfast devotion: “Listen, devotees!
+fn: *Anubhāṣya*: for the like devotion to Śrī Rāma of Śrī Anupama (Vallabha), the father of Śrī Jīva, see Antya 4.30–45.
 
 ## 138
 w: before  I  him  tempted  time  after time
 w: supremely  sweet  Gupta  the son of the king of Vraja
-tr: “In the past I tried again and again to win him over: ‘Gupta, the son of the king of Vraja is supremely sweet.
+tr: In the past I tried again and again to win him over: ‘Gupta, the son of the king of Vraja is supremely sweet.
 
 ## 139
 w: Himself  the Lord  Kṛṣṇa  —  the source of all portions  the shelter of all
@@ -741,7 +748,7 @@ tr: Kṛṣṇa is the Lord Himself, the source of all His portions and the shel
 ## 140
 w: a jewel-mine of the jewels of all good qualities
 w: clever  skillful  composed  of rasikas  the crest
-tr: He is a mine filled with the jewels of every good quality. He is clever, skillful and composed — the crown of all who relish *rasa*.
+tr: He is a mine filled with the jewels of every good quality. He is expert, clever and composed — the crown of all who relish *rasa*.
 
 ## 141
 w: of sweet character  Kṛṣṇa’s  sweet  pastimes
@@ -757,6 +764,7 @@ tr: Worship that Kṛṣṇa and take shelter of Him. Apart from Kṛṣṇa, no
 w: in this way  time  after time  hearing  words
 w: out of regard for Me  somewhat  turning  went  his mind
 tr: Hearing such words from Me again and again, out of regard for Me his mind turned a little.
+fn: Heading in the edition: “Under the Lord’s influence Murāri’s mind changed for a moment.”
 
 ## 144
 w: to Me  says  —  I  Your  servant
@@ -787,6 +795,7 @@ tr: In the morning he came and clasped My feet, and, weeping and weeping, he sub
 w: at Raghunātha’s  feet  I  have sold  my head
 w: to take back  not  I can  the head  in mind  I get  pain
 tr: ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.
+fn: *Anubhāṣya* quotes the verse: “The Lord of Śrī and the Lord of Jānakī are one and the same Supreme Soul; there is no difference between Them. Still, my all in all is lotus-eyed Rāma.”
 
 ## 150
 w: Śrī Raghunātha’s feet  giving up  not  is possible
