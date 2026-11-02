@@ -609,241 +609,301 @@ or  some  animal  coming  everything  ate
 এত চিন্তি’ পাক-পাত্র যাঞা দেখিল ॥ ৬১ ॥
 
 kibā āmi anna-pātre bhrame nā bāḍila !’  
-eta cinti’ pāka-pātra yāñā dekhila
+or  I  on the rice plate  by mistake  not  served  
+eta cinti’ pāka-pātra yāñā dekhila  
+so  thinking  the cooking pots  going  looked at
 
-(61) [not yet translated]
+(61) Or did I forget to serve the food on the plate?’ Thinking this, she went and looked into the cooking pots.
 
 অন্নব্যঞ্জন পূর্ণ দেখি’ সকল ভাজনে ৷  
 দেখিয়া সংশয় হৈল কিছু চমৎকার মনে ॥ ৬২ ॥
 
 anna-vyañjana pūrṇa dekhi’ sakala bhājane  
-dekhiyā saṁśaya haila kichu camatkāra mane
+with rice and vegetables  full  seeing  all  the vessels  
+dekhiyā saṁśaya haila kichu camatkāra mane  
+seeing  doubt  arose  some  wonder  in the mind
 
-(62) [not yet translated]
+(62) She saw that all the pots were still full of rice and vegetables, and at the sight she was filled with doubt and wonder.
 
 ঈশানে বোলাঞা পুনঃ স্থান লেপাইল ৷  
 পুনরপি গোপালকে অন্ন সমর্পিল ॥ ৬৩ ॥
 
 īśāne bolāñā punaḥ sthāna lepāila  
-punarapi gopālake anna samarpila
+Īśāna  calling  again  the place  had cleaned  
+punarapi gopālake anna samarpila  
+once more  to Gopāla  food  offered
 
-(63) [not yet translated]
+(63) She called Īśāna, had the place cleaned and plastered again, and once more offered food to Gopāla.
 
 এইমত যবে করেন উত্তম রন্ধন ৷  
 মোরে খাওয়াইতে করে উৎকণ্ঠায় রোদন ॥ ৬৪ ॥
 
 ei mata yabe karena uttama randhana  
-more khāoyāite kare utkaṇṭhāya rodana
+thus  whenever  does  excellent  cooking  
+more khāoyāite kare utkaṇṭhāya rodana  
+Me  to feed  does  in longing  weeping
 
-(64) [not yet translated]
+(64) Whenever she cooks something excellent like this, she weeps with longing to feed Me.
 
 তাঁর প্রেমে আনি’ আমায় করায় ভোজনে ৷  
 অন্তরে সুখ মানে তেঁহো, বাহ্যে নাহি মানে ॥ ৬৫ ॥
 
 tāṅra preme āni’ āmāya karāya bhojane  
-antare sukha māne teṅho, bāhye nāhi māne
+her  by love  bringing  Me  makes  eat  
+antare sukha māne teṅho, bāhye nāhi māne  
+within  happiness  feels  she  outwardly  not  accepts
 
-(65) [not yet translated]
+(65) Her love draws Me there and makes Me eat. Within she feels happy, but outwardly she does not accept it.
 
 এই বিজয়া-দশমীতে হৈল এই রীতি ৷  
 তাঁহাকে পুছিয়া তাঁর করাইহ প্রতীতি ॥ ৬৬ ॥
 
 ei vijayā-daśamīte haila ei rīti  
-tāṅhāke puchiyā tāṅra karāiha pratīti
+on this  Vijayā-daśamī  happened  this  event  
+tāṅhāke puchiyā tāṅra karāiha pratīti  
+her  asking  to her  make  conviction
 
-(66) [not yet translated]
+(66) This happened on this very Vijayā-daśamī. Ask her about it and convince her that it was real.”
 
 এতেক কহিতে প্রভু বিহ্বল হইলা ৷  
 লোক বিদায় করিতে প্রভু ধৈর্য্য ধরিলা ॥ ৬৭ ॥
 
 eteka kahite prabhu vihvala hailā  
-loka vidāya karite prabhu dhairya dharilā
+so much  saying  the Lord  overwhelmed  became  
+loka vidāya karite prabhu dhairya dharilā  
+the people  farewell  to make  the Lord  composure  held
 
-(67) [not yet translated]
+(67) As He said this, the Lord was overwhelmed; but to send the devotees off He kept His composure.
 
 রাঘব-পণ্ডিতে কহেন বচন সরস ৷  
 ‘তোমার নিষ্ঠা প্রেমে আমি হই তোমার বশ’ ॥ ৬৮ ॥
 
 rāghava-paṇḍite kahena vacana sarasa  
-‘tomāra niṣṭhā preme āmi hai tomāra vaśa’
+to Rāghava Paṇḍita  speaks  words  tender  
+‘tomāra niṣṭhā preme āmi hai tomāra vaśa’  
+your  steadfast  by love  I  am  your  subject
 
-(68) [not yet translated]
+(68) To Rāghava Paṇḍita He spoke tender words: “Your steadfast love has brought Me under your control.
 
 ইঁহার কৃষ্ণসেবার কথা শুন, সর্ব্বজন ৷  
 পরম-পবিত্র সেবা অতি সর্ব্বোত্তম ॥ ৬৯ ॥
 
 iṅhāra kṛṣṇa-sevāra kathā śuna, sarva-jana  
-parama-pavitra sevā ati sarvottama
+his  of service to Kṛṣṇa  the account  hear  all people  
+parama-pavitra sevā ati sarvottama  
+supremely pure  service  most  excellent
 
-(69) [not yet translated]
+(69) Hear, everyone, how he serves Kṛṣṇa. His service is supremely pure, the very best of all.
 
 আর দ্রব্য রহু, শুন নারিকেলের কথা ৷  
 পাঁচ গণ্ডা করি’ নারিকেল বিকায় তথা ॥ ৭০ ॥
 
 āra dravya rahu, śuna nārikelera kathā  
-pāṅca gaṇḍā kari’ nārikela vikāya tathā
+other  things  let be  hear  of the coconuts  the story  
+pāṅca gaṇḍā kari’ nārikela vikāya tathā  
+five  gaṇḍās  at  a coconut  sells  there
 
-(70) [not yet translated]
+(70) Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.
 
 বাটিতে কত শত বৃক্ষে লক্ষ লক্ষ ফল ৷  
 তথাপি শুনেন, যথা মিষ্ট নারিকেল ॥ ৭১ ॥
 
 vāṭite kata śata vṛkṣe lakṣa lakṣa phala  
-tathāpi śunena, yathā miṣṭa nārikela
+in his garden  how many  hundreds  on trees  lakhs  upon lakhs  fruits  
+tathāpi śunena, yathā miṣṭa nārikela  
+still  he inquires  where  sweet  coconuts
 
-(71) [not yet translated]
+(71) In his garden hundreds of trees bear fruit by the hundreds of thousands, yet he still asks where the sweetest coconuts are to be had.
 
 এক এক ফলের মূল্য দিয়া চারি চারি পণ ৷  
 দশক্রোশ হৈতে আনায় করিয়া যতন ॥ ৭২ ॥
 
 eka eka phalera mūlya diyā cāri cāri paṇa  
-daśa-krośa haite ānāya kariyā yatana
+for each  one  fruit’s  price  giving  four  four  paṇas  
+daśa-krośa haite ānāya kariyā yatana  
+ten krośas  from  has brought  taking  pains
 
-(72) [not yet translated]
+(72) He pays four *paṇas* for every single fruit and takes pains to have them brought from ten *krośas* away.
 
 প্রতিদিন পাঁচ-সাত ফল, ছোলাঞা ৷  
 সুশীতল করিয়া রাখে জলে ডুবাঞা ॥ ৭৩ ॥
 
 pratidina pāṅca-sāta phala, cholāñā  
-suśītala kariyā rākhe jale ḍubāñā
+every day  five or seven  fruits  husking  
+suśītala kariyā rākhe jale ḍubāñā  
+very cool  making  keeps  in water  immersing
 
-(73) [not yet translated]
+(73) Every day he has five or seven fruits husked and keeps them immersed in water to make them very cool.
 
 ভোগের সময় পুনঃ ছুলি’ সংস্করি’ ৷  
 কৃষ্ণে সমর্পণ করে, মুখ ছিদ্র করি’ ॥ ৭৪ ॥
 
 bhogera samaya punaḥ chuli’ saṁskari’  
-kṛṣṇe samarpaṇa kare, mukha chidra kari’
+of the offering  at the time  again  trimming  preparing  
+kṛṣṇe samarpaṇa kare, mukha chidra kari’  
+to Kṛṣṇa  offering  makes  the top  a hole  making
 
-(74) [not yet translated]
+(74) At the time of the offering he trims and prepares them again, cuts an opening in the top, and offers them to Kṛṣṇa.
 
 কৃষ্ণ সেই নারিকেল-জল পান করি’ ৷  
 কভু শূন্য ফল রাখেন, কভু জল ভরি’ ॥ ৭৫ ॥
 
 kṛṣṇa sei nārikela-jala pāna kari’  
-kabhu śūnya phala rākhena, kabhu jala bhari’
+Kṛṣṇa  that  coconut water  drinking  doing  
+kabhu śūnya phala rākhena, kabhu jala bhari’  
+sometimes  empty  the fruit  leaves  sometimes  with water  full
 
-(75) [not yet translated]
+(75) Kṛṣṇa drinks the coconut water: sometimes He leaves the fruit empty, sometimes still full of water.
 
 জলশূন্য ফল দেখি’ পণ্ডিত — হরষিত ৷  
 ফল ভাঙ্গি’ শস্যে করে শতপাত্র পূরিত ॥ ৭৬ ॥
 
 jala-śūnya phala dekhi’ paṇḍita — haraṣita  
-phala bhāṅgi’ śasye kare śata-pātra pūrita
+without water  the fruit  seeing  the Paṇḍita  —  delighted  
+phala bhāṅgi’ śasye kare śata-pātra pūrita  
+the fruit  breaking  with the pulp  makes  the śata-pātra  filled
 
-(76) [not yet translated]
+(76) When the Paṇḍita sees a fruit emptied of its water, he is delighted. He breaks it open and fills a plate with the pulp.
 
 শস্য সমর্পণ করি’ বাহিরে ধেয়ান ৷  
 শস্য খাঞা কৃষ্ণ করে শূন্য ভাজন ॥ ৭৭ ॥
 
 śasya samarpaṇa kari’ bāhire dheyāna  
-śasya khāñā kṛṣṇa kare śūnya bhājana
+the pulp  offering  making  outside  meditation  
+śasya khāñā kṛṣṇa kare śūnya bhājana  
+the pulp  eating  Kṛṣṇa  makes  empty  the vessel
 
-(77) [not yet translated]
+(77) He offers the pulp and meditates outside, and Kṛṣṇa eats the pulp and leaves the vessel empty.
 
 কভু শস্য খাঞা পুনঃ পাত্র ভরে শাঁসে ৷  
 শ্রদ্ধা বাড়ে পণ্ডিতের, প্রেমসিন্ধু ভাসে ॥ ৭৮ ॥
 
 kabhu śasya khāñā punaḥ pātra bhare śāṅse  
-śraddhā bāḍe paṇḍitera, prema-sindhu bhāse
+sometimes  the pulp  eating  again  the vessel  fills  with pulp  
+śraddhā bāḍe paṇḍitera, prema-sindhu bhāse  
+faith  grows  the Paṇḍita’s  in the ocean of love  floats
 
-(78) [not yet translated]
+(78) Sometimes, after eating the pulp, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
 
 এক দিন ফলদশ সংস্কার করিয়া ৷  
 ভোগ লাগাইতে সেবক আইল লঞা ॥ ৭৯ ॥
 
 eka dina phala-daśa saṁskāra kariyā  
-bhoga lāgāite sevaka āila lañā
+one  day  ten fruits  preparation  making  
+bhoga lāgāite sevaka āila lañā  
+the offering  to set  a servant  came  bringing
 
-(79) [not yet translated]
+(79) One day a servant prepared ten coconuts and brought them to be offered.
 
 অবসর নাহি হয়, বিলম্ব হইল ৷  
 ফল-পাত্র-হাতে সেবক দ্বারে ত’ রহিল ॥ ৮০ ॥
 
 avasara nāhi haya, vilamba haila  
-phala-pātra-hāte sevaka dvāre ta’ rahila
+opportunity  not  is  delay  happened  
+phala-pātra-hāte sevaka dvāre ta’ rahila  
+with the plate of fruits in hand  the servant  at the door  just  stayed
 
-(80) [not yet translated]
+(80) It was not yet time to offer them; there was a delay, so the servant waited at the door with the plate of fruits in his hand.
 
 দ্বারের উপর-ভিতে তেঁহো হাত দিল ৷  
 সেই হাতে ফল ছুঁইল, পণ্ডিত দেখিল ॥ ৮১ ॥
 
 dvārera upara-bhite teṅho hāta dila  
-sei hāte phala chuṅila, paṇḍita dekhila
+of the door  on the upper wall  he  hand  put  
+sei hāte phala chuṅila, paṇḍita dekhila  
+that  with hand  the fruits  touched  the Paṇḍita  saw
 
-(81) [not yet translated]
+(81) He touched the wall above the door with his hand and then touched the fruits with the same hand. The Paṇḍita saw it.
 
 পণ্ডিত কহে, — দ্বারে লোক করে গতায়াতে ৷  
 তার পদধূলি উড়ি’ লাগে উপর ভিতে ॥ ৮২ ॥
 
 paṇḍita kahe, — dvāre loka kare gatāyāte  
-tāra pada-dhūli uḍi’ lāge upara bhite
+the Paṇḍita  says  —  through the door  people  make  coming and going  
+tāra pada-dhūli uḍi’ lāge upara bhite  
+their  foot-dust  flying up  sticks  on the upper  wall
 
-(82) [not yet translated]
+(82) The Paṇḍita said, “People are always coming and going through this door. The dust from their feet flies up and settles on the wall above it.
 
 সেই ভিতে হাত দিয়া ফল পরশিলা ৷  
 কৃষ্ণ-যোগ্য নহে, ফল অপবিত্র হৈলা ॥ ৮৩ ॥
 
 sei bhite hāta diyā phala paraśilā  
-kṛṣṇa-yogya nahe, phala apavitra hailā
+that  on the wall  hand  putting  the fruits  you touched  
+kṛṣṇa-yogya nahe, phala apavitra hailā  
+for Kṛṣṇa fit  not  the fruits  impure  have become
 
-(83) [not yet translated]
+(83) You put your hand on that wall and then touched the fruits. They are no longer fit for Kṛṣṇa — they have become impure.”
 
 এত বলি’ ফল ফেলে প্রাচীর লঙ্ঘিয়া ৷  
 ঐছে পবিত্র প্রেম-সেবা জগৎ জিনিয়া ॥ ৮৪ ॥
 
 eta bali’ phala phele prācīra laṅghiyā  
-aiche pavitra prema-sevā jagat jiniyā
+so  saying  the fruits  throws  the boundary wall  crossing  
+aiche pavitra prema-sevā jagat jiniyā  
+such  pure  loving service  the world  conquering
 
-(84) [not yet translated]
+(84) With these words he threw the fruits over the boundary wall. Such is his pure, loving service: it conquers the world.
 
 তবে আর নারিকেল সংস্কার করাইল ৷  
 পরম পবিত্র করি’ ভোগ লাগাইল ॥ ৮৫ ॥
 
 tabe āra nārikela saṁskāra karāila  
-parama pavitra kari’ bhoga lāgāila
+then  other  coconuts  preparation  had made  
+parama pavitra kari’ bhoga lāgāila  
+supremely  pure  making  offering  set
 
-(85) [not yet translated]
+(85) Then he had other coconuts prepared and offered them with the utmost purity.
 
 এইমত কলা, আম্র, নারঙ্গ, কাঁঠাল ৷  
 যাহা যাহা দূর-গ্রামে শুনিয়াছে ভাল ॥ ৮৬ ॥
 
 ei mata kalā, āmra, nāraṅga, kāṅṭhāla  
-yāhā yāhā dūra-grāme śuniyāche bhāla
+in this way  bananas  mangoes  oranges  jackfruits  
+yāhā yāhā dūra-grāme śuniyāche bhāla  
+whatever  whatever  in a distant village  he has heard  good
 
-(86) [not yet translated]
+(86) In the same way, whenever he hears of good bananas, mangoes, oranges or jackfruits in some distant village,
 
 বহুমূল্য দিয়া আনি’ করিয়া যতন ৷  
 পবিত্র সংস্কার করি’ করে নিবেদন ॥ ৮৭ ॥
 
 bahu-mūlya diyā āni’ kariyā yatana  
-pavitra saṁskāra kari’ kare nivedana
+great price  paying  bringing  taking  pains  
+pavitra saṁskāra kari’ kare nivedana  
+pure  preparation  making  makes  offering
 
-(87) [not yet translated]
+(87) he pays a great price, takes pains to have them brought, prepares them with purity and offers them.
 
 এই মত ব্যঞ্জনের শাক, মূল, ফল ৷  
 এই মত চিড়া, হুড়ুম, সন্দেশ সকল ॥ ৮৮ ॥
 
 ei mata vyañjanera śāka, mūla, phala  
-ei mata ciḍā, huḍuma, sandeśa sakala
+in the same way  for vegetable dishes  greens  roots  fruits  
+ei mata ciḍā, huḍuma, sandeśa sakala  
+in the same way  flat rice  huḍuma  sweets  all
 
-(88) [not yet translated]
+(88) So too with the greens, roots and vegetables for his dishes, and with flat rice, *huḍuma* and all kinds of sweets;
 
 এইমত পিঠা-পানা, ক্ষীর-ওদন ৷  
 পরম পবিত্র, আর করে সর্ব্বোত্তম ॥ ৮৯ ॥
 
 ei mata piṭhā-pānā, kṣīra-odana  
-parama pavitra, āra kare sarvottama
+in the same way  cakes and drinks  sweet rice  
+parama pavitra, āra kare sarvottama  
+supremely  pure  and  makes  the best of all
 
-(89) [not yet translated]
+(89) so too with cakes, drinks and sweet rice — all supremely pure and the very best.
 
 কাশমৃদি, আচার, আদি অনেক প্রকার ৷  
 গন্ধ, বস্ত্র, অলঙ্কার, সর্ব্বদ্রব্য সার ॥ ৯০ ॥
 
 kāśamṛdi, ācāra, ādi aneka prakāra  
-gandha, vastra, alaṅkāra, sarva-dravya sāra
+kāśamdi  pickles  and so on  many  kinds  
+gandha, vastra, alaṅkāra, sarva-dravya sāra  
+scents  cloth  ornaments  of all things  the best
 
-(90) [not yet translated]
+(90) He offers *kāśamdi*, pickles and many other things, and the best of everything: scents, cloth and ornaments.
 
 এইমত প্রেমের সেবা করে অনুপম ৷  
 যাহা দেখি’ সর্ব্বলোকের জুড়ায় নয়ন ॥ ৯১ ॥
