@@ -909,153 +909,191 @@ scents  cloth  ornaments  of all things  the best
 যাহা দেখি’ সর্ব্বলোকের জুড়ায় নয়ন ॥ ৯১ ॥
 
 ei mata premera sevā kare anupama  
-yāhā dekhi’ sarva-lokera juḍāya nayana
+in this way  loving  service  does  incomparable  
+yāhā dekhi’ sarva-lokera juḍāya nayana  
+which  seeing  of all people  are soothed  the eyes
 
-(91) [not yet translated]
+(91) Such is the incomparable service he renders in love; it is a balm to the eyes of all who see it.”
 
 এত বলি’ রাঘবেরে কৈল আলিঙ্গনে ৷  
 এইমত সম্মানিল সর্ব্ব ভক্তগণে ॥ ৯২ ॥
 
 eta bali’ rāghavere kaila āliṅgane  
-ei mata sammānila sarva bhakta-gaṇe
+so  saying  Rāghava  made  embrace  
+ei mata sammānila sarva bhakta-gaṇe  
+in this way  honored  all  the devotees
 
-(92) [not yet translated]
+(92) With these words He embraced Rāghava, and in the same way He honored all the devotees.
 
 শিবানন্দ সেনে কহে করিয়া সম্মান ৷  
 বাসুদেব-দত্তের তুমি করিহ সমাধান ॥ ৯৩ ॥
 
 śivānanda sene kahe kariyā sammāna  
-vāsudeva-dattera tumi kariha samādhāna
+to Śivānanda Sena  says  showing  respect  
+vāsudeva-dattera tumi kariha samādhāna  
+of Vāsudeva Datta  you  do  care
 
-(93) [not yet translated]
+(93) Respectfully He said to Śivānanda Sena, “Please look after Vāsudeva Datta.
 
 পরম উদার ইঁহো, যে দিন যে আইসে ৷  
 সেই দিনে ব্যয় করে, নাহি রাখে শেষে ॥ ৯৪ ॥
 
 parama udāra iṅho, ye dina ye āise  
-sei dine vyaya kare, nāhi rākhe śeṣe
+supremely  generous  he  on whatever  day  whatever  comes  
+sei dine vyaya kare, nāhi rākhe śeṣe  
+on that  day  spending  does  not  keeps  remainder
 
-(94) [not yet translated]
+(94) He is extremely generous: whatever comes to him on any day, he spends that same day and keeps nothing back.
 
 ‘গৃহস্থ’ হয়েন ইঁহো, চাহিয়ে সঞ্চয় ৷  
 সঞ্চয় না কৈলে কুটুম্ব-ভরণ নাহি হয় ॥ ৯৫ ॥
 
 ‘gṛhastha’ hayena iṅho, cāhiye sañcaya  
-sañcaya nā kaile kuṭumba-bharaṇa nāhi haya
+a householder  is  he  is needed  saving  
+sañcaya nā kaile kuṭumba-bharaṇa nāhi haya  
+saving  not  if made  the family’s upkeep  not  is
 
-(95) [not yet translated]
+(95) He is a householder, and a householder needs to save; without savings he cannot support his family.
 
 ইহার ঘরের আয়-ব্যয়, সব — তোমার স্থানে ৷  
 ‘সরখেল’ হঞা তুমি করিহ সমাধানে ॥ ৯৬ ॥
 
 ihāra gharera āya-vyaya, saba — tomāra sthāne  
-‘sarakhela’ hañā tumi kariha samādhāne
+his  household’s  income and expenses  all  —  with you  
+‘sarakhela’ hañā tumi kariha samādhāne  
+the sarakhela  becoming  you  do  managing
 
-(96) [not yet translated]
+(96) Let all the income and expenses of his household be in your hands. Be his *sarakhela*, his guardian, and manage his affairs.
 
 প্রতিবর্ষে আমার সব ভক্তগণ লঞা ৷  
 গুণ্ডিচায় আসিবে সবায় পালন করিয়া ॥ ৯৭ ॥
 
 prati-varṣe āmāra saba bhakta-gaṇa lañā  
-guṇḍicāya āsibe sabāya pālana kariyā
+every year  My  all  devotees  taking  
+guṇḍicāya āsibe sabāya pālana kariyā  
+to Guṇḍicā  you will come  all  protection  making
 
-(97) [not yet translated]
+(97) Every year bring all My devotees to the Guṇḍicā festival, and take care of them all.”
 
 কুলীনগ্রামীরে কহে সম্মান করিয়া ৷  
 প্রত্যব্দ আসিবে যাত্রায় পট্টডোরী লঞা ॥ ৯৮ ॥
 
 kulīna-grāmīre kahe sammāna kariyā  
-pratyabda āsibe yātrāya paṭṭa-ḍorī lañā
+to the residents of Kulīna-grāma  says  respect  showing  
+pratyabda āsibe yātrāya paṭṭa-ḍorī lañā  
+every year  you will come  to the festival  silk ropes  bringing
 
-(98) [not yet translated]
+(98) To the residents of Kulīna-grāma He said respectfully, “Come every year to the festival, and bring silk ropes.
 
 গুণরাজ-খাঁন কৈল শ্রীকৃষ্ণবিজয় ৷  
 তাঁহা একবাক্য তাঁর আছে প্রেমময় ॥ ৯৯ ॥
 
 guṇarāja-khāṅna kaila śrī-kṛṣṇa-vijaya  
-tāṅhā eka-vākya tāṅra āche premamaya
+Guṇarāja Khān  composed  the Śrī Kṛṣṇa-vijaya  
+tāṅhā eka-vākya tāṅra āche premamaya  
+there  one sentence  his  is  full of love
 
-(99) [not yet translated]
+(99) Guṇarāja Khān composed the *Śrī Kṛṣṇa-vijaya*, and in it there is a sentence of his that is full of love:
 
 ‘নন্দনন্দন কৃষ্ণ — মোর প্রাণনাথ’ ৷  
 এই বাক্যে বিকাইনু তাঁর বংশের হাত ॥ ১০০ ॥
 
 ‘nandanandana kṛṣṇa — mora prāṇa-nātha’  
-ei vākye vikāinu tāṅra vaṁśera hāta
+Nanda’s son  Kṛṣṇa  —  my  Lord of life  
+ei vākye vikāinu tāṅra vaṁśera hāta  
+by this  sentence  I am sold  his  family’s  into the hands
 
-(100) [not yet translated]
+(100) ‘Kṛṣṇa, the son of Nanda, is the Lord of my life.’ For this one sentence I have sold Myself into the hands of his descendants.
 
 তোমার কি কথা, তোমার গ্রামের কুক্কুর ৷  
 সেহ মোর প্রিয়, অন্যজন রহু দূর ॥ ১০১ ॥
 
 tomāra ki kathā, tomāra grāmera kukkura  
-seha mora priya, anya-jana rahu dūra
+of you  what  talk  of your  village  the dog  
+seha mora priya, anya-jana rahu dūra  
+even he  to Me  dear  other people  let be  far
 
-(101) [not yet translated]
+(101) What to speak of you? Even a dog of your village is dear to Me, not to mention anyone else there.”
 
 তবে রামানন্দ, আর সত্যরাজ খাঁন ৷  
 প্রভুর চরণে কিছু কৈল নিবেদন ॥ ১০২ ॥
 
 tabe rāmānanda, āra satyarāja khāṅna  
-prabhura caraṇe kichu kaila nivedana
+then  Rāmānanda  and  Satyarāja Khān  
+prabhura caraṇe kichu kaila nivedana  
+of the Lord  at the feet  something  made  submission
 
-(102) [not yet translated]
+(102) Then Rāmānanda and Satyarāja Khān humbly put a question at the Lord’s feet:
 
 গৃহস্থ বিষয়ী আমি, কি মোর সাধনে ৷  
 শ্রীমুখে করেন আজ্ঞা, নিবেদি চরণে ॥ ১০৩ ॥
 
 gṛhastha viṣayī āmi, ki mora sādhane  
-śrī-mukhe karena ājñā, nivedi caraṇe
+a householder  worldly  I  what  my  practice  
+śrī-mukhe karena ājñā, nivedi caraṇe  
+with Your holy mouth  give  the order  I submit  at the feet
 
-(103) [not yet translated]
+(103) “I am a worldly householder. What should my practice be? Please instruct me with Your own lips — I submit this at Your feet.”
 
 প্রভু কহেন, — ‘কৃষ্ণসেবা’, ‘বৈষ্ণব-সেবন’ ৷  
 ‘নিরন্তর কর কৃষ্ণনাম-সংকীর্ত্তন’ ॥ ১০৪ ॥
 
 prabhu kahena, — ‘kṛṣṇa-sevā’, ‘vaiṣṇava-sevana’  
-‘nirantara kara kṛṣṇa-nāma-saṁkīrtana’
+the Lord  says  —  service to Kṛṣṇa  service to the Vaiṣṇavas  
+‘nirantara kara kṛṣṇa-nāma-saṁkīrtana’  
+constantly  do  saṅkīrtana of Kṛṣṇa’s Name
 
-(104) [not yet translated]
+(104) The Lord said, “Serve Kṛṣṇa, serve the Vaiṣṇavas, and always chant the Name of Kṛṣṇa in *saṅkīrtana*.”
 
 সত্যরাজ বলে, — বৈষ্ণব চিনিব কেমনে ?  
 কে বৈষ্ণব, কহ তাঁর সামান্য লক্ষণে ॥ ১০৫ ॥
 
 satyarāja bale, — vaiṣṇava ciniba kemane?  
-ke vaiṣṇava, kaha tāṅra sāmānya lakṣaṇe
+Satyarāja  says  —  a Vaiṣṇava  shall I recognize  how  
+ke vaiṣṇava, kaha tāṅra sāmānya lakṣaṇe  
+who  a Vaiṣṇava  tell  his  general  marks
 
-(105) [not yet translated]
+(105) Satyarāja said, “How am I to recognize a Vaiṣṇava? Tell me who is a Vaiṣṇava — what are his general marks?”
 
 প্রভু কহে, — যাঁর মুখে শুনি একবার ৷  
 কৃষ্ণনাম, সেই পূজ্য, — শ্রেষ্ঠ সবাকার ॥ ১০৬ ॥
 
 prabhu kahe, — yāṅra mukhe śuni eka-bāra  
-kṛṣṇa-nāma, sei pūjya, — śreṣṭha sabākāra
+the Lord  says  —  from whose  mouth  I hear  once  
+kṛṣṇa-nāma, sei pūjya, — śreṣṭha sabākāra  
+Kṛṣṇa’s Name  he  worshipable  —  best  of all
 
-(106) [not yet translated]
+(106) The Lord said, “Anyone from whose mouth I hear the Name of Kṛṣṇa even once is worthy of worship — he is the best of all.
 
 এক কৃষ্ণনামে করে সর্ব্ব-পাপ ক্ষয় ৷  
 নববিধা ভক্তি পূর্ণ নাম হৈতে হয় ॥ ১০৭ ॥
 
 eka kṛṣṇa-nāme kare sarva-pāpa kṣaya  
-nava-vidhā bhakti pūrṇa nāma haite haya
+one  Name of Kṛṣṇa  does  of all sins  destruction  
+nava-vidhā bhakti pūrṇa nāma haite haya  
+ninefold  devotion  complete  the Name  from  becomes
 
-(107) [not yet translated]
+(107) A single Name of Kṛṣṇa destroys all sins, and through the Name the nine kinds of devotion become complete.
 
 দীক্ষা-পুরশ্চর্য্যা-বিধি অপেক্ষা না করে ৷  
 জিহ্বা-স্পর্শে আ-চণ্ডাল সবারে উদ্ধারে ॥ ১০৮ ॥
 
 dīkṣā-puraścaryā-vidhi apekṣā nā kare  
-jihvā-sparśe ā-caṇḍāla sabāre uddhāre
+initiation, puraścaryā, rules  dependence  not  does  
+jihvā-sparśe ā-caṇḍāla sabāre uddhāre  
+by touching the tongue  down to the caṇḍāla  all  delivers
 
-(108) [not yet translated]
+(108) The Name does not wait for initiation, *puraścaryā* or any other rule. Simply by touching the tongue it delivers everyone, down to the *caṇḍāla*.
 
 অনুষঙ্গ-ফলে করে সংসারের ক্ষয় ৷  
 চিত্ত আকর্ষিয়া করায় কৃষ্ণে প্রেমোদয় ॥ ১০৯ ॥
 
 anuṣaṅga-phale kare saṁsārera kṣaya  
-citta ākarṣiyā karāya kṛṣṇe premodaya
+as a by-product  does  of worldly existence  ending  
+citta ākarṣiyā karāya kṛṣṇe premodaya  
+the heart  attracting  causes  for Kṛṣṇa  the dawning of love
 
-(109) [not yet translated]
+(109) As a mere by-product it ends worldly existence; and by attracting the heart it awakens love for Kṛṣṇa.
 
 আকৃষ্টিঃ কৃতচেতসাং সুমনসামুচ্চাটনং চাংহসা-  
 মাচণ্ডালমমূকলোকসুলভো বশ্যশ্চ মুক্তিশ্রিয়ঃ ৷  
@@ -1063,91 +1101,115 @@ citta ākarṣiyā karāya kṛṣṇe premodaya
 মন্ত্রোঽয়ং রসনাস্পৃগেব ফলতি শ্রীকৃষ্ণনামাত্মকঃ ॥ ১১০ ॥
 
 ākṛṣṭiḥ kṛta-cetasāṁ su-manasām uccāṭanaṁ cāṁhasām  
+the attraction  of the liberated  of the wise  the uprooting  and  of sins  
 ācaṇḍālam amūka-loka-sulabho vaśyaś ca mukti-śriyaḥ  
+down to the caṇḍāla  to all people but the mute  easily available  the controller  and  of the wealth of liberation  
 no dīkṣāṁ na ca sat-kriyāṁ na ca puraścaryāṁ manāg īkṣate  
-mantro ’yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ
+not  initiation  nor  and  pious rites  nor  and  puraścaryā  in the least  looks for  
+mantro ’yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ  
+mantra  this  touching the tongue  merely  bears fruit  consisting of Śrī Kṛṣṇa’s Name
 
-(110) [not yet translated]
+(110) “This *mantra*, the Name of Śrī Kṛṣṇa, draws the liberated and the wise and uproots all sins. Down to the *caṇḍāla*, it is within easy reach of everyone who is not mute, and it holds the wealth of liberation in its power. It does not look in the least for initiation, pious rites or *puraścaryā*: merely by touching the tongue it bears fruit.” (Padyāvalī 29)
 
 ‘অতএব যাঁর মুখে এক কৃষ্ণনাম ৷  
 সেই ত’ বৈষ্ণব, করিহ তাঁহার সম্মান’ ॥ ১১১ ॥
 
 ‘ataeva yāṅra mukhe eka kṛṣṇa-nāma  
-sei ta’ vaiṣṇava, kariha tāṅhāra sammāna’
+therefore  in whose  mouth  one  Name of Kṛṣṇa  
+sei ta’ vaiṣṇava, kariha tāṅhāra sammāna’  
+he  indeed  a Vaiṣṇava  do  his  honor
 
-(111) [not yet translated]
+(111) Therefore anyone in whose mouth is even one Name of Kṛṣṇa is a Vaiṣṇava; show him honor.”
 
 খণ্ডের মুকুন্দদাস, শ্রীরঘুনন্দন ৷  
 শ্রীনরহরি, — এই মুখ্য তিনজন ॥ ১১২ ॥
 
 khaṇḍera mukunda-dāsa, śrī-raghunandana  
-śrī-narahari, — ei mukhya tina jana
+of Khaṇḍa  Mukunda dāsa  Śrī Raghunandana  
+śrī-narahari, — ei mukhya tina jana  
+Śrī Narahari  —  these  chief  three  persons
 
-(112) [not yet translated]
+(112) From Khaṇḍa came Mukunda dāsa, Śrī Raghunandana and Śrī Narahari — these three were the chief among them.
 
 মুকুন্দ-দাসেরে পুছে শচীর নন্দন ৷  
 ‘তুমি — পিতা, পুত্র তোমার — শ্রীরঘুনন্দন ? ॥ ১১৩ ॥
 
 mukunda-dāsere puche śacīra nandana  
-‘tumi — pitā, putra tomāra — śrī-raghunandana?
+Mukunda dāsa  asks  Śacī’s  son  
+‘tumi — pitā, putra tomāra — śrī-raghunandana?  
+you  —  the father  son  your  —  Śrī Raghunandana
 
-(113) [not yet translated]
+(113) The son of Śacī asked Mukunda dāsa, “Are you the father, and Śrī Raghunandana your son?
 
 কিবা রঘুনন্দন — পিতা, তুমি — তার তনয় ?  
 নিশ্চয় করিয়া কহ, যাউক সংশয়’ ॥ ১১৪ ॥
 
 kibā raghunandana — pitā, tumi — tāra tanaya?  
-niścaya kariyā kaha, yāuka saṁśaya’
+or  Raghunandana  —  the father  you  —  his  son  
+niścaya kariyā kaha, yāuka saṁśaya’  
+certainty  making  tell  let go  the doubt
 
-(114) [not yet translated]
+(114) Or is Raghunandana the father, and you his son? Tell Me for certain, so that My doubt may go.”
 
 মুকুন্দ কহে, — রঘুনন্দন আমার ‘পিতা’ হয় ৷  
 আমি তার ‘পুত্র’, — এই আমার নিশ্চয় ॥ ১১৫ ॥
 
 mukunda kahe, — raghunandana āmāra ‘pitā’ haya  
-āmi tāra ‘putra’, — ei āmāra niścaya
+Mukunda  says  —  Raghunandana  my  father  is  
+āmi tāra ‘putra’, — ei āmāra niścaya  
+I  his  son  —  this  my  conviction
 
-(115) [not yet translated]
+(115) Mukunda said, “Raghunandana is my father, and I am his son — that is my conviction.
 
 আমা সবার কৃষ্ণভক্তি রঘুনন্দন হৈতে ৷  
 অতএব পিতা — রঘুনন্দন আমার নিশ্চিতে ॥ ১১৬ ॥
 
 āmā sabāra kṛṣṇa-bhakti raghunandana haite  
-ataeva pitā — raghunandana āmāra niścite
+of us  all  devotion to Kṛṣṇa  Raghunandana  from  
+ataeva pitā — raghunandana āmāra niścite  
+therefore  the father  —  Raghunandana  my  certainly
 
-(116) [not yet translated]
+(116) All of us have received devotion to Kṛṣṇa from Raghunandana. So Raghunandana is certainly my father.”
 
 শুনি’ হর্ষে কহে প্রভু — কহিলে নিশ্চয় ৷  
 ‘যাঁহা হৈতে কৃষ্ণভক্তি সেই গুরু হয়’ ॥ ১১৭ ॥
 
 śuni’ harṣe kahe prabhu — kahile niścaya  
-‘yāṅhā haite kṛṣṇa-bhakti sei guru haya’
+hearing  joyfully  says  the Lord  —  you have said  rightly  
+‘yāṅhā haite kṛṣṇa-bhakti sei guru haya’  
+from whom  devotion to Kṛṣṇa  he  guru  is
 
-(117) [not yet translated]
+(117) Hearing this, the Lord said joyfully, “You have spoken rightly: he from whom devotion to Kṛṣṇa comes is the guru.”
 
 ভক্তের মহিমা কহিতে প্রভু পায় সুখ ৷  
 ভক্তের মহিমা কহিতে হয় পঞ্চমুখ ॥ ১১৮ ॥
 
 bhaktera mahimā kahite prabhu pāya sukha  
-bhaktera mahimā kahite haya pañca-mukha
+of the devotee  the glory  telling  the Lord  gets  happiness  
+bhaktera mahimā kahite haya pañca-mukha  
+of the devotee  the glory  telling  becomes  five-mouthed
 
-(118) [not yet translated]
+(118) The Lord delights in telling the glories of His devotees; telling them, He becomes as if five-mouthed.
 
 ভক্তগণে কহে, — শুন মুকুন্দের প্রেম ৷  
 নির্ম্মল, নিগূঢ় প্রেম, যেন শুদ্ধ হেম ॥ ১১৯ ॥
 
 bhakta-gaṇe kahe, — śuna mukundera prema  
-nirmala, nigūḍha prema, yena śuddha hema
+to the devotees  says  —  hear  Mukunda’s  love  
+nirmala, nigūḍha prema, yena śuddha hema  
+pure  deep  love  like  pure  gold
 
-(119) [not yet translated]
+(119) He said to the devotees, “Hear about Mukunda’s love: it is spotless and deep, like pure gold.
 
 বাহ্যে রাজবৈদ্য ইঁহো, করে রাজ-সেবা ৷  
 অন্তরে প্রেম ইঁহার জানিবেক কেবা ॥ ১২০ ॥
 
 bāhye rāja-vaidya iṅho, kare rāja-sevā  
-antare prema iṅhāra jānibeka kebā
+outwardly  a royal physician  he  does  the king’s service  
+antare prema iṅhāra jānibeka kebā  
+within  love  his  will know  who
 
-(120) [not yet translated]
+(120) Outwardly he is a royal physician in the king’s service. Who could know the love within him?
 
 এক দিন ম্লেচ্ছ-রাজার উচ্চ-টুঙ্গিতে ৷  
 চিকিৎসার বাত্ কহে ইঁহার অগ্রেতে ॥ ১২১ ॥
