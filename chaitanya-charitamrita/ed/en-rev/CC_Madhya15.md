@@ -1521,6 +1521,1534 @@ of You  before  death  let be  let go  doubt
 
 (151) So, O merciful Lord, show me this mercy: let me die before You, and let my dilemma end.’
 
+এত শুনি’ আমি বড় মনে সুখ পাইলুঁ ৷  
+ইঁহারে উঠাঞা তবে আলিঙ্গন কৈলুঁ ॥ ১৫২ ॥
+
+eta śuni’ āmi baḍa mane sukha pāilum̐  
+this  hearing  I  great  in the mind  joy  felt  
+im̐hāre uṭhāñā tabe āliṅgana kailum̐  
+him  raising  then  embrace  I made
+
+(152) “Hearing this, I felt great joy at heart. Then I raised him up and embraced him.
+
+সাধু সাধু, গুপ্ত, তোমার সুদৃঢ় ভজন ৷  
+আমার বচনেহ তোমার না টলিল মন ॥ ১৫৩ ॥
+
+sādhu sādhu, gupta, tomāra sudṛḍha bhajana  
+excellent  excellent  Gupta  your  firm  worship  
+āmāra vacaneha tomāra nā ṭalila mana  
+My  even by the words  your  not  wavered  mind
+
+(153) “ ‘Excellent, excellent, Gupta! Your worship is firm indeed: even My words did not shake your mind.
+
+এইমত সেবকের প্রীতি চাহি প্রভু-পায় ৷  
+প্রভু ছাড়াইলেহ, পদ ছাড়ান না যায় ॥ ১৫৪ ॥
+
+ei mata sevakera prīti cāhi prabhu-pāya  
+such  indeed  of a servant  love  I want  for the Lord’s feet  
+prabhu chāḍāileha, pada chāḍāna nā yāya  
+the Lord  even if He makes him leave  the feet  to leave  not  is possible
+
+(154) “ ‘This is the love for the Lord’s feet that I want in a servant: even if the Lord tries to make him leave them, he cannot let go of those feet.
+
+এইমত তোমার নিষ্ঠা জানিবার তরে ৷  
+তোমারে আগ্রহ আমি কৈলুঁ বারে বারে ॥ ১৫৫ ॥
+
+ei mata tomāra niṣṭhā jānibāra tare  
+in this  way  your  steadfastness  to know  for the sake of  
+tomāre āgraha āmi kailum̐ bāre bāre  
+you  urging  I  did  time  after time
+
+(155) “ ‘It was to learn how steadfast you are that I urged you again and again.
+
+সাক্ষাৎ হনুমান্ তুমি শ্রীরাম-কিঙ্কর ৷  
+তুমি কেনে ছাড়িবে তাঁর চরণ-কমল ॥ ১৫৬ ॥
+
+sākṣāt hanumān tumi śrī-rāma-kiṅkara  
+in person  Hanumān  you  of Śrī Rāma  the servant  
+tumi kene chāḍibe tām̐ra caraṇa-kamala  
+you  why  would leave  His  lotus feet
+
+(156) “ ‘You are Hanumān himself, the servant of Śrī Rāma. Why would you ever give up His lotus feet?’
+
+সেই মুরারি-গুপ্ত এই — মোর প্রাণ সম ৷  
+ইঁহার দৈন্য শুনি’ মোর ফাটয়ে জীবন ॥ ১৫৭ ॥
+
+sei murāri-gupta ei — mora prāṇa sama  
+that  Murāri Gupta  is this one  My  life  equal to  
+im̐hāra dainya śuni’ mora phāṭaye jīvana  
+his  humility  hearing  My  bursts  life
+
+(157) “This is that same Murāri Gupta, who is as dear to Me as My life. When I hear his humility, My heart breaks.”
+
+তবে বাসুদেবে প্রভু করি’ আলিঙ্গন ৷  
+তাঁর গুণ কহে হঞা সহস্র-বদন ॥ ১৫৮ ॥
+
+tabe vāsudeve prabhu kari’ āliṅgana  
+then  Vāsudeva  the Lord  making  embrace  
+tām̐ra guṇa kahe hañā sahasra-vadana  
+his  qualities  speaks  becoming  thousand-mouthed
+
+(158) Then the Lord embraced Vāsudeva and began to describe his qualities as if He had a thousand mouths.
+
+নিজ-গুণ শুনি’ দত্ত মনে লজ্জা পাঞা ৷  
+নিবেদন করে প্রভুর চরণে ধরিয়া ॥ ১৫৯ ॥
+
+nija-guṇa śuni’ datta mane lajjā pāñā  
+his own qualities  hearing  Datta  in his mind  shame  feeling  
+nivedana kare prabhura caraṇe dhariyā  
+a petition  makes  of the Lord  the feet  clasping
+
+(159) Hearing his own qualities praised, Vāsudeva Datta felt ashamed. Clasping the Lord’s feet, he made a petition:
+
+জগৎ তারিতে প্রভু তোমার অবতার ৷  
+মোর নিবেদন এক করহ অঙ্গীকার ॥ ১৬০ ॥
+
+jagat tārite prabhu tomāra avatāra  
+the world  to deliver  O Lord  Your  descent  
+mora nivedana eka karaha aṅgīkāra  
+my  petition  one  make  acceptance
+
+(160) “O Lord, You have descended to deliver the world. Please grant me one request.
+
+করিতে সমর্থ, তুমি হও, দয়াময় ৷  
+তুমি মন কর, তবে অনায়াসে হয় ॥ ১৬১ ॥
+
+karite samartha, tumi hao, dayāmaya  
+to do  able  You  are  O merciful one  
+tumi mana kara, tabe anāyāse haya  
+You  the mind  make  then  without effort  it happens
+
+(161) “O merciful Lord, You are able to do anything. If You only wish it, it happens without effort.
+
+জীবের দুঃখ দেখি’ মোর হৃদয় বিদরে ৷  
+সর্ব্বজীবের পাপ প্রভু দেহ’ মোর শিরে ॥ ১৬২ ॥
+
+jīvera duḥkha dekhi’ mora hṛdaya bidare  
+of living beings  the suffering  seeing  my  heart  breaks  
+sarva-jīvera pāpa prabhu deha’ mora śire  
+of all living beings  the sins  O Lord  place  on my  head
+
+(162) “My heart breaks to see the suffering of living beings. O Lord, place the sins of all living beings on my head.
+
+জীবের পাপ লঞা মুঞি করি নরক ভোগ ৷  
+সকল জীবের, প্রভু, ঘুচাহ ভবরোগ ॥ ১৬৩ ॥
+
+jīvera pāpa lañā muñi kari naraka bhoga  
+of living beings  the sins  taking  I  will undergo  of hell  the suffering  
+sakala jīvera, prabhu, ghucāha bhava-roga  
+of all  living beings  O Lord  remove  the disease of material existence
+
+(163) “Let me take the sins of the living beings and suffer in hell for them. O Lord, cure all living beings of the disease of material existence.”
+
+এত শুনি’ মহাপ্রভুর চিত্ত দ্রবিলা ৷  
+অশ্রু-কম্প-স্বরভঙ্গে কহিতে লাগিলা ॥ ১৬৪ ॥
+
+eta śuni’ mahāprabhura citta dravilā  
+this  hearing  of Mahāprabhu  the heart  melted  
+aśru-kampa-svarabhaṅge kahite lāgilā  
+with tears, trembling and a faltering voice  to speak  He began
+
+(164) When Mahāprabhu heard this, His heart melted, and with tears, trembling and a faltering voice He began to speak:
+
+তোমার বিচিত্র নহে, তুমি — সাক্ষাৎ প্রহ্লাদ ৷  
+তোমার উপরে কৃষ্ণের সম্পূর্ণ প্রসাদ ॥ ১৬৫ ॥
+
+tomāra vicitra nahe, tumi — sākṣāt prahlāda  
+in you  wonderful  it is not  you  in person  Prahlāda  
+tomāra upare kṛṣṇera sampūrṇa prasāda  
+upon  you  Kṛṣṇa’s  complete  grace
+
+(165) “Such words are no wonder coming from you: you are Prahlāda himself. Kṛṣṇa’s grace rests on you in full.
+
+কৃষ্ণ সেই সত্য করে, যেই মাগে ভৃত্য ৷  
+ভৃত্য-বাঞ্ছা-পূরণ বিনা নাহি অন্য কৃত্য ॥ ১৬৬ ॥
+
+kṛṣṇa sei satya kare, yei māge bhṛtya  
+Kṛṣṇa  that  true  makes  whatever  asks  the servant  
+bhṛtya-vāñchā-pūraṇa vinā nāhi anya kṛtya  
+of the servant’s desire  fulfilling  except  there is not  other  task
+
+(166) “Whatever His servant asks for, Kṛṣṇa makes true. He has no task other than fulfilling His servant’s desire.
+
+ব্রহ্মাণ্ড জীবের তুমি বাঞ্ছিলে নিস্তার ৷  
+বিনা পাপ-ভোগে হবে সবার উদ্ধার ॥ ১৬৭ ॥
+
+brahmāṇḍa jīvera tumi vāñchile nistāra  
+of the universe  of the living beings  you  have desired  deliverance  
+vinā pāpa-bhoge habe sabāra uddhāra  
+without  suffering for sins  will be  of all  deliverance
+
+(167) “You have desired the deliverance of all beings in the universe, so all will be delivered without suffering for their sins.
+
+অসমর্থ নহে কৃষ্ণ, ধরে সর্ব্ব বল ৷  
+তোমাকে বা কেনে ভুঞ্জাইবে পাপ-ফল ? ॥ ১৬৮ ॥
+
+asamartha nahe kṛṣṇa, dhare sarva bala  
+incapable  not  Kṛṣṇa  He holds  all  power  
+tomāke vā kene bhuñjāibe pāpa-phala?  
+you  then  why  would He make suffer  of sins  the fruits
+
+(168) “Kṛṣṇa is not powerless; He holds all power. Why, then, would He make you suffer the fruits of sin?
+
+তুমি যাঁর হিত বাঞ্ছ’, সে হৈল ‘বৈষ্ণব’ ৷  
+বৈষ্ণবের পাপ কৃষ্ণ দূর করে সব ॥ ১৬৯ ॥
+
+tumi yām̐ra hita vāñcha’, se haila ‘vaiṣṇava’  
+you  whose  welfare  desire  he  has become  a Vaiṣṇava  
+vaiṣṇavera pāpa kṛṣṇa dūra kare saba  
+of a Vaiṣṇava  the sins  Kṛṣṇa  away  removes  all
+
+(169) “Anyone whose welfare you desire has become a Vaiṣṇava, and Kṛṣṇa removes all the sins of a Vaiṣṇava.
+
+যস্ত্বিন্দ্রগোপমথবেন্দ্রমহো স্বকর্ম্ম-  
+বন্ধানুরূপফলভাজনমাতনোতি ৷  
+কর্ম্মাণি নির্দহতি কিন্তু চ ভক্তিভাজাং  
+গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ১৭০ ॥
+
+yas tv indra-gopam athavendram aho sva-karma-  
+who  but  the indragopa insect  or Indra  oh  of one’s own karma  
+bandhānurūpa-phala-bhājanam ātanoti  
+to the bondage befitting  of the fruits  the enjoyment  grants  
+karmāṇi nirdahati kintu ca bhakti-bhājāṁ  
+the karma  He burns up  but  indeed  of those who have devotion  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
+
+(170) “I worship Govinda, the original Person. To each, from the tiny *indragopa* insect to Indra himself, He grants the fruits that match the bondage of his own karma; but the karma of those who have devotion He burns away.” (Brahma-saṁhitā, 5.54)[^46]
+
+তোমার ইচ্ছা-মাত্রে হবে ব্রহ্মাণ্ড-মোচন ৷  
+সর্ব্ব মুক্ত করিতে কৃষ্ণের নাহি পরিশ্রম ॥ ১৭১ ॥
+
+tomāra icchā-mātre habe brahmāṇḍa-mocana  
+your  by the mere wish  will be  the universe’s liberation  
+sarva mukta karite kṛṣṇera nāhi pariśrama  
+all  liberated  to make  for Kṛṣṇa  there is no  labour
+
+(171) “By your mere wish the universe will be liberated. To liberate everyone is no labour for Kṛṣṇa.
+
+এক উড়ুম্বর-বৃক্ষে লাগে কোটি-ফলে ৷  
+কোটি যে ব্রহ্মাণ্ড ভাসে বিরজার জলে ॥ ১৭২ ॥
+
+eka uḍumbara-vṛkṣe lāge koṭi-phale  
+on one  uḍumbara tree  grow  millions of fruits  
+koṭi ye brahmāṇḍa bhāse virajāra jale  
+millions  which  universes  float  of the Virajā  on the waters
+
+(172) “As millions of fruits grow on a single *uḍumbara* tree, so millions of universes float on the waters of the Virajā.
+
+তার এক ফল পড়ি’ যদি নষ্ট হয় ৷  
+তথাপি বৃক্ষ নাহি জানে নিজ-অপচয় ॥ ১৭৩ ॥
+
+tāra eka phala paḍi’ yadi naṣṭa haya  
+of it  one  fruit  falling  if  lost  becomes  
+tathāpi vṛkṣa nāhi jāne nija-apacaya  
+still  the tree  not  knows  its own loss
+
+(173) “If one of its fruits falls and is lost, the tree does not even notice its loss.
+
+তৈছে এক ব্রহ্মাণ্ড যদি মুক্ত হয় ৷  
+তবু অল্পহানি কৃষ্ণের মনে নাহি লয় ॥ ১৭৪ ॥
+
+taiche eka brahmāṇḍa yadi mukta haya  
+so  one  universe  if  liberated  becomes  
+tabu alpahāni kṛṣṇera mane nāhi laya  
+still  a slight loss  of Kṛṣṇa  in the mind  not  is taken
+
+(174) “So too, if one universe is liberated, Kṛṣṇa does not take it as even a slight loss.
+
+অনন্ত ঐশ্বর্য্য কৃষ্ণের বৈকুণ্ঠাদি-ধাম ৷  
+তার গড়খাই — কারণাব্ধি যার নাম ॥ ১৭৫ ॥
+
+ananta aiśvarya kṛṣṇera vaikuṇṭhādi-dhāma  
+infinite  opulence  of Kṛṣṇa  Vaikuṇṭha and the other abodes  
+tāra gaḍa-khāi — kāraṇābdhi yāra nāma  
+their  moat  the Causal Ocean  whose  name
+
+(175) “Kṛṣṇa’s opulence is infinite — Vaikuṇṭha and His other abodes; and the moat around them is known as the Causal Ocean (*Kāraṇābdhi*).
+
+তাতে ভাসে মায়া লঞা অনন্ত ব্রহ্মাণ্ড ৷  
+গড়খাইতে ভাসে যেন রাই-পূর্ণ ভাণ্ড ॥ ১৭৬ ॥
+
+tāte bhāse māyā lañā ananta brahmāṇḍa  
+in it  float  māyā  with  infinite  universes  
+gaḍa-khāite bhāse yena rāi-pūrṇa bhāṇḍa  
+in the moat  floats  as  with mustard seeds filled  a pot
+
+(176) “On it the infinite universes float together with *māyā*, like a pot full of mustard seeds floating in a moat.
+
+তার এক রাই-নাশে, হানি নাহি মানি ৷  
+ঐছে এক অণ্ড-নাশে কৃষ্ণের নাহি হানি ॥ ১৭৭ ॥
+
+tāra eka rāi-nāśe, hāni nāhi māni  
+of it  one  mustard seed  in losing  loss  not  we count  
+aiche eka aṇḍa-nāśe kṛṣṇera nāhi hāni  
+so  one  universe  in losing  of Kṛṣṇa  there is no  loss
+
+(177) “No one counts it a loss if one of those mustard seeds is lost; likewise, Kṛṣṇa loses nothing if one universe is lost.
+
+সব ব্রহ্মাণ্ড সহ যদি ‘মায়া’র হয় ক্ষয় ৷  
+তথাপি না মানে কৃষ্ণ কিছু অপচয় ॥ ১৭৮ ॥
+
+saba brahmāṇḍa saha yadi ‘māyā’ra haya kṣaya  
+all  universes  along with  if  of māyā  there is  destruction  
+tathāpi nā māne kṛṣṇa kichu apacaya  
+still  not  considers  Kṛṣṇa  any  loss
+
+(178) “Even if *māyā* herself is destroyed along with all the universes, Kṛṣṇa does not consider it any loss.
+
+কোটি-কামধেনু-পতির ছাগী যৈছে মরে ৷  
+ষড়ৈশ্বর্য্যপতি কৃষ্ণের মায়া কিবা করে ? ॥ ১৭৯ ॥
+
+koṭi-kāmadhenu-patira chāgī yaiche mare  
+of millions of wish-fulfilling cows  of the owner  a she-goat  as  dies  
+ṣaḍ-aiśvarya-pati kṛṣṇera māyā kibā kare?  
+of the six opulences the Lord  of Kṛṣṇa  māyā  what  does
+
+(179) “It is like the death of a she-goat for the owner of millions of wish-fulfilling cows. What can *māyā* mean to Kṛṣṇa, the Lord of the six opulences?
+
+জয় জয় জহ্যজামজিত দোষগৃভীতগুণাং  
+ত্বমসি যদাত্মনা সমবরুদ্ধসমস্তভগঃ ৷  
+অগজগদোকসামখিলশক্ত্যববোধক তে  
+ক্বচিদজয়াত্মনা চ চরতোঽনুচরেন্নিগমঃ ॥ ১৮০ ॥
+
+jaya jaya jahy ajām ajita doṣa-gṛbhīta-guṇāṁ  
+glory  glory  destroy  the unborn one  O unconquered  who for faults has taken up the qualities  
+tvam asi yad ātmanā sam-avaruddha-samasta-bhagaḥ  
+You  are  since  by Yourself  holding all excellences in full  
+aga-jagad-okasām akhila-śakty-avabodhaka te  
+of the unmoving and the moving beings  of all potencies  the awakener  of You  
+kvacid ajayātmanā ca carato ’nucaren nigamaḥ  
+sometimes  with māyā and with Your own potency  and  acting  describe  the Vedas
+
+(180) “Glory, glory to You, O unconquered one! Destroy the unborn *māyā*, who has taken up the qualities to bring about faults, for in Yourself You hold all excellences in full. O awakener of all the potencies of moving and unmoving beings, the Vedas describe You sometimes as acting through *māyā* and sometimes through Your own potency.” (Śrīmad-Bhāgavatam, 10.87.14)[^47]
+
+এই মত সর্ব্বভক্তের কহি’ সব গুণ ৷  
+সবারে বিদায় দিল করি’ আলিঙ্গন ॥ ১৮১ ॥
+
+ei mata sarva-bhaktera kahi’ saba guṇa  
+in this  way  of all the devotees  telling  all  qualities  
+sabāre vidāya dila kari’ āliṅgana  
+to all  farewell  He gave  making  embrace
+
+(181) In this way the Lord spoke of the qualities of all the devotees. Then He embraced them all and bade them farewell.
+
+প্রভুর বিচ্ছেদে ভক্ত করেন রোদন ৷  
+ভক্তের বিচ্ছেদে প্রভুর বিষণ্ণ হৈল মন ॥ ১৮২ ॥
+
+prabhura vicchede bhakta karena rodana  
+of the Lord  in separation  the devotees  do  weeping  
+bhaktera vicchede prabhura viṣaṇṇa haila mana  
+of the devotees  in separation  of the Lord  sad  became  the mind
+
+(182) The devotees wept at parting from the Lord, and the Lord’s heart grew sad at parting from His devotees.
+
+গদাধর-পণ্ডিত রহিলা প্রভুর পাশে ৷  
+যমেশ্বরে প্রভু যাঁরে করাইলা আবাসে ॥ ১৮৩ ॥
+
+gadādhara-paṇḍita rahilā prabhura pāśe  
+Gadādhara Paṇḍita  remained  of the Lord  beside  
+yameśvare prabhu yām̐re karāilā āvāse  
+at Yameśvara  the Lord  whom  had made  to dwell
+
+(183) Gadādhara Paṇḍita, whom the Lord had settled at Yameśvara, remained near the Lord.
+
+পুরী-গোসাঞি, জগদানন্দ, স্বরূপ-দামোদর ৷  
+দামোদর-পণ্ডিত, আর গোবিন্দ, কাশীশ্বর ॥ ১৮৪ ॥
+
+এইসব সঙ্গে প্রভু বৈসে নীলাচলে ৷  
+জগন্নাথ-দরশন নিত্য করে প্রাতঃকালে ॥ ১৮৫ ॥
+
+purī-gosāñi, jagadānanda, svarūpa-dāmodara  
+Purī Gosāñi  Jagadānanda  Svarūpa Dāmodara  
+dāmodara-paṇḍita, āra govinda, kāśīśvara  
+Dāmodara Paṇḍita  and  Govinda  Kāśīśvara  
+eisaba saṅge prabhu vaise nīlācale  
+these all  with  the Lord  stays  at Nīlācala  
+jagannātha-daraśana nitya kare prātaḥ-kāle  
+Jagannātha’s sight  daily  takes  in the morning
+
+(184–185) With Purī Gosāñi (Paramānanda Purī), Jagadānanda, Svarūpa Dāmodara, Dāmodara Paṇḍita, Govinda and Kāśīśvara, the Lord stayed at Nīlācala, and every morning He went to see Jagannātha.
+
+প্রভু-পাশ আসি’ সার্ব্বভৌম এক দিন ৷  
+যোড়হাত করি’ কিছু কৈল নিবেদন ॥ ১৮৬ ॥
+
+prabhu-pāśa āsi’ sārvabhauma eka dina  
+to the Lord  coming  Sārvabhauma  one  day  
+yoḍa-hāta kari’ kichu kaila nivedana  
+joined palms  making  something  made  petition
+
+(186) One day Sārvabhauma came to the Lord and, with folded hands, made a request.
+
+এবে সব বৈষ্ণব গৌড়দেশে চলি’ গেল ৷  
+এবে প্রভুর নিমন্ত্রণে অবসর হৈল ॥ ১৮৭ ॥
+
+ebe saba vaiṣṇava gauḍa-deśe cali’ gela  
+now  all  the Vaiṣṇavas  to the land of Gauḍa  having gone  departed  
+ebe prabhura nimantraṇe avasara haila  
+now  the Lord’s  for inviting  opportunity  has come
+
+(187) “Now that all the Vaiṣṇavas have gone back to Gauḍa, there is an opportunity to invite You.
+
+এবে মোর ঘরে ভিক্ষা করহ ‘মাস’ ভরি’ ৷  
+প্রভু কহে, — ধর্ম্ম নহে, করিতে না পারি ॥ ১৮৮ ॥
+
+ebe mora ghare bhikṣā karaha ‘māsa’ bhari’  
+now  my  in the house  meals  take  a month  full  
+prabhu kahe, — dharma nahe, karite nā pāri  
+the Lord  says  dharma  it is not  to do  not  I can
+
+(188) “Please take Your meals at my house for a whole month.” The Lord said, “That is not dharma; I cannot do it.”
+
+সার্ব্বভৌম কহে, — ভিক্ষা করহ ‘বিশ’ দিন ৷  
+প্রভু কহে, — এ নহে যতিধর্ম্ম-চিহ্ন ॥ ১৮৯ ॥
+
+sārvabhauma kahe, — bhikṣā karaha ‘biśa’ dina  
+Sārvabhauma  says  meals  take  twenty  days  
+prabhu kahe, — e nahe yati-dharma-cihna  
+the Lord  says  this  not  of a renunciant’s dharma  the mark
+
+(189) Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s dharma.”
+
+সার্ব্বভৌম কহে পুনঃ, — দিন ‘পঞ্চদশ’ ৷  
+প্রভু কহে, — তোমার ভিক্ষা ‘এক’ দিবস ॥ ১৯০ ॥
+
+sārvabhauma kahe punaḥ, — dina ‘pañca-daśa’  
+Sārvabhauma  says  again  days  fifteen  
+prabhu kahe, — tomāra bhikṣā ‘eka’ divasa  
+the Lord  says  your  meal  one  day
+
+(190) Sārvabhauma said again, “Then fifteen days.” The Lord said, “I shall take a meal with you for one day.”
+
+তবে সার্ব্বভৌম প্রভুর চরণ ধরিয়া ৷  
+‘দশদিন ভিক্ষা কর’ কহে বিনতি করিয়া ॥ ১৯১ ॥
+
+tabe sārvabhauma prabhura caraṇa dhariyā  
+then  Sārvabhauma  of the Lord  the feet  clasping  
+‘daśadina bhikṣā kara’ kahe vinati kariyā  
+“for ten days  meals  take”  says  entreaty  making
+
+(191) Then Sārvabhauma clasped the Lord’s feet and entreated Him: “Take Your meals with me for ten days.”
+
+প্রভু ক্রমে ক্রমে পাঁচ-দিন ঘাটাইল ৷  
+পাঁচ-দিন তাঁর ভিক্ষা-নিমন্ত্রণ নিল ॥ ১৯২ ॥
+
+prabhu krame krame pām̐ca-dina ghāṭāila  
+the Lord  step  by step  to five days  reduced  
+pām̐ca-dina tām̐ra bhikṣā-nimantraṇa nila  
+for five days  his  invitation to meals  accepted
+
+(192) Step by step the Lord brought it down to five days, and He accepted his invitation for five days.
+
+তবে সার্ব্বভৌম করে আর নিবেদন ৷  
+তোমার সঙ্গে সন্ন্যাসী আছে দশজন ॥ ১৯৩ ॥
+
+tabe sārvabhauma kare āra nivedana  
+then  Sārvabhauma  makes  another  petition  
+tomāra saṅge sannyāsī āche daśajana  
+You  with  sannyāsīs  there are  ten persons
+
+(193) Then Sārvabhauma made another request: “Ten *sannyāsīs* are with You.
+
+পুরী-গোসাঞির ভিক্ষা পাঁচদিন মোর ঘরে ৷  
+পূর্ব্বে আমি কহিয়াছোঁ তোমার গোচরে ॥ ১৯৪ ॥
+
+purī-gosāñira bhikṣā pām̐ca-dina mora ghare  
+of Purī Gosāñi  the meals  five days  in my  house  
+pūrve āmi kahiyāchom̐ tomāra gocare  
+before  I  have told  Your  to notice
+
+(194) “I have already told You that Purī Gosāñi will take his meals at my house for five days.
+
+দামোদর-স্বরূপ, — এই বান্ধব আমার ৷  
+কভু তোমার সঙ্গে যাবে কভু একেশ্বর ॥ ১৯৫ ॥
+
+dāmodara-svarūpa, — ei bāndhava āmāra  
+Dāmodara Svarūpa  this  friend  mine  
+kabhu tomāra saṅge yābe kabhu ekeśvara  
+sometimes  You  with  he will come  sometimes  alone
+
+(195) “Svarūpa Dāmodara is my friend: he will come sometimes with You and sometimes alone.
+
+আর অষ্ট সন্ন্যাসীর ভিক্ষা দুই দুই দিবসে ৷  
+এক একদিন এক এক জনে পূর্ণ হৈল মাসে ॥ ১৯৬ ॥
+
+āra aṣṭa sannyāsīra bhikṣā dui dui divase  
+the other  eight  sannyāsīs’  meals  two  two  days  
+eka ekadina eka eka jane pūrṇa haila māse  
+one  a day  one  one  person  full  became  the month
+
+(196) “The other eight *sannyāsīs* will take their meals with me for two days each, one person each day. In this way the month will be filled.
+
+বহুত সন্ন্যাসী যদি আইসে এক ঠাঞি ৷  
+সম্মান করিতে নারি, অপরাধ পাই ॥ ১৯৭ ॥
+
+bahuta sannyāsī yadi āise eka ṭhāñi  
+many  sannyāsīs  if  come  to one  place  
+sammāna karite nāri, aparādha pāi  
+honour  to give  I cannot  offence  I incur
+
+(197) “If many *sannyāsīs* come at once, I will not be able to honour them properly and will commit an offence.
+
+তুমিহ নিজ-ছায়ে আসিবে মোর ঘরে ৷  
+কভু সঙ্গে আসিবেন স্বরূপ-দামোদরে ॥ ১৯৮ ॥
+
+tumiha nija-chāye āsibe mora ghare  
+You Yourself  with Your own shadow  will come  to my  house  
+kabhu saṅge āsibena svarūpa-dāmodare  
+sometimes  with You  will come  Svarūpa Dāmodara
+
+(198) “You should come to my house alone, with only Your own shadow, and sometimes Svarūpa Dāmodara will come with You.”
+
+প্রভুর ইঙ্গিত পাঞা আনন্দিত মন ৷  
+সেই দিন মহাপ্রভুর কৈল নিমন্ত্রণ ॥ ১৯৯ ॥
+
+prabhura iṅgita pāñā ānandita mana  
+of the Lord  the sign  receiving  joyful  mind  
+sei dina mahāprabhura kaila nimantraṇa  
+that  day  Mahāprabhu  made  invitation
+
+(199) Receiving the Lord’s sign of consent, Sārvabhauma was delighted, and that same day he invited Mahāprabhu.
+
+‘ষাঠীর মাতা’ নাম, ভট্টাচার্য্যের গৃহিণী ৷  
+প্রভুর মহাভক্ত তিঁহো, স্নেহেতে জননী ॥ ২০০ ॥
+
+‘ṣāṭhīra mātā’ nāma, bhaṭṭācāryera gṛhiṇī  
+“Ṣāṭhī’s mother”  by name  of the Bhaṭṭācārya  the wife  
+prabhura mahā-bhakta tim̐ho, snehete jananī  
+of the Lord  a great devotee  she  in affection  a mother
+
+(200) The Bhaṭṭācārya’s wife, known as Ṣāṭhī’s mother, was a great devotee of the Lord and loved Him like a mother.
+
+ঘরে আসি’ ভট্টাচার্য্য তাঁরে আজ্ঞা দিল ৷  
+আনন্দে ষাঠীর মাতা পাক চড়াইল ॥ ২০১ ॥
+
+ghare āsi’ bhaṭṭācārya tām̐re ājñā dila  
+home  coming  the Bhaṭṭācārya  to her  order  gave  
+ānande ṣāṭhīra mātā pāka caḍāila  
+in joy  Ṣāṭhī’s  mother  cooking  set going
+
+(201) Coming home, the Bhaṭṭācārya told her the news, and Ṣāṭhī’s mother joyfully began to cook.
+
+ভট্টাচার্য্যের গৃহে সব দ্রব্য আছে ভরি’ ৷  
+যেবা শাকফলাদিক, আনিল আহরি’ ॥ ২০২ ॥
+
+bhaṭṭācāryera gṛhe saba dravya āche bhari’  
+of the Bhaṭṭācārya  in the house  all  provisions  are  in plenty  
+yebā śāka-phalādika, ānila āhari’  
+whatever  greens, fruits and so on  he brought  collecting
+
+(202) The Bhaṭṭācārya’s house was well stocked with every provision; whatever greens, fruits and other things were needed, he gathered and brought.
+
+আপনি ভট্টাচার্য্য করে পাকের সব মর্ম্ম ৷  
+ষাঠীর মাতা — বিচক্ষণা, জানে পাকের কর্ম্ম ॥ ২০৩ ॥
+
+āpani bhaṭṭācārya kare pākera saba marma  
+himself  the Bhaṭṭācārya  does  of the cooking  all  the essentials  
+ṣāṭhīra mātā — vicakṣaṇā, jāne pāka karma  
+Ṣāṭhī’s  mother  skilled  knows  of cooking  the work
+
+(203) The Bhaṭṭācārya himself saw to all the finer points of the cooking, and Ṣāṭhī’s mother was skilled and knew the work of cooking well.
+
+পাকশালার দক্ষিণে — দুই ভোগালয় ৷  
+এক-ঘরে শালগ্রামের ভোগ-সেবা হয় ॥ ২০৪ ॥
+
+pāka-śālāra dakṣiṇe — dui bhogālaya  
+of the kitchen  to the south  two  rooms for offering  
+eka-ghare śālagrāmera bhoga-sevā haya  
+in one room  of the Śālagrāma  the offering of food  is done
+
+(204) To the south of the kitchen were two rooms for offering food. In one of them food was offered to Nārāyaṇa in His form as the Śālagrāma.
+
+আর ঘর মহাপ্রভুর ভিক্ষার লাগিয়া ৷  
+নিভৃতে করিয়াছে ভট্ট নূতন করিয়া ॥ ২০৫ ॥
+
+āra ghara mahāprabhura bhikṣāra lāgiyā  
+the other  room  of Mahāprabhu  the meal  for the sake of  
+nibhṛte kariyāche bhaṭṭa nūtana kariyā  
+in a secluded place  had made  Bhaṭṭa  newly  making
+
+(205) The other room, in a secluded spot, Bhaṭṭa had newly built for Mahāprabhu’s meals.
+
+বাহ্যে এক দ্বার তার, প্রভু প্রবেশিতে ৷  
+পাকশালার এক দ্বার অন্ন পরিবেশিতে ॥ ২০৬ ॥
+
+bāhye eka dvāra tāra, prabhu praveśite  
+outside  one  door  of it  for the Lord  to enter  
+pāka-śālāra eka dvāra anna pariveśite  
+of the kitchen  one  door  food  to serve
+
+(206) It had one door to the outside, for the Lord to enter, and one door from the kitchen, for serving the food.
+
+বত্তিশা-আঠিয়া কলার আঙ্গটিয়া পাতে ৷  
+তিন-মান তণ্ডুলের উভারিল ভাতে ॥ ২০৭ ॥
+
+battiśā-āṭhiyā kalāra āṅgaṭiyā pāte  
+of the battiśā-āṭhiyā  banana  whole  on leaves  
+tina-māna taṇḍulera ubhārila bhāte  
+three mānas  of rice  heaped out  cooked rice
+
+(207) On a whole leaf of the *battiśā-āṭhiyā* banana they heaped out the cooked rice of three *mānas* of grain.
+
+পীত-সুগন্ধি-ঘৃতে অন্ন সিক্ত কৈল ৷  
+চারিদিকে পাতে ঘৃত বহিয়া চলিল ॥ ২০৮ ॥
+
+pīta-sugandhi-ghṛte anna sikta kaila  
+with yellow fragrant ghee  the rice  soaked  made  
+cāri-dike pāte ghṛta vahiyā calila  
+on four sides  on the leaf  the ghee  flowing  went
+
+(208) The rice was soaked with fragrant yellow ghee, which ran over the leaf on all sides.
+
+কেয়াপত্র-কলাখোলা-ডোঙ্গা সারি সারি ৷  
+চারিদিকে ধরিয়াছে নানা ব্যঞ্জন ভরি’ ॥ ২০৯ ॥
+
+keyāpatra-kalākholā-ḍoṅgā sāri sāri  
+keyā-leaf and banana-bark cups  row  upon row  
+cāri-dike dhariyāche nānā vyañjana bhari’  
+on four sides  they placed  various  vegetables  filling
+
+(209) All around it, row upon row, cups of *keyā* leaves and banana bark were set out, filled with various vegetable dishes.
+
+দশপ্রকার শাক, নিম্ব-তিক্ত-সুকুত-ঝোল ৷  
+মরিচের ঝাল, ছানাবড়া, বড়া, ঘোল ॥ ২১০ ॥
+
+daśaprakāra śāka, nimba-tikta-sukuta-jhola  
+ten kinds of  greens  bitter-with-nim sukuta soup  
+maricera jhāla, chānā-baḍā, baḍā, ghola  
+of pepper  the jhāla  chānā baḍās  baḍās  buttermilk
+
+(210) There were ten kinds of greens, a bitter *sukuta* soup with *nim*, a peppery *jhāla*, *chānā-baḍās*, *baḍās* and buttermilk.
+
+দুগ্ধতুম্বী, দুগ্ধ কুষ্মাণ্ড, বেসর, লাফ্রা ৷  
+মোচাঘণ্ট, মোচাভাজা, বিবিধ শাক্রা ॥ ২১১ ॥
+
+dugdha-tumbī, dugdha kuṣmāṇḍa, vesara, lāphrā  
+bottle gourd in milk  in milk  pumpkin  vesara  lāphrā  
+mocā-ghaṇṭa, mocā-bhājā, vividha śākrā  
+banana-flower ghaṇṭa  fried banana flowers  various  śākrā
+
+(211) There was bottle gourd and pumpkin cooked in milk, *vesara* and *lāphrā*, a *ghaṇṭa* of banana flowers, fried banana flowers and various kinds of *śākrā*.
+
+বৃদ্ধ কুষ্মাণ্ডবড়ীর ব্যঞ্জন অপার ৷  
+ফুলবড়ী-ফল-মূল বিবিধ প্রকার ॥ ২১২ ॥
+
+vṛddha kuṣmāṇḍa-baḍīra vyañjana apāra  
+of ripe  pumpkin baḍīs  dishes  countless  
+phulabaḍī-phala-mūla vividha prakāra  
+phula-baḍīs, fruits and roots  various  kinds
+
+(212) There were countless dishes of *baḍīs* made with ripe pumpkin, and *phula-baḍīs*, fruits and roots of many kinds.
+
+নব-নিম্বপত্র-সহ ভৃষ্ট-বার্ত্তাকী ৷  
+ফুলবড়ী, পটোল-ভাজা, কুষ্মাণ্ড মান-চাকী ॥ ২১৩ ॥
+
+nava-nimbapatra-saha bhṛṣṭa-vārtākī  
+with tender nim leaves  fried eggplant  
+phula-baḍī, paṭola-bhājā, kuṣmāṇḍa māna-cākī  
+phula-baḍī  fried paṭola  pumpkin  mānacāki
+
+(213) There was eggplant fried with tender *nim* leaves, *phula-baḍī*, fried *paṭola*, and pumpkin with *mānacāki*.
+
+ভৃষ্ট-মাষ-মুদ্গ-সূপ অমৃত নিন্দয় ৷  
+মধুরাম্ল, বড়াম্লাদি অম্ল পাঁচ ছয় ॥ ২১৪ ॥
+
+bhṛṣṭa-māṣa-mudga-sūpa amṛta nindaya  
+of fried urad and mung  soup  nectar  puts to shame  
+madhurāmla, baḍāmlādi amla pām̐ca chaya  
+sweet-and-sour  baḍāmla and others  sour dishes  five  six
+
+(214) There was a soup of fried urad and mung dāl that put nectar to shame, a sweet-and-sour chutney, *baḍāmla* and other sour dishes — five or six of them.
+
+মুদ্গবড়া, মাষবড়া, কলাবড়া মিষ্ট ৷  
+ক্ষীরপুলি, নারিকেলপুলী আর যত পিষ্ট ॥ ২১৫ ॥
+
+mudga-baḍā, māṣa-baḍā, kalā-baḍā miṣṭa  
+mung baḍās  urad baḍās  banana baḍās  sweet  
+kṣīra-puli, nārikela-pulī āra yata piṣṭa  
+kṣīra-puli  coconut pulī  and  all  cakes
+
+(215) There were *baḍās* of mung and of urad, sweet banana *baḍās*, *kṣīra-puli*, coconut *pulī* and every kind of cake.
+
+কাঁজিবড়া, দুগ্ধ-চিড়া, দুগ্ধ-লক্লকী ৷  
+আর যত পিঠা কৈল, কহিতে না শকি ॥ ২১৬ ॥
+
+kām̐ji-baḍā, dugdha-ciḍā, dugdha-laklakī  
+kā̃ji baḍās  flat rice in milk  milk laklakī  
+āra yata piṭhā kaila, kahite nā śaki  
+and  as many  cakes  they made  to tell  not  I can
+
+(216) There were *kā̃ji-baḍās*, flat rice in milk and milk *laklakī*. I cannot describe all the cakes that were made.
+
+ঘৃত সিক্ত পরমান্ন, মৃৎকুণ্ডিকা ভরি’ ৷  
+চাঁপাকলা-ঘনদুগ্ধ-আম্র তাহা ধরি ॥ ২১৭ ॥
+
+ghṛta sikta paramānna, mṛt-kuṇḍikā bhari’  
+with ghee  soaked  sweet rice  earthen pots  filling  
+cām̐pākalā-ghanadugdha-āmra tāhā dhari  
+cā̃pā bananas, thick milk and mangoes  in it  placing
+
+(217) Sweet rice soaked with ghee filled earthen pots, with *cā̃pā* bananas, thickened milk and mangoes set in it.
+
+রসালা-মথিত দধি, সন্দেশ অপার ৷  
+গৌড়ে উৎকলে যত ভক্ষ্যের প্রকার ॥ ২১৮ ॥
+
+rasālā-mathita dadhi, sandeśa apāra  
+rasālā  churned  yogurt  sandeśa  countless  
+gauḍe utkale yata bhakṣyera prakāra  
+in Gauḍa  in Utkala  as many  of foods  kinds
+
+(218) There was *rasālā*, churned yogurt and countless *sandeśas* — every kind of food known in Gauḍa and Utkala.
+
+শ্রদ্ধা করি’ ভট্টাচার্য্য সব করাইল ৷  
+শুভ্র-পীঠোপরি সূক্ষ্ম বসন পাতিল ॥ ২১৯ ॥
+
+śraddhā kari’ bhaṭṭācārya saba karāila  
+with faith  making  the Bhaṭṭācārya  all  had made  
+śubhra-pīṭhopari sūkṣma vasana pātila  
+on a white seat  fine  cloth  spread
+
+(219) The Bhaṭṭācārya had all this prepared with faith. On a white wooden seat he spread a fine cloth.
+
+দুই-পাশে সুগন্ধি শীতল জল-ঝারী ৷  
+অন্ন-ব্যঞ্জনোপরি দিল তুলসী-মঞ্জরী ॥ ২২০ ॥
+
+dui-pāśe sugandhi śītala jala-jhārī  
+on two sides  fragrant  cool  water pitchers  
+anna-vyañjanopari dila tulasī-mañjarī  
+over the rice and vegetables  placed  tulasī buds
+
+(220) On either side stood pitchers of cool, fragrant water, and he placed tulasī buds on the rice and vegetables.
+
+অমৃত-গুটিকা, পিঠা-পানা আনাইল ৷  
+জগন্নাথ-প্রসাদ সব পৃথক্ ধরিল ॥ ২২১ ॥
+
+amṛta-guṭikā, piṭhā-pānā ānāila  
+amṛta-guṭikā  cakes and sweet drinks  had brought  
+jagannātha-prasāda saba pṛthak dharila  
+Jagannātha’s prasāda  all  separately  placed
+
+(221) He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s *prasāda* apart.
+
+হেনকালে মহাপ্রভু মধ্যাহ্ন করিয়া ৷  
+একলে আইল তাঁর হৃদয় জানিয়া ॥ ২২২ ॥
+
+hena-kāle mahāprabhu madhyāhna kariyā  
+at that time  Mahāprabhu  the midday duties  finishing  
+ekale āila tām̐ra hṛdaya jāniyā  
+alone  came  his  heart  knowing
+
+(222) At that time Mahāprabhu, having finished His midday duties, came alone, knowing the Bhaṭṭācārya’s heart.
+
+ভট্টাচার্য্য কৈল তবে পাদ প্রক্ষালন ৷  
+ঘরের ভিতরে গেলা করিতে ভোজন ॥ ২২৩ ॥
+
+bhaṭṭācārya kaila tabe pāda prakṣālana  
+the Bhaṭṭācārya  did  then  of the feet  washing  
+gharera bhitare gelā karite bhojana  
+of the room  inside  went  to take  the meal
+
+(223) The Bhaṭṭācārya then washed His feet, and the Lord went into the room to take His meal.
+
+অন্নাদি দেখিয়া প্রভু বিস্মিত হঞা ৷  
+ভট্টাচার্য্যে কহে কিছু ভঙ্গি করিয়া ॥ ২২৪ ॥
+
+annādi dekhiyā prabhu vismita hañā  
+the rice and the rest  seeing  the Lord  astonished  being  
+bhaṭṭācārye kahe kichu bhaṅgi kariyā  
+to the Bhaṭṭācārya  says  something  a gesture  making
+
+(224) Seeing the rice and all the dishes, the Lord was astonished, and with a playful gesture He said to the Bhaṭṭācārya:
+
+অলৌকিক এই সব অন্ন-ব্যঞ্জন ৷  
+দুই প্রহর ভিতরে কৈছে হইল রন্ধন ॥ ২২৫ ॥
+
+alaukika ei saba anna-vyañjana  
+extraordinary  these  all  rice and vegetables  
+dui prahara bhitare kaiche ha-ila randhana  
+two  praharas  within  how  was done  the cooking
+
+(225) “All this rice and these dishes are extraordinary! How could they have been cooked within two *praharas*?
+
+শত চুলায় শত জন পাক যদি করে ৷  
+তবু শীঘ্র এত দ্রব্য রান্ধিতে না পারে ॥ ২২৬ ॥
+
+śata culāya śata jana pāka yadi kare  
+a hundred  on stoves  a hundred  people  cooking  if  do  
+tabu śīghra eta dravya rāndhite nā pāre  
+still  quickly  so much  food  to cook  not  can
+
+(226) “Even if a hundred people cooked on a hundred stoves, they could not cook so much food so quickly.
+
+কৃষ্ণের ভোগ লাগাঞাছ, — অনুমান করি ৷  
+উপরে দেখিয়ে যাতে তুলসী-মঞ্জরী ॥ ২২৭ ॥
+
+kṛṣṇera bhoga lāgāñācha, — anumāna kari  
+to Kṛṣṇa  the food  you have offered  a guess  I make  
+upare dekhiye yāte tulasī-mañjarī  
+on top  I see  since  tulasī buds
+
+(227) “I take it that you have offered this food to Kṛṣṇa, since I see tulasī buds on top of it.
+
+ভাগ্যবান্ তুমি, সফল তোমার উদ্যোগ ৷  
+রাধাকৃষ্ণে লাগাঞাছ এতাদৃশ ভোগ ॥ ২২৮ ॥
+
+bhāgyavān tumi, saphala tomāra udyoga  
+fortunate  you  successful  your  effort  
+rādhā-kṛṣṇe lāgāñācha etādṛśa bhoga  
+to Rādhā and Kṛṣṇa  you have offered  such  a feast
+
+(228) “You are fortunate, and your effort has borne fruit: you have offered such a feast to Rādhā and Kṛṣṇa.
+
+অন্নের সৌরভ্য, বর্ণ — অতি মনোরম ৷  
+রাধাকৃষ্ণ সাক্ষাৎ ইঁহা করিয়াছেন ভোজন ॥ ২২৯ ॥
+
+annera saurabhya, varṇa — ati manorama  
+of the rice  the fragrance  the colour  very  charming  
+rādhā-kṛṣṇa sākṣāt im̐hā kariyāchena bhojana  
+Rādhā and Kṛṣṇa  in person  this  have done  eating
+
+(229) “The fragrance and colour of the rice are most charming. Rādhā and Kṛṣṇa Themselves have eaten of it.
+
+তোমার বহুত ভাগ্য কত প্রশংসিব ৷  
+আমি — ভাগ্যবান্, ইহার অবশেষ পাব ॥ ২৩০ ॥
+
+tomāra bahuta bhāgya kata praśaṁsiba  
+your  great  fortune  how much  shall I praise  
+āmi — bhāgyavān, ihāra avaśeṣa pāba  
+I  am fortunate  of it  the remnants  I shall get
+
+(230) “How can I praise your great fortune enough? I too am fortunate, for I shall receive the remnants.
+
+কৃষ্ণের আসন-পীঠ রাখ উঠাঞা ৷  
+মোরে প্রসাদ দেহ’ ভিন্ন পাত্রে করিয়া ॥ ২৩১ ॥
+
+kṛṣṇera āsana-pīṭha rākha uṭhāñā  
+Kṛṣṇa’s  seat  keep  removing  
+more prasāda deha’ bhinna pātre kariyā  
+to Me  prasāda  give  on a separate  plate  putting
+
+(231) “Take away Kṛṣṇa’s seat and keep it aside, and give Me *prasāda* on a separate plate.”
+
+ভট্টাচার্য্য বলে, — প্রভু, না করহ বিস্ময় ৷  
+যেই খাবে, তাঁর শক্ত্যে ভোগ সিদ্ধ হয় ॥ ২৩২ ॥
+
+bhaṭṭācārya bale, — prabhu, nā karaha vismaya  
+the Bhaṭṭācārya  says  O Lord  not  make  wonder  
+yei khābe, tām̐ra śaktye bhoga siddha haya  
+who  will eat  by His  potency  the feast  accomplished  becomes
+
+(232) The Bhaṭṭācārya said, “O Lord, do not be astonished. By the potency of Him who will eat it, the feast was made ready.
+
+উদ্যোগ না ছিল মোর গৃহিণীর রন্ধনে ৷  
+যাঁর শক্ত্যে ভোগ সিদ্ধ, সেই তাহা জানে ॥ ২৩৩ ॥
+
+udyoga nā chila mora gṛhiṇīra randhane  
+effort  not  there was  my  wife’s  in the cooking  
+yām̐ra śaktye bhoga siddha, sei tāhā jāne  
+by whose  potency  the feast  accomplished  He  that  knows
+
+(233) “My wife had no labour in the cooking. He by whose potency the feast was made ready knows how it was done.
+
+এইত আসনে বসি’ করহ ভোজন ৷  
+প্রভু কহে, — পূজ্য এই কৃষ্ণের আসন ॥ ২৩৪ ॥
+
+eita āsane vasi’ karaha bhojana  
+on this very  seat  sitting  take  the meal  
+prabhu kahe, — pūjya ei kṛṣṇera āsana  
+the Lord  says  worshipable  this  Kṛṣṇa’s  seat
+
+(234) “Please sit on this very seat and take Your meal.” The Lord said, “This seat of Kṛṣṇa’s is to be worshipped.”
+
+ভট্ট কহে, — অন্ন, পীঠ, — সমান প্রসাদ ৷  
+অন্ন খাবে, পীঠে বসিতে কাঁহা অপরাধ ? ॥ ২৩৫ ॥
+
+bhaṭṭa kahe, — anna, pīṭha, — samāna prasāda  
+Bhaṭṭa  says  the food  the seat  equally  prasāda  
+anna khābe, pīṭhe vasite kām̐hā aparādha?  
+the food  You will eat  on the seat  to sit  where  offence
+
+(235) Bhaṭṭa said, “The food and the seat are equally *prasāda*. If You will eat the food, what offence can there be in sitting on the seat?”
+
+প্রভু কহে, — ভাল কৈলে, শাস্ত্র-আজ্ঞা হয় ৷  
+কৃষ্ণের সকল শেষ ভৃত্য আস্বাদয় ॥ ২৩৬ ॥
+
+prabhu kahe, — bhāla kaile, śāstra-ājñā haya  
+the Lord  says  well  you have done  scripture’s  command  it is  
+kṛṣṇera sakala śeṣa bhṛtya āsvādaya  
+Kṛṣṇa’s  all  remnants  the servant  relishes
+
+(236) The Lord said, “You are right; this is the command of scripture: the servant relishes all that Kṛṣṇa leaves.
+
+ত্বয়োপযুক্তস্রগ্গন্ধবাসোঽলঙ্কারচর্চ্চিতাঃ ৷  
+উচ্ছিষ্টভোজিনো দাসাস্তব মায়াং জয়েম হি ॥ ২৩৭ ॥
+
+tvayopayukta-srag-gandha-  
+by You used  garlands  scents  
+vāso ’laṅkāra-carcitāḥ  
+clothes  with ornaments  adorned  
+ucchiṣṭa-bhojino dāsās  
+remnants  eating  servants  
+tava māyāṁ jayema hi  
+Your  māyā  shall conquer  surely
+
+(237) “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam 11.6.46)
+
+তথাপি এতেক অন্ন খাওন না যায় ৷  
+ভট্ট কহে, — জানি, খাও, যতেক যুয়ায় ॥ ২৩৮ ॥
+
+tathāpi eteka anna khāona nā yāya  
+still  so much  food  to eat  not  possible  
+bhaṭṭa kahe, — jāni, khāo, yateka yuyāya  
+Bhaṭṭa  says  I know  eat  as much as  befits
+
+(238) “Still, no one can eat so much food.” Bhaṭṭa said, “I know how much You eat. Eat as much as befits You.
+
+নীলাচলে ভোজন তুমি কর বায়ান্ন বার ৷  
+এক এক ভোগের অন্ন শত শত ভার ॥ ২৩৯ ॥
+
+nīlācale bhojana tumi kara bāyānna bāra  
+at Nīlācala  meals  You  take  fifty-two  times  
+eka eka bhogera anna śata śata bhāra  
+each  each  offering’s  food  hundreds  hundreds  loads
+
+(239) “At Nīlācala You eat fifty-two times, and the food of each offering comes in hundreds upon hundreds of loads.
+
+দ্বারকাতে ষোল-সহস্র মহিষীমন্দিরে ৷  
+অষ্টাদশ মাতা, আর যাদবের ঘরে ॥ ২৪০ ॥
+
+dvārakāte ṣola-sahasra mahiṣī-mandire  
+in Dvārakā  sixteen thousand  in the queens’ palaces  
+aṣṭādaśa mātā, āra yādavera ghare  
+eighteen  mothers  and  of the Yādavas  in the houses
+
+(240) “In Dvārakā You eat in the palaces of the sixteen thousand queens, with Your eighteen mothers and in the houses of the Yādavas.
+
+ব্রজে জ্যেঠা, খুড়া, মামা, পিসাদি গোপগণ ৷  
+সখাবৃন্দ সবার ঘরে দ্বিসন্ধ্যা-ভোজন ॥ ২৪১ ॥
+
+vraje jyeṭhā, khuḍā, māmā, pisādi gopa-gaṇa  
+in Vraja  elder uncles  younger uncles  maternal uncles  aunts’ husbands and other  cowherds  
+sakhā-vṛnda sabāra ghare dvisandhyā-bhojana  
+friends  of all  in the houses  meals at both twilights
+
+(241) “In Vraja You eat twice a day, morning and evening, in the houses of all the cowherds — Your uncles on Your father’s and mother’s side, the husbands of Your aunts and others — and of all Your friends.
+
+গোবর্দ্ধন-যজ্ঞে অন্ন খাইলা রাশি রাশি ৷  
+তার লেখায় এই অন্ন নহে এক গ্রাসী ॥ ২৪২ ॥
+
+govarddhana-yajñe anna khāilā rāśi rāśi  
+at the Govardhana sacrifice  food  You ate  heaps  upon heaps  
+tāra lekhāya ei anna nahe eka grāsī  
+of that  in comparison  this  food  is not  one  mouthful
+
+(242) “At the Govardhana sacrifice You ate heaps upon heaps of food. Compared with that, this food is not even one mouthful.
+
+তুমি ত’ ঈশ্বর, মুঞি — ক্ষুদ্র জীব ছার ৷  
+এক-গ্রাস মাধুকরী করহ অঙ্গীকার ॥ ২৪৩ ॥
+
+tumi ta’ īśvara, muñi — kṣudra jīva chāra  
+You  indeed  the Lord  I  a tiny  soul  wretched  
+eka-grāsa mādhukarī karaha aṅgīkāra  
+one mouthful  of mādhukarī  make  acceptance
+
+(243) “You are the Lord Himself, and I am a tiny, wretched soul. Please accept this one mouthful of *mādhukarī*.”
+
+এত শুনি’ হাসি’ প্রভু বসিলা ভোজনে ৷  
+জগন্নাথের প্রসাদ ভট্ট দেন হর্ষ মনে ॥ ২৪৪ ॥
+
+eta śuni’ hāsi’ prabhu vasilā bhojane  
+this  hearing  smiling  the Lord  sat  to the meal  
+jagannāthera prasāda bhaṭṭa dena harṣa mane  
+of Jagannātha  the prasāda  Bhaṭṭa  gives  with joyful  mind
+
+(244) Hearing this, the Lord smiled and sat down to eat, and Bhaṭṭa joyfully served Him Jagannātha’s *prasāda*.
+
+হেনকালে ‘অমোঘ’, — ভট্টাচার্য্যের জামাতা ৷  
+কুলীন, নিন্দক তিঁহো ষাঠী-কন্যার ভর্ত্তা ॥ ২৪৫ ॥
+
+hena-kāle ‘amogha’, — bhaṭṭācāryera jāmātā  
+at that time  Amogha  the Bhaṭṭācārya’s  son-in-law  
+kulīna, nindaka tim̐ho ṣāṭhī-kanyāra bhartā  
+of a noble family  a blasphemer  he  of Ṣāṭhī the daughter  the husband
+
+(245) At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there. He was the husband of the Bhaṭṭācārya’s daughter Ṣāṭhī — a man of noble (*kulīna*) family, but a blasphemer.
+
+ভোজন দেখিতে চাহে, আসিতে না পারে ৷  
+লাঠি-হাতে ভট্টাচার্য্য আছেন দুয়ারে ॥ ২৪৬ ॥
+
+bhojana dekhite cāhe, āsite nā pāre  
+the meal  to see  he wants  to come in  not  he can  
+lāṭhi-hāte bhaṭṭācārya āchena duyāre  
+stick in hand  the Bhaṭṭācārya  is  at the door
+
+(246) He wanted to watch the Lord eat but could not come in, for the Bhaṭṭācārya stood at the door, stick in hand.
+
+তিঁহো যদি প্রসাদ দিতে হৈলা আন-মন ৷  
+অমোঘ আসি’ অন্ন দেখি’ করয়ে নিন্দন ॥ ২৪৭ ॥
+
+tim̐ho yadi prasāda dite hailā āna-mana  
+he  when  prasāda  in serving  became  distracted  
+amogha āsi’ anna dekhi’ karaye nindana  
+Amogha  coming in  the food  seeing  makes  blasphemy
+
+(247) But when the Bhaṭṭācārya’s attention turned to serving the *prasāda*, Amogha came in, saw the food and began to blaspheme:
+
+এই অন্নে তৃপ্ত হয় দশ বার জন ৷  
+একেলা সন্ন্যাসী করে এতেক ভক্ষণ ॥ ২৪৮ ॥
+
+ei anne tṛpta haya daśa bāra jana  
+with this  food  satisfied  become  ten  twelve  people  
+ekelā sannyāsī kare eteka bhakṣaṇa  
+alone  a sannyāsī  does  so much  eating
+
+(248) “This food would satisfy ten or twelve people, and one *sannyāsī* eats so much all by himself!”
+
+শুনি’ ভট্টাচার্য্য তবে উলটি’ চাহিল ৷  
+তাঁর অবধান দেখি’ অমোঘ পলাইল ॥ ২৪৯ ॥
+
+śuni’ bhaṭṭācārya tabe ulaṭi’ cāhila  
+hearing  the Bhaṭṭācārya  then  turning round  looked  
+tām̐ra avadhāna dekhi’ amogha palāila  
+his  attention  seeing  Amogha  fled
+
+(249) Hearing this, the Bhaṭṭācārya turned round and looked, and seeing that he had noticed, Amogha fled.
+
+ভট্টাচার্য্য লাঠি লঞা মারিতে ধাইল ৷  
+পলাইল অমোঘ, তার লাগ না পাইল ॥ ২৫০ ॥
+
+bhaṭṭācārya lāṭhi lañā mārite dhāila  
+the Bhaṭṭācārya  the stick  taking  to beat  ran  
+palāila amogha, tāra lāga nā pāila  
+fled  Amogha  him  catch  not  could
+
+(250) The Bhaṭṭācārya took up his stick and ran to beat him, but Amogha got away and he could not catch him.
+
+তবে গালি, শাপ দিতে ভট্টাচার্য্য আইলা ৷  
+নিন্দা শুনি’ মহাপ্রভু হাসিতে লাগিলা ॥ ২৫১ ॥
+
+tabe gāli, śāpa dite bhaṭṭācārya āilā  
+then  abuse  curses  hurling  the Bhaṭṭācārya  came back  
+nindā śuni’ mahāprabhu hāsite lāgilā  
+the blasphemy  hearing  Mahāprabhu  to laugh  began
+
+(251) Then the Bhaṭṭācārya came back, cursing and abusing him. Hearing all this reviling, Mahāprabhu began to laugh.
+
+শুনি’ ষাঠীর মাতা শিরে-বুকে ঘাত মারে ৷  
+‘ষাঠী রাণ্ডী হউক’ — ইহা বলে বারে বারে ॥ ২৫২ ॥
+
+śuni’ ṣāṭhīra mātā śire-buke ghāta māre  
+hearing  Ṣāṭhī’s  mother  on head and breast  blows  strikes  
+‘ṣāṭhī rāṇḍī hauka’ — ihā bale bāre bāre  
+“may Ṣāṭhī  a widow  become”  this  she says  again  and again
+
+(252) Hearing of it, Ṣāṭhī’s mother beat her head and breast and cried again and again, “Let Ṣāṭhī become a widow!”
+
+দুঁহার দুঃখ দেখি’ প্রভু দুঁহা প্রবোধিয়া ৷  
+দুঁহার ইচ্ছাতে ভোজন কৈল তুষ্ট হঞা ॥ ২৫৩ ॥
+
+dum̐hāra duḥkha dekhi’ prabhu dum̐hā prabodhiyā  
+of both  the grief  seeing  the Lord  both  consoling  
+dum̐hāra icchāte bhojana kaila tuṣṭa hañā  
+of both  by the wish  meal  took  pleased  being
+
+(253) Seeing the grief of them both, the Lord consoled them, and to fulfil their wish He ate, well pleased.
+
+আচমন করাঞা ভট্ট দিল মুখবাস ৷  
+তুলসী-মঞ্জরী, লবঙ্গ, এলাচি, রসবাস ॥ ২৫৪ ॥
+
+ācamana karāñā bhaṭṭa dila mukha-vāsa  
+ācamana  having Him do  Bhaṭṭa  gave  mouth fresheners  
+tulasī-mañjarī, lavaṅga, elāci, rasa-vāsa  
+tulasī buds  cloves  cardamom  juicy and fragrant
+
+(254) When the Lord had rinsed His mouth, Bhaṭṭa gave Him mouth fresheners: tulasī buds, cloves and juicy, fragrant cardamom.
+
+সর্ব্বাঙ্গে লেপিল প্রভুর সুগন্ধি চন্দন ৷  
+দণ্ডবৎ হঞা বলে সদৈন্য বচন ॥ ২৫৫ ॥
+
+sarvāṅge lepila prabhura sugandhi candana  
+over all the limbs  smeared  of the Lord  fragrant  sandalwood  
+daṇḍavat hañā bale sadainya vacana  
+prostrate  becoming  says  humble  words
+
+(255) He smeared fragrant sandalwood paste all over the Lord’s body and, falling prostrate, spoke humbly:
+
+নিন্দা করাইতে তোমা আনিনু নিজ-ঘরে ৷  
+এই অপরাধ, প্রভু, ক্ষমা কর মোরে ॥ ২৫৬ ॥
+
+nindā karāite tomā āninu nija-ghare  
+blasphemy  to have done  You  I brought  to my own house  
+ei aparādha, prabhu, kṣamā kara more  
+this  offence  O Lord  pardon  make  me
+
+(256) “I brought You to my house only to have You blasphemed. O Lord, forgive me this offence.”
+
+প্রভু কহে, — নিন্দা নহে, ‘সহজ’ কহিল ৷  
+ইহাতে তোমার তার কি অপরাধ হৈল ? ॥ ২৫৭ ॥
+
+prabhu kahe, — nindā nahe, ‘sahaja’ kahila  
+the Lord  says  blasphemy  it is not  the plain truth  he spoke  
+ihāte tomāra tāra ki aparādha haila?  
+in this  your  his  what  offence  has been
+
+(257) The Lord said, “That was not blasphemy; he only spoke plainly. What offence is there in this, either on your part or on his?”
+
+এত বলি’ মহাপ্রভু চলিলা ভবনে ৷  
+ভট্টাচার্য্য তাঁর ঘরে গেলা তাঁর সনে ॥ ২৫৮ ॥
+
+eta bali’ mahāprabhu calilā bhavane  
+this  saying  Mahāprabhu  went  to His dwelling  
+bhaṭṭācārya tām̐ra ghare gelā tām̐ra sane  
+the Bhaṭṭācārya  to His  house  went  Him  with
+
+(258) With these words Mahāprabhu went home, and the Bhaṭṭācārya went with Him to His residence.
+
+প্রভু-পদে পড়ি’ বহু আত্মনিন্দা কৈল ৷  
+তাঁরে শান্ত করি’ প্রভু ঘরে পাঠাইল ॥ ২৫৯ ॥
+
+prabhu-pade paḍi’ bahu ātma-nindā kaila  
+at the Lord’s feet  falling  much  self-reproach  made  
+tām̐re śānta kari’ prabhu ghare pāṭhāila  
+him  calm  making  the Lord  home  sent
+
+(259) Falling at the Lord’s feet, he reproached himself bitterly. The Lord calmed him and sent him home.
+
+ঘরে আসি’ ভট্টাচার্য্য, ষাঠীর মাতা-সনে ৷  
+আপনা নিন্দিয়া কিছু বলেন বচনে ॥ ২৬০ ॥
+
+ghare āsi’ bhaṭṭācārya, ṣāṭhīra mātā-sane  
+home  coming  the Bhaṭṭācārya  with Ṣāṭhī’s mother  
+āpanā nindiyā kichu balena vacane  
+himself  reproaching  some  says  words
+
+(260) Returning home, the Bhaṭṭācārya reproached himself and said to Ṣāṭhī’s mother:
+
+চৈতন্য-গোসাঞির নিন্দা শুনি যাহা হৈতে ৷  
+তারে বধ কৈলে হয় পাপ-প্রায়শ্চিত্তে ॥ ২৬১ ॥
+
+caitanya-gosāñira nindā śuni yāhā haite  
+of Caitanya Gosāñi  blasphemy  I hear  whom  from  
+tāre vadha kaile haya pāpa-prāyaścitte  
+him  killing  if done  there is  for the sin  atonement
+
+(261) “To kill the man from whom I have heard blasphemy of Caitanya Gosāñi would be the atonement for that sin.
+
+কিম্বা নিজ-প্রাণ যদি করি বিমোচন ৷  
+দুই যোগ্য নহে, দুই — শরীর ব্রাহ্মণ ॥ ২৬২ ॥
+
+kimbā nija-prāṇa yadi kari vimocana  
+or  my own life  if  I make  giving up  
+dui yogya nahe, dui — śarīra brāhmaṇa  
+both  fitting  not  both  bodies  brāhmaṇa
+
+(262) “Or I could give up my own life. But neither is proper, for both bodies are those of brāhmaṇas.
+
+পুনঃ সেই নিন্দকের মুখ না দেখিব ৷  
+পরিত্যাগ কৈলুঁ, তার নাম না লইব ॥ ২৬৩ ॥
+
+punaḥ sei nindakera mukha nā dekhiba  
+again  that  blasphemer’s  face  not  I shall see  
+parityāga kailum̐, tāra nāma nā laiba  
+renunciation  I have made  his  name  not  I shall take
+
+(263) “I shall never look on that blasphemer’s face again. I have renounced him, and I shall not speak his name.
+
+ষাঠীরে কহ — তারে ছাড়ুক, সে হইল ‘পতিত’ ৷  
+‘পতিত’ হইলে ভর্ত্তা, ত্যজিতে উচিত ॥ ২৬৪ ॥
+
+ṣāṭhīre kaha — tāre chāḍuka, se haila ‘patita’  
+to Ṣāṭhī  say  him  let her leave  he  has become  fallen  
+‘patita’ haile bhartā, tyajite ucita  
+fallen  if becomes  a husband  to give up  proper
+
+(264) “Tell Ṣāṭhī to leave him: he has fallen (*patita*). When a husband has fallen, it is proper to give him up.
+
+“পতিঞ্চ পতিতং ত্যজেৎ” ॥ ২৬৫ ॥
+
+“patiṁ ca patitaṁ tyajet”  
+a husband  and  fallen  one should give up
+
+(265) “ ‘One should give up a fallen husband.’ ”
+
+সেই রাত্রে অমোঘ কাঁহা পলাঞা রহিল ৷  
+প্রাতঃকালে তার বিসূচিকা-ব্যাধি হৈল ॥ ২৬৬ ॥
+
+sei rātre amogha kām̐hā palāñā rahila  
+that  night  Amogha  somewhere  having fled  stayed  
+prātaḥ-kāle tāra visūcikā-vyādhi haila  
+in the morning  his  cholera  occurred
+
+(266) That night Amogha fled and hid somewhere, and in the morning he was stricken with cholera.
+
+অমোঘ মরেন — শুনি’ কহে ভট্টাচার্য্য ৷  
+সহায় হইয়া দৈব, কৈল মোর কার্য্য ॥ ২৬৭ ॥
+
+amogha marena — śuni’ kahe bhaṭṭācārya  
+Amogha  is dying  hearing  says  the Bhaṭṭācārya  
+sahāya haiyā daiva, kaila mora kārya  
+helper  becoming  providence  has done  my  task
+
+(267) Hearing that Amogha was dying, the Bhaṭṭācārya said, “Providence has come to my aid and done my work for me.
+
+ঈশ্বরে ত’ অপরাধ ফলে ততক্ষণ ৷  
+এত বলি’ পড়ে দুই শাস্ত্রের বচন ॥ ২৬৮ ॥
+
+īśvare ta’ aparādha phale tata-kṣaṇa  
+against the Lord  indeed  an offence  bears fruit  at once  
+eta bali’ paḍe dui śāstrera vacana  
+this  saying  he recites  two  of scripture  sayings
+
+(268) “An offence against the Lord bears fruit at once.” So saying, he recited two verses of scripture:
+
+মহতা হি প্রয়ত্নেন হস্ত্যশ্বরথপত্তিভিঃ ৷  
+অস্মাভির্যদনুষ্ঠেয়ং গন্ধর্ব্বৈস্তদনুষ্ঠিতম্ ॥ ২৬৯ ॥
+
+mahatā hi prayatnena  
+by great  indeed  effort  
+hasty-aśva-ratha-pattibhiḥ  
+with elephants, horses, chariots and foot soldiers  
+asmābhir yad anuṣṭheyaṁ  
+by us  what  had to be done  
+gandharvais tad anuṣṭhitam  
+by the Gandharvas  that  has been done
+
+(269) “What we would have had to do with great effort, with elephants, horses, chariots and foot soldiers, the Gandharvas have done.” (Mahābhārata, Vana-parva 241.15)
+
+আয়ুঃ শ্রিয়ং যশো ধর্ম্মং লোকানাশিষ এব চ ৷  
+হন্তি শ্রেয়াংসি সর্ব্বাণি পুংসো মহদতিক্রমঃ ॥ ২৭০ ॥
+
+āyuḥ śriyaṁ yaśo dharmaṁ  
+life  fortune  fame  dharma  
+lokān āśiṣa eva ca  
+the higher worlds  blessings  also  and  
+hanti śreyāṁsi sarvāṇi  
+destroys  benefits  all  
+puṁso mahad-atikramaḥ  
+of a man  offence against the great
+
+(270) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam 10.4.46)
+
+গোপীনাথাচার্য্য গেলা প্রভু-দরশনে ৷  
+প্রভু তাঁরে পুছিল ভট্টাচার্য্য-বিবরণে ॥ ২৭১ ॥
+
+gopīnāthācārya gelā prabhu-daraśane  
+Gopīnātha Ācārya  went  to see the Lord  
+prabhu tām̐re puchila bhaṭṭācārya-vivaraṇe  
+the Lord  him  asked  about the Bhaṭṭācārya’s affairs
+
+(271) Gopīnātha Ācārya went to see the Lord, and the Lord asked him about the Bhaṭṭācārya.
+
+আচার্য্য কহে, — উপবাস কৈল দুইজন ৷  
+বিসূচিকা-ব্যাধিতে অমোঘ ছাড়িছে জীবন ॥ ২৭২ ॥
+
+ācārya kahe, — upavāsa kaila dui-jana  
+the Ācārya  says  fast  have kept  the two  
+visūcikā-vyādhite amogha chāḍiche jīvana  
+from cholera  Amogha  is leaving  life
+
+(272) The Ācārya said, “The two of them are fasting, and Amogha is dying of cholera.”
+
+শুনি’ কৃপাময় প্রভু আইলা ধাঞা ৷  
+অমোঘেরে কহে তার বুকে হস্ত দিয়া ॥ ২৭৩ ॥
+
+śuni’ kṛpāmaya prabhu āilā dhāñā  
+hearing  merciful  the Lord  came  running  
+amoghere kahe tāra buke hasta diyā  
+to Amogha  says  his  on the chest  hand  placing
+
+(273) Hearing this, the merciful Lord came running. Placing His hand on Amogha’s chest, He said:
+
+সহজে নির্ম্মল এই ‘ব্রাহ্মণ’-হৃদয় ৷  
+কৃষ্ণের বসিতে এই যোগ্যস্থান হয় ॥ ২৭৪ ॥
+
+sahaje nirmala ei ‘brāhmaṇa’-hṛdaya  
+by nature  pure  this  brāhmaṇa’s heart  
+kṛṣṇera vasite ei yogya-sthāna haya  
+for Kṛṣṇa  to sit  this  a fit place  is
+
+(274) “This heart of a brāhmaṇa is pure by nature; it is a fit place for Kṛṣṇa to sit.
+
+‘মাৎসর্য্য’-চণ্ডাল কেনে ইঁহা বসাইলা ৷  
+পরম পবিত্র স্থান অপবিত্র কৈলা ॥ ২৭৫ ॥
+
+‘mātsarya’-caṇḍāla kene im̐hā vasāilā  
+the caṇḍāla of envy  why  here  have you seated  
+parama pavitra sthāna apavitra kailā  
+supremely  pure  place  impure  you have made
+
+(275) “Why have you seated the *caṇḍāla* of envy here? You have made this supremely pure place impure.
+
+সার্ব্বভৌম-সঙ্গে তোমার ‘কলুষ’ হৈল ক্ষয় ৷  
+‘কল্মষ’ ঘুচিলে জীব ‘কৃষ্ণনাম’ লয় ॥ ২৭৬ ॥
+
+sārvabhauma-saṅge tomāra ‘kaluṣa’ haila kṣaya  
+in Sārvabhauma’s company  your  impurity  has become  destroyed  
+‘kalmaṣa’ ghucile jīva ‘kṛṣṇa-nāma’ laya  
+the taint  when removed  the soul  Kṛṣṇa’s name  takes
+
+(276) “By Sārvabhauma’s company your impurity has been destroyed, and when the taint is gone, a soul takes the name of Kṛṣṇa.
+
+উঠহ, অমোঘ, তুমি লও কৃষ্ণনাম ৷  
+অচিরে তোমারে কৃপা করিবে ভগবান্ ॥ ২৭৭ ॥
+
+uṭhaha, amogha, tumi lao kṛṣṇa-nāma  
+get up  Amogha  you  take  Kṛṣṇa’s name  
+acire tomāre kṛpā karibe bhagavān  
+soon  on you  mercy  will show  Bhagavān
+
+(277) “Get up, Amogha! Take the name of Kṛṣṇa, and Bhagavān will soon show you His mercy.”
+
+শুনি’ ‘কৃষ্ণ’ ‘কৃষ্ণ’ বলি’ অমোঘ উঠিলা ৷  
+প্রেমোন্মাদে মত্ত হঞা নাচিতে লাগিলা ॥ ২৭৮ ॥
+
+śuni’ ‘kṛṣṇa’ ‘kṛṣṇa’ bali’ amogha uṭhilā  
+hearing  “Kṛṣṇa”  “Kṛṣṇa”  saying  Amogha  got up  
+premonmāde matta hañā nācite lāgilā  
+in the madness of love  intoxicated  becoming  to dance  began
+
+(278) Hearing this, Amogha rose up crying, “Kṛṣṇa! Kṛṣṇa!” and, mad with love, began to dance.
+
+কম্প, অশ্রু, পুলক, স্তম্ভ, স্বেদ, স্বরভঙ্গ ৷  
+প্রভু হাসে দেখি’ তার প্রেমের তরঙ্গ ॥ ২৭৯ ॥
+
+kampa, aśru, pulaka, stambha, sveda, svara-bhaṅga  
+trembling  tears  hair standing on end  becoming stunned  perspiration  faltering voice  
+prabhu hāse dekhi’ tāra premera taraṅga  
+the Lord  smiles  seeing  his  of love  the waves
+
+(279) Trembling, tears, hair standing on end, stupor, perspiration and a faltering voice appeared in him, and seeing these waves of love, the Lord smiled.
+
+প্রভুর চরণে ধরি’ করেন বিনয় ৷  
+অপরাধ ক্ষম মোরে, প্রভু, দয়াময় ॥ ২৮০ ॥
+
+prabhura caraṇe dhari’ karena vinaya  
+of the Lord  the feet  clasping  makes  entreaty  
+aparādha kṣama more, prabhu, dayāmaya  
+offence  pardon  me  O Lord  merciful
+
+(280) Clasping the Lord’s feet, he humbly entreated Him: “O merciful Lord, forgive my offence.
+
+এই ছার মুখে তোমার করিনু নিন্দনে ৷  
+এত বলি’ আপন গালে চড়ায় আপনে ॥ ২৮১ ॥
+
+ei chāra mukhe tomāra karinu nindane  
+this  wretched  with mouth  of You  I made  blasphemy  
+eta bali’ āpana gāle caḍāya āpane  
+this  saying  his own  cheeks  slaps  himself
+
+(281) “With this wretched mouth I blasphemed You!” Saying this, he began to slap his own cheeks.
+
+চড়াইতে চড়াইতে গাল ফুলাইল ৷  
+হাতে ধরি’ গোপীনাথাচার্য্য নিষেধিল ॥ ২৮২ ॥
+
+caḍāite caḍāite gāla phulāila  
+slapping  slapping  the cheeks  he swelled  
+hāte dhari’ gopīnāthācārya niṣedhila  
+by the hands  seizing  Gopīnātha Ācārya  stopped him
+
+(282) He slapped himself until his cheeks were swollen. Then Gopīnātha Ācārya seized his hands and stopped him.
+
+প্রভু আশ্বাসন করে স্পর্শি’ তার গাত্র ৷  
+সার্ব্বভৌম-সম্বন্ধে তুমি মোর স্নেহপাত্র ॥ ২৮৩ ॥
+
+prabhu āśvāsana kare sparśi’ tāra gātra  
+the Lord  consolation  gives  touching  his  body  
+sārvabhauma-sambandhe tumi mora sneha-pātra  
+by relation to Sārvabhauma  you  My  object of affection
+
+(283) The Lord consoled him, touching his body: “Because you are related to Sārvabhauma, you are dear to Me.
+
+সার্ব্বভৌম-গৃহে দাস দাসী, যে কুক্কুর ৷  
+সেহ মোর প্রিয়, অন্য জন রহু দূর ॥ ২৮৪ ॥
+
+sārvabhauma-gṛhe dāsa dāsī, ye kukkura  
+in Sārvabhauma’s house  servants  maids  even  dogs  
+seha mora priya, anya jana rahu dūra  
+they too  to Me  dear  other  people  let stay far
+
+(284) “Even the servants, maids and dogs in Sārvabhauma’s house are dear to Me — what to speak of others.
+
+‘অপরাধ’ নাহি তব, লও কৃষ্ণনাম ৷  
+এত বলি’ প্রভু আইলা সার্ব্বভৌম-স্থান ॥ ২৮৫ ॥
+
+‘aparādha’ nāhi taba, lao kṛṣṇa-nāma  
+offence  there is no  in you  take  Kṛṣṇa’s name  
+eta bali’ prabhu āilā sārvabhauma-sthāna  
+this  saying  the Lord  came  to Sārvabhauma’s place
+
+(285) “There is no offence left in you. Take the name of Kṛṣṇa.” With these words the Lord went to Sārvabhauma’s house.
+
+প্রভু দেখি’ সার্ব্বভৌম ধরিলা চরণে ৷  
+প্রভু তাঁরে আলিঙ্গিয়া বসিলা আসনে ॥ ২৮৬ ॥
+
+prabhu dekhi’ sārvabhauma dharilā caraṇe  
+the Lord  seeing  Sārvabhauma  clasped  the feet  
+prabhu tām̐re āliṅgiyā vasilā āsane  
+the Lord  him  embracing  sat  on a seat
+
+(286) Seeing the Lord, Sārvabhauma clasped His feet. The Lord embraced him and sat down.
+
+প্রভু কহে, — অমোঘ শিশু, কিবা তার দোষ ৷  
+কেনে উপবাস কর, কেনে কর রোষ ॥ ২৮৭ ॥
+
+prabhu kahe, — amogha śiśu, kibā tāra doṣa  
+the Lord  says  Amogha  a child  what  his  fault  
+kene upavāsa kara, kene kara roṣa  
+why  fast  you keep  why  you nurse  anger
+
+(287) The Lord said, “Amogha is a child. What fault is there in him? Why are you fasting, and why are you angry?
+
+উঠ, স্নান কর, দেখ জগন্নাথ-মুখ ৷  
+শীঘ্র আসি’ ভোজন কর, তবে মোর সুখ ॥ ২৮৮ ॥
+
+uṭha, snāna kara, dekha jagannātha-mukha  
+get up  bath  take  see  Jagannātha’s face  
+śīghra āsi’ bhojana kara, tabe mora sukha  
+quickly  coming back  meal  take  then  My  happiness
+
+(288) “Get up, bathe and go to see Jagannātha’s face. Then come back quickly and eat; that will make Me happy.
+
+তাবৎ রহিব আমি এথায় বসিয়া ৷  
+যাবৎ না পাইবা তুমি প্রসাদ আনিয়া ॥ ২৮৯ ॥
+
+tāvat rahiba āmi ethāya vasiyā  
+so long  shall stay  I  here  sitting  
+yāvat nā pāibā tumi prasāda āniyā  
+as long as  not  honour  you  prasāda  bringing
+
+(289) “I shall sit here until you have brought *prasāda* and honoured it.”
+
+প্রভু পদ ধরি’ ভট্ট কহিতে লাগিলা ৷  
+মরিত’ অমোঘ, তারে কেনে জীয়াইলা ॥ ২৯০ ॥
+
+prabhu pada dhari’ bhaṭṭa kahite lāgilā  
+of the Lord  the feet  clasping  Bhaṭṭa  to speak  began  
+marita’ amogha, tāre kene jīyāilā  
+would have died  Amogha  him  why  You revived
+
+(290) Clasping the Lord’s feet, Bhaṭṭa said, “Amogha would have died. Why did You bring him back to life?”
+
+প্রভু কহে, — অমোঘ শিশু, তোমার বালক ৷  
+বালক-দোষ না লয় পিতা, তাহাতে পালক ॥ ২৯১ ॥
+
+prabhu kahe, — amogha śiśu, tomāra bālaka  
+the Lord  says  Amogha  a child  your  boy  
+bālaka-doṣa nā laya pitā, tāhāte pālaka  
+the boy’s fault  not  takes  the father  for in that  he is the protector
+
+(291) The Lord said, “Amogha is a child; he is your son. A father does not hold his child’s faults against him, for he is his protector.
+
+এবে ‘বৈষ্ণব’ হৈল, তার গেল ‘অপরাধ’ ৷  
+তাহার উপরে এবে করহ প্রসাদ ॥ ২৯২ ॥
+
+ebe ‘vaiṣṇava’ haila, tāra gela ‘aparādha’  
+now  a Vaiṣṇava  he has become  his  went  offence  
+tāhāra upare ebe karaha prasāda  
+him  on  now  show  grace
+
+(292) “Now he has become a Vaiṣṇava, and his offence is gone. Now show him your favour.”
+
+ভট্ট কহে, — চল, প্রভু, ঈশ্বর-দরশনে ৷  
+স্নান করি’ হেথা মুঞি আসিলাঙ এখনে ॥ ২৯৩ ॥
+
+bhaṭṭa kahe, — cala, prabhu, īśvara-daraśane  
+Bhaṭṭa  says  go  O Lord  to see Īśvara (Jagannātha)  
+snāna kari’ hethā muñi āsilāṅ ekhane  
+bath  having taken  here  I  am back  at once
+
+(293) Bhaṭṭa said, “Go, O Lord, to see Jagannātha. I shall bathe and be back here at once.”
+
+প্রভু কহে, — গোপীনাথ, ইহাঞি রহিবা ৷  
+ইঁহো প্রসাদ পাইলে, বার্ত্তা আমাকে কহিবা ॥ ২৯৪ ॥
+
+prabhu kahe, — gopīnātha, ihāñi rahibā  
+the Lord  says  Gopīnātha  right here  stay  
+im̐ho prasāda pāile, vārtā āmāke kahibā  
+he  prasāda  having honoured  the news  to Me  tell
+
+(294) The Lord said, “Gopīnātha, stay right here. When he has honoured the *prasāda*, bring Me word.”
+
+এত বলি’ প্রভু গেলা ঈশ্বর-দরশনে ৷  
+ভট্ট স্নান দর্শন করি’ করিলা ভোজনে ॥ ২৯৫ ॥
+
+eta bali’ prabhu gelā īśvara-daraśane  
+this  saying  the Lord  went  to see Īśvara  
+bhaṭṭa snāna darśana kari’ karilā bhojane  
+Bhaṭṭa  bath  sight  having made  took  meal
+
+(295) With these words the Lord went to see Jagannātha, and Bhaṭṭa bathed, took *darśana* and ate.
+
+সেই অমোঘ হৈল প্রভুর ভক্ত ‘একান্ত’ ৷  
+প্রেমে নাচে, কৃষ্ণনাম লয় মহাশান্ত ॥ ২৯৬ ॥
+
+sei amogha haila prabhura bhakta ‘ekānta’  
+that  Amogha  became  the Lord’s  devotee  exclusive  
+preme nāce, kṛṣṇa-nāma laya mahā-śānta  
+in love  dances  Kṛṣṇa’s name  takes  deeply peaceful
+
+(296) That same Amogha became the Lord’s exclusive devotee. He would dance in love and chant the name of Kṛṣṇa, deeply at peace.
+
+ঐছে চিত্র-লীলা করে শচীর নন্দন ৷  
+যেই দেখে, শুনে, তাঁর বিস্ময় হয় মন ॥ ২৯৭ ॥
+
+aiche citra-līlā kare śacīra nandana  
+such  wonderful pastimes  does  Śacī’s  son  
+yei dekhe, śune, tām̐ra vismaya haya mana  
+whoever  sees  hears  his  amazed  becomes  mind
+
+(297) Such are the wonderful pastimes of the son of Śacī: whoever sees or hears of them is struck with wonder.
+
+ঐছে ভট্ট-গৃহে করে ভোজন-বিলাস ৷  
+তার মধ্যে নানা চিত্র-চরিত্র-প্রকাশ ॥ ২৯৮ ॥
+
+aiche bhaṭṭa-gṛhe kare bhojana-vilāsa  
+thus  in Bhaṭṭa’s house  does  the pastime of eating  
+tāra madhye nānā citra-caritra-prakāśa  
+it  within  various  wonderful deeds  revealing
+
+(298) Thus the Lord enjoyed the pastime of eating at Bhaṭṭa’s house, and in it He revealed many wonderful deeds.
+
+সার্ব্বভৌম-ঘরে এই ভোজন-চরিত ৷  
+সার্ব্বভৌম-প্রেম যাঁহা হইলা বিদিত ॥ ২৯৯ ॥
+
+sārvabhauma-ghare ei bhojana-carita  
+in Sārvabhauma’s house  this  story of the meal  
+sārvabhauma-prema yām̐hā hailā vidita  
+Sārvabhauma’s love  in which  became  known
+
+(299) This is the story of the Lord’s meal in Sārvabhauma’s house, in which Sārvabhauma’s love became known,
+
+ষাঠীর মাতার প্রেম, আর প্রভুর প্রসাদ ৷  
+ভক্ত-সম্বন্ধে যাহা ক্ষমিল অপরাধ ॥ ৩০০ ॥
+
+ṣāṭhīra mātāra prema, āra prabhura prasāda  
+of Ṣāṭhī’s mother  the love  and  the Lord’s  grace  
+bhakta-sambandhe yāhā kṣamila aparādha  
+by relation to a devotee  by which  He pardoned  offence
+
+(300) and the love of Ṣāṭhī’s mother, and the grace of the Lord, by which He forgave an offence because of the offender’s relation to His devotee.
+
+শ্রদ্ধা করি’ এই লীলা শুনে যেই জন ৷  
+অচিরাৎ পায় সেই চৈতন্য-চরণ ॥ ৩০১ ॥
+
+śraddhā kari’ ei līlā śune yei jana  
+with faith  making  this  pastime  hears  whoever  person  
+acirāt pāya sei caitanya-caraṇa  
+soon  attains  he  Caitanya’s feet
+
+(301) Whoever hears this pastime with faith will soon attain the feet of Śrī Caitanya.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩০২ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(302) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: Amogha was the husband of Ṣaṣṭhī, Sārvabhauma’s daughter; “accepted” — counted him among His servants. Heading in the edition: “Gaurasundara makes His own Amogha, who had reviled Him.”
@@ -1612,3 +3140,7 @@ of You  before  death  let be  let go  doubt
 [^44]: Heading in the edition: “Under the Lord’s influence Murāri’s mind changed for a moment.”
 
 [^45]: *Anubhāṣya* quotes the verse: “The Lord of Śrī and the Lord of Jānakī are one and the same Supreme Soul; there is no difference between Them. Still, my all in all is lotus-eyed Rāma.”
+
+[^46]: Heading in the edition: “Obeisance to Govinda, the giver of all fruits (Brahma-saṁhitā, 5.54).” *Anubhāṣya*: the *indragopa* is a small red insect; for His devotees Govinda destroys both *prārabdha* and *aprārabdha* karma — all the fruits still to be tasted.
+
+[^47]: *Anubhāṣya*: on Janaloka, at the *brahma-satra* sacrifice, Sanandana, one of the four Kumāras, recounts to the sages this prayer of the personified *śrutis*; the repeated *jaya* is a reverent insistence (“show Your supremacy!”); the *Anubhāṣya* takes *aga-jagad-okasām* with *ajām*: the *māyā* that holds sway over moving and unmoving beings.
