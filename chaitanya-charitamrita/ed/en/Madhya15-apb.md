@@ -31,3 +31,11 @@ Gadādhara — Gadādhara dāsa of Āṛiyādaha.
 ## 96
 
 *Sarakhela* — a guardian, a caretaker.
+
+
+## 99
+
+The *Śrī Kṛṣṇa-vijaya* is the name of a book. Many consider it the first Bengali poem.
+## 102–106
+
+Rāmānanda Vasu and his father Satyarāja Khān were householder Vaiṣṇavas of the Kāyastha Vasu line, the glory of Bengal. They asked the Lord, “What is the duty, the *sādhana*, of a householder Vaiṣṇava?” The Lord answered, “To serve Kṛṣṇa, to serve the Vaiṣṇavas and to chant Kṛṣṇa's name without cease — this is the only duty of a householder Vaiṣṇava.” Then Satyarāja asked, “Serving Kṛṣṇa and chanting Kṛṣṇa's name are easy to understand. But if one cannot recognize a Vaiṣṇava, serving Vaiṣṇavas becomes very difficult. So, O Lord, who is a Vaiṣṇava, and what are his general marks?” The Lord answered, “One from whose lips Kṛṣṇa's name is heard even once is the best of all, a Vaiṣṇava worthy of honor.”

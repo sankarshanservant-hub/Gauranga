@@ -218,7 +218,7 @@ By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother an
 
 ## 81–83
 
-Śrī Rāghava Paṇḍita was not like a man sunk in *karma* and sick with the mundane “disease of cleanliness,” nor like a mundane *kaniṣṭha* devotee who thinks in terms of duality and “considers the earth worshipable”[^81-83-1] — that is, attributes spirit to matter and lives by the speculations of the mind. He was an eternally perfect servant of Kṛṣṇa. Absorbed in the mood of transcendental service, free from the slightest scent of mundane desire, he served the object of his worship at every moment. Selfish devotees, on the other hand, whose devotion is mixed with *karma* and tainted, have no understanding of transcendental service. If they imitate his outward conduct and deliberate over artificial mundane purity and impurity, that alone does not show that they have pure devotion to Kṛṣṇa or a desire to please Kṛṣṇa: “In the transcendental there is no notion of things as good or bad. … In duality the notion of good and bad is all a speculation of the mind; ‘this is good, this is bad’ — all this is illusion.” (See Antya 4.174, 176 and *Śrīmad-Bhāgavatam* 11.28.4.)
+Śrī Rāghava Paṇḍita was not like a man sunk in *karma* and sick with the mundane “disease of cleanliness,” nor like a mundane *kaniṣṭha* devotee who thinks in terms of duality and “considers the earth worshipable”[^81-83-1] — that is, attributes spirit to matter and lives by the speculations of the mind. He was an eternally perfect servant of Kṛṣṇa. Absorbed in the mood of transcendental service, free from the slightest scent of mundane desire, he served the object of his worship at every moment. Selfish devotees, on the other hand, whose devotion is mixed with *karma* and tainted, have no understanding of transcendental service. If they imitate his outward conduct and deliberate over artificial mundane purity and impurity, that alone does not show that they have pure devotion to Kṛṣṇa or a desire to please Kṛṣṇa: “In the transcendental there is no notion of things as good or bad. In duality the notion of good and bad is all a speculation of the mind; ‘this is good, this is bad’ — all this is illusion.” (See Antya 4.174, 176 and *Śrīmad-Bhāgavatam* 11.28.4.)
 
 ## 84
 
@@ -246,8 +246,76 @@ By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother an
 
 > Subheading: The Lord orders that all the devotees be brought to Purī every year, with the tolls at the checkpoints settled —
 
+## 99
+
+“The first poet, Guṇarāja Khān Mahāśaya, set about this book in Śaka 1395 and completed it in Śaka 1402.
+
+The style of the *Śrī Kṛṣṇa-vijaya* is very simple: even half-literate women of Bengal and men of the lower classes who barely know their letters read and understand it easily. Its language is unadorned, and in many places the verse is not very sweet. A *payāra* line should have fourteen syllables, yet often one finds sixteen or seventeen, or twelve or thirteen. Many words are taken from the usage of that time, and only natives of Rāḍha understand them. No Bengali library lacking this book can be called “complete.”
+
+To those who seek the highest goal this book is extremely dear. The foremost Vaiṣṇava, the worshipable Śrī Guṇarāja Khān Mahāśaya, composed it by rendering the tenth and eleventh cantos of the *Śrīmad-Bhāgavatam*, the crown of all scriptures, in a way that ordinary people came to love. For this reason the Vaiṣṇava world honors this book everywhere. Mahāprabhu praised it so highly — needless to say how greatly the Gauḍīya Vaiṣṇava community will treasure it. This poem is therefore a precious treasure for the people of Bengal; moreover, some say it is the first poem in the Bengali language.
+
+In Śaka 1405, two years before the appearance of Śrī Śrī Mahāprabhu, the book was copied by the hand of Śrī Devānanda Vasu (quoted from the “Introduction” by Śrīmad Bhaktivinoda Ṭhākura to the *Śrī Kṛṣṇa-vijaya*).
+
+The Bengali emperor Ādiśūra brought from Kānyakubja five noble *brāhmaṇas* and with them five noble Kāyasthas; one of those Kāyasthas was Daśaratha Vasu. Śrī Guṇarāja Khān was born in the thirteenth generation of his line. His real name was Śrī Mālādhara Vasu; Guṇarāja Khān was a title given by the emperor of Gauḍa. The generations are as follows:
+
+1. Daśaratha Vasu, 2. Kuśala, 3. Śubhaśaṅkara, 4. Haṁsa, 5. Śaktirāma (Bāgāṇḍā), 5. Muktirāma (Māinagara), 5. Alaṅkāra (Baṅgaja).
+
+5. Muktirāma, 6. Dāmodara, 7. Anantarāma, 8. Guṇīnāyaka, 8. Vīṇānāyaka.
+
+8. Guṇīnāyaka, 9. Mādhava, 10. Lakṣmīnātha, 10. Cakrapāṇi, 10. Udayacāṅda, 10. Lauha, 10. Tauha, 10. Śrīpati, 10. Acyutānanda.
+
+10. Śrīpati, 11. Yajñeśvara, 11. Trilocana, 11. Vaṭeśvara, 11. Prajāpati, 11. Īśāna, 11. Sāgara, 11. Kṛpārāma.
+
+11. Yajñeśvara, 12. Bhagīratha, 12. Kāmeśvara, 12. Sadānanda, 12. Vaśiṣṭha.
+
+12. Bhagīratha, 13. Mālādhara Vasu — title Guṇarāja Khān.
+
+He had fourteen sons. The second of them, Lakṣmīnātha Vasu, bore the title Satyarāja Khān, and his son was Śrī Rāmānanda Vasu; so Śrī Rāmānanda Vasu is the fifteenth generation.
+
+Śrī Mālādhara Vasu Mahāśaya was a very famous wealthy man. Judging by his fort, temples and so on, his estate was very prosperous. Here is one proof of Guṇarāja Khān Mahāśaya's social courage. Considering the custom of Kulīnism introduced by Ballāla to be hollow, he declined the request of his relative Purandara Khān (also of the Vasu line) and married his eldest son to the daughter of Śrīpati Datta Mahāśaya, of the thirteenth generation of the line of Śrī Puruṣottama Datta, who had come from Kānyakubja” (collected by Śrīmad Bhaktivinoda Ṭhākura in the winter of 1292 at the Śrī Kulīnagrāma *pāṭa*).
+
+## 100
+
+> Subheading: For one line of the book the Lord sells Himself to its author's descendants —
+
+The original line is: “With one-pointed feeling, joining your palms, praise Hari: ‘Kṛṣṇa, the son of Nanda, is the lord of my life!’”
+
+## 101
+
+> Subheading: The Lord Himself glorifies Kulīnagrāma —
+
+## 102
+
+> Subheading: Both ask what the duty, or goal, of a householder Vaiṣṇava is —
+
+## 104
+
+> Subheading: The Lord answers: serve Kṛṣṇa, serve the Vaiṣṇavas and chant the holy name —
+
+## 105
+
+> Subheading: Satyarāja asks how to recognize a Vaiṣṇava —
+
+## 106
+
+> Subheading: The Lord gives the marks of a “*kaniṣṭha* Vaiṣṇava” —
+
+Know as a Vaiṣṇava one who has faith that by the name of Śrī Kṛṣṇa alone every perfection is attained, for such faith gives the initial qualification for being a Vaiṣṇava. Still, because his faith in Kṛṣṇa's name is as yet soft, he does not chant the name constantly. Śrī Rūpa Gosvāmī Prabhu writes in his *Upadeśāmṛta*: “One on whose tongue is the name ‘Kṛṣṇa’ should be honored in the mind; if he has initiation…”[^106-1] There are those who know that the holy name is a transcendental touchstone, Kṛṣṇa Caitanya Himself, the embodiment of *rasa*, complete, pure, eternally free and not different from the Named, and they worship [the Lord] with great faith. Yet because of their conditioned state they do not deliberate on the conclusions of *bhakti* and so cannot understand that the components of *bhakti* and the pure devotee are wholly transcendental. They too, by serving the pure devotees and Śrī Guru and by hearing the conclusions of pure *bhakti* from their lips, are gradually freed from all sins and attain transcendental realization, or divine knowledge of *sambandha*. (*Śrīmad-Bhāgavatam* 11.2.47): “One who faithfully worships Hari only in the Deity, but not His devotees or others, is known as a materialistic devotee.” In the teachings to Śrī Sanātana (Madhya 22.64, 67): “One who has faith is qualified for *bhakti*; according to faith there are the topmost, the middle and the neophyte.” “One whose faith is soft is a neophyte; gradually he will become a topmost devotee. *Bhakti* rises by degrees according to the degree of *rati* and *prema*.”
+
+“The best of all” means the best in all Devī-dhāma. A neophyte devotee who worships with a *mantra* consisting of Śrī Viṣṇu's name is superior even to a pious *karmī* or a *jñānī*. For the *karmī* or *jñānī*, however exalted, does not believe that Śrī Viṣṇu is the Reality and the eternal object of service. So, though they accept the Vedas in word, they are in fact atheists. But one who worships Śrī Viṣṇu — however little greatness he may have in the realm of transcendental *bhajana* — has at least heard from Śrī Guru that the Deity of Śrī Viṣṇu is His real, true form and has faith in Him.
+
+## 107
+
+> Subheading: The glory of the fruit of a single name of Kṛṣṇa —
+
+The nine kinds of *bhakti* (*Śrīmad-Bhāgavatam* 7.5.23): “Hearing about Viṣṇu and chanting about Him, remembering Him, serving His feet, worshiping Him, offering Him prayers, serving Him, befriending Him and offering Him one's very self — such is devotion with nine characteristics, if a person offers it to Viṣṇu.”
+
+One who avoids offenses against the name and takes shelter of the name of Kṛṣṇa alone has all his sins destroyed, and all his mundane desires for enjoyment, rooted in piety and sin, perish. One who takes the holy name is the best of all and worthy of honor. The nine kinds of *bhakti* reach fullness only through *bhajana* of the holy name (“Even if other forms of *bhakti* are performed in Kali, they must be joined with the *bhakti* called *kīrtana*,” *Bhakti-sandarbha* 173).
+
 ---
 
 [^11-1]: The first “Ramā” and “Śivā” are feminine vocatives (*rame*, *śive*): Ramā (Lakṣmī) and Śivā (Pārvatī).
 
 [^81-83-1]: *Śrīmad-Bhāgavatam* 10.84.13.
+
+[^106-1]: *Upadeśāmṛta* 5.
