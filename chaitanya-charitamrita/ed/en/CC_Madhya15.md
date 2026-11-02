@@ -152,7 +152,7 @@ other  devotees  make  to the Lord  invitation
 প্রভু-সঙ্গে তাঁহা ভোজন করে ভক্ত সব ॥ ১৫ ॥
 
 eka eka dina eka eka bhakta-gṛhe mahotsava  
-on one  by one  day  in one  after another  devotee’s home  a festival  
+one  by one  day  in one  after another  devotee’s home  a festival  
 prabhu-saṅge tāṅhā bhojana kare bhakta saba  
 with the Lord  there  eating  do  devotees  all
 
@@ -1281,145 +1281,181 @@ tomāra āge mṛtyu hauka, yāuka saṁśaya
 ইঁহারে উঠাঞা তবে আলিঙ্গন কৈলুঁ ॥ ১৫২ ॥
 
 eta śuni’ āmi baḍa mane sukha pāiluṅ  
-iṅhāre uṭhāñā tabe āliṅgana kailuṅ
+this  hearing  I  great  in the mind  joy  felt  
+iṅhāre uṭhāñā tabe āliṅgana kailuṅ  
+him  raising  then  embrace  I made
 
-(152) [not yet translated]
+(152) “Hearing this, I felt great joy at heart. Then I raised him up and embraced him.
 
 সাধু সাধু, গুপ্ত, তোমার সুদৃঢ় ভজন ৷  
 আমার বচনেহ তোমার না টলিল মন ॥ ১৫৩ ॥
 
 sādhu sādhu, gupta, tomāra sudṛḍha bhajana  
-āmāra vacaneha tomāra nā ṭalila mana
+excellent  excellent  Gupta  your  firm  worship  
+āmāra vacaneha tomāra nā ṭalila mana  
+My  even by the words  your  not  wavered  mind
 
-(153) [not yet translated]
+(153) “ ‘Excellent, excellent, Gupta! Your worship is firm indeed: even My words did not shake your mind.
 
 এইমত সেবকের প্রীতি চাহি প্রভু-পায় ৷  
 প্রভু ছাড়াইলেহ, পদ ছাড়ান না যায় ॥ ১৫৪ ॥
 
 ei mata sevakera prīti cāhi prabhu-pāya  
-prabhu chāḍāileha, pada chāḍāna nā yāya
+such  indeed  of a servant  love  I want  for the Lord’s feet  
+prabhu chāḍāileha, pada chāḍāna nā yāya  
+the Lord  even if He makes him leave  the feet  to leave  not  is possible
 
-(154) [not yet translated]
+(154) “ ‘This is the love for the Lord’s feet that I want in a servant: even if the Lord tries to make him leave them, he cannot let go of those feet.
 
 এইমত তোমার নিষ্ঠা জানিবার তরে ৷  
 তোমারে আগ্রহ আমি কৈলুঁ বারে বারে ॥ ১৫৫ ॥
 
 ei mata tomāra niṣṭhā jānibāra tare  
-tomāre āgraha āmi kailuṅ bāre bāre
+in this  way  your  steadfastness  to know  for the sake of  
+tomāre āgraha āmi kailuṅ bāre bāre  
+you  urging  I  did  time  after time
 
-(155) [not yet translated]
+(155) “ ‘It was to learn how steadfast you are that I urged you again and again.
 
 সাক্ষাৎ হনুমান্ তুমি শ্রীরাম-কিঙ্কর ৷  
 তুমি কেনে ছাড়িবে তাঁর চরণ-কমল ॥ ১৫৬ ॥
 
 sākṣāt hanumān tumi śrī-rāma-kiṅkara  
-tumi kene chāḍibe tāṅra caraṇa-kamala
+in person  Hanumān  you  of Śrī Rāma  the servant  
+tumi kene chāḍibe tāṅra caraṇa-kamala  
+you  why  would leave  His  lotus feet
 
-(156) [not yet translated]
+(156) “ ‘You are Hanumān himself, the servant of Śrī Rāma. Why would you ever give up His lotus feet?’
 
 সেই মুরারি-গুপ্ত এই — মোর প্রাণ সম ৷  
 ইঁহার দৈন্য শুনি’ মোর ফাটয়ে জীবন ॥ ১৫৭ ॥
 
 sei murāri-gupta ei — mora prāṇa sama  
-iṅhāra dainya śuni’ mora phāṭaye jīvana
+that  Murāri Gupta  is this one  My  life  equal to  
+iṅhāra dainya śuni’ mora phāṭaye jīvana  
+his  humility  hearing  My  bursts  life
 
-(157) [not yet translated]
+(157) “This is that same Murāri Gupta, who is as dear to Me as My life. When I hear his humility, My heart breaks.”
 
 তবে বাসুদেবে প্রভু করি’ আলিঙ্গন ৷  
 তাঁর গুণ কহে হঞা সহস্র-বদন ॥ ১৫৮ ॥
 
 tabe vāsudeve prabhu kari’ āliṅgana  
-tāṅra guṇa kahe hañā sahasra-vadana
+then  Vāsudeva  the Lord  making  embrace  
+tāṅra guṇa kahe hañā sahasra-vadana  
+his  qualities  speaks  becoming  thousand-mouthed
 
-(158) [not yet translated]
+(158) Then the Lord embraced Vāsudeva and began to describe his qualities as if He had a thousand mouths.
 
 নিজ-গুণ শুনি’ দত্ত মনে লজ্জা পাঞা ৷  
 নিবেদন করে প্রভুর চরণে ধরিয়া ॥ ১৫৯ ॥
 
 nija-guṇa śuni’ datta mane lajjā pāñā  
-nivedana kare prabhura caraṇe dhariyā
+his own qualities  hearing  Datta  in his mind  shame  feeling  
+nivedana kare prabhura caraṇe dhariyā  
+a petition  makes  of the Lord  the feet  clasping
 
-(159) [not yet translated]
+(159) Hearing his own qualities praised, Vāsudeva Datta felt ashamed. Clasping the Lord’s feet, he made a petition:
 
 জগৎ তারিতে প্রভু তোমার অবতার ৷  
 মোর নিবেদন এক করহ অঙ্গীকার ॥ ১৬০ ॥
 
 jagat tārite prabhu tomāra avatāra  
-mora nivedana eka karaha aṅgīkāra
+the world  to deliver  O Lord  Your  descent  
+mora nivedana eka karaha aṅgīkāra  
+my  petition  one  make  acceptance
 
-(160) [not yet translated]
+(160) “O Lord, You have descended to deliver the world. Please grant me one request.
 
 করিতে সমর্থ, তুমি হও, দয়াময় ৷  
 তুমি মন কর, তবে অনায়াসে হয় ॥ ১৬১ ॥
 
 karite samartha, tumi hao, dayāmaya  
-tumi mana kara, tabe anāyāse haya
+to do  able  You  are  O merciful one  
+tumi mana kara, tabe anāyāse haya  
+You  the mind  make  then  without effort  it happens
 
-(161) [not yet translated]
+(161) “O merciful Lord, You are able to do anything. If You only wish it, it happens without effort.
 
 জীবের দুঃখ দেখি’ মোর হৃদয় বিদরে ৷  
 সর্ব্বজীবের পাপ প্রভু দেহ’ মোর শিরে ॥ ১৬২ ॥
 
 jīvera duḥkha dekhi’ mora hṛdaya bidare  
-sarva-jīvera pāpa prabhu deha’ mora śire
+of living beings  the suffering  seeing  my  heart  breaks  
+sarva-jīvera pāpa prabhu deha’ mora śire  
+of all living beings  the sins  O Lord  place  on my  head
 
-(162) [not yet translated]
+(162) “My heart breaks to see the suffering of living beings. O Lord, place the sins of all living beings on my head.
 
 জীবের পাপ লঞা মুঞি করি নরক ভোগ ৷  
 সকল জীবের, প্রভু, ঘুচাহ ভবরোগ ॥ ১৬৩ ॥
 
 jīvera pāpa lañā muñi kari naraka bhoga  
-sakala jīvera, prabhu, ghucāha bhava-roga
+of living beings  the sins  taking  I  will undergo  of hell  the suffering  
+sakala jīvera, prabhu, ghucāha bhava-roga  
+of all  living beings  O Lord  remove  the disease of material existence
 
-(163) [not yet translated]
+(163) “Let me take the sins of the living beings and suffer in hell for them. O Lord, cure all living beings of the disease of material existence.”
 
 এত শুনি’ মহাপ্রভুর চিত্ত দ্রবিলা ৷  
 অশ্রু-কম্প-স্বরভঙ্গে কহিতে লাগিলা ॥ ১৬৪ ॥
 
 eta śuni’ mahāprabhura citta dravilā  
-aśru-kampa-svarabhaṅge kahite lāgilā
+this  hearing  of Mahāprabhu  the heart  melted  
+aśru-kampa-svarabhaṅge kahite lāgilā  
+with tears, trembling and a faltering voice  to speak  He began
 
-(164) [not yet translated]
+(164) Hearing this, Mahāprabhu’s heart melted. With tears, trembling and a faltering voice, He began to speak.
 
 তোমার বিচিত্র নহে, তুমি — সাক্ষাৎ প্রহ্লাদ ৷  
 তোমার উপরে কৃষ্ণের সম্পূর্ণ প্রসাদ ॥ ১৬৫ ॥
 
 tomāra vicitra nahe, tumi — sākṣāt prahlāda  
-tomāra upare kṛṣṇera sampūrṇa prasāda
+in you  wonderful  it is not  you  in person  Prahlāda  
+tomāra upare kṛṣṇera sampūrṇa prasāda  
+upon  you  Kṛṣṇa’s  complete  grace
 
-(165) [not yet translated]
+(165) “This is no wonder in you: you are Prahlāda himself. Kṛṣṇa’s grace rests on you in full.
 
 কৃষ্ণ সেই সত্য করে, যেই মাগে ভৃত্য ৷  
 ভৃত্য-বাঞ্ছা-পূরণ বিনা নাহি অন্য কৃত্য ॥ ১৬৬ ॥
 
 kṛṣṇa sei satya kare, yei māge bhṛtya  
-bhṛtya-vāñchā-pūrṇa vinā nāhi anya kṛtya
+Kṛṣṇa  that  true  makes  whatever  asks  the servant  
+bhṛtya-vāñchā-pūraṇa vinā nāhi anya kṛtya  
+of the servant’s desire  fulfilling  except  there is not  other  task
 
-(166) [not yet translated]
+(166) “Whatever His servant asks for, Kṛṣṇa makes true. He has no task other than fulfilling His servant’s desire.
 
 ব্রহ্মাণ্ড জীবের তুমি বাঞ্ছিলে নিস্তার ৷  
 বিনা পাপ-ভোগে হবে সবার উদ্ধার ॥ ১৬৭ ॥
 
 brahmāṇḍa jīvera tumi vāñchile nistāra  
-vinā pāpa-bhoge habe sabāra uddhāra
+of the universe  of the living beings  you  have desired  deliverance  
+vinā pāpa-bhoge habe sabāra uddhāra  
+without  suffering for sins  will be  of all  deliverance
 
-(167) [not yet translated]
+(167) “You have desired the deliverance of all beings in the universe, so all will be delivered without suffering for their sins.
 
 অসমর্থ নহে কৃষ্ণ, ধরে সর্ব্ব বল ৷  
 তোমাকে বা কেনে ভুঞ্জাইবে পাপ-ফল ? ॥ ১৬৮ ॥
 
 asamartha nahe kṛṣṇa, dhare sarva bala  
-tomāke vā kene bhuñjāibe pāpa-phala?
+incapable  not  Kṛṣṇa  He holds  all  power  
+tomāke vā kene bhuñjāibe pāpa-phala?  
+you  then  why  would He make suffer  of sins  the fruits
 
-(168) [not yet translated]
+(168) “Kṛṣṇa is not powerless; He holds all power. Why, then, would He make you suffer the fruits of sin?
 
 তুমি যাঁর হিত বাঞ্ছ’, সে হৈল ‘বৈষ্ণব’ ৷  
 বৈষ্ণবের পাপ কৃষ্ণ দূর করে সব ॥ ১৬৯ ॥
 
 tumi yāṅra hita vāñcha’, se haila ‘vaiṣṇava’  
-vaiṣṇavera pāpa kṛṣṇa dūra kare saba
+you  whose  welfare  desire  he  has become  a Vaiṣṇava  
+vaiṣṇavera pāpa kṛṣṇa dūra kare saba  
+of a Vaiṣṇava  the sins  Kṛṣṇa  away  removes  all
 
-(169) [not yet translated]
+(169) “Anyone whose welfare you desire has become a Vaiṣṇava, and Kṛṣṇa removes all the sins of a Vaiṣṇava.
 
 যস্ত্বিন্দ্রগোপমথবেন্দ্রমহো স্বকর্ম্ম-  
 বন্ধানুরূপফলভাজনমাতনোতি ৷  
@@ -1427,83 +1463,105 @@ vaiṣṇavera pāpa kṛṣṇa dūra kare saba
 গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ১৭০ ॥
 
 yas tv indra-gopam athavendram aho sva-karma-  
+who  but  the indragopa insect  or Indra  oh  of one’s own karma  
 bandhānurūpa-phala-bhājanam ātanoti  
+to the bondage befitting  of the fruits  the enjoyment  grants  
 karmāṇi nirdahati kintu ca bhakti-bhājāṁ  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+the karma  He burns up  but  indeed  of those who have devotion  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(170) [not yet translated]
+(170) “I worship Govinda, the original Person. To each, from the tiny *indragopa* insect to Indra himself, He grants the fruits that match the bondage of his own karma; but the karma of those who have devotion He burns away.” (Brahma-saṁhitā 5.54)
 
 তোমার ইচ্ছা-মাত্রে হবে ব্রহ্মাণ্ড-মোচন ৷  
 সর্ব্ব মুক্ত করিতে কৃষ্ণের নাহি পরিশ্রম ॥ ১৭১ ॥
 
 tomāra icchā-mātre habe brahmāṇḍa-mocana  
-sarva mukta karite kṛṣṇera nāhi pariśrama
+your  by the mere wish  will be  the universe’s liberation  
+sarva mukta karite kṛṣṇera nāhi pariśrama  
+all  liberated  to make  for Kṛṣṇa  there is no  labour
 
-(171) [not yet translated]
+(171) “By your mere wish the universe will be liberated. To liberate everyone is no labour for Kṛṣṇa.
 
 এক উড়ুম্বর-বৃক্ষে লাগে কোটি-ফলে ৷  
 কোটি যে ব্রহ্মাণ্ড ভাসে বিরজার জলে ॥ ১৭২ ॥
 
 eka uḍumbara-vṛkṣe lāge koṭi-phale  
-koṭi ye brahmāṇḍa bhāse virajāra jale
+on one  uḍumbara tree  grow  millions of fruits  
+koṭi ye brahmāṇḍa bhāse virajāra jale  
+millions  which  universes  float  of the Virajā  on the waters
 
-(172) [not yet translated]
+(172) “As millions of fruits grow on a single *uḍumbara* tree, so millions of universes float on the waters of the Virajā.
 
 তার এক ফল পড়ি’ যদি নষ্ট হয় ৷  
 তথাপি বৃক্ষ নাহি জানে নিজ-অপচয় ॥ ১৭৩ ॥
 
 tāra eka phala paḍi’ yadi naṣṭa haya  
-tathāpi vṛkṣa nāhi jāne nija-apacaya
+of it  one  fruit  falling  if  lost  becomes  
+tathāpi vṛkṣa nāhi jāne nija-apacaya  
+still  the tree  not  knows  its own loss
 
-(173) [not yet translated]
+(173) “If one of its fruits falls and is lost, the tree does not even notice its loss.
 
 তৈছে এক ব্রহ্মাণ্ড যদি মুক্ত হয় ৷  
 তবু অল্পহানি কৃষ্ণের মনে নাহি লয় ॥ ১৭৪ ॥
 
 taiche eka brahmāṇḍa yadi mukta haya  
-tabu alpahāni kṛṣṇera mane nāhi laya
+so  one  universe  if  liberated  becomes  
+tabu alpahāni kṛṣṇera mane nāhi laya  
+still  a slight loss  of Kṛṣṇa  in the mind  not  is taken
 
-(174) [not yet translated]
+(174) “So too, if one universe is liberated, Kṛṣṇa does not take it as even a slight loss.
 
 অনন্ত ঐশ্বর্য্য কৃষ্ণের বৈকুণ্ঠাদি-ধাম ৷  
 তার গড়খাই — কারণাব্ধি যার নাম ॥ ১৭৫ ॥
 
 ananta aiśvarya kṛṣṇera vaikuṇṭhādi-dhāma  
-tāra gaḍa-khāi — kāraṇābdhi yāra nāma
+infinite  opulence  of Kṛṣṇa  Vaikuṇṭha and the other abodes  
+tāra gaḍa-khāi — kāraṇābdhi yāra nāma  
+their  moat  the Causal Ocean  whose  name
 
-(175) [not yet translated]
+(175) “Kṛṣṇa’s opulence is infinite: Vaikuṇṭha and His other abodes. Their moat is the ocean called the Causal Ocean (*Kāraṇābdhi*).
 
 তাতে ভাসে মায়া লঞা অনন্ত ব্রহ্মাণ্ড ৷  
 গড়খাইতে ভাসে যেন রাই-পূর্ণ ভাণ্ড ॥ ১৭৬ ॥
 
 tāte bhāse māyā lañā ananta brahmāṇḍa  
-gaḍa-khāite bhāse yena rāi-pūrṇa bhāṇḍa
+in it  float  māyā  with  infinite  universes  
+gaḍa-khāite bhāse yena rāi-pūrṇa bhāṇḍa  
+in the moat  floats  as  with mustard seeds filled  a pot
 
-(176) [not yet translated]
+(176) “On it the infinite universes float together with *māyā*, like a pot full of mustard seeds floating in a moat.
 
 তার এক রাই-নাশে, হানি নাহি মানি ৷  
 ঐছে এক অণ্ড-নাশে কৃষ্ণের নাহি হানি ॥ ১৭৭ ॥
 
 tāra eka rāi-nāśe, hāni nāhi māni  
-aiche eka aṇḍa-nāśe kṛṣṇera nāhi hāni
+of it  one  mustard seed  in losing  loss  not  we count  
+aiche eka aṇḍa-nāśe kṛṣṇera nāhi hāni  
+so  one  universe  in losing  of Kṛṣṇa  there is no  loss
 
-(177) [not yet translated]
+(177) “No one counts it a loss if one of those mustard seeds is lost; likewise, Kṛṣṇa loses nothing if one universe is lost.
 
 সব ব্রহ্মাণ্ড সহ যদি ‘মায়া’র হয় ক্ষয় ৷  
 তথাপি না মানে কৃষ্ণ কিছু অপচয় ॥ ১৭৮ ॥
 
 saba brahmāṇḍa saha yadi ‘māyā’ra haya kṣaya  
-tathāpi nā māne kṛṣṇa kichu apacaya
+all  universes  along with  if  of māyā  there is  destruction  
+tathāpi nā māne kṛṣṇa kichu apacaya  
+still  not  considers  Kṛṣṇa  any  loss
 
-(178) [not yet translated]
+(178) “Even if *māyā* herself is destroyed along with all the universes, Kṛṣṇa does not consider it any loss.
 
 কোটি-কামধেনু-পতির ছাগী যৈছে মরে ৷  
 ষড়ৈশ্বর্য্যপতি কৃষ্ণের মায়া কিবা করে ? ॥ ১৭৯ ॥
 
 koṭi-kāmadhenu-patira chāgī yaiche mare  
-ṣaḍ-aiśvarya-pati kṛṣṇera māyā kibā kare?
+of millions of wish-fulfilling cows  of the owner  a she-goat  as  dies  
+ṣaḍ-aiśvarya-pati kṛṣṇera māyā kibā kare?  
+of the six opulences the Lord  of Kṛṣṇa  māyā  what  does
 
-(179) [not yet translated]
+(179) “It is like the death of a she-goat for the owner of millions of wish-fulfilling cows. What can *māyā* mean to Kṛṣṇa, the Lord of the six opulences?
 
 জয় জয় জহ্যজামজিত দোষগৃভীতগুণাং  
 ত্বমসি যদাত্মনা সমবরুদ্ধসমস্তভগঃ ৷  
@@ -1511,19 +1569,25 @@ koṭi-kāmadhenu-patira chāgī yaiche mare
 ক্বচিদজয়াত্মনা চ চরতোঽনুচরেন্নিগমঃ ॥ ১৮০ ॥
 
 jaya jaya jahy ajām ajita doṣa-gṛbhīta-guṇāṁ  
+glory  glory  destroy  the unborn one  O unconquered  who for faults has taken up the qualities  
 tvam asi yad ātmanā sam-avaruddha-samasta-bhagaḥ  
+You  are  since  by Yourself  holding all excellences in full  
 aga-jagad-okasām akhila-śakty-avabodhaka te  
-kvacid ajayātmanā ca carato ’nucaren nigamaḥ
+of the unmoving and the moving beings  of all potencies  the awakener  of You  
+kvacid ajayātmanā ca carato ’nucaren nigamaḥ  
+sometimes  with māyā and with Your own potency  and  acting  describe  the Vedas
 
-(180) [not yet translated]
+(180) “Glory, glory to You, O unconquered one! Destroy the unborn *māyā*, who has taken up the qualities to bring about faults, for in Yourself You hold all excellences in full. O awakener of all the potencies of moving and unmoving beings, the Vedas describe You sometimes as acting through *māyā* and sometimes through Your own potency.” (Śrīmad-Bhāgavatam 10.87.14)
 
 এই মত সর্ব্বভক্তের কহি’ সব গুণ ৷  
 সবারে বিদায় দিল করি’ আলিঙ্গন ॥ ১৮১ ॥
 
 ei mata sarva-bhaktera kahi’ saba guṇa  
-sabāre vidāya dila kari’ āliṅgana
+in this  way  of all the devotees  telling  all  qualities  
+sabāre vidāya dila kari’ āliṅgana  
+to all  farewell  He gave  making  embrace
 
-(181) [not yet translated]
+(181) In this way the Lord spoke of the qualities of all the devotees. Then He embraced them all and bade them farewell.
 
 প্রভুর বিচ্ছেদে ভক্ত করেন রোদন ৷  
 ভক্তের বিচ্ছেদে প্রভুর বিষণ্ণ হৈল মন ॥ ১৮২ ॥
