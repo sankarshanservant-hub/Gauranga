@@ -340,7 +340,63 @@ The name delivers by touching the tongue. Here “tongue” must be understood a
 
 > Subheading: (A verse by Śrīdhara Svāmī cited in the *Padyāvalī*, 29) —
 
-**śrī-kṛṣṇa-nāmātmakaḥ** **ayaṁ** **mantraḥ** **kṛta-cetasāṁ** (of the liberated) **sumahatāṁ** (great — beyond the three modes; with the reading *sumanasām*, of the wise) **ākṛṣṭiḥ** (the attractor; with the reading *ākṛṣṭī-kṛta-cetasām*, of those whose hearts are attracted) **aṁhasām** (of piety and sin — acts born of absorption in the mundane) **uccāṭanam** (uprooting) **ā-caṇḍālam** (down to the *caṇḍālas*) **amūka-loka-sulabhaḥ** (that is, easily attainable by people who are not mute — all who have the power of speech) **mukti-śriyaḥ** (of the wealth of liberation — the touchstone in which liberation takes shelter) **vaśyaḥ** (bringing under control) **ca**; (and this great *mantra*, the name) **dīkṣām** (the practice that destroys sin and gives divine knowledge) **sat-kriyām** (the *dakṣiṇā* for the perfection of the fruit) **puraścaryāṁ** **ca** (the fivefold worship) **manāk** (slightly) **api** **na** **īkṣate** (does not look for)
+**śrī-kṛṣṇa-nāmātmakaḥ** **ayaṁ** **mantraḥ** **kṛta-cetasāṁ** (of the liberated) **sumahatāṁ** (great — beyond the three modes; with the reading *sumanasām*, of the wise) **ākṛṣṭiḥ** (the attractor; with the reading *ākṛṣṭī-kṛta-cetasām*, of those whose hearts are attracted) **aṁhasām** (of piety and sin — acts born of absorption in the mundane) **uccāṭanam** (uprooting) **ā-caṇḍālam** (down to the *caṇḍālas*) **amūka-loka-sulabhaḥ** (that is, easily attainable by people who are not mute — all who have the power of speech) **mukti-śriyaḥ** (of the wealth of liberation — the touchstone in which liberation takes shelter) **vaśyaḥ** (bringing under control) **ca**; (and this great *mantra*, the name) **dīkṣām** (the practice that destroys sin and gives divine knowledge) **sat-kriyām** (the *dakṣiṇā* for the perfection of the fruit) **puraścaryāṁ** **ca** (the fivefold worship) **manāk** (slightly) **api** **na** **īkṣate** (does not look for, but) **rasanā-spṛk** (merely by touching a tongue inclined to service) **phalati** (bears fruit).
+
+## 111
+
+> Subheading: The marks of a “*kaniṣṭha* Vaiṣṇava” —
+
+Śrīla Rūpa Prabhu in his *Śrī Upadeśāmṛta*: “One on whose tongue is the name ‘Kṛṣṇa’ should be honored in the mind; if he has initiation…” That is, one who has received *dīkṣā* from a genuine *guru*, has gained transcendental faith and utters the name of Śrī Kṛṣṇa should be honored in the mind by the intermediate devotee (*madhyama-adhikārī*) — this is the rule.
+
+## 112
+
+> Subheading: The three chief residents of Khaṇḍa —
+
+## 113
+
+> Subheading: The Lord asks Mukunda dāsa how he is related to Raghunandana —
+
+## 115
+
+> Subheading: Mukunda, who seeks no honor and honors others, knows Raghunandana to be a devotee of Kṛṣṇa and so sees in him not a son but a *guru* —
+
+## 117
+
+> Subheading: Hearing Mukunda's right answer, the Lord rejoices and defines the “true *guru*,” or “real father” —
+
+## 118
+
+> Subheading: Bhagavān is intoxicated by singing the glories of His devotees —
+
+## 119
+
+> Subheading: Before the devotees the Lord describes Mukunda's love for Kṛṣṇa —
+
+## 120
+
+> Subheading: Outwardly worldly dealings, inwardly devotion to Kṛṣṇa —
+
+## 121
+
+> Subheading: The story of one day: Mukunda and the Bādshāh —
+
+In people's eyes Mukunda held the post of royal physician, but in truth he was a genuine loving devotee (that is, a *mahā-bhāgavata*, a *paramahaṁsa* in the dress of a Vaiṣṇava householder); ordinary people could not know this.[^121-1]
+
+*Ucca-ṭuṅgi* — a small house built on a raised place.
+
+## 122
+
+*Āḍānī* — a parasol, that is, an umbrella against the sun: a large fan held crosswise.
+
+## 127
+
+> Subheading: Though Mukunda dissembles and hides himself, the king takes him for a “great personality” —
+
+*Mahā-vidagdha* — especially skilled in statecraft. *Mahā-siddha* — an extraordinary liberated person.
+
+## 128
+
+> Subheading: An example of Raghunandana's service to Kṛṣṇa —
 
 ---
 
@@ -352,3 +408,5 @@ The name delivers by touching the tongue. Here “tongue” must be understood a
 
 [^108-1]: The edition reads *vinā yena siddhaḥ…* and *kṛtena yenana labhate*: the particle *na* (not) has slipped into the wrong line (checked against the scan); translated by the sense (cf. *Hari-bhakti-vilāsa* 17.11).
 [^108-2]: Unclear in the scan: the last digit (“275”?).
+
+[^121-1]: In the edition both notes are numbered “121”; by content the first belongs to verse 120.

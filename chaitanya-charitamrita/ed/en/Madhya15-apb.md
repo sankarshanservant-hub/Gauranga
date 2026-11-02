@@ -43,3 +43,7 @@ Rāmānanda Vasu and his father Satyarāja Khān were householder Vaiṣṇavas 
 ## 110
 
 This great *mantra*, the very name of Śrī Kṛṣṇa, attracts the hearts of *sādhus* rich in pious merit, destroys sins, is easily available to all people from the *caṇḍālas* on, except the mute, and brings the wealth of liberation under its control. It gives its fruit as soon as it touches the tongue and does not depend in the least on initiation and the like or on *puraścaraṇa*.
+
+## 111
+
+So for a householder to serve Vaiṣṇavas, it is enough to find a Vaiṣṇava devoted to the single name of Kṛṣṇa, and his service succeeds. A “Vaiṣṇava initiated into a *mantra*” is not considered here. The reason is this: many who are initiated into a Viṣṇu *mantra* lack knowledge of the truth and so may be tainted by Māyāvāda and other faults. But a Vaiṣṇava who utters Kṛṣṇa's name without offense cannot have such faults. One initiated into a *mantra* is “almost a Vaiṣṇava,” but one who has uttered Kṛṣṇa's name even once without offense, even if he is the least of all, is a “pure Vaiṣṇava.” It is such a Vaiṣṇava that a householder Vaiṣṇava should serve.
