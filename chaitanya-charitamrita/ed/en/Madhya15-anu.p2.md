@@ -302,6 +302,126 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 *Śubhra-pīṭha*: a piece of fine cloth was spread over a white wooden board (*piṁḍi*), and so the seat was prepared.
 
+## 221
+
+He did not mix the rice and other food cooked in his own house, not yet offered (*aprasādi*, *anarpita*), with Jagannātha's *prasāda*; he took care over this and kept them in separate places so that the two would not mix.
+
+## 207–221
+
+The author of the book, Śrīmat Kavirāja Gosvāmī, by his fine description of the meal, displays his own surpassing skill in cooking, serving and the like. See Madhya 3.44–55.
+
+## 222
+
+> Subheading: After His midday bath the Lord comes alone —
+
+## 223
+
+> Subheading: The Bhaṭṭa washes the Lord's feet and brings Him into the house —
+
+## 224
+
+> Subheading: Seeing the offering, the Lord is astonished and praises the meal —
+
+## 227
+
+> Subheading: Seeing the *tulasī* buds, [the Lord] infers that the meal has been offered to Kṛṣṇa —
+
+## 229
+
+*Saurabhya*: fragrance. *Varṇa*: white color.
+
+## 230
+
+> Subheading: Having praised the meal, the Lord praises His own good fortune —
+
+## 231
+
+> Subheading: [The Lord] asks that Kṛṣṇa's seat be removed and *prasāda* given Him on a separate plate —
+
+## 232
+
+> Subheading: The Bhaṭṭa describes the power of the Lord's mercy —
+
+## 234
+
+> Subheading: [The Bhaṭṭa] asks the Lord to accept the seat on which the meal was offered; out of respect for Kṛṣṇa's seat the Lord declines —
+
+## 235
+
+> Subheading: The food and the seat Kṛṣṇa has enjoyed are both *prasāda* —
+
+Both the rice and the seat (*pīṭha*, or *piṁḍi*) are remnants (*nirmālya*) enjoyed by Kṛṣṇa. One eats the rice of the offering knowing it to be “Bhagavān's remnants,” and so honors it. The seat has served as Bhagavān's seat, and one accepts it too, regarding it as *prasāda*, His remnant. How then can there be any offense?
+
+## 236
+
+> Subheading: The Lord praises the Bhaṭṭa's sound conclusion and agrees —
+
+## 237
+
+> Subheading: Only by accepting the *prasāda* Bhagavān has enjoyed is insurmountable *māyā* conquered (*Śrīmad-Bhāgavatam* 11.6.46) —
+
+Before the conversation between Bhagavān and Uddhava, the *Uddhava-gītā*, began, great calamities broke out in Dvārakā by Bhagavān's will. Then Uddhava, [Kṛṣṇa's] dearest servant, understanding that Śrī Kṛṣṇa wished to withdraw His manifest pastimes from this world and enter His unmanifest pastimes, offered Kṛṣṇa this prayer with deep love:
+
+**tvayopayukta-srag-gandha-vāso'laṅkāra-carcitāḥ** (adorned with the garlands, sandalwood, clothes and ornaments You have enjoyed)[^237-1] **ucchiṣṭa-bhojinaḥ** (whose custom is to eat the remnants, the *prasāda* food) **dāsāḥ** (we servants) **hi** (in the sense of “certainly”) **tava** **māyām** (insurmountable material nature) **jayema** (shall be able to conquer).
+
+## 238
+
+> Subheading: The Lord objects that so much food cannot be eaten; the Bhaṭṭa gently reproaches Him —
+
+## 240
+
+> Subheading: How the Lord ate in His pastimes in Dvārakā, Mathurā and Vraja —
+
+The eighteen mothers: Devakī, Rohiṇī and others.
+
+## 241
+
+In Vraja, *jyeṭhā* (the father's elder brothers) — (in Śrī Rūpa Prabhu's *Śrī Kṛṣṇa-gaṇoddeśa-dīpikā*): “Upananda and Abhinanda are the father's elder brothers”; that is, Upananda and Abhinanda are Kṛṣṇa's two elder paternal uncles.
+
+*Khuḍā* (the father's younger brothers) — (in the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): “The father's younger brothers are Sannanda and Nandana”; that is, “Sannanda” and “Nandana,” or “Sunanda” and “Pāṇḍava,” are Kṛṣṇa's younger paternal uncles.
+
+*Māmā* (maternal uncles) — (in the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): “Yaśodhara, Yaśodeva, Sudeva and others are the maternal uncles”; that is, “Yaśodhara,” “Yaśodeva,” “Sudeva” and others are Kṛṣṇa's maternal uncles.
+
+*Pisā* (husbands of the father's sisters) — (in the same *Śrī Kṛṣṇa-gaṇoddeśa-dīpikā*): “Mahānīla and Sunīla are the husbands of these two, respectively”; that is, “Mahānīla” and “Sunīla” are the two husbands of Kṛṣṇa's paternal aunts, the aunts named “Sānandā” and “Nandinī.”
+
+Friends — (in the appendix to the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): “Viśāla, Vṛṣabha, Ojasvī, Devaprastha, Varūthapa, Mandāra, Kusumāpīḍa, Maṇibandha, Karandhama, Mandara, Candana, Kunda, Kalinda, Kulika and others are friends ‘like younger brothers,’ full of great eagerness for service.” “Śrīdāmā, Dāmā, Sudāmā, Vasudāmā, and also Kiṅkiṇī (?), Bhadrasena, Aṁśu, Stokakṛṣṇa, Vilāsī, Puṇḍarīka, Viṭaṅkākṣa, Kalaviṅka and Priyaṅkara are the ‘dear friends’ (*priya-sakhās*), gentle, and are considered equal to Kṛṣṇa's very life.” “Subala, Arjuna, Gandharva, Vasanta, Ujjvala, Kokila, Sanandana, Vidagdha and others are considered the ‘intimate friends’ (*priya-narma-sakhās*).”
+
+## 242
+
+> Subheading: Compared with that quantity, the food offered by a devotee is very little —
+
+## 243
+
+> Subheading: The Bhaṭṭa's humility —
+
+## 244
+
+> Subheading: Hearing the Bhaṭṭa's words, the Lord honors the *prasāda* —
+
+## 245
+
+> Subheading: The Bhaṭṭa's son-in-law, Ṣāṭhī's husband, Amogha, a blasphemer of the Lord —
+
+## 246
+
+> Subheading: Amogha is afraid of the Bhaṭṭa, who stands with a stick in his hand —
+
+## 247
+
+> Subheading: While the Bhaṭṭa is distracted, [Amogha] sees much food on the Lord's plate and blasphemes the Lord —
+
+## 249
+
+> Subheading: The moment the Bhaṭṭācārya turns around, Amogha runs away —
+
+## 250
+
+> Subheading: Stick in hand, the Bhaṭṭa chases him —
+
+## 251
+
+> Subheading: The Bhaṭṭa sharply rebukes and curses Amogha, the blasphemer of the Lord —
+
 ---
 
 [^154-1]: In the edition this section is numbered “১৪৫” (145; scan checked): a misprint. By its place (between sections 149 and 155) and its content (the word *prabhu* and the quotation about the servant who does not leave the Lord's feet) it belongs to verse 154.
@@ -309,3 +429,5 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 [^180-1]: *Taittirīya Upaniṣad* 3.1.1; *Śvetāśvatara Upaniṣad* 6.18; *Bṛhad-āraṇyaka Upaniṣad* 3.7.22 (Mādhyandina recension); *Taittirīya Upaniṣad* 2.1.1.
 
 [^203-1]: In the edition couplet 203 has no number (only “॥” at the end; scan checked).
+
+[^237-1]: In the edition (scan checked), both in the verse and in the gloss, the reading is *tvayopayukta…* (“used by You”); the VCD text has *tvayopabhukta…* (“enjoyed by You”). The edition's gloss (“enjoyed by You”) matches the second reading.

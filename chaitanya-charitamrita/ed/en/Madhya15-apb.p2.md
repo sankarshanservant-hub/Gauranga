@@ -29,3 +29,15 @@ A variant reading is “in Jaleśvara.” This reading seems neither correct nor
 ## 198
 
 *Nija-chāye*: “with one's own shadow,” that is, alone.
+
+## 237
+
+We, Your servants, adorn ourselves with what has been offered to You — garlands, fragrances, clothes, ornaments and the rest — and eat Your remnants. In this way we shall surely be able to conquer Your *māyā*.
+
+## 243
+
+*Mādhukarī*: a mouthful obtained in the manner of the bee (*madhukara-vṛtti*).
+
+## 249
+
+*Avadhāna*: attention.
