@@ -18,7 +18,7 @@ See *Śrī Caitanya-bhāgavata*, Antya-khaṇḍa, chapter 9.
 
 ## 43
 
-Gadādhara — Gadādhara dāsa of Āṛiyādaha.
+Gadādhara — Gadādhara dāsa of Eṅḍiyādaha.
 
 ## 88
 
