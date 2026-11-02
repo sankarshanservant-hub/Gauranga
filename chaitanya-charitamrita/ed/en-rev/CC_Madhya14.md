@@ -86,7 +86,7 @@ of the rāsa-līlā  the verses  reciting  makes  praise
 ‘jayati te ’dhikaṁ’ adhyāya karena paṭhana  
 “jayati te ’dhikam”  the chapter  does  recitation
 
-(8) He offered praise with the verses of the *rāsa-līlā*, reading aloud the chapter that begins “*jayati te ’dhikam*”.[^5]
+(8) He offered praise with the verses of the *rāsa-līlā*, reading aloud the chapter that begins “*jayati te ’dhikam*.”[^5]
 
 শুনিতে শুনিতে প্রভুর সন্তোষ অপার ৷  
 ‘বল, বল’ বলি’ প্রভু বলে বার বার ॥ ৯ ॥
@@ -322,7 +322,7 @@ padmacini  candrakānti  khājā  khaṇḍasāra
 viyari, kadmā, tilākhājāra prakāra  
 viyari  kadmā  of tilakhājā  the kinds
 
-(31) *Padmacini*, *candrakānti*, *khājā*, *khaṇḍasāra*, *viyari*, *kadmā* and all kinds of sesame *khājā*.
+(31) *Padmacini*, *candrakānti*, *khājā*, *khaṇḍasāra*, *viyari*, *kadmā* and all kinds of sesame *khājā*.[^16]
 
 নারঙ্গ-ছোলঙ্গ-আম্র-বৃক্ষের আকার ৷  
 ফুল-ফল-পত্রযুক্ত খণ্ডের বিকার ॥ ৩২ ॥
@@ -352,7 +352,7 @@ of lemons, jujubes and the like  many kinds of  pickles
 likhite nā pāri prasāda kateka prakāra  
 to write  not  I can  of prasāda  how many  kinds
 
-(34) There were many kinds of pickles, of lemons, jujubes and other fruits. I cannot write down how many kinds of *prasāda* there were.
+(34) There were many kinds of pickles, of lemons, jujubes and other fruits. I cannot write down how many kinds of prasāda there were.
 
 প্রসাদে পূরিত হৈল অর্দ্ধ উপবন ৷  
 দেখিয়া সন্তোষ হইল মহাপ্রভুর মন ॥ ৩৫ ॥
@@ -362,7 +362,7 @@ with prasāda  filled  became  half  the garden
 dekhiyā santoṣa haila mahāprabhura mana  
 seeing  satisfied  became  Mahāprabhu’s  mind
 
-(35) Half the garden was filled with *prasāda*, and Mahāprabhu was delighted to see it.
+(35) Half the garden was filled with prasāda, and Mahāprabhu was delighted to see it.
 
 এইমত জগন্নাথ করেন ভোজন ৷  
 এই সুখে মহাপ্রভুর জুড়ায় নয়ন ॥ ৩৬ ॥
@@ -392,7 +392,7 @@ of the kīrtana singers  the exertion  knowing  Gaurarāya
 tām̐-sabāre khāoyāite prabhura mana dhāya  
 them all  to feed  the Lord’s  mind  hastens
 
-(38) Gaurarāya knew how hard the *kīrtana* singers had labored, and He longed to feed them all.
+(38) Gaurarāya knew how hard the kīrtana singers had laboured, and He longed to feed them all.
 
 পাঁতি পাঁতি করি’ ভক্তগণে বসাইলা ৷  
 পরিবেশন করিবারে আপনে লাগিলা ॥ ৩৯ ॥
@@ -442,7 +442,7 @@ the meal  having taken  sat  the Lord  making  rinsing of the mouth
 prasāda ubarila, khāya sahasreka jana  
 the prasāda  remained  ate  a thousand  people
 
-(43) When He had eaten and rinsed His mouth, the Lord sat down. So much *prasāda* was left over that a thousand people ate of it.
+(43) When He had eaten and rinsed His mouth, the Lord sat down. So much prasāda was left over that a thousand people ate of it.
 
 প্রভুর আজ্ঞায় গোবিন্দ দীন-হীন জনে ৷  
 দুঃখী কাঙ্গাল আনি’ করায় ভোজনে ॥ ৪৪ ॥
@@ -462,7 +462,7 @@ of the beggars  the joy of eating  watches  Gaurahari
 ‘hari-bola’ bali’ tāre upadeśa kari  
 “Hari bol”  saying  to them  instruction  gives
 
-(45) Gaurahari watched the beggars joyfully eating, and He instructed them to say “Hari bol!”
+(45) Gaurahari watched the beggars joyfully eating, and He instructed them to say “Hari bol!”[^17]
 
 ‘হরিবোল’ বলি’ কাঙ্গাল প্রেমে ভাসি’ যায় ৷  
 ঐছন অদ্ভুত লীলা করে গৌররায় ॥ ৪৬ ॥
@@ -470,9 +470,9 @@ of the beggars  the joy of eating  watches  Gaurahari
 ‘hari-bola’ bali’ kāṅgāla preme bhāsi’ yāya  
 “Hari bol”  saying  the beggars  in love  float  go  
 aichana adbhuta līlā kare gaurarāya  
-such  wonderful  pastimes  performs  Gaurarāya
+such  wonderful  pastimes  shows  Gaurarāya
 
-(46) As they said “Hari bol!” the beggars floated away in love. Such wonderful pastimes Gaurarāya performs!
+(46) As they said “Hari bol!” the beggars floated away in love. Such are the wonderful pastimes of Gaurarāya!
 
 ইঁহা জগন্নাথের রথ-চলন-সময় ৷  
 গৌড় সব রথ টানে, আগে নাহি যায় ॥ ৪৭ ॥
@@ -600,9 +600,9 @@ Caitanya’s might  seeing  the people  in wonder
 ‘jaya gauracandra’, ‘jaya śrī kṛṣṇa-caitanya’  
 “glory to Gauracandra”  “glory to Śrī Kṛṣṇa Caitanya”  
 ei-mata kolāhala loke kare dhanya  
-in this way  tumult  the people  make  “blessed”
+in this way  tumult  the people  make  praise
 
-(59) “Glory to Gauracandra! Glory to Śrī Kṛṣṇa Caitanya!” With such a tumult the people cried, “Blessed! Blessed!”
+(59) “Glory to Gauracandra! Glory to Śrī Kṛṣṇa Caitanya!” With such a tumult the people sang His praises.
 
 দেখিয়া প্রতাপরুদ্র পাত্র-মিত্র-সঙ্গে ৷  
 প্রভুর মহিমা দেখি’ প্রেমে ফুলে অঙ্গে ॥ ৬০ ॥
@@ -642,7 +642,7 @@ in the courtyard  Mahāprabhu  with  the devotees
 ānande ārambha kaila nartana-kīrtana  
 in joy  beginning  made  dancing and kīrtana
 
-(63) In the courtyard Mahāprabhu and the devotees joyfully began to dance and sing *kīrtana*.
+(63) In the courtyard Mahāprabhu and the devotees joyfully began to dance and sing kīrtana.
 
 আনন্দে মহাপ্রভুর প্রেম উথলিল ৷  
 দেখি’ সব লোক প্রেম-সাগরে ভাসিল ॥ ৬৪ ॥
@@ -672,7 +672,7 @@ Advaita and the others  the devotees  invitation  made
 mukhya mukhya nava jana nava dina pāila  
 chief  chief  nine  persons  nine  days  received
 
-(66) Advaita and the other devotees invited the Lord: the nine chief devotees received the nine days.
+(66) Advaita and the other devotees invited the Lord: the nine chief devotees received the nine days.[^18]
 
 আর ভক্তগণ চাতুর্ম্মাস্যে যত দিন ৷  
 এক এক দিন করি’ করিল বণ্টন ॥ ৬৭ ॥
@@ -712,7 +712,7 @@ in the morning  bath  having taken  having seen  Jagannātha
 saṁkīrtane nṛtya kare bhakta-gaṇa sātha  
 in saṅkīrtana  dance  does  the devotees  with
 
-(70) In the morning He bathed and saw Jagannātha, and then He danced in *saṅkīrtana* with the devotees.
+(70) In the morning He bathed and saw Jagannātha, and then He danced in saṅkīrtana with the devotees.
 
 কভু অদ্বৈতে নাচায়, কভু নিত্যানন্দে ৷  
 কভু হরিদাসে নাচায়, কভু অচ্যুতানন্দে ॥ ৭১ ॥
@@ -732,7 +732,7 @@ sometimes  Vakreśvara  sometimes  other  devotees
 trisandhyā kīrtana kare guṇḍicā-prāṅgaṇe  
 three times a day  kīrtana  does  in the courtyard of Guṇḍicā
 
-(72) Sometimes He made Vakreśvara dance, and sometimes other devotees. Three times a day He held *kīrtana* in the courtyard of Guṇḍicā.
+(72) Sometimes He made Vakreśvara dance, and sometimes other devotees. Three times a day He held kīrtana in the courtyard of Guṇḍicā.
 
 বৃন্দাবনে আইলা কৃষ্ণ — এই প্রভুর জ্ঞান ৷  
 কৃষ্ণের বিরহ-স্ফূর্ত্তি হৈল অবসান ॥ ৭৩ ॥
@@ -742,7 +742,7 @@ to Vṛndāvana  has come  Kṛṣṇa  this  the Lord’s  awareness
 kṛṣṇera viraha-sphūrti haila avasāna  
 for Kṛṣṇa  the feeling of separation  became  ended
 
-(73) The Lord felt that Kṛṣṇa had come back to Vṛndāvana, and His feeling of separation from Kṛṣṇa came to an end.
+(73) The Lord felt that Kṛṣṇa had come back to Vṛndāvana, and His feeling of separation from Kṛṣṇa came to an end.[^19]
 
 রাধা-সঙ্গে কৃষ্ণ-লীলা — এই হৈল জ্ঞানে ৷  
 এই রসে মগ্ন প্রভু হইলা আপনে ॥ ৭৪ ॥
@@ -752,7 +752,7 @@ with Rādhā  Kṛṣṇa’s pastimes  this  became  in awareness
 ei rase magna prabhu hailā āpane  
 in this  rasa  immersed  the Lord  became  Himself
 
-(74) His mind was filled with Kṛṣṇa’s pastimes with Rādhā, and the Lord Himself became immersed in this *rasa*.
+(74) His mind was filled with Kṛṣṇa’s pastimes with Rādhā, and the Lord Himself became immersed in this rasa.
 
 নানোদ্যানে ভক্তসঙ্গে বৃন্দাবন-লীলা ৷  
 ‘ইন্দ্রদ্যুম্ন’-সরোবরে করে জলখেলা ॥ ৭৫ ॥
@@ -872,7 +872,7 @@ Meru and Mandara mountains  drowns  here and there
 ei dui — gaṇḍa-śaila, ihāra kā kathā  
 these  two  hillocks  of them  what  talk
 
-(86) it drowns even the mountains Meru and Mandara wherever they stand. What then of these two, who are mere hillocks?
+(86) it drowns even the mountains Meru and Mandara wherever they stand. What then of these two, who are mere hillocks?[^20]
 
 শুষ্কতর্ক-খলি খাইতে জন্ম গেল যাঁর ৷  
 তাঁরে লীলামৃত পিয়াও, — এ কৃপা তোমার ॥ ৮৭ ॥
@@ -882,7 +882,7 @@ of dry logic the oilcake  eating  life  went  whose
 tām̐re līlāmṛta piyāo, — e kṛpā tomāra  
 to him  the nectar of pastimes  You make drink  this  mercy  Yours
 
-(87) He spent his whole life eating the oilcake of dry logic, and now You make him drink the nectar of pastimes. This is Your mercy.”
+(87) His whole life was spent eating the oilcake of dry logic, and now You give him the nectar of divine pastimes to drink. Such is Your mercy!”[^21]
 
 হাসি’ মহাপ্রভু তবে অদ্বৈতে আনিল ৷  
 জলের উপরে তাঁরে শেষ-শয্যা কৈল ॥ ৮৮ ॥
@@ -942,7 +942,7 @@ Vāṇīnātha  the rest  all  prasāda  brought
 mahāprabhura gaṇe sei prasāda khāila  
 Mahāprabhu’s  people  that  prasāda  ate
 
-(93) All the rest of the *prasāda* that Vāṇīnātha brought was eaten by Mahāprabhu’s companions.
+(93) Mahāprabhu’s companions ate all the rest of the prasāda that Vāṇīnātha had brought.
 
 অপরাহ্নে আসি’ কৈল দর্শন, নর্ত্তন ৷  
 নিশাতে উদ্যানে আসি’ করিলা শয়ন ॥ ৯৪ ॥
@@ -952,7 +952,7 @@ in the afternoon  coming  made  darśana  dancing
 niśāte udyāne āsi’ karilā śayana  
 at night  to the garden  coming  took  rest
 
-(94) In the afternoon He came, took *darśana* and danced, and at night He returned to the garden to rest.
+(94) In the afternoon He came, took darśana and danced, and at night He returned to the garden to rest.
 
 আর দিন আসি’ কৈল ঈশ্বর দরশন ৷  
 প্রাঙ্গণে নৃত্য-গীত কৈল কতক্ষণ ॥ ৯৫ ॥
@@ -972,7 +972,7 @@ the devotees  with  the Lord  to the garden  coming
 vṛndāvana-vihāra kare bhakta-gaṇa lañā  
 the Vṛndāvana pastimes  does  the devotees  with
 
-(96) Then the Lord came to the garden with the devotees and enjoyed the pastimes of Vṛndāvana with them.
+(96) Then the Lord came to the garden with the devotees and enjoyed the pastimes of Vṛndāvana with them.[^22]
 
 বৃক্ষবল্লী প্রফুল্লিত প্রভুর দরশনে ৷  
 ভৃঙ্গ-পিক গায়, বহে শীতল পবনে ॥ ৯৭ ॥
@@ -1052,7 +1052,7 @@ nine  days  at Guṇḍicā  stays  Jagannātha
 mahāprabhu aiche līlā kare bhakta-sātha  
 Mahāprabhu  such  pastimes  does  with the devotees
 
-(104) For nine days Jagannātha stays at Guṇḍicā, and all that time Mahāprabhu enjoyed such pastimes with the devotees.
+(104) For nine days Jagannātha stayed at Guṇḍicā, and all that time Mahāprabhu enjoyed such pastimes with the devotees.
 
 ‘জগন্নাথ-বল্লভ’-নাম বড় পুষ্পারাম ৷  
 নব দিন করেন প্রভু তাহাতে বিশ্রাম ॥ ১০৫ ॥
@@ -1062,7 +1062,7 @@ Mahāprabhu  such  pastimes  does  with the devotees
 nava dina karena prabhu tāhāte viśrāma  
 nine  days  takes  the Lord  in it  rest
 
-(105) There is a large flower garden called Jagannātha-vallabha, and the Lord rested there for those nine days.
+(105) There is a large flower garden called Jagannātha-vallabha, and the Lord rested there for those nine days.[^23]
 
 ‘হেরা-পঞ্চমী’র দিন আইল জানিয়া ৷  
 কাশীমিশ্রে কহে রাজা সযত্ন করিয়া ॥ ১০৬ ॥
@@ -1072,7 +1072,7 @@ of Herā-pañcamī  the day  came  knowing
 kāśī-miśre kahe rājā sayatna kariyā  
 to Kāśī Miśra  says  the king  with care  making
 
-(106) Knowing that the day of the Herā-pañcamī had come, the king spoke to Kāśī Miśra with great care.
+(106) Knowing that the day of the Herā-pañcamī had come, the king spoke to Kāśī Miśra with great care.[^24]
 
 কল্য ‘হেরা-পঞ্চমী’ হবে লক্ষ্মীর বিজয় ৷  
 ঐছে উৎসব কর, যেন কভু নাহি হয় ॥ ১০৭ ॥
@@ -1092,7 +1092,7 @@ the great festival  make  with such  special  preparations
 dekhi’ mahāprabhura yaiche haya camatkāra  
 seeing  Mahāprabhu’s  so that  is  wonder
 
-(108) Prepare the great festival with such splendor that Mahāprabhu will be struck with wonder when He sees it.
+(108) Prepare the great festival with such splendour that Mahāprabhu will be struck with wonder when He sees it.
 
 ঠাকুরের ভাণ্ডারে আর আমার ভাণ্ডারে ৷  
 চিত্রবস্ত্র কিঙ্কিণী, আর ছত্র-চামরে ॥ ১০৯ ॥
@@ -1100,9 +1100,9 @@ seeing  Mahāprabhu’s  so that  is  wonder
 ṭhākurera bhāṇḍāre āra āmāra bhāṇḍāre  
 of the Deity  in the storehouse  and  my  in the storehouse  
 citra-vastra kiṅkiṇī, āra chatra-cāmare  
-colored cloths  small bells  and  umbrellas and cāmaras
+coloured cloths  small bells  and  umbrellas and cāmaras
 
-(109) From the Deity’s storehouse and from mine take colored cloths, small bells, umbrellas and *cāmaras*.
+(109) From the Deity’s storehouse and from mine take coloured cloths, small bells, umbrellas and *cāmaras*.
 
 ধ্বজাবৃন্দ-পতাকা-ঘণ্টায় করহ মণ্ডন ৷  
 নানাবাদ্য-নৃত্য-দোলায় করহ সাজন ॥ ১১০ ॥
@@ -1132,7 +1132,7 @@ that  indeed  do  the Lord  with  the devotees
 svacchande āsiyā yaiche karena daraśana  
 freely  coming  so that  makes  darśana
 
-(112) And arrange it so that the Lord and His devotees can come freely and take *darśana*.”
+(112) And arrange it so that the Lord and His devotees can come at their ease and see it all.”[^25]
 
 প্রাতঃকালে মহাপ্রভু নিজগণ লঞা ৷  
 জগন্নাথ দর্শন কৈল সুন্দরাচলে যাঞা ॥ ১১৩ ॥
@@ -1142,7 +1142,7 @@ in the morning  Mahāprabhu  His own people  with
 jagannātha darśana kaila sundarācale yāñā  
 Jagannātha’s  darśana  made  to Sundarācala  going
 
-(113) In the morning Mahāprabhu went with His companions to Sundarācala and took *darśana* of Jagannātha.
+(113) In the morning Mahāprabhu went with His companions to Sundarācala and took darśana of Jagannātha.
 
 নীলাচলে আইলা পুনঃ ভক্তগণ-সঙ্গে ৷  
 দেখিতে উৎকণ্ঠা হেরা পঞ্চমীর রঙ্গে ॥ ১১৪ ॥
@@ -1158,11 +1158,11 @@ to see  eagerness  of the Herā-pañcamī  the festivity
 স্বগণ-সহ ভাল স্থানে বসাইল লঞা ॥ ১১৫ ॥
 
 kāśī-miśra prabhure bahu ādara kariyā  
-Kāśī Miśra  the Lord  great  honor  showing  
+Kāśī Miśra  the Lord  great  honour  showing  
 svagaṇa-saha bhāla sthāne vasāila lañā  
 with His people  in a good  place  seated  taking
 
-(115) Kāśī Miśra received the Lord with great honor and seated Him with His companions in a good place.
+(115) Kāśī Miśra received the Lord with great honour and seated Him with His companions in a good place.[^26]
 
 রসবিশেষ প্রভুর শুনিতে মন হৈল ৷  
 ঈষৎ হাসিয়া প্রভু স্বরূপে পুছিল ॥ ১১৬ ॥
@@ -1172,7 +1172,7 @@ a special rasa  the Lord’s  to hear  mind  became
 īṣat hāsiyā prabhu svarūpe puchila  
 slightly  smiling  the Lord  Svarūpa  asked
 
-(116) The Lord wished to hear about a special *rasa*, and with a slight smile He asked Svarūpa:
+(116) The Lord wished to hear about a special rasa, and with a slight smile He asked Svarūpa:
 
 যদ্যপি জগন্নাথ করেন দ্বারকায় বিহার ৷  
 সহজ প্রকট করে পরম উদার ॥ ১১৭ ॥
@@ -1189,7 +1189,7 @@ still  within a year  there is  once
 vṛndāvana dekhite tām̐ra utkaṇṭhā apāra  
 Vṛndāvana  to see  His  longing  boundless
 
-(117–118) “Jagannātha enjoys His pastimes in Dvārakā, and there He naturally shows His supreme magnanimity. Still, once a year He feels a boundless longing to see Vṛndāvana.
+(117–118) “Jagannātha enjoys His pastimes in Dvārakā, and there He naturally shows His supreme magnanimity. Still, once a year He feels a boundless longing to see Vṛndāvana.[^27]
 
 বৃন্দাবন-সম এই উপবন-গণ ৷  
 তাহা দেখিবারে উৎকণ্ঠিত হয় মন ॥ ১১৯ ॥
@@ -1229,7 +1229,7 @@ Svarūpa  says  hear  Lord  the reason  for this
 vṛndāvana krīḍāte lakṣmīra nāhi adhikāra  
 in the Vṛndāvana pastimes  of Lakṣmī  there is no  right of entry
 
-(122) Svarūpa said, “Hear the reason for this, Lord. Lakṣmī has no right to enter the pastimes of Vṛndāvana.
+(122) Svarūpa said, “Hear the reason for this, Lord. Lakṣmī has no right to enter the pastimes of Vṛndāvana.[^28]
 
 বৃন্দাবন লীলায় কৃষ্ণের সহায় গোপীগণ ৷  
 গোপীগণ বিনা কৃষ্ণের হরিতে নারে মন ॥ ১২৩ ॥
@@ -1269,7 +1269,7 @@ therefore  in Kṛṣṇa’s open going  there is not  any  fault
 tabe kena lakṣmīdevī kare eta roṣa?  
 then  why  Lakṣmī-devī  makes  so much  anger
 
-(126) So there is no fault at all in what Kṛṣṇa openly does. Why, then, is Lakṣmī-devī so angry?”
+(126) So there is no fault at all in what Kṛṣṇa openly does. Why, then, is Lakṣmī-devī so angry?”[^29]
 
 স্বরূপ কহে, — প্রেমবতীর এই ত’ স্বভাব ৷  
 কান্তের ঔদাস্য-লেশে হয় ক্রোধভাব ॥ ১২৭ ॥
@@ -1279,17 +1279,17 @@ Svarūpa  says  of a loving woman  this  indeed  the nature
 kāntera audāsya-leśe haya krodha-bhāva  
 of the beloved  at a trace of indifference  arises  anger
 
-(127) Svarūpa said, “This is the very nature of a woman in love: at the slightest trace of indifference from her beloved, anger arises in her.”
+(127) Svarūpa said, “This is the very nature of a woman in love: at the slightest trace of indifference from her beloved, anger arises in her.”[^30]
 
 হেনকালে, খচিত যাহে বিবিধ রতন ৷  
-সুবর্ণের চৌদোলা করি’ আরোহণ ॥ ১২৮ ॥
+সুবর্ণের চৌদালা করি’ আরোহণ ॥ ১২৮ ॥
 
 hena-kāle, khacita yāhe vividha ratana  
 at that time  inlaid  in which  various  jewels  
-suvarṇera caudolā kari’ ārohaṇa  
+suvarṇera caudālā kari’ ārohaṇa  
 of gold  palanquin  making  mounting
 
-(128) Just then Lakṣmī-devī set out, mounted on a golden palanquin inlaid with jewels of every kind.
+(128) Just then Lakṣmī-devī set out, mounted on a golden palanquin inlaid with jewels of every kind.[^31]
 
 ---
 
@@ -1313,7 +1313,7 @@ of gold  palanquin  making  mounting
 
 [^10]: Heading in the edition: “The all-knowing Lord, in His outer consciousness, does not reveal that in the trance of love He had seen the king.”
 
-[^11]: Heading in the edition: “After the midday bath Vāṇīnātha brings abundant *prasāda* for all.”
+[^11]: Heading in the edition: “After the midday bath Vāṇīnātha brings abundant prasāda for all.”
 
 [^12]: *Amṛta-pravāha-bhāṣya*: *ni-sakaḍi* is yogurt, thickened milk (*kṣīra*), fruits, roots and everything else that is not *sakaḍi*, food cooked in water. *Anubhāṣya*: the list in verses 25–34 shows how well the author knows the whole variety of offerings to Kṛṣṇa.
 
@@ -1322,3 +1322,35 @@ of gold  palanquin  making  mounting
 [^14]: *Anubhāṣya*: *saravatī* is a choice kind of lemon; another reading of *amṛta-maṇḍā* is *amṛta-bhāṇḍa*, papaya.
 
 [^15]: *Anubhāṣya*: *ḍāli-marica-lāḍu* are balls made of mung; *navāta* is a sweet boiled in sugar syrup; *amṛti* is a sweet fried in ghee, like *jilipi*.
+
+[^16]: *Anubhāṣya*: *candrakānti* are thin flatbreads of *urad* dal or puffed moon-shaped *baḍis*; *viyari* is a flatbread of puffed rice; *kadmā* is a very hard sweet of rice flour in sugar syrup; *tilā-khājā* is *khājā* with sesame fried in ghee.
+
+[^17]: Heading in the edition: “Gaurahari watches the beggars eat and teaches them to sing the name of Hari.”
+
+[^18]: *Amṛta-pravāha-bhāṣya*: the nine days of the festival at Guṇḍicā’s house are called the *nava-rātra-yātrā*; all those days the Lord stayed with the devotees at Āiṭoṭā, and the nine chief devotees headed by Advaita invited Him, each on his own day.
+
+[^19]: Heading in the edition: “The joy of the Lord, who is in the mood of a gopī, a maidservant of Śrī Rādhā, that Kṛṣṇa has come to Vraja and met Śrī Rādhā.”
+
+[^20]: *Anubhāṣya*: *gaṇḍa-śaila* — small hills; though “these two” are named, the words are aimed above all at Sārvabhauma Bhaṭṭācārya.
+
+[^21]: *Anubhāṣya*: before he received Mahāprabhu’s mercy, Sārvabhauma knew only the impersonal Brahman and followed the path of logic, so Gopīnātha likened him to the oil-presser’s ox that eats the oilcake.
+
+[^22]: *Anubhāṣya*: although the Lord began the pastimes of Vṛndāvana here, He has no pastimes as the enjoyer (*bhoktā*) such as Kṛṣṇa has in *parakīya-rasa*: He thinks of Himself as a maidservant of Śrī Rādhā and is immersed in an ocean of bliss when Rādhā meets Kṛṣṇa, and it was in this mood that He enjoyed the *vṛndāvana-vihāra* with the devotees (cf. verses 73–75). The teaching of *gaura-nāgarī* therefore has no place here at all.
+
+[^23]: Heading in the edition: “The Lord rests at Jagannātha-vallabha.” *Amṛta-pravāha-bhāṣya*: the garden Jagannātha-vallabha lies about halfway between Guṇḍicā-bāḍī and the temple; there the pastime of “stealing the *danā*” takes place: Śrī Madana-mohana comes there and carries off the fragrant plant called *danā*.
+
+[^24]: *Amṛta-pravāha-bhāṣya*: the Herā-pañcamī is the fifth day after the Ratha-yātrā: Lakṣmī-devī, searching for Jagannātha, goes to Guṇḍicā, and having seen (*heriyā*) Him she returns; this is why the people of Utkala call the day “Herā-pañcamī”.
+
+[^25]: Heading in the edition: “He arranges for the Lord to watch at His ease.”
+
+[^26]: Heading in the edition: “Kāśī Miśra seats the Lord in the best place.”
+
+[^27]: *Anubhāṣya*: out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and shows Kṛṣṇa’s pastimes of Dvārakā; once a year there awakens in Him an intense longing to see Sundarācala, which is like Vṛndāvana.
+
+[^28]: *Anubhāṣya*: Lakṣmī cannot take part in the pastimes of Vṛndāvana, and so Jagannātha does not take her with Him when He goes to Sundarācala.
+
+[^29]: *Anubhāṣya*: see *Bṛhad-bhāgavatāmṛta*, part 1, chapter 7.
+
+[^30]: *Amṛta-pravāha-bhāṣya*: as He sets out, Jagannātha tells Lakṣmī, “I shall be back tomorrow,” but two or three days pass, and Lakṣmī in her love, seeing even a shadow of indifference in her Beloved, by her very nature flares up in anger. Heading in the edition: “Svarūpa gives the reason: when the beloved is indifferent, the loving woman becomes angry and offended.”
+
+[^31]: Heading in the edition: “Lakṣmī comes in great pomp with many maidservants.”
