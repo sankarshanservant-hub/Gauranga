@@ -1895,7 +1895,7 @@ on seeing (Him)  various bhāvas  become  extraordinary
 se vailakṣaṇyera nāma ‘vilāsa’-bhūṣaṇa  
 of that  distinctiveness  the name  the vilāsa ornament
 
-(186) On seeing Him, various *bhāvas* appear in Her in an extraordinary way, and that distinctiveness is called the ornament of *vilāsa*.
+(186) When She sees Him, various *bhāvas* appear in Her in an extraordinary way, and that distinctiveness is called the ornament of *vilāsa*.
 
 গতিস্থানাসনাদীনাং মুখনেত্রাদিকর্ম্মণাম্ ৷  
 তাৎকালিকন্তু বৈশিষ্ট্যং বিলাসঃ প্রিয়সঙ্গজম্ ॥ ১৮৭ ॥
@@ -1945,7 +1945,7 @@ before Kṛṣṇa  Rādhā  when  remains  standing
 tina-aṅga-bhaṅge rahe bhrū nācāñā  
 in a threefold bend of Her body  She remains  Her brows  making dance
 
-(190) When Rādhā stands before Kṛṣṇa, She stands with Her body bent in three places, making Her brows dance.
+(190) When Rādhā stands before Kṛṣṇa, Her body bends in three places and She makes Her brows dance.
 
 মুখে-নেত্রে হয় নানা-ভাবের উদ্গার ৷  
 এই কান্তা-ভাবের নাম ‘ললিত’-অলঙ্কার ॥ ১৯১ ॥
@@ -2145,7 +2145,7 @@ such  a deed  does  where  the crown jewel of the clever
 lakṣmīra agrete nija prabhure deha’ āni’  
 of Lakṣmī  before  your own  master  give  bringing
 
-(208) Where would the crown jewel of the clever do such a thing? Bring your master before Lakṣmī!’
+(208) Would the crown jewel of connoisseurs ever do such a thing? Bring your master before Lakṣmī!’
 
 এত বলি’ মহালক্ষ্মীর সব দাসীগণে ৷  
 কটি-বস্ত্রে বান্ধি’ আনে প্রভুর নিজগণে ॥ ২০৯ ॥
@@ -2165,7 +2165,7 @@ to Lakṣmī’s  feet  bringing  they make  bow
 dhana-daṇḍa laya, āra karāya minati  
 a fine in money  they take  and  they make  plead
 
-(210) They brought them to Lakṣmī’s feet and made them bow down; they exacted a fine from them and made them plead humbly.
+(210) At Lakṣmī’s feet they made them bow down; they exacted a fine from them and made them plead humbly.
 
 রথের উপরে করে দণ্ডের তাড়ন ৷  
 চোর-প্রায় করে জগন্নাথের সেবকগণ ॥ ২১১ ॥
@@ -2377,7 +2377,7 @@ Rādhā’s  pure rasa  the Lord  in rapture  heard
 sei rasāveśe prabhu nṛtya ārambhila  
 in that  rapture of rasa  the Lord  dance  began
 
-(230) The Lord heard of Rādhā’s pure rasa in rapture, and in that rapture of rasa He began to dance.
+(230) Rapt, the Lord heard of Rādhā’s pure rasa, and in that rapture of rasa He began to dance.
 
 রসাবেশে প্রভুর নৃত্য, স্বরূপের গান ৷  
 ‘বল’ ‘বল’ বলি’ প্রভু পাতে নিজ-কাণ ॥ ২৩১ ॥
@@ -2477,7 +2477,7 @@ Jagannātha’s  prasāda  came  many  offerings
 lakṣmīra prasāda āila vividha prakāra  
 Lakṣmī’s  prasāda  came  various  kinds
 
-(240) Many offerings of Jagannātha’s prasāda arrived, and Lakṣmī’s prasāda of various kinds arrived too.[^53]
+(240) Many offerings of Jagannātha’s prasāda arrived, and with them Lakṣmī’s prasāda of every kind.[^53]
 
 সবা লঞা নানা-রঙ্গে করিলা ভোজন ৷  
 সন্ধ্যা স্নান করি’ কৈল জগন্নাথ দরশন ॥ ২৪১ ॥
@@ -2517,7 +2517,7 @@ on the next  day  Jagannātha’s  return within
 rathe caḍi’ jagannātha cale nijālaya  
 on the chariot  mounting  Jagannātha  goes  to His own abode
 
-(244) The next day was Jagannātha’s return (*bhitara-vijaya*): mounting His chariot, Jagannātha went back to His own abode.
+(244) The next day was Jagannātha’s return (*bhitara-vijaya*): mounting His chariot, He went back to His own abode.
 
 পূর্ব্ববৎ কৈল প্রভু লঞা ভক্তগণ ৷  
 পরম আনন্দে করেন নর্ত্তন-কীর্ত্তন ॥ ২৪৫ ॥
