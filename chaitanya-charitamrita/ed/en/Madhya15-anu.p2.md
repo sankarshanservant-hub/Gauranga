@@ -282,7 +282,7 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 ## 213
 
-*Bhṛṣṭa-vārtākī*: fried eggplant. *Kuṣmāṇḍa-māna-cākī*: pumpkin and *māna-kacu* (a large arum root) cut into small rounds and fried.
+*Bhṛṣṭa-vārtākī*: fried eggplant. *Kuṣmāṇḍa-māna-cākī*: pumpkin and *māna-kacu* (a large arum root) cut into small rounds and fried.[^213-1]
 
 ## 214
 
@@ -300,7 +300,7 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 > Subheading: The seat and the arrangement of the offering —
 
-*Śubhra-pīṭha*: a piece of fine cloth was spread over a white wooden board (*piṁḍi*), and so the seat was prepared.
+*Śubhra-pīṭha*: a piece of fine cloth was spread over a white wooden board (*piṁḍi*), and so the seat was prepared.[^219-1]
 
 ## 221
 
@@ -659,3 +659,7 @@ By blaspheming the Lord, Amogha became an offender. The fruit of the offense was
 [^242-1]: In the edition this section stands out of place: after section 254 of the *Amṛta-pravāha-bhāṣya*, before section 261.
 
 [^274-277-1]: Unclear passage of the scan: the print reads «অচু তাত্ম-তার» (broken); apparently «অচ্যুতাত্মতার», “for lack of devotion to Acyuta (*acyutātmatā*)”; translated accordingly.
+
+[^213-1]: The verse translation reads differently: it has slices of fried pumpkin and squash, not *māna-kacu*.
+
+[^219-1]: The verse translation reads differently: it makes the cloth, not the board, white.
