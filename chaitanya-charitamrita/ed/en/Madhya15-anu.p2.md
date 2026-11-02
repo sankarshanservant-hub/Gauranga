@@ -1,0 +1,171 @@
+## 129
+
+*Avataṁse*: “for an ornament” — an ornament for the ears, an ornament for the head; [the flowers bloom] for that purpose.
+
+## 130
+
+> Subheading: The Lord divides service among the three: (1) Mukunda's service —
+
+## 131
+
+> Subheading: (2) Raghunandana's service —
+
+## 132
+
+> Subheading: (3) Narahari's service —
+
+## 130–132
+
+Śrī Mahāprabhu knew Mukunda to be a very dear and intimate devotee. So when He divided service among the two brothers and the son, He assigned each a different service: to Mukunda, religious duty and earning money; to Raghunandana, the service of the Śrī Mūrti; and to Narahari, living together with the devotees.
+
+## 133
+
+> Subheading: Instruction to both Sārvabhauma and Vācaspati on serving Kṛṣṇa —
+
+## 136
+
+> Subheading: Sārvabhauma is told to serve Jagannātha, and Vācaspati to serve the Gaṅgā —
+
+## 137
+
+> Subheading: The Lord glorifies Murāri's fidelity to his own service —
+
+## 138
+
+> Subheading: Earlier, the Lord had enticed Murāri with the worship of Kṛṣṇa —
+
+## 142
+
+> Subheading: The worship of Kṛṣṇa is the highest of all —
+
+## 143
+
+> Subheading: Under the Lord's enticement Murāri's mind changed for a moment —
+
+## 144
+
+> Subheading: Firm faith in the Lord's words and a humble reply —
+
+## 145
+
+> Subheading: The thought of giving up the worship of Rāma keeps Murāri sleepless; he weeps and longs to die —
+
+## 148
+
+> Subheading: In the morning he comes and says he can neither give up the worship of Rāma nor carry out the Lord's order; caught between the two, he longs for death —
+
+## 149
+
+“The Lord of Śrī and the Lord of Jānakī are one and the same Supreme Self; there is no difference between Them. Still, my all in all is lotus-eyed Rāma.”
+
+## 152
+
+> Subheading: Murāri's words delight the Lord, and He praises him —
+
+## 154
+
+> Subheading: How servant and served should behave toward each other —
+
+*Prabhu* (the Lord) is Kṛṣṇa, the Truth whom the *jīva* eternally serves, honors and worships. See Madhya 4.186, 7.8 and 13.140 (first half); and Antya 4.46–47: “Blessed is the devotee who does not leave his Lord's feet; blessed is the Lord who does not abandon His own. If by misfortune the servant goes elsewhere, blessed is the master who drags him back by the hair.”[^154-1]
+
+## 155
+
+> Subheading: The Lord tests Murāri's fidelity to the object of his worship, and Murāri passes the test —
+
+*Jānibāra*: “in order to test.” *Āgraha*: insistence — [the Lord] insisted that [Murāri] worship Kṛṣṇa.
+
+## 156
+
+> Subheading: Murāri, the incarnation of humility, is Hanumān himself —
+
+## 137–157
+
+In this connection one should consult Antya 4.30–45, which describes the devotion to Śrī Rāma of Śrī Anupama, or Vallabha, the father of Śrī Jīva.
+
+## 158
+
+> Subheading: The Lord praises Vāsudeva Datta —
+
+## 159
+
+> Subheading: With an anguished heart Vāsudeva makes his plea at the Lord's feet —
+
+## 162
+
+> Subheading: Vāsudeva Datta Ṭhākura, Gaura's servant, pained by the pain of others as no one in this world —
+
+## 162–163
+
+The followers of Christ in Western countries believe that their guru, the one great-hearted Jesus Christ, came into the world ready to take upon himself the burden of all the sins of living beings. But Śrī Vāsudeva Datta Ṭhākura, one of Śrī Gaura's associates, like Ṭhākura Śrī Haridāsa, taught the living beings of the world a universal Vaiṣṇava love for the whole world, endless millions of times more exalted and more generous.
+
+In Śrī Vāsudeva Datta Ṭhākura three things were united in an unprecedented way: “selflessness,” the giving up of material self-interest; the spiritual “good of others” (*parārtha*), which is service to Viṣṇu; and “one's own good” (*svārtha*). He saw Gaurasundara as Reality itself, free of all deceit — Bhagavān Himself. So he took upon his own shoulders the disease of worldly existence of all living beings — their aversion to Kṛṣṇa (not mere “sins,” but a mass of “offenses,” more terrible than every kind of sin) — and with body, mind and words, without a trace of duplicity, prayed that they be freed from that disease. Such an ideal of compassion is beyond the imagination of the best *karmīs* and *jñānīs*, not only of the whole world — why only the world? — of all fourteen worlds.
+
+Under the sway of *māyā*, living beings are absorbed in “a second” [something other than the Lord]; they see differences everywhere, and the urge to harm dominates them. In this world of duality they honor above all the ideals of karma and *jñāna*, and so most of them are bad *karmīs* and bad *jñānīs*. When they hear that Vāsudeva Datta Ṭhākura, a servant of Vaikuṇṭha, wishes to suffer hell, they, moved by their natural envy and by a delight rooted in duality, may take him for a “pious” man of good works or rank him with a “knower of Brahman,” and give him great honor and prestige. Yet Datta Ṭhākura's compassion for living beings is endless millions of times greater than that. This is not exaggerated praise at all, nor *arthavāda* (eulogy), but entirely impartial truth.
+
+Indeed, by the coming of Gaura's servants like him, “pained by the pain of others,” the earth has become blessed; and not only the world — the whole race of living beings has become blessed. The fruit of the eloquent man's tongue lies only in singing the glories of such a devotee of Gaura. And only in describing the qualities of such a *mahā-bhāgavata*, endowed with selfless (*akiñcanā*) devotion to Bhagavān, does the pen of poets and historians, free from the pursuit of matter, achieve its highest fulfillment. So great is the servant of the supremely magnanimous Śrī Kṛṣṇa Caitanya: he is “greater than the great and weightier than the weighty.”
+
+## 164
+
+> Subheading: The plea of His dearest servant moves the Lord —
+
+## 165
+
+> Subheading: Vāsudeva Datta Ṭhākura is Prahlāda himself —
+
+## 166
+
+> Subheading: How Kṛṣṇa and His devotee behave toward each other —
+
+## 167
+
+> Subheading: The Lord firmly promises deliverance to all who live in the universe —
+
+## 168
+
+> Subheading: The omnipotence of Bhagavān Kṛṣṇa Himself —
+
+## 167–169
+
+The Lord tells Vāsudeva: “Śrī Kṛṣṇa is all-powerful; He can free every living being from its desire for material enjoyment. You, seeing all equally, prayed on behalf of all beings, high and low, for their welfare. So by your prayer all will be delivered without suffering [the fruits of] their sins, and you will not have to suffer the fruits of sin for them in exchange. Those whose welfare you desire will become Vaiṣṇavas, and Kṛṣṇa will also save them from suffering the fruits of a Vaiṣṇava's past misdeeds. In other words, they will give up serving sin and piety and become pure servants of Kṛṣṇa.” The *Padma Purāṇa* says: “For those whose hearts are devoted to the service of Viṣṇu, all sins are gradually destroyed: those whose fruits have not yet begun, the latent, those in seed form, and those about to bear fruit.” See *Śrīmad-Bhāgavatam* 6.2.17.
+
+## 170
+
+> Subheading: Homage to Govinda, the giver of all fruits (*Brahma-saṁhitā* 5.54) —
+
+**yaḥ** (Govinda) **tu** **indra-gopam** (a particular small red insect) **athavā** **indram** (the lord of the gods) **sva-karma-bandhānurūpa-phala-bhājanam** (the enjoyment of fruits that match the bonds of his own karma) **ātanoti** (fully arranges), **kintu** **bhakti-bhājām** (of those devoted to the service of Hari) **ca** **karmāṇi** (the *prārabdha* and the *aprārabdha* fruits of karma still to be experienced) **nirdahati** (destroys), **tam** **ādi-puruṣaṁ** (the original Deity) **govindam** (I) **bhajāmi**.
+
+## 171
+
+> Subheading: At the devotee's wish Kṛṣṇa effortlessly delivers the universe —
+
+## 172
+
+> Subheading: Endless millions of universes float in the Virajā, or the Causal Ocean —
+
+Outside the transcendental abode of Brahman flows the river Virajā. On its far side is Vaikuṇṭha-dhāma, the abode full of attributes (*saviśeṣa*), surrounded by the luminous abode of Brahman. On the other bank of the Virajā is this Devī-dhāma, the material realm. In Devī-dhāma the three modes are at work, and in the Virajā the modes abide in equilibrium.
+
+## 173
+
+> Subheading: The deliverance of a universe compared to the fall of a fig —
+
+## 174
+
+> Subheading: For Kṛṣṇa, saving one universe is an utterly trifling matter, unworthy of notice —
+
+## 175
+
+> Subheading: The Causal Ocean, which lies outside Paravyoma —
+
+See Ādi 2.53 and 5.52–55; Madhya 20.268–279 and 21.52. In Vaikuṇṭha-dhāma there is not the slightest limitation (*kuṇṭhā*) of *māyā*. The Causal Ocean surrounds Vaikuṇṭha on all sides. The Kāraṇābdhi is the water that causes the variety of the material Devī-dhāma.
+
+## 176
+
+*Gaḍakhāi*: encircling water, a moat. The Virajā river, or Kāraṇābdhi, is like a moat; the endless, countless universes are like countless tiny mustard seeds, and *māyā* is like a pot.
+
+## 178
+
+> Subheading: Even if endless millions of universes perish together with *māyā*, Kṛṣṇa loses nothing —
+
+---
+
+[^154-1]: In the edition this section is numbered “১৪৫” (145; scan checked): a misprint. By its place (between sections 149 and 155) and its content (the word *prabhu* and the quotation about the servant who does not leave the Lord's feet) it belongs to verse 154.
