@@ -1851,7 +1851,7 @@ Gadādhara Paṇḍita  remained  of the Lord  beside
 yameśvare prabhu yām̐re karāilā āvāse  
 at Yameśvara  the Lord  whom  had made  to dwell
 
-(183) Gadādhara Paṇḍita, whom the Lord had settled at Yameśvara, remained near the Lord.
+(183) Gadādhara Paṇḍita, whom the Lord had settled at Yameśvara, remained near Him.[^48]
 
 পুরী-গোসাঞি, জগদানন্দ, স্বরূপ-দামোদর ৷  
 দামোদর-পণ্ডিত, আর গোবিন্দ, কাশীশ্বর ॥ ১৮৪ ॥
@@ -1991,14 +1991,14 @@ honour  to give  I cannot  offence  I incur
 (197) “If many *sannyāsīs* come at once, I will not be able to honour them properly and will commit an offence.
 
 তুমিহ নিজ-ছায়ে আসিবে মোর ঘরে ৷  
-কভু সঙ্গে আসিবেন স্বরূপ-দামোদরে ॥ ১৯৮ ॥
+কভু সঙ্গে আনিবে স্বরূপ-দামোদরে ॥ ১৯৮ ॥
 
 tumiha nija-chāye āsibe mora ghare  
 You Yourself  with Your own shadow  will come  to my  house  
-kabhu saṅge āsibena svarūpa-dāmodare  
-sometimes  with You  will come  Svarūpa Dāmodara
+kabhu saṅge ānibe svarūpa-dāmodare  
+sometimes  with You  will bring  Svarūpa Dāmodara
 
-(198) “You should come to my house alone, with only Your own shadow, and sometimes Svarūpa Dāmodara will come with You.”
+(198) “You will come to my house alone, with only Your own shadow, and sometimes You may bring Svarūpa Dāmodara with You.”[^49]
 
 প্রভুর ইঙ্গিত পাঞা আনন্দিত মন ৷  
 সেই দিন মহাপ্রভুর কৈল নিমন্ত্রণ ॥ ১৯৯ ॥
@@ -2028,7 +2028,7 @@ home  coming  the Bhaṭṭācārya  to her  order  gave
 ānande ṣāṭhīra mātā pāka caḍāila  
 in joy  Ṣāṭhī’s  mother  cooking  set going
 
-(201) Coming home, the Bhaṭṭācārya told her the news, and Ṣāṭhī’s mother joyfully began to cook.
+(201) When the Bhaṭṭācārya came home, he asked her to cook, and Ṣāṭhī’s mother joyfully set about it.
 
 ভট্টাচার্য্যের গৃহে সব দ্রব্য আছে ভরি’ ৷  
 যেবা শাকফলাদিক, আনিল আহরি’ ॥ ২০২ ॥
@@ -2068,7 +2068,7 @@ the other  room  of Mahāprabhu  the meal  for the sake of
 nibhṛte kariyāche bhaṭṭa nūtana kariyā  
 in a secluded place  had made  Bhaṭṭa  newly  making
 
-(205) The other room, in a secluded spot, Bhaṭṭa had newly built for Mahāprabhu’s meals.
+(205) The other room was for Mahāprabhu’s meals; the Bhaṭṭa had newly built it in a secluded spot.
 
 বাহ্যে এক দ্বার তার, প্রভু প্রবেশিতে ৷  
 পাকশালার এক দ্বার অন্ন পরিবেশিতে ॥ ২০৬ ॥
@@ -3144,3 +3144,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^46]: Heading in the edition: “Obeisance to Govinda, the giver of all fruits (Brahma-saṁhitā, 5.54).” *Anubhāṣya*: the *indragopa* is a small red insect; for His devotees Govinda destroys both *prārabdha* and *aprārabdha* karma — all the fruits still to be tasted.
 
 [^47]: *Anubhāṣya*: on Janaloka, at the *brahma-satra* sacrifice, Sanandana, one of the four Kumāras, recounts to the sages this prayer of the personified *śrutis*; the repeated *jaya* is a reverent insistence (“show Your supremacy!”); the *Anubhāṣya* takes *aga-jagad-okasām* with *ajām*: the *māyā* that holds sway over moving and unmoving beings.
+
+[^48]: *Anubhāṣya*: Yameśvara-ṭoṭā is a garden on the sands south-west of the Śrī Mandira; there Mahāprabhu gave Gadādhara Paṇḍita a place to live. *Amṛta-pravāha-bhāṣya*: the reading “at Jaleśvara” does not seem right; in Yameśvara-ṭoṭā stands the temple of Śrī Ṭoṭā-Gopīnātha, where Gadādhara Paṇḍita lived, serving Gopīnātha and Mahāprabhu.
+
+[^49]: The edition reads *ānibe* (“will bring”); the earlier text had *āsibena* (“will come”).

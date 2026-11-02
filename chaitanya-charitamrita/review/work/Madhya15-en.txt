@@ -971,7 +971,8 @@ tr: The devotees wept at parting from the Lord, and the Lord’s heart grew sad 
 ## 183
 w: Gadādhara Paṇḍita  remained  of the Lord  beside
 w: at Yameśvara  the Lord  whom  had made  to dwell
-tr: Gadādhara Paṇḍita, whom the Lord had settled at Yameśvara, remained near the Lord.
+tr: Gadādhara Paṇḍita, whom the Lord had settled at Yameśvara, remained near Him.
+fn: *Anubhāṣya*: Yameśvara-ṭoṭā is a garden on the sands south-west of the Śrī Mandira; there Mahāprabhu gave Gadādhara Paṇḍita a place to live. *Amṛta-pravāha-bhāṣya*: the reading “at Jaleśvara” does not seem right; in Yameśvara-ṭoṭā stands the temple of Śrī Ṭoṭā-Gopīnātha, where Gadādhara Paṇḍita lived, serving Gopīnātha and Mahāprabhu.
 
 ## 184–185
 w: Purī Gosāñi  Jagadānanda  Svarūpa Dāmodara
@@ -1042,8 +1043,9 @@ tr: “If many *sannyāsīs* come at once, I will not be able to honour them pro
 
 ## 198
 w: You Yourself  with Your own shadow  will come  to my  house
-w: sometimes  with You  will come  Svarūpa Dāmodara
-tr: “You should come to my house alone, with only Your own shadow, and sometimes Svarūpa Dāmodara will come with You.”
+w: sometimes  with You  will bring  Svarūpa Dāmodara
+tr: “You will come to my house alone, with only Your own shadow, and sometimes You may bring Svarūpa Dāmodara with You.”
+fn: The edition reads *ānibe* (“will bring”); the earlier text had *āsibena* (“will come”).
 
 ## 199
 w: of the Lord  the sign  receiving  joyful  mind
@@ -1058,7 +1060,7 @@ tr: The Bhaṭṭācārya’s wife, known as Ṣāṭhī’s mother, was a great
 ## 201
 w: home  coming  the Bhaṭṭācārya  to her  order  gave
 w: in joy  Ṣāṭhī’s  mother  cooking  set going
-tr: Coming home, the Bhaṭṭācārya told her the news, and Ṣāṭhī’s mother joyfully began to cook.
+tr: When the Bhaṭṭācārya came home, he asked her to cook, and Ṣāṭhī’s mother joyfully set about it.
 
 ## 202
 w: of the Bhaṭṭācārya  in the house  all  provisions  are  in plenty
@@ -1078,7 +1080,7 @@ tr: To the south of the kitchen were two rooms for offering food. In one of them
 ## 205
 w: the other  room  of Mahāprabhu  the meal  for the sake of
 w: in a secluded place  had made  Bhaṭṭa  newly  making
-tr: The other room, in a secluded spot, Bhaṭṭa had newly built for Mahāprabhu’s meals.
+tr: The other room was for Mahāprabhu’s meals; the Bhaṭṭa had newly built it in a secluded spot.
 
 ## 206
 w: outside  one  door  of it  for the Lord  to enter
