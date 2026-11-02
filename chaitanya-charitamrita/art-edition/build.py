@@ -58,6 +58,9 @@ def md_inline(s):
     return hyph(s)
 
 
+CLOSING = []
+
+
 def read_comm(path):
     """Разделы «## N» → список элементов {t: p|gloss|poem, h: html}; «### …» → подзаголовок (строки через <br>)."""
     if not os.path.exists(path):
@@ -101,6 +104,8 @@ def read_comm(path):
                 secs[key].append({'t': 'poem', 'h': ''.join(out[i:i + 2])})
         else:
             p = ' '.join(x.strip() for x in rest)
+            if p.startswith('Так заканчивается'):
+                CLOSING.append(md_inline(p)); continue
             if not secs[key]:
                 p = re.sub(r'^\d+(?:[–-]\d+)?\.\s+', '', p)              # «15. …» — номер заменяет метка
             secs[key].append({'t': 'p', 'h': md_inline(p)})
@@ -184,7 +189,7 @@ def main():
     ncomm = sum(1 for v in verses if any(c['label'] != 'Шрила Б. Р. Шридхар Махарадж' for c in v['comm']))
     print(f'стихов: {len(verses)}; с комментарием АПБ/Анубхашьи: {ncomm}; резюме главы: {"есть" if intro["summary"] else "нет"}')
     profiles = json.load(open(os.path.join(HERE, 'art', 'profiles.json'), encoding='utf-8'))
-    data = {'meta': meta, 'verses': verses, 'intro': intro, 'anchors': ANCHORS, 'profiles': profiles, 'final': True}
+    data = {'meta': meta, 'verses': verses, 'intro': intro, 'closing': CLOSING, 'anchors': ANCHORS, 'profiles': profiles, 'final': True}
     html = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>{meta['book']}. {meta['lila']}, {meta['chapter']}</title>
 <link rel="stylesheet" href="book.css"></head><body><div id="book"></div>
 <script>const DATA = {json.dumps(data, ensure_ascii=False)};</script>

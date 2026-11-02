@@ -7,7 +7,7 @@ const MM = 96 / 25.4;
 const G = { top: 20, bot: 17, inner: 21, outer: 17, gap: 7 };
 const P = DATA.profiles;
 const root = document.getElementById('book');
-let pages, log, cur, deferred, versePage, CFG, TIGHT = 1e9;
+let pages, log, cur, deferred, versePage, CFG, TIGHT = 1e9, BAL = null;
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const el = (tag, cls, html) => { const e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; };
@@ -131,6 +131,7 @@ function makePage(idx) {
     if (d.type === 'goswamis') { bottom = G.bot + goswamisBand(pg, left, width, d.compact); pg.tag.push('goswamis'); }
     if (d.type === 'banner') { top = vaishnavaBanner(pg); pg.tag.push('banner'); }
   }
+  if (BAL && BAL.idx === idx) bottom = 297 - top - BAL.h;
   const cw = (width - G.gap) / 2;
   [left, left + cw + G.gap].forEach(l => {
     const c = el('div', 'col'); c.style.cssText = `left:${l}mm;width:${cw}mm;top:${top}mm;bottom:${bottom}mm`; e.appendChild(c); pg.cols.push(c);
@@ -319,6 +320,8 @@ function layout() {
   root.innerHTML = ''; pages = []; log = []; deferred = []; versePage = {};
   const p0 = makePage(0); cur = { page: p0, ci: 0, col: p0.cols[0] };
   for (const b of buildBlocks()) place(b);
+  if (DATA.closing && DATA.closing.length)
+    place({ kind: 'head', el: el('div', 'closing', DATA.closing.map(c => `<div>${c}</div>`).join('')) });
   let guard = 0; while (deferred.length && guard++ < 5) nextCol();
   if (DATA.final) finalPage();
 }
@@ -373,6 +376,19 @@ async function run() {
   const lastText = pages.filter(p => !p.tag.includes('final')).pop();
   const used = lastText.cols.reduce((a, c) => a + (contentBottom(c) - c.getBoundingClientRect().top) / MM, 0);
   if (lastText.idx > 2 && used < 45) { TIGHT = lastText.idx - 2; layout(); log.push('хвост уплотнён со стр. ' + (TIGHT + 1)); }
+  // последняя страница: выровнять две колонки по высоте
+  const lp = pages.filter(p => !p.tag.includes('final')).pop();
+  const h0 = (contentBottom(lp.cols[0]) - lp.cols[0].getBoundingClientRect().top) / MM;
+  const h1 = (contentBottom(lp.cols[1]) - lp.cols[1].getBoundingClientRect().top) / MM;
+  const full = (lp.cols[0].getBoundingClientRect().height) / MM;
+  if (h1 < full - 40 && pages.length) {
+    const n0 = pages.length;
+    for (let t = Math.ceil((h0 + h1) / 2) + 4; t <= full; t += 6) {
+      BAL = { idx: lp.idx, h: t }; layout();
+      if (pages.length === n0) { log.push('последняя страница сбалансирована: ' + t + ' мм'); break; }
+    }
+    if (pages.length !== n0) { BAL = null; layout(); }
+  }
   await Promise.all([...document.images].map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
   window.__report = {
     passes, anchors: status, log,
