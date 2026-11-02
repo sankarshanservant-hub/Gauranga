@@ -556,6 +556,60 @@ See in the *Ujjvala-nīlamaṇi* the chapters on the kinds of heroines (*nāyik�
 
 See Madhya, Chapter 8, verse 110.
 
+## 164
+
+> Subheading: A detailed explanation of the greatness of *mahābhāva*, the essence and the utmost limit [of *prema*] —
+
+## 165
+
+*Adhirūḍha-mahābhāva*: “When the *anubhāvas* attain a certain special distinction beyond the *anubhāvas* named for *rūḍha*, that is called *adhirūḍha*.” (*Ujjvala-nīlamaṇi*, section on the *sthāyi-bhāva*, 123) When the *sāttvika-anubhāvas* that appear with the signs of *rūḍha-bhāva* attain an unprecedented distinction, those *sāttvika-bhāvas*, having attained an indescribable distinction, are called *adhirūḍha-mahābhāva*.
+
+## 167
+
+> Subheading: Śrī Rādhikā, adorned with all the ornaments of *bhāva* that give Kṛṣṇa complete happiness —
+
+## 168
+
+*Kila-kiñcita*: see verse 174 below in this chapter. *Kuṭṭamita*: see verse 197 below. *Vilāsa*: see verse 187 below. *Lalita*: see verse 192 below.
+
+*Bibboka*: “Disregard even for what is desired, out of pride and *māna*, is *bibboka*.” (*Ujjvala-nīlamaṇi*, section on the *anubhāvas*, 75) That is, disregard, out of pride and *māna*, for the Most Beloved or for something He has given is called *bibboka*.
+
+*Moṭṭāyita*: “When, on remembering the beloved, on talk of him and the like, longing becomes manifest in a heart absorbed in feeling for him, that is called *moṭṭāyita*.” (*Ujjvala-nīlamaṇi*, section on the *anubhāvas*) That is, the longing that arises in the heart from thoughts of the Most Beloved born of remembering Him and of talk about Him is *moṭṭāyita*.
+
+*Maugdhya*: “Asking before the beloved about something one knows, as if one did not know, is called *maugdhya*.” (*Ujjvala-nīlamaṇi*, section on the *anubhāvas*) That is, when the heroine before her beloved, though she knows something, makes a show of not knowing and asks, that is *maugdhya*.
+
+*Cakita*: “Great fear before the beloved, even where there is nothing to fear, is *cakita*.” (*Ujjvala-nīlamaṇi*, section on the *anubhāvas*) That is, when the heroine, without being afraid, makes a show before her beloved of being badly frightened, that is *cakita*.
+
+## 169
+
+> Subheading: Kṛṣṇa's deep happiness at seeing the form of Śrī Rādhā, who fulfills Kṛṣṇa's desires and is adorned with many ornaments of *bhāva* —
+
+See Ādi, Chapter 4, verses 243, 250 and 256.
+
+## 170
+
+> Subheading: Where Śrī Rādhā's *kila-kiñcita* *bhāva* appears —
+
+## 174
+
+> Subheading: The definition of the *kila-kiñcita* *bhāva* — (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 71)
+
+**harṣāt** (*harṣaḥ eva hetuḥ tasmāt* — from joy as the cause) **garvābhilāṣa-rudita-smitāsūyā-bhaya-krudhām** (of pride and the rest, the seven *bhāvas*) **saṅkarīkaraṇam** (blending, simultaneous manifestation) **kila-kiñcitam** **ucyate**.
+
+## 175
+
+> Subheading: The seven *bhāvas*, pride and the rest, combine in it at once, and so the *mahābhāva* just named arises —
+
+When the seven *bhāvas*, pride and the rest, join the root cause, joy, the combination of these eight *bhāvas* produces the *kila-kiñcita* *mahābhāva*.
+
+## 178
+
+> Subheading: A comparison with a sweet drink (*pānā*) —
+
+## 179
+
+> Subheading: Kṛṣṇa's deepest happiness at seeing the beauty of Śrī Rādhā's *kila-kiñcita* *bhāva* —
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.

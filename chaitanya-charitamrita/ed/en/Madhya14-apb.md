@@ -80,6 +80,28 @@ Thus Śrī Kṛṣṇa — He whose desires are always fulfilled (*satya-kāma*)
 
 The *gopīs* are of two kinds, *vāmā* and *dakṣiṇā*. Among the *gopīs* the best is Rādhā-ṭhākurāṇī, a mine of the jewels of the *prema* of pure *ujjvala-rasa*. By age She is *madhyā*, by temperament *samā*, and always *vāmā*. It is from Her contrary (*vāmya*) nature that *māna* arises.
 
+## 165
+
+*Dagdhavān hema*: blazing, that is, red-hot gold.
+
+## 167
+
+*Sāttvika*: the *sāttvika-vikāras* (spiritual transformations) are of eight kinds: (1) becoming stunned (*stambha*), (2) perspiration (*sveda*), (3) hair standing on end (*romāñca*), (4) faltering of the voice (*svara-bhaṅga*), (5) trembling (*vepathu*), (6) change of color (*vaivarṇya*), (7) tears (*aśru*) and (8) fainting (*pralaya*).
+
+*Vyabhicārī*: the *vyabhicārī*, or *sañcārī*, *bhāvas* are thirty-three: (1) *nirveda*, (2) *viṣāda*, (3) *dainya*, (4) *glāni*, (5) *śrama*, (6) *mada*, (7) *garva*, (8) *śaṅkā*, (9) *trāsa*, (10) *āvega*, (11) *unmāda*, (12) *apasmāra*, (13) *vyādhi*, (14) *moha*, (15) *mati*,[^167-1] (16) *ālasya*, (17) *jāḍya*, (18) *vrīḍā*, (19) *avahitthā*, (20) *smṛti*, (21) *vitarka*, (22) *cintā*, (23) *mati*, (24) *dhṛti*, (25) *harṣa*, (26) *autsukya*, (27) *augrya*, (28) *amarṣa*, (29) *asūyā*, (30) *cāpalya*, (31) *nidrā*, (32) *supti* and (33) *prabodha*.
+
+The ornaments that are *bhāvas* are twenty: (a) *aṅgaja* (born of the body) — (1) *bhāva*, (2) *hāva*, (3) *helā*; (b) *ayatnaja* (arising without effort) — (4) *śobhā*, (5) *kānti*, (6) *dīpti*, (7) *mādhurya*, (8) *pragalbhatā*, (9) *audārya*, (10) *dhairya*; (c) *svabhāvaja* (born of nature) — (11) *līlā*, (12) *vilāsa*, (13) *vicchitti*, (14) *vibhrama*, (15) *kila-kiñcita*, (16) *moṭṭāyita*, (17) *kuṭṭamita*, (18) *bibboka*, (19) *lalita* and (20) *vikṛta*.
+
+## 171–173
+
+When, seeing Śrīmatī's ornaments of feeling, Kṛṣṇa wants to touch Her, He arranges this pastime either on the road to the ferry crossing (*dāna-ghāṭi*) or in the flower forest. On the road to the *dāna-ghāṭi* the pastime goes like this: standing on the road along which Śrīmatī is going with Her wares, or at the crossing, Kṛṣṇa says, “Until You pay the toll, I forbid You to go along this road,” and on this pretext He begins the pastime of *dāna-keli* (the toll-collecting game). And when Rādhikā goes to gather flowers, Kṛṣṇa, posing as the owner of the flower garden, says, “You are stealing My flowers,” and begins a pastime. In such places and at such times Śrī Rādhā's *kila-kiñcita* *bhāva* arises.
+
+## 174
+
+The blending (*saṅkarīkaraṇa*), that is, the mixing, of seven *bhāvas* — pride, longing, weeping, laughter, jealous displeasure (*asūyā*), fear and anger — together with joy is called the *kila-kiñcita* *bhāva*.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
+
+[^167-1]: The edition (scan checked) reads *mati* here, as in item 23; in the list of the *Bhakti-rasāmṛta-sindhu* this place belongs to *mṛti* (a deathlike swoon); apparently a misprint.
