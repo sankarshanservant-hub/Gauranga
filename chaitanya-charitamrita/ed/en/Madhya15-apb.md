@@ -19,3 +19,15 @@ See *Śrī Caitanya-bhāgavata*, Antya-khaṇḍa, chapter 9.
 ## 43
 
 Gadādhara — Gadādhara dāsa of Āṛiyādaha.
+
+## 88
+
+*Huḍuma* — a kind of grain; puffed *khai* made from it is especially common in Utkala (in East Bengal *muḍiki* is called *huḍuma*).
+
+## 90
+
+*Kāśamdi* — the same as *kāsundi*.
+
+## 96
+
+*Sarakhela* — a guardian, a caretaker.

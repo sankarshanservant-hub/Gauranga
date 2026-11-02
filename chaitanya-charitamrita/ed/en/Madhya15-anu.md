@@ -168,10 +168,86 @@ In fact, no authoritative book records that Śrīman Mahāprabhu, the supremely 
 
 > Subheading: The Lord reproaches Himself for taking the dress of a *sannyāsī*, contrary to the mood of parental love —
 
+By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother and fell from *dharma*.
+
 ## 52
 
 > Subheading: The Lord promises to come to Māyāpura from time to time, even today, to see Śacī —
 
+## 53
+
+> Subheading: The Lord always sees Śacī, but by His *māyā* Śacī doubts it —
+
+## 54
+
+> Subheading: To make Śacī believe, the Lord tells of the events of one day —
+
+*Śālyanna* — rice from *śāli* grain. *Bhṛṣṭa paṭola-nimba-pāta* — fried *paṭolas* with *nīm* leaves.
+
+## 62
+
+*Bhājana* — a container, a vessel.
+
+## 63
+
+Īśāna — see Ādi 10.110.
+
+## 66
+
+> Subheading: On the last Vijayā-daśamī too the Lord ate what His mother had cooked —
+
+## 67
+
+> Subheading: The Lord is overwhelmed at parting from the devotees —
+
+## 68
+
+> Subheading: The Lord, subject to love, describes Rāghava Paṇḍita's pure service to Kṛṣṇa —
+
+## 70
+
+> Subheading: The wonderful variety of Rāghava's coconut offerings —
+
+## 79
+
+> Subheading: The story of one day —
+
+## 81
+
+*Upara-bhite* — on the upper part of the wall. *Teṅho* — Rāghava Paṇḍita's servant.
+
+## 81–83
+
+Śrī Rāghava Paṇḍita was not like a man sunk in *karma* and sick with the mundane “disease of cleanliness,” nor like a mundane *kaniṣṭha* devotee who thinks in terms of duality and “considers the earth worshipable”[^81-83-1] — that is, attributes spirit to matter and lives by the speculations of the mind. He was an eternally perfect servant of Kṛṣṇa. Absorbed in the mood of transcendental service, free from the slightest scent of mundane desire, he served the object of his worship at every moment. Selfish devotees, on the other hand, whose devotion is mixed with *karma* and tainted, have no understanding of transcendental service. If they imitate his outward conduct and deliberate over artificial mundane purity and impurity, that alone does not show that they have pure devotion to Kṛṣṇa or a desire to please Kṛṣṇa: “In the transcendental there is no notion of things as good or bad. … In duality the notion of good and bad is all a speculation of the mind; ‘this is good, this is bad’ — all this is illusion.” (See Antya 4.174, 176 and *Śrīmad-Bhāgavatam* 11.28.4.)
+
+## 84
+
+> Subheading: Rāghava's wonderful, pure service to Kṛṣṇa — in all the world —
+
+## 89
+
+*Kṣīra-odana* — *pāyasa* of rice cooked in milk.
+
+## 92
+
+> Subheading: The Lord honors all the devotees, each as befits him —
+
+## 93
+
+> Subheading: Śivānanda is ordered to look after Vāsudeva Datta, who saves nothing —
+
+Śrī Śivānanda Sena and Vāsudeva Datta Ṭhākura both lived at that time in Kumārahaṭṭa, or Hālisahara, and in Kāñcaḍāpāḍā.
+
+## 95
+
+> Subheading: Instruction to a householder Vaiṣṇava on his worldly duties —
+
+## 97
+
+> Subheading: The Lord orders that all the devotees be brought to Purī every year, with the tolls at the checkpoints settled —
+
 ---
 
 [^11-1]: The first “Ramā” and “Śivā” are feminine vocatives (*rame*, *śive*): Ramā (Lakṣmī) and Śivā (Pārvatī).
+
+[^81-83-1]: *Śrīmad-Bhāgavatam* 10.84.13.
