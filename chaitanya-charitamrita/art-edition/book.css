@@ -11,7 +11,7 @@
 @page { size: 210mm 297mm; margin: 0; }
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; background: #888; }
-body { font-family: 'Gentium', serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: 'Gentium', 'NotoBn', serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
 .page { width: 210mm; height: 297mm; position: relative; overflow: hidden; background: var(--paper); break-after: page; }
 .page:last-child { break-after: auto; }
@@ -45,7 +45,12 @@ body { font-family: 'Gentium', serif; color: var(--ink); -webkit-print-color-adj
 .cm.cont { text-indent: 0; }
 .split-a { text-align-last: justify !important; }
 .lbl { font-family: 'Cormorant', serif; font-weight: 700; font-size: 9.6pt; letter-spacing: .12em; text-transform: uppercase; color: var(--gold); }
-.cm.gloss { text-indent: 0; padding-left: 3mm; }
+.cm.gloss { text-indent: -3.5mm; padding-left: 3.5mm; text-align: left; }
+.cm.gloss.first { text-indent: -3.5mm; }
+.poem { font-style: italic; font-size: 9.6pt; line-height: 1.36; margin: 0 0 1.6mm 5mm; color: #3a2f22; }
+.poem .pl { display: block; padding-left: 4mm; text-indent: -4mm; }
+.poem .pl.ind { padding-left: 10mm; }
+.sums.poemh { margin: 3.5mm 0 1.6mm; }
 .vend { height: 4.2mm; }
 
 /* краткое содержание */

@@ -59,31 +59,51 @@ def md_inline(s):
 
 
 def read_comm(path):
-    """{'0': [абз.], '12': [...], ...}, подзаголовки {'12': '...'}"""
+    """Разделы «## N» → список элементов {t: p|gloss|poem, h: html}; «### …» → подзаголовок (строки через <br>)."""
     if not os.path.exists(path):
         return {}, {}
     secs, subs, key = {}, {}, None
     text = open(path, encoding='utf-8').read()
+    text = re.sub(r'<!--.*?-->', '', text, flags=re.S)
     for block in re.split(r'\n\s*\n', text):
-        b = block.strip()
-        if not b:
+        if not block.strip():
             continue
-        lines = b.split('\n')
+        lines = [l for l in block.split('\n') if l.strip()]
         rest = []
         for ln in lines:
-            m = re.match(r'^##\s+(\S+)\s*$', ln.strip())
-            if m and not ln.startswith('###'):
+            st = ln.strip()
+            m = re.match(r'^##\s+(\S+)\s*$', st)
+            if m:
                 key = m.group(1).replace('-', '–'); secs.setdefault(key, []); continue
-            m = re.match(r'^###\s+(.+)$', ln.strip())
+            m = re.match(r'^###\s+(.+)$', st)
             if m and key is not None:
-                subs[key] = m.group(1).strip(); continue
+                subs[key] = (subs[key] + '<br>' if key in subs else '') + md_inline(m.group(1).strip()); continue
+            if st.startswith('# ') or key is None:
+                continue
             rest.append(ln)
         if key is None or not rest:
             continue
-        para = ' '.join(x.strip() for x in rest)
-        if para.startswith('#') or para.startswith('>'):
-            para = para.lstrip('#> ').strip()
-        secs[key].append(para)
+        if re.fullmatch(r'\(“[^”]+”\)', ' '.join(x.strip() for x in rest)):
+            continue                                              # служебная строка-заголовок издания
+        hard = len(rest) > 1 and any(l.endswith('  ') for l in rest[:-1])
+        if hard and re.sub(r'^\d+(?:[–-]\d+)?\.\s+', '', rest[0].strip()).startswith('**'):
+            for k, l in enumerate(rest):
+                l = l.strip()
+                if k == 0 and not secs[key]:
+                    l = re.sub(r'^\d+(?:[–-]\d+)?\.\s+', '', l)
+                secs[key].append({'t': 'gloss', 'h': md_inline(l)})
+        elif hard:
+            out = []
+            for l in rest:
+                h = md_inline(l.strip())
+                out.append(f'<span class="pl ind">{h}</span>' if re.match(r'^\s{2,}', l) else f'<span class="pl">{h}</span>')
+            for i in range(0, len(out), 4):                        # строфы по 4 строки — неразрывные блоки
+                secs[key].append({'t': 'poem', 'h': ''.join(out[i:i + 4])})
+        else:
+            p = ' '.join(x.strip() for x in rest)
+            if not secs[key]:
+                p = re.sub(r'^\d+(?:[–-]\d+)?\.\s+', '', p)              # «15. …» — номер заменяет метка
+            secs[key].append({'t': 'p', 'h': md_inline(p)})
     return secs, subs
 
 
@@ -135,20 +155,21 @@ def main():
         v['comm'] = []
     apb, _ = read_comm(os.path.join(CC, 'ed', 'ru', 'Adi01-apb.md'))
     anu, anu_subs = read_comm(os.path.join(CC, 'ed', 'ru', 'Adi01-anu.md'))
-    summary = [md_inline(p) for p in apb.pop('0', [])]
+    a0, n0 = apb.pop('0', []), anu.pop('0', [])
+    intro = {'summary': [x for x in a0 if x['t'] == 'p'], 'apbPoem': [x for x in a0 if x['t'] == 'poem'],
+             'anuPoem': [x for x in n0 if x['t'] == 'poem']}
     for label, secs in (('Амрита-праваха-бхашья', apb), ('Анубхашья', anu)):
-        for key, paras in secs.items():
-            if key == '0' or not paras:
+        for key, items in secs.items():
+            if not items:
                 continue
             i = target_verse(key, verses)
             if i is None:
                 print('!! раздел без стиха:', label, key); continue
-            verses[i]['comm'].append({'label': label, 'paras': [md_inline(p) for p in paras],
-                                      'gloss': [p.startswith('**') for p in paras]})
+            verses[i]['comm'].append({'label': label, 'items': items})
     for key, sub in anu_subs.items():
         i = target_verse(key.split('–')[0], verses)
         if i is not None:
-            verses[i]['sub'] = md_inline(sub)
+            verses[i]['sub'] = sub
     for n, sub in VCD_SUBS.items():
         for v in verses:
             if v['n'] == n and not v.get('sub'):
@@ -156,14 +177,14 @@ def main():
     for n, paras in sridhar_comments().items():
         for v in verses:
             if v['n'] == n:
-                v['comm'].append({'label': 'Шрила Б. Р. Шридхар Махарадж', 'paras': [hyph(p) for p in paras], 'gloss': []})
+                v['comm'].append({'label': 'Шрила Б. Р. Шридхар Махарадж', 'items': [{'t': 'p', 'h': hyph(p)} for p in paras]})
     for v in verses:
         if v['n'] in FLOATS: v['floats'] = [FLOATS[v['n']]]
         if v['n'] in FIGS: v['figs'] = [FIGS[v['n']]]
     ncomm = sum(1 for v in verses if any(c['label'] != 'Шрила Б. Р. Шридхар Махарадж' for c in v['comm']))
-    print(f'стихов: {len(verses)}; с комментарием АПБ/Анубхашьи: {ncomm}; резюме главы: {"есть" if summary else "нет"}')
+    print(f'стихов: {len(verses)}; с комментарием АПБ/Анубхашьи: {ncomm}; резюме главы: {"есть" if intro["summary"] else "нет"}')
     profiles = json.load(open(os.path.join(HERE, 'art', 'profiles.json'), encoding='utf-8'))
-    data = {'meta': meta, 'verses': verses, 'summary': summary, 'anchors': ANCHORS, 'profiles': profiles, 'final': True}
+    data = {'meta': meta, 'verses': verses, 'intro': intro, 'anchors': ANCHORS, 'profiles': profiles, 'final': True}
     html = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>{meta['book']}. {meta['lila']}, {meta['chapter']}</title>
 <link rel="stylesheet" href="book.css"></head><body><div id="book"></div>
 <script>const DATA = {json.dumps(data, ensure_ascii=False)};</script>

@@ -7,7 +7,7 @@ const MM = 96 / 25.4;
 const G = { top: 20, bot: 17, inner: 21, outer: 17, gap: 7 };
 const P = DATA.profiles;
 const root = document.getElementById('book');
-let pages, log, cur, deferred, versePage, CFG;
+let pages, log, cur, deferred, versePage, CFG, TIGHT = 1e9;
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const el = (tag, cls, html) => { const e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; };
@@ -28,7 +28,7 @@ function poly(name, side) {
 
 /* ---------------- декор ---------------- */
 function opener(page) {
-  const H = 150;
+  const H = 160;
   const b = el('div', 'op'); b.style.height = H + 'mm';
   b.appendChild(el('div', 'sky'));
   const r = rng(7);
@@ -37,7 +37,7 @@ function opener(page) {
     s.style.cssText = `left:${(r() * 100).toFixed(2)}%;top:${(r() * 70).toFixed(2)}%;width:${sz}mm;height:${sz}mm;opacity:${(.3 + r() * .6).toFixed(2)}`;
     b.appendChild(s);
   }
-  const w = 150, h = w / P.nab_devotees.aspect, x = (210 - w) / 2, top = H - 8 - h;
+  const w = 132, h = w / P.nab_devotees.aspect, x = (210 - w) / 2, top = H - 7 - h;
   // свечение факелов (доли ширины/высоты рисунка, измерено по картинке)
   [[0.29, 0.07, 30, 'rgba(255,170,70,.8)'], [0.70, 0.13, 28, 'rgba(255,170,70,.75)'], [0.5, 0.55, 120, 'rgba(255,130,150,.16)']].forEach(([fx, fy, d, c]) => {
     const g = el('div', 'glow'); g.style.cssText = `left:${x + fx * w - d / 2}mm;top:${top + fy * h - d / 2}mm;width:${d}mm;height:${d}mm;background:${c}`; b.appendChild(g);
@@ -61,8 +61,8 @@ function panoDecor(page, c) {
   return bandH;
 }
 
-function goswamisBand(page, left, width) {
-  const H = 76, bottom = G.bot;
+function goswamisBand(page, left, width, compact) {
+  const H = compact ? 60 : 76, bottom = G.bot;
   const b = el('div', 'band goswamis'); b.style.cssText = `left:${left}mm;width:${width}mm;height:${H}mm;bottom:${bottom}mm`;
   const figs = [
     { f: 'rupa_sanatana', h: 50, cap: 'Рупа и Санатана' },
@@ -70,6 +70,7 @@ function goswamisBand(page, left, width) {
     { f: 'gopal_bhatta', h: 53, cap: 'Гопала Бхатта' },
     { f: 'raghunath_jiva', h: 47, cap: 'Рагхунатха дас и Джива' },
   ];
+  if (compact) figs.forEach(o => { o.h *= 0.76; });
   let ws = figs.map(o => o.h * P[o.f].aspect), gap = 4;
   let tot = ws.reduce((a, c) => a + c, 0) + gap * (figs.length - 1);
   const k = Math.min(1, (width - 10) / tot); ws = ws.map(w => w * k); tot = tot * k;
@@ -109,7 +110,9 @@ function finalPage() {
   e.appendChild(img(A('full_kk_writer.jpg'), 'position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover'));
   e.appendChild(el('div', 'layer scrim'));
   const v = DATA.verses[DATA.verses.length - 1];
-  e.appendChild(el('div', 'quote', `<div class="bnq">${v.bn.map(esc).join('<br>')}</div><div class="ruq">${v.tr.replace(/­/g, '')}</div><div class="src">${DATA.meta.lila} 1.${v.n}</div>`));
+  const cm = (v.comm || []).map(c => c.items.map((it, i) => `<p class="qc">${i === 0 ? `<span class="lbl">${c.label}.</span> ` : ''}${it.h}</p>`).join('')).join('');
+  e.appendChild(el('div', 'quote', `<div class="vh"><span>Стих ${v.n}</span></div><div class="bnq">${v.bn.map(esc).join('<br>')}</div><div class="tlq">${v.tl.map(esc).join('<br>')}</div><div class="ruq">${v.tr}</div>${cm}`));
+  pages[pages.length - 1].colVerses = [[v.n], []];
 }
 
 /* ---------------- страницы и колонки ---------------- */
@@ -125,7 +128,7 @@ function makePage(idx) {
   if (idx === 0) { top = opener(pg) + 6; headers = false; pg.tag.push('opener'); }
   for (const d of (CFG[idx] || [])) {
     if (d.type === 'pano') { bottom = G.bot - 8 + panoDecor(pg, d) + 6; pg.tag.push('pano:' + d.pan + ':' + d.half); }
-    if (d.type === 'goswamis') { bottom = G.bot + goswamisBand(pg, left, width); pg.tag.push('goswamis'); }
+    if (d.type === 'goswamis') { bottom = G.bot + goswamisBand(pg, left, width, d.compact); pg.tag.push('goswamis'); }
     if (d.type === 'banner') { top = vaishnavaBanner(pg); pg.tag.push('banner'); }
   }
   const cw = (width - G.gap) / 2;
@@ -150,6 +153,7 @@ function contentBottom(c) {
 const fits = c => contentBottom(c) <= colBottom(c) + 0.6;
 
 function justifyCol(c) {
+  if (cur.page.idx >= TIGHT) return;
   const slack = (colBottom(c) - contentBottom(c)) / MM;
   if (slack <= 0.5 || slack > 45) return;
   const pts = [...c.querySelectorAll(':scope > .vend, :scope > .colfig')];
@@ -187,9 +191,28 @@ function cutHTML(tk, k) { // первые k слов | остальное
 const lineH = p => parseFloat(getComputedStyle(p).lineHeight);
 const linesOf = p => Math.round(p.getBoundingClientRect().height / lineH(p));
 
-function splitBlock(col, node, kind) {
+function splitBlock(col, node, kind, free) {
+  if (kind === 'head' || kind === 'gloss') return null;
   const p = kind === 'core' ? node.querySelector('.tr') : node;
   if (!p) return null;
+  const r = splitText(col, node, kind, p);
+  if (r || kind !== 'core' || free < 30) return r;
+  // крайняя мера: стих (оригинал + транслитерация) внизу колонки, перевод — в начале следующей
+  const note = node.querySelector('.note');
+  p.remove(); if (note) note.remove();
+  if (fits(col)) { const wrap = el('div', 'vcore cont'); wrap.appendChild(p); if (note) wrap.appendChild(note); return wrap; }
+  node.appendChild(p); if (note) node.appendChild(note);
+  const tl = node.querySelector('.tl');
+  if (tl && free >= 34) {
+    const moved = [...node.children].slice([...node.children].indexOf(tl));
+    moved.forEach(x => x.remove());
+    if (fits(col)) { const wrap = el('div', 'vcore cont'); moved.forEach(x => wrap.appendChild(x)); return wrap; }
+    moved.forEach(x => node.appendChild(x));
+  }
+  return null;
+}
+
+function splitText(col, node, kind, p) {
   const full = p.innerHTML, tk = tokens(full);
   const nWords = tk.filter(t => !/^\s+$/.test(t) && t[0] !== '<').length;
   const L = linesOf(p);
@@ -209,14 +232,15 @@ function splitBlock(col, node, kind) {
 }
 
 function place(b) {
-  if (b.kind === 'gap') { if (!cur.col.children.length) return; cur.col.appendChild(b.el); if (!fits(cur.col)) cur.col.removeChild(b.el); return; }
+  if (b.kind === 'gap') { if (!cur.col.children.length) return; if (cur.page.idx >= TIGHT) b.el.style.height = '1.6mm'; cur.col.appendChild(b.el); if (!fits(cur.col)) cur.col.removeChild(b.el); return; }
   if (b.kind === 'fig') { cur.col.appendChild(b.el); if (!fits(cur.col)) { cur.col.removeChild(b.el); deferred.push(b); } return; }
   let node = b.el;
   for (let g = 0; g < 12; g++) {
+    const free = (colBottom(cur.col) - contentBottom(cur.col)) / MM;
     cur.col.appendChild(node);
     const isStart = node === b.el;
     if (fits(cur.col)) { if (isStart && b.v) mark(b.v); return; }
-    const rest = splitBlock(cur.col, node, isStart ? b.kind : 'para');
+    const rest = splitBlock(cur.col, node, isStart ? b.kind : 'para', free);
     if (rest) { if (isStart && b.v) mark(b.v); nextCol(); node = rest; continue; }
     cur.col.removeChild(node);
     if (!cur.col.children.length) { log.push('не помещается в пустую колонку: ' + (b.v ? 'стих ' + b.v.n : b.kind)); cur.col.appendChild(node); if (isStart && b.v) mark(b.v); return; }
@@ -240,14 +264,32 @@ function floatNode(f) {
   return node;
 }
 
+function itemBlocks(items, label, out) {
+  items.forEach((it, i) => {
+    const lab = (i === 0 && label) ? `<span class="lbl">${label}.</span> ` : '';
+    if (it.t === 'poem') {
+      if (lab) out.push({ kind: 'head', el: el('p', 'cm first', lab) });
+      out.push({ kind: 'head', el: el('p', 'poem', it.h) });
+    } else out.push({ kind: it.t === 'gloss' ? 'gloss' : 'para', el: el('p', 'cm' + (i === 0 ? ' first' : '') + (it.t === 'gloss' ? ' gloss' : ''), lab + it.h) });
+  });
+}
+
 function buildBlocks() {
   const out = [];
-  const S = DATA.summary;
-  if (S && S.length) {
+  const I = DATA.intro || {};
+  if (I.summary && I.summary.length) {
     out.push({ kind: 'head', el: el('div', '', `<div class="sumh">Краткое содержание главы</div><div class="sums">«Амрита-праваха-бхашья» Шрилы Бхактивиноды Тхакура</div>`) });
-    S.forEach((p, i) => out.push({ kind: 'para', el: el('p', 'cm' + (i === 0 ? ' drop' : ''), p) }));
-    out.push({ kind: 'gap', el: el('div', 'vend') });
+    I.summary.forEach((it, i) => out.push({ kind: 'para', el: el('p', 'cm' + (i === 0 ? ' drop' : ''), it.h) }));
   }
+  if (I.apbPoem && I.apbPoem.length) {
+    out.push({ kind: 'head', el: el('div', 'sums poemh', 'Вступительные стихи «Амрита-праваха-бхашьи»') });
+    I.apbPoem.forEach(it => out.push({ kind: 'head', el: el('p', 'poem', it.h) }));
+  }
+  if (I.anuPoem && I.anuPoem.length) {
+    out.push({ kind: 'head', el: el('div', 'sums poemh', 'Вступительные стихи «Анубхашьи» Шрилы Бхактисиддханты Сарасвати') });
+    I.anuPoem.forEach(it => out.push({ kind: 'head', el: el('p', 'poem', it.h) }));
+  }
+  if (out.length) out.push({ kind: 'gap', el: el('div', 'vend') });
   const list = DATA.final ? DATA.verses.slice(0, -1) : DATA.verses;
   for (const v of list) {
     const core = el('section', 'vcore');
@@ -257,9 +299,7 @@ function buildBlocks() {
       (v.note ? `<p class="note">${esc(v.note)}</p>` : '');
     if (v.floats && v.floats.length) { core.classList.add('hasfloat'); const vh = core.querySelector('.vh'); v.floats.forEach(f => vh.after(floatNode(f))); }
     out.push({ kind: 'core', el: core, v });
-    for (const c of (v.comm || [])) {
-      c.paras.forEach((p, i) => out.push({ kind: 'para', el: el('p', 'cm' + (i === 0 ? ' first' : '') + (c.gloss && c.gloss[i] ? ' gloss' : ''), (i === 0 ? `<span class="lbl">${c.label}.</span> ` : '') + p) }));
-    }
+    for (const c of (v.comm || [])) itemBlocks(c.items, c.label, out);
     (v.figs || []).forEach(f => {
       const d = el('div', 'colfig'); d.appendChild(img(A(f.fig + '.png'), `aspect-ratio:${P[f.fig].aspect}`));
       if (f.cap) d.appendChild(el('div', 'cap', f.cap));
@@ -279,28 +319,43 @@ function layout() {
   if (DATA.final) finalPage();
 }
 
-function decide(prev) {
-  const cfg = {}, used = new Set(), status = [];
+const spreadOf = i => Math.floor((i + 1) / 2);   // 0 — открытие; далее пары (1,2), (3,4)…
+function withAnchor(cfg, a, c) {
+  const n = JSON.parse(JSON.stringify(cfg));
+  if (a.type === 'spread') {
+    (n[c] ||= []).push({ type: 'pano', pan: a.pan, band: a.band, half: 'l' });
+    (n[c + 1] ||= []).push({ type: 'pano', pan: a.pan, band: a.band, half: 'r' });
+  } else (n[c.p ?? c] ||= []).push({ type: a.type, compact: !!c.compact });
+  return n;
+}
+const busy = (cfg, i) => (cfg[i] || []).length > 0;
+function okAnchor(a, c, q) { return a.type === 'spread' ? (q === c || q === c + 1) : spreadOf(q) === spreadOf(c.p); }
+
+/* якоря — по порядку текста; для каждого перебираем ближайшие варианты и берём первый, где стих и иллюстрация
+   оказались на одном развороте */
+function placeAnchors() {
+  CFG = {}; const status = []; let runs = 0;
   for (const a of DATA.anchors) {
+    layout(); runs++;
     const p = versePage[a.verse];
-    if (a.type === 'spread') {
-      let L = prev.__a?.[a.id];
-      if (!(L != null && (p === L || p === L + 1))) L = p % 2 === 1 ? p : p - 1;
-      if (L < 1) L = 1;
-      while (used.has(L) || used.has(L + 1)) L += 2;
-      used.add(L); used.add(L + 1);
-      (cfg[L] ||= []).push({ type: 'pano', pan: a.pan, band: a.band, half: 'l' });
-      (cfg[L + 1] ||= []).push({ type: 'pano', pan: a.pan, band: a.band, half: 'r' });
-      (cfg.__a ||= {})[a.id] = L;
-      status.push(`${a.id}: стих ${a.verse} на стр. ${p + 1}, разворот ${L + 1}–${L + 2}` + ((p === L || p === L + 1) ? '' : ' (НЕ СОВПАЛО)'));
-    } else {
-      let q = p;
-      if (used.has(q)) { status.push(`${a.id}: конфликт на стр. ${q + 1}`); continue; }
-      used.add(q); (cfg[q] ||= []).push({ type: a.type }); (cfg.__a ||= {})[a.id] = q;
-      status.push(`${a.id}: стих ${a.verse} на стр. ${p + 1}`);
+    let cands;
+    if (a.type === 'spread') { const L = p % 2 === 1 ? p : p - 1; cands = [L, L + 2, L - 2]; }
+    else cands = [{ p }, { p, compact: 1 }, { p: p - 1 }, { p: p - 1, compact: 1 }, { p: p + 1 }];
+    cands = cands.filter(c => { const q = c.p ?? c; return q >= 1 && !busy(CFG, q) && !(a.type === 'spread' && busy(CFG, q + 1)); });
+    let best = null, bestQ = null, bestD = 1e9;
+    const base = CFG;
+    for (const c of cands) {
+      CFG = withAnchor(base, a, c); layout(); runs++;
+      const q = versePage[a.verse];
+      if (okAnchor(a, c, q)) { best = c; bestQ = q; bestD = 0; break; }
+      const d = Math.abs(spreadOf(q) - spreadOf(c.p ?? c));
+      if (d < bestD) { best = c; bestQ = q; bestD = d; }
     }
+    CFG = best == null ? base : withAnchor(base, a, best);
+    status.push(`${a.id}: стих ${a.verse} → стр. ${bestQ + 1}; иллюстрация на стр. ${(best?.p ?? best) + 1}${a.type === 'spread' ? '–' + (best + 2) : (best?.compact ? ' (компактная)' : '')}${bestD ? ' (НЕ СОВПАЛО)' : ''}`);
   }
-  return { cfg, status };
+  layout(); runs++;
+  return { status, runs };
 }
 
 async function run() {
@@ -308,15 +363,12 @@ async function run() {
   document.body.appendChild(probe);
   await document.fonts.ready; await new Promise(r => setTimeout(r, 300)); await document.fonts.ready;
   probe.remove();
-  CFG = {};
-  let status = [], passes = 0;
-  for (; passes < 8; passes++) {
-    layout();
-    const d = decide(CFG);
-    status = d.status;
-    if (JSON.stringify(d.cfg) === JSON.stringify(CFG)) break;
-    CFG = d.cfg;
-  }
+  const { status, runs } = placeAnchors();
+  const passes = runs;
+  // хвост главы: если последняя текстовая страница почти пуста — уплотнить две предыдущие
+  const lastText = pages.filter(p => !p.tag.includes('final')).pop();
+  const used = lastText.cols.reduce((a, c) => a + (contentBottom(c) - c.getBoundingClientRect().top) / MM, 0);
+  if (lastText.idx > 2 && used < 45) { TIGHT = lastText.idx - 2; layout(); log.push('хвост уплотнён со стр. ' + (TIGHT + 1)); }
   await Promise.all([...document.images].map(i => i.complete ? 0 : new Promise(r => { i.onload = i.onerror = r; })));
   window.__report = {
     passes, anchors: status, log,
