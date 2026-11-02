@@ -682,7 +682,7 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 ## 213
 
-*Bhṛṣṭa-vārtākī*: fried eggplant. *Kuṣmāṇḍa-māna-cākī*: pumpkin and *māna-kacu* (a large arum root) cut into small rounds and fried.[^213-1]
+*Bhṛṣṭa-vārtākī*: fried eggplant. *Kuṣmāṇḍa-māna-cākī*: pumpkin and *māna-kacu* (a large arum root) cut into small rounds and fried.
 
 ## 214
 
@@ -700,7 +700,7 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 > Subheading: The seat and the arrangement of the offering —
 
-*Śubhra-pīṭha*: a piece of fine cloth was spread over a white wooden board (*piṁḍi*), and so the seat was prepared.[^219-1]
+*Śubhra-pīṭha*: a piece of fine cloth was spread over a white wooden board (*piṁḍi*), and so the seat was prepared.
 
 ## 221
 
@@ -908,7 +908,7 @@ The words of Yājñavalkya quoted in Śrīdhara's commentary on *Śrīmad-Bhāga
 
 The Kauravas headed by Duryodhana, led on by Karṇa, came [to the forest] for the *ghoṣa-yātrā* (the inspection of the cattle stations), and as the fruit of their own karma they were taken captive with their families by Citrasena, the king of the Gandharvas. Then Duryodhana's ministers, overcome with fear, took shelter of the Pāṇḍavas headed by Yudhiṣṭhira, who were living in the forest, and begged them for deliverance from the clutches of the Gandharvas. Remembering the earlier atrocities of Duryodhana and the others and wishing for revenge, Bhīmasena said:
 
-**mahatā** (with great) **prayatnena** (effort) **hasty-aśva-ratha-pattibhiḥ** (with elephants, horses, chariots and foot soldiers; there is also the variant reading *sannahya gaja-vājibhiḥ*) **yat** (the task — the defeat of the Kauravas headed by Duryodhana) **anuṣṭheyam** (we were to accomplish today), **gandharvaiḥ** (by the Gandharvas led by Citrasena, as the doers) **tat** **anuṣṭhitam** (has been accomplished — that is, the enemies, the Kauravas and the rest, are defeated).
+**mahatā** (with great) **prayatnena** (effort) **hasty-aśva-ratha-pattibhiḥ** (with elephants, horses, chariots and foot soldiers; there is also the variant reading *sannahya gaja-vājibhiḥ*)[^269-1] **yat** (the task — the defeat of the Kauravas headed by Duryodhana) **anuṣṭheyam** (we were to accomplish today), **gandharvaiḥ** (by the Gandharvas led by Citrasena, as the doers) **tat** **anuṣṭhitam** (has been accomplished — that is, the enemies, the Kauravas and the rest, are defeated).
 
 ## 270
 
@@ -1050,9 +1050,9 @@ By blaspheming the Lord, Amogha became an offender. The fruit of the offense was
 
 [^11-1]: The first “Ramā” and “Śivā” are feminine vocatives (*rame*, *śive*): Ramā (Lakṣmī) and Śivā (Pārvatī).
 
-[^81-83-1]: *Śrīmad-Bhāgavatam* 10.84.13.
+[^81-83-1]: The edition gives no source; it is *Śrīmad-Bhāgavatam* 10.84.13.
 
-[^106-1]: *Upadeśāmṛta* 5.
+[^106-1]: The edition does not give the verse number; it is *Upadeśāmṛta* 5.
 
 [^108-1]: The edition reads *vinā yena siddhaḥ…* and *kṛtena yenana labhate*: the particle *na* (not) has slipped into the wrong line (checked against the scan); translated by the sense (cf. *Hari-bhakti-vilāsa* 17.11).
 [^108-2]: Unclear in the scan: the last digit (“275”?).
@@ -1061,7 +1061,7 @@ By blaspheming the Lord, Amogha became an offender. The fruit of the offense was
 
 [^154-1]: In the edition this section is numbered “১৪৫” (145; scan checked): a misprint. By its place (between sections 149 and 155) and its content (the word *prabhu* and the quotation about the servant who does not leave the Lord's feet) it belongs to verse 154.
 
-[^180-1]: *Taittirīya Upaniṣad* 3.1.1; *Śvetāśvatara Upaniṣad* 6.18; *Bṛhad-āraṇyaka Upaniṣad* 3.7.22 (Mādhyandina recension); *Taittirīya Upaniṣad* 2.1.1.
+[^180-1]: The edition does not give the sources of these *śruti* texts; they are *Taittirīya Upaniṣad* 3.1.1; *Śvetāśvatara Upaniṣad* 6.18; *Bṛhad-āraṇyaka Upaniṣad* 3.7.22 (Mādhyandina recension); *Taittirīya Upaniṣad* 2.1.1.
 
 [^203-1]: In the edition couplet 203 has no number (only “॥” at the end; scan checked).
 
@@ -1071,6 +1071,4 @@ By blaspheming the Lord, Amogha became an offender. The fruit of the offense was
 
 [^274-277-1]: Unclear passage of the scan: the print reads «অচু তাত্ম-তার» (broken); apparently «অচ্যুতাত্মতার», “for lack of devotion to Acyuta (*acyutātmatā*)”; translated accordingly.
 
-[^213-1]: The verse translation reads differently: it has slices of fried pumpkin and squash, not *māna-kacu*.
-
-[^219-1]: The verse translation reads differently: it makes the cloth, not the board, white.
+[^269-1]: The edition prints «গজ রাজিভিঃ» (*gaja-rājibhiḥ*; likewise *gaja-rājiratha…* in the gloss). *Rāji* (“row”) does not fit the sense, so *vājibhiḥ* (“with horses”) is read, as in the variant known from the *Mahābhārata*. The edition’s reading was not checked against other editions.

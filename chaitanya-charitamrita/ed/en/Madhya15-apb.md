@@ -22,7 +22,7 @@ Gadādhara — Gadādhara dāsa of Eṅḍiyādaha.
 
 ## 88
 
-*Huḍuma* — a kind of grain; puffed *khai* made from it is especially common in Utkala (in East Bengal *muḍiki* is called *huḍuma*).
+*Huḍuma* — a kind of grain; puffed *khai* made from it is especially common in Utkala (in East Bengal *muḍi*, puffed rice, is called *huḍuma*).
 
 ## 90
 
