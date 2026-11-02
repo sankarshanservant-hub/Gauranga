@@ -506,9 +506,145 @@ The words of Yājñavalkya quoted in Śrīdhara's commentary on *Śrīmad-Bhāga
 
 > Subheading: (*Mahābhārata*, *Vana-parva*, chapter 241, verse 15)
 
+The Kauravas headed by Duryodhana, led on by Karṇa, came [to the forest] for the *ghoṣa-yātrā* (the inspection of the cattle stations), and as the fruit of their own karma they were taken captive with their families by Citrasena, the king of the Gandharvas. Then Duryodhana's ministers, overcome with fear, took shelter of the Pāṇḍavas headed by Yudhiṣṭhira, who were living in the forest, and begged them for deliverance from the clutches of the Gandharvas. Remembering the earlier atrocities of Duryodhana and the others and wishing for revenge, Bhīmasena said:
+
+**mahatā** (with great) **prayatnena** (effort) **hasty-aśva-ratha-pattibhiḥ** (with elephants, horses, chariots and foot soldiers; there is also the variant reading *sannahya gaja-vājibhiḥ*) **yat** (the task — the defeat of the Kauravas headed by Duryodhana) **anuṣṭheyam** (we were to accomplish today), **gandharvaiḥ** (by the Gandharvas led by Citrasena, as the doers) **tat** **anuṣṭhitam** (has been accomplished — that is, the enemies, the Kauravas and the rest, are defeated).
+
 ## 270
 
 > Subheading: The fruit of hostility to Viṣṇu and the Vaiṣṇavas — (*Śrīmad-Bhāgavatam* 10.4.46) —
+
+Kaṁsa, king of the Bhojas, could not destroy Yogamāyā, who had appeared as the daughter of his sister Devakī, and from her lips he heard the news that Viṣṇu, his old enemy, had appeared. After consulting his ministers — demons by nature, haters of Viṣṇu and the Vaiṣṇavas — he ordered the Dānavas to persecute the devotees of Viṣṇu, the *sādhus* and sages. Then Śrī Śukadeva described to Parīkṣit the fruit of such hostility to Viṣṇu and the Vaiṣṇavas:
+
+**mahad-atikramaḥ** (offense against the great — against Viṣṇu and the Vaiṣṇavas, disrespect toward them by body, mind or words, that is, *vaiṣṇava-aparādha*) **puṁsaḥ** (of a man) **āyuḥ**, **śriyam**, **yaśaḥ**, **dharmam**, **lokān** (heaven and the other worlds attained by *dharma*), **āśiṣaḥ** (all his desired **śreyāṁsi sarvāṇi** — goods, ends and means, everything auspicious) **ca** **hanti** (destroys) **eva**. See Antya 3.146 and 163.
+
+## 271
+
+> Subheading: The Lord asks Gopīnātha about the Bhaṭṭa —
+
+## 272
+
+> Subheading: Gopīnātha reports that the Bhaṭṭa and his wife are fasting because they heard the Lord blasphemed, and that Amogha is dying —
+
+## 273
+
+> Subheading: The Lord hurries to the Bhaṭṭa's house and gives Amogha good instruction —
+
+## 274
+
+> Subheading: The Lord indicates who is to be called a “brāhmaṇa” —
+
+## 276
+
+> Subheading: Only when freed from the offense of “dullness” (*jāḍya*) does [the *jīva*] utter the pure name —
+
+## 277
+
+> Subheading: [The Lord] tells Amogha to chant the name of Kṛṣṇa —
+
+## 274–277
+
+“Brahman,” “Paramātmā” and “Bhagavān,” or “Viṣṇu,” are the three manifestations of the Truth, nondual Knowledge. One who knows Brahman is called a “brāhmaṇa,” and one who knows Brahman and worships Bhagavān is called a “Vaiṣṇava.” The Truth fully manifest is “Bhagavān,” and the Truth “incompletely manifest” is “Brahman.” From the mouth of a mere brāhmaṇa only *nāmābhāsa* (a shadow of the name) arises. But a brāhmaṇa who knows his relationship (*sambandha-jñāna*) with Viṣṇu, the nondual Knowledge, can become a *bhāgavata*, a Vaiṣṇava, once he takes up the *abhidheya* — that is, once he is bound by the thread of service and worships [the Lord]. Only then is the “impurity,” the “offense” born of ignorance, removed, and the pure name rises in his mouth.
+
+Relying on *vivarta-vāda*, the impersonalists imagine five kinds of worship of Brahman with attributes, but these never point to the Truth of nondual Knowledge. The *vivarta-vādī*, priding himself on being a “brāhmaṇa,” decides that “brahminhood” is confined to a realization full of selfish desires (*sakāma*). Yet in the true nature of the *jīva* the quality of “knowing Brahman” is eternally present. When by Viṣṇu's mercy Māyāvāda falls away, the brāhmaṇa becomes an “unmixed brāhmaṇa,” a Vaiṣṇava. There is therefore no doubt that brahminhood is eternally inherent in a Vaiṣṇava. The *Garuḍa Purāṇa* says: “Better than thousands of brāhmaṇas is one who performs sacrifices (*satra-yājī*); better than thousands of sacrificers is one who has mastered all Vedānta; and above ten million knowers of all Vedānta stands a devotee of Viṣṇu.” So without brahminhood shown in conduct (*vṛtta-brāhmaṇatā*) no one can enter the path of devotion.
+
+Nondual Knowledge is present in the heart of a true brāhmaṇa. So there can be in it no envy, jealousy or rivalry born of a dualistic outlook, hostile to the eternally worshipable Viṣṇu or the Vaiṣṇava, arising from the desire for petty self-interest or the gratification of one's own material senses. Where these are present, then, because the heart is not given to Acyuta,[^274-277-1] certainly (*Śrīmad-Bhāgavatam* 11.5.3) “those who do not worship and who disregard Him fall from their position and go down” — that is, one loses one's position and falls.
+
+## 278
+
+> Subheading: Amogha is at once freed from the disease of this life and from the disease of worldly existence, and attains love for Kṛṣṇa —
+
+## 279
+
+> Subheading: Amogha begs forgiveness at the Lord's feet —
+
+## 281
+
+> Subheading: Remembering his offense, he slaps his own cheeks —
+
+## 282
+
+> Subheading: Seeing his cheeks swell, Gopīnātha stops him —
+
+## 283
+
+> Subheading: The Lord consoles him and blesses him with affection because of his relation to the Bhaṭṭa —
+
+## 284
+
+> Subheading: The Lord's love for the family of the Bhaṭṭa, His pure devotee —
+
+## 285
+
+> Subheading: [The Lord] orders Amogha to chant the name of Kṛṣṇa —
+
+## 286
+
+> Subheading: The Lord comes to the Bhaṭṭa and sits down —
+
+## 287
+
+> Subheading: Because of an offense by Amogha, a mere child, one should neither be angry nor fast —
+
+## 288
+
+> Subheading: [The Lord] asks the Bhaṭṭa to eat —
+
+## 289
+
+> Subheading: [The Lord] promises to wait until the Bhaṭṭa honors the *prasāda* —
+
+## 290
+
+> Subheading: The Bhaṭṭa voices his anger at Amogha —
+
+## 291
+
+> Subheading: [The Lord] instructs him to forgive Amogha, seeing him as a child —
+
+## 292
+
+> Subheading: By the Lord's mercy Amogha has been freed from his offense and become a Vaiṣṇava, so [the Lord] asks the Bhaṭṭa to be gracious —
+
+## 293
+
+> Subheading: The Bhaṭṭa gives up his anger —
+
+## 294
+
+> Subheading: [The Lord] tells Gopīnātha to wait and see that the Bhaṭṭa honors the *prasāda* —
+
+*Iṅho*: Sārvabhauma Bhaṭṭācārya.
+
+## 295
+
+> Subheading: The Bhaṭṭa honors the *prasāda* —
+
+## 296
+
+> Subheading: Amogha, the Lord's exclusive devotee, deeply peaceful by nature —
+
+In the *Śākhā-nirṇayāmṛta*: “I worship Amogha Paṇḍita, whom Śrī Gaura made His own, whose whole being is saturated with *prema*, his voice choked with it, his body covered with bristling hair.”
+
+## 297
+
+> Subheading: Such are the Lord's pastimes —
+
+## 298
+
+> Subheading: The Lord eats in the Bhaṭṭa's house; the Bhaṭṭa's love for the Lord —
+
+## 300
+
+> Subheading: The love of the Bhaṭṭa's wife for the Lord; for the sake of His relation with His devotees [the Lord] forgives the offense —
+
+By blaspheming the Lord, Amogha became an offender. The fruit of the offense was a deadly disease, cholera. Once he fell ill, Amogha had no chance to atone for his offense. Sārvabhauma and his wife were vessels of the Lord's boundless mercy. For their sake the Lord, instead of punishing the offender Amogha, forgave his offense, saved his life and gave him devotion to Kṛṣṇa. Sārvabhauma's wife was bound to Śrī Mahāprabhu by deep devotion. From a worldly point of view, Amogha was related to Sārvabhauma as a son-in-law in his care. So if [the Lord] had not forgiven his offense, the Bhaṭṭa himself, his guardian, would indirectly have been punished. That is why the Lord forgave him — and so revealed His majesty, His gravity and His magnanimity.
+
+## 301
+
+> Subheading: Whoever hears of the Lord's eating in the Bhaṭṭa's house attains Caitanya —
+
+*Thus ends the fifteenth chapter of the “Anubhāṣya.”*
 
 ---
 
@@ -521,3 +657,5 @@ The words of Yājñavalkya quoted in Śrīdhara's commentary on *Śrīmad-Bhāga
 [^237-1]: In the edition (scan checked), both in the verse and in the gloss, the reading is *tvayopayukta…* (“used by You”); the VCD text has *tvayopabhukta…* (“enjoyed by You”). The edition's gloss (“enjoyed by You”) matches the second reading.
 
 [^242-1]: In the edition this section stands out of place: after section 254 of the *Amṛta-pravāha-bhāṣya*, before section 261.
+
+[^274-277-1]: Unclear passage of the scan: the print reads «অচু তাত্ম-তার» (broken); apparently «অচ্যুতাত্মতার», “for lack of devotion to Acyuta (*acyutātmatā*)”; translated accordingly.
