@@ -278,7 +278,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 77
 
-*Jala-maṇḍuka-vādya*: clapping (*karatāla*) on the water with a sound like frogs croaking.
+*Jala-maṇḍuka-vādya*: clapping (*karatāla*) on the water with a sound like frogs croaking.[^77-1]
 
 ## 78
 
@@ -668,7 +668,7 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 ## 195
 
-*Kañcuka*: bodice (*kā̃culi*), *kavaca*, *aṅgarākhā*, garment.
+*Kañcuka*: bodice (*kā̃culi*), *kavaca*, *aṅgarākhā*, garment.[^195-1]
 
 ## 197
 
@@ -884,8 +884,12 @@ See Ādi, Chapter 10, verses 162–163, and Chapter 17, verse 331.[^256-1]
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
 
+[^77-1]: The verse translation reads differently: they “played cymbals” and imitated the croaking of frogs. The word *karatāla* in the edition can mean either the palms or hand cymbals.
+
 [^87-1]: The verse translation reads differently: it takes *khali* as “a stale crust” of dry logic.
 
 [^194-1]: Unclear place in the scan: the next word of the gloss could not be read with certainty.
+
+[^195-1]: The verse translation reads differently: Kṛṣṇa seizes “the edge of Her sari.”
 
 [^256-1]: The edition gives no verse number (the note stands after the chapter colophon); by its content (“even the thousand-mouthed One cannot describe them”) it belongs to verse 256.

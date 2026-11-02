@@ -78,7 +78,7 @@ Thus Śrī Kṛṣṇa — He whose desires are always fulfilled (*satya-kāma*)
 
 ## 159–162
 
-The *gopīs* are of two kinds, *vāmā* and *dakṣiṇā*. Among the *gopīs* the best is Rādhā-ṭhākurāṇī, a mine of the jewels of the *prema* of pure *ujjvala-rasa*. By age She is *madhyā*, by temperament *samā*, and always *vāmā*. It is from Her contrary (*vāmya*) nature that *māna* arises.
+The *gopīs* are of two kinds, *vāmā* and *dakṣiṇā*. Among the *gopīs* the best is Rādhā-ṭhākurāṇī, a mine of the jewels of the *prema* of pure *ujjvala-rasa*. By age She is *madhyā*, by temperament *samā*, and always *vāmā*. It is from Her contrary (*vāmya*) nature that *māna* arises.[^159-1]
 
 ## 165
 
@@ -126,7 +126,7 @@ When Rādhikā, to increase Kṛṣṇa's love, adorned Herself with the ornamen
 
 ## 197
 
-When [Kṛṣṇa] seizes [Rādhā's] bodice (*kāñculi*) and the veil over Her face, Her heart blossoms, yet out of reverential awe (*sambhrama*) She outwardly shows anger, as if She were hurt. These signs are called *kuṭṭamita*.
+When [Kṛṣṇa] seizes [Rādhā's] bodice (*kāñculi*) and the veil over Her face, Her heart blossoms, yet out of reverential awe (*sambhrama*) She outwardly shows anger, as if She were hurt. These signs are called *kuṭṭamita*.[^197-1]
 
 ## 200
 
@@ -188,6 +188,10 @@ The silken ropes (*paṭṭa-ḍorī*) with which the Pāṇḍu-vijaya of the t
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
 
+[^159-1]: The translation of verse 161 reads differently: it renders *madhyā* by age as “like a freshly blossomed flower” and does not mention that She is *samā* by temperament.
+
 [^167-1]: The edition (scan checked) reads *mati* here, as in item 23; in the list of the *Bhakti-rasāmṛta-sindhu* this place belongs to *mṛti* (a deathlike swoon); apparently a misprint.
+
+[^197-1]: The verse translation reads differently: Kṛṣṇa seizes “the edge of Her sari” (likewise in verse 195; see the *Anubhāṣya* on 195: *kañcuka* is a bodice).
 
 [^249-1]: The verse translation reads differently: it takes *yajamāna* as “worshippers” of the silken ropes; for Bhaktivinoda the *yajamāna* is the one charged by the Lord to bring the ropes on his own behalf.
