@@ -638,8 +638,6 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 67)
 
-## 187
-
 **gati-sthānāsanādīnām** (of the beloved's walking, standing, sitting and so on) **mukha-netrādi-karmaṇām** **ca** (and of the actions of the limbs) **priya-saṅga-jam** (born of meeting the beloved) **tātkālikam** (occurring at the time of meeting the beloved) **vaiśiṣṭyam** (distinctiveness) **tu** **vilāsaḥ** (is called).
 
 ## 189
