@@ -390,6 +390,8 @@ Friends — (in the appendix to the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): �
 
 > Subheading: Compared with that quantity, the food offered by a devotee is very little —
 
+*Tāra lekhāya*: in comparison with that, or in proportion to it.[^242-1]
+
 ## 243
 
 > Subheading: The Bhaṭṭa's humility —
@@ -422,6 +424,92 @@ Friends — (in the appendix to the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): �
 
 > Subheading: The Bhaṭṭa sharply rebukes and curses Amogha, the blasphemer of the Lord —
 
+## 252
+
+> Subheading: Hearing the Lord blasphemed, the Bhaṭṭa's wife is distressed —
+
+## 253
+
+> Subheading: The Lord consoles them both and honors the *prasāda* —
+
+## 254
+
+> Subheading: The Lord rinses His mouth —
+
+## 256
+
+> Subheading: [The Bhaṭṭa] begs forgiveness for the blasphemy Amogha uttered —
+
+## 257
+
+> Subheading: The Lord sees no fault —
+
+## 258
+
+> Subheading: The Bhaṭṭa follows behind the Lord —
+
+## 259
+
+> Subheading: In great humility the Bhaṭṭa surrenders [to the Lord] —
+
+## 260
+
+> Subheading: At home the Bhaṭṭa and his wife lament bitterly —
+
+## 261
+
+> Subheading: The only atonement for the offense of one who blasphemes Caitanya is to kill him —
+
+The fruit of blaspheming Vaiṣṇavas — (*Hari-bhakti-vilāsa*, tenth *vilāsa*, quoting the *Skanda Purāṇa*, a dialogue between Mārkaṇḍeya and Bhagīratha): “O best of kings, whoever mocks the devotees of Bhagavān loses his wealth, religion, fame and sons. Fools who blaspheme the Vaiṣṇavas, the great souls, fall together with their ancestors into the hell called Mahāraurava. To kill a Vaiṣṇava, to blaspheme him, to hate him, not to greet him, to be angry with him, and not to rejoice at seeing him — these are the six [ways of] falling.” (In the same *Hari-bhakti-vilāsa*, tenth *vilāsa*, quoting the *Dvārakā-māhātmya*, a dialogue between Prahlāda and Bali): “Sinners who blaspheme the Vaiṣṇavas, the great souls, are sawn apart with saws by the most severe decrees of Yama.”
+
+The fruit of blaspheming Viṣṇu — (see *Bhakti-sandarbha* 314, which quotes the commentary on *Śrīmad-Bhāgavatam* 7.1.16 and 22): “Those who blaspheme Hṛṣīkeśa and His devotee, the embodiment of holiness, certainly lose the merit earned in a hundred births. They are cooked in the most dreadful, terrible hell Kumbhīpāka, eaten by swarms of worms for as long as the moon and sun endure. To slight a Śrī Vaiṣṇava is graver than to disrespect Śrī Viṣṇu. One should not even look at those lowest of men who revile His [devotees], nor live together with those deceivers.”
+
+Śrī Jīva Prabhu in the *Bhakti-sandarbha* (section 265), describing the fruit of “blaspheming *sādhus*,” one of the offenses against the holy name, quotes (*Śrīmad-Bhāgavatam* 10.74.40): “Whoever hears blasphemy of Bhagavān or of His devotee and does not go away from there also loses his merit and falls down.” Going away is only for one who is powerless [to resist]. One who has the power must cut out the blasphemer's tongue; and one who lacks even that power should give up his own life. As the Goddess said (*Śrīmad-Bhāgavatam* 4.4.17): “When irresponsible people revile the Lord, the protector of religion, one who is powerless [to stop them] should cover his ears and go away. But if he has the power, he should forcibly cut out the evil-speaking tongue of the wicked, and then give up life as well: that is *dharma*.”
+
+## 262
+
+> Subheading: If that is beyond one's power, give up one's life; but he himself and his son-in-law are both “brāhmaṇas by birth,” and so neither may be killed —
+
+*Śrīmad-Bhāgavatam* 1.7.53: “A *brahma-bandhu* (an unworthy brāhmaṇa) must not be killed, [though] an aggressor (*ātatāyī*) deserves death.” Śrīdhara's commentary on this verse quotes a *smṛti* text that permits killing a *brahma-bandhu*: “An aggressor who comes [against you], even one who has mastered the whole Vedānta — one who seeks to kill — should be killed; by this one does not become the killer of a brāhmaṇa.” And in *Śrīmad-Bhāgavatam* 1.7.57 — “Shaving his head, taking away his wealth and driving him from his home: this is the death of a *brahma-bandhu*; there is no other, bodily one” — the bodily killing of a *brahma-bandhu* is forbidden.
+
+## 263
+
+> Subheading: Association with those who blaspheme Hari, the guru and the Vaiṣṇavas must be given up completely; one should not even look at their faces —
+
+## 264
+
+> Subheading: A husband hostile to Hari, the guru and the Vaiṣṇavas must certainly be left by his wife —
+
+(*Śrīmad-Bhāgavatam* 5.5.18): “He is no husband who does not free [his wife] from approaching death.” That is, one who does not himself worship Kṛṣṇa and cannot rescue his wife from the hands of impending death — aversion to Kṛṣṇa, forgetfulness of Kṛṣṇa — is fallen, and therefore no husband.
+
+From an external point of view: suppose a devotee in the form of a wife, who has given herself to Kṛṣṇa, sincerely, like the wives of the brāhmaṇas, gives up the company of one who thinks himself her “husband” but is not devoted to Kṛṣṇa or is hostile to Him, for the sake of pure service to Kṛṣṇa, while [still] living at home. Then she violates no rule at all. Bhagavān Himself has said this (*Śrīmad-Bhāgavatam* 10.23.31–32): “By Kṛṣṇa's will, neither husband, father, brother, son nor anyone else will be able to find fault with them; by Kṛṣṇa's leave even the gods will fully approve of their conduct. Indeed, in this material world love or affection does not grow merely from bodily contact; only one who fixes his mind on Kṛṣṇa purely and constantly soon attains Kṛṣṇa.”
+
+## 265
+
+> Subheading: (Words of *smṛti*)
+
+The words of Yājñavalkya quoted in Śrīdhara's commentary on *Śrīmad-Bhāgavatam* 7.11.28: “[A husband] defiled by a great sin should be waited for until he is purified.”
+
+## 266
+
+> Subheading: Amogha falls ill with cholera —
+
+## 267
+
+> Subheading: Hearing that the hater of Caitanya may die, the Bhaṭṭa rejoices —
+
+## 268
+
+> Subheading: The fruit of offending the Lord is seen at once —
+
+## 269
+
+> Subheading: (*Mahābhārata*, *Vana-parva*, chapter 241, verse 15)
+
+## 270
+
+> Subheading: The fruit of hostility to Viṣṇu and the Vaiṣṇavas — (*Śrīmad-Bhāgavatam* 10.4.46) —
+
 ---
 
 [^154-1]: In the edition this section is numbered “১৪৫” (145; scan checked): a misprint. By its place (between sections 149 and 155) and its content (the word *prabhu* and the quotation about the servant who does not leave the Lord's feet) it belongs to verse 154.
@@ -431,3 +519,5 @@ Friends — (in the appendix to the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): �
 [^203-1]: In the edition couplet 203 has no number (only “॥” at the end; scan checked).
 
 [^237-1]: In the edition (scan checked), both in the verse and in the gloss, the reading is *tvayopayukta…* (“used by You”); the VCD text has *tvayopabhukta…* (“enjoyed by You”). The edition's gloss (“enjoyed by You”) matches the second reading.
+
+[^242-1]: In the edition this section stands out of place: after section 254 of the *Amṛta-pravāha-bhāṣya*, before section 261.

@@ -41,3 +41,25 @@ We, Your servants, adorn ourselves with what has been offered to You — garland
 ## 249
 
 *Avadhāna*: attention.
+
+## 254
+
+*Elāci rasavāsa*: cardamom, juicy and fragrant.
+
+## 262–263
+
+Amogha is a brāhmaṇa, so he cannot be killed; [Sārvabhauma] himself is also a brāhmaṇa, so suicide too is improper: both acts are unfit. Therefore the only thing left is not to look at that blasphemer's face.
+
+## 265
+
+One should abandon a fallen husband. (*Śrīmad-Bhāgavatam* 7.11.28): “Content, free from greed, capable, knowing *dharma*, speaking pleasantly and truthfully, attentive, pure and affectionate, [a wife] should serve a husband who has not fallen.”
+
+## 269
+
+What we would have had to accomplish with great effort, gathering many elephants, horses, chariots and foot soldiers, the Gandharvas have already done.
+
+## 270
+
+Life, fortune, fame, *dharma*, the worlds and blessings — a man loses all these highest goods by offending great souls.
+
+*Thus ends the fifteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
