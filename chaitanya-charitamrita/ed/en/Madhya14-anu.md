@@ -610,6 +610,34 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: Kṛṣṇa's deepest happiness at seeing the beauty of Śrī Rādhā's *kila-kiñcita* *bhāva* —
 
+## 180
+
+> Subheading: An example of Śrī Rādhā's *kila-kiñcita* *bhāva* — (words of Śrī Rūpa Gosvāmī, *Dāna-keli-kaumudī* 1)
+
+**pathi** (on the road to the *dāna-ghāṭa*) **mādhavena** (by Śrī Rādhā-ramaṇa, on the pretext of collecting a toll) **ruddhāyāḥ** **rādhāyāḥ** **antaḥ-smeratayā** (with an inner, unmanifest smile, slightly laughing) **ujjvalā** (shining — this is “laughter,” *smita*) **jala-kaṇa-vyākīrṇa-pakṣmāṅkurā** (whose eyelash-shoots, the tips of the lashes, are strewn with drops of water — this is “weeping,” *rodana*) **kiñcit-pāṭalitāñcalā** (with white and pink eye corners: the whiteness is natural and the redness comes from anger — this is “anger,” *krodha*) **rasikatotsiktā** (brimming with wit, *rasikatā* — this is “pride,” *garva*, or “longing,” *abhilāṣa*) **puraḥ** (in front) **kuñcatī** (shrinking — this is “fear,” *bhaya*) **madhura-vyābhugna-tārottarā** (excellent with its sweetly curved, crooked pupils — this is “longing,” “pride” or “jealous displeasure,” *asūyā*) **kila-kiñcita-stavakinī** (bearing the bouquet of *kila-kiñcita* — a special *bhāva*, unmanifest because of its depth, a cluster of flowers of many *bhāvas*) **dṛṣṭiḥ** (glance) **vaḥ** (to you) **śriyam** **kriyāt**.
+
+## 181
+
+> Subheading: (*Govinda-līlāmṛta* 9.18)
+
+**asau** (Śrī Kṛṣṇa) **rādhāyāḥ** **bāṣpa-vyākulitāruṇāñcala-calan-netram** (in which the eyes, with reddish corners and clouded with tears, move restlessly) **rasollāsitam** **helollāsa-calādharam** (with lips trembling from an excess of a special *bhāva*) **kuṭilita-bhrū-yugmam** **udyat-smitam** (on which a clear, gentle smile appears) **kila-kiñcitāñcitam** (endowed with that *bhāva*) **ānanam** (face) **vīkṣya** (seeing) **saṅgamāt** **koṭi-guṇitam** **tam** **ānandam** **avāpa** (attained) — **yaḥ** (that bliss which) **gīr-gocaraḥ** (within the reach of words) **na** **abhūt** (never is).
+
+## 182
+
+> Subheading: Hearing of Śrī Rādhā's *bhāva*, the Lord embraces Svarūpa —
+
+## 183
+
+> Subheading: Answering the Lord's question, Svarūpa describes Śrī Rādhā's *vilāsa* *bhāva* —
+
+## 184
+
+> Subheading: Svarūpa begins the description; the devotees are happy —
+
+## 187
+
+> Subheading: (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 67)
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.

@@ -100,6 +100,22 @@ When, seeing Śrīmatī's ornaments of feeling, Kṛṣṇa wants to touch Her, 
 
 The blending (*saṅkarīkaraṇa*), that is, the mixing, of seven *bhāvas* — pride, longing, weeping, laughter, jealous displeasure (*asūyā*), fear and anger — together with joy is called the *kila-kiñcita* *bhāva*.
 
+## 180
+
+May the glance of Śrī Rādhikā, full of the *kila-kiñcita* *bhāva* born of joy and joined with the seven *bhāvas*, pride and the rest, bring you good fortune. When Śrī Kṛṣṇa came on the road to the *dāna-ghāṭi* and blocked Her way, laughter arose in Rādhā's heart. Then Her eyes shone, Her eyelashes filled with freshly welling tears, the corners of both eyes reddened slightly; from the surge of *rasa* liveliness rose in Her eyes; Her tearful eyes began to close a little, and both pupils, wondrously beautiful, turned upward.
+
+## 181
+
+Rādhikā's eyes clouded with tears and their reddish corners quivered; from the surge of *rasa* and amorous feeling (*kandarpa-bhāva*) Her lips trembled; Her brows arched; a faint smile appeared on Her lotus face. Śrī Kṛṣṇa saw the happiness born of the *kila-kiñcita* *bhāva* becoming manifest, and looking at Rādhikā's face He attained a happiness ten million times greater than in meeting with Her — it cannot be described in words.
+
+## 187
+
+The distinction that arises from contact with the beloved — in the gait, in how [the heroine] goes to the place of meeting with the beloved and how she stays there, and also in the face, eyes and other parts of the body at that time — is called *vilāsa*.
+
+## 189
+
+Seeing Śrī Kṛṣṇa right in front of Her, Rādhikā stopped and assumed a crooked air (*kuṭila-bhāva*). Her lotus face was slightly covered by a blue veil, yet both pupils opened wide and became restless and crooked, and, adorned with the ornament called *vilāsa*, She began to give Kṛṣṇa happiness.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
