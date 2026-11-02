@@ -25,3 +25,7 @@ O Ajita! Destroy that unborn one (*ajā*), *avidyā* or *māyā*, [who rules] th
 ## 183
 
 A variant reading is “in Jaleśvara.” This reading seems neither correct nor meaningful, for no pastime of Gadādhara Paṇḍita in the village of Jaleśvara is mentioned anywhere. On the sandy road by the sea, in Yameśvara-ṭoṭā, stands the temple of Śrī Ṭoṭā-Gopīnātha. There Gadādhara Paṇḍita (Gosvāmī) lived, absorbed in the service of Gopīnātha and the service of Mahāprabhu.
+
+## 198
+
+*Nija-chāye*: “with one's own shadow,” that is, alone.

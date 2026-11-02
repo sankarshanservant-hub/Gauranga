@@ -166,6 +166,146 @@ See Ādi 2.53 and 5.52–55; Madhya 20.268–279 and 21.52. In Vaikuṇṭha-dh�
 
 > Subheading: Even if endless millions of universes perish together with *māyā*, Kṛṣṇa loses nothing —
 
+## 180
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.87.14)
+
+In Janaloka, at the *brahma-satra* sacrifice, the *brahmarṣi* Sanandana, one of the four Kumāras, recounts to the sages eager to hear the prayer to Bhagavān offered by the personified Śrutis:
+
+**ajita** (O You who are never overcome by *māyā* or anything else), **jaya jaya** (be sure to reveal Your supremacy — why do You not reveal it? — the repetition expresses respectful insistence) **doṣa-gṛbhīta-guṇām** (her who has taken up the modes for a fault — to cover bliss and so on) **aga-jagad-okasām** (of living beings whose bodies [*okas*] are nonmoving [*aga*] and moving [*jagat*]) **ajām** (*māyā*, *avidyā*) **jahi** (destroy — the sense is: so that she no longer torments the *jīvas* caught up in creation and the rest), **yat** (because) **tvam** **ātmanā** (by Your own essential supreme bliss, that is, by the potency not different from it) **sam-avaruddha-samasta-bhagaḥ** (have attained all opulences in full) **asi** (since *māyā* is subject to You, You alone) **akhila-śakty-avabodhaka** (awaken all potencies, material and spiritual — that is, You are their enjoyer and supreme master). **kvacit** (sometimes — at the time of creation and so on) **ajayā** (by *māyā*) **ātmanā** (by a reflection of Your part, while You Yourself remain untouched) **carataḥ** (who sport by Your glance) **te** (You — a genitive used for the object) **nigamaḥ** (the Veda) **anucaret** (establishes — according to such Śrutis as “From whom these beings are born,” “Who in the beginning created Brahmā and who delivered the Vedas to him,” “Who dwells in the self,” “Brahman is truth, knowledge, infinity”).[^180-1]
+
+## 181
+
+> Subheading: The Lord bids farewell to all the devotees —
+
+## 182
+
+> Subheading: The devotees and the Lord grieve, fearing their coming separation from each other —
+
+## 183
+
+> Subheading: Gadādhara is given the service of Ṭoṭā-Gopīnātha —
+
+Yameśvara: in Puruṣottama, southwest of the Śrī Mandira, on the sands, lies Yameśvara-ṭoṭā, a garden. There Mahāprabhu gave Gadādhara Paṇḍita a place to live.
+
+## 184
+
+> Subheading: The Lord stays in Purī with six devotees —
+
+## 186
+
+> Subheading: Sārvabhauma invites the Lord for a month —
+
+## 188
+
+> Subheading: The Lord objects on hearing of “a month-long invitation” and shortens the period of meals, since it is against the duty of a *sannyāsī* —
+
+## 189
+
+> Subheading: The Bhaṭṭa raises the number of days, the Lord keeps reducing it, until He agrees to a single day —
+
+## 191
+
+> Subheading: With great humility and entreaty the Bhaṭṭa tries for 10 days —
+
+## 192
+
+> Subheading: At last [the Lord] accepts meals for 5 days —
+
+## 188–192
+
+Although the Lord is affectionate to His devotees, He keeps the duties of His *āśrama*.
+
+## 193
+
+> Subheading: Arranging invitations for the ten *sannyāsīs* —
+
+The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahmānanda Purī, (4) Brahmānanda Bhāratī, (5) Viṣṇu Purī, (6) Keśava Purī, (7) Kṛṣṇānanda Purī, (8) Nṛsiṁha Tīrtha, (9) Sukhānanda Purī, (10) Satyānanda Bhāratī.
+
+## 194
+
+> Subheading: Meals for Paramānanda Purī on 5 days —
+
+## 195
+
+> Subheading: Svarūpa agrees to meals on 4 days, sometimes with the Lord and sometimes alone —
+
+## 196
+
+> Subheading: Meals for the remaining 8 *sannyāsīs* on 16 days —
+
+“The other eight *sannyāsīs*”: the remaining eight besides Paramānanda Purī and Dāmodara Svarūpa. “The month was filled”: 5 days for Śrī Mahāprabhu, 5 days for Paramānanda Purī, 4 days for Dāmodara Svarūpa and 16 days for the eight *sannyāsīs* — 30 days in all, a full month.
+
+## 197
+
+> Subheading: If ten *sannyāsīs* come together, due respect cannot be shown to each, and [Sārvabhauma] fears an offense —
+
+## 198
+
+> Subheading: The invitation: sometimes alone, sometimes together with Svarūpa —
+
+## 199
+
+> Subheading: With the Lord's approval [Sārvabhauma] invites Him —
+
+## 200
+
+> Subheading: The Bhaṭṭa's wife, Ṣāṭhī's mother, is a devotee of the Lord —
+
+## 201
+
+> Subheading: Ṣāṭhī's mother cooks —
+
+## 202
+
+> Subheading: [Sārvabhauma] gathers greens, fruits and much else for the offering —
+
+*Bhari*: full. *Āhari*: having procured.
+
+## 203
+
+> Subheading: The Bhaṭṭa himself helps his wife with the cooking —[^203-1]
+
+## 204
+
+> Subheading: The rooms for offering the food —
+
+## 207
+
+> Subheading: A wonderful offering —
+
+*Ubhārila*: poured out.
+
+## 211
+
+*Dugdha-tumbī*: a bottle gourd (*lāu*) cooked in milk. *Vesara*: a vegetable dish made with ground mustard seed; in Utkala it is called *vesara*. *Śākrā*: a vegetable dish with a sweet taste.
+
+## 213
+
+*Bhṛṣṭa-vārtākī*: fried eggplant. *Kuṣmāṇḍa-māna-cākī*: pumpkin and *māna-kacu* (a large arum root) cut into small rounds and fried.
+
+## 214
+
+*Madhurāmla*: chutney, a sweet-and-sour dish (*amla*). *Baḍāmla*: a sour dish (*amla*) made with dal dumplings (*baḍā*). *Bhṛṣṭa-māṣa-mudga-sūpa*: dal of roasted *kalāi* (urad) and dal of roasted mung.
+
+## 215
+
+*Māṣa-baḍā*: dumplings (*baḍā*) of *kalāi* (urad) dal.
+
+## 216
+
+*Dugdha-laklakī*: *cuṣī-puli*.
+
+## 219
+
+> Subheading: The seat and the arrangement of the offering —
+
+*Śubhra-pīṭha*: a piece of fine cloth was spread over a white wooden board (*piṁḍi*), and so the seat was prepared.
+
 ---
 
 [^154-1]: In the edition this section is numbered “১৪৫” (145; scan checked): a misprint. By its place (between sections 149 and 155) and its content (the word *prabhu* and the quotation about the servant who does not leave the Lord's feet) it belongs to verse 154.
+
+[^180-1]: *Taittirīya Upaniṣad* 3.1.1; *Śvetāśvatara Upaniṣad* 6.18; *Bṛhad-āraṇyaka Upaniṣad* 3.7.22 (Mādhyandina recension); *Taittirīya Upaniṣad* 2.1.1.
+
+[^203-1]: In the edition couplet 203 has no number (only “॥” at the end; scan checked).
