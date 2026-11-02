@@ -98,7 +98,7 @@ Here the author's knowledge of the variety of offerings (*naivedya*) to Kṛṣ�
 
 ## 27
 
-*Nāraṅga* and the rest are all citrus fruits. *Bījapūra*: *mātuluṅga*, the pomegranate (*bedānā*, or *ḍālima*), or possibly the *ṭābā-nebu* citron (?). *Chohārā*: dried dates (*khurmā*). *Drākṣā*: grapes.[^27-1]
+*Nāraṅga* and the rest are all citrus fruits. *Bījapūra*: *mātuluṅga*, the pomegranate (*bedānā*, or *ḍālima*), or possibly the *ṭābā-nebu* citron (?). *Chohārā*: dried dates (*khurmā*). *Drākṣā*: grapes.
 
 ## 28
 
@@ -278,7 +278,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 77
 
-*Jala-maṇḍuka-vādya*: clapping (*karatāla*) on the water with a sound like frogs croaking.[^77-1]
+*Jala-maṇḍuka-vādya*: clapping (*karatāla*) on the water with a sound like frogs croaking.
 
 ## 78
 
@@ -304,7 +304,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 > Subheading: By the Lord's mercy even Sārvabhauma, a man of dry knowledge, now relishes the *rasa* of service to Kṛṣṇa —
 
-*Khali*: oil-cake, what remains after oil is pressed. Before Sārvabhauma received Mahāprabhu's mercy he was a knower of the featureless (*nirviśeṣa*) Brahman and followed the path of logic; so [Gopīnātha] compared him to “the oil-presser's bullock,” which eats oil-cake.[^87-1]
+*Khali*: oil-cake, what remains after oil is pressed. Before Sārvabhauma received Mahāprabhu's mercy he was a knower of the featureless (*nirviśeṣa*) Brahman and followed the path of logic; so [Gopīnātha] compared him to “the oil-presser's bullock,” which eats oil-cake.
 
 ## 88
 
@@ -668,7 +668,7 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 ## 195
 
-*Kañcuka*: bodice (*kā̃culi*), *kavaca*, *aṅgarākhā*, garment.[^195-1]
+*Kañcuka*: bodice (*kā̃culi*), *kavaca*, *aṅgarākhā*, garment.
 
 ## 197
 
@@ -882,14 +882,6 @@ See Ādi, Chapter 10, verses 162–163, and Chapter 17, verse 331.[^256-1]
 
 ---
 
-[^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
-
-[^77-1]: The verse translation reads differently: they “played cymbals” and imitated the croaking of frogs. The word *karatāla* in the edition can mean either the palms or hand cymbals.
-
-[^87-1]: The verse translation reads differently: it takes *khali* as “a stale crust” of dry logic.
-
 [^194-1]: The edition's gloss continues: *calantī kampanavatī cillī bhrūḥ; cillī-pakṣiṇīva bhrūḥ klinnākṣī-vā* (*cillī* = brow; “a brow like the *cillī* bird”); the last word is printed *klinnākṣī-vā* (ক্লিন্নাক্ষীবা, apparently “or moist-eyed”); its sense is unclear and it is not rendered in the translation.
-
-[^195-1]: The verse translation reads differently: Kṛṣṇa seizes “the edge of Her sari.”
 
 [^256-1]: The edition gives no verse number (the note stands after the chapter colophon); by its content (“even the thousand-mouthed One cannot describe them”) it belongs to verse 256.
