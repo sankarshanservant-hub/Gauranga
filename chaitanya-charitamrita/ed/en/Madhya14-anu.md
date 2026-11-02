@@ -248,6 +248,136 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 > Subheading: Advaita and the others, nine in all, invite the Lord for the nine days of the *nava-rātra-yātrā* —
 
+## 67
+
+> Subheading: During *cāturmāsya* each devotee invites the Lord for one day —
+
+## 68
+
+> Subheading: Other devotees do not have the good fortune of inviting the Lord —
+
+## 69
+
+> Subheading: So two or three (2–3) together invite the Lord for one day —
+
+## 70
+
+> Subheading: After the morning bath and *darśana* of Jagannātha, *kīrtana* and dancing with His associates —
+
+## 71
+
+> Subheading: Nitāi, Advaita and others dance; *kīrtana* at Guṇḍicā three times a day —
+
+## 73
+
+> Subheading: The joy of the Lord, who is in the mood of a *gopī*, Śrī Rādhā's maidservant, at Kṛṣṇa's coming to Vraja and meeting Śrī Rādhā —
+
+## 75
+
+> Subheading: The Lord's various water pastimes with the devotees —
+
+## 77
+
+*Jala-maṇḍuka-vādya*: clapping (*karatāla*) on the water with a sound like frogs croaking.
+
+## 78
+
+> Subheading: The devotees sport in the water in pairs, and the Lord watches —
+
+## 80
+
+*Gupta*: Murāri Gupta; *Datta*: Vāsudeva Datta.
+
+## 83
+
+> Subheading: [The Lord] tells Gopīnātha to stop the frolics of Sārvabhauma and Rāya —
+
+## 85
+
+> Subheading: Gopīnātha describes the greatness of the Lord's mercy —
+
+## 86
+
+*Gaṇḍa-śaila*: small hills. Although the words say “these two,” they are aimed above all at Sārvabhauma Bhaṭṭācārya.
+
+## 87
+
+> Subheading: By the Lord's mercy even Sārvabhauma, a man of dry knowledge, now relishes the *rasa* of service to Kṛṣṇa —
+
+*Khali*: oil-cake, what remains after oil is pressed. Before Sārvabhauma received Mahāprabhu's mercy he was a knower of the featureless (*nirviśeṣa*) Brahman and followed the path of logic; so [Gopīnātha] compared him to “the oil-presser's bullock,” which eats oil-cake.[^87-1]
+
+## 88
+
+> Subheading: The floating Advaita becomes Śeṣa, and the Lord manifests the pastime of Śeṣaśāyī —
+
+## 91
+
+> Subheading: The Lord comes to Āiṭoṭā with His associates —
+
+## 92
+
+> Subheading: The chief devotees accept the Ācārya's invitation —
+
+## 93
+
+> Subheading: The Lord's associates accept the *prasāda* brought by Vāṇīnātha —
+
+## 94
+
+> Subheading: In the afternoon *darśana* and dancing; at night sleep in the garden —
+
+## 95
+
+> Subheading: On another day *darśana* of the Lord [Jagannātha] and dancing and singing in the temple courtyard —
+
+## 96
+
+> Subheading: Pastimes of Vraja with the devotees in the garden —
+
+Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as an enjoyer (*bhoktā*) — approaching the wives of others, as Kṛṣṇa does in *parakīya-rasa*. He regards Himself as a maidservant (*kiṅkarī*) of Śrī Rādhā and is immersed in an ocean of bliss when Śrī Rādhā — the one He serves, the *āśraya-vigraha* — meets Her most beloved Kṛṣṇa. It was in just this state, intoxicated with this *rasa*, that He performed the pastimes of *vṛndāvana-vihāra* with the devotees (see verses 74 and 75 of this chapter). Therefore the “Gaura-nāgarī” doctrine has no application here whatsoever.
+
+## 97
+
+> Subheading: At the sight of the Lord signs of joy appear on every side —
+
+## 98
+
+> Subheading: The Lord dances, and Vāsudeva Datta sings *kīrtana* —
+
+## 99
+
+> Subheading: The Lord dances beneath each tree —
+
+## 100
+
+> Subheading: After dancing [the Lord] tells Vakreśvara to dance —
+
+## 101
+
+> Subheading: Svarūpa and others sing with the Lord, and all are overwhelmed with *prema* —
+
+## 102
+
+> Subheading: After the pastimes in the forest, water sports in Narendra Lake —
+
+## 103
+
+> Subheading: After bathing, [the Lord] honors *prasāda* with the devotees in the garden —
+
+## 104
+
+> Subheading: Such pastimes continue all the nine days Jagannātha stays at Guṇḍicā —
+
+## 105
+
+> Subheading: The Lord rests at Jagannātha-vallabha —
+
+## 106
+
+> Subheading: The king asks Kāśī Miśra to arrange the Herā-pañcamī festival on a grand scale —
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.
+
+[^87-1]: The verse translation reads differently: it takes *khali* as “a stale crust” of dry logic.
