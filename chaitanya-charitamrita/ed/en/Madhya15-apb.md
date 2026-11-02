@@ -94,7 +94,7 @@ We, Your servants, adorn ourselves with what has been offered to You — garland
 
 ## 254
 
-*Elāci rasavāsa*: cardamom, juicy and fragrant.[^254-1]
+*Elāci rasavāsa*: cardamom, juicy and fragrant.
 
 ## 262–263
 
@@ -114,4 +114,3 @@ Life, fortune, fame, *dharma*, the worlds and blessings — a man loses all thes
 
 *Thus ends the fifteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
-[^254-1]: The verse translation reads differently: it takes *rasavāsa* as separate spices offered along with the cardamom.
