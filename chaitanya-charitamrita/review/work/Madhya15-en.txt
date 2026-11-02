@@ -1216,8 +1216,9 @@ tr: “How can I praise your great fortune enough? I too am fortunate, for I sha
 
 ## 231
 w: Kṛṣṇa’s  seat  keep  removing
-w: to Me  prasāda  give  on a separate  plate  putting
+w: to Me  prasāda  give  a separate  plate  making
 tr: “Take away Kṛṣṇa’s seat and keep it aside, and give Me *prasāda* on a separate plate.”
+fn: The edition reads *pātra* (the earlier text had *pātre*).
 
 ## 232
 w: the Bhaṭṭācārya  says  O Lord  not  make  wonder
@@ -1227,7 +1228,7 @@ tr: The Bhaṭṭācārya said, “O Lord, do not be astonished. By the potency 
 ## 233
 w: effort  not  there was  my  wife’s  in the cooking
 w: by whose  potency  the feast  accomplished  He  that  knows
-tr: “My wife had no labour in the cooking. He by whose potency the feast was made ready knows how it was done.
+tr: “My wife did not have to labour at the cooking. He by whose potency the feast was made ready knows how it was done.
 
 ## 234
 w: on this very  seat  sitting  take  the meal
@@ -1249,7 +1250,8 @@ w: by You used  garlands  scents
 w: clothes  with ornaments  adorned
 w: remnants  eating  servants
 w: Your  māyā  shall conquer  surely
-tr: “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam 11.6.46)
+tr: “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam, 11.6.46)
+fn: *Anubhāṣya*: Uddhava, Kṛṣṇa’s dearest servant, offered this prayer when calamities had begun in Dvārakā and he learned that Kṛṣṇa wished to close His manifest pastimes — before the conversation known as the *Uddhava-gītā*.
 
 ## 238
 w: still  so much  food  to eat  not  possible
@@ -1264,12 +1266,14 @@ tr: “At Nīlācala You eat fifty-two times, and the food of each offering come
 ## 240
 w: in Dvārakā  sixteen thousand  in the queens’ palaces
 w: eighteen  mothers  and  of the Yādavas  in the houses
-tr: “In Dvārakā You eat in the palaces of the sixteen thousand queens, with Your eighteen mothers and in the houses of the Yādavas.
+tr: “In Dvārakā You eat in the palaces of the sixteen thousand queens, in the homes of Your eighteen mothers and in the houses of the Yādavas.
+fn: *Anubhāṣya*: the eighteen mothers are Devakī, Rohiṇī and others.
 
 ## 241
 w: in Vraja  elder uncles  younger uncles  maternal uncles  aunts’ husbands and other  cowherds
 w: friends  of all  in the houses  meals at both twilights
 tr: “In Vraja You eat twice a day, morning and evening, in the houses of all the cowherds — Your uncles on Your father’s and mother’s side, the husbands of Your aunts and others — and of all Your friends.
+fn: *Anubhāṣya* names them from the *Śrī Kṛṣṇa-gaṇoddeśa-dīpikā*: Kṛṣṇa’s elder paternal uncles Upananda and Abhinanda, the younger ones Sannanda and Nandana, His maternal uncles Yaśodhara, Yaśodeva, Sudeva and others, and the husbands of His paternal aunts, Mahānīla and Sunīla; and it lists His friends — those “like younger brothers”, the “dear friends” (*priya-sakhās*) and the “intimate friends” (*priya-narma-sakhās*).
 
 ## 242
 w: at the Govardhana sacrifice  food  You ate  heaps  upon heaps
@@ -1280,6 +1284,7 @@ tr: “At the Govardhana sacrifice You ate heaps upon heaps of food. Compared wi
 w: You  indeed  the Lord  I  a tiny  soul  wretched
 w: one mouthful  of mādhukarī  make  acceptance
 tr: “You are the Lord Himself, and I am a tiny, wretched soul. Please accept this one mouthful of *mādhukarī*.”
+fn: *Amṛta-pravāha-bhāṣya*: *mādhukarī* — a mouthful of food obtained in the manner of the bee (*madhukara-vṛtti*).
 
 ## 244
 w: this  hearing  smiling  the Lord  sat  to the meal
@@ -1289,7 +1294,7 @@ tr: Hearing this, the Lord smiled and sat down to eat, and Bhaṭṭa joyfully s
 ## 245
 w: at that time  Amogha  the Bhaṭṭācārya’s  son-in-law
 w: of a noble family  a blasphemer  he  of Ṣāṭhī the daughter  the husband
-tr: At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there. He was the husband of the Bhaṭṭācārya’s daughter Ṣāṭhī — a man of noble (*kulīna*) family, but a blasphemer.
+tr: At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there — the husband of his daughter Ṣāṭhī, a man of noble (*kulīna*) family, but a blasphemer.
 
 ## 246
 w: the meal  to see  he wants  to come in  not  he can
@@ -1309,7 +1314,7 @@ tr: “This food would satisfy ten or twelve people, and one *sannyāsī* eats s
 ## 249
 w: hearing  the Bhaṭṭācārya  then  turning round  looked
 w: his  attention  seeing  Amogha  fled
-tr: Hearing this, the Bhaṭṭācārya turned round and looked, and seeing that he had noticed, Amogha fled.
+tr: When the Bhaṭṭācārya heard this, he turned round and looked, and Amogha, seeing that he had been noticed, fled.
 
 ## 250
 w: the Bhaṭṭācārya  the stick  taking  to beat  ran

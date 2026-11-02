@@ -2321,14 +2321,14 @@ I  am fortunate  of it  the remnants  I shall get
 (230) “How can I praise your great fortune enough? I too am fortunate, for I shall receive the remnants.
 
 কৃষ্ণের আসন-পীঠ রাখ উঠাঞা ৷  
-মোরে প্রসাদ দেহ’ ভিন্ন পাত্রে করিয়া ॥ ২৩১ ॥
+মোরে প্রসাদ দেহ’ ভিন্ন পাত্র করিয়া ॥ ২৩১ ॥
 
 kṛṣṇera āsana-pīṭha rākha uṭhāñā  
 Kṛṣṇa’s  seat  keep  removing  
-more prasāda deha’ bhinna pātre kariyā  
-to Me  prasāda  give  on a separate  plate  putting
+more prasāda deha’ bhinna pātra kariyā  
+to Me  prasāda  give  a separate  plate  making
 
-(231) “Take away Kṛṣṇa’s seat and keep it aside, and give Me *prasāda* on a separate plate.”
+(231) “Take away Kṛṣṇa’s seat and keep it aside, and give Me *prasāda* on a separate plate.”[^57]
 
 ভট্টাচার্য্য বলে, — প্রভু, না করহ বিস্ময় ৷  
 যেই খাবে, তাঁর শক্ত্যে ভোগ সিদ্ধ হয় ॥ ২৩২ ॥
@@ -2348,7 +2348,7 @@ effort  not  there was  my  wife’s  in the cooking
 yām̐ra śaktye bhoga siddha, sei tāhā jāne  
 by whose  potency  the feast  accomplished  He  that  knows
 
-(233) “My wife had no labour in the cooking. He by whose potency the feast was made ready knows how it was done.
+(233) “My wife did not have to labour at the cooking. He by whose potency the feast was made ready knows how it was done.
 
 এইত আসনে বসি’ করহ ভোজন ৷  
 প্রভু কহে, — পূজ্য এই কৃষ্ণের আসন ॥ ২৩৪ ॥
@@ -2392,7 +2392,7 @@ remnants  eating  servants
 tava māyāṁ jayema hi  
 Your  māyā  shall conquer  surely
 
-(237) “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam 11.6.46)
+(237) “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam, 11.6.46)[^58]
 
 তথাপি এতেক অন্ন খাওন না যায় ৷  
 ভট্ট কহে, — জানি, খাও, যতেক যুয়ায় ॥ ২৩৮ ॥
@@ -2422,7 +2422,7 @@ in Dvārakā  sixteen thousand  in the queens’ palaces
 aṣṭādaśa mātā, āra yādavera ghare  
 eighteen  mothers  and  of the Yādavas  in the houses
 
-(240) “In Dvārakā You eat in the palaces of the sixteen thousand queens, with Your eighteen mothers and in the houses of the Yādavas.
+(240) “In Dvārakā You eat in the palaces of the sixteen thousand queens, in the homes of Your eighteen mothers and in the houses of the Yādavas.[^59]
 
 ব্রজে জ্যেঠা, খুড়া, মামা, পিসাদি গোপগণ ৷  
 সখাবৃন্দ সবার ঘরে দ্বিসন্ধ্যা-ভোজন ॥ ২৪১ ॥
@@ -2432,7 +2432,7 @@ in Vraja  elder uncles  younger uncles  maternal uncles  aunts’ husbands and o
 sakhā-vṛnda sabāra ghare dvisandhyā-bhojana  
 friends  of all  in the houses  meals at both twilights
 
-(241) “In Vraja You eat twice a day, morning and evening, in the houses of all the cowherds — Your uncles on Your father’s and mother’s side, the husbands of Your aunts and others — and of all Your friends.
+(241) “In Vraja You eat twice a day, morning and evening, in the houses of all the cowherds — Your uncles on Your father’s and mother’s side, the husbands of Your aunts and others — and of all Your friends.[^60]
 
 গোবর্দ্ধন-যজ্ঞে অন্ন খাইলা রাশি রাশি ৷  
 তার লেখায় এই অন্ন নহে এক গ্রাসী ॥ ২৪২ ॥
@@ -2452,7 +2452,7 @@ You  indeed  the Lord  I  a tiny  soul  wretched
 eka-grāsa mādhukarī karaha aṅgīkāra  
 one mouthful  of mādhukarī  make  acceptance
 
-(243) “You are the Lord Himself, and I am a tiny, wretched soul. Please accept this one mouthful of *mādhukarī*.”
+(243) “You are the Lord Himself, and I am a tiny, wretched soul. Please accept this one mouthful of *mādhukarī*.”[^61]
 
 এত শুনি’ হাসি’ প্রভু বসিলা ভোজনে ৷  
 জগন্নাথের প্রসাদ ভট্ট দেন হর্ষ মনে ॥ ২৪৪ ॥
@@ -2472,7 +2472,7 @@ at that time  Amogha  the Bhaṭṭācārya’s  son-in-law
 kulīna, nindaka tim̐ho ṣāṭhī-kanyāra bhartā  
 of a noble family  a blasphemer  he  of Ṣāṭhī the daughter  the husband
 
-(245) At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there. He was the husband of the Bhaṭṭācārya’s daughter Ṣāṭhī — a man of noble (*kulīna*) family, but a blasphemer.
+(245) At that time Amogha, the Bhaṭṭācārya’s son-in-law, was there — the husband of his daughter Ṣāṭhī, a man of noble (*kulīna*) family, but a blasphemer.
 
 ভোজন দেখিতে চাহে, আসিতে না পারে ৷  
 লাঠি-হাতে ভট্টাচার্য্য আছেন দুয়ারে ॥ ২৪৬ ॥
@@ -2512,7 +2512,7 @@ hearing  the Bhaṭṭācārya  then  turning round  looked
 tām̐ra avadhāna dekhi’ amogha palāila  
 his  attention  seeing  Amogha  fled
 
-(249) Hearing this, the Bhaṭṭācārya turned round and looked, and seeing that he had noticed, Amogha fled.
+(249) When the Bhaṭṭācārya heard this, he turned round and looked, and Amogha, seeing that he had been noticed, fled.
 
 ভট্টাচার্য্য লাঠি লঞা মারিতে ধাইল ৷  
 পলাইল অমোঘ, তার লাগ না পাইল ॥ ২৫০ ॥
@@ -3162,3 +3162,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^55]: *Anubhāṣya*: a piece of fine cloth was spread on a white wooden board (*piṁḍi*), and so a seat was made.
 
 [^56]: *Anubhāṣya*: the food cooked at his home, not yet offered, he did not mix with Jagannātha’s *prasāda*; he took care to keep them apart.
+
+[^57]: The edition reads *pātra* (the earlier text had *pātre*).
+
+[^58]: *Anubhāṣya*: Uddhava, Kṛṣṇa’s dearest servant, offered this prayer when calamities had begun in Dvārakā and he learned that Kṛṣṇa wished to close His manifest pastimes — before the conversation known as the *Uddhava-gītā*.
+
+[^59]: *Anubhāṣya*: the eighteen mothers are Devakī, Rohiṇī and others.
+
+[^60]: *Anubhāṣya* names them from the *Śrī Kṛṣṇa-gaṇoddeśa-dīpikā*: Kṛṣṇa’s elder paternal uncles Upananda and Abhinanda, the younger ones Sannanda and Nandana, His maternal uncles Yaśodhara, Yaśodeva, Sudeva and others, and the husbands of His paternal aunts, Mahānīla and Sunīla; and it lists His friends — those “like younger brothers”, the “dear friends” (*priya-sakhās*) and the “intimate friends” (*priya-narma-sakhās*).
+
+[^61]: *Amṛta-pravāha-bhāṣya*: *mādhukarī* — a mouthful of food obtained in the manner of the bee (*madhukara-vṛtti*).
