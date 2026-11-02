@@ -144,6 +144,18 @@ Lakṣmī's maidservants say: “O servants of Jagannātha! Look: leaving such w
 
 With sticks (*daṇḍa*, that is, *lāṭhi*) they beat the chariot standing at the gate of Guṇḍicā.
 
+## 220–222
+
+The place where Kṛṣṇa, setting aside majesty, considers Himself rich in the sweetness of leaves, flowers and the like is called Vṛndāvana-dhāma. In that Vṛndāvana-dhāma the ground is made of *cintāmaṇi*, that is, it is spiritual; the houses are of spiritual jewels; the feet of the maidservants are adorned with spiritual ornaments; and a self-existent (*sahaja-siddha*) forest, full of spiritual wish-fulfilling trees and creepers, eternally shines. There no one asks for any wealth other than fruits and flowers.
+
+## 226
+
+There dwell countless millions of Lakṣmīs full of sweetness (*mādhurya*), who have surpassed the Lakṣmī full of majesty (*aiśvarya*).
+
+## 227
+
+In that Vṛndāvana the beloveds are the Vraja-lakṣmīs, the *gopīs*; the Beloved is the Supreme Person, Śrī Kṛṣṇa; all the trees are wish-fulfilling trees; all the land is spiritual, the water is nectar, speech is song, walking is dance, and Kṛṣṇa's flute is a dear friend; and everywhere the light of spiritual bliss (*cid-ānanda-jyoti*) is felt. Therefore Śrī Vṛndāvana alone is the supreme object of relish.
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.

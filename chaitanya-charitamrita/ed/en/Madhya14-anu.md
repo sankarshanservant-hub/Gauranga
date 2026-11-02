@@ -704,13 +704,59 @@ Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, 
 
 *Āsoyātha*: uneasiness, indisposition, agitation.
 
+## 207
+
+“Your Ṭhākura”: the words of Lakṣmī's maidservants addressed to Jagannātha's servants.
+
+## 208
+
+*Nija prabhure*: Jagannātha.
+
 ## 209
 
 > Subheading: Lakṣmī's maidservants tie up and punish the Lord's servants, who share His guilt —
 
+*Prabhura*: of Jagannātha.
+
 ## 212
 
 > Subheading: The servants promise to return their master Jagannātha [to Lakṣmī] —
+
+## 213
+
+> Subheading: Hearing this, Lakṣmī is pacified —
+
+## 214
+
+> Subheading: Speaking of Lakṣmī's majesty, Śrīvāsa teases Svarūpa —
+
+*Āuṭi*: boiling down.
+
+## 215
+
+> Subheading: Hearing Śrīvāsa's words, the Lord's devotees on the path of *rāga* laugh —
+
+*Nija-dāsa*: Gadādhara and the others who form the Lord's potency (*śakti*); they are wholly devoted to the service of Śrī Rādhā-Govinda and absorbed in *rāgātmika-bhakti*.
+
+## 216
+
+> Subheading: The Lord describes what is distinctive in the *bhajana* of Śrīvāsa and of Śrī Svarūpa —
+
+## 218
+
+> Subheading: Svarūpa describes the greatness of the sweetness of Vraja —
+
+## 219
+
+> Subheading: The wealth of Mahā-Vaikuṇṭha is but a particle of the wealth of Vṛndāvana —
+
+## 220
+
+> Subheading: A description of Kṛṣṇa's Vṛndāvana-dhāma —
+
+## 220–226
+
+See Ādi, Chapter 5, verses 20–22.
 
 ---
 
