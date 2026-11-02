@@ -372,7 +372,7 @@ in this way  Jagannātha  takes  His meal
 ei sukhe mahāprabhura juḍāya nayana  
 by this joy  Mahāprabhu’s  are soothed  eyes
 
-(36) Such were the meals Jagannātha takes, and the joy of seeing them soothed Mahāprabhu’s eyes.
+(36) In this way Jagannātha took His meal, and the joy of seeing it soothed Mahāprabhu’s eyes.
 
 কেয়া-পত্র-দ্রোণী আইল বোঝা পাঁচ-সাত ৷  
 এক এক জনে দশ দোনা দিল, — এত পাত ॥ ৩৭ ॥
@@ -412,7 +412,7 @@ the Lord  not  having eaten  anyone  not  takes  a meal
 svarūpa-gosāñi tabe kaila nivedana  
 Svarūpa Gosāñi  then  made  a request
 
-(40) But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request.
+(40) But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request:
 
 আপনে বৈস, প্রভু, ভোজন করিতে ৷  
 তুমি না খাইলে, কেহ না পারে খাইতে ॥ ৪১ ॥
@@ -432,7 +432,7 @@ then  Mahāprabhu  sits  His own people  with
 bhojana karāila sabāke ākaṇṭha pūriyā  
 meal  caused to take  all  up to the throat  filling
 
-(42) Then Mahāprabhu sat down with His companions and fed them all until they were full to the throat.
+(42) Then Mahāprabhu sat down with His companions and fed them all until they could eat no more.
 
 ভোজন করি’ বসিলা প্রভু করি’ আচমন ৷  
 প্রসাদ উবরিল, খায় সহস্রেক জন ॥ ৪৩ ॥
@@ -492,7 +492,7 @@ to pull  not  can  the Gauḍas  the chariot  leaving  let go
 pātra-mitra lañā rājā vyagra hañā āila  
 officers and friends  taking  the king  anxious  becoming  came
 
-(48) Unable to pull it, the *gauḍas* let the chariot go. The king, anxious, came there with his officers and friends.
+(48) Unable to pull it, the *gauḍas* let the chariot go. In alarm the king hurried there with his officers and friends.
 
 মহামল্লগণে দিল রথ চালাইতে ৷  
 আপনে লাগিলা রথ, না পারে টানিতে ॥ ৪৯ ॥
@@ -692,7 +692,7 @@ of four  months  the days  the chief devotees  dividing  took
 āra bhakta-gaṇa avasara nā pāila  
 the other  devotees  opportunity  not  received
 
-(68) The chief devotees divided up the days of the four months among themselves, and the other devotees found no opportunity.
+(68) The chief devotees shared out the days of the four months among themselves, and the other devotees found no opportunity.
 
 এক দিন নিমন্ত্রণ করে দুই-তিনে মিলি’ ৷  
 এইমত মহাপ্রভুর নিমন্ত্রণ-কেলি ॥ ৬৯ ॥
@@ -1072,7 +1072,7 @@ of Herā-pañcamī  the day  came  knowing
 kāśī-miśre kahe rājā sayatna kariyā  
 to Kāśī Miśra  says  the king  with care  making
 
-(106) Knowing that the day of the Herā-pañcamī had come, the king spoke to Kāśī Miśra with great care.[^24]
+(106) Knowing that the day of the Herā-pañcamī was at hand, the king spoke to Kāśī Miśra with great care.[^24]
 
 কল্য ‘হেরা-পঞ্চমী’ হবে লক্ষ্মীর বিজয় ৷  
 ঐছে উৎসব কর, যেন কভু নাহি হয় ॥ ১০৭ ॥

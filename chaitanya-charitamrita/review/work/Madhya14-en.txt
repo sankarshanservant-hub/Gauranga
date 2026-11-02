@@ -2,7 +2,7 @@
 # Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
 # Base: stage-A English (ed/en/work/Madhya14.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
 # Shift 1: verses 1–128 (scan pp. 560–568); shift 2: 129–257.
-# Revised so far: 1–30 (the rest of 1–128 — stage-A text, not yet revised).
+# Shift 1 (1–128) revised; shift 2 — append 129–257 from ed/en/work/Madhya14.p2.txt and remove this line.
 
 ## 0
 tr: Beholding the Herā-pañcamī Festival
@@ -205,7 +205,7 @@ tr: Half the garden was filled with prasāda, and Mahāprabhu was delighted to s
 ## 36
 w: in this way  Jagannātha  takes  His meal
 w: by this joy  Mahāprabhu’s  are soothed  eyes
-tr: Such were the meals Jagannātha takes, and the joy of seeing them soothed Mahāprabhu’s eyes.
+tr: In this way Jagannātha took His meal, and the joy of seeing it soothed Mahāprabhu’s eyes.
 
 ## 37
 w: of ketakī leaves  cups  came  loads  five or seven
@@ -225,7 +225,7 @@ tr: He seated the devotees row by row and began to serve them Himself.
 ## 40
 w: the Lord  not  having eaten  anyone  not  takes  a meal
 w: Svarūpa Gosāñi  then  made  a request
-tr: But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request.
+tr: But no one would eat unless the Lord ate, and so Svarūpa Gosāñi made a request:
 
 ## 41
 w: Yourself  sit  Lord  meal  to take
@@ -235,7 +235,7 @@ tr: “Lord, please sit down Yourself and take Your meal. Unless You eat, no one
 ## 42
 w: then  Mahāprabhu  sits  His own people  with
 w: meal  caused to take  all  up to the throat  filling
-tr: Then Mahāprabhu sat down with His companions and fed them all until they were full to the throat.
+tr: Then Mahāprabhu sat down with His companions and fed them all until they could eat no more.
 
 ## 43
 w: the meal  having taken  sat  the Lord  making  rinsing of the mouth
@@ -266,7 +266,7 @@ tr: Meanwhile, at the time for Jagannātha’s chariot to move, all the *gauḍa
 ## 48
 w: to pull  not  can  the Gauḍas  the chariot  leaving  let go
 w: officers and friends  taking  the king  anxious  becoming  came
-tr: Unable to pull it, the *gauḍas* let the chariot go. The king, anxious, came there with his officers and friends.
+tr: Unable to pull it, the *gauḍas* let the chariot go. In alarm the king hurried there with his officers and friends.
 
 ## 49
 w: to great wrestlers  gave  the chariot  to move
@@ -367,7 +367,7 @@ tr: The other devotees divided up all the days of the Cāturmāsya, one day each
 ## 68
 w: of four  months  the days  the chief devotees  dividing  took
 w: the other  devotees  opportunity  not  received
-tr: The chief devotees divided up the days of the four months among themselves, and the other devotees found no opportunity.
+tr: The chief devotees shared out the days of the four months among themselves, and the other devotees found no opportunity.
 
 ## 69
 w: one  day  invitation  make  two or three  joining together
@@ -562,7 +562,7 @@ fn: Heading in the edition: “The Lord rests at Jagannātha-vallabha.” *Amṛ
 ## 106
 w: of Herā-pañcamī  the day  came  knowing
 w: to Kāśī Miśra  says  the king  with care  making
-tr: Knowing that the day of the Herā-pañcamī had come, the king spoke to Kāśī Miśra with great care.
+tr: Knowing that the day of the Herā-pañcamī was at hand, the king spoke to Kāśī Miśra with great care.
 fn: *Amṛta-pravāha-bhāṣya*: the Herā-pañcamī is the fifth day after the Ratha-yātrā: Lakṣmī-devī, searching for Jagannātha, goes to Guṇḍicā, and having seen (*heriyā*) Him she returns; this is why the people of Utkala call the day “Herā-pañcamī”.
 
 ## 107
