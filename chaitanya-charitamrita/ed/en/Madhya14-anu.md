@@ -620,7 +620,7 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: (*Govinda-līlāmṛta* 9.18)
 
-**asau** (Śrī Kṛṣṇa) **rādhāyāḥ** **bāṣpa-vyākulitāruṇāñcala-calan-netram** (in which the eyes, with reddish corners and clouded with tears, move restlessly) **rasollāsitam** **helollāsa-calādharam** (with lips trembling from an excess of a special *bhāva*) **kuṭilita-bhrū-yugmam** **udyat-smitam** (on which a clear, gentle smile appears) **kila-kiñcitāñcitam** (endowed with that *bhāva*) **ānanam** (face) **vīkṣya** (seeing) **saṅgamāt** **koṭi-guṇitam** **tam** **ānandam** **avāpa** (attained) — **yaḥ** (that bliss which) **gīr-gocaraḥ** (within the reach of words) **na** **abhūt** (never is).
+**asau** (Śrī Kṛṣṇa) **rādhāyāḥ** **bāṣpa-vyākulitāruṇāñcala-calan-netram** (in which the eyes, with reddish corners and clouded with tears, move restlessly) **rasollāsitam** **helollāsa-calādharam** (with lips trembling from an excess of a special *bhāva*) **kuṭilita-bhrū-yugmam** **udyat-smitam** (on which a clear, gentle smile appears) **kila-kiñcitāñcitam** (endowed with that *bhāva*) **ānanam** (face) **vīkṣya** (seeing) **saṅgamāt** **koṭi-guṇitam** **tam** **ānandam** **avāpa** (attained) — **yaḥ** (that bliss which) **gīr-gocaraḥ** (within the reach of words) **na** **abhūt** (never is — that is, that bliss is never within the reach of words).
 
 ## 182
 
@@ -888,7 +888,7 @@ See Ādi, Chapter 10, verses 162–163, and Chapter 17, verse 331.[^256-1]
 
 [^87-1]: The verse translation reads differently: it takes *khali* as “a stale crust” of dry logic.
 
-[^194-1]: Unclear place in the scan: the next word of the gloss could not be read with certainty.
+[^194-1]: The edition's gloss continues: *calantī kampanavatī cillī bhrūḥ; cillī-pakṣiṇīva bhrūḥ klinnākṣī-vā* (*cillī* = brow; “a brow like the *cillī* bird”); the last word is printed *klinnākṣī-vā* (ক্লিন্নাক্ষীবা, apparently “or moist-eyed”); its sense is unclear and it is not rendered in the translation.
 
 [^195-1]: The verse translation reads differently: Kṛṣṇa seizes “the edge of Her sari.”
 

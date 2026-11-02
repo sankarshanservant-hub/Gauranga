@@ -172,7 +172,7 @@ Note this: Śrī Mahāprabhu Himself, together with the devotees, honored that *
 
 ## 244
 
-*Bhitara-vijaya*: in the Guṇḍicā temple Jagannātha, Balarāma and Subhadrā, these three Śrī-mūrtis, are brought down from the jeweled altar (*ratna-vedī*) into the *jagamohana*, and then at the proper time They are raised onto the chariots. The time that They spend in the *jagamohana* after coming down from the *ratna-vedī* is called *bhitara-vijaya*.
+*Bhitara-vijaya*: when Jagannātha, Balarāma and Subhadrā, these three Śrī-mūrtis, having come down in the Guṇḍicā temple from the jeweled altar (*ratna-vedī*), are in the *jagamohana*, They are raised onto the chariots all at one time. The time that They spend in the *jagamohana* after coming down from the *ratna-vedī* is called *bhitara-vijaya*.
 
 ## 249
 
