@@ -176,7 +176,7 @@ By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother an
 
 ## 53
 
-> Subheading: The Lord always sees Śacī, but by His *māyā* Śacī doubts it —
+> Subheading: Before too the Lord always met Śacī, but by His *māyā* Śacī doubts it —
 
 ## 54
 
