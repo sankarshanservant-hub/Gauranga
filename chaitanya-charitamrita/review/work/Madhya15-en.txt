@@ -1,0 +1,772 @@
+# English translation, Madhya-līlā 15 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya15.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–151 (scan pp. 579–591); shift 2: 152–302.
+
+## 0
+tr: The Feast at Sārvabhauma’s House
+
+## 1
+w: in the house of Sārvabhauma  eating
+w: His own reviler  Amogha
+w: accepting  manifest  made
+w: Gaura  His own  subjection to His devotees
+tr: While taking His meal at Sārvabhauma’s house, Gaura accepted Amogha, who had reviled Him, and so made plain that He is subject to His devotees.
+fn: *Anubhāṣya*: Amogha was the husband of Ṣaṣṭhī, Sārvabhauma’s daughter; “accepted” — counted him among His servants. Heading in the edition: “Gaurasundara makes His own Amogha, who had reviled Him.”
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 10.2 (= Ādi 4.2); translation as there.
+
+## 3
+w: glory  to the listeners of the Śrī Caitanya-caritāmṛta
+w: the Caitanya-caritāmṛta  —  whose  treasure of life
+tr: Glory to the listeners of the *Śrī Caitanya-caritāmṛta*, for whom the *Caitanya-caritāmṛta* is the treasure of their lives!
+
+## 4
+w: thus  Mahāprabhu  with the devotees
+w: in Nīlācala  staying  does  dancing and singing  joyfully
+tr: In this way Mahāprabhu stayed in Nīlācala with His devotees, joyfully dancing and singing.
+
+## 5
+w: in the first year  Jagannātha  seeing
+w: dancing and singing  does  prostrations  obeisances  prayers
+tr: In that first year He went to see Jagannātha; He danced and sang, fell prostrate, bowed down and offered prayers.
+
+## 6
+w: the upala-bhoga  when it begins  makes  outside  going forth
+w: Haridāsa  meeting  comes  to His own dwelling
+tr: When the *upala-bhoga* began, He would come out of the temple, meet Haridāsa, and return to His own dwelling.
+fn: *Anubhāṣya*: the *upala-bhoga* is offered at midday in the *bhoga-vardhana* hall. Before leaving the temple, the Lord would stand behind the Garuḍa pillar, fall prostrate and offer prayers; on the way back He met Haridāsa Ṭhākura at Siddha-bakula and returned to His dwelling, the house of Kāśī Miśra.
+
+## 7
+w: at home  sitting  does  the Lord  the saṅkīrtana of the Name
+w: Advaita  coming  does  the Lord’s  worship
+tr: Sitting at home, the Lord would chant the Holy Name, and Advaita would come and worship Him.
+
+## 8
+w: with fragrant water  offers  water for the feet  water for sipping
+w: over all the limbs  smears  of the Lord  fragrant  sandalwood
+tr: Advaita offered Him fragrant water to wash His feet and to sip, and smeared fragrant sandalwood paste over all His limbs.
+
+## 9
+w: on the neck  a garland  puts  on the head  placed  tulasī buds
+w: joined  with hands  prayers  offers  at the feet  bowing
+tr: He put a garland around the Lord’s neck and placed *tulasī* buds on His head; then He bowed at His feet and offered prayers with joined palms.
+
+## 10
+w: on the worship plate  of flowers and tulasī  remnant  that  was
+w: that  all  taking  the Lord  the Ācārya  worshipped
+tr: Taking whatever flowers and *tulasī* were left on the worship plate, the Lord worshipped the Ācārya with them.
+
+## 11
+w: who  You are  that  You are  obeisance  be  to You  this  mantra  recites
+w: mouth-music  making  the Lord  makes laugh  the Ācārya
+tr: He recited the *mantra* “Whoever You are, that You are — obeisance to You,” and, making funny sounds with His mouth, set the Ācārya laughing.
+fn: *Anubhāṣya*: some give the *mantra* in a fuller form: “O Rādhā, O Kṛṣṇa, O Rāma, O Viṣṇu, O Sītā, O Rāma, O Śiva, O Śiva! Whoever You are, that You are — I always bow to You; whoever You are, that You are — obeisance to You.”
+
+## 12
+w: thus  to one another  make  obeisance
+w: the Lord  invitation  makes  the Ācārya  time  after time
+tr: So They paid obeisance to one another, and again and again the Ācārya invited the Lord to a meal.
+
+## 13
+w: the Ācārya’s  invitation  —  a wonderful story
+w: in detail  has described  Vṛndāvana dāsa
+tr: The story of the Ācārya’s invitations is wonderful, and Vṛndāvana dāsa has described it in detail.
+fn: *Amṛta-pravāha-bhāṣya*: see the *Śrī Caitanya-bhāgavata*, Antya-khaṇḍa, chapter 9.
+
+## 14
+w: repetition  would be  it  not  I made  description
+w: other  devotees  make  to the Lord  invitation
+tr: To tell it again would be repetition, so I have not described it. The other devotees also invited the Lord.
+
+## 15
+w: one  by one  day  in one  after another  devotee’s home  a festival
+w: with the Lord  there  eating  do  devotees  all
+tr: Day after day there was a festival in one devotee’s home after another, and all the devotees ate there with the Lord.
+
+## 16
+w: four months  stayed  all  with Mahāprabhu
+w: of Jagannātha  various  festivals  see  with great joy
+tr: For four months all the devotees stayed with Mahāprabhu and watched Jagannātha’s various festivals with great joy.
+
+## 17
+w: on the day of the festival of Kṛṣṇa’s birth  Nanda’s great festival
+w: in cowherd dress  became  the Lord  taking  all the devotees
+tr: On the day of Kṛṣṇa’s birth festival, at Nanda’s great celebration, the Lord and all His devotees dressed as cowherds.
+fn: *Anubhāṣya*: the day of Kṛṣṇa’s birth festival here is the day after Janmāṣṭamī, the day of the Nandotsava.
+
+## 18
+w: a yoke of yogurt and milk  the Lord  on His own shoulder  placing
+w: to the festival place  came  saying  “Hari”  “Hari”
+tr: Carrying a yoke of yogurt and milk on His shoulder, the Lord came to the festival grounds calling out, “Hari! Hari!”
+
+## 19
+w: Kānāi Khuṭiyā  was  Nanda’s dress  wearing
+w: Jagannātha Māhāti  had become  the Queen of Vraja
+tr: Kānāi Khuṭiyā was dressed as Nanda, and Jagannātha Māhāti had become Yaśodā, the Queen of Vraja.
+
+## 20
+w: himself  Pratāparudra  and  Kāśī Miśra
+w: Sārvabhauma  and  the paḍichā-pātra  Tulasī
+tr: King Pratāparudra himself was there, with Kāśī Miśra, Sārvabhauma and Tulasī, the temple *paḍichā*.
+
+## 21
+w: them all  taking  the Lord  does  joyful dancing
+w: yogurt and milk  with turmeric water  fills  everyone’s  body
+tr: With them all the Lord danced joyfully, and everyone was drenched in yogurt, milk and turmeric water.
+
+## 22
+w: Advaita  says  —  truth  I speak  not  do  anger
+w: the staff  to twirl  You can  then  I know  a cowherd
+tr: Advaita said, “I am telling You the truth — don’t be angry. Only if You can twirl a staff will I know You are a cowherd.”
+
+## 23
+w: then  the staff  taking  the Lord  to twirl  began
+w: time  after time  into the sky  throwing  snatching  caught
+tr: Then the Lord took a staff and began to twirl it, tossing it into the air again and again and catching it.
+
+## 24
+w: of the head  above  in front  behind  on both sides
+w: between the feet  twirls  the staff  —  seeing  the people  laugh
+tr: He twirled the staff over His head, in front, behind, on both sides and even between His feet, and the people laughed to see it.
+fn: *Anubhāṣya*: *pāda-sandhye* — in the space between the feet.
+
+## 25
+w: a firebrand’s circle  like  the staff  twirls
+w: seeing  in the hearts of all people  wonder  arises
+tr: He whirled the staff like a circle of fire traced by a firebrand, and all who saw it were struck with wonder.
+fn: *Anubhāṣya*: a burning brand whirled very fast looks like an unbroken circle of fire; so fast did the Lord whirl the staff that it seemed to be everywhere at once.
+
+## 26
+w: in the same way  Nityānanda  twirls  a staff
+w: who  will understand  that  of the two  the cowherd mood  hidden
+tr: Nityānanda twirled a staff in the same way. Who can understand the hidden cowherd mood of these two?
+fn: Heading in the edition: “Nitāi too whirls a staff and shows Himself a cowherd.”
+
+## 27
+w: by Pratāparudra’s  order  the paḍichā Tulasī
+w: a prasāda cloth of Jagannātha  one  taking  coming
+tr: At Pratāparudra’s order, Tulasī the *paḍichā* came, bringing a cloth that had been offered to Jagannātha.
+
+## 28
+w: costly  cloth  the Lord  on the head  tied
+w: the Ācārya and others  the Lord’s  people  clothed
+tr: The Lord tied the costly cloth around His head, and the Ācārya and the Lord’s other companions were given it to wear as well.
+
+## 29
+w: Kānāi Khuṭiyā  Jagannātha  —  the two
+w: in ecstasy  gave away  at home  was  whatever  wealth
+tr: Kānāi Khuṭiyā and Jagannātha, the two of them, in their ecstasy gave away all the wealth they had at home.
+
+## 30
+w: seeing  Mahāprabhu  great  satisfaction  felt
+w: as mother and father  to both  obeisance  made
+tr: Seeing this, Mahāprabhu was very pleased and bowed down to the two of them as to His mother and father.
+
+## 31
+w: in great ecstasy  the Lord  came  to His own home
+w: thus  pastimes  performs  Gaurāṅga-sundara
+tr: In deep ecstasy the Lord returned home. Such were the pastimes of Gaurāṅgasundara.
+
+## 32
+w: Vijayā-daśamī  —  of the conquest of Laṅkā  on the day
+w: a monkey army  made  the Lord  taking  the devotees
+tr: On Vijayā-daśamī, the day of the conquest of Laṅkā, the Lord made the devotees into an army of monkeys.
+
+## 33
+w: in the mood of Hanumān  the Lord  a tree branch  taking
+w: on the fort of Laṅkā  climbing  throws down  Laṅkā  breaking
+tr: Absorbed in the mood of Hanumān, the Lord took a tree branch, climbed the ramparts of Laṅkā and tore Laṅkā down.
+
+## 34
+w: where is  the wretch Rāvaṇa  the Lord  says  in a fit of anger
+w: the Mother of the world  stole  the sinner  I will kill  with all his race
+tr: In a fit of anger the Lord cried, “Where is that wretch Rāvaṇa? The sinner has carried off the Mother of the world! I will kill him and all his race!”
+
+## 35
+w: of the Lord  the ecstasy  seeing  people  amazed
+w: all people  “Jaya”  “Jaya”  make  time  after time
+tr: Seeing the Lord’s ecstasy, the people were amazed, and all of them shouted “Jaya! Jaya!” again and again.
+
+## 36
+w: in this way  the Rāsa-yātrā  and  Dīpāvalī
+w: the Utthāna-dvādaśī  festival  saw  all
+tr: In the same way they all saw the Rāsa-yātrā, Dīpāvalī and the festival of Utthāna-dvādaśī.
+
+## 37
+w: one day  Mahāprabhu  Nityānanda  taking
+w: the two  brothers  counsel  held  in seclusion  sitting
+tr: One day Mahāprabhu took Nityānanda aside, and the two brothers sat together in seclusion and took counsel.
+
+## 38
+w: what  counsel  held  the two  anyone  not  knows
+w: from the result  a guess  afterwards  made  the devotees
+tr: What the two decided no one knew; only later could the devotees guess it from what followed.
+
+## 39
+w: then  Mahāprabhu  all  devotees  called
+w: to Gauḍa  go  all  farewell  made
+tr: Then Mahāprabhu called all the devotees and bade them farewell, telling them to go back to Gauḍa.
+
+## 40
+w: to all  said  —  every year  coming
+w: Guṇḍicā  seeing  you will go  Me  meeting
+tr: He said to them all, “Come every year: see the Guṇḍicā festival, meet with Me, and then go home.”
+
+## 41
+w: to the Ācārya  order  gave  showing  respect
+w: down to the caṇḍālas  and others  devotion to Kṛṣṇa  give  as a gift
+tr: With respect He gave this order to the Ācārya: “Give devotion to Kṛṣṇa to everyone, down to the *caṇḍālas*.”
+
+## 42
+w: to Nityānanda  order  gave  —  go  to Gauḍa
+w: unrestrained  loving devotion  do  manifest
+tr: To Nityānanda He gave this order: “Go to Gauḍa and reveal loving devotion freely, without restraint.
+
+## 43
+w: Rāmadāsa  Gadādhara  and others  some  persons
+w: Your  help  for  I have given  You  with
+tr: To help You I am sending Rāmadāsa, Gadādhara and some others with You.
+
+## 44
+w: from time  to time  I  You  near  will go
+w: unseen  remaining  Your  dancing  I will see
+tr: From time to time I will come to You, and, staying unseen, I will watch You dance.”
+
+## 45
+w: Śrīvāsa Paṇḍita  the Lord  making  embrace
+w: by the neck  holding  says  to him  sweet  words
+tr: The Lord embraced Śrīvāsa Paṇḍita and, with His arm around his neck, spoke sweet words to him:
+
+## 46
+w: in your  house  in the kīrtana  I  always  will dance
+w: you  sight  will get  other  anyone  not  will see
+tr: “I will always dance in the *kīrtana* at your house. You will see it, but no one else will.
+
+## 47
+w: this  cloth  to Mother  give  this  all  prasāda
+w: prostration  making  My  have forgiven  offence
+tr: Give this cloth and all this *prasāda* to My mother. Fall down before her and beg her to forgive My offence.
+
+## 48
+w: her  service  leaving  I  have taken  sannyāsa
+w: dharma  it is not  do  I  My own dharma  destruction
+tr: I gave up serving her and took *sannyāsa*. That is not *dharma*: I am destroying My own *dharma*.
+
+## 49
+w: her  love  subject to  I am  her  service  —  dharma
+w: that  leaving  I have done  of a madman  deed
+tr: I am subject to her love, and serving her is My *dharma*. In giving that up I have acted like a madman.
+
+## 50
+w: mad  child’s  mother  not  takes  fault
+w: this  knowing  Mother  with Me  not  is  angry
+tr: A mother does not hold her mad child at fault. Knowing this, My mother is not angry with Me.
+
+## 51
+w: what  use  in sannyāsa  to Me  love  own wealth
+w: at the time  sannyāsa  I took  deranged  became  mind
+tr: What use is *sannyāsa* to Me? Love is My real wealth. When I took *sannyāsa*, My mind was deranged.
+
+## 52
+w: in Nīlācala  am  I  her  by order
+w: from time  to time  I will come  her  feet  to see
+tr: I stay in Nīlācala at her bidding, and from time to time I will come to see her feet.
+
+## 53
+w: always  going  see  I  her  feet
+w: a vision  thinking  she  that  true  not  accepts
+tr: Every day I go and see her feet, but she takes it for a vision and does not believe it is real.
+
+## 54–55
+w: one day  śāli rice  vegetable dishes  five or seven
+w: greens  banana-flower ghaṇṭa  fried  paṭolas with nīm leaves
+w: lemon and ginger slices  yogurt  milk  sugar candy
+w: to the śālagrāma  offered  many  gifts
+tr: One day she offered the *śālagrāma* many gifts: *śāli* rice, five or seven vegetable dishes, greens, *ghaṇṭa* of banana flowers, fried *paṭolas* with *nīm* leaves, slices of lemon and ginger, yogurt, milk and sugar candy.
+
+## 56
+w: the prasāda  taking  in her lap  does  weeping
+w: of Nimāi  favourites  my  —  all these  dishes
+tr: She took the *prasāda* on her lap and wept: ‘All these dishes are my Nimāi’s favourites.
+
+## 57
+w: Nimāi  not  here  who  does  eating
+w: on Me  in meditation  with tears  filled  eyes
+tr: Nimāi is not here — who will eat them?’ As she thought of Me, her eyes filled with tears.
+
+## 58
+w: quickly  going  I  all  did  eating
+w: the empty plate  seeing  tears  making  wiping
+tr: I went at once and ate everything. Seeing the plate empty, she wiped away her tears.
+
+## 59
+w: who  rice and vegetables  ate  empty  why  the plate
+w: Bāla-gopāla  perhaps  ate  all  the rice
+tr: ‘Who has eaten the rice and vegetables? Why is the plate empty? Could Bāla-gopāla have eaten all the rice?
+
+## 60
+w: or  my  in the matter  in the mind  delusion  happened
+w: or  some  animal  coming  everything  ate
+tr: Or was my mind deluded about it? Or did some animal come and eat it all?
+
+## 61
+w: or  I  on the rice plate  by mistake  not  served
+w: so  thinking  the cooking pots  going  looked at
+tr: Or did I forget to serve the food on the plate?’ Thinking this, she went and looked into the cooking pots.
+
+## 62
+w: with rice and vegetables  full  seeing  all  the vessels
+w: seeing  doubt  arose  some  wonder  in the mind
+tr: She saw that all the pots were still full of rice and vegetables, and at the sight she was filled with doubt and wonder.
+
+## 63
+w: Īśāna  calling  again  the place  had cleaned
+w: once more  to Gopāla  food  offered
+tr: She called Īśāna, had the place cleaned and plastered again, and once more offered food to Gopāla.
+
+## 64
+w: thus  whenever  does  excellent  cooking
+w: Me  to feed  does  in longing  weeping
+tr: Whenever she cooks something excellent like this, she weeps with longing to feed Me.
+
+## 65
+w: her  by love  bringing  Me  makes  eat
+w: within  happiness  feels  she  outwardly  not  accepts
+tr: Her love draws Me there and makes Me eat. Within she feels happy, but outwardly she does not accept it.
+
+## 66
+w: on this  Vijayā-daśamī  happened  this  event
+w: her  asking  to her  make  conviction
+tr: This happened on this very Vijayā-daśamī. Ask her about it and convince her that it was real.”
+
+## 67
+w: so much  saying  the Lord  overwhelmed  became
+w: the people  farewell  to make  the Lord  composure  held
+tr: As He said this, the Lord was overwhelmed; but to send the devotees off He kept His composure.
+
+## 68
+w: to Rāghava Paṇḍita  speaks  words  tender
+w: your  steadfast  by love  I  am  your  subject
+tr: To Rāghava Paṇḍita He spoke tender words: “Your steadfast love has brought Me under your control.
+
+## 69
+w: his  of service to Kṛṣṇa  the account  hear  all people
+w: supremely pure  service  most  excellent
+tr: Hear, everyone, how he serves Kṛṣṇa. His service is supremely pure, the very best of all.
+
+## 70
+w: other  things  let be  hear  of the coconuts  the story
+w: five  gaṇḍās  at  a coconut  sells  there
+tr: Leaving aside his other offerings, hear about the coconuts. There a coconut sells for five *gaṇḍās*.
+
+## 71
+w: in his garden  how many  hundreds  on trees  lakhs  upon lakhs  fruits
+w: still  he inquires  where  sweet  coconuts
+tr: In his garden hundreds of trees bear fruit by the hundreds of thousands, yet he still asks where the sweetest coconuts are to be had.
+
+## 72
+w: for each  one  fruit’s  price  giving  four  four  paṇas
+w: ten krośas  from  has brought  taking  pains
+tr: He pays four *paṇas* for every single fruit and takes pains to have them brought from ten *krośas* away.
+
+## 73
+w: every day  five or seven  fruits  husking
+w: very cool  making  keeps  in water  immersing
+tr: Every day he has five or seven fruits husked and keeps them immersed in water to make them very cool.
+
+## 74
+w: of the offering  at the time  again  trimming  preparing
+w: to Kṛṣṇa  offering  makes  the top  a hole  making
+tr: At the time of the offering he trims and prepares them again, cuts an opening in the top, and offers them to Kṛṣṇa.
+
+## 75
+w: Kṛṣṇa  that  coconut water  drinking  doing
+w: sometimes  empty  the fruit  leaves  sometimes  with water  full
+tr: Kṛṣṇa drinks the coconut water: sometimes He leaves the fruit empty, sometimes still full of water.
+
+## 76
+w: without water  the fruit  seeing  the Paṇḍita  —  delighted
+w: the fruit  breaking  with the pulp  makes  the śata-pātra  filled
+tr: When the Paṇḍita sees a fruit emptied of its water, he is delighted. He breaks it open and fills a plate with the pulp.
+
+## 77
+w: the pulp  offering  making  outside  meditation
+w: the pulp  eating  Kṛṣṇa  makes  empty  the vessel
+tr: He offers the pulp and meditates outside, and Kṛṣṇa eats the pulp and leaves the vessel empty.
+
+## 78
+w: sometimes  the pulp  eating  again  the vessel  fills  with pulp
+w: faith  grows  the Paṇḍita’s  in the ocean of love  floats
+tr: Sometimes, after eating the pulp, Kṛṣṇa fills the vessel with pulp again. Then the Paṇḍita’s faith grows, and he floats in an ocean of love.
+
+## 79
+w: one  day  ten fruits  preparation  making
+w: the offering  to set  a servant  came  bringing
+tr: One day a servant prepared ten coconuts and brought them to be offered.
+
+## 80
+w: opportunity  not  is  delay  happened
+w: with the plate of fruits in hand  the servant  at the door  just  stayed
+tr: It was not yet time to offer them; there was a delay, so the servant waited at the door with the plate of fruits in his hand.
+
+## 81
+w: of the door  on the upper wall  he  hand  put
+w: that  with hand  the fruits  touched  the Paṇḍita  saw
+tr: He touched the wall above the door with his hand and then touched the fruits with the same hand. The Paṇḍita saw it.
+
+## 82
+w: the Paṇḍita  says  —  through the door  people  make  coming and going
+w: their  foot-dust  flying up  sticks  on the upper  wall
+tr: The Paṇḍita said, “People are always coming and going through this door. The dust from their feet flies up and settles on the wall above it.
+
+## 83
+w: that  on the wall  hand  putting  the fruits  you touched
+w: for Kṛṣṇa fit  not  the fruits  impure  have become
+tr: You put your hand on that wall and then touched the fruits. They are no longer fit for Kṛṣṇa — they have become impure.”
+
+## 84
+w: so  saying  the fruits  throws  the boundary wall  crossing
+w: such  pure  loving service  the world  conquering
+tr: With these words he threw the fruits over the boundary wall. Such is his pure, loving service: it conquers the world.
+
+## 85
+w: then  other  coconuts  preparation  had made
+w: supremely  pure  making  offering  set
+tr: Then he had other coconuts prepared and offered them with the utmost purity.
+
+## 86
+w: in this way  bananas  mangoes  oranges  jackfruits
+w: whatever  whatever  in a distant village  he has heard  good
+tr: In the same way, whenever he hears of good bananas, mangoes, oranges or jackfruits in some distant village,
+
+## 87
+w: great price  paying  bringing  taking  pains
+w: pure  preparation  making  makes  offering
+tr: he pays a great price, takes pains to have them brought, prepares them with purity and offers them.
+
+## 88
+w: in the same way  for vegetable dishes  greens  roots  fruits
+w: in the same way  flat rice  huḍuma  sweets  all
+tr: So too with the greens, roots and vegetables for his dishes, and with flat rice, *huḍuma* and all kinds of sweets;
+
+## 89
+w: in the same way  cakes and drinks  sweet rice
+w: supremely  pure  and  makes  the best of all
+tr: so too with cakes, drinks and sweet rice — all supremely pure and the very best.
+
+## 90
+w: kāśamdi  pickles  and so on  many  kinds
+w: scents  cloth  ornaments  of all things  the best
+tr: He offers *kāśamdi*, pickles and many other things, and the best of everything: scents, cloth and ornaments.
+
+## 91
+w: in this way  loving  service  does  incomparable
+w: which  seeing  of all people  are soothed  the eyes
+tr: Such is the incomparable service he renders in love; it is a balm to the eyes of all who see it.”
+
+## 92
+w: so  saying  Rāghava  made  embrace
+w: in this way  honoured  all  the devotees
+tr: With these words He embraced Rāghava, and in the same way He honoured all the devotees.
+
+## 93
+w: to Śivānanda Sena  says  showing  respect
+w: of Vāsudeva Datta  you  do  care
+tr: Respectfully He said to Śivānanda Sena, “Please look after Vāsudeva Datta.
+
+## 94
+w: supremely  generous  he  on whatever  day  whatever  comes
+w: on that  day  spending  does  not  keeps  remainder
+tr: He is extremely generous: whatever comes to him on any day, he spends that same day and keeps nothing back.
+
+## 95
+w: a householder  is  he  is needed  saving
+w: saving  not  if made  the family’s upkeep  not  is
+tr: He is a householder, and a householder needs to save; without savings he cannot support his family.
+
+## 96
+w: his  household’s  income and expenses  all  —  with you
+w: the sarakhela  becoming  you  do  managing
+tr: Let all the income and expenses of his household be in your hands. Be his *sarakhela*, his guardian, and manage his affairs.
+
+## 97
+w: every year  My  all  devotees  taking
+w: to Guṇḍicā  you will come  all  protection  making
+tr: Every year bring all My devotees to the Guṇḍicā festival, and take care of them all.”
+
+## 98
+w: to the residents of Kulīna-grāma  says  respect  showing
+w: every year  you will come  to the festival  silk ropes  bringing
+tr: To the residents of Kulīna-grāma He said respectfully, “Come every year to the festival, and bring silk ropes.
+
+## 99
+w: Guṇarāja Khān  composed  the Śrī Kṛṣṇa-vijaya
+w: there  one sentence  his  is  full of love
+tr: Guṇarāja Khān composed the *Śrī Kṛṣṇa-vijaya*, and in it there is a sentence of his that is full of love:
+
+## 100
+w: Nanda’s son  Kṛṣṇa  —  my  Lord of life
+w: by this  sentence  I am sold  his  family’s  into the hands
+tr: ‘Kṛṣṇa, the son of Nanda, is the Lord of my life.’ For this one sentence I have sold Myself into the hands of his descendants.
+
+## 101
+w: of you  what  talk  of your  village  the dog
+w: even he  to Me  dear  other people  let be  far
+tr: What to speak of you? Even a dog of your village is dear to Me, not to mention anyone else there.”
+
+## 102
+w: then  Rāmānanda  and  Satyarāja Khān
+w: of the Lord  at the feet  something  made  submission
+tr: Then Rāmānanda and Satyarāja Khān humbly put a question at the Lord’s feet:
+
+## 103
+w: a householder  worldly  I  what  my  practice
+w: with Your holy mouth  give  the order  I submit  at the feet
+tr: “I am a worldly householder. What should my practice be? Please instruct me with Your own lips — I submit this at Your feet.”
+
+## 104
+w: the Lord  says  —  service to Kṛṣṇa  service to the Vaiṣṇavas
+w: constantly  do  saṅkīrtana of Kṛṣṇa’s Name
+tr: The Lord said, “Serve Kṛṣṇa, serve the Vaiṣṇavas, and always chant the Name of Kṛṣṇa in *saṅkīrtana*.”
+
+## 105
+w: Satyarāja  says  —  a Vaiṣṇava  shall I recognise  how
+w: who  a Vaiṣṇava  tell  his  general  marks
+tr: Satyarāja said, “How am I to recognise a Vaiṣṇava? Tell me who is a Vaiṣṇava — what are his general marks?”
+
+## 106
+w: the Lord  says  —  from whose  mouth  I hear  once
+w: Kṛṣṇa’s Name  he  worshipable  —  best  of all
+tr: The Lord said, “Anyone from whose mouth I hear the Name of Kṛṣṇa even once is worthy of worship — he is the best of all.
+
+## 107
+w: one  Name of Kṛṣṇa  does  of all sins  destruction
+w: ninefold  devotion  complete  the Name  from  becomes
+tr: A single Name of Kṛṣṇa destroys all sins, and through the Name the nine kinds of devotion become complete.
+
+## 108
+w: initiation, puraścaryā, rules  dependence  not  does
+w: by touching the tongue  down to the caṇḍāla  all  delivers
+tr: The Name does not wait for initiation, *puraścaryā* or any other rule. Simply by touching the tongue it delivers everyone, down to the *caṇḍāla*.
+
+## 109
+w: as a by-product  does  of worldly existence  ending
+w: the heart  attracting  causes  for Kṛṣṇa  the dawning of love
+tr: As a mere by-product it ends worldly existence; and by attracting the heart it awakens love for Kṛṣṇa.
+
+## 110
+w: the attraction  of the liberated  of the wise  the uprooting  and  of sins
+w: down to the caṇḍāla  to all people but the mute  easily available  the controller  and  of the wealth of liberation
+w: not  initiation  nor  and  pious rites  nor  and  puraścaryā  in the least  looks for
+w: mantra  this  touching the tongue  merely  bears fruit  consisting of Śrī Kṛṣṇa’s Name
+tr: “This *mantra*, the Name of Śrī Kṛṣṇa, draws the liberated and the wise and uproots all sins. Down to the *caṇḍāla*, it is within easy reach of everyone who is not mute, and it holds the wealth of liberation in its power. It does not look in the least for initiation, pious rites or *puraścaryā*: merely by touching the tongue it bears fruit.” (Padyāvalī 29)
+
+## 111
+w: therefore  in whose  mouth  one  Name of Kṛṣṇa
+w: he  indeed  a Vaiṣṇava  do  his  honor
+tr: Therefore anyone in whose mouth is even one Name of Kṛṣṇa is a Vaiṣṇava; show him honour.”
+
+## 112
+w: of Khaṇḍa  Mukunda dāsa  Śrī Raghunandana
+w: Śrī Narahari  —  these  chief  three  persons
+tr: From Khaṇḍa came Mukunda dāsa, Śrī Raghunandana and Śrī Narahari — these three were the chief among them.
+
+## 113
+w: Mukunda dāsa  asks  Śacī’s  son
+w: you  —  the father  son  your  —  Śrī Raghunandana
+tr: The son of Śacī asked Mukunda dāsa, “Are you the father, and Śrī Raghunandana your son?
+
+## 114
+w: or  Raghunandana  —  the father  you  —  his  son
+w: certainty  making  tell  let go  the doubt
+tr: Or is Raghunandana the father, and you his son? Tell Me for certain, so that My doubt may go.”
+
+## 115
+w: Mukunda  says  —  Raghunandana  my  father  is
+w: I  his  son  —  this  my  conviction
+tr: Mukunda said, “Raghunandana is my father, and I am his son — that is my conviction.
+
+## 116
+w: of us  all  devotion to Kṛṣṇa  Raghunandana  from
+w: therefore  the father  —  Raghunandana  my  certainly
+tr: All of us have received devotion to Kṛṣṇa from Raghunandana. So Raghunandana is certainly my father.”
+
+## 117
+w: hearing  joyfully  says  the Lord  —  you have said  rightly
+w: from whom  devotion to Kṛṣṇa  he  guru  is
+tr: Hearing this, the Lord said joyfully, “You have spoken rightly: he from whom devotion to Kṛṣṇa comes is the guru.”
+
+## 118
+w: of the devotee  the glory  telling  the Lord  gets  happiness
+w: of the devotee  the glory  telling  becomes  five-mouthed
+tr: The Lord delights in telling the glories of His devotees; telling them, He becomes as if five-mouthed.
+
+## 119
+w: to the devotees  says  —  hear  Mukunda’s  love
+w: pure  deep  love  like  pure  gold
+tr: He said to the devotees, “Hear about Mukunda’s love: it is spotless and deep, like pure gold.
+
+## 120
+w: outwardly  a royal physician  he  does  the king’s service
+w: within  love  his  will know  who
+tr: Outwardly he is a royal physician in the king’s service. Who could know the love within him?
+
+## 121
+w: one  day  of the Muslim king  on the high platform
+w: of treatment  talk  speaks  him  before
+tr: One day, on the Muslim king’s high platform, the king was talking with him about medical treatment.
+
+## 122
+w: at that time  a  of peacock feathers  fan
+w: over the king’s head  holds  a  servant  bringing
+tr: Just then a servant brought a fan of peacock feathers and held it over the king’s head.
+
+## 123
+w: the peacock feathers  seeing  Mukunda  overwhelmed by love  became
+w: very high  platform  from  to the ground  fell
+tr: At the sight of the peacock feathers Mukunda was overwhelmed with love and fell from the high platform to the ground.
+
+## 124
+w: the king’s  thought  —  of the royal physician  has happened  death
+w: himself  descending  then  brought about  consciousness
+tr: The king thought his royal physician had been killed. He came down himself and brought him back to his senses.
+
+## 125
+w: the king  says  pain  you  got  in which  place
+w: Mukunda  says  —  very great  pain  I got  not
+tr: The king asked, “Where are you hurt?” Mukunda answered, “I am not badly hurt.”
+
+## 126
+w: the king  says  —  Mukunda  you  fell  why
+w: Mukunda  says  —  O king  my  illness  is  epilepsy
+tr: The king asked, “Mukunda, why did you fall?” Mukunda said, “O king, I suffer from epilepsy.”
+
+## 127
+w: very shrewd  the king  that  all  knows
+w: of Mukunda  became  his  as a great perfected soul  understanding
+tr: But the king was very shrewd and understood it all: he came to regard Mukunda as a great perfected soul.
+
+## 128
+w: Raghunandana  service  does  in Kṛṣṇa’s  temple
+w: at the door  a pond  its  of the ghāṭa  above
+tr: Raghunandana serves in Kṛṣṇa’s temple. At its door there is a pond, and above its bathing steps
+
+## 129
+w: of kadamba  one  on a tree  bloom  twelve months
+w: daily  two  flowers  are  for Kṛṣṇa’s ornament
+tr: stands a *kadamba* tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.
+
+## 130
+w: to Mukunda  says  again  sweet  words
+w: your  duty  —  earning dharma and wealth
+tr: Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with *dharma*.
+
+## 131
+w: Raghunandana’s  duty  —  of Kṛṣṇa  service
+w: service to Kṛṣṇa  without  his  other  not  mind
+tr: Raghunandana’s duty is to serve Kṛṣṇa; his mind turns to nothing but serving Kṛṣṇa.
+
+## 132
+w: Narahari  let stay  My  with the devotees
+w: these  three  duties  always  do  you three
+tr: And let Narahari stay with My devotees. You three must always carry out these three duties.”
+
+## 133
+w: Sārvabhauma  Vidyā-vācaspati  —  two  brothers
+w: to the two  persons  mercy  showing  says  the Lord
+tr: Showing His mercy to the two brothers, Sārvabhauma and Vidyā-vācaspati, the Lord said:
+
+## 134
+w: in the form of wood and of water  Kṛṣṇa  manifest  now
+w: by seeing and by bathing  does  of living beings  liberation
+tr: “Kṛṣṇa is now manifest in the form of wood and in the form of water. Through seeing Him and through bathing in Him, He liberates living beings.
+
+## 135
+w: in the form of the Dāru-brahma  —  directly  Śrī Puruṣottama
+w: the Bhāgīrathī  is  directly  the Jala-brahma  equal to
+tr: As the Dāru-brahma, Brahman in the form of wood, He is Śrī Puruṣottama Himself; and the Bhāgīrathī is the Jala-brahma, Brahman in the form of water.
+
+## 136
+w: Sārvabhauma  do  the Dāru-brahma  worship
+w: Vācaspati  do  of the Jala-brahma  service
+tr: Sārvabhauma, worship the Dāru-brahma. Vācaspati, serve the Jala-brahma.”
+
+## 137
+w: Murāri Gupta  the Lord  making  embrace
+w: his  steadfast devotion  tells  hear  devotees
+tr: The Lord embraced Murāri Gupta and spoke of his steadfast devotion. Listen, devotees!
+
+## 138
+w: before  I  him  tempted  time  after time
+w: supremely  sweet  Gupta  the son of the king of Vraja
+tr: “In the past I tried again and again to win him over: ‘Gupta, the son of the king of Vraja is supremely sweet.
+
+## 139
+w: Himself  the Lord  Kṛṣṇa  —  the source of all portions  the shelter of all
+w: pure spotless love  full of all rasas
+tr: Kṛṣṇa is the Lord Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
+
+## 140
+w: a jewel-mine of the jewels of all good qualities
+w: clever  skillful  composed  of rasikas  the crest
+tr: He is a mine filled with the jewels of every good quality. He is clever, skillful and composed — the crown of all who relish *rasa*.
+
+## 141
+w: of sweet character  Kṛṣṇa’s  sweet  pastimes
+w: cleverness  skill  make  whose  the rasa of pastimes
+tr: Kṛṣṇa’s nature is sweet, and His pastimes are sweet; cleverness and skill fill the *rasa* of His play.
+
+## 142
+w: that  Kṛṣṇa  worship  you  become  sheltered in Kṛṣṇa
+w: Kṛṣṇa  except  other worship  the mind  not  accepts
+tr: Worship that Kṛṣṇa and take shelter of Him. Apart from Kṛṣṇa, no other worship can win the mind.’
+
+## 143
+w: in this way  time  after time  hearing  words
+w: out of regard for Me  somewhat  turning  went  his mind
+tr: Hearing such words from Me again and again, out of regard for Me his mind turned a little.
+
+## 144
+w: to Me  says  —  I  Your  servant
+w: Your  order-follower  I  am not  independent
+tr: He said to Me, ‘I am Your servant. I carry out Your orders; I am not independent.’
+
+## 145
+w: so  saying  home  went  thinking  at night
+w: at the thought of giving up Raghunātha  became  distraught
+tr: With these words he went home. That night, as he thought it over, the idea of giving up Raghunātha left him distraught.
+
+## 146
+w: how  shall I give up  Raghunātha’s  feet
+w: today  at night  O Lord  my  bring about  death
+tr: ‘How can I give up the feet of Raghunātha? O Lord, let me die this very night!’
+
+## 147
+w: thus  all night  does  weeping
+w: in mind  peace  not  at night  does  keeping awake
+tr: So he wept all night long; there was no peace in his mind, and he could not sleep.
+
+## 148
+w: in the morning  coming  My  clasped  feet
+w: weeping  weeping  something  makes  submission
+tr: In the morning he came and clasped My feet, and, weeping and weeping, he submitted this to Me:
+
+## 149
+w: at Raghunātha’s  feet  I  have sold  my head
+w: to take back  not  I can  the head  in mind  I get  pain
+tr: ‘I have sold my head at the feet of Raghunātha. I cannot take my head back, and my heart is in anguish.
+
+## 150
+w: Śrī Raghunātha’s feet  giving up  not  is possible
+w: Your  order-breaking  happens  what  do I  remedy
+tr: I cannot give up the feet of Śrī Raghunātha, yet that means breaking Your order. What am I to do?
+
+## 151
+w: therefore  to me  this  mercy  do  O merciful one
+w: of You  before  death  let be  let go  doubt
+tr: So, O merciful Lord, show me this mercy: let me die before You, and let my dilemma end.’
