@@ -312,185 +312,231 @@ as mother and father  to both  obeisance  made
 এইমত লীলা করে গৌরাঙ্গসুন্দর ॥ ৩১ ॥
 
 parama-āveśe prabhu āilā nija-ghara  
-ei mata līlā kare gaurāṅga-sundara
+in great ecstasy  the Lord  came  to His own home  
+ei mata līlā kare gaurāṅga-sundara  
+thus  pastimes  performs  Gaurāṅga-sundara
 
-(31) [not yet translated]
+(31) In deep ecstasy the Lord returned home. Such were the pastimes of Gaurāṅgasundara.
 
 বিজয়া-দশমী — লঙ্কা-বিজয়ের দিনে ৷  
 বানর-সৈন্য কৈলা প্রভু লঞা ভক্তগণে ॥ ৩২ ॥
 
 vijayā-daśamī — laṅkā-vijayera dine  
-vānara-sainya kailā prabhu lañā bhakta-gaṇe
+Vijayā-daśamī  —  of the conquest of Laṅkā  on the day  
+vānara-sainya kailā prabhu lañā bhakta-gaṇe  
+a monkey army  made  the Lord  taking  the devotees
 
-(32) [not yet translated]
+(32) On Vijayā-daśamī, the day of the conquest of Laṅkā, the Lord made the devotees into an army of monkeys.
 
 হনুমান্-আবেশে প্রভু বৃক্ষশাখা লঞা ৷  
 লঙ্কা-গড়ে চড়ি’ ফেলে লঙ্কা ভাঙ্গিয়া ॥ ৩৩ ॥
 
 hanumān-āveśe prabhu vṛkṣa-śākhā lañā  
-laṅkā-gaḍe caḍi’ phele laṅkā bhāṅgiyā
+in the mood of Hanumān  the Lord  a tree branch  taking  
+laṅkā-gaḍe caḍi’ phele laṅkā bhāṅgiyā  
+on the fort of Laṅkā  climbing  throws down  Laṅkā  breaking
 
-(33) [not yet translated]
+(33) Absorbed in the mood of Hanumān, the Lord took a tree branch, climbed the ramparts of Laṅkā and tore Laṅkā down.
 
 ‘কাঁহারে রাব্ণা’ প্রভু কহে ক্রোধাবেশে ৷  
 ‘জগন্মাতা হরে পাপী, মারিমু সবংশে’ ॥ ৩৪ ॥
 
 ‘kāṅhāre rāvṇā’ prabhu kahe krodhāveśe  
-‘jagan-mātā hare pāpī, mārimu savaṁśe’
+where is  the wretch Rāvaṇa  the Lord  says  in a fit of anger  
+‘jagan-mātā hare pāpī, mārimu savaṁśe’  
+the Mother of the world  stole  the sinner  I will kill  with all his race
 
-(34) [not yet translated]
+(34) In a fit of anger the Lord cried, “Where is that wretch Rāvaṇa? The sinner has carried off the Mother of the world! I will kill him and all his race!”
 
 গোসাঞির আবেশ দেখি’ লোকে চমৎকার ৷  
 সর্ব্বলোক ‘জয়’ ‘জয়’ করে বার বার ॥ ৩৫ ॥
 
 gosāñira āveśa dekhi’ loke camatkāra  
-sarva-loka ‘jaya’ ‘jaya’ kare bāra bāra
+of the Lord  the ecstasy  seeing  people  amazed  
+sarva-loka ‘jaya’ ‘jaya’ kare bāra bāra  
+all people  “Jaya”  “Jaya”  make  time  after time
 
-(35) [not yet translated]
+(35) Seeing the Lord’s ecstasy, the people were amazed, and all of them shouted “Jaya! Jaya!” again and again.
 
 এইমত রাসযাত্রা, আর দীপাবলী ৷  
 উত্থান-দ্বাদশীযাত্রা দেখিলা সকলি ॥ ৩৬ ॥
 
 ei mata rāsa-yātrā, āra dīpāvalī  
-utthāna-dvādaśī yātrā dekhilā sakali
+in this way  the Rāsa-yātrā  and  Dīpāvalī  
+utthāna-dvādaśī yātrā dekhilā sakali  
+the Utthāna-dvādaśī  festival  saw  all
 
-(36) [not yet translated]
+(36) In the same way they all saw the Rāsa-yātrā, Dīpāvalī and the festival of Utthāna-dvādaśī.
 
 একদিন মহাপ্রভু নিত্যানন্দে লঞা ৷  
 দুই ভাই যুক্তি কৈল নিভৃতে বসিয়া ॥ ৩৭ ॥
 
 ekadina mahāprabhu nityānande lañā  
-dui bhāi yukti kaila nibhṛte vasiyā
+one day  Mahāprabhu  Nityānanda  taking  
+dui bhāi yukti kaila nibhṛte vasiyā  
+the two  brothers  counsel  held  in seclusion  sitting
 
-(37) [not yet translated]
+(37) One day Mahāprabhu took Nityānanda aside, and the two brothers sat together in seclusion and took counsel.
 
 কিবা যুক্তি কৈল দুঁহে, কেহ নাহি জানে ৷  
 ফলে অনুমান পাছে কৈল ভক্তগণে ॥ ৩৮ ॥
 
 kibā yukti kaila duṅhe, keha nāhi jāne  
-phale anumāna pāche kaila bhakta-gaṇe
+what  counsel  held  the two  anyone  not  knows  
+phale anumāna pāche kaila bhakta-gaṇe  
+from the result  a guess  afterwards  made  the devotees
 
-(38) [not yet translated]
+(38) What the two decided no one knew; only later could the devotees guess it from what followed.
 
 তবে মহাপ্রভু সব ভক্তে বোলাইল ৷  
 গৌড়দেশে যাহ’ সবে বিদায় করিল ॥ ৩৯ ॥
 
 tabe mahāprabhu saba bhakte bolāila  
-gauḍa-deśe yāha’ sabe vidāya karila
+then  Mahāprabhu  all  devotees  called  
+gauḍa-deśe yāha’ sabe vidāya karila  
+to Gauḍa  go  all  farewell  made
 
-(39) [not yet translated]
+(39) Then Mahāprabhu called all the devotees and bade them farewell, telling them to go back to Gauḍa.
 
 সবারে কহিল, — প্রতিবৎসর আসিয়া ৷  
 গুণ্ডিচা দেখিয়া যাবে আমারে মিলিয়া ॥ ৪০ ॥
 
 sabāre kahila, — prativatsara āsiyā  
-guṇḍicā dekhiyā yābe āmāre miliyā
+to all  said  —  every year  coming  
+guṇḍicā dekhiyā yābe āmāre miliyā  
+Guṇḍicā  seeing  you will go  Me  meeting
 
-(40) [not yet translated]
+(40) He said to them all, “Come every year: see the Guṇḍicā festival, meet with Me, and then go home.”
 
 আচার্য্যেরে আজ্ঞা দিল করিয়া সম্মান ৷  
 ‘আ-চণ্ডাল আদি কৃষ্ণভক্তি দিও দান’ ॥ ৪১ ॥
 
 ācāryere ājñā dila kariyā sammāna  
-‘ā-caṇḍāla ādi kṛṣṇa-bhakti dio dāna’
+to the Ācārya  order  gave  showing  respect  
+‘ā-caṇḍāla ādi kṛṣṇa-bhakti dio dāna’  
+down to the caṇḍālas  and others  devotion to Kṛṣṇa  give  as a gift
 
-(41) [not yet translated]
+(41) With respect He gave this order to the Ācārya: “Give devotion to Kṛṣṇa to everyone, down to the *caṇḍālas*.”
 
 নিত্যানন্দে আজ্ঞা দিল, — ‘যাহ গৌড়দেশে ৷  
 অনর্গল প্রেমভক্তি করিহ প্রকাশে ॥ ৪২ ॥
 
 nityānande ājñā dila, — ‘yāha gauḍa-deśe  
-anargala prema-bhakti kariha prakāśe
+to Nityānanda  order  gave  —  go  to Gauḍa  
+anargala prema-bhakti kariha prakāśe  
+unrestrained  loving devotion  do  manifest
 
-(42) [not yet translated]
+(42) To Nityānanda He gave this order: “Go to Gauḍa and reveal loving devotion freely, without restraint.
 
 রামদাস, গদাধর আদি কত জনে ৷  
 তোমার সহায় লাগি’ দিলু তোমার সনে ॥ ৪৩ ॥
 
 rāma-dāsa, gadādhara ādi kata jane  
-tomāra sahāya lāgi’ dilu tomāra sane
+Rāmadāsa  Gadādhara  and others  some  persons  
+tomāra sahāya lāgi’ dilu tomāra sane  
+Your  help  for  I have given  You  with
 
-(43) [not yet translated]
+(43) To help You I am sending Rāmadāsa, Gadādhara and some others with You.
 
 মধ্যে মধ্যে আমি তোমার নিকট যাইব ৷  
 অলক্ষিতে রহি’ তোমার নৃত্য দেখিব’ ॥ ৪৪ ॥
 
 madhye madhye āmi tomāra nikaṭa yāiba  
-alakṣite rahi’ tomāra nṛtya dekhiba’
+from time  to time  I  You  near  will go  
+alakṣite rahi’ tomāra nṛtya dekhiba’  
+unseen  remaining  Your  dancing  I will see
 
-(44) [not yet translated]
+(44) From time to time I will come to You, and, staying unseen, I will watch You dance.”
 
 শ্রীবাস-পণ্ডিতে প্রভু করি’ আলিঙ্গন ৷  
 কণ্ঠে ধরি’ কহে তাঁরে মধুর বচন ॥ ৪৫ ॥
 
 śrīvāsa-paṇḍite prabhu kari’ āliṅgana  
-kaṇṭhe dhari’ kahe tāṅre madhura vacana
+Śrīvāsa Paṇḍita  the Lord  making  embrace  
+kaṇṭhe dhari’ kahe tāṅre madhura vacana  
+by the neck  holding  says  to him  sweet  words
 
-(45) [not yet translated]
+(45) The Lord embraced Śrīvāsa Paṇḍita and, with His arm around his neck, spoke sweet words to him:
 
 তোমার ঘরে কীর্ত্তনে আমি নিত্য নাচিব ৷  
 তুমি দেখা পাবে, আর কেহ না দেখিব ॥ ৪৬ ॥
 
 tomāra ghare kīrtane āmi nitya nāciba  
-tumi dekhā pābe, āra keha nā dekhiba
+in your  house  in the kīrtana  I  always  will dance  
+tumi dekhā pābe, āra keha nā dekhiba  
+you  sight  will get  other  anyone  not  will see
 
-(46) [not yet translated]
+(46) “I will always dance in the *kīrtana* at your house. You will see it, but no one else will.
 
 এই বস্ত্র মাতাকে দিহ’, এই সব প্রসাদ ৷  
 দণ্ডবৎ করি’ আমার ক্ষমাইহ অপরাধ ॥ ৪৭ ॥
 
 ei vastra mātāke diha’, ei saba prasāda  
-daṇḍavat kari’ āmāra kṣamāiha aparādha
+this  cloth  to Mother  give  this  all  prasāda  
+daṇḍavat kari’ āmāra kṣamāiha aparādha  
+prostration  making  My  have forgiven  offense
 
-(47) [not yet translated]
+(47) Give this cloth and all this *prasāda* to My mother. Fall down before her and beg her to forgive My offense.
 
 তাঁর সেবা ছাড়ি’ আমি করিয়াছি সন্ন্যাস ৷  
 ধর্ম্ম নহে, করি আমি নিজ-ধর্ম্ম নাশ ॥ ৪৮ ॥
 
 tāṅra sevā chāḍi’ āmi kariyāchi sannyāsa  
-dharma nahe, kari āmi nija-dharma nāśa
+her  service  leaving  I  have taken  sannyāsa  
+dharma nahe, kari āmi nija-dharma nāśa  
+dharma  it is not  do  I  My own dharma  destruction
 
-(48) [not yet translated]
+(48) I gave up serving her and took *sannyāsa*. That is not *dharma*: I am destroying My own *dharma*.
 
 তাঁর প্রেম বশ আমি, তাঁর সেবা — ধর্ম্ম ৷  
 তাহা ছাড়ি’ করিয়াছি বাতুলের কর্ম্ম ॥ ৪৯ ॥
 
 tāṅra prema vaśa āmi, tāṅra sevā — dharma  
-tāhā chāḍi’ kariyāchi vātulera karma
+her  love  subject to  I am  her  service  —  dharma  
+tāhā chāḍi’ kariyāchi vātulera karma  
+that  leaving  I have done  of a madman  deed
 
-(49) [not yet translated]
+(49) I am subject to her love, and serving her is My *dharma*. In giving that up I have acted like a madman.
 
 বাতুল বালকের মাতা নাহি লয় দোষ ৷  
 এই জানি’ মাতা মোরে না করয় রোষ ॥ ৫০ ॥
 
 vātula bālakera mātā nāhi laya doṣa  
-ei jāni’ mātā more nā karaya roṣa
+mad  child’s  mother  not  takes  fault  
+ei jāni’ mātā more nā karaya roṣa  
+this  knowing  Mother  with Me  not  is  angry
 
-(50) [not yet translated]
+(50) A mother does not hold her mad child at fault. Knowing this, My mother is not angry with Me.
 
 কি কায় সন্ন্যাসে মোর, প্রেম নিজ-ধন ৷  
 যে-কালে সন্ন্যাস কৈলুঁ, ছন্ন হৈল মন ॥ ৫১ ॥
 
 ki kāya sannyāse mora, prema nija-dhana  
-ye-kāle sannyāsa kailuṅ, channa haila mana
+what  use  in sannyāsa  to Me  love  own wealth  
+ye-kāle sannyāsa kailuṅ, channa haila mana  
+at the time  sannyāsa  I took  deranged  became  mind
 
-(51) [not yet translated]
+(51) What use is *sannyāsa* to Me? Love is My real wealth. When I took *sannyāsa*, My mind was deranged.
 
 নীলাচলে আছি মুঞি তাঁহার আজ্ঞাতে ৷  
 মধ্যে মধ্যে আসিমু তাঁর চরণ দেখিতে ॥ ৫২ ॥
 
-nīlācale āchoṅ muñi tāṅhāra ājñāte  
-madhye madhye āsimu tāṅra caraṇa dekhite
+nīlācale āchi muñi tāṅhāra ājñāte  
+in Nīlācala  am  I  her  by order  
+madhye madhye āsimu tāṅra caraṇa dekhite  
+from time  to time  I will come  her  feet  to see
 
-(52) [not yet translated]
+(52) I stay in Nīlācala at her bidding, and from time to time I will come to see her feet.
 
 নিত্য যাই’ দেখি মুঞি তাঁহার চরণে ৷  
 স্ফূর্ত্তি জ্ঞানে তেঁহো তাহা সত্য নাহি মানে ॥ ৫৩ ॥
 
 nitya yāi’ dekhi muñi tāṅhāra caraṇe  
-sphūrti jñāne teṅho tāhā satya nāhi māne
+always  going  see  I  her  feet  
+sphūrti jñāne teṅho tāhā satya nāhi māne  
+a vision  thinking  she  that  true  not  accepts
 
-(53) [not yet translated]
+(53) Every day I go and see her feet, but she takes it for a vision and does not believe it is real.
 
 একদিন শাল্যন্ন, ব্যঞ্জন পাঁচ-সাত ৷  
 শাক, মোচা-ঘণ্ট, ভৃষ্ট পটোল-নিম্বপাত ॥ ৫৪ ॥
@@ -499,51 +545,65 @@ sphūrti jñāne teṅho tāhā satya nāhi māne
 শালগ্রামে সমর্পিলেন বহু উপহার ॥ ৫৫ ॥
 
 eka-dina śāly-anna, vyañjana pāṅca-sāta  
+one day  śāli rice  vegetable dishes  five or seven  
 śāka, mocā-ghaṇṭa, bhṛṣṭa paṭola-nimba-pāta  
+greens  banana-flower ghaṇṭa  fried  paṭolas with nīm leaves  
 lembu-ādā-khaṇḍa, dadhi, dugdha, khaṇḍa-sāra  
-śālagrāme samarpilena bahu upahāra
+lemon and ginger slices  yogurt  milk  sugar candy  
+śālagrāme samarpilena bahu upahāra  
+to the śālagrāma  offered  many  gifts
 
-(54–55) [not yet translated]
+(54–55) One day she offered the *śālagrāma* many gifts: *śāli* rice, five or seven vegetable dishes, greens, *ghaṇṭa* of banana flowers, fried *paṭolas* with *nīm* leaves, slices of lemon and ginger, yogurt, milk and sugar candy.
 
 প্রসাদ লঞা কোলে করেন ক্রন্দন ৷  
 নিমাইর প্রিয় মোর — এসব ব্যঞ্জন ॥ ৫৬ ॥
 
 prasāda lañā kole karena krandana  
-nimāira priya mora — esaba vyañjana
+the prasāda  taking  in her lap  does  weeping  
+nimāira priya mora — esaba vyañjana  
+of Nimāi  favorites  my  —  all these  dishes
 
-(56) [not yet translated]
+(56) She took the *prasāda* on her lap and wept: ‘All these dishes are my Nimāi’s favorites.
 
 নিমাঞি নাহিক এথা, কে করে ভোজন ৷  
 মোর ধ্যানে অশ্রুজলে ভরিল নয়ন ॥ ৫৭ ॥
 
 nimāñi nāhika ethā, ke kare bhojana  
-mora dhyāne aśru-jale bharila nayana
+Nimāi  not  here  who  does  eating  
+mora dhyāne aśru-jale bharila nayana  
+on Me  in meditation  with tears  filled  eyes
 
-(57) [not yet translated]
+(57) Nimāi is not here — who will eat them?’ As she thought of Me, her eyes filled with tears.
 
 শীঘ্র যাই’ মুঞি সব করিনু ভক্ষণ ৷  
 শূন্যপাত্র দেখি’ অশ্রু করিয়া মার্জ্জন ॥ ৫৮ ॥
 
 śīghra yāi’ muñi saba karinu bhakṣaṇa  
-śūnya-pātra dekhi’ aśru kariyā mārjana
+quickly  going  I  all  did  eating  
+śūnya-pātra dekhi’ aśru kariyā mārjana  
+the empty plate  seeing  tears  making  wiping
 
-(58) [not yet translated]
+(58) I went at once and ate everything. Seeing the plate empty, she wiped away her tears.
 
 ‘কে অন্ন-ব্যঞ্জন খাইল, শূন্য কেনে পাত ?  
 বালগোপাল কিবা খাইল সব ভাত ? ॥ ৫৯ ॥
 
 ‘ke anna-vyañjana khāila, śūnya kene pāta?  
-bālagopāla kibā khāila saba bhāta?
+who  rice and vegetables  ate  empty  why  the plate  
+bālagopāla kibā khāila saba bhāta?  
+Bāla-gopāla  perhaps  ate  all  the rice
 
-(59) [not yet translated]
+(59) ‘Who has eaten the rice and vegetables? Why is the plate empty? Could Bāla-gopāla have eaten all the rice?
 
 কিবা মোর কথায় মনে ভ্রম হঞা গেল !  
 কিবা কোন জন্তু আসি’ সকল খাইল ? ॥ ৬০ ॥
 
 kibā mora kathāya mane bhrama hañā gela!  
-kibā kona jantu āsi’ sakala khāila?
+or  my  in the matter  in the mind  delusion  happened  
+kibā kona jantu āsi’ sakala khāila?  
+or  some  animal  coming  everything  ate
 
-(60) [not yet translated]
+(60) Or was my mind deluded about it? Or did some animal come and eat it all?
 
 কিবা আমি অন্নপাত্রে ভ্রমে না বাড়িল !’  
 এত চিন্তি’ পাক-পাত্র যাঞা দেখিল ॥ ৬১ ॥
