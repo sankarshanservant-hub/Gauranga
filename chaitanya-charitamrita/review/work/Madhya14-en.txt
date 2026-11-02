@@ -824,7 +824,7 @@ tr: Kṛṣṇa’s form is made of love, and He is subject to the love of His d
 w: of the gopīs  in the love  there is no  fault of rasābhāsa
 w: therefore  Kṛṣṇa’s  it causes  supreme  satisfaction
 tr: In the gopīs’ love there is no fault of *rasābhāsa*, a mere semblance of rasa; therefore it gives Kṛṣṇa supreme satisfaction.”
-fn: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, 4.9); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
+fn: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th wave); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
 
 ## 158
 w: thus  by the moon’s rays  resplendent  nights
@@ -849,6 +849,7 @@ tr: Among the gopīs the foremost is Śrī Rādhā Ṭhākurāṇī, a mine of t
 w: in age  madhyamā  She  by nature  samā
 w: in deep  love  She  always  vāmā
 tr: In age She is *madhyā*, in the bloom of youth; by nature She is *samā*, balanced; yet in the depth of Her love She is always *vāmā*, contrary.
+fn: *Amṛta-pravāha-bhāṣya*: in age She is *madhyā*, by nature *samā*, and always *vāmā*; from this contrariness *māna* is born.
 
 ## 162
 w: from a contrary nature  māna  rises  constantly
@@ -866,12 +867,13 @@ fn: The same verse as Madhya 8.110; translation as there.
 ## 164
 w: this  hearing  swells  the Lord’s  of bliss  the ocean
 w: tell  tell  says  the Lord  speaks  Dāmodara
-tr: Hearing this, the ocean of the Lord’s bliss swelled. “Go on, go on,” the Lord said, and Dāmodara continued:
+tr: When the Lord heard this, the ocean of His bliss swelled. “Go on, go on,” He said, and Dāmodara continued:
 
 ## 165
 w: adhirūḍha  mahābhāva  Rādhikā’s  love
 w: utterly pure  spotless  like  fire-refined  gold
 tr: “Rādhikā’s love is *adhirūḍha mahābhāva*, the highest summit of *mahābhāva*. It is utterly pure and spotless, like gold refined in fire.
+fn: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): when the *sāttvika-anubhāvas* of *rūḍha-bhāva* reach an indescribable distinction, this is called *adhirūḍha-mahābhāva*.
 
 ## 166
 w: of Kṛṣṇa  the sight  if  She obtains  suddenly
@@ -885,8 +887,9 @@ tr: Hers are the eight *sāttvika* transformations, the *vyabhicārī-bhāvas* b
 
 ## 168
 w: kila-kiñcita  kuṭṭamita  vilāsa  lalita
-w: vivvoka  moṭṭāyita  and  maugdhya  cakita
-tr: *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *vivvoka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.
+w: bibboka  moṭṭāyita  and  maugdhya  cakita
+tr: *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *bibboka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.
+fn: *Bibboka* — so spelt in the edition and the commentaries (বিব্বোক). *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): *bibboka* is disregard, out of pride and *māna*, even for what one desires; *moṭṭāyita*, the longing that wakes in the heart at the memory of the beloved or at talk of him; *maugdhya*, asking the beloved about what one knows as if one did not know; *cakita*, great fear before the beloved where there is nothing to fear.
 
 ## 169
 w: with so many  bhāva ornaments  adorned  Śrī  Rādhā’s  form
@@ -902,6 +905,7 @@ tr: Now hear a description of *kila-kiñcita* and the other *bhāvas*, the ornam
 w: Rādhā  seeing  Kṛṣṇa  if  to touch  makes up His mind
 w: on the path to the toll crossing  when  He bars  Her going
 tr: When Kṛṣṇa sees Rādhā and wants to touch Her, when He bars Her way on the path to the toll crossing (*dāna-ghāṭi*),
+fn: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa says, “Until You pay the toll, I forbid You to go along this road,” and so begins the toll-collecting pastime (*dāna-keli*).
 
 ## 172
 w: when  coming  He forbids  flowers  to pick
@@ -933,12 +937,13 @@ tr: The seven are pride, longing, fear, tearless weeping, anger, envy and a fain
 ## 177
 w: of various flavors  eight bhāvas  in one  the meeting
 w: whose  in the tasting  satisfied  becomes  Kṛṣṇa’s mind
-tr: These eight *bhāvas*, each of a different flavor, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
+tr: These eight *bhāvas*, each of a different flavour, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
 
 ## 178
 w: yogurt  sugar  ghee  honey  black pepper  camphor
-w: by mixing with cardamom  as  rasālā  is sweet
-tr: It is like *rasālā*, which is so sweet because yogurt, sugar, ghee, honey, black pepper, camphor and cardamom are blended in it.
+w: with cardamom  in blending  as  rasālā (a drink)  sweet
+tr: It is like *rasālā*, a drink made sweet by blending yogurt, sugar, ghee, honey, black pepper, camphor and cardamom.
+fn: Heading in the edition: “A comparison with a sweet drink.”
 
 ## 179
 w: with these bhāvas  filled  seeing  Rādhā’s face and eyes
@@ -950,14 +955,15 @@ w: within  with a smile  shining  with drops of tears  strewn  its lashes
 w: slightly  reddened at the corners  overflowing with playfulness  in front  narrowing
 w: of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils raised
 w: Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
-tr: “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with tears and its corners slightly reddened; brimming with playful delight, it narrowed, its pupils sweetly curving upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bestow good fortune on you.” (Dāna-keli-kaumudī 1)
+tr: “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with drops of tears, its corners faintly reddened; brimming with playful delight, it narrowed, and its pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune.” (Dāna-keli-kaumudī, 1)
+fn: Heading in the edition: “the words of Śrī Rūpa Gosvāmī”. *Anubhāṣya*: all seven *bhāvas* are in this glance — the smile, weeping, anger (the reddened corners), pride and longing (brimming with playful delight) and fear (the narrowing).
 
 ## 181
 w: with eyes restless, reddened at the corners and clouded with tears  delighted by rasa
 w: with lips trembling in playful joy  with arched brows  with a dawning smile
 w: of Rādhā  adorned with kila-kiñcita  He  seeing  the face  than from union
 w: bliss  that  obtained  ten million times greater  which  was  not  within the range of words
-tr: “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with rasa, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta 9.18)
+tr: “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with rasa, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta, 9.18)
 
 ## 182
 w: this  hearing  the Lord  became  joyful  in mind
@@ -1001,7 +1007,7 @@ w: in front  from seeing Kṛṣṇa  halted and wavering  Her  gait  became
 w: turned aside  half covered by a dark veil  beautiful  face  also
 w: with darting pupils  wide  pair of eyes  curved  thus  She
 w: with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
-tr: “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta 9.11)
+tr: “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
 
 ## 190
 w: before Kṛṣṇa  Rādhā  when  remains  standing

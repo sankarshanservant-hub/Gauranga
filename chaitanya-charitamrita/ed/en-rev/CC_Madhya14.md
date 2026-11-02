@@ -1625,7 +1625,7 @@ in age  madhyamā  She  by nature  samā
 gāḍha prema-bhāve tem̐ho nirantara ‘vāmā’  
 in deep  love  She  always  vāmā
 
-(161) In age She is *madhyā*, in the bloom of youth; by nature She is *samā*, balanced; yet in the depth of Her love She is always *vāmā*, contrary.
+(161) In age She is *madhyā*, in the bloom of youth; by nature She is *samā*, balanced; yet in the depth of Her love She is always *vāmā*, contrary.[^37]
 
 বাম্য-স্বভাবে মান উঠে নিরন্তর ৷  
 তার মধ্যে উঠে কৃষ্ণের আনন্দ-সাগর ॥ ১৬২ ॥
@@ -1649,7 +1649,7 @@ therefore  with cause  without cause  and
 yūnor māna udañcati  
 of the young pair  pique  arises
 
-(163) “Like the movement of a snake, the course of love is winding by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)[^37]
+(163) “Like the movement of a snake, the course of love is winding by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)[^38]
 
 এত শুনি’ বাড়ে প্রভুর আনন্দ সাগর ৷  
 ‘কহ’ ‘কহ’ কহে প্রভু, বলে দামোদর ॥ ১৬৪ ॥
@@ -1659,7 +1659,7 @@ this  hearing  swells  the Lord’s  of bliss  the ocean
 ‘kaha’ ‘kaha’ kahe prabhu, bale dāmodara  
 tell  tell  says  the Lord  speaks  Dāmodara
 
-(164) Hearing this, the ocean of the Lord’s bliss swelled. “Go on, go on,” the Lord said, and Dāmodara continued:
+(164) When the Lord heard this, the ocean of His bliss swelled. “Go on, go on,” He said, and Dāmodara continued:
 
 ‘অধিরূঢ় মহাভাব’ — রাধিকার প্রেম ৷  
 বিশুদ্ধ, নির্ম্মল, যৈছে দগ্ধবান্ হেম ॥ ১৬৫ ॥
@@ -1669,7 +1669,7 @@ adhirūḍha  mahābhāva  Rādhikā’s  love
 viśuddha, nirmala, yaiche dagdha-vān hema  
 utterly pure  spotless  like  fire-refined  gold
 
-(165) “Rādhikā’s love is *adhirūḍha mahābhāva*, the highest summit of *mahābhāva*. It is utterly pure and spotless, like gold refined in fire.
+(165) “Rādhikā’s love is *adhirūḍha mahābhāva*, the highest summit of *mahābhāva*. It is utterly pure and spotless, like gold refined in fire.[^39]
 
 কৃষ্ণের দর্শন যদি পায় আচম্বিতে ৷  
 নানা-ভাব-বিভূষণে হয় বিভূষিতে ॥ ১৬৬ ॥
@@ -1697,9 +1697,9 @@ natural  love  twenty  bhāva ornaments
 ‘kila-kiñcita’, ‘kuṭṭamita’, ‘vilāsa’, ‘lalita’  
 kila-kiñcita  kuṭṭamita  vilāsa  lalita  
 ‘vivvoka’, ‘moṭṭāyita’, āra ‘maugdhya’, ‘cakita’  
-vivvoka  moṭṭāyita  and  maugdhya  cakita
+bibboka  moṭṭāyita  and  maugdhya  cakita
 
-(168) *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *vivvoka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.
+(168) *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *bibboka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.[^40]
 
 এত ভাবভূষায় ভূষিত শ্রীরাধার অঙ্গ ৷  
 দেখিতে উথলে কৃষ্ণসুখাব্ধি-তরঙ্গ ॥ ১৬৯ ॥
@@ -1729,7 +1729,7 @@ Rādhā  seeing  Kṛṣṇa  if  to touch  makes up His mind
 dāna-ghāṭi-pathe yabe varjena gamana  
 on the path to the toll crossing  when  He bars  Her going
 
-(171) When Kṛṣṇa sees Rādhā and wants to touch Her, when He bars Her way on the path to the toll crossing (*dāna-ghāṭi*),
+(171) When Kṛṣṇa sees Rādhā and wants to touch Her, when He bars Her way on the path to the toll crossing (*dāna-ghāṭi*),[^41]
 
 যবে আসি’ মানা করে পুষ্প উঠাইতে ৷  
 সখী-আগে চাহে যদি গায়ে হাত দিতে ॥ ১৭২ ॥
@@ -1793,7 +1793,7 @@ of various flavors  eight bhāvas  in one  the meeting
 yāhāra āsvāde tṛpta haya kṛṣṇa-mana  
 whose  in the tasting  satisfied  becomes  Kṛṣṇa’s mind
 
-(177) These eight *bhāvas*, each of a different flavor, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
+(177) These eight *bhāvas*, each of a different flavour, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
 
 দধি, খণ্ড, ঘৃত, মধু, মরীচ, কর্পূর ৷  
 এলাচি-মিলনে যৈছে রসালা মধুর ॥ ১৭৮ ॥
@@ -1801,9 +1801,9 @@ whose  in the tasting  satisfied  becomes  Kṛṣṇa’s mind
 dadhi, khaṇḍa, ghṛta, madhu, marīca, karpūra  
 yogurt  sugar  ghee  honey  black pepper  camphor  
 elāci-milane yaiche rasālā madhura  
-by mixing with cardamom  as  rasālā  is sweet
+with cardamom  in blending  as  rasālā (a drink)  sweet
 
-(178) It is like *rasālā*, which is so sweet because yogurt, sugar, ghee, honey, black pepper, camphor and cardamom are blended in it.
+(178) It is like *rasālā*, a drink made sweet by blending yogurt, sugar, ghee, honey, black pepper, camphor and cardamom.[^42]
 
 এই ভাব-যুক্ত দেখি’ রাধাস্য-নয়ন ৷  
 সঙ্গম হইতে সুখ পায় কোটি-গুণ ॥ ১৭৯ ॥
@@ -1829,7 +1829,7 @@ of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils ra
 rādhāyāḥ kila-kiñcita-stavakinī dṛṣṭiḥ śriyaṁ vaḥ kriyāt  
 Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
 
-(180) “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with tears and its corners slightly reddened; brimming with playful delight, it narrowed, its pupils sweetly curving upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bestow good fortune on you.” (Dāna-keli-kaumudī 1)
+(180) “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with drops of tears, its corners faintly reddened; brimming with playful delight, it narrowed, and its pupils rose sweetly, slyly upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bring you good fortune.” (Dāna-keli-kaumudī, 1)[^43]
 
 বাষ্পব্যাকুলিতারুণাঞ্চলচলন্নেত্রং রসোল্লাসিতং  
 হেলোল্লাসচলাধরং কুটিলিতভ্রূযুগ্মমুদ্যৎস্মিতম্ ৷  
@@ -1845,7 +1845,7 @@ of Rādhā  adorned with kila-kiñcita  He  seeing  the face  than from union
 ānandaṁ tam avāpa koṭi-guṇitaṁ yo ’bhūn na gīr-gocaraḥ  
 bliss  that  obtained  ten million times greater  which  was  not  within the range of words
 
-(181) “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with rasa, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta 9.18)
+(181) “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with rasa, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta, 9.18)
 
 এত শুনি’ প্রভু হৈলা আনন্দিত মন ৷  
 সুখাবিষ্ট হঞা স্বরূপে কৈলা আলিঙ্গন ॥ ১৮২ ॥
@@ -1935,7 +1935,7 @@ with darting pupils  wide  pair of eyes  curved  thus  She
 vilāsākhya-svālaṅkaraṇa-valitāsīt priya-mude  
 with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
 
-(189) “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta 9.11)
+(189) “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta, 9.11)
 
 কৃষ্ণ-আগে রাধা যদি রহে দাণ্ডাঞা ৷  
 তিন-অঙ্গ-ভঙ্গে রহে ভ্রূ নাচাঞা ॥ ১৯০ ॥
@@ -2647,7 +2647,7 @@ the thousand-mouthed one  of which  not  reaches  the end
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^38]
+(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^44]
 
 ---
 
@@ -2717,12 +2717,24 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^33]: *Anubhāṣya*: on the kinds of heroines, of group leaders and of friends, see the *Ujjvala-nīlamaṇi*.
 
-[^34]: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, 4.9); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
+[^34]: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th wave); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
 
 [^35]: *Anubhāṣya*: *avaruddha-saurata* — He is *ātmārāma*, the transcendental Kāmadeva. *Amṛta-pravāha-bhāṣya*: the gopīs, Vṛndāvana, those nights and the *rāsa* dance itself are wholly spiritual; Kṛṣṇa never so much as glances at material love.
 
 [^36]: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): the *vāmā* heroine is ever ready for *māna*, is angered when it slackens and does not yield to the hero; the *dakṣiṇā* cannot bear prolonged *māna* and softens at his tender words.
 
-[^37]: The same verse as Madhya 8.110; translation as there.
+[^37]: *Amṛta-pravāha-bhāṣya*: in age She is *madhyā*, by nature *samā*, and always *vāmā*; from this contrariness *māna* is born.
 
-[^38]: The same colophon as Madhya 7.155; translation as there.
+[^38]: The same verse as Madhya 8.110; translation as there.
+
+[^39]: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): when the *sāttvika-anubhāvas* of *rūḍha-bhāva* reach an indescribable distinction, this is called *adhirūḍha-mahābhāva*.
+
+[^40]: *Bibboka* — so spelt in the edition and the commentaries (বিব্বোক). *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): *bibboka* is disregard, out of pride and *māna*, even for what one desires; *moṭṭāyita*, the longing that wakes in the heart at the memory of the beloved or at talk of him; *maugdhya*, asking the beloved about what one knows as if one did not know; *cakita*, great fear before the beloved where there is nothing to fear.
+
+[^41]: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa says, “Until You pay the toll, I forbid You to go along this road,” and so begins the toll-collecting pastime (*dāna-keli*).
+
+[^42]: Heading in the edition: “A comparison with a sweet drink.”
+
+[^43]: Heading in the edition: “the words of Śrī Rūpa Gosvāmī”. *Anubhāṣya*: all seven *bhāvas* are in this glance — the smile, weeping, anger (the reddened corners), pride and longing (brimming with playful delight) and fear (the narrowing).
+
+[^44]: The same colophon as Madhya 7.155; translation as there.
