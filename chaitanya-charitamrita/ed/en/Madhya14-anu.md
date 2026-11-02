@@ -428,6 +428,54 @@ Lakṣmī-ṭhākurāṇī may not take part in the pastimes of Vṛndāvana; so
 
 *Yātrā*: the Ratha-yātrā.
 
+## 126
+
+See *Bṛhad-bhāgavatāmṛta*, Part One, Chapter Seven.
+
+## 127
+
+> Subheading: Svarūpa gives the reason: when the beloved is indifferent, his beloved becomes angry and hurt —
+
+## 128
+
+> Subheading: Lakṣmī arrives in great pomp with many maidservants —
+
+## 130
+
+*Sampuṭa*: a box (*ḍibā*); *jhārī*: a water pot without a spout (*nalahīna gāḍu*).
+
+## 132
+
+> Subheading: Lakṣmī's maidservants tie up Jagannātha's chief servants, bring them to their mistress and beat them —
+
+## 135
+
+> Subheading: Seeing the insolence of Lakṣmī's maidservants, the devotees laugh —
+
+## 136
+
+> Subheading: Dāmodara explains Lakṣmī's unprecedented, extraordinary *māna* —
+
+## 137
+
+> Subheading: How a beloved in *māna* behaves when her beloved is indifferent —
+
+## 138
+
+> Subheading: The *māna* of the *gopīs* of Vraja and of Satyabhāmā is just like this —
+
+## 139
+
+> Subheading: Lakṣmī's *māna* is quite different —
+
+## 140
+
+> Subheading: Answering the Lord's question, Svarūpa describes the *gopīs'* *māna* —
+
+## 141
+
+> Subheading: *Māna* differs according to the nature of the beloved and the kinds of love —
+
 ---
 
 [^27-1]: The verse translation reads differently: it takes *drākṣā* as raisins and has grapefruit for *bījapūra*.

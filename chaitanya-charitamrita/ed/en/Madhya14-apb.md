@@ -52,6 +52,14 @@ The day of Herā-pañcamī: the fifth day after the Ratha-yātrā is called Her�
 
 *Sundarācala*: just as the main temple is called Nīlācala, the Guṇḍicā temple is called Sundarācala.
 
+## 132–133
+
+When Jagannātha sets out on His chariot, He tells Lakṣmī, “I will come back tomorrow.” Two or three days pass and Jagannātha does not return, and loving Lakṣmī, seeing even a trace of her Beloved's indifference, by her very nature flares up in anger. Then Lakṣmī, dressed and seated in a palanquin (*vimāna*) by her maidservants, comes out of the temple. At this time a supreme mystery unfolds at Jagannātha's temple: Lakṣmī's attendants tie up Jagannātha's chief attendants and bring them before her.
+
+## 136–139
+
+Seeing such boldness (*prāgalbhya*) on Lakṣmī's part, Svarūpa Gosvāmī, to show the excellence of the wealth of love of the people of Vraja, said: “Prabhu, I have never heard of such *māna* as Lakṣmī's anywhere in the three worlds. When a beloved is in *māna* (a *māninī*), she loses all zest and puts off her ornaments; with a downcast face she sits on the ground and scratches at random with her nail. Such is the *māna* of the *gopīs* in Vraja, and Satyabhāmā, who lives in the city, is known to show the same *māna*. But Lakṣmī-devī's *māna*, I see, is just the opposite: she displays her wealth, musters her troops and goes to attack her beloved.”
+
 ---
 
 [^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
