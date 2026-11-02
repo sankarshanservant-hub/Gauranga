@@ -2,7 +2,6 @@
 # Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
 # Base: stage-A English (ed/en/work/Madhya14.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
 # Shift 1: verses 1–128 (scan pp. 560–568); shift 2: 129–257.
-# Shift 1 (1–128) revised; shift 2 — append 129–257 from ed/en/work/Madhya14.p2.txt and remove this line.
 
 ## 0
 tr: Beholding the Herā-pañcamī Festival
@@ -678,3 +677,681 @@ w: at that time  inlaid  in which  various  jewels
 w: of gold  palanquin  making  mounting
 tr: Just then Lakṣmī-devī set out, mounted on a golden palanquin inlaid with jewels of every kind.
 fn: Heading in the edition: “Lakṣmī comes in great pomp with many maidservants.”
+
+## 129
+w: umbrellas, cāmaras, standards  of flags  multitudes
+w: ahead of many instruments  dance  the temple dancers
+tr: Umbrellas, *cāmaras*, standards and flags came in multitudes, and the temple dancers (*deva-dāsīs*) danced before a band of many instruments.
+
+## 130
+w: betel boxes  water jugs  fans  cāmaras
+w: with (her)  maidservants  a hundred  necklaces  divine  ornaments and garments
+tr: Hundreds of maidservants went with her, carrying betel boxes, water jugs, fans and *cāmaras*, and adorned with necklaces, divine ornaments and fine garments.
+
+## 131
+w: great  splendour  with  a large retinue
+w: angry  becoming  Lakṣmī-devī  came (to)  the Lion Gate
+tr: With great splendour and a large retinue, Lakṣmī-devī came in anger to the Lion Gate.
+
+## 132
+w: Jagannātha’s  chief  chief  all  servants
+w: Lakṣmī-devī’s  maidservants  do  binding
+tr: Lakṣmī-devī’s maidservants seized all of Jagannātha’s chief servants and bound them.
+
+## 133
+w: binding  bringing  throw down  Lakṣmī’s  at the feet
+w: on thieves  punishment  they inflict  as if  they take  various riches
+tr: They dragged them bound before Lakṣmī and threw them down at her feet, punishing them like thieves, as if to make them give back all kinds of riches.
+
+## 134
+w: as if senseless  them  they do  beating
+w: of many kinds  abuse  they give  with mocking words
+tr: They beat them until they were nearly senseless and heaped all kinds of abuse and mockery on them.
+
+## 135
+w: with Lakṣmī  of the maidservants  the boldness  seeing
+w: laugh  Mahāprabhu’s  associates  to their mouths  hands  putting
+tr: Seeing the boldness of Lakṣmī’s maidservants, Mahāprabhu’s associates laughed, covering their mouths with their hands.
+
+## 136
+w: Dāmodara  says  such  of māna  a kind
+w: in the three worlds  where  do I see  I have heard  not  ever
+tr: Svarūpa Dāmodara said, “Where in the three worlds does one see *māna*, loving pique, of this kind? I have never heard of such a thing.
+
+## 137
+w: a woman in māna  dejected  gives up  her ornaments
+w: on the ground  sitting  with her nails  draws lines  with a darkened face
+tr: A woman in *māna* dejectedly lays aside her ornaments; she sits on the ground, her face clouded, and draws lines on it with her nails.
+
+## 138
+w: before  of Satyabhāmā  I hear  of this kind  māna
+w: in Vraja  of the gopīs  the māna  of rasa  a treasure-house
+tr: Long ago I heard of such *māna* in Satyabhāmā, and in Vraja the gopīs’ *māna* is the same — a treasure-house of rasa.
+fn: Heading in the edition: “Such too is the *māna* of the gopīs of Vraja and of Satyabhāmā.” *Amṛta-pravāha-bhāṣya*: such is the *māna* of the gopīs in Vraja, and Satyabhāmā shows the same, but Lakṣmī’s *māna* is the very opposite.
+
+## 139
+w: she  her own wealth  all  manifest  making
+w: against her beloved  goes  an army  arraying
+tr: This goddess, however, displays all her wealth and marches against her beloved with an army in battle array!”
+
+## 140
+w: the Lord  says  tell  of Vraja  of the māna  the kinds
+w: Svarūpa  says  the river of the gopīs’ māna  with a hundred streams
+tr: The Lord said, “Tell Me about the kinds of *māna* in Vraja.” Svarūpa replied, “The river of the gopīs’ *māna* flows in a hundred streams.
+
+## 141
+w: of the heroines  the natures  in the workings of love  many  differences
+w: by those  differences  of many kinds  of māna  the appearance
+tr: Heroines differ greatly in nature and in the workings of their love, and from these differences *māna* springs up in many forms.
+fn: *Anubhāṣya*: on the kinds of heroines, of group leaders and of friends, see the *Ujjvala-nīlamaṇi*.
+
+## 142
+w: completely  of the gopīs  the māna  not  can be  told
+w: by one or two  varieties  I make  an indication
+tr: The gopīs’ *māna* cannot be described in full; I shall give a glimpse of it through one or two of its varieties.
+
+## 143
+w: in māna  some  are  dhīrā  some  indeed  adhīrā
+w: in these  three divisions  some  are  dhīrādhīrā
+tr: In *māna* some are *dhīrā*, composed; some are *adhīrā*, impetuous; and some, making the third division, are *dhīrādhīrā*, both composed and impetuous.
+
+## 144
+w: the dhīrā  her lover  from afar  seeing  rises to greet him
+w: near  when he comes  she makes  of a seat  an offering
+tr: Seeing her lover from afar, the composed heroine rises to greet him, and when he comes near she offers him a seat.
+
+## 145
+w: in her heart  anger  with her lips  speaks  sweet  words
+w: the beloved  when he embraces  him  she does  embracing
+tr: Anger lies in her heart, but her lips speak sweet words; when her beloved embraces her, she embraces him in return.
+
+## 146
+w: straightforward  behaviour  she does  of māna  nourishing
+w: or  with ironic words  she does  rebuffing the beloved
+tr: Her behaviour is straightforward, yet she nurses her *māna*; or else she rebuffs her beloved with ironic words.
+
+## 147
+w: the adhīrā  with harsh words  does  scolding
+w: with the lotus on her ear  she strikes  she does  with a garland  binding
+tr: The impetuous heroine scolds her lover with harsh words; she strikes him with the lotus from her ear or binds him with her garland.
+
+## 148
+w: the dhīrādhīrā  with crooked words  makes  mockery
+w: sometimes  praise  sometimes  reproach  sometimes  or  indifference
+tr: The heroine who is both composed and impetuous mocks him with sly, double-edged words: at times she praises him, at times she reproaches him, and at times she is indifferent.
+
+## 149
+w: mugdhā  madhyā  pragalbhā  three  of heroines  kinds
+w: the mugdhā  does not  know  of māna  the artful varieties
+tr: There are three kinds of heroine: *mugdhā* (artless), *madhyā* (intermediate) and *pragalbhā* (bold). The artless heroine does not know the artful ways of *māna*.
+
+## 150
+w: her face  covering  she does  only  weeping
+w: of her lover  the tender words  hearing  becomes  pacified
+tr: She only covers her face and weeps, and when she hears her lover’s tender words, she is pacified.
+
+## 151
+w: the madhyā  the pragalbhā  take on  dhīrā and the other  divisions
+w: of them  among  of all  by nature  three kinds
+tr: It is the intermediate and the bold heroines who are divided into *dhīrā* and the rest; and all of them, by nature, are again of three kinds.
+
+## 152
+w: some  prakharā  some  mṛdu  some  are  samā
+w: by their own natures  Kṛṣṇa’s  increase  the bounds of love
+tr: Some are *prakharā*, sharp; some are *mṛdu*, gentle; and some are *samā*, balanced. Each, by her own nature, expands the bounds of Kṛṣṇa’s love.
+
+## 153
+w: sharpness  gentleness  a balanced nature  faultless
+w: by each  such  nature  Kṛṣṇa  they cause  delight
+tr: Sharpness, gentleness and a balanced nature are all faultless, and by each of these natures they delight Kṛṣṇa.”
+
+## 154
+w: this  talk  hearing  the Lord’s  bliss  boundless
+w: tell  tell  Dāmodara  He says  time  after time
+tr: Hearing this, the Lord felt boundless bliss. “Go on, go on, Dāmodara!” He said again and again.
+
+## 155
+w: Dāmodara  says  Kṛṣṇa  the crown of relishers
+w: of rasa  the taster  whose body is made of rasa
+tr: Dāmodara said, “Kṛṣṇa is the crown of all who relish rasa. He tastes rasa, and His very body is made of rasa.
+
+## 156
+w: whose form is made of love  Kṛṣṇa  subject to His devotees’ love
+w: in pure love  in the qualities of rasa  the gopīs  are expert
+tr: Kṛṣṇa’s form is made of love, and He is subject to the love of His devotees. In pure love and in the qualities of rasa the gopīs are supremely expert.
+
+## 157
+w: of the gopīs  in the love  there is no  fault of rasābhāsa
+w: therefore  Kṛṣṇa’s  it causes  supreme  satisfaction
+tr: In the gopīs’ love there is no fault of *rasābhāsa*, a mere semblance of rasa; therefore it gives Kṛṣṇa supreme satisfaction.”
+fn: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, 4.9); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
+
+## 158
+w: thus  by the moon’s rays  resplendent  nights
+w: He  whose desires are true  surrounded by devoted maidens
+w: enjoyed  within Himself  keeping His amorous feelings
+w: all  of autumn  of poetic narrations  the abodes of rasa
+tr: “Thus Kṛṣṇa, whose desires are ever true, spent in the *rāsa* dance all those autumn nights resplendent with moonlight — nights that poetry sings of as the abode of rasa. The maidens devoted to Him were all around Him, yet He kept His amorous feelings within Himself.” (Śrīmad-Bhāgavatam, 10.33.25)
+fn: *Anubhāṣya*: *avaruddha-saurata* — He is *ātmārāma*, the transcendental Kāmadeva. *Amṛta-pravāha-bhāṣya*: the gopīs, Vṛndāvana, those nights and the *rāsa* dance itself are wholly spiritual; Kṛṣṇa never so much as glances at material love.
+
+## 159
+w: vāmā  one  group of gopīs  dakṣiṇā  another  group
+w: in various moods  they make  Kṛṣṇa  rasa  taste
+tr: “One group of gopīs is *vāmā*, contrary, and another is *dakṣiṇā*, compliant. Through their various moods they let Kṛṣṇa taste rasa.
+fn: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): the *vāmā* heroine is ever ready for *māna*, is angered when it slackens and does not yield to the hero; the *dakṣiṇā* cannot bear prolonged *māna* and softens at his tender words.
+
+## 160
+w: the gopīs  among  the foremost  Rādhā Ṭhākurāṇī
+w: of the pure, radiant rasa  of love  of jewels  a mine
+tr: Among the gopīs the foremost is Śrī Rādhā Ṭhākurāṇī, a mine of the jewels of love in the pure and radiant rasa (*ujjvala-rasa*).
+
+## 161
+w: in age  madhyamā  She  by nature  samā
+w: in deep  love  She  always  vāmā
+tr: In age She is *madhyā*, in the bloom of youth; by nature She is *samā*, balanced; yet in the depth of Her love She is always *vāmā*, contrary.
+
+## 162
+w: from a contrary nature  māna  rises  constantly
+w: of that  in the midst  rises  Kṛṣṇa’s  ocean of bliss
+tr: From Her contrary nature *māna* constantly arises, and in the midst of it the ocean of Kṛṣṇa’s bliss rises.”
+
+## 163
+w: of a snake  like  the movement  of love
+w: by nature  winding  is
+w: therefore  with cause  without cause  and
+w: of the young pair  pique  arises
+tr: “Like the movement of a snake, the course of love is winding by nature. Therefore pique (*māna*) arises between the young lovers, with cause and without cause.” (Ujjvala-nīlamaṇi, Śṛṅgāra-bheda-kathana, 102)
+fn: The same verse as Madhya 8.110; translation as there.
+
+## 164
+w: this  hearing  swells  the Lord’s  of bliss  the ocean
+w: tell  tell  says  the Lord  speaks  Dāmodara
+tr: Hearing this, the ocean of the Lord’s bliss swelled. “Go on, go on,” the Lord said, and Dāmodara continued:
+
+## 165
+w: adhirūḍha  mahābhāva  Rādhikā’s  love
+w: utterly pure  spotless  like  fire-refined  gold
+tr: “Rādhikā’s love is *adhirūḍha mahābhāva*, the highest summit of *mahābhāva*. It is utterly pure and spotless, like gold refined in fire.
+
+## 166
+w: of Kṛṣṇa  the sight  if  She obtains  suddenly
+w: with ornaments of many bhāvas  She becomes  adorned
+tr: Whenever She suddenly catches sight of Kṛṣṇa, She becomes adorned with the ornaments of many *bhāvas*, ecstatic feelings.
+
+## 167
+w: eight  sāttvika  joy and the rest  vyabhicārī  whose
+w: natural  love  twenty  bhāva ornaments
+tr: Hers are the eight *sāttvika* transformations, the *vyabhicārī-bhāvas* beginning with joy, Her natural love and the twenty ornaments of *bhāva*:
+
+## 168
+w: kila-kiñcita  kuṭṭamita  vilāsa  lalita
+w: vivvoka  moṭṭāyita  and  maugdhya  cakita
+tr: *kila-kiñcita*, *kuṭṭamita*, *vilāsa*, *lalita*, *vivvoka*, *moṭṭāyita*, *maugdhya*, *cakita* and others.
+
+## 169
+w: with so many  bhāva ornaments  adorned  Śrī  Rādhā’s  form
+w: on seeing  surge  the waves of Kṛṣṇa’s ocean of happiness
+tr: When Kṛṣṇa sees Śrī Rādhā’s form adorned with so many ornaments of *bhāva*, the waves of the ocean of His happiness surge high.
+
+## 170
+w: of kila-kiñcita and the other bhāvas  hear  the description
+w: by which  bhāva ornaments  Rādhā  steals  Kṛṣṇa’s mind
+tr: Now hear a description of *kila-kiñcita* and the other *bhāvas*, the ornaments of feeling by which Rādhā steals Kṛṣṇa’s mind.
+
+## 171
+w: Rādhā  seeing  Kṛṣṇa  if  to touch  makes up His mind
+w: on the path to the toll crossing  when  He bars  Her going
+tr: When Kṛṣṇa sees Rādhā and wants to touch Her, when He bars Her way on the path to the toll crossing (*dāna-ghāṭi*),
+
+## 172
+w: when  coming  He forbids  flowers  to pick
+w: before Her friends  He wants  if  on Her body  His hand  to place
+tr: when He comes and forbids Her to pick flowers, or when He tries to touch Her in front of Her friends —
+
+## 173
+w: in all these  situations  of kila-kiñcita  the rise
+w: first  joy  the sañcārī  the root cause
+tr: in all these situations *kila-kiñcita* arises. Its root cause is the *sañcārī-bhāva* of joy (*harṣa*), which comes first.
+
+## 174
+w: of pride, longing, weeping
+w: smiling, envy, fear and anger
+w: the mingling  from joy
+w: is called  kila-kiñcita
+tr: “The mingling of pride, longing, weeping, smiling, envy, fear and anger, born of joy, is called *kila-kiñcita*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 71)
+
+## 175
+w: other  seven  bhāvas  coming  naturally  combine
+w: by the union of eight bhāvas  mahābhāva  arises
+tr: The other seven *bhāvas* come and naturally combine with joy, and from the union of these eight *bhāvas* arises *mahābhāva*.
+
+## 176
+w: pride  longing  fear  dry weeping
+w: anger  envy  there are  and  a faint smile
+tr: The seven are pride, longing, fear, tearless weeping, anger, envy and a faint smile.
+
+## 177
+w: of various flavors  eight bhāvas  in one  the meeting
+w: whose  in the tasting  satisfied  becomes  Kṛṣṇa’s mind
+tr: These eight *bhāvas*, each of a different flavor, meet in one, and in tasting that blend Kṛṣṇa’s mind is fully satisfied.
+
+## 178
+w: yogurt  sugar  ghee  honey  black pepper  camphor
+w: by mixing with cardamom  as  rasālā  is sweet
+tr: It is like *rasālā*, which is so sweet because yogurt, sugar, ghee, honey, black pepper, camphor and cardamom are blended in it.
+
+## 179
+w: with these bhāvas  filled  seeing  Rādhā’s face and eyes
+w: than union  happiness  He obtains  ten million times
+tr: Seeing Rādhā’s face and eyes filled with these *bhāvas*, Kṛṣṇa feels ten million times more happiness than in union with Her.
+
+## 180
+w: within  with a smile  shining  with drops of tears  strewn  its lashes
+w: slightly  reddened at the corners  overflowing with playfulness  in front  narrowing
+w: of Her who was stopped  on the path  by Mādhava  with sweetly curving pupils raised
+w: Rādhā’s  a bouquet of kila-kiñcita  glance  good fortune  on you  may it bestow
+tr: “When Mādhava stopped Rādhā on the path, Her glance shone with a smile held within; its lashes were strewn with tears and its corners slightly reddened; brimming with playful delight, it narrowed, its pupils sweetly curving upward. May that glance of Rādhā’s, a bouquet of *kila-kiñcita*, bestow good fortune on you.” (Dāna-keli-kaumudī 1)
+
+## 181
+w: with eyes restless, reddened at the corners and clouded with tears  delighted by rasa
+w: with lips trembling in playful joy  with arched brows  with a dawning smile
+w: of Rādhā  adorned with kila-kiñcita  He  seeing  the face  than from union
+w: bliss  that  obtained  ten million times greater  which  was  not  within the range of words
+tr: “Seeing Rādhā’s face adorned with *kila-kiñcita* — Her restless eyes clouded with tears and reddened at the corners, Her face alight with rasa, Her lips trembling with playful delight, Her brows arched and a smile dawning — Kṛṣṇa attained a bliss ten million times greater than that of union with Her, a bliss beyond the reach of words.” (Govinda-līlāmṛta 9.18)
+
+## 182
+w: this  hearing  the Lord  became  joyful  in mind
+w: absorbed in happiness  becoming  Svarūpa  He did  embracing
+tr: Hearing this, the Lord rejoiced at heart, and, absorbed in happiness, He embraced Svarūpa.
+
+## 183
+w: of vilāsa and the other bhāva ornaments  tell  indeed  the characteristics
+w: by which  bhāva  Rādhā  steals  Govinda’s  mind
+tr: “Now tell Me the characteristics of *vilāsa* and the other ornaments of *bhāva* by which Rādhā steals Govinda’s mind.”
+
+## 184
+w: then  indeed  Svarūpa Gosāñi  to speak  began
+w: hearing  the Lord’s  devotees  great happiness  obtained
+tr: Then Svarūpa Gosāñi began to speak, and the Lord’s devotees were overjoyed to hear him.
+
+## 185
+w: Rādhā  is sitting  or  into Vṛndāvana  is going
+w: there  suddenly  of Kṛṣṇa  the sight  She obtains
+tr: “Rādhā may be sitting, or going into the forest of Vṛndāvana, when suddenly She catches sight of Kṛṣṇa.
+
+## 186
+w: on seeing (Him)  various bhāvas  become  extraordinary
+w: of that  distinctiveness  the name  the vilāsa ornament
+tr: On seeing Him, various *bhāvas* appear in Her in an extraordinary way, and that distinctiveness is called the ornament of *vilāsa*.
+
+## 187
+w: of gait, standing, sitting and so on
+w: of the movements of face, eyes and so on
+w: momentary  indeed  distinctiveness
+w: vilāsa  born of meeting the beloved
+tr: “The momentary distinctiveness in a heroine’s gait, standing, sitting and so on, and in the movements of her face, eyes and other features, born of meeting her beloved, is called *vilāsa*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 67)
+
+## 188
+w: shyness  joy  longing  flurry  contrariness  fear
+w: these  bhāvas  combining  Rādhā  restless  make
+tr: Shyness, joy, longing, flurry, contrariness and fear — all these *bhāvas* combine and make Rādhā restless.
+
+## 189
+w: in front  from seeing Kṛṣṇa  halted and wavering  Her  gait  became
+w: turned aside  half covered by a dark veil  beautiful  face  also
+w: with darting pupils  wide  pair of eyes  curved  thus  She
+w: with Her own ornament called vilāsa  adorned  became  for Her beloved’s delight
+tr: “When She saw Kṛṣṇa before Her, Her gait halted and wavered; Her lovely face turned aside, half covered by Her dark veil; and Her wide eyes curved, their pupils darting. Thus, adorned with Her own ornament called *vilāsa*, She became Her beloved’s delight.” (Govinda-līlāmṛta 9.11)
+
+## 190
+w: before Kṛṣṇa  Rādhā  when  remains  standing
+w: in a threefold bend of Her body  She remains  Her brows  making dance
+tr: When Rādhā stands before Kṛṣṇa, She stands with Her body bent in three places, making Her brows dance.
+
+## 191
+w: in face and eyes  there is  of various bhāvas  an outpouring
+w: of this  mood of the beloved  the name  the lalita ornament
+tr: When Her face and eyes pour forth many *bhāvas*, this mood of the beloved heroine is called the ornament of *lalita*.
+
+## 192
+w: the graceful poise  of the limbs
+w: charming with the play of the brows
+w: delicate  is  where
+w: lalita  that  is called
+tr: “Where the poise of the limbs is graceful and delicate, charming with the play of the brows, that is called *lalita*.” (Ujjvala-nīlamaṇi, Vibhāva-kathana, 75)
+
+## 193
+w: adorned with lalita  Rādhā  sees  when  Kṛṣṇa
+w: both  each other  to meet  become  eager
+tr: When Kṛṣṇa sees Rādhā adorned with *lalita*, They both long to meet each other.
+
+## 194
+w: from shyness  with neck, feet and waist bent aside  most charming
+w: by the moving creepers of Her brows  broken  Kāmadeva’s  mighty  bow
+w: with a graceful, cherished body glowing with the joy of love for Her beloved
+w: for Her beloved’s delight  She  was  with the ornament of lalita that had arisen  endowed
+tr: “Bashfully turning Her neck aside and bending Her feet and waist, She looked most charming; the moving creepers of Her brows broke the mighty bow of Kāmadeva; Her graceful, cherished body glowed with the joy of love for Her beloved. Thus, for Her beloved’s delight, She was adorned with the ornament of *lalita*, which had arisen in Her.” (Govinda-līlāmṛta 9.14)
+
+## 195
+w: in eagerness  coming  Kṛṣṇa  does  pulling at the bodice
+w: within  delight  Rādhā  does  warding off
+tr: When Kṛṣṇa eagerly comes and pulls at Her bodice (*kañcuka*), Rādhā is delighted within, yet She wards Him off.
+
+## 196
+w: outwardly  contrariness and anger  inwardly  happiness  in the mind
+w: kuṭṭamita  named  this  bhāva  among the ornaments
+tr: Outwardly She shows contrariness and anger, but inwardly She is happy at heart. Among the ornaments this *bhāva* is called *kuṭṭamita*.
+
+## 197
+w: when the breasts, lips and so on are touched
+w: joy in the heart  though  from agitation
+w: outwardly  anger  as if pained
+w: is called  kuṭṭamita  by the wise
+tr: “When her breasts, lips and so on are touched, the heroine, though joyful at heart, shows anger outwardly in her agitation, as if she were pained. The wise call this *kuṭṭamita*.” (Ujjvala-nīlamaṇi, Anubhāva-prakaraṇa, 49)
+
+## 198
+w: Kṛṣṇa’s desire  fulfilled  is  She does  checking His hand
+w: within  bliss  Rādhā  outwardly  contrariness and anger
+tr: She checks Kṛṣṇa’s hand, and yet His desire is fulfilled; within, Rādhā feels bliss, while outwardly She shows contrariness and anger.
+
+## 199
+w: pain  feeling  She does  as if  dry  weeping
+w: slightly  smiling  Kṛṣṇa  She does  rebuking
+tr: As if in pain, She weeps without tears, and with a faint smile She rebukes Kṛṣṇa.
+
+## 200
+w: a checking of the hand  that does not obstruct His desire
+w: rebukes  and  hiding a sweet smile
+w: of Mādhava  makes  She whose thighs are like an elephant’s trunk
+w: charming  dry weeping  and  on the face  also
+tr: “Rādhā, whose thighs are like an elephant’s trunk, checks Mādhava’s hand without obstructing His desire; She rebukes Him with a sweet smile hidden in Her words; and on Her face there is a charming, tearless weeping.”
+
+## 201
+w: in this way  other  all  ornaments of bhāva
+w: with which  adorned  Rādhā  steals  Kṛṣṇa’s  mind
+tr: In the same way there are all the other ornaments of *bhāva*; adorned with them, Rādhā steals Kṛṣṇa’s mind.
+
+## 202
+w: endless  Kṛṣṇa’s  pastimes  not  can be  described
+w: Himself  describes  even if  the thousand-mouthed one
+tr: Kṛṣṇa’s pastimes are endless; they cannot be described in full, even if the thousand-mouthed Ananta Himself describes them.”
+
+## 203
+w: Śrīvāsa  smiling  says  listen  Dāmodara
+w: of my  Lakṣmī  see  of the wealth  the abundance
+tr: Śrīvāsa said with a smile, “Listen, Dāmodara! See the abundant wealth of my Lakṣmī!
+
+## 204
+w: of Vṛndāvana  the wealth  see  flowers and young shoots
+w: mountain minerals  peacock feathers  guñjā berries  consisting of
+tr: And see the wealth of Vṛndāvana: flowers and young shoots, mountain minerals, peacock feathers and *guñjā* berries!
+
+## 205
+w: Vṛndāvana  to see  went  Jagannātha
+w: hearing  of Lakṣmī-devī  in the mind  arose  uneasiness
+tr: Jagannātha went to see Vṛndāvana, and when Lakṣmī-devī heard of it, she grew uneasy at heart.
+
+## 206
+w: so much  wealth  leaving  why  did He go  to Vṛndāvana
+w: at Him  laughter  to make  Lakṣmī  did  arraying
+tr: ‘Why did He leave so much wealth and go to Vṛndāvana?’ Lakṣmī thought, and to make Him a laughingstock she arrayed herself in all her splendour.
+
+## 207
+w: your  master  look  so much  wealth  leaving
+w: out of greed for leaves, fruits and flowers  went  to the flower garden
+tr: ‘Look at your master! He has left all this wealth and gone to a flower garden, greedy for leaves, fruits and flowers.
+
+## 208
+w: such  a deed  does  where  the crown jewel of the clever
+w: of Lakṣmī  before  your own  master  give  bringing
+tr: Where would the crown jewel of the clever do such a thing? Bring your master before Lakṣmī!’
+
+## 209
+w: so  saying  of Mahā-Lakṣmī  all  the maidservants
+w: with waistcloths  binding  bring  the Lord’s  own men
+tr: Saying this, all of Mahā-Lakṣmī’s maidservants bound the Lord’s own servants with waistcloths and brought them before her.
+
+## 210
+w: to Lakṣmī’s  feet  bringing  they make  bow
+w: a fine in money  they take  and  they make  plead
+tr: They brought them to Lakṣmī’s feet and made them bow down; they exacted a fine from them and made them plead humbly.
+
+## 211
+w: the chariot  upon  they do  with sticks  beating
+w: almost like thieves  they treat  Jagannātha’s  servants
+tr: They beat the chariot with sticks and treated Jagannātha’s servants almost like thieves.
+
+## 212
+w: all  the servants  say  joined  making  hands
+w: tomorrow  bringing  we shall give  your  before  Jagannātha
+tr: All the servants said with folded hands, ‘Tomorrow we shall bring Jagannātha before you.’
+
+## 213
+w: then  pacified  becoming  Lakṣmī  goes  to her own  home
+w: of my  Lakṣmī  the wealth  beyond words
+tr: Then Lakṣmī, pacified, went back to her own home. The wealth of my Lakṣmī is beyond words!
+
+## 214
+w: milk  boiling  yogurt  churn  your  gopīs
+w: my  mistress  sits  on a jeweled throne
+tr: Your gopīs boil milk and churn yogurt, while my mistress sits on a jeweled throne.”
+
+## 215
+w: of Nārada’s nature  Śrīvāsa  makes  jokes
+w: hearing  laugh  Mahāprabhu’s  all  own servants
+tr: Śrīvāsa, whose nature is like Nārada’s, joked in this way, and all of Mahāprabhu’s own servants laughed to hear him.
+
+## 216
+w: the Lord  says  Śrīvāsa  in you  Nārada’s nature
+w: in the mood of majesty  on you  the Lord’s influence
+tr: The Lord said, “Śrīvāsa, you have Nārada’s nature: in the mood of majesty (*aiśvarya*), the Lord’s power holds sway over you.
+
+## 217
+w: he  Dāmodara Svarūpa  a pure resident of Vraja
+w: majesty  not  knows  he  in pure love  floating
+tr: But this Svarūpa Dāmodara is a pure resident of Vraja. Floating in pure love, he does not know majesty.”
+
+## 218
+w: Svarūpa  says  Śrīvāsa  listen  attentively
+w: the wealth of Vṛndāvana  your  not  comes  to mind
+tr: Svarūpa said, “Śrīvāsa, listen carefully! Does the wealth of Vṛndāvana not come to your mind?
+
+## 219
+w: in Vṛndāvana  natural  which  ocean of wealth
+w: of Dvārakā and Vaikuṇṭha the wealth  of it  one  drop
+tr: In Vṛndāvana there is a natural ocean of wealth, and the wealth of Dvārakā and Vaikuṇṭha is but a drop of it.
+
+## 220
+w: the supreme  Puruṣottama  Himself  Bhagavān
+w: Kṛṣṇa  where  the owner of wealth  there  the abode of Vṛndāvana
+tr: The Supreme Person, Bhagavān Himself, Kṛṣṇa, is the master of wealth in the abode of Vṛndāvana.
+
+## 221
+w: made of cintāmaṇi  the ground  of jewels  the houses
+w: cintāmaṇi gems  of the maidservants  the foot ornaments
+tr: There the ground is made of *cintāmaṇi* gems and the houses of jewels; *cintāmaṇi* gems are the ornaments on the maidservants’ feet.
+
+## 222
+w: of wish-fulfilling trees and creepers  where  a natural forest
+w: flowers and fruits  except  no one  not  asks for  other  wealth
+tr: There the natural forest is made of wish-fulfilling trees and creepers, yet no one asks them for any wealth but flowers and fruits.
+
+## 223
+w: countless  wish-fulfilling cows  there  wander  from forest  to forest
+w: milk only  they give  no one  not  asks for  other  wealth
+tr: Countless wish-fulfilling cows wander there from forest to forest; they give only milk, and no one asks them for any other wealth.
+
+## 224
+w: ordinary  of the people  the talk  where  a divine song
+w: ordinary  walking  they do  as  is taken for dancing
+tr: There the ordinary talk of the people is a divine song, and their ordinary walking seems like dancing.
+
+## 225
+w: everywhere  the water  where  like nectar
+w: spiritual and blissful  the light  to be relished  where  embodied
+tr: Everywhere there the water is like nectar, and the light of spiritual bliss is embodied there and relished.
+
+## 226
+w: Lakṣmī  surpassing  in qualities  where  of Lakṣmīs  the company
+w: Kṛṣṇa’s flute  does  where  of a dear friend  the service
+tr: There the company of Lakṣmīs, the gopīs, surpass Lakṣmī in their qualities, and Kṛṣṇa’s flute serves as a dear friend.
+
+## 227
+w: goddesses of fortune  the beloveds  the lover  the Supreme Person  wish-fulfilling trees
+w: the trees  the ground  made of cintāmaṇi gems  the water  nectar
+w: speech  song  dance  walking  also  the flute  a dear friend
+w: spiritual and blissful  light  the supreme  also  that  to be relished  also  and
+tr: “There the beloveds are goddesses of fortune and the lover is the Supreme Person; the trees are wish-fulfilling trees; the ground is made of *cintāmaṇi* gems and the water is nectar; speech is song and walking is dance; the flute is a dear friend; and the supreme light of spiritual bliss is there to be relished.” (Brahma-saṁhitā 5.56)
+
+## 228
+w: cintāmaṇi  the foot ornament  of the maidens
+w: trees with flowers for adornment  the trees  of the gods
+w: in Vṛndāvana  the wealth of Vraja  indeed  of wish-fulfilling cows
+w: herds  and thus  an ocean of happiness  ah!  the splendour
+tr: “In Vṛndāvana *cintāmaṇi* is the ornament of the maidens’ feet; the trees of the gods are trees that yield flowers for their adornment; and the wealth of Vraja is herds of wish-fulfilling cows. Ah, this splendour is an ocean of happiness!” (Bhakti-rasāmṛta-sindhu 2.1.173)
+
+## 229
+w: hearing  in the rapture of love  dance  does  Śrīnivāsa
+w: under the arm  clapping  he sounds  he makes  loud  loud  laughter
+tr: Hearing this, Śrīvāsa danced in the rapture of love, clapping his hands under his arms and laughing loudly.
+
+## 230
+w: Rādhā’s  pure rasa  the Lord  in rapture  heard
+w: in that  rapture of rasa  the Lord  dance  began
+tr: The Lord heard of Rādhā’s pure rasa in rapture, and in that rapture of rasa He began to dance.
+
+## 231
+w: in the rapture of rasa  the Lord’s  dance  Svarūpa’s  singing
+w: go on  go on  saying  the Lord  lends  His own ears
+tr: Absorbed in rasa, the Lord danced and Svarūpa sang. “Go on, go on!” the Lord said, lending His ears.
+
+## 232
+w: songs of the rasa of Vraja  hearing  love  surged up
+w: the town of Puruṣottama  the Lord  with love  flooded
+tr: Hearing songs of the rasa of Vraja, His love surged up, and the Lord flooded the town of Puruṣottama with love.
+
+## 233
+w: Lakṣmī-devī  in due time  went  to her own home
+w: the Lord  dance  does  came  the second  watch
+tr: In due time Lakṣmī-devī went back to her own home. The Lord went on dancing, and the second watch of the day (*prahara*) had come.
+
+## 234
+w: the four  groups  singing  having done  very  tired  became
+w: Mahāprabhu’s  rapture of love  twofold  increased
+tr: The four groups grew very tired from singing, but Mahāprabhu’s rapture of love doubled.
+
+## 235
+w: in the rapture of Rādhā’s love  the Lord  became  that  form
+w: Nityānanda  from afar  seeing  offered  prayers
+tr: In the rapture of Rādhā’s love the Lord assumed Her very form. Seeing this from afar, Nityānanda offered prayers.
+
+## 236
+w: Nityānanda  seeing  the Lord’s  rapture of feeling
+w: near  not  comes  somewhat  stays  at a distance
+tr: Seeing the Lord’s rapture, Nityānanda would not come near but kept somewhat at a distance.
+
+## 237
+w: Nityānanda  except  the Lord  holds  what  person
+w: the Lord’s  rapture  not  goes  not  stops  the kīrtana
+tr: Who but Nityānanda could hold the Lord? His rapture did not subside, and the kīrtana did not stop.
+
+## 238
+w: a stratagem  making  Svarūpa  of all  the fatigue  made known
+w: of the devotees  the fatigue  seeing  the Lord’s  outer awareness  came
+tr: By a skilful hint Svarūpa made the Lord aware of everyone’s fatigue, and seeing how tired the devotees were, the Lord returned to outer awareness.
+
+## 239
+w: all  devotees  taking  the Lord  went  to the flower garden
+w: rest  having taken  He did  the midday bath
+tr: Taking all the devotees with Him, the Lord went to the flower garden; there He rested and then took His midday bath.
+
+## 240
+w: Jagannātha’s  prasāda  came  many  offerings
+w: Lakṣmī’s  prasāda  came  various  kinds
+tr: Many offerings of Jagannātha’s prasāda arrived, and Lakṣmī’s prasāda of various kinds arrived too.
+
+## 241
+w: all  taking  with many delights  He did  eating
+w: evening  bath  having taken  He did  Jagannātha’s  darśana
+tr: With everyone around Him, the Lord ate joyfully. After His evening bath He went for darśana of Jagannātha.
+
+## 242
+w: Jagannātha  seeing  He does  dancing and kīrtana
+w: in Narendra  water sports  He does  taking  the devotees
+tr: Seeing Jagannātha, He danced and sang kīrtana; then He played in the water of Narendra Lake with the devotees.
+
+## 243
+w: to the garden  coming  He did  a forest meal
+w: in this way  pastimes  did  the Lord  eight  days
+tr: Coming to the garden, He had a meal in the grove. In this way the Lord enjoyed His pastimes for eight days.
+
+## 244
+w: on the next  day  Jagannātha’s  return within
+w: on the chariot  mounting  Jagannātha  goes  to His own abode
+tr: The next day was Jagannātha’s return (*bhitara-vijaya*): mounting His chariot, Jagannātha went back to His own abode.
+
+## 245
+w: as before  did  the Lord  with  the devotees
+w: in supreme  bliss  He does  dancing and kīrtana
+tr: As before, the Lord, together with the devotees, danced and sang kīrtana in supreme bliss.
+
+## 246
+w: Jagannātha’s  again  pāṇḍu-vijaya  took place
+w: one  silk rope  there  breaking  went
+tr: Once again Jagannātha’s *pāṇḍu-vijaya* took place, and one of the silk ropes broke.
+
+## 247
+w: of the pāṇḍu-vijaya  the cotton pads  tearing and bursting  go
+w: of Jagannātha  by the weight  the cotton  flying up  scatters
+tr: The cotton pads used for the *pāṇḍu-vijaya* tore and burst, and under Jagannātha’s weight the cotton flew up and scattered.
+
+## 248
+w: of Kulīna-grāma  Rāmānanda  Satyarāja Khān
+w: to them  an order  gave  the Lord  showing  respect
+tr: Rāmānanda and Satyarāja Khān of Kulīna-grāma were there, and the Lord respectfully gave them an order:
+
+## 249
+w: of these  silk ropes  you  be  the patrons
+w: every year  bring  ropes  having made
+tr: “You be the patrons (*yajamāna*) of these silk ropes. Every year have the ropes made and bring them.”
+
+## 250
+w: so  saying  gave  to them  the torn  silk rope
+w: this  seeing  make  ropes  very  strong  making
+tr: So saying, He gave them the torn silk rope. “Look at this,” He said, “and make the ropes very strong.
+
+## 251
+w: in this  silk rope  is  Śeṣa’s abode
+w: in ten forms  becoming  who  serves  Bhagavān
+tr: In this silk rope resides Śeṣa, who serves Bhagavān by assuming ten forms.”
+
+## 252
+w: fortunate  those  Satyarāja  Rāmānanda
+w: of service  the order  receiving  became  supreme  bliss
+tr: Fortunate indeed were Satyarāja and Rāmānanda: receiving the order to serve, they felt supreme bliss.
+
+## 253
+w: every  year  to the Guṇḍicā  with the devotees
+w: silk ropes  bringing  they come  with very  great  joy
+tr: Every year after that, they came with the devotees to the Guṇḍicā festival with great joy, bringing silk ropes.
+
+## 254
+w: then  Jagannātha  going  sat  on His throne
+w: Mahāprabhu  home  came  with  the devotees
+tr: Then Jagannātha went and sat upon His throne, and Mahāprabhu came home with the devotees.
+
+## 255
+w: in this way  to the devotees  the festival  He showed
+w: the devotees  with  the pastimes of Vṛndāvana  He enacted
+tr: In this way the Lord showed the devotees the Ratha-yātrā festival and, together with them, enacted the pastimes of Vṛndāvana.
+
+## 256
+w: of Caitanya Gosāñi  the pastimes  endless  boundless
+w: the thousand-mouthed one  of which  not  reaches  the end
+tr: The pastimes of Caitanya Gosāñi are endless and boundless; even the thousand-mouthed Śeṣa cannot reach their end.
+
+## 257
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The same colophon as Madhya 7.155; translation as there.
