@@ -49,3 +49,11 @@
 | patita | fallen (*patita*) | 15.264–265 |
 | visūcikā-vyādhi | cholera | 15.266, 15.272 |
 | mahad-atikrama | offence against great souls | 15.270 (as in `GLOSSARY-commentary.md`) |
+| mātsarya-caṇḍāla | the *caṇḍāla* of envy | 15.275 |
+| kaluṣa, kalmaṣa | impurity, taint | 15.276 |
+| premonmāda | mad with love | 15.278 |
+| sva-gātra-sparśa, āśvāsana | consoled him, touching his body | 15.283 |
+| anya jana rahu dūra | what to speak of others | 15.284 |
+| Īśvara-daraśana | to see Jagannātha (*Īśvara*) | 15.293, 15.295 |
+| ekānta bhakta | an exclusive devotee | 15.296 |
+| bhojana-vilāsa | the pastime of eating | 15.298 |

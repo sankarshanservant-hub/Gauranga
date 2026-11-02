@@ -2691,238 +2691,298 @@ from cholera  Amogha  is leaving  life
 অমোঘেরে কহে তার বুকে হস্ত দিয়া ॥ ২৭৩ ॥
 
 śuni’ kṛpāmaya prabhu āilā dhāñā  
-amoghere kahe tāra buke hasta diyā
+hearing  merciful  the Lord  came  running  
+amoghere kahe tāra buke hasta diyā  
+to Amogha  says  his  on the chest  hand  placing
 
-(273) [not yet translated]
+(273) Hearing this, the merciful Lord came running. Placing His hand on Amogha’s chest, He said:
 
 সহজে নির্ম্মল এই ‘ব্রাহ্মণ’-হৃদয় ৷  
 কৃষ্ণের বসিতে এই যোগ্যস্থান হয় ॥ ২৭৪ ॥
 
 sahaje nirmala ei ‘brāhmaṇa’-hṛdaya  
-kṛṣṇera vasite ei yogya-sthāna haya
+by nature  pure  this  brāhmaṇa’s heart  
+kṛṣṇera vasite ei yogya-sthāna haya  
+for Kṛṣṇa  to sit  this  a fit place  is
 
-(274) [not yet translated]
+(274) “This heart of a brāhmaṇa is pure by nature; it is a fit place for Kṛṣṇa to sit.
 
 ‘মাৎসর্য্য’-চণ্ডাল কেনে ইঁহা বসাইলা ৷  
 পরম পবিত্র স্থান অপবিত্র কৈলা ॥ ২৭৫ ॥
 
 ‘mātsarya’-caṇḍāla kene iṅhā vasāilā  
-parama pavitra sthāna apavitra kailā
+the caṇḍāla of envy  why  here  have you seated  
+parama pavitra sthāna apavitra kailā  
+supremely  pure  place  impure  you have made
 
-(275) [not yet translated]
+(275) “Why have you seated the *caṇḍāla* of envy here? You have made this supremely pure place impure.
 
 সার্ব্বভৌম-সঙ্গে তোমার ‘কলুষ’ হৈল ক্ষয় ৷  
 ‘কল্মষ’ ঘুচিলে জীব ‘কৃষ্ণনাম’ লয় ॥ ২৭৬ ॥
 
 sārvabhauma-saṅge tomāra ‘kaluṣa’ haila kṣaya  
-‘kalmaṣa’ ghucile jīva ‘kṛṣṇa-nāma’ laya
+in Sārvabhauma’s company  your  impurity  has become  destroyed  
+‘kalmaṣa’ ghucile jīva ‘kṛṣṇa-nāma’ laya  
+the taint  when removed  the soul  Kṛṣṇa’s name  takes
 
-(276) [not yet translated]
+(276) “By Sārvabhauma’s company your impurity has been destroyed, and when the taint is gone, a soul takes the name of Kṛṣṇa.
 
 উঠহ, অমোঘ, তুমি লও কৃষ্ণনাম ৷  
 অচিরে তোমারে কৃপা করিবে ভগবান্ ॥ ২৭৭ ॥
 
 uṭhaha, amogha, tumi lao kṛṣṇa-nāma  
-acire tomāre kṛpā karibe bhagavān
+get up  Amogha  you  take  Kṛṣṇa’s name  
+acire tomāre kṛpā karibe bhagavān  
+soon  on you  mercy  will show  Bhagavān
 
-(277) [not yet translated]
+(277) “Get up, Amogha! Take the name of Kṛṣṇa, and Bhagavān will soon show you His mercy.”
 
 শুনি’ ‘কৃষ্ণ’ ‘কৃষ্ণ’ বলি’ অমোঘ উঠিলা ৷  
 প্রেমোন্মাদে মত্ত হঞা নাচিতে লাগিলা ॥ ২৭৮ ॥
 
 śuni’ ‘kṛṣṇa’ ‘kṛṣṇa’ bali’ amogha uṭhilā  
-premonmāde matta hañā nācite lāgilā
+hearing  “Kṛṣṇa”  “Kṛṣṇa”  saying  Amogha  got up  
+premonmāde matta hañā nācite lāgilā  
+in the madness of love  intoxicated  becoming  to dance  began
 
-(278) [not yet translated]
+(278) Hearing this, Amogha rose up crying, “Kṛṣṇa! Kṛṣṇa!” and, mad with love, began to dance.
 
 কম্প, অশ্রু, পুলক, স্তম্ভ, স্বেদ, স্বরভঙ্গ ৷  
 প্রভু হাসে দেখি’ তার প্রেমের তরঙ্গ ॥ ২৭৯ ॥
 
 kampa, aśru, pulaka, stambha, sveda, svara-bhaṅga  
-prabhu hāse dekhi’ tāra premera taraṅga
+trembling  tears  hair standing on end  becoming stunned  perspiration  faltering voice  
+prabhu hāse dekhi’ tāra premera taraṅga  
+the Lord  smiles  seeing  his  of love  the waves
 
-(279) [not yet translated]
+(279) Trembling, tears, hair standing on end, stupor, perspiration and a faltering voice appeared in him, and seeing these waves of love, the Lord smiled.
 
 প্রভুর চরণে ধরি’ করেন বিনয় ৷  
 অপরাধ ক্ষম মোরে, প্রভু, দয়াময় ॥ ২৮০ ॥
 
 prabhura caraṇe dhari’ karena vinaya  
-aparādha kṣama more, prabhu, dayāmaya
+of the Lord  the feet  clasping  makes  entreaty  
+aparādha kṣama more, prabhu, dayāmaya  
+offence  pardon  me  O Lord  merciful
 
-(280) [not yet translated]
+(280) Clasping the Lord’s feet, he humbly entreated Him: “O merciful Lord, forgive my offence.
 
 এই ছার মুখে তোমার করিনু নিন্দনে ৷  
 এত বলি’ আপন গালে চড়ায় আপনে ॥ ২৮১ ॥
 
 ei chāra mukhe tomāra karinu nindane  
-eta bali’ āpana gāle caḍāya āpane
+this  wretched  with mouth  of You  I made  blasphemy  
+eta bali’ āpana gāle caḍāya āpane  
+this  saying  his own  cheeks  slaps  himself
 
-(281) [not yet translated]
+(281) “With this wretched mouth I blasphemed You!” Saying this, he began to slap his own cheeks.
 
 চড়াইতে চড়াইতে গাল ফুলাইল ৷  
 হাতে ধরি’ গোপীনাথাচার্য্য নিষেধিল ॥ ২৮২ ॥
 
 caḍāite caḍāite gāla phulāila  
-hāte dhari’ gopīnāthācārya niṣedhila
+slapping  slapping  the cheeks  he swelled  
+hāte dhari’ gopīnāthācārya niṣedhila  
+by the hands  seizing  Gopīnātha Ācārya  stopped him
 
-(282) [not yet translated]
+(282) He slapped himself until his cheeks were swollen. Then Gopīnātha Ācārya seized his hands and stopped him.
 
 প্রভু আশ্বাসন করে স্পর্শি’ তার গাত্র ৷  
 সার্ব্বভৌম-সম্বন্ধে তুমি মোর স্নেহপাত্র ॥ ২৮৩ ॥
 
 prabhu āśvāsana kare sparśi’ tāra gātra  
-sārvabhauma-sambandhe tumi mora sneha-pātra
+the Lord  consolation  gives  touching  his  body  
+sārvabhauma-sambandhe tumi mora sneha-pātra  
+by relation to Sārvabhauma  you  My  object of affection
 
-(283) [not yet translated]
+(283) The Lord consoled him, touching his body: “Because you are related to Sārvabhauma, you are dear to Me.
 
 সার্ব্বভৌম-গৃহে দাস দাসী, যে কুক্কুর ৷  
 সেহ মোর প্রিয়, অন্য জন রহু দূর ॥ ২৮৪ ॥
 
 sārvabhauma-gṛhe dāsa dāsī, ye kukkura  
-seha mora priya, anya jana rahu dūra
+in Sārvabhauma’s house  servants  maids  even  dogs  
+seha mora priya, anya jana rahu dūra  
+they too  to Me  dear  other  people  let stay far
 
-(284) [not yet translated]
+(284) “Even the servants, maids and dogs in Sārvabhauma’s house are dear to Me — what to speak of others.
 
 ‘অপরাধ’ নাহি তব, লও কৃষ্ণনাম ৷  
 এত বলি’ প্রভু আইলা সার্ব্বভৌম-স্থান ॥ ২৮৫ ॥
 
 ‘aparādha’ nāhi taba, lao kṛṣṇa-nāma  
-eta bali’ prabhu āilā sārvabhauma-sthāna
+offence  there is no  in you  take  Kṛṣṇa’s name  
+eta bali’ prabhu āilā sārvabhauma-sthāna  
+this  saying  the Lord  came  to Sārvabhauma’s place
 
-(285) [not yet translated]
+(285) “There is no offence left in you. Take the name of Kṛṣṇa.” With these words the Lord went to Sārvabhauma’s house.
 
 প্রভু দেখি’ সার্ব্বভৌম ধরিলা চরণে ৷  
 প্রভু তাঁরে আলিঙ্গিয়া বসিলা আসনে ॥ ২৮৬ ॥
 
 prabhu dekhi’ sārvabhauma dharilā caraṇe  
-prabhu tāṅre āliṅgiyā vasilā āsane
+the Lord  seeing  Sārvabhauma  clasped  the feet  
+prabhu tāṅre āliṅgiyā vasilā āsane  
+the Lord  him  embracing  sat  on a seat
 
-(286) [not yet translated]
+(286) Seeing the Lord, Sārvabhauma clasped His feet. The Lord embraced him and sat down.
 
 প্রভু কহে, — অমোঘ শিশু, কিবা তার দোষ ৷  
 কেনে উপবাস কর, কেনে কর রোষ ॥ ২৮৭ ॥
 
 prabhu kahe, — amogha śiśu, kibā tāra doṣa  
-kene upavāsa kara, kene kara roṣa
+the Lord  says  Amogha  a child  what  his  fault  
+kene upavāsa kara, kene kara roṣa  
+why  fast  you keep  why  you nurse  anger
 
-(287) [not yet translated]
+(287) The Lord said, “Amogha is a child. What fault is there in him? Why are you fasting, and why are you angry?
 
 উঠ, স্নান কর, দেখ জগন্নাথ-মুখ ৷  
 শীঘ্র আসি’ ভোজন কর, তবে মোর সুখ ॥ ২৮৮ ॥
 
 uṭha, snāna kara, dekha jagannātha-mukha  
-śīghra āsi’ bhojana kara, tabe mora sukha
+get up  bath  take  see  Jagannātha’s face  
+śīghra āsi’ bhojana kara, tabe mora sukha  
+quickly  coming back  meal  take  then  My  happiness
 
-(288) [not yet translated]
+(288) “Get up, bathe and go to see Jagannātha’s face. Then come back quickly and eat; that will make Me happy.
 
 তাবৎ রহিব আমি এথায় বসিয়া ৷  
 যাবৎ না পাইবা তুমি প্রসাদ আনিয়া ॥ ২৮৯ ॥
 
 tāvat rahiba āmi ethāya vasiyā  
-yāvat nā pāibā tumi prasāda āniyā
+so long  shall stay  I  here  sitting  
+yāvat nā pāibā tumi prasāda āniyā  
+as long as  not  honour  you  prasāda  bringing
 
-(289) [not yet translated]
+(289) “I shall sit here until you have brought *prasāda* and honoured it.”
 
 প্রভু পদ ধরি’ ভট্ট কহিতে লাগিলা ৷  
 মরিত’ অমোঘ, তারে কেনে জীয়াইলা ॥ ২৯০ ॥
 
 prabhu pada dhari’ bhaṭṭa kahite lāgilā  
-marita’ amogha, tāre kene jīyāilā
+of the Lord  the feet  clasping  Bhaṭṭa  to speak  began  
+marita’ amogha, tāre kene jīyāilā  
+would have died  Amogha  him  why  You revived
 
-(290) [not yet translated]
+(290) Clasping the Lord’s feet, Bhaṭṭa said, “Amogha would have died. Why did You bring him back to life?”
 
 প্রভু কহে, — অমোঘ শিশু, তোমার বালক ৷  
 বালক-দোষ না লয় পিতা, তাহাতে পালক ॥ ২৯১ ॥
 
 prabhu kahe, — amogha śiśu, tomāra bālaka  
-bālaka-doṣa nā laya pitā, tāhāte pālaka
+the Lord  says  Amogha  a child  your  boy  
+bālaka-doṣa nā laya pitā, tāhāte pālaka  
+the boy’s fault  not  takes  the father  for in that  he is the protector
 
-(291) [not yet translated]
+(291) The Lord said, “Amogha is a child; he is your son. A father does not hold his child’s faults against him, for he is his protector.
 
 এবে ‘বৈষ্ণব’ হৈল, তার গেল ‘অপরাধ’ ৷  
 তাহার উপরে এবে করহ প্রসাদ ॥ ২৯২ ॥
 
 ebe ‘vaiṣṇava’ haila, tāra gela ‘aparādha’  
-tāhāra upare ebe karaha prasāda
+now  a Vaiṣṇava  he has become  his  went  offence  
+tāhāra upare ebe karaha prasāda  
+him  on  now  show  grace
 
-(292) [not yet translated]
+(292) “Now he has become a Vaiṣṇava, and his offence is gone. Now show him your favour.”
 
 ভট্ট কহে, — চল, প্রভু, ঈশ্বর-দরশনে ৷  
 স্নান করি’ হেথা মুঞি আসিলাঙ এখনে ॥ ২৯৩ ॥
 
 bhaṭṭa kahe, — cala, prabhu, īśvara-daraśane  
-snāna kari’ hethā muñi āsilāṅ ekhane
+Bhaṭṭa  says  go  O Lord  to see Īśvara (Jagannātha)  
+snāna kari’ hethā muñi āsilāṅ ekhane  
+bath  having taken  here  I  am back  at once
 
-(293) [not yet translated]
+(293) Bhaṭṭa said, “Go, O Lord, to see Jagannātha. I shall bathe and be back here at once.”
 
 প্রভু কহে, — গোপীনাথ, ইহাঞি রহিবা ৷  
 ইঁহো প্রসাদ পাইলে, বার্ত্তা আমাকে কহিবা ॥ ২৯৪ ॥
 
 prabhu kahe, — gopīnātha, ihāñi rahibā  
-iṅho prasāda pāile, vārtā āmāke kahibā
+the Lord  says  Gopīnātha  right here  stay  
+iṅho prasāda pāile, vārtā āmāke kahibā  
+he  prasāda  having honoured  the news  to Me  tell
 
-(294) [not yet translated]
+(294) The Lord said, “Gopīnātha, stay right here. When he has honoured the *prasāda*, bring Me word.”
 
 এত বলি’ প্রভু গেলা ঈশ্বর-দরশনে ৷  
 ভট্ট স্নান দর্শন করি’ করিলা ভোজনে ॥ ২৯৫ ॥
 
 eta bali’ prabhu gelā īśvara-daraśane  
-bhaṭṭa snāna darśana kari’ karilā bhojane
+this  saying  the Lord  went  to see Īśvara  
+bhaṭṭa snāna darśana kari’ karilā bhojane  
+Bhaṭṭa  bath  sight  having made  took  meal
 
-(295) [not yet translated]
+(295) With these words the Lord went to see Jagannātha, and Bhaṭṭa bathed, took *darśana* and ate.
 
 সেই অমোঘ হৈল প্রভুর ভক্ত ‘একান্ত’ ৷  
 প্রেমে নাচে, কৃষ্ণনাম লয় মহাশান্ত ॥ ২৯৬ ॥
 
 sei amogha haila prabhura bhakta ‘ekānta’  
-preme nāce, kṛṣṇa-nāma laya mahā-śānta
+that  Amogha  became  the Lord’s  devotee  exclusive  
+preme nāce, kṛṣṇa-nāma laya mahā-śānta  
+in love  dances  Kṛṣṇa’s name  takes  deeply peaceful
 
-(296) [not yet translated]
+(296) That same Amogha became the Lord’s exclusive devotee. He would dance in love and chant the name of Kṛṣṇa, deeply at peace.
 
 ঐছে চিত্র-লীলা করে শচীর নন্দন ৷  
 যেই দেখে, শুনে, তাঁর বিস্ময় হয় মন ॥ ২৯৭ ॥
 
 aiche citra-līlā kare śacīra nandana  
-yei dekhe, śune, tāṅra vismaya haya mana
+such  wonderful pastimes  does  Śacī’s  son  
+yei dekhe, śune, tāṅra vismaya haya mana  
+whoever  sees  hears  his  amazed  becomes  mind
 
-(297) [not yet translated]
+(297) Such are the wonderful pastimes of the son of Śacī: whoever sees or hears of them is struck with wonder.
 
 ঐছে ভট্ট-গৃহে করে ভোজন-বিলাস ৷  
 তার মধ্যে নানা চিত্র-চরিত্র-প্রকাশ ॥ ২৯৮ ॥
 
 aiche bhaṭṭa-gṛhe kare bhojana-vilāsa  
-tāra madhye nānā citra-caritra-prakāśa
+thus  in Bhaṭṭa’s house  does  the pastime of eating  
+tāra madhye nānā citra-caritra-prakāśa  
+it  within  various  wonderful deeds  revealing
 
-(298) [not yet translated]
+(298) Thus the Lord enjoyed the pastime of eating at Bhaṭṭa’s house, and in it He revealed many wonderful deeds.
 
 সার্ব্বভৌম-ঘরে এই ভোজন-চরিত ৷  
 সার্ব্বভৌম-প্রেম যাঁহা হইলা বিদিত ॥ ২৯৯ ॥
 
 sārvabhauma-ghare ei bhojana-carita  
-sārvabhauma-prema yāṅhā hailā vidita
+in Sārvabhauma’s house  this  story of the meal  
+sārvabhauma-prema yāṅhā hailā vidita  
+Sārvabhauma’s love  in which  became  known
 
-(299) [not yet translated]
+(299) This is the story of the Lord’s meal in Sārvabhauma’s house, in which Sārvabhauma’s love became known,
 
 ষাঠীর মাতার প্রেম, আর প্রভুর প্রসাদ ৷  
 ভক্ত-সম্বন্ধে যাহা ক্ষমিল অপরাধ ॥ ৩০০ ॥
 
 ṣāṭhīra mātāra prema, āra prabhura prasāda  
-bhakta-sambandhe yāhā kṣamila aparādha
+of Ṣāṭhī’s mother  the love  and  the Lord’s  grace  
+bhakta-sambandhe yāhā kṣamila aparādha  
+by relation to a devotee  by which  He pardoned  offence
 
-(300) [not yet translated]
+(300) and the love of Ṣāṭhī’s mother, and the grace of the Lord, by which He forgave an offence because of the offender’s relation to His devotee.
 
 শ্রদ্ধা করি’ এই লীলা শুনে যেই জন ৷  
 অচিরাৎ পায় সেই চৈতন্য-চরণ ॥ ৩০১ ॥
 
 śraddhā kari’ ei līlā śune yei jana  
-acirāt pāya sei caitanya-caraṇa
+with faith  making  this  pastime  hears  whoever  person  
+acirāt pāya sei caitanya-caraṇa  
+soon  attains  he  Caitanya’s feet
 
-(301) [not yet translated]
+(301) Whoever hears this pastime with faith will soon attain the feet of Śrī Caitanya.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩০২ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(302) [not yet translated]
+(302) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
