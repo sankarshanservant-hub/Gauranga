@@ -986,7 +986,7 @@ tr: Help Him in some way to get there. That is the great order; that will be the
 ## 192
 w: then  he  Mahāprabhu’s  feet  worshipping
 w: everyone’s  feet  worshipping  goes  joyful  becoming
-tr: Then he bowed at Mahāprabhu’s feet, bowed at the feet of all, and went away rejoicing.
+tr: Then he bowed at Mahāprabhu’s feet and at the feet of all, and went away rejoicing.
 
 ## 193
 w: the Mahāpātra  him  with  exchanged  embraces
@@ -1011,7 +1011,7 @@ tr: There was one new boat with a cabin in the middle, and the Lord went on boar
 ## 197
 w: the Mahāpātra  Mahāprabhu  gave  leave
 w: weeping  weeping  he  on the bank  remaining  gazes
-tr: Mahāprabhu bade the Mahāpātra farewell, and he stood on the bank, weeping and weeping, gazing after Him.
+tr: Mahāprabhu bade the Mahāpātra farewell, and he stood weeping on the bank, gazing after Him.
 
 ## 198
 w: for fear of river pirates  that  yavana  went along
@@ -1068,7 +1068,7 @@ tr: Then the Lord stayed in Vācaspati’s house, and for fear of the crowds He 
 ## 208
 w: in Mādhava dāsa’s house  there  of Śacī  the son
 w: hundreds of thousands and millions  people  there  obtained  darśana
-tr: There the son of Śacī stayed in the house of Mādhava dāsa, and countless millions of people had His *darśana*.
+tr: In Kuliyā the son of Śacī lodged in the house of Mādhava dāsa, and countless millions of people had His *darśana*.
 
 ## 209
 w: seven  days  staying  there  the people  He delivered
@@ -1263,7 +1263,7 @@ tr: Meanwhile the Lord gathered all His devotees together, Advaita, Nityānanda 
 ## 246
 w: everyone  embrace  making  says  Gosāñi
 w: all  permission  give  I  to Nīlācala  may go
-tr: and, embracing them all, the Lord said, “All of you, give Me leave to go to Nīlācala.
+tr: and, embracing them all, Gosāñi said, “All of you, give Me leave to go to Nīlācala.
 
 ## 247
 w: all  with  here  My  has been  meeting
@@ -1283,7 +1283,7 @@ tr: Clasping His mother’s feet, He entreated her humbly and received her permi
 ## 250
 w: then  to Navadvīpa  her  He sent
 w: to Nīlādri  He set out  with Him  the devotees  taking
-tr: Then He sent her back to Navadvīpa and set out for Nīlādri, taking devotees with Him.
+tr: Then He sent her back to Navadvīpa and set out for Nīlādri, taking the devotees with Him.
 
 ## 251
 w: those  all  people  on the way  do  service
@@ -1308,7 +1308,7 @@ tr: Kāśī Miśra, Rāmānanda, Pradyumna, Sārvabhauma, Vāṇīnātha, Śikhi
 ## 255
 w: Gadādhara Paṇḍita  coming  the Lord  met
 w: of all  in front  the Lord  to speak  began
-tr: Gadādhara Paṇḍita came and met the Lord, and in front of them all the Lord began to speak:
+tr: Gadādhara Paṇḍita came and met the Lord, and in front of them all He began to speak:
 
 ## 256
 w: to Vṛndāvana  shall go  I  the land of Gauḍa  through

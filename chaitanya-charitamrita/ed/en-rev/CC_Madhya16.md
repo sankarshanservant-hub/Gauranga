@@ -1926,7 +1926,7 @@ then  he  Mahāprabhu’s  feet  worshipping
 sabāra caraṇa vandi’ cale hṛṣṭa hañā  
 everyone’s  feet  worshipping  goes  joyful  becoming
 
-(192) Then he bowed at Mahāprabhu’s feet, bowed at the feet of all, and went away rejoicing.
+(192) Then he bowed at Mahāprabhu’s feet and at the feet of all, and went away rejoicing.
 
 মহাপাত্র তাঁর সনে কৈল কোলাকুলি ৷  
 অনেক সামগ্রী দিয়া করিল মিতালি ॥ ১৯৩ ॥
@@ -1976,7 +1976,7 @@ the Mahāpātra  Mahāprabhu  gave  leave
 kāndite kāndite sei tīre rahi’ cāya  
 weeping  weeping  he  on the bank  remaining  gazes
 
-(197) Mahāprabhu bade the Mahāpātra farewell, and he stood on the bank, weeping and weeping, gazing after Him.
+(197) Mahāprabhu bade the Mahāpātra farewell, and he stood weeping on the bank, gazing after Him.
 
 জলদস্যুভয়ে সেই যবন চলিল ৷  
 দশ নৌকা ভরি’ বহু সৈন্য সঙ্গে নিল ॥ ১৯৮ ॥
@@ -2086,7 +2086,7 @@ in Mādhava dāsa’s house  there  of Śacī  the son
 lakṣa-koṭī loka tathā pāila darśana  
 hundreds of thousands and millions  people  there  obtained  darśana
 
-(208) There the son of Śacī stayed in the house of Mādhava dāsa, and countless millions of people had His *darśana*.
+(208) In Kuliyā the son of Śacī lodged in the house of Mādhava dāsa, and countless millions of people had His *darśana*.
 
 সাত দিন রহি’ তথা লোক নিস্তারিলা ৷  
 সব অপরাধিগণে প্রকারে তারিলা ॥ ২০৯ ॥
@@ -2466,7 +2466,7 @@ everyone  embrace  making  says  Gosāñi
 sabe ājñā deha’ āmi nīlācale yāi  
 all  permission  give  I  to Nīlācala  may go
 
-(246) and, embracing them all, the Lord said, “All of you, give Me leave to go to Nīlācala.
+(246) and, embracing them all, Gosāñi said, “All of you, give Me leave to go to Nīlācala.
 
 সবার সহিত ইঁহা আমার হইল মিলন ৷  
 এ বর্ষ ‘নীলাদ্রি’ কেহ না করিহ গমন ॥ ২৪৭ ॥
@@ -2506,7 +2506,7 @@ then  to Navadvīpa  her  He sent
 nīlādri calilā saṅge bhakta-gaṇa lañā  
 to Nīlādri  He set out  with Him  the devotees  taking
 
-(250) Then He sent her back to Navadvīpa and set out for Nīlādri, taking devotees with Him.
+(250) Then He sent her back to Navadvīpa and set out for Nīlādri, taking the devotees with Him.
 
 সেই সব লোক পথে করেন সেবন ৷  
 সুখে নীলাচল আইলা শচীর নন্দন ॥ ২৫১ ॥
@@ -2556,7 +2556,7 @@ Gadādhara Paṇḍita  coming  the Lord  met
 sabāra agrete prabhu kahite lāgilā  
 of all  in front  the Lord  to speak  began
 
-(255) Gadādhara Paṇḍita came and met the Lord, and in front of them all the Lord began to speak:
+(255) Gadādhara Paṇḍita came and met the Lord, and in front of them all He began to speak:
 
 বৃন্দাবন যাব আমি গৌড়দেশ দিয়া ৷  
 নিজ-মাতার, গঙ্গার চরণ দেখিয়া ॥ ২৫৬ ॥
