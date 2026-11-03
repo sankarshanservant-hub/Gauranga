@@ -610,7 +610,7 @@ his  face  seeing  smiles  of Śacī  the son
 aṅgīkāra jāni’ ācārya karena nartana  
 acceptance  knowing  the Ācārya  does  dancing
 
-(61) Looking at his face, Śacī’s son smiled; taking this as His assent, the Ācārya began to dance.
+(61) Śacī’s son looked at Advaita’s face and smiled, and the Ācārya, taking this as the Lord’s assent, began to dance.
 
 কিবা প্রার্থনা, কিবা আজ্ঞা — কেহ না বুঝিল ৷  
 আলিঙ্গন করি’ প্রভু তাঁরে বিদায় দিল ॥ ৬২ ॥
@@ -620,7 +620,7 @@ whether  a prayer  whether  an order  —  anyone  not  understood
 āliṅgana kari’ prabhu tām̐re vidāya dila  
 embrace  making  the Lord  him  leave  gave
 
-(62) Whether it was a prayer or an instruction, no one understood. Then the Lord embraced him and bade him farewell.
+(62) Whether it was a prayer or an instruction, no one understood. Then the Lord embraced Him and bade Him farewell.[^9]
 
 নিত্যানন্দ কহে প্রভু, — শুনহ, শ্রীপাদ ৷  
 এই আমি মাগি, তুমি করহ প্রসাদ ॥ ৬৩ ॥
@@ -660,7 +660,7 @@ Nityānanda  says  —  I  the body  You  the life
 ‘deha’ ‘prāṇa’ bhinna nahe, — ei ta’ pramāṇa  
 the body  the life  different  not are  —  this  indeed  the proof
 
-(66) Nityānanda said, “I am the body and You are the life. Body and life are not separate — this is the proof.
+(66) Nityānanda said, “I am the body and You are the life. Body and life are not separate; that is beyond doubt.[^10]
 
 অচিন্ত্যশক্ত্যে কর তুমি তাহার ঘটন ৷  
 যে করাহ, সেই করি, নাহিক নিয়ম ॥ ৬৭ ॥
@@ -670,7 +670,7 @@ by inconceivable potency  bring about  You  of that  the accomplishment
 ye karāha, sei kari, nāhika niyama  
 whatever  You make Me do  that  I do  there is no  rule
 
-(67) Yet by Your inconceivable potency You bring this about. Whatever You make Me do, that I do; there is no rule here.”
+(67) Yet by Your inconceivable potency You keep them apart. Whatever You have Me do, that I do; there is no rule here.”
 
 তাঁরে বিদায় দিল প্রভু করি’ আলিঙ্গন ৷  
 এইমত বিদায় দিল সব ভক্তগণ ॥ ৬৮ ॥
@@ -700,7 +700,7 @@ the Lord  says  —  of the Vaiṣṇavas  service  saṅkīrtana of the name
 dui kara, śīghra pābe śrī-kṛṣṇa-caraṇa  
 two  do  quickly  you will obtain  the feet of Śrī Kṛṣṇa
 
-(70) The Lord said, “Serve the Vaiṣṇavas and chant the Holy Name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
+(70) The Lord said, “Serve the Vaiṣṇavas and chant the holy name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
 
 তেঁহো কহে, — কে বৈষ্ণব, কি তাঁর লক্ষণ ?  
 তবে হাসি’ কহে প্রভু জানি’ তাঁর মন ॥ ৭১ ॥
@@ -720,7 +720,7 @@ the name of Kṛṣṇa  constantly  whose  in the mouth
 sei vaiṣṇava-śreṣṭha, bhaja tām̐hāra caraṇe  
 he  the best of the Vaiṣṇavas  worship  his  feet
 
-(72) “One in whose mouth the name of Kṛṣṇa is always present is the best of Vaiṣṇavas. Worship his feet.”
+(72) “One on whose lips the name of Kṛṣṇa is always present is the best of Vaiṣṇavas. Worship his feet.”[^11]
 
 বর্ষান্তরে পুনঃ তাঁরা ঐছে প্রশ্ন কৈল ৷  
 ‘বৈষ্ণবের তারতম্য’ প্রভু শিখাইল ॥ ৭৩ ॥
@@ -740,7 +740,7 @@ whose  at the sight  to the mouth  comes  the name of Kṛṣṇa
 tām̐hāre jāniha tumi ‘vaiṣṇava-pradhāna’  
 him  know  you  the foremost Vaiṣṇava
 
-(74) “One whose very sight brings the name of Kṛṣṇa to the mouth — know him to be the foremost Vaiṣṇava.”
+(74) “One whose very sight brings the name of Kṛṣṇa to the lips — know him to be the foremost Vaiṣṇava.”[^12]
 
 ক্রম করি’ কহে প্রভু ‘বৈষ্ণব’-লক্ষণ ৷  
 ‘বৈষ্ণব’, ‘বৈষ্ণবতর’, আর ‘বৈষ্ণবতম’ ॥ ৭৫ ॥
@@ -750,7 +750,7 @@ in order  making  speaks  the Lord  of a Vaiṣṇava  the marks
 ‘vaiṣṇava’, ‘vaiṣṇavatara’, āra ‘vaiṣṇavatama’  
 Vaiṣṇava  a higher Vaiṣṇava  and  the highest Vaiṣṇava
 
-(75) Step by step the Lord described the marks of a Vaiṣṇava: the Vaiṣṇava, the higher Vaiṣṇava (*vaiṣṇavatara*) and the highest Vaiṣṇava (*vaiṣṇavatama*).
+(75) Step by step the Lord described the marks of a Vaiṣṇava: the Vaiṣṇava, the higher Vaiṣṇava (*vaiṣṇavatara*) and the highest Vaiṣṇava (*vaiṣṇavatama*).[^13]
 
 এইমত সব বৈষ্ণব গৌড়ে চলিলা ৷  
 বিদ্যানিধি সে বৎসর নীলাদ্রি রহিলা ॥ ৭৬ ॥
@@ -790,7 +790,7 @@ Jagannātha  wears  there  starched  cloth
 dekhiyā saghṛṇa haila vidyānidhira mana  
 seeing  disgusted  became  Vidyānidhi’s  mind
 
-(79) There Jagannātha is dressed in starched (*māḍuyā*) cloth, and when Vidyānidhi saw this, he felt disgust.
+(79) There Jagannātha is dressed in starched (*māḍuyā*) cloth, and when Vidyānidhi saw this, he felt disgust.[^14]
 
 সেই রাত্র্যে জগন্নাথ-বলাই আসিয়া ৷  
 দুই-ভাই চড়া’ন তাঁরে হাসিয়া হাসিয়া ॥ ৮০ ॥
@@ -890,7 +890,7 @@ certainly  I shall go  both  give  consent
 tomā-dum̐hā vinā mora nāhi anya gati  
 you two  without  Mine  there is no  other  refuge
 
-(89) I shall certainly go now — both of you, give your consent. I have no refuge but you two.
+(89) I shall certainly go now; please, both of you, give your consent. I have no refuge but you two.
 
 গৌড়-দেশে হয় মোর ‘দুই সমাশ্রয়’ ৷  
 ‘জননী’ ‘জাহ্নবী’, — এই দুই দয়াময় ॥ ৯০ ॥
@@ -920,7 +920,7 @@ hearing  of the Lord  the words  in the mind  they consider
 prabhu-sane ati haṭha kabhu bhāla naya  
 with the Lord  too much  insistence  ever  good  not is
 
-(92) Hearing the Lord’s words, they reflected: “To insist too much with the Lord is never good.”
+(92) Hearing the Lord’s words, they reflected, “To press the Lord too hard is never good.”
 
 দুঁহে কহে, — এবে বর্ষা, চলিতে নারিবা ৷  
 বিজয়া-দশমী আইলে অবশ্য চলিবা ॥ ৯৩ ॥
@@ -1060,7 +1060,7 @@ again  prayers  offering  the king  makes  obeisance
 prabhu-kṛpā-aśrute tām̐ra deha haila snāna  
 in the tears of the Lord’s mercy  his  body  became  bathed
 
-(106) Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.
+(106) Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.[^15]
 
 সুস্থ করি, রামানন্দ রাজারে বসাইলা ৷  
 কায়মনোবাক্যে প্রভু তাঁরে কৃপা কৈলা ॥ ১০৭ ॥
@@ -1469,3 +1469,17 @@ a lion  like  to kill  an elephant  His upper cloth fallen
 [^7]: The first line is the same as in Madhya 3.217, 5.140 and 15.13 (and in verse 81 of this chapter).
 
 [^8]: *Amṛta-pravāha-bhāṣya*: *tarjā* is speech in the *payāra* and other metres that others cannot easily understand.
+
+[^9]: *Amṛta-pravāha-bhāṣya*: what Śrī Advaita asked in His *tarjā*, and what Śacī’s son meant by His smile, no one else could understand.
+
+[^10]: *Amṛta-pravāha-bhāṣya*: body and life are never apart; that the Lord lives in Nīlācala and Nityānanda in Gauḍa is due only to the Lord’s inconceivable power.
+
+[^11]: *Anubhāṣya*: one on whose lips the name of Kṛṣṇa is present “constantly” is the intermediate devotee (*madhyama-bhāgavata*), higher than the beginner (*kaniṣṭha*), who utters the name once (Madhya 15.106). “Constantly” means without any gap — free of other desires, *karma*, *jñāna* and slackness.
+
+[^12]: *Anubhāṣya*: this is the *mahā-bhāgavata* (*uttama-adhikārī*): at the sight of him the name of Kṛṣṇa comes of itself to the lips of the beholder, and by his mercy the intermediate devotee becomes the highest.
+
+[^13]: *Amṛta-pravāha-bhāṣya*: the Lord’s answers to the residents of Kulīna-grāma over three years (Madhya 15.106 and verses 72, 74) show these three grades; to serve all three is the duty of a Vaiṣṇava householder.
+
+[^14]: *Amṛta-pravāha-bhāṣya*: Oḍana-ṣaṣṭhī is the first *ṣaṣṭhī* of the cold season, when Jagannātha is dressed in warm clothing; this is *māḍuyā*, the weaver’s unwashed cloth, stiff with starch. Puṇḍarīka Vidyānidhi found fault with it and showed some disdain for the devotees of Utkala, and so received his due.
+
+[^15]: *Anubhāṣya*: *snāna* — “bathed”.

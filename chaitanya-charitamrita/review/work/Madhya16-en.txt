@@ -313,12 +313,13 @@ fn: *Amṛta-pravāha-bhāṣya*: *tarjā* is speech in the *payāra* and other 
 ## 61
 w: his  face  seeing  smiles  of Śacī  the son
 w: acceptance  knowing  the Ācārya  does  dancing
-tr: Looking at his face, Śacī’s son smiled; taking this as His assent, the Ācārya began to dance.
+tr: Śacī’s son looked at Advaita’s face and smiled, and the Ācārya, taking this as the Lord’s assent, began to dance.
 
 ## 62
 w: whether  a prayer  whether  an order  —  anyone  not  understood
 w: embrace  making  the Lord  him  leave  gave
-tr: Whether it was a prayer or an instruction, no one understood. Then the Lord embraced him and bade him farewell.
+tr: Whether it was a prayer or an instruction, no one understood. Then the Lord embraced Him and bade Him farewell.
+fn: *Amṛta-pravāha-bhāṣya*: what Śrī Advaita asked in His *tarjā*, and what Śacī’s son meant by His smile, no one else could understand.
 
 ## 63
 w: to Nityānanda  says  the Lord  —  listen  Śrīpāda
@@ -338,12 +339,13 @@ tr: I see no one else who could accomplish it. My difficult work can be done onl
 ## 66
 w: Nityānanda  says  —  I  the body  You  the life
 w: the body  the life  different  not are  —  this  indeed  the proof
-tr: Nityānanda said, “I am the body and You are the life. Body and life are not separate — this is the proof.
+tr: Nityānanda said, “I am the body and You are the life. Body and life are not separate; that is beyond doubt.
+fn: *Amṛta-pravāha-bhāṣya*: body and life are never apart; that the Lord lives in Nīlācala and Nityānanda in Gauḍa is due only to the Lord’s inconceivable power.
 
 ## 67
 w: by inconceivable potency  bring about  You  of that  the accomplishment
 w: whatever  You make Me do  that  I do  there is no  rule
-tr: Yet by Your inconceivable potency You bring this about. Whatever You make Me do, that I do; there is no rule here.”
+tr: Yet by Your inconceivable potency You keep them apart. Whatever You have Me do, that I do; there is no rule here.”
 
 ## 68
 w: Him  leave  gave  the Lord  making  an embrace
@@ -358,7 +360,7 @@ tr: As before, a resident of Kulīna-grāma submitted, “Lord, please instruct 
 ## 70
 w: the Lord  says  —  of the Vaiṣṇavas  service  saṅkīrtana of the name
 w: two  do  quickly  you will obtain  the feet of Śrī Kṛṣṇa
-tr: The Lord said, “Serve the Vaiṣṇavas and chant the Holy Name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
+tr: The Lord said, “Serve the Vaiṣṇavas and chant the holy name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
 
 ## 71
 w: he  says  —  who  a Vaiṣṇava  what  his  symptom
@@ -368,7 +370,8 @@ tr: He asked, “Who is a Vaiṣṇava? What are his marks?” Then the Lord, kn
 ## 72
 w: the name of Kṛṣṇa  constantly  whose  in the mouth
 w: he  the best of the Vaiṣṇavas  worship  his  feet
-tr: “One in whose mouth the name of Kṛṣṇa is always present is the best of Vaiṣṇavas. Worship his feet.”
+tr: “One on whose lips the name of Kṛṣṇa is always present is the best of Vaiṣṇavas. Worship his feet.”
+fn: *Anubhāṣya*: one on whose lips the name of Kṛṣṇa is present “constantly” is the intermediate devotee (*madhyama-bhāgavata*), higher than the beginner (*kaniṣṭha*), who utters the name once (Madhya 15.106). “Constantly” means without any gap — free of other desires, *karma*, *jñāna* and slackness.
 
 ## 73
 w: after a year  again  they  such  a question  asked
@@ -378,12 +381,14 @@ tr: A year later they asked the same question again, and the Lord taught them th
 ## 74
 w: whose  at the sight  to the mouth  comes  the name of Kṛṣṇa
 w: him  know  you  the foremost Vaiṣṇava
-tr: “One whose very sight brings the name of Kṛṣṇa to the mouth — know him to be the foremost Vaiṣṇava.”
+tr: “One whose very sight brings the name of Kṛṣṇa to the lips — know him to be the foremost Vaiṣṇava.”
+fn: *Anubhāṣya*: this is the *mahā-bhāgavata* (*uttama-adhikārī*): at the sight of him the name of Kṛṣṇa comes of itself to the lips of the beholder, and by his mercy the intermediate devotee becomes the highest.
 
 ## 75
 w: in order  making  speaks  the Lord  of a Vaiṣṇava  the marks
 w: Vaiṣṇava  a higher Vaiṣṇava  and  the highest Vaiṣṇava
 tr: Step by step the Lord described the marks of a Vaiṣṇava: the Vaiṣṇava, the higher Vaiṣṇava (*vaiṣṇavatara*) and the highest Vaiṣṇava (*vaiṣṇavatama*).
+fn: *Amṛta-pravāha-bhāṣya*: the Lord’s answers to the residents of Kulīna-grāma over three years (Madhya 15.106 and verses 72, 74) show these three grades; to serve all three is the duty of a Vaiṣṇava householder.
 
 ## 76
 w: in this way  all  the Vaiṣṇavas  to Gauḍa  went
@@ -404,6 +409,7 @@ tr: He gave the *mantra* to Gadādhara Paṇḍita a second time, and he saw the
 w: Jagannātha  wears  there  starched  cloth
 w: seeing  disgusted  became  Vidyānidhi’s  mind
 tr: There Jagannātha is dressed in starched (*māḍuyā*) cloth, and when Vidyānidhi saw this, he felt disgust.
+fn: *Amṛta-pravāha-bhāṣya*: Oḍana-ṣaṣṭhī is the first *ṣaṣṭhī* of the cold season, when Jagannātha is dressed in warm clothing; this is *māḍuyā*, the weaver’s unwashed cloth, stiff with starch. Puṇḍarīka Vidyānidhi found fault with it and showed some disdain for the devotees of Utkala, and so received his due.
 
 ## 80
 w: that  night  Jagannātha and Balāi  coming
@@ -453,7 +459,7 @@ tr: “I am very eager to go to Vṛndāvana. Because of your insistence I have 
 ## 89
 w: certainly  I shall go  both  give  consent
 w: you two  without  Mine  there is no  other  refuge
-tr: I shall certainly go now — both of you, give your consent. I have no refuge but you two.
+tr: I shall certainly go now; please, both of you, give your consent. I have no refuge but you two.
 
 ## 90
 w: in Gauḍa-deśa  are  Mine  two  shelters
@@ -468,7 +474,7 @@ tr: I shall go by way of Gauḍa-deśa and see them both. Be pleased, both of yo
 ## 92
 w: hearing  of the Lord  the words  in the mind  they consider
 w: with the Lord  too much  insistence  ever  good  not is
-tr: Hearing the Lord’s words, they reflected: “To insist too much with the Lord is never good.”
+tr: Hearing the Lord’s words, they reflected, “To press the Lord too hard is never good.”
 
 ## 93
 w: both  say  —  now  the rains  to travel  You will not be able
@@ -539,6 +545,7 @@ tr: Seeing his devotion, the Lord was pleased at heart. Mahāprabhu rose and emb
 w: again  prayers  offering  the king  makes  obeisance
 w: in the tears of the Lord’s mercy  his  body  became  bathed
 tr: Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.
+fn: *Anubhāṣya*: *snāna* — “bathed”.
 
 ## 107
 w: calm  making  Rāmānanda  the king  seated
