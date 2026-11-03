@@ -100,7 +100,7 @@ In the fifth wave of the *Bhakti-ratnākara*: “He feeds the cowherd men and wo
 
 > Subheading: Praise of Śrī Govardhana — (*Śrīmad-Bhāgavatam* 10.21.18)
 
-When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding the cows and playing His flute. Then the gopīs, longing for Kṛṣṇa's company, began to sing of His enchanting qualities. Wandering here and there, they saw before them Govardhana, the king of hills, nondifferent from Vrajendranandana, and sang:[^34-1]
+When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding the cows and playing His flute. Then the gopīs, longing for Kṛṣṇa's company, began to sing of His enchanting qualities. Wandering here and there, they saw before them Govardhana, the king of hills, nondifferent from Vrajendranandana, and sang:
 
 **he abalāḥ** (O friends) **hanta** (expressing joy) **ayam** **adriḥ** (this Govardhana — surely) **hari-dāsa-varyaḥ** (the best of Hari's servants) — **yat** (because) **rāma-kṛṣṇa-caraṇa-sparśa-pramodaḥ** (he rejoices at the touch of the feet of Rāma and Kṛṣṇa: one can see his hair stand on end in the form of sprouting grass and the like) **yat** (and because) **pānīya-sūyavasa-kandara-kanda-mūlaiḥ** (with drinking water, with lush, tender, beautiful grass, with caves, bulbs and roots — with fitting food) **saha-go-gaṇayoḥ** (who are accompanied by the cows and the band of friends) **tayoḥ** (to Rāma and Kṛṣṇa) **mānam** (honor) **tanoti** (offers; therefore he is supremely blessed — this is the meaning).
 
@@ -843,8 +843,6 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 *Thus ends the eighteenth chapter of the “Anubhāṣya.”*
 
 ---
-
-[^34-1]: The verse translation reads differently: “[Śrī Rādhikā said:] ‘O dear friends!…’”
 
 [^47-1]: Literally: “Viṭhṭhala's service — the Kṛṣṇa Caitanya *vigraha*; great eagerness to see Him”; the sense of the line is ambiguous.
 
