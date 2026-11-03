@@ -153,7 +153,7 @@ nevertheless  set out  Mahāprabhu  to see
 nityānandera prema-ceṣṭā ke pāre bujhite  
 Nityānanda’s  loving dealings  who  can  understand
 
-(14–15) Although the Lord had ordered Nityānanda Prabhu to stay in Gauḍa and reveal *prema-bhakti*, He nevertheless set out to see Mahāprabhu. Who can understand the ways of Nityānanda’s love?
+(14–15) Although the Lord had ordered Nityānanda Prabhu to stay in Gauḍa and reveal *prema-bhakti*, Nityānanda set out all the same to see Mahāprabhu. Who can understand the ways of His love?
 
 আচার্য্যরত্ন, বিদ্যানিধি, শ্রীবাস, রামাই ৷  
 বাসুদেব, মুরারি, গোবিন্দাদি তিন-ভাই ॥ ১৬ ॥
@@ -810,7 +810,7 @@ the cheeks  swelled  the Ācārya’s  in the heart  joy
 vistāri’ varṇiyāchena vṛndāvana dāsa  
 in detail  has described  Vṛndāvana  dāsa
 
-(81) His cheeks swelled, but the Ācārya rejoiced at heart. Vṛndāvana dāsa has described this in detail.
+(81) His cheeks swelled, but the Ācārya (Vidyānidhi) rejoiced at heart. Vṛndāvana dāsa has described this in detail.[^15]
 
 এইমত প্রত্যব্দ আইসে গৌড়ের ভক্তগণ ৷  
 প্রভু-সঙ্গে রহি’ করে যাত্রা-দরশন ॥ ৮২ ॥
@@ -1060,7 +1060,7 @@ again  prayers  offering  the king  makes  obeisance
 prabhu-kṛpā-aśrute tām̐ra deha haila snāna  
 in the tears of the Lord’s mercy  his  body  became  bathed
 
-(106) Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.[^15]
+(106) Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.[^16]
 
 সুস্থ করি, রামানন্দ রাজারে বসাইলা ৷  
 কায়মনোবাক্যে প্রভু তাঁরে কৃপা কৈলা ॥ ১০৭ ॥
@@ -1120,7 +1120,7 @@ yourselves  the Lord  taking  there  you shall lodge
 rātri-dibā vetra-haste sevāya rahibā  
 night and day  cane in hand  in service  you shall remain
 
-(112) Bring the Lord there yourselves and lodge Him there, and stay in His service night and day, cane in hand.”
+(112) Escort the Lord there yourselves and lodge Him, and stay in His service night and day, cane in hand.”
 
 দুই মহাপাত্র, — ‘হরিচন্দন’, ‘মঙ্গরাজ’ ৷  
 তাঁরে আজ্ঞা দিল রাজা — করিহ সর্ব্ব কাজ ॥ ১১৩ ॥
@@ -1150,7 +1150,7 @@ there  a pillar  erecting  do  a great tīrtha  making
 nitya snāna kariha tām̐hā, tām̐hā yena mari  
 daily  bath  take  there  there  may  I die
 
-(115) There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.[^16]
+(115) There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.[^17]
 
 চতুর্দ্বারে করহ উত্তম নব্য বাস ৷  
 রামানন্দ, যাহ তুমি মহাপ্রভু-পাশ ॥ ১১৬ ॥
@@ -1160,7 +1160,7 @@ in Caturdvāra  build  excellent  new  lodgings
 rāmānanda, yāha tumi mahāprabhu-pāśa  
 Rāmānanda  go  you  to Mahāprabhu’s side
 
-(116) Build excellent new lodgings in Caturdvāra. And you, Rāmānanda, go to Mahāprabhu.”[^17]
+(116) Build excellent new lodgings in Caturdvāra. And you, Rāmānanda, go to Mahāprabhu.”[^18]
 
 সন্ধ্যাতে চলিবে প্রভু, — নৃপতি শুনিল ৷  
 হস্তী-উপর তাম্বুগৃহে স্ত্রীগণে চড়াইল ॥ ১১৭ ॥
@@ -1190,7 +1190,7 @@ to the river Citrotpalā  coming  at the ghāṭ  made  bath
 mahiṣī-sakala dekhe, karaye praṇāma  
 the queens all  see  make  obeisance
 
-(119) Coming to the river Citrotpalā, He bathed at the *ghāṭ*, and all the queens watched Him and bowed down.[^18]
+(119) Coming to the river Citrotpalā, He bathed at the *ghāṭ*, and all the queens watched Him and bowed down.[^19]
 
 প্রভুর দরশনে সবে হৈল প্রেমময় ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে, নেত্র অশ্রু বরিষয় ॥ ১২০ ॥
@@ -1294,7 +1294,7 @@ Gadādhara Paṇḍita  when  along  set out
 kṣetra-sannyāsa nā chāḍiha — prabhu niṣedhilā  
 the kṣetra-sannyāsa  not  give up  —  the Lord  forbade
 
-(130) When Gadādhara Paṇḍita set out with them, the Lord forbade him: “Do not give up your *kṣetra-sannyāsa*.”[^19]
+(130) When Gadādhara Paṇḍita set out with them, the Lord forbade him: “Do not give up your *kṣetra-sannyāsa*.”[^20]
 
 পণ্ডিত কহে, — যাঁহা তুমি, সেই নীলাচল ৷  
 ক্ষেত্রসন্ন্যাস মোর যাউক রসাতল ॥ ১৩১ ॥
@@ -1344,7 +1344,7 @@ with You  not  I shall go  I shall go  alone
 ‘pratijñā’-‘sevā’-tyāga-doṣa, — tāra āmi bhāgī  
 of giving up the vow and the service  the fault  —  of that  I  the bearer
 
-(135) I shall go to see Āi (Mother Śacī), not for Your sake. The fault of giving up my vow and my service — that I shall bear myself.”[^20]
+(135) I shall go to see Āi (Mother Śacī), not for Your sake. The fault of giving up my vow and my service — that I shall bear myself.”[^21]
 
 এত বলি’ পণ্ডিত-গোসাঞি পৃথক্ চলিলা ৷  
 কটক আসি’ প্রভু তাঁরে সঙ্গে আনাইলা ॥ ১৩৬ ॥
@@ -1450,7 +1450,7 @@ holding the chariot wheel  He rushed  the earth trembling
 harir iva hantum ibhaṁ gatottarīyaḥ  
 a lion  like  to kill  an elephant  His upper cloth fallen
 
-(145) ‘To make my promise true, He gave up His own: He leapt down from the chariot, took up a chariot wheel and rushed at me like a lion about to kill an elephant; the earth trembled beneath Him, and His upper cloth fell away.’ (Śrīmad-Bhāgavatam, 1.9.37)[^21]
+(145) ‘To make my promise true, He gave up His own: He leapt down from the chariot, took up a chariot wheel and rushed at me like a lion about to kill an elephant; the earth trembled beneath Him, and His upper cloth fell away.’ (Śrīmad-Bhāgavatam, 1.9.37)[^22]
 
 ---
 
@@ -1482,16 +1482,18 @@ a lion  like  to kill  an elephant  His upper cloth fallen
 
 [^14]: *Amṛta-pravāha-bhāṣya*: Oḍana-ṣaṣṭhī is the first *ṣaṣṭhī* of the cold season, when Jagannātha is dressed in warm clothing; this is *māḍuyā*, the weaver’s unwashed cloth, stiff with starch. Puṇḍarīka Vidyānidhi found fault with it and showed some disdain for the devotees of Utkala, and so received his due.
 
-[^15]: *Anubhāṣya*: *snāna* — “bathed”.
+[^15]: *Amṛta-pravāha-bhāṣya*: see *Caitanya-bhāgavata*, Antya-khaṇḍa, chapters 10 and 11.
 
-[^16]: In the Gauḍīya Maṭha edition — *kariha* (“bathe”): the king tells his men to bathe there every day, and for himself wishes to leave his body there. Heading in the edition: “The king’s deep love for Gaura.”
+[^16]: *Anubhāṣya*: *snāna* — “bathed”.
 
-[^17]: *Amṛta-pravāha-bhāṣya*: Caturdvāra is the village one reaches from Kaṭaka after crossing the Mahānadī; it is commonly called “Caudār”.
+[^17]: In the Gauḍīya Maṭha edition — *kariha* (“bathe”): the king tells his men to bathe there every day, and for himself wishes to leave his body there. Heading in the edition: “The king’s deep love for Gaura.”
 
-[^18]: *Amṛta-pravāha-bhāṣya*: the Mahānadī, at the place where one comes out of Kaṭaka, is called the river Citrotpalā.
+[^18]: *Amṛta-pravāha-bhāṣya*: Caturdvāra is the village one reaches from Kaṭaka after crossing the Mahānadī; it is commonly called “Caudār”.
 
-[^19]: *Amṛta-pravāha-bhāṣya*: *kṣetra-sannyāsa* — leaving one’s former home and living, alone or with one’s family, in a holy place of Viṣṇu (Puruṣottama-kṣetra, Navadvīpa-dhāma, Mathurā-maṇḍala and the like), taking this as the highest aim; it is the *vānaprastha-dharma* suited to the age of Kali.
+[^19]: *Amṛta-pravāha-bhāṣya*: the Mahānadī, at the place where one comes out of Kaṭaka, is called the river Citrotpalā.
 
-[^20]: *Amṛta-pravāha-bhāṣya*: on receiving the service of Śrī Gopīnātha, Gadādhara Paṇḍita had vowed to devote his whole life to it; by going with the Lord he would incur two faults — breaking the vow and abandoning the service. On the path of *anurāga* great souls take such faults upon themselves.
+[^20]: *Amṛta-pravāha-bhāṣya*: *kṣetra-sannyāsa* — leaving one’s former home and living, alone or with one’s family, in a holy place of Viṣṇu (Puruṣottama-kṣetra, Navadvīpa-dhāma, Mathurā-maṇḍala and the like), taking this as the highest aim; it is the *vānaprastha-dharma* suited to the age of Kali.
 
-[^21]: *Anubhāṣya*: this is Bhīṣma’s prayer to Śrī Kṛṣṇa before his passing. Kṛṣṇa’s promise was to protect the Pāṇḍavas without taking up arms; Bhīṣma’s, to make Him take them up; the earth trembled and His upper cloth fell because of His fury. Heading in the edition: “The Lord breaks His own promise to keep His devotee’s.” The verse is quoted within Sārvabhauma’s words (143–146), hence the single quotation marks.
+[^21]: *Amṛta-pravāha-bhāṣya*: on receiving the service of Śrī Gopīnātha, Gadādhara Paṇḍita had vowed to devote his whole life to it; by going with the Lord he would incur two faults — breaking the vow and abandoning the service. On the path of *anurāga* great souls take such faults upon themselves.
+
+[^22]: *Anubhāṣya*: this is Bhīṣma’s prayer to Śrī Kṛṣṇa before his passing. Kṛṣṇa’s promise was to protect the Pāṇḍavas without taking up arms; Bhīṣma’s, to make Him take them up; the earth trembled and His upper cloth fell because of His fury. Heading in the edition: “The Lord breaks His own promise to keep His devotee’s.” The verse is quoted within Sārvabhauma’s words (143–146), hence the single quotation marks.
