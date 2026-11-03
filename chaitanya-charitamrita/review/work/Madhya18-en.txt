@@ -238,7 +238,7 @@ tr: Such is Gopāla’s compassionate nature. The hearts of His devotees long fo
 ## 43
 w: to see  eagerness  there is  not  they climb  Govardhana
 w: on some  pretext  Gopāla  coming  descends  Himself
-tr: Yearning for Him, they still will not climb Govardhana, and so, on some pretext, Gopāla Himself comes down to them.
+tr: Yet, eager as they are, they will not climb Govardhana, and so, on some pretext, Gopāla Himself comes down to them.
 fn: Edition heading: “The merciful Gopāla, on some pretext, gives darśana to the devotees.”
 
 ## 44
@@ -306,7 +306,7 @@ tr: In passing I have told the story of Gopāla’s mercy. Then Mahāprabhu went
 ## 56
 w: the Lord’s  manner of travelling  before  which  I described
 w: in the same way  in Vṛndāvana  everything  He saw
-tr: In the manner of travelling that I described before, the Lord saw all the holy places of Vṛndāvana.
+tr: In the same way as I described before, the Lord travelled through Vṛndāvana and saw all its holy places.
 
 ## 57
 w: there  the places of the pastimes  seeing  He went  to Nandīśvara
@@ -365,12 +365,12 @@ tr: Then, after seeing Khelā-tīrtha, He came to Bhāṇḍīravana, and crossi
 ## 67
 w: Śrīvana  seeing  again  He went  to Lohavana
 w: to Mahāvana  going  He had  darśana of the birthplace
-tr: After seeing Śrīvana He went on to Lohavana, and going to Mahāvana He saw the place of Kṛṣṇa’s birth.
+tr: From Śrīvana He went on to Lohavana, and in Mahāvana He saw the place of Kṛṣṇa’s birth.
 
 ## 68
 w: the breaking of the Yamala-arjuna trees and so on  He saw  those  places
 w: in the rapture of love  the Lord’s  mind  became  agitated
-tr: He saw the places where the twin Arjuna trees were broken and where other pastimes took place, and in the rapture of love the Lord’s mind was deeply stirred.
+tr: He saw the places where the twin Arjuna trees were broken and where other pastimes took place, and the Lord’s heart trembled with love.
 
 ## 69
 w: Gokula  seeing  He came  to the city of Mathurā
@@ -468,7 +468,7 @@ tr: I am a Rajput by birth, and my home is on the other bank. My desire is to be
 ## 87
 w: but  today  one  I  dream  saw
 w: that  dream  before my eyes  You  coming  I have found
-tr: But today I had a dream, and now, coming here, I have found You: the dream has come true before my eyes.”
+tr: But today I had a dream, and now it has come true before my eyes: I have come here and found You.”
 fn: *Anubhāṣya*: *parateka* means *pratyakṣa*, *sākṣāt* — “before one’s very eyes”.
 
 ## 88
@@ -534,7 +534,7 @@ tr: Then the Bhaṭṭācārya said at the Lord’s feet, “Give me permission,
 ## 100
 w: then  to him  says  the Lord  a slap  giving
 w: by the words of fools  a fool  you have become  a scholar  being
-tr: Then the Lord gave him a slap and said, “You are a learned man, yet you have become a fool by listening to the words of fools.
+tr: At this the Lord gave him a slap and said, “You are a learned man, yet you have become a fool by listening to the words of fools.
 
 ## 101
 w: Kṛṣṇa  why  darśana  would give  in the age of Kali
@@ -596,7 +596,7 @@ fn: *Anubhāṣya*: the Māyāvādīs say that on taking the staff a sannyāsī 
 ## 112
 w: a sannyāsī  —  a particle of spirit  a jīva  like a particle of a ray
 w: full of the six opulences  Kṛṣṇa  is  like the sun
-tr: A sannyāsī is a jīva, a particle of spirit, like a particle of a ray of light; but Kṛṣṇa, full of the six opulences, is like the sun.
+tr: A sannyāsī is a jīva, a tiny particle of spirit, like a speck of sunlight; but Kṛṣṇa, full of the six opulences, is like the sun itself.
 
 ## 113
 w: the jīva  the truth of the Lord  —  ever  are not  equal
@@ -689,7 +689,7 @@ fn: The second line is the same as in Madhya 17.151.
 ## 129
 w: of Mādhava Purī  the disciple  that  very  brāhmaṇa
 w: of Mathurā  in house after house  has made  invitations
-tr: That brāhmaṇa, the disciple of Mādhava Purī, had invitations for the Lord arranged from house to house in Mathurā.
+tr: That brāhmaṇa, the disciple of Mādhava Purī, arranged invitations for the Lord in house after house in Mathurā.
 
 ## 130
 w: of Mathurā  all  people  brāhmaṇas  the respectable
@@ -820,7 +820,7 @@ tr: Whatever you wish, that I will do. Wherever you take Me, there I will go.”
 ## 155
 w: in the morning  Mahāprabhu  the morning bath  took
 w: “Vṛndāvana  I shall leave”  knowing  absorption in love  came
-tr: In the morning Mahāprabhu took His morning bath, and at the thought “I am leaving Vṛndāvana” He was overwhelmed with love.
+tr: In the morning Mahāprabhu bathed, and at the thought “I am leaving Vṛndāvana” He was overwhelmed with love.
 
 ## 156
 w: outward  transformations  are not  absorbed in love  the mind

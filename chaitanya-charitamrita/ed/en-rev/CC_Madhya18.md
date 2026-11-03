@@ -460,7 +460,7 @@ to see  eagerness  there is  not  they climb  Govardhana
 kona chale gopāla āsi’ utare āpane  
 on some  pretext  Gopāla  coming  descends  Himself
 
-(43) Yearning for Him, they still will not climb Govardhana, and so, on some pretext, Gopāla Himself comes down to them.[^8]
+(43) Yet, eager as they are, they will not climb Govardhana, and so, on some pretext, Gopāla Himself comes down to them.[^8]
 
 কভু কুঞ্জে রহে, কভু রহে গ্রামান্তরে ৷  
 যেই ভক্ত, তাঁহা আসি’ দেখয়ে তাঁহারে ॥ ৪৪ ॥
@@ -590,7 +590,7 @@ the Lord’s  manner of travelling  before  which  I described
 sei-mata vṛndāvane tāvat dekhila  
 in the same way  in Vṛndāvana  everything  He saw
 
-(56) In the manner of travelling that I described before, the Lord saw all the holy places of Vṛndāvana.
+(56) In the same way as I described before, the Lord travelled through Vṛndāvana and saw all its holy places.
 
 তাঁহা লীলাস্থলী দেখি’ গেলা ‘নন্দীশ্বর’ ৷  
 ‘নন্দীশ্বর’ দেখি’ প্রেমে হইলা বিহ্বল ॥ ৫৭ ॥
@@ -706,7 +706,7 @@ the Yamunā  across  going  to Bhadravana  He went
 ‘mahāvana’ giyā kailā janma-sthāna-daraśana  
 to Mahāvana  going  He had  darśana of the birthplace
 
-(67) After seeing Śrīvana He went on to Lohavana, and going to Mahāvana He saw the place of Kṛṣṇa’s birth.
+(67) From Śrīvana He went on to Lohavana, and in Mahāvana He saw the place of Kṛṣṇa’s birth.
 
 যমলার্জ্জুনভঙ্গাদি দেখিল সেই ‘স্থল’ ৷  
 প্রেমাবেশে প্রভুর মন হৈল টলমল ॥ ৬৮ ॥
@@ -716,7 +716,7 @@ the breaking of the Yamala-arjuna trees and so on  He saw  those  places
 premāveśe prabhura mana haila ṭalamala  
 in the rapture of love  the Lord’s  mind  became  agitated
 
-(68) He saw the places where the twin Arjuna trees were broken and where other pastimes took place, and in the rapture of love the Lord’s mind was deeply stirred.
+(68) He saw the places where the twin Arjuna trees were broken and where other pastimes took place, and the Lord’s heart trembled with love.
 
 ‘গোকুল’ দেখিয়া আইলা ‘মথুরা’-নগরে ৷  
 ‘জন্মস্থান’ দেখি’ রহে সেই বিপ্র-ঘরে ॥ ৬৯ ॥
@@ -906,7 +906,7 @@ but  today  one  I  dream  saw
 sei svapna parateka tomā āsi’ pāinu  
 that  dream  before my eyes  You  coming  I have found
 
-(87) But today I had a dream, and now, coming here, I have found You: the dream has come true before my eyes.”[^16]
+(87) But today I had a dream, and now it has come true before my eyes: I have come here and found You.”[^16]
 
 প্রভু তাঁরে কৃপা কৈলা আলিঙ্গন করি’ ৷  
 প্রেমে মত্ত হৈল, সেই নাচে, বলে ‘হরি’ ॥ ৮৮ ॥
@@ -1036,7 +1036,7 @@ then  to him  says  the Lord  a slap  giving
 “mūrkhera vākye ‘mūrkha’ hailā paṇḍita hañā  
 by the words of fools  a fool  you have become  a scholar  being
 
-(100) Then the Lord gave him a slap and said, “You are a learned man, yet you have become a fool by listening to the words of fools.
+(100) At this the Lord gave him a slap and said, “You are a learned man, yet you have become a fool by listening to the words of fools.
 
 কৃষ্ণ কেনে দরশন দিবেন কলিকালে ?  
 নিজ-ভ্রমে মূর্খ-লোক করে কোলাহলে ॥ ১০১ ॥
@@ -1156,7 +1156,7 @@ a sannyāsī  —  a particle of spirit  a jīva  like a particle of a ray
 ṣaḍ-aiśvarya-pūrṇa kṛṣṇa haya sūryopama  
 full of the six opulences  Kṛṣṇa  is  like the sun
 
-(112) A sannyāsī is a jīva, a particle of spirit, like a particle of a ray of light; but Kṛṣṇa, full of the six opulences, is like the sun.
+(112) A sannyāsī is a jīva, a tiny particle of spirit, like a speck of sunlight; but Kṛṣṇa, full of the six opulences, is like the sun itself.
 
 জীব, ঈশ্বর-তত্ত্ব — কভু নহে ‘সম’ ৷  
 জ্বলদগ্নিরাশি যৈছে স্ফুলিঙ্গের ‘কণ’ ॥ ১১৩ ॥
@@ -1204,7 +1204,7 @@ as equal  indeed  sees
 sa pāṣaṇḍī bhaved dhruvam  
 he  a pāṣaṇḍī  becomes  surely
 
-(116) ‘One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely godless (*pāṣaṇḍī*).’” (Vaiṣṇava-tantra)
+(116) ‘One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely a *pāṣaṇḍī*.’” (Vaiṣṇava-tantra)
 
 লোক কহে, — তোমাতে কভু নহে ‘জীব’-মতি ৷  
 কৃষ্ণের সদৃশ তোমার আকৃতি প্রকৃতি ॥ ১১৭ ॥
@@ -1317,7 +1317,7 @@ those  all  to people  the Lord  mercy  did
 kṛṣṇa-preme matta loka nija-ghare gela  
 with love for Kṛṣṇa  mad  the people  to their own homes  went
 
-(127) The Lord showed mercy to all those people, and, mad with love for Kṛṣṇa, they went back to their homes.
+(127) The Lord showed mercy to all those people, and, intoxicated with love for Kṛṣṇa, they went back to their homes.
 
 এইমত কতদিন ‘অক্রূরে’ রহিলা ৷  
 কৃষ্ণ-নাম-প্রেম দিয়া লোক নিস্তারিলা ॥ ১২৮ ॥
@@ -1337,7 +1337,7 @@ of Mādhava Purī  the disciple  that  very  brāhmaṇa
 mathurāra ghare-ghare karā’na nimantraṇa  
 of Mathurā  in house after house  has made  invitations
 
-(129) That brāhmaṇa, the disciple of Mādhava Purī, had invitations for the Lord arranged from house to house in Mathurā.
+(129) That brāhmaṇa, the disciple of Mādhava Purī, arranged invitations for the Lord in house after house in Mathurā.
 
 মথুরার যত লোক ব্রাহ্মণ সজ্জন ৷  
 ভট্টাচার্য্য-স্থানে আসি’ করে নিমন্ত্রণ ॥ ১৩০ ॥
@@ -1597,7 +1597,7 @@ in the morning  Mahāprabhu  the morning bath  took
 ‘vṛndāvana chāḍiba’ jāni’ premāveśa haila  
 “Vṛndāvana  I shall leave”  knowing  absorption in love  came
 
-(155) In the morning Mahāprabhu took His morning bath, and at the thought “I am leaving Vṛndāvana” He was overwhelmed with love.
+(155) In the morning Mahāprabhu bathed, and at the thought “I am leaving Vṛndāvana” He was overwhelmed with love.
 
 বাহ্য বিকার নাহি, প্রেমাবিষ্ট মন ৷  
 ভট্টাচার্য্য কহে, — চল, যাই মহাবন ॥ ১৫৬ ॥
@@ -2187,7 +2187,7 @@ to Soro-kṣetra  coming  the Lord  took  bath in the Gaṅgā
 gaṅgā-tīra-pathe kailā prayāge payāna  
 along the Gaṅgā’s bank  by the road  made  to Prayāga  the journey
 
-(214) Coming to Soro-kṣetra, the Lord bathed in the Gaṅgā, and then He set out for Prayāga by the road along the Gaṅgā.
+(214) At Soro-kṣetra the Lord bathed in the Gaṅgā, and then He set out for Prayāga by the road along its bank.
 
 সেই বিপ্রে, কৃষ্ণদাসে, প্রভু বিদায় দিলা ৷  
 যোড়-হাতে দুইজন কহিতে লাগিলা ॥ ২১৫ ॥
