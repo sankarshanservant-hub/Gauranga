@@ -942,195 +942,245 @@ with the Lord  he stays  home, wife and son  leaving
 যাঁহা তাঁহা লোক সব কহিতে লাগিল ॥ ৯১ ॥
 
 vṛndāvane punaḥ ‘kṛṣṇa’ prakaṭa haila  
-yāṅhā tāṅhā loka saba kahite lāgila
+in Vṛndāvana  again  Kṛṣṇa  manifest  has become  
+yāṅhā tāṅhā loka saba kahite lāgila  
+here  there  the people  all  to say  began
 
-(91) [not yet translated]
+(91) “Kṛṣṇa has appeared again in Vṛndāvana!” — so people began to say everywhere.
 
 একদিন অক্রূরেতে লোক প্রাতঃকালে ৷  
 বৃন্দাবন হৈতে আইসে করি কোলাহলে ॥ ৯২ ॥
 
 ekadina akrūrete loka prātaḥ-kāle  
-vṛndāvana haite āise kari kolāhale
+one day  to Akrūra  people  in the morning  
+vṛndāvana haite āise kari kolāhale  
+from Vṛndāvana  come  making  an uproar
 
-(92) [not yet translated]
+(92) One day, early in the morning, people came from Vṛndāvana to Akrūra, making a great uproar.
 
 প্রভু দেখি’ করিল লোক চরণ বন্দন ৷  
 প্রভু কহে, — কাঁহা হৈতে করিলা আগমন ? ॥ ৯৩ ॥
 
 prabhu dekhi’ karila loka caraṇa vandana  
-prabhu kahe, — kāṅhā haite karilā āgamana?
+the Lord  seeing  did  the people  to the feet  obeisance  
+prabhu kahe, — kāṅhā haite karilā āgamana?  
+the Lord  says  —  from where  have you made  your coming
 
-(93) [not yet translated]
+(93) Seeing the Lord, the people bowed to His feet. The Lord asked, “Where have you come from?”
 
 লোকে কহে, — কৃষ্ণ প্রকট কালীয়দহের জলে !  
 কালীয়-শিরে নৃত্য করে, ফণি-রত্ন জ্বলে ॥ ৯৪ ॥
 
 loke kahe, — kṛṣṇa prakaṭa kālīya-dahera jale!  
-kālīya-śire nṛtya kare, phaṇi-ratna jvale
+the people  say  —  Kṛṣṇa  manifest  of the Kālīya lake  in the water  
+kālīya-śire nṛtya kare, phaṇi-ratna jvale  
+on Kālīya’s heads  dance  He performs  the serpent’s jewels  blaze
 
-(94) [not yet translated]
+(94) The people said, “Kṛṣṇa has appeared in the waters of Kālīya’s lake! He dances on Kālīya’s heads, and the jewels on the serpent’s hoods are blazing.
 
 সাক্ষাৎ দেখিল লোক, নাহিক সংশয় ৷  
 শুনি’ হাসি’ কহে প্রভু, — সব ‘সত্য’ হয় ॥ ৯৫ ॥
 
 sākṣāt dekhila loka, nāhika saṁśaya  
-śuni’ hāsi’ kahe prabhu, — saba ‘satya’ haya
+directly  saw  the people  there is no  doubt  
+śuni’ hāsi’ kahe prabhu, — saba ‘satya’ haya  
+hearing  laughing  says  the Lord  —  all  true  is
 
-(95) [not yet translated]
+(95) People have seen Him with their own eyes; there is no doubt about it.” Hearing this, the Lord laughed and said, “It is all true.”
 
 এইমত তিন-রাত্রি লোকের গমন ৷  
 সবে আসি’ কহে, — কৃষ্ণ পাইলুঁ দরশন ॥ ৯৬ ॥
 
 ei-mata tina-rātri lokera gamana  
-sabe āsi’ kahe, — kṛṣṇa pāiluṅ daraśana
+in this way  for three nights  the people’s  going  
+sabe āsi’ kahe, — kṛṣṇa pāiluṅ daraśana  
+all  coming  say  —  of Kṛṣṇa  we have had  darśana
 
-(96) [not yet translated]
+(96) In this way people went there for three nights, and they all came back saying, “We have had darśana of Kṛṣṇa.”
 
 প্রভু-আগে কহে লোক, — শ্রীকৃষ্ণ দেখিল ৷  
 ‘সরস্বতী’ এই বাক্যে ‘সত্য’ কহাইল ॥ ৯৭ ॥
 
 prabhu-āge kahe loka, — śrī-kṛṣṇa dekhila  
-‘sarasvatī’ ei vākye ‘satya’ kahāila
+before the Lord  say  the people  —  Śrī Kṛṣṇa  we saw  
+‘sarasvatī’ ei vākye ‘satya’ kahāila  
+Sarasvatī  in these  words  the truth  made them speak
 
-(97) [not yet translated]
+(97) Before the Lord the people said, “We have seen Śrī Kṛṣṇa!” Through these words Sarasvatī made them speak the truth.
 
 মহাপ্রভু দেখি’ ‘সত্য’ কৃষ্ণ-দরশন ৷  
 নিজাজ্ঞানে সত্য ছাড়ি’ ‘অসত্যে সত্য-ভ্রম’ ॥ ৯৮ ॥
 
 mahāprabhu dekhi’ ‘satya’ kṛṣṇa-daraśana  
-nijājñāne satya chāḍi’ ‘asatye satya-bhrama’
+Mahāprabhu  seeing  true  darśana of Kṛṣṇa  
+nijājñāne satya chāḍi’ ‘asatye satya-bhrama’  
+through their own ignorance  the truth  abandoning  in the untrue  the illusion of truth
 
-(98) [not yet translated]
+(98) In seeing Mahāprabhu they truly had darśana of Kṛṣṇa; but through their own ignorance they set the truth aside and mistook the untrue for the true.
 
 ভট্টাচার্য্য তবে কহে প্রভুর চরণে ৷  
 ‘আজ্ঞা দেহ’, যাই’ করি কৃষ্ণ দরশনে !’ ॥ ৯৯ ॥
 
 bhaṭṭācārya tabe kahe prabhura caraṇe  
-‘ājñā deha’, yāi’ kari kṛṣṇa daraśane!’
+the Bhaṭṭācārya  then  says  the Lord’s  at the feet  
+‘ājñā deha’, yāi’ kari kṛṣṇa daraśane!’  
+permission  give  let me go  I will have  Kṛṣṇa’s  darśana
 
-(99) [not yet translated]
+(99) Then the Bhaṭṭācārya said at the Lord’s feet, “Give me permission, and I shall go and have darśana of Kṛṣṇa!”
 
 তবে তাঁরে কহে প্রভু চাপড় মারিয়া ৷  
 “মূর্খের বাক্যে ‘মূর্খ’ হৈলা পণ্ডিত হঞা ॥ ১০০ ॥
 
 tabe tāṅre kahe prabhu cāpaḍa māriyā  
-“mūrkhera vākye ‘mūrkha’ hailā paṇḍita hañā
+then  to him  says  the Lord  a slap  giving  
+“mūrkhera vākye ‘mūrkha’ hailā paṇḍita hañā  
+by the words of fools  a fool  you have become  a scholar  being
 
-(100) [not yet translated]
+(100) Then the Lord gave him a slap and said, “You are a learned man, yet you have become a fool by listening to the words of fools.
 
 কৃষ্ণ কেনে দরশন দিবেন কলিকালে ?  
 নিজ-ভ্রমে মূর্খ-লোক করে কোলাহলে ॥ ১০১ ॥
 
 kṛṣṇa kene daraśana dibena kali-kāle?  
-nija-bhrame mūrkha-loka kare kolāhale
+Kṛṣṇa  why  darśana  would give  in the age of Kali  
+nija-bhrame mūrkha-loka kare kolāhale  
+in their own delusion  foolish people  make  an uproar
 
-(101) [not yet translated]
+(101) Why would Kṛṣṇa give darśana in the age of Kali? Foolish people are making an uproar out of their own delusion.
 
 ‘বাতুল’ না হইও, ঘরে রহ ত’ বসিয়া ৷  
 ‘কৃষ্ণ’ দরশন করিহ কালি রাত্র্যে যাঞা” ॥ ১০২ ॥
 
 ‘vātula’ nā haio, ghare raha ta’ vasiyā  
-‘kṛṣṇa’ daraśana kariha kāli rātrye yāñā”
+mad  not  become  at home  stay  indeed  sitting  
+‘kṛṣṇa’ daraśana kariha kāli rātrye yāñā”  
+of Kṛṣṇa  darśana  you may have  tomorrow  at night  going
 
-(102) [not yet translated]
+(102) Do not go mad. Stay at home and sit quietly. You can go tomorrow night and have darśana of Kṛṣṇa.”
 
 প্রাতঃকালে ভব্য-লোক প্রভু-স্থানে আইলা ৷  
 ‘কৃষ্ণ দেখি’ আইলা ?’ — প্রভু তাঁহারে পুছিলা ॥ ১০৩ ॥
 
 prātaḥ-kāle bhavya-loka prabhu-sthāne āilā  
-‘kṛṣṇa dekhi’ āilā?’ — prabhu tāṅhāre puchilā
+in the morning  respectable people  to the Lord’s place  came  
+‘kṛṣṇa dekhi’ āilā?’ — prabhu tāṅhāre puchilā  
+Kṛṣṇa  having seen  have you come  —  the Lord  them  asked
 
-(103) [not yet translated]
+(103) In the morning some respectable people came to the Lord, and the Lord asked them, “Have you come from seeing Kṛṣṇa?”
 
 লোক কহে, — ‘রাত্র্যে কৈবর্ত নৌকাতে চড়িয়া ৷  
 কালীয়দহে মৎস্য মারে, দেউটী জ্বালিয়া ॥ ১০৪ ॥
 
 loka kahe, — ‘rātrye kaivarta naukāte caḍiyā  
-kālīya-dahe matsya māre, deuṭī jvāliyā
+the people  say  —  at night  a fisherman  in a boat  climbing  
+kālīya-dahe matsya māre, deuṭī jvāliyā  
+in the Kālīya lake  fish  he kills  a torch  lighting
 
-(104) [not yet translated]
+(104) They said, “At night a fisherman gets into a boat, lights a torch and catches fish in Kālīya’s lake.
 
 দূর হৈতে তাহা দেখি’ লোকের হয় ‘ভ্রম’ ৷  
 ‘কালীয়ের শরীরে কৃষ্ণ করিছে নর্ত্তন’ ! ॥ ১০৫ ॥
 
 dūra haite tāhā dekhi’ lokera haya ‘bhrama’  
-‘kālīyera śarīre kṛṣṇa kariche nartana’!
+from a distance  that  seeing  the people  have  the illusion  
+‘kālīyera śarīre kṛṣṇa kariche nartana’!  
+on Kālīya’s body  Kṛṣṇa  is performing  a dance
 
-(105) [not yet translated]
+(105) Seeing this from a distance, people are deluded: ‘Kṛṣṇa is dancing on Kālīya’s body!’
 
 নৌকাতে কালীয়-জ্ঞান, দীপে রত্ন-জ্ঞানে !  
 জালিয়ারে মূঢ়-লোক ‘কৃষ্ণ’ করি’ মানে !’ ॥ ১০৬ ॥
 
 naukāte kālīya-jñāna, dīpe ratna-jñāne!  
-jāliyāre mūḍha-loka ‘kṛṣṇa’ kari’ māne!’
+in the boat  the notion of Kālīya  in the lamp  the notion of jewels  
+jāliyāre mūḍha-loka ‘kṛṣṇa’ kari’ māne!’  
+the fisherman  foolish people  Kṛṣṇa  as  regard
 
-(106) [not yet translated]
+(106) They take the boat for Kālīya and the lamp for his jewels, and these foolish people regard the fisherman as Kṛṣṇa!”
 
 বৃন্দাবনে ‘কৃষ্ণ’ আইলা, — সেহ ‘সত্য’ হয় ৷  
 কৃষ্ণেরে দেখিল লোক, — ইহা ‘মিথ্যা’ নয় ॥ ১০৭ ॥
 
 vṛndāvane ‘kṛṣṇa’ āilā, — seha ‘satya’ haya  
-kṛṣṇere dekhila loka, — ihā ‘mithyā’ naya
+to Vṛndāvana  Kṛṣṇa  has come  —  that too  true  is  
+kṛṣṇere dekhila loka, — ihā ‘mithyā’ naya  
+Kṛṣṇa  saw  the people  —  this  false  is not
 
-(107) [not yet translated]
+(107) That Kṛṣṇa had come to Vṛndāvana was also true, and that the people had seen Kṛṣṇa was not false.
 
 কিন্তু কাঁহো ‘কৃষ্ণ’ দেখে, কাঁহো ‘ভ্রম’ মানে ৷  
 স্থাণু-পুরুষে যৈছে বিপরীত-জ্ঞানে ॥ ১০৮ ॥
 
 kintu kāṅho ‘kṛṣṇa’ dekhe, kāṅho ‘bhrama’ māne  
-sthāṇu-puruṣe yaiche viparīta-jñāne
+but  some  Kṛṣṇa  see  some  an illusion  accept  
+sthāṇu-puruṣe yaiche viparīta-jñāne  
+in a post a man  just as  mistaken perception
 
-(108) [not yet translated]
+(108) But some saw Kṛṣṇa, while others accepted an illusion, just as one mistakes a bare tree trunk for a man.
 
 প্রভু কহে, — ‘কাঁহা পাইলা ‘কৃষ্ণ’ দরশন ?’  
 লোক কহে, — ‘সন্ন্যাসী তুমি জঙ্গম-নারায়ণ ॥ ১০৯ ॥
 
 prabhu kahe, — ‘kāṅhā pāilā ‘kṛṣṇa’ daraśana?’  
-loka kahe, — ‘sannyāsī tumi jaṅgama-nārāyaṇa
+the Lord  says  —  where  have you had  Kṛṣṇa’s  darśana  
+loka kahe, — ‘sannyāsī tumi jaṅgama-nārāyaṇa  
+the people  say  —  a sannyāsī  You  a moving Nārāyaṇa
 
-(109) [not yet translated]
+(109) The Lord asked, “Then where have you had darśana of Kṛṣṇa?” The people said, “You are a sannyāsī, a moving Nārāyaṇa.
 
 বৃন্দাবনে হইলা তুমি কৃষ্ণ-অবতার ৷  
 তোমা দেখি’ সর্ব্বলোক হইল নিস্তার’ ॥ ১১০ ॥
 
 vṛndāvane hailā tumi kṛṣṇa-avatāra  
-tomā dekhi’ sarva-loka haila nistāra’
+in Vṛndāvana  have become  You  an avatāra of Kṛṣṇa  
+tomā dekhi’ sarva-loka haila nistāra’  
+You  seeing  all the people  have become  delivered
 
-(110) [not yet translated]
+(110) In Vṛndāvana You have become an avatāra of Kṛṣṇa, and by seeing You everyone has been delivered.”
 
 প্রভু কহে, — ‘বিষ্ণু’, ‘বিষ্ণু’, ইহা না কহিবা !  
 জীবাধমে ‘কৃষ্ণ’-জ্ঞান কভু না করিবা ! ॥ ১১১ ॥
 
 prabhu kahe, — ‘viṣṇu’, ‘viṣṇu’, ihā nā kahibā!  
-jīvādhame ‘kṛṣṇa’-jñāna kabhu nā karibā!
+the Lord  says  —  Viṣṇu  Viṣṇu  this  not  you should say  
+jīvādhame ‘kṛṣṇa’-jñāna kabhu nā karibā!  
+in a lowly jīva  the notion of Kṛṣṇa  ever  not  you should hold
 
-(111) [not yet translated]
+(111) The Lord said, “Viṣṇu! Viṣṇu! Do not say such a thing! Never take a lowly jīva for Kṛṣṇa!
 
 সন্ন্যাসী — চিৎকণ জীব, কিরণ-কণ-সম ৷  
 ষড়ৈশ্বর্য্যপূর্ণ কৃষ্ণ হয় সূর্য্যোপম ॥ ১১২ ॥
 
 sannyāsī — cit-kaṇa jīva, kiraṇa-kaṇa-sama  
-ṣaḍ-aiśvarya-pūrṇa kṛṣṇa haya sūryopama
+a sannyāsī  —  a particle of spirit  a jīva  like a particle of a ray  
+ṣaḍ-aiśvarya-pūrṇa kṛṣṇa haya sūryopama  
+full of the six opulences  Kṛṣṇa  is  like the sun
 
-(112) [not yet translated]
+(112) A sannyāsī is a jīva, a particle of spirit, like a particle of a ray of light; but Kṛṣṇa, full of the six opulences, is like the sun.
 
 জীব, ঈশ্বর-তত্ত্ব — কভু নহে ‘সম’ ৷  
 জ্বলদগ্নিরাশি যৈছে স্ফুলিঙ্গের ‘কণ’ ॥ ১১৩ ॥
 
 jīva, īśvara-tattva — kabhu nahe ‘sama’  
-jvalad-agni-rāśi yaiche sphuliṅgera ‘kaṇa’
+the jīva  the truth of the Lord  —  ever  are not  equal  
+jvalad-agni-rāśi yaiche sphuliṅgera ‘kaṇa’  
+a blazing mass of fire  just as  of a spark  a particle
 
-(113) [not yet translated]
+(113) The jīva and the Lord are never equal, just as a tiny spark is never equal to a great blazing fire.
 
 হ্লাদিন্যা সংবিদাশ্লিষ্টঃ সচ্চিদানন্দ ঈশ্বরঃ ৷  
 স্বাবিদ্যা-সংবৃতো জীবঃ সংক্লেশনিকরাকরঃ ॥ ১১৪ ॥
 
 hlādinyā saṁvid-āśliṣṭaḥ  
+by hlādinī  embraced by saṁvit  
 sac-cid-ānanda īśvaraḥ  
+eternal being, consciousness and bliss  the Lord  
 svāvidyā-saṁvṛto jīvaḥ  
-saṅkleśa-nikarākaraḥ
+by its own ignorance  covered  the jīva  
+saṁkleśa-nikarākaraḥ  
+a mine of a multitude of miseries
 
-(114) [not yet translated]
+(114) “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam 1.7.6)
 
 যেই মূঢ় কহে, — জীব ঈশ্বর হয় ‘সম’ ৷  
 সেই ত’ ‘পাষণ্ডী’ হয়, দণ্ডে তারে যম ॥ ১১৫ ॥
