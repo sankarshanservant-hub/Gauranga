@@ -1,0 +1,732 @@
+# English translation, Madhya-līlā 16 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya16.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–145 (scan pp. 603–613); shift 2: 146–290.
+
+## 0
+tr: The Journey to Gauḍa Once Again
+
+## 1
+w: the garden of Gauḍa  the Gaura-cloud
+w: sprinkling  with the nectar of His glances
+w: by the fire of worldly existence  scorched  of the people
+w: the creepers  revived
+tr: Sprinkling the garden of Gauḍa with the nectar of His glances, the cloud that is Gaura revived the people — creepers scorched by the fire of worldly existence.
+fn: Heading in the edition: “Gaurasundara, having come to Gauḍa, devotes Himself to delivering the people.” *Anubhāṣya*: the cloud is Śrī Gaura, the garden is the land of Gauḍa, the creepers are the people scorched by the blaze of worldly existence.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 4.2, 6.2 and 12.2 (the refrain of Ādi 4.2 with *gauracandra* in the first line); translation as there.
+
+## 3
+w: of the Lord  arose  the desire  to go  to Vṛndāvana
+w: hearing  Pratāparudra  became  downcast
+tr: The Lord conceived the desire to go to Vṛndāvana, and when Pratāparudra heard of it, he was downcast.
+
+## 4
+w: Sārvabhauma  Rāmānanda  summoning  the two  persons
+w: to both  speaks  the king  humble  words
+tr: The king summoned the two of them, Sārvabhauma and Rāmānanda, and spoke to them humbly:
+
+## 5
+w: Nīlādri  leaving  of the Lord  the mind  elsewhere  to go
+w: you  make  effort  Him  to keep
+tr: “The Lord has a mind to leave Nīlādri and go elsewhere. Please make every effort to keep Him here.
+
+## 6
+w: Him  without  this  kingdom  to me  not  is pleasing
+w: the Gosāñi  to keep  employ  various  means
+tr: Without Him this kingdom gives me no pleasure. Use every means to keep the Gosāñi here.”
+
+## 7
+w: Rāmānanda  Sārvabhauma  with the two
+w: then  counsel  takes  the Lord  —  “I will go  to Vṛndāvana”
+tr: Then the Lord took counsel with the two of them, Rāmānanda and Sārvabhauma: “I will go to Vṛndāvana.”
+
+## 8
+w: the two  say  —  the Ratha-yātrā  do  seeing
+w: Kārtika  when it comes  then  make  departure
+tr: Both of them said, “See the Ratha-yātrā first; when Kārtika comes, then You may go.”
+
+## 9
+w: Kārtika  when it came  they say  —  now  great cold
+w: the Dola-yātrā  having seen  go  —  this  good  way
+tr: When Kārtika came, they said, “Now it is bitterly cold. See the Dola-yātrā and then go — that is the proper way.”
+
+## 10
+w: today–tomorrow  saying  raise  various  pretexts
+w: to going  consent  not  give  of separation  out of fear
+tr: Saying “today, tomorrow,” they raised one pretext after another; afraid of separation, they would not consent to His going.
+
+## 11
+w: although  independent  the Lord  not  is to be stopped
+w: the devotees’ wish  without  the Lord  not  makes  departure
+tr: Although the Lord is independent and no one can stop Him, He would not leave without the consent of His devotees.
+
+## 12
+w: in the third  year  all  of Gauḍa  the devotees
+w: to Nīlācala  to go  of all  arose  the wish
+tr: In the third year all the devotees of Gauḍa resolved to go to Nīlācala.
+
+## 13
+w: all  gathering  went  Advaita Ācārya’s  to the side
+w: the Lord  to see  the Ācārya  set out  joyfully
+tr: They all gathered and went to Advaita Ācārya, and the Ācārya joyfully set out to see the Lord.
+
+## 14–15
+w: although  of the Lord  the order  in Gauḍa  to stay
+w: to Nityānanda Prabhu  prema-bhakti  to make manifest
+w: nevertheless  set out  Mahāprabhu  to see
+w: Nityānanda’s  loving dealings  who  can  understand
+tr: Although the Lord had ordered Nityānanda Prabhu to stay in Gauḍa and reveal *prema-bhakti*, He nevertheless set out to see Mahāprabhu. Who can understand the ways of Nityānanda’s love?
+
+## 16–17
+w: Ācāryaratna  Vidyānidhi  Śrīvāsa  Rāmāi
+w: Vāsudeva  Murāri  Govinda and the others  the three brothers
+w: Rāghava Paṇḍita  his own bags  having prepared
+w: the residents of Kulīna-grāma  go  silk ropes  taking
+tr: Ācāryaratna, Vidyānidhi, Śrīvāsa, Rāmāi, Vāsudeva, Murāri, and Govinda with his two brothers set out. Rāghava Paṇḍita packed his bags (*jhāli*) for the journey, and the residents of Kulīna-grāma came bringing silk ropes.
+fn: The *jhāli* are Rāghava Paṇḍita’s alone; they are described in Antya 10.
+
+## 18
+w: the resident of Khaṇḍa  Narahari  Śrī Raghunandana
+w: all the devotees  go  of them  who  makes  a count
+tr: Narahari of Khaṇḍa and Śrī Raghunandana came too. All the devotees set out — who can count them?
+
+## 19
+w: Śivānanda Sena  does  at the toll stations  the settling
+w: all  care  taking  happily  leading  goes
+tr: Śivānanda Sena settled the tolls at the crossings; taking care of everyone, he led them happily along.
+
+## 20
+w: of all  all the affairs  he does  gives  lodging places
+w: Śivānanda  knows  of the Oḍiyā roads  the details
+tr: He attended to everyone’s needs and found them places to stay, for Śivānanda knew the roads through Orissa well.
+
+## 21
+w: that  year  the Lord  to see  all  the ladies
+w: went  with the Ācārya  Acyuta’s  mother
+tr: That year all the ladies went to see the Lord. Acyuta’s mother went with the Ācārya.
+
+## 22
+w: with Śrīvāsa Paṇḍita  went  Mālinī
+w: with Śivānanda  goes  his  wife
+tr: Mālinī went with Śrīvāsa Paṇḍita, and Śivānanda’s wife went with him.
+
+## 23
+w: Śivānanda’s  son  name  —  Caitanya dāsa
+w: he  set out  the Lord  to see  joyfully
+tr: Śivānanda’s son, named Caitanya dāsa, also set out joyfully to see the Lord.
+
+## 24
+w: with Ācāryaratna  goes  his  wife
+w: of that one  of the love  the account  to tell  not  I know how
+tr: Ācāryaratna’s wife went with him. I do not know how to describe her love.
+fn: *Tāṅhāra* (“his” or “her”) is taken as referring to the wife: verses 21–25 speak of the devotees’ wives (heading in the edition: “the journey of Candraśekhara’s wife”).
+
+## 25
+w: all  the ladies  to Mahāprabhu  a meal  to give
+w: of the Lord  various  favourite  foods  took  from home
+tr: To offer Mahāprabhu a meal, all the ladies brought from home many of the Lord’s favourite foods.
+
+## 26
+w: Śivānanda Sena  does  all  the arranging
+w: the toll collectors  pacifying  gives  to all  lodging places
+tr: Śivānanda Sena arranged everything. He pacified the toll collectors (*ghāṭiyāla*) and found lodgings for everyone.
+
+## 27
+w: food  giving  does  of all  everywhere  the care
+w: in supreme  bliss  goes  of the Lord  to the sight
+tr: Everywhere he looked after them all and gave them food, and he went on in supreme bliss to see the Lord.
+
+## 28
+w: to Remuṇā  coming  they made  of Gopīnātha  darśana
+w: the Ācārya  did  there  kīrtana  dancing
+tr: Coming to Remuṇā, they had *darśana* of Gopīnātha, and there the Ācārya sang and danced.
+
+## 29
+w: Nityānanda’s  acquaintance  with all the people
+w: great  honour  coming  showed  the servants
+tr: Nityānanda was known to all the people there, and the temple servants came and showed Him great honour.
+
+## 30
+w: that  night  all  the great souls  right there  stayed
+w: twelve  pots of kṣīra  bringing  before  the servant  placed
+tr: All those great souls stayed there that night, and a servant brought twelve pots of *kṣīra* (sweet rice) and set them before the devotees.
+
+## 31
+w: the kṣīra  dividing  to all  gave  Nityānanda Prabhu
+w: the kṣīra prasāda  receiving  of all  increased  the bliss
+tr: Nityānanda Prabhu divided the *kṣīra* and gave it to everyone, and receiving that *kṣīra-prasāda*, they were all filled with joy.
+
+## 32
+w: of Mādhava Purī  the story  of Gopāla  the installation
+w: from him  Gopāla  how  asked for  sandalwood
+tr: The story of Mādhava Purī, the installation of Gopāla, how Gopāla asked him for sandalwood,
+fn: The first line is the second line of Madhya 1.96. *Anubhāṣya*: Mahāprabhu had told this story to Nityānanda and His other companions at Remuṇā, on His way to Nīlācala (Madhya 4.19–190).
+
+## 33
+w: him  for the sake of  Gopīnātha  the kṣīra  theft  made
+w: of Mahāprabhu  from the mouth  before  this  story  they had heard
+tr: and how Gopīnātha stole *kṣīra* for his sake — they had heard this story earlier from Mahāprabhu’s own mouth.
+
+## 34
+w: that  story  all  among  tells  Nityānanda
+w: hearing  in the hearts of the Vaiṣṇavas  increased  the bliss
+tr: Now Nityānanda told that story among them all, and the Vaiṣṇavas’ hearts swelled with joy as they listened.
+
+## 35
+w: in this way  going on  going on  to Kaṭaka  they came
+w: Sākṣi-gopāla  seeing  all  that  day  stayed
+tr: Travelling on in this way, they came to Kaṭaka. There they saw Sākṣi-gopāla and stayed that day.
+
+## 36
+w: of Sākṣi-gopāla  the story  tells  Nityānanda
+w: hearing  in the hearts of the Vaiṣṇavas  increased  the bliss
+tr: Nityānanda told the story of Sākṣi-gopāla, and the Vaiṣṇavas’ hearts swelled with joy as they listened.
+
+## 37
+w: the Lord  to meet  of all  eagerness  in the heart
+w: quickly  making  came  all  to Śrī Nīlācala
+tr: Their hearts were all eager to meet the Lord, so they hurried on to Śrī Nīlācala.
+
+## 38
+w: at Āṭhāranālā  they have come  the Gosāñi  hearing
+w: two garlands  sent  Govinda’s  in the hand  placing
+tr: Hearing that they had reached Āṭhāranālā, the Gosāñi placed two garlands in Govinda’s hands and sent him to them.
+
+## 39
+w: the two  garlands  Govinda  on the two  persons  put
+w: Advaita  the Avadhūta Gosāñi  great  happiness  felt
+tr: Govinda put the two garlands on the two of them, and Advaita and the Avadhūta Gosāñi (Nityānanda) were overjoyed.
+
+## 40
+w: right there  beginning  made  of Kṛṣṇa-saṅkīrtana
+w: dancing  dancing  going  came  the two
+tr: Right there they began Kṛṣṇa-saṅkīrtana, and the two of them came on, dancing all the way.
+
+## 41
+w: again  garlands  giving  to Svarūpa and the others  to His own men
+w: ahead  sending forward  sent  of Śacī  by the son
+tr: Then Śacī’s son gave garlands to Svarūpa and His other associates and sent them ahead.
+
+## 42
+w: to Narendra  coming  there  with all  they met
+w: by Mahāprabhu  given  the garlands  on all  they put
+tr: Coming to Narendra, they met everyone there and put on them all the garlands Mahāprabhu had given.
+
+## 43
+w: near the Siṁha-dvāra  they have come  hearing  Gaurarāya
+w: Himself  coming  the Lord  met  with all
+tr: When Gaurarāya heard that they had reached the Siṁha-dvāra, the Lord came Himself and met them all.
+
+## 44
+w: all  taking  He made  Jagannātha-darśana
+w: all  taking  came  again  to His own residence
+tr: Taking them all with Him, He had *darśana* of Jagannātha, and then He brought them all back to His own residence.
+
+## 45
+w: Vāṇīnātha  Kāśī Miśra  prasāda  brought
+w: with His own hand  all  the Lord  prasāda  fed
+tr: Vāṇīnātha and Kāśī Miśra brought *prasāda*, and the Lord served it to everyone with His own hand.
+
+## 46
+w: in the previous year  whose  whatever  lodging place
+w: there  all  sending  made rest
+tr: He sent each of them to the lodging they had had the year before and let them rest.
+
+## 47
+w: in this way  the devotees  stayed  four  months
+w: the Lord  with  do  the pastimes of kīrtana
+tr: In this way the devotees stayed four months, enjoying the pastimes of *kīrtana* with the Lord.
+
+## 48
+w: as before  the time of the Ratha-yātrā  when  came
+w: all  taking  the Guṇḍicā temple  He washed
+tr: When the time of the Ratha-yātrā came, He took them all, as before, and washed the Guṇḍicā temple.
+
+## 49
+w: the residents of Kulīna-grāma  silk ropes  to Jagannātha  gave
+w: as before  in front of the chariot  dancing  He did
+tr: The residents of Kulīna-grāma gave silk ropes to Jagannātha, and as before He danced in front of the chariot.
+
+## 50
+w: much  dancing  having done  then  went  to the garden
+w: on the bank of the pond  there  going  made  rest
+tr: After dancing a great deal He went to the garden, and there He rested on the bank of the pond.
+
+## 51
+w: from Rāḍha  one  brāhmaṇa  he  —  a servant of Nityānanda
+w: most fortunate  he  name  —  Kṛṣṇadāsa
+tr: There was a most fortunate brāhmaṇa from Rāḍha named Kṛṣṇadāsa, a servant of Nityānanda.
+
+## 52
+w: a pitcher  filling  of the Lord  he  bathing  did
+w: his  by the bathing  the Lord  greatly pleased  became
+tr: He filled a pitcher and bathed the Lord, and the Lord was greatly pleased.
+
+## 53
+w: of the Balagaṇḍi offering  much  prasāda  came
+w: all  with  Mahāprabhu  prasāda  ate
+tr: A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured the *prasāda* with them all.
+
+## 54
+w: as before  the Ratha-yātrā  He made  seeing
+w: the Herā-pañcamī festival  sees  taking  the devotees
+tr: As before, He watched the Ratha-yātrā, and with His devotees He saw the festival of Herā-pañcamī.
+
+## 55
+w: Ācārya Gosāñi  of the Lord  made  invitation
+w: that  in the midst of  made  how  a storm of rain
+tr: Ācārya Gosāñi invited the Lord, and in the midst of it He brought on a storm of wind and rain.
+fn: *Amṛta-pravāha-bhāṣya*: see *Caitanya-bhāgavata*, Antya-khaṇḍa, chapter 8. Advaita wished the Lord to come without the other sannyāsīs; they had gone to perform their midday rites when the storm broke, and the Lord came alone and ate Advaita’s rice and vegetables.
+
+## 56
+w: in detail  has described  Vṛndāvana dāsa
+w: Śrīvāsa  the Lord  then  made  invitation
+tr: Vṛndāvana dāsa has described this in detail. Then Śrīvāsa invited the Lord.
+fn: The first line is the same as in Madhya 3.217, 5.140 and 15.13 (and in verse 81 of this chapter).
+
+## 57
+w: the Lord’s  favourite dishes  all  cooks  Mālinī
+w: “in devotion  a maidservant” — such self-conception  “in affection  a mother”
+tr: Mālinī cooked all the Lord’s favourite dishes. In devotion she thought of herself as His maidservant; in affection she was His mother.
+
+## 58
+w: Ācāryaratna and the others  as many  chief  devotees
+w: from time  to time  the Lord  make  invitation
+tr: Ācāryaratna and the other leading devotees invited the Lord from time to time.
+
+## 59
+w: at the end of Cāturmāsya  again  Nityānanda  taking
+w: some kind of  counsel  holds  daily  in private  sitting
+tr: At the end of Cāturmāsya the Lord would again take Nityānanda aside every day and sit with Him in private, holding some counsel.
+
+## 60
+w: Ācārya Gosāñi  to the Lord  speaks  in hints
+w: the Ācārya  riddles  recites  anyone  to understand  not  is able
+tr: Ācārya Gosāñi spoke to the Lord in hints; the Ācārya recited riddles (*tarjā*) that no one could understand.
+fn: *Amṛta-pravāha-bhāṣya*: *tarjā* is speech in the *payāra* and other metres that others cannot easily understand.
+
+## 61
+w: his  face  seeing  smiles  of Śacī  the son
+w: acceptance  knowing  the Ācārya  does  dancing
+tr: Looking at his face, Śacī’s son smiled; taking this as His assent, the Ācārya began to dance.
+
+## 62
+w: whether  a prayer  whether  an order  —  anyone  not  understood
+w: embrace  making  the Lord  him  leave  gave
+tr: Whether it was a prayer or an instruction, no one understood. Then the Lord embraced him and bade him farewell.
+
+## 63
+w: to Nityānanda  says  the Lord  —  listen  Śrīpāda
+w: this  I  beg  You  grant  the favour
+tr: The Lord said to Nityānanda, “Listen, Śrīpāda: I beg this of You — grant Me this favour.
+
+## 64
+w: every year  to Nīlācala  You  not  should come
+w: in Gauḍa  staying  My  desire  fulfilled  should make
+tr: Do not come to Nīlācala every year. Stay in Gauḍa and fulfil My desire.
+
+## 65
+w: that  fulfilment  does  —  such  another  not  I see
+w: My  difficult  work  You  from  is accomplished
+tr: I see no one else who could accomplish it. My difficult work can be done only by You.”
+
+## 66
+w: Nityānanda  says  —  I  the body  You  the life
+w: the body  the life  different  not are  —  this  indeed  the proof
+tr: Nityānanda said, “I am the body and You are the life. Body and life are not separate — this is the proof.
+
+## 67
+w: by inconceivable potency  bring about  You  of that  the accomplishment
+w: whatever  You make Me do  that  I do  there is no  rule
+tr: Yet by Your inconceivable potency You bring this about. Whatever You make Me do, that I do; there is no rule here.”
+
+## 68
+w: Him  leave  gave  the Lord  making  an embrace
+w: in this way  leave  gave  all  the devotees
+tr: The Lord embraced Him and bade Him farewell, and in the same way He bade farewell to all the devotees.
+
+## 69
+w: the resident of Kulīna-grāma  as before  made  a submission
+w: Lord  an order  give  —  my  duty  practice
+tr: As before, a resident of Kulīna-grāma submitted, “Lord, please instruct me: what is my duty, my practice?”
+
+## 70
+w: the Lord  says  —  of the Vaiṣṇavas  service  saṅkīrtana of the name
+w: two  do  quickly  you will obtain  the feet of Śrī Kṛṣṇa
+tr: The Lord said, “Serve the Vaiṣṇavas and chant the Holy Name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
+
+## 71
+w: he  says  —  who  a Vaiṣṇava  what  his  symptom
+w: then  smiling  says  the Lord  knowing  his  mind
+tr: He asked, “Who is a Vaiṣṇava? What are his marks?” Then the Lord, knowing his mind, smiled and said,
+
+## 72
+w: the name of Kṛṣṇa  constantly  whose  in the mouth
+w: he  the best of the Vaiṣṇavas  worship  his  feet
+tr: “One in whose mouth the name of Kṛṣṇa is always present is the best of Vaiṣṇavas. Worship his feet.”
+
+## 73
+w: after a year  again  they  such  a question  asked
+w: of the Vaiṣṇavas  the gradation  the Lord  taught
+tr: A year later they asked the same question again, and the Lord taught them the gradation of Vaiṣṇavas:
+
+## 74
+w: whose  at the sight  to the mouth  comes  the name of Kṛṣṇa
+w: him  know  you  the foremost Vaiṣṇava
+tr: “One whose very sight brings the name of Kṛṣṇa to the mouth — know him to be the foremost Vaiṣṇava.”
+
+## 75
+w: in order  making  speaks  the Lord  of a Vaiṣṇava  the marks
+w: Vaiṣṇava  a higher Vaiṣṇava  and  the highest Vaiṣṇava
+tr: Step by step the Lord described the marks of a Vaiṣṇava: the Vaiṣṇava, the higher Vaiṣṇava (*vaiṣṇavatara*) and the highest Vaiṣṇava (*vaiṣṇavatama*).
+
+## 76
+w: in this way  all  the Vaiṣṇavas  to Gauḍa  went
+w: Vidyānidhi  that  year  in Nīlādri  stayed
+tr: In this way all the Vaiṣṇavas returned to Gauḍa. That year Vidyānidhi stayed on in Nīlādri.
+
+## 77
+w: with Svarūpa  his  is  friendly affection
+w: of the two  in talks of Kṛṣṇa  together  the abiding
+tr: He had a loving friendship with Svarūpa, and the two of them stayed together, absorbed in talks about Kṛṣṇa.
+
+## 78
+w: to Gadādhara Paṇḍita  he  again  mantra  gave
+w: of Oḍana-ṣaṣṭhī  on the day  the festival  which  he saw
+tr: He gave the *mantra* to Gadādhara Paṇḍita a second time, and he saw the festival on the day of Oḍana-ṣaṣṭhī.
+
+## 79
+w: Jagannātha  wears  there  starched  cloth
+w: seeing  disgusted  became  Vidyānidhi’s  mind
+tr: There Jagannātha is dressed in starched (*māḍuyā*) cloth, and when Vidyānidhi saw this, he felt disgust.
+
+## 80
+w: that  night  Jagannātha and Balāi  coming
+w: the two brothers  slap  him  laughing  laughing
+tr: That night Jagannātha and Balāi came to him, and the two brothers slapped him, laughing all the while.
+
+## 81
+w: the cheeks  swelled  the Ācārya’s  in the heart  joy
+w: in detail  has described  Vṛndāvana  dāsa
+tr: His cheeks swelled, but the Ācārya rejoiced at heart. Vṛndāvana dāsa has described this in detail.
+
+## 82
+w: in this way  every year  come  of Gauḍa  the devotees
+w: with the Lord  staying  do  of the festival  seeing
+tr: In this way the devotees of Gauḍa came every year, stayed with the Lord and saw the festival.
+
+## 83
+w: that  among  in which  which  years  there is  something special
+w: in detail  later  that  I shall tell  fully
+tr: Whatever was special in particular years, I shall relate fully and in detail later on.
+
+## 84
+w: in this way  of Mahāprabhu  four  years  passed
+w: to the south  going  to come back  two  years  it took
+tr: So four years of Mahāprabhu’s life passed. Going south and coming back took two years.
+
+## 85
+w: another  two  years  He wants  to Vṛndāvana  to go
+w: through Rāmānanda’s insistence  the Lord  not  can  set out
+tr: For another two years He wanted to go to Vṛndāvana, but because of Rāmānanda’s insistence the Lord could not set out.
+
+## 86
+w: in the fifth  year  of Gauḍa  the devotees  came
+w: the chariot  seeing  not  stayed  to Gauḍa  went
+tr: In the fifth year the devotees of Gauḍa came; they saw the Ratha-yātrā, but they did not stay and returned to Gauḍa.
+
+## 87
+w: then  the Lord  to Sārvabhauma and Rāmānanda
+w: embrace  making  speaks  with sweet words
+tr: Then the Lord embraced Sārvabhauma and Rāmānanda and spoke to them sweetly:
+
+## 88
+w: great  eagerness  Mine  to go  to Vṛndāvana
+w: your  through insistence  two  years  not  I made  departure
+tr: “I am very eager to go to Vṛndāvana. Because of your insistence I have not gone for two years.
+
+## 89
+w: certainly  I shall go  both  give  consent
+w: you two  without  Mine  there is no  other  refuge
+tr: I shall certainly go now — both of you, give your consent. I have no refuge but you two.
+
+## 90
+w: in Gauḍa-deśa  are  Mine  two  shelters
+w: mother  Jāhnavī  —  these  two  all-merciful
+tr: In Gauḍa-deśa I have two shelters, My mother and the Jāhnavī (Gaṅgā); both are all-merciful.
+
+## 91
+w: through Gauḍa-deśa  I shall go  them  seeing
+w: you  both  permission  give  pleased  becoming
+tr: I shall go by way of Gauḍa-deśa and see them both. Be pleased, both of you, and give Me leave.”
+
+## 92
+w: hearing  of the Lord  the words  in the mind  they consider
+w: with the Lord  too much  insistence  ever  good  not is
+tr: Hearing the Lord’s words, they reflected: “To insist too much with the Lord is never good.”
+
+## 93
+w: both  say  —  now  the rains  to travel  You will not be able
+w: Vijayā-daśamī  when it comes  certainly  You will go
+tr: They both said, “Now it is the rainy season; You cannot travel. When Vijayā-daśamī comes, You shall certainly go.”
+
+## 94
+w: in joy  Mahāprabhu  the rainy season  made  completion
+w: on the day of Vijayā-daśamī  made  departure
+tr: Mahāprabhu happily saw the rainy season through, and on the day of Vijayā-daśamī He set out.
+
+## 95
+w: of Jagannātha  the prasāda  the Lord  as much as  had received
+w: kaḍāra  sandalwood  ropes  all  with  He took
+tr: He took with Him all the *prasāda* of Jagannātha that He had received — *kaḍāra* ointment, sandalwood paste and ropes.
+
+## 96
+w: from Jagannātha  permission  begging  at dawn  He set out
+w: the Oḍiyā  devotees  together  behind  going  came
+tr: He begged leave of Jagannātha and set out at dawn, and the Oḍiyā devotees came following behind Him.
+
+## 97
+w: the Oḍiyā devotees  the Lord  with effort  stopped
+w: His own associates  with  the Lord  to Bhavānīpura  came
+tr: With some effort the Lord made the Oḍiyā devotees turn back, and with His own associates He came to Bhavānīpura.
+
+## 98
+w: Rāmānanda  came  behind  in a palanquin  riding
+w: Vāṇīnātha  much  prasāda  gave  sending
+tr: Rāmānanda came after Him, riding in a palanquin, and Vāṇīnātha sent a great deal of *prasāda*.
+
+## 99
+w: prasāda  eating  having done  there  He stayed
+w: in the morning  going  the Lord  to Bhuvaneśvara  came
+tr: After taking the *prasāda* He stayed there, and setting out in the morning, the Lord came to Bhuvaneśvara.
+
+## 100
+w: to Kaṭaka  coming  He made  of Gopāla  darśana
+w: the brāhmaṇa Svapneśvara  made  of the Lord  invitation
+tr: Coming to Kaṭaka, He had *darśana* of Gopāla, and the brāhmaṇa Svapneśvara invited the Lord for a meal.
+
+## 101
+w: Rāmānanda Rāya  all the associates  invited
+w: in an outer  garden  coming  the Lord  residence  made
+tr: Rāmānanda Rāya invited all the associates, and the Lord came to a garden outside the town and stayed there.
+
+## 102
+w: the meal  having taken  under a bakula tree  made  rest
+w: to Pratāparudra  Rāya  made  departure
+tr: After His meal He rested under a *bakula* tree, and Rāmānanda Rāya went to Pratāparudra.
+
+## 103
+w: hearing  delighted  the king  very quickly  came
+w: the Lord  seeing  like a rod  on the ground  fell
+tr: Delighted at the news, the king came at once, and seeing the Lord, he fell flat on the ground like a rod.
+
+## 104
+w: again  he rises  again  he falls  overwhelmed by love
+w: prayers  he offers  with hair standing on end  fall  tears
+tr: Overwhelmed by love, he rose and fell again and again; he offered prayers, the hair of his body stood on end, and tears flowed from his eyes.
+
+## 105
+w: his  devotion  seeing  of the Lord  pleased  became  the mind
+w: rising  Mahāprabhu  him  made  embrace
+tr: Seeing his devotion, the Lord was pleased at heart. Mahāprabhu rose and embraced him.
+
+## 106
+w: again  prayers  offering  the king  makes  obeisance
+w: in the tears of the Lord’s mercy  his  body  became  bathed
+tr: Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.
+
+## 107
+w: calm  making  Rāmānanda  the king  seated
+w: in body, mind and words  the Lord  to him  mercy  showed
+tr: Rāmānanda calmed the king and seated him, and the Lord showed him mercy in body, mind and words.
+
+## 108
+w: such  to him  mercy  showed  Gaurarāya
+w: the Saviour of Pratāparudra  the name  became  by which
+tr: Gaurarāya showed him such mercy that He came to be called “the Saviour of Pratāparudra.”
+
+## 109
+w: the royal ministers  made  of the Lord  homage
+w: to the king  leave  gave  of Śacī  the son
+tr: The king’s ministers paid homage to the Lord, and Śacī’s son gave the king leave to go.
+
+## 110
+w: outside  coming  the king  a written order  had written
+w: in his own kingdom  as many  revenue officers  to them  sent
+tr: Coming outside, the king had an order drawn up and sent it to all the revenue officers (*viṣayī*) of his kingdom:
+
+## 111
+w: in village after village  new  lodgings  you shall make
+w: five or seven  houses  with all  provisions  you shall fill
+tr: “In every village build new lodgings; fill five or seven houses with all provisions.
+
+## 112
+w: yourselves  the Lord  taking  there  you shall lodge
+w: night and day  cane in hand  in service  you shall remain
+tr: Bring the Lord there yourselves and lodge Him there, and stay in His service night and day, cane in hand.”
+
+## 113
+w: two  great ministers  —  Haricandana  Maṅgarāja
+w: to them  order  gave  the king  —  do  every  task
+tr: The king gave this order to two of his chief ministers, Haricandana and Maṅgarāja: “See to everything.
+
+## 114
+w: one  new boat  bringing  keep  on the river bank
+w: where  bath  having taken  the Lord  goes  across the river
+tr: Bring a new boat and keep it at the river bank where the Lord will bathe and cross the river.
+
+## 115
+w: there  a pillar  erecting  do  a great tīrtha  making
+w: daily  bath  take  there  there  may  I die
+tr: There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.
+
+## 116
+w: in Caturdvāra  build  excellent  new  lodgings
+w: Rāmānanda  go  you  to Mahāprabhu’s side
+tr: Build excellent new lodgings in Caturdvāra. And you, Rāmānanda, go to Mahāprabhu.”
+
+## 117
+w: in the evening  will set out  the Lord  —  the king  heard
+w: on elephants  in tents  the women  he seated
+tr: The king heard that the Lord would set out in the evening, and he had the women of the palace seated in tents on the backs of elephants.
+
+## 118
+w: of the Lord  of the going  on the road  they stay  in a row  forming
+w: in the evening  set out  the Lord  His own associates  taking
+tr: They stood in a row along the road the Lord was to take, and in the evening the Lord set out with His associates.
+
+## 119
+w: to the river Citrotpalā  coming  at the ghāṭ  made  bath
+w: the queens all  see  make  obeisance
+tr: Coming to the river Citrotpalā, He bathed at the *ghāṭ*, and all the queens watched Him and bowed down.
+
+## 120
+w: of the Lord  at the sight  all  became  full of love
+w: Kṛṣṇa  Kṛṣṇa  they say  the eyes  tears  shower
+tr: At the sight of the Lord they were all filled with love; they cried “Kṛṣṇa! Kṛṣṇa!” and tears streamed from their eyes.
+
+## 121
+w: such  merciful  not  I hear  in the three worlds
+w: love for Kṛṣṇa  arises  whose  from afar  at the sight
+tr: Nowhere in the three worlds have I heard of one so merciful: love for Kṛṣṇa awakens even in those who see Him from afar.
+
+## 122
+w: into the boat  climbing  the Lord  became  of the river  across
+w: on a moonlit  night  going  came  to Caturdvāra
+tr: The Lord boarded the boat and crossed the river, and travelling on through the moonlit night He came to Caturdvāra.
+
+## 123
+w: at night  there  staying  in the morning  bathing  made
+w: at that time  of Jagannātha  mahā-prasāda  came
+tr: He stayed there that night and bathed in the morning. Just then Jagannātha’s *mahā-prasāda* arrived.
+
+## 124
+w: of the king  by the order  the paḍichā  sends  day  by day
+w: abundant  prasāda  sends  by  many people
+tr: By the king’s order the *paḍichā* sent *prasāda* day after day — a great quantity of it, carried by many people.
+
+## 125
+w: with His own associates  the Lord  prasāda  accepting
+w: rising  set out  the Lord  saying  Hari  Hari
+tr: The Lord accepted the *prasāda* with His associates, then rose and set out, calling “Hari! Hari!”
+
+## 126
+w: Rāmānanda  Maṅgarāja  Śrī Haricandana
+w: together  service  doing  go  these  three  persons
+tr: Rāmānanda, Maṅgarāja and Śrī Haricandana — these three went along with Him, serving Him.
+
+## 127–129
+w: with the Lord  Purī Gosāñi  Svarūpa Dāmodara
+w: Jagadānanda  Mukunda  Govinda  Kāśīśvara
+w: Haridāsa Ṭhākura  and  Paṇḍita Vakreśvara
+w: Gopīnāthācārya  and  Paṇḍita Dāmodara
+w: Rāmāi  Nandāi  and  many  devotees
+w: the chief  I have named  of all  who  makes  a count
+tr: With the Lord were Purī Gosāñi, Svarūpa Dāmodara, Jagadānanda, Mukunda, Govinda, Kāśīśvara, Haridāsa Ṭhākura, Vakreśvara Paṇḍita, Gopīnāthācārya, Dāmodara Paṇḍita, Rāmāi, Nandāi and many other devotees. I have named only the chief among them — who can count them all?
+
+## 130
+w: Gadādhara Paṇḍita  when  along  set out
+w: the kṣetra-sannyāsa  not  give up  —  the Lord  forbade
+tr: When Gadādhara Paṇḍita set out with them, the Lord forbade him: “Do not give up your *kṣetra-sannyāsa*.”
+
+## 131
+w: the Paṇḍita  says  —  where  You  that  Nīlācala
+w: kṣetra-sannyāsa  my  let go  to Rasātala
+tr: The Paṇḍita said, “Wherever You are, that is Nīlācala. Let my *kṣetra-sannyāsa* go to Rasātala!”
+
+## 132
+w: the Lord  says  —  here  do  Gopīnātha’s  service
+w: the Paṇḍita  says  —  ten million services  the sight of Your feet
+tr: The Lord said, “Stay here and serve Gopīnātha.” The Paṇḍita said, “Seeing Your feet is worth ten million services.”
+
+## 133
+w: the Lord  says  —  the service  you will give up  to Me  attaches  the fault
+w: here  staying  service  do  —  My  satisfaction
+tr: The Lord said, “If you give up the service, the fault will fall on Me. Stay here and serve — that will please Me.”
+
+## 134
+w: the Paṇḍita  says  —  all  fault  me  upon
+w: with You  not  I shall go  I shall go  alone
+tr: The Paṇḍita said, “All the fault will be upon me. I shall not go with You; I shall go alone.
+
+## 135
+w: Āi  to see  I shall go  not  I shall go  You  for the sake of
+w: of giving up the vow and the service  the fault  —  of that  I  the bearer
+tr: I shall go to see Āi (Mother Śacī), not for Your sake. The fault of giving up my vow and my service — that I shall bear myself.”
+
+## 136
+w: so  saying  Paṇḍita Gosāñi  separately  went
+w: to Kaṭaka  coming  the Lord  him  with  had brought
+tr: Saying this, Paṇḍita Gosāñi travelled on separately. When the Lord reached Kaṭaka, He had him brought to Him.
+
+## 137
+w: of the Paṇḍita  for Gaurāṅga  love  to understand  not  is possible
+w: the vow  the service of Śrī Kṛṣṇa  he gave up  like a straw
+tr: The Paṇḍita’s love for Gaurāṅga is beyond understanding: he gave up his vow and the service of Śrī Kṛṣṇa as though they were a blade of grass.
+
+## 138
+w: his  by the conduct  the Lord  inwardly  satisfaction
+w: his  by the hand  taking  He says  making  loving anger
+tr: Inwardly the Lord was pleased with his conduct, but He took him by the hand and spoke with loving anger:
+
+## 139
+w: the vow  the service  to give up  —  this  your  aim
+w: that  accomplished  became  —  leaving  you have come  far  country
+tr: “Giving up your vow and your service — that was your aim, and it has been accomplished: you have left them and come to a distant land.
+
+## 140
+w: Me  with  to stay  you want  —  you desire  your own happiness
+w: your  two  duties  go  —  Mine  becomes  sorrow
+tr: You want to stay with Me — you are seeking your own happiness. But you are losing both your duties, and that makes Me sad.
+
+## 141
+w: My  happiness  you want  if  to Nīlācala  go
+w: by Me  sworn  if  more  anything  you say
+tr: If you want My happiness, go back to Nīlācala. I adjure you by Myself — do not say another word.”
+
+## 142
+w: so  saying  Mahāprabhu  into the boat  climbed
+w: unconscious  becoming  the Paṇḍita  there  fell
+tr: Saying this, Mahāprabhu got into the boat, and the Paṇḍita fell there unconscious.
+
+## 143
+w: the Paṇḍita  taking  to go  to Sārvabhauma  order  gave
+w: the Bhaṭṭācārya  says  —  rise  such  of the Lord  the līlā
+tr: The Lord ordered Sārvabhauma to take the Paṇḍita back with him. The Bhaṭṭācārya said, “Get up — such is the Lord’s *līlā*.
+
+## 144
+w: you  know  Kṛṣṇa  His own  vow  gave up
+w: for His devotee  by mercy compelled  Bhīṣma’s  vow  He kept
+tr: You know that Kṛṣṇa gave up His own vow; compelled by mercy for His devotee, He kept Bhīṣma’s vow.
+
+## 145
+w: His own promise  giving up  my promise
+w: true  to make  He jumped down  standing on the chariot
+w: holding the chariot wheel  He rushed  the earth trembling
+w: a lion  like  to kill  an elephant  His upper cloth fallen
+tr: “To make my promise true, He gave up His own: He leapt down from the chariot, took up a chariot wheel and rushed at me like a lion going to kill an elephant, so that the earth trembled, and His upper cloth fell away” (Śrīmad-Bhāgavatam 1.9.37).
