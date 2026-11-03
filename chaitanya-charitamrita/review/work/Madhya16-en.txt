@@ -591,11 +591,13 @@ tr: Bring a new boat and keep it at the river bank where the Lord will bathe and
 w: there  a pillar  erecting  do  a great tīrtha  making
 w: daily  bath  take  there  there  may  I die
 tr: There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.
+fn: In the Gauḍīya Maṭha edition — *kariha* (“bathe”): the king tells his men to bathe there every day, and for himself wishes to leave his body there. Heading in the edition: “The king’s deep love for Gaura.”
 
 ## 116
 w: in Caturdvāra  build  excellent  new  lodgings
 w: Rāmānanda  go  you  to Mahāprabhu’s side
 tr: Build excellent new lodgings in Caturdvāra. And you, Rāmānanda, go to Mahāprabhu.”
+fn: *Amṛta-pravāha-bhāṣya*: Caturdvāra is the village one reaches from Kaṭaka after crossing the Mahānadī; it is commonly called “Caudār”.
 
 ## 117
 w: in the evening  will set out  the Lord  —  the king  heard
@@ -611,6 +613,7 @@ tr: They stood in a row along the road the Lord was to take, and in the evening 
 w: to the river Citrotpalā  coming  at the ghāṭ  made  bath
 w: the queens all  see  make  obeisance
 tr: Coming to the river Citrotpalā, He bathed at the *ghāṭ*, and all the queens watched Him and bowed down.
+fn: *Amṛta-pravāha-bhāṣya*: the Mahānadī, at the place where one comes out of Kaṭaka, is called the river Citrotpalā.
 
 ## 120
 w: of the Lord  at the sight  all  became  full of love
@@ -660,6 +663,7 @@ tr: With the Lord were Purī Gosāñi, Svarūpa Dāmodara, Jagadānanda, Mukunda
 w: Gadādhara Paṇḍita  when  along  set out
 w: the kṣetra-sannyāsa  not  give up  —  the Lord  forbade
 tr: When Gadādhara Paṇḍita set out with them, the Lord forbade him: “Do not give up your *kṣetra-sannyāsa*.”
+fn: *Amṛta-pravāha-bhāṣya*: *kṣetra-sannyāsa* — leaving one’s former home and living, alone or with one’s family, in a holy place of Viṣṇu (Puruṣottama-kṣetra, Navadvīpa-dhāma, Mathurā-maṇḍala and the like), taking this as the highest aim; it is the *vānaprastha-dharma* suited to the age of Kali.
 
 ## 131
 w: the Paṇḍita  says  —  where  You  that  Nīlācala
@@ -685,6 +689,7 @@ tr: The Paṇḍita said, “All the fault will be upon me. I shall not go with 
 w: Āi  to see  I shall go  not  I shall go  You  for the sake of
 w: of giving up the vow and the service  the fault  —  of that  I  the bearer
 tr: I shall go to see Āi (Mother Śacī), not for Your sake. The fault of giving up my vow and my service — that I shall bear myself.”
+fn: *Amṛta-pravāha-bhāṣya*: on receiving the service of Śrī Gopīnātha, Gadādhara Paṇḍita had vowed to devote his whole life to it; by going with the Lord he would incur two faults — breaking the vow and abandoning the service. On the path of *anurāga* great souls take such faults upon themselves.
 
 ## 136
 w: so  saying  Paṇḍita Gosāñi  separately  went
@@ -736,4 +741,5 @@ w: His own promise  giving up  my promise
 w: true  to make  He jumped down  standing on the chariot
 w: holding the chariot wheel  He rushed  the earth trembling
 w: a lion  like  to kill  an elephant  His upper cloth fallen
-tr: “To make my promise true, He gave up His own: He leapt down from the chariot, took up a chariot wheel and rushed at me like a lion going to kill an elephant, so that the earth trembled, and His upper cloth fell away” (Śrīmad-Bhāgavatam 1.9.37).
+tr: ‘To make my promise true, He gave up His own: He leapt down from the chariot, took up a chariot wheel and rushed at me like a lion about to kill an elephant; the earth trembled beneath Him, and His upper cloth fell away.’ (Śrīmad-Bhāgavatam, 1.9.37)
+fn: *Anubhāṣya*: this is Bhīṣma’s prayer to Śrī Kṛṣṇa before his passing. Kṛṣṇa’s promise was to protect the Pāṇḍavas without taking up arms; Bhīṣma’s, to make Him take them up; the earth trembled and His upper cloth fell because of His fury. Heading in the edition: “The Lord breaks His own promise to keep His devotee’s.” The verse is quoted within Sārvabhauma’s words (143–146), hence the single quotation marks.
