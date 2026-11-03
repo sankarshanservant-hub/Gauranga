@@ -390,9 +390,75 @@ In the material world you are “the very best,” yet you consider yourselves �
 
 ## 271
 
-> Subheading: The great *mahājana* of former times, Mādhavendra Purī, went to Vṛndāvana alone —
+> Subheading: The great *mahājana* of former times, Mādhava Purī, went to Vṛndāvana alone —
 
 See Madhya 4.20–33, and also 172 and 179.
+
+## 272
+
+> Subheading: The Lord has no liking for large crowds —
+
+## 275
+
+> Subheading: Giving up the journey to Vṛndāvana, the Lord returns to the bank of the Gaṅgā —
+
+## 276
+
+> Subheading: The Lord comes to Purī with only a few devotees —[^276-1]
+
+## 277
+
+> Subheading: The Lord asks everyone's advice on how to reach Vṛndāvana without hindrance —
+
+## 278
+
+> Subheading: The Lord lovingly consoles Gadādhara, who was grieved at being left behind —
+
+## 279
+
+> Subheading: The Paṇḍita, full of gentle (*dakṣiṇa*) feeling toward the Lord, speaks words of love and humility —
+
+## 280
+
+> Subheading: Wherever the Lord is, that place is Vṛndāvana; apart from Vṛndāvana there are no sweet pastimes of Kṛṣṇa —
+
+## 281
+
+> Subheading: The Lord goes to Vṛndāvana only to teach people —
+
+## 280–281
+
+Śrīman Mahāprabhu had already revealed His own mood among His associates while dancing before the chariot. Śrī Mahāprabhu's heart itself is Vṛndāvana, the land of Śrī Rādhākānta's pastimes. Even so, to teach people, He goes to the earthly (*bhauma*) Vṛndāvana manifested in the material world. Ordinary people, whose vision is mundane and who are intoxicated with sense enjoyment, think that the earthly Vṛndāvana is not transcendental: that it is a particular place like any other material land, which even senses bent on enjoyment can reach with the help of money, the means of enjoyment. Just as association with other such material things gives rise to material moods, so, if one goes to see “Vṛndāvana” (?) with the idea that it is an object of sense enjoyment, or with material intelligence, one gains no spiritual, eternal good — that is, service to Śrī Kṛṣṇa, the nondual Truth. This is proved by Śrī Mahāprabhu's words “My mind is Vṛndāvana” (Madhya 13.137) and by the *Bhāgavatam* verse *āhuś ca te* (“They say that Your [lotus feet]…”).[^280-281-1] (*Śrīmad-Bhāgavatam* 10.84.8)[^280-281-2]: “One who takes this corpse-like body made of three elements for the self, who takes his wife and others for his own, who sees the object of worship in what is earthly and the holy place in water, but never in those who know the truth — he is like an ox or an ass.” In reality Mahāprabhu enacted the pastimes of travelling to Vṛndāvana, the Lord's transcendental place of pastimes, and of seeing it, only to teach materialistic people. If a conditioned soul forgets this and takes Vṛndāvana to be one of the “places of enjoyment” of the material world, he will be going against Mahāprabhu's teaching. The *prākṛta-sahajiyās* form their own idea of the holy *dhāma*, pride themselves on being “Vrajavāsīs” or “*dhāma-vāsīs*,” and proclaim it. In fact, instead of living in the spiritual Vṛndāvana, they live in dreadful *saṁsāra*, the field of their own sense gratification, and only multiply the rubbish. Pure *bhāgavatas* have no such mood or idea. Śrī Dāmodara Svarūpa is an eternal resident of Vraja, yet nothing is heard in his life of his going to the earthly Vṛndāvana. Nor does any book record such a journey by Śrī Puṇḍarīka Vidyānidhi, Śrī Haridāsa Ṭhākura, Śrīvāsa Paṇḍita, Śrī Śivānanda Sena, Śrī Rāmānanda Rāya, Śrī Śikhi Māhiti, Śrī Mādhavī Devī, Śrī Gadādhara Paṇḍita Gosvāmī and others. On the other hand, people commonly tell of many *prākṛta-sahajiyās*, *karmīs*, *jñānīs* and those with other desires — all devoid of pure *bhakti* — living in the earthly Vṛndāvana, seeing it or going there. Residence in the holy *dhāma* may give those without *bhakti* heaven or liberation, or the fruits that are won by sin, piety or renunciation; but only the pure devotee, endowed with the divine, spotless eyes meant in the verse *premāñjana-cchurita-bhakti-vilocanena* (“with eyes of devotion tinged with the salve of love”),[^280-281-3] truly and really lives in the transcendental holy *dhāma* Vṛndāvana. In a later age Ṭhākura Narottama in the village of Kheturi and Śrīnivāsa Ācārya in the village of Yājigrāma, and in the age after them Śrī Jagannātha dāsa Bābājī Mahārāja in Gauḍa-deśa, Śrī Bhagavān dāsa in Kālnā, Śrīmad Gaurakiśora dāsa Bābājī Mahārāja in Navadvīpa-dhāma, Śrī Śrīmad Bhaktivinoda Ṭhākura in Calcutta and other devotees wholly devoted to the holy name certainly never lived in any *dhāma* other than Śrī Vṛndāvana.
+
+## 282
+
+> Subheading: The Lord is asked to spend the four months of the rains in Purī —
+
+## 283
+
+> Subheading: After that the independent Lord may go wherever He likes: the devotees will not object —
+
+## 284
+
+> Subheading: This is the request of all the devotees —
+
+## 285
+
+> Subheading: At everyone's wish the Lord stays in Purī for four months —
+
+## 286
+
+> Subheading: The Paṇḍita feeds the Lord at his own home in Ṭoṭā —
+
+## 287
+
+> Subheading: The Paṇḍita's love and the Lord's submission to it are inconceivable for mortals —
+
+## 289
+
+> Subheading: Even Ananta Himself cannot find the end of Gaura's pastimes —
+
+*Thus ends the sixteenth chapter of the “Anubhāṣya.”*
 
 ---
 
@@ -405,3 +471,11 @@ See Madhya 4.20–33, and also 172 and 179.
 [^260-1]: So in the edition (scan checked): “২৬০.” By its content the section belongs to verse 264 (the Lord's instruction to Rūpa and Sanātana); in the edition it stands between sections 244 and 271.
 
 [^267-1]: In the edition couplet 267 has no number (only “॥” at the end; scan checked).
+
+[^276-1]: In the edition (scan checked) couplet 276 is numbered “১৭৬” instead of “২৭৬.”
+
+[^280-281-1]: *Śrīmad-Bhāgavatam* 10.82.48 (= Madhya 13.136).
+
+[^280-281-2]: So in the edition (scan checked): “ভা ১০।৮৪।৮”; in the standard numbering, *Śrīmad-Bhāgavatam* 10.84.13.
+
+[^280-281-3]: *Brahma-saṁhitā* 5.38.

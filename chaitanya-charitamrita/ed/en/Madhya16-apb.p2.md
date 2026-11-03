@@ -46,6 +46,16 @@ Raghunātha dāsa came back from Śāntipura to Saptagrāma and began to follow 
 
 *Prahelī*: a *prahelikā*, a riddle (*tarjā*).
 
+## 272
+
+When the *bādiyās*, that is, the *bedes* (itinerant conjurers), set up a place for their show, a crowd gathers. That I am going to Vṛndāvana with just such a crowd is not good.
+
+## 287
+
+The love that Gadādhara Paṇḍita showed when he fed the Lord, and the way the Lord relished that loving *prasāda* — neither can be described by human power.
+
+*Thus ends the sixteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^199-1]: Our verse translation reads differently: there everyone goes ashore at Mantreśvara, a dangerous place. According to the commentary, the Yavana took the Lord across the dangerous river Mantreśvara.
