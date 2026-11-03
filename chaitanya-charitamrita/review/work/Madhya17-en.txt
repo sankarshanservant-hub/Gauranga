@@ -629,12 +629,14 @@ tr: “Sārvabhauma Bhaṭṭācārya is a formidable scholar, yet I hear that i
 ## 120
 w: a sannyāsī  in name only  a great conjurer
 w: in Kāśī  not  will sell  His  wares of emotion
-tr: “He is a sannyāsī in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.
+tr: “He is a *sannyāsī* in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.
+fn: *Amṛta-pravāha-bhāṣya*: *bhāvakāli* — the ways of a *bhāvuka*, a sentimentalist. The Lord takes up this image in verses 144–145.
 
 ## 121
 w: Vedānta  hearing  do  do not  go  His  to the side
 w: of unruly people  in the company  of both worlds  ruin
 tr: “Keep hearing Vedānta and do not go near Him. The company of unruly people ruins both this world and the next.”
+fn: *Amṛta-pravāha-bhāṣya*: the unruly are those who have broken the bonds of scriptural injunctions.
 
 ## 122
 w: this  hearing  that  brāhmaṇa  great pain  felt
@@ -665,6 +667,7 @@ tr: “While speaking of Your faults he uttered Your name, saying ‘Caitanya, C
 w: in three times  the name of Kṛṣṇa  not  came  his  to the mouth
 w: with contempt  the name  he takes  hearing  I feel  pain
 tr: “But in all three times the name of Kṛṣṇa never came to his lips. He takes Your name with contempt, and hearing it pains me.
+fn: *Anubhāṣya*: *doṣa* — blasphemy. Names such as ‘Brahman’, ‘Caitanya’, ‘Ātmā’, ‘Paramātmā’ and ‘Īśvara’, as the Māyāvādī understands them, point only in part to Kṛṣṇa’s majesty, never to His generosity and sweetness. The Māyāvādīs do not believe that the name, form, qualities and pastimes of the Absolute are spiritual, and so they are great offenders; one who seeks the highest good should not hear talk of the highest goal from their lips.
 
 ## 128
 w: of this  the reason  to me  tell  mercy  showing
@@ -675,6 +678,7 @@ tr: “Please be kind and tell me the reason for this. When I see You, my mouth 
 w: the Lord  says  Māyāvādīs  to Kṛṣṇa  are offenders
 w: Brahman  ātmā  caitanya  they say  incessantly
 tr: The Lord said, “The Māyāvādīs are offenders against Kṛṣṇa. They incessantly say ‘Brahman,’ ‘ātmā,’ ‘caitanya’ (consciousness).
+fn: *Amṛta-pravāha-bhāṣya*: the Māyāvādī calls the form of Bhagavān “a form made of *māyā*” and holds His name, form, qualities and pastimes to be non-eternal. Rejecting Kṛṣṇa’s principal names (*mukhya-nāma*), he utters secondary ones (*gauṇa-nāma*) — ‘Brahman’, ‘Ātmā’, ‘Caitanya’. Even if “Kṛṣṇa” or “Govinda” escapes his lips, the name of Kṛṣṇa still does not come from his mouth, for he takes it to be an ordinary, mundane word.
 
 ## 130
 w: therefore  their  to the mouth  not  comes  the name of Kṛṣṇa
@@ -696,7 +700,8 @@ w: the name  a wish-fulfilling gem  is Kṛṣṇa
 w: of consciousness  of rasa  the embodiment
 w: complete  pure  eternally  liberated
 w: because of non-difference  of the name  and the named
-tr: “The name is a wish-fulfilling gem; it is Kṛṣṇa Himself, the embodiment of consciousness and rasa — complete, pure and eternally liberated, for the name and the named are not different.” (Padma Purāṇa)
+tr: “The name is a wish-fulfilling gem; it is Kṛṣṇa Himself, the embodiment of consciousness and rasa — complete, pure and eternally liberated, for the name and the named are not different.” (Padma Purāṇa; Viṣṇu-dharmottara)
+fn: The source as in the edition’s heading: “a saying of the *Padma Purāṇa* and the *Viṣṇu-dharmottara*”. *Anubhāṣya*: *kṛṣṇaḥ* — the name is Kṛṣṇa Himself in His original form; *pūrṇaḥ* — *māyā* cannot divide it; *śuddhaḥ* — it is unmixed with *māyā*.
 
 ## 134
 w: therefore  Kṛṣṇa’s  name  body  pastimes
@@ -713,7 +718,7 @@ w: therefore  Śrī Kṛṣṇa’s name and the rest
 w: not  can be  grasped  by the senses
 w: when turned toward service  indeed  on the tongue and the rest
 w: of itself  alone  manifests  this
-tr: “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu 1.2.234)
+tr: “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu, 1.2.234)
 
 ## 137
 w: than the bliss of Brahman  more than  full bliss  of the pastimes  the rasa
@@ -725,7 +730,8 @@ w: in his own happiness  secluded  whose mind  therefore  having cast off other 
 w: yet  by the Unconquered One’s  charming  pastimes  attracted  whose heart  about Him
 w: composed  out of mercy  who  of the truth  the lamp  the Purāṇa
 w: to him  of all  sins  the destroyer  to the son of Vyāsa  bowed am I
-tr: “His mind was absorbed in the happiness of the self, and so he had cast off every other feeling; yet his heart was drawn by the charming pastimes of the Unconquered Lord, and out of mercy he composed the Purāṇa about Him, the lamp of the truth. To him, the son of Vyāsa, the destroyer of all sins, I bow down.” (Śrīmad-Bhāgavatam 12.12.69)
+tr: “His heart was full of the happiness of the self, and so he had cast off every other feeling; yet his heart was drawn by the charming pastimes of the Unconquerable Lord, and in his mercy he brought forth the lamp of truth, the Purāṇa that tells of Him. To him, the son of Vyāsa, destroyer of all sins, I bow down.” (Śrīmad-Bhāgavatam, 12.12.69)
+fn: *Anubhāṣya*: having finished telling the *Bhāgavatam* to the sages headed by Śaunaka, Śrī Sūta Gosvāmī bows down to his guru, Śrīla Śuka Gosvāmī, Brahmarāta; *sva-sukha-nibhṛta-cetāḥ* — one whose heart is full of the happiness of the self, an *ātmārāma*.
 
 ## 139
 w: than the bliss of Brahman  more than  full bliss  are Kṛṣṇa’s qualities
@@ -738,18 +744,19 @@ w: free from knots  even  to Urukrama
 w: perform  causeless  devotion
 w: of such  qualities  is Hari
 tr: “Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.” (Śrīmad-Bhāgavatam, 1.7.10)
+fn: The same verse as Madhya 6.186; translation as there.
 
 ## 141
 w: these  all  let them be  with Kṛṣṇa’s feet  in connection
 w: of the ātmārāma  the mind  steals  of tulasī  the fragrance
-tr: “Let all this be. The fragrance of tulasī that has touched Kṛṣṇa’s feet steals the mind of one who delights in the self.
+tr: “But leave all this aside: the very fragrance of tulasī that has touched Kṛṣṇa’s feet steals the mind of one who delights in the self.
 
 ## 142
 w: of Him  the lotus-eyed  of the lotus feet
 w: with the filaments  mixed  of tulasī  of the nectar  the breeze
 w: having entered within  through its own passage  caused  in them
 w: agitation  devoted to the imperishable Brahman  even  of mind and body
-tr: “The breeze, carrying the fragrance of the tulasī mixed with the filaments of the lotus feet of the lotus-eyed Lord, entered within them through their nostrils and stirred both mind and body, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam 3.15.43)
+tr: “The breeze, carrying the fragrance of the tulasī mixed with the filaments of the lotus feet of the lotus-eyed Lord, entered within them through their nostrils and stirred both mind and body, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)
 
 ## 143
 w: therefore  the name of Kṛṣṇa  not  comes  their  to the mouth
@@ -765,6 +772,7 @@ tr: “I came to Kāśī to sell My wares of emotion, but there is no buyer; the
 w: heavy  load  bringing  I came  how  taking it  shall I go
 w: a small  a trifling  price  if I get  right here  I shall sell
 tr: “I came with a heavy load — how can I carry it back? If I get even a small price, I will sell it right here.”
+fn: *Anubhāṣya*: the small price is eager longing (*laulya*), greed (*lobha*), or taste (*ruci*) for the service of Kṛṣṇa; it cannot be had without self-surrender (compare the verse of the *Padyāvalī* cited in Madhya 8.70). *Amṛta-pravāha-bhāṣya*: the Lord sells this heavy load to the *jīvas* for its full price, faith (*śraddhā*), but here He will give it even for a small one — a mere semblance of faith (*śraddhābhāsa*).
 
 ## 146
 w: thus  saying  that  brāhmaṇa  His own  making
@@ -1219,4 +1227,3 @@ tr: The world was flooded by the ocean of Caitanya’s pastimes; everyone swims 
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
-
