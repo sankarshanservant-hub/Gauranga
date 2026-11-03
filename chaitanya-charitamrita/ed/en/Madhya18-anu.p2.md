@@ -264,6 +264,188 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 *Lāge śeladhāra*: it pierced like the point of a dart.
 
+## 179
+
+> Subheading: The *mleccha* at once releases all four, so the Lord had no occasion to see hostility toward His devotees —
+
+## 180
+
+> Subheading: Seeing the *mlecchas*, the Lord restrains His emotions —
+
+## 181
+
+> Subheading: The *mlecchas* bow to the Lord and accuse the four —
+
+## 183
+
+> Subheading: The Lord declares all four to be His own people —
+
+## 185
+
+> Subheading: One of the Paṭhāns is a “*maulānā*” —
+
+## 186
+
+> Subheading: Seeing the Lord, his heart softens, and he tries to establish the featureless (*nirviśeṣa*) Brahman —
+
+*Nirviśeṣa-brahma*: an unknowable “Lord” (*Īśvara*), devoid of any description. It is a transcendent state in which there are not the two eternal positions — “*Khodā*” (God) and “*bandā*” (servant) — and there are no spiritual pastimes.
+
+## 187
+
+> Subheading: The Lord refutes his view with the arguments of the Muslim scriptures themselves —
+
+## 189
+
+> Subheading: The Muslim scriptures first establish featurelessness, and at the end establish Brahman with attributes (*saviśeṣa*) —
+
+## 190
+
+> Subheading: At the very end of the Koran there is an indication of Kṛṣṇa, Brahman with attributes —
+
+## 193
+
+> Subheading: Love, or devotion, for that Bhagavān frees one from the bonds of *saṁsāra* and is the highest goal of human life —
+
+## 195
+
+> Subheading: The glory of love for Bhagavān —
+
+## 196
+
+> Subheading: The Koran first speaks of *karma*, *jñāna* and *yoga*, and at the end establishes devotion to Bhagavān —
+
+## 197
+
+> Subheading: Muslim scholars generally do not know the true meaning of the Koran; the later injunction, about devotion, is stronger than the earlier injunctions about *karma* and *jñāna* —
+
+## 198
+
+> Subheading: The Lord asks the *maulānā* to determine the true meaning of his scripture —
+
+## 199
+
+> Subheading: The *maulānā* accepts the Lord's words as “true” and agrees with them, admitting the weakness of heart of the Muslim scholars —
+
+## 200
+
+> Subheading: They hold firmly to featurelessness and have no faith in serving the spiritual form with attributes —
+
+*Gosāñi*: the object of worship, Bhagavān. *Sākāra*: transcending the material knowledge that human beings make use of, and possessed of a nonmaterial (*aprākṛta*) form with attributes (*saviśeṣa-vigraha*) beyond the three *guṇas*, that is, of a spiritual form.
+
+## 201
+
+> Subheading: He recognizes the Lord as “the Supreme Lord” and begs for mercy —
+
+## 202
+
+> Subheading: The *maulānā* admits that by himself he cannot make out what the goal (*sādhya*) and the means (*sādhana*) are —
+
+## 203
+
+> Subheading: At the sight of the Lord the name of Kṛṣṇa appears of itself on the *maulānā*'s tongue, and his material pride disappears —
+
+## 204
+
+> Subheading: Relying on evidence, he asks the Lord about the goal and the means —
+
+## 205
+
+> Subheading: The Lord reassures him: even the semblance (*ābhāsa*) of Kṛṣṇa's name has destroyed his heap of sins —
+
+## 206
+
+> Subheading: At the Lord's instruction, everyone takes up the name of Kṛṣṇa —
+
+## 207
+
+> Subheading: The Lord gives him the initiated name “Rāmadāsa” —
+
+## 208
+
+> Subheading: Who Bijulī Khān, the leader of the Paṭhān troop, was —
+
+## 209
+
+> Subheading: He too takes shelter at the Lord's feet, and the Lord places His foot on his head —
+
+## 210
+
+> Subheading: The Lord departs; all those Paṭhāns accept the path of renunciation (*vairāgya-dharma*) —
+
+## 211
+
+> Subheading: Their fame as “Paṭhān Vaiṣṇavas”; everywhere they sing the Lord's qualities —
+
+## 212
+
+> Subheading: The greatness of Bijulī Khān, a *mahā-bhāgavata*, spread everywhere —
+
+## 213
+
+> Subheading: Coming to the United Provinces, the Lord delivers the *mlecchas* —
+
+## 214
+
+> Subheading: Bathing in the Gaṅgā at Soro-kṣetra and the road along the bank to Prayāga —
+
+## 215
+
+> Subheading: The Lord wishes to send away the Sānoḍiyā brāhmaṇa and Kṛṣṇadāsa —
+
+*Sei vipre, kṛṣṇadāse*: at Soro the Lord sent away the Sānoḍiyā brāhmaṇa, disciple of Mādhavendra Purī, and Kṛṣṇadāsa the Rājput.
+
+## 216
+
+> Subheading: They ask leave to accompany Him as far as Prayāga —
+
+## 218
+
+> Subheading: The Lord smiles slightly, and they follow Him —
+
+## 219
+
+> Subheading: Everyone who saw the Lord on the way takes up the name of Kṛṣṇa —
+
+## 220
+
+> Subheading: Others had the chance to hear from them; in this way, through the chain of hearing and chanting, all lands were delivered —
+
+## 221
+
+> Subheading: As with the South, the Lord delivers the western lands as well —
+
+*The western country*: some say that at this time Śrīman Mahāprabhu went from Vṛndāvana to Kurukṣetra, and from there to Prayāga. At Kurukṣetra, near the temple of Bhadrakālī, the Deity of Śrī Gaura (Śrī Gaura-vigraha) is present to this day.
+
+## 222
+
+> Subheading: The Lord comes to Prayāga and for ten days has *darśana* of Triveṇī and bathes there —
+
+## 223
+
+> Subheading: The Lord's pastimes are fathomless; even Śeṣa Himself cannot describe the love in Vṛndāvana —
+
+## 224
+
+> Subheading: The author's humility: he describes only a general outline —
+
+## 225
+
+> Subheading: Only the unfortunate do not believe in Caitanya's pastimes —
+
+## 226
+
+> Subheading: The author asks all his listeners to have firm faith in Caitanya's pastimes and to accept them as the genuine, true reality —
+
+## 227
+
+> Subheading: The unbeliever and the arguer bring misfortune on themselves —
+
+## 228
+
+> Subheading: The world is flooded with the waters of the nectar ocean of the *Caitanya-caritāmṛta* —
+
+*Thus ends the eighteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^102-1]: So in the edition (checked against the scan): the subheading has «বাউল» (*bāul*), the verse has «বাতুল» (*vātula*, madman).
