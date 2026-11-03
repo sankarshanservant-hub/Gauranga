@@ -288,7 +288,7 @@ one day  on the path  a tiger  had made  lying down
 āveśe tāra gāye prabhura lāgila caraṇa  
 in ecstasy  its  against the body  the Lord’s  touched  foot
 
-(28) One day a tiger was lying on the path, and the Lord, absorbed in ecstasy, touched its body with His foot.
+(28) One day a tiger was lying on the path, and the Lord, lost in ecstasy, touched its body with His foot.
 
 প্রভু কহে, — কহ ‘কৃষ্ণ’, ব্যাঘ্র উঠিল ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ ব্যাঘ্র নাচিতে লাগিল ॥ ২৯ ॥
@@ -318,7 +318,7 @@ the Lord  in the water  His rites  performs  before Him  the elephants  came
 ‘kṛṣṇa kaha’ bali’ prabhu jala pheli’ mārilā  
 “Kṛṣṇa  say”  saying  the Lord  water  throwing  splashed
 
-(31) While the Lord was performing His rites in the water, the elephants came before Him. Crying, “Say ‘Kṛṣṇa’!”, the Lord splashed water at them.[^5]
+(31) As the Lord performed His rites in the water, the elephants came before Him. Crying, “Say ‘Kṛṣṇa’!”, the Lord splashed water at them.[^5]
 
 সেই-জল-বিন্দু-কণা লাগে যাঁর গায় ৷  
 সেই ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে, প্রেমে নাচে, গায় ॥ ৩২ ॥
@@ -458,7 +458,7 @@ peacocks and other  birds  the Lord  seeing
 saṅge cale, ‘kṛṣṇa’ bali’ nāce matta hañā  
 along with Him  go  Kṛṣṇa  saying  dance  maddened  becoming
 
-(44) Seeing the Lord, peacocks and other birds went along with Him, crying “Kṛṣṇa” and dancing as if mad.
+(44) At the sight of the Lord, peacocks and other birds went along with Him, crying “Kṛṣṇa” and dancing as if mad.
 
 ‘হরিবোল’ বলি’ প্রভু করে উচ্চধ্বনি ৷  
 বৃক্ষলতা — প্রফুল্লিত, সেই ধ্বনি শুনি’ ॥ ৪৫ ॥
@@ -478,7 +478,7 @@ in Jhārikhaṇḍa  the stationary and the moving  are  as many as
 kṛṣṇa-nāma diyā kaila premete unmatta  
 Kṛṣṇa’s name  giving  He made  with love  mad
 
-(46) All the moving and nonmoving beings of Jhārikhaṇḍa He made mad with love by giving them Kṛṣṇa’s name.[^8]
+(46) Giving Kṛṣṇa’s name to all the moving and nonmoving beings of Jhārikhaṇḍa, He made them mad with love.[^8]
 
 যেই গ্রাম দিয়া যান, যাঁহা করেন স্থিতি ৷  
 সে-সব গ্রামের লোকের হয় ‘প্রেমভক্তি’ ॥ ৪৭ ॥
@@ -535,7 +535,7 @@ to Gauḍa  Vaṅga  Utkala  the southern lands  going
 lokera nistāra kaila āpane bhramiyā  
 of the people  deliverance  He brought  Himself  wandering
 
-(52) Going to Gauḍa, Vaṅga, Utkala and the South, He delivered the people, wandering there Himself.
+(52) Going to Gauḍa, Vaṅga, Utkala and the South, He Himself wandered there and delivered the people.
 
 মথুরা যাইবার ছলে আসেন ঝারিখণ্ড ৷  
 ভিন্নপ্রায় লোক তাঁহা পরম-পাষণ্ড ॥ ৫৩ ॥
@@ -642,7 +642,7 @@ there  that  grain  the Bhaṭṭācārya  does  cooking
 phala-mūle vyañjana kare, vanya nānā śāka  
 from fruits and roots  vegetable dishes  makes  of the forest  various  greens
 
-(62–63) He kept grain for two or four days with him. Where the forest was empty and no one lived, the Bhaṭṭācārya cooked that grain and made dishes from fruits, roots and many kinds of forest greens.
+(62–63) He kept with him grain for two or four days. Where the forest was empty and no one lived, the Bhaṭṭācārya cooked that grain and made dishes from fruits, roots and many kinds of forest greens.
 
 পরম সন্তোষ প্রভুর বন্য-ভোজনে ৷  
 মহাসুখ পান, যে-দিন রহেন নির্জ্জনে ॥ ৬৪ ॥
@@ -836,7 +836,7 @@ thus  in many joys  the Lord  came  to Kāśī
 madhyāhna-snāna kaila maṇikarṇikāya āsi’  
 His midday bath  He took  at Maṇikarṇikā  coming
 
-(82) So the Lord came joyfully to Kāśī, and there He took His midday bath at Maṇikarṇikā.
+(82) So the Lord came joyfully to Kāśī, and there He took His midday bath at Maṇikarṇikā.[^14]
 
 সেইকালে তপনমিশ্র করে গঙ্গাস্নান ৷  
 প্রভু দেখি’ হৈল তাঁর কিছু বিস্ময় জ্ঞান ॥ ৮৩ ॥
@@ -846,7 +846,7 @@ at that time  Tapana Miśra  takes  a bath in the Gaṅgā
 prabhu dekhi’ haila tām̐ra kichu vismaya jñāna  
 the Lord  seeing  arose  in him  some  wonder  feeling
 
-(83) At that time Tapana Miśra was bathing in the Gaṅgā. When he saw the Lord, he was struck with wonder.
+(83) At that time Tapana Miśra was bathing in the Gaṅgā, and he was surprised to see the Lord there.
 
 ‘পূর্ব্বে শুনিয়াছি প্রভু কর্য্যাছেন সন্ন্যাস’ ৷  
 নিশ্চয় করিয়া, হৈল হৃদয়ে উল্লাস ॥ ৮৪ ॥
@@ -916,7 +916,7 @@ meal  taking  Mahāprabhu  made  lying down
 miśra-putra raghu kare pāda-samvāhana  
 Miśra’s son  Raghu  does  massaging of the feet
 
-(90) After His meal Mahāprabhu lay down to rest, and Miśra’s son Raghu massaged His feet.
+(90) After His meal Mahāprabhu lay down to rest, and Miśra’s son Raghu massaged His feet.[^15]
 
 প্রভুর ‘শেষান্ন’ মিশ্র সবংশে খাইল ৷  
 ‘প্রভু আইলা’ শুনি’ চন্দ্রশেখর আইল ॥ ৯১ ॥
@@ -966,7 +966,7 @@ by my own prārabdha  living  in Vārāṇasī
 ‘māyā’, ‘brahma’ śabda vinā nāhi śuni kāne  
 māyā  Brahman  words  except  not  I hear  with my ears
 
-(95) By my own *prārabdha*, the karma now bearing fruit, I live in Vārāṇasī, and my ears hear nothing but the words ‘*māyā*’ and ‘Brahman.’
+(95) By my own *prārabdha*, the karma now bearing fruit, I live in Vārāṇasī, and my ears hear nothing but the words ‘*māyā*’ and ‘Brahman.’[^16]
 
 ষড়্দর্শন-ব্যাখ্যা বিনা কথা নাহি এথা ৷  
 মিশ্র কৃপা করি’ মোরে শুনান কৃষ্ণকথা ॥ ৯৬ ॥
@@ -976,7 +976,7 @@ of the six philosophies the explanation  except  talk  there is no  here
 miśra kṛpā kari’ more śunāna kṛṣṇa-kathā  
 Miśra  mercy  showing  to me  makes hear  talks of Kṛṣṇa
 
-(96) Here there is no talk but explanations of the six philosophies. Only Miśra, in his kindness, lets me hear about Kṛṣṇa.
+(96) Here there is no talk but explanations of the six philosophies; but Miśra, in his kindness, lets me hear talks of Kṛṣṇa.[^17]
 
 নিরন্তর দুঁহে চিন্তি তোমার চরণ ৷  
 ‘সর্ব্বজ্ঞ ঈশ্বর’ তুমি দিলা দরশন ॥ ৯৭ ॥
@@ -996,7 +996,7 @@ I hear  —  Mahāprabhu  will go  to Śrī Vṛndāvana
 dina kata rahi’ tāra’ bhṛtya dui-jane  
 days  a few  staying  deliver  servants  two
 
-(98) I hear that Mahāprabhu is going to Śrī Vṛndāvana. Stay a few days and deliver Your two servants.”
+(98) I hear that Mahāprabhu is going to Śrī Vṛndāvana. Stay a few days and deliver Your two servants.”[^18]
 
 মিশ্র কহে, — প্রভু, যাবৎ কাশীতে রহিবা ৷  
 মোর নিমন্ত্রণ বিনা অন্য না মানিবা ॥ ৯৯ ॥
@@ -1016,7 +1016,7 @@ thus  Mahāprabhu  of two  servants  under the control
 icchā nāhi, tabu tathā rahilā dina-daśe  
 desire  there was none  yet  there  He stayed  for ten days
 
-(100) So Mahāprabhu, yielding to His two servants, stayed there ten days, though He had no wish to.
+(100) So Mahāprabhu, yielding to His two servants, stayed there ten days, though He had no wish to.[^19]
 
 মহারাষ্ট্রীয় বিপ্র আইসে প্রভু দেখিবারে ৷  
 প্রভুর রূপ-প্রেম দেখি’ হয় চমৎকারে ॥ ১০১ ॥
@@ -1026,7 +1026,7 @@ a Mahārāṣṭrian  brāhmaṇa  comes  the Lord  to see
 prabhura rūpa-prema dekhi’ haya camatkāre  
 the Lord’s  beauty and love  seeing  becomes  amazed
 
-(101) A brāhmaṇa from Mahārāṣṭra would come to see the Lord, and he was amazed to see the Lord’s beauty and love.
+(101) A brāhmaṇa from Mahārāṣṭra would come to see the Lord, and he marvelled at His beauty and His love.
 
 বিপ্র সব নিমন্ত্রয়, প্রভু নাহি মানে ৷  
 প্রভু কহে, — আজি মোর হঞাছে নিমন্ত্রণে ॥ ১০২ ॥
@@ -1036,7 +1036,7 @@ the brāhmaṇas  all  invite  the Lord  not  accepts
 prabhu kahe, — āji mora hañāche nimantraṇe  
 the Lord  says  —  today  My  there has been  invitation
 
-(102) All the brāhmaṇas invited Him, but the Lord would not accept. “Today I already have an invitation,” He would say.
+(102) All the brāhmaṇas invited Him, but the Lord would not accept. “Today I already have an invitation,” He would say.[^20]
 
 এইমত প্রতিদিন করেন বঞ্চন ৷  
 সন্ন্যাসীর সঙ্গ-ভয়ে না মানেন নিমন্ত্রণ ॥ ১০৩ ॥
@@ -1046,7 +1046,7 @@ thus  every day  He does  evading
 sannyāsīra saṅga-bhaye nā mānena nimantraṇa  
 of the sannyāsīs  of the company  in fear  not  He accepts  invitations
 
-(103) In this way He evaded them every day. Wary of the company of the *sannyāsīs*, He accepted no invitations.
+(103) In this way He evaded them every day. Wary of the company of the *sannyāsīs*, He accepted no invitations.[^21]
 
 প্রকাশানন্দ শ্রীপাদ সভাতে বসিয়া ৷  
 ‘বেদান্ত’ পড়ান বহু শিষ্যগণ লঞা ॥ ১০৪ ॥
@@ -1056,7 +1056,7 @@ Prakāśānanda  Śrīpāda  in the assembly  sitting
 ‘vedānta’ paḍāna bahu śiṣya-gaṇa lañā  
 Vedānta  teaches  many  disciples  taking
 
-(104) Prakāśānanda Śrīpāda sat in his assembly and taught Vedānta to his many disciples.
+(104) Prakāśānanda Śrīpāda sat in his assembly and taught Vedānta to his many disciples.[^22]
 
 এক বিপ্র দেখি’ আইলা প্রভুর ব্যবহার ৷  
 প্রকাশানন্দ-আগে কহে চরিত্র তাঁহার ॥ ১০৫ ॥
@@ -1166,7 +1166,7 @@ hearing  Prakāśānanda  much  laughed
 vipre upahāsa kari’ kahite lāgilā  
 at the brāhmaṇa  mockery  making  to speak  began
 
-(115) Hearing this, Prakāśānanda laughed heartily, and mocking the brāhmaṇa, he said,
+(115) Hearing this, Prakāśānanda laughed heartily, and mocking the brāhmaṇa, he said:
 
 শুনিয়াছি গৌড়দেশের সন্ন্যাসী — ‘ভাবুক’ ৷  
 কেশব-ভারতী-শিষ্য, লোকপ্রতারক ॥ ১১৬ ॥
@@ -1176,7 +1176,7 @@ I have heard  of Gauḍa  the sannyāsī  —  a sentimentalist
 keśava-bhāratī-śiṣya, loka-pratāraka  
 a disciple of Keśava Bhāratī  a deceiver of people
 
-(116) “I have heard of Him — the sentimental *sannyāsī* from Gauḍa, a disciple of Keśava Bhāratī and a deceiver of people.
+(116) “I have heard of Him — the sentimental *sannyāsī* from Gauḍa, a disciple of Keśava Bhāratī and a deceiver of people.[^23]
 
 ‘চৈতন্য’-নাম তাঁর, ভাবুকগণ লঞা ৷  
 দেশে-দেশে, গ্রামে-গ্রামে বুলে নাচাঞা ॥ ১১৭ ॥
@@ -1215,3 +1215,23 @@ from land to land  from village to village  wanders  making them dance
 [^12]: Edition heading: “The Lord bathes in springs three times a day and keeps off the cold with a wood fire.”
 
 [^13]: *Paramānanda-mādhava*, “Mādhava, the supreme bliss.” *Anubhāṣya*: the words name both Śrī Paramānanda Svāmī of the Viṣṇusvāmī line and Bhagavān Himself, the worshipful Lord of Śrīdhara Svāmī; the mute becomes eloquent in chanting of Kṛṣṇa, and the lame crosses the mountain, doing even the impossible in Kṛṣṇa’s service. Edition heading: the sixth verse of Śrīdhara Svāmī’s invocation at the start of his *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 1.1.1.
+
+[^14]: *Anubhāṣya*: Kāśī, also called Vārāṇasī or Avimukta, is a most ancient city, named after the rivers Asi and Varuṇā. The name of the Maṇikarṇikā ghāṭa is explained in different ways: here a jewel (*maṇi*) fell from the ear (*karṇa*) of Viṣṇu — or, some say, of Śiva; or here Viśvanātha places in the ear of the dying the *tāraka-brahma*, the name of Rāma.
+
+[^15]: *Amṛta-pravāha-bhāṣya*: this is Raghunātha, Tapana Miśra’s son, later renowned as Raghunātha Bhaṭṭa Gosvāmī.
+
+[^16]: *Anubhāṣya*: in Kāśī, chief holy place of the Śaivas and of the worshippers of five deities, there is no talk of serving Hari, and for a devotee of Gaura it is no place to live; so Candraśekhara bitterly says he lives there by his *prārabdha*, for past sins. This is self-reproach: a pure devotee may speak of himself so, but he does not reap the fruits of good and bad deeds; even *sādhana-bhakti* destroys sin, its seed and ignorance. Edition heading: “Kāśī, where there is no talk of serving Hari, is the dwelling of the dry Māyāvādīs.”
+
+[^17]: *Anubhāṣya*: the six *darśanas* are Vaiśeṣika (of the sage Kaṇāda), Nyāya (Gotama), Yoga (Patañjali), Sāṅkhya (Kapila), Pūrva- or Karma-mīmāṁsā (Jaimini) and Uttara- or Brahma-mīmāṁsā, that is, Vedānta (Vedavyāsa).
+
+[^18]: *Amṛta-pravāha-bhāṣya*: the two servants are Candraśekhara and Tapana Miśra.
+
+[^19]: *Anubhāṣya*: Madhya 1.239 says that this time the Lord stayed four days in Tapana Miśra’s house in Kāśī. Edition heading: “Bhagavān is subject to His devotees.”
+
+[^20]: Edition heading: “Māyāvādī brāhmaṇas, not Vaiṣṇavas, are unfit to give the Lord His meals.”
+
+[^21]: Edition heading: “The Lord, playing the part of an ācārya, avoids the company of the Māyāvādīs.”
+
+[^22]: *Anubhāṣya*: Prakāśānanda was an *ekadaṇḍī sannyāsī* of Śaṅkara’s line who lived in Kāśī in Mahāprabhu’s time; the Lord Himself speaks of him in the *Caitanya-bhāgavata* (Madhya 3 and 20): explaining the Vedas, he rejects His form (*vigraha*) and calls His body, pastimes and abode false. He is in no way the same person as the *tridaṇḍī-svāmī* Śrī Prabodhānanda Sarasvatī, a follower of Rāmānuja from Śrī Raṅga-kṣetra, the guru and uncle of Śrīla Gopāla Bhaṭṭa Gosvāmī.
+
+[^23]: *Anubhāṣya*: *bhāvuka*, “sentimentalist”: so the Māyāvādī Prakāśānanda calls the Lord, for he confuses Mahāprabhu’s transcendental *bhāva* with the artificial, short-lived fervour of those who follow a religion of the mind (*mano-dharma*); even the pure devotee’s spiritual chanting, dancing and music he puts on a level with worldly song and dance. Edition heading: “Prakāśānanda spews the poison of his Māyāvāda.”
