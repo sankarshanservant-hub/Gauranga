@@ -180,7 +180,7 @@ Where there were no brāhmaṇas by birth (*śaukra-vipras*), the Bhaṭṭācā
 
 > Subheading: The words of Śrīdhara Svāmī, the sixth verse of the *maṅgalācaraṇa* at the beginning of his commentary on *Śrīmad-Bhāgavatam* 1.1.1 in the *Bhāvārtha-dīpikā* —
 
-**yat** (whose) **kṛpā** (mercy) **mūkam** (even one without the power of speech) **vācālam** (eloquent, devoted to singing of Kṛṣṇa) **karoti** (makes), **paṅgum** (even one unable to walk) **girim** (a mountain) **laṅghayate** (makes cross; that is, enables one to accomplish even the impossible in the service of Kṛṣṇa), **paramānanda-mādhavam** (Śrī Paramānanda Svāmī, of the line of Śrī Viṣṇusvāmī, and my own worshipful Lord, Śrī Bhagavān) **aham** **vande** (I worship).[^80-1]
+**yat** (whose) **kṛpā** (mercy) **mūkam** (even one without the power of speech) **vācālam** (eloquent, devoted to singing of Kṛṣṇa) **karoti** (makes), **paṅgum** (even one unable to walk) **girim** (a mountain) **laṅghayate** (makes cross; that is, enables one to accomplish even the impossible in the service of Kṛṣṇa), **paramānanda-mādhavam** (Śrī Paramānanda Svāmī, of the line of Śrī Viṣṇusvāmī, and my own worshipful Lord, Śrī Bhagavān) **aham** **vande** (I worship).
 
 ## 81
 
@@ -763,8 +763,6 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 *Thus ends the seventeenth chapter of the “Anubhāṣya.”*
 
 ---
-
-[^80-1]: The verse translation reads differently: “I respectfully bow down to the Supreme Lord, whose being is full of supreme bliss.”
 
 [^95-1]: So in the edition. In sense, *Śrīmad-Bhāgavatam* 5.19.24 is probably meant (one should not live where the rivers of talk about Vaikuṇṭha do not flow).
 
