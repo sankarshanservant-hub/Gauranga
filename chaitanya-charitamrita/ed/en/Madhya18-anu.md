@@ -160,7 +160,7 @@ Gāṭholī-grāma is a village near Gopālapura, or Bilchu. Tradition says that
 
 > Subheading: Gopāla stays for a month in Mathurā, in the house of Viṭhṭhaleśvara, Vallabha's son —
 
-*Viṭhṭhaleśvara.* In the fifth wave of the *Bhakti-ratnākara*: “Viṭhṭhala served [Gopāla]; Kṛṣṇa Caitanya longed intensely to see Him.[^47-1] Śrī Viṭhṭhalanātha was the son of Vallabha Bhaṭṭa; how much love he showed cannot be told. Gopāla came to the village of ‘Gāṭholī’ ‘on a pretext’; seeing Him, Gaurahari was absorbed in singing and dancing. Śrī Dāsa Gosvāmī and others took counsel together and made Śrī Viṭhṭhaleśvara the one in charge of the service. After the passing of his father, Śrī Vallabha Bhaṭṭa, he lived for some time in Mathurā in seclusion.”
+*Viṭhṭhaleśvara.* In the fifth wave of the *Bhakti-ratnākara*: “Viṭhṭhala served [Gopāla]; Kṛṣṇa Caitanya longed intensely to see Him.[^47-1] Śrī Viṭhṭhalanātha was the son of Vallabha Bhaṭṭa; how much love he showed cannot be told. Gopāla came to the village of ‘Gāṭholī’ ‘on a pretext’; seeing Him, Gaurahari was absorbed in singing and dancing. Śrī Dāsa Gosvāmī and others took counsel together and made Śrī Viṭhṭhaleśvara the one in charge of the service. After the departure of his father, Śrī Vallabha Bhaṭṭa, he lived for some time in Mathurā in seclusion.”
 
 Śrī Vallabha Bhaṭṭa had two sons. The elder, “Gopīnātha,” was born in 1432 of the Śaka era, and the younger, “Viṭhṭhalanātha,” was born in 1437 Śaka and left this world in 1507 Śaka. Viṭhṭhala had seven sons: Giridhara, Govinda, Bālakṛṣṇa, Gokuleśa, Raghunātha, Yadunātha and Ghanaśyāma. Viṭhṭhala completed the remaining part of the commentary on the *Brahma-sūtra* that his father had left unfinished, wrote notes (*ṭippanī*) on the *Subodhinī*, and composed the *Vidvan-maṇḍana*, the *Śṛṅgāra-rasa-maṇḍana*, the *Nyāsādeśa-vivaraṇa* and other books. “For a full seventy years and twenty-eight days Śrīmad Viṭhṭhala Dīkṣita shone upon the earth.”
 
@@ -684,7 +684,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 > Subheading: Seeing the Lord, his heart softens, and he tries to establish the featureless (*nirviśeṣa*) Brahman —
 
-*Nirviśeṣa-brahma*: an unknowable “Lord” (*Īśvara*), devoid of any description. It is a transcendent state in which there are not the two eternal positions — “*Khodā*” (God) and “*bandā*” (servant) — and there are no spiritual pastimes.
+*Nirviśeṣa-brahma*: an unknowable “Lord” (*Īśvara*), devoid of any description. It is a transcendent state in which there are not the two eternal relationships — “*Khodā*” (God) and “*bandā*” (servant) — and there are no spiritual pastimes.
 
 ## 187
 
