@@ -428,7 +428,7 @@ dance  weep  the tigers  together with the does
 balabhadra-bhaṭṭācārya dekhe apūrva-raṅge  
 Balabhadra Bhaṭṭācārya  watches  with wonder at the unprecedented sport
 
-(41) The tigers danced and wept together with the does, and Balabhadra Bhaṭṭācārya watched this unprecedented sport.
+(41) The tigers danced and wept together with the does, and Balabhadra Bhaṭṭācārya watched, amazed at this wondrous play.
 
 ব্যাঘ্র-মৃগ অন্যোন্যে করে আলিঙ্গন ৷  
 মুখে মুখ দিয়া করে অন্যোন্যে চুম্বন ॥ ৪২ ॥
@@ -478,7 +478,7 @@ in Jhārikhaṇḍa  the stationary and the moving  are  as many as
 kṛṣṇa-nāma diyā kaila premete unmatta  
 Kṛṣṇa’s name  giving  He made  with love  mad
 
-(46) All the moving and nonmoving beings of Jhārikhaṇḍa He made mad with love by giving them Kṛṣṇa’s name.
+(46) All the moving and nonmoving beings of Jhārikhaṇḍa He made mad with love by giving them Kṛṣṇa’s name.[^8]
 
 যেই গ্রাম দিয়া যান, যাঁহা করেন স্থিতি ৷  
 সে-সব গ্রামের লোকের হয় ‘প্রেমভক্তি’ ॥ ৪৭ ॥
@@ -515,7 +515,7 @@ although  the Lord  of crowds of people  in fear
 prema ‘gupta’ karena, bāhire nā prakāśe  
 His love  hidden  keeps  outwardly  not  shows
 
-(50) Although the Lord, wary of crowds, kept His love hidden and did not show it outwardly,
+(50) Although the Lord, wary of crowds, kept His love hidden and did not show it outwardly,[^9]
 
 তথাপি তাঁর দর্শন-শ্রবণ-প্রভাবে ৷  
 সকল দেশের লোক হৈল ‘বৈষ্ণবে’ ॥ ৫১ ॥
@@ -543,19 +543,19 @@ of the people  deliverance  He brought  Himself  wandering
 mathurā yāibāra chale āsena jhārikhaṇḍa  
 to Mathurā  going  on the pretext  He comes  to Jhārikhaṇḍa  
 bhinna-prāya loka tām̐hā parama-pāṣaṇḍa  
-almost outsiders  the people  there  great unbelievers
+almost savage  the people  there  great unbelievers
 
-(53) On the pretext of going to Mathurā He came to Jhārikhaṇḍa, where the people lived almost outside the Vedic order and were great unbelievers.
+(53) Ostensibly on His way to Mathurā, He came to Jhārikhaṇḍa, where the people were half-savage and the worst of unbelievers.[^10]
 
 নাম-প্রেম দিয়া কৈল সবার নিস্তার ৷  
 চৈতন্যের গূঢ়লীলা বুঝিতে শক্তি কার ॥ ৫৪ ॥
 
 nāma-prema diyā kaila sabāra nistāra  
-the Name and love  giving  He made  of all  the deliverance  
+the name and love  giving  He made  of all  the deliverance  
 caitanyera gūḍha-līlā bujhite śakti kāra  
 Caitanya’s  hidden pastimes  to understand  the power  whose
 
-(54) Giving them the Name and love, He delivered them all. Who has the power to understand the hidden pastimes of Caitanya?
+(54) Giving them the holy name and love, He delivered them all. Who has the power to understand the hidden pastimes of Caitanya?
 
 বন দেখি’ ভ্রম হয় এই ‘বৃন্দাবন’ ৷  
 শৈল দেখি’ মনে হয় এই ‘গোবর্দ্ধন’ ॥ ৫৫ ॥
@@ -615,7 +615,7 @@ where  brāhmaṇas  there are none  there  respectable śūdras
 āsi’ sabe bhaṭṭācārye kare nimantraṇa  
 coming  all  the Bhaṭṭācārya  make  invitation
 
-(60) Where there were no brāhmaṇas, respectable men of the *śūdra* community came and invited the Bhaṭṭācārya.
+(60) Where there were no brāhmaṇas, respectable men of the *śūdra* community came and invited the Bhaṭṭācārya.[^11]
 
 ভট্টাচার্য্য পাক করে বন্য-ব্যঞ্জন ৷  
 বন্য-ব্যঞ্জনে প্রভুর আনন্দিত মন ॥ ৬১ ॥
@@ -672,7 +672,7 @@ in the springs  in warm water  a bath  three times
 dui-sandhyā agni-tāpa kāṣṭhera apāra  
 at both twilights  the warmth of a fire  of wood  without limit
 
-(66) He bathed three times a day in the warm water of springs, and at dawn and dusk He sat by a fire, for there was no end of firewood.
+(66) He bathed three times a day in the warm water of springs, and at dawn and dusk He warmed Himself at a fire, for there was no end of firewood.[^12]
 
 নিরন্তর প্রেমাবেশে নির্জ্জনে গমন ৷  
 সুখ অনুভবি’ প্রভু কহেন বচন ॥ ৬৭ ॥
@@ -765,12 +765,12 @@ Kṛṣṇa’s mercy  without  any  happiness  not  there is
 (75) He is an ocean of mercy, compassionate to the poor and the fallen. Without Kṛṣṇa’s mercy there is no happiness at all.”
 
 ভট্টাচার্য্যে আলিঙ্গিয়া তাঁহারে কহিল ৷  
-তোমার প্রসাদে আমি এত সুখ পাইল ॥ ৭৬ ॥
+তোমার প্রসাদে এত সুখ পাইল ॥ ৭৬ ॥
 
 bhaṭṭācārye āliṅgiyā tām̐hāre kahila  
 the Bhaṭṭācārya  embracing  to him  He said  
-tomāra prasāde āmi eta sukha pāila  
-by your  grace  I  so much  happiness  have found
+tomāra prasāde eta sukha pāila  
+by your  grace  so much  happiness  I have found
 
 (76) Embracing the Bhaṭṭācārya, He said to him, “By your kindness I have found so much happiness.”
 
@@ -816,7 +816,7 @@ whose mercy  to Him  I  bow down
 paramānanda-mādhavam  
 Mādhava who is the supreme bliss
 
-(80) “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and makes the lame cross mountains.” (Śrīdhara Svāmī, Bhāvārtha-dīpikā on Śrīmad-Bhāgavatam 1.1.1)[^8]
+(80) “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and lets the lame cross a mountain.” (Śrīdhara Svāmī, *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 1.1.1)[^13]
 
 এইমত বলভদ্র করেন স্তবন ৷  
 প্রেমসেবা করি’ তুষ্ট কৈল প্রভুর মন ॥ ৮১ ॥
@@ -1204,4 +1204,14 @@ from land to land  from village to village  wanders  making them dance
 
 [^7]: *Anubhāṣya*: so Brahmā saw Vṛndāvana when, after he had stolen the calves and cowherd boys, Kṛṣṇa mercifully lifted the veil of His māyā from him: it is the abode of Ajita, and by its own glory anger, greed, thirst and the like had fled from it.
 
-[^8]: *Paramānanda-mādhava*, “Mādhava, the supreme bliss.” According to the *Anubhāṣya*, the words name both Śrī Paramānanda Svāmī of the Viṣṇusvāmī line and Bhagavān Himself, the worshipful Lord of Śrīdhara Svāmī.
+[^8]: *Amṛta-pravāha-bhāṣya*: Jhārikhaṇḍa is a well-known forest region on the way to Vṛndāvana — today the hill and forest states of Athgarh, Dhenkanal, Angul, Lahara, Keonjhar, Bamra, Bonai, Gangpur, Chota Nagpur, Jashpur, Surguja and others. Edition heading: “In Jhārikhaṇḍa the Lord delivers all beings, moving and nonmoving — that is, He gives them devotion to Kṛṣṇa.”
+
+[^9]: Edition heading: “Though before outsiders the Lord hides the signs of His love, people gain bhakti merely by seeing Him and hearing Him chant the name.”
+
+[^10]: *Anubhāṣya*: *bhinna-prāya* — living apart from cultured society, that is, “almost savage”. Edition heading: “In Jhārikhaṇḍa the Lord delivers even people wholly turned away from Kṛṣṇa.”
+
+[^11]: *Anubhāṣya*: where there were no brāhmaṇas by birth, the Bhaṭṭācārya was invited by “*śūdra-mahājanas*” — men born as śūdras who were brāhmaṇas by initiation (*daikṣya-brāhmaṇas*). By the rules of Śaṅkara’s sannyāsīs alms may be accepted only in the house of a brāhmaṇa by birth, but Mahāprabhu looked not at birth, only at whether a man was a Vaiṣṇava. Edition heading: “The Lord is served by brāhmaṇas by initiation.”
+
+[^12]: Edition heading: “The Lord bathes in springs three times a day and keeps off the cold with a wood fire.”
+
+[^13]: *Paramānanda-mādhava*, “Mādhava, the supreme bliss.” *Anubhāṣya*: the words name both Śrī Paramānanda Svāmī of the Viṣṇusvāmī line and Bhagavān Himself, the worshipful Lord of Śrīdhara Svāmī; the mute becomes eloquent in chanting of Kṛṣṇa, and the lame crosses the mountain, doing even the impossible in Kṛṣṇa’s service. Edition heading: the sixth verse of Śrīdhara Svāmī’s invocation at the start of his *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 1.1.1.

@@ -222,7 +222,7 @@ tr: When the Lord said, “Say ‘Kṛṣṇa! Kṛṣṇa!’” the tigers and
 ## 41
 w: dance  weep  the tigers  together with the does
 w: Balabhadra Bhaṭṭācārya  watches  with wonder at the unprecedented sport
-tr: The tigers danced and wept together with the does, and Balabhadra Bhaṭṭācārya watched this unprecedented sport.
+tr: The tigers danced and wept together with the does, and Balabhadra Bhaṭṭācārya watched, amazed at this wondrous play.
 
 ## 42
 w: tigers and deer  one another  do  embracing
@@ -248,6 +248,7 @@ tr: The Lord called aloud, “Hari bol!” and the trees and creepers rejoiced t
 w: in Jhārikhaṇḍa  the stationary and the moving  are  as many as
 w: Kṛṣṇa’s name  giving  He made  with love  mad
 tr: All the moving and nonmoving beings of Jhārikhaṇḍa He made mad with love by giving them Kṛṣṇa’s name.
+fn: *Amṛta-pravāha-bhāṣya*: Jhārikhaṇḍa is a well-known forest region on the way to Vṛndāvana — today the hill and forest states of Athgarh, Dhenkanal, Angul, Lahara, Keonjhar, Bamra, Bonai, Gangpur, Chota Nagpur, Jashpur, Surguja and others. Edition heading: “In Jhārikhaṇḍa the Lord delivers all beings, moving and nonmoving — that is, He gives them devotion to Kṛṣṇa.”
 
 ## 47
 w: which  village  through  He goes  where  He makes  a stay
@@ -265,6 +266,7 @@ tr: If anyone heard Kṛṣṇa’s name from His mouth, another heard it from t
 w: although  the Lord  of crowds of people  in fear
 w: His love  hidden  keeps  outwardly  not  shows
 tr: Although the Lord, wary of crowds, kept His love hidden and did not show it outwardly,
+fn: Edition heading: “Though before outsiders the Lord hides the signs of His love, people gain bhakti merely by seeing Him and hearing Him chant the name.”
 
 ## 51
 w: still  His  of seeing and hearing  by the power
@@ -278,13 +280,14 @@ tr: Going to Gauḍa, Vaṅga, Utkala and the South, He delivered the people, wa
 
 ## 53
 w: to Mathurā  going  on the pretext  He comes  to Jhārikhaṇḍa
-w: almost outsiders  the people  there  great unbelievers
-tr: On the pretext of going to Mathurā He came to Jhārikhaṇḍa, where the people lived almost outside the Vedic order and were great unbelievers.
+w: almost savage  the people  there  great unbelievers
+tr: Ostensibly on His way to Mathurā, He came to Jhārikhaṇḍa, where the people were half-savage and the worst of unbelievers.
+fn: *Anubhāṣya*: *bhinna-prāya* — living apart from cultured society, that is, “almost savage”. Edition heading: “In Jhārikhaṇḍa the Lord delivers even people wholly turned away from Kṛṣṇa.”
 
 ## 54
-w: the Name and love  giving  He made  of all  the deliverance
+w: the name and love  giving  He made  of all  the deliverance
 w: Caitanya’s  hidden pastimes  to understand  the power  whose
-tr: Giving them the Name and love, He delivered them all. Who has the power to understand the hidden pastimes of Caitanya?
+tr: Giving them the holy name and love, He delivered them all. Who has the power to understand the hidden pastimes of Caitanya?
 
 ## 55
 w: a forest  seeing  the illusion  arises  this  Vṛndāvana
@@ -315,6 +318,7 @@ tr: Some brought grain and left it with the Bhaṭṭācārya; some brought milk
 w: where  brāhmaṇas  there are none  there  respectable śūdras
 w: coming  all  the Bhaṭṭācārya  make  invitation
 tr: Where there were no brāhmaṇas, respectable men of the *śūdra* community came and invited the Bhaṭṭācārya.
+fn: *Anubhāṣya*: where there were no brāhmaṇas by birth, the Bhaṭṭācārya was invited by “*śūdra-mahājanas*” — men born as śūdras who were brāhmaṇas by initiation (*daikṣya-brāhmaṇas*). By the rules of Śaṅkara’s sannyāsīs alms may be accepted only in the house of a brāhmaṇa by birth, but Mahāprabhu looked not at birth, only at whether a man was a Vaiṣṇava. Edition heading: “The Lord is served by brāhmaṇas by initiation.”
 
 ## 61
 w: the Bhaṭṭācārya  cooking  does  of forest vegetables
@@ -341,7 +345,8 @@ tr: The Bhaṭṭācārya served Him lovingly, like a servant, and his brāhma�
 ## 66
 w: in the springs  in warm water  a bath  three times
 w: at both twilights  the warmth of a fire  of wood  without limit
-tr: He bathed three times a day in the warm water of springs, and at dawn and dusk He sat by a fire, for there was no end of firewood.
+tr: He bathed three times a day in the warm water of springs, and at dawn and dusk He warmed Himself at a fire, for there was no end of firewood.
+fn: Edition heading: “The Lord bathes in springs three times a day and keeps off the cold with a wood fire.”
 
 ## 67
 w: constantly  in the ecstasy of love  in solitude  travelling
@@ -390,7 +395,7 @@ tr: He is an ocean of mercy, compassionate to the poor and the fallen. Without K
 
 ## 76
 w: the Bhaṭṭācārya  embracing  to him  He said
-w: by your  grace  I  so much  happiness  have found
+w: by your  grace  so much  happiness  I have found
 tr: Embracing the Bhaṭṭācārya, He said to him, “By your kindness I have found so much happiness.”
 
 ## 77
@@ -413,8 +418,8 @@ w: the mute  makes  eloquent
 w: the lame  makes cross  a mountain
 w: whose mercy  to Him  I  bow down
 w: Mādhava who is the supreme bliss
-tr: “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and makes the lame cross mountains.” (Śrīdhara Svāmī, Bhāvārtha-dīpikā on Śrīmad-Bhāgavatam 1.1.1)
-fn: *Paramānanda-mādhava*, “Mādhava, the supreme bliss.” According to the *Anubhāṣya*, the words name both Śrī Paramānanda Svāmī of the Viṣṇusvāmī line and Bhagavān Himself, the worshipful Lord of Śrīdhara Svāmī.
+tr: “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and lets the lame cross a mountain.” (Śrīdhara Svāmī, *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 1.1.1)
+fn: *Paramānanda-mādhava*, “Mādhava, the supreme bliss.” *Anubhāṣya*: the words name both Śrī Paramānanda Svāmī of the Viṣṇusvāmī line and Bhagavān Himself, the worshipful Lord of Śrīdhara Svāmī; the mute becomes eloquent in chanting of Kṛṣṇa, and the lame crosses the mountain, doing even the impossible in Kṛṣṇa’s service. Edition heading: the sixth verse of Śrīdhara Svāmī’s invocation at the start of his *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 1.1.1.
 
 ## 81
 w: thus  Balabhadra  offers  praise
