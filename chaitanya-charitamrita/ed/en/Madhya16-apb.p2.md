@@ -26,6 +26,10 @@ Mantreśvara is the name of a large river near Diamond Harbour. Along this river
 
 Pāṇihāṭī is the village of Pāṇihāṭī on the bank of the Gaṅgā, not far from the *śrīpāṭa* of Khaḍadaha.
 
+## 205–210
+
+The present name of Kumārahaṭṭa is “Hālisahara.” Soon after Mahāprabhu took *sannyāsa*, Śrīvāsa Paṇḍita left his home in Navadvīpa and built a house in Kumārahaṭṭa. From Kumārahaṭṭa the Lord went to Kāñcanapallī, that is, to Kāñcaḍāpāḍā, to the house of Śivānanda Sena, and then to the house of Vāsudeva Datta, near Śivānanda's house. From there the Lord went to Śrī Vidyānagara on the western bank of Śrī Navadvīpa. (Because of the crowds) He came from Vidyānagara to the village of Kuliyā and stayed in the house of Mādhava dāsa. Staying there seven days, He freed Devānanda and others from their offences. Because Kavirāja Gosvāmī mentions here the Lord's coming in this way to the house of the Ācārya of Śāntipura, many people suspect that there must be some “Kuliyā” near Kāñcaḍāpāḍā. One may surmise that this false notion gave rise to some “new Kuliyār Pāṭ.” In fact Mahāprabhu went to the house of the Ācārya of Śāntipura straight from Vāsudeva's house. That from there He went to the other (western) bank of Navadvīpa — to Vidyānagara, to the house of Vidyā-vācaspati, and to the village of Kuliyā — is clearly described in the *Śrī Caitanya-bhāgavata*, the *Śrī Caitanya-maṅgala*, the *Śrī Caitanya-candrodaya-nāṭaka*, Premadāsa's Bengali rendering, and the *Śrī Caitanya-carita-kāvya*. Śrī Kavirāja Gosvāmī did not describe this journey in order, and this is the root of all these disturbances and doubts.
+
 ---
 
 [^199-1]: Our verse translation reads differently: there everyone goes ashore at Mantreśvara, a dangerous place. According to the commentary, the Yavana took the Lord across the dangerous river Mantreśvara.

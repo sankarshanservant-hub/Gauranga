@@ -165,3 +165,51 @@ The dangerous river (*duṣṭa-nada*): a hard waterway infested with river pira
 ## 202
 
 > Subheading: In that boat the Lord arrives at Pāṇihāṭī, at Rāghava's house, and shows mercy to the boatman —
+
+## 203
+
+> Subheading: Crowds gather at the Lord's arrival —
+
+## 204
+
+> Subheading: Because of the crowds Rāghava brings the Lord to his home with great difficulty —[^204-1]
+
+## 205
+
+> Subheading: After staying one day in Rāghava's house, the Lord comes to Kumārahaṭṭa, to Śrīvāsa's house —
+
+## 206
+
+> Subheading: Then, close by, He comes first to Śivānanda's house and afterwards to Vāsudeva's —
+
+## 207
+
+> Subheading: Next the Lord comes to Vidyānagara, to the house of Vidyā-vācaspati, and, seeing the huge crowds, goes secretly to Kuliyā —
+
+The Lord stayed five days in Vācaspati's house — see Madhya 1.151.
+
+Vācaspati's house was in “Vidyānagara,” within Jahnu-dvīpa, near Koladvīpa; Devānanda Paṇḍita lived there — see *Caitanya-bhāgavata*, Madhya 21 and Antya 3.
+
+Kuliyā. In the *Śrī Caitanya-candrodaya-nāṭaka*, Act 9 (the words spoken to the king by the men whom Rāya had sent and who returned from Navadvīpa to Kaṭaka): “Then He came to Kumārahaṭṭa, to the house of Śrīvāsa Paṇḍita. *** Then He came to Advaita's house, where Haridāsa greeted Him, and likewise, by the river route, He landed across from Navadvīpa, in the village named Kuliyā, at the house of Mādhava dāsa. ** Having stayed there seven days in this way, He set out again along the bank.” In the *Śrī Caitanya-carita-mahākāvya*: “On the next day the beautiful Lord came to a certain place on the western bank of the Gaṅgā, across from the land of Śrī Navadvīpa, and with His whole form gave full joy to the eyes of all living beings.” *Caitanya-bhāgavata*, Antya 3: “With all His associates Śrī Gaurasundara came unexpectedly and stayed at his (Vidyā-vācaspati's) house. In Navadvīpa and all around the news spread: ‘The crest-jewel of *sannyāsīs* has come to Vācaspati's house!’ Countless multitudes, crying ‘Hari! Hari!’, set out to see Gaurāṅga Śrī Hari. In the crowd no one could find a path; breaking the branches of the forest, people went in every direction. Wherever there was forest, the crowd passed through it, and in a moment it all became fine roads. In a moment all the people reached the ferry, and the ferrymen did not know how to take them across. Vācaspati Mahāśaya came quickly and gathered many boats. But no one waited for the boats any more; they crossed in various ways, each as he could. In this way everyone crossed the Gaṅgā, and all of them clasped Vācaspati's feet. ** The Lord went secretly to the town of Kuliyā — the Lord of Vaikuṇṭha came to Kuliyā. ** All the people, crying ‘Hari,’ at once set out with Vācaspati in great delight. ‘The jewel of *sannyāsīs* has come to the town of Kuliyā!’ — at that moment a great cry rose on every side. Between Nadīyā and Kuliyā there is only the Gaṅgā: as soon as they heard, all the people ran there in great joy. However great the crowds had been in Vācaspati's village (Vidyānagara), millions of times more now filled the whole place. Hundreds of thousands of boats came from who knows where; I do not know how many crossed, and in how many ways. Hundreds of thousands of people floated in the waters of the Jāhnavī, all crossing in great eagerness. Having crossed the Gaṅgā on their own, they all embraced one another and raised the cry of Hari. In a moment the village of Kuliyā — the town and the fields around it — was so full that no space was left. In a moment Vācaspati Mahāśaya came, but he could not find where the Lord was staying. ** All the sinners there were when the Lord revealed Himself in Kuliyā — the high, the middling and the low — were all delivered. When Śrī Kṛṣṇa Caitanya came to the village of Kuliyā, there was no one whom the Lord did not bless.”
+
+Nityānanda Prabhu's *saṅkīrtana* with His associates while He lived in Navadvīpa (*Caitanya-bhāgavata*, Antya 6): “Khānāyoḍā, Baḍagāchi and Do-gāchiyā; at times He crosses the Gaṅgā to Kuliyā.” In the *Caitanya-maṅgala*: “After bathing in the Gaṅgā, the Lord went through Rāḍha-deśa and in due course arrived at the town of Kuliyā. At His mother's word He went again to Navadvīpa — to Bārakoṇā Ghāṭa, near His own house.” Premadāsa: “In the midst of Nadīyā, as everyone knows, is a place called ‘Kuliyā-Pāhāḍapura.’” In the *Bhakti-ratnākara* of Śrī Narahari Cakravartī, or Ghanaśyāma dāsa (wave 12): “Look, Śrīnivāsa, at Kuliyā Pāhāḍapura; formerly it was known as ‘Koladvīpa-parvata.’” In his *Navadvīpa-parikramā*: “The village of Kuliyā-Pāhāḍapura; formerly it was called Koladvīpa-parvata.” What was Kuliyā is the place still known as “Bāhir-dvīpa” — the present town of Navadvīpa — together with Koler Gañj, Kola-āmāda, Koler Daha, Gadakhāli and other places. Therefore the village that in recent times has been fancied to be “Kuliyār Pāṭ” can by no means be the “ancient Kuliyā.”
+
+## 208
+
+> Subheading: In Kuliyā the Lord stays at Mādhava dāsa's house, and countless people receive His *darśana* —
+
+Mādhava dāsa. Yudhiṣṭhira Caṭṭopādhyāya was born in the family of Śrīkara Caṭṭopādhyāya. He and his kinsmen moved from the village of Bilva-grāma and from Pāṭuli to “Kuliyā-Pāhāḍapura,” or “Pāḍapura,” within Navadvīpa. Yudhiṣṭhira's eldest son was Mādhava dāsa, the middle one Haridāsa, and the youngest Kṛṣṇasampati Caṭṭopādhyāya; their everyday names were “Chakaḍi,” “Tinakaḍi” and “Dukaḍi” respectively. The descendants of Mādhava dāsa's grandson Vaṁśīvadana, and of his grandson Rāmacandra and others, live to this day in Bāghnāpāḍā, Baiṁci and other places.
+
+## 209
+
+> Subheading: The Lord delivered many offenders in Kuliyā, so Kuliyā is “the *pāṭa* of Aparādha-bhañjana,” the place where offences were forgiven —
+
+See Madhya 1.153–154.
+
+## 210
+
+> Subheading: The Lord goes to Advaita's house and meets Śacī —
+
+---
+
+[^204-1]: In the edition couplet 204 has no number (only “॥” at the end; scan checked).
