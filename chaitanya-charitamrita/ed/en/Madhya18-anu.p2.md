@@ -70,6 +70,8 @@ See Ādi 2.96.
 
 > Subheading: Before His dear devotee, Bhagavān's true nature (*svarūpa*) reveals itself of its own accord —
 
+See Ādi 3.85–89. Even when musk is tied in the corner of a cloth, its scent breaks through the fabric and fills every direction; in the same way, though You hide Yourself under the covering of a devotee-*jīva*, Your nature as Bhagavān does not stay hidden.
+
 ## 120
 
 > Subheading: Though He is Adhokṣaja, the Lord still draws the whole world to Himself —
@@ -82,6 +84,8 @@ See Ādi 2.96.
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 3, Chapter 33, verse 6)
 
+See Madhya 16.186.
+
 ## 126
 
 > Subheading: All this describes the Lord's marginal characteristics (*taṭastha-lakṣaṇa*); in His essence the Lord is Kṛṣṇa Himself in His original form (*svayaṁ-rūpa*) —
@@ -89,6 +93,112 @@ See Ādi 2.96.
 ## 127
 
 > Subheading: The Lord shows mercy to all; they return to their homes —
+
+## 128
+
+> Subheading: Staying at Akrūra-tīrtha, the Lord delivers the people —
+
+## 129
+
+> Subheading: The Sānoḍiyā brāhmaṇa gives all the pious people of Mathurā the chance to serve the Lord, and so delivers them —
+
+That brāhmaṇa was a Sānoḍiyā (see Madhya 17.179).
+
+## 131
+
+> Subheading: Though many invited Him at once, the Bhaṭṭa accepted the invitation of only one —
+
+## 132
+
+> Subheading: Everyone was eager to feed the Lord at the same time, and so people found no chance to serve Him —
+
+## 133
+
+> Subheading: Vedic brāhmaṇas worthy of the name humbly invite the Lord —
+
+Kānyakubja, Sārasvata, Gauḍa, Maithila and Utkala are the five Gauḍa brāhmaṇas (*pañca-gauḍa*); Āndhra, Karṇāṭa, Gurjara, Drāviḍa and Mahārāṣṭra are the five southern brāhmaṇas (*pañca-dākṣiṇātya*). These ten kinds of pure Vedic brāhmaṇas kept to Vedic conduct, that is, they had not given up their Vedic rites for the corrupt practices of the *tāntrikas*; and all of them humbly invited Mahāprabhu.
+
+## 134
+
+> Subheading: Coming to Akrūra, they cooked themselves and offered the Lord His meal —
+
+## 135
+
+> Subheading: Sitting at Akrūra-ghāṭa, the Lord reflects on how the *dhāma* was seen, each according to his own capacity, by Akrūra, a worshipper of the Lord's majesty (*aiśvarya*), and by the people of Vraja, servants of His sweetness (*mādhurya*) —
+
+## 137
+
+> Subheading: The Lord leaps into the water and sinks beneath it —
+
+## 138
+
+> Subheading: Kṛṣṇadāsa weeps and cries out; the Bhaṭṭa at once rushes up and pulls the Lord out —
+
+## 139
+
+> Subheading: The Bhaṭṭa confers with the brāhmaṇa —
+
+## 141
+
+> Subheading: Fearing the crowds, the pressing invitations to meals, and the Lord's constant absorption in love, the Bhaṭṭa wishes to take the Lord away from Vṛndāvana —
+
+## 142
+
+*Kāḍiye*: we take Him away.
+
+## 143
+
+> Subheading: The brāhmaṇa advises taking the Lord to Prayāga by the road along the Gaṅgā, on the occasion of the bath in the month of Māgha —
+
+## 145
+
+For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives special fruit. Such injunctions are found: “In the month of Māgha they will go to the confluence of the Gaṅgā and the Yamunā. The fruit of duly giving a hundred thousand cows is the fruit of one who has bathed for three days at Prayāga in the month of Māgha,” and “…since [scripture] declares that all are entitled to the Māgha bath.”
+
+## 146
+
+> Subheading: The Bhaṭṭa will tell of his distress and give advice suited to the season —
+
+*Pāṅcasi*: a corruption of the word *pañcadaśī* (the fifteenth lunar day, the full moon).
+
+## 147
+
+> Subheading: The Bhaṭṭa tells the Lord how importunate the people are with their invitations —
+
+## 148
+
+*Gaḍabaḍi*: the commotion of people coming and going.
+
+## 150
+
+> Subheading: A request to go to Prayāga for the Māgha bath —
+
+## 151
+
+> Subheading: The Bhaṭṭa's impatience —
+
+## 152
+
+> Subheading: Though the Lord did not wish to leave Vṛndāvana, He fulfils the Bhaṭṭa's wish and praises him —
+
+## 155
+
+> Subheading: In the morning, after His bath, the Lord is overwhelmed with love at the thought of the coming separation —
+
+## 156
+
+> Subheading: The Bhaṭṭa asks the Lord to go to Gokula and, seating Him in a boat, crosses to the other bank —
+
+## 158
+
+> Subheading: Kṛṣṇadāsa the Rājput and the Sānoḍiyā brāhmaṇa of Mathurā both know the road —
+
+## 159
+
+> Subheading: On the way, everyone sits down under a tree to rest —
+
+## 160
+
+> Subheading: Seeing the cows grazing, the Lord remembers His pastimes in Vraja —
 
 ---
 

@@ -13,3 +13,15 @@ The Lord (*Īśvara*) is always full of eternal being, consciousness and bliss, 
 ## 116
 
 One who sees Śrī Nārāyaṇa as “equal” to Brahmā, Rudra and the other gods is certainly a *pāṣaṇḍī*.
+
+## 126
+
+The characteristic by which a thing is known of itself (*svataḥ-siddha-lakṣaṇa*), without comparison with other things, is its *svarūpa-lakṣaṇa* (essential characteristic). The characteristic by which a thing becomes known through comparison with other things is called *taṭastha* (marginal). All the glories described above, as marginal characteristics, have established that You are “Vrajendra-nandana.” But the realization that arises the moment one sees You — “This is Vrajendra-nandana” — is Your *svarūpa-lakṣaṇa*; it is by this essential characteristic that You are recognized as “Kṛṣṇa.”
+
+## 135
+
+Akrūra-ghāṭa: this *ghāṭa* lies halfway between Vṛndāvana and Mathurā. Here Akrūra stopped his chariot and, taking Rāma and Kṛṣṇa with him, bathed in the Yamunā. While bathing, Akrūra saw “Vaikuṇṭha” in the water, and the people of Vraja saw Goloka in the water of this *ghāṭa*.
+
+## 144
+
+*Soro-kṣetre*: “Soro-kṣetra” is on the bank of the Gaṅgā nearest to Mathurā.
