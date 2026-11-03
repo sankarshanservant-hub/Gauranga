@@ -44,7 +44,7 @@
 
 ## 14–15
 
-*Snigdha.* In the verse “…the gurus reveal even what is secret to a loving (*snigdhasya*) disciple” (*Śrīmad-Bhāgavatam* 1.1.8), Śrīdhara Svāmipāda explains the word *snigdhasya* as *premavataḥ*, “to one who has love.”[^14-15-1]
+*Snigdha.* In the verse “…the gurus reveal even what is secret to a loving (*snigdhasya*) disciple” (*Śrīmad-Bhāgavatam* 1.1.8), Śrīdhara Svāmipāda explains the word *snigdhasya* as *premavataḥ*, “to one who has love.”
 
 ## 16
 
@@ -763,8 +763,6 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 *Thus ends the seventeenth chapter of the “Anubhāṣya.”*
 
 ---
-
-[^14-15-1]: The verse translation reads differently: the companion should be “very peaceful and calm” (14); Balabhadra “is peaceful” (15).
 
 [^80-1]: The verse translation reads differently: “I respectfully bow down to the Supreme Lord, whose being is full of supreme bliss.”
 

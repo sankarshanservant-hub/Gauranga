@@ -42,7 +42,7 @@ Tapana Miśra's son Raghunātha, who later became famous as “Bhaṭṭa Gosvā
 
 ## 92
 
-*Likhana-vṛtti* means earning one's living by copying manuscripts.[^92-1]
+*Likhana-vṛtti* means earning one's living by copying manuscripts.
 
 ## 98
 
@@ -132,4 +132,3 @@ The forests: the twelve forests. East of Śrī Yamunā there are five: Bhadravan
 
 ---
 
-[^92-1]: The verse translation reads differently: “he worked as a government official.”
