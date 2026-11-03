@@ -144,11 +144,11 @@ one person  if I take  of the others  in the mind  sorrow  will be
 ঐছে যবে পাই, তবে লই ‘এক’ জন ॥ ১৪ ॥
 
 nūtana saṅgī haibeka, — snigdha yāṅra mana  
-new  the companion  should be  —  gentle  whose  mind  
+new  the companion  should be  —  loving  whose  mind  
 aiche yabe pāi, tabe lai ‘eka’ jana  
 such  when  I find  then  I take  one  person
 
-(14) Let My companion be someone new, whose heart is gentle. If I find such a person, I will take one.”
+(14) Let My companion be someone new, whose heart is full of love. If I find such a person, I will take one.”
 
 স্বরূপ কহে, — এই বলভদ্র-ভট্টাচার্য্য ৷  
 তোমাতে সুস্নিগ্ধ বড়, পণ্ডিত, সাধু, আর্য্য ॥ ১৫ ॥
@@ -158,7 +158,7 @@ Svarūpa  says  —  here is  Balabhadra Bhaṭṭācārya
 tomāte su-snigdha baḍa, paṇḍita, sādhu, ārya  
 toward You  affectionate  very  learned  saintly  noble
 
-(15) Svarūpa said, “Here is Balabhadra Bhaṭṭācārya. He is deeply devoted to You, and he is learned, saintly and noble.
+(15) Svarūpa said, “Here is Balabhadra Bhaṭṭācārya. He is full of love for You, and he is learned, saintly and noble.
 
 প্রথমেই তোমা-সঙ্গে আইলা গৌড় হৈতে ৷  
 ইঁহার ইচ্ছা আছে ‘সর্ব্বতীর্থ’ করিতে ॥ ১৬ ॥
@@ -816,7 +816,7 @@ whose mercy  to Him  I  bow down
 paramānanda-mādhavam  
 Mādhava who is the supreme bliss
 
-(80) “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and makes the lame cross mountains.” (Śrīdhara Svāmī, Bhāvārtha-dīpikā on Śrīmad-Bhāgavatam 1.1.1)
+(80) “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and makes the lame cross mountains.”[^80] (Śrīdhara Svāmī, Bhāvārtha-dīpikā on Śrīmad-Bhāgavatam 1.1.1)
 
 এইমত বলভদ্র করেন স্তবন ৷  
 প্রেমসেবা করি’ তুষ্ট কৈল প্রভুর মন ॥ ৮১ ॥
@@ -2412,3 +2412,5 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 ---
 
 [^2]: The same verse as Madhya 4.2 (the refrain of Ādi 4.2 with *gauracandra* in the first line); translation as there.
+
+[^80]: *Paramānanda-mādhava*, “Mādhava, the supreme bliss.” According to the *Anubhāṣya*, the words name both Śrī Paramānanda Svāmī of the Viṣṇusvāmī line and Bhagavān Himself, the worshipful Lord of Śrīdhara Svāmī.
