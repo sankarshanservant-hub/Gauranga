@@ -210,6 +210,198 @@ See Madhya 1.153–154.
 
 > Subheading: The Lord goes to Advaita's house and meets Śacī —
 
+## 211
+
+> Subheading: The Lord comes to Rāmakeli and returns from “Kānāir Nāṭaśālā” to Śāntipura —
+
+For the Lord's coming to Rāmakeli to see Śrī Rūpa and Sanātana, His meeting and conversation with them, see Madhya 1.166–226; for His going to “Kānāir Nāṭaśālā,” see Madhya 1.227–231.
+
+## 212
+
+The ten days in Śāntipura: see Madhya 1.232–233.
+
+## 213
+
+> Subheading: Many events have already been described in the summary of chapter 1, so the author, fearing prolixity, does not describe them again —
+
+## 214–215
+
+Nṛsiṁhānanda: see Ādi 10.35 and Madhya 1.155–162.
+
+## 216
+
+> Subheading: In Śāntipura Śrī Raghunātha meets the Lord —
+
+## 217
+
+> Subheading: Śrī Raghunātha's father and uncle —
+
+Hiraṇya and Govardhana were two brothers of a Kāyastha family by birth, residents of the village of Śrī Kṛṣṇapura near Saptagrāma in Hugalī district. Their family title is not known for certain, but they were *sat-kulīna* (of a noble family). The elder was named Hiraṇya Majumadāra and the younger Govardhana Majumadāra. Govardhana's son was Śrī Raghunātha dāsa. Their *purohita* (family priest) was Balarāma Ācārya, who received the mercy of Śrī Haridāsa Ṭhākura (Antya 3.165–166), and their *guru-purohita* was Yadunandana Ācārya, who received the mercy of Śrī Vāsudeva Datta (Antya 6.161). For other facts about them see Antya 3.165, 171–174, 188–189, 198, 201 and 206, and Antya 6.17–34, 37–40. For the Lord's own description of their conduct, see Antya 6.195–198.
+
+Saptagrāma is an ancient port and town on the bank of the Sarasvatī river, near Triśabighā railway station on the E.I.R. line, in Hugalī district. In 1592 the Pathans plundered it, and in 1632, when the Sarasvatī's current was blocked, this very ancient port was all but ruined. It is said that even in the seventeenth and eighteenth centuries Portuguese sailors came here by ship to trade. In the southern Bengal of those days Saptagrāma was famous as a prominent and prosperous town. Here lived the two brothers Hiraṇya and Govardhana, masters of enormous wealth. At that time they collected twelve *lakhs* of coins in revenue each year. See the first part of the *Anubhāṣya* on Ādi 11.41, on Uddhāraṇa Datta.
+
+## 218–219
+
+Although in Śrī Mahāprabhu's time Navadvīpa was a wealthy town, it was simply the home of *brāhmaṇas* devoted to learning, who depended on Hiraṇya and Govardhana. These pure *brāhmaṇas* lived under the brothers' care: with the money, land, villages and so on that Hiraṇya and Govardhana gave them, they taught and supported themselves. The brothers held *brāhmaṇas* in extraordinary esteem and never hesitated to give to them with an open hand.
+
+## 220
+
+> Subheading: How their acquaintance with the Lord began —
+
+## 222
+
+> Subheading: Who Śrī Raghunātha was —
+
+## 223
+
+> Subheading: In Śāntipura Raghu sees the Lord's feet —
+
+## 224
+
+> Subheading: Raghu takes shelter at the Lord's feet —
+
+## 225
+
+> Subheading: By the mercy of Advaita, who loved him for his father's sake, Raghu gains the Lord's company —
+
+## 227
+
+> Subheading: Parted from the Lord, Raghu goes mad with separation from Him —
+
+## 228
+
+> Subheading: Before this he had tried again and again to run away, and his father kept him under guard —
+
+## 229
+
+> Subheading: Eleven guards are set over him, and he grieves at being unable to see the Lord —
+
+## 231
+
+> Subheading: Now, as soon as the Lord comes to Śāntipura, Raghu asks his father to let him go and see the Lord —[^231-1]
+
+## 233
+
+> Subheading: The father sends his son to the Lord —
+
+## 234
+
+> Subheading: Having come to Śāntipura, he wonders how to get free of the guards —
+
+## 236
+
+> Subheading: The Lord instructs Raghunātha, who is playing the role of a conditioned soul —
+
+## 237
+
+> Subheading: The Lord tells him to accept *yukta-vairāgya* (true renunciation) and give up *phalgu-vairāgya* (false renunciation) —
+
+## 238
+
+*Markaṭa-vairāgya* (monkey renunciation). Monkeys, though bent on enjoyment, seem to live without houses or clothes, and so they may be taken as the “equals” of men endowed with detachment; yet they never stop gratifying their senses. Such renunciation “for show” is called *markaṭa-vairāgya*. There is a renunciation that does not arise from pure *bhakti*, born together with it, but springs from the frustration of desires or longings for things other than Kṛṣṇa. It does not remain for life as a support of pure *bhakti* but proves “momentary,” or *phalgu*; this is *śmaśāna-vairāgya* (cremation-ground renunciation), or *markaṭa-vairāgya*. But if a person, for the sake of service to Kṛṣṇa, merely accepts what is strictly unavoidable among worldly things and lives without absorption in them, he does not fall under the sway of the fruits of *karma*. The words of the *Nārada Purāṇa* cited in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, 2nd Laharī): “One who knows the true goal should accept [worldly things] only as much as is needed to maintain himself. By taking more or less, he falls away from the highest goal.” In his commentary *Durgama-saṅgamanī* Śrī Jīva Prabhu explains the word *sva-nirvāhaḥ* (“maintaining oneself”) in this verse as *sva-sva-bhakti-nirvāhaḥ*, “maintaining one's own *bhakti*.” Further, in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, 2nd Laharī, 125 and 126),[^238-1] on *phalgu-vairāgya*: “When those who seek liberation reject things connected with Hari, regarding them as worldly, that renunciation is called *phalgu* (worthless).” That is: “To reject as ‘worldly’ what is favourable to service of Śrī Hari is a mistake.” On *yukta-vairāgya*: “When one uses worldly things as is fitting, without attachment, and holds firmly to their connection with Kṛṣṇa, that is called *yukta-vairāgya*.” That is: “Worldly things, free of attachment and in their connection [with Kṛṣṇa], are all Mādhava.”
+
+## 239
+
+Show people the conduct that society ordinarily considers proper, while in your heart you give up absorption in material things and, fixed in Me, serve Bhagavān with devotion. If you serve Kṛṣṇa in this way with a guileless heart, Kṛṣṇa Himself will free you from the bonds of *saṁsāra*. The words “Be steadfast within, and outwardly behave as people do” simply explain the earlier words “Enjoy worldly things as is fitting, without attachment.” *Niṣṭhā* means steadfastness in Kṛṣṇa, that is, abiding resolutely in unmotivated cultivation of Kṛṣṇa, having given up desire and thirst for anything other than Kṛṣṇa. “Behave as people do”: the *Pañcarātra* text cited in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, 2nd Laharī): “One who desires *bhakti*, O sage, should perform only those acts, worldly or Vedic, that are favourable to service of Hari.”
+
+## 240
+
+> Subheading: The Lord tells him to come to Him when He has returned from Vṛndāvana and is staying in Nīlācala —
+
+## 241
+
+> Subheading: Only Kṛṣṇa's causeless mercy makes one fit to attain Kṛṣṇa —
+
+## 242
+
+> Subheading: Having taken leave of the Lord, he practises *yukta-vairāgya* at home —
+
+## 243
+
+He gave up the madness in which, before people's eyes, he had refused to accept anything worldly, and without attachment began to carry out suitable duties in a way favourable to service of Kṛṣṇa.
+
+## 244
+
+> Subheading: His parents rejoice at Raghunātha's conduct, and the guard around him slackens —
+
+When his parents saw that Śrī Raghunātha's outward marks of renunciation had slackened, their hearts, inclined to family life, rejoiced greatly. They no longer thought it necessary to keep around Raghunātha a cordon (*veṣṭana*) of eleven people — five foot guards, four servants and two *brāhmaṇas*. Seeing him gradually take on responsibilities in the household, they reduced the number of guards.
+
+## 236–244
+
+See Antya 6.13–15.
+
+## 245
+
+> Subheading: The Lord asks Nitāi, Advaita and all the devotees for permission to go to Vṛndāvana by way of Purī —
+
+## 247
+
+> Subheading: The Lord forbids everyone to come to Purī that year —
+
+## 249
+
+> Subheading: The Lord humbly asks Śacī for permission —
+
+## 250
+
+> Subheading: The Lord sends His mother from Śāntipura to Navadvīpa and sets out for Purī —
+
+## 251
+
+> Subheading: Arrival in Purī —
+
+## 252
+
+> Subheading: *Darśana* of Jagannātha; the news of His return spreads everywhere —
+
+## 253
+
+> Subheading: The devotees meet the Lord —
+
+## 255
+
+> Subheading: The Lord tells everyone what had hindered His earlier journey to Vṛndāvana —
+
+## 260
+
+> Subheading: Meeting Rūpa and Sanātana in the village of Rāmakeli, and an account of them —
+
+In the material world you are “the very best,” yet you consider yourselves “the lowest of all.” Therefore, although you are yourselves eternally perfect associates of Kṛṣṇa in Vraja, Kṛṣṇa will soon free you from this “bondage of *saṁsāra*” (?) and engage you in His eternal service: only to the external vision of worldly people, to knowledge gained through the senses, do you play the role of conditioned souls.[^260-1]
+
+## 264
+
+> Subheading: The Lord's instruction to Rūpa and Sanātana —
+
+## 265
+
+> Subheading: At parting, Sanātana warns the Lord —
+
+## 266
+
+> Subheading: It is not fitting to go to Vṛndāvana with a crowd of people who have all kinds of purposes —
+
+## 267
+
+> Subheading: Even so the Lord travels with the crowd; later, reflecting on Sanātana's words, He leaves it —[^267-1]
+
+## 270
+
+> Subheading: Vṛndāvana is the place of the most intimate *bhajana*: outsiders have no access to it, only the closest devotees who know its heart —
+
+## 271
+
+> Subheading: The great *mahājana* of former times, Mādhavendra Purī, went to Vṛndāvana alone —
+
+See Madhya 4.20–33, and also 172 and 179.
+
 ---
 
 [^204-1]: In the edition couplet 204 has no number (only “॥” at the end; scan checked).
+
+[^231-1]: In the edition (scan checked) the next couplet, 232, is numbered “১৩২” instead of “২৩২.”
+
+[^238-1]: In the standard numbering, *Bhakti-rasāmṛta-sindhu* 1.2.256 (on *phalgu-vairāgya*) and 1.2.255 (on *yukta-vairāgya*).
+
+[^260-1]: So in the edition (scan checked): “২৬০.” By its content the section belongs to verse 264 (the Lord's instruction to Rūpa and Sanātana); in the edition it stands between sections 244 and 271.
+
+[^267-1]: In the edition couplet 267 has no number (only “॥” at the end; scan checked).
