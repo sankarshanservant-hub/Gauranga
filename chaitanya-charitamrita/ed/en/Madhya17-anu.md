@@ -288,6 +288,46 @@ Though they are very close to the Lord, they address Him with the greatest rever
 
 > Subheading: The Lord, playing the role of an *ācārya*, avoids the company of Māyāvādīs —
 
+## 104
+
+> Subheading: Prakāśānanda, with many disciples, expounds Māyāvāda —
+
+Prakāśānanda was an *ekadaṇḍī* *sannyāsī* of the Śaṅkara *sampradāya* who lived in Kāśī in the time of Śrī Mahāprabhu. *Caitanya-bhāgavata*, Madhya, Chapter 3: “‘I have no hands, no feet, no face, no eyes’—so he mocks Me with the Vedas. In Kāśī that rascal Prakāśānanda teaches; that rascal cuts My body to pieces. He explains the Vedas but does not accept My form (*vigraha*). His whole body is stricken with leprosy, yet he does not know it. My body, the embodiment of all sacrifices, is pure; Aja, Bhava and others sing of its deeds. By touching that body even ‘*puṇya*’ gains purity. How does that rascal dare call it ‘false’!” Again, Madhya, Chapter 20: “The ‘*sannyāsī*’ ‘Prakāśānanda’ sits in Kāśī; that rascal cuts Me thoroughly to pieces. He teaches ‘Vedānta’ but does not accept My ‘*vigraha*.’ I have struck his body with leprosy, yet he does not know it. My ‘pastimes and deeds’ are ‘true,’ My ‘abode’ is ‘true.’ He calls this ‘false’ and hacks Me to bits.”
+
+The guru of Śrīla Gopāla Bhaṭṭa Gosvāmī, his uncle in his former *āśrama*, who lived in Śrī Raṅga-kṣetra, was the Rāmānujīya *jīyar svāmī*, the *tridaṇḍipāda* Śrī Śrīmat Prabodhānanda Sarasvatī. He and this Prakāśānanda are by no means one and the same person.
+
+## 105
+
+> Subheading: A brāhmaṇa describes the Lord to Prakāśānanda —
+
+## 107
+
+> Subheading: All the marks of Īśvara are present in the Lord —
+
+## 109
+
+> Subheading: All the marks of Īśvara, or of a *mahā-bhāgavata*, described in the *Bhāgavatam* are present in the Lord —
+
+## 113
+
+> Subheading: The name of Kṛṣṇa Caitanya, whose name, form, qualities and pastimes are not of this world —
+
+## 114
+
+> Subheading: One who has faith, on seeing Īśvara, understands His deeds by His mercy; but hearing by the path of logic alone is fruitless —
+
+## 115
+
+> Subheading: Hearing of the Lord, Prakāśānanda, a follower of the path of logic, ridicules and scorns Him —
+
+## 116
+
+> Subheading: Prakāśānanda spews out the poison of his Māyāvāda —
+
+## 116–121
+
+*Bhāvuka*. The Māyāvādī Prakāśānanda applies this epithet here because he takes two things to be “one and the same.” One is the supremely wonderful, transcendental, spiritual feeling (*bhāva*) of Śrīman Mahāprabhu. The other is the artificial, short-lived and unruly outburst of those who cultivate *mano-dharma*, mind-made religion. The Māyāvādī regards even a pure devotee's transcendental loud chanting of Kṛṣṇa, his dancing and playing of instruments as “the same as” or “equal to” *tauryatrika*—the singing, dancing and music meant for worldly sense enjoyment. He considers it mere sensual effort, like servitude to the six enemies. Therefore he is called an *aparādhī* (offender) or a *pāṣaṇḍī* (godless man). And because he rejects the things related to Kṛṣṇa that serve the cultivation of Kṛṣṇa (*kṛṣṇānuśīlana*), the eternal *svadharma*,[^116-121-1] he is a *phalgu-vairāgī*, a false renunciant.
+
 ---
 
 [^14-15-1]: The verse translation reads differently: the companion should be “very peaceful and calm” (14); Balabhadra “is peaceful” (15).
@@ -295,3 +335,5 @@ Though they are very close to the Lord, they address Him with the greatest rever
 [^80-1]: The verse translation reads differently: “I respectfully bow down to the Supreme Lord, whose being is full of supreme bliss.”
 
 [^95-1]: So in the edition. In sense, *Śrīmad-Bhāgavatam* 5.19.24 is probably meant (one should not live where the rivers of talk about Vaikuṇṭha do not flow).
+
+[^116-121-1]: Unclear passage: the edition reads «নিত্য স্বধর্ম্ম করায় কৃষ্ণানুশীলনের…» (“performing the eternal *svadharma*, … of the cultivation of Kṛṣṇa”); «করায়» seems superfluous or a misprint here; translated by sense.

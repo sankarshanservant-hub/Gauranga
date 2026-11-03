@@ -48,6 +48,10 @@ Tapana Miśra's son Raghunātha, who later became famous as “Bhaṭṭa Gosvā
 
 *Tāra* means “deliver.” *Bhṛtya duijane*, “two servants,” means the two of them: Candraśekhara and Tapana Miśra.
 
+## 120
+
+*Bhāva-kāli* means the ways of a *bhāvuka*, a sentimentalist.
+
 ---
 
 [^92-1]: The verse translation reads differently: “he worked as a government official.”
