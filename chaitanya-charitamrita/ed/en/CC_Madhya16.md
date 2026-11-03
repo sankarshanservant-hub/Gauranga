@@ -306,241 +306,301 @@ twelve  pots of kṣīra  bringing  before  the servant  placed
 ক্ষীর-প্রসাদ পাঞা সবার বাড়িল আনন্দ ॥ ৩১ ॥
 
 kṣīra bāṅṭi’ sabāre dila prabhu-nityānanda  
-kṣīra-prasāda pāñā sabāra bāḍila ānanda
+the kṣīra  dividing  to all  gave  Nityānanda Prabhu  
+kṣīra-prasāda pāñā sabāra bāḍila ānanda  
+the kṣīra prasāda  receiving  of all  increased  the bliss
 
-(31) [not yet translated]
+(31) Nityānanda Prabhu divided the *kṣīra* and gave it to everyone, and receiving that *kṣīra-prasāda*, they were all filled with joy.
 
 মাধবপুরীর কথা, গোপাল-স্থাপন ৷  
 তাঁহারে গোপাল যৈছে মাগিল চন্দন ॥ ৩২ ॥
 
 mādhava-purīra kathā, gopāla-sthāpana  
-tāṅhāre gopāla yaiche māgila candana
+of Mādhava Purī  the story  of Gopāla  the installation  
+tāṅhāre gopāla yaiche māgila candana  
+from him  Gopāla  how  asked for  sandalwood
 
-(32) [not yet translated]
+(32) The story of Mādhava Purī, the installation of Gopāla, how Gopāla asked him for sandalwood,
 
 তাঁর লাগি’ গোপীনাথ ক্ষীর চুরি কৈল ৷  
 মহাপ্রভুর মুখে আগে এ কথা শুনিল ॥ ৩৩ ॥
 
 tāṅra lāgi’ gopīnātha kṣīra curi kaila  
-mahāprabhura mukhe āge e kathā śunila
+him  for the sake of  Gopīnātha  the kṣīra  theft  made  
+mahāprabhura mukhe āge e kathā śunila  
+of Mahāprabhu  from the mouth  before  this  story  they had heard
 
-(33) [not yet translated]
+(33) and how Gopīnātha stole *kṣīra* for his sake — they had heard this story earlier from Mahāprabhu’s own mouth.
 
 সেই কথা সবার মধ্যে কহে নিত্যানন্দ ৷  
 শুনিয়া বৈষ্ণবমনে বাড়িল আনন্দ ॥ ৩৪ ॥
 
 sei kathā sabāra madhye kahe nityānanda  
-śuniyā vaiṣṇavamane bāḍila ānanda
+that  story  all  among  tells  Nityānanda  
+śuniyā vaiṣṇavamane bāḍila ānanda  
+hearing  in the hearts of the Vaiṣṇavas  increased  the bliss
 
-(34) [not yet translated]
+(34) Now Nityānanda told that story among them all, and the Vaiṣṇavas’ hearts swelled with joy as they listened.
 
 এইমত চলি’ চলি’ কটক আইলা ৷  
 সাক্ষীগোপাল দেখি’ সবে সে দিন রহিলা ॥ ৩৫ ॥
 
 ei mata cali’ cali’ kaṭaka āilā  
-sākṣī-gopāla dekhi’ sabe se dina rahilā
+in this way  going on  going on  to Kaṭaka  they came  
+sākṣī-gopāla dekhi’ sabe se dina rahilā  
+Sākṣi-gopāla  seeing  all  that  day  stayed
 
-(35) [not yet translated]
+(35) Travelling on in this way, they came to Kaṭaka. There they saw Sākṣi-gopāla and stayed that day.
 
 সাক্ষীগোপালের কথা কহে নিত্যানন্দ ৷  
 শুনিয়া বৈষ্ণব-মনে বাড়িল আনন্দ ॥ ৩৬ ॥
 
 sākṣī-gopālera kathā kahe nityānanda  
-śuniyā vaiṣṇava-mane bāḍila ānanda
+of Sākṣi-gopāla  the story  tells  Nityānanda  
+śuniyā vaiṣṇava-mane bāḍila ānanda  
+hearing  in the hearts of the Vaiṣṇavas  increased  the bliss
 
-(36) [not yet translated]
+(36) Nityānanda told the story of Sākṣi-gopāla, and the Vaiṣṇavas’ hearts swelled with joy as they listened.
 
 প্রভুকে মিলিতে সবার উৎকণ্ঠা অন্তরে ৷  
 শীঘ্র করি’ আইলা সবে শ্রীনীলাচলে ॥ ৩৭ ॥
 
 prabhuke milite sabāra utkaṇṭhā antare  
-śīghra kari’ āilā sabe śrī-nīlācale
+the Lord  to meet  of all  eagerness  in the heart  
+śīghra kari’ āilā sabe śrī-nīlācale  
+quickly  making  came  all  to Śrī Nīlācala
 
-(37) [not yet translated]
+(37) Their hearts were all eager to meet the Lord, so they hurried on to Śrī Nīlācala.
 
 আঠারনালাকে আইলা গোসাঞি শুনিয়া ৷  
 দুইমালা পাঠাইলা গোবিন্দ হাতে দিয়া ॥ ৩৮ ॥
 
 āṭhāranālāke āilā gosāñi śuniyā  
-duimālā pāṭhāilā govinda hāte diyā
+at Āṭhāranālā  they have come  the Gosāñi  hearing  
+duimālā pāṭhāilā govinda hāte diyā  
+two garlands  sent  Govinda’s  in the hand  placing
 
-(38) [not yet translated]
+(38) Hearing that they had reached Āṭhāranālā, the Gosāñi placed two garlands in Govinda’s hands and sent him to them.
 
 দুই মালা গোবিন্দ দুই জনে পরাইল ৷  
 অদ্বৈত, অবধূত-গোসাঞি বড় সুখ পাইল ॥ ৩৯ ॥
 
 dui mālā govinda dui jane parāila  
-advaita, avadhūta-gosāñi baḍa sukha pāila
+the two  garlands  Govinda  on the two  persons  put  
+advaita, avadhūta-gosāñi baḍa sukha pāila  
+Advaita  the Avadhūta Gosāñi  great  happiness  felt
 
-(39) [not yet translated]
+(39) Govinda put the two garlands on the two of them, and Advaita and the Avadhūta Gosāñi (Nityānanda) were overjoyed.
 
 তাহাঞি আরম্ভ কৈল কৃষ্ণ-সংকীর্ত্তন ৷  
 নাচিতে নাচিতে চলি’ আইলা দুইজন ॥ ৪০ ॥
 
 tāhāñi ārambha kaila kṛṣṇa-saṅkīrtana  
-nācite nācite cali’ āilā dui-jana
+right there  beginning  made  of Kṛṣṇa-saṅkīrtana  
+nācite nācite cali’ āilā dui-jana  
+dancing  dancing  going  came  the two
 
-(40) [not yet translated]
+(40) Right there they began Kṛṣṇa-saṅkīrtana, and the two of them came on, dancing all the way.
 
 পুনঃ মালা দিয়া স্বরূপাদি নিজগণে ৷  
 আগু বাড়ি’ পাঠাইল শচীর নন্দনে ॥ ৪১ ॥
 
 punaḥ mālā diyā svarūpādi nija-gaṇe  
-āgu bāḍi’ pāṭhāila śacīra nandane
+again  garlands  giving  to Svarūpa and the others  to His own men  
+āgu bāḍi’ pāṭhāila śacīra nandane  
+ahead  sending forward  sent  of Śacī  by the son
 
-(41) [not yet translated]
+(41) Then Śacī’s son gave garlands to Svarūpa and His other associates and sent them ahead.
 
 নরেন্দ্র আসিয়া তাঁহা সবারে মিলিলা ৷  
 মহাপ্রভুর দত্ত মালা সবারে পরাইলা ॥ ৪২ ॥
 
 narendra āsiyā tāṅhā sabāre mililā  
-mahāprabhura datta mālā sabāre parāilā
+to Narendra  coming  there  with all  they met  
+mahāprabhura datta mālā sabāre parāilā  
+by Mahāprabhu  given  the garlands  on all  they put
 
-(42) [not yet translated]
+(42) Coming to Narendra, they met everyone there and put on them all the garlands Mahāprabhu had given.
 
 সিংহদ্বার-নিকটে আইলা শুনি’ গৌররায় ৷  
 আপনে আসিয়া প্রভু মিলিলা সবায় ॥ ৪৩ ॥
 
 siṁha-dvāra-nikaṭe āilā śuni’ gaurarāya  
-āpane āsiyā prabhu mililā sabāya
+near the Siṁha-dvāra  they have come  hearing  Gaurarāya  
+āpane āsiyā prabhu mililā sabāya  
+Himself  coming  the Lord  met  with all
 
-(43) [not yet translated]
+(43) When Gaurarāya heard that they had reached the Siṁha-dvāra, the Lord came Himself and met them all.
 
 সবা লঞা কৈল জগন্নাথ-দরশন ৷  
 সবা লঞা আইলা পুনঃ আপন-ভবন ॥ ৪৪ ॥
 
 sabā lañā kaila jagannātha-daraśana  
-sabā lañā āilā punaḥ āpana-bhavana
+all  taking  He made  Jagannātha-darśana  
+sabā lañā āilā punaḥ āpana-bhavana  
+all  taking  came  again  to His own residence
 
-(44) [not yet translated]
+(44) Taking them all with Him, He had *darśana* of Jagannātha, and then He brought them all back to His own residence.
 
 বাণীনাথ, কাশীমিশ্র প্রসাদ আনিল ৷  
 স্বহস্তে সবারে প্রভু প্রসাদ খাওয়াইল ॥ ৪৫ ॥
 
 vāṇīnātha, kāśī-miśra prasāda ānila  
-svahaste sabāre prabhu prasāda khāoyāila
+Vāṇīnātha  Kāśī Miśra  prasāda  brought  
+svahaste sabāre prabhu prasāda khāoyāila  
+with His own hand  all  the Lord  prasāda  fed
 
-(45) [not yet translated]
+(45) Vāṇīnātha and Kāśī Miśra brought *prasāda*, and the Lord fed everyone *prasāda* with His own hand.
 
 পূর্ব্ব-বৎসরে যাঁর যেই বাসা-স্থান ৷  
 তাঁহা সবা পাঠাঞা করাইল বিশ্রাম ॥ ৪৬ ॥
 
 pūrva-vatsare yāṅra yei vāsā-sthāna  
-tāṅhā sabā pāṭhāñā karāila viśrāma
+in the previous year  whose  whatever  lodging place  
+tāṅhā sabā pāṭhāñā karāila viśrāma  
+there  all  sending  made rest
 
-(46) [not yet translated]
+(46) He sent each of them to the lodging they had had the year before and let them rest.
 
 এইমত ভক্তগণ রহিলা চারি মাস ৷  
 প্রভুর সহিত করে কীর্ত্তন-বিলাস ॥ ৪৭ ॥
 
 ei mata bhakta-gaṇa rahilā cāri māsa  
-prabhura sahita kare kīrtana-vilāsa
+in this way  the devotees  stayed  four  months  
+prabhura sahita kare kīrtana-vilāsa  
+the Lord  with  do  the pastimes of kīrtana
 
-(47) [not yet translated]
+(47) In this way the devotees stayed four months, enjoying the pastimes of *kīrtana* with the Lord.
 
 পূর্ব্ববৎ রথযাত্রা-কাল যবে আইল ৷  
 সবা লঞা গুণ্ডিচা-মন্দির প্রক্ষালিল ॥ ৪৮ ॥
 
 pūrvavat ratha-yātrā-kāla yabe āila  
-sabā lañā guṇḍicā-mandira prakṣālila
+as before  the time of the Ratha-yātrā  when  came  
+sabā lañā guṇḍicā-mandira prakṣālila  
+all  taking  the Guṇḍicā temple  He washed
 
-(48) [not yet translated]
+(48) When the time of the Ratha-yātrā came, He took them all, as before, and washed the Guṇḍicā temple.
 
 কুলীনগ্রামী পট্টডোরী জগন্নাথে দিল ৷  
 পূর্ব্ববৎ রথ-অগ্রে নর্ত্তন করিল ॥ ৪৯ ॥
 
 kulīna-grāmī paṭṭa-ḍorī jagannāthe dila  
-pūrvavat ratha-agre nartana karila
+the residents of Kulīna-grāma  silk ropes  to Jagannātha  gave  
+pūrvavat ratha-agre nartana karila  
+as before  in front of the chariot  dancing  He did
 
-(49) [not yet translated]
+(49) The residents of Kulīna-grāma gave silk ropes to Jagannātha, and as before He danced in front of the chariot.
 
 বহু নৃত্য করি’ পুনঃ চলিল উদ্যানে ৷  
 বাপী-তীরে তাঁহা যাই’ করিল বিশ্রামে ॥ ৫০ ॥
 
 bahu nṛtya kari’ punaḥ calila udyāne  
-vāpī-tīre tāṅhā yāi’ karila viśrāme
+much  dancing  having done  then  went  to the garden  
+vāpī-tīre tāṅhā yāi’ karila viśrāme  
+on the bank of the pond  there  going  made  rest
 
-(50) [not yet translated]
+(50) After dancing a great deal He went to the garden, and there He rested on the bank of the pond.
 
 রাঢ়ী এক বিপ্র তিঁহো — নিত্যানন্দ-দাস ৷  
 মহা-ভাগ্যবান্ তিঁহো, নাম — কৃষ্ণদাস ॥ ৫১ ॥
 
 rāḍhī eka vipra tiṅho — nityānanda-dāsa  
-mahā-bhāgyavān tiṅho, nāma — kṛṣṇadāsa
+from Rāḍha  one  brāhmaṇa  he  —  a servant of Nityānanda  
+mahā-bhāgyavān tiṅho, nāma — kṛṣṇadāsa  
+most fortunate  he  name  —  Kṛṣṇadāsa
 
-(51) [not yet translated]
+(51) There was a brāhmaṇa from Rāḍha, a servant of Nityānanda, most fortunate, named Kṛṣṇadāsa.
 
 ঘট ভরি’ প্রভুর তিঁহো অভিষেক কৈল ৷  
 তাঁর অভিষেকে প্রভু মহা-তৃপ্ত হৈল ॥ ৫২ ॥
 
 ghaṭa bhari’ prabhura tiṅho abhiṣeka kaila  
-tāṅra abhiṣeke prabhu mahā-tṛpta haila
+a pitcher  filling  of the Lord  he  bathing  did  
+tāṅra abhiṣeke prabhu mahā-tṛpta haila  
+his  by the bathing  the Lord  greatly pleased  became
 
-(52) [not yet translated]
+(52) He filled a pitcher and bathed the Lord, and the Lord was greatly pleased with his bathing Him.
 
 বলগণ্ডি-ভোগের বহু প্রসাদ আইল ৷  
 সবা সঙ্গে মহাপ্রভু প্রসাদ খাইল ॥ ৫৩ ॥
 
 balagaṇḍi-bhogera bahu prasāda āila  
-sabā saṅge mahāprabhu prasāda khāila
+of the Balagaṇḍi offering  much  prasāda  came  
+sabā saṅge mahāprabhu prasāda khāila  
+all  with  Mahāprabhu  prasāda  ate
 
-(53) [not yet translated]
+(53) A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured the *prasāda* with them all.
 
 পূর্ব্ববৎ রথযাত্রা কৈল দরশন ৷  
 হেরাপঞ্চমী-যাত্রা দেখে লঞা ভক্তগণ ॥ ৫৪ ॥
 
 pūrvavat ratha-yātrā kaila daraśana  
-herā-pañcamī-yātrā dekhe lañā bhakta-gaṇa
+as before  the Ratha-yātrā  He made  seeing  
+herā-pañcamī-yātrā dekhe lañā bhakta-gaṇa  
+the Herā-pañcamī festival  sees  taking  the devotees
 
-(54) [not yet translated]
+(54) As before, He watched the Ratha-yātrā, and with His devotees He saw the festival of Herā-pañcamī.
 
 আচার্য্য-গোসাঞি প্রভুর কৈল নিমন্ত্রণ ৷  
 তার মধ্যে কৈল যৈছে ঝড়-বরিষণ ॥ ৫৫ ॥
 
 ācārya-gosāñi prabhura kaila nimantraṇa  
-tāra madhye kaila yaiche jhaḍa-variṣaṇa
+Ācārya Gosāñi  of the Lord  made  invitation  
+tāra madhye kaila yaiche jhaḍa-variṣaṇa  
+that  in the midst of  made  how  a storm of rain
 
-(55) [not yet translated]
+(55) Ācārya Gosāñi invited the Lord, and in the middle of it he brought on a storm of rain —
 
 বিস্তারি’ বর্ণিয়াছেন দাস-বৃন্দাবন ৷  
 শ্রীবাস প্রভুরে তবে কৈল নিমন্ত্রণ ॥ ৫৬ ॥
 
 vistāri’ varṇiyāchena dāsa-vṛndāvana  
-śrīvāsa prabhure tabe kaila nimantraṇa
+in detail  has described  Vṛndāvana dāsa  
+śrīvāsa prabhure tabe kaila nimantraṇa  
+Śrīvāsa  the Lord  then  made  invitation
 
-(56) [not yet translated]
+(56) all this Vṛndāvana dāsa has described in detail. Then Śrīvāsa invited the Lord.
 
 প্রভুর প্রিয়-ব্যঞ্জন সব রান্ধেন মালিনী ৷  
 ‘ভক্ত্যে দাসী’-অভিমান, ‘স্নেহেতে জননী’ ॥ ৫৭ ॥
 
 prabhura priya-vyañjana saba rāndhena mālinī  
-‘bhaktye dāsī’-abhimāna, ‘snehete jananī’
+the Lord’s  favourite dishes  all  cooks  Mālinī  
+‘bhaktye dāsī’-abhimāna, ‘snehete jananī’  
+“in devotion  a maidservant” — such self-conception  “in affection  a mother”
 
-(57) [not yet translated]
+(57) Mālinī cooked all the Lord’s favourite dishes. In devotion she thought of herself as His maidservant; in affection she was His mother.
 
 আচার্য্যরত্ন-আদি যত মুখ্য ভক্তগণ ৷  
 মধ্যে মধ্যে প্রভুরে করেন নিমন্ত্রণ ॥ ৫৮ ॥
 
 ācāryaratna-ādi yata mukhya bhakta-gaṇa  
-madhye madhye prabhure karena nimantraṇa
+Ācāryaratna and the others  as many  chief  devotees  
+madhye madhye prabhure karena nimantraṇa  
+from time  to time  the Lord  make  invitation
 
-(58) [not yet translated]
+(58) Ācāryaratna and the other leading devotees invited the Lord from time to time.
 
 চাতুর্ম্মাস্য-অন্তে পুনঃ নিত্যানন্দে লঞা ৷  
 কিবা যুক্তি করে নিত্য নিভৃতে বসিয়া ॥ ৫৯ ॥
 
 cāturmāsya-ante punaḥ nityānande lañā  
-kibā yukti kare nitya nibhṛte vasiyā
+at the end of Cāturmāsya  again  Nityānanda  taking  
+kibā yukti kare nitya nibhṛte vasiyā  
+some kind of  counsel  holds  daily  in private  sitting
 
-(59) [not yet translated]
+(59) At the end of Cāturmāsya the Lord would again take Nityānanda aside every day and sit with Him in private, holding some counsel.
 
 আচার্য্য-গোসাঞি প্রভুকে কহে ঠারে-ঠোরে ৷  
 আচার্য্য তর্জ্জা পড়ে, কেহ বুঝিতে না পারে ॥ ৬০ ॥
 
 ācārya-gosāñi prabhuke kahe ṭhāre-ṭhore  
-ācārya tarjā paḍe, keha bujhite nā pāre
+Ācārya Gosāñi  to the Lord  speaks  in hints  
+ācārya tarjā paḍe, keha bujhite nā pāre  
+the Ācārya  riddles  recites  anyone  to understand  not  is able
 
-(60) [not yet translated]
+(60) Ācārya Gosāñi spoke to the Lord in hints; the Ācārya recited riddles (*tarjā*) that no one could understand.
 
 তাঁর মুখ দেখি’ হাসে শচীর নন্দন ৷  
 অঙ্গীকার জানি’ আচার্য্য করেন নর্ত্তন ॥ ৬১ ॥
