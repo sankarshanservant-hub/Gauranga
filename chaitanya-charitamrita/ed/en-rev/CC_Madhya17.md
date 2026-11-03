@@ -1530,7 +1530,7 @@ to Prayāga  coming  the Lord  performed  bathing in the river
 ‘mādhava’ dekhiyā preme kaila nṛtya-gāna  
 Mādhava  seeing  in love  performed  dancing and singing
 
-(149) Coming to Prayāga, the Lord bathed in the river, and on seeing Mādhava He danced and sang in love.
+(149) Coming to Prayāga, the Lord bathed in the river, and on seeing Mādhava He danced and sang in love.[^32]
 
 যমুনা দেখিয়া প্রেমে পড়ে ঝাঁপ দিয়া ৷  
 আস্তে ব্যস্তে ভট্টাচার্য্য উঠায় ধরিয়া ॥ ১৫০ ॥
@@ -1663,11 +1663,11 @@ laugh  weep  dance  sing  the name of Kṛṣṇa  taking
 (162) “At the sight of Him people become mad with love: they laugh, weep, dance and sing, chanting the name of Kṛṣṇa.
 
 সর্ব্বথা নিশ্চিত, ইঁহো — কৃষ্ণ-অবতার ৷  
-মথুরা আইলা লোকের করিতে নিস্তার ॥ ১৬৩ ॥
+মথুরা আইল লোকের করিতে নিস্তার ॥ ১৬৩ ॥
 
 sarvathā niścita, im̐ho — kṛṣṇa-avatāra  
 in every way  certain  He is  an avatāra of Kṛṣṇa  
-mathurā āilā lokera karite nistāra  
+mathurā āila lokera karite nistāra  
 to Mathurā  He has come  of the people  to accomplish  deliverance
 
 (163) “It is certain in every way that He is an avatāra of Kṛṣṇa. He has come to Mathurā to deliver the people.”
@@ -1750,7 +1750,7 @@ hearing  astonished  the brāhmaṇa  says  fear  feeling
 aiche bāt kaha kene sannyāsī hañā  
 such  words  You speak  why  a sannyāsī  being
 
-(171) Hearing this, the brāhmaṇa was astonished and said in fear, “You are a sannyāsī — why do You speak like this?
+(171) Hearing this, the brāhmaṇa was astonished and said in fear, “You are a *sannyāsī* — why do You speak like this?
 
 কিন্তু তোমার প্রেম দেখি’ মনে অনুমানি ৷  
 মাধবেন্দ্র-পুরীর ‘সম্বন্ধ’ ধর, জানি ॥ ১৭২ ॥
@@ -1824,7 +1824,7 @@ he  whatever  standard  sets
 lokas tad anuvartate  
 the world  that  follows
 
-(178) “Whatever the best of men does, others do the same; whatever standard he sets, the world follows.” (Bhagavad-gītā, 3.21)
+(178) “Whatever the best of men does, others do the same; whatever standard he sets, the world follows.” (Bhagavad-gītā, 3.21)[^33]
 
 যদ্যপি ‘সনোড়িয়া’ হয় সেইত ব্রাহ্মণ ৷  
 সনোড়িয়া-ঘরে সন্ন্যাসী না করে ভোজন ॥ ১৭৯ ॥
@@ -1834,7 +1834,7 @@ although  a Sanoḍiyā  was  that very  brāhmaṇa
 sanoḍiyā-ghare sannyāsī nā kare bhojana  
 in a Sanoḍiyā’s house  a sannyāsī  not  does  eat
 
-(179) That brāhmaṇa was a Sanoḍiyā, and sannyāsīs do not eat in a Sanoḍiyā’s house.
+(179) That brāhmaṇa was a Sanoḍiyā, and *sannyāsīs* do not eat in a Sanoḍiyā’s house.[^34]
 
 তথাপি পুরী দেখি’ তাঁর ‘বৈষ্ণব’-আচার ৷  
 ‘শিষ্য’ করি’ তাঁর ভিক্ষা কৈল অঙ্গীকার ॥ ১৮০ ॥
@@ -1874,7 +1874,7 @@ foolish people  will make  Your  censure
 sahite nā pārimu sei ‘duṣṭe’ra vacana  
 to bear  not  I shall be able  of those  wicked men  the words
 
-(183) “But foolish people will censure You, and I will not be able to bear the words of those wicked people.”
+(183) “But foolish people will censure You, and I will not be able to bear the words of those wicked people.”[^35]
 
 প্রভু কহে, — শ্রুতি, স্মৃতি, যত ঋষিগণ ৷  
 সবে ‘এক’-মত নহে, ভিন্ন ভিন্ন ধর্ম্ম ॥ ১৮৪ ॥
@@ -1894,7 +1894,7 @@ of dharma  establishing  for the sake of  of the sādhu  the conduct
 purī-gosāñira ye ācaraṇa, sei dharma sāra  
 of Purī Gosāñi  which  conduct  that  of dharma  the essence
 
-(185) “The conduct of a sādhu is what establishes dharma, and the conduct of Purī Gosāñi is the essence of dharma.
+(185) “The conduct of a sādhu is what establishes dharma, and the conduct of Purī Gosāñi is the essence of dharma.[^36]
 
 তর্কোঽপ্রতিষ্ঠঃ শ্রুতয়ো বিভিন্না  
 নাসাবৃষির্যস্য মতং ন ভিন্নম্ ৷  
@@ -1910,7 +1910,7 @@ of dharma  the truth  is hidden  in a cave
 mahājano yena gataḥ sa panthāḥ  
 the great soul  by which  has gone  that  is the path
 
-(186) “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in a cave; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva 313.117)
+(186) “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in the cave of the heart; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva, 313.117)[^37]
 
 তবে সেই বিপ্র প্রভুকে ভিক্ষা করাইল ৷  
 মধুপুরীর লোক-সব প্রভুকে দেখিতে আইল ॥ ১৮৭ ॥
@@ -1970,7 +1970,7 @@ the forests  to see  when  the Lord’s  mind  was
 seita brāhmaṇe prabhu saṅgete laila  
 that very  brāhmaṇa  the Lord  with Him  took
 
-(192) When the Lord wished to see the forests, He took that same brāhmaṇa with Him.
+(192) When the Lord wished to see the forests, He took that same brāhmaṇa with Him.[^38]
 
 মধুবন, তাল, কুমুদ, বহুলা-বন গেলা ৷  
 তাঁহা তাঁহা স্নান করি’ প্রেমাবিষ্ট হৈলা ॥ ১৯৩ ॥
@@ -2472,3 +2472,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^30]: The same verse as Madhya 6.186; translation as there.
 
 [^31]: *Anubhāṣya*: the small price is eager longing (*laulya*), greed (*lobha*), or taste (*ruci*) for the service of Kṛṣṇa; it cannot be had without self-surrender (compare the verse of the *Padyāvalī* cited in Madhya 8.70). *Amṛta-pravāha-bhāṣya*: the Lord sells this heavy load to the *jīvas* for its full price, faith (*śraddhā*), but here He will give it even for a small one — a mere semblance of faith (*śraddhābhāsa*).
+
+[^32]: *Amṛta-pravāha-bhāṣya*: Mādhava is Veṇī-Mādhava, the Deity of Prayāga (the edition’s heading names Bindu-Mādhava). *Anubhāṣya*: Prayāga is the king of tīrthas, the confluence of the Gaṅgā and the Yamunā (Triveṇī).
+
+[^33]: The same verse as Ādi 3.25; translation as there.
+
+[^34]: *Amṛta-pravāha-bhāṣya*: in the western country the vaiśyas are divided into several groups — Agarwals, Kalwars, Sanwars and others; the Kalwars, Sanwars and some others have fallen through faults in their occupations. Brāhmaṇas who serve as their priests are called Sanoḍiyā brāhmaṇas; they have fallen by such service, and so *sannyāsīs* do not eat in their homes. Edition heading: “by birth-lineage (*śaukra*) that brāhmaṇa’s food is not accepted.”
+
+[^35]: *Anubhāṣya*: by birth this pure devotee did not belong to those from whose hands water may be taken, yet he was fixed in the truth and in *daiva-varṇāśrama*, favourable to bhakti. So he fearlessly calls “fools” and “wicked” those who oppose Mahāprabhu and pure bhakti and see caste in a Vaiṣṇava.
+
+[^36]: *Anubhāṣya*: the *sādhu* is the *mahājana*. A mind that relies on the senses cannot recognise the true *mahājana*; in the age of Kali the *mahājanas* are the four ācāryas of the *sampradāyas* of pure Vaiṣṇavas, and in our *sampradāya* — Śrī Svarūpa Dāmodara, Śrī Rūpa and Sanātana and the followers of Śrī Rūpa.
+
+[^37]: *Anubhāṣya*: *guhā* — the cave of the heart of the *sampradāya* of pure *sādhus*, hidden from the eyes of ordinary people; *mahājana* — the *sādhu*, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the *sādhus* have accepted as a *mahājana* has called “the path of the scriptures”.
+
+[^38]: *Amṛta-pravāha-bhāṣya*: the forests are the twelve forests of Vraja: east of the Yamunā — Bhadravana, Bilvavana, Lohavana, Bhāṇḍīravana and Mahāvana; west of it — Madhuvana, Tālavana, Kumudavana, Bahulāvana, Kāmavana, Khadiravana and Vṛndāvana.

@@ -793,6 +793,7 @@ tr: In separation from the Lord the three would meet together and sing of His qu
 w: to Prayāga  coming  the Lord  performed  bathing in the river
 w: Mādhava  seeing  in love  performed  dancing and singing
 tr: Coming to Prayāga, the Lord bathed in the river, and on seeing Mādhava He danced and sang in love.
+fn: *Amṛta-pravāha-bhāṣya*: Mādhava is Veṇī-Mādhava, the Deity of Prayāga (the edition’s heading names Bindu-Mādhava). *Anubhāṣya*: Prayāga is the king of tīrthas, the confluence of the Gaṅgā and the Yamunā (Triveṇī).
 
 ## 150
 w: the Yamunā  seeing  in love  He falls  a leap  making
@@ -902,7 +903,7 @@ tr: The Lord said, “You are in the position of a guru, and I am like your disc
 ## 171
 w: hearing  astonished  the brāhmaṇa  says  fear  feeling
 w: such  words  You speak  why  a sannyāsī  being
-tr: Hearing this, the brāhmaṇa was astonished and said in fear, “You are a sannyāsī — why do You speak like this?
+tr: Hearing this, the brāhmaṇa was astonished and said in fear, “You are a *sannyāsī* — why do You speak like this?
 
 ## 172
 w: but  Your  love  seeing  in my mind  I infer
@@ -940,11 +941,13 @@ w: that  that  indeed  other  people
 w: he  whatever  standard  sets
 w: the world  that  follows
 tr: “Whatever the best of men does, others do the same; whatever standard he sets, the world follows.” (Bhagavad-gītā, 3.21)
+fn: The same verse as Ādi 3.25; translation as there.
 
 ## 179
 w: although  a Sanoḍiyā  was  that very  brāhmaṇa
 w: in a Sanoḍiyā’s house  a sannyāsī  not  does  eat
-tr: That brāhmaṇa was a Sanoḍiyā, and sannyāsīs do not eat in a Sanoḍiyā’s house.
+tr: That brāhmaṇa was a Sanoḍiyā, and *sannyāsīs* do not eat in a Sanoḍiyā’s house.
+fn: *Amṛta-pravāha-bhāṣya*: in the western country the vaiśyas are divided into several groups — Agarwals, Kalwars, Sanwars and others; the Kalwars, Sanwars and some others have fallen through faults in their occupations. Brāhmaṇas who serve as their priests are called Sanoḍiyā brāhmaṇas; they have fallen by such service, and so *sannyāsīs* do not eat in their homes. Edition heading: “by birth-lineage (*śaukra*) that brāhmaṇa’s food is not accepted.”
 
 ## 180
 w: nevertheless  Purī  seeing  his  Vaiṣṇava conduct
@@ -965,6 +968,7 @@ tr: “To give You a meal is my great good fortune. You are the Lord; You are no
 w: foolish people  will make  Your  censure
 w: to bear  not  I shall be able  of those  wicked men  the words
 tr: “But foolish people will censure You, and I will not be able to bear the words of those wicked people.”
+fn: *Anubhāṣya*: by birth this pure devotee did not belong to those from whose hands water may be taken, yet he was fixed in the truth and in *daiva-varṇāśrama*, favourable to bhakti. So he fearlessly calls “fools” and “wicked” those who oppose Mahāprabhu and pure bhakti and see caste in a Vaiṣṇava.
 
 ## 184
 w: the Lord  says  śruti  smṛti  all  the sages
@@ -975,13 +979,15 @@ tr: The Lord said, “The śruti, the smṛti and all the sages are not of one o
 w: of dharma  establishing  for the sake of  of the sādhu  the conduct
 w: of Purī Gosāñi  which  conduct  that  of dharma  the essence
 tr: “The conduct of a sādhu is what establishes dharma, and the conduct of Purī Gosāñi is the essence of dharma.
+fn: *Anubhāṣya*: the *sādhu* is the *mahājana*. A mind that relies on the senses cannot recognise the true *mahājana*; in the age of Kali the *mahājanas* are the four ācāryas of the *sampradāyas* of pure Vaiṣṇavas, and in our *sampradāya* — Śrī Svarūpa Dāmodara, Śrī Rūpa and Sanātana and the followers of Śrī Rūpa.
 
 ## 186
 w: argument  is unsettled  the śrutis  are various
 w: there is no such  sage  whose  opinion  not  differs
 w: of dharma  the truth  is hidden  in a cave
 w: the great soul  by which  has gone  that  is the path
-tr: “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in a cave; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva 313.117)
+tr: “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in the cave of the heart; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva, 313.117)
+fn: *Anubhāṣya*: *guhā* — the cave of the heart of the *sampradāya* of pure *sādhus*, hidden from the eyes of ordinary people; *mahājana* — the *sādhu*, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the *sādhus* have accepted as a *mahājana* has called “the path of the scriptures”.
 
 ## 187
 w: then  that  brāhmaṇa  the Lord  a meal  had Him take
@@ -1012,6 +1018,7 @@ tr: He saw Svayambhu, Viśrāma, Dīrgha-viṣṇu, Bhūteśvara, Mahāvidyā, G
 w: the forests  to see  when  the Lord’s  mind  was
 w: that very  brāhmaṇa  the Lord  with Him  took
 tr: When the Lord wished to see the forests, He took that same brāhmaṇa with Him.
+fn: *Amṛta-pravāha-bhāṣya*: the forests are the twelve forests of Vraja: east of the Yamunā — Bhadravana, Bilvavana, Lohavana, Bhāṇḍīravana and Mahāvana; west of it — Madhuvana, Tālavana, Kumudavana, Bahulāvana, Kāmavana, Khadiravana and Vṛndāvana.
 
 ## 193
 w: Madhuvana  Tāla  Kumuda  Bahulā-vana  He went to
