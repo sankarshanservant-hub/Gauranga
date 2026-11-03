@@ -606,321 +606,401 @@ the Ācārya  riddles  recites  anyone  to understand  not  is able
 অঙ্গীকার জানি’ আচার্য্য করেন নর্ত্তন ॥ ৬১ ॥
 
 tāṅra mukha dekhi’ hāse śacīra nandana  
-aṅgīkāra jāni’ ācārya karena nartana
+his  face  seeing  smiles  of Śacī  the son  
+aṅgīkāra jāni’ ācārya karena nartana  
+acceptance  knowing  the Ācārya  does  dancing
 
-(61) [not yet translated]
+(61) Looking at his face, Śacī’s son smiled; taking this as His assent, the Ācārya began to dance.
 
 কিবা প্রার্থনা, কিবা আজ্ঞা — কেহ না বুঝিল ৷  
 আলিঙ্গন করি’ প্রভু তাঁরে বিদায় দিল ॥ ৬২ ॥
 
 kibā prārthanā, kibā ājñā — keha nā bujhila  
-āliṅgana kari’ prabhu tāṅre vidāya dila
+whether  a prayer  whether  an order  —  anyone  not  understood  
+āliṅgana kari’ prabhu tāṅre vidāya dila  
+embrace  making  the Lord  him  leave  gave
 
-(62) [not yet translated]
+(62) Whether it was a prayer or an instruction, no one understood. Then the Lord embraced him and bade him farewell.
 
 নিত্যানন্দ কহে প্রভু, — শুনহ, শ্রীপাদ ৷  
 এই আমি মাগি, তুমি করহ প্রসাদ ॥ ৬৩ ॥
 
 nityānanda kahe prabhu, — śunaha, śrīpāda  
-ei āmi māgi, tumi karaha prasāda
+to Nityānanda  says  the Lord  —  listen  Śrīpāda  
+ei āmi māgi, tumi karaha prasāda  
+this  I  beg  You  grant  the favour
 
-(63) [not yet translated]
+(63) The Lord said to Nityānanda, “Listen, Śrīpāda: I beg this of You — grant Me this favour.
 
 প্রতিবর্ষ নীলাচলে তুমি না আসিবা ৷  
 গৌড়ে রহি’ মোর ইচ্ছা সফল করিবা ॥ ৬৪ ॥
 
 prati-varṣa nīlācale tumi nā āsibā  
-gauḍe rahi’ mora icchā saphala karibā
+every year  to Nīlācala  You  not  should come  
+gauḍe rahi’ mora icchā saphala karibā  
+in Gauḍa  staying  My  desire  fulfilled  should make
 
-(64) [not yet translated]
+(64) Do not come to Nīlācala every year. Stay in Gauḍa and fulfil My desire.
 
 তাঁহা সিদ্ধি করে — হেন অন্যে না দেখিয়ে ৷  
 আমার ‘দুষ্কর’ কর্ম্ম, তোমা হৈতে হয়ে ॥ ৬৫ ॥
 
 tāṅhā siddhi kare — hena anye nā dekhiye  
-āmāra ‘duṣkara’ karma, tomā haite haye
+that  fulfilment  does  —  such  another  not  I see  
+āmāra ‘duṣkara’ karma, tomā haite haye  
+My  difficult  work  You  from  is accomplished
 
-(65) [not yet translated]
+(65) I see no one else who could accomplish it. My difficult work can be done only by You.”
 
 নিত্যানন্দ কহে, — আমি ‘দেহ’ তুমি ‘প্রাণ’ ৷  
 ‘দেহ’ ‘প্রাণ’ ভিন্ন নহে, — এই ত’ প্রমাণ ॥ ৬৬ ॥
 
 nityānanda kahe, — āmi ‘deha’ tumi ‘prāṇa’  
-‘deha’ ‘prāṇa’ bhinna nahe, — ei ta’ pramāṇa
+Nityānanda  says  —  I  the body  You  the life  
+‘deha’ ‘prāṇa’ bhinna nahe, — ei ta’ pramāṇa  
+the body  the life  different  not are  —  this  indeed  the proof
 
-(66) [not yet translated]
+(66) Nityānanda said, “I am the body and You are the life. Body and life are not separate — this is the proof.
 
 অচিন্ত্যশক্ত্যে কর তুমি তাহার ঘটন ৷  
 যে করাহ, সেই করি, নাহিক নিয়ম ॥ ৬৭ ॥
 
 acintya-śaktye kara tumi tāhāra ghaṭana  
-ye karāha, sei kari, nāhika niyama
+by inconceivable potency  bring about  You  of that  the accomplishment  
+ye karāha, sei kari, nāhika niyama  
+whatever  You make Me do  that  I do  there is no  rule
 
-(67) [not yet translated]
+(67) Yet by Your inconceivable potency You bring this about. Whatever You make Me do, that I do; there is no rule here.”
 
 তাঁরে বিদায় দিল প্রভু করি’ আলিঙ্গন ৷  
 এইমত বিদায় দিল সব ভক্তগণ ॥ ৬৮ ॥
 
 tāṅre vidāya dila prabhu kari’ āliṅgana  
-ei mata vidāya dila saba bhakta-gaṇa
+Him  leave  gave  the Lord  making  an embrace  
+ei mata vidāya dila saba bhakta-gaṇa  
+in this way  leave  gave  all  the devotees
 
-(68) [not yet translated]
+(68) The Lord embraced Him and bade Him farewell, and in the same way He bade farewell to all the devotees.
 
 কুলীনগ্রামী পূর্ব্ববৎ কৈল নিবেদন ৷  
 প্রভু, আজ্ঞা কর, — আমার কর্তব্য সাধন ॥ ৬৯ ॥
 
 kulīna-grāmī pūrvavat kaila nivedana  
-prabhu, ājñā kara, — āmāra kartavya sādhana
+the resident of Kulīna-grāma  as before  made  a submission  
+prabhu, ājñā kara, — āmāra kartavya sādhana  
+Lord  an order  give  —  my  duty  practice
 
-(69) [not yet translated]
+(69) As before, a resident of Kulīna-grāma submitted, “Lord, please instruct me: what is my duty, my practice?”
 
 প্রভু কহে, — বৈষ্ণব সেবা, নাম-সংকীর্ত্তন ৷  
 দুই কর, শীঘ্র পাবে শ্রীকৃষ্ণ-চরণ ॥ ৭০ ॥
 
 prabhu kahe, — vaiṣṇava sevā, nāma-saṅkīrtana  
-dui kara, śīghra pābe śrī-kṛṣṇa-caraṇa
+the Lord  says  —  of the Vaiṣṇavas  service  saṅkīrtana of the Name  
+dui kara, śīghra pābe śrī-kṛṣṇa-caraṇa  
+two  do  quickly  you will obtain  the feet of Śrī Kṛṣṇa
 
-(70) [not yet translated]
+(70) The Lord said, “Serve the Vaiṣṇavas and chant the Holy Name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
 
 তেঁহো কহে, — কে বৈষ্ণব, কি তাঁর লক্ষণ ?  
 তবে হাসি’ কহে প্রভু জানি’ তাঁর মন ॥ ৭১ ॥
 
 teṅho kahe, — ke vaiṣṇava, ki tāṅra lakṣaṇa?  
-tabe hāsi’ kahe prabhu jāni’ tāṅra mana
+he  says  —  who  a Vaiṣṇava  what  his  symptom  
+tabe hāsi’ kahe prabhu jāni’ tāṅra mana  
+then  smiling  says  the Lord  knowing  his  mind
 
-(71) [not yet translated]
+(71) He asked, “Who is a Vaiṣṇava? What are his marks?” Then the Lord, knowing his mind, smiled and said,
 
 কৃষ্ণনাম নিরন্তর যাঁহার বদনে ৷  
 সেই বৈষ্ণব-শ্রেষ্ঠ, ভজ তাঁহার চরণে ॥ ৭২ ॥
 
 kṛṣṇa-nāma nirantara yāṅhāra vadane  
-sei vaiṣṇava-śreṣṭha, bhaja tāṅhāra caraṇe
+the Name of Kṛṣṇa  constantly  whose  in the mouth  
+sei vaiṣṇava-śreṣṭha, bhaja tāṅhāra caraṇe  
+he  the best of the Vaiṣṇavas  worship  his  feet
 
-(72) [not yet translated]
+(72) “One in whose mouth the Name of Kṛṣṇa is always present is the best of Vaiṣṇavas. Worship his feet.”
 
 বর্ষান্তরে পুনঃ তাঁরা ঐছে প্রশ্ন কৈল ৷  
 ‘বৈষ্ণবের তারতম্য’ প্রভু শিখাইল ॥ ৭৩ ॥
 
 varṣāntare punaḥ tāṅrā aiche praśna kaila  
-‘vaiṣṇavera tāratamya’ prabhu śikhāila
+after a year  again  they  such  a question  asked  
+‘vaiṣṇavera tāratamya’ prabhu śikhāila  
+of the Vaiṣṇavas  the gradation  the Lord  taught
 
-(73) [not yet translated]
+(73) A year later they asked the same question again, and the Lord taught them the gradation of Vaiṣṇavas:
 
 যাঁহার দর্শনে মুখে আইসে কৃষ্ণনাম ৷  
 তাঁহারে জানিহ তুমি ‘বৈষ্ণব-প্রধান’ ॥ ৭৪ ॥
 
 yāṅhāra darśane mukhe āise kṛṣṇa-nāma  
-tāṅhāre jāniha tumi ‘vaiṣṇava-pradhāna’
+whose  at the sight  to the mouth  comes  the Name of Kṛṣṇa  
+tāṅhāre jāniha tumi ‘vaiṣṇava-pradhāna’  
+him  know  you  the foremost Vaiṣṇava
 
-(74) [not yet translated]
+(74) “One whose very sight brings the Name of Kṛṣṇa to the mouth — know him to be the foremost Vaiṣṇava.”
 
 ক্রম করি’ কহে প্রভু ‘বৈষ্ণব’-লক্ষণ ৷  
 ‘বৈষ্ণব’, ‘বৈষ্ণবতর’, আর ‘বৈষ্ণবতম’ ॥ ৭৫ ॥
 
 krama kari’ kahe prabhu ‘vaiṣṇava’-lakṣaṇa  
-‘vaiṣṇava’, ‘vaiṣṇavatara’, āra ‘vaiṣṇavatama’
+in order  making  speaks  the Lord  of a Vaiṣṇava  the marks  
+‘vaiṣṇava’, ‘vaiṣṇavatara’, āra ‘vaiṣṇavatama’  
+Vaiṣṇava  a higher Vaiṣṇava  and  the highest Vaiṣṇava
 
-(75) [not yet translated]
+(75) Step by step the Lord described the marks of a Vaiṣṇava: the Vaiṣṇava, the higher Vaiṣṇava (*vaiṣṇavatara*) and the highest Vaiṣṇava (*vaiṣṇavatama*).
 
 এইমত সব বৈষ্ণব গৌড়ে চলিলা ৷  
 বিদ্যানিধি সে বৎসর নীলাদ্রি রহিলা ॥ ৭৬ ॥
 
 ei mata saba vaiṣṇava gauḍe calilā  
-vidyānidhi se vatsara nīlādri rahilā
+in this way  all  the Vaiṣṇavas  to Gauḍa  went  
+vidyānidhi se vatsara nīlādri rahilā  
+Vidyānidhi  that  year  in Nīlādri  stayed
 
-(76) [not yet translated]
+(76) In this way all the Vaiṣṇavas returned to Gauḍa. That year Vidyānidhi stayed on in Nīlādri.
 
 স্বরূপ-সহিত তাঁর হয় সখ্য-প্রীতি ৷  
 দুই-জনায় কৃষ্ণ-কথায় একত্রই স্থিতি ॥ ৭৭ ॥
 
 svarūpa-sahita tāṅra haya sakhya-prīti  
-dui-janāya kṛṣṇa-kathāya ekatrai sthiti
+with Svarūpa  his  is  friendly affection  
+dui-janāya kṛṣṇa-kathāya ekatrai sthiti  
+of the two  in talks of Kṛṣṇa  together  the abiding
 
-(77) [not yet translated]
+(77) He had a loving friendship with Svarūpa, and the two of them stayed together, absorbed in talks about Kṛṣṇa.
 
 গদাধর-পণ্ডিতে তিঁহো পুনঃ মন্ত্র দিল ৷  
 ওড়ন-ষষ্ঠীর দিনে যাত্রা যে দেখিল ॥ ৭৮ ॥
 
 gadādhara-paṇḍite tiṅho punaḥ mantra dila  
-oḍana-ṣaṣṭhīra dine yātrā ye dekhila
+to Gadādhara Paṇḍita  he  again  mantra  gave  
+oḍana-ṣaṣṭhīra dine yātrā ye dekhila  
+of Oḍana-ṣaṣṭhī  on the day  the festival  which  he saw
 
-(78) [not yet translated]
+(78) He gave the *mantra* to Gadādhara Paṇḍita a second time, and he saw the festival on the day of Oḍana-ṣaṣṭhī.
 
 জগন্নাথ পরেন তথা ‘মাড়ুয়া’ বসন ৷  
 দেখিয়া সঘৃণ হৈল বিদ্যানিধির মন ॥ ৭৯ ॥
 
 jagannātha parena tathā ‘māḍuyā’ vasana  
-dekhiyā saghṛṇa haila vidyānidhira mana
+Jagannātha  wears  there  starched  cloth  
+dekhiyā saghṛṇa haila vidyānidhira mana  
+seeing  disgusted  became  Vidyānidhi’s  mind
 
-(79) [not yet translated]
+(79) There Jagannātha is dressed in starched (*māḍuyā*) cloth, and when Vidyānidhi saw this, he felt disgust.
 
 সেই রাত্র্যে জগন্নাথ-বলাই আসিয়া ৷  
 দুই-ভাই চড়া’ন তাঁরে হাসিয়া হাসিয়া ॥ ৮০ ॥
 
 sei rātrye jagannātha-balāi āsiyā  
-dui-bhāi caḍā’na tāṅre hāsiyā hāsiyā
+that  night  Jagannātha and Balāi  coming  
+dui-bhāi caḍā’na tāṅre hāsiyā hāsiyā  
+the two brothers  slap  him  laughing  laughing
 
-(80) [not yet translated]
+(80) That night Jagannātha and Balāi came to him, and the two brothers slapped him, laughing all the while.
 
 গাল ফুলিল, আচার্য্য অন্তরে উল্লাস ৷  
 বিস্তারি’ বর্ণিয়াছেন বৃন্দাবন-দাস ॥ ৮১ ॥
 
 gāla phulila, ācārya antare ullāsa  
-vistāri’ varṇiyāchena vṛndāvana dāsa
+the cheeks  swelled  the Ācārya’s  in the heart  joy  
+vistāri’ varṇiyāchena vṛndāvana dāsa  
+in detail  has described  Vṛndāvana  dāsa
 
-(81) [not yet translated]
+(81) His cheeks swelled, but the Ācārya rejoiced at heart. Vṛndāvana dāsa has described this in detail.
 
 এইমত প্রত্যব্দ আইসে গৌড়ের ভক্তগণ ৷  
 প্রভু-সঙ্গে রহি’ করে যাত্রা-দরশন ॥ ৮২ ॥
 
 ei mata pratyabda āise gauḍera bhakta-gaṇa  
-prabhu-saṅge rahi’ kare yātrā-daraśana
+in this way  every year  come  of Gauḍa  the devotees  
+prabhu-saṅge rahi’ kare yātrā-daraśana  
+with the Lord  staying  do  of the festival  seeing
 
-(82) [not yet translated]
+(82) In this way the devotees of Gauḍa came every year, stayed with the Lord and saw the festival.
 
 তার মধ্যে যে যে বর্ষে আছয়ে বিশেষ ৷  
 বিস্তারিয়া আগে তাহা কহিব নিঃশেষ ॥ ৮৩ ॥
 
 tāra madhye ye ye varṣe āchaye viśeṣa  
-vistāriyā āge tāhā kahiba niḥśeṣa
+that  among  in which  which  years  there is  something special  
+vistāriyā āge tāhā kahiba niḥśeṣa  
+in detail  later  that  I shall tell  fully
 
-(83) [not yet translated]
+(83) Whatever was special in particular years, I shall relate fully and in detail later on.
 
 এইমত মহাপ্রভুর চারি বৎসর গেল ৷  
 দক্ষিণ যাঞা আসিতে দুই বৎসর লাগিল ॥ ৮৪ ॥
 
 ei mata mahāprabhura cāri vatsara gela  
-dakṣiṇa yāñā āsite dui vatsara lāgila
+in this way  of Mahāprabhu  four  years  passed  
+dakṣiṇa yāñā āsite dui vatsara lāgila  
+to the south  going  to come back  two  years  it took
 
-(84) [not yet translated]
+(84) So four years of Mahāprabhu’s life passed. Going south and coming back took two years.
 
 আর দুই বৎসর চাহে বৃন্দাবন যাইতে ৷  
 রামানন্দ-হঠে প্রভু না পারে চলিতে ॥ ৮৫ ॥
 
 āra dui vatsara cāhe vṛndāvana yāite  
-rāmānanda-haṭhe prabhu nā pāre calite
+another  two  years  He wants  to Vṛndāvana  to go  
+rāmānanda-haṭhe prabhu nā pāre calite  
+through Rāmānanda’s insistence  the Lord  not  can  set out
 
-(85) [not yet translated]
+(85) For another two years He wanted to go to Vṛndāvana, but because of Rāmānanda’s insistence the Lord could not set out.
 
 পঞ্চম বৎসরে গৌড়ের ভক্তগণ আইলা ৷  
 রথ দেখি’ না রহিলা, গৌড়েরে চলিলা ॥ ৮৬ ॥
 
 pañcama vatsare gauḍera bhakta-gaṇa āilā  
-ratha dekhi’ nā rahilā, gauḍere calilā
+in the fifth  year  of Gauḍa  the devotees  came  
+ratha dekhi’ nā rahilā, gauḍere calilā  
+the chariot  seeing  not  stayed  to Gauḍa  went
 
-(86) [not yet translated]
+(86) In the fifth year the devotees of Gauḍa came; they saw the Ratha-yātrā, but they did not stay and returned to Gauḍa.
 
 তবে প্রভু সার্ব্বভৌম-রামানন্দ-স্থানে ৷  
 আলিঙ্গন করি’ কহে মধুর-বচনে ॥ ৮৭ ॥
 
 tabe prabhu sārvabhauma-rāmānanda-sthāne  
-āliṅgana kari’ kahe madhura-vacane
+then  the Lord  to Sārvabhauma and Rāmānanda  
+āliṅgana kari’ kahe madhura-vacane  
+embrace  making  speaks  with sweet words
 
-(87) [not yet translated]
+(87) Then the Lord embraced Sārvabhauma and Rāmānanda and spoke to them sweetly:
 
 বহুত উৎকণ্ঠা মোর যাইতে বৃন্দাবন ৷  
 তোমার হঠে দুই বৎসর না কৈলুঁ গমন ॥ ৮৮ ॥
 
 bahuta utkaṇṭhā mora yāite vṛndāvana  
-tomāra haṭhe dui vatsara nā kailuṅ gamana
+great  eagerness  Mine  to go  to Vṛndāvana  
+tomāra haṭhe dui vatsara nā kailuṅ gamana  
+your  through insistence  two  years  not  I made  departure
 
-(88) [not yet translated]
+(88) “I am very eager to go to Vṛndāvana. Because of your insistence I have not gone for two years.
 
 অবশ্য চলিব, দুঁহে করহ সম্মতি ৷  
 তোমা-দুঁহা বিনা মোর নাহি অন্য গতি ॥ ৮৯ ॥
 
 avaśya caliba, duṅhe karaha sammati  
-tomā-duṅhā vinā mora nāhi anya gati
+certainly  I shall go  both  give  consent  
+tomā-duṅhā vinā mora nāhi anya gati  
+you two  without  Mine  there is no  other  refuge
 
-(89) [not yet translated]
+(89) I shall certainly go now — both of you, give your consent. I have no refuge but you two.
 
 গৌড়-দেশে হয় মোর ‘দুই সমাশ্রয়’ ৷  
 ‘জননী’ ‘জাহ্নবী’, — এই দুই দয়াময় ॥ ৯০ ॥
 
 gauḍa-deśe haya mora ‘dui samāśraya’  
-‘jananī’ ‘jāhnavī’, — ei dui dayāmaya
+in Gauḍa-deśa  are  Mine  two  shelters  
+‘jananī’ ‘jāhnavī’, — ei dui dayāmaya  
+mother  Jāhnavī  —  these  two  all-merciful
 
-(90) [not yet translated]
+(90) In Gauḍa-deśa I have two shelters, My mother and the Jāhnavī (Gaṅgā); both are all-merciful.
 
 গৌড়-দেশ দিয়া যাব তাঁ-সবা দেখিয়া ৷  
 তুমি দুঁহে আজ্ঞা দেহ’ পরসন্ন হঞা ॥ ৯১ ॥
 
 gauḍa-deśa diyā yāba tāṅ-sabā dekhiyā  
-tumi duṅhe ājñā deha’ parasanna hañā
+through Gauḍa-deśa  I shall go  them  seeing  
+tumi duṅhe ājñā deha’ parasanna hañā  
+you  both  permission  give  pleased  becoming
 
-(91) [not yet translated]
+(91) I shall go by way of Gauḍa-deśa and see them both. Be pleased, both of you, and give Me leave.”
 
 শুনিয়া প্রভুর বাণী মনে বিচারয় ৷  
 প্রভু-সনে অতি হঠ কভু ভাল নয় ॥ ৯২ ॥
 
 śuniyā prabhura vāṇī mane vicāraya  
-prabhu-sane ati haṭha kabhu bhāla naya
+hearing  of the Lord  the words  in the mind  they consider  
+prabhu-sane ati haṭha kabhu bhāla naya  
+with the Lord  too much  insistence  ever  good  not is
 
-(92) [not yet translated]
+(92) Hearing the Lord’s words, they reflected: “To insist too much with the Lord is never good.”
 
 দুঁহে কহে, — এবে বর্ষা, চলিতে নারিবা ৷  
 বিজয়া-দশমী আইলে অবশ্য চলিবা ॥ ৯৩ ॥
 
 duṅhe kahe, — ebe varṣā, calite nāribā  
-vijayā-daśamī āile avaśya calibā
+both  say  —  now  the rains  to travel  You will not be able  
+vijayā-daśamī āile avaśya calibā  
+Vijayā-daśamī  when it comes  certainly  You will go
 
-(93) [not yet translated]
+(93) They both said, “Now it is the rainy season; You cannot travel. When Vijayā-daśamī comes, You shall certainly go.”
 
 আনন্দে মহাপ্রভু বর্ষা কৈল সমাধান ৷  
 বিজয়া-দশমী-দিনে করিল পয়ান ॥ ৯৪ ॥
 
 ānande mahāprabhu varṣā kaila samādhāna  
-vijayā-daśamī-dine karila payāna
+in joy  Mahāprabhu  the rainy season  made  completion  
+vijayā-daśamī-dine karila payāna  
+on the day of Vijayā-daśamī  made  departure
 
-(94) [not yet translated]
+(94) Mahāprabhu happily saw the rainy season through, and on the day of Vijayā-daśamī He set out.
 
 জগন্নাথের প্রসাদ প্রভু যত পাঞাছিল ৷  
 কড়ার চন্দন, ডোর, সব সঙ্গে লৈল ॥ ৯৫ ॥
 
 jagannāthera prasāda prabhu yata pāñāchila  
-kaḍāra candana, ḍora, saba saṅge laila
+of Jagannātha  the prasāda  the Lord  as much as  had received  
+kaḍāra candana, ḍora, saba saṅge laila  
+kaḍāra  sandalwood  ropes  all  with  He took
 
-(95) [not yet translated]
+(95) He took with Him all the *prasāda* of Jagannātha that He had received — *kaḍāra* ointment, sandalwood paste and ropes.
 
 জগন্নাথে আজ্ঞা মাগি’ প্রভাতে চলিলা ৷  
 ওড়িয়া ভক্তগণ সঙ্গে পাছে চলি’ আইলা ॥ ৯৬ ॥
 
 jagannāthe ājñā māgi’ prabhāte calilā  
-oḍiyā bhakta-gaṇa saṅge pāche cali’ āilā
+from Jagannātha  permission  begging  at dawn  He set out  
+oḍiyā bhakta-gaṇa saṅge pāche cali’ āilā  
+the Oḍiyā  devotees  together  behind  going  came
 
-(96) [not yet translated]
+(96) He begged leave of Jagannātha and set out at dawn, and the Oḍiyā devotees came following behind Him.
 
 ওড়িয়া-ভক্তগণে প্রভু যত্নে নিবারিলা ৷  
 নিজগণ সঙ্গে প্রভু ‘ভবানীপুর’ আইলা ॥ ৯৭ ॥
 
 oḍiyā-bhakta-gaṇe prabhu yatne nivārilā  
-nija-gaṇa saṅge prabhu ‘bhavānīpura’ āilā
+the Oḍiyā devotees  the Lord  with effort  stopped  
+nija-gaṇa saṅge prabhu ‘bhavānīpura’ āilā  
+His own associates  with  the Lord  to Bhavānīpura  came
 
-(97) [not yet translated]
+(97) With some effort the Lord made the Oḍiyā devotees turn back, and with His own associates He came to Bhavānīpura.
 
 রামানন্দ আইলা পাছে দোলায় চড়িয়া ৷  
 বাণীনাথ বহু প্রসাদ দিল পাঠাঞা ॥ ৯৮ ॥
 
 rāmānanda āilā pāche dolāya caḍiyā  
-vāṇīnātha bahu prasāda dila pāṭhāñā
+Rāmānanda  came  behind  in a palanquin  riding  
+vāṇīnātha bahu prasāda dila pāṭhāñā  
+Vāṇīnātha  much  prasāda  gave  sending
 
-(98) [not yet translated]
+(98) Rāmānanda came after Him, riding in a palanquin, and Vāṇīnātha sent a great deal of *prasāda*.
 
 প্রসাদ ভোজন করি’ তথায় রহিলা ৷  
 প্রাতঃকালে চলি’ প্রভু ‘ভুবনেশ্বর’ আইলা ॥ ৯৯ ॥
 
 prasāda bhojana kari’ tathāya rahilā  
-prātaḥ-kāle cali’ prabhu ‘bhuvaneśvara’ āilā
+prasāda  eating  having done  there  He stayed  
+prātaḥ-kāle cali’ prabhu ‘bhuvaneśvara’ āilā  
+in the morning  going  the Lord  to Bhuvaneśvara  came
 
-(99) [not yet translated]
+(99) After taking the *prasāda* He stayed there, and setting out in the morning, the Lord came to Bhuvaneśvara.
 
 ‘কটকে’ আসিয়া কৈল ‘গোপাল’ দরশন ৷  
 স্বপ্নেশ্বর-বিপ্র কৈল প্রভুর নিমন্ত্রণ ॥ ১০০ ॥
 
 ‘kaṭake’ āsiyā kaila ‘gopāla’ daraśana  
-svapneśvara-vipra kaila prabhura nimantraṇa
+to Kaṭaka  coming  He made  of Gopāla  darśana  
+svapneśvara-vipra kaila prabhura nimantraṇa  
+the brāhmaṇa Svapneśvara  made  of the Lord  invitation
 
-(100) [not yet translated]
+(100) Coming to Kaṭaka, He had *darśana* of Gopāla, and the brāhmaṇa Svapneśvara invited the Lord for a meal.
 
 রামানন্দ-রায় সব-গণে নিমন্ত্রিল ৷  
 বাহির উদ্যানে আসি, প্রভু বাসা কৈল ॥ ১০১ ॥
