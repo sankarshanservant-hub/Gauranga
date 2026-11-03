@@ -774,7 +774,7 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 [^149-1]: So in the edition (checked against the scan). The *Amṛta-pravāha-bhāṣya* on verse 149 has Veṇī-mādhava, the Deity of Prayāga; Bindu-mādhava is the Deity of Vārāṇasī.
 
-[^185-1]: The hypocrite brāhmaṇa of the *Caitanya-bhāgavata* who made a show of imitating Haridāsa Ṭhākura's ecstasy.
+[^185-1]: *Ḍhaṅga-vipra* — a hypocrite brāhmaṇa who makes a show of feigned ecstasy. The edition gives no source.
 
 [^185-2]: The edition refers to Madhya 25.54–57 but quotes verses 54, 55 and 57; verse 56 is the *Mahābhārata* verse that also appears as Madhya 17.186.
 
