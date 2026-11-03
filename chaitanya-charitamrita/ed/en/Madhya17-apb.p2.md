@@ -13,3 +13,23 @@ The name of Kṛṣṇa is a special touchstone (*cintāmaṇi*), spiritual by n
 ## 136
 
 Therefore the name, form, qualities and pastimes of Śrī Kṛṣṇa are never perceived by worldly eyes, ears and other senses. When the *jīva* turns toward service (*sevonmukha*), that is, turns toward Kṛṣṇa in his spiritual nature, then Kṛṣṇa's name and the rest manifest of Themselves in his transcendental senses—the tongue and the others.
+
+## 137
+
+In those in whom the thought “I am Brahman” arises, thoughts of *māyā* fall away, and a little happiness does arise in them: abiding in spiritual Brahman. But those who can awaken in their hearts the spiritual play of *rasa*—Kṛṣṇa's name, Kṛṣṇa's form, Kṛṣṇa's qualities and Kṛṣṇa's pastimes—taste the *rasa* of pastimes full of bliss, infinitely superior to “the bliss of Brahman.” Therefore Kṛṣṇa's pastimes, the very *rasa* of pastimes full of bliss, suddenly attract the knower of Brahman and bring him under their sway.
+
+## 138
+
+At first his heart was absorbed in the happiness of Brahman; later he gave that happiness up, was drawn by Kṛṣṇa's pastimes full of sweetness, and set forth the *Śrīmad-Bhāgavata Purāṇa*, the lamp of truth about Kṛṣṇa. To that *guru*, the destroyer of all sins, Śrī Śuka, the son of Vyāsa, I bow.
+
+## 142
+
+The breeze, laden with the honeyed fragrance of the *tulasī* mixed with the filaments of the lotus feet of the lotus-eyed Bhagavān, entered through the nostrils of the four Sanas, who were devoted to the featureless Brahman, and stirred their minds and bodies.
+
+## 145
+
+(The vessel of the spiritual *rasa* of the name) is a very heavy load; I sell it to the *jīvas* for the price of full faith (*śraddhā*). It is very hard for a merchant to carry such a heavy load back home. So if I get even a small price—that is, the price of a semblance of faith (*śraddhābhāsa*)—I will sell it here.
+
+## 149
+
+Mādhava: Veṇī-mādhava.
