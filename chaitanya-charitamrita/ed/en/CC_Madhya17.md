@@ -314,41 +314,51 @@ a herd of maddened elephants  came  to do  drinking of water
 ‘কৃষ্ণ কহ’ বলি’ প্রভু জল ফেলি’ মারিলা ॥ ৩১ ॥
 
 prabhu jale kṛtya karena, āge hastī āilā  
-‘kṛṣṇa kaha’ bali’ prabhu jala pheli’ mārilā
+the Lord  in the water  His rites  performs  before Him  the elephants  came  
+‘kṛṣṇa kaha’ bali’ prabhu jala pheli’ mārilā  
+“Kṛṣṇa  say”  saying  the Lord  water  throwing  splashed
 
-(31) [not yet translated]
+(31) While the Lord was performing His rites in the water, the elephants came before Him. Saying, “Say ‘Kṛṣṇa’!” the Lord splashed water at them.
 
 সেই-জল-বিন্দু-কণা লাগে যাঁর গায় ৷  
 সেই ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে, প্রেমে নাচে, গায় ॥ ৩২ ॥
 
 sei-jala-bindu-kaṇā lāge yāṅra gāya  
-sei ‘kṛṣṇa’ ‘kṛṣṇa’ kahe, preme nāce, gāya
+of that water drops sprays  touch  whose  body  
+sei ‘kṛṣṇa’ ‘kṛṣṇa’ kahe, preme nāce, gāya  
+he  Kṛṣṇa  Kṛṣṇa  says  in love  dances  sings
 
-(32) [not yet translated]
+(32) Whoever was touched by a spray of those drops cried, “Kṛṣṇa! Kṛṣṇa!” and danced and sang in love.
 
 কেহ ভূমে পড়ে, কেহ করয়ে চিৎকার ৷  
 দেখি’ ভট্টাচার্য্যের মনে হয় চমৎকার ॥ ৩৩ ॥
 
 keha bhūme paḍe, keha karaye citkāra  
-dekhi’ bhaṭṭācāryera mane haya camatkāra
+some  on the ground  fall  some  make  loud cries  
+dekhi’ bhaṭṭācāryera mane haya camatkāra  
+seeing  in the Bhaṭṭācārya’s  mind  arises  wonder
 
-(33) [not yet translated]
+(33) Some fell to the ground, and some trumpeted loudly. Seeing this, the Bhaṭṭācārya was struck with wonder.
 
 পথে যাইতে করে প্রভু উচ্চ-সঙ্কীর্ত্তন ৷  
 মধুর কণ্ঠধ্বনি শুনি’ আইসে মৃগীগণ ॥ ৩৪ ॥
 
 pathe yāite kare prabhu ucca-saṅkīrtana  
-madhura kaṇṭha-dhvani śuni’ āise mṛgī-gaṇa
+on the road  going  does  the Lord  loud saṅkīrtana  
+madhura kaṇṭha-dhvani śuni’ āise mṛgī-gaṇa  
+sweet  the sound of His voice  hearing  come  the does
 
-(34) [not yet translated]
+(34) As He went along the road, the Lord would sing the Name aloud, and hearing His sweet voice, the does came to Him.
 
 ডাহিনে-বামে ধ্বনি শুনি’ যায় প্রভু-সঙ্গে ৷  
 প্রভু তার অঙ্গ মুছে, শ্লোক পড়ে রঙ্গে ॥ ৩৫ ॥
 
 ḍāhine-vāme dhvani śuni’ yāya prabhu-saṅge  
-prabhu tāra aṅga muche, śloka paḍe raṅge
+right and left  the sound  hearing  go  with the Lord  
+prabhu tāra aṅga muche, śloka paḍe raṅge  
+the Lord  their  bodies  strokes  a verse  recites  joyfully
 
-(35) [not yet translated]
+(35) Listening to the sound, they walked with the Lord on His right and left. The Lord stroked them and joyfully recited a verse:
 
 ধন্যাঃ স্ম মূঢ়মতয়োঽপি হরিণ্য এতা  
 যা নন্দনন্দনমুপাত্ত-বিচিত্রবেশম্ ৷  
@@ -356,101 +366,129 @@ prabhu tāra aṅga muche, śloka paḍe raṅge
 পূজাং দধুর্বিরচিতাং প্রণয়াবলোকৈঃ ॥ ৩৬ ॥
 
 dhanyāḥ sma mūḍha-matayo ’pi hariṇya etā  
+blessed  indeed  foolish-minded  though  does  these  
 yā nanda-nandanam upātta-vicitraveśam  
+who  to the son of Nanda  wearing a colourful dress  
 ākarṇya veṇu-raṇitaṁ saha-kṛṣṇa-sārāḥ  
-pūjāṁ dadhur viracitāṁ praṇayāvalokaiḥ
+hearing  the sound of the flute  together with the black bucks  
+pūjāṁ dadhur viracitāṁ praṇayāvalokaiḥ  
+worship  offered  arranged  with loving glances
 
-(36) [not yet translated]
+(36) “Blessed are these does! Though foolish by nature, when they heard the flute they came with their black bucks to the son of Nanda, in His colourful dress, and worshipped Him with loving glances.” (Śrīmad-Bhāgavatam 10.21.11)
 
 হেনকালে ব্যাঘ্র তথা আইল পাঁচ-সাত ৷  
 ব্যাঘ্র-মৃগী মিলি’ চলে মহাপ্রভুর সাথ ॥ ৩৭ ॥
 
 hena-kāle vyāghra tathā āila pāṅca-sāta  
-vyāghra-mṛgī mili’ cale mahāprabhura sātha
+at that time  tigers  there  came  five or seven  
+vyāghra-mṛgī mili’ cale mahāprabhura sātha  
+tigers and does  together  go  Mahāprabhu’s  company
 
-(37) [not yet translated]
+(37) Just then five or seven tigers came there, and tigers and does walked together with Mahāprabhu.
 
 দেখি’ মহাপ্রভুর ‘বৃন্দাবন’-স্মৃতি হৈল ৷  
 বৃন্দাবন-গুণ-বর্ণন শ্লোক পড়িল ॥ ৩৮ ॥
 
 dekhi’ mahāprabhura ‘vṛndāvana’-smṛti haila  
-vṛndāvana-guṇa-varṇana śloka paḍila
+seeing  in Mahāprabhu  of Vṛndāvana  remembrance  arose  
+vṛndāvana-guṇa-varṇana śloka paḍila  
+Vṛndāvana’s  qualities  describing  a verse  He recited
 
-(38) [not yet translated]
+(38) Seeing this, Mahāprabhu remembered Vṛndāvana, and He recited a verse describing its glories:
 
 যত্র নৈসর্গদুর্ব্বৈরাঃ সহাসন্ নৃ-মৃগাদয়ঃ ৷  
 মিত্রাণীবাজিতাবাস-দ্রুত-রুট্তর্ষণাদিকম্ ॥ ৩৯ ॥
 
 yatra naisarga-durvairāḥ  
+where  by nature bitter enemies  
 sahāsan nṛ-mṛgādayaḥ  
+lived together  men, beasts and others  
 mitrāṇīvājitāvāsa-  
-druta-ruṭ-tarṣaṇādikam
+like friends  the abode of the Unconquered  
+druta-ruṭ-tarṣaṇādikam  
+fled away  anger, thirst and the like
 
-(39) [not yet translated]
+(39) “There, in the abode of the Unconquered Lord, men and beasts, enemies by nature, lived together like friends, and anger, thirst and the like had fled away.” (Śrīmad-Bhāgavatam 10.13.60)
 
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহ করি’ প্রভু যবে বলিল ৷  
 ‘কৃষ্ণ’ কহি’ ব্যাঘ্র-মৃগ নাচিতে লাগিল ॥ ৪০ ॥
 
 ‘kṛṣṇa’ ‘kṛṣṇa’ kaha kari’ prabhu yabe balila  
-‘kṛṣṇa’ kahi’ vyāghra-mṛga nācite lāgila
+Kṛṣṇa  Kṛṣṇa  say  thus  the Lord  when  said  
+‘kṛṣṇa’ kahi’ vyāghra-mṛga nācite lāgila  
+Kṛṣṇa  saying  the tigers and deer  to dance  began
 
-(40) [not yet translated]
+(40) When the Lord said, “Say ‘Kṛṣṇa! Kṛṣṇa!’” the tigers and deer began to dance, saying, “Kṛṣṇa!”
 
 নাচে, কান্দে ব্যাঘ্রগণ মৃগীগণ-সঙ্গে ৷  
 বলভদ্র-ভট্টাচার্য্য দেখে অপূর্ব্ব-রঙ্গে ॥ ৪১ ॥
 
 nāce, kānde vyāghra-gaṇa mṛgī-gaṇa-saṅge  
-balabhadra-bhaṭṭācārya dekhe apūrva-raṅge
+dance  weep  the tigers  together with the does  
+balabhadra-bhaṭṭācārya dekhe apūrva-raṅge  
+Balabhadra Bhaṭṭācārya  watches  with wonder at the unprecedented sport
 
-(41) [not yet translated]
+(41) The tigers danced and wept together with the does, and Balabhadra Bhaṭṭācārya watched this unprecedented sport.
 
 ব্যাঘ্র-মৃগ অন্যোন্যে করে আলিঙ্গন ৷  
 মুখে মুখ দিয়া করে অন্যোন্যে চুম্বন ॥ ৪২ ॥
 
 vyāghra-mṛga anyonye kare āliṅgana  
-mukhe mukha diyā kare anyonye cumbana
+tigers and deer  one another  do  embracing  
+mukhe mukha diyā kare anyonye cumbana  
+to mouth  mouth  putting  do  one another  kissing
 
-(42) [not yet translated]
+(42) The tigers and deer embraced one another, and putting mouth to mouth, they kissed.
 
 কৌতুক দেখিয়া প্রভু হাসিতে লাগিলা ৷  
 তা-সবাকে তাঁহা ছাড়ি’ আগে চলি’ গেলা ॥ ৪৩ ॥
 
 kautuka dekhiyā prabhu hāsite lāgilā  
-tā-sabāke tāṅhā chāḍi’ āge cali’ gelā
+the fun  seeing  the Lord  to laugh  began  
+tā-sabāke tāṅhā chāḍi’ āge cali’ gelā  
+them all  there  leaving  ahead  going  He went
 
-(43) [not yet translated]
+(43) Seeing this delightful scene, the Lord began to laugh. Then He left them all there and went on ahead.
 
 ময়ূরাদি পক্ষিগণ প্রভুরে দেখিয়া ৷  
 সঙ্গে চলে, ‘কৃষ্ণ’ বলি’ নাচে মত্ত হঞা ॥ ৪৪ ॥
 
 mayūrādi pakṣi-gaṇa prabhure dekhiyā  
-saṅge cale, ‘kṛṣṇa’ bali’ nāce matta hañā
+peacocks and other  birds  the Lord  seeing  
+saṅge cale, ‘kṛṣṇa’ bali’ nāce matta hañā  
+along with Him  go  Kṛṣṇa  saying  dance  maddened  becoming
 
-(44) [not yet translated]
+(44) Seeing the Lord, peacocks and other birds went along with Him, crying “Kṛṣṇa” and dancing as if mad.
 
 ‘হরিবোল’ বলি’ প্রভু করে উচ্চধ্বনি ৷  
 বৃক্ষলতা — প্রফুল্লিত, সেই ধ্বনি শুনি’ ॥ ৪৫ ॥
 
 ‘hari-bola’ bali’ prabhu kare ucca-dhvani  
-vṛkṣa-latā — praphullita, sei dhvani śuni’
+“Hari bol”  saying  the Lord  makes  a loud call  
+vṛkṣa-latā — praphullita, sei dhvani śuni’  
+trees and creepers  —  rejoice  that  call  hearing
 
-(45) [not yet translated]
+(45) The Lord called aloud, “Hari bol!” and the trees and creepers rejoiced to hear it.
 
 ‘ঝারিখণ্ডে’ স্থাবর-জঙ্গম আছে যত ৷  
 কৃষ্ণনাম দিয়া কৈল প্রেমেতে উন্মত্ত ॥ ৪৬ ॥
 
 ‘jhārikhaṇḍe’ sthāvara-jaṅgama āche yata  
-kṛṣṇa-nāma diyā kaila premete unmatta
+in Jhārikhaṇḍa  the stationary and the moving  are  as many as  
+kṛṣṇa-nāma diyā kaila premete unmatta  
+Kṛṣṇa’s name  giving  He made  with love  mad
 
-(46) [not yet translated]
+(46) All the moving and nonmoving beings of Jhārikhaṇḍa He made mad with love by giving them Kṛṣṇa’s name.
 
 যেই গ্রাম দিয়া যান, যাঁহা করেন স্থিতি ৷  
 সে-সব গ্রামের লোকের হয় ‘প্রেমভক্তি’ ॥ ৪৭ ॥
 
 yei grāma diyā yāna, yāṅhā karena sthiti  
-se-saba grāmera lokera haya ‘prema-bhakti’
+which  village  through  He goes  where  He makes  a stay  
+se-saba grāmera lokera haya ‘prema-bhakti’  
+of all those  villages  in the people  arises  loving devotion
 
-(47) [not yet translated]
+(47) In every village He passed through or stayed in, the people gained loving devotion, *prema-bhakti*.
 
 কেহ যদি তাঁর মুখে শুনে কৃষ্ণনাম ৷  
 তাঁর মুখে আন শুনে, তাঁর মুখে আন ॥ ৪৮ ॥
@@ -459,99 +497,125 @@ se-saba grāmera lokera haya ‘prema-bhakti’
 পরম্পরায় ‘বৈষ্ণব’ হইল সর্ব্বদেশে ॥ ৪৯ ॥
 
 keha yadi tāṅra mukhe śune kṛṣṇa-nāma  
+anyone  if  His  from the mouth  hears  Kṛṣṇa’s name  
 tāṅra mukhe āna śune, tāṅra mukhe āna  
+his  from the mouth  another  hears  his  from the mouth  another  
 sabe ‘kṛṣṇa’ ‘hari’ bali’ nāce, kānde, hāse  
-paramparāya ‘vaiṣṇava’ haila sarva-deśe
+all  Kṛṣṇa  Hari  saying  dance  weep  laugh  
+paramparāya ‘vaiṣṇava’ haila sarva-deśe  
+in succession  Vaiṣṇavas  became  in every land
 
-(48–49) [not yet translated]
+(48–49) If anyone heard Kṛṣṇa’s name from His mouth, another heard it from that person’s mouth, and yet another from his. Saying “Kṛṣṇa!” and “Hari!”, they all danced, wept and laughed, and so, one from another, people became Vaiṣṇavas in every land.
 
 যদ্যপি প্রভু লোক-সংঘট্টের ত্রাসে ৷  
 প্রেম ‘গুপ্ত’ করেন, বাহিরে না প্রকাশে ॥ ৫০ ॥
 
 yadyapi prabhu loka-saṅghaṭṭera trāse  
-prema ‘gupta’ karena, bāhire nā prakāśe
+although  the Lord  of crowds of people  in fear  
+prema ‘gupta’ karena, bāhire nā prakāśe  
+His love  hidden  keeps  outwardly  not  shows
 
-(50) [not yet translated]
+(50) Although the Lord, wary of crowds, kept His love hidden and did not show it outwardly,
 
 তথাপি তাঁর দর্শন-শ্রবণ-প্রভাবে ৷  
 সকল দেশের লোক হৈল ‘বৈষ্ণবে’ ॥ ৫১ ॥
 
 tathāpi tāṅra darśana-śravaṇa-prabhāve  
-sakala deśera loka haila ‘vaiṣṇave’
+still  His  of seeing and hearing  by the power  
+sakala deśera loka haila ‘vaiṣṇave’  
+of all  lands  the people  became  Vaiṣṇavas
 
-(51) [not yet translated]
+(51) still, by the power of seeing and hearing Him, the people of every land became Vaiṣṇavas.
 
 গৌড়, বঙ্গ, উৎকল, দক্ষিণ-দেশ গিয়া ৷  
 লোকের নিস্তার কৈল আপনে ভ্রমিয়া ॥ ৫২ ॥
 
 gauḍa, baṅga, utkala, dakṣiṇa-deśa giyā  
-lokera nistāra kaila āpane bhramiyā
+to Gauḍa  Vaṅga  Utkala  the southern lands  going  
+lokera nistāra kaila āpane bhramiyā  
+of the people  deliverance  He brought  Himself  wandering
 
-(52) [not yet translated]
+(52) Going to Gauḍa, Vaṅga, Utkala and the South, He delivered the people, wandering there Himself.
 
 মথুরা যাইবার ছলে আসেন ঝারিখণ্ড ৷  
 ভিন্নপ্রায় লোক তাঁহা পরম-পাষণ্ড ॥ ৫৩ ॥
 
 mathurā yāibāra chale āsena jhārikhaṇḍa  
-bhinna-prāya loka tāṅhā parama-pāṣaṇḍa
+to Mathurā  going  on the pretext  He comes  to Jhārikhaṇḍa  
+bhinna-prāya loka tāṅhā parama-pāṣaṇḍa  
+almost outsiders  the people  there  great unbelievers
 
-(53) [not yet translated]
+(53) On the pretext of going to Mathurā He came to Jhārikhaṇḍa, where the people lived almost outside the Vedic order and were great unbelievers.
 
 নাম-প্রেম দিয়া কৈল সবার নিস্তার ৷  
 চৈতন্যের গূঢ়লীলা বুঝিতে শক্তি কার ॥ ৫৪ ॥
 
 nāma-prema diyā kaila sabāra nistāra  
-caitanyera gūḍha-līlā bujhite śakti kāra
+the Name and love  giving  He made  of all  the deliverance  
+caitanyera gūḍha-līlā bujhite śakti kāra  
+Caitanya’s  hidden pastimes  to understand  the power  whose
 
-(54) [not yet translated]
+(54) Giving them the Name and love, He delivered them all. Who has the power to understand the hidden pastimes of Caitanya?
 
 বন দেখি’ ভ্রম হয় এই ‘বৃন্দাবন’ ৷  
 শৈল দেখি’ মনে হয় এই ‘গোবর্দ্ধন’ ॥ ৫৫ ॥
 
 vana dekhi’ bhrama haya ei ‘vṛndāvana’  
-śaila dekhi’ mane haya ei ‘govardhana’
+a forest  seeing  the illusion  arises  this  Vṛndāvana  
+śaila dekhi’ mane haya ei ‘govardhana’  
+a hill  seeing  in the mind  arises  this  Govardhana
 
-(55) [not yet translated]
+(55) Seeing a forest, He would take it for Vṛndāvana; seeing a hill, He would think it Govardhana.
 
 যাঁহা নদী দেখে, তাঁহা মানয়ে ‘কালিন্দী’ ৷  
 মহাপ্রেমাবেশে নাচে প্রভু পড়ে কান্দি’ ॥ ৫৬ ॥
 
 yāṅhā nadī dekhe, tāṅhā mānaye ‘kālindī’  
-mahā-premāveśe nāce prabhu paḍe kāndi’
+wherever  a river  He sees  there  He considers  Kālindī  
+mahā-premāveśe nāce prabhu paḍe kāndi’  
+in a great trance of love  dances  the Lord  falls  weeping
 
-(56) [not yet translated]
+(56) Wherever He saw a river, He took it for the Kālindī. Overwhelmed by love, the Lord danced and fell down weeping.
 
 পথে যাইতে ভট্টাচার্য্য শাক-মূল-ফল ৷  
 যাঁহা যেই পায়েন, তাঁহা লয়েন সকল ॥ ৫৭ ॥
 
 pathe yāite bhaṭṭācārya śāka-mūla-phala  
-yāṅhā yei pāyena, tāṅhā layena sakala
+on the road  going  the Bhaṭṭācārya  greens, roots and fruits  
+yāṅhā yei pāyena, tāṅhā layena sakala  
+wherever  whatever  he finds  there  takes  all
 
-(57) [not yet translated]
+(57) As they went along the road, the Bhaṭṭācārya gathered whatever greens, roots and fruits he could find.
 
 যে-গ্রামে রহেন প্রভু, তথায় ব্রাহ্মণ ৷  
 পাঁচ-সাত জন আসি’ করে নিমন্ত্রণ ॥ ৫৮ ॥
 
 ye-grāme rahena prabhu, tathāya brāhmaṇa  
-pāṅca-sāta jana āsi’ kare nimantraṇa
+in whatever village  stays  the Lord  there  brāhmaṇas  
+pāṅca-sāta jana āsi’ kare nimantraṇa  
+five or seven  persons  coming  make  an invitation
 
-(58) [not yet translated]
+(58) In whatever village the Lord stayed, five or seven brāhmaṇas would come and invite Him.
 
 কেহ অন্ন আনি’ দেয় ভট্টাচার্য্য-স্থানে ৷  
 কেহ দুগ্ধ, দধি, কেহ ঘৃত, খণ্ড আনে ॥ ৫৯ ॥
 
 keha anna āni’ deya bhaṭṭācārya-sthāne  
-keha dugdha, dadhi, keha ghṛta, khaṇḍa āne
+someone  grain  bringing  gives  of the Bhaṭṭācārya  to the place  
+keha dugdha, dadhi, keha ghṛta, khaṇḍa āne  
+someone  milk  yogurt  someone  ghee  sugar  brings
 
-(59) [not yet translated]
+(59) Some brought grain and left it with the Bhaṭṭācārya; some brought milk and yogurt, and some ghee and sugar.
 
 যাঁহা বিপ্র নাহি, তাঁহা ‘শূদ্রমহাজন’ ৷  
 আসি’ সবে ভট্টাচার্য্যে করে নিমন্ত্রণ ॥ ৬০ ॥
 
 yāṅhā vipra nāhi, tāṅhā ‘śūdra-mahājana’  
-āsi’ sabe bhaṭṭācārye kare nimantraṇa
+where  brāhmaṇas  there are none  there  respectable śūdras  
+āsi’ sabe bhaṭṭācārye kare nimantraṇa  
+coming  all  the Bhaṭṭācārya  make  invitation
 
-(60) [not yet translated]
+(60) Where there were no brāhmaṇas, respectable men of the *śūdra* community came and invited the Bhaṭṭācārya.
 
 ভট্টাচার্য্য পাক করে বন্য-ব্যঞ্জন ৷  
 বন্য-ব্যঞ্জনে প্রভুর আনন্দিত মন ॥ ৬১ ॥
@@ -1336,307 +1400,385 @@ from a distance  from  the three  home  He sent
 প্রভুগুণ গান করে প্রেমে মত্ত হঞা ॥ ১৪৮ ॥
 
 prabhura virahe tine ekatra miliyā  
-prabhu-guṇa gāna kare preme matta hañā
+of the Lord  in separation  the three  together  meeting  
+prabhu-guṇa gāna kare preme matta hañā  
+the Lord’s qualities  singing  do  with love  maddened  becoming
 
-(148) [not yet translated]
+(148) In separation from the Lord the three would meet together and sing of His qualities, maddened with love.
 
 ‘প্রয়াগ’ আসিয়া প্রভু কৈল নদীস্নান ৷  
 ‘মাধব’ দেখিয়া প্রেমে কৈল নৃত্যগান ॥ ১৪৯ ॥
 
 ‘prayāga’ āsiyā prabhu kaila nadī-snāna  
-‘mādhava’ dekhiyā preme kaila nṛtya-gāna
+to Prayāga  coming  the Lord  performed  bathing in the river  
+‘mādhava’ dekhiyā preme kaila nṛtya-gāna  
+Mādhava  seeing  in love  performed  dancing and singing
 
-(149) [not yet translated]
+(149) Coming to Prayāga, the Lord bathed in the river, and on seeing Mādhava He danced and sang in love.
 
 যমুনা দেখিয়া প্রেমে পড়ে ঝাঁপ দিয়া ৷  
 আস্তে ব্যস্তে ভট্টাচার্য্য উঠায় ধরিয়া ॥ ১৫০ ॥
 
 yamunā dekhiyā preme paḍe jhāṅpa diyā  
-āste vyaste bhaṭṭācārya uṭhāya dhariyā
+the Yamunā  seeing  in love  He falls  a leap  making  
+āste vyaste bhaṭṭācārya uṭhāya dhariyā  
+hastily  hurriedly  the Bhaṭṭācārya  lifts Him up  catching hold
 
-(150) [not yet translated]
+(150) Seeing the Yamunā, He leapt into it in love, and the Bhaṭṭācārya hurriedly caught hold of Him and lifted Him out.
 
 এইমত তিনদিন প্রয়াগে রহিলা ৷  
 কৃষ্ণ-নাম-প্রেম দিয়া লোক নিস্তারিলা ॥ ১৫১ ॥
 
 ei-mata tina-dina prayāge rahilā  
-kṛṣṇa-nāma-prema diyā loka nistārilā
+in this way  three days  in Prayāga  He stayed  
+kṛṣṇa-nāma-prema diyā loka nistārilā  
+Kṛṣṇa’s name  and love  giving  the people  He delivered
 
-(151) [not yet translated]
+(151) In this way He stayed three days in Prayāga, delivering the people by giving them the name of Kṛṣṇa and love for Him.
 
 ‘মথুরা’ চলিতে পথে যথা রহি’ যায় ৷  
 কৃষ্ণ-নাম-প্রেম দিয়া লোকেরে নাচায় ॥ ১৫২ ॥
 
 ‘mathurā’ calite pathe yathā rahi’ yāya  
-kṛṣṇa-nāma-prema diyā lokere nācāya
+to Mathurā  going  on the way  wherever  stopping  He goes  
+kṛṣṇa-nāma-prema diyā lokere nācāya  
+Kṛṣṇa’s name  and love  giving  the people  He makes dance
 
-(152) [not yet translated]
+(152) Wherever He stopped on the way to Mathurā, He gave the people the name of Kṛṣṇa and love for Him and made them dance.
 
 পূর্ব্বে যেন ‘দক্ষিণ’ যাইতে লোক নিস্তারিলা ৷  
 ‘পশ্চিম’-দেশে তৈছে সব ‘বৈষ্ণব’ করিলা ॥ ১৫৩ ॥
 
 pūrve yena ‘dakṣiṇa’ yāite loka nistārilā  
-‘paścima’-deśe taiche saba ‘vaiṣṇava’ karilā
+before  as  south  going  the people  He delivered  
+‘paścima’-deśe taiche saba ‘vaiṣṇava’ karilā  
+in the western lands  likewise  all  Vaiṣṇavas  He made
 
-(153) [not yet translated]
+(153) As He had delivered the people before when He went to the south, so in the western lands He made everyone a Vaiṣṇava.
 
 পথে যাঁহা যাঁহা হয় যমুনা-দর্শন ৷  
 তাঁহা ঝাঁপ দিয়া পড়ে প্রেমে অচেতন ॥ ১৫৪ ॥
 
 pathe yāṅhā yāṅhā haya yamunā-darśana  
-tāṅhā jhāṅpa diyā paḍe preme acetana
+on the way  wherever  wherever  there was  a sight of the Yamunā  
+tāṅhā jhāṅpa diyā paḍe preme acetana  
+there  a leap  making  He falls  in love  unconscious
 
-(154) [not yet translated]
+(154) Wherever He caught sight of the Yamunā along the way, He leapt into it and fell unconscious in love.
 
 মথুরা-নিকটে আইলা, মথুরা দেখিয়া ৷  
 দণ্ডবৎ হঞা পড়ে প্রেমাবিষ্ট হঞা ॥ ১৫৫ ॥
 
 mathurā-nikaṭe āilā, mathurā dekhiyā  
-daṇḍavat hañā paḍe premāviṣṭa hañā
+near Mathurā  He came  Mathurā  seeing  
+daṇḍavat hañā paḍe premāviṣṭa hañā  
+like a rod  becoming  He falls  absorbed in love  being
 
-(155) [not yet translated]
+(155) When He drew near Mathurā and saw the city, He fell down flat like a rod, overwhelmed with love.
 
 মথুরা আসিয়া কৈলা, ‘বিশ্রাম-তীর্থে’ স্নান ৷  
 ‘জন্মস্থানে’ ‘কেশব’ দেখি’ করিলা প্রণাম ॥ ১৫৬ ॥
 
 mathurā āsiyā kailā, ‘viśrāma-tīrthe’ snāna  
-‘janma-sthāne’ ‘keśava’ dekhi’ karilā praṇāma
+to Mathurā  coming  He performed  at Viśrāma-tīrtha  bathing  
+‘janma-sthāne’ ‘keśava’ dekhi’ karilā praṇāma  
+at the birthplace  Keśava  seeing  He offered  obeisance
 
-(156) [not yet translated]
+(156) Arriving in Mathurā, He bathed at Viśrāma-tīrtha, and at the birthplace He saw Keśava and bowed down to Him.
 
 প্রেমাবেশে নাচে, গায়, সঘনে হুঙ্কার ৷  
 প্রভুর প্রেমাবেশ দেখি’ লোকে চমৎকার ॥ ১৫৭ ॥
 
 premāveśe nāce, gāya, saghane huṅkāra  
-prabhura premāveśa dekhi’ loke camatkāra
+in the rapture of love  He dances  sings  again and again  roars  
+prabhura premāveśa dekhi’ loke camatkāra  
+the Lord’s  rapture of love  seeing  the people  are astonished
 
-(157) [not yet translated]
+(157) Rapt in love, He danced, sang and roared again and again, and the people were astonished to see the Lord’s rapture of love.
 
 একবিপ্র পড়ে প্রভুর চরণ ধরিয়া ৷  
 প্রভু-সঙ্গে নৃত্য করে প্রেমাবিষ্ট হঞা ॥ ১৫৮ ॥
 
 eka-vipra paḍe prabhura caraṇa dhariyā  
-prabhu-saṅge nṛtya kare premāviṣṭa hañā
+a brāhmaṇa  falls  the Lord’s  feet  clasping  
+prabhu-saṅge nṛtya kare premāviṣṭa hañā  
+with the Lord  dancing  does  absorbed in love  becoming
 
-(158) [not yet translated]
+(158) A brāhmaṇa fell down and clasped the Lord’s feet, and then, overwhelmed with love, he danced with the Lord.
 
 দুঁহে প্রেমে নৃত্য করি’ করে কোলাকুলি ৷  
 ‘হরি’ ‘কৃষ্ণ’ কহে দুঁহে বলি’ বাহু তুলি ॥ ১৫৯ ॥
 
 duṅhe preme nṛtya kari’ kare kolākuli  
-‘hari’ ‘kṛṣṇa’ kahe duṅhe bali’ bāhu tuli
+both  in love  dancing  doing  they make  embraces  
+‘hari’ ‘kṛṣṇa’ kahe duṅhe bali’ bāhu tuli  
+Hari  Kṛṣṇa  say  both  saying  arms  raising
 
-(159) [not yet translated]
+(159) Dancing in love, the two embraced each other, and with arms raised they both called out, “Hari! Kṛṣṇa!”
 
 লোক ‘হরি’ ‘হরি’ বলে, কোলাহল হৈল ৷  
 ‘কেশব’-সেবক প্রভুকে মালা পরাইল ॥ ১৬০ ॥
 
 loka ‘hari’ ‘hari’ bale, kolāhala haila  
-‘keśava’-sevaka prabhuke mālā parāila
+the people  Hari  Hari  say  a tumult  arose  
+‘keśava’-sevaka prabhuke mālā parāila  
+Keśava’s servant  on the Lord  a garland  placed
 
-(160) [not yet translated]
+(160) The people cried, “Hari! Hari!” and a great tumult arose. Keśava’s servant placed a garland on the Lord.
 
 লোকে কহে প্রভু দেখি’ হঞা বিস্ময় ৷  
 ঐছে হেন প্রেম ‘লৌকিক’ কভু নয় ॥ ১৬১ ॥
 
 loke kahe prabhu dekhi’ hañā vismaya  
-aiche hena prema ‘laukika’ kabhu naya
+the people  say  the Lord  seeing  becoming  astonished  
+aiche hena prema ‘laukika’ kabhu naya  
+such  this kind of  love  worldly  ever  is not
 
-(161) [not yet translated]
+(161) Seeing the Lord, the people were amazed and said, “Love such as this is never of this world.
 
 যাঁহার দর্শনে লোকে প্রেমে মত্ত হঞা ৷  
 হাসে, কান্দে, নাচে, গায়, কৃষ্ণনাম লঞা ॥ ১৬২ ॥
 
 yāṅhāra darśane loke preme matta hañā  
-hāse, kānde, nāce, gāya, kṛṣṇa-nāma lañā
+whose  at the sight  the people  with love  maddened  becoming  
+hāse, kānde, nāce, gāya, kṛṣṇa-nāma lañā  
+laugh  weep  dance  sing  the name of Kṛṣṇa  taking
 
-(162) [not yet translated]
+(162) “At the sight of Him people become mad with love: they laugh, weep, dance and sing, chanting the name of Kṛṣṇa.
 
 সর্ব্বথা নিশ্চিত, ইঁহো — কৃষ্ণ-অবতার ৷  
 মথুরা আইলা লোকের করিতে নিস্তার ॥ ১৬৩ ॥
 
 sarvathā niścita, iṅho — kṛṣṇa-avatāra  
-mathurā āilā lokera karite nistāra
+in every way  certain  He is  an avatāra of Kṛṣṇa  
+mathurā āilā lokera karite nistāra  
+to Mathurā  He has come  of the people  to accomplish  deliverance
 
-(163) [not yet translated]
+(163) “It is certain in every way that He is an avatāra of Kṛṣṇa. He has come to Mathurā to deliver the people.”
 
 তবে মহাপ্রভু সেই ব্রাহ্মণে লঞা ৷  
 তাঁহারে পুছিলা কিছু নিভৃতে বসিয়া ॥ ১৬৪ ॥
 
 tabe mahāprabhu sei brāhmaṇe lañā  
-tāṅhāre puchilā kichu nibhṛte vasiyā
+then  Mahāprabhu  that  brāhmaṇa  taking  
+tāṅhāre puchilā kichu nibhṛte vasiyā  
+him  asked  something  in private  sitting
 
-(164) [not yet translated]
+(164) Then Mahāprabhu took that brāhmaṇa aside, sat with him in private and asked him:
 
 ‘আর্য্য, সরল তুমি — বৃদ্ধ ব্রাহ্মণ ৷  
 কাঁহা হৈতে পাইলে তুমি এই প্রেমধন ? ॥ ১৬৫ ॥
 
 ‘ārya, sarala tumi — vṛddha brāhmaṇa  
-kāṅhā haite pāile tumi ei prema-dhana?
+noble  simple  you are  an aged  brāhmaṇa  
+kāṅhā haite pāile tumi ei prema-dhana?  
+where  from  did you get  you  this  treasure of love
 
-(165) [not yet translated]
+(165) “You are noble and simple-hearted, an aged brāhmaṇa. Where did you get this treasure of love?”
 
 বিপ্র কহে, — শ্রীপাদ মাধবেন্দ্র-পুরী ৷  
 ভ্রমিতে ভ্রমিতে আইলা মথুরা-নগরী ॥ ১৬৬ ॥
 
 vipra kahe, — śrīpāda mādhavendra-purī  
-bhramite bhramite āilā mathurā-nagarī
+the brāhmaṇa  says  Śrīpāda  Mādhavendra Purī  
+bhramite bhramite āilā mathurā-nagarī  
+wandering  wandering  came  to the city of Mathurā
 
-(166) [not yet translated]
+(166) The brāhmaṇa said, “Śrīpāda Mādhavendra Purī came to the city of Mathurā in the course of his wanderings.
 
 কৃপা করি’ তেঁহো মোর নিলয়ে আইলা ৷  
 মোরে শিষ্য করি’ মোর হাতে ‘ভিক্ষা’ কৈলা ॥ ১৬৭ ॥
 
 kṛpā kari’ teṅho mora nilaye āilā  
-more śiṣya kari’ mora hāte ‘bhikṣā’ kailā
+mercy  showing  he  my  to the dwelling  came  
+more śiṣya kari’ mora hāte ‘bhikṣā’ kailā  
+me  a disciple  making  from my  hands  alms  he took
 
-(167) [not yet translated]
+(167) “Out of kindness he came to my home. He made me his disciple and accepted his meal (*bhikṣā*) from my hands.
 
 গোপাল প্রকট করি’ সেবা কৈল ‘মহাশয়’ ৷  
 অদ্যাপিহ তাঁহার সেবা ‘গোবর্দ্ধনে’ হয় ॥ ১৬৮ ॥
 
 gopāla prakaṭa kari’ sevā kaila ‘mahāśaya’  
-adyāpiha tāṅhāra sevā ‘govardhane’ haya
+Gopāla  manifest  making  service  performed  the great soul  
+adyāpiha tāṅhāra sevā ‘govardhane’ haya  
+to this day  His  service  at Govardhana  goes on
 
-(168) [not yet translated]
+(168) “That great soul brought Gopāla to light and served Him, and to this day Gopāla is served at Govardhana.”
 
 শুনি’ প্রভু কৈল তাঁর চরণ বন্দন ৷  
 ভয় পাঞা প্রভু-পায় পড়িলা ব্রাহ্মণ ॥ ১৬৯ ॥
 
 śuni’ prabhu kaila tāṅra caraṇa vandana  
-bhaya pāñā prabhu-pāya paḍilā brāhmaṇa
+hearing  the Lord  made  his  to the feet  obeisance  
+bhaya pāñā prabhu-pāya paḍilā brāhmaṇa  
+fear  feeling  at the Lord’s feet  fell  the brāhmaṇa
 
-(169) [not yet translated]
+(169) Hearing this, the Lord bowed down at the brāhmaṇa’s feet, and the brāhmaṇa in fear fell at the Lord’s feet.
 
 প্রভু কহে, — তুমি ‘গুরু’, আমি ‘শিষ্য’-প্রায় ৷  
 ‘গুরু’ হঞা, ‘শিষ্যে’ নমস্কার না যুয়ায় ॥ ১৭০ ॥
 
 prabhu kahe, — tumi ‘guru’, āmi ‘śiṣya’-prāya  
-‘guru’ hañā, ‘śiṣye’ namaskāra nā yuyāya
+the Lord  says  you  are guru  I  like a disciple  
+‘guru’ hañā, ‘śiṣye’ namaskāra nā yuyāya  
+guru  being  to a disciple  obeisance  not  is proper
 
-(170) [not yet translated]
+(170) The Lord said, “You are in the position of a guru, and I am like your disciple. It is not proper for a guru to bow down to a disciple.”
 
 শুনিয়া বিস্মিত বিপ্র কহে ভয় পাঞা ৷  
 ঐছে বাত্ কহ কেনে সন্ন্যাসী হঞা ॥ ১৭১ ॥
 
 śuniyā vismita vipra kahe bhaya pāñā  
-aiche bāt kaha kene sannyāsī hañā
+hearing  astonished  the brāhmaṇa  says  fear  feeling  
+aiche bāt kaha kene sannyāsī hañā  
+such  words  You speak  why  a sannyāsī  being
 
-(171) [not yet translated]
+(171) Hearing this, the brāhmaṇa was astonished and said in fear, “You are a sannyāsī — why do You speak like this?
 
 কিন্তু তোমার প্রেম দেখি’ মনে অনুমানি ৷  
 মাধবেন্দ্র-পুরীর ‘সম্বন্ধ’ ধর, জানি ॥ ১৭২ ॥
 
 kintu tomāra prema dekhi’ mane anumāni  
-mādhavendra-purīra ‘sambandha’ dhara, jāni
+but  Your  love  seeing  in my mind  I infer  
+mādhavendra-purīra ‘sambandha’ dhara, jāni  
+with Mādhavendra Purī  a connection  You have  I know
 
-(172) [not yet translated]
+(172) “But seeing Your love, I infer that You have some connection with Mādhavendra Purī; I am sure of it.
 
 কৃষ্ণপ্রেমা তাঁহা, যাঁহা তাঁহার ‘সম্বন্ধ’ ৷  
 তাঁহা বিনা এই প্রেমার কাঁহা নাহি গন্ধ ॥ ১৭৩ ॥
 
 kṛṣṇa-premā tāṅhā, yāṅhā tāṅhāra ‘sambandha’  
-tāṅhā vinā ei premāra kāṅhā nāhi gandha
+love for Kṛṣṇa  is there  where  his  connection  
+tāṅhā vinā ei premāra kāṅhā nāhi gandha  
+him  without  of this  love  anywhere  there is not  the scent
 
-(173) [not yet translated]
+(173) “Love for Kṛṣṇa is found where there is a connection with him. Without him there is not even a scent of such love anywhere.”
 
 তবে ভট্টাচার্য্য তারে ‘সম্বন্ধ’ কহিল ৷  
 শুনি’ আনন্দিত বিপ্র নাচিতে লাগিল ॥ ১৭৪ ॥
 
 tabe bhaṭṭācārya tāre ‘sambandha’ kahila  
-śuni’ ānandita vipra nācite lāgila
+then  the Bhaṭṭācārya  to him  the connection  told  
+śuni’ ānandita vipra nācite lāgila  
+hearing  overjoyed  the brāhmaṇa  to dance  began
 
-(174) [not yet translated]
+(174) Then the Bhaṭṭācārya told him of the connection, and hearing it the brāhmaṇa began to dance with joy.
 
 তবে বিপ্র প্রভুরে লঞা আইলা নিজ-ঘরে ৷  
 আপন-ইচ্ছায় প্রভুর নানা সেবা করে ॥ ১৭৫ ॥
 
 tabe vipra prabhure lañā āilā nija-ghare  
-āpana-icchāya prabhura nānā sevā kare
+then  the brāhmaṇa  the Lord  taking  came  to his own home  
+āpana-icchāya prabhura nānā sevā kare  
+of his own accord  for the Lord  various  service  does
 
-(175) [not yet translated]
+(175) Then the brāhmaṇa took the Lord to his own home and of his own accord rendered Him many kinds of service.
 
 ভিক্ষা লাগি’ ভট্টাচার্য্যে করাইল রন্ধন ৷  
 তবে মহাপ্রভু হাসি’ বলিলা বচন ॥ ১৭৬ ॥
 
 bhikṣā lāgi’ bhaṭṭācārye karāila randhana  
-tabe mahāprabhu hāsi’ balilā vacana
+the meal  for the sake of  the Bhaṭṭācārya  he had  cook  
+tabe mahāprabhu hāsi’ balilā vacana  
+then  Mahāprabhu  smiling  spoke  words
 
-(176) [not yet translated]
+(176) He had the Bhaṭṭācārya cook for the Lord’s meal, but Mahāprabhu smiled and said:
 
 পুরী-গোসাঞি তোমার ঘরে কর্য্যাছেন ভিক্ষা ৷  
 মোরে তুমি ভিক্ষা দেহ’, — এই মোর ‘শিক্ষা’ ॥ ১৭৭ ॥
 
 “purī-gosāñi tomāra ghare karyāchena bhikṣā  
-more tumi bhikṣā deha’, — ei mora ‘śikṣā’”
+Purī Gosāñi  your  in the house  has taken  alms  
+more tumi bhikṣā deha’, — ei mora ‘śikṣā’”  
+to Me  you  alms  give  this  My  teaching
 
-(177) [not yet translated]
+(177) “Purī Gosāñi has taken his meals in your house. You yourself give Me My meal — this is My instruction.
 
 যদ্যদাচরতি শ্রেষ্ঠস্তত্তদেবেতরো জনঃ ৷  
 স যৎ প্রমাণং কুরুতে লোকস্তদনুবর্ত্ততে ॥ ১৭৮ ॥
 
 yad yad ācarati śreṣṭhas  
+whatever  whatever  does  the best  
 tat tad evetaro janaḥ  
+that  that  indeed  other  people  
 sa yat pramāṇaṁ kurute  
-lokas tad anuvartate
+he  whatever  standard  sets  
+lokas tad anuvartate  
+the world  that  follows
 
-(178) [not yet translated]
+(178) “Whatever the best of men does, others do the same; whatever standard he sets, the world follows.” (Bhagavad-gītā, 3.21)
 
 যদ্যপি ‘সনোড়িয়া’ হয় সেইত ব্রাহ্মণ ৷  
 সনোড়িয়া-ঘরে সন্ন্যাসী না করে ভোজন ॥ ১৭৯ ॥
 
 yadyapi ‘sanoḍiyā’ haya seita brāhmaṇa  
-sanoḍiyā-ghare sannyāsī nā kare bhojana
+although  a Sanoḍiyā  was  that very  brāhmaṇa  
+sanoḍiyā-ghare sannyāsī nā kare bhojana  
+in a Sanoḍiyā’s house  a sannyāsī  not  does  eat
 
-(179) [not yet translated]
+(179) That brāhmaṇa was a Sanoḍiyā, and sannyāsīs do not eat in a Sanoḍiyā’s house.
 
 তথাপি পুরী দেখি’ তাঁর ‘বৈষ্ণব’-আচার ৷  
 ‘শিষ্য’ করি’ তাঁর ভিক্ষা কৈল অঙ্গীকার ॥ ১৮০ ॥
 
 tathāpi purī dekhi’ tāṅra ‘vaiṣṇava’-ācāra  
-‘śiṣya’ kari’ tāṅra bhikṣā kaila aṅgīkāra
+nevertheless  Purī  seeing  his  Vaiṣṇava conduct  
+‘śiṣya’ kari’ tāṅra bhikṣā kaila aṅgīkāra  
+a disciple  making him  his  meal  made  acceptance
 
-(180) [not yet translated]
+(180) Nevertheless, seeing his Vaiṣṇava conduct, Purī made him his disciple and accepted meals from him.
 
 মহাপ্রভু তাঁরে যদি ‘ভিক্ষা’ মাগিল ৷  
 দৈন্য করি’ সেই বিপ্র কহিতে লাগিল ॥ ১৮১ ॥
 
 mahāprabhu tāṅre yadi ‘bhikṣā’ māgila  
-dainya kari’ sei vipra kahite lāgila
+Mahāprabhu  of him  when  a meal  asked  
+dainya kari’ sei vipra kahite lāgila  
+humility  showing  that  brāhmaṇa  to speak  began
 
-(181) [not yet translated]
+(181) When Mahāprabhu asked him for a meal, the brāhmaṇa humbly began to say:
 
 তোমারে ‘ভিক্ষা’ দিব, বড় ভাগ্য সে আমার ৷  
 তুমি — ঈশ্বর, নাহি তোমার বিধি-ব্যবহার ॥ ১৮২ ॥
 
 tomāre ‘bhikṣā’ diba, baḍa bhāgya se āmāra  
-tumi — īśvara, nāhi tomāra vidhi-vyavahāra
+to You  a meal  I shall give  great  fortune  that is  my  
+tumi — īśvara, nāhi tomāra vidhi-vyavahāra  
+You  are the Lord  there is not  Your  rule-bound conduct
 
-(182) [not yet translated]
+(182) “To give You a meal is my great good fortune. You are the Lord; You are not bound by rules of conduct.
 
 ‘মূর্খ’-লোক করিবেক তোমার নিন্দন ৷  
 সহিতে না পারিমু সেই ‘দুষ্টে’র বচন ॥ ১৮৩ ॥
 
 ‘mūrkha’-loka karibeka tomāra nindana  
-sahite nā pārimu sei ‘duṣṭe’ra vacana
+foolish people  will make  Your  censure  
+sahite nā pārimu sei ‘duṣṭe’ra vacana  
+to bear  not  I shall be able  of those  wicked men  the words
 
-(183) [not yet translated]
+(183) “But foolish people will censure You, and I will not be able to bear the words of those wicked people.”
 
 প্রভু কহে, — শ্রুতি, স্মৃতি, যত ঋষিগণ ৷  
 সবে ‘এক’-মত নহে, ভিন্ন ভিন্ন ধর্ম্ম ॥ ১৮৪ ॥
 
 prabhu kahe, — śruti, smṛti, yata ṛṣi-gaṇa  
-sabe ‘eka’-mata nahe, bhinna bhinna dharma
+the Lord  says  śruti  smṛti  all  the sages  
+sabe ‘eka’-mata nahe, bhinna bhinna dharma  
+all  of one opinion  are not  different  different  dharmas
 
-(184) [not yet translated]
+(184) The Lord said, “The śruti, the smṛti and all the sages are not of one opinion; they teach many different kinds of dharma.
 
 ধর্ম্ম-স্থাপন-হেতু সাধুর ব্যবহার ৷  
 পুরী-গোসাঞির যে আচরণ, সেই ধর্ম্ম সার ॥ ১৮৫ ॥
 
 dharma-sthāpana-hetu sādhura vyavahāra  
-purī-gosāñira ye ācaraṇa, sei dharma sāra
+of dharma  establishing  for the sake of  of the sādhu  the conduct  
+purī-gosāñira ye ācaraṇa, sei dharma sāra  
+of Purī Gosāñi  which  conduct  that  of dharma  the essence
 
-(185) [not yet translated]
+(185) “The conduct of a sādhu is what establishes dharma, and the conduct of Purī Gosāñi is the essence of dharma.
 
 তর্কোঽপ্রতিষ্ঠঃ শ্রুতয়ো বিভিন্না  
 নাসাবৃষির্যস্য মতং ন ভিন্নম্ ৷  
@@ -1644,171 +1786,215 @@ purī-gosāñira ye ācaraṇa, sei dharma sāra
 মহাজনো যেন গতঃ স পন্থাঃ ॥ ১৮৬ ॥
 
 tarko ’pratiṣṭhaḥ śrutayo vibhinnā  
+argument  is unsettled  the śrutis  are various  
 nāsāv ṛṣir yasya mataṁ na bhinnam  
+there is no such  sage  whose  opinion  not  differs  
 dharmasya tattvaṁ nihitaṁ guhāyāṁ  
-mahājano yena gataḥ sa panthāḥ
+of dharma  the truth  is hidden  in a cave  
+mahājano yena gataḥ sa panthāḥ  
+the great soul  by which  has gone  that  is the path
 
-(186) [not yet translated]
+(186) “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in a cave; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva 313.117)
 
 তবে সেই বিপ্র প্রভুকে ভিক্ষা করাইল ৷  
 মধুপুরীর লোক-সব প্রভুকে দেখিতে আইল ॥ ১৮৭ ॥
 
 tabe sei vipra prabhuke bhikṣā karāila  
-madhu-purīra loka-saba prabhuke dekhite āila
+then  that  brāhmaṇa  the Lord  a meal  had Him take  
+madhu-purīra loka-saba prabhuke dekhite āila  
+of Madhupurī  all the people  the Lord  to see  came
 
-(187) [not yet translated]
+(187) Then the brāhmaṇa served the Lord His meal, and all the people of Madhupurī (Mathurā) came to see the Lord.
 
 লক্ষ-সংখ্য লোক আইসে, নাহিক গণন ৷  
 বাহির হঞা প্রভু দিল দরশন ॥ ১৮৮ ॥
 
 lakṣa-saṅkhya loka āise, nāhika gaṇana  
-bāhira hañā prabhu dila daraśana
+by the hundred thousand  people  come  there is no  counting  
+bāhira hañā prabhu dila daraśana  
+outside  coming  the Lord  gave  His sight
 
-(188) [not yet translated]
+(188) People came by the hundreds of thousands, beyond counting, and the Lord came out of the house and showed Himself to them.
 
 বাহু তুলি’ বলে প্রভু ‘হরিবোল’-ধ্বনি ৷  
 প্রেমে মত্ত নাচে লোক করি’ হরিধ্বনি ॥ ১৮৯ ॥
 
 bāhu tuli’ bale prabhu ‘hari-bola’-dhvani  
-preme matta nāce loka kari’ hari-dhvani
+arms  raising  utters  the Lord  “Haribol”  the sound  
+preme matta nāce loka kari’ hari-dhvani  
+with love  maddened  dance  the people  making  the sound of Hari
 
-(189) [not yet translated]
+(189) Raising His arms, the Lord called out, “Haribol!” and the people danced, mad with love, calling out the name of Hari.
 
 যমুনার ‘চব্বিশ ঘাটে’ প্রভু কৈল স্নান ৷  
 সেই বিপ্র প্রভুকে দেখায় তীর্থস্থান ॥ ১৯০ ॥
 
 yamunāra ‘cabbiśa ghāṭe’ prabhu kaila snāna  
-sei vipra prabhuke dekhāya tīrtha-sthāna
+of the Yamunā  at the twenty-four ghāṭs  the Lord  took  bath  
+sei vipra prabhuke dekhāya tīrtha-sthāna  
+that  brāhmaṇa  to the Lord  shows  the holy places
 
-(190) [not yet translated]
+(190) The Lord bathed at the twenty-four ghāṭs of the Yamunā, and the brāhmaṇa showed Him the holy places.
 
 স্বয়ম্ভু, বিশ্রাম, দীর্ঘবিষ্ণু, ভূতেশ্বর ৷  
 মহাবিদ্যা, গোকর্ণাদি দেখিলা, বিস্তর ॥ ১৯১ ॥
 
 svayambhu, viśrāma, dīrgha-viṣṇu, bhūteśvara  
-mahāvidyā, gokarṇādi dekhilā, vistara
+Svayambhu  Viśrāma  Dīrgha-viṣṇu  Bhūteśvara  
+mahāvidyā, gokarṇādi dekhilā, vistara  
+Mahāvidyā  Gokarṇa and others  He saw  in great number
 
-(191) [not yet translated]
+(191) He saw Svayambhu, Viśrāma, Dīrgha-viṣṇu, Bhūteśvara, Mahāvidyā, Gokarṇa and many other places.
 
 ‘বন’ দেখিবারে যদি প্রভুর মন হৈল ৷  
 সেইত ব্রাহ্মণে প্রভু সঙ্গেতে লইল ॥ ১৯২ ॥
 
 ‘vana’ dekhibāre yadi prabhura mana haila  
-seita brāhmaṇe prabhu saṅgete laila
+the forests  to see  when  the Lord’s  mind  was  
+seita brāhmaṇe prabhu saṅgete laila  
+that very  brāhmaṇa  the Lord  with Him  took
 
-(192) [not yet translated]
+(192) When the Lord wished to see the forests, He took that same brāhmaṇa with Him.
 
 মধুবন, তাল, কুমুদ, বহুলা-বন গেলা ৷  
 তাঁহা তাঁহা স্নান করি’ প্রেমাবিষ্ট হৈলা ॥ ১৯৩ ॥
 
 madhu-vana, tāla, kumuda, bahulā-vana gelā  
-tāṅhā tāṅhā snāna kari’ premāviṣṭa hailā
+Madhuvana  Tāla  Kumuda  Bahulā-vana  He went to  
+tāṅhā tāṅhā snāna kari’ premāviṣṭa hailā  
+there  there  bathing  doing  absorbed in love  He became
 
-(193) [not yet translated]
+(193) He went to Madhuvana, Tālavana, Kumudavana and Bahulāvana, bathing in each place and becoming overwhelmed with love.
 
 পথে গাভীঘটা চরে প্রভুরে দেখিয়া ৷  
 প্রভুকে বেড়য় আসি’ হুঙ্কার করিয়া ॥ ১৯৪ ॥
 
 pathe gābhī-ghaṭā care prabhure dekhiyā  
-prabhuke beḍaya āsi’ huṅkāra kariyā
+on the way  a herd of cows  grazing  the Lord  seeing  
+prabhuke beḍaya āsi’ huṅkāra kariyā  
+the Lord  surround  coming  lowing  making
 
-(194) [not yet translated]
+(194) On the way, a herd of grazing cows saw the Lord, came up lowing loudly and surrounded Him.
 
 গাভী দেখি’ স্তব্ধ প্রভু প্রেমের তরঙ্গে ৷  
 বাৎসল্যে গাভী প্রভুর চাটে সব-অঙ্গে ॥ ১৯৫ ॥
 
 gābhī dekhi’ stabdha prabhu premera taraṅge  
-vātsalye gābhī prabhura cāṭe saba-aṅge
+the cows  seeing  stunned  the Lord  of love  in the waves  
+vātsalye gābhī prabhura cāṭe saba-aṅge  
+with motherly affection  the cows  the Lord’s  lick  whole body
 
-(195) [not yet translated]
+(195) At the sight of the cows the Lord stood stunned in waves of love, and with motherly affection the cows licked His whole body.
 
 সুস্থ হঞা প্রভু করে অঙ্গ-কণ্ডূয়ন ৷  
 প্রভু-সঙ্গে চলে, নাহি ছাড়ে ধেনুগণ ॥ ১৯৬ ॥
 
 sustha hañā prabhu kare aṅga-kaṇḍūyana  
-prabhu-saṅge cale, nāhi chāḍe dhenu-gaṇa
+composed  becoming  the Lord  does  scratching of the bodies  
+prabhu-saṅge cale, nāhi chāḍe dhenu-gaṇa  
+with the Lord  go  not  leave  the cows
 
-(196) [not yet translated]
+(196) Coming to Himself, the Lord scratched the cows’ bodies, and they walked along with Him and would not leave Him.
 
 কষ্টে-সৃষ্ট্যে ধেনু সব রাখিল গোয়াল ৷  
 প্রভুকণ্ঠধ্বনি শুনি’ আইসে মৃগীপাল ॥ ১৯৭ ॥
 
 kaṣṭe-sṛṣṭye dhenu saba rākhila goyāla  
-prabhu-kaṇṭha-dhvani śuni’ āise mṛgī-pāla
+with difficulty  with great effort  the cows  all  held back  the cowherd  
+prabhu-kaṇṭha-dhvani śuni’ āise mṛgī-pāla  
+the sound of the Lord’s voice  hearing  come  herds of does
 
-(197) [not yet translated]
+(197) With great difficulty the cowherd held all the cows back. Then herds of does, hearing the sound of the Lord’s voice, came to Him.
 
 মৃগ-মৃগী মুখ দেখি’ প্রভু-অঙ্গ চাটে ৷  
 ভয় নাহি করে, সঙ্গে যায় বাটে-বাটে ॥ ১৯৮ ॥
 
 mṛga-mṛgī mukha dekhi’ prabhu-aṅga cāṭe  
-bhaya nāhi kare, saṅge yāya vāṭe-vāṭe
+the bucks and does  His face  seeing  the Lord’s body  lick  
+bhaya nāhi kare, saṅge yāya vāṭe-vāṭe  
+fear  not  feel  with Him  go  along the paths
 
-(198) [not yet translated]
+(198) Looking at His face, the bucks and does licked the Lord’s body. Without any fear they followed Him along the paths.
 
 শুক, পিক, ভৃঙ্গ প্রভুরে দেখি’ ‘পঞ্চম’ গায় ৷  
 শিখিগণ নৃত্য করি’ প্রভু-আগে যায় ॥ ১৯৯ ॥
 
 śuka, pika, bhṛṅga prabhure dekhi’ ‘pañcama’ gāya  
-śikhi-gaṇa nṛtya kari’ prabhu-āge yāya
+parrots  cuckoos  bees  the Lord  seeing  in the fifth note  sing  
+śikhi-gaṇa nṛtya kari’ prabhu-āge yāya  
+the peacocks  dancing  doing  before the Lord  go
 
-(199) [not yet translated]
+(199) Seeing the Lord, the parrots, cuckoos and bees sang in the fifth note (*pañcama*), and the peacocks went dancing before Him.
 
 প্রভু দেখি’ বৃন্দাবনের বৃক্ষ-লতাগণে ৷  
 অঙ্কুর-পুলক, মধু-অশ্রু বরিষণে ॥ ২০০ ॥
 
 prabhu dekhi’ vṛndāvanera vṛkṣa-latā-gaṇe  
-aṅkura-pulaka, madhu-aśru variṣaṇe
+the Lord  seeing  of Vṛndāvana  the trees and creepers  
+aṅkura-pulaka, madhu-aśru variṣaṇe  
+sprouts  as hair standing on end  honey  as tears  shower
 
-(200) [not yet translated]
+(200) Seeing the Lord, the trees and creepers of Vṛndāvana put forth sprouts like hair standing on end in ecstasy, and they rained honey like tears.
 
 ফুল-ফল ভরি’ ডাল পড়ে প্রভু-পায় ৷  
 বন্ধু দেখি’ বন্ধু যেন ‘ভেট’ লঞা যায় ॥ ২০১ ॥
 
 phula-phala bhari’ ḍāla paḍe prabhu-pāya  
-bandhu dekhi’ bandhu yena ‘bheṭa’ lañā yāya
+with flowers and fruits  laden  branches  fall  at the Lord’s feet  
+bandhu dekhi’ bandhu yena ‘bheṭa’ lañā yāya  
+a friend  seeing  a friend  as if  a gift  taking  goes
 
-(201) [not yet translated]
+(201) Their branches, laden with flowers and fruits, bent down to the Lord’s feet, as a friend comes with a gift on seeing a friend.
 
 প্রভু দেখি’ বৃন্দাবনের স্থাবর-জঙ্গম ৷  
 আনন্দিত, বন্ধু যেন দেখে বন্ধুগণ ॥ ২০২ ॥
 
 prabhu dekhi’ vṛndāvanera sthāvara-jaṅgama  
-ānandita, bandhu yena dekhe bandhu-gaṇa
+the Lord  seeing  of Vṛndāvana  the unmoving and moving beings  
+ānandita, bandhu yena dekhe bandhu-gaṇa  
+are joyful  a friend  as if  sees  friends
 
-(202) [not yet translated]
+(202) Seeing the Lord, all the moving and unmoving beings of Vṛndāvana rejoiced, as a friend rejoices on seeing his friends.
 
 তা-সবার প্রীতি দেখি’ প্রভু ভাবাবেশে ৷  
 সবা-সনে ক্রীড়া করে হঞা তার বশে ॥ ২০৩ ॥
 
 tā-sabāra prīti dekhi’ prabhu bhāvāveśe  
-sabā-sane krīḍā kare hañā tāra vaśe
+of them all  the love  seeing  the Lord  in rapture  
+sabā-sane krīḍā kare hañā tāra vaśe  
+with all  play  does  becoming  their  subject to
 
-(203) [not yet translated]
+(203) Seeing the love of all of them, the Lord, rapt in ecstasy, played with them all, as if He were in their power.
 
 প্রতি বৃক্ষ-লতা প্রভু করেন আলিঙ্গন ৷  
 পুষ্পাদি ধ্যানে করেন কৃষ্ণে সমর্পণ ॥ ২০৪ ॥
 
 prati vṛkṣa-latā prabhu karena āliṅgana  
-puṣpādi dhyāne karena kṛṣṇe samarpaṇa
+every  tree and creeper  the Lord  makes  embrace  
+puṣpādi dhyāne karena kṛṣṇe samarpaṇa  
+flowers and the rest  in meditation  He makes  to Kṛṣṇa  offering
 
-(204) [not yet translated]
+(204) The Lord embraced every tree and creeper, and in meditation He offered their flowers and other gifts to Kṛṣṇa.
 
 অশ্রু-কম্প-পুলক-প্রেমে শরীর অস্থিরে ৷  
 ‘কৃষ্ণ’ বল, ‘কৃষ্ণ’ বল, বলে উচ্চৈঃস্বরে ॥ ২০৫ ॥
 
 aśru-kampa-pulaka-preme śarīra asthire  
-‘kṛṣṇa’ bala, ‘kṛṣṇa’ bala, bale uccaiḥsvare
+tears  trembling  thrills  from love  His body  restless  
+‘kṛṣṇa’ bala, ‘kṛṣṇa’ bala, bale uccaiḥsvare  
+Kṛṣṇa  say  Kṛṣṇa  say  He says  in a loud voice
 
-(205) [not yet translated]
+(205) His body was restless with the tears, trembling and thrills of love, and He called out in a loud voice, “Say ‘Kṛṣṇa’! Say ‘Kṛṣṇa’!”
 
 স্থাবর-জঙ্গম মিলি’ করে কৃষ্ণধ্বনি ৷  
 প্রভুর গম্ভীর-স্বরে যেন প্রতিধ্বনি ॥ ২০৬ ॥
 
 sthāvara-jaṅgama mili’ kare kṛṣṇa-dhvani  
-prabhura gambhīra-svare yena prati-dhvani
+the unmoving and moving beings  together  make  the sound of Kṛṣṇa  
+prabhura gambhīra-svare yena prati-dhvani  
+to the Lord’s  deep voice  as if  an echo
 
-(206) [not yet translated]
+(206) All the moving and unmoving beings together cried out “Kṛṣṇa!”, as if echoing the Lord’s deep voice.
 
 মৃগের গলা ধরি’ প্রভু করেন রোদনে ৷  
 মৃগের পুলক অঙ্গে, অশ্রু নয়নে ॥ ২০৭ ॥
