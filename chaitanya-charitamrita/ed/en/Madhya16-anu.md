@@ -282,6 +282,8 @@ Know the Vaiṣṇava at whose sight the name of Kṛṣṇa comes naturally to 
 
 > Subheading: Prema-nidhi again gives the *mantra* to Gadādhara and sees the Oḍana-ṣaṣṭhī —
 
+See the *Caitanya-bhāgavata*, Antya-khaṇḍa, chapter 11.
+
 ## 79
 
 > Subheading: The story of Puṇḍarīka and Jagannātha's starched cloth —
@@ -289,6 +291,10 @@ Know the Vaiṣṇava at whose sight the name of Kṛṣṇa comes naturally to 
 ## 81
 
 > Subheading: This is described in the *Caitanya-bhāgavata* —
+
+## 80–81
+
+Balāi is Śrī Balarāma; *ācārya* is Ācāryanidhi.[^80-81-1]
 
 ## 82
 
@@ -301,3 +307,232 @@ Know the Vaiṣṇava at whose sight the name of Kṛṣṇa comes naturally to 
 ## 84
 
 > Subheading: Four years of pastimes in Nīlācala with the devotees, two years for the journey south and back —
+
+## 85
+
+> Subheading: For two more years the Lord wishes to go to Vṛndāvana, but Rāya's efforts hold Him back —
+
+*Haṭha* means the use of force, compulsion.[^85-1]
+
+## 86
+
+> Subheading: In the fifth year the Gauḍīya devotees see the chariot festival and return to Gauḍa —
+
+## 87
+
+> Subheading: The Lord asks the Bhaṭṭācārya and Rāya for consent to go to Vṛndāvana by way of Gauḍa —
+
+## 90
+
+> Subheading: The Lord's two objects of reverence in Gauḍa: (1) Śacīdevī and (2) Gaṅgā-devī —
+
+## 92
+
+> Subheading: The Bhaṭṭācārya and Rāya consent, but because of the rains ask Him to wait until Vijayā-daśamī —
+
+## 94
+
+> Subheading: The Lord waits out the rains and on the day of Vijayā-daśamī sets out for Vṛndāvana —
+
+*Payāna* means *prayāṇa*, setting out on a journey.
+
+## 95
+
+> Subheading: The Lord takes along Jagannātha's *prasāda* and other things —
+
+*Kaṛāra*: of a tawny color; an ointment (?); *ḍora*: a rope.
+
+## 96
+
+> Subheading: The Lord sets out in the morning; the devotees of Purī follow Him —
+
+## 97
+
+> Subheading: Stopping the devotees of Purī, the Lord comes with His associates to Bhavānīpura —
+
+## 98
+
+> Subheading: Rāya comes after Him; Vāṇīnātha sends *prasāda* —
+
+## 99
+
+> Subheading: A night's stay there; in the morning the Lord comes to Bhuvaneśvara —
+
+## 100
+
+> Subheading: From there the Lord comes to Kaṭaka and sees Sākṣi-gopāla —
+
+## 101
+
+> Subheading: Rāya invites the Lord's devotees; the Lord stays in a garden —
+
+## 102
+
+> Subheading: While the Lord rests under a tree, Rāya informs Pratāparudra —
+
+## 103
+
+> Subheading: The king comes at once, bows down to the Lord and offers prayers —
+
+## 105
+
+> Subheading: Seeing the king's pure devotion, the Lord embraces him —
+
+## 106
+
+*Snāna* here means bathed.
+
+## 107
+
+> Subheading: Rāya consoles the king; the Lord is merciful to him without pretense —
+
+## 108
+
+> Subheading: From then on the Lord's name is “Pratāparudra-saṁtrātā” (the Savior of Pratāparudra) —
+
+*Yāya* means “by which,” “for which reason.”
+
+## 109
+
+> Subheading: The retinue bows to the Lord; the king takes leave of the Lord —
+
+## 110
+
+> Subheading: The king circulates an edict throughout his kingdom —
+
+## 113
+
+> Subheading: The order to the two *mahāpātras* —
+
+Maṅgarāja: “Mardarāja” (?).
+
+## 115
+
+> Subheading: The king's deep love for Gaura —
+
+## 116
+
+> Subheading: The king asks Rāmānanda to go to the Lord —
+
+*Navya-vāsa* means a new house fit to live in.
+
+## 117
+
+> Subheading: In the evening the queens watch the Lord pass by —
+
+## 118
+
+> Subheading: In the evening the Lord leaves Kaṭaka —
+
+## 119
+
+> Subheading: Bathing in the Mahānadī; the queens' obeisances —
+
+## 120
+
+> Subheading: On seeing the Lord, all are overwhelmed with divine emotion —
+
+## 121
+
+> Subheading: The wondrous embodiment of compassion —
+
+## 122
+
+> Subheading: Having crossed the river and come to Caturdvāra, the Lord partakes of Jagannātha's *prasāda*, sent every day by the *paḍichā* —
+
+## 126
+
+> Subheading: Three royal officers, headed by Rāya, go with the Lord —
+
+## 127
+
+> Subheading: The Lord's chief companions on the journey to Vṛndāvana —
+
+## 130
+
+> Subheading: The incomparable love for Gaura of Gadādhara, to whom separation from the Lord for even a moment is agony —
+
+## 131
+
+> Subheading: Longing for the Lord's company, the Paṇḍita unhesitatingly gives up even his *kṣetra-sannyāsa*, his residence in the *dhāma* —
+
+## 132
+
+> Subheading: Longing for the Lord's company, the Paṇḍita unhesitatingly gives up his service and breaks his vow of service —
+
+## 133
+
+> Subheading: Showing that He fears future blame on Himself, the Lord forbids the Paṇḍita to follow Him from Purī —
+
+## 134
+
+> Subheading: Gadādhara's loving pique —
+
+*Ekeśvara*: to this day in the Caṭṭagrāma region the word *aśvara*, a corruption of *ekeśvara*, is used in the sense of “alone.” For the sake of Śrī Gaurāṅga's company Gadādhara made void his vow — to serve the form of Śrī Gopīnātha, who grants the fulfillment of every aim in life — and was ready to abandon lightly, without the least effort, even the service of Bhagavān. Śrī Gadādhara's love for Śrī Gaurāṅga is beyond the understanding of any devotee other than intimate friends who know the heart as he does.
+
+## 136
+
+> Subheading: Having come from Purī to Kaṭaka, the Lord calls the Paṇḍita to Him —
+
+## 137
+
+> Subheading: Gadādhara's pure love for Gaura alone is beyond those enchanted by majesty (*aiśvarya*) —
+
+## 138
+
+> Subheading: The Lord is pleased at heart but outwardly speaks with feigned anger —
+
+## 139
+
+> Subheading: So far the Paṇḍita's aim has been fulfilled; now the Lord adjures him to go back to Purī and serve Gopīnātha —
+
+## 140
+
+> Subheading: The devotee gives happiness to Kṛṣṇa, and Kṛṣṇa to the devotee —
+
+## 142
+
+> Subheading: The Lord boards the boat; the Paṇḍita falls unconscious —
+
+## 143
+
+> Subheading: The Lord orders Sārvabhauma to take the Paṇḍita with him —
+
+## 144
+
+> Subheading: The Bhaṭṭācārya consoles the Paṇḍita —
+
+## 145
+
+> Subheading: Bhagavān breaks His own promise to keep His devotee's promise — (*Śrīmad-Bhāgavatam*, canto 1, chapter 9, verse 37)
+
+Bhīṣmadeva, a *mahā-bhāgavata* who could choose the hour of his own passing, had described *bhāgavata-dharma* and the other, general *dharmas* to the Pāṇḍavas headed by Yudhiṣṭhira, who had come with Śrī Kṛṣṇa. Then, seeing that the time of *uttarāyaṇa* had come and understanding that his end was near, he offers prayers to Śrī Kṛṣṇa, who stands before him:
+
+**sva-nigamam** (His own promise: “I shall protect the Pāṇḍavas without taking up weapons”) **apahāya** (giving up) **mat-pratijñāṁ** (my promise, the resolve “I shall make Śrī Kṛṣṇa take up a weapon”) **ṛtam** (true) **adhi** (all the more) **kartum** (to make) **ratha-sthaḥ** (standing on the chariot) **avaplutaḥ** (suddenly getting down) **dhṛta-ratha-caraṇaḥ** (He who seized a chariot wheel) **calad-guḥ** (He by whose fury the earth trembled) **gatottarīyaḥ** (He whose upper cloth, by that same fury, fell on the road) **ibham** (an elephant) **hantum** (to kill) **hariḥ** (a lion) **iva** (like) **abhyayāt** (rushed forward; it connects with the next verse: “may He be my Lord”).
+
+## 146
+
+> Subheading: The Lord protects the Paṇḍita's vow —
+
+## 147
+
+> Subheading: The Bhaṭṭācārya comes to Purī with the Paṇḍita —
+
+## 148
+
+> Subheading: For Kṛṣṇa's sake the devotee easily gives up his own *dharma*, and for this Kṛṣṇa is in his debt —
+
+## 149
+
+> Subheading: For the devotee to suffer in separation from Bhagavān is natural, but Bhagavān's suffering in separation from the devotee is *prema-vivarta* (the paradox of love); whoever hears of it attains Caitanya —
+
+## 150
+
+> Subheading: At Yājapura the Lord bids farewell to the two *mahāpātras* —
+
+Yājapura is a subdivision of Kaṭaka district, situated on the southern bank of the river Vaitaraṇī. The place got the name “Yājapura” from the sacrifices (*yajña*) that the sages performed on the left bank; according to some, the name “Yājapura” comes from “Yayāti-nagara.” The *Mahābhārata*, Vana-parva, chapter 114: “Here are the Kaliṅgas, O son of Kuntī, where the river Vaitaraṇī flows. Here even Dharma, taking shelter of the gods, offered sacrifice to them. Here too in ancient times the sages and others worshiped with sacrifices.” There are countless forms of the gods here; among them the form of Śrī Varāhadeva is especially worshiped. Worshipers of Śakti worship the Mothers — Vārāhī, Vaiṣṇavī, Indrāṇī and others. There are also many forms of Śiva and the Daśāśvamedha-ghāṭa. This place is also called Nābhi-gayā, Virajā-kṣetra and so on.
+
+---
+
+[^80-81-1]: So in the edition (*ācāryanidhi*); in verse 81 the sense points to Puṇḍarīka Vidyānidhi (compare the *Amṛta-pravāha-bhāṣya* on 76).
+[^85-1]: The verse translation reads differently: “because of the cunning” of Rāmānanda Rāya.

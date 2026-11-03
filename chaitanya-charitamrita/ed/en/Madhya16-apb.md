@@ -48,6 +48,34 @@ Oḍana-ṣaṣṭhī. The first *ṣaṣṭhī* after the onset of the cold sea
 
 See the *Caitanya-bhāgavata*, Antya-khaṇḍa, chapters 10 and 11.
 
+## 97
+
+Bhavānīpura is Jānakādeipura; that is, “Bhavānīpura” lies before Jānakīdevīpura.
+
+## 110
+
+A *viṣayī* is a royal officer who collects the revenue of the villages.
+
+## 116
+
+Caturdvāra. From Kaṭaka, after crossing the Mahānadī, one comes to the village of Caturdvāra; it is commonly called “Caudār.”
+
+## 119
+
+The river Citrotpalā. The place where one comes out from Kaṭaka to the Mahānadī is called “the river Citrotpalā.” The *paṇḍitas* of Utkala, citing some *tantra*, say: “In the Kali age the Citrotpalā is the Gaṅgā.”
+
+## 130
+
+*Kṣetra-sannyāsa*. Some leave their former homes and live — alone or with their families — in some special (Viṣṇu-) *tīrtha*, that is, in Puruṣottama-kṣetra, in Navadvīpa-dhāma, in Mathurā-maṇḍala and similar places, regarding this as the highest goal. Their *āśrama* is called *kṣetra-sannyāsa*. This very *āśrama* is the *vānaprastha-dharma* suited to the age of Kali. Sārvabhauma Bhaṭṭācārya's *kṣetra-sannyāsa* of this kind has been spoken of before.
+
+## 135
+
+Having received the service of Śrī Gopīnātha, Śrī Gadādhara Paṇḍita Gosvāmī had vowed to spend his whole life in that service. Had he gone with the Lord to Gauḍa, he would have committed two faults: “the fault of breaking a vow” and “the fault of abandoning service.” On the path of *anurāga* great souls take all such faults upon themselves.
+
+## 145
+
+“I shall not take up weapons in the battle of Kurukṣetra” — this promise of His Kṛṣṇacandra gave up. Wishing to make my promise true, He got down from the chariot, seized a wheel and, His upper cloth falling away, rushed forward to kill me.
+
 ---
 
 [^66-67-1]: The verse translation of 16.67 reads differently: by His inconceivable energies nothing is unattainable for the Lord, and nothing is impossible for Nityānanda, since the Lord Himself moves Him to act (Madhya 16.67).
