@@ -133,6 +133,3 @@ When the *bādiyās*, that is, the *bedes* (itinerant conjurers), set up a place
 The love that Gadādhara Paṇḍita showed when he fed the Lord, and the way the Lord relished that loving *prasāda* — neither can be described by human power.
 
 *Thus ends the sixteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
-
----
-
