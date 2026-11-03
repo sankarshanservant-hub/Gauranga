@@ -4,7 +4,7 @@ Many accounts describe that Mahāprabhu, travelling in this way together with R�
 
 ## 159
 
-Pichaladā is a village named Pichaladā on the bank of the Rūpanārāyaṇa river, near Tamluk (?).
+Pichaladā is a village named Pichaladā on the bank of the Rūpanārāyaṇa river, near Tamluk (?).[^159-1]
 
 ## 161
 
@@ -57,5 +57,7 @@ The love that Gadādhara Paṇḍita showed when he fed the Lord, and the way th
 *Thus ends the sixteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
+
+[^159-1]: Our verse translation reads differently: there Pichaladā is a river. According to the commentary, Pichaladā is a village on the Rūpanārāyaṇa river.
 
 [^199-1]: Our verse translation reads differently: there everyone goes ashore at Mantreśvara, a dangerous place. According to the commentary, the Yavana took the Lord across the dangerous river Mantreśvara.
