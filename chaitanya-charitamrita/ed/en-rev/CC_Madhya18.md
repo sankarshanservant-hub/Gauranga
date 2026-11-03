@@ -16,7 +16,7 @@ Himself  and  by the sight of them
 gaurāṅgaḥ parito ‘bhramat  
 Gaurāṅga  all around  wandered
 
-(1) Delighting the moving and nonmoving beings of Vṛndāvana with His glances, and delighting Himself by the sight of them, Gaurāṅga wandered all around.
+(1) Delighting the moving and nonmoving beings of Vṛndāvana with His glances, and Himself rejoicing at the sight of them, Gaurāṅga wandered everywhere.
 
 জয় জয় গৌরচন্দ্র জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -206,7 +206,7 @@ before Harideva  He dances  with love  intoxicated  being
 saba loka dekhite āila āścarya śuniyā  
 all  the people  to see  came  the wonder  hearing
 
-(19) Intoxicated with love, He danced before Harideva, and all the people, hearing of the wonder, came to see.
+(19) Before Harideva He danced, intoxicated with love, and all the people, hearing of the wonder, came to see.
 
 প্রভু-প্রেম-সৌন্দর্য্য দেখি’ লোকে চমৎকার ৷  
 হরিদেবের ভৃত্য প্রভুর করিল সৎকার ॥ ২০ ॥
@@ -660,7 +660,7 @@ all  day  in the rapture of love  dance and song  He performed
 tām̐hā haite mahāprabhu ‘khadira-vana’ āilā  
 from there  Mahāprabhu  to Khadiravana  came
 
-(63) All day He danced and sang in the rapture of love, and from there Mahāprabhu came to Khadiravana.
+(63) All day He danced and sang, absorbed in love, and from there Mahāprabhu came to Khadiravana.
 
 লীলাস্থল দেখি’ তাঁহা, গেলা ‘শেষশায়ী’ ৷  
 ‘লক্ষ্মী’ দেখি’ এই শ্লোক পড়েন গোসাঞি ॥ ৬৪ ॥
@@ -726,7 +726,7 @@ Gokula  seeing  He came  to the city of Mathurā
 ‘janma-sthāna’ dekhi’ rahe sei vipra-ghare  
 the birthplace  seeing  He stays  that  in the brāhmaṇa’s house
 
-(69) After seeing Gokula, He came to the city of Mathurā. He saw the place of Kṛṣṇa’s birth and stayed in the house of that same brāhmaṇa.
+(69) From Gokula He came to the city of Mathurā. He saw the place of Kṛṣṇa’s birth and stayed in the house of that same brāhmaṇa.[^13]
 
 লোকের সংঘট্ট দেখি’ মথুরা ছাড়িয়া ৷  
 একান্তে ‘অক্রূর-তীর্থে’ রহিলা আসিয়া ॥ ৭০ ॥
@@ -786,7 +786,7 @@ in the morning  in Vṛndāvana  He took  at Cīra-ghāṭa  bath
 ‘tem̐tula-talā’te āsi’ karilā viśrāma  
 to Tẽtula-talā  coming  He took  rest
 
-(75) In the morning He bathed at Cīra-ghāṭa in Vṛndāvana, and then He came to Tẽtula-talā and rested there.[^13]
+(75) In the morning He bathed at Cīra-ghāṭa in Vṛndāvana, and then He came to Tẽtula-talā and rested there.[^14]
 
 কৃষ্ণলীলা-কালের সেই বৃক্ষ পুরাতন ৷  
 তার তলে পিঁড়ি-বান্ধা পরম-চিক্কণ ॥ ৭৬ ॥
@@ -846,7 +846,7 @@ in the third  watch of the day  the people  get  darśana
 sabāre upadeśa kare ‘nāma-saṁkīrtana’  
 to everyone  instruction  He gives  saṅkīrtana of the name
 
-(81) In the third watch of the day people would have His darśana, and He taught everyone the saṅkīrtana of the holy name.[^14]
+(81) In the third watch of the day people would have His darśana, and He taught everyone the saṅkīrtana of the holy name.[^15]
 
 হেনকালে আইল বৈষ্ণব ‘কৃষ্ণদাস’ নাম ৷  
 রাজপুত-জাতি, গৃহস্থ, যমুনা-পারে গ্রাম ॥ ৮২ ॥
@@ -906,7 +906,7 @@ but  today  one  I  dream  saw
 sei svapna parateka tomā āsi’ pāinu  
 that  dream  before my eyes  You  coming  I have found
 
-(87) But today I had a dream, and now, coming here, I have found You: the dream has come true before my eyes.”[^15]
+(87) But today I had a dream, and now, coming here, I have found You: the dream has come true before my eyes.”[^16]
 
 প্রভু তাঁরে কৃপা কৈলা আলিঙ্গন করি’ ৷  
 প্রেমে মত্ত হৈল, সেই নাচে, বলে ‘হরি’ ॥ ৮৮ ॥
@@ -1116,7 +1116,7 @@ but  some  Kṛṣṇa  see  some  an illusion  accept
 sthāṇu-puruṣe yaiche viparīta-jñāne  
 in a post a man  just as  mistaken perception
 
-(108) But some saw Kṛṣṇa, while others were deceived, as one mistakes a bare tree trunk for a man.[^16]
+(108) But some saw Kṛṣṇa, while others were deceived, as one mistakes a bare tree trunk for a man.[^17]
 
 প্রভু কহে, — ‘কাঁহা পাইলা ‘কৃষ্ণ’ দরশন ?’  
 লোক কহে, — ‘সন্ন্যাসী তুমি জঙ্গম-নারায়ণ ॥ ১০৯ ॥
@@ -1146,7 +1146,7 @@ the Lord  says  —  Viṣṇu  Viṣṇu  this  not  you should say
 jīvādhame ‘kṛṣṇa’-jñāna kabhu nā karibā!  
 in a lowly jīva  the notion of Kṛṣṇa  ever  not  you should hold
 
-(111) The Lord said, “Viṣṇu! Viṣṇu! Do not say such a thing! Never take a lowly jīva for Kṛṣṇa![^17]
+(111) The Lord said, “Viṣṇu! Viṣṇu! Do not say such a thing! Never take a lowly jīva for Kṛṣṇa![^18]
 
 সন্ন্যাসী — চিৎকণ জীব, কিরণ-কণ-সম ৷  
 ষড়ৈশ্বর্য্যপূর্ণ কৃষ্ণ হয় সূর্য্যোপম ॥ ১১২ ॥
@@ -1180,7 +1180,7 @@ by its own ignorance  covered  the jīva
 saṁkleśa-nikarākaraḥ  
 a mine of a multitude of miseries
 
-(114) “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (words of Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 1.7.5–6)[^18]
+(114) “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (words of Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 1.7.5–6)[^19]
 
 ---
 
@@ -1208,14 +1208,16 @@ a mine of a multitude of miseries
 
 [^12]: The same verse as Madhya 8.218; translation as there.
 
-[^13]: *Amṛta-pravāha-bhāṣya*: this place is now called Āmli-talā (cf. verse 83).
+[^13]: *Anubhāṣya*: the Lord stayed with the disciple of Mādhavendra Purī of whom the previous chapter tells (Madhya 17).
 
-[^14]: The third watch (*prahara*) of the day is the early afternoon; so too the edition’s heading (“after midday”).
+[^14]: *Amṛta-pravāha-bhāṣya*: this place is now called Āmli-talā (cf. verse 83).
 
-[^15]: *Anubhāṣya*: *parateka* means *pratyakṣa*, *sākṣāt* — “before one’s very eyes”.
+[^15]: The third watch (*prahara*) of the day is the early afternoon; so too the edition’s heading (“after midday”).
 
-[^16]: In the Gauḍīya Maṭha edition the people’s words end with verse 106; verses 107–108 are the author’s.
+[^16]: *Anubhāṣya*: *parateka* means *pratyakṣa*, *sākṣāt* — “before one’s very eyes”.
 
-[^17]: *Anubhāṣya*: the Māyāvādīs say that on taking the staff a sannyāsī becomes Nārāyaṇa, and they greet such staff-bearers with “Oṁ namo nārāyaṇāya”; but the jīva, liberated or conditioned, is eternally subject to Nārāyaṇa, the Lord of māyā, and must never be called Nārāyaṇa.
+[^17]: In the Gauḍīya Maṭha edition the people’s words end with verse 106; verses 107–108 are the author’s.
 
-[^18]: The source follows the edition’s heading: the *Sarvajña-sūkta* as quoted in the *Bhagavat-sandarbha*, or the words of Śrī Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam 1.7.5–6.
+[^18]: *Anubhāṣya*: the Māyāvādīs say that on taking the staff a sannyāsī becomes Nārāyaṇa, and they greet such staff-bearers with “Oṁ namo nārāyaṇāya”; but the jīva, liberated or conditioned, is eternally subject to Nārāyaṇa, the Lord of māyā, and must never be called Nārāyaṇa.
+
+[^19]: The source follows the edition’s heading: the *Sarvajña-sūkta* as quoted in the *Bhagavat-sandarbha*, or the words of Śrī Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam 1.7.5–6.

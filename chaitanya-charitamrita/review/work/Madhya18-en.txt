@@ -11,7 +11,7 @@ w: in Vṛndāvana  the nonmoving and moving beings
 w: delighting  with His glances
 w: Himself  and  by the sight of them
 w: Gaurāṅga  all around  wandered
-tr: Delighting the moving and nonmoving beings of Vṛndāvana with His glances, and delighting Himself by the sight of them, Gaurāṅga wandered all around.
+tr: Delighting the moving and nonmoving beings of Vṛndāvana with His glances, and Himself rejoicing at the sight of them, Gaurāṅga wandered everywhere.
 
 ## 2
 w: glory  glory  to Gauracandra  glory  to Nityānanda
@@ -109,7 +109,7 @@ tr: Harideva, who dwells on the western petal of the lotus of Mathurā, is Nār�
 ## 19
 w: before Harideva  He dances  with love  intoxicated  being
 w: all  the people  to see  came  the wonder  hearing
-tr: Intoxicated with love, He danced before Harideva, and all the people, hearing of the wonder, came to see.
+tr: Before Harideva He danced, intoxicated with love, and all the people, hearing of the wonder, came to see.
 
 ## 20
 w: the Lord’s  love  beauty  seeing  the people  amazed
@@ -342,7 +342,7 @@ tr: He bowed to the feet of the King and Queen of Vraja, and in the rapture of l
 ## 63
 w: all  day  in the rapture of love  dance and song  He performed
 w: from there  Mahāprabhu  to Khadiravana  came
-tr: All day He danced and sang in the rapture of love, and from there Mahāprabhu came to Khadiravana.
+tr: All day He danced and sang, absorbed in love, and from there Mahāprabhu came to Khadiravana.
 
 ## 64
 w: the places of the pastimes  seeing  there  He went  to Śeṣaśāyī
@@ -375,7 +375,8 @@ tr: He saw the places where the twin Arjuna trees were broken and where other pa
 ## 69
 w: Gokula  seeing  He came  to the city of Mathurā
 w: the birthplace  seeing  He stays  that  in the brāhmaṇa’s house
-tr: After seeing Gokula, He came to the city of Mathurā. He saw the place of Kṛṣṇa’s birth and stayed in the house of that same brāhmaṇa.
+tr: From Gokula He came to the city of Mathurā. He saw the place of Kṛṣṇa’s birth and stayed in the house of that same brāhmaṇa.
+fn: *Anubhāṣya*: the Lord stayed with the disciple of Mādhavendra Purī of whom the previous chapter tells (Madhya 17).
 
 ## 70
 w: of people  the crowds  seeing  Mathurā  leaving
