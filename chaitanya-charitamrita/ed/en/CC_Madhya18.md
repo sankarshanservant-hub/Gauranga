@@ -436,193 +436,241 @@ in a joyful uproar  the people  say  Hari  Hari
 প্রভুর বাঞ্ছা পূর্ণ সব করিল গোপালে ॥ ৪১ ॥
 
 gopāla mandire gelā, prabhu rahilā tale  
-prabhura vāñchā pūrṇa saba karila gopāle
+Gopāla  to the temple  went  the Lord  remained  below  
+prabhura vāñchā pūrṇa saba karila gopāle  
+the Lord’s  desires  fulfilled  all  made  Gopāla
 
-(41) [not yet translated]
+(41) Gopāla went to His temple, and the Lord remained below. Gopāla had fulfilled all the Lord’s desires.
 
 এইমত গোপালের করুণ স্বভাব ৷  
 সেই ভক্ত-জনের দেখিতে হয় ‘ভাব’ ॥ ৪২ ॥
 
 ei-mata gopālera karuṇa svabhāva  
-sei bhakta-janera dekhite haya ‘bhāva’
+in this way  Gopāla’s  compassionate  nature  
+sei bhakta-janera dekhite haya ‘bhāva’  
+of those  devotees  to see  there is  longing
 
-(42) [not yet translated]
+(42) Such is Gopāla’s compassionate nature. Those devotees long to see Him,
 
 দেখিতে উৎকণ্ঠা হয়, না চড়ে গোবর্দ্ধনে ৷  
 কোন ছলে গোপাল আসি’ উতরে আপনে ॥ ৪৩ ॥
 
 dekhite utkaṇṭhā haya, nā caḍe govardhane  
-kona chale gopāla āsi’ utare āpane
+to see  eagerness  there is  not  they climb  Govardhana  
+kona chale gopāla āsi’ utare āpane  
+on some  pretext  Gopāla  coming  descends  Himself
 
-(43) [not yet translated]
+(43) they are eager to see Him, yet they do not climb Govardhana — and so, on some pretext, Gopāla comes down Himself.
 
 কভু কুঞ্জে রহে, কভু রহে গ্রামান্তরে ৷  
 যেই ভক্ত, তাঁহা আসি’ দেখয়ে তাঁহারে ॥ ৪৪ ॥
 
 kabhu kuñje rahe, kabhu rahe grāmāntare  
-yei bhakta, tāṅhā āsi’ dekhaye tāṅhāre
+sometimes  in a grove  He stays  sometimes  He stays  in another village  
+yei bhakta, tāṅhā āsi’ dekhaye tāṅhāre  
+whichever  devotee  there  coming  sees  Him
 
-(44) [not yet translated]
+(44) Sometimes He stays in a grove, sometimes in another village, and any devotee may come there and see Him.
 
 পর্ব্বতে না চড়ে দুই রূপ-সনাতন ৷  
 এইরূপে তাঁ-সবারে দিয়াছেন দরশন ॥ ৪৫ ॥
 
 parvate nā caḍe dui rūpa-sanātana  
-ei-rūpe tāṅ-sabāre diyāchena daraśana
+on the hill  not  climb  the two  Rūpa and Sanātana  
+ei-rūpe tāṅ-sabāre diyāchena daraśana  
+in this way  to them  He has given  darśana
 
-(45) [not yet translated]
+(45) The two brothers, Rūpa and Sanātana, would not climb the hill, and in this way He gave them darśana.
 
 বৃদ্ধকালে রূপ-গোসাঞি না পারে যাইতে ৷  
 বাঞ্ছা হৈল গোপালের সৌন্দর্য্য দেখিতে ॥ ৪৬ ॥
 
 vṛddha-kāle rūpa-gosāñi nā pāre yāite  
-vāñchā haila gopālera saundarya dekhite
+in old age  Rūpa Gosāñi  not  could  go  
+vāñchā haila gopālera saundarya dekhite  
+a desire  arose  of Gopāla  the beauty  to see
 
-(46) [not yet translated]
+(46) In his old age Rūpa Gosāñi could no longer go there, yet a desire arose in him to see the beauty of Gopāla.
 
 ম্লেচ্ছভয়ে আইলা গোপাল মথুরা-নগরে ৷  
 একমাস রহিল বিঠ্ঠলেশ্বর-ঘরে ॥ ৪৭ ॥
 
 mleccha-bhaye āilā gopāla mathurā-nagare  
-eka-māsa rahila viṭhṭhaleśvara-ghare
+from fear of the mlecchas  came  Gopāla  to the city of Mathurā  
+eka-māsa rahila viṭhṭhaleśvara-ghare  
+one month  He stayed  in Viṭhṭhaleśvara’s house
 
-(47) [not yet translated]
+(47) For fear of the mlecchas Gopāla came to the city of Mathurā and stayed for a month in the house of Viṭhṭhaleśvara.
 
 তবে রূপ গোসাঞি সব নিজগণ লঞা ৷  
 একমাস দরশন কৈলা মথুরায় রহিয়া ॥ ৪৮ ॥
 
 tabe rūpa gosāñi saba nija-gaṇa lañā  
-eka-māsa daraśana kailā mathurāya rahiyā
+then  Rūpa  Gosāñi  all  his own associates  taking  
+eka-māsa daraśana kailā mathurāya rahiyā  
+for one month  darśana  had  in Mathurā  staying
 
-(48) [not yet translated]
+(48) Then Rūpa Gosāñi took all his associates with him, stayed in Mathurā for a month and had darśana of Gopāla.
 
 সঙ্গে গোপাল-ভট্ট, দাস-রঘুনাথ ৷  
 রঘুনাথ-ভট্টগোসাঞি, আর লোকনাথ ॥ ৪৯ ॥
 
 saṅge gopāla-bhaṭṭa, dāsa-raghunātha  
-raghunātha-bhaṭṭa-gosāñi, āra lokanātha
+with him  Gopāla Bhaṭṭa  Raghunātha dāsa  
+raghunātha-bhaṭṭa-gosāñi, āra lokanātha  
+Raghunātha Bhaṭṭa Gosāñi  and  Lokanātha
 
-(49) [not yet translated]
+(49) With him were Gopāla Bhaṭṭa, Raghunātha dāsa, Raghunātha Bhaṭṭa Gosāñi and Lokanātha,
 
 ভূগর্ভ-গোসাঞি, আর শ্রীজীব-গোসাঞি ৷  
 শ্রীযাদব-আচার্য্য, আর গোবিন্দ-গোসাঞি ॥ ৫০ ॥
 
 bhūgarbha-gosāñi, āra śrī-jīva-gosāñi  
-śrī-yādava-ācārya, āra govinda-gosāñi
+Bhūgarbha Gosāñi  and  Śrī Jīva Gosāñi  
+śrī-yādava-ācārya, āra govinda-gosāñi  
+Śrī Yādava Ācārya  and  Govinda Gosāñi
 
-(50) [not yet translated]
+(50) Bhūgarbha Gosāñi, Śrī Jīva Gosāñi, Śrī Yādava Ācārya, Govinda Gosāñi,
 
 শ্রীউদ্ধব-দাস, আর মাধব, দুইজন ৷  
 শ্রীগোপাল-দাস, আর দাস নারায়ণ ॥ ৫১ ॥
 
 śrī-uddhava-dāsa, āra mādhava, dui-jana  
-śrī-gopāla-dāsa, āra dāsa nārāyaṇa
+Śrī Uddhava dāsa  and  Mādhava  the two  
+śrī-gopāla-dāsa, āra dāsa nārāyaṇa  
+Śrī Gopāla dāsa  and  Nārāyaṇa dāsa
 
-(51) [not yet translated]
+(51) Śrī Uddhava dāsa and Mādhava, Śrī Gopāla dāsa and Nārāyaṇa dāsa,
 
 ‘গোবিন্দ’ ভক্ত, আর বাণী-কৃষ্ণদাস ৷  
 পুণ্ডরীকাক্ষ, ঈশান, আর লঘু-হরিদাস ॥ ৫২ ॥
 
 ‘govinda’ bhakta, āra vāṇī-kṛṣṇadāsa  
-puṇḍarīkākṣa, īśāna, āra laghu-haridāsa
+Govinda  the devotee  and  Vāṇī Kṛṣṇadāsa  
+puṇḍarīkākṣa, īśāna, āra laghu-haridāsa  
+Puṇḍarīkākṣa  Īśāna  and  Laghu Haridāsa
 
-(52) [not yet translated]
+(52) the devotee Govinda, Vāṇī Kṛṣṇadāsa, Puṇḍarīkākṣa, Īśāna and Laghu Haridāsa.
 
 এইসব মুখ্যভক্ত লঞা নিজ-সঙ্গে ৷  
 শ্রীগোপাল দরশন কৈলা বহু-রঙ্গে ॥ ৫৩ ॥
 
 eisaba mukhya-bhakta lañā nija-saṅge  
-śrī-gopāla daraśana kailā bahu-raṅge
+all these  chief devotees  taking  with himself  
+śrī-gopāla daraśana kailā bahu-raṅge  
+of Śrī Gopāla  darśana  he had  with great joy
 
-(53) [not yet translated]
+(53) Taking all these chief devotees with him, he had darśana of Śrī Gopāla with great joy.
 
 একমাস রহি’ গোপাল গেলা নিজ-স্থানে ৷  
 শ্রীরূপ-গোসাঞি আইলা শ্রীবৃন্দাবনে ॥ ৫৪ ॥
 
 eka-māsa rahi’ gopāla gelā nija-sthāne  
-śrī-rūpa-gosāñi āilā śrī-vṛndāvane
+one month  staying  Gopāla  went  to His own place  
+śrī-rūpa-gosāñi āilā śrī-vṛndāvane  
+Śrī Rūpa Gosāñi  came  to Śrī Vṛndāvana
 
-(54) [not yet translated]
+(54) After staying for a month, Gopāla went back to His own place, and Śrī Rūpa Gosāñi returned to Śrī Vṛndāvana.
 
 প্রস্তাবে কহিলুঁ গোপাল-কৃপার আখ্যান ৷  
 তবে মহাপ্রভু গেলা ‘শ্রীকাম্যবন’ ॥ ৫৫ ॥
 
 prastāve kahiluṅ gopāla-kṛpāra ākhyāna  
-tabe mahāprabhu gelā ‘śrī-kāmyavana’
+in passing  I have told  of Gopāla’s mercy  the story  
+tabe mahāprabhu gelā ‘śrī-kāmyavana’  
+then  Mahāprabhu  went  to Śrī Kāmyavana
 
-(55) [not yet translated]
+(55) In passing I have told the story of Gopāla’s mercy. Then Mahāprabhu went to Śrī Kāmyavana.
 
 প্রভুর গমন-রীতি পূর্ব্বে যে লিখিল ৷  
 সেইমত বৃন্দাবনে তাবৎ দেখিল ॥ ৫৬ ॥
 
 prabhura gamana-rīti pūrve ye likhila  
-sei-mata vṛndāvane tāvat dekhila
+the Lord’s  manner of travelling  before  which  I described  
+sei-mata vṛndāvane tāvat dekhila  
+in the same way  in Vṛndāvana  everything  He saw
 
-(56) [not yet translated]
+(56) In the manner of travelling that I described before, the Lord saw all the holy places of Vṛndāvana.
 
 তাঁহা লীলাস্থলী দেখি’ গেলা ‘নন্দীশ্বর’ ৷  
 ‘নন্দীশ্বর’ দেখি’ প্রেমে হইলা বিহ্বল ॥ ৫৭ ॥
 
 tāṅhā līlā-sthalī dekhi’ gelā ‘nandīśvara’  
-‘nandīśvara’ dekhi’ preme hailā vihvala
+there  the places of the pastimes  seeing  He went  to Nandīśvara  
+‘nandīśvara’ dekhi’ preme hailā vihvala  
+Nandīśvara  seeing  with love  He became  overwhelmed
 
-(57) [not yet translated]
+(57) After seeing the places of the pastimes there, He went to Nandīśvara, and on seeing Nandīśvara He was overwhelmed with love.
 
 ‘পাবনাদি’ সব কুণ্ডে স্নান করিয়া ৷  
 লোকেরে পুছিল, পর্ব্বত-উপরে যাঞা ॥ ৫৮ ॥
 
 ‘pāvanādi’ saba kuṇḍe snāna kariyā  
-lokere puchila, parvata-upare yāñā
+Pāvana and other  in all  kuṇḍas  bath  taking  
+lokere puchila, parvata-upare yāñā  
+the people  He asked  onto the hill  going
 
-(58) [not yet translated]
+(58) He bathed in all the kuṇḍas, beginning with Pāvana, and then He went up the hill and asked the people:
 
 কিছু দেবমূর্ত্তি হয় পর্ব্বত-উপরে ৷  
 লোক কহে, — মূর্ত্তি হয় গোফার ভিতরে ॥ ৫৯ ॥
 
 kichu deva-mūrti haya parvata-upare  
-loka kahe, — mūrti haya gophāra bhitare
+any  Deities  are there  on the hill  
+loka kahe, — mūrti haya gophāra bhitare  
+the people  say  —  Deities  there are  of a cave  inside
 
-(59) [not yet translated]
+(59) “Are there any Deities on the hill?” The people said, “There are Deities inside a cave.
 
 দুইদিকে মাতা-পিতা পুষ্ট কলেবর ৷  
 মধ্যে এক ‘শিশু’ হয় ত্রিভঙ্গ-সুন্দর ॥ ৬০ ॥
 
 dui-dike mātā-pitā puṣṭa kalevara  
-madhye eka ‘śiśu’ haya tribhaṅga-sundara
+on two sides  mother and father  sturdy  of body  
+madhye eka ‘śiśu’ haya tribhaṅga-sundara  
+in the middle  one  child  is  beautiful in three bends
 
-(60) [not yet translated]
+(60) On either side are the mother and father, sturdy of build, and between them is a child, beautiful in His threefold bending form.”
 
 শুনি’ মহাপ্রভু মনে আনন্দ পাঞা ৷  
 ‘তিন’ মূর্ত্তি দেখিলা সেই গোফা উঘারিয়া ॥ ৬১ ॥
 
 śuni’ mahāprabhu mane ānanda pāñā  
-‘tina’ mūrti dekhilā sei gophā ughāriyā
+hearing  Mahāprabhu  in His mind  joy  feeling  
+‘tina’ mūrti dekhilā sei gophā ughāriyā  
+three  Deities  He saw  that  cave  opening
 
-(61) [not yet translated]
+(61) Mahāprabhu was delighted to hear this. He opened the cave and saw the three Deities.
 
 ব্রজেন্দ্র-ব্রজেশ্বরীর কৈল চরণ বন্দন ৷  
 প্রেমাবেশে কৃষ্ণের কৈল সর্ব্বাঙ্গ-স্পর্শন ॥ ৬২ ॥
 
 vrajendra-vrajeśvarīra kaila caraṇa vandana  
-premāveśe kṛṣṇera kaila sarvāṅga-sparśana
+of the King and Queen of Vraja  He did  of the feet  worship  
+premāveśe kṛṣṇera kaila sarvāṅga-sparśana  
+in the rapture of love  Kṛṣṇa’s  He did  touching of the whole body
 
-(62) [not yet translated]
+(62) He bowed to the feet of the King and Queen of Vraja, and in the rapture of love He touched Kṛṣṇa’s whole body.
 
 সবদিন প্রেমাবেশে নৃত্য-গীত কৈলা ৷  
 তাঁহা হৈতে মহাপ্রভু ‘খদির-বন’ আইলা ॥ ৬৩ ॥
 
 saba dina premāveśe nṛtya-gīta kailā  
-tāṅhā haite mahāprabhu ‘khadira-vana’ āilā
+all  day  in the rapture of love  dance and song  He performed  
+tāṅhā haite mahāprabhu ‘khadira-vana’ āilā  
+from there  Mahāprabhu  to Khadiravana  came
 
-(63) [not yet translated]
+(63) All day He danced and sang in the rapture of love, and from there Mahāprabhu came to Khadiravana.
 
 লীলাস্থল দেখি’ তাঁহা, গেলা ‘শেষশায়ী’ ৷  
 ‘লক্ষ্মী’ দেখি’ এই শ্লোক পড়েন গোসাঞি ॥ ৬৪ ॥
 
 līlā-sthala dekhi’ tāṅhā, gelā ‘śeṣaśāyī’  
-‘lakṣmī’ dekhi’ ei śloka paḍena gosāñi
+the places of the pastimes  seeing  there  He went  to Śeṣaśāyī  
+‘lakṣmī’ dekhi’ ei śloka paḍena gosāñi  
+Lakṣmī  seeing  this  verse  recites  the Lord
 
-(64) [not yet translated]
+(64) After seeing the places of the pastimes there, He went to Śeṣaśāyī. There, seeing Lakṣmī, the Lord recited this verse:
 
 যত্তে সুজাতচরণাম্বুরুহং স্তনেষু  
 ভীতাঃ শনৈঃ প্রিয় দধীমহি কর্কশেষু ৷  
@@ -630,11 +678,15 @@ līlā-sthala dekhi’ tāṅhā, gelā ‘śeṣaśāyī’
 কূর্পাদিভির্ভ্রমতি ধীর্ভবদায়ুষাং নঃ ॥ ৬৫ ॥
 
 yat te sujāta-caraṇāmburuhaṁ staneṣu  
+which  Your  tender  lotus feet  on the breasts  
 bhītāḥ śanaiḥ priya dadhīmahi karkaśeṣu  
+fearful  gently  O dear  we place  hard  
 tenāṭavīm aṭasi tad vyathate na kiṁ svit  
-kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ
+with them  the forest  You wander  they  are pained  not  whether  
+kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ  
+by fine stones and such  whirls  the mind  of whom You are the life  our
 
-(65) [not yet translated]
+(65) “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam, 10.31.19)[^65]
 
 তবে ‘খেলা-তীর্থ’ দেখি’ ‘ভাণ্ডীরবন’ আইলা ৷  
 যমুনা পার হঞা ‘ভদ্র-বন’ গেলা ॥ ৬৬ ॥
@@ -1651,433 +1703,541 @@ pilgrims  you rob  and  you want  to kill
 হেনকালে মহাপ্রভু ‘চৈতন্য’ পাইল ॥ ১৭৬ ॥
 
 śuniyā pāṭhāna mane saṅkoca haila  
-hena-kāle mahāprabhu ‘caitanya’ pāila
+hearing  the Paṭhān  in the mind  hesitation  arose  
+hena-kāle mahāprabhu ‘caitanya’ pāila  
+at that time  Mahāprabhu  consciousness  regained
 
-(176) [not yet translated]
+(176) Hearing this, the Paṭhāns began to hesitate. Just then Mahāprabhu regained consciousness.
 
 হুঙ্কার করিয়া উঠে, বলে ‘হরি’ ‘হরি’ ৷  
 প্রেমাবেশে নৃত্য করে উর্দ্ধ্ববাহু করি’ ॥ ১৭৭ ॥
 
 huṅkāra kariyā uṭhe, bale ‘hari’ ‘hari’  
-premāveśe nṛtya kare urdhva-bāhu kari’
+a roar  making  He rises  says  Hari  Hari  
+premāveśe nṛtya kare urdhva-bāhu kari’  
+absorbed in love  dance  does  arms raised  making
 
-(177) [not yet translated]
+(177) He rose with a loud roar, calling “Hari! Hari!”, and absorbed in love He danced with His arms raised high.
 
 প্রেমাবেশে প্রভু যবে করেন চিৎকার ৷  
 ম্লেচ্ছের হৃদয়ে যেন লাগে শেলধার ॥ ১৭৮ ॥
 
 premāveśe prabhu yabe karena citkāra  
-mlecchera hṛdaye yena lāge śeladhāra
+absorbed in love  the Lord  when  makes  a cry  
+mlecchera hṛdaye yena lāge śeladhāra  
+of the mlecchas  in the heart  as if  strikes  a spear’s point
 
-(178) [not yet translated]
+(178) When the Lord, absorbed in love, cried out, it pierced the mlecchas’ hearts like the point of a spear.
 
 ভয় পাঞা ম্লেচ্ছ ছাড়ি’ দিল চারিজন ৷  
 প্রভু না দেখিল নিজ-গণের বন্ধন ॥ ১৭৯ ॥
 
 bhaya pāñā mleccha chāḍi’ dila cāri-jana  
-prabhu nā dekhila nija-gaṇera bandhana
+fear  getting  the mleccha  released  gave  the four men  
+prabhu nā dekhila nija-gaṇera bandhana  
+the Lord  not  saw  of His own people  the binding
 
-(179) [not yet translated]
+(179) Frightened, the mlecchas set the four men free, and the Lord did not see His companions in bonds.
 
 ভট্টাচার্য্য আসি’ প্রভুরে ধরি’ বসাইল ৷  
 ম্লেচ্ছগণ দেখি’ মহাপ্রভুর ‘বাহ্য’ হৈল ॥ ১৮০ ॥
 
 bhaṭṭācārya āsi’ prabhure dhari’ vasāila  
-mleccha-gaṇa dekhi’ mahāprabhura ‘bāhya’ haila
+Bhaṭṭācārya  coming  the Lord  holding  seated  
+mleccha-gaṇa dekhi’ mahāprabhura ‘bāhya’ haila  
+the mlecchas  seeing  Mahāprabhu’s  outward consciousness  came
 
-(180) [not yet translated]
+(180) Bhaṭṭācārya came, took hold of the Lord and seated Him. Seeing the mlecchas, Mahāprabhu returned to outward consciousness.
 
 ম্লেচ্ছগণ আসি’ প্রভুর বন্দিল চরণ ৷  
 প্রভু-আগে কহে, — এই ঠক্ চারিজন ॥ ১৮১ ॥
 
 mleccha-gaṇa āsi’ prabhura vandila caraṇa  
-prabhu-āge kahe, — ei ṭhak cāri-jana
+the mlecchas  coming  the Lord’s  worshipped  feet  
+prabhu-āge kahe, — ei ṭhak cāri-jana  
+before the Lord  say  these  cheats  four persons
 
-(181) [not yet translated]
+(181) The mlecchas came and bowed at the Lord’s feet, and before Him they said, “These four men are cheats.
 
 এই চারি মিলি’ তোমায় ধুতুরা খাওয়াঞা ৷  
 তোমার ধন লৈল, তোমায় পাগল করিয়া ॥ ১৮২ ॥
 
 ei cāri mili’ tomāya dhuturā khāoyāñā  
-tomāra dhana laila, tomāya pāgala kariyā
+these  four  together  You  dhuturā  feeding  
+tomāra dhana laila, tomāya pāgala kariyā  
+Your  wealth  took  You  mad  making
 
-(182) [not yet translated]
+(182) “These four together fed You dhuturā, made You lose Your senses and took Your wealth.”
 
 প্রভু কহেন, — ঠক নহে, মোর ‘সঙ্গী’ জন ৷  
 ভিক্ষুক সন্ন্যাসী, মোর নাহি কিছু ধন ॥ ১৮৩ ॥
 
 prabhu kahena, — ṭhak nahe, mora ‘saṅgī’ jana  
-bhikṣuka sannyāsī, mora nāhi kichu dhana
+the Lord  says  cheats  are not  My  companions  people  
+bhikṣuka sannyāsī, mora nāhi kichu dhana  
+a mendicant  sannyāsī  of Mine  is not  any  wealth
 
-(183) [not yet translated]
+(183) The Lord said, “They are not cheats; they are My companions. I am a mendicant sannyāsī and have no wealth at all.
 
 মৃগী-ব্যাধিতে আমি কভু হই অচেতন ৷  
 এই চারি দয়া করি’ করেন পালন ॥ ১৮৪ ॥
 
 mṛgī-vyādhite āmi kabhu ha-i acetana  
-ei cāri dayā kari’ karena pālana
+from the falling sickness  I  sometimes  become  unconscious  
+ei cāri dayā kari’ karena pālana  
+these  four  kindness  showing  do  care
 
-(184) [not yet translated]
+(184) “Because of the falling sickness I sometimes lose consciousness, and these four kindly look after Me.”
 
 সেই ম্লেচ্ছ-মধ্যে এক পরম গম্ভীর ৷  
 কালবস্ত্র পরে সেই, — লোকে কহে ‘পীর’ ॥ ১৮৫ ॥
 
 sei mleccha-madhye eka parama gambhīra  
-kāla-vastra pare sei, — loke kahe ‘pīra’
+those  among the mlecchas  one  very  grave  
+kāla-vastra pare sei, — loke kahe ‘pīra’  
+black clothes  wears  he  people  call  a pīr
 
-(185) [not yet translated]
+(185) Among those mlecchas was one very grave man. He wore black clothes, and people called him a ‘pīr.’
 
 চিত্ত আর্দ্র হৈল তাঁর প্রভুরে দেখিয়া ৷  
 ‘নির্ব্বিশেষ-ব্রহ্ম’ স্থাপে স্বশাস্ত্র উঠাঞা ॥ ১৮৬ ॥
 
 citta ārdra haila tāṅra prabhure dekhiyā  
-‘nirviśeṣa-brahma’ sthāpe svaśāstra uṭhāñā
+heart  soft  became  his  the Lord  seeing  
+‘nirviśeṣa-brahma’ sthāpe svaśāstra uṭhāñā  
+the impersonal Brahman  establishes  his own scripture  citing
 
-(186) [not yet translated]
+(186) His heart melted when he saw the Lord, and, citing his own scripture, he set out to establish the impersonal (*nirviśeṣa*) Brahman.
 
 ‘অদ্বৈত-ব্রহ্মবাদ’ সেই করিল স্থাপন ৷  
 তাঁর শাস্ত্রযুক্ত্যে তাঁরে প্রভু কৈলা খণ্ডন ॥ ১৮৭ ॥
 
 ‘advaita-brahma-vāda’ sei karila sthāpana  
-tāṅra śāstra-yuktye tāṅre prabhu kailā khaṇḍana
+the doctrine of nondual Brahman  he  made  establishment  
+tāṅra śāstra-yuktye tāṅre prabhu kailā khaṇḍana  
+his  by scriptural reasoning  him  the Lord  made  refutation
 
-(187) [not yet translated]
+(187) He set forth the doctrine of the nondual Brahman, and the Lord refuted him with the reasoning of his own scripture.
 
 যেই যেই কহিল, প্রভু সকলি খণ্ডিল ৷  
 উত্তর না আইসে মুখে, মহাস্তব্ধ হৈল ॥ ১৮৮ ॥
 
 yei yei kahila, prabhu sakali khaṇḍila  
-uttara nā āise mukhe, mahā-stabdha haila
+whatever  whatever  he said  the Lord  all  refuted  
+uttara nā āise mukhe, mahā-stabdha haila  
+answer  not  comes  to the mouth  utterly stunned  became
 
-(188) [not yet translated]
+(188) Whatever he said, the Lord refuted it all. No answer came to his lips, and he was struck utterly dumb.
 
 প্রভু কহে, — তোমার শাস্ত্র স্থাপে ‘নির্ব্বিশেষে’ ৷  
 তাহা খণ্ডি’ ‘সবিশেষ’ স্থাপিয়াছে শেষে ॥ ১৮৯ ॥
 
 prabhu kahe, — tomāra śāstra sthāpe ‘nirviśeṣe’  
-tāhā khaṇḍi’ ‘saviśeṣa’ sthāpiyāche śeṣe
+the Lord  says  your  scripture  establishes  the impersonal  
+tāhā khaṇḍi’ ‘saviśeṣa’ sthāpiyāche śeṣe  
+that  refuting  the personal  has established  in the end
 
-(189) [not yet translated]
+(189) The Lord said, “Your scripture establishes the impersonal, but in the end it refutes that and establishes the personal (*saviśeṣa*).
 
 তোমার শাস্ত্রে কহে শেষে ‘একই ঈশ্বর’ ৷  
 ‘সর্ব্বৈশ্বর্য্যপূর্ণ’ তেঁহো — শ্যাম-কলেবর ॥ ১৯০ ॥
 
 tomāra śāstre kahe śeṣe ‘eka-i īśvara’  
-‘sarvaiśvarya-pūrṇa’ teṅho — śyāma-kalevara
+your  in the scripture  says  in the end  one only  God  
+‘sarvaiśvarya-pūrṇa’ teṅho — śyāma-kalevara  
+full of all majesty  He  dark  form
 
-(190) [not yet translated]
+(190) “At the end your scripture speaks of ‘one God alone,’ ‘full of all majesty,’ whose form is dark.
 
 সচ্চিদানন্দ-দেহ, পূর্ণব্রহ্ম-স্বরূপ ৷  
 ‘সর্ব্বাত্মা’, ‘সর্ব্বজ্ঞ’, নিত্য সর্ব্বাদি-স্বরূপ ॥ ১৯১ ॥
 
 sac-cid-ānanda-deha, pūrṇa-brahma-svarūpa  
-‘sarvātmā’, ‘sarvajña’, nitya sarvādi-svarūpa
+eternity-knowledge-bliss  body  the complete Brahman  in person  
+‘sarvātmā’, ‘sarvajña’, nitya sarvādi-svarūpa  
+the Soul of all  all-knowing  eternal  the origin of all  in person
 
-(191) [not yet translated]
+(191) “His body is eternity, knowledge and bliss; He is the complete Brahman in person. He is ‘the Soul of all’ and ‘the Knower of all,’ the eternal origin of all.
 
 সৃষ্টি, স্থিতি, প্রলয় তাঁহা হৈতে হয় ৷  
 স্থূল-সূক্ষ্ম-জগতের তিঁহো সমাশ্রয় ॥ ১৯২ ॥
 
 sṛṣṭi, sthiti, pralaya tāṅhā haite haya  
-sthūla-sūkṣma-jagatera tiṅho samāśraya
+creation  maintenance  dissolution  from Him  from  happen  
+sthūla-sūkṣma-jagatera tiṅho samāśraya  
+of the gross and subtle  worlds  He  the shelter
 
-(192) [not yet translated]
+(192) “Creation, maintenance and dissolution come from Him; He is the shelter of the gross and subtle worlds.
 
 ‘সর্ব্ব-শ্রেষ্ঠ, সর্ব্বারাধ্য, কারণের কারণ’ ৷  
 তাঁর ভক্ত্যে হয় জীবের সংসার-তারণ ॥ ১৯৩ ॥
 
 ‘sarva-śreṣṭha, sarvārādhya, kāraṇera kāraṇa’  
-tāṅra bhaktye haya jīvera saṁsāra-tāraṇa
+the highest of all  worshipable by all  of causes  the cause  
+tāṅra bhaktye haya jīvera saṁsāra-tāraṇa  
+to Him  by devotion  is  of the jīva  from saṁsāra  deliverance
 
-(193) [not yet translated]
+(193) “He is ‘the highest of all, worshipable by all, the cause of all causes.’ By devotion to Him the jīva is delivered from saṁsāra.
 
 তাঁর সেবা বিনা জীবের না যায় ‘সংসার’ ৷  
 তাঁহার চরণে প্রীতি — ‘পুরুষার্থ-সার’ ॥ ১৯৪ ॥
 
 tāṅra sevā vinā jīvera nā yāya ‘saṁsāra’  
-tāṅhāra caraṇe prīti — ‘puruṣārtha-sāra’
+His  service  without  of the jīva  not  goes  saṁsāra  
+tāṅhāra caraṇe prīti — ‘puruṣārtha-sāra’  
+His  for the feet  love  the essence of human goals
 
-(194) [not yet translated]
+(194) “Without serving Him, the jīva is never free of saṁsāra. Love for His feet is ‘the essence of all human goals.’
 
 মোক্ষাদি আনন্দ যার নহে এক ‘কণ’ ৷  
 পূর্ণানন্দ-প্রাপ্তি তাঁর চরণ-সেবন ॥ ১৯৫ ॥
 
 mokṣādi ānanda yāra nahe eka ‘kaṇa’  
-pūrṇānanda-prāpti tāṅra caraṇa-sevana
+liberation and so on  joy  of which  is not  one  particle  
+pūrṇānanda-prāpti tāṅra caraṇa-sevana  
+of full bliss  attainment  His  of the feet  service
 
-(195) [not yet translated]
+(195) “The joy of liberation and the like is not a particle of that bliss: to serve His feet is to attain complete bliss.
 
 ‘কর্ম্ম’, ‘জ্ঞান’ ‘যোগ’ আগে করিয়া স্থাপন ৷  
 সব খণ্ডি’ স্থাপে ‘ঈশ্বর’, ‘তাঁহার সেবন’ ॥ ১৯৬ ॥
 
 ‘karma’, ‘jñāna’ ‘yoga’ āge kariyā sthāpana  
-saba khaṇḍi’ sthāpe ‘īśvara’, ‘tāṅhāra sevana’
+karma  jñāna  yoga  first  making  establishment  
+saba khaṇḍi’ sthāpe ‘īśvara’, ‘tāṅhāra sevana’  
+all  refuting  establishes  God  His  service
 
-(196) [not yet translated]
+(196) “First it establishes karma, jñāna and yoga, but then it refutes them all and establishes ‘God’ and ‘service to Him.’
 
 তোমার পণ্ডিত-সবার নাহি শাস্ত্র-জ্ঞান ৷  
 পূর্ব্বাপর-বিধি-মধ্যে ‘পর’ — বলবান্ ॥ ১৯৭ ॥
 
 tomāra paṇḍita-sabāra nāhi śāstra-jñāna  
-pūrvāpara-vidhi-madhye ‘para’ — balavān
+your  scholars  all  have not  of scripture  knowledge  
+pūrvāpara-vidhi-madhye ‘para’ — balavān  
+among earlier and later injunctions  the later  is stronger
 
-(197) [not yet translated]
+(197) “Your scholars do not know the scripture. Among earlier and later injunctions, the later one prevails.
 
 নিজ-শাস্ত্র দেখি’ তুমি বিচার করিয়া ৷  
 কি লিখিয়াছে শেষে কহ নির্ণয় করিয়া ॥ ১৯৮ ॥
 
 nija-śāstra dekhi’ tumi vicāra kariyā  
-ki likhiyāche śeṣe kaha nirṇaya kariyā
+own scripture  looking  you  consideration  making  
+ki likhiyāche śeṣe kaha nirṇaya kariyā  
+what  has written  at the end  tell  decision  making
 
-(198) [not yet translated]
+(198) “Look into your own scripture, consider it carefully, and tell Me plainly what it has written at the end.”
 
 ম্লেচ্ছ কহে, — যেই কহ, সেই ‘সত্য’ হয় ৷  
 শাস্ত্রে লিখিয়াছে, কেহ লইতে না পারয় ॥ ১৯৯ ॥
 
 mleccha kahe, — yei kaha, sei ‘satya’ haya  
-śāstre likhiyāche, keha laite nā pāraya
+the mleccha  says  what  You say  that  true  is  
+śāstre likhiyāche, keha laite nā pāraya  
+in the scripture  is written  anyone  to accept  not  is able
 
-(199) [not yet translated]
+(199) The mleccha said, “What You say is true. It is written in the scripture, but no one can accept it.
 
 ‘নির্ব্বিশেষ-গোসাঞি’ লঞা করেন ব্যাখ্যান ৷  
 ‘সাকার-গোসাঞি’ — সেব্য, কারো নাহি জ্ঞান ॥ ২০০ ॥
 
 ‘nirviśeṣa-gosāñi’ lañā karena vyākhyāna  
-‘sākāra-gosāñi’ — sevya, kāro nāhi jñāna
+the impersonal Lord  taking  they make  explanation  
+‘sākāra-gosāñi’ — sevya, kāro nāhi jñāna  
+the Lord with form  to be served  of anyone  is not  knowledge
 
-(200) [not yet translated]
+(200) “They interpret everything in terms of the impersonal Lord. That the Lord with form is the one to be served — no one knows this.
 
 সেই ত’ ‘গোসাঞি’ তুমি — সাক্ষাৎ ‘ঈশ্বর’ ৷  
 মোরে কৃপা কর, মুঞি — অয়োগ্য পামর ॥ ২০১ ॥
 
 sei ta’ ‘gosāñi’ tumi — sākṣāt ‘īśvara’  
-more kṛpā kara, muñi — ayogya pāmara
+that  very  Lord  You  in person  God  
+more kṛpā kara, muñi — ayogya pāmara  
+to me  mercy  do  I  unworthy  sinner
 
-(201) [not yet translated]
+(201) “You are that very Lord — God Himself. Be merciful to me; I am an unworthy sinner.
 
 অনেক দেখিনু মুঞি ম্লেচ্ছ-শাস্ত্র হৈতে ৷  
 ‘সাধ্য-সাধন-বস্তু’ নারি নির্দ্ধারিতে ॥ ২০২ ॥
 
 aneka dekhinu muñi mleccha-śāstra haite  
-‘sādhya-sādhana-vastu’ nāri nirdhārite
+much  have seen  I  the mleccha scriptures  from  
+‘sādhya-sādhana-vastu’ nāri nirdhārite  
+goal-means-object  I cannot  determine
 
-(202) [not yet translated]
+(202) “I have studied much of the mleccha scriptures, yet I cannot determine what the goal is and what the means.
 
 তোমা দেখি’ জিহ্বা মোর বলে ‘কৃষ্ণনাম’ ৷  
 ‘আমি — বড় জ্ঞানী’, এই গেল অভিমান ॥ ২০৩ ॥
 
 tomā dekhi’ jihvā mora bale ‘kṛṣṇa-nāma’  
-‘āmi — baḍa jñānī’, ei gela abhimāna
+You  seeing  tongue  my  says  Kṛṣṇa’s name  
+‘āmi — baḍa jñānī’, ei gela abhimāna  
+I  a great  scholar  this  went  pride
 
-(203) [not yet translated]
+(203) “Seeing You, my tongue speaks the name of Kṛṣṇa, and my pride — ‘I am a great scholar’ — is gone.
 
 কৃপা করি’ বল মোরে ‘সাধ্য-সাধনে’ ৷  
 এত বলি’ পড়ে মহাপ্রভুর চরণে ॥ ২০৪ ॥
 
 kṛpā kari’ bala more ‘sādhya-sādhane’  
-eta bali’ paḍe mahāprabhura caraṇe
+mercy  doing  tell  me  about goal and means  
+eta bali’ paḍe mahāprabhura caraṇe  
+thus  saying  falls  Mahāprabhu’s  at the feet
 
-(204) [not yet translated]
+(204) “Be merciful and tell me of the goal and the means.” Saying this, he fell at Mahāprabhu’s feet.
 
 প্রভু কহে, — উঠ, কৃষ্ণনাম তুমি লইলা ৷  
 কোটি-জন্মের পাপ গেল, ‘পবিত্র’ হইলা ॥ ২০৫ ॥
 
 prabhu kahe, — uṭha, kṛṣṇa-nāma tumi lailā  
-koṭi-janmera pāpa gela, ‘pavitra’ hailā
+the Lord  says  rise  Kṛṣṇa’s name  you  have taken  
+koṭi-janmera pāpa gela, ‘pavitra’ hailā  
+of ten million births  sins  went  pure  you became
 
-(205) [not yet translated]
+(205) The Lord said, “Rise. You have taken the name of Kṛṣṇa. The sins of millions of births are gone; you have become pure.”
 
 ‘কৃষ্ণ’ কহ, ‘কৃষ্ণ’ কহ, — কৈলা উপদেশ ৷  
 সবে ‘কৃষ্ণ’ কহে, সবার হৈল প্রেমাবেশ ॥ ২০৬ ॥
 
 ‘kṛṣṇa’ kaha, ‘kṛṣṇa’ kaha, — kailā upadeśa  
-sabe ‘kṛṣṇa’ kahe, sabāra haila premāveśa
+Kṛṣṇa  say  Kṛṣṇa  say  He gave  instruction  
+sabe ‘kṛṣṇa’ kahe, sabāra haila premāveśa  
+all  Kṛṣṇa  say  of all  came  absorption in love
 
-(206) [not yet translated]
+(206) He instructed them, “Say ‘Kṛṣṇa’! Say ‘Kṛṣṇa’!” They all said “Kṛṣṇa,” and all were overwhelmed with love.
 
 ‘রামদাস’ বলি’ প্রভু তাঁর কৈল নাম ৷  
 আর এক পাঠান, তাঁর নাম — ‘বিজলী-খাঁন’ ॥ ২০৭ ॥
 
 ‘rāmadāsa’ bali’ prabhu tāṅra kaila nāma  
-āra eka pāṭhāna, tāṅra nāma — ‘vijalī-khāṅna’
+Rāmadāsa  calling  the Lord  his  made  name  
+āra eka pāṭhāna, tāṅra nāma — ‘vijalī-khāṅna’  
+and  one  Paṭhān  his  name  Bijalī Khān
 
-(207) [not yet translated]
+(207) The Lord gave him the name ‘Rāmadāsa.’ Another Paṭhān there was named ‘Bijalī Khān.’
 
 অল্প বয়স তাঁর, রাজার কুমার ৷  
 ‘রামদাস’ আদি পাঠান — চাকর তাঁহার ॥ ২০৮ ॥
 
 alpa vayasa tāṅra, rājāra kumāra  
-‘rāmadāsa’ ādi pāṭhāna — cākara tāṅhāra
+little  age  his  of a king  the son  
+‘rāmadāsa’ ādi pāṭhāna — cākara tāṅhāra  
+Rāmadāsa  and others  Paṭhāns  servants  his
 
-(208) [not yet translated]
+(208) He was young, the son of a king, and Rāmadāsa and the other Paṭhāns were his servants.
 
 ‘কৃষ্ণ’ বলি’ পড়ে সেই মহাপ্রভুর পায় ৷  
 প্রভু শ্রীচরণ দিল তাঁহার মাথায় ॥ ২০৯ ॥
 
 ‘kṛṣṇa’ bali’ paḍe sei mahāprabhura pāya  
-prabhu śrī-caraṇa dila tāṅhāra māthāya
+Kṛṣṇa  saying  falls  he  Mahāprabhu’s  at the feet  
+prabhu śrī-caraṇa dila tāṅhāra māthāya  
+the Lord  holy foot  placed  his  on the head
 
-(209) [not yet translated]
+(209) Saying “Kṛṣṇa,” he fell at Mahāprabhu’s feet, and the Lord placed His holy foot on his head.
 
 তাঁ-সবারে কৃপা করি’ প্রভু ত’ চলিলা ৷  
 সেই ত’ পাঠান সব ‘বৈরাগী’ হইলা ॥ ২১০ ॥
 
 tāṅ-sabāre kṛpā kari’ prabhu ta’ calilā  
-sei ta’ pāṭhāna saba ‘vairāgī’ hailā
+to them all  mercy  showing  the Lord  then  went on  
+sei ta’ pāṭhāna saba ‘vairāgī’ hailā  
+those  very  Paṭhāns  all  renunciants  became
 
-(210) [not yet translated]
+(210) Having shown mercy to them all, the Lord went on His way, and those Paṭhāns all became renunciants.
 
 ‘পাঠান-বৈষ্ণব’ বলি’ হৈল তাঁর খ্যাতি ৷  
 সর্ব্বত্র গাহিয়া বুলে মহাপ্রভুর কীর্ত্তি ॥ ২১১ ॥
 
 ‘pāṭhāna-vaiṣṇava’ bali’ haila tāṅra khyāti  
-sarvatra gāhiyā bule mahāprabhura kīrti
+Paṭhān Vaiṣṇavas  called  became  their  fame  
+sarvatra gāhiyā bule mahāprabhura kīrti  
+everywhere  singing  wander  Mahāprabhu’s  glory
 
-(211) [not yet translated]
+(211) They became famous as the ‘Paṭhān Vaiṣṇavas,’ and they wandered everywhere singing the glories of Mahāprabhu.
 
 সেই বিজলী-খাঁন হৈল ‘মহাভাগবত’ ৷  
 সর্ব্বতীর্থে হৈল তাঁর পরম-মহত্ত্ব ॥ ২১২ ॥
 
 sei vijalī-khāṅna haila ‘mahā-bhāgavata’  
-sarva-tīrthe haila tāṅra parama-mahattva
+that  Bijalī Khān  became  a mahā-bhāgavata  
+sarva-tīrthe haila tāṅra parama-mahattva  
+at all holy places  became  his  supreme greatness
 
-(212) [not yet translated]
+(212) That Bijalī Khān became a mahā-bhāgavata, and his greatness was renowned at every holy place.
 
 ঐছে লীলা করে প্রভু শ্রীকৃষ্ণচৈতন্য ৷  
 ‘পশ্চিমে’ আসিয়া কৈল যবনাদি ধন্য ॥ ২১৩ ॥
 
 aiche līlā kare prabhu śrī-kṛṣṇa-caitanya  
-‘paścime’ āsiyā kaila yavanādi dhanya
+such  pastimes  performs  the Lord  Śrī Kṛṣṇa Caitanya  
+‘paścime’ āsiyā kaila yavanādi dhanya  
+to the West  coming  made  the yavanas and others  blessed
 
-(213) [not yet translated]
+(213) Such are the pastimes of the Lord Śrī Kṛṣṇa Caitanya. Coming to the West, He blessed the yavanas and others.
 
 সোরোক্ষেত্রে আসি’ প্রভু কৈলা গঙ্গাস্নান ৷  
 গঙ্গাতীর-পথে কৈলা প্রয়াগে পয়ান ॥ ২১৪ ॥
 
 soro-kṣetre āsi’ prabhu kailā gaṅgā-snāna  
-gaṅgā-tīra-pathe kailā prayāge payāna
+to Soro-kṣetra  coming  the Lord  took  bath in the Ganges  
+gaṅgā-tīra-pathe kailā prayāge payāna  
+along the Ganges’ bank  by the road  made  to Prayāga  the journey
 
-(214) [not yet translated]
+(214) Coming to Soro-kṣetra, the Lord bathed in the Ganges, and then He set out for Prayāga by the road along the Ganges.
 
 সেই বিপ্রে, কৃষ্ণদাসে, প্রভু বিদায় দিলা ৷  
 যোড়-হাতে দুইজন কহিতে লাগিলা ॥ ২১৫ ॥
 
 sei vipre, kṛṣṇadāse, prabhu vidāya dilā  
-yoḍa-hāte dui-jana kahite lāgilā
+to that  brāhmaṇa  to Kṛṣṇadāsa  the Lord  farewell  gave  
+yoḍa-hāte dui-jana kahite lāgilā  
+with folded hands  the two  to speak  began
 
-(215) [not yet translated]
+(215) There the Lord bade farewell to that brāhmaṇa and to Kṛṣṇadāsa, but the two folded their hands and said:
 
 প্রয়াগ-পর্য্যন্ত দুঁহে তোমা সঙ্গে যাব ৷  
 তোমার চরণ-সঙ্গ পুনঃ কাঁহা পাব ? ॥ ২১৬ ॥
 
 prayāga-paryanta duṅhe tomā saṅge yāba  
-tomāra caraṇa-saṅga punaḥ kāṅhā pāba?
+as far as Prayāga  we two  You  with  will go  
+tomāra caraṇa-saṅga punaḥ kāṅhā pāba?  
+Your  feet’s  company  again  where  shall we get
 
-(216) [not yet translated]
+(216) “We two will go with You as far as Prayāga. Where shall we ever again find the company of Your feet?
 
 ম্লেচ্ছদেশ, কেহ কাঁহা করয়ে উৎপাত ৷  
 ভট্টাচার্য্য — পণ্ডিত, কহিতে না জানেন বাত্ ॥ ২১৭ ॥
 
 mleccha-deśa, keha kāṅhā karaye utpāta  
-bhaṭṭācārya — paṇḍita, kahite nā jānena bāt
+a land of mlecchas  someone  somewhere  may make  trouble  
+bhaṭṭācārya — paṇḍita, kahite nā jānena bāt  
+Bhaṭṭācārya  a scholar  to speak  not  knows  the talk
 
-(217) [not yet translated]
+(217) “This is a land of mlecchas, and someone somewhere may make trouble. Bhaṭṭācārya is a scholar; he does not know how to talk to them.”
 
 শুনি’ মহাপ্রভু ঈষৎ হাসিতে লাগিলা ৷  
 সেই দুইজন প্রভুর সঙ্গে চলি’ আইলা ॥ ২১৮ ॥
 
 śuni’ mahāprabhu īṣat hāsite lāgilā  
-sei dui-jana prabhura saṅge cali’ āilā
+hearing  Mahāprabhu  slightly  to smile  began  
+sei dui-jana prabhura saṅge cali’ āilā  
+those  two persons  the Lord’s  with  going  came
 
-(218) [not yet translated]
+(218) Hearing this, Mahāprabhu smiled slightly, and the two went on with the Lord.
 
 যেই যেই জন প্রভুর পাইল দরশন ৷  
 সেই প্রেমে মত্ত হয়, করে কৃষ্ণ-সংকীর্ত্তন ॥ ২১৯ ॥
 
 yei yei jana prabhura pāila daraśana  
-sei preme matta haya, kare kṛṣṇa-saṅkīrtana
+whoever  whoever  person  the Lord’s  got  sight  
+sei preme matta haya, kare kṛṣṇa-saṅkīrtana  
+he  with love  mad  becomes  does  Kṛṣṇa-saṅkīrtana
 
-(219) [not yet translated]
+(219) Whoever saw the Lord became mad with love and began the saṅkīrtana of Kṛṣṇa’s names.
 
 তাঁর সঙ্গে অন্যোন্যে তাঁর সঙ্গে আন ৷  
 এইমত ‘বৈষ্ণব’ কৈলা সব দেশ-গ্রাম ॥ ২২০ ॥
 
 tāṅra saṅge anyonye tāṅra saṅge āna  
-ei-mata ‘vaiṣṇava’ kailā saba deśa-grāma
+his  in company  others in turn  their  in company  others  
+ei-mata ‘vaiṣṇava’ kailā saba deśa-grāma  
+in this way  Vaiṣṇavas  made  all  lands  villages
 
-(220) [not yet translated]
+(220) Through their company others in turn, and through those others still more — in this way He made Vaiṣṇavas of all the lands and villages.
 
 ‘দক্ষিণ’ যাইতে যৈছে শক্তি প্রকাশিলা ৷  
 সেইমত ‘পশ্চিম দেশ’, প্রেমে ভাসাইলা ॥ ২২১ ॥
 
 ‘dakṣiṇa’ yāite yaiche śakti prakāśilā  
-sei-mata ‘paścima deśa’, preme bhāsāilā
+to the South  going  as  power  He displayed  
+sei-mata ‘paścima deśa’, preme bhāsāilā  
+likewise  the Western land  with love  He flooded
 
-(221) [not yet translated]
+(221) Just as He displayed His power when He went to the South, so too He flooded the West with love.
 
 এইমত চলি’ প্রভু ‘প্রয়াগ’ আইলা ৷  
 দশ-দিন ত্রিবেণীতে মকর-স্নান কৈলা ॥ ২২২ ॥
 
 ei-mata cali’ prabhu ‘prayāga’ āilā  
-daśa-dina triveṇīte makara-snāna kailā
+in this way  traveling  the Lord  to Prayāga  came  
+daśa-dina triveṇīte makara-snāna kailā  
+ten days  at Triveṇī  the Makara bath  took
 
-(222) [not yet translated]
+(222) Traveling in this way, the Lord came to Prayāga, and for ten days He took the Makara bath at Triveṇī.
 
 বৃন্দাবন-গমন, প্রভু-চরিত্র অনন্ত ৷  
 ‘সহস্র-বদন’ যাঁর নাহি পা’ন অন্ত ॥ ২২৩ ॥
 
 vṛndāvana-gamana, prabhu-caritra ananta  
-‘sahasra-vadana’ yāṅra nāhi pā’na anta
+Vṛndāvana-going  the Lord’s deeds  endless  
+‘sahasra-vadana’ yāṅra nāhi pā’na anta  
+the thousand-mouthed  of which  not  finds  the end
 
-(223) [not yet translated]
+(223) His journey to Vṛndāvana, the Lord’s deeds — they are endless; even the thousand-mouthed Śeṣa cannot reach their end.
 
 তাহা কে কহিতে পারে ক্ষুদ্র জীব হঞা ৷  
 ‘দিগ্-দরশন’ কৈলুঁ মুঞি সূত্র করিয়া ॥ ২২৪ ॥
 
 tāhā ke kahite pāre kṣudra jīva hañā  
-‘dig-daraśana’ kailuṅ muñi sūtra kariyā
+that  who  to tell  can  a tiny  jīva  being  
+‘dig-daraśana’ kailuṅ muñi sūtra kariyā  
+a glimpse  have given  I  a summary  making
 
-(224) [not yet translated]
+(224) Who, being a tiny jīva, could describe them? I have only given a glimpse, setting it down in brief.
 
 অলৌকিক-লীলা প্রভুর অলৌকিক-রীতি ৷  
 শুনিলেও ভাগ্যহীনের না হয় প্রতীতি ॥ ২২৫ ॥
 
 alaukika-līlā prabhura alaukika-rīti  
-śunileo bhāgya-hīnera nā haya pratīti
+extraordinary pastimes  the Lord’s  extraordinary ways  
+śunileo bhāgya-hīnera nā haya pratīti  
+even on hearing  of the unfortunate  not  is  faith
 
-(225) [not yet translated]
+(225) The Lord’s pastimes are extraordinary, and His ways are extraordinary; even hearing of them, the unfortunate do not believe.
 
 আদ্যোপান্ত চৈতন্যলীলা — ‘অলৌকিক’ জান ৷  
 শ্রদ্ধা করি’ শুন ইহা, ‘সত্য’ করি’ মান ॥ ২২৬ ॥
 
 ādyopānta caitanya-līlā — ‘alaukika’ jāna  
-śraddhā kari’ śuna ihā, ‘satya’ kari’ māna
+from beginning to end  Caitanya’s pastimes  extraordinary  know  
+śraddhā kari’ śuna ihā, ‘satya’ kari’ māna  
+faith  having  hear  this  true  taking  accept
 
-(226) [not yet translated]
+(226) Know that Caitanya’s pastimes are extraordinary from beginning to end. Hear them with faith and accept them as true.
 
 যেই তর্ক করে ইঁহা, সেই — ‘মূর্খরাজ’ ৷  
 আপনার মুণ্ডে সে আপনি পাড়ে বাজ ॥ ২২৭ ॥
 
 yei tarka kare iṅhā, sei — ‘mūrkha-rāja’  
-āpanāra muṇḍe se āpani pāḍe vāja
+who  argument  makes  about this  he  a king of fools  
+āpanāra muṇḍe se āpani pāḍe vāja  
+his own  on the head  he  himself  brings down  a thunderbolt
 
-(227) [not yet translated]
+(227) Whoever argues about this is a ‘king of fools’; he brings a thunderbolt down on his own head.
 
 চৈতন্য-চরিত্র এই — ‘অমৃতের সিন্ধু’ ৷  
 জগৎ আনন্দে ভাসায় যার একবিন্দু ॥ ২২৮ ॥
 
 caitanya-caritra ei — ‘amṛtera sindhu’  
-jagat ānande bhāsāya yāra eka-bindu
+Caitanya’s  deeds  these  of nectar  an ocean  
+jagat ānande bhāsāya yāra eka-bindu  
+the world  in bliss  floods  of which  one drop
 
-(228) [not yet translated]
+(228) These deeds of Caitanya are an ‘ocean of nectar’; a single drop of it floods the world with bliss.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২২৯ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(229) [not yet translated]
+(229) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
@@ -2086,3 +2246,5 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^8]: The same verse as Ādi 4.215 and Madhya 8.98; translation as there.
 
 [^34]: According to the *Anubhāṣya*, the gopīs sing this verse: wandering in longing for Kṛṣṇa, they see before them Govardhana, the king of mountains, nondifferent from Vrajendranandana.
+
+[^65]: The same verse as Madhya 8.218; translation as there.
