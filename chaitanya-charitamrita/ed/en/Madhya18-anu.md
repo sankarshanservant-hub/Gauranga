@@ -856,4 +856,4 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 [^111-113-1]: So in the edition: the section is numbered “111–113,” but it opens by explaining the word *jaṅgama-nārāyaṇa* from verse 109.
 
-[^114-1]: *Bhakti-rasāmṛta-sindhu* 1.1.18.
+[^114-1]: The edition does not give the source; this is *Bhakti-rasāmṛta-sindhu* 1.1.18.
