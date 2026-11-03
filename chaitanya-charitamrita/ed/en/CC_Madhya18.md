@@ -692,201 +692,251 @@ by fine stones and such  whirls  the mind  of whom You are the life  our
 যমুনা পার হঞা ‘ভদ্র-বন’ গেলা ॥ ৬৬ ॥
 
 tabe ‘khelā-tīrtha’ dekhi’ ‘bhāṇḍīravana’ āilā  
-yamunā pāra hañā ‘bhadra-vana’ gelā
+then  Khelā-tīrtha  seeing  to Bhāṇḍīravana  He came  
+yamunā pāra hañā ‘bhadra-vana’ gelā  
+the Yamunā  across  going  to Bhadravana  He went
 
-(66) [not yet translated]
+(66) Then, after seeing Khelā-tīrtha, He came to Bhāṇḍīravana, and crossing the Yamunā He went to Bhadravana.
 
 ‘শ্রীবন’ দেখি’ পুনঃ গেলা ‘লোহ-বন’ ৷  
 ‘মহাবন’ গিয়া কৈলা জন্মস্থান-দরশন ॥ ৬৭ ॥
 
 ‘śrīvana’ dekhi’ punaḥ gelā ‘loha-vana’  
-‘mahāvana’ giyā kailā janma-sthāna-daraśana
+Śrīvana  seeing  again  He went  to Lohavana  
+‘mahāvana’ giyā kailā janma-sthāna-daraśana  
+to Mahāvana  going  He had  darśana of the birthplace
 
-(67) [not yet translated]
+(67) After seeing Śrīvana He went on to Lohavana, and going to Mahāvana He saw the place of Kṛṣṇa’s birth.
 
 যমলার্জ্জুনভঙ্গাদি দেখিল সেই ‘স্থল’ ৷  
 প্রেমাবেশে প্রভুর মন হৈল টলমল ॥ ৬৮ ॥
 
 yamalārjuna-bhaṅgādi dekhila sei ‘sthala’  
-premāveśe prabhura mana haila ṭalamala
+the breaking of the Yamala-arjuna trees and so on  He saw  those  places  
+premāveśe prabhura mana haila ṭalamala  
+in the rapture of love  the Lord’s  mind  became  agitated
 
-(68) [not yet translated]
+(68) He saw the places where the twin Arjuna trees were broken and where other pastimes took place, and in the rapture of love the Lord’s mind was deeply stirred.
 
 ‘গোকুল’ দেখিয়া আইলা ‘মথুরা’-নগরে ৷  
 ‘জন্মস্থান’ দেখি’ রহে সেই বিপ্র-ঘরে ॥ ৬৯ ॥
 
 ‘gokula’ dekhiyā āilā ‘mathurā’-nagare  
-‘janma-sthāna’ dekhi’ rahe sei vipra-ghare
+Gokula  seeing  He came  to the city of Mathurā  
+‘janma-sthāna’ dekhi’ rahe sei vipra-ghare  
+the birthplace  seeing  He stays  that  in the brāhmaṇa’s house
 
-(69) [not yet translated]
+(69) After seeing Gokula, He came to the city of Mathurā. He saw the place of Kṛṣṇa’s birth and stayed in the house of that same brāhmaṇa.
 
 লোকের সংঘট্ট দেখি’ মথুরা ছাড়িয়া ৷  
 একান্তে ‘অক্রূর-তীর্থে’ রহিলা আসিয়া ॥ ৭০ ॥
 
 lokera saṅghaṭṭa dekhi’ mathurā chāḍiyā  
-ekānte ‘akrūra-tīrthe’ rahilā āsiyā
+of people  the crowds  seeing  Mathurā  leaving  
+ekānte ‘akrūra-tīrthe’ rahilā āsiyā  
+in solitude  at Akrūra-tīrtha  He stayed  coming
 
-(70) [not yet translated]
+(70) Seeing the crowds of people, He left Mathurā and came to stay in solitude at Akrūra-tīrtha.
 
 আর দিন আইলা প্রভু দেখিতে ‘বৃন্দাবনে’ ৷  
 ‘কালীয়-হ্রদে’ স্নান কৈলা আর ‘প্রস্কন্দনে’ ॥ ৭১ ॥
 
 āra dina āilā prabhu dekhite ‘vṛndāvane’  
-‘kālīya-hrade’ snāna kailā āra ‘praskandane’
+the next  day  came  the Lord  to see  Vṛndāvana  
+‘kālīya-hrade’ snāna kailā āra ‘praskandane’  
+in Kālīya-hrada  bath  He took  and  in Praskandana
 
-(71) [not yet translated]
+(71) The next day the Lord came to see Vṛndāvana, and He bathed in Kālīya-hrada and in Praskandana.
 
 ‘দ্বাদশ-আদিত্য’ হৈতে ‘কেশীতীর্থে’ আইলা ৷  
 ‘রাসস্থলী’ দেখি’ প্রেমে মূর্চ্ছিত হইলা ॥ ৭২ ॥
 
 ‘dvādaśa-āditya’ haite ‘keśī-tīrthe’ āilā  
-‘rāsa-sthalī’ dekhi’ preme mūrcchita hailā
+from Dvādaśāditya  to Keśī-tīrtha  He came  
+‘rāsa-sthalī’ dekhi’ preme mūrcchita hailā  
+the place of the rāsa  seeing  with love  unconscious  He became
 
-(72) [not yet translated]
+(72) From Dvādaśāditya He came to Keśī-tīrtha, and on seeing the place of the rāsa dance He fainted with love.
 
 চেতনা পাঞা পুনঃ গড়াগড়ি যায় ৷  
 হাসে, কান্দে, নাচে, পড়ে, উচ্চৈঃস্বরে গায় ॥ ৭৩ ॥
 
 cetanā pāñā punaḥ gaḍāgaḍi yāya  
-hāse, kānde, nāce, paḍe, uccaiḥ-svare gāya
+consciousness  regaining  again  He rolls on the ground  
+hāse, kānde, nāce, paḍe, uccaiḥ-svare gāya  
+He laughs  weeps  dances  falls  in a loud voice  sings
 
-(73) [not yet translated]
+(73) Regaining consciousness, He rolled on the ground again; He laughed, wept, danced, fell down and sang at the top of His voice.
 
 এইরঙ্গে সেইদিন তথা গোঙাইলা ৷  
 সন্ধ্যাকালে ‘অক্রূরে’ আসি’ ভিক্ষা নির্ব্বাহিলা ॥ ৭৪ ॥
 
 ei-raṅge sei-dina tathā goṅāilā  
-sandhyā-kāle ‘akrūre’ āsi’ bhikṣā nirvāhilā
+in this joy  that day  there  He spent  
+sandhyā-kāle ‘akrūre’ āsi’ bhikṣā nirvāhilā  
+in the evening  to Akrūra  coming  meal  He took
 
-(74) [not yet translated]
+(74) He spent that day there in this joy, and in the evening He returned to Akrūra and took His meal.
 
 প্রাতে বৃন্দাবনে কৈলা ‘চীরঘাটে’ স্নান ৷  
 ‘তেঁতুল-তলা’তে আসি’ করিলা বিশ্রাম ॥ ৭৫ ॥
 
 prāte vṛndāvane kailā ‘cīra-ghāṭe’ snāna  
-‘teṅtula-talā’te āsi’ karilā viśrāma
+in the morning  in Vṛndāvana  He took  at Cīra-ghāṭa  bath  
+‘teṅtula-talā’te āsi’ karilā viśrāma  
+to Tẽtula-talā  coming  He took  rest
 
-(75) [not yet translated]
+(75) In the morning He bathed at Cīra-ghāṭa in Vṛndāvana, and then He came to Tẽtula-talā and rested there.
 
 কৃষ্ণলীলা-কালের সেই বৃক্ষ পুরাতন ৷  
 তার তলে পিঁড়ি-বান্ধা পরম-চিক্কণ ॥ ৭৬ ॥
 
 kṛṣṇa-līlā-kālera sei vṛkṣa purātana  
-tāra tale piṅḍi-bāndhā parama-cikkaṇa
+of the time of Kṛṣṇa’s pastimes  that  tree  ancient  
+tāra tale piṅḍi-bāndhā parama-cikkaṇa  
+its  beneath  a built-up seat  very smooth
 
-(76) [not yet translated]
+(76) That ancient tree dates from the time of Kṛṣṇa’s pastimes, and beneath it is a raised platform, beautifully smooth.
 
 নিকটে যমুনা বহে শীতল সমীর ৷  
 বৃন্দাবন-শোভা দেখি’ যমুনার নীর ॥ ৭৭ ॥
 
 nikaṭe yamunā vahe śītala samīra  
-vṛndāvana-śobhā dekhi’ yamunāra nīra
+nearby  the Yamunā  flows  cool  breeze  
+vṛndāvana-śobhā dekhi’ yamunāra nīra  
+the beauty of Vṛndāvana  seeing  of the Yamunā  water
 
-(77) [not yet translated]
+(77) The Yamunā flows nearby, and a cool breeze blows. He gazed at the beauty of Vṛndāvana and at the waters of the Yamunā.
 
 তেঁতুল-তলে বসি’ করেন নাম-সংকীর্ত্তন ৷  
 মধ্যাহ্ন করি’ আসি’ করে ‘অক্রূরে’ ভোজন ॥ ৭৮ ॥
 
 teṅtula-tale vasi’ karena nāma-saṁkīrtana  
-madhyāhna kari’ āsi’ kare ‘akrūre’ bhojana
+beneath the tamarind  sitting  He performs  saṅkīrtana of the name  
+madhyāhna kari’ āsi’ kare ‘akrūre’ bhojana  
+midday duties  doing  coming  He takes  at Akrūra  meal
 
-(78) [not yet translated]
+(78) Sitting beneath the tamarind tree, He performed saṅkīrtana of the holy name, and after His midday duties He would return to Akrūra for His meal.
 
 ‘অক্রূরে’র লোক আইসে প্রভুরে দেখিতে ৷  
 লোক-ভিড়ে স্বচ্ছন্দে নারে ‘কীর্ত্তন’ করিতে ॥ ৭৯ ॥
 
 ‘akrūre’ra loka āise prabhure dekhite  
-loka-bhiḍe svacchande nāre ‘kīrtana’ karite
+of Akrūra  the people  come  the Lord  to see  
+loka-bhiḍe svacchande nāre ‘kīrtana’ karite  
+in the crowd  freely  He cannot  kīrtana  perform
 
-(79) [not yet translated]
+(79) The people of Akrūra would come to see the Lord, and in the crowd He could not perform kīrtana freely.
 
 বৃন্দাবনে আসি’ প্রভু বসিয়া একান্ত ৷  
 নামসংকীর্ত্তন করে মধ্যাহ্ন-পর্য্যন্ত ॥ ৮০ ॥
 
 vṛndāvane āsi’ prabhu vasiyā ekānta  
-nāma-saṁkīrtana kare madhyāhna-paryanta
+to Vṛndāvana  coming  the Lord  sitting  in solitude  
+nāma-saṁkīrtana kare madhyāhna-paryanta  
+saṅkīrtana of the name  He performs  until midday
 
-(80) [not yet translated]
+(80) So the Lord would come to Vṛndāvana, sit in solitude and perform saṅkīrtana of the holy name until midday.
 
 তৃতীয় প্রহরে লোক পায় দরশন ৷  
 সবারে উপদেশ করে ‘নামসংকীর্ত্তন’ ॥ ৮১ ॥
 
 tṛtīya prahare loka pāya daraśana  
-sabāre upadeśa kare ‘nāma-saṁkīrtana’
+in the third  watch of the day  the people  get  darśana  
+sabāre upadeśa kare ‘nāma-saṁkīrtana’  
+to everyone  instruction  He gives  saṅkīrtana of the name
 
-(81) [not yet translated]
+(81) In the third watch of the day people would have His darśana, and He taught everyone the saṅkīrtana of the holy name.
 
 হেনকালে আইল বৈষ্ণব ‘কৃষ্ণদাস’ নাম ৷  
 রাজপুত-জাতি, গৃহস্থ, যমুনা-পারে গ্রাম ॥ ৮২ ॥
 
 hena-kāle āila vaiṣṇava ‘kṛṣṇadāsa’ nāma  
-rājaputa-jāti, gṛhastha, yamunā-pāre grāma
+at that time  came  a Vaiṣṇava  Kṛṣṇadāsa  by name  
+rājaputa-jāti, gṛhastha, yamunā-pāre grāma  
+a Rajput by birth  a householder  across the Yamunā  village
 
-(82) [not yet translated]
+(82) At that time a Vaiṣṇava named Kṛṣṇadāsa came. He was a Rajput by birth and a householder, and his village was across the Yamunā.
 
 ‘কেশী’ স্নান করি’ সেই ‘কালীয়দহ’ যাইতে ৷  
 আম্লিতলায় গোসাঞিরে দেখে আচম্বিতে ॥ ৮৩ ॥
 
 ‘keśī’ snāna kari’ sei ‘kālīya-daha’ yāite  
-āmli-talāya gosāñire dekhe ācambite
+at Keśī  bath  taking  he  to Kālīya-daha  going  
+āmli-talāya gosāñire dekhe ācambite  
+at Āmli-talā  the Lord  he sees  suddenly
 
-(83) [not yet translated]
+(83) After bathing at Keśī-tīrtha, he was on his way to Kālīya-daha when he suddenly saw the Lord at Āmli-talā.
 
 প্রভুর রূপ-প্রেম দেখি’ হইল চমৎকার ৷  
 প্রেমাবেশে প্রভুরে করেন নমস্কার ॥ ৮৪ ॥
 
 prabhura rūpa-prema dekhi’ haila camatkāra  
-premāveśe prabhure karena namaskāra
+the Lord’s  beauty and love  seeing  he became  amazed  
+premāveśe prabhure karena namaskāra  
+in the rapture of love  to the Lord  he offers  obeisance
 
-(84) [not yet translated]
+(84) Seeing the Lord’s beauty and love, he was amazed, and in the rapture of love he bowed down to the Lord.
 
 প্রভু কহে, — কে তুমি, কাঁহা তোমার ঘর ?  
 কৃষ্ণদাস কহে, — মুঞি, গৃহস্থ পামর ॥ ৮৫ ॥
 
 prabhu kahe, — ke tumi, kāṅhā tomāra ghara?  
-kṛṣṇadāsa kahe, — muñi, gṛhastha pāmara
+the Lord  says  —  who  you  where  your  home  
+kṛṣṇadāsa kahe, — muñi, gṛhastha pāmara  
+Kṛṣṇadāsa  says  —  I  a householder  wretched
 
-(85) [not yet translated]
+(85) The Lord asked, “Who are you? Where is your home?” Kṛṣṇadāsa said, “I am a wretched householder.
 
 রাজপুত-জাতি মুঞি, ও-পারে মোর ঘর ৷  
 মোর ইচ্ছা হয়, — ‘হঙ বৈষ্ণব-কিঙ্কর’ ॥ ৮৬ ॥
 
 rājaputa-jāti muñi, o-pāre mora ghara  
-mora icchā haya, — ‘haṅa vaiṣṇava-kiṅkara’
+a Rajput by birth  I  on the other bank  my  home  
+mora icchā haya, — ‘haṅa vaiṣṇava-kiṅkara’  
+my  desire  is  —  may I become  a servant of the Vaiṣṇavas
 
-(86) [not yet translated]
+(86) I am a Rajput by birth, and my home is on the other bank. My desire is to become a servant of the Vaiṣṇavas.
 
 কিন্তু আজি এক মুঞি ‘স্বপ্ন’ দেখিনু ৷  
 সেই স্বপ্ন পরতেক তোমা আসি’ পাইনু ॥ ৮৭ ॥
 
 kintu āji eka muñi ‘svapna’ dekhinu  
-sei svapna parateka tomā āsi’ pāinu
+but  today  one  I  dream  saw  
+sei svapna parateka tomā āsi’ pāinu  
+that  dream  before my eyes  You  coming  I have found
 
-(87) [not yet translated]
+(87) Today I had a dream, and now, coming here, I have found You: the dream has come true before my eyes.”
 
 প্রভু তাঁরে কৃপা কৈলা আলিঙ্গন করি’ ৷  
 প্রেমে মত্ত হৈল, সেই নাচে, বলে ‘হরি’ ॥ ৮৮ ॥
 
 prabhu tāṅre kṛpā kailā āliṅgana kari’  
-preme matta haila, sei nāce, bale ‘hari’
+the Lord  to him  mercy  showed  embrace  giving  
+preme matta haila, sei nāce, bale ‘hari’  
+with love  intoxicated  he became  he  dances  says  Hari
 
-(88) [not yet translated]
+(88) The Lord showed him mercy and embraced him. Kṛṣṇadāsa became intoxicated with love; he danced and cried, “Hari!”
 
 প্রভু-সঙ্গে মধ্যাহ্নে অক্রূর তীর্থে আইলা ৷  
 প্রভুর অবশিষ্টপাত্র-প্রসাদ পাইলা ॥ ৮৯ ॥
 
 prabhu-saṅge madhyāhne akrūra tīrthe āilā  
-prabhura avaśiṣṭa-pātra-prasāda pāilā
+with the Lord  at midday  to Akrūra  tīrtha  he came  
+prabhura avaśiṣṭa-pātra-prasāda pāilā  
+the Lord’s  remnants on the plate  prasāda  he received
 
-(89) [not yet translated]
+(89) At midday he came with the Lord to Akrūra-tīrtha and received the prasāda left on the Lord’s plate.
 
 প্রাতে প্রভু-সঙ্গে আইলা জলপাত্র লঞা ৷  
 প্রভু-সঙ্গে রহে গৃহ-স্ত্রী-পুত্র ছাড়িয়া ॥ ৯০ ॥
 
 prāte prabhu-saṅge āilā jala-pātra lañā  
-prabhu-saṅge rahe gṛha-strī-putra chāḍiyā
+in the morning  with the Lord  he came  the waterpot  carrying  
+prabhu-saṅge rahe gṛha-strī-putra chāḍiyā  
+with the Lord  he stays  home, wife and son  leaving
 
-(90) [not yet translated]
+(90) The next morning he came with the Lord, carrying His waterpot. Leaving home, wife and son, he stayed with the Lord.
 
 বৃন্দাবনে পুনঃ ‘কৃষ্ণ’ প্রকট হইল ৷  
 যাঁহা তাঁহা লোক সব কহিতে লাগিল ॥ ৯১ ॥
