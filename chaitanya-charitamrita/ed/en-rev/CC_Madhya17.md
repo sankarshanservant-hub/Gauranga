@@ -1246,7 +1246,7 @@ of the Lord  by the sight  pure  had become  his  mind
 prabhu-āge duḥkhī hañā kahe vivaraṇa  
 before the Lord  sorrowful  being  tells  the account
 
-(123) His mind had been purified by seeing the Lord. Sorrowfully he came before the Lord and told Him everything.
+(123) His mind had been purified by seeing the Lord. Sorrowfully he came before Him and told Him everything.
 
 শুনি’ মহাপ্রভু তবে ঈষৎ হাসিলা ৷  
 পুনরপি সেই বিপ্র প্রভুরে পুছিলা ॥ ১২৪ ॥
@@ -1286,7 +1286,7 @@ in three times  the name of Kṛṣṇa  not  came  his  to the mouth
 ‘avajñā’te nāma laya, śuni’ pāi duḥkhe  
 with contempt  the name  he takes  hearing  I feel  pain
 
-(127) “But in all three times the name of Kṛṣṇa never came to his lips. He takes Your name with contempt, and hearing it pains me.[^26]
+(127) “But not once in those three times did the name of Kṛṣṇa come to his lips. He takes Your name with contempt, and hearing it pains me.[^26]
 
 ইহার কারণ মোরে কহ কৃপা করি’ ৷  
 তোমা দেখি’ মুখ মোর বলে ‘কৃষ্ণ’ ‘হরি’ ॥” ॥ ১২৮ ॥
@@ -2050,7 +2050,7 @@ the Lord  seeing  of Vṛndāvana  the trees and creepers
 aṅkura-pulaka, madhu-aśru variṣaṇe  
 sprouts  as hair standing on end  honey  as tears  shower
 
-(200) Seeing the Lord, the trees and creepers of Vṛndāvana put forth sprouts like hair standing on end in ecstasy, and they rained honey like tears.
+(200) At the sight of the Lord, the trees and creepers of Vṛndāvana put forth sprouts like hair standing on end in ecstasy, and they rained honey like tears.
 
 ফুল-ফল ভরি’ ডাল পড়ে প্রভু-পায় ৷  
 বন্ধু দেখি’ বন্ধু যেন ‘ভেট’ লঞা যায় ॥ ২০১ ॥
@@ -2070,7 +2070,7 @@ the Lord  seeing  of Vṛndāvana  the unmoving and moving beings
 ānandita, bandhu yena dekhe bandhu-gaṇa  
 are joyful  a friend  as if  sees  friends
 
-(202) Seeing the Lord, all the moving and unmoving beings of Vṛndāvana rejoiced, as a friend rejoices on seeing his friends.
+(202) All the moving and unmoving beings of Vṛndāvana rejoiced to see the Lord, as a friend rejoices on seeing his friends.
 
 তা-সবার প্রীতি দেখি’ প্রভু ভাবাবেশে ৷  
 সবা-সনে ক্রীড়া করে হঞা তার বশে ॥ ২০৩ ॥
@@ -2080,7 +2080,7 @@ of them all  the love  seeing  the Lord  in rapture
 sabā-sane krīḍā kare hañā tāra vaśe  
 with all  play  does  becoming  their  subject to
 
-(203) Seeing the love of all of them, the Lord, rapt in ecstasy, played with them all, as if He were in their power.
+(203) Witnessing their affection, the Lord, rapt in ecstasy, played with them all and gave Himself into their power.
 
 প্রতি বৃক্ষ-লতা প্রভু করেন আলিঙ্গন ৷  
 পুষ্পাদি ধ্যানে করেন কৃষ্ণে সমর্পণ ॥ ২০৪ ॥
@@ -2166,7 +2166,7 @@ from the parrot’s mouth  hearing  then  of Kṛṣṇa  the description
 śārikā paḍaye tabe rādhikā-varṇana  
 the female parrot  recites  then  of Rādhikā  a description
 
-(211) Having heard the description of Kṛṣṇa from the mouth of the male parrot, the female parrot then recited a description of Rādhikā:
+(211) When she had heard the male parrot describe Kṛṣṇa, the female parrot recited a description of Rādhikā:
 
 শ্রীরাধিকায়াঃ প্রিয়তা স্বরূপতা  
 সুশীলতা নর্ত্তনগানচাতুরী ৷  
@@ -2250,7 +2250,7 @@ of the peacocks  the necks  seeing  in the Lord  of Kṛṣṇa’s luster  the 
 premāveśe mahāprabhu bhūmite paḍila  
 in the rapture of love  Mahāprabhu  to the ground  fell
 
-(218) Seeing the necks of the peacocks, the Lord remembered the luster of Kṛṣṇa’s body, and Mahāprabhu fell to the ground in the rapture of love.
+(218) Seeing the necks of the peacocks, the Lord remembered the lustre of Kṛṣṇa’s body, and Mahāprabhu fell to the ground in the rapture of love.
 
 প্রভুরে মূর্চ্ছিত দেখি’ সেই ত’ ব্রাহ্মণ ৷  
 ভট্টাচার্য্য-সঙ্গে করে প্রভুর সন্তর্পণ ॥ ২১৯ ॥
@@ -2260,7 +2260,7 @@ the Lord  unconscious  seeing  that  very  brāhmaṇa
 bhaṭṭācārya-saṅge kare prabhura santarpaṇa  
 with the Bhaṭṭācārya  does  the Lord’s  reviving
 
-(219) Seeing the Lord unconscious, the brāhmaṇa and the Bhaṭṭācārya tended Him to revive Him.
+(219) Seeing the Lord unconscious, the brāhmaṇa and the Bhaṭṭācārya tried to revive Him.
 
 আস্তে-ব্যস্তে মহাপ্রভুর লঞা বহির্ব্বাস ৷  
 জলসেক করে অঙ্গে, বস্ত্রের বাতাস ॥ ২২০ ॥
@@ -2300,7 +2300,7 @@ absorbed in Kṛṣṇa  the Lord’s  with love  overwhelmed  mind
 ‘bol’ ‘bol’ kari’ uṭhi’ karena nartana  
 say  say  crying  rising  He does  dancing
 
-(223) Absorbed in Kṛṣṇa, the Lord’s mind was overwhelmed with love. Crying “Say it! Say it!” He got up and began to dance.
+(223) In His absorption in Kṛṣṇa the Lord’s mind was overwhelmed with love. Crying “Say it! Say it!” He got up and began to dance.
 
 ভট্টাচার্য্য, সেই বিপ্র কৃষ্ণনাম গায় ৷  
 নাচিতে নাচিতে পথে প্রভু চলি’ যায় ॥ ২২৪ ॥
