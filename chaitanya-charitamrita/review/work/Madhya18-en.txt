@@ -1,0 +1,611 @@
+# English translation, Madhya-līlā 18 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya18.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–114 (scan pp. 644–654); shift 2: 115–229.
+
+## 0
+tr: Beholding Śrī Vṛndāvana
+
+## 1
+w: in Vṛndāvana  the nonmoving and moving beings
+w: delighting  with His glances
+w: Himself  and  by the sight of them
+w: Gaurāṅga  all around  wandered
+tr: Delighting the moving and nonmoving beings of Vṛndāvana with His glances, and delighting Himself by the sight of them, Gaurāṅga wandered all around.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 4.2 (the refrain of Ādi 4.2 with *gauracandra* in the first line); translation as there.
+
+## 3
+w: in this way  Mahāprabhu  dancing  dancing
+w: at Āriṭ-grāma  arriving  outer consciousness  came  suddenly
+tr: Dancing and dancing in this way, Mahāprabhu came to Āriṭ-grāma, and there His outer awareness suddenly returned.
+
+## 4
+w: in Ariṣṭa  of Rādhā-kuṇḍa  news  He asks  of the people
+w: anyone  not  tells  accompanying  brāhmaṇa  not  knows
+tr: In Ariṣṭa He asked the people about Rādhā-kuṇḍa, but no one could tell Him, and the brāhmaṇa with Him did not know either.
+
+## 5
+w: the holy place  lost  knowing  the Lord  all-knowing  Bhagavān
+w: in two  rice fields  in shallow water  He took  bath
+tr: The Lord, the all-knowing Bhagavān, knew that the holy place had been lost to sight, and He bathed in the shallow water of two rice fields.
+fn: *Amṛta-pravāha-bhāṣya*: in this way the Lord showed that these two rice fields are Rādhā-kuṇḍa and Śyāma-kuṇḍa. Edition heading: “Gaura, endowed with Rādhā’s sentiment and lustre, reveals the hidden Śrī Rādhā-kuṇḍa.”
+
+## 6
+w: seeing  all  of the village people  astonished  became  the mind
+w: with love  the Lord  makes  of Rādhā-kuṇḍa  praise
+tr: Seeing this, all the villagers were astonished. Then, full of love, the Lord praised Rādhā-kuṇḍa:
+
+## 7
+w: all  gopīs  than  Rādhā  Kṛṣṇa’s  beloved
+w: so too  Rādhā-kuṇḍa  —  dear  of the beloved  the lake
+tr: Of all the gopīs, Rādhā is Kṛṣṇa’s dearest. So too Rādhā-kuṇḍa is dear to Him: it is the lake of His beloved.
+
+## 8
+w: as  Rādhā  dear  to Viṣṇu
+w: Her  pond  dear  so
+w: among all gopīs  She alone
+w: of Viṣṇu  most  beloved
+tr: “As Rādhā is dear to Viṣṇu, so is Her pond dear to Him; among all the gopīs She alone is His most beloved.” (Padma Purāṇa; Laghu-bhāgavatāmṛta, Uttara-khaṇḍa, 45)
+fn: The same verse as Ādi 4.215 and Madhya 8.98; translation as there. The edition’s heading here: “the words of the *Padma Purāṇa*”.
+
+## 9
+w: in which  kuṇḍa  eternally  Kṛṣṇa  Rādhikā  with
+w: in the water  water sports  performs  on the bank  in the joy of the rāsa
+tr: In this kuṇḍa Kṛṣṇa eternally sports with Rādhikā in the water, and on its bank He delights in the rāsa dance.
+
+## 10
+w: in that  kuṇḍa  whoever  once  takes  bath
+w: to him  equal to Rādhā’s  love  Kṛṣṇa  makes  gift
+tr: To anyone who bathes in that kuṇḍa even once, Kṛṣṇa gives love like Rādhā’s own.
+
+## 11
+w: of the kuṇḍa  sweetness  —  as if  Rādhā’s  charm
+w: of the kuṇḍa  glory  —  as if  Rādhā’s  glory
+tr: The sweetness of the kuṇḍa is like Rādhā’s own charm, and the glory of the kuṇḍa is like Rādhā’s own glory.
+
+## 12
+w: like Śrī Rādhā  to Hari  Her  lake  dearest by wondrous  its own  qualities
+w: in which  the beautiful moon Mādhava  ceaselessly  with love  with Her  sports
+w: love for Him  ah  like Rādhikā  obtains  in which  once  one who bathes
+w: its  indeed  glory  and  sweetness  by whom  could be  described  on earth
+tr: “By its own wondrous qualities Her lake is as dear to Hari as Śrī Rādhā Herself. In it the beautiful moon Mādhava ceaselessly sports with Her in love, and whoever bathes in it even once gains love for Him like Rādhikā’s. Who on earth could describe its glory and its sweetness?” (Govinda-līlāmṛta, 7.102)
+
+## 13
+w: in this way  praises  He offers  absorbed in love  being
+w: on the bank  dance  He performs  the pastimes of the kuṇḍa  remembering
+tr: Absorbed in love, He offered these praises, and He danced on the bank, remembering the pastimes of the kuṇḍa.
+
+## 14
+w: of the kuṇḍa  clay  taking  tilaka  He made
+w: through the Bhaṭṭācārya  clay  with Him  making  He took
+tr: He took clay from the kuṇḍa and marked Himself with tilaka, and He had the Bhaṭṭācārya carry some of the clay along.
+
+## 15
+w: then  setting out  came  the Lord  to Sumanaḥ-sarovara
+w: there  Govardhana  seeing  the Lord  became  overwhelmed
+tr: Then the Lord went on to Sumanaḥ-sarovara. There He saw Govardhana and was overwhelmed.
+fn: *Amṛta-pravāha-bhāṣya*: Sumanaḥ-sarovara is the same as Kusuma-sarovara.
+
+## 16
+w: Govardhana  seeing  the Lord  became  prostrate like a rod
+w: one  rock  embracing  He became  mad
+tr: Seeing Govardhana, the Lord fell down like a rod in obeisance. He embraced a rock of Govardhana and became mad with love.
+
+## 17
+w: with love  intoxicated  setting out  He came  the village of Govardhana
+w: Harideva  seeing  there  He became  bowed down
+tr: Intoxicated with love, He went on to the village of Govardhana. There He saw Harideva and bowed down before Him.
+
+## 18
+w: of the lotus of Mathurā  on the western petal  whose  dwelling
+w: Harideva  Nārāyaṇa  —  the original manifestation
+tr: Harideva, who dwells on the western petal of the lotus of Mathurā, is Nārāyaṇa, the original manifestation.
+
+## 19
+w: before Harideva  He dances  with love  intoxicated  being
+w: all  the people  to see  came  the wonder  hearing
+tr: Intoxicated with love, He danced before Harideva, and all the people, hearing of the wonder, came to see.
+
+## 20
+w: the Lord’s  love  beauty  seeing  the people  amazed
+w: Harideva’s  servant  the Lord’s  did  honour
+tr: The people were amazed to see the Lord’s love and beauty, and the servant of Harideva received the Lord with honour.
+
+## 21
+w: the Bhaṭṭācārya  at Brahma-kuṇḍa  cooking  going  did
+w: in Brahma-kuṇḍa  bath  taking  the Lord  meal  took
+tr: The Bhaṭṭācārya went to Brahma-kuṇḍa and cooked there, and the Lord bathed in Brahma-kuṇḍa and took His meal.
+
+## 22
+w: that night  He stayed  of Harideva  in the temple
+w: at night  Mahāprabhu  makes  in His mind  deliberation
+tr: He spent that night in the temple of Harideva, and during the night Mahāprabhu reflected:
+
+## 23
+w: onto Govardhana  I  ever  not  shall climb
+w: of Gopāla-rāya  darśana  how  shall I get
+tr: “I shall never climb Govardhana. How, then, shall I have darśana of Gopāla-rāya?”
+
+## 24
+w: so  in mind  thinking  the Lord  silence  keeping  remained
+w: knowing (this)  Gopāla  the pretext of fear of the mlecchas  raised
+tr: Thinking this, the Lord kept silent. Gopāla knew His mind and raised a pretext: fear of the mlecchas.
+
+## 25
+w: not wishing to climb  the hill
+w: to Himself  who regarded Himself as a devotee
+w: coming down  from the hill  Kṛṣṇa
+w: to Gaura  Himself  showed
+tr: Gaura regarded Himself as a devotee and would not climb the hill; so Kṛṣṇa came down from the hill and showed Himself to Gaura — to His very own Self.
+fn: The author’s own verse (edition heading). *Svasmai* — “to Himself”. *Anubhāṣya*: Gaura is Kṛṣṇa’s own form; nondifferent from the One He worships, He regards Himself as His servant.
+
+## 26
+w: Annakūṭa  named  in the village  Gopāla’s  residence
+w: of Rajput people  in that  village  dwelling
+tr: Gopāla resided in the village called Annakūṭa, and the people of that village were Rajputs.
+
+## 27
+w: one  person  coming  at night  to the villagers  said
+w: your  village  to raid  the Turkish troops  have armed
+tr: One night a man came and told the villagers: “Turkish troops have armed themselves to raid your village.
+
+## 28
+w: today  at night  flee  not  remain  a single person
+w: the Deity  taking  run away  will come  tomorrow  the yavanas
+tr: Flee tonight, and let not a single person remain. Take the Deity and run, for the yavanas will come tomorrow.”
+
+## 29
+w: hearing  of the village  the people  anxious  became
+w: first  Gopāla  taking  in the village of Gāṭholi  they placed
+tr: Hearing this, the villagers grew anxious. First of all they took Gopāla and placed Him in the village of Gāṭholi.
+
+## 30
+w: in a brāhmaṇa’s house  Gopāla’s  in secret  service
+w: the village  deserted  became  fled  all the people
+tr: In a brāhmaṇa’s house Gopāla was served in secret. The village was deserted, for everyone had fled.
+
+## 31
+w: thus  from fear of the mlecchas  Gopāla  flees  again and again
+w: the temple  leaving  in a grove  He stays  or  in another village
+tr: In this way, for fear of the mlecchas, Gopāla flees again and again: He leaves His temple and stays in a grove or in another village.
+
+## 32
+w: in the morning  the Lord  in Mānasa-gaṅgā  taking  bath
+w: on the circumambulation of Govardhana  He made  departure
+tr: In the morning the Lord bathed in Mānasa-gaṅgā and set out to circle Govardhana.
+
+## 33
+w: Govardhana  seeing  the Lord  absorbed in love  becoming
+w: dancing  dancing  He went  a verse  reciting
+tr: Seeing Govardhana, the Lord was overcome with love, and He went on, dancing and dancing and reciting this verse:
+
+## 34
+w: ah  this  hill  O friends  best of Hari’s servants
+w: since  of Rāma and Kṛṣṇa  the feet  by the touch  rejoicing
+w: honour  offers  with Their herds of cows  to Them  because
+w: with water  fine grass  caves  bulbs  roots
+tr: “Ah, friends, this hill is the best of Hari’s servants! Thrilled by the touch of the feet of Rāma and Kṛṣṇa, it honours Them, together with Their cows and companions, with water to drink, fine grass, caves, and bulbs and roots.” (Śrīmad-Bhāgavatam, 10.21.18)
+fn: According to the *Anubhāṣya*, the gopīs sing this verse: wandering in longing for Kṛṣṇa, they see before them Govardhana, the king of mountains, nondifferent from Vrajendranandana.
+
+## 35
+w: at Govinda-kuṇḍa and other  holy places  the Lord  took  bath
+w: there  He heard  Gopāla  —  Gāṭholi  in the village
+tr: The Lord bathed at Govinda-kuṇḍa and other holy places, and there He heard that Gopāla was in the village of Gāṭholi.
+
+## 36
+w: to that  village  going  He had  darśana of Gopāla
+w: in the rapture of love  the Lord  performs  kīrtana and dance
+tr: He went to that village and had darśana of Gopāla, and in the rapture of love the Lord sang and danced.
+
+## 37
+w: of Gopāla  the beauty  seeing  the Lord’s  rapture
+w: this  verse  reciting  He dances  came  the end of the day
+tr: Seeing the beauty of Gopāla, the Lord was enraptured. Reciting this verse, He danced until the day was over:
+
+## 38
+w: the left  of the lotus-eyed Lord
+w: staff-like arm  that  may protect  you
+w: the state of a toy ball  by which
+w: was brought  Govardhana  hill
+tr: “May the left arm of the lotus-eyed Lord protect you — the arm with which He made Govardhana Hill a ball for His play.” (Bhakti-rasāmṛta-sindhu, Dakṣiṇa-vibhāga, Vibhāva-laharī, 26)
+fn: The reference follows the edition’s heading.
+
+## 39
+w: in this way  for three days  Gopāla  He beheld
+w: on the fourth day  Gopāla  to His own temple  went
+tr: In this way He beheld Gopāla for three days, and on the fourth day Gopāla went back to His own temple.
+
+## 40
+w: with Gopāla  going  He came  dancing and singing  doing
+w: in a joyful uproar  the people  say  Hari  Hari
+tr: He went along with Gopāla, dancing and singing, and in a joyful uproar the people cried, “Hari! Hari!”
+
+## 41
+w: Gopāla  to the temple  went  the Lord  remained  below
+w: the Lord’s  desires  fulfilled  all  made  Gopāla
+tr: Gopāla went to His temple, and the Lord remained below. Gopāla had fulfilled all the Lord’s desires.
+
+## 42
+w: in this way  Gopāla’s  compassionate  nature
+w: of those  devotees  to see  there is  longing
+tr: Such is Gopāla’s compassionate nature. The hearts of His devotees long for the sight of Him.
+
+## 43
+w: to see  eagerness  there is  not  they climb  Govardhana
+w: on some  pretext  Gopāla  coming  descends  Himself
+tr: Yearning for Him, they still will not climb Govardhana, and so, on some pretext, Gopāla Himself comes down to them.
+fn: Edition heading: “The merciful Gopāla, on some pretext, gives darśana to the devotees.”
+
+## 44
+w: sometimes  in a grove  He stays  sometimes  He stays  in another village
+w: whichever  devotee  there  coming  sees  Him
+tr: Sometimes He stays in a grove, sometimes in another village, and any devotee may come there and see Him.
+
+## 45
+w: on the hill  not  climb  the two  Rūpa and Sanātana
+w: in this way  to them  He has given  darśana
+tr: The two brothers, Rūpa and Sanātana, would not climb the hill, and in this way He gave them darśana.
+
+## 46
+w: in old age  Rūpa Gosāñi  not  could  go
+w: a desire  arose  of Gopāla  the beauty  to see
+tr: In his old age Rūpa Gosāñi could no longer go there, yet a desire arose in him to see the beauty of Gopāla.
+
+## 47
+w: from fear of the mlecchas  came  Gopāla  to the city of Mathurā
+w: one month  He stayed  in Viṭhṭhaleśvara’s house
+tr: For fear of the mlecchas Gopāla came to the city of Mathurā and stayed for a month in the house of Viṭhṭhaleśvara.
+fn: *Amṛta-pravāha-bhāṣya*: wishing to show mercy to Śrī Rūpa Gosvāmī as well, Gopāla again raised the same “pretext”, fear of the mlecchas. *Anubhāṣya*: Viṭhṭhaleśvara (Viṭhṭhalanātha) was the son of Vallabha Bhaṭṭa.
+
+## 48
+w: then  Rūpa  Gosāñi  all  his own associates  taking
+w: for one month  darśana  had  in Mathurā  staying
+tr: Then Rūpa Gosāñi took all his associates with him, stayed in Mathurā for a month and had darśana of Gopāla.
+
+## 49
+w: with him  Gopāla Bhaṭṭa  Raghunātha dāsa
+w: Raghunātha Bhaṭṭa Gosāñi  and  Lokanātha
+tr: With him were Gopāla Bhaṭṭa, Raghunātha dāsa, Raghunātha Bhaṭṭa Gosāñi and Lokanātha,
+
+## 50
+w: Bhūgarbha Gosāñi  and  Śrī Jīva Gosāñi
+w: Śrī Yādava Ācārya  and  Govinda Gosāñi
+tr: Bhūgarbha Gosāñi, Śrī Jīva Gosāñi, Śrī Yādava Ācārya, Govinda Gosāñi,
+
+## 51
+w: Śrī Uddhava dāsa  and  Mādhava  the two
+w: Śrī Gopāla dāsa  and  Nārāyaṇa dāsa
+tr: Śrī Uddhava dāsa and Mādhava, Śrī Gopāla dāsa and Nārāyaṇa dāsa,
+
+## 52
+w: Govinda  the devotee  and  Vāṇī Kṛṣṇadāsa
+w: Puṇḍarīkākṣa  Īśāna  and  Laghu Haridāsa
+tr: the devotee Govinda, Vāṇī Kṛṣṇadāsa, Puṇḍarīkākṣa, Īśāna and Laghu Haridāsa.
+fn: *Amṛta-pravāha-bhāṣya*: this Laghu Haridāsa is not the Choṭa Haridāsa of Mahāprabhu’s time, who left his body at Prayāga.
+
+## 53
+w: all these  chief devotees  taking  with himself
+w: of Śrī Gopāla  darśana  he had  with great joy
+tr: Taking all these chief devotees with him, he had darśana of Śrī Gopāla with great joy.
+
+## 54
+w: one month  staying  Gopāla  went  to His own place
+w: Śrī Rūpa Gosāñi  came  to Śrī Vṛndāvana
+tr: After staying for a month, Gopāla went back to His own place, and Śrī Rūpa Gosāñi returned to Śrī Vṛndāvana.
+
+## 55
+w: in passing  I have told  of Gopāla’s mercy  the story
+w: then  Mahāprabhu  went  to Śrī Kāmyavana
+tr: In passing I have told the story of Gopāla’s mercy. Then Mahāprabhu went to Śrī Kāmyavana.
+
+## 56
+w: the Lord’s  manner of travelling  before  which  I described
+w: in the same way  in Vṛndāvana  everything  He saw
+tr: In the manner of travelling that I described before, the Lord saw all the holy places of Vṛndāvana.
+
+## 57
+w: there  the places of the pastimes  seeing  He went  to Nandīśvara
+w: Nandīśvara  seeing  with love  He became  overwhelmed
+tr: After seeing the places of the pastimes there, He went to Nandīśvara, and on seeing Nandīśvara He was overwhelmed with love.
+
+## 58
+w: Pāvana and other  in all  kuṇḍas  bath  taking
+w: the people  He asked  onto the hill  going
+tr: He bathed in all the kuṇḍas, beginning with Pāvana, and then He went up the hill and asked the people:
+
+## 59
+w: any  Deities  are there  on the hill
+w: the people  say  —  Deities  there are  of a cave  inside
+tr: “Are there any Deities on the hill?” The people said, “There are Deities inside a cave.
+
+## 60
+w: on two sides  mother and father  sturdy  of body
+w: in the middle  one  child  is  beautiful in three bends
+tr: On either side are the mother and father, sturdy of build, and between them is a child, beautiful in His threefold bending form.”
+fn: *Anubhāṣya* (edition heading): in the cave dwell the Deities of Nanda, Yaśodā and Kṛṣṇa.
+
+## 61
+w: hearing  Mahāprabhu  in His mind  joy  feeling
+w: three  Deities  He saw  that  cave  opening
+tr: Mahāprabhu was delighted to hear this. He opened the cave and saw the three Deities.
+
+## 62
+w: of the King and Queen of Vraja  He did  of the feet  worship
+w: in the rapture of love  Kṛṣṇa’s  He did  touching of the whole body
+tr: He bowed to the feet of the King and Queen of Vraja, and in the rapture of love He touched Kṛṣṇa’s whole body.
+
+## 63
+w: all  day  in the rapture of love  dance and song  He performed
+w: from there  Mahāprabhu  to Khadiravana  came
+tr: All day He danced and sang in the rapture of love, and from there Mahāprabhu came to Khadiravana.
+
+## 64
+w: the places of the pastimes  seeing  there  He went  to Śeṣaśāyī
+w: Lakṣmī  seeing  this  verse  recites  the Lord
+tr: He saw the places of the pastimes there and went on to Śeṣaśāyī. There, seeing Lakṣmī, the Lord recited this verse:
+
+## 65
+w: which  Your  tender  lotus feet  on the breasts
+w: fearful  gently  O dear  we place  hard
+w: with them  the forest  You wander  they  are pained  not  whether
+w: by fine stones and such  whirls  the mind  of whom You are the life  our
+tr: “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam, 10.31.19)
+fn: The same verse as Madhya 8.218; translation as there.
+
+## 66
+w: then  Khelā-tīrtha  seeing  to Bhāṇḍīravana  He came
+w: the Yamunā  across  going  to Bhadravana  He went
+tr: Then, after seeing Khelā-tīrtha, He came to Bhāṇḍīravana, and crossing the Yamunā He went to Bhadravana.
+
+## 67
+w: Śrīvana  seeing  again  He went  to Lohavana
+w: to Mahāvana  going  He had  darśana of the birthplace
+tr: After seeing Śrīvana He went on to Lohavana, and going to Mahāvana He saw the place of Kṛṣṇa’s birth.
+
+## 68
+w: the breaking of the Yamala-arjuna trees and so on  He saw  those  places
+w: in the rapture of love  the Lord’s  mind  became  agitated
+tr: He saw the places where the twin Arjuna trees were broken and where other pastimes took place, and in the rapture of love the Lord’s mind was deeply stirred.
+
+## 69
+w: Gokula  seeing  He came  to the city of Mathurā
+w: the birthplace  seeing  He stays  that  in the brāhmaṇa’s house
+tr: After seeing Gokula, He came to the city of Mathurā. He saw the place of Kṛṣṇa’s birth and stayed in the house of that same brāhmaṇa.
+
+## 70
+w: of people  the crowds  seeing  Mathurā  leaving
+w: in solitude  at Akrūra-tīrtha  He stayed  coming
+tr: Seeing the crowds of people, He left Mathurā and came to stay in solitude at Akrūra-tīrtha.
+
+## 71
+w: the next  day  came  the Lord  to see  Vṛndāvana
+w: in Kālīya-hrada  bath  He took  and  in Praskandana
+tr: The next day the Lord came to see Vṛndāvana, and He bathed in Kālīya-hrada and in Praskandana.
+
+## 72
+w: from Dvādaśāditya  to Keśī-tīrtha  He came
+w: the place of the rāsa  seeing  with love  unconscious  He became
+tr: From Dvādaśāditya He came to Keśī-tīrtha, and on seeing the place of the rāsa dance He fainted with love.
+
+## 73
+w: consciousness  regaining  again  He rolls on the ground
+w: He laughs  weeps  dances  falls  in a loud voice  sings
+tr: Regaining consciousness, He rolled on the ground again; He laughed, wept, danced, fell down and sang at the top of His voice.
+
+## 74
+w: in this joy  that day  there  He spent
+w: in the evening  to Akrūra  coming  meal  He took
+tr: He spent that day there in this joy, and in the evening He returned to Akrūra and took His meal.
+
+## 75
+w: in the morning  in Vṛndāvana  He took  at Cīra-ghāṭa  bath
+w: to Tẽtula-talā  coming  He took  rest
+tr: In the morning He bathed at Cīra-ghāṭa in Vṛndāvana, and then He came to Tẽtula-talā and rested there.
+fn: *Amṛta-pravāha-bhāṣya*: this place is now called Āmli-talā (cf. verse 83).
+
+## 76
+w: of the time of Kṛṣṇa’s pastimes  that  tree  ancient
+w: its  beneath  a built-up seat  very smooth
+tr: That ancient tree dates from the time of Kṛṣṇa’s pastimes, and beneath it is a raised platform, beautifully smooth.
+
+## 77
+w: nearby  the Yamunā  flows  cool  breeze
+w: the beauty of Vṛndāvana  seeing  of the Yamunā  water
+tr: The Yamunā flows nearby, and a cool breeze blows. He gazed at the beauty of Vṛndāvana and at the waters of the Yamunā.
+
+## 78
+w: beneath the tamarind  sitting  He performs  saṅkīrtana of the name
+w: midday duties  doing  coming  He takes  at Akrūra  meal
+tr: Sitting beneath the tamarind tree, He performed saṅkīrtana of the holy name, and after His midday duties He would return to Akrūra for His meal.
+
+## 79
+w: of Akrūra  the people  come  the Lord  to see
+w: in the crowd  freely  He cannot  kīrtana  perform
+tr: The people of Akrūra would come to see the Lord, and in the crowd He could not perform kīrtana freely.
+
+## 80
+w: to Vṛndāvana  coming  the Lord  sitting  in solitude
+w: saṅkīrtana of the name  He performs  until midday
+tr: So the Lord would come to Vṛndāvana, sit in solitude and perform saṅkīrtana of the holy name until midday.
+
+## 81
+w: in the third  watch of the day  the people  get  darśana
+w: to everyone  instruction  He gives  saṅkīrtana of the name
+tr: In the third watch of the day people would have His darśana, and He taught everyone the saṅkīrtana of the holy name.
+fn: The third watch (*prahara*) of the day is the early afternoon; so too the edition’s heading (“after midday”).
+
+## 82
+w: at that time  came  a Vaiṣṇava  Kṛṣṇadāsa  by name
+w: a Rajput by birth  a householder  across the Yamunā  village
+tr: At that time a Vaiṣṇava named Kṛṣṇadāsa came. He was a Rajput by birth and a householder, and his village was across the Yamunā.
+
+## 83
+w: at Keśī  bath  taking  he  to Kālīya-daha  going
+w: at Āmli-talā  the Lord  he sees  suddenly
+tr: After bathing at Keśī-tīrtha, he was on his way to Kālīya-daha when he suddenly saw the Lord at Āmli-talā.
+
+## 84
+w: the Lord’s  beauty and love  seeing  he became  amazed
+w: in the rapture of love  to the Lord  he offers  obeisance
+tr: Seeing the Lord’s beauty and love, he was amazed, and in the rapture of love he bowed down to the Lord.
+
+## 85
+w: the Lord  says  —  who  you  where  your  home
+w: Kṛṣṇadāsa  says  —  I  a householder  wretched
+tr: The Lord asked, “Who are you? Where is your home?” Kṛṣṇadāsa said, “I am a wretched householder.
+
+## 86
+w: a Rajput by birth  I  on the other bank  my  home
+w: my  desire  is  —  may I become  a servant of the Vaiṣṇavas
+tr: I am a Rajput by birth, and my home is on the other bank. My desire is to become a servant of the Vaiṣṇavas.
+
+## 87
+w: but  today  one  I  dream  saw
+w: that  dream  before my eyes  You  coming  I have found
+tr: But today I had a dream, and now, coming here, I have found You: the dream has come true before my eyes.”
+fn: *Anubhāṣya*: *parateka* means *pratyakṣa*, *sākṣāt* — “before one’s very eyes”.
+
+## 88
+w: the Lord  to him  mercy  showed  embrace  giving
+w: with love  intoxicated  he became  he  dances  says  Hari
+tr: The Lord showed him mercy and embraced him. Kṛṣṇadāsa became intoxicated with love; he danced and cried, “Hari!”
+
+## 89
+w: with the Lord  at midday  to Akrūra  tīrtha  he came
+w: the Lord’s  remnants on the plate  prasāda  he received
+tr: At midday he came with the Lord to Akrūra-tīrtha and received the prasāda left on the Lord’s plate.
+
+## 90
+w: in the morning  with the Lord  he came  the waterpot  carrying
+w: with the Lord  he stays  home, wife and son  leaving
+tr: The next morning he came with the Lord, carrying His waterpot. Leaving home, wife and son, he stayed with the Lord.
+
+## 91
+w: in Vṛndāvana  again  Kṛṣṇa  manifest  has become
+w: here  there  the people  all  to say  began
+tr: Everywhere people began to say, “Kṛṣṇa has appeared again in Vṛndāvana!”
+
+## 92
+w: one day  to Akrūra  people  in the morning
+w: from Vṛndāvana  come  making  an uproar
+tr: One day, early in the morning, people came from Vṛndāvana to Akrūra, making a great uproar.
+
+## 93
+w: the Lord  seeing  did  the people  to the feet  obeisance
+w: the Lord  says  —  from where  have you made  your coming
+tr: Seeing the Lord, the people bowed to His feet. The Lord asked, “Where have you come from?”
+
+## 94
+w: the people  say  —  Kṛṣṇa  manifest  of the Kālīya lake  in the water
+w: on Kālīya’s heads  dance  He performs  the serpent’s jewels  blaze
+tr: The people said, “Kṛṣṇa has appeared in the waters of Kālīya’s lake! He dances on Kālīya’s heads, and the jewels on the serpent’s hoods are blazing.
+
+## 95
+w: directly  saw  the people  there is no  doubt
+w: hearing  laughing  says  the Lord  —  all  true  is
+tr: People have seen Him with their own eyes; there is no doubt about it.” Hearing this, the Lord laughed and said, “It is all true.”
+
+## 96
+w: in this way  for three nights  the people’s  going
+w: all  coming  say  —  of Kṛṣṇa  we have had  darśana
+tr: In this way people went there for three nights, and they all came back saying, “We have had darśana of Kṛṣṇa.”
+
+## 97
+w: before the Lord  say  the people  —  Śrī Kṛṣṇa  we saw
+w: Sarasvatī  in these  words  the truth  made them speak
+tr: Before the Lord the people said, “We have seen Śrī Kṛṣṇa!” Through these words Sarasvatī made them speak the truth.
+
+## 98
+w: Mahāprabhu  seeing  true  darśana of Kṛṣṇa
+w: through their own ignorance  the truth  abandoning  in the untrue  the illusion of truth
+tr: In seeing Mahāprabhu they truly had darśana of Kṛṣṇa; but through their own ignorance they set the truth aside and mistook the untrue for the true.
+
+## 99
+w: the Bhaṭṭācārya  then  says  the Lord’s  at the feet
+w: permission  give  let me go  I will have  Kṛṣṇa’s  darśana
+tr: Then the Bhaṭṭācārya said at the Lord’s feet, “Give me permission, and I shall go and have darśana of Kṛṣṇa!”
+
+## 100
+w: then  to him  says  the Lord  a slap  giving
+w: by the words of fools  a fool  you have become  a scholar  being
+tr: Then the Lord gave him a slap and said, “You are a learned man, yet you have become a fool by listening to the words of fools.
+
+## 101
+w: Kṛṣṇa  why  darśana  would give  in the age of Kali
+w: in their own delusion  foolish people  make  an uproar
+tr: Why would Kṛṣṇa give darśana in the age of Kali? Foolish people are making an uproar out of their own delusion.
+
+## 102
+w: mad  not  become  at home  stay  indeed  sitting
+w: of Kṛṣṇa  darśana  you may have  tomorrow  at night  going
+tr: Do not go mad. Stay at home and sit quietly. You can go tomorrow night and have darśana of Kṛṣṇa.”
+
+## 103
+w: in the morning  respectable people  to the Lord’s place  came
+w: Kṛṣṇa  having seen  have you come  —  the Lord  them  asked
+tr: In the morning some respectable people came to the Lord, and the Lord asked them, “Have you come from seeing Kṛṣṇa?”
+
+## 104
+w: the people  say  —  at night  a fisherman  in a boat  climbing
+w: in the Kālīya lake  fish  he kills  a torch  lighting
+tr: They said, “At night a fisherman gets into a boat, lights a torch and catches fish in Kālīya’s lake.
+
+## 105
+w: from a distance  that  seeing  the people  have  the illusion
+w: on Kālīya’s body  Kṛṣṇa  is performing  a dance
+tr: Seeing this from a distance, people are deluded: ‘Kṛṣṇa is dancing on Kālīya’s body!’
+
+## 106
+w: in the boat  the notion of Kālīya  in the lamp  the notion of jewels
+w: the fisherman  foolish people  Kṛṣṇa  as  regard
+tr: They take the boat for Kālīya and the lamp for his jewels, and these foolish people regard the fisherman as Kṛṣṇa!”
+
+## 107
+w: to Vṛndāvana  Kṛṣṇa  has come  —  that too  true  is
+w: Kṛṣṇa  saw  the people  —  this  false  is not
+tr: That Kṛṣṇa had come to Vṛndāvana was also true, and that the people had seen Kṛṣṇa was not false.
+
+## 108
+w: but  some  Kṛṣṇa  see  some  an illusion  accept
+w: in a post a man  just as  mistaken perception
+tr: But some saw Kṛṣṇa, while others were deceived, as one mistakes a bare tree trunk for a man.
+fn: In the Gauḍīya Maṭha edition the people’s words end with verse 106; verses 107–108 are the author’s.
+
+## 109
+w: the Lord  says  —  where  have you had  Kṛṣṇa’s  darśana
+w: the people  say  —  a sannyāsī  You  a moving Nārāyaṇa
+tr: The Lord asked, “Then where have you had darśana of Kṛṣṇa?” The people said, “You are a sannyāsī, a moving Nārāyaṇa.
+
+## 110
+w: in Vṛndāvana  have become  You  an avatāra of Kṛṣṇa
+w: You  seeing  all the people  have become  delivered
+tr: In Vṛndāvana You have become an avatāra of Kṛṣṇa, and by seeing You everyone has been delivered.”
+
+## 111
+w: the Lord  says  —  Viṣṇu  Viṣṇu  this  not  you should say
+w: in a lowly jīva  the notion of Kṛṣṇa  ever  not  you should hold
+tr: The Lord said, “Viṣṇu! Viṣṇu! Do not say such a thing! Never take a lowly jīva for Kṛṣṇa!
+fn: *Anubhāṣya*: the Māyāvādīs say that on taking the staff a sannyāsī becomes Nārāyaṇa, and they greet such staff-bearers with “Oṁ namo nārāyaṇāya”; but the jīva, liberated or conditioned, is eternally subject to Nārāyaṇa, the Lord of māyā, and must never be called Nārāyaṇa.
+
+## 112
+w: a sannyāsī  —  a particle of spirit  a jīva  like a particle of a ray
+w: full of the six opulences  Kṛṣṇa  is  like the sun
+tr: A sannyāsī is a jīva, a particle of spirit, like a particle of a ray of light; but Kṛṣṇa, full of the six opulences, is like the sun.
+
+## 113
+w: the jīva  the truth of the Lord  —  ever  are not  equal
+w: a blazing mass of fire  just as  of a spark  a particle
+tr: The jīva and the Lord are never equal, just as a tiny spark is never equal to a great blazing fire.
+
+## 114
+w: by hlādinī  embraced by saṁvit
+w: eternal being, consciousness and bliss  the Lord
+w: by its own ignorance  covered  the jīva
+w: a mine of a multitude of miseries
+tr: “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (words of Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 1.7.5–6)
+fn: The source follows the edition’s heading: the *Sarvajña-sūkta* as quoted in the *Bhagavat-sandarbha*, or the words of Śrī Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam 1.7.5–6.
