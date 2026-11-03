@@ -1006,209 +1006,261 @@ the brāhmaṇa Svapneśvara  made  of the Lord  invitation
 বাহির উদ্যানে আসি, প্রভু বাসা কৈল ॥ ১০১ ॥
 
 rāmānanda-rāya saba-gaṇe nimantrila  
-bāhira udyāne āsi, prabhu vāsā kaila
+Rāmānanda Rāya  all the associates  invited  
+bāhira udyāne āsi, prabhu vāsā kaila  
+in an outer  garden  coming  the Lord  residence  made
 
-(101) [not yet translated]
+(101) Rāmānanda Rāya invited all the associates, and the Lord came to a garden outside the town and stayed there.
 
 ভিক্ষা করি’ বকুল-তলে করিলা বিশ্রাম ৷  
 প্রতাপরুদ্র-ঠাঞি রায় করিল পয়ান ॥ ১০২ ॥
 
 bhikṣā kari’ bakula-tale karilā viśrāma  
-pratāparudra-ṭhāñi rāya karila payāna
+the meal  having taken  under a bakula tree  made  rest  
+pratāparudra-ṭhāñi rāya karila payāna  
+to Pratāparudra  Rāya  made  departure
 
-(102) [not yet translated]
+(102) After His meal He rested under a *bakula* tree, and Rāmānanda Rāya went to Pratāparudra.
 
 শুনি’ আনন্দিত রাজা অতিশীঘ্র আইলা ৷  
 প্রভু দেখি’ দণ্ডবৎ ভূমেতে পড়িলা ॥ ১০৩ ॥
 
 śuni’ ānandita rājā ati-śīghra āilā  
-prabhu dekhi’ daṇḍavat bhūmete paḍilā
+hearing  delighted  the king  very quickly  came  
+prabhu dekhi’ daṇḍavat bhūmete paḍilā  
+the Lord  seeing  like a rod  on the ground  fell
 
-(103) [not yet translated]
+(103) Delighted at the news, the king came at once, and seeing the Lord, he fell flat on the ground like a rod.
 
 পুনঃ উঠে, পুনঃ পড়ে প্রণয়-বিহ্বল ৷  
 স্তুতি করে, পুলকাঙ্গ, পড়ে অশ্রুজল ॥ ১০৪ ॥
 
 punaḥ uṭhe, punaḥ paḍe praṇaya-vihvala  
-stuti kare, pulakāṅga, paḍe aśru-jala
+again  he rises  again  he falls  overwhelmed by love  
+stuti kare, pulakāṅga, paḍe aśru-jala  
+prayers  he offers  with hair standing on end  fall  tears
 
-(104) [not yet translated]
+(104) Overwhelmed by love, he rose and fell again and again; he offered prayers, the hair of his body stood on end, and tears flowed from his eyes.
 
 তাঁর ভক্তি দেখি’ প্রভুর তুষ্ট হৈল মন ৷  
 উঠি’ মহাপ্রভু তাঁরে কৈলা আলিঙ্গন ॥ ১০৫ ॥
 
 tāṅra bhakti dekhi’ prabhura tuṣṭa haila mana  
-uṭhi’ mahāprabhu tāṅre kailā āliṅgana
+his  devotion  seeing  of the Lord  pleased  became  the mind  
+uṭhi’ mahāprabhu tāṅre kailā āliṅgana  
+rising  Mahāprabhu  him  made  embrace
 
-(105) [not yet translated]
+(105) Seeing his devotion, the Lord was pleased at heart. Mahāprabhu rose and embraced him.
 
 পুনঃ স্তুতি করি’ রাজা করয়ে প্রণাম ৷  
 প্রভু-কৃপা-অশ্রুতে তাঁর দেহ হৈল স্নান ॥ ১০৬ ॥
 
 punaḥ stuti kari’ rājā karaye praṇāma  
-prabhu-kṛpā-aśrute tāṅra deha haila snāna
+again  prayers  offering  the king  makes  obeisance  
+prabhu-kṛpā-aśrute tāṅra deha haila snāna  
+in the tears of the Lord’s mercy  his  body  became  bathed
 
-(106) [not yet translated]
+(106) Again the king offered prayers and bowed down, and his body was bathed in tears of the Lord’s mercy.
 
 সুস্থ করি, রামানন্দ রাজারে বসাইলা ৷  
 কায়মনোবাক্যে প্রভু তাঁরে কৃপা কৈলা ॥ ১০৭ ॥
 
 sustha kari, rāmānanda rājāre vasāilā  
-kāya-mano-vākye prabhu tāṅre kṛpā kailā
+calm  making  Rāmānanda  the king  seated  
+kāya-mano-vākye prabhu tāṅre kṛpā kailā  
+in body, mind and words  the Lord  to him  mercy  showed
 
-(107) [not yet translated]
+(107) Rāmānanda calmed the king and seated him, and the Lord showed him mercy in body, mind and words.
 
 ঐছে তাঁহারে কৃপা কৈল গৌররায় ৷  
 ‘প্রতাপরুদ্র-সংত্রাতা’ নাম হৈল যায় ॥ ১০৮ ॥
 
 aiche tāṅhāre kṛpā kaila gaurarāya  
-‘pratāparudra-saṁtrātā’ nāma haila yāya
+such  to him  mercy  showed  Gaurarāya  
+‘pratāparudra-saṁtrātā’ nāma haila yāya  
+the Saviour of Pratāparudra  the name  became  by which
 
-(108) [not yet translated]
+(108) Gaurarāya showed him such mercy that He came to be called “the Saviour of Pratāparudra.”
 
 রাজ-পাত্রগণ কৈল প্রভুর বন্দন ৷  
 রাজারে বিদায় দিলা শচীর নন্দন ॥ ১০৯ ॥
 
 rāja-pātra-gaṇa kaila prabhura vandana  
-rājāre vidāya dilā śacīra nandana
+the royal ministers  made  of the Lord  homage  
+rājāre vidāya dilā śacīra nandana  
+to the king  leave  gave  of Śacī  the son
 
-(109) [not yet translated]
+(109) The king’s ministers paid homage to the Lord, and Śacī’s son gave the king leave to go.
 
 বাহিরে আসি’ রাজা আজ্ঞা-পত্র লেখাইল ৷  
 নিজ-রাজ্যে যত ‘বিষয়ী’, তাহারে পাঠাইল ॥ ১১০ ॥
 
 bāhire āsi’ rājā ājñā-patra lekhāila  
-nija-rājye yata ‘viṣayī’, tāhāre pāṭhāila
+outside  coming  the king  a written order  had written  
+nija-rājye yata ‘viṣayī’, tāhāre pāṭhāila  
+in his own kingdom  as many  revenue officers  to them  sent
 
-(110) [not yet translated]
+(110) Coming outside, the king had an order drawn up and sent it to all the revenue officers (*viṣayī*) of his kingdom:
 
 ‘গ্রামে-গ্রামে’ নূতন আবাস করিবা ৷  
 পাঁচ-সাত গৃহ, সব সামগ্র্যে ভরিবা ॥ ১১১ ॥
 
 ‘grāme-grāme’ nūtana āvāsa karibā  
-pāṅca-sāta gṛha, saba sāmagrye bharibā
+in village after village  new  lodgings  you shall make  
+pāṅca-sāta gṛha, saba sāmagrye bharibā  
+five or seven  houses  with all  provisions  you shall fill
 
-(111) [not yet translated]
+(111) “In every village build new lodgings; fill five or seven houses with all provisions.
 
 আপনি প্রভুকে লঞা তাঁহা উত্তরিবা ৷  
 রাত্রি-দিবা বেত্রহস্তে সেবায় রহিবা ॥ ১১২ ॥
 
 āpani prabhuke lañā tāṅhā uttaribā  
-rātri-dibā vetra-haste sevāya rahibā
+yourselves  the Lord  taking  there  you shall lodge  
+rātri-dibā vetra-haste sevāya rahibā  
+night and day  cane in hand  in service  you shall remain
 
-(112) [not yet translated]
+(112) Bring the Lord there yourselves and lodge Him there, and stay in His service night and day, cane in hand.”
 
 দুই মহাপাত্র, — ‘হরিচন্দন’, ‘মঙ্গরাজ’ ৷  
 তাঁরে আজ্ঞা দিল রাজা — করিহ সর্ব্ব কাজ ॥ ১১৩ ॥
 
 dui mahā-pātra, — ‘haricandana’, ‘maṅgarāja’  
-tāṅre ājñā dila rājā — kariha sarva kāja
+two  great ministers  —  Haricandana  Maṅgarāja  
+tāṅre ājñā dila rājā — kariha sarva kāja  
+to them  order  gave  the king  —  do  every  task
 
-(113) [not yet translated]
+(113) The king gave this order to two of his chief ministers, Haricandana and Maṅgarāja: “See to everything.
 
 এক নব্য-নৌকা আনি’ রাখহ নদী-তীরে ৷  
 যাঁহা স্নান করি’ প্রভু যা’ন নদী-পারে ॥ ১১৪ ॥
 
 eka navya-naukā āni’ rākhaha nadī-tīre  
-yāṅhā snāna kari’ prabhu yā’na nadī-pāre
+one  new boat  bringing  keep  on the river bank  
+yāṅhā snāna kari’ prabhu yā’na nadī-pāre  
+where  bath  having taken  the Lord  goes  across the river
 
-(114) [not yet translated]
+(114) Bring a new boat and keep it at the river bank where the Lord will bathe and cross the river.
 
 তাঁহা স্তম্ভ রোপণ কর ‘মহাতীর্থ’ করি’ ৷  
 নিত্য স্নান করিহ তাঁহা, তাঁহা যেন মরি ॥ ১১৫ ॥
 
 tāṅhā stambha ropaṇa kara ‘mahā-tīrtha’ kari’  
-nitya snāna kariha tāṅhā, tāṅhā yena mari
+there  a pillar  erecting  do  a great tīrtha  making  
+nitya snāna kariha tāṅhā, tāṅhā yena mari  
+daily  bath  take  there  there  may  I die
 
-(115) [not yet translated]
+(115) There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.
 
 চতুর্দ্বারে করহ উত্তম নব্য বাস ৷  
 রামানন্দ, যাহ তুমি মহাপ্রভু-পাশ ॥ ১১৬ ॥
 
 caturdvāre karaha uttama navya vāsa  
-rāmānanda, yāha tumi mahāprabhu-pāśa
+in Caturdvāra  build  excellent  new  lodgings  
+rāmānanda, yāha tumi mahāprabhu-pāśa  
+Rāmānanda  go  you  to Mahāprabhu’s side
 
-(116) [not yet translated]
+(116) Build excellent new lodgings in Caturdvāra. And you, Rāmānanda, go to Mahāprabhu.”
 
 সন্ধ্যাতে চলিবে প্রভু, — নৃপতি শুনিল ৷  
 হস্তী-উপর তাম্বুগৃহে স্ত্রীগণে চড়াইল ॥ ১১৭ ॥
 
 sandhyāte calibe prabhu, — nṛpati śunila  
-hastī-upara tāmbu-gṛhe strī-gaṇe caḍāila
+in the evening  will set out  the Lord  —  the king  heard  
+hastī-upara tāmbu-gṛhe strī-gaṇe caḍāila  
+on elephants  in tents  the women  he seated
 
-(117) [not yet translated]
+(117) The king heard that the Lord would set out in the evening, and he had the women of the palace seated in tents on the backs of elephants.
 
 প্রভুর চলিবার পথে রহে সারি হঞা ৷  
 সন্ধ্যাতে চলিলা প্রভু নিজগণ লঞা ॥ ১১৮ ॥
 
 prabhura calibāra pathe rahe sāri hañā  
-sandhyāte calilā prabhu nija-gaṇa lañā
+of the Lord  of the going  on the road  they stay  in a row  forming  
+sandhyāte calilā prabhu nija-gaṇa lañā  
+in the evening  set out  the Lord  His own associates  taking
 
-(118) [not yet translated]
+(118) They stood in a row along the road the Lord was to take, and in the evening the Lord set out with His associates.
 
 ‘চিত্রোৎপলা-নদী’ আসি’ ঘাটে কৈল স্নান ৷  
 মহিষীসকল দেখে, করয়ে প্রণাম ॥ ১১৯ ॥
 
 ‘citrotpalā-nadī’ āsi’ ghāṭe kaila snāna  
-mahiṣī-sakala dekhe, karaye praṇāma
+to the river Citrotpalā  coming  at the ghāṭ  made  bath  
+mahiṣī-sakala dekhe, karaye praṇāma  
+the queens all  see  make  obeisance
 
-(119) [not yet translated]
+(119) Coming to the river Citrotpalā, He bathed at the *ghāṭ*, and all the queens watched Him and bowed down.
 
 প্রভুর দরশনে সবে হৈল প্রেমময় ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহে, নেত্র অশ্রু বরিষয় ॥ ১২০ ॥
 
 prabhura daraśane sabe haila premamaya  
-‘kṛṣṇa’ ‘kṛṣṇa’ kahe, netra aśru variṣaya
+of the Lord  at the sight  all  became  full of love  
+‘kṛṣṇa’ ‘kṛṣṇa’ kahe, netra aśru variṣaya  
+Kṛṣṇa  Kṛṣṇa  they say  the eyes  tears  shower
 
-(120) [not yet translated]
+(120) At the sight of the Lord they were all filled with love; they cried “Kṛṣṇa! Kṛṣṇa!” and tears streamed from their eyes.
 
 এমন কৃপালু নাহি শুনি ত্রিভুবনে ৷  
 কৃষ্ণপ্রেমা হয় যাঁর দূর দরশনে ॥ ১২১ ॥
 
 emana kṛpālu nāhi śuni tribhuvane  
-kṛṣṇa-premā haya yāṅra dūra daraśane
+such  merciful  not  I hear  in the three worlds  
+kṛṣṇa-premā haya yāṅra dūra daraśane  
+love for Kṛṣṇa  arises  whose  from afar  at the sight
 
-(121) [not yet translated]
+(121) Nowhere in the three worlds have I heard of one so merciful: love for Kṛṣṇa awakens even in those who see Him from afar.
 
 নৌকাতে চড়িয়া প্রভু হৈল নদী পার ৷  
 জ্যোৎস্নাবতী রাত্র্যে চলি’ আইলা চতুর্দ্বার ॥ ১২২ ॥
 
 naukāte caḍiyā prabhu haila nadī pāra  
-jyotsnāvatī rātrye cali’ āilā caturdvāra
+into the boat  climbing  the Lord  became  of the river  across  
+jyotsnāvatī rātrye cali’ āilā caturdvāra  
+on a moonlit  night  going  came  to Caturdvāra
 
-(122) [not yet translated]
+(122) The Lord boarded the boat and crossed the river, and travelling on through the moonlit night He came to Caturdvāra.
 
 রাত্র্যে তথা রহি’ প্রাতে স্নানকৃত্য কৈল ৷  
 হেনকালে জগন্নাথের মহাপ্রসাদ আইল ॥ ১২৩ ॥
 
 rātrye tathā rahi’ prāte snāna-kṛtya kaila  
-hena-kāle jagannāthera mahā-prasāda āila
+at night  there  staying  in the morning  bathing  made  
+hena-kāle jagannāthera mahā-prasāda āila  
+at that time  of Jagannātha  mahā-prasāda  came
 
-(123) [not yet translated]
+(123) He stayed there that night and bathed in the morning. Just then Jagannātha’s *mahā-prasāda* arrived.
 
 রাজার আজ্ঞায় পড়িছা পাঠায় দিনে দিনে ৷  
 বহুত প্রসাদ পাঠায় দিয়া বহু-জনে ॥ ১২৪ ॥
 
 rājāra ājñāya paḍichā pāṭhāya dine dine  
-bahuta prasāda pāṭhāya diyā bahu-jane
+of the king  by the order  the paḍichā  sends  day  by day  
+bahuta prasāda pāṭhāya diyā bahu-jane  
+abundant  prasāda  sends  by  many people
 
-(124) [not yet translated]
+(124) By the king’s order the *paḍichā* sent *prasāda* day after day — a great quantity of it, carried by many people.
 
 স্বগণ-সহিতে প্রভু প্রসাদ অঙ্গীকরি’ ৷  
 উঠিয়া চলিলা প্রভু বলি’ ‘হরি’ ‘হরি’ ॥ ১২৫ ॥
 
 sva-gaṇa-sahite prabhu prasāda aṅgīkari’  
-uṭhiyā calilā prabhu bali’ ‘hari’ ‘hari’
+with His own associates  the Lord  prasāda  accepting  
+uṭhiyā calilā prabhu bali’ ‘hari’ ‘hari’  
+rising  set out  the Lord  saying  Hari  Hari
 
-(125) [not yet translated]
+(125) The Lord accepted the *prasāda* with His associates, then rose and set out, calling “Hari! Hari!”
 
 রামানন্দ, মঙ্গরাজ, শ্রীহরিচন্দন ৷  
 সঙ্গে সেবা করি’ চলে এই তিন জন ॥ ১২৬ ॥
 
 rāmānanda, maṅgarāja, śrī-haricandana  
-saṅge sevā kari’ cale ei tina jana
+Rāmānanda  Maṅgarāja  Śrī Haricandana  
+saṅge sevā kari’ cale ei tina jana  
+together  service  doing  go  these  three  persons
 
-(126) [not yet translated]
+(126) Rāmānanda, Maṅgarāja and Śrī Haricandana — these three went along with Him, serving Him.
 
 প্রভু-সঙ্গে পুরী-গোসাঞি, স্বরূপ-দামোদর ৷  
 জগদানন্দ, মুকুন্দ, গোবিন্দ, কাশীশ্বর ॥ ১২৭ ॥
@@ -1220,133 +1272,169 @@ saṅge sevā kari’ cale ei tina jana
 প্রধান কহিলুঁ, সবার কে করে গণন ॥ ১২৯ ॥
 
 prabhu-saṅge purī-gosāñi, svarūpa-dāmodara  
+with the Lord  Purī Gosāñi  Svarūpa Dāmodara  
 jagadānanda, mukunda, govinda, kāśīśvara  
+Jagadānanda  Mukunda  Govinda  Kāśīśvara  
 haridāsa-ṭhākura, āra paṇḍita-vakreśvara  
+Haridāsa Ṭhākura  and  Paṇḍita Vakreśvara  
 gopīnāthācārya, āra paṇḍita-dāmodara  
+Gopīnāthācārya  and  Paṇḍita Dāmodara  
 rāmāi, nandāi, āra bahu bhakta-gaṇa  
-pradhāna kahiluṅ, sabāra ke kare gaṇana
+Rāmāi  Nandāi  and  many  devotees  
+pradhāna kahiluṅ, sabāra ke kare gaṇana  
+the chief  I have named  of all  who  makes  a count
 
-(127–129) [not yet translated]
+(127–129) With the Lord were Purī Gosāñi, Svarūpa Dāmodara, Jagadānanda, Mukunda, Govinda, Kāśīśvara, Haridāsa Ṭhākura, Vakreśvara Paṇḍita, Gopīnāthācārya, Dāmodara Paṇḍita, Rāmāi, Nandāi and many other devotees. I have named only the chief among them — who can count them all?
 
 গদাধর-পণ্ডিত যবে সঙ্গেতে চলিলা ৷  
 ক্ষেত্র-সন্ন্যাস না ছাড়িহ — প্রভু নিষেধিলা ॥ ১৩০ ॥
 
 gadādhara-paṇḍita yabe saṅgete calilā  
-kṣetra-sannyāsa nā chāḍiha — prabhu niṣedhilā
+Gadādhara Paṇḍita  when  along  set out  
+kṣetra-sannyāsa nā chāḍiha — prabhu niṣedhilā  
+the kṣetra-sannyāsa  not  give up  —  the Lord  forbade
 
-(130) [not yet translated]
+(130) When Gadādhara Paṇḍita set out with them, the Lord forbade him: “Do not give up your *kṣetra-sannyāsa*.”
 
 পণ্ডিত কহে, — যাঁহা তুমি, সেই নীলাচল ৷  
 ক্ষেত্রসন্ন্যাস মোর যাউক রসাতল ॥ ১৩১ ॥
 
 paṇḍita kahe, — yāṅhā tumi, sei nīlācala  
-kṣetrasannyāsa mora yāuka rasātala
+the Paṇḍita  says  —  where  You  that  Nīlācala  
+kṣetrasannyāsa mora yāuka rasātala  
+kṣetra-sannyāsa  my  let go  to Rasātala
 
-(131) [not yet translated]
+(131) The Paṇḍita said, “Wherever You are, that is Nīlācala. Let my *kṣetra-sannyāsa* go to Rasātala!”
 
 প্রভু কহে, — ইঁহা কর গোপীনাথ সেবন ৷  
 পণ্ডিত কহে, — কোটি-সেবা ত্বৎপাদ-দর্শন ॥ ১৩২ ॥
 
 prabhu kahe, — iṅhā kara gopīnātha sevana  
-paṇḍita kahe, — koṭi-sevā tvat-pāda-darśana
+the Lord  says  —  here  do  Gopīnātha’s  service  
+paṇḍita kahe, — koṭi-sevā tvat-pāda-darśana  
+the Paṇḍita  says  —  ten million services  the sight of Your feet
 
-(132) [not yet translated]
+(132) The Lord said, “Stay here and serve Gopīnātha.” The Paṇḍita said, “Seeing Your feet is worth ten million services.”
 
 প্রভু কহে, — সেবা ছাড়িবে, আমায় লাগে দোষ ৷  
 ইঁহা রহি’ সেবা কর, — আমার সন্তোষ ॥ ১৩৩ ॥
 
 prabhu kahe, — sevā chāḍibe, āmāya lāge doṣa  
-iṅhā rahi’ sevā kara, — āmāra santoṣa
+the Lord  says  —  the service  you will give up  to Me  attaches  the fault  
+iṅhā rahi’ sevā kara, — āmāra santoṣa  
+here  staying  service  do  —  My  satisfaction
 
-(133) [not yet translated]
+(133) The Lord said, “If you give up the service, the fault will fall on Me. Stay here and serve — that will please Me.”
 
 পণ্ডিত কহে, — সব দোষ আমার উপর ৷  
 তোমা-সঙ্গে না যাইব, যাইব একেশ্বর ॥ ১৩৪ ॥
 
 paṇḍita kahe, — saba doṣa āmāra upara  
-tomā-saṅge nā yāiba, yāiba ekeśvara
+the Paṇḍita  says  —  all  fault  me  upon  
+tomā-saṅge nā yāiba, yāiba ekeśvara  
+with You  not  I shall go  I shall go  alone
 
-(134) [not yet translated]
+(134) The Paṇḍita said, “All the fault will be upon me. I shall not go with You; I shall go alone.
 
 ‘আই’কে দেখিতে যাইব, না যাইব তোমা লাগি’ ৷  
 ‘প্রতিজ্ঞা’-‘সেবা’-ত্যাগ-দোষ, — তার আমি ভাগী ॥ ১৩৫ ॥
 
 ‘āi’ke dekhite yāiba, nā yāiba tomā lāgi’  
-‘pratijñā’-‘sevā’-tyāga-doṣa, — tāra āmi bhāgī
+Āi  to see  I shall go  not  I shall go  You  for the sake of  
+‘pratijñā’-‘sevā’-tyāga-doṣa, — tāra āmi bhāgī  
+of giving up the vow and the service  the fault  —  of that  I  the bearer
 
-(135) [not yet translated]
+(135) I shall go to see Āi (Mother Śacī), not for Your sake. The fault of giving up my vow and my service — that I shall bear myself.”
 
 এত বলি’ পণ্ডিত-গোসাঞি পৃথক্ চলিলা ৷  
 কটক আসি’ প্রভু তাঁরে সঙ্গে আনাইলা ॥ ১৩৬ ॥
 
 eta bali’ paṇḍita-gosāñi pṛthak calilā  
-kaṭaka āsi’ prabhu tāṅre saṅge ānāilā
+so  saying  Paṇḍita Gosāñi  separately  went  
+kaṭaka āsi’ prabhu tāṅre saṅge ānāilā  
+to Kaṭaka  coming  the Lord  him  with  had brought
 
-(136) [not yet translated]
+(136) Saying this, Paṇḍita Gosāñi travelled on separately. When the Lord reached Kaṭaka, He had him brought to Him.
 
 পণ্ডিতের গৌরাঙ্গ প্রেম বুঝন না যায় ৷  
 ‘প্রতিজ্ঞা’, ‘শ্রীকৃষ্ণ-সেবা’ ছাড়িল তৃণপ্রায় ॥ ১৩৭ ॥
 
 paṇḍitera gaurāṅga prema bujhana nā yāya  
-‘pratijñā’, ‘śrī-kṛṣṇa-sevā’ chāḍila tṛṇa-prāya
+of the Paṇḍita  for Gaurāṅga  love  to understand  not  is possible  
+‘pratijñā’, ‘śrī-kṛṣṇa-sevā’ chāḍila tṛṇa-prāya  
+the vow  the service of Śrī Kṛṣṇa  he gave up  like a straw
 
-(137) [not yet translated]
+(137) The Paṇḍita’s love for Gaurāṅga is beyond understanding: he gave up his vow and the service of Śrī Kṛṣṇa as though they were a blade of grass.
 
 তাঁহার চরিত্রে প্রভু অন্তরে সন্তোষ ৷  
 তাঁহার হাতে ধরি’ কহে, করি’ প্রণয়-রোষ ॥ ১৩৮ ॥
 
 tāṅhāra caritre prabhu antare santoṣa  
-tāṅhāra hāte dhari’ kahe, kari’ praṇaya-roṣa
+his  by the conduct  the Lord  inwardly  satisfaction  
+tāṅhāra hāte dhari’ kahe, kari’ praṇaya-roṣa  
+his  by the hand  taking  He says  making  loving anger
 
-(138) [not yet translated]
+(138) Inwardly the Lord was pleased with his conduct, but He took him by the hand and spoke with loving anger:
 
 ‘প্রতিজ্ঞা’, ‘সেবা’ ছাড়িবে, — এ তোমার ‘উদ্দেশ’ ৷  
 সে সিদ্ধ হইল — ছাড়ি’ আইলা দূর দেশ ॥ ১৩৯ ॥
 
 ‘pratijñā’, ‘sevā’ chāḍibe, — e tomāra ‘uddeśa’  
-se siddha haila — chāḍi’ āilā dūra deśa
+the vow  the service  to give up  —  this  your  aim  
+se siddha haila — chāḍi’ āilā dūra deśa  
+that  accomplished  became  —  leaving  you have come  far  country
 
-(139) [not yet translated]
+(139) “Giving up your vow and your service — that was your aim, and it has been accomplished: you have left them and come to a distant land.
 
 আমার সঙ্গে রহিতে চাহ, — বাঞ্ছ নিজ-‘সুখ’ ৷  
 তোমার দুই ধর্ম্ম যায়, — আমার হয় ‘দুঃখ’ ॥ ১৪০ ॥
 
 āmāra saṅge rahite cāha, — vāñcha nija-‘sukha’  
-tomāra dui dharma yāya, — āmāra haya ‘duḥkha’
+Me  with  to stay  you want  —  you desire  your own happiness  
+tomāra dui dharma yāya, — āmāra haya ‘duḥkha’  
+your  two  duties  go  —  Mine  becomes  sorrow
 
-(140) [not yet translated]
+(140) You want to stay with Me — you are seeking your own happiness. But you are losing both your duties, and that makes Me sad.
 
 মোর সুখ চাহ যদি, নীলাচলে চল ৷  
 আমার শপথ, যদি আর কিছু বল ॥ ১৪১ ॥
 
 mora sukha cāha yadi, nīlācale cala  
-āmāra śapatha, yadi āra kichu bala
+My  happiness  you want  if  to Nīlācala  go  
+āmāra śapatha, yadi āra kichu bala  
+by Me  sworn  if  more  anything  you say
 
-(141) [not yet translated]
+(141) If you want My happiness, go back to Nīlācala. I adjure you by Myself — do not say another word.”
 
 এত বলি’ মহাপ্রভু নৌকাতে চড়িলা ৷  
 মূর্চ্ছিত হঞা পণ্ডিত তথা পড়িলা ॥ ১৪২ ॥
 
 eta bali’ mahāprabhu naukāte caḍilā  
-mūrcchita hañā paṇḍita tathā paḍilā
+so  saying  Mahāprabhu  into the boat  climbed  
+mūrcchita hañā paṇḍita tathā paḍilā  
+unconscious  becoming  the Paṇḍita  there  fell
 
-(142) [not yet translated]
+(142) Saying this, Mahāprabhu got into the boat, and the Paṇḍita fell there unconscious.
 
 পণ্ডিতে লঞা যাইতে সার্ব্বভৌমে আজ্ঞা দিলা ৷  
 ভট্টাচার্য্য কহে, — উঠ, ঐছে প্রভুর লীলা ॥ ১৪৩ ॥
 
 paṇḍite lañā yāite sārvabhaume ājñā dilā  
-bhaṭṭācārya kahe, — uṭha, aiche prabhura līlā
+the Paṇḍita  taking  to go  to Sārvabhauma  order  gave  
+bhaṭṭācārya kahe, — uṭha, aiche prabhura līlā  
+the Bhaṭṭācārya  says  —  rise  such  of the Lord  the līlā
 
-(143) [not yet translated]
+(143) The Lord ordered Sārvabhauma to take the Paṇḍita back with him. The Bhaṭṭācārya said, “Get up — such is the Lord’s *līlā*.
 
 তুমি জান, কৃষ্ণ নিজ প্রতিজ্ঞা ছাড়িলা ৷  
 ভক্ত কৃপা-বশে ভীষ্মের প্রতিজ্ঞা রাখিলা ॥ ১৪৪ ॥
 
 tumi jāna, kṛṣṇa nija pratijñā chāḍilā  
-bhakta kṛpā-vaśe bhīṣmera pratijñā rākhilā
+you  know  Kṛṣṇa  His own  vow  gave up  
+bhakta kṛpā-vaśe bhīṣmera pratijñā rākhilā  
+for His devotee  by mercy compelled  Bhīṣma’s  vow  He kept
 
-(144) [not yet translated]
+(144) You know that Kṛṣṇa gave up His own vow; compelled by mercy for His devotee, He kept Bhīṣma’s vow.
 
 স্বনিগমমপহায় মৎ প্রতিজ্ঞা-  
 মৃতমধিকর্ত্তুমবপ্লুতো রথস্থঃ ৷  
@@ -1354,11 +1442,15 @@ bhakta kṛpā-vaśe bhīṣmera pratijñā rākhilā
 র্হরিরিব হন্তুমিভং গতোত্তরীয়ঃ ॥ ১৪৫ ॥
 
 sva-nigamam apahāya mat-pratijñām  
+His own promise  giving up  my promise  
 ṛtam adhikartum avapluto ratha-sthaḥ  
+true  to make  He jumped down  standing on the chariot  
 dhṛta-ratha-caraṇo ’bhyayāc calad-gur  
-harir iva hantum ibhaṁ gatottarīyaḥ
+holding the chariot wheel  He rushed  the earth trembling  
+harir iva hantum ibhaṁ gatottarīyaḥ  
+a lion  like  to kill  an elephant  His upper cloth fallen
 
-(145) [not yet translated]
+(145) “To make my promise true, He gave up His own: He leapt down from the chariot, took up a chariot wheel and rushed at me like a lion going to kill an elephant, so that the earth trembled, and His upper cloth fell away” (Śrīmad-Bhāgavatam 1.9.37).
 
 এইমত প্রভু তোমার বিচ্ছেদ সহিয়া ৷  
 তোমার প্রতিজ্ঞা রক্ষা কৈল যত্ন করিয়া ॥ ১৪৬ ॥
