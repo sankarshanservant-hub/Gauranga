@@ -1197,6 +1197,7 @@ tr: “Give me leave to go and see the Lord’s feet; otherwise my life will not
 w: hearing  his  father  many  men and goods  giving
 w: sent him  saying  quickly  come  returning
 tr: Hearing this, his father gave him many men and provisions and sent him off, saying, “Come back quickly.”
+fn: The edition (p. 620) puts the father’s words in quotation marks (‘śīghra āsiha phiriyā’); the closing mark, lost in the base text, has been restored.
 
 ## 234
 w: seven  days  in Śāntipura  with the Lord  he stays
@@ -1222,6 +1223,7 @@ tr: “Be steady and go home; do not act like a madman. Step by step a person re
 w: monkey renunciation  not  practise  people  showing
 w: as befits  worldly things  accept  unattached  becoming
 tr: Do not make a show of monkey renunciation (*markaṭa-vairāgya*) for people to see. Accept worldly things as is fitting, but without attachment.
+fn: *Amṛta-pravāha-bhāṣya*: monkey renunciation (*markaṭa-vairāgya*) is when the heart is full of thoughts of worldly pleasure while outwardly one wears the *kaupīna* and other signs of renunciation. *Anubhāṣya*: monkeys live without house or clothing as if detached, yet never stop gratifying their senses; such renunciation for show is called *markaṭa-vairāgya*.
 
 ## 239
 w: within  firm faith  keep  outwardly  worldly  conduct
@@ -1256,7 +1258,7 @@ tr: Seeing this, his father and mother were very happy, and the watch over him w
 ## 245
 w: here  the Lord  together  gathering  all  the devotees
 w: Advaita, Nityānanda and others  all  the devotees
-tr: Here, meanwhile, the Lord gathered all the devotees together — Advaita, Nityānanda and all the others —
+tr: Meanwhile the Lord gathered all His devotees together, Advaita, Nityānanda and all the others,
 
 ## 246
 w: everyone  embrace  making  says  Gosāñi
@@ -1346,12 +1348,13 @@ tr: In learning, devotion, intelligence and strength they are supremely accompli
 ## 263
 w: their  humility  seeing  hearing  a stone  splits
 w: I  pleased  becoming  then  said  to both
-tr: Seeing and hearing their humility, even a stone would break. Pleased with them, I said to them both,
+tr: At the sight and sound of their humility even a stone would break. Pleased with them, I said to them both,
 
 ## 264
 w: exalted  being  low  as  you consider  yourselves
 w: soon  will make  Kṛṣṇa  your  deliverance
 tr: ‘Though you are exalted, you consider yourselves low. Kṛṣṇa will soon deliver you.’
+fn: *Anubhāṣya*: Rūpa and Sanātana are Kṛṣṇa’s eternally perfect associates in Vraja; they play the part of conditioned souls only in the eyes of worldly people, and Kṛṣṇa will soon “deliver” them by engaging them in His eternal service.
 
 ## 265
 w: this  saying  I  when  leave  to them  gave
@@ -1371,7 +1374,7 @@ tr: Yet I only heard it and paid it no heed. In the morning I set out and came t
 ## 268
 w: at night  in My mind  I  consideration  made
 w: Sanātana  to Me  what  riddle  spoke
-tr: At night I thought over in My mind what riddle it was that Sanātana had told Me.
+tr: That night I pondered in My mind the riddle that Sanātana had told Me.
 
 ## 269
 w: well  indeed  he spoke  My  so many  people  with Me
@@ -1391,7 +1394,8 @@ tr: Mādhavendra Purī went there alone, and on the pretext of bringing him milk
 ## 272
 w: a juggler’s  show  setting up  I went  there
 w: with a crowd  to Vṛndāvana  journey  not  one makes
-tr: I set out for there like a juggler staging his show. One does not go to Vṛndāvana with a crowd.
+tr: I was travelling there like a juggler with his show. One does not go to Vṛndāvana with a crowd.
+fn: *Amṛta-pravāha-bhāṣya*: the *bādiyā*, or *bede*, are wandering jugglers; wherever they set up their show a crowd gathers, and the Lord was going to Vṛndāvana with just such a crowd, which was not good.
 
 ## 273
 w: alone  I shall go  or  with  servant  one
@@ -1437,6 +1441,7 @@ tr: “Wherever You stay, there is Vṛndāvana, and there are the Yamunā, the 
 w: still  to Vṛndāvana  You go  people  to teach
 w: that very thing  You will do  Your  which  takes  heart
 tr: Still, You go to Vṛndāvana to teach people. You will do just what Your heart decides.
+fn: *Anubhāṣya*: Mahāprabhu’s heart is itself Vṛndāvana, the place of Śrī Rādhākānta’s pastimes; still, to teach people, He goes to the earthly Vṛndāvana.
 
 ## 282
 w: now  ahead  have come  Lord  of the rains  four  months
@@ -1472,6 +1477,7 @@ tr: The Paṇḍita’s affection at that meal and the Lord’s relishing of it 
 w: in this  way  the pastimes of Gaura  endless  boundless
 w: in brief  I tell;  to tell  not  goes  in full
 tr: Such are Gaura’s pastimes, endless and boundless. I tell them in brief, for they cannot be told in full.
+fn: The second line is the same as in Ādi 13.53.
 
 ## 289
 w: with a thousand mouths  tells  Himself  Ananta
@@ -1482,3 +1488,4 @@ tr: Ananta Himself tells of them with His thousand mouths, yet He cannot reach t
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The verse = Madhya 7.155 (the closing refrain); the translation is the same as there.

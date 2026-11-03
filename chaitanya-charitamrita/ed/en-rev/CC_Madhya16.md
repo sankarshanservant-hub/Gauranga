@@ -2329,14 +2329,14 @@ otherwise  not  remains  my  in the body  life
 (232) “Give me leave to go and see the Lord’s feet; otherwise my life will not stay in my body.”
 
 শুনি’ তাঁর পিতা বহু লোক-দ্রব্য দিয়া ৷  
-পাঠাইল বলি’ ‘শীঘ্র আসিহ ফিরিয়া ॥ ২৩৩ ॥
+পাঠাইল বলি’ ‘শীঘ্র আসিহ ফিরিয়া’ ॥ ২৩৩ ॥
 
 śuni’ tām̐ra pitā bahu loka-dravya diyā  
 hearing  his  father  many  men and goods  giving  
-pāṭhāila bali’ ‘śīghra āsiha phiriyā  
+pāṭhāila bali’ ‘śīghra āsiha phiriyā’  
 sent him  saying  quickly  come  returning
 
-(233) Hearing this, his father gave him many men and provisions and sent him off, saying, “Come back quickly.”
+(233) Hearing this, his father gave him many men and provisions and sent him off, saying, “Come back quickly.”[^34]
 
 সাত দিন শান্তিপুরে প্রভুসঙ্গে রহে ৷  
 রাত্রি-দিবসে এই মনঃকথা কহে ॥ ২৩৪ ॥
@@ -2386,7 +2386,7 @@ monkey renunciation  not  practise  people  showing
 yathā-yogya viṣaya bhuñja’ anāsakta hañā  
 as befits  worldly things  accept  unattached  becoming
 
-(238) Do not make a show of monkey renunciation (*markaṭa-vairāgya*) for people to see. Accept worldly things as is fitting, but without attachment.
+(238) Do not make a show of monkey renunciation (*markaṭa-vairāgya*) for people to see. Accept worldly things as is fitting, but without attachment.[^35]
 
 অন্তরে নিষ্ঠা কর, বাহ্যে লোক ব্যবহার ৷  
 অচিরাৎ কৃষ্ণ তোমায় করিবে উদ্ধার ॥ ২৩৯ ॥
@@ -2456,7 +2456,7 @@ here  the Lord  together  gathering  all  the devotees
 advaita-nityānandādi yata bhakta-jana  
 Advaita, Nityānanda and others  all  the devotees
 
-(245) Here, meanwhile, the Lord gathered all the devotees together — Advaita, Nityānanda and all the others —
+(245) Meanwhile the Lord gathered all His devotees together, Advaita, Nityānanda and all the others,
 
 সবা আলিঙ্গন করি’ কহেন গোসাঞি ৷  
 সবে আজ্ঞা দেহ’ আমি নীলাচলে যাই ॥ ২৪৬ ॥
@@ -2636,7 +2636,7 @@ their  humility  seeing  hearing  a stone  splits
 āmi tuṣṭa hañā tabe kahilum̐ dom̐hāre  
 I  pleased  becoming  then  said  to both
 
-(263) Seeing and hearing their humility, even a stone would break. Pleased with them, I said to them both,
+(263) At the sight and sound of their humility even a stone would break. Pleased with them, I said to them both,
 
 উত্তম হঞা হীন করি’ মানহ আপনারে ৷  
 অচিরে করিবে কৃষ্ণ তোমার উদ্ধারে ॥ ২৬৪ ॥
@@ -2646,7 +2646,7 @@ exalted  being  low  as  you consider  yourselves
 acire karibe kṛṣṇa tomāra uddhāre  
 soon  will make  Kṛṣṇa  your  deliverance
 
-(264) ‘Though you are exalted, you consider yourselves low. Kṛṣṇa will soon deliver you.’
+(264) ‘Though you are exalted, you consider yourselves low. Kṛṣṇa will soon deliver you.’[^36]
 
 এত কহি’ আমি যবে বিদায় তাঁরে দিল ৷  
 গমনকালে সনাতন ‘প্রহেলী’ কহিল ॥ ২৬৫ ॥
@@ -2686,7 +2686,7 @@ at night  in My mind  I  consideration  made
 sanātana more kibā ‘prahelī’ kahila  
 Sanātana  to Me  what  riddle  spoke
 
-(268) At night I thought over in My mind what riddle it was that Sanātana had told Me.
+(268) That night I pondered in My mind the riddle that Sanātana had told Me.
 
 ভাল ত’ কহিল, — মোর এত লোক সঙ্গে ৷  
 লোক দেখি কহিবে মোরে — ‘এই এক ঢঙ্গে’ ॥ ২৬৯ ॥
@@ -2726,7 +2726,7 @@ a juggler’s  show  setting up  I went  there
 bahu-saṅge vṛndāvana gamana nā kare  
 with a crowd  to Vṛndāvana  journey  not  one makes
 
-(272) I set out for there like a juggler staging his show. One does not go to Vṛndāvana with a crowd.
+(272) I was travelling there like a juggler with his show. One does not go to Vṛndāvana with a crowd.[^37]
 
 একা যাইব, কিবা সঙ্গে ভৃত্য একজন ৷  
 তবে সে শোভয় বৃন্দাবনের গমন ॥ ২৭৩ ॥
@@ -2816,7 +2816,7 @@ still  to Vṛndāvana  You go  people  to teach
 seita karibe, tomāra yei laya citte  
 that very thing  You will do  Your  which  takes  heart
 
-(281) Still, You go to Vṛndāvana to teach people. You will do just what Your heart decides.
+(281) Still, You go to Vṛndāvana to teach people. You will do just what Your heart decides.[^38]
 
 এই আগে আইলা, প্রভু, বর্ষার চারি মাস ৷  
 এই চারি মাস কর নীলাচলে বাস ॥ ২৮২ ॥
@@ -2886,7 +2886,7 @@ in this  way  the pastimes of Gaura  endless  boundless
 saṅkṣepe kahiye, kahā nā yāya vistāra  
 in brief  I tell;  to tell  not  goes  in full
 
-(288) Such are Gaura’s pastimes, endless and boundless. I tell them in brief, for they cannot be told in full.
+(288) Such are Gaura’s pastimes, endless and boundless. I tell them in brief, for they cannot be told in full.[^39]
 
 সহস্র-বদনে কহে আপনে ‘অনন্ত’ ৷  
 তবু এক লীলার তেঁহো নাহি পায় অন্ত ॥ ২৮৯ ॥
@@ -2906,7 +2906,7 @@ still  of one  pastime  He  not  reaches  the end
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(290) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+(290) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^40]
 
 ---
 
@@ -2975,3 +2975,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^32]: The second line is the same as in verses 56 and 81 of this chapter.
 
 [^33]: *Anubhāṣya*: Hiraṇya and Govardhana Majumdār were Kāyasthas of a noble family who lived in Śrī Kṛṣṇapura near Saptagrāma (Hooghly district); in those days they collected twelve lakhs of coins in revenue every year.
+
+[^34]: The edition (p. 620) puts the father’s words in quotation marks (‘śīghra āsiha phiriyā’); the closing mark, lost in the base text, has been restored.
+
+[^35]: *Amṛta-pravāha-bhāṣya*: monkey renunciation (*markaṭa-vairāgya*) is when the heart is full of thoughts of worldly pleasure while outwardly one wears the *kaupīna* and other signs of renunciation. *Anubhāṣya*: monkeys live without house or clothing as if detached, yet never stop gratifying their senses; such renunciation for show is called *markaṭa-vairāgya*.
+
+[^36]: *Anubhāṣya*: Rūpa and Sanātana are Kṛṣṇa’s eternally perfect associates in Vraja; they play the part of conditioned souls only in the eyes of worldly people, and Kṛṣṇa will soon “deliver” them by engaging them in His eternal service.
+
+[^37]: *Amṛta-pravāha-bhāṣya*: the *bādiyā*, or *bede*, are wandering jugglers; wherever they set up their show a crowd gathers, and the Lord was going to Vṛndāvana with just such a crowd, which was not good.
+
+[^38]: *Anubhāṣya*: Mahāprabhu’s heart is itself Vṛndāvana, the place of Śrī Rādhākānta’s pastimes; still, to teach people, He goes to the earthly Vṛndāvana.
+
+[^39]: The second line is the same as in Ādi 13.53.
+
+[^40]: The verse = Madhya 7.155 (the closing refrain); the translation is the same as there.
