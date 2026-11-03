@@ -102,6 +102,7 @@ def norm_nums(L, log):
 
 def parse(path, edits=None, log=None):
     L = [l.rstrip('\n') for l in open(path, encoding='utf-8')]
+    L = [l for l in L if l.strip() != '৷']          # одинокая данда отдельной строкой — дефект выгрузки ВЧД (Мадхья 16.115)
     L = norm_nums(L, log if log is not None else [])
     if edits: L = raw_edits(edits, L, log if log is not None else [])
     pend = [l.endswith('\xa0') for l in L]           # конец абзаца в выгрузке antiword
