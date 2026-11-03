@@ -155,3 +155,125 @@ Gāṭholī-grāma is a village near Gopālapura, or Bilchu. Tradition says that
 ## 46
 
 > Subheading: The account of how Śrī Rūpa, wishing to see Gopāla, obtained His *darśana* —
+
+## 47
+
+> Subheading: Gopāla stays for a month in Mathurā, in the house of Viṭhṭhaleśvara, Vallabha's son —
+
+*Viṭhṭhaleśvara.* In the fifth wave of the *Bhakti-ratnākara*: “Viṭhṭhala served [Gopāla]; Kṛṣṇa Caitanya longed intensely to see Him.[^47-1] Śrī Viṭhṭhalanātha was the son of Vallabha Bhaṭṭa; how much love he showed cannot be told. Gopāla came to the village of ‘Gāṭholī’ ‘on a pretext’; seeing Him, Gaurahari was absorbed in singing and dancing. Śrī Dāsa Gosvāmī and others took counsel together and made Śrī Viṭhṭhaleśvara the one in charge of the service. After the passing of his father, Śrī Vallabha Bhaṭṭa, he lived for some time in Mathurā in seclusion.”
+
+Śrī Vallabha Bhaṭṭa had two sons. The elder, “Gopīnātha,” was born in 1432 of the Śaka era, and the younger, “Viṭhṭhalanātha,” was born in 1437 Śaka and left this world in 1507 Śaka. Viṭhṭhala had seven sons: Giridhara, Govinda, Bālakṛṣṇa, Gokuleśa, Raghunātha, Yadunātha and Ghanaśyāma. Viṭhṭhala completed the remaining part of the commentary on the *Brahma-sūtra* that his father had left unfinished, wrote notes (*ṭippanī*) on the *Subodhinī*, and composed the *Vidvan-maṇḍana*, the *Śṛṅgāra-rasa-maṇḍana*, the *Nyāsādeśa-vivaraṇa* and other books. “For a full seventy years and twenty-eight days Śrīmad Viṭhṭhala Dīkṣita shone upon the earth.”
+
+Śrī Mahāprabhu went to Śrī Vṛndāvana in the year before the birth of Viṭhṭhala, Vallabha's son, or in the year before that. When Śrī Rūpa Gosvāmī was old, Śrī Gopāla stayed for a month at the Mathurā residence of Viṭhṭhalanātha, Vallabha's son.
+
+## 48
+
+> Subheading: Śrī Rūpa and his companions behold Gopāla for a month in Mathurā, in the house of Viṭhṭhaleśvara —
+
+## 49
+
+Lokanātha was an utterly detached associate of Śrī Mahāprabhu, a *mahā-bhāgavata* and a *gosvāmī*. Formerly he lived in the village of “Tālakhaḍi” in Yaśohara, and before that in Kācanāpāḍā. His father's name was Padmanābha, and his only younger brother was “Pragalbha.” On the Lord's order Lokanātha lived in Vraja and performed his worship; he gave initiation to only one person, Śrī Narottama Ṭhākura Mahāśaya. Probably out of great humility he forbade anyone to describe his life, and so the *Caritāmṛta* does not tell of him in any detail. To reach “Tālakhaḍi,” one takes the Eastern Bengal Railway line to “Yaśohara” station, from there goes by motorcar to Sonākhāli, from there to Khejurā, and then on foot, or by boat in the rainy season. The descendants of his own brother are especially respected in society under the name “the Bhaṭṭācāryas of Tālakhaḍi.” For an account of his brother's family, see the *Vaiṣṇava-mañjuṣā-samāhṛti*, issue 4.
+
+## 49–52
+
+In the sixth wave of the *Bhakti-ratnākara*: “Gopāla Bhaṭṭa Gosvāmī, supremely merciful; Bhūgarbha and Śrī Lokanātha, abodes of good qualities; Śrī Mādhava, Śrī Paramānanda Bhaṭṭācārya; Śrī Madhu Paṇḍita, whose life is wonderful; the loving Kṛṣṇadāsa, Kṛṣṇadāsa Brahmacārī; Yādava Ācārya, the merciful Nārāyaṇa; Śrī Puṇḍarīkākṣa Gosāñi, Govinda, Īśāna; Śrī Govinda and Vāṇī Kṛṣṇadāsa, exceedingly generous; Śrī Uddhava, who went to Gauḍa from time to time; Dvija Haridāsa, Kṛṣṇadāsa Kavirāja; Śrī Gopāla dāsa, whose deeds are extraordinary; Śrī Gopāla, Mādhava and all the other Vaiṣṇavas.”
+
+## 54
+
+> Subheading: After a month Gopāla and Śrī Rūpa each return to their own place —
+
+## 55
+
+> Subheading: The Lord comes to Kāmyavana —
+
+*Kāmyavana.* In the *Ādi-vārāha*: “The fourth is the forest Kāmyaka, the best of forests. O goddess, one who goes there is honored in My world.” In the fifth wave of the *Bhakti-ratnākara*: “In this Kāmyavana are Kṛṣṇa's enchanting pastimes. You will see many places and *kuṇḍas* here. The *tīrthas* in Kāmyavana are beyond counting.”
+
+## 56
+
+> Subheading: In Vṛndāvana the Lord sees all the places of the pastimes —
+
+## 57
+
+> Subheading: From Vṛndāvana the Lord comes to Nandīśvara, sees Nanda's home and is overwhelmed with love —
+
+*Nandīśvara* is Nanda's home. In the *Bhakti-ratnākara* (wave 5): “Look: around Nandīśvara are *kuṇḍas* and forests; this place of Kṛṣṇa's pastimes purifies the world.”
+
+## 58
+
+> Subheading: The bath in Pāvana-sarovara; the question about the Deities —
+
+## 59
+
+> Subheading: The Lord hears from the people that the Deities of Nanda, Yaśodā and Kṛṣṇa stay in a cave —
+
+## 62
+
+> Subheading: The Lord bows to Nanda and Yaśodā and touches Kṛṣṇa —
+
+## 63
+
+> Subheading: The whole day the Lord sings and dances, and then He comes to Khadiravana —
+
+*Khadiravana.* “The seventh forest on earth is Khadira, renowned in the world.” In the *Bhakti-ratnākara* (wave 5): “Behold Khadiravana, famed throughout the world: merely by going here one attains the world of Viṣṇu.”
+
+## 64
+
+> Subheading: The Lord sees Kṛṣṇa as Śeṣaśāyī, and Lakṣmī —
+
+*Śeṣaśāyī.* In the *Bhakti-ratnākara* (wave 5): “This is ‘Śeṣaśāyī’: here is the Ocean of Milk; here Kṛṣṇa playfully lay down on the bed of Ananta. To see this Deity of Śeṣaśāyī, Śrī Kṛṣṇa Caitanyacandra came here. On seeing Him, His delight grew great, and in that ecstasy of love the Lord lost all composure.”
+
+## 65
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.31.19)
+
+See Ādi 4.173.
+
+## 66
+
+> Subheading: The Lord comes to Khelā-tīrtha, Bhāṇḍīravana and Bhadravana —
+
+*Khelā-tīrtha.* In the fifth wave of the *Bhakti-ratnākara*: “Behold Khelana-vana: here the two brothers play with their friends and give no thought to eating. Their mother lovingly feeds Kṛṣṇa and Balarāma. This place of play is called Śrī Khelā-tīrtha.”
+
+*Bhāṇḍīravana.* In the *Bhakti-ratnākara* (wave 5): “With joy in His heart He goes along the road to Bhāṇḍīra. Now people call it ‘Akṣaya-vaṭa.’ Here Balarāma playfully killed Pralamba; here in Bhāṇḍīra Kṛṣṇa performed many pastimes with His friends.” In the *Vraja-vilāsa-stava* of the *Stavāvalī*: “I worship Bhāṇḍīraka, the place where my Mistress, Rādhā, full of *rasa*, proud of being the most beloved, made wrestlers of Her friends and, becoming a wrestler Herself, longed for a match. And when the slayer of Baka truly came forward to wrestle Her, Rādhā joyfully joined the fight and delighted Madana.”
+
+*Bhadravana.* “There is a forest named Bhadravana, the sixth, an excellent forest.” (*Bhakti-ratnākara*, ibid.:) “By going to Bhadravana one becomes dear to Kṛṣṇa.”
+
+## 67
+
+> Subheading: The Lord sees Śrīvana, Lohavana and Gokula, Kṛṣṇa's birthplace —
+
+*Śrīvana.* “The forest named Bilvavana, the tenth, worshipped by the gods.” (*Bhakti-ratnākara*, ibid.:) “Beautiful is Bilvavana, worshipped by the gods.”
+
+*Lohavana.* “The forest named Lohajaṅgha-vana, guarded by Lohajaṅgha, is the ninth forest, O goddess; it destroys all sins.” (*Bhakti-ratnākara*, wave 5:) “In Lohavana Kṛṣṇa herded the cows wonderfully; here Bhagavān killed the demon Lohajaṅgha.”
+
+*Mahāvana.* “The eighth is Mahāvana; it is always dear to Me.” (*Bhakti-ratnākara*, wave 5:) “Behold the home of Nanda and Yaśodā in Mahāvana. * * Here, look, is the birthplace of Śrī Kṛṣṇacandra. * * Śrī Gokula and Mahāvana are one and the same.”
+
+## 58–67
+
+*Pāvana-sarovara.*[^58-67-1] In the *Mathurā-māhātmya*: “Bathing in the lake Pāvana on the hill of Nandīśvara and seeing Nanda and Yaśodā, one obtains all that one desires.”[^58-67-2] (*Bhakti-ratnākara*, ibid.:) “This Pāvana-sarovara is very dear to Kṛṣṇa.”
+
+In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their son, Śrī Nanda and Yaśodā shine in a wondrous cave. O Śrīnivāsa, Śrī Caitanya Rāya came here and entered the cave to see Them. Śrī Nanda and Yaśodā are on either side, and in the middle is Kṛṣṇacandra; seeing Him, the Lord's eyes lit up with joy. Bowing at the feet of Śrī Nanda and Yaśodā, He touched all of Kṛṣṇa's body in delight, and in the ecstasy of love He began to sing and dance.”
+
+## 68
+
+> Subheading: Seeing the place where the *yamala-arjuna* trees were broken, the Lord is overwhelmed with love —
+
+*Yamalārjuna.* “And there is Yamalārjuna-tīrtha, and a *kuṇḍa* there.” (*Bhakti-ratnākara*, wave 5:) “This place is the *tīrtha* where the *yamala-arjuna* trees were broken. Here Yaśodā bound Kṛṣṇa to the mortar, and Kṛṣṇa playfully allowed Himself to be bound.”
+
+## 69
+
+> Subheading: Then the Lord sees the Yogapīṭha in Mathurā and stays in the house of a disciple of Mādhava Purī —
+
+## 70
+
+> Subheading: Because of the crowds, the Lord leaves and stays at Akrūra-tīrtha —
+
+*Akrūra-tīrtha.* “Akrūra-tīrtha is exceedingly, above all, dear to Hari. Akrūra is truly the king of *tīrthas*, the highest secret of secrets.” (*Bhakti-ratnākara*, wave 5:) “Look, Śrīnivāsa: this is the village of Akrūra. Here Śrī Kṛṣṇa Caitanya Prabhu stayed in seclusion.”
+
+---
+
+[^47-1]: Literally: “Viṭhṭhala's service — the Kṛṣṇa Caitanya *vigraha*; great eagerness to see Him”; the sense of the line is ambiguous.
+
+[^58-67-1]: So in the edition (checked against the scan); in content the note concerns verses 58–62.
+
+[^58-67-2]: The edition reads *kṛṣṇo* (nominative: “Kṛṣṇa, having bathed…”); the translation follows the general sense of the verse.

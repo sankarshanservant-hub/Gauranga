@@ -40,6 +40,14 @@ This hill, Govardhana, is the foremost of Vaiṣṇavas, because, thrilled by th
 
 May you be protected by the left arm of lotus-eyed Śrī Kṛṣṇa, with which He lifted Govardhana, the king of hills, and played with it like a ball.
 
+## 45–47
+
+Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew the hill of Śrī Govardhana to be directly the form of Bhagavān, and they did not climb it. Just as Gopāla gave *darśana* to Śrī Mahāprabhu, so He gave *darśana* to them as well. In his old age Śrī Rūpa Gosvāmī could no longer go to Govardhana, and the desire arose in him to see Gopāla's beauty. Wishing to show mercy to Śrī Rūpa Gosvāmī too, Gopāla raised the same “pretext” of fear of the *mlecchas* and stayed for a month in Mathurā, in the house of Viṭhṭhaleśvara.
+
+## 52
+
+*Laghu-haridāsa*: many Vaiṣṇavas bore the name “Haridāsa,” so other Vaiṣṇavas would add epithets such as “Laghu” (junior) and “Madhyama” (middle) to the Haridāsas' names. The “Laghu-haridāsa” (Choṭa Haridāsa) of Mahāprabhu's time gave up his body at Prayāga; this “Laghu Haridāsa” is someone else.
+
 ---
 
 [^34-1]: So in the edition (checked against the scan); in the verse, and earlier in this same sentence, it is Rāma and Kṛṣṇa.
