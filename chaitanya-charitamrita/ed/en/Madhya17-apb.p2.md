@@ -37,3 +37,7 @@ Mādhava: Veṇī-mādhava.
 ## 156
 
 Viśrāma-tīrtha: the famous Viśrāma-ghāṭa. “Keśava at the birthplace”: the Deity of Śrī Keśavajī at Śrī Kṛṣṇa's birthplace.
+
+## 179
+
+In the western country the *vaiśyas* are divided into several groups: the “Agarwāla,” the “Kalwār,” the “Sānoyāṛ” and others. Of these the Agarwālas are the purest, while the Kalwārs, Sānoyāṛs and other classes have fallen through the faults of their own occupations. Those who serve as priests (*yājana*) for these Kalwārs and Sānoyāṛs are called “Sānoḍiyā brāhmaṇas” and so on. The word “Sānoyāṛ” means “gold merchant” (*suvarṇa-vaṇik*), and the brāhmaṇas who serve them as priests are the “Sānoḍiyā (*varṇa*-) brāhmaṇas.” Since these brāhmaṇas have fallen through the fault of such priestly service, *sannyāsīs* do not eat in their homes.

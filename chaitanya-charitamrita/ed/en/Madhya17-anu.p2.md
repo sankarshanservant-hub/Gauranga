@@ -205,3 +205,65 @@ Prayāga: “that from which comes the excellent (*prakṛṣṭa*) sacrifice (*
 ## 172
 
 > Subheading: The brāhmaṇa infers that the Lord is connected with Mādhavendra —
+
+## 173
+
+> Subheading: Without connection with Mādhavendra, *kṛṣṇa-prema* is nowhere to be had —
+
+## 174
+
+> Subheading: The Bhaṭṭācārya tells who the Lord's *guru* is —
+
+## 165–174
+
+Earlier, too, Śrī Raṅga Purī in Pāṇḍarapura spoke to the Lord in the same way; see Madhya 9.289 and 291.
+
+## 175
+
+> Subheading: The brāhmaṇa brings the Lord to his home and serves Him —
+
+## 176
+
+> Subheading: In humility the brāhmaṇa has the Bhaṭṭācārya cook; the Lord, who upholds the *daiva-varṇāśrama-dharma* favorable to pure *bhakti*, reveals the true meaning of the scriptures and so teaches the people —
+
+## 177
+
+> Subheading: The Lord wishes to take His meal in the home of the brāhmaṇa who received Purī's mercy —
+
+## 178
+
+> Subheading: The conduct of the *ācārya* is the standard for the people — (*Bhagavad-gītā*, ch. 3, verse 21)
+
+See Ādi 3.25.
+
+## 179
+
+> Subheading: Because of his family by birth (*śaukra*), that brāhmaṇa's food is not accepted —
+
+## 180
+
+> Subheading: Recognizing him as a Vaiṣṇava, that is, a pure brāhmaṇa, Purī accepts him as a disciple —
+
+## 181
+
+> Subheading: Hearing that the Lord wishes to eat in his home, the brāhmaṇa speaks in humility —
+
+## 182
+
+In this connection see Madhya 10.136–140.
+
+## 183
+
+> Subheading: The brāhmaṇa's love for Gaura; he censures the followers of *adaiva-varṇāśrama* —
+
+By his family, by birth, that brāhmaṇa, a pure devotee, did not belong to those from whose hands water may be accepted. But he was established in truth and in the *daiva-varṇāśrama* favorable to *bhakti*. Therefore he fearlessly, without hesitation, called “fools” and “wicked” the followers of *adaiva-varṇāśrama*—those who oppose Mahāprabhu and pure *bhakti*, who see caste in a Vaiṣṇava and quibble about *mahā-prasāda*. Here he makes no attempt, under the cover of humility, to lick the feet of the prevailing *smārta* society, hostile to Viṣṇu.
+
+## 184
+
+> Subheading: A description of the various paths of those who follow the religion of the mind (*manodharmī*) —
+
+“One opinion”: only the true *dharma* established on the plane of nondual knowledge (*advaya-jñāna*) is “eternal,” “everlasting” (*sanātana*) and one. In it the goal (*upeya*), or *sādhya*, is one, and so too the means (*upāya*), or *sādhana*, the path (*panthā*), is one, not different from the goal. “Various *dharmas*”: the particular properties of the body and mind of each *jīva*, differing from one *jīva* to another; they are rooted in external vision rather than in the vision of one's self (*ātma-darśana*).
+
+## 185
+
+> Subheading: The saintly act for the good of the people; therefore only the path Mādhavendra showed carries certain meaning, that is, bestows real truth —
