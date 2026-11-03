@@ -41,3 +41,31 @@ Viśrāma-tīrtha: the famous Viśrāma-ghāṭa. “Keśava at the birthplace�
 ## 179
 
 In the western country the *vaiśyas* are divided into several groups: the “Agarwāla,” the “Kalwār,” the “Sānoyāṛ” and others. Of these the Agarwālas are the purest, while the Kalwārs, Sānoyāṛs and other classes have fallen through the faults of their own occupations. Those who serve as priests (*yājana*) for these Kalwārs and Sānoyāṛs are called “Sānoḍiyā brāhmaṇas” and so on. The word “Sānoyāṛ” means “gold merchant” (*suvarṇa-vaṇik*), and the brāhmaṇas who serve them as priests are the “Sānoḍiyā (*varṇa*-) brāhmaṇas.” Since these brāhmaṇas have fallen through the fault of such priestly service, *sannyāsīs* do not eat in their homes.
+
+## 186
+
+Argument by its very nature has no firm ground; the *śrutis* too differ; and one whose opinion does not differ [from others] cannot be a sage. Therefore the truth of *dharma* lies deeply hidden; that is, it is hard to grasp the truth of *dharma* by reading the scriptures. So all other people should walk the path that he whom the *sādhus* have recognized as a “*mahājana*” has called “the path of the scriptures.”
+
+## 190
+
+The twenty-four *ghāṭas* of the Yamunā: (1) Avimukta, (2) Adhirūḍha, (3) Guhya-tīrtha, (4) Prayāga-tīrtha, (5) Kanakhala-tīrtha, (6) Tinduka, (7) Sūrya-tīrtha, (8) Vaṭasvāmī, (9) Dhruva-ghāṭa, (10) Ṛṣi-tīrtha, (11) Mokṣa-tīrtha, (12) Bodha-tīrtha, (13) Gokarṇa, (14) Kṛṣṇa-gaṅgā, (15) Vaikuṇṭha, (16) Asi-kuṇḍa, (17) the Catuḥ-sāmudrika well, (18) Akrūra-tīrtha, (19) the place of the sacrificing brāhmaṇas, (20) Kubjā's well, (21) Raṅga-sthala, (22) Mañca-sthala, (23) the place of the wrestling match and (24) Daśāśvamedha.
+
+## 192
+
+The forests: the twelve forests. East of Śrī Yamunā there are five: Bhadravana, Bilvavana, Lohavana, Bhāṇḍīravana and Mahāvana. West of the Yamunā there are seven: Madhuvana, Tālavana, Kumudavana, Bahulāvana, Kāmavana, Khadiravana and Vṛndāvana.
+
+## 210
+
+Śrī Śuka said: “His beauty steals the composure of women; His pastimes stun the goddess Lakṣmī; His prowess turns Govardhana Hill into a plaything like a ball. His pure qualities lie beyond a *parārdha*; His character delights all people. May my Lord, Kṛṣṇa, the enchanter of the world, whose fame is for the good of the whole world, protect the universe.”
+
+## 212
+
+Śārī said: “The love, beauty, good conduct, skill in dancing and singing, poetic gift and other qualities of Śrīmatī Rādhikā shine, enchanting the heart of Kṛṣṇa, who enchants the mind of the world.”
+
+## 214
+
+Śuka said: “O Śārikā, may Madana-mohana be victorious—He who holds the flute, steals the hearts of the women of the world and sports with the *gopīs*!”
+
+## 216
+
+Śārī replied in jest: “Only when Kṛṣṇa shines beside Rādhā is He ‘Madana-mohana.’ When Śrī Rādhā is not with Him, He, though the enchanter of the universe, is Himself enchanted by Madana.”

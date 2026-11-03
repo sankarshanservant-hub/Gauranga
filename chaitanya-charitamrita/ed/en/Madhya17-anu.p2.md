@@ -281,3 +281,101 @@ In truth, until the real “*mahājana*” is identified, none of the *jīva's* 
 Hearing this, the followers of these so-called *mahājanas*, with their mundane knowledge born of the senses, will offend the feet of Śrī Mahāprabhu and of the pure devotee and say, “This is mere ‘bigotry’!” In their view, Śrī Kṛṣṇa Caitanya Prabhu and Śrī Mādhavendra Purīpāda too are just more *mahājanas* among those named above! Sunk in the stream of thought of the *prākṛta-sahaja-dharma* and turned into advocates of blending spirit and matter, they will of course arrive at just such a conclusion—what doubt or wonder is there in that? But those in whom the transcendental inherent nature (*svarūpa-dharma*) has awakened are illumined by its light and can see the *svarūpa* of every *jīva*. Only the *mahā-bhāgavata*, or *paramahaṁsa*, sees Adhokṣaja, and this is true vision (*sudarśana*); therefore these *niṣkiñcanas* alone are the only real “*mahājanas*.” Śrīla Mādhavendra Purī Gosvāmī too is a *niṣkiñcana mahājana*: there is no envy or deception of people in his conduct. By his conduct he preached the *daiva-varṇāśrama-dharma*; if one follows it, seeing it as the model, the *jīva* who seeks the highest good (*niḥśreyasa*) will surely attain it. Mahāprabhu taught this by showing the model of *daiva-varṇāśrama-dharma*.
 
 The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In the age of Kali the “*mahājanas*” are the four *ācāryas* of the *sampradāyas* of pure Vaiṣṇavas, who preach devotion to Bhagavān. In our *sampradāya* the original “*mahājana*” is the lord of the Gauḍīyas, Śrī Dāmodara Svarūpa. Śrī Rūpa and Sanātana, the dearest associates of the Supreme Truth, Śrī Gaurasundara, whose form is nondifferent from him, and the *sādhus* who follow Śrī Rūpa—all are “*mahājanas*.” Śrīdhara Svāmī, a follower of Śrī Viṣṇusvāmī and a *śuddhādvaita-vādī*, is also a “*mahājana*.” Caṇḍīdāsa, Vidyāpati and Jayadeva are all “*mahājanas*.” But those who see these *mahājanas* as objects of enjoyment—who, instead of “serving” them, rush to measure them as tools for their own petty ends, or to “play *guru* over the *guru*”—those unfortunate people stand very far from these *mahājanas*. Sense gratification, or servitude to *māyā*, comes to them in the guise of an “imaginary *mahājana*”; it deceives them, hides the real path of truth from their senses and leads them astray. Therefore the endeavors of a pure devotee of Bhagavān never become the object of their mundane understanding.
+
+## 186
+
+> Subheading: Only the path of the pure devotee is to be followed — (*Mahābhārata*, Vana-parva, Āraṇeya-parva, ch. 313, verse 117)
+
+(The variant reading *vedā vibhinnāḥ smṛtayo vibhinnāḥ*, “the Vedas differ, the *smṛtis* differ,” is also found.) **tarkaḥ** **apratiṣṭhaḥ** (unsteady, not firm), **śrutayaḥ** **api** (*vibhinnāḥ*: differ, for they show contradictions in addressing people of different qualification); **asau** **ṛṣiḥ** **na** (cannot be called a sage), **yasya** **mataṁ** (conclusion) **bhinnaṁ** **na** (was not); (in such an age, ruled by argument) **dharmasya** (of the eternal *dharma* of the *jīva*) **tattvaṁ** **guhāyāṁ** (in the cave of the heart of the *sampradāya* of pure *sādhus* alone, hidden from the eyes of ordinary people) **nihitam** (is concealed, hidden; therefore) **yena** (by which good path) **mahājanaḥ** (a *sādhu* of earlier times, a servant of Adhokṣaja Acyuta) **gataḥ** (has gone), **saḥ** (that alone) **panthāḥ** (is the pure path).
+
+## 187
+
+> Subheading: The Lord takes His meal in the brāhmaṇa's house —
+
+## 188
+
+> Subheading: Countless people have *darśana* of the Lord —
+
+## 189
+
+> Subheading: At the Lord's *kīrtana* everyone dances —
+
+## 190
+
+> Subheading: After bathing at the twenty-four *ghāṭas* of the Yamunā, the Lord sees the holy places the brāhmaṇa shows Him —
+
+## 192
+
+> Subheading: With that brāhmaṇa the Lord visits the twelve forests —
+
+## 194
+
+> Subheading: The sight of the herd of cows awakens the memory of the pastimes of Vraja and overwhelms the Lord with *prema* —
+
+## 198
+
+> Subheading: A pair of deer rejoice to see the Lord —
+
+## 199
+
+> Subheading: Seeing the Lord, the birds sing sweetly and rejoice —
+
+## 200
+
+> Subheading: Even the trees and creepers thrill with joy and shed tears —
+
+## 202
+
+> Subheading: Seeing the Lord, all beings, moving and unmoving, rejoice and play with the Lord —
+
+## 205
+
+> Subheading: The Lord, maddened by *kṛṣṇa-prema* —
+
+## 206
+
+> Subheading: When the Lord chants Kṛṣṇa's name, all echo “Kṛṣṇa!” —
+
+## 207
+
+> Subheading: The Lord weeps with *prema*, embracing a deer —
+
+## 208
+
+> Subheading: The Lord listens to the parrots sing, the male taking Kṛṣṇa's side, the female Rādhā's —
+
+## 210
+
+> Subheading: The male parrot sings Kṛṣṇa's qualities — (*Govinda-līlāmṛta*, canto 13, verse 29: the male parrot's words to the female)
+
+**yasya** (Kṛṣṇa's) **saundaryaṁ** (enchanting form) **lalanāli-dhairya-dalanaṁ** (whose nature is to shatter the composure of all beautiful women, the girls of Vraja), **yasya** **līlā** (play full of spiritual sport) **ramā-stambhinī** (whose nature is to stun and stir Ramā), **yasya** **vīryaṁ** (prowess) **kandukitādri-varyam** (by which the best of mountains, Govardhana, the king of mountains, was made a ball), **yasya** **pāre-parārdhaṁ** (gone beyond the limit of a *parārdha*, that is, immeasurable) **amalāḥ** (faultless) **guṇāḥ**, **aho** **yasya** **śīlaṁ** (character) **sarva-janānurañjanam** (delighting all people, the devotees), **saḥ** **ayam** **asmat-prabhuḥ** (the sole refuge of servants like me) **viśva-janīna-kīrtiḥ** (whose fame is for the good of all people) **jagan-mohanaḥ** (the most beautiful in the world) **kṛṣṇaḥ** **viśvam** **avatāt** (may He protect).
+
+## 212
+
+> Subheading: The female parrot sings Rādhikā's qualities — (*Govinda-līlāmṛta*, canto 13, verse 30: the female parrot's words to the male)
+
+**śrī-rādhikāyāḥ** **priyatā** (love), **svarūpatā**[^212-1] (extraordinary beauty; or the form of *mahābhāva*, that by which Her own self is revealed [*nirūpyate*]), **su-śīlatā** (fine character, good conduct), **nartana-gāna-cāturī** (skill, expertise or refinement in dancing and singing), **guṇāli-sampat** (Her wealth, a succession of qualities), **kavitā** (poetic gift)—**ca** all of these, **jagan-mano-mohana-citta-mohinī** (enchanting, that is, delighting, the mind of Kṛṣṇa, who enchants the mind of the world), **rājate** (shine).
+
+## 214
+
+> Subheading: The male parrot's song: Kṛṣṇa is “Madana-mohana” — (*Govinda-līlāmṛta*, canto 13, verse 31: the male parrot's words to the female)
+
+**śārike** (O Śārikā), **vaṁśī-dhārī** (the holder of the flute) **jagan-nārī-citta-hārī** (the thief of the hearts of the women of the world, of the fourteen worlds) **gopa-nārībhiḥ** (with the girls of Vraja) **vihārī** (absorbed in sport), **saḥ** (that famous) **madana-mohanaḥ** **jīyāt** (may He reign supreme over all).
+
+## 216
+
+> Subheading: The female parrot's song: Kṛṣṇa is Madana-mohana because of Śrī Rādhā — (*Govinda-līlāmṛta*, canto 13, verse 32: the female parrot's words to the male)
+
+(O Śuka,) **yadā** (when) (Kṛṣṇa) **rādhā-saṅge** **bhāti** (shines), **tadā** (only then is) (Kṛṣṇa) **madana-mohanaḥ**; **anyathā** (otherwise, when Kṛṣṇa is without Rādhā's company, He) **svayam** (Himself) **viśva-mohaḥ** (the enchanter of the world) **api** **svayaṁ** **madana-mohitaḥ** (is enchanted by Madana, Kandarpa—by the principle “Searching for Rādhikā here and there, His heart tormented by the wounds of Anaṅga's arrows…”[^216-1]).
+
+## 217
+
+> Subheading: Seeing the peacocks, the Lord remembers Kṛṣṇa's form and faints —
+
+## 219
+
+> Subheading: The brāhmaṇa and the Bhaṭṭācārya try to bring the Lord back to consciousness —
+
+*Santarpaṇa*: careful service.
+
+*Thus ends the seventeenth chapter of the “Anubhāṣya.”*
