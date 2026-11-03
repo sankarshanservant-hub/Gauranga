@@ -758,7 +758,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 208
 
-> Subheading: Who Bijulī Khān, the leader of the Paṭhān troop, was —
+> Subheading: Who Bijalī Khān, the leader of the Paṭhān troop, was —
 
 ## 209
 
@@ -774,7 +774,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 212
 
-> Subheading: The greatness of Bijulī Khān, a *mahā-bhāgavata*, spread everywhere —
+> Subheading: The greatness of Bijalī Khān, a *mahā-bhāgavata*, spread everywhere —
 
 ## 213
 
