@@ -922,217 +922,271 @@ Miśra’s son  Raghu  does  massaging of the feet
 ‘প্রভু আইলা’ শুনি’ চন্দ্রশেখর আইল ॥ ৯১ ॥
 
 prabhura ‘śeṣānna’ miśra savaṁśe khāila  
-‘prabhu āilā’ śuni’ candraśekhara āila
+the Lord’s  remnants of food  Miśra  with all his family  ate  
+‘prabhu āilā’ śuni’ candraśekhara āila  
+the Lord  has come  hearing  Candraśekhara  came
 
-(91) [not yet translated]
+(91) Miśra and all his family ate the Lord’s remnants. Hearing that the Lord had come, Candraśekhara came too.
 
 মিশ্রের সখা তেঁহো প্রভুর পূর্ব্ব দাস ৷  
 বৈদ্যজাতি, লিখনবৃত্তি, বারাণসী-বাস ॥ ৯২ ॥
 
 miśrera sakhā teṅho prabhura pūrva dāsa  
-vaidya-jāti, likhana-vṛtti, vārāṇasī-vāsa
+Miśra’s  friend  he  the Lord’s  old  servant  
+vaidya-jāti, likhana-vṛtti, vārāṇasī-vāsa  
+a vaidya by caste  a scribe by profession  living in Vārāṇasī
 
-(92) [not yet translated]
+(92) He was Miśra’s friend and an old servant of the Lord. A *vaidya* by caste and a scribe by profession, he lived in Vārāṇasī.
 
 আসি’ প্রভু-পদে পড়ি’ করেন রোদন ৷  
 প্রভু তাঁরে কৃপায় উঠি’ কৈল আলিঙ্গন ॥ ৯৩ ॥
 
 āsi’ prabhu-pade paḍi’ karena rodana  
-prabhu tāṅre kṛpāya uṭhi’ kaila āliṅgana
+coming  at the Lord’s feet  falling  he does  weeping  
+prabhu tāṅre kṛpāya uṭhi’ kaila āliṅgana  
+the Lord  him  mercifully  rising  made  embrace
 
-(93) [not yet translated]
+(93) He came, fell at the Lord’s feet and wept, and the Lord rose and mercifully embraced him.
 
 চন্দ্রশেখর কহে, — প্রভু, বড় কৃপা কৈলা ৷  
 আপনে আসিয়া ভৃত্যে দরশন দিলা ॥ ৯৪ ॥
 
 candraśekhara kahe, — prabhu, baḍa kṛpā kailā  
-āpane āsiyā bhṛtye daraśana dilā
+Candraśekhara  says  —  O Lord  great  mercy  You have shown  
+āpane āsiyā bhṛtye daraśana dilā  
+Yourself  coming  to Your servant  darśana  You gave
 
-(94) [not yet translated]
+(94) Candraśekhara said, “Lord, You have shown me great mercy: You came Yourself to give Your servant Your darśana.
 
 আপন-‘প্রারব্ধে’ বসি’ বারাণসী-স্থানে ৷  
 ‘মায়া’, ‘ব্রহ্ম’ শব্দ বিনা নাহি শুনি কানে ॥ ৯৫ ॥
 
 āpana-‘prārabdhe’ vasi’ vārāṇasī-sthāne  
-‘māyā’, ‘brahma’ śabda vinā nāhi śuni kāne
+by my own prārabdha  living  in Vārāṇasī  
+‘māyā’, ‘brahma’ śabda vinā nāhi śuni kāne  
+māyā  Brahman  words  except  not  I hear  with my ears
 
-(95) [not yet translated]
+(95) By my own *prārabdha*, the karma now bearing fruit, I live in Vārāṇasī, and my ears hear nothing but the words ‘*māyā*’ and ‘Brahman.’
 
 ষড়্দর্শন-ব্যাখ্যা বিনা কথা নাহি এথা ৷  
 মিশ্র কৃপা করি’ মোরে শুনান কৃষ্ণকথা ॥ ৯৬ ॥
 
 ṣaḍ-darśana-vyākhyā vinā kathā nāhi ethā  
-miśra kṛpā kari’ more śunāna kṛṣṇa-kathā
+of the six philosophies the explanation  except  talk  there is no  here  
+miśra kṛpā kari’ more śunāna kṛṣṇa-kathā  
+Miśra  mercy  showing  to me  makes hear  talks of Kṛṣṇa
 
-(96) [not yet translated]
+(96) Here there is no talk but explanations of the six philosophies. Only Miśra, in his kindness, lets me hear about Kṛṣṇa.
 
 নিরন্তর দুঁহে চিন্তি তোমার চরণ ৷  
 ‘সর্ব্বজ্ঞ ঈশ্বর’ তুমি দিলা দরশন ॥ ৯৭ ॥
 
 nirantara duṅhe cinti tomāra caraṇa  
-‘sarvajña īśvara’ tumi dilā daraśana
+constantly  we two  meditate  on Your  feet  
+‘sarvajña īśvara’ tumi dilā daraśana  
+the omniscient  Lord  You  have given  darśana
 
-(97) [not yet translated]
+(97) We two constantly meditate on Your feet, and You, the omniscient Lord, have given us Your darśana.
 
 শুনি, — ‘মহাপ্রভু’ যাবেন শ্রীবৃন্দাবনে ৷  
 দিন কত রহি’ তার’ ভৃত্য দুইজনে ॥ ৯৮ ॥
 
 śuni, — ‘mahāprabhu’ yābena śrī-vṛndāvane  
-dina kata rahi’ tāra’ bhṛtya dui-jane
+I hear  —  Mahāprabhu  will go  to Śrī Vṛndāvana  
+dina kata rahi’ tāra’ bhṛtya dui-jane  
+days  a few  staying  deliver  servants  two
 
-(98) [not yet translated]
+(98) I hear that Mahāprabhu is going to Śrī Vṛndāvana. Stay a few days and deliver Your two servants.”
 
 মিশ্র কহে, — প্রভু, যাবৎ কাশীতে রহিবা ৷  
 মোর নিমন্ত্রণ বিনা অন্য না মানিবা ॥ ৯৯ ॥
 
 miśra kahe, — prabhu, yāvat kāśīte rahibā  
-mora nimantraṇa vinā anya nā mānibā
+Miśra  says  —  O Lord  as long as  in Kāśī  You stay  
+mora nimantraṇa vinā anya nā mānibā  
+my  invitation  except  any other  not  You will accept
 
-(99) [not yet translated]
+(99) Miśra said, “Lord, as long as You stay in Kāśī, please accept no invitation but mine.”
 
 এইমত মহাপ্রভু দুই ভৃত্যের বশে ৷  
 ইচ্ছা নাহি, তবু তথা রহিলা দিন-দশে ॥ ১০০ ॥
 
 ei-mata mahāprabhu dui bhṛtyera vaśe  
-icchā nāhi, tabu tathā rahilā dina-daśe
+thus  Mahāprabhu  of two  servants  under the control  
+icchā nāhi, tabu tathā rahilā dina-daśe  
+desire  there was none  yet  there  He stayed  for ten days
 
-(100) [not yet translated]
+(100) So Mahāprabhu, yielding to His two servants, stayed there ten days, though He had no wish to.
 
 মহারাষ্ট্রীয় বিপ্র আইসে প্রভু দেখিবারে ৷  
 প্রভুর রূপ-প্রেম দেখি’ হয় চমৎকারে ॥ ১০১ ॥
 
 mahārāṣṭrīya vipra āise prabhu dekhibāre  
-prabhura rūpa-prema dekhi’ haya camatkāre
+a Mahārāṣṭrian  brāhmaṇa  comes  the Lord  to see  
+prabhura rūpa-prema dekhi’ haya camatkāre  
+the Lord’s  beauty and love  seeing  becomes  amazed
 
-(101) [not yet translated]
+(101) A brāhmaṇa from Mahārāṣṭra would come to see the Lord, and he was amazed to see the Lord’s beauty and love.
 
 বিপ্র সব নিমন্ত্রয়, প্রভু নাহি মানে ৷  
 প্রভু কহে, — আজি মোর হঞাছে নিমন্ত্রণে ॥ ১০২ ॥
 
 vipra saba nimantraya, prabhu nāhi māne  
-prabhu kahe, — āji mora hañāche nimantraṇe
+the brāhmaṇas  all  invite  the Lord  not  accepts  
+prabhu kahe, — āji mora hañāche nimantraṇe  
+the Lord  says  —  today  My  there has been  invitation
 
-(102) [not yet translated]
+(102) All the brāhmaṇas invited Him, but the Lord would not accept. “Today I already have an invitation,” He would say.
 
 এইমত প্রতিদিন করেন বঞ্চন ৷  
 সন্ন্যাসীর সঙ্গ-ভয়ে না মানেন নিমন্ত্রণ ॥ ১০৩ ॥
 
 ei-mata prati-dina karena vañcana  
-sannyāsīra saṅga-bhaye nā mānena nimantraṇa
+thus  every day  He does  evading  
+sannyāsīra saṅga-bhaye nā mānena nimantraṇa  
+of the sannyāsīs  of the company  in fear  not  He accepts  invitations
 
-(103) [not yet translated]
+(103) In this way He evaded them every day. Wary of the company of the *sannyāsīs*, He accepted no invitations.
 
 প্রকাশানন্দ শ্রীপাদ সভাতে বসিয়া ৷  
 ‘বেদান্ত’ পড়ান বহু শিষ্যগণ লঞা ॥ ১০৪ ॥
 
 prakāśānanda śrīpāda sabhāte vasiyā  
-‘vedānta’ paḍāna bahu śiṣya-gaṇa lañā
+Prakāśānanda  Śrīpāda  in the assembly  sitting  
+‘vedānta’ paḍāna bahu śiṣya-gaṇa lañā  
+Vedānta  teaches  many  disciples  taking
 
-(104) [not yet translated]
+(104) Prakāśānanda Śrīpāda sat in his assembly and taught Vedānta to his many disciples.
 
 এক বিপ্র দেখি’ আইলা প্রভুর ব্যবহার ৷  
 প্রকাশানন্দ-আগে কহে চরিত্র তাঁহার ॥ ১০৫ ॥
 
 eka vipra dekhi’ āilā prabhura vyavahāra  
-prakāśānanda-āge kahe caritra tāṅhāra
+one  brāhmaṇa  having seen  came  the Lord’s  conduct  
+prakāśānanda-āge kahe caritra tāṅhāra  
+before Prakāśānanda  tells  the character  His
 
-(105) [not yet translated]
+(105) One brāhmaṇa who had seen the Lord’s conduct came and told Prakāśānanda about Him.
 
 এক সন্ন্যাসী আইলা জগন্নাথ হৈতে ৷  
 তাঁহার মহিমা-প্রতাপ না পারি বর্ণিতে ॥ ১০৬ ॥
 
 eka sannyāsī āilā jagannātha haite  
-tāṅhāra mahimā-pratāpa nā pāri varṇite
+one  sannyāsī  has come  Jagannātha  from  
+tāṅhāra mahimā-pratāpa nā pāri varṇite  
+His  glory and power  not  I can  describe
 
-(106) [not yet translated]
+(106) “A *sannyāsī* has come from Jagannātha Purī. I cannot describe His glory and power.
 
 সকল দেখিয়ে তাঁতে অদ্ভুত-কথন ৷  
 প্রকাণ্ড-শরীর, শুদ্ধকাঞ্চন-বরণ ॥ ১০৭ ॥
 
 sakala dekhiye tāṅte adbhuta-kathana  
-prakāṇḍa-śarīra, śuddha-kāñcana-varaṇa
+everything  I see  in Him  wonderful to tell  
+prakāṇḍa-śarīra, śuddha-kāñcana-varaṇa  
+a tall body  the colour of pure gold
 
-(107) [not yet translated]
+(107) Everything I see in Him is wonderful to tell: His body is tall and powerful, and His complexion is like pure gold.
 
 আজানুলম্বিত ভুজ, কমল-নয়ন ৷  
 যত কিছু ঈশ্বরের সর্ব্ব সল্লক্ষণ ॥ ১০৮ ॥
 
 ājānu-lambita bhuja, kamala-nayana  
-yata kichu īśvarera sarva sal-lakṣaṇa
+reaching to the knees  arms  lotus eyes  
+yata kichu īśvarera sarva sal-lakṣaṇa  
+whatever  there are  of the Lord  all  auspicious marks
 
-(108) [not yet translated]
+(108) His arms reach to His knees, His eyes are like lotuses, and He bears every auspicious mark of the Lord.
 
 তাহা দেখি’ জ্ঞান হয় — ‘এই নারায়ণ’ ৷  
 যেই তাঁরে দেখে, করে কৃষ্ণসংকীর্ত্তন ॥ ১০৯ ॥
 
 tāhā dekhi’ jñāna haya — ‘ei nārāyaṇa’  
-yei tāṅre dekhe, kare kṛṣṇa-saṁkīrtana
+that  seeing  the understanding  arises  —  this  is Nārāyaṇa  
+yei tāṅre dekhe, kare kṛṣṇa-saṁkīrtana  
+whoever  Him  sees  does  the saṅkīrtana of Kṛṣṇa
 
-(109) [not yet translated]
+(109) Seeing these marks, one understands, ‘This is Nārāyaṇa.’ Whoever sees Him begins to chant the names of Kṛṣṇa.
 
 ‘মহাভাগবত’-লক্ষণ শুনি ভাগবতে ৷  
 সে সব লক্ষণ প্রকট দেখিয়ে তাঁহাতে ॥ ১১০ ॥
 
 ‘mahā-bhāgavata’-lakṣaṇa śuni bhāgavate  
-se saba lakṣaṇa prakaṭa dekhiye tāṅhāte
+of a mahā-bhāgavata the marks  I hear  in the Bhāgavata  
+se saba lakṣaṇa prakaṭa dekhiye tāṅhāte  
+those  all  marks  manifest  I see  in Him
 
-(110) [not yet translated]
+(110) I hear in the *Bhāgavata* the marks of a *mahā-bhāgavata*, a great devotee, and I see all those marks plainly in Him.
 
 ‘নিরন্তর কৃষ্ণনাম’ জিহ্বা তাঁর গায় ৷  
 দুই-নেত্রে অশ্রু বহে গঙ্গাধারা-প্রায় ॥ ১১১ ॥
 
 ‘nirantara kṛṣṇa-nāma’ jihvā tāṅra gāya  
-dui-netre aśru vahe gaṅgā-dhārā-prāya
+unceasingly  Kṛṣṇa’s name  tongue  His  sings  
+dui-netre aśru vahe gaṅgā-dhārā-prāya  
+from His two eyes  tears  flow  like the streams of the Gaṅgā
 
-(111) [not yet translated]
+(111) His tongue sings Kṛṣṇa’s name unceasingly, and tears flow from His eyes like the streams of the Gaṅgā.
 
 ক্ষণে নাচে, হাসে, গায়, করয়ে ক্রন্দন ৷  
 ক্ষণে হুহুঙ্কার করে, — সিংহের গর্জ্জন ॥ ১১২ ॥
 
 kṣaṇe nāce, hāse, gāya, karaye krandana  
-kṣaṇe huhuṅkāra kare, — siṁhera garjana
+at times  He dances  laughs  sings  does  weeping  
+kṣaṇe huhuṅkāra kare, — siṁhera garjana  
+at times  loud roars  He makes  —  of a lion  the roaring
 
-(112) [not yet translated]
+(112) At times He dances, laughs, sings and weeps; at times He roars like a lion.
 
 জগৎমঙ্গল তাঁর ‘কৃষ্ণচৈতন্য’-নাম ৷  
 নাম, রূপ, গুণ তাঁর, সব — অনুপম ॥ ১১৩ ॥
 
 jagat-maṅgala tāṅra ‘kṛṣṇa-caitanya’-nāma  
-nāma, rūpa, guṇa tāṅra, saba — anupama
+auspicious for the world  His  name “Kṛṣṇa Caitanya”  
+nāma, rūpa, guṇa tāṅra, saba — anupama  
+name  form  qualities  His  all  —  incomparable
 
-(113) [not yet translated]
+(113) His name, ‘Kṛṣṇa Caitanya,’ brings good to the whole world. His name, form and qualities are all beyond compare.
 
 দেখিলে সে জানি তাঁর ‘ঈশ্বরের রীতি’ ৷  
 অলৌকিক কথা শুনি’ কে করে প্রতীতি ? ॥ ১১৪ ॥
 
 dekhile se jāni tāṅra ‘īśvarera rīti’  
-alaukika kathā śuni’ ke kare pratīti?
+seeing  then  one knows  His  of the Lord  ways  
+alaukika kathā śuni’ ke kare pratīti?  
+uncommon  account  hearing  who  will make  belief
 
-(114) [not yet translated]
+(114) When you see Him, you know that His ways are the ways of the Lord. But who would believe such an extraordinary account just by hearing it?”
 
 শুনিয়া প্রকাশানন্দ বহুত হাসিলা ৷  
 বিপ্রে উপহাস করি’ কহিতে লাগিলা ॥ ১১৫ ॥
 
 śuniyā prakāśānanda bahuta hāsilā  
-vipre upahāsa kari’ kahite lāgilā
+hearing  Prakāśānanda  much  laughed  
+vipre upahāsa kari’ kahite lāgilā  
+at the brāhmaṇa  mockery  making  to speak  began
 
-(115) [not yet translated]
+(115) Hearing this, Prakāśānanda laughed heartily, and mocking the brāhmaṇa, he said,
 
 শুনিয়াছি গৌড়দেশের সন্ন্যাসী — ‘ভাবুক’ ৷  
 কেশব-ভারতী-শিষ্য, লোকপ্রতারক ॥ ১১৬ ॥
 
 śuniyāchi gauḍa-deśera sannyāsī — ‘bhāvuka’  
-keśava-bhāratī-śiṣya, loka-pratāraka
+I have heard  of Gauḍa  the sannyāsī  —  a sentimentalist  
+keśava-bhāratī-śiṣya, loka-pratāraka  
+a disciple of Keśava Bhāratī  a deceiver of people
 
-(116) [not yet translated]
+(116) “I have heard of Him — the sentimental *sannyāsī* from Gauḍa, a disciple of Keśava Bhāratī and a deceiver of people.
 
 ‘চৈতন্য’-নাম তাঁর, ভাবুকগণ লঞা ৷  
 দেশে-দেশে, গ্রামে-গ্রামে বুলে নাচাঞা ॥ ১১৭ ॥
 
 ‘caitanya’-nāma tāṅra, bhāvuka-gaṇa lañā  
-deśe-deśe, grāme-grāme bule nācāñā
+Caitanya  name  His  sentimentalists  taking  
+deśe-deśe, grāme-grāme bule nācāñā  
+from land to land  from village to village  wanders  making them dance
 
-(117) [not yet translated]
+(117) His name is Caitanya. He goes about with His sentimentalists from land to land and village to village, making them dance.
 
 যেই তাঁরে দেখে, সেই ঈশ্বর করি’ কহে ৷  
 ঐছে মোহন-বিদ্যা — যে দেখে, সে মোহে ॥ ১১৮ ॥
@@ -1330,7 +1384,7 @@ when turned toward service  indeed  on the tongue and the rest
 svayam eva sphuraty adaḥ  
 of itself  alone  manifests  this
 
-(136) “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Bhakti-rasāmṛta-sindhu 1.2.234)
+(136) “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu 1.2.234)
 
 ব্রহ্মানন্দ হৈতে পূর্ণানন্দ লীলারস ৷  
 ব্রহ্মজ্ঞানী আকর্ষিয়া করে আত্মবশ ॥ ১৩৭ ॥
@@ -2114,13 +2168,13 @@ the female parrot  recites  then  of Rādhikā  a description
 
 (211) Having heard the description of Kṛṣṇa from the mouth of the male parrot, the female parrot then recited a description of Rādhikā:
 
-শ্রীরাধিকায়াঃ প্রিয়তা সুরূপতা  
+শ্রীরাধিকায়াঃ প্রিয়তা স্বরূপতা  
 সুশীলতা নর্ত্তনগানচাতুরী ৷  
 গুণালিসম্পৎ কবিতা চ রাজতে  
 জগন্মনোমোহন-চিত্তমোহিনী ॥ ২১২ ॥
 
-śrī-rādhikāyāḥ priyatā su-rūpatā  
-of Śrī Rādhikā  the affection  the beauty  
+śrī-rādhikāyāḥ priyatā svarūpatā  
+of Śrī Rādhikā  the affection  the beauty of Her own form  
 su-śīlatā nartana-gāna-cāturī  
 the good character  in dancing  singing  the skill  
 guṇāli-sampat kavitā ca rājate  
@@ -2128,7 +2182,7 @@ of hosts of qualities  the wealth  poetry  and  shine
 jagan-mano-mohana-citta-mohinī  
 of the world’s  minds  of the enchanter  the heart  enchanting
 
-(212) “Śrī Rādhikā’s affection, Her beauty, Her good character, Her skill in dancing and singing, Her wealth of qualities and Her poetry shine forth; they enchant the heart of Him who enchants the minds of the whole world.” (Govinda-līlāmṛta 13.30)
+(212) “Śrī Rādhikā’s affection, the beauty of Her own form, Her good character, Her skill in dancing and singing, Her wealth of qualities and Her poetry shine forth; they enchant the heart of Him who enchants the minds of the whole world.” (Govinda-līlāmṛta 13.30)
 
 পুনঃ শুক কহে, — কৃষ্ণ ‘মদনমোহন’ ৷  
 তবে আর শ্লোক শুক করিল পঠন ॥ ২১৩ ॥
