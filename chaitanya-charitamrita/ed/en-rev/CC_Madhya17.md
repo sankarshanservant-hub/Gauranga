@@ -2156,7 +2156,7 @@ character  all people  delighting  aho  whose  this  our Lord
 viśvaṁ viśva-janīna-kīrtir avatāt kṛṣṇo jagan-mohanaḥ  
 the universe  for all the world beneficial  whose fame  may protect  Kṛṣṇa  the enchanter of the world
 
-(210) (The male parrot recited:) “His beauty shatters the composure of the young women; His pastimes astonish Ramā (Lakṣmī); His strength turns the best of mountains into a ball; His spotless qualities are beyond all counting; His character delights all people. Aho! May our Lord Kṛṣṇa, the enchanter of the world, whose fame is a blessing for the whole world, protect the universe.” (Govinda-līlāmṛta 13.29)
+(210) (The male parrot recited:) “His beauty shatters the composure of the young women; His pastimes astonish Ramā (Lakṣmī); His strength turns the best of mountains into a ball; His spotless qualities are beyond all counting; His character delights all people. Ah, may our Lord Kṛṣṇa, the enchanter of the world, whose fame is a blessing for the whole world, protect the universe!” (Govinda-līlāmṛta, 13.29)
 
 শুক-মুখে শুনি’ তবে কৃষ্ণের বর্ণন ৷  
 শারিকা পড়য়ে তবে রাধিকা-বর্ণন ॥ ২১১ ॥
@@ -2182,7 +2182,7 @@ of hosts of qualities  the wealth  poetry  and  shine
 jagan-mano-mohana-citta-mohinī  
 of the world’s  minds  of the enchanter  the heart  enchanting
 
-(212) “Śrī Rādhikā’s affection, the beauty of Her own form, Her good character, Her skill in dancing and singing, Her wealth of qualities and Her poetry shine forth; they enchant the heart of Him who enchants the minds of the whole world.” (Govinda-līlāmṛta 13.30)
+(212) “Śrī Rādhikā’s affection, the beauty of Her own form, Her good character, Her skill in dancing and singing, Her wealth of qualities and Her poetry shine forth; they enchant the heart of Him who enchants the minds of the whole world.” (Govinda-līlāmṛta, 13.30)[^39]
 
 পুনঃ শুক কহে, — কৃষ্ণ ‘মদনমোহন’ ৷  
 তবে আর শ্লোক শুক করিল পঠন ॥ ২১৩ ॥
@@ -2206,7 +2206,7 @@ who sports  with the cowherd women
 jīyān madana-mohanaḥ  
 may He be victorious  the enchanter of Cupid
 
-(214) “O śārī, He who holds the flute and steals the hearts of the women of the world, who sports with the cowherd women — may that Madana-mohana be victorious!” (Govinda-līlāmṛta 13.31)
+(214) “O Śārikā, He who holds the flute and steals the hearts of the women of the world, who sports with the cowherd maidens — may that Madana-mohana be victorious!” (Govinda-līlāmṛta, 13.31)
 
 পুনঃ শারী কহে শুকে করি’ পরিহাস ৷  
 তাহা শুনি’ প্রভুর হৈল বিস্ময়-প্রেমোল্লাস ॥ ২১৫ ॥
@@ -2230,7 +2230,7 @@ otherwise  the enchanter of the universe  though
 svayaṁ ‘madana-mohitaḥ’  
 Himself  is “madana-mohita”
 
-(216) “When He shines with Rādhā, then He is ‘Madana-mohana,’ the enchanter of Cupid. Otherwise, though He enchants the universe, He Himself is ‘madana-mohita,’ enchanted by Cupid.” (Govinda-līlāmṛta 13.32)
+(216) “When He shines with Rādhā, then He is ‘Madana-mohana,’ the enchanter of Cupid. Otherwise, though He enchants the universe, He Himself is ‘madana-mohita,’ enchanted by Cupid.” (Govinda-līlāmṛta, 13.32)[^40]
 
 শুক-শারী উড়ি’ পুনঃ গেল বৃক্ষডালে ৷  
 ময়ূরের নৃত্য প্রভু দেখে কুতূহলে ॥ ২১৭ ॥
@@ -2486,3 +2486,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^37]: *Anubhāṣya*: *guhā* — the cave of the heart of the *sampradāya* of pure *sādhus*, hidden from the eyes of ordinary people; *mahājana* — the *sādhu*, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the *sādhus* have accepted as a *mahājana* has called “the path of the scriptures”.
 
 [^38]: *Amṛta-pravāha-bhāṣya*: the forests are the twelve forests of Vraja: east of the Yamunā — Bhadravana, Bilvavana, Lohavana, Bhāṇḍīravana and Mahāvana; west of it — Madhuvana, Tālavana, Kumudavana, Bahulāvana, Kāmavana, Khadiravana and Vṛndāvana.
+
+[^39]: The edition reads *svarūpatā* (in the verse and in the gloss of the *Anubhāṣya*); another reading is *su-rūpatā*, “beauty”. *Anubhāṣya*: *svarūpatā* — extraordinary beauty, or the form of *mahābhāva* in which Her own self is revealed.
+
+[^40]: *Anubhāṣya*: when Kṛṣṇa is not with Rādhā, He Himself is enchanted by Madana (Kandarpa), as in the *Gīta-govinda* (3.2): “Having searched for Rādhikā everywhere, His heart tormented by the wounds of Anaṅga’s arrows…”
