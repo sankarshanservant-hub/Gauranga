@@ -105,3 +105,103 @@ The dialogue of Maitreya and Vidura. The demigods were terrified by the power of
 ## 145
 
 > Subheading: The Lord promises to give out *prema* for a single price—eager longing (*laulya*) —
+
+The small price is eager longing (*laulya*)—greed (*lobha*), or taste (*ruci*)—for service to Kṛṣṇa; it cannot be gained without self-surrender. The verse of the *Padyāvalī* quoted at Madhya 8.70 should be considered here.
+
+## 146
+
+> Subheading: Having shown mercy to the brāhmaṇa, the Lord sets out for Mathurā —
+
+## 147
+
+> Subheading: The three follow the Lord and, at His insistence, return —
+
+## 148
+
+> Subheading: The three sing the Lord's qualities together —
+
+## 149
+
+> Subheading: Coming to Prayāga and bathing, the Lord dances and sings *kīrtana* on seeing Bindu-mādhava[^149-1] —
+
+Prayāga: “that from which comes the excellent (*prakṛṣṭa*) sacrifice (*yāga*), the fruit of sacrifices.” It is the king of *tīrthas*, the confluence of the Gaṅgā and the Yamunā, or Triveṇī. Not far from the present Allahabad fort lies ancient Pratiṣṭhānapura, the present Jhusi.
+
+## 150
+
+> Subheading: The Yamunā awakens in the Lord the memory of the pastimes of Vraja, and He leaps into the water; the Bhaṭṭācārya pulls Him out —
+
+## 151
+
+> Subheading: For three days in Prayāga the Lord delivers the people —
+
+## 152
+
+> Subheading: The Lord delivers people on the way to Mathurā —
+
+## 153
+
+> Subheading: As He did the southern country before, the Lord delivers the United Provinces too —
+
+## 154
+
+> Subheading: As soon as He sees the Yamunā, the Lord leaps into it —
+
+## 155
+
+> Subheading: At the sight of Mathurā the Lord is overwhelmed by *prema* —
+
+## 156
+
+> Subheading: Bathing at Viśrāma-ghāṭa and *darśana* of Keśava at the Yogapīṭha —
+
+## 157
+
+> Subheading: The people are amazed to see the Lord overwhelmed by *prema* —
+
+## 158
+
+> Subheading: A brāhmaṇa, following the Lord, dances and sings in the ecstasy of *prema* —
+
+## 159
+
+> Subheading: Both dance and sing *kīrtana* —
+
+## 160
+
+> Subheading: The crowd's tumult; the *pūjārī* puts a garland around the Lord's neck —
+
+## 161
+
+> Subheading: The people are convinced that the Lord's *prema* is “not of this world” —
+
+## 162
+
+> Subheading: The reason it is not of this world is shown —
+
+## 163
+
+> Subheading: A firm conclusion —
+
+## 164
+
+> Subheading: Seeing that brāhmaṇa's *prema*, the Lord asks him about himself —
+
+## 166
+
+> Subheading: The brāhmaṇa tells of his *guru*, Śrī Mādhavendra —
+
+## 169
+
+> Subheading: Honoring the brāhmaṇa as His *guru*, the Lord bows at his feet; in fear and reverence the brāhmaṇa bows to the Lord —
+
+## 170
+
+> Subheading: The Lord, the guardian of propriety (*maryādā*), shows humility before His *guru* —
+
+## 171
+
+> Subheading: The brāhmaṇa expresses fear and humility —
+
+## 172
+
+> Subheading: The brāhmaṇa infers that the Lord is connected with Mādhavendra —

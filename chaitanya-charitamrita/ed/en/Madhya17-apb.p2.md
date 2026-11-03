@@ -33,3 +33,7 @@ The breeze, laden with the honeyed fragrance of the *tulasī* mixed with the fil
 ## 149
 
 Mādhava: Veṇī-mādhava.
+
+## 156
+
+Viśrāma-tīrtha: the famous Viśrāma-ghāṭa. “Keśava at the birthplace”: the Deity of Śrī Keśavajī at Śrī Kṛṣṇa's birthplace.
