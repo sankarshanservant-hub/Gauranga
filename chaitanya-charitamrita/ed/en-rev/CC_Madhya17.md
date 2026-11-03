@@ -1216,7 +1216,7 @@ a sannyāsī  in name only  a great conjurer
 ‘kāśīpure’ nā vikābe tām̐ra bhāvakāli  
 in Kāśī  not  will sell  His  wares of emotion
 
-(120) “He is a sannyāsī in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.
+(120) “He is a *sannyāsī* in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.[^24]
 
 ‘বেদান্ত’ শ্রবণ কর, না যাইহ তাঁর পাশ ৷  
 উচ্ছৃঙ্খল-লোক-সঙ্গে দুইলোক-নাশ ॥ ১২১ ॥
@@ -1226,7 +1226,7 @@ Vedānta  hearing  do  do not  go  His  to the side
 ucchṛṅkhala-loka-saṅge dui-loka-nāśa  
 of unruly people  in the company  of both worlds  ruin
 
-(121) “Keep hearing Vedānta and do not go near Him. The company of unruly people ruins both this world and the next.”
+(121) “Keep hearing Vedānta and do not go near Him. The company of unruly people ruins both this world and the next.”[^25]
 
 এত শুনি’ সেই বিপ্র মহাদুঃখ পাইলা ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ তথা হৈতে উঠি’ গেলা ॥ ১২২ ॥
@@ -1286,7 +1286,7 @@ in three times  the name of Kṛṣṇa  not  came  his  to the mouth
 ‘avajñā’te nāma laya, śuni’ pāi duḥkhe  
 with contempt  the name  he takes  hearing  I feel  pain
 
-(127) “But in all three times the name of Kṛṣṇa never came to his lips. He takes Your name with contempt, and hearing it pains me.
+(127) “But in all three times the name of Kṛṣṇa never came to his lips. He takes Your name with contempt, and hearing it pains me.[^26]
 
 ইহার কারণ মোরে কহ কৃপা করি’ ৷  
 তোমা দেখি’ মুখ মোর বলে ‘কৃষ্ণ’ ‘হরি’ ॥” ॥ ১২৮ ॥
@@ -1306,7 +1306,7 @@ the Lord  says  Māyāvādīs  to Kṛṣṇa  are offenders
 ‘brahma’, ‘ātmā’, ‘caitanya’ kahe niravadhi  
 Brahman  ātmā  caitanya  they say  incessantly
 
-(129) The Lord said, “The Māyāvādīs are offenders against Kṛṣṇa. They incessantly say ‘Brahman,’ ‘ātmā,’ ‘caitanya’ (consciousness).
+(129) The Lord said, “The Māyāvādīs are offenders against Kṛṣṇa. They incessantly say ‘Brahman,’ ‘ātmā,’ ‘caitanya’ (consciousness).[^27]
 
 অতএব তার মুখে না আইসে কৃষ্ণনাম ৷  
 ‘কৃষ্ণনাম’, ‘কৃষ্ণস্বরূপ’ — দুইত ‘সমান’ ॥ ১৩০ ॥
@@ -1350,7 +1350,7 @@ complete  pure  eternally  liberated
 ’bhinnatvān nāma-nāminoḥ  
 because of non-difference  of the name  and the named
 
-(133) “The name is a wish-fulfilling gem; it is Kṛṣṇa Himself, the embodiment of consciousness and rasa — complete, pure and eternally liberated, for the name and the named are not different.” (Padma Purāṇa)
+(133) “The name is a wish-fulfilling gem; it is Kṛṣṇa Himself, the embodiment of consciousness and rasa — complete, pure and eternally liberated, for the name and the named are not different.” (Padma Purāṇa; Viṣṇu-dharmottara)[^28]
 
 অতএব কৃষ্ণের ‘নাম’, ‘দেহ’, ‘বিলাস’ ৷  
 প্রাকৃতেন্দ্রিয়-গ্রাহ্য নহে, হয় স্বপ্রকাশ ॥ ১৩৪ ॥
@@ -1384,7 +1384,7 @@ when turned toward service  indeed  on the tongue and the rest
 svayam eva sphuraty adaḥ  
 of itself  alone  manifests  this
 
-(136) “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu 1.2.234)
+(136) “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu, 1.2.234)
 
 ব্রহ্মানন্দ হৈতে পূর্ণানন্দ লীলারস ৷  
 ব্রহ্মজ্ঞানী আকর্ষিয়া করে আত্মবশ ॥ ১৩৭ ॥
@@ -1402,15 +1402,15 @@ the knower of Brahman  attracting  makes  subject to itself
 তমখিলবৃজিনঘ্নং ব্যাসসূনুং নতোঽস্মি ॥ ১৩৮ ॥
 
 sva-sukha-nibhṛta-cetās tad vyudastānya-bhāvo  
-in his own happiness  secluded  whose mind  therefore  having cast off other  feelings  
+in his own happiness  filled  whose mind  therefore  having cast off other  feelings  
 ’py ajita-rucira-līlākṛṣṭa-sāras tadīyam  
-yet  by the Unconquered One’s  charming  pastimes  attracted  whose heart  about Him  
+yet  by the Unconquerable One’s  charming  pastimes  attracted  whose heart  about Him  
 vyatanuta kṛpayā yas tattva-dīpaṁ purāṇaṁ  
 composed  out of mercy  who  of the truth  the lamp  the Purāṇa  
 tam akhila-vṛjina-ghnaṁ vyāsa-sūnuṁ nato ’smi  
 to him  of all  sins  the destroyer  to the son of Vyāsa  bowed am I
 
-(138) “His mind was absorbed in the happiness of the self, and so he had cast off every other feeling; yet his heart was drawn by the charming pastimes of the Unconquered Lord, and out of mercy he composed the Purāṇa about Him, the lamp of the truth. To him, the son of Vyāsa, the destroyer of all sins, I bow down.” (Śrīmad-Bhāgavatam 12.12.69)
+(138) “His mind was filled with the happiness of the self, and so he had cast off every other feeling; yet his heart was drawn by the charming pastimes of the Unconquerable Lord, and in his mercy he brought forth the lamp of truth, the Purāṇa that tells of Him. To him, the son of Vyāsa, destroyer of all sins, I bow down.” (Śrīmad-Bhāgavatam, 12.12.69)[^29]
 
 ব্রহ্মানন্দ হৈতে পূর্ণানন্দ কৃষ্ণগুণ ৷  
 অতএব আকর্ষয়ে আত্মারামের মন ॥ ১৩৯ ॥
@@ -1434,7 +1434,7 @@ perform  causeless  devotion
 ittham-bhūta-guṇo hariḥ  
 of such  qualities  is Hari
 
-(140) “Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.” (Śrīmad-Bhāgavatam, 1.7.10)
+(140) “Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.” (Śrīmad-Bhāgavatam, 1.7.10)[^30]
 
 এই সব রহু — কৃষ্ণচরণ-সম্বন্ধে ৷  
 আত্মারামের মন হরে তুলসীর গন্ধে ॥ ১৪১ ॥
@@ -1444,7 +1444,7 @@ these  all  let them be  with Kṛṣṇa’s feet  in connection
 ātmārāmera mana hare tulasīra gandhe  
 of the ātmārāma  the mind  steals  of tulasī  the fragrance
 
-(141) “Let all this be. The fragrance of tulasī that has touched Kṛṣṇa’s feet steals the mind of one who delights in the self.
+(141) “But leave all this aside: the very fragrance of tulasī that has touched Kṛṣṇa’s feet steals the mind of one who delights in the self.
 
 তস্যারবিন্দনয়নস্য পদারবিন্দ-  
 কিঞ্জল্কমিশ্রতুলসীমকরন্দবায়ুঃ ৷  
@@ -1460,7 +1460,7 @@ having entered within  through its own passage  caused  in them
 saṅkṣobham akṣara-juṣām api citta-tanvoḥ  
 agitation  devoted to the imperishable Brahman  even  of mind and body
 
-(142) “The breeze, carrying the fragrance of the tulasī mixed with the filaments of the lotus feet of the lotus-eyed Lord, entered within them through their nostrils and stirred both mind and body, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam 3.15.43)
+(142) “The breeze, carrying the fragrance of the tulasī mixed with the filaments of the lotus feet of the lotus-eyed Lord, entered within them through their nostrils and stirred both mind and body, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)
 
 অতএব ‘কৃষ্ণনাম’ না আইসে তার মুখে ৷  
 মায়াবাদি-গণ, যাতে মহা-বহির্ম্মুখে ॥ ১৪৩ ॥
@@ -1490,7 +1490,7 @@ heavy  load  bringing  I came  how  taking it  shall I go
 alpa-svalpa-mūlya pāile, ethāi veciba  
 a small  a trifling  price  if I get  right here  I shall sell
 
-(145) “I came with a heavy load — how can I carry it back? If I get even a small price, I will sell it right here.”
+(145) “I came with a heavy load — how can I carry it back? If I get even a small price, I will sell it right here.”[^31]
 
 এত বলি’ সেই বিপ্রে আত্মসাৎ করি’ ৷  
 প্রাতে উঠি’ মথুরা চলিলা গৌরহরি ॥ ১৪৬ ॥
@@ -2456,3 +2456,19 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^22]: *Anubhāṣya*: Prakāśānanda was an *ekadaṇḍī sannyāsī* of Śaṅkara’s line who lived in Kāśī in Mahāprabhu’s time; the Lord Himself speaks of him in the *Caitanya-bhāgavata* (Madhya 3 and 20): explaining the Vedas, he rejects His form (*vigraha*) and calls His body, pastimes and abode false. He is in no way the same person as the *tridaṇḍī-svāmī* Śrī Prabodhānanda Sarasvatī, a follower of Rāmānuja from Śrī Raṅga-kṣetra, the guru and uncle of Śrīla Gopāla Bhaṭṭa Gosvāmī.
 
 [^23]: *Anubhāṣya*: *bhāvuka*, “sentimentalist”: so the Māyāvādī Prakāśānanda calls the Lord, for he confuses Mahāprabhu’s transcendental *bhāva* with the artificial, short-lived fervour of those who follow a religion of the mind (*mano-dharma*); even the pure devotee’s spiritual chanting, dancing and music he puts on a level with worldly song and dance. Edition heading: “Prakāśānanda spews the poison of his Māyāvāda.”
+
+[^24]: *Amṛta-pravāha-bhāṣya*: *bhāvakāli* — the ways of a *bhāvuka*, a sentimentalist. The Lord takes up this image in verses 144–145.
+
+[^25]: *Amṛta-pravāha-bhāṣya*: the unruly are those who have broken the bonds of scriptural injunctions.
+
+[^26]: *Anubhāṣya*: *doṣa* — blasphemy. Names such as ‘Brahman’, ‘Caitanya’, ‘Ātmā’, ‘Paramātmā’ and ‘Īśvara’, as the Māyāvādī understands them, point only in part to Kṛṣṇa’s majesty, never to His generosity and sweetness. The Māyāvādīs do not believe that the name, form, qualities and pastimes of the Absolute are spiritual, and so they are great offenders; one who seeks the highest good should not hear talk of the highest goal from their lips.
+
+[^27]: *Amṛta-pravāha-bhāṣya*: the Māyāvādī calls the form of Bhagavān “a form made of *māyā*” and holds His name, form, qualities and pastimes to be non-eternal. Rejecting Kṛṣṇa’s principal names (*mukhya-nāma*), he utters secondary ones (*gauṇa-nāma*) — ‘Brahman’, ‘Ātmā’, ‘Caitanya’. Even if “Kṛṣṇa” or “Govinda” escapes his lips, the name of Kṛṣṇa still does not come from his mouth, for he takes it to be an ordinary, mundane word.
+
+[^28]: The source as in the edition’s heading: “a saying of the *Padma Purāṇa* and the *Viṣṇu-dharmottara*”. *Anubhāṣya*: *kṛṣṇaḥ* — the name is Kṛṣṇa Himself in His original form; *pūrṇaḥ* — *māyā* cannot divide it; *śuddhaḥ* — it is unmixed with *māyā*.
+
+[^29]: *Anubhāṣya*: having finished telling the *Bhāgavatam* to the sages headed by Śaunaka, Śrī Sūta Gosvāmī bows down to his guru, Śrīla Śuka Gosvāmī, Brahmarāta; *sva-sukha-nibhṛta-cetāḥ* — one whose heart is full of the happiness of the self, an *ātmārāma*.
+
+[^30]: The same verse as Madhya 6.186; translation as there.
+
+[^31]: *Anubhāṣya*: the small price is eager longing (*laulya*), greed (*lobha*), or taste (*ruci*) for the service of Kṛṣṇa; it cannot be had without self-surrender (compare the verse of the *Padyāvalī* cited in Madhya 8.70). *Amṛta-pravāha-bhāṣya*: the Lord sells this heavy load to the *jīvas* for its full price, faith (*śraddhā*), but here He will give it even for a small one — a mere semblance of faith (*śraddhābhāsa*).
