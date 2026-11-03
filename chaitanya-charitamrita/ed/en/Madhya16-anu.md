@@ -249,3 +249,55 @@ For the story of Sākṣi-gopāla see Madhya 5.8–138.
 ## 72
 
 > Subheading: The Lord indicates the marks of the “intermediate Vaiṣṇava” —
+
+Know the Vaiṣṇava on whose lips the name of Śrī Kṛṣṇa sounds “constantly” to be better than “the junior (*kaniṣṭha*) Vaiṣṇava of tender faith, who utters the name of Kṛṣṇa only once” — that is, know him to be an “intermediate *bhāgavata*” (*madhyama-bhāgavata*), and serve his feet. In the *Upadeśāmṛta*, with the words *praṇatibhiś ca bhajantam īśam*, Śrī Rūpa Gosvāmī instructs *bhāgavatas* of the *madhyama-adhikārī* level to deal with one another by offering “obeisances.”
+
+“Constantly” (*nirantara*): *antara* means “interval,” and *nirantara* is that in which there is no interval. The interval, or obstruction, is the absence of activity of the conscious faculty (*cetana-vṛtti*) in the form of other desires (*anyābhilāṣa*), *karma*, *jñāna* and laxity (*śaithilya*) — that is, inertness (*jāḍya*). As Śrī Rūpa Prabhu says: “The highest devotion is the cultivation of service to Kṛṣṇa in a favorable spirit, free from other desires and not covered by *jñāna*, *karma* and the like.” (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, first *laharī*) Or else, by the word *antara* are meant: “the body” (*deha*), that is, sense gratification; “wealth” (*draviṇa*), the endeavor to amass money impurely; “people” (*janatā*), the company of the unworthy, that is, bad company; “greed” (*lobha*), greed of the tongue, or covetousness; and godlessness (*pāṣaṇḍatā*). Godlessness is to regard the form of Viṣṇu as “matter” — stone, wood, gold, brass and so on; the guru as a “mortal”; the Vaiṣṇava as belonging to a “caste” or as “earthly”; the water that has washed the feet of Viṣṇu and the Vaiṣṇava as ordinary “water”; the name and *mantra* of Viṣṇu, or the name given by the genuine guru, as “sound like any worldly sound.” Godlessness is also to think that Viṣṇu, the Lord of all lords, or Śrī Kṛṣṇa — the original form (*svayaṁ-rūpa*), the Truth higher than Viṣṇu — and Their own potencies are equal to the other gods, who depend on the three modes. In the end it is the endeavor to realize the self, the conscious, by relying on the non-self, the inert, or to derive it from the inert; it is the knowledge that places the transcendental Reality on a level with worldly, partial things measurable by the senses; or, in other words, to regard Śrī Hari, guru and Vaiṣṇava with a dualistic mind as “others.” All this gives rise to offenses. Śrī Jīva Prabhu says in the *Bhakti-sandarbha* (*anuccheda* 265): “In the verse ‘He on whose tongue there is even one name, in whose memory it is…’ and so on, the ten offenses are indicated by the word *pāṣaṇḍa* connected with body, wealth and the like, for they all are godlessness.” Further: “One who has love (*prema*) for the Lord, friendship for those dependent on Him, mercy for the ignorant and indifference toward the hostile is a *madhyama* (an intermediate devotee).” (*Śrīmad-Bhāgavatam* 11.2.46) And in the instructions to Sanātana (Madhya 22): “One who has faith is qualified for devotion. According to faith, devotees are ‘highest,’ ‘intermediate’ and ‘junior.’ <…> One who does not know the reasoning of the scriptures well but whose faith is firm is a ‘*madhyama-adhikārī*,’ most fortunate. <…> Devotees are ranked higher and higher according to the degree of their *rati* and *prema*.” (*Caitanya-caritāmṛta*, Madhya 22.64, 66, 68)
+
+In the intermediate *bhāgavata*, love (*prīti*) for Śrī Nāma grows. Therefore, worshiping Śrī Nāma constantly with the highest love in the sacrifice of *kīrtana*, he directs his *prema* to Bhagavān. Constantly filled with love for the transcendental Śrī Nāma and engaged in its cultivation, he can understand himself as a “transcendental servant of Kṛṣṇa” (*kṛṣṇa-dāsa*). Moreover, at times he shows mercy to a devotee whose taste for Śrī Nāma is comparatively small, explaining to him his transcendental nature (*svarūpa*). But the hostile person, wholly devoid of love for the pure devotee and for Bhagavān, he regards as “devoid of realization of Kṛṣṇa's transcendental nature, with his conscious faculty covered, entirely worldly,” and gives up his company. The intermediate *adhikārī* can also understand the components, that is, the paraphernalia, of pure devotion as “transcendental.”
+
+## 73
+
+> Subheading: Later they again ask the marks of a Vaiṣṇava; the Lord's answer —
+
+## 74
+
+> Subheading: The Lord indicates the marks of the *uttama-adhikārī*, or *mahā-bhāgavata* —
+
+Know the Vaiṣṇava at whose sight the name of Kṛṣṇa comes naturally to the viewer's lips to be a *mahā-bhāgavata*, perfect in his very nature (*svarūpa-siddha*). The activity of his consciousness is fully awakened, kindled, uncovered; in other words, he is wholly engaged in serving Kṛṣṇa in pure, unmixed *prema*. Therefore he always remains in the waking state. Endowed with knowledge and realization of Bhagavān (*jñāna* and *vijñāna*), he sees Kṛṣṇa, or what belongs to Kṛṣṇa, everywhere; from his holy mouth the pure name of Śrī Kṛṣṇa constantly and beautifully resounds. Himself possessed of divine vision, he is able to open the closed eyes of ignorance of other *jīvas* who sleep the sleep of delusion — forgetfulness of Kṛṣṇa, that is, aversion to Kṛṣṇa. In other words, he can free them from inertness, give them divine vision, awaken the activity of their consciousness and engage them forever in the service of Kṛṣṇa and of what belongs to Kṛṣṇa. Sayings such as “Each of them holds the power to deliver the universe” and “Until a touchstone turns iron into gold by its touch, no one can recognise it as a touchstone” (*Caitanya-caritāmṛta*, Madhya 6.279) are spoken of just such devotees. Śrī Rūpa Gosvāmī writes in the *Upadeśāmṛta*: “And one who is expert in *bhajana*, exclusively devoted, and whose heart is free from blaming others and the like should be honored with service, for his company is the gain one longs for.” He follows completely the verse *tṛṇād api sunīcena*, spoken by the Lord's holy mouth. According to Madhya 9.36–37, he is Kṛṣṇa in the form of the shelter (*āśraya*), that is, a *mahā-bhāgavata*; he alone performs pure Hari-*kīrtana*. Therefore the intermediate *bhāgavata* should always long to hear from just such a person — one who does not see high and low in the material world, whose heart is free from blaming others — and satisfy him by every kind of service. Then at last, by the power of his mercy, that *madhyama-adhikārī* will gain the good fortune to become an *uttama-adhikārī*. “He who sees in all beings the love for Bhagavān that lives in his own soul, and sees all beings in Bhagavān, the Soul of all, is the best of *bhāgavatas*.” (*Śrīmad-Bhāgavatam* 11.2.45) In the instructions to Sanātana (Madhya 22): “One who has faith is qualified for devotion. According to faith, devotees are ‘highest,’ ‘intermediate’ and ‘junior.’ One who is expert in the reasoning of the scriptures and whose faith is firm is an ‘*uttama-adhikārī*’; he delivers the world.” (*Caitanya-caritāmṛta*, Madhya 22.64–65) Toward the three realities — “Bhagavān,” “devotion” and “the devotee” — the *mahā-bhāgavata* has a transcendental, unrestricted vision full of *prema*; apart from this he has no other vision: “he knows only this: everyone worships Kṛṣṇa.” Therefore he is one whom Kṛṣṇa Himself has accepted as His own.
+
+## 75
+
+> Subheading: The Lord indicates the marks of the Vaiṣṇava on three levels (*adhikāra*) —
+
+## 76
+
+> Subheading: All but Puṇḍarīka return to Gauḍa —
+
+## 77
+
+> Subheading: The friendship of Puṇḍarīka and Svarūpa —
+
+## 78
+
+> Subheading: Prema-nidhi again gives the *mantra* to Gadādhara and sees the Oḍana-ṣaṣṭhī —
+
+## 79
+
+> Subheading: The story of Puṇḍarīka and Jagannātha's starched cloth —
+
+## 81
+
+> Subheading: This is described in the *Caitanya-bhāgavata* —
+
+## 82
+
+> Subheading: Every year the Gauḍīya devotees come and see the festivals and so on —
+
+## 83
+
+> Subheading: The author promises to describe the special events of those years —
+
+## 84
+
+> Subheading: Four years of pastimes in Nīlācala with the devotees, two years for the journey south and back —
