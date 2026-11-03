@@ -378,4 +378,68 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 *Santarpaṇa*: careful service.
 
+## 221
+
+> Subheading: Kṛṣṇa's name is chanted loudly into the Lord's ear; the Lord regains consciousness and rolls on the ground —
+
+## 222
+
+> Subheading: Through the Bhaṭṭācārya's care the Lord recovers —
+
+## 223
+
+> Subheading: In the ecstasy of *prema* the Lord calls on all to chant the name of Hari —
+
+## 224
+
+> Subheading: The chanting of Kṛṣṇa's name; the Lord goes on —
+
+## 225
+
+> Subheading: The brāhmaṇa is amazed and anxious for the Lord —
+
+## 226
+
+> Subheading: On the way from Purī to Vṛndāvana the Lord's *prema* grows stronger —
+
+## 227
+
+> Subheading: At the sight of Mathurā His *prema* is stronger still, and wandering in Vṛndāvana, stronger yet —
+
+## 228
+
+> Subheading: Having come to Vṛndāvana itself, the Lord is constantly immersed in deep *kṛṣṇa-prema* —
+
+## 229
+
+> Subheading: The Lord performs His daily duties out of habit —
+
+## 230
+
+> Subheading: This *prema* of the Lord is indescribable —
+
+## 231
+
+> Subheading: Even Bhagavān Śeṣa cannot describe the *prema* the Lord showed while wandering in Vṛndāvana —
+
+## 232
+
+> Subheading: In this chapter only a general indication of it is given —
+
+## 233
+
+> Subheading: Each touches the flood of Kṛṣṇa Caitanya's pastimes in the measure of the depth of his love for Kṛṣṇa —
+
 *Thus ends the seventeenth chapter of the “Anubhāṣya.”*
+
+---
+
+[^149-1]: So in the edition (checked against the scan). The *Amṛta-pravāha-bhāṣya* on verse 149 has Veṇī-mādhava, the Deity of Prayāga; Bindu-mādhava is the Deity of Vārāṇasī.
+
+[^185-1]: The hypocrite brāhmaṇa of the *Caitanya-bhāgavata* who made a show of imitating Haridāsa Ṭhākura's ecstasy.
+
+[^185-2]: The edition refers to Madhya 25.54–57 but quotes verses 54, 55 and 57; verse 56 is the *Mahābhārata* verse that also appears as Madhya 17.186.
+
+[^212-1]: So in the edition, both in the verse and in the gloss (checked against the scan); Vṛndāvana Candra Dāsa's transliteration has *su-rūpatā*.
+
+[^216-1]: *Gīta-govinda* 3.2.

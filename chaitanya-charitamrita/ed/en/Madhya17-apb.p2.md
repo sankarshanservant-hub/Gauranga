@@ -69,3 +69,9 @@ The forests: the twelve forests. East of Śrī Yamunā there are five: Bhadravan
 ## 216
 
 Śārī replied in jest: “Only when Kṛṣṇa shines beside Rādhā is He ‘Madana-mohana.’ When Śrī Rādhā is not with Him, He, though the enchanter of the universe, is Himself enchanted by Madana.”
+
+## 233
+
+*Pāthāra*: a flood, a rising of the waters.
+
+*Thus ends the seventeenth chapter of the “Amṛta-pravāha-bhāṣya.”*
