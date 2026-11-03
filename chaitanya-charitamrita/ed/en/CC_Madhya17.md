@@ -621,9 +621,11 @@ coming  all  the Bhaṭṭācārya  make  invitation
 বন্য-ব্যঞ্জনে প্রভুর আনন্দিত মন ॥ ৬১ ॥
 
 bhaṭṭācārya pāka kare vanya-vyañjana  
-vanya-vyañjane prabhura ānandita mana
+the Bhaṭṭācārya  cooking  does  of forest vegetables  
+vanya-vyañjane prabhura ānandita mana  
+with the forest vegetables  the Lord’s  delighted  mind
 
-(61) [not yet translated]
+(61) The Bhaṭṭācārya cooked vegetables from the forest, and the Lord was delighted with them.
 
 দুই-চারি দিনের অন্ন রাখেন সংহতি ৷  
 যাঁহা শূন্য বন, লোকের নাহিক বসতি ॥ ৬২ ॥
@@ -632,229 +634,289 @@ vanya-vyañjane prabhura ānandita mana
 ফল-মূলে ব্যঞ্জন করে, বন্য নানা শাক ॥ ৬৩ ॥
 
 dui-cāri dinera anna rākhena saṁhati  
+for two or four  days  grain  he keeps  with him  
 yāṅhā śūnya vana, lokera nāhika vasati  
+where  empty  forest  of people  there is no  dwelling  
 tāṅhā sei anna bhaṭṭācārya kare pāka  
-phala-mūle vyañjana kare, vanya nānā śāka
+there  that  grain  the Bhaṭṭācārya  does  cooking  
+phala-mūle vyañjana kare, vanya nānā śāka  
+from fruits and roots  vegetable dishes  makes  of the forest  various  greens
 
-(62–63) [not yet translated]
+(62–63) He kept grain for two or four days with him. Where the forest was empty and no one lived, the Bhaṭṭācārya cooked that grain and made dishes from fruits, roots and many kinds of forest greens.
 
 পরম সন্তোষ প্রভুর বন্য-ভোজনে ৷  
 মহাসুখ পান, যে-দিন রহেন নির্জ্জনে ॥ ৬৪ ॥
 
 parama santoṣa prabhura vanya-bhojane  
-mahā-sukha pāna, ye-dina rahena nirjane
+supreme  satisfaction  of the Lord  in the forest fare  
+mahā-sukha pāna, ye-dina rahena nirjane  
+great happiness  He finds  on the day  He remains  in solitude
 
-(64) [not yet translated]
+(64) The Lord was perfectly content with the forest fare, and He was happiest on the days He spent in solitude.
 
 ভট্টাচার্য্য সেবা করে, স্নেহে যৈছে ‘দাস’ ৷  
 তাঁর বিপ্র বহে জলপাত্র-বহির্ব্বাস ॥ ৬৫ ॥
 
 bhaṭṭācārya sevā kare, snehe yaiche ‘dāsa’  
-tāṅra vipra vahe jala-pātra-bahirvāsa
+the Bhaṭṭācārya  service  does  with affection  like  a servant  
+tāṅra vipra vahe jala-pātra-bahirvāsa  
+his  brāhmaṇa  carries  the waterpot and the outer cloth
 
-(65) [not yet translated]
+(65) The Bhaṭṭācārya served Him lovingly, like a servant, and his brāhmaṇa carried the waterpot and the outer cloth.
 
 নির্ঝরেতে উষ্ণোদকে স্নান তিনবার ৷  
 দুইসন্ধ্যা অগ্নিতাপ কাষ্ঠের অপার ॥ ৬৬ ॥
 
 nirjharete uṣṇodake snāna tina-bāra  
-dui-sandhyā agni-tāpa kāṣṭhera apāra
+in the springs  in warm water  a bath  three times  
+dui-sandhyā agni-tāpa kāṣṭhera apāra  
+at both twilights  the warmth of a fire  of wood  without limit
 
-(66) [not yet translated]
+(66) He bathed three times a day in the warm water of springs, and at dawn and dusk He sat by a fire, for there was no end of firewood.
 
 নিরন্তর প্রেমাবেশে নির্জ্জনে গমন ৷  
 সুখ অনুভবি’ প্রভু কহেন বচন ॥ ৬৭ ॥
 
 nirantara premāveśe nirjane gamana  
-sukha anubhavi’ prabhu kahena vacana
+constantly  in the ecstasy of love  in solitude  travelling  
+sukha anubhavi’ prabhu kahena vacana  
+happiness  feeling  the Lord  speaks  words
 
-(67) [not yet translated]
+(67) Travelling in solitude, He was constantly absorbed in love. Feeling this happiness, the Lord said:
 
 শুন, ভট্টাচার্য্য, — আমি গেলাঙ বহু-দেশ ৷  
 বনপথে দুঃখের কাঁহা নাহি পাই লেশ ॥ ৬৮ ॥
 
 śuna, bhaṭṭācārya, — āmi gelāṅa bahu-deśa  
-vana-pathe duḥkhera kāṅhā nāhi pāi leśa
+listen  Bhaṭṭācārya  —  I  have gone  through many lands  
+vana-pathe duḥkhera kāṅhā nāhi pāi leśa  
+on the forest path  of hardship  anywhere  not  I find  a trace
 
-(68) [not yet translated]
+(68) “Listen, Bhaṭṭācārya. I have travelled through many lands, but on this forest path I find not a trace of hardship anywhere.
 
 কৃষ্ণ — কৃপালু, আমায় বহুত কৃপা কৈলা ৷  
 বনপথে আনি’ আমায় বড় সুখ দিলা ॥ ৬৯ ॥
 
 kṛṣṇa — kṛpālu, āmāya bahuta kṛpā kailā  
-vana-pathe āni’ āmāya baḍa sukha dilā
+Kṛṣṇa  —  merciful  to Me  great  mercy  He showed  
+vana-pathe āni’ āmāya baḍa sukha dilā  
+by the forest path  bringing  to Me  great  happiness  He gave
 
-(69) [not yet translated]
+(69) Kṛṣṇa is merciful. He has shown Me great mercy: bringing Me by the forest path, He has given Me great happiness.
 
 পূর্ব্বে বৃন্দাবন যাইতে করিলাঙ বিচার ৷  
 মাতা, গঙ্গা, ভক্তগণে দেখিব একবার ॥ ৭০ ॥
 
 pūrve vṛndāvana yāite karilāṅa vicāra  
-mātā, gaṅgā, bhakta-gaṇe dekhiba eka-bāra
+earlier  to Vṛndāvana  going  I made  a plan  
+mātā, gaṅgā, bhakta-gaṇe dekhiba eka-bāra  
+My mother  the Gaṅgā  the devotees  I shall see  once
 
-(70) [not yet translated]
+(70) Earlier, when I set out for Vṛndāvana, I thought, ‘I shall see My mother, the Gaṅgā and the devotees once more.
 
 ভক্তগণ-সঙ্গে অবশ্য করিব মিলন ৷  
 ভক্তগণে সঙ্গে লঞা যাব ‘বৃন্দাবন’ ॥ ৭১ ॥
 
 bhakta-gaṇa-saṅge avaśya kariba milana  
-bhakta-gaṇe saṅge lañā yāba ‘vṛndāvana’
+with the devotees  surely  I shall make  a meeting  
+bhakta-gaṇe saṅge lañā yāba ‘vṛndāvana’  
+the devotees  with Me  taking  I shall go  to Vṛndāvana
 
-(71) [not yet translated]
+(71) I shall surely meet the devotees, and I shall take them with Me to Vṛndāvana.’
 
 এত ভাবি’ গৌড়দেশে করিলুঁ গমন ৷  
 মাতা, গঙ্গা, ভক্তে দেখি’ সুখী হৈল মন ॥ ৭২ ॥
 
 eta bhāvi’ gauḍa-deśe kariluṅ gamana  
-mātā, gaṅgā, bhakte dekhi’ sukhī haila mana
+so  thinking  to Gauḍa  I made  My way  
+mātā, gaṅgā, bhakte dekhi’ sukhī haila mana  
+My mother  the Gaṅgā  the devotees  seeing  happy  became  My mind
 
-(72) [not yet translated]
+(72) With this in mind I went to Gauḍa, and My heart was happy to see My mother, the Gaṅgā and the devotees.
 
 ভক্তগণে লঞা তবে চলিলাঙ রঙ্গে ৷  
 লক্ষকোটি লোক তাঁহা হৈল আমা-সঙ্গে ॥ ৭৩ ॥
 
 bhakta-gaṇe lañā tabe calilāṅa raṅge  
-lakṣa-koṭi loka tāṅhā haila āmā-saṅge
+the devotees  taking  then  I set out  joyfully  
+lakṣa-koṭi loka tāṅhā haila āmā-saṅge  
+hundreds of thousands  of people  there  became  with Me
 
-(73) [not yet translated]
+(73) Then I joyfully set out with the devotees, and hundreds of thousands of people there joined Me.
 
 সনাতন-মুখে কৃষ্ণ আমা শিখাইলা ৷  
 তাহা বিঘ্ন করি’ বনপথে লঞা আইলা ॥ ৭৪ ॥
 
 sanātana-mukhe kṛṣṇa āmā śikhāilā  
-tāhā vighna kari’ vana-pathe lañā āilā
+of Sanātana  through the mouth  Kṛṣṇa  Me  taught  
+tāhā vighna kari’ vana-pathe lañā āilā  
+to that  obstacle  making  by the forest path  taking Me  He brought
 
-(74) [not yet translated]
+(74) Kṛṣṇa taught Me through Sanātana’s mouth. He put an end to that journey and brought Me by the forest path.
 
 কৃপার সমুদ্র, দীন-হীনে দয়াময় ৷  
 কৃষ্ণকৃপা বিনা কোন ‘সুখ’ নাহি হয় ॥ ৭৫ ॥
 
 kṛpāra samudra, dīna-hīne dayāmaya  
-kṛṣṇa-kṛpā vinā kona ‘sukha’ nāhi haya
+of mercy  the ocean  to the poor and fallen  compassionate  
+kṛṣṇa-kṛpā vinā kona ‘sukha’ nāhi haya  
+Kṛṣṇa’s mercy  without  any  happiness  not  there is
 
-(75) [not yet translated]
+(75) He is an ocean of mercy, compassionate to the poor and the fallen. Without Kṛṣṇa’s mercy there is no happiness at all.”
 
 ভট্টাচার্য্যে আলিঙ্গিয়া তাঁহারে কহিল ৷  
 তোমার প্রসাদে আমি এত সুখ পাইল ॥ ৭৬ ॥
 
 bhaṭṭācārye āliṅgiyā tāṅhāre kahila  
-tomāra prasāde āmi eta sukha pāila
+the Bhaṭṭācārya  embracing  to him  He said  
+tomāra prasāde āmi eta sukha pāila  
+by your  grace  I  so much  happiness  have found
 
-(76) [not yet translated]
+(76) Embracing the Bhaṭṭācārya, He said to him, “By your kindness I have found so much happiness.”
 
 তেঁহো কহেন, — তুমি ‘কৃষ্ণ’, তুমি ‘দয়াময়’ ৷  
 অধম জীব মুঞি, মোরে হইলা সদয় ॥ ৭৭ ॥
 
 teṅho kahena, — tumi ‘kṛṣṇa’, tumi ‘dayāmaya’  
-adhama jīva muñi, more hailā sadaya
+he  says  —  You  are Kṛṣṇa  You  are merciful  
+adhama jīva muñi, more hailā sadaya  
+a fallen  soul  I  to me  You have been  kind
 
-(77) [not yet translated]
+(77) He replied, “You are Kṛṣṇa! You are merciful! I am a fallen soul, yet You have been kind to me.
 
 মুঞি ছার, মোরে তুমি সঙ্গে লঞা আইলা ৷  
 কৃপা করি’ মোর হাতে ‘প্রভু’ ভিক্ষা কৈলা ॥ ৭৮ ॥
 
 muñi chāra, more tumi saṅge lañā āilā  
-kṛpā kari’ mora hāte ‘prabhu’ bhikṣā kailā
+I  am insignificant  me  You  with You  taking  have come  
+kṛpā kari’ mora hāte ‘prabhu’ bhikṣā kailā  
+mercy  showing  from my  hand  the Lord  meals  has taken
 
-(78) [not yet translated]
+(78) I am worthless, yet You have brought me with You. In Your mercy, my Lord, You have taken Your meals from my hand.
 
 অধম-কাকেরে কৈলা গরুড়-সমান ৷  
 ‘স্বতন্ত্র ঈশ্বর’ তুমি — স্বয়ং ভগবান্ ॥ ৭৯ ॥
 
 adhama-kākere kailā garuḍa-samāna  
-‘svatantra īśvara’ tumi — svayaṁ bhagavān
+a lowly crow  You have made  equal to Garuḍa  
+‘svatantra īśvara’ tumi — svayaṁ bhagavān  
+the independent  Lord  You  —  Svayam  Bhagavān
 
-(79) [not yet translated]
+(79) You have made a lowly crow equal to Garuḍa. You are the independent Lord, *Svayam Bhagavān* Himself.”
 
 মূকং করোতি বাচালং পঙ্গুং লঙ্ঘয়তে গিরিম্ ৷  
 যৎকৃপা তমহং বন্দে পরমানন্দ-মাধবম্ ॥ ৮০ ॥
 
 mūkaṁ karoti vācālaṁ  
+the mute  makes  eloquent  
 paṅguṁ laṅghayate girim  
+the lame  makes cross  a mountain  
 yat-kṛpā tam ahaṁ vande  
-paramānanda-mādhavam
+whose mercy  to Him  I  bow down  
+paramānanda-mādhavam  
+Mādhava who is the supreme bliss
 
-(80) [not yet translated]
+(80) “I bow down to Mādhava, the supreme bliss, whose mercy makes the mute eloquent and makes the lame cross mountains.” (Śrīdhara Svāmī, Bhāvārtha-dīpikā on Śrīmad-Bhāgavatam 1.1.1)
 
 এইমত বলভদ্র করেন স্তবন ৷  
 প্রেমসেবা করি’ তুষ্ট কৈল প্রভুর মন ॥ ৮১ ॥
 
 ei-mata balabhadra karena stavana  
-prema-sevā kari’ tuṣṭa kaila prabhura mana
+thus  Balabhadra  offers  praise  
+prema-sevā kari’ tuṣṭa kaila prabhura mana  
+loving service  rendering  pleased  he made  the Lord’s  mind
 
-(81) [not yet translated]
+(81) In this way Balabhadra offered praise, and by his loving service he pleased the Lord.
 
 এইমত নানা-সুখে প্রভু আইলা ‘কাশী’ ৷  
 মধ্যাহ্ন-স্নান কৈল মণিকর্ণিকায় আসি’ ॥ ৮২ ॥
 
 ei-mata nānā-sukhe prabhu āilā ‘kāśī’  
-madhyāhna-snāna kaila maṇikarṇikāya āsi’
+thus  in many joys  the Lord  came  to Kāśī  
+madhyāhna-snāna kaila maṇikarṇikāya āsi’  
+His midday bath  He took  at Maṇikarṇikā  coming
 
-(82) [not yet translated]
+(82) So the Lord came joyfully to Kāśī, and there He took His midday bath at Maṇikarṇikā.
 
 সেইকালে তপনমিশ্র করে গঙ্গাস্নান ৷  
 প্রভু দেখি’ হৈল তাঁর কিছু বিস্ময় জ্ঞান ॥ ৮৩ ॥
 
 sei-kāle tapana-miśra kare gaṅgā-snāna  
-prabhu dekhi’ haila tāṅra kichu vismaya jñāna
+at that time  Tapana Miśra  takes  a bath in the Gaṅgā  
+prabhu dekhi’ haila tāṅra kichu vismaya jñāna  
+the Lord  seeing  arose  in him  some  wonder  feeling
 
-(83) [not yet translated]
+(83) At that time Tapana Miśra was bathing in the Gaṅgā. When he saw the Lord, he was struck with wonder.
 
 ‘পূর্ব্বে শুনিয়াছি প্রভু কর্য্যাছেন সন্ন্যাস’ ৷  
 নিশ্চয় করিয়া, হৈল হৃদয়ে উল্লাস ॥ ৮৪ ॥
 
 ‘pūrve śuniyāchi prabhu karyāchena sannyāsa’  
-niścaya kariyā, haila hṛdaye ullāsa
+earlier  I have heard  the Lord  has taken  sannyāsa  
+niścaya kariyā, haila hṛdaye ullāsa  
+certainty  making  arose  in his heart  joy
 
-(84) [not yet translated]
+(84) “I heard earlier that the Lord had taken *sannyāsa*,” he thought, and when he was sure it was He, his heart filled with joy.
 
 প্রভুর চরণ ধরি’ করেন রোদন ৷  
 প্রভু তাঁরে উঠাঞা কৈল আলিঙ্গন ॥ ৮৫ ॥
 
 prabhura caraṇa dhari’ karena rodana  
-prabhu tāṅre uṭhāñā kaila āliṅgana
+the Lord’s  feet  clasping  he does  weeping  
+prabhu tāṅre uṭhāñā kaila āliṅgana  
+the Lord  him  raising  made  embrace
 
-(85) [not yet translated]
+(85) Clasping the Lord’s feet, he wept, and the Lord raised him up and embraced him.
 
 প্রভু লঞা গেলা বিশ্বেশ্বর-দরশনে ৷  
 তবে আসি’ দেখে বিন্দুমাধব চরণে ॥ ৮৬ ॥
 
 prabhu lañā gelā viśveśvara-daraśane  
-tabe āsi’ dekhe bindu-mādhava caraṇe
+the Lord  taking  he went  to the darśana of Viśveśvara  
+tabe āsi’ dekhe bindu-mādhava caraṇe  
+then  coming  sees  Bindu-mādhava’s  feet
 
-(86) [not yet translated]
+(86) He took the Lord to see Viśveśvara, and then they came and saw the feet of Bindu-mādhava.
 
 ঘরে লঞা আইলা প্রভুকে আনন্দিত হঞা ৷  
 সেবা করি’ নৃত্য করে বস্ত্র উড়াঞা ॥ ৮৭ ॥
 
 ghare lañā āilā prabhuke ānandita hañā  
-sevā kari’ nṛtya kare vastra uḍāñā
+home  taking  he brought  the Lord  joyful  becoming  
+sevā kari’ nṛtya kare vastra uḍāñā  
+service  rendering  dance  he does  his cloth  waving
 
-(87) [not yet translated]
+(87) Full of joy, he brought the Lord home, served Him, and danced, waving his cloth.
 
 প্রভুর চরণোদক সবংশে কৈল পান ৷  
 ভট্টাচার্য্যের পূজা কৈল করিয়া সম্মান ॥ ৮৮ ॥
 
 prabhura caraṇodaka savaṁśe kaila pāna  
-bhaṭṭācāryera pūjā kaila kariyā sammāna
+of the Lord  the water from His feet  with all his family  he made  drinking  
+bhaṭṭācāryera pūjā kaila kariyā sammāna  
+of the Bhaṭṭācārya  worship  he made  showing  honour
 
-(88) [not yet translated]
+(88) With all his family he drank the water that had washed the Lord’s feet, and he honoured the Bhaṭṭācārya with worship.
 
 প্রভুরে নিমন্ত্রণ করি’ ঘরে ভিক্ষা দিল ৷  
 বলভদ্র-ভট্টাচার্য্যে পাক করাইল ॥ ৮৯ ॥
 
 prabhure nimantraṇa kari’ ghare bhikṣā dila  
-balabhadra-bhaṭṭācārye pāka karāila
+the Lord  invitation  making  at home  meals  he gave  
+balabhadra-bhaṭṭācārye pāka karāila  
+Balabhadra Bhaṭṭācārya  cooking  he had do
 
-(89) [not yet translated]
+(89) He invited the Lord and fed Him in his home, having Balabhadra Bhaṭṭācārya do the cooking.
 
 ভিক্ষা করি’ মহাপ্রভু করিলা শয়ন ৷  
 মিশ্রপুত্র রঘু করে পাদ-সম্বাহন ॥ ৯০ ॥
 
 bhikṣā kari’ mahāprabhu karilā śayana  
-miśra-putra raghu kare pāda-samvāhana
+meal  taking  Mahāprabhu  made  lying down  
+miśra-putra raghu kare pāda-samvāhana  
+Miśra’s son  Raghu  does  massaging of the feet
 
-(90) [not yet translated]
+(90) After His meal Mahāprabhu lay down to rest, and Miśra’s son Raghu massaged His feet.
 
 প্রভুর ‘শেষান্ন’ মিশ্র সবংশে খাইল ৷  
 ‘প্রভু আইলা’ শুনি’ চন্দ্রশেখর আইল ॥ ৯১ ॥
@@ -2000,25 +2062,31 @@ to the Lord’s  deep voice  as if  an echo
 মৃগের পুলক অঙ্গে, অশ্রু নয়নে ॥ ২০৭ ॥
 
 mṛgera galā dhari’ prabhu karena rodane  
-mṛgera pulaka aṅge, aśru nayane
+of a deer  the neck  embracing  the Lord  makes  weeping  
+mṛgera pulaka aṅge, aśru nayane  
+the deer’s  thrill  on the body  tears  in the eyes
 
-(207) [not yet translated]
+(207) Embracing a deer around the neck, the Lord wept, and the deer’s body thrilled, and tears filled its eyes.
 
 বৃক্ষডালে শুক-শারী দিল দরশন ৷  
 তাহা দেখি’ প্রভুর কিছু শুনিতে হৈল মন ॥ ২০৮ ॥
 
 vṛkṣa-ḍāle śuka-śārī dila daraśana  
-tāhā dekhi’ prabhura kichu śunite haila mana
+on the branch of a tree  a male and a female parrot  gave  sight of themselves  
+tāhā dekhi’ prabhura kichu śunite haila mana  
+that  seeing  in the Lord  something  to hear  arose  a wish
 
-(208) [not yet translated]
+(208) On the branch of a tree a male and a female parrot appeared, and seeing them, the Lord wished to hear them say something.
 
 শুক-শারিকা প্রভুর হাতে উড়ি’ পড়ে ৷  
 প্রভুকে শুনাঞা কৃষ্ণের গুণ-শ্লোক পড়ে ॥ ২০৯ ॥
 
 śuka-śārikā prabhura hāte uḍi’ paḍe  
-prabhuke śunāñā kṛṣṇera guṇa-śloka paḍe
+the male and female parrots  the Lord’s  onto the hand  flying  alight  
+prabhuke śunāñā kṛṣṇera guṇa-śloka paḍe  
+for the Lord  to hear  Kṛṣṇa’s  of qualities  a verse  recite
 
-(209) [not yet translated]
+(209) The parrots flew down onto the Lord’s hand, and for the Lord to hear they began reciting verses about Kṛṣṇa’s qualities.
 
 সৌন্দর্য্যং ললনালিধৈর্য্যদলনং লীলা রমাস্তম্ভিনী  
 বীর্য্যং কন্দুকিতাদ্রিবর্য্যমমলাঃ পারে পরার্দ্ধং গুণাঃ ৷  
@@ -2026,19 +2094,25 @@ prabhuke śunāñā kṛṣṇera guṇa-śloka paḍe
 র্বিশ্বং বিশ্বজনীনকীর্ত্তিরবতাৎ কৃষ্ণো জগন্মোহনঃ ॥ ২১০ ॥
 
 saundaryaṁ lalanāli-dhairya-dalanaṁ līlā ramā-stambhinī  
+beauty  of the rows of young women  the composure  crushing  pastimes  Ramā  astonishing  
 vīryaṁ kandukitādri-varyam amalāḥ pāre parārdhaṁ guṇāḥ  
+prowess  turning into a ball  the mountain  best  spotless  beyond  a parārdha  qualities  
 śīlaṁ sarva-janānurañjanam aho yasyāyam asmat-prabhur  
-viśvaṁ viśva-janīna-kīrtir avatāt kṛṣṇo jagan-mohanaḥ
+character  all people  delighting  aho  whose  this  our Lord  
+viśvaṁ viśva-janīna-kīrtir avatāt kṛṣṇo jagan-mohanaḥ  
+the universe  for all the world beneficial  whose fame  may protect  Kṛṣṇa  the enchanter of the world
 
-(210) [not yet translated]
+(210) (The male parrot recited:) “His beauty shatters the composure of the young women; His pastimes astonish Ramā (Lakṣmī); His strength turns the best of mountains into a ball; His spotless qualities are beyond all counting; His character delights all people. Aho! May our Lord Kṛṣṇa, the enchanter of the world, whose fame is a blessing for the whole world, protect the universe.” (Govinda-līlāmṛta 13.29)
 
 শুক-মুখে শুনি’ তবে কৃষ্ণের বর্ণন ৷  
 শারিকা পড়য়ে তবে রাধিকা-বর্ণন ॥ ২১১ ॥
 
 śuka-mukhe śuni’ tabe kṛṣṇera varṇana  
-śārikā paḍaye tabe rādhikā-varṇana
+from the parrot’s mouth  hearing  then  of Kṛṣṇa  the description  
+śārikā paḍaye tabe rādhikā-varṇana  
+the female parrot  recites  then  of Rādhikā  a description
 
-(211) [not yet translated]
+(211) Having heard the description of Kṛṣṇa from the mouth of the male parrot, the female parrot then recited a description of Rādhikā:
 
 শ্রীরাধিকায়াঃ প্রিয়তা সুরূপতা  
 সুশীলতা নর্ত্তনগানচাতুরী ৷  
@@ -2046,135 +2120,173 @@ viśvaṁ viśva-janīna-kīrtir avatāt kṛṣṇo jagan-mohanaḥ
 জগন্মনোমোহন-চিত্তমোহিনী ॥ ২১২ ॥
 
 śrī-rādhikāyāḥ priyatā su-rūpatā  
+of Śrī Rādhikā  the affection  the beauty  
 su-śīlatā nartana-gāna-cāturī  
+the good character  in dancing  singing  the skill  
 guṇāli-sampat kavitā ca rājate  
-jagan-mano-mohana-citta-mohinī
+of hosts of qualities  the wealth  poetry  and  shine  
+jagan-mano-mohana-citta-mohinī  
+of the world’s  minds  of the enchanter  the heart  enchanting
 
-(212) [not yet translated]
+(212) “Śrī Rādhikā’s affection, Her beauty, Her good character, Her skill in dancing and singing, Her wealth of qualities and Her poetry shine forth; they enchant the heart of Him who enchants the minds of the whole world.” (Govinda-līlāmṛta 13.30)
 
 পুনঃ শুক কহে, — কৃষ্ণ ‘মদনমোহন’ ৷  
 তবে আর শ্লোক শুক করিল পঠন ॥ ২১৩ ॥
 
 punaḥ śuka kahe, — kṛṣṇa ‘madana-mohana’  
-tabe āra śloka śuka karila paṭhana
+again  the parrot  says  Kṛṣṇa  is Madana-mohana  
+tabe āra śloka śuka karila paṭhana  
+then  another  verse  the parrot  made  recitation
 
-(213) [not yet translated]
+(213) Again the male parrot said, “Kṛṣṇa is Madana-mohana, the enchanter of Cupid,” and recited another verse:
 
 বংশীধারী জগন্নারী-চিত্তহারী স শারিকে ৷  
 বিহারী গোপনারীভির্জীয়ান্মদনমোহনঃ ॥ ২১৪ ॥
 
 vaṁśī-dhārī jagan-nārī-  
+the holder of the flute  of the world’s women  
 citta-hārī sa śārike  
+the stealer of the hearts  He  O śārī  
 vihārī gopa-nārībhir  
-jīyān madana-mohanaḥ
+who sports  with the cowherd women  
+jīyān madana-mohanaḥ  
+may He be victorious  the enchanter of Cupid
 
-(214) [not yet translated]
+(214) “O śārī, He who holds the flute and steals the hearts of the women of the world, who sports with the cowherd women — may that Madana-mohana be victorious!” (Govinda-līlāmṛta 13.31)
 
 পুনঃ শারী কহে শুকে করি’ পরিহাস ৷  
 তাহা শুনি’ প্রভুর হৈল বিস্ময়-প্রেমোল্লাস ॥ ২১৫ ॥
 
 punaḥ śārī kahe śuke kari’ parihāsa  
-tāhā śuni’ prabhura haila vismaya-premollāsa
+again  the female parrot  says  to the male  making  a jest  
+tāhā śuni’ prabhura haila vismaya-premollāsa  
+that  hearing  in the Lord  arose  wonder  and the joy of love
 
-(215) [not yet translated]
+(215) Then the female parrot spoke to the male parrot in jest, and hearing her, the Lord was filled with wonder and the joy of love:
 
 রাধা-সঙ্গে যদা ভাতি, তদা ‘মদনমোহনঃ’ ৷  
 অন্যথা বিশ্বমোহোঽপি স্বয়ং ‘মদনমোহিতঃ’ ॥ ২১৬ ॥
 
 rādhā-saṅge yadā bhāti  
+with Rādhā  when  He shines  
 tadā ‘madana-mohanaḥ’  
+then  He is “Madana-mohana”  
 anyathā viśva-moho ’pi  
-svayaṁ ‘madana-mohitaḥ’
+otherwise  the enchanter of the universe  though  
+svayaṁ ‘madana-mohitaḥ’  
+Himself  is “madana-mohita”
 
-(216) [not yet translated]
+(216) “When He shines with Rādhā, then He is ‘Madana-mohana,’ the enchanter of Cupid. Otherwise, though He enchants the universe, He Himself is ‘madana-mohita,’ enchanted by Cupid.” (Govinda-līlāmṛta 13.32)
 
 শুক-শারী উড়ি’ পুনঃ গেল বৃক্ষডালে ৷  
 ময়ূরের নৃত্য প্রভু দেখে কুতূহলে ॥ ২১৭ ॥
 
 śuka-śārī uḍi’ punaḥ gela vṛkṣa-ḍāle  
-mayūrera nṛtya prabhu dekhe kutūhale
+the male and female parrots  flying up  again  went  to the branch of a tree  
+mayūrera nṛtya prabhu dekhe kutūhale  
+of the peacocks  the dance  the Lord  watches  with eagerness
 
-(217) [not yet translated]
+(217) The parrots flew back up to the branch of the tree, and the Lord eagerly watched the dancing of the peacocks.
 
 ময়ূরের কণ্ঠ দেখি’ প্রভুর কৃষ্ণকান্তি-স্মৃতি হৈল ৷  
 প্রেমাবেশে মহাপ্রভু ভূমিতে পড়িল ॥ ২১৮ ॥
 
 mayūrera kaṇṭha dekhi’ prabhura kṛṣṇa-kānti-smṛti haila  
-premāveśe mahāprabhu bhūmite paḍila
+of the peacocks  the necks  seeing  in the Lord  of Kṛṣṇa’s luster  the remembrance  arose  
+premāveśe mahāprabhu bhūmite paḍila  
+in the rapture of love  Mahāprabhu  to the ground  fell
 
-(218) [not yet translated]
+(218) Seeing the necks of the peacocks, the Lord remembered the luster of Kṛṣṇa’s body, and Mahāprabhu fell to the ground in the rapture of love.
 
 প্রভুরে মূর্চ্ছিত দেখি’ সেই ত’ ব্রাহ্মণ ৷  
 ভট্টাচার্য্য-সঙ্গে করে প্রভুর সন্তর্পণ ॥ ২১৯ ॥
 
 prabhure mūrcchita dekhi’ sei ta’ brāhmaṇa  
-bhaṭṭācārya-saṅge kare prabhura santarpaṇa
+the Lord  unconscious  seeing  that  very  brāhmaṇa  
+bhaṭṭācārya-saṅge kare prabhura santarpaṇa  
+with the Bhaṭṭācārya  does  the Lord’s  reviving
 
-(219) [not yet translated]
+(219) Seeing the Lord unconscious, the brāhmaṇa and the Bhaṭṭācārya tended Him to revive Him.
 
 আস্তে-ব্যস্তে মহাপ্রভুর লঞা বহির্ব্বাস ৷  
 জলসেক করে অঙ্গে, বস্ত্রের বাতাস ॥ ২২০ ॥
 
 āste-vyaste mahāprabhura lañā bahirvāsa  
-jala-seka kare aṅge, vastrera vātāsa
+hastily  hurriedly  Mahāprabhu’s  taking  outer cloth  
+jala-seka kare aṅge, vastrera vātāsa  
+sprinkling of water  they do  on the body  with the cloth  fanning
 
-(220) [not yet translated]
+(220) Hurriedly they took Mahāprabhu’s outer cloth, sprinkled His body with water and fanned Him with the cloth.
 
 প্রভু-কর্ণে কৃষ্ণনাম কহে উচ্চ করি’ ৷  
 চেতন পাঞা প্রভু যা’ন গড়াগড়ি ॥ ২২১ ॥
 
 prabhu-karṇe kṛṣṇa-nāma kahe ucca kari’  
-cetana pāñā prabhu yā’na gaḍāgaḍi
+in the Lord’s ear  the name of Kṛṣṇa  they say  loud  making it  
+cetana pāñā prabhu yā’na gaḍāgaḍi  
+consciousness  regaining  the Lord  goes  rolling on the ground
 
-(221) [not yet translated]
+(221) They spoke the name of Kṛṣṇa loudly in the Lord’s ear, and regaining consciousness, the Lord rolled about on the ground.
 
 কণ্টক-দুর্গম বনে অঙ্গ ক্ষত হৈল ৷  
 ভট্টাচার্য্য কোলে করি’ প্রভুরে সুস্থ কৈল ॥ ২২২ ॥
 
 kaṇṭaka-durgama vane aṅga kṣata haila  
-bhaṭṭācārya kole kari’ prabhure sustha kaila
+with thorns  impassable  in the forest  His body  wounded  became  
+bhaṭṭācārya kole kari’ prabhure sustha kaila  
+the Bhaṭṭācārya  on his lap  taking  the Lord  calm  made
 
-(222) [not yet translated]
+(222) In that forest, impassable with thorns, His body was scratched and cut. The Bhaṭṭācārya took the Lord on his lap and calmed Him.
 
 কৃষ্ণাবেশে প্রভুর প্রেমে গরগর মন ৷  
 ‘বোল্’ ‘বোল্’ করি’ উঠি’ করেন নর্ত্তন ॥ ২২৩ ॥
 
 kṛṣṇāveśe prabhura preme garagara mana  
-‘bol’ ‘bol’ kari’ uṭhi’ karena nartana
+absorbed in Kṛṣṇa  the Lord’s  with love  overwhelmed  mind  
+‘bol’ ‘bol’ kari’ uṭhi’ karena nartana  
+say  say  crying  rising  He does  dancing
 
-(223) [not yet translated]
+(223) Absorbed in Kṛṣṇa, the Lord’s mind was overwhelmed with love. Crying “Say it! Say it!” He got up and began to dance.
 
 ভট্টাচার্য্য, সেই বিপ্র কৃষ্ণনাম গায় ৷  
 নাচিতে নাচিতে পথে প্রভু চলি’ যায় ॥ ২২৪ ॥
 
 bhaṭṭācārya, sei vipra kṛṣṇa-nāma gāya  
-nācite nācite pathe prabhu cali’ yāya
+the Bhaṭṭācārya  that  brāhmaṇa  the name of Kṛṣṇa  sing  
+nācite nācite pathe prabhu cali’ yāya  
+dancing  dancing  along the path  the Lord  goes  on
 
-(224) [not yet translated]
+(224) The Bhaṭṭācārya and the brāhmaṇa sang the name of Kṛṣṇa, and the Lord went on along the path, dancing all the way.
 
 প্রভুর প্রেমাবেশ দেখি’ ব্রাহ্মণ — বিস্মিত ৷  
 প্রভুর রক্ষা লাগি’ বিপ্র হইলা চিন্তিত ॥ ২২৫ ॥
 
 prabhura premāveśa dekhi’ brāhmaṇa — vismita  
-prabhura rakṣā lāgi’ vipra hailā cintita
+of the Lord  the rapture of love  seeing  the brāhmaṇa  is amazed  
+prabhura rakṣā lāgi’ vipra hailā cintita  
+of the Lord  protection  for the sake of  the brāhmaṇa  became  anxious
 
-(225) [not yet translated]
+(225) The brāhmaṇa was amazed to see the Lord’s rapture of love, and he grew anxious about how to keep the Lord safe.
 
 নীলাচলে ছিলা যৈছে প্রেমাবেশ মন ৷  
 বৃন্দাবন যাইতে পথে হৈল শত-গুণ ॥ ২২৬ ॥
 
 nīlācale chilā yaiche premāveśa mana  
-vṛndāvana yāite pathe haila śata-guṇa
+in Nīlācala  was  as  absorbed in love  His mind  
+vṛndāvana yāite pathe haila śata-guṇa  
+to Vṛndāvana  going  on the way  it became  a hundredfold
 
-(226) [not yet translated]
+(226) The absorption in love His mind had known in Nīlācala became a hundred times greater on the way to Vṛndāvana.
 
 সহস্রগুণ প্রেম বাড়ে মথুরা-দরশনে ৷  
 লক্ষগুণ প্রেম বাড়ে, ভ্রমেন যবে বনে ॥ ২২৭ ॥
 
 sahasra-guṇa prema bāḍe mathurā-daraśane  
-lakṣa-guṇa prema bāḍe, bhramena yabe vane
+a thousandfold  love  increases  at the sight of Mathurā  
+lakṣa-guṇa prema bāḍe, bhramena yabe vane  
+a hundred-thousandfold  love  increases  He wanders  when  in the forests
 
-(227) [not yet translated]
+(227) At the sight of Mathurā His love increased a thousandfold, and when He wandered in the forests it increased a hundred-thousandfold.
 
 অন্য দেশে প্রেম উছলে ‘বৃন্দাবন’-নামে ৷  
 সাক্ষাৎ ভ্রময়ে এবে সেই বৃন্দাবনে ॥ ২২৮ ॥
@@ -2183,51 +2295,65 @@ lakṣa-guṇa prema bāḍe, bhramena yabe vane
 স্নান-ভিক্ষাদি-নির্ব্বাহ করেন অভ্যাসে ॥ ২২৯ ॥
 
 anya deśe prema uchale ‘vṛndāvana’-nāme  
+in other  lands  love  overflows  at the name of Vṛndāvana  
 sākṣāt bhramaye ebe sei vṛndāvane  
+in person  He wanders  now  in that very  Vṛndāvana  
 preme garagara mana rātri-divase  
-snāna-bhikṣādi-nirvāha karena abhyāse
+with love  overwhelmed  His mind  night and day  
+snāna-bhikṣādi-nirvāha karena abhyāse  
+bathing  eating and the rest  carrying out  He does  by habit
 
-(228–229) [not yet translated]
+(228–229) In other lands His love would overflow at the very name of Vṛndāvana, and now He was wandering in Vṛndāvana itself. His mind was overwhelmed with love night and day; He bathed, ate and did everything else only out of habit.
 
 এইমত প্রেম, যাবৎ ভ্রমিল ‘বার’ বন ৷  
 একত্র লিখিলুঁ, সর্ব্বত্র না যায় বর্ণন ॥ ২৩০ ॥
 
 ei-mata prema, yāvat bhramila ‘bāra’ vana  
-ekatra likhiluṅ, sarvatra nā yāya varṇana
+such  love  as long as  He wandered  the twelve  forests  
+ekatra likhiluṅ, sarvatra nā yāya varṇana  
+in one place  I have written  everywhere  not  can be  the description
 
-(230) [not yet translated]
+(230) Such was His love all the while He wandered through the twelve forests. I have described it in one place; it cannot be described everywhere.
 
 বৃন্দাবনে হৈল প্রভুর যতেক প্রেমের বিকার ৷  
 কোটি-গ্রন্থে ‘অনন্ত’ লিখেন তাহার বিস্তার ॥ ২৩১ ॥
 
 vṛndāvane haila prabhura yateka premera vikāra  
-koṭi-granthe ‘ananta’ likhena tāhāra vistāra
+in Vṛndāvana  there were  the Lord’s  all the  of love  transformations  
+koṭi-granthe ‘ananta’ likhena tāhāra vistāra  
+in millions of books  Ananta  writes  their  details
 
-(231) [not yet translated]
+(231) Ananta writes in millions of books about all the transformations of love the Lord showed in Vṛndāvana.
 
 তবু লিখিবারে নারে তার এক কণ ৷  
 উদ্দেশ করিতে করি দিগ্দরশন ॥ ২৩২ ॥
 
 tabu likhibāre nāre tāra eka kaṇa  
-uddeśa karite kari dig-daraśana
+still  to write  He cannot  of it  one  particle  
+uddeśa karite kari dig-daraśana  
+a pointer  to give  I make  an indication of direction
 
-(232) [not yet translated]
+(232) Yet even He cannot describe a particle of them. To give some indication, I only point the way.
 
 জগৎ ভাসিল চৈতন্যলীলার পাথারে ৷  
 যাঁর যত শক্তি, তত পাথারে সাঁতারে ॥ ২৩৩ ॥
 
 jagat bhāsila caitanya-līlāra pāthāre  
-yāṅra yata śakti, tata pāthāre sāṅtāre
+the world  was flooded  of Caitanya’s pastimes  in the ocean  
+yāṅra yata śakti, tata pāthāre sāṅtāre  
+whose  as much  strength  so much  in the ocean  swims
 
-(233) [not yet translated]
+(233) The world was flooded by the ocean of Caitanya’s pastimes; everyone swims in that ocean as far as his strength allows.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৩৪ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(234) [not yet translated]
+(234) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
