@@ -30,7 +30,7 @@ In Gauḍa, in Mahāprabhu's absence, no one but Śrī Prabhu Nityānanda can fu
 
 ## 66–67
 
-Nityānanda said, “I am the body, You are the life; these two are never separate. But that we live apart — You in Nīlācala and I in Gauḍa — comes about only by Your inconceivable power.”[^66-67-1]
+Nityānanda said, “I am the body, You are the life; these two are never separate. But that we live apart — You in Nīlācala and I in Gauḍa — comes about only by Your inconceivable power.”
 
 ## 69–75
 
@@ -82,7 +82,7 @@ Many accounts describe that Mahāprabhu, travelling in this way together with R�
 
 ## 159
 
-Pichaladā is a village named Pichaladā on the bank of the Rūpanārāyaṇa river, near Tamluk (?).[^159-1]
+Pichaladā is a village named Pichaladā on the bank of the Rūpanārāyaṇa river, near Tamluk (?).
 
 ## 161
 
@@ -98,7 +98,7 @@ O Bhagavān, even one born in a family of *caṇḍālas* or Yavanas at once bec
 
 ## 199
 
-Mantreśvara is the name of a large river near Diamond Harbour. Along this river the boat came to the village of Pichaladā on the bank of the Rūpanārāyaṇa; on one side the village of Pichaladā borders the Mantreśvara (?).[^199-1]
+Mantreśvara is the name of a large river near Diamond Harbour. Along this river the boat came to the village of Pichaladā on the bank of the Rūpanārāyaṇa; on one side the village of Pichaladā borders the Mantreśvara (?).
 
 ## 202
 
@@ -136,8 +136,3 @@ The love that Gadādhara Paṇḍita showed when he fed the Lord, and the way th
 
 ---
 
-[^66-67-1]: The verse translation of 16.67 reads differently: by His inconceivable energies nothing is unattainable for the Lord, and nothing is impossible for Nityānanda, since the Lord Himself moves Him to act (Madhya 16.67).
-
-[^159-1]: Our verse translation reads differently: there Pichaladā is a river. According to the commentary, Pichaladā is a village on the Rūpanārāyaṇa river.
-
-[^199-1]: Our verse translation reads differently: there everyone goes ashore at Mantreśvara, a dangerous place. According to the commentary, the Yavana took the Lord across the dangerous river Mantreśvara.

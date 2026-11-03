@@ -312,7 +312,7 @@ Balāi is Śrī Balarāma; *ācārya* is Ācāryanidhi.[^80-81-1]
 
 > Subheading: For two more years the Lord wishes to go to Vṛndāvana, but Rāya's efforts hold Him back —
 
-*Haṭha* means the use of force, compulsion.[^85-1]
+*Haṭha* means the use of force, compulsion.
 
 ## 86
 
@@ -997,8 +997,6 @@ See Madhya 4.20–33, and also 172 and 179.
 ---
 
 [^80-81-1]: So in the edition (*ācāryanidhi*); in verse 81 the sense points to Puṇḍarīka Vidyānidhi (compare the *Amṛta-pravāha-bhāṣya* on 76).
-[^85-1]: The verse translation reads differently: “because of the cunning” of Rāmānanda Rāya.
-
 [^204-1]: In the edition couplet 204 has no number (only “॥” at the end; scan checked).
 
 [^231-1]: In the edition (scan checked) the next couplet, 232, is numbered “১৩২” instead of “২৩২.”
