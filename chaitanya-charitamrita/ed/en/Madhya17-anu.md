@@ -160,6 +160,138 @@ Where there were no brāhmaṇas by birth (*śaukra-vipras*), the Bhaṭṭācā
 
 > Subheading: The Lord bathes in springs three times a day and warms Himself at a fire —
 
+## 67
+
+> Subheading: The Lord tells Bhaṭṭa about His earlier attempt to go to Vṛndāvana —
+
+## 75
+
+> Subheading: Words on the greatness of Kṛṣṇa's mercy —
+
+## 76
+
+> Subheading: The Lord thanks Bhaṭṭa for his service —
+
+## 77
+
+> Subheading: Bhaṭṭa speaks humbly of himself and offers praise —
+
+## 80
+
+> Subheading: The words of Śrīdhara Svāmī, the sixth verse of the *maṅgalācaraṇa* at the beginning of his commentary on *Śrīmad-Bhāgavatam* 1.1.1 in the *Bhāvārtha-dīpikā* —
+
+**yat** (whose) **kṛpā** (mercy) **mūkam** (even one without the power of speech) **vācālam** (eloquent, devoted to singing of Kṛṣṇa) **karoti** (makes), **paṅgum** (even one unable to walk) **girim** (a mountain) **laṅghayate** (makes cross; that is, enables one to accomplish even the impossible in the service of Kṛṣṇa), **paramānanda-mādhavam** (Śrī Paramānanda Svāmī, of the line of Śrī Viṣṇusvāmī, and my own worshipful Lord, Śrī Bhagavān) **aham** **vande** (I worship).[^80-1]
+
+## 81
+
+> Subheading: Bhaṭṭa pleases the Lord by his service —
+
+## 82
+
+> Subheading: Arriving in Kāśī, the Lord bathes at Maṇikarṇikā —
+
+Kāśī, also called Vārāṇasī or Avimukta, is a most ancient city: “Ever since the Asi and the Varuṇā were appointed guardians of this holy land, O great sage, Kāśikā, having gained the confluence of the Asi and the Varuṇā, has been known as Vārāṇasī.”
+
+Maṇikarṇikā: at this *ghāṭa* a jewel (*maṇi*) fell from the ear (*karṇa*) of Viṣṇu, or, some say, from the ear of Śiva; hence its name, Maṇikarṇikā. Others say that Viśvanātha, the physician of the disease of worldly existence, delivers the dying residents of Kāśī by placing in their ear the *tāraka-brahma*, the name of Rāma; therefore this holy place is called Maṇikarṇikā. “There is no holy place equal to the Gaṅgā, especially in Vārāṇasī; and there, too, is the holy place named Maṇikarṇā, dear to Viśveśvara.” The *Kāśī-khaṇḍa* says: “Here, at the hour of death, Śiva at once speaks into the earlobe (*karṇikā*) of the virtuous that *tāraka*, the wish-fulfilling gem (*cintāmaṇi*) for those bound in *saṁsāra*; therefore this place is sung of as Maṇikarṇikā. It is the jewel (*maṇi*) of the great seat of Lakṣmī of liberation, and the whorl (*karṇikā*) of the lotuses of His feet; therefore people call it Maṇikarṇikā.”
+
+## 83
+
+> Subheading: At that time Tapana Miśra too is bathing; on seeing the Lord he is at first astonished —
+
+## 85
+
+> Subheading: Then, tears of joy —
+
+## 86
+
+> Subheading: Miśra takes the Lord for *darśana* of Viśveśvara and Bindu-mādhava —
+
+Bindu-mādhava is an ancient temple of Viṣṇu; today it is the temple known as Veṇī-mādhava. It stands above the Pañcagaṅgā. Of the five rivers (the “Pañcanadī”)—the Dhūtapāpā, the Kiraṇā, the Sarasvatī, the Gaṅgā and the Yamunā—only the Gaṅgā flows visibly. It is said that the ancient temple of Bindu-mādhava, which Śrī Mahāprabhu visited, was destroyed by the Mughal emperor Aurangzeb, “the hater of Hindus,” who built a large mosque in its place. The huge old mosque stands right beside the present temple.
+
+In the temple reside the Deities of four-armed Śrī Nārāyaṇa and Lakṣmī-devī; before Them is the Deity of Śrī Garuḍa, and to the side the Deities of Śrī Rāma, Sītā, Lakṣmaṇa and others, and of Śrī Hanumān. The Deities' service and all the temple's expenses are borne by Śrīmant Bālāsāheb Pant Mahārāj, the *pratinidhi* of Āundh—a tributary native state in the Sātārā district of Mahārāṣṭra, in the Bombay Presidency—a Mahārāṣṭrian brāhmaṇa who follows a Vaiṣṇava *sampradāya*. The service of Śrī Veṇī-mādhava is said to have been entrusted to this royal family for about 200 years; the first servitor (*pratinidhi*) of the line was named Mahārāj Jagatjīvan Rāo Sāheb.
+
+## 87
+
+> Subheading: Miśra brings the Lord to his home and rejoices at having received Him —
+
+(In Tapana Miśra's house.) While staying in Kāśī, Śrīman Mahāprabhu would bathe at the nearby “Pañcanadī Ghāṭa,” then first of all go for *darśana* of Śrī Bindu-mādhava-jīu, and afterwards accept His meal in the house of Śrī Tapana Miśra. A little way from that temple stands a banyan tree under which, tradition says, Śrīman Mahāprabhu used to rest. It is said that the tree was later named “Caitanya-vaṭa” after Him and in time came to be called “Yatana-vaṭa,” and it is still known by that name. Today, in a lane there, one can see the *samādhi* of Śrī Vallabhācārya, but no memorial of Śrī Gaurasundara is to be found. Vallabhācārya, too, is known to his followers by the name “Mahāprabhu.” Śrīman Mahāprabhu may have stayed at the “Yatana-vaṭa,” but even the traces of Śrī Candraśekhara's house, of Śrī Tapana Miśra's home, of the place of Prakāśānanda Sarasvatī, the leader of the Māyāvādīs, and so on, are now lost. Nearby, however, in the house of the late Śaśībhūṣaṇa Niyogī of Calcutta, the Deities (*arcā-vigrahas*) of Śrī Gaura and Nityānanda are installed. The present service is carried on under the care of his mother-in-law and of his wife's sister's husband, Śrī Nārāyaṇacandra Ghoṣa.
+
+## 88
+
+> Subheading: Miśra and his whole family drink the water that washed the Lord's feet, and he honours Bhaṭṭa —
+
+## 89
+
+> Subheading: Bhaṭṭa cooks the Lord's meal —
+
+## 90
+
+> Subheading: After His meal the Lord lies down, and Raghunātha massages His feet —
+
+## 91
+
+> Subheading: Miśra and his whole family accept the Lord's remnants; Candraśekhara arrives —
+
+## 92
+
+> Subheading: Who Candraśekhara was —
+
+## 93
+
+> Subheading: Candraśekhara sees the Lord and bows down; the Lord embraces him —
+
+## 94
+
+> Subheading: Candraśekhara tells the Lord of his grief —
+
+## 95
+
+> Subheading: Kāśī, empty of talk of serving Hari, is the abode of dry Māyāvādīs —
+
+*Prārabdhe*, “by *prārabdha*.” Kāśī is the foremost holy place (*tīrtha*) of the Śaivas and the *pañcopāsakas*, the worshippers of the five deities. But there is no talk there of serving Śrī Hari, and so it is utterly unfit as a dwelling for a devotee of Gaura (*Śrīmad-Bhāgavatam* 5.19.3).[^95-1] So Candraśekhara said with great sorrow that he lived there only because of his past sins. Here the word *prārabdha* is used in self-reproach.
+
+(*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, First Laharī:) “The sin that causes a low birth is *prārabdha*.” A pure devotee of the Lord may call himself one who reaps his *prārabdha*, the fruits of his past deeds, but he himself in no way reaps the fruits of good and bad deeds as do other mortals, who are subject to the punishment of Yama. What to speak of the *nitya-siddhas* or *sādhana-siddhas*: even in the stage of practice, a *jīva's* *sādhana-bhakti* is *kleśaghnī*: it destroys the three kinds of affliction (*kleśa*)—sin (*pāpa*), the seed of sin (*pāpa-bīja*) and ignorance (*avidyā*). Thus the *Padma Purāṇa* says: “Sin whose fruits have not yet begun, sin in its germ (*kūṭa*), its seed (*bīja*), and sin about to bear fruit—all gradually vanish for those whose hearts are devoted to serving Viṣṇu.” In this connection one should also study the *Durgama-saṅgamanī* commentary on the two preceding verses.
+
+## 96
+
+> Subheading: Candraśekhara honours Miśra —
+
+The six *darśanas* (philosophical systems) are: (1) the Vaiśeṣika system of the sage Kaṇāda; (2) the Nyāya system of the sage Gotama; (3) the Yoga system of the sage Patañjali; (4) the Sāṅkhya system of the sage Kapila; (5) the Pūrva (Karma) Mīmāṁsā of the sage Jaimini; (6) the Uttara (Brahma) Mīmāṁsā, or Vedānta, of the great sage Vedavyāsa.
+
+## 97
+
+> Subheading: A plaintive prayer to the Lord —
+
+## 98
+
+Though they are very close to the Lord, they address Him with the greatest reverence.
+
+## 99
+
+> Subheading: Miśra's request to the Lord —
+
+## 100
+
+> Subheading: Bhagavān is controlled by His devotees —
+
+*Dina-daśe*, “some ten days.” Madhya 1.239 mentions that on this journey the Lord stayed four days in Tapana Miśra's house in Kāśī.
+
+## 101
+
+> Subheading: The Mahārāṣṭrian brāhmaṇa comes and becomes the Lord's follower —
+
+## 102
+
+> Subheading: Māyāvādī brāhmaṇas, who are not Vaiṣṇavas, are unfit to feed the Lord —
+
+## 103
+
+> Subheading: The Lord, playing the role of an *ācārya*, avoids the company of Māyāvādīs —
+
 ---
 
 [^14-15-1]: The verse translation reads differently: the companion should be “very peaceful and calm” (14); Balabhadra “is peaceful” (15).
+
+[^80-1]: The verse translation reads differently: “I respectfully bow down to the Supreme Lord, whose being is full of supreme bliss.”
+
+[^95-1]: So in the edition. In sense, *Śrīmad-Bhāgavatam* 5.19.24 is probably meant (one should not live where the rivers of talk about Vaikuṇṭha do not flow).

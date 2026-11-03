@@ -31,3 +31,23 @@ There men, tigers and others, though by nature hostile to one another, live toge
 ## 46
 
 Jhārikhaṇḍa is the name of a well-known forest region on the road to Vṛndāvana (today the hilly, forested states of Āṭagaṛa, Ḍheṅkānala, Āṅgula, Lāhārā, Kiyoñjhara, Bāmaṛā, Bonāi, Gāṅgapura, Choṭanāgapura, Yaśapura, Saragujā and others).
+
+## 80
+
+I bow down to Mādhava, the embodiment of supreme bliss (*paramānanda-svarūpa*), whose mercy can make the mute eloquent and enable the lame to cross a mountain.
+
+## 90
+
+Tapana Miśra's son Raghunātha, who later became famous as “Bhaṭṭa Gosvāmī,” began to massage the Lord's feet.
+
+## 92
+
+*Likhana-vṛtti* means earning one's living by copying manuscripts.[^92-1]
+
+## 98
+
+*Tāra* means “deliver.” *Bhṛtya duijane*, “two servants,” means the two of them: Candraśekhara and Tapana Miśra.
+
+---
+
+[^92-1]: The verse translation reads differently: “he worked as a government official.”
