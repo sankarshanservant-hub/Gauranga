@@ -188,6 +188,8 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 > Subheading: The Bhaṭṭa asks the Lord to go to Gokula and, seating Him in a boat, crosses to the other bank —
 
+*Mahāvana*: Gokula.
+
 ## 158
 
 > Subheading: Kṛṣṇadāsa the Rājput and the Sānoḍiyā brāhmaṇa of Mathurā both know the road —
@@ -199,6 +201,68 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 ## 160
 
 > Subheading: Seeing the cows grazing, the Lord remembers His pastimes in Vraja —
+
+## 161
+
+> Subheading: As soon as He hears the sound of a flute, the Lord faints in love —
+
+## 163
+
+> Subheading: At that time ten Paṭhān horsemen arrive there —
+
+*Āśoyāra*: cavalry.
+
+## 164
+
+> Subheading: Taking all four of the Lord's companions for robbers who had killed Him, the leader of the troop wants to put them to death —
+
+## 165
+
+*Bāṭoyāra*: a bandit who robs defenceless travellers.
+
+## 166
+
+*Four*: (1) Kṛṣṇadāsa the Rājput, (2) the Sānoḍiyā brāhmaṇa, disciple of Mādhavendra Purī, (3) Balabhadra Bhaṭṭācārya, (4) the brāhmaṇa who accompanied Balabhadra.
+
+## 167
+
+> Subheading: Kṛṣṇadāsa and the brāhmaṇa of Mathurā fearlessly tell the Paṭhān who they are —
+
+*Mukhe baḍa daḍa*: a very skilful speaker, adept at making acquaintance and conversation.
+
+## 168
+
+*Sikdār*: a particular officer who keeps the peace, or a military commander holding office, or *sikkā* (the royal coin) plus *dār* (the officer in charge of it).
+
+## 170
+
+*Sambit*: consciousness.
+
+## 172
+
+> Subheading: In anger the Paṭhān calls them all “robbers” —
+
+## 173
+
+> Subheading: In reply Kṛṣṇadāsa threatens the Paṭhān and speaks harsh words to him —
+
+## 174
+
+*Phukāri*: sounding a signal on a horn.
+
+## 176
+
+> Subheading: The Paṭhāns grow afraid —
+
+## 177
+
+> Subheading: The Lord returns to external consciousness, dances and sings *kīrtana* —
+
+## 178
+
+> Subheading: The sinful *mleccha* suffers on hearing the name of Hari —
+
+*Lāge śeladhāra*: it pierced like the point of a dart.
 
 ---
 

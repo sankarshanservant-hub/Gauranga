@@ -25,3 +25,15 @@ Akrūra-ghāṭa: this *ghāṭa* lies halfway between Vṛndāvana and Mathurā
 ## 144
 
 *Soro-kṣetre*: “Soro-kṣetra” is on the bank of the Gaṅgā nearest to Mathurā.
+
+## 165
+
+*Bāṭoyāra*: those who rob on the roads; *māri' ḍāriyāche*: they have killed.
+
+## 170
+
+*Abahi*: now.
+
+## 174
+
+*Ghoḍā-piḍā*: the horses and what is on their backs — saddles and so on.
