@@ -48,6 +48,10 @@ Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew t
 
 *Laghu-haridāsa*: many Vaiṣṇavas bore the name “Haridāsa,” so other Vaiṣṇavas would add epithets such as “Laghu” (junior) and “Madhyama” (middle) to the Haridāsas' names. The “Laghu-haridāsa” (Choṭa Haridāsa) of Mahāprabhu's time gave up his body at Prayāga; this “Laghu Haridāsa” is someone else.
 
+## 75
+
+*Tẽtula-talā*: this place is now called “Āmli-talā.”
+
 ---
 
 [^34-1]: So in the edition (checked against the scan); in the verse, and earlier in this same sentence, it is Rāma and Kṛṣṇa.

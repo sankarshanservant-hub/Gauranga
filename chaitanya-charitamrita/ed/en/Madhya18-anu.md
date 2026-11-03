@@ -100,7 +100,7 @@ In the fifth wave of the *Bhakti-ratnākara*: “He feeds the cowherd men and wo
 
 > Subheading: Praise of Śrī Govardhana — (*Śrīmad-Bhāgavatam* 10.21.18)
 
-When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding the cows and playing His flute. Then the gopīs, longing for Kṛṣṇa's company, began to sing of His enchanting qualities. Wandering here and there, they saw before them Govardhana, the king of hills, nondifferent from Vrajendranandana, and sang:
+When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding the cows and playing His flute. Then the gopīs, longing for Kṛṣṇa's company, began to sing of His enchanting qualities. Wandering here and there, they saw before them Govardhana, the king of hills, nondifferent from Vrajendranandana, and sang:[^34-1]
 
 **he abalāḥ** (O friends) **hanta** (expressing joy) **ayam** **adriḥ** (this Govardhana — surely) **hari-dāsa-varyaḥ** (the best of Hari's servants) — **yat** (because) **rāma-kṛṣṇa-caraṇa-sparśa-pramodaḥ** (he rejoices at the touch of the feet of Rāma and Kṛṣṇa: one can see his hair stand on end in the form of sprouting grass and the like) **yat** (and because) **pānīya-sūyavasa-kandara-kanda-mūlaiḥ** (with drinking water, with lush, tender, beautiful grass, with caves, bulbs and roots — with fitting food) **saha-go-gaṇayoḥ** (who are accompanied by the cows and the band of friends) **tayoḥ** (to Rāma and Kṛṣṇa) **mānam** (honor) **tanoti** (offers; therefore he is supremely blessed — this is the meaning).
 
@@ -270,7 +270,133 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 *Akrūra-tīrtha.* “Akrūra-tīrtha is exceedingly, above all, dear to Hari. Akrūra is truly the king of *tīrthas*, the highest secret of secrets.” (*Bhakti-ratnākara*, wave 5:) “Look, Śrīnivāsa: this is the village of Akrūra. Here Śrī Kṛṣṇa Caitanya Prabhu stayed in seclusion.”
 
+## 71
+
+> Subheading: The Lord comes to see Vṛndāvana and bathes in Kālīya-hrada and in Praskandana —
+
+*Vṛndāvana.* “Oh, how lovely is Vṛndāvana, where the hill of Govardhana stands!” “The twelfth is Vṛndāvana, guarded by Vṛndā.” (*Bhakti-ratnākara*, wave 5:) “The abode most dear to Kṛṣṇa is Vṛndāvana; this forest of ‘five *yojanas*’ is Kṛṣṇa's body. * * Vṛndāvana measures sixteen *krośas*: so people say.”
+
+*Kālīya-hrada.* “To the east of Kālīya-hrada is a revered *kadamba* tree. Beyond it is the *tīrtha* called Kālīya-tīrtha, which destroys sin: here Bhagavān, as a child, danced on Kālīya's head.” (*Bhakti-ratnākara*, wave 5:) “This Kālīya-tīrtha destroys sins; at the place of Kālīya-tīrtha many aims are fulfilled.”
+
+*Praskandana.* “The place named Praskandana is auspicious and takes away all sins. A person who bathes there is freed from all sins.” (*Bhakti-ratnākara*, wave 5:) “Look: bathing at the place of Praskandana takes away sins, and one who gives up his life here attains the world of Viṣṇu. O Śrīnivāsa, through the heat of the suns the cold went away, and sweat appeared on [Kṛṣṇa's] body. That sweat mingled with the daughter of the Sun; that is why the *tīrtha* came to be named ‘Praskandana.’ Śrī Advaita Īśvara, nondifferent from Śrī Kṛṣṇa Caitanya, lived in this forest for some time.”
+
+## 72
+
+> Subheading: From Dvādaśāditya the Lord comes to Keśī-tīrtha and, seeing the Rāsa-sthalī, faints —
+
+*Dvādaśa-āditya.* “The *tīrtha* called Dvādaśāditya-tīrtha purifies beyond compare; merely by seeing it people's sins are destroyed.” (*Bhakti-ratnākara*, ibid.:) “Behold: here is Dvādaśāditya-tīrtha.”
+
+*Keśī-tīrtha.* In the *Ādi-vārāha*: “Where Keśī was struck down, the merit is a hundred times that of the Gaṅgā.” (*Bhakti-ratnākara*, ibid.:) “Kṛṣṇa killed Keśī with the greatest delight.”
+
+## 73
+
+> Subheading: All day, absorbed in love, the Lord behaves like a madman —
+
+## 74
+
+> Subheading: In the evening the Lord returns from there to Akrūra-tīrtha and takes His meal —
+
+## 75
+
+> Subheading: In the morning, a bath at Cīra-ghāṭa and rest beneath the tamarind tree —
+
+## 76
+
+> Subheading: The tamarind tree from the Dvāpara-yuga —
+
+## 77
+
+> Subheading: The Yamunā flows close by —
+
+## 78
+
+> Subheading: The Lord chants the holy name beneath the tamarind tree, and at midday He returns to Akrūra-tīrtha and takes His meal —
+
+## 79
+
+> Subheading: The people of Akrūra-tīrtha come to see the Lord, which disturbs His solitary chanting of the name by count —
+
+## 80
+
+> Subheading: Until midday the Lord chants the name by count in solitude —
+
+## 81
+
+> Subheading: After midday people can see the Lord, and He instructs everyone to chant the holy name —
+
+## 82
+
+> Subheading: Kṛṣṇadāsa the Rajput comes there and sees the Lord —
+
+## 84
+
+> Subheading: Kṛṣṇadāsa is amazed to see the Lord —
+
+## 85
+
+> Subheading: The Lord asks who he is, and Kṛṣṇadāsa humbly introduces himself —
+
+## 87
+
+> Subheading: Kṛṣṇadāsa tells how, on seeing the Lord, he found that his dream had come true —
+
+*Parateka*: “before one's eyes” (*pratyakṣa*, *sākṣāt*).
+
+## 88
+
+> Subheading: The Lord shows him mercy; Kṛṣṇadāsa's love —
+
+## 89
+
+> Subheading: Coming with the Lord, Kṛṣṇadāsa receives the remnants of His meal —
+
+## 90
+
+> Subheading: From then on Kṛṣṇadāsa carries the Lord's *kamaṇḍalu* and is His constant companion —
+
+## 91
+
+> Subheading: The rumor that Kṛṣṇa has appeared in Vṛndāvana —
+
+## 92
+
+> Subheading: One day many people come to the Lord from Vṛndāvana —
+
+## 93
+
+> Subheading: The Lord asks them why they have come —
+
+## 94
+
+> Subheading: The rumor of Kṛṣṇa's appearance; the delusion (*vivarta*) of foolish people —
+
+## 95
+
+> Subheading: To see the Lord is to see Kṛṣṇa; even so, the Lord laughs playfully —
+
+## 96
+
+> Subheading: For three days everyone tells of having seen Kṛṣṇa —
+
+## 97
+
+> Subheading: Sarasvatī establishes the truth of those words —
+
+## 98
+
+> Subheading: Though the people, by seeing the Lord, did “truly” see Kṛṣṇa, in fact their account and the one they meant rest on delusion —
+
+## 99
+
+> Subheading: The delusion of the simple-minded Bhaṭṭācārya —
+
+## 100
+
+> Subheading: The Lord dispels his delusion —
+
 ---
+
+[^34-1]: The verse translation reads differently: “[Śrī Rādhikā said:] ‘O dear friends!…’”
 
 [^47-1]: Literally: “Viṭhṭhala's service — the Kṛṣṇa Caitanya *vigraha*; great eagerness to see Him”; the sense of the line is ambiguous.
 
