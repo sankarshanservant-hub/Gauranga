@@ -420,7 +420,7 @@ to Narendra  coming  there  with all  they met
 mahāprabhura datta mālā sabāre parāilā  
 by Mahāprabhu  given  the garlands  on all  they put
 
-(42) Coming to Narendra, they met everyone there and put on them all the garlands Mahāprabhu had given.
+(42) Coming to Narendra, they met everyone there and put Mahāprabhu’s garlands on them all.
 
 সিংহদ্বার-নিকটে আইলা শুনি’ গৌররায় ৷  
 আপনে আসিয়া প্রভু মিলিলা সবায় ॥ ৪৩ ॥
@@ -530,7 +530,7 @@ of the Balagaṇḍi offering  much  prasāda  came
 sabā saṅge mahāprabhu prasāda khāila  
 all  with  Mahāprabhu  prasāda  ate
 
-(53) A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured the *prasāda* with them all.
+(53) A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured it with them all.
 
 পূর্ব্ববৎ রথযাত্রা কৈল দরশন ৷  
 হেরাপঞ্চমী-যাত্রা দেখে লঞা ভক্তগণ ॥ ৫৪ ॥
@@ -590,7 +590,7 @@ at the end of Cāturmāsya  again  Nityānanda  taking
 kibā yukti kare nitya nibhṛte vasiyā  
 some kind of  counsel  holds  daily  in private  sitting
 
-(59) At the end of Cāturmāsya the Lord would again take Nityānanda aside every day and sit with Him in private, holding some counsel.
+(59) At the end of Cāturmāsya the Lord would again take Nityānanda aside every day and confer with Him in private.
 
 আচার্য্য-গোসাঞি প্রভুকে কহে ঠারে-ঠোরে ৷  
 আচার্য্য তর্জ্জা পড়ে, কেহ বুঝিতে না পারে ॥ ৬০ ॥
@@ -600,7 +600,7 @@ some kind of  counsel  holds  daily  in private  sitting
 ācārya tarjā paḍe, keha bujhite nā pāre  
 the Ācārya  riddles  recites  anyone  to understand  not  is able
 
-(60) Ācārya Gosāñi spoke to the Lord in hints; the Ācārya recited riddles (*tarjā*) that no one could understand.[^8]
+(60) Ācārya Gosāñi spoke to the Lord in hints, reciting riddles (*tarjā*) that no one could understand.[^8]
 
 তাঁর মুখ দেখি’ হাসে শচীর নন্দন ৷  
 অঙ্গীকার জানি’ আচার্য্য করেন নর্ত্তন ॥ ৬১ ॥
@@ -620,7 +620,7 @@ whether  a prayer  whether  an order  —  anyone  not  understood
 āliṅgana kari’ prabhu tām̐re vidāya dila  
 embrace  making  the Lord  him  leave  gave
 
-(62) Whether it was a prayer or an instruction, no one understood. Then the Lord embraced Him and bade Him farewell.[^9]
+(62) No one understood whether it was a prayer or an instruction. Then the Lord embraced Him and bade Him farewell.[^9]
 
 নিত্যানন্দ কহে প্রভু, — শুনহ, শ্রীপাদ ৷  
 এই আমি মাগি, তুমি করহ প্রসাদ ॥ ৬৩ ॥
@@ -880,7 +880,7 @@ great  eagerness  Mine  to go  to Vṛndāvana
 tomāra haṭhe dui vatsara nā kailum̐ gamana  
 your  through insistence  two  years  not  I made  departure
 
-(88) “I am very eager to go to Vṛndāvana. Because of your insistence I have not gone for two years.
+(88) “I long very much to go to Vṛndāvana, but because of your insistence I have not gone for two years.
 
 অবশ্য চলিব, দুঁহে করহ সম্মতি ৷  
 তোমা-দুঁহা বিনা মোর নাহি অন্য গতি ॥ ৮৯ ॥
@@ -930,7 +930,7 @@ both  say  —  now  the rains  to travel  You will not be able
 vijayā-daśamī āile avaśya calibā  
 Vijayā-daśamī  when it comes  certainly  You will go
 
-(93) They both said, “Now it is the rainy season; You cannot travel. When Vijayā-daśamī comes, You shall certainly go.”
+(93) They both said, “Now it is the rainy season; You cannot travel. When Vijayā-daśamī comes, You will certainly go.”
 
 আনন্দে মহাপ্রভু বর্ষা কৈল সমাধান ৷  
 বিজয়া-দশমী-দিনে করিল পয়ান ॥ ৯৪ ॥
@@ -1150,7 +1150,7 @@ there  a pillar  erecting  do  a great tīrtha  making
 nitya snāna kariha tām̐hā, tām̐hā yena mari  
 daily  bath  take  there  there  may  I die
 
-(115) There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.[^17]
+(115) Erect a pillar there and make it a great *tīrtha*. Bathe there every day — and may I leave my body there.[^17]
 
 চতুর্দ্বারে করহ উত্তম নব্য বাস ৷  
 রামানন্দ, যাহ তুমি মহাপ্রভু-পাশ ॥ ১১৬ ॥
@@ -1170,7 +1170,7 @@ in the evening  will set out  the Lord  —  the king  heard
 hastī-upara tāmbu-gṛhe strī-gaṇe caḍāila  
 on elephants  in tents  the women  he seated
 
-(117) The king heard that the Lord would set out in the evening, and he had the women of the palace seated in tents on the backs of elephants.
+(117) The king heard that the Lord would set out in the evening, and he had the royal ladies seated in tents on the backs of elephants.
 
 প্রভুর চলিবার পথে রহে সারি হঞা ৷  
 সন্ধ্যাতে চলিলা প্রভু নিজগণ লঞা ॥ ১১৮ ॥
@@ -1334,7 +1334,7 @@ the Paṇḍita  says  —  all  fault  me  upon
 tomā-saṅge nā yāiba, yāiba ekeśvara  
 with You  not  I shall go  I shall go  alone
 
-(134) The Paṇḍita said, “All the fault will be upon me. I shall not go with You; I shall go alone.
+(134) The Paṇḍita said, “All the fault will fall on me. I shall not go with You; I shall go alone.
 
 ‘আই’কে দেখিতে যাইব, না যাইব তোমা লাগি’ ৷  
 ‘প্রতিজ্ঞা’-‘সেবা’-ত্যাগ-দোষ, — তার আমি ভাগী ॥ ১৩৫ ॥
@@ -1384,7 +1384,7 @@ the vow  the service  to give up  —  this  your  aim
 se siddha haila — chāḍi’ āilā dūra deśa  
 that  accomplished  became  —  leaving  you have come  far  country
 
-(139) “Giving up your vow and your service — that was your aim, and it has been accomplished: you have left them and come to a distant land.
+(139) “You meant to give up your vow and your service, and you have succeeded: you have left them behind and come to a distant land.
 
 আমার সঙ্গে রহিতে চাহ, — বাঞ্ছ নিজ-‘সুখ’ ৷  
 তোমার দুই ধর্ম্ম যায়, — আমার হয় ‘দুঃখ’ ॥ ১৪০ ॥
@@ -1394,7 +1394,7 @@ Me  with  to stay  you want  —  you desire  your own happiness
 tomāra dui dharma yāya, — āmāra haya ‘duḥkha’  
 your  two  duties  go  —  Mine  becomes  sorrow
 
-(140) You want to stay with Me — you are seeking your own happiness. But you are losing both your duties, and that makes Me sad.
+(140) In wanting to stay with Me, you seek your own happiness. But you are failing in both your duties, and that makes Me sad.
 
 মোর সুখ চাহ যদি, নীলাচলে চল ৷  
 আমার শপথ, যদি আর কিছু বল ॥ ১৪১ ॥
@@ -1404,7 +1404,7 @@ My  happiness  you want  if  to Nīlācala  go
 āmāra śapatha, yadi āra kichu bala  
 by Me  sworn  if  more  anything  you say
 
-(141) If you want My happiness, go back to Nīlācala. I adjure you by Myself — do not say another word.”
+(141) If you want My happiness, go back to Nīlācala. I bind you by My oath — not one word more.”
 
 এত বলি’ মহাপ্রভু নৌকাতে চড়িলা ৷  
 মূর্চ্ছিত হঞা পণ্ডিত তথা পড়িলা ॥ ১৪২ ॥
@@ -1434,7 +1434,7 @@ you  know  Kṛṣṇa  His own  vow  gave up
 bhakta kṛpā-vaśe bhīṣmera pratijñā rākhilā  
 for His devotee  by mercy compelled  Bhīṣma’s  vow  He kept
 
-(144) You know that Kṛṣṇa gave up His own vow; compelled by mercy for His devotee, He kept Bhīṣma’s vow.
+(144) You know how Kṛṣṇa gave up His own promise: moved by mercy for His devotee, He kept Bhīṣma’s promise.
 
 স্বনিগমমপহায় মৎ প্রতিজ্ঞা-  
 মৃতমধিকর্ত্তুমবপ্লুতো রথস্থঃ ৷  
@@ -1470,7 +1470,7 @@ in this  way  saying  him  consolation  gave
 dui-jane śokākula nīlācale āilā  
 the two  stricken with grief  to Nīlācala  came
 
-(147) Speaking in this way, he consoled him, and the two of them, stricken with grief, came back to Nīlācala.
+(147) With these words the Bhaṭṭācārya consoled the Paṇḍita, and the two of them, stricken with grief, came back to Nīlācala.
 
 প্রভু লাগি’ ধর্ম্ম-কর্ম্ম ছাড়ে ভক্তগণ ৷  
 ভক্ত-ধর্ম্ম-হানি প্রভুর না হয় সহন ॥ ১৪৮ ॥
@@ -1520,7 +1520,7 @@ in every village  by the king’s order  the king’s servants
 navya-gṛhe nānā-dravye karaye sevana  
 in a new house  with all kinds of  provisions  do  service
 
-(152) In every village, by the king’s order, the king’s servants served Him with a new house and all kinds of provisions.
+(152) In every village, by royal order, the king’s servants served Him with a new house and all kinds of provisions.
 
 এইমত চলি’ প্রভু ‘রেমুণা’ আইলা ৷  
 তথা হৈতে রামানন্দ-রায়ে বিদায় দিলা ॥ ১৫৩ ॥
@@ -1640,7 +1640,7 @@ constantly  perform  all  the saṅkīrtana of Kṛṣṇa
 sabe hāse, nāce, gāya, karaye krandana  
 all  laugh  dance  sing  do  weeping
 
-(164) All of them constantly perform the *saṅkīrtana* of Kṛṣṇa; they all laugh, dance, sing and weep.
+(164) All of them constantly perform the *saṅkīrtana* of Kṛṣṇa, laughing, dancing, singing and weeping.
 
 লক্ষ লক্ষ লোক আইসে তাহা দেখিবারে ৷  
 তাঁরে দেখি’ পুনরপি যাইতে নারে ঘরে ॥ ১৬৫ ॥
@@ -1670,7 +1670,7 @@ for telling  a matter  it is not  if one sees  that  one knows
 tām̐hāra prabhāve tām̐re ‘īśvara’ kari māni  
 His  by the power  Him  “God”  as  I accept
 
-(167) It is not something one can describe; one knows it only by seeing it. By His power I accept Him as God (*Īśvara*).”
+(167) It is not something one can describe; one knows it only by seeing it. Such is His power that I accept Him as God (*Īśvara*).”
 
 এত কহি’ সেই চর ‘হরি’ ‘কৃষ্ণ’ গায় ৷  
 হাসে, কান্দে, নাচে, গায় বাউলের প্রায় ॥ ১৬৮ ॥
@@ -1690,7 +1690,7 @@ this  hearing  the yavana’s  mind  turning  went
 āpana ‘viśvāsa’ oḍiyā sthāne pāṭhāila  
 his own  secretary (*viśvāsa*)  of the Oriyā  to the place  sent
 
-(169) Hearing this, the *yavana*’s heart turned, and he sent his own secretary (*viśvāsa*) to the Oriyā officer.[^27]
+(169) Hearing this, the *yavana* had a change of heart, and he sent his own secretary (*viśvāsa*) to the Oriyā officer.[^27]
 
 ‘বিশ্বাস’ আসিয়া প্রভুর চরণ বন্দিল ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ প্রেমে বিহ্বল হইল ॥ ১৭০ ॥
@@ -1916,7 +1916,7 @@ there  to go  give  you  of help  some form
 ei baḍa ājñā, ei baḍa upakāra  
 this  the great  order  this  the great  service
 
-(191) Help Him in some way to get there. That is the great order; that will be the great service.”
+(191) Help Him in some way to get there. That is the great order, and that will be a great service.”
 
 তবে সেই মহাপ্রভুর চরণ বন্দিয়া ৷  
 সবার চরণ বন্দি’ চলে হৃষ্ট হঞা ॥ ১৯২ ॥
@@ -1946,7 +1946,7 @@ in the morning  he  many  boats  fitting out
 prabhuke ānite dila viśvāsa pāṭhāñā  
 the Lord  to bring  he did  the secretary  sending
 
-(194) In the morning he fitted out many boats and sent his secretary to bring the Lord.
+(194) In the morning the *yavana* fitted out many boats and sent his secretary to bring the Lord.
 
 মহাপাত্র চলি’ আইলা মহাপ্রভুর সনে ৷  
 ম্লেচ্ছ আসি’ কৈল প্রভুর চরণ বন্দনে ॥ ১৯৫ ॥
@@ -2346,7 +2346,7 @@ seven  days  in Śāntipura  with the Lord  he stays
 rātri-divase ei manaḥ-kathā kahe  
 night and day  this  thought of the heart  he speaks
 
-(234) For seven days he stayed with the Lord in Śāntipura, and night and day he spoke the thought of his heart:
+(234) For seven days he stayed with the Lord in Śāntipura, and night and day he poured out the one thought of his heart:
 
 রক্ষকের হাতে মুঞি কেমনে ছুটিব !  
 কেমনে প্রভুর সঙ্গে নীলাচলে যাব ? ॥ ২৩৫ ॥
@@ -2366,7 +2366,7 @@ omniscient  Lord Gaurāṅga  knowing  his  mind
 śikṣā-rūpe kahe tām̐re āśvāsa-vacana  
 as instruction  speaks  to him  words of comfort
 
-(236) The omniscient Lord Gaurāṅga knew his mind, and in the form of instruction He spoke words of comfort to him:
+(236) The omniscient Lord Gaurāṅga knew his mind, and He comforted him with these words of instruction:
 
 স্থির হঞা ঘরে যাও, না হও বাতুল ৷  
 ক্রমে ক্রমে পায় লোক ভবসিন্ধুকূল ॥ ২৩৭ ॥
@@ -2426,7 +2426,7 @@ this  saying  Mahāprabhu  him  leave  gave
 ghare āsi’ mahāprabhura śikṣā ācarila  
 home  coming  Mahāprabhu’s  teaching  he practised
 
-(242) Saying this, Mahāprabhu bade him farewell, and he went home and followed Mahāprabhu’s teaching.
+(242) Saying this, Mahāprabhu bade him farewell, and he went home and followed the Lord’s teaching.
 
 বাহ্য বৈরাগ্য বাতুলতা সকল ছাড়িয়া ৷  
 যথাযোগ্য কার্য্য করে অনাসক্ত হঞা ॥ ২৪৩ ॥
@@ -2586,7 +2586,7 @@ hundreds of thousands  hundreds of thousands  people  come  the spectacle  to se
 lokera saṅghaṭṭe patha nā pāri calite  
 of the people  in the crush  the road  not  I could  travel
 
-(258) Hundreds of thousands of people came to see the spectacle, and in the crush of people I could not travel the road.
+(258) Hundreds of thousands of people came to see the spectacle, and in such a throng I could not travel the road.
 
 যথা রহি, তথা ঘর-প্রাচীর হয় চূর্ণ ৷  
 যথা নেত্র পড়ে, তথা লোক দেখি পূর্ণ ॥ ২৫৯ ॥
@@ -2666,7 +2666,7 @@ with whom  along  are  these  people  hundreds of thousands  millions
 vṛndāvana yāibāra ei nahe paripāṭī  
 to Vṛndāvana  of going  this  is not  the proper way
 
-(266) ‘For one who has hundreds of thousands, even millions of people with Him, this is not the proper way to go to Vṛndāvana.’
+(266) ‘When hundreds of thousands, even millions of people go along with one, that is not the way to go to Vṛndāvana.’
 
 তবু আমি শুনিলুঁ মাত্র, না কৈলুঁ অবধান ৷  
 প্রাতে চলি’ আইলাঙ ‘কানাইর নাটশালা’-গ্রাম ॥ ২৬৭ ॥
@@ -2696,7 +2696,7 @@ well  indeed  he spoke  My  so many  people  with Me
 loka dekhi kahibe more — ‘ei eka ḍhaṅge’  
 people  seeing  will say  of Me  “this  is some  show”
 
-(269) He spoke well. I have so many people with Me; seeing this, people will say of Me, ‘This is just a show!’
+(269) He spoke well. So many people are with Me that whoever sees it will say, ‘This is just a show!’
 
 ‘দুর্ল্লভ’ ‘দুর্গম’ সেই ‘নির্জ্জন’ বৃন্দাবন ৷  
 একাকী যাইব, কিবা সঙ্গে একজন ॥ ২৭০ ॥
@@ -2876,7 +2876,7 @@ at the meal  the Paṇḍita’s  affection  the Lord’s  relishing
 manuṣyera śaktye dui nā yāya varṇana  
 by human  power  the two  not  can  be described
 
-(287) The Paṇḍita’s affection at that meal and the Lord’s relishing of it — neither can be described by human power.
+(287) No human being could describe the Paṇḍita’s affection at that meal, or how the Lord relished it.
 
 এই মত গৌরলীলা — অনন্ত, অপার ৷  
 সংক্ষেপে কহিয়ে, কহা না যায় বিস্তার ॥ ২৮৮ ॥

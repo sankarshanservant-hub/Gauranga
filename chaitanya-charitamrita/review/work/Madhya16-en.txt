@@ -215,7 +215,7 @@ tr: Then Śacī’s son gave garlands to Svarūpa and His other associates and s
 ## 42
 w: to Narendra  coming  there  with all  they met
 w: by Mahāprabhu  given  the garlands  on all  they put
-tr: Coming to Narendra, they met everyone there and put on them all the garlands Mahāprabhu had given.
+tr: Coming to Narendra, they met everyone there and put Mahāprabhu’s garlands on them all.
 
 ## 43
 w: near the Siṁha-dvāra  they have come  hearing  Gaurarāya
@@ -270,7 +270,7 @@ tr: He filled a pitcher and bathed the Lord, and the Lord was greatly pleased.
 ## 53
 w: of the Balagaṇḍi offering  much  prasāda  came
 w: all  with  Mahāprabhu  prasāda  ate
-tr: A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured the *prasāda* with them all.
+tr: A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured it with them all.
 
 ## 54
 w: as before  the Ratha-yātrā  He made  seeing
@@ -302,12 +302,12 @@ tr: Ācāryaratna and the other leading devotees invited the Lord from time to t
 ## 59
 w: at the end of Cāturmāsya  again  Nityānanda  taking
 w: some kind of  counsel  holds  daily  in private  sitting
-tr: At the end of Cāturmāsya the Lord would again take Nityānanda aside every day and sit with Him in private, holding some counsel.
+tr: At the end of Cāturmāsya the Lord would again take Nityānanda aside every day and confer with Him in private.
 
 ## 60
 w: Ācārya Gosāñi  to the Lord  speaks  in hints
 w: the Ācārya  riddles  recites  anyone  to understand  not  is able
-tr: Ācārya Gosāñi spoke to the Lord in hints; the Ācārya recited riddles (*tarjā*) that no one could understand.
+tr: Ācārya Gosāñi spoke to the Lord in hints, reciting riddles (*tarjā*) that no one could understand.
 fn: *Amṛta-pravāha-bhāṣya*: *tarjā* is speech in the *payāra* and other metres that others cannot easily understand.
 
 ## 61
@@ -318,7 +318,7 @@ tr: Śacī’s son looked at Advaita’s face and smiled, and the Ācārya, taki
 ## 62
 w: whether  a prayer  whether  an order  —  anyone  not  understood
 w: embrace  making  the Lord  him  leave  gave
-tr: Whether it was a prayer or an instruction, no one understood. Then the Lord embraced Him and bade Him farewell.
+tr: No one understood whether it was a prayer or an instruction. Then the Lord embraced Him and bade Him farewell.
 fn: *Amṛta-pravāha-bhāṣya*: what Śrī Advaita asked in His *tarjā*, and what Śacī’s son meant by His smile, no one else could understand.
 
 ## 63
@@ -455,7 +455,7 @@ tr: Then the Lord embraced Sārvabhauma and Rāmānanda and spoke to them sweetl
 ## 88
 w: great  eagerness  Mine  to go  to Vṛndāvana
 w: your  through insistence  two  years  not  I made  departure
-tr: “I am very eager to go to Vṛndāvana. Because of your insistence I have not gone for two years.
+tr: “I long very much to go to Vṛndāvana, but because of your insistence I have not gone for two years.
 
 ## 89
 w: certainly  I shall go  both  give  consent
@@ -480,7 +480,7 @@ tr: Hearing the Lord’s words, they reflected, “To press the Lord too hard is
 ## 93
 w: both  say  —  now  the rains  to travel  You will not be able
 w: Vijayā-daśamī  when it comes  certainly  You will go
-tr: They both said, “Now it is the rainy season; You cannot travel. When Vijayā-daśamī comes, You shall certainly go.”
+tr: They both said, “Now it is the rainy season; You cannot travel. When Vijayā-daśamī comes, You will certainly go.”
 
 ## 94
 w: in joy  Mahāprabhu  the rainy season  made  completion
@@ -591,7 +591,7 @@ tr: Bring a new boat and keep it at the river bank where the Lord will bathe and
 ## 115
 w: there  a pillar  erecting  do  a great tīrtha  making
 w: daily  bath  take  there  there  may  I die
-tr: There erect a pillar, making it a great *tīrtha*. Bathe there every day — and may I leave my body there.
+tr: Erect a pillar there and make it a great *tīrtha*. Bathe there every day — and may I leave my body there.
 fn: In the Gauḍīya Maṭha edition — *kariha* (“bathe”): the king tells his men to bathe there every day, and for himself wishes to leave his body there. Heading in the edition: “The king’s deep love for Gaura.”
 
 ## 116
@@ -603,7 +603,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Caturdvāra is the village one reaches from Ka
 ## 117
 w: in the evening  will set out  the Lord  —  the king  heard
 w: on elephants  in tents  the women  he seated
-tr: The king heard that the Lord would set out in the evening, and he had the women of the palace seated in tents on the backs of elephants.
+tr: The king heard that the Lord would set out in the evening, and he had the royal ladies seated in tents on the backs of elephants.
 
 ## 118
 w: of the Lord  of the going  on the road  they stay  in a row  forming
@@ -684,7 +684,7 @@ tr: The Lord said, “If you give up the service, the fault will fall on Me. Sta
 ## 134
 w: the Paṇḍita  says  —  all  fault  me  upon
 w: with You  not  I shall go  I shall go  alone
-tr: The Paṇḍita said, “All the fault will be upon me. I shall not go with You; I shall go alone.
+tr: The Paṇḍita said, “All the fault will fall on me. I shall not go with You; I shall go alone.
 
 ## 135
 w: Āi  to see  I shall go  not  I shall go  You  for the sake of
@@ -710,17 +710,17 @@ tr: Inwardly the Lord was pleased with his conduct, but He took him by the hand 
 ## 139
 w: the vow  the service  to give up  —  this  your  aim
 w: that  accomplished  became  —  leaving  you have come  far  country
-tr: “Giving up your vow and your service — that was your aim, and it has been accomplished: you have left them and come to a distant land.
+tr: “You meant to give up your vow and your service, and you have succeeded: you have left them behind and come to a distant land.
 
 ## 140
 w: Me  with  to stay  you want  —  you desire  your own happiness
 w: your  two  duties  go  —  Mine  becomes  sorrow
-tr: You want to stay with Me — you are seeking your own happiness. But you are losing both your duties, and that makes Me sad.
+tr: In wanting to stay with Me, you seek your own happiness. But you are failing in both your duties, and that makes Me sad.
 
 ## 141
 w: My  happiness  you want  if  to Nīlācala  go
 w: by Me  sworn  if  more  anything  you say
-tr: If you want My happiness, go back to Nīlācala. I adjure you by Myself — do not say another word.”
+tr: If you want My happiness, go back to Nīlācala. I bind you by My oath — not one word more.”
 
 ## 142
 w: so  saying  Mahāprabhu  into the boat  climbed
@@ -735,7 +735,7 @@ tr: The Lord ordered Sārvabhauma to take the Paṇḍita back with him. The Bha
 ## 144
 w: you  know  Kṛṣṇa  His own  vow  gave up
 w: for His devotee  by mercy compelled  Bhīṣma’s  vow  He kept
-tr: You know that Kṛṣṇa gave up His own vow; compelled by mercy for His devotee, He kept Bhīṣma’s vow.
+tr: You know how Kṛṣṇa gave up His own promise: moved by mercy for His devotee, He kept Bhīṣma’s promise.
 
 ## 145
 w: His own promise  giving up  my promise
@@ -753,7 +753,7 @@ tr: In the same way the Lord endured separation from you and took great pains to
 ## 147
 w: in this  way  saying  him  consolation  gave
 w: the two  stricken with grief  to Nīlācala  came
-tr: Speaking in this way, he consoled him, and the two of them, stricken with grief, came back to Nīlācala.
+tr: With these words the Bhaṭṭācārya consoled the Paṇḍita, and the two of them, stricken with grief, came back to Nīlācala.
 
 ## 148
 w: the Lord  for the sake of  religious duties and works  give up  the devotees
@@ -779,7 +779,7 @@ tr: The Lord sent them back, but Rāya went on with Him, and night and day He ta
 ## 152
 w: in every village  by the king’s order  the king’s servants
 w: in a new house  with all kinds of  provisions  do  service
-tr: In every village, by the king’s order, the king’s servants served Him with a new house and all kinds of provisions.
+tr: In every village, by royal order, the king’s servants served Him with a new house and all kinds of provisions.
 
 ## 153
 w: in this  way  traveling  the Lord  to Remuṇā  came
@@ -842,7 +842,7 @@ tr: “A *sannyāsī* has come from Jagannātha, and many perfected souls are wi
 ## 164
 w: constantly  perform  all  the saṅkīrtana of Kṛṣṇa
 w: all  laugh  dance  sing  do  weeping
-tr: All of them constantly perform the *saṅkīrtana* of Kṛṣṇa; they all laugh, dance, sing and weep.
+tr: All of them constantly perform the *saṅkīrtana* of Kṛṣṇa, laughing, dancing, singing and weeping.
 
 ## 165
 w: hundreds of thousands  hundreds of thousands  people  come  it  to see
@@ -857,7 +857,7 @@ tr: All those people become like madmen: crying ‘Kṛṣṇa!’, they dance, 
 ## 167
 w: for telling  a matter  it is not  if one sees  that  one knows
 w: His  by the power  Him  “God”  as  I accept
-tr: It is not something one can describe; one knows it only by seeing it. By His power I accept Him as God (*Īśvara*).”
+tr: It is not something one can describe; one knows it only by seeing it. Such is His power that I accept Him as God (*Īśvara*).”
 
 ## 168
 w: this  saying  that  spy  “Hari”  “Kṛṣṇa”  sings
@@ -867,7 +867,7 @@ tr: Saying this, the spy himself began to sing “Hari! Kṛṣṇa!”, laughin
 ## 169
 w: this  hearing  the yavana’s  mind  turning  went
 w: his own  secretary (*viśvāsa*)  of the Oriyā  to the place  sent
-tr: Hearing this, the *yavana*’s heart turned, and he sent his own secretary (*viśvāsa*) to the Oriyā officer.
+tr: Hearing this, the *yavana* had a change of heart, and he sent his own secretary (*viśvāsa*) to the Oriyā officer.
 fn: *Amṛta-pravāha-bhāṣya*: the ruler of Gauḍa had a department called the *viśvāsa-khānā*, staffed only by the most trusted Kāyasthas; these *viśvāsas* were sent wherever the king had important business.
 
 ## 170
@@ -981,7 +981,7 @@ tr: Then Mukunda Datta said, “Listen, good sir: Mahāprabhu wishes to go to th
 ## 191
 w: there  to go  give  you  of help  some form
 w: this  the great  order  this  the great  service
-tr: Help Him in some way to get there. That is the great order; that will be the great service.”
+tr: Help Him in some way to get there. That is the great order, and that will be a great service.”
 
 ## 192
 w: then  he  Mahāprabhu’s  feet  worshipping
@@ -996,7 +996,7 @@ tr: The Mahāpātra embraced him and, giving him many gifts, made friends with h
 ## 194
 w: in the morning  he  many  boats  fitting out
 w: the Lord  to bring  he did  the secretary  sending
-tr: In the morning he fitted out many boats and sent his secretary to bring the Lord.
+tr: In the morning the *yavana* fitted out many boats and sent his secretary to bring the Lord.
 
 ## 195
 w: the Mahāpātra  traveling  came  Mahāprabhu  with
@@ -1202,7 +1202,7 @@ fn: The edition (p. 620) puts the father’s words in quotation marks (‘śīgh
 ## 234
 w: seven  days  in Śāntipura  with the Lord  he stays
 w: night and day  this  thought of the heart  he speaks
-tr: For seven days he stayed with the Lord in Śāntipura, and night and day he spoke the thought of his heart:
+tr: For seven days he stayed with the Lord in Śāntipura, and night and day he poured out the one thought of his heart:
 
 ## 235
 w: of the guards  from the hands  I  how  shall escape
@@ -1212,7 +1212,7 @@ tr: “How shall I escape from the hands of my guards? How shall I go to Nīlāc
 ## 236
 w: omniscient  Lord Gaurāṅga  knowing  his  mind
 w: as instruction  speaks  to him  words of comfort
-tr: The omniscient Lord Gaurāṅga knew his mind, and in the form of instruction He spoke words of comfort to him:
+tr: The omniscient Lord Gaurāṅga knew his mind, and He comforted him with these words of instruction:
 
 ## 237
 w: steady  becoming  home  go  not  be  mad
@@ -1243,7 +1243,7 @@ tr: At that time Kṛṣṇa Himself will show you that pretext. Who can hold ba
 ## 242
 w: this  saying  Mahāprabhu  him  leave  gave
 w: home  coming  Mahāprabhu’s  teaching  he practised
-tr: Saying this, Mahāprabhu bade him farewell, and he went home and followed Mahāprabhu’s teaching.
+tr: Saying this, Mahāprabhu bade him farewell, and he went home and followed the Lord’s teaching.
 
 ## 243
 w: outward  renunciation  madness  all  giving up
@@ -1323,7 +1323,7 @@ tr: With this resolve I set out for Gauḍa, and about a thousand of My own devo
 ## 258
 w: hundreds of thousands  hundreds of thousands  people  come  the spectacle  to see
 w: of the people  in the crush  the road  not  I could  travel
-tr: Hundreds of thousands of people came to see the spectacle, and in the crush of people I could not travel the road.
+tr: Hundreds of thousands of people came to see the spectacle, and in such a throng I could not travel the road.
 
 ## 259
 w: where  I stay  there  houses and walls  are  crushed
@@ -1364,7 +1364,7 @@ tr: When I had said this and bade them farewell, Sanātana spoke a riddle as I w
 ## 266
 w: with whom  along  are  these  people  hundreds of thousands  millions
 w: to Vṛndāvana  of going  this  is not  the proper way
-tr: ‘For one who has hundreds of thousands, even millions of people with Him, this is not the proper way to go to Vṛndāvana.’
+tr: ‘When hundreds of thousands, even millions of people go along with one, that is not the way to go to Vṛndāvana.’
 
 ## 267
 w: yet  I  heard  only  not  I paid  attention
@@ -1379,7 +1379,7 @@ tr: That night I pondered in My mind the riddle that Sanātana had told Me.
 ## 269
 w: well  indeed  he spoke  My  so many  people  with Me
 w: people  seeing  will say  of Me  “this  is some  show”
-tr: He spoke well. I have so many people with Me; seeing this, people will say of Me, ‘This is just a show!’
+tr: He spoke well. So many people are with Me that whoever sees it will say, ‘This is just a show!’
 
 ## 270
 w: rare  hard to reach  that  solitary  Vṛndāvana
@@ -1471,7 +1471,7 @@ tr: That day Gadādhara invited Him, and the Lord took His meal there with the d
 ## 287
 w: at the meal  the Paṇḍita’s  affection  the Lord’s  relishing
 w: by human  power  the two  not  can  be described
-tr: The Paṇḍita’s affection at that meal and the Lord’s relishing of it — neither can be described by human power.
+tr: No human being could describe the Paṇḍita’s affection at that meal, or how the Lord relished it.
 
 ## 288
 w: in this  way  the pastimes of Gaura  endless  boundless
