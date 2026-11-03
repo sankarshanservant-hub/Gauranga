@@ -118,7 +118,7 @@ a worthy  brāhmaṇa  one  with You  certainly  we want
 bhikṣā kari’ bhikṣā dibe, yābe pātra vahi’  
 alms  collecting  meals  he will give  he will go  the waterpot  carrying
 
-(11) We certainly want one good brāhmaṇa to go with You. He will collect alms and give You Your meals, and he will carry Your waterpot.
+(11) We must ask that one good brāhmaṇa go with You. He will collect alms and give You Your meals, and he will carry Your waterpot.
 
 বনপথে যাইতে নাহি ‘ভোজ্যান্ন’ ব্রাহ্মণ ৷  
 আজ্ঞা কর, — সঙ্গে চলুক বিপ্র একজন ॥ ১২ ॥
@@ -328,7 +328,7 @@ of that water drops sprays  touch  whose  body
 sei ‘kṛṣṇa’ ‘kṛṣṇa’ kahe, preme nāce, gāya  
 he  Kṛṣṇa  Kṛṣṇa  says  in love  dances  sings
 
-(32) Whoever was touched by a spray of those drops cried, “Kṛṣṇa! Kṛṣṇa!” and danced and sang in love.
+(32) Every elephant those drops of water touched cried, “Kṛṣṇa! Kṛṣṇa!” and danced and sang in love.
 
 কেহ ভূমে পড়ে, কেহ করয়ে চিৎকার ৷  
 দেখি’ ভট্টাচার্য্যের মনে হয় চমৎকার ॥ ৩৩ ॥
@@ -374,7 +374,7 @@ hearing  the sound of the flute  together with the black bucks
 pūjāṁ dadhur viracitāṁ praṇayāvalokaiḥ  
 worship  offered  arranged  with loving glances
 
-(36) “How blessed are these does! Foolish though they are, on hearing the flute, they and their mates, the black bucks, have offered the wondrously attired son of Nanda a worship of loving glances.” (Śrīmad-Bhāgavatam, 10.21.11)[^6]
+(36) “How blessed are these does! Foolish though they are, on hearing the flute, they and their mates, the black bucks, have worshipped the wondrously attired son of Nanda with their loving glances.” (Śrīmad-Bhāgavatam, 10.21.11)[^6]
 
 হেনকালে ব্যাঘ্র তথা আইল পাঁচ-সাত ৷  
 ব্যাঘ্র-মৃগী মিলি’ চলে মহাপ্রভুর সাথ ॥ ৩৭ ॥
@@ -384,7 +384,7 @@ at that time  tigers  there  came  five or seven
 vyāghra-mṛgī mili’ cale mahāprabhura sātha  
 tigers and does  together  go  Mahāprabhu’s  company
 
-(37) Just then five or seven tigers came there, and tigers and does walked together with Mahāprabhu.
+(37) Just then five or seven tigers came there, and the tigers and does walked together with Mahāprabhu.
 
 দেখি’ মহাপ্রভুর ‘বৃন্দাবন’-স্মৃতি হৈল ৷  
 বৃন্দাবন-গুণ-বর্ণন শ্লোক পড়িল ॥ ৩৮ ॥
@@ -408,7 +408,7 @@ like friends  the abode of the Unconquered
 druta-ruṭ-tarṣaṇādikam  
 fled away  anger, thirst and the like
 
-(39) “There, in the abode of the Unconquered Lord, men and beasts, enemies by nature, lived together like friends, and anger, thirst and the like had fled away.” (Śrīmad-Bhāgavatam, 10.13.60)[^7]
+(39) “There, in the abode of the Unconquerable Lord, men and beasts, enemies by nature, lived together like friends, and anger, thirst and the like had fled away.” (Śrīmad-Bhāgavatam, 10.13.60)[^7]
 
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহ করি’ প্রভু যবে বলিল ৷  
 ‘কৃষ্ণ’ কহি’ ব্যাঘ্র-মৃগ নাচিতে লাগিল ॥ ৪০ ॥
@@ -535,7 +535,7 @@ to Gauḍa  Vaṅga  Utkala  the southern lands  going
 lokera nistāra kaila āpane bhramiyā  
 of the people  deliverance  He brought  Himself  wandering
 
-(52) Going to Gauḍa, Vaṅga, Utkala and the South, He Himself wandered there and delivered the people.
+(52) He Himself travelled through Gauḍa, Vaṅga, Utkala and the South and delivered the people.
 
 মথুরা যাইবার ছলে আসেন ঝারিখণ্ড ৷  
 ভিন্নপ্রায় লোক তাঁহা পরম-পাষণ্ড ॥ ৫৩ ॥
@@ -1196,7 +1196,7 @@ whoever  Him  sees  he  God  taking Him for  says
 aiche mohana-vidyā — ye dekhe, se mohe  
 such  the art of enchanting  whoever  sees  he  is bewildered
 
-(118) “Whoever sees Him declares Him to be God. Such is His art of enchantment: whoever looks at Him falls under its spell.
+(118) Whoever sees Him declares Him to be God. Such is His art of enchantment: whoever looks at Him falls under its spell.
 
 সার্ব্বভৌম ভট্টাচার্য্য — পণ্ডিত প্রবল ৷  
 শুনি’ চৈতন্যের সঙ্গে হইল পাগল ॥ ১১৯ ॥
@@ -1206,7 +1206,7 @@ Sārvabhauma  Bhaṭṭācārya  a scholar  formidable
 śuni’ caitanyera saṅge haila pāgala  
 I have heard  Caitanya’s  in the company  became  mad
 
-(119) “Sārvabhauma Bhaṭṭācārya is a formidable scholar, yet I hear that in Caitanya’s company he has gone mad.
+(119) Sārvabhauma Bhaṭṭācārya is a formidable scholar, yet I hear that in Caitanya’s company he has gone mad.
 
 ‘সন্ন্যাসী’ — নাম-মাত্র, মহা-ইন্দ্রজালী ৷  
 ‘কাশীপুরে’ না বিকাবে তাঁর ভাবকালি ॥ ১২০ ॥
@@ -1216,7 +1216,7 @@ a sannyāsī  in name only  a great conjurer
 ‘kāśīpure’ nā vikābe tām̐ra bhāvakāli  
 in Kāśī  not  will sell  His  wares of emotion
 
-(120) “He is a *sannyāsī* in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.[^24]
+(120) He is a *sannyāsī* in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.[^24]
 
 ‘বেদান্ত’ শ্রবণ কর, না যাইহ তাঁর পাশ ৷  
 উচ্ছৃঙ্খল-লোক-সঙ্গে দুইলোক-নাশ ॥ ১২১ ॥
@@ -1226,7 +1226,7 @@ Vedānta  hearing  do  do not  go  His  to the side
 ucchṛṅkhala-loka-saṅge dui-loka-nāśa  
 of unruly people  in the company  of both worlds  ruin
 
-(121) “Keep hearing Vedānta and do not go near Him. The company of unruly people ruins both this world and the next.”[^25]
+(121) Keep hearing Vedānta and do not go near Him. The company of unruly people ruins both this world and the next.”[^25]
 
 এত শুনি’ সেই বিপ্র মহাদুঃখ পাইলা ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ তথা হৈতে উঠি’ গেলা ॥ ১২২ ॥
@@ -1276,7 +1276,7 @@ Your  faults  in telling  makes  of the name  utterance
 ‘caitanya’ ‘caitanya’ kari’ kahe tina-bāra  
 Caitanya  Caitanya  thus  says  three times
 
-(126) “While speaking of Your faults he uttered Your name, saying ‘Caitanya, Caitanya’ three times.
+(126) While speaking of Your faults he uttered Your name, saying ‘Caitanya, Caitanya’ three times.
 
 তিনবারে ‘কৃষ্ণনাম’ না আইল তার মুখে ৷  
 ‘অবজ্ঞা’তে নাম লয়, শুনি’ পাই দুঃখে ॥ ১২৭ ॥
@@ -1286,7 +1286,7 @@ in three times  the name of Kṛṣṇa  not  came  his  to the mouth
 ‘avajñā’te nāma laya, śuni’ pāi duḥkhe  
 with contempt  the name  he takes  hearing  I feel  pain
 
-(127) “But not once in those three times did the name of Kṛṣṇa come to his lips. He takes Your name with contempt, and hearing it pains me.[^26]
+(127) But not once in those three times did the name of Kṛṣṇa come to his lips. He takes Your name with contempt, and hearing it pains me.[^26]
 
 ইহার কারণ মোরে কহ কৃপা করি’ ৷  
 তোমা দেখি’ মুখ মোর বলে ‘কৃষ্ণ’ ‘হরি’ ॥” ॥ ১২৮ ॥
@@ -1296,7 +1296,7 @@ of this  the reason  to me  tell  mercy  showing
 tomā dekhi’ mukha mora bale ‘kṛṣṇa’ ‘hari’”  
 You  seeing  mouth  my  says  Kṛṣṇa  Hari
 
-(128) “Please be kind and tell me the reason for this. When I see You, my mouth says ‘Kṛṣṇa!’ and ‘Hari!’ ”
+(128) Please be kind and tell me the reason for this. When I see You, my mouth says ‘Kṛṣṇa!’ and ‘Hari!’ ”
 
 প্রভু কহে, — মায়াবাদী কৃষ্ণে অপরাধী ৷  
 ‘ব্রহ্ম’, ‘আত্মা’, ‘চৈতন্য’ কহে নিরবধি ॥ ১২৯ ॥
@@ -1316,7 +1316,7 @@ therefore  their  to the mouth  not  comes  the name of Kṛṣṇa
 ‘kṛṣṇa-nāma’, ‘kṛṣṇa-svarūpa’ — duita ‘samāna’  
 the name of Kṛṣṇa  Kṛṣṇa’s own form  both are  equal
 
-(130) “Therefore the name of Kṛṣṇa does not come to their lips. The name of Kṛṣṇa and Kṛṣṇa’s own form are one and the same.
+(130) Therefore the name of Kṛṣṇa does not come to their lips. The name of Kṛṣṇa and Kṛṣṇa’s own form are one and the same.
 
 ‘নাম’, ‘বিগ্রহ’, ‘স্বরূপ’ — তিন একরূপ ৷  
 তিনে ‘ভেদ’ নাহি, — তিন ‘চিদানন্দ-রূপ’ ॥ ১৩১ ॥
@@ -1326,7 +1326,7 @@ the name  the Deity form  the svarūpa  the three  one in form
 tine ‘bheda’ nāhi, — tina ‘cid-ānanda-rūpa’  
 among the three  difference  there is not  the three  are forms of consciousness and bliss
 
-(131) “The name, the form (*vigraha*) and the essential nature (*svarūpa*) are one. There is no difference among the three: all three are forms of consciousness and bliss.
+(131) The name, the form (*vigraha*) and the essential nature (*svarūpa*) are one. There is no difference among the three: all three are forms of consciousness and bliss.
 
 দেহ-দেহীর, নাম-নামীর কৃষ্ণে নাহি ‘ভেদ’ ৷  
 জীবের ধর্ম্ম — নাম-দেহ-স্বরূপে ‘বিভেদ’ ॥ ১৩২ ॥
@@ -1336,7 +1336,7 @@ of body and embodied  of name and named  in Kṛṣṇa  there is not  differenc
 jīvera dharma — nāma-deha-svarūpe ‘vibheda’  
 of the jīva  the nature  in name  body  and self  difference
 
-(132) “In Kṛṣṇa there is no difference between the body and its possessor, or between the name and the one named. It is the jīva’s nature that his name, body and true self are different.
+(132) In Kṛṣṇa there is no difference between the body and its possessor, or between the name and the one named. With the jīva it is otherwise: his name, his body and his true self differ from one another.
 
 নাম চিন্তামণিঃ কৃষ্ণশ্চৈতন্যরসবিগ্রহঃ ৷  
 পূর্ণঃ শুদ্ধো নিত্যমুক্তোঽভিন্নত্বান্নামনামিনোঃ ॥ ১৩৩ ॥
@@ -1360,7 +1360,7 @@ therefore  Kṛṣṇa’s  name  body  pastimes
 prākṛtendriya-grāhya nahe, haya sva-prakāśa  
 by material senses  graspable  are not  they are  self-manifest
 
-(134) “Therefore Kṛṣṇa’s name, His body and His pastimes cannot be grasped by the material senses; they manifest themselves.
+(134) Therefore Kṛṣṇa’s name, His body and His pastimes cannot be grasped by the material senses; they manifest themselves.
 
 ‘কৃষ্ণনাম’, ‘কৃষ্ণগুণ’, ‘কৃষ্ণলীলা’-বৃন্দ ৷  
 কৃষ্ণের স্বরূপ সম, — সব চিদানন্দ ॥ ১৩৫ ॥
@@ -1370,7 +1370,7 @@ Kṛṣṇa’s name  Kṛṣṇa’s qualities  Kṛṣṇa’s pastimes  all
 kṛṣṇera svarūpa sama, — saba cid-ānanda  
 Kṛṣṇa’s  svarūpa  equal to  all  consciousness and bliss
 
-(135) “Kṛṣṇa’s name, His qualities and all His pastimes are equal to Kṛṣṇa’s own form: all of them are consciousness and bliss.
+(135) Kṛṣṇa’s name, His qualities and all His pastimes are equal to Kṛṣṇa’s own form: all of them are consciousness and bliss.
 
 অতঃ শ্রীকৃষ্ণনামাদি ন ভবেদ্গ্রাহ্যমিন্দ্রিয়ৈঃ ৷  
 সেবোন্মুখে হি জিহ্বাদৌ স্বয়মেব স্ফুরত্যদঃ ॥ ১৩৬ ॥
@@ -1394,7 +1394,7 @@ than the bliss of Brahman  more than  full bliss  of the pastimes  the rasa
 brahma-jñānī ākarṣiyā kare ātma-vaśa  
 the knower of Brahman  attracting  makes  subject to itself
 
-(137) “The rasa of His pastimes is fuller bliss than the bliss of Brahman. It attracts even the knower of Brahman and makes him its own.
+(137) The rasa of His pastimes is fuller bliss than the bliss of Brahman. It attracts even the knower of Brahman and makes him its own.
 
 স্বসুখনিভৃতচেতাস্তদ্ব্যুদস্তান্যভাবো-  
 ঽপ্যজিতরুচিরলীলাকৃষ্টসারস্তদীয়ম্ ৷  
@@ -1420,7 +1420,7 @@ than the bliss of Brahman  more than  full bliss  are Kṛṣṇa’s qualities
 ataeva ākarṣaye ātmārāmera mana  
 therefore  they attract  of the ātmārāma  the mind
 
-(139) “Kṛṣṇa’s qualities are fuller bliss than the bliss of Brahman. Therefore they attract the mind even of one who delights in the self.
+(139) Kṛṣṇa’s qualities are fuller bliss than the bliss of Brahman. Therefore they attract the mind even of one who delights in the self.
 
 আত্মারামাশ্চ মুনয়ো নির্গ্রন্থা অপ্যুরুক্রমে ৷  
 কুর্ব্বন্ত্যহৈতুকীং ভক্তিমিত্থম্ভূতগুণো হরিঃ ॥ ১৪০ ॥
@@ -1444,7 +1444,7 @@ these  all  let them be  with Kṛṣṇa’s feet  in connection
 ātmārāmera mana hare tulasīra gandhe  
 of the ātmārāma  the mind  steals  of tulasī  the fragrance
 
-(141) “But leave all this aside: the very fragrance of tulasī that has touched Kṛṣṇa’s feet steals the mind of one who delights in the self.
+(141) But leave all this aside: the very fragrance of tulasī that has touched Kṛṣṇa’s feet steals the mind of one who delights in the self.
 
 তস্যারবিন্দনয়নস্য পদারবিন্দ-  
 কিঞ্জল্কমিশ্রতুলসীমকরন্দবায়ুঃ ৷  
@@ -1460,7 +1460,7 @@ having entered within  through its own passage  caused  in them
 saṅkṣobham akṣara-juṣām api citta-tanvoḥ  
 agitation  devoted to the imperishable Brahman  even  of mind and body
 
-(142) “The breeze, carrying the fragrance of the tulasī mixed with the filaments of the lotus feet of the lotus-eyed Lord, entered within them through their nostrils and stirred both mind and body, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)
+(142) “The breeze that bore the fragrance of tulasī, mingled with the pollen of the lotus-eyed Lord’s lotus feet, entered their nostrils and stirred both their minds and their bodies, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)
 
 অতএব ‘কৃষ্ণনাম’ না আইসে তার মুখে ৷  
 মায়াবাদি-গণ, যাতে মহা-বহির্ম্মুখে ॥ ১৪৩ ॥
@@ -1470,7 +1470,7 @@ therefore  the name of Kṛṣṇa  not  comes  their  to the mouth
 māyāvādi-gaṇa, yāte mahā-bahirmukhe  
 the Māyāvādīs  since  are utterly averse
 
-(143) “Therefore the name of Kṛṣṇa does not come to the lips of the Māyāvādīs, for they are utterly averse to the Lord.
+(143) Therefore the name of Kṛṣṇa does not come to the lips of the Māyāvādīs, for they are utterly averse to the Lord.
 
 ভাবকালি বেচিতে আমি আইলাঙ কাশীপুরে ৷  
 গ্রাহক নাহি, না বিকায়, লঞা যাব ঘরে ॥ ১৪৪ ॥
@@ -1480,7 +1480,7 @@ wares of emotion  to sell  I  came  to Kāśī
 grāhaka nāhi, nā vikāya, lañā yāba ghare  
 buyer  there is none  not  it sells  taking it  I shall go  home
 
-(144) “I came to Kāśī to sell My wares of emotion, but there is no buyer; they do not sell, so I shall have to take them back home.
+(144) I came to Kāśī to sell My wares of emotion, but there is no buyer; they do not sell, so I shall have to take them back home.
 
 ভারি বোঝা লঞা আইলাঙ, কেমনে লঞা যাব ?  
 অল্প-স্বল্প-মূল্য পাইলে, এথাই বেচিব ॥ ১৪৫ ॥
@@ -1490,7 +1490,7 @@ heavy  load  bringing  I came  how  taking it  shall I go
 alpa-svalpa-mūlya pāile, ethāi veciba  
 a small  a trifling  price  if I get  right here  I shall sell
 
-(145) “I came with a heavy load — how can I carry it back? If I get even a small price, I will sell it right here.”[^31]
+(145) I came with a heavy load — how can I carry it back? If I get even a small price, I will sell it right here.”[^31]
 
 এত বলি’ সেই বিপ্রে আত্মসাৎ করি’ ৷  
 প্রাতে উঠি’ মথুরা চলিলা গৌরহরি ॥ ১৪৬ ॥
@@ -1660,7 +1660,7 @@ whose  at the sight  the people  with love  maddened  becoming
 hāse, kānde, nāce, gāya, kṛṣṇa-nāma lañā  
 laugh  weep  dance  sing  the name of Kṛṣṇa  taking
 
-(162) “At the sight of Him people become mad with love: they laugh, weep, dance and sing, chanting the name of Kṛṣṇa.
+(162) At the sight of Him people become mad with love: they laugh, weep, dance and sing, chanting the name of Kṛṣṇa.
 
 সর্ব্বথা নিশ্চিত, ইঁহো — কৃষ্ণ-অবতার ৷  
 মথুরা আইল লোকের করিতে নিস্তার ॥ ১৬৩ ॥
@@ -1670,7 +1670,7 @@ in every way  certain  He is  an avatāra of Kṛṣṇa
 mathurā āila lokera karite nistāra  
 to Mathurā  He has come  of the people  to accomplish  deliverance
 
-(163) “It is certain in every way that He is an avatāra of Kṛṣṇa. He has come to Mathurā to deliver the people.”
+(163) It is certain in every way that He is an avatāra of Kṛṣṇa. He has come to Mathurā to deliver the people.”
 
 তবে মহাপ্রভু সেই ব্রাহ্মণে লঞা ৷  
 তাঁহারে পুছিলা কিছু নিভৃতে বসিয়া ॥ ১৬৪ ॥
@@ -1710,7 +1710,7 @@ mercy  showing  he  my  to the dwelling  came
 more śiṣya kari’ mora hāte ‘bhikṣā’ kailā  
 me  a disciple  making  from my  hands  alms  he took
 
-(167) “Out of kindness he came to my home. He made me his disciple and accepted his meal (*bhikṣā*) from my hands.
+(167) Out of kindness he came to my home. He made me his disciple and accepted his meal (*bhikṣā*) from my hands.
 
 গোপাল প্রকট করি’ সেবা কৈল ‘মহাশয়’ ৷  
 অদ্যাপিহ তাঁহার সেবা ‘গোবর্দ্ধনে’ হয় ॥ ১৬৮ ॥
@@ -1720,7 +1720,7 @@ Gopāla  manifest  making  service  performed  the great soul
 adyāpiha tām̐hāra sevā ‘govardhane’ haya  
 to this day  His  service  at Govardhana  goes on
 
-(168) “That great soul brought Gopāla to light and served Him, and to this day Gopāla is served at Govardhana.”
+(168) That great soul brought Gopāla to light and served Him, and to this day Gopāla is served at Govardhana.”
 
 শুনি’ প্রভু কৈল তাঁর চরণ বন্দন ৷  
 ভয় পাঞা প্রভু-পায় পড়িলা ব্রাহ্মণ ॥ ১৬৯ ॥
@@ -1760,7 +1760,7 @@ but  Your  love  seeing  in my mind  I infer
 mādhavendra-purīra ‘sambandha’ dhara, jāni  
 with Mādhavendra Purī  a connection  You have  I know
 
-(172) “But seeing Your love, I infer that You have some connection with Mādhavendra Purī; I am sure of it.
+(172) But seeing Your love, I infer that You have some connection with Mādhavendra Purī; I am sure of it.
 
 কৃষ্ণপ্রেমা তাঁহা, যাঁহা তাঁহার ‘সম্বন্ধ’ ৷  
 তাঁহা বিনা এই প্রেমার কাঁহা নাহি গন্ধ ॥ ১৭৩ ॥
@@ -1770,7 +1770,7 @@ love for Kṛṣṇa  is there  where  his  connection
 tām̐hā vinā ei premāra kām̐hā nāhi gandha  
 him  without  of this  love  anywhere  there is not  the scent
 
-(173) “Love for Kṛṣṇa is found where there is a connection with him. Without him there is not even a scent of such love anywhere.”
+(173) Love for Kṛṣṇa is found where there is a connection with him. Without him there is not even a scent of such love anywhere.”
 
 তবে ভট্টাচার্য্য তারে ‘সম্বন্ধ’ কহিল ৷  
 শুনি’ আনন্দিত বিপ্র নাচিতে লাগিল ॥ ১৭৪ ॥
@@ -1854,7 +1854,7 @@ Mahāprabhu  of him  when  a meal  asked
 dainya kari’ sei vipra kahite lāgila  
 humility  showing  that  brāhmaṇa  to speak  began
 
-(181) When Mahāprabhu asked him for a meal, the brāhmaṇa humbly began to say:
+(181) When Mahāprabhu asked him for a meal, the brāhmaṇa humbly replied:
 
 তোমারে ‘ভিক্ষা’ দিব, বড় ভাগ্য সে আমার ৷  
 তুমি — ঈশ্বর, নাহি তোমার বিধি-ব্যবহার ॥ ১৮২ ॥
@@ -1874,7 +1874,7 @@ foolish people  will make  Your  censure
 sahite nā pārimu sei ‘duṣṭe’ra vacana  
 to bear  not  I shall be able  of those  wicked men  the words
 
-(183) “But foolish people will censure You, and I will not be able to bear the words of those wicked people.”[^35]
+(183) But foolish people will censure You, and I will not be able to bear the words of those wicked people.”[^35]
 
 প্রভু কহে, — শ্রুতি, স্মৃতি, যত ঋষিগণ ৷  
 সবে ‘এক’-মত নহে, ভিন্ন ভিন্ন ধর্ম্ম ॥ ১৮৪ ॥
@@ -1894,7 +1894,7 @@ of dharma  establishing  for the sake of  of the sādhu  the conduct
 purī-gosāñira ye ācaraṇa, sei dharma sāra  
 of Purī Gosāñi  which  conduct  that  of dharma  the essence
 
-(185) “The conduct of a sādhu is what establishes dharma, and the conduct of Purī Gosāñi is the essence of dharma.[^36]
+(185) The conduct of a sādhu is what establishes dharma, and the conduct of Purī Gosāñi is the essence of dharma.[^36]
 
 তর্কোঽপ্রতিষ্ঠঃ শ্রুতয়ো বিভিন্না  
 নাসাবৃষির্যস্য মতং ন ভিন্নম্ ৷  
@@ -2010,7 +2010,7 @@ composed  becoming  the Lord  does  scratching of the bodies
 prabhu-saṅge cale, nāhi chāḍe dhenu-gaṇa  
 with the Lord  go  not  leave  the cows
 
-(196) Coming to Himself, the Lord scratched the cows’ bodies, and they walked along with Him and would not leave Him.
+(196) Coming to Himself, the Lord stroked the cows, and they walked along with Him and would not leave Him.
 
 কষ্টে-সৃষ্ট্যে ধেনু সব রাখিল গোয়াল ৷  
 প্রভুকণ্ঠধ্বনি শুনি’ আইসে মৃগীপাল ॥ ১৯৭ ॥
@@ -2140,7 +2140,7 @@ the male and female parrots  the Lord’s  onto the hand  flying  alight
 prabhuke śunāñā kṛṣṇera guṇa-śloka paḍe  
 for the Lord  to hear  Kṛṣṇa’s  of qualities  a verse  recite
 
-(209) The parrots flew down onto the Lord’s hand, and for the Lord to hear they began reciting verses about Kṛṣṇa’s qualities.
+(209) The parrots flew down onto the Lord’s hand, and began to recite verses on Kṛṣṇa’s qualities for the Lord to hear.
 
 সৌন্দর্য্যং ললনালিধৈর্য্যদলনং লীলা রমাস্তম্ভিনী  
 বীর্য্যং কন্দুকিতাদ্রিবর্য্যমমলাঃ পারে পরার্দ্ধং গুণাঃ ৷  
