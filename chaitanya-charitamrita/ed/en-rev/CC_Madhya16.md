@@ -1996,7 +1996,7 @@ Mantreśvara  the dangerous river  across  he brought them
 ‘pichaldā’ paryanta yei yavana āila  
 Picchaldā  as far as  who  yavana  came
 
-(199) He brought them across the dangerous Mantreśvara river, and the *yavana* came with them all the way to Picchaldā.
+(199) He brought them across the dangerous Mantreśvara river, and the *yavana* came with them all the way to Picchaldā.[^29]
 
 তাঁরে বিদায় দিল প্রভু সেই গ্রাম হৈতে ৷  
 সে-কালে তাঁর প্রেম-চেষ্টা না পারি বর্ণিতে ॥ ২০০ ॥
@@ -2006,7 +2006,7 @@ him  leave  gave  the Lord  that  village  from
 se-kāle tām̐ra prema-ceṣṭā nā pāri varṇite  
 at that time  his  signs of love  not  I can  describe
 
-(200) From that village the Lord bade him farewell. I cannot describe the signs of love he showed then.
+(200) From that village the Lord bade him farewell. I cannot describe the signs of love he showed then.[^30]
 
 অলৌকিক লীলা করে শ্রীকৃষ্ণচৈতন্য ৷  
 যেই ইহা শুনে, তাঁর জন্ম, দেহ ধন্য ॥ ২০১ ॥
@@ -2036,7 +2036,7 @@ the Lord  has come  saying  among the people  arose  an uproar
 manuṣya bharila saba, kibā jala, sthala  
 with people  filled  everything  whether  water  land
 
-(203) “The Lord has come!” — a great clamour rose among the people, and everything, water and land alike, was filled with people.
+(203) At the news that the Lord had come a great clamour arose, and land and water alike were filled with people.
 
 রাঘব-পণ্ডিত আসি’ প্রভু লঞা গেলা ৷  
 পথে যাইতে লোকভিড়ে কষ্টে-সৃষ্ট্যে আইলা ॥ ২০৪ ॥
@@ -2076,7 +2076,7 @@ in Vācaspati’s house  the Lord  how  stayed
 loka-bhiḍa-bhaye yaiche ‘kuliyā’ āilā  
 for fear of the crowds  how  to Kuliyā  He came
 
-(207) Then came the Lord’s stay in Vācaspati’s house, and His going to Kuliyā for fear of the crowds.
+(207) Then the Lord stayed in Vācaspati’s house, and for fear of the crowds He went on to Kuliyā.
 
 মাধবদাস-গৃহে তথা শচীর নন্দন ৷  
 লক্ষ-কোটী লোক তথা পাইল দর্শন ॥ ২০৮ ॥
@@ -2096,7 +2096,7 @@ seven  days  staying  there  the people  He delivered
 saba aparādhi-gaṇe prakāre tārilā  
 all  the offenders  in His own way  He saved
 
-(209) He stayed there seven days and delivered the people; in His own way He saved even all the offenders.
+(209) He stayed there seven days and delivered the people; in His own way He saved even all the offenders.[^31]
 
 ‘শান্তিপুরাচার্য্য’-গৃহে ঐছে আইলা ৷  
 শচী-মাতা মিলি’ তাঁর দুঃখ খণ্ডাইলা ॥ ২১০ ॥
@@ -2116,7 +2116,7 @@ then  to the village of Rāmakeli  the Lord  how  went
 ‘nāṭaśālā’ haite prabhu punaḥ phiri’ āilā  
 Nāṭaśālā  from  the Lord  again  turning back  came
 
-(211) Then came the Lord’s going to the village of Rāmakeli, and His turning back again from Nāṭaśālā.
+(211) Then the Lord went to the village of Rāmakeli, and from Nāṭaśālā He turned back once again.
 
 শান্তিপুরে পুনঃ কৈল দশ-দিন বাস ৷  
 বিস্তারি’ বর্ণিয়াছেন বৃন্দাবন দাস ॥ ২১২ ॥
@@ -2126,7 +2126,7 @@ in Śāntipura  again  He made  a ten days’  stay
 vistāri’ varṇiyāchena vṛndāvana dāsa  
 in detail  has described  Vṛndāvana  dāsa
 
-(212) In Śāntipura He stayed again for ten days. Vṛndāvana dāsa has described all this in detail.
+(212) In Śāntipura He stayed again for ten days. Vṛndāvana dāsa has described this in detail.[^32]
 
 অতএব ইঁহা তার না কৈলুঁ বিস্তার ৷  
 পুনরুক্তি হয়, গ্রন্থ বাড়য়ে অপার ॥ ২১৩ ॥
@@ -2176,7 +2176,7 @@ Hiraṇya  Govardhana  two  brothers
 saptagrāme bāra-lakṣa mudrāra īśvara  
 in Saptagrāma  twelve lakhs  of coins  the masters
 
-(217) Hiraṇya and Govardhana were two brothers, masters of twelve lakhs of coins in Saptagrāma.
+(217) Hiraṇya and Govardhana were two brothers, masters of twelve lakhs of coins in Saptagrāma.[^33]
 
 মহৈশ্বর্য্যযুক্ত দুঁহে — বদান্য, ব্রহ্মণ্য ৷  
 সদাচারী, সৎকুলীন, ধার্ম্মিকাগ্রগণ্য ॥ ২১৮ ॥
@@ -2196,7 +2196,7 @@ living in Nadīyā  of the brāhmaṇas  the means of livelihood  almost
 artha, bhūmi, grāma diyā karena sahāya  
 money  land  villages  giving  they give  help
 
-(219) They were almost the sole support of the brāhmaṇas of Nadīyā, helping them with gifts of money, land and villages.
+(219) They were, as it were, the livelihood of the brāhmaṇas of Nadīyā, helping them with gifts of money, land and villages.
 
 নীলাম্বর চক্রবর্তী — আরাধ্য দুঁহার ৷  
 চক্রবর্তী করে দুঁহায় ‘ভ্রাতৃ’-ব্যবহার ॥ ২২০ ॥
@@ -2965,3 +2965,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^27]: *Amṛta-pravāha-bhāṣya*: the ruler of Gauḍa had a department called the *viśvāsa-khānā*, staffed only by the most trusted Kāyasthas; these *viśvāsas* were sent wherever the king had important business.
 
 [^28]: Heading in the edition, which confirms the reference: “Hearing, chanting or remembering the Lord’s name, even one born outside the *varṇas* is purified — what then of one who has seen Him face to face?” *Anubhāṣya*: this is Devahūti’s prayer to Śrī Kapiladeva, when, having heard from Him of the yoga of pure bhakti, she was freed from illusion.
+
+[^29]: *Anubhāṣya*: a dangerous river (*duṣṭa-nada*) is a waterway infested by river pirates; it is hard to pass also because the river is very wide and swift.
+
+[^30]: Heading in the edition: “In Picchaladā the Lord sends him back; his wonderful grief.”
+
+[^31]: Heading in the edition: “In Kuliyā the Lord delivered many offenders; therefore it is the ‘seat of Aparādha-bhañjana’, the place where offences are forgiven.”
+
+[^32]: The second line is the same as in verses 56 and 81 of this chapter.
+
+[^33]: *Anubhāṣya*: Hiraṇya and Govardhana Majumdār were Kāyasthas of a noble family who lived in Śrī Kṛṣṇapura near Saptagrāma (Hooghly district); in those days they collected twelve lakhs of coins in revenue every year.
