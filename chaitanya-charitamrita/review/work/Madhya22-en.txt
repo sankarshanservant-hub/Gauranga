@@ -810,6 +810,7 @@ w: Prahlāda  in remembering  His  feet  in serving  Lakṣmī  Pṛthu  in wors
 w: Akrūra  and  in offering prayers  the lord of the monkeys  in servitude  and  in friendship  Arjuna
 w: of all he had and himself  in the offering  Bali  was  the attainment of Kṛṣṇa  of these  the highest
 tr: “Parīkṣit attained perfection by hearing about Śrī Viṣṇu; Śukadeva, the son of Vyāsa, by glorifying Him; Prahlāda by remembering Him; Lakṣmī by serving His feet; Pṛthu by worship; Akrūra by offering prayers; Hanumān, lord of the monkeys, by servitude; Arjuna by friendship; and Bali by offering all he had and himself. All of them attained Kṛṣṇa in the highest way.” (Bhakti-rasāmṛta-sindhu, 1.2.265)
+fn: The edition’s heading: “a verse cited in the *Padyāvalī* and in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, Sādhana-bhakti-laharī)”. The verse number is not printed in the edition.
 
 ## 132
 w: he  indeed  the mind  of Kṛṣṇa  on the lotus feet
@@ -817,6 +818,7 @@ w: words  of the Lord of Vaikuṇṭha  of the qualities  in describing
 w: the hands  of Hari  of the temple  in cleaning and the like
 w: the ears  he engaged  about Acyuta  holy  narrations  in the telling
 tr: “King Ambarīṣa engaged his mind on Kṛṣṇa’s lotus feet, his words in describing the qualities of the Lord of Vaikuṇṭha, his hands in cleaning Hari’s temple and similar service, and his ears in hearing the holy narrations of Acyuta.” (Śrīmad-Bhāgavatam, 9.4.18)
+fn: The edition’s heading: *Śrīmad-Bhāgavatam*, 9.4.18–20 (on verses 132–134).
 
 ## 133
 w: of Mukunda  of the images  of the temples  in seeing  the eyes
@@ -831,6 +833,7 @@ w: the head  of Hṛṣīkeśa  to the feet  in bowing
 w: desire  and  in servitude  not  but  for the sake of enjoyment
 w: so that  of Uttamaśloka  in the devotees  sheltered  attraction
 tr: “He engaged his feet in walking to the Lord’s holy places, his head in bowing to the feet of Hṛṣīkeśa, and his desire in servitude, not in seeking enjoyment — so that there arose in him the attraction (*rati*) that takes shelter of the devotees of Uttamaśloka.” (Śrīmad-Bhāgavatam, 9.4.20)
+fn: *Amṛta-pravāha-bhāṣya*: a *rati* whose shelter is the devotees of Kṛṣṇa; *Anubhāṣya*: “following the servants of Hari”.
 
 ## 135
 w: desires  giving up  Kṛṣṇa  worships  of scripture  the command  honouring
@@ -848,11 +851,12 @@ tr: “O king, one who has given up his duties and with his whole being has gone
 w: of rules  the dharma  giving up  worships  of Kṛṣṇa  the feet
 w: to forbidden  sinful conduct  his  ever  does not go  mind
 tr: One who gives up the *dharma* of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.
+fn: *Anubhāṣya* (heading): a Vaiṣṇava is never a sinner, and a sinner is never a Vaiṣṇava.
 
 ## 138
 w: through ignorance  or  happens  if  sin  occurs
 w: Kṛṣṇa  him  pure  makes  not  makes him perform  atonement
-tr: And if through ignorance he should fall into “sin,” Kṛṣṇa purifies him; He does not make him perform atonement.
+tr: And if through ignorance he should fall into ‘sin’, Kṛṣṇa purifies him; He does not make him perform atonement.
 
 ## 139
 w: His own  of the feet  the root  of one who worships  the dear one
@@ -865,6 +869,7 @@ tr: “Should a dear devotee who worships the root of His feet, having given up 
 w: knowledge  renunciation and the like  of bhakti  ever  are not  limbs
 w: non-violence  yama  niyama and the like  accompany  of Kṛṣṇa’s devotees  the company
 tr: Knowledge (jñāna), renunciation (*vairāgya*) and the like are never limbs of devotion. Non-violence, restraint (*yama*), regulation (*niyama*) and the like follow along in the company of Kṛṣṇa’s devotees.
+fn: *Amṛta-pravāha-bhāṣya* (on 141): at first they may be of slight help to bhakti, but they are not counted among its limbs. The edition’s heading: *jñāna* and *vairāgya* are only two sons who follow bhakti.
 
 ## 141
 w: therefore  in devotion to Me  engaged
@@ -872,6 +877,7 @@ w: of a yogī  indeed  whose mind is in Me
 w: not  knowledge  nor  and  renunciation
 w: as a rule  the highest good  is  here
 tr: “Therefore, for the *yogī* engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)
+fn: *Amṛta-pravāha-bhāṣya*: bhakti is independent; *jñāna*, *vairāgya* and *yoga* may at first be of slight help to it, but they are not counted among its limbs. The verse number is not printed in the edition.
 
 ## 142
 w: these  not  indeed  wonderful  O hunter
@@ -889,6 +895,7 @@ tr: I have described to you the practice of *vaidhī-bhakti*. Now, Sanātana, he
 w: rāgātmikā-bhakti  pre-eminent  in the people of Vraja
 w: it  following  of the devotion  rāgānugā  by name
 tr: *Rāgātmikā-bhakti*, devotion whose very nature is *rāga*, is found pre-eminently in the people of Vraja. Devotion that follows it is called *rāgānugā*.
+fn: *Mukhyā*, “principal”: such bhakti exists nowhere else (*Amṛta-pravāha-bhāṣya*); the path of the practitioner is *rāgānugā*, following the people of Vraja.
 
 ## 145
 w: for the beloved  natural  rāga
@@ -896,6 +903,7 @@ w: supreme absorption  is
 w: with it  filled  which  is  devotion
 w: it  here  rāgātmikā  is called
 tr: “Natural, intense absorption in one’s beloved is *rāga*. Devotion filled with such *rāga* is here called *rāgātmikā*.” (Bhakti-rasāmṛta-sindhu, 1.2.272)
+fn: Reference as in the edition’s heading (Sādhana-bhakti-laharī, 272).
 
 ## 146
 w: for the beloved  intense  thirst  of rāga  the essential  characteristic

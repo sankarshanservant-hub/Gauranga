@@ -1502,7 +1502,7 @@ of Śrīmad-Bhāgavatam  of the meanings  the relishing  with rasikas  together
 (126) “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 40)[^44]
 
 শ্রদ্ধা বিশেষতঃ প্রীতিঃ শ্রীমূর্ত্তেরঙ্ঘ্রিসেবনে ৷  
-নামসঙ্কীর্ত্তনং শ্রীমন্মথুরামণ্ডলে স্থিতিঃ ॥ ১২৭ ॥
+নামসংকীর্ত্তনং শ্রীমন্মথুরামণ্ডলে স্থিতিঃ ॥ ১২৭ ॥
 
 śraddhā viśeṣataḥ prītiḥ  
 faith  special  love  
@@ -1563,10 +1563,10 @@ Akrūra  and  in offering prayers  the lord of the monkeys  in servitude  and  i
 sarva-svātma-nivedane balir abhūt kṛṣṇāptir eṣāṁ param  
 of all he had and himself  in the offering  Bali  was  the attainment of Kṛṣṇa  of these  the highest
 
-(131) “Parīkṣit attained perfection by hearing about Śrī Viṣṇu; Śukadeva, the son of Vyāsa, by glorifying Him; Prahlāda by remembering Him; Lakṣmī by serving His feet; Pṛthu by worship; Akrūra by offering prayers; Hanumān, lord of the monkeys, by servitude; Arjuna by friendship; and Bali by offering all he had and himself. All of them attained Kṛṣṇa in the highest way.” (Bhakti-rasāmṛta-sindhu, 1.2.265)
+(131) “Parīkṣit attained perfection by hearing about Śrī Viṣṇu; Śukadeva, the son of Vyāsa, by glorifying Him; Prahlāda by remembering Him; Lakṣmī by serving His feet; Pṛthu by worship; Akrūra by offering prayers; Hanumān, lord of the monkeys, by servitude; Arjuna by friendship; and Bali by offering all he had and himself. All of them attained Kṛṣṇa in the highest way.” (Bhakti-rasāmṛta-sindhu, 1.2.265)[^47]
 
 স বৈ মনঃ কৃষ্ণপদারবিন্দয়ো-  
-র্বচাংসি বৈকুণ্ঠগুণানুবর্ণনে ৷  
+র্ব্বচাংসি বৈকুণ্ঠগুণানুবর্ণনে ৷  
 করৌ হরের্মন্দিরমার্জ্জনাদিষু  
 শ্রুতিঞ্চকারাচ্যুতসৎকথোদয়ে ॥ ১৩২ ॥
 
@@ -1579,7 +1579,7 @@ the hands  of Hari  of the temple  in cleaning and the like
 śrutiṁ cakārācyuta-sat-kathodaye  
 the ears  he engaged  about Acyuta  holy  narrations  in the telling
 
-(132) “King Ambarīṣa engaged his mind on Kṛṣṇa’s lotus feet, his words in describing the qualities of the Lord of Vaikuṇṭha, his hands in cleaning Hari’s temple and similar service, and his ears in hearing the holy narrations of Acyuta.” (Śrīmad-Bhāgavatam, 9.4.18)
+(132) “King Ambarīṣa engaged his mind on Kṛṣṇa’s lotus feet, his words in describing the qualities of the Lord of Vaikuṇṭha, his hands in cleaning Hari’s temple and similar service, and his ears in hearing the holy narrations of Acyuta.” (Śrīmad-Bhāgavatam, 9.4.18)[^48]
 
 মুকুন্দলিঙ্গালয়দর্শনে দৃশৌ  
 তদ্ভৃত্যগাত্রস্পর্শেঽঙ্গসঙ্গমম্ ৷  
@@ -1611,7 +1611,7 @@ desire  and  in servitude  not  but  for the sake of enjoyment
 yathottamaḥ śloka-janāśrayā ratiḥ  
 so that  of Uttamaśloka  in the devotees  sheltered  attraction
 
-(134) “He engaged his feet in walking to the Lord’s holy places, his head in bowing to the feet of Hṛṣīkeśa, and his desire in servitude, not in seeking enjoyment — so that there arose in him the attraction (*rati*) that takes shelter of the devotees of Uttamaśloka.” (Śrīmad-Bhāgavatam, 9.4.20)
+(134) “He engaged his feet in walking to the Lord’s holy places, his head in bowing to the feet of Hṛṣīkeśa, and his desire in servitude, not in seeking enjoyment — so that there arose in him the attraction (*rati*) that takes shelter of the devotees of Uttamaśloka.” (Śrīmad-Bhāgavatam, 9.4.20)[^49]
 
 কাম ত্যজি’ কৃষ্ণ ভজে শাস্ত্র-আজ্ঞা মানি’ ৷  
 দেব-ঋষি-পিতৃদিগের কভু নহে ঋণী ॥ ১৩৫ ॥
@@ -1647,7 +1647,7 @@ of rules  the dharma  giving up  worships  of Kṛṣṇa  the feet
 niṣiddha pāpācāre tāra kabhu nahe mana  
 to forbidden  sinful conduct  his  ever  does not go  mind
 
-(137) One who gives up the *dharma* of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.
+(137) One who gives up the *dharma* of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.[^50]
 
 অজ্ঞানে বা হয় যদি ‘পাপ’ উপস্থিত ৷  
 কৃষ্ণ তাঁরে শুদ্ধ করে, না করায় প্রায়শ্চিত্ত ॥ ১৩৮ ॥
@@ -1657,7 +1657,7 @@ through ignorance  or  happens  if  sin  occurs
 kṛṣṇa tām̐re śuddha kare, nā karāya prāyaścitta  
 Kṛṣṇa  him  pure  makes  not  makes him perform  atonement
 
-(138) And if through ignorance he should fall into “sin,” Kṛṣṇa purifies him; He does not make him perform atonement.
+(138) And if through ignorance he should fall into ‘sin’, Kṛṣṇa purifies him; He does not make him perform atonement.
 
 স্বপাদমূলং ভজতঃ প্রিয়স্য  
 ত্যক্তান্যভাবস্য হরিঃ পরেশঃ ৷  
@@ -1683,7 +1683,7 @@ knowledge  renunciation and the like  of bhakti  ever  are not  limbs
 ahiṁsā-yama-niyamādi bule kṛṣṇa-bhakta-saṅga  
 non-violence  yama  niyama and the like  accompany  of Kṛṣṇa’s devotees  the company
 
-(140) Knowledge (jñāna), renunciation (*vairāgya*) and the like are never limbs of devotion. Non-violence, restraint (*yama*), regulation (*niyama*) and the like follow along in the company of Kṛṣṇa’s devotees.
+(140) Knowledge (jñāna), renunciation (*vairāgya*) and the like are never limbs of devotion. Non-violence, restraint (*yama*), regulation (*niyama*) and the like follow along in the company of Kṛṣṇa’s devotees.[^51]
 
 তস্মান্মদ্ভক্তিযুক্তস্য যোগিনো বৈ মদাত্মনঃ ৷  
 ন জ্ঞানং ন চ বৈরাগ্যং প্রায়ঃ শ্রেয়ো ভবেদিহ ॥ ১৪১ ॥
@@ -1697,7 +1697,7 @@ not  knowledge  nor  and  renunciation
 prāyaḥ śreyo bhaved iha  
 as a rule  the highest good  is  here
 
-(141) “Therefore, for the *yogī* engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)
+(141) “Therefore, for the *yogī* engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)[^52]
 
 এতে ন হ্যদ্ভুতা ব্যাধ তবাহিংসাদয়ো গুণাঃ ৷  
 হরিভক্তৌ প্রবৃত্তা যে ন তে স্যুঃ পরতাপিনঃ ॥ ১৪২ ॥
@@ -1724,14 +1724,14 @@ of rāgānugā-bhakti  the characteristics  hear  Sanātana
 (143) I have described to you the practice of *vaidhī-bhakti*. Now, Sanātana, hear the characteristics of *rāgānugā-bhakti*.
 
 রাগাত্মিকা-ভক্তি — ‘মুখ্যা’ ব্রজবাসি-জনে ৷  
-তার অনুগত ভক্তির ‘রাগানুগা’ নামে ॥ ১৪৪ ॥
+তার অনুগত ভক্তির ‘রাগানুগা’-নামে ॥ ১৪৪ ॥
 
 rāgātmikā-bhakti — ‘mukhyā’ vraja-vāsi-jane  
 rāgātmikā-bhakti  pre-eminent  in the people of Vraja  
-tāra anugata bhaktira ‘rāgānugā’ nāme  
+tāra anugata bhaktira ‘rāgānugā’-nāme  
 it  following  of the devotion  rāgānugā  by name
 
-(144) *Rāgātmikā-bhakti*, devotion whose very nature is *rāga*, is found pre-eminently in the people of Vraja. Devotion that follows it is called *rāgānugā*.
+(144) *Rāgātmikā-bhakti*, devotion whose very nature is *rāga*, is found pre-eminently in the people of Vraja. Devotion that follows it is called *rāgānugā*.[^53]
 
 ইষ্টে স্বারসিকী রাগঃ পরমাবিষ্টতা ভবেৎ ৷  
 তন্ময়ী যা ভবেদ্ভক্তিঃ সাত্র রাগাত্মিকোদিতা ॥ ১৪৫ ॥
@@ -1745,12 +1745,12 @@ with it  filled  which  is  devotion
 sātra rāgātmikoditā  
 it  here  rāgātmikā  is called
 
-(145) “Natural, intense absorption in one’s beloved is *rāga*. Devotion filled with such *rāga* is here called *rāgātmikā*.” (Bhakti-rasāmṛta-sindhu, 1.2.272)
+(145) “Natural, intense absorption in one’s beloved is *rāga*. Devotion filled with such *rāga* is here called *rāgātmikā*.” (Bhakti-rasāmṛta-sindhu, 1.2.272)[^54]
 
-ইষ্টে ‘গাঢ়’-তৃষ্ণা’ — রাগের স্বরূপ-লক্ষণ ৷  
+ইষ্টে ‘গাঢ়-তৃষ্ণা’ — রাগের স্বরূপ-লক্ষণ ৷  
 ইষ্টে ‘আবিষ্টতা’ — তটস্থ-লক্ষণ কথন ॥ ১৪৬ ॥
 
-iṣṭe ‘gāḍha’-tṛṣṇā’ — rāgera svarūpa-lakṣaṇa  
+iṣṭe ‘gāḍha-tṛṣṇā’ — rāgera svarūpa-lakṣaṇa  
 for the beloved  intense  thirst  of rāga  the essential  characteristic  
 iṣṭe ‘āviṣṭatā’ — taṭastha-lakṣaṇa kathana  
 in the beloved  absorption  the marginal  characteristic  is said to be
@@ -1775,7 +1775,7 @@ out of longing  of the people of Vraja  the mood  he makes  following
 śāstra-yukti nāhi māne rāgānugāra prakṛti  
 of scripture  the arguments  does not  heed  of the rāgānugā  the nature
 
-(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^47]
+(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^55]
 
 বিরাজন্তীমভিব্যক্তাং ব্রজবাসিজনাদিষু ৷  
 রাগাত্মিকামনুসৃতা যা সা রাগানুগোচ্যতে ॥ ১৪৯ ॥
@@ -2057,4 +2057,20 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^46]: Reference by the edition’s heading (in another numbering, 1.2.238).
 
-[^47]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
+[^47]: The edition’s heading: “a verse cited in the *Padyāvalī* and in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, Sādhana-bhakti-laharī)”. The verse number is not printed in the edition.
+
+[^48]: The edition’s heading: *Śrīmad-Bhāgavatam*, 9.4.18–20 (on verses 132–134).
+
+[^49]: *Amṛta-pravāha-bhāṣya*: a *rati* whose shelter is the devotees of Kṛṣṇa; *Anubhāṣya*: “following the servants of Hari”.
+
+[^50]: *Anubhāṣya* (heading): a Vaiṣṇava is never a sinner, and a sinner is never a Vaiṣṇava.
+
+[^51]: *Amṛta-pravāha-bhāṣya* (on 141): at first they may be of slight help to bhakti, but they are not counted among its limbs. The edition’s heading: *jñāna* and *vairāgya* are only two sons who follow bhakti.
+
+[^52]: *Amṛta-pravāha-bhāṣya*: bhakti is independent; *jñāna*, *vairāgya* and *yoga* may at first be of slight help to it, but they are not counted among its limbs. The verse number is not printed in the edition.
+
+[^53]: *Mukhyā*, “principal”: such bhakti exists nowhere else (*Amṛta-pravāha-bhāṣya*); the path of the practitioner is *rāgānugā*, following the people of Vraja.
+
+[^54]: Reference as in the edition’s heading (Sādhana-bhakti-laharī, 272).
+
+[^55]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
