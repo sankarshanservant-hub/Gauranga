@@ -82,6 +82,40 @@ The Supreme Lord has no material body; His body is transcendental, and so the tr
 
 *Ākṛti*: shape; *prakṛti*: nature; *svarūpa*: form (*mūrti*); *svarūpa-lakṣaṇa*: the activity of that form (*vigraha*); *taṭastha-lakṣaṇa*: knowing by deeds.
 
+## 366
+
+*Śaktyāveśa* is of two kinds, secondary and principal. One in whom the *śakti* itself descends is a principal *śaktyāveśa-avatāra*. Where the *śakti* is seen only as a reflection, in the form of *vibhūti*, there is a secondary *śaktyāveśa-avatāra*.
+
+## 370
+
+“In Śeṣa, the *śakti* of serving Himself”: in the avatāra of Bhagavān in the form of Śeṣa is invested the *śakti* that consists in serving Him.
+
+## 371
+
+Where Bhagavān enters by a *kalā* of the *jñāna-śakti* and other *śaktis*, those greatest *jīvas* are counted as “*āveśa-avatāras*.”
+
+## 373
+
+Those *jīvas* who are endowed with *vibhūti* and splendor (*śrī*) — know them as born of a portion of My radiance.
+
+## 378
+
+Kṛṣṇa, the possessor of eternal pastimes (*vilāsa*), the shelter of all the *rasas* of devotion, has various ages, yet the best of them is *kiśora*.
+
+## 397
+
+Bhagavān Hari, who in the *nāṭya-śāstra* is glorified by the words “best,” “middling” and so on, is of three kinds: *pūrṇa*, *pūrṇatara* and *pūrṇatama*.
+
+## 398
+
+Hari who displays few qualities is *pūrṇa* (complete); Hari who displays all qualities, but in lesser measure, is *pūrṇatara* (more complete); and Hari in whom all qualities are displayed is *pūrṇatama* (most complete). So the learned glorify Him.
+
+## 399
+
+In Gokula Kṛṣṇa's most complete fullness (*pūrṇatamatā*) was manifest, in Dvārakā and Mathurā His greater fullness (*pūrṇataratā*), and in Paravyoma His fullness (*pūrṇatā*).
+
+*Thus ends the twentieth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^307-308-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
