@@ -265,7 +265,7 @@ connection with Kṛṣṇa  without  time  wasted  not  goes
 bhukti, siddhi, indriyārtha tām̐re nāhi bhāya  
 worldly enjoyment  mystic powers  sense objects  to him  not  appeal
 
-(22) Not a moment of his time is wasted without connection with Kṛṣṇa. Worldly enjoyment, mystic powers and the objects of the senses do not appeal to him.[^12]
+(22) He lets no moment pass in vain, without connection with Kṛṣṇa. Worldly enjoyment, mystic powers and the objects of the senses do not appeal to him.[^12]
 
 বাগ্ভিঃ স্তুবন্তো মনসা স্মরন্ত-  
 স্তন্বা নমন্তোঽপ্যনিশং ন তৃপ্তাঃ ৷  
@@ -319,7 +319,7 @@ alms  wandering for  in the city of his enemies
 śva-pākam api vandate  
 a dog-eater  even  honours
 
-(26) “This crest jewel of kings, bearing *rati* for Hari, wandered begging alms in the city of his enemies and offered respect even to a dog-eater.” (Padma Purāṇa)[^14]
+(26) “This crest jewel of kings, bearing *rati* for Hari, wanders begging alms in the city of his enemies and honours even a dog-eater.” (Padma Purāṇa)[^14]
 
 ন প্রেমা শ্রবণাদিভক্তিরপি বা যোগোঽথবা বৈষ্ণবো  
 জ্ঞানং বা শুভকর্ম্ম বা কিয়দহো সজ্জাতিরপ্যস্তি বা ৷  
@@ -561,7 +561,7 @@ anubhāva  smiling  dancing  singing and the rest  outward signs
 stambhādi — ‘sāttvika’ anubhāvera bhitara  
 being stunned and the rest  sāttvika  of anubhāvas  among
 
-(47) The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* emotions, are counted among the *anubhāvas*.[^28]
+(47) The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* states, are counted among the *anubhāvas*.[^28]
 
 নির্ব্বেদ-হর্ষাদি — তেত্রিশ ‘ব্যভিচারী’ ৷  
 সব মিলি’ ‘রস’ হয় চমৎকারকারী ॥ ৪৮ ॥
@@ -581,7 +581,7 @@ of five kinds  rasa  śānta  dāsya  sakhya  vātsalya
 madhura-rase śṛṅgāra-bhāvera prābalya  
 in madhura-rasa  of the amorous mood  predominance
 
-(49) *Rasa* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. In *madhura-rasa* the amorous mood (*śṛṅgāra*) predominates.[^30]
+(49) *Rasa* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. In *madhura-rasa* the mood of *śṛṅgāra*, the love of the beloveds, predominates.[^30]
 
 শান্তরসে শান্তি-রতি ‘প্রেম’ পর্য্যন্ত হয় ৷  
 দাস্যরতি ‘রাগ’ পর্য্যন্ত ক্রমেতে বাড়য় ॥ ৫০ ॥
@@ -661,7 +661,7 @@ udghūrṇā  helpless actions  divine madness  by name
 virahe kṛṣṇa-sphūrti, āpanāke ‘kṛṣṇa’-jñāna  
 in separation  Kṛṣṇa’s appearing  oneself  as Kṛṣṇa  thinking
 
-(57) Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before her, and she even takes herself to be Kṛṣṇa.[^33]
+(57) Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before the *gopī*, and she even takes herself to be Kṛṣṇa.[^33]
 
 ’সম্ভোগ’ ‘বিপ্রলম্ভ’ ভেদে দ্বিবিধ শৃঙ্গার ৷  
 সম্ভোগের অনন্ত অঙ্গ, নাহি অন্ত তার ॥ ৫৮ ॥
@@ -1094,7 +1094,7 @@ rati  bliss  in form  indeed
 nīyamānā tu rasyatām  
 being led  indeed  to the state of rasa
 
-(89–91) “Their faults have been washed away by devotion, and their hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+(89–91) “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 কৃষ্ণাদিভির্বিভাবাদ্যৈর্গতৈরনুভবাধ্বনি ৷  
 প্রৌঢ়ানন্দশ্চমৎকারকাষ্ঠামাপদ্যতে পরাম্ ॥ ৯২ ॥
@@ -1221,7 +1221,7 @@ from elation  intolerance  fear  anxiety
 mukto yaḥ sa ca me priyaḥ  
 free  who  he  too  to Me  dear
 
-(102) “One by whom the world is not disturbed and who is not disturbed by the world, who is free from elation, intolerance, fear and anxiety — he too is dear to Me.” (Bhagavad-gītā, 12.15)
+(102) “One by whom the world is not disturbed and who is not disturbed by the world, who is free from elation, envy, fear and anxiety — he too is dear to Me.” (Bhagavad-gītā, 12.15)
 
 অনপেক্ষঃ শুচির্দক্ষ উদাসীনো গতব্যথঃ ৷  
 সর্ব্বারম্ভপরিত্যাগী যো মে ভক্তঃ স মে প্রিয়ঃ ॥ ১০৩ ॥
@@ -1235,7 +1235,7 @@ all  undertakings  renouncing
 yo me bhaktaḥ sa me priyaḥ  
 who  My  devotee  he  to Me  dear
 
-(103) “My devotee who expects nothing, who is pure and expert, unconcerned and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)[^51]
+(103) “My devotee who expects nothing, who is pure and expert, impartial and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)[^51]
 
 যো ন হৃষ্যতি ন দ্বেষ্টি ন শোচতি ন কাঙ্ক্ষতি ৷  
 শুভাশুভপরিত্যাগী ভক্তিমান্ যঃ স মে প্রিয়ঃ ॥ ১০৪ ॥
@@ -1361,7 +1361,7 @@ low-born  a servant of the low  I  utterly wretched
 siddhānta śikhāilā, — yei brahmāra agocara  
 the conclusions  You have taught  which  to Brahmā  beyond reach
 
-(114) “I am low-born, a servant of the low, utterly wretched — yet You have taught me conclusions beyond the reach even of Brahmā.
+(114) “I am low-born, a servant of the low, utterly wretched — yet You have taught me truths beyond the reach even of Brahmā.
 
 তুমি যে কহিলা, এই সিদ্ধান্তামৃত-সিন্ধু ৷  
 মোর মন ছুঁইতে নারে ইহার একবিন্দু ॥ ১১৫ ॥

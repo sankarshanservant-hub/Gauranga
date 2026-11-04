@@ -142,7 +142,7 @@ fn: *Anubhāṣya*: hearing of the curse of Śṛṅgī, son of the sage Śamīk
 ## 22
 w: connection with Kṛṣṇa  without  time  wasted  not  goes
 w: worldly enjoyment  mystic powers  sense objects  to him  not  appeal
-tr: Not a moment of his time is wasted without connection with Kṛṣṇa. Worldly enjoyment, mystic powers and the objects of the senses do not appeal to him.
+tr: He lets no moment pass in vain, without connection with Kṛṣṇa. Worldly enjoyment, mystic powers and the objects of the senses do not appeal to him.
 fn: The edition’s heading: “(2) never wasting time (*avyartha-kālatva*) and (3) detachment from sense gratification”.
 
 ## 23
@@ -170,7 +170,7 @@ w: for Hari  rati  bearing  this one
 w: of kings  the crest jewel
 w: alms  wandering for  in the city of his enemies
 w: a dog-eater  even  honours
-tr: “This crest jewel of kings, bearing *rati* for Hari, wandered begging alms in the city of his enemies and offered respect even to a dog-eater.” (Padma Purāṇa)
+tr: “This crest jewel of kings, bearing *rati* for Hari, wanders begging alms in the city of his enemies and honours even a dog-eater.” (Padma Purāṇa)
 fn: The edition’s heading: “an example of humility — words of the *Padma Purāṇa*”. The king is not named in the verse.
 
 ## 27
@@ -301,7 +301,7 @@ fn: *Anubhāṣya*: *ālambana* — Kṛṣṇa as the object (*viṣaya*) of *r
 ## 47
 w: anubhāva  smiling  dancing  singing and the rest  outward signs
 w: being stunned and the rest  sāttvika  of anubhāvas  among
-tr: The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* emotions, are counted among the *anubhāvas*.
+tr: The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* states, are counted among the *anubhāvas*.
 fn: *Anubhāṣya*: the *anubhāvas* reveal the *bhāvas* dwelling in the heart — dancing, rolling on the ground, singing, loud weeping, roaring, heavy breathing and the like.
 
 ## 48
@@ -313,7 +313,7 @@ fn: *Anubhāṣya*: the *vyabhicārīs* set the *bhāva* in motion (hence they a
 ## 49
 w: of five kinds  rasa  śānta  dāsya  sakhya  vātsalya
 w: in madhura-rasa  of the amorous mood  predominance
-tr: *Rasa* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. In *madhura-rasa* the amorous mood (*śṛṅgāra*) predominates.
+tr: *Rasa* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. In *madhura-rasa* the mood of *śṛṅgāra*, the love of the beloveds, predominates.
 fn: *Śṛṅgāra* — the love of the beloveds of Vraja; the verse does not speak here of its superiority over the other *rasas*.
 
 ## 50
@@ -356,7 +356,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the ten kinds are *prajalpa*, *parijalpa*, *vi
 ## 57
 w: udghūrṇā  helpless actions  divine madness  by name
 w: in separation  Kṛṣṇa’s appearing  oneself  as Kṛṣṇa  thinking
-tr: Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before her, and she even takes herself to be Kṛṣṇa.
+tr: Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before the *gopī*, and she even takes herself to be Kṛṣṇa.
 fn: The edition’s heading: “the last state of *divyonmāda* in separation — the highest of all states, supremely wonderful, wholly made of transcendental service to Kṛṣṇa”.
 
 ## 58
@@ -580,7 +580,7 @@ w: of the devotees  in the heart  shining
 w: by impressions  two  illumined
 w: rati  bliss  in form  indeed
 w: being led  indeed  to the state of rasa
-tr: “Their faults have been washed away by devotion, and their hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+tr: “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 ## 92
 w: by Kṛṣṇa and the rest  by the vibhāvas and the rest
@@ -648,14 +648,14 @@ w: by whom  is not disturbed  the world
 w: by the world  is not disturbed  and  who
 w: from elation  intolerance  fear  anxiety
 w: free  who  he  too  to Me  dear
-tr: “One by whom the world is not disturbed and who is not disturbed by the world, who is free from elation, intolerance, fear and anxiety — he too is dear to Me.” (Bhagavad-gītā, 12.15)
+tr: “One by whom the world is not disturbed and who is not disturbed by the world, who is free from elation, envy, fear and anxiety — he too is dear to Me.” (Bhagavad-gītā, 12.15)
 
 ## 103
 w: free from expectation  pure  expert
 w: unconcerned  free from distress
 w: all  undertakings  renouncing
 w: who  My  devotee  he  to Me  dear
-tr: “My devotee who expects nothing, who is pure and expert, unconcerned and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)
+tr: “My devotee who expects nothing, who is pure and expert, impartial and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)
 fn: The edition reads *yo me bhaktaḥ* (the Gītā usually has *yo mad-bhaktaḥ*); the sense is the same, “who is My devotee”; the text follows the edition.
 
 ## 104
@@ -718,7 +718,7 @@ tr: Then Sanātana clasped the Lord’s feet and, holding a bunch of straw betwe
 ## 114
 w: low-born  a servant of the low  I  utterly wretched
 w: the conclusions  You have taught  which  to Brahmā  beyond reach
-tr: “I am low-born, a servant of the low, utterly wretched — yet You have taught me conclusions beyond the reach even of Brahmā.
+tr: “I am low-born, a servant of the low, utterly wretched — yet You have taught me truths beyond the reach even of Brahmā.
 
 ## 115
 w: You  what  have spoken  this  of conclusions  of nectar  an ocean
