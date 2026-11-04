@@ -22,9 +22,9 @@
 
 **atha** **lakṣmīśādi-vartinaḥ** (present in Nārāyaṇa, the husband of Lakṣmī, and in other forms) **ye** **pañca guṇāḥ**, **te** **ucyante** — **avicintya-mahā-śaktiḥ** (possessed of immeasurable great energy) **koṭi-brahmāṇḍa-vigrahaḥ** (He whose form pervades millions of universes) **avatārāvalī-bījam** (the cause of all *avatāras*) **hatāri-gati-dāyakaḥ** (granting liberation even to slain enemies) **ātmārāma-gaṇākarṣī** (attracting even the liberated *paramahaṁsas* who have reached the state of *brahma-bhūta*) **iti** **amī** (qualities) **kṛṣṇe** **adbhutāḥ** **kila**.
 
-## 78–79[^78-1]
+## 78–79
 
-> Subheading: In Kṛṣṇa Himself, beyond what is in Nārāyaṇa, four more qualities of His own are eternally present, that is, sixty-four qualities in all, in their fullness —
+> Subheading: In Kṛṣṇa Himself, beyond what is in Nārāyaṇa, four more qualities of His own are eternally present, that is, sixty-four qualities in all, in their fullness —[^78-1]
 
 **sarvādbhuta-camatkāra-līlā-kallola-vāridhiḥ** (an ocean of waves of pastimes at which even all marvels are astonished, that is, the abode of pastimes that produce every kind of wondrous amazement) **atulya-madhura-prema-maṇḍita-priya-maṇḍalaḥ** (He by whom the circle of His dear ones is adorned with incomparable sweet *prema*; that is, His dearest ones are adorned with incomparable sweet *prema*) **tri-jagan-mānasākarṣi-muralī-kala-kūjitaḥ** (He whose flute gives forth a sweet, indistinct sound whose nature is to attract the minds of the three worlds — Goloka, Paravyoma and Devī-dhāma) **asamānordhva-rūpa-śrī-vismāpita-carācaraḥ** (He who by His beauty — matchless, for no one has a form equal to or higher than His — has struck with wonder, that is, has filled with curiosity, everything moving and unmoving).
 
