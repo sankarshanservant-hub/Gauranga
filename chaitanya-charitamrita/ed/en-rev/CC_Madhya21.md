@@ -1558,7 +1558,7 @@ some  with the nectar of the moonlight of His smile  some  with the nectar of Hi
 saba loka kare āpyāyita  
 all  people  makes  satisfied
 
-(130) Grand is this moon’s dance: spreading out a market of moons, it gives away its own nectar without price. Some it satisfies with the moonlit nectar of His smile, some with the nectar of His lips — it satisfies everyone.
+(130) Grand is this moon’s dance: spreading out a market of moons, it gives away its own nectar without price. Some it delights with the moonlit nectar of the smile, some with the nectar of the lips; so it satisfies everyone.
 
 বিপুলায়তারুণ, মদন-মদ-ঘূর্ণন,  
 মন্ত্রী যার এ দুই নয়ন ৷  
@@ -1590,7 +1590,7 @@ twofold  grows  thirst and greed  to drink  is unable  agitation of mind
 duḥkhe kare vidhira nindane  
 in sorrow  makes  of the Creator  reproach
 
-(132) One who obtains the sight of that face as the fruit of heaps of piety — what can his two eyes drink of it? His thirst and greed grow twofold; unable to drink, his mind is agitated, and in sorrow he reproaches the Creator:
+(132) One who obtains the sight of that face as the fruit of heaps of piety — what can his two eyes drink of it? His thirst and greed grow twofold; unable to drink, his mind is agitated, and in sorrow he reproaches the Creator:[^28]
 
 না দিলেক লক্ষ-কোটি, সবে দিলা আঁখি দুটি,  
 তাতে দিলা নিমিষ-আচ্ছাদন ৷  
@@ -1606,7 +1606,7 @@ the Creator  a dull  ascetic  void of taste  his  mind
 nāhi jāne yogya sṛjana  
 not  he knows  proper  creation
 
-(133) “He did not give hundreds of thousands, millions of eyes; he gave only two, and on them he put blinking lids. The Creator is a dull ascetic; his mind is void of taste (*rasa*), and he does not know how to create properly.
+(133) ‘He did not give hundreds of thousands, millions of eyes; he gave only two, and on them he put blinking lids. The Creator is a dull ascetic; his mind is void of taste (*rasa*), and he does not know how to create properly.
 
 যে দেখিবে কৃষ্ণানন, তার করে দ্বি-নয়ন,  
 বিধি হঞা হেন অবিচার ৷  
@@ -1622,7 +1622,7 @@ my  if  word  he takes  millions  of eyes  for him  he makes
 tabe jāni yogya sṛṣṭi tāra  
 then  I know  proper  creation  his
 
-(134) For one who is to see Kṛṣṇa’s face he makes only two eyes — such injustice from the Creator! If he would take my advice and make millions of eyes for such a one, then I would know his creation to be proper.”
+(134) For one who is to see Kṛṣṇa’s face he makes only two eyes — such injustice from the Creator! If he would take my advice and make millions of eyes for such a one, then I would know his creation to be proper.’
 
 কৃষ্ণাঙ্গ-মাধুর্য্য — সিন্ধু, সুমধুর মুখ — ইন্দু,  
 অতি-মধু স্মিত — সুকিরণে ৷  
@@ -1638,7 +1638,7 @@ to these three  clung  the mind  in greed  makes  tasting
 śloka paḍe, svahasta cālane  
 a verse  recites  His own hand  moving
 
-(135) The sweetness of Kṛṣṇa’s body is an ocean, His very sweet face the moon, and His exceedingly sweet smile its fine rays. The Lord’s mind clung to these three; greedily He tasted them and, waving His hand, recited a verse.
+(135) The sweetness of Kṛṣṇa’s body is an ocean, His very sweet face the moon, and His exceedingly sweet smile its fine rays.” The Lord’s mind clung to these three; greedily He tasted them and, waving His hand, recited a verse.
 
 মধুরং মধুরং বপুরস্য বিভোর্মধুরং মধুরং বদনং মধুরম্ ৷  
 মধুগন্ধি মৃদুস্মিতমেতদহো মধুরং মধুরং মধুরং মধুরম্ ॥ ১৩৬ ॥
@@ -1652,7 +1652,7 @@ honey-fragrant  the gentle smile  this  ah
 madhuraṁ madhuraṁ madhuraṁ madhuram  
 sweet  sweet  sweet  sweet
 
-(136) “Sweet, sweet is the form of this Lord; sweet, sweet is His face, sweet indeed; and this gentle smile, fragrant with honey — ah, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
+(136) “Sweet, sweet is the form of this Lord; sweet, sweet is His face, sweet indeed; and this gentle smile, fragrant with honey — ah, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)[^29]
 
 সনাতন, কৃষ্ণমাধুর্য্য — অমৃতের সিন্ধু ৷  
 মোর মন — সন্নিপাতি, সব পিতে করে মতি,  
@@ -1665,7 +1665,7 @@ My  mind  delirious  all  to drink  makes  resolve
 durdaiva-vaidya nā deya eka bindu!  
 of ill fate  the physician  not  gives  one  drop
 
-(137) O Sanātana, Kṛṣṇa’s sweetness is an ocean of nectar. My mind, delirious as in a fever (*sannipāta*), resolves to drink it all — but the physician, alas, My ill fate, will not give Me a single drop!
+(137) “O Sanātana, Kṛṣṇa’s sweetness is an ocean of nectar. My mind, delirious as in a fever (*sannipāta*), resolves to drink it all — but the physician, alas, My ill fate, will not give Me a single drop![^30]
 
 কৃষ্ণাঙ্গ — লাবণ্যপূর, মধুর হৈতে সুমধুর,  
 তাতে যেই মুখ সুধাকর ৷  
@@ -1777,7 +1777,7 @@ other  talk  not  hear  the ears  one thing  to say  says  another
 ei kṛṣṇera vaṁśīra carite  
 this  of Kṛṣṇa’s  flute  the conduct
 
-(144) It makes its home within the ears and ever sounds there by itself, letting no other sound enter. The ears hear no other talk; meaning to say one thing, one says another. Such is the way of Kṛṣṇa’s flute.
+(144) It makes its home within the ears and ever sounds there by itself, letting no other sound enter. The ears hear no other talk; meaning to say one thing, one says another. Such is the way of Kṛṣṇa’s flute.”
 
 পুনঃ কহে বাহ্যজ্ঞানে, আন কহিতে কহিলুঁ আনে,  
 কৃষ্ণ-কৃপা তোমার উপরে ৷  
@@ -1890,3 +1890,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^26]: The same verse as Ādi 4.153; translation as there.
 
 [^27]: *Anubhāṣya*: the twenty-four and a half syllables of the Kāma-gāyatrī are like twenty-four and a half moons on Kṛṣṇa’s body (listed at 126–128); it is Kṛṣṇa’s *svarūpa*, for it contains the three truths — *sambandha*, *abhidheya* and *prayojana*. The *kāma* here is not of this world: the Kāma-gāyatrī and the *kāma-bīja* are transcendental (*Anubhāṣya* to Madhya 8.137).
+
+[^28]: *Anubhāṣya*: the piety (*sukṛti*) that turns one to bhakti arises only from acts born of bhakti.
+
+[^29]: *Anubhāṣya*: His form is sweeter than all other forms, His face sweeter still than His body, and His smile the sweetest of all. The edition’s heading: “words of Bilvamaṅgala in the *Kṛṣṇa-karṇāmṛta*, 92”.
+
+[^30]: *Amṛta-pravāha-bhāṣya*: *sannipāta* is the disorder of all three humours of the body. Struck by three — the sweetness of Kṛṣṇa’s body, face and smile — the mind thirsts for that ocean of beauty. The physician of *sannipāta* will not let the patient drink a drop of water; so too this illness has no physician but Kṛṣṇa, and He gives not a drop — this is the sorrow, the ill fate.

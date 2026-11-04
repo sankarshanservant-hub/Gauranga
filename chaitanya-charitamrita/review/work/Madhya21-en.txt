@@ -771,7 +771,7 @@ w: of this  moon  the grand  dance  spreading out  of moons  a market
 w: without price  distributes  its own nectar
 w: some  with the nectar of the moonlight of His smile  some  with the nectar of His lips
 w: all  people  makes  satisfied
-tr: Grand is this moon’s dance: spreading out a market of moons, it gives away its own nectar without price. Some it satisfies with the moonlit nectar of His smile, some with the nectar of His lips — it satisfies everyone.
+tr: Grand is this moon’s dance: spreading out a market of moons, it gives away its own nectar without price. Some it delights with the moonlit nectar of the smile, some with the nectar of the lips; so it satisfies everyone.
 
 ## 131
 w: broad, long and reddish  Madana’s  intoxication  making reel
@@ -786,27 +786,28 @@ w: two  eyes  what  will do  in drinking
 w: twofold  grows  thirst and greed  to drink  is unable  agitation of mind
 w: in sorrow  makes  of the Creator  reproach
 tr: One who obtains the sight of that face as the fruit of heaps of piety — what can his two eyes drink of it? His thirst and greed grow twofold; unable to drink, his mind is agitated, and in sorrow he reproaches the Creator:
+fn: *Anubhāṣya*: the piety (*sukṛti*) that turns one to bhakti arises only from acts born of bhakti.
 
 ## 133
 w: not  he gave  hundreds of thousands and millions  only  he gave  eyes  two
 w: to them  he gave  blinking  coverings
 w: the Creator  a dull  ascetic  void of taste  his  mind
 w: not  he knows  proper  creation
-tr: “He did not give hundreds of thousands, millions of eyes; he gave only two, and on them he put blinking lids. The Creator is a dull ascetic; his mind is void of taste (*rasa*), and he does not know how to create properly.
+tr: ‘He did not give hundreds of thousands, millions of eyes; he gave only two, and on them he put blinking lids. The Creator is a dull ascetic; his mind is void of taste (*rasa*), and he does not know how to create properly.
 
 ## 134
 w: who  will see  Kṛṣṇa’s face  for him  makes  two eyes
 w: the Creator  being  such  injustice
 w: my  if  word  he takes  millions  of eyes  for him  he makes
 w: then  I know  proper  creation  his
-tr: For one who is to see Kṛṣṇa’s face he makes only two eyes — such injustice from the Creator! If he would take my advice and make millions of eyes for such a one, then I would know his creation to be proper.”
+tr: For one who is to see Kṛṣṇa’s face he makes only two eyes — such injustice from the Creator! If he would take my advice and make millions of eyes for such a one, then I would know his creation to be proper.’
 
 ## 135
 w: of Kṛṣṇa’s body  the sweetness  an ocean  the very sweet  face  the moon
 w: the exceedingly sweet  smile  its fine rays
 w: to these three  clung  the mind  in greed  makes  tasting
 w: a verse  recites  His own hand  moving
-tr: The sweetness of Kṛṣṇa’s body is an ocean, His very sweet face the moon, and His exceedingly sweet smile its fine rays. The Lord’s mind clung to these three; greedily He tasted them and, waving His hand, recited a verse.
+tr: The sweetness of Kṛṣṇa’s body is an ocean, His very sweet face the moon, and His exceedingly sweet smile its fine rays.” The Lord’s mind clung to these three; greedily He tasted them and, waving His hand, recited a verse.
 
 ## 136
 w: sweet  sweet  the form  of this  Lord
@@ -814,12 +815,14 @@ w: sweet  sweet  the face  sweet
 w: honey-fragrant  the gentle smile  this  ah
 w: sweet  sweet  sweet  sweet
 tr: “Sweet, sweet is the form of this Lord; sweet, sweet is His face, sweet indeed; and this gentle smile, fragrant with honey — ah, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
+fn: *Anubhāṣya*: His form is sweeter than all other forms, His face sweeter still than His body, and His smile the sweetest of all. The edition’s heading: “words of Bilvamaṅgala in the *Kṛṣṇa-karṇāmṛta*, 92”.
 
 ## 137
 w: O Sanātana  Kṛṣṇa’s sweetness  of nectar  an ocean
 w: My  mind  delirious  all  to drink  makes  resolve
 w: of ill fate  the physician  not  gives  one  drop
-tr: O Sanātana, Kṛṣṇa’s sweetness is an ocean of nectar. My mind, delirious as in a fever (*sannipāta*), resolves to drink it all — but the physician, alas, My ill fate, will not give Me a single drop!
+tr: “O Sanātana, Kṛṣṇa’s sweetness is an ocean of nectar. My mind, delirious as in a fever (*sannipāta*), resolves to drink it all — but the physician, alas, My ill fate, will not give Me a single drop!
+fn: *Amṛta-pravāha-bhāṣya*: *sannipāta* is the disorder of all three humours of the body. Struck by three — the sweetness of Kṛṣṇa’s body, face and smile — the mind thirsts for that ocean of beauty. The physician of *sannipāta* will not let the patient drink a drop of water; so too this illness has no physician but Kṛṣṇa, and He gives not a drop — this is the sorrow, the ill fate.
 
 ## 138
 w: Kṛṣṇa’s body  of loveliness  a flood  than sweet  sweeter
@@ -868,7 +871,7 @@ w: of the ears  within  a dwelling  it makes  itself  there  always  sounds
 w: other  sound  not  allows  to enter
 w: other  talk  not  hear  the ears  one thing  to say  says  another
 w: this  of Kṛṣṇa’s  flute  the conduct
-tr: It makes its home within the ears and ever sounds there by itself, letting no other sound enter. The ears hear no other talk; meaning to say one thing, one says another. Such is the way of Kṛṣṇa’s flute.
+tr: It makes its home within the ears and ever sounds there by itself, letting no other sound enter. The ears hear no other talk; meaning to say one thing, one says another. Such is the way of Kṛṣṇa’s flute.”
 
 ## 145
 w: again  says  in outer consciousness  other  to say  I said  other
