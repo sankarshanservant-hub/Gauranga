@@ -1751,97 +1751,127 @@ it  here  rāgātmikā  is called
 ইষ্টে ‘আবিষ্টতা’ — তটস্থ-লক্ষণ কথন ॥ ১৪৬ ॥
 
 iṣṭe ‘gāḍha’-tṛṣṇā’ — rāgera svarūpa-lakṣaṇa  
-iṣṭe ‘āviṣṭatā’ — taṭastha-lakṣaṇa kathana
+for the beloved  intense  thirst  of rāga  the essential  characteristic  
+iṣṭe ‘āviṣṭatā’ — taṭastha-lakṣaṇa kathana  
+in the beloved  absorption  the marginal  characteristic  is said to be
 
-(146) [not yet translated]
+(146) Intense thirst for the beloved is the essential characteristic of *rāga*; absorption in the beloved is said to be its marginal characteristic.
 
 রাগময়ী-ভক্তির হয় ‘রাগাত্মিকা’-নাম ৷  
 তাহা শুনি’ লুব্ধ হয় কোন ভাগ্যবান্ ॥ ১৪৭ ॥
 
 rāgamayī-bhaktira haya ‘rāgātmikā’-nāma  
-tāhā śuni’ lubdha haya kona bhāgyavān
+filled with rāga  of devotion  is  rāgātmikā  the name  
+tāhā śuni’ lubdha haya kona bhāgyavān  
+of it  hearing  filled with longing  becomes  some  fortunate one
 
-(147) [not yet translated]
+(147) Devotion full of *rāga* is named *rāgātmikā*. Hearing of it, some fortunate soul is filled with longing (*lobha*) for it.
 
 লোভে ব্রজবাসীর ভাবে করে অনুগতি ৷  
 শাস্ত্রযুক্তি নাহি মানে রাগানুগার প্রকৃতি ॥ ১৪৮ ॥
 
 lobhe vraja-vāsīra bhāve kare anugati  
-śāstra-yukti nāhi māne rāgānugāra prakṛti
+out of longing  of the people of Vraja  the mood  he makes  following  
+śāstra-yukti nāhi māne rāgānugāra prakṛti  
+of scripture  the arguments  does not  heed  of the rāgānugā  the nature
 
-(148) [not yet translated]
+(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^148]
 
 বিরাজন্তীমভিব্যক্তাং ব্রজবাসিজনাদিষু ৷  
 রাগাত্মিকামনুসৃতা যা সা রাগানুগোচ্যতে ॥ ১৪৯ ॥
 
 virājantīm abhivyaktāṁ  
+shining  clearly manifest  
 vraja-vāsi-janādiṣu  
+in the people of Vraja and others  
 rāgātmikām anusṛtā  
-yā sā rāgānugocyate
+rāgātmikā  following  
+yā sā rāgānugocyate  
+which  it  rāgānugā  is called
 
-(149) [not yet translated]
+(149) “Devotion that follows the *rāgātmikā* devotion shining, clearly manifest, in the people of Vraja is called *rāgānugā*.” (Bhakti-rasāmṛta-sindhu, 1.2.270)
 
 তত্তদ্ভাবাদিমাধুর্য্যে শ্রুতে ধীর্যদপেক্ষতে ৷  
 নাত্র শাস্ত্রং ন যুক্তিঞ্চ তল্লোভোৎপত্তিলক্ষণম্ ॥ ১৫০ ॥
 
 tat-tad-bhāvādi-mādhurye  
+of their  respective  moods and the like  in the sweetness  
 śrute dhīr yad apekṣate  
+when it is heard  the intellect  that  depends on  
 nātra śāstraṁ na yuktiṁ ca  
-tal lobhotpatti-lakṣaṇam
+not  here  scripture  nor  reasoning  and  
+tal lobhotpatti-lakṣaṇam  
+that  of longing  of the arising  the sign
 
-(150) [not yet translated]
+(150) “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without depending on scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)
 
 বাহ্য, অভ্যন্তর, — ইহার দুই ত’ সাধন ৷  
 ‘বাহ্যে’ সাধক-দেহে করে শ্রবণ-কীর্ত্তন ॥ ১৫১ ॥
 
 bāhya, abhyantara, — ihāra dui ta’ sādhana  
-‘bāhye’ sādhaka-dehe kare śravaṇa-kīrtana
+external  internal  of it  two  indeed  practices  
+‘bāhye’ sādhaka-dehe kare śravaṇa-kīrtana  
+externally  in the body of a sādhaka  he does  hearing and chanting
 
-(151) [not yet translated]
+(151) Its practice is of two kinds, external and internal. Externally, in the body of a practitioner (*sādhaka*), he hears and chants;
 
 ‘মনে’ নিজ-সিদ্ধদেহ করিয়া ভাবন ৷  
 রাত্রি-দিনে করে ব্রজে কৃষ্ণের সেবন ॥ ১৫২ ॥
 
 ‘mane’ nija-siddha-deha kariyā bhāvana  
-rātri-dine kare vraje kṛṣṇera sevana
+in the mind  his own perfected body  making  contemplation  
+rātri-dine kare vraje kṛṣṇera sevana  
+night and day  he does  in Vraja  to Kṛṣṇa  service
 
-(152) [not yet translated]
+(152) and in his mind, contemplating his own perfected spiritual body (*siddha-deha*), he serves Kṛṣṇa in Vraja night and day.
 
 সেবা সাধকরূপেণ সিদ্ধরূপেণ চাত্র হি ৷  
 তদ্ভাবলিপ্সুনা কার্য্যা ব্রজলোকানুসারতঃ ॥ ১৫৩ ॥
 
 sevā sādhaka-rūpeṇa  
+service  in the form of a sādhaka  
 siddha-rūpeṇa cātra hi  
+in the perfected form  and  here  indeed  
 tad-bhāva-lipsunā kāryā  
-vraja-lokānusārataḥ
+for their bhāva  by one who longs  is to be done  
+vraja-lokānusārataḥ  
+the people of Vraja  following
 
-(153) [not yet translated]
+(153) “One who longs for the *bhāva* of the people of Vraja should serve, following them, both in the form of a *sādhaka* and in the perfected form.” (Bhakti-rasāmṛta-sindhu, 1.2.295)
 
 নিজাভীষ্ট কৃষ্ণপ্রেষ্ঠ পাছে ত’ লাগিয়া ৷  
 নিরন্তর সেবা করে অন্তর্ম্মনা হঞা ॥ ১৫৪ ॥
 
 nijābhīṣṭa kṛṣṇa-preṣṭha pāche ta’ lāgiyā  
-nirantara sevā kare antarmanā hañā
+his own chosen  of Kṛṣṇa  dear one  behind  indeed  keeping close  
+nirantara sevā kare antarmanā hañā  
+constantly  service  he does  with mind turned within  becoming
 
-(154) [not yet translated]
+(154) Keeping close behind the dear one of Kṛṣṇa whom he has chosen as his own ideal, he serves without cease, his mind turned within.
 
 কৃষ্ণং স্মরন্ জনঞ্চাস্য প্রেষ্ঠং নিজসমীহিতম্ ৷  
 তত্তৎকথা-রতশ্চাসৌ কুর্য্যাদ্বাসং ব্রজে সদা ॥ ১৫৫ ॥
 
 kṛṣṇaṁ smaran janaṁ cāsya  
+Kṛṣṇa  remembering  the person  and  His  
 preṣṭhaṁ nija-samīhitam  
+dearest  his own chosen  
 tat-tat-kathā-rataś cāsau  
-kuryād vāsaṁ vraje sadā
+in their  respective  narrations  absorbed  and  he  
+kuryād vāsaṁ vraje sadā  
+should make  residence  in Vraja  always
 
-(155) [not yet translated]
+(155) “Remembering Kṛṣṇa and that dearest devotee of His whom he has chosen as his own, and absorbed in narrations about them, he should always live in Vraja.” (Bhakti-rasāmṛta-sindhu, 1.2.294)
 
 দাস-সখা-পিত্রাদি-প্রেয়সীর গণ ৷  
 রাগমার্গে নিজ-নিজ-ভাবের গণন ॥ ১৫৬ ॥
 
 dāsa-sakhā-pitrādi-preyasīra gaṇa  
-rāga-mārge nija-nija-bhāvera gaṇana
+of servants  friends  parents and others  beloveds  the groups  
+rāga-mārge nija-nija-bhāvera gaṇana  
+on the path of rāga  of each one’s own  bhāva  the reckoning
 
-(156) [not yet translated]
+(156) Servants, friends, parents and the others, and the beloveds: on the path of *rāga* each devotee is reckoned among them according to his own *bhāva*.
 
 ন কর্হিচিন্মৎপরাঃ শান্তরূপে  
 নঙ্ক্ষ্যন্তি নো মেঽনিমিষো লেঢ়ি হেতিঃ ৷  
@@ -1849,66 +1879,90 @@ rāga-mārge nija-nija-bhāvera gaṇana
 সখা গুরুঃ সুহৃদো দৈবমিষ্টম্ ॥ ১৫৭ ॥
 
 na karhicin mat-parāḥ śānta-rūpe  
+never  ever  devoted to Me  in the abode of peace  
 naṅkṣyanti no me ‘nimiṣo leḍhi hetiḥ  
+will perish  not  My  time  devours  weapon  
 yeṣām ahaṁ priya ātmā sutaś ca  
-sakhā guruḥ suhṛdo daivam iṣṭam
+for whom  I  the beloved  the Self  son  and  
+sakhā guruḥ suhṛdo daivam iṣṭam  
+friend  guru  well-wisher  deity  the desired
 
-(157) [not yet translated]
+(157) (Lord Kapila to Devahūti:) “Those devoted to Me, for whom I am the beloved, the Self, son, friend, guru, well-wisher, deity and all they desire, are never lost in My abode of peace, and My weapon, time, does not devour them.” (Śrīmad-Bhāgavatam, 3.25.38)
 
 পতিপুত্রসুহৃদ্ভ্রাতৃপিতৃবন্মিত্রবদ্ধরিম্ ৷  
 যে ধ্যায়ন্তি সদোদ্যুক্তাস্তেভ্যোঽপীহ নমো নমঃ ॥ ১৫৮ ॥
 
 pati-putra-suhṛd-bhrātṛ-  
+husband  son  well-wisher  brother  
 pitṛvan mitravad dharim  
+as father  as friend  on Hari  
 ye dhyāyanti sadodyuktās  
-tebhyo ‘pīha namo namaḥ
+who  meditate  always  zealous  
+tebhyo ‘pīha namo namaḥ  
+to them  even  here  obeisance  obeisance
 
-(158) [not yet translated]
+(158) “Again and again I bow to those in this world who always zealously meditate on Hari as their husband, son, well-wisher, brother, father or friend.” (Bhakti-rasāmṛta-sindhu, 1.2.308)
 
 এইমত করে যেবা রাগানুগা-ভক্তি ৷  
 কৃষ্ণের চরণে তাঁর উপজয় ‘প্রীতি’ ॥ ১৫৯ ॥
 
 ei mata kare yebā rāgānugā-bhakti  
-kṛṣṇera caraṇe tāṅra upajaya ‘prīti’
+in this  way  practises  whoever  rāgānugā-bhakti  
+kṛṣṇera caraṇe tāṅra upajaya ‘prīti’  
+of Kṛṣṇa  for the feet  in him  arises  love
 
-(159) [not yet translated]
+(159) In whoever practises *rāgānugā-bhakti* in this way, love (*prīti*) for Kṛṣṇa’s feet arises.
 
 প্রীত্যঙ্কুরে ‘রতি’, ‘ভাব’ — হয় দুই নাম ৷  
 যাহা হৈতে বশ হন শ্রীভগবান্ ॥ ১৬০ ॥
 
 prīty-aṅkure ‘rati’, ‘bhāva’ — haya dui nāma  
-yāhā haite vaśa hana śrī-bhagavān
+of love  in the sprout  rati  bhāva  are  two  names  
+yāhā haite vaśa hana śrī-bhagavān  
+by which  subdued  becomes  Śrī Bhagavān
 
-(160) [not yet translated]
+(160) When love is still a sprout, it has two names, *rati* and *bhāva*; by it Śrī Bhagavān Himself is won over.
 
 যাহা হৈতে পাই কৃষ্ণের প্রেম-সেবন ৷  
 এত ত’ কহিলুঁ ‘অভিধেয়’-বিবরণ ॥ ১৬১ ॥
 
 yāhā haite pāi kṛṣṇera prema-sevana  
-eta ta’ kahiluṅ ‘abhidheya’-vivaraṇa
+by which  one obtains  to Kṛṣṇa  in love  service  
+eta ta’ kahiluṅ ‘abhidheya’-vivaraṇa  
+thus  indeed  I have told  of the abhidheya  the description
 
-(161) [not yet translated]
+(161) That by which one obtains loving service to Kṛṣṇa (*prema-sevā*) — thus I have described the *abhidheya*, the means.
 
 অভিধেয়, সাধন-ভক্তি এবে কহিলুঁ সনাতন ৷  
 সংক্ষেপে কহিলুঁ, বিস্তার না যায় বর্ণন ॥ ১৬২ ॥
 
 abhidheya, sādhana-bhakti ebe kahiluṅ sanātana  
-saṅkṣepe kahiluṅ, vistāra nā yāya varṇana
+the abhidheya  sādhana-bhakti  now  I have told  Sanātana  
+saṅkṣepe kahiluṅ, vistāra nā yāya varṇana  
+in brief  I have told it  in full  not  can be  described
 
-(162) [not yet translated]
+(162) Now, Sanātana, I have told you of the *abhidheya*, *sādhana-bhakti*. I have told it in brief; it cannot be described in full.
 
 অভিধেয় সাধনভক্তি শুনে যেই জন ৷  
 অচিরাৎ পায় সেই কৃষ্ণপ্রেমধন ॥ ১৬৩ ॥
 
 abhidheya sādhana-bhakti śune yei jana  
-acirāt pāya sei kṛṣṇa-prema-dhana
+the abhidheya  sādhana-bhakti  hears  whatever  person  
+acirāt pāya sei kṛṣṇa-prema-dhana  
+very soon  obtains  that one  of love for Kṛṣṇa  the treasure
 
-(163) [not yet translated]
+(163) Whoever hears of *sādhana-bhakti*, the *abhidheya*, very soon obtains the treasure of love for Kṛṣṇa.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৬৪ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(164) [not yet translated]
+(164) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
+---
+
+[^148]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
