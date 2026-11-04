@@ -117,3 +117,43 @@ See Madhya 22.27.
 ## 125
 
 > Subheading: Even partial practice of them awakens love for Kṛṣṇa —
+
+## 126
+
+> Subheading: The injunction to associate with sādhus and to hear the *Bhāgavatam* —
+
+**sajātīyāśaye** (with desires of the same kind) **snigdhe** (devoted to tender affection whose nature is deep confidence) **svataḥ** (than oneself) **vare** (better) **sādhau** **saṅgaḥ** (is to be sought). **rasikaiḥ** (with those versed in the worship of Kṛṣṇa) **saha** **śrīmad-bhāgavatārthānām** **āsvādaḥ** (is to be done, that is, one should grasp the purport. A grammarian who has abandoned the *bhakti-yoga* of the path of the Śrutis; a *śābdika*, a mere master of words; one attached to women; a *gṛhavrata*; an enemy of Viṣṇu and the Vaiṣṇavas; a *māyāvādī*; an offender against the name; one who lives by his garb; one who lives by mantras; one who lives by the *Bhāgavatam*; and a *viṣayī* devoted to gratifying the senses — with them one should not relish its meaning. For, according to the words of *śruti* and *smṛti* — “To one who has supreme devotion to God…”[^126-1] and “The *Bhāgavatam* is grasped by devotion, not by intellect, nor by commentaries” — they cannot understand the meaning of the scripture of the *paramahaṁsas*, and they have no right to grasp the inner meaning of the book).
+
+## 127
+
+> Subheading: The glory of worshiping the Śrī Vigraha, of *saṅkīrtana* of the holy name and especially of living in the holy *dhāma* —
+
+**śrī-mūrter aṅghri-sevane** **śraddhā** **viśeṣataḥ** (especially) **prītiḥ** (in external worship, *arcana*, in general; in mental service to the Divine Couple of Vraja, especially: attachment to *bhajana* at all times), **nāma-saṅkīrtanam** (worship of the name), **śrīman-mathurā-maṇḍale** **sthitiḥ** (living where Kṛṣṇa dwells. Śrīman Narottama Prabhu determined in the *Prema-bhakti-candrikā*: to know the land of Śrī Gauḍa-maṇḍala as *cintāmaṇi* — that itself is living in Mathurā. Living in Śrī Māyāpura and the other *dhāmas* — the land of Śrī Gaura's pastimes — and also in Śrī Kṣetra, in the *dhāmas* of the South (Dākṣiṇātya), in Vraja-maṇḍala and others should be known as nondifferent from living in Mathurā. But for those who see a difference between them, even their so-called living in Mathurā is full of material enjoyment and leads downward).
+
+## 128
+
+**asmin** **durūhādbhuta-vīrye** (hard to accomplish, unprecedented and full of power) **pañcake** (in the five limbs beginning with *sādhu-saṅga*) **śraddhā** **dūre** **astu**, (**yatra** — in which five best limbs of *sādhana*) **svalpaḥ** **sambandhaḥ** **api** **sad-dhiyām** (of Vaiṣṇavas of good intelligence, highly skilled) **bhāva-janmane** (is able to manifest *bhāva* — this is to be supplied).
+
+## 129
+
+> Subheading: Continuous practice of each of them brings love for Kṛṣṇa —
+
+When, by practicing *bhajana*, the *jīva* is freed from *anarthas*, steadiness (*niṣṭhā*) arises. From *niṣṭhā*, *prema* is born.
+
+## 130
+
+> Subheading: Some attain perfection, love for Bhagavān, by practicing a single limb of the ninefold bhakti, others by practicing all the limbs —
+
+## 131
+
+> Subheading: The names of devotees each of whom practiced a single limb of the ninefold bhakti —
+
+**parīkṣit** (Viṣṇurāta) **śrī-viṣṇoḥ śravaṇe** (by hearing the names, form, qualities and pastimes of Kṛṣṇa described in *Śrīmad-Bhāgavatam*), **vaiyāsakiḥ** (Brahmarāta Śukadeva) **kīrtane** (by the *kīrtana* of *Śrīmad-Bhāgavatam*, which is *hari-kathā*), **prahlādaḥ** (of Viṣṇu) **smaraṇe** (since his heart was pure), **lakṣmīḥ** **tad-aṅghri-bhajane** (by serving the lotus feet of Nārāyaṇa), **pṛthuḥ** (of Viṣṇu) **pūjane** (by *arcana*), **akrūraḥ** **tu** (to the Yādava) **abhivandane**, **kapi-patiḥ** (Hanumān) **dāsye** (by service to Rāma alone), **arjunaḥ** (with Kṛṣṇa) **sakhye**, **baliḥ** (Prahlāda's grandson) **sarva-svātma-nivedane** (by self-surrender) **param** (exclusively [in this] was fixed) **abhūt**; **eṣām** (of these servants of Hari — by fidelity to a single limb alone) **kṛṣṇāptiḥ** (the attainment of Kṛṣṇa) **abhūt**.
+
+## 132
+
+> Subheading: Ambarīṣa serves Kṛṣṇa with all his senses —
+
+---
+
+[^126-1]: *Śvetāśvatara Upaniṣad* 6.23.

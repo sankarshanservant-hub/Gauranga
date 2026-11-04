@@ -60,6 +60,26 @@ O Bhārata, Bhagavān Hari, the Lord and the Soul of all, is always to be heard 
 
 These twenty limbs are like the entrance to the temple of *bhajana*. Three of them — “taking shelter at the feet of the guru,” “*dīkṣā*” and “service to the guru” — are counted as principal limbs. (1) Hearing; (2) chanting; (3) remembering; (4) worship; (5) offering prayers (*vandana*); (6) service (*paricaryā*); (7) *dāsya*, servitude; (8) *sakhya*, friendship; (9) *ātma-nivedana*, offering oneself; (10) dancing before the Śrī Vigraha; (11) singing; (12) *vijñapti*, opening one's heart to Him; (13) *daṇḍavat-praṇāma*, falling flat like a rod; (14) *abhyutthāna*, that is, rising on seeing Bhagavān or a devotee approach; (15) *anuvrajyā*, that is, following behind when a devotee or Bhagavān sets out; (16) going to holy places and to the temples of the Lord; (17) circumambulation (*parikramā*); (18) reciting prayers; (19) *japa*; (20) *saṅkīrtana*; (21) smelling the fragrance of incense and garlands that are the Lord's *prasāda*; (22) honoring *mahā-prasāda*; (23) seeing the festive *ārati*; (24) seeing the Śrī Mūrti; (25) offering to Bhagavān what is dear to oneself; (26) meditation; serving the *tadīya*, that is, (27) serving Tulasī and the others, (28) serving the Vaiṣṇavas, (29) living in Mathurā and (30) relishing the *Bhāgavatam*; (31) every endeavor for Kṛṣṇa; (32) waiting for His mercy; (33) celebrating His appearance days and other festivals with the devotees; (34) taking shelter of Him in every way; (35) Kārttika and other vows. To these thirty-five limbs four more must be added: (1) wearing the marks of a Vaiṣṇava on the body, (2) wearing the letters of Hari's names, (3) wearing *nirmālya*, the remnants of what has been offered, and (4) drinking *caraṇāmṛta*. Kavirāja Gosvāmī considered these four limbs part of *arcana* and the rest. With them there are thirty-nine (39) limbs. To these the five limbs must be added again: 1. *sādhu-saṅga*, 2. *nāma-kīrtana*, 3. hearing the *Bhāgavatam*, 4. living in Mathurā, 5. serving the Śrī Mūrti with faith. At the end of his description of the sixty-four limbs of *vaidhī-bhakti* (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, second *laharī*), Śrī Rūpa Gosvāmī writes: “These five limbs, though already written of above, are praised here again to show that they are the best of all.” Adding these five gives forty-four limbs, and these forty-four together with the twenty mentioned before make sixty-four limbs of bhakti in all. These sixty-four limbs of bhakti are distinct kinds of worship (*yajana*, or *upāsanā*) with the body, the senses and the inner faculty (*antaḥ-karaṇa*). Some of them are entirely separate, and some are of a mixed nature.
 
+## 126
+
+One should associate with a sādhu who is full of affection (*snigdha*), whose desires are of the same kind as one's own, and who is superior to oneself. In the same way, one should relish the meaning of *Śrīmad-Bhāgavatam* together with *rasika* sādhus.
+
+## 127
+
+Out of special faith: love for serving the feet of the Śrī Mūrti, *nāma-saṅkīrtana*, and living in Mathurā-maṇḍala.
+
+## 128
+
+These last five limbs are hard to fathom at once, and their power is wondrous. Let alone faith in them — even the slightest connection with them becomes, for a person free from offenses, the cause of the birth of *bhāva*.
+
+## 131
+
+King Parīkṣit attained Kṛṣṇa in the best way by hearing about Śrī Viṣṇu; Śukadeva by glorifying Him; Prahlāda by remembering Him; Lakṣmī by serving His feet; King Pṛthu by worshiping Him; Akrūra by offering Him prayers; Hanumān, the lord of the monkeys, by serving Him as a servant; Arjuna by friendship with Him; and Bali by offering Him all he had, and himself.
+
+## 132–134
+
+Mahārāja Ambarīṣa engaged his mind in Kṛṣṇa's lotus feet, his speech in describing the qualities of Vaikuṇṭha, his two hands in cleaning Hari's temple and similar service, his ears in narrations of Kṛṣṇa, his two eyes in seeing Kṛṣṇa's Śrī Mūrti, his body in touching the bodies of Kṛṣṇa's servants, his sense of smell (his nose) in the fragrance of Kṛṣṇa's lotus feet, his tongue in tasting the *tulasī* offered to Kṛṣṇa, his two feet in walking to Kṛṣṇa's holy places, his head in bowing at the feet of Hṛṣīkeśa, and his “desire” (*kāma*) in selfless servitude. And he engaged them in such a way that there arose in him the *rati* whose shelter is Kṛṣṇa's devotees.
+
 ---
 
 [^103–106-1]: The translation of verse 104 differs: “Therefore it is not the main goal of spiritual practice.”
