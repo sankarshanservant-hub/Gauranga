@@ -377,9 +377,11 @@ Your  with a sweet voice  sings  the string of names  the girl
 কৃষ্ণলীলা-স্থানে করে সর্ব্বদা বসতি ॥ ৩১ ॥
 
 kṛṣṇa-guṇākhyāne haya sarvadā āsakti  
-kṛṣṇa-līlā-sthāne kare sarvadā vasati
+to describing Kṛṣṇa’s qualities  there is  always  attachment  
+kṛṣṇa-līlā-sthāne kare sarvadā vasati  
+in the places of Kṛṣṇa’s pastimes  he makes  always  his dwelling
 
-(31) [not yet translated]
+(31) He is always attached to describing Kṛṣṇa’s qualities, and he always lives in the places of Kṛṣṇa’s pastimes.
 
 মধুরং মধুরং বপুরস্য বিভো  
 র্মধুরং মধুরং বদনং মধুরম্ ৷  
@@ -387,47 +389,63 @@ kṛṣṇa-līlā-sthāne kare sarvadā vasati
 মধুরং মধুরং মধুরং মধুরম্ ॥ ৩২ ॥
 
 madhuraṁ madhuraṁ vapur asya vibhor  
+sweet  sweet  the form  of this  Lord  
 madhuraṁ madhuraṁ vadanaṁ madhuram  
+sweet  sweet  the face  sweet  
 madhu-gandhi mṛdu-smitam etad aho  
-madhuraṁ madhuraṁ madhuraṁ madhuram
+fragrant with honey  the soft smile  this  oh  
+madhuraṁ madhuraṁ madhuraṁ madhuram  
+sweet  sweet  sweet  sweet
 
-(32) [not yet translated]
+(32) “Sweet, sweet is the form of this Lord; sweet, sweet is His face — so sweet! And this soft smile, fragrant with honey — oh, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
 
 কদাহং যমুনাতীরে নামানি তব কীর্ত্তয়ন্ ৷  
 উদ্বাষ্পঃ পুণ্ডরীকাক্ষ রচয়িষ্যামি তাণ্ডবম্ ॥ ৩৩ ॥
 
 kadāhaṁ yamunā-tīre  
+when I  on the bank of the Yamunā  
 nāmāni tava kīrtayan  
+the names  Your  chanting  
 udbāṣpaḥ puṇḍarīkākṣa  
-racayiṣyāmi tāṇḍavam
+with tears  O lotus-eyed  
+racayiṣyāmi tāṇḍavam  
+shall perform  a dance
 
-(33) [not yet translated]
+(33) “O lotus-eyed Lord, when shall I dance on the bank of the Yamunā, chanting Your names with tears in my eyes?” (Bhakti-rasāmṛta-sindhu, 1.2.156)
 
 কৃষ্ণে ‘রতির’ চিহ্ন এই কৈলুঁ বিবরণ ৷  
 ’কৃষ্ণপ্রেমের’ চিহ্ন এবে শুন, সনাতন ॥ ৩৪ ॥
 
 kṛṣṇe ‘ratira’ cihna ei kailuṅ vivaraṇa  
-’kṛṣṇa-premera’ cihna ebe śuna, sanātana
+for Kṛṣṇa  of rati  the signs  these  I have given  the description  
+’kṛṣṇa-premera’ cihna ebe śuna, sanātana  
+of love for Kṛṣṇa  the signs  now  hear  Sanātana
 
-(34) [not yet translated]
+(34) I have described these signs of *rati* for Kṛṣṇa. Now, Sanātana, hear the signs of love for Kṛṣṇa (*kṛṣṇa-prema*).
 
 যাঁর চিত্তে কৃষ্ণপ্রেমা করয়ে উদয় ৷  
 তাঁর বাক্য, ক্রিয়া, মুদ্রা বিজ্ঞেহ না বুঝয় ॥ ৩৫ ॥
 
 yāṅra citte kṛṣṇa-premā karaye udaya  
-tāṅra vākya, kriyā, mudrā vijñeha nā bujhaya
+in whose  heart  love for Kṛṣṇa  makes  its rising  
+tāṅra vākya, kriyā, mudrā vijñeha nā bujhaya  
+his  words  actions  ways  even the wise  not  understand
 
-(35) [not yet translated]
+(35) Even the wise cannot understand the words, actions and ways of one in whose heart love for Kṛṣṇa has risen.
 
 ধন্যস্যায়ং নবপ্রেমা যস্যোন্মীলতি চেতসি ৷  
 অন্তর্ব্বাণিভিরপ্যস্য মুদ্রা সুষ্ঠু সুদুর্গমা ॥ ৩৬ ॥
 
 dhanyasyāyaṁ nava-premā  
+of the fortunate  this  new prema  
 yasyonmīlati cetasi  
+in whose  blossoms  heart  
 antar-vāṇibhir apy asya  
-mudrā suṣṭhu su-durgamā
+by knowers of the scriptures  even  his  
+mudrā suṣṭhu su-durgamā  
+ways  quite  very hard to understand
 
-(36) [not yet translated]
+(36) “The ways of the fortunate soul in whose heart this new *prema* has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)
 
 এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
 জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
@@ -435,195 +453,245 @@ mudrā suṣṭhu su-durgamā
 ত্যুন্মাদবন্নৃত্যতি লোকবাহ্যঃ ॥ ৩৭ ॥
 
 evaṁ-vrataḥ sva-priya-nāma-kīrtyā  
+one with such a vow  by the chanting of the names of his beloved  
 jātānurāgo druta-citta uccaiḥ  
+in whom love has arisen  with melted heart  loudly  
 hasaty atho roditi rauti gāyaty  
-unmāda-van nṛtyati loka-bāhyaḥ
+laughs  then  weeps  cries out  sings  
+unmāda-van nṛtyati loka-bāhyaḥ  
+like a madman  dances  beyond the world
 
-(37) [not yet translated]
+(37) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
 
 প্রেমা ক্রমে বাড়ি’ হয় — স্নেহ, মান, প্রণয় ৷  
 রাগ, অনুরাগ, ভাব, মহাভাব হয় ॥ ৩৮ ॥
 
 premā krame bāḍi’ haya — sneha, māna, praṇaya  
-rāga, anurāga, bhāva, mahābhāva haya
+prema  gradually  increasing  becomes  sneha  māna  praṇaya  
+rāga, anurāga, bhāva, mahābhāva haya  
+rāga  anurāga  bhāva  mahābhāva  are
 
-(38) [not yet translated]
+(38) As *prema* gradually increases, it becomes *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.
 
 যৈছে বীজ, ইক্ষু, রস, গুড়, খণ্ড, সার ৷  
 শর্করা, সিতা, মিছরি, শুদ্ধমিছরি আর ॥ ৩৯ ॥
 
 yaiche bīja, ikṣu, rasa, guḍa, khaṇḍa, sāra  
-śarkarā, sitā, michari, śuddha-michari āra
+as  the seed  the sugarcane  the juice  molasses  raw sugar  refined sugar  
+śarkarā, sitā, michari, śuddha-michari āra  
+white sugar  sugar candy  rock candy  pure rock candy  and
 
-(39) [not yet translated]
+(39) It is like the seed, the sugarcane, its juice, molasses, raw sugar, refined sugar, white sugar, sugar candy, rock candy and pure rock candy.
 
 ইহা যৈছে ক্রমে নির্ম্মল, ক্রমে বাড়ে স্বাদ ৷  
 রতি-প্রেমাদির তৈছে বাড়য়ে আস্বাদ ॥ ৪০ ॥
 
 ihā yaiche krame nirmala, krame bāḍe svāda  
-rati-premādira taiche bāḍaye āsvāda
+these  as  step by step  become pure  step by step  increases  the taste  
+rati-premādira taiche bāḍaye āsvāda  
+of rati, prema and the rest  so  increases  the relish
 
-(40) [not yet translated]
+(40) Just as these become purer step by step and their taste increases, so the relish of *rati*, *prema* and the rest increases.
 
 অধিকারি-ভেদে রতি — পঞ্চ প্রকার ৷  
 শান্ত, দাস্য, সখ্য, বাৎসল্য, মধুর আর ॥ ৪১ ॥
 
 adhikāri-bhede rati — pañca prakāra  
-śānta, dāsya, sakhya, vātsalya, madhura āra
+by the difference of those qualified  rati  five  kinds  
+śānta, dāsya, sakhya, vātsalya, madhura āra  
+śānta  dāsya  sakhya  vātsalya  madhura  and
 
-(41) [not yet translated]
+(41) According to the differences among those qualified for it, *rati* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.
 
 এই পঞ্চ স্থায়ীভাবে হয় পঞ্চ ‘রস’ ৷  
 যে-রসে ভক্ত ‘সুখী’, কৃষ্ণ হয় ‘বশ’ ॥ ৪২ ॥
 
 ei pañca sthāyī-bhāve haya pañca ‘rasa’  
-ye-rase bhakta ‘sukhī’, kṛṣṇa haya ‘vaśa’
+these  five  from sthāyī-bhāvas  become  five  rasas  
+ye-rase bhakta ‘sukhī’, kṛṣṇa haya ‘vaśa’  
+in which rasa  the devotee  happy  Kṛṣṇa  becomes  controlled
 
-(42) [not yet translated]
+(42) These five *sthāyī-bhāvas* become the five *rasas*, in which the devotee is happy and Kṛṣṇa comes under his control.
 
 প্রেমাদি স্থায়ীভাব সামগ্রী-মিলনে ৷  
 কৃষ্ণভক্তি রসরূপে পায় পরিণামে ॥ ৪৩ ॥
 
 premādi sthāyī-bhāva sāmagrī-milane  
-kṛṣṇa-bhakti rasa-rūpe pāya pariṇāme
+prema and the rest  sthāyī-bhāva  with the ingredients  on meeting  
+kṛṣṇa-bhakti rasa-rūpe pāya pariṇāme  
+devotion to Kṛṣṇa  the form of rasa  attains  in its transformation
 
-(43) [not yet translated]
+(43) When the *sthāyī-bhāva* — *prema* and the rest — meets with its ingredients (*sāmagrī*), devotion to Kṛṣṇa is transformed into *rasa*.
 
 বিভাব, অনুভাব, সাত্ত্বিক, ব্যভিচারী ৷  
 স্থায়ীভাব ‘রস’ হয় এই চারি মিলি’ ॥ ৪৪ ॥
 
 vibhāva, anubhāva, sāttvika, vyabhicārī  
-sthāyī-bhāva ‘rasa’ haya ei cāri mili’
+vibhāva  anubhāva  sāttvika  vyabhicārī  
+sthāyī-bhāva ‘rasa’ haya ei cāri mili’  
+sthāyī-bhāva  rasa  becomes  these  four  meeting
 
-(44) [not yet translated]
+(44) *Vibhāva*, *anubhāva*, *sāttvika* and *vyabhicārī*: when these four combine with it, the *sthāyī-bhāva* becomes *rasa*.
 
 দধি যেন খণ্ড-মরিচ-কর্পূর-মিলনে ৷  
 ’রসালাখ্য’ রস হয় অপূর্ব্বাস্বাদনে ॥ ৪৫ ॥
 
 dadhi yena khaṇḍa-marica-karpūra-milane  
-’rasālākhya’ rasa haya apūrvāsvādane
+yogurt  as  with sugar, pepper and camphor  on mixing  
+’rasālākhya’ rasa haya apūrvāsvādane  
+called rasālā  a drink  becomes  of unprecedented taste
 
-(45) [not yet translated]
+(45) When yogurt is mixed with sugar, black pepper and camphor, it becomes the drink called *rasālā*, whose taste is like nothing else.
 
 দ্বিবিধ ‘বিভাব’, — আলম্বন, উদ্দীপন ৷  
 বংশীস্বরাদি — ‘উদ্দীপন’, কৃষ্ণাদি — ‘আলম্বন’ ॥ ৪৬ ॥
 
 dvividha ‘vibhāva’, — ālambana, uddīpana  
-vaṁśī-svarādi — ‘uddīpana’, kṛṣṇādi — ‘ālambana’
+two kinds  vibhāva  ālambana  uddīpana  
+vaṁśī-svarādi — ‘uddīpana’, kṛṣṇādi — ‘ālambana’  
+the sound of the flute and the rest  uddīpana  Kṛṣṇa and others  ālambana
 
-(46) [not yet translated]
+(46) *Vibhāva* is of two kinds: the support (*ālambana*) and the stimulus (*uddīpana*). The sound of the flute and the like are *uddīpana*; Kṛṣṇa and others are *ālambana*.
 
 ’অনুভাব’ — স্মিত, নৃত্য, গীতাদি উদ্ভাস্বর ৷  
 স্তম্ভাদি — ‘সাত্ত্বিক’ অনুভাবের ভিতর ॥ ৪৭ ॥
 
 ’anubhāva’ — smita, nṛtya, gītādi udbhāsvara  
-stambhādi — ‘sāttvika’ anubhāvera bhitara
+anubhāva  smiling  dancing  singing and the rest  outward signs  
+stambhādi — ‘sāttvika’ anubhāvera bhitara  
+being stunned and the rest  sāttvika  of anubhāvas  among
 
-(47) [not yet translated]
+(47) The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* emotions, are counted among the *anubhāvas*.
 
 নির্ব্বেদ-হর্ষাদি — তেত্রিশ ‘ব্যভিচারী’ ৷  
 সব মিলি’ ‘রস’ হয় চমৎকারকারী ॥ ৪৮ ॥
 
 nirveda-harṣādi — tetriśa ‘vyabhicārī’  
-saba mili’ ‘rasa’ haya camatkāra-kārī
+despondency, joy and the rest  thirty-three  vyabhicārī  
+saba mili’ ‘rasa’ haya camatkāra-kārī  
+all  combining  rasa  becomes  wonder-producing
 
-(48) [not yet translated]
+(48) Despondency (*nirveda*), joy (*harṣa*) and the rest are the thirty-three *vyabhicārī-bhāvas*. When all these combine, *rasa* becomes wonderful.
 
 পঞ্চবিধ রস — শান্ত, দাস্য, সখ্য, বাৎসল্য ৷  
 মধুর-রসে শৃঙ্গারভাবের প্রাবল্য ॥ ৪৯ ॥
 
 pañca-vidha rasa — śānta, dāsya, sakhya, vātsalya  
-madhura-rase śṛṅgāra-bhāvera prābalya
+of five kinds  rasa  śānta  dāsya  sakhya  vātsalya  
+madhura-rase śṛṅgāra-bhāvera prābalya  
+in madhura-rasa  of the amorous mood  predominance
 
-(49) [not yet translated]
+(49) *Rasa* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. In *madhura-rasa* the amorous mood (*śṛṅgāra*) predominates.
 
 শান্তরসে শান্তি-রতি ‘প্রেম’ পর্য্যন্ত হয় ৷  
 দাস্যরতি ‘রাগ’ পর্য্যন্ত ক্রমেতে বাড়য় ॥ ৫০ ॥
 
 śānta-rase śānti-rati ‘prema’ paryanta haya  
-dāsya-rati ‘rāga’ paryanta kramete bāḍaya
+in śānta-rasa  śānti-rati  prema  up to  goes  
+dāsya-rati ‘rāga’ paryanta kramete bāḍaya  
+dāsya-rati  rāga  up to  gradually  increases
 
-(50) [not yet translated]
+(50) In *śānta-rasa*, *śānti-rati* develops as far as *prema*; *dāsya-rati* gradually increases as far as *rāga*.
 
 সখ্য-বাৎসল্য-রতি পায় ‘অনুরাগ’-সীমা ৷  
 সুবলাদ্যের ‘ভাব’ পর্য্যন্ত প্রেমের মহিমা ॥ ৫১ ॥
 
 sakhya-vātsalya-rati pāya ‘anurāga’-sīmā  
-subalādyera ‘bhāva’ paryanta premera mahimā
+sakhya- and vātsalya-rati  reaches  anurāga  the limit  
+subalādyera ‘bhāva’ paryanta premera mahimā  
+of Subala and others  bhāva  up to  of prema  the glory
 
-(51) [not yet translated]
+(51) *Sakhya-rati* and *vātsalya-rati* reach the limit of *anurāga*. In Subala and his companions the glory of *prema* extends as far as *bhāva*.
 
 শান্তাদি রসের ‘যোগ’, ‘বিয়োগ’ — দুই ভেদ ৷  
 সখ্য-বাৎসল্যে যোগাদির অনেক বিভেদ ॥ ৫২ ॥
 
 śāntādi rasera ‘yoga’, ‘viyoga’ — dui bheda  
-sakhya-vātsalye yogādira aneka vibheda
+of śānta and the rest  of the rasas  union  separation  two  divisions  
+sakhya-vātsalye yogādira aneka vibheda  
+in sakhya and vātsalya  of union and the rest  many  subdivisions
 
-(52) [not yet translated]
+(52) The *rasas* beginning with *śānta* have two divisions, union (*yoga*) and separation (*viyoga*). In *sakhya* and *vātsalya*, union and separation have many subdivisions.
 
 ’রূঢ়’, ‘অধিরূঢ়’ ভাব — কেবল ‘মধুরে’ ৷  
 মহিষীগণের ‘রূঢ়’, ‘অধিরূঢ়’ গোপিকা-নিকরে ॥ ৫৩ ॥
 
 ’rūḍha’, ‘adhirūḍha’ bhāva — kevala ‘madhure’  
-mahiṣī-gaṇera ‘rūḍha’, ‘adhirūḍha’ gopikā-nikare
+rūḍha  adhirūḍha  bhāva  only  in madhura  
+mahiṣī-gaṇera ‘rūḍha’, ‘adhirūḍha’ gopikā-nikare  
+of the queens  rūḍha  adhirūḍha  in the host of gopīs
 
-(53) [not yet translated]
+(53) The *bhāvas* called *rūḍha* and *adhirūḍha* are found only in *madhura-rasa*: *rūḍha* in the queens, and *adhirūḍha* in the *gopīs*.
 
 অধিরূঢ়-মহাভাব — দুই ত’ প্রকার ৷  
 সম্ভোগে ‘মাদন’, বিরহে ‘মোহন’ নাম তার ॥ ৫৪ ॥
 
 adhirūḍha-mahābhāva — dui ta’ prakāra  
-sambhoge ‘mādana’, virahe ‘mohana’ nāma tāra
+adhirūḍha-mahābhāva  two  indeed  kinds  
+sambhoge ‘mādana’, virahe ‘mohana’ nāma tāra  
+in union  mādana  in separation  mohana  the name  its
 
-(54) [not yet translated]
+(54) *Adhirūḍha-mahābhāva* is of two kinds: in union it is called *mādana*, and in separation *mohana*.
 
 ’মাদনে’ — চুম্বনাদি হয় অনন্ত বিভেদ ৷  
 ’উদ্ঘূর্ণা’, ‘চিত্রজল্প’ — ‘মোহনে’ দুই ভেদ ॥ ৫৫ ॥
 
 ’mādane’ — cumbanādi haya ananta vibheda  
-’udghūrṇā’, ‘citra-jalpa’ — ‘mohane’ dui bheda
+in mādana  kissing and the rest  are  endless  varieties  
+’udghūrṇā’, ‘citra-jalpa’ — ‘mohane’ dui bheda  
+udghūrṇā  citra-jalpa  in mohana  two  divisions
 
-(55) [not yet translated]
+(55) In *mādana* there are endless varieties, such as kissing. *Mohana* has two divisions: *udghūrṇā* and *citra-jalpa*.
 
 চিত্রজল্পের দশ অঙ্গ — প্রজল্পাদি-নাম ৷  
 ’ভ্রমর-গীতা’র দশ শ্লোক তাহাতে প্রমাণ ॥ ৫৬ ॥
 
 citra-jalpera daśa aṅga — prajalpādi-nāma  
-’bhramara-gītā’ra daśa śloka tāhāte pramāṇa
+of citra-jalpa  ten  parts  prajalpa and the rest  by name  
+’bhramara-gītā’ra daśa śloka tāhāte pramāṇa  
+of the Bhramara-gītā  ten  verses  of this  are the evidence
 
-(56) [not yet translated]
+(56) *Citra-jalpa* has ten parts, named *prajalpa* and so on. The ten verses of the *Bhramara-gītā*, the Song to the Bee, are the evidence of this.
 
 উদ্ঘূর্ণা, বিবশ-চেষ্টা — দিব্যোন্মাদ-নাম ৷  
 বিরহে কৃষ্ণস্ফূর্ত্তি, আপনাকে ‘কৃষ্ণ’-জ্ঞান ॥ ৫৭ ॥
 
 udghūrṇā, vivaśa-ceṣṭā — divyonmāda-nāma  
-virahe kṛṣṇa-sphūrti, āpanāke ‘kṛṣṇa’-jñāna
+udghūrṇā  helpless actions  divine madness  by name  
+virahe kṛṣṇa-sphūrti, āpanāke ‘kṛṣṇa’-jñāna  
+in separation  Kṛṣṇa’s appearing  oneself  as Kṛṣṇa  thinking
 
-(57) [not yet translated]
+(57) *Udghūrṇā* and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before her, and she even takes herself to be Kṛṣṇa.
 
 ’সম্ভোগ’ ‘বিপ্রলম্ভ’ ভেদে দ্বিবিধ শৃঙ্গার ৷  
 সম্ভোগের অনন্ত অঙ্গ, নাহি অন্ত তার ॥ ৫৮ ॥
 
 ’sambhoga’ ‘vipralambha’ bhede dvividha śṛṅgāra  
-sambhogera ananta aṅga, nāhi anta tāra
+union  separation  by the division  two kinds  śṛṅgāra  
+sambhogera ananta aṅga, nāhi anta tāra  
+of union  endless  aspects  no  end  of it
 
-(58) [not yet translated]
+(58) *Śṛṅgāra* is of two kinds, union (*sambhoga*) and separation (*vipralambha*). Union has endless aspects; there is no end to them.
 
 ’বিপ্রলম্ভ’ চতুর্ব্বিধ — পূর্ব্বরাগ, মান ৷  
 প্রবাসাখ্য, আর প্রেমবৈচিত্ত্য-আখ্যান ॥ ৫৯ ॥
 
 ’vipralambha’ catur-vidha — pūrva-rāga, māna  
-pravāsākhya, āra prema-vaicittya-ākhyāna
+separation  four kinds  pūrva-rāga  māna  
+pravāsākhya, āra prema-vaicittya-ākhyāna  
+called pravāsa  and  called prema-vaicittya
 
-(59) [not yet translated]
+(59) Separation (*vipralambha*) is of four kinds: longing before meeting (*pūrva-rāga*), loving pique (*māna*), separation by distance (*pravāsa*) and the feeling of separation even in the beloved’s presence (*prema-vaicittya*).
 
 রাধিকাদ্যে ‘পূর্ব্বরাগ’ প্রসিদ্ধ ‘প্রবাস’, ‘মানে’ ৷  
 ’প্রেমবৈচিত্ত্য’ শ্রীদশমে মহিষীগণে ॥ ৬০ ॥
 
 rādhikādye ‘pūrva-rāga’ prasiddha ‘pravāsa’, ‘māne’  
-’prema-vaicittya’ śrī-daśame mahiṣī-gaṇe
+in Rādhikā and others  pūrva-rāga  well known  pravāsa  māna  
+’prema-vaicittya’ śrī-daśame mahiṣī-gaṇe  
+prema-vaicittya  in the Tenth (Canto)  in the queens
 
-(60) [not yet translated]
+(60) *Pūrva-rāga*, *pravāsa* and *māna* are well known in Rādhikā and the other *gopīs*; *prema-vaicittya* is seen in the queens, as the Tenth Canto describes.
 
 কুররি বিলপসি ত্বং বীতনিদ্রা ন শেষে  
 স্বপিতি জগতি রাত্র্যামীশ্বরো গুপ্তবোধঃ ৷  
