@@ -1,0 +1,129 @@
+## 151
+
+> Subheading: Devotion is likened to a creeper; another name for devotion is *kṛṣṇānurāga* (attachment to Kṛṣṇa). A description of the path by which the conditioned *jīva*, step by step, attains loving service to Kṛṣṇa: at its root lies the *sukṛti* that bestows devotion, which is Kṛṣṇa's mercy; the fruit of that *sukṛti* is meeting a genuine guru; by his mercy, through hearing, comes the realization of *sambandha* and faith awakens —
+
+“Brahmāṇḍa” means the fourteen worlds (see Ādi 5.98).
+
+*Bhāgyavān* (fortunate) means a *jīva* endowed with *sukṛti* (pious merit). When a *jīva* unknowingly renders some service to Viṣṇu and the Vaiṣṇavas, *sukṛti* arises in him (see the story of Nārada's birth, *Śrīmad-Bhāgavatam* 1.5.23–30). Such *sukṛti*, which turns the *jīva* toward devotion, is not material activity: it is the first, still unblossomed stirring of the soul's own spiritual nature (*cid-vṛtti*). When through *sukṛti* faith appears, and through hearing comes knowledge of *sambandha*, real pure devotion begins.
+
+*Guru-prasāda* (the guru's mercy): out of his mercy the guru grants his disciple the highest grace (*anugraha*) — devotion to Kṛṣṇa. For the highest good of one who has *sukṛti* and is fit for mercy, Śrī Bhagavān empowers the person dearest to Him and sends him into the world as the *mahānta-guru*, to distribute His power of mercy. Śrī Gurudeva grants the disciple his own grace — service to Kṛṣṇa.
+
+*Kṛṣṇa-prasāda* (Kṛṣṇa's mercy): the gurudeva who gives the seed of the creeper of devotion is a manifestation of Bhagavān of the *āśraya* category (the vessel of love). Kṛṣṇa sends him to the disciple — that is Kṛṣṇa's mercy. By the guru's mercy one obtains Kṛṣṇa's mercy, and by Kṛṣṇa's mercy, the guru's mercy.
+
+*Bhakti-latā-bīja* (the seed of the creeper of devotion) is the seed from which the creeper of service to Bhagavān grows. The cause of the creeper of devotion is the guru's mercy and Kṛṣṇa's mercy. From the seed of other desires (*anyābhilāṣa*), the seed of *karma* and the seed of *jñāna* grow their own kinds of trees. The seed of the creeper of devotion is different from all these seeds. One obtains it only when the guru and Kṛṣṇa are pleased. If they are displeased, one may get the seed of other desires, of *karma* or of *jñāna*, but the seed of pure devotion is lost. Those who lack true good fortune never receive the seed of the creeper of devotion. Only a *jīva* endowed with faith takes shelter at the lotus feet of the guru. The mantra of grace (*anugraha-mantra*) given by the genuine guru, and the path he shows, are the “path of devotion” (*bhakti-mārga*).
+
+## 152
+
+> Subheading: From that very moment the practice (*abhidheya*) begins: worship (*bhajana*) even while *anarthas* remain —
+
+To hear from the guru's lotus feet and then to chant what one has heard — that is the watering, and by it the seed gradually becomes a creeper.
+
+## 153
+
+> Subheading: Worship also when the *anarthas* are gone; the shelter of devotion full of *rāga* is Kṛṣṇa's sweetness (*mādhurya*), not the majesty of Brahmā or of Nārāyaṇa —
+
+Within the “brahmāṇḍa,” that is, in the fourteen worlds, there is no tree that can support (shelter) the creeper of devotion. Devotion cannot be directed toward anything within the brahmāṇḍa. Beyond the brahmāṇḍa flows the river “Virajā.” In it one sees the state of equilibrium of the three *guṇas*; this river washes away material impurity. Only after crossing it does one reach “Brahmaloka,” the ideal of the *jñānīs*. Just as at the Virajā there is no tree fit to support the creeper of devotion, so at Brahmaloka there is no tree the creeper could serve. Finding no tree to lean on, the creeper, watered by hearing and chanting, grows on, passes beyond Brahmaloka and reaches the abode of “Paravyoma.”
+
+## 154
+
+On one side of Brahmaloka and the Virajā lies the brahmāṇḍa made of *māyā* — this is “Devī-dhāma.” Devī-dhāma, or the “other sky” (*itara-vyoma*), exists in subjection to *prakṛti*. On the far side of *prakṛti* lies “Vaikuṇṭha,” or “Paravyoma.” There *māyā* is unable to “measure” anything. Above the wholly spiritual (*brahma-maya*) Vaikuṇṭha lies “Goloka Vṛndāvana.” There the creeper of devotion takes shelter of the desire tree of Kṛṣṇa's feet. In Paravyoma the prescribed worship is offered to Śrī Nārāyaṇa, the Lord of Paravyoma, and in that worship one sees the *rasas* of *śānta*, *dāsya* and “half of *sakhya*.” In Goloka Vṛndāvana, however, in the service of Śrī Kṛṣṇa, five *bhāvas* blossom in full measure: *śānta*, *dāsya*, “half of *sakhya* marked by reverence (*gaurava*)” together with “half of *sakhya* marked by complete confidence (*viśrambha*),” *vātsalya* and *madhura*. Here alone the creeper of devotion finds shelter in every respect.
+
+## 155
+
+> Subheading: Attaining the goal (*prayojana*), love for Kṛṣṇa; in the stage of practice, always hearing and chanting —
+
+*Tāṅhā* (there) means in Goloka Vṛndāvana. *Prema-phala* (the fruit of *prema*) is a wondrous transcendental thing, supremely desirable; at its root is the desire to please Kṛṣṇa's senses. It is the very own treasure of Kṛṣṇacandra, whose form is eternity, knowledge and bliss (*sac-cid-ānanda*); the material intelligence of the conditioned *jīva*, absorbed in enjoyment, cannot grasp it.
+
+*Ihāṅ* (here) means in the material world. Remaining here, one must water the planted seed of the creeper of devotion with the water of hearing, chanting and so on — about Kṛṣṇa's eternal, transcendental name, form, qualities and pastimes.
+
+## 156
+
+> Subheading: In the unripe stage the chief “obstacle” on the path of practice is offense to a Vaiṣṇava —
+
+An offense to a Vaiṣṇava is like a mad elephant. *Aparādha* (offense) means the ten offenses to the holy name (see Ādi 8.24). *Hātī mātā* (a mad elephant) is a strong mood hostile to devotion, or an offense to a Vaiṣṇava in the form of disregard for the guru; it is this that destroys the creeper of devotion.
+
+## 157
+
+> Subheading: The key to one's welfare is to guard against offenses to the holy name —
+
+The creeper of devotion must be fenced in on all sides. The enclosure, or fence, is the effort to avoid the company of those who are not devoted to Kṛṣṇa. Without it, association with nondevotees gives birth to the mad elephant of offense, which may uproot the creeper of devotion, break it or trample it. A *sādhaka* must therefore be extremely careful that this does not happen. Śrī Rūpa Prabhu says in the *Upadeśāmṛta*: “Devotion is ruined by six things: eating (or collecting) more than needed, overendeavor, idle talk, stubborn attachment to rules (or neglect of them), association with worldly people, and greed.”[^157-1]
+
+## 158
+
+> Subheading: Things that look like devotion but are not devotion — kinds of non-devotion —
+
+*Upaśākhā* (side shoots)[^158-1] are not the real creeper's own branches but branches of another creeper that looks like it. They twine around the real creeper and seem to be “part” of it, but in fact they are not the real creeper. *Bhukti* is what those who preach enjoyment of the fruits of *karma* obtain; *mukti* is what the followers of *jñāna* obtain; *vāñchā* (desires) are the fruits of *yoga* that the followers of *siddhi* seek: mystic powers (*vibhūti*) and the like.
+
+## 159
+
+*Niṣiddhācāra* (forbidden conduct) means conduct unbecoming a *siddha*, or conduct that obstructs perfection — that is, conduct by which devotion is lost. For example, when a *jīva*, thinking himself the enjoyer and absorbed in enjoyment, keeps company with women and with those not devoted to Kṛṣṇa, or looks at worldly people and at women.
+
+*Kuṭīnāṭī* means play-acting full of crookedness, duplicity; *ku-ṭī* and *nā-ṭī* mean what opposes inner contentment (*ātma-prasāda*) — that is, discontent.
+
+*Jīva-hiṁsā* (violence toward living beings) means hesitancy or stinginess in chanting and preaching the message of eternal welfare whose root is devotion to Kṛṣṇa — that is, indulging the Māyāvādīs, the *karmīs* and those with other desires (*anyābhilāṣīs*); it also means killing living beings, or causing anxiety or pain to any living being at all.
+
+*Lābha* (gain) means the desire to obtain or amass wealth and the like in the world for the satisfaction of the material senses.
+
+*Pūjā* (worship) means honor gained by adding fuel to the mental notions (*mano-dharma*) of worldly people.
+
+*Pratiṣṭhā* (position) means hankering for worldly greatness, or love of one's own perishable fame among people.
+
+## 160
+
+> Subheading: If indulged, non-devotion flourishes, and devotion may weaken and be smothered —
+
+Under the influence of watering with hearing, chanting and so on, the side shoots grow strong and spread, while the main creeper of devotion, unable to grow, comes to a halt. When hearing and chanting are practised not free from offenses — that is, without giving up bad association, with offenses — the *jīvas* gradually come to be known by many different names. They are devoted to enjoyment, eager to escape bondage, greedy for *siddhis*, given to deceit, debauched with women not lawfully theirs, supporters of false devotion or of the doctrine of the *prākṛta-sahajiyās*. Through the deception of status by seminal lineage they lay claim to spiritual status; they dwell in the five places that Parīkṣit gave to Kali; they see caste in Vaiṣṇavas. They make their living from the holy name, the mantra, the Deity and the *Bhāgavatam*, and are busy amassing wealth and the like by impure means. They seek honor by passing themselves off as those who “delight in solitary worship,” seek fame by supporting the doctrine that reconciles spirit and matter, or else, as servants of a *guru-bruva*, submit to and support an ungodly *varṇāśrama* hostile to Viṣṇu and the Vaiṣṇavas. In other words, maddened by the urge to gratify their own senses, they cheat foolish people for the sake of perishable, extraneous things, not pure devotion, and long to be known in the world as “religious,” “sādhus” or “great souls.” But real pure servants of Hari they cannot become.
+
+## 161
+
+> Subheading: First of all the *sādhaka* must see to giving up bad association —
+
+If, noticing that the sprouts of the “side shoots” mentioned above are appearing, one at once destroys them root and all, only then will the branch of the main creeper of devotion bear the transcendental fruit of *prema* in Vṛndāvana. Otherwise, when the side shoots prevail, it is inevitable that one gives up the service of Hari for good — that is, suffers within the brahmāṇḍa (in heaven and other higher worlds, in the world of mortals, or in hell).
+
+## 162
+
+> Subheading: Only then is it possible to reach the goal (*prayojana*), love for Kṛṣṇa —
+
+Holding on to the creeper, the devotee-gardener reaches the tree of Kṛṣṇa's lotus feet. When the fruit of *prema* in Goloka Vṛndāvana ripens and falls, the devotee living in the material world can taste it.
+
+## 163
+
+*Tāṅhā* (there) means in the transcendental Goloka Vṛndāvana. *Sei kalpa-vṛkṣera* (that desire tree) means the desire tree of Kṛṣṇa's feet. *Āsvādana* (tasting): serving transcendentally, the devotee attains the transcendental happiness of service.
+
+## 164
+
+> Subheading: Love for Kṛṣṇa is the highest goal, which puts the four goals of life (*catur-varga*) to shame —
+
+*Tṛṇa-tulya* (like a blade of grass) means insignificant, worthless by comparison. Before *prema*, the four goals of life — *dharma*, *artha*, *kāma*, *mokṣa* and the rest, which the *karmīs*, *jñānīs*, *yogīs* and others desire — are utterly unacceptable.
+
+## 165
+
+> Subheading: The bliss of serving in love for Kṛṣṇa puts the bliss of Brahman to shame — (*Lalita-mādhava*, Act 5, verse 2; words spoken offstage)
+
+**yāvat** (so long as) **madhu-ripu-vaśī-kāra-siddhauṣadhīnām** (which are perfect herbs for subduing Madhuripu, Kṛṣṇa, and making Him obedient) **premṇām** (of *prema* — of *śānta* and the other *rasas*) **gandha-leśo 'pi** (even the slightest trace) **antaḥ-karaṇa-saraṇī-pānthatām** (the position of a traveler on the path of the heart) **na prayāti** (does not reach), **ṛddhā** (rich) **siddhi-vraja-vijayitā** (supremacy — that is, the position of victor — over the host of *siddhis*, mystic powers; this is the sense), **satya-dharmā** (founded on the *dharma* of truthfulness, cleanliness, charity and austerity) **samādhiḥ** (concentration of the mind), **brahmānandaḥ** (the highest happiness of Brahman) **ca** **guruḥ** (praiseworthy, great) **api** — **tāvat** (until then) **eva** **camatkārayati** (astonishes; the sense is: once the happiness of serving Kṛṣṇa is attained, the happiness of sense objects, *kaivalya* and the happiness of Brahman become insignificant).
+
+## 166
+
+> Subheading: The characteristics of pure devotion: (1) *sādhana-bhakti* —
+
+*Śuddha-bhakti* (pure devotion) is the highest (*uttamā*) devotion: it is beyond the three *guṇas*, unmixed with *karma* and *jñāna*, causeless (*ahaitukī*) and free from the *guṇas* (*nirguṇā*).
+
+## 167
+
+> Subheading: The essence of the whole *Bhāgavatam* — (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, first wave, verse 11)
+
+This verse is not quoted in the *Amṛta-pravāha-bhāṣya*. Here is its translation.
+
+The highest devotion is constant worship for Kṛṣṇa's sake — that is, connected with Kṛṣṇa or directed toward Kṛṣṇa. It is free from all desires rooted in immorality (such as unlawful association with women) that are hostile to the service of Kṛṣṇa; it is not covered by the desire for liberation or the desire for enjoyment; and it consists entirely of efforts favorable for pleasing Kṛṣṇa's senses.
+
+(First its marginal characteristic, *taṭastha-lakṣaṇa*, is given:) **anyābhilāṣitā-śūnyam** (empty of, devoid of *anyābhilāṣitā* — desire rooted in immorality, such as association with women, which is hostile to performing worship of Kṛṣṇa), **jñāna-karmādy-anāvṛtam** (not covered, not screened off [from Kṛṣṇa], not obstructed by *jñāna*, *karma* and so on: *jñāna* here means the search for undifferentiated Brahman, but not the search for knowledge of the One who is worshiped, since that is indispensable; *karma* means the daily and occasional duties (*nitya-naimittika*) and the like enjoined in the *smṛti* and other scriptures, but not service to the One who is worshiped and so on, since that is itself the cultivation [of devotion]; the word “and so on” (*ādi*) means renunciation, *yoga*, the study of *sāṅkhya* and the like), **ānukūlyena** (favorably: favorableness here means an inclination pleasing to Śrī Kṛṣṇa, for whom the worship is performed; unfavorableness is to be understood as its opposite, since it opposes worship; the instrumental case here is defining (*viśeṣaṇa*), not incidental (*upalakṣaṇa*), so favorableness too must be understood as part of the definition of devotion) **kṛṣṇānuśīlanam** (cultivation directed to Kṛṣṇa: the word “Kṛṣṇa” here should be understood to denote Bhagavān Śrī Kṛṣṇa Himself, and also His forms and the others — all who are *viṣṇu-tattva*; *anuśīlana*, connected with Kṛṣṇa or done for Kṛṣṇa's sake, means activities of body, speech and mind directed to Him as the object of love (*prīti*) — that is, carrying out one service after another again and again, without slackness) **eva** **uttamā bhaktiḥ** (this alone is the highest devotion; this clearly states its excellence on both paths, *vaidhī* and *rāgānugā*, and in both stages, that of the *sādhaka* and that of the *siddha*).
+
+## 168
+
+> Subheading: The first two quarters give the “marginal” (*taṭastha*) characteristic, the last two the characteristic of the “essence” (*svarūpa*) of pure devotion —
+
+---
+
+[^157-1]: *Upadeśāmṛta* 2.
+
+[^158-1]: Our verse translation reads differently: “weeds of material desires or the desire for liberation.”
