@@ -216,13 +216,13 @@ The unsatisfied viewer then says with regret: “I have no hundreds of thousands
 
 > Subheading: The Lord, filled with the feeling of the gopīs, longs for the sweetness of Kṛṣṇa's body, the sweetness of His face and the sweetness of His smile —
 
-Ordinarily, at the first glance one sees the ocean of sweetness that is Kṛṣṇa's body; more particularly, at the second glance, the most sweet moon of His face, which stands above the ocean of His body; and more particularly still, at the third glance, the rays of the moon of His face — His gentle smile, sweeter than sweetness itself. The sweetness of these three rose in the Lord step by step as He recited the verse, and a transformation (*vikāra*) appeared in Him: He began to wave His hand.
+Ordinarily, the first glance sees the ocean of sweetness that is Kṛṣṇa's body; the second, closer glance sees the most sweet moon of His face, which stands above the ocean of His body; and the third, closest glance sees the rays of the moon of His face — His gentle smile, sweeter than sweetness itself. The sweetness of these three rose in the Lord step by step as He recited the verse, and a transformation (*vikāra*) appeared in Him: He began to wave His hand.
 
 ## 136
 
 > Subheading: The degrees of sweetness of Kṛṣṇa's body, face and smile in the eyes of the gopīs —
 
-**asya vibhoḥ** (of this Kṛṣṇa) **vapuḥ** (the form, or the body) **madhuraṁ madhuraṁ** (compared with the forms of all other forms besides such a *svayaṁ-rūpa*, exceedingly sweet); (Kṛṣṇa's) **vadanaṁ** (and) **madhuraṁ madhuraṁ madhuram** (compared with Kṛṣṇa's body, sweeter still); **aho**, **etat** **madhu-gandhi** (fragrant with honey) **mṛdu-smitam** (and the gentle smile) **madhuraṁ madhuraṁ madhuraṁ madhuram** (compared with Kṛṣṇa's body and face, the sweetest of all).
+**asya vibhoḥ** (of this Kṛṣṇa) **vapuḥ** (the form, or the body) **madhuraṁ madhuraṁ** (compared with the beauty of all the other forms besides such a *svayaṁ-rūpa*, exceedingly sweet); (Kṛṣṇa's) **vadanaṁ** (and) **madhuraṁ madhuraṁ madhuram** (compared with Kṛṣṇa's body, sweeter still); **aho**, **etat** **madhu-gandhi** (fragrant with honey) **mṛdu-smitam** (and the gentle smile) **madhuraṁ madhuraṁ madhuraṁ madhuram** (compared with Kṛṣṇa's body and face, the sweetest of all).
 
 ## 137
 
