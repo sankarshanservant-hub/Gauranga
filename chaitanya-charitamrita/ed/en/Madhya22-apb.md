@@ -27,3 +27,27 @@ In many places the scriptures call *karma* the *abhidheya*, in many places *yoga
 ## 19
 
 If even pure knowledge — *naiṣkarmya* — does not shine when it lacks devotion to Acyuta, then how can *karma*, which is always inauspicious by nature, shine when it is not offered to Īśvara, even if it is free from selfish desire?
+
+## 20
+
+Ascetics, generous givers, the renowned, the wise, the knowers of Vedic *mantras* — though all their deeds are auspicious, without offering them to Him they can in no way attain auspiciousness. Again and again I bow to Bhagavān, whose fame is auspicious (Subhadraśravā).
+
+## 21
+
+From the scriptural statement “Liberation is easily attained by knowledge” one may conclude that knowledge gives liberation. But there is a subtle point here: knowledge gives liberation only under the shelter of *bhakti*. On the other hand, when *bhakti* turned toward Kṛṣṇa awakens, that liberation comes of itself, even if one makes no effort for knowledge.
+
+## 22
+
+O Vibhu, devotion to You is the path to the highest good. Some reject it and accept all kinds of hardship for mere knowledge — that is, to realize firmly, “I am Brahman.” As those who pound empty husks get no grain, so for them only hardship remains.
+
+## 23
+
+This *māyā* is My potency, and therefore by its very nature the weak *jīva* cannot overcome it. Only those who surrender (*prapatti*) to Me in My form as Bhagavān can cross this ocean of *māyā*.
+
+## 27
+
+From Brahmā's mouth were born the “*brāhmaṇas*,” from his arms the “*kṣatriyas*,” from his thighs the “*vaiśyas*,” and from his feet the “*śūdras*.” These four *varṇas* were born together with the separate *āśramas* and with the qualities proper to each *varṇa*.
+
+## 28
+
+Among the people of these four *varṇas* and *āśramas*, those who do not directly serve their Lord, Bhagavān Viṣṇu, but out of pride in their own *varṇa* and *āśrama* disregard His service, fall from their position and go down.

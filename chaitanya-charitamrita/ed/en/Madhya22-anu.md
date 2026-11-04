@@ -71,3 +71,75 @@ Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The pot
 ## 18
 
 > Subheading: Without the shelter of *bhakti*, *karma*, *jñāna*, *yoga* and the rest are fruitless —
+
+## 19
+
+> Subheading: Even dry knowledge and selfless *karma* are futile without *bhakti* — (*Śrīmad-Bhāgavatam* 1.5.12) —
+
+Śrī Vyāsadeva had performed many austerities and composed all the scriptures, yet he was deprived of satisfaction of the self (*ātma-prasāda*). Dissatisfied at heart, he sat on the bank of the river Sarasvatī, turning over many arguments in his mind and lamenting. Then his *gurudeva*, who knew his heart, Śrī Nārada Gosvāmī, came there. When Vyāsadeva asked him why there was no satisfaction in his heart, Śrī Nārada glorified pure devotion to Hari as greater than all paths — *karma*, *jñāna* and the rest:
+
+**acyuta-bhāva-varjitam** (if it lacks feeling for Acyuta, Kṛṣṇa, that is, lacks favorable cultivation [*anukūla-anuśīlana*]) **nirañjanam** (free from *upādhis* — as pure as can be) **naiṣkarmyam** (free even from enjoying fruits) **jñānam** **alam**[^19-1] (exceedingly) **na** **śobhate** (does not lead to full liberation); **punaḥ** **tathā** **śaśvat** (always — both during *sādhana* and at the time of attainment — and therefore) **abhadram** (painful) **yat** **ca** **akāraṇam** **karma** (*karma* aimed at worldly activity [*pravṛtti*], selfish; and even if aimed at withdrawal [*nivṛtti*], selfless, it is still *karma*) **īśvare** (to Viṣṇu) **na** **arpitam** (not offered), **kutaḥ** (how could it shine? — not at all, is the sense).
+
+## 20
+
+> Subheading: Without offering to Kṛṣṇa, the whole *karma-kāṇḍa* produces worldly existence — (*Śrīmad-Bhāgavatam* 2.4.17) —
+
+When Parīkṣit asked about the creation of the world and the other pastimes of Śrī Hari, the master of *māyā*, Śrī Śukadeva describes the glory of Śrī Hari and of His service:
+
+**tapasvinaḥ** (the *jñānīs* devoted to austerity) **dāna-parāḥ** (the generous) **yaśasvinaḥ** (the renowned) **manasvinaḥ** (the *yogīs*) **mantra-vidaḥ** (the knowers of the *Nigamas* and *Āgamas*) **sumaṅgalāḥ** (those of righteous conduct) **yad-arpaṇam** (offering to Him, Śrī Hari, the fruits each obtains from the austerity and so on mentioned above) **vinā** (without) **kṣemam** (welfare) **na** **vindanti** (do not obtain), **tasmai** **subhadra-śravase** (to Bhagavān Śrī Hari, the embodiment of auspicious fame) **namo namaḥ**.
+
+## 21
+
+> Subheading: Knowledge without *bhakti* does not give liberation; liberation is the maidservant of *bhakti* —
+
+Mere knowledge — that is, the experience of the potency of consciousness (*saṁvit*) devoid of *bhakti* — cannot free the *jīva* from material bondage. However much the *jīva* may reject all that is not the Truth (*atat-nirasana*), through ignorance of Kṛṣṇa's *svarūpa* the worship of oneself as God (*ahaṅgraha-upāsanā*) grows strong in him, and he falls down. But if the *jīva*, even without cultivating knowledge, is eager to serve Kṛṣṇa, he obtains the fruit of knowledge — liberation from material bondage — and realizes Kṛṣṇa's *svarūpa*. “O Bhagavān, if by fortune we have firm devotion to You, Your divine youthful form will appear to us. Liberation herself, with folded palms, serves us, and *dharma*, *artha* and *kāma* wait for their turn.” (*Kṛṣṇa-karṇāmṛta*)[^21-1]
+
+## 22
+
+> Subheading: Eternal good lies only on the path of *bhakti*; apart from it, dry knowledge yields nothing but futile labor — (*Śrīmad-Bhāgavatam* 10.14.4) —
+
+When, as a result of the stealing of the calves, Śrī Kṛṣṇa crushed Brahmā's pride, Brahmā surrendered to Śrī Kṛṣṇa completely and offers Him a prayer:
+
+**vibho** (O Bhagavān), **ye** (people who follow the reasoning of the ascending process [*āroha-vāda*]) **śreyaḥ-sṛtim** (the path, the road to blessings, that is, to prosperity [*abhyudaya*] and liberation [*apavarga*]) **te** (Your) **bhaktim** (pure *bhajana*) **udasya** (rejecting) **kevala-bodha-labdhaye** (to obtain mere knowledge without *bhakti*) **kliśyanti** (accept the hardships of renunciation, austerity and so on), **teṣām** (for those dry *jñānīs*, the *brahmavādīs* who admit no distinctions) — **yathā** **sthūla-tuṣāvaghātinām** (as for those who pound husks — empty shells with no grain inside, which only look like full grains — the labor proves futile, so) — **asau** (born of the study of scripture, of the six kinds of *sādhana* and so on) **kleśalaḥ** (hardship, futile labor) **eva** **śiṣyate** (remains), **na** **anyat** (they have no other fruit — that is, even knowledge is out of their reach).
+
+## 23
+
+> Subheading: Only one who surrenders to Bhagavān is freed from *māyā* — (*Bhagavad-gītā* 7.14) —
+
+See Madhya 20.121.
+
+## 24
+
+> Subheading: The cause of the *jīva*'s bondage in worldly existence —
+
+The *jīva* forgot the truth: “The *jīva* is Kṛṣṇa's eternal servant.” Therefore *māyā* tempted and bewildered him in every way and bound the chain of the three *guṇas* around his neck. Since then it has been hard for the conditioned *jīva* to escape the bonds of *māyā*'s chain — the desire to enjoy.
+
+## 25
+
+> Subheading: The only means of deliverance and of attaining *prayojana* —
+
+Only by the strength of serving the *guru* and worshiping Kṛṣṇa is the conditioned *jīva* freed from the net of *māyā* and attains Kṛṣṇa's lotus feet.
+
+## 26
+
+> Subheading: Following *varṇāśrama-dharma* without *bhakti* leads to hell —
+
+*Brāhmaṇas*, *kṣatriyas*, *vaiśyas* and *śūdras* may properly follow the *dharma* of their *varṇa*, and *brahmacārīs*, *gṛhasthas*, *vānaprasthas* and *sannyāsīs* may follow the *dharma* of their *āśrama* in every respect. But if they do not worship Kṛṣṇa, then, though they rise high under the sway of mundane self-conceit, in the end, when their pious merit (*puṇya*) is exhausted, they surely fall into the hell Raurava. Without the cultivation of transcendental *bhakti*, there is no good at all for a worldly-minded follower of *varṇāśrama*.
+
+## 27
+
+> Subheading: The origin of *daiva-varṇāśrama-dharma* — (*Śrīmad-Bhāgavatam* 11.5.2–3) —
+
+Śrī Nārada, glorifying *bhāgavata-dharma* before Vasudeva, recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Mahārāja Nimi asked, “What is the destination of the slaves of the senses (*godāsas*) who are averse to serving Hari?” In answer to this question, one of the nine Yogendras, the sage Camasa, describes in the following two verses the creation of *daiva-varṇāśrama*, favorable to *bhakti*, and the wretched condition of those who deviate from it:
+
+**puruṣasya** (of Bhagavān, the universal [*vairāja*] Brahmā) **mukha-bāhūru-pādebhyaḥ** **guṇaiḥ** (according to the *guṇas* — *sattva*, *rajas* and *tamas*) **āśramaiḥ** (with the four *āśramas* — *brahmacarya*, *gṛhastha*, *vānaprastha* and *sannyāsa*) **saha** **pṛthak** **viprādayaḥ** (the *brāhmaṇas*, *kṣatriyas*, *vaiśyas* and *śūdras*) **catvāraḥ** **varṇāḥ** **jajñire**.
+
+## 28
+
+> Subheading: One who follows non-*daiva varṇāśrama*, hostile to *bhakti*, goes to hell —
+
+---
+
+[^19-1]: The edition reads *phalam*; the verse and the gloss (“exceedingly”) require *alam*. An evident misprint.
+
+[^21-1]: *Kṛṣṇa-karṇāmṛta* 107.
