@@ -1193,77 +1193,99 @@ dhanera jhāri paḍibeka tomāra hātete
 ‘ভক্ত্যে’ কৃষ্ণ বশ হয়, ‘ভক্ত্যে’ তাঁরে ভজি ॥ ১৩৬ ॥
 
 aiche śāstra kahe, — karma, jñāna, yoga tyaji’  
-‘bhaktye’ kṛṣṇa vaśa haya, ‘bhaktye’ tāṅre bhaji
+thus  the scriptures  say  karma  jñāna  yoga  giving up  
+‘bhaktye’ kṛṣṇa vaśa haya, ‘bhaktye’ tāṅre bhaji  
+by devotion  Kṛṣṇa  subdued  becomes  by devotion  Him  worship
 
-(136) [not yet translated]
+(136) “In the same way the scriptures say: give up *karma*, *jñāna* and *yoga*. By devotion Kṛṣṇa is brought under control; worship Him with devotion.
 
 ন সাধয়তি মাং যোগো ন সাংখ্যং ধর্ম্ম উদ্ধব ৷  
 ন স্বাধ্যায়স্তপস্ত্যাগো যথা ভক্তির্মমোর্জ্জিতা ॥ ১৩৭ ॥
 
 na sādhayati māṁ yogo  
+not  wins  Me  yoga  
 na sāṁkhyaṁ dharma uddhava  
+not  sāṅkhya  dharma  O Uddhava  
 na svādhyāyas tapas tyāgo  
-yathā bhaktir mamorjitā
+not  Vedic study  austerity  renunciation  
+yathā bhaktir mamorjitā  
+as  devotion  to Me  intense
 
-(137) [not yet translated]
+(137) (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation can win Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)
 
 ভক্ত্যাহমেকয়া গ্রাহ্যঃ শ্রদ্ধয়াত্মা প্রিয়ঃ সতাম্ ৷  
 ভক্তিঃ পুনাতি মন্নিষ্ঠা শ্বপাকানপি সম্ভবাৎ ॥ ১৩৮ ॥
 
 bhaktyāham ekayā grāhyaḥ  
+by devotion  I  by exclusive  am attained  
 śraddhayātmā priyaḥ satām  
+by faith  the Self  dear  of the saintly  
 bhaktiḥ punāti man-niṣṭhā  
-śva-pākān api sambhavāt
+devotion  purifies  fixed on Me  
+śva-pākān api sambhavāt  
+dog-eaters  even  from (the stain of) birth
 
-(138) [not yet translated]
+(138) “I, the dear Self of the saintly, am attained only by exclusive devotion born of faith. Devotion fixed on Me purifies even dog-eaters from the stain of their birth.” (Śrīmad-Bhāgavatam, 11.14.21)
 
 অতএব ‘ভক্তি’ — কৃষ্ণপ্রাপ্ত্যের উপায় ৷  
 ‘অভিধেয়’ বলি’ তারে সর্ব্বশাস্ত্রে গায় ॥ ১৩৯ ॥
 
 ataeva ‘bhakti’ — kṛṣṇa-prāptyera upāya  
-‘abhidheya’ bali’ tāre sarva-śāstre gāya
+therefore  devotion  of Kṛṣṇa  of attaining  the means  
+‘abhidheya’ bali’ tāre sarva-śāstre gāya  
+abhidheya  calling  it  in all the scriptures  they sing
 
-(139) [not yet translated]
+(139) “Therefore devotion is the means of attaining Kṛṣṇa. All the scriptures sing of it as *abhidheya*, the means.
 
 ধন পাইলে যৈছে সুখভোগ-ফল পায় ৷  
 সুখভোগ হৈতে দুঃখ আপনি পলায় ॥ ১৪০ ॥
 
 dhana pāile yaiche sukha-bhoga-phala pāya  
-sukha-bhoga haite duḥkha āpani palāya
+wealth  on obtaining  as  of happiness  enjoyment  the fruit  one gets  
+sukha-bhoga haite duḥkha āpani palāya  
+from happiness  enjoyment  sorrow  by itself  flees
 
-(140) [not yet translated]
+(140) “When one obtains wealth, one gets its fruit, the enjoyment of happiness; and before the enjoyment of happiness sorrow flees by itself.
 
 তৈছে ভক্তি-ফলে কৃষ্ণে প্রেম উপজয় ৷  
 প্রেমে কৃষ্ণাস্বাদ হৈলে ভব নাশ পায় ॥ ১৪১ ॥
 
 taiche bhakti-phale kṛṣṇe prema upajaya  
-preme kṛṣṇāsvāda haile bhava nāśa pāya
+so  of devotion  as the fruit  for Kṛṣṇa  love  arises  
+preme kṛṣṇāsvāda haile bhava nāśa pāya  
+in love  the tasting of Kṛṣṇa  when there is  worldly existence  destruction  attains
 
-(141) [not yet translated]
+(141) “So too, as the fruit of devotion, love (*prema*) for Kṛṣṇa arises; and when Kṛṣṇa is tasted in love, worldly existence comes to an end.
 
 দারিদ্র্য নাশ, ভবক্ষয়, — প্রেমের ‘ফল’ নয় ৷  
 প্রেমসুখ-ভোগ — মুখ্য প্রয়োজন হয় ॥ ১৪২ ॥
 
 dāridrya nāśa, bhava-kṣaya, — premera ‘phala’ naya  
-prema-sukha-bhoga — mukhya prayojana haya
+of poverty  the destruction  of worldly existence  the end  of love  the fruit  is not  
+prema-sukha-bhoga — mukhya prayojana haya  
+of love  the happiness  the enjoyment  the chief  goal  is
 
-(142) [not yet translated]
+(142) “The end of poverty and the end of worldly existence are not the ‘fruit’ of love. To enjoy the happiness of love is the chief goal (*prayojana*).
 
 বেদশাস্ত্রে কহে সম্বন্ধ, অভিধেয়, প্রয়োজন ৷  
 কৃষ্ণ, কৃষ্ণভক্তি, প্রেম, — তিন মহাধন ॥ ১৪৩ ॥
 
 veda-śāstre kahe sambandha, abhidheya, prayojana  
-kṛṣṇa, kṛṣṇa-bhakti, prema, — tina mahā-dhana
+in the Vedic  scriptures  are told  sambandha  abhidheya  prayojana  
+kṛṣṇa, kṛṣṇa-bhakti, prema, — tina mahā-dhana  
+Kṛṣṇa  devotion to Kṛṣṇa  love  three  great treasures
 
-(143) [not yet translated]
+(143) “The Vedic scriptures speak of *sambandha*, *abhidheya* and *prayojana* — Kṛṣṇa, devotion to Kṛṣṇa and love: these are the three great treasures.
 
 বেদাদি সকল শাস্ত্রে কৃষ্ণ — মুখ্য সম্বন্ধ ৷  
 তাঁর জ্ঞানে আনুষঙ্গে যায় মায়াবন্ধ ॥ ১৪৪ ॥
 
 vedādi sakala śāstre kṛṣṇa — mukhya sambandha  
-tāṅra jñāne ānuṣaṅge yāya māyā-bandha
+in the Vedas and the rest  all  scriptures  Kṛṣṇa  the chief  sambandha  
+tāṅra jñāne ānuṣaṅge yāya māyā-bandha  
+of Him  by knowledge  as a matter of course  goes  of māyā  the bondage
 
-(144) [not yet translated]
+(144) “In the Vedas and all the scriptures, Kṛṣṇa is the chief object of relationship (*sambandha*). By knowing Him, the bondage of *māyā* falls away as a matter of course.
 
 ব্যামোহায় চরাচরস্য জগতস্তে তে পুরাণাগমা-  
 স্তাং তামেব হি দেবতাং পরমিকাং জল্পন্তু কল্পাবধি ৷  
@@ -1271,138 +1293,184 @@ tāṅra jñāne ānuṣaṅge yāya māyā-bandha
 ব্যাপারেষু বিবেচনব্যতিকরং নীতেষু নিশ্চীয়তে ॥ ১৪৫ ॥
 
 vyāmohāya carācarasya jagatas te te purāṇāgamās  
+to bewilder  the moving and unmoving  world  those  those  Purāṇas and Āgamas  
 tāṁ tām eva hi devatāṁ paramikāṁ jalpantu kalpāvadhi  
+that  that  very  indeed  deity  supreme  let them prattle  till the end of the kalpa  
 siddhānte punar eka eva bhagavān viṣṇuḥ samastāgama-  
-vyāpāreṣu vivecana-vyatikaraṁ nīteṣu niścīyate
+in conclusion  however  one  alone  Bhagavān  Viṣṇu  of all the scriptures  
+vyāpāreṣu vivecana-vyatikaraṁ nīteṣu niścīyate  
+the subjects  of analysis  to the comparison  when brought  is ascertained
 
-(145) [not yet translated]
+(145) “To bewilder the world of moving and unmoving beings, let the various Purāṇas and Āgamas prattle until the end of the *kalpa* that this or that deity is supreme. But when the subjects of all the scriptures are carefully analyzed and compared, the conclusion establishes that Viṣṇu alone is Bhagavān.” (Padma Purāṇa)
 
 মুখ্য-গৌণ-বৃত্তি, কিংবা অন্বয়-ব্যতিরেকে ৷  
 বেদের প্রতিজ্ঞা কেবল কহয়ে কৃষ্ণকে ॥ ১৪৬ ॥
 
 mukhya-gauṇa-vṛtti, kiṁvā anvaya-vyatireke  
-vedera pratijñā kevala kahaye kṛṣṇake
+by the primary  secondary  sense  or  by affirmation and negation  
+vedera pratijñā kevala kahaye kṛṣṇake  
+of the Vedas  the declaration  only  speaks of  Kṛṣṇa
 
-(146) [not yet translated]
+(146) “Whether by the primary or the secondary sense of words, or by affirmation and negation, the declaration of the Vedas speaks only of Kṛṣṇa.
 
 কিং বিধত্তে কিমাচষ্টে কিমনূদ্য বিকল্পয়েৎ ৷  
 ইত্যস্যা হৃদয়ং লোকে নান্যো মদ্বেদ কশ্চন ॥ ১৪৭ ॥
 
 kiṁ vidhatte kim ācaṣṭe  
+what  it enjoins  what  it declares  
 kim anūdya vikalpayet  
+what  naming  it considers as an option  
 ity asyā hṛdayaṁ loke  
-nānyo mad veda kaścana
+thus  of this (Veda)  the heart  in the world  
+nānyo mad veda kaścana  
+not  another  than Me  knows  anyone
 
-(147) [not yet translated]
+(147) “What does it enjoin? What does it declare? What does it name, only to weigh it as an option? No one in the world but Me knows the heart of the Veda.” (Śrīmad-Bhāgavatam, 11.21.42)
 
 মাং বিধত্তেঽভিধত্তে মাং বিকল্প্যাপোহ্যতে হ্যহম্ ৷  
 এতাবান্ সর্ব্ববেদার্থঃ শব্দ আস্থায় মাং ভিদাম্ ৷  
 মায়ামাত্রমনূদ্যান্তে প্রতিষিধ্য প্রসীদতি ॥ ১৪৮ ॥
 
 māṁ vidhatte ’bhidhatte māṁ  
+Me  it enjoins  it declares  Me  
 vikalpyāpohyate hy aham  
+having been considered  is set aside  indeed  I  
 etāvān sarva-vedārthaḥ  
+this much  of all the Vedas  the meaning  
 śabda āsthāya māṁ bhidām  
+the Veda  resting on  Me  the differences  
 māyā-mātram anūdyānte  
-pratiṣidhya prasīdati
+as mere māyā  having named  at the end  
+pratiṣidhya prasīdati  
+having negated  comes to rest
 
-(148) [not yet translated]
+(148) “It enjoins Me, it declares Me; and what it considers and then sets aside is also Me. This is the meaning of all the Vedas: resting on Me, the Veda names the differences of this world as mere *māyā*, negates them, and in the end comes to rest.” (Śrīmad-Bhāgavatam, 11.21.43)
 
 কৃষ্ণের স্বরূপ — অনন্ত, বৈভব — অপার ৷  
 চিচ্ছক্তি, মায়াশক্তি, জীবশক্তি আর ॥ ১৪৯ ॥
 
 kṛṣṇera svarūpa — ananta, vaibhava — apāra  
-cic-chakti, māyā-śakti, jīva-śakti āra
+Kṛṣṇa’s  own nature  is infinite  splendor  is boundless  
+cic-chakti, māyā-śakti, jīva-śakti āra  
+the spiritual potency  the potency of māyā  the potency of the jīvas  and
 
-(149) [not yet translated]
+(149) “Kṛṣṇa’s own nature (*svarūpa*) is infinite, and His splendor is boundless: the spiritual potency (*cit-śakti*), the potency of *māyā* (*māyā-śakti*) and the potency of the *jīvas* (*jīva-śakti*).
 
 বৈকুণ্ঠ, ব্রহ্মাণ্ডগণ — শক্তি-কার্য্য হয় ৷  
 স্বরূপশক্তি শক্তিকার্য্যের — কৃষ্ণ সমাশ্রয় ॥ ১৫০ ॥
 
 vaikuṇṭha, brahmāṇḍa-gaṇa — śakti-kārya haya  
-svarūpa-śakti śakti-kāryera — kṛṣṇa samāśraya
+Vaikuṇṭha  the multitude of universes  of the potencies  the works  are  
+svarūpa-śakti śakti-kāryera — kṛṣṇa samāśraya  
+of the potency of His own nature  of the works of the potencies  Kṛṣṇa  the shelter
 
-(150) [not yet translated]
+(150) “Vaikuṇṭha and the countless universes are the works of these potencies. Of His own potency (*svarūpa-śakti*) and of all the works of His potencies, Kṛṣṇa is the shelter.
 
 দশমে দশমং লক্ষ্যমাশ্রিতাশ্রয়-বিগ্রহম্ ৷  
 শ্রীকৃষ্ণাখ্যং পরং ধাম জগদ্ধাম নমামি তৎ ॥ ১৫১ ॥
 
 daśame daśamaṁ lakṣyam  
+in the Tenth (Canto)  the tenth  the subject  
 āśritāśraya-vigraham  
+of the sheltered  the shelter  the embodiment  
 śrī-kṛṣṇākhyaṁ paraṁ dhāma  
-jagad-dhāma namāmi tat
+Śrī Kṛṣṇa  named  the supreme  abode  
+jagad-dhāma namāmi tat  
+of the world  the abode  I bow  to That
 
-(151) [not yet translated]
+(151) “In the Tenth Canto the tenth subject is revealed: the embodiment of the shelter of all who take shelter, the supreme abode named Śrī Kṛṣṇa, the abode of the world. To That I bow down.” (Śrīdhara Svāmī, *Bhāvārtha-dīpikā* on Śrīmad-Bhāgavatam, 10.1.1)
 
 কৃষ্ণের স্বরূপবিচার শুন, সনাতন ৷  
 অদ্বয়জ্ঞান-তত্ত্ব, ব্রজে ব্রজেন্দ্রনন্দন ॥ ১৫২ ॥
 
 kṛṣṇera svarūpa-vicāra śuna, sanātana  
-advaya-jñāna-tattva, vraje vrajendra-nandana
+of Kṛṣṇa  on the own nature  the deliberation  hear  Sanātana  
+advaya-jñāna-tattva, vraje vrajendra-nandana  
+of non-dual  knowledge  the Truth  in Vraja  the son of Vraja’s king
 
-(152) [not yet translated]
+(152) “Hear, Sanātana, an inquiry into Kṛṣṇa’s own nature. He is the Truth of non-dual knowledge; in Vraja He is the son of the king of Vraja.
 
 সর্ব্ব-আদি, সর্ব্ব-অংশী, কিশোর-শেখর ৷  
 চিদানন্দ-দেহ, সর্ব্বাশ্রয়, সর্ব্বেশ্বর ॥ ১৫৩ ॥
 
 sarva-ādi, sarva-aṁśī, kiśora-śekhara  
-cidānanda-deha, sarvāśraya, sarveśvara
+of all  the origin  of all  the source of the parts  of youths  the crown  
+cidānanda-deha, sarvāśraya, sarveśvara  
+of spirit and bliss  whose body  the shelter of all  the Lord of all
 
-(153) [not yet translated]
+(153) “He is the origin of all and the source of all parts (*aṁśī*), the crown of youths. His body is spirit and bliss; He is the shelter of all and the Lord of all.
 
 ঈশ্বরঃ পরমঃ কৃষ্ণঃ সচ্চিদানন্দবিগ্রহঃ ৷  
 অনাদিরাদির্গোবিন্দঃ সর্ব্বকারণকারণম্ ॥ ১৫৪ ॥
 
 īśvaraḥ paramaḥ kṛṣṇaḥ  
+the Lord  Supreme  Kṛṣṇa  
 sac-cid-ānanda-vigrahaḥ  
+of being  knowledge  bliss  whose form  
 anādir ādir govindaḥ  
-sarva-kāraṇa-kāraṇam
+without beginning  the beginning  Govinda  
+sarva-kāraṇa-kāraṇam  
+of all  causes  the cause
 
-(154) [not yet translated]
+(154) “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)
 
 স্বয়ং ভগবান্ কৃষ্ণ, ‘গোবিন্দ’ পর নাম ৷  
 সর্ব্বৈশ্বর্য্যপূর্ণ যাঁর গোলোক — নিত্যধাম ॥ ১৫৫ ॥
 
 svayaṁ bhagavān kṛṣṇa, ‘govinda’ para nāma  
-sarvaiśvarya-pūrṇa yāṅra goloka — nitya-dhāma
+Himself  Bhagavān  Kṛṣṇa  Govinda  the supreme  name  
+sarvaiśvarya-pūrṇa yāṅra goloka — nitya-dhāma  
+with all opulence  full  whose  Goloka  the eternal abode
 
-(155) [not yet translated]
+(155) “Kṛṣṇa is Bhagavān Himself; ‘Govinda’ is His supreme name. He is full of all opulence, and Goloka is His eternal abode.
 
 এতে চাংশকলাঃ পুংসঃ কৃষ্ণস্তু ভগবান্ স্বয়ম্ ৷  
 ইন্দ্রারিব্যাকুলং লোকং মৃড়য়ন্তি যুগে যুগে ॥ ১৫৬ ॥
 
 ete cāṁśa-kalāḥ puṁsaḥ  
+these  and  portions  and parts  of the Puruṣa  
 kṛṣṇas tu bhagavān svayam  
+Kṛṣṇa  but  Bhagavān  Himself  
 indrāri-vyākulaṁ lokaṁ  
-mṛḍayanti yuge yuge
+by the enemies of Indra  troubled  the world  
+mṛḍayanti yuge yuge  
+make happy  in age  after age
 
-(156) [not yet translated]
+(156) “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.” (Śrīmad-Bhāgavatam, 1.3.28)
 
 জ্ঞান, যোগ, ভক্তি, — তিন সাধনের বশে ৷  
 ব্রহ্ম, আত্মা, ভগবান্, — ত্রিবিধ প্রকাশে ॥ ১৫৭ ॥
 
 jñāna, yoga, bhakti, — tina sādhanera vaśe  
-brahma, ātmā, bhagavān, — trividha prakāśe
+knowledge  yoga  devotion  of the three  practices  by the power  
+brahma, ātmā, bhagavān, — trividha prakāśe  
+Brahman  Paramātmā  Bhagavān  threefold  He is manifest
 
-(157) [not yet translated]
+(157) “According to the three practices — knowledge, *yoga* and devotion — He is manifest in three ways: as Brahman, Paramātmā and Bhagavān.
 
 বদন্তি তত্তত্ত্ববিদস্তত্ত্বং যজ্জ্ঞানমদ্বয়ম্ ৷  
 ব্রহ্মেতি পরমাত্মেতি ভগবানিতি শব্দ্যতে ॥ ১৫৮ ॥
 
 vadanti tat tattva-vidas  
+they call  that  of truth  the knowers  
 tattvaṁ yaj jñānam advayam  
+the Truth  which  knowledge  non-dual  
 brahmeti paramātmeti  
-bhagavān iti śabdyate
+Brahman  thus  Paramātmā  thus  
+bhagavān iti śabdyate  
+Bhagavān  thus  is named
 
-(158) [not yet translated]
+(158) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)
 
 ব্রহ্ম — অঙ্গকান্তি তাঁর, নির্ব্বিশেষ-প্রকাশে ৷  
 সূর্য্য যেন চর্ম্মচক্ষে জ্যোতির্ম্ময় ভাসে ॥ ১৫৯ ॥
 
 brahma — aṅga-kānti tāṅra, nirviśeṣa-prakāśe  
-sūrya yena carma-cakṣe jyotirmaya bhāse
+Brahman  of the body  the effulgence  His  as the featureless  manifestation  
+sūrya yena carma-cakṣe jyotirmaya bhāse  
+the sun  as  to the fleshly  eye  as mere light  appears
 
-(159) [not yet translated]
+(159) “Brahman is the effulgence of His body, His featureless manifestation — just as the sun appears to the fleshly eye as nothing but light.
 
 যস্য প্রভা প্রভবতো জগদণ্ডকোটি-  
 কোটিষ্বশেষবসুধাদিবিভূতিভিন্নম্ ৷  
@@ -1410,55 +1478,73 @@ sūrya yena carma-cakṣe jyotirmaya bhāse
 গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ১৬০ ॥
 
 yasya prabhā prabhavato jagad-aṇḍa-koṭi-  
+whose  effulgence  of the all-mighty  of universes  of millions  
 koṭiṣv aśeṣa-vasudhādi-vibhūti-bhinnam  
+in millions  unlimited  earths and the like  opulences  distinct from  
 tad brahma niṣkalam anantam aśeṣa-bhūtaṁ  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+that  Brahman  undivided  infinite  all-complete  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(160) [not yet translated]
+(160) “I worship Govinda, the original Person. Brahman — undivided, infinite and complete, distinct from all the opulences of countless universes, their earths and all else — is the effulgence of Him, the Almighty.” (Brahma-saṁhitā, 5.40)
 
 পরমাত্মা যিঁহো, তিঁহো কৃষ্ণের এক অংশ ৷  
 আত্মার ‘আত্মা’ হন কৃষ্ণ সর্ব্ব-অবতংস ॥ ১৬১ ॥
 
 paramātmā yiṅho, tiṅho kṛṣṇera eka aṁśa  
-ātmāra ‘ātmā’ hana kṛṣṇa sarva-avataṁsa
+the Paramātmā  He who  He  of Kṛṣṇa  one  part  
+ātmāra ‘ātmā’ hana kṛṣṇa sarva-avataṁsa  
+of the soul  the Soul  is  Kṛṣṇa  of all  the crown
 
-(161) [not yet translated]
+(161) “He who is the Paramātmā is a part of Kṛṣṇa; Kṛṣṇa, the crown of all, is the Soul of the soul.
 
 কৃষ্ণমেনমবেহি ত্বমাত্মানমখিলাত্মনাম্ ৷  
 জগদ্ধিতায় সোঽপ্যত্র দেহীবাভাতি মায়য়া ॥ ১৬২ ॥
 
 kṛṣṇam enam avehi tvam  
+Kṛṣṇa  this  know  you  
 ātmānam akhilātmanām  
+the Soul  of all souls  
 jagad-dhitāya so ’py atra  
-dehīvābhāti māyayā
+for the good of the world  He  also  here  
+dehīvābhāti māyayā  
+as if embodied  appears  by His own potency
 
-(162) [not yet translated]
+(162) “Know this Kṛṣṇa to be the Soul of all souls. For the good of the world He appears here, by His own potency, as if He were an embodied being.” (Śrīmad-Bhāgavatam, 10.14.55)
 
 অথবা বহুনৈতেন কিং জ্ঞাতেন তবার্জ্জুন ৷  
 বিষ্টভ্যাহমিদং কৃৎস্নমেকাংশেন স্থিতো জগৎ ॥ ১৬৩ ॥
 
 atha vā bahunaitena  
+but  or  with much  this  
 kiṁ jñātena tavārjuna  
+what (use)  by knowing  for you  Arjuna  
 viṣṭabhyāham idaṁ kṛtsnam  
-ekāṁśena sthito jagat
+pervading  I  this  entire  
+ekāṁśena sthito jagat  
+by one portion  I stand  the universe
 
-(163) [not yet translated]
+(163) “But what need have you, Arjuna, of all this detailed knowledge? By one portion of Myself I pervade and support this entire universe.” (Bhagavad-gītā, 10.42)
 
 ‘ভক্ত্যে’ ভগবানের অনুভব — পূর্ণরূপ ৷  
 একই বিগ্রহে তাঁর অনন্ত স্বরূপ ॥ ১৬৪ ॥
 
 ‘bhaktye’ bhagavānera anubhava — pūrṇa-rūpa  
-eka-i vigrahe tāṅra ananta svarūpa
+by devotion  of Bhagavān  the realization  in His full form  
+eka-i vigrahe tāṅra ananta svarūpa  
+in one and the same  form  His  infinite  forms
 
-(164) [not yet translated]
+(164) “Through devotion Bhagavān is realized in His full form: in His one form are His infinite forms.
 
 স্বয়ংরূপ, তদেকাত্মরূপ, আবেশ — নাম ৷  
 প্রথমেই তিনরূপে রহেন ভগবান্ ॥ ১৬৫ ॥
 
 svayaṁ-rūpa, tad-ekātma-rūpa, āveśa — nāma  
-prathamei tina-rūpe rahena bhagavān
+svayaṁ-rūpa  tad-ekātma-rūpa  āveśa  by name  
+prathamei tina-rūpe rahena bhagavān  
+first of all  in three forms  abides  Bhagavān
 
-(165) [not yet translated]
+(165) “First of all, Bhagavān abides in three forms, named *svayaṁ-rūpa*, *tad-ekātma-rūpa* and *āveśa*.
 
 ‘স্বয়ংরূপ’, ‘স্বয়ংপ্রকাশ’, — দুই রূপে স্ফূর্ত্তি ৷  
 স্বয়ংরূপে — এক ‘কৃষ্ণ’ ব্রজে গোপমূর্ত্তি ॥ ১৬৬ ॥
