@@ -280,6 +280,34 @@ The venerable (*bhagavān*) sage Maitreya recounts to Vidura the conversation of
 
 > Subheading: Obeisances to the *rāgānuga* devotees —
 
+**iha** (in this world) **ye** (the devotees) **sadā** **udyuktāḥ** (full of eagerness) **harim** (Bhagavān) **pati-putra-suhṛd-bhrātṛ-pitṛvat** **mitravat** **ca** **dhyāyanti**, **tebhyaḥ** **api** **namaḥ** **namaḥ**.
+
+## 159
+
+> Subheading: Only by the designated service to his cherished one, at every moment following the guru, does the *rāgānuga sādhaka* attain perfection, or *bhāva-bhakti* —
+
+## 160
+
+> Subheading: (2) Description of *bhāva-bhakti*, or *rati*, the *sādhya*. The unblossomed state of love for Kṛṣṇa is *bhāva-bhakti*, or *rati*, which attracts Kṛṣṇa —
+
+## 159–160
+
+Here is a devotee who acts in this way: externally, in the body of a *sādhaka*, he serves by the *kīrtana* of the *hari-kathā* he has heard, and in his mind, in the *siddha-deha* fit for serving Kṛṣṇa and befitting his own *rasa*, he always serves Rādhā and Kṛṣṇa in Vraja. He walks the *rāgānuga* path not as one walks in *vaidhī-bhakti*, by the force of scripture or of the guru's instructions, but by the power of his own natural, awakened taste. Walking this path, he attains deep love (*prīti*) for Kṛṣṇa's feet. Only on the *rāgānuga* path is Kṛṣṇa subdued by the power of *rati*, or *bhāva*, and then one attains loving service to Kṛṣṇa (*kṛṣṇa-prema-sevā*).
+
+## 161
+
+> Subheading: Until *bhāva*, or *rati*, arises, the *abhidheya* takes the form of *sādhana*; from it the *prayojana* is attained —
+
+## 162
+
+> Subheading: The *abhidheya*, *sādhana-bhakti*, has been described in brief —
+
+## 163
+
+> Subheading: One who hears about *sādhana-bhakti* attains love for Kṛṣṇa —
+
+*Thus ends the twenty-second chapter of the “Anubhāṣya.”*
+
 ---
 
 [^126-1]: *Śvetāśvatara Upaniṣad* 6.23.

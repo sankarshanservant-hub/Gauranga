@@ -126,7 +126,7 @@ Those in whom greed for *rāgātmikā-bhakti* has arisen should, following the a
 
 ## 154
 
-Those dearest to Kṛṣṇa are the devotees who live in Vraja. Whoever among them longs for the sweetness of a particular devotee of Vraja and considers following him to be the service he desires keeps behind him and, with his mind turned within, constantly serves Kṛṣṇa.
+Those dearest to Kṛṣṇa are the devotees who live in Vraja. Whoever longs for the sweetness of one of these devotees of Vraja and considers following him to be the service he desires keeps behind him and, with his mind turned within, constantly serves Kṛṣṇa.
 
 ## 155
 
@@ -139,6 +139,12 @@ Those for whom I am the beloved, the Self, the son, the friend, the guru, the we
 ## 158
 
 Again and again I bow to those who always, with eagerness, meditate on Hari as husband, son, well-wisher, brother, father, friend and so on.
+
+## 160
+
+“The sprout of *prīti* has two names, *rati* and *bhāva*”: the sprout of *prema*, or *prīti*, has two names — *rati* and *bhāva*.
+
+*Thus ends the twenty-second chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
 
