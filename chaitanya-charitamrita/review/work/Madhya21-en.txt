@@ -1,0 +1,886 @@
+# English translation, Madhya-līlā 21 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya21.txt, .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# One shift: verses 1–149 (scan pp. 729–745).
+
+## 0
+tr: The Discourse on Sambandha-tattva: A Description of Śrī Kṛṣṇa’s Majesty and Sweetness
+
+## 1
+w: of the shelterless  the only shelter  having bowed
+w: to the deprived  the highest  who grants
+w: to Śrī Caitanya  I write  His
+w: of sweetness and majesty  a drop
+tr: I bow to Śrī Caitanya, the only refuge of those who have no other refuge, who gives the highest treasure to those bereft of every good. Now I write of a drop of His sweetness and majesty.
+fn: The first two lines are the same as in Ādi 7.1; their translation is as there.
+fn: *Anubhāṣya*: *hīnārthādhika-sādhaka* — He who generously fulfils the aims of the deprived, that is, of those poor in love for Kṛṣṇa; *mādhuryaiśvarya-śīkara* — a drop of the majesty contained in sweetness, or a drop of sweetness and majesty.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2; translation as there.
+
+## 3
+w: of all  the forms  the abode  of Paravyoma  in the realm
+w: separate  separate  Vaikuṇṭhas  there is no  counting
+tr: “The abode of all the Lord’s forms is the realm of Paravyoma. There each form has its own Vaikuṇṭha, and they are beyond counting.
+fn: *Anubhāṣya*: in Paravyoma the container and the contained, the abode and the Lord’s form, are one.
+
+## 4
+w: a hundred  a thousand  ten thousand  a hundred thousand  ten million  yojanas
+w: each  single  Vaikuṇṭha’s  extent  is described
+tr: The extent of each Vaikuṇṭha is described in hundreds, thousands, tens of thousands, hundreds of thousands and tens of millions of *yojanas*.
+fn: *Anubhāṣya*: that is, in countless *yojanas*. Vaikuṇṭha has no measure, as the universes of māyā have: where there is no limitation (*kuṇṭha-dharma*), there is “Vaikuṇṭha”.
+
+## 5
+w: all  Vaikuṇṭhas  all-pervading  blissful  spiritual
+w: with associates  with the six opulences  full  all  are
+tr: All the Vaikuṇṭhas are all-pervading, made of bliss and spirit, and all are full of associates and of the six opulences.
+
+## 6
+w: endless  Vaikuṇṭhas  in each  single  part  of which
+w: of that  Paravyoma  who  can count  the expanse
+tr: Who can measure the expanse of that Paravyoma, in each part of which lie endless Vaikuṇṭhas?
+
+## 7
+w: endless  Vaikuṇṭhas  of Paravyoma  whose  petals  rows
+w: above all  Kṛṣṇaloka  the whorl  I count
+tr: It is a lotus whose rows of petals are the endless Vaikuṇṭhas of Paravyoma; above them all, Kṛṣṇaloka is its whorl (*karṇikā*).
+
+## 8
+w: in this  way  the six opulences  the abodes  the avatāras
+w: Brahmā  Śiva  the end  do not  find  the jīva  what  a trifle
+tr: Such are His six opulences, His abodes and His *avatāras*. Even Brahmā and Śiva cannot find their end — what then of the insignificant *jīva*?
+
+## 9
+w: who  knows  O Bhūman  O Bhagavān  O Supreme Soul
+w: O Lord of yoga  the pastimes  Your  in the three worlds
+w: where  or  how  or  how many  or  when
+w: expanding  You play  Yogamāyā
+tr: “O Bhūman, O Bhagavān, O Supreme Soul, O Lord of yoga! Who in the three worlds can know Your pastimes — where, how, how many, or when You play, spreading forth Your Yogamāyā?” (Śrīmad-Bhāgavatam, 10.14.21)
+fn: *Anubhāṣya*: no one knows — which is to say, the glory of Your yogamāyā is inconceivable. Brahmā praises Kṛṣṇa so after Kṛṣṇa has crushed his pride over the stealing of the calves.
+
+## 10
+w: in this  way  Kṛṣṇa’s  divine  virtues  are endless
+w: Brahmā  Śiva  Sanaka and others  do not  find  whose  end
+tr: So endless are Kṛṣṇa’s divine virtues that even Brahmā, Śiva, Sanaka and the other sages cannot find their end.
+
+## 11
+w: of You whose self is the qualities  Your  even  the qualities  to count
+w: who descended for the good  who  have been able  of this (world)
+w: in time  by whom  or  have been counted  the most skilled
+w: of the earth  the particles  in the sky  the snowflakes  of the luminaries  the rays
+tr: “In the course of time the most skilled may have counted the particles of the earth, the snowflakes in the sky and the rays of the luminaries. But who among them could count the qualities of You, the Lord of all qualities, who have descended for the good of the world?” (Śrīmad-Bhāgavatam, 10.14.7)
+
+## 12
+w: Brahmā and the others  leave aside  with a thousand  mouths  Ananta
+w: ceaselessly  sings  with His mouths  does not  find  of the qualities  the end
+tr: Leave aside Brahmā and the others: Ananta sings ceaselessly with His thousand mouths, yet He finds no end to Kṛṣṇa’s qualities.
+
+## 13
+w: not  the end  know  I  these  sages  elder  your
+w: of the Master of māyā’s power  of the Person  how much less  others  who
+w: singing  the qualities  with ten  hundred  mouths  the original Lord
+w: Śeṣa  even now  reaches  not  His  far shore
+tr: “Neither I nor these sages, your elder brothers, know the end of the Supreme Person, the Master of the power of māyā — how then could others? Even Śeṣa, the original Lord, who sings His qualities with a thousand mouths, has not reached their far shore to this day.” (Śrīmad-Bhāgavatam, 2.7.41)
+
+## 14
+w: He  leave aside  of the omniscient  the crest-jewel  Śrī Kṛṣṇa
+w: of His own  qualities  the end  not  finding  becomes  full of longing
+tr: Leave Him aside: Śrī Kṛṣṇa Himself, the crest-jewel of the omniscient, cannot find the end of His own qualities, and so He is filled with longing.
+
+## 15
+w: the lords of heaven  even  Your  not  reached  the end  because of endlessness
+w: You  even  since  within whom  of universes  the multitudes  indeed  with their coverings
+w: in the sky  like  specks of dust  revolve  with time  together  since  the śrutis
+w: in You  indeed  bear fruit  by rejecting what is not You  having their end in You
+tr: “Because You are endless, even the lords of heaven have not reached Your end — nor do You Yourself, for within You multitudes of universes, each in its coverings, revolve together with time like specks of dust in the sky. Therefore the *śrutis*, rejecting all that is not You, bear their fruit in You and find their conclusion in You.” (Śrīmad-Bhāgavatam, 10.87.41)
+
+## 16
+w: that too  leave aside  in Vraja  when  Kṛṣṇa  descended
+w: His  deeds  in pondering  the mind  does not  find  the shore
+tr: Leave that aside as well. When Kṛṣṇa descended in Vraja, the mind could find no end in pondering His deeds.
+
+## 17
+w: material and transcendental  creation  He made  in a single moment
+w: countless  Vaikuṇṭhas  and universes  with their own  lords
+tr: In a single moment He made both the material and the transcendental creation — countless Vaikuṇṭhas and universes, each with its own lord.
+
+## 18
+w: such  elsewhere  not  one hears  a wonder
+w: of which  on hearing  the heart  becomes  overwhelmed
+tr: Nowhere else does one hear of such a wonder. Simply by hearing of it, the heart is overwhelmed.
+
+## 19
+w: with Kṛṣṇa’s  calves  countless  Śukadeva’s  words
+w: with Kṛṣṇa  how many  cowherd boys  their number  not  I know
+tr: “With Kṛṣṇa’s countless calves” — so says Śukadeva; and how many cowherd boys were with Kṛṣṇa, I do not know.
+fn: *Anubhāṣya*: the first line of Śrīmad-Bhāgavatam, 10.12.3.
+
+## 20
+w: each  single  cowherd boy  does  which  calves  herding
+w: ten million  a hundred million  a trillion  ten trillion  of them  the count
+tr: The calves that each cowherd boy herded were counted in *koṭis*, *arbudas*, *śaṅkhas* and *padmas* — tens of millions, hundreds of millions, trillions, tens of trillions.
+
+## 21
+w: canes  flutes  leaves  horns  garments  ornaments
+w: of the cowherd boys  as many as  of that  there is no  of writing  end
+tr: Canes, flutes, leaves, horns, garments and ornaments — however many the cowherd boys had, there is no end to writing of them.
+
+## 22
+w: all  became  four-armed  of Vaikuṇṭha  lords
+w: of separate  separate  universes  the Brahmās  offer  praise
+tr: All of them became four-armed lords of Vaikuṇṭha, and the Brahmās of separate universes offered them praise.
+
+## 23
+w: from one  Kṛṣṇa’s  body  of all  the manifestation
+w: in a moment  all  into that  same  body  enter
+tr: All of them were manifested from Kṛṣṇa’s one body, and in a moment they all entered that same body again.
+
+## 24
+w: this  seeing  Brahmā  became  bewildered  astonished
+w: praise  having offered  he  afterwards  made  a conclusion
+tr: Seeing this, Brahmā was bewildered and astonished. After offering praise, he came to this conclusion:
+
+## 25
+w: who  says  Kṛṣṇa’s  glory  I  all  know
+w: he  let him know  with body and mind  I  this  accept
+tr: ‘If someone says, “I know all of Kṛṣṇa’s glory,” let him know it. As for me, with body and mind I accept this:
+
+## 26
+w: this  very  Your  endless  of glory  of nectar  ocean
+w: my  of speech and mind  within reach  is not  one  drop
+tr: of this endless nectar ocean of Your glory not a single drop lies within reach of my speech and mind.’
+
+## 27
+w: the knowers  indeed  let them know
+w: what  by much speaking  not  to me  O Lord
+w: of mind  of body  of speech
+w: glory  Your  within reach
+tr: “Let those who know go on knowing. What use is much talk? O Lord, Your glory is beyond the reach of my mind, body and speech.” (Śrīmad-Bhāgavatam, 10.14.38)
+
+## 28
+w: Kṛṣṇa’s  glory  leave aside  who  of it  the knower
+w: of Vṛndāvana  of the place  behold  wondrous  majesty
+tr: Leave aside Kṛṣṇa’s own glory — who can know it? Behold instead the wondrous majesty of the land of Vṛndāvana.
+
+## 29
+w: sixteen  krośas  Vṛndāvana  of the scriptures  by the revelation
+w: its  in one part  Vaikuṇṭhas and universes  multitudes  float
+tr: Vṛndāvana measures sixteen *krośas*, as the scriptures reveal; yet in a single part of it multitudes of Vaikuṇṭhas and universes float.
+
+## 30
+w: boundless  opulence  Kṛṣṇa’s  there is no  counting
+w: of the branch  and the moon  by the maxim  I give  a glimpse
+tr: Kṛṣṇa’s opulence is boundless, beyond counting. I have only pointed toward it, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).
+
+## 31
+w: opulence  while describing  surged up  of opulence  the ocean
+w: mind and senses  sank  the Lord  became  overwhelmed
+tr: As He described this opulence, an ocean of opulence surged up within Him. His mind and senses sank in it, and the Lord was overwhelmed.
+
+## 32
+w: of the Bhāgavata  this  verse  recited  Himself
+w: the meaning  to relish  joyfully  He gives  an explanation
+tr: He Himself recited this verse of the *Bhāgavatam*, and to relish its meaning He joyfully explained it.
+
+## 33
+w: Himself  indeed  with none equal or superior  of the three  the Lord
+w: by Svārājya  Lakṣmī  attained  all  desires
+w: tribute  by those bringing  by the age-old  of the worlds  guardians
+w: of crowns  by the tips  praised  of the feet  the footstool
+tr: “He Himself has none equal to Him and none above Him; He is the Lord of the three. Through Svārājya-lakṣmī, the wealth of His own realm, all His desires are fulfilled. The age-old guardians of the worlds bring Him tribute and praise His footstool with the tips of their crowns.” (Śrīmad-Bhāgavatam, 3.2.21)
+fn: *Anubhāṣya*: *try-adhīśa* — the Lord of the three: of the abodes Goloka, Paravyoma and Devī-dhāma; or of Gokula, Mathurā and Dvārakā; or of Viṣṇu, Brahmā and Śiva, and so on; *svārājya-lakṣmī* — the wealth of His own nature, spirit and bliss. The explanation is in the *Laghu-bhāgavatāmṛta*, Pūrva-khaṇḍa, 302–323.
+
+## 34
+w: supreme  Lord  Kṛṣṇa  Himself  Bhagavān
+w: than Him  greater  to Him  equal  anyone  there is not  other
+tr: Kṛṣṇa is the Supreme Lord, Bhagavān Himself. There is no one else greater than Him or equal to Him.
+
+## 35
+w: the Lord  Supreme  Kṛṣṇa
+w: of being  knowledge  bliss  whose form
+w: without beginning  the beginning  Govinda
+w: of all  causes  the cause
+tr: “Kṛṣṇa, Govinda, is the Supreme Lord; His form is eternal being, knowledge and bliss. He has no beginning, yet He is the beginning of all, the cause of all causes.” (Brahma-saṁhitā, 5.1)
+fn: The same verse as Ādi 2.107; translation as there.
+
+## 36
+w: Brahmā  Viṣṇu  Hara  these  of creation and the rest  the lords
+w: the three  carrying out the orders  of Kṛṣṇa  Kṛṣṇa  the Supreme Lord
+tr: Brahmā, Viṣṇu and Hara (Śiva) are the lords of creation, maintenance and destruction. All three carry out Kṛṣṇa’s orders, and Kṛṣṇa is their Supreme Lord.
+
+## 37
+w: I create  by Him  appointed  I
+w: Hara  destroys  under His control
+w: the universe  in the form of the Puruṣa
+w: maintains  three  potencies  the bearer of
+tr: “Appointed by Him, I create; under His control Hara (Śiva) destroys; and He, the bearer of the three potencies, maintains the universe in the form of the Puruṣa.” (Śrīmad-Bhāgavatam, 2.6.32)
+fn: The same verse as Madhya 20.318; translation as there.
+
+## 38
+w: this  is general  of tryadhīśvara  hear  the meaning  another
+w: of the world  the causes  three  Puruṣa-avatāras
+tr: That is the general meaning. Now hear another meaning of *tryadhīśvara*, “the Lord of the three”: the three Puruṣa-avatāras, the causes of the world.
+
+## 39
+w: Mahā-Viṣṇu  Padmanābha  of the Milk Ocean  the Lord
+w: these  three  of the gross  of the subtle  of all  the indwelling Lords
+tr: Mahā-Viṣṇu, Padmanābha and the Lord of the Milk Ocean — these three are the indwelling Lords of the gross, of the subtle and of all.
+
+## 40
+w: these  three  the shelter of all  of the world  lords
+w: They  kalā  aṁśa  whose  Kṛṣṇa  the Supreme Lord
+tr: These three are the shelter of all and the lords of the world. Yet They are only His parts (*kalā* and *aṁśa*), and Kṛṣṇa is Their Supreme Lord.
+
+## 41
+w: whose  one  exhalation’s  span  then  depending on
+w: live  from the pores  born  of the universes  the lords
+w: Viṣṇu  the Great  He  here  whose  kalā  particular
+w: Govinda  the original  Person  Him  I  worship
+tr: “The lords of the universes, born from His pores, abide for the span of one of His breaths. That Mahā-Viṣṇu is a particular kalā of Govinda, the original Person, whom I worship.” (Brahma-saṁhitā, 5.48)
+fn: The same verse as Ādi 5.71 (= Madhya 20.281); translation as there. The edition’s heading gives “Brahma-saṁhitā, 5.44”.
+
+## 42
+w: this  meaning  external  hear  hidden  meaning  another
+w: three  abodes  places  Kṛṣṇa’s  in the scriptures  renown  whose
+tr: That meaning is external; now hear the hidden one. Kṛṣṇa has three abodes, renowned in the scriptures.
+
+## 43
+w: the inner abode  Goloka  Śrī  Vṛndāvana
+w: where  eternal  dwelling  mother  father  friends  the host
+tr: His inner abode (*antaḥpura*) is Goloka, Śrī Vṛndāvana, where His mother, father and friends dwell eternally.
+
+## 44
+w: of sweet majesty  of sweetness  of mercy and the rest  the storehouse
+w: Yogamāyā  maidservant  where  the rāsa and the rest  of the pastimes  the essence
+tr: It is the storehouse of sweet majesty, sweetness, mercy and every other treasure. There Yogamāyā is the maidservant, and there are the *rāsa* and the other pastimes, the essence of all *līlā*.
+
+## 45
+w: with multitudes of mercy  tender
+w: with sweet majesty  special  graced
+w: triumphs (when)  of Vraja  of the king  the son
+w: not  indeed  of anxiety  a particle  arises  in us
+tr: “The son of the king of Vraja is tender with abundant mercy and graced with a special sweet majesty. When He triumphs, not even a particle of anxiety arises in us.” (A verse of the Gosvāmipāda)
+fn: The edition’s heading: “a verse spoken by the Gosvāmipāda”. The verse number is not printed in the edition.
+
+## 46
+w: its  below  Paravyoma  Viṣṇuloka  by name
+w: of Nārāyaṇa  and the others  endless  forms  the abode
+tr: Below it lies Paravyoma, called Viṣṇuloka, the abode of Nārāyaṇa and His other endless forms.
+
+## 47
+w: the middle  abode  Kṛṣṇa’s  of the six opulences  the treasury
+w: in endless  forms  where  He performs  pastimes
+tr: This is Kṛṣṇa’s middle abode (*madhyama-āvāsa*), the treasury of the six opulences, where He sports in endless forms.
+
+## 48
+w: endless  Vaikuṇṭhas  where  of the treasury  rooms
+w: with associates  with the six opulences  are  filled
+tr: There the endless Vaikuṇṭhas are the rooms of the treasury, filled with associates and with the six opulences.
+
+## 49
+w: Goloka  called  own  abode  below  and  of that
+w: of Devī  of Maheśa  of Hari  in the abodes  in those  in those
+w: those  those  powers  multitudes  were established  and  by whom
+w: Govinda  the original  Person  Him  I  worship
+tr: “Below His own abode, called Goloka, lie the abodes of Devī, Maheśa and Hari, and in each of them He established its own powers. I worship that Govinda, the original Person.” (Brahma-saṁhitā, 5.43)
+
+## 50
+w: of pradhāna  of the supreme  sky
+w: between  the Virajā  river
+w: of Him whose limbs are the Vedas  by the sweat  produced
+w: by the waters  flowing  auspicious
+tr: “Between *pradhāna* and the supreme spiritual sky flows the auspicious river Virajā, streaming with waters born of the sweat of the Lord, whose limbs are the Vedas.” (Padma Purāṇa, Uttara-khaṇḍa, 255.57)
+fn: *Anubhāṣya*: *pradhāna* is Devī-dhāma and the supreme sky Vaikuṇṭha; *śubhā* — free of material activity, *naiṣkarmya* itself, purely spiritual.
+
+## 51
+w: of it  on the far shore  Paravyoma
+w: three quarters  consisting of  eternal
+w: immortal  everlasting  eternal
+w: endless  supreme  abode
+tr: “Beyond it lies Paravyoma, the eternal realm of three quarters (*tripād-bhūta*) — immortal, everlasting, endless, the supreme abode.” (Padma Purāṇa, Uttara-khaṇḍa)
+fn: The edition gives no source above this verse; where it is repeated (verse 88), the heading reads “words of the Uttara-khaṇḍa of the *Padma Purāṇa*, cited in the *Laghu-bhāgavatāmṛta* (Pūrva-khaṇḍa, 28)”.
+
+## 52
+w: its  below  the outer abode  of the Virajā  beyond
+w: endless  universes  where  rooms  countless
+tr: Below it, beyond the Virajā, lies the outer abode (*bāhyāvāsa*), whose countless rooms are the endless universes.
+
+## 53
+w: Devī-dhāma  the name  its  the jīvas  whose  residents
+w: Jagal-lakṣmī  maintains  where  remains  Māyā  maidservant
+tr: Its name is Devī-dhāma, and its residents are the *jīvas*. Jagal-lakṣmī maintains it, and there Māyā remains as a maidservant.
+
+## 54
+w: of these  three  abodes  is  Kṛṣṇa  the Supreme Lord
+w: Goloka  Paravyoma  of material nature  beyond
+tr: Kṛṣṇa is the Supreme Lord of these three abodes. Goloka and Paravyoma lie beyond material nature.
+
+## 55
+w: of the spiritual potency  of the opulence  the abode  of three quarters  opulence  the name
+w: of māyā  the opulence  one  quarter  is called
+tr: The abode of the opulence of His spiritual potency is called *tripād-aiśvarya*, the opulence of three quarters; the opulence of māyā is called *ekapāda*, one quarter.
+
+## 56
+w: of three  quarters  of the opulence  being the abode
+w: of three  quarters  consisting  indeed  that  abode
+w: opulence  of māyā  all
+w: is declared  as one quarter  because
+tr: “That realm is called *tripād-bhūta*, ‘consisting of three quarters’, because it is the abode of the opulence of three quarters; all the opulence of māyā is declared to be one quarter.” (Laghu-bhāgavatāmṛta, 1.563)
+fn: The reference follows the edition’s heading.
+
+## 57
+w: three quarters  opulence  Kṛṣṇa’s  to words  inaccessible
+w: of one  quarter  of the opulence  hear  the description
+tr: Kṛṣṇa’s opulence of three quarters lies beyond words. Hear now a description of the opulence of one quarter.
+
+## 58
+w: of endless  universes  all  of the Brahmās  of the Rudras  the hosts
+w: of the age-old  of the worlds  guardians  by the word  their  reckoning
+tr: All the Brahmās and Rudras of the endless universes are meant by the words “the age-old guardians of the worlds” (*cira-loka-pāla*).
+
+## 59
+w: one day  in Dvārakā  Kṛṣṇa  to see
+w: Brahmā  came  the doorkeeper  informed  Kṛṣṇa
+tr: One day Brahmā came to Dvārakā to see Kṛṣṇa, and the doorkeeper informed Kṛṣṇa.
+
+## 60
+w: Kṛṣṇa  says  which  Brahmā  what  name  his
+w: the doorkeeper  coming  Brahmā  asks  once  again
+tr: Kṛṣṇa said, “Which Brahmā? What is his name?” The doorkeeper went back and asked Brahmā once more.
+
+## 61
+w: astonished  becoming  Brahmā  to the doorkeeper  said
+w: tell  going  of Sanaka  the father  the four-headed  has come
+tr: Astonished, Brahmā told the doorkeeper, “Go and tell Him that the four-headed Brahmā, the father of Sanaka, has come.”
+
+## 62
+w: to Kṛṣṇa  having informed  the doorkeeper  Brahmā  taking  went
+w: Kṛṣṇa’s  at the feet  Brahmā  obeisance  made
+tr: The doorkeeper informed Kṛṣṇa and brought Brahmā in, and Brahmā fell prostrate at Kṛṣṇa’s feet.
+
+## 63
+w: Kṛṣṇa  respect  honour  showing  to him  a question  put
+w: what  for  your  here  coming  has been
+tr: Kṛṣṇa honoured him with due respect and asked, “For what purpose have you come here?”
+
+## 64
+w: Brahmā  says  that  later  I shall make  submission
+w: one  doubt  in my mind  is  make  cutting
+tr: Brahmā said, “I will tell You that later. First, please cut away a doubt that has arisen in my mind.
+
+## 65
+w: which  Brahmā  You asked  You  with what  intention
+w: me  besides  in the universe  another  which  Brahmā  is there
+tr: With what intention did You ask, ‘Which Brahmā?’ Besides me, what other Brahmā is there in the universe?”
+
+## 66
+w: hearing  smiling  Kṛṣṇa  then  entered  meditation
+w: countless  of Brahmās  a host  came  at that very moment
+tr: Hearing this, Kṛṣṇa smiled and became absorbed in meditation, and at that very moment countless Brahmās arrived.
+
+## 67
+w: with ten  twenty  a hundred  a thousand  ten thousand  a hundred thousand  faces
+w: ten million  a hundred million  faces  of some  not  can be  counted
+tr: Some had ten faces, some twenty, a hundred, a thousand, ten thousand, a hundred thousand; some had tens and hundreds of millions of faces — they could not be counted.
+
+## 68
+w: the Rudras  host  came  with hundreds of thousands  millions of  faces
+w: the Indras  host  came  with hundreds of thousands  millions of  eyes
+tr: Rudras came with hundreds of thousands and millions of faces, and Indras came with hundreds of thousands and millions of eyes.
+
+## 69
+w: seeing  four-headed  Brahmā  bewildered  became
+w: of elephants  a herd  amid  as if  a rabbit  remained
+tr: Seeing this, four-headed Brahmā was bewildered, like a rabbit standing amid a herd of elephants.
+
+## 70
+w: coming  all  Brahmās  Kṛṣṇa’s  of the feet  the footstool  before
+w: obeisance  while offering  crowns  the footstool  touch
+tr: All the Brahmās came before Kṛṣṇa’s footstool, and as they offered obeisance their crowns touched it.
+
+## 71
+w: Kṛṣṇa’s  inconceivable  power  to describe  anyone  cannot
+w: as many  Brahmās  so many  forms  in one and the same  body
+tr: No one can describe Kṛṣṇa’s inconceivable power: as many Brahmās as there were, so many forms were in His one body.
+
+## 72
+w: of the footstool  of the crowns’  tips  from the striking  arises  a sound
+w: to the footstool  praise  offer  the crowns  so  I think
+tr: As the tips of the crowns struck the footstool, a sound arose; it seemed to me that the crowns were offering praise to the footstool.
+
+## 73
+w: with joined  palms  Brahmās  Rudras and others  offer  praise
+w: great  mercy  You have shown  O Lord  You showed  Your feet
+tr: With joined palms the Brahmās, the Rudras and the others offered praise: “O Lord, You have shown great mercy in revealing Your feet.
+
+## 74
+w: fortune  me  You called  as servant  accepting
+w: what  order  there is  that  I shall do  on my head  bearing
+tr: It is my good fortune that You have called me, accepting me as Your servant. Whatever Your order may be, I will carry it out, placing it on my head.”
+
+## 75
+w: Kṛṣṇa  says  you  all  to see  the desire  arose
+w: that  for the sake of  in one  place  all  I called
+tr: Kṛṣṇa said, “I wished to see you all, and so I have called you all together in one place.
+
+## 76
+w: happy  are (you)  all  any  is there not  of the demons  fear
+w: they  say  by Your  grace  everywhere  victory
+tr: Are you all happy? Have you no fear of the demons?” They replied, “By Your grace we are victorious everywhere.
+
+## 77
+w: now  on the earth  whatever  had become  burden
+w: descended  having become  that  You made  destruction
+tr: Whatever burden had lately come upon the earth, You have descended and destroyed it.”
+
+## 78
+w: Dvārakā and the rest  of the opulence  this  indeed  the proof
+w: in my own  universe  Kṛṣṇa  of all  was  the understanding
+tr: This is the proof of the opulence (*vibhūti*) of Dvārakā and Kṛṣṇa’s other abodes: each of them understood, “Kṛṣṇa is in my own universe.”
+
+## 79
+w: with Kṛṣṇa  of Dvārakā  the splendour  experience  there was
+w: in one place  in the meeting  anyone  anyone  not  saw
+tr: Each experienced the splendour of Dvārakā together with Kṛṣṇa; yet, though all met in one place, none of them saw any other.
+
+## 80
+w: then  Kṛṣṇa  to all the Brahmās  leave  gave
+w: prostrate  becoming  all  to their own homes  went
+tr: Then Kṛṣṇa gave all the Brahmās leave to go, and they all bowed down flat and returned to their own homes.
+
+## 81
+w: seeing  of the four-headed  Brahmā  there was  amazement
+w: of Kṛṣṇa  at the feet  coming  made  obeisance
+tr: Seeing this, the four-headed Brahmā was amazed. He came to Kṛṣṇa’s feet and offered obeisance.
+
+## 82
+w: Brahmā  says  before  I  what  conclusion  made
+w: of that  the example  I  today  indeed  saw
+tr: Brahmā said, “What I concluded before, today I have seen demonstrated before my eyes.
+
+## 83
+w: the knowing  indeed  let them know
+w: what  with many words  not  my  O Lord
+w: of mind  of body  of speech
+w: glory  Your  within the range
+tr: “Let those who know You know. What use are many words? O Lord, Your glory lies beyond the reach of my mind, my body and my speech.” (Śrīmad-Bhāgavatam, 10.14.38)
+
+## 84
+w: Kṛṣṇa  says  this  universe  fifty crore  yojanas
+w: very  small  therefore  your  four  faces
+tr: Kṛṣṇa said, “This universe measures fifty crore *yojanas*. It is very small, and so you have only four faces.
+
+## 85
+w: some  universe  a hundred crore  some  a hundred thousand crore
+w: some  a million crore  some  crore upon crore
+tr: Some universes measure a hundred crore *yojanas*, some a hundred thousand crore, some a million crore, some crore upon crore.
+
+## 86
+w: according to the universe  of Brahmā  body and faces
+w: in this way  maintain  I  of the universes  the multitude
+tr: A Brahmā’s body and faces correspond to the size of his universe. In this way I maintain the countless universes.
+
+## 87
+w: the one-quarter  opulence  of it  there is not  measure
+w: of the three-quarter  opulence  who  makes  measurement
+tr: The *eka-pāda vibhūti*, the one quarter of My opulence, has no measure. Who, then, can measure the *tri-pāda vibhūti*, the other three quarters?”
+
+## 88
+w: of it  on the far shore  Paravyoma
+w: three-quarters  consisting of  eternal
+w: immortal  everlasting  constant
+w: infinite  supreme  abode
+tr: “On the far shore of the Virajā lies Paravyoma, the eternal three quarters of His opulence: immortal, everlasting and constant, infinite, the supreme abode.” (Padma Purāṇa)
+
+## 89
+w: then  Kṛṣṇa  to Brahmā  gave  leave
+w: of Kṛṣṇa  of the opulence  the nature  to know  not  is possible
+tr: Then Kṛṣṇa gave Brahmā leave to go. The nature of Kṛṣṇa’s opulence cannot be known.
+
+## 90
+w: tryadhīśvara  of the word  the meaning  a hidden  another  there is
+w: by the word tri  Kṛṣṇa’s  three  worlds  are meant
+tr: The word *tryadhīśvara* (“Lord of the three”) has yet another, hidden meaning: by the word *tri* (“three”) Kṛṣṇa’s three abodes are meant.
+
+## 91
+w: called Goloka  Gokula  Mathurā  Dvārāvatī
+w: in these  three  worlds  Kṛṣṇa’s  natural  eternal residence
+tr: Gokula, which is called Goloka, Mathurā and Dvārāvatī (Dvārakā): in these three abodes Kṛṣṇa naturally and eternally resides.
+
+## 92
+w: internal  with full majesty  filled  three  abodes
+w: of the three  the supreme master  Kṛṣṇa  Bhagavān Himself
+tr: These three abodes are internal and filled with full majesty, and their supreme master is Kṛṣṇa, Bhagavān Himself.
+
+## 93–94
+w: previously  mentioned  of the universes  all  guardians of the quarters
+w: of the infinite  Vaikuṇṭhas and coverings  the age-old  guardians of the worlds
+w: their all  crowns  of Kṛṣṇa  of the feet  the footstool  before
+w: of prostration  at the time  their  jewels  on the footstool  touch
+tr: All the guardians of the quarters in the universes I spoke of before, and the age-old guardians of the worlds in the infinite Vaikuṇṭhas and the coverings of the universes, bow down before Kṛṣṇa’s footstool, and as they prostrate themselves the jewels of their crowns touch it.
+
+## 95
+w: jewels  on the footstool  knocking together  arises  a jingling
+w: of the footstool  praise  make  the crowns  so  I know
+tr: The jewels knock together on the footstool and a jingling arises: it is as if, I think, the crowns were singing the footstool’s praises.
+
+## 96
+w: with His own spiritual potency  Kṛṣṇa  eternally  is present
+w: of the spiritual potency  the wealth  the six opulences  the name
+tr: Kṛṣṇa is eternally present with His own spiritual potency (*cit-śakti*), and the wealth of that potency is called the “six opulences” (*ṣaḍaiśvarya*).
+
+## 97
+w: that  Svārājya-lakṣmī  makes  eternally  fulfilled in desire
+w: therefore  in the Vedas  they call (Him)  Bhagavān Himself
+tr: That Svārājya-lakṣmī, the wealth of His own realm, keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him “Bhagavān Himself.”
+
+## 98
+w: of Kṛṣṇa  the majesty  a boundless  of nectar  ocean
+w: to plunge in  unable  of it  I have touched  one  drop
+tr: Kṛṣṇa’s majesty is a boundless ocean of nectar. Unable to plunge into it, I have touched but a single drop.”
+
+## 99
+w: majesty  while speaking of  in the Lord  the manifestation of Kṛṣṇa  there was
+w: in sweetness  sank  the mind  one  verse  He recited
+tr: As the Lord spoke of majesty, Kṛṣṇa was revealed within His heart. His mind sank into sweetness, and He recited a verse.
+
+## 100
+w: which  suited to pastimes among mortals  His own yoga-
+w: -māyā’s  power  by Him displaying  was assumed
+w: astonishing  to Himself  even  of the wealth of fortune
+w: the supreme  abode  of ornaments  the ornament  whose limbs
+tr: “To display the power of His own Yogamāyā, He assumed a form suited to His pastimes among mortals — a form that astonished even Himself, the supreme abode of all good fortune, whose limbs are the ornament of ornaments.” (Śrīmad-Bhāgavatam, 3.2.12)
+
+## 101
+w: Kṛṣṇa’s  all  pastimes  the highest  the human-like pastime
+w: a human-like body  His  own form
+w: dressed as a cowherd  flute in hand  freshly youthful  the best of dancers
+w: for the human-like pastime  is  fitting
+tr: Of all Kṛṣṇa’s pastimes the highest is His human-like pastime (*nara-līlā*), and a human-like form is His own true form. Dressed as a cowherd boy, flute in hand, ever freshly youthful, the finest of dancers — this form perfectly suits His human-like pastimes.
+
+## 102
+w: Kṛṣṇa’s  sweet  form  hear  O Sanātana
+w: of which  form  one  particle  floods  that  the three worlds
+w: all  living beings  makes  attraction
+tr: Hear, Sanātana, of Kṛṣṇa’s sweet form, a single particle of which floods the three worlds and draws all living beings to itself.
+
+## 103
+w: Yogamāyā  the spiritual potency  of pure sattva  the transformation
+w: her  power  to the world  to show
+w: this  form  jewel  of the devotees  the hidden treasure
+w: manifest  He made  the eternal pastimes  from
+tr: Yogamāyā is the spiritual potency (*cit-śakti*), a transformation of pure *sattva* (*viśuddha-sattva*). To show her power to the world, He brought this jewel of a form, the hidden treasure of the devotees, into the manifest world from His eternal pastimes.
+
+## 104
+w: form  seeing  His own  in Kṛṣṇa  there was  amazement
+w: to taste  in the mind  arises  desire
+w: His own good fortune  whose  name  beauty and the rest  of qualities  the host
+w: this form  eternal  their  abode
+tr: Seeing His own form, Kṛṣṇa is amazed, and a desire to taste it rises in His mind. His own good fortune (*sva-saubhāgya*), the host of qualities beginning with beauty, has this form as its eternal abode.
+
+## 105
+w: of ornaments  the ornament  the body  in it  graceful  threefold bending
+w: of that  above  of the bow of the brows  the dance
+w: askance  of the eye-corners  the arrows  their  firm  aim
+w: pierce  of Rādhā  of the gopīs  of the host  the hearts
+tr: His body is the ornament of ornaments, and in it is the graceful threefold bending (*tribhaṅga*). Above it dances the bow of His brows; the arrows of His sidelong glances, firmly aimed, pierce the hearts of Rādhā and the gopīs.
+
+## 106
+w: above the universes  Paravyoma  there  which  divine forms
+w: of them all  by force  steals  the minds
+w: of chaste wives  the crest-jewel  whom  calls  the word of the Vedas
+w: attracts  those  Lakṣmīs
+tr: Above the universes lies Paravyoma; this form forcibly steals the minds of all the divine forms (*svarūpas*) there. It attracts even the Lakṣmīs, whom the word of the Vedas calls the crest-jewels of chaste wives.
+
+## 107
+w: mounted  on the gopīs’  chariot of desire  of Cupid  the mind  churns
+w: name  He bears  Madana-mohana
+w: conquering  of the five-arrowed one  the pride  Himself  a new Cupid
+w: the rāsa  performs  taking  the gopīs
+tr: Mounted on the chariot of the gopīs’ heartfelt desire, He churns the mind of Cupid himself, and so He bears the name Madana-mohana, the enchanter of Cupid. Conquering the pride of the five-arrowed god, He, Himself a new Cupid (*nava-kandarpa*), performs the *rāsa* dance with the gopīs.
+
+## 108
+w: equal to Himself  with friends  of the cows  of the herds  of grazing  in the joy
+w: in Vṛndāvana  free  sport
+w: whose  flute-sound  hearing  unmoving and moving  beings
+w: thrill  trembling  of tears  flow  streams
+tr: With friends equal to Himself, in the joy of grazing the cows, He sports freely in Vṛndāvana. Hearing the sound of His flute, all beings, unmoving and moving, thrill and tremble, and tears flow from them in streams.
+
+## 109
+w: the pearl necklace  of herons  a line  the rainbow  the peacock feather  there
+w: the yellow garment  of lightning  the flash
+w: Kṛṣṇa  a fresh rain cloud  of the world  the crops  upon
+w: pours  of the nectar of pastimes  showers
+tr: His pearl necklace is a line of herons, His peacock feather the rainbow, His yellow garment a flash of lightning. Kṛṣṇa is a fresh rain cloud pouring showers of the nectar of His pastimes upon the crops of the world.
+
+## 110
+w: sweetness  of Godhood  the essence  in Vraja  He made  known
+w: that  Śuka  of Vyāsa  the son
+w: in place  after place  in the Bhāgavata  has described  to make known
+w: that  hearing  dance  the devotees
+tr: Sweetness, the essence of Godhood (*bhagavattā*), He made known in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.
+
+## 111
+w: speaking  of Kṛṣṇa’s  rasa  a verse  recites  in the rapture of love
+w: in love  Sanātana’s hand  holding
+w: the gopīs’ fortune  Kṛṣṇa’s qualities  which  made  description
+w: in ecstatic absorption  of Mathurā  the city women
+tr: Speaking of the *rasa* of Kṛṣṇa, the Lord, in the rapture of love, lovingly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
+
+## 112
+w: the gopīs  austerity  what  performed  since  His  form
+w: of loveliness  the essence  unequalled and unsurpassed  not perfected by anything else
+w: with the eyes  drink  at every moment new  hard to attain
+w: the sole abode  of fame  of beauty  of majesty
+tr: “What austerities did the gopīs perform, that with their eyes they drink His form — the essence of loveliness, unequalled and unsurpassed, perfect in itself, new at every moment, hard to attain, the sole abode of fame, beauty and majesty?” (Śrīmad-Bhāgavatam, 10.44.14)
+
+## 113
+w: of youth’s nectar  an ocean  the waves  the essence of loveliness
+w: in it  that  whirlpool  the rising of emotions
+w: the flute’s sound  a whirlwind  of women  pride  grass and leaves
+w: that  it sinks  not  is  rising again
+tr: His youth is a nectar ocean; its waves are the essence of loveliness, its whirlpools the surging of emotions. The sound of His flute is a whirlwind, and women’s pride is but grass and leaves: the whirlwind sinks it, and it never rises again.
+
+## 114
+w: O friend  what  austerity  performed  the gopīs
+w: Kṛṣṇa’s form’s  exquisite sweetness  drinking  drinking  the eyes  filling
+w: praiseworthy  they make  birth  body  mind
+tr: O friend, what austerity did the gopīs perform? Drinking and drinking the exquisite sweetness of Kṛṣṇa’s form until their eyes are full, they make their birth, body and mind worthy of praise.
+
+## 115
+w: which  of sweetness  higher  other  there is not  of which  equal
+w: in Paravyoma  of the divine forms  in the host
+w: who  the source of all avatāras  of Paravyoma  the ruler
+w: this  sweetness  there is not  in Nārāyaṇa
+tr: Among all the divine forms in Paravyoma there is nothing higher than this sweetness, nor anything equal to it. Even Nārāyaṇa, the source of all the *avatāras* and the ruler of Paravyoma, does not possess this sweetness.
+
+## 116
+w: in that  the witness  that  Ramā  of Nārāyaṇa  the most beloved
+w: of the chaste wives  the object of worship
+w: she  who  for sweetness  in greed  giving up  all  enjoyments of desire
+w: a vow  taking  performed  austerity
+tr: The witness to this is Ramā (Lakṣmī), Nārāyaṇa’s most beloved, whom all chaste wives worship. Longing for that sweetness, she gave up every enjoyment she might desire, took a vow and performed austerities.
+
+## 117
+w: that  indeed  of sweetness  the essence  from another  perfection  there is not  of it
+w: He  of sweetness and other  qualities  the mine
+w: in the other  all  manifestations  by Him  given  qualities  shine
+w: where  as much  in a manifestation  the work  I know
+tr: That is the very essence of sweetness, owing its perfection to nothing else; He is the mine of sweetness and of all other qualities. In all His other manifestations shine the qualities He grants them, as much in each as its work requires — this I know.
+
+## 118
+w: of the gopīs’ love  the mirror  new  new  moment  by moment
+w: of it  before  Kṛṣṇa’s  sweetness
+w: the two  make  a contest  grow  face  not  turning
+w: new  new  of the two  the abundance
+tr: The gopīs’ love is a mirror, new at every moment, and before it stands Kṛṣṇa’s sweetness. The two vie with each other and keep growing, never turning back, and the abundance of both is ever new.
+
+## 119
+w: karma  austerity  yoga  knowledge  devotion by rules  japa  meditation
+w: these  through  sweetness  hard to attain
+w: only  who  on the path of spontaneous love  worships  Kṛṣṇa  with deep attachment
+w: for him  Kṛṣṇa’s sweetness  easy to attain
+tr: Through *karma*, austerity, yoga, knowledge, devotion according to rules (*vidhi-bhakti*), *japa* or meditation this sweetness is hard to attain. Only one who worships Kṛṣṇa with deep attachment (*anurāga*) on the path of spontaneous love (*rāga-mārga*) attains Kṛṣṇa’s sweetness easily.
+
+## 120
+w: that form  whose home is Vraja  full of majesty and sweetness
+w: of divine  qualities  of the host  the jewel-mine
+w: of others  of majesty  the existence  given by Kṛṣṇa  Godhood
+w: Kṛṣṇa  the whole of all parts  the shelter of all
+tr: That form, whose home is Vraja, is full of majesty and sweetness, a jewel-mine of divine qualities. The majestic existence of others, their Godhood (*bhagavattā*), is given by Kṛṣṇa: Kṛṣṇa is the whole of whom all are parts (*sarva-aṁśī*), the shelter of all.
+
+## 121
+w: beauty  modesty  mercy  fame  steadfastness  skilful  intelligence
+w: these  all  in Kṛṣṇa  are established
+w: good-natured  gentle  generous  Kṛṣṇa  except  there is not  another
+w: Kṛṣṇa  does  of the world  the good
+tr: Beauty, modesty, mercy, fame, steadfastness and skilful intelligence — all these are established in Kṛṣṇa. Good-natured, gentle and generous — there is no one so but Kṛṣṇa. Kṛṣṇa does good to the world.
+
+## 122
+w: Kṛṣṇa  seeing  all  people  made  of the blinking  reproach
+w: in Vraja  the Creator  reproach  the gopīs
+w: those  all  verses  reciting  Mahāprabhu  the meaning  explaining
+w: in joy  the sweetness  makes  tasting
+tr: All who saw Kṛṣṇa reproached the blinking of their eyes, and in Vraja the gopīs reproached the Creator. Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
+
+## 123
+w: whose  face  with makara earrings  lovely  ears
+w: shining  cheeks  graceful  with playful  smile
+w: an eternal festival  not  were sated  with the eyes  drinking
+w: women  men  and  delighted  angry  with the maker of blinking  and
+tr: “Women and men drank with their eyes His face — lovely with ears graced by *makara* earrings and with shining cheeks, smiling playfully, an eternal festival — and were never sated. Delighted, they were angry with the maker of the blinking eyelids.” (Śrīmad-Bhāgavatam, 9.24.65)
+
+## 124
+w: wander  when  You  by day  the forest
+w: a moment  becomes a yuga  You  for those not seeing
+w: with curling  locks  beautiful face  and  Your
+w: a fool  for those gazing  the maker of eyelids  of the eyes
+tr: “When by day You wander in the forest, a moment without You becomes an age for us. And as we gaze upon Your beautiful face framed in curling locks, we see what a fool was the maker of our eyelids.” (Śrīmad-Bhāgavatam, 10.31.15)
+
+## 125
+w: the Kāma-gāyatrī  mantra’s  form  is  Kṛṣṇa’s  own form
+w: twenty-four and a half  syllables  its  are
+w: those  syllables  moons  are  Kṛṣṇa  making  rise
+w: the three worlds  made  full of love’s desire
+tr: The form of the Kāma-gāyatrī mantra is Kṛṣṇa’s own form. It has twenty-four and a half syllables; those syllables are moons, and, making Kṛṣṇa rise, they have filled the three worlds with love’s desire (*kāma*).
+
+## 126
+w: O friend  Kṛṣṇa’s  face  of the moons  the king
+w: of Kṛṣṇa’s body  on the throne  seated  the kingdom  ruling
+w: holds  together  of moons  a court
+tr: O friend, Kṛṣṇa’s face is the emperor of moons. Seated on the throne of Kṛṣṇa’s body, it rules its kingdom, holding court with an assembly of moons.
+
+## 127
+w: two  cheeks  glossy  surpassing  fine jewelled mirrors
+w: those  two  full moons  I know
+w: on the forehead  a half-moon  on it  sandal  dot
+w: that too  one  full moon  I count
+tr: His two glossy cheeks, surpassing fine jewelled mirrors, I know to be two full moons. On His forehead is a half-moon, and on it a dot of sandal paste: that too I count as a full moon.
+
+## 128
+w: the fingernails  of moons  a company  on the flute  make  dance
+w: their  song  of the flute  the melody
+w: the toenail moons  the host  below  make  dancing
+w: of the anklets  the sound  whose  song
+tr: The nails of His fingers, a company of moons, dance upon the flute, and their song is the flute’s melody. Below, the moons of His toenails dance, and the jingling of His anklets is their song.
+
+## 129
+w: dance  makara earrings  the eyes  playful lotuses
+w: the pleasure-loving  king  constantly  makes dance
+w: the brows  a bow  the eyes  arrows  the bowstring  the two  ears
+w: of women’s hearts  the target  pierces  with them
+tr: The *makara* earrings dance, and the eyes, playful lotuses: the pleasure-loving king makes them dance without cease. His brows are a bow, His eyes arrows, His two ears the bowstring; with them He pierces the target, the hearts of women.
+
+## 130
+w: of this  moon  the grand  dance  spreading out  of moons  a market
+w: without price  distributes  its own nectar
+w: some  with the nectar of the moonlight of His smile  some  with the nectar of His lips
+w: all  people  makes  satisfied
+tr: Grand is this moon’s dance: spreading out a market of moons, it gives away its own nectar without price. Some it satisfies with the moonlit nectar of His smile, some with the nectar of His lips — it satisfies everyone.
+
+## 131
+w: broad, long and reddish  Madana’s  intoxication  making reel
+w: ministers  whose  these  two  eyes
+w: of loveliness  of play  the home  of people’s  eyes  the elixir
+w: full of joy  Govinda’s  face
+tr: Its ministers are His two eyes, broad, long and reddish, which make even Madana (Cupid) reel in his intoxication. Govinda’s face, full of joy, is the pleasure-house of loveliness and an elixir for the eyes of all.
+
+## 132
+w: whose  of piety  of heaps  by the fruit  of that face  the sight  is obtained
+w: two  eyes  what  will do  in drinking
+w: twofold  grows  thirst and greed  to drink  is unable  agitation of mind
+w: in sorrow  makes  of the Creator  reproach
+tr: One who obtains the sight of that face as the fruit of heaps of piety — what can his two eyes drink of it? His thirst and greed grow twofold; unable to drink, his mind is agitated, and in sorrow he reproaches the Creator:
+
+## 133
+w: not  he gave  hundreds of thousands and millions  only  he gave  eyes  two
+w: to them  he gave  blinking  coverings
+w: the Creator  a dull  ascetic  void of taste  his  mind
+w: not  he knows  proper  creation
+tr: “He did not give hundreds of thousands, millions of eyes; he gave only two, and on them he put blinking lids. The Creator is a dull ascetic; his mind is void of taste (*rasa*), and he does not know how to create properly.
+
+## 134
+w: who  will see  Kṛṣṇa’s face  for him  makes  two eyes
+w: the Creator  being  such  injustice
+w: my  if  word  he takes  millions  of eyes  for him  he makes
+w: then  I know  proper  creation  his
+tr: For one who is to see Kṛṣṇa’s face he makes only two eyes — such injustice from the Creator! If he would take my advice and make millions of eyes for such a one, then I would know his creation to be proper.”
+
+## 135
+w: of Kṛṣṇa’s body  the sweetness  an ocean  the very sweet  face  the moon
+w: the exceedingly sweet  smile  its fine rays
+w: to these three  clung  the mind  in greed  makes  tasting
+w: a verse  recites  His own hand  moving
+tr: The sweetness of Kṛṣṇa’s body is an ocean, His very sweet face the moon, and His exceedingly sweet smile its fine rays. The Lord’s mind clung to these three; greedily He tasted them and, waving His hand, recited a verse.
+
+## 136
+w: sweet  sweet  the form  of this  Lord
+w: sweet  sweet  the face  sweet
+w: honey-fragrant  the gentle smile  this  ah
+w: sweet  sweet  sweet  sweet
+tr: “Sweet, sweet is the form of this Lord; sweet, sweet is His face, sweet indeed; and this gentle smile, fragrant with honey — ah, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
+
+## 137
+w: O Sanātana  Kṛṣṇa’s sweetness  of nectar  an ocean
+w: My  mind  delirious  all  to drink  makes  resolve
+w: of ill fate  the physician  not  gives  one  drop
+tr: O Sanātana, Kṛṣṇa’s sweetness is an ocean of nectar. My mind, delirious as in a fever (*sannipāta*), resolves to drink it all — but the physician, alas, My ill fate, will not give Me a single drop!
+
+## 138
+w: Kṛṣṇa’s body  of loveliness  a flood  than sweet  sweeter
+w: on it  which  the face  the moon
+w: than sweet  sweeter  than that  sweeter
+w: His  which  smile  of moonlight  the fullness
+tr: Kṛṣṇa’s body is a flood of loveliness, sweeter than sweetness itself. On it is His moonlike face, sweeter than sweet and sweeter still; and His smile is the full flood of that moon’s light.
+
+## 139
+w: than sweet  sweeter  than that  sweeter
+w: than that  far  sweeter
+w: by its own  one  particle  pervades  all  the three worlds
+w: the ten directions  pervades  whose  flood
+tr: Sweeter than sweet, sweeter still, and sweeter even than that, the smile pervades all the three worlds with a single particle of itself, and its flood fills the ten directions.
+
+## 140
+w: of the smile  the rays’  fine camphor  enters  the lips’ sweetness
+w: that  honey  maddens  the three worlds
+w: of the flute’s holes  into the sky  its  quality  into sound  enters
+w: of sound  in the form  attaining  transformation
+tr: The fine camphor of the rays of His smile enters the sweetness of His lips, and that honey maddens the three worlds. It enters the sky within the holes of the flute and passes into sound, the sky’s own quality, transformed into the form of melody.
+
+## 141
+w: that  sound  in all directions  runs  the universe  piercing  to Vaikuṇṭha  goes
+w: by force  enters  of the world  the ears
+w: all  maddened  making  by force  brings  seizing
+w: especially  of young women  the host
+tr: That sound runs in all directions; piercing the shell of the universe, it reaches Vaikuṇṭha and forces its way into the ears of the world. Maddening all, it seizes them and brings them by force — above all the young women.
+
+## 142
+w: the sound  very  insolent  of chaste wives  breaks  the vow
+w: from the husband’s lap  pulling  brings
+w: of Vaikuṇṭha  the Lakṣmīs  which  makes  attraction
+w: of it  before  what to speak of  the gopīs
+tr: That sound is most insolent: it breaks the vow of chaste wives and pulls them from their husbands’ laps. It attracts even the Lakṣmīs of Vaikuṇṭha — what then of the gopīs?
+
+## 143
+w: the waist-knot  loosens  before the husband  household duty  makes  give up
+w: by force  seizing  brings  to Kṛṣṇa’s place
+w: social duty  modesty  fear  all  awareness  lost  becomes
+w: thus  makes dance  all  the women
+tr: It loosens the knots of their skirts before their husbands and makes them give up their household duties; seizing them by force, it brings them to Kṛṣṇa. Social duty, modesty, fear — all awareness is lost. So it makes all the women dance.
+
+## 144
+w: of the ears  within  a dwelling  it makes  itself  there  always  sounds
+w: other  sound  not  allows  to enter
+w: other  talk  not  hear  the ears  one thing  to say  says  another
+w: this  of Kṛṣṇa’s  flute  the conduct
+tr: It makes its home within the ears and ever sounds there by itself, letting no other sound enter. The ears hear no other talk; meaning to say one thing, one says another. Such is the way of Kṛṣṇa’s flute.
+
+## 145
+w: again  says  in outer consciousness  other  to say  I said  other
+w: Kṛṣṇa’s mercy  you  upon
+w: My  bewilderment of mind  making  of His own majesty  the sweetness
+w: through My  mouth  makes hear  you
+tr: Then, returning to outer consciousness, the Lord said again, “Meaning to say one thing, I have said another. Kṛṣṇa’s mercy is upon you: bewildering My mind, He has made you hear the sweetness of His own majesty through My mouth.
+
+## 146
+w: I  indeed  a madman  other  to say  other  I say
+w: of Kṛṣṇa’s  in the stream of sweetness  I  go  carried away
+tr: I am a madman: meaning to say one thing, I say another. I am carried away in the stream of Kṛṣṇa’s sweetness.”
+
+## 147
+w: then  Mahāprabhu  for a moment  silence  keeping  remains
+w: the mind  one  making  again  to Sanātana  speaks
+tr: Then Mahāprabhu remained silent for a moment; collecting His mind, He spoke to Sanātana again.
+
+## 148
+w: Kṛṣṇa’s  sweetness  and  from Mahāprabhu’s  mouth
+w: this  whoever  hears  he  floats  in the happiness of love
+tr: Whoever hears this — Kṛṣṇa’s sweetness from Mahāprabhu’s own mouth — floats in the happiness of love.
+
+## 149
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
