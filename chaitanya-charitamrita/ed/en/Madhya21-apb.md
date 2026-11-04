@@ -50,7 +50,7 @@ He Himself is the Lord of Brahmā, Viṣṇu and Śiva, and so no one is equal t
 
 ## 45
 
-The son of the king of Vraja, soft with a multitude of mercies and endowed with a special sweet majesty, is victorious — and so not even a particle of anxiety arises in us.[^45-1]
+The son of the king of Vraja, soft with a multitude of mercies and endowed with a special sweet majesty, is victorious — and so not even a particle of anxiety arises in us.
 
 ## 49
 
@@ -149,7 +149,3 @@ When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*
 In this ecstasy of love, while speaking of the truth of Kṛṣṇa, Mahāprabhu lost external awareness and brought in a composition on *rasa* (*rasa-sandarbha*), but this is not the place to describe it. Therefore He says: “I meant to speak of one thing, and I am speaking of another. Kṛṣṇa, in His mercy, bewildered My mind and let you hear of His own majesty and sweetness.”
 
 *Thus ends the twenty-first chapter of the “Amṛta-pravāha-bhāṣya.”*
-
----
-
-[^45-1]: The verse translation reads differently: there it is in that abode that not even a trace of anxiety or agitation exists.
