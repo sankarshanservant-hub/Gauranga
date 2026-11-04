@@ -138,8 +138,62 @@ Only by the strength of serving the *guru* and worshiping Kṛṣṇa is the con
 
 > Subheading: One who follows non-*daiva varṇāśrama*, hostile to *bhakti*, goes to hell —
 
+**eṣām** (among them — the *brāhmaṇas*, *kṣatriyas*, *vaiśyas* and *śūdras*, the *brahmacārīs*, *gṛhasthas*, *vānaprasthas* and *sannyāsīs*) **ye** (those people who) **sākṣāt** **ātma-prabhavam** (Him from whom comes their birth, or appearance) **īśvaram** (not knowing Him, being ungrateful) **na** **bhajanti**, **avajānanti** (or, though knowing, under the weight of pride in the dignity of *varṇāśrama* think there is no need to serve Kṛṣṇa and are hostile to Him), (they, devoid of service to Hari, *guru* and the Vaiṣṇavas,) **sthānāt** (from their own *varṇa* and *āśrama*) **bhraṣṭāḥ** (having fallen) **adhaḥ** **patanti** (go to hell; for mundane *varṇāśrama-dharma* is impermanent, shaken by time, yields only temporary fruits, and is designated by the word *asat*).
+
+## 29
+
+> Subheading: Even the *jñānī* who lacks *bhakti* and thinks himself liberated follows the impure *dharma* of the mind; only the pure devotee follows the pure *dharma* of the soul —
+
+A *jñānī* may think, “Even while living I have been freed from the bonds of worldly existence.” Yet without devotion to Kṛṣṇa, in the worship of oneself as God (*ahaṅgraha-upāsanā*), the intelligence cannot become pure. For the seeker of liberation, knowing his conditioned state, seeks release from it; and knowing the liberated state, he considers himself bound by all visible things outside it. Therefore he cannot get free from the grip of such impermanent conceptions.
+
+## 30
+
+> Subheading: The dry *jñānī* devoid of devotion to Kṛṣṇa falls down — (*Śrīmad-Bhāgavatam* 10.2.32) —
+
+When Bhagavān Śrī Kṛṣṇa appeared in the womb of Devakī, imprisoned in Kaṁsa's jail, Brahmā and the other gods praised Bhagavān in the hymn known as the “Garbha-stotra”:
+
+**he aravindākṣa** (O You whose eyes are like lotus petals), **anye** (non-devotees) **ye** **vimukta-māninaḥ** (who think, “We are liberated *jñānīs*”) **tvayi** (toward You, Bhagavān) **asta-bhāvāt** (because their feeling [*bhāva*] has been cast off and is therefore absent — because they lack *bhakti* and do not serve You) **aviśuddha-buddhayaḥ** (those whose intelligence is not pure; that is, prizing the witch of liberation, they bear in their minds the fault, the impurity and stain of deceit born of knowledge) **kṛcchreṇa** (by much practice of knowledge and renunciation) **paraṁ** **padam** (in the words of Svāmī, “near to *mokṣa*,” that is, the place immediately next to the seat of *mokṣa*) **āruhya** (having ascended) **anādṛta-yuṣmad-aṅghrayaḥ** (not honoring Your feet: having disregarded eternal service to Your lotus feet, by that offense they are cut off from the rope of Kṛṣṇa's mercy) **tataḥ** (from there — from the edge of the seat called the highest knowledge) **adhaḥ** **patanti** (sink into the darkness of ignorance, the gloom of worldly existence).
+
+## 31
+
+> Subheading: Where Kṛṣṇa is seen, *māyā* is not seen; where *māyā* is seen, Kṛṣṇa is not seen —
+
+In the “Catuḥ-ślokī” of the *Bhāgavatam* it is written: “Whatever appears apart from the Reality and does not appear in the Self, know that to be My *māyā*, like a reflection (*ābhāsa*) and like darkness.”[^31-1] As there is no darkness where there is light, so the *jīva*, once turned toward Kṛṣṇa, is freed from the grip of *māyic* desires. *Māyā* swallows the *jñānīs*, the *karmīs* and those with other desires (*anyābhilāṣīs*) — all except Kṛṣṇa's devotees.
+
+## 32
+
+> Subheading: The maidservant *māyā* is ashamed to stand before her Lord, yet she imprisons the one who turns from the Lord by giving him a distorted intelligence (*vivarta-buddhi*) — (*Śrīmad-Bhāgavatam* 2.5.13) —
+
+Devarṣi Nārada, seeing Brahmā, the grandsire of the worlds, engaged in austerity, asked him whether apart from him there was an independent controller, the Lord of all lords. Brahmā then describes the pastimes of Śrī Hari, the Paramātmā, and how He creates the world and so on through *māyā*:
+
+**yasya** (of Bhagavān) **īkṣā-pathe** (in the path of His sight) **sthātum** **vilajjamānayā** (by her who is ashamed, thinking, “This Lord knows my deceit”) **amuyā** (by that *māyā*) **vimohitāḥ** (bewildered) **durdhiyaḥ** (only *jīvas* of bad intelligence, whose knowledge is covered by *avidyā*) **mama** **aham** **iti** (thus) **vikatthante** (praise themselves) — “to Him obeisance”: thus it connects with the preceding.
+
+In another reading a verse is quoted here (*Śrīmad-Bhāgavatam* 2.7.47): “That which is eternally tranquil, fearless, pure consciousness, pure, equal, beyond cause and effect (*sat* and *asat*) — the supreme truth of the Self; where the word with its many case relations, directed toward action, does not operate, and from which *māyā* flees, ashamed to stand before it — that indeed is the abode (*pada*) of the Supreme Person, Bhagavān, which they know as Brahman, unending happiness without sorrow.” What the sages know as “the great Brahman without attributes (*nirvikalpa*)” is the first perceived feature of the Supreme Person, Bhagavān. That Brahman is full of unending happiness, free from sorrow, eternally tranquil, devoid of distinctions, fearless, consisting of knowledge alone, pure, untouched by objects and senses; it is the supreme truth of the Self. The word of the *karma-kāṇḍa*, which reveals the four kinds of results of action — production and the rest — cannot make Him known,[^32-1] and *māyā* is ashamed to come before Him and flees.
+
+## 33
+
+> Subheading: Only the devotee who has completely offered himself, or who has gained knowledge of *sambandha*, is released from worldly existence —
+
+## 34
+
+> Subheading: The reassuring words of all-merciful Kṛṣṇa — (*Rāmāyaṇa*, Śrī Rāmacandra's words when Vibhīṣaṇa came to Him) —
+
+**yaḥ** (the person who) **prapannaḥ** (having surrendered) **tava** **asmi** (I am bound to You by the tie of eternal service) **iti** **sakṛt** **eva** (only once) **ca** **yācate** (humbly begs), **ahaṁ** (I, Bhagavān, the son of Daśaratha) **tasmai** **sarvadā** **abhayaṁ** **dadāmi** — **etat** (this is) **mama** **vratam** (My vow).
+
+## 35
+
+> Subheading: A man full of desires and without peace attains peace as the fruit of constant *bhajana* —
+
+## 36
+
+> Subheading: Every intelligent person should worship Kṛṣṇa — (*Śrīmad-Bhāgavatam* 2.3.10) —
+
 ---
 
 [^19-1]: The edition reads *phalam*; the verse and the gloss (“exceedingly”) require *alam*. An evident misprint.
 
 [^21-1]: *Kṛṣṇa-karṇāmṛta* 107.
+
+[^31-1]: *Śrīmad-Bhāgavatam* 2.9.34.
+
+[^32-1]: The punctuation of the edition is ambiguous here: the words about the four kinds of results of action could also be taken as describing Brahman. Translated according to the sense of the verse (“where the word … directed toward action does not operate”).

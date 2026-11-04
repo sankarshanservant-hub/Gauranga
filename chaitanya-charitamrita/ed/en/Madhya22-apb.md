@@ -51,3 +51,31 @@ From Brahmā's mouth were born the “*brāhmaṇas*,” from his arms the “*k
 ## 28
 
 Among the people of these four *varṇas* and *āśramas*, those who do not directly serve their Lord, Bhagavān Viṣṇu, but out of pride in their own *varṇa* and *āśrama* disregard His service, fall from their position and go down.
+
+## 29
+
+Followers of *māyāvāda* and other doctrines call themselves “*jñānīs*.” But in truth, without devotion to Kṛṣṇa, the intelligence does not become pure.
+
+## 30
+
+O Aravindākṣa, those who boast, “I have become liberated,” are impure in intelligence because they lack devotion to You. With great hardship they ascend to the supreme abode beyond *māyā* — to Brahman — but, disregarding devotion to Bhagavān, they fall down.
+
+## 32
+
+*Māyā* is ashamed to stand in the path of Kṛṣṇa's sight. Bewildered by that *māyā*, people of bad intelligence spread many nets of words such as “I” and “mine.”
+
+## 33
+
+Some, every day, only with their lips and out of habit, say again and again, “Kṛṣṇa, I am Yours.” Their words do not come from the heart (are not sincere). But whoever even once, from the heart — with body, mind and words — says, “O Kṛṣṇa, I am Your servant,” Kṛṣṇa carries across the bondage of *māyā*.
+
+## 34
+
+My vow is this: if anyone truly surrenders and, saying even once, “I am Yours,” begs Me for fearlessness, I always grant it to him.
+
+## 35
+
+Through bad desires and bad company, desires for liberation (*mukti*), worldly enjoyment (*bhukti*) and mystic perfection (*siddhi*) arise in the *jīva*. But if good intelligence awakens in him through the company of saints, he gives up the thirst for *mukti*, *bhukti* and *siddhi* and worships Kṛṣṇa by the path of deep, pure *bhakti*.
+
+## 36
+
+Whether a man was formerly without desires, full of all desires, or desirous of liberation (*mokṣa*) — as soon as his intelligence becomes broad, he will worship the Supreme Person, Kṛṣṇa, by the path of intense (*tīvra*), pure *bhakti*.
