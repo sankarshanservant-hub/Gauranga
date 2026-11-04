@@ -88,6 +88,40 @@ Just as in *madhura-rasa* the two best *ālambanas* are the son of the King of V
 
 Here a variant reading gives two verses: “Renunciation (*vairāgya*) is called proper when one, unattached, uses objects as is fitting, firmly relating them to Kṛṣṇa,” and “When those who seek liberation reject things connected with Hari, considering them mundane, such renunciation is called false (*phalgu*).” These two verses are quoted from the second *laharī* of the *Pūrva-vibhāga* of the *Bhakti-rasāmṛta-sindhu*.
 
+## 100–101
+
+> Subheading: The *Gītā* points out the marginal characteristics (*taṭastha-lakṣaṇas*) of a devotee dear to Kṛṣṇa — (*Śrīmad Bhagavad-gītā* 12.13–20)
+
+**sarva-bhūtānām** (of all *jīvas*) **adveṣṭā** (free of malice) **maitraḥ** (one who bears no ill will toward superiors and is friendly toward equals) **karuṇaḥ** (compassionate toward inferiors) **nirmamaḥ** (without the sense of “mine,” indifferent) **nirahaṅkāraḥ** **sama-duḥkha-sukhaḥ** (treating happiness and distress alike) **kṣamī** (bearing offenses) **satatam** (both in gain and in loss) **santuṣṭaḥ** (with a serene heart) **yogī** (never heedless) **yatātmā** (who has restrained his nature) **dṛḍha-niścayaḥ** (one whose resolve concerning Me is firm) **mayi** **arpita-mano-buddhiḥ** (one who has given his mind and intelligence to Me) **yaḥ** **mad-bhaktaḥ**, **saḥ** **me** **priyaḥ**.
+
+## 102
+
+**yasmāt** (from whom) **lokaḥ** **na** **udvijate** (does not become agitated through fear and apprehension), **yaḥ ca** **lokāt** **na** **udvijate**, **yaḥ ca** **harṣāmarṣa-bhayodvegaiḥ** (*harṣa* — elation at gaining what one desires oneself; *amarṣa* — intolerance of another’s gain; *bhaya* — fear; *udvega* — agitation of mind caused by fear and the like; from these) **muktaḥ**, **sa ca me priyaḥ**.
+
+## 103
+
+**yaḥ** **anapekṣaḥ** (depending on no one, without desire even for what comes of itself) **śuciḥ** (pure outwardly and inwardly) **dakṣaḥ** (not lazy) **udāsīnaḥ** (impartial) **gata-vyathaḥ** (free of mental anguish) — **sarvārambha-parityāgī** (such is the devotee whose nature is to give up all undertakings and efforts for visible and invisible ends), **sa me priyaḥ**.
+
+## 104
+
+**yaḥ** (on obtaining what is pleasant) **na** **hṛṣyati**, (on obtaining what is unpleasant) **na** **dveṣṭi**, (one who, when what he desired is lost) **na** **śocati**, (one who for what is unattained) **na** **kāṅkṣati**, **śubhāśubha-parityāgī** (one whose nature is to give up the auspicious and the inauspicious, that is, piety and sin; having become such, one who toward Me) **bhaktimān**, **sa me priyaḥ**.
+
+## 105–106
+
+**śatrau** **mitre** **ca** **tathā** **mānāpamānayoḥ** (in honor and dishonor) **api** **samaḥ** (one and the same, that is, behaving alike) **śītoṣṇa-sukha-duḥkheṣu** (in cold and heat, in happiness and distress) **samaḥ** (even) **saṅga-vivarjitaḥ** (attached to nothing, or seeking no other support) **tulya-nindā-stutiḥ** (one for whom blame and praise are equal, that is, treating praise and censure alike) **maunī** (restrained in speech) **yena kenacit** (with whatever has come of itself) **santuṣṭaḥ**, **aniketaḥ** (without a fixed dwelling, that is, homeless) **sthira-matiḥ** (of steady mind; having become such, one who toward Me) **bhaktimān** **naraḥ**, **saḥ** **me** **priyaḥ**.
+
+## 107
+
+**ye** (devotees) **yathoktam** (as it has been described) **idam** **dharmāmṛtam** (the *dharma* that is itself nectar, for it leads to immortality) **paryupāsate** (practice), **śraddadhānāḥ** (full of faith) **mat-paramāḥ ca** (and devoted to Me), **te** **mad-bhaktāḥ**, **me** **atīva priyāḥ** (are).
+
+## 108
+
+> Subheading: Words on pure renunciation that accompanies *bhakti* — (*Śrīmad-Bhāgavatam* 2.2.5)
+
+Śrī Śukadeva tells Parīkṣit of *yukta-vairāgya*: free of desire for enjoyments that rest on notions of the gross world, to accept without attachment only as much as is needed to maintain life.
+
+**pathi** **cīrāṇi** (scraps of torn cloth) **kim** **na** **santi** (are there none thrown away)? **para-bhṛtaḥ** (nourishing others with fruits and the like) **aṅghripāḥ** (trees) **bhikṣām** **na** **eva** **diśanti** (will they not give)? **saritaḥ** (lakes and rivers) **api** **aśuṣyan** (have they dried up)? **guhāḥ** (mountain caves) **ruddhāḥ** **kim**? **ajitaḥ** (Viṣṇu) **upasannān** (the surrendered) **kim** **na** **avati** (does He not protect)? (If so, then) **kavayaḥ** (the wise, who know the *rasa* of Hari) **kasmāt** (for what reason) **dhana-durmadāndhān** (those blinded — bereft of discernment — by the wicked pride of wealth) **bhajanti** (follow)?
+
 ---
 
 [^78-1]: The edition numbers this section “78–89”: a misprint (checked against the scan, p. 785); the section covers verses 78–79, and the next section is 80.

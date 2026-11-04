@@ -62,6 +62,20 @@ He who is free of elation, aversion, grief and longing, who has given up results
 
 The person who is equal toward enemy and friend, in honor and dishonor, in cold and heat, in happiness and distress, who is free of attachment, equal in blame and praise, silent, content with whatever comes, homeless, steady in mind and full of devotion — he is dear to Me.
 
+## 107
+
+Those who, full of faith and devoted to Me, worship this nectar of *dharma* (described from the second to the nineteenth verse) are My devotees, and they are exceedingly dear to Me.
+
+## 108
+
+Oh, do worn-out rags not lie on the road? Do the trees that nourish others not give alms? Have all the rivers dried up? Are the caves closed? Does Īśvara not protect those who have come to Him? If that is so, why do the wise serve those blinded by the wicked pride of wealth?
+
+## 111
+
+The interpretation that Kṛṣṇa is an *avatāra* in the form of “a hair black as a crow” is contrary to the truth. Rejecting it, [the Lord] taught the pure interpretation: “*ka* + *īśa* = *keśa*,” that is, Kṛṣṇa is “the Lord of Brahmā.”
+
+*Thus ends the twenty-third chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^82-1]: The verse translation reads differently: “She treats Her elders with great affection” (Madhya 23.86).
