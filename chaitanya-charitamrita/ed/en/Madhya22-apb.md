@@ -238,7 +238,7 @@ When *bhāva-bhakti*, which is the goal (*sādhya*), becomes attainable by actio
 
 ## 103–106
 
-Hearing, chanting and remembering in a favorable mood are the *svarūpa-lakṣaṇa*, the essential characteristic, of this bhakti. When one gives up other desires (*anyābhilāṣa*) and cuts one's ties with *jñāna* and *karma*, this essential characteristic produces “the treasure of *prema*.” Love for Kṛṣṇa is an eternally perfect reality. It can never be attained (by any means, any *abhidheya*, other than pure bhakti);[^103-106-1] it can arise only in a heart purified by hearing and the other practices. Therefore *sādhana-bhakti* consists above all of pure hearing, chanting and the other activities. It is of two kinds, *vaidhī* and *rāgānugā*. When those in whose hearts *rāga* has not yet awakened take up worship at the command of scripture, that is *vaidhī-bhakti*.
+Hearing, chanting and remembering in a favorable mood are the *svarūpa-lakṣaṇa*, the essential characteristic, of this bhakti. When one gives up other desires (*anyābhilāṣa*) and cuts one's ties with *jñāna* and *karma*, this essential characteristic produces “the treasure of *prema*.” Love for Kṛṣṇa is an eternally perfect reality. It can never be attained (by any means, any *abhidheya*, other than pure bhakti); it can arise only in a heart purified by hearing and the other practices. Therefore *sādhana-bhakti* consists above all of pure hearing, chanting and the other activities. It is of two kinds, *vaidhī* and *rāgānugā*. When those in whose hearts *rāga* has not yet awakened take up worship at the command of scripture, that is *vaidhī-bhakti*.
 
 ## 107
 
@@ -343,7 +343,5 @@ Again and again I bow to those who always, with eagerness, meditate on Hari as h
 ---
 
 [^69-71-1]: The edition reads *bhagavad-avidveṣī* (“not hostile to Bhagavān”); the sense and the verse (*dviṣatsu*, “toward the hostile”) require *bhagavad-vidveṣī*. An evident misprint.
-
-[^103-106-1]: The translation of verse 104 differs: “Therefore it is not the main goal of spiritual practice.”
 
 [^111-125-1]: In the edition *ātma-nivedana*, like *sakhya*, is numbered (8); the numbering is correct from there on. An evident misprint, corrected to (9).
