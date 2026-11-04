@@ -86,8 +86,122 @@ In a single moment Kṛṣṇa created countless transcendental Vaikuṇṭhas w
 
 *Avadhūta*: shaken, stirred, overflowing, overwhelmed, overcome.
 
+There is another reading: “hearing which, the mind is washed of its impurity.”
+
+## 19
+
+> Subheading: Kṛṣṇa manifests countless cows and calves —
+
+The first line of Śrīmad-Bhāgavatam 10.12.3.
+
+## 20
+
+“One, ten, a hundred, a thousand, *ayuta*, *lakṣa*, *niyuta*, *koṭi*, *arbuda*, *vṛnda*, *kharva*, *nikharva*, *śaṅkha*, *padma*, *sāgara*, *antya*, *madhya* and *parārdha* — each in turn ten times the one before.”
+
+## 22
+
+> Subheading: The countless lords of Vaikuṇṭha and lords of universes manifested by Kṛṣṇa praise Kṛṣṇa —
+
+## 23
+
+> Subheading: The pastime manifests from Kṛṣṇa and is withdrawn into Kṛṣṇa Himself —
+
+## 24
+
+> Subheading: Brahmā is astonished and swoons; on coming to, by Kṛṣṇa's mercy he understands Kṛṣṇa's majesty —
+
+## 25
+
+> Subheading: Brahmā confesses that he cannot ascertain the glory of Kṛṣṇa, who is *adhokṣaja* —
+
+## 27
+
+> Subheading: (Śrīmad-Bhāgavatam 10.14.38) —
+
+Brahmā stole the calves, and as a result Śrī Kṛṣṇa crushed his pride. Then Brahmā glorifies Kṛṣṇa's affection for His devotees and His being beyond the senses (*adhokṣajatva*):
+
+**prabho**, **jānantaḥ** (the learned, who fancy that they know Your inconceivable, endless qualities) **eva** **jānantu**; **bahūktyā** (by much talk) **kim**? (a flood of words bears no fruit — such is the sense); **tava** **vaibhavam** **me** (to me, Brahmā) — **manasaḥ** **vapuṣaḥ** **vācaḥ** (to body, mind and speech) — **na** **gocaraḥ** (is not accessible: they have no right even to touch it).
+
+## 28
+
+> Subheading: Śrī Vṛndāvana-dhāma is non-different from Kṛṣṇa —
+
+## 29
+
+> Subheading: In one part of Vṛndāvana are the countless millions of Vaikuṇṭhas of Paravyoma —
+
+Scripture says that Vṛndāvana extends for “sixteen *krośas*.” In just one part of it all the Vaikuṇṭhas and the vast universes are manifest.
+
+## 30
+
+> Subheading: Pointing to a single drop of the boundless ocean of Kṛṣṇa's glory —
+
+## 31
+
+> Subheading: Brahmā[^31-1] is overwhelmed as he describes Kṛṣṇa's majesty, which lies beyond speech and mind —
+
+## 33
+
+> Subheading: The Lord of the three creations, the One without a second, the form worshipped by the imperishable lords of the worlds — (Śrīmad-Bhāgavatam 3.2.21) —
+
+For the explanation and the *kārikās* on this verse, see the *Laghu-bhāgavatāmṛta*, Pūrva-khaṇḍa, 302–323: there, refuting the opponent's view (*pūrva-pakṣa*) that “Śrī Kṛṣṇa is a *vilāsa* of Nārāyaṇa,” the author sets out the conclusion (*uttara-pakṣa*).
+
+After Śrī Kṛṣṇa's departure, Śrīla Uddhava, stricken with the grief of separation from Him, tells Śrī Vidura of Kṛṣṇa's childhood pastimes and His supreme majesty:
+
+**svayam** (Bhagavān) **tu** **asāmyātiśayaḥ** (He who has no equal and none higher — *asamordhva*), **try-adhīśaḥ** (the Lord and Master: of the abodes Goloka, Paravyoma and Devī-dhāma; or of the abodes Gokula, Mathurā and Dvārakā; or of the three creations — the causal, the aggregate [Hiraṇyagarbha] and the individual [Virāṭ]; or of Viṣṇu, Brahmā and Śiva, the presiding lords of goodness, passion and ignorance; or of the energies — *cit*, *jīva* and *māyā*; or of the three *vyāhṛtis* — *bhūḥ*, *bhuvaḥ* and *svaḥ*; or of the three worlds — heaven, earth and the netherworld), **svārājya-lakṣmy-āpta-samasta-kāmaḥ** (who has gained every enjoyment simply by the wealth of His own supreme nature of spirit and bliss) **baliṁ** (tribute, or an offering) **haradbhiḥ** (bringing) **cira-loka-pālaiḥ** (by the age-old guardians of the worlds — Brahmā, Rudra and others) **kirīṭa-koṭīḍita-pāda-pīṭhaḥ** (He whose footstool, the throne of His feet, is praised, that is, saluted, by the tips of crowns; this connects with the next verse: “that He reported to Ugrasena pains us”).
+
+## 34
+
+> Subheading: Kṛṣṇa: (1) no one is equal to Him and no one above Him —
+
+## 35
+
+> Subheading: (Brahma-saṁhitā 5.1) —
+
+See Ādi 2.107.
+
+## 36
+
+> Subheading: Kṛṣṇa: (2) the Lord of the three (*tryadhīśa*); (a) the first (external) meaning, concerning the *guṇa-avatāras* —
+
+Brahmā creates the world, Viṣṇu maintains it, and Hara destroys it. All three are servants who carry out Kṛṣṇa's orders. Kṛṣṇa alone is the Lord of all.
+
+## 37
+
+> Subheading: (Śrīmad-Bhāgavatam 2.6.32) —
+
+See Madhya 20.318.
+
+## 38
+
+> Subheading: (b) The second (external) meaning, concerning the *puruṣa-avatāras* —
+
+## 39
+
+Mahāviṣṇu is Kāraṇodaśāyī, the Indweller of all; Padmanābha, the creator of Brahmā, is Garbhodaśāyī, Hiraṇyagarbha, the aggregate, or subtle, Indweller; and Kṣīrodakaśāyī Viṣṇu is Virāṭ, the individual, or gross, Indweller.
+
+## 41
+
+> Subheading: (Brahma-saṁhitā 5.48)[^41-1] —
+
+See Ādi 5.71.
+
+## 42
+
+> Subheading: (c) The third (confidential) meaning, concerning the abodes under Kṛṣṇa's control —
+
+The three abodes are: (1) the inner abode, Goloka; (2) the middle abode, Paravyoma; (3) the outer abode, Devī-dhāma.
+
+## 43
+
+> Subheading: (1) The description of the inner abode, Goloka-Vṛndāvana —
+
 ---
 
 [^9-1]: The edition apparently reads “10th canto, ch. 14, verse 29” (the scan is unclear); the verse is Śrīmad-Bhāgavatam 10.14.21.
 
 [^13-1]: The edition reads the verse as *kuto ’pare ye* (checked against the scan), and the *anvaya* follows this reading; our text has *kuto ’varā ye*.
+
+[^31-1]: So in the edition (checked against the scan): “Brahmā's”; in verse 31 it is the Lord Himself (Mahāprabhu) who is overwhelmed.
+
+[^41-1]: The edition reads “ch. 5, verse 44” (checked against the scan); the verse is Brahma-saṁhitā 5.48.

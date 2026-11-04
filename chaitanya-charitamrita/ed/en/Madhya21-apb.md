@@ -31,3 +31,19 @@ You are endless, and so those gods did not find Your limit. You Yourself do not 
 ## 17–20
 
 When Kṛṣṇa descended, Brahmā, wishing to test His glory, stole the calves and the cowherd boys. Then Kṛṣṇa, by His inconceivable power, manifested everything, both material and transcendental. By manifesting spiritual cows, cowherd boys and countless Vaikuṇṭha realities, He performed a transcendental creation. By creating countless universes, each with its own Brahmā, He performed a material creation. Whoever hears this wondrous account has the impurity of the mind washed away. The words “countless calves of Kṛṣṇa” mean that Kṛṣṇa's calves and cowherd boys appeared in countless forms.
+
+## 27
+
+“Let those who say, ‘We know the truth about Kṛṣṇa,’ know it; I do not wish to say much. O Lord, I say only this: Your glories lie beyond the reach of my mind, my body and my speech.”
+
+## 29
+
+In Vraja-maṇḍala there are twelve forests, which together cover eighty-four *krośas*. Among them the forest called Vṛndāvana extends for 16 *krośas*, from the border of the present town of Vṛndāvana to Nandagrāma and Vṛṣabhānupura.
+
+## 30
+
+*Śākhā-candra-nyāya*, the maxim of the moon on the branch: just as one points out the moon by showing a branch of a tree, so by showing one part of some truth one can give a little knowledge of the whole. This maxim is called *śākhā-candra-nyāya*.
+
+## 33
+
+He Himself is the Lord of Brahmā, Viṣṇu and Śiva, and so no one is equal to Him or above Him. By the wealth of His own kingdom (*svārājya-lakṣmī*) He has every desire fulfilled. The age-old guardians of the worlds come to bring Him tribute; praising His footstool, they bow the crowns that shine on their heads, and the crowns ring out.
