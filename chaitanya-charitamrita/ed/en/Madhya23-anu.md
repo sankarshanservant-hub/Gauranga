@@ -86,8 +86,92 @@ When the nine sprouts of *prīti* — the signs of *bhāva* — described above 
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 19, verse 15) —
 
+Hearing of the curse of Śṛṅgī, son of the sage Śamīka, Mahārāja Parīkṣit took the vow of *prāyopaveśana* — fasting until his departure from this world — on the bank of the Gaṅgā, and became absorbed in thought of Kṛṣṇa. Then many sages came to him. He honored them as was proper, described the *brāhmaṇa's* curse as an auspicious boon that gave him the opportunity to hear *hari-kathā*, and asked the sages to chant *hari-kathā* without cease —
+
+**he viprāḥ**, (you) **devī** (the goddess) **gaṅgā** **ca** **īśe** **dhṛta-cittam** (who has given his heart to the Lord) **tam** (such) **mā** (me) **upayātam** (surrendered) **pratiyantu** (know); **dvijopasṛṣṭaḥ** (sent by the *brāhmaṇa*) **kuhakaḥ** **takṣakaḥ** **vā** **alaṁ** **daśatu**, **viṣṇu-gāthāḥ** (the accounts of Viṣṇu) **gāyata** (you chant).
+
+## 22
+
+> Subheading: (2) *avyartha-kālatva* and (3) detachment from sense gratification —
+
+The enjoyments of this world and the next, perfections such as *aṇimā*, sense gratification and the like do not befit a devotee in whom *rati* has arisen, and he has no need of any of them.
+
+## 23
+
+> Subheading: Even while serving Kṛṣṇa with all the senses, the devotee filled with *bhāva* feels no satiety — a spiritual dissatisfaction full of wonder — (*Hari-bhakti-sudhodaya*, Chapter 12, verse 38) —
+
+**bhaktāḥ** **aniśam** (at all times) **vāgbhiḥ** **stuvantaḥ**, **manasā** **smarantaḥ**, **tanvā** **namantaḥ** **api**, **na** **tṛptāḥ** (are); **sravan-netra-jalāḥ** (with tears streaming from their eyes) **samagram** **āyuḥ** **hareḥ** (to Hari) **eva** **samarpayanti**.
+
+## 24
+
+> Subheading: The example of Bharata, detached from enjoying anything but Kṛṣṇa — (*Śrīmad-Bhāgavatam*, Canto 5, Chapter 14, verse 43) —
+
+Before Parīkṣit, Śrīla Śukadeva glorifies the greatness of the qualities of the *mahā-bhāgavata* Bharata — his practice of pure worship of Hari —
+
+**yaḥ** (Bharata) **uttamaśloka-lālasaḥ** (he whose longing — ardent craving — was for Uttamaśloka; yearning for Kṛṣṇa) **hṛdi-spṛśaḥ** (dear to the heart) **dustyajān** (hard to give up) **suhṛd-rājyam** (friends and kingdom — a *dvandva* compound) **dāra-sutān** **yuvā eva** (**mala-vat**) **jahau** (gave up; construed with the previous verse: no other king can follow in the footsteps of this son of Ṛṣabha).
+
+## 25
+
+> Subheading: (4) *māna-śūnyatā* and (5) *āśā-bandha* —
+
+## 26
+
+> Subheading: An example of freedom from pride — (the words of the *Padma Purāṇa*) —
+
+**narendrāṇām** **śikhā-maṇiḥ** (the crest jewel of the race of kings) **eṣaḥ** **harau** **ratiṁ** **vahan** (nourishing) **ari-pure** (in the abode of his enemies) **bhikṣām** **aṭan** (wandering for it) **śva-pākam** (the very lowest) **api** **vandate**.
+
+## 27
+
+> Subheading: The words of one filled with *āśā-bandha* — (the words of Śrī Prabhupāda quoted by Śrī Rūpa Gosvāmī) —
+
+(**mama**) **premā** **vā** **śravaṇādi-bhaktiḥ** **api** **athavā** **vaiṣṇavaḥ** (full of meditation on Viṣṇu) **yogaḥ** (pure *bhakti-yoga*)[^27-1], **jñānam** (being fixed in Brahman) **vā**, **śubha-karma** (*daiva-varṇāśrama* and so on) **vā**, **aho** (alas!) **kiyat** **sat-jātiḥ** (the honor of birth in a good family) **api** **vā** **na asti**, **he gopījana-vallabha**, **hīnārthādhika-sādhake** (who gives a fruit greater than one's merit warrants) **tvayi** **acchedya-mūlā** (which can in no way be severed) **satī**, **hā hā** **mat** (my) **āśā** **mām** **vyathayate** **eva**.
+
+## 28
+
+> Subheading: (6) *samutkaṇṭhā* and (7) a constant taste for singing the name —
+
+## 29
+
+> Subheading: The words of a devotee filled with *samutkaṇṭhā* — (the words of Bilvamaṅgala, *Śrī Kṛṣṇa-karṇāmṛta*, verse 32) —
+
+See Madhya 2.61.
+
+## 30
+
+> Subheading: An example of singing the name — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, the “Rati-bhakti-laharī,” verse 38) —
+
+**he govinda**, **adya** **rodana-bindu-makaranda-syandi-dṛg-indīvarā** (She whose eyes — two blue lotuses [*indīvara*] — shed teardrops like flower nectar [*makaranda*]) **madhura-svara-kaṇṭhī** (with a beautiful voice) **bālā** (Rādhikā) **tava** **nāmāvalīm** **gāyati**.
+
+## 31
+
+> Subheading: (8) attachment to describing Kṛṣṇa's qualities and (9) love for the places where Kṛṣṇa lived —
+
+## 32
+
+> Subheading: The description of the sweetness of Kṛṣṇa's qualities — (*Śrī Kṛṣṇa-karṇāmṛta*, verse 92) —
+
+See Madhya 21.136.
+
+## 33
+
+> Subheading: An example of love for Kṛṣṇa's beloved places — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, the “Sādhana-bhakti-laharī,” verse 156) —
+
+**he puṇḍarīkākṣa**, **kadā** **aham** **yamunā-tīre** (on the bank of the Kālindī) **tava** **nāmāni** **kīrtayan**, **udbāṣpaḥ** (with eyes full of tears) **tāṇḍavam** (dance) **racayiṣyāmi** (shall perform)?
+
+## 34
+
+> Subheading: Thus far the characteristics of *bhāva-bhakti* have been described; now, the description of the characteristics of (3) *prema-bhakti* —
+
+## 35
+
+> Subheading: A Vaiṣṇava filled with love for Kṛṣṇa — a pure devotee — is beyond the understanding of even the best and most discerning worldly critic —
+
+Even a discerning *paṇḍita* cannot understand the words, acts and gestures (*mudrās*) of a devotee in whom *prema* has arisen.
+
 ---
 
 [^6-1]: *Bhakti-rasāmṛta-sindhu* 1.3.6.
 
 [^14-15-1]: *Śrīmad-Bhāgavatam* 11.19.36.
+
+[^27-1]: The translation of the verse understands this differently: “no Vaiṣṇava perfections.”

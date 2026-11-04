@@ -39,3 +39,27 @@ First faith; from it, the company of sādhus; from that, *bhajana-kriyā* (the p
 ## 21
 
 “You *brāhmaṇas*, and Gaṅgā-devī, know that I have surrendered and that my heart is fixed on (given to) Kṛṣṇa. Now let the magical creature sent by the *brāhmaṇa*, or Takṣaka himself, bite me as he likes; and you, go on singing about Kṛṣṇa (*kṛṣṇa-kathā*).”
+
+## 23
+
+Tears stream from the devotees' eyes as they praise the Lord with words, remember Him with the mind and bow to Him with the body — and still they cannot be satisfied. By such acts they offer their whole life to Śrī Hari (that is, spend it for His sake).
+
+## 24
+
+Mahārāja Bharata longed to sing of Kṛṣṇa, Uttamaśloka, and so, while still young, he gave up like stool his heart-captivating wife, his sons, friends, kingdom and all else. This is the sign of detachment in a person in whom *bhāva* has arisen.
+
+## 26
+
+Filled with *rati* for Hari, this crest jewel of kings, begging alms in the city of his enemies, offers respect even to a *caṇḍāla*.
+
+## 27
+
+“I have no *prema*, no hearing and so on, no *bhakti*, no Vaiṣṇava *yoga*, no knowledge, no pious deeds, no good birth — nothing at all. O Gopījana-vallabha, You fulfill the aims of those who have nothing (*akiñcana*). And in my heart there is a pure hope turned toward You, whose roots cannot be severed — and it torments me.”
+
+## 30
+
+“O Govinda, this young Rādhikā today, with teardrops in Her lotus eyes, is singing Your names in a sweet voice.”
+
+## 33
+
+“O Puṇḍarīkākṣa, when will I, chanting Your names, dance on the bank of the Yamunā with tears in my eyes?”
