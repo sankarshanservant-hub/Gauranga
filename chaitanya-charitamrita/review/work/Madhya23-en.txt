@@ -382,6 +382,7 @@ w: sleeps  in the world  at night  the Lord  His awareness hidden
 w: we  like  O friend  can it be  deeply  pierced  in heart
 w: of the lotus-eyed one  by the smile  generous  by the playful glance
 tr: (The queens of Dvārakā:) “O kurarī bird, you lament without sleep and do not even lie down, while at night the Lord sleeps in this world, His awareness hidden. Can it be, O friend, that like us you have had your heart deeply pierced by the generous, playful glance and smile of the lotus-eyed one?” (Śrīmad-Bhāgavatam, 10.90.15)
+fn: *Anubhāṣya*: the queens’ hearts were absorbed in Kṛṣṇa, and though they were right beside Him, the feeling “We are losing Him!” never left them; as if mad, they spoke thus. The edition’s heading: “even near Kṛṣṇa the queens, from *prema-vaicittya*, fear separation from Him”.
 
 ## 62
 w: of the king of Vraja  the son  Kṛṣṇa  of heroes  the crest-jewel
@@ -394,6 +395,7 @@ w: Kṛṣṇa  indeed  Bhagavān  Himself
 w: in whom  eternally  all
 w: shine  great  qualities
 tr: “Kṛṣṇa, Bhagavān Himself, is the crown jewel of all heroes, for in Him all great qualities shine eternally.” (Bhakti-rasāmṛta-sindhu, 2.1.17)
+fn: *Anubhāṣya*: in Kṛṣṇa all great qualities shine eternally.
 
 ## 64
 w: the goddess  full of Kṛṣṇa  is declared
@@ -401,11 +403,12 @@ w: Rādhikā  the supreme  deity
 w: all  Lakṣmīs  containing  all
 w: splendour  the enchantress  supreme
 tr: “The goddess (*devī*) Rādhikā is declared to be full of Kṛṣṇa (*kṛṣṇa-mayī*). She is the supreme deity; all the Lakṣmīs are within Her; She is the whole of splendour (*sarva-kānti*) and the supreme enchantress.” (Bṛhad-gautamīya-tantra)
+fn: The same verse as Ādi 4.83; translation as there. The edition’s heading: “eight epithets of Śrī Rādhikā — words of the *Bṛhad-gautamīya-tantra*”.
 
 ## 65
 w: endless  of Kṛṣṇa  qualities  sixty-four  principal
 w: each  one  quality  hearing  are soothed  of the devotees  the ears
-tr: Kṛṣṇa’s qualities are endless, and sixty-four of them are principal. The devotees’ ears are soothed on hearing of each one of them.
+tr: Kṛṣṇa’s qualities are endless, and sixty-four of them are principal. Hearing of each one of them delights the devotees’ ears.
 
 ## 66
 w: this  hero  with beautiful limbs
@@ -413,6 +416,7 @@ w: with all  auspicious  marks  endowed
 w: delightful to see  with splendour  endowed
 w: strong  with youth  endowed
 tr: “This hero (1) has beautiful limbs, (2) bears all auspicious marks, and is (3) delightful to see, (4) radiant, (5) strong and (6) ever youthful.” (Bhakti-rasāmṛta-sindhu, 2.1.23)
+fn: *Anubhāṣya*: the auspicious marks are the thirty-two marks described in the *sāmudrika-śāstra* and the sixteen lines on the body; His youth is the eternal age of *kaiśora*.
 
 ## 67
 w: of many  wondrous  languages  the knower
@@ -476,6 +480,7 @@ w: of consciousness and bliss  a dense form
 w: under His control  all  perfections  are
 w: by all  perfections  served
 tr: “(54) His limbs are concentrated being, consciousness and bliss — His form is dense consciousness and bliss; and (55) all perfections are under His control and serve Him.” (Bhakti-rasāmṛta-sindhu, 2.1.38)
+fn: *Anubhāṣya*: in one reading the last two quarters, beginning with *sva-vaśa…*, are absent.
 
 ## 76
 w: now  are described  qualities  five
@@ -483,6 +488,7 @@ w: which  in the Lord of Lakṣmī and others  are present
 w: inconceivable  great  power
 w: millions of  universes  in His body
 tr: “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has inconceivable great power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)
+fn: *Amṛta-pravāha-bhāṣya*: these five are found neither in Śiva and the other gods nor in the *jīvas*; in Kṛṣṇa they are present in full.
 
 ## 77
 w: of all the avatāras  the seed
@@ -496,7 +502,7 @@ w: all  wonders  astonishing
 w: of pastimes  of waves  the ocean
 w: incomparable  sweet  with love
 w: adorned  of His beloved ones  the circle
-tr: “(61) He is an ocean whose waves are pastimes that astonish even all wonders; (62) the circle of His beloved ones is adorned with incomparable, sweet love.” (Bhakti-rasāmṛta-sindhu, 2.1.41)
+tr: “(61) He is an ocean whose waves are pastimes more wondrous than all wonders; (62) the circle of His beloved ones is adorned with incomparable, sweet love.” (Bhakti-rasāmṛta-sindhu, 2.1.41)
 
 ## 79
 w: of the three worlds  the minds  attracting
@@ -504,6 +510,7 @@ w: of the flute  with the sweet  call
 w: unequalled and unsurpassed  of form  by the beauty
 w: astonishing  the moving and the unmoving
 tr: “(63) The sweet call of His flute attracts the minds of the three worlds; (64) the beauty of His form, which none can equal or surpass, astonishes all beings, moving and unmoving.” (Bhakti-rasāmṛta-sindhu, 2.1.42)
+fn: *Anubhāṣya*: the three worlds — Goloka, Paravyoma and Devī-dhāma.
 
 ## 80
 w: pastimes  by love  the abundance of beloveds
@@ -511,6 +518,7 @@ w: the sweetness  of flute and of form
 w: thus  unique  is declared  of Govinda  the set of four
 w: thus  qualities  of four  kinds  sixty-four  are described
 tr: “His pastimes, the abundance of beloved ones bound to Him by love, and the sweetness of His flute and of His form — these four are declared to be Govinda’s unique qualities. Thus sixty-four qualities of four kinds have been described.” (Bhakti-rasāmṛta-sindhu, 2.1.43–44)
+fn: *Amṛta-pravāha-bhāṣya*: the four kinds correspond to four levels — ordinary *jīvas*, Śiva and the other gods, Nārāyaṇa and the other forms of the Lord, and Govinda Himself.
 
 ## 81
 w: endless  qualities  of Śrī Rādhikā  twenty-five  principal
@@ -556,7 +564,8 @@ tr: The hero and the heroine are the two supports (*ālambana*) of *rasa*, and t
 ## 88
 w: in the same way  in servitude  the servants  in friendship  the friends
 w: how  rasa  arises  hear  its  characteristics
-tr: In the same way, in servitude the servants and in friendship the friends are its supports. Now hear the characteristics of how *rasa* arises.
+tr: In the same way, in servitude the servants and in friendship the friends are its supports. Now hear how *rasa* arises and what its marks are.
+fn: *Anubhāṣya*: the best supports in *dāsya-rasa* are the son of the king of Vraja and Citraka, Raktaka, Patraka and others; in *sakhya-rasa*, Śrīdāmā, Sudāmā, Subala and others; in *vātsalya*, Nanda, Yaśodā and others.
 
 ## 89–91
 w: by devotion  washed away  whose faults
@@ -571,7 +580,7 @@ w: of the devotees  in the heart  shining
 w: by impressions  two  illumined
 w: rati  bliss  in form  indeed
 w: being led  indeed  to the state of rasa
-tr: “Their faults have been washed away by devotion, and their hearts are clear and bright. They are attached to the Śrīmad-Bhāgavatam and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+tr: “Their faults have been washed away by devotion, and their hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 ## 92
 w: by Kṛṣṇa and the rest  by the vibhāvas and the rest
