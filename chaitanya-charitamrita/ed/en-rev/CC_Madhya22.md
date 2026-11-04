@@ -1449,7 +1449,7 @@ tadīya  Tulasī  Vaiṣṇavas  Mathurā  the Bhāgavatam
 ei cārira sevā haya kṛṣṇera abhimata  
 of these four  service  is  of Kṛṣṇa  the desire
 
-(121) *Tadīya*, “His own,” means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Kṛṣṇa desires service to these four.
+(121) *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Kṛṣṇa desires service to these four.
 
 কৃষ্ণার্থে অখিল চেষ্টা, তৎকৃপাবলোকন ৷  
 জন্ম-দিনাদি-মহোৎসব লঞা ভক্তগণ ॥ ১২২ ॥
@@ -1931,7 +1931,7 @@ by which  one obtains  to Kṛṣṇa  in love  service
 eta ta’ kahilum̐ ‘abhidheya’-vivaraṇa  
 thus  indeed  I have told  of the abhidheya  the description
 
-(161) That by which one obtains loving service to Kṛṣṇa (*prema-sevā*) — thus I have described the *abhidheya*, the means.[^63]
+(161) Thus I have described the *abhidheya*, the means by which one obtains loving service to Kṛṣṇa (*prema-sevā*).[^63]
 
 অভিধেয়, সাধন-ভক্তি এবে কহিলুঁ সনাতন ৷  
 সংক্ষেপে কহিলুঁ, বিস্তার না যায় বর্ণন ॥ ১৬২ ॥

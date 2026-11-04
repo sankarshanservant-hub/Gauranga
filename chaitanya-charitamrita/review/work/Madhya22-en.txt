@@ -749,7 +749,7 @@ fn: *Tadīya*, “what is His own”: by verse 121, Tulasī, the Vaiṣṇavas, 
 ## 121
 w: tadīya  Tulasī  Vaiṣṇavas  Mathurā  the Bhāgavatam
 w: of these four  service  is  of Kṛṣṇa  the desire
-tr: *Tadīya*, “His own,” means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Kṛṣṇa desires service to these four.
+tr: *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Kṛṣṇa desires service to these four.
 
 ## 122
 w: for Kṛṣṇa  all  endeavours  of His  mercy  looking for
@@ -1003,7 +1003,7 @@ fn: *Anubhāṣya* (heading): this is *bhāva-bhakti*, or *rati* — love for K�
 ## 161
 w: by which  one obtains  to Kṛṣṇa  in love  service
 w: thus  indeed  I have told  of the abhidheya  the description
-tr: That by which one obtains loving service to Kṛṣṇa (*prema-sevā*) — thus I have described the *abhidheya*, the means.
+tr: Thus I have described the *abhidheya*, the means by which one obtains loving service to Kṛṣṇa (*prema-sevā*).
 fn: *Anubhāṣya* (heading): until *bhāva*, or *rati*, awakens, the *abhidheya* is *sādhana*; from it the *prayojana* is obtained.
 
 ## 162
