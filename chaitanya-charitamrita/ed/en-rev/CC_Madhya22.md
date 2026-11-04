@@ -36,7 +36,7 @@ thus  indeed  I have told  of sambandha-tattva  the analysis
 veda-śāstre upadeśe, kṛṣṇa — eka sāra  
 of the Vedas and śāstras  in the teaching  Kṛṣṇa  the one  essence
 
-(3) “Thus I have explained to you the truth of *sambandha*. In the teaching of the Vedas and the śāstras, Kṛṣṇa is the one essence.[^3]
+(3) “Thus I have explained to you the truth of *sambandha*. All the Vedas and śāstras teach that Kṛṣṇa is the one essence.[^3]
 
 এবে কহি, শুন, অভিধেয়-লক্ষণ ৷  
 যাহা হৈতে পাই — কৃষ্ণ, কৃষ্ণপ্রেমধন ॥ ৪ ॥
@@ -92,7 +92,7 @@ as His own parts and separated parts  in the form  having become  expanded
 ananta vaikuṇṭha-brahmāṇḍe karena vihāra  
 in endless  Vaikuṇṭhas and universes  He performs  pastimes
 
-(8) Expanding Himself as His own parts (*svāṁśa*) and separated parts (*vibhinnāṁśa*), He sports in endless Vaikuṇṭhas and universes.[^6]
+(8) Expanding Himself as His own parts (*svāṁśa*) and separated parts (*vibhinnāṁśa*), He enjoys His pastimes in endless Vaikuṇṭhas and universes.[^6]
 
 স্বাংশ-বিস্তার — চতুর্ব্ব্যূহ, অবতারগণ ৷  
 বিভিন্নাংশ জীব — তাঁর শক্তিতে গণন ॥ ৯ ॥
@@ -328,7 +328,7 @@ not  worship  disregard
 sthānād bhraṣṭāḥ patanty adhaḥ  
 from their position  fallen  they fall  down
 
-(28) “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and go down.” (Śrīmad-Bhāgavatam, 11.5.3)
+(28) “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and sink into the depths.” (Śrīmad-Bhāgavatam, 11.5.3)
 
 জ্ঞানী জীবন্মুক্তদশা পাইনু করি’ মানে ৷  
 বস্তুতঃ বুদ্ধি ‘শুদ্ধ’ নহে কৃষ্ণভক্তি বিনে ॥ ২৯ ॥
@@ -522,7 +522,7 @@ being carried away  by the river of time
 kvacit tarati kaścana  
 at times  crosses over  someone
 
-(44) “It is not so that I, lowly as I am, cannot see Acyuta: I will surely see Him. For even among those carried away by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)[^18]
+(44) “But no — even I, lowly as I am, will surely see Acyuta. For even among those swept along by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)[^18]
 
 কোন ভাগ্যে কারো সংসার ক্ষয়োন্মুখ হয় ৷  
 সাধুসঙ্গে তরে, কৃষ্ণে রতি উপজয় ॥ ৪৫ ॥
@@ -664,7 +664,7 @@ of association with those who associate with the Lord
 martyānāṁ kim utāśiṣaḥ  
 of mortals  what  then  the blessings
 
-(55) “We cannot compare even heaven or liberation with a moment of association with those who associate with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)[^24]
+(55) “We would not compare even heaven or liberation with a single moment in the company of those who are ever with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)[^24]
 
 কৃষ্ণ কৃপালু অর্জ্জুনেরে লক্ষ্য করিয়া ৷  
 জগতেরে রাখিয়াছেন উপদেশ দিয়া ॥ ৫৬ ॥
@@ -674,7 +674,7 @@ Kṛṣṇa  merciful  Arjuna  the aim  making
 jagatere rākhiyāchena upadeśa diyā  
 the world  has protected  instruction  giving
 
-(56) Merciful Kṛṣṇa, speaking to Arjuna, has protected the whole world by giving this instruction:
+(56) Addressing Arjuna, merciful Kṛṣṇa protected the whole world with this instruction:
 
 সর্ব্বগুহ্যতমং ভূয়ঃ শৃণু মে পরমং বচঃ ৷  
 ইষ্টোঽসি মে দৃঢ়মিতি ততো বক্ষ্যামি তে হিতম্ ॥ ৫৭ ॥
@@ -812,7 +812,7 @@ by the degree of rati and prema  devotees  higher and highest
 ekādaśa skandhe tāra kariyāche lakṣaṇa  
 in the eleventh  canto  their  has been given  description
 
-(68) According to the degree of their *rati* and prema, devotees are higher and highest. The Eleventh Canto has described their characteristics.
+(68) According to the degree of their *rati* and prema, devotees stand at different levels. The Eleventh Canto has described their characteristics.
 
 সর্ব্বভূতেষু যঃ পশ্যেদ্ভগবদ্ভাবমাত্মনঃ ৷  
 ভূতানি ভগবত্যাত্মন্যেষ ভাগবতোত্তমঃ ॥ ৬৯ ॥
@@ -864,7 +864,7 @@ all  the great qualities  in the person of a Vaiṣṇava
 kṛṣṇa-bhakte kṛṣṇera guṇa, sakali sañcāre  
 into Kṛṣṇa’s devotee  Kṛṣṇa’s  qualities  all  pass
 
-(72) All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualities pass into Kṛṣṇa’s devotee.
+(72) All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualities pass into His devotee.
 
 যস্যাস্তি ভক্তির্ভগবত্যকিঞ্চনা  
 সর্ব্বৈর্গুণৈস্তত্র সমাসতে সুরাঃ ৷  
@@ -1267,7 +1267,7 @@ eternally perfect  for Kṛṣṇa  love  something to be produced  ever  is not
 śravaṇādi śuddha-citte karaye udaya  
 hearing and the rest  in the purified  heart  cause  its rising
 
-(104) Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices make it rise in the purified heart.[^39]
+(104) Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices awaken it in the purified heart.[^39]
 
 এই ত’ সাধনভক্তি — দুই ত’ প্রকার ৷  
 এক ‘বৈধী ভক্তি’, ‘রাগানুগা-ভক্তি’ আর ॥ ১০৫ ॥
@@ -1287,7 +1287,7 @@ of rāga  devoid  a person  worships  of scripture  by the command
 ‘vaidhī-bhakti’ bali’ tāre sarva-śāstre gāya  
 vaidhī-bhakti  calling  it  in all scriptures  they sing
 
-(106) When a person in whom *rāga*, spontaneous love, has not awakened worships by the command of scripture, all the scriptures call it *vaidhī-bhakti*.
+(106) When one in whom *rāga*, spontaneous love, has not yet awakened worships at the bidding of the śāstra, the scriptures call this *vaidhī-bhakti*.
 
 তস্মাদ্ভারত সর্ব্বাত্মা ভগবান্ হরিরীশ্বরঃ ৷  
 শ্রোতব্যঃ কীর্ত্তিতব্যশ্চ স্মর্ত্তব্যশ্চেচ্ছতাভয়ম্ ॥ ১০৭ ॥
@@ -1339,7 +1339,7 @@ of many limbs  of sādhana-bhakti  great  indeed  the extent
 saṅkṣepe kahiye kichu sādhanāṅga-sāra  
 in brief  I shall tell  something  of the limbs of practice  the essence
 
-(110) *Sādhana-bhakti*, with its many limbs, is very vast. In brief I shall tell you something of the essence of its limbs.
+(110) *Sādhana-bhakti*, with its many limbs, is very vast. In brief I shall tell you something of their essence.
 
 গুরুপাদাশ্রয়, দীক্ষা, গুরুর সেবন ৷  
 সদ্ধর্ম্মশিক্ষা-পৃচ্ছা, সাধুমার্গানুগমন ॥ ১১১ ॥
@@ -1369,7 +1369,7 @@ the dhātrī  aśvattha  cows  brāhmaṇas  Vaiṣṇavas  honouring
 sevā-nāmāparādhādi dūre visarjana  
 in service  to the Name  offences and the like  far away  casting off
 
-(113) honouring the *dhātrī* (*āmalakī*) and *aśvattha* trees, the cows, the brāhmaṇas and the Vaiṣṇavas; casting far away offences in service, offences to the Holy Name and the like;
+(113) honouring the *dhātrī* (*āmalakī*) and *aśvattha* trees, the cows, the brāhmaṇas and the Vaiṣṇavas; keeping far from offences in service, offences to the Holy Name and the like;
 
 অবৈষ্ণব-সঙ্গত্যাগ, বহুশিষ্য না করিব ৷  
 বহুগ্রন্থ-কলাভ্যাস-ব্যাখ্যান বর্জ্জিব ॥ ১১৪ ॥
@@ -1379,7 +1379,7 @@ of non-Vaiṣṇavas  company  giving up  many  disciples  not  I shall make
 bahu-grantha-kalābhyāsa-vyākhyāna varjiba  
 of many  books  partial study  expounding  I shall avoid
 
-(114) giving up the company of non-Vaiṣṇavas; not taking many disciples; not studying bits of many books, and not expounding them for argument;
+(114) giving up the company of non-Vaiṣṇavas; not taking many disciples; not dabbling in many books, nor expounding them for the sake of argument;
 
 হানি লাভে সম, শোকাদির বশ না হইব ৷  
 অন্যদেব, অন্যশাস্ত্র নিন্দা না করিব ॥ ১১৫ ॥
@@ -1409,7 +1409,7 @@ hearing  glorifying  remembering  worship  offering prayers
 paricaryā, dāsya, sakhya, ātma-nivedana  
 attending  servitude  friendship  offering of the self
 
-(117) hearing, glorifying, remembering, worship, offering prayers (*vandana*), attending on the Lord (*paricaryā*), servitude (*dāsya*), friendship (*sakhya*) and the offering of oneself (*ātma-nivedana*);
+(117) hearing, glorifying, remembering, worshipping, offering prayers (*vandana*), attending on the Lord (*paricaryā*), servitude (*dāsya*), friendship (*sakhya*) and the offering of oneself (*ātma-nivedana*);
 
 অগ্রে নৃত্য, গীত, বিজ্ঞপ্তি, দণ্ডবন্নতি ৷  
 অভ্যুত্থান, অনুব্রজ্যা, তীর্থগৃহে গতি ॥ ১১৮ ॥
@@ -1449,7 +1449,7 @@ tadīya  Tulasī  Vaiṣṇavas  Mathurā  the Bhāgavatam
 ei cārira sevā haya kṛṣṇera abhimata  
 of these four  service  is  of Kṛṣṇa  the desire
 
-(121) *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Kṛṣṇa desires service to these four.
+(121) *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Service to these four is what Kṛṣṇa desires.
 
 কৃষ্ণার্থে অখিল চেষ্টা, তৎকৃপাবলোকন ৷  
 জন্ম-দিনাদি-মহোৎসব লঞা ভক্তগণ ॥ ১২২ ॥
@@ -1459,7 +1459,7 @@ for Kṛṣṇa  all  endeavours  of His  mercy  looking for
 janma-dinādi-mahotsava lañā bhakta-gaṇa  
 of His birthday and the like  festivals  together with  the devotees
 
-(122) Doing all one’s endeavours for Kṛṣṇa; looking for His mercy; celebrating His birthday and other festivals with the devotees;
+(122) Making every endeavour for Kṛṣṇa’s sake; looking to His mercy; celebrating His birthday and other festivals with the devotees;
 
 সর্ব্বথা শরণাপত্তি, কার্ত্তিকাদি-ব্রত ৷  
 ‘চতুঃষষ্টি অঙ্গ’ এই পরম মহত্ত্ব ॥ ১২৩ ॥
@@ -1775,7 +1775,7 @@ out of longing  of the people of Vraja  the mood  he makes  following
 śāstra-yukti nāhi māne rāgānugāra prakṛti  
 of scripture  the arguments  does not  heed  of the rāgānugā  the nature
 
-(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^55]
+(148) Out of that longing he follows the mood of the people of Vraja. Such is the nature of *rāgānugā*: it does not wait upon the arguments of scripture.[^55]
 
 বিরাজন্তীমভিব্যক্তাং ব্রজবাসিজনাদিষু ৷  
 রাগাত্মিকামনুসৃতা যা সা রাগানুগোচ্যতে ॥ ১৪৯ ॥
@@ -1803,7 +1803,7 @@ not  here  scripture  nor  reasoning  and
 tal lobhotpatti-lakṣaṇam  
 that  of longing  of the arising  the sign
 
-(150) “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without depending on scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)[^56]
+(150) “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without waiting upon scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)[^56]
 
 বাহ্য, অভ্যন্তর, — ইহার দুই ত’ সাধন ৷  
 ‘বাহ্যে’ সাধক-দেহে করে শ্রবণ-কীর্ত্তন ॥ ১৫১ ॥
@@ -1847,7 +1847,7 @@ his own chosen  of Kṛṣṇa  dear one  behind  indeed  keeping close
 nirantara sevā kare antarmanā hañā  
 constantly  service  he does  with mind turned within  becoming
 
-(154) Keeping close behind the dear one of Kṛṣṇa whom he has chosen as his own ideal, he serves without cease, his mind turned within.[^58]
+(154) Keeping close behind the dear one of Kṛṣṇa whom his heart has chosen, he serves without cease, his mind turned within.[^58]
 
 কৃষ্ণং স্মরন্ জনঞ্চাস্য প্রেষ্ঠং নিজসমীহিতম্ ৷  
 তত্তৎকথা-রতশ্চাসৌ কুর্য্যাদ্বাসং ব্রজে সদা ॥ ১৫৫ ॥

@@ -23,7 +23,7 @@ fn: The same verse as Ādi 10.2 (= Madhya 13.2); translation as there.
 ## 3
 w: thus  indeed  I have told  of sambandha-tattva  the analysis
 w: of the Vedas and śāstras  in the teaching  Kṛṣṇa  the one  essence
-tr: “Thus I have explained to you the truth of *sambandha*. In the teaching of the Vedas and the śāstras, Kṛṣṇa is the one essence.
+tr: “Thus I have explained to you the truth of *sambandha*. All the Vedas and śāstras teach that Kṛṣṇa is the one essence.
 fn: The chapter continues the Lord’s instruction to Sanātana (Madhya 20–21). Heading of the edition: “in all the Vedas and śāstras Kṛṣṇa alone is established as the *sambandha*”.
 
 ## 4
@@ -53,7 +53,7 @@ fn: *Anubhāṣya*: the potency and its possessor are non-different. “Potency�
 ## 8
 w: as His own parts and separated parts  in the form  having become  expanded
 w: in endless  Vaikuṇṭhas and universes  He performs  pastimes
-tr: Expanding Himself as His own parts (*svāṁśa*) and separated parts (*vibhinnāṁśa*), He sports in endless Vaikuṇṭhas and universes.
+tr: Expanding Himself as His own parts (*svāṁśa*) and separated parts (*vibhinnāṁśa*), He enjoys His pastimes in endless Vaikuṇṭhas and universes.
 fn: Heading of the edition: in the countless Vaikuṇṭhas He sports in the forms of His own parts, the Viṣṇu forms, and in the universes in the forms of the jīvas.
 
 ## 9
@@ -174,7 +174,7 @@ w: who  of them  the Puruṣa  directly
 w: their own source  the Lord
 w: not  worship  disregard
 w: from their position  fallen  they fall  down
-tr: “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and go down.” (Śrīmad-Bhāgavatam, 11.5.3)
+tr: “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and sink into the depths.” (Śrīmad-Bhāgavatam, 11.5.3)
 
 ## 29
 w: the jñānī  of liberation in this life  the state  “I have attained”  thus  thinks
@@ -273,7 +273,7 @@ w: not so  of me  lowly  even
 w: there will be  surely  the sight of Acyuta
 w: being carried away  by the river of time
 w: at times  crosses over  someone
-tr: “It is not so that I, lowly as I am, cannot see Acyuta: I will surely see Him. For even among those carried away by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)
+tr: “But no — even I, lowly as I am, will surely see Acyuta. For even among those swept along by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)
 fn: *Anubhāṣya*: Akrūra reflects thus on the road to Gokula, where he is going to bring Rāma and Kṛṣṇa.
 
 ## 45
@@ -346,13 +346,13 @@ w: we compare  with a moment  even
 w: not  heaven  not liberation
 w: of association with those who associate with the Lord
 w: of mortals  what  then  the blessings
-tr: “We cannot compare even heaven or liberation with a moment of association with those who associate with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)
+tr: “We would not compare even heaven or liberation with a single moment in the company of those who are ever with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)
 fn: *Anubhāṣya*: the sages headed by Śaunaka glorify thus their association with Sūta, the *mahā-bhāgavata*.
 
 ## 56
 w: Kṛṣṇa  merciful  Arjuna  the aim  making
 w: the world  has protected  instruction  giving
-tr: Merciful Kṛṣṇa, speaking to Arjuna, has protected the whole world by giving this instruction:
+tr: Addressing Arjuna, merciful Kṛṣṇa protected the whole world with this instruction:
 
 ## 57
 w: the most secret of all  again
@@ -423,7 +423,7 @@ tr: One whose faith is still tender is a *kaniṣṭha*, a beginner. Step by ste
 ## 68
 w: by the degree of rati and prema  devotees  higher and highest
 w: in the eleventh  canto  their  has been given  description
-tr: According to the degree of their *rati* and prema, devotees are higher and highest. The Eleventh Canto has described their characteristics.
+tr: According to the degree of their *rati* and prema, devotees stand at different levels. The Eleventh Canto has described their characteristics.
 
 ## 69
 w: in all beings  who  sees
@@ -450,7 +450,7 @@ tr: “One who with faith worships Hari only in the Deity, but does not honour H
 ## 72
 w: all  the great qualities  in the person of a Vaiṣṇava
 w: into Kṛṣṇa’s devotee  Kṛṣṇa’s  qualities  all  pass
-tr: All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualities pass into Kṛṣṇa’s devotee.
+tr: All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualities pass into His devotee.
 
 ## 73
 w: in whom  there is  devotion  to the Lord  free of desire
@@ -654,7 +654,7 @@ tr: Hearing and the other activities are its essential characteristic (*svarūpa
 ## 104
 w: eternally perfect  for Kṛṣṇa  love  something to be produced  ever  is not
 w: hearing and the rest  in the purified  heart  cause  its rising
-tr: Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices make it rise in the purified heart.
+tr: Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices awaken it in the purified heart.
 fn: *Amṛta-pravāha-bhāṣya*: it cannot be obtained by any *abhidheya* other than pure bhakti; prema itself is the *prayojana*, the supreme goal. The edition’s heading: “attaining the pure *prayojana*”.
 
 ## 105
@@ -666,7 +666,7 @@ fn: *Rāgānugā* means “following *rāga*”: the spontaneous love is that of
 ## 106
 w: of rāga  devoid  a person  worships  of scripture  by the command
 w: vaidhī-bhakti  calling  it  in all scriptures  they sing
-tr: When a person in whom *rāga*, spontaneous love, has not awakened worships by the command of scripture, all the scriptures call it *vaidhī-bhakti*.
+tr: When one in whom *rāga*, spontaneous love, has not yet awakened worships at the bidding of the śāstra, the scriptures call this *vaidhī-bhakti*.
 
 ## 107
 w: therefore  O descendant of Bharata  the Soul of all
@@ -693,7 +693,7 @@ tr: “Viṣṇu is always to be remembered and never to be forgotten. All injun
 ## 110
 w: of many limbs  of sādhana-bhakti  great  indeed  the extent
 w: in brief  I shall tell  something  of the limbs of practice  the essence
-tr: *Sādhana-bhakti*, with its many limbs, is very vast. In brief I shall tell you something of the essence of its limbs.
+tr: *Sādhana-bhakti*, with its many limbs, is very vast. In brief I shall tell you something of their essence.
 
 ## 111
 w: shelter at the guru’s feet  initiation  of the guru  service
@@ -708,12 +708,12 @@ tr: giving up one’s own enjoyment for Kṛṣṇa’s pleasure; living in a ho
 ## 113
 w: the dhātrī  aśvattha  cows  brāhmaṇas  Vaiṣṇavas  honouring
 w: in service  to the Name  offences and the like  far away  casting off
-tr: honouring the *dhātrī* (*āmalakī*) and *aśvattha* trees, the cows, the brāhmaṇas and the Vaiṣṇavas; casting far away offences in service, offences to the Holy Name and the like;
+tr: honouring the *dhātrī* (*āmalakī*) and *aśvattha* trees, the cows, the brāhmaṇas and the Vaiṣṇavas; keeping far from offences in service, offences to the Holy Name and the like;
 
 ## 114
 w: of non-Vaiṣṇavas  company  giving up  many  disciples  not  I shall make
 w: of many  books  partial study  expounding  I shall avoid
-tr: giving up the company of non-Vaiṣṇavas; not taking many disciples; not studying bits of many books, and not expounding them for argument;
+tr: giving up the company of non-Vaiṣṇavas; not taking many disciples; not dabbling in many books, nor expounding them for the sake of argument;
 
 ## 115
 w: in loss  in gain  even-minded  of grief and the like  under the sway  not  I shall be
@@ -728,7 +728,7 @@ tr: not listening to blasphemy of Viṣṇu or the Vaiṣṇavas, nor to worldly
 ## 117
 w: hearing  glorifying  remembering  worship  offering prayers
 w: attending  servitude  friendship  offering of the self
-tr: hearing, glorifying, remembering, worship, offering prayers (*vandana*), attending on the Lord (*paricaryā*), servitude (*dāsya*), friendship (*sakhya*) and the offering of oneself (*ātma-nivedana*);
+tr: hearing, glorifying, remembering, worshipping, offering prayers (*vandana*), attending on the Lord (*paricaryā*), servitude (*dāsya*), friendship (*sakhya*) and the offering of oneself (*ātma-nivedana*);
 
 ## 118
 w: before (the Deity)  dancing  singing  opening the heart  prostrate obeisance
@@ -749,12 +749,12 @@ fn: *Tadīya*, “what is His own”: by verse 121, Tulasī, the Vaiṣṇavas, 
 ## 121
 w: tadīya  Tulasī  Vaiṣṇavas  Mathurā  the Bhāgavatam
 w: of these four  service  is  of Kṛṣṇa  the desire
-tr: *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Kṛṣṇa desires service to these four.
+tr: *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Service to these four is what Kṛṣṇa desires.
 
 ## 122
 w: for Kṛṣṇa  all  endeavours  of His  mercy  looking for
 w: of His birthday and the like  festivals  together with  the devotees
-tr: Doing all one’s endeavours for Kṛṣṇa; looking for His mercy; celebrating His birthday and other festivals with the devotees;
+tr: Making every endeavour for Kṛṣṇa’s sake; looking to His mercy; celebrating His birthday and other festivals with the devotees;
 
 ## 123
 w: in every way  surrender  Kārttika and other  vows
@@ -918,7 +918,7 @@ tr: Devotion full of *rāga* is named *rāgātmikā*. Hearing of it, some fortun
 ## 148
 w: out of longing  of the people of Vraja  the mood  he makes  following
 w: of scripture  the arguments  does not  heed  of the rāgānugā  the nature
-tr: Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.
+tr: Out of that longing he follows the mood of the people of Vraja. Such is the nature of *rāgānugā*: it does not wait upon the arguments of scripture.
 fn: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
 
 ## 149
@@ -933,7 +933,7 @@ w: of their  respective  moods and the like  in the sweetness
 w: when it is heard  the intellect  that  depends on
 w: not  here  scripture  nor  reasoning  and
 w: that  of longing  of the arising  the sign
-tr: “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without depending on scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)
+tr: “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without waiting upon scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)
 fn: This is how longing (*lobha*) is born, not a rejection of scripture (see the note to verse 148). *Amṛta-pravāha-bhāṣya*: on hearing of the sweetness of the moods of the people of Vraja, the intellect rests on this longing — and it is this that gives the right to *rāgānugā-bhakti*.
 
 ## 151
@@ -957,7 +957,7 @@ tr: “One who longs for the *bhāva* of the people of Vraja should serve, follo
 ## 154
 w: his own chosen  of Kṛṣṇa  dear one  behind  indeed  keeping close
 w: constantly  service  he does  with mind turned within  becoming
-tr: Keeping close behind the dear one of Kṛṣṇa whom he has chosen as his own ideal, he serves without cease, his mind turned within.
+tr: Keeping close behind the dear one of Kṛṣṇa whom his heart has chosen, he serves without cease, his mind turned within.
 fn: The *rāgānugā* devotee serves by following a resident of Vraja (*ānugatya*), not by imitating him; *Anubhāṣya* (heading): following the guru at every moment.
 
 ## 155
