@@ -1227,7 +1227,7 @@ Kṛṣṇa  forgetting  that  jīva  turned away since time without beginning
 ataeva māyā tāre deya saṁsāra-duḥkha  
 therefore  māyā  to it  gives  the misery of worldly existence
 
-(117) Having forgotten Kṛṣṇa, the jīva has been turned away from Him since time without beginning. Therefore māyā gives it the miseries of worldly existence.
+(117) Having forgotten Kṛṣṇa, the jīva has turned its face from Him since time without beginning. Therefore māyā gives it the miseries of worldly existence.
 
 কভু স্বর্গে উঠায়, কভু নরকে ডুবায় ৷  
 দণ্ড্যজনে রাজা যেন নদীতে চুবায় ॥ ১১৮ ॥
@@ -1317,7 +1317,7 @@ of the abhidheya  the name  devotion  prema  the prayojana
 puruṣārtha-śiromaṇi prema — mahā-dhana  
 of the human goals  the crown jewel  prema  the great treasure
 
-(125) The name of the *abhidheya* is bhakti, and prema is the *prayojana*. Prema, the crown jewel of all human goals, is the greatest treasure.
+(125) Bhakti is called the *abhidheya*, and prema is the *prayojana*. Prema, the crown of all human goals, is the greatest treasure.
 
 কৃষ্ণমাধুর্য্য-সেবানন্দ-প্রাপ্তির কারণ ৷  
 কৃষ্ণে সেবা করে, কৃষ্ণরস-আস্বাদন ॥ ১২৬ ॥
@@ -1347,7 +1347,7 @@ you  why  so  wretched  you  have  a father’s treasure
 tomāre nā kahila, anyatra chāḍila jīvana  
 to you  he did not  tell  elsewhere  he left  his life
 
-(128) “Why are you so miserable? You have your father’s treasure. He did not tell you about it because he died far from home.”
+(128) ‘Why are you so miserable? You have your father’s treasure. He did not tell you about it because he died far from home.’
 
 সর্ব্বজ্ঞের বাক্যে করে ধনের উদ্দেশে ৷  
 ঐছে বেদ-পুরাণ জীবে ‘কৃষ্ণ’ উপদেশে ॥ ১২৯ ॥
@@ -1387,7 +1387,7 @@ in this  place  is  the treasure  if  on the south  you dig
 ‘bhīmarula-barulī’ uṭhibe, dhana nā pāibe  
 hornets and wasps  will rise  the treasure  not  you will get
 
-(132) “The treasure is here in this place. If you dig on the south side, hornets and wasps will rise up and you will not get the treasure.[^14]
+(132) ‘The treasure is here in this place. If you dig on the south side, hornets and wasps will rise up and you will not get the treasure.[^14]
 
 ‘পশ্চিমে’ খুদিবে, তাহা ‘যক্ষ’ এক হয় ৷  
 সে বিঘ্ন করিবে, — ধনে হাত না পড়য় ॥ ১৩৩ ॥
@@ -1417,7 +1417,7 @@ on the east side  there  the earth  a little  digging
 dhanera jhāri paḍibeka tomāra hātete  
 of treasure  the pot  will fall  your  into the hands
 
-(135) But on the east side, as soon as you dig away a little earth, the pot of treasure will fall into your hands.”
+(135) But on the east side, as soon as you dig away a little earth, the pot of treasure will fall into your hands.’
 
 ঐছে শাস্ত্র কহে, — কর্ম্ম, জ্ঞান, যোগ ত্যজি’ ৷  
 ‘ভক্ত্যে’ কৃষ্ণ বশ হয়, ভক্ত্যে তাঁরে ভজি’ ॥ ১৩৬ ॥
@@ -1974,7 +1974,7 @@ that same  body  in a different appearance  somewhat  different in shape
 bhāvāveśākṛti-bhede ‘tad-ekātma’ nāma tām̐ra  
 of absorption in bhāva  of form  by the difference  tad-ekātma  the name  His
 
-(183) When that same body appears in another way, somewhat different in shape, and differs in form and in the bhāva that absorbs it, it is called *tad-ekātma*.
+(183) When that same body appears in another guise, somewhat different in shape, with a different bhāva absorbing it and different features, it is called *tad-ekātma*.
 
 তদেকাত্মরূপে ‘বিলাস’, ‘স্বাংশ’, — দুই ভেদ ৷  
 বিলাস, স্বাংশের ভেদে বিবিধ বিভেদ ॥ ১৮৪ ॥
@@ -1984,7 +1984,7 @@ in the tad-ekātma-rūpa  vilāsa  svāṁśa  two  divisions
 vilāsa, svāṁśera bhede vividha vibheda  
 of vilāsa  of svāṁśa  by the divisions  various  varieties
 
-(184) The *tad-ekātma-rūpa* has two divisions, *vilāsa* and *svāṁśa*; and by the divisions of *vilāsa* and *svāṁśa* there are many varieties.
+(184) The *tad-ekātma-rūpa* has two divisions, *vilāsa* and *svāṁśa*, and each of them has many varieties.
 
 প্রাভব-বৈভব-ভেদে বিলাস — দ্বিধাকার ৷  
 বিলাসের বিলাস-ভেদ — অনন্ত প্রকার ॥ ১৮৫ ॥
@@ -1994,7 +1994,7 @@ of prābhava  of vaibhava  by the difference  vilāsa  of two kinds
 vilāsera vilāsa-bheda — ananta prakāra  
 of vilāsa  of vilāsa  the divisions  infinite  kinds
 
-(185) *Vilāsa* is of two kinds, *prābhava* and *vaibhava*, and the *vilāsas* of *vilāsa* are of infinite kinds.
+(185) *Vilāsa* is of two kinds, *prābhava* and *vaibhava*, and *vilāsa* has its own *vilāsas* without number.
 
 প্রাভববিলাস — বাসুদেব, সঙ্কর্ষণ ৷  
 প্রদ্যুম্ন, অনিরুদ্ধ, — মুখ্য চারিজন ॥ ১৮৬ ॥
@@ -2618,7 +2618,7 @@ childhood  boyhood  are  of the form  the characteristics
 eta-rūpe līlā karena vrajendra-nandana  
 in these forms  pastimes  reveals  the son of Vraja’s king
 
-(247) Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; in these forms the son of the king of Vraja reveals His pastimes.
+(247) Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; as a child and as a boy the son of the king of Vraja reveals His pastimes.
 
 অনন্ত অবতার কৃষ্ণের, নাহিক গণন ৷  
 শাখা-চন্দ্র-ন্যায় করি দিগ্দরশন ॥ ২৪৮ ॥
@@ -2701,7 +2701,7 @@ will  knowledge  action  without  not  is  creation
 tinera tina śakti meli’ prapañca-racana  
 of the three  the three  potencies  joining  of the world  the making
 
-(254) Without will, knowledge and action there is no creation; the world is made when the three potencies of the three join together.
+(254) Without will, knowledge and action there is no creation; the world is fashioned when these three join Their three potencies.
 
 ক্রিয়াশক্তিপ্রধান সঙ্কর্ষণ বলরাম ৷  
 প্রাকৃতাপ্রাকৃত-সৃষ্টি করেন নির্ম্মাণ ॥ ২৫৫ ॥
@@ -2811,7 +2811,7 @@ beyond māyā  in the paravyoma  of all  the dwelling
 viśve avatari’ dhare ‘avatāra’ nāma  
 into the world  descending  bear  avatāra  the name
 
-(264) All of Them dwell in the spiritual sky beyond māyā; descending into the world, They bear the name avatāra.
+(264) All of Them dwell in the spiritual sky beyond māyā; when They descend into the world, They are called avatāras.
 
 সেই মায়া অবলোকিতে শ্রীসঙ্কর্ষণ ৷  
 পুরুষরূপে অবতীর্ণ হইলা প্রথম ॥ ২৬৫ ॥
@@ -2871,7 +2871,7 @@ on the shore of the Causal Ocean  māyā’s  eternal  abiding
 virajāra pāre paravyome nāhi gati  
 of the Virajā  beyond  into the paravyoma  there is no  access
 
-(269) *Māyā* abides eternally on the shore of the Causal Ocean; she has no access beyond the Virajā into the spiritual sky.
+(269) Māyā abides eternally on the shore of the Causal Ocean; she has no access beyond the Virajā into the spiritual sky.
 
 প্রবর্ত্ততে যত্র রজস্তমস্তয়োঃ  
 সত্ত্বঞ্চ মিশ্রং ন চ কালবিক্রমঃ ৷  
@@ -3141,7 +3141,7 @@ the third Puruṣa  Viṣṇu  a guṇa-avatāra
 dui avatāra-bhitara gaṇanā tām̐hāra  
 two  avatāras  among  the counting  of Him
 
-(294) The third Puruṣa, Viṣṇu, is a *guṇa-avatāra*; He is counted among both kinds of avatāras.
+(294) The third Puruṣa, Viṣṇu, is also a *guṇa-avatāra*: He is counted among both kinds of avatāras.
 
 বিরাট্ ব্যষ্টি-জীবের তিঁহো অন্তর্য্যামী ৷  
 ক্ষীরোদকশায়ী তিঁহো — পালনকর্ত্তা, স্বামী ॥ ২৯৫ ॥
@@ -3289,7 +3289,7 @@ of His own part  by a kalā  Kṛṣṇa  tamo-guṇa  accepts
 saṁhārārthe māyā-saṅge rudra-rūpa dhare  
 for destruction  in association with māyā  Rudra’s  form  assumes
 
-(307) By a *kalā* of His own part, Kṛṣṇa accepts *tamo-guṇa*, and for the sake of destruction, in association with māyā, He assumes the form of Rudra.
+(307) By a *kalā* of His own part Kṛṣṇa accepts *tamo-guṇa*; and to destroy the universe He joins with māyā and assumes the form of Rudra.
 
 মায়াসঙ্গ-বিকারে রুদ্র — ভিন্নাভিন্ন রূপ ৷  
 জীবতত্ত্ব হয়, নহে কৃষ্ণের ‘স্বরূপ’ ॥ ৩০৮ ॥
@@ -3299,7 +3299,7 @@ of association with māyā  through the transformation  Rudra  different and non
 jīva-tattva haya, nahe kṛṣṇera ‘svarūpa’  
 jīva-tattva  is  not  Kṛṣṇa’s  svarūpa
 
-(308) Through the transformation caused by association with māyā, Rudra is a form both different and non-different; he is counted as *jīva-tattva* and is not Kṛṣṇa’s own form (*svarūpa*).
+(308) Through the change wrought by contact with māyā, Rudra’s form is both different and not different from Kṛṣṇa; he is counted as *jīva-tattva*, not as Kṛṣṇa’s own form (*svarūpa*).
 
 দুগ্ধ যেন অম্লযোগে দধিরূপ ধরে ৷  
 দুগ্ধান্তর বস্তু নহে, দুগ্ধ হৈতে নারে ॥ ৩০৯ ॥
@@ -3875,7 +3875,7 @@ of the universe  creation and so on  He made  the Veda  to Brahmā  He taught
 arthābhijñatā, svarūpa-śaktye māyā dūra kaila  
 knowledge of all purposes  by His own potency  māyā  far  He drove
 
-(359) He created the universe and so on, and He taught the Veda to Brahmā; He knows all purposes, and by His own potency (*svarūpa-śakti*) He drives māyā far away.
+(359) From Him come the creation, maintenance and dissolution of the universe, and He taught the Veda to Brahmā; He knows all purposes, and by His own potency (*svarūpa-śakti*) He drives māyā far away.
 
 এইসব কার্য্য — তাঁর তটস্থ-লক্ষণ ৷  
 অন্য অবতার ঐছে জানে মুনিগণ ॥ ৩৬০ ॥
@@ -3915,7 +3915,7 @@ in the age of Kali  He  Kṛṣṇa’s avatāra  certainly
 sudṛḍha kariyā kaha, yāuka saṁśaya  
 firmly  making it  tell me  let it go  the doubt
 
-(363) is certainly Kṛṣṇa’s avatāra in the age of Kali. Tell me so firmly, that my doubt may go.”
+(363) is certainly Kṛṣṇa’s avatāra in the age of Kali. Tell me this for certain, so that my doubt may go.”
 
 প্রভু কহে, — চতুরালি ছাড়, সনাতন ৷  
 শক্ত্যাবেশাবতারের শুন বিবরণ ॥ ৩৬৪ ॥

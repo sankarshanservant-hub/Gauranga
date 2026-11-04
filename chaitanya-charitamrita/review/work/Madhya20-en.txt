@@ -624,7 +624,7 @@ fn: The same verse as Ādi 7.118; translation as there.
 ## 117
 w: Kṛṣṇa  forgetting  that  jīva  turned away since time without beginning
 w: therefore  māyā  to it  gives  the misery of worldly existence
-tr: Having forgotten Kṛṣṇa, the jīva has been turned away from Him since time without beginning. Therefore māyā gives it the miseries of worldly existence.
+tr: Having forgotten Kṛṣṇa, the jīva has turned its face from Him since time without beginning. Therefore māyā gives it the miseries of worldly existence.
 
 ## 118
 w: sometimes  to heaven  she raises  sometimes  in hell  she sinks
@@ -668,7 +668,7 @@ tr: The Vedic scriptures speak of *sambandha*, *abhidheya* and *prayojana*. Kṛ
 ## 125
 w: of the abhidheya  the name  devotion  prema  the prayojana
 w: of the human goals  the crown jewel  prema  the great treasure
-tr: The name of the *abhidheya* is bhakti, and prema is the *prayojana*. Prema, the crown jewel of all human goals, is the greatest treasure.
+tr: Bhakti is called the *abhidheya*, and prema is the *prayojana*. Prema, the crown jewel of all human goals, is the greatest treasure.
 
 ## 126
 w: of Kṛṣṇa’s sweetness  of the bliss of service  of attaining  the cause
@@ -683,7 +683,7 @@ tr: Here is an illustration: an all-knowing sage (*sarvajña*) came to a poor ma
 ## 128
 w: you  why  so  wretched  you  have  a father’s treasure
 w: to you  he did not  tell  elsewhere  he left  his life
-tr: “Why are you so miserable? You have your father’s treasure. He did not tell you about it because he died far from home.”
+tr: ‘Why are you so miserable? You have your father’s treasure. He did not tell you about it because he died far from home.’
 
 ## 129
 w: of the all-knowing one  by the words  he makes  for the treasure  search
@@ -703,7 +703,7 @@ tr: Merely knowing that his father’s wealth was there did not bring it to him,
 ## 132
 w: in this  place  is  the treasure  if  on the south  you dig
 w: hornets and wasps  will rise  the treasure  not  you will get
-tr: “The treasure is here in this place. If you dig on the south side, hornets and wasps will rise up and you will not get the treasure.
+tr: ‘The treasure is here in this place. If you dig on the south side, hornets and wasps will rise up and you will not get the treasure.
 fn: *Anubhāṣya*: the south is the path of karma (the hornets and wasps are the desires for enjoyment); the west, the path of mystic powers (or, in another view, of jñāna); the north, the path of jñāna or of yoga (the black python of *kaivalya*); the east, devotion to Kṛṣṇa — the treasure that already belongs to the jīva.
 
 ## 133
@@ -719,7 +719,7 @@ tr: If you dig on the north side, there is a black python; you will not get the 
 ## 135
 w: on the east side  there  the earth  a little  digging
 w: of treasure  the pot  will fall  your  into the hands
-tr: But on the east side, as soon as you dig away a little earth, the pot of treasure will fall into your hands.”
+tr: But on the east side, as soon as you dig away a little earth, the pot of treasure will fall into your hands.’
 
 ## 136
 w: thus  the scriptures  say  karma  jñāna  yoga  giving up
@@ -1004,17 +1004,17 @@ fn: The same verse as Ādi 4.146, but here the edition reads *sphuratu*, “may 
 ## 183
 w: that same  body  in a different appearance  somewhat  different in shape
 w: of absorption in bhāva  of form  by the difference  tad-ekātma  the name  His
-tr: When that same body appears in another way, somewhat different in shape, and differs in form and in the bhāva that absorbs it, it is called *tad-ekātma*.
+tr: When that same body appears in another guise, somewhat different in shape, with a different bhāva absorbing it and different features, it is called *tad-ekātma*.
 
 ## 184
 w: in the tad-ekātma-rūpa  vilāsa  svāṁśa  two  divisions
 w: of vilāsa  of svāṁśa  by the divisions  various  varieties
-tr: The *tad-ekātma-rūpa* has two divisions, *vilāsa* and *svāṁśa*; and by the divisions of *vilāsa* and *svāṁśa* there are many varieties.
+tr: The *tad-ekātma-rūpa* has two divisions, *vilāsa* and *svāṁśa*, and each of them has many varieties.
 
 ## 185
 w: of prābhava  of vaibhava  by the difference  vilāsa  of two kinds
 w: of vilāsa  of vilāsa  the divisions  infinite  kinds
-tr: *Vilāsa* is of two kinds, *prābhava* and *vaibhava*, and the *vilāsas* of *vilāsa* are of infinite kinds.
+tr: *Vilāsa* is of two kinds, *prābhava* and *vaibhava*, and *vilāsa* has its own *vilāsas* without number.
 
 ## 186
 w: prābhava-vilāsa  Vāsudeva  Saṅkarṣaṇa
@@ -1329,7 +1329,7 @@ tr: the *guṇa-avatāras*, the *manvantara-avatāras*, the *yuga-avatāras* and
 ## 247
 w: childhood  boyhood  are  of the form  the characteristics
 w: in these forms  pastimes  reveals  the son of Vraja’s king
-tr: Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; in these forms the son of the king of Vraja reveals His pastimes.
+tr: Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; as a child and as a boy the son of the king of Vraja reveals His pastimes.
 
 ## 248
 w: countless  avatāras  of Kṛṣṇa  there is no  counting
@@ -1373,7 +1373,7 @@ tr: Kṛṣṇa, in whom the potency of will predominates, is by His will the do
 ## 254
 w: will  knowledge  action  without  not  is  creation
 w: of the three  the three  potencies  joining  of the world  the making
-tr: Without will, knowledge and action there is no creation; the world is made when the three potencies of the three join together.
+tr: Without will, knowledge and action there is no creation; the world is fashioned when these three join Their three potencies.
 
 ## 255
 w: in whom the potency of action predominates  Saṅkarṣaṇa  Balarāma
@@ -1429,7 +1429,7 @@ tr: The form of the Lord that descends into the world for creation bears the nam
 ## 264
 w: beyond māyā  in the paravyoma  of all  the dwelling
 w: into the world  descending  bear  avatāra  the name
-tr: All of Them dwell in the spiritual sky beyond māyā; descending into the world, They bear the name avatāra.
+tr: All of Them dwell in the spiritual sky beyond māyā; when They descend into the world, They are called avatāras.
 
 ## 265
 w: that  māyā  to glance at  Śrī Saṅkarṣaṇa
@@ -1460,7 +1460,7 @@ tr: That Puruṣa lies upon the Virajā. He is named Kāraṇābdhiśāyī, the 
 ## 269
 w: on the shore of the Causal Ocean  māyā’s  eternal  abiding
 w: of the Virajā  beyond  into the paravyoma  there is no  access
-tr: *Māyā* abides eternally on the shore of the Causal Ocean; she has no access beyond the Virajā into the spiritual sky.
+tr: Māyā abides eternally on the shore of the Causal Ocean; she has no access beyond the Virajā into the spiritual sky.
 
 ## 270
 w: operate  where  passion  ignorance  with them
@@ -1597,7 +1597,7 @@ tr: This second Puruṣa is the Lord of the universe. He is the shelter of māy�
 ## 294
 w: the third Puruṣa  Viṣṇu  a guṇa-avatāra
 w: two  avatāras  among  the counting  of Him
-tr: The third Puruṣa, Viṣṇu, is a *guṇa-avatāra*; He is counted among both kinds of avatāras.
+tr: The third Puruṣa, Viṣṇu, is also a *guṇa-avatāra*: He is counted among both kinds of avatāras.
 
 ## 295
 w: of the virāṭ  of the individual jīvas  He  the indwelling Lord
@@ -1669,12 +1669,12 @@ fn: The same verse as Ādi 5.141; translation as there.
 ## 307
 w: of His own part  by a kalā  Kṛṣṇa  tamo-guṇa  accepts
 w: for destruction  in association with māyā  Rudra’s  form  assumes
-tr: By a *kalā* of His own part, Kṛṣṇa accepts *tamo-guṇa*, and for the sake of destruction, in association with māyā, He assumes the form of Rudra.
+tr: By a *kalā* of His own part Kṛṣṇa accepts *tamo-guṇa*; and to destroy the universe He joins with māyā and assumes the form of Rudra.
 
 ## 308
 w: of association with māyā  through the transformation  Rudra  different and non-different  a form
 w: jīva-tattva  is  not  Kṛṣṇa’s  svarūpa
-tr: Through the transformation caused by association with māyā, Rudra is a form both different and non-different; he is counted as *jīva-tattva* and is not Kṛṣṇa’s own form (*svarūpa*).
+tr: Through the change wrought by contact with māyā, Rudra’s form is both different and not different from Kṛṣṇa; he is counted as *jīva-tattva*, not as Kṛṣṇa’s own form (*svarūpa*).
 
 ## 309
 w: milk  as  through contact with a sour agent  of curd  the form  takes
@@ -1963,7 +1963,7 @@ tr: In this verse the word *param* defines Kṛṣṇa, and the word *satyam* st
 ## 359
 w: of the universe  creation and so on  He made  the Veda  to Brahmā  He taught
 w: knowledge of all purposes  by His own potency  māyā  far  He drove
-tr: He created the universe and so on, and He taught the Veda to Brahmā; He knows all purposes, and by His own potency (*svarūpa-śakti*) He drives māyā far away.
+tr: From Him come the creation, maintenance and dissolution of the universe, and He taught the Veda to Brahmā; He knows all purposes, and by His own potency (*svarūpa-śakti*) He drives māyā far away.
 
 ## 360
 w: these  all  activities  His  taṭastha-lakṣaṇa
@@ -1983,7 +1983,7 @@ tr: Sanātana said, “He in whom the Lord’s characteristics are found — a g
 ## 363
 w: in the age of Kali  He  Kṛṣṇa’s avatāra  certainly
 w: firmly  making it  tell me  let it go  the doubt
-tr: is certainly Kṛṣṇa’s avatāra in the age of Kali. Tell me so firmly, that my doubt may go.”
+tr: is certainly Kṛṣṇa’s avatāra in the age of Kali. Tell me this for certain, so that my doubt may go.”
 
 ## 364
 w: the Lord  said  cleverness  give up  Sanātana
