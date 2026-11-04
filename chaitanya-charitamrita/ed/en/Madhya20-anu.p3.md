@@ -26,7 +26,7 @@ The great soul Vidura asked the sage Śrī Maitreya about Śrī Hari's pastimes 
 
 > Subheading: From the *mahat-tattva*, the constituents of the universe — the “three *ahaṅkāras*” —
 
-The *mahat-tattva* exists as *citta* (consciousness); its presiding deity is Vāsudeva (*Bhāg.* 3.26.21). From the transformation of the *mahat-tattva* arise: (1) the *vaikārika*, that is, the *sāttvika ahaṅkāra*, and from it the eleventh sense, the mind, whose presiding deity is Aniruddha (*Bhāg.* 3.26.27–28); (2) from the *taijasa*, that is, the *rājasika ahaṅkāra*, the intelligence (*buddhi*), whose presiding deity is Pradyumna, and the senses (*Bhāg.* 3.26.30–31); (3) from the *tāmasa ahaṅkāra*, the sound *tanmātra*, and from it ether, the sense of hearing and the rest (*Bhāg.* 3.26.32). The presiding deity of these three *ahaṅkāras* is Saṅkarṣaṇa (*Bhāg.* 3.26.25). The *Sāṅkhya-kārikā* says: “From the *vaikṛta ahaṅkāra* proceeds the *sāttvika* group of eleven; from the *bhūtādi*, the *tanmātras*, which are *tāmasa*; from the *taijasa*, both.”[^276-1]
+The *mahat-tattva* exists as *citta* (consciousness); its presiding deity is Vāsudeva (*Śrīmad-Bhāgavatam* 3.26.21). From the transformation of the *mahat-tattva* arise: (1) the *vaikārika*, that is, the *sāttvika ahaṅkāra*, and from it the eleventh sense, the mind, whose presiding deity is Aniruddha (*Śrīmad-Bhāgavatam* 3.26.27–28); (2) from the *taijasa*, that is, the *rājasika ahaṅkāra*, the intelligence (*buddhi*), whose presiding deity is Pradyumna, and the senses (*Śrīmad-Bhāgavatam* 3.26.30–31); (3) from the *tāmasa ahaṅkāra*, the sound *tanmātra*, and from it ether, the sense of hearing and the rest (*Śrīmad-Bhāgavatam* 3.26.32). The presiding deity of these three *ahaṅkāras* is Saṅkarṣaṇa (*Śrīmad-Bhāgavatam* 3.26.25). The *Sāṅkhya-kārikā* says: “From the *vaikṛta ahaṅkāra* proceeds the *sāttvika* group of eleven; from the *bhūtādi*, the *tanmātras*, which are *tāmasa*; from the *taijasa*, both.”[^276-1]
 
 ## 277
 
@@ -270,13 +270,13 @@ See Ādi 3.36.
 
 > Subheading: In Satya-yuga Bhagavān is white, four-armed, dressed as a *brahmacārī* —
 
-(*Bhāg.* 11.5.21): “In Kṛta-yuga He is white and four-armed, with matted locks, clothed in bark; He bears a black antelope skin, a sacred thread, prayer beads, a staff and a water pot.” See also *Bhāg.* 3.21.16, 35, 51; 3.22.19; 3.23.23; 5.10.16.
+(*Śrīmad-Bhāgavatam* 11.5.21): “In Kṛta-yuga He is white and four-armed, with matted locks, clothed in bark; He bears a black antelope skin, a sacred thread, prayer beads, a staff and a water pot.” See also *Śrīmad-Bhāgavatam* 3.21.16, 35, 51; 3.22.19; 3.23.23; 5.10.16.
 
 ## 333
 
 > Subheading: In Tretā-yuga Bhagavān is red, four-armed —
 
-(*Bhāg.* 11.5.24): “In Tretā-yuga He is red in color and four-armed, girded with a triple belt, golden-haired; His self is the three Vedas, and He is marked by the sacrificial ladle, spoon and so on.” See *Bhāg.* 11.5.26.
+(*Śrīmad-Bhāgavatam* 11.5.24): “In Tretā-yuga He is red in color and four-armed, girded with a triple belt, golden-haired; His self is the three Vedas, and He is marked by the sacrificial ladle, spoon and so on.” See *Śrīmad-Bhāgavatam* 11.5.26.
 
 ## 334
 
@@ -448,7 +448,7 @@ In the age of Kali, the *svarūpa-lakṣaṇa* of the *yuga-avatāra* is His for
 
 > Subheading: (2) A description of the *vibhūtis* of the *Gītā* —
 
-On the nature of the *vibhūtis* of *māyā*, see *Bhāg.* 2.7.39.
+On the nature of the *vibhūtis* of *māyā*, see *Śrīmad-Bhāgavatam* 2.7.39.
 
 ## 373
 
@@ -569,8 +569,6 @@ On the principle of “the branch and the moon” (*śākhā-candra-nyāya*), se
 > Subheading: By hearing the glorification of Kṛṣṇa's true nature one gains knowledge of the truth, which is revealed within the heart (*sphūrti*) —
 
 *Thus ends the twentieth chapter of the “Anubhāṣya.”*
-
-
 
 ---
 
