@@ -28,6 +28,24 @@ It is said that the emperor Husain Shāh regarded Sanātana Gosvāmī as his “
 
 *Āmi dui bhāi* (“we two brothers”): I, Rūpa, and my (younger) brother Anupama, or Vallabha.
 
+## 50
+
+One who reads the four Vedas, that is, a Caube *brāhmaṇa*, does not become a “devotee” just by being so. My devotee is dear to Me even if he is a *caṇḍāla*. Only a devotee is truly a worthy recipient of gifts and truly a worthy giver from whom one may accept. Every devotee is as worthy of worship as I am.
+
+## 53
+
+O Lord, most magnanimous, giver of love for Kṛṣṇa, Kṛṣṇa Himself, bearing the name Kṛṣṇa Caitanya and the form of Gaurāṅga, I offer obeisance to You.
+
+## 54
+
+That merciful Lord cured the world, maddened by ignorance, of the disease of ignorance and intoxicated it with the nectar of the treasure of His love. I take shelter of that Śrī Kṛṣṇa Caitanya, whose deeds are wonderful.
+
+## 61
+
+Vallabha Bhaṭṭa was a Vaiṣṇava *paṇḍita*. At first he entered Śrī Mahāprabhu's *sampradāya*, but, not receiving much honor there, he became an *ācārya* in the Viṣṇusvāmī *sampradāya*. It is he whom people call “Vallabhācārya.” He has great influence in Gokula and in the Bombay region. He wrote many books, such as the *Anubhāṣya* and the *Ṣoḍaśa-grantha*.
+
+Āḍāila-grāma: the village of Aḍelī, or Āḍāila, on the other bank of the Yamunā near the confluence (about a mile away). An ancient Viṣṇu temple of the “Vallabhī” *sampradāya* still stands there.
+
 ---
 
 [^24-27-1]: The verse translation understands it differently: the king speaks of Sanātana's elder brother in the third person, as one who has ruined a whole province by killing many people (Madhya 19.24–25).

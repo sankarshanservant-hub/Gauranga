@@ -118,8 +118,156 @@ In Śaka 1424[^28-1] Husain Shāh subdued the vassal kings of Utkala.
 
 > Subheading: He advises Sanātana to free himself from bondage with the ten thousand coins kept in Gauḍa —
 
+## 36
+
+> Subheading: Who Anupama was —
+
+See Ādi 10.84.
+
+## 37
+
+> Subheading: The brothers come to Prayāga and rejoice to hear that the Lord is there —
+
+## 38
+
+> Subheading: In Prayāga the Lord goes to see Bindu-Mādhava; crowds gather —
+
+## 40
+
+> Subheading: Prayāga drowns in a flood of *prema* —
+
+## 41
+
+> Subheading: The brothers stay a little apart —
+
+## 42
+
+> Subheading: The Lord's state at that time —
+
+## 44
+
+> Subheading: The Lord takes His meal at the house of a South Indian *brāhmaṇa* —
+
+## 45
+
+> Subheading: The brothers meet the Lord in private —
+
+## 46
+
+> Subheading: Both speak humbly of themselves —
+
+## 48
+
+> Subheading: The Lord is pleased to see them —
+
+## 49
+
+> Subheading: The Lord describes how by Kṛṣṇa's mercy the *jīva* is freed from *saṁsāra* —
+
+## 50
+
+> Subheading: A Vaiṣṇava, in whatever family he is born, is in every way worthy of worship by all, like Bhagavān — (*Hari-bhakti-vilāsa* 10.91) (words of the *Itihāsa-samuccaya*) —
+
+**abhaktaḥ** (devoid of pure *bhakti*) **catur-vedī** (a *brāhmaṇa* expert in the four Vedas) **me** (to Me) **priyaḥ** **na** (is not); **mad-bhaktaḥ** **śva-pacaḥ** (even if born in the very lowest family) **me** **priyaḥ** (is); **tasmai** (to such a pure devotee, even a dog-eater of low birth, the *brāhmaṇas* and others expert in the four Vedas themselves should offer honor and so on) **deyaṁ**; **tataḥ** (from him, from the pure devotee, even a dog-eater of low birth) **grāhyaṁ** (one should accept his remnants and so on); **yathā** **aham** (Śrī Bhagavān Viṣṇu, the Lord of all lords) **pūjyaḥ**, (so) **saḥ** (the devotee, even if born in a family of dog-eaters, by all, the *brāhmaṇas* and others, who stand as his disciples) **pūjyaḥ** **ca**.
+
+## 51
+
+> Subheading: The Lord embraces both and places His feet on their heads —
+
+## 52
+
+> Subheading: The brothers' prayer to the Lord —
+
+## 53
+
+> Subheading: Obeisance to Śrī Gaura, full of His own nature, name, form, qualities and pastimes, the Lord of *sambandha*, *abhidheya* and *prayojana* —
+
+**mahā-vadānyāya** (full of incomparable supreme compassion) **kṛṣṇa-prema-pradāya** (the best of givers of love for Kṛṣṇa, which is hard to attain even for Śiva and Brahmā) **kṛṣṇa-caitanya-nāmne** (named Kṛṣṇa Caitanya) **gaura-tviṣe** (possessing a golden luster adorned with the luster of Śrī Rādhā) **kṛṣṇāya** (to Govinda, the beloved of the *gopīs*) **te** (to You) **namaḥ**.
+
+## 54
+
+> Subheading: The author's obeisance to Gaura — (*Govinda-līlāmṛta* 1.2: the author's words) —
+
+**yaḥ** **dayāluḥ** (the embodiment of mercy) **ajñāna-mattaṁ** (maddened by ignorance, bewildered by the paths of Māyāvāda, enjoyment of the fruits of *karma* and so on) **bhuvanaṁ** (the world) **sva-prema-sampat-sudhayā** (with the nectar of His own treasure, love for Kṛṣṇa: that treasure is itself the nectar) **ullāghayan** (quelling all such knowledge and so on) **pramattam** (free from seeking worldly objects such as enjoyment and liberation, and constantly attached to the cultivation of Kṛṣṇa) **akarot**, **amuṁ** (Him) **adbhutehaṁ**[^54-1] (whose deeds were never heard of before) **śrī-kṛṣṇa-caitanyam** (I) **prapadye** (take shelter).
+
+## 55
+
+> Subheading: The Lord asks Śrī Rūpa about Sanātana —
+
+## 56
+
+> Subheading: Rūpa tells Him that Sanātana is imprisoned —
+
+## 57
+
+> Subheading: The Lord tells him that Sanātana has been freed —
+
+## 58
+
+> Subheading: Both stay there that day —
+
+## 59
+
+> Subheading: Both receive the remnants of the Lord's meal —
+
+## 60
+
+> Subheading: Both settle near the Lord's lodging —
+
+## 61
+
+> Subheading: Vallabha Bhaṭṭa meets the Lord —
+
+Vallabha Bhaṭṭa was the son of Lakṣmaṇa Dīkṣita of the village of Kāṅkaḍavāḍa, or Kākuṁrapāḍa, 16 miles from Niḍāḍāvalu railway station in the land of Trailaṅga. The Āndhra *brāhmaṇas* have five divisions: Vellanāṭī, Vegī-nāṭī, Muraki-nāṭī, Telagu-nāṭī and Kāśala-nāṭī. Of these, Śrī Vallabhācārya was born in a family of Vellanāṭī Āndhra *brāhmaṇas* in Śaka 1400. Some say that even before Vallabha's birth his father took *sannyāsa* and left home, and later returned home again and obtained Vallabhācārya as his son.
+
+According to another view, in Vikrama Saṁvat 1535, that is, Śaka 1400, on the dark *ekādaśī* of the month of Caitra, Vallabhācārya appeared in “Campakāraṇya” as the son of Lakṣmaṇa Bhaṭṭa Dīkṣita, who belonged to a Vellanāṭī *brāhmaṇa* family of the land of Trailaṅga and bore the title “Khambhampāṭīvāru.” According to yet another view, he appeared in the village of Cā̃pājhāra near Rājima station on the B. N. R. line in the Madhya Pradesh. He lived in Kāśī until the age of eleven, and when, his studies completed, he was returning home, on the way, at Śeṣādri, he heard of his father's death. Leaving his brother and mother at home, he went to Vidyānagara on the bank of the Tuṅgabhadrā and delighted Kṛṣṇadeva, the grandson of King Bukka. After this he spent eighteen years in three *digvijayas* of six years each. At the age of thirty, in Kāśī, he married a *brāhmaṇa* girl of his own caste named “Mahālakṣmī.” After installing a Deity on the plateau of Govardhana Hill, he settled in the village of Āḍāila near Prayāga. He had two sons, Gopīnātha and Viṭhṭhaleśvara. In his last years he accepted *tridaṇḍi-sannyāsa*, and in Śaka 1452 he left this world in Vārāṇasī. Besides a few of Vallabha's books, such as the *Ṣoḍaśa-grantha*, the *Anubhāṣya* on the *Brahma-sūtra* and the *Subodhinī* commentary on the *Śrīmad-Bhāgavatam*, there are many more books of his.
+
+## 62
+
+> Subheading: Vallabha Bhaṭṭa bows to the Lord; they talk about Kṛṣṇa —
+
+## 63
+
+> Subheading: The Lord is filled with *prema*, but, regarding Vallabha as an outsider, conceals it —
+
+## 64
+
+> Subheading: Vallabha is amazed to see the Lord's ecstasy of love —
+
+## 65
+
+> Subheading: The Bhaṭṭa invites the Lord; the Lord introduces the two brothers to the Bhaṭṭa —
+
+## 66
+
+> Subheading: Seeking no honor for themselves, both honor Vallabha —
+
+## 67
+
+> Subheading: When the Bhaṭṭa tries to embrace them, both draw back —
+
+## 68
+
+> Subheading: Regarding Vallabha, proud of his high birth and learning, as an outsider, the Lord gives him mundane honor, that is, deludes him —
+
+## 70
+
+> Subheading: Hearing both constantly chant Kṛṣṇa's name, the Bhaṭṭa is amazed and recognizes them as the best of all —
+
+## 72
+
+> Subheading: (*Śrīmad-Bhāgavatam* 3.33.7)
+
+See Madhya 11.192.
+
+## 73
+
+> Subheading: Seeing the Bhaṭṭa's good sense and hearing his sound conclusions, the Lord praises him —
+
 ---
 
 [^18-1]: So in the edition (checked against the scan).
 
 [^28-1]: So in the edition (checked against the scan).
+
+[^54-1]: So in the edition; the verse transliteration divides it as *adbhute 'haṁ*. The commentary reads one word (*adbhuta-īha*, “whose deeds are wonderful”) and supplies “I” in parentheses.
