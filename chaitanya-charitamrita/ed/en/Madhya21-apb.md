@@ -70,4 +70,4 @@ That abode is the abode of the *tripād-vibhūti*, and so it is called *tripād-
 
 ---
 
-[^45-1]: The translation of the verse takes it differently: in that abode there is not even a trace of any anxiety or agitation.
+[^45-1]: The verse translation reads differently: there it is in that abode that not even a trace of anxiety or agitation exists.

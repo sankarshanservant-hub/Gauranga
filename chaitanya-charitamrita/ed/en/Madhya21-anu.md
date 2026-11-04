@@ -142,7 +142,7 @@ Scripture says that Vṛndāvana extends for “sixteen *krośas*.” In just on
 
 ## 33
 
-> Subheading: The Lord of the three creations, the One without a second, the form worshipped by the imperishable lords of the worlds — (Śrīmad-Bhāgavatam 3.2.21) —
+> Subheading: The form of the One without a second, the Lord of the three creations, worshipped by the imperishable lords of the worlds — (Śrīmad-Bhāgavatam 3.2.21) —
 
 For the explanation and the *kārikās* on this verse, see the *Laghu-bhāgavatāmṛta*, Pūrva-khaṇḍa, 302–323: there, refuting the opponent's view (*pūrva-pakṣa*) that “Śrī Kṛṣṇa is a *vilāsa* of Nārāyaṇa,” the author sets out the conclusion (*uttara-pakṣa*).
 
@@ -178,7 +178,7 @@ See Madhya 20.318.
 
 ## 39
 
-Mahāviṣṇu is Kāraṇodaśāyī, the Indweller of all; Padmanābha, the creator of Brahmā, is Garbhodaśāyī, Hiraṇyagarbha, the aggregate, or subtle, Indweller; and Kṣīrodakaśāyī Viṣṇu is Virāṭ, the individual, or gross, Indweller.
+Mahāviṣṇu is Kāraṇodakaśāyī, the Indweller of all; Padmanābha, the creator of Brahmā, is Garbhodakaśāyī, Hiraṇyagarbha, the aggregate, or subtle, Indweller; and Kṣīrodakaśāyī Viṣṇu is Virāṭ, the individual, or gross, Indweller.
 
 ## 41
 
@@ -268,11 +268,13 @@ Four-faced Brahmā experienced the unearthly majesty of Kṛṣṇa and of Dvār
 
 ## 83
 
+> Subheading: (Śrīmad-Bhāgavatam 10.14.38) —
+
 See Madhya 21.27.
 
 ## 84
 
-If a universe is taken to be a hundred *koṭi yojanas*, half of it is fifty *koṭi yojanas*. Manu writes: “He Himself, by His meditation, divided that egg into two.”[^84-1] The *Sūrya-siddhānta* (12.90) says: “18,712,080,864,000,000[^84-2] — such is the circumference that encircles the hemispheres of the universe; within it the sun's rays spread on all sides.” The *Siddhānta-śiromaṇi*, in the *Graha-gaṇita*, in the chapter *Madhyamādhikāra*, in the section on the order of the orbits, and likewise in the *Golādhyāya*, in the section *Bhuvana-kośa*, verse 67, says: “Those versed in *jyotiṣa* say that this orbit of the sky is 1,871,206,920 times a *koṭi yojanas*. Some Purāṇic sages have said that it girds the rim where the halves of the bowl of the universe meet, and others have called it the mountain that is both visible and invisible.” The orbit of the sky (*kha-kakṣā*) is 18,712,069,200,000,000 *yojanas*; some say it is the measure of the circumference where the two halves of the bowl of the universe meet.
+If a universe is taken to be a hundred *koṭi yojanas*, half of it is fifty *koṭi yojanas*. Manu writes: “He Himself, by His meditation, divided that egg into two.”[^84-1] The *Sūrya-siddhānta* (12.90) says: “18,712,080,864,000,000[^84-2] — such is the circumference that encircles the hemispheres of the universe; within it the sun's rays spread on all sides.” The *Siddhānta-śiromaṇi*, in the *Graha-gaṇita*, in the chapter *Madhyamādhikāra*, in the section on the order of the orbits, and likewise in the *Golādhyāya*, in the section *Bhuvana-kośa*, verse 67, says: “Those versed in *jyotiṣa* say that this orbit of the sky is 1,871,206,920 *koṭi yojanas*. Some Purāṇic sages have said that it girds the rim where the halves of the bowl of the universe meet, and others have called it the mountain that is both visible and invisible.” The orbit of the sky (*kha-kakṣā*) is 18,712,069,200,000,000 *yojanas*; some say it is the measure of the circumference where the two halves of the bowl of the universe meet.
 
 ## 88
 
