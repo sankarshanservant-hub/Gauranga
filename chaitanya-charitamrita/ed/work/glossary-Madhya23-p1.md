@@ -37,4 +37,4 @@
 - “Уджвала-ниламани”: раздел о стхайи-бхаве, раздел о випраламбхе / *Ujjvala-nīlamaṇi*: the section on the *sthāyi-bhāva*, on *vipralambha*.
 
 ## Имена
-- Шринга (сын риши Шамики) / Śṛṅgī, son of the sage Śamīka; Такшака / Takṣaka; Бхарата (сын Ришабхи) / Bharata, son of Ṛṣabha; курари (птица) / the *kurarī* bird; Гопиджана-валлабха / Gopījana-vallabha; Пундарикакша / Puṇḍarīkākṣa.
+- Шринги (сын риши Шамики) / Śṛṅgī, son of the sage Śamīka; Такшака / Takṣaka; Бхарата (сын Ришабхи) / Bharata, son of Ṛṣabha; курари (птица) / the *kurarī* bird; Гопиджана-валлабха / Gopījana-vallabha; Пундарикакша / Puṇḍarīkākṣa.

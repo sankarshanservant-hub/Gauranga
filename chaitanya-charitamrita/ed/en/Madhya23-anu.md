@@ -32,7 +32,7 @@ The two kinds of *bhāva*: (1) *bhāva* born of absorption in *sādhana*; (2) *b
 
 > Subheading: The definition of *prema* — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, fourth *laharī*, first verse) —
 
-**samyaṅ-masṛṇita-svāntaḥ** (that by which the heart is completely softened, moistened) **mamatvātiśayāṅkitaḥ** (marked by an intense sense of “He is mine”)[^7-1] — having these two accompanying characteristics — **yaḥ** **sāndrātmā** (dense in its very nature) (having this essential characteristic) **bhāvaḥ**, **saḥ eva** **budhaiḥ** **‘premā’** **nigadyate** (is called).
+**samyaṅ-masṛṇita-svāntaḥ** (that by which the heart is completely softened, moistened) **mamatvātiśayāṅkitaḥ** (marked by an intense sense of “He is mine”)[^7-1] — having these two accompanying characteristics — **yaḥ** **sāndrātmā** (dense in its very nature) (having this essential characteristic) **bhāvaḥ**, **sa eva** **budhaiḥ** **‘premā’** **nigadyate** (is called).
 
 ## 8
 
@@ -74,7 +74,7 @@ When *bhāva* has sprouted, that is, when *rati* has arisen, nine characteristic
 
 ## 18–19
 
-**jāta-bhāvāṅkure jane** (in a devotee in whom taste has arisen) **kṣāntiḥ** (remaining unagitated even when there is cause for agitation), **avyartha-kāla-tvam** (spending one's time only in what is related to Kṛṣṇa), **viraktiḥ** (having no desire for anything other than Kṛṣṇa), **māna-śūnyatā** (freedom from pride even when one excels), **āśā-bandhaḥ** (firm hope of attaining Bhagavān), **samutkaṇṭhā** (intense greed to attain one's cherished goal), **nāma-gāne** **sadā** **ruciḥ**, **tad-guṇākhyāne** **āsaktiḥ**, **tad-vasati-sthale** **prītiḥ** — **ity-ādayaḥ** **‘anubhāvāḥ’** **syuḥ** (are present).
+**jāta-bhāvāṅkure jane** (in a devotee in whom taste has arisen) **kṣāntiḥ** (remaining unagitated even when there is cause for agitation), **avyartha-kālatvam** (spending one's time only in what is related to Kṛṣṇa), **viraktiḥ** (having no desire for anything other than Kṛṣṇa), **māna-śūnyatā** (freedom from pride even when one excels), **āśā-bandhaḥ** (firm hope of attaining Bhagavān), **samutkaṇṭhā** (intense greed to attain one's cherished goal), **nāma-gāne** **sadā** **ruciḥ**, **tad-guṇākhyāne** **āsaktiḥ**, **tad-vasati-sthale** **prītiḥ** — **ity-ādayaḥ** **‘anubhāvāḥ’** **syuḥ** (are present).
 
 ## 20
 
