@@ -79,3 +79,31 @@ Through bad desires and bad company, desires for liberation (*mukti*), worldly e
 ## 36
 
 Whether a man was formerly without desires, full of all desires, or desirous of liberation (*mokṣa*) — as soon as his intelligence becomes broad, he will worship the Supreme Person, Kṛṣṇa, by the path of intense (*tīvra*), pure *bhakti*.
+
+## 37–39
+
+Those who desire *mukti*, *bhukti* and *siddhi* do not seek pure *bhakti*. But if by some good fortune they take up pure service to Kṛṣṇa, Kṛṣṇa mercifully grants them *prema*, the fruit of *sādhana-bhakti*, even though at the time they do not aim at it. Kṛṣṇa says: “In the heart of this man, who has just begun *bhajana*, there was a craving for worldly happiness, and a little of it still remains as part of his nature. He has given up the nectar of *prema* and wished for the poison of worldly objects; so he is a great fool. True, through ignorance he could not ask for what is truly good. But I am wise and experienced and know what is good and bad for him. Therefore I will give him the nectar of My feet and make him forget his thirst for the poison of worldly objects.”
+
+## 40
+
+It is true that Kṛṣṇa, when asked, fulfills people's requests. But He does not give the thing from which requests arise again and again. Some, having other desires, worship His feet, tender as new shoots, without even wishing to obtain them. To them He Himself gives those very feet, which quell all other desires.
+
+## 41
+
+If someone, for the sake of an ordinary desire, seeks out the worship of Kṛṣṇa and in the company of *sādhus* takes up pure service to Kṛṣṇa, the desire for which he came goes away, and he obtains the taste of Kṛṣṇa (*kṛṣṇa-rasa*). Service to Kṛṣṇa is so pure that one who takes it up gives up his former desire and longs to become Kṛṣṇa's servant.
+
+## 42
+
+When Kṛṣṇa wished to give Dhruva a boon, Dhruva said: “Svāmī, I engaged in austerities for You, desiring a high position. But now I have attained You, who are hidden even from the gods and the foremost sages, and my life has found its fulfillment: searching for ordinary glass, I have found a divine jewel! I ask no other boon.”
+
+## 44
+
+“I am so low that I will never see Bhagavān” — this fear of mine is false. For even among those carried off by the current of the river of time, some now and then cross the river.
+
+## 45
+
+What does the word “fortune” mean here — a mere chance event, or something more? The scriptures of *bhakti* call *sukṛti* “fortune.” *Sukṛti* is of three kinds: *sukṛti* turned toward *bhakti*, *sukṛti* turned toward enjoyment, and *sukṛti* turned toward liberation. Acts that are established as producing pure *bhakti* in this world produce *sukṛti* turned toward *bhakti*. Acts whose fruit is worldly enjoyment give *sukṛti* turned toward enjoyment. Acts whose fruit is liberation (*mokṣa*) produce *sukṛti* turned toward liberation. The *sukṛti* that ends worldly existence and awakens devotion to Kṛṣṇa — the *dharma* of one's true nature (*svarūpa*) — grows strong and becomes ready to bear fruit. Then the devotee is delivered from worldly existence in the company of *sādhus*, and *rati* for Kṛṣṇa arises in him.
+
+## 46
+
+O Acyuta, when, wandering through the world, the *jīva* reaches the end of that wandering (*apavarga*) and meets saints, then *rati* arises in him for You — the true goal (*sad-gati*) and the Lord of the higher and the lower.

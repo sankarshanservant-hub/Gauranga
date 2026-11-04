@@ -188,6 +188,54 @@ In another reading a verse is quoted here (*Śrīmad-Bhāgavatam* 2.7.47): “Th
 
 > Subheading: Every intelligent person should worship Kṛṣṇa — (*Śrīmad-Bhāgavatam* 2.3.10) —
 
+Parīkṣit asked, “What is the duty of a man about to die?” In answer to this question, Śrī Śukadeva says that the *jīva*'s only eternal *dharma* is unmotivated, pure devotion to Kṛṣṇa, and that even for the weak-hearted who are full of desires, the worship of Śrī Hari is enjoined:
+
+**sarva-kāmaḥ** (one with all desires, stated and unstated) **mokṣa-kāmaḥ** (one who seeks liberation) **akāmaḥ** (the exclusive pure devotee) **vā**, **udāra-dhīḥ** (a person of broad intelligence) **tīvreṇa** (firm — by its very nature unobstructed) **bhakti-yogena** **param** (the master of *māyā*) **puruṣam** (the Supreme Person, Puruṣottama) **yajeta** (should serve).
+
+## 37
+
+> Subheading: The evidence of Kṛṣṇa's causeless mercy —
+
+## 40
+
+> Subheading: By Kṛṣṇa's mercy even a worshiper with desires comes to desire pure *bhakti*, or becomes free from desires — (*Śrīmad-Bhāgavatam* 5.19.26) —
+
+Śrī Śukadeva recounts to Mahārāja Parīkṣit how the gods sing of the superiority of human birth over all other births and of its necessity, and of the glory of Śrī Hari, who descends among human beings, and of unmotivated, pure devotion to Hari:
+
+(**saḥ** **hariḥ** — that Hari, by people with desires) **arthitaḥ** (when asked) **nṛṇām** (to people with desires) **arthitam** (what is asked for, the desired object) **diśati** (gives) — this is **satyam** (true). (Yet that Lord, as a rule, for them) **arthadaḥ** (the giver of the supreme goal) **na** (does not become); **yat** (because) **yataḥ** (after which — after the giving — for people with desires) **punaḥ** **api** **arthitā** (the request to fulfill desires) **bhavati**. (**tu** — but) **anicchatām** (to those without desires) **bhajatām** (to His servants) **icchā-pidhānam** (that which covers desires and inclinations, that is, fulfills all desires) **svayam** **eva** **vidhatte** (He bestows).
+
+## 41
+
+> Subheading: Though some worshipers with desires have bad desires other than pure *bhakti*, by the power of the constant joy of service that evil is destroyed; even so, desire is not the cause of desirelessness —
+
+## 42
+
+> Subheading: The prayer of Dhruva, full of desires, upon seeing Śrī Hari — (*Hari-bhakti-sudhodaya*, ch. 7, the story of Dhruva, verse 28) —
+
+**sthānābhilāṣī** (one inclined to desire a position, a high place) **ahaṁ** **tapasi** **sthitaḥ**; **he prabho**, **kācaṁ** **vicinvan** (searching for glass) **divya-ratnam** (like a divine jewel) **deva-munīndra-guhyam** (hidden even from the gods and the foremost sages, hard to attain) **tvāṁ** **prāptavān**; **he svāmin** **ahaṁ** **kṛtārthaḥ** **asmi**, **ataḥ** **anyaṁ** **varaṁ** **na** **yāce** (I do not ask).
+
+## 43
+
+> Subheading: A description of the *jīva* who has *sukṛti* —
+
+Countless *jīvas* turned away from Kṛṣṇa wander helplessly through worldly existence, born in higher and lower species. If *sukṛti* arises in one of them, that person reaches the shore by the power of serving the feet of the great souls (*mahat*). Many logs float down a river. Buffeted by the current, one log or another comes to rest on the bank, while the others go on being carried by the stream.
+
+## 44
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.38.5) —
+
+Devarṣi Nārada, having told (Kaṁsa) of the coming slaying of Kaṁsa and the other deeds (of Kṛṣṇa), departed. Then the great soul Akrūra set out for Gokula to bring Rāma and Kṛṣṇa, and on the way he reflected on his good fortune in being about to see Kṛṣṇa:
+
+(“To see Him, who is praised in the finest verses, will be hard for me” — so I think; or else:) **maivam** (no, not so); **adhamasya** (even of one who is low) **mama** **acyuta-darśanam** **syāt** **eva** (will surely be); (for) **kāla-nadyā** **hriyamāṇaḥ** **kaścana** **kvacit** **tarati**. (The sense is this: as of the straws and other things carried along by a river some now and then reach the shore, so among the *jīvas* carried along by time under the sway of *karma*, someone may now and then be saved.)
+
+## 45
+
+> Subheading: The conditioned *jīva* attains perfection as the fruit of *sukṛti* turned toward *bhakti* —
+
+## 46
+
+> Subheading: As the fruit of *sukṛti* comes the company of *sādhus*; as its fruit, the beginning of *bhajana*; and then, as the *anarthas* cease, the perfection of *sādhana*, or the attainment of the goal, *prema* for Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
+
 ---
 
 [^19-1]: The edition reads *phalam*; the verse and the gloss (“exceedingly”) require *alam*. An evident misprint.
