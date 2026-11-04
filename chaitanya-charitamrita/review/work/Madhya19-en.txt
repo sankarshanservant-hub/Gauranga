@@ -542,22 +542,23 @@ tr: Seeing such love, Upādhyāya was amazed. “He is not a human being,” he 
 ## 101
 w: the Lord  says  Upādhyāya  the best  consider  whom
 w: ‘the dark  indeed  supreme  form’  says  Upādhyāya
-tr: The Lord said: “Upādhyāya, whom do you consider the best?” “Śyāmam eva paraṁ rūpam — the dark form is the supreme form,” said Upādhyāya.
+tr: The Lord said: “Upādhyāya, whom do you consider the best?” “*Śyāmam eva paraṁ rūpam* — the dark form is the supreme form,” said Upādhyāya.
 
 ## 102
 w: of the dark form  the abode  the best  consider  which
 w: ‘city  Madhupurī  the best’  says  Upādhyāya
-tr: “Which abode of that dark form do you consider the best?” “Purī madhu-purī varā — Madhupurī is the best of cities,” said Upādhyāya.
+tr: “Which abode of that dark form do you consider the best?” “*Purī madhu-purī varā* — Madhupurī is the best of cities,” said Upādhyāya.
 
 ## 103
 w: childhood  boyhood  youth (of these)  the best  consider  which
 w: ‘the age  of youth  to be meditated on’  says  Upādhyāya
-tr: “Of childhood, boyhood and youth, which do you consider the best?” “Vayaḥ kaiśorakaṁ dhyeyam — youth is the age to meditate on,” said Upādhyāya.
+tr: “Of childhood, boyhood and youth, which do you consider the best?” “*Vayaḥ kaiśorakaṁ dhyeyam* — youth is the age to meditate on,” said Upādhyāya.
 
 ## 104
 w: of the rasas  among  you  the best  consider  which
 w: ‘the original  indeed  supreme  rasa’  says  Upādhyāya
-tr: “Among all the rasas, which do you consider the best?” “Ādya eva paro rasaḥ — the original rasa is the highest,” said Upādhyāya.
+tr: “Among all the rasas, which do you consider the best?” “*Ādya eva paro rasaḥ* — the original rasa is the highest,” said Upādhyāya.
+fn: Edition heading: “The transcendental *śṛṅgāra-rasa* is the highest of the rasas and the best object of worship.”
 
 ## 105
 w: the Lord  says  an excellent  truth  you have taught  Me
@@ -570,6 +571,7 @@ w: city  Madhupurī  the best
 w: the age  of youth  to be meditated on
 w: the original  indeed  supreme  rasa
 tr: “The dark form is the supreme form; Madhupurī is the best of cities; youth (kaiśora) is the age to meditate on; and the original rasa, śṛṅgāra, is the highest rasa.” (Padyāvalī, 82)
+fn: Edition heading: a verse of Mādhavendra Purī quoted in the *Padyāvalī* (82).
 
 ## 107
 w: in loving ecstasy  the Lord  him  embraced
@@ -580,6 +582,7 @@ tr: In the ecstasy of love the Lord embraced him, and he, intoxicated with love,
 w: seeing  Vallabha Bhaṭṭa  in mind  amazement  there was
 w: two  sons  bringing  at the Lord’s  feet  he made fall
 tr: Seeing this, Vallabha Bhaṭṭa was amazed. He brought his two sons and had them fall at the Lord’s feet.
+fn: *Anubhāṣya*: Vallabha’s two sons were Gopīnātha and Viṭṭhaleśvara; but the Lord came to Prayāga in 1434 or 1435 of the Śaka era, when Viṭṭhala had not yet been born. In the edition “two” (*dui*) is followed by an editorial “(?)”, and the heading speaks of one son.
 
 ## 109
 w: the Lord  to see  of the village  all the people  came
@@ -643,14 +646,16 @@ w: who  before  already  by the multitude of the Beloved’s qualities  tightly 
 w: from attachment to home  rasa  like  supreme  embodied  indeed though  intangible
 w: with loving talks  with the joys of the tightest embraces  in Prayāga
 w: him  Śrī Rūpa  together  with Anupama favored  the Lord
-tr: “Śrī Rūpa, though tightly bound by the many qualities of his Beloved, had already become free from attachment to home. In Prayāga the Lord — like the supreme rasa, intangible yet appearing in a form — favored him, together with Anupama, with loving talks and the joy of the tightest embraces.” (Caitanya-candrodaya, 9.29)
+tr: “Though Śrī Rūpa had long been bound fast by the many qualities of his Beloved, he was free from attachment to home. The Lord is like the supreme rasa, which, though intangible, has taken on a visible form. In Prayāga He favoured Rūpa and his younger brother Anupama with loving talks and the joy of the tightest embraces.” (Caitanya-candrodaya, 9.29)
+fn: *Anubhāṣya*: the Beloved is Gaura; Śrī Rūpa’s attachment to home was only enacted for the sake of the pastime.
 
 ## 121
 w: dear by nature  beloved by nature
 w: the embodiment of love  naturally beautiful
 w: like Himself  the Lord  the principal form
 w: spread  through Rūpa  the form of His own pastimes
-tr: “Through Rūpa — dear to Him by his very nature and beloved by nature, the embodiment of love, naturally beautiful, like the Lord Himself, His principal form and the form of His own pastimes — the Lord spread the scriptures of bhakti-rasa.” (Caitanya-candrodaya, 9.30)
+tr: “Rūpa is dear to the Lord by his very nature and beloved by Him; he is love embodied, and his form is naturally beautiful. He is like the Lord Himself, His principal form and the form of His own pastimes. Through such a Rūpa the Lord spread the scriptures of bhakti-rasa.” (Caitanya-candrodaya, 9.30)
+fn: Edition heading: “*Śrī Caitanya-candrodaya-nāṭaka*, Act 9, words of Sārvabhauma” (the verse number is not given).
 
 ## 122
 w: in this way  Karṇapūra  writes  in various places
@@ -686,3 +691,4 @@ tr: “They have no dwelling. Of all the trees in the forest, they sleep under e
 w: ‘in the homes of brāhmaṇas’  a full meal as alms  somewhere  mādhukarī
 w: dry  bread and chickpeas  they chew  enjoyment  rejecting
 tr: In the homes of brāhmaṇas they take a full meal as alms; elsewhere they gather mādhukarī. Rejecting all enjoyment, they chew dry bread and parched chickpeas.
+fn: *Anubhāṣya*: *sthūla-bhikṣā* is alms after which one need beg for no more food; *mādhukarī* — as the bee gathers honey from many flowers, so the renunciant collects a little food in many places. Renouncing everything that excites the senses, they sustained the body for bhajana on dry bread and parched chickpeas.
