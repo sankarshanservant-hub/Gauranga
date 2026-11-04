@@ -348,6 +348,60 @@ See Ādi 2.96.
 
 > Subheading: (A-2) On Kṛṣṇa's potency —
 
+## 112
+
+> Subheading: The three kinds of potency —
+
+See Ādi 7.119.
+
+## 113
+
+> Subheading: (1) The internal potency, the *svarūpa-śakti*, abides inseparably in the possessor of potency —
+
+**tapatāṁ** (of ascetics) **śreṣṭha**, **yathā** **pāvakasya** (of fire) **uṣṇatā** (there is heat — the power to burn and so on), **tathā** **yataḥ** (from Brahman) **eva** **sarva-bhāvānāṁ** **acintya-jñāna-gocarāḥ** (beyond the reach of human intelligence), **ataḥ** **tu** (for that very reason) **tāḥ** (such) **sargādyāḥ** (the spiritual creation and the rest — inseparably) **brahmaṇaḥ** **śaktayaḥ** (eternally manifest) **bhavanti**.
+
+## 114
+
+> Subheading: (2) The marginal potency — the *jīva-śakti* —
+
+## 114–115
+
+See Madhya 6.155–156.
+
+## 116
+
+> Subheading: (3) The external potency — the *māyā-śakti* —
+
+See Ādi 7.118.
+
+## 117
+
+> Subheading: (B) On the distorted nature (*virūpa*); the conditioned *jīva's* disease of worldly existence and its result — misery, or punishment —
+
+## 118
+
+The eternally liberated *jīva* never forgets Kṛṣṇa: from beginningless time he remains turned toward Kṛṣṇa, established in his eternal function — service to Hari. But those *jīvas* who have forgotten their right to serve Kṛṣṇa and, following a beginningless desire to enjoy the fruits of *karma*, cultivate *māyā* and think themselves the enjoyers of those fruits — for them *māyā* appoints the enjoyment of the fruits of *karma*. As a king rewards and punishes, so the conditioned *jīva*, by the power of pious deeds, rises to heaven, takes the position of a god and enjoys happiness, and again, as the fruit of sin, suffers in hell and elsewhere.
+
+## 119
+
+> Subheading: (C) The disease of the conditioned *jīva*, its cause and its cure — that is, the rules of diet and of taking the medicine —
+
+In Dvārakā, in answer to Vasudeva's question, Devarṣi Nārada was glorifying *bhāgavata-dharma* and related the conversation between Nimi, king of Videha, and the nine Yogendras. When the nine Yogendras came to Nimi's sacrifice, he asked them to describe *bhāgavata-dharma*. One of them, the sage Kavi, first described the characteristics of *bhāgavata-dharma* and now teaches about the plight of the conditioned *jīva* and the duty to worship Bhagavān.
+
+(Since) **īśāt** (from Bhagavān Kṛṣṇa) **apetasya** (of the conditioned *jīva* who has turned away) **tan-māyayā** (by the *māyā* — the external potency — of that Bhagavān Kṛṣṇa) **asmṛtiḥ** (forgetfulness of Bhagavān's own form, that is, absence of remembrance; then) **viparyayaḥ** (the false notion, created by *māyā*, that one is the enjoyer of the fruits of *karma* — that is, the reversed understanding “I am the body,” rooted in illusion (*vivarta*) and arising from forgetting one's own nature; then) **dvitīyābhiniveśataḥ** (from fancies of one's own enjoyment — that is, from absorption in what is not one's own nature, the body and so on; this absorption comes from identifying oneself with the body, and that from forgetting one's own nature) **bhayaṁ** (the round of birth and death, or anxiety over body, wealth and friends) **syāt** (arises); **ataḥ** **budhaḥ** (an intelligent *jīva* turned toward Kṛṣṇa) **tam** (that Lord — Adhokṣaja alone) **guru-devatātmā** (seeing the guru as his deity — the Lord — and as his self, the dearmost) **ekayā** (single — unwavering, exclusive) **bhaktyā** (by devotion — giving up the pursuit of the other paths, *jñāna* and *karma*) **ābhajet** (should serve fully).
+
+## 120
+
+> Subheading: (D) Description of the descent, or *avatāra*, of the Supreme Lord, the possessor of the spiritual potency; the only way to conquer *māyā* —
+
+Turned away from Kṛṣṇa, the *jīva* is busy enjoying worldly happiness. When, by the mercy of the Vaiṣṇavas and the grace of the scriptures, he becomes free from the desire to enjoy the fruits of *karma* and turns eagerly to Kṛṣṇa's service, he is delivered from the thirst for enjoyment or for liberation. When his intelligence becomes devoted to serving Kṛṣṇa, *māyā* — the desire for worldly enjoyment — lets him go. Once turned toward Kṛṣṇa's service, the *jīva* is no longer intoxicated with *ahaṁgrahopāsanā* (worshipping oneself as God) as a *jñānī* who desires liberation; nor, led by the desire for worldly enjoyment, does he seek to enjoy fruits. He is no longer bound to anything other than Kṛṣṇa, but escapes from the hands of *māyā*.
+
+## 121
+
+> Subheading: Only a devotee surrendered to Kṛṣṇa conquers *māyā* —
+
+**eṣā** **mama** (of Me, the Supreme Lord) **daivī** (not of this world, belonging to Viṣṇu) **guṇamayī** (made of *sattva*, *rajas* and *tamas*) **māyā** (the external potency) **duratyayā** (insurmountable for *jīvas* bound by desires for enjoyment and liberation) **hi** (indeed); **mām** (to Kṛṣṇa — Svayaṁ Bhagavān, possessed of His *svarūpa-śakti*) **ye** (those people who) **prapadyante** (surrender with their whole being), **te** (they alone) **etāṁ** **māyāṁ** (the *prakṛti* that bewilders the *jīvas*) **taranti** (cross over, conquer).
+
 ---
 
 [^97-1]: Śrīdhara Svāmī's commentary *Bhāvārtha-dīpikā* on *Śrīmad-Bhāgavatam* 10.1.1 (cf. CC Ādi 2.95).

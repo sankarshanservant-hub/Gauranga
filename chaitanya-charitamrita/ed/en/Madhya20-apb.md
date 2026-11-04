@@ -55,3 +55,23 @@ In answer to the question “Who am I?” Mahāprabhu says: “You are a *jīva*
 ## 110
 
 As the light of a fire situated in one place spreads all around, so the potency of the Supreme Brahman pervades the whole universe.
+
+## 113
+
+The potencies of all that exists, which only inconceivable knowledge can grasp, reside in Brahman; that is why these potencies of Brahman act as the potencies of being — of creation and the rest. O best of ascetics, as heat is a property inherent in fire itself, so the potencies are properties inherent in Brahman itself.
+
+## 117
+
+The *jīva* falls into the bondage of *māyā* precisely by forgetting, “I am Kṛṣṇa's eternal servant.” The *jīva*, being the marginal potency, is situated where the spiritual world and the world of *māyā* meet; while there, he desired to enjoy *māyā*, and so he entered *māyā*. The reckoning of māyic time begins only from this entry into *māyā*. Since the *jīva* turned away from Kṛṣṇa before that reckoning of time began, his aversion is called “beginningless”: it arose before māyic time.
+
+## 119
+
+Because the *jīva* is absorbed in *māyā*, which is other than Kṛṣṇa, “fear” comes upon him; and because he has turned away from that Lord, a reversed memory born of *māyā* arises in him. Therefore a wise person, regarding the guru as his “deity” and his “self,” should worship that Supreme Lord with exclusive devotion.
+
+## 120
+
+That the *jīva* fell because he turned away from Kṛṣṇa is learned by the mercy of the *sādhus* and the scriptures. The *jīva* who learns this and turns toward Kṛṣṇa again is delivered, and *māyā* leaves him.
+
+## 121
+
+This *māyā* of Mine, made of the three *guṇas*, is extremely hard to cross. Only one who surrenders to Me can cross this *māyā*.
