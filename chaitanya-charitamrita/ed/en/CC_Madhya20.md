@@ -2068,321 +2068,401 @@ in Śrāvaṇa  Śrīdhara  in Bhādra  Lord  Hṛṣīkeśa
 ‘রাধা-দামোদর’ অন্য ব্রজেন্দ্র-কোঙর ॥ ২০১ ॥
 
 āśvine — padmanābha, kārtike — dāmodara  
-‘rādhā-dāmodara’ anya vrajendra-koṅara
+in Āśvina  Padmanābha  in Kārttika  Dāmodara  
+‘rādhā-dāmodara’ anya vrajendra-koṅara  
+Rādhā-Dāmodara  another  the son of Vraja’s king
 
-(201) [not yet translated]
+(201) “in Āśvina, Padmanābha; in Kārttika, Dāmodara. Rādhā-Dāmodara, the son of the king of Vraja, is another.
 
 দ্বাদশ তিলক-মন্ত্র এই দ্বাদশ নাম ৷  
 আচমনে এই নামে স্পর্শি তত্তৎস্থান ॥ ২০২ ॥
 
 dvādaśa tilaka-mantra ei dvādaśa nāma  
-ācamane ei nāme sparśi tat-tat-sthāna
+twelve  tilaka mantras  these  twelve  names  
+ācamane ei nāme sparśi tat-tat-sthāna  
+in ācamana  with these  names  touching  the respective places
 
-(202) [not yet translated]
+(202) “These twelve names are the twelve mantras for *tilaka*; in *ācamana* one touches the respective places of the body with these names.
 
 এই চারিজনের বিলাস-মূর্ত্তি আর অষ্ট জন ৷  
 তাঁ-সবার নাম কহি, শুন, সনাতন ॥ ২০৩ ॥
 
 ei cāri-janera vilāsa-mūrti āra aṣṭa jana  
-tāṅ-sabāra nāma kahi, śuna, sanātana
+of these  four  the vilāsa-forms  further  eight  persons  
+tāṅ-sabāra nāma kahi, śuna, sanātana  
+of Them all  the names  I tell  hear  Sanātana
 
-(203) [not yet translated]
+(203) “These four have eight further *vilāsa* forms. I shall tell you all Their names; hear, Sanātana.
 
 পুরুষোত্তম, অচ্যুত, নৃসিংহ, জনার্দ্দন ৷  
 হরি, কৃষ্ণ, অধোক্ষজ, উপেন্দ্র, — অষ্টজন ॥ ২০৪ ॥
 
 puruṣottama, acyuta, nṛsiṁha, janārdana  
-hari, kṛṣṇa, adhokṣaja, upendra, — aṣṭa-jana
+Puruṣottama  Acyuta  Nṛsiṁha  Janārdana  
+hari, kṛṣṇa, adhokṣaja, upendra, — aṣṭa-jana  
+Hari  Kṛṣṇa  Adhokṣaja  Upendra  eight persons
 
-(204) [not yet translated]
+(204) “Puruṣottama, Acyuta, Nṛsiṁha, Janārdana, Hari, Kṛṣṇa, Adhokṣaja and Upendra — these are the eight.
 
 বাসুদেবের বিলাস দুই — অধোক্ষজ, পুরুষোত্তম ৷  
 সঙ্কর্ষণের বিলাস — উপেন্দ্র, অচ্যুত, দুইজন ॥ ২০৫ ॥
 
 vāsudevera vilāsa dui — adhokṣaja, puruṣottama  
-saṅkarṣaṇera vilāsa — upendra, acyuta, dui-jana
+Vāsudeva’s  vilāsas  two  Adhokṣaja  Puruṣottama  
+saṅkarṣaṇera vilāsa — upendra, acyuta, dui-jana  
+Saṅkarṣaṇa’s  vilāsas  Upendra  Acyuta  the two
 
-(205) [not yet translated]
+(205) “Vāsudeva’s two *vilāsas* are Adhokṣaja and Puruṣottama; Saṅkarṣaṇa’s *vilāsas* are the two, Upendra and Acyuta.
 
 প্রদ্যুম্নের বিলাস — নৃসিংহ, জনার্দ্দন ৷  
 অনিরুদ্ধের বিলাস — হরি, কৃষ্ণ দুইজন ॥ ২০৬ ॥
 
 pradyumnera vilāsa — nṛsiṁha, janārdana  
-aniruddhera vilāsa — hari, kṛṣṇa dui-jana
+Pradyumna’s  vilāsas  Nṛsiṁha  Janārdana  
+aniruddhera vilāsa — hari, kṛṣṇa dui-jana  
+Aniruddha’s  vilāsas  Hari  Kṛṣṇa  the two
 
-(206) [not yet translated]
+(206) “Pradyumna’s *vilāsas* are Nṛsiṁha and Janārdana; Aniruddha’s *vilāsas* are the two, Hari and Kṛṣṇa.
 
 এই চব্বিশ মূর্ত্তি — বৈভব-বিলাস প্রধান ৷  
 অস্ত্রধারণ-ভেদে ধরে ভিন্ন ভিন্ন নাম ॥ ২০৭ ॥
 
 ei cabbiśa mūrti — vaibhava-vilāsa pradhāna  
-astra-dhāraṇa-bhede dhare bhinna bhinna nāma
+these  twenty-four  forms  vaibhava-vilāsas  the chief  
+astra-dhāraṇa-bhede dhare bhinna bhinna nāma  
+of weapons  holding  by the difference  bear  different  different  names
 
-(207) [not yet translated]
+(207) “These twenty-four forms are the chief *vaibhava-vilāsas*. According to how They hold Their weapons, They bear different names.
 
 ইঁহার মধ্যে যাঁহার হয় আকার-বেশ-ভেদ ৷  
 সেই সেই হয় বিলাস-বৈভব-বিভেদ ॥ ২০৮ ॥
 
 iṅhāra madhye yānṅhāra haya ākāra-veśa-bheda  
-sei sei haya vilāsa-vaibhava-vibheda
+of Them  among  of whom  there is  of shape  of dress  a difference  
+sei sei haya vilāsa-vaibhava-vibheda  
+those  those  are  of vilāsa  of vaibhava  varieties
 
-(208) [not yet translated]
+(208) “Those among Them who differ in shape and dress are varieties of *vilāsa* and *vaibhava*.
 
 পদ্মনাভ, ত্রিবিক্রম, নৃসিংহ, বামন ৷  
 হরি, কৃষ্ণ আদি হয় ‘আকারে’ বিলক্ষণ ॥ ২০৯ ॥
 
 padmanābha, trivikrama, nṛsiṁha, vāmana  
-hari, kṛṣṇa ādi haya ‘ākāre’ vilakṣaṇa
+Padmanābha  Trivikrama  Nṛsiṁha  Vāmana  
+hari, kṛṣṇa ādi haya ‘ākāre’ vilakṣaṇa  
+Hari  Kṛṣṇa  and others  are  in shape  distinctive
 
-(209) [not yet translated]
+(209) “Padmanābha, Trivikrama, Nṛsiṁha, Vāmana, Hari, Kṛṣṇa and others are distinctive in shape.
 
 কৃষ্ণের প্রাভববিলাস — বাসুদেবাদি চারি জন ৷  
 সেই চারিজনার বিলাস — বিংশতি গণন ॥ ২১০ ॥
 
 kṛṣṇera prābhava-vilāsa — vāsudevādi cāri jana  
-sei cāri-janāra vilāsa — viṁśati gaṇana
+Kṛṣṇa’s  prābhava-vilāsa  Vāsudeva and the others  four  persons  
+sei cāri-janāra vilāsa — viṁśati gaṇana  
+of those  four  the vilāsas  twenty  in number
 
-(210) [not yet translated]
+(210) “Kṛṣṇa’s *prābhava-vilāsas* are the four — Vāsudeva and the others; the *vilāsas* of those four are twenty in number.
 
 ইঁহা-সবার পৃথক্ বৈকুণ্ঠ — পরব্যোম-ধামে ৷  
 পূর্ব্বাদি অষ্টদিকে তিন তিন ক্রমে ॥ ২১১ ॥
 
 iṅhā-sabāra pṛthak vaikuṇṭha — paravyoma-dhāme  
-pūrvādi aṣṭa-dike tina tina krame
+of Them all  separate  Vaikuṇṭhas  in the abode of the paravyoma  
+pūrvādi aṣṭa-dike tina tina krame  
+from the east onward  in the eight directions  three  three  in order
 
-(211) [not yet translated]
+(211) “Each of Them has a separate Vaikuṇṭha in the abode of the spiritual sky — three in each of the eight directions, in order, beginning with the east.
 
 যদ্যপি পরব্যোম সবাকার নিত্যধাম ৷  
 তথাপি ব্রহ্মাণ্ডে কারো কাঁহো সন্নিধান ॥ ২১২ ॥
 
 yadyapi paravyoma sabākāra nitya-dhāma  
-tathāpi brahmāṇḍe kāro kāṅho sannidhāna
+although  the paravyoma  of all  the eternal abode  
+tathāpi brahmāṇḍe kāro kāṅho sannidhāna  
+still  in the universe  of some  somewhere  the presence
 
-(212) [not yet translated]
+(212) “Although the spiritual sky is the eternal abode of all of Them, some of Them are also present in places within the universe.
 
 পরব্যোম-মধ্যে নারায়ণের নিত্য-স্থিতি ৷  
 পরব্যোম-উপরি কৃষ্ণলোকের বিভূতি ॥ ২১৩ ॥
 
 paravyoma-madhye nārāyaṇera nitya-sthiti  
-paravyoma-upari kṛṣṇalokera vibhūti
+in the paravyoma  Nārāyaṇa’s  eternal residence  
+paravyoma-upari kṛṣṇalokera vibhūti  
+above the paravyoma  of Kṛṣṇaloka  the splendor
 
-(213) [not yet translated]
+(213) “Within the spiritual sky Nārāyaṇa eternally resides; above the spiritual sky is the splendor of Kṛṣṇaloka.
 
 এক ‘কৃষ্ণলোক’ হয় ত্রিবিধপ্রকার ৷  
 গোকুলাখ্য, মথুরাখ্য, দ্বারকাখ্য আর ॥ ২১৪ ॥
 
 eka ‘kṛṣṇaloka’ haya trividha-prakāra  
-gokulākhya, mathurākhya, dvārakākhya āra
+one  Kṛṣṇaloka  is  of three kinds  
+gokulākhya, mathurākhya, dvārakākhya āra  
+called Gokula  called Mathurā  called Dvārakā  and
 
-(214) [not yet translated]
+(214) “The one Kṛṣṇaloka is of three kinds: Gokula, Mathurā and Dvārakā.
 
 মথুরাতে কেশবের নিত্য সন্নিধান ৷  
 নীলাচলে পুরুষোত্তম — ‘জগন্নাথ’ নাম ॥ ২১৫ ॥
 
 mathurāte keśavera nitya sannidhāna  
-nīlācale puruṣottama — ‘jagannātha’ nāma
+in Mathurā  Keśava’s  eternal  presence  
+nīlācale puruṣottama — ‘jagannātha’ nāma  
+in Nīlācala  Puruṣottama  Jagannātha  by name
 
-(215) [not yet translated]
+(215) “Keśava is eternally present in Mathurā; in Nīlācala it is Puruṣottama, named Jagannātha.
 
 প্রয়াগে মাধব, মন্দারে শ্রীমধুসূদন ৷  
 আনন্দারণ্যে বাসুদেব, পদ্মনাভ, জনার্দ্দন ॥ ২১৬ ॥
 
 prayāge mādhava, mandāre śrī-madhusūdana  
-ānandāraṇye vāsudeva, padmanābha, janārdana
+at Prayāga  Mādhava  at Mandāra  Śrī Madhusūdana  
+ānandāraṇye vāsudeva, padmanābha, janārdana  
+at Ānandāraṇya  Vāsudeva  Padmanābha  Janārdana
 
-(216) [not yet translated]
+(216) “At Prayāga He is Mādhava; at Mandāra, Śrī Madhusūdana; at Ānandāraṇya, Vāsudeva, Padmanābha and Janārdana.
 
 বিষ্ণুকাঞ্চীতে বিষ্ণু, হরি রহে মায়াপুরে ৷  
 ঐছে আর নানা মূর্ত্তি ব্রহ্মাণ্ড-ভিতরে ॥ ২১৭ ॥
 
 viṣṇu-kāñcīte viṣṇu, hari rahe māyāpure  
-aiche āra nānā mūrti brahmāṇḍa-bhitare
+at Viṣṇu-kāñcī  Viṣṇu  Hari  stays  at Māyāpura  
+aiche āra nānā mūrti brahmāṇḍa-bhitare  
+thus  also  various  forms  within the universe
 
-(217) [not yet translated]
+(217) “At Viṣṇu-kāñcī He is Viṣṇu, and Hari stays at Māyāpura. In the same way there are various other forms within the universe.
 
 এইমত ব্রহ্মাণ্ড মধ্যে সবার ‘পরকাশ’ ৷  
 সপ্তদ্বীপে নবখণ্ডে যাঁহার বিলাস ॥ ২১৮ ॥
 
 ei-mata brahmāṇḍa madhye sabāra ‘parakāśa’  
-sapta-dvīpe nava-khaṇḍe yāṅhāra vilāsa
+in this way  the universe  within  of all  the manifestation  
+sapta-dvīpe nava-khaṇḍe yāṅhāra vilāsa  
+in the seven dvīpas  in the nine khaṇḍas  whose  pastimes
 
-(218) [not yet translated]
+(218) “In this way all of Them are manifest within the universe, and Their pastimes take place in the seven *dvīpas* and the nine *khaṇḍas*.
 
 সর্ব্বত্র প্রকাশ তাঁর — ভক্তে সুখ দিতে ৷  
 জগতের অধর্ম্ম নাশি’ ধর্ম্ম স্থাপিতে ॥ ২১৯ ॥
 
 sarvatra prakāśa tāṅra — bhakte sukha dite  
-jagatera adharma nāśi’ dharma sthāpite
+everywhere  the manifestation  His  to the devotees  joy  to give  
+jagatera adharma nāśi’ dharma sthāpite  
+of the world  the irreligion  destroying  religion  to establish
 
-(219) [not yet translated]
+(219) “He is manifest everywhere to give joy to His devotees, to destroy the irreligion of the world and to establish *dharma*.
 
 ইঁহার মধ্যে কারো হয় ‘অবতারে’ গণন ৷  
 যৈছে বিষ্ণু, ত্রিবিক্রম, নৃসিংহ, বামন ॥ ২২০ ॥
 
 iṅhāra madhye kāro haya ‘avatāre’ gaṇana  
-yaiche viṣṇu, trivikrama, nṛsiṁha, vāmana
+of Them  among  of some  there is  among the avatāras  the counting  
+yaiche viṣṇu, trivikrama, nṛsiṁha, vāmana  
+like  Viṣṇu  Trivikrama  Nṛsiṁha  Vāmana
 
-(220) [not yet translated]
+(220) “Some of Them are counted among the *avatāras*, such as Viṣṇu, Trivikrama, Nṛsiṁha and Vāmana.
 
 অস্ত্রধৃতি-ভেদ — নাম-ভেদের কারণ ৷  
 চক্রাদি-ধারণ-ভেদ শুন, সনাতন ॥ ২২১ ॥
 
 astra-dhṛti-bheda — nāma-bhedera kāraṇa  
-cakrādi-dhāraṇa-bheda śuna, sanātana
+of weapons  holding  the difference  of the difference of names  the cause  
+cakrādi-dhāraṇa-bheda śuna, sanātana  
+of the disc and the rest  holding  the differences  hear  Sanātana
 
-(221) [not yet translated]
+(221) “The different ways of holding the weapons are the cause of the different names. Hear, Sanātana, how differently They hold the disc and the rest.
 
 দক্ষিণাধো হস্ত হৈতে বামাধঃ পর্য্যন্ত ৷  
 চক্রাদি অস্ত্রধারণ-গণনার অন্ত ॥ ২২২ ॥
 
 dakṣiṇādho hasta haite vāmādhaḥ paryanta  
-cakrādi astra-dhāraṇa-gaṇanāra anta
+from the lower right  hand  starting  the lower left  up to  
+cakrādi astra-dhāraṇa-gaṇanāra anta  
+of the disc and the rest  of weapons  holding  of the counting  the end
 
-(222) [not yet translated]
+(222) “The count of how They hold the disc and the other weapons begins with the lower right hand and ends with the lower left.
 
 সিদ্ধার্থ সংহিতা করে চব্বিশ মূর্ত্তি গণন ৷  
 তাঁর মতে আগে কহি চক্রাদি ধারণ ॥ ২২৩ ॥
 
 siddhārtha saṁhitā kare cabbiśa mūrti gaṇana  
-tāṅra mate āge kahi cakrādi dhāraṇa
+the Siddhārtha  Saṁhitā  makes  of twenty-four  forms  the enumeration  
+tāṅra mate āge kahi cakrādi dhāraṇa  
+its  in the view  first  I tell  of the disc and the rest  the holding
 
-(223) [not yet translated]
+(223) “The *Siddhārtha-saṁhitā* enumerates twenty-four forms. First I shall tell, according to it, how They hold the disc and the rest.
 
 বাসুদেব — গদাশঙ্খচক্রপদ্মধর ৷  
 সঙ্কর্ষণ — গদাশঙ্খপদ্মচক্রকর ॥ ২২৪ ॥
 
 vāsudeva — gadā-śaṅkha-cakra-padma-dhara  
-saṅkarṣaṇa — gadā-śaṅkha-padma-cakra-kara
+Vāsudeva  mace  conch  disc  lotus  holding  
+saṅkarṣaṇa — gadā-śaṅkha-padma-cakra-kara  
+Saṅkarṣaṇa  mace  conch  lotus  disc  in His hands
 
-(224) [not yet translated]
+(224) “Vāsudeva holds the mace, conch, disc and lotus; Saṅkarṣaṇa, the mace, conch, lotus and disc.
 
 প্রদ্যুম্ন — চক্রশঙ্খগদাপদ্মধর ৷  
 অনিরুদ্ধ — চক্রগদাশঙ্খপদ্মকর ॥ ২২৫ ॥
 
 pradyumna — cakra-śaṅkha-gadā-padma-dhara  
-aniruddha — cakra-gadā-śaṅkha-padma-kara
+Pradyumna  disc  conch  mace  lotus  holding  
+aniruddha — cakra-gadā-śaṅkha-padma-kara  
+Aniruddha  disc  mace  conch  lotus  in His hands
 
-(225) [not yet translated]
+(225) “Pradyumna holds the disc, conch, mace and lotus; Aniruddha, the disc, mace, conch and lotus.
 
 পরব্যোমে বাসুদেবাদি — নিজ নিজ অস্ত্রধর ৷  
 তাঁর মত কহি যে-সব অস্ত্রকর ॥ ২২৬ ॥
 
 paravyome vāsudevādi — nija nija astra-dhara  
-tāṅra mata kahi ye-saba astra-kara
+in the paravyoma  Vāsudeva and the others  own  own  weapons  holding  
+tāṅra mata kahi ye-saba astra-kara  
+its  view  I tell  which  weapons  in hand
 
-(226) [not yet translated]
+(226) “In the spiritual sky Vāsudeva and the others each hold Their own weapons. According to it, I shall tell which weapons each holds.
 
 শ্রীকেশব — পদ্মশঙ্খচক্রগদাধর ৷  
 নারায়ণ — শঙ্খপদ্মগদাচক্রধর ॥ ২২৭ ॥
 
 śrī-keśava — padma-śaṅkha-cakra-gadā-dhara  
-nārāyaṇa — śaṅkha-padma-gadā-cakra-dhara
+Śrī Keśava  lotus  conch  disc  mace  holding  
+nārāyaṇa — śaṅkha-padma-gadā-cakra-dhara  
+Nārāyaṇa  conch  lotus  mace  disc  holding
 
-(227) [not yet translated]
+(227) “Śrī Keśava holds the lotus, conch, disc and mace; Nārāyaṇa, the conch, lotus, mace and disc.
 
 শ্রীমাধব — গদাচক্রশঙ্খপদ্মকর ৷  
 শ্রীগোবিন্দ — চক্রগদাপদ্মশঙ্খধর ॥ ২২৮ ॥
 
 śrī-mādhava — gadā-cakra-śaṅkha-padma-kara  
-śrī-govinda — cakra-gadā-padma-śaṅkha-dhara
+Śrī Mādhava  mace  disc  conch  lotus  in His hands  
+śrī-govinda — cakra-gadā-padma-śaṅkha-dhara  
+Śrī Govinda  disc  mace  lotus  conch  holding
 
-(228) [not yet translated]
+(228) “Śrī Mādhava holds the mace, disc, conch and lotus; Śrī Govinda, the disc, mace, lotus and conch.
 
 বিষ্ণুমূর্ত্তি — গদাপদ্মশঙ্খচক্রকর ৷  
 মধুসূদন — চক্রশঙ্খপদ্মগদাধর ॥ ২২৯ ॥
 
 viṣṇu-mūrti — gadā-padma-śaṅkha-cakra-kara  
-madhusūdana — cakra-śaṅkha-padma-gadā-dhara
+the form of Viṣṇu  mace  lotus  conch  disc  in His hands  
+madhusūdana — cakra-śaṅkha-padma-gadā-dhara  
+Madhusūdana  disc  conch  lotus  mace  holding
 
-(229) [not yet translated]
+(229) “The form of Viṣṇu holds the mace, lotus, conch and disc; Madhusūdana, the disc, conch, lotus and mace.
 
 ত্রিবিক্রম — পদ্মগদাচক্রশঙ্খকর ৷  
 শ্রীবামন — শঙ্খচক্রগদাপদ্মধর ॥ ২৩০ ॥
 
 trivikrama — padma-gadā-cakra-śaṅkha-kara  
-śrī-vāmana — śaṅkha-cakra-gadā-padma-dhara
+Trivikrama  lotus  mace  disc  conch  in His hands  
+śrī-vāmana — śaṅkha-cakra-gadā-padma-dhara  
+Śrī Vāmana  conch  disc  mace  lotus  holding
 
-(230) [not yet translated]
+(230) “Trivikrama holds the lotus, mace, disc and conch; Śrī Vāmana, the conch, disc, mace and lotus.
 
 শ্রীধর — পদ্মচক্রগদাশঙ্খকর ৷  
 হৃষীকেশ — গদাচক্রপদ্মশঙ্খধর ॥ ২৩১ ॥
 
 śrīdhara — padma-cakra-gadā-śaṅkha-kara  
-hṛṣīkeśa — gadā-cakra-padma-śaṅkha-dhara
+Śrīdhara  lotus  disc  mace  conch  in His hands  
+hṛṣīkeśa — gadā-cakra-padma-śaṅkha-dhara  
+Hṛṣīkeśa  mace  disc  lotus  conch  holding
 
-(231) [not yet translated]
+(231) “Śrīdhara holds the lotus, disc, mace and conch; Hṛṣīkeśa, the mace, disc, lotus and conch.
 
 পদ্মনাভ — শঙ্খপদ্মচক্রগদাকর ৷  
 দামোদর — পদ্মচক্রগদাশঙ্খধর ॥ ২৩২ ॥
 
 padmanābha — śaṅkha-padma-cakra-gadā-kara  
-dāmodara — padma-cakra-gadā-śaṅkha-dhara
+Padmanābha  conch  lotus  disc  mace  in His hands  
+dāmodara — padma-cakra-gadā-śaṅkha-dhara  
+Dāmodara  lotus  disc  mace  conch  holding
 
-(232) [not yet translated]
+(232) “Padmanābha holds the conch, lotus, disc and mace; Dāmodara, the lotus, disc, mace and conch.
 
 পুরুষোত্তম — চক্রপদ্মশঙ্খগদাধর ৷  
 শ্রীঅচ্যুত — গদাপদ্মচক্রশঙ্খধর ॥ ২৩৩ ॥
 
 puruṣottama — cakra-padma-śaṅkha-gadā-dhara  
-śrī-acyuta — gadā-padma-cakra-śaṅkha-dhara
+Puruṣottama  disc  lotus  conch  mace  holding  
+śrī-acyuta — gadā-padma-cakra-śaṅkha-dhara  
+Śrī Acyuta  mace  lotus  disc  conch  holding
 
-(233) [not yet translated]
+(233) “Puruṣottama holds the disc, lotus, conch and mace; Śrī Acyuta, the mace, lotus, disc and conch.
 
 শ্রীনৃসিংহ — চক্রপদ্মগদাশঙ্খধর ৷  
 জনার্দ্দন — পদ্মচক্রশঙ্খগদাকর ॥ ২৩৪ ॥
 
 śrī-nṛsiṁha — cakra-padma-gadā-śaṅkha-dhara  
-janārdana — padma-cakra-śaṅkha-gadā-kara
+Śrī Nṛsiṁha  disc  lotus  mace  conch  holding  
+janārdana — padma-cakra-śaṅkha-gadā-kara  
+Janārdana  lotus  disc  conch  mace  in His hands
 
-(234) [not yet translated]
+(234) “Śrī Nṛsiṁha holds the disc, lotus, mace and conch; Janārdana, the lotus, disc, conch and mace.
 
 শ্রীহরি — শঙ্খচক্রপদ্মগদাকর ৷  
 শ্রীকৃষ্ণ — শঙ্খগদাপদ্মচক্রকর ॥ ২৩৫ ॥
 
 śrī-hari — śaṅkha-cakra-padma-gadā-kara  
-śrī-kṛṣṇa — śaṅkha-gadā-padma-cakra-kara
+Śrī Hari  conch  disc  lotus  mace  in His hands  
+śrī-kṛṣṇa — śaṅkha-gadā-padma-cakra-kara  
+Śrī Kṛṣṇa  conch  mace  lotus  disc  in His hands
 
-(235) [not yet translated]
+(235) “Śrī Hari holds the conch, disc, lotus and mace; Śrī Kṛṣṇa, the conch, mace, lotus and disc.
 
 অধোক্ষজ — পদ্মগদাশঙ্খচক্রকর ৷  
 উপেন্দ্র — শঙ্খগদাচক্রপদ্মকর ॥ ২৩৬ ॥
 
 adhokṣaja — padma-gadā-śaṅkha-cakra-kara  
-upendra — śaṅkha-gadā-cakra-padma-kara
+Adhokṣaja  lotus  mace  conch  disc  in His hands  
+upendra — śaṅkha-gadā-cakra-padma-kara  
+Upendra  conch  mace  disc  lotus  in His hands
 
-(236) [not yet translated]
+(236) “Adhokṣaja holds the lotus, mace, conch and disc; Upendra, the conch, mace, disc and lotus.
 
 হয়শীর্ষ পঞ্চরাত্রে কহে ষোলজন ৷  
 তাঁর মতে কহি এবে চক্রাদি-ধারণ ॥ ২৩৭ ॥
 
 hayaśīrṣa pañcarātre kahe ṣola-jana  
-tāṅra mate kahi ebe cakrādi-dhāraṇa
+in the Hayaśīrṣa  Pañcarātra  speaks of  sixteen persons  
+tāṅra mate kahi ebe cakrādi-dhāraṇa  
+its  in the view  I tell  now  of the disc and the rest  the holding
 
-(237) [not yet translated]
+(237) “The *Hayaśīrṣa Pañcarātra* speaks of sixteen forms. Now I shall tell, according to it, how They hold the disc and the rest.
 
 কেশব-ভেদে পদ্মশঙ্খগদাচক্রধর ৷  
 মাধব-ভেদে চক্রগদাশঙ্খপদ্মকর ॥ ২৩৮ ॥
 
 keśava-bhede padma-śaṅkha-gadā-cakra-dhara  
-mādhava-bhede cakra-gadā-śaṅkha-padma-kara
+in the form of Keśava  lotus  conch  mace  disc  holding  
+mādhava-bhede cakra-gadā-śaṅkha-padma-kara  
+in the form of Mādhava  disc  mace  conch  lotus  in His hands
 
-(238) [not yet translated]
+(238) “There Keśava holds the lotus, conch, mace and disc, and Mādhava the disc, mace, conch and lotus.
 
 নারায়ণ-ভেদে নানা অস্ত্র-ভেদ-ধর ৷  
 ইত্যাদিক ভেদ এই সব অস্ত্রকর ॥ ২৩৯ ॥
 
 nārāyaṇa-bhede nānā astra-bheda-dhara  
-ityādika bheda ei saba astra-kara
+in the form of Nārāyaṇa  various  weapons  in different order  holding  
+ityādika bheda ei saba astra-kara  
+such  differences  these  all  weapons in hand
 
-(239) [not yet translated]
+(239) “Nārāyaṇa and the others hold Their weapons in various other ways; such are the differences in the weapons They hold.
 
 ‘স্বয়ং ভগবান্’, আর ‘লীলা-পুরুষোত্তম’ ৷  
 এই দুই নাম ধরে ব্রজেন্দ্রনন্দন ॥ ২৪০ ॥
 
 ‘svayaṁ bhagavān’, āra ‘līlā-puruṣottama’  
-ei dui nāma dhare vrajendra-nandana
+Svayaṁ Bhagavān  and  Līlā-puruṣottama  
+ei dui nāma dhare vrajendra-nandana  
+these  two  names  bears  the son of Vraja’s king
 
-(240) [not yet translated]
+(240) “The son of the king of Vraja bears these two names: ‘Svayaṁ Bhagavān’ and ‘Līlā-puruṣottama.’
 
 পুরীর আবরণরূপে পুরীর নবদেশে ৷  
 নবব্যূহরূপে নবমূর্ত্তি পরকাশে ॥ ২৪১ ॥
@@ -3538,7 +3618,7 @@ vīryair dehiṣv asaṅgataiḥ
 ‘স্বরূপ’-লক্ষণ, আর ‘তটস্থ-লক্ষণ’ ৷  
 এই দুই লক্ষণে ‘বস্তু’ জানে মুনিগণ ॥ ৩৫৪ ॥
 
-‘svarūpa-lakṣaṇa’, āra ‘taṭastha-lakṣaṇa’  
+‘svarūpa’-lakṣaṇa, āra ‘taṭastha-lakṣaṇa’  
 ei dui lakṣaṇe ‘vastu’ jāne muni-gaṇa
 
 (354) [not yet translated]
@@ -3574,7 +3654,7 @@ dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi
 এই শ্লোকে ‘পরং’-শব্দে ‘কৃষ্ণ’-নিরূপণ ৷  
 ‘সত্যং’ শব্দে কহে তাঁর স্বরূপ-লক্ষণ ॥ ৩৫৮ ॥
 
-ei śloke ‘paraṁ’ śabde ‘kṛṣṇa’ nirūpaṇa  
+ei śloke ‘paraṁ’-śabde ‘kṛṣṇa’-nirūpaṇa  
 ‘satyaṁ’ śabde kahe tāṅra svarūpa-lakṣaṇa
 
 (358) [not yet translated]
@@ -3590,7 +3670,7 @@ arthābhijñatā, svarūpa-śaktye māyā dūra kaila
 এইসব কার্য্য — তাঁর তটস্থ-লক্ষণ ৷  
 অন্য অবতার ঐছে জানে মুনিগণ ॥ ৩৬০ ॥
 
-ei saba kārya — tāṅra taṭastha-lakṣaṇa  
+ei-saba kārya — tāṅra taṭastha-lakṣaṇa  
 anya avatāra aiche jāne muni-gaṇa
 
 (360) [not yet translated]
@@ -3646,7 +3726,7 @@ sākṣāt-śaktye ‘avatāra’, ābhāse ‘vibhūti’ likhi
 ‘সনকাদি’, ‘নারদ’, ‘পৃথু’, ‘পরশুরাম’ ৷  
 জীবরূপ ‘ব্রহ্মার’ আবেশাবতার-নাম ॥ ৩৬৭ ॥
 
-‘sanakādi’, ‘nārada’, ‘pṛthu’ ‘paraśurāma’  
+‘sanakādi’, ‘nārada’, ‘pṛthu’, ‘paraśurāma’  
 jīva-rūpa ‘brahmāra’ āveśāvatāra-nāma
 
 (367) [not yet translated]
@@ -3662,15 +3742,15 @@ ei mukhyāveśāvatāra — vistāre nāhi anta
 সনকাদ্যে ‘জ্ঞান’-শক্তি, নারদে শক্তি ‘ভক্তি’ ৷  
 ব্রহ্মায় ‘সৃষ্টি’-শক্তি, অনন্তে ‘ভূ-ধারণ’-শক্তি ॥ ৩৬৯ ॥
 
-sanakādye ‘jñāna’ śakti, nārade śakti ‘bhakti’  
-brahmāya ‘sṛṣṭi’ śakti, anante ‘bhū-dhāraṇa’ śakti
+sanakādye ‘jñāna’-śakti, nārade śakti ‘bhakti’  
+brahmāya ‘sṛṣṭi’-śakti, anante ‘bhū-dhāraṇa’-śakti
 
 (369) [not yet translated]
 
 শেষে ‘স্ব-সেবন’-শক্তি, পৃথুতে ‘পালন’ ৷  
 পরশুরামে ‘দুষ্টনাশক-বীর্য্যসঞ্চারণ’ ॥ ৩৭০ ॥
 
-śeṣe ‘sva-sevana’ śakti, pṛthute ‘pālana’  
+śeṣe ‘sva-sevana’-śakti, pṛthute ‘pālana’  
 paraśurāme ‘duṣṭa-nāśaka-vīrya-sañcāraṇa’
 
 (370) [not yet translated]
@@ -3699,7 +3779,7 @@ jagat vyāpila kṛṣṇa-śakty-ābhāsāveśe
 yad yad vibhūtimat sattvaṁ  
 śrīmad ūrjitam eva vā  
 tat tad evāvagaccha tvaṁ  
-mama tejo-‘ṁśa-sambhavam
+mama tejo-’ṁśa-sambhavam
 
 (373) [not yet translated]
 
@@ -3716,7 +3796,7 @@ ekāṁśena sthito jagat
 এইত কহিলুঁ শক্ত্যাবেশ-অবতার ৷  
 বাল্য-পৌগণ্ড-ধর্ম্মের শুনহ বিচার ॥ ৩৭৫ ॥
 
-ei ta’ kahiluṅ śakty-āveśa-avatāra  
+eita kahiluṅ śakty-āveśa-avatāra  
 bālya-paugaṇḍa-dharmera śunaha vicāra
 
 (375) [not yet translated]
