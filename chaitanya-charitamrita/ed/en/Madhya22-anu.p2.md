@@ -59,3 +59,61 @@ In the *Bhakti-sandarbha* (section 236) Śrī Jīva Prabhu writes: “It is sixf
 Bhagavān Śrī Kṛṣṇa, having described the truths of *sambandha*, *abhidheya* and *prayojana* to Uddhava, His dearest and the best of devotees, at the very end describes the destination of the pure devotee who has given himself to Him exclusively:
 
 **yadā** **martyaḥ** (a human being) **tyakta-samasta-karmā** (having turned away from enjoyment and liberation) **me** (to Me) **niveditātmā** (becomes — that is, offers himself), **tadā** (he) **mayā** **vicikīrṣitaḥ** (being inspired, becomes one to whom I wish to give something special), (and then) **amṛtatvam** (liberation) **pratipadyamānaḥ** (attaining) **mayā** (together with Me) **ātma-bhūyāya** (for being, like Me, full of eternity, knowledge and bliss) **kalpate** (becomes fit).
+
+## 101
+
+> Subheading: (1) Description of the characteristics of *sādhana-bhakti*
+
+## 102
+
+> Subheading: The definition of *sādhana* —
+
+**kṛti-sādhyā** (what is to be accomplished by action, that is, by the impulse of the senses) **sādhya-bhāvā** (that by which *bhāva* is to be attained) **sādhanābhidhā** (called *sādhana-bhakti*) **bhavet**; **hṛdi** (in the heart of the *jīvātmā*) **nitya-siddhasya** (eternally existing, self-manifest) **bhāvasya** (of the *bhāva* of love for Kṛṣṇa) **prākaṭyam** (the manifestation alone) **sādhyatā** (attainability by *sādhana*).
+
+## 103
+
+> Subheading: The essential (*svarūpa*) and the accompanying (*taṭastha*) characteristics of *sādhana-bhakti* —
+
+## 104
+
+> Subheading: Only by the eternally perfect, independent, pure (exclusive, unalloyed, or favorable) *abhidheya* is the eternally perfect, self-manifest, pure *prayojana* attained —
+
+## 105
+
+> Subheading: The kinds of *sādhana-bhakti*: (1) *vaidhī* and (2) *rāgānugā*
+
+## 106
+
+> Subheading: (a) Description and definition of *vaidhī-bhakti* —
+
+## 107
+
+> Subheading: The injunction to hear about, glorify and remember Śrī Hari alone —
+
+“What should a person on the verge of death do?” In reply to this question of King Parīkṣit, Śrīla Śukadeva Gosvāmī first praises the question highly, then describes the bondage of the *gṛhamedhīs* and tells how to be freed from it:
+
+**bhārata** (O descendant of Bharata), **tasmāt** (because the *jīva* averse to Kṛṣṇa sees his own death and yet does not see it — for this reason) **abhayam** (the end of worldly existence for oneself and others, liberation, or self-protection) **icchatā** (by one who wishes to give up absorption in the “second,” in what is other) **sarvātmā** (the Lord within the hearts of all) **bhagavān** **īśvaraḥ** **hariḥ** (alone) **śrotavyaḥ** (is to be heard about) **kīrtitavyaḥ** (is to be glorified) **smartavyaḥ ca** (and is to be remembered).
+
+## 108
+
+> Subheading: At the beginning of *vaidhī-bhakti*, before the *paramahaṁsa* stage, *daiva-varṇāśrama-dharma* is observed; its origin —
+
+See Madhya 22.27.
+
+## 109
+
+> Subheading: Every act that awakens the remembrance of Viṣṇu is a *vidhi*; every act that destroys the remembrance of Viṣṇu is a *niṣedha* —
+
+**viṣṇuḥ** **satataṁ** **smartavyaḥ**, **na** **jātucit** (ever) **vismartavyaḥ** — **sarve** **vidhi-niṣedhāḥ** **etayoḥ** (of these two, the injunction and the prohibition — to remember Viṣṇu and not to forget Him) **eva** **kiṅkarāḥ** (obedient servants) **syuḥ** (are).
+
+## 110
+
+> Subheading: Description of the sixty-four limbs of bhakti from among the countless [practices] of *vaidhī-bhakti* —
+
+## 124
+
+> Subheading: Among them, five limbs of bhakti are the best of all —
+
+## 125
+
+> Subheading: Even partial practice of them awakens love for Kṛṣṇa —
