@@ -47,3 +47,27 @@ In Vraja-maṇḍala there are twelve forests, which together cover eighty-four 
 ## 33
 
 He Himself is the Lord of Brahmā, Viṣṇu and Śiva, and so no one is equal to Him or above Him. By the wealth of His own kingdom (*svārājya-lakṣmī*) He has every desire fulfilled. The age-old guardians of the worlds come to bring Him tribute; praising His footstool, they bow the crowns that shine on their heads, and the crowns ring out.
+
+## 45
+
+The son of the king of Vraja, soft with a multitude of mercies and endowed with a special sweet majesty, is victorious — and so not even a particle of anxiety arises in us.[^45-1]
+
+## 49
+
+I worship Govinda, the original Person, who established all those various powers in the abodes of Devī, Maheśa and Hari, which lie below His own abode named Goloka.
+
+## 50
+
+Between *pradhāna*, the *māyic* principle, and Paravyoma flows the river Virajā. Its auspicious waters flow from the sweat of Vedāṅga, that is, of the Puruṣa.
+
+## 51
+
+On the far bank of that Virajā lies Paravyoma — immortal, eternal, everlasting, endless, the supreme abode, made up of three quarters (*tripād-bhūta*). The meaning is this: Paravyoma is the spiritual world, and so the *tripād-vibhūti* — free from sorrow and fear, immortal — is eternally present in it. All the workings of *māyā* taken together are only Kṛṣṇa's *ekapād-vibhūti*.
+
+## 56
+
+That abode is the abode of the *tripād-vibhūti*, and so it is called *tripād-bhūta*; and all *māyic* opulence is only one quarter.
+
+---
+
+[^45-1]: The translation of the verse takes it differently: in that abode there is not even a trace of any anxiety or agitation.

@@ -196,6 +196,108 @@ The three abodes are: (1) the inner abode, Goloka; (2) the middle abode, Paravyo
 
 > Subheading: (1) The description of the inner abode, Goloka-Vṛndāvana —
 
+## 45
+
+> Subheading: (A verse of the Gosvāmīpāda) —
+
+**karuṇā-nikuramba-komale** (in Him whose nature is soft with a multitude of mercies) **madhuraiśvarya-viśeṣa-śālini** (endowed with a wonderful wealth of sweetness and majesty) **vraja-rāja-nandane** (in Kṛṣṇa) **jayati** (when He displays His excellence over all) **naḥ** (our) **cintā-kaṇikā** (even the slightest anxiety) **na** **abhyudeti** (does not arise).
+
+## 46
+
+> Subheading: (2) The description of the middle abode — Viṣṇuloka, Vaikuṇṭha —
+
+## 49
+
+> Subheading: (Brahma-saṁhitā 5.43) —
+
+**tasya** (of Kṛṣṇa) **goloka-nāmni** **tale** (in the lower part) **devī-maheśa-hari-dhāmasu** (in the abodes — in order — Vaikuṇṭha, Śiva-dhāma and Devī-dhāma) **teṣu** **teṣu** **ca** **yena** (by Govinda) **te** **te** **prabhāva-nicayāḥ** (the multitudes of powers) **vihitāḥ** (were established) **ca**, **tam** **ādi-puruṣaṁ** **govindam** **ahaṁ** **bhajāmi**.
+
+## 50
+
+> Subheading: Where the Virajā flows — (Padma-purāṇa, Uttara-khaṇḍa 255.57) —
+
+**pradhāna-paravyomnoḥ** (of Devī-dhāma and Vaikuṇṭha) **antare** (between) **vedāṅga-sveda-janitaiḥ** (born of the sweat of Bhagavān, whose limbs are the Vedas — according to the *śruti*, “His breath”[^50-1] — arising from His perspiration) **toyaiḥ** (by waters) **prasrāvitā** (made to flow) **śubhā** (free of material activity, *naiṣkarmya* itself, purely spiritual) **virajā** **nadī** (flows).
+
+## 51
+
+> Subheading: Where Paravyoma, or Vaikuṇṭha, lies —
+
+**tasyāḥ** (of the river Virajā) **pāre** (on the bank) **tripād-bhūtam** (*turīya*, transcendent) **sanātanam** (eternally existing) **amṛtam** (imperishable) **śāśvatam** **nityam** **anantam** **paramam** **padam** — **paravyoma**.
+
+## 52
+
+> Subheading: (3) The outer abode, Devī-dhāma, is the realm of *māyā*, the field of the *jīvas'* enjoyment —
+
+## 53
+
+*Jīva*: the conditioned *jīva*, bent on enjoyment, lives in Devī-dhāma. Svārājya-lakṣmī, as Kṛṣṇa's servant, fulfils Kṛṣṇa's desires, while Jagal-lakṣmī protects the *jīvas* who live in Devī-dhāma. *Yāṅhā*, “where”: in this Devī-dhāma Māyā, the maidservant of Jagal-lakṣmī, is the presiding deity.
+
+## 54
+
+The three abodes are the topmost abode, Goloka; Hari's abode, Paravyoma; and Devī-dhāma. A *jīva* freed from Devī-dhāma who does not attain Hari's service in Paravyoma reaches the abode of Maheśa. Though that abode lies above Devī-dhāma, it is not Hari's abode, not Paravyoma.
+
+## 55
+
+> Subheading: The play of the *cit-śakti*, made of pure goodness, and the *tad-rūpa-vaibhava*[^55-1] — Kṛṣṇa's *tripād-vibhūti*; Devī-dhāma — the *ekapād-vibhūti* —
+
+Hari's abode Paravyoma and Goloka form the transcendental abode endowed with the opulences of the *cit-śakti*; it is called “*tripād-aiśvarya*.” Devī-dhāma, endowed with *māyic* opulence, is known by the name “*ekapād*.”
+
+## 56
+
+> Subheading: The *tripād-vibhūti* lies beyond *māyā*, and the *ekapād-vibhūti* is *māyic* — (Laghu-bhāgavatāmṛta 1.563) —
+
+**tat** **padam** **tri-pād-vibhūteḥ** **dhāmatvāt** **tri-pād-bhūtam** **hi** (is called precisely “consisting of three quarters”), **yataḥ** **sarvā** **māyikī** **vibhūtiḥ** **pādātmikā** (one quarter) **proktā** (is said to be).
+
+## 57
+
+> Subheading: The description of Devī-dhāma, the *ekapād-vibhūti* —
+
+## 58
+
+> Subheading: The meaning of the word *cira-loka-pāla* —
+
+The *cira-loka-pālas* are Brahmā, Rudra and the others who hold office in the universe and carry out long-lasting duties. The word *lokapāla* usually means the eight guardians of the directions: Indra, Agni, Yama, Varuṇa, Nairṛti, Vāyu, Kuvera and Śiva.
+
+## 59
+
+> Subheading: A Purāṇic account of how the pride of Brahmā, who came to see Kṛṣṇa's majesty, was destroyed —
+
+## 79
+
+Four-faced Brahmā experienced the unearthly majesty of Kṛṣṇa and of Dvārakā-dhāma. Brahmās and Rudras with ten, a hundred, a thousand, ten thousand, a hundred thousand and ten million faces gathered in one place, and four-faced Brahmā and Kṛṣṇa saw this assembly. Yet by Kṛṣṇa's will the great Brahmās and great Śivas who had come did not see one another. Or else the crowd of Brahmās and Śivas was so dense that they had no chance at all to see one another and converse, and no one had the leisure even to show another respect or welcome him.
+
+## 83
+
+See Madhya 21.27.
+
+## 84
+
+If a universe is taken to be a hundred *koṭi yojanas*, half of it is fifty *koṭi yojanas*. Manu writes: “He Himself, by His meditation, divided that egg into two.”[^84-1] The *Sūrya-siddhānta* (12.90) says: “18,712,080,864,000,000[^84-2] — such is the circumference that encircles the hemispheres of the universe; within it the sun's rays spread on all sides.” The *Siddhānta-śiromaṇi*, in the *Graha-gaṇita*, in the chapter *Madhyamādhikāra*, in the section on the order of the orbits, and likewise in the *Golādhyāya*, in the section *Bhuvana-kośa*, verse 67, says: “Those versed in *jyotiṣa* say that this orbit of the sky is 1,871,206,920 times a *koṭi yojanas*. Some Purāṇic sages have said that it girds the rim where the halves of the bowl of the universe meet, and others have called it the mountain that is both visible and invisible.” The orbit of the sky (*kha-kakṣā*) is 18,712,069,200,000,000 *yojanas*; some say it is the measure of the circumference where the two halves of the bowl of the universe meet.
+
+## 88
+
+> Subheading: (The words of the Padma-purāṇa, Uttara-khaṇḍa, quoted in the Laghu-bhāgavatāmṛta, Pūrva-khaṇḍa, 28) —
+
+See Madhya 21.51.
+
+## 89
+
+> Subheading: Kṛṣṇa's glory cannot be known —
+
+## 59–89
+
+This account is given in the *Laghu-bhāgavatāmṛta*, Pūrva-khaṇḍa, 313–323, in Śrī Rūpa's explanation and *kārikās*, where he refutes the opponent's view (*pūrva-pakṣa*) that “Śrī Kṛṣṇa is a *vilāsa* of Nārāyaṇa.”
+
+## 90
+
+> Subheading: (d) The fourth (hidden) meaning, concerning the abodes of Kṛṣṇa's *tad-rūpa-vaibhava*[^90-1] —
+
+## 91
+
+> Subheading: Kṛṣṇa's three abodes —
+
+In Goloka there are three chambers (*prakoṣṭhas*): (1) Gokula, (2) Mathurā, (3) Dvārakā. Just as Kṛṣṇa's pastimes have three chambers, so Gaura's pastimes too have three intimate chambers full of complete majesty: (1) Navadvīpa-maṇḍala, (2) Śrī Kṣetra-maṇḍala (South India?) and (3) Vraja-maṇḍala.
+
 ---
 
 [^9-1]: The edition apparently reads “10th canto, ch. 14, verse 29” (the scan is unclear); the verse is Śrīmad-Bhāgavatam 10.14.21.
@@ -205,3 +307,13 @@ The three abodes are: (1) the inner abode, Goloka; (2) the middle abode, Paravyo
 [^31-1]: So in the edition (checked against the scan): “Brahmā's”; in verse 31 it is the Lord Himself (Mahāprabhu) who is overwhelmed.
 
 [^41-1]: The edition reads “ch. 5, verse 44” (checked against the scan); the verse is Brahma-saṁhitā 5.48.
+
+[^50-1]: Bṛhad-āraṇyaka Upaniṣad 2.4.10.
+
+[^55-1]: The edition reads *tadupavaibhava* (checked against the scan; likewise before verse 90); taken as *tad-rūpa-vaibhava*, the glory proper to the Lord's form (His abodes, associates and so on).
+
+[^84-1]: Manu-smṛti 1.12.
+
+[^84-2]: In both quotations the numbers are written with symbolic words (*bhūta-saṅkhyā*), the digits read from right to left.
+
+[^90-1]: See the note to the subheading of section 55: the edition reads *tadupavaibhava*.
