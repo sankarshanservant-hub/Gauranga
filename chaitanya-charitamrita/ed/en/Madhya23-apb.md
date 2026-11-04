@@ -71,3 +71,21 @@ In the fortunate person in whose heart new *prema* has arisen, the acts and *mud
 ## 47
 
 *Udbhāsvara* is a particular bodily (*āṅgika*) *anubhāva*. It is of five kinds: disorder in one's dress and ornaments, stretching the body, yawning, flaring of the nostrils, and exhaling and inhaling.
+
+## 56
+
+*Citra-jalpa* is of ten kinds: *prajalpa*, *parijalpa*, *vijalpa*, *ujjalpa*, *saṁjalpa*, *avajalpa*, *abhijalpa*, *ājalpa*, *pratijalpa* and *sujalpa*.
+
+The *Bhramara-gītā* is in the *Śrīmad-Bhāgavatam*, Canto 10, Chapter 47.
+
+## 60
+
+Of the four kinds of *vipralambha* in Rādhikā and the other gopīs, three are well known — *pūrva-rāga*, *pravāsa* and *māna*; in the queens of Dvārakā, *prema-vaicittya* is well known.
+
+## 61
+
+“O friend *kurarī*, look: at night the Lord, Śrī Kṛṣṇa, is sleeping with His awareness hidden, while you, sleepless, do not lie down and only lament! Can it be that you too, like us, act this way because your heart has been pierced (deeply pierced) by the sight of the smile and the generous pastimes of lotus-eyed Śrī Kṛṣṇa?”
+
+## 63
+
+Svayaṁ Bhagavān Kṛṣṇa is the crest jewel of all heroes (*nāyakas*); in that Kṛṣṇa all great qualities eternally shine.

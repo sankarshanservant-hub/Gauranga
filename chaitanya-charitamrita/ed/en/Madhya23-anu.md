@@ -248,6 +248,118 @@ See Ādi 7.94.
 
 *Vyabhicārī* (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, fourth *laharī*, first verse): “… the thirty-three *bhāvas* that are called *vyabhicārīs*. They move toward the *sthāyi-bhāva* in a special way, facing it. They are recognized by words, by movements of the body and by *sattva*; these are the *vyabhicārīs*. They impart movement (*sañcārayanti*) to the *bhāva*, and so they are also called *sañcārīs*. They rise and sink in the nectar ocean of the *sthāyi-bhāva* like waves, swell it, and become one with it.” The *vyabhicārī-bhāvas* are thirty-three. They move in the *sthāyi-bhāva* in a special way, coming to the fore. With words, with the body (the brows, the eyes and so on) and with *anubhāvas* born of *sattva*, the *vyabhicārī-bhāvas* impart movement to the *bhāva*; therefore they are called *sañcārīs*. Sinking into the nectar ocean of the *sthāyi-bhāva*, they swell it like waves and become one with it.
 
+## 49
+
+> Subheading: The description of the five *rasas* —
+
+## 50
+
+> Subheading: The limit of *śānta-rasa* is *prema*, the limit of *dāsya-rasa* is *rāga* —
+
+## 51
+
+> Subheading: The limit of *sakhya* and *vātsalya* is *anurāga*; among them, for the *priya-narma-sakhās* — Subala and the others — the limit is even *bhāva* —
+
+## 50–51
+
+In *śānta-rasa*, *rati* grows and reaches its limit in *prema*. In *dāsya-rasa*, *dāsya-rati* grows through *sneha*, *māna* and *praṇaya* up to *rāga*. In *sakhya-rasa*, *sakhya-rati* grows through *sneha*, *māna*, *praṇaya* and *rāga* up to *anurāga*. In *vātsalya-rasa*, *vātsalya-rati* grows through *sneha*, *māna*, *praṇaya* and *rāga* up to *anurāga*. The special point is that the *sakhya-rati* of Subala and the others, though they belong to *sakhya-rasa*, grows through *sneha*, *māna*, *praṇaya*, *rāga* and *anurāga* up to *bhāva*.
+
+## 52
+
+> Subheading: The variety of divisions of the five *rasas*, beginning with *śānta* —
+
+*Bhakti-rasāmṛta-sindhu*, Paścima-vibhāga, second *laharī*, verse 41: “Two divisions of it are stated — *ayoga* and *yoga*.” That is, for this *prīta-bhakti-rasa* two divisions are stated, *ayoga* and *yoga*.
+
+*Ayoga*: “The wise call the absence of association with Hari *ayoga*. In *ayoga* the actions of all [the devotees] are these: fixing the mind on Him, contemplating His qualities and so on, thinking of the means to attain Him, and the like.” The learned call the absence of association with Bhagavān *ayoga*. In *ayoga* one fixes the mind on Hari, that is, gives one's mind to Hari, and contemplates His qualities and so on. For all devotees, beginning with the servants, thinking of the means to attain Kṛṣṇa and the like are called “actions” (*kriyā*).
+
+*Yoga*: “Meeting with Kṛṣṇa is called *yoga*.” That is, meeting with Śrī Kṛṣṇa is called *yoga*.
+
+Of the *rasas* beginning with *śānta*: in *śānta* and *dāsya* there are two divisions, *yoga* and *viyoga*; in them *yoga* and *ayoga* have few subdivisions. The distinction of *yoga* and *ayoga* exists in all five *rasas*, but in *sakhya* and *vātsalya* there are many subdivisions.
+
+The subdivisions of *yoga*: “*Yoga* too is said to be of three kinds: *siddhi*, *tuṣṭi* and *sthiti*.” That is, *yoga* has three kinds — *siddhi*, *tuṣṭi* and *sthiti*.
+
+The subdivisions of *ayoga*: “*Ayoga* too is said to be of two kinds: *utkaṇṭhita* and *viyoga*.” That is, *ayoga* is of two kinds — *utkaṇṭhita* and *viyoga*.
+
+## 53
+
+> Subheading: In Dvārakā, in the *svakīya madhura-rati* full of majesty (*aiśvarya*), there is *rūḍha-mahābhāva*; in Vṛndāvana, in the pure (*kevalā*) *parakīya madhura-rati* full of sweetness (*mādhurya*), *adhirūḍha-mahābhāva* —
+
+*Adhirūḍha* (*Ujjvala-nīlamaṇi*, the section on the *sthāyi-bhāva*, 170): “Where the *anubhāvas* attain a certain special excellence beyond the *anubhāvas* described for *rūḍha*, that *bhāva* is called *adhirūḍha*.” In *madhura-rasa*, *madhura-rati* grows through *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga* and *bhāva* up to *mahābhāva*. *Rūḍha-* and *adhirūḍha-mahābhāva* exist only in *madhura-rasa*. *Rūḍha* is seen in Dvārakā, and *adhirūḍha-bhāva* only in Gokula.
+
+## 54
+
+> Subheading: *Adhirūḍha-mahābhāva* is twofold: (1) in *sambhoga* it is called *mādana*, (2) in *vipralambha*, *mohana* —
+
+## 55
+
+> Subheading: The variety of kinds of *bhāva* in *mādana*, full of *sambhoga*, and in *mohana*, full of *vipralambha* —
+
+## 56
+
+> Subheading: *Bhāgavatam* 10.47 — the divine madness (*divyonmāda*) of Rādhikā and the other gopīs in *vipralambha*, described in the *Bhramara-gītā* —
+
+## 57
+
+> Subheading: The final state of *divyonmāda* in *vipralambha* is the highest of all states, supremely wondrous, wholly made of transcendental service to Kṛṣṇa —
+
+## 54–57
+
+See Madhya 1.87.
+
+## 58
+
+> Subheading: *Śṛṅgāra-rasa* is twofold — (1) *sambhoga* and (2) *vipralambha*; *sambhoga* has countless kinds —
+
+“It is held to be twofold, divided into *vipralambha* and *sambhoga*.” That is, *madhura-rasa* is of two kinds, *sambhoga* and *vipralambha*.
+
+*Vipralambha* (*Ujjvala-nīlamaṇi*, the section on *vipralambha*, verses 3–4): “The *bhāva* of the youthful pair, whether not yet united or united, that intensifies when the embraces and so on that they desire are not attained, is to be known as *vipralambha*. It enhances *sambhoga*.” “Without *vipralambha*, *sambhoga* does not attain fullness.” The *bhāva* that arises in the *nāyaka* and *nāyikā* (the hero and the heroine) — before their first meeting, when they are not united, and after the meeting, when they are united — at these two times, when the embraces and so on desired by each other are not attained, is called *vipralambha*; it nourishes *sambhoga*.
+
+*Sambhoga*: “The *bhāva* of the youthful pair that rises to jubilation as they partake, pleasing each other (*ānukūlya*), of glances, embraces and so on is called *sambhoga*.” The *bhāva* that arises as the *nāyaka* and *nāyikā* share glances, embraces and so on for each other's happiness and rise to jubilation is called *sambhoga*. In the waking state the principal (*mukhya*) *sambhoga* is of four kinds: (1) after *pūrva-rāga*, *saṅkṣipta*; (2) after *māna*, *saṅkīrṇa*; (3) after a separation (*pravāsa*) that was not far, *sampanna*; and (4) after a distant separation, *samṛddhimān*. In dreams, the secondary (*gauṇa*) *sambhoga* is likewise of four kinds, as before.
+
+## 59
+
+> Subheading: *Vipralambha* is of four kinds —
+
+*Pūrva-rāga* (*Ujjvala-nīlamaṇi*, the section on *vipralambha*, fifth verse): “The *rati* that, before their meeting, is born of seeing, hearing and so on, and blossoms in both, the wise call *pūrva-rāga*.” The *rati* that, before the meeting, is born of seeing, hearing and so on and, blending with the *vibhāvas* and the rest in both, becomes full of relish — that is *pūrva-rāga*.
+
+*Māna*: “The *bhāva* of the hero and heroine, devoted to each other, that even when they are together obstructs the embraces, glances and so on that they desire, is called *māna*.” The *bhāva* of the *nāyaka* and *nāyikā*, devoted to each other — whether together or in different places — that obstructs the glances, embraces and so on that they desire is called *māna*.
+
+*Pravāsa*: “The separation of a youthful pair who have met before — by distance and so on — the wise call *pravāsa*.” The wise call *pravāsa* the separation, by distance and so on, of the *nāyaka* and *nāyikā* who have met before.
+
+*Prema-vaicittya*: “The pain that, by the very nature of the height of *prema*, comes from a particular thought even in the beloved's presence is called *prema-vaicittya*.” The pain that, by the nature of the height of *prema*, comes even in the beloved's presence — from fear of separation from Him — is *prema-vaicittya*.
+
+## 60
+
+> Subheading: The variety of kinds of *vipralambha* in Rādhikā and the other gopīs in Vraja and in the queens in Dvārakā —
+
+## 61
+
+> Subheading: Even while near Kṛṣṇa, the queens, owing to *prema-vaicittya*, fear separation from Him — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 90, verse 15) —
+
+In Dvārakā Bhagavān Śrī Kṛṣṇa kept stealing the hearts of the queens with His playful pastimes. Their hearts were absorbed in Him, and though they were very near Him, the feeling never left them: “We are losing Him, losing Him!” And, as if maddened, they would speak to one another thus —
+
+**he kurari**, **īśvaraḥ** (Kṛṣṇa) **rātryām** **gupta-bodhaḥ** (as if with consciousness asleep) **svapiti** (lies down); **tvam** **tu** **jagati** (alone) **vīta-nidrā** (being) **na śeṣe** (do not sleep, do not even wish to lie down, but on the contrary, breaking sleep,) **vilapasi** (the sense: this is improper). **he sakhi**, (or else it is not your fault, because) **vayam iva** **tvam** **nalina-nayana-hāsodāra-līlekṣitena** (by the generous, playful glance of the lotus-eyed Bhagavān together with His smile — His free, smiling sidelong glance) **kaccit** (a question) **gāḍha-nirviddha-cetāḥ** (with a heart utterly captivated)?
+
+## 62
+
+> Subheading: Kṛṣṇa is the crest jewel of heroes (*nāyakas*), Śrī Rādhā the crest jewel of heroines (*nāyikās*) —
+
+## 63
+
+> Subheading: The evidence — (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, the “Vibhāva-laharī,” verse 17) —
+
+**nāyakānām** (among heroes) **svayaṁ bhagavān** **kṛṣṇaḥ** **tu** **śiro-ratnam** (the crest jewel); **yatra** (in Kṛṣṇa) **sarve** **mahā-guṇāḥ** **nityatayā** **virājante** (shine).
+
+## 64
+
+> Subheading: The eight epithets of Śrī Rādhikā — (the words of the *Bṛhad-gautamīya Tantra*) —
+
+See Ādi 4.83.
+
+## 65
+
+> Subheading: Of Kṛṣṇa's countless good qualities, 64 are the principal ones —
+
 ---
 
 [^6-1]: *Bhakti-rasāmṛta-sindhu* 1.3.6.
