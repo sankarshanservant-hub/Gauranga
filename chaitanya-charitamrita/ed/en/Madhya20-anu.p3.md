@@ -110,6 +110,106 @@ Viṣṇu's *māyā* cannot cover Viṣṇu as it covers Brahmā and Śiva. Vi�
 
 > Subheading: (b) A description of the *līlā-avatāras* —
 
+## 297
+
+> Subheading: Of the countless *līlā-avatāras*, twenty-five forms are the principal ones —
+
+## 298
+
+> Subheading: The names of some of them —
+
+## 299
+
+> Subheading: The evidence of scripture — (*Śrīmad-Bhāgavatam* 10.2.40)
+
+Together with the devas, Brahmā offers a prayer for the destruction of the *asuras* to Bhagavān Śrī Kṛṣṇa, who is in the womb of Devakī, confined in Kaṁsa's prison.
+
+**he īśa**, **tvaṁ** **matsyāśva-kacchapa-varāha-nṛsiṁha-haṁsa-rājanya-vipra-vibudheṣu** (in the forms of Matsya, Hayagrīva, Kūrma, Varāha, Nṛsiṁha, Haṁsa, Dāśarathi, Paraśurāma, Vāmana and others, as *kalās*) **kṛtāvatāraḥ san** (manifesting forms, revealing avatāras, having descended) **naḥ** (us, the devas) **tri-bhuvanaṁ** (*bhūr*, *bhuvaḥ* and *svaḥ* — the heavenly, earthly and lower worlds, or the three worlds) **ca** (as at other times) **pāsi** (You protect), **tathā adhunā** (now too) **bhuvaḥ** (of the earth) **bhāraṁ** (irreligion) **hara** (destroy — that is, protect us); (therefore) **he yadūttama** (best of the Yadu dynasty), **te** (to You) **vandanaṁ** (*kurmaḥ* — all of us bow our heads to You).
+
+## 300
+
+> Subheading: (c) A description of the three *guṇa-avatāras* —
+
+## 301
+
+> Subheading: The three persons who carry out the three tasks —
+
+“Accepting the three *guṇas*” — that is, taking up the three *guṇas*, *rajas*, *sattva* and *tamas*, for the creation, maintenance, dissolution and other dealings of the world, Brahmā, Viṣṇu and Śiva are the three *guṇa-avatāras*.
+
+## 302
+
+> Subheading: (1) Brahmā in *rajo-guṇa*: sometimes the greatest *jīva* holds the post of Vairāja Brahmā; sometimes, when there is none, Garbhodaśāyī Himself becomes Hiraṇyagarbha Brahmā —
+
+## 304
+
+> Subheading: (*Brahma-saṁhitā* 5.49)
+
+**yathā bhāsvān** (the sun) **nijeṣu** (in those eternally known as its own) **aśma-sakaleṣu api** (in the stones called *sūrya-kānta*) **svīyaṁ kiyat tejaḥ** (some measure of its power) **prakaṭayati**, **tadvat yaḥ eṣaḥ puruṣaḥ** (Garbhodaśāyī) **atra** (in the universe) **brahmā** (being) **jagad-aṇḍa-vidhāna-kartā** (the maker of the individual creation of the universe), **tam ādi-puruṣaṁ govindam ahaṁ bhajāmi**.
+
+## 305
+
+*Kalpa*: the lifespan of Brahmā, the duration of his hundred years. One day of Brahmā, that is, a thousand *catur-yugas*, is 4,320,000,000 solar years; for human beings this is a “*kalpa*,” that is, a day of Brahmā. Three hundred sixty such days make a year of Brahmā, and a hundred such years are Brahmā's lifespan.
+
+## 306
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.68.37)
+
+See Ādi 5.141.
+
+## 307
+
+> Subheading: (2) Rudra in *tamo-guṇa*: Garbhodaśāyī Himself, in a form joined with *māyā*, becomes Rudra —
+
+Kṛṣṇa, as Mahā-Viṣṇu Garbhodakaśāyī — the *kalā* of Kāraṇārṇavaśāyī, who is a part of His own Saṅkarṣaṇa form — takes up *tamo-guṇa* and, to destroy the world, assumes the form of the *guṇa-avatāra* Rudra. Though Viṣṇu is acknowledged as presiding over *sattva-guṇa*, He cannot become subject to *māyā*. Where Viṣṇu's nature is absent, there is the nature of Śiva or of Brahmā, and in it there is a connection with *māyā*. The nature of Śiva and the nature of Brahmā are subject to the influence of Viṣṇu's *māyā*.
+
+## 308
+
+> Subheading: As Kṛṣṇa's *svāṁśa*, Rudra is in truth a non-separated part of the *īśvara* category; yet as the destroyer of the world, through the transformation caused by contact with *māyā*, He is a separated part, a *jīva* —
+
+## 309
+
+> Subheading: An analogy for Rudra's manifestation as different and non-different — the example of milk and yogurt —
+
+## 308–309
+
+Rudra is a *tattva* both different and non-different from Viṣṇu. He undergoes transformation in association with *māyā*, and so He is “different” from Viṣṇu, while in truth He is non-different from Viṣṇu. Viṣṇu is never different from Viṣṇu; but Śiva, Brahmā and others, under the sway of *māyā*, are different from Viṣṇu. Viṣṇu is never subject to transformation. Where a transformation of *māyā* is seen in the nature of the Lord, that is a form different from Viṣṇu — Śiva or Brahmā, called *guṇa-avatāras*. Thus Rudra, endowed with transformation and manifest as different and non-different, is *jīva-tattva*:[^308-309-1] by His intrinsic nature He is not *viṣṇu-tattva*, Kṛṣṇa's own form, but the *tattva* of a Vaiṣṇava. The Lord is the milk. Through contact with a sour substance — *māyā* — it passes from the state of milk into a transformation of milk, yogurt. Therefore yogurt, though born of milk, can never present itself as milk.
+
+## 310
+
+> Subheading: (*Brahma-saṁhitā* 5.45)
+
+**kṣīraṁ** (milk) **yathā vikāra-viśeṣa-yogāt** (through contact with a sour substance) **dadhi saṁjāyate** (is transformed into yogurt), **tataḥ hetoḥ** (from the milk, however) **na pṛthak** (different) **asti**; **tathā kāryāt** (because of the transformation born of contact with *guṇa-māyā*, for the sake of destroying the material universe) **yaḥ puruṣaḥ** (Garbhodakaśāyī Viṣṇu) **śambhutām** (the nature of Rudra) **api samupaiti** (accepts), **tam ādi-puruṣaṁ govindam ahaṁ bhajāmi**.
+
+## 311
+
+> Subheading: The difference between Rudra and Viṣṇu —
+
+Bhagavān Viṣṇu is the independent Supreme Lord, beyond the three *guṇas* and untouched by the influence of His own *māyā*. Śiva by his intrinsic nature is a *bhāgavata* (devotee); yet, becoming the lord of *tamo-guṇa*, one of the three *guṇas*, he is joined with *māyā*, and by force of association with *māyā-śakti* he is involved in it. In Bhagavān Viṣṇu *māyā* has no existence; Śiva's existence, however, lies in experiencing the existence of *māyā*. Therefore Rudra is not *viṣṇu-tattva* but a particular *tattva* in contact with *māyā*. When, experiencing his own existence as a *bhāgavata*, Śiva gives up the idea that he is the lord of *māyā* or the enjoyer of *māyā*, his nature as a servant of Hari becomes manifest.
+
+## 312
+
+> Subheading: In his dealings Rudra is always joined with *guṇa-māyā* — (*Śrīmad-Bhāgavatam* 10.88.3 and 5)
+
+Parīkṣit asked about the opposite destinations of those who worship Rudra and those who worship Viṣṇu. In reply Śrī Śukadeva spoke to him the following two verses.
+
+**śivaḥ** **śaśvat** (eternally) **śakti-yutaḥ** (joined with *māyā-śakti*, accepted of his own will in its state of the *guṇas'* equilibrium) **vaikārikaḥ** (*sāttvika*) **taijasaḥ** (*rājasika*) **tāmasaḥ ca iti ahaṁ** (the *tattva* of *ahaṅkāra*) — **tridhā** (threefold, for when [the *guṇas*] suppress one another, *tamas* becomes threefold) **tri-liṅgaḥ** (marked by the designations of the three *guṇas*) **guṇa-saṁvṛtaḥ** (covered from afar by those *guṇas*, manifest and existing, as their presiding lord).
+
+## 313
+
+> Subheading: Viṣṇu is beyond the *guṇas* and *māyā*; He is Adhokṣaja —
+
+**hariḥ hi** (indeed) **prakṛteḥ paraḥ** (not mixed with the material *guṇas*, as Brahmā, Śiva and others are, for He is Adhokṣaja) **sākṣāt** (uncovered) **nirguṇaḥ** (for *sattva* acts by His mere will) **puruṣaḥ** (Puruṣottama); **saḥ** (Hari) **sarva-dṛk** (the seer for all — for Brahmā, Śiva and the rest: He from whom comes the knowledge that leads to liberation; or, He who sees everything; therefore) **upadraṣṭā** (He sees the liberated near Him and is attainable by the liberated; or, He is the original witness; therefore) **taṁ** (Hari) **bhajan** **nirguṇaḥ** (established in one's own true nature) **bhavet**.
+
+## 314
+
+> Subheading: (3) Viṣṇu in *sattva-guṇa* — a *vilāsa* of Garbhodaśāyī Himself, a *kalā* of Kṛṣṇa —
+
+## 316
+
+> Subheading: The example of a lamp — (*Brahma-saṁhitā* 5.46)
+
+(**yataḥ** — since) **hi dīpārciḥ** (the flame of a lamp) **eva** **daśāntaram** (another lamp, lit in succession from the great lamp) **abhyupetya** **vivṛta-hetu-samāna-dharmā** (having the same properties as the original lamp that caused its appearance — that is, equal to it in being light) (shines), **dīpāyate** (acts as a lamp), **tādṛk eva yaḥ puruṣaḥ hi viṣṇutayā** (as Kṣīrodaśāyī, the *vilāsa* form of Garbhodaśāyī) **ca** **vibhāti** (shines brightly), **tam ādi-puruṣaṁ govindam ahaṁ bhajāmi**.
+
 ---
 
 [^276-1]: *Sāṅkhya-kārikā* 25.
@@ -117,3 +217,5 @@ Viṣṇu's *māyā* cannot cover Viṣṇu as it covers Brahmā and Śiva. Vi�
 [^289-1]: Cf. Madhya 6.162: “The Lord is the master of *māyā*, and the *jīva* is subject to *māyā* — this is the difference between them.”
 
 [^292-1]: *Ṛg-veda* 10.90.1 (the *Puruṣa-sūkta*).
+
+[^308-309-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
