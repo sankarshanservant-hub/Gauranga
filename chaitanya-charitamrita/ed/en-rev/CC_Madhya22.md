@@ -59,7 +59,7 @@ therefore  the sages  have made  the conclusion
 (5) All the scriptures declare that devotion to Kṛṣṇa is the *abhidheya*, and so the sages have concluded.
 
 শ্রুতির্মাতা পৃষ্টা দিশতি ভবদারাধনবিধিং  
-যথা মাতুর্বাণী স্মৃতিরপি তথা বক্তি ভগিনী ৷  
+যথা মাতুর্ব্বাণী স্মৃতিরপি তথা বক্তি ভগিনী ৷  
 পুরাণাদ্যা যে বা সহজনিবহাস্তে তদনুগা  
 অতঃ সত্যং জ্ঞাতং মুরহর ভবানেব শরণম্ ॥ ৬ ॥
 
@@ -94,7 +94,7 @@ in endless  Vaikuṇṭhas and universes  He performs  pastimes
 
 (8) Expanding Himself as His own parts (*svāṁśa*) and separated parts (*vibhinnāṁśa*), He sports in endless Vaikuṇṭhas and universes.[^6]
 
-স্বাংশ-বিস্তার — চতুর্ব্যূহ, অবতারগণ ৷  
+স্বাংশ-বিস্তার — চতুর্ব্ব্যূহ, অবতারগণ ৷  
 বিভিন্নাংশ জীব — তাঁর শক্তিতে গণন ॥ ৯ ॥
 
 svāṁśa-vistāra — catur-vyūha, avatāra-gaṇa  
@@ -364,7 +364,7 @@ Kṛṣṇa  like the sun  Māyā  is  darkness
 yām̐hā kṛṣṇa, tām̐hā nāhi māyāra adhikāra  
 where  Kṛṣṇa  there  is no  of Māyā  dominion
 
-(31) Kṛṣṇa is like the sun, and Māyā is darkness. Where Kṛṣṇa is, Māyā has no power.
+(31) Kṛṣṇa is like the sun, and Māyā is darkness. Where Kṛṣṇa is, Māyā has no power.[^14]
 
 বিলজ্জমানয়া যস্য স্থাতুমীক্ষাপথেঽমুয়া ৷  
 বিমোহিতা বিকত্থন্তে মমাহমিতি দুর্ধিয়ঃ ॥ ৩২ ॥
@@ -378,7 +378,7 @@ bewildered  boast
 mamāham iti durdhiyaḥ  
 “mine” and “I”  thus  the foolish
 
-(32) “Māyā is ashamed to stand in the path of His sight; yet the foolish, bewildered by her, boast of ‘I’ and ‘mine.’” (Śrīmad-Bhāgavatam, 2.5.13)
+(32) “Māyā is ashamed to stand in the path of His sight; yet the foolish, bewildered by her, boast of ‘I’ and ‘mine’.” (Śrīmad-Bhāgavatam, 2.5.13)
 
 ‘কৃষ্ণ, তোমার হঙ’ যদি বলে একবার ৷  
 মায়াবন্ধ হৈতে কৃষ্ণ তারে করে পার ॥ ৩৩ ॥
@@ -388,7 +388,7 @@ mamāham iti durdhiyaḥ
 māyā-bandha haite kṛṣṇa tāre kare pāra  
 from the bondage of Māyā  Kṛṣṇa  him  makes  carried across
 
-(33) If someone says even once, “Kṛṣṇa, I am Yours,” Kṛṣṇa carries him across, beyond the bondage of Māyā.
+(33) If someone says even once, ‘Kṛṣṇa, I am Yours’, Kṛṣṇa carries him across, beyond the bondage of Māyā.[^15]
 
 সকৃদেব প্রপন্নো যস্তবাস্মীতি চ যাচতে ৷  
 অভয়ং সর্ব্বদা তস্মৈ দদাম্যেতদ্ব্রতং মম ॥ ৩৪ ॥
@@ -402,7 +402,7 @@ fearlessness  always  to him
 dadāmy etad vrataṁ mama  
 I give  this  vow  My
 
-(34) “To one who surrenders to Me even once and prays, ‘I am Yours,’ I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)
+(34) “To one who surrenders to Me even once and prays, ‘I am Yours,’ I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)[^16]
 
 মুক্তি-ভুক্তি-সিদ্ধিকামী ‘সুবুদ্ধি’ যদি হয় ৷  
 গাঢ়-ভক্তিযোগে তবে কৃষ্ণেরে ভজয় ॥ ৩৫ ॥
@@ -438,25 +438,25 @@ not  even having asked  Kṛṣṇa  to him  gives  His own feet
 
 (37) If one who has other desires worships Kṛṣṇa, Kṛṣṇa gives him His own feet even though he has not asked for them.
 
-কৃষ্ণ কহে, — আমা ভজে, মাগে বিষয় সুখ ৷  
+কৃষ্ণ কহে, — ‘আমা ভজে, মাগে বিষয় সুখ ৷  
 অমৃত ছাড়ি’ বিষ মাগে, — এই বড় মূর্খ ॥ ৩৮ ॥
 
-kṛṣṇa kahe, — āmā bhaje, māge viṣaya sukha  
+kṛṣṇa kahe, — ‘āmā bhaje, māge viṣaya sukha  
 Kṛṣṇa  says  Me  he worships  he asks for  sense  pleasure  
 amṛta chāḍi’ viṣa māge, — ei baḍa mūrkha  
 nectar  giving up  poison  he asks for  this one  a great  fool
 
-(38) Kṛṣṇa says, “He worships Me, yet asks for sense pleasure. Giving up nectar, he asks for poison — he is a great fool.
+(38) Kṛṣṇa says, ‘He worships Me, yet asks for sense pleasure. Giving up nectar, he asks for poison — he is a great fool.
 
 আমি — বিজ্ঞ, এই মূর্খে ‘বিষয়’ কেনে দিব ?  
-স্ব-চরণামৃত দিয়া ‘বিষয়’ ভুলাইব ॥ ৩৯ ॥
+স্ব-চরণামৃত দিয়া ‘বিষয়’ ভুলাইব’ ॥ ৩৯ ॥
 
 āmi — vijña, ei mūrkhe ‘viṣaya’ kene diba?  
 I  am wise  to this  fool  sense objects  why  should I give  
-sva-caraṇāmṛta diyā ‘viṣaya’ bhulāiba  
+sva-caraṇāmṛta diyā ‘viṣaya’ bhulāiba’  
 the nectar of My own feet  giving  sense objects  I shall make him forget
 
-(39) “But I am wise: why should I give sense objects to this fool? I will give him the nectar of My own feet and make him forget sense objects.”
+(39) But I am wise: why should I give sense objects to this fool? I will give him the nectar of My own feet and make him forget sense objects.’
 
 সত্যং দিশত্যর্থিতমর্থিতো নৃণাং  
 নৈবার্থদো যৎ পুনরর্থিতা যতঃ ৷  
@@ -472,7 +472,7 @@ Himself  He grants  to those who worship  though not desiring
 icchā-pidhānaṁ nija-pāda-pallavam  
 covering all desires  His own  feet like tender shoots
 
-(40) “It is true that when men ask, Kṛṣṇa grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which cover over all other desires.” (Śrīmad-Bhāgavatam, 5.19.27)
+(40) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)[^17]
 
 কাম লাগি’ কৃষ্ণে ভজে, পায় কৃষ্ণ-রসে ৷  
 কাম ছাড়ি’ ‘দাস’ হৈতে হয় অভিলাষে ॥ ৪১ ॥
@@ -522,7 +522,7 @@ being carried away  by the river of time
 kvacit tarati kaścana  
 at times  crosses over  someone
 
-(44) “It is not so that I, lowly as I am, cannot see Acyuta: I will surely see Him. For even among those carried away by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)
+(44) “It is not so that I, lowly as I am, cannot see Acyuta: I will surely see Him. For even among those carried away by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)[^18]
 
 কোন ভাগ্যে কারো সংসার ক্ষয়োন্মুখ হয় ৷  
 সাধুসঙ্গে তরে, কৃষ্ণে রতি উপজয় ॥ ৪৫ ॥
@@ -548,7 +548,7 @@ association with the saints  when  at that very time  for the goal of the saints
 parāvareśe tvayi jāyate ratiḥ  
 for the Lord of the high and the low  for You  is born  attraction
 
-(46) “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)
+(46) “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)[^19]
 
 কৃষ্ণ যদি কৃপা করে কোন ভাগ্যবানে ৷  
 গুরু-অন্তর্য্যামি-রূপে শিখায় আপনে ॥ ৪৭ ॥
@@ -563,7 +563,7 @@ in the forms of guru and the Indweller  teaches  Himself
 নৈবোপয়ন্ত্যপচিতিং কবয়স্তবেশ  
 ব্রহ্মায়ুষাপি কৃতমৃদ্ধমুদঃ স্মরন্তঃ ৷  
 যোঽন্তর্বহিস্তনুভৃতামশুভং বিধুন্ব-  
-ন্নাচার্য্য-চৈত্যবপুষা স্বগতিং ব্যনক্তি ॥ ৪৮ ॥
+ন্নাচার্য্যচৈত্ত্যবপুষা স্বগতিং ব্যনক্তি ॥ ৪৮ ॥
 
 naivopayanty apacitiṁ kavayas taveśa  
 not  attain  repayment  the wise  Your,  O Lord  
@@ -574,7 +574,7 @@ who  within  without  of the embodied  the inauspicious  dispelling
 ācārya-caitya-vapuṣā sva-gatiṁ vyanakti  
 as ācārya  and Supersoul  in forms  Your own path  reveal
 
-(48) “O Lord! Even if the wise lived as long as Brahmā and remembered with ever-growing joy all that You have done for them, they could not repay their debt to You. For, dispelling all that is inauspicious in embodied souls, You come to them from without as the ācārya and from within as the Supersoul, and reveal to them the way to Yourself.” (Śrīmad-Bhāgavatam, 11.29.6)
+(48) “O Lord! Even if the wise lived as long as Brahmā and remembered with ever-growing joy all that You have done for them, they could not repay their debt to You. For, dispelling all that is inauspicious in embodied souls, You come to them from without as the ācārya and from within as the Supersoul, and reveal to them the way to Yourself.” (Śrīmad-Bhāgavatam, 11.29.6)[^20]
 
 সাধুসঙ্গে কৃষ্ণভক্ত্যে শ্রদ্ধা যদি হয় ৷  
 ভক্তিফল ‘প্রেম’ হয়, সংসার যায় ক্ষয় ॥ ৪৯ ॥
@@ -598,7 +598,7 @@ not  disgusted  not overly attached
 bhakti-yogo ‘sya siddhi-daḥ  
 bhakti-yoga  for him  gives perfection
 
-(50) “For one who by good fortune has come to have faith in narrations about Me and the like, and who is neither disgusted with the world nor overly attached to it, *bhakti-yoga* grants perfection.” (Śrīmad-Bhāgavatam, 11.20.8)
+(50) “For one who by good fortune has come to have faith in narrations about Me and the like, and who is neither disgusted with the world nor overly attached to it, *bhakti-yoga* grants perfection.” (Śrīmad-Bhāgavatam, 11.20.8)[^21]
 
 মহৎ-কৃপা বিনা কোন কর্ম্মে ‘ভক্তি’ নয় ৷  
 কৃষ্ণভক্তি দূরে রহু, সংসার নহে ক্ষয় ॥ ৫১ ॥
@@ -608,12 +608,12 @@ of the great souls  the mercy  without  by any  activity  bhakti  is not
 kṛṣṇa-bhakti dūre rahu, saṁsāra nahe kṣaya  
 devotion to Kṛṣṇa  aside  let it be  worldly existence  does not  end
 
-(51) Without the mercy of great souls no activity yields bhakti. Devotion to Kṛṣṇa aside, without it even worldly existence does not come to an end.
+(51) Without the mercy of great souls no activity yields bhakti. Without it, worldly existence does not even come to an end, let alone devotion to Kṛṣṇa arise.
 
 রহূগণৈতৎ তপসা ন যাতি  
 ন চেজ্যয়া নির্ব্বপণাদ্গৃহাদ্বা ৷  
 ন চ্ছন্দসা নৈব জলাগ্নিসূর্য্যৈ-  
-র্বিনা মহৎপাদ-রজোঽভিষেকম্ ॥ ৫২ ॥
+র্ব্বিনা মহৎপাদরজোঽভিষেকম্ ॥ ৫২ ॥
 
 rahūgaṇaitat tapasā na yāti  
 O Rahūgaṇa  this  by austerity  not  is attained  
@@ -624,7 +624,7 @@ not  by the Vedas  nor  by water, fire and sun
 vinā mahat-pāda-rajo-‘bhiṣekam  
 without  bathing in the dust of the feet of great souls
 
-(52) “O Rahūgaṇa, this is not attained by austerity, by worship, by renunciation or by household duties, nor by the Vedas, nor by worship of water, fire and the sun, without bathing in the dust of the feet of great souls.” (Śrīmad-Bhāgavatam, 5.12.12)
+(52) “O Rahūgaṇa, this is not attained by austerity, by worship, by renunciation or by household duties, nor by the Vedas, nor by worship of water, fire and the sun, without bathing in the dust of the feet of great souls.” (Śrīmad-Bhāgavatam, 5.12.12)[^22]
 
 নৈষাং মতিস্তাবদুরুক্রমাঙ্ঘ্রিং  
 স্পৃশত্যনর্থাপগমো যদর্থঃ ৷  
@@ -640,7 +640,7 @@ of the great  bathing in the dust of the feet
 niṣkiñcanānāṁ na vṛṇīta yāvat  
 of those who own nothing  not  accepts  as long as
 
-(53) “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)
+(53) “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)[^23]
 
 ‘সাধুসঙ্গ’, ‘সাধুসঙ্গ’ — সর্ব্বশাস্ত্রে কয় ৷  
 লবমাত্র সাধুসঙ্গে সর্ব্বসিদ্ধি হয় ॥ ৫৪ ॥
@@ -650,7 +650,7 @@ sādhu-saṅga  sādhu-saṅga  all the scriptures  declare
 lava-mātra sādhu-saṅge sarva-siddhi haya  
 a mere moment of  sādhu-saṅga  all perfection  comes
 
-(54) “The company of sādhus, the company of sādhus!” — so declare all the scriptures. Even a moment of *sādhu-saṅga* brings every perfection.
+(54) ‘The company of sādhus, the company of sādhus!’ — so declare all the scriptures. Even a moment of *sādhu-saṅga* brings every perfection.
 
 তুলয়াম লবেনাপি ন স্বর্গং নাপুনর্ভবম্ ৷  
 ভগবৎসঙ্গিসঙ্গস্য মর্ত্ত্যানাং কিমুতাশিষঃ ॥ ৫৫ ॥
@@ -664,7 +664,7 @@ of association with those who associate with the Lord
 martyānāṁ kim utāśiṣaḥ  
 of mortals  what  then  the blessings
 
-(55) “We cannot compare even heaven or liberation with a moment of association with those who associate with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)
+(55) “We cannot compare even heaven or liberation with a moment of association with those who associate with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)[^24]
 
 কৃষ্ণ কৃপালু অর্জ্জুনেরে লক্ষ্য করিয়া ৷  
 জগতেরে রাখিয়াছেন উপদেশ দিয়া ॥ ৫৬ ॥
@@ -736,7 +736,7 @@ in hearing My narrations and the rest  or
 śraddhā yāvan na jāyate  
 faith  as long as  not  is born
 
-(61) “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam, 11.20.9)
+(61) “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam, 11.20.9)[^25]
 
 ‘শ্রদ্ধা’-শব্দে — বিশ্বাস কহে সুদৃঢ় নিশ্চয় ৷  
 কৃষ্ণে ভক্তি কৈলে সর্ব্বকর্ম্ম কৃত হয় ॥ ৬২ ॥
@@ -746,9 +746,9 @@ by the word “śraddhā”  trust  is meant  very firm  conviction
 kṛṣṇe bhakti kaile sarva-karma kṛta haya  
 to Kṛṣṇa  devotion  when one renders  all duties  done  become
 
-(62) The word *śraddhā* means trust: a very firm conviction that by rendering devotion to Kṛṣṇa one has fulfilled all one’s duties.
+(62) The word *śraddhā* means trust: a very firm conviction that by rendering devotion to Kṛṣṇa one has fulfilled all one’s duties.[^26]
 
-যথা তরোর্মূলনিষেচনেন  
+যথা তরোর্ম্মূলনিষেচনেন  
 তৃপ্যন্তি তৎস্কন্ধভুজোপশাখাঃ ৷  
 প্রাণোপহারাচ্চ যথেন্দ্রিয়াণাং  
 তথৈব সর্ব্বার্হণমচ্যুতেজ্যা ॥ ৬৩ ॥
@@ -792,7 +792,7 @@ the reasoning of scripture  not  knows  firmly  having faith
 ‘madhyama-adhikārī’ sei mahā-bhāgyavān  
 of middle qualification  he  greatly fortunate
 
-(66) One who does not firmly know the reasoning of scripture but has faith is a *madhyama adhikārī*, of the middle qualification; he is most fortunate.
+(66) One who does not firmly know the reasoning of scripture but has faith is a *madhyama adhikārī*, of the middle qualification; he is most fortunate.[^27]
 
 যাহার কোমল শ্রদ্ধা, সে — ‘কনিষ্ঠ’ জন ৷  
 ক্রমে ক্রমে তেঁহো ভক্ত হইবে ‘উত্তম’ ॥ ৬৭ ॥
@@ -826,7 +826,7 @@ the beings  in the Lord  in the Self
 eṣa bhāgavatottamaḥ  
 he  the best of devotees
 
-(69) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
+(69) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)[^28]
 
 ঈশ্বরে তদধীনেষু বালিশেষু দ্বিষৎসু চ ৷  
 প্রেম-মৈত্রী-কৃপোপেক্ষা যঃ করোতি স মধ্যমঃ ॥ ৭০ ॥
@@ -854,7 +854,7 @@ not  to His devotees  and to others
 sa bhaktaḥ prākṛtaḥ smṛtaḥ  
 he  a devotee  on the worldly level  is considered
 
-(71) “One who with faith worships Hari only in the Deity, but does not honor His devotees or others, is known as a *prākṛta* devotee, one still on the worldly level.” (Śrīmad-Bhāgavatam, 11.2.47)
+(71) “One who with faith worships Hari only in the Deity, but does not honour His devotees or others, is known as a *prākṛta* devotee, one still on the worldly level.” (Śrīmad-Bhāgavatam, 11.2.47)
 
 সর্ব্ব মহা-গুণগণ বৈষ্ণব-শরীরে ৷  
 কৃষ্ণভক্তে কৃষ্ণের গুণ, সকলি সঞ্চারে ॥ ৭২ ॥
@@ -880,7 +880,7 @@ to Hari  of one not devoted  whence  great qualities
 mano-rathenāsati dhāvato bahiḥ  
 by the chariot of the mind  toward the unreal  running  outward
 
-(73) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)
+(73) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^29]
 
 সেই সব গুণ হয় বৈষ্ণব-লক্ষণ ৷  
 সব কহা না যায়, করি দিগ্দরশন ॥ ৭৪ ॥
@@ -900,7 +900,7 @@ merciful  harming no one  devoted to truth  equal to all
 nirdoṣa, vadānya, mṛdu, śuci, akiñcana  
 faultless  magnanimous  gentle  pure  owning nothing
 
-(75) A Vaiṣṇava is merciful, harms no one, is devoted to truth, equal to all, faultless, magnanimous, gentle, pure and without possessions (*akiñcana*);
+(75) A Vaiṣṇava is merciful, harms no one, is devoted to truth, equal to all, faultless, magnanimous, gentle, pure and without possessions (*akiñcana*);[^30]
 
 সর্ব্বোপকারক, শান্ত, কৃষ্ণৈকশরণ ৷  
 অকাম, নিরীহ, স্থির, বিজিত-ষড়্গুণ ॥ ৭৬ ॥
@@ -920,7 +920,7 @@ moderate in eating  sober  giving honor to others  seeking no honor
 gambhīra, karuṇa, maitra, kavi, dakṣa, maunī  
 grave  compassionate  friendly  a poet  expert  silent
 
-(77) he is moderate in eating, sober, giving honor to others while seeking none for himself, grave, compassionate, friendly, a poet, expert and sparing in speech.
+(77) he is moderate in eating, sober, giving honour to others while seeking none for himself, grave, compassionate, friendly, a poet, expert and sparing in speech.
 
 তিতিক্ষবঃ কারুণিকাঃ সুহৃদঃ সর্ব্বদেহিনাম্ ৷  
 অজাতশত্রবঃ শান্তাঃ সাধবঃ সাধুভূষণাঃ ॥ ৭৮ ॥
@@ -936,16 +936,16 @@ following the scriptures  adorned with saintliness
 
 (78) “The sādhus are tolerant and compassionate, well-wishers of all embodied beings. They have no enemies and are peaceful; they follow the scriptures, and saintly conduct is their ornament.” (Śrīmad-Bhāgavatam, 3.25.21)
 
-মহৎসেবাং দ্বারমাহুর্বিমুক্তে-  
+মহৎসেবাং দ্বারমাহুর্ব্বিমুক্তে-  
 স্তমোদ্বারং যোষিতাং সঙ্গিসঙ্গম্ ৷  
-মহান্তস্তে সমচিত্তাঃ প্রশান্তা  
+মহান্তস্তে সমচিত্তাঃ প্রশান্তাঃ  
 বিমন্যবঃ সুহৃদঃ সাধবো যে ॥ ৭৯ ॥
 
 mahat-sevāṁ dvāram āhur vimuktes  
 service to the great  the door  they call  of liberation  
 tamo-dvāraṁ yoṣitāṁ saṅgi-saṅgam  
 the door to darkness  of those attached to women  the company  
-mahāntas te sama-cittāḥ praśāntā  
+mahāntas te sama-cittāḥ praśāntāḥ  
 the great  they  equal-minded  peaceful  
 vimanyavaḥ suhṛdaḥ sādhavo ye  
 free from anger  well-wishers  saintly  who
@@ -976,10 +976,10 @@ association with the saints  when  at that very time  for the goal of the saints
 parāvareśe tvayi jāyate ratiḥ  
 for the Lord of the high and the low  for You  is born  attraction
 
-(81) “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)
+(81) “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)[^31]
 
 অত আত্যন্তিকং ক্ষেমং পৃচ্ছামো ভবতোঽনঘাঃ ৷  
-সংসারেঽস্মিন্ ক্ষণার্ধোঽপি সৎসঙ্গঃ সেবধির্নৃণাম্ ॥ ৮২ ॥
+সংসারেঽস্মিন্ ক্ষণার্দ্ধোঽপি সৎসঙ্গঃ সেবধির্নৃণাম্ ॥ ৮২ ॥
 
 ata ātyantikaṁ kṣemaṁ  
 therefore  the ultimate  good  
@@ -1019,3 +1019,39 @@ association with saints  a treasure  for men
 [^12]: Heading of the edition: *Śrīmad-Bhāgavatam*, 11.5.2–3 (on verses 27–28). *Anubhāṣya*: the Puruṣa is the universal (*vairāja*) Brahmā; the sage Camasa answers King Nimi thus, describing the *daiva-varṇāśrama* favourable to bhakti and the fate of those who depart from it.
 
 [^13]: *Anubhāṣya*: Brahmā and the gods pray thus to Bhagavān, who has appeared in the womb of Devakī; the “supreme position” (*paraṁ padam*), according to Śrīdhara Svāmī, is the place immediately next to *mokṣa*.
+
+[^14]: Heading of the edition: where Kṛṣṇa is seen, māyā is not seen; where māyā is seen, Kṛṣṇa is not seen.
+
+[^15]: *Amṛta-pravāha-bhāṣya*: not by habit, with the lips alone, but from the whole heart — with body, mind and words.
+
+[^16]: Heading of the edition: the words of Śrī Rāmacandra in the *Rāmāyaṇa*, when Vibhīṣaṇa came to Him.
+
+[^17]: Numbered as in the heading of the edition and the *Anubhāṣya* (5.19.26); in other editions — 5.19.27.
+
+[^18]: *Anubhāṣya*: Akrūra reflects thus on the road to Gokula, where he is going to bring Rāma and Kṛṣṇa.
+
+[^19]: *Anubhāṣya*: Mucukunda prays thus to Śrī Kṛṣṇa; the end of worldly existence (*bhavāpavarga*) comes by the Lord’s mercy, when its time arrives.
+
+[^20]: The same verse as Ādi 1.48; translation as there.
+
+[^21]: *Anubhāṣya*: *nirviṇṇa* — one who holds to false (*phalgu*) renunciation; just such a person, full of faith, is qualified for bhakti-yoga.
+
+[^22]: *Anubhāṣya*: the *avadhūta* Bharata instructs Rahūgaṇa, king of Sindhu and Sauvīra, thus; *ijyā* — Vedic rites, the worship of the gods; *nirvapaṇa* — *sannyāsa*; *gṛha* — the sacrifices of the householder.
+
+[^23]: *Anubhāṣya*: Prahlāda answers Hiraṇyakaśipu, who asked where his Vaiṣṇava disposition came from.
+
+[^24]: *Anubhāṣya*: the sages headed by Śaunaka glorify thus their association with Sūta, the *mahā-bhāgavata*.
+
+[^25]: The same verse as Madhya 9.266; translation as there.
+
+[^26]: *Anubhāṣya*: one who serves Kṛṣṇa need not discharge the duties of the worldly realm — the debts to the forefathers, to beings, to the gods and others; detachment, the best fruit of karma, accompanies the devotee of itself.
+
+[^27]: The *Anubhāṣya* cites Śrī Rūpa: “One who is not so expert in the śāstras and the rest, but has faith, is of the middle level.”
+
+[^28]: The same verse as Madhya 8.274; translation as there. Heading of the edition: *Śrīmad-Bhāgavatam*, 11.2.45–47 (on verses 69–71).
+
+[^29]: The same verse as Ādi 8.58; translation as there.
+
+[^30]: Heading of the edition: “the secondary (*taṭastha*) marks”. *Anubhāṣya*: the essential (*svarūpa*) mark of a Vaiṣṇava is that Kṛṣṇa is his only shelter (*kṛṣṇaika-śaraṇa*, verse 76); all the rest are secondary.
+
+[^31]: The same verse as 46; translation as there.
