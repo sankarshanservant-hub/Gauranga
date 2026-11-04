@@ -374,6 +374,160 @@ Once, in the forests of Vraja, while the cows were grazing, Kṛṣṇa saw that
 
 > Subheading: (3) Śrī Rādhā regards Kṛṣṇa as a lover subject to herself — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 30, verses 37–39)
 
+## 207–209
+
+Śrī Kṛṣṇa vanished from the *rāsa* dance, taking with Him Śrīmatī Rādhikā alone. Then pride arose in Śrīmatī, and these are her proud words:
+
+(*asau priyaḥ kṛṣṇaḥ* — this beloved Kṛṣṇa) **kāmayānāḥ** (for whom desire is the “vehicle,” what brought them to Him) **gopīḥ** (all the gopīs) **hitvā** (leaving) **mām** (me, Rādhikā) **bhajate** (serves; proud of this) **sā** (Rādhikā) **ātmānam** (herself) **sarva-yoṣitām** (among all the gopīs) **variṣṭhām** (the best) **mene** (considered); **tataḥ** (after such self-esteem) **vanoddeśam** (to a certain part of the forest) **gatvā**: “**aham** **calitum** **na pāraye** (am unable), so **yatra** (wherever) **te** (Your) **manaḥ** (desire) [to go], (there, O Keśava,) **mām** **naya** (carry),” **iti** **sā** **keśavam** **abravīt**; **evam** **uktaḥ** (on hearing this, Śrī Kṛṣṇa) **priyām** (to His beloved, Rādhikā) “(onto My) **skandham** (shoulder) **ārūhyatām** (climb)” **iti** **āha**; **tataḥ** **kṛṣṇaḥ** (who delights in pastimes) **ca** **antardadhe** (vanished); (seeing this,) **sā** **vadhūḥ** (Rādhikā) **ca** **anvatapyata** (began to lament).
+
+## 210
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 31, verse 16)
+
+During the *rāsa* dance with the gopīs Śrī Kṛṣṇa suddenly vanished, and the gopīs, pining in separation, sang a lament addressed to Kṛṣṇa:
+
+**he acyuta**, **gati-vidaḥ** (You who know why we have come, or who know the courses of melodies; or else *gati-vidaḥ* refers to us) **tava** **udgīta-mohitāḥ** (we gopīs, enchanted by Your *udgīta*, Your loud song) **pati-sutānvaya-bhrātṛ-bāndhavān** (husbands, sons, *anvaya* — the descendants related to them — brothers and all friends) **ativilaṅghya** (disregarding) **te** (Your) **anti** (nearness) **āgatāḥ**; **he kitava** (deceiver, rogue), **niśi** **evam-bhūtāḥ** **yoṣitaḥ** (such women, who came of their own accord; except You) **kaḥ** **tyajet** — no one; this is the sense.
+
+## 211
+
+> Subheading: The qualities and nature of *śānta-rasa* —
+
+In *śānta-rasa*, once the notion of material enjoyment has been removed, awareness of one's true nature (*svarūpa-buddhi*) dawns in the *jīva*. Its eternal nature is endowed with the property of eternal, exclusive devotion to Kṛṣṇa. Śrī Bhagavān Himself told Uddhava that the word *śama* means “exclusive devotion to Kṛṣṇa.”
+
+## 212
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, the wave on *śānta-bhakti-rasa*, verse 21)
+
+**buddheḥ** **man-niṣṭhatā** (exclusive devotion to Kṛṣṇa) is “**śamaḥ**” — **iti** **śrī-bhagavad-vacaḥ** (the words of Śrī Kṛṣṇa to Uddhava); **etām** **śānta-ratim** **vinā** **buddheḥ** **tan-niṣṭhā** (fixity on Bhagavān) **durghaṭā** (is hard to achieve).
+
+## 213
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 19, verse 36)
+
+Śrī Kṛṣṇa's answer to Uddhava's question:
+
+**buddheḥ** **man-niṣṭhatā** (not mere peace) is “**śamaḥ**”; **indriya-saṁyamaḥ** (not the subduing of thieves and the like) is “**damaḥ**”; **duḥkha-saṁmarṣaḥ** (tolerance — bearing the results of one's own actions or prescribed suffering, not burdens and the like) is “**titikṣā**”; **jihvopastha-jayaḥ** (conquest of the tongue and genitals — restraining their urges, not merely being unagitated) is “**dhṛtiḥ**.”
+
+## 214
+
+The absence of craving for anything but Kṛṣṇa is acknowledged as the effect of *śānta-rasa*; therefore only a devotee of Kṛṣṇa is *śānta* (peaceful).
+
+## 215
+
+*Dui guṇe* (by the two qualities) means by exclusive devotion to Kṛṣṇa and by giving up greed for things or objects other than Kṛṣṇa.
+
+## 216
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 6, Chapter 17, verse 28)
+
+See Madhya 9.270.
+
+## 217
+
+> Subheading: *Śānta-rasa* runs through all the devotees of Bhagavān —
+
+*Saba bhakta-jane* (in all devotees) means that they are present in all five kinds of devotees: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.
+
+“The quality of ether is sound”: for a detailed explanation see Madhya 8.85–87.
+
+## 218
+
+> Subheading: In *śānta-rasa*, a detached (*nirapekṣa*) attitude toward Kṛṣṇa —
+
+## 219
+
+> Subheading: In *dāsya-rasa* — *śānta-rasa* and service —
+
+## 222
+
+> Subheading: In *sakhya-rasa* — *śānta-rasa* and *dāsya-rasa* taken into it, plus confidence (*viśrambha*) and *mamatā* —
+
+## 226
+
+> Subheading: In *vātsalya-rasa* — *dāsya-rasa* and *sakhya-rasa*, plus the sense that Kṛṣṇa needs to be cared for —
+
+## 228
+
+Those whose knowledge is dominated by majesty speak of Kṛṣṇa's quality of being subject to His own devotees[^228-1].
+
+## 230
+
+> Subheading: (*Padma Purāṇa*, *Dāmodarāṣṭaka*)
+
+**iti** (by this Dāmodara pastime) **īdṛk** (like the Dāmodara pastime) **sva-līlābhiḥ** (by His own pastimes, His sports) **sva-ghoṣam** (all His loving cowherds and others) **ānanda-kuṇḍe** **nimajjantam** (immersing — relishing a special supreme happiness) **tadīyeśita-jñeṣu** (to devotees absorbed in Bhagavān's majesty) **bhaktaiḥ jitatvam** (His being conquered by devotees) **ākhyāpayantam** (proclaiming) **tvām** (You, the Lord) **premataḥ** (with special devotion) **śatāvṛtti** (so that it is a hundred times — a hundred times) **aham** **vande**.
+
+## 231
+
+> Subheading: In *madhura-rasa* — *dāsya*, *sakhya* and *vātsalya* taken into it, plus service with one's own body —
+
+## 233
+
+> Subheading: Just as sound and the other qualities of ether and the other elements culminate in the quality of earth, smell, so in *madhura-rasa* the other four *rasas* are present throughout —
+
+See Madhya 8.87.
+
+## 235
+
+> Subheading: This brief survey by the Lord is set out in detail in the *Bhakti-rasāmṛta-sindhu* —
+
+## 237
+
+> Subheading: The Lord sets out from Prayāga for Kāśī —
+
+## 239
+
+> Subheading: Śrī Rūpa asks permission to follow the Lord —
+
+## 240
+
+> Subheading: The Lord tells Śrī Rūpa to go to Vṛndāvana and later come from there to meet Him in Purī —
+
+## 242
+
+> Subheading: The Lord boards the boat; Śrī Rūpa faints —
+
+## 243
+
+> Subheading: Śrī Rūpa and Anupama set out for Vṛndāvana —
+
+## 244
+
+> Subheading: The Lord arrives in Kāśī —
+
+## 245
+
+> Subheading: Vaidya Śekhara (Candraśekhara), as instructed in a dream, meets the Lord and brings Him home —
+
+## 247
+
+> Subheading: Tapana Miśra invites the Lord, and Candraśekhara invites Balabhadra —
+
+## 249
+
+> Subheading: Miśra asks leave to feed the Lord for as long as He stays in Kāśī —
+
+## 251
+
+> Subheading: Indicating that the company of Māyāvādī *sannyāsīs* is bad association, the Lord agrees to the devotee's request —
+
+## 252
+
+> Subheading: The Lord takes His meals at Tapana Miśra's house and stays at Candraśekhara's house —
+
+## 253
+
+> Subheading: A brāhmaṇa from Mahārāṣṭra receives the Lord's mercy —
+
+## 255
+
+> Subheading: The teaching to Śrī Rūpa is described in brief —
+
+## 256
+
+> Subheading: Whoever hears of the teaching to Śrī Rūpa attains *prema-bhakti* at the feet of Caitanya —
+
+*Thus ends the nineteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^157-1]: *Upadeśāmṛta* 2.
@@ -383,3 +537,5 @@ Once, in the forests of Vraja, while the cows were grazing, Kṛṣṇa saw that
 [^180-1]: The numeral is unclear in the scan (broken type); by sense it is the second wave, which deals with the *anubhāvas*.
 
 [^184-1]: The edition (scan checked) reads *mithyā* (“falsely”), evidently a misprint for *mitho* (“mutually”); the Bengali paraphrase that follows has “mutual.”
+
+[^228-1]: So in the edition (scan checked): the note is numbered 228, but by content it belongs to verse 229.

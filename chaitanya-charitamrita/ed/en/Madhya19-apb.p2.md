@@ -86,6 +86,40 @@ Bhagavān Kṛṣṇa, having lost, carried Śrīdāmā on His shoulders; Bhadra
 
 “Leaving the gopīs who long for Him, this beloved Kṛṣṇa lovingly serves me” — with such pride (Rādhikā thought herself the best of all the gopīs, and at last), going into the forest, Rādhikā said to Śrī Kṛṣṇa, “O Kṛṣṇa, I can't walk any further; carry me wherever You like.” When Rādhikā said this, Kṛṣṇa replied, “Climb onto My shoulders.” Having said this, Kṛṣṇa vanished, and Rādhikā, Kṛṣṇa's beloved, began to lament.
 
+## 210
+
+O Kṛṣṇa, we have come to You, disregarding everyone — husbands, sons, kinsmen, brothers and friends. You know why we have come: we came enchanted by Your song. O rogue, who abandons women like this at night?
+
+## 211
+
+From awareness fixed on Me (*man-niṣṭhatā-buddhi*) the quality of *śama* arises; from *śama*, *śānta-rasa*. Therefore in *śānta-rasa* one sees this firm conviction (*niṣṭhā*): “Kṛṣṇa alone is the supreme truth; the whole universe (though it rests on Kṛṣṇa, it is distinct from Kṛṣṇa, other) is an ‘other’ thing.”
+
+## 212
+
+From the words of Bhagavān — “the quality of *śama* comes from awareness fixed on Me” — one should understand that without *śānta-rati* such fixity (*niṣṭhā*) is hard to achieve.
+
+## 213
+
+Awareness fixed on Me is the quality of *śama*; control of the senses is *dama*; bearing suffering is called *titikṣā*; and conquest of the tongue and genitals is called *dhṛti*.
+
+## 219–228
+
+Exclusive devotion to Kṛṣṇa and (therefore) giving up craving for other things — these are the two qualities of *śānta-rasa*[^219-228-1]. Just as sound, the sole quality of ether, pervades all the elements — air, fire, water and earth — so the qualities of *śānta-rasa* are present in *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa*. *Śānta-rasa* has these two qualities, but it lacks *mamatā* (the property “He is mine”). Therefore the object of worship in this *rasa* is “Parabrahman,” “the Paramātmā” and the like, and in this worship itself knowledge (*jñāna*) predominates. When *mamatā* is added to it — “This Paramātmā is my Master, and I am His eternal servant” — *śānta-rasa* blossoms and turns into *dāsya*; yet in it there is still abundant “awareness of the Lord” (*īśvara-jñāna*) and “reverence” (*gaurava*) in the form of awe. In *śānta-rasa* there is no service; service begins only in *dāsya-rasa*. In *dāsya-rasa* two qualities are seen: the quality of *śānta*, and *mamatā*.
+
+Further, in *sakhya-rasa* the quality of *śānta* and the quality of *dāsya* are certainly present, but to them is added a little love full of trust. Trust is called *viśrambha*; in *sakhya-rasa*, where *viśrambha* predominates, there is no reverence or awe. Therefore *sakhya-rasa* has “three” qualities. The *mamatā* that was in *dāsya* has increased in *sakhya*: Kṛṣṇa is regarded as “equal to oneself” (*ātma-sama*). In *vātsalya* the quality of *śānta* and the service of *dāsya* turn into “nurturing” (*pālana*). Besides this, there are the qualities of *sakhya* — freedom from reserve and absence of reverence — and, from an excess of *mamatā*, punishing and scolding, as well as regarding oneself as the “protector” and Kṛṣṇa as the one “to be protected.” Through such qualities of four *rasas*, *vātsalya* has become like nectar.
+
+## 230
+
+O Bhagavān, I bow to You lovingly hundreds of times, for by such pastimes of Yours You immerse the gopīs in a lake of bliss and show the devotees who are aware of Your majesty that You are conquered by devotees.
+
+The exclusive devotion to Kṛṣṇa (*kṛṣṇa-niṣṭhā*)[^230-1] of *śānta*, the “abundant service” of *dāsya*, the “service without reserve” of *sakhya*, and the “nurturing from an excess of *mamatā*” of *vātsalya* — when to all these feelings is firmly added the “service of giving one's own body,” which belongs to the mood of a beloved (*kāntā-bhāva*), there arises *madhura-rasa*, endowed with five qualities. In it all the *bhāvas* are combined. Therefore, as the fullness of taste increases, its supreme wonder is seen. Reflecting on the *sūtras* of this *bhakti-rasa*, told in brief, [Śrī Rūpa] will bring forth the scripture *Bhakti-rasāmṛta-sindhu*.
+
+*Thus ends the nineteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^177-181-1]: The edition reads *guṇāguṇa* (usually “merits and faults”); by sense, Kṛṣṇa's qualities.
+
+[^219-228-1]: So in the edition (scan checked): “219–228”; by content the paragraph begins with the discussion of verses 214–218 (the qualities of *śānta-rasa*).
+
+[^230-1]: In the edition this paragraph has no number and stands within section 230; by content it belongs to verses 231–236.
