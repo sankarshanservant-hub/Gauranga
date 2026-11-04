@@ -94,6 +94,34 @@ Over time the account of the pastimes of Vṛndāvana had been lost. To spread t
 
 I bow to the lotus feet of Śrī Caitanyadeva Hari, by whose inspiration in my heart I, a wretched pauper, have taken up the writing of a book on *bhakti*.
 
+## 140
+
+If the tip of a hair is divided into a hundred parts, and one of them again into a hundred, the minute *svarūpa* of the *jīva* is like such a part. The *jīva* is a particle of spirit (*cit-kaṇa*), and the *jīvas* are countless.
+
+## 141
+
+If the hundredth part of the tip of a hair is divided many hundreds of times, the resulting part is minute, and the *jīva* is just as minute. So say the principal *śrutis*.
+
+## 142
+
+Some manuscripts give it in full, as Śrī Bhagavān's words to Uddhava in the *Śrīmad-Bhāgavatam*: “Among those possessing qualities I am the *sūtra*, among the great I am the *mahat*, among the subtle I am the *jīva*, among the hard to conquer I am the mind.” Among the subtle I (Bhagavān) am the “*jīva*” (a manifestation of oneness and difference).
+
+## 143
+
+O Dhruva (Eternal One)! If the embodied *jīvas* were unlimited, eternal (*dhruva*) in the sense of supreme eternity, and all-pervading, there would be no law that they are subject to Your rule. Only if the *jīva* is accepted as “atomic” and “eternal” in the ordinary sense is it subject to You. The *jīvas* were born consisting of that cause; only by not abandoning them can it be their controller. Therefore the opinion of those who consider the *jīva* and You to be “one” is corrupted by “*matavāda*” (the fault of mere opinion).[^143-1]
+
+## 144–149
+
+*Jīvas* are of two kinds: eternally liberated and eternally conditioned. The eternally conditioned are divided into the immobile and the mobile. Those who are motionless (such as trees) are “immobile” (*sthāvara*) *jīvas*, and those who move are “mobile” (*jaṅgama*). The mobile are of three kinds: beasts and birds, aquatics and land-dwellers. Among land-dwellers humans are very few. If from these few humans one excludes the *mlecchas*, *pulindas*, Buddhists and *śabaras*, those faithful to the Vedas remain. Those faithful to the Vedas are of two kinds: those who follow *dharma* and those who do not. Among those who follow *dharma*, many are devoted to *karma* and some are devoted to knowledge. Among millions devoted to knowledge only one is truly “liberated” (*mukta*); here those free from material understanding are called “liberated.” And among these liberated, one who, endowed with faith, has turned to the service of Kṛṣṇa is a “devotee of Kṛṣṇa.” A devotee of Kṛṣṇa has no desires. All the others, up to the “liberated” mentioned above, have desires. Those who follow *dharma* and those devoted to *karma* are “desirers of enjoyment” (*bhukti-kāmī*), the knowers up to the liberated are “desirers of liberation” (*mukti-kāmī*), and some of them also “desire *siddhis*,” the fruits of *yoga*. As long as these three kinds of desire remain in their hearts, those desires give them no peace; therefore they are all “restless” (*aśānta*). Hence only the desireless devotee of Kṛṣṇa is peaceful (*śānta*), that is, has attained peace.
+
+## 150
+
+O great sage, among many millions of the liberated and the perfected, a person devoted to Nārāyaṇa, peaceful in heart, is extremely rare.[^150-1]
+
 ---
 
 [^24-27-1]: The verse translation understands it differently: the king speaks of Sanātana's elder brother in the third person, as one who has ruined a whole province by killing many people (Madhya 19.24–25).
+
+[^143-1]: The verse translation understands parts of the verse differently: “able to reach any destination” for *sarva-gatāḥ*, and the *jīva's* repeated acceptance of new bodies as proof of its dependence (Madhya 19.143).
+
+[^150-1]: The verse translation understands it differently: “among millions of those who strive for mystic perfections or liberation” (Madhya 19.150).

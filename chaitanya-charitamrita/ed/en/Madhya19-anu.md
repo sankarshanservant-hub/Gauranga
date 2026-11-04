@@ -544,6 +544,64 @@ In such a life of renunciation they served Kṛṣṇa in various ways: sometime
 
 Muṇḍaka Upaniṣad 3.1.9: “This *ātmā* is minute.”
 
+## 140
+
+> Subheading: Scriptural evidence — (a *śloka* quoted in the commentary on the *Śruti-stuti*) —
+
+**ayaṁ** **jīvaḥ** **hi** **keśāgra-śata-bhāgasya** (of the extremely fine tip of a hair divided into a hundred parts, and then of such a supremely fine part) **śatāṁśa-sadṛśātmakaḥ** (like a hundredth part of it) **sūkṣma-svarūpaḥ** (by nature an atomic consciousness) **cit-kaṇaḥ** (a minute particle of spirit) **saṁkhyātītaḥ** (countless).
+
+## 141
+
+> Subheading: (A *śloka* following the *mantra* of the *Śvetāśvatara Upaniṣad*)
+
+(**yaḥ**) **bālāgra-śata-bhāgasya** (of the tip of a hair divided into a hundred parts; then of that part) **śatadhā** **kalpitasya** (divided a hundredfold) **ca** **bhāgaḥ** (the part), **saḥ** (that alone) **jīvaḥ** (the form of the *jīva's svarūpa*) **vijñeyaḥ** (is to be known): **iti** **ca** **parā** (the best) **śrutiḥ** (headed by the *Śvetāśvatara*) **āha**.
+
+## 142
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.16.11, third quarter)
+
+Śrī Uddhava wished to hear about the opulences (*vibhūtis*) of Bhagavān, and Śrī Kṛṣṇa said to him: **ahaṁ** (Śrī Bhagavān, the Lord of spirit and matter, the embodiment of nondual knowledge) **sūkṣmāṇām** (among the atomic) **api** **jīvaḥ** (the *jīvātmā*).
+
+## 143
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.87.30)
+
+In Janaloka, at the *brahma-satra* sacrifice, to the sages eager to hear, one of the Kumāras, the *brahmarṣi* Sanandana, recounts the hymn that the personified Śrutis offered to Bhagavān: **dhruva** (O shelter of all, O Eternal One)! **aparimitāḥ** (actually infinite) **dhruvāḥ** (eternal) **tanu-bhṛtaḥ** (embodied *jīvas*) **yadi** **sarva-gatāḥ** (were all-pervading, omnipresent), **tarhi** **śāsyatā** (their subjection to You): **iti** **yaḥ** (established by You) **niyamaḥ** (law), **saḥ** **na** (would not be); **itarathā** **na** (it cannot be otherwise, because the positions of the ruled and the Ruler are established). **yan-mayaṁ** (that of which the entity called *jīva*, an effect like sparks from fire and so on, consists) **ajani** (was born); (over those *jīvas*) **niyantṛ** (the ruler) **bhavet**; **tat** **avimucya** (the Paramātmā, the material cause, who does not abandon those *jīvas*) **samam** (as one with the truth of the *jīva*) **anujānatām** (of the *kevalādvaita-vādīs*, who consider) **mata-duṣṭatayā** (because of the corruption, that is, impurity, of their opinion) **amatam** **eva** (is practically unknown, being beyond their range).
+
+## 144
+
+> Subheading: By difference of form *jīvas* are of two kinds: (1) immobile, (2) mobile; the mobile are of three kinds: those that move in water, on land and in the sky —
+
+*Tāra madhye* (“among them”): among the conditioned *jīvas* within the universe.
+
+## 145
+
+> Subheading: Land-dwellers are superior; among them humans are the best of all; among humans, a comparison of the grades of *karmī*, *jñānī* and devotee —
+
+*Tāra madhye* (“among them”): among humans; these are the opposites of those faithful to the Vedas.
+
+## 146
+
+Those who in words profess to be “faithful to the Vedas” but act against the Vedas are willful “bad *karmīs*” (*ku-karmī*), or “those with other desires” (*anyābhilāṣī*).
+
+## 148
+
+> Subheading: Even among the liberated a devotee of Kṛṣṇa is extremely rare —
+
+*Karma-niṣṭha* (“devoted to *karma*”). Some perform pious and other good deeds out of their own desire for enjoyment. Others, imagining themselves disinterested, offer their deeds [to God]. Among millions of such people devoted to *karma*, one who, though situated in *sattva*, in order to remove *rajas* and *tamas* withdraws from both states, worldly piety and sin, and, seeking the purity of the *ātmā*, searches for the undifferentiated Brahman beyond nature, is a *jñānī*. Among millions of *jñānīs* there is one who on the path of knowledge relies on the mode of *sattva*. He performs the six practices, *śama*, *dama* and the rest, and other good deeds based on mixed and adulterated *bhakti*. While performing them, in his dualistic understanding he rejects the means he has relied on as incomplete; he takes impermanent and untrue *sādhana* to be the cause of eternal perfection. As the fruit of such *sādhana*, he finally becomes free from the sense of his own bondage and fancies that he has attained liberation, that is, the *svarūpa* of *brahma-bhūta*; to that end he erases the distinction of “seer,” “seeing” and “seen,” or of “knower,” “knowledge” and “known.” Such a *jñānī*, who has gone beyond what is mixed with matter, an adherent of the doctrine of “pure consciousness” (*kevala-cinmātra-vādī*), is called “liberated” (*mukta*). Even among millions of such liberated persons a devotee of Kṛṣṇa is rare.
+
+## 149
+
+> Subheading: Why a devotee of Kṛṣṇa is extremely rare and the best of all —
+
+Only a devotee of Kṛṣṇa is free from all desires and devoted to Kṛṣṇa alone, and therefore he is peaceful (*śānta*). *Karmīs* who desire enjoyments such as heaven, *jñānīs* who desire liberation such as *nirvāṇa*, and *yogīs* who desire the eighteen *siddhis* such as *aṇimā*, are each under the sway of their own desire and are therefore restless. And even when their desire is fulfilled they are restless, because they have gained what is temporary (*asat*) and are not devoted to Kṛṣṇa.
+
+## 150
+
+> Subheading: Scriptural evidence — (*Śrīmad-Bhāgavatam* 6.14.5) —
+
+**muktānām** (of those free from the bonds of ignorance) **siddhānām** (of those perfected in *yoga*) **koṭiṣu** **api** **madhye** (even among millions) **praśāntātmā** (with a mind free from desires) **nārāyaṇa-parāyaṇaḥ** **sudurlabhaḥ**. The words of the *Tantra*: “Liberation is easily obtained through knowledge, and enjoyment through piety such as sacrifice. But this devotion to Hari is very hard to obtain even through thousands of practices.”
+
 ---
 
 [^18-1]: So in the edition (checked against the scan).
