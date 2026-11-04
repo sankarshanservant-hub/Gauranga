@@ -1070,130 +1070,174 @@ all  the truths  you know  of you  there are not  the threefold miseries
 জানি’ দার্ঢ্য লাগি’ পুছে, — সাধুর স্বভাব ॥ ১০৫ ॥
 
 kṛṣṇa-bhakti dhara tumi, jāna tattva-bhāva  
-jāni’ dārḍhya lāgi’ puche, — sādhura svabhāva
+devotion to Kṛṣṇa  possess  you  you know  the essence of the truths  
+jāni’ dārḍhya lāgi’ puche, — sādhura svabhāva  
+knowing  for firmness’  sake  he asks  of a sādhu  the nature
 
-(105) [not yet translated]
+(105) You possess devotion to Kṛṣṇa and know the essence of all the truths. Yet a *sādhu*, though he knows, still asks in order to make his understanding firm — such is his nature.
 
 অচিরাদেব সর্ব্বার্থঃ সিধ্যত্যেষামভীপ্সিতঃ ৷  
 সদ্ধর্ম্মস্যাববোধায় যেষাং নির্ব্বন্ধিনী মতিঃ ॥ ১০৬ ॥
 
 acirād eva sarvārthaḥ  
+soon  indeed  every aim  
 sidhyaty eṣām abhīpsitaḥ  
+is fulfilled  of those  desired  
 sad-dharmasyāvabodhāya  
-yeṣāṁ nirbandhinī matiḥ
+of true religion  for the understanding  
+yeṣāṁ nirbandhinī matiḥ  
+of whom  persistent  the mind
 
-(106) [not yet translated]
+(106) “Those whose minds are set with perseverance on understanding true religion soon attain every aim they desire.” (Bhakti-rasāmṛta-sindhu, 1.2.103)
 
 যোগ্যপাত্র হও তুমি ভক্তি প্রবর্ত্তাইতে ৷  
 ক্রমে সব তত্ত্ব শুন, কহিয়ে তোমাতে ॥ ১০৭ ॥
 
 yogya-pātra hao tumi bhakti pravartāite  
-krame saba tattva śuna, kahiye tomāte
+a worthy  vessel  are  you  devotion  to propagate  
+krame saba tattva śuna, kahiye tomāte  
+in order  all  the truths  hear  I tell  you
 
-(107) [not yet translated]
+(107) You are a worthy vessel for propagating devotion. Now hear all the truths in order as I tell them to you.
 
 জীবের ‘স্বরূপ’ হয় — কৃষ্ণের ‘নিত্যদাস’ ৷  
 কৃষ্ণের ‘তটস্থা-শক্তি’, ‘ভেদাভেদ-প্রকাশ’ ॥ ১০৮ ॥
 
 jīvera ‘svarūpa’ haya — kṛṣṇera ‘nitya-dāsa’  
-kṛṣṇera ‘taṭasthā-śakti’ ‘bhedābheda-prakāśa’
+of the jīva  the true nature  is  of Kṛṣṇa  the eternal servant  
+kṛṣṇera ‘taṭasthā-śakti’, ‘bhedābheda-prakāśa’  
+of Kṛṣṇa  the marginal potency  different and nondifferent  a manifestation
 
-(108) [not yet translated]
+(108) The true nature (*svarūpa*) of the *jīva* is to be Kṛṣṇa’s eternal servant. The *jīva* is Kṛṣṇa’s marginal potency (*taṭasthā-śakti*), a manifestation both different and nondifferent from Him (*bhedābheda-prakāśa*).
 
 সূর্য্যাংশ-কিরণ, যৈছে অগ্নিজ্বালাচয় ৷  
 স্বাভাবিক কৃষ্ণের তিনপ্রকার ‘শক্তি’ হয় ॥ ১০৯ ॥
 
 sūryāṁśa-kiraṇa, yaiche agni-jvālā-caya  
-svābhāvika kṛṣṇera tina-prakāra ‘śakti’ haya
+a ray, part of the sun  as  of fire  of flames  a multitude  
+svābhāvika kṛṣṇera tina-prakāra ‘śakti’ haya  
+natural  of Kṛṣṇa  three kinds of  potencies  there are
 
-(109) [not yet translated]
+(109) The *jīva* is like a ray of the sun or a spark of fire. By His very nature Kṛṣṇa has three kinds of potency.
 
 একদেশস্থিতস্যাগ্নের্জ্যোৎস্না বিস্তারিণী যথা ৷  
 পরস্য ব্রহ্মণঃ শক্তিস্তথেদমখিলং জগৎ ॥ ১১০ ॥
 
 eka-deśa-sthitasyāgner  
+in one place  situated  of a fire  
 jyotsnā vistāriṇī yathā  
+the light  spreading  as  
 parasya brahmaṇaḥ śaktis  
-tathedam akhilaṁ jagat
+of the Supreme  Brahman  the potency  
+tathedam akhilaṁ jagat  
+so  this  entire  world
 
-(110) [not yet translated]
+(110) “As the light of a fire burning in one place spreads all around, so this entire world is the potency of the Supreme Brahman.” (Viṣṇu Purāṇa, 1.22.56)
 
 কৃষ্ণের স্বাভাবিক তিনশক্তি-পরিণতি ৷  
 চিচ্ছক্তি, জীবশক্তি, আর মায়াশক্তি ॥ ১১১ ॥
 
 kṛṣṇera svābhāvika tina-śakti-pariṇati  
-cic-chakti, jīva-śakti, āra māyā-śakti
+of Kṛṣṇa  natural  of the three potencies  the manifestation  
+cic-chakti, jīva-śakti, āra māyā-śakti  
+the spiritual potency  the jīva potency  and  the māyā potency
 
-(111) [not yet translated]
+(111) Kṛṣṇa’s natural potency manifests in three ways: the spiritual potency (*cit-śakti*), the *jīva* potency (*jīva-śakti*) and the potency of *māyā* (*māyā-śakti*).
 
 বিষ্ণুশক্তিঃ পরা প্রোক্তা ক্ষেত্রজ্ঞাখ্যা তথাপরা ৷  
 অবিদ্যা-কর্ম্মসংজ্ঞান্যা তৃতীয়া শক্তিরিষ্যতে ॥ ১১২ ॥
 
 viṣṇu-śaktiḥ parā proktā  
+Viṣṇu’s potency  superior  is declared  
 kṣetrajñākhyā tathā parā  
+called the knower of the field  likewise  superior  
 avidyā-karma-saṁjñānyā  
-tṛtīyā śaktir iṣyate
+called ignorance and karma  another  
+tṛtīyā śaktir iṣyate  
+a third  potency  is held to be
 
-(112) [not yet translated]
+(112) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
 
 শক্তয়ঃ সর্ব্বভাবানামচিন্ত্যজ্ঞানগোচরাঃ ৷  
 যতোঽতো ব্রহ্মণস্তাস্তু সর্গাদ্যা ভাবশক্তয়ঃ ৷  
 ভবন্তি তপতাং শ্রেষ্ঠ পাবকস্য যথোষ্ণতা ॥ ১১৩ ॥
 
 śaktayaḥ sarva-bhāvānām  
+the potencies  of all things  
 acintya-jñāna-gocarāḥ  
+inconceivable to ordinary knowledge  
 yato ’to brahmaṇas tās tu  
+since  therefore  of Brahman  those  indeed  
 sargādyā bhāva-śaktayaḥ  
+for creation and the rest  natural potencies  
 bhavanti tapatāṁ śreṣṭha  
-pāvakasya yathoṣṇatā
+are  of ascetics  O best  
+pāvakasya yathoṣṇatā  
+of fire  as  the heat
 
-(113) [not yet translated]
+(113) “The potencies of all things are inconceivable to ordinary knowledge. Therefore, O best of ascetics, Brahman possesses natural potencies for creation and the rest, just as fire possesses heat.” (Viṣṇu Purāṇa, 1.3.2)
 
 যয়া ক্ষেত্রজ্ঞশক্তিঃ সা বেষ্টিতা নৃপ সর্ব্বগা ৷  
 সংসারতাপানখিলানবাপ্নোত্যত্র সন্ততান্ ॥ ১১৪ ॥
 
 yayā kṣetra-jña-śaktiḥ sā  
+by which  the knower of the field  potency  that  
 veṣṭitā nṛpa sarva-gā  
+enveloped  O king  all-pervading  
 saṁsāra-tāpān akhilān  
-avāpnoty atra santatān
+of worldly existence  the miseries  all  
+avāpnoty atra santatān  
+obtains  here  continual
 
-(114) [not yet translated]
+(114) “O king, the potency called the knower of the field can enter both spirit and matter; yet here, enveloped by that ignorance, it suffers without end all the miseries of worldly existence.” (Viṣṇu Purāṇa, 6.7.62)
 
 তয়া তিরোহিতত্বাচ্চ শক্তিঃ ক্ষেত্রজ্ঞ-সংজ্ঞিতা ৷  
 সর্ব্বভূতেষু ভূপাল তারতম্যেন বর্ত্ততে ॥ ১১৫ ॥
 
 tayā tirohitatvāc ca  
+by it  because of being covered  and  
 śaktiḥ kṣetra-jña-saṁjñitā  
+the potency  the knower of the field  called  
 sarva-bhūteṣu bhū-pāla  
-tāratamyena vartate
+in all beings  O king  
+tāratamyena vartate  
+in varying degrees  exists
 
-(115) [not yet translated]
+(115) “Because it is covered by that ignorance, O king, the potency called the knower of the field exists in all beings in varying degrees.” (Viṣṇu Purāṇa, 6.7.63)
 
 অপরেয়মিতস্ত্বন্যাং প্রকৃতিং বিদ্ধি মে পরাম্ ৷  
 জীবভূতাং মহাবাহো যয়েদং ধার্য্যতে জগৎ ॥ ১১৬ ॥
 
 apareyam itas tv anyāṁ  
+inferior  this  beyond this  but  another  
 prakṛtiṁ viddhi me parām  
+nature  know  My  superior  
 jīva-bhūtāṁ mahā-bāho  
-yayedaṁ dhāryate jagat
+consisting of jīvas  O mighty-armed  
+yayedaṁ dhāryate jagat  
+by which  this  is taken up  the world
 
-(116) [not yet translated]
+(116) “This nature is inferior. But know, O mighty-armed, that I have another, superior nature, consisting of the jīvas, who take up this world for their own enjoyment.” (Bhagavad-gītā, 7.5)
 
 কৃষ্ণ ভুলি’ সেই জীব অনাদি-বহির্ম্মুখ ৷  
 অতএব মায়া তারে দেয় সংসার-দুঃখ ॥ ১১৭ ॥
 
 kṛṣṇa bhuli’ sei jīva anādi-bahirmukha  
-ataeva māyā tāre deya saṁsāra-duḥkha
+Kṛṣṇa  forgetting  that  jīva  turned away since time without beginning  
+ataeva māyā tāre deya saṁsāra-duḥkha  
+therefore  māyā  to it  gives  the misery of worldly existence
 
-(117) [not yet translated]
+(117) Having forgotten Kṛṣṇa, the *jīva* has been turned away from Him since time without beginning. Therefore *māyā* gives it the miseries of worldly existence.
 
 কভু স্বর্গে উঠায়, কভু নরকে ডুবায় ৷  
 দণ্ড্যজনে রাজা যেন নদীতে চুবায় ॥ ১১৮ ॥
 
 kabhu svarge uṭhāya, kabhu narake ḍubāya  
-daṇḍya-jane rājā yena nadīte cubāya
+sometimes  to heaven  she raises  sometimes  in hell  she sinks  
+daṇḍya-jane rājā yena nadīte cubāya  
+one to be punished  a king  as  in a river  dunks
 
-(118) [not yet translated]
+(118) Sometimes she raises it to heaven, sometimes she sinks it into hell — just as a king has a condemned man dunked again and again in a river.
 
 ভয়ং দ্বিতীয়াভিনিবেশতঃ স্যা-  
 দীশাদপেতস্য বিপর্য্যয়োঽস্মৃতিঃ ৷  
@@ -1201,141 +1245,179 @@ daṇḍya-jane rājā yena nadīte cubāya
 ভক্ত্যৈকয়েশং গুরুদেবতাত্মা ॥ ১১৯ ॥
 
 bhayaṁ dvitīyābhiniveśataḥ syād  
+fear  from absorption in what is other  arises  
 īśād apetasya viparyayo ‘smṛtiḥ  
+from the Lord  for one turned away  misconception  forgetfulness  
 tan-māyayāto budha ābhajet taṁ  
-bhaktyaikayeśaṁ guru-devatātmā
+by His māyā  therefore  the wise one  should worship  Him  
+bhaktyaikayeśaṁ guru-devatātmā  
+with devotion  exclusive  the Lord  seeing the guru as his deity and his self
 
-(119) [not yet translated]
+(119) “For one who has turned away from the Lord, fear arises from absorption in what is other than Him; by His *māyā* come forgetfulness of the Lord and a false idea of oneself. Therefore the wise, seeing the guru as his worshipful deity and his very self, should worship the Lord with exclusive devotion.” (Śrīmad-Bhāgavatam, 11.2.37)
 
 সাধু-শাস্ত্র-কৃপায় যদি কৃষ্ণোন্মুখ হয় ৷  
 সেই জীব নিস্তরে, মায়া তাহারে ছাড়য় ॥ ১২০ ॥
 
 sādhu-śāstra-kṛpāya yadi kṛṣṇonmukha haya  
-sei jīva nistare, māyā tāhāre chāḍaya
+by the mercy of the sādhus and scriptures  if  turned toward Kṛṣṇa  it becomes  
+sei jīva nistare, māyā tāhāre chāḍaya  
+that  jīva  crosses over  māyā  it  releases
 
-(120) [not yet translated]
+(120) If by the mercy of the *sādhus* and the scriptures the *jīva* turns toward Kṛṣṇa, it crosses over, and *māyā* releases it.
 
 দৈবী হ্যেষা গুণময়ী মম মায়া দুরত্যয়া ৷  
 মামেব যে প্রপদ্যন্তে মায়ামেতাং তরন্তি তে ॥ ১২১ ॥
 
 daivī hy eṣā guṇa-mayī  
+divine  indeed  this  made of the guṇas  
 mama māyā duratyayā  
+My  māyā  hard to overcome  
 mām eva ye prapadyante  
-māyām etāṁ taranti te
+to Me  alone  those who  surrender  
+māyām etāṁ taranti te  
+māyā  this  cross over  they
 
-(121) [not yet translated]
+(121) “This divine *māyā* of Mine, made of the *guṇas*, is hard to overcome. But those who surrender to Me alone cross beyond this *māyā*.” (Bhagavad-gītā, 7.14)
 
 মায়ামুগ্ধ জীবের নাহি কৃষ্ণস্মৃতি জ্ঞান ৷  
 জীবেরে কৃপায় কৈলা কৃষ্ণ বেদ-পুরাণ ॥ ১২২ ॥
 
 māyā-mugdha jīvera nāhi kṛṣṇa-smṛti jñāna  
-jīvere kṛpāya kailā kṛṣṇa veda-purāṇa
+by māyā bewildered  of the jīva  there is not  remembrance of Kṛṣṇa  knowledge  
+jīvere kṛpāya kailā kṛṣṇa veda-purāṇa  
+for the jīva  out of mercy  made  Kṛṣṇa  the Vedas and Purāṇas
 
-(122) [not yet translated]
+(122) The *jīva* bewildered by *māyā* has no remembrance or knowledge of Kṛṣṇa. So, out of mercy for the *jīva*, Kṛṣṇa made the Vedas and Purāṇas.
 
 ‘শাস্ত্র-গুরু-আত্ম’-রূপে আপনারে জানান ৷  
 ‘কৃষ্ণ মোর প্রভু, ত্রাতা’ — জীবের হয় জ্ঞান ॥ ১২৩ ॥
 
-‘śāstra-guru-ātma’ rūpe āpanāre jānāna  
-‘kṛṣṇa mora prabhu, trātā’ — jīvera haya jñāna
+‘śāstra-guru-ātma’-rūpe āpanāre jānāna  
+in the form of scripture, guru and Supersoul  Himself  He makes known  
+‘kṛṣṇa mora prabhu, trātā’ — jīvera haya jñāna  
+Kṛṣṇa  my  Lord  protector  of the jīva  arises  knowledge
 
-(123) [not yet translated]
+(123) He makes Himself known in the form of scripture, the guru and the Supersoul, and the *jīva* comes to know: “Kṛṣṇa is my Lord and protector.”
 
 বেদশাস্ত্র কহে — ‘সম্বন্ধ’, ‘অভিধেয়’, ‘প্রয়োজন’ ৷  
 ‘কৃষ্ণ’ — প্রাপ্য-সম্বন্ধ, ‘ভক্তি’ — প্রাপ্যের সাধন ॥ ১২৪ ॥
 
 veda-śāstra kahe — ‘sambandha’, ‘abhidheya’, ‘prayojana’  
-‘kṛṣṇa’ — prāpya-sambandha, ‘bhakti’ — prāptyera sādhana
+the Vedic scriptures  say  sambandha  abhidheya  prayojana  
+‘kṛṣṇa’ — prāpya-sambandha, ‘bhakti’ — prāpyera sādhana  
+Kṛṣṇa  the one to be attained, the sambandha  devotion  of attaining Him  the means
 
-(124) [not yet translated]
+(124) The Vedic scriptures speak of *sambandha*, *abhidheya* and *prayojana*. Kṛṣṇa, the one to be attained, is the *sambandha*; devotion (*bhakti*) is the means of attaining Him.
 
 অভিধেয়-নাম — ‘ভক্তি’, ‘প্রেম’ — প্রয়োজন ৷  
 পুরুষার্থ-শিরোমণি প্রেম — মহাধন ॥ ১২৫ ॥
 
 abhidheya-nāma — ‘bhakti’, ‘prema’ — prayojana  
-puruṣārtha-śiromaṇi prema — mahā-dhana
+of the abhidheya  the name  devotion  prema  the prayojana  
+puruṣārtha-śiromaṇi prema — mahā-dhana  
+of the human goals  the crown jewel  prema  the great treasure
 
-(125) [not yet translated]
+(125) The name of the *abhidheya* is *bhakti*, and *prema* is the *prayojana*. *Prema*, the crown jewel of all human goals, is the greatest treasure.
 
 কৃষ্ণমাধুর্য্য-সেবানন্দ-প্রাপ্তির কারণ ৷  
 কৃষ্ণে সেবা করে, কৃষ্ণরস-আস্বাদন ॥ ১২৬ ॥
 
 kṛṣṇa-mādhurya-sevānanda-prāptira kāraṇa  
-kṛṣṇe sevā kare, kṛṣṇa-rasa-āsvādana
+of Kṛṣṇa’s sweetness  of the bliss of service  of attaining  the cause  
+kṛṣṇe sevā kare, kṛṣṇa-rasa-āsvādana  
+to Kṛṣṇa  service  one renders  Kṛṣṇa’s rasa  tasting
 
-(126) [not yet translated]
+(126) *Prema* is the cause of attaining the bliss of serving Kṛṣṇa’s sweetness: with it one serves Kṛṣṇa and tastes the *rasa* of Kṛṣṇa.
 
 ইহাতে দৃষ্টান্ত — যৈছে দরিদ্রের ঘরে ৷  
 ‘সর্ব্বজ্ঞ’ আসি’ দুঃখ দেখি’ পুছয়ে তাহারে ॥ ১২৭ ॥
 
 ihāte dṛṣṭānta — yaiche daridrera ghare  
-‘sarvajña’ āsi’ duḥkha dekhi’ puchaye tāhāre
+of this  an example  as  of a poor man  to the house  
+‘sarvajña’ āsi’ duḥkha dekhi’ puchaye tāhāre  
+an all-knowing one  coming  the misery  seeing  asks  him
 
-(127) [not yet translated]
+(127) An example of this: an all-knowing sage (*sarvajña*) came to a poor man’s house and, seeing his misery, asked him,
 
 তুমি কেনে এত দুঃখী, তোমার আছে পিতৃধন ৷  
 তোমারে না কহিল, অন্যত্র ছাড়িল জীবন ॥ ১২৮ ॥
 
 tumi kene eta duḥkhī, tomāra āche pitṛ-dhana  
-tomāre nā kahila, anyatra chāḍila jīvana
+you  why  so  wretched  you  have  a father’s treasure  
+tomāre nā kahila, anyatra chāḍila jīvana  
+to you  he did not  tell  elsewhere  he left  his life
 
-(128) [not yet translated]
+(128) “Why are you so miserable? You have your father’s treasure. He did not tell you about it because he died far from home.”
 
 সর্ব্বজ্ঞের বাক্যে করে ধনের উদ্দেশে ৷  
 ঐছে বেদ-পুরাণ জীবে ‘কৃষ্ণ’ উপদেশে ॥ ১২৯ ॥
 
 sarvajñera vākye kare dhanera uddeśe  
-aiche veda-purāṇa jīve ‘kṛṣṇa’ upadeśe
+of the all-knowing one  by the words  he makes  for the treasure  search  
+aiche veda-purāṇa jīve ‘kṛṣṇa’ upadeśe  
+so  the Vedas and Purāṇas  to the jīva  Kṛṣṇa  teach
 
-(129) [not yet translated]
+(129) Guided by the sage’s words, the poor man sets out to find the treasure. In the same way the Vedas and Purāṇas teach the *jīva* about Kṛṣṇa.
 
 সর্ব্বজ্ঞের বাক্যে মূলধন অনুবন্ধ ৷  
 সর্ব্বশাস্ত্রে উপদেশে, ‘শ্রীকৃষ্ণ’ — সম্বন্ধ ॥ ১৩০ ॥
 
 sarvajñera vākye mūla-dhana anubandha  
-sarva-śāstre upadeśe, ‘śrī-kṛṣṇa’ — sambandha
+of the all-knowing one  by the words  with the original treasure  connection  
+sarva-śāstre upadeśe, ‘śrī-kṛṣṇa’ — sambandha  
+all the scriptures  teach  Śrī Kṛṣṇa  the sambandha
 
-(130) [not yet translated]
+(130) By the sage’s words the poor man learns of his connection with the original treasure. So too all the scriptures teach that Śrī Kṛṣṇa is the *sambandha*.
 
 ‘বাপের ধন আছে’ — জ্ঞানে ধন নাহি পায় ৷  
 তবে সর্ব্বজ্ঞ কহে তারে প্রাপ্তির উপায় ॥ ১৩১ ॥
 
 ‘bāpera dhana āche’ — jñāne dhana nāhi pāya  
-tabe sarvajña kahe tāre prāptira upāya
+the father’s  wealth  there is  by knowing  the wealth  not  he obtains  
+tabe sarvajña kahe tāre prāptira upāya  
+then  the all-knowing one  tells  him  of obtaining  the means
 
-(131) [not yet translated]
+(131) Merely knowing that his father’s wealth exists does not bring it to him, so the sage then tells him how to obtain it:
 
 ‘এই স্থানে আছে ধন’ — যদি দক্ষিণে খুদিবে ৷  
 ‘ভীমরুল-বরুলী’ উঠিবে, ধন না পাইবে ॥ ১৩২ ॥
 
-ei sthāne āche dhana’ — yadi dakṣiṇe khudibe  
-‘bhīmarula-barulī’ uṭhibe, dhana nā pāibe
+‘ei sthāne āche dhana’ — yadi dakṣiṇe khudibe  
+in this  place  is  the treasure  if  on the south  you dig  
+‘bhīmarula-barulī’ uṭhibe, dhana nā pāibe  
+hornets and wasps  will rise  the treasure  not  you will get
 
-(132) [not yet translated]
+(132) “The treasure is here in this place. If you dig on the south side, hornets and wasps will rise up and you will not get the treasure.
 
 ‘পশ্চিমে’ খুদিবে, তাহা ‘যক্ষ’ এক হয় ৷  
 সে বিঘ্ন করিবে, — ধনে হাত না পড়য় ॥ ১৩৩ ॥
 
 ‘paścime’ khudibe, tāhā ‘yakṣa’ eka haya  
-se vighna karibe, — dhane hāta nā paḍaya
+on the west  you dig  there  a yakṣa  one  there is  
+se vighna karibe, — dhane hāta nā paḍaya  
+he  obstruction  will make  the treasure  the hand  will not  touch
 
-(133) [not yet translated]
+(133) If you dig on the west side, there is a *yakṣa* there; he will obstruct you, and your hand will never touch the treasure.
 
 ‘উত্তরে’ খুদিলে আছে কৃষ্ণ ‘অজগরে’ ৷  
 ধন নাহি পাবে, খুদিতে গিলিবে সবারে ॥ ১৩৪ ॥
 
 ‘uttare’ khudile āche kṛṣṇa ‘ajagare’  
-dhana nāhi pābe, khudite gilibe sabāre
+on the north  if you dig  there is  a black  python  
+dhana nāhi pābe, khudite gilibe sabāre  
+the treasure  not  you will get  in digging  it will swallow  everyone
 
-(134) [not yet translated]
+(134) If you dig on the north side, there is a black python; you will not get the treasure — it will swallow everyone who digs.
 
 পূর্ব্বদিকে তাতে মাটী অল্প খুদিতে ৷  
 ধনের ঝারি পড়িবেক তোমার হাতেতে ॥ ১৩৫ ॥
 
 pūrva-dike tāte māṭī alpa khudite  
-dhanera jhāri paḍibeka tomāra hātete
+on the east side  there  the earth  a little  digging  
+dhanera jhāri paḍibeka tomāra hātete  
+of treasure  the pot  will fall  your  into the hands
 
-(135) [not yet translated]
+(135) But on the east side, as soon as you dig away a little earth, the pot of treasure will fall into your hands.”
 
 ঐছে শাস্ত্র কহে, — কর্ম্ম, জ্ঞান, যোগ ত্যজি’ ৷  
 ‘ভক্ত্যে’ কৃষ্ণ বশ হয়, ‘ভক্ত্যে’ তাঁরে ভজি ॥ ১৩৬ ॥
@@ -3505,139 +3587,181 @@ they worship  indeed  the intelligent
 কলিযুগে কৃষ্ণনামে সেই ফল পায় ॥ ৩৪১ ॥
 
 āra tina-yuge dhyānādite yei phala haya  
-kali-yuge kṛṣṇa-nāme sei phala pāya
+in the other  three yugas  by meditation and the rest  whatever  fruit  comes  
+kali-yuge kṛṣṇa-nāme sei phala pāya  
+in Kali-yuga  by Kṛṣṇa’s name  that  fruit  one obtains
 
-(341) [not yet translated]
+(341) Whatever fruit comes in the other three *yugas* through meditation and the rest, that same fruit is obtained in Kali-yuga through Kṛṣṇa’s name.
 
 কলের্দোষনিধে রাজন্নস্তি হ্যেকো মহান্ গুণঃ ৷  
 কীর্ত্তনাদেব কৃষ্ণস্য মুক্তবন্ধঃ পরং ব্রজেৎ ॥ ৩৪২ ॥
 
 kaler doṣa-nidhe rājann  
+of Kali  of faults  in the ocean  O king  
 asti hy eko mahān guṇaḥ  
+there is  indeed  one  great  quality  
 kīrtanād eva kṛṣṇasya  
-mukta-bandhaḥ paraṁ vrajet
+by chanting  alone  of Kṛṣṇa  
+mukta-bandhaḥ paraṁ vrajet  
+freed from bondage  the Supreme  one attains
 
-(342) [not yet translated]
+(342) “O king, Kali is an ocean of faults, yet it has one great quality: simply by chanting of Kṛṣṇa one is freed from bondage and attains the Supreme.” (Śrīmad-Bhāgavatam, 12.3.51)
 
 কৃতে যদ্ধ্যায়তো বিষ্ণুং ত্রেতায়াং যজতো মখৈঃ ৷  
 দ্বাপরে পরিচর্য্যায়াং কলৌ তদ্ধরিকীর্ত্তনাৎ ॥ ৩৪৩ ॥
 
 kṛte yad dhyāyato viṣṇuṁ  
+in Kṛta  what  by one meditating  on Viṣṇu  
 tretāyāṁ yajato makhaiḥ  
+in Tretā  by one worshipping  with sacrifices  
 dvāpare paricaryāyāṁ  
-kalau tad dhari-kīrtanāt
+in Dvāpara  by serving the Deity  
+kalau tad dhari-kīrtanāt  
+in Kali  that  from the chanting of Hari
 
-(343) [not yet translated]
+(343) “Whatever was attained in Kṛta by meditating on Viṣṇu, in Tretā by worshipping with sacrifices and in Dvāpara by serving the Deity, is attained in Kali by chanting of Hari.” (Śrīmad-Bhāgavatam, 12.3.52)
 
 ধ্যায়ন্ কৃতে যজন্ যজ্ঞৈস্ত্রেতায়াং দ্বাপরেঽর্চ্চয়ন্ ৷  
 যদাপ্নোতি তদাপ্নোতি কলৌ সঙ্কীর্ত্ত্য কেশবম্ ॥ ৩৪৪ ॥
 
 dhyāyan kṛte yajan yajñais  
+meditating  in Kṛta  worshipping  with sacrifices  
 tretāyāṁ dvāpare ’rcayan  
+in Tretā  in Dvāpara  worshipping the Deity  
 yad āpnoti tad āpnoti  
-kalau saṅkīrtya keśavam
+what  one attains  that  one attains  
+kalau saṅkīrtya keśavam  
+in Kali  by chanting together  Keśava
 
-(344) [not yet translated]
+(344) “What one attains by meditating in Kṛta, by worshipping with sacrifices in Tretā and by worshipping the Deity in Dvāpara, one attains in Kali by chanting together the names of Keśava.” (Viṣṇu Purāṇa, 6.2.17)
 
 কলিং সভাজয়ন্ত্যার্য্যা গুণজ্ঞাঃ সারভাগিনঃ ৷  
 যত্র সঙ্কীর্ত্তনেনৈব সর্ব্বস্বার্থোঽভিলভ্যতে ॥ ৩৪৫ ॥
 
 kaliṁ sabhājayanty āryā  
+Kali  honour  the noble  
 guṇa-jñāḥ sāra-bhāginaḥ  
+knowing its merit  taking the essence  
 yatra saṅkīrtanenaiva  
-sarva-svārtho ’bhilabhyate
+in which  by saṅkīrtana  alone  
+sarva-svārtho ’bhilabhyate  
+every  goal  is attained
 
-(345) [not yet translated]
+(345) “The noble, who know its merit and take the essence, honour the age of Kali, for in it every goal of life is attained by *saṅkīrtana* alone.” (Śrīmad-Bhāgavatam, 11.5.36)
 
 পূর্ব্ববৎ লিখি যবে গুণাবতারগণ ৷  
 অসংখ্য সংখ্যা তাঁর, না হয় গণন ॥ ৩৪৬ ॥
 
 pūrvavat likhi yabe guṇāvatāra-gaṇa  
-asaṅkhya saṅkhyā tāṅra, nā haya gaṇana
+as before  I write  when  the guṇa-avatāras  the hosts  
+asaṅkhya saṅkhyā tāṅra, nā haya gaṇana  
+countless  the number  of them  not  there is  counting
 
-(346) [not yet translated]
+(346) When I write of the hosts of *guṇa-avatāras* as before, their number is countless; they cannot be counted.
 
 চারিযুগাবতারের এই ত’ গণন ৷  
 শুনি’ ভঙ্গি করি’ তাঁরে পুছে সনাতন ॥ ৩৪৭ ॥
 
 cāri-yugāvatārera ei ta’ gaṇana  
-śuni’ bhaṅgi kari’ tāṅre puche sanātana
+of the four yugas  of the avatāras  this  indeed  the counting  
+śuni’ bhaṅgi kari’ tāṅre puche sanātana  
+hearing  with a hint  Him  asks  Sanātana
 
-(347) [not yet translated]
+(347) Such is the account of the avatāras of the four *yugas*. Hearing it, Sanātana questioned Him with a hidden intent (*bhaṅgi*).
 
 রাজমন্ত্রী সনাতন — বুদ্ধ্যে বৃহস্পতি ৷  
 প্রভুর কৃপাতে পুছে অসঙ্কোচ-মতি ॥ ৩৪৮ ॥
 
 rāja-mantrī sanātana — buddhye bṛhaspati  
-prabhura kṛpāte puche asaṅkoca-mati
+the king’s minister  Sanātana  in intelligence  Bṛhaspati  
+prabhura kṛpāte puche asaṅkoca-mati  
+of the Lord  by the mercy  asks  with mind free of hesitation
 
-(348) [not yet translated]
+(348) Sanātana had been the king’s minister, a Bṛhaspati in intelligence. By the Lord’s mercy he asked without hesitation:
 
 অতি ক্ষুদ্র জীব মুঞি নীচ, নীচাচার ৷  
 কেমনে জানিব কলিতে কোন্ অবতার ? ॥ ৩৪৯ ॥
 
 ati kṣudra jīva muñi nīca, nīcācāra  
-kemane jāniba kalite kon avatāra?
+very  insignificant  jīva  I  low  of low conduct  
+kemane jāniba kalite kon avatāra?  
+how  shall I know  in Kali  which  avatāra
 
-(349) [not yet translated]
+(349) “I am a very insignificant *jīva*, low and of low conduct. How shall I know who the avatāra in Kali is?”
 
 প্রভু কহে, — অন্যাবতার শাস্ত্র-দ্বারে জানি ৷  
 কলিতে অবতার তৈছে শাস্ত্রদ্বারা মানি ॥ ৩৫০ ॥
 
 prabhu kahe, — “anyāvatāra śāstra-dvāre jāni  
-kalite avatāra taiche śāstra-dvārā māni
+the Lord  said  the other avatāras  through the scriptures  we know  
+kalite avatāra taiche śāstra-dvārā māni  
+in Kali  the avatāra  likewise  through the scriptures  we accept
 
-(350) [not yet translated]
+(350) The Lord said, “We know the other avatāras through the scriptures; in the same way we accept the avatāra in Kali through the scriptures.
 
 সর্ব্বজ্ঞ মুনির বাক্য — শাস্ত্র-‘প্রমাণ’ ৷  
 আমা-সবা জীবের হয় শাস্ত্রদ্বারা ‘জ্ঞান’ ॥ ৩৫১ ॥
 
 sarvajña munira vākya — śāstra-‘pramāṇa’  
-āmā-sabā jīvera haya śāstra-dvārā ‘jñāna’
+of the omniscient  sage  the words  the evidence of scripture  
+āmā-sabā jīvera haya śāstra-dvārā ‘jñāna’  
+of us  all  jīvas  comes  through the scriptures  knowledge
 
-(351) [not yet translated]
+(351) The words of an omniscient sage are the evidence of scripture (*pramāṇa*). For all of us *jīvas*, knowledge comes through the scriptures.
 
 অবতার নাহি কহে — ‘আমি অবতার’ ৷  
 মুনি সব জানি’ করে লক্ষণ-বিচার ॥ ৩৫২ ॥
 
 avatāra nāhi kahe — ‘āmi avatāra’  
-muni saba jāni’ kare lakṣaṇa-vicāra
+an avatāra  does not  say  I am  an avatāra  
+muni saba jāni’ kare lakṣaṇa-vicāra  
+the sages  all  knowing  make  of the signs  examination
 
-(352) [not yet translated]
+(352) An avatāra does not say, ‘I am an avatāra.’ Knowing this, the sages examine His signs.
 
 যস্যাবতারা জ্ঞায়ন্তে শরীরেষ্বশরীরিণঃ ৷  
 তৈস্তৈরতুল্যাতিশয়ৈর্বীর্য্যৈর্দেহিষ্বসঙ্গতৈঃ ॥ ৩৫৩ ॥
 
 yasyāvatārā jñāyante  
+whose  avatāras  are known  
 śarīreṣv aśarīriṇaḥ  
+among the embodied  of the One without a material body  
 tais tair atulyātiśayair  
-vīryair dehiṣv asaṅgataiḥ
+by those  various  incomparable  unsurpassed  
+vīryair dehiṣv asaṅgataiḥ  
+by powers  among the embodied  impossible
 
-(353) [not yet translated]
+(353) “The avatāras of You, who have no material body, are known among embodied beings by those incomparable, unsurpassed powers that no embodied being can possess.” (Śrīmad-Bhāgavatam, 10.10.34)
 
 ‘স্বরূপ’-লক্ষণ, আর ‘তটস্থ-লক্ষণ’ ৷  
 এই দুই লক্ষণে ‘বস্তু’ জানে মুনিগণ ॥ ৩৫৪ ॥
 
 ‘svarūpa’-lakṣaṇa, āra ‘taṭastha-lakṣaṇa’  
-ei dui lakṣaṇe ‘vastu’ jāne muni-gaṇa
+the svarūpa  characteristic  and  the taṭastha characteristic  
+ei dui lakṣaṇe ‘vastu’ jāne muni-gaṇa  
+by these  two  characteristics  a reality  know  the sages
 
-(354) [not yet translated]
+(354) By two kinds of characteristics — those of the essential nature (*svarūpa-lakṣaṇa*) and the marginal ones (*taṭastha-lakṣaṇa*) — the sages know a reality (*vastu*).
 
 আকৃতি, প্রকৃতি, স্বরূপ, — স্বরূপ-লক্ষণ ৷  
 কার্য্যদ্বারা জ্ঞান, — এই তটস্থ-লক্ষণ ॥ ৩৫৫ ॥
 
 ākṛti, prakṛti, svarūpa, — svarūpa-lakṣaṇa  
-kārya-dvārā jñāna, — ei taṭastha-lakṣaṇa
+form  nature  essential identity  the svarūpa-lakṣaṇa  
+kārya-dvārā jñāna, — ei taṭastha-lakṣaṇa  
+through deeds  knowledge  this  the taṭastha-lakṣaṇa
 
-(355) [not yet translated]
+(355) Form, nature and essential identity are the *svarūpa-lakṣaṇa*; knowledge gained through deeds is the *taṭastha-lakṣaṇa*.
 
 ভাগবতারম্ভে ব্যাস মঙ্গলাচরণে ৷  
 ‘পরমেশ্বর’ নিরূপিল এই দুই লক্ষণে ॥ ৩৫৬ ॥
 
 bhāgavatārambhe vyāsa maṅgalācaraṇe  
-‘parameśvara’ nirūpila ei dui lakṣaṇe
+at the beginning of the Bhāgavatam  Vyāsa  in the auspicious invocation  
+‘parameśvara’ nirūpila ei dui lakṣaṇe  
+the Supreme Lord  defined  by these  two  characteristics
 
-(356) [not yet translated]
+(356) At the beginning of the *Bhāgavatam*, in the auspicious invocation (*maṅgalācaraṇa*), Vyāsa defined the Supreme Lord by these two characteristics.
 
 জন্মাদ্যস্য যতোঽন্বয়াদিতরতশ্চার্থেষ্বভিজ্ঞঃ স্বরাট্  
 তেনে ব্রহ্ম হৃদা য আদিকবয়ে মুহ্যন্তি যৎ সূরয়ঃ ৷  
@@ -3645,161 +3769,207 @@ bhāgavatārambhe vyāsa maṅgalācaraṇe
 ধাম্না স্বেন সদা নিরস্তকুহকং সত্যং পরং ধীমহি ॥ ৩৫৭ ॥
 
 janmādy asya yato ’nvayād itarataś cārtheṣv abhijñaḥ svarāṭ  
+birth and so on  of this  from whom  directly  indirectly  and  in all purposes  fully aware  self-luminous  
 tene brahma hṛdā ya ādi-kavaye muhyanti yat sūrayaḥ  
+revealed  the Veda  through the heart  who  to the first poet  are bewildered  about whom  the wise  
 tejo vāri-mṛdāṁ yathā vinimayo yatra tri-sargo ’mṛṣā  
-dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi
+of fire  water  earth  as  the interchange  in whom  the threefold creation  real  
+dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi  
+by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 
-(357) [not yet translated]
+(357) “Let us meditate on the Supreme Truth, from whom, directly and indirectly, this universe arises, endures and dissolves; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)
 
 এই শ্লোকে ‘পরং’-শব্দে ‘কৃষ্ণ’-নিরূপণ ৷  
 ‘সত্যং’ শব্দে কহে তাঁর স্বরূপ-লক্ষণ ॥ ৩৫৮ ॥
 
 ei śloke ‘paraṁ’-śabde ‘kṛṣṇa’-nirūpaṇa  
-‘satyaṁ’ śabde kahe tāṅra svarūpa-lakṣaṇa
+in this  verse  by the word ‘param’  Kṛṣṇa  the defining  
+‘satyaṁ’ śabde kahe tāṅra svarūpa-lakṣaṇa  
+by the word ‘satyam’  it tells  His  svarūpa-lakṣaṇa
 
-(358) [not yet translated]
+(358) In this verse the word *param* defines Kṛṣṇa, and the word *satyam* states His *svarūpa-lakṣaṇa*.
 
 বিশ্বসৃষ্ট্যাদি কৈল, বেদ ব্রহ্মাকে পড়াইল ৷  
 অর্থাভিজ্ঞতা, স্বরূপশক্ত্যে মায়া দূর কৈল ॥ ৩৫৯ ॥
 
 viśva-sṛṣṭy-ādi kaila, veda brahmāke paḍāila  
-arthābhijñatā, svarūpa-śaktye māyā dūra kaila
+of the universe  creation and so on  He made  the Veda  to Brahmā  He taught  
+arthābhijñatā, svarūpa-śaktye māyā dūra kaila  
+knowledge of all purposes  by His own potency  māyā  far  He drove
 
-(359) [not yet translated]
+(359) He created the universe and so on, and He taught the Veda to Brahmā; He knows all purposes, and by His own potency (*svarūpa-śakti*) He drives māyā far away.
 
 এইসব কার্য্য — তাঁর তটস্থ-লক্ষণ ৷  
 অন্য অবতার ঐছে জানে মুনিগণ ॥ ৩৬০ ॥
 
 ei-saba kārya — tāṅra taṭastha-lakṣaṇa  
-anya avatāra aiche jāne muni-gaṇa
+these  all  activities  His  taṭastha-lakṣaṇa  
+anya avatāra aiche jāne muni-gaṇa  
+other  avatāras  likewise  know  the sages
 
-(360) [not yet translated]
+(360) All these activities are His *taṭastha-lakṣaṇa*. In the same way the sages know the other avatāras.
 
 অবতার-কালে হয় জগতের গোচর ৷  
 এই দুই লক্ষণে কেহ জানেন ঈশ্বর ॥ ৩৬১ ॥
 
 avatāra-kāle haya jagatera gocara  
-ei dui lakṣaṇe keha jānena īśvara
+of the avatāra  at the time  He becomes  to the world  perceptible  
+ei dui lakṣaṇe keha jānena īśvara  
+by these  two  characteristics  some  know  the Lord
 
-(361) [not yet translated]
+(361) At the time of His descent He becomes perceptible to the world, and by these two characteristics some recognize the Lord.”
 
 সনাতন কহে, — যাতে ঈশ্বর-লক্ষণ ৷  
 পীতবর্ণ, — কার্য্য — প্রেমদান-সঙ্কীর্ত্তন ॥ ৩৬২ ॥
 
 sanātana kahe, — “yāte īśvara-lakṣaṇa  
-pīta-varṇa, — kārya — prema-dāna-saṅkīrtana
+Sanātana  said  in whom  the Lord’s  characteristics  
+pīta-varṇa, — kārya — prema-dāna-saṅkīrtana  
+golden colour  the activity  the giving of prema  saṅkīrtana
 
-(362) [not yet translated]
+(362) Sanātana said, “He in whom the Lord’s characteristics are found — a golden colour, and the work of giving *prema* and of *saṅkīrtana* —
 
 কলিকালে সেই ‘কৃষ্ণাবতার’ নিশ্চয় ৷  
 সুদৃঢ় করিয়া কহ, যাউক সংশয় ॥ ৩৬৩ ॥
 
 kali-kāle sei ‘kṛṣṇāvatāra’ niścaya  
-sudṛḍha kariyā kaha, yāuka saṁśaya
+in the age of Kali  He  Kṛṣṇa’s avatāra  certainly  
+sudṛḍha kariyā kaha, yāuka saṁśaya  
+firmly  making it  tell me  let it go  the doubt
 
-(363) [not yet translated]
+(363) is certainly Kṛṣṇa’s avatāra in the age of Kali. Tell me so firmly, that my doubt may go.”
 
 প্রভু কহে, — চতুরালি ছাড়, সনাতন ৷  
 শক্ত্যাবেশাবতারের শুন বিবরণ ॥ ৩৬৪ ॥
 
 prabhu kahe, — caturāli chāḍa, sanātana  
-śaktyāveśāvatārera śuna vivaraṇa
+the Lord  said  cleverness  give up  Sanātana  
+śaktyāveśāvatārera śuna vivaraṇa  
+of the śaktyāveśa-avatāras  hear  the account
 
-(364) [not yet translated]
+(364) The Lord said, “Give up your cleverness, Sanātana. Hear the account of the *śaktyāveśa-avatāras*.
 
 শক্ত্যাবেশাবতার কৃষ্ণের অসংখ্য গণন ৷  
 দিগ্দরশন করি মুখ্য মুখ্য জন ॥ ৩৬৫ ॥
 
 śaktyāveśāvatāra kṛṣṇera asaṅkhya gaṇana  
-dig-daraśana kari mukhya mukhya jana
+the śaktyāveśa-avatāras  of Kṛṣṇa  countless  the number  
+dig-daraśana kari mukhya mukhya jana  
+a glimpse  I give  the chief  the chief  persons
 
-(365) [not yet translated]
+(365) Kṛṣṇa’s *śaktyāveśa-avatāras* are countless. I shall give a glimpse, naming the chief among them.
 
 শক্ত্যাবেশ দুইরূপ — ‘মুখ্য’, ‘গৌণ’ দেখি ৷  
 সাক্ষাৎশক্ত্যে ‘অবতার’, আভাসে ‘বিভূতি’ লিখি ॥ ৩৬৬ ॥
 
 śaktyāveśa dui-rūpa — ‘mukhya’, ‘gauṇa’ dekhi  
-sākṣāt-śaktye ‘avatāra’, ābhāse ‘vibhūti’ likhi
+śaktyāveśa  of two kinds  primary  secondary  we see  
+sākṣāt-śaktye ‘avatāra’, ābhāse ‘vibhūti’ likhi  
+with direct potency  avatāra  with a reflection  vibhūti  I write
 
-(366) [not yet translated]
+(366) We see that *śaktyāveśa* is of two kinds, primary and secondary. One endowed with the potency itself I call an avatāra; one endowed with its reflection, a *vibhūti*.
 
 ‘সনকাদি’, ‘নারদ’, ‘পৃথু’, ‘পরশুরাম’ ৷  
 জীবরূপ ‘ব্রহ্মার’ আবেশাবতার-নাম ॥ ৩৬৭ ॥
 
 ‘sanakādi’, ‘nārada’, ‘pṛthu’, ‘paraśurāma’  
-jīva-rūpa ‘brahmāra’ āveśāvatāra-nāma
+Sanaka and the others  Nārada  Pṛthu  Paraśurāma  
+jīva-rūpa ‘brahmāra’ āveśāvatāra-nāma  
+in the form of a jīva  Brahmā  āveśa-avatāras  the name
 
-(367) [not yet translated]
+(367) Sanaka and his brothers, Nārada, Pṛthu, Paraśurāma, and Brahmā, who is a *jīva*, are called *āveśa-avatāras*.
 
 বৈকুণ্ঠে ‘শেষ’ — ধরা ধরয়ে ‘অনন্ত’ ৷  
 এই মুখ্যাবেশাবতার — বিস্তারে নাহি অন্ত ॥ ৩৬৮ ॥
 
 vaikuṇṭhe ‘śeṣa’ — dharā dharaye ‘ananta’  
-ei mukhyāveśāvatāra — vistāre nāhi anta
+in Vaikuṇṭha  Śeṣa  the earth  holds  Ananta  
+ei mukhyāveśāvatāra — vistāre nāhi anta  
+these  primary āveśa-avatāras  in detail  there is no  end
 
-(368) [not yet translated]
+(368) Śeṣa in Vaikuṇṭha, and Ananta, who holds up the earth — these are primary *āveśa-avatāras*. To describe them in detail would have no end.
 
 সনকাদ্যে ‘জ্ঞান’-শক্তি, নারদে শক্তি ‘ভক্তি’ ৷  
 ব্রহ্মায় ‘সৃষ্টি’-শক্তি, অনন্তে ‘ভূ-ধারণ’-শক্তি ॥ ৩৬৯ ॥
 
 sanakādye ‘jñāna’-śakti, nārade śakti ‘bhakti’  
-brahmāya ‘sṛṣṭi’-śakti, anante ‘bhū-dhāraṇa’-śakti
+in Sanaka and the others  of knowledge  the potency  in Nārada  the potency  of devotion  
+brahmāya ‘sṛṣṭi’-śakti, anante ‘bhū-dhāraṇa’-śakti  
+in Brahmā  of creation  the potency  in Ananta  of holding the earth  the potency
 
-(369) [not yet translated]
+(369) In Sanaka and his brothers is the potency of knowledge, in Nārada the potency of devotion, in Brahmā the potency of creation, and in Ananta the potency of holding up the earth.
 
 শেষে ‘স্ব-সেবন’-শক্তি, পৃথুতে ‘পালন’ ৷  
 পরশুরামে ‘দুষ্টনাশক-বীর্য্যসঞ্চারণ’ ॥ ৩৭০ ॥
 
 śeṣe ‘sva-sevana’-śakti, pṛthute ‘pālana’  
-paraśurāme ‘duṣṭa-nāśaka-vīrya-sañcāraṇa’
+in Śeṣa  of serving Himself  the potency  in Pṛthu  maintenance  
+paraśurāme ‘duṣṭa-nāśaka-vīrya-sañcāraṇa’  
+in Paraśurāma  destroying the wicked  of prowess  the infusion
 
-(370) [not yet translated]
+(370) In Śeṣa is the potency of serving the Lord Himself; in Pṛthu, the potency of maintaining the world; and in Paraśurāma, an infusion of prowess that destroys the wicked.
 
 জ্ঞানশক্ত্যাদিকলয়া যত্রাবিষ্টো জনার্দ্দনঃ ৷  
 ত আবেশা নিগদ্যন্তে জীবা এব মহত্তমাঃ ॥ ৩৭১ ॥
 
 jñāna-śakty-ādi-kalayā  
+of knowledge  potency  and so on  by a portion  
 yatrāviṣṭo janārdanaḥ  
+in whom  has entered  Janārdana  
 ta āveśā nigadyante  
-jīvā eva mahattamāḥ
+they  āveśa  are called  
+jīvā eva mahattamāḥ  
+jīvas  indeed  the greatest
 
-(371) [not yet translated]
+(371) “Those into whom Janārdana has entered with a portion of His potency of knowledge and the rest are called *āveśa* avatāras; they are in fact the greatest of *jīvas*.” (Laghu-bhāgavatāmṛta, 1.18)
 
 ‘বিভূতি’ কহিয়ে যৈছে গীতা-একাদশে ৷  
 জগৎ ব্যাপিল কৃষ্ণশক্ত্যাভাসাবেশে ॥ ৩৭২ ॥
 
 ‘vibhūti’ kahiye yaiche gītā-ekādaśe  
-jagat vyāpila kṛṣṇa-śakty-ābhāsāveśe
+vibhūti  we call  as  in the Gītā  in the Eleventh  
+jagat vyāpila kṛṣṇa-śakty-ābhāsāveśe  
+the world  pervaded  of Kṛṣṇa’s potency  of the reflection  by the investing
 
-(372) [not yet translated]
+(372) We call *vibhūti* what is described in the *Gītā* and in the Eleventh (Canto):[^372-1] He pervades the world by investing beings with a reflection of His potency.
 
 যদ্যদ্বিভূতিমৎ সত্ত্বং শ্রীমদূর্জ্জিতমেব বা ৷  
 তত্তদেবাবগচ্ছ ত্বং মম তেজোঽংশসম্ভবম্ ॥ ৩৭৩ ॥
 
 yad yad vibhūtimat sattvaṁ  
+whatever  whatever  possessed of opulence  being  
 śrīmad ūrjitam eva vā  
+beautiful  mighty  indeed  or  
 tat tad evāvagaccha tvaṁ  
-mama tejo-’ṁśa-sambhavam
+that  that  alone  know  you  
+mama tejo-’ṁśa-sambhavam  
+of My  splendour  from a part  born
 
-(373) [not yet translated]
+(373) “Whatever being is possessed of opulence, beauty or might — know that it is born from a part of My splendour.” (Bhagavad-gītā, 10.41)
 
 অথবা বহুনৈতেন কিং জ্ঞাতেন তবার্জ্জুন ৷  
 বিষ্টভ্যাহমিদং কৃৎস্নমেকাংশেন স্থিতো জগৎ ॥ ৩৭৪ ॥
 
 atha vā bahunaitena  
+but  or  with much  this  
 kiṁ jñātena tavārjuna  
+what (use)  by knowing  for you  Arjuna  
 viṣṭabhyāham idaṁ kṛtsnam  
-ekāṁśena sthito jagat
+pervading  I  this  entire  
+ekāṁśena sthito jagat  
+by one portion  I stand  the universe
 
-(374) [not yet translated]
+(374) “But what need have you, Arjuna, of all this detailed knowledge? By one portion of Myself I pervade and support this entire universe.” (Bhagavad-gītā, 10.42)
 
 এইত কহিলুঁ শক্ত্যাবেশ-অবতার ৷  
 বাল্য-পৌগণ্ড-ধর্ম্মের শুনহ বিচার ॥ ৩৭৫ ॥
 
 eita kahiluṅ śakty-āveśa-avatāra  
-bālya-paugaṇḍa-dharmera śunaha vicāra
+thus  I have told  the śaktyāveśa  avatāras  
+bālya-paugaṇḍa-dharmera śunaha vicāra  
+of childhood  boyhood  of the characteristics  hear  the consideration
 
-(375) [not yet translated]
+(375) Thus I have told you about the *śaktyāveśa-avatāras*. Now hear about the characteristics of His childhood (*bālya*) and boyhood (*paugaṇḍa*).
 
 কিশোরশেখর-ধর্ম্মী ব্রজেন্দ্রনন্দন ৷  
 প্রকটলীলা করিবারে যবে করে মন ॥ ৩৭৬ ॥
