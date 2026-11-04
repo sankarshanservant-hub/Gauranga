@@ -22,3 +22,76 @@
 
 **atha** **lakṣmīśādi-vartinaḥ** (present in Nārāyaṇa, the husband of Lakṣmī, and in other forms) **ye** **pañca guṇāḥ**, **te** **ucyante** — **avicintya-mahā-śaktiḥ** (possessed of immeasurable great energy) **koṭi-brahmāṇḍa-vigrahaḥ** (He whose form pervades millions of universes) **avatārāvalī-bījam** (the cause of all *avatāras*) **hatāri-gati-dāyakaḥ** (granting liberation even to slain enemies) **ātmārāma-gaṇākarṣī** (attracting even the liberated *paramahaṁsas* who have reached the state of *brahma-bhūta*) **iti** **amī** (qualities) **kṛṣṇe** **adbhutāḥ** **kila**.
 
+## 78–79[^78-1]
+
+> Subheading: In Kṛṣṇa Himself, beyond what is in Nārāyaṇa, four more qualities of His own are eternally present, that is, sixty-four qualities in all, in their fullness —
+
+**sarvādbhuta-camatkāra-līlā-kallola-vāridhiḥ** (an ocean of waves of pastimes at which even all marvels are astonished, that is, the abode of pastimes that produce every kind of wondrous amazement) **atulya-madhura-prema-maṇḍita-priya-maṇḍalaḥ** (He by whom the circle of His dear ones is adorned with incomparable sweet *prema*; that is, His dearest ones are adorned with incomparable sweet *prema*) **tri-jagan-mānasākarṣi-muralī-kala-kūjitaḥ** (He whose flute gives forth a sweet, indistinct sound whose nature is to attract the minds of the three worlds — Goloka, Paravyoma and Devī-dhāma) **asamānordhva-rūpa-śrī-vismāpita-carācaraḥ** (He who by His beauty — matchless, for no one has a form equal to or higher than His — has struck with wonder, that is, has filled with curiosity, everything moving and unmoving).
+
+## 80
+
+**līlā** **premṇā priyādhikyam** **veṇu-rūpayoḥ mādhurye** **iti** **govindasya** **asādhāraṇam** **catuṣṭayam** (four characteristics) **proktam** — **evam** **catur-bhedāḥ** **guṇāḥ** (in their totality) **catuḥ-ṣaṣṭiḥ** **udāhṛtāḥ**.
+
+## 81
+
+> Subheading: The twenty-five qualities of Śrī Rādhikā that attract Kṛṣṇa —
+
+## 82–86
+
+> Subheading: The twenty-five qualities — (*Ujjvala-nīlamaṇi*, *Śrī Rādhā-prakaraṇa*, 11–15)
+
+**atha** **vṛndāvaneśvaryāḥ** (of Śrī Rādhikā) **pravarāḥ** (chief) **guṇāḥ** **kīrtyante** — **iyam** (Śrī Rādhikā) **madhurā** (full of sweetness) **nava-vayāḥ** (She whose age is young — a *kiśorī*) **calāpāṅgā** (She whose sidelong glance is restless, darting) **cāru-saubhāgya-rekhāḍhyā** (rich in beautiful lines of good fortune) **gandhonmādita-mādhavā** (She by whom Mādhava is maddened — with the fragrance of Her body) **saṅgīta-prasarābhijñā** (versed and accomplished in the wide art of song) **ramya-vāk** (She whose speech is charming — delightful to the ear) **narma-paṇḍitā** (expert in *narma* — playful pranks) **vinītā** (meek) **karuṇā-pūrṇā** (unable to bear the sorrows of the *gopīs* who have taken shelter of Her — supremely compassionate) **vidagdhā** (versed in the arts of love) **pāṭavānvitā** (skillful in doing what must be done) **lajjā-śīlā** (without desire to be praised) **su-maryādā** (holding Kṛṣṇa in honor) **dhairyā gāmbhīrya-śālinī** (steadfast, unwavering) **su-vilāsā** (full of play) **mahābhāva-paramotkarṣa-tarṣiṇī** (thirsting for the highest perfection of *mahābhāva*) **gokula-prema-vasatiḥ** (the object of love of the residents of Gokula) **jagac-chreṇī-lasad-yaśāḥ** (She whose fame shines in the ranks of the *āśrayas* of all the worlds) **gurv-arpita-guru-snehā** (She on whom the elders bestow special affection)[^82-1] **sakhī-praṇayitā-vaśā** (subject to the *praṇaya*, the friendly love, of the *sakhīs*) **kṛṣṇa-priyāvalī-mukhyā** (the dearest to Kṛṣṇa) **santatāśrava-keśavā** (She whose Keśava is always, ceaselessly obedient to Her).
+
+## 87
+
+> Subheading: The *ālambana* is twofold: (1) the one and only *viṣaya*, Kṛṣṇa, and (2) the many kinds of *āśraya*; among them Śrī Rādhā is supreme —
+
+## 88
+
+> Subheading: Service to Kṛṣṇa in the four *rasas* — of the servants other than those in *śānta* —
+
+Just as in *madhura-rasa* the two best *ālambanas* are the son of the King of Vraja and the daughter of Vṛṣabhānu, so in *dāsya-rasa* the best *ālambanas* are the son of the King of Vraja and Citraka, Raktaka, Patraka and others; in *sakhya-rasa*, the son of the King of Vraja and His friends Śrīdāmā, Sudāmā, Subala and others; and in *vātsalya*, the son of the King of Vraja and Nanda, Yaśodā and others.
+
+## 89–92
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, *Vibhāva-laharī*, 7–10)
+
+**bhakti-nirdhūta-doṣāṇām** (of those whose faults devotion has washed away — cleansed) **prasannojjvala-cetasām** (whose hearts are clear and bright) **śrī-bhāgavata-raktānām** (devoted to relishing the meaning of the *Śrīmad-Bhāgavatam*) **rasikāsaṅga-raṅgiṇām** (intent on relishing *rasa* together with *rasikas*) **jīvanī-bhūta-govinda-pāda-bhakti-sukha-śriyām** (for whom the wealth of the happiness of serving Kṛṣṇa has become their very life) **premāntaraṅga-bhūtāni** (intimate to *prema*) **kṛtyāni** (practices and the like) **anutiṣṭhatām** **bhaktānām** **hṛdi** **rājantī** **saṁskāra-yugalojjvalā** (made radiant by the two *saṁskāras*, the former and the present)[^89-1] **ānanda-rūpā** **ratiḥ** **eva** **tu** **anubhavādhvani** (on the path of experience) **gataiḥ** **kṛṣṇādibhiḥ** **vibhāvādyaiḥ** **rasyatām** (the state of *rasa*) **nīyamānā** **parām** **prauḍhānanda-camatkāra-kāṣṭhām** (the highest limit of concentrated bliss) **āpadyate** (attains).
+
+## 93
+
+> Subheading: Only a liberated devotee of Kṛṣṇa, united with Kṛṣṇa, the nondual Knowledge (*advaya-jñāna*), can relish this spiritual, transcendental *rasa*; for the mundane false connoisseur (*kurasika*) it is impossible —
+
+## 94
+
+> Subheading: The evidence of scripture — (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth *laharī*, 131)
+
+**abhaktaiḥ** (by people who thirst for *bhukti* and *mukti* and are turned away from Hari) **ayam** **bhagavad-rasaḥ** **sarvathā eva** **durūhaḥ** (unattainable); **kintu** **tat-pādāmbuja-sarvasvaiḥ** (by exclusive — *aikāntika* — devotees) **eva** **anurasyate** (is relished).
+
+## 95
+
+> Subheading: A brief account of the truth of *prayojana* —
+
+## 96
+
+> Subheading: Earlier, in Prayāga, at Daśāśvamedha-ghāṭa, instruction in *kṛṣṇa-rasa* was given to Śrī Rūpa —
+
+## 97–98
+
+> Subheading: The Lord entrusts Sanātana, the Vaiṣṇava *ācārya*, with four duties of service for the *sampradāya*, befitting an *ācārya* —
+
+(1) Preaching the scriptures of *bhakti* — by publishing the *Bṛhad-vaiṣṇava-toṣaṇī*, the commentary on the Tenth Canto, the *Bṛhad-bhāgavatāmṛta* and other books, to establish the conclusions (*siddhānta*) of pure *bhakti*; (2) restoring the lost holy places — identifying the *kuṇḍas* and other sites of Vṛndāvana; (3) the service of Kṛṣṇa in Vṛndāvana — manifesting the Deity (*śrī-mūrti*) and opening His service; (4) Vaiṣṇava conduct (*ācāra*) — by compiling a book of Vaiṣṇava *smṛti*, introducing and spreading the proper conduct (*sadācāra*) of Vaiṣṇavas and establishing the Vaiṣṇava community. These four duties of service for the *sampradāya* He entrusted to Śrī Sanātana Gosvāmī.
+
+## 99
+
+> Subheading: *Yukta-vairāgya* is what the *jīva* should desire and attain, and false renunciation (*phalgu-vairāgya*) is to be given up altogether —
+
+Here a variant reading gives two verses: “Renunciation (*vairāgya*) is called proper when one, unattached, uses objects as is fitting, firmly relating them to Kṛṣṇa,” and “When those who seek liberation reject things connected with Hari, considering them mundane, such renunciation is called false (*phalgu*).” These two verses are quoted from the second *laharī* of the *Pūrva-vibhāga* of the *Bhakti-rasāmṛta-sindhu*.
+
+---
+
+[^78-1]: The edition numbers this section “78–89”: a misprint (checked against the scan, p. 785); the section covers verses 78–79, and the next section is 80.
+
+[^82-1]: The verse translation reads differently: “She treats Her elders with great affection” (Madhya 23.86).
+
+[^89-1]: The verse translation reads differently: it takes the *saṁskāras* as past and present purificatory rites (Madhya 23.89–91); in the *Anubhāṣya* they are former and present impressions.
