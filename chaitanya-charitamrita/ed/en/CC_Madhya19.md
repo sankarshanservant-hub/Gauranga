@@ -503,7 +503,7 @@ from the well of worldly life  out of  you  He has pulled  both
 ন মেঽভক্তশ্চতুর্ব্বেদী মদ্ভক্তঃ শ্বপচঃ প্রিয়ঃ ৷  
 তস্মৈ দেয়ং ততো গ্রাহ্যং স চ পূজ্যো যথা হ্যহম্ ॥ ৫০ ॥
 
-na me ‘bhaktaś catur-vedī  
+na me ’bhaktaś catur-vedī  
 not  to Me  a nondevotee  a knower of the four Vedas  
 mad-bhaktaḥ śva-pacaḥ priyaḥ  
 My devotee  a dog-eater  dear  
@@ -608,11 +608,11 @@ Rūpa Gosvāmī  that day  there  stayed
 প্রভুর শেষপ্রসাদ-পাত্র দুইভাই পাইল ॥ ৫৯ ॥
 
 bhaṭṭācārya dui bhāiye nimantraṇa kaila  
-the bhaṭṭācārya  the two  brothers  invitation  made  
+the Bhaṭṭācārya  the two  brothers  invitation  made  
 prabhura śeṣa prasāda-pātra duibhāi pāila  
 of the Lord’s  remnants  of prasāda the plate  the two brothers  received
 
-(59) The bhaṭṭācārya invited the two brothers as well, and they received the plate with the remnants of the Lord’s prasāda.
+(59) The Bhaṭṭācārya invited the two brothers as well, and they received the plate with the remnants of the Lord’s prasāda.
 
 ত্রিবেণী-উপর প্রভুর বাসা-ঘর স্থান ৷  
 দুইভাই বাসা কৈল প্রভু-সন্নিধান ॥ ৬০ ॥
@@ -628,289 +628,365 @@ the two brothers  lodging  made  near the Lord
 মহাপ্রভু আইলা শুনি’ আইল তাঁর স্থানে ॥ ৬১ ॥
 
 se-kāle vallabha-bhaṭṭa rahe āḍāila-grāme  
-mahāprabhu āilā śuni’ āila tāṅra sthāne
+at that time  Vallabha Bhaṭṭa  lived  in the village of Āḍāila  
+mahāprabhu āilā śuni’ āila tāṅra sthāne  
+Mahāprabhu  has come  hearing  came  to Him
 
-(61) [not yet translated]
+(61) At that time Vallabha Bhaṭṭa was living in the village of Āḍāila. Hearing that Mahāprabhu had come, he came to Him.
 
 তেঁহো দণ্ডবৎ কৈল, প্রভু কৈলা আলিঙ্গন ৷  
 দুইজনে কৃষ্ণকথা হৈল কতক্ষণ ॥ ৬২ ॥
 
 teṅho daṇḍavat kaila, prabhu kailā āliṅgana  
-dui jane kṛṣṇa-kathā haila kata-kṣaṇa
+he  prostrated obeisances  made  the Lord  embraced  
+dui jane kṛṣṇa-kathā haila kata-kṣaṇa  
+between the two  talk of Kṛṣṇa  there was  for some time
 
-(62) [not yet translated]
+(62) He offered prostrated obeisances, and the Lord embraced him. Then the two of them spoke about Kṛṣṇa for some time.
 
 কৃষ্ণকথায় প্রভুর মহাপ্রেম উথলিল ৷  
 ভট্টের সংকোচে প্রভু সম্বরণ কৈল ॥ ৬৩ ॥
 
 kṛṣṇa-kathāya prabhura mahā-prema uthalila  
-bhaṭṭera saṅkoce prabhu samvaraṇa kaila
+in the talk of Kṛṣṇa  the Lord’s  great love  surged up  
+bhaṭṭera saṅkoce prabhu samvaraṇa kaila  
+before Bhaṭṭa  out of reserve  the Lord  restraint  made
 
-(63) [not yet translated]
+(63) As they spoke of Kṛṣṇa, great love surged up in the Lord, but out of reserve before Bhaṭṭa He held it back.[^63]
 
 অন্তরে গর-গর প্রেম, নহে সম্বরণ ৷  
 দেখি’ চমৎকার হৈল বল্লভ-ভট্টের মন ॥ ৬৪ ॥
 
 antare gara-gara prema, nahe samvaraṇa  
-dekhi’ camatkāra haila vallabha-bhaṭṭera mana
+within  surging  love  not  restrained  
+dekhi’ camatkāra haila vallabha-bhaṭṭera mana  
+seeing  amazed  became  Vallabha Bhaṭṭa’s  mind
 
-(64) [not yet translated]
+(64) Yet within Him love was surging and could not be held back, and seeing this, Vallabha Bhaṭṭa was amazed.
 
 তবে ভট্ট মহাপ্রভুরে নিমন্ত্রণ কৈলা ৷  
 মহাপ্রভু দুইভাই তাঁহারে মিলাইলা ॥ ৬৫ ॥
 
 tabe bhaṭṭa mahāprabhure nimantraṇa kailā  
-mahāprabhu duibhāi tāṅhāre milāilā
+then  Bhaṭṭa  Mahāprabhu  invitation  made  
+mahāprabhu duibhāi tāṅhāre milāilā  
+Mahāprabhu  the two brothers  with him  introduced
 
-(65) [not yet translated]
+(65) Then Bhaṭṭa invited Mahāprabhu for a meal, and Mahāprabhu introduced the two brothers to him.
 
 দুইভাই দূর হৈতে ভূমিতে পড়িয়া ৷  
 ভট্টে দণ্ডবৎ কৈলা অতি দীন হঞা ॥ ৬৬ ॥
 
 duibhāi dūra haite bhūmite paḍiyā  
-bhaṭṭe daṇḍavat kailā ati dīna hañā
+the two brothers  from a distance  on the ground  falling  
+bhaṭṭe daṇḍavat kailā ati dīna hañā  
+to Bhaṭṭa  obeisances  made  very  humble  becoming
 
-(66) [not yet translated]
+(66) From a distance the two brothers fell to the ground and, in great humility, offered obeisances to Bhaṭṭa.
 
 ভট্ট মিলিবারে যায়, দুঁহে পলায় দূরে ৷  
 ‘অস্পৃশ্য পামর মুঞি, না ছুঁইহ মোরে’ ॥ ৬৭ ॥
 
 bhaṭṭa milibāre yāya, duṅhe palāya dūre  
-aspṛśya pāmara muñi, nā chuṅiha more
+Bhaṭṭa  to meet  goes  both  draw back  far away  
+aspṛśya pāmara muñi, nā chuṅiha more  
+untouchable  sinful  I  not  touch  me
 
-(67) [not yet translated]
+(67) When Bhaṭṭa went to embrace them, they both drew far back: “I am untouchable and sinful. Do not touch me!”
 
 ভট্টের বিস্ময় হৈল, প্রভুর হর্ষ মন ৷  
 ভট্টেরে কহিলা প্রভু তাঁর বিবরণ ॥ ৬৮ ॥
 
 bhaṭṭera vismaya haila, prabhura harṣa mana  
-bhaṭṭere kahilā prabhu tāṅra vivaraṇa
+Bhaṭṭa’s  astonishment  arose  the Lord’s  joyful  mind  
+bhaṭṭere kahilā prabhu tāṅra vivaraṇa  
+to Bhaṭṭa  told  the Lord  about him  an account
 
-(68) [not yet translated]
+(68) Bhaṭṭa was astonished, and the Lord was pleased at heart. Then the Lord told Bhaṭṭa about Rūpa:
 
 ‘ইঁহো না স্পর্শিহ, ইঁহো জাতি অতি-হীন !  
 বৈদিক, যাজ্ঞিক তুমি কুলীন প্রবীণ !’ ॥ ৬৯ ॥
 
 iṅho nā sparśiha, iṅho jāti ati-hīna!  
-vaidika, yājñika tumi kulīna pravīṇa!
+him  not  touch  he  by birth  very low  
+vaidika, yājñika tumi kulīna pravīṇa!  
+a Vedic scholar  a performer of sacrifices  you  of noble family  learned
 
-(69) [not yet translated]
+(69) “Do not touch him; he is of very low birth! You are a Vedic scholar and a performer of sacrifices, of noble family and learned!”
 
 ইঁহার মুখে নিরন্তর কৃষ্ণনাম শুনি’ ৷  
 ভট্ট কহে, প্রভুর কিছু ইঙ্গিত-ভঙ্গী জানি’ ॥ ৭০ ॥
 
 iṅhāra mukhe nirantara kṛṣṇa-nāma śuni’  
-bhaṭṭa kahe, prabhura kichu iṅgita-bhaṅgī jāni’
+from his  mouth  constantly  the name of Kṛṣṇa  hearing  
+bhaṭṭa kahe, prabhura kichu iṅgita-bhaṅgī jāni’  
+Bhaṭṭa  says  the Lord’s  something  of the hints  understanding
 
-(70) [not yet translated]
+(70) Hearing the name of Kṛṣṇa constantly from Rūpa’s mouth, and grasping something of the Lord’s hint, Bhaṭṭa said:
 
 ‘দুঁহার মুখে কৃষ্ণনাম করিছে নর্ত্তন ৷  
 এই দুই ‘অধম’ নহে, হয় ‘সর্ব্বোত্তম’ ॥ ৭১ ॥
 
 duṅhāra mukhe kṛṣṇa-nāma kariche nartana  
-ei dui ‘adhama’ nahe, haya ‘sarvottama’
+of both  in the mouths  the name of Kṛṣṇa  is doing  dance  
+ei dui ‘adhama’ nahe, haya ‘sarvottama’  
+these  two  ‘lowly’  are not  are  ‘the best of all’
 
-(71) [not yet translated]
+(71) “The name of Kṛṣṇa is dancing in the mouths of both. These two are not ‘lowly’ — they are ‘the best of all.’
 
 অহো বত শ্বপচোঽতো গরীয়ান্  
 যজ্জিহ্বাগ্রে বর্ত্ততে নাম তুভ্যম্ ৷  
 তেপুস্তপস্তে জুহুবুঃ সস্নুরার্য্যা  
 ব্রহ্মানূচুর্নাম গৃণন্তি যে তে ॥ ৭২ ॥
 
-aho bata śva-paco ‘to garīyān  
+aho bata śva-paco ’to garīyān  
+oh  how wonderful  a dog-eater  therefore  most worthy  
 yaj-jihvāgre vartate nāma tubhyam  
+on the tip of whose tongue  is present  the name  Your  
 tepus tapas te juhuvuḥ sasnur āryā  
-brahmānūcur nāma gṛṇanti ye te
+have performed  austerities  they  have offered sacrifice  have bathed (in all holy waters)  noble ones  
+brahmānūcur nāma gṛṇanti ye te  
+have recited the Vedas  the name  utter  who  Your
 
-(72) [not yet translated]
+(72) “Oh, how wonderful! Even a dog-eater is worthy of the highest honour if Your name is on the tip of his tongue. Those who utter Your name have already performed austerities and offered sacrifices; they have bathed in all the holy waters, they are truly noble, and they have studied the Vedas.” (Śrīmad-Bhāgavatam, 3.33.7)[^72]
 
 শুনি’ মহাপ্রভু তাঁরে বহু প্রশংসিলা ৷  
 প্রেমাবিষ্ট হঞা শ্লোক পড়িতে লাগিলা ॥ ৭৩ ॥
 
 śuni’ mahāprabhu tāṅre bahu praśaṁsilā  
-premāviṣṭa hañā śloka paḍite lāgilā
+hearing  Mahāprabhu  him  much  praised  
+premāviṣṭa hañā śloka paḍite lāgilā  
+overwhelmed with love  becoming  verses  to recite  began
 
-(73) [not yet translated]
+(73) Hearing this, Mahāprabhu praised him highly and, overwhelmed with love, began to recite verses:
 
 শুচিঃ সদ্ভক্তিদীপ্তাগ্নিদগ্ধদুর্জাতিকল্মষঃ ৷  
 শ্বপাকোঽপি বুধৈঃ শ্লাঘ্যো ন বেদজ্ঞোঽপি নাস্তিকঃ ॥ ৭৪ ॥
 
 śuciḥ sad-bhakti-dīptāgni-  
+pure  by the blazing fire of true devotion  
 dagdha-durjāti-kalmaṣaḥ  
-śva-pāko ‘pi budhaiḥ ślāghyo  
-na veda-jño ‘pi nāstikaḥ
+burned is the taint of low birth  
+śva-pāko ’pi budhaiḥ ślāghyo  
+a dog-cooker  even  by the wise  is praised  
+na veda-jño ’pi nāstikaḥ  
+not  a knower of the Vedas  even  an atheist
 
-(74) [not yet translated]
+(74) “One in whom the blazing fire of true devotion has burned away the taint of low birth is pure; even if born a dog-cooker, he is praised by the wise. But an atheist is not, even if he knows the Vedas.” (Hari-bhakti-sudhodaya, 3.11)
 
 ভগবদ্ভক্তিহীনস্য জাতিঃ শাস্ত্রং জপস্তপঃ ৷  
 অপ্রাণস্যৈব দেহস্য মণ্ডনং লোকরঞ্জনম্ ॥ ৭৫ ॥
 
 bhagavad-bhakti-hīnasya  
+of one devoid of devotion to the Lord  
 jātiḥ śāstraṁ japas tapaḥ  
+birth  scripture  japa  austerity  
 aprāṇasyaiva dehasya  
-maṇḍanaṁ loka-rañjanam
+of a lifeless  just  body  
+maṇḍanaṁ loka-rañjanam  
+decoration  pleasing the people
 
-(75) [not yet translated]
+(75) “For one devoid of devotion to the Lord, high birth, learning in scripture, japa and austerity are like ornaments on a lifeless body: they only please the people.” (Hari-bhakti-sudhodaya, 3.12)
 
 প্রভুর প্রেমাবেশ, আর প্রভাব ভক্তিসার ৷  
 সৌন্দর্য্যাদি দেখি’ ভট্টের হৈল চমৎকার ॥ ৭৬ ॥
 
 prabhura premāveśa, āra prabhāva bhakti-sāra  
-saundaryādi dekhi’ bhaṭṭera haila camatkāra
+the Lord’s  absorption in love  and  power  the essence of devotion  
+saundaryādi dekhi’ bhaṭṭera haila camatkāra  
+beauty and the rest  seeing  Bhaṭṭa’s  there was  amazement
 
-(76) [not yet translated]
+(76) Seeing the Lord’s absorption in love, His power — the very essence of devotion — His beauty and His other qualities, Bhaṭṭa was amazed.
 
 সগণে প্রভুরে ভট্ট নৌকাতে চড়াঞা ৷  
 ভিক্ষা দিতে নিজ-ঘরে চলিলা লঞা ॥ ৭৭ ॥
 
 sagaṇe prabhure bhaṭṭa naukāte caḍāñā  
-bhikṣā dite nija-ghare calilā lañā
+with His companions  the Lord  Bhaṭṭa  on a boat  seating  
+bhikṣā dite nija-ghare calilā lañā  
+a meal  to offer  to his own house  set out  taking
 
-(77) [not yet translated]
+(77) Bhaṭṭa seated the Lord and His companions in a boat and set out with them for his own home to offer Him a meal.
 
 যমুনার জল দেখি’ চিক্কণ শ্যামল ৷  
 প্রেমাবেশে মহাপ্রভু হইলা বিহ্বল ॥ ৭৮ ॥
 
 yamunāra jala dekhi’ cikkaṇa śyāmala  
-premāveśe mahāprabhu hailā vihvala
+of the Yamunā  the water  seeing  glossy  dark  
+premāveśe mahāprabhu hailā vihvala  
+in loving ecstasy  Mahāprabhu  became  overwhelmed
 
-(78) [not yet translated]
+(78) Seeing the glossy dark water of the Yamunā, Mahāprabhu was overwhelmed with love.
 
 হুঙ্কার করি’ যমুনার জলে দিলা ঝাঁপ ৷  
 প্রভু দেখি’ সবার মনে হৈল ভয়-কাঁপ ॥ ৭৯ ॥
 
 huṅkāra kari’ yamunāra jale dilā jhāṅpa  
-prabhu dekhi’ sabāra mane haila bhaya-kāṅpa
+a roar  making  into the Yamunā’s  water  He made  a leap  
+prabhu dekhi’ sabāra mane haila bhaya-kāṅpa  
+the Lord  seeing  in everyone’s  mind  arose  trembling fear
 
-(79) [not yet translated]
+(79) With a loud roar He leaped into the water of the Yamunā. Seeing this, everyone trembled with fear.
 
 আস্তে-ব্যস্তে সবে ধরি’ প্রভুরে উঠাইল ৷  
 নৌকার উপরে প্রভু নাচিতে লাগিল ॥ ৮০ ॥
 
 āste-vyaste sabe dhari’ prabhure uṭhāila  
-naukāra upare prabhu nācite lāgila
+in great haste  all  catching hold  the Lord  lifted out  
+naukāra upare prabhu nācite lāgila  
+on the boat  the Lord  to dance  began
 
-(80) [not yet translated]
+(80) In great haste they all caught hold of the Lord and lifted Him out, and on the boat the Lord began to dance.
 
 মহাপ্রভুর ভরে নৌকা করে টলমল ৷  
 ডুবিতে লাগিল নৌকা, ঝলকে ভরে জল ॥ ৮১ ॥
 
 mahāprabhura bhare naukā kare ṭalamala  
-ḍubite lāgila naukā, jhalake bhare jala
+Mahāprabhu’s  under the weight  the boat  makes  rocking  
+ḍubite lāgila naukā, jhalake bhare jala  
+to sink  began  the boat  in gushes  fills  water
 
-(81) [not yet translated]
+(81) Under Mahāprabhu’s weight the boat rocked to and fro; it began to sink, filling with water in gushes.
 
 যদ্যপি ভট্টের আগে প্রভুর ধৈর্য্য হৈল মন ৷  
 দুর্ব্বার উদ্ভট প্রেম নহে সম্বরণ ॥ ৮২ ॥
 
 yadyapi bhaṭṭera āge prabhura dhairya haila mana  
-durvāra udbhaṭa prema nahe samvaraṇa
+although  Bhaṭṭa’s  before  the Lord’s  steady  became  mind  
+durvāra udbhaṭa prema nahe samvaraṇa  
+irresistible  mighty  love  is not  restrained
 
-(82) [not yet translated]
+(82) Although in Bhaṭṭa’s presence the Lord had steadied His mind, His irresistible, mighty love could not be held back.
 
 দেশ-পাত্র দেখি’ মহাপ্রভু ধৈর্য্য হইল ৷  
 আড়াইলের ঘাটে নৌকা আসি’ উত্তরিল ॥ ৮৩ ॥
 
 deśa-pātra dekhi’ mahāprabhu dhairya haila  
-āḍāilera ghāṭe naukā āsi’ uttarila
+the place and the people  seeing  Mahāprabhu  composed  became  
+āḍāilera ghāṭe naukā āsi’ uttarila  
+at Āḍāila’s  ghāṭa  the boat  coming  landed
 
-(83) [not yet translated]
+(83) Considering the place and the people, Mahāprabhu became composed, and the boat came to land at the ghāṭa of Āḍāila.
 
 ভয়ে ভট্ট সঙ্গে রহে, মধ্যাহ্ন করাঞা ৷  
 নিজ-গৃহে আনিলা প্রভুরে সঙ্গেতে লঞা ॥ ৮৪ ॥
 
 bhaye bhaṭṭa saṅge rahe, madhyāhna karāñā  
-nija-gṛhe ānilā prabhure saṅgete lañā
+out of fear  Bhaṭṭa  near  stays  the midday bath  having Him take  
+nija-gṛhe ānilā prabhure saṅgete lañā  
+to his own house  brought  the Lord  with him  taking
 
-(84) [not yet translated]
+(84) Out of fear Bhaṭṭa stayed close by the Lord. After seeing to His midday bath, he took the Lord with him to his own house.
 
 আনন্দিত হঞা ভট্ট দিল দিব্যাসন ৷  
 আপনে করিল প্রভুর পাদপ্রক্ষালন ॥ ৮৫ ॥
 
 ānandita hañā bhaṭṭa dila divyāsana  
-āpane karila prabhura pāda-prakṣālana
+joyful  becoming  Bhaṭṭa  gave  a fine seat  
+āpane karila prabhura pāda-prakṣālana  
+himself  performed  the Lord’s  washing of the feet
 
-(85) [not yet translated]
+(85) Joyfully Bhaṭṭa offered Him a fine seat and himself washed the Lord’s feet.
 
 সবংশে সেই জল মস্তকে ধরিল ৷  
 নূতন কৌপীন-বহির্ব্বাস পরাইল ॥ ৮৬ ॥
 
 savaṁśe sei jala mastake dharila  
-nūtana kaupīna-bahirvāsa parāila
+with his whole family  that  water  on the head  placed  
+nūtana kaupīna-bahirvāsa parāila  
+new  kaupīna and outer cloth  dressed Him in
 
-(86) [not yet translated]
+(86) With his whole family he placed that water on his head, and he dressed the Lord in a new kaupīna and outer cloth.
 
 গন্ধ-পুষ্প-ধূপ-দীপে মহাপূজা কৈল ৷  
 ভট্টাচার্য্যে মান্য করি’ পাক করাইল ॥ ৮৭ ॥
 
 gandha-puṣpa-dhūpa-dīpe mahā-pūjā kaila  
-bhaṭṭācārye mānya kari’ pāka karāila
+with sandal paste, flowers, incense and lamps  great worship  made  
+bhaṭṭācārye mānya kari’ pāka karāila  
+to the Bhaṭṭācārya  respect  showing  cooking  had done
 
-(87) [not yet translated]
+(87) He worshiped the Lord grandly with sandal paste, flowers, incense and lamps, and with due respect he had Balabhadra Bhaṭṭācārya do the cooking.
 
 ভিক্ষা করাইল প্রভুরে সস্নেহ যতনে ৷  
 রূপগোসাঞি-দুইভাইয়ে করাইল ভোজনে ॥ ৮৮ ॥
 
 bhikṣā karāila prabhure sasneha yatane  
-rūpagosāñi-duibhāiye karāila bhojane
+the meal  had taken  the Lord  with affection  with care  
+rūpagosāñi-duibhāiye karāila bhojane  
+Rūpa Gosvāmī and his brother  had  eat
 
-(88) [not yet translated]
+(88) With affection and care he fed the Lord, and he also fed the two brothers, Rūpa Gosvāmī and Anupama.
 
 ভট্টাচার্য্য শ্রীরূপে দেওয়াইল ‘অবশেষ’ ৷  
 তবে সেই প্রসাদ কৃষ্ণদাস পাইল শেষ ॥ ৮৯ ॥
 
 bhaṭṭācārya śrī-rūpe deoyāila ‘avaśeṣa’  
-tabe sei prasāda kṛṣṇadāsa pāila śeṣa
+the Bhaṭṭācārya  to Śrī Rūpa  had given  the remnants  
+tabe sei prasāda kṛṣṇadāsa pāila śeṣa  
+then  that  prasāda  Kṛṣṇadāsa  received  the rest
 
-(89) [not yet translated]
+(89) The Bhaṭṭācārya had the Lord’s remnants given to Śrī Rūpa, and Kṛṣṇadāsa then received what remained of that prasāda.
 
 মুখবাস দিয়া প্রভুরে করাইল শয়ন ৷  
 আপনে ভট্ট করেন প্রভুর পাদ-সম্বাহন ॥ ৯০ ॥
 
 mukha-vāsa diyā prabhure karāila śayana  
-āpane bhaṭṭa karena prabhura pāda-samvāhana
+mouth-freshening spices  giving  the Lord  had  lie down  
+āpane bhaṭṭa karena prabhura pāda-samvāhana  
+himself  Bhaṭṭa  does  the Lord’s  massaging of the feet
 
-(90) [not yet translated]
+(90) He gave the Lord spices to freshen His mouth and had Him lie down to rest, and Bhaṭṭa himself massaged the Lord’s feet.
 
 প্রভু পাঠাইল তাঁরে করিতে ভোজনে ৷  
 ভোজন করি’ আইলা তেঁহো প্রভুর চরণে ॥ ৯১ ॥
 
 prabhu pāṭhāila tāṅre karite bhojane  
-bhojana kari’ āilā teṅho prabhura caraṇe
+the Lord  sent  him  to take  his meal  
+bhojana kari’ āilā teṅho prabhura caraṇe  
+the meal  having taken  came  he  to the Lord’s  feet
 
-(91) [not yet translated]
+(91) The Lord sent him to take his meal, and after eating he came back to the Lord’s feet.
 
 হেনকালে আইলা রঘুপতি উপাধ্যায় ৷  
 তিরুহিতা পণ্ডিত, বড় বৈষ্ণব, মহাশয় ॥ ৯২ ॥
 
 hena-kāle āilā raghupati upādhyāya  
-tiruhitā paṇḍita, baḍa vaiṣṇava, mahāśaya
+at that time  came  Raghupati  Upādhyāya  
+tiruhitā paṇḍita, baḍa vaiṣṇava, mahāśaya  
+of Tirhut  a paṇḍita  a great  Vaiṣṇava  a noble soul
 
-(92) [not yet translated]
+(92) At that time Raghupati Upādhyāya arrived, a paṇḍita from Tirhut, a great Vaiṣṇava and a noble soul.
 
 আসি’ তেঁহো কৈল প্রভুর চরণ বন্দন ৷  
 ‘কৃষ্ণে মতি রহু’ বলি’ প্রভুর বচন ॥ ৯৩ ॥
 
 āsi’ teṅho kaila prabhura caraṇa vandana  
-‘kṛṣṇe mati rahu’ bali’ prabhura vacana
+coming  he  made  the Lord’s  feet  obeisance  
+‘kṛṣṇe mati rahu’ bali’ prabhura vacana  
+‘in Kṛṣṇa  the mind  may it rest’  saying  the Lord’s  words
 
-(93) [not yet translated]
+(93) He came and bowed at the Lord’s feet, and the Lord said to him: “May your mind rest in Kṛṣṇa.”
 
 শুনি’ আনন্দিত হৈল উপাধ্যায়ের মন ৷  
 প্রভু তাঁরে কহিল, — ‘কহ কৃষ্ণের বর্ণন’ ॥ ৯৪ ॥
 
 śuni’ ānandita haila upādhyāyera mana  
-prabhu tāṅre kahila, — kaha kṛṣṇera varṇana
+hearing  joyful  became  Upādhyāya’s  mind  
+prabhu tāṅre kahila, — kaha kṛṣṇera varṇana  
+the Lord  to him  said  tell  of Kṛṣṇa  a description
 
-(94) [not yet translated]
+(94) Hearing this, Upādhyāya was delighted at heart. The Lord said to him: “Tell Me something describing Kṛṣṇa.”
 
 নিজ-কৃত কৃষ্ণলীলা-শ্লোক-পড়িল ৷  
 শুনি’ মহাপ্রভুর মহা-প্রেমাবেশ হৈল ॥ ৯৫ ॥
 
 nija-kṛta kṛṣṇa-līlā-śloka-paḍila  
-śuni’ mahāprabhura mahā-premāveśa haila
+of his own composition  about Kṛṣṇa’s pastimes  a verse  he recited  
+śuni’ mahāprabhura mahā-premāveśa haila  
+hearing  Mahāprabhu’s  great  absorption in love  came
 
-(95) [not yet translated]
+(95) He recited a verse of his own about Kṛṣṇa’s pastimes, and hearing it, Mahāprabhu was overwhelmed with great love.
 
 শ্রুতিমপরে স্মৃতিমিতরে ভারতমন্যে ভজন্তু ভব-ভীতাঃ ৷  
 অহমিহ নন্দং বন্দে যস্যালিন্দে পরং ব্রহ্ম ॥ ৯৬ ॥
@@ -1646,101 +1722,135 @@ the service  devotion  is called
 অহৈতুক্যব্যবহিতা যা ভক্তিঃ পুরুষোত্তমে ॥ ১৭২ ॥
 
 mad-guṇa-śruti-mātreṇa  
+of My qualities  by the mere hearing  
 mayi sarva-guhāśaye  
+to Me  dwelling in all hearts  
 mano-gatir avicchinnā  
+of the mind  the flow  unbroken  
 yathā gaṅgāmbhaso ‘mbudhau  
+as  of the Gaṅgā’s waters  into the ocean  
 lakṣaṇaṁ bhakti-yogasya  
+the mark  of bhakti-yoga  
 nirguṇasya hy udāhṛtam  
+beyond the guṇas  indeed  is declared  
 ahaituky avyavahitā  
-yā bhaktiḥ puruṣottame
+unmotivated  uninterrupted  
+yā bhaktiḥ puruṣottame  
+which  devotion  to the Supreme Person
 
-(171–172) [not yet translated]
+(171–172) “Merely by hearing of My qualities the mind flows unbroken toward Me, who dwell in all hearts, as the waters of the Gaṅgā flow into the ocean. Such is the mark of bhakti-yoga beyond the guṇas (*nirguṇa*): devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.11–12)
 
 সালোক্যসার্ষ্টিসারূপ্যসামীপ্যৈকত্বমপ্যুত ৷  
 দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ১৭৩ ॥
 
 sālokya-sārṣṭi-sārūpya-  
+residence in My world  equal opulence  likeness of form  
 sāmīpyaikatvam apy uta  
+nearness  oneness  even  and  
 dīyamānaṁ na gṛhṇanti  
-vinā mat-sevanaṁ janāḥ
+being given  not  accept  
+vinā mat-sevanaṁ janāḥ  
+without  My service  the people
 
-(173) [not yet translated]
+(173) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, a form like Mine, nearness to Me, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
 
 স এব ভক্তিযোগাখ্য আত্যন্তিক উদাহৃতঃ ৷  
 যেনাতিব্রজ্য ত্রিগুণং মদ্ভাবায়োপপদ্যতে ॥ ১৭৪ ॥
 
 sa eva bhakti-yogākhya  
+that  indeed  called bhakti-yoga  
 ātyantika udāhṛtaḥ  
+the ultimate  is declared  
 yenātivrajya tri-guṇaṁ  
-mad-bhāvāyopapadyate
+by which  transcending  the three guṇas  
+mad-bhāvāyopapadyate  
+love for Me  one attains
 
-(174) [not yet translated]
+(174) “That alone, called *bhakti-yoga*, is declared the ultimate goal; by it one transcends the three *guṇas* and attains love for Me.” (Śrīmad-Bhāgavatam, 3.29.14)
 
 ভুক্তি-মুক্তি আদি-বাঞ্ছা যদি মনে হয় ৷  
 সাধন করিলেও প্রেম উৎপন্ন না হয় ॥ ১৭৫ ॥
 
 bhukti-mukti ādi-vāñchā yadi mane haya  
-sādhana karile prema utpanna nā haya
+enjoyment, liberation  and the rest  desire  if  in the mind  is  
+sādhana karileo prema utpanna nā haya  
+sādhana  even if one performs  prema  born  not  is
 
-(175) [not yet translated]
+(175) “If the desire for enjoyment, liberation and the like remains in the mind, then even though one practices *sādhana*, *prema* does not arise.
 
 ভুক্তি-মুক্তি-স্পৃহা যাবৎ পিশাচী হৃদি বর্ত্ততে ৷  
 তাবদ্ভক্তিসুখস্যাত্র কথমভ্যুদয়ো ভবেৎ ॥ ১৭৬ ॥
 
 bhukti-mukti-spṛhā yāvat  
+for enjoyment and liberation  the craving  as long as  
 piśācī hṛdi vartate  
+a witch  in the heart  remains  
 tāvad bhakti-sukhasyātra  
-katham abhyudayo bhavet
+so long  of the happiness of devotion  here  
+katham abhyudayo bhavet  
+how  the rise  can be
 
-(176) [not yet translated]
+(176) “As long as the witch of craving for enjoyment and liberation remains in the heart, how can the happiness of devotion arise there?” (Bhakti-rasāmṛta-sindhu, 1.2.22)
 
 সাধনভক্তি হৈতে হয় রতি’র উদয় ৷  
 রতি গাঢ় হৈলে তার ‘প্রেম’ নাম কয় ॥ ১৭৭ ॥
 
 sādhana-bhakti haite haya rati’ra udaya  
-rati gāḍha haile tāra ‘prema’ nāma kaya
+sādhana-bhakti  from  is  of rati  the rise  
+rati gāḍha haile tāra ‘prema’ nāma kaya  
+rati  intense  when it becomes  its  prema  name  they call
 
-(177) [not yet translated]
+(177) “From the practice of devotion (*sādhana-bhakti*) *rati* awakens; when *rati* deepens, it is called *prema*.
 
 প্রেম বৃদ্ধিক্রমে নাম — স্নেহ, মান প্রণয় ৷  
 রাগ, অনুরাগ, ভাব, মহাভাব হয় ॥ ১৭৮ ॥
 
 prema vṛddhi-krame nāma — sneha, māna praṇaya  
-rāga, anurāga, bhāva, mahābhāva haya
+prema  of increase  in the stages  names  sneha  māna  praṇaya  
+rāga, anurāga, bhāva, mahābhāva haya  
+rāga  anurāga  bhāva  mahābhāva  are
 
-(178) [not yet translated]
+(178) “As *prema* increases, its stages are called *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.
 
 যৈছে বীজ, ইক্ষু, রস, গুড়, খণ্ড, সার ৷  
 শর্করা, সিতা, মিছরি, উত্তম-মিছরি আর ॥ ১৭৯ ॥
 
 yaiche bīja, ikṣu, rasa, guḍa, khaṇḍa, sāra  
-śarkarā, sitā, michari, uttama-michari āra
+as  the seed  the sugarcane  the juice  molasses  raw sugar  refined sugar  
+śarkarā, sitā, michari, uttama-michari āra  
+white sugar  sugar candy  rock candy  the finest rock candy  and
 
-(179) [not yet translated]
+(179) “It is like the seed, the sugarcane, its juice, molasses, raw sugar, refined sugar, white sugar, sugar candy, rock candy and the finest rock candy.
 
 এই সব কৃষ্ণভক্তি-রসের স্থায়িভাব ৷  
 স্থায়িভাবে মিলে যদি বিভাব, অনুভাব ॥ ১৮০ ॥
 
 ei saba kṛṣṇa-bhakti-rasera sthāyibhāva  
-sthāyibhāve mile yadi vibhāva, anubhāva
+these  all  of Kṛṣṇa  devotion  of the rasa  the sthāyibhāva  
+sthāyibhāve mile yadi vibhāva, anubhāva  
+with the sthāyibhāva  combine  if  vibhāva  anubhāva
 
-(180) [not yet translated]
+(180) “All these are the *sthāyi-bhāva*, the abiding emotion, of the *rasa* of devotion to Kṛṣṇa. When *vibhāva* and *anubhāva* combine with the *sthāyi-bhāva*,
 
 সাত্ত্বিক, ব্যভিচারি-ভাবের মিলনে ৷  
 কৃষ্ণভক্তি-রস হয় অমৃত আস্বাদনে ॥ ১৮১ ॥
 
 sāttvika, vyabhicāri-bhāvera milane  
-kṛṣṇa-bhakti-rasa haya amṛta āsvādane
+sāttvika  of the vyabhicārī-bhāvas  in the union  
+kṛṣṇa-bhakti-rasa haya amṛta āsvādane  
+of Kṛṣṇa  devotion  rasa  becomes  nectar  in the tasting
 
-(181) [not yet translated]
+(181) “together with the *sāttvika* and *vyabhicārī-bhāvas*, then by their union the *rasa* of devotion to Kṛṣṇa becomes nectar to taste.
 
 যৈছে দধি, সিতা, ঘৃত, মরীচ, কর্পূর ৷  
 মিলনে, ‘রসালা’ হয় অমৃত মধুর ॥ ১৮২ ॥
 
 yaiche dadhi, sitā, ghṛta, marīca, karpūra  
-milane, ‘rasālā’ haya amṛta madhura
+as  yogurt  sugar candy  ghee  black pepper  camphor  
+milane, ‘rasālā’ haya amṛta madhura  
+in mixing  rasālā  becomes  nectar  sweet
 
-(182) [not yet translated]
+(182) “It is like yogurt, sugar candy, ghee, black pepper and camphor: mixed together, they become *rasālā*, sweet as nectar.
 
 ভক্তভেদে রতি-ভেদ পঞ্চ পরকার ৷  
 শান্তরতি, দাস্যরতি, সখ্যরতি আর ॥ ১৮৩ ॥
@@ -1749,77 +1859,99 @@ milane, ‘rasālā’ haya amṛta madhura
 রতিভেদে কৃষ্ণভক্তিরসে পঞ্চ ভেদ ॥ ১৮৪ ॥
 
 bhakta-bhede rati-bheda pañca parakāra  
+by the difference of devotees  of rati  the difference  five  kinds  
 śānta-rati, dāsya-rati, sakhya-rati āra  
+śānta-rati  dāsya-rati  sakhya-rati  and  
 vātsalya-rati, madhura-rati, — e pañca vibheda  
-rati-bhede kṛṣṇa-bhakti-rase pañca bheda
+vātsalya-rati  madhura-rati  these  five  divisions  
+rati-bhede kṛṣṇa-bhakti-rase pañca bheda  
+by the difference of rati  in the rasa of devotion to Kṛṣṇa  five  kinds
 
-(183–184) [not yet translated]
+(183–184) “According to the difference in devotees, *rati* is of five kinds — *śānta-rati*, *dāsya-rati*, *sakhya-rati*, *vātsalya-rati* and *madhura-rati*. And according to the difference in *rati*, the *rasa* of devotion to Kṛṣṇa is of five kinds.
 
 শান্ত, দাস্য, সখ্য, বাৎসল্য, মধুর-রস নাম ৷  
 কৃষ্ণভক্তি-রস-মধ্যে এ পঞ্চ প্রধান ॥ ১৮৫ ॥
 
 śānta, dāsya, sakhya, vātsalya, madhura-rasa nāma  
-kṛṣṇa-bhakti-rasa-madhye e pañca pradhāna
+śānta  dāsya  sakhya  vātsalya  madhura-rasa  by name  
+kṛṣṇa-bhakti-rasa-madhye e pañca pradhāna  
+of devotion to Kṛṣṇa  the rasas  among  these  five  principal
 
-(185) [not yet translated]
+(185) “Their names are *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa*; these five are the principal *rasas* of devotion to Kṛṣṇa.
 
 হাস্যোঽদ্ভুতস্তথা বীরঃ করুণো রৌদ্র ইত্যপি ৷  
 ভয়ানকঃ স বীভৎস ইতি গৌণশ্চ সপ্তধা ॥ ১৮৬ ॥
 
 hāsyo ’dbhutas tathā vīraḥ  
+laughter  wonder  also  heroism  
 karuṇo raudra ity api  
+compassion  anger  thus  also  
 bhayānakaḥ sa vībhatsa  
-iti gauṇaś ca saptadhā
+fear  it  disgust  
+iti gauṇaś ca saptadhā  
+thus  secondary  and  sevenfold
 
-(186) [not yet translated]
+(186) “Laughter, wonder, heroism, compassion, anger, fear and disgust: thus the secondary *rasa* is sevenfold.” (Bhakti-rasāmṛta-sindhu, 2.5.116)
 
 হাস্য, অদ্ভুত, বীর, করুণ, রৌদ্র, বীভৎস, ভয় ৷  
 পঞ্চবিধ-ভক্তে গৌণ সপ্তরস হয় ॥ ১৮৭ ॥
 
 hāsya, adbhuta, vīra, karuṇa, raudra, vībhatsa, bhaya  
-pañca-vidha-bhakte gauṇa sapta-rasa haya
+hāsya  adbhuta  vīra  karuṇa  raudra  bībhatsa  bhaya  
+pañca-vidha-bhakte gauṇa sapta-rasa haya  
+in the fivefold  devotees  secondary  seven rasas  are
 
-(187) [not yet translated]
+(187) “*Hāsya*, *adbhuta*, *vīra*, *karuṇa*, *raudra*, *bībhatsa* and *bhaya* — these seven secondary *rasas* arise in the five kinds of devotees.
 
 পঞ্চরস ‘স্থায়ী’ ব্যাপী রহে ভক্ত-মনে ৷  
 সপ্ত গৌণ ‘আগন্তুক’ পাইয়ে কারণে ॥ ১৮৮ ॥
 
 pañca-rasa ‘sthāyī’ vyāpī rahe bhakta-mane  
-sapta gauṇa ‘āgantuka’ pāiye kāraṇe
+the five rasas  permanent  pervading  remain  in the devotee’s mind  
+sapta gauṇa ‘āgantuka’ pāiye kāraṇe  
+seven  secondary  incidental  are found  from a cause
 
-(188) [not yet translated]
+(188) “The five *rasas* are permanent (*sthāyī*) and pervade the devotee’s mind; the seven secondary ones are incidental (*āgantuka*), arising from some cause.
 
 শান্তভক্ত — নব-যোগেন্দ্র, সনকাদি আর ৷  
 দাস্যভাব-ভক্ত — সর্ব্বত্র সেবক অপার ॥ ১৮৯ ॥
 
 śānta-bhakta — nava-yogendra, sanakādi āra  
-dāsya-bhāva-bhakta — sarvatra sevaka apāra
+śānta devotees  the nine Yogendras  Sanaka and the others  and  
+dāsya-bhāva-bhakta — sarvatra sevaka apāra  
+devotees in dāsya-bhāva  everywhere  servants  countless
 
-(189) [not yet translated]
+(189) “The devotees in *śānta* are the nine Yogendras, and also Sanaka and the others; the devotees in the mood of servitude are countless servants everywhere.
 
 সখ্য-ভক্ত — শ্রীদামাদি, পুরে ভীমার্জ্জুন ৷  
 বাৎসল্য-ভক্ত — মাতা পিতা, যত গুরুজন ॥ ১৯০ ॥
 
 sakhya-bhakta — śrīdāmādi, pure bhīmārjuna  
-vātsalya-bhakta — mātā pitā, yata guru-jana
+devotees in sakhya  Śrīdāmā and others  in the city  Bhīma and Arjuna  
+vātsalya-bhakta — mātā pitā, yata guru-jana  
+devotees in vātsalya  mother  father  all  elders
 
-(190) [not yet translated]
+(190) “The devotees in *sakhya* are Śrīdāmā and the others, and in the city, Bhīma and Arjuna; the devotees in *vātsalya* are His mother and father and all His elders.
 
 মধুর-রসে ভক্তমুখ্য — ব্রজে গোপীগণ ৷  
 মহিষীগণ, লক্ষ্মীগণ, অসংখ্য গণন ॥ ১৯১ ॥
 
 madhura-rase bhakta-mukhya — vraje gopī-gaṇa  
-mahiṣī-gaṇa, lakṣmī-gaṇa, asaṅkhya gaṇana
+in madhura-rasa  among devotees  the foremost  in Vraja  the gopīs  
+mahiṣī-gaṇa, lakṣmī-gaṇa, asaṅkhya gaṇana  
+the queens  the Lakṣmīs  countless  in number
 
-(191) [not yet translated]
+(191) “In *madhura-rasa* the foremost devotees are the *gopīs* of Vraja; then come the queens and the Lakṣmīs, countless in number.
 
 পুনঃ কৃষ্ণরতি হয় দুইত প্রকার ৷  
 ঐশ্বর্য্যজ্ঞানমিশ্রা, কেবলা-ভেদ আর ॥ ১৯২ ॥
 
 punaḥ kṛṣṇa-rati haya duita prakāra  
-aiśvarya-jñāna-miśrā, kevalā-bheda āra
+again  for Kṛṣṇa  rati  is  two  kinds  
+aiśvarya-jñāna-miśrā, kevalā-bheda āra  
+with awareness of majesty  mixed  pure (kevalā)  kind  and
 
-(192) [not yet translated]
+(192) “Again, *rati* for Kṛṣṇa is of two kinds: mixed with awareness of His majesty (*aiśvarya*), and pure (*kevalā*).
 
 গোকুলে ‘কেবলা’ রতি — ঐশ্বর্য্যজ্ঞানহীন ৷  
 পুরীদ্বয়ে, বৈকুণ্ঠাদ্যে — ‘ঐশ্বর্য্য’ প্রবীণ ॥ ১৯৩ ॥
@@ -2385,3 +2517,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^24]: According to the *Amṛta-pravāha-bhāṣya*, the “elder brother” (in quotation marks in the edition) is the emperor himself: Husain Shāh regarded Sanātana as his “younger brother,” and in loving anger he says of himself that he only marches against other lands and, being a *yavana* by birth, hunts and kills many living beings and animals in the districts of Gauḍa.
 
 [^26]: According to the *Amṛta-pravāha-bhāṣya*, these words carry a hidden meaning: the king, who himself behaves like a robber, will reap the fruit of that, and the minister who has neglected his duties deserves the fruit of dismissal.
+
+[^63]: In this passage *bhaṭṭa* is Vallabha Bhaṭṭa; the *Bhaṭṭācārya* of verses 87 and 89 is Balabhadra Bhaṭṭācārya, the Lord’s companion (*Anubhāṣya* on verse 87).
+
+[^72]: The same verse as Madhya 11.192; translation as there.
