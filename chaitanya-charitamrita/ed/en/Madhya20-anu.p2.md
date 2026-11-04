@@ -130,7 +130,7 @@ The *āveśa-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 18): 
 
 ## 167
 
-> Subheading: Among the six kinds of *vilāsa* of Kṛṣṇa's form, (2) the *svayaṁ-prakāśa* is of two kinds, (a) *prābhava* and (b) *vaibhava*; in the *rāsa* — the *prābhava-prakāśa*, at the marriage with the queens — the *vaibhava-prakāśa* —
+> Subheading: Among the six kinds of *vilāsa* of Kṛṣṇa's form, (2) the *svayaṁ-prakāśa* is of two kinds, (a) *prābhava* and (b) *vaibhava*; in the *rāsa* — the *prābhava-prakāśa*, at the marriage with the queens — the *vaibhava-prakāśa*[^167-1] —
 
 ## 169
 
@@ -349,3 +349,203 @@ The four kinds of weapons are listed in order: in the lower right hand of the fo
 > Subheading: The 24 forms named in the *Siddhārtha-saṁhitā* —
 
 The twenty-four forms: 1) Vāsudeva, 2) Saṅkarṣaṇa, 3) Pradyumna, 4) Aniruddha, 5) Keśava, 6) Nārāyaṇa, 7) Mādhava, 8) Govinda, 9) Viṣṇu, 10) Madhusūdana, 11) Trivikrama, 12) Vāmana, 13) Śrīdhara, 14) Hṛṣīkeśa, 15) Padmanābha, 16) Dāmodara, 17) Puruṣottama, 18) Acyuta, 19) Nṛsiṁha, 20) Janārdana, 21) Hari, 22) Kṛṣṇa, 23) Adhokṣaja and 24) Upendra.
+
+## 224
+
+> Subheading: The difference in the weapons of the second *catur-vyūha* in Paravyoma —
+
+## 227
+
+> Subheading: A description of the differences in the weapons of the remaining 20 forms in Paravyoma —
+
+## 224–236
+
+In the *Siddhārtha-saṁhitā* (*Hari-bhakti-vilāsa* 5.176–177): “Vāsudeva is held to bear the mace, conch, disc and lotus. Keśava carries the lotus, the conch, and also the disc and mace. Nārāyaṇa always holds the conch, lotus, mace and disc. Mādhava carries the mace, the disc, and also the conch and lotus. Puruṣottama — the disc, the lotus, and also the conch and mace. Adhokṣaja holds the lotus, Kaumodakī, the conch and the disc. Saṅkarṣaṇa is known as the bearer of the mace, conch, lotus and disc. Govinda holds in His hands the disc, mace, lotus and conch. Viṣṇu bears the mace, the lotus, and also the conch and disc. Madhusūdana — the disc, the conch, and also the lotus and mace. Acyuta always holds the mace, lotus, disc and conch. Upendra carries the conch, Kaumodakī, the disc and the lotus. Pradyumna is called the bearer of the disc, conch, mace and lotus. Trivikrama holds the lotus, Kaumodakī, the disc and the conch. Vāmana always carries the conch, disc, mace and lotus. Śrīdhara carries in His hands the lotus, disc, mace and conch. Narasiṁha bears the disc, lotus, mace and conch. Janārdana holds the lotus, Sudarśana, the conch and the mace. In the hands of Aniruddha shine the disc, mace, conch and lotus. Hṛṣīkeśa holds the mace, disc, lotus and conch. Padmanābha carries the conch, the lotus, and also the disc and mace. Dāmodara always holds the lotus, disc, mace and conch. Hari carries the conch, disc, lotus and mace. Kṛṣṇa bears the conch, Kaumodakī, the lotus and the disc. These forms are to be understood by the order of the hands, beginning with the lower right.”
+
+## 237
+
+> Subheading: The differences in the weapons of the 16 forms named in the *Hayaśīrṣa-pañcarātra* —
+
+The sixteen: 1) Vāsudeva, 2) Saṅkarṣaṇa, 3) Pradyumna, 4) Aniruddha, 5) Keśava, 6) Nārāyaṇa, 7) Mādhava, 8) Govinda, 9) Viṣṇu, 10) Madhusūdana, 11) Trivikrama, 12) Vāmana, 13) Śrīdhara, 14) Hṛṣīkeśa, 15) Padmanābha and 16) Dāmodara.
+
+## 238–239
+
+In the *Hayaśīrṣa-pañcarātra* (*Hari-bhakti-vilāsa* 5.168–175): “The original form is Vāsudeva; then He brought forth Saṅkarṣaṇa… The fourfold form is called the highest; each form divides threefold, and by the division into Keśava and the others the forms are said to be twelve. He who has the lotus on the right, and above it the Pāñcajanya, the mace at the upper left and the disc below — this form of the original form is called Keśava. And where the same is done with lower and upper reversed, that form is named Nārāyaṇa; once installed, He grants enjoyment and liberation. He who has the lotus at the lower left and above it the Pāñcajanya, the mace at the upper right and the disc below — this form of the original form is called Mādhava. He who has the disc at the lower right, the mace above it, the lotus at the upper left and the conch below — this form of Saṅkarṣaṇa is called Govinda. The lotus at the upper right and the mace below: this form of Saṅkarṣaṇa is called Viṣṇu. At the upper right the conch, and below is seen the disc; at the upper left the lotus, and below is seen the mace: this form of Saṅkarṣaṇa bears the name Madhusūdana. At the upper left the disc, and below is seen the conch; the left foot reaches the limits of the universe, the right rests on the back of Śeṣa; the form is connected with the deceiving of Bali, and Vāmana stands below.[^238-1] He who has Kaumodakī at the upper left, the lotus below, the thousand-spoked disc at the upper right and the Pāñcajanya below is Vāmana; He should always be made seven *tālas* in height. Above on the right the disc, below the lotus; at His left side stands Padmā with a lotus in her hand; standing or seated, full of love and playful — this form of Pradyumna is called Śrīdhara. At the upper right the great disc, below it Kaumodakī, at the upper left the lotus, and below shines the conch: know Him to be Hṛṣīkeśa; once installed, He fulfills all desires. At the upper right the lotus and below the Pāñcajanya; at the upper left the disc, below it Kaumodakī: this form is called Padmanābha; once installed, He grants liberation. At the upper right Kaumodakī, and below the king of weapons (the disc): this form of Aniruddha is known as Dāmodara. Beside them two auspicious consorts should be made, holding a lotus and a *vīṇā*.” Thus, in order, the twelve — Keśava and the others — are the lords of the months, beginning with Mārgaśīrṣa.
+
+## 240
+
+> Subheading: The two names of the son of the King of Vraja —
+
+## 241
+
+> Subheading: The *nava-vyūha* — the surrounding circle (*āvaraṇa*) of Mathurā and Dvārakā —
+
+It should be noted here that although Varāha and Hayagrīva, who belong to this *nava-vyūha*, are *avatāras* “in the state of *vaibhava*” (*vaibhavāvastha*), they are equal to those in the state of *para* (*parāvastha*).
+
+## 242
+
+> Subheading: An introduction to the *nava-vyūha* — (*Laghu-bhāgavatāmṛta*, *Pūrva-khaṇḍa*, the account of the *nava-vyūha*: Śrī Rūpa's words) —
+
+**vāsudevādyāḥ** (Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha) **catvāraḥ** (the second *vyūha*), **nārāyaṇa-nṛsiṁhakau** (the two, Nārāyaṇa and Nṛsiṁha), **hayagrīvaḥ**, **varāhaḥ ca**, **brahmā ca** **iti** **nava** (nine forms, *vyūhas*) **uditāḥ** (are named: “By Brahmā here Hari is to be understood, by the rule stated before.” By the rule stated in the words of the *Padma Purāṇa*,[^242-1] “In some great *kalpa* a *jīva* becomes Brahmā by his worship; and somewhere here Mahā-Viṣṇu takes the position of Brahmā,” Brahmā here is to be understood as belonging to the category of the Lord).
+
+## 243
+
+> Subheading: So far the *vilāsas* of the two kinds of *prakāśa* — *prābhava* and *vaibhava* — which belong to the six kinds of *vilāsa* of Kṛṣṇa's form, have been described; now the *avatāras* of two kinds, *svāṁśa* and *śaktyāveśa*, will be described —
+
+## 244
+
+> Subheading: The *svāṁśa* is chiefly of two kinds: (1) He who presides over *prakṛti* and moves it, and (2) the many *avatāras* who protect the saintly and destroy the wicked —
+
+## 245
+
+> Subheading: The six kinds of *avatāras* —
+
+The *puruṣa-avatāras*: from Mahā-Saṅkarṣaṇa come Kāraṇodakaśāyī (*Bhāg.* 11.4.3), Garbhodakaśāyī (*Bhāg.* 1.3.2–3) and Kṣīrodakaśāyī (*Bhāg.* 1.18.21, 2.2.8, 2.8.16, 10.88.5) — these three forms.
+
+The *līlā-avatāras* (see *Bhāg.*, Canto 1, Chapter 3): 1) the Catuḥ-sana, 2) Nārada, 3) Varāha, 4) Matsya, 5) Yajña, 6) Nara-Nārāyaṇa, 7) Kapila, the son of Kardama, 8) Datta (the son of Atri — *Bhāg.* 2.7.4), 9) Hayaśīrṣa (*Bhāg.* 2.7.11), 10) Haṁsa (*Bhāg.* 2.7.19), 11) Dhruvapriya, or Pṛśnigarbha (*Bhāg.* 2.7.8), 12) Ṛṣabha, 13) Pṛthu, 14) Nṛsiṁha, 15) Kūrma, 16) Dhanvantari, 17) Mohinī, 18) Vāmana, 19) Bhārgava Paraśurāma, 20) Rāghavendra, 21) Vyāsa, 22) Balarāma, the enemy of Pralamba, 23) Kṛṣṇa, 24) Buddha, 25) Kalki. These 25 forms are the *līlā-avatāras*. They appear in almost every *kalpa* (one day of Brahmā is called a *kalpa*), and so they are also called *kalpa-avatāras*. Of them, Haṁsa and Mohinī are *avatāras* in the state of *prābhava* who remain only briefly and are not very well known. Kapila, Dattātreya, Ṛṣabha, Dhanvantari and Vyāsa — these five forms are also *avatāras* in the state of *prābhava*: they remain long, their fame is wide, and they act as sages (*munis*). And Kūrma, Matsya, Nārāyaṇa, Varāha, Hayagrīva, Pṛśnigarbha and Baladeva, the slayer of Pralamba, are *avatāras* in the state of *vaibhava*.
+
+## 246
+
+The *guṇa-avatāras* are Brahmā, Viṣṇu and Śiva (*Bhāg.* 10.88.3): these three forms.
+
+The *manvantara-avatāras* (*Bhāg.*, Canto 8, Chapters 1, 5 and 13): 1) Yajña, 2) Vibhu, 3) Satyasena, 4) Hari, 5) Vaikuṇṭha, 6) Ajita, 7) Vāmana, 8) Sārvabhauma, 9) Ṛṣabha, 10) Viṣvaksena, 11) Dharmasetu, 12) Sudhāmā, 13) Yogeśvara, 14) Bṛhadbhānu. Of these fourteen forms, Yajña and Vāmana are also *līlā-avatāras*, so the *manvantara-avatāras* are 12 forms. These fourteen *manvantara-avatāras* are also said to be *avatāras* “in the state of *vaibhava*.”
+
+The *yuga-avatāras*: (1) in Satya, “white” (*Bhāg.* 11.5.21); (2) in Tretā, “red” (*Bhāg.* 11.5.24); (3) in Dvāpara, “dark” (*śyāma*; *Bhāg.* 11.5.27); (4) in an ordinary Kali, “black in color” (*kṛṣṇa-varṇa*), and in a special Kali, “golden in color” (*pīta-varṇa*) (see *Bhāg.* 11.5.32 and 10.8.13).
+
+The *śaktyāveśa-avatāras*: (a) *bhagavad-āveśa* — Kapila and Ṛṣabhadeva; (b) *śaktyāveśa* — 1) Śeṣa in Vaikuṇṭha (the potency of serving the Lord Himself), 2) Ananta (the potency of bearing the earth), 3) Brahmā (the potency of creation), 4) the Catuḥ-sana (the potency of knowledge), 5) Nārada (the potency of *bhakti*), 6) Pṛthu (the potency of maintenance), 7) Paraśurāma (the potency of subduing the wicked) — these seven forms.
+
+## 247
+
+> Subheading: Among the six kinds of *vilāsa* of the youthful Kṛṣṇa, two kinds of *vilāsa*, or pastimes, according to the qualities of age —
+
+## 248
+
+> Subheading: The countless *avatāras* of Kṛṣṇa —
+
+*Śākhā-candra-nyāya* (the maxim of the moon on the branch): just as on level ground one points to the branch of a tree to show the place of the moon in the sky, this is only an indication of direction. Although the *avatāras* come within the range of worldly sight, they are not “mundane” (*māyika*). Their transcendental pastimes can be known only by a *jīva* who follows them submissively by the positive way (*anvaya*); they cannot be grasped by the mundane senses of people who follow the path of logic.
+
+## 249
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.3.26) —
+
+Śrī Sūta Gosvāmī, having described to the sages headed by Śaunaka the countless *avatāras* of Śrī Hari, speaks of their being beyond number:
+
+**he dvijāḥ**, **avidāsinaḥ** (undiminishing) **sarasaḥ** (from a lake) **yathā** **kulyāḥ** (small streams) **sahasraśaḥ** **syuḥ** (arise), **hi** (so too) **sattva-nidheḥ** (of the shelter of all *sattva*, the treasury of pure *sattva*) **hareḥ** **asaṅkhyeyāḥ** (innumerable) **avatārāḥ**.
+
+## 250
+
+> Subheading: (a) First of all, the three *puruṣa-avatāras*: those who lie on the Causal Ocean, the Garbha Ocean and the Milk Ocean —
+
+## 251
+
+> Subheading: (The words of the *Sātvata-tantra*) —
+
+See Ādi 5.77.
+
+## 252
+
+> Subheading: One Kṛṣṇa is the presiding Lord of the three kinds of *svarūpa-śakti* —
+
+## 253
+
+> Subheading: Kṛṣṇa Himself is the presiding Lord of the *icchā*, that is, the *ānanda-śakti*, and among the *catur-vyūha* (1) in the form of Vāsudeva He is the Lord of the *saṁvit-śakti* —
+
+## 255
+
+> Subheading: He again, in the form of Balarāma, or Saṅkarṣaṇa, is the Lord of the *sandhinī-śakti*; through the three kinds of potency the spiritual and nonspiritual worlds become manifest —
+
+## 256
+
+> Subheading: Saṅkarṣaṇa is the cause of the existence of the original Puruṣa, that is, Kāraṇaśāyī, and of the spiritual glory —
+
+## 257
+
+> Subheading: The *vilāsa* of the *cit-śakti*, the glory of that form, is manifest from Saṅkarṣaṇa —
+
+## 258
+
+> Subheading: From Saṅkarṣaṇa in the form of Ananta the abode of Goloka becomes manifest — (*Brahma-saṁhitā* 5.2) —
+
+**gokulākhyaṁ mahat padam** (the best of the abodes where the glory of His form is displayed) **sahasra-patraṁ kamalam** (is like a thousand-petaled lotus); **tat-karṇikāraṁ** (the very center of that lotus flower) **tad-dhāma** (His, Kṛṣṇa's, abode); **tat** — **anantāṁśa-sambhavam** (born of a part of Baladeva).
+
+## 259
+
+> Subheading: The refutation of the Sāṅkhya doctrine: inert *māyā*, agitated by the power of Saṅkarṣaṇa's glance, becomes active and creates the universe —
+
+## 261
+
+> Subheading: A comparison —
+
+## 259–261
+
+See Ādi 5.60–64.
+
+## 262
+
+> Subheading: Rāma and Kṛṣṇa alone are the one Father and Controller of the universe — (*Śrīmad-Bhāgavatam* 10.46.31) —
+
+At Kṛṣṇa's request the great soul Uddhava came to Vraja to relieve the grief of the residents of Vraja, born of separation from Kṛṣṇa. When he had rested, Nanda asked him about Kṛṣṇa, and Uddhava describes Kṛṣṇa's glory to Nanda and Yaśodā:
+
+**rāmaḥ mukundaḥ ca** **iti** **etau** — **viśvasya** **bīja-yonī** (the efficient and the material cause), **puruṣaḥ** (the part), **pradhānam** (the potency; that is, Pradhāna and Puruṣa too are these two: thus They are said to be the Fathers [of the world]); **imau** — **purāṇau** (beginningless, eternal; therefore) **bhūteṣu** **anvīya** (having entered — both the beings and what is conditioned by them) **vilakṣaṇasya** (manifold) **jñānasya** (the *jīva*) **ca** **īśāte** (rule; thus They are said to be the Controllers as well).
+
+## 263
+
+> Subheading: An *avatāra* is a manifestation, that is, a descent, out of mercy into the material world from the abode beyond the material world —
+
+## 264
+
+See Ādi 5.81.
+
+## 265
+
+> Subheading: Saṅkarṣaṇa is the original *puruṣa-avatāra*, who glances at *prakṛti* and sows the seed in her —
+
+## 266
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.3.1) —
+
+See Ādi 5.84.
+
+## 267
+
+> Subheading: (*Śrīmad-Bhāgavatam* 2.6.42) —
+
+See Ādi 5.83.
+
+## 268
+
+> Subheading: (1) Lying on the couch of Śeṣa in His own Vaikuṇṭha, resting on the Kāraṇārṇava, or Virajā, the indwelling Lord of *prakṛti*, the creator of the cause of the universes —
+
+## 269
+
+> Subheading: On one shore of the Virajā, or Kāraṇābdhi, is the *turīya* Paravyoma, that is, Vaikuṇṭha, the glory of spirit; on the other shore, the realm of *māyā* (*māyā-vilāsa*), that is, the mundane Devī-dhāma, the glory of the nonspiritual —
+
+## 270
+
+> Subheading: The glory of Vaikuṇṭha — (*Śrīmad-Bhāgavatam* 2.9.10) —
+
+“How does the pure *jīva*-soul come into relation with a body?” — Śrī Śukadeva answers this question of King Parīkṣit. Before telling how Bhagavān proclaimed to Brahmā the knowledge of the truth contained in the *Catuḥ-ślokī*, he describes the abode of Vaikuṇṭha that Bhagavān showed Brahmā at the beginning of creation, as the fruit of Brahmā's austerity of a thousand divine years for the sake of seeing Bhagavān.
+
+**yatra** (in Vaikuṇṭha) **rajaḥ**, **tamaḥ**, **tayoḥ miśraṁ** (mixed with them) **sattvaṁ ca** (do not operate — only pure *sattva* operates), **kāla-vikramaḥ** (and destruction does not operate); **yatra** (in Vaikuṇṭha) **māyā na** **pravartate** (is not), **apare** (passion, greed and the rest, connected with *māyā*) **na** (exist — thus) **kim uta** (what need be said?); **yatra** (in Vaikuṇṭha) **surāsurārcitāḥ** (worshiped by all, by the gods and the *daityas*) **hareḥ** **anuvratāḥ** (the associates abide).
+
+## 271
+
+> Subheading: *Māyā* in her two forms has two functions: (a) the work of *prakṛti* and (b) the work of *pradhāna* —
+
+See Ādi 5.58.
+
+## 272
+
+> Subheading: Kāraṇodaśāyī's glance at *prakṛti* —
+
+## 272–273
+
+See *Brahma-saṁhitā* 5.10–13.
+
+---
+
+[^167-1]: In the edition the Bengali text of verse 168 reads বৈভবপ্রকাশ (*vaibhava-prakāśa*), as in this subheading.
+
+[^238-1]: The form described here is Trivikrama; the name is not given in the quotation.
+
+[^242-1]: The edition reads পাদ-বচনোক্তরীত্যা; understood as পাদ্ম- (the words of the *Padma Purāṇa*).
