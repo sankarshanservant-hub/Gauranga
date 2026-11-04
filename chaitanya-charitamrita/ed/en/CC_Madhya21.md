@@ -882,11 +882,11 @@ prostrate  becoming  all  to their own homes  went
 কৃষ্ণের চরণে আসি’ কৈলা নমস্কার ॥ ৮১ ॥
 
 dekhi’ caturmukha brahmāra haila camatkāra  
-seeing  of the four-faced  Brahmā  there was  amazement  
+seeing  of the four-headed  Brahmā  there was  amazement  
 kṛṣṇera caraṇe āsi’ kailā namaskāra  
 of Kṛṣṇa  at the feet  coming  made  obeisance
 
-(81) Seeing this, the four-faced Brahmā was amazed. He came to Kṛṣṇa’s feet and offered obeisance.
+(81) Seeing this, the four-headed Brahmā was amazed. He came to Kṛṣṇa’s feet and offered obeisance.
 
 ব্রহ্মা বলে, — ‘পূর্ব্বে আমি যে নিশ্চয় করিলুঁ ৷  
 তার উদাহরণ আমি আজি ত’ দেখিলুঁ’ ॥ ৮২ ॥
@@ -1015,13 +1015,13 @@ of the three  the supreme master  Kṛṣṇa  Bhagavān Himself
 pūrva-ukta brahmāṇḍera yata dik-pāla  
 previously  mentioned  of the universes  all  guardians of the quarters  
 ananta vaikuṇṭhāvaraṇa, cira-loka-pāla  
-of the infinite  Vaikuṇṭhas and coverings  the eternal  rulers of the worlds  
+of the infinite  Vaikuṇṭhas and coverings  the age-old  guardians of the worlds  
 tāṅ-sabāra mukuṭa kṛṣṇa-pāda-pīṭha-āge  
 their all  crowns  of Kṛṣṇa  of the feet  the footstool  before  
 daṇḍavat-kāle tāra maṇi pīṭhe lāge  
 of prostration  at the time  their  jewels  on the footstool  touch
 
-(93–94) All the guardians of the quarters in the universes I spoke of before, and the eternal rulers of the infinite Vaikuṇṭhas and of the coverings of the universes, bow down before Kṛṣṇa’s footstool, and as they prostrate themselves the jewels of their crowns touch it.
+(93–94) All the guardians of the quarters in the universes I spoke of before, and the age-old guardians of the worlds in the infinite Vaikuṇṭhas and the coverings of the universes, bow down before Kṛṣṇa’s footstool, and as they prostrate themselves the jewels of their crowns touch it.
 
 মণি পীঠে ঠেকাঠেকি, উঠে ঝন্ঝনি ৷  
 পীঠের স্তুতি করে মুকুট — হেন জানি ॥ ৯৫ ॥
@@ -1047,11 +1047,11 @@ of the spiritual potency  the wealth  the six opulences  the name
 অতএব বেদে কহে ‘স্বয়ং ভগবান্’ ॥ ৯৭ ॥
 
 sei svārājya-lakṣmī kare nitya pūrṇa kāma  
-that  royal fortune  makes  eternally  fulfilled in desire  
+that  Svārājya-lakṣmī  makes  eternally  fulfilled in desire  
 ataeva vede kahe ‘svayaṁ bhagavān’  
 therefore  in the Vedas  they call (Him)  Bhagavān Himself
 
-(97) That royal fortune (*svārājya-lakṣmī*) keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him “Bhagavān Himself.”
+(97) That Svārājya-lakṣmī, the wealth of His own realm, keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him “Bhagavān Himself.”
 
 কৃষ্ণের ঐশ্বর্য্য — অপার অমৃতের সিন্ধু ৷  
 অবগাহিতে নারি’ তার ছুইলুঁ এক বিন্দু ॥ ৯৮ ॥
@@ -1644,21 +1644,28 @@ a verse  recites  His own hand  moving
 মধুগন্ধি মৃদুস্মিতমেতদহো মধুরং মধুরং মধুরং মধুরম্ ॥ ১৩৬ ॥
 
 madhuraṁ madhuraṁ vapur asya vibhor  
+sweet  sweet  the form  of this  Lord  
 madhuraṁ madhuraṁ vadanaṁ madhuram  
+sweet  sweet  the face  sweet  
 madhu-gandhi mṛdu-smitam etad aho  
-madhuraṁ madhuraṁ madhuraṁ madhuram
+honey-fragrant  the gentle smile  this  ah  
+madhuraṁ madhuraṁ madhuraṁ madhuram  
+sweet  sweet  sweet  sweet
 
-(136) [not yet translated]
+(136) “Sweet, sweet is the form of this Lord; sweet, sweet is His face, sweet indeed; and this gentle smile, fragrant with honey — ah, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
 
 সনাতন, কৃষ্ণমাধুর্য্য — অমৃতের সিন্ধু ৷  
 মোর মন — সন্নিপাতি, সব পিতে করে মতি,  
 দুর্দ্দৈব-বৈদ্য না দেয় এক বিন্দু ! ॥ ১৩৭ ॥
 
 sanātana, kṛṣṇa-mādhurya — amṛtera sindhu  
+O Sanātana  Kṛṣṇa’s sweetness  of nectar  an ocean  
 mora mana — sannipāti, saba pite kare mati,  
-durdaiva-vaidya nā deya eka bindu!
+My  mind  delirious  all  to drink  makes  resolve  
+durdaiva-vaidya nā deya eka bindu!  
+of ill fate  the physician  not  gives  one  drop
 
-(137) [not yet translated]
+(137) O Sanātana, Kṛṣṇa’s sweetness is an ocean of nectar. My mind, delirious as in a fever (*sannipāta*), resolves to drink it all — but the physician, alas, My ill fate, will not give Me a single drop!
 
 কৃষ্ণাঙ্গ — লাবণ্যপূর, মধুর হৈতে সুমধুর,  
 তাতে যেই মুখ সুধাকর ৷  
@@ -1666,11 +1673,15 @@ durdaiva-vaidya nā deya eka bindu!
 তাঁর যেই স্মিত জ্যোৎস্না-ভর ॥ ১৩৮ ॥
 
 kṛṣṇāṅga — lāvaṇya-pūra, madhura haite sumadhura,  
+Kṛṣṇa’s body  of loveliness  a flood  than sweet  sweeter  
 tāte yei mukha sudhākara  
-madhura haite sumadhura, tāhā ha-ite sumadhura,  
-tāṅra yei smita jyotsnā-bhara
+on it  which  the face  the moon  
+madhura haite sumadhura, tāhā haite sumadhura,  
+than sweet  sweeter  than that  sweeter  
+tāṅra yei smita jyotsnā-bhara  
+His  which  smile  of moonlight  the fullness
 
-(138) [not yet translated]
+(138) Kṛṣṇa’s body is a flood of loveliness, sweeter than sweetness itself. On it is His moonlike face, sweeter than sweet and sweeter still; and His smile is the full flood of that moon’s light.
 
 মধুর হৈতে সুমধুর, তাহা হৈতে সুমধুর,  
 তাহা হৈতে অতি সুমধুর ৷  
@@ -1678,35 +1689,47 @@ tāṅra yei smita jyotsnā-bhara
 দশদিক্ ব্যাপে যার পূর ॥ ১৩৯ ॥
 
 madhura haite sumadhura, tāhā haite sumadhura,  
+than sweet  sweeter  than that  sweeter  
 tāhā haite ati sumadhura  
+than that  far  sweeter  
 āpanāra eka kaṇe, vyāpe saba tribhuvane,  
-daśa-dik vyāpe yāra pūra
+by its own  one  particle  pervades  all  the three worlds  
+daśa-dik vyāpe yāra pūra  
+the ten directions  pervades  whose  flood
 
-(139) [not yet translated]
+(139) Sweeter than sweet, sweeter still, and sweeter even than that, the smile pervades all the three worlds with a single particle of itself, and its flood fills the ten directions.
 
 স্মিত কিরণ-সুকর্পূরে, পৈশে অধর-মধুরে,  
 সেই মধু মাতায় ত্রিভুবনে ৷  
 বংশীছিদ্র আকাশে, তার গুণ শব্দে পৈশে,  
 ধ্বনিরূপে পাঞা পরিণামে ॥ ১৪০ ॥
 
-smita-kiraṇa-sukarpūre, paiśe adhara-madhure,  
+smita kiraṇa-sukarpūre, paiśe adhara-madhure,  
+of the smile  the rays’  fine camphor  enters  the lips’ sweetness  
 sei madhu mātāya tribhuvane  
+that  honey  maddens  the three worlds  
 vaṁśī-chidra ākāśe, tāra guṇa śabde paiśe,  
-dhvani-rūpe pāñā pariṇāme
+of the flute’s holes  into the sky  its  quality  into sound  enters  
+dhvani-rūpe pāñā pariṇāme  
+of sound  in the form  attaining  transformation
 
-(140) [not yet translated]
+(140) The fine camphor of the rays of His smile enters the sweetness of His lips, and that honey maddens the three worlds. It enters the sky within the holes of the flute and passes into sound, the sky’s own quality, transformed into the form of melody.
 
 সে ধ্বনি চৌদিকে ধায়, অণ্ড ভেদি, বৈকুণ্ঠে যায়,  
 বলে পৈশে জগতের কাণে ৷  
 সবা মাতোয়াল করি’, বলাৎকারে আনে ধরি’,  
 বিশেষতঃ যুবতীর গণে ॥ ১৪১ ॥
 
-se dhvani caudike dhāya, aṇḍa bhedi’ vaikuṇṭhe yāya,  
+se dhvani caudike dhāya, aṇḍa bhedi, vaikuṇṭhe yāya,  
+that  sound  in all directions  runs  the universe  piercing  to Vaikuṇṭha  goes  
 bale paiśe jagatera kāṇe  
+by force  enters  of the world  the ears  
 sabā mātoyāla kari’, balātkāre āne dhari’,  
-viśeṣataḥ yuvatīra gaṇe
+all  maddened  making  by force  brings  seizing  
+viśeṣataḥ yuvatīra gaṇe  
+especially  of young women  the host
 
-(141) [not yet translated]
+(141) That sound runs in all directions; piercing the shell of the universe, it reaches Vaikuṇṭha and forces its way into the ears of the world. Maddening all, it seizes them and brings them by force — above all the young women.
 
 ধ্বনি — বড় উদ্ধত, পতিব্রতার ভাঙ্গে ব্রত,  
 পতি-কোল হৈতে টানি’ আনে ৷  
@@ -1714,11 +1737,15 @@ viśeṣataḥ yuvatīra gaṇe
 তার আগে কেবা গোপীগণে ॥ ১৪২ ॥
 
 dhvani — baḍa uddhata, pativratāra bhāṅge vrata,  
+the sound  very  insolent  of chaste wives  breaks  the vow  
 pati-kola haite ṭāni’ āne  
+from the husband’s lap  pulling  brings  
 vaikuṇṭhera lakṣmī-gaṇe, yei kare ākarṣaṇe,  
-tāra āge kebā gopī-gaṇe
+of Vaikuṇṭha  the Lakṣmīs  which  makes  attraction  
+tāra āge kebā gopī-gaṇe  
+of it  before  what to speak of  the gopīs
 
-(142) [not yet translated]
+(142) That sound is most insolent: it breaks the vow of chaste wives and pulls them from their husbands’ laps. It attracts even the Lakṣmīs of Vaikuṇṭha — what then of the gopīs?
 
 নীবি খসায় পতি-আগে, গৃহধর্ম্ম করায় ত্যাগে,  
 বলে ধরি’ আনে কৃষ্ণস্থানে ৷  
@@ -1726,23 +1753,31 @@ tāra āge kebā gopī-gaṇe
 ঐছে নাচায় সব নারীগণে ॥ ১৪৩ ॥
 
 nīvi khasāya pati-āge, gṛha-dharma karāya tyāge,  
+the waist-knot  loosens  before the husband  household duty  makes  give up  
 bale dhari’ āne kṛṣṇa-sthāne  
+by force  seizing  brings  to Kṛṣṇa’s place  
 loka-dharma, lajjā, bhaya, saba jñāna lupta haya,  
-aiche nācāya saba nārī-gaṇe
+social duty  modesty  fear  all  awareness  lost  becomes  
+aiche nācāya saba nārī-gaṇe  
+thus  makes dance  all  the women
 
-(143) [not yet translated]
+(143) It loosens the knots of their skirts before their husbands and makes them give up their household duties; seizing them by force, it brings them to Kṛṣṇa. Social duty, modesty, fear — all awareness is lost. So it makes all the women dance.
 
 কানের ভিতর বাসা করে, আপনে তাঁহা সদা স্ফুরে,  
 অন্য শব্দ না দেয় প্রবেশিতে ৷  
 আন কথা না শুনে কাণ, আন বলিতে বোলয় আন,  
 এই কৃষ্ণের বংশীর চরিতে ॥ ১৪৪ ॥
 
-kāṇera bhitara vāsā kare, āpane tāṅhā sadā sphure,  
+kānera bhitara vāsā kare, āpane tāṅhā sadā sphure,  
+of the ears  within  a dwelling  it makes  itself  there  always  sounds  
 anya śabda nā deya praveśite  
+other  sound  not  allows  to enter  
 āna kathā nā śune kāṇa, āna balite bolaya āna,  
-ei kṛṣṇera vaṁśīra carite
+other  talk  not  hear  the ears  one thing  to say  says  another  
+ei kṛṣṇera vaṁśīra carite  
+this  of Kṛṣṇa’s  flute  the conduct
 
-(144) [not yet translated]
+(144) It makes its home within the ears and ever sounds there by itself, letting no other sound enter. The ears hear no other talk; meaning to say one thing, one says another. Such is the way of Kṛṣṇa’s flute.
 
 পুনঃ কহে বাহ্যজ্ঞানে, আন কহিতে কহিলুঁ আনে,  
 কৃষ্ণ-কৃপা তোমার উপরে ৷  
@@ -1750,40 +1785,52 @@ ei kṛṣṇera vaṁśīra carite
 মোর মুখে শুনায় তোমারে ॥ ১৪৫ ॥
 
 punaḥ kahe bāhya-jñāne, āna kahite kahiluṅ āne,  
+again  says  in outer consciousness  other  to say  I said  other  
 kṛṣṇa-kṛpā tomāra upare  
+Kṛṣṇa’s mercy  you  upon  
 mora citta-bhrama kari’, nijaiśvarya-mādhurī,  
-mora mukhe śunāya tomāre
+My  bewilderment of mind  making  of His own majesty  the sweetness  
+mora mukhe śunāya tomāre  
+through My  mouth  makes hear  you
 
-(145) [not yet translated]
+(145) Then, returning to outer consciousness, the Lord said again, “Meaning to say one thing, I have said another. Kṛṣṇa’s mercy is upon you: bewildering My mind, He has made you hear the sweetness of His own majesty through My mouth.
 
 আমি ত’ বাউল, আন কহিতে আন কহি ৷  
 কৃষ্ণের মাধুর্য্যস্রোতে আমি যাই বহি’ ॥ ১৪৬ ॥
 
 āmi ta’ bāula, āna kahite āna kahi  
-kṛṣṇera mādhurya-srote āmi yāi vahi’
+I  indeed  a madman  other  to say  other  I say  
+kṛṣṇera mādhurya-srote āmi yāi vahi’  
+of Kṛṣṇa’s  in the stream of sweetness  I  go  carried away
 
-(146) [not yet translated]
+(146) I am a madman: meaning to say one thing, I say another. I am carried away in the stream of Kṛṣṇa’s sweetness.”
 
 তবে মহাপ্রভু ক্ষণেক মৌন করি’ রহে ৷  
 মনে এক করি’ পুনঃ সনাতনে কহে ॥ ১৪৭ ॥
 
 tabe mahāprabhu kṣaṇeka mauna kari’ rahe  
-mane eka kari’ punaḥ sanātane kahe
+then  Mahāprabhu  for a moment  silence  keeping  remains  
+mane eka kari’ punaḥ sanātane kahe  
+the mind  one  making  again  to Sanātana  speaks
 
-(147) [not yet translated]
+(147) Then Mahāprabhu remained silent for a moment; collecting His mind, He spoke to Sanātana again.
 
 কৃষ্ণের মাধুরী আর মহাপ্রভুর মুখে ৷  
 ইহা যেই শুনে, সেই ভাসে প্রেমসুখে ॥ ১৪৮ ॥
 
 kṛṣṇera mādhurī āra mahāprabhura mukhe  
-ihā yei śune, sei bhāse prema-sukhe
+Kṛṣṇa’s  sweetness  and  from Mahāprabhu’s  mouth  
+ihā yei śune, sei bhāse prema-sukhe  
+this  whoever  hears  he  floats  in the happiness of love
 
-(148) [not yet translated]
+(148) Whoever hears this — Kṛṣṇa’s sweetness from Mahāprabhu’s own mouth — floats in the happiness of love.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৪৯ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(149) [not yet translated]
+(149) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
