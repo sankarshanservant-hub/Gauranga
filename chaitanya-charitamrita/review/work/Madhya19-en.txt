@@ -291,7 +291,7 @@ w: who  by ignorance maddened  the world  merciful
 w: curing  yet  made  maddened
 w: with the nectar of the treasure of His own love  the doer of wondrous deeds  I
 w: Śrī Kṛṣṇa Caitanya  to Him  take refuge
-tr: “I take refuge in Śrī Kṛṣṇa Caitanya, the doer of wondrous deeds, who in His mercy cured the world maddened by ignorance and then made it mad with the nectar of the treasure of His own love.” (Govinda-līlāmṛta, 1.2)
+tr: “I take refuge in Śrī Kṛṣṇa Caitanya, the doer of wondrous deeds, who in His mercy cured the world maddened by ignorance and then made it mad with the nectar of His own treasure of love.” (Govinda-līlāmṛta, 1.2)
 
 ## 55
 w: then  Mahāprabhu  him  near  seated
@@ -317,6 +317,7 @@ tr: The brāhmaṇa asked the Lord to take His midday meal, and Rūpa Gosvāmī 
 w: the Bhaṭṭācārya  the two  brothers  invitation  made
 w: of the Lord’s  remnants  of prasāda the plate  the two brothers  received
 tr: The Bhaṭṭācārya invited the two brothers as well, and they received the plate with the remnants of the Lord’s prasāda.
+fn: The Bhaṭṭācārya here is evidently Balabhadra Bhaṭṭācārya, the Lord’s companion on the way to Vṛndāvana, who is so named in verse 87 (edition heading: “Balabhadra cooks the meal”); the host is the brāhmaṇa from the South (44).
 
 ## 60
 w: at Triveṇī  the Lord’s  of the lodging  the place
@@ -325,13 +326,14 @@ tr: The Lord’s lodging was at Triveṇī, and the two brothers took lodging ne
 
 ## 61
 w: at that time  Vallabha Bhaṭṭa  lived  in the village of Āḍāila
-w: Mahāprabhu  has come  hearing  came  to Him
+w: ‘Mahāprabhu  has come’  hearing  came  to Him
 tr: At that time Vallabha Bhaṭṭa was living in the village of Āḍāila. Hearing that Mahāprabhu had come, he came to Him.
+fn: *Amṛta-pravāha-bhāṣya*: Vallabha Bhaṭṭa was a Vaiṣṇava paṇḍita who later became an ācārya of the Viṣṇusvāmī sampradāya; he is known as Vallabhācārya. Āḍāila is the village of Aḍeli on the far bank of the Yamunā, about a mile from the confluence.
 
 ## 62
 w: he  prostrated obeisances  made  the Lord  embraced
 w: between the two  talk of Kṛṣṇa  there was  for some time
-tr: He offered prostrated obeisances, and the Lord embraced him. Then the two of them spoke about Kṛṣṇa for some time.
+tr: He fell before the Lord in obeisance, and the Lord embraced him. Then the two of them spoke about Kṛṣṇa for some time.
 
 ## 63
 w: in the talk of Kṛṣṇa  the Lord’s  great love  surged up
@@ -363,6 +365,7 @@ tr: When Bhaṭṭa went to embrace them, they both drew far back: “I am untou
 w: Bhaṭṭa’s  astonishment  arose  the Lord’s  joyful  mind
 w: to Bhaṭṭa  told  the Lord  about him  an account
 tr: Bhaṭṭa was astonished, and the Lord was pleased at heart. Then the Lord told Bhaṭṭa about Rūpa:
+fn: Edition heading: “Seeing Vallabha, proud of his noble family and learning, as an outsider, the Lord gives him worldly honour — that is, He misleads him.”
 
 ## 69
 w: him  not  touch  he  by birth  very low
@@ -377,7 +380,7 @@ tr: Hearing the name of Kṛṣṇa constantly from Rūpa’s mouth, and graspin
 ## 71
 w: of both  in the mouths  the name of Kṛṣṇa  is doing  dance
 w: these  two  ‘lowly’  are not  are  ‘the best of all’
-tr: “The name of Kṛṣṇa is dancing in the mouths of both. These two are not ‘lowly’ — they are ‘the best of all.’
+tr: “The name of Kṛṣṇa is dancing in the mouths of both. These two are not ‘lowly’ — they are ‘the best of all.’”
 
 ## 72
 w: oh  how wonderful  a dog-eater  therefore  most worthy
@@ -397,7 +400,8 @@ w: pure  by the blazing fire of true devotion
 w: burned is the taint of low birth
 w: a dog-cooker  even  by the wise  is praised
 w: not  a knower of the Vedas  even  an atheist
-tr: “One in whom the blazing fire of true devotion has burned away the taint of low birth is pure; even if born a dog-cooker, he is praised by the wise. But an atheist is not, even if he knows the Vedas.” (Hari-bhakti-sudhodaya, 3.11)
+tr: “One in whom the blazing fire of true devotion has burned away the taint of low birth is pure; even if born a dog-cooker, he is praised by the wise. But an unbeliever is not praised, even if he knows the Vedas.” (Hari-bhakti-sudhodaya, 3.11)
+fn: *Anubhāṣya*: the unbeliever (*nāstika*) is one who has turned away from the service of Kṛṣṇa; such a brāhmaṇa, even if he has mastered the Vedas, is to be avoided by one who seeks the highest goal.
 
 ## 75
 w: of one devoid of devotion to the Lord
@@ -445,6 +449,7 @@ tr: Although in Bhaṭṭa’s presence the Lord had steadied His mind, His irre
 w: the place and the people  seeing  Mahāprabhu  composed  became
 w: at Āḍāila’s  ghāṭa  the boat  coming  landed
 tr: Considering the place and the people, Mahāprabhu became composed, and the boat came to land at the ghāṭa of Āḍāila.
+fn: *Anubhāṣya*: “the place and the people” (*deśa-pātra*) — on a boat that was nearly sinking there was no room for dancing; moreover, beside a paṇḍita poor in prema such as Vallabha Dīkṣita, the sāttvika-bhāvas do not blossom. *Amṛta-pravāha-bhāṣya*: that place was almost devoid of prema, and beside Him was Vallabha Bhaṭṭa, much given to argument; seeing this, Mahāprabhu restrained Himself.
 
 ## 84
 w: out of fear  Bhaṭṭa  near  stays  the midday bath  having Him take
@@ -464,7 +469,8 @@ tr: With his whole family he placed that water on his head, and he dressed the L
 ## 87
 w: with sandal paste, flowers, incense and lamps  great worship  made
 w: to the Bhaṭṭācārya  respect  showing  cooking  had done
-tr: He worshiped the Lord grandly with sandal paste, flowers, incense and lamps, and with due respect he had Balabhadra Bhaṭṭācārya do the cooking.
+tr: He worshipped the Lord grandly with sandal paste, flowers, incense and lamps, and with due respect he had Balabhadra Bhaṭṭācārya do the cooking.
+fn: The name of Balabhadra follows the edition’s heading: “Worship of the Lord; Balabhadra cooks the meal.”
 
 ## 88
 w: the meal  had taken  the Lord  with affection  with care
@@ -490,6 +496,7 @@ tr: The Lord sent him to take his meal, and after eating he came back to the Lor
 w: at that time  came  Raghupati  Upādhyāya
 w: of Tirhut  a paṇḍita  a great  Vaiṣṇava  a noble soul
 tr: At that time Raghupati Upādhyāya arrived, a paṇḍita from Tirhut, a great Vaiṣṇava and a noble soul.
+fn: *Anubhāṣya*: *tiruhitā* means a native of Tirhut (today the districts of Saran, Champaran, Muzaffarpur and Darbhanga). *Amṛta-pravāha-bhāṣya*: Tirhut is the land of Mithilā; several verses by Raghupati Upādhyāya are included in the *Padyāvalī*.
 
 ## 93
 w: coming  he  made  the Lord’s  feet  obeisance
@@ -499,7 +506,7 @@ tr: He came and bowed at the Lord’s feet, and the Lord said to him: “May you
 ## 94
 w: hearing  joyful  became  Upādhyāya’s  mind
 w: the Lord  to him  said  tell  of Kṛṣṇa  a description
-tr: Hearing this, Upādhyāya was delighted at heart. The Lord said to him: “Tell Me something describing Kṛṣṇa.”
+tr: Hearing this, Upādhyāya was delighted at heart. The Lord said to him: “Describe Kṛṣṇa to Me.”
 
 ## 95
 w: of his own composition  about Kṛṣṇa’s pastimes  a verse  he recited
@@ -520,7 +527,7 @@ fn: The lines of this verse follow the order of the Gauḍīya Maṭha edition (
 ## 98
 w: to whom  addressing  to tell  am I able  now  who  or  belief  would come to
 w: in the grove of the daughter of the Sun  the lover of the young cowherd wives  Brahman
-tr: “To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamunā, Brahman is the lover of the young cowherd wives?” (Padyāvalī, 98)
+tr: “To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamunā, Brahman is the lover of the young cowherd girls?” (Padyāvalī, 98)
 
 ## 99
 w: the Lord  says  speak  he  recites  Kṛṣṇa’s pastimes
