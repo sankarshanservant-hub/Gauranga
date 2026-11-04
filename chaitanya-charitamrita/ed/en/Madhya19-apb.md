@@ -104,7 +104,7 @@ If the hundredth part of the tip of a hair is divided many hundreds of times, th
 
 ## 142
 
-Some manuscripts give it in full, as Śrī Bhagavān's words to Uddhava in the *Śrīmad-Bhāgavatam*: “Among those possessing qualities I am the *sūtra*, among the great I am the *mahat*, among the subtle I am the *jīva*, among the hard to conquer I am the mind.” Among the subtle I (Bhagavān) am the “*jīva*” (a manifestation of oneness and difference).
+Some manuscripts read thus, with Śrī Bhagavān's words to Uddhava in the *Śrīmad-Bhāgavatam*: “Among those possessing qualities I am the *sūtra*, among the great I am the *mahat*, among the subtle I am the *jīva*, among the hard to conquer I am the mind.” Among the subtle I (Bhagavān) am the “*jīva*” (a manifestation of oneness and difference).
 
 ## 143
 

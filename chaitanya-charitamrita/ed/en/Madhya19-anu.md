@@ -546,7 +546,7 @@ Muṇḍaka Upaniṣad 3.1.9: “This *ātmā* is minute.”
 
 ## 140
 
-> Subheading: Scriptural evidence — (a *śloka* quoted in the commentary on the *Śruti-stuti*) —
+> Subheading: Scriptural evidence — (a *śloka* quoted in the commentary on the *Śruti-stava*) —
 
 **ayaṁ** **jīvaḥ** **hi** **keśāgra-śata-bhāgasya** (of the extremely fine tip of a hair divided into a hundred parts, and then of such a supremely fine part) **śatāṁśa-sadṛśātmakaḥ** (like a hundredth part of it) **sūkṣma-svarūpaḥ** (by nature an atomic consciousness) **cit-kaṇaḥ** (a minute particle of spirit) **saṁkhyātītaḥ** (countless).
 
@@ -600,7 +600,7 @@ Only a devotee of Kṛṣṇa is free from all desires and devoted to Kṛṣṇ
 
 > Subheading: Scriptural evidence — (*Śrīmad-Bhāgavatam* 6.14.5) —
 
-**muktānām** (of those free from the bonds of ignorance) **siddhānām** (of those perfected in *yoga*) **koṭiṣu** **api** **madhye** (even among millions) **praśāntātmā** (with a mind free from desires) **nārāyaṇa-parāyaṇaḥ** **sudurlabhaḥ**. The words of the *Tantra*: “Liberation is easily obtained through knowledge, and enjoyment through piety such as sacrifice. But this devotion to Hari is very hard to obtain even through thousands of practices.”
+**muktānām** (of those free from the bonds of ignorance) **siddhānām** (of those perfected in *yoga*) **koṭiṣu** **api** (even among millions) **praśāntātmā** (with a mind free from desires) **nārāyaṇa-parāyaṇaḥ** **sudurlabhaḥ**. The words of the *Tantra*: “Liberation is easily obtained through knowledge, and enjoyment through piety such as sacrifice. But this devotion to Hari is very hard to obtain even through thousands of practices.”
 
 ---
 
