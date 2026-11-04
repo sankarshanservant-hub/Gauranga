@@ -208,9 +208,10 @@ tr: He is always attached to describing Kṛṣṇa’s qualities, and he always
 ## 32
 w: sweet  sweet  the form  of this  Lord
 w: sweet  sweet  the face  sweet
-w: fragrant with honey  the soft smile  this  oh
+w: honey-fragrant  the gentle smile  this  ah
 w: sweet  sweet  sweet  sweet
-tr: “Sweet, sweet is the form of this Lord; sweet, sweet is His face — so sweet! And this soft smile, fragrant with honey — oh, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
+tr: “Sweet, sweet is the form of this Lord; sweet, sweet is His face, sweet indeed; and this gentle smile, fragrant with honey — ah, it is sweet, sweet, sweet, sweet!” (Kṛṣṇa-karṇāmṛta, 92)
+fn: The same verse as Madhya 21.136 (there the lines are printed in pairs); translation as there. The edition’s heading: “a description of the sweetness of Kṛṣṇa’s qualities”.
 
 ## 33
 w: when I  on the bank of the Yamunā
@@ -223,11 +224,13 @@ tr: “O lotus-eyed Lord, when shall I dance on the bank of the Yamunā, chantin
 w: for Kṛṣṇa  of rati  the signs  these  I have given  the description
 w: of love for Kṛṣṇa  the signs  now  hear  Sanātana
 tr: I have described these signs of *rati* for Kṛṣṇa. Now, Sanātana, hear the signs of love for Kṛṣṇa (*kṛṣṇa-prema*).
+fn: The edition’s heading: “so far the signs of *bhāva-bhakti* have been described; now the signs of (3) *prema-bhakti*”.
 
 ## 35
 w: in whose  heart  love for Kṛṣṇa  makes  its rising
 w: his  words  actions  ways  even the wise  not  understand
 tr: Even the wise cannot understand the words, actions and ways of one in whose heart love for Kṛṣṇa has risen.
+fn: *Anubhāṣya*: the words, actions and gestures (*mudrā*) of a devotee in whom *prema* has awakened cannot be understood even by a discerning *paṇḍita*.
 
 ## 36
 w: of the fortunate  this  new prema
@@ -242,31 +245,37 @@ w: in whom love has arisen  with melted heart  loudly
 w: laughs  then  weeps  cries out  sings
 w: like a madman  dances  beyond the world
 tr: “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+fn: The same verse as Ādi 7.94 (= Madhya 9.262); translation as there.
 
 ## 38
 w: prema  gradually  increasing  becomes  sneha  māna  praṇaya
 w: rāga  anurāga  bhāva  mahābhāva  are
 tr: As *prema* gradually increases, it becomes *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.
+fn: The second line is the same as in Madhya 19.178, and the first has the same sense; the translation follows Madhya 19.178 with “gradually”.
 
 ## 39
 w: as  the seed  the sugarcane  the juice  molasses  raw sugar  refined sugar
 w: white sugar  sugar candy  rock candy  pure rock candy  and
 tr: It is like the seed, the sugarcane, its juice, molasses, raw sugar, refined sugar, white sugar, sugar candy, rock candy and pure rock candy.
+fn: As Madhya 19.179, except for the last item: there *uttama-michari*, “the finest rock candy”, here *śuddha-michari*, “pure rock candy”.
 
 ## 40
 w: these  as  step by step  become pure  step by step  increases  the taste
 w: of rati, prema and the rest  so  increases  the relish
-tr: Just as these become purer step by step and their taste increases, so the relish of *rati*, *prema* and the rest increases.
+tr: Just as these become purer step by step and their taste increases, so the relish of *rati*, *prema* and the stages beyond grows ever richer.
+fn: *Anubhāṣya* (heading): *rati* is the seed, and *prema* has stages of thickening; as they differ, so does the fullness of the taste of *rasa*.
 
 ## 41
 w: by the difference of those qualified  rati  five  kinds
 w: śānta  dāsya  sakhya  vātsalya  madhura  and
 tr: According to the differences among those qualified for it, *rati* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.
+fn: *Madhura* is the love of the beloveds; in the *gopīs* it is *parakīyā*, so it is not rendered as “conjugal”.
 
 ## 42
 w: these  five  from sthāyī-bhāvas  become  five  rasas
 w: in which rasa  the devotee  happy  Kṛṣṇa  becomes  controlled
 tr: These five *sthāyī-bhāvas* become the five *rasas*, in which the devotee is happy and Kṛṣṇa comes under his control.
+fn: *Anubhāṣya*: the *sthāyī-bhāva* subdues the *bhāvas* both favourable and hostile to it and reigns like a good king; here the *sthāyī-bhāva* is *rati* whose object is Kṛṣṇa.
 
 ## 43
 w: prema and the rest  sthāyī-bhāva  with the ingredients  on meeting
@@ -287,21 +296,25 @@ tr: When yogurt is mixed with sugar, black pepper and camphor, it becomes the dr
 w: two kinds  vibhāva  ālambana  uddīpana
 w: the sound of the flute and the rest  uddīpana  Kṛṣṇa and others  ālambana
 tr: *Vibhāva* is of two kinds: the support (*ālambana*) and the stimulus (*uddīpana*). The sound of the flute and the like are *uddīpana*; Kṛṣṇa and others are *ālambana*.
+fn: *Anubhāṣya*: *ālambana* — Kṛṣṇa as the object (*viṣaya*) of *rati* and His devotee as its abode (*āśraya*); *uddīpana* — His qualities, deeds, dress, smile, fragrance, flute, horn, ankle bells, conch, footprints, holy places, *tulasī*, devotees, the day of Hari and the like.
 
 ## 47
 w: anubhāva  smiling  dancing  singing and the rest  outward signs
 w: being stunned and the rest  sāttvika  of anubhāvas  among
 tr: The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* emotions, are counted among the *anubhāvas*.
+fn: *Anubhāṣya*: the *anubhāvas* reveal the *bhāvas* dwelling in the heart — dancing, rolling on the ground, singing, loud weeping, roaring, heavy breathing and the like.
 
 ## 48
 w: despondency, joy and the rest  thirty-three  vyabhicārī
 w: all  combining  rasa  becomes  wonder-producing
 tr: Despondency (*nirveda*), joy (*harṣa*) and the rest are the thirty-three *vyabhicārī-bhāvas*. When all these combine, *rasa* becomes wonderful.
+fn: *Anubhāṣya*: the *vyabhicārīs* set the *bhāva* in motion (hence they are also called *sañcārī*); like waves they rise and sink in the nectar ocean of the *sthāyī-bhāva*, swell it and become one with it.
 
 ## 49
 w: of five kinds  rasa  śānta  dāsya  sakhya  vātsalya
 w: in madhura-rasa  of the amorous mood  predominance
 tr: *Rasa* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. In *madhura-rasa* the amorous mood (*śṛṅgāra*) predominates.
+fn: *Śṛṅgāra* — the love of the beloveds of Vraja; the verse does not speak here of its superiority over the other *rasas*.
 
 ## 50
 w: in śānta-rasa  śānti-rati  prema  up to  goes
@@ -322,6 +335,7 @@ tr: The *rasas* beginning with *śānta* have two divisions, union (*yoga*) and 
 w: rūḍha  adhirūḍha  bhāva  only  in madhura
 w: of the queens  rūḍha  adhirūḍha  in the host of gopīs
 tr: The *bhāvas* called *rūḍha* and *adhirūḍha* are found only in *madhura-rasa*: *rūḍha* in the queens, and *adhirūḍha* in the *gopīs*.
+fn: *Anubhāṣya* (heading): in Dvārakā, in *svakīyā madhura-rati* full of majesty, there is *rūḍha-mahābhāva*; in Vṛndāvana, in pure *parakīyā madhura-rati* full of sweetness, *adhirūḍha-mahābhāva*. The verse number is not printed in the edition (only “॥”).
 
 ## 54
 w: adhirūḍha-mahābhāva  two  indeed  kinds
@@ -331,27 +345,31 @@ tr: *Adhirūḍha-mahābhāva* is of two kinds: in union it is called *mādana*,
 ## 55
 w: in mādana  kissing and the rest  are  endless  varieties
 w: udghūrṇā  citra-jalpa  in mohana  two  divisions
-tr: In *mādana* there are endless varieties, such as kissing. *Mohana* has two divisions: *udghūrṇā* and *citra-jalpa*.
+tr: In *mādana* there are endless varieties, such as kissing. *Mohana* has two divisions: bewildered agitation (*udghūrṇā*) and wondrous talk (*citra-jalpa*).
 
 ## 56
 w: of citra-jalpa  ten  parts  prajalpa and the rest  by name
 w: of the Bhramara-gītā  ten  verses  of this  are the evidence
 tr: *Citra-jalpa* has ten parts, named *prajalpa* and so on. The ten verses of the *Bhramara-gītā*, the Song to the Bee, are the evidence of this.
+fn: *Amṛta-pravāha-bhāṣya*: the ten kinds are *prajalpa*, *parijalpa*, *vijalpa*, *ujjalpa*, *sañjalpa*, *avajalpa*, *abhijalpa*, *ājalpa*, *pratijalpa* and *sujalpa*; the *Bhramara-gītā* is Śrīmad-Bhāgavatam, Canto 10, chapter 47.
 
 ## 57
 w: udghūrṇā  helpless actions  divine madness  by name
 w: in separation  Kṛṣṇa’s appearing  oneself  as Kṛṣṇa  thinking
-tr: *Udghūrṇā* and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before her, and she even takes herself to be Kṛṣṇa.
+tr: Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before her, and she even takes herself to be Kṛṣṇa.
+fn: The edition’s heading: “the last state of *divyonmāda* in separation — the highest of all states, supremely wonderful, wholly made of transcendental service to Kṛṣṇa”.
 
 ## 58
 w: union  separation  by the division  two kinds  śṛṅgāra
 w: of union  endless  aspects  no  end  of it
 tr: *Śṛṅgāra* is of two kinds, union (*sambhoga*) and separation (*vipralambha*). Union has endless aspects; there is no end to them.
+fn: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): without separation union does not reach its fullness; separation nourishes union.
 
 ## 59
 w: separation  four kinds  pūrva-rāga  māna
 w: called pravāsa  and  called prema-vaicittya
 tr: Separation (*vipralambha*) is of four kinds: longing before meeting (*pūrva-rāga*), loving pique (*māna*), separation by distance (*pravāsa*) and the feeling of separation even in the beloved’s presence (*prema-vaicittya*).
+fn: *Anubhāṣya*: *māna* is a *bhāva* of the hero and heroine who love each other which, even when they are together, prevents the embraces and glances they long for; *prema-vaicittya* is the pain that, from the nature of the highest *prema*, comes even in the beloved’s presence, from fear of separation.
 
 ## 60
 w: in Rādhikā and others  pūrva-rāga  well known  pravāsa  māna
