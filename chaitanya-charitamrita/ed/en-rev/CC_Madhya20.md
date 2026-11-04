@@ -1505,7 +1505,7 @@ in the Vedic  scriptures  are told  sambandha  abhidheya  prayojana
 kṛṣṇa, kṛṣṇa-bhakti, prema, — tina mahā-dhana  
 Kṛṣṇa  devotion to Kṛṣṇa  love  three  great treasures
 
-(143) The Vedic scriptures speak of *sambandha*, *abhidheya* and *prayojana* — Kṛṣṇa, devotion to Kṛṣṇa and love: these are the three great treasures.
+(143) The Vedic scriptures speak of *sambandha*, *abhidheya* and *prayojana*: Kṛṣṇa, devotion to Kṛṣṇa and love — these are the three great treasures.
 
 বেদাদি সকল শাস্ত্রে কৃষ্ণ — মুখ্য সম্বন্ধ ৷  
 তাঁর জ্ঞানে আনুষঙ্গে যায় মায়াবন্ধ ॥ ১৪৪ ॥
@@ -1760,11 +1760,11 @@ by one portion  I stand  the universe
 একই বিগ্রহে তাঁর অনন্ত স্বরূপ ॥ ১৬৪ ॥
 
 ‘bhaktye’ bhagavānera anubhava — pūrṇa-rūpa  
-by devotion  of Bhagavān  the realization  in His full form  
+by devotion  of Bhagavān  the realisation  in His full form  
 eka-i vigrahe tām̐ra ananta svarūpa  
 in one and the same  form  His  infinite  forms
 
-(164) Through devotion Bhagavān is realized in His full form: in His one form are His infinite forms.
+(164) Through devotion Bhagavān is realised in His full form: in His one form are His infinite forms.
 
 স্বয়ংরূপ, তদেকাত্মরূপ, আবেশ — নাম ৷  
 প্রথমেই তিনরূপে রহেন ভগবান্ ॥ ১৬৫ ॥
