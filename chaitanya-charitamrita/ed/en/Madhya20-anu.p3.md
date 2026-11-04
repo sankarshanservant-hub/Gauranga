@@ -334,6 +334,72 @@ Parīkṣit asked about the *dharma* of human beings in the sinful Kali-yuga and
 
 **kṛte** (in Satya-yuga) **dhyāyan** (by performing meditation), **tretāyāṁ yajñaiḥ yajan** (by satisfying the Lord of sacrifice with sacrifices), **dvāpare arcayan** (by worshipping the Deity and the like) **yat** (the fruit) **āpnoti** (one obtains), **kalau keśavaṁ saṅkīrtya** (by chanting together with many) **tat** (all of it — the fruit that is Bhagavān's satisfaction) **āpnoti**.
 
+## 345
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.5.36)
+
+Nimi, the king of Videha, asked: “In which *yuga*, assuming which color, and by what methods is Śrī Bhagavān worshipped?” In reply Karabhājana Ṛṣi, one of the nine Yogendras, bows down to Śrī Gaurasundara — the source of the avatāras, who will appear in Kali-yuga — and glorifies the quality and greatness of Kali-yuga.
+
+**yatra** (in Kali) **saṅkīrtanena** (by the practice of devotion called *kīrtana*) **eva** **sarvaḥ svārthaḥ** (every goal of life) **abhilabhyate** (is attained in full; therefore) **guṇa-jñāḥ** (those who know the merit of Kali) **āryāḥ** (great souls) **sāra-bhāginaḥ** (who take the share of merit) **taṁ** (that Kali) **sabhājayanti** (honor).
+
+## 347
+
+> Subheading: Sanātana, who knows the truth of Gaura's pastimes and is expert in the worship of Kṛṣṇa —
+
+## 348
+
+> Subheading: The wise one to the Wise One —
+
+## 349
+
+> Subheading: A question, to learn from the Lord's own holy lips about His avatāra —
+
+## 350
+
+> Subheading: The Lord indicates the marks of the *yuga-avatāra* of Kali —
+
+## 351
+
+> Subheading: Knowledge of Bhagavān is gained only by the light of scripture —
+
+## 352
+
+> Subheading: Indirect speech is dear to the avatāras; the knowers of truth point to the Reality by its characteristics —
+
+## 353
+
+> Subheading: Viṣṇu is recognized by power unattainable for the *jīva* and immeasurable — (*Śrīmad-Bhāgavatam* 10.10.34)
+
+When Kṛṣṇa, showing mercy, broke the two *yamala-arjuna* trees, Kuvera's two sons, Nalakūvara and Maṇigrīva, offer prayers to Kṛṣṇa.
+
+**dehiṣu** (among the *jīvas*) **asaṅgataiḥ** (unattainable) **atulyātiśayaiḥ** (that have no equal or superior) **taiḥ taiḥ vīryaiḥ** (by displays of power) **śarīriṣu** (in the world, among the embodied *jīvas*) **aśarīriṇaḥ** (though You have no material body) **yasya** (Your) **avatārāḥ** **jñāyante**.
+
+## 354
+
+> Subheading: The definition of the *svarūpa-* and *taṭastha-lakṣaṇa* —
+
+## 355
+
+*Ākṛti*, *prakṛti* and *svarūpa* — these three are the “*svarūpa*,” or “principal” (*mukhya*), characteristic. Knowing by deeds is the “*taṭastha*,” or “secondary” (*gauṇa*), characteristic.
+
+## 356
+
+> Subheading: In the *maṅgalācaraṇa* at the beginning of the *Śrīmad-Bhāgavatam* (1.1.1) the Supreme Lord Kṛṣṇa is defined by His *svarūpa-* and *taṭastha-lakṣaṇas* —
+
+In the *Bhāgavatam* verse *janmādy asya*, the two words *satyam* and *param* give the characteristic of His true nature (*svarūpa-lakṣaṇa*). The creation, maintenance and dissolution of the universe, the revealing of knowledge of the Reality in Brahmā's heart, His knowing every purpose (*arthābhijñatā*) and the like are the *taṭastha-lakṣaṇa*. By expressing both, [Vyāsa] defined the Supreme Lord.
+
+## 357
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.1.1)
+
+## 358
+
+> Subheading: In this first verse — (1) the characteristic of the Supreme Lord's true nature —
+
+## 359
+
+> Subheading: (2) The *taṭastha-lakṣaṇa* —
+
 ---
 
 [^276-1]: *Sāṅkhya-kārikā* 25.

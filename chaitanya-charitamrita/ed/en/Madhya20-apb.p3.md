@@ -70,6 +70,18 @@ Obeisances to Bhagavān Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.
 
 O King, Kali, the treasury of faults, has one great quality: in Kali-yuga, by *kīrtana* of Kṛṣṇa alone, the *jīva* is freed from the tightest bondage. The fruit that was gained by meditating on Viṣṇu in Satya-yuga, by worshipping with sacrifices in Tretā-yuga and by serving the Deity in Dvāpara-yuga — in the age of Kali all those fruits are gained through *hari-kīrtana*.
 
+## 345
+
+The Āryans who know merit and grasp the essence call Kali “blessed” precisely because in the age of Kali every goal is attained by *saṅkīrtana* alone.
+
+## 353
+
+The Supreme Lord has no material body; His body is transcendental, and so the truth of His avatāras is hard for the *jīva* to grasp. Your avatāras are known to some extent by the matchless, surpassing and unearthly power (*vīrya*) they display.
+
+## 355
+
+*Ākṛti*: shape; *prakṛti*: nature; *svarūpa*: form (*mūrti*); *svarūpa-lakṣaṇa*: the activity of that form (*vigraha*); *taṭastha-lakṣaṇa*: knowing by deeds.
+
 ---
 
 [^307-308-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
