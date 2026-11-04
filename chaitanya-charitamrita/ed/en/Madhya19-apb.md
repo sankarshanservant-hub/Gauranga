@@ -70,6 +70,30 @@ To whom can I say it, and who now will believe, that in the groves of the Sun's 
 
 Śyāma's form is the best of forms, Madhupurī the best of cities, the age of *kaiśora* is the one to meditate upon, and the original *rasa*, that is, *śṛṅgāra*, is the best of *rasas*.
 
+## 115
+
+*Prānta*: the limit.
+
+## 119
+
+Over time the account of the pastimes of Vṛndāvana had been lost. To spread those pastimes in a special way, Śrī Gaurāṅgadeva there and then anointed Śrī Rūpa and Śrī Sanātana with the nectar of His mercy.
+
+## 120
+
+Śrī Rūpa had previously been tightly bound by many qualities dear to him, yet he became free from household life. Gaurāṅgadeva Himself, who is like *rasa*, intangible yet the supreme embodied one, favored him in Prayāga together with his younger brother Anupama with loving conversations and firm embraces.
+
+## 121
+
+Śrī Rūpa Gosvāmī is dear to the Lord by his very nature, beloved by nature, *prema* embodied, endowed with natural captivating beauty, the principal form, like the Lord Himself: he is the Lord's own *vilāsa*. Through such a Śrī Rūpa the Lord spread (the scriptures of *bhakti-rasa*).
+
+## 129
+
+*Karoṅyā*: the water pot that *sannyāsīs* carry in the hand.
+
+## 134
+
+I bow to the lotus feet of Śrī Caitanyadeva Hari, by whose inspiration in my heart I, a wretched pauper, have taken up the writing of a book on *bhakti*.
+
 ---
 
 [^24-27-1]: The verse translation understands it differently: the king speaks of Sanātana's elder brother in the third person, as one who has ruined a whole province by killing many people (Madhya 19.24–25).

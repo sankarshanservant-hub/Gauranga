@@ -442,6 +442,108 @@ The two sons were Gopīnātha and Viṭhṭhaleśvara. Śrī Mahāprabhu came to
 
 Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti*) receives the energy of mercy from Bhagavān, the possessor of energies. Fallen into the jaws of *māyā*, the *jīva*, because of ignorance, that is, aversion to Kṛṣṇa, remains uninitiated into the truth of *sambandha*, *abhidheya* and *prayojana*. Bhagavān Gaurahari mercifully first bestowed on Śrī Rūpa Gosvāmī the power to understand the truth and then taught him the truth.
 
+## 115
+
+> Subheading: The Lord teaches the limits of the truths of Kṛṣṇa, of *bhakti* and of *rasa* —
+
+## 116
+
+> Subheading: The Lord imparts to Śrī Rūpa the conclusions about *bhakti* that Rāmānanda had expounded —
+
+## 117
+
+> Subheading: All truths manifest in Śrī Rūpa's heart —
+
+## 118
+
+> Subheading: Kavi Karṇapūra mentions the instructions to Śrī Rūpa in his own book —
+
+## 119
+
+> Subheading: Through Śrī Rūpa and Sanātana the Lord reveals the account of His pastimes in Vraja — (*Śrī Caitanya-candrodaya-nāṭaka* 9.38) —
+
+**kālena** (by the force of time, that is, of Bhagavān's will) **vṛndāvana-keli-vārtā** (the account of the pastimes full of *rasa* connected with Vṛndāvana) **luptā** (had become covered) **iti** (therefore) **tāṁ** (that account) **viśiṣya** (making it special) **khyāpayituṁ** (to reveal) **devaḥ** (Śrī Gaurahari) **tatra eva** (in Vṛndāvana) **rūpaṁ** **ca** **sanātanaṁ** **ca** **kṛpāmṛtena** (with the water of the nectar of compassion) **abhiṣiṣeca** (anointed).
+
+## 120
+
+> Subheading: The Lord bestows His grace on Śrī Rūpa — (*Śrī Caitanya-candrodaya-nāṭaka* 9.29) —
+
+**yaḥ** (Śrī Rūpa) **prāg eva** **priya-guṇa-gaṇaiḥ** (by the many qualities of the Beloved, Gaura) **gāḍha-baddhaḥ** (tightly bound, that is, extremely attached) **api** **gehādhyāsāt** (from attachment to home, enacted for the sake of *līlā*) **muktaḥ** (having lost all desire for it) (was), **taṁ** (him) **śrī-rūpaṁ** **anupamena** (with his younger brother) **samam** (together) **amūrtaḥ** **api** **paraḥ** **mūrtaḥ** **rasaḥ** **iva** (manifesting His own form) **devaḥ** (Gaura) **prayāge** (at the confluence of the Gaṅgā and the Yamunā) **premālāpaiḥ** **dṛḍhatara-pariṣvaṅga-raṅgaiḥ** (with the play of firm embraces) **anujagrāha** (showed mercy).
+
+## 121
+
+> Subheading: Through Śrī Rūpa, His second self and His all in all, the Lord spreads the scriptures on the truth of *bhakti-rasa* — (*Śrī Caitanya-candrodaya-nāṭaka*, act 9: Sārvabhauma's words) —
+
+**priya-svarūpe** (*priya* means a devotee; in one whose *svarūpa* is such, that is, in the form of a devotee) **dayita-svarūpe** (in one to whom [the Lord] gave His own self) **prema-svarūpe** (in a form full of *prema* and nondifferent from Himself) **sahajābhirūpe** (in one whose form is naturally, by nature, beautiful and captivating) **nijānurūpe** (in one whose form resembles [the Lord's], because it reveals *prema*) **eka-rūpe** (in one whose form is unique, that is, principal) **sva-vilāsa-rūpe** (in one whose form is the *vilāsa* of the Lord's own *svarūpa*, a form for *līlā*) **rūpe** (in Śrī Rūpa Gosvāmī) **prabhuḥ** (Śrī Mahāprabhu) **tatāna** (spread: through Śrī Rūpa alone He revealed the scriptures of *bhakti-rasa*).
+
+## 122
+
+*Sthāne-sthāne* (“in various places”): in various places of the book *Śrī Caitanya-candrodaya*.
+
+## 123
+
+> Subheading: Śrī Rūpa and Sanātana are the dearest of all to Gaura's devotees —
+
+## 124
+
+> Subheading: An example of how all valued them: those who had seen Vṛndāvana were eagerly asked about Rūpa and Sanātana —
+
+## 127
+
+> Subheading: A description of the renunciation of Śrī Rūpa and Sanātana and of their intoxication with the taste of *bhakti-rasa* —
+
+## 128
+
+*Sthūla-bhikṣā*: alms after which one need not beg any other food from others to fill the stomach.
+
+*Mādhukarī*: a bee gathers honey from many flowers and carries it to the hive. In the same way some fill their stomach by gathering a little food in many places; their way of life is called “*mādhukarī*.”
+
+*Bhoga parihari* (“giving up enjoyment”): for pleasure people use stimulating substances that increase sensual urges. Giving all that up, they kept themselves alive on dry bread and roasted chickpeas, to preserve a body fit for *bhajana*.
+
+## 131
+
+In such a life of renunciation they served Kṛṣṇa in various ways: sometimes by writing scriptures on *bhakti-rasa*, sometimes by *nāma-saṅkīrtana*, and sometimes by remembering Gaura's pastimes, meditating on them and so on. Among the *prākṛta-sahajiyās* and the like there is a firm belief that the “*sādhana*” of *bhakti* is to give up writing, reading and other study of the scriptures on *bhakti* and, in order to cultivate one's own ignorance, to stop studying the *śāstras* and so on. The true followers of Śrī Rūpa put no faith in such talk. But if a *sādhaka* writes and reads the *śāstras* and so on with some petty side goal, out of a desire to earn money, for gratifying the material senses, for worldly fame or worship, for gain or some other petty purpose, which is called the *upaśākhās* (side branches), then such a person, given to fallen conduct, never attains any good. A genuine follower of Śrī Rūpa has no such karmic desires rooted in enjoying petty fruits.
+
+## 132
+
+> Subheading: The devotees are happy to hear of the *bhajana* of Rūpa and Sanātana —
+
+## 133
+
+> Subheading: In his *Bhakti-rasāmṛta-sindhu* Śrī Rūpa describes the Lord's mercy —
+
+## 134
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, Eastern Division, first wave, *Bhakti-sāmānya-laharī*, 2)
+
+(Śrī Rūpa bows to Bhagavān Gaurahari, who impels him to serve Bhagavān and whose lotus feet are his shelter.) **ahaṁ** **varāka-rūpaḥ** (insignificant, wretched: the crest jewel of the line of Gosvāmīs himself says this only out of great humility) **api** **yasya** (of Gaura, the impeller) **hṛdi** (in the mind) **preraṇayā** (by the command addressed to the heart) **pravartitaḥ** (impelled), **tasya** **caitanya-devasya** **hareḥ** (of Gaurahari, Kṛṣṇa Caitanya) **pada-kamalaṁ** (lotus feet) **aham** **vande**.
+
+## 135
+
+> Subheading: For ten days in Prayāga the Lord instructs Rūpa —
+
+## 136
+
+> Subheading: The instructions to Śrī Rūpa. In the form of *sūtras* the Lord describes the characteristics of *bhakti-rasa* —
+
+## 137
+
+> Subheading: By the Lord's mercy Rūpa tastes a drop of the ocean of the nectar of *bhakti-rasa* —
+
+*Pārāpāra-śūnya* (“without this shore or that”): *pāra* is one shore, *apāra* the other shore. That is, this ocean has no limit at either of its two shores.
+
+## 138
+
+> Subheading: First the Lord describes the conditioned *jīvas* of the universe: their great number —
+
+*Caurāśī-lakṣa yoni*: the eighty-four *lakhs* of species. (*Viṣṇu Purāṇa*): “Aquatics are nine *lakhs*, the immobile twenty *lakhs*, worms as many *lakhs* as there are Rudras,[^138-1] birds ten *lakhs*, beasts thirty *lakhs*, and humans four *lakhs*.”
+
+## 139
+
+> Subheading: The size of the *jīvātmā*, or of the *jīva's svarūpa* —
+
+Muṇḍaka Upaniṣad 3.1.9: “This *ātmā* is minute.”
+
 ---
 
 [^18-1]: So in the edition (checked against the scan).
@@ -453,3 +555,5 @@ Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti
 [^102-1]: *Upadeśāmṛta* 9.
 
 [^108-1]: So in the edition (checked against the scan); by content, Madhya 18.47 (on Vallabha's sons and Viṭhṭhala's birth).
+
+[^138-1]: There are eleven Rudras, i.e., eleven *lakhs*. A *lakh* is one hundred thousand; the total is 84 *lakhs* (8,400,000).
