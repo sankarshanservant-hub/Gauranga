@@ -156,7 +156,7 @@ The person who is equal toward enemy and friend, in honor and dishonor, in cold 
 
 ## 107
 
-Those who, full of faith and devoted to Me, worship this nectar of *dharma* (described from the second to the nineteenth verse) are My devotees, and they are exceedingly dear to Me.
+Those who, full of faith and devoted to Me, worship this nectar of *dharma* (described from the second to the nineteenth verse)[^107-1] are My devotees, and they are exceedingly dear to Me.
 
 ## 108
 
@@ -179,3 +179,5 @@ The interpretation that Kṛṣṇa is an *avatāra* in the form of “a hair bl
 [^98-1]: The verse translation reads differently: “Establish this science of *bhakti* in your writings and preach it from Vṛndāvana” (Madhya 23.98); for Bhaktivinoda *bhakti-smṛti* is a specific book, the *Hari-bhakti-vilāsa*.
 
 [^102-1]: So in the edition: both halves of the phrase say that the devotee does not disturb others. In the verse (*lokān nodvijate*) and in the *Anubhāṣya* the second half means “who is not himself disturbed by people.”
+
+[^107-1]: So in the edition. In the *Bhagavad-gītā* (12.13–19) these are verses 13–19, that is, Madhya 23.100–106 in our chapter; “second” in the edition is apparently a misprint.
