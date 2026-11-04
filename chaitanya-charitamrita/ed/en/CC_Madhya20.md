@@ -2550,180 +2550,232 @@ these  two  names  bears  the son of Vraja’s king
 নবব্যূহরূপে নবমূর্ত্তি পরকাশে ॥ ২৪১ ॥
 
 purīra āvaraṇa-rūpe purīra nava-deśe  
-nava-vyūha-rūpe nava-mūrti parakāśe
+of the city  as the enclosure  of the city  in nine places  
+nava-vyūha-rūpe nava-mūrti parakāśe  
+as the nava-vyūha  nine forms  are manifest
 
-(241) [not yet translated]
+(241) “As the enclosure (*āvaraṇa*) of the city, nine forms are manifest in nine places of the city as the *nava-vyūha*.
 
 চত্বারো বাসুদেবাদ্যা নারায়ণনৃসিংহকৌ ৷  
 হয়গ্রীবো বরাহশ্চ ব্রহ্মা চেতি নবোদিতাঃ ॥ ২৪২ ॥
 
 catvāro vāsudevādyā  
+the four  Vāsudeva and the others  
 nārāyaṇa-nṛsiṁhakau  
+Nārāyaṇa and Nṛsiṁha  
 hayagrīvo varāhaś ca  
-brahmā ceti navoditāḥ
+Hayagrīva  Varāha  and  
+brahmā ceti navoditāḥ  
+Brahmā  and  thus  nine  are declared
 
-(242) [not yet translated]
+(242) “The four — Vāsudeva and the others — Nārāyaṇa and Nṛsiṁha, Hayagrīva, Varāha and Brahmā: these are declared to be the nine.” (Laghu-bhāgavatāmṛta, 1.451)
 
 প্রকাশ-বিলাসের এই কৈলুঁ বিবরণ ৷  
 স্বাংশের ভেদ এবে শুন, সনাতন ॥ ২৪৩ ॥
 
 prakāśa-vilāsera ei kailuṅ vivaraṇa  
-svāṁśera bheda ebe śuna, sanātana
+of prakāśa and vilāsa  this  I have made  the description  
+svāṁśera bheda ebe śuna, sanātana  
+of the svāṁśa  the divisions  now  hear  Sanātana
 
-(243) [not yet translated]
+(243) “Thus I have described the *prakāśas* and *vilāsas*. Now hear, Sanātana, the divisions of the *svāṁśa*.
 
 সঙ্কর্ষণ, মৎস্যাদিক, — দুই ভেদ তাঁর ৷  
 সঙ্কর্ষণ — পুরুষাবতার, মৎস্যাদি লীলাবতার ॥ ২৪৪ ॥
 
 saṅkarṣaṇa, matsyādika, — dui bheda tāṅra  
-saṅkarṣaṇa — puruṣāvatāra, matsyādi līlāvatāra
+Saṅkarṣaṇa  Matsya and the rest  two  divisions  its  
+saṅkarṣaṇa — puruṣāvatāra, matsyādi līlāvatāra  
+Saṅkarṣaṇa  the puruṣa-avatāra  Matsya and the rest  the līlā-avatāras
 
-(244) [not yet translated]
+(244) “It has two divisions: Saṅkarṣaṇa, and Matsya and the rest. Saṅkarṣaṇa is the *puruṣa-avatāra*; Matsya and the rest are the *līlā-avatāras*.
 
 অবতার হয় কৃষ্ণের ষড়্বিধ প্রকার ৷  
 পুরুষাবতার এক, লীলাবতার আর ॥ ২৪৫ ॥
 
 avatāra haya kṛṣṇera ṣaḍ-vidha prakāra  
-puruṣāvatāra eka, līlāvatāra āra
+the avatāras  are  of Kṛṣṇa  of six  kinds  
+puruṣāvatāra eka, līlāvatāra āra  
+the puruṣa-avatāras  one  the līlā-avatāras  another
 
-(245) [not yet translated]
+(245) “Kṛṣṇa’s *avatāras* are of six kinds: one is the *puruṣa-avatāras*, another the *līlā-avatāras*,
 
 গুণাবতার, আর মন্বন্তরাবতার ৷  
 যুগাবতার, আর শক্ত্যাবেশাবতার ॥ ২৪৬ ॥
 
 guṇāvatāra, āra manvantarāvatāra  
-yugāvatāra, āra śaktyāveśāvatāra
+the guṇa-avatāras  and  the manvantara-avatāras  
+yugāvatāra, āra śaktyāveśāvatāra  
+the yuga-avatāras  and  the śaktyāveśa-avatāras
 
-(246) [not yet translated]
+(246) “then the *guṇa-avatāras*, the *manvantara-avatāras*, the *yuga-avatāras* and the *śaktyāveśa-avatāras*.
 
 বাল্য, পৌগণ্ড হয় বিগ্রহের ধর্ম্ম ৷  
 এতরূপে লীলা করেন ব্রজেন্দ্রনন্দন ॥ ২৪৭ ॥
 
 bālya, paugaṇḍa haya vigrahera dharma  
-eta-rūpe līlā karena vrajendra-nandana
+childhood  boyhood  are  of the form  the characteristics  
+eta-rūpe līlā karena vrajendra-nandana  
+in these forms  pastimes  performs  the son of Vraja’s king
 
-(247) [not yet translated]
+(247) “Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; in these forms the son of the king of Vraja performs His pastimes.
 
 অনন্ত অবতার কৃষ্ণের, নাহিক গণন ৷  
 শাখা-চন্দ্র-ন্যায় করি দিগ্দরশন ॥ ২৪৮ ॥
 
 ananta avatāra kṛṣṇera, nāhika gaṇana  
-śākhā-candra-nyāya kari dig-daraśana
+countless  avatāras  of Kṛṣṇa  there is no  counting  
+śākhā-candra-nyāya kari dig-daraśana  
+of the branch and the moon  by the logic  I make  an indication
 
-(248) [not yet translated]
+(248) “Kṛṣṇa’s *avatāras* are countless; there is no counting them. As one shows the moon by pointing to a branch, I shall give only an indication.
 
 অবতারা হ্যসংখ্যেয়া হরেঃ সত্ত্বনিধের্দ্বিজাঃ ৷  
 যথাবিদাসিনঃ কুল্যাঃ সরসঃ স্যুঃ সহস্রশঃ ॥ ২৪৯ ॥
 
 avatārā hy asaṁkhyeyā  
+the avatāras  indeed  are innumerable  
 hareḥ sattva-nidher dvijāḥ  
+of Hari  of the treasure-house of goodness  O brāhmaṇas  
 yathā vidāsinaḥ kulyāḥ  
-sarasaḥ syuḥ sahasraśaḥ
+as  of an inexhaustible  rivulets  
+sarasaḥ syuḥ sahasraśaḥ  
+from a lake  there are  by thousands
 
-(249) [not yet translated]
+(249) “O *brāhmaṇas*, the *avatāras* of Hari, the treasure-house of goodness (*sattva*), are innumerable, like the thousands of rivulets that flow from an inexhaustible lake.” (Śrīmad-Bhāgavatam, 1.3.26)
 
 প্রথমেই করে কৃষ্ণ ‘পুরুষাবতার’ ৷  
 সেই ত’ পুরুষ হয় ত্রিবিধ প্রকার ॥ ২৫০ ॥
 
 prathamei kare kṛṣṇa ‘puruṣāvatāra’  
-sei ta’ puruṣa haya trividha prakāra
+first of all  makes  Kṛṣṇa  the puruṣa-avatāra  
+sei ta’ puruṣa haya trividha prakāra  
+that  indeed  Puruṣa  is  of three  kinds
 
-(250) [not yet translated]
+(250) “First of all Kṛṣṇa manifests the *puruṣa-avatāra*, and that Puruṣa is of three kinds.
 
 বিষ্ণোস্তু ত্রীণি রূপাণি পুরুষাখ্যান্যথো বিদুঃ ৷  
 একন্তু মহতঃ স্রষ্টৃ দ্বিতীয়ং ত্বণ্ডসংস্থিতম্ ৷  
 তৃতীয়ং সর্ব্বভূতস্থং তানি জ্ঞাত্বা বিমুচ্যতে ॥ ২৫১ ॥
 
 viṣṇos tu trīṇi rūpāṇi  
+of Viṣṇu  but  three  forms  
 puruṣākhyāny atho viduḥ  
+called Puruṣas  then  they know  
 ekaṁ tu mahataḥ sraṣṭṛ  
+one  but  of the mahat  the creator  
 dvitīyaṁ tvaṇḍa-saṁsthitam  
+the second  but  in the universe  abiding  
 tṛtīyaṁ sarva-bhūta-sthaṁ  
-tāni jñātvā vimucyate
+the third  in all  beings  abiding  
+tāni jñātvā vimucyate  
+them  knowing  one is liberated
 
-(251) [not yet translated]
+(251) “Viṣṇu has three forms called Puruṣas: the first creates the mahat, the second abides within the universe, and the third dwells in all beings. Knowing Them, one is set free.” (Sātvata-tantra; Laghu-bhāgavatāmṛta, Pūrva-khaṇḍa, 2.9)
 
 অনন্তশক্তি-মধ্যে কৃষ্ণের তিন শক্তি প্রধান ৷  
 ‘ইচ্ছাশক্তি’, ‘ক্রিয়াশক্তি’, ‘জ্ঞানশক্তি’ নাম ॥ ২৫২ ॥
 
 ananta-śakti-madhye kṛṣṇera tina śakti pradhāna  
-‘icchā-śakti’, ‘kriyā-śakti’, ‘jñāna-śakti’ nāma
+among the infinite potencies  of Kṛṣṇa  three  potencies  chief  
+‘icchā-śakti’, ‘kriyā-śakti’, ‘jñāna-śakti’ nāma  
+icchā-śakti  kriyā-śakti  jñāna-śakti  by name
 
-(252) [not yet translated]
+(252) “Among Kṛṣṇa’s infinite potencies three are chief, named *icchā-śakti*, *kriyā-śakti* and *jñāna-śakti* — the potencies of will, action and knowledge.
 
 ইচ্ছাশক্তিপ্রধান কৃষ্ণ — ইচ্ছায় সর্ব্বকর্ত্তা ৷  
 জ্ঞানশক্তিপ্রধান বাসুদেব চিত্ত-অধিষ্ঠাতা ॥ ২৫৩ ॥
 
 icchā-śakti-pradhāna kṛṣṇa — icchāya sarva-kartā  
-jñāna-śakti-pradhāna vāsudeva citta-adhiṣṭhātā
+in whom the potency of will predominates  Kṛṣṇa  by His will  of all  the doer  
+jñāna-śakti-pradhāna vāsudeva citta-adhiṣṭhātā  
+in whom the potency of knowledge predominates  Vāsudeva  of the citta  the presiding Lord
 
-(253) [not yet translated]
+(253) “Kṛṣṇa, in whom the potency of will predominates, is by His will the doer of all. Vāsudeva, in whom the potency of knowledge predominates, is the presiding Lord of the *citta*, consciousness.
 
 ইচ্ছা-জ্ঞান-ক্রিয়া বিনা না হয় সৃজন ৷  
 তিনের তিন শক্তি মেলি’ প্রপঞ্চ-রচন ॥ ২৫৪ ॥
 
 icchā-jñāna-kriyā vinā nā haya sṛjana  
-tinera tina śakti meli’ prapañca-racana
+will  knowledge  action  without  not  is  creation  
+tinera tina śakti meli’ prapañca-racana  
+of the three  the three  potencies  joining  of the world  the making
 
-(254) [not yet translated]
+(254) “Without will, knowledge and action there is no creation; the world is made when the three potencies of the three join together.
 
 ক্রিয়াশক্তিপ্রধান সঙ্কর্ষণ বলরাম ৷  
 প্রাকৃতাপ্রাকৃত-সৃষ্টি করেন নির্ম্মাণ ॥ ২৫৫ ॥
 
 kriyā-śakti-pradhāna saṅkarṣaṇa balarāma  
-prākṛtāprākṛta-sṛṣṭi karena nirmāṇa
+in whom the potency of action predominates  Saṅkarṣaṇa  Balarāma  
+prākṛtāprākṛta-sṛṣṭi karena nirmāṇa  
+of the material and the spiritual  creation  performs  the making
 
-(255) [not yet translated]
+(255) “Saṅkarṣaṇa Balarāma, in whom the potency of action predominates, brings about both the material and the spiritual creation.
 
 অহঙ্কারের অধিষ্ঠাতা কৃষ্ণের ইচ্ছায় ৷  
 গোলোক, বৈকুণ্ঠ সৃজে চিচ্ছক্তিদ্বারায় ॥ ২৫৬ ॥
 
 ahaṅkārera adhiṣṭhātā kṛṣṇera icchāya  
-goloka, vaikuṇṭha sṛje cic-chakti-dvārāya
+of ahaṅkāra  the presiding Lord  of Kṛṣṇa  by the will  
+goloka, vaikuṇṭha sṛje cic-chakti-dvārāya  
+Goloka  Vaikuṇṭha  creates  through the spiritual potency
 
-(256) [not yet translated]
+(256) “He, the presiding Lord of *ahaṅkāra*, by Kṛṣṇa’s will creates Goloka and Vaikuṇṭha through the spiritual potency (*cit-śakti*).
 
 যদ্যপি অসৃজ্য নিত্য চিচ্ছক্তিবিলাস ৷  
 তথাপি সঙ্কর্ষণ-ইচ্ছায় তাঁহার প্রকাশ ॥ ২৫৭ ॥
 
 yadyapi asṛjya nitya cic-chakti-vilāsa  
-tathāpi saṅkarṣaṇa-icchāya tāṅhāra prakāśa
+although  uncreatable  eternal  of the spiritual potency  the display  
+tathāpi saṅkarṣaṇa-icchāya tāṅhāra prakāśa  
+still  of Saṅkarṣaṇa  by the will  its  manifestation
 
-(257) [not yet translated]
+(257) “Although the display of the spiritual potency is eternal and uncreated, it is manifest by the will of Saṅkarṣaṇa.
 
 সহস্রপত্রং কমলং গোকুলাখ্যং মহৎপদম্ ৷  
 তৎকর্ণিকারং তদ্ধাম তদনন্তাংশসম্ভবম্ ॥ ২৫৮ ॥
 
 sahasra-patraṁ kamalaṁ  
+thousand-petalled  lotus  
 gokulākhyaṁ mahat padam  
+called Gokula  the great  abode  
 tat-karṇikāraṁ tad-dhāma  
-tad anantāṁśa-sambhavam
+its  whorl  His  abode  
+tad anantāṁśa-sambhavam  
+that  of Ananta  from a portion  arisen
 
-(258) [not yet translated]
+(258) “The great abode called Gokula is a lotus with a thousand petals; its whorl is His abode, and it has arisen from a portion of Ananta.” (Brahma-saṁhitā, 5.2)
 
 মায়া-দ্বারে সৃজে তিঁহো ব্রহ্মাণ্ডের গণ ৷  
 জড়রূপা প্রকৃতি নহে ব্রহ্মাণ্ড-কারণ ॥ ২৫৯ ॥
 
 māyā-dvāre sṛje tiṅho brahmāṇḍera gaṇa  
-jaḍa-rūpā prakṛti nahe brahmāṇḍa-kāraṇa
+through māyā  creates  He  of universes  the host  
+jaḍa-rūpā prakṛti nahe brahmāṇḍa-kāraṇa  
+inert  prakṛti  is not  of the universe  the cause
 
-(259) [not yet translated]
+(259) “Through *māyā* He creates the host of universes; inert *prakṛti* is not the cause of the universe.
 
 জড় হৈতে সৃষ্টি নহে ঈশ্বরশক্তি বিনে ৷  
 তাহাতেই সঙ্কর্ষণ করে শক্তির আধানে ॥ ২৬০ ॥
 
 jaḍa haite sṛṣṭi nahe īśvara-śakti vine  
-tāhātei saṅkarṣaṇa kare śaktira ādhāne
+from the inert  creation  is not  the Lord’s  potency  without  
+tāhātei saṅkarṣaṇa kare śaktira ādhāne  
+into it  Saṅkarṣaṇa  makes  of potency  the infusion
 
-(260) [not yet translated]
+(260) “Without the Lord’s potency, creation cannot come from what is inert; therefore Saṅkarṣaṇa infuses potency into it.
 
 ঈশ্বরের শক্ত্যে সৃষ্টি করয়ে প্রকৃতি ৷  
 লৌহ যেন অগ্নিশক্ত্যে পায় দাহ-শক্তি ॥ ২৬১ ॥
 
 īśvarera śaktye sṛṣṭi karaye prakṛti  
-lauha yena agni-śaktye pāya dāha-śakti
+by the Lord’s  potency  creation  performs  prakṛti  
+lauha yena agni-śaktye pāya dāha-śakti  
+iron  as  by fire’s  potency  obtains  the power to burn
 
-(261) [not yet translated]
+(261) “By the Lord’s potency *prakṛti* creates, just as iron obtains the power to burn by the potency of fire.
 
 এতৌ হি বিশ্বস্য চ বীজযোনী  
 রামো মুকুন্দঃ পুরুষঃ প্রধানম্ ৷  
@@ -2731,45 +2783,59 @@ lauha yena agni-śaktye pāya dāha-śakti
 জ্ঞানস্য চেশাত ইমৌ পুরাণৌ ॥ ২৬২ ॥
 
 etau hi viśvasya ca bīja-yonī  
+these two  indeed  of the universe  and  the seed and the womb  
 rāmo mukundaḥ puruṣaḥ pradhānam  
+Rāma  Mukunda  the Puruṣa  pradhāna  
 anvīya bhūteṣu vilakṣaṇasya  
-jñānasya ceśāta imau purāṇau
+having entered  into beings  of the diverse  
+jñānasya ceśāta imau purāṇau  
+of the knower (the jīva)  and  rule  these two  primeval
 
-(262) [not yet translated]
+(262) “Rāma and Mukunda are the seed and the womb of the universe — the Puruṣa and *pradhāna*. Having entered into all beings, these two primeval Lords rule over the diverse *jīvas*.” (Śrīmad-Bhāgavatam, 10.46.31)
 
 সৃষ্টি-হেতু যেই মূর্ত্তি প্রপঞ্চে অবতরে ৷  
 সেই ঈশ্বরমূর্ত্তি ‘অবতার’ নাম ধরে ॥ ২৬৩ ॥
 
 sṛṣṭi-hetu yei mūrti prapañce avatare  
-sei īśvara-mūrti ‘avatāra’ nāma dhare
+for creation  which  form  into the world  descends  
+sei īśvara-mūrti ‘avatāra’ nāma dhare  
+that  the Lord’s  form  avatāra  the name  bears
 
-(263) [not yet translated]
+(263) “The form of the Lord that descends into the world for creation bears the name *avatāra*.
 
 মায়াতীত পরব্যোমে সবার অবস্থান ৷  
 বিশ্বে অবতরি’ ধরে ‘অবতার’ নাম ॥ ২৬৪ ॥
 
 māyātīta paravyome sabāra avasthāna  
-viśve avatari’ dhare ‘avatāra’ nāma
+beyond māyā  in the paravyoma  of all  the dwelling  
+viśve avatari’ dhare ‘avatāra’ nāma  
+into the world  descending  bear  avatāra  the name
 
-(264) [not yet translated]
+(264) “All of Them dwell in the spiritual sky beyond *māyā*; descending into the world, They bear the name *avatāra*.
 
 সেই মায়া অবলোকিতে শ্রীসঙ্কর্ষণ ৷  
 পুরুষরূপে অবতীর্ণ হইলা প্রথম ॥ ২৬৫ ॥
 
 sei māyā avalokite śrī-saṅkarṣaṇa  
-puruṣa-rūpe avatīrṇa hailā prathama
+that  māyā  to glance at  Śrī Saṅkarṣaṇa  
+puruṣa-rūpe avatīrṇa hailā prathama  
+in the form of the Puruṣa  descended  became  first
 
-(265) [not yet translated]
+(265) “To glance at that *māyā*, Śrī Saṅkarṣaṇa first descended in the form of the Puruṣa.
 
 জগৃহে পৌরুষং রূপং ভগবান্মহদাদিভিঃ ৷  
 সম্ভূতং ষোড়শকলমাদৌ লোকসিসৃক্ষয়া ॥ ২৬৬ ॥
 
 jagṛhe pauruṣaṁ rūpaṁ  
+accepted  of the Puruṣa  form  
 bhagavān mahad-ādibhiḥ  
+Bhagavān  with the mahat  and the rest  
 sambhūtaṁ ṣoḍaśa-kalam  
-ādau loka-sisṛkṣayā
+composed  of sixteen  parts  
+ādau loka-sisṛkṣayā  
+in the beginning  the worlds  desiring to create
 
-(266) [not yet translated]
+(266) “In the beginning, desiring to create the worlds, Bhagavān accepted the form of the Puruṣa, joined with the mahat and the other principles and possessed of sixteen potencies (*kalā*).” (Śrīmad-Bhāgavatam, 1.3.1)
 
 আদ্যোঽবতারঃ পুরুষঃ পরস্য  
 কালঃ স্বভাবঃ সদসন্মনশ্চ ৷  
@@ -2777,27 +2843,35 @@ sambhūtaṁ ṣoḍaśa-kalam
 বিরাট্ স্বরাট্ স্থাস্নু চরিষ্ণু ভূম্নঃ ॥ ২৬৭ ॥
 
 ādyo ’vatāraḥ puruṣaḥ parasya  
+the first  avatāra  the Puruṣa  of the Supreme  
 kālaḥ svabhāvaḥ sad-asan manaś ca  
+time  nature  cause and effect  the mind  and  
 dravyaṁ vikāro guṇa indriyāṇi  
-virāṭ svarāṭ sthāsnu cariṣṇu bhūmnaḥ
+the elements  false ego  the guṇas  the senses  
+virāṭ svarāṭ sthāsnu cariṣṇu bhūmnaḥ  
+the universal body  the self-luminous  the unmoving  the moving  of the Great One
 
-(267) [not yet translated]
+(267) “The Puruṣa is the first avatāra of the Supreme. Time, nature, prakṛti as cause and effect, the mind, the elements, false ego, the guṇas, the senses, the universal body (*virāṭ*) and the Vairāja (*svarāṭ*), and all beings, moving and unmoving — all these are the splendour of the Great One.” (Śrīmad-Bhāgavatam, 2.6.42)
 
 সেই পুরুষ বিরজাতে করেন শয়ন ৷  
 ‘কারণাব্ধিশায়ী’ নাম জগৎকারণ ॥ ২৬৮ ॥
 
 sei puruṣa virajāte karena śayana  
-‘kāraṇābdhiśāyī’ nāma jagat-kāraṇa
+that  Puruṣa  in the Virajā  does  lying  
+‘kāraṇābdhiśāyī’ nāma jagat-kāraṇa  
+Kāraṇābdhiśāyī  by name  of the world  the cause
 
-(268) [not yet translated]
+(268) “That Puruṣa lies in the Virajā. He is named Kāraṇābdhiśāyī, the cause of the world.
 
 কারণাব্ধি-পারে মায়ার নিত্য অবস্থিতি ৷  
 বিরজার পারে পরব্যোমে নাহি গতি ॥ ২৬৯ ॥
 
 kāraṇābdhi-pāre māyāra nitya avasthiti  
-virajāra pāre paravyome nāhi gati
+on the shore of the Causal Ocean  māyā’s  eternal  abiding  
+virajāra pāre paravyome nāhi gati  
+of the Virajā  beyond  into the paravyoma  there is no  access
 
-(269) [not yet translated]
+(269) “*Māyā* abides eternally on the shore of the Causal Ocean; she has no access beyond the Virajā into the spiritual sky.
 
 প্রবর্ত্ততে যত্র রজস্তমস্তয়োঃ  
 সত্ত্বঞ্চ মিশ্রং ন চ কালবিক্রমঃ ৷  
@@ -2805,11 +2879,15 @@ virajāra pāre paravyome nāhi gati
 রনুব্রতা যত্র সুরাসুরার্চ্চিতাঃ ॥ ২৭০ ॥
 
 pravartate yatra rajas tamas tayoḥ  
+operate  where  passion  ignorance  with them  
 sattvañ ca miśraṁ na ca kāla-vikramaḥ  
+goodness  and  mixed  not  and  of time  the might  
 na yatra māyā kim utāpare harer  
-anuvratā yatra surāsurārcitāḥ
+not  where  māyā  what to speak  of the others  of Hari  
+anuvratā yatra surāsurārcitāḥ  
+the followers  where  by gods and asuras  worshiped
 
-(270) [not yet translated]
+(270) “There neither passion nor ignorance operates, nor goodness mixed with them, nor the might of time; there even *māyā* has no place — what to speak of the rest. There dwell the followers of Hari, worshiped by gods and *asuras* alike.” (Śrīmad-Bhāgavatam, 2.9.10)
 
 মায়ার যে দুই বৃত্তি — ‘মায়া’ আর ‘প্রধান’ ৷  
 ‘মায়া’ নিমিত্ত হেতু, বিশ্বের উপাদান ‘প্রধান’ ॥ ২৭১ ॥
@@ -3975,238 +4053,308 @@ of childhood  boyhood  of the characteristics  hear  the consideration
 প্রকটলীলা করিবারে যবে করে মন ॥ ৩৭৬ ॥
 
 kiśora-śekhara-dharmī vrajendra-nandana  
-prakaṭa-līlā karibāre yabe kare mana
+of kaiśora  the crown  possessing the nature  the son of the king of Vraja  
+prakaṭa-līlā karibāre yabe kare mana  
+manifest pastimes  to perform  when  makes  up His mind
 
-(376) [not yet translated]
+(376) When the son of the king of Vraja, whose nature is the crown of youth (*kaiśora*), resolves to perform His manifest pastimes,
 
 আদৌ প্রকট করায় মাতা-পিতা-ভক্তগণে ৷  
 পাছে প্রকট হয় জন্মাদিক-লীলাক্রমে ॥ ৩৭৭ ॥
 
 ādau prakaṭa karāya mātā-pitā-bhakta-gaṇe  
-pāche prakaṭa haya janmādika-līlā-krame
+first  manifest  He causes  mother  father  the devotees  
+pāche prakaṭa haya janmādika-līlā-krame  
+afterwards  manifest  He becomes  birth and the rest  of the pastimes  in the sequence
 
-(377) [not yet translated]
+(377) He first causes His mother, His father and His devotees to appear, and afterwards He Himself appears in the sequence of pastimes that begins with His birth.
 
 বয়সো বিবিধত্বেঽপি সর্ব্বভক্তিরসাশ্রয়ঃ ৷  
 ধর্ম্মী কিশোর এবাত্র নিত্যলীলা-বিলাসবান্ ॥ ৩৭৮ ॥
 
 vayaso vividhatve ’pi  
+of age  in the variety  even  
 sarva-bhakti-rasāśrayaḥ  
+of all  devotion  the rasas  the shelter  
 dharmī kiśora evātra  
-nitya-līlā-vilāsavān
+possessing all qualities  kiśora  alone  here  
+nitya-līlā-vilāsavān  
+eternal  pastimes  enjoying
 
-(378) [not yet translated]
+(378) “Though He has various ages, He who is the shelter of all the *rasas* of devotion and who enjoys eternal pastimes possesses all qualities in His *kiśora* form alone.” (Bhakti-rasāmṛta-sindhu, 2.1.63)
 
 পূতনা-বধাদি যত লীলা ক্ষণে ক্ষণে ৷  
 সব লীলা নিত্য প্রকট করে অনুক্রমে ॥ ৩৭৯ ॥
 
 pūtanā-vadhādi yata līlā kṣaṇe kṣaṇe  
-saba līlā nitya prakaṭa kare anukrame
+Pūtanā’s killing and the rest  all  pastimes  moment  by moment  
+saba līlā nitya prakaṭa kare anukrame  
+all  pastimes  eternally  manifest  He makes  in sequence
 
-(379) [not yet translated]
+(379) All His pastimes, beginning with the killing of Pūtanā, He eternally manifests moment by moment, one after another.
 
 অনন্ত ব্রহ্মাণ্ড, তার নাহিক গণন ৷  
 কোন লীলা কোন ব্রহ্মাণ্ডে হয় প্রকটন ॥ ৩৮০ ॥
 
 ananta brahmāṇḍa, tāra nāhika gaṇana  
-kona līlā kona brahmāṇḍe haya prakaṭana
+endless  universes  their  there is no  counting  
+kona līlā kona brahmāṇḍe haya prakaṭana  
+some  pastime  in some  universe  is  manifested
 
-(380) [not yet translated]
+(380) The universes are endless, beyond counting, and in one universe or another some pastime is being manifested.
 
 এইমত সব লীলা — যেন গঙ্গাধার ৷  
 সে সে লীলা প্রকট করে ব্রজেন্দ্রকুমার ॥ ৩৮১ ॥
 
 ei-mata saba līlā — yena gaṅgā-dhāra  
-se se līlā prakaṭa kare vrajendra-kumāra
+in this way  all  pastimes  like  the Ganges’ stream  
+se se līlā prakaṭa kare vrajendra-kumāra  
+those  those  pastimes  manifests  the prince of Vraja
 
-(381) [not yet translated]
+(381) In this way all the pastimes flow like the stream of the Ganges, and the prince of Vraja manifests each of them.
 
 ক্রমে বাল্য পৌগণ্ড-কৈশোরতা-প্রাপ্তি ৷  
 রাস-আদি লীলা করে, কৈশোরে নিত্যস্থিতি ॥ ৩৮২ ॥
 
-krame bālya-paugaṇḍa-kaiśoratā-prāpti  
-rāsa-ādi līlā kare, kaiśore nitya-sthiti
+krame bālya paugaṇḍa-kaiśoratā-prāpti  
+gradually  childhood  boyhood  of youth  the attainment  
+rāsa-ādi līlā kare, kaiśore nitya-sthiti  
+the rāsa and other  pastimes  He performs  in kaiśora  eternal abiding
 
-(382) [not yet translated]
+(382) Gradually He passes through childhood and boyhood and attains youth (*kaiśora*). He performs the *rāsa* and other pastimes, and in *kaiśora* He abides eternally.
 
 ‘নিত্যলীলা’ কৃষ্ণের সর্ব্বশাস্ত্রে কয় ৷  
 বুঝিতে না পারে লীলা কেমনে ‘নিত্য’ হয় ॥ ৩৮৩ ॥
 
 ‘nitya-līlā’ kṛṣṇera sarva-śāstre kaya  
-bujhite nā pāre līlā kemane ‘nitya’ haya
+eternal pastimes  of Kṛṣṇa  in all the scriptures  is said  
+bujhite nā pāre līlā kemane ‘nitya’ haya  
+to understand  not  are able  a pastime  how  eternal  is
 
-(383) [not yet translated]
+(383) All the scriptures declare that Kṛṣṇa’s pastimes are eternal, but people cannot understand how a pastime can be eternal.
 
 দৃষ্টান্ত দিয়া কহি তবে লোক যদি জানে ৷  
 কৃষ্ণলীলা — নিত্য, জ্যোতিশ্চক্র-প্রমাণে ॥ ৩৮৪ ॥
 
 dṛṣṭānta diyā kahi tabe loka yadi jāne  
-kṛṣṇa-līlā — nitya, jyotiścakra-pramāṇe
+an example  giving  I tell  then  people  if  may understand  
+kṛṣṇa-līlā — nitya, jyotiścakra-pramāṇe  
+Kṛṣṇa’s pastimes  eternal  by the evidence of the circle of luminaries
 
-(384) [not yet translated]
+(384) I shall give an example, so that people may understand: Kṛṣṇa’s pastimes are eternal, as the circle of the luminaries shows.
 
 জ্যোতিশ্চক্রে সূর্য্য যেন ফিরে রাত্রি-দিনে ৷  
 সপ্তদ্বীপাম্বুধি লঙ্ঘি’ ফিরে ক্রমে ক্রমে ॥ ৩৮৫ ॥
 
 jyotiścakre sūrya yena phire rātri-dine  
-sapta-dvīpāmbudhi laṅghi’ phire krame krame
+in the circle of luminaries  the sun  as  moves  night and day  
+sapta-dvīpāmbudhi laṅghi’ phire krame krame  
+the seven islands and oceans  crossing  moves  step  by step
 
-(385) [not yet translated]
+(385) The sun moves night and day through the circle of the luminaries, crossing the seven islands and their oceans step by step.
 
 রাত্রি-দিনে হয় ষষ্টিদণ্ড-পরিমাণ ৷  
 তিনসহস্র ছয়শত ‘পল’ তার মান ॥ ৩৮৬ ॥
 
 rātri-dine haya ṣaṣṭi-daṇḍa-parimāṇa  
-tina-sahasra chaya-śata ‘pala’ tāra māna
+night and day  amount to  of sixty daṇḍas  the measure  
+tina-sahasra chaya-śata ‘pala’ tāra māna  
+three thousand  six hundred  palas  its  measure
 
-(386) [not yet translated]
+(386) A night and a day measure sixty *daṇḍas*, or three thousand six hundred *palas*.
 
 সূর্য্যোদয় হৈতে ষষ্টিপল-ক্রমোদয় ৷  
 সেই এক দণ্ড, অষ্ট দণ্ডে ‘প্রহর’ হয় ॥ ৩৮৭ ॥
 
 sūryodaya haite ṣaṣṭi-pala-kramodaya  
-sei eka daṇḍa, aṣṭa daṇḍe ‘prahara’ haya
+from sunrise  sixty palas  of gradual rising  
+sei eka daṇḍa, aṣṭa daṇḍe ‘prahara’ haya  
+that  one  daṇḍa  in eight  daṇḍas  a prahara  is
 
-(387) [not yet translated]
+(387) From sunrise the sun climbs step by step through sixty *palas*; that is one *daṇḍa*, and eight *daṇḍas* make a *prahara*.
 
 এক-দুই-তিন-চারি প্রহরে অস্তহয় ৷  
 চারিপ্রহর রাত্রি গেলে পুনঃ সূর্য্যোদয় ॥ ৩৮৮ ॥
 
 eka-dui-tina-cāri prahare asta haya  
-cāri-prahara rātri gele punaḥ sūryodaya
+one  two  three  four  in praharas  setting  occurs  
+cāri-prahara rātri gele punaḥ sūryodaya  
+four praharas  of night  having passed  again  sunrise
 
-(388) [not yet translated]
+(388) Through one, two, three and four *praharas* it moves on to its setting, and when the four *praharas* of night have passed, the sun rises again.
 
 ঐছে কৃষ্ণের লীলা-মণ্ডল চৌদ্দ মন্বন্তরে ৷  
 ব্রহ্মাণ্ডমণ্ডল ব্যাপি’ ক্রমে ক্রমে ফিরে ॥ ৩৮৯ ॥
 
 aiche kṛṣṇera līlā-maṇḍala caudda manvantare  
-brahmāṇḍa-maṇḍala vyāpi’ krame krame phire
+likewise  Kṛṣṇa’s  of pastimes  the circle  in fourteen  manvantaras  
+brahmāṇḍa-maṇḍala vyāpi’ krame krame phire  
+of the universes  the circle  pervading  step  by step  revolves
 
-(389) [not yet translated]
+(389) In the same way, over fourteen *manvantaras* the circle of Kṛṣṇa’s pastimes revolves step by step through the circle of the universes.
 
 সওয়াশত বৎসর কৃষ্ণের প্রকট-প্রকাশ ৷  
 তাহা যৈছে ব্রজ-পুরে করিলা বিলাস ॥ ৩৯০ ॥
 
 saoyāśata vatsara kṛṣṇera prakaṭa-prakāśa  
-tāhā yaiche vraja-pure karilā vilāsa
+a hundred and twenty-five  years  Kṛṣṇa’s  manifest  presence  
+tāhā yaiche vraja-pure karilā vilāsa  
+there  as  in Vraja and the cities  He performed  pastimes
 
-(390) [not yet translated]
+(390) Kṛṣṇa’s manifest presence lasts a hundred and twenty-five years, and during it He enjoys His pastimes in Vraja and in the cities, just as He did here.
 
 অলাতচক্রপ্রায় সেই লীলাচক্র ফিরে ৷  
 সব লীলা সব ব্রহ্মাণ্ডে ক্রমে উদয় করে ॥ ৩৯১ ॥
 
 alāta-cakra-prāya sei līlā-cakra phire  
-saba līlā saba brahmāṇḍe krame udaya kare
+a whirling firebrand  like  that  of pastimes  the wheel  revolves  
+saba līlā saba brahmāṇḍe krame udaya kare  
+all  pastimes  in all  universes  in turn  rising  make
 
-(391) [not yet translated]
+(391) Like a whirling firebrand, that wheel of pastimes revolves, and all the pastimes rise in turn in all the universes.
 
 জন্ম, বাল্য, পৌগণ্ড, কৈশোর-প্রকাশ ৷  
 পূতনা-বধাদি করি’ মৌষলান্ত বিলাস ॥ ৩৯২ ॥
 
 janma, bālya, paugaṇḍa, kaiśora-prakāśa  
-pūtanā-vadhādi kari’ mauṣalānta vilāsa
+birth  childhood  boyhood  the manifestation of youth  
+pūtanā-vadhādi kari’ mauṣalānta vilāsa  
+Pūtanā’s killing  beginning with  ending with the Mauṣala  the pastimes
 
-(392) [not yet translated]
+(392) Birth, childhood, boyhood and the manifestation of youth — pastimes beginning with the killing of Pūtanā and ending with the Mauṣala episode.
 
 কোন ব্রহ্মাণ্ডে কোন লীলার হয় অবস্থান ৷  
 তাতে লীলা ‘নিত্য’ কহে নিগম-পুরাণ ॥ ৩৯৩ ॥
 
 kona brahmāṇḍe kona līlāra haya avasthāna  
-tāte līlā ‘nitya’ kahe nigama-purāṇa
+in some  universe  of some  pastime  there is  the presence  
+tāte līlā ‘nitya’ kahe nigama-purāṇa  
+therefore  the pastimes  eternal  call  the Vedas  the Purāṇas
 
-(393) [not yet translated]
+(393) In one universe or another some pastime is always present; therefore the Vedas and Purāṇas call the pastimes eternal.
 
 গোলোক, গোকুল-ধাম — ‘বিভু’ কৃষ্ণসম ৷  
 কৃষ্ণেচ্ছায় ব্রহ্মাণ্ডগণে তাহার সংক্রম ॥ ৩৯৪ ॥
 
 goloka, gokula-dhāma — ‘vibhu’ kṛṣṇa-sama  
-kṛṣṇecchāya brahmāṇḍa-gaṇe tāhāra saṅkrama
+Goloka  the abode of Gokula  all-pervading  equal to Kṛṣṇa  
+kṛṣṇecchāya brahmāṇḍa-gaṇe tāhāra saṅkrama  
+by Kṛṣṇa’s will  into the universes  its  passing
 
-(394) [not yet translated]
+(394) Goloka, the abode of Gokula, is all-pervading (*vibhu*), equal to Kṛṣṇa, and by Kṛṣṇa’s will it descends into the universes.
 
 অতএব গোলোকস্থানে নিত্য বিহার ৷  
 ব্রহ্মাণ্ডগণে ক্রমে প্রাকট তাহার ॥ ৩৯৫ ॥
 
 ataeva goloka-sthāne nitya vihāra  
-brahmāṇḍa-gaṇe krame prākaṭa tāhāra
+therefore  in Goloka  eternal  pastimes  
+brahmāṇḍa-gaṇe krame prākaṭa tāhāra  
+in the universes  in turn  the manifestation  of them
 
-(395) [not yet translated]
+(395) Thus His pastimes go on eternally in Goloka, and in turn they become manifest in the universes.
 
 ব্রজে কৃষ্ণ — সর্ব্বৈশ্বর্য্যপ্রকাশে ‘পূর্ণতম’ ৷  
 পুরীদ্বয়ে, পরব্যোমে — ‘পূর্ণতর’, ‘পূর্ণ’ ॥ ৩৯৬ ॥
 
 vraje kṛṣṇa — sarvaiśvarya-prakāśe ‘pūrṇatama’  
-purī-dvaye, paravyome — ‘pūrṇatara’, ‘pūrṇa’
+in Vraja  Kṛṣṇa  by manifesting all majesty  most complete  
+purī-dvaye, paravyome — ‘pūrṇatara’, ‘pūrṇa’  
+in the two cities  in Paravyoma  more complete  complete
 
-(396) [not yet translated]
+(396) In Vraja, where He manifests all His majesty, Kṛṣṇa is most complete (*pūrṇatama*); in the two cities He is more complete (*pūrṇatara*), and in Paravyoma complete (*pūrṇa*).
 
 হরিঃ পূর্ণতমঃ পূর্ণতরঃ পূর্ণ ইতি ত্রিধা ৷  
 শ্রেষ্ঠমধ্যাদিভিঃ শব্দৈর্নাট্যে যঃ পরিকীর্ত্তিতঃ ॥ ৩৯৭ ॥
 
 hariḥ pūrṇatamaḥ pūrṇa-  
+Hari  most complete  more  
 taraḥ pūrṇa iti tridhā  
+complete  complete  thus  in three ways  
 śreṣṭha-madhyādibhiḥ śabdair  
-nāṭye yaḥ parikīrtitaḥ
+best  middling and the like  by the words  
+nāṭye yaḥ parikīrtitaḥ  
+in drama  who  is celebrated
 
-(397) [not yet translated]
+(397) “Hari, whom works on drama celebrate with words such as ‘best’ and ‘middling’, is described in three ways: most complete, more complete and complete.” (Bhakti-rasāmṛta-sindhu, 2.1.221)
 
 প্রকাশিতাখিলগুণঃ স্মৃতঃ পূর্ণতমো বুধৈঃ ৷  
 অসর্ব্বব্যঞ্জকঃ পূর্ণতরঃ পূর্ণোঽল্পদর্শকঃ ॥ ৩৯৮ ॥
 
 prakāśitākhila-guṇaḥ  
+with all qualities manifest  
 smṛtaḥ pūrṇatamo budhaiḥ  
+is regarded  as most complete  by the wise  
 asarva-vyañjakaḥ pūrṇa-  
-taraḥ pūrṇo ’lpa-darśakaḥ
+not manifesting all  more  
+taraḥ pūrṇo ’lpa-darśakaḥ  
+complete  complete  showing few
 
-(398) [not yet translated]
+(398) “The wise regard Him in whom all qualities are manifest as most complete; Him who does not manifest them all as more complete; and Him who shows only a few as complete.” (Bhakti-rasāmṛta-sindhu, 2.1.222)
 
 কৃষ্ণস্য পূর্ণতমতা ব্যক্তাভূদ্গোকুলান্তরে ৷  
 পূর্ণতা পূর্ণতরতা দ্বারকা-মথুরাদিষু ॥ ৩৯৯ ॥
 
 kṛṣṇasya pūrṇatamatā  
+Kṛṣṇa’s  most complete fullness  
 vyaktābhūd gokulāntare  
+was manifest  in Gokula  
 pūrṇatā pūrṇataratā  
-dvārakā-mathurādiṣu
+fullness  greater fullness  
+dvārakā-mathurādiṣu  
+in Dvārakā  Mathurā and the rest
 
-(399) [not yet translated]
+(399) “Kṛṣṇa’s most complete fullness was manifest in Gokula; His fullness and greater fullness, in Dvārakā, Mathurā and elsewhere.” (Bhakti-rasāmṛta-sindhu, 2.1.223)
 
 এই কৃষ্ণ — ব্রজে ‘পূর্ণতম’ ভগবান্ ৷  
 আর সব স্বরূপ — ‘পূর্ণতর’ ‘পূর্ণ’ নাম ॥ ৪০০ ॥
 
 ei kṛṣṇa — vraje ‘pūrṇatama’ bhagavān  
-āra saba svarūpa — ‘pūrṇatara’ ‘pūrṇa’ nāma
+this  Kṛṣṇa  in Vraja  most complete  Bhagavān  
+āra saba svarūpa — ‘pūrṇatara’ ‘pūrṇa’ nāma  
+other  all  forms  more complete  complete  are called
 
-(400) [not yet translated]
+(400) This Kṛṣṇa in Vraja is Bhagavān most complete; all His other forms are called more complete or complete.
 
 সংক্ষেপে কহিলুঁ কৃষ্ণের স্বরূপ-বিচার ৷  
 ‘অনন্ত’ কহিতে নারে ইহার বিস্তার ॥ ৪০১ ॥
 
 saṅkṣepe kahiluṅ kṛṣṇera svarūpa-vicāra  
-‘ananta’ kahite nāre ihāra vistāra
+in brief  I have told  of Kṛṣṇa’s  forms  the analysis  
+‘ananta’ kahite nāre ihāra vistāra  
+Ananta  to tell  cannot  of this  the full extent
 
-(401) [not yet translated]
+(401) Thus I have briefly analysed Kṛṣṇa’s forms (*svarūpa*). Even Ananta cannot tell all of it.
 
 অনন্ত স্বরূপ কৃষ্ণের নাহিক গণন ৷  
 শাখা-চন্দ্র-ন্যায়ে করি দিগ্দরশন ॥ ৪০২ ॥
 
 ananta svarūpa kṛṣṇera nāhika gaṇana  
-śākhā-candra-nyāye kari dig-daraśana
+endless  forms  Kṛṣṇa’s  there is no  counting  
+śākhā-candra-nyāye kari dig-daraśana  
+of the branch  and the moon  by the maxim  I give  a glimpse
 
-(402) [not yet translated]
+(402) Kṛṣṇa’s forms are endless, beyond counting. I have only pointed toward them, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).”
 
 ইহা যেই শুনে, পড়ে, সেই ভাগ্যবান্ ৷  
 কৃষ্ণের স্বরূপতত্ত্বের হয় কিছু জ্ঞান ॥ ৪০৩ ॥
 
 ihā yei śune, paḍe, sei bhāgyavān  
-kṛṣṇera svarūpa-tattvera haya kichu jñāna
+this  whoever  hears  reads  he  fortunate  
+kṛṣṇera svarūpa-tattvera haya kichu jñāna  
+of Kṛṣṇa’s  forms  of the truth  comes  some  knowledge
 
-(403) [not yet translated]
+(403) Whoever hears or reads this is fortunate: he gains some knowledge of the truth of Kṛṣṇa’s forms.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৪০৪ ॥
 
 śrī rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(404) [not yet translated]
+(404) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
+---
+
+[^372-1]: *gītā-ekādaśe* is read here as “in the *Gītā* and in the Eleventh”: the *vibhūtis* are described in *Bhagavad-gītā* 10 and in *Śrīmad-Bhāgavatam* 11.16.
