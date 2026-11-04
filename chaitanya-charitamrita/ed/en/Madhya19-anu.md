@@ -656,7 +656,7 @@ The creeper of devotion must be fenced in on all sides. The enclosure, or fence,
 
 > Subheading: Things that look like devotion but are not devotion — kinds of non-devotion —
 
-*Upaśākhā* (side shoots)[^158-1] are not the real creeper's own branches but branches of another creeper that looks like it. They twine around the real creeper and seem to be “part” of it, but in fact they are not the real creeper. *Bhukti* is what those who preach enjoyment of the fruits of *karma* obtain; *mukti* is what the followers of *jñāna* obtain; *vāñchā* (desires) are the fruits of *yoga* that the followers of *siddhi* seek: mystic powers (*vibhūti*) and the like.
+*Upaśākhā* (side shoots) are not the real creeper's own branches but branches of another creeper that looks like it. They twine around the real creeper and seem to be “part” of it, but in fact they are not the real creeper. *Bhukti* is what those who preach enjoyment of the fruits of *karma* obtain; *mukti* is what the followers of *jñāna* obtain; *vāñchā* (desires) are the fruits of *yoga* that the followers of *siddhi* seek: mystic powers (*vibhūti*) and the like.
 
 ## 159
 
@@ -1147,8 +1147,6 @@ See Madhya 8.87.
 [^138-1]: There are eleven Rudras, i.e., eleven *lakhs*. A *lakh* is one hundred thousand; the total is 84 *lakhs* (8,400,000).
 
 [^157-1]: *Upadeśāmṛta* 2.
-
-[^158-1]: Our verse translation reads differently: “weeds of material desires or the desire for liberation.”
 
 [^180-1]: The numeral is unclear in the scan (broken type); by sense it is the second wave, which deals with the *anubhāvas*.
 

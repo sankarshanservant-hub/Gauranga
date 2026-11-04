@@ -22,7 +22,7 @@ When Sanātana Gosvāmī was the royal minister, several “Kāyastha” officia
 
 ## 24–27
 
-It is said that the emperor Husain Shāh regarded Sanātana Gosvāmī as his “younger brother.” When Sanātana showed his firm resolve to give up his post, Husain Shāh said in loving anger: “I am your ‘elder brother.’ I do not govern the kingdom at all: I merely go about with my army, plundering one country after another in war, and, being a ‘Yavana’ by birth, I hunt in the districts of Gauḍa and destroy many living beings and beasts, and that is all. You are my only support. If I, your elder brother, am occupied only in plunder and in destroying living beings, and you, my younger brother, also give up your work and ruin everything, how will the kingdom go on?”[^24-27-1] Sanātana replied with a hidden meaning: “You are the ruler of Gauḍa, an independent king, the dispenser of punishment. Whoever has committed a fault, give him its fruit.” These words hold a deep secret. The king himself behaves like a bandit, so let him take the fruit of that. And when the minister (that is, I) is idle in his work, let him (me) receive the fruit of dismissal. Understanding from this what Sanātana wanted, the ruler of Gauḍa got up and left.
+It is said that the emperor Husain Shāh regarded Sanātana Gosvāmī as his “younger brother.” When Sanātana showed his firm resolve to give up his post, Husain Shāh said in loving anger: “I am your ‘elder brother.’ I do not govern the kingdom at all: I merely go about with my army, plundering one country after another in war, and, being a ‘Yavana’ by birth, I hunt in the districts of Gauḍa and destroy many living beings and beasts, and that is all. You are my only support. If I, your elder brother, am occupied only in plunder and in destroying living beings, and you, my younger brother, also give up your work and ruin everything, how will the kingdom go on?” Sanātana replied with a hidden meaning: “You are the ruler of Gauḍa, an independent king, the dispenser of punishment. Whoever has committed a fault, give him its fruit.” These words hold a deep secret. The king himself behaves like a bandit, so let him take the fruit of that. And when the minister (that is, I) is idle in his work, let him (me) receive the fruit of dismissal. Understanding from this what Sanātana wanted, the ruler of Gauḍa got up and left.
 
 ## 33
 
@@ -108,7 +108,7 @@ Some manuscripts read thus, with Śrī Bhagavān's words to Uddhava in the *Śr�
 
 ## 143
 
-O Dhruva (Eternal One)! If the embodied *jīvas* were unlimited, eternal (*dhruva*) in the sense of supreme eternity, and all-pervading, there would be no law that they are subject to Your rule. Only if the *jīva* is accepted as “atomic” and “eternal” in the ordinary sense is it subject to You. The *jīvas* were born consisting of that cause; only by not abandoning them can it be their controller. Therefore the opinion of those who consider the *jīva* and You to be “one” is corrupted by “*matavāda*” (the fault of mere opinion).[^143-1]
+O Dhruva (Eternal One)! If the embodied *jīvas* were unlimited, eternal (*dhruva*) in the sense of supreme eternity, and all-pervading, there would be no law that they are subject to Your rule. Only if the *jīva* is accepted as “atomic” and “eternal” in the ordinary sense is it subject to You. The *jīvas* were born consisting of that cause; only by not abandoning them can it be their controller. Therefore the opinion of those who consider the *jīva* and You to be “one” is corrupted by “*matavāda*” (the fault of mere opinion).
 
 ## 144–149
 
@@ -116,7 +116,7 @@ O Dhruva (Eternal One)! If the embodied *jīvas* were unlimited, eternal (*dhruv
 
 ## 150
 
-O great sage, among many millions of the liberated and the perfected, a person devoted to Nārāyaṇa, peaceful in heart, is extremely rare.[^150-1]
+O great sage, among many millions of the liberated and the perfected, a person devoted to Nārāyaṇa, peaceful in heart, is extremely rare.
 
 ## 151–164
 
@@ -237,12 +237,6 @@ The exclusive devotion to Kṛṣṇa (*kṛṣṇa-niṣṭhā*)[^230-1] of *ś
 *Thus ends the nineteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
-
-[^24-27-1]: The verse translation understands it differently: the king speaks of Sanātana's elder brother in the third person, as one who has ruined a whole province by killing many people (Madhya 19.24–25).
-
-[^143-1]: The verse translation understands parts of the verse differently: “able to reach any destination” for *sarva-gatāḥ*, and the *jīva's* repeated acceptance of new bodies as proof of its dependence (Madhya 19.143).
-
-[^150-1]: The verse translation understands it differently: “among millions of those who strive for mystic perfections or liberation” (Madhya 19.150).
 
 [^177-181-1]: The edition reads *guṇāguṇa* (usually “merits and faults”); by sense, Kṛṣṇa's qualities.
 
