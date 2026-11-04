@@ -80,7 +80,7 @@ Over time the account of the pastimes of Vṛndāvana had been lost. To spread t
 
 ## 120
 
-Śrī Rūpa had previously been tightly bound by many qualities dear to him, yet he became free from household life. Gaurāṅgadeva Himself — like the supreme *rasa*, formless in itself, appearing in a form — favored him in Prayāga together with his younger brother Anupama with loving conversations and firm embraces.
+Śrī Rūpa had previously been tightly bound by many qualities dear to him, yet he became free from household life. Gaurāṅgadeva Himself — like *rasa*: intangible, as *rasa* is, yet the supreme embodied one — favored him in Prayāga together with his younger brother Anupama with loving conversations and firm embraces.
 
 ## 121
 
