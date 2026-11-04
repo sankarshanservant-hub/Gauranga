@@ -2318,115 +2318,145 @@ fixedness on Kṛṣṇa  giving up of thirst  of śānta  two  qualities
 স্বর্গাপবর্গনরকেষ্বপি তুল্যার্থদর্শিনঃ ॥ ২১৬ ॥
 
 nārāyaṇa-parāḥ sarve  
+devoted to Nārāyaṇa  all  
 na kutaścana bibhyati  
+not  from anywhere  fear  
 svargāpavarga-narakeṣv  
-api tulyārtha-darśinaḥ
+in heaven, liberation and hell  
+api tulyārtha-darśinaḥ  
+even  the same value  seeing
 
-(216) [not yet translated]
+(216) “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam, 6.17.28)
 
 এই দুই গুণ ব্যাপে সব ভক্তজনে ৷  
 আকাশের ‘শব্দ’ গুণ যেন ভূতগণে ॥ ২১৭ ॥
 
 ei dui guṇa vyāpe saba bhakta-jane  
-ākāśera ‘śabda’ guṇa yena bhūta-gaṇe
+these  two  qualities  pervade  all  devotees  
+ākāśera ‘śabda’ guṇa yena bhūta-gaṇe  
+of ether  sound  the quality  as  the elements
 
-(217) [not yet translated]
+(217) “These two qualities pervade all devotees, just as sound, the quality of ether, pervades all the elements.
 
 শান্তের স্বভাব — কৃষ্ণে মমতা-গন্ধ হীন ৷  
 ‘পরংব্রহ্ম’-‘পরমাত্মা’-জ্ঞান-প্রবীণ ॥ ২১৮ ॥
 
 śāntera svabhāva — kṛṣṇe mamatā-gandha hīna  
-‘paraṁ-brahma’-‘paramātmā’-jñāna-pravīṇa
+of śānta  the nature  for Kṛṣṇa  of possessiveness  the scent  devoid  
+‘paraṁ-brahma’-‘paramātmā’-jñāna-pravīṇa  
+of the Supreme Brahman  of the Supersoul  in knowledge  expert
 
-(218) [not yet translated]
+(218) “The nature of *śānta* is to be devoid of even a trace of the sense that Kṛṣṇa is ‘my own’ (*mamatā*); in it knowledge of Him as the Supreme Brahman and the Supersoul (*Paramātmā*) predominates.
 
 কেবল ‘স্বরূপ-জ্ঞান’ হয় শান্ত-রসে ৷  
 ‘পূর্ণৈশ্বর্য্যপ্রভু-জ্ঞান’ অধিক হয় দাস্যে ॥ ২১৯ ॥
 
 kevala ‘svarūpa-jñāna’ haya śānta-rase  
-‘pūrṇaiśvarya-prabhu-jñāna’ adhika haya dāsye
+only  knowledge of His svarūpa  is  in śānta-rasa  
+‘pūrṇaiśvarya-prabhu-jñāna’ adhika haya dāsye  
+of the Master full of majesty  knowledge  more  is  in dāsya
 
-(219) [not yet translated]
+(219) “In *śānta-rasa* there is only knowledge of His true nature (*svarūpa*); in *dāsya* there is more — knowledge of Him as the Master full of all majesty.
 
 ঈশ্বরজ্ঞান, সম্ভ্রম-গৌরব প্রচুর ৷  
 ‘সেবা’ করি’ কৃষ্ণে সুখ দেন নিরন্তর ॥ ২২০ ॥
 
 īśvara-jñāna, sambhrama-gaurava pracura  
-‘sevā’ kari’ kṛṣṇe sukha dena nirantara
+awareness of the Lord  awe and reverence  abundant  
+‘sevā’ kari’ kṛṣṇe sukha dena nirantara  
+service  rendering  to Kṛṣṇa  happiness  they give  constantly
 
-(220) [not yet translated]
+(220) “In it there is awareness of Him as the Lord, with abundant awe and reverence; and by their service the devotees constantly give Kṛṣṇa happiness.
 
 শান্তের গুণ দাস্যে আছে, অধিক — ‘সেবন’ ৷  
 অতএব দাস্যরসের এই ‘দুই’ গুণ ॥ ২২১ ॥
 
 śāntera guṇa dāsye āche, adhika — ‘sevana’  
-ataeva dāsya-rasera ei ‘dui’ guṇa
+of śānta  the quality  in dāsya  is  in addition  service  
+ataeva dāsya-rasera ei ‘dui’ guṇa  
+therefore  of dāsya-rasa  these  two  qualities
 
-(221) [not yet translated]
+(221) “The quality of *śānta* is present in *dāsya*, and service besides; therefore *dāsya-rasa* has these two qualities.
 
 শান্তের গুণ, দাস্যের সেবন — সখ্যে দুই হয় ৷  
 দাস্যের ‘সম্ভ্রম-গৌরব’-সেবা, সখ্যে ‘বিশ্বাস’-ময় ॥ ২২২ ॥
 
 śāntera guṇa, dāsyera sevana — sakhye dui haya  
-dāsyera ‘sambhrama-gaurava’-sevā, sakhye ‘viśvāsa’-maya
+of śānta  the quality  of dāsya  the service  in sakhya  both  are  
+dāsyera ‘sambhrama-gaurava’-sevā, sakhye ‘viśvāsa’-maya  
+of dāsya  with awe and reverence  service  in sakhya  with trust  filled
 
-(222) [not yet translated]
+(222) “The quality of *śānta* and the service of *dāsya* — both are present in *sakhya*. But whereas the service of *dāsya* is full of awe and reverence, in *sakhya* it is full of trust.
 
 কান্ধে চড়ে, কান্ধে চড়ায়, করে ক্রীড়া-রণ ৷  
 কৃষ্ণে সেবে, কৃষ্ণে করায় আপন-সেবন ॥ ২২৩ ॥
 
 kāndhe caḍe, kāndhe caḍāya, kare krīḍā-raṇa  
-kṛṣṇe seve, kṛṣṇe karāya āpana-sevana
+on the shoulders  they climb  on their shoulders  they mount Him  they do  mock fighting  
+kṛṣṇe seve, kṛṣṇe karāya āpana-sevana  
+Kṛṣṇa  they serve  Kṛṣṇa  they make  to serve them
 
-(223) [not yet translated]
+(223) “They climb on His shoulders and carry Him on theirs, and play at fighting with Him. They serve Kṛṣṇa, and they make Kṛṣṇa serve them.
 
 বিশ্রম্ভ-প্রধান সখ্য — গৌরব-সম্ভ্রম-হীন ৷  
 অতএব সখ্য-রসের ‘তিন’ গুণ — চিহ্ন ॥ ২২৪ ॥
 
 viśrambha-pradhāna sakhya — gaurava-sambhrama-hīna  
-ataeva sakhya-rasera ‘tina’ guṇa — cihna
+trust  chiefly  sakhya  of reverence and awe  devoid  
+ataeva sakhya-rasera ‘tina’ guṇa — cihna  
+therefore  of sakhya-rasa  three  qualities  the marks
 
-(224) [not yet translated]
+(224) “*Sakhya* is founded chiefly on intimate trust (*viśrambha*) and is free of reverence and awe; therefore three qualities are the marks of *sakhya-rasa*.
 
 ‘মমতা’ অধিক, কৃষ্ণে আত্মসম জ্ঞান ৷  
 অতএব সখ্যরসের বশ ভগবান্ ॥ ২২৫ ॥
 
 ‘mamatā’ adhika, kṛṣṇe ātma-sama jñāna  
-ataeva sakhya-rasera vaśa bhagavān
+possessiveness  greater  of Kṛṣṇa  as equal to oneself  the sense  
+ataeva sakhya-rasera vaśa bhagavān  
+therefore  by sakhya-rasa  controlled  the Lord
 
-(225) [not yet translated]
+(225) “In it the sense of Kṛṣṇa as ‘my own’ is greater, and one regards Kṛṣṇa as one’s equal; therefore the Lord is subdued by *sakhya-rasa*.
 
 বাৎসল্যে শান্তের গুণ, দাস্যের সেবন ৷  
 সেই সেই সেবনের ইঁহা নাম — ‘পালন’ ॥ ২২৬ ॥
 
 vātsalye śāntera guṇa, dāsyera sevana  
-sei sei sevanera iṅhā nāma — ‘pālana’
+in vātsalya  of śānta  the quality  of dāsya  the service  
+sei sei sevanera iṅhā nāma — ‘pālana’  
+that  very  service’s  here  the name  nurturing
 
-(226) [not yet translated]
+(226) “In *vātsalya* there are the quality of *śānta* and the service of *dāsya*; but here that service is called nurturing (*pālana*).
 
 সখ্যের গুণ — ‘অসঙ্কোচ’, ‘অগৌরব’-সার ৷  
 মমতাধিক্যে তাড়ন-ভর্ৎসন-ব্যবহার ॥ ২২৭ ॥
 
 sakhyera guṇa — ‘asaṅkoca’, ‘agaurava’-sāra  
-mamatādhikye tāḍana-bhartsana-vyavahāra
+of sakhya  the quality  freedom from restraint  absence of reverence  the essence  
+mamatādhikye tāḍana-bhartsana-vyavahāra  
+from excess of possessiveness  chastising and scolding  behavior
 
-(227) [not yet translated]
+(227) “The quality of *sakhya* is there too — freedom from restraint, with no reverence at its core; and from an excess of the sense of Kṛṣṇa as ‘my own’, they chastise and scold Him.
 
 আপনারে ‘পালক’-জ্ঞান, কৃষ্ণে ‘পাল্য’-জ্ঞান ৷  
 ‘চারি’ গুণে বাৎসল্য রস — অমৃত-সমান ॥ ২২৮ ॥
 
 āpanāre ‘pālaka’-jñāna, kṛṣṇe ‘pālya’-jñāna  
-‘cāri’ guṇe vātsalya rasa — amṛta-samāna
+oneself  as protector  the sense  Kṛṣṇa  as dependent  the sense  
+‘cāri’ guṇe vātsalya rasa — amṛta-samāna  
+with four  qualities  vātsalya  rasa  like nectar
 
-(228) [not yet translated]
+(228) “They regard themselves as His protectors and Kṛṣṇa as their dependent. With these four qualities, *vātsalya-rasa* is like nectar.
 
 সে অমৃতানন্দে ভক্ত সহ ডুবেন আপনে ৷  
 ‘কৃষ্ণ — ভক্তবশ’ গুণ কহে ঐশ্বর্য্য-জ্ঞানিগণে ॥ ২২৯ ॥
 
 se amṛtānande bhakta saha ḍubena āpane  
-‘kṛṣṇa — bhakta-vaśa’ guṇa kahe aiśvarya-jñāni-gaṇe
+in that  nectar-bliss  the devotee  with  is immersed  Himself  
+‘kṛṣṇa — bhakta-vaśa’ guṇa kahe aiśvarya-jñāni-gaṇe  
+Kṛṣṇa  controlled by His devotees  the quality  speak of  those who know His majesty
 
-(229) [not yet translated]
+(229) “Kṛṣṇa Himself is immersed with His devotee in that nectar of bliss. Those who know His majesty speak of this quality: ‘Kṛṣṇa is controlled by His devotees.’
 
 ইতিদৃক্স্বলীলাভিরানন্দকুণ্ডে  
 স্বঘোষং নিমজ্জন্তমাখ্যাপয়ন্তম্ ৷  
@@ -2434,227 +2464,285 @@ se amṛtānande bhakta saha ḍubena āpane
 পুনঃ প্রেমতস্তং শতাবৃত্তি বন্দে ॥ ২৩০ ॥
 
 itidṛk-sva-līlābhir ānanda-kuṇḍe  
+by such  pastimes of His own  in a pool of bliss  
 sva-ghoṣaṁ nimajjantam ākhyāpayantam  
+His own cowherd village  immersing  proclaiming  
 tadīyeśita-jñeṣu bhaktair jitatvaṁ  
-punaḥ prematas taṁ śatāvṛtti vande
+to those who know His lordship  by His devotees  His being conquered  
+punaḥ prematas taṁ śatāvṛtti vande  
+again  with love  Him  a hundred times  I worship
 
-(230) [not yet translated]
+(230) “By such pastimes He immerses His own cowherd village in a pool of bliss, and to those absorbed in knowledge of His lordship He proclaims that He is conquered by His devotees. Again, with love, I bow to Him a hundred times.” (Dāmodarāṣṭaka, 3)
 
 মধুর-রসে — কৃষ্ণনিষ্ঠা, সেবা অতিশয় ৷  
 সখ্যের অসঙ্কোচ, লালন-মমতাধিক্য হয় ॥ ২৩১ ॥
 
 madhura-rase — kṛṣṇa-niṣṭhā, sevā atiśaya  
-sakhyera asaṅkoca, lālana-mamatādhikya haya
+in madhura-rasa  fixedness on Kṛṣṇa  service  in abundance  
+sakhyera asaṅkoca, lālana-mamatādhikya haya  
+of sakhya  the freedom from restraint  of nurturing  the excess of possessiveness  are
 
-(231) [not yet translated]
+(231) “In *madhura-rasa* there are fixedness on Kṛṣṇa, service in abundance, the freedom of *sakhya*, and the abundant sense of ‘my own’ found in nurturing.
 
 কান্তভাবে নিজাঙ্গ দিয়া করেন সেবন ৷  
 অতএব মধুর-রসের হয় ‘পঞ্চ’ গুণ ॥ ২৩২ ॥
 
 kānta-bhāve nijāṅga diyā karena sevana  
-ataeva madhura-rasera haya ‘pañca’ guṇa
+in the mood of a beloved  one’s own body  giving  they do  service  
+ataeva madhura-rasera haya ‘pañca’ guṇa  
+therefore  of madhura-rasa  are  five  qualities
 
-(232) [not yet translated]
+(232) “In the mood of His beloveds they serve Him with their own bodies; therefore *madhura-rasa* has five qualities.
 
 আকাশাদি গুণ যেন পর পর ভূতে ৷  
 এক-দুই-তিন-চারি-ক্রমে পঞ্চ পৃথিবীতে ॥ ২৩৩ ॥
 
 ākāśādi guṇa yena para para bhūte  
-eka-dui-tina-cāri-krame pañca pṛthivīte
+of ether and the rest  the qualities  as  in each succeeding  element  
+eka-dui-tina-cāri-krame pañca pṛthivīte  
+one, two, three, four  in succession  five  in earth
 
-(233) [not yet translated]
+(233) “It is like the qualities of ether and the other elements, which increase in each succeeding element — one, two, three, four — until all five are found in earth.
 
 এইমত মধুরে সব ভাব-সমাহার ৷  
 অতএব আস্বাদাধিক্যে করে চমৎকার ॥ ২৩৪ ॥
 
 ei-mata madhure saba bhāva-samāhāra  
-ataeva āsvādādhikye kare camatkāra
+in this way  in madhura  all  of the moods  the gathering  
+ataeva āsvādādhikye kare camatkāra  
+therefore  by its abundance of taste  does  wonder
 
-(234) [not yet translated]
+(234) “In the same way, all the moods are gathered together in *madhura*; therefore it astonishes by the abundance of its taste.
 
 এই ভক্তিরসের করিলাঙ, দিগ্দরশন ৷  
 ইহার বিস্তার মনে করিহ ভাবন ॥ ২৩৫ ॥
 
 ei bhakti-rasera karilāṅa, dig-daraśana  
-ihāra vistāra mane kariha bhāvana
+of this  bhakti-rasa  I have made  an overview  
+ihāra vistāra mane kariha bhāvana  
+its  elaboration  in your mind  do  meditation
 
-(235) [not yet translated]
+(235) “I have given you only an overview of *bhakti-rasa*; meditate in your mind on its full elaboration.
 
 ভাবিতে ভাবিতে কৃষ্ণ স্ফুরয়ে অন্তরে ৷  
 কৃষ্ণকৃপায় অজ্ঞ পায় রসসিন্ধু-পারে ॥ ২৩৬ ॥
 
 bhāvite bhāvite kṛṣṇa sphuraye antare  
-kṛṣṇa-kṛpāya ajña pāya rasa-sindhu-pāre
+meditating  meditating  Kṛṣṇa  manifests  within  
+kṛṣṇa-kṛpāya ajña pāya rasa-sindhu-pāre  
+by Kṛṣṇa’s  mercy  an ignorant one  reaches  of the ocean of rasa  the far shore
 
-(236) [not yet translated]
+(236) “As one meditates on it again and again, Kṛṣṇa manifests within the heart, and by Kṛṣṇa’s mercy even one who knows nothing reaches the far shore of the ocean of *rasa*.”
 
 এত বলি’ প্রভু তাঁরে কৈলা আলিঙ্গন ৷  
 বারাণসী চলিবারে প্রভুর হৈল মন ॥ ২৩৭ ॥
 
 eta bali’ prabhu tāṅre kailā āliṅgana  
-vārāṇasī calibāre prabhura haila mana
+this  saying  the Lord  him  made  an embrace  
+vārāṇasī calibāre prabhura haila mana  
+to Vārāṇasī  to go  the Lord’s  arose  mind
 
-(237) [not yet translated]
+(237) Saying this, the Lord embraced him, and then He made up His mind to go to Vārāṇasī.
 
 প্রভাতে উঠিয়া যবে করিলা গমন ৷  
 তবে তাঁর পদে রূপ করে নিবেদন ॥ ২৩৮ ॥
 
 prabhāte uṭhiyā yabe karilā gamana  
-tabe tāṅra pade rūpa kare nivedana
+in the morning  rising  when  He did  departure  
+tabe tāṅra pade rūpa kare nivedana  
+then  His  at the feet  Rūpa  makes  a submission
 
-(238) [not yet translated]
+(238) When the Lord rose in the morning and set out, Rūpa made this submission at His feet:
 
 ‘আজ্ঞা হয়, আসি মুঞি শ্রীচরণ-সঙ্গে ৷  
 সহিতে না পারি মুঞি বিরহ-তরঙ্গে’ ॥ ২৩৯ ॥
 
 ‘ājñā haya, āsi muñi śrī-caraṇa-saṅge  
-sahite nā pāri muñi viraha-taraṅge’
+permission  if there is  may come  I  Your holy feet  with  
+sahite nā pāri muñi viraha-taraṅge’  
+to bear  not  am able  I  of separation  the waves
 
-(239) [not yet translated]
+(239) “If You permit, I shall come with Your holy feet. I cannot bear the waves of separation.”
 
 প্রভু কহে, — তোমার কর্ত্তব্য, আমার বচন ৷  
 নিকটে আসিয়াছ তুমি, যাহ বৃন্দাবন ॥ ২৪০ ॥
 
 prabhu kahe, — tomāra kartavya, āmāra vacana  
-nikaṭe āsiyācha tumi, yāha vṛndāvana
+the Lord  says  your  duty  My  word  
+nikaṭe āsiyācha tumi, yāha vṛndāvana  
+near  have come  you  go  to Vṛndāvana
 
-(240) [not yet translated]
+(240) The Lord said: “Your duty is to follow My word. You have come near to it — go to Vṛndāvana.
 
 বৃন্দাবন হৈতে তুমি গৌড়দেশ দিয়া ৷  
 আমারে মিলিবা নীলাচলেতে আসিয়া ॥ ২৪১ ॥
 
 vṛndāvana haite tumi gauḍa-deśa diyā  
-āmāre milibā nīlācalete āsiyā
+Vṛndāvana  from  you  Gauḍa-deśa  by way of  
+āmāre milibā nīlācalete āsiyā  
+Me  you will meet  to Nīlācala  coming
 
-(241) [not yet translated]
+(241) “Then from Vṛndāvana, by way of Gauḍa-deśa, you will come to Nīlācala and meet Me there.”
 
 তাঁরে আলিঙ্গিয়া প্রভু নৌকাতে চড়িলা ৷  
 মূর্চ্ছিতা হঞা তিঁহো তাহাঞি পড়িলা ॥ ২৪২ ॥
 
 tāṅre āliṅgiyā prabhu naukāte caḍilā  
-mūrcchitā hañā tiṅho tāhāñi paḍilā
+him  embracing  the Lord  the boat  boarded  
+mūrcchitā hañā tiṅho tāhāñi paḍilā  
+unconscious  becoming  he  right there  fell
 
-(242) [not yet translated]
+(242) Embracing him, the Lord boarded the boat, and Rūpa fell unconscious on the spot.
 
 দাক্ষিণাত্য-বিপ্র তাঁরে ঘরে লঞা গেলা ৷  
 তবে দুই ভাই বৃন্দাবনেরে চলিলা ॥ ২৪৩ ॥
 
 dākṣiṇātya-vipra tāṅre ghare lañā gelā  
-tabe dui bhāi vṛndāvanere calilā
+the South Indian  brāhmaṇa  him  home  taking  went  
+tabe dui bhāi vṛndāvanere calilā  
+then  the two  brothers  to Vṛndāvana  set out
 
-(243) [not yet translated]
+(243) The brāhmaṇa from the South took him to his home, and then the two brothers set out for Vṛndāvana.
 
 মহাপ্রভু চলি’ চলি’ আইলা বারাণসী ৷  
 চন্দ্রশেখর মিলিলা গ্রামের বাহিরে আসি’ ॥ ২৪৪ ॥
 
 mahāprabhu cali’ cali’ āilā vārāṇasī  
-candraśekhara mililā grāmera bāhire āsi’
+Mahāprabhu  walking  walking  came  to Vārāṇasī  
+candraśekhara mililā grāmera bāhire āsi’  
+Candraśekhara  met Him  of the town  outside  coming
 
-(244) [not yet translated]
+(244) Mahāprabhu travelled on and on and came to Vārāṇasī, where Candraśekhara came out of the town and met Him.
 
 রাত্রে তিঁহো স্বপ্ন দেখে, — প্রভু আইলা ঘরে ৷  
 প্রাতঃকালে আসি’ রহে গ্রামের বাহিরে ॥ ২৪৫ ॥
 
 rātre tiṅho svapna dekhe, — prabhu āilā ghare  
-prātaḥ-kāle āsi’ rahe grāmera bāhire
+at night  he  a dream  sees  the Lord  has come  to the house  
+prātaḥ-kāle āsi’ rahe grāmera bāhire  
+in the morning  coming  waits  of the town  outside
 
-(245) [not yet translated]
+(245) At night he had dreamt that the Lord had come to his house; so in the morning he came out and waited outside the town.
 
 আচম্বিতে প্রভু দেখি’ চরণে পড়িলা ৷  
 আনন্দিত হঞা নিজ-গৃহে লঞা গেলা ॥ ২৪৬ ॥
 
 ācambite prabhu dekhi’ caraṇe paḍilā  
-ānandita hañā nija-gṛhe lañā gelā
+unexpectedly  the Lord  seeing  at His feet  he fell  
+ānandita hañā nija-gṛhe lañā gelā  
+joyful  becoming  to his own house  taking  went
 
-(246) [not yet translated]
+(246) Seeing the Lord so unexpectedly, he fell at His feet, and full of joy he took Him to his own house.
 
 তপনমিশ্র শুনি’ আসি’ প্রভুরে মিলিলা ৷  
 ইষ্টগোষ্ঠী করি’ প্রভুর নিমন্ত্রণ কৈলা ॥ ২৪৭ ॥
 
 tapana-miśra śuni’ āsi’ prabhure mililā  
-iṣṭa-goṣṭhī kari’ prabhura nimantraṇa kailā
+Tapana Miśra  hearing  coming  the Lord  met  
+iṣṭa-goṣṭhī kari’ prabhura nimantraṇa kailā  
+a discussion  holding  of the Lord  invitation  made
 
-(247) [not yet translated]
+(247) Hearing of this, Tapana Miśra came and met the Lord. After talking with Him, he invited the Lord to take His meal.
 
 নিজঘরে লঞা প্রভুরে ভিক্ষা করাইল ৷  
 ভট্টাচার্য্যে চন্দ্রশেখর নিমন্ত্রণ কৈল ॥ ২৪৮ ॥
 
 nija-ghare lañā prabhure bhikṣā karāila  
-bhaṭṭācārye candraśekhara nimantraṇa kaila
+to his own house  taking  the Lord  the meal  had Him take  
+bhaṭṭācārye candraśekhara nimantraṇa kaila  
+the Bhaṭṭācārya  Candraśekhara  invitation  made
 
-(248) [not yet translated]
+(248) He took the Lord to his own house and fed Him, and Candraśekhara invited the Bhaṭṭācārya.
 
 ভিক্ষা করাঞা মিশ্র কহে প্রভু-পায় ধরি’ ৷  
 এক ভিক্ষা মাগি, মোরে দেহ’ কৃপা করি’ ॥ ২৪৯ ॥
 
 bhikṣā karāñā miśra kahe prabhu-pāya dhari’  
-eka bhikṣā māgi, more deha’ kṛpā kari’
+the meal  having fed  Miśra  says  the Lord’s feet  holding  
+eka bhikṣā māgi, more deha’ kṛpā kari’  
+one  alms  I beg  to me  give  mercy  showing
 
-(249) [not yet translated]
+(249) After feeding Him, Miśra clasped the Lord’s feet and said: “I beg one alms of You; please be merciful and grant it:
 
 ‘যাবৎ তোমার হয় কাশীপুরে স্থিতি ৷  
 মোর ঘর বিনা ভিক্ষা না করিবা কতি’ ॥ ২৫০ ॥
 
 ‘yāvat tomāra haya kāśī-pure sthiti  
-mora ghara vinā bhikṣā nā karibā kati’
+as long as  Your  is  in Kāśī  stay  
+mora ghara vinā bhikṣā nā karibā kati’  
+my  house  except  meal  not  You will take  anywhere
 
-(250) [not yet translated]
+(250) “as long as You stay in Kāśī, take Your meals nowhere but in my house.”
 
 প্রভু জানেন, দিন পাঁচ-সাত সে রহিব ৷  
 সন্ন্যাসীর সঙ্গে ভিক্ষা কাঁহা না করিব ॥ ২৫১ ॥
 
 prabhu jānena, dina pāṅca-sāta se rahiba  
-sannyāsīra saṅge bhikṣā kāṅhā nā kariba
+the Lord  knows  days  five or seven  He  will stay  
+sannyāsīra saṅge bhikṣā kāṅhā nā kariba  
+sannyāsīs  with  meals  anywhere  not  will take
 
-(251) [not yet translated]
+(251) The Lord knew that He would stay only five or seven days, and that He would not take meals with the *sannyāsīs* anywhere.
 
 এত জানি’ তাঁর ভিক্ষা কৈলা অঙ্গীকার ৷  
 বাসা-নিষ্ঠা কৈলা চন্দ্রশেখরের ঘর ॥ ২৫২ ॥
 
 eta jāni’ tāṅra bhikṣā kailā aṅgīkāra  
-vāsā-niṣṭhā kailā candraśekharera ghara
+this  knowing  his  meals  made  acceptance  
+vāsā-niṣṭhā kailā candraśekharera ghara  
+residence  fixed  made  Candraśekhara’s  house
 
-(252) [not yet translated]
+(252) Knowing this, He accepted Miśra’s request to take His meals with him, and made Candraśekhara’s house His residence.
 
 মহারাষ্ট্রীয় বিপ্র আসি’ তাঁহারে মিলিলা ৷  
 প্রভু তাঁরে স্নেহ করি’ কৃপা প্রকাশিলা ॥ ২৫৩ ॥
 
 mahārāṣṭrīya vipra āsi’ tāṅhāre mililā  
-prabhu tāṅre sneha kari’ kṛpā prakāśilā
+from Mahārāṣṭra  a brāhmaṇa  coming  Him  met  
+prabhu tāṅre sneha kari’ kṛpā prakāśilā  
+the Lord  to him  affection  showing  mercy  revealed
 
-(253) [not yet translated]
+(253) A brāhmaṇa from Mahārāṣṭra came and met Him, and the Lord, out of affection, showed him His mercy.
 
 মহাপ্রভু আইলা শুনি’ শিষ্ট শিষ্ট জন ৷  
 ব্রাহ্মণ, ক্ষত্রিয় আসি’ করেন দরশন ॥ ২৫৪ ॥
 
 mahāprabhu āilā śuni’ śiṣṭa śiṣṭa jana  
-brāhmaṇa, kṣatriya āsi’ karena daraśana
+Mahāprabhu  has come  hearing  respectable  respectable  people  
+brāhmaṇa, kṣatriya āsi’ karena daraśana  
+brāhmaṇas  kṣatriyas  coming  do  seeing
 
-(254) [not yet translated]
+(254) Hearing that Mahāprabhu had come, many respectable people — *brāhmaṇas* and *kṣatriyas* — came to see Him.
 
 শ্রীরূপ-উপরে প্রভুর যত কৃপা হৈল ৷  
 অত্যন্ত-বিস্তার-কথা সংক্ষেপে কহিল ॥ ২৫৫ ॥
 
 śrī-rūpa-upare prabhura yata kṛpā haila  
-atyanta-vistāra-kathā saṅkṣepe kahila
+Śrī Rūpa  upon  the Lord’s  all  mercy  was  
+atyanta-vistāra-kathā saṅkṣepe kahila  
+very  extensive  the account  in brief  I have told
 
-(255) [not yet translated]
+(255) All the mercy the Lord showed Śrī Rūpa is a vast story; I have told it in brief.
 
 শ্রদ্ধা করি’ এই কথা শুনে যেই জনে ৷  
 প্রেমভক্তি পায় সেই চৈতন্য-চরণে ॥ ২৫৬ ॥
 
 śraddhā kari’ ei kathā śune yei jane  
-prema-bhakti pāya sei caitanya-caraṇe
+faith  with  this  account  hears  whatever  person  
+prema-bhakti pāya sei caitanya-caraṇe  
+loving devotion  obtains  he  at Caitanya’s feet
 
-(256) [not yet translated]
+(256) Whoever hears this account with faith obtains loving devotion at the feet of Caitanya.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৫৭ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(257) [not yet translated]
+(257) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
