@@ -1103,7 +1103,7 @@ dressed as a cowherd  flute in hand  freshly youthful  the best of dancers
 nara-līlāra haya anurūpa  
 for the human-like pastime  is  fitting
 
-(101) Of all Kṛṣṇa’s pastimes the highest is His human-like pastime (*nara-līlā*), and a human-like form is His own true form. Dressed as a cowherd boy, flute in hand, ever freshly youthful, the finest of dancers — this form perfectly suits His human-like pastimes.
+(101) “Of all Kṛṣṇa’s pastimes the highest is His human-like pastime (*nara-līlā*), and a human-like form is His own true form. Dressed as a cowherd boy, flute in hand, ever freshly youthful, the finest of dancers — this form perfectly suits His human-like pastimes.[^21]
 
 কৃষ্ণের মধুর রূপ শুন, সনাতন ৷  
 যে রূপের এক কণ, ডুবায় যে ত্রিভুবন,  
@@ -1196,7 +1196,7 @@ conquering  of the five-arrowed one  the pride  Himself  a new Cupid
 rāsa kare lañā gopī-gaṇa  
 the rāsa  performs  taking  the gopīs
 
-(107) Mounted on the chariot of the gopīs’ heartfelt desire, He churns the mind of Cupid himself, and so He bears the name Madana-mohana, the enchanter of Cupid. Conquering the pride of the five-arrowed god, He, Himself a new Cupid (*nava-kandarpa*), performs the *rāsa* dance with the gopīs.
+(107) Mounted on the chariot of the gopīs’ heartfelt desire, He stirs the mind of Cupid himself, and so He is called Madana-mohana. Conquering the pride of the five-arrowed god, He Himself, the new Kandarpa (*nava-kandarpa*), dances the *rāsa* with the gopīs.[^22]
 
 নিজ-সম সখা-সঙ্গে, গোগণ-চারণ-রঙ্গে,  
 বৃন্দাবনে স্বচ্ছন্দ বিহার ৷  
@@ -1228,7 +1228,7 @@ Kṛṣṇa  a fresh rain cloud  of the world  the crops  upon
 variṣaye līlāmṛta-dhāra  
 pours  of the nectar of pastimes  showers
 
-(109) His pearl necklace is a line of herons, His peacock feather the rainbow, His yellow garment a flash of lightning. Kṛṣṇa is a fresh rain cloud pouring showers of the nectar of His pastimes upon the crops of the world.
+(109) His pearl necklace is a line of herons, His peacock feather the rainbow, His yellow garment a flash of lightning. Kṛṣṇa is a fresh rain cloud pouring showers of the nectar of His pastimes upon the crops of the world.[^23]
 
 মাধুর্য্য ভগবত্তা-সার, ব্রজে কৈল পরচার,  
 তাহা শুক — ব্যাসের নন্দন ৷  
@@ -1244,7 +1244,7 @@ in place  after place  in the Bhāgavata  has described  to make known
 tāhā śuni’ nāce bhakta-gaṇa  
 that  hearing  dance  the devotees
 
-(110) Sweetness, the essence of Godhood (*bhagavattā*), He made known in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.
+(110) Sweetness, the essence of Godhood (*bhagavattā*), He made known in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.”
 
 কহিতে কৃষ্ণের রসে, শ্লোক পড়ে প্রেমাবেশে,  
 প্রেমে সনাতন-হাত ধরি’ ৷  
@@ -1276,7 +1276,7 @@ with the eyes  drink  at every moment new  hard to attain
 ekānta-dhāma yaśasaḥ śriya aiśvarasya  
 the sole abode  of fame  of beauty  of majesty
 
-(112) “What austerities did the gopīs perform, that with their eyes they drink His form — the essence of loveliness, unequalled and unsurpassed, perfect in itself, new at every moment, hard to attain, the sole abode of fame, beauty and majesty?” (Śrīmad-Bhāgavatam, 10.44.14)
+(112) “What austerities did the gopīs perform, that with their eyes they drink His form — the essence of loveliness, unequalled and unsurpassed, perfect in itself, new at every moment, hard to attain, the sole abode of fame, beauty and majesty?” (Śrīmad-Bhāgavatam, 10.44.14)[^24]
 
 তারুণ্যামৃত — পারাবার, তরঙ্গ — লাবণ্যসার,  
 তাতে সে আবর্ত্ত ভাবোদ্গম ৷  
@@ -1292,7 +1292,7 @@ the flute’s sound  a whirlwind  of women  pride  grass and leaves
 tāhā ḍubāya, nā haya udgama  
 that  it sinks  not  is  rising again
 
-(113) His youth is a nectar ocean; its waves are the essence of loveliness, its whirlpools the surging of emotions. The sound of His flute is a whirlwind, and women’s pride is but grass and leaves: the whirlwind sinks it, and it never rises again.
+(113) “His youth is a nectar ocean; its waves are the essence of loveliness, its whirlpools the surging of emotions. The sound of His flute is a whirlwind, and women’s pride is but grass and leaves: the whirlwind sinks it, and it never rises again.
 
 সখি হে, কোন্ তপ কৈল গোপীগণ ৷  
 কৃষ্ণরূপ-সুমাধুরী, পিবি’ পিবি’ নেত্র ভরি’,  
@@ -1417,7 +1417,7 @@ good-natured  gentle  generous  Kṛṣṇa  except  there is not  another
 kṛṣṇa kare jagatera hita  
 Kṛṣṇa  does  of the world  the good
 
-(121) Beauty, modesty, mercy, fame, steadfastness and skilful intelligence — all these are established in Kṛṣṇa. Good-natured, gentle and generous — there is no one so but Kṛṣṇa. Kṛṣṇa does good to the world.
+(121) Beauty, modesty, mercy, fame, steadfastness and skilful intelligence — all these are established in Kṛṣṇa. Good nature, gentleness and generosity are found in no one but Kṛṣṇa. Kṛṣṇa does good to the whole world.[^25]
 
 কৃষ্ণ দেখি’ যত জন, কৈল নিমিষে নিন্দন,  
 ব্রজে বিধি নিন্দে গোপীগণ ৷  
@@ -1433,7 +1433,7 @@ those  all  verses  reciting  Mahāprabhu  the meaning  explaining
 sukhe mādhurya kare āsvādana  
 in joy  the sweetness  makes  tasting
 
-(122) All who saw Kṛṣṇa reproached the blinking of their eyes, and in Vraja the gopīs reproached the Creator. Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
+(122) All who saw Kṛṣṇa reproached the blinking of their eyes, and in Vraja the gopīs reproached the Creator.” Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
 
 যস্যাননং মকরকুণ্ডলচারুকর্ণ-  
 ভ্রাজৎকপোলসুভগং সবিলাসহাসম্ ৷  
@@ -1465,7 +1465,7 @@ with curling  locks  beautiful face  and  Your
 jaḍa udīkṣatāṁ pakṣma-kṛd dṛśām  
 a fool  for those gazing  the maker of eyelids  of the eyes
 
-(124) “When by day You wander in the forest, a moment without You becomes an age for us. And as we gaze upon Your beautiful face framed in curling locks, we see what a fool was the maker of our eyelids.” (Śrīmad-Bhāgavatam, 10.31.15)
+(124) “When by day You wander in the forest, a moment without You becomes an age for us. And as we gaze upon Your beautiful face framed in curling locks, we see what a fool was the maker of our eyelids.” (Śrīmad-Bhāgavatam, 10.31.15)[^26]
 
 কামগায়ত্রী-মন্ত্ররূপ, হয় কৃষ্ণের স্বরূপ,  
 সার্দ্ধ-চব্বিশ অক্ষর তার হয় ৷  
@@ -1481,7 +1481,7 @@ those  syllables  moons  are  Kṛṣṇa  making  rise
 trijagat kailā kāmamaya  
 the three worlds  made  full of love’s desire
 
-(125) The form of the Kāma-gāyatrī mantra is Kṛṣṇa’s own form. It has twenty-four and a half syllables; those syllables are moons, and, making Kṛṣṇa rise, they have filled the three worlds with love’s desire (*kāma*).
+(125) “The form of the Kāma-gāyatrī mantra is Kṛṣṇa’s own form. It has twenty-four and a half syllables; those syllables are moons, and, making Kṛṣṇa rise, they have filled the three worlds with longing for Him (*kāma*).[^27]
 
 সখি হে, কৃষ্ণমুখ — দ্বিজরাজ-রাজ ৷  
 কৃষ্ণবপু সিংহাসনে, বসি’ রাজ্য শাসনে,  
@@ -1876,3 +1876,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^19]: In the verse: *śata-koṭi, lakṣa-koṭi, niyuta-koṭi, koṭi-koṭi* — a hundred, a hundred thousand, a million and ten million *koṭis* (a *koṭi* is ten million).
 
 [^20]: The same verse as 51. The edition’s heading: “words of the Uttara-khaṇḍa of the *Padma Purāṇa*, cited in the *Laghu-bhāgavatāmṛta* (Pūrva-khaṇḍa, 28)”.
+
+[^21]: *Anubhāṣya*: Kṛṣṇa’s *svarūpa* accords with His human-like pastimes, yet it has no taint of worldly qualities: it is not base, not mortal, not transient, not limited and not divided.
+
+[^22]: *Anubhāṣya*: the chariot of the gopīs’ mind is their favourable disposition; mounting it, Kṛṣṇa accepts their service. The new Kandarpa is the transcendental Madana of Vraja.
+
+[^23]: *Anubhāṣya*: the gopīs are like the crops of the world; as a cloud rains on the crops, Kṛṣṇa pours on them streams of the nectar of His pastimes and so gives them life. In the rainy season herons fly, and the rainbow and lightning are seen.
+
+[^24]: The same verse as Ādi 4.156; translation as there.
+
+[^25]: *Amṛta-pravāha-bhāṣya*: beauty, modesty, mercy, fame, steadfastness and skilful intelligence shine in Nārāyaṇa too, but are established in Him by Kṛṣṇa; good nature, gentleness and generosity are seen in no manifestation other than Kṛṣṇa.
+
+[^26]: The same verse as Ādi 4.153; translation as there.
+
+[^27]: *Anubhāṣya*: the twenty-four and a half syllables of the Kāma-gāyatrī are like twenty-four and a half moons on Kṛṣṇa’s body (listed at 126–128); it is Kṛṣṇa’s *svarūpa*, for it contains the three truths — *sambandha*, *abhidheya* and *prayojana*. The *kāma* here is not of this world: the Kāma-gāyatrī and the *kāma-bīja* are transcendental (*Anubhāṣya* to Madhya 8.137).
