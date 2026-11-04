@@ -1226,7 +1226,7 @@ Kṛṣṇa, as Mahā-Viṣṇu Garbhodakaśāyī — the *kalā* of Kāraṇār
 
 ## 308–309
 
-Rudra is a *tattva* both different and non-different from Viṣṇu. He undergoes transformation in association with *māyā*, and so He is “different” from Viṣṇu, while in truth He is non-different from Viṣṇu. Viṣṇu is never different from Viṣṇu; but Śiva, Brahmā and others, under the sway of *māyā*, are different from Viṣṇu. Viṣṇu is never subject to transformation. Where a transformation of *māyā* is seen in the nature of the Lord, that is a form different from Viṣṇu — Śiva or Brahmā, called *guṇa-avatāras*. Thus Rudra, endowed with transformation and manifest as different and non-different, is *jīva-tattva*:[^308-309-1] by His intrinsic nature He is not *viṣṇu-tattva*, Kṛṣṇa's own form, but the *tattva* of a Vaiṣṇava. The Lord is the milk. Through contact with a sour substance — *māyā* — it passes from the state of milk into a transformation of milk, yogurt. Therefore yogurt, though born of milk, can never present itself as milk.
+Rudra is a *tattva* both different and non-different from Viṣṇu. He undergoes transformation in association with *māyā*, and so He is “different” from Viṣṇu, while in truth He is non-different from Viṣṇu. Viṣṇu is never different from Viṣṇu; but Śiva, Brahmā and others, under the sway of *māyā*, are different from Viṣṇu. Viṣṇu is never subject to transformation. Where a transformation of *māyā* is seen in the nature of the Lord, that is a form different from Viṣṇu — Śiva or Brahmā, called *guṇa-avatāras*. Thus Rudra, endowed with transformation and manifest as different and non-different, is *jīva-tattva*: by His intrinsic nature He is not *viṣṇu-tattva*, Kṛṣṇa's own form, but the *tattva* of a Vaiṣṇava. The Lord is the milk. Through contact with a sour substance — *māyā* — it passes from the state of milk into a transformation of milk, yogurt. Therefore yogurt, though born of milk, can never present itself as milk.
 
 ## 310
 
@@ -1643,8 +1643,6 @@ On the principle of “the moon on the branch” (*śākhā-candra-nyāya*), see
 [^289-1]: Cf. Madhya 6.162: “The Lord is the master of *māyā*, and the *jīva* is subject to *māyā* — this is the difference between them.”
 
 [^292-1]: *Ṛg-veda* 10.90.1 (the *Puruṣa-sūkta*).
-
-[^308-309-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
 
 [^357-1]: So in the edition (checked against the scan); this verse (*Śrīmad-Bhāgavatam* 1.1.1) is Madhya 8.265 in our text, where the *Anubhāṣya* on it also stands.
 

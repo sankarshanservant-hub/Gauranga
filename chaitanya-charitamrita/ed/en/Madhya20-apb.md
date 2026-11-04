@@ -202,7 +202,7 @@ The sun displays its brilliance in small measure in various separate stones. So 
 
 ## 307–308
 
-Taking up *tamo-guṇa* through His own *aṁśa-kalā*, for the sake of destruction He assumes the form of “Rudra” in association with *māyā*. Because of the transformation caused by association with *māyā*, Rudra is a *tattva* manifest as both different and non-different. Therefore He is counted within the *jīva-tattva* and is not Kṛṣṇa's “*svarūpa*.”[^307-308-1]
+Taking up *tamo-guṇa* through His own *aṁśa-kalā*, for the sake of destruction He assumes the form of “Rudra” in association with *māyā*. Because of the transformation caused by association with *māyā*, Rudra is a *tattva* manifest as both different and non-different. Therefore He is counted within the *jīva-tattva* and is not Kṛṣṇa's “*svarūpa*.”
 
 ## 310
 
@@ -296,4 +296,3 @@ In Gokula Kṛṣṇa's most complete fullness (*pūrṇatamatā*) was manifest,
 
 ---
 
-[^307-308-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
