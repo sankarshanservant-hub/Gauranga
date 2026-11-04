@@ -154,6 +154,69 @@ When, by practicing *bhajana*, the *jīva* is freed from *anarthas*, steadiness 
 
 > Subheading: Ambarīṣa serves Kṛṣṇa with all his senses —
 
+## 132–134
+
+When Viṣṇurāta Parīkṣit asked about the transcendental life of the *mahā-bhāgavata* Ambarīṣa, the guru of the *brāhmaṇas* — a life full of service to Kṛṣṇa — Śrīla Śukadeva Gosvāmī glorifies how Ambarīṣa served Hṛṣīkeśa with all his senses:
+
+**uttamaḥśloka-janāśrayā** (following the servants of Hari) **ratiḥ** (attraction) **yathā** (might arise, so) **saḥ** **ambarīṣaḥ** **kṛṣṇa-padāravindayoḥ** (on Kṛṣṇa's lotus feet) **manaḥ**, **vaikuṇṭha-guṇānuvarṇane** (in telling the glories of Hari's qualities) **vacāṁsi** (his words), **harer mandira-mārjanādiṣu** (in washing, smearing and other service to the Lord's temple and the Vaiṣṇavas' feet, in *nīrājana*, or in drawing the marks of the conch, the disc, the *ūrdhva-puṇḍra* and the like) **karau** (his arms), **acyuta-sat-kathodaye** (when the true narrations of Acyuta, Viṣṇu, arise) **śrutim** (his two ears), **mukunda-liṅgālaya-darśane** (in seeing the temples, the abodes of Kṛṣṇa's “*liṅgas*,” that is, His *arcā* forms) **dṛśau** (his eyes), **tad-bhṛtya-gātra-sparśe** (in touching the bodies of Hari's servants) **aṅga-saṅgamam** (touch with the skin, with the head), **śrīmat-tulasyāḥ** (of the beautiful Tulasī) **tat-pāda-saroja-saurabhe** (in the fragrance of the Lord's lotus feet) **ghrāṇam** (his nose), **tad-arpite** (in *mahā-prasāda* and whatever else is offered to Kṛṣṇa) **rasanām** (his tongue), **hareḥ kṣetra-padānusarpaṇe** (in circumambulating the *dhāma* and the like) **pādau**, **hṛṣīkeśa-padābhivandane** (in bowing to Govinda's feet and the like) **śiraḥ** (his head), **dāsye** (in accepting as *mahā-prasāda* the garlands, scents, garments, ornaments and other things the Lord has used) **kāmaṁ ca**, **na tu kāma-kāmyayā** (with the desire to enjoy), **cakāra** (engaged).
+
+## 135
+
+> Subheading: A devotee fully surrendered is under no obligation to anyone but Kṛṣṇa —
+
+## 136
+
+> Subheading: For one qualified for *vaidhī-bhakti*, the rites of *karma-kāṇḍa* — the five sacrifices (*pañca-yajña*) and the rest — are unnecessary —
+
+The debt to the gods, the debt to the sages, the debt to the ancestors, the debt to living beings and the debt to men — these five debts are cleared by the five sacrifices. “Teaching is the sacrifice to Brahman; *tarpaṇa* is the sacrifice to the ancestors; *homa* is the sacrifice to the gods; *bali* is the sacrifice to beings; honoring guests is the sacrifice to men.”[^136-1] By *homa* the *deva-yajña* is performed, by teaching the *brahma-yajña* or *ṛṣi-yajña*, by *tarpaṇa* the *pitṛ-yajña*, by *bali* the *bhūta-yajña*, and by honoring guests the *nṛ-yajña*.
+
+While describing *bhāgavata-dharma* to Vasudeva, Śrī Nārada recounted the conversation of Nimi, the king of Videha, with the nine Yogendras. First eight Yogendras answered Nimi's questions in turn. Then one of them, the sage Karabhājana, described to Nimi the different colors of the four *yuga-avatāras* of Bhagavān Viṣṇu and the different ways they are worshiped, and the future appearance of Vaiṣṇavas in various places in Bhārata. And at the very end he glorifies, in the following two verses, the greatness of one exclusively surrendered to Kṛṣṇa:
+
+**rājan** (O King), **yaḥ** (a person) **kartam** (a distinction that has been made, or one's own *dharma*) **parihṛtya** (giving up) **sarvātmanā** (with body, mind and words) **śaraṇyam** (the shelter of all) **mukundaṁ** **śaraṇaṁ** **gataḥ**, (**saḥ**) **ayam** **devarṣi-bhūtāpta-nṛṇām** (of the gods, the sages, the beings, the *āptas* — the dependents of one's household — and of men) **pitṝṇām** **na** **kiṅkaraḥ** (is not obliged) **na** **ṛṇī** **ca** (therefore one who has taken shelter of the path of bhakti has no need at all to perform the five sacrifices and the rest, as the *karmīs* who desire fruits must).
+
+## 137
+
+> Subheading: A Vaiṣṇava is never a sinner, and a sinner is never a Vaiṣṇava —
+
+## 138
+
+> Subheading: Even if a *sādhaka* sins by chance, by Kṛṣṇa's mercy his sin is completely removed —
+
+## 139
+
+> Subheading: As the indwelling Lord, the *caitya-guru*, He purifies one of sin —
+
+**sva-pāda-mūlam** (His own lotus feet) **bhajataḥ** (of one who serves) **priyasya** (full of love) **tyaktānya-bhāvasya** (of one who has given up feeling for anything other than pure, desireless service to Bhagavān Hari — for the body and the like, or for other gods; that is, of one devoted to exclusive bhakti) **kathañcit** (through inattention and the like) **yat** **vikarma** (a forbidden act) **utpatitam** (committed through ill fate) **bhavet**, **tat** **api** **sarvaṁ** **pareśaḥ** **hariḥ** **hṛdi** **sanniviṣṭaḥ** (staying as the indwelling Lord) **dhunoti** (destroys).
+
+## 140
+
+> Subheading: *Jñāna* and *vairāgya*, properties of the mind, are never limbs of bhakti, the property of the soul; they are only two sons who follow bhakti —
+
+Many people mistakenly think that *jñāna*, and the *vairāgya* born of *karma*, are steps to devotion to Bhagavān. In truth they certainly are not. Detachment born of *jñāna* or *karma* is not directed to the soul's own nature (*svarūpa*); it is a particular, changeable property of a temporary state. Therefore it is not a limb of eternal service to Kṛṣṇa (*kṛṣṇa-dāsya*). The fruit of *karma* or *jñāna* is a particular transformation of changeable, temporary experience, and it culminates in enjoyment or liberation. Therefore it has no connection at all with eternal bhakti. Pure bhakti can exist only when *jñāna* or *vairāgya* is given up. A devotee of Kṛṣṇa is by nature free from violence, self-controlled and devoted to regulation. He does not have to acquire these virtues.
+
+## 141
+
+> Subheading: Without bhakti, *jñāna* and *vairāgya* do not bring the highest good —
+
+Śrīmad Uddhava heard from Kṛṣṇa that the *jīva's* desire to enjoy arises from the words of the Vedas — the Lord's commands in the form of injunctions and prohibitions — and that by those same words of the Vedas the sense of separateness is destroyed. Then he asked how to remove the confusion, or bewilderment, that this causes in the *jīva's* mind. In reply Bhagavān first compares the paths of *karma*, *jñāna* and bhakti, and then describes the supremacy of bhakti:
+
+**tasmāt** (since bhakti is free from all *upādhis*) **vai** (certainly) **mad-bhakti-yuktasya** **mad-ātmanaḥ** (of one whose mind is in Me, Kṛṣṇa) **yoginaḥ** (of a person engaged in *bhakti-yoga*) **iha** **na** **jñānam**, **na** **ca** **vairāgyaṁ** **prāyaḥ** **śreyaḥ** (the cause of the highest good) **bhavet**.
+
+## 142
+
+> Subheading: A pure devotee does not disturb others —
+
+**vyādha** (O hunter), **tava** **ete** **ahiṁsādayaḥ** **guṇāḥ** **adbhutāḥ** (extraordinary) **na**, **hi** (because) **ye** (people) **hari-bhaktau** (in the worship of Kṛṣṇa) **pravṛttāḥ** (engaged), **te** (devotees) **para-tāpinaḥ** (bent on harming others) **na** **syuḥ** (are).
+
+## 143
+
+> Subheading: (b) Description of *rāgānugā-bhakti*
+
+## 144
+
+> Subheading: What *rāgātmikā-* and *rāgānugā-bhakti* are —
+
 ---
 
 [^126-1]: *Śvetāśvatara Upaniṣad* 6.23.
+[^136-1]: *Manu-saṁhitā* 3.70.

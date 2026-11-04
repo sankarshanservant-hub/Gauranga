@@ -80,6 +80,34 @@ King Parīkṣit attained Kṛṣṇa in the best way by hearing about Śrī Vi�
 
 Mahārāja Ambarīṣa engaged his mind in Kṛṣṇa's lotus feet, his speech in describing the qualities of Vaikuṇṭha, his two hands in cleaning Hari's temple and similar service, his ears in narrations of Kṛṣṇa, his two eyes in seeing Kṛṣṇa's Śrī Mūrti, his body in touching the bodies of Kṛṣṇa's servants, his sense of smell (his nose) in the fragrance of Kṛṣṇa's lotus feet, his tongue in tasting the *tulasī* offered to Kṛṣṇa, his two feet in walking to Kṛṣṇa's holy places, his head in bowing at the feet of Hṛṣīkeśa, and his “desire” (*kāma*) in selfless servitude. And he engaged them in such a way that there arose in him the *rati* whose shelter is Kṛṣṇa's devotees.
 
+## 136
+
+O King, one who has given up worldly duties and with his whole being taken shelter of Mukunda, the giver of shelter, is no longer a debtor to the gods, the sages, the other living beings, his kinsmen or the ancestors. The meaning is this. As soon as a person is born, he becomes a debtor of all these debts, and, as the scriptures prescribe, he repays them by performing many kinds of duties. But one who has given up all desires and taken shelter at Kṛṣṇa's feet finds all these debts repaid even without performing the prescribed rites.
+
+## 137–138
+
+One who has given up all the forms of *dharma* based on Vedic injunctions and worships the Lord as a *niṣkiñcana*, one who has nothing but Kṛṣṇa, by his very nature has no inclination toward any forbidden sin. And if for some reason a sin does occur, that is, happens to be committed, Kṛṣṇa purifies him without making him perform any atonement.
+
+## 139
+
+One who, giving up every other feeling, serves the feet of Hari Himself — if such a person, dear to Kṛṣṇa, ever somehow commits *vikarma* (sin), the Supreme Lord Hari, staying in his heart, destroys that sin.
+
+## 141
+
+For a yogī dear to Me, endowed with devotion to Me and with his mind fixed on Me alone, efforts for *jñāna* and *vairāgya* are generally not beneficial. The meaning is this: bhakti is by its very nature independent. *Jñāna*, *vairāgya*, *yoga* and the rest may be slightly useful to it at first, but they are not counted among its limbs.
+
+## 142
+
+O hunter, it is not surprising that nonviolence and the other virtues have appeared in you: those who have taken up *hari-bhakti* cause no suffering to others.
+
+## 144
+
+The bhakti of the devotees who live in Vraja, whose nature is *rāga*, is the principal one (*mukhyā*); that is, such bhakti exists nowhere else. And the bhakti that lives in following the residents of Vraja is called *rāgānugā-bhakti*.
+
+## 145
+
+The natural inclination to serve the beloved (*iṣṭa-vastu*), full of supreme absorption, is called *rāga*. When *kṛṣṇa-bhakti* is *tanmayī*, full of such *rāga*, it is called *rāgātmikā*.
+
 ---
 
 [^103–106-1]: The translation of verse 104 differs: “Therefore it is not the main goal of spiritual practice.”
