@@ -1664,6 +1664,7 @@ w: on heads  best  borne  the worshipped  of holy places  the holy place
 w: Brahmā  Śiva  I  also  whose  parts  of a part
 w: Śrī  and  we bear  ever  His  royal throne  what
 tr: (Baladeva said:) “The guardians of all the worlds bear on their crowned heads the dust of His lotus feet, the holiest of holy places; and Brahmā, Śiva, Lakṣmī and I Myself, mere parts of His part, carry it on our heads forever. What then is a king’s throne to Him?” (Śrīmad-Bhāgavatam, 10.68.37)
+fn: The same verse as Ādi 5.141; translation as there.
 
 ## 307
 w: of His own part  by a kalā  Kṛṣṇa  tamo-guṇa  accepts
@@ -1678,7 +1679,7 @@ tr: Through the transformation caused by association with māyā, Rudra is a for
 ## 309
 w: milk  as  through contact with a sour agent  of curd  the form  takes
 w: other than milk  a thing  is not  milk  to be  cannot
-tr: As milk takes the form of curd through contact with a sour agent — curd is nothing other than milk, yet it cannot be milk.
+tr: When milk meets something sour, it takes the form of curd. Curd is nothing other than milk, yet it cannot be milk.
 
 ## 310
 w: milk  as  curd  of a particular change  through contact
@@ -1763,7 +1764,7 @@ tr: Count them in this way in the endless universes — and Brahmā’s whole li
 ## 324
 w: of Mahā-Viṣṇu  of the breaths  there is no  limit
 w: of the manvantara-avatāras alone  see  of the writing  the end
-tr: There is no limit to Mahā-Viṣṇu’s breaths. See, then, how there could be an end to writing of the *manvantara-avatāras* alone!
+tr: There is no limit to Mahā-Viṣṇu’s breaths. How, then, could one ever finish writing of the *manvantara-avatāras* alone?
 
 ## 325
 w: in Svāyambhuva  Yajña  in Svārociṣa  Vibhu  by name
@@ -1801,6 +1802,7 @@ w: accepting  in each age  bodies
 w: white  red  likewise  yellow
 w: now  blackness  has attained
 tr: “Your son, who accepts a body in every age, has appeared in three colours — white, red and yellow; now He has become dark (*kṛṣṇa*).” (Śrīmad-Bhāgavatam, 10.8.13)
+fn: The same verse as Ādi 3.36; translation as there.
 
 ## 332
 w: in Satya-yuga  the dharma of meditation  He causes to practise  a white form  assuming
@@ -1823,6 +1825,7 @@ w: in yellow garments  with His own weapons
 w: by Śrīvatsa and the rest  by marks  and
 w: by characteristics  distinguished
 tr: “In Dvāpara the Lord is dark, clad in yellow and bearing His own weapons, and He is known by the Śrīvatsa and other marks and characteristics.” (Śrīmad-Bhāgavatam, 11.5.27)
+fn: The same verse as Ādi 3.39; translation as there.
 
 ## 336
 w: obeisance  to You  to Vāsudeva
@@ -1852,6 +1855,7 @@ w: with limbs,  sub-limbs,  weapons  and associates
 w: by sacrifices  in which saṅkīrtana  predominates
 w: they worship  indeed  the intelligent
 tr: “With sacrifices in which congregational chanting predominates, the wise worship the Lord who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)
+fn: The same verse as Ādi 3.51; translation as there.
 
 ## 341
 w: in the other  three yugas  by meditation and the rest  whatever  fruit  comes
@@ -1863,14 +1867,14 @@ w: of Kali  of faults  in the ocean  O king
 w: there is  indeed  one  great  quality
 w: by chanting  alone  of Kṛṣṇa
 w: freed from bondage  the Supreme  one attains
-tr: “O king, Kali is an ocean of faults, yet it has one great quality: simply by chanting of Kṛṣṇa one is freed from bondage and attains the Supreme.” (Śrīmad-Bhāgavatam, 12.3.51)
+tr: “O king, Kali is an ocean of faults, yet it has one great quality: simply by singing the glories of Kṛṣṇa one is freed from bondage and attains the Supreme.” (Śrīmad-Bhāgavatam, 12.3.51)
 
 ## 343
 w: in Kṛta  what  by one meditating  on Viṣṇu
 w: in Tretā  by one worshipping  with sacrifices
 w: in Dvāpara  by serving the Deity
 w: in Kali  that  from the chanting of Hari
-tr: “Whatever was attained in Kṛta by meditating on Viṣṇu, in Tretā by worshipping with sacrifices and in Dvāpara by serving the Deity, is attained in Kali by chanting of Hari.” (Śrīmad-Bhāgavatam, 12.3.52)
+tr: “Whatever was attained in Kṛta by meditating on Viṣṇu, in Tretā by worshipping with sacrifices and in Dvāpara by serving the Deity, is attained in Kali by glorifying Hari.” (Śrīmad-Bhāgavatam, 12.3.52)
 
 ## 344
 w: meditating  in Kṛta  worshipping  with sacrifices
@@ -1894,7 +1898,7 @@ tr: When I write of the hosts of *guṇa-avatāras* as before, their number is c
 ## 347
 w: of the four yugas  of the avatāras  this  indeed  the counting
 w: hearing  with a hint  Him  asks  Sanātana
-tr: Such is the account of the avatāras of the four *yugas*. Hearing it, Sanātana questioned Him with a hidden intent (*bhaṅgi*).
+tr: Such is the account of the avatāras of the four *yugas*.” Hearing it, Sanātana questioned Him with a hidden intent (*bhaṅgi*).
 
 ## 348
 w: the king’s minister  Sanātana  in intelligence  Bṛhaspati
@@ -1949,6 +1953,7 @@ w: revealed  the Veda  through the heart  who  to the first poet  are bewildered
 w: of fire  water  earth  as  the interchange  in whom  the threefold creation  real
 w: by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 tr: “Let us meditate on the Supreme Truth, from whom, directly and indirectly, this universe arises, endures and dissolves; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)
+fn: The same verse as Madhya 8.265; translation as there.
 
 ## 358
 w: in this  verse  by the word ‘param’  Kṛṣṇa  the defining
@@ -1968,7 +1973,7 @@ tr: All these activities are His *taṭastha-lakṣaṇa*. In the same way the s
 ## 361
 w: of the avatāra  at the time  He becomes  to the world  perceptible
 w: by these  two  characteristics  some  know  the Lord
-tr: At the time of His descent He becomes perceptible to the world, and by these two characteristics some recognize the Lord.”
+tr: At the time of His descent He becomes perceptible to the world, and by these two characteristics some recognise the Lord.”
 
 ## 362
 w: Sanātana  said  in whom  the Lord’s  characteristics
@@ -1993,7 +1998,7 @@ tr: Kṛṣṇa’s *śaktyāveśa-avatāras* are countless. I shall give a glim
 ## 366
 w: śaktyāveśa  of two kinds  primary  secondary  we see
 w: with direct potency  avatāra  with a reflection  vibhūti  I write
-tr: We see that *śaktyāveśa* is of two kinds, primary and secondary. One endowed with the potency itself I call an avatāra; one endowed with its reflection, a *vibhūti*.
+tr: *Śaktyāveśa* is of two kinds, primary and secondary. One endowed with the potency itself I call an avatāra; one endowed only with its reflection, a *vibhūti*.
 
 ## 367
 w: Sanaka and the others  Nārada  Pṛthu  Paraśurāma
@@ -2020,12 +2025,12 @@ w: of knowledge  potency  and so on  by a portion
 w: in whom  has entered  Janārdana
 w: they  āveśa  are called
 w: jīvas  indeed  the greatest
-tr: “Those into whom Janārdana has entered with a portion of His potency of knowledge and the rest are called *āveśa* avatāras; they are in fact the greatest of jīvas.” (Laghu-bhāgavatāmṛta, 1.18)
+tr: “Those into whom Janārdana has entered with a portion of His potency of knowledge and the rest are called *āveśa-avatāras*; they are in fact the greatest of jīvas.” (Laghu-bhāgavatāmṛta, 1.18)
 
 ## 372
 w: vibhūti  we call  as  in the Gītā  in the Eleventh
 w: the world  pervaded  of Kṛṣṇa’s potency  of the reflection  by the investing
-tr: We call *vibhūti* what is described in the *Gītā* and in the Eleventh (Canto): He pervades the world by investing beings with a reflection of His potency.
+tr: Those I call *vibhūtis* are described in the *Gītā* and in the Eleventh Canto: Kṛṣṇa pervades the world by investing beings with a reflection of His potency.
 fn: *gītā-ekādaśe* is read here as “in the *Gītā* and in the Eleventh”: the *vibhūtis* are described in *Bhagavad-gītā* 10 and in *Śrīmad-Bhāgavatam* 11.16.
 
 ## 373
@@ -2041,6 +2046,7 @@ w: what (use)  by knowing  for you  Arjuna
 w: pervading  I  this  entire
 w: by one portion  I stand  the universe
 tr: “But what need have you, Arjuna, of all this detailed knowledge? By one portion of Myself I pervade and support this entire universe.” (Bhagavad-gītā, 10.42)
+fn: The same verse as Ādi 2.20; translation as there.
 
 ## 375
 w: thus  I have told  the śaktyāveśa  avatāras
@@ -2062,7 +2068,7 @@ w: of age  in the variety  even
 w: of all  devotion  the rasas  the shelter
 w: possessing all qualities  kiśora  alone  here
 w: eternal  pastimes  enjoying
-tr: “Though He has various ages, He who is the shelter of all the *rasas* of devotion and who enjoys eternal pastimes possesses all qualities in His *kiśora* form alone.” (Bhakti-rasāmṛta-sindhu, 2.1.63)
+tr: “Though He has many ages, it is as a *kiśora*, in His youth, that He possesses all qualities; He is the shelter of all the rasas of devotion and ever enjoys His eternal pastimes.” (Bhakti-rasāmṛta-sindhu, 2.1.63)
 
 ## 379
 w: Pūtanā’s killing and the rest  all  pastimes  moment  by moment
@@ -2090,7 +2096,7 @@ w: to understand  not  are able  a pastime  how  eternal  is
 tr: All the scriptures declare that Kṛṣṇa’s pastimes are eternal, but people cannot understand how a pastime can be eternal.
 
 ## 384
-w: an example  giving  I tell  then  people  if  may understand
+w: an example  giving  I tell  if  then  people  understand
 w: Kṛṣṇa’s pastimes  eternal  by the evidence of the circle of luminaries
 tr: I shall give an example, so that people may understand: Kṛṣṇa’s pastimes are eternal, as the circle of the luminaries shows.
 
@@ -2132,7 +2138,7 @@ tr: Like a whirling firebrand, that wheel of pastimes revolves, and all the past
 ## 392
 w: birth  childhood  boyhood  the manifestation of youth
 w: Pūtanā’s killing  beginning with  ending with the Mauṣala  the pastimes
-tr: Birth, childhood, boyhood and the manifestation of youth — pastimes beginning with the killing of Pūtanā and ending with the Mauṣala episode.
+tr: Birth, childhood, boyhood and youth are manifested in turn, with pastimes that begin with the killing of Pūtanā and end with the Mauṣala episode.
 
 ## 393
 w: in some  universe  of some  pastime  there is  the presence
@@ -2173,7 +2179,7 @@ w: Kṛṣṇa’s  most complete fullness
 w: was manifest  in Gokula
 w: fullness  greater fullness
 w: in Dvārakā  Mathurā and the rest
-tr: “Kṛṣṇa’s most complete fullness was manifest in Gokula; His fullness and greater fullness, in Dvārakā, Mathurā and elsewhere.” (Bhakti-rasāmṛta-sindhu, 2.1.223)
+tr: “In Gokula Kṛṣṇa was revealed as most complete; in Dvārakā, Mathurā and elsewhere, as complete and more complete.” (Bhakti-rasāmṛta-sindhu, 2.1.223)
 
 ## 400
 w: this  Kṛṣṇa  in Vraja  most complete  Bhagavān
