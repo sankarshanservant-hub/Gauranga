@@ -107,3 +107,23 @@ What does the word “fortune” mean here — a mere chance event, or something
 ## 46
 
 O Acyuta, when, wandering through the world, the *jīva* reaches the end of that wandering (*apavarga*) and meets saints, then *rati* arises in him for You — the true goal (*sad-gati*) and the Lord of the higher and the lower.
+
+## 47
+
+Even if no great soul comes to the person mentioned above, who has *sukṛti* turned toward *bhakti*, Kṛṣṇa nonetheless teaches him pure *bhakti* in the form of the *guru* within the heart (*antaryāmī-guru*).
+
+## 50
+
+To the person who by good fortune has gained faith in narrations about Me, who is neither too weary (of the world) nor too attached to it — to him alone *bhakti-yoga* grants perfection, *prema-bhakti*.
+
+## 52
+
+O Rahūgaṇa, without being bathed in the dust of the feet of the great souls (*mahājanas*), devotion to Bhagavān can never be attained — not by austerity, not by Vedic worship and the like, not by observing *sannyāsa*, not by following the *dharma* of a householder, not by reciting the Vedas, nor by (worshiping) water, fire and the sun.
+
+## 53
+
+As long as people's minds are not bathed in the dust of the feet of Bhagavān's devotees who possess nothing (*niṣkiñcana*), they cannot touch Kṛṣṇa's lotus feet, which destroy the *anarthas*.
+
+## 55
+
+The boundless good that comes to the *jīva* through the company of those who associate with Bhagavān cannot be compared in the slightest with heaven or liberation (*mokṣa*), to say nothing of gaining a kingdom and the like.

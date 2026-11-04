@@ -236,6 +236,66 @@ Devarṣi Nārada, having told (Kaṁsa) of the coming slaying of Kaṁsa and th
 
 > Subheading: As the fruit of *sukṛti* comes the company of *sādhus*; as its fruit, the beginning of *bhajana*; and then, as the *anarthas* cease, the perfection of *sādhana*, or the attainment of the goal, *prema* for Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
 
+The demon Kālayavana kicked the sleeping Mucukunda. Mucukunda awoke and glanced at him, and by the power of a boon Mucukunda had earlier received from the gods, the demon was burned to ashes. Then Śrī Kṛṣṇa wished to give Mucukunda a boon, and Mucukunda offers a prayer to Śrī Kṛṣṇa:
+
+**he acyuta**, **bhramataḥ** (of a person wandering in worldly existence) **yadā** (by Bhagavān's mercy) **bhavāpavargaḥ** (the *apavarga* — the end, the destruction — of *bhava*, worldly existence) **bhavet** (that is, when the time has come), (then) **sat-samāgamaḥ** (the company of *sādhus*) **bhavet**; **yarhi** (when) **sat-saṅgamaḥ** **hi** **bhavet**, (then) **eva** **sad-gatau** (for the eternal supreme abode attained by the best of people) **parāvareśe** (for Bhagavān Kṛṣṇa) **tvayi** **ratiḥ** (devotion) **jāyate** (and then the *jīva* is released from worldly existence — this is the sense).
+
+## 47
+
+> Subheading: Only by Kṛṣṇa's grace does one obtain the *guru*'s grace —
+
+## 48
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.29.6) —
+
+See Ādi 1.48.
+
+## 49
+
+> Subheading: After *dīkṣā*, as the fruit of knowledge of *sambandha* and of *abhidheya* — the cessation of *anarthas*, taste (*ruci*), attachment (*āsakti*) and the attainment of the goal, *prayojana* —
+
+## 50
+
+> Subheading: The faithful practitioner of *bhakti-yoga* is neither excessively attached nor excessively detached — (*Śrīmad-Bhāgavatam* 11.20.8) —
+
+Telling Śrī Uddhava about the three kinds of *yoga*, Bhagavān Śrī Kṛṣṇa determines who is qualified for *bhakti-yoga*:
+
+**yadṛcchayā** (by some good fortune) **yaḥ** **pumān** **mat-kathādau** (in hearing, chanting and so on — in narrations about Bhagavān) **tu** **jāta-śraddhaḥ** (and at the same time) **nirviṇṇaḥ** (extremely detached, resorting to false [*phalgu*] renunciation) **na**, **ati-saktaḥ** (excessively absorbed in worldly existence) **ca** **na**, **asya** (of just such a faithful person) **bhakti-yogaḥ** **siddhidaḥ** (bestows what is desired).
+
+## 51
+
+> Subheading: Only by the mercy of the *guru* and the Vaiṣṇava, or the *sādhu*, do the *anarthas* cease and pure *bhakti* is attained —
+
+No mundane *sukṛti* of the *karma-kāṇḍa* leads to transcendental devotion to Kṛṣṇa. Without the mercy of Kṛṣṇa's devotee, transcendental devotion to Kṛṣṇa has no chance to arise. Let alone devotion to Kṛṣṇa — even worldly existence, the mundane frame of mind, is not destroyed. In no *jīva* other than Kṛṣṇa's devotee can there be greatness (*mahattva*). Kṛṣṇa's devotee alone is transcendental. Though some, with mundane vision, think him “mundane,” in truth only Kṛṣṇa's devotee, who has renounced everything mundane, is incomparably exalted. Whoever recognizes him as the *jīva*'s only desirable well-wisher and begs for his mercy no longer has mundane enjoyment and obtains the right to transcendental service to Kṛṣṇa.
+
+## 52
+
+> Subheading: Without following the *mahat*, or the pure devotee, attaining Kṛṣṇa is extremely difficult — (*Śrīmad-Bhāgavatam* 5.12.12) —
+
+Rahūgaṇa, king of Sindhu and Sauvīra, heard the science of the Truth from the lips of the *avadhūta* Bharata, who bore the outward marks of a *brāhmaṇa* by birth only (a *dvija-bandhu*). He bowed to Bharata and asked him to explain clearly the hard-to-understand *adhyātma-yoga*. Then Bharata — a *mahā-bhāgavata*, a *paramahaṁsa* in the guise of a *brāhmaṇa* — first told Rahūgaṇa of *avidyā* and of Bhagavān Vāsudeva, the embodiment of pure knowledge, who destroys it, and then describes the means of attaining Bhagavān:
+
+**he rahūgaṇa**, **mahat-pāda-rajo-'bhiṣekam** (bathing in the dust of the feet of pure devotees of Kṛṣṇa) **vinā** (without) **etat** (this transcendental truth of Bhagavān, Vāsudeva) **tapasā** (by the *dharma* of *vānaprastha*) **na**, **ijyayā** (by Vedic *karma*, that is, by worship of the gods) **ca** **na**, **nirvapaṇāt** (by giving up the company of women, that is, by *sannyāsa*) **na**, **gṛhāt** (nor by performing the sacrifices of the *gṛhamedhīs*, which are rooted in the company of women) **na**, **chandasā** (by study of the Vedas) **na**, **jalāgni-sūryaiḥ** (by worshiping them) **na** **yāti** (one does not attain) **eva**.
+
+## 53
+
+> Subheading: Only by the mercy of the *mahat*, or the pure Vaiṣṇava, are the *anarthas* destroyed, and as its fruit the feet of Viṣṇu are attained — (*Śrīmad-Bhāgavatam* 7.5.32) —
+
+Devarṣi Nārada tells Dharmarāja Yudhiṣṭhira the story of Prahlāda. The *mahā-bhāgavata* Prahlāda, answering the question of Hiraṇyakaśipu, king of the Daityas, described the ninefold devotion to Viṣṇu as the only and highest learning and education. Hiraṇyakaśipu then sharply rebuked the *guru*'s sons, Ṣaṇḍa and Amarka. Ṣaṇḍa and Amarka cleared themselves by pointing to Prahlāda's own natural disposition as the cause of his devotion to Viṣṇu. Hiraṇyakaśipu told Prahlāda to explain the cause of such a Vaiṣṇava disposition. Prahlāda said nothing about it, but speaks of what keeps the *gṛha-vratas*, hostile to devotion to Viṣṇu, in bondage, and of the means of their release:
+
+**niṣkiñcanānām** (of those who have cast off all conceit connected with worldly objects) **mahīyasām** (of the greatest, the Vaiṣṇavas) **pāda-rajo-'bhiṣekam** (bathing, smearing with the dust of the feet) **yāvat** **na** **vṛṇīta** (they do not accept), **tāvat** (so long, for these *gṛha-vratas* — though He is known to them from the words of *śruti* —) **matiḥ** (the inclination) **urukramāṅghrim** (the feet of Urukrama **na** **spṛśati** — does not touch, does not reach; that is, it is struck down by disbelief [*asambhāvanā*] and the like); **anarthāpagamaḥ** (the *apagama*, destruction, of the *anartha*, that is, of evil attachment [*asad-avagraha*] — worldly existence, which obstructs the touch of His feet) **yad-arthaḥ** (the fruit of that disposition which touches His feet; the sense: without the grace of the *mahat* they have neither firm realization of the truth nor liberation).
+
+## 54
+
+> Subheading: Only as the fruit of association with an awakened soul (*cetana*), even for half a moment, does the *jīva*'s spiritual function — service to Kṛṣṇa — awaken and the goal is attained —
+
+A *lava* is the time of a blink (*nimeṣa*); eleven and a quarter (11¼) *lavas* make one second.
+
+## 55
+
+> Subheading: The glory of the company of *sādhus* — (*Śrīmad-Bhāgavatam* 1.18.13) —
+
+The sages headed by Śaunaka, mentioning their own futile labor in the trifling *karma-kāṇḍa* — sacrifices and the like — describe the glory of association with Sūta, the *mahā-bhāgavata* who recites narrations about Hari:
+
 ---
 
 [^19-1]: The edition reads *phalam*; the verse and the gloss (“exceedingly”) require *alam*. An evident misprint.
