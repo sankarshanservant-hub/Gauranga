@@ -18,7 +18,7 @@
 
 > Subheading: The definition of *bhāva*; its essential and accompanying characteristics — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, third *laharī*, first verse) —
 
-**śuddha-sattva-viśeṣātmā** (the *bhāva* whose *ātmā* — that is, whose eternally perfect nature, residing in the Lord's eternal beloved ones — is that very special *śuddha-sattva*: a function [*vṛtti*] of Bhagavān Kṛṣṇa's *svarūpa-śakti* called *saṁvit*, which illumines everything)[^5-1] **prema-sūryāṁśu-sāmya-bhāk** (resembling a ray of the sun of *prema* — the first glimmer of *prema*) **rucibhiḥ** (by desires: the desire to attain [the Lord], the desire oneself to serve Him favorably, and the desire for intimate affection with Him) **citta-māsṛṇya-kṛt** (which makes the heart soft and moist) **asau** **bhāvaḥ** (the sprout of *prema*) **ucyate**.
+**śuddha-sattva-viśeṣātmā** (the *bhāva* whose *ātmā* — that is, whose eternally perfect nature, residing in the Lord's eternal beloved ones — is that very special *śuddha-sattva*: a function [*vṛtti*] of Bhagavān Kṛṣṇa's *svarūpa-śakti* called *saṁvit*, which illumines everything) **prema-sūryāṁśu-sāmya-bhāk** (resembling a ray of the sun of *prema* — the first glimmer of *prema*) **rucibhiḥ** (by desires: the desire to attain [the Lord], the desire oneself to serve Him favorably, and the desire for intimate affection with Him) **citta-māsṛṇya-kṛt** (which makes the heart soft and moist) **asau** **bhāvaḥ** (the sprout of *prema*) **ucyate**.
 
 ## 6
 
@@ -32,13 +32,13 @@ The two kinds of *bhāva*: (1) *bhāva* born of absorption in *sādhana*; (2) *b
 
 > Subheading: The definition of *prema* — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, fourth *laharī*, first verse) —
 
-**samyaṅ-masṛṇita-svāntaḥ** (that by which the heart is completely softened, moistened) **mamatvātiśayāṅkitaḥ** (marked by an intense sense of “He is mine”)[^7-1] — having these two accompanying characteristics — **yaḥ** **sāndrātmā** (dense in its very nature) (having this essential characteristic) **bhāvaḥ**, **sa eva** **budhaiḥ** **‘premā’** **nigadyate** (is called).
+**samyaṅ-masṛṇita-svāntaḥ** (that by which the heart is completely softened, moistened) **mamatvātiśayāṅkitaḥ** (marked by an intense sense of “He is mine”) — having these two accompanying characteristics — **yaḥ** **sāndrātmā** (dense in its very nature) (having this essential characteristic) **bhāvaḥ**, **sa eva** **budhaiḥ** **‘premā’** **nigadyate** (is called).
 
 ## 8
 
 > Subheading: The definition of *prema* according to the Pañcarātra — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, fourth *laharī*, second verse) (the words of the *Nārada-pañcarātra*) —
 
-**viṣṇau** (toward Bhagavān) **prema-saṅgatā** (full of *prema*) **ananya-mamatā** (exclusive [*aikāntikī*], full of relationship with Him)[^8-1] **mamatā** (love [*prīti*]) — **iti** **bhīṣma-prahlādoddhava-nāradaiḥ** (by the devotees) (it) **bhaktiḥ** (*bhāva*) **ucyate**.
+**viṣṇau** (toward Bhagavān) **prema-saṅgatā** (full of *prema*) **ananya-mamatā** (exclusive [*aikāntikī*], full of relationship with Him) **mamatā** (love [*prīti*]) — **iti** **bhīṣma-prahlādoddhava-nāradaiḥ** (by the devotees) (it) **bhaktiḥ** (*bhāva*) **ucyate**.
 
 ## 9
 
@@ -124,7 +124,7 @@ Before Parīkṣit, Śrīla Śukadeva glorifies the greatness of the qualities o
 
 > Subheading: The words of one filled with *āśā-bandha* — (the words of Śrī Prabhupāda quoted by Śrī Rūpa Gosvāmī) —
 
-(**mama**) **premā** **vā** **śravaṇādi-bhaktiḥ** **api** **athavā** **vaiṣṇavaḥ** (full of meditation on Viṣṇu) **yogaḥ** (pure *bhakti-yoga*)[^27-1], **jñānam** (being fixed in Brahman) **vā**, **śubha-karma** (*daiva-varṇāśrama* and so on) **vā**, **aho** (alas!) **kiyat** **sat-jātiḥ** (the honor of birth in a good family) **api** **vā** **na asti**, **he gopījana-vallabha**, **hīnārthādhika-sādhake** (who gives a fruit greater than one's merit warrants) **tvayi** **acchedya-mūlā** (which can in no way be severed) **satī**, **hā hā** **mat** (my) **āśā** **mām** **vyathayate** **eva**.
+(**mama**) **premā** **vā** **śravaṇādi-bhaktiḥ** **api** **athavā** **vaiṣṇavaḥ** (full of meditation on Viṣṇu) **yogaḥ** (pure *bhakti-yoga*), **jñānam** (being fixed in Brahman) **vā**, **śubha-karma** (*daiva-varṇāśrama* and so on) **vā**, **aho** (alas!) **kiyat** **sat-jātiḥ** (the honor of birth in a good family) **api** **vā** **na asti**, **he gopījana-vallabha**, **hīnārthādhika-sādhake** (who gives a fruit greater than one's merit warrants) **tvayi** **acchedya-mūlā** (which can in no way be severed) **satī**, **hā hā** **mat** (my) **āśā** **mām** **vyathayate** **eva**.
 
 ## 28
 
@@ -402,7 +402,7 @@ See Ādi 4.83.
 
 > Subheading: The twenty-five qualities — (*Ujjvala-nīlamaṇi*, *Śrī Rādhā-prakaraṇa*, 11–15)
 
-**atha** **vṛndāvaneśvaryāḥ** (of Śrī Rādhikā) **pravarāḥ** (chief) **guṇāḥ** **kīrtyante** — **iyam** (Śrī Rādhikā) **madhurā** (full of sweetness) **nava-vayāḥ** (She whose age is young — a *kiśorī*) **calāpāṅgā** (She whose sidelong glance is restless, darting) **cāru-saubhāgya-rekhāḍhyā** (rich in beautiful lines of good fortune) **gandhonmādita-mādhavā** (She by whom Mādhava is maddened — with the fragrance of Her body) **saṅgīta-prasarābhijñā** (versed and accomplished in the wide art of song) **ramya-vāk** (She whose speech is charming — delightful to the ear) **narma-paṇḍitā** (expert in *narma* — playful pranks) **vinītā** (meek) **karuṇā-pūrṇā** (unable to bear the sorrows of the *gopīs* who have taken shelter of Her — supremely compassionate) **vidagdhā** (versed in the arts of love) **pāṭavānvitā** (skillful in doing what must be done) **lajjā-śīlā** (without desire to be praised) **su-maryādā** (holding Kṛṣṇa in honor) **dhairyā gāmbhīrya-śālinī** (steadfast, unwavering) **su-vilāsā** (full of play) **mahābhāva-paramotkarṣa-tarṣiṇī** (thirsting for the highest perfection of *mahābhāva*) **gokula-prema-vasatiḥ** (the object of love of the residents of Gokula) **jagac-chreṇī-lasad-yaśāḥ** (She whose fame shines in the ranks of the *āśrayas* of all the worlds) **gurv-arpita-guru-snehā** (She on whom the elders bestow special affection)[^82-1] **sakhī-praṇayitā-vaśā** (subject to the *praṇaya*, the friendly love, of the *sakhīs*) **kṛṣṇa-priyāvalī-mukhyā** (the dearest to Kṛṣṇa) **santatāśrava-keśavā** (She whose Keśava is always, ceaselessly obedient to Her).
+**atha** **vṛndāvaneśvaryāḥ** (of Śrī Rādhikā) **pravarāḥ** (chief) **guṇāḥ** **kīrtyante** — **iyam** (Śrī Rādhikā) **madhurā** (full of sweetness) **nava-vayāḥ** (She whose age is young — a *kiśorī*) **calāpāṅgā** (She whose sidelong glance is restless, darting) **cāru-saubhāgya-rekhāḍhyā** (rich in beautiful lines of good fortune) **gandhonmādita-mādhavā** (She by whom Mādhava is maddened — with the fragrance of Her body) **saṅgīta-prasarābhijñā** (versed and accomplished in the wide art of song) **ramya-vāk** (She whose speech is charming — delightful to the ear) **narma-paṇḍitā** (expert in *narma* — playful pranks) **vinītā** (meek) **karuṇā-pūrṇā** (unable to bear the sorrows of the *gopīs* who have taken shelter of Her — supremely compassionate) **vidagdhā** (versed in the arts of love) **pāṭavānvitā** (skillful in doing what must be done) **lajjā-śīlā** (without desire to be praised) **su-maryādā** (holding Kṛṣṇa in honor) **dhairyā gāmbhīrya-śālinī** (steadfast, unwavering) **su-vilāsā** (full of play) **mahābhāva-paramotkarṣa-tarṣiṇī** (thirsting for the highest perfection of *mahābhāva*) **gokula-prema-vasatiḥ** (the object of love of the residents of Gokula) **jagac-chreṇī-lasad-yaśāḥ** (She whose fame shines in the ranks of the *āśrayas* of all the worlds) **gurv-arpita-guru-snehā** (She on whom the elders bestow special affection) **sakhī-praṇayitā-vaśā** (subject to the *praṇaya*, the friendly love, of the *sakhīs*) **kṛṣṇa-priyāvalī-mukhyā** (the dearest to Kṛṣṇa) **santatāśrava-keśavā** (She whose Keśava is always, ceaselessly obedient to Her).
 
 ## 87
 
@@ -418,7 +418,7 @@ Just as in *madhura-rasa* the two best *ālambanas* are the son of the King of V
 
 > Subheading: (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, *Vibhāva-laharī*, 7–10)
 
-**bhakti-nirdhūta-doṣāṇām** (of those whose faults devotion has washed away — cleansed) **prasannojjvala-cetasām** (whose hearts are clear and bright) **śrī-bhāgavata-raktānām** (devoted to relishing the meaning of the *Śrīmad-Bhāgavatam*) **rasikāsaṅga-raṅgiṇām** (intent on relishing *rasa* together with *rasikas*) **jīvanī-bhūta-govinda-pāda-bhakti-sukha-śriyām** (for whom the wealth of the happiness of serving Kṛṣṇa has become their very life) **premāntaraṅga-bhūtāni** (intimate to *prema*) **kṛtyāni** (practices and the like) **anutiṣṭhatām** **bhaktānām** **hṛdi** **rājantī** **saṁskāra-yugalojjvalā** (made radiant by the two *saṁskāras*, the former and the present)[^89-1] **ānanda-rūpā** **ratiḥ** **eva** **tu** **anubhavādhvani** (on the path of experience) **gataiḥ** **kṛṣṇādibhiḥ** **vibhāvādyaiḥ** **rasyatām** (the state of *rasa*) **nīyamānā** **parām** **prauḍhānanda-camatkāra-kāṣṭhām** (the highest limit of concentrated bliss) **āpadyate** (attains).
+**bhakti-nirdhūta-doṣāṇām** (of those whose faults devotion has washed away — cleansed) **prasannojjvala-cetasām** (whose hearts are clear and bright) **śrī-bhāgavata-raktānām** (devoted to relishing the meaning of the *Śrīmad-Bhāgavatam*) **rasikāsaṅga-raṅgiṇām** (intent on relishing *rasa* together with *rasikas*) **jīvanī-bhūta-govinda-pāda-bhakti-sukha-śriyām** (for whom the wealth of the happiness of serving Kṛṣṇa has become their very life) **premāntaraṅga-bhūtāni** (intimate to *prema*) **kṛtyāni** (practices and the like) **anutiṣṭhatām** **bhaktānām** **hṛdi** **rājantī** **saṁskāra-yugalojjvalā** (made radiant by the two *saṁskāras*, the former and the present) **ānanda-rūpā** **ratiḥ** **eva** **tu** **anubhavādhvani** (on the path of experience) **gataiḥ** **kṛṣṇādibhiḥ** **vibhāvādyaiḥ** **rasyatām** (the state of *rasa*) **nīyamānā** **parām** **prauḍhānanda-camatkāra-kāṣṭhām** (the highest limit of concentrated bliss) **āpadyate** (attains).
 
 ## 93
 
@@ -528,22 +528,10 @@ The hair-*avatāra* (see *Śrīmad-Bhāgavatam* 2.7.26). In the *Viṣṇu Purā
 
 ---
 
-[^5-1]: The verse translation reads differently: “in a saint whose life is pure and transcendental (*śuddha-sattva*)”; for the commentators *śuddha-sattva* is the very nature of *bhāva* (a function of the *svarūpa-śakti*).
-
 [^6-1]: *Bhakti-rasāmṛta-sindhu* 1.3.6.
-
-[^7-1]: The verse translation reads differently: “a sense of complete inseparability from Him”; for the commentators *mamatva* is the sense “He is mine.”
-
-[^8-1]: The verse translation reads differently: “the sense of oneness of the soul and the Supreme Lord”; for both commentators *ananya-mamatā* is the sense “He is mine” directed to Viṣṇu alone.
 
 [^14-15-1]: *Śrīmad-Bhāgavatam* 11.19.36.
 
-[^27-1]: The verse translation reads differently: “no Vaiṣṇava perfections.”
-
 [^78-1]: The edition numbers this section “78–89”: a misprint (checked against the scan, p. 785); the section covers verses 78–79, and the next section is 80.
-
-[^82-1]: The verse translation reads differently: “She treats Her elders with great affection” (Madhya 23.86).
-
-[^89-1]: The verse translation reads differently: it takes the *saṁskāras* as past and present purificatory rites (Madhya 23.89–91); in the *Anubhāṣya* they are former and present impressions.
 
 [^110-1]: In the paraphrase that follows, Bhaktisiddhānta takes *soma* as *sa-umā*, “[Śiva] with Umā.”

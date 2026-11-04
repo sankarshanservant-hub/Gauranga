@@ -58,7 +58,7 @@ Filled with *rati* for Hari, this crest jewel of kings, begging alms in the city
 
 ## 30
 
-“O Govinda, this young Rādhikā today[^30-1], with teardrops in Her lotus eyes, is singing Your names in a sweet voice.”
+“O Govinda, this young Rādhikā today, with teardrops in Her lotus eyes, is singing Your names in a sweet voice.”
 
 ## 33
 
@@ -116,11 +116,11 @@ Such (love-filled) pastimes, the incomparable company of His beloveds (that is, 
 
 ## 82–86
 
-Now the chief qualities of Śrī Rādhikā, the Queen of Vṛndāvana, are glorified. She is: 1) sweet, 2) youthful, 3) with restless eyes, 4) with a radiant smile, 5) with beautiful lines of good fortune, 6) maddening Kṛṣṇa with Her fragrance, 7) versed in the art of song, 8) charming in speech, 9) expert in joking (*narma*), 10) humble, 11) full of compassion, 12) clever, 13) skillful, 14) modest, 15) keeping proper bounds (*sumaryādā*), 16) steadfast, 17) full of depth, 18) rich in play (*suvilāsā*), 19) full of *mahābhāva* in its highest degree, 20) the abode of Gokula's love, 21) one whose fame shines among the *āśrayas* of the whole world, 22) one on whom the elders bestow great affection,[^82-1] 23) subject to the friendly love (*praṇaya*) of the *sakhīs*, 24) the chief among Kṛṣṇa's beloveds, 25) one who always keeps Keśava under Her control.
+Now the chief qualities of Śrī Rādhikā, the Queen of Vṛndāvana, are glorified. She is: 1) sweet, 2) youthful, 3) with restless eyes, 4) with a radiant smile, 5) with beautiful lines of good fortune, 6) maddening Kṛṣṇa with Her fragrance, 7) versed in the art of song, 8) charming in speech, 9) expert in joking (*narma*), 10) humble, 11) full of compassion, 12) clever, 13) skillful, 14) modest, 15) keeping proper bounds (*sumaryādā*), 16) steadfast, 17) full of depth, 18) rich in play (*suvilāsā*), 19) full of *mahābhāva* in its highest degree, 20) the abode of Gokula's love, 21) one whose fame shines among the *āśrayas* of the whole world, 22) one on whom the elders bestow great affection, 23) subject to the friendly love (*praṇaya*) of the *sakhīs*, 24) the chief among Kṛṣṇa's beloveds, 25) one who always keeps Keśava under Her control.
 
 ## 89–92
 
-Devotion has washed away all their faults; their hearts are clear and bright; they are devoted to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*; the happiness and beauty of devotion to Govinda's feet is their very life; they perform the acts that are intimate (*antaraṅga*) to *prema*. In the hearts of such devotees *rati*, whose nature is bliss, made radiant by past and present *saṁskāras*,[^89-1] becomes relishable and shines forth. Through the *vibhāvas* — Kṛṣṇa and the rest — on the path of experience it reaches its highest limit: the wonder (*camatkāra*) of mature bliss.
+Devotion has washed away all their faults; their hearts are clear and bright; they are devoted to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*; the happiness and beauty of devotion to Govinda's feet is their very life; they perform the acts that are intimate (*antaraṅga*) to *prema*. In the hearts of such devotees *rati*, whose nature is bliss, made radiant by past and present *saṁskāras*, becomes relishable and shines forth. Through the *vibhāvas* — Kṛṣṇa and the rest — on the path of experience it reaches its highest limit: the wonder (*camatkāra*) of mature bliss.
 
 ## 94
 
@@ -128,7 +128,7 @@ For nondevotees this *bhagavad-rasa* is in every way unattainable. *Bhakti-rasa*
 
 ## 98
 
-“The *bhakti-smṛti-śāstra*” is the book *Hari-bhakti-vilāsa*.[^98-1]
+“The *bhakti-smṛti-śāstra*” is the book *Hari-bhakti-vilāsa*.
 
 ## 99
 
@@ -169,14 +169,6 @@ The interpretation that Kṛṣṇa is an *avatāra* in the form of “a hair bl
 *Thus ends the twenty-third chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
-
-[^30-1]: The verse translation reads differently: “sings unceasingly”; the commentators take *adya* as “today.”
-
-[^82-1]: The verse translation reads differently: “She treats Her elders with great affection” (Madhya 23.86).
-
-[^89-1]: The verse translation reads differently: it takes the *saṁskāras* as past and present purificatory rites (Madhya 23.89–91); for Bhaktivinoda they are past and present impressions that make *rati* radiant.
-
-[^98-1]: The verse translation reads differently: “Establish this science of *bhakti* in your writings and preach it from Vṛndāvana” (Madhya 23.98); for Bhaktivinoda *bhakti-smṛti* is a specific book, the *Hari-bhakti-vilāsa*.
 
 [^102-1]: So in the edition: both halves of the phrase say that the devotee does not disturb others. In the verse (*lokān nodvijate*) and in the *Anubhāṣya* the second half means “who is not himself disturbed by people.”
 
