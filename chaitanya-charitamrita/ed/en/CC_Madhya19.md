@@ -1429,113 +1429,141 @@ among millions  even  O great sage
 গুরু-কৃষ্ণ-প্রসাদে পায় ভক্তিলতা-বীজ ॥ ১৫১ ॥
 
 brahmāṇḍa bhramite kona bhāgyavān jīva  
-guru-kṛṣṇa-prasāde pāya bhakti-latā-bīja
+the universe  wandering  some  fortunate  jīva  
+guru-kṛṣṇa-prasāde pāya bhakti-latā-bīja  
+of guru and Kṛṣṇa  by the mercy  obtains  of the creeper of devotion  the seed
 
-(151) [not yet translated]
+(151) “Wandering through the universe, some fortunate *jīva*, by the mercy of guru and Kṛṣṇa, obtains the seed of the creeper of devotion (*bhakti-latā*).
 
 মালী হঞা করে সেই বীজ আরোপণ ৷  
 শ্রবণ-কীর্ত্তন-জলে করয়ে সেচন ॥ ১৫২ ॥
 
 mālī hañā kare sei bīja āropaṇa  
-śravaṇa-kīrtana-jale karaye secana
+a gardener  becoming  he does  that  seed  planting  
+śravaṇa-kīrtana-jale karaye secana  
+of hearing and chanting  with the water  he does  watering
 
-(152) [not yet translated]
+(152) “Becoming a gardener, he plants that seed and waters it with the water of hearing and chanting.
 
 উপজিয়া বাড়ে লতা ‘ব্রহ্মাণ্ড’ ভেদি’ যায় ৷  
 ‘বিরজা’, ‘ব্রহ্মলোক’ ভেদি’ ‘পরব্যোম’ পায় ॥ ১৫৩ ॥
 
 upajiyā bāḍe latā ‘brahmāṇḍa’ bhedi’ yāya  
-‘virajā’, ‘brahma-loka’ bhedi’ ‘para-vyoma’ pāya
+sprouting  grows  the creeper  the universe  piercing  goes  
+‘virajā’, ‘brahma-loka’ bhedi’ ‘para-vyoma’ pāya  
+the Virajā  Brahmaloka  piercing  the spiritual sky  reaches
 
-(153) [not yet translated]
+(153) “Sprouting, the creeper grows and pierces through the universe; piercing the Virajā and Brahmaloka, it reaches the spiritual sky (*paravyoma*).
 
 তবে যায় তদুপরি ‘গোলোক-বৃন্দাবন’ ৷  
 ‘কৃষ্ণচরণ’-কল্পবৃক্ষে করে আরোহণ ॥ ১৫৪ ॥
 
 tabe yāya tad-upari ‘goloka-vṛndāvana’  
-‘kṛṣṇa-caraṇa’-kalpa-vṛkṣe kare ārohaṇa
+then  goes  above that  Goloka Vṛndāvana  
+‘kṛṣṇa-caraṇa’-kalpa-vṛkṣe kare ārohaṇa  
+of Kṛṣṇa’s feet  the wish-fulfilling tree  it does  climbing
 
-(154) [not yet translated]
+(154) “Then it goes higher still, to Goloka Vṛndāvana, and climbs the wish-fulfilling tree of Kṛṣṇa’s feet.
 
 তাঁহা বিস্তারিত হঞা ফলে প্রেম-ফল ৷  
 ইঁহা মালী সেচে নিত্য শ্রবণকীর্ত্তনাদি-জল ॥ ১৫৫ ॥
 
 tāṅhā vistārita hañā phale prema-phala  
-iṅhā mālī sece nitya śravaṇa-kīrtanādi-jala
+there  spread out  becoming  it bears  the fruit of prema  
+iṅhā mālī sece nitya śravaṇa-kīrtanādi-jala  
+here  the gardener  sprinkles  daily  of hearing, chanting and the rest  water
 
-(155) [not yet translated]
+(155) “There it spreads and bears the fruit of *prema*, while here the gardener daily sprinkles it with the water of hearing, chanting and the rest.
 
 যদি বৈষ্ণব-অপরাধ উঠে হাতী মাতা ৷  
 উপাড়ে বা ছিণ্ডে, তার শুখি’ যায় পাতা ॥ ১৫৬ ॥
 
 yadi vaiṣṇava-aparādha uṭhe hātī mātā  
-upāḍe vā chiṇḍe, tāra śukhi’ yāya pātā
+if  against a Vaiṣṇava  an offense  rises  an elephant  mad  
+upāḍe vā chiṇḍe, tāra śukhi’ yāya pātā  
+uproots  or  breaks  its  drying up  go  leaves
 
-(156) [not yet translated]
+(156) “If an offense against a Vaiṣṇava rises up like a mad elephant, it uproots or breaks the creeper, and its leaves wither away.
 
 তাতে মালী যত্ন করি’ করে আবরণ ৷  
 অপরাধ হস্তীর যৈছে না হয় উদ্গম ॥ ১৫৭ ॥
 
 tāte mālī yatna kari’ kare āvaraṇa  
-aparādha hastīra yaiche nā haya udgama
+therefore  the gardener  care  taking  makes  a fence  
+aparādha hastīra yaiche nā haya udgama  
+of offense  of the elephant  so that  not  may be  the rising
 
-(157) [not yet translated]
+(157) “Therefore the gardener carefully fences the creeper round, so that the elephant of offense may not rise up.
 
 কিন্তু যদি লতার সঙ্গে উঠে ‘উপশাখা’ ৷  
 ভুক্তি-মুক্তি-বাঞ্ছা, যত অসংখ্য তার লেখা ॥ ১৫৮ ॥
 
 kintu yadi latāra saṅge uṭhe ‘upaśākhā’  
-bhukti-mukti-vāñchā, yata asaṅkhya tāra lekhā
+but  if  the creeper  together with  rise  side shoots  
+bhukti-mukti-vāñchā, yata asaṅkhya tāra lekhā  
+for enjoyment, liberation  desire  as many  countless  their  count
 
-(158) [not yet translated]
+(158) “But side shoots (*upaśākhā*) may rise up together with the creeper — the desire for enjoyment and liberation; there is no counting them.
 
 ‘নিষিদ্ধাচার’, ‘কুটীনাটী’, ‘জীবহিংসন’ ৷  
 ‘লাভ’, ‘পূজা’, ‘প্রতিষ্ঠাদি’ যত উপশাখাগণ ॥ ১৫৯ ॥
 
 ‘niṣiddhācāra’, ‘kuṭīnāṭī’, ‘jīva-hiṁsana’  
-‘lābha’, ‘pūjā’, ‘pratiṣṭhādi’ yata upaśākhā-gaṇa
+forbidden conduct  duplicity  violence to living beings  
+‘lābha’, ‘pūjā’, ‘pratiṣṭhādi’ yata upaśākhā-gaṇa  
+gain  honor  prestige and the rest  all  the side shoots
 
-(159) [not yet translated]
+(159) “Forbidden conduct, duplicity, violence to living beings, gain, honor, prestige and the rest — these are all side shoots.
 
 সেকজল পাঞা উপশাখা বাড়ি’ যায় ৷  
 স্তব্ধ হঞা মূলশাখা বাড়িতে না পায় ॥ ১৬০ ॥
 
 seka-jala pāñā upaśākhā bāḍi’ yāya  
-stabdha hañā mūla-śākhā bāḍite nā pāya
+sprinkled  water  receiving  the side shoots  growing  go  
+stabdha hañā mūla-śākhā bāḍite nā pāya  
+stunted  becoming  the main branch  to grow  not  is able
 
-(160) [not yet translated]
+(160) “Receiving the water that is sprinkled, the side shoots grow, while the main branch is stunted and cannot grow.
 
 প্রথমেই উপশাখার করয়ে ছেদন ৷  
 তবে মূলশাখা বাড়ি’ যায় বৃন্দাবন ॥ ১৬১ ॥
 
 prathamei upaśākhāra karaye chedana  
-tabe mūla-śākhā bāḍi’ yāya vṛndāvana
+first of all  of the side shoots  he does  cutting  
+tabe mūla-śākhā bāḍi’ yāya vṛndāvana  
+then  the main branch  growing  goes  to Vṛndāvana
 
-(161) [not yet translated]
+(161) “First of all the gardener cuts away the side shoots; then the main branch grows and reaches Vṛndāvana.
 
 ‘প্রেমফল’ পাকি’ পড়ে, মালী আস্বাদয় ৷  
 লতা অবলম্বি’ মালী ‘কল্পবৃক্ষ’ পায় ॥ ১৬২ ॥
 
 ‘prema-phala’ pāki’ paḍe, mālī āsvādaya  
-latā avalambi’ mālī ‘kalpa-vṛkṣa’ pāya
+the fruit of prema  ripening  falls  the gardener  tastes  
+latā avalambi’ mālī ‘kalpa-vṛkṣa’ pāya  
+the creeper  holding to  the gardener  the wish-fulfilling tree  reaches
 
-(162) [not yet translated]
+(162) “The fruit of *prema* ripens and falls, and the gardener tastes it. Holding to the creeper, the gardener reaches the wish-fulfilling tree.
 
 তাঁহা সেই কল্পবৃক্ষের করয়ে সেবন ৷  
 সুখে প্রেমফল-রস করে আস্বাদন ॥ ১৬৩ ॥
 
 tāṅhā sei kalpa-vṛkṣera karaye sevana  
-sukhe prema-phala-rasa kare āsvādana
+there  that  wish-fulfilling tree  he does  service  
+sukhe prema-phala-rasa kare āsvādana  
+in happiness  of the fruit of prema  the juice  does  tasting
 
-(163) [not yet translated]
+(163) “There he serves that wish-fulfilling tree and happily tastes the juice (*rasa*) of the fruit of *prema*.
 
 এইত পরম-ফল ‘পরম-পুরুষার্থ’ ৷  
 যাঁর আগে তৃণ-তুল্য চারি পুরুষার্থ ॥ ১৬৪ ॥
 
 eita parama-phala ‘parama-puruṣārtha’  
-yāṅra āge tṛṇa-tulya cāri puruṣārtha
+this indeed  the supreme fruit  the supreme goal of life  
+yāṅra āge tṛṇa-tulya cāri puruṣārtha  
+of which  before  like straw  the four  goals of life
 
-(164) [not yet translated]
+(164) “This is the supreme fruit, the supreme goal of life (*parama-puruṣārtha*), before which the four goals of life are like straw.
 
 ঋদ্ধা সিদ্ধির্ব্রজ-বিজয়িতা সত্যধর্ম্মা সমাধি-  
 র্ব্রহ্মানন্দো গুরুরপি চমৎকারয়ত্যেব তাবৎ ৷  
@@ -1543,55 +1571,73 @@ yāṅra āge tṛṇa-tulya cāri puruṣārtha
 গন্ধোঽপ্যন্তঃকরণসরণী-পান্থতাং ন প্রয়াতি ॥ ১৬৫ ॥
 
 ṛddhā siddhir vraja-vijayitā satya-dharmā samādhir  
+rich  perfection  supremacy over the host  dharma founded on truth  samādhi  
 brahmānando gurur api camatkārayaty eva tāvat  
+the bliss of Brahman  great  even  astonish  only  so long  
 yāvat premnāṁ madhu-ripu-vaśī-kāra-siddhauṣadhīnāṁ  
-gandho ’py antaḥ-karaṇa-saraṇī-pānthatāṁ na prayāti
+as long as  of prema  of Madhu’s foe  subduing  the perfect herbs  
+gandho ’py antaḥ-karaṇa-saraṇī-pānthatāṁ na prayāti  
+the fragrance  even  of the heart  on the road  wayfaring  not  attains
 
-(165) [not yet translated]
+(165) “Rich mastery over the host of mystic perfections, *dharma* founded on truth, *samādhi*, even the great bliss of Brahman — these astonish one only so long as not even the fragrance of *prema*, the perfect herb for bringing Kṛṣṇa, the foe of Madhu, under control, has set out on the road of the heart.” (Lalita-mādhava, 5.2)
 
 ‘শুদ্ধভক্তি’ হৈতে হয় ‘প্রেমা’ উৎপন্ন ৷  
 অতএব শুদ্ধভক্তির কহিয়ে ‘লক্ষণ’ ॥ ১৬৬ ॥
 
 ‘śuddha-bhakti’ haite haya ‘premā’ utpanna  
-ataeva śuddha-bhaktira kahiye ‘lakṣaṇa’
+pure devotion  from  is  prema  born  
+ataeva śuddha-bhaktira kahiye ‘lakṣaṇa’  
+therefore  of pure devotion  I tell  the characteristics
 
-(166) [not yet translated]
+(166) “From pure devotion (*śuddha-bhakti*) *prema* is born; therefore I shall tell you the characteristics of pure devotion.
 
 অন্যাভিলাষিতা-শূন্যং জ্ঞান-কর্ম্মাদ্যনাবৃতম্ ৷  
 আনুকূল্যেন কৃষ্ণানুশীলনং ভক্তিরুত্তমা ॥ ১৬৭ ॥
 
 anyābhilāṣitā-śūnyaṁ  
+of other desires  devoid  
 jñāna-karmādy-anāvṛtam  
+by knowledge, karma and the rest  uncovered  
 ānukūlyena kṛṣṇānu-  
-śīlanaṁ bhaktir uttamā
+favorably  of Kṛṣṇa  
+śīlanaṁ bhaktir uttamā  
+the cultivation  devotion  highest
 
-(167) [not yet translated]
+(167) “Devotion of the highest kind is the favorable cultivation of service to Kṛṣṇa, free from all other desires and unobscured by *jñāna*, *karma* and the like.” (Bhakti-rasāmṛta-sindhu, 1.1.11)
 
 অন্য-বাঞ্ছা, অন্য-পূজা ছাড়ি’ ‘জ্ঞান’, ‘কর্ম্ম’ ৷  
 আনুকূল্যে সর্ব্বেন্দ্রিয়ে কৃষ্ণানুশীলন ॥ ১৬৮ ॥
 
 anya-vāñchā, anya-pūjā chāḍi’ ‘jñāna’, ‘karma’  
-ānukūlye sarvendriye kṛṣṇānuśīlana
+other  desires  other  worship  giving up  jñāna  karma  
+ānukūlye sarvendriye kṛṣṇānuśīlana  
+favorably  with all the senses  the cultivation of Kṛṣṇa
 
-(168) [not yet translated]
+(168) “To give up other desires, the worship of others, *jñāna* and *karma*, and to cultivate service to Kṛṣṇa with all the senses in a favorable spirit —
 
 এই ‘শুদ্ধভক্তি’ — ইহা হৈতে ‘প্রেমা’ হয় ৷  
 পঞ্চরাত্রে, ভাগবতে এই লক্ষণ কয় ॥ ১৬৯ ॥
 
 ei ‘śuddha-bhakti’ — ihā haite ‘premā’ haya  
-pañcarātre, bhāgavate ei lakṣaṇa kaya
+this  pure devotion  it  from  prema  comes  
+pañcarātre, bhāgavate ei lakṣaṇa kaya  
+in the Pañcarātra  in the Bhāgavata  this  characteristic  is told
 
-(169) [not yet translated]
+(169) “this is pure devotion, and from it *prema* arises. The Pañcarātra and the *Bhāgavata* describe these characteristics.
 
 সর্ব্বোপাধিবিনির্ম্মুক্তং তৎপরত্বেন নির্ম্মলম্ ৷  
 হৃষীকেণ হৃষীকেশ-সেবনং ভক্তিরুচ্যতে ॥ ১৭০ ॥
 
 sarvopādhi-vinirmuktaṁ  
+from all designations  freed  
 tat-paratvena nirmalam  
+by devotion to Him  pure  
 hṛṣīkeṇa hṛṣīkeśa-  
-sevanaṁ bhaktir ucyate
+with the senses  of the master of the senses  
+sevanaṁ bhaktir ucyate  
+the service  devotion  is called
 
-(170) [not yet translated]
+(170) “Service to the master of the senses (*Hṛṣīkeśa*) with one’s senses, free from all designations and made pure by dedication to Him alone, is called devotion.” (Nārada-pañcarātra, cited in Bhakti-rasāmṛta-sindhu, 1.1.12)
 
 মদ্গুণশ্রুতিমাত্রেণ ময়ি সর্ব্বগুহাশয়ে ৷  
 মনোগতিরবিচ্ছিন্না যথা গঙ্গাম্ভসোঽম্বুধৌ ॥ ১৭১ ॥
