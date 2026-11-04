@@ -934,11 +934,13 @@ w: when it is heard  the intellect  that  depends on
 w: not  here  scripture  nor  reasoning  and
 w: that  of longing  of the arising  the sign
 tr: “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without depending on scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)
+fn: This is how longing (*lobha*) is born, not a rejection of scripture (see the note to verse 148). *Amṛta-pravāha-bhāṣya*: on hearing of the sweetness of the moods of the people of Vraja, the intellect rests on this longing — and it is this that gives the right to *rāgānugā-bhakti*.
 
 ## 151
 w: external  internal  of it  two  indeed  practices
 w: externally  in the body of a sādhaka  he does  hearing and chanting
 tr: Its practice is of two kinds, external and internal. Externally, in the body of a practitioner (*sādhaka*), he hears and chants;
+fn: *Anubhāṣya* (heading): thus, in two ways — in the body of a *sādhaka* and in the *siddha-deha* — *rāgānugā-bhakti* is practised by one who is free from *anarthas*.
 
 ## 152
 w: in the mind  his own perfected body  making  contemplation
@@ -956,6 +958,7 @@ tr: “One who longs for the *bhāva* of the people of Vraja should serve, follo
 w: his own chosen  of Kṛṣṇa  dear one  behind  indeed  keeping close
 w: constantly  service  he does  with mind turned within  becoming
 tr: Keeping close behind the dear one of Kṛṣṇa whom he has chosen as his own ideal, he serves without cease, his mind turned within.
+fn: The *rāgānugā* devotee serves by following a resident of Vraja (*ānugatya*), not by imitating him; *Anubhāṣya* (heading): following the guru at every moment.
 
 ## 155
 w: Kṛṣṇa  remembering  the person  and  His
@@ -968,6 +971,7 @@ tr: “Remembering Kṛṣṇa and that dearest devotee of His whom he has chose
 w: of servants  friends  parents and others  beloveds  the groups
 w: on the path of rāga  of each one’s own  bhāva  the reckoning
 tr: Servants, friends, parents and the others, and the beloveds: on the path of *rāga* each devotee is reckoned among them according to his own *bhāva*.
+fn: *Anubhāṣya* (heading): the *rāgānugā* devotee serves Kṛṣṇa in four rasas; *śānta-rasa* has no place here.
 
 ## 157
 w: never  ever  devoted to Me  in the abode of peace
@@ -975,6 +979,7 @@ w: will perish  not  My  time  devours  weapon
 w: for whom  I  the beloved  the Self  son  and
 w: friend  guru  well-wisher  deity  the desired
 tr: (Lord Kapila to Devahūti:) “Those devoted to Me, for whom I am the beloved, the Self, son, friend, guru, well-wisher, deity and all they desire, are never lost in My abode of peace, and My weapon, time, does not devour them.” (Śrīmad-Bhāgavatam, 3.25.38)
+fn: *Anubhāṣya*: *śānta-rūpe* — in Me, or in the eternal abode of Vaikuṇṭha; *na naṅkṣyanti* — they never become impersonal, bereft of enjoyment.
 
 ## 158
 w: husband  son  well-wisher  brother
@@ -982,6 +987,7 @@ w: as father  as friend  on Hari
 w: who  meditate  always  zealous
 w: to them  even  here  obeisance  obeisance
 tr: “Again and again I bow to those in this world who always zealously meditate on Hari as their husband, son, well-wisher, brother, father or friend.” (Bhakti-rasāmṛta-sindhu, 1.2.308)
+fn: The verse number is not printed in the edition.
 
 ## 159
 w: in this  way  practises  whoever  rāgānugā-bhakti
@@ -992,16 +998,19 @@ tr: In whoever practises *rāgānugā-bhakti* in this way, love (*prīti*) for K
 w: of love  in the sprout  rati  bhāva  are  two  names
 w: by which  subdued  becomes  Śrī Bhagavān
 tr: When love is still a sprout, it has two names, *rati* and *bhāva*; by it Śrī Bhagavān Himself is won over.
+fn: *Anubhāṣya* (heading): this is *bhāva-bhakti*, or *rati* — love for Kṛṣṇa not yet fully developed, which draws Kṛṣṇa.
 
 ## 161
 w: by which  one obtains  to Kṛṣṇa  in love  service
 w: thus  indeed  I have told  of the abhidheya  the description
 tr: That by which one obtains loving service to Kṛṣṇa (*prema-sevā*) — thus I have described the *abhidheya*, the means.
+fn: *Anubhāṣya* (heading): until *bhāva*, or *rati*, awakens, the *abhidheya* is *sādhana*; from it the *prayojana* is obtained.
 
 ## 162
 w: the abhidheya  sādhana-bhakti  now  I have told  Sanātana
 w: in brief  I have told it  in full  not  can be  described
-tr: Now, Sanātana, I have told you of the *abhidheya*, *sādhana-bhakti*. I have told it in brief; it cannot be described in full.
+tr: Now, Sanātana, I have told you of the *abhidheya*, *sādhana-bhakti*. I have told it in brief; it cannot be described in full.”
+fn: The second line is the same as in Madhya 9.358. Here ends Mahāprabhu’s speech begun in verse 3.
 
 ## 163
 w: the abhidheya  sādhana-bhakti  hears  whatever  person

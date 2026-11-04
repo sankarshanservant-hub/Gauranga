@@ -1803,7 +1803,7 @@ not  here  scripture  nor  reasoning  and
 tal lobhotpatti-lakṣaṇam  
 that  of longing  of the arising  the sign
 
-(150) “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without depending on scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)
+(150) “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without depending on scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)[^56]
 
 বাহ্য, অভ্যন্তর, — ইহার দুই ত’ সাধন ৷  
 ‘বাহ্যে’ সাধক-দেহে করে শ্রবণ-কীর্ত্তন ॥ ১৫১ ॥
@@ -1813,7 +1813,7 @@ external  internal  of it  two  indeed  practices
 ‘bāhye’ sādhaka-dehe kare śravaṇa-kīrtana  
 externally  in the body of a sādhaka  he does  hearing and chanting
 
-(151) Its practice is of two kinds, external and internal. Externally, in the body of a practitioner (*sādhaka*), he hears and chants;
+(151) Its practice is of two kinds, external and internal. Externally, in the body of a practitioner (*sādhaka*), he hears and chants;[^57]
 
 ‘মনে’ নিজ-সিদ্ধদেহ করিয়া ভাবন ৷  
 রাত্রি-দিনে করে ব্রজে কৃষ্ণের সেবন ॥ ১৫২ ॥
@@ -1847,7 +1847,7 @@ his own chosen  of Kṛṣṇa  dear one  behind  indeed  keeping close
 nirantara sevā kare antarmanā hañā  
 constantly  service  he does  with mind turned within  becoming
 
-(154) Keeping close behind the dear one of Kṛṣṇa whom he has chosen as his own ideal, he serves without cease, his mind turned within.
+(154) Keeping close behind the dear one of Kṛṣṇa whom he has chosen as his own ideal, he serves without cease, his mind turned within.[^58]
 
 কৃষ্ণং স্মরন্ জনঞ্চাস্য প্রেষ্ঠং নিজসমীহিতম্ ৷  
 তত্তৎকথা-রতশ্চাসৌ কুর্য্যাদ্বাসং ব্রজে সদা ॥ ১৫৫ ॥
@@ -1871,7 +1871,7 @@ of servants  friends  parents and others  beloveds  the groups
 rāga-mārge nija-nija-bhāvera gaṇana  
 on the path of rāga  of each one’s own  bhāva  the reckoning
 
-(156) Servants, friends, parents and the others, and the beloveds: on the path of *rāga* each devotee is reckoned among them according to his own *bhāva*.
+(156) Servants, friends, parents and the others, and the beloveds: on the path of *rāga* each devotee is reckoned among them according to his own *bhāva*.[^59]
 
 ন কর্হিচিন্মৎপরাঃ শান্তরূপে  
 নঙ্ক্ষ্যন্তি নো মেঽনিমিষো লেঢ়ি হেতিঃ ৷  
@@ -1887,7 +1887,7 @@ for whom  I  the beloved  the Self  son  and
 sakhā guruḥ suhṛdo daivam iṣṭam  
 friend  guru  well-wisher  deity  the desired
 
-(157) (Lord Kapila to Devahūti:) “Those devoted to Me, for whom I am the beloved, the Self, son, friend, guru, well-wisher, deity and all they desire, are never lost in My abode of peace, and My weapon, time, does not devour them.” (Śrīmad-Bhāgavatam, 3.25.38)
+(157) (Lord Kapila to Devahūti:) “Those devoted to Me, for whom I am the beloved, the Self, son, friend, guru, well-wisher, deity and all they desire, are never lost in My abode of peace, and My weapon, time, does not devour them.” (Śrīmad-Bhāgavatam, 3.25.38)[^60]
 
 পতিপুত্রসুহৃদ্ভ্রাতৃপিতৃবন্মিত্রবদ্ধরিম্ ৷  
 যে ধ্যায়ন্তি সদোদ্যুক্তাস্তেভ্যোঽপীহ নমো নমঃ ॥ ১৫৮ ॥
@@ -1901,7 +1901,7 @@ who  meditate  always  zealous
 tebhyo ‘pīha namo namaḥ  
 to them  even  here  obeisance  obeisance
 
-(158) “Again and again I bow to those in this world who always zealously meditate on Hari as their husband, son, well-wisher, brother, father or friend.” (Bhakti-rasāmṛta-sindhu, 1.2.308)
+(158) “Again and again I bow to those in this world who always zealously meditate on Hari as their husband, son, well-wisher, brother, father or friend.” (Bhakti-rasāmṛta-sindhu, 1.2.308)[^61]
 
 এইমত করে যেবা রাগানুগা-ভক্তি ৷  
 কৃষ্ণের চরণে তাঁর উপজয় ‘প্রীতি’ ॥ ১৫৯ ॥
@@ -1921,7 +1921,7 @@ of love  in the sprout  rati  bhāva  are  two  names
 yāhā haite vaśa hana śrī-bhagavān  
 by which  subdued  becomes  Śrī Bhagavān
 
-(160) When love is still a sprout, it has two names, *rati* and *bhāva*; by it Śrī Bhagavān Himself is won over.
+(160) When love is still a sprout, it has two names, *rati* and *bhāva*; by it Śrī Bhagavān Himself is won over.[^62]
 
 যাহা হৈতে পাই কৃষ্ণের প্রেম-সেবন ৷  
 এত ত’ কহিলুঁ ‘অভিধেয়’-বিবরণ ॥ ১৬১ ॥
@@ -1931,7 +1931,7 @@ by which  one obtains  to Kṛṣṇa  in love  service
 eta ta’ kahilum̐ ‘abhidheya’-vivaraṇa  
 thus  indeed  I have told  of the abhidheya  the description
 
-(161) That by which one obtains loving service to Kṛṣṇa (*prema-sevā*) — thus I have described the *abhidheya*, the means.
+(161) That by which one obtains loving service to Kṛṣṇa (*prema-sevā*) — thus I have described the *abhidheya*, the means.[^63]
 
 অভিধেয়, সাধন-ভক্তি এবে কহিলুঁ সনাতন ৷  
 সংক্ষেপে কহিলুঁ, বিস্তার না যায় বর্ণন ॥ ১৬২ ॥
@@ -1941,7 +1941,7 @@ the abhidheya  sādhana-bhakti  now  I have told  Sanātana
 saṅkṣepe kahilum̐, vistāra nā yāya varṇana  
 in brief  I have told it  in full  not  can be  described
 
-(162) Now, Sanātana, I have told you of the *abhidheya*, *sādhana-bhakti*. I have told it in brief; it cannot be described in full.
+(162) Now, Sanātana, I have told you of the *abhidheya*, *sādhana-bhakti*. I have told it in brief; it cannot be described in full.”[^64]
 
 অভিধেয় সাধনভক্তি শুনে যেই জন ৷  
 অচিরাৎ পায় সেই কৃষ্ণপ্রেমধন ॥ ১৬৩ ॥
@@ -2074,3 +2074,21 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^54]: Reference as in the edition’s heading (Sādhana-bhakti-laharī, 272).
 
 [^55]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
+
+[^56]: This is how longing (*lobha*) is born, not a rejection of scripture (see the note to verse 148). *Amṛta-pravāha-bhāṣya*: on hearing of the sweetness of the moods of the people of Vraja, the intellect rests on this longing — and it is this that gives the right to *rāgānugā-bhakti*.
+
+[^57]: *Anubhāṣya* (heading): thus, in two ways — in the body of a *sādhaka* and in the *siddha-deha* — *rāgānugā-bhakti* is practised by one who is free from *anarthas*.
+
+[^58]: The *rāgānugā* devotee serves by following a resident of Vraja (*ānugatya*), not by imitating him; *Anubhāṣya* (heading): following the guru at every moment.
+
+[^59]: *Anubhāṣya* (heading): the *rāgānugā* devotee serves Kṛṣṇa in four rasas; *śānta-rasa* has no place here.
+
+[^60]: *Anubhāṣya*: *śānta-rūpe* — in Me, or in the eternal abode of Vaikuṇṭha; *na naṅkṣyanti* — they never become impersonal, bereft of enjoyment.
+
+[^61]: The verse number is not printed in the edition.
+
+[^62]: *Anubhāṣya* (heading): this is *bhāva-bhakti*, or *rati* — love for Kṛṣṇa not yet fully developed, which draws Kṛṣṇa.
+
+[^63]: *Anubhāṣya* (heading): until *bhāva*, or *rati*, awakens, the *abhidheya* is *sādhana*; from it the *prayojana* is obtained.
+
+[^64]: The second line is the same as in Madhya 9.358. Here ends Mahāprabhu’s speech begun in verse 3.
