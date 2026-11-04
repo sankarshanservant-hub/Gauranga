@@ -707,7 +707,7 @@ we  like  O friend  can it be  deeply  pierced  in heart
 nalina-nayana-hāsodāra-līlekṣitena  
 of the lotus-eyed one  by the smile  generous  by the playful glance
 
-(61) (The queens of Dvārakā:) “O kurarī bird, you lament without sleep and do not even lie down, while at night the Lord sleeps in this world, His awareness hidden. Can it be, O friend, that like us you have had your heart deeply pierced by the generous, playful glance and smile of the lotus-eyed one?” (Śrīmad-Bhāgavatam, 10.90.15)
+(61) (The queens of Dvārakā:) “O kurarī bird, you lament without sleep and do not even lie down, while at night the Lord sleeps in this world, His awareness hidden. Can it be, O friend, that like us you have had your heart deeply pierced by the generous, playful glance and smile of the lotus-eyed one?” (Śrīmad-Bhāgavatam, 10.90.15)[^36]
 
 ব্রজেন্দ্রনন্দন কৃষ্ণ — নায়ক-শিরোমণি ৷  
 নায়িকার শিরোমণি — রাধা-ঠাকুরাণী ॥ ৬২ ॥
@@ -731,7 +731,7 @@ in whom  eternally  all
 virājante mahā-guṇāḥ  
 shine  great  qualities
 
-(63) “Kṛṣṇa, Bhagavān Himself, is the crown jewel of all heroes, for in Him all great qualities shine eternally.” (Bhakti-rasāmṛta-sindhu, 2.1.17)
+(63) “Kṛṣṇa, Bhagavān Himself, is the crown jewel of all heroes, for in Him all great qualities shine eternally.” (Bhakti-rasāmṛta-sindhu, 2.1.17)[^37]
 
 দেবী কৃষ্ণময়ী প্রোক্তা রাধিকা পরদেবতা ৷  
 সর্ব্বলক্ষ্মীময়ী সর্ব্বকান্তিঃ সম্মোহিনী পরা ॥ ৬৪ ॥
@@ -745,7 +745,7 @@ all  Lakṣmīs  containing  all
 kāntiḥ sammohinī parā  
 splendour  the enchantress  supreme
 
-(64) “The goddess (*devī*) Rādhikā is declared to be full of Kṛṣṇa (*kṛṣṇa-mayī*). She is the supreme deity; all the Lakṣmīs are within Her; She is the whole of splendour (*sarva-kānti*) and the supreme enchantress.” (Bṛhad-gautamīya-tantra)
+(64) “The goddess (*devī*) Rādhikā is declared to be full of Kṛṣṇa (*kṛṣṇa-mayī*). She is the supreme deity; all the Lakṣmīs are within Her; She is the whole of splendour (*sarva-kānti*) and the supreme enchantress.” (Bṛhad-gautamīya-tantra)[^38]
 
 অনন্ত কৃষ্ণের গুণ, চৌষট্টি — প্রধান ৷  
 এক এক গুণ শুনি’ জুড়ায় ভক্ত-কাণ ॥ ৬৫ ॥
@@ -755,7 +755,7 @@ endless  of Kṛṣṇa  qualities  sixty-four  principal
 eka eka guṇa śuni’ juḍāya bhakta-kāṇa  
 each  one  quality  hearing  are soothed  of the devotees  the ears
 
-(65) Kṛṣṇa’s qualities are endless, and sixty-four of them are principal. The devotees’ ears are soothed on hearing of each one of them.
+(65) Kṛṣṇa’s qualities are endless, and sixty-four of them are principal. Hearing of each one of them delights the devotees’ ears.
 
 অয়ং নেতা সুরম্যাঙ্গঃ সর্ব্বসল্লক্ষণান্বিতঃ ৷  
 রুচিরস্তেজসা যুক্তো বলীয়ান্ বয়সান্বিতঃ ॥ ৬৬ ॥
@@ -769,7 +769,7 @@ delightful to see  with splendour  endowed
 balīyān vayasānvitaḥ  
 strong  with youth  endowed
 
-(66) “This hero (1) has beautiful limbs, (2) bears all auspicious marks, and is (3) delightful to see, (4) radiant, (5) strong and (6) ever youthful.” (Bhakti-rasāmṛta-sindhu, 2.1.23)
+(66) “This hero (1) has beautiful limbs, (2) bears all auspicious marks, and is (3) delightful to see, (4) radiant, (5) strong and (6) ever youthful.” (Bhakti-rasāmṛta-sindhu, 2.1.23)[^39]
 
 বিবিধাদ্ভুতভাষাবিৎ সত্যবাক্যঃ প্রিয়ংবদঃ ৷  
 বাবদূকঃ সুপাণ্ডিত্যো বুদ্ধিমান্ প্রতিভান্বিতঃ ॥ ৬৭ ॥
@@ -895,7 +895,7 @@ under His control  all  perfections  are
 sarva-siddhi-niṣevitaḥ  
 by all  perfections  served
 
-(75) “(54) His limbs are concentrated being, consciousness and bliss — His form is dense consciousness and bliss; and (55) all perfections are under His control and serve Him.” (Bhakti-rasāmṛta-sindhu, 2.1.38)
+(75) “(54) His limbs are concentrated being, consciousness and bliss — His form is dense consciousness and bliss; and (55) all perfections are under His control and serve Him.” (Bhakti-rasāmṛta-sindhu, 2.1.38)[^40]
 
 অথোচ্যন্তে গুণাঃ পঞ্চ যে লক্ষ্মীশাদিবর্ত্তিনঃ ৷  
 অবিচিন্ত্যমহাশক্তিঃ কোটিব্রহ্মাণ্ডবিগ্রহঃ ॥ ৭৬ ॥
@@ -909,7 +909,7 @@ inconceivable  great  power
 koṭi-brahmāṇḍa-vigrahaḥ  
 millions of  universes  in His body
 
-(76) “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has inconceivable great power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)
+(76) “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has inconceivable great power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)[^41]
 
 অবতারাবলীবীজং হতারিগতিদায়কঃ ৷  
 আত্মারামগণাকর্ষীত্যমী কৃষ্ণে কিলাদ্ভুতাঃ ॥ ৭৭ ॥
@@ -937,10 +937,10 @@ incomparable  sweet  with love
 maṇḍita-priya-maṇḍalaḥ  
 adorned  of His beloved ones  the circle
 
-(78) “(61) He is an ocean whose waves are pastimes that astonish even all wonders; (62) the circle of His beloved ones is adorned with incomparable, sweet love.” (Bhakti-rasāmṛta-sindhu, 2.1.41)
+(78) “(61) He is an ocean whose waves are pastimes more wondrous than all wonders; (62) the circle of His beloved ones is adorned with incomparable, sweet love.” (Bhakti-rasāmṛta-sindhu, 2.1.41)
 
 ত্রিজগন্মানসাকর্ষি মুরলীকলকূজিতঃ ৷  
-অসমানোর্ধ্বরূপশ্রী বিস্মাপিতচরাচরঃ ॥ ৭৯ ॥
+অসমানোর্দ্ধ্বরূপশ্রী বিস্মাপিতচরাচরঃ ॥ ৭৯ ॥
 
 tri-jagan-mānasākarṣi-  
 of the three worlds  the minds  attracting  
@@ -951,7 +951,7 @@ unequalled and unsurpassed  of form  by the beauty
 vismāpita-carācaraḥ  
 astonishing  the moving and the unmoving
 
-(79) “(63) The sweet call of His flute attracts the minds of the three worlds; (64) the beauty of His form, which none can equal or surpass, astonishes all beings, moving and unmoving.” (Bhakti-rasāmṛta-sindhu, 2.1.42)
+(79) “(63) The sweet call of His flute attracts the minds of the three worlds; (64) the beauty of His form, which none can equal or surpass, astonishes all beings, moving and unmoving.” (Bhakti-rasāmṛta-sindhu, 2.1.42)[^42]
 
 লীলা প্রেম্ণা প্রিয়াধিক্যং মাধুর্য্যং বেণুরূপয়োঃ ৷  
 ইত্যসাধারণং প্রোক্তং গোবিন্দস্য চতুষ্টয়ম্ ॥  
@@ -966,7 +966,7 @@ thus  unique  is declared  of Govinda  the set of four
 evaṁ guṇāś catur-bhedāś catuḥ-ṣaṣṭir udāhṛtāḥ  
 thus  qualities  of four  kinds  sixty-four  are described
 
-(80) “His pastimes, the abundance of beloved ones bound to Him by love, and the sweetness of His flute and of His form — these four are declared to be Govinda’s unique qualities. Thus sixty-four qualities of four kinds have been described.” (Bhakti-rasāmṛta-sindhu, 2.1.43–44)
+(80) “His pastimes, the abundance of beloved ones bound to Him by love, and the sweetness of His flute and of His form — these four are declared to be Govinda’s unique qualities. Thus sixty-four qualities of four kinds have been described.” (Bhakti-rasāmṛta-sindhu, 2.1.43–44)[^43]
 
 অনন্ত গুণ শ্রীরাধিকার, পঁচিশ — প্রধান ৷  
 যেই গুণের ‘বশ’ হয় কৃষ্ণ ভগবান্ ॥ ৮১ ॥
@@ -1058,7 +1058,7 @@ in the same way  in servitude  the servants  in friendship  the friends
 yaiche rasa haya, śuna tāhāra lakṣaṇa  
 how  rasa  arises  hear  its  characteristics
 
-(88) In the same way, in servitude the servants and in friendship the friends are its supports. Now hear the characteristics of how *rasa* arises.
+(88) In the same way, in servitude the servants and in friendship the friends are its supports. Now hear how *rasa* arises and what its marks are.[^44]
 
 ভক্তিনির্ধূত-দোষাণাং প্রসন্নোজ্জ্বলচেতসাম্ ৷  
 শ্রীভাগবতরক্তানাং রসিকাসঙ্গরঙ্গিণাম্ ॥ ৮৯ ॥
@@ -1094,7 +1094,7 @@ rati  bliss  in form  indeed
 nīyamānā tu rasyatām  
 being led  indeed  to the state of rasa
 
-(89–91) “Their faults have been washed away by devotion, and their hearts are clear and bright. They are attached to the Śrīmad-Bhāgavatam and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+(89–91) “Their faults have been washed away by devotion, and their hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 কৃষ্ণাদিভির্বিভাবাদ্যৈর্গতৈরনুভবাধ্বনি ৷  
 প্রৌঢ়ানন্দশ্চমৎকারকাষ্ঠামাপদ্যতে পরাম্ ॥ ৯২ ॥
@@ -1504,3 +1504,21 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^34]: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): without separation union does not reach its fullness; separation nourishes union.
 
 [^35]: *Anubhāṣya*: *māna* is a *bhāva* of the hero and heroine who love each other which, even when they are together, prevents the embraces and glances they long for; *prema-vaicittya* is the pain that, from the nature of the highest *prema*, comes even in the beloved’s presence, from fear of separation.
+
+[^36]: *Anubhāṣya*: the queens’ hearts were absorbed in Kṛṣṇa, and though they were right beside Him, the feeling “We are losing Him!” never left them; as if mad, they spoke thus. The edition’s heading: “even near Kṛṣṇa the queens, from *prema-vaicittya*, fear separation from Him”.
+
+[^37]: *Anubhāṣya*: in Kṛṣṇa all great qualities shine eternally.
+
+[^38]: The same verse as Ādi 4.83; translation as there. The edition’s heading: “eight epithets of Śrī Rādhikā — words of the *Bṛhad-gautamīya-tantra*”.
+
+[^39]: *Anubhāṣya*: the auspicious marks are the thirty-two marks described in the *sāmudrika-śāstra* and the sixteen lines on the body; His youth is the eternal age of *kaiśora*.
+
+[^40]: *Anubhāṣya*: in one reading the last two quarters, beginning with *sva-vaśa…*, are absent.
+
+[^41]: *Amṛta-pravāha-bhāṣya*: these five are found neither in Śiva and the other gods nor in the *jīvas*; in Kṛṣṇa they are present in full.
+
+[^42]: *Anubhāṣya*: the three worlds — Goloka, Paravyoma and Devī-dhāma.
+
+[^43]: *Amṛta-pravāha-bhāṣya*: the four kinds correspond to four levels — ordinary *jīvas*, Śiva and the other gods, Nārāyaṇa and the other forms of the Lord, and Govinda Himself.
+
+[^44]: *Anubhāṣya*: the best supports in *dāsya-rasa* are the son of the king of Vraja and Citraka, Raktaka, Patraka and others; in *sakhya-rasa*, Śrīdāmā, Sudāmā, Subala and others; in *vātsalya*, Nanda, Yaśodā and others.

@@ -1006,7 +1006,7 @@ The Daitya king Hiraṇyakaśipu, whose only wealth was knowledge born of the se
 
 > Subheading: Love for Kṛṣṇa is the fruit of pure hearing and chanting alone —
 
-*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa's name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu's intention. It is said (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Eternally perfect love for Kṛṣṇa is never something to be produced (*sādhya*); it rises in a heart made pure by hearing and the other practices.”
+*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa's name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu's intention. It is said (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices awaken it in the purified heart.”
 
 ## 262
 
@@ -1465,7 +1465,7 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 
 [^245-1]: Unclear in the scan: one digit of the year is blotted (“১:৬৩”); probably 1763, the same as for the next *ācārya*.
 
-[^261-1]: The edition reads “মধ্য ২২ পঃ ১০৫”; in Vṛndāvana Candra Dāsa's translation this verse is Madhya 22.104.
+[^261-1]: The edition reads “মধ্য ২২ পঃ ১০৫”; in our numbering this verse is Madhya 22.104.
 
 [^273-1]: The edition's cross-reference reads “২৪৭ সংখ্যার অনুভাষ্য” (the *Anubhāṣya* to number 247). The succession list of the Uttararāḍhī Maṭha is in the *Anubhāṣya* to verse 245 (section 245–247; see above).
 
