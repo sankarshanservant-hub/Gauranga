@@ -25,3 +25,23 @@ This sweetness of Kṛṣṇa is *ananya-siddha*, that is, perfect by itself (*s
 ## 120
 
 The glorious existence (*vaibhava-sattā*) of Nārāyaṇa and the other forms — know it as *bhagavattā* bestowed by Kṛṣṇa.
+
+## 121
+
+The qualities that shine in Nārāyaṇa — beauty (*śrī*), modesty, compassion, fame, steadiness and a skilful intelligence — are all established in Him by Kṛṣṇa. But good character, gentleness and generosity are seen in no other manifestation except Kṛṣṇa.
+
+## 123
+
+The moon of His (Kṛṣṇa's) face, the ears adorned with *makara*-shaped earrings, the shining cheeks, the beauty, the playful smile — all this is a perpetual festival. Men and women drank it with their eyes and were filled with supreme joy, and they grew angry at the blinking of their eyes, which hindered their seeing.
+
+## 125
+
+The Kāma-gāyatrī mantra is Kṛṣṇa's *svarūpa*. Counting the *kāma-bīja* as half a syllable, it has twenty-four and a half syllables.
+
+## 126
+
+*Dvija-rāja-rāja* means the king of the moons. The moon of Kṛṣṇa's face, having become king, sits on the throne of Kṛṣṇa's body and, together with the society of moons (His limbs and their parts), rules the kingdom of sweetness. Which moon is where is told next.
+
+## 127
+
+*Aṣṭamī-indu* means the half-moon.

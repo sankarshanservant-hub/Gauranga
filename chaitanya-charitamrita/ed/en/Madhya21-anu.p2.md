@@ -133,3 +133,51 @@ See Ādi 4.156.
 > Subheading: Without *rāgānugā-bhakti* Kṛṣṇa's sweetness is very hard to attain —
 
 Karma, austerity, yoga, *jñāna*, *vidhi-bhakti*, *japa*, meditation and other practices (*sādhana*) do not bring one to sweetness. Kṛṣṇa's sweetness is easily attained only by one who, on the path of *rāga* (*rāga-mārga*), worships Kṛṣṇa's name with *anurāga*.
+
+## 120
+
+> Subheading: All other *bhagavattā* comes from Bhagavān Himself in Vraja, the son of the king of Vraja —
+
+## 121
+
+> Subheading: Kṛṣṇa is the shelter of all spiritual virtues —
+
+## 122
+
+> Subheading: The eyes that drink the sweetness of Kṛṣṇa's form long never to blink —
+
+“Reproaching the blink”: the covering of the eye, the eyelid, is called *pakṣma*. Because it lies over the eye, it hinders sight; hence the reproach.
+
+## 123
+
+> Subheading: One who drinks the honey of Kṛṣṇa's lotus face never finds the satiety common in the world of matter; the gopīs' ocean of bliss swells at every moment —
+
+Śrīla Śukadeva Mahārāja, describing the Yadu dynasty to Parīkṣit, describes the purpose of Śrī Kṛṣṇa's avatāra and the incomparably beautiful sweetness of His form, which enchants all the worlds:
+
+**yasya** (of Kṛṣṇa) **makara-kuṇḍala-cāru-karṇa-bhrājat-kapola-subhagaṁ** (lovely with cheeks that shine, lit by the ears beautifully adorned with *makara*-shaped earrings), **sa-vilāsa-hāsam** (with a playful smile), **nityotsavam** (in which there is a perpetual festival — bliss) **ānanam** (the lotus face) **nāryaḥ narāḥ ca** (women and men) **dṛśibhiḥ** (with their eyes) **pibantyaḥ** (even while drinking) **na tu tatṛpuḥ** (were not satisfied: unable to bear even the interval in which the eyes close and open, they at its maker) **nimeḥ** (at the Creator) **kupitāḥ** (were angry).
+
+## 124
+
+See Ādi 4.153.
+
+## 125
+
+> Subheading: The Kāma-gāyatrī is Kṛṣṇa's very form; each of its syllables is one of His limbs or features —
+
+For the Kāma-gāyatrī, see Madhya 8.137. The twenty-four and a half syllables of the Kāma-gāyatrī are like twenty-four and a half moons on Kṛṣṇa's body. And it is Kṛṣṇa's *svarūpa*, because it contains the three truths: *sambandha*, *abhidheya* and *prayojana*.
+
+## 126
+
+> Subheading: The moon of Kṛṣṇa's face reigns over the twenty-four and a half moons of His body —
+
+## 128
+
+*Ṭhāṭa* means abiding (*sthiti*); *nāṭa* means dance (*nāṭya*).
+
+## 126–128
+
+The moon of Kṛṣṇa's face is the king of the moons. The moons are these: (1) the moon of the face, (2) the moon of the left cheek, (3) the moon of the right cheek, (4) the moon of the sandal dot, (5–14) the moons of the fingernails, (15–24) the moons of the toenails, (24½) the half-moon on the forehead. With this society of twenty-four and a half moons, the king of the moons — Kṛṣṇa's face — sits on the royal throne of Kṛṣṇa's body and rules.
+
+---
+
+[^123-1]: The edition here reads “তৃতৃপুঃ”; the verse itself has “ততৃপুঃ” (checked against the scan).
