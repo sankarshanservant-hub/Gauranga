@@ -210,6 +210,130 @@ Parīkṣit asked about the opposite destinations of those who worship Rudra and
 
 (**yataḥ** — since) **hi dīpārciḥ** (the flame of a lamp) **eva** **daśāntaram** (another lamp, lit in succession from the great lamp) **abhyupetya** **vivṛta-hetu-samāna-dharmā** (having the same properties as the original lamp that caused its appearance — that is, equal to it in being light) (shines), **dīpāyate** (acts as a lamp), **tādṛk eva yaḥ puruṣaḥ hi viṣṇutayā** (as Kṣīrodaśāyī, the *vilāsa* form of Garbhodaśāyī) **ca** **vibhāti** (shines brightly), **tam ādi-puruṣaṁ govindam ahaṁ bhajāmi**.
 
+## 317
+
+> Subheading: The true nature of Viṣṇu, Brahmā and Śiva: Brahmā and Śiva are subordinate *tattvas*, different in form from Kṛṣṇa; Viṣṇu is the *īśa-tattva*, alike in form to Kṛṣṇa —
+
+Viṣṇu, who holds the power of maintenance, is no one other than Kṛṣṇa: He is Kṛṣṇa's very own form. Brahmā or Śiva, however, are His obedient (carrying out His will, following His command) servants, *bhakta-avatāras*.
+
+## 318
+
+> Subheading: (*Śrīmad-Bhāgavatam* 2.6.32)
+
+Devarṣi Nārada wished to learn from his own guru Brahmā about the Paramātmā Śrī Hari, the highest *tattva*, worshipped even by them. Then Brahmā, after describing to him the universal form of Bhagavān, glorifies the supreme lordship of Viṣṇu, the nondual Knowledge.
+
+**ahaṁ** (Brahmā) **tan-niyuktaḥ** (appointed by Him — by the permission of that Hari, [I create] the universe) **sṛjāmi**; **haraḥ** (Śiva) **tad-vaśaḥ** (appointed by Him — by the permission of that Hari, the universe) **harati** (destroys); **tri-śakti-dhṛk** (the three *śaktis* — the *māyā-śakti* of three *guṇas*, or the internal, external and marginal *śaktis*; He who holds them, that Lord Himself) **puruṣa-rūpeṇa** (in the form of Kṣīrodaśāyī Viṣṇu) **paripāti** (maintains).
+
+## 319
+
+> Subheading: (d) A description of the *manvantara-avatāras* —
+
+On the *manvantara-avatāras*, see the *Amṛta-pravāha-bhāṣya* on Ādi 2.97, the *Anubhāṣya* on Ādi 3.7–9 and the *Anubhāṣya* on Madhya 20.167.
+
+## 320
+
+> Subheading: The time of the *manvantara-avatāras* —
+
+## 321
+
+> Subheading: The reckoning of the periods —
+
+## 323
+
+> Subheading: The lifespan of Brahmā — from Kāraṇābdhiśāyī's exhalation until He breathes in —
+
+## 325
+
+> Subheading: The names of the fourteen *manvantara-avatāras* —
+
+## 325–328
+
+The Manus are: (1) Svāyambhuva, the son of Brahmā Svayambhū; (2) Svārociṣa, the son of Svarocis, or Agni; (3) Uttama, the son of Priyavrata; (4) Tāmasa, the brother of Uttama; (5) Raivata, the uterine brother of Tāmasa; (6) Cākṣuṣa, the son of Cakṣu; (7) Vaivasvata, the son of Vivasvān, the sun; (8) Sāvarṇi, the son born of the Sun in the womb of Chāyā; (9) Dakṣa-sāvarṇi, the son of Varuṇa; (10) Brahma-sāvarṇi, the son of Upaśloka; (11–14) Rudra-sāvarṇi, Dharma-sāvarṇi, Deva-sāvarṇi and Indra-sāvarṇi, otherwise named Rudraputra, Raucya, the son of Satyasahā, and Bhautyaka.
+
+## 329
+
+> Subheading: (e) A description of the *yuga-avatāras* —
+
+## 330
+
+> Subheading: In the four *yugas*, avatāras of four colors —
+
+In Satya-yuga, the white *yuga-avatāra*; in Tretā-yuga, the red *yuga-avatāra*; in Dvāpara-yuga, the black *yuga-avatāra*; and in Kali-yuga, the yellow *yuga-avatāra*. Assuming these four colors, Kṛṣṇa as the *yuga-avatāra* upholds *dharma*.
+
+## 331
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.8.13)
+
+See Ādi 3.36.
+
+## 332
+
+> Subheading: In Satya-yuga Bhagavān is white, four-armed, dressed as a *brahmacārī* —
+
+(*Bhāg.* 11.5.21): “In Kṛta-yuga He is white and four-armed, with matted locks, clothed in bark; He bears a black antelope skin, a sacred thread, prayer beads, a staff and a water pot.” See also *Bhāg.* 3.21.16, 35, 51; 3.22.19; 3.23.23; 5.10.16.
+
+## 333
+
+> Subheading: In Tretā-yuga Bhagavān is red, four-armed —
+
+(*Bhāg.* 11.5.24): “In Tretā-yuga He is red in color and four-armed, girded with a triple belt, golden-haired; His self is the three Vedas, and He is marked by the sacrificial ladle, spoon and so on.” See *Bhāg.* 11.5.26.
+
+## 334
+
+> Subheading: In Dvāpara Bhagavān is dark (*śyāma*) and two-armed —
+
+## 335
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.5.27)
+
+See Ādi 3.39. *Śyāma*: a color like that of the *atasī* flower. Not in every Dvāpara does the Svayaṁ-rūpa descend in the form of Śrī Kṛṣṇa. In the other Dvāpara-yugas before the avatāra of Śrī Kṛṣṇa, Bhagavān descended by His part, assuming the color of a parrot's feathers — that is, green and the like. This is told in the *Śrī Viṣṇu Purāṇa*, the *Śrī Harivaṁśa*, the *Mahābhārata* and other works.
+
+## 336
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.5.29)
+
+Nimi, the king of Videha, asked: “In which *yuga*, assuming which color, and by what method is Bhagavān worshipped?” In reply Karabhājana Ṛṣi, one of the nine Yogendras, speaks the mantra of obeisance to the avatāra of Dvāpara-yuga.
+
+(He names Bhagavān in the form of the four *vyūhas* —) **te** (to You) **bhagavate vāsudevāya namaḥ**; (to You) **saṅkarṣaṇāya namaḥ**; (to You) **pradyumnāya aniruddhāya ca namaḥ**.
+
+## 338
+
+> Subheading: In Kali-yuga Bhagavān is yellow and two-armed, the preacher of the Name and *prema* —
+
+Kṛṣṇa, assuming a yellow color, established the *dharma* of Kali-yuga — the *saṅkīrtana* of Kṛṣṇa's name — and together with the devotees bestowed on the people *prema-bhakti* for Kṛṣṇa.
+
+## 339
+
+> Subheading: In Kali, Kṛṣṇa Himself descends in the form of the source of the avatāras —
+
+## 340
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.5.32)
+
+See Ādi 3.51.
+
+## 341
+
+> Subheading: The *dharma* of Kali-yuga — the glory of *nāma-kīrtana* —
+
+## 342
+
+> Subheading: In praise of Kali-yuga — (*Śrīmad-Bhāgavatam* 12.3.51–52)
+
+Parīkṣit asked about the *dharma* of human beings in the sinful Kali-yuga and the means of destroying *anarthas*. Śrī Śukadeva described the *dharma* of Satya, Tretā and Dvāpara, named the countless faults of Kali-yuga, and at the end of the chapter glorifies its quality.
+
+**he rājan** **doṣa-nidheḥ** (even of the abode of faults) **kaleḥ** (of Kali-yuga) **ekaḥ mahān guṇaḥ** **asti**; **hi** (for) **kṛṣṇasya kīrtanāt** (by chanting the names, form, qualities and pastimes of Śrī Hari and of what is His) **eva** **mukta-saṅgaḥ** (free from other desires and uncovered by *jñāna*, *karma* and the like) **paraṁ** (the fifth goal of life, *kṛṣṇa-prema*) **vrajet** (attains).
+
+## 343
+
+**kṛte** (in Satya-yuga) **viṣṇuṁ dhyāyataḥ** (of a person devoted to meditation on Hari), **tretāyāṁ makhaiḥ** (by sacrifices and the like) **yajataḥ** (of a person performing rites by Vedic injunction), **dvāpare** **paricaryāyāṁ** (in worship by the rules of the *pañcarātra*) **yat** (the fruit obtained), **tat** (all of it) **kalau hari-kīrtanāt eva** (one obtains).
+
+## 344
+
+> Subheading: (*Viṣṇu Purāṇa* 6.2.17)
+
+**kṛte** (in Satya-yuga) **dhyāyan** (by performing meditation), **tretāyāṁ yajñaiḥ yajan** (by satisfying the Lord of sacrifice with sacrifices), **dvāpare arcayan** (by worshipping the Deity and the like) **yat** (the fruit) **āpnoti** (one obtains), **kalau keśavaṁ saṅkīrtya** (by chanting together with many) **tat** (all of it — the fruit that is Bhagavān's satisfaction) **āpnoti**.
+
 ---
 
 [^276-1]: *Sāṅkhya-kārikā* 25.

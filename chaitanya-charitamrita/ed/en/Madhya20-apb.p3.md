@@ -46,6 +46,30 @@ Brahmā is a *śaktyāveśa*, yet he is a *guṇa-avatāra*. Rudra is both diffe
 
 The flame of a lamp, in another vessel, acts as a separate lamp; that is, it has the same properties as the first lamp. So too the original Person Govinda manifests as “Viṣṇu.” Him I worship.
 
+## 318
+
+Brahmā said: “Only by Hari's appointment do I create; by His command Śiva destroys. And this very Hari, the holder of the three *śaktis*, maintains the universe in the form of the Puruṣa.”
+
+## 320
+
+The *manvantara-avatāras*: in one day of Brahmā there are fourteen *manvantaras*, and in them fourteen avatāras. In one month of Brahmā there are 420, and in one year (of 360 days) 5,040 avatāras; in Brahmā's lifetime, 504,000 *manvantara-avatāras*.
+
+## 325
+
+“In Svāyambhuva”: in the *manvantara* of Svāyambhuva, the avatāra Yajña; in the *manvantara* of Svārociṣa, “Vibhu,” and so on — in fourteen *manvantaras*, fourteen avatāras.
+
+## 332
+
+Kardama is the *prajāpati* who married Devahūti, the daughter of Manu, and whose son is Kapiladeva. Pleased with his austerities, Bhagavān gave him *darśana* in a white form.
+
+## 336
+
+Obeisances to Bhagavān Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.
+
+## 342–343
+
+O King, Kali, the treasury of faults, has one great quality: in Kali-yuga, by *kīrtana* of Kṛṣṇa alone, the *jīva* is freed from the tightest bondage. The fruit that was gained by meditating on Viṣṇu in Satya-yuga, by worshipping with sacrifices in Tretā-yuga and by serving the Deity in Dvāpara-yuga — in the age of Kali all those fruits are gained through *hari-kīrtana*.
+
 ---
 
 [^307-308-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
