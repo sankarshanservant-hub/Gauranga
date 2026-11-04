@@ -156,6 +156,42 @@ Someone worships Hari in the form of the *arcā-mūrti* with faith handed down t
 
 The purport is this. When the devotee is able to have “*prema*” for Īśvara, “friendship” for the devotees, “mercy” for the ignorant and “indifference” toward those hostile to Bhagavān and hostile to Bhagavān's devotees,[^69-71-1] he is counted as a pure devotee among the *madhyama-bhaktas*. Then, as he goes on with *bhajana*, he comes to see in all beings Bhagavān related to himself, and in Bhagavān, the true nature of his soul, the presence of all beings. Then he no longer makes distinctions in his attitude toward Īśvara, those dependent on Him, the ignorant and the hostile. In that state he is called a *bhāgavatottama*.
 
+## 75–77
+
+The qualities from “merciful” to “silent” are the special characteristics of a Vaiṣṇava.
+
+## 78
+
+*Sādhus* are tolerant, compassionate, well-wishers of all *jīvas*, without enemies, peaceful, and goodness is their ornament.
+
+## 79
+
+The wise have called service to the great souls (*mahat*) the door to liberation, and the company of those attached to women the door to darkness. *Sādhus* are people of great resolve, equal-minded, deeply peaceful, free from anger and well-wishers of all.
+
+## 80
+
+The company of *sādhus* is the original root from which devotion to Kṛṣṇa is born. Yet even when *prema* for Kṛṣṇa is born, that very company of *sādhus* is counted among the principal limbs of *prema*.
+
+## 82
+
+O sinless ones, I ask you about the *jīva*'s highest good. In this world even half a moment of the company of *sādhus* is a priceless treasure for the *jīvas*.
+
+## 84
+
+The company of *sādhus* is Vaiṣṇava conduct in its “direct” (*anvaya*) form, and giving up bad company is Vaiṣṇava conduct in its “indirect” (*vyatireka*) form. The *asat* are of two kinds. One attached to women, that is, infatuated with them, is the first kind of *asādhu*, and one who is “not a devotee of Kṛṣṇa” is the second kind of *asādhu*. The pure devotee will take special care to avoid these two kinds of bad company.
+
+## 85–87
+
+Truthfulness, cleanliness, compassion, silence, intelligence, modesty, beauty (*śrī*), fame, forgiveness, tranquility, self-control, power — all of these perish through association with an *asādhu*: a pitiable, self-destroying, restless and foolish man, a pet deer of women. Never associate with such a person. By no other connection is the *jīva* so bewildered and bound as by the company of women and of those who keep company with women.
+
+## 88
+
+It is better to suffer the torment of a cage amid flames than to keep the painful company of people turned away from the thought of Kṛṣṇa. The purport is this: if one must burn to death in fire or be imprisoned, one should accept even that, but not associate with people turned away from Kṛṣṇa.
+
+## 89
+
+Never even look at people devoid of devotion to Bhagavān, whose pious merit is exhausted.
+
 ---
 
 [^69-71-1]: The edition reads *bhagavad-avidveṣī* (“not hostile to Bhagavān”); the sense and the verse (*dviṣatsu*, “toward the hostile”) require *bhagavad-vidveṣī*. An evident misprint.

@@ -388,6 +388,98 @@ See Madhya 8.275.[^69-1]
 
 > Subheading: The pure devotee is adorned with all of Kṛṣṇa's qualities —
 
+The devotee's only object of worship is Śrī Bhagavān Viṣṇu, and Bhagavān's qualities are the property of the devotee alone. All of Bhagavān's qualities pass into the pure devotee.
+
+## 73
+
+> Subheading: The pure Vaiṣṇava has all great qualities, and the non-Vaiṣṇava has no qualities at all — (*Śrīmad-Bhāgavatam* 5.18.12) —
+
+Śrī Śuka tells Parīkṣit how the ruler of a *varṣa* named Bhadraśravā and his followers sing the glories of Bhagavān Śrī Nṛsiṁha and His pure devotees.[^73-1] See Ādi 8.58.
+
+## 74
+
+> Subheading: A description of the twenty-six qualities, or characteristics, of a Vaiṣṇava —
+
+## 75
+
+> Subheading: Of these, the *svarūpa* (essential) characteristic is having Kṛṣṇa as one's only refuge; all the rest are *taṭastha* (marginal) characteristics —
+
+## 78
+
+> Subheading: The evidence — (*Śrīmad-Bhāgavatam* 3.25.21) —
+
+When the sages headed by Śaunaka asked about the pastimes of Bhagavān Kapiladeva, the *mahā-bhāgavata* Sūta describes to them the truth of the Self and the dialogue between Bhagavān Kapila and Devahūti, which the venerable Maitreya, Vyāsa's friend, once related to Vidura. Kapiladeva calls attachment to the unreal (*asad-vastu*) the cause of the *jīva*'s bondage and attachment to the real (*sad-vastu*) the door to liberation, and he speaks first of the “marginal” (*taṭastha*) and then of the “essential” (*svarūpa*) characteristics of the *sādhus*, who are the *sad-vastu*:
+
+(He states the characteristics of *sādhus*:) **titikṣavaḥ** (tolerant) **kāruṇikāḥ** (with hearts softened by compassion) **sarva-dehinām** (of all *jīvas*) **suhṛdaḥ** (close friends) **ajāta-śatravaḥ** (without enmity toward anyone) **śāntāḥ** (free from desires) **sādhu-bhūṣaṇāḥ** (those whose ornament is *sādhu*, that is, good character) **sādhavaḥ** (who follow the scriptures).
+
+## 79
+
+> Subheading: Only by serving the *mahat*, or the Vaiṣṇavas, is one freed from *māyā*, while serving those who associate with women leads to the bondage of worldly existence, or to hell — (*Śrīmad-Bhāgavatam* 5.5.2) —
+
+Once Bhagavān Ṛṣabhadeva, the father of the royal sage Bharata, having come to Brahmāvarta, spoke of *mokṣa-dharma* and the *dharma* of the *paramahaṁsas* to his sons, who were listening to instructions in the presence of the sages:
+
+(The knowers of the Truth) **mahat-sevām** (service to the Vaiṣṇavas) **vimukteḥ** (of release from the bonds of worldly existence) **dvāram** (the cause) **āhuḥ** (call); **yoṣitāṁ** **saṅgi-saṅgam** (association with those who associate with women — with enjoyers of worldly objects) **tamo-dvāram** (the door — the cause — of worldly existence or of hell **āhuḥ** they call); (among these) **ye** **sama-cittāḥ** (the wise, who see all equally) **praśāntāḥ** (pure-hearted) **vimanyavaḥ** (free from anger) **suhṛdaḥ** (close friends) **sādhavaḥ** (who do not see faults in others), **te** **mahāntaḥ** (should be known as great).
+
+## 80
+
+> Subheading: A description of the glory of the company of *sādhus*; only as the fruit of the company of *sādhus* is service to Kṛṣṇa attained —
+
+## 81
+
+> Subheading: As the fruit of *sukṛti* comes the company of *sādhus*; as its fruit, devotion to Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
+
+See Madhya 22.46.
+
+## 82
+
+> Subheading: The company of saints is the highest wealth — (*Śrīmad-Bhāgavatam* 11.2.30) —
+
+Śrī Nārada, glorifying *bhāgavata-dharma* before Vasudeva, recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Mahārāja Nimi was performing a sacrifice when the nine Yogendras, *mahā-bhāgavatas*, came there of their own accord. Nimi worshiped them according to the rules and says:
+
+(**he**) **anaghāḥ** (sinless, faultless sages), **ataḥ** (since it is hard to see Bhagavān and the *bhāgavatas*) **bhavataḥ** (you) **ātyantikam** (about the unsurpassed) **kṣemam** (good) **pṛcchāmaḥ** (we ask); (for) **asmin** **saṁsāre** (in this world) **kṣaṇārdhaḥ** (lasting the briefest time) **api** **sat-saṅgaḥ** **nṛṇām** (for people) **sevadhiḥ** (a treasure that grants all fruits; the sense: as one rejoices on finding a treasure, so [here there is] the highest bliss).
+
+## 83
+
+> Subheading: (*Śrīmad-Bhāgavatam* 3.25.25) —
+
+See Ādi 1.60.
+
+## 84
+
+> Subheading: The conduct of a Vaiṣṇava and the identification of the non-Vaiṣṇava —
+
+Giving up the company of non-Vaiṣṇavas is the Vaiṣṇava's only good conduct (*sadācāra*). “Non-Vaiṣṇavas” means two classes of people: “those attached to women” and “non-devotees of Kṛṣṇa.” Association with women is of two kinds. One “follows the prescribed *dharma*”: on it *varṇāśrama-dharma* rests. The other is “unprescribed,” aimed at *adharma*: through it the order of *varṇāśrama-dharma* is thrown into disorder, and as the fruit of *karma* one goes to hell and other places. One devoted to sin in this world is entirely unworthy of the name “Vaiṣṇava.” The three goals of life (*trivarga*) — *dharma*, *artha* and *kāma* — are bound up with the non-Vaiṣṇava conduct of association with women. The fourth goal, *mokṣa*, does not arise from association with women; yet, through aversion to Kṛṣṇa, the seeker of *mokṣa* is even more of a non-Vaiṣṇava and more contemptible than one attached to women. The company both of the *māyāvādī* and of the *māyā-vilāsī* (the enjoyer of *māyā*) destroys Vaiṣṇavism, that is, pure *bhakti*. The *māyāvādī* is a *mumukṣu* (seeker of liberation): wishing to enjoy the fruit of *mokṣa*, he renounces material enjoyment for his own elevation. And one attached to women is a *bubhukṣu*, an enjoyer. Both are bent on gratifying their own material senses, seek fruits other than Kṛṣṇa, are full of duplicity, or deceit (*kaitava*), and therefore neither is a “servant of Kṛṣṇa.”
+
+## 85
+
+> Subheading: The dreadful results of association with women and with those who associate with women — (*Śrīmad-Bhāgavatam* 3.31.33–35) —
+
+## 85–86
+
+Bhagavān Kapiladeva tells Devahūti how the *jīva* who has turned from Kṛṣṇa and forgotten his true nature, under the sway of sin and piety, wanders through species before birth and suffers in the womb. Then in three verses He tells how after birth — in childhood, boyhood (*paugaṇḍa*) and youth — the *jīva* in various ways gratifies the senses, that is, longs for association with women, and of the power and evil results of this:
+
+**yat-saṅgāt** (through association with those *asat* people) **satyaṁ** **śaucaṁ** **dayā** **maunaṁ** **buddhiḥ** (that is, intelligence directed toward the highest goal) **hrīḥ** **śrīḥ** (the wealth of *bhakti*) **yaśaḥ** **kṣamā** **śamaḥ** **damaḥ** **bhagaḥ** (power or opulence) **iti** **saṅkṣayam** (complete destruction) **yāti** (undergoes) — **teṣu** **aśānteṣu** (with those greedy for material enjoyment) **mūḍheṣu** **asādhuṣu** **khaṇḍitātmasu** (with those who take the material body and so on to be the transcendental self) **yoṣit-krīḍā-mṛgeṣu** (with the “pet deer” of women, the henpecked, wholly under their control) **śocyeṣu** (abodes of misery) **asādhuṣu** (with non-Vaiṣṇavas) **saṅgaṁ** **na** **kuryāt**.
+
+## 87
+
+**asya** (for this person) **yathā** **yoṣit-saṅgāt** (from living with the object of enjoyment in the mentality “I am a material enjoyer”) **yathā** (and) **tat-saṅgi-saṅgataḥ** (from living with enjoyers of women, that is, with those who take the body of blood and semen and so on to be the self) **mohaḥ** (loss of intelligence) **bandhaḥ** (the bondage of worldly existence) **ca** **bhavet**, **tathā** **anya-prasaṅgataḥ** **na** **bhavet**.
+
+## 88
+
+> Subheading: The devotee's attitude toward the company of those averse to Hari — (words of the *Kātyāyana-saṁhitā*) —
+
+**hutavaha-jvālā-pañjarāntar-vyavasthitiḥ** (even living in a cage amid the flames of a blazing fire) **varam** (is desirable; and yet) **śauri-cintā-vimukha-jana-saṁvāsa-vaiśasam** (the calamity of living together with people turned away from the thought of Śauri, Kṛṣṇa: that is the very *vaiśasa*, the disaster that befalls) **na**.
+
+## 89
+
+> Subheading: How to behave toward those devoid of devotion to Viṣṇu — (words of the Gosvāmipāda) —
+
+**bhagavad-bhakti-hīnān** (devoid of service to Kṛṣṇa) **kṣīṇa-puṇyān** (unfortunate) **manuṣyān** **kvacit** (even for the sake of worldly decorum and the like) **api** **mā** (not) **adrākṣīḥ** (should one look at).
+
+## 90
+
+> Subheading: The conduct of the *paramahaṁsa*, or the Vaiṣṇava who possesses nothing (*niṣkiñcana*) —
+
 ---
 
 [^19-1]: The edition reads *phalam*; the verse and the gloss (“exceedingly”) require *alam*. An evident misprint.
@@ -401,3 +493,5 @@ See Madhya 8.275.[^69-1]
 [^63-1]: So in the edition. According to the *Śrīmad-Bhāgavatam* (4.30), Prajāpati Dakṣa is the son of the Pracetās.
 
 [^69-1]: So in the edition (“মধ্য ৮ম পঃ ২৭৫”). The verse *sarva-bhūteṣu yaḥ paśyet …* is Madhya 8.274 in our numbering (the *Anubhāṣya* discusses it there). Not corrected.
+
+[^73-1]: According to the *Śrīmad-Bhāgavatam* (5.18), Bhadraśravā and his attendants worship Hayagrīva in Bhadrāśva-varṣa (5.18.1–6), while this verse (5.18.12) belongs to Prahlāda's prayer to Lord Nṛsiṁha in Hari-varṣa.
