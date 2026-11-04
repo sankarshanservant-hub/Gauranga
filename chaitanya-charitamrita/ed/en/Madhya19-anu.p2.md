@@ -122,6 +122,74 @@ The highest devotion is constant worship for Kṛṣṇa's sake — that is, con
 
 > Subheading: The first two quarters give the “marginal” (*taṭastha*) characteristic, the last two the characteristic of the “essence” (*svarūpa*) of pure devotion —
 
+*Anya-vāñchā* (other desires) means desires other than for the service of Kṛṣṇa. *Anya-pūjā* (worship of others) means worship of anyone other than Kṛṣṇa. *Karma* means the pious acts prescribed for those who, having forgotten their true nature, thirst to enjoy the fruits. *Jñāna* means the endeavor of *saṁvit* alone, without its two eternally inseparable potencies, *sandhinī* and *hlādinī*; it is undertaken for self-elevation by those who, having forgotten their true nature, seek freedom from enjoyment (*mukti*). *Ānukūlye kṛṣṇānuśīlana* (cultivating service to Kṛṣṇa favorably) means serving Kṛṣṇa for Kṛṣṇa's pleasure: giving up the cultivation of [service to] *māyā*, which is other than Kṛṣṇa, and serving Kṛṣṇa in a favorable spirit. *Sarvendriye* (with all the senses) means with all the organs of sense. With the material senses one cultivates only [service to] *māyā*. The “material senses” are speech, hands, feet, anus and genitals, and eyes, ears, nose, tongue, skin and the “mind.” If one serves *māyā*, which is other than Kṛṣṇa, with the material senses, it all ends in one's own enjoyment. For this reason, at the stage of *sādhana-bhakti*, sixty-four limbs (*aṅgas*) of devotion are prescribed. By the strength of this *sādhana-bhakti* the conditioned *jīva* escapes the clutches of material enjoyment, becomes free of *anarthas* and becomes qualified for transcendental service.
+
+## 169
+
+> Subheading: The goal (*prayojana*), love for Kṛṣṇa, comes only from the means (*abhidheya*), pure devotion; this is the view of the *Sātvata-pañcarātra* and the *Bhāgavatam* —
+
+The characteristics of pure devotion: the *Pāñcarātrika* and the *Bhāgavata* *sampradāyas* both establish the same meaning.
+
+## 170
+
+> Subheading: The view of the whole *Pañcarātra* — (words of the Śrī *Nārada-pañcarātra* quoted in the *Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, first wave)
+
+**sarvopādhi-vinirmuktam** (free from all coverings of difference, devoid of other desires apart from Kṛṣṇa) **tat-paratvena** (with the sole aim of serving Kṛṣṇa, in a favorable spirit) **nirmalam** (free from the impurity of designations — the covering of *karma*, the bewilderment of *jñāna* and so on) **hṛṣīkeṇa** (with senses turned toward service) **hṛṣīkeśa-sevanam** (cultivation [of service] to Viṣṇu, the master of all the senses — this alone) **bhaktiḥ** **ucyate** (is called).
+
+## 171
+
+> Subheading: Kṛṣṇa is attained only through causeless, or exclusive (*aikāntikī*), pure devotion — (*Śrīmad-Bhāgavatam*, Canto 3, Chapter 29, verses 11–14)
+
+## 171–173
+
+See Ādi 4.205–207.
+
+## 174
+
+The words of Bhagavān Śrī Kapiladeva to his mother Devahūti, who wished to hear about the path of pure *bhakti-yoga*:
+
+**saḥ** (with the characteristics stated) **bhakti-yogākhyaḥ** (called *bhakti-yoga*) **eva** **ātyantikaḥ** (existing at the very end, at the limit of all — having reached the highest point) **udāhṛtaḥ** (is described), **yena** (by which — by absolute *bhakti-yoga* — a person) **tri-guṇam** (the cycle of birth and death, made of *māyā*) **ativrajya** (transcending) **mad-bhāvāya** (for directly seeing Me, for the state of *brahma-bhūta*) **upapadyate** (becomes able).
+
+## 175
+
+> Subheading: If there is cheating (*kaitava*) or offense, practice even for millions of births is all in vain —
+
+If the heart holds the desire to enjoy the fruits of *karma* or the desire for liberation from the bondage of worldly existence, then however much a person who seeks such fruits performs the sixty-four kinds of *sādhana-bhakti*, such so-called mixed (*viddha*) worship will turn into mere *karma* or fruitless endeavors of *jñāna*. Therefore the fruit of *sādhana-bhakti* — attaining love for Kṛṣṇa — will not fall to his lot.
+
+## 176
+
+> Subheading: The witches of the desire for enjoyment and the desire for liberation destroy devotion — (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, second wave)
+
+**yāvat** **hṛdi** (within the mind) **bhukti-mukti-spṛhā** (in the form of the desire for enjoyment and liberation) **piśācī** (a devouring witch) **vartate**, **tāvat** **atra** (in the heart) **bhakti-sukhasya** (of the bliss of service that pleases Kṛṣṇa) **katham** (how) **abhyudayaḥ** (manifestation) **bhavet**?
+
+## 177
+
+> Subheading: From *sādhana-bhakti* comes (2) *bhāva-bhakti*, or *rati*, and from *rati* comes (3) *prema-bhakti* —
+
+*Sādhana-bhakti* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, second wave): “Devotion attained through the activity of the senses, whose goal is *bhāva*, is called *sādhana*. Its goal is to manifest in the heart the eternally perfect *bhāva*.” Devotion performed with the senses that assist hearing, chanting and so on is called “*sādhana-bhakti*.” To manifest the eternally perfect *bhāva* in the heart is “*sādhana*.” It extends through faith (*śraddhā*), the company of sādhus (*sādhu-saṅga*: initiation and hearing), worship (*bhajana*: offenseless service to Viṣṇu and the Vaiṣṇavas), steadiness (*niṣṭhā*), taste (*ruci*) and up to attachment (*āsakti*). See Madhya 23.11–15.
+
+*Rati* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, third wave): “The sign of *rati* is a manifest softness seen within. If such softness appears in those who seek liberation and the like, it is not *rati*.” When the softness that lies within becomes manifest, it is called “the sign of *rati*.” If such softness appears in those who seek liberation or enjoyment, it cannot be called “*rati*.”
+
+*Prema* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, fourth wave, 1): “When *bhāva* has fully softened the heart, is marked by an intense sense of ‘mine,’ and has become dense, the wise call it *prema*.” When the heart has been thoroughly softened and *bhāva* full of the feeling “He is mine” grows dense, the learned call it “*prema*.”
+
+## 178
+
+> Subheading: The varied degrees of the intensity of *prema-bhakti*; the highest is *mahābhāva* —
+
+*Sneha* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, third wave): “*Prema* that grows dense and melts the heart is called *sneha*. It cannot tolerate separation even for a moment.” When the melting of the heart becomes dense, *prema* is called “*sneha*.” Then even a moment's separation is unbearable.
+
+*Māna* — see Madhya 2.66.
+
+*Praṇaya* — see Madhya 2.66.
+
+*Rāga* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, second wave): “*Rāga* is *sneha* in which even suffering clearly becomes happiness; in it, at even the slightest connection [with Him], one loves at the cost of life itself.” *Sneha* in which suffering is clearly felt as “happiness” is “*rāga*.” At the mere connection [with Him] there arises the urge to give pleasure to Śrī Kṛṣṇa even at the cost of one's own life.
+
+*Anurāga*, *bhāva* and *mahābhāva* — see the discussion of *adhirūḍha-mahābhāva* in the *Anubhāṣya* on Madhya 6.13.
+
+## 180
+
+> Subheading: *Rati* runs through all of them —
+
 ---
 
 [^157-1]: *Upadeśāmṛta* 2.

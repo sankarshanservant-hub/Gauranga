@@ -17,3 +17,15 @@ As long as not even a trace of *prema* — of *dāsya* and the other *rasas*, wh
 ## 168
 
 The characteristic of pure devotion is this. In pure devotion there can be no desire other than the desire for one's own advancement (on the path to spiritual perfection) for the sake of serving Kṛṣṇa. There can be no worship of any object of worship other than Kṛṣṇa — of Brahman, the Paramātmā or any other form — nor can *jñāna* and *karma* be present in their own forms. To be free of all this, to accept in life only what is favorable to devotion, and with all the senses to cultivate service to Kṛṣṇa (*kṛṣṇānuśīlana*) — this is called “pure devotion.”
+
+## 170
+
+Serving Hṛṣīkeśa with all the senses is called “devotion.” This service (which constitutes the characteristic of essence, the *svarūpa-lakṣaṇa*) has two “marginal” (*taṭastha*) characteristics: such pure devotion remains free of all designations (*upādhis*), and, being directed to Kṛṣṇa alone, is itself pure.
+
+## 174
+
+Such devotion is called “absolute *bhakti-yoga*” (*ātyantika-bhakti-yoga*). By this *bhakti-yoga* the *jīva* transcends *māyā*, which is made of the *guṇas*, and attains pure love for Me.
+
+## 176
+
+The desire for enjoyment and the desire for liberation are two witches (*piśācīs*). As long as they dwell in someone's heart, the happiness of devotion cannot dawn in that heart.
