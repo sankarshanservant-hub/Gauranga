@@ -586,7 +586,7 @@ The sound of Kṛṣṇa's flute makes its home in the gopīs' ears and, reveali
 
 ---
 
-[^9-1]: The edition apparently reads “10th canto, ch. 14, verse 29” (the scan is unclear); the verse is Śrīmad-Bhāgavatam 10.14.21.
+[^9-1]: The edition reads “10th canto, ch. 14, verse 29” (checked against the scan); the verse is Śrīmad-Bhāgavatam 10.14.21.
 
 [^31-1]: So in the edition (checked against the scan): “Brahmā's”; in verse 31 it is the Lord Himself (Mahāprabhu) who is overwhelmed.
 
