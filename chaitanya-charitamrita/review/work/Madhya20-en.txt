@@ -973,7 +973,7 @@ tr: The *svayaṁ-rūpa* wears a cowherd’s dress and thinks of Himself as a co
 ## 178
 w: beauty  majesty  sweetness  of artfulness  the play
 w: in the son of Vraja’s king  these  greater  delight
-tr: Beauty, majesty, sweetness and the play of His artfulness (*vaidagdhya*) bring greater delight in the son of the king of Vraja.
+tr: In the son of the king of Vraja, beauty, majesty, sweetness and the play of His artfulness (*vaidagdhya*) bring still greater delight.
 
 ## 179
 w: Govinda’s  sweetness  seeing  Vāsudeva’s  agitation
@@ -1014,7 +1014,7 @@ tr: The *tad-ekātma-rūpa* has two divisions, *vilāsa* and *svāṁśa*; and b
 ## 185
 w: of prābhava  of vaibhava  by the difference  vilāsa  of two kinds
 w: of vilāsa  of vilāsa  the divisions  infinite  kinds
-tr: By the difference of *prābhava* and *vaibhava*, *vilāsa* is of two kinds; and the *vilāsas* of *vilāsa* are of infinite kinds.
+tr: *Vilāsa* is of two kinds, *prābhava* and *vaibhava*, and the *vilāsas* of *vilāsa* are of infinite kinds.
 
 ## 186
 w: prābhava-vilāsa  Vāsudeva  Saṅkarṣaṇa
@@ -1023,13 +1023,14 @@ tr: The *prābhava-vilāsas* are Vāsudeva, Saṅkarṣaṇa, Pradyumna and Anir
 
 ## 187
 w: in Vraja  a cowherd’s  mood  Rāma’s  in the city  a kṣatriya’s  self-awareness
-w: of color  of dress  the difference  therefore  vilāsa  His  name
-tr: In Vraja Rāma has the mood of a cowherd; in the city, the self-awareness of a kṣatriya. Because His color and dress differ, He is called *vilāsa*.
+w: of colour  of dress  the difference  therefore  vilāsa  His  name
+tr: In Vraja Rāma has the mood of a cowherd; in the city, the self-awareness of a kṣatriya. Because His colour and dress differ, He is called *vilāsa*.
 
 ## 188
 w: in the vaibhava-prakāśa  and  in the prābhava-vilāsa
 w: in one and the same  form  Baladeva  by difference of mood  appears
 tr: In one and the same form Baladeva appears both as *vaibhava-prakāśa* and as *prābhava-vilāsa*, according to the difference of mood.
+fn: *Anubhāṣya*: Śrī Baladeva is Kṛṣṇa’s *vaibhava-prakāśa*; differing in mood (that of a cowherd and that of a kṣatriya), He also appears in the original *catur-vyūha*, the four *prābhava-vilāsas*.
 
 ## 189
 w: the original  catur-vyūha  anyone  not  to Them  equal
@@ -1055,6 +1056,7 @@ tr: Again Kṛṣṇa, taking the *catur-vyūha* with Him as before, resides in 
 w: from Him  again  of a catur-vyūha  the manifestation
 w: as an enclosure  on the four sides  whose  residence
 tr: From Him a *catur-vyūha* is manifest once more; They reside on the four sides as His enclosure (*āvaraṇa*).
+fn: *Anubhāṣya*: from Nārāyaṇa, the Lord of the spiritual sky, *catur-vyūhas* are manifest again as His enclosure on all sides.
 
 ## 194
 w: of the four  again  separately  three  three  forms
@@ -1114,12 +1116,12 @@ tr: Puruṣottama, Acyuta, Nṛsiṁha, Janārdana, Hari, Kṛṣṇa, Adhokṣa
 ## 205
 w: Vāsudeva’s  vilāsas  two  Adhokṣaja  Puruṣottama
 w: Saṅkarṣaṇa’s  vilāsas  Upendra  Acyuta  the two
-tr: Vāsudeva’s two *vilāsas* are Adhokṣaja and Puruṣottama; Saṅkarṣaṇa’s *vilāsas* are the two, Upendra and Acyuta.
+tr: Vāsudeva’s two *vilāsas* are Adhokṣaja and Puruṣottama, and Saṅkarṣaṇa’s are Upendra and Acyuta.
 
 ## 206
 w: Pradyumna’s  vilāsas  Nṛsiṁha  Janārdana
 w: Aniruddha’s  vilāsas  Hari  Kṛṣṇa  the two
-tr: Pradyumna’s *vilāsas* are Nṛsiṁha and Janārdana; Aniruddha’s *vilāsas* are the two, Hari and Kṛṣṇa.
+tr: Pradyumna’s *vilāsas* are Nṛsiṁha and Janārdana, and Aniruddha’s are Hari and Kṛṣṇa.
 
 ## 207
 w: these  twenty-four  forms  vaibhava-vilāsas  the chief
@@ -1139,12 +1141,12 @@ tr: Padmanābha, Trivikrama, Nṛsiṁha, Vāmana, Hari, Kṛṣṇa and others 
 ## 210
 w: Kṛṣṇa’s  prābhava-vilāsa  Vāsudeva and the others  four  persons
 w: of those  four  the vilāsas  twenty  in number
-tr: Kṛṣṇa’s *prābhava-vilāsas* are the four — Vāsudeva and the others; the *vilāsas* of those four are twenty in number.
+tr: Kṛṣṇa’s *prābhava-vilāsas* are the four, Vāsudeva and the others, and Their *vilāsas* number twenty.
 
 ## 211
 w: of Them all  separate  Vaikuṇṭhas  in the abode of the paravyoma
 w: from the east onward  in the eight directions  three  three  in order
-tr: Each of Them has a separate Vaikuṇṭha in the abode of the spiritual sky — three in each of the eight directions, in order, beginning with the east.
+tr: Each of Them has His own Vaikuṇṭha in the spiritual sky, three in each of the eight directions, in order, beginning with the east.
 
 ## 212
 w: although  the paravyoma  of all  the eternal abode
@@ -1153,8 +1155,8 @@ tr: Although the spiritual sky is the eternal abode of all of Them, some of Them
 
 ## 213
 w: in the paravyoma  Nārāyaṇa’s  eternal residence
-w: above the paravyoma  of Kṛṣṇaloka  the splendor
-tr: Within the spiritual sky Nārāyaṇa eternally resides; above the spiritual sky is the splendor of Kṛṣṇaloka.
+w: above the paravyoma  of Kṛṣṇaloka  the splendour
+tr: Within the spiritual sky Nārāyaṇa eternally resides; above the spiritual sky is the splendour of Kṛṣṇaloka.
 
 ## 214
 w: one  Kṛṣṇaloka  is  of three kinds
@@ -1219,7 +1221,7 @@ tr: Pradyumna holds the disc, conch, mace and lotus; Aniruddha, the disc, mace, 
 ## 226
 w: in the paravyoma  Vāsudeva and the others  own  own  weapons  holding
 w: its  view  I tell  which  weapons  in hand
-tr: In the spiritual sky Vāsudeva and the others each hold Their own weapons. According to it, I shall tell which weapons each holds.
+tr: In the spiritual sky Vāsudeva and the others each hold Their own weapons; following that scripture, I shall tell which weapons each of Them holds.
 
 ## 227
 w: Śrī Keśava  lotus  conch  disc  mace  holding
@@ -1294,7 +1296,8 @@ tr: The son of the king of Vraja bears these two names: ‘Svayaṁ Bhagavān’
 ## 241
 w: of the city  as the enclosure  of the city  in nine places
 w: as the nava-vyūha  nine forms  are manifest
-tr: As the enclosure (*āvaraṇa*) of the city, nine forms are manifest in nine places of the city as the *nava-vyūha*.
+tr: Nine forms, the *nava-vyūha*, are manifest in nine places around the city as its enclosure (*āvaraṇa*).
+fn: The edition’s heading: the *nava-vyūha* is the enclosure of Mathurā and Dvārakā.
 
 ## 242
 w: the four  Vāsudeva and the others
@@ -1316,22 +1319,23 @@ tr: It has two divisions: Saṅkarṣaṇa, and Matsya and the rest. Saṅkarṣ
 ## 245
 w: the avatāras  are  of Kṛṣṇa  of six  kinds
 w: the puruṣa-avatāras  one  the līlā-avatāras  another
-tr: Kṛṣṇa’s avatāras are of six kinds: one is the *puruṣa-avatāras*, another the *līlā-avatāras*,
+tr: Kṛṣṇa’s avatāras are of six kinds: the *puruṣa-avatāras*, the *līlā-avatāras*,
 
 ## 246
 w: the guṇa-avatāras  and  the manvantara-avatāras
 w: the yuga-avatāras  and  the śaktyāveśa-avatāras
-tr: then the *guṇa-avatāras*, the *manvantara-avatāras*, the *yuga-avatāras* and the *śaktyāveśa-avatāras*.
+tr: the *guṇa-avatāras*, the *manvantara-avatāras*, the *yuga-avatāras* and the *śaktyāveśa-avatāras*.
 
 ## 247
 w: childhood  boyhood  are  of the form  the characteristics
-w: in these forms  pastimes  performs  the son of Vraja’s king
-tr: Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; in these forms the son of the king of Vraja performs His pastimes.
+w: in these forms  pastimes  reveals  the son of Vraja’s king
+tr: Childhood (*bālya*) and boyhood (*paugaṇḍa*) are characteristics of His form; in these forms the son of the king of Vraja reveals His pastimes.
 
 ## 248
 w: countless  avatāras  of Kṛṣṇa  there is no  counting
 w: of the branch and the moon  by the logic  I make  an indication
 tr: Kṛṣṇa’s avatāras are countless; there is no counting them. As one shows the moon by pointing to a branch, I shall give only an indication.
+fn: *Anubhāṣya*: by the maxim of “the moon on the branch” one points to a branch of a tree to show where the moon is in the sky — it is only an indication of direction (*dig-darśana*). Though the avatāras can be seen by worldly eyes, they are not worldly: their pastimes are known only to the jīva who humbly follows them, never to worldly senses and logic.
 
 ## 249
 w: the avatāras  indeed  are innumerable
@@ -1339,6 +1343,7 @@ w: of Hari  of the treasure-house of goodness  O brāhmaṇas
 w: as  of an inexhaustible  rivulets
 w: from a lake  there are  by thousands
 tr: “O brāhmaṇas, the avatāras of Hari, the treasure-house of goodness (*sattva*), are innumerable, like the thousands of rivulets that flow from an inexhaustible lake.” (Śrīmad-Bhāgavatam, 1.3.26)
+fn: *Anubhāṣya*: Sūta Gosvāmī speaks to the sages headed by Śaunaka; *sattva-nidhi* is the shelter of all *sattva*, the treasure-house of pure *sattva*.
 
 ## 250
 w: first of all  makes  Kṛṣṇa  the puruṣa-avatāra
@@ -1353,11 +1358,12 @@ w: the second  but  in the universe  abiding
 w: the third  in all  beings  abiding
 w: them  knowing  one is liberated
 tr: “Viṣṇu has three forms called Puruṣas: the first creates the mahat, the second abides within the universe, and the third dwells in all beings. Knowing Them, one is set free.” (Sātvata-tantra; Laghu-bhāgavatāmṛta, Pūrva-khaṇḍa, 2.9)
+fn: The same verse as Ādi 5.77; translation as there.
 
 ## 252
 w: among the infinite potencies  of Kṛṣṇa  three  potencies  chief
-w: icchā-śakti  kriyā-śakti  jñāna-śakti  by name
-tr: Among Kṛṣṇa’s infinite potencies three are chief, named *icchā-śakti*, *kriyā-śakti* and *jñāna-śakti* — the potencies of will, action and knowledge.
+w: icchā-śakti  jñāna-śakti  kriyā-śakti  by name
+tr: Among Kṛṣṇa’s infinite potencies three are chief, named *icchā-śakti*, *jñāna-śakti* and *kriyā-śakti* — the potencies of will, knowledge and action.
 
 ## 253
 w: in whom the potency of will predominates  Kṛṣṇa  by His will  of all  the doer
@@ -1373,11 +1379,12 @@ tr: Without will, knowledge and action there is no creation; the world is made w
 w: in whom the potency of action predominates  Saṅkarṣaṇa  Balarāma
 w: of the material and the spiritual  creation  performs  the making
 tr: Saṅkarṣaṇa Balarāma, in whom the potency of action predominates, brings about both the material and the spiritual creation.
+fn: The edition’s heading: He Himself, as Balarāma or Saṅkarṣaṇa, is the lord of the *sandhinī-śakti*.
 
 ## 256
 w: of ahaṅkāra  the presiding Lord  of Kṛṣṇa  by the will
 w: Goloka  Vaikuṇṭha  creates  through the spiritual potency
-tr: He, the presiding Lord of *ahaṅkāra*, by Kṛṣṇa’s will creates Goloka and Vaikuṇṭha through the spiritual potency (*cit-śakti*).
+tr: As the presiding Lord of *ahaṅkāra*, He creates Goloka and Vaikuṇṭha by Kṛṣṇa’s will, through the spiritual potency (*cit-śakti*).
 
 ## 257
 w: although  uncreatable  eternal  of the spiritual potency  the display
@@ -1412,6 +1419,7 @@ w: Rāma  Mukunda  the Puruṣa  pradhāna
 w: having entered  into beings  of the diverse
 w: of the knower (the jīva)  and  rule  these two  primeval
 tr: “Rāma and Mukunda are the seed and the womb of the universe — the Puruṣa and *pradhāna*. Having entered into all beings, these two primeval Lords rule over the diverse jīvas.” (Śrīmad-Bhāgavatam, 10.46.31)
+fn: *Anubhāṣya*: these are Uddhava’s words to Nanda and Yaśodā; *bīja-yonī* — the efficient and the material cause of the world: both the Puruṣa and *pradhāna* are these two; *jñāna* here means the jīva.
 
 ## 263
 w: for creation  which  form  into the world  descends
@@ -1434,6 +1442,7 @@ w: Bhagavān  with the mahat  and the rest
 w: composed  of sixteen  parts
 w: in the beginning  the worlds  desiring to create
 tr: “In the beginning, desiring to create the worlds, Bhagavān accepted the form of the Puruṣa, joined with the mahat and the other principles and possessed of sixteen potencies (*kalā*).” (Śrīmad-Bhāgavatam, 1.3.1)
+fn: The same verse as Ādi 5.84; translation as there.
 
 ## 267
 w: the first  avatāra  the Puruṣa  of the Supreme
@@ -1441,11 +1450,12 @@ w: time  nature  cause and effect  the mind  and
 w: the elements  false ego  the guṇas  the senses
 w: the universal body  the self-luminous  the unmoving  the moving  of the Great One
 tr: “The Puruṣa is the first avatāra of the Supreme. Time, nature, prakṛti as cause and effect, the mind, the elements, false ego, the guṇas, the senses, the universal body (*virāṭ*) and the Vairāja (*svarāṭ*), and all beings, moving and unmoving — all these are the splendour of the Great One.” (Śrīmad-Bhāgavatam, 2.6.42)
+fn: The same verse as Ādi 5.83; translation as there.
 
 ## 268
 w: that  Puruṣa  in the Virajā  does  lying
 w: Kāraṇābdhiśāyī  by name  of the world  the cause
-tr: That Puruṣa lies in the Virajā. He is named Kāraṇābdhiśāyī, the cause of the world.
+tr: That Puruṣa lies upon the Virajā. He is named Kāraṇābdhiśāyī, the cause of the world.
 
 ## 269
 w: on the shore of the Causal Ocean  māyā’s  eternal  abiding
@@ -1456,5 +1466,6 @@ tr: *Māyā* abides eternally on the shore of the Causal Ocean; she has no acces
 w: operate  where  passion  ignorance  with them
 w: goodness  and  mixed  not  and  of time  the might
 w: not  where  māyā  what to speak  of the others  of Hari
-w: the followers  where  by gods and asuras  worshiped
-tr: “There neither passion nor ignorance operates, nor goodness mixed with them, nor the might of time; there even māyā has no place — what to speak of the rest. There dwell the followers of Hari, worshiped by gods and *asuras* alike.” (Śrīmad-Bhāgavatam, 2.9.10)
+w: the followers  where  by gods and asuras  worshipped
+tr: “There neither passion nor ignorance operates, nor goodness mixed with them, nor the might of time; there even māyā has no place — what to speak of the rest. There dwell the followers of Hari, worshipped by gods and *asuras* alike.” (Śrīmad-Bhāgavatam, 2.9.10)
+fn: *Anubhāṣya*: in Vaikuṇṭha only pure *sattva* (*śuddha-sattva*) operates; *apare*, “the rest”, are passion, greed and all else that belongs to māyā.
