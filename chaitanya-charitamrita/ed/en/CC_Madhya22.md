@@ -82,7 +82,7 @@ the Truth of nondual knowledge  Kṛṣṇa  Himself  Bhagavān
 ’svarūpa-śakti’-rūpe tāṅra haya avasthāna  
 of svarūpa-śakti  in the form  His  is  abiding
 
-(7) Kṛṣṇa, the nondual Truth (*advaya-jñāna-tattva*), is Bhagavān Himself. He abides in the form of His own internal energy (*svarūpa-śakti*).
+(7) Kṛṣṇa, the nondual Truth (*advaya-jñāna-tattva*), is Bhagavān Himself. He abides in the form of His own potency (*svarūpa-śakti*).
 
 স্বাংশ-বিভিন্নাংশ-রূপে হঞা বিস্তার ৷  
 অনন্ত বৈকুণ্ঠ-ব্রহ্মাণ্ডে করেন বিহার ॥ ৮ ॥
@@ -728,19 +728,25 @@ all activities  giving up  having made  he  Kṛṣṇa  worships
 মৎকথাশ্রবণাদৌ বা শ্রদ্ধা যাবন্ন জায়তে ॥ ৬১ ॥
 
 tāvat karmāṇi kurvīta  
+so long  duties  one should perform  
 na nirvidyeta yāvatā  
+not  one becomes weary  as long as  
 mat-kathā-śravaṇādau vā  
-śraddhā yāvan na jāyate
+in hearing My narrations and the rest  or  
+śraddhā yāvan na jāyate  
+faith  as long as  not  is born
 
-(61) [not yet translated]
+(61) “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam, 11.20.9)
 
 ‘শ্রদ্ধা’-শব্দে — বিশ্বাস কহে সুদৃঢ় নিশ্চয় ৷  
 কৃষ্ণে ভক্তি কৈলে সর্ব্বকর্ম্ম কৃত হয় ॥ ৬২ ॥
 
 ‘śraddhā’-śabde — viśvāsa kahe sudṛḍha niścaya  
-kṛṣṇe bhakti kaile sarva-karma kṛta haya
+by the word “śraddhā”  trust  is meant  very firm  conviction  
+kṛṣṇe bhakti kaile sarva-karma kṛta haya  
+to Kṛṣṇa  devotion  when one renders  all duties  done  become
 
-(62) [not yet translated]
+(62) The word *śraddhā* means trust: a very firm conviction that by rendering devotion to Kṛṣṇa one has fulfilled all one’s duties.
 
 যথা তরোর্মূলনিষেচনেন  
 তৃপ্যন্তি তৎস্কন্ধভুজোপশাখাঃ ৷  
@@ -748,89 +754,117 @@ kṛṣṇe bhakti kaile sarva-karma kṛta haya
 তথৈব সর্ব্বার্হণমচ্যুতেজ্যা ॥ ৬৩ ॥
 
 yathā taror mūla-niṣecanena  
+as  of a tree  by watering the root  
 tṛpyanti tat-skandha-bhujopaśākhāḥ  
+are satisfied  its trunk, branches and twigs  
 prāṇopahārāc ca yathendriyāṇāṁ  
-tathaiva sarvārhaṇam acyutejyā
+by feeding the life-breath  and  as  of the senses  
+tathaiva sarvārhaṇam acyutejyā  
+just so  the worship of all  is the worship of Acyuta
 
-(63) [not yet translated]
+(63) “As by watering the root of a tree its trunk, branches and twigs are all nourished, and as by feeding the life-breath (*prāṇa*) all the senses are satisfied, so the worship of Acyuta is the worship of all.” (Śrīmad-Bhāgavatam, 4.31.14)
 
 শ্রদ্ধাবান্ জন হয় ভক্তি-অধিকারী ৷  
 ‘উত্তম’, ‘মধ্যম’, ‘কনিষ্ঠ’ — শ্রদ্ধা-অনুসারী ॥ ৬৪ ॥
 
 śraddhāvān jana haya bhakti-adhikārī  
-‘uttama’, ‘madhyama’, ‘kaniṣṭha’ — śraddhā-anusārī
+having faith  a person  is  qualified for bhakti  
+‘uttama’, ‘madhyama’, ‘kaniṣṭha’ — śraddhā-anusārī  
+highest  middle  lowest  according to faith
 
-(64) [not yet translated]
+(64) A person who has faith is qualified for *bhakti*. According to his faith he is of the highest, the middle or the lowest level (*uttama*, *madhyama*, *kaniṣṭha*).
 
 শাস্ত্রযুক্ত্যে সুনিপুণ, দৃঢ়শ্রদ্ধা যাঁর ৷  
 ‘উত্তম অধিকারী’ সেই তারয় সংসার ॥ ৬৫ ॥
 
 śāstra-yuktye sunipuṇa, dṛḍha-śraddhā yāṅra  
-‘uttama adhikārī’ sei tāraya saṁsāra
+in scripture and reasoning  very expert  firm faith  whose  
+‘uttama adhikārī’ sei tāraya saṁsāra  
+of the highest  qualification  he  delivers  the world
 
-(65) [not yet translated]
+(65) One who is expert in scripture and reasoning and whose faith is firm is an *uttama adhikārī*, of the highest qualification; he delivers the world.
 
 শাস্ত্র-যুক্তি নাহি জানে দৃঢ়, শ্রদ্ধাবান্ ৷  
 ‘মধ্যম-অধিকারী’ সেই মহা-ভাগ্যবান্ ॥ ৬৬ ॥
 
 śāstra-yukti nāhi jāne dṛḍha, śraddhāvān  
-‘madhyama-adhikārī’ sei mahā-bhāgyavān
+the reasoning of scripture  not  knows  firmly  having faith  
+‘madhyama-adhikārī’ sei mahā-bhāgyavān  
+of middle qualification  he  greatly fortunate
 
-(66) [not yet translated]
+(66) One who does not firmly know the reasoning of scripture but has faith is a *madhyama adhikārī*, of the middle qualification; he is most fortunate.
 
 যাহার কোমল শ্রদ্ধা, সে — ‘কনিষ্ঠ’ জন ৷  
 ক্রমে ক্রমে তেঁহো ভক্ত হইবে ‘উত্তম’ ॥ ৬৭ ॥
 
 yāhāra komala śraddhā, se — ‘kaniṣṭha’ jana  
-krame krame teṅho bhakta haibe ‘uttama’
+whose  tender  faith  he  a kaniṣṭha  person  
+krame krame teṅho bhakta haibe ‘uttama’  
+step by step  step by step  he  a devotee  will become  of the highest
 
-(67) [not yet translated]
+(67) One whose faith is still tender is a *kaniṣṭha*, a beginner. Step by step he too will become a devotee of the highest level.
 
 রতি-প্রেম-তারতম্যে ভক্ত — তর-তম ৷  
 একাদশ স্কন্ধে তার করিয়াছে লক্ষণ ॥ ৬৮ ॥
 
 rati-prema-tāratamye bhakta — tara-tama  
-ekādaśa skandhe tāra kariyāche lakṣaṇa
+by the degree of rati and prema  devotees  higher and highest  
+ekādaśa skandhe tāra kariyāche lakṣaṇa  
+in the eleventh  canto  their  has been given  description
 
-(68) [not yet translated]
+(68) According to the degree of their *rati* and *prema*, devotees are higher and highest. The Eleventh Canto has described their characteristics.
 
 সর্ব্বভূতেষু যঃ পশ্যেদ্ভগবদ্ভাবমাত্মনঃ ৷  
 ভূতানি ভগবত্যাত্মন্যেষ ভাগবতোত্তমঃ ॥ ৬৯ ॥
 
 sarva-bhūteṣu yaḥ paśyed  
+in all beings  who  sees  
 bhagavad-bhāvam ātmanaḥ  
+of the Lord  the presence  of the Self  
 bhūtāni bhagavaty ātmany  
-eṣa bhāgavatottamaḥ
+the beings  in the Lord  in the Self  
+eṣa bhāgavatottamaḥ  
+he  the best of devotees
 
-(69) [not yet translated]
+(69) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
 
 ঈশ্বরে তদধীনেষু বালিশেষু দ্বিষৎসু চ ৷  
 প্রেম-মৈত্রী-কৃপোপেক্ষা যঃ করোতি স মধ্যমঃ ॥ ৭০ ॥
 
 īśvare tad-adhīneṣu  
+to the Lord  to those dependent on Him  
 bāliśeṣu dviṣatsu ca  
+to the ignorant  to the hostile  and  
 prema-maitrī-kṛpopekṣā  
-yaḥ karoti sa madhyamaḥ
+love, friendship, mercy and indifference  
+yaḥ karoti sa madhyamaḥ  
+who  shows  he  is of the middle level
 
-(70) [not yet translated]
+(70) “One who shows love for the Lord, friendship for those who depend on Him, mercy to the ignorant and indifference to the hostile is a devotee of the middle level (*madhyama*).” (Śrīmad-Bhāgavatam, 11.2.46)
 
 অর্চ্চায়ামেব হরয়ে পূজাং যঃ শ্রদ্ধয়েহতে ৷  
 ন তদ্ভক্তেষু চান্যেষু স ভক্তঃ প্রাকৃতঃ স্মৃতঃ ॥ ৭১ ॥
 
 arcāyām eva haraye  
+in the Deity  only  to Hari  
 pūjāṁ yaḥ śraddhayehate  
+worship  who  with faith performs  
 na tad-bhakteṣu cānyeṣu  
-sa bhaktaḥ prākṛtaḥ smṛtaḥ
+not  to His devotees  and to others  
+sa bhaktaḥ prākṛtaḥ smṛtaḥ  
+he  a devotee  on the worldly level  is considered
 
-(71) [not yet translated]
+(71) “One who with faith worships Hari only in the Deity, but does not honor His devotees or others, is known as a *prākṛta* devotee, one still on the worldly level.” (Śrīmad-Bhāgavatam, 11.2.47)
 
 সর্ব্ব মহা-গুণগণ বৈষ্ণব-শরীরে ৷  
 কৃষ্ণভক্তে কৃষ্ণের গুণ, সকলি সঞ্চারে ॥ ৭২ ॥
 
 sarva mahā-guṇa-gaṇa vaiṣṇava-śarīre  
-kṛṣṇa-bhakte kṛṣṇera guṇa, sakali sañcāre
+all  the great qualities  in the person of a Vaiṣṇava  
+kṛṣṇa-bhakte kṛṣṇera guṇa, sakali sañcāre  
+into Kṛṣṇa’s devotee  Kṛṣṇa’s  qualities  all  pass
 
-(72) [not yet translated]
+(72) All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualities pass into Kṛṣṇa’s devotee.
 
 যস্যাস্তি ভক্তির্ভগবত্যকিঞ্চনা  
 সর্ব্বৈর্গুণৈস্তত্র সমাসতে সুরাঃ ৷  
@@ -838,53 +872,69 @@ kṛṣṇa-bhakte kṛṣṇera guṇa, sakali sañcāre
 মনোরথেনাসতি ধাবতো বহিঃ ॥ ৭৩ ॥
 
 yasyāsti bhaktir bhagavaty akiñcanā  
+in whom  there is  devotion  to the Lord  free of desire  
 sarvair guṇais tatra samāsate surāḥ  
+with all  qualities  there  dwell  the gods  
 harāv abhaktasya kuto mahad-guṇā  
-mano-rathenāsati dhāvato bahiḥ
+to Hari  of one not devoted  whence  great qualities  
+mano-rathenāsati dhāvato bahiḥ  
+by the chariot of the mind  toward the unreal  running  outward
 
-(73) [not yet translated]
+(73) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)
 
 সেই সব গুণ হয় বৈষ্ণব-লক্ষণ ৷  
 সব কহা না যায়, করি দিগ্দরশন ॥ ৭৪ ॥
 
 sei saba guṇa haya vaiṣṇava-lakṣaṇa  
-saba kahā nā yāya, kari dig-daraśana
+those  all  qualities  are  the marks of a Vaiṣṇava  
+saba kahā nā yāya, kari dig-daraśana  
+all  to tell  not  possible  I give  an indication
 
-(74) [not yet translated]
+(74) All these qualities are the marks of a Vaiṣṇava. They cannot all be told, so I shall only point to some of them.
 
 কৃপালু, অকৃতদ্রোহ, সত্যসার, সম ৷  
 নির্দ্দোষ, বদান্য, মৃদু, শুচি, অকিঞ্চন ॥ ৭৫ ॥
 
 kṛpālu, akṛta-droha, satya-sāra, sama  
-nirdoṣa, vadānya, mṛdu, śuci, akiñcana
+merciful  harming no one  devoted to truth  equal to all  
+nirdoṣa, vadānya, mṛdu, śuci, akiñcana  
+faultless  magnanimous  gentle  pure  owning nothing
 
-(75) [not yet translated]
+(75) A Vaiṣṇava is merciful, harms no one, is devoted to truth, equal to all, faultless, magnanimous, gentle, pure and without possessions (*akiñcana*);
 
 সর্ব্বোপকারক, শান্ত, কৃষ্ণৈকশরণ ৷  
 অকাম, নিরীহ, স্থির, বিজিত-ষড়্গুণ ॥ ৭৬ ॥
 
 sarvopakāraka, śānta, kṛṣṇaika-śaraṇa  
-akāma, nirīha, sthira, vijita-ṣaḍ-guṇa
+benefactor of all  peaceful  having Kṛṣṇa as the only shelter  
+akāma, nirīha, sthira, vijita-ṣaḍ-guṇa  
+without desire  free from worldly striving  steady  having conquered the six
 
-(76) [not yet translated]
+(76) he is a benefactor of all, peaceful, with Kṛṣṇa as his only shelter, free from desire, free from worldly striving, steady, the conqueror of the six (*ṣaḍ-guṇa*);
 
 মিতভুক্ অপ্রমত্ত, মানদ, অমানী ৷  
 গম্ভীর, করুণ, মৈত্র, কবি, দক্ষ, মৌনী ॥ ৭৭ ॥
 
 mita-bhuk apramatta, mānada, amānī  
-gambhīra, karuṇa, maitra, kavi, dakṣa, maunī
+moderate in eating  sober  giving honor to others  seeking no honor  
+gambhīra, karuṇa, maitra, kavi, dakṣa, maunī  
+grave  compassionate  friendly  a poet  expert  silent
 
-(77) [not yet translated]
+(77) he is moderate in eating, sober, giving honor to others while seeking none for himself, grave, compassionate, friendly, a poet, expert and sparing in speech.
 
 তিতিক্ষবঃ কারুণিকাঃ সুহৃদঃ সর্ব্বদেহিনাম্ ৷  
 অজাতশত্রবঃ শান্তাঃ সাধবঃ সাধুভূষণাঃ ॥ ৭৮ ॥
 
 titikṣavaḥ kāruṇikāḥ  
+tolerant  compassionate  
 suhṛdaḥ sarva-dehinām  
+well-wishers  of all embodied beings  
 ajāta-śatravaḥ śāntāḥ  
-sādhavaḥ sādhu-bhūṣaṇāḥ
+with no enemies  peaceful  
+sādhavaḥ sādhu-bhūṣaṇāḥ  
+following the scriptures  adorned with saintliness
 
-(78) [not yet translated]
+(78) “The *sādhus* are tolerant and compassionate, well-wishers of all embodied beings. They have no enemies and are peaceful; they follow the scriptures, and saintly conduct is their ornament.” (Śrīmad-Bhāgavatam, 3.25.21)
 
 মহৎসেবাং দ্বারমাহুর্বিমুক্তে-  
 স্তমোদ্বারং যোষিতাং সঙ্গিসঙ্গম্ ৷  
@@ -892,19 +942,25 @@ sādhavaḥ sādhu-bhūṣaṇāḥ
 বিমন্যবঃ সুহৃদঃ সাধবো যে ॥ ৭৯ ॥
 
 mahat-sevāṁ dvāram āhur vimuktes  
+service to the great  the door  they call  of liberation  
 tamo-dvāraṁ yoṣitāṁ saṅgi-saṅgam  
+the door to darkness  of those attached to women  the company  
 mahāntas te sama-cittāḥ praśāntā  
-vimanyavaḥ suhṛdaḥ sādhavo ye
+the great  they  equal-minded  peaceful  
+vimanyavaḥ suhṛdaḥ sādhavo ye  
+free from anger  well-wishers  saintly  who
 
-(79) [not yet translated]
+(79) “Service to the great is called the door to liberation, and the company of those attached to women the door to darkness. The great are those who are equal-minded, peaceful, free from anger, well-wishers of all and saintly.” (Śrīmad-Bhāgavatam, 5.5.2)
 
 কৃষ্ণভক্তি-জন্মমূল হয় ‘সাধুসঙ্গ’ ৷  
 কৃষ্ণপ্রেম জন্মে, তিঁহো পুনঃ মুখ্য অঙ্গ ॥ ৮০ ॥
 
 kṛṣṇa-bhakti-janma-mūla haya ‘sādhu-saṅga’  
-kṛṣṇa-prema janme, tiṅho punaḥ mukhya aṅga
+of the birth of devotion to Kṛṣṇa  the root  is  sādhu-saṅga  
+kṛṣṇa-prema janme, tiṅho punaḥ mukhya aṅga  
+love for Kṛṣṇa  is born  it  again  the principal  limb
 
-(80) [not yet translated]
+(80) The root from which devotion to Kṛṣṇa is born is *sādhu-saṅga*. And even when love for Kṛṣṇa is born, *sādhu-saṅga* remains its principal limb.
 
 ভবাপবর্গো ভ্রমতো যদা ভবে-  
 জ্জনস্য তর্হ্যচ্যুত সৎসমাগমঃ ৷  
@@ -912,21 +968,29 @@ kṛṣṇa-prema janme, tiṅho punaḥ mukhya aṅga
 পরাবরেশে ত্বয়ি জায়তে রতিঃ ॥ ৮১ ॥
 
 bhavāpavargo bhramato yadā bhavej  
+the end of worldly existence  of one wandering  when  comes  
 janasya tarhy acyuta sat-samāgamaḥ  
+of a person  then  O Acyuta  meeting with the saints  
 sat-saṅgamo yarhi tadaiva sad-gatau  
-parāvareśe tvayi jāyate ratiḥ
+association with the saints  when  at that very time  for the goal of the saints  
+parāvareśe tvayi jāyate ratiḥ  
+for the Lord of the high and the low  for You  is born  attraction
 
-(81) [not yet translated]
+(81) “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)
 
 অত আত্যন্তিকং ক্ষেমং পৃচ্ছামো ভবতোঽনঘাঃ ৷  
 সংসারেঽস্মিন্ ক্ষণার্ধোঽপি সৎসঙ্গঃ সেবধির্নৃণাম্ ॥ ৮২ ॥
 
 ata ātyantikaṁ kṣemaṁ  
+therefore  the ultimate  good  
 pṛcchāmo bhavato ‘naghāḥ  
+we ask  you  O sinless ones  
 saṁsāre ‘smin kṣaṇārdho ‘pi  
-sat-saṅgaḥ sevadhir nṛṇām
+in worldly existence  this  half a moment  even  
+sat-saṅgaḥ sevadhir nṛṇām  
+association with saints  a treasure  for men
 
-(82) [not yet translated]
+(82) “Therefore, O sinless ones, we ask you about the ultimate good. In this world even half a moment of association with saints is a treasure for humankind.” (Śrīmad-Bhāgavatam, 11.2.30)
 
 সতাং প্রসঙ্গান্মম বীর্য্যসংবিদো  
 ভবন্তি হৃৎকর্ণরসায়নাঃ কথাঃ ৷  
@@ -1694,7 +1758,7 @@ iṣṭe ‘āviṣṭatā’ — taṭastha-lakṣaṇa kathana
 রাগময়ী-ভক্তির হয় ‘রাগাত্মিকা’-নাম ৷  
 তাহা শুনি’ লুব্ধ হয় কোন ভাগ্যবান্ ॥ ১৪৭ ॥
 
-rāgamayī-bhaktira haya ‘rāgātmikā’ nāma  
+rāgamayī-bhaktira haya ‘rāgātmikā’-nāma  
 tāhā śuni’ lubdha haya kona bhāgyavān
 
 (147) [not yet translated]
@@ -1738,7 +1802,7 @@ bāhya, abhyantara, — ihāra dui ta’ sādhana
 ‘মনে’ নিজ-সিদ্ধদেহ করিয়া ভাবন ৷  
 রাত্রি-দিনে করে ব্রজে কৃষ্ণের সেবন ॥ ১৫২ ॥
 
-’mane’ nija-siddha-deha kariyā bhāvana  
+‘mane’ nija-siddha-deha kariyā bhāvana  
 rātri-dine kare vraje kṛṣṇera sevana
 
 (152) [not yet translated]
@@ -1821,7 +1885,7 @@ yāhā haite vaśa hana śrī-bhagavān
 এত ত’ কহিলুঁ ‘অভিধেয়’-বিবরণ ॥ ১৬১ ॥
 
 yāhā haite pāi kṛṣṇera prema-sevana  
-ei ta’ kahiluṅ ‘abhidheya’-vivaraṇa
+eta ta’ kahiluṅ ‘abhidheya’-vivaraṇa
 
 (161) [not yet translated]
 
