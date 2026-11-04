@@ -3299,7 +3299,7 @@ of association with māyā  through the transformation  Rudra  different and non
 jīva-tattva haya, nahe kṛṣṇera ‘svarūpa’  
 jīva-tattva  is  not  Kṛṣṇa’s  svarūpa
 
-(308) Through the transformation caused by association with māyā, Rudra is a form both different and non-different. He is counted as *jīva-tattva*; he is not Kṛṣṇa’s own form (*svarūpa*).
+(308) Through the transformation caused by association with māyā, Rudra is a form both different and non-different; he is counted as *jīva-tattva* and is not Kṛṣṇa’s own form (*svarūpa*).
 
 দুগ্ধ যেন অম্লযোগে দধিরূপ ধরে ৷  
 দুগ্ধান্তর বস্তু নহে, দুগ্ধ হৈতে নারে ॥ ৩০৯ ॥
