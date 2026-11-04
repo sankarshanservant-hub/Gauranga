@@ -992,12 +992,12 @@ association with saints  a treasure  for men
 
 (82) “Therefore, O sinless ones, we ask you about the ultimate good. In this world even half a moment of association with saints is a treasure for humankind.” (Śrīmad-Bhāgavatam, 11.2.30)
 
-সতাং প্রসঙ্গান্মম বীর্য্যসংবিদো  
+সতাং প্রসঙ্গান্মম বীর্য্যসম্বিদো  
 ভবন্তি হৃৎকর্ণরসায়নাঃ কথাঃ ৷  
 তজ্জোষণাদাশ্বপবর্গবর্ত্মনি  
 শ্রদ্ধা রতির্ভক্তিরনুক্রমিষ্যতি ॥ ৮৩ ॥
 
-satāṁ prasaṅgān mama vīrya-saṁvido  
+satāṁ prasaṅgān mama vīrya-samvido  
 of the saints  in the company  My  prowess  revealing  
 bhavanti hṛt-karṇa-rasāyanāḥ kathāḥ  
 become  to heart and ear  delightful  talks  
@@ -1006,7 +1006,7 @@ by relishing them  quickly  on the path of liberation
 śraddhā ratir bhaktir anukramiṣyati  
 faith,  attraction,  love  will follow in turn
 
-(83) (Lord Kapila to His mother Devahūti:) “In the company of the saints there are talks revealing My power, delightful to the heart and to the ear. By relishing them one quickly comes to faith in Me, the path of liberation, and after it to attraction (*rati*) and love (*prema-bhakti*).” (Śrīmad-Bhāgavatam, 3.25.25)
+(83) (Lord Kapila to His mother Devahūti:) “In the company of the saints there are talks revealing My power, delightful to the heart and to the ear. By relishing them one quickly comes to faith in Me, the path of liberation, and after it to attraction (*rati*) and love (*prema-bhakti*).” (Śrīmad-Bhāgavatam, 3.25.25)[^32]
 
 অসৎসঙ্গত্যাগ, — এই বৈষ্ণব-আচার ৷  
 ‘স্ত্রীসঙ্গী’ — এক অসাধু, ‘কৃষ্ণাভক্ত’ আর ॥ ৮৪ ॥
@@ -1082,7 +1082,7 @@ do not  look at  whose piety is spent  ever  even
 bhagavad-bhakti-hīnān manuṣyān  
 for the Lord  devotion  devoid of  people
 
-(89) “Never even look upon people who are devoid of devotion to the Lord, whose piety is spent.”
+(89) “Never even look upon people who are devoid of devotion to the Lord, whose piety is spent.” (Words of the Gosvāmipāda)[^33]
 
 এত সব ছাড়ি’ আর বর্ণাশ্রম-ধর্ম্ম ৷  
 অকিঞ্চন হঞা লয় কৃষ্ণৈক-শরণ ॥ ৯০ ॥
@@ -1092,7 +1092,7 @@ these  all  giving up  and  of varṇa and āśrama  the dharma
 akiñcana hañā laya kṛṣṇaika-śaraṇa  
 owning nothing  becoming  he takes  of Kṛṣṇa alone  shelter
 
-(90) Giving up all this, and the *dharma* of *varṇa* and *āśrama* as well, he becomes *akiñcana*, one who owns nothing, and takes shelter of Kṛṣṇa alone.
+(90) Giving up all this, and the *dharma* of *varṇa* and *āśrama* as well, he becomes *akiñcana*, one who owns nothing, and takes shelter of Kṛṣṇa alone.[^34]
 
 সর্ব্বধর্ম্মান্ পরিত্যজ্য মামেকং শরণং ব্রজ ৷  
 অহং ত্বাং সর্ব্বপাপেভ্যো মোক্ষয়িষ্যামি মা শুচঃ ॥ ৯১ ॥
@@ -1106,7 +1106,7 @@ I  you  from all  sins
 mokṣayiṣyāmi mā śucaḥ  
 shall free  do not  grieve
 
-(91) “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+(91) “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)[^35]
 
 ভক্তবৎসল, কৃতজ্ঞ, সমর্থ, বদান্য ৷  
 হেন কৃষ্ণ ছাড়ি’ পণ্ডিত নাহি ভজে অন্য ॥ ৯২ ॥
@@ -1183,7 +1183,7 @@ He will protect  thus  faith  as protector  acceptance  likewise
 ātma-nikṣepa-kārpaṇye ṣaḍ-vidhā śaraṇāgatiḥ  
 offering of the self  humility  six kinds of  surrender
 
-(97) “Surrender (*śaraṇāgati*) is of six kinds: the resolve to accept what is favourable to devotion; the rejection of what is unfavourable; faith that He will protect; acceptance of Him as one’s guardian; the offering of oneself; and humility.” (Hari-bhakti-vilāsa, 11.417)
+(97) “Surrender (*śaraṇāgati*) is of six kinds: the resolve to accept what is favourable to devotion; the rejection of what is unfavourable; faith that He will protect; acceptance of Him as one’s guardian; the offering of oneself; and humility.” (Hari-bhakti-vilāsa, 11.417)[^36]
 
 তবাস্মীতি বদন্ বাচা তথৈব মনসা বিদন্ ৷  
 তৎস্থানমাশ্রিতস্তন্বা মোদতে শরণাগতঃ ॥ ৯৮ ॥
@@ -1197,7 +1197,7 @@ of Him  the abode  taking shelter of  with the body
 modate śaraṇāgataḥ  
 rejoices  the surrendered soul
 
-(98) “Saying with his words, ‘I am Yours,’ knowing it so in his mind, and with his body taking shelter of the Lord’s abode, the surrendered soul rejoices.” (Hari-bhakti-vilāsa, 11.418)
+(98) “Saying with his words, ‘I am Yours’, knowing it so in his mind, and with his body taking shelter of the Lord’s abode, the surrendered soul rejoices.” (Hari-bhakti-vilāsa, 11.418)[^37]
 
 শরণ লঞা করে কৃষ্ণে আত্মসমর্পণ ৷  
 কৃষ্ণ তাঁরে করে তৎকালে আত্মসম ॥ ৯৯ ॥
@@ -1207,7 +1207,7 @@ shelter  taking  he makes  to Kṛṣṇa  the offering of himself
 kṛṣṇa tām̐re kare tat-kāle ātma-sama  
 Kṛṣṇa  him  makes  at that moment  like Himself
 
-(99) Taking shelter, he offers himself to Kṛṣṇa, and at that very moment Kṛṣṇa makes him like Himself.
+(99) Taking shelter, he offers himself to Kṛṣṇa, and at that very moment Kṛṣṇa makes him like Himself.[^38]
 
 মর্ত্ত্যো যদা ত্যক্তসমস্তকর্ম্মা  
 নিবেদিতাত্মা বিচিকীর্ষিতো মে ৷  
@@ -1775,7 +1775,7 @@ out of longing  of the people of Vraja  the mood  he makes  following
 śāstra-yukti nāhi māne rāgānugāra prakṛti  
 of scripture  the arguments  does not  heed  of the rāgānugā  the nature
 
-(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^32]
+(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^39]
 
 বিরাজন্তীমভিব্যক্তাং ব্রজবাসিজনাদিষু ৷  
 রাগাত্মিকামনুসৃতা যা সা রাগানুগোচ্যতে ॥ ১৪৯ ॥
@@ -2027,4 +2027,18 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^31]: The same verse as 46; translation as there.
 
-[^32]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
+[^32]: The same verse as Ādi 1.60; translation as there.
+
+[^33]: The edition’s heading: “words of the Gosvāmipāda” (*gosvāmipādokti*).
+
+[^34]: “All this” is the two kinds of bad association named in verse 84 (*Amṛta-pravāha-bhāṣya*). *Anubhāṣya* (heading): this is the conduct of the *paramahaṁsa*, the Vaiṣṇava who has nothing of his own.
+
+[^35]: The same verse as Madhya 8.63 and 9.265; translation as there. The verse number is not printed in the edition.
+
+[^36]: The edition’s heading: “words of the *Vaiṣṇava-tantra*”; the *Hari-bhakti-vilāsa* (11.417) quotes the verse from it.
+
+[^37]: The edition’s heading: *Hari-bhakti-vilāsa*, 11.418, quoting the *Vaiṣṇava-tantra*.
+
+[^38]: *Anubhāṣya* (headings to 99–100): the Vaiṣṇava is non-different from Kṛṣṇa in nature — like Him, full of eternity, knowledge and bliss; this is not an identity of the jīva with God.
+
+[^39]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.

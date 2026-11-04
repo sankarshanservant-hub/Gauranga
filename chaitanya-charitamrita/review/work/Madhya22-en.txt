@@ -521,6 +521,7 @@ w: become  to heart and ear  delightful  talks
 w: by relishing them  quickly  on the path of liberation
 w: faith,  attraction,  love  will follow in turn
 tr: (Lord Kapila to His mother Devahūti:) “In the company of the saints there are talks revealing My power, delightful to the heart and to the ear. By relishing them one quickly comes to faith in Me, the path of liberation, and after it to attraction (*rati*) and love (*prema-bhakti*).” (Śrīmad-Bhāgavatam, 3.25.25)
+fn: The same verse as Ādi 1.60; translation as there.
 
 ## 84
 w: of bad association  the rejection  this  Vaiṣṇava  conduct
@@ -558,12 +559,14 @@ tr: “Better to dwell in a cage amid blazing flames than to suffer the torment 
 ## 89
 w: do not  look at  whose piety is spent  ever  even
 w: for the Lord  devotion  devoid of  people
-tr: “Never even look upon people who are devoid of devotion to the Lord, whose piety is spent.”
+tr: “Never even look upon people who are devoid of devotion to the Lord, whose piety is spent.” (Words of the Gosvāmipāda)
+fn: The edition’s heading: “words of the Gosvāmipāda” (*gosvāmipādokti*).
 
 ## 90
 w: these  all  giving up  and  of varṇa and āśrama  the dharma
 w: owning nothing  becoming  he takes  of Kṛṣṇa alone  shelter
 tr: Giving up all this, and the *dharma* of *varṇa* and *āśrama* as well, he becomes *akiñcana*, one who owns nothing, and takes shelter of Kṛṣṇa alone.
+fn: “All this” is the two kinds of bad association named in verse 84 (*Amṛta-pravāha-bhāṣya*). *Anubhāṣya* (heading): this is the conduct of the *paramahaṁsa*, the Vaiṣṇava who has nothing of his own.
 
 ## 91
 w: all  dharmas  giving up
@@ -571,6 +574,7 @@ w: to Me  alone  for shelter  come
 w: I  you  from all  sins
 w: shall free  do not  grieve
 tr: “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+fn: The same verse as Madhya 8.63 and 9.265; translation as there. The verse number is not printed in the edition.
 
 ## 92
 w: affectionate to His devotees  grateful  all-capable  generous
@@ -607,18 +611,21 @@ w: of what is unfavourable  rejection
 w: He will protect  thus  faith  as protector  acceptance  likewise
 w: offering of the self  humility  six kinds of  surrender
 tr: “Surrender (*śaraṇāgati*) is of six kinds: the resolve to accept what is favourable to devotion; the rejection of what is unfavourable; faith that He will protect; acceptance of Him as one’s guardian; the offering of oneself; and humility.” (Hari-bhakti-vilāsa, 11.417)
+fn: The edition’s heading: “words of the *Vaiṣṇava-tantra*”; the *Hari-bhakti-vilāsa* (11.417) quotes the verse from it.
 
 ## 98
 w: ‘Yours  I am’  thus  saying  with speech
 w: just so  with the mind  knowing
 w: of Him  the abode  taking shelter of  with the body
 w: rejoices  the surrendered soul
-tr: “Saying with his words, ‘I am Yours,’ knowing it so in his mind, and with his body taking shelter of the Lord’s abode, the surrendered soul rejoices.” (Hari-bhakti-vilāsa, 11.418)
+tr: “Saying with his words, ‘I am Yours’, knowing it so in his mind, and with his body taking shelter of the Lord’s abode, the surrendered soul rejoices.” (Hari-bhakti-vilāsa, 11.418)
+fn: The edition’s heading: *Hari-bhakti-vilāsa*, 11.418, quoting the *Vaiṣṇava-tantra*.
 
 ## 99
 w: shelter  taking  he makes  to Kṛṣṇa  the offering of himself
 w: Kṛṣṇa  him  makes  at that moment  like Himself
 tr: Taking shelter, he offers himself to Kṛṣṇa, and at that very moment Kṛṣṇa makes him like Himself.
+fn: *Anubhāṣya* (headings to 99–100): the Vaiṣṇava is non-different from Kṛṣṇa in nature — like Him, full of eternity, knowledge and bliss; this is not an identity of the jīva with God.
 
 ## 100
 w: a mortal  when  having given up  all  works
@@ -989,4 +996,3 @@ tr: Whoever hears of *sādhana-bhakti*, the *abhidheya*, very soon obtains the t
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
-
