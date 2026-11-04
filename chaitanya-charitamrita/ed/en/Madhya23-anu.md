@@ -18,7 +18,7 @@
 
 > Subheading: The definition of *bhāva*; its essential and accompanying characteristics — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, third *laharī*, first verse) —
 
-**śuddha-sattva-viśeṣātmā** (the *bhāva* whose *ātmā* — that is, whose eternally perfect nature, residing in the Lord's eternal beloved ones — is that very special *śuddha-sattva*: a function [*vṛtti*] of Bhagavān Kṛṣṇa's *svarūpa-śakti* called *saṁvit*, which illumines everything) **prema-sūryāṁśu-sāmya-bhāk** (resembling a ray of the sun of *prema* — the first glimmer of *prema*) **rucibhiḥ** (by desires: the desire to attain [the Lord], the desire oneself to serve Him favorably, and the desire for intimate affection with Him) **citta-māsṛṇya-kṛt** (which makes the heart soft and moist) **asau** **bhāvaḥ** (the sprout of *prema*) **ucyate**.
+**śuddha-sattva-viśeṣātmā** (the *bhāva* whose *ātmā* — that is, whose eternally perfect nature, residing in the Lord's eternal beloved ones — is that very special *śuddha-sattva*: a function [*vṛtti*] of Bhagavān Kṛṣṇa's *svarūpa-śakti* called *saṁvit*, which illumines everything)[^5-1] **prema-sūryāṁśu-sāmya-bhāk** (resembling a ray of the sun of *prema* — the first glimmer of *prema*) **rucibhiḥ** (by desires: the desire to attain [the Lord], the desire oneself to serve Him favorably, and the desire for intimate affection with Him) **citta-māsṛṇya-kṛt** (which makes the heart soft and moist) **asau** **bhāvaḥ** (the sprout of *prema*) **ucyate**.
 
 ## 6
 
@@ -32,13 +32,13 @@ The two kinds of *bhāva*: (1) *bhāva* born of absorption in *sādhana*; (2) *b
 
 > Subheading: The definition of *prema* — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, fourth *laharī*, first verse) —
 
-**samyaṅ-masṛṇita-svāntaḥ** (that by which the heart is completely softened, moistened) **mamatvātiśayāṅkitaḥ** (marked by an intense sense of “He is mine”) — having these two accompanying characteristics — **yaḥ** **sāndrātmā** (dense in its very nature) (having this essential characteristic) **bhāvaḥ**, **saḥ eva** **budhaiḥ** **‘premā’** **nigadyate** (is called).
+**samyaṅ-masṛṇita-svāntaḥ** (that by which the heart is completely softened, moistened) **mamatvātiśayāṅkitaḥ** (marked by an intense sense of “He is mine”)[^7-1] — having these two accompanying characteristics — **yaḥ** **sāndrātmā** (dense in its very nature) (having this essential characteristic) **bhāvaḥ**, **saḥ eva** **budhaiḥ** **‘premā’** **nigadyate** (is called).
 
 ## 8
 
 > Subheading: The definition of *prema* according to the Pañcarātra — (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, fourth *laharī*, second verse) (the words of the *Nārada-pañcarātra*) —
 
-**viṣṇau** (toward Bhagavān) **prema-saṅgatā** (full of *prema*) **ananya-mamatā** (exclusive [*aikāntikī*], full of relationship with Him) **mamatā** (love [*prīti*]) — **iti** **bhīṣma-prahlādoddhava-nāradaiḥ** (by the devotees) (it) **bhaktiḥ** (*bhāva*) **ucyate**.
+**viṣṇau** (toward Bhagavān) **prema-saṅgatā** (full of *prema*) **ananya-mamatā** (exclusive [*aikāntikī*], full of relationship with Him)[^8-1] **mamatā** (love [*prīti*]) — **iti** **bhīṣma-prahlādoddhava-nāradaiḥ** (by the devotees) (it) **bhaktiḥ** (*bhāva*) **ucyate**.
 
 ## 9
 
@@ -362,7 +362,13 @@ See Ādi 4.83.
 
 ---
 
+[^5-1]: The verse translation reads differently: “in a saint whose life is pure and transcendental (*śuddha-sattva*)”; for the commentators *śuddha-sattva* is the very nature of *bhāva* (a function of the *svarūpa-śakti*).
+
 [^6-1]: *Bhakti-rasāmṛta-sindhu* 1.3.6.
+
+[^7-1]: The verse translation reads differently: “a sense of complete inseparability from Him”; for the commentators *mamatva* is the sense “He is mine.”
+
+[^8-1]: The verse translation reads differently: “the sense of oneness of the soul and the Supreme Lord”; for both commentators *ananya-mamatā* is the sense “He is mine” directed to Viṣṇu alone.
 
 [^14-15-1]: *Śrīmad-Bhāgavatam* 11.19.36.
 

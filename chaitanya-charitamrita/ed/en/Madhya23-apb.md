@@ -58,7 +58,7 @@ Filled with *rati* for Hari, this crest jewel of kings, begging alms in the city
 
 ## 30
 
-“O Govinda, this young Rādhikā today, with teardrops in Her lotus eyes, is singing Your names in a sweet voice.”
+“O Govinda, this young Rādhikā today[^30-1], with teardrops in Her lotus eyes, is singing Your names in a sweet voice.”
 
 ## 33
 
@@ -89,3 +89,7 @@ Of the four kinds of *vipralambha* in Rādhikā and the other gopīs, three are 
 ## 63
 
 Svayaṁ Bhagavān Kṛṣṇa is the crest jewel of all heroes (*nāyakas*); in that Kṛṣṇa all great qualities eternally shine.
+
+---
+
+[^30-1]: The verse translation reads differently: “sings unceasingly”; the commentators take *adya* as “today.”
